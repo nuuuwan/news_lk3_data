@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 08:34:41**
+As of **2024-06-25 08:53:47**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 5,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,003 (100.0%) of 32,005 articles have been extended.
+32,005 (100.0%) of 32,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### පලස්තීන ළමයින් 21,000ක් අතුරුදන්
+### 21,000 Palestinian children go missing
 
 *2024-06-25 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198125) · `si`
 
-ගාසා යුද්ධය අතරතුර පලස්තීන ළමයින් 21,000ක් ආගිය අතක් නොමැති බව සේව් ද චිල්ඩ්‍රන් සංවිධානය පළකළ නවතම වාර්තාවකින් අනාවරණ වී තිබේ.
+A report reveals that during the Gaza War, 21,000 Palestinian children went missing.
+
+🟩
+
+The latest report has been revealed that 21,000 Palestinian children have been in the event of the Gaza War.
 
 ◼️
 
 [Data](articles/06ea08ae.json)
 
+[Extended Data](ext_articles/06ea08ae.ext.json)
+
 ---
 
-### විකිලීක්ස් වෙබ් අඩවියේ නිර්මාතෘට නිදහස
+### Freedom to the Creator of the WikiLeaks website
 
 *2024-06-25 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198124) · `si`
 
-රහස් තොරතුරු හෙළිදරව් කිරීමේ වෙබ් අඩවියක් වන විකිලීක්ස්හි නිර්මාර්තෘ ජූලියන් අසාන්ජ්ව වසර ගණනාවකට පසුව එක්සත් රාජධානියේ බන්ධනාගාරයකින් නිදහස් කර තිබේ.
+Julian Assange, founder of WikiLeaks, was released from a UK prison after being held for several years without charges directly related to his disclosures. His release comes amid allegations against him by the U.S., which had previously charged him with 18 counts related to WikiLeaks' activities. Assange was arrested in April 2019 and imprisoned in Belmarsh, a high-security facility in London.
 
-විදෙස් මාධ්‍ය සඳහන් කර ඇත්තේ, අමෙරිකාව සමග ඇති කරගත් ගිවිසුමක් සම්බන්ධයෙන් ඇති වූ එකඟත්වය මත ජුලියන් අසාන්ජ්ට එල්ල වී තිබූ චෝදනා සම්බන්ධයෙන් මෙම නිදහස හිමිව ඇති බවය.
+🟩
 
-විකිලීස් වෙඩ්අඩවිය හරහා අමෙරිකානු රහස්‍ය ලේඛන හෙළිදරව් කිරීම හේතුවෙන් අමෙරිකානු අධිකරණ දෙපාර්තමේන්තුව විකිලීක්ස් වෙබ්අඩවි නිර්මාතෘ ජුලියන් ආසන්ජ්ට එරෙහිව චෝදනා 18ක් ගොනුකර තිබිණි.
+WikiLeaks a website to disclose a secret information, Julian Assange was released from a UK prison for many years.
 
-ඒ අනුව ඔහුව 2019 වසරේ අප්‍රේල් 11 වැනි දින අත්අඩංගුවට ගෙන ලන්ඩනයේ අධිආරක්ෂිත බන්ධනාගාරයක් වන බෙල්මාර්ෂ් බන්ධනාගාරය වෙත යවන ලදී.
+Foreign media has said that this freedom has been given to the allegations made by Julian Assange on the agreement with an agreement with the US.
+
+The US Judicial Department had filed 18 accusations from the US Judicial Department of WikiLeaks WikiLeaks.
+
+Accordingly, he was arrested on 11th April 2019 and sent to the Belmarush Prison, a London's high security prison.
 
 ◼️
 
 [Data](articles/4602b207.json)
+
+[Extended Data](ext_articles/4602b207.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 08:21:53**
+As of **2024-06-25 08:34:41**
 
 ## Newspaper Stats
 
-*Scraped **32,003** Articles*
+*Scraped **32,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,69 @@ adaderanalk | 3,635
 tamilmirrorlk | 3,769
 dailymirrorlk | 4,733
 virakesarilk | 4,950
-adaderanasinhalalk | 5,245
+adaderanasinhalalk | 5,247
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,002 (100.0%) of 32,003 articles have been extended.
+32,003 (100.0%) of 32,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### සුබ ආරංචිය එනවාට බය අය ඇමති මනූෂ හෙළි කරයි
+### පලස්තීන ළමයින් 21,000ක් අතුරුදන්
+
+*2024-06-25 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198125) · `si`
+
+ගාසා යුද්ධය අතරතුර පලස්තීන ළමයින් 21,000ක් ආගිය අතක් නොමැති බව සේව් ද චිල්ඩ්‍රන් සංවිධානය පළකළ නවතම වාර්තාවකින් අනාවරණ වී තිබේ.
+
+◼️
+
+[Data](articles/06ea08ae.json)
+
+---
+
+### විකිලීක්ස් වෙබ් අඩවියේ නිර්මාතෘට නිදහස
+
+*2024-06-25 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198124) · `si`
+
+රහස් තොරතුරු හෙළිදරව් කිරීමේ වෙබ් අඩවියක් වන විකිලීක්ස්හි නිර්මාර්තෘ ජූලියන් අසාන්ජ්ව වසර ගණනාවකට පසුව එක්සත් රාජධානියේ බන්ධනාගාරයකින් නිදහස් කර තිබේ.
+
+විදෙස් මාධ්‍ය සඳහන් කර ඇත්තේ, අමෙරිකාව සමග ඇති කරගත් ගිවිසුමක් සම්බන්ධයෙන් ඇති වූ එකඟත්වය මත ජුලියන් අසාන්ජ්ට එල්ල වී තිබූ චෝදනා සම්බන්ධයෙන් මෙම නිදහස හිමිව ඇති බවය.
+
+විකිලීස් වෙඩ්අඩවිය හරහා අමෙරිකානු රහස්‍ය ලේඛන හෙළිදරව් කිරීම හේතුවෙන් අමෙරිකානු අධිකරණ දෙපාර්තමේන්තුව විකිලීක්ස් වෙබ්අඩවි නිර්මාතෘ ජුලියන් ආසන්ජ්ට එරෙහිව චෝදනා 18ක් ගොනුකර තිබිණි.
+
+ඒ අනුව ඔහුව 2019 වසරේ අප්‍රේල් 11 වැනි දින අත්අඩංගුවට ගෙන ලන්ඩනයේ අධිආරක්ෂිත බන්ධනාගාරයක් වන බෙල්මාර්ෂ් බන්ධනාගාරය වෙත යවන ලදී.
+
+◼️
+
+[Data](articles/4602b207.json)
+
+---
+
+### Such fears reveal the minister Manusha
 
 *2024-06-25 07:55:04* · [`adalk`](https://www.ada.lk/breaking_news/සුබ-ආරංචිය-එනවාට-බය-අය-ඇමති-මනූෂ-හෙළි-කරයි/11-410418) · `si`
 
-රටට ජනතාවට ආදරේ නොකර අය, රටට සුබ ආරංචියක් එනවාට බිය වී තිබෙන බවත්, රටට සුබ ආරංචියක් එන බව දැනගත් ඔවුන් භූමිතෙල් ගෑවුණ ගැරඩි වගේ හතර අතේ දිවීමට පටන් ගෙන ඇති බවත් කම්කරු හා විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතා පැවසීය.
+In a speech at the Moneragala District Office, the Minister highlighted the importance of foreign employment, noting that despite fears, many return to contribute significantly to the economy, sending over US$12 billion in the last two years. The Minister criticized those who oppose progress and expressed gratitude towards leaders like President Rajapaksa and Prime Minister Wickremesinghe for their dedication to the nation's development.
 
-ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ මොනරාගල දිස්ත්‍රික් කාර්යාලය විවෘත කිරීමේ අවස්ථාවට එක්වෙමින් අමාත්‍යවරයා මේ බව පැවසුවේය.
+🟩
 
-"මේ රටට වින කරන, කවදාවත් මේ රට ගොඩ ගන්න ඉඩ දෙන්නේ නැති, මේ ර්ටේ මිනිස්සුන්ට ආදරය කරන්නේ නැති, ජනතාව පෝලිම්වල මැරෙනවාට කැමැති, බෙහෙත් නැතිව මැරෙනවාට කැමැති, පාසල් වහලා තියෙනවාට කැමැති, විදුලිය, කිරිපිටි නැතිවෙනවාට කැමැති අය රටට සල්ලි එවන්න එපා කිව්වා. කවුරුවත් නෙමෙයි ජනතා විමුක්ති පෙරමුණ තමයි මෙහෙම කිව්වේ.
+Those who were afraid to come to the country and learned that the country would come to the country, and they had begun to run to the country and began to date on the four hand.
 
-ඒත් විදේශ ගත ශ්‍රමිකයින් පසුගිය ඩසර දෙක තුළදී ඇමරිකානු ඩොලර් බිලියන 12ක විතර මුදලක් මේ රටට එවලා තියෙනවා. රටට නැවත හුස්මගන්න පුලුවන් වාතාවරණයක් ඇති කරන්න, ජනාධිපතිතුමාගේ වැඩපිළිවෙලට ශක්තියක් වුනේ විදේශ ගත ශ්‍රමිකයින්, බලපත්‍රලාභීන් හා විදේශ සේවා නියුක්ති කාර්යාංශයයි.
+The Minister was speaking at the opening ceremony of the Moneragala District Office of the Sri Lanka Bureau of Foreign Employment.
+
+Those who wish to fall in the queue, the people who want to die and die of the country, who want to die and die of medication never to die and die of the country will be sent to death and die without medication.. Nobody says the JVP.
+
+But foreign workers have sent about US $ 12 billion in the past two dsara. The President's program was able to breathe back to the country.
 
 ...
 
 [Data](articles/e25d661b.json)
+
+[Extended Data](ext_articles/e25d661b.ext.json)
 
 ---
 
@@ -2177,57 +2213,5 @@ The Secretary of the Ministry of Education has asked the Secretary to the Minist
 [Data](articles/4e3a6c8f.json)
 
 [Extended Data](ext_articles/4e3a6c8f.ext.json)
-
----
-
-### Tension in Kalmunai area;Traffic impact;7 hours
-
-*2024-06-24 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/186845) · `ta`
-
-Protests in Kalmunai disrupt traffic, blocking the Batticaloa-Kalmunai road for 7 hours. Demonstrators demand solutions from the Kalmunai North Divisional Secretariat, highlighting 92 days of administrative repression. Authorities negotiate with civil society activists, suspending the road blockade temporarily.
-
-🟩
-
-The traffic of the Batticaloa -Kalmunai main road has been disrupted as a demonstration has been held on Monday (24) demanding an immediate solution to the Kalmunai North Divisional Secretariat.
-
-In addition, the public was protesting that the authorities were locked at the entrance of the Divisional Secretariat.
-
-A massive demonstration is taking place today as the struggle is being carried out for 92 consecutive days, condemning the administrative repression against the Kalmunai North Divisional Secretariat.
-
-Due to this demonstration, the police have taken steps to send vehicles to alternate streets as the Batticaloa -Kalmunai road has been blocked.
-
-Meanwhile, the Kalmunai Nagar protesters were in the hands of the Kalmunai Nagar protesters for 7 hours and the road picket struggle was suspended by the authorities to hold a discussion with the District Government Agent and civil society activists.
-
-...
-
-[Data](articles/bf2793cd.json)
-
-[Extended Data](ext_articles/bf2793cd.ext.json)
-
----
-
-### There will be the case after Wijayadasa
-
-*2024-06-24 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198095) · `si`
-
-After Wijayadasa's case, the SLFP Chairman assures no leadership crisis post-presidential election victory. He spoke in Kandy, mentioning Maithripala Sirisena's meeting where it was discussed that all constitutional issues against him had been dismissed, ensuring party unity. He also mentioned efforts to tackle internal issues and introduce a new logo, indicating a fresh start for the party.
-
-🟩
-
-The Chairman of the Sri Lanka Freedom Party (SLFP) says that after the victory of the presidential election, the SLFP's censorship will not arise regarding the leadership of the party.
-
-He was speaking to the media yesterday (23) in Kandy yesterday.
-
-The International Representative of the Sri Lanka Freedom Party (SLFP) Meeting was held yesterday by the former party Maithripala Sirisena and the Chairman of the Block.
-
-"Coming to presidential election. We win. All the cases against me dismissed all the constitution. Then the party leadership will not appear. If those who are being held in the Kandy's leadership and positions, they were told by the Boxed. The party is good. Trying 10 of those who have been in the guns are trying to give the party to stir their stadia. "
-
-"When a vote came from other points. From the chair, from the bullets, hunz, pove. Then the last decade has not been compatable. We introduce a new logo. "
-
-◼️
-
-[Data](articles/006d33c4.json)
-
-[Extended Data](ext_articles/006d33c4.ext.json)
 
 ---

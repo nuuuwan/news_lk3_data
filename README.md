@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 02:19:27**
+As of **2024-06-26 02:34:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,274
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,152 (100.0%) of 32,156 articles have been extended.
+32,156 (100.0%) of 32,156 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,51 +54,69 @@ Government officials are working hard to win the project. Many are supporting th
 
 ---
 
-### லங்கா பிறீமியர் லீக்கில் பங்கேற்கும் 5 அணிகளின் விபரங்கள்
+### Details of 5 teams participating in the Lanka Premier League
 
 *2024-06-26 01:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/186978) · `ta`
 
-ஸ்ரீலங்கா கிரிக்கெட் நிறுவனத்தினால் ஏற்பாடு செய்யப்பட்டுள்ள ஐந்தாவது லங்கா பிறீமியர் லீக் (LPL) போட்டியில் பங்குபற்றும் 5 அணிகளின் விபரங்களை ஸ்ரீலங்கா கிரிக்கெட் வெளியிட்டது.
+The Lanka Premier League (LPL) features five teams from Colombo, Kandy, Jaffna, Galle, and Dambulla. This year marks the fifth edition of the tournament organized by Sri Lanka Cricket.
 
-இந்த வருடப் போட்டியில் கொழும்பு, கண்டி, யாழ்ப்பாணம், காலி, தம்புள்ளை ஆகிய பிரதேசங்களைப் பிரதிநிதித்துவப்படுத்தும் ஐந்து அணிகள் விளையாடவுள்ளன.
+🟩
+
+Sri Lanka Cricket has released details of 5 teams participating in the Fifth Lanka Premier League (LPL) organized by Sri Lanka Cricket.
+
+This year's competition will play five teams representing Colombo, Kandy, Jaffna, Galle and Dambulla.
 
 ◼️
 
 [Data](articles/e1c541d5.json)
 
+[Extended Data](ext_articles/e1c541d5.ext.json)
+
 ---
 
-### நியாயமான வரிவிதிப்பு மற்றும் நிலைபேறான அபிவிருத்தி இலக்குகள் பற்றிய வலுவான முதலாவது தேசிய உரையாடல்
+### Strong First National Conversation on Fair Taxation and Sustainable Development Goals
 
 *2024-06-26 00:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/186976) · `ta`
 
-இலங்கையில் உள்ள ஐக்கிய நாடுகளின் அபிவிருத்தித் திட்டம் (UNDP) ஆனது, நிதியமைச்சு, உள்நாட்டு இறைவரித் திணைக்களம், மொரட்டுவை பல்கலைக்கழகம், இலங்கையின் தேசிய புத்தாக்க முகவர் நிறுவனம் ஆகியவற்றுடன் இணைந்து, நாட்டில் காணப்படும் வரிவிதிப்பு மற்றும் நிதிக் கொள்கைகள் தொடர்பில் காணப்படும் சமகாலப் பிரச்சினைகளைத் தீர்ப்பதற்கு, தேசிய வரி தொடர்பான கலந்ரையாடலுக்கான முதலாவது கூட்டத்தை நடாத்தியது.
+The inaugural national conversation on fair taxation and sustainable development goals in Sri Lanka, organized by the UNDP and government departments, aimed to address contemporary taxation and financial policy challenges. It focused on economic reforms, public opinion, transparency, company income, and digitalizing public services. The event highlighted the importance of aligning tax structures with sustainable development goals, emphasizing the need for resource optimization and citizen participation for effective socio-economic progress.
 
-இந்த ஆரம்ப நிகழ்வில் நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க, இலங்கைக்கான UNDP இன் வதிவிடப் பிரதிநிதி Azusa Kubota ஆகியோர் பங்குபற்றியிருந்தனர்.
+🟩
 
-தற்போதைய பொருளாதார சீர்திருத்தங்கள் மற்றும் பொதுமக்களின் எண்ணங்களை வெளிக் கொண்டு வர வேண்டியதன் அவசியத்தின் அடிப்படையில் இந்த தேசிய கலந்துரையாடல் அமைந்திருந்தது. வரியின் நோக்கம், சமூக அல்லது நிதி தொடர்பான ஒப்பந்தம், வரி விதிப்பில் நேர்மைத் தன்மை, வெளிப்படைத்தன்மை மற்றும் வருமானம் தொடர்பில் நிறுவனங்களின் பொறுப்புக்கூறல், அரச சேவையை டிஜிட்டல் மயமாக்குதல் ஆகியன தொடர்பில் இங்கு கவனம் செலுத்தப்பட்டது.
+The United Nations Development Program in Sri Lanka (UNDP), along with the Department of Finance, the Department of Home Affairs, the University of Moratuwa and the National Innovation Agency of Sri Lanka, held the first meeting on the national tax to solve the contemporary issues on taxation and financial policies found in the country.
+
+Finance Minister Shehan Semasinghe and UNDP Resident Representative for Sri Lanka Azusa Kubota were also present at the event.
+
+The national discussion was based on the need to reveal the current economic reforms and the thoughts of the public. The purpose of the line, social or financial contract, honesty in taxation, transparency and income of companies, and digitalization of public service.
 
 ...
 
 [Data](articles/b0322e5a.json)
 
+[Extended Data](ext_articles/b0322e5a.ext.json)
+
 ---
 
-### தம்புள்ளையில் மகளிர் ரி20 ஆசிய கிண்ண கிரிக்கெட்: பி குழுவில் இலங்கை
+### Women's R20 Asian Bowl Cricket in Dambulla: Sri Sri Lanka
 
 *2024-06-26 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/186977) · `ta`
 
-ரங்கிரி, தம்புள்ளை சர்வதேச கிரிக்கெட் அரங்கில் அடுத்த மாதம் நடைபெறவுள்ள மகளிர் ரி20 ஆசிய கிண்ண  கிரிக்கெட் போட்டிக்கான அட்டவணை வெளியிடப்பட்டுள்ளது.
+The Women's R20 Asian Cup starts next month in Dambulla, featuring teams from Asia. The tournament aims to prepare participants for the Women's T20 World Cup, with matches scheduled between July 26th and 28th.
 
-ஏ குழுவில் இந்தியா, பாகிஸ்தான்,  ஐக்கிய அரபு இராச்சியம், நேபாளம் ஆகியனவும் பி குழுவில் பங்களாதேஷ், இலங்கை, மலேசியா, தாய்லாந்து ஆகியனவும் இடம்பெறுகின்றன.
+🟩
 
-அரை இறுதிப் போட்டிகள் ஜுலை 26ஆம் திகதியும் இறுதிப் போட்டி ஜூலை 28ஆம் திகதியும் நடைபெறும்.
+A schedule for the women's R20 Asian Cup will be released next month at the Rangiri, Dambulla International Cricket Hall.
 
-பங்களாதேஷில் அக்டோபர் மாதம் நடைபெறவுள்ள மகளிர் ரி20 உலகக் கிண்ணப் போட்டிக்கு முன்னர் ஆசிய நாடுகள் தங்களைத் தயார்படுத்திக்கொள்ளும் போட்டியாக மகளிர் ரி20 ஆசிய கிண்ண கிரிக்கெட் போட்டி அமையவுள்ளது.
+The A group includes India, Pakistan, the United Arab Emirates and Nepal and the B group is Bangladesh, Sri Lanka, Malaysia and Thailand.
+
+The semi -finals will be held on July 26 and the final will be held on July 28.
+
+The Women's T20 Asian Bowl will be a competition to prepare themselves before the Women's T20 World Cup in Bangladesh.
 
 ◼️
 
 [Data](articles/0273a672.json)
+
+[Extended Data](ext_articles/0273a672.ext.json)
 
 ---
 
@@ -318,21 +336,27 @@ Of the 20,000 qualification, 1,758 people were figuratively awarded land deeds.
 
 ---
 
-### ஜனாதிபதி ரணில் விக்ரமசிங்கவே இலங்கை வரலாற்றில் பெண்கள் வலுவூட்டலுக்கான சட்டத்தை  கொண்டு வந்தார் - கீதா குமாரசிங்க
+### President Ranil Wickremesinghe has introduced women's reinforcement law in Sri Lankan history - Geeta Kumarasinghe
 
 *2024-06-25 20:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/186975) · `ta`
 
-இலங்கையின் அரசியல் வரலாற்றில் பெண் உரிமைகள்,  பெண்களுக்கான சம அந்தஸ்து தொடர்பான எந்தவொரு சட்டமூலமும் கொண்டு வரவில்லை என மகளிர் மற்றும் சிறுவர் விவகார இராஜாங்க அமைச்சர் கீதா குமாரசிங்க தெரிவித்தார்.
+Sri Lanka's President Ranil Wickremesinghe introduced a historic women's reinforcement law, marking the first time such legislation has been enacted in the country's political history. Led by Minister of State for Women and Child Affairs Geeta Kumarasinghe, the law aims to enhance women's rights and status, establish a national policy for women's advancement, and create mechanisms for protecting women's rights, including a National Women's Commission. It also addresses gender and sexual discrimination, setting a precedent for future legislative efforts to empower women.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் அறிவுறுத்தலுக்கமைய பாராளுமன்றத்தில் சமர்பிக்கப்பட்ட பெண்கள் வலுவூட்டலுக்கான சட்டமூலம் நிறைவேற்றப்பட்டுள்ளதாகவும் இராஜாங்க அமைச்சர் சுட்டிக்காட்டினார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (25) நடைபெற்ற செய்தியாளர் சந்திப்பில் கருத்து தெரிவிக்கும் போதே மகளிர் மற்றும் சிறுவர் விவகார இராஜாங்க அமைச்சர் கீதா குமாரசிங்க இதனைத் தெரிவித்தார்.
+Minister of State for Women and Child Affairs Geeta Kumarasinghe said that there was no bill on women's rights and women's status in Sri Lanka's political history.
 
-''பெண்கள் வலுவூட்டல் சட்டம் பாராளுமன்றத்தில் நிறைவேற்றப்பட்டுள்ளது. இலங்கையின் அரசியல் வரலாற்றில், பெண்களின் உரிமைகள் அல்லது பெண்களுக்கு சம அந்தஸ்த்து வழங்குவதற்கான எந்த சட்டமும் கொண்டு வரப்படவில்லை. இந்தச் சட்டத்தின் மூலம், பெண்களை வலுவூட்டுவதற்கான ஏற்பாடுகளைச் செய்வதற்காக, பெண்களின் முன்னேற்றத்திற்கான ஒரு தேசியக் கொள்கை தயாரிக்கப்படும்.
+The Minister of State also pointed out that the women's reinforcement bill presented in Parliament on the instructions of President Ranil Wickremesinghe has been passed.
+
+Minister of Women and Child Affairs Geeta Kumarasinghe made this statement while addressing a press conference held at the Presidential Media Center on Tuesday (25).
+
+“The Women's Reinforcement Act has been passed in Parliament. In the political history of Sri Lanka, no law has been enacted to provide women's rights or equal status to women. Through this law, a national policy will be prepared for women's progress to make arrangements for strengthening women.
 
 ...
 
 [Data](articles/d7469e32.json)
+
+[Extended Data](ext_articles/d7469e32.ext.json)
 
 ---
 

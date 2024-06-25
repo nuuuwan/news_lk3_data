@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 21:19:29**
+As of **2024-06-25 21:34:51**
 
 ## Newspaper Stats
 
-*Scraped **32,138** Articles*
+*Scraped **32,139** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,867
 dailyftlk | 1,964
 adalk | 2,831
 adaderanalk | 3,651
-tamilmirrorlk | 3,788
+tamilmirrorlk | 3,789
 dailymirrorlk | 4,733
 virakesarilk | 4,984
 adaderanasinhalalk | 5,269
@@ -26,11 +26,21 @@ adaderanasinhalalk | 5,269
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,138 (100.0%) of 32,138 articles have been extended.
+32,138 (100.0%) of 32,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### அதிகாரிகள் பற்றிய தகவல்களை உடனடியாக வழங்குங்கள் - ஜனாதிபதி
+
+*2024-06-25 20:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகாரிகள்-பற்றிய-தகவல்களை-உடனடியாக-வழங்குங்கள்-ஜனாதிபதி/175-339431) · `ta`
+
+◼️
+
+[Data](articles/66d7b7be.json)
+
+---
 
 ### The world's deception from Negombo to the
 
@@ -2375,27 +2385,5 @@ More than 14,000 children have been killed in Israeli air strikes in Gaza since 
 [Data](articles/4f66b244.json)
 
 [Extended Data](ext_articles/4f66b244.ext.json)
-
----
-
-### Navy soldier killed Indian fishermen
-
-*2024-06-25 09:50:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்களை-கைது-செய்ய-சென்ற-கடற்படை-வீரர்-உயிரிழப்பு/175-339373) · `ta`
-
-A navy soldier died from injuries sustained while arresting 10 Indian fishermen caught illegally fishing by boat.
-
-🟩
-
-A naval soldier who was injured when he went to arrest a group of Indian fishermen has died after being admitted to the hospital.
-
-The Navy said that 10 Indian fishermen have been arrested for fishing by boat illegally.
-
-A navy soldier was injured when he went to arrest the group.
-
-◼️
-
-[Data](articles/e8dcf042.json)
-
-[Extended Data](ext_articles/e8dcf042.ext.json)
 
 ---

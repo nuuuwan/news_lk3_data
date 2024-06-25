@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 14:34:40**
+As of **2024-06-25 14:53:29**
 
 ## Newspaper Stats
 
-*Scraped **32,071** Articles*
+*Scraped **32,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,781
 economynextcom | 1,853
 dailyftlk | 1,964
-adalk | 2,820
+adalk | 2,821
 adaderanalk | 3,646
-tamilmirrorlk | 3,779
+tamilmirrorlk | 3,781
 dailymirrorlk | 4,733
 virakesarilk | 4,964
 adaderanasinhalalk | 5,261
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,261
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,071 (100.0%) of 32,071 articles have been extended.
+32,071 (100.0%) of 32,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### பெண் பிசாசை தாக்கிய மூன்று பேய்கள் கைது
+
+*2024-06-25 13:56:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-பிசாசை-தாக்கிய-மூன்று-பேய்கள்-கைது/175-339396) · `ta`
+
+பொசன் பண்டிகையை முன்னிட்டு சிறு பிள்ளைகள் ஒன்று சேர்ந்து வைத்திருந்த பேய் வீட்டினுள் குடிபோதையில் நுழைந்த மூவர், பிசாசாக காட்சியளித்த சிறுமியை தாக்கியுள்ள சம்பவம், களுத்துறை பல்பொல பிரதேசத்தில் இடம்பெற்றுள்ளது.
+
+களுத்துறை வடக்கு பல்பொல படகு வீதியைச் சேர்ந்த ஏ.டி.சிதும் லக்மினா என்ற பாடசாலை மாணவியே இவ்வாறு தாக்கப்பட்டு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக களுத்துறை போதனா வைத்தியசாலையின் பேச்சாளர் தெரிவித்தார்.
+
+அப்பகுதியைச் சேர்ந்த சிறுவர்கள் ஒன்று கடுமையாக உழைத்து  பேய் வீட்டை தயார் செய்து சில நாட்கள் நடத்தியுள்ளனர்.  மூன்றாவது இரவு நிகழ்ச்சியின் போது மூன்று குடிகாரர்கள் பேய்கள் குகைக்குள் நுழைந்தனர்.
+
+வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்த சிறுமியை தாக்கியவர் பிசாசு என தாக்கியதாகவும், பாதிக்கப்பட்ட மூவரும் பிசாசின் கழுத்தை பிடித்து தாக்கியதாகவும் கூறப்படுகிறது. களுத்துறை வடக்கு பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/da0c4ca6.json)
+
+---
 
 ### Ministry of Education announced on allowances
 
@@ -75,6 +93,24 @@ Accordingly, the Cabinet Spokesman Bandula Gunawardena said that the agreements 
 [Data](articles/27cb3da6.json)
 
 [Extended Data](ext_articles/27cb3da6.ext.json)
+
+---
+
+### விஜயதாஸவுக்கு எதிரான தடையுத்தரவு நீடிப்பு
+
+*2024-06-25 13:39:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயதாஸவுக்கு-எதிரான-தடையுத்தரவு-நீடிப்பு/175-339395) · `ta`
+
+ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் தலைவராக நீதியமைச்சர் விஜயதாஸ ராஜபகஷ நியமிக்கப்பட்டமை மற்றும் ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் உறுப்பினராக ஏற்றுக்கொள்வதை தடுத்து விடுக்கப்பட்டுள்ள இடைக்கால தடை, ஜூலை 9ஆம் திகதி வரையிலும் நீடிக்கப்பட்டுள்ளது.
+
+கொழும்பு மேலதிக மாவட்ட நீதவான் சந்திம எதிரிமான, இதற்கான கட்டளையை செவ்வாய்க்கிழமை (25) பிறப்பித்தார்.
+
+ஸ்ரீ லங்கா சுத்நதிரக் கட்சியின் பொருளாளர், இராஜாங்க அமைச்சர் லசந்த அழகியவண்ணவினால், சரத் ஏக்கநாயக்க, விஜயதாஸ ராஜபக்ஷ, பதில் செயலாளராக நியமிக்கப்பட்ட கீர்த்தி உடவத்த மற்றும்  மைத்திரிபால சிறிசேன ஆகியோருக்கு எதிராக மே. 28 ஆம் திகதி வழக்குத் தாக்கல் செய்யப்பட்டது. அப்போது விதிக்கப்பட்ட இடைக்கால தடையே நீடிக்கப்பட்டுள்ளது.
+
+சுதந்திரக் கட்சியின் பதில் செயலாளராக கீர்த்தி உடவத்த நியமிக்கப்பட்டமை, பதில் பிர​தான செயலாளர் துமிந்த திஸாநாயக்க, மற்றும் தலைவர் நிமல் சிறிபாலடி சில்வை ஆகியோரின், கட்சி செயற்பாடுகளுக்கு இடையூறாக அமையும் என்பதால், இடைக்கால தடையுத்தரவை நீடிப்பதற்கு மாவட்ட நீதவான் கட்டளையிட்டார்.
+
+...
+
+[Data](articles/2c9d33d7.json)
 
 ---
 
@@ -261,6 +297,24 @@ A meeting of the Sri Lanka Freedom Party (SLFP) regional representatives of the 
 [Data](articles/282b70a6.json)
 
 [Extended Data](ext_articles/282b70a6.ext.json)
+
+---
+
+### හොල්මන් මන්දිරයේ යකාට සිටි 13 හැවිරිදි සිසුවාට රෝහල් ගත වෙන්නම පහරදීලා
+
+*2024-06-25 12:20:02* · [`adalk`](https://www.ada.lk/breaking_news/හොල්මන්-මන්දිරයේ-යකාට-සිටි-13-හැවිරිදි-සිසුවාට-රෝහල්-ගත-වෙන්නම-පහරදීලා/11-410421) · `si`
+
+පොසොන් උත්සවය නිමිත්තෙන් කුඩා ළමුන් පිරිසක් එක්ව පවත්වන ලද හොල්මන් මන්දිරයකට බීමතින් ඇතුළුවූ පුද්ගලයන් තිදෙනෙකු එහි යක්ෂයෙකු ලෙසින් පෙනී සිටී 13 හැවිරිදි පාසල් සිසුවෙකුට රෝහල් ගතවෙන්නම පහරදුන් පුවතක් කළුතර පැල්පොල ප්‍රදේශයෙන් වාර්තාවේ .
+
+කළුතර උතුර පැල්පොල තොටුපළ පාරේ පදිංචි ඒ ඩී සිතුම් ලක්මින නැමැති  පාසල් සිසුවෙකු මෙලෙස පහරකා රෝහල් ගතකර ඇති බව කළුතර ශීක්ෂණ රෝහලේ ප්‍රකාශකයෙක් කීය.
+
+ප්‍රදේශයේ කුඩා ළමුන් පිරිසක් එක්ව කාලයක පටන් වෙහෙස මහන්සිවී හොල්මන් මන්දිරය සකස් කර පොසොන් දින කිහිපය තුලදී  පවත්වා තිබේ. එහි තුන්වන දින රාත්‍රි ප්‍රදර්ශනය කරන අවස්ථාවේ බීමතින් පැමිණි තිදෙනෙකු භූත ගුහාවට ඇතුළුවී ඇති බව වාර්තාවේ.
+
+පහරකා රෝහල් ගතකර සිටින ළමයා යක්ෂයෙකු ලෙසින් ඔවුන් ඉදිරියට කඩාපැන ඇති අතර , එහිදී උරණවූ තිදෙනා  යක්ෂයාගේ බෙල්ලෙන් අල්ලා පහරදී ඇති බව සදහන් වේ. කළුතර උතුර පොලිසිය  පරීක්ෂණ පවත්වති .
+
+◼️
+
+[Data](articles/a618541c.json)
 
 ---
 
@@ -2183,71 +2237,5 @@ With elections, possibly the Presidential election first, followed by a parliame
 [Data](articles/59d75eff.json)
 
 [Extended Data](ext_articles/59d75eff.ext.json)
-
----
-
-### New property taxes are coming: Key changes and impacts
-
-*2024-06-24 23:28:29* · [`dailyftlk`](https://www.ft.lk/columns/New-property-taxes-are-coming-Key-changes-and-impacts/4-763401) · `en`
-
-The new property taxes are on the horizon, bringing significant changes to property taxation in Sri Lanka. Here’s a brief overview of what you need to know about the new imputed rental income tax, its impact, and how it might affect your financial planning.
-
-The primary change is the introduction of an imputed rental income tax. This tax targets the notional income homeowners could earn from renting their properties, ensuring a fair contribution to public finances. It will be implemented before 1 April 2025.
-
-Currently, Sri Lanka does not have an imputed rental income tax. Under the new policy, owner-occupied and vacant residential properties will be taxed with an exemption threshold and graduated rates. Importantly, interest repayments on loans related to the property can reduce the taxable portion of rental income.
-
-...
-
-[Data](articles/854dab36.json)
-
-[Extended Data](ext_articles/854dab36.ext.json)
-
----
-
-### Price or quality: Is NMRA barking up the wrong tree?
-
-*2024-06-24 23:21:23* · [`dailyftlk`](https://www.ft.lk/opinion/Price-or-quality-Is-NMRA-barking-up-the-wrong-tree/14-763399) · `en`
-
-Instead of harping on price, however politically popular it may be, the authorities should concentrate on preserving the quality of medicines
-
-I recently had to see my doctor (who is also a personal friend) regarding some infected skin wounds that I had developed on my forearms. Little did I know that this would lead to the horrific realisation of the problems that the public are facing when obtaining their medications.
-
-I was prescribed a cream called Fusidic acid and the doctor, being a friend, wrote it by brand and told me that this is the original product which would be a little difficult to find. With that recommendation I went to almost a dozen pharmacies and was informed at each one that it was not available and was offered various substitutes, some of the same medicine and some of a similar nature. The reason given for unavailability was that the manufacturer had withdrawn from the country.
-
-...
-
-[Data](articles/bcc66efd.json)
-
-[Extended Data](ext_articles/bcc66efd.ext.json)
-
----
-
-### Nimal prefers solo scene
-
-*2024-06-24 23:08:00* · [`islandlk`](http://island.lk/nimal-prefers-solo-scene/) · `en`
-
-The guy who created a sensation with the song ‘Ranpota Thelabuwa’ has decided to do his thing as a solo artiste…
-
-Nimal Jayamanne says he quit the band scene in December last year.
-
-“I told the boys to carry on while re-stepping into my solo career, due to personal reasons.”
-
-The singer also worked on a new song, called ‘Mage Pana’, with a video to go with it, as well.
-
-It was, in fact, the song ‘Ranpota Thelabuwa’ that made Nimal a star, literally, overnight.
-
-I remember him performing this particular song at an Island Music Awards show, years ago, and the crowd response was terrific.
-
-Probably we may see a few more big hits come our way from Nimal, now that he has decided to go solo.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/5be2d6f6.json)
-
-[Extended Data](ext_articles/5be2d6f6.ext.json)
 
 ---

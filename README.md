@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 21:54:15**
+As of **2024-06-25 22:07:46**
 
 ## Newspaper Stats
 
-*Scraped **32,139** Articles*
+*Scraped **32,145** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,92 @@ newsfirstlk | 363
 islandlk | 1,781
 economynextcom | 1,867
 dailyftlk | 1,964
-adalk | 2,831
-adaderanalk | 3,651
+adalk | 2,832
+adaderanalk | 3,652
 tamilmirrorlk | 3,789
 dailymirrorlk | 4,733
 virakesarilk | 4,984
-adaderanasinhalalk | 5,269
+adaderanasinhalalk | 5,273
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,139 (100.0%) of 32,139 articles have been extended.
+32,139 (100.0%) of 32,145 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### Sri Lanka must establish infrastructure for high-tech cities: President
+
+*2024-06-25 21:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100099/sri-lanka-must-establish-infrastructure-for-high-tech-cities-president-) · `en`
+
+President Ranil Wickremesinghe emphasized that the government is placing special focus on integrating economic and technical sectors through advancements in computer and information technology.
+
+The President highlighted the vision to transform Colombo Port City into a financial zone facilitating offshore activities and attracting investments in Sri Lanka, with a strong emphasis on the development of enterprises and the utilization of digital technology by both local and foreign investors.
+
+President Wickremesinghe made these remarks during the opening of the 2024 ‘DigiEcon’ Global Investment Conference, commenced today (25) at the Cinnamon Grand Hotel, Colombo.
+
+The conference, themed ‘Harnessing Sri Lanka’s Untapped Potential,’ aims to showcase the country’s investment opportunities.
+
+He stated that Sri Lanka needs digital cooperation with India and China who are giants in the field.
+
+...
+
+[Data](articles/950395d8.json)
+
+---
+
+### කෙන්යාවේ පාර්ලිමේන්තුවට ගිනි
+
+*2024-06-25 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198153) · `si`
+
+බදු වැඩි කිරීමට ඇති සැලසුමකට එරෙහිව කෙන්යාවේ විශාල උද්ඝෝෂණ රැල්ලක් ආරම්භ වී තිබේ.
+
+උද්ඝෝෂකයින් නයිරෝබි අගනුවර පිහිටි කෙන්යානු පාර්ලිමේන්තු ගොඩනැගිල්ල ට ගිනි තබා ඇති බවද වාර්තා වෙයි.
+
+රොයිටර්ස් පුවත් සේවය වාර්තා කර ඇත්තේ පොලීසිය උද්ඝෝෂකයින්ට වෙඩිතබා ඇති බවත් ඉන් 5 දෙනෙක් මියගොස් ඇති බවත් ය.
+
+◼️
+
+[Data](articles/a691d23c.json)
+
+---
+
+### විනිසුරුවරුන් පත් කිරීමේ සිද්ධියට අදාළව අතරමැදි පෙත්සම් දෙකක්
+
+*2024-06-25 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198152) · `si`
+
+අගවිනිසුරුවරයා හැර ශ්‍රේෂ්ඨාධිකරණයේ සෙසු විනිසුරුවරුන් පත් කිරීම වළක්වාලමින් ජනාධිපතිවරයා වෙත නිකුත් කර තිබෙන අතුරු තහනම් නියෝගය වෙනස් කිරීම හෝ ඉවත් කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණයට අතරමැදි පෙත්සම් දෙකක් ගොනුකර තිබේ.
+
+පූජ්‍ය දඹර අමිල හිමියන් සහ ආචාර්ය මහීම් මෙන්ඩිස් යන අය විසින් මෙම පෙත්සම් ඉදිරිපත් කරත් ඇත.
+
+පෙත්සම්කරුවන් කියා සිටින්නේ අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න මහතා ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරයෙකු වශයෙන් පත් කිරීම සඳහා ජනාධිපතිවරයා විසින් යොමු කළ නිර්දේශයක් ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාව විසින් ප්‍රතික්ෂේප කිරීමට එරෙහිව නීතිඥවරයෙකු විසින් මූලික අයිතිවාසිකම් පෙත්සමක් ශ්‍රේෂ්ඨාධිකරණය හමුවේ ගොනු කර තිබූ බවය.
+
+එම පෙත්සම විභාග කිරීමට අවසර දුන් ශ්‍රේෂ්ඨාධිකරණය අගවිනිසුරුවරයා හැර ශ්‍රේෂ්ඨාධිකරණයේ සෙසු විනිසුරු ධුර සඳහා නම් නිර්දේශය කිරීම වළක්වාලමින් ජනාධිපතිවරයා වෙත ඉකුත් අප්‍රේල් මස 30 වනදා අතුරු තහනම් නියෝගයක් නිකුත් කර තිබෙන බවත් පෙත්සම්වල සඳහන් වෙයි.
+
+...
+
+[Data](articles/100e9250.json)
+
+---
+
+### විජයදාස හැප්පෙන තැන
+
+*2024-06-25 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198151) · `si`
+
+ප්‍රසිද්ධ නිවේදනයක් නිකුත් කරමින් සිය පාර්ලිමේන්තු වරප්‍රසාද කඩකිරීම සම්බන්ධයෙන් අධිකරණ සේවා සංගමයේ සභාපති සහ ලේකම් තනතුරු දරන විනිසුරුවරුන් දෙදෙනා පාර්ලිමේන්තුවේ ආචාර ධර්ම සහ වරප්‍රසාද පිළිබඳ කාරක සභාවට කැඳවා විමර්ශනයක් කරන ලෙස අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා කථානායකවරයාගෙන් ඉල්ලා තිබේ.
+
+මේ අතර අධිකරණ සේවා සංගමය ඊයේ නිවේදනය කළේ, අධිකරණ අමාත්‍යවරයාගේ දේශපාලන පැවැත්ම අභියෝගයට ලක්කර ඇති නඩුකරවලදී අධිකරණ දුන් තීන්දුවලින් අතෘප්තිමත් වූ විජයදාස රාජපක්ෂ මහතා අපක්ෂපාතී විනිශ්චයකාරවරුන් අපකීර්තියට පත්කිරීමේ උත්සාහයක නිරත වී සිටින බවය.
+
+අධිකරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතා පසුගිය 19 වැනිදා පාර්ලිමේන්තුවේ පැවති විවාදයක් අතරතුර පාර්ලිමේන්තු වරප්‍රසාදවලට මුවා වී අධිකරණ පද්ධතිය විවේචනයට ලක්කරමින් සිදුකරන ලද වගකීම් විරහිත ප්‍රකාශ තුළ අධිකරණයේ ස්වාධීනත්වය ප්‍රසිද්ධියේ අභියෝගයට ලක්වී ඇති බව අධිකරණ සේවා සංගමය ඊයේ නිවේදනය කළේය.
+
+...
+
+[Data](articles/d1f8bdf2.json)
+
+---
 
 ### Immediately provide information about the authorities - the President
 
@@ -45,6 +115,24 @@ The President is the head of state and government in many countries, responsible
 [Data](articles/66d7b7be.json)
 
 [Extended Data](ext_articles/66d7b7be.ext.json)
+
+---
+
+### වැඩ අවුල් කරන නිලධාරීන්ගේ තොරතුරු දෙන්න - ජනපති
+
+*2024-06-25 20:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198150) · `si`
+
+උරුමය සින්නක්කර ඉඩම් ඔප්පු ලබාදීමේ වැඩසටහන කඩාකප්පල් කිරීමට උත්සාහ කරන නිලධාරීන් පිළිබඳ තොරතුරු වහාම ලබාදෙන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ජනතාවගෙන් සහ මහජන නියෝජිතයින්ගෙන් ඉල්ලා සිටී.
+
+සින්නක්කර ඉඩම් ඔප්පු ලබාදීමේ “උරුමය” ජාතික වැඩසටහනෙහි අම්පාර දිස්ත්‍රික් උත්සවය අමතමින් ජනාධිපතිවරයා සඳහන් කළේ, ඉඩම් උරුමය ලබා ගැනීමට ජනතාවට ඇති අයිතිය අහිමි කිරීමට කිසිවෙකුට ඉඩ නොදෙන බවය.
+
+සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ “උරුමය” ජාතික වැඩසටහන යටතේ අම්පාර දිස්ත්‍රික්කයේ ජනතාවට ඉඩම් ඔප්පු ප්‍රදානය කිරීම ජනපති ප්‍රධානත්වයෙන් අද සිදුකෙරුණේ අම්පාර වීරසිංහ ක්‍රීඩාංගණයේදීය.
+
+එහිදී සුදුසුකම්ලාභීන් 20,000ක් අතුරින් පුද්ගලයන් 1,758ක් වෙනුවෙන් සංකේතාත්මකව ඉඩම් ඔප්පු පිරිනැමුණි.
+
+◼️
+
+[Data](articles/a614b481.json)
 
 ---
 
@@ -187,6 +275,20 @@ Derana 360 political program explained this, explaining the opinion of the LGBTQ
 [Data](articles/aa8ee9c3.json)
 
 [Extended Data](ext_articles/aa8ee9c3.ext.json)
+
+---
+
+### චමුදිත ඉන්න නිවාස සංකීර්ණය අසළට ආ අය ගැන සොයන්න සී.සී.ඩීයට
+
+*2024-06-25 18:48:20* · [`adalk`](https://www.ada.lk/breaking_news/චමුදිත-ඉන්න-නිවාස-සංකීර්ණය-අසළට-ආ-අය-ගැන-සොයන්න-සී-සී-ඩීයට/11-410433) · `si`
+
+ප්‍රවීණ මාධ්‍යවේදී චමුදිත සමරවික්‍රම මහතා පදිංචිව සිටින  පිළියන්දල වෑවල කේම්බ්‍රීජ් කෝට්  නිවාස සංකීර්ණයේ  පිවිසුමේ ප්‍රධාන දොරටුව අසලට පැමිණි  නාඳුනන පුද්ගලයන් දෙදෙනා සම්බන්ධයෙන් පිළියන්දල  පොලීසිය මගින් සිදු කරන විමර්ශන  පොලිස්පති දේශබන්දු  තෙන්නකෝන් මහතා විසින් කොළඹ අපරාධ කොට්ඨාසය වෙත පවරා ඇත.
+
+ඉකුත් 20 වැනි දින  එම පුද්ගලයන් නාඳුනන පුද්ගලයන් දෙදෙනා ප්‍රධාන දොරටුව අසලට පැමිණි අවස්ථාවේදී  ඔවුන් කාගේ නිවසට යන්නේ දැයි ප්‍රධාන දොරටුවේ සිටි ආරක්ෂක නිලධාරියා විමසීමේදී කිසිදු පුද්ගලයෙකුගේ නමක් සඳහන් කිරීමට අසමත් වූ බැවින් ඇතුළුවීමට ඉඩ දිය නොහැකි බවට තමන් පැවසීමෙන් අනතුරුව  එම පුද්ගලයන් දෙදෙනා  තමන්ට බැන වදින්නට වූ බවත්, එම අවස්ථාවේදී තමන් එම පුද්ගලයන්  පැමිණි යතුරුපැදියේ ලියාපදිංචි අංකය සටහන් කර ගැනීම සඳහා උත්සාහ දැරීමේදී  පැමිණි පුද්ගලයෙකු සතුව තිබූ ජංගම දුරකථනයෙන්  තමන්ගේ ඡායාරූපයක් ලබාගත්  බැවින් යතුරුපැදියේ ලියාපදිංචි අංකය ලියා ගැනීමට නොහැකි වූ  බවත් එම ආරක්ෂක නිලධාරියාගේ  ප්‍රකාශයකින් අනාවරණය වි තිබේ.
+
+...
+
+[Data](articles/64ef1f54.json)
 
 ---
 
@@ -2265,131 +2367,5 @@ It has been revealed that the body of the deceased naval soldier has been placed
 [Data](articles/83e189d5.json)
 
 [Extended Data](ext_articles/83e189d5.ext.json)
-
----
-
-### Julian Assange is free from jail
-
-*2024-06-25 10:31:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜூலியன்-அசாஞ்சே-சிறையில்-இருந்து-விடுதலை/50-339375) · `ta`
-
-Julian Assange, founder of WikiLeaks, known for exposing US war crimes and corruption, was released from a UK jail on June 25, 2022. Arrested in 2019 for seeking asylum in the Ecuadorian embassy, he faced extradition to the US over charges related to publishing classified military documents. After signing a plea deal in the UK, where he had served his sentence, Assange was allowed to leave for the US to face charges there. He later appeared in court in Marina Island, acknowledging guilt but aiming for a resolution that would allow him to return to Australia.
-
-🟩
-
-Julian Assange, president of Vicky League. He posted on the WikiLeaks website by hacking the US war crimes, human rights violations and corruption in countries like Afghanistan and Iraq.
-
-The incident caused a global stir. Subsequently, the US declared Julian Assange as a culprit.
-
-Asannge was arrested in April 2019 as she sought refuge at the Ecuadorian embassy in the UK due to the US crises on the issue.. Then he was imprisoned in London. The state government has begun legal action to bring Julian Assange to the United States, which is facing intelligence.
-
-Subsequently, in June 2022, the UK government ordered Julian Assange to be deported to the US. Assange appealed to the UK court to oppose deportation of the United States. The trial is being held in the UK court.
-
-...
-
-[Data](articles/a0624e19.json)
-
-[Extended Data](ext_articles/a0624e19.ext.json)
-
----
-
-### Sri Lanka ‘free’ visas likely to face $10 VFS Global fee, website: Harin
-
-*2024-06-25 10:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-free-visas-likely-to-face-10-vfs-global-fee-website-harin-169392/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s attempt to woo tourists from 67 countries with free visas is likely to face a 10 dollar charge from VFS Global, an outsourcing provider and also the website, Tourism Minister Harin Fernando said.
-
-“There is a doubt about that. Our government will not take anything,” Minister Fernando told reporters in Colombo Monday.
-
-“I think the current thinking is (mathaya) that the 10 dollar VFS fee will have to be paid.”
-
-Minister Fernando said he could not say exactly what will be in the final cabinet paper. But the ‘facilitation’ fee paid to VFS Global would help reduce potential congestion in the airport, he said.
-
-The Public Security Ministry has said the VFS website was required on national security considerations on which he was unable to comment, he said.
-
-His interest was to boost tourism, which can conflict with national security.
-
-...
-
-[Data](articles/8b5880df.json)
-
-[Extended Data](ext_articles/8b5880df.ext.json)
-
----
-
-### Recovery of a man's body in Colombo
-
-*2024-06-25 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/186901) · `ta`
-
-A man's body was found near the Bandaranaike Memorial International Conference Hall in Colombo. Identified as a 39-year-old from Moratuwa and Ravatawatte areas.
-
-🟩
-
-The body of a man has been recovered near the Bandaranaike Memorial International Conference Hall in Colombo, police said.
-
-The body of the body has been identified as a 39 -year -old Moratuwa and Ravatawatte area.
-
-◼️
-
-[Data](articles/72c1dc0d.json)
-
-[Extended Data](ext_articles/72c1dc0d.ext.json)
-
----
-
-### World Bank permits to provide financial assistance to improve primary health services in Sri Lanka
-
-*2024-06-25 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/186900) · `ta`
-
-The World Bank has approved $150 million to boost Sri Lanka's primary healthcare system, aiming to enhance service delivery and quality across local health centers.
-
-🟩
-
-The World Bank Executive Directors have granted permission to provide $ 150 million funding to improve the quality and use of Sri Lankan primary health services.
-
-It has been approved by the permission to enhance the Primary Health Organization in Sri Lanka to enhance the use of primary health care centers to provide essential health services to the locals and improve the quality of maintenance.
-
-◼️
-
-[Data](articles/5ec332c2.json)
-
-[Extended Data](ext_articles/5ec332c2.ext.json)
-
----
-
-### Six drugs arrested with 200 kg
-
-*2024-06-25 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198128) · `si`
-
-The Navy intercepted a fishing boat transporting 200kg of drugs over several days, leading to the arrest of six individuals involved.
-
-🟩
-
-Navy seized a multi-day fishing vessel carrying 200 kilograms of drugs.
-
-Six suspects have been arrested along with the vessel in the sea area.
-
-◼️
-
-[Data](articles/6bbe76e3.json)
-
-[Extended Data](ext_articles/6bbe76e3.ext.json)
-
----
-
-### 21,000 children missing in the chaos of Gaza war: Save the Children report
-
-*2024-06-25 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100084/21000-children-missing-in-the-chaos-of-gaza-war-save-the-children-report) · `en`
-
-Up to 21,000 children are missing, many trapped beneath rubble, detained, buried in unmarked graves or lost from their families in the chaos of Gaza war, British aid group Save the Children has said.
-
-“It is nearly impossible to collect and verify information under the current conditions in Gaza,” the group said, “but at least 17,000 children are believed to be unaccompanied and separated and approximately 4,000 children are likely missing under the rubble, with an unknown number also in mass graves,” it said in a report on Monday.
-
-More than 14,000 children have been killed in Israeli air strikes in Gaza since October 7, while others are suffering from severe malnutrition and do not “even have the energy to cry”, the United Nations Children’s Fund (Unicef), said in a report earlier this year.
-
-...
-
-[Data](articles/4f66b244.json)
-
-[Extended Data](ext_articles/4f66b244.ext.json)
 
 ---

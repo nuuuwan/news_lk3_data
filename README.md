@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 16:51:47**
+As of **2024-06-25 17:04:38**
 
 ## Newspaper Stats
 
-*Scraped **32,097** Articles*
+*Scraped **32,099** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ adaderanalk | 3,648
 tamilmirrorlk | 3,783
 dailymirrorlk | 4,733
 virakesarilk | 4,976
-adaderanasinhalalk | 5,264
+adaderanasinhalalk | 5,266
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,096 (100.0%) of 32,097 articles have been extended.
+32,097 (100.0%) of 32,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### මෝදි - පුටින් හමුව ගැන ඉඟියක්
+
+*2024-06-25 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198146) · `si`
+
+ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදිගේ රුසියානු සංචාරය එළඹෙන ජූලි මාසයේදී සිදු විය හැකි බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එම සංචාරයේදී අග්‍රාමාත්‍ය මෝදි සහ ජනාධිපති පුටින් අතර හමුවක් පැවැත්වීමට නියමිත බවත් ඒ සඳහා අවශ්‍ය සියලු කටයුතු රුසියානු රජය විසින් සුදානම් කරමින් සිටින බවත් එරට රාජ්‍ය ප්‍රවෘත්ති ඒජන්සිය සඳහන් කරයි.
+
+පුටින් මේ වසරේ මැයි මාසයේදී අඛණ්ඩව පස්වැනි වරටත් රුසියාවේ ජනාධිපතිවරයා ලෙස දිවුරුම් දුන් අතර නරේන්ද්‍ර මෝදි ද නොකඩවා තෙවැනි වරටත් ඉන්දියාවේ අග්‍රාමාත්‍යවරයා ලෙස දිවුරුම් දෙන ලදි.
+
+◼️
+
+[Data](articles/20f9768f.json)
+
+---
+
+### චීනයට බලපෑ ගංවතුරෙන් 60ක් මරුට
+
+*2024-06-25 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198145) · `si`
+
+චීනයට බලපා ඇති ගංවතුර තත්ත්වය හේතුවෙන් මියගිය පුද්ගලයින් සංඛ්‍යාව 60 දක්වා ඉහළ ගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+චීනයේ දකුණු ප්‍රදේශයට දින කිහිපයක සිට අධික වර්ෂාපතනයක් ඇදහැලෙමින් පවතින අතර එම නිසාවෙන් ප්‍රදේශ රැසක ගංවතුර සහ නායයෑම් ආපදා තත්ත්වයන් සිදුවී ඇති බව වාර්තා වී තිබේ.
+
+චීනයේ හුනාන් පළාතට ගංවතුරෙන් වැඩි බලපෑමක් එල්ලවී ඇති අතර නිවාස දහස් ගණනක් විනාශවී ඇතැයි ද සඳහන් ය.
+
+◼️
+
+[Data](articles/607e445f.json)
+
+---
 
 ### A panel of judges panel to petition to Graduoda's petition
 
@@ -69,6 +101,8 @@ Additionally, the Ministry of Education stated that it will intervene to bring d
 ◼️
 
 [Data](articles/b81346a0.json)
+
+[Extended Data](ext_articles/b81346a0.ext.json)
 
 ---
 
@@ -2319,45 +2353,5 @@ The Thai Chamber of Commerce Chairman Sanan Angubolkul and his delegation visite
 [Data](articles/8a5070eb.json)
 
 [Extended Data](ext_articles/8a5070eb.ext.json)
-
----
-
-### Ceylon Chamber of Commerce AGM on Thursday
-
-*2024-06-25 02:03:54* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-of-Commerce-AGM-on-Thursday/34-763439) · `en`
-
-The Ceylon Chamber of Commerce will hold its 185th Annual General Meeting on 27 June at 6 p.m. at the Shangri-La Hotel, Colombo.
-
-WSO2 Founder and CEO Dr. Sanjiva Weerawarana who is a pioneering figure in Sri Lanka’s technology sector, will be the Keynote Speaker at the AGM.
-
-As the leading business Chamber in Sri Lanka, representing a diverse spectrum of industries and sectors, The Ceylon Chamber of Commerce is a premier platform for the business community, driving advocacy, fostering collaboration, and facilitating business networking opportunities.
-
-The Ceylon Chamber Chairman Duminda Hulangamuwa will address the AGM, providing insights into the Chamber’s strategic initiatives and its role in advocating policies that support sustainable economic development, as well as its ongoing efforts to promote a conducive business environment that encourages growth and prosperity across industries.
-
-...
-
-[Data](articles/1620079f.json)
-
-[Extended Data](ext_articles/1620079f.ext.json)
-
----
-
-### Ravi Wijewantha appointed to Board of John Keells Plc
-
-*2024-06-25 02:03:28* · [`dailyftlk`](https://www.ft.lk/business/Ravi-Wijewantha-appointed-to-Board-of-John-Keells-Plc/34-763438) · `en`
-
-To take over additional responsibilities as CFO of JKH Plantation Services Sector as well as oversight responsibilities over John Keells IT and Infomate
-
-Ravi Wijewantha has been appointed to the Board of John Keells PLC as a Non-Executive Director with effect from 1 July.
-
-Wijewantha joined the John Keells Group in September 2003 and was appointed as Sector Financial
-
-Controller of the Property Industry Group in July 2006 and Chief Financial Officer of the same Industry Group in July 2017. He is a member of the Group Operating Committee of the John Keells Group and will be taking over additional responsibilities as the Chief Financial Officer of the Plantation Services Sector as well as oversight responsibilities over John Keells IT and Infomate with effect from 1 July 2024.
-
-...
-
-[Data](articles/72f40570.json)
-
-[Extended Data](ext_articles/72f40570.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 17:35:05**
+As of **2024-06-25 17:55:31**
 
 ## Newspaper Stats
 
-*Scraped **32,100** Articles*
+*Scraped **32,106** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 1,781
 economynextcom | 1,853
 dailyftlk | 1,964
 adalk | 2,825
-adaderanalk | 3,649
+adaderanalk | 3,650
 tamilmirrorlk | 3,783
 dailymirrorlk | 4,733
-virakesarilk | 4,976
-adaderanasinhalalk | 5,266
+virakesarilk | 4,980
+adaderanasinhalalk | 5,267
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,099 (100.0%) of 32,100 articles have been extended.
+32,100 (100.0%) of 32,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### Five-member judge bench appointed to hear ex-Navy chief’s writ
+
+*2024-06-25 17:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100097/five-member-judge-bench-appointed-to-hear-ex-navy-chiefs-writ-) · `en`
+
+The Court of Appeal has decided for the writ petition filed by former Sri Lanka Navy Commander Wasantha Karannagoda over the alleged abduction of 11 youths in 2008 and 2009, to be taken up for hearing before a five-member judge bench.
+
+The former Navy Chief has filed the relevant petition seeking an order preventing the hearing of a case filed before the Colombo High Court against him and several others, related to the alleged abduction of 11 youths in Colombo and its suburbs in the 2008 and 2009.
+
+Accordingly, the petition will be taken up for hearing before a five-member judge bench comprising Justices Menaka Wijesundera, Sampath B. Abeykoon, Mayadunne Corea and Chamath Morais on September 25, 2024.
+
+...
+
+[Data](articles/ef152ab2.json)
+
+---
+
+### ජූලි 02 වනදා පාර්ලිමේන්තුව රැස්වෙයි
+
+*2024-06-25 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198147) · `si`
+
+2024 ජූලි මස 02වන අඟහරුවාදා පෙ.ව 9.30ට පාර්ලිමේන්තුවේ විශේෂ රැස්වීමක් කැඳවා තිබේ.
+
+අග්‍රාමාත්‍යවරයාගේ ඉල්ලීම පරිදි පාර්ලිමේන්තුවේ ස්ථාවර නියෝගවල 16 ස්ථාවර නියෝගය ප්‍රකාරව මෙම කැඳවීම සිදුකර ඇත.
+
+එබැවින් ඊට පැමිණ සහභාගී වන ලෙස සියලුම පාර්ලිමේන්තු මන්ත්‍රීවරයන්ගෙන් ඉල්ලා සිටින බව කථානායක මහින්ද යාපා අබේවර්ධන මහතා නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/bb8cd62e.json)
+
+---
 
 ### PM requests special parliamentary sitting on July 2
 
@@ -43,6 +75,42 @@ The special parliamentary sitting has been called in pursuance of Standing Order
 ◼️
 
 [Data](articles/6688189e.json)
+
+[Extended Data](ext_articles/6688189e.ext.json)
+
+---
+
+### உறுமய வேலைத்திட்டத்தின் கீழ் அம்பாறையில் ஜனாதிபதி தலைமையில் 1654 பயனாளிகளுக்கு காணி உறுதி வழங்கும் நிகழ்வு
+
+*2024-06-25 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/186956) · `ta`
+
+மக்களின் காணி பிரச்சினைக்கு தீர்வு வழங்கும் நோக்குடன் தேசிய ரீதியில் முன்னெடுக்கப்படும் 20 இலட்சம் காணி உறுதிப்பத்திரங்கள் வழங்கும் ”உறுமய” தேசிய வேலைத் திட்டத்தின் கீழ் அம்பாறை மாவட்டத்தில் 17 பிரதேச செயலாளர் பிரிவுகளைச் சேர்ந்த 20,000 பேரில், 1654 பயனாளிகளுக்கு காணி உறுதிகளை வழங்கும் நிகழ்வு ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் இன்று செவ்வாய்க்கிழமை (25) அம்பாறை வீரசிங்க விளையாட்டங்கில் நடைபெற்றது.
+
+இந்நிகழ்வில் கிழக்கு  மாகாண  ஆளுநர் செந்தில் தொண்டமான் உட்பட  பாராளுமன்ற உறுப்பினர்களும்   மாவட்ட அரசாங்க அதிபர் உள்ளிட்ட உயர் அதிகாரிகளும் நிகழ்வில் கலந்து கொண்டனர்.
+
+உறுமய திட்டத்தினால் மக்களின் காணி உரிமையை உறுதிப்படுத்தி, சொத்துப் பெறுமதியையும் உயர்த்த முடிந்துள்ளதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+கொவிட் தொற்று – பொருளாதார நெருக்கடியினால் சரிவடைந்த சொத்துக்களின் பெறுமதி “உறுமய” திட்டத்தின் ஊடாக வலுவடைந்திருப்பதால், அதனூடாக நாட்டின் பொருளாதாரத்தைப் பலப்படுத்த முடியும் என்றும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/1e266640.json)
+
+---
+
+### தியகம மஹிந்த ராஜபக்ஷ விளையாட்டரங்கை மறுசீரமைக்க அமைச்சரவை அங்கீகாரம்
+
+*2024-06-25 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/186960) · `ta`
+
+தியகம மஹிந்த ராஜபக்ஷ சர்வதேச விளையாட்டரங்கின் அபிவிருத்தி நடவடிக்கைகள் தற்போது மேற்கொள்ளப்பட்டு வருவதுடன் நடைமுறைப்படுத்துவதற்கு முன்மொழியப்பட்டுள்ள துணைக் கருத்திட்டங்களின் கட்டுமான நடவடிக்கைகளை இராணுவத்திடம் வழங்குவதற்காக கடந்த ஜனவரி மாதம் 8 ஆம் திகதி இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+
+அதற்கமைய, குறித்த விளையாட்டு மைதானத்தின் கனிஸ்ட விளையாட்டரங்கு மற்றும் மெய்வல்லுநர் விளையாட்டுத் திடலின் இரண்டாவது பார்வையாளர் அரங்கின் கூரைகளை அமைப்பதற்குத் திட்டமிடப்பட்டுள்ளது.
+
+குறித்த கட்டுமானப் பணிகளை இலங்கை இராணுவத்தினர் மூலம் மேற்கொள்வதற்காக விளையாட்டு மற்றும் இளைஞர் விவகார அமைச்சர் ஹரீன்பெர்னாண்டோ சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+◼️
+
+[Data](articles/37a6726e.json)
 
 ---
 
@@ -65,6 +133,38 @@ Putin was sworn in as the President of Russia for the fifth consecutive year in 
 [Data](articles/20f9768f.json)
 
 [Extended Data](ext_articles/20f9768f.ext.json)
+
+---
+
+### பிரிவெனாக் கல்வி முறையில் டிஜிட்டல் தொழிநுட்பத்தை அறிமுகப்படுத்த அங்கீகாரம்
+
+*2024-06-25 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/186958) · `ta`
+
+பிரிவெனாக் கல்வி முறையில் டிஜிட்டல் தொழிநுட்பத்தை அறிமுகப்படுத்துவதன் மூலம் பிரிவெனாக் கல்வியை வலுப்படுத்தும் நிகழ்ச்சித்திட்டங்களை மேற்கொள்வதற்காக தொழிநுட்ப அமைச்சு மற்றும் கல்வி அமைச்சு இணைந்து திட்டமிட்டுள்ளது.
+
+அதன் மூலம் பிரிவெனாக்களிலுள்ள ஆசிரியர்கள் மற்றும் பிக்கு மாணவர்கள் மற்றும் ஏனைய மாணவர்களுக்கு இலங்கையின் தேசிய பௌத்த மரபுரிமைகளை ஆராய்வதற்கும் பகுப்பாய்வு செய்வதற்கும் டிஜிட்டல் தொழிநுட்பத்தைப் பயன்படுத்தக் கூடியதாக அமையும்.
+
+அதற்கமைய, ஒரு பிரிவெனாவுக்கு குறைந்தது இரண்டு கணணிகள், ஸ்மார்ட் திரை மற்றும் அச்சு இயந்திரமொன்றையும் வழங்குவதற்கு இயலுமாகும் வகையில் முன்மொழியப்பட்டுள்ள வேலைத்திட்டத்தை நடைமுறைப்படுத்துவத்காக தொழிநுட்ப அமைச்சராக ஜனாதிபதியும் கல்வி அமைச்சர் சுசில் பிரேம ஜயந்தவும் இணைந்து சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+◼️
+
+[Data](articles/3c270c98.json)
+
+---
+
+### ஹிங்குராக்கொட விமான நிலையத்தை அபிவிருத்தி செய்ய அமைச்சரவை அங்கீகாரம்
+
+*2024-06-25 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/186957) · `ta`
+
+ஹிங்குராக்கொட விமான நிலையத்தை முழுமையான விமான நிலையமாக அபிவிருத்தி செய்வதற்குத் தேவையான நடவடிக்கைகளை மேற்கொள்வதற்காக பாதுகாப்பு அமைச்சராக  ஜனாதிபதியும் துறைமுகங்கள், கப்பல்துறை மற்றும் விமான சேவைகள் அமைச்சர் நிமல் சிறிபால டி சில்வாவும் இணைந்து சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+தற்போது விமானப் படையினரால் முகாமைத்துவப்படுத்தப்பட்டு வரும் ஹிங்குராக்கொட விமான நிலையம் சர்வதேச சிவில் விமான சேவைகளின் தரநியமங்களுக்கமைய அபிவிருத்தி செய்யப்பட வேண்டிய தேவை கண்டறியப்பட்டுள்ளது.
+
+அதற்கமைய, குறித்த விமான நிலையத்திற்கான பிரதான திட்டத்தைத் தயாரித்தல் மற்றும் அதற்குரிய ஏனைய பணிகளுக்காக இலங்கை விமானப்படை, இலங்கை சிவில் விமான சேவைகள் அதிகாரசபை, வரையறுக்கப்பட்ட விமானநிலையங்கள் மற்றும் விமான சேவைகள் (இலங்கை) (தனியார்) கம்பனி மற்றும் வீதி அபிவிருத்தி அதிகாரசபை போன்ற நிறுவனங்களின் பிரதிநிதிகளுடன் கூடிய குழுவொன்று நியமிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/0a8508b3.json)
 
 ---
 
@@ -2229,141 +2329,5 @@ In this backdrop, Ichangulam police are conducting further investigations into t
 [Data](articles/3b7c96e7.json)
 
 [Extended Data](ext_articles/3b7c96e7.ext.json)
-
----
-
-### Police firing on woodworking vehicle in Omanthai: Recovery of several lakhs
-
-*2024-06-25 04:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/186889) · `ta`
-
-In Omanthai, Vavuniya, police intercepted a vehicle transporting timber, suspected of illegal logging. Following a chase, the vehicle was stopped after five shots were fired, leading to the recovery of trees valued at approximately Rs 7 lakh. The incident involved officers from the District Criminal Investigation Division, acting on intelligence tips. Investigations continue into the smuggling operation.
-
-🟩
-
-Police said that the vehicle was shot and seized several lakhs of trees due to the lack of a car trafficking in the Omanthai area in Vavuniya.
-
-On the orders of Senior Police Superintendent Malin Ajantha Perera, on the basis of confidential information received by Vavuniya Deputy Inspector General of Police, Samantha WijayasekaraDistrict Criminal Investigation Division, including Konstabhis (78448), Herath (34712), Subbun (28752), Sanath (25523), Kumara (20569), Namal (95991) and driver Dissanayake (18129)(23.06) A special surveillance operation was carried out.
-
-In the meantime, the vehicle carrying the trees has fled the police.. Subsequently, the police fired at the vehicle five times. Those who abandoned the vehicle and abducted the trees fled. Police seized the vehicle and recovered the trees worth about Rs 7 lakh.
-
-The police, who have investigated the matter, said that investigations are being carried out in connection with the travelers.
-
-◼️
-
-[Data](articles/d9f19611.json)
-
-[Extended Data](ext_articles/d9f19611.ext.json)
-
----
-
-### Youth Group Attakasam at Vavuniya- Thekkawatte: Two injured
-
-*2024-06-25 03:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/186888) · `ta`
-
-In Vavuniya, two individuals were hospitalized after being attacked by a group with bottles and sticks. The incident occurred when the victims returned home from work, and the attackers also damaged the victims' property. Police are investigating the motive behind the attack, including potential intimidation related to a pipeline issue.
-
-🟩
-
-Two persons have been injured and admitted to the hospital, police said.
-
-A young man living in Thekkavathi area in Vavuniya is working on a group of wells. When the youth went home from Vavuniya, a group of people who led him had attacked him by bottles and thicks.
-
-It has also entered the house of the young man and has been able to do the same.
-
-Both injured have been admitted to the Vavuniya Hospital. Vavuniya police are conducting further investigations.
-
-Meanwhile, police investigations are underway to whether the victim has been intimidated by a person a few days ago in connection with the pipeline.
-
-◼️
-
-[Data](articles/35ee45f0.json)
-
-[Extended Data](ext_articles/35ee45f0.ext.json)
-
----
-
-### President Ranil accepted the revolutionary challenge to avoid popular deaths -Minister Manusha Nanayakkara
-
-*2024-06-25 03:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/186887) · `ta`
-
-Manusha Nanayakkara praised President Ranil Wickremesinghe for accepting a revolutionary challenge to save lives amid the country's crisis. He emphasized the importance of directing youth energy positively and highlighted Wickremesinghe's efforts towards national unity and combating economic challenges.
-
-🟩
-
-Anyone who gives the country when people die are not true revolutionaries. Minister of Labor and Foreign Employment, Manusha Nanayakkara, said that President Ranil Wickremesinghe would accept the revolutionary challenge to prevent the death of people when the country downs.. He said this while attending the Smart Youth Club event held in Ampara on Sunday (23).
-
-In the past, the goals of young people in the north and south were distracted in the wrong direction. The country collapsed and the youth did not pay their energy in the right direction.
-
-Segura is a revolutionary. That is why there are young people who read and believe him. Segura told a journalist that love is the best quality for a revolutionary.
-
-Our country has fallen into economy and people died in line. We must call ourselves true revolutionaries that prevent people from death. President Ranil Wickremesinghe and a group of MPs accepted the challenge.
-
-...
-
-[Data](articles/25f69596.json)
-
-[Extended Data](ext_articles/25f69596.ext.json)
-
----
-
-### I will soon expose the conspiracies of those who degrade the Independence Party - Minister Wijeyadasa Rajapaksa
-
-*2024-06-25 03:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/186886) · `ta`
-
-Minister Wijeyadasa Rajapaksa promises to reveal conspiracies against the Independence Party and the Sri Lanka Freedom Party ahead of the presidential election. He assures victory, citing the parties' past successes and his own readiness to contest despite legal challenges.
-
-🟩
-
-Sri Lanka Freedom Party will introduce a new symbol for the presidential election this time. I will soon expose the conspiracies of those who degrade the Sri Lanka Freedom Party. Minister of Justice Wijeyadasa Rajapakse said that I will definitely win the presidential election.
-
-He further stated that during a meeting with the organizers of the Freedom Party (SLFP) in Kandy on Monday (25)
-
-Since 1994, the party has won every election based on the policies of the Sri Lanka Freedom Party (SLFP). The Independence Party has contested the six elections during this period. Similarly, we will introduce a new symbol in this election.
-
-I am the leader of the party. However, I am not working temporarily as the court has issued an interim injunction. The appropriate judgment will be issued by the court in the coming days. Anyone qualified according to our constitution can contest the presidential election. That is democracy.
-
-...
-
-[Data](articles/43c0bcb8.json)
-
-[Extended Data](ext_articles/43c0bcb8.ext.json)
-
----
-
-### Government Agent and Kalmunai South Divisional Secretary are planning to raise hostile hostility - Selvarasa Gajendran
-
-*2024-06-25 03:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/186885) · `ta`
-
-Selvarasa Gajendran, a member of the Tamil National People's Front, criticizes the District Government Agent and Kalmunai South Divisional Secretary for alleged misuse of power during ethnic conflicts between Tamil and Muslim communities. He mentions ongoing protests and demands for reinstating the powers of the Kalmunai North Divisional Secretariat, which have been ignored despite continuous efforts over 92 days. The situation remains tense, with no resolution from the Government Agent, leading to a temporary suspension of the struggle.
-
-🟩
-
-District Government Agent is deliberately behaving in the face of ethnic conflict between the Tamil people and the Muslim people.. Similarly, the Kalmunai South Divisional Secretary is also involved in the abuse of power in the affairs of these offices as a contrary to the law, said MP Selvarasa Gajendran.
-
-The Tamil National People's Front, Selvarasa Gajendran, who participated in a road rage protest on Monday (24), condemned the administrative repression against the Kalmunai North Divisional Secretariat.
-
-A number of long -term activities have been aimed at seizing the powers of the Kalmunai North Divisional Secretariats and completely seized the rights of the Tamils ​​in Kalmunai and the aim of making all these lands.
-
-...
-
-[Data](articles/fc658ad3.json)
-
-[Extended Data](ext_articles/fc658ad3.ext.json)
-
----
-
-### Sri Lanka holds first ever fashion and textile tradeshow in UK
-
-*2024-06-25 02:07:16* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-holds-first-ever-fashion-and-textile-tradeshowin-UK/34-763441) · `en`
-
-The High Commission of Sri Lanka in the United Kingdom in collaboration with the Sri Lanka Export Development Board (EDB), Sri Lanka Apparel Sourcing Association (SLASA), and Joint Apparel Association Forum (JAAF), proudly presented the ‘Sourced Sri Lanka’ Fashion and Textile Tradeshow on 17 -18 June at the Royal Horticultural Hall in London.
-
-This landmark event, the first of its kind in the UK, showcased the best of Sri Lankan fashion and textiles with 80 exhibiting stalls. The event provided a unique platform for UK buyers and fashion enthusiasts to engage directly with Sri Lankan manufacturers and designers.
-
-...
-
-[Data](articles/1bd78309.json)
-
-[Extended Data](ext_articles/1bd78309.ext.json)
 
 ---

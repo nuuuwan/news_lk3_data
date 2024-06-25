@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 10:05:54**
+As of **2024-06-25 10:20:01**
 
 ## Newspaper Stats
 
-*Scraped **32,028** Articles*
+*Scraped **32,029** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,639
 tamilmirrorlk | 3,773
 dailymirrorlk | 4,733
 virakesarilk | 4,961
-adaderanasinhalalk | 5,249
+adaderanasinhalalk | 5,250
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,022 (100.0%) of 32,028 articles have been extended.
+32,028 (100.0%) of 32,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### මත්කුඩු කිලෝ 200ක් සමග 6ක් අත්අඩංගුවට
+
+*2024-06-25 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198128) · `si`
+
+මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 200ක් රැගෙන යමින් තිබූ බහුදින ධීවර යාත්‍රාවක් නාවික හමුදා භාරයට ගෙන තිබේ.
+
+බටහිර වෙරළට ඔබ්බෙන් වූ මුහුදු ප්‍රදේශයේදී එම යාත්‍රාව සමග සැකකරුවන් 6 දෙනෙකු අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/6bbe76e3.json)
+
+---
 
 ### 21,000 children missing in the chaos of Gaza war: Save the Children report
 
@@ -46,35 +60,49 @@ More than 14,000 children have been killed in Israeli air strikes in Gaza since 
 
 [Data](articles/4f66b244.json)
 
+[Extended Data](ext_articles/4f66b244.ext.json)
+
 ---
 
-### இந்திய மீனவர்களை கைது செய்ய சென்ற கடற்படை வீரர் உயிரிழப்பு
+### Navy soldier killed Indian fishermen
 
 *2024-06-25 09:50:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்களை-கைது-செய்ய-சென்ற-கடற்படை-வீரர்-உயிரிழப்பு/175-339373) · `ta`
 
-இந்திய மீனவர்கள் குழுவை கைது செய்ய சென்ற போது காயமடைந்த கடற்படை வீரர் ஒருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+A navy soldier died from injuries sustained while arresting 10 Indian fishermen caught illegally fishing by boat.
 
-நெடுந்தீவு கடற்பரப்பில் சட்டவிரோதமாக இழுவை படகு மூலம் மீன்பிடியில் ஈடுபட்ட 10 இந்திய மீனவர்கள் கைது செய்யப்பட்டதாக கடற்படை தெரிவித்துள்ளது.
+🟩
 
-குறித்த குழுவினரை கைது செய்ய சென்ற போது  கடற்படை வீரர் ஒருவர் காயமடைந்துள்ளார்.
+A naval soldier who was injured when he went to arrest a group of Indian fishermen has died after being admitted to the hospital.
+
+The Navy said that 10 Indian fishermen have been arrested for fishing by boat illegally.
+
+A navy soldier was injured when he went to arrest the group.
 
 ◼️
 
 [Data](articles/e8dcf042.json)
 
+[Extended Data](ext_articles/e8dcf042.ext.json)
+
 ---
 
-### உலக வங்கியிலிருந்து இலங்கைக்கு நிதியுதவி
+### Financing from World Bank to Sri Lanka
 
 *2024-06-25 09:47:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-வங்கியிலிருந்து-இலங்கைக்கு-நிதியுதவி/175-339372) · `ta`
 
-இலங்கைக்கு 150 மில்லியன் டொலர் நிதியுதவி வழங்க உலக வங்கி அனுமதி வழங்கியுள்ளது.
+The World Bank has approved a $150 million loan to Sri Lanka to enhance primary healthcare services.
 
-நாட்டில் ஆரம்ப சுகாதார சேவைகளின் தரத்தை மேம்படுத்த உலக வங்கியின் நிறைவேற்றுப் பணிப்பாளர் சபை, நிதியுதவிக்கு ஒப்புதல் அளித்துள்ளது.
+🟩
+
+The World Bank has granted permission to provide $ 150 million to Sri Lanka.
+
+The World Bank Executive Board has approved financial assistance to improve the quality of primary health services in the country.
 
 ◼️
 
 [Data](articles/afb0e3d0.json)
+
+[Extended Data](ext_articles/afb0e3d0.ext.json)
 
 ---
 
@@ -94,21 +122,29 @@ The arrested suspects, trawler and seized drugs are currently being escorted to 
 
 [Data](articles/42804234.json)
 
+[Extended Data](ext_articles/42804234.ext.json)
+
 ---
 
-### நாட்டின் பல பகுதிகளில் இன்றும் மழை
+### Rain today in many parts of the country
 
 *2024-06-25 09:43:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-பல-பகுதிகளில்-இன்றும்-மழை/175-339371) · `ta`
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Heavy rain expected in Western, Sabaragamuwa, North Western Provinces, and districts like Galle, Matara, Kandy, Nuwara Eliya. Up to 100mm rainfall possible in upper areas and strong winds up to 50km/h in several regions including Central Highlands' western slopes, North, North Central, North Western Provinces, and Trincomalee, Hambantota, Moneragala districts.
 
-அத்துடன், மேல், சப்ரகமுவ மாகாணங்களிலும்  கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் சில இடங்களில் 100 மி.மீ அளவான  பலத்த மழைவீழ்ச்சி பதிவாகலாம்.
+🟩
 
-இதேவேளை, மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோமீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் உள்ளது.
+The Department of Meteorology has said that there will be occasional rainfall in the Western, Sabaragamuwa and North Western Provinces and Galle, Matara, Kandy and Nuwara Eliya districts.
+
+In addition, 100 mm of heavy rainfall may be recorded in some places in the upper, Sabaragamuwa provinces, Kandy and Nuwara Eliya districts.
+
+Meanwhile, strong winds are likely to blow up to 40-50 kilometers per hour in the western slopes of the Central Highlands, North, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.
 
 ◼️
 
 [Data](articles/e2698927.json)
+
+[Extended Data](ext_articles/e2698927.ext.json)
 
 ---
 
@@ -1790,19 +1826,25 @@ Q. There is a large number of basic facilities including permanent housing. Are 
 
 ---
 
-### උද්ධමනය පහළට
+### Inflation down
 
 *2024-06-24 19:43:07* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-පහළට/11-410412) · `si`
 
-2024 අප්‍රේල් මාසයේ දී 2.7%ක් ලෙස වාර්තා වූ මෙරට උද්ධමනය 2024 මැයි මාසය සඳහා 1.6%ක් දක්වා අඩු වී තිබේ.
+Sri Lanka's inflation dropped from 1.6% to 0.5% in May 2024, primarily due to a decrease in food prices. However, non-food items saw a slight increase from 2.3% to 2.4%.
 
-2024 අප්‍රේල් මාසයේ දී 3.3%ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 මැයි මාසයේ දී   0.5%ක් දක්වා අඩු වී ඇත.
+🟩
 
-එමෙන්ම, 2024 අප්‍රේල් මාසයේ දී 2.3%ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 මැයි මාසයේ දී 2.4%ක් දක්වා වැඩි වී ඇත.
+In April 2024, Sri Lanka's inflation was reduced to 1.6% for May 2024.
+
+In April 2024, the point in the food category of food recorded in April 2024 has reduced to 0.5% in May 2024.
+
+Also, the no-2.3% of the non-foods of food in April 2024 increased to 2.4% in May 2024.
 
 ◼️
 
 [Data](articles/15d3c047.json)
+
+[Extended Data](ext_articles/15d3c047.ext.json)
 
 ---
 
@@ -2171,27 +2213,5 @@ It is reported that further statements will be taken tomorrow (24).
 [Data](articles/718a78f6.json)
 
 [Extended Data](ext_articles/718a78f6.ext.json)
-
----
-
-### State minister visits Myanmar, Thailand to seek repatriation of trafficked Sri Lankans
-
-*2024-06-24 17:52:00* · [`economynextcom`](https://economynext.com/state-minister-visits-myanmar-thailand-to-seek-repatriation-of-trafficked-sri-lankans-169312/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s State Minister of Foreign Affairs Tharaka Balasuriya is visiting Myanmar and Thailand to secure the release of Sri Lankans trapped in forced labour camps in Myanmar.
-
-Balasuriya held discussions with high-ranking Thai officials including ambassador Russ Jalichandra and  Minister of Justice of Thailand Tawee Sodsong.
-
-“We are optimistic that some of these students will be released in the near future,” Balasuriya said on X (twitter).
-
-The Thai government facilitated the repatriation of eight Sri Lankans who were trafficked for forced criminal activities in cyber scamming compounds in Myanmar in April. They were in rebel held area of Myawaddy in Myanmar close to the Thai border.
-
-Balasuriya also visited Myanmar and held talks with officials including U Than Swe, Deputy Prime Minister and Union Minister for Foreign Affairs, Deputy Minister of Foreign Affairs U Lwin Oo and Union Minister for Home Affairs Lt Gen Yar Pyae.
-
-...
-
-[Data](articles/2a0a4a44.json)
-
-[Extended Data](ext_articles/2a0a4a44.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 09:19:29**
+As of **2024-06-25 09:34:58**
 
 ## Newspaper Stats
 
-*Scraped **32,018** Articles*
+*Scraped **32,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,845
 dailyftlk | 1,963
 adalk | 2,814
 adaderanalk | 3,635
-tamilmirrorlk | 3,769
+tamilmirrorlk | 3,770
 dailymirrorlk | 4,733
 virakesarilk | 4,961
 adaderanasinhalalk | 5,248
@@ -26,23 +26,49 @@ adaderanasinhalalk | 5,248
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,014 (100.0%) of 32,018 articles have been extended.
+32,018 (100.0%) of 32,019 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### ලෝක බැංකුවෙන් ඩොලර් මල්ලක්
+### பொலிஸ் அதிகாரிக்கு இந்த நிலையா? ஐவர் கைது
+
+*2024-06-25 09:02:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-அதிகாரிக்கு-இந்த-நிலையா-ஐவர்-கைது/175-339370) · `ta`
+
+மிரிஹான பொலிஸ் பிரிவில் கடமையாற்றும் பொலிஸ் உத்தியோகத்தர் ஒருவரை தாக்கி அவரிடம் இருந்து 3 இலட்சத்து 30 ஆயிரம் ரூபா பெறுமதியான உடமைகளை கொள்ளையிடப்பட்ட சம்பவம் தொடர்பில் 5 சந்தேகநபர்கள் நேற்று (24) கைது செய்யப்பட்டுள்ளதாக பதுளை பொலிஸார் தெரிவித்தனர்.
+
+இச்சம்பவம் தொடர்பில் கைது செய்யப்பட்ட சந்தேகநபர்கள் 30 - 42 வயதுக்கு இடைப்பட்டவர்கள் எனவும், துனுவாங்கிய பகுதியைச் சேர்ந்தவர்கள் எனவும் பொலிஸார் தெரிவித்தனர்.
+
+மிரிஹான பொலிஸில் கடமையாற்றும் பொலிஸ் உத்தியோகத்தர் விடுமுறையில் அவரது வீட்டிற்கு வந்த போதே இந்த தாக்குதல் இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகின்றது
+
+தாக்குதலில் காயமடைந்த பொலிஸ் உத்தியோகத்தர் தற்போது பதுளை போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாக வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன
+
+சந்தேக நபர்களை இன்று நீதிவான் நீதிமன்றதாதில் ஆஜர் படுத்துவதற்கான நடவடிக்கைகளை மேற்கொண்டு வருவதாக பொலிஸார் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/e1186e7d.json)
+
+---
+
+### A $ bag of dollars from the World Bank
 
 *2024-06-25 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198126) · `si`
 
-ලෝක බැංකුවෙන් ශ්‍රී ලංකාවට ඩොලර් මිලියන 150ක මූල්‍යාධාරයක් ලබාදීමට අනුමත කර තිබේ.
+The World Bank approved a $150 million grant to Sri Lanka to enhance its primary healthcare services.
 
-ලෝක බැංකුවේ විධායක අධ්‍යක්ෂ මණ්ඩලය විසින් එම මූල්‍යාධාරය අනුමත කර ඇත්තේ, මෙරට ප්‍රාථමික සෞඛ්‍ය සේවාවල ගුණාත්මකභාවය වැඩිදියුණු කිරීම සඳහාය.
+🟩
+
+The World Bank has approved a $ 150 million base to Sri Lanka.
+
+The World Bank Executive Directors of the World Bank has approved the financial assistance to improve the quality of the country's primary health services.
 
 ◼️
 
 [Data](articles/809f6d67.json)
+
+[Extended Data](ext_articles/809f6d67.ext.json)
 
 ---
 
@@ -528,35 +554,49 @@ Our country has fallen into economy and people died in line. We must call oursel
 
 ---
 
-### சுதந்திர கட்சியைச் சீரழிப்பவர்களின் சதித்திட்டங்களை விரைவில் அம்பலப்படுத்துவேன் - அமைச்சர் விஜேதாச ராஜபக்ஷ
+### I will soon expose the conspiracies of those who degrade the Independence Party - Minister Wijeyadasa Rajapaksa
 
 *2024-06-25 03:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/186886) · `ta`
 
-ஸ்ரீலங்கா சுதந்திர கட்சி இம்முறை ஜனாதிபதித் தேர்தலுக்காக புதிய சின்னத்தை அறிமுகப்படுத்தும். ஸ்ரீலங்கா சுதந்திர கட்சியை சீரழிப்பவர்களின் சதித்திட்டங்களை விரைவில் அம்பலப்படுத்துவேன். நான் ஜனாதிபதித் தேர்தலில் போட்டியிட்டு நிச்சயம் வெற்றி பெறுவேன் என நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ தெரிவித்தார்.
+Minister Wijeyadasa Rajapaksa promises to reveal conspiracies against the Independence Party and the Sri Lanka Freedom Party ahead of the presidential election. He assures victory, citing the parties' past successes and his own readiness to contest despite legal challenges.
 
-கண்டியில் திங்கட்கிழமை (25) சுதந்திர கட்சி தொகுதி அமைப்பாளர்களுடன் இடம்பெற்ற சந்திப்பின் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-1994ஆம் ஆண்டு முதல் ஸ்ரீலங்கா சுதந்திர கட்சியின் கொள்கைகளை அடிப்படையாகக் கொண்டே ஒவ்வொரு தேர்தலிலும் ஆட்சியமைக்கும் தரப்பு வெற்றிப் பெற்றுள்ளது. இந்த காலப்பகுதியில் இடம்பெற்ற 6 தேர்தல்களிலும் கதிரை, வெற்றிலை, அன்னம் மற்றும் மொட்டு சின்னங்களில் சுதந்திர கட்சி போட்டியிட்டுள்ளது. அதே போன்று இம்முறை தேர்தலில் புதிய சின்னத்தை அறிமுகப்படுத்துவோம்.
+Sri Lanka Freedom Party will introduce a new symbol for the presidential election this time. I will soon expose the conspiracies of those who degrade the Sri Lanka Freedom Party. Minister of Justice Wijeyadasa Rajapakse said that I will definitely win the presidential election.
+
+He further stated that during a meeting with the organizers of the Freedom Party (SLFP) in Kandy on Monday (25)
+
+Since 1994, the party has won every election based on the policies of the Sri Lanka Freedom Party (SLFP). The Independence Party has contested the six elections during this period. Similarly, we will introduce a new symbol in this election.
+
+I am the leader of the party. However, I am not working temporarily as the court has issued an interim injunction. The appropriate judgment will be issued by the court in the coming days. Anyone qualified according to our constitution can contest the presidential election. That is democracy.
 
 ...
 
 [Data](articles/43c0bcb8.json)
 
+[Extended Data](ext_articles/43c0bcb8.ext.json)
+
 ---
 
-### அரசாங்க அதிபரும் கல்முனை தெற்கு பிரதேச செயலாளரும் இனங்களுக்கிடையே குரோதங்களை வளர்க்க திட்டமிட்டு செயற்படுகின்றனர் - செல்வராசா கஜேந்திரன்
+### Government Agent and Kalmunai South Divisional Secretary are planning to raise hostile hostility - Selvarasa Gajendran
 
 *2024-06-25 03:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/186885) · `ta`
 
-மாவட்ட அரசாங்க அதிபர் தமிழ் மக்களுக்கும் முஸ்லீம் மக்களுக்கும் இடையே இனக்குரோதத்தை வளர்த்துவிடுகின்ற முகமாகத்தான் திட்டமிட்டு தொடர்ச்சியாக நடந்து கொண்டிருக்கின்றார். அவ்வாறே கல்முனை தெற்கு பிரதேச செயலாளரும் இரு இனங்களுக்குள் இனக்குரோதங்களை ஏற்படுத்தும் விதமாக சட்டத்துக்கு முரனாக இந்த அலுவலகங்களின் விவகாரத்தில் தலையிட்டு அதிகார துஸ்பிரயோகத்தில் ஈடுபட்டுக் கொண்டிருக்கின்றார் என பாராளுமன்ற உறுப்பினர் செல்வராசா கஜேந்திரன் தெரிவித்தார்.
+Selvarasa Gajendran, a member of the Tamil National People's Front, criticizes the District Government Agent and Kalmunai South Divisional Secretary for alleged misuse of power during ethnic conflicts between Tamil and Muslim communities. He mentions ongoing protests and demands for reinstating the powers of the Kalmunai North Divisional Secretariat, which have been ignored despite continuous efforts over 92 days. The situation remains tense, with no resolution from the Government Agent, leading to a temporary suspension of the struggle.
 
-கல்முனை வடக்கு பிரதேச செயலகத்துக்கு எதிராக இடம்பெறும் நிர்வாக அடக்குமுறையை கண்டித்து திங்கட்கிழமை (24) இடம்பெற்ற வீதிமறியல் போராட்டத்தில் பங்கு கொண்ட தமிழ் தேசிய மக்கள் முன்னணி கட்சி செல்வராசா கஜேந்திரன் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் இவ்வாறு தெரிவித்தார்.
+🟩
 
-கல்முனை வடக்கு பிரதேச செயலகங்களின் அதிகாரங்களை பறித்து அதனுடைய செயற்பாடுகளை முடக்கி கல்முனையில் உள்ள தமிழர்களின் உரிமையை முற்றாகப் பறித்தெடுக்கும் நோக்கத்தோடும் இந்த நிலங்கள் அனைத்தையும் கபளீகரம் செய்யும் நோக்கத்தோடும் பல நீண்டகாலமாக திட்டமிட்ட செயற்பாடுகள் இடம் பெற்றுவருகின்றது.
+District Government Agent is deliberately behaving in the face of ethnic conflict between the Tamil people and the Muslim people.. Similarly, the Kalmunai South Divisional Secretary is also involved in the abuse of power in the affairs of these offices as a contrary to the law, said MP Selvarasa Gajendran.
+
+The Tamil National People's Front, Selvarasa Gajendran, who participated in a road rage protest on Monday (24), condemned the administrative repression against the Kalmunai North Divisional Secretariat.
+
+A number of long -term activities have been aimed at seizing the powers of the Kalmunai North Divisional Secretariats and completely seized the rights of the Tamils ​​in Kalmunai and the aim of making all these lands.
 
 ...
 
 [Data](articles/fc658ad3.json)
+
+[Extended Data](ext_articles/fc658ad3.ext.json)
 
 ---
 
@@ -1690,21 +1730,29 @@ Thereafter, two other suspects have been arrested by the Police Narcotics Bureau
 
 ---
 
-### ලංකාවේ පළතුරු පරිභෝජනය ඉහළට
+### Sri Lankan fruit up
 
 *2024-06-24 19:23:19* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-පළතුරු-පරිභෝජනය-ඉහළට/11-410409) · `si`
 
-2023 වසරේ දී මෙරට පලතුරු පරිභෝජනය මෙට්‍රික් ටොන් මිලියන 12.8ක් ( මෙට්‍රික් ටොන් 1,283,039) දක්වා ඉහළ ගොස් ඇතැයි කෘෂිකර්ම දෙපාර්තමේන්තුවේ වාර්තා සඳහන් කරයි.
+In 2023, Sri Lanka saw a rise in fruit consumption to 1.28 million metric tons annually, with a demand of 1.96 million metric tons. Exports reached 38,201 metric tons, led by increased banana, manjuresha, pineapple, and papaya production. The Department of Agriculture aims to boost mango production to 95,000 metric tons by 2027 through hybrid cultivation and nutrient management strategies.
 
-එම වාර්තා සඳහන් කරන පරිදි මෙරට වාර්ෂික පලතුරු අවශ්‍යතාව මෙට්‍රික් ටොන් මිලියන 19.6ක් (මෙට්‍රික් ටොන් 196,9371කි) වන අතර පලතුරු අපනයනය ද 2023 වසරේ ඉහළ ගොස් තිබේ. ඒ අනුව පලතුරු මෙට්‍රික් ටොන් 38,201ක් අපනයනය කර ඇති බව සඳහන්ය.
+🟩
 
-2023 පලතුරු නිෂ්පාදනය ඉහළ යෑම පිළිබඳ අවධානය යොමු කිරීමේදී ප්‍රධාන වශයෙන් කෙසෙල්, අඹ, අන්නාසි හා පැපොල් නිෂ්පාදනය ඉහළ යාම කැපී පෙනෙන බව කෘෂිකර්ම දෙපාර්තමේන්තුව පවසයි.
+According to the Department of Agriculture, 12.8 million (1,283,039 metric tons) reports that the country's fruit consumption increased to 2023.
 
-ඒ  අනුව වර්ෂ 2027 වනවිට කෙසෙල් නිෂ්පාදනය හෙක්ටෙයාර් එකකට මෙට්‍රික් ටොන් 19.5ක් දක්වාත්, අඹ නිෂ්පාදනය මෙට්‍රික් ටොන් 9.5ක්, පැපොල් මෙට්‍රික් ටොන් 45ක්, අන්නාසි මෙට්‍රික් ටොන් 14ක් සහ වැල් දොඩම් මෙට්‍රික් ටොන් 30ක් දක්වාත් ඉහළ නැංවීමට කෘෂිකර්ම දෙපාර්තමේන්තුව සැලසුම් කර තිබේ.
+The annual fruiting requirement of the country is 19.6 million metric tons (196,9371 metric tons), which is stated in these reports.. Accordingly, the fruit has been exported 38,201 metric tons.
 
-...
+The increase in the increase in the increase in fruit production is highlighting mainly bananas, manasure, pineapple and papaya production.
+
+Accordingly, by the year 2027, the Agriculture Department has planned to raise 95 metric tons of the mango production.
+
+Acting Director General of the Department Dr. Kamani Ranatunga, the introduction of variants, hybrid cultivation, hybridized cultivation, mitigation and value collection of plant nutrients.Ms. said.
+
+◼️
 
 [Data](articles/06764fea.json)
+
+[Extended Data](ext_articles/06764fea.ext.json)
 
 ---
 
@@ -2199,25 +2247,5 @@ A bond maturing on 01.12.2031 closed at 12.08/15 percent, down from 12.05/25 per
 [Data](articles/140417b1.json)
 
 [Extended Data](ext_articles/140417b1.ext.json)
-
----
-
-### Sri Lanka CERT issues warning over social media scams
-
-*2024-06-24 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100073/sri-lanka-cert-issues-warning-over-social-media-scams) · `en`
-
-The Sri Lanka Computer Emergency Readiness Team (SL CERT) urges the public to be cautious of fake messages purportedly sent by various banks, commercial institutions, and international organizations.
-
-Issuing a statement, the Sri Lanka CERT stated that these scams promise donations, cash gifts, lucky draws, and job insurance, using the names of legitimate entities.
-
-“Cyber criminals attempt to contact individuals through fake websites, social media platforms, SMS, and WhatsApp. By accessing the links provided in these messages, they can steal data from computers and mobile phones, leading to various forms of abuse and financial fraud”, it added.
-
-The Sri Lanka CERT reports that these types of crimes have been increasing recently, with a growing number of victims. Fraudsters often operate around national and religious festivals, exploiting the public’s trust during these times, warned SL CERT.
-
-...
-
-[Data](articles/1b51a7f4.json)
-
-[Extended Data](ext_articles/1b51a7f4.ext.json)
 
 ---

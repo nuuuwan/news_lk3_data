@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 22:07:46**
+As of **2024-06-25 22:20:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,139 (100.0%) of 32,145 articles have been extended.
+32,145 (100.0%) of 32,145 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,55 +50,81 @@ He stated that Sri Lanka needs digital cooperation with India and China who are 
 
 [Data](articles/950395d8.json)
 
+[Extended Data](ext_articles/950395d8.ext.json)
+
 ---
 
-### කෙන්යාවේ පාර්ලිමේන්තුවට ගිනි
+### Business in Kenya
 
 *2024-06-25 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198153) · `si`
 
-බදු වැඩි කිරීමට ඇති සැලසුමකට එරෙහිව කෙන්යාවේ විශාල උද්ඝෝෂණ රැල්ලක් ආරම්භ වී තිබේ.
+Mass protests in Kenya erupted over a tax hike, leading to the burning of the Kenyan parliament in Nairobi. Police violence resulted in five deaths.
 
-උද්ඝෝෂකයින් නයිරෝබි අගනුවර පිහිටි කෙන්යානු පාර්ලිමේන්තු ගොඩනැගිල්ල ට ගිනි තබා ඇති බවද වාර්තා වෙයි.
+🟩
 
-රොයිටර්ස් පුවත් සේවය වාර්තා කර ඇත්තේ පොලීසිය උද්ඝෝෂකයින්ට වෙඩිතබා ඇති බවත් ඉන් 5 දෙනෙක් මියගොස් ඇති බවත් ය.
+A wave of mass protests in Kenya have begun to an increase in a tax increase.
+
+It is reported that the protesters have set fire to the Kenyan parliament building in Nairobi.
+
+The Reuters reported that the police had shot dead and 5 of them were killed.
 
 ◼️
 
 [Data](articles/a691d23c.json)
 
+[Extended Data](ext_articles/a691d23c.ext.json)
+
 ---
 
-### විනිසුරුවරුන් පත් කිරීමේ සිද්ධියට අදාළව අතරමැදි පෙත්සම් දෙකක්
+### Two intermediate petitions pertaining to the appointment of judges
 
 *2024-06-25 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198152) · `si`
 
-අගවිනිසුරුවරයා හැර ශ්‍රේෂ්ඨාධිකරණයේ සෙසු විනිසුරුවරුන් පත් කිරීම වළක්වාලමින් ජනාධිපතිවරයා වෙත නිකුත් කර තිබෙන අතුරු තහනම් නියෝගය වෙනස් කිරීම හෝ ඉවත් කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණයට අතරමැදි පෙත්සම් දෙකක් ගොනුකර තිබේ.
+Two petitions were filed in the Supreme Court, challenging the appointment or removal orders issued by it, excluding the Chief Justice. Submitted by Ven. Dambara Amila Thero and Dr. Mahaym Mendis, these petitions allege interference in parliamentary privileges and criticize judges' actions. The filings on April 30 aim to prevent the Supreme Court from hearing a fundamental rights petition against a judge appointed by the President's Court.
 
-පූජ්‍ය දඹර අමිල හිමියන් සහ ආචාර්ය මහීම් මෙන්ඩිස් යන අය විසින් මෙම පෙත්සම් ඉදිරිපත් කරත් ඇත.
+🟩
 
-පෙත්සම්කරුවන් කියා සිටින්නේ අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න මහතා ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරයෙකු වශයෙන් පත් කිරීම සඳහා ජනාධිපතිවරයා විසින් යොමු කළ නිර්දේශයක් ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාව විසින් ප්‍රතික්ෂේප කිරීමට එරෙහිව නීතිඥවරයෙකු විසින් මූලික අයිතිවාසිකම් පෙත්සමක් ශ්‍රේෂ්ඨාධිකරණය හමුවේ ගොනු කර තිබූ බවය.
+Two Intermediate Petitions have been filed in the Supreme Court demanding the appointment or removal order issued by the Supreme Court except the Chief Justice.
 
-එම පෙත්සම විභාග කිරීමට අවසර දුන් ශ්‍රේෂ්ඨාධිකරණය අගවිනිසුරුවරයා හැර ශ්‍රේෂ්ඨාධිකරණයේ සෙසු විනිසුරු ධුර සඳහා නම් නිර්දේශය කිරීම වළක්වාලමින් ජනාධිපතිවරයා වෙත ඉකුත් අප්‍රේල් මස 30 වනදා අතුරු තහනම් නියෝගයක් නිකුත් කර තිබෙන බවත් පෙත්සම්වල සඳහන් වෙයි.
+These petitions have been submitted by Ven. Dambara Amila Thero and Dr. Mahaym Mendis.
 
-...
+Petitioners claim that a lawyer had filed a fundamental rights petition against the Supreme Court judge by the President's Court as a Supreme Court judge.
+
+Petitions filed on April 30, preventing the Supreme Court to hear the petition for the fundamental of the Supreme Court.
+
+The petition states that the Supreme Court has intervened in parliamentary privileges through the interim injunction and that some people have been criticized by parliamentary privileges and criticized the judges of high and lower courts.
+
+◼️
 
 [Data](articles/100e9250.json)
 
+[Extended Data](ext_articles/100e9250.ext.json)
+
 ---
 
-### විජයදාස හැප්පෙන තැන
+### Wijayadasa is hitting
 
 *2024-06-25 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198151) · `si`
 
-ප්‍රසිද්ධ නිවේදනයක් නිකුත් කරමින් සිය පාර්ලිමේන්තු වරප්‍රසාද කඩකිරීම සම්බන්ධයෙන් අධිකරණ සේවා සංගමයේ සභාපති සහ ලේකම් තනතුරු දරන විනිසුරුවරුන් දෙදෙනා පාර්ලිමේන්තුවේ ආචාර ධර්ම සහ වරප්‍රසාද පිළිබඳ කාරක සභාවට කැඳවා විමර්ශනයක් කරන ලෙස අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා කථානායකවරයාගෙන් ඉල්ලා තිබේ.
+Wijayadasa Rajapaksa, challenging judicial independence, faces accusations from the Judicial Service Association over discrediting judges. He disputes claims about public declarations by district remunity and magistrates, calling for a parliamentary committee review.
 
-මේ අතර අධිකරණ සේවා සංගමය ඊයේ නිවේදනය කළේ, අධිකරණ අමාත්‍යවරයාගේ දේශපාලන පැවැත්ම අභියෝගයට ලක්කර ඇති නඩුකරවලදී අධිකරණ දුන් තීන්දුවලින් අතෘප්තිමත් වූ විජයදාස රාජපක්ෂ මහතා අපක්ෂපාතී විනිශ්චයකාරවරුන් අපකීර්තියට පත්කිරීමේ උත්සාහයක නිරත වී සිටින බවය.
+🟩
 
-අධිකරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතා පසුගිය 19 වැනිදා පාර්ලිමේන්තුවේ පැවති විවාදයක් අතරතුර පාර්ලිමේන්තු වරප්‍රසාදවලට මුවා වී අධිකරණ පද්ධතිය විවේචනයට ලක්කරමින් සිදුකරන ලද වගකීම් විරහිත ප්‍රකාශ තුළ අධිකරණයේ ස්වාධීනත්වය ප්‍රසිද්ධියේ අභියෝගයට ලක්වී ඇති බව අධිකරණ සේවා සංගමය ඊයේ නිවේදනය කළේය.
+Judges of the Judges of the Judges and Secretary Positions of the Judges of the Judiciary and Secretary posts have been summoned to the Committee on Parliament and the Privileges of Parliament regarding the public privileges of parliamentary privileges.
+
+Meanwhile, the Judicial Service Association announced that Wijeyadasa Rajapakse, who had challenged the Minister of Justice yesterday, is trying to discredit the judges.
+
+Judicial Minister Dr. Wijayadasa Rajapaksa has publicly challenged the independence of the judiciary in Parliamentary privileges on the 19th of the debate in parliamentary privileges.
+
+However, Minister Wijayadasa Rajapakse, who was sent to the Speaker today, says the District Remunity and Magistrates issued public declarations with regard to the Declaration of District Commission and the Magistrates.
+
+The Minister also said that the statement issued by the Judicial Service Association will be violated in parliamentary privileges.
 
 ...
 
 [Data](articles/d1f8bdf2.json)
+
+[Extended Data](ext_articles/d1f8bdf2.ext.json)
 
 ---
 
@@ -118,21 +144,27 @@ The President is the head of state and government in many countries, responsible
 
 ---
 
-### වැඩ අවුල් කරන නිලධාරීන්ගේ තොරතුරු දෙන්න - ජනපති
+### Give officers' information about work
 
 *2024-06-25 20:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198150) · `si`
 
-උරුමය සින්නක්කර ඉඩම් ඔප්පු ලබාදීමේ වැඩසටහන කඩාකප්පල් කිරීමට උත්සාහ කරන නිලධාරීන් පිළිබඳ තොරතුරු වහාම ලබාදෙන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ජනතාවගෙන් සහ මහජන නියෝජිතයින්ගෙන් ඉල්ලා සිටී.
+President Ranil Wickremesinghe calls for immediate reporting of officers undermining land laws during his address at the Ampara District "Heritage Debate" ceremony. He emphasizes the importance of protecting public land rights and presents land deeds worth Rs. 20 lakhs to 1,758 eligible individuals under the program.
 
-සින්නක්කර ඉඩම් ඔප්පු ලබාදීමේ “උරුමය” ජාතික වැඩසටහනෙහි අම්පාර දිස්ත්‍රික් උත්සවය අමතමින් ජනාධිපතිවරයා සඳහන් කළේ, ඉඩම් උරුමය ලබා ගැනීමට ජනතාවට ඇති අයිතිය අහිමි කිරීමට කිසිවෙකුට ඉඩ නොදෙන බවය.
+🟩
 
-සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ “උරුමය” ජාතික වැඩසටහන යටතේ අම්පාර දිස්ත්‍රික්කයේ ජනතාවට ඉඩම් ඔප්පු ප්‍රදානය කිරීම ජනපති ප්‍රධානත්වයෙන් අද සිදුකෙරුණේ අම්පාර වීරසිංහ ක්‍රීඩාංගණයේදීය.
+President Ranil Wickremesinghe urges the people and the public representatives to immediately give information about the officers who are trying to sabotage the provisions of the Land Command.
 
-එහිදී සුදුසුකම්ලාභීන් 20,000ක් අතුරින් පුද්ගලයන් 1,758ක් වෙනුවෙන් සංකේතාත්මකව ඉඩම් ඔප්පු පිරිනැමුණි.
+Addressing the Ampara District Ceremony of the "Heritage Debate" National Program, the President said that no one would allow anyone to deprive the ownership of the people to obtain the land of the land.
+
+The President was presented to the people of Weerasinghe, Ampara under the "heritage" National Program of the "Heritage" National Program for providing Rs. 20 lakhs of land deeds.
+
+Of the 20,000 qualification, 1,758 people were figuratively awarded land deeds.
 
 ◼️
 
 [Data](articles/a614b481.json)
+
+[Extended Data](ext_articles/a614b481.ext.json)
 
 ---
 
@@ -278,17 +310,25 @@ Derana 360 political program explained this, explaining the opinion of the LGBTQ
 
 ---
 
-### චමුදිත ඉන්න නිවාස සංකීර්ණය අසළට ආ අය ගැන සොයන්න සී.සී.ඩීයට
+### CCD to find out about the Chamuditted Housing Complex
 
 *2024-06-25 18:48:20* · [`adalk`](https://www.ada.lk/breaking_news/චමුදිත-ඉන්න-නිවාස-සංකීර්ණය-අසළට-ආ-අය-ගැන-සොයන්න-සී-සී-ඩීයට/11-410433) · `si`
 
-ප්‍රවීණ මාධ්‍යවේදී චමුදිත සමරවික්‍රම මහතා පදිංචිව සිටින  පිළියන්දල වෑවල කේම්බ්‍රීජ් කෝට්  නිවාස සංකීර්ණයේ  පිවිසුමේ ප්‍රධාන දොරටුව අසලට පැමිණි  නාඳුනන පුද්ගලයන් දෙදෙනා සම්බන්ධයෙන් පිළියන්දල  පොලීසිය මගින් සිදු කරන විමර්ශන  පොලිස්පති දේශබන්දු  තෙන්නකෝන් මහතා විසින් කොළඹ අපරාධ කොට්ඨාසය වෙත පවරා ඇත.
+Chamuditha Samarawickrema, a veteran journalist, reported to the Colombo Crimes Division after being threatened by two unidentified individuals at her housing complex. The incident occurred when she was entering the complex, and the suspects took photos of her. This follows a previous assault on her home two years ago, which remains unsolved. Investigations aim to identify the perpetrators and understand their motives.
 
-ඉකුත් 20 වැනි දින  එම පුද්ගලයන් නාඳුනන පුද්ගලයන් දෙදෙනා ප්‍රධාන දොරටුව අසලට පැමිණි අවස්ථාවේදී  ඔවුන් කාගේ නිවසට යන්නේ දැයි ප්‍රධාන දොරටුවේ සිටි ආරක්ෂක නිලධාරියා විමසීමේදී කිසිදු පුද්ගලයෙකුගේ නමක් සඳහන් කිරීමට අසමත් වූ බැවින් ඇතුළුවීමට ඉඩ දිය නොහැකි බවට තමන් පැවසීමෙන් අනතුරුව  එම පුද්ගලයන් දෙදෙනා  තමන්ට බැන වදින්නට වූ බවත්, එම අවස්ථාවේදී තමන් එම පුද්ගලයන්  පැමිණි යතුරුපැදියේ ලියාපදිංචි අංකය සටහන් කර ගැනීම සඳහා උත්සාහ දැරීමේදී  පැමිණි පුද්ගලයෙකු සතුව තිබූ ජංගම දුරකථනයෙන්  තමන්ගේ ඡායාරූපයක් ලබාගත්  බැවින් යතුරුපැදියේ ලියාපදිංචි අංකය ලියා ගැනීමට නොහැකි වූ  බවත් එම ආරක්ෂක නිලධාරියාගේ  ප්‍රකාශයකින් අනාවරණය වි තිබේ.
+🟩
+
+Inspector General of Veteran journalist Chamuditha Samarawickrema, the Piliyandala Police have filed the Colombo Crimes Division.
+
+Those who are unknown on the 20th when they were unknown to the main entrance when they were going to the main entrance when they were going to the main entrance to the main entrance of the main entrance, the two people were to allow them to be allowed to enter.The motorcycle was unable to write a photograph of the motorcycle, as a manner had taken their photo on the mobile phone that the people came to record the main busy.
+
+At the same time, the veteran journalist Chamuditha Samarawickrema, who was previously disturbed by unidentified persons in the shop, was reported to the two police officers who were given firearms with firearms with firearms in the event.According to the statements of the security officer, the two men had left the two persons.
 
 ...
 
 [Data](articles/64ef1f54.json)
+
+[Extended Data](ext_articles/64ef1f54.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 19:19:25**
+As of **2024-06-25 19:35:03**
 
 ## Newspaper Stats
 
-*Scraped **32,116** Articles*
+*Scraped **32,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ dbsjeyarajcom | 295
 bbccomsinhala | 317
 newsfirstlk | 363
 islandlk | 1,781
-economynextcom | 1,853
+economynextcom | 1,867
 dailyftlk | 1,964
-adalk | 2,828
+adalk | 2,829
 adaderanalk | 3,651
 tamilmirrorlk | 3,788
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,268
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,115 (100.0%) of 32,116 articles have been extended.
+32,116 (100.0%) of 32,131 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,32 @@ Joining the ‘Derana 360’ programme, Dr. Amarasuriya explained their party’
 
 [Data](articles/474888d7.json)
 
+[Extended Data](ext_articles/474888d7.ext.json)
+
+---
+
+### Sri Lanka to sign Paris Club debt deals as fresh ISB talks to also start
+
+*2024-06-25 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-sign-paris-club-debt-deals-as-fresh-isb-talks-set-to-start-169539/) · `en`
+
+ECONOMYNEXT – Sri Lanka will sign agreements on restructured debt with Paris Club creditors Wednesday, Cabinet spokesman Minister Bandula Gunawardana said as sources said talks with private creditors are also due to start later in the week.
+
+The relevant senior officials and State Minister Shehan Semasinghe has already left the country to sign the agreements, Minister Gunawardana said.
+
+Sri Lanka has held detailed negotiations with bilateral creditors ever since a sovereign default in 2022 and President Ranil Wickremesinghe has personally met leaders of friendly countries to expedite the restructuring, he said.
+
+The finalizing of the restructure was a ‘great victory’ for Sri Lanka he said.
+
+Details will be revealed to parliament by President Wickremesinghe and an address to the nation on Wednesday he said.
+
+Discussion with private bondholders are also taking place separately, he said.
+
+Face to face talks with bond holders are likely to start Thursday, sources said.
+
+...
+
+[Data](articles/291c1139.json)
+
 ---
 
 ### Company is for the amendment to Samarizer Law
@@ -67,6 +93,22 @@ Derana 360 political program explained this, explaining the opinion of the LGBTQ
 [Data](articles/aa8ee9c3.json)
 
 [Extended Data](ext_articles/aa8ee9c3.ext.json)
+
+---
+
+### උරුමය වැඩසටහන කඩාකප්පල් කරන නිලධාරීන් ගැන තොරතුරු ජනපති ඉල්ලයි
+
+*2024-06-25 18:23:48* · [`adalk`](https://www.ada.lk/breaking_news/උරුමය-වැඩසටහන-කඩාකප්පල්-කරන-නිලධාරීන්-ගැන-තොරතුරු-ජනපති-ඉල්ලයි/11-410429) · `si`
+
+උරුමය සින්නක්කර ඉඩම් ඔප්පු ලබාදීමේ වැඩසටහන වෙනුවෙන් බොහෝ රාජ්‍ය නිලධාරින් කැපවී කටයුතු කරද්දි, එය කඩාප්පල් කිරීමට උත්සාහ කරන සුළුතරයක් පිළිබඳව ද කරුණු වාර්තා වී ඇති බව සඳහන් කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එවන් නිලධාරීන් පිළිබඳ තොරතුරු තමන්ගේ ප්‍රදේශයේ මන්ත්‍රීවරුන් වෙත ලබා දෙන ලෙස ජනතාවගෙන් ඉල්ලා සිටි අතර, එම තොරතුරු තමා වෙත ලබා දෙන ලෙස මන්ත්‍රීවරුන්ට දැනුම් දෙන බව ද සඳහන් කළේය.
+
+තමන්ගේ උරුමය ලබා ගැනීමට ජනතාවට ඇති අයිතිය අහිමි කිරීමට කිසිවෙකුට ඉඩ දිය නොහැකි බව අවධාරණය කළ ජනාධිපතිවරයා මෙම වැඩසටහන සාර්ථක කර ගැනීම වෙනුවෙන් පක්ෂ විපක්ෂ බේදයකින් තොරව සියලු මන්ත්‍රීවරුන්ගේ සහාය අපේක්ෂා කරන බවද සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ “උරුමය” ජාතික වැඩසටහන යටතේ අම්පාර දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 17ක සුදුසුකම්ලාභීන් 20,000ක් අතුරින් පුද්ගලයන් 1,758ක් වෙනුවෙන් සංකේතාත්මකව ඉඩම් ඔප්පු ප්‍රදානය වෙනුවෙන් අද (25) පෙරවරුවේ අම්පාර වීරසිංහ ක්‍රීඩාංගණයේ පැවති උත්සවය අමතමිනි.
+
+...
+
+[Data](articles/df33598a.json)
 
 ---
 
@@ -157,6 +199,26 @@ Preparing for high quality a year ago, he was reportedly fearing that he would n
 [Data](articles/fdf80abb.json)
 
 [Extended Data](ext_articles/fdf80abb.ext.json)
+
+---
+
+### Sri Lanka to seek investors for 200MW BOOT power plant
+
+*2024-06-25 17:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-seek-investors-for-200mw-boot-power-plant-169531/) · `en`
+
+EONOMYNEXT – Sri Lanka’s cabinet has given approval to seek investors for a 200 MegaWatt independent power plant on a build-own-operate-and-transfer (BOOT) basis, a government statement said.
+
+The internal combustion power plant will be capable of running on natural gas and is part of the Long-Term Generation Expansion of state-run Ceylon Electricity Board.
+
+Land next to the ‘Sobhadanavi’ combined cycle plant will be made available for the developer.
+
+According to the generation plan, the 200MW IC plant is expected to come on stream by 2026.
+
+In 2026, a 115 MW gas turbine, a CEB owned diesel plants of 68 MW and 72 MW are due to be retired. (Colombo/June25/2026)
+
+◼️
+
+[Data](articles/fb6c3c50.json)
 
 ---
 
@@ -263,6 +325,46 @@ The special parliamentary sitting has been called in pursuance of Standing Order
 [Data](articles/6688189e.json)
 
 [Extended Data](ext_articles/6688189e.ext.json)
+
+---
+
+### Sri Lanka rupee closes steady at 305.25/35 to US dollar
+
+*2024-06-25 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-steady-at-305-25-35-to-us-dollar-169543/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed fairly flat at 305.25/35 to the US dollar on Tuesday, down from 305.20/30 to the US dollar on Monday, dealers said, while bond yields up.
+
+A bond maturing on 15.12.2026 closed at 10.65/11.05 percent, up from 10.45/85 percent.
+
+A bond maturing on 15.09.2029 closed at 12.10/15 percent, up from 12.05/17 percent.
+
+A bond maturing on 01.12.2031 closed at 12.10/20 percent, up from 12.08/15 percent.
+
+◼️
+
+[Data](articles/169d7a83.json)
+
+---
+
+### Sri Lanka stocks close up, Commercial Bank crossing pushes turnover to 3.9bn
+
+*2024-06-25 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-commercial-bank-crossing-pushes-turnover-to-3-9bn-169541/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader All Share Index closed up 0.02 percent, or 1.86 points, at 12,273; while the more liquid S&P SL20 Index closed up 0.14 percent, or 5.27 points, at 3,629.
+
+Turnover was 3.9 billion. Most of this (Rs2.7bn) came from a crossing in Commercial Bank of Ceylon Plc. The share closed up at 106.00. The shift in stakeholders was thought to be at a higher price than the trade price.
+
+“Crossings accounted for 75 percent of the day’s turnover,” Softlogic Stockbrokers said.
+
+“We are also seeing back-to-back net inflows. Today’s was lower than yesterday’s but it’s still a positive sign that foreign buying is coming in.”
+
+Top foreign buying was seen on John Keells Holdings Plc (down at 206.00), Tokyo Cement Company (Lanka) Plc (up at 51.00), and Ceylon Cold Stores Plc (up at 60.50).
+
+...
+
+[Data](articles/f5d18979.json)
 
 ---
 
@@ -441,6 +543,26 @@ Additionally, the Ministry of Education stated that it will intervene to bring d
 [Data](articles/b81346a0.json)
 
 [Extended Data](ext_articles/b81346a0.ext.json)
+
+---
+
+### Explainer: How Sri Lanka’s political alliances are forming and their likely policies
+
+*2024-06-25 16:00:00* · [`economynextcom`](https://economynext.com/explainer-how-sri-lankas-political-alliances-are-forming-and-their-likely-policies-169383/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s political parties are now trying to cobble together alliances from a fragmented political landscape in the hope getting in to stronger positions ahead of presidential polls expected between September 17 and October 16.
+
+The composition of the current parliament has changed significantly since 2020, with many legislators no longer affiliated with their original parties after an economic crisis fragmented the then ruling alliance.
+
+Some MPs from the ruling coalition are now in opposition, while some are are in President Ranil Wickremesinghe’s government.
+
+Some legislators claim to be independent, while others have resigned, seeing no value in their positions.
+
+However, political parties may be compelled to forge alliances to form a stable government after the presidential polls. These coalitions may range from nationalist to centrists to leftist.
+
+...
+
+[Data](articles/98e85e33.json)
 
 ---
 
@@ -648,6 +770,24 @@ A high police officer said he had used police protection in jackfruit and basefr
 
 ---
 
+### Sri Lanka to host Bora conference in July
+
+*2024-06-25 15:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-host-bora-conference-in-july-169524/) · `en`
+
+ECONOMYNEXT – Sri Lanka will host a Bora conference and convention from July 7-16 at the Bambalapitiya Bora Mosque and the Sri Lanka Exhibition and Convention Centre, coinciding with the Bora community’s spiritual conference in Karachi, Pakistan.
+
+Approximately 15,000 members of the Bora community from various countries are expected to attend the event.
+
+Discussions were held between relevant officials at the Presidential Secretariat on Monday (24) regarding the provision of all necessary facilities for the event.
+
+The meeting was attended by Minister of Foreign Affairs Ali Sabri, Chief of Defence Staff General Shavendra Silva, officials of Sri Lanka Customs, Immigration Department, Colombo Municipal Council, Sri Lanka Tourism Development Authority, Sri Lanka Tourism Promotion Bureau, Sri Lanka Police, and the Department of Muslim Religious Affairs.
+
+◼️
+
+[Data](articles/0ac03354.json)
+
+---
+
 ### Cabinet approval for signing agreement on bilateral debt renovation agreement
 
 *2024-06-25 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/186942) · `ta`
@@ -780,6 +920,26 @@ The mango leaf in the courtyard of Mana's house on Chavakachcheri Touch Road has
 
 ---
 
+### Sri Lanka apparel showcased in London under ‘Your Vital Island’ brand
+
+*2024-06-25 14:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-apparel-showcased-in-london-under-your-vital-island-brand-169469/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s textile and apparel industry has showcased the country as a sourcing destination at an exhibition in the United Kingdom, the Export Development Board said.
+
+The primary goal of Sri Lanka’s participation in the exhibition is to discover new buyers and provide a boost to the country’s apparel export sector aiming to increase apparel exports to the United Kingdom by a billion dollar in 2026, the EDB said.
+
+Sri Lanka unveiled its “Your Vital Island” brand to reaffirm its “dedication to meeting global standards while preserving its distinctive identity.”
+
+“It signals a promise of unparalleled quality, unique products, and customized services, all delivered with genuine authenticity.”
+
+The export promotion programme titled “Sourced Sri Lanka” was organized by the EDB, Sri Lanka Apparel Sourcing Association (SLASA), Sri Lanka High Commission in the UK, and Joint Apparel Association Forum (JAAF).
+
+...
+
+[Data](articles/5df3b1d0.json)
+
+---
+
 ### Maximum support of the Bora Federation Success
 
 *2024-06-25 14:18:36* · [`adalk`](https://www.ada.lk/breaking_news/බෝරා-සම්මේලනය-සාර්ථක-කර-ගැනීමට-රජයේ-උපරිම-සහාය/11-410426) · `si`
@@ -871,6 +1031,28 @@ According to the statement, the Ministry of Education has intervened to reduce t
 [Data](articles/e175adbd.json)
 
 [Extended Data](ext_articles/e175adbd.ext.json)
+
+---
+
+### Sri Lanka’s Commercial Bank Rs10bn to sell up to 10-year 13.5-pct debt
+
+*2024-06-25 13:47:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-rs10bn-to-sell-up-to-10-year-13-5-pct-debt-169251/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Commercial Bank said it is selling debentures to sell up to 10 year debt paying up to 13.5 percent to boost its Tier II capital.
+
+The Bank will initially issue 100 million Basel III compliant – Tier 2 listed rated unsecured subordinated redeemable debentures with a non-viability conversion feature, at 100 rupees each, to raise 10 billion.
+
+It would issue up to a further 50 million debentures in the event of an oversubscription of the initial issue.
+
+A further 50 million debentures would be issued in the event of an oversubscription of the initial issue and the second tranche.
+
+The Bank said the issue will further strengthen its Tier II capital base, raise funds for the expansion of its lending portfolio, and bridge maturity mismatches in the assets and liabilities portfolio of the Bank.
+
+The Colombo Stock Exchange (CSE) has approved in principle the listing of the debenture issue, which opens on July 2.
+
+...
+
+[Data](articles/e4d05085.json)
 
 ---
 
@@ -1076,6 +1258,24 @@ He said that additionally, President also mentioned this ‘good news’ will be
 
 ---
 
+### Sri Lanka to publish revised draft bill amending Mediation Board Act
+
+*2024-06-25 13:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-publish-revised-draft-bill-amending-mediation-board-act-169462/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s cabinet of ministers has approved a proposal to publish a revised draft bill to amend Section 7 of the Mediation Board Act.
+
+The cabinet had previously approved a proposal to amend Section 7 of the Mediation Board Act No. 72 of 1988 to mandate court appearances when mediation is not agreed upon by both parties. It would also deal with administrative issues such as delays in issuing non-clearance certificates by mediation boards and the lack of established or operational mediation boards.
+
+The Government Information Department said on Tuesday June 25 that the Legal Draftsman has drafted the revised bill which the Attorney General has already cleared.
+
+The cabinet of ministers has thus approved a proposal by Minister of Justice, Prison Affairs and Constitutional Reforms Wijeyadasa Rajapakshe to publish the draft bill in the government gazette and present it to parliament for its approval.
+
+...
+
+[Data](articles/7d0b4095.json)
+
+---
+
 ### The land of the Co-operative Society was written to his name
 
 *2024-06-25 13:19:54* · [`adalk`](https://www.ada.lk/breaking_news/සමූපකාර-සමිතියේ-ඉඩම-සභාපති-තම-නමට-ලියාගෙන/11-410423) · `si`
@@ -1136,6 +1336,26 @@ The maritime is a 40 year old Navy, a resident of the Ibbagamuwa, Kurunegala.
 
 ---
 
+### Sri Lanka to digitize monks’ education through piriven
+
+*2024-06-25 13:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-digitize-monks-education-through-piriven-169449/) · `en`
+
+ECONOMYNEXT – Sri Lanka will digitalize education in priven, or schools for monks, cabinet spokesman minister Bandula Gunawardena said.
+
+“The president is committed to digitalizing classrooms,” Gunawardena told reporters on Tuesday. “The same should apply for piriven.”
+
+“We have 825 piriven in this country with over 100,000 students,” Gunawardena said.
+
+These monastic colleges will be provided computers, smart boards and printers.
+
+Sri Lanka is in the process of digitizing its classrooms with funding from the Chinese Government. (Colombo/Jun25/2024)
+
+◼️
+
+[Data](articles/2318e232.json)
+
+---
+
 ### Enjoining order against Wijayadasa extended
 
 *2024-06-25 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198135) · `si`
@@ -1157,6 +1377,44 @@ Thereafter, the court ordered to be summoned to July 9, the court ordered to be 
 [Data](articles/4a2b4cb5.json)
 
 [Extended Data](ext_articles/4a2b4cb5.ext.json)
+
+---
+
+### Cabinet nod for developing Sri Lanka’s World War II-era Hingurakkogda airbase
+
+*2024-06-25 12:46:00* · [`economynextcom`](https://economynext.com/cabinet-nod-for-developing-sri-lankas-world-war-ii-era-hingurakkogda-airbase-169432/) · `en`
+
+ECONOMYNEXT — Three months after the government announced plans to revamp the World War II-era Hingurakkgoda airbase to an international airport, Sri Lanka’s cabinet of ministers has approved a proposal to develop it into a fully fledged airport.
+
+The Government Information Department said on Tuesday June 25 that a joint proposal by President Ranil Wickremesinghe in his capacity as Minister of Defence and Minister of Ports, Shipping and Aviation Nimal Siripala de Silva to “make preparations to develop Higurakgoda Airport as a complete airport”.
+
+According to the statement, the purported preparations will be based on the recommendations made by a committee comprising representatives of the Sri Lanka Air Force, the Sri Lanka Civil Aviation Authority, Airports and Aviation Company (Sri Lanka) (Pvt) Ltd and the Road Development Authority. The committee was appointed to formulate a master plan for the airport and related tasks.
+
+...
+
+[Data](articles/da01f7e2.json)
+
+---
+
+### Sri Lanka to sign Paris Club debt deals Wednesday: Minister
+
+*2024-06-25 12:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-sign-paris-club-debt-deals-wednesday-minister-169439/) · `en`
+
+ECONOMYNEXT – Sri Lanka will sign agreements with Paris Club creditors Wednesday, after cabinet appoved the deals, spokesman Minister Bandula Gunawardana said.
+
+The relevant senior officials and State Minister Shehan Semasinghe has already left the country to sign the agreements, he said.
+
+Sri Lanka has held detailed negotiations with bilateral creditors ever since a sovereign default in 2022 and President Ranil Wickremesinghe has personally met leaders of friendly countries to expedite the restructuring, he said.
+
+The finalizing of the restructure was a ‘great victory’ for Sri Lanka he said.
+
+Details will be revealed to parliament by President Wickremesinghe and an address to the nation on Wednesday he said.
+
+Discussion with private bondholders are also taking place separately, he said. (Colombo/June25/2024)
+
+◼️
+
+[Data](articles/fe58b01a.json)
 
 ---
 
@@ -1431,6 +1689,42 @@ Minister Mahinda Amaravarared Minister further stated that there is no fertilize
 [Data](articles/32a3d31e.json)
 
 [Extended Data](ext_articles/32a3d31e.ext.json)
+
+---
+
+### Sri Lanka to call bids for new O&M contractor for Mannar wind farm
+
+*2024-06-25 11:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-call-bids-for-new-om-contractor-for-mannar-wind-farm-169425/) · `en`
+
+ECONOMYNEXT – Sri Lanka will call call competitive bids to select a new operation and maintenance contractor for Ceylon Electricity Board’s ‘Thambapavahini’ wind farm, cabinet spokesman minister Bandula Gunawardena said.
+
+The existing O&M contract with Vestas Wind Lanka (Pvt) Limited for three years had ended in May this year.
+
+“Therefore, a new service provider should be selected for those functions,” Minister Gunawardana said.
+
+“Accordingly, the Cabinet approved the proposal presented by the Minister of Power and Energy to select a suitable service provider following a competitive procurement process.”
+
+Situated on Mannar Island in Sri Lanka’s north west coast, Thambapavani is the country’s largest wind farm.
+
+◼️
+
+[Data](articles/fdce4e19.json)
+
+---
+
+### Sri Lanka’s Interim Secretariat for Truth and Reconciliation holds consultations in Monaragala
+
+*2024-06-25 11:46:00* · [`economynextcom`](https://economynext.com/sri-lankas-interim-secretariat-for-truth-and-reconciliation-holds-consultations-in-monaragala-169407/) · `en`
+
+ECONOMYNEXT — A cabinet-approved Interim Secretariat for Truth and Reconciliation Mechanism (ISTRM) has conducted stakeholder consultations in the Monaragala district to “gather insights and address community challenges” stemming from Sri Lanka’s ethnic conflict, the president’s office said.
+
+The President’s Media Division (PMD) said on Monday June 24 that the ISTRM team met Monaragala District Secretary R M P S. B Rathnayake on June 5 to brief him on the proposed Commission for Truth, Unity, and Reconciliation Bill and the work undertaken by the ISTRM.
+
+On June 6, consultations were held with villagers affected by the war in Ethimale, Okkampitiya, and Mahagodayaya at their respective Divisional Secretariat offices to address issues stemming from the 30-year conflict.
+
+...
+
+[Data](articles/86e10af4.json)
 
 ---
 
@@ -2045,335 +2339,5 @@ Sri Lanka Navy has arrested over 200 Indian fishermen and seized more than 27 In
 [Data](articles/b85690c3.json)
 
 [Extended Data](ext_articles/b85690c3.ext.json)
-
----
-
-### World Bank is $ 150 million to Sri Lanka
-
-*2024-06-25 09:15:29* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-බැංකුවෙන්-ලංකාවට-ඩොලර්-මිලියන-150ක-මූල්‍ය-පහසුකමක්/11-410419) · `si`
-
-The World Bank has approved a $150 million aid package for Sri Lanka to enhance its primary healthcare system.
-
-🟩
-
-The Board of Directors has approved Sri Lanka to provide a financial assistance of US $ 150 million to expand Sri Lanka's primary health care in Sri Lanka.
-
-◼️
-
-[Data](articles/c98f0fc6.json)
-
-[Extended Data](ext_articles/c98f0fc6.ext.json)
-
----
-
-### Ship soldier dies after being arrested in Indian fishermen
-
-*2024-06-25 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198127) · `si`
-
-An injured navy soldier died after arresting 10 Indian fishermen caught poaching near Delft Island.
-
-🟩
-
-A suicide soldier who was injured after the arrest of a group of Indian fishermen have been killed.
-
-The Navy stated that 10 Indian fishermen were arrested by a illegal vessel in the sea area on Delft Island.
-
-A naval soldier suffered injuries in an incident that had been arrested.
-
-◼️
-
-[Data](articles/5868f294.json)
-
-[Extended Data](ext_articles/5868f294.ext.json)
-
----
-
-### World Bank approves $150 million to improve primary healthcare services in Sri Lanka
-
-*2024-06-25 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100081/world-bank-approves-150-million-to-improve-primary-healthcare-services-in-sri-lanka) · `en`
-
-The World Bank’s Board of Executive Directors has approved $150 million in financing for Sri Lanka to improve the quality and utilization of its primary healthcare services.
-
-The newly approved Sri Lanka Primary Healthcare System Enhancing Project will help improve quality of care and increase the use of primary medical care institutions, which provide essential health services to local communities, a statement said.
-
-Capacity challenges and absence of a formal referral mechanism have led to the underutilization of primary healthcare facilities and overcrowding in tertiary care facilities in Sri Lanka.
-
-The previous World Bank-supported Primary Healthcare Systems Strengthening Project had already enhanced 550 Primary Medical Care Institutions with essential equipment, medicines, health workers and basic laboratory testing facilities.
-
-...
-
-[Data](articles/65a10fc5.json)
-
-[Extended Data](ext_articles/65a10fc5.ext.json)
-
----
-
-### Is this the case for the police officer?Arrest
-
-*2024-06-25 09:02:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-அதிகாரிக்கு-இந்த-நிலையா-ஐவர்-கைது/175-339370) · `ta`
-
-Five suspects aged 30-42 from Dunuwanka were arrested for robbing a Mirihana police officer, who was attacked at his home during vacation. The officer is hospitalized in Badulla.
-
-🟩
-
-Badulla police said that five suspects have been arrested yesterday (24) in connection with the robbery of a police officer working in the Mirihana Police Division and robbed 3 lakhs of 30 thousand rupees.
-
-The suspects arrested in connection with the incident were between the ages of 30 - 42 and were from the Dunuwanka area, police said.
-
-It is reported that the attack took place when the police officer who was working at the Mirihana police arrived at his home on vacation.
-
-Hospital sources say that the police officer who was injured in the attack is currently being treated at the Badulla Teaching Hospital.
-
-Police are taking steps to appear in the court today. Remble
-
-◼️
-
-[Data](articles/e1186e7d.json)
-
-[Extended Data](ext_articles/e1186e7d.ext.json)
-
----
-
-### A $ bag of dollars from the World Bank
-
-*2024-06-25 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198126) · `si`
-
-The World Bank approved a $150 million grant to Sri Lanka to enhance its primary healthcare services.
-
-🟩
-
-The World Bank has approved a $ 150 million base to Sri Lanka.
-
-The World Bank Executive Directors of the World Bank has approved the financial assistance to improve the quality of the country's primary health services.
-
-◼️
-
-[Data](articles/809f6d67.json)
-
-[Extended Data](ext_articles/809f6d67.ext.json)
-
----
-
-### Julian Assange was bail - out of prison.
-
-*2024-06-25 08:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/186896) · `ta`
-
-Julian Assange, founder of WikiLeaks, was released from London's Belmarsh High Security Prison and then flown to Stansted Airport. He is expected to appear in court in Samoa, according to the US Department of Justice.
-
-🟩
-
-Asngee, one of the founders of Wikilix, has been released from London's Bellmorch High Security Prison, Guardian said.
-
-After being released from the prison, he has been released on the plane at Stanset Airport.
-
-The US Department of Justice has said that he will appear at the Samastine Court on the island of Marina in West Pacific.
-
-◼️
-
-[Data](articles/b93d64ff.json)
-
-[Extended Data](ext_articles/b93d64ff.ext.json)
-
----
-
-### Sri Lanka to begin second round of talks with ISB holders: report
-
-*2024-06-25 08:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-begin-second-round-of-talks-with-isb-holders-report-169353/) · `en`
-
-ECONOMYNEXT – Sri Lanka is planning a second round of talks with sovereign bond holders later this week, a media report said as the island is also expecting the announcement of a final deal by bilateral lenders.
-
-Investors in a steering committee representing key bondholders have halted trading and are in a ‘restricted’ period, indicating a new round of direct talks, Bloomberg Newswires said.
-
-Sri Lanka is attempting to restructure 12.5 billion dollars of sovereign bonds and about 1.7 billion dollars of past due interest following the declaration of an external default in 2022.
-
-Private investors are seeking some so-called macro-linked bonds whose final haircut is linked to dollar GDP as well as some standard or ‘plain vanilla’ bonds with an upfront haircut.
-
-The style of bonds have not been used in sovereign restructurings before. In the latest round of talks more plain vanilla bonds may be discussed, sources aware of the thinking of some bond investors said.
-
-...
-
-[Data](articles/de5139ca.json)
-
-[Extended Data](ext_articles/de5139ca.ext.json)
-
----
-
-### 21,000 Palestinian children go missing
-
-*2024-06-25 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198125) · `si`
-
-A report reveals that during the Gaza War, 21,000 Palestinian children went missing.
-
-🟩
-
-The latest report has been revealed that 21,000 Palestinian children have been in the event of the Gaza War.
-
-◼️
-
-[Data](articles/06ea08ae.json)
-
-[Extended Data](ext_articles/06ea08ae.ext.json)
-
----
-
-### Freedom to the Creator of the WikiLeaks website
-
-*2024-06-25 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198124) · `si`
-
-Julian Assange, founder of WikiLeaks, was released from a UK prison after being held for several years without charges directly related to his disclosures. His release comes amid allegations against him by the U.S., which had previously charged him with 18 counts related to WikiLeaks' activities. Assange was arrested in April 2019 and imprisoned in Belmarsh, a high-security facility in London.
-
-🟩
-
-WikiLeaks a website to disclose a secret information, Julian Assange was released from a UK prison for many years.
-
-Foreign media has said that this freedom has been given to the allegations made by Julian Assange on the agreement with an agreement with the US.
-
-The US Judicial Department had filed 18 accusations from the US Judicial Department of WikiLeaks WikiLeaks.
-
-Accordingly, he was arrested on 11th April 2019 and sent to the Belmarush Prison, a London's high security prison.
-
-◼️
-
-[Data](articles/4602b207.json)
-
-[Extended Data](ext_articles/4602b207.ext.json)
-
----
-
-### Such fears reveal the minister Manusha
-
-*2024-06-25 07:55:04* · [`adalk`](https://www.ada.lk/breaking_news/සුබ-ආරංචිය-එනවාට-බය-අය-ඇමති-මනූෂ-හෙළි-කරයි/11-410418) · `si`
-
-In a speech at the Moneragala District Office, the Minister highlighted the importance of foreign employment, noting that despite fears, many return to contribute significantly to the economy, sending over US$12 billion in the last two years. The Minister criticized those who oppose progress and expressed gratitude towards leaders like President Rajapaksa and Prime Minister Wickremesinghe for their dedication to the nation's development.
-
-🟩
-
-Those who were afraid to come to the country and learned that the country would come to the country, and they had begun to run to the country and began to date on the four hand.
-
-The Minister was speaking at the opening ceremony of the Moneragala District Office of the Sri Lanka Bureau of Foreign Employment.
-
-Those who wish to fall in the queue, the people who want to die and die of the country, who want to die and die of medication never to die and die of the country will be sent to death and die without medication.. Nobody says the JVP.
-
-But foreign workers have sent about US $ 12 billion in the past two dsara. The President's program was able to breathe back to the country.
-
-...
-
-[Data](articles/e25d661b.json)
-
-[Extended Data](ext_articles/e25d661b.ext.json)
-
----
-
-### BMICH is a suspicious death
-
-*2024-06-25 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198123) · `si`
-
-In two separate incidents, bodies were discovered: one near the Bandaranaike Memorial Conference Hall and another in a jungle area in the Polphipagama Police Division. The first victim, found near the conference hall, underwent a magisterial inquiry before being handed over to their family. The second victim, a 53-year-old from Polblepitigama, Malushna, was reportedly killed by an elephant.
-
-🟩
-
-A person has been suspected near the Bandaranaike Memorial Conference Hall of the Cinnamon Gardens Police Division.
-
-During yesterday (24), the body was found in a message to the Cinnamon Gardens Police.
-
-The magisterial inquiry into the body has been conducted by the body of the corporation and handed over to the relatives.
-
-Meanwhile, a body of a person has been conducted in a jungle area in the Polphipagama Police Division.
-
-The victim was a 53 year old resident of Polblepitigama, Malushna.
-
-The deceased has been found since the deceased has been reported from the elephant.
-
-◼️
-
-[Data](articles/014ab327.json)
-
-[Extended Data](ext_articles/014ab327.ext.json)
-
----
-
-### WikiLeaks founder Julian Assange to plead guilty in deal with US and be freed from prison
-
-*2024-06-25 07:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100080/wikileaks-founder-julian-assange-to-plead-guilty-in-deal-with-us-and-be-freed-from-prison) · `en`
-
-(AP) — WikiLeaks founder Julian Assange will plead guilty to a felony charge in a deal with the U.S. Justice Department that will allow him to walk free and resolve a long-running legal saga that spanned multiple continents and centered on the publication of a trove of classified documents.
-
-Assange left a British prison on Monday and will appear later this week in the U.S. federal court in the Northern Mariana Islands, a U.S. commonwealth in the Western Pacific. He’s expected to plead guilty to an Espionage Act charge of conspiring to unlawfully obtain and disseminate classified national defense information, the Justice Department said in a letter filed in court.
-
-...
-
-[Data](articles/b0b78f6b.json)
-
-[Extended Data](ext_articles/b0b78f6b.ext.json)
-
----
-
-### 116 runs in Afghanistan
-
-*2024-06-25 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198122) · `si`
-
-In the World Cup, Bangladesh defeated Afghanistan by 116 runs. Afghanistan scored 115 runs in 20 overs, losing 5 wickets. Rishad Hossain was Bangladesh's top bowler with 3 wickets.
-
-🟩
-
-The match between the Bangladesh team and Afghanistan in the World Cup match will be held in the world.
-
-The Afghan group scored 115 runs for the loss of 5 wickets at the end of the total 20 overs.
-
-Rishad HOSSAIN took 03 wickets for Bangladesh.
-
-Bangladesh has won 116 runs in order to win the match.
-
-◼️
-
-[Data](articles/980f350e.json)
-
-[Extended Data](ext_articles/980f350e.ext.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2024-06-25 07:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100079/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Heavy showers of about 100mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy and Nuwara-Eliya districts.
-
-Several spells of showers may occur in Matale district, it said.
-
-Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-◼️
-
-[Data](articles/89512c42.json)
-
-[Extended Data](ext_articles/89512c42.ext.json)
-
----
-
-### Administrative Society abandals trade union action
-
-*2024-06-25 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198121) · `si`
-
-After discussions with the Prime Minister, the Sri Lanka Administrative Service Union temporarily halted its trade union action. The union agreed to resume work from June 1st, following an increase in allowances. The President of the Association, Mahesh Gammanpila, announced this decision. Despite this, other unions, including the Education Management Workers Union and Teacher-Principal Trade Unions, plan to continue striking. The university union integration committee also indicated that the ongoing strike by university employees would persist.
-
-🟩
-
-The Sri Lanka Administrative Service Association says that after the discussion with the Prime Minister, the Sri Lanka Administrative Service Union states that his trade union action has been temporarily suspended.
-
-The President of the Association Mahesh Gammanpila stated that it has been agreed to increase the allowances to operate from the first June.
-
-The Sri Lanka Administrative Service Union had decided to be frequent of being frequent of the sick leave, reports the sick leave.
-
-Prime Minister Dinesh Gunawardena and the trade union representatives have held a special discussion regarding the demands yesterday (24).
-
-The President of the Sri Lanka Administrative Service Union (SLBC) has decided to stop the trade union action, as it was possible to reach the discussion.
-
-...
-
-[Data](articles/8c8317bc.json)
-
-[Extended Data](ext_articles/8c8317bc.ext.json)
 
 ---

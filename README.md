@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 10:20:01**
+As of **2024-06-25 10:34:45**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,250
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,028 (100.0%) of 32,029 articles have been extended.
+32,029 (100.0%) of 32,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### මත්කුඩු කිලෝ 200ක් සමග 6ක් අත්අඩංගුවට
+### Six drugs arrested with 200 kg
 
 *2024-06-25 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198128) · `si`
 
-මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 200ක් රැගෙන යමින් තිබූ බහුදින ධීවර යාත්‍රාවක් නාවික හමුදා භාරයට ගෙන තිබේ.
+The Navy intercepted a fishing boat transporting 200kg of drugs over several days, leading to the arrest of six individuals involved.
 
-බටහිර වෙරළට ඔබ්බෙන් වූ මුහුදු ප්‍රදේශයේදී එම යාත්‍රාව සමග සැකකරුවන් 6 දෙනෙකු අත්අඩංගුවට ගෙන ඇත.
+🟩
+
+Navy seized a multi-day fishing vessel carrying 200 kilograms of drugs.
+
+Six suspects have been arrested along with the vessel in the sea area.
 
 ◼️
 
 [Data](articles/6bbe76e3.json)
+
+[Extended Data](ext_articles/6bbe76e3.ext.json)
 
 ---
 

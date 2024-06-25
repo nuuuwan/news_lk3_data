@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 23:54:35**
+As of **2024-06-26 00:19:48**
 
 ## Newspaper Stats
 
-*Scraped **32,150** Articles*
+*Scraped **32,151** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 295
 bbccomsinhala | 317
 newsfirstlk | 363
 islandlk | 1,781
-economynextcom | 1,867
+economynextcom | 1,868
 dailyftlk | 1,964
 adalk | 2,834
 adaderanalk | 3,653
@@ -26,27 +26,37 @@ adaderanasinhalalk | 5,274
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,149 (100.0%) of 32,150 articles have been extended.
+32,150 (100.0%) of 32,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### இரு நாள் விஜயமாக இலங்கை வந்தது “சச்செட்”
+### Sri Lanka arrived in Sri Lanka as a two -day visit "Sachet"
 
 *2024-06-25 23:30:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-நாள்-விஜயமாக-இலங்கை-வந்தது-சச்செட்/175-339432) · `ta`
 
-இலங்கை கரையோரக் காவல் படை கப்பலான சுரக்‌ஷாவுக்கு 1.2 மில்லியன் அமெரிக்க டொலர் பெறுமதியான உதிரிப் பாகங்களை இந்திய கரையோரக் காவல் படைக் கப்பலான சச்செட் அன்பளிப்பாக வழங்கியது இந்திய கரையோரக் காவல் படைக் கப்பலான சச்செட் இரு நாள்
+During a two-day visit, the Indian Coast Guard presented a $1.2 million gift of spare parts to the Sri Lankan coastal police vessel, Suraksha. This gesture, involving high-ranking officials from both nations, underscores India's commitment to enhancing maritime security in the region through mutual cooperation.
 
-இலங்கை கரையோரக் காவல் படை கப்பலான சுரக்‌ஷாவுக்கு 1.2 மில்லியன் அமெரிக்க  டொலர் பெறுமதியான உதிரிப் பாகங்களை அன்பளிப்பாக வழங்குவதற்காக கரையோரக் காவல் படையின் குறித்த ரோந்துக் கப்பல் இவ்விஜயத்தினை மேற்கொண்டிருந்தது.
+🟩
 
-இவ்வருகையின் அங்கமாக இக்கப்பலின் கட்டளை அதிகாரி பிரதி அத்தியட்சகர் ஜெனரல் ஆர் ராஜேஷ் நம்பிராஜ் TM அவர்கள் மேற்கு கடற் பிராந்திய தளபதி ரியர் அட்மிரல் TSK பெரேரா அவர்களையும் இலங்கை கரையோரக் காவல் படையின் பணிப்பாளர் நாயகம் ரியர் அட்மிரல் பூஜித விதான அவர்களையும் சந்தித்திருந்தார்.
+Sri Lanka Coastal Police Ship
 
-2. இந்த விஜயத்தின் ஓர் அங்கமாக நடைபெற்றிருந்த நிகழ்வொன்றில் இந்திய கரையோரக் காவல் படையின் இக்கப்பலால் இலங்கை கரையோரக் காவல் படை கப்பலான சுரக்ஷாவுக்கு தேவையான உதிரிப் பாகங்கள் உத்தியோகபூர்வமாக கையளிக்கப்பட்டிருந்தன. இந்நிகழ்வில்
+The Patrol Ship on the Coastal Police for giving a gift of US $ 1.2 million worth of spare parts for the Sri Lankan coastal police vessel, Suraksha.
+
+As a part of the ship's Commanding Officer, R. Rajesh Nambiraj TM, the Western Western Regional Commander Rear Admiral TSK Perera and the Director General of the Sri Lanka Coast Guard, Rear Admiral Poojitha Vidhana.
+
+௨. At an event held as part of the visit, the Indian Coast Guard was officially handed over to the Sri Lankan Coast Guard, Suraksha, the Sri Lanka Coast Guard, Suraksha.. At the event
+
+Sri Lanka's High Commissioner of India, Hon. Santosh Ja, Sri Lanka's Defense Secretary General Kamal Gunaratne (Retired), Navy Commander Vice Admiral Priyantha Perera, Western Regional Navy Commander Rear Admiral TSK Perera
+
+Senior officials of the Sri Lanka Coastal Police Force were also in the limelight. The ship left on June 21, 2024.
 
 ...
 
 [Data](articles/dd307911.json)
+
+[Extended Data](ext_articles/dd307911.ext.json)
 
 ---
 
@@ -377,6 +387,30 @@ Face to face talks with bond holders are likely to start Thursday, sources said.
 [Data](articles/291c1139.json)
 
 [Extended Data](ext_articles/291c1139.ext.json)
+
+---
+
+### Sri Lanka to sign Paris Club debt deals as fresh ISB talks to also start
+
+*2024-06-25 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-sign-paris-club-debt-deals-as-fresh-isb-talks-to-also-start-169539/) · `en`
+
+ECONOMYNEXT – Sri Lanka will sign agreements on restructured debt with Paris Club creditors Wednesday, Cabinet spokesman Minister Bandula Gunawardana said as sources said talks with private creditors are also due to start later in the week.
+
+The relevant senior officials and State Minister Shehan Semasinghe has already left the country to sign the agreements, Minister Gunawardana said.
+
+Sri Lanka has held detailed negotiations with bilateral creditors ever since a sovereign default in 2022 and President Ranil Wickremesinghe has personally met leaders of friendly countries to expedite the restructuring, he said.
+
+The finalizing of the restructure was a ‘great victory’ for Sri Lanka he said.
+
+Details will be revealed to parliament by President Wickremesinghe and an address to the nation on Wednesday he said.
+
+Discussion with private bondholders are also taking place separately, he said.
+
+Face to face talks with bond holders are likely to start Thursday, sources said.
+
+...
+
+[Data](articles/9397fda4.json)
 
 ---
 
@@ -2365,27 +2399,5 @@ A six -year -old girl has been admitted to the Hambantota General Hospital to ch
 [Data](articles/a53617eb.json)
 
 [Extended Data](ext_articles/a53617eb.ext.json)
-
----
-
-### Body of person who died under suspicious circumstances found near BMICH
-
-*2024-06-25 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100085/body-of-person-who-died-under-suspicious-circumstances-found-near-bmich) · `en`
-
-The body of a person who had died under suspicious circumstances has been found near the Bandaranaike Memorial International Conference Hall (BMICH) in Colombo 07.
-
-The body was recovered based on information received by Cinnamon Garden Police yesterday (24).
-
-Police revealed that the deceased person was identified as a 39-year-old resident of Rawatawatte area of Moratuwa.
-
-Following the conducting of the postmortem examination, the body has been handed over to the family members of deceased, police said.
-
-Cinnamon Garden Police are conducting further investigations regarding the incident.
-
-◼️
-
-[Data](articles/6b8d26e7.json)
-
-[Extended Data](ext_articles/6b8d26e7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 15:34:53**
+As of **2024-06-25 15:53:35**
 
 ## Newspaper Stats
 
-*Scraped **32,076** Articles*
+*Scraped **32,078** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 1,853
 dailyftlk | 1,964
 adalk | 2,821
 adaderanalk | 3,647
-tamilmirrorlk | 3,781
+tamilmirrorlk | 3,782
 dailymirrorlk | 4,733
 virakesarilk | 4,964
-adaderanasinhalalk | 5,262
+adaderanasinhalalk | 5,263
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,076 (100.0%) of 32,076 articles have been extended.
+32,076 (100.0%) of 32,078 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### හිඟුරක්ගොඩ ගුවන්තොටුපොළ සංවර්ධනයට කැබිනට් අනුමැතිය
+
+*2024-06-25 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198141) · `si`
+
+හිඟුරක්ගොඩ ගුවන්තොටුපොළ අංග සම්පූර්ණ ගුවන්තොටුපොළක් වශයෙන් සංවර්ධනය කිරීම සඳහා අවශ්‍ය පියවර ගැනීම සඳහා කැබිනට් අනුමැතිය හිමිවී තිබේ.
+
+ආරක්ෂක අමාත්‍යවරයා වශයෙන් ජනාධිපතිවරයා සහ වරාය, නාවික හා ගුවන් සේවා අමාත්‍යවරයා ඉදිරිපත් කළ ඒකාබද්ධ යෝජනාවක් එලෙස අමාත්‍ය මණ්ඩලය විසින් අනුමත කර ඇත.
+
+හිඟුරක්ගොඩ ගුවන්තොටුපොළ සංවර්ධනය කිරීම දැනට ශ්‍රී ලංකා ගුවන් හමුදාවේ කළමනාකාරිත්වය යටතේ මෙහෙයවනු ලබන අතර මෙය ජාත්‍යන්තර සිවිල් ගුවන්සේවා ප්‍රමිතීන්ට අනුකූලව සංවර්ධනය කිරීමේ අවශ්‍යතාව හඳුනා ගනු ලැබ තිබුණි.
+
+ඒ අනුව, එම ගුවන්තොටුපොළ සඳහා ප්‍රධාන සැලැස්ම සකස් කිරීම සහ ඊට අදාළ අනෙකුත් කාර්යයන් සඳහා ශ්‍රී ලංකා ගුවන් හමුදාව, ශ්‍රී ලංකා සිවිල් ගුවන් සේවා අධිකාරිය, සීමා සහිත ගුවන්තොටුපොළ සහ ගුවන් සේවා ( ශ්‍රී ලංකා) (පුද්ගලික) සමාගම සහ මාර්ග සංවර්ධන අධිකාරිය යන ආයතනවල නියෝජිතයින්ගෙන් යුත් කමිටුවක් පත් කර ඇත.
+
+◼️
+
+[Data](articles/8d8d95ac.json)
+
+---
+
+### தனி குளவியால்   தாய் மரணம்
+
+*2024-06-25 15:12:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தனி-குளவியால்-தாய்-மரணம்/76-339398) · `ta`
+
+குளவி கொட்டுக்கு இலக்கான, மஸ்கெலியாவைச் சேர்ந்த பெண்ணொருவர், பேராதனை ஆதார வைத்திய சாலையில் சிகிச்சைப்பெற்று வந்த நிலையில் ஆறு நாட்களுக்குப் பின்னர் மரணமடைந்துள்ளார்.
+
+இரண்டு பிள்ளைகளின் தாயான, சிவகுமார் அந்தோனி டெரிண்டா (வயது 44) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.  வயது உடைய 2 குழந்தைகளின் தாய் ஆவார்.
+
+மஸ்கெலியா பெருந்தோட்ட கம்பனியின் மஸ்கெலியா கிலன்டில் பிரிவில், 19 ம் திகதி  பணிபுரிந்து கொண்டு இருந்த போது,  தனி ஒரு குளவி கொட்டியுள்ளது.
+
+பாதிக்கப்பட்ட பெண்,  மஸ்கெலியா மாவட்ட வைத்திய சாலையில் அனுமதிக்கப்பட்டு, டிக்கோயா- கிளங்கன் ஆதார வைத்திய சாலையில் மாற்றப்பட்டார். எனினும், மேலதிக சிகிச்சைகளுக்காக பேராதனை போதனா வைத்தியசாலைக்கு மாற்றப்பட்டதன் பின்னரே மரணமடைந்துள்ளார்.
+
+◼️
+
+[Data](articles/bb0da0ec.json)
+
+---
 
 ### A higher texts shot at home
 
@@ -2217,59 +2253,5 @@ The National Housing Development Authority first issues the rights of apartments
 [Data](articles/a0cabfaa.json)
 
 [Extended Data](ext_articles/a0cabfaa.ext.json)
-
----
-
-### 2024-06-24 (Monday)
-
-### Tamils ​​in Kalmunai
-
-*2024-06-24 23:57:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்முனையில்-தமிழர்கள்-வெகுண்டெழுந்தனர்/175-339363) · `ta`
-
-For over three decades, residents of Kalmunai North Divisional Secretariat have been protesting against administrative repression, escalating their struggle into an aggressive demonstration blocking roads and disrupting traffic. Led by the Sri Lanka Tamil National Alliance, they demand an end to what they perceive as oppressive governance tactics aimed at suppressing their rights. Despite the office's upgrade to a separate Divisional Secretariat in 1988, ongoing political maneuvering and alleged misuse of authority have fueled the protests. The community seeks a peaceful resolution, highlighting the need for fair treatment and justice.
-
-🟩
-
-For more than thirty years, the people of the area have been protesting for the 92nd day, condemning the maneuvers and administrative repression against the Kalmunai North Divisional Secretariat.
-
-But on Monday (24), they changed the form of struggle, closed the secretariat, crossed the streets and protested in an aggressive protest.. The traffic was completely inaccessible.. There was some sort of tension in the city.
-
-“The people said," Our struggle will continue until the government will no longer be able to depend on the administrative repression that can be planned and suppressed the rights of Kalmunai Northern Province. "
-
-People gathered in front of the Kalmunai North Divisional Secretariat and the main road in Kalmunai Batticaloa has been blocked.
-
-...
-
-[Data](articles/2d6196a3.json)
-
-[Extended Data](ext_articles/2d6196a3.ext.json)
-
----
-
-### India to the semi-finals
-
-*2024-06-24 23:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198115) · `si`
-
-In the T20 World Cup match on 24th, India and Australia competed. Batting first, India made 205/5, Rohit Sharma scoring 92. Mitchell Starc and Marcus Stoinis took 2 wickets each. Australia chased 206 but fell short, allowing India to reach the semi-finals.
-
-🟩
-
-India and Australia were able to win the Twenty Twenty World Cup match today (24).
-
-Batting first India scored 205 runs for the loss of 5 wickets in the loss of 5 wickets.
-
-Rohit Sharma scored 92 runs in front of the Indian innings.
-
-Mitchell Starc and Marcus Stoinis took 2 wickets each.
-
-The Australian batsmen began to score 181 runs in the end of 20 overs, which was chasing a target of 206 runs.
-
-Accordingly, the Indian team was able to qualify for the semi-finals.
-
-◼️
-
-[Data](articles/19fef0c5.json)
-
-[Extended Data](ext_articles/19fef0c5.ext.json)
 
 ---

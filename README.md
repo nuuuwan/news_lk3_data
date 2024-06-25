@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 23:34:58**
+As of **2024-06-25 23:54:35**
 
 ## Newspaper Stats
 
-*Scraped **32,149** Articles*
+*Scraped **32,150** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,867
 dailyftlk | 1,964
 adalk | 2,834
 adaderanalk | 3,653
-tamilmirrorlk | 3,789
+tamilmirrorlk | 3,790
 dailymirrorlk | 4,733
 virakesarilk | 4,984
 adaderanasinhalalk | 5,274
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,274
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,147 (100.0%) of 32,149 articles have been extended.
+32,149 (100.0%) of 32,150 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### இரு நாள் விஜயமாக இலங்கை வந்தது “சச்செட்”
+
+*2024-06-25 23:30:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-நாள்-விஜயமாக-இலங்கை-வந்தது-சச்செட்/175-339432) · `ta`
+
+இலங்கை கரையோரக் காவல் படை கப்பலான சுரக்‌ஷாவுக்கு 1.2 மில்லியன் அமெரிக்க டொலர் பெறுமதியான உதிரிப் பாகங்களை இந்திய கரையோரக் காவல் படைக் கப்பலான சச்செட் அன்பளிப்பாக வழங்கியது இந்திய கரையோரக் காவல் படைக் கப்பலான சச்செட் இரு நாள்
+
+இலங்கை கரையோரக் காவல் படை கப்பலான சுரக்‌ஷாவுக்கு 1.2 மில்லியன் அமெரிக்க  டொலர் பெறுமதியான உதிரிப் பாகங்களை அன்பளிப்பாக வழங்குவதற்காக கரையோரக் காவல் படையின் குறித்த ரோந்துக் கப்பல் இவ்விஜயத்தினை மேற்கொண்டிருந்தது.
+
+இவ்வருகையின் அங்கமாக இக்கப்பலின் கட்டளை அதிகாரி பிரதி அத்தியட்சகர் ஜெனரல் ஆர் ராஜேஷ் நம்பிராஜ் TM அவர்கள் மேற்கு கடற் பிராந்திய தளபதி ரியர் அட்மிரல் TSK பெரேரா அவர்களையும் இலங்கை கரையோரக் காவல் படையின் பணிப்பாளர் நாயகம் ரியர் அட்மிரல் பூஜித விதான அவர்களையும் சந்தித்திருந்தார்.
+
+2. இந்த விஜயத்தின் ஓர் அங்கமாக நடைபெற்றிருந்த நிகழ்வொன்றில் இந்திய கரையோரக் காவல் படையின் இக்கப்பலால் இலங்கை கரையோரக் காவல் படை கப்பலான சுரக்ஷாவுக்கு தேவையான உதிரிப் பாகங்கள் உத்தியோகபூர்வமாக கையளிக்கப்பட்டிருந்தன. இந்நிகழ்வில்
+
+...
+
+[Data](articles/dd307911.json)
+
+---
 
 ### State Minister Semasinghe meets CEO of Saudi Fund for Development
 
@@ -294,19 +312,25 @@ The inauguration of the Communications Center for Tourism, the Chief Secretary o
 
 ---
 
-### හිඟුරක්ගොඩට ජාත්‍යන්තර ගුවන් තොටුපොළක්
+### International airport for Hingurakgoda
 
 *2024-06-25 19:04:30* · [`adalk`](https://www.ada.lk/breaking_news/හිඟුරක්ගොඩට-ජාත්‍යන්තර-ගුවන්-තොටුපොළක්/11-410436) · `si`
 
-දැනට ශ්‍රී ලංකා ගුවන් හමුදාවේ කළමනාකාරිත්වය යටතේ මෙහෙයවනු ලබන හිඟුරක්ගොඩ ගුවන්තොටු පොළ ජාත්‍යන්තර සිවිල් ගුවන්සේවා ප්‍රමිතීන්ට අනුකූලව සංවර්ධනය කිරීමේ අවශ්‍යතාව හඳුනා ගනු ලැබ ඇත.
+The development of Hingurakgoda Airport is underway under the Sri Lanka Air Force and Civil Aviation Authority, with approval from the Cabinet of Defense. This project aims to transform it into a comprehensive airport, supported by key authorities including the Road Development Authority.
 
-ඒ අනුව එම ගුවන්තොටුපොළ සඳහා ප්‍රධාන සැලැස්ම සකස් කිරීම සහ ඊට අදාල අනෙකුත් කාර්යයන් සඳහා ශ්‍රී ලංකා ගුවන් හමුදාව, ශ්‍රී ලංකා සිවිල් ගුවන් සේවා අධිකාරිය, සීමාසහිත ගුවන්තොටුපොළ සහ ගුවන් සේවා (ශ්‍රී ලංකා) (පුද්ගලික) සමාගම සහ මාර්ග සංවර්ධන අධිකාරිය යන ආයතනවල නියෝජිතයින්ගෙන් යුත් කමිටුවක් පත් කරනු ලැබ තිබේ.
+🟩
 
-එකී කමිටුවේ නිර්දේශ පරිදි හිඟුරක්ගොඩ ගුවන්තොටු පොළ අංග සම්පූර්ණ ගුවන්තොටුපොළක් වශයෙන් සංවර්ධනය කිරීම පිණිස අවශ්‍ය පියවර ගැනීම සඳහා ආරක්ෂක අමාත්‍ය වශයෙන් ජනාධිපති සහ වරාය, නාවික හා ගුවන් සේවා අමාත්‍යවරයා  ඉදිරිපත් කළ ඒකාබද්ධ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කරන ලදී.
+The need to develop the Hingurakgoda Airport in line with the Sri Lanka Air Force management.
+
+Accordingly, the Sri Lanka Air Force, Civil Aviation Authority, Sri Lanka, Sri Lanka, Sri Lanka Air Force, Civil Aviation Authority (Sri Lanka) (Pvt) Ltd. (Pvt) Ltd. and Road Development Authority (Pvt) Ltd. and Road Development AuthorityHave been done.
+
+The Cabinet of Defense was approved by the Cabinet as the President and Ports, Navy and Aviation Minister to take necessary steps to develop the Hingurakgoda Airport as a complete airport in the committee.
 
 ◼️
 
 [Data](articles/b8078444.json)
+
+[Extended Data](ext_articles/b8078444.ext.json)
 
 ---
 
@@ -356,21 +380,31 @@ Face to face talks with bond holders are likely to start Thursday, sources said.
 
 ---
 
-### ණය ප්‍රතිව්‍යුහගත කිරීමේ ගිවිසුම්වලට හෙට අත්සන් තබයි
+### Signal tomorrow's restructuring agreements
 
 *2024-06-25 18:56:27* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීමේ-ගිවිසුම්වලට-හෙට-අත්සන්-තබයි/11-410434) · `si`
 
-ද්වී පාර්ශවික ණය හිමියන් සමග ණය ප්‍රතිව්‍යුහගත කිරීමේ ගිවිසුම්වලට අත්සන් තැබීමට කැබිනට් අනුමැතිය හිමි වූ බවත්  ඒ අනුව හෙට (26) දිනයේ  අදාළ ගිවිසුම් වලට අත්සන් තැබීම සිදු වන බව කැබිනට් ප්‍රකාශක, අමාත්‍ය  ආචාර්ය බන්දුල ගුණවර්ධන මහතා පැවසීය.
+Minister Dr. Bandula Gunawardena announced that restructuring agreements will be signed tomorrow, as part of efforts to address Sri Lanka's financial challenges without resorting to borrowing or debt restructuring. He emphasized the importance of transparency and the need for the government to manage international payments effectively to avoid defaulting on its obligations. The agreements will be presented to the President and then to Parliament for approval.
 
-අමාත්‍යවරයා මේ බව පැවසුවේ අද (25) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමිණි.
+🟩
 
-අත්සන් තබන ලබන සෑම ගිවිසුමක් හා එම ක්‍රවේදයන් සම්පූර්ණ විස්තරයක් ඉදිරියේදී ජනාධිපතිවරයා විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කරනු ඇති බවත්  හෙට දිනයේ ජනාධිපතිවරයා විසින් ජාතිය අමාතා ජයග්‍රහණයේ සුබ ආරංචිය රටේ ජනතාවට ලබා දෙනු ඇතයිද පැවසීය.
+Cabinet spokesman, Minister Dr. Bandula Gunawardena said that the relevant agreements were signed tomorrow (26).
 
-ශ්‍රී ලංකාවට අන්තරජාතික සහයෝගිතාවය නොමැති නම් හෝ රටක් විසින් ණය ප්‍රතිව්‍යුහගතකරණය නොකරන්නේ නම් කවුරුන් කවරාකාරයෙන් හෝ සති 02 ක් වත් ආණ්ඩුකරණය කල නොහැකි බව ද හෙතෙම පැවසීය.
+The Minister was speaking at a press briefing in the Government Information Department today (25).
+
+He will be presented by the President in the future and will be presented by the President to parliament to parliament on a complete description of the signing and those measures will be presented in Parliament tomorrow.
+
+He said that if Sri Lanka is not a borrowing cooperation or the restructuring of the debt, he said.
+
+He also stated that the International Monetary Fund, World Community and the World Fund and the World Community and the world's community cannot be lied to the world.
+
+He said what political stories would not be able to settle international payments in the country if they could not be able to cover the exports and importation of goods.
 
 ...
 
 [Data](articles/7909a653.json)
+
+[Extended Data](ext_articles/7909a653.ext.json)
 
 ---
 
@@ -2353,31 +2387,5 @@ Cinnamon Garden Police are conducting further investigations regarding the incid
 [Data](articles/6b8d26e7.json)
 
 [Extended Data](ext_articles/6b8d26e7.ext.json)
-
----
-
-### From space, "Rama Bridge"
-
-*2024-06-25 10:56:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விண்வெளியில்-இருந்து-ராமர்-பாலம்/175-339382) · `ta`
-
-The European Space Agency has shared a satellite image of the Rama Bridge, connecting India and Sri Lanka, showing its formation theory supported by geological evidence. The bridge, visible from space, spans between Rameswaram Island and Sri Lanka, with a sea depth ranging from 1 to 10 meters.
-
-🟩
-
-The European Agency has released the image of the Rama Bridge between India and Sri Lanka, taken by satellite from space.
-
-The Rama Bridge is located between Rameswaram Island, the southeastern island of India, 48 km from India and Sri Lanka.
-
-In the meantime, the Ramar Bridge has been sent to the Copenicus Sentinel - 2 satellite photo of the European Space Research Center.
-
-In this photo, the soil systems on the Ramar Bridge are dry and the depth of the sea is from one to 10 meters, the European Agency said.
-
-Despite many theories about how the bridge was formed, geographical evidence suggests that these limestone stones were once linked to Sri Lanka, according to geographical evidence.
-
-◼️
-
-[Data](articles/33fcdad8.json)
-
-[Extended Data](ext_articles/33fcdad8.ext.json)
 
 ---

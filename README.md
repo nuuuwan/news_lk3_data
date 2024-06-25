@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 15:04:39**
+As of **2024-06-25 15:19:23**
 
 ## Newspaper Stats
 
-*Scraped **32,074** Articles*
+*Scraped **32,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ islandlk | 1,781
 economynextcom | 1,853
 dailyftlk | 1,964
 adalk | 2,821
-adaderanalk | 3,646
+adaderanalk | 3,647
 tamilmirrorlk | 3,781
 dailymirrorlk | 4,733
 virakesarilk | 4,964
-adaderanasinhalalk | 5,261
+adaderanasinhalalk | 5,262
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,074 (100.0%) of 32,074 articles have been extended.
+32,074 (100.0%) of 32,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### උසස් පෙළ සිසුවෙක් නිවසෙදී වෙඩිතබා ගනී
+
+*2024-06-25 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198140) · `si`
+
+වෙඩිතබා ගෙන සියදිවි නසා ගත් උසස් පෙළ පාසල් සිසුවෙකු පිළිබඳ පුවතක් ගම්පොළ ප්‍රදේශයෙන් වාර්තා වෙයි.
+
+ගම්පොළ ඇත්ගාල පොලීසිය පැවසුවේ, රැකියාවට යන මවට වැඳ කාමරයට ගොස් ඇති අදාළ සිසුවා කාමරයේ දොර අගුල් දමාගෙන පතොරම් තුවක්කුවකින් මුඛයට වෙඩිතබා ගෙන මියගොස් ඇති බවය.
+
+මෙසේ මියගොස් ඇත්තේ ගම්පොළ පාර උලපනේ පදිංචි කේ.එම්.බී.ආර්.ජී. කුලසේකර නමැති 18 හැවිරිදි සිසුවෙකි.
+
+ඔහුගේ මව ගුරුවරියක වන අතර පියා වන සංරක්ෂණ දෙපාර්තමේන්තු සේවයෙන් විශ්‍රාම ගොස් පුද්ගලික අංශයේ සේවය කරන්නෙකි.
+
+එකම සොහොයුරා පේරාදෙණිය විශ්වවිද්‍යාලයේ කථිකාචාර්යවරයකු වන අතර එකම සොයුරිය කුරුණෑගල ශික්ෂණ රෝහලේ පුහුණුවන වෛද්‍යවරියකි.
+
+පියා සතු මෙම ගිනිඅවිය සඟවා තිබියදී එය සොයා ගෙන ඇති සිසුවා ඉන් මෙම වෙඩිතබා ගැනීම සිදු කරගෙන තිබූ බව පරීක්ෂණ පවත්වන පොලීසිය පවසයි.
+
+ගම්පොළ ජාත්‍යන්තර පාසලක ඉගෙනුම ලැබූ මෙම සිසුවා A සාමාර්ථ 08ක් හා B සාමාර්ථයක් සහිතව අ.පො.ස සාමාන්‍ය පෙළ විභාගය සමත්වීමෙන් පසු උසස් පෙළ හැදෑරීම සඳහා මෙලෙස මහනුවර ජනප්‍රිය පාසලකට ඇතුළුවී තිබුණි.
+
+නියමිත කාලයට වසරකට කලින් උසස් පෙළට සූදානම් වූ මොහුට විභාගය කරගැනීමට නොහැකි වෙතැයි බියක් තිබූ බවද පැවසෙයි.
+
+...
+
+[Data](articles/fd79a9cb.json)
+
+---
+
+### Injunction against Minister Wijeyadasa extended further
+
+*2024-06-25 14:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/100093/-injunction-against-minister-wijeyadasa-extended-further) · `en`
+
+The Colombo District Court has further extended the interim order issued preventing Justice Minister Wijeyadasa Rajapakshe from functioning as Chairman of the Sri Lanka Freedom Party (SLFP).
+
+This order was issued when a plaint filed by the Treasurer of SLFP, State Minister Lasantha Alagiyawanna was taken up before the court today (25).
+
+Meanwhile, the Colombo District Court granted time for the respondents to file objections in this regard.
+
+Subsequently, the case was ordered to be recalled on July 09, and the injunction will remain in effect until that date.
+
+◼️
+
+[Data](articles/c756ea4b.json)
+
+---
 
 ### Three ghosts arrested for attacking female devil
 
@@ -2221,39 +2265,5 @@ Accordingly, the Indian team was able to qualify for the semi-finals.
 [Data](articles/19fef0c5.json)
 
 [Extended Data](ext_articles/19fef0c5.ext.json)
-
----
-
-### Sri Lanka must renegotiate IMF Agreement for sustainable recovery from crisis
-
-*2024-06-24 23:37:06* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-must-renegotiate-IMF-Agreement-for-sustainable-recovery-from-crisis/4-763403) · `en`
-
-A minimum condition for any progressive and humane way out of this crisis is that the democratic space for citizens must be defended and extended
-
-There should be a change of orientation in dealings with the IMF and Sri Lanka’s creditors. The aim must be to protect the living standards of the people and to promote the growth of the economy in ways that expand incomes, create good-quality jobs, and improve the trade balance. This means that the debt restructuring process has to be based on ensuring that the debt stock does not increase with interest payments; on a haircut on commercial debt that is far more than 30%; on multilateral and bilateral agencies also accepting a reduction of their contribution to the debt stock
-
-We were invited to Sri Lanka between 9-11 June 2024, where we participated in consultations in Colombo with academics, researchers, activists and political parties.
-
-...
-
-[Data](articles/12a0bafa.json)
-
-[Extended Data](ext_articles/12a0bafa.ext.json)
-
----
-
-### Request for immediate publishing of National Socio-economic Recovery Program of party for social discourse
-
-*2024-06-24 23:30:19* · [`dailyftlk`](https://www.ft.lk/opinion/Request-for-immediate-publishing-of-National-Socio-economic-Recovery-Program-of-party-for-social-discourse/14-763402) · `en`
-
-Following is a letter to political party leaders of SLPP, SJB, JVP/NPP, SLFP, UNP, TNA and SLMC
-
-With elections, possibly the Presidential election first, followed by a parliamentary election thereafter, we see mainstream political parties focussing on elections, with heavy criticism of previous Governments, they were also party to at different times in different alliances. It is an irony therefore, the whole focus of all Opposition parties is on “corruption and economic crisis” with no mention of their responsibility for any of them. They also have only vague deviations from the IMF Program pursued by President Wickremesinghe-led Government. Shared perception nevertheless in both the Government and the Opposition is the IMF remains the sole saviour this moment, while the crisis is not merely economic.
-
-...
-
-[Data](articles/59d75eff.json)
-
-[Extended Data](ext_articles/59d75eff.ext.json)
 
 ---

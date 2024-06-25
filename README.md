@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 14:06:09**
+As of **2024-06-25 14:19:25**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 5,261
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,065 (100.0%) of 32,071 articles have been extended.
+32,071 (100.0%) of 32,071 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### දීමනා ගැන අධ්‍යාපන අමාත්‍යාංශයෙන් නිවේදනයක්
+### Ministry of Education announced on allowances
 
 *2024-06-25 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198139) · `si`
 
-අ.පො.ස සාමාන්‍ය පෙළ හා පහ ශ්‍රේණි ශිෂ්‍යත්ව විභාගවල උත්තර පත්‍ර සමීක්ෂණය සඳහා ගෙවනු ලබන දීමනා ප්‍රතිශතයාත්මකව ඉහළ දැමීමට අනුකමිටු නිර්දේශය ලැබී ඇති බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+The Ministry of Education has announced plans to submit allowances for O/L and Grade 5 Scholarship Exams to the Cabinet for approval. It also aims to replace the teachers' trade union representation within its structure. Additionally, the ministry has taken steps to reduce the costs of essential educational materials by 2022.
 
-එම නිර්දේශ අමාත්‍ය මණ්ඩලයට ඉදිරිපත් කර අනුමැතිය ලබා ගැනීමට කටයුතු කරන බව ද එම නිවේදනයේ දැක්වේ.
+🟩
 
-තව ද ගුරු සේවයේ ගුරුවරුන් සඳහා මෙතෙක් ක්‍රියාත්මක වු මොඩ්‍යුලර් ක්‍රමය වෙනුවට ගුරු වෘත්තීය සමිති දැනුම්වත් කර රාජ්‍ය සේවා කොමිෂන් සභාවට යොමු කරන ලද යෝජනාව කොමිසම විසින් සලකා බලා අධ්‍යාපන අමාත්‍යාංශයට යොමු කිරීමට නියමිතය.
+The Ministry of Education has announced that the Submits paid to the Allowance of the O / L and Grade 5 Scholarship Examinations.
 
-මේ අතර 2022 වර්ෂයට වඩා 2024 වර්ෂය වන විට අධ්‍යාපන කටයුතු සඳහා අත්‍යවශ්‍ය අභ්‍යාස පොත් හා උපකරණ මිල අඩු කිරීමට අධ්‍යාපන අමාත්‍යාංශය මැදිහත්ව කටයුතු කරන බව ද එම නිවේදනයේ වැඩිදුරටත් දැක්වේ.
+The statement states that these recommendations will be submitted to the Cabinet and approval.
+
+Moreover, the Commission will consider the proposal to replace the teacher's trade union to the Ministry of Education and to the Ministry of Education.
+
+According to the statement, the Ministry of Education has intervened to reduce the essential exercise books and equipment prices for education by 2022.
 
 ◼️
 
 [Data](articles/e175adbd.json)
 
+[Extended Data](ext_articles/e175adbd.ext.json)
+
 ---
 
-### ණය ප්‍රතිව්‍යුගතකරණ ගිවිසුම්වලට කැබිනට් අනුමැතිය
+### Cabinet approval for credit restructuring agreements
 
 *2024-06-25 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198138) · `si`
 
-පැරිස් සමාජය සහ අනෙකුත් පාර්ශ්වකරුවන් සමඟ ණය ප්‍රතිව්‍යුහගත කිරීමේ ගිවිසුම්වලට අත්සන් තැබීමට කැබිනට් අනුමැතිය හිමිව තිබේ.
+The Sri Lankan cabinet approved credit restructuring agreements with Paris society and other partners, set to be signed on 26th. This move follows discussions with global leaders like India, Japan, and China, aiming to secure financial support amidst the country's economic challenges. The agreements are part of broader efforts to engage with both local and international communities for financial recovery.
 
-ඒ අනුව ඊට අදාළ ගිවිසුම්වලට හෙට (26) අත්සන් තැබීමට නියමිත බව කැබිනට් ප්‍රකාශක, අමාත්‍ය බන්දුල ගුණවර්ධන මහතා අද පැවති මාධ්‍ය හමුවේ දී පැවසීය.
+🟩
 
-"විශේෂයෙන් රටේ බංකොලොත් භාවය ප්‍රකාශයටපත් කළ පසු ජනාධිපතිවරයා විසින් ශ්‍රී ලංකාවට ආධාර සැපයූ මිත්‍ර රටවල රාජ්‍ය නායකත්වයන් සමග විශේෂයෙන් ඉන්දියාව, එවගේම ජපානයේ රාජ්‍ය නායකත්වයන්, චීනය... චීන රාජ්‍ය නායකත්වය පැරිස් ආධාර කණ්ඩායම් ලෝක ප්‍රජාව සමග විශාල සාකච්ඡා ප්‍රමාණයක් පවත්වලා දේශීය සහ අන්තර් ජාතික විශේෂඥ විද්වතුන් රැසකගේ අධාරය සහයෝගීතවය හා මඟපෙන්වීම යටතේ සාකච්ඡාවල අවසන් අවස්ථාවලට මුදල් අමාත්‍යාංශයට, ශ්‍රී ලංකා මහ බැංකුවට සහ අනෙකුත් පිරිස්වලට හැකියාව ලැබිලා ඒ සමග ඇතිකර ගැනීමට අපේක්ෂා කරන ණය ප්‍රතිව්‍යුහගත කරන ගිවිසුම පිළිබඳ දිර්ඝ පැහැදිලි කිරීම ජනාධිපතිවරයා විසින් ඊයේ කැබිනට් මණ්ඩලයට ඉදිරිපත් කළා.
+Cabinet approval has been given to sign credit to the restructuring agreements with Paris society and other stakeholders.
+
+Accordingly, the Cabinet Spokesman Bandula Gunawardena said that the agreements will be signed tomorrow (26).
+
+"Especially after the government leadership countries, especially in the country's bankruptcy, India, so that India, Japan, Japan, China.. Chinese Leadership The Purpose of Sri Lanka and other people who have been able to collaborate and collaborate with the world community with the world community have been able to collaborate with the help of many local and international communities.The President presented the extensive explanation to the Cabinet yesterday.
 
 ...
 
 [Data](articles/27cb3da6.json)
+
+[Extended Data](ext_articles/27cb3da6.ext.json)
 
 ---
 
@@ -82,23 +94,31 @@ Accordingly, the Cabinet of Ministers has approved the joint proposal presented 
 
 [Data](articles/db16ee6d.json)
 
+[Extended Data](ext_articles/db16ee6d.ext.json)
+
 ---
 
-### ඈන් කුමරියට අශ්වයෙක් පහරදෙයි ?
+### Anne princes hit a horse?
 
 *2024-06-25 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198137) · `si`
 
-බ්‍රිතාන්‍යයේ චාල්ස් රජුගේ සොහොයුරිය වන ඈන් කුමරිය අශ්වයෙකු සම්බන්ධ අනතුරකින් තුවාල ලබා තිබේ.
+Princess Anne, daughter of Queen Elizabeth II, was injured in a horse riding accident near her home in Gloucestershire. She is being treated at a hospital in Bristol but her injuries are not life-threatening.
 
-අනතුරින් කුමරියගේ හිසට තුවාල සිදුවී ඇති අතර ඇය මේ වනවිට බ්‍රිස්ටල් හි රෝහලක ප්‍රතිකාර ලබමින් සිටී.
+🟩
 
-රාජකීය පවුලේ නිල නිවේදනයට අනුව කුමරියගේ තත්ත්වය එතරම් බරපතළ නොවේ.
+The princess of King Charles of Britain, Anne, was injured in a horse.
 
-73 හැවිරිදි ඈන් කුමරිය බ්‍රිතාන්‍යයේ දෙවැනි එළිසබෙත් මහා රැජිනගේ එකම දියණිය ද වේ.
+Princess has been injured in the accident and is currently receiving treatment at a hospital in Bristol.
+
+According to the official announcement of the royal family, the princess's condition is not so serious.
+
+The 73 year old Anne is the only daughter of Queen Elizabeth Viharaya, the second Litta, the second Litiva in Britain.
 
 ◼️
 
 [Data](articles/dd507ab4.json)
+
+[Extended Data](ext_articles/dd507ab4.ext.json)
 
 ---
 
@@ -115,6 +135,8 @@ Accordingly, the Cabinet approved the joint proposal presented by the President 
 ◼️
 
 [Data](articles/67a1296a.json)
+
+[Extended Data](ext_articles/67a1296a.ext.json)
 
 ---
 
@@ -936,15 +958,21 @@ Sri Lanka Navy has arrested over 200 Indian fishermen and seized more than 27 In
 
 ---
 
-### ලෝක බැංකුවෙන් ලංකාවට ඩොලර් මිලියන 150ක මූල්‍ය පහසුකමක්
+### World Bank is $ 150 million to Sri Lanka
 
 *2024-06-25 09:15:29* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-බැංකුවෙන්-ලංකාවට-ඩොලර්-මිලියන-150ක-මූල්‍ය-පහසුකමක්/11-410419) · `si`
 
-ශ්‍රි ලංකාවේ ප්‍රාථමික සෞඛ්‍ය සේවා කටයුතු පුළුල් කිරිම වෙනුවෙන් ලෝක බැංකුව විසින් ශ්‍රී ලංකාවට ඇමෙරිකානු ඩොලර් මිලියන 150ක මූල්‍ය පහසුකමක් ලබාදීමට එහි අධ්‍යක්ෂ මණ්ඩලය අනුමැතිය දී තිබේ.
+The World Bank has approved a $150 million aid package for Sri Lanka to enhance its primary healthcare system.
+
+🟩
+
+The Board of Directors has approved Sri Lanka to provide a financial assistance of US $ 150 million to expand Sri Lanka's primary health care in Sri Lanka.
 
 ◼️
 
 [Data](articles/c98f0fc6.json)
+
+[Extended Data](ext_articles/c98f0fc6.ext.json)
 
 ---
 

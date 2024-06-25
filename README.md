@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 07:01:03**
+As of **2024-06-25 07:24:48**
 
 ## Newspaper Stats
 
@@ -26,37 +26,49 @@ adaderanasinhalalk | 5,240
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,989 (100.0%) of 31,993 articles have been extended.
+31,993 (100.0%) of 31,993 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### ප්‍රදේශ කිහිපයකට මි.මී 100 ඉක්මවූ වැසි
+### Showers over 100mm
 
 *2024-06-25 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198117) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (25) දිනයේ විටින්විට වැසි ඇතිවිය හැකි බය කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rainfall expected today across Western, Sabaragamuwa, North Western provinces, and certain districts including Kandy, Nuwara Eliya, Trincomalee, Hambantota, and Moneragala. Wind gusts of 40-50 km/h also predicted.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර සහ සබරගමුව පළාත්වලත්, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100ක පමණ තද වැසි ඇතිවිය හැකි බවය.
+🟩
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+The Department of Meteorology states today (25) in the Western, Sabaragamuwa and North Western provinces.
+
+The department states in some places in the Western and Sabaragamuwa provinces, Kandy and Nuwara Eliya districts. Heavy showers can occur around 100.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The Met Department further stated that there are 40-50 strong winds.
 
 ◼️
 
 [Data](articles/c1aa0c8c.json)
 
+[Extended Data](ext_articles/c1aa0c8c.ext.json)
+
 ---
 
-### කාසියේ වාසිය ඇෆ්ගනිස්තානය ට
+### To Afghanistan to advantage
 
 *2024-06-25 05:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198116) · `si`
 
-20යි 20 ලෝක කුසලාන තරගාවලියේ සුපර් 08 වටයේ තවත් තීරණාත්මක තරගයක් අද (25) පැවැත්වෙයි.
+A crucial World Cup match against Afghanistan takes place today, aiming to secure a significant advantage.
+
+🟩
+
+Another decisive match in the World Cup will be held today (25).
 
 ◼️
 
 [Data](articles/220cc15d.json)
+
+[Extended Data](ext_articles/220cc15d.ext.json)
 
 ---
 

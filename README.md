@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 18:54:00**
+As of **2024-06-25 19:04:34**
 
 ## Newspaper Stats
 
-*Scraped **32,113** Articles*
+*Scraped **32,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ newsfirstlk | 363
 islandlk | 1,781
 economynextcom | 1,853
 dailyftlk | 1,964
-adalk | 2,827
+adalk | 2,828
 adaderanalk | 3,650
 tamilmirrorlk | 3,788
 dailymirrorlk | 4,733
 virakesarilk | 4,980
-adaderanasinhalalk | 5,267
+adaderanasinhalalk | 5,268
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,113 (100.0%) of 32,113 articles have been extended.
+32,113 (100.0%) of 32,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### සමරිසි නීති සංශෝධනයට මාලිමාව පක්ෂයි
+
+*2024-06-25 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198148) · `si`
+
+සමරිසි ලිංගික ඇසුර දණ්ඩ නීති සංග්‍රහය යටතේ අපරාධමය වරදක් නොවන ලෙස සංශෝධනය කිරීම සඳහා ප්‍රේම්නාත් සී. දොලවත්ත මන්ත්‍රීවරයා ගෙනආ පෞද්ගලික මන්ත්‍රී යෝජනාවට ජාතික ජන බලවේගය සහයෝගය පළ කරන බව ආචාර්ය හරිනි අමරසූරිය මහත්මිය පවසයි.
+
+දෙරණ 360 දේශපාලන සංවාදාත්මක වැඩසටහනේදී LGBTQ ප්‍රජාව පිළිබඳ සිය පක්ෂයේ මතය පැහැදිලි කරමින් ඇය මේ බව සඳහන් කළාය.
+
+◼️
+
+[Data](articles/aa8ee9c3.json)
+
+---
 
 ### Tourism Information Center in Palali
 
@@ -879,6 +893,24 @@ The appointment of Keerthi Udawatta as the respondent of the Freedom Party, the 
 [Data](articles/2c9d33d7.json)
 
 [Extended Data](ext_articles/2c9d33d7.ext.json)
+
+---
+
+### ලෝකයේ විශාලම ගංජා සමාගම් පාඩු ලබනවලු
+
+*2024-06-25 13:38:23* · [`adalk`](https://www.ada.lk/breaking_news/ලෝකයේ-විශාලම-ගංජා-සමාගම්-පාඩු-ලබනවලු/11-410425) · `si`
+
+අධික සැපයුම, වෙළඳපොළ ඉල්ලුම සහ වෙළඳපොළ කොටස කුඩා නිසා ලොව විශාලතම ගංජා සමාගම් ඩොලර් බිලියන ගණන් වලින් වසර කිහිපයක සිට පාඩු ලබන බව මද්‍යසාර සහ මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානයේ විධායක අධ්‍යක්ෂක සම්පත් ද සේරම් මහතා පවසයි.
+
+ශ්‍රී ලංකාව තුළ නීති විරෝධී මත්ද්‍රව්‍යක් ලෙස නම් කර ඇති ගංජා සන්තකයේ තබා ගැනීම, වගා කිරීම සහ විකිණීම තහනම් කර ඇතත් තෛලෝක විජය පත්‍ර යන නාමයට මුවා වී ගංජා වගාව ප්‍රචලිත කිරීමට මේ වන විටත් ව්‍යාපෘති යෝජනා කැඳවා ඇතැයි ඔහු පෙන්වා දෙයි. මෙවැනි ඖෂධීය නාමයන් මුල් කර ගනිමින් ගංජා ව්‍යාප්ත කිරීමේ විශාල උත්සාහයක බහු ජාතික ගංජා ව්‍යාපාරය කටයුතු කරමින් සිටන බවද ඔහු පවසයි.
+
+“ගෝලීය වශයෙන් දුම්වැටි භාවිතය අවම වෙමින් පවතින කාල වකවානුවක ගංජා ව්‍යාපාරයක් ලෙස ලොව පුරා ක්‍රියාත්මක කිරීමට දුම්කොළ සමාගම් මේ වන විටත් මුදල් යොදවයි. ගංජා ප්‍රවර්ධනය කිරීම දුම්කොළ සමාගම්වල තවත් කූඨ උපක්‍රමයකි.
+
+දේශීය සෞඛ්‍ය අමාත්‍යංශය සහ ආයෝජන ප්‍රවර්ධන මණ්ඩලය ප්‍රකාශ කර සිටින්නේ මෙම වගාව අපනයන සඳහා මිස කිසිදු අයුරකින් රට අභ්‍යයන්තරයට ඒමට අවකාශ නොමැති බවයි.
+
+...
+
+[Data](articles/75b7f958.json)
 
 ---
 
@@ -2337,61 +2369,5 @@ The deceased has been living alone at home and has not yet revealed the suspect 
 [Data](articles/21380d8d.json)
 
 [Extended Data](ext_articles/21380d8d.ext.json)
-
----
-
-### Judicial Service Association protest against court
-
-*2024-06-25 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198119) · `si`
-
-The Judicial Service Union protests against perceived threats to judicial independence, criticizing parliamentary privileges and a targeted project allegedly aimed at discrediting judges. The union emphasizes the importance of legislative and judicial declarations aligning with the principles of the judicial system, advocating for decisive action to uphold these principles.
-
-🟩
-
-The Judicial Service Union states that the independence of the judiciary is publicly aware of the independence of the judiciary, criticizing the judicial system of parliamentary privileges.
-
-The association issues an announcement on the 19th, the statement made by the Justice Minister in the 19th, the Minister of Justice is unfolding as part of a specific targeted project to discredit the judicial judges.
-
-The Judicial Service Union states that although those criticisms were not resolved with regard to the actual political existence, the judicial service association was planned to be discontent on cases.
-
-The association points out that the declarations of the legislation and the judiciary should cause the declarations of the legislation and the judiciary should be caused by the declaration of the judicial system and that such conditions should be defeated unconditionally.
-
-...
-
-[Data](articles/0603e0bc.json)
-
-[Extended Data](ext_articles/0603e0bc.ext.json)
-
----
-
-### Gender Equality Bill: 'No Marriage is or Incential Enforcement or Encouraging'
-
-*2024-06-25 06:10:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c511y8gkqg4o) · `si`
-
-The Gender Equality Bill aims to empower women by establishing a National Commission on Women, tasked with formulating policies and investigating gender-related issues. Despite support, concerns arise over its inclusivity towards transgender women and its effectiveness in addressing women's rights violations.
-
-🟩
-
-Gender Equality Bill: 'No Marriage is or Incential Enforcement or Encouraging'
-
-There is now a dialogue on two master bills based on two migrants. The "Women's Empowerment Bill" on June 20 was passed by amendment with amendment.
-
-The President made a controversial statement in parliament on the opinion of the 'Gender Equality Self-Equality Bill'.
-
-The presidential election said that a Select Committee should be appointed.
-
-Meanwhile, the Archbishop of Colombo, the Archbishop Malcolm Cardinal Ranjith said his sex. The layer of sex is, we must live. '
-
-It contains nothing here. Play Video, "Denicrophic Ownership Bill," Daily Ownership of Cardinal Ownership, 2,2802 Video Head and Gender Side
-
-The bill has been defined in the Act to provide for the empowerment of women and formulate a national commission on women and establish a national commission on women.
-
-The bill is that the bill is to prepare mechanisms to protect women and prosecute the other matters in the event of violating the rights.
-
-...
-
-[Data](articles/446f71fa.json)
-
-[Extended Data](ext_articles/446f71fa.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 20:08:05**
+As of **2024-06-25 19:35:03**
 
 ## Newspaper Stats
 
-*Scraped **32,135** Articles*
+*Scraped **32,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,50 +19,18 @@ adalk | 2,829
 adaderanalk | 3,651
 tamilmirrorlk | 3,788
 dailymirrorlk | 4,733
-virakesarilk | 4,984
+virakesarilk | 4,980
 adaderanasinhalalk | 5,268
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,131 (100.0%) of 32,135 articles have been extended.
+32,116 (100.0%) of 32,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
-
-### பாராளுமன்றத்தில் தெரிவித்த கருத்து தொடர்பில் செயற்பட்ட இரண்டு நீதிபதிகளையும் பாராளுமன்ற சிறப்புரிமை குழுவுக்கு அழைத்து விசாரிக்கவும் - அமைச்சர் விஜேதாச சபாநாயகருக்கு கடிதம்
-
-*2024-06-25 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186974) · `ta`
-
-பாராளுமன்றத்தில் நான் தெரிவித்த கருத்தொன்று தொடர்பில் நீதிச்சேவை சங்கத்தின் தலைவர் மாவட்ட நீதிபதி ருவன் திஸாநாயக்க மற்றும் செயலாளர் இசுரு நெத்திகுமாரகே ஆகிய இருவரும் பகிரங்கமாக கருத்து தெரிவித்து ஒழுக்கயீனமாக செயற்பட்டுள்ளனர். இந்த இரண்டு நீதிபதிகளையும் பாராளுமன்ற நெறிமுறைகள் மற்றும் சிறப்புரிமைகள்தொடர்பான குழுவுக்கு அழைத்து விசாரிக்க வேண்டும் என நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ் தெரிவித்துள்ளார்.
-
-நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ இதுதொடர்பாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்த்தனவுக்கு அனுப்பிவைத்துள்ள கடிதத்திலேயே இவ்வாறு வேண்டுகோள் விடுத்துள்ளார்.
-
-...
-
-[Data](articles/71930bd9.json)
-
----
-
-### பலாலி சர்வதேச விமான நிலையத்தில் சுற்றுலாத் தகவல் மையம் ஆளுநர் அவர்களால் திறந்துவைப்பு
-
-*2024-06-25 19:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/186973) · `ta`
-
-யாழ்ப்பாணம், பலாலி சர்வதேச விமான நிலையத்தில் பயணிகள் வெளியேறும் பகுதியில் சுற்றுலாப் பயணிகளுக்கான தகவல் தொடர்பு நிலையம் வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம். சார்ள்ஸ் அவர்களால் செவ்வாய்க்கிழைமை (25) திறந்து வைக்கப்பட்டது.
-
-வடக்கு மாகாணத்தில் சுற்றுலாப் பயணிகள் இலகுவாகப் பயணிக்கக் கூடிய வரலாற்று சிறப்புமிக்க இடங்கள், வழிபாட்டு தலங்கள் உள்ளிட்ட விடயங்கள் அடங்கிய சுற்றுலா வழிகாட்டி கையேடுகளைத் தகவல் தொடர்பு நிலையத்தில் இலவசமாகப் பெற்றுக்கொள்ள முடியும். அத்துடன் வடக்கு மாகாணத்தில் உற்பத்தி செய்யப்படும் கைவினைப் பொருட்களும் இங்கு விற்பனைக்கு வைக்கப்பட்டுள்ளன.
-
-சுற்றுலாப் பயணிகளுக்கான தகவல் தொடர்பு நிலையத்தைத் திறந்து வைத்ததன் பின்னர், விமான நிலைய செயற்பாடுகளை  ஆளுநர் அவர்கள் பார்வையிட்டதுடன், விமான பயணிகளுடனும் கலந்துரையாடினார்.
-
-சுற்றுலாப் பயணிகளுக்கான தகவல் தொடர்பு நிலையத்தைத் திறந்து வைக்கும் நிகழ்வில் வடக்கு மாகாண பிரதம செயலாளர், உள்ளூராட்சி அமைச்சின் செயலாளர், சுற்றுலாப் பணியகத்தின் தலைவர், விமான நிலைய அதிகாரிகள் எனப் பலரும் கலந்துச் சிறப்பித்தனர்.
-
-◼️
-
-[Data](articles/71f4997a.json)
-
----
 
 ### NPP will back bill to decriminalize same-sex relationships - Harini Amarasuriya
 
@@ -106,8 +74,6 @@ Face to face talks with bond holders are likely to start Thursday, sources said.
 
 [Data](articles/291c1139.json)
 
-[Extended Data](ext_articles/291c1139.ext.json)
-
 ---
 
 ### Company is for the amendment to Samarizer Law
@@ -130,25 +96,19 @@ Derana 360 political program explained this, explaining the opinion of the LGBTQ
 
 ---
 
-### President requests the officers who sabotage heritage program
+### උරුමය වැඩසටහන කඩාකප්පල් කරන නිලධාරීන් ගැන තොරතුරු ජනපති ඉල්ලයි
 
 *2024-06-25 18:23:48* · [`adalk`](https://www.ada.lk/breaking_news/උරුමය-වැඩසටහන-කඩාකප්පල්-කරන-නිලධාරීන්-ගැන-තොරතුරු-ජනපති-ඉල්ලයි/11-410429) · `si`
 
-President Ranil Wickremesinghe addressed issues regarding the Heritage National Program, emphasizing the importance of protecting land rights and increasing agricultural productivity. He criticized officers sabotaging the program and urged MPs to investigate and report any disruptions. The president announced plans to distribute Rs. 2 lakh heritage freehold deeds and called for support from all MPs to ensure the program's success.
+උරුමය සින්නක්කර ඉඩම් ඔප්පු ලබාදීමේ වැඩසටහන වෙනුවෙන් බොහෝ රාජ්‍ය නිලධාරින් කැපවී කටයුතු කරද්දි, එය කඩාප්පල් කිරීමට උත්සාහ කරන සුළුතරයක් පිළිබඳව ද කරුණු වාර්තා වී ඇති බව සඳහන් කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එවන් නිලධාරීන් පිළිබඳ තොරතුරු තමන්ගේ ප්‍රදේශයේ මන්ත්‍රීවරුන් වෙත ලබා දෙන ලෙස ජනතාවගෙන් ඉල්ලා සිටි අතර, එම තොරතුරු තමා වෙත ලබා දෙන ලෙස මන්ත්‍රීවරුන්ට දැනුම් දෙන බව ද සඳහන් කළේය.
 
-🟩
+තමන්ගේ උරුමය ලබා ගැනීමට ජනතාවට ඇති අයිතිය අහිමි කිරීමට කිසිවෙකුට ඉඩ දිය නොහැකි බව අවධාරණය කළ ජනාධිපතිවරයා මෙම වැඩසටහන සාර්ථක කර ගැනීම වෙනුවෙන් පක්ෂ විපක්ෂ බේදයකින් තොරව සියලු මන්ත්‍රීවරුන්ගේ සහාය අපේක්ෂා කරන බවද සඳහන් කළේය.
 
-President Ranil Wickremesinghe said that the inheritance was committed to the provision of the Land Registration, President Ranil Wickremesinghe said that it was reported to be a minority attempt to a candap.He also said that MPs will inform the MPs to give him information.
-
-He stressed that no one could allow anyone to lose the right to the people to get their inheritance, he said that the party would seek the assistance of all MPs, regardless of opposition opposition.
-
-President Ranil Wickremesinghe made this statement in the 'Heritage National Program' of 20,000 Divisional Secretariat Divisions in the Ampara District.Addressing.
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ “උරුමය” ජාතික වැඩසටහන යටතේ අම්පාර දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 17ක සුදුසුකම්ලාභීන් 20,000ක් අතුරින් පුද්ගලයන් 1,758ක් වෙනුවෙන් සංකේතාත්මකව ඉඩම් ඔප්පු ප්‍රදානය වෙනුවෙන් අද (25) පෙරවරුවේ අම්පාර වීරසිංහ ක්‍රීඩාංගණයේ පැවති උත්සවය අමතමිනි.
 
 ...
 
 [Data](articles/df33598a.json)
-
-[Extended Data](ext_articles/df33598a.ext.json)
 
 ---
 
@@ -259,22 +219,6 @@ In 2026, a 115 MW gas turbine, a CEB owned diesel plants of 68 MW and 72 MW are 
 ◼️
 
 [Data](articles/fb6c3c50.json)
-
-[Extended Data](ext_articles/fb6c3c50.ext.json)
-
----
-
-### ஜூலை 2  பாராளுமன்றம் விசேடமாக கூடுகின்றது
-
-*2024-06-25 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/186970) · `ta`
-
-பிரதமர் தினேஷ் குணவர்தனவின்  வேண்டுகோளுக்கிணங்க பாராளுமன்றத்தின் 16ஆவது நிலையியற் கட்டளையின் பிரகாரம்   ஜூலை  2ஆம் திகதி செவ்வாய்க்கிழமை காலை  9.30 மணிக்கு பாராளுமன்றத்தில் விசேட கூட்டமொன்றுக்கு அழைப்பாணை விடுக்கப்பட்டிருப்பதால், அக்கூட்டத்தில் பங்குபற்றுமாறு சகல   பாராளுமன்ற உறுப்பினர்களையும் வேண்டிக் கொள்வதாக சபாநாயகர்  மஹிந்த யாப்பா அபேவர்தன அறிவித்துள்ளார்.
-
-கடந்த 20 ஆம் திகதி பாராளுமன்றம் அமர்வு முடிந்து சபை ஒத்திவைக்கப்பட்டபோது எதிர்வரும் 9 ஆம் திகதி செவ்வாய்க்கிழமை காலை 9.30 மணிக்கு பாராளுமனம் மீண்டு கூடுமென அறிவிக்கப்பட்ட நிலையிலேயே தற்போது பிரதமர் தினேஷ் குணவர்தனவின்  வேண்டுகோளுக்கிணங்க பாராளுமன்றத்தின் 16ஆவது நிலையியற் கட்டளையின் பிரகாரம் ஜூலை  2ஆம் திகதி செவ்வாய்க்கிழமை காலை 9.30 மணிக்கு பாராளுமன்றம் கூடுகிறது.
-
-◼️
-
-[Data](articles/05dc716b.json)
 
 ---
 
@@ -400,8 +344,6 @@ A bond maturing on 01.12.2031 closed at 12.10/20 percent, up from 12.08/15 perce
 
 [Data](articles/169d7a83.json)
 
-[Extended Data](ext_articles/169d7a83.ext.json)
-
 ---
 
 ### Sri Lanka stocks close up, Commercial Bank crossing pushes turnover to 3.9bn
@@ -423,8 +365,6 @@ Top foreign buying was seen on John Keells Holdings Plc (down at 206.00), Tokyo 
 ...
 
 [Data](articles/f5d18979.json)
-
-[Extended Data](ext_articles/f5d18979.ext.json)
 
 ---
 
@@ -564,28 +504,6 @@ The hunger province in China has been affected and thousands of houses have been
 
 ---
 
-### வங்குரோத்திலிருந்து நாடு மீண்டுள்ளதாக சர்வதேச நிறுவனங்கள் அறிவித்தால் மாத்திரமே ஏற்றுக்கொள்ள முடியும் - ஹர்ஷன ராஜகருணா
-
-*2024-06-25 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/186951) · `ta`
-
-நாடு வங்குரோத்து நிலையில் இருந்து மீண்டுள்ளதாக இருந்தால் அதுதொடர்பான அறிவிப்பை சர்வதேச தர நிர்ணய நிறுவனங்களே அறிவிப்பு செய்ய வேண்டும்.
-
-அவ்வாறு இல்லாமல் ஜனாதிபதியோ வேறு அமைச்சர்கள் யாரும் அறிவிப்பு செய்வதை ஏற்றுக்கொள்ள முடியாது. இது மக்களை ஏமாற்றும் நடவடிக்கையாகும் என ஐக்கிய மக்கள் சக்தி கம்பஹா மாவட்ட பாராளுமன்ற உறுப்பினர் ஹர்ஷன ராஜகருணா தெரிவித்தார்.
-
-வங்குரோத்து நிலையில் இருக்கும் எமது நாடு மீண்டும் அந்த நிலையில் இருந்து மீள்வதற்கு வெளிநாட்டு கடன் மறுசீரமைப்பு மிக முக்கியமாகும்.
-
-ஆனால் அரசாங்கம் இதுவரை வெளிநாட்டு கடன் மறுசீரமைப்பு நடவடிக்கையில்  மிகவும் குறுகிய அளவிலேயே கடன் மறுசீரமைப்புக்கு சென்றுள்ளது.
-
-அதனை அடிப்படையாகக்கொண்டே தற்போது நாடு வங்குரோத்து நிலையில் இருந்து மீண்டுள்ளது என்ற தகவலை வெளியிட அரசாங்கம் முயற்சித்து வருகிறது.
-
-வங்குரோத்து அடைந்த நாடுகள் பல மீண்டும் வங்குரோத்து நிலையில் இருந்து மீளும்போது, கடன் மறுசீரமைப்பு நடவடிக்கைகளை மிகவும் வெற்றிகரமாக மேற்கொண்டுள்ளன. ஆனால் அவ்வாறானதொரு நிலைமை ரணில் விக்ரமசிங்க தலைமையிலான அரசாங்கத்தினால் இடம்பெறவில்லை.
-
-...
-
-[Data](articles/ec7e8369.json)
-
----
-
 ### A panel of judges panel to petition to Graduoda's petition
 
 *2024-06-25 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198143) · `si`
@@ -645,8 +563,6 @@ However, political parties may be compelled to forge alliances to form a stable 
 ...
 
 [Data](articles/98e85e33.json)
-
-[Extended Data](ext_articles/98e85e33.ext.json)
 
 ---
 
@@ -870,8 +786,6 @@ The meeting was attended by Minister of Foreign Affairs Ali Sabri, Chief of Defe
 
 [Data](articles/0ac03354.json)
 
-[Extended Data](ext_articles/0ac03354.ext.json)
-
 ---
 
 ### Cabinet approval for signing agreement on bilateral debt renovation agreement
@@ -1024,8 +938,6 @@ The export promotion programme titled “Sourced Sri Lanka” was organized by t
 
 [Data](articles/5df3b1d0.json)
 
-[Extended Data](ext_articles/5df3b1d0.ext.json)
-
 ---
 
 ### Maximum support of the Bora Federation Success
@@ -1141,8 +1053,6 @@ The Colombo Stock Exchange (CSE) has approved in principle the listing of the de
 ...
 
 [Data](articles/e4d05085.json)
-
-[Extended Data](ext_articles/e4d05085.ext.json)
 
 ---
 
@@ -1364,8 +1274,6 @@ The cabinet of ministers has thus approved a proposal by Minister of Justice, Pr
 
 [Data](articles/7d0b4095.json)
 
-[Extended Data](ext_articles/7d0b4095.ext.json)
-
 ---
 
 ### The land of the Co-operative Society was written to his name
@@ -1446,8 +1354,6 @@ Sri Lanka is in the process of digitizing its classrooms with funding from the C
 
 [Data](articles/2318e232.json)
 
-[Extended Data](ext_articles/2318e232.ext.json)
-
 ---
 
 ### Enjoining order against Wijayadasa extended
@@ -1488,8 +1394,6 @@ According to the statement, the purported preparations will be based on the reco
 
 [Data](articles/da01f7e2.json)
 
-[Extended Data](ext_articles/da01f7e2.ext.json)
-
 ---
 
 ### Sri Lanka to sign Paris Club debt deals Wednesday: Minister
@@ -1511,8 +1415,6 @@ Discussion with private bondholders are also taking place separately, he said. (
 ◼️
 
 [Data](articles/fe58b01a.json)
-
-[Extended Data](ext_articles/fe58b01a.ext.json)
 
 ---
 
@@ -1808,8 +1710,6 @@ Situated on Mannar Island in Sri Lanka’s north west coast, Thambapavani is the
 
 [Data](articles/fdce4e19.json)
 
-[Extended Data](ext_articles/fdce4e19.ext.json)
-
 ---
 
 ### Sri Lanka’s Interim Secretariat for Truth and Reconciliation holds consultations in Monaragala
@@ -1825,8 +1725,6 @@ On June 6, consultations were held with villagers affected by the war in Ethimal
 ...
 
 [Data](articles/86e10af4.json)
-
-[Extended Data](ext_articles/86e10af4.ext.json)
 
 ---
 
@@ -2349,5 +2247,97 @@ Meanwhile, strong winds are likely to blow up to 40-50 kilometers per hour in th
 [Data](articles/e2698927.json)
 
 [Extended Data](ext_articles/e2698927.ext.json)
+
+---
+
+### Sri Lanka rupee opens flat at 305.10/40 to US dollar
+
+*2024-06-25 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-305-10-40-to-us-dollar-169388/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened relatively flat at 305.10/40 to the US dollar on Tuesday, while bond yields were up, and stocks opened 0.01 percent up, dealers said.
+
+In equities, Colombo’s All Share Price Index opened 1.39 points higher at 12,272. while the S&P SL20 of more liquid stocks opened up at 0.04 percent or 1.46 points to 3,633.
+
+A bond maturing on 01.08.2026 was quoted at 10.70/11.00 percent.
+
+A bond maturing on 01.10.2027 was quoted at 10.60/11.10 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 12.05/15 percent. (Colombo/Jun25/2024)
+
+◼️
+
+[Data](articles/1040de8a.json)
+
+[Extended Data](ext_articles/1040de8a.ext.json)
+
+---
+
+### Sri Lanka to get US$150mn from World Bank for health amid ageing population
+
+*2024-06-25 09:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-get-us150mn-from-world-bank-for-health-amid-ageing-population-169384/) · `en`
+
+ECONOMYNEXT – Washington-based World Bank said it has approved a 150 million US dollar loan to boost primary healthcare facilities which will help reduce current overcrowding of tertiary facilities and help cope with an ageing population.
+
+A previous World Bank project has already upgraded 550 primary facilities with equipment, health workers and basic testing facilities.
+
+The new project will enhance result in 1,000 facilities being improved. Pandemic preparedness will also be improved.
+
+“Sri Lanka’s health system has demonstrated remarkable performance, but it needs to be strengthened to face emerging health care challenges,” said Faris Hadad-Zervos, World Bank Country Director for Maldives, Nepal, and Sri Lanka said in a statement.
+
+“This project will support the country’s forward-looking primary care reorganization agenda, laying the foundation for a more responsive and people-centric healthcare system.”
+
+...
+
+[Data](articles/054a5c3e.json)
+
+[Extended Data](ext_articles/054a5c3e.ext.json)
+
+---
+
+### Sri Lanka Teachers Union appeals to support the sick holiday struggle
+
+*2024-06-25 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/186898) · `ta`
+
+The Sri Lanka Teachers Union urges support for a sick leave protest by educators on April 26, following failed government negotiations. The union emphasizes no threats from teachers regarding trade union activities and asks parents to ensure student safety during the protest.
+
+🟩
+
+The Sri Lanka Teachers Union has requested all parties to support the sick holiday struggle carried out by principals, teachers and teacher advisers on the 26th of this month.
+
+Media Meeting of the Sri Lanka Teachers Union Monday (24). Held at the media conference. Eastern Province Coordinator of the Sri Lanka Teachers Union
+
+Due to the failure of negotiations with the government with the government, we will carry out a sick holiday struggle for principals, teachers and teachers across the country.
+
+Last week, we staged a demonstration in Sri Lanka to defeat the government as the principals and teachers' federation was united.
+
+Eastern Provincial Coordinator of the Sri Lanka Teachers Union, Eastern Province Coordinator, said that the teachers did not submit any threats due to the notification of the trade union activities.
+
+He appealed to the parents to take responsibility for the safety of the students on this day of the protest.
+
+◼️
+
+[Data](articles/fb9c20ea.json)
+
+[Extended Data](ext_articles/fb9c20ea.ext.json)
+
+---
+
+### Navy sailor dies from injuries during arrest of Indian fishermen off Delft
+
+*2024-06-25 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100082/navy-sailor-dies-from-injuries-during-arrest-of-indian-fishermen-off-delft) · `en`
+
+Sri Lanka Navy has taken into custody 10 Indian fishermen in a trawler while poaching in seas off Delft Island.
+
+A sailor who was injured during the incident has succumbed to his injuries after admission to hospital, the Sri Lanka Navy Spokesman said.
+
+The Navy says it continues to conduct regular patrols and operations in Sri Lankan waters to curb illegal fishing practices of foreign fishing trawlers, taking into account the impact of those practices on the livelihood of local fishermen.
+
+Sri Lanka Navy has arrested over 200 Indian fishermen and seized more than 27 Indian poaching trawlers in Sri Lankan waters so far in 2024, and subsequently handed them over to authorities for legal proceedings.
+
+◼️
+
+[Data](articles/b85690c3.json)
+
+[Extended Data](ext_articles/b85690c3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 05:37:04**
+As of **2024-06-25 06:00:15**
 
 ## Newspaper Stats
 
-*Scraped **31,980** Articles*
+*Scraped **31,991** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 294
 dbsjeyarajcom | 295
 bbccomsinhala | 316
 newsfirstlk | 363
-islandlk | 1,770
+islandlk | 1,781
 economynextcom | 1,845
 dailyftlk | 1,963
 adalk | 2,811
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,238
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,980 (100.0%) of 31,980 articles have been extended.
+31,980 (100.0%) of 31,991 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -571,6 +571,104 @@ I was prescribed a cream called Fusidic acid and the doctor, being a friend, wro
 [Data](articles/bcc66efd.json)
 
 [Extended Data](ext_articles/bcc66efd.ext.json)
+
+---
+
+### Nimal prefers solo scene
+
+*2024-06-24 23:08:00* · [`islandlk`](http://island.lk/nimal-prefers-solo-scene/) · `en`
+
+The guy who created a sensation with the song ‘Ranpota Thelabuwa’ has decided to do his thing as a solo artiste…
+
+Nimal Jayamanne says he quit the band scene in December last year.
+
+“I told the boys to carry on while re-stepping into my solo career, due to personal reasons.”
+
+The singer also worked on a new song, called ‘Mage Pana’, with a video to go with it, as well.
+
+It was, in fact, the song ‘Ranpota Thelabuwa’ that made Nimal a star, literally, overnight.
+
+I remember him performing this particular song at an Island Music Awards show, years ago, and the crowd response was terrific.
+
+Probably we may see a few more big hits come our way from Nimal, now that he has decided to go solo.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/5be2d6f6.json)
+
+---
+
+### Orit Apparels bags six accolades at NBE Awards 2024
+
+*2024-06-24 22:42:00* · [`islandlk`](http://island.lk/orit-apparels-bags-six-accolades-at-nbe-awards-2024/) · `en`
+
+Orit Apparels Lanka stole the limelight at the National Business Excellence Awards 2024 by winning six accolades in an exceptional performance during a glittering awards ceremony held at the Shangri-La hotel on 20th June 2024.
+
+...
+
+[Data](articles/0fde189d.json)
+
+---
+
+### UNDP Sri Lanka launches 2023/ 24 Global Human Development Report
+
+*2024-06-24 22:41:00* · [`islandlk`](http://island.lk/undp-sri-lanka-launches-2023-24-global-human-development-report/) · `en`
+
+The UNDP Sri Lanka recently launched the 2023/24 Global Human Development Report themed ‘Breaking the Gridlock: Reimaging Cooperation in a Polarized World’. The Report was presented to the DG of the Sustainable Development Council (SDC), Ms. Chamindry Saparamadu by the Resident Representative of UNDP Sri Lanka, Ms. Azusa Kubota in the presence of representatives from government, private sector, development partner and civil society agencies at an event held in Colombo. .
+
+...
+
+[Data](articles/792238c4.json)
+
+---
+
+### Local vehicle assembly industry generating over 3,200 job opportunities
+
+*2024-06-24 22:41:00* · [`islandlk`](http://island.lk/local-vehicle-assembly-industry-generating-over-3200-job-opportunities/) · `en`
+
+Government statistics indicate that the local vehicle assembly industry has generated over 3,200 direct and indirect employment opportunities in the past few years and that it’s a US $ 3 million worth industry, Director, Engineering Division, Industrial Development Board (IDB), Nishantha Weerathunge said.
+
+“The industry has provided 5,000 employment opportunities in companies involved in the motor vehicle business and over 20,000 indirect employment opportunities, providing support services for these companies, said Weeratunaga at an event hosted recently by the Automotive Component Manufacturers Association of Sri Lanka (SLACMA).
+
+Weerathunge added: “In Sri Lanka, talk of a manufacturing economy often begins only when the country is in economic trouble. The promotion of industry as a government policy was very slow due to the lack of a commitment by the authorities and the lack of knowledge among the people.
+
+...
+
+[Data](articles/8b1204ed.json)
+
+---
+
+### Local fruit production to be boosted to meet rising demand
+
+*2024-06-24 22:40:00* · [`islandlk`](http://island.lk/local-fruit-production-to-be-boosted-to-meet-rising-demand/) · `en`
+
+The Ministry of Agriculture yesterday announced ambitious targets to boost fruit production across various categories by 2027, aiming to meet increasing domestic demand and reducing imports.
+
+Minister Mahinda Amaraweera yesterday said this decision follows a study revealing a surge in fruit consumption to 12.8 million metric tons in 2023. He said plans are in place to enhance banana, mango, papaya, pineapple, and passion fruit yields.
+
+According to data from the Department of Agriculture, Sri Lanka’s fruit consumption highlights a growing demand that exceeds current domestic production capabilities. With an annual requirement estimated at 19.6 million metric tons, efforts are underway to bridge this gap through increased agricultural output.
+
+...
+
+[Data](articles/1d8617c8.json)
+
+---
+
+### News of SL ridding itself of loan default stigma buoys bourse
+
+*2024-06-24 22:39:00* · [`islandlk`](http://island.lk/news-of-sl-ridding-itself-of-loan-default-stigma-buoys-bourse/) · `en`
+
+The stock market was on a positive trajectory yesterday as most local and foreign investors eagerly looked forward to President Ranil Wickramasinghe’s statement on June 27 in Parliament to the effect that Sri Lanka would be ridding itself of the loan default stigma.
+
+Amid those developments both indices moved upwards. The All- Share Price Index went up by 14.01 points while S and P SL20 rose by 22.17 points. Turnover stood at Rs 1.3 billion with four crossings. Those crossings were reported in People’s Leasing, which crossed 5 million shares to the tune of Rs 64.5 million; its shares traded at Rs 90, Melstacope 709,000 shares crossed for Rs 61.7 million; its shares traded at Rs 87, Distilleries 1 million shares crossed for Rs 27 million; its shares sold at Rs 27 and JKH 100,000 shares crossed for Rs 20.41 million; its shares traded at Rs 204.
+
+...
+
+[Data](articles/39ab51dc.json)
 
 ---
 
@@ -2125,143 +2223,5 @@ Investigations have revealed that the arrested suspect has become an excessive d
 [Data](articles/0a5d40ab.json)
 
 [Extended Data](ext_articles/0a5d40ab.ext.json)
-
----
-
-### Teacher and husband arrested for annual discounts
-
-*2024-06-24 14:44:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வருட-தள்ளுபடி-கொடுத்த-ஆசிரியையும்-கணவனும்-கைது/175-339333) · `ta`
-
-A teacher and her husband were arrested in Anuradhapura for distributing heroin worth Rs 1 crore. They planned to sell the drugs during the Poson period. Police found 120 grams of heroin and confiscated a motorcycle. This case marks one of the largest heroin seizures, with the suspects set to appear in court.
-
-🟩
-
-The teacher and her husband have been arrested for the anniversary dismissal, in view of the end of the illegal trade they started.
-
-A trainee teacher and her husband, who were ready to distribute drugs to drug lovers, were arrested in the center of the city of Anuradhapura with heroin worth about Rs 1 crore.
-
-During the Poson period, the Anuradhapura headquarters headquarters police said that the woman who was carrying the drug was arrested with a motorcycle.
-
-The 26 -year -old teacher from Wariyapola area and her 28 -year -old husband from Kegalle, who is working as an assistant to a cook at a tourist hostel at Anuradhapura, has been arrested.
-
-The suspects have issued a discount of 500 to Rs.
-
-According to reports, when the couple was arrested, 40 grams of heroin from the woman was recovered and 80 grams of heroin was recovered from her husband and a woman's motorcycle was seized.
-
-...
-
-[Data](articles/3ad73b73.json)
-
-[Extended Data](ext_articles/3ad73b73.ext.json)
-
----
-
-### Woman's dead body found in Angala area in Baddegama
-
-*2024-06-24 14:44:13* · [`adalk`](https://www.ada.lk/breaking_news/බද්දේගම--අලුත්වල-ප්‍රදේශයේ-නිවසක්-තුල-කාන්තා-මළ-සිරුරක්/11-410399) · `si`
-
-A 76-year-old woman, K. Dayawathi, was found murdered in her house in Navalagama, Aluthgama, Baddegama. The discovery was made during a police investigation following a tip-off. The victim, who lived alone, had returned home on the evening of the 21st. A wooden rod was found near her body. Her son has fled the area, and the case is under investigation by the Gonapinuwa police, with the body being sent to the Karapitiya Teaching Hospital.
-
-🟩
-
-Gonapinuwa police say that a woman has been murdered in a house in Navalagama, Aluthgama, in Baddegama.
-
-The body of a woman was found in the house when he was investigating a tip off received on Tuesday. The deceased is K. Dayawathi's 76-year-old unmarried. She has also resided at the house and that the woman has been in peace with the Poson Poya.
-
-The basic police investigations have revealed that the woman had come home on the evening of the 21st after the silmon was informed.. Police also met a wooden rod near the body of the deceased woman.
-
-Police say that the crime was killed in a incident that had been killed in a incident.
-
-The son of the resident of the house has fled the area. The body is being sent to the Karapitiya Teaching Hospital and the Gonapinuwa police are conducting further investigations.
-
-◼️
-
-[Data](articles/743f9da3.json)
-
-[Extended Data](ext_articles/743f9da3.ext.json)
-
----
-
-### Two individuals arrested over attempt to sell fake gemstone for Rs. 10M
-
-*2024-06-24 14:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100065/two-individuals-arrested-over-attempt-to-sell-fake-gemstone-for-rs-10m) · `en`
-
-Anamaduwa Police has arrested two individuals for allegedly attempting to sell a fake gemstone to a businessman by falsely claiming that it is a valuable gem.
-
-The two suspects had attempted to sell the relevant fake gemstone for a sum of Rs. 10 million to a businessman in Anamaduwa last night (23).
-
-The businessman in question has informed the police about the matter due to a suspicion.
-
-The arrested suspects, aged 34 and 38, are residents of Paramakanda in Anamaduwa while they are suspected to be involved in various rackets.
-
-The two suspects were arrested in the Thennankuriyawa area on the Nawagaththegama road by the police officers as they were attempting to rob him of the money after showing the fake gemstone to the businessman, who had been directed to several locations before finally meeting him.
-
-The arrested suspects are to be produced before the Anamaduwa Magistrate’s Court.
-
-◼️
-
-[Data](articles/567fb1f7.json)
-
-[Extended Data](ext_articles/567fb1f7.ext.json)
-
----
-
-### A man arrested for allegedly sending a foreign man to Jaffna
-
-*2024-06-24 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/186834) · `ta`
-
-A man was arrested for allegedly defrauding a foreigner by promising to send them to Jaffna but instead kept the money. The suspect worked for the International Human Rights Commission in Colombo and advised the victim to move to the Eastern Province. Investigations are ongoing to determine if he deceived others.
-
-🟩
-
-He has received a sum of Rs.
-
-Police have arrested a man who carried out an investigation after the victim lodged a complaint at the police station for not returning the money when the young man had not returned the money as the young man did not send money for a long time.
-
-Investigations revealed that the person was working in the International Human Rights Commission and that he was living in Colombo and told the young man to live in the Eastern Province.
-
-Did the person deceive other people?Police are conducting serious investigations into the matter.
-
-◼️
-
-[Data](articles/07ae01cb.json)
-
-[Extended Data](ext_articles/07ae01cb.ext.json)
-
----
-
-### Sri Lanka burial issue: president says govt to introduce laws allowing choice
-
-*2024-06-24 14:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-burial-issue-president-says-govt-to-introduce-laws-allowing-choice-169255/) · `en`
-
-ECONOMYNEXT — Days after extending an apology to Sri Lanka’s Muslim community on behalf of the government, President Ranil Wickremesinghe has said the government has decided to introduce new legislation allowing people to choose between burial and cremation.
-
-“The issue of burial has been a significant concern over the Muslim community in the country. Initially, a separate committee was appointed, deviating from the guidelines of the World Health Organisation (WHO), which created problems and caused hurt feelings among the Muslim community.
-
-“In response, the government has decided to introduce new legislation allowing individuals to choose between burial and cremation according to their wishes. Additionally, provisions have been made for bodies to be donated to medical faculties if desired. These measures aim to prevent similar issues from arising in the future,” he said.
-
-...
-
-[Data](articles/85bf58d9.json)
-
-[Extended Data](ext_articles/85bf58d9.ext.json)
-
----
-
-### Sri Lanka burial issue: president says govt to introduce laws allowing free choice
-
-*2024-06-24 14:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-burial-issue-president-says-govt-to-introduce-laws-allowing-free-choice-169255/) · `en`
-
-ECONOMYNEXT — Days after extending an apology to Sri Lanka’s Muslim community on behalf of the government, President Ranil Wickremesinghe has said the government has decided to introduce new legislation allowing people to choose between burial and cremation.
-
-“The issue of burial has been a significant concern over the Muslim community in the country. Initially, a separate committee was appointed, deviating from the guidelines of the World Health Organisation (WHO), which created problems and caused hurt feelings among the Muslim community.
-
-“In response, the government has decided to introduce new legislation allowing individuals to choose between burial and cremation according to their wishes. Additionally, provisions have been made for bodies to be donated to medical faculties if desired. These measures aim to prevent similar issues from arising in the future,” he said.
-
-...
-
-[Data](articles/a9b887b2.json)
-
-[Extended Data](ext_articles/a9b887b2.ext.json)
 
 ---

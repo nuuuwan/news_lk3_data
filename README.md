@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 17:55:31**
+As of **2024-06-25 18:13:30**
 
 ## Newspaper Stats
 
-*Scraped **32,106** Articles*
+*Scraped **32,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,781
 economynextcom | 1,853
 dailyftlk | 1,964
-adalk | 2,825
+adalk | 2,827
 adaderanalk | 3,650
 tamilmirrorlk | 3,783
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,100 (100.0%) of 32,106 articles have been extended.
+32,106 (100.0%) of 32,108 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,21 +46,29 @@ Accordingly, the petition will be taken up for hearing before a five-member judg
 
 [Data](articles/ef152ab2.json)
 
+[Extended Data](ext_articles/ef152ab2.ext.json)
+
 ---
 
-### ජූලි 02 වනදා පාර්ලිමේන්තුව රැස්වෙයි
+### Parliament to meet on July 02
 
 *2024-06-25 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198147) · `si`
 
-2024 ජූලි මස 02වන අඟහරුවාදා පෙ.ව 9.30ට පාර්ලිමේන්තුවේ විශේෂ රැස්වීමක් කැඳවා තිබේ.
+A special Parliament session is scheduled for July 2nd at 9:30 am, convened at the Prime Minister's request under the 16 Standing Orders. Mr. Speaker Mahinda Yapa Abeywardena has asked all MPs to attend.
 
-අග්‍රාමාත්‍යවරයාගේ ඉල්ලීම පරිදි පාර්ලිමේන්තුවේ ස්ථාවර නියෝගවල 16 ස්ථාවර නියෝගය ප්‍රකාරව මෙම කැඳවීම සිදුකර ඇත.
+🟩
 
-එබැවින් ඊට පැමිණ සහභාගී වන ලෙස සියලුම පාර්ලිමේන්තු මන්ත්‍රීවරයන්ගෙන් ඉල්ලා සිටින බව කථානායක මහින්ද යාපා අබේවර්ධන මහතා නිවේදනය කරයි.
+Tuesday 2 July Tuesday, July 2, has been called on a special meeting in Parliament at 9.30 am.
+
+At the request of the Prime Minister, the 16 Standing Orders of Parliament has been called in accordance with Standing Order.
+
+Mr. Speaker Mahinda Yapa Abeywardena announced that he is requested to attend all MPs to attend.
 
 ◼️
 
 [Data](articles/bb8cd62e.json)
+
+[Extended Data](ext_articles/bb8cd62e.ext.json)
 
 ---
 
@@ -80,37 +88,49 @@ The special parliamentary sitting has been called in pursuance of Standing Order
 
 ---
 
-### உறுமய வேலைத்திட்டத்தின் கீழ் அம்பாறையில் ஜனாதிபதி தலைமையில் 1654 பயனாளிகளுக்கு காணி உறுதி வழங்கும் நிகழ்வு
+### Land Confirmation to 1654 beneficiaries under the leadership of the President in Ampara
 
 *2024-06-25 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/186956) · `ta`
 
-மக்களின் காணி பிரச்சினைக்கு தீர்வு வழங்கும் நோக்குடன் தேசிய ரீதியில் முன்னெடுக்கப்படும் 20 இலட்சம் காணி உறுதிப்பத்திரங்கள் வழங்கும் ”உறுமய” தேசிய வேலைத் திட்டத்தின் கீழ் அம்பாறை மாவட்டத்தில் 17 பிரதேச செயலாளர் பிரிவுகளைச் சேர்ந்த 20,000 பேரில், 1654 பயனாளிகளுக்கு காணி உறுதிகளை வழங்கும் நிகழ்வு ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் இன்று செவ்வாய்க்கிழமை (25) அம்பாறை வீரசிங்க விளையாட்டங்கில் நடைபெற்றது.
+In Ampara, under President Ranil Wickremasinghe's leadership, 1654 beneficiaries received land confirmations, part of a national initiative to address land issues affecting 20,000 individuals. This event, held at the Ambara Veerasinghe Sports ground, aimed to resolve land problems and boost property values through the "Urumaya" project. The project aims to strengthen the economy by ensuring land rights and preventing asset losses due to economic crises. It's a unique approach, providing land guarantees to those who qualify, addressing a global issue where millions lack legal land ownership.
 
-இந்நிகழ்வில் கிழக்கு  மாகாண  ஆளுநர் செந்தில் தொண்டமான் உட்பட  பாராளுமன்ற உறுப்பினர்களும்   மாவட்ட அரசாங்க அதிபர் உள்ளிட்ட உயர் அதிகாரிகளும் நிகழ்வில் கலந்து கொண்டனர்.
+🟩
 
-உறுமய திட்டத்தினால் மக்களின் காணி உரிமையை உறுதிப்படுத்தி, சொத்துப் பெறுமதியையும் உயர்த்த முடிந்துள்ளதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+A total of 20,000 land guarantees implemented nationally, with aim of resolving the land problem of the people, will be held at the Ambara Veerasinghe Sports at the Ambara Veerasinghe, under the leadership of President Ranil Wickremasinghe on Tuesday (25) under the 17 Divisional Secretariat Divisions in the Ampara District under 17 Divisional Secretariat Divisions in Ampara District..
 
-கொவிட் தொற்று – பொருளாதார நெருக்கடியினால் சரிவடைந்த சொத்துக்களின் பெறுமதி “உறுமய” திட்டத்தின் ஊடாக வலுவடைந்திருப்பதால், அதனூடாக நாட்டின் பொருளாதாரத்தைப் பலப்படுத்த முடியும் என்றும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+Eastern Province Governor Senthil Thondaman and top officials including the District Government Agent were also present at the event.
+
+President Ranil Wickremesinghe said that the Urumaya project has been able to ensure the land rights of the people and raise the property value.
+
+The President also pointed out that the value of the assets that collapsed due to the economic crisis of the economic crisis is strengthened by the “Urumaya” project, which can strengthen the country's economy.
 
 ...
 
 [Data](articles/1e266640.json)
 
+[Extended Data](ext_articles/1e266640.ext.json)
+
 ---
 
-### தியகம மஹிந்த ராஜபக்ஷ விளையாட்டரங்கை மறுசீரமைக்க அமைச்சரவை அங்கீகாரம்
+### Cabinet approval for reorganizing the Diyagama Mahinda Rajapaksa Stadium
 
 *2024-06-25 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/186960) · `ta`
 
-தியகம மஹிந்த ராஜபக்ஷ சர்வதேச விளையாட்டரங்கின் அபிவிருத்தி நடவடிக்கைகள் தற்போது மேற்கொள்ளப்பட்டு வருவதுடன் நடைமுறைப்படுத்துவதற்கு முன்மொழியப்பட்டுள்ள துணைக் கருத்திட்டங்களின் கட்டுமான நடவடிக்கைகளை இராணுவத்திடம் வழங்குவதற்காக கடந்த ஜனவரி மாதம் 8 ஆம் திகதி இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+The Cabinet approved a proposal to reorganize the Diyagama Mahinda Rajapaksa Stadium, including constructing its roof and a second viewing area for athletics. The project, initiated after a January 8th Cabinet meeting, will be executed by the Sri Lankan military under the guidance of the Minister of Sports and Youth Affairs, Harinbernando.
 
-அதற்கமைய, குறித்த விளையாட்டு மைதானத்தின் கனிஸ்ட விளையாட்டரங்கு மற்றும் மெய்வல்லுநர் விளையாட்டுத் திடலின் இரண்டாவது பார்வையாளர் அரங்கின் கூரைகளை அமைப்பதற்குத் திட்டமிடப்பட்டுள்ளது.
+🟩
 
-குறித்த கட்டுமானப் பணிகளை இலங்கை இராணுவத்தினர் மூலம் மேற்கொள்வதற்காக விளையாட்டு மற்றும் இளைஞர் விவகார அமைச்சர் ஹரீன்பெர்னாண்டோ சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The development activities of the Diyagama Mahinda Rajapaksa International Stadium are currently being carried out and the Cabinet meeting held on January 8 last year has been approved to provide the construction of the sub -projects proposed to implement.
+
+Accordingly, the roof of the playground's roofs of the playground and the second viewer of the athletic playground.
+
+The Cabinet has approved the proposal submitted by the Minister of Sports and Youth Affairs Harinbernando to carry out the construction work by the Sri Lankan military.
 
 ◼️
 
 [Data](articles/37a6726e.json)
+
+[Extended Data](ext_articles/37a6726e.ext.json)
 
 ---
 
@@ -136,35 +156,49 @@ Putin was sworn in as the President of Russia for the fifth consecutive year in 
 
 ---
 
-### பிரிவெனாக் கல்வி முறையில் டிஜிட்டல் தொழிநுட்பத்தை அறிமுகப்படுத்த அங்கீகாரம்
+### Authorization to introduce digital technology in the segregate education system
 
 *2024-06-25 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/186958) · `ta`
 
-பிரிவெனாக் கல்வி முறையில் டிஜிட்டல் தொழிநுட்பத்தை அறிமுகப்படுத்துவதன் மூலம் பிரிவெனாக் கல்வியை வலுப்படுத்தும் நிகழ்ச்சித்திட்டங்களை மேற்கொள்வதற்காக தொழிநுட்ப அமைச்சு மற்றும் கல்வி அமைச்சு இணைந்து திட்டமிட்டுள்ளது.
+The Ministries of Technology and Education plan to enhance the Division Education sector through digital technology integration. This initiative aims to utilize tech for exploring and analyzing Sri Lanka's national Buddhist heritage, benefiting teachers and students across various sects. The Cabinet has endorsed this proposal, ensuring the provision of essential digital tools like computers, smart screens, and printers.
 
-அதன் மூலம் பிரிவெனாக்களிலுள்ள ஆசிரியர்கள் மற்றும் பிக்கு மாணவர்கள் மற்றும் ஏனைய மாணவர்களுக்கு இலங்கையின் தேசிய பௌத்த மரபுரிமைகளை ஆராய்வதற்கும் பகுப்பாய்வு செய்வதற்கும் டிஜிட்டல் தொழிநுட்பத்தைப் பயன்படுத்தக் கூடியதாக அமையும்.
+🟩
 
-அதற்கமைய, ஒரு பிரிவெனாவுக்கு குறைந்தது இரண்டு கணணிகள், ஸ்மார்ட் திரை மற்றும் அச்சு இயந்திரமொன்றையும் வழங்குவதற்கு இயலுமாகும் வகையில் முன்மொழியப்பட்டுள்ள வேலைத்திட்டத்தை நடைமுறைப்படுத்துவத்காக தொழிநுட்ப அமைச்சராக ஜனாதிபதியும் கல்வி அமைச்சர் சுசில் பிரேம ஜயந்தவும் இணைந்து சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The Ministry of Technology and the Ministry of Education is planning to carry out programs to strengthen the Division Education by introducing digital technology in the sectarian education system.
+
+It will use digital technology to explore and analyze the national Buddhist heritage of Sri Lanka for teachers and Bigu students and other students in the sect.
+
+Accordingly, the Cabinet has approved the proposal submitted by the President and Education Minister Susil Prema Jayantha as the Minister of Technology to implement the proposed program in order to provide at least two computers, smart screen and print machines.
 
 ◼️
 
 [Data](articles/3c270c98.json)
 
+[Extended Data](ext_articles/3c270c98.ext.json)
+
 ---
 
-### ஹிங்குராக்கொட விமான நிலையத்தை அபிவிருத்தி செய்ய அமைச்சரவை அங்கீகாரம்
+### Cabinet approval to develop Hingurakoda Airport
 
 *2024-06-25 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/186957) · `ta`
 
-ஹிங்குராக்கொட விமான நிலையத்தை முழுமையான விமான நிலையமாக அபிவிருத்தி செய்வதற்குத் தேவையான நடவடிக்கைகளை மேற்கொள்வதற்காக பாதுகாப்பு அமைச்சராக  ஜனாதிபதியும் துறைமுகங்கள், கப்பல்துறை மற்றும் விமான சேவைகள் அமைச்சர் நிமல் சிறிபால டி சில்வாவும் இணைந்து சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The Cabinet has approved the development of Hingurakoda Airport, managed by the Air Force, aiming for international civil airline standards. A committee involving various authorities will oversee the project.
 
-தற்போது விமானப் படையினரால் முகாமைத்துவப்படுத்தப்பட்டு வரும் ஹிங்குராக்கொட விமான நிலையம் சர்வதேச சிவில் விமான சேவைகளின் தரநியமங்களுக்கமைய அபிவிருத்தி செய்யப்பட வேண்டிய தேவை கண்டறியப்பட்டுள்ளது.
+🟩
 
-அதற்கமைய, குறித்த விமான நிலையத்திற்கான பிரதான திட்டத்தைத் தயாரித்தல் மற்றும் அதற்குரிய ஏனைய பணிகளுக்காக இலங்கை விமானப்படை, இலங்கை சிவில் விமான சேவைகள் அதிகாரசபை, வரையறுக்கப்பட்ட விமானநிலையங்கள் மற்றும் விமான சேவைகள் (இலங்கை) (தனியார்) கம்பனி மற்றும் வீதி அபிவிருத்தி அதிகாரசபை போன்ற நிறுவனங்களின் பிரதிநிதிகளுடன் கூடிய குழுவொன்று நியமிக்கப்பட்டுள்ளது.
+The Cabinet has approved the proposal submitted by the President and the Minister of Ports, Shipping and Airlines Nimal Siripala de Silva as the Minister of Defense to take necessary steps to develop the Hingurakoda airport as a complete airport.
 
-...
+Hingurakoda Airport, which is currently managing by the Air Force, has been found to be developed according to the standards of international civil airlines.
+
+Accordingly, a committee has been appointed with representatives such as the Sri Lanka Air Force, the Sri Lanka Civil Aviation Authority, the Airports and the Airports (Sri Lanka) (Private) Company and the Road Development Authority for the preparation of the main project for the airport.
+
+The Cabinet has approved the proposal submitted by the President and the Minister of Ports, Shipping and Airlines Nimal Siripala de Silva as the Minister of Defense to take necessary steps to develop the Hingurakoda airport as a full airport.
+
+◼️
 
 [Data](articles/0a8508b3.json)
+
+[Extended Data](ext_articles/0a8508b3.ext.json)
 
 ---
 
@@ -229,6 +263,22 @@ Additionally, the Ministry of Education stated that it will intervene to bring d
 [Data](articles/b81346a0.json)
 
 [Extended Data](ext_articles/b81346a0.ext.json)
+
+---
+
+### පරිගණකයට ඇබ්බැහි වී උ.පෙළ සිසුවා දිවි නහගෙන
+
+*2024-06-25 15:59:17* · [`adalk`](https://www.ada.lk/breaking_news/පරිගණකයට-ඇබ්බැහි-වී-උ-පෙළ-සිසුවා-දිවි-නහගෙන/11-410428) · `si`
+
+රැකියාවට යන මවට වැඳ කාමරයට වී දොරගුලු ලාගත් උසස් පෙළ පාසල් සිසුවෙකු පතරොම් තුවක්කුවකින් වෙඩි තබාගෙන මියගොස් ඇතැයි පරීක්ෂණ පවත්වන ගම්පොළ ඇත්ගාල පොලීසිය පවසයි.
+
+මෙසේ මියගොස් ඇත්තේ ගම්පොළ පාර උලපනේ පදිංචි  දහඅට හැවිරිදි සිසුවෙකි .මොහුගේ මව ගුරුවරියක වන අතර පියා වන සංරක්ෂණ දෙපාර්තමේන්තු සේවයෙන් විශ්‍රාම ගොස් පුද්ගලික අංශයේ සේවය කරයි.
+
+එකම සොහොයුරා පේරාදෙණිය විශ්ව විද්‍යාලයේ කථිකාචාර්යවරයකු වන අතර එකම සොයුරිය කුරුණෑගල ශික්ෂණ රෝහලේ පුහුණුවන වෛද්‍යවරියකි.මෙම සිසුවා සිය කාමරයේ පුටුවක සිටිමින් මෙම වෙඩි තබා ගැනීම සිදුකරගෙන ඇති අතර එයින් හිසේ පසුපසට බරපතළ හානි සිදුව තිබූ බව පොලීසිය පවසයි.පියා සතු මෙම තුවක්කුව සඟවා තිබියදී එය සොයා ගෙන මෙම වෙඩි තබා ගැනීම සිදුකර ගෙන තිබේ .
+
+...
+
+[Data](articles/23deb979.json)
 
 ---
 
@@ -741,6 +791,22 @@ Accordingly, the Cabinet approved the joint proposal presented by the President 
 [Data](articles/67a1296a.json)
 
 [Extended Data](ext_articles/67a1296a.ext.json)
+
+---
+
+### සාපෙළ හා  ශිෂ්‍යත්ව උත්තර පත්‍ර සමීක්ෂණ දීමනා ඉහළට
+
+*2024-06-25 13:28:38* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ-හා--ශිෂ්‍යත්ව-උත්තර-පත්‍ර-සමීක්ෂණ-දීමනා-ඉහළට/11-410424) · `si`
+
+අ.පො.ස සාමාන්‍ය පෙළ හා පහ ශ්‍රේණි ශිෂ්‍යත්ව විභාගවල උත්තර පත්‍ර සමීක්ෂණය සඳහා ගෙවනු ලබන දීමනා ප්‍රතිශතයාත්මකව ඉහළ දැමීමට අනුකමිටු නිර්දේශය ලැබී ඇති අතර එම නිර්දේශ අමාත්‍ය මණ්ඩලයට ඉදිරිපත් කර අනුමැතිය ලබා ගැනීමට කටයුතු කරනු ලබන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+
+තව ද ගුරු සේවයේ ගුරුවරුන් සඳහා මෙතෙක් ක්‍රියාත්මක වු මොඩ්‍යුලර් ක්‍රමය වෙනුවට ගුරු වෘත්තීය සමිති දැනුම්වත් කර රාජ්‍ය සේවා කොමිෂන් සභාවට යොමු කරන ලද යෝජනාව කොමිසම විසින් සලකා බලා අධ්‍යාපන අමාත්‍යාංශයට යොමු කිරීමට නියමිත බවද එම අමාත්‍යාංශය නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+
+මේ අතර 2022 වර්ෂයට වඩා 2024 වර්ෂය වන විට අධ්‍යාපන කටයුතු සඳහා අත්‍යවශ්‍ය අභ්‍යාස පොත් හා උපකරණ මිල අඩු කිරීමට අධ්‍යාපන අමාත්‍යාංශය මැදිහත්ව කටයුතු කරන බවද අමාත්‍යාංශය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/4146f321.json)
 
 ---
 
@@ -2279,55 +2345,5 @@ Minister Harin Fernando said the government has taken steps to insure them for t
 [Data](articles/5b809d31.json)
 
 [Extended Data](ext_articles/5b809d31.ext.json)
-
----
-
-### Suresh Premachandran's information was confirmed to stand Tamil general candidate in the presidential election
-
-*2024-06-25 04:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/186891) · `ta`
-
-Suresh Premachandran, representing the Democratic Tamil National Alliance (TNA), announced the selection of a common candidate for the upcoming presidential election, aiming to unite Tamil parties to secure Tamil rights and aspirations. This decision followed discussions within the TNA and consultations with civil organizations.
-
-🟩
-
-Suresh Premachandran on behalf of the Democratic Tamil National Alliance said that a policy decision on behalf of the Democratic Tamil National Alliance (TNA) was confirmed on Monday (25) as it was a policy decision on the standing of a common candidate on the upcoming presidential election.
-
-Suresh Premachandran said this while speaking to the media after the high -level meeting of the Democratic Tamil National Alliance (TNA) was held on Monday (25) at a private hotel in Vavuniya.
-
-Today we have long arguments regarding the common candidate. The matter was confirmed on Monday (25) that it was a matter of time to put a common candidate in principle in principle.
-
-It has been decided to address the issue of the general candidate by talking to the civil organizations on the Tamil side.
-
-...
-
-[Data](articles/37797f7c.json)
-
-[Extended Data](ext_articles/37797f7c.ext.json)
-
----
-
-### Massive fire at a factory -affiliated barn in Vavuniya
-
-*2024-06-25 04:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/186890) · `ta`
-
-A massive fire erupted at a factory complex in Vavuniya, destroying goods worth millions. The blaze started in an aluminum and plastic factory, spreading to nearby plantations and furniture storage. Emergency services rushed to contain the fire but couldn't prevent significant damage. Investigations into the cause are ongoing.
-
-🟩
-
-A fire broke out on Monday (24) at a factory connected by a factory in Marakarampalai area in Vavuniya.
-
-The fire broke out in the factory, which includes aluminum and plastics located in the Marakarampalai area of ​​Vavuniya, and the plantation of plastics and home furniture.
-
-The fire broke out as two men worked in the industrial road.. Following the fire, the Vavuniya Municipal Fire Division, the police and the army have taken steps to bring the fire under control.
-
-However, the fact that the factory has been completely burnt and millions of rupees worth of goods have been destroyed in the fire.
-
-In this backdrop, Ichangulam police are conducting further investigations into the causes of the fire.
-
-◼️
-
-[Data](articles/3b7c96e7.json)
-
-[Extended Data](ext_articles/3b7c96e7.ext.json)
 
 ---

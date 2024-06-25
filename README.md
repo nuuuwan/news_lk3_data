@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 09:53:59**
+As of **2024-06-25 10:05:54**
 
 ## Newspaper Stats
 
-*Scraped **32,022** Articles*
+*Scraped **32,028** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,781
 economynextcom | 1,845
 dailyftlk | 1,963
-adalk | 2,814
-adaderanalk | 3,637
-tamilmirrorlk | 3,770
+adalk | 2,815
+adaderanalk | 3,639
+tamilmirrorlk | 3,773
 dailymirrorlk | 4,733
 virakesarilk | 4,961
 adaderanasinhalalk | 5,249
@@ -26,11 +26,91 @@ adaderanasinhalalk | 5,249
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,019 (100.0%) of 32,022 articles have been extended.
+32,022 (100.0%) of 32,028 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### 21,000 children missing in the chaos of Gaza war: Save the Children report
+
+*2024-06-25 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100084/21000-children-missing-in-the-chaos-of-gaza-war-save-the-children-report) · `en`
+
+Up to 21,000 children are missing, many trapped beneath rubble, detained, buried in unmarked graves or lost from their families in the chaos of Gaza war, British aid group Save the Children has said.
+
+“It is nearly impossible to collect and verify information under the current conditions in Gaza,” the group said, “but at least 17,000 children are believed to be unaccompanied and separated and approximately 4,000 children are likely missing under the rubble, with an unknown number also in mass graves,” it said in a report on Monday.
+
+More than 14,000 children have been killed in Israeli air strikes in Gaza since October 7, while others are suffering from severe malnutrition and do not “even have the energy to cry”, the United Nations Children’s Fund (Unicef), said in a report earlier this year.
+
+...
+
+[Data](articles/4f66b244.json)
+
+---
+
+### இந்திய மீனவர்களை கைது செய்ய சென்ற கடற்படை வீரர் உயிரிழப்பு
+
+*2024-06-25 09:50:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்களை-கைது-செய்ய-சென்ற-கடற்படை-வீரர்-உயிரிழப்பு/175-339373) · `ta`
+
+இந்திய மீனவர்கள் குழுவை கைது செய்ய சென்ற போது காயமடைந்த கடற்படை வீரர் ஒருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+
+நெடுந்தீவு கடற்பரப்பில் சட்டவிரோதமாக இழுவை படகு மூலம் மீன்பிடியில் ஈடுபட்ட 10 இந்திய மீனவர்கள் கைது செய்யப்பட்டதாக கடற்படை தெரிவித்துள்ளது.
+
+குறித்த குழுவினரை கைது செய்ய சென்ற போது  கடற்படை வீரர் ஒருவர் காயமடைந்துள்ளார்.
+
+◼️
+
+[Data](articles/e8dcf042.json)
+
+---
+
+### உலக வங்கியிலிருந்து இலங்கைக்கு நிதியுதவி
+
+*2024-06-25 09:47:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-வங்கியிலிருந்து-இலங்கைக்கு-நிதியுதவி/175-339372) · `ta`
+
+இலங்கைக்கு 150 மில்லியன் டொலர் நிதியுதவி வழங்க உலக வங்கி அனுமதி வழங்கியுள்ளது.
+
+நாட்டில் ஆரம்ப சுகாதார சேவைகளின் தரத்தை மேம்படுத்த உலக வங்கியின் நிறைவேற்றுப் பணிப்பாளர் சபை, நிதியுதவிக்கு ஒப்புதல் அளித்துள்ளது.
+
+◼️
+
+[Data](articles/afb0e3d0.json)
+
+---
+
+### Navy intercepts fishing trawler with 200kg of narcotics; six arrested
+
+*2024-06-25 09:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100083/navy-intercepts-fishing-trawler-with-200kg-of-narcotics-six-arrested) · `en`
+
+Sri Lanka Navy says it seized a local multi-day fishing trawler carrying nearly 200 kg of narcotics on seas off the western coast and arrested 06 suspects.
+
+The interception was made during an operation carried out by the Navy on high seas about 121 nautical miles (about 223 km) west of Sri Lanka.
+
+Six suspects were arrested along with the multi-day fishing vessel that was transporting nearly 200 kg of narcotics substance, the navy said.
+
+The arrested suspects, trawler and seized drugs are currently being escorted to land, it said.
+
+◼️
+
+[Data](articles/42804234.json)
+
+---
+
+### நாட்டின் பல பகுதிகளில் இன்றும் மழை
+
+*2024-06-25 09:43:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-பல-பகுதிகளில்-இன்றும்-மழை/175-339371) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+அத்துடன், மேல், சப்ரகமுவ மாகாணங்களிலும்  கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் சில இடங்களில் 100 மி.மீ அளவான  பலத்த மழைவீழ்ச்சி பதிவாகலாம்.
+
+இதேவேளை, மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோமீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் உள்ளது.
+
+◼️
+
+[Data](articles/e2698927.json)
+
+---
 
 ### Navy sailor dies from injuries during arrest of Indian fishermen off Delft
 
@@ -48,21 +128,29 @@ Sri Lanka Navy has arrested over 200 Indian fishermen and seized more than 27 In
 
 [Data](articles/b85690c3.json)
 
+[Extended Data](ext_articles/b85690c3.ext.json)
+
 ---
 
-### ඉන්දීය ධීවරයින් අත්අඩංගුවට ගැනීමට යෑමේ දී නාවික සෙබළෙක් මරුට
+### Ship soldier dies after being arrested in Indian fishermen
 
 *2024-06-25 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198127) · `si`
 
-ඉන්දීය ධීවරයින් පිරිසක් අත්අඩංගුවට ගැනීමට යෑමේ දී තුවාල ලැබූ නාවික හමුදා සෙබළෙක් රෝහල්ගත කිරීමෙන් අනතුරුව ජීවිතක්ෂයට පත්ව තිබේ.
+An injured navy soldier died after arresting 10 Indian fishermen caught poaching near Delft Island.
 
-නාවික හමුදාව සඳහන් කළේ, ඩෙල්ෆ්ට් දූපතට ඔබ්බෙන් වූ මුහුදු ප්‍රදේශයේ නීතිවිරෝධීව ට්‍රෝලර් යාත්‍රාවකින් ධීවර කටයුතුවල නිරත වූ ඉන්දීය ධීවරයින් 10 දෙනෙකු අත්අඩංගුවට ගත් බවය.
+🟩
 
-එම පිරිස අත්අඩංගුවට ගැනීමට යෑමේ දී ඇති වූ සිදුවීමක දී නාවික සෙබළෙක් තුවාල ලබා ඇත.
+A suicide soldier who was injured after the arrest of a group of Indian fishermen have been killed.
+
+The Navy stated that 10 Indian fishermen were arrested by a illegal vessel in the sea area on Delft Island.
+
+A naval soldier suffered injuries in an incident that had been arrested.
 
 ◼️
 
 [Data](articles/5868f294.json)
+
+[Extended Data](ext_articles/5868f294.ext.json)
 
 ---
 
@@ -81,6 +169,8 @@ The previous World Bank-supported Primary Healthcare Systems Strengthening Proje
 ...
 
 [Data](articles/65a10fc5.json)
+
+[Extended Data](ext_articles/65a10fc5.ext.json)
 
 ---
 
@@ -1700,6 +1790,22 @@ Q. There is a large number of basic facilities including permanent housing. Are 
 
 ---
 
+### උද්ධමනය පහළට
+
+*2024-06-24 19:43:07* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-පහළට/11-410412) · `si`
+
+2024 අප්‍රේල් මාසයේ දී 2.7%ක් ලෙස වාර්තා වූ මෙරට උද්ධමනය 2024 මැයි මාසය සඳහා 1.6%ක් දක්වා අඩු වී තිබේ.
+
+2024 අප්‍රේල් මාසයේ දී 3.3%ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 මැයි මාසයේ දී   0.5%ක් දක්වා අඩු වී ඇත.
+
+එමෙන්ම, 2024 අප්‍රේල් මාසයේ දී 2.3%ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 මැයි මාසයේ දී 2.4%ක් දක්වා වැඩි වී ඇත.
+
+◼️
+
+[Data](articles/15d3c047.json)
+
+---
+
 ### SI of Sri Lanka, who demanded the bribe of Indian company
 
 *2024-06-24 19:38:00* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-සමාගමකින්-ලක්ෂ-50ක්-අල්ලස්-ඉල්ලූ-එස්-අයිට-වැඩ-වරදියි/11-410411) · `si`
@@ -2087,149 +2193,5 @@ Balasuriya also visited Myanmar and held talks with officials including U Than S
 [Data](articles/2a0a4a44.json)
 
 [Extended Data](ext_articles/2a0a4a44.ext.json)
-
----
-
-### If the cricket team is wrong, Harins resigns
-
-*2024-06-24 17:47:02* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-කණ්ඩායම-වැරදි-නම්-හරීන්-ඉල්ලා-අස්වෙනවලු/9-410403) · `si`
-
-Harin Fernando, Minister of Tourism and Youth Affairs, announced his readiness to resign if allegations against the Sri Lanka Cricket team prove true. He highlighted government efforts to support athletes, including insurance coverage for school rugby players and a heritage program granting freehold deeds. Despite challenges, initiatives like promoting tourism and developing sports infrastructure are underway, aiming to boost the economy and prepare for future elections.
-
-🟩
-
-Minister of Tourism and Lands and Youth Affairs Harin Fernando said that he would resign from the Minister to the cricket team that the Sri Lanka Cricket Cup has departed for the cricket tournament.
-
-The Minister said that the government had taken measures to take a large cost of the sportsmen and the international level.Did.
-
-Minister Harin Fernando, Minister of Tourism and Youth Affairs, was held at a press conference held today (24) at the President's Media Center today.
-
-Minister Harin Fernando stated that the government has also served the insurance cover to protect school rugby players.
-
-As the first step in the history of 75 years of free Sri Lanka history, the "heritage" is shown in Sinchkara Land Deeds. Established in February, the program has been able to grant more than 50,000 freeholding deeds. Troops of the heritage program are expected to be given Rs. 20 lakhs of land deeds.
-
-...
-
-[Data](articles/805b4ba0.json)
-
-[Extended Data](ext_articles/805b4ba0.ext.json)
-
----
-
-### Special protection to universities
-
-*2024-06-24 17:44:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழகங்களுக்கு-விசேட-பாதுகாப்பு/175-339344) · `ta`
-
-The Ministry of Education has asked the Ministry of Public Security to enhance security for state university personnel, including lecturers, students, and non-academic staff, to safeguard their safety and public property. This request follows a letter from Education Minister Susil Premajayantha, emphasizing the need for increased protection within the State University system.
-
-🟩
-
-The Ministry of Education has requested the Secretary of the Ministry of Public Security to ensure special security measures to protect the safety and public property of state university lecturers, students and non -academic staff.
-
-Education Minister Susil Premajayantha has issued a letter on Monday (24) demanding that the Ministry of Education JM Tilaka Jayasundara Jayasundara ensure the safety of the State University Organization.
-
-◼️
-
-[Data](articles/6c3242af.json)
-
-[Extended Data](ext_articles/6c3242af.ext.json)
-
----
-
-### Thinking thickens to Sachithra Senanayake's house
-
-*2024-06-24 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198103) · `si`
-
-Sachithra Senanayake, a former Sri Lankan cricketer, reported that his house in Kalagoda was burglarized overnight. The intruders broke through two doors and a window, stealing items including jewelry, watches, a computer, and two tablets. They also damaged the DVR and CCTV camera. The Thalangama Police's Criminal Investigation Unit is investigating the incident.
-
-🟩
-
-The house in the Kachithra Senanayake's Kalagoda, the former Sri Lankan cricket Sachithra Senanayake's Kalagoda is collapsed.
-
-Sachithra Senanayake said his house was threatened on the 21st night.
-
-At that time, none of the house had been broken, and two doors and two doors were broken and the window had entered the house.
-
-Sachithra Senanayake said that the items were stolen in the home, auxuriulololololololololololoulolololoules, wreams, computer and two tabs.
-
-And the DVR the CCTive camera was also rescued.
-
-The Criminal Investigation Unit of the Thalangama Police is conducting further investigations.
-
-◼️
-
-[Data](articles/a4664601.json)
-
-[Extended Data](ext_articles/a4664601.ext.json)
-
----
-
-### Princess Anne in hospital after being injured by a horse
-
-*2024-06-24 17:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100075/princess-anne-in-hospital-after-being-injured-by-a-horse) · `en`
-
-The Princess Royal has been admitted to hospital after she suffered minor injuries and concussion on her estate in Gloucestershire, Buckingham Palace has said.
-
-Princess Anne, 73, is expected to make a full and swift recovery after an incident at her Gatcombe Park estate, a statement said.
-
-She remains in Southmead Hospital, Bristol, “as a precautionary measure for observation”.
-
-“The King has been kept closely informed and joins the whole Royal Family in sending his fondest love and well-wishes to the Princess for a speedy recovery,” the statement added.
-
-The cause of the injury is unconfirmed, but it’s understood to be consistent with a potential impact from a horse’s head or legs.
-
-The Princess Royal had been expected to begin a visit to Canada at the end of this week.
-
-Canadian media had reported she was due to take part in a ceremony at a war memorial in Newfoundland.
-
-During the recent D-Day commemorations Princess Anne met veterans and their families at the Bayeux War Cemetery in France.
-
-...
-
-[Data](articles/9245ff75.json)
-
-[Extended Data](ext_articles/9245ff75.ext.json)
-
----
-
-### 4kg of ‘Ice’ found inside parcel sent from Pakistan
-
-*2024-06-24 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100074/4kg-of-ice-found-inside-parcel-sent-from-pakistan) · `en`
-
-A package with 04 kilograms of ‘Ice’ (Crystal methamphetamine) drugs has been taken into custody at the Central Mail Exchange in Colombo, the police said.
-
-Meanwhile, police mentioned that three suspects have been arrested in connection with the parcel sent to Colombo from Pakistan.
-
-The street value of the haul of drugs is estimated to be around Rs. 400 million, according to police.
-
-The parcel in question was sent to an address in the Modara area. The drugs had been concealed inside a carpet.
-
-The detection was made based on intelligence received by Sri Lanka Customs.
-
-◼️
-
-[Data](articles/dbbfe7ed.json)
-
-[Extended Data](ext_articles/dbbfe7ed.ext.json)
-
----
-
-### A stock of ice drugs on the central mail transfer
-
-*2024-06-24 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198102) · `si`
-
-In a major bust, 4kg of ice drugs valued at 400 million rupees were intercepted from Pakistan to Sri Lanka via the Central Mail Transfer.
-
-🟩
-
-4 kilograms of ice drugs were found in Pakistan to Sri Lanka.
-
-The suspicious parcel was found in the Central Mail transfer and is worth 400 million rupees.
-
-◼️
-
-[Data](articles/0aa43f92.json)
-
-[Extended Data](ext_articles/0aa43f92.ext.json)
 
 ---

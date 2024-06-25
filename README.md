@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 07:24:48**
+As of **2024-06-25 07:47:21**
 
 ## Newspaper Stats
 
-*Scraped **31,993** Articles*
+*Scraped **32,000** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 294
+colombotelegraphcom | 295
 dbsjeyarajcom | 295
 bbccomsinhala | 316
 newsfirstlk | 363
@@ -16,21 +16,129 @@ islandlk | 1,781
 economynextcom | 1,845
 dailyftlk | 1,963
 adalk | 2,811
-adaderanalk | 3,633
+adaderanalk | 3,635
 tamilmirrorlk | 3,769
 dailymirrorlk | 4,733
 virakesarilk | 4,950
-adaderanasinhalalk | 5,240
+adaderanasinhalalk | 5,244
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-31,993 (100.0%) of 31,993 articles have been extended.
+31,993 (100.0%) of 32,000 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### WikiLeaks founder Julian Assange to plead guilty in deal with US and be freed from prison
+
+*2024-06-25 07:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100080/wikileaks-founder-julian-assange-to-plead-guilty-in-deal-with-us-and-be-freed-from-prison) · `en`
+
+(AP) — WikiLeaks founder Julian Assange will plead guilty to a felony charge in a deal with the U.S. Justice Department that will allow him to walk free and resolve a long-running legal saga that spanned multiple continents and centered on the publication of a trove of classified documents.
+
+Assange left a British prison on Monday and will appear later this week in the U.S. federal court in the Northern Mariana Islands, a U.S. commonwealth in the Western Pacific. He’s expected to plead guilty to an Espionage Act charge of conspiring to unlawfully obtain and disseminate classified national defense information, the Justice Department said in a letter filed in court.
+
+...
+
+[Data](articles/b0b78f6b.json)
+
+---
+
+### ඇෆ්ගනිස්තානයෙන් ලකුණු 116ක ඉලක්කයක්
+
+*2024-06-25 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198122) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 8 දෙනාගේ වටයේ බංග්ලාදේශ කණ්ඩායම සහ ඇෆ්ගනිස්තාන අතර තරගය මේ වනවිට පැවැත්වෙයි.
+
+තරගයේ කාසියේ වාසිය දිනා පළමුවෙන් පන්දුවට පහරදුන් ඇෆ්ගනිස්තාන කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 05ක් දැවී ලකුණු 115ක් රැස්කළේය.
+
+පන්දු යැවීමේදී බංග්ලාදේශ කණ්ඩායම වෙනුවෙන් Rishad Hossain කඩුලු 03ක් දවාගත්තේය.
+
+ඒ අනුව තරගය ජය ගැනීම සඳහා බංග්ලාදේශ කණ්ඩායමට ලකුණු 116ක ඉලක්කයක් හිමිව තිබේ.
+
+◼️
+
+[Data](articles/980f350e.json)
+
+---
+
+### Heavy showers expected in parts of the island
+
+*2024-06-25 07:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100079/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Heavy showers of about 100mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy and Nuwara-Eliya districts.
+
+Several spells of showers may occur in Matale district, it said.
+
+Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+◼️
+
+[Data](articles/89512c42.json)
+
+---
+
+### පරිපාලන සංගමය වෘත්තීය සමිති ක්‍රියාමාර්ගය අත්හරියි
+
+*2024-06-25 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198121) · `si`
+
+‍අග්‍රාමාත්‍යවරයා සමග පැවති සාකච්ඡාවෙන් අනතුරුව සිය වෘත්තීය සමිති ක්‍රියාමාර්ගය තාවකාලිකව නතර කිරීමට තීරණය කළ බව ශ්‍රී ලංකා පරිපාලන සේවා සංගමය පවසයි.
+
+එම සංගමයේ සභාපති මහේෂ් ගම්මන්පිල මහතා සඳහන් කළේ, ජුනි මස පළමු වනදා සිට ක්‍රියාත්මක වන පරිදි දීමනා වැඩිවීමක් ලබා දීමට එකඟතාව පළවූ බවය.
+
+වැටුප් වැඩිවීම  ඇතුළු ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් ශ්‍රී ලංකා පරිපාලන සේවා සංගමය අසනීප නිවාඩු වාර්තා කරමින් වැඩවර්ජනයක නිතර වීමට තීරණයය කර තිබිණි.
+
+අදාළ ඉල්ලීම් සම්බන්ධයෙන් ඊයේ (24) පස්වරුවේ අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා සහ වෘත්තීය සමිති නියෝජිතයින් අතර විශේෂ සාකච්ඡාවක් පවත්වා තිබේ.
+
+එම සාකච්ඡාවේදී එකඟතාවයකට පැමිණීමට හැකි වූ බැවින් සිය වෘත්තීය සමිති ක්‍රියාමාර්ගය තාවකාලීකව නතර කිරීමට තීරණය කළ බව ශ්‍රී ලංකා පරිපාලන සේවා සංගමයේ සභාපති මහේෂ් ගම්මන්පිල මහතා පැවසුවේය.
+
+අ‍ග්‍රාමාත්‍යවරයා සමග පැවති සාකච්ජාවට විධායක නිලධාරීන්ගේ සංගමයේ නියෝජතයින්ද සහභාගී වී සිටි අතර එහෙත් සිය ඉල්ලීම්වලට යහපත් ප්‍රතිචාර නොලැබුණු බව රජයේ විධායක නිලධාරීන්ගේ ඒකාබද්ධ කමිටුවේ සභාපති එච්.ඒ.එල් උදයසිරි මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/8c8317bc.json)
+
+---
+
+### තියුණු ආයුධයකින් පහර දී තවත් ඝාතනයක්
+
+*2024-06-25 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198120) · `si`
+
+යක්කලමුල්ල පොලිස් වසමේ පොල්පගොඩ ප්‍රදේශයේදී පුද්ගලයෙකු තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+
+ඊයේ (24) රාත්‍රී කාලයේදී එම ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+
+එලෙස මියගොස් ඇත්තේ, පොල්පගොඩ, යක්කලමුල්ල ප්‍රදේශයේ පදිංචිව සිටි 51 හැවිරිදි පුද්ගලයෙකි.
+
+මරණකරු නිවසේ තනිව ජීවත්ව සිට ඇති අතර ඝාතනය සිදුකිරීමට හේතුව හෝ සැකකරු සම්බන්ධයෙන් මෙතෙක් තොරතුරු අනාවරණය වී නොමැත.
+
+◼️
+
+[Data](articles/21380d8d.json)
+
+---
+
+### අධිකරණ ඇමතිට අධිකරණ සේවා සංගමයේ විරෝධය
+
+*2024-06-25 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198119) · `si`
+
+පාර්ලිමේන්තු වරප්‍රසාදවලට මුවා වී අධිකරණ පද්ධතිය විවේචනයට ලක්කරමින් අධිකරණ අමාත්‍ය විජේදාස රාජපක්ෂ මහතා සිදුකරන වගකීම් විරහිත ප්‍රකාශවලින් අධිකරණයේ ස්වාධීනත්වය ප්‍රසිද්ධියේ අභියෝගයට ලක්ව ඇති බව අධිකරණ සේවා සංගමය පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එම සංගමය පෙන්වා දෙන්නේ , පසුගිය 19 වන දින පාර්ලිමේන්තුවේ පැවති විවාදයක් අතරතුර දී අධිකරණ අමාත්‍යවරයා සිදුකළ ප්‍රකාශ අපක්ෂපාතී විනිශ්චයකාරවරුන් අපකීර්තියට පත්කිරීම සඳහා වූ නිශ්චිත ඉලක්ක ගත ව්‍යාපෘතියක කොටසක් වශයෙන් දිග හැරෙමින් පවතින බවය.
+
+එම විවේචන අසත්‍යයෙන් සත්‍ය වෙන්කර නොගෙන අමාත්‍යවරයාගේ දේශපාලන පැවැත්ම අභියෝගයට ලක්කර ඇති නඩුකරවලදී අදාළ අධිකරණ නීත්‍යානුකූලව ලබාදුන් තීන්දු සහ නියෝගවලින් අතෘප්තියට පත්වීම මත සැලසුම් සහගතව සිදුකරන ලද්දක් බව අධිකරණ සේවා සංගමය පවසයි.
+
+පාර්ලිමේන්තු සභාව තුළ දී අධිකරණ පද්ධතිය හෑල්ලු වන ප්‍රකාශ සිදුකිරීමෙන් ව්‍යවස්ථාදායකය හා අධිකරණය අතර අනවශ්‍ය ගැටුමක් ඇතිකිරීමට හේතුවිය හැකි බවත් එවැනි තත්ත්වයන් කොන්දේසි විරහිතව පරාජය කළ යුතු බව එම සංගමය පෙන්වා දෙයි.
+
+...
+
+[Data](articles/0603e0bc.json)
+
+---
 
 ### Showers over 100mm
 
@@ -191,6 +299,18 @@ The program will have an inaugural session, two technical sessions, panel discus
 [Data](articles/f7bc8094.json)
 
 [Extended Data](ext_articles/f7bc8094.ext.json)
+
+---
+
+### Upright Institutions Needed For Sri Lanka’s Recovery
+
+*2024-06-25 01:30:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/upright-institutions-needed-for-sri-lankas-recovery/) · `en`
+
+With elections and a change of government in one way or the other imminent, the independent institutions of state vested with authority to monitor, and provide a check and balance to government, are vindicating their existence. The reports of the Auditor General over the years has been a testament to the diligence with which public officials empowered with a mandate pursue their tasks and find out the misuse of resources that has taken place. One of its reports is on a petroleum scam that has gone on for years and has come up before the Committee on Public Enterprises in parliament. The Public Utilities Commission of Sri Lanka (PUCSL) has refused approval to award procurement of the 484 MW wind power plant in Mannar and Pooneryn to Adani Green Energy SL Ltd. (AGESL), saying the information submitted to it by the Ceylon Electricity Board (CEB) was not adequate to assess least cost and technical compatibility.
+
+...
+
+[Data](articles/e50f63cc.json)
 
 ---
 
@@ -2077,155 +2197,5 @@ Sri Lankan conglomerate Dimo, the agents for Mercedes-Benz and Jeep in Sri Lanka
 [Data](articles/c8bd3331.json)
 
 [Extended Data](ext_articles/c8bd3331.ext.json)
-
----
-
-### Each incident killed in raping girl remanded
-
-*2024-06-24 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198094) · `si`
-
-Eight suspects, including a girl's boyfriend, face charges of rape, corruption, and illegal activities. They've been remanded until 2028, appearing before Magistrate Padmasiri Jayawardena.
-
-🟩
-
-The eight youths including her boyfriend and the eight youths have been remanded until 28 years.
-
-The suspects were produced before Acting Magistrate Padmasiri Jayawardena today.
-
-Hanwella police have been charged with corruption, forcibly retention, abduction and members of a illegal meeting.
-
-◼️
-
-[Data](articles/98fcd746.json)
-
-[Extended Data](ext_articles/98fcd746.ext.json)
-
----
-
-### Unidentified body found in Matara
-
-*2024-06-24 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100067/unidentified-body-found-in-matara) · `en`
-
-The body of an unidentified individual has been discovered in front of a bank in Meddawatta area in Matara police devision last morning (23).
-
-The identity of the deceased is yet to be ascertained while police revealed that the individual is around 5’4” in height with a slender figure.
-
-◼️
-
-[Data](articles/2a165093.json)
-
-[Extended Data](ext_articles/2a165093.ext.json)
-
----
-
-### 27 Indian boats seized in 2024;204 fishermen arrested
-
-*2024-06-24 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/186841) · `ta`
-
-In 2024, 27 Indian boats were seized and 204 fishermen arrested by the Sri Lankan navy near Neduntivu, Jaffna, during operations on the 22nd and 23rd.
-
-🟩
-
-So far, 27 Indian drag boats have been seized and 204 fishermen have been arrested by the Sri Lankan navy.
-
-In the early hours of the 22nd and 23rd, the surrounding activities were carried out by the Navy in Neduntivu, Jaffna.
-
-It is noteworthy that the Navy arrested three boats and 18 Indian fishermen who were fishing in the Neduntivu seas.
-
-◼️
-
-[Data](articles/93912970.json)
-
-[Extended Data](ext_articles/93912970.ext.json)
-
----
-
-### Courier system distributed marijuana
-
-*2024-06-24 15:24:39* · [`adalk`](https://www.ada.lk/breaking_news/කුරියර්-ක්‍රමයට-ගංජා-ගෙන්වා-බෙදාහැරල/11-410401) · `si`
-
-A 45-year-old man from Walagedara was arrested for distributing marijuana, including Kerala cannabis, to fishermen in the Galle district. The police found 5 grams of cannabis during his arrest. Further investigation is being conducted by the Elpitiya Divisional Corruption Division and the Ambalangoda Police.
-
-🟩
-
-Elpitiya Divisional Corruption Unit stated that a person who had kept the Kerala cannabis in Kururu yesterday (23) was arrested yesterday (23) at Walagedara area yesterday (23).. Forty five-year-old man of Walagedara has been arrested.
-
-Police also seized a five gram of cannabis. It was revealed that marijana who was imported by the suspect was sold to the fishermen in the Galle district, the unit said.
-
-The suspect was handed over to the Ambalangoda Police for further investigations.The Elpitiya Divisional Corruption Division is conducting further investigations.
-
-◼️
-
-[Data](articles/e5d4768e.json)
-
-[Extended Data](ext_articles/e5d4768e.ext.json)
-
----
-
-### Rainy in 75 mm tomorrow
-
-*2024-06-24 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198093) · `si`
-
-Heavy rainfall expected across several regions including Sabaragamuwa Province, Kandy, Nuwara Eliya, and coastal areas from Trincomalee to Chilaw and Hambantota. Showers predicted in Western, Sabaragamuwa, and North Western provinces. Sea areas may become rough with wave heights reaching 2.0-2.2 meters along the coast from Kalpitiya to Pottuvil, affecting fisheries and naval operations.
-
-🟩
-
-The Met Department forecasts around 75 mm in several areas tomorrow (25).
-
-In some places in the Sabaragamuwa Province, Kandy and Nuwara Eliya districts can occur.
-
-Showers will occur at times in the Western, Sabaragamuwa and North Western provinces, in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Meanwhile, the coast of the sea areas off Trincomalee and Puttalam to Chilaw from Trincomalee and Puttalam to Chilaw and Hambantota to Chilaw and Hambantota from time to time.. The Met Department forecasts up to 60 to 65 and the sea areas can be very rough at times.
-
-It is reported that the sea waves can be increased to 2.0-22m of coastal areas from Kalpitiya to Pottuvil via Pottuvil via Pottuvil via Pottuvil via Pottuvil through Kalpitiya.
-
-The fisheries and the naval community calls for his attention.
-
-◼️
-
-[Data](articles/f1a38da1.json)
-
-[Extended Data](ext_articles/f1a38da1.ext.json)
-
----
-
-### Sri Lanka’s inflation eases to 1.6% in May 2024
-
-*2024-06-24 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100066/sri-lankas-inflation-eases-to-16-in-may-2024) · `en`
-
-The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has decreased to 1.6% in May 2024, compared to 2.7% in April 2024, according to the latest data released by the Department of Census and Statistics.
-
-Meanwhile, food inflation has decreased to 0.5% in May 2024 compared to 3.3% in April 2024 and the Year-on-Year inflation of the non-food group increased to 2.4% in May 2024 from 2.3% in April 2024.
-
-The NCPI for all items for the month of May 2024 is 206.3 and it records a decrease of 1.9 in index points compared to April 2024.
-
-◼️
-
-[Data](articles/7b385d05.json)
-
-[Extended Data](ext_articles/7b385d05.ext.json)
-
----
-
-### Fire breaks out in South Korea
-
-*2024-06-24 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198092) · `si`
-
-A fire at the "Aicell" battery factory in South Korea's Hwaseong area resulted in 16 deaths and 5 missing individuals. The blaze, which started from an exploding battery in a store, occurred early this morning.
-
-🟩
-
-Foreign media reports that 16 people were killed and 5 missing due to a fire in a liturist factory in South Korea.
-
-The fire was found in the "Aicell" factory in Hwaseong area near Seoul's capital this morning.
-
-The battery she was in a store has exploded and the cause of the explosion has been revealed.
-
-◼️
-
-[Data](articles/10f459b3.json)
-
-[Extended Data](ext_articles/10f459b3.ext.json)
 
 ---

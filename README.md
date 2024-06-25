@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 02:04:46**
+As of **2024-06-26 02:19:27**
 
 ## Newspaper Stats
 
-*Scraped **32,152** Articles*
+*Scraped **32,156** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,86 @@ adalk | 2,834
 adaderanalk | 3,653
 tamilmirrorlk | 3,791
 dailymirrorlk | 4,733
-virakesarilk | 4,984
+virakesarilk | 4,988
 adaderanasinhalalk | 5,274
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,151 (100.0%) of 32,152 articles have been extended.
+32,152 (100.0%) of 32,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### ‘உறுமய திட்டத்தை சீர்குலைக்க முயற்சி’
+### Trying to disrupt the project
 
 *2024-06-26 01:14:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உறுமய-திட்டத்தை-சீர்குலைக்க-முயற்சி/175-339433) · `ta`
 
-உறுமய நிரந்தர காணி உறுதித் திட்டத்திற்காக அரச அதிகாரிகள் பலர் அர்ப்பணிப்புடன் செயற்படும் அதேவேளை, சிலர் அதனை சீர்குலைக்க முயல்வதாக தகவல்கள் கிடைத்துள்ளதெனவும் அவ்வாறான அதிகாரிகள் குறித்த தகவல்களை பிரதேசத்திலுள்ள பாராளுமன்ற உறுப்பினர்களுக்கு வழங்குங்கள் என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe addressed concerns over the Urumaya permanent land guarantee program, highlighting both dedication from state officials and attempts to destabilize it. In the Ampara District, 1,768 individuals received land under the scheme, despite opposition from some officials. Government efforts to reclaim lands and address misinformation are ongoing, with calls for MPs to investigate allegations against certain officials.
 
-20 லட்சம் ‘உறுமய’ காணி உறுதி வழங்கும் தேசிய வேலைத்திட்டத்தின் கீழ் அம்பாறை மாவட்டத்தின் 17 பிரதேச செயலகப் பிரிவுகளில் தகுதியான 20 ஆயிரம் பேரில் 1768 பேருக்கு காணி உறுதிகளை வழங்கும் நிகழ்வு நேற்று அம்பாறை வீரசிங்க விளையாட்டரங்கில் நடைபெற்றது.
+🟩
+
+President Ranil Wickremesinghe said that while many of the state officials are dedicated to the Urumaya permanent land guarantee program, some people are trying to destabilize it and provide information on such officials.
+
+A total of 1768 people in the 17 Divisional Secretariat Divisions of the Ampara District were held at the Weerasinghe Stadium in Ampara under the National Scheme to provide 20 lakhs of land.
+
+Government officials are working hard to win the project. Many are supporting this. But there are also information about a group of officials who scare people. The government can recover these lands. So they are questioning why you are taking these land guarantees. But once again, if you ask someone to question, I ask you to inform your area MP for information about those officers.. I ask the MPs to investigate the authorities and tell me the facts.
 
 ...
 
 [Data](articles/73f61585.json)
+
+[Extended Data](ext_articles/73f61585.ext.json)
+
+---
+
+### லங்கா பிறீமியர் லீக்கில் பங்கேற்கும் 5 அணிகளின் விபரங்கள்
+
+*2024-06-26 01:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/186978) · `ta`
+
+ஸ்ரீலங்கா கிரிக்கெட் நிறுவனத்தினால் ஏற்பாடு செய்யப்பட்டுள்ள ஐந்தாவது லங்கா பிறீமியர் லீக் (LPL) போட்டியில் பங்குபற்றும் 5 அணிகளின் விபரங்களை ஸ்ரீலங்கா கிரிக்கெட் வெளியிட்டது.
+
+இந்த வருடப் போட்டியில் கொழும்பு, கண்டி, யாழ்ப்பாணம், காலி, தம்புள்ளை ஆகிய பிரதேசங்களைப் பிரதிநிதித்துவப்படுத்தும் ஐந்து அணிகள் விளையாடவுள்ளன.
+
+◼️
+
+[Data](articles/e1c541d5.json)
+
+---
+
+### நியாயமான வரிவிதிப்பு மற்றும் நிலைபேறான அபிவிருத்தி இலக்குகள் பற்றிய வலுவான முதலாவது தேசிய உரையாடல்
+
+*2024-06-26 00:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/186976) · `ta`
+
+இலங்கையில் உள்ள ஐக்கிய நாடுகளின் அபிவிருத்தித் திட்டம் (UNDP) ஆனது, நிதியமைச்சு, உள்நாட்டு இறைவரித் திணைக்களம், மொரட்டுவை பல்கலைக்கழகம், இலங்கையின் தேசிய புத்தாக்க முகவர் நிறுவனம் ஆகியவற்றுடன் இணைந்து, நாட்டில் காணப்படும் வரிவிதிப்பு மற்றும் நிதிக் கொள்கைகள் தொடர்பில் காணப்படும் சமகாலப் பிரச்சினைகளைத் தீர்ப்பதற்கு, தேசிய வரி தொடர்பான கலந்ரையாடலுக்கான முதலாவது கூட்டத்தை நடாத்தியது.
+
+இந்த ஆரம்ப நிகழ்வில் நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க, இலங்கைக்கான UNDP இன் வதிவிடப் பிரதிநிதி Azusa Kubota ஆகியோர் பங்குபற்றியிருந்தனர்.
+
+தற்போதைய பொருளாதார சீர்திருத்தங்கள் மற்றும் பொதுமக்களின் எண்ணங்களை வெளிக் கொண்டு வர வேண்டியதன் அவசியத்தின் அடிப்படையில் இந்த தேசிய கலந்துரையாடல் அமைந்திருந்தது. வரியின் நோக்கம், சமூக அல்லது நிதி தொடர்பான ஒப்பந்தம், வரி விதிப்பில் நேர்மைத் தன்மை, வெளிப்படைத்தன்மை மற்றும் வருமானம் தொடர்பில் நிறுவனங்களின் பொறுப்புக்கூறல், அரச சேவையை டிஜிட்டல் மயமாக்குதல் ஆகியன தொடர்பில் இங்கு கவனம் செலுத்தப்பட்டது.
+
+...
+
+[Data](articles/b0322e5a.json)
+
+---
+
+### தம்புள்ளையில் மகளிர் ரி20 ஆசிய கிண்ண கிரிக்கெட்: பி குழுவில் இலங்கை
+
+*2024-06-26 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/186977) · `ta`
+
+ரங்கிரி, தம்புள்ளை சர்வதேச கிரிக்கெட் அரங்கில் அடுத்த மாதம் நடைபெறவுள்ள மகளிர் ரி20 ஆசிய கிண்ண  கிரிக்கெட் போட்டிக்கான அட்டவணை வெளியிடப்பட்டுள்ளது.
+
+ஏ குழுவில் இந்தியா, பாகிஸ்தான்,  ஐக்கிய அரபு இராச்சியம், நேபாளம் ஆகியனவும் பி குழுவில் பங்களாதேஷ், இலங்கை, மலேசியா, தாய்லாந்து ஆகியனவும் இடம்பெறுகின்றன.
+
+அரை இறுதிப் போட்டிகள் ஜுலை 26ஆம் திகதியும் இறுதிப் போட்டி ஜூலை 28ஆம் திகதியும் நடைபெறும்.
+
+பங்களாதேஷில் அக்டோபர் மாதம் நடைபெறவுள்ள மகளிர் ரி20 உலகக் கிண்ணப் போட்டிக்கு முன்னர் ஆசிய நாடுகள் தங்களைத் தயார்படுத்திக்கொள்ளும் போட்டியாக மகளிர் ரி20 ஆசிய கிண்ண கிரிக்கெட் போட்டி அமையவுள்ளது.
+
+◼️
+
+[Data](articles/0273a672.json)
 
 ---
 
@@ -259,6 +315,24 @@ Of the 20,000 qualification, 1,758 people were figuratively awarded land deeds.
 [Data](articles/a614b481.json)
 
 [Extended Data](ext_articles/a614b481.ext.json)
+
+---
+
+### ஜனாதிபதி ரணில் விக்ரமசிங்கவே இலங்கை வரலாற்றில் பெண்கள் வலுவூட்டலுக்கான சட்டத்தை  கொண்டு வந்தார் - கீதா குமாரசிங்க
+
+*2024-06-25 20:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/186975) · `ta`
+
+இலங்கையின் அரசியல் வரலாற்றில் பெண் உரிமைகள்,  பெண்களுக்கான சம அந்தஸ்து தொடர்பான எந்தவொரு சட்டமூலமும் கொண்டு வரவில்லை என மகளிர் மற்றும் சிறுவர் விவகார இராஜாங்க அமைச்சர் கீதா குமாரசிங்க தெரிவித்தார்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவின் அறிவுறுத்தலுக்கமைய பாராளுமன்றத்தில் சமர்பிக்கப்பட்ட பெண்கள் வலுவூட்டலுக்கான சட்டமூலம் நிறைவேற்றப்பட்டுள்ளதாகவும் இராஜாங்க அமைச்சர் சுட்டிக்காட்டினார்.
+
+ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (25) நடைபெற்ற செய்தியாளர் சந்திப்பில் கருத்து தெரிவிக்கும் போதே மகளிர் மற்றும் சிறுவர் விவகார இராஜாங்க அமைச்சர் கீதா குமாரசிங்க இதனைத் தெரிவித்தார்.
+
+''பெண்கள் வலுவூட்டல் சட்டம் பாராளுமன்றத்தில் நிறைவேற்றப்பட்டுள்ளது. இலங்கையின் அரசியல் வரலாற்றில், பெண்களின் உரிமைகள் அல்லது பெண்களுக்கு சம அந்தஸ்த்து வழங்குவதற்கான எந்த சட்டமும் கொண்டு வரப்படவில்லை. இந்தச் சட்டத்தின் மூலம், பெண்களை வலுவூட்டுவதற்கான ஏற்பாடுகளைச் செய்வதற்காக, பெண்களின் முன்னேற்றத்திற்கான ஒரு தேசியக் கொள்கை தயாரிக்கப்படும்.
+
+...
+
+[Data](articles/d7469e32.json)
 
 ---
 
@@ -2287,111 +2361,5 @@ President of the Joint Committee of Government Executive Officers H.A.L. Udayasi
 [Data](articles/922dcb93.json)
 
 [Extended Data](ext_articles/922dcb93.ext.json)
-
----
-
-### Repeat the permission granted to prosecute Arundhatarai - more than 200 Indian academics jointly appealing
-
-*2024-06-25 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/186914) · `ta`
-
-More than 200 Indian academics, journalists, and activists have appealed to revoke the permission granted to sue author Arundhati Roy under India's anti-terrorism law. They argue it infringes on her right to free speech, as guaranteed by the Indian Constitution. The decision has sparked protests and condemnation from various sectors, including a farmers' organization.
-
-🟩
-
-Over 200 Indian academics, journalists and civil society activists have requested that the permission granted to sue writer Arundhati Roy be recovered.
-
-Last week, the Indian government had allowed the case against Arundhati Roy under the country's fierce anti -terrorism law.
-
-Educators, civil society activists and journalists have said in their public letter that we condemn this move, and that we should make sure that the government and the democratic forces in the country are not violating the right to make free comments without fear of any issues related to our country.
-
-History Professor Ajay Dundekar, who signed the letter, said that the decision to continue against Arundhati Roy cannot be justified.
-
-He said that the Constitution of India ensures the right to freedom of the expression of Arundhati Roy.
-
-A farmers' organization has also condemned the move against Arundhati Roy, and protests have taken place in New Delhi.
-
-...
-
-[Data](articles/9108ef8b.json)
-
-[Extended Data](ext_articles/9108ef8b.ext.json)
-
----
-
-### Devils play in the ghost house by a woman
-
-*2024-06-25 11:20:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-ஒருவரால்-பேய்-வீட்டில்-பிசாசுகள்-ஆட்டம்/175-339386) · `ta`
-
-During Poson Poya Days, a ghost house was constructed in the Navagamuwa area, where a woman unknowingly found her husband's corpse. Believing it was a ghost, she attacked him along with her companion, leading to a brawl. Twelve individuals were arrested but later released on bail.
-
-🟩
-
-Poson Poya Days were set up in many parts of the country. As well as ghost houses were constructed. The postures were decorated.
-
-Thus, the ghost house was built in the Navagamuwa area. There was a woman, and the other person had gone. However, she did not know that the man who was lying in the coffin was her husband.
-
-However, the woman who had come with another man, who was lying in the coffin, who was lying in the coffin, attacked the man and the woman (wife) with his wife.. However, fellow friends who speculated that the ghost was attacking a friend and his girlfriend, beaten the ghost.
-
-Thus, the Navagamuwa ghost house became all. Thereafter, 12 people were arrested on charges of involvement in clashes.   கைது செய்யப்பட்ட 12 பேரை விடுதலை செய்யுமாறு கடுவலை நீதவான் சனிமா விஜயபண்டார, திங்கட்கிழமை (25) உத்தரவிட்டுள்ளார்
-
-12 youths between the ages of 19 and 24 from the Navagamuwa Ranaval area were released on bail.
-
-...
-
-[Data](articles/81e6ebb6.json)
-
-[Extended Data](ext_articles/81e6ebb6.ext.json)
-
----
-
-### Sri Lanka’s Brown and Company sells subsidiary to Ceylon Knit Trend
-
-*2024-06-25 11:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-brown-and-company-sells-subsidiary-to-ceylon-knit-trend-169405/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Brown and Company Plc has sold its subsidiary Browns Fabric Limited to Ceylon Knit Trend (Private) Limited, it said.
-
-“Brown and Company PLC has disposed it’s 100% shareholding of Browns Fabric Limited to Ceylon Knit Trend (Private) Limited on 20th June 2024, for a total consideration of Rs.50,000,000,” the company said in a stock exchange filing.
-
-Browns Fabric Limited operates a knit fabric manufacturing and processing plant in Pannala, in Kurunegala.
-
-The Board of Investment (BOI) backed state-of-the-art weft knit fabric production facility was established with an investment of 52.3 million dollars to produce fabric for the export-oriented apparel industry in Sri Lanka.
-
-Shares of Brown and Company, a subsidiary of the LOLC group, was trading up at 123.00.
-
-Browns Group is spread across several industry sectors including power generation, agriculture and plantation, pharmaceuticals, investments, marine and manufacturing, and leisure. (Colombo/June25/2024)
-
-◼️
-
-[Data](articles/07e53d2f.json)
-
-[Extended Data](ext_articles/07e53d2f.ext.json)
-
----
-
-### Here are the groups eligible for the semi-finals
-
-*2024-06-25 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198131) · `si`
-
-In the 20 World Cup, the semi-finals feature teams from India, England, South Africa, and Afghanistan, marking significant milestones for Afghanistan. The Afghan team not only made it to the semi-finals for the first time but also secured victory over Bangladesh in a thrilling match. The semi-final matches are set: South Africa vs Afghanistan and England vs India, with the latter starting at 8:00 pm on Thursday.
-
-🟩
-
-Troops qualify for the semi-finals of the 20 World Cup.
-
-The Indian dress, the Englandist team, South African team and Afghanistan group.
-
-Meanwhile, the Afghan group scored 8 runs against Bangladesh by 8 runs in the 8 Superintendent.
-
-The first time a Afghanistan team qualified for the final semi-final in the history of 20 20 World Cup history.
-
-The first round of the first semi-finals of the World Cup will be held between the South African and Afghanistan.
-
-The semi-finals are to be held between England and India, which will begin at 8:00 pm on Thursday.
-
-◼️
-
-[Data](articles/229409e4.json)
-
-[Extended Data](ext_articles/229409e4.ext.json)
 
 ---

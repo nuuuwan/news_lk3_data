@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 13:54:21**
+As of **2024-06-25 14:06:09**
 
 ## Newspaper Stats
 
-*Scraped **32,065** Articles*
+*Scraped **32,071** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,108 @@ newsfirstlk | 363
 islandlk | 1,781
 economynextcom | 1,853
 dailyftlk | 1,964
-adalk | 2,819
-adaderanalk | 3,644
+adalk | 2,820
+adaderanalk | 3,646
 tamilmirrorlk | 3,779
 dailymirrorlk | 4,733
 virakesarilk | 4,964
-adaderanasinhalalk | 5,258
+adaderanasinhalalk | 5,261
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,065 (100.0%) of 32,065 articles have been extended.
+32,065 (100.0%) of 32,071 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### දීමනා ගැන අධ්‍යාපන අමාත්‍යාංශයෙන් නිවේදනයක්
+
+*2024-06-25 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198139) · `si`
+
+අ.පො.ස සාමාන්‍ය පෙළ හා පහ ශ්‍රේණි ශිෂ්‍යත්ව විභාගවල උත්තර පත්‍ර සමීක්ෂණය සඳහා ගෙවනු ලබන දීමනා ප්‍රතිශතයාත්මකව ඉහළ දැමීමට අනුකමිටු නිර්දේශය ලැබී ඇති බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+
+එම නිර්දේශ අමාත්‍ය මණ්ඩලයට ඉදිරිපත් කර අනුමැතිය ලබා ගැනීමට කටයුතු කරන බව ද එම නිවේදනයේ දැක්වේ.
+
+තව ද ගුරු සේවයේ ගුරුවරුන් සඳහා මෙතෙක් ක්‍රියාත්මක වු මොඩ්‍යුලර් ක්‍රමය වෙනුවට ගුරු වෘත්තීය සමිති දැනුම්වත් කර රාජ්‍ය සේවා කොමිෂන් සභාවට යොමු කරන ලද යෝජනාව කොමිසම විසින් සලකා බලා අධ්‍යාපන අමාත්‍යාංශයට යොමු කිරීමට නියමිතය.
+
+මේ අතර 2022 වර්ෂයට වඩා 2024 වර්ෂය වන විට අධ්‍යාපන කටයුතු සඳහා අත්‍යවශ්‍ය අභ්‍යාස පොත් හා උපකරණ මිල අඩු කිරීමට අධ්‍යාපන අමාත්‍යාංශය මැදිහත්ව කටයුතු කරන බව ද එම නිවේදනයේ වැඩිදුරටත් දැක්වේ.
+
+◼️
+
+[Data](articles/e175adbd.json)
+
+---
+
+### ණය ප්‍රතිව්‍යුගතකරණ ගිවිසුම්වලට කැබිනට් අනුමැතිය
+
+*2024-06-25 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198138) · `si`
+
+පැරිස් සමාජය සහ අනෙකුත් පාර්ශ්වකරුවන් සමඟ ණය ප්‍රතිව්‍යුහගත කිරීමේ ගිවිසුම්වලට අත්සන් තැබීමට කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+ඒ අනුව ඊට අදාළ ගිවිසුම්වලට හෙට (26) අත්සන් තැබීමට නියමිත බව කැබිනට් ප්‍රකාශක, අමාත්‍ය බන්දුල ගුණවර්ධන මහතා අද පැවති මාධ්‍ය හමුවේ දී පැවසීය.
+
+"විශේෂයෙන් රටේ බංකොලොත් භාවය ප්‍රකාශයටපත් කළ පසු ජනාධිපතිවරයා විසින් ශ්‍රී ලංකාවට ආධාර සැපයූ මිත්‍ර රටවල රාජ්‍ය නායකත්වයන් සමග විශේෂයෙන් ඉන්දියාව, එවගේම ජපානයේ රාජ්‍ය නායකත්වයන්, චීනය... චීන රාජ්‍ය නායකත්වය පැරිස් ආධාර කණ්ඩායම් ලෝක ප්‍රජාව සමග විශාල සාකච්ඡා ප්‍රමාණයක් පවත්වලා දේශීය සහ අන්තර් ජාතික විශේෂඥ විද්වතුන් රැසකගේ අධාරය සහයෝගීතවය හා මඟපෙන්වීම යටතේ සාකච්ඡාවල අවසන් අවස්ථාවලට මුදල් අමාත්‍යාංශයට, ශ්‍රී ලංකා මහ බැංකුවට සහ අනෙකුත් පිරිස්වලට හැකියාව ලැබිලා ඒ සමග ඇතිකර ගැනීමට අපේක්ෂා කරන ණය ප්‍රතිව්‍යුහගත කරන ගිවිසුම පිළිබඳ දිර්ඝ පැහැදිලි කිරීම ජනාධිපතිවරයා විසින් ඊයේ කැබිනට් මණ්ඩලයට ඉදිරිපත් කළා.
+
+...
+
+[Data](articles/27cb3da6.json)
+
+---
+
+### Govt. to empower ‘Piriven’ education with digital technology
+
+*2024-06-25 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100092/govt-to-empower-piriven-education-with-digital-technology) · `en`
+
+The Cabinet of Ministers has green-lighted the introduction of digital technology for ‘Piriven’ education.
+
+The Ministry of Education and the Ministry of Technology have jointly planned to implement a program in order to empower ‘Piriven’ education by the introduction of digital technology.
+
+Through this, Piriven-related teachers and both clergy and non-clergy students will be able to utilise digital technology to explore and analyze the Sri Lankan national Buddhist heritage, the Department of Government Information (DGI) said in a statement.
+
+Accordingly, the Cabinet of Ministers has approved the joint proposal presented by President Ranil Wickremesinghe as the Minister of Technology and Minister of Education Susil Premajayantha to implement the proposed program to provide at least two computers, a smart board and a printer for each ‘Pirivena’ (monastic college).
+
+◼️
+
+[Data](articles/db16ee6d.json)
+
+---
+
+### ඈන් කුමරියට අශ්වයෙක් පහරදෙයි ?
+
+*2024-06-25 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198137) · `si`
+
+බ්‍රිතාන්‍යයේ චාල්ස් රජුගේ සොහොයුරිය වන ඈන් කුමරිය අශ්වයෙකු සම්බන්ධ අනතුරකින් තුවාල ලබා තිබේ.
+
+අනතුරින් කුමරියගේ හිසට තුවාල සිදුවී ඇති අතර ඇය මේ වනවිට බ්‍රිස්ටල් හි රෝහලක ප්‍රතිකාර ලබමින් සිටී.
+
+රාජකීය පවුලේ නිල නිවේදනයට අනුව කුමරියගේ තත්ත්වය එතරම් බරපතළ නොවේ.
+
+73 හැවිරිදි ඈන් කුමරිය බ්‍රිතාන්‍යයේ දෙවැනි එළිසබෙත් මහා රැජිනගේ එකම දියණිය ද වේ.
+
+◼️
+
+[Data](articles/dd507ab4.json)
+
+---
+
+### Cabinet approval granted for development of Higurakgoda Airport
+
+*2024-06-25 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100091/cabinet-approval-granted-for-development-of-higurakgoda-airport) · `en`
+
+The Cabinet of Ministers has granted approval for the development of Higurakgoda Airport as a full-fledged airport in accordance with international civil aviation standards.
+
+The Department of Government Information said that since the need to develop Higurakgoda Airport in accordance with international civil aviation standards has been recognized, a committee had been appointed from the representatives of Sri Lanka Air Force, Sri Lanka Civil Aviation Authority, Airports and Aviation Limited (Sri Lanka) (Private) Company and Road Development Authority for preparing the master plan for the purpose.
+
+Accordingly, the Cabinet approved the joint proposal presented by the President as the Minister of Defense and the Minister of Ports, Shipping and Aviation Nimal Siripala de Silva to take necessary steps to develop Higurakgoda Airport as a full-fledged airport, as per the recommendations of the said committee, the statement said.
+
+◼️
+
+[Data](articles/67a1296a.json)
+
+---
 
 ### Cabinet approves debt restructuring agreements with Paris Club & other stakeholders
 
@@ -40,7 +126,13 @@ The Cabinet of Ministers has approved the signing of debt restructuring agreemen
 
 Speaking during the Cabinet press briefing held today (25), Minister Gunawardana said the relevant agreements will be signed tomorrow (26).
 
-◼️
+A Sri Lankan delegation comprising the Secretary of the Finance Ministry, State Ministers and other relevant officials have left for France for the discussions with the Paris Club group of major creditor countries.
+
+Furthermore, the Cabinet Spokesman stated that President Ranil Wickremesinghe assured, during the Cabinet meeting, that detailed information regarding all the agreements being signed in this manner will be submitted to the Parliament.
+
+He said that additionally, President also mentioned this ‘good news’ will be communicated to all the people of the country in the President’s address to the nation.
+
+...
 
 [Data](articles/08dbb4de.json)
 
@@ -841,6 +933,18 @@ Sri Lanka Navy has arrested over 200 Indian fishermen and seized more than 27 In
 [Data](articles/b85690c3.json)
 
 [Extended Data](ext_articles/b85690c3.ext.json)
+
+---
+
+### ලෝක බැංකුවෙන් ලංකාවට ඩොලර් මිලියන 150ක මූල්‍ය පහසුකමක්
+
+*2024-06-25 09:15:29* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-බැංකුවෙන්-ලංකාවට-ඩොලර්-මිලියන-150ක-මූල්‍ය-පහසුකමක්/11-410419) · `si`
+
+ශ්‍රි ලංකාවේ ප්‍රාථමික සෞඛ්‍ය සේවා කටයුතු පුළුල් කිරිම වෙනුවෙන් ලෝක බැංකුව විසින් ශ්‍රී ලංකාවට ඇමෙරිකානු ඩොලර් මිලියන 150ක මූල්‍ය පහසුකමක් ලබාදීමට එහි අධ්‍යක්ෂ මණ්ඩලය අනුමැතිය දී තිබේ.
+
+◼️
+
+[Data](articles/c98f0fc6.json)
 
 ---
 
@@ -2117,99 +2221,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/5be2d6f6.json)
 
 [Extended Data](ext_articles/5be2d6f6.ext.json)
-
----
-
-### Orit Apparels bags six accolades at NBE Awards 2024
-
-*2024-06-24 22:42:00* · [`islandlk`](http://island.lk/orit-apparels-bags-six-accolades-at-nbe-awards-2024/) · `en`
-
-Orit Apparels Lanka stole the limelight at the National Business Excellence Awards 2024 by winning six accolades in an exceptional performance during a glittering awards ceremony held at the Shangri-La hotel on 20th June 2024.
-
-...
-
-[Data](articles/0fde189d.json)
-
-[Extended Data](ext_articles/0fde189d.ext.json)
-
----
-
-### UNDP Sri Lanka launches 2023/ 24 Global Human Development Report
-
-*2024-06-24 22:41:00* · [`islandlk`](http://island.lk/undp-sri-lanka-launches-2023-24-global-human-development-report/) · `en`
-
-The UNDP Sri Lanka recently launched the 2023/24 Global Human Development Report themed ‘Breaking the Gridlock: Reimaging Cooperation in a Polarized World’. The Report was presented to the DG of the Sustainable Development Council (SDC), Ms. Chamindry Saparamadu by the Resident Representative of UNDP Sri Lanka, Ms. Azusa Kubota in the presence of representatives from government, private sector, development partner and civil society agencies at an event held in Colombo. .
-
-...
-
-[Data](articles/792238c4.json)
-
-[Extended Data](ext_articles/792238c4.ext.json)
-
----
-
-### Local vehicle assembly industry generating over 3,200 job opportunities
-
-*2024-06-24 22:41:00* · [`islandlk`](http://island.lk/local-vehicle-assembly-industry-generating-over-3200-job-opportunities/) · `en`
-
-Government statistics indicate that the local vehicle assembly industry has generated over 3,200 direct and indirect employment opportunities in the past few years and that it’s a US $ 3 million worth industry, Director, Engineering Division, Industrial Development Board (IDB), Nishantha Weerathunge said.
-
-“The industry has provided 5,000 employment opportunities in companies involved in the motor vehicle business and over 20,000 indirect employment opportunities, providing support services for these companies, said Weeratunaga at an event hosted recently by the Automotive Component Manufacturers Association of Sri Lanka (SLACMA).
-
-Weerathunge added: “In Sri Lanka, talk of a manufacturing economy often begins only when the country is in economic trouble. The promotion of industry as a government policy was very slow due to the lack of a commitment by the authorities and the lack of knowledge among the people.
-
-...
-
-[Data](articles/8b1204ed.json)
-
-[Extended Data](ext_articles/8b1204ed.ext.json)
-
----
-
-### Local fruit production to be boosted to meet rising demand
-
-*2024-06-24 22:40:00* · [`islandlk`](http://island.lk/local-fruit-production-to-be-boosted-to-meet-rising-demand/) · `en`
-
-The Ministry of Agriculture yesterday announced ambitious targets to boost fruit production across various categories by 2027, aiming to meet increasing domestic demand and reducing imports.
-
-Minister Mahinda Amaraweera yesterday said this decision follows a study revealing a surge in fruit consumption to 12.8 million metric tons in 2023. He said plans are in place to enhance banana, mango, papaya, pineapple, and passion fruit yields.
-
-According to data from the Department of Agriculture, Sri Lanka’s fruit consumption highlights a growing demand that exceeds current domestic production capabilities. With an annual requirement estimated at 19.6 million metric tons, efforts are underway to bridge this gap through increased agricultural output.
-
-...
-
-[Data](articles/1d8617c8.json)
-
-[Extended Data](ext_articles/1d8617c8.ext.json)
-
----
-
-### News of SL ridding itself of loan default stigma buoys bourse
-
-*2024-06-24 22:39:00* · [`islandlk`](http://island.lk/news-of-sl-ridding-itself-of-loan-default-stigma-buoys-bourse/) · `en`
-
-The stock market was on a positive trajectory yesterday as most local and foreign investors eagerly looked forward to President Ranil Wickramasinghe’s statement on June 27 in Parliament to the effect that Sri Lanka would be ridding itself of the loan default stigma.
-
-Amid those developments both indices moved upwards. The All- Share Price Index went up by 14.01 points while S and P SL20 rose by 22.17 points. Turnover stood at Rs 1.3 billion with four crossings. Those crossings were reported in People’s Leasing, which crossed 5 million shares to the tune of Rs 64.5 million; its shares traded at Rs 90, Melstacope 709,000 shares crossed for Rs 61.7 million; its shares traded at Rs 87, Distilleries 1 million shares crossed for Rs 27 million; its shares sold at Rs 27 and JKH 100,000 shares crossed for Rs 20.41 million; its shares traded at Rs 204.
-
-...
-
-[Data](articles/39ab51dc.json)
-
-[Extended Data](ext_articles/39ab51dc.ext.json)
-
----
-
-### Sri Lanka hosts UNDP’s strategic steering committee meeting on trilateral cooperation project
-
-*2024-06-24 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100078/sri-lanka-hosts-undps-strategic-steering-committee-meeting-on-trilateral-cooperation-project) · `en`
-
-The Strategic Steering Committee meeting and summary workshop of the Biogas, Biomass and Solar South-south and Trilateral Cooperation Project was successfully held in Colombo, Sri Lanka from 12-14 June with the participation of 30 key stakeholders from the Strategic Steering Committee Board, with thematic focus on presenting the project’s results and achievements, alongside an independent evaluation to assess lessons learned and provide recommendations for ensuring the project’s continued sustainability.
-
-...
-
-[Data](articles/42563f20.json)
-
-[Extended Data](ext_articles/42563f20.ext.json)
 
 ---

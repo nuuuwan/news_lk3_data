@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 05:04:34**
+As of **2024-06-26 05:19:26**
 
 ## Newspaper Stats
 
-*Scraped **32,159** Articles*
+*Scraped **32,161** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 317
 newsfirstlk | 363
 islandlk | 1,781
 economynextcom | 1,868
-dailyftlk | 1,967
+dailyftlk | 1,969
 adalk | 2,834
 adaderanalk | 3,653
 tamilmirrorlk | 3,791
@@ -26,11 +26,47 @@ adaderanasinhalalk | 5,274
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,157 (100.0%) of 32,159 articles have been extended.
+32,159 (100.0%) of 32,161 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### $ 150 m World Bank assistance to improve primary healthcare services
+
+*2024-06-26 04:55:00* · [`dailyftlk`](https://www.ft.lk/news/150-m-World-Bank-assistance-to-improve-primary-healthcare-services/56-763461) · `en`
+
+The World Bank’s Board of Executive Directors on Monday approved $ 150 million in financing for Sri Lanka to improve the quality and utilisation of its primary healthcare services.
+
+The newly approved Sri Lanka Primary Healthcare System Enhancing Project will help improve quality of care and increase the use of primary medical care institutions, which provide essential health services to local communities.
+
+Capacity challenges and absence of a formal referral mechanism have led to the underutilisation of primary healthcare facilities and overcrowding in tertiary care facilities in Sri Lanka.
+
+...
+
+[Data](articles/8e25441c.json)
+
+---
+
+### SF refutes Govt. crossover rumours and support for Ranil
+
+*2024-06-26 04:54:18* · [`dailyftlk`](https://www.ft.lk/news/SF-refutes-Govt-crossover-rumours-and-support-for-Ranil/56-763460) · `en`
+
+Samagi Jana Balawegaya (SJB) Chairperson MP Field Marshal Sarath Fonseka has said he will not support President Ranil Wickremesinghe’s Presidential candidacy.
+
+Taking to ‘X’, Fonseka refuted rumours he will support the presidential candidacy of Ranil Wickremesinghe calling the reports “completely untrue and baseless”.
+
+He also denied media reports, claiming he would join the Government shortly. A recent news report claimed Fonseka, along with opposition MPs Patali Champika Ranawaka and Dr. Rajitha Senaratne are poised to align themselves with President Ranil Wickremesinghe.
+
+“I want to place it on record that this news is inaccurate. I will not be joining the Government,” he said. Fonseka urged all Sri Lankans to avoid propagating rumours.
+
+He also said that he is prepared to face any challenge on behalf of the motherland, emphasising that it is time for Sri Lanka to move in the right political direction.
+
+...
+
+[Data](articles/cef6d22d.json)
+
+---
 
 ### ADIC urges halt to cannabis cultivation initiative in SL
 
@@ -45,6 +81,8 @@ In a press release, ADIC noted that while the ministries assert that their prima
 ...
 
 [Data](articles/d143b5ed.json)
+
+[Extended Data](ext_articles/d143b5ed.ext.json)
 
 ---
 
@@ -63,6 +101,8 @@ Approximately 15,000 members of the Bora community from various countries, inclu
 ...
 
 [Data](articles/446cb006.json)
+
+[Extended Data](ext_articles/446cb006.ext.json)
 
 ---
 
@@ -2333,47 +2373,5 @@ Accordingly, today (June 2024), the unauthorized fishing vessels have been monit
 [Data](articles/5697f209.json)
 
 [Extended Data](ext_articles/5697f209.ext.json)
-
----
-
-### UNDP offers submersible water pumps for flood relief assistance efforts in Sri Lanka
-
-*2024-06-25 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100087/undp-offers-submersible-water-pumps-for-flood-relief-assistance-efforts-in-sri-lanka) · `en`
-
-The United Nations Development Programme (UNDP) in Sri Lanka has handed over 10 units of submersible water pumps to the Disaster Management Center (DMC) for flood response efforts in the Kalutara, Colombo, and Galle districts.
-
-The pumps were handed over by Ms. Malin Herwig, Officer-In-Charge of UNDP in Sri Lanka to, State Minister of Defense of Sri Lanka Premitha Bandara Tennakoon.
-
-The submersible water pumps will support efforts to cleaning flood-affected dug wells, providing immediate disaster relief to around 15,000 affected families across these districts.
-
-According to the DMC, numerous dug wells, which serve as the primary source of safe drinking water for the affected communities, are in urgent need of immediate cleanup. This action is essential to prevent the spread of waterborne diseases in the aftermath of the floods, the UNDP said in a statement.
-
-...
-
-[Data](articles/ca19871b.json)
-
-[Extended Data](ext_articles/ca19871b.ext.json)
-
----
-
-### Biddy fertilizer is free to the farmers for next two seasons
-
-*2024-06-25 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198132) · `si`
-
-Sri Lanka's Minister of Agriculture, Mahinda Amaraweera, announced that farmers will receive free Biddy fertilizer for the next two seasons. The country expects 55,000 metric tons of this fertilizer, thanks to a request from the World Food and Agriculture Organization. Despite concerns, the minister assures there's no fertilizer shortage in the country, attributing any delays to minor administrative errors.
-
-🟩
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera says he will provide a free body fertilizer free of the paddy farmers in the next two seasons.
-
-He said Sri Lanka is to receive 55,000 metric tons of Boddi fertilizer according to a request made by the World Food and Agriculture Organization.
-
-Minister Mahinda Amaravarared Minister further stated that there is no fertilizer shortage in the country.
-
-...
-
-[Data](articles/32a3d31e.json)
-
-[Extended Data](ext_articles/32a3d31e.ext.json)
 
 ---

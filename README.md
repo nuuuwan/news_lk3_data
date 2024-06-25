@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 23:19:21**
+As of **2024-06-25 23:34:58**
 
 ## Newspaper Stats
 
-*Scraped **32,147** Articles*
+*Scraped **32,149** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,781
 economynextcom | 1,867
 dailyftlk | 1,964
-adalk | 2,832
+adalk | 2,834
 adaderanalk | 3,653
 tamilmirrorlk | 3,789
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,274
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,147 (100.0%) of 32,147 articles have been extended.
+32,147 (100.0%) of 32,149 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -294,6 +294,22 @@ The inauguration of the Communications Center for Tourism, the Chief Secretary o
 
 ---
 
+### හිඟුරක්ගොඩට ජාත්‍යන්තර ගුවන් තොටුපොළක්
+
+*2024-06-25 19:04:30* · [`adalk`](https://www.ada.lk/breaking_news/හිඟුරක්ගොඩට-ජාත්‍යන්තර-ගුවන්-තොටුපොළක්/11-410436) · `si`
+
+දැනට ශ්‍රී ලංකා ගුවන් හමුදාවේ කළමනාකාරිත්වය යටතේ මෙහෙයවනු ලබන හිඟුරක්ගොඩ ගුවන්තොටු පොළ ජාත්‍යන්තර සිවිල් ගුවන්සේවා ප්‍රමිතීන්ට අනුකූලව සංවර්ධනය කිරීමේ අවශ්‍යතාව හඳුනා ගනු ලැබ ඇත.
+
+ඒ අනුව එම ගුවන්තොටුපොළ සඳහා ප්‍රධාන සැලැස්ම සකස් කිරීම සහ ඊට අදාල අනෙකුත් කාර්යයන් සඳහා ශ්‍රී ලංකා ගුවන් හමුදාව, ශ්‍රී ලංකා සිවිල් ගුවන් සේවා අධිකාරිය, සීමාසහිත ගුවන්තොටුපොළ සහ ගුවන් සේවා (ශ්‍රී ලංකා) (පුද්ගලික) සමාගම සහ මාර්ග සංවර්ධන අධිකාරිය යන ආයතනවල නියෝජිතයින්ගෙන් යුත් කමිටුවක් පත් කරනු ලැබ තිබේ.
+
+එකී කමිටුවේ නිර්දේශ පරිදි හිඟුරක්ගොඩ ගුවන්තොටු පොළ අංග සම්පූර්ණ ගුවන්තොටුපොළක් වශයෙන් සංවර්ධනය කිරීම පිණිස අවශ්‍ය පියවර ගැනීම සඳහා ආරක්ෂක අමාත්‍ය වශයෙන් ජනාධිපති සහ වරාය, නාවික හා ගුවන් සේවා අමාත්‍යවරයා  ඉදිරිපත් කළ ඒකාබද්ධ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කරන ලදී.
+
+◼️
+
+[Data](articles/b8078444.json)
+
+---
+
 ### NPP will back bill to decriminalize same-sex relationships - Harini Amarasuriya
 
 *2024-06-25 19:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100098/npp-will-back-bill-to-decriminalize-same-sex-relationships-harini-amarasuriya) · `en`
@@ -337,6 +353,24 @@ Face to face talks with bond holders are likely to start Thursday, sources said.
 [Data](articles/291c1139.json)
 
 [Extended Data](ext_articles/291c1139.ext.json)
+
+---
+
+### ණය ප්‍රතිව්‍යුහගත කිරීමේ ගිවිසුම්වලට හෙට අත්සන් තබයි
+
+*2024-06-25 18:56:27* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීමේ-ගිවිසුම්වලට-හෙට-අත්සන්-තබයි/11-410434) · `si`
+
+ද්වී පාර්ශවික ණය හිමියන් සමග ණය ප්‍රතිව්‍යුහගත කිරීමේ ගිවිසුම්වලට අත්සන් තැබීමට කැබිනට් අනුමැතිය හිමි වූ බවත්  ඒ අනුව හෙට (26) දිනයේ  අදාළ ගිවිසුම් වලට අත්සන් තැබීම සිදු වන බව කැබිනට් ප්‍රකාශක, අමාත්‍ය  ආචාර්ය බන්දුල ගුණවර්ධන මහතා පැවසීය.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ අද (25) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමිණි.
+
+අත්සන් තබන ලබන සෑම ගිවිසුමක් හා එම ක්‍රවේදයන් සම්පූර්ණ විස්තරයක් ඉදිරියේදී ජනාධිපතිවරයා විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කරනු ඇති බවත්  හෙට දිනයේ ජනාධිපතිවරයා විසින් ජාතිය අමාතා ජයග්‍රහණයේ සුබ ආරංචිය රටේ ජනතාවට ලබා දෙනු ඇතයිද පැවසීය.
+
+ශ්‍රී ලංකාවට අන්තරජාතික සහයෝගිතාවය නොමැති නම් හෝ රටක් විසින් ණය ප්‍රතිව්‍යුහගතකරණය නොකරන්නේ නම් කවුරුන් කවරාකාරයෙන් හෝ සති 02 ක් වත් ආණ්ඩුකරණය කල නොහැකි බව ද හෙතෙම පැවසීය.
+
+...
+
+[Data](articles/7909a653.json)
 
 ---
 
@@ -2345,59 +2379,5 @@ Despite many theories about how the bridge was formed, geographical evidence sug
 [Data](articles/33fcdad8.json)
 
 [Extended Data](ext_articles/33fcdad8.ext.json)
-
----
-
-### Ministry of Traveling is alleged to import vehicles
-
-*2024-06-25 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198130) · `si`
-
-The Sri Lanka Chamber of Commerce accuses the Ministry of Tourism of attempting to import 1,000 vehicles without clear government purpose. This comes after a four-to-five-year ban on vehicle imports starting March 20, 2020. The initiative allegedly originates from the Ministry of Lands and Tourism, focusing on importing buses and vans. Critics argue that only a select few benefit from these imports, questioning the efficiency and fairness of the process.
-
-🟩
-
-The Association of Sri Lanka Chamber has alleges that the Cabinet paper to import 1,000 vehicles by the Ministry of Tourism.
-
-They point out that there is no purpose in the government.
-
-"All of these vehicles stopped importing from March 20, 2020. Then the government has not given any opportunity to import any vehicle for four to five years.. The first is that the cabinet paper to be brought by the Ministry of Tourism.
-
-This is really come from the Ministry of Lands and Tourism. According to a few vehicles, a small group of buses, imports of buses and vans have a chance to import buses.
-
-All the importers have thousands cut down. Only a few minorities have been implemented by their profitability.
-
-If we order a vehicle from a BrandNew agent, it goes between eight months to come. That's the NMALL PASHER. But if we donate, we can bring the vehicle when we next month. We are looking ready to the Tuckin season.
-
-...
-
-[Data](articles/9a0a7053.json)
-
-[Extended Data](ext_articles/9a0a7053.ext.json)
-
----
-
-### Sri Lanka cabinet approves signing restructured bilateral debt deals: Minister
-
-*2024-06-25 10:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-signing-restructured-bilateral-debt-deals-minister-169399/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved the signing of restructured debt agreements with bilateral creditors, Minister Bandula Gunawardana said.
-
-Sri Lanka has been negotiating with the Paris Club, India and China to restructure debt after declaring sovereign default in 2022 with in-principle deals reached last year.
-
-The signing of finalized agreements called MOUs are required to re-start stalled projects and new financing.
-
-President Ranil Wickremesinghe has said Sri Lanka is seeking debt relief up to 2042.
-
-President Wickremesinghe is due to make a “special” national address on Wednesday evening, the state information office said.
-
-Bilateral lenders give maturity extensions and coupon cuts but not hair cuts, unlike private creditors, though present values are expected to be comparable.
-
-Sri Lanka is also expected to start talks with sovereign bond holders around Thursday, source said. (Colombo/June26/20
-
-◼️
-
-[Data](articles/5384f72a.json)
-
-[Extended Data](ext_articles/5384f72a.ext.json)
 
 ---

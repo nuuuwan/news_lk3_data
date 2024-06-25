@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 22:34:49**
+As of **2024-06-25 22:53:07**
 
 ## Newspaper Stats
 
-*Scraped **32,145** Articles*
+*Scraped **32,147** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 1,781
 economynextcom | 1,867
 dailyftlk | 1,964
 adalk | 2,832
-adaderanalk | 3,652
+adaderanalk | 3,653
 tamilmirrorlk | 3,789
 dailymirrorlk | 4,733
 virakesarilk | 4,984
-adaderanasinhalalk | 5,273
+adaderanasinhalalk | 5,274
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,145 (100.0%) of 32,145 articles have been extended.
+32,145 (100.0%) of 32,147 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### State Minister Semasinghe meets CEO of Saudi Fund for Development
+
+*2024-06-25 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100100/state-minister-semasinghe-meets-ceo-of-saudi-fund-for-development) · `en`
+
+Sri Lanka’s State Minister of Finance Shehan Semasinghe has met with Sultan Abdulrahman Al-Marshad, the Chief Executive Officer of the Saudi Fund for Development (SFD), on the sidelines of the OPEC Fund Development Forum in Vienna, Austria.
+
+In a post on ‘X’ (formerly Twitter), he said the discussion centered on strengthening partnerships, focusing on economic support and new development initiatives to bolster Sri Lanka’s economy.
+
+The Saudi Fund for Development is a Saudi Arabian government agency that provides development assistance to developing countries by financing social and infrastructure projects.
+
+State Minister Semasinghe said he also had a meeting with Waleed Sh. A. Albahar, the acting Director General of the Kuwait Fund for Arab and economic Development (KFAED), on the sidelines of the forum.
+
+“We discussed the progress of the economy and strengthening our partnership,” he tweeted.
+
+...
+
+[Data](articles/685dc23e.json)
+
+---
+
+### පුද්ගලික සමාගමක සේවිකාවක් සිපවැළඳ ගැනීම සිරදඬුවමකින් කෙළවර වෙයි
+
+*2024-06-25 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198154) · `si`
+
+පුද්ගලික සමාගමක සේවය කළ ලිපිකාරිනියක් සිපවැළඳ ගැනීමේ චෝදනාවෙන් ත්‍රිකුණාමලය මහාධිකරණය විසින් නිදහස් කරනු ලැබූ එම සමාගමේ මානව සම්පත් කළමනාකාරවරයාට අභියාචනාධිකරණය විසින් බරපතළ වැඩ සහිත වසර 07ක සිරදඬුවම් නියම කර තිබේ.
+
+ඊට අමතරව විත්තිකරු විසින් අගතියට පත් තැනැත්තියට රුපියල් 750,000ක වන්දියක් ගෙවිය යුතු බවත් සම්පත් අබේකෝන් සහ පී කුමාරන් රත්නම් යන අභියාචනාධිකරණ විනිසුරු මඩුල්ල නිකුත් කළ නියෝගයේ සඳහන් ය.
+
+එම වන්දි මුදල ගෙවීම පැහැර හරිනු ලැබුවහොත් අමතරව වසරක සිරදඬුවම් නියම කරන බවත් තීන්දුවේ දැක්වෙන බව අද දෙරණ අධිකරණ වාර්තාකරු පැවසීය.
+
+මෙම නඩුවේ විත්තිකරු නිදොස් කොට නිදහස් කිරීමට මහාධිකරණය දුන් තීන්දුවට එරෙහිව අගතියට පත් තැනැත්තිය විසින් ඉදිරිපත් කළ අභියාචනයක් විභාග කිරීමෙන් අනතුරුව විනිසුරු මඩුල්ල විසින් මෙම තීන්දුව ප්‍රකාශයට පත් කරන ලදි.
+
+මෙම චෝදනාව සම්බන්ධයෙන් විත්තිකරුට එරෙහිව ත්‍රිකුණාමලය මහාධිකරණය හමුවේ නඩු පවරනු ලැබූ අතර දීර්ඝ නඩු විභාගයකින් අනතුරුව  2015 වසරේ සැප්තැම්බර් මස 16 වනදා විත්තිකරු නිදොස් කොට නිදහස් කිරීමට මහාධිකරණ විනිසුරුවරයා තීන්දු කර තිබුණි.
+
+...
+
+[Data](articles/a2ba790b.json)
+
+---
 
 ### Sri Lanka must establish infrastructure for high-tech cities: President
 
@@ -2349,63 +2389,5 @@ Sri Lanka is also expected to start talks with sovereign bond holders around Thu
 [Data](articles/5384f72a.json)
 
 [Extended Data](ext_articles/5384f72a.ext.json)
-
----
-
-### Afghanistan to the semi-end
-
-*2024-06-25 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198129) · `si`
-
-In the World Cup, Afghanistan defeated Bangladesh, scoring 115 runs in 20 overs despite losing 5 wickets. Rishad Hossain took 3 wickets for Bangladesh, who set a target of 114 runs in 19 overs but could only score 105, allowing Afghanistan to advance to the semi-finals.
-
-🟩
-
-The Afghanistan won the match between Bangladesh and Afghanistan in the World Cup.
-
-The Afghan group scored 115 runs for the loss of 5 wickets at the end of the total 20 overs.
-
-Rishad HOSSAIN took 03 wickets for Bangladesh.
-
-When the Bangladesh team banding the Bangladesh, the race was interrupted by time to time.
-
-Accordingly, the Bangladesh target was 114 runs in 19 overs.
-
-The Batsulambaya team begun to chase that target only 105 runs in the end of 19 overs.
-
-Accordingly, Afghan group was able to qualify for the semi-finals.
-
-◼️
-
-[Data](articles/1362db14.json)
-
-[Extended Data](ext_articles/1362db14.ext.json)
-
----
-
-### Navy soldier death in Indian fishermen's attack
-
-*2024-06-25 10:32:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்களின்-தாக்குதலில்-கடற்படை-சிப்பாய்-மரணம்/175-339376) · `ta`
-
-A navy soldier named Ratnayake was killed during an incident where navy personnel from the Kankesanthurai Naval Camp attempted to apprehend Indian fishermen near the Nedundevu area. The fishermen resisted, leading to an altercation where they attacked the naval boat. Following this, the navy arrested 10 fishermen and took them aboard their vessel. The deceased sailor's body is now at the Jaffna Bodhana Hospital for examination, with ongoing investigations by the Navy and police.
-
-🟩
-
-The death of a navy soldier on Tuesday (25) after the Indian fishermen were attacked.
-
-Ratnayake, a navy person who works at the Kankesanthurai naval camp, died.
-
-Navy personnel from the Kankesanthurai Naval Camp on Tuesday (25), when they were engaged in a surrounding area in the sea, Indian fishermen were trying to arrest the Indian fishermen in the area near the Nedundevu area.
-
-Indian fishermen attacked the fisherman's boat from the naval boat and the fisherman's boat.
-
-Subsequently, the fishermen went to the fishermen's boat and arrested the 10 fishermen on the boat and loaded them into the navy boat.
-
-It has been revealed that the body of the deceased naval soldier has been placed at the Jaffna Bodhana Hospital for anatomical examination and further investigations are being carried out by the Navy and the police.
-
-◼️
-
-[Data](articles/83e189d5.json)
-
-[Extended Data](ext_articles/83e189d5.ext.json)
 
 ---

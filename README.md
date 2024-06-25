@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 08:13:59**
+As of **2024-06-25 08:21:53**
 
 ## Newspaper Stats
 
-*Scraped **32,002** Articles*
+*Scraped **32,003** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,781
 economynextcom | 1,845
 dailyftlk | 1,963
-adalk | 2,812
+adalk | 2,813
 adaderanalk | 3,635
 tamilmirrorlk | 3,769
 dailymirrorlk | 4,733
@@ -26,31 +26,55 @@ adaderanasinhalalk | 5,245
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,000 (100.0%) of 32,002 articles have been extended.
+32,002 (100.0%) of 32,003 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### BMICH ළඟ සැකකටයුතු මරණයක්
+### සුබ ආරංචිය එනවාට බය අය ඇමති මනූෂ හෙළි කරයි
+
+*2024-06-25 07:55:04* · [`adalk`](https://www.ada.lk/breaking_news/සුබ-ආරංචිය-එනවාට-බය-අය-ඇමති-මනූෂ-හෙළි-කරයි/11-410418) · `si`
+
+රටට ජනතාවට ආදරේ නොකර අය, රටට සුබ ආරංචියක් එනවාට බිය වී තිබෙන බවත්, රටට සුබ ආරංචියක් එන බව දැනගත් ඔවුන් භූමිතෙල් ගෑවුණ ගැරඩි වගේ හතර අතේ දිවීමට පටන් ගෙන ඇති බවත් කම්කරු හා විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතා පැවසීය.
+
+ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ මොනරාගල දිස්ත්‍රික් කාර්යාලය විවෘත කිරීමේ අවස්ථාවට එක්වෙමින් අමාත්‍යවරයා මේ බව පැවසුවේය.
+
+"මේ රටට වින කරන, කවදාවත් මේ රට ගොඩ ගන්න ඉඩ දෙන්නේ නැති, මේ ර්ටේ මිනිස්සුන්ට ආදරය කරන්නේ නැති, ජනතාව පෝලිම්වල මැරෙනවාට කැමැති, බෙහෙත් නැතිව මැරෙනවාට කැමැති, පාසල් වහලා තියෙනවාට කැමැති, විදුලිය, කිරිපිටි නැතිවෙනවාට කැමැති අය රටට සල්ලි එවන්න එපා කිව්වා. කවුරුවත් නෙමෙයි ජනතා විමුක්ති පෙරමුණ තමයි මෙහෙම කිව්වේ.
+
+ඒත් විදේශ ගත ශ්‍රමිකයින් පසුගිය ඩසර දෙක තුළදී ඇමරිකානු ඩොලර් බිලියන 12ක විතර මුදලක් මේ රටට එවලා තියෙනවා. රටට නැවත හුස්මගන්න පුලුවන් වාතාවරණයක් ඇති කරන්න, ජනාධිපතිතුමාගේ වැඩපිළිවෙලට ශක්තියක් වුනේ විදේශ ගත ශ්‍රමිකයින්, බලපත්‍රලාභීන් හා විදේශ සේවා නියුක්ති කාර්යාංශයයි.
+
+...
+
+[Data](articles/e25d661b.json)
+
+---
+
+### BMICH is a suspicious death
 
 *2024-06-25 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198123) · `si`
 
-කුරුඳුවත්ත පොලිස් වසමේ බණ්ඩාරනායක සම්මන්ත්‍රණ ශාලාව අසල පුද්ගලයෙකු සැකකටයුතු ලෙස මියගොස් තිබේ.
+In two separate incidents, bodies were discovered: one near the Bandaranaike Memorial Conference Hall and another in a jungle area in the Polphipagama Police Division. The first victim, found near the conference hall, underwent a magisterial inquiry before being handed over to their family. The second victim, a 53-year-old from Polblepitigama, Malushna, was reportedly killed by an elephant.
 
-ඊයේ (24) අලුයම් කාලයේදී එම සිරුර සොයාගෙන තිබුණේ කුරුඳුවත්ත පොලීසියට ලද පණිවුඩයකට අනුවය.
+🟩
 
-මෘත ශරීරය සම්බන්ධයෙන් මහෙස්ත්‍රාත් පරීක්ෂණය සම පශ්චාත් මරණ පරීක්ෂණය සිදුකර මෘත ශරීරය ඥාතීන් වෙත භාරදී තිබේ.
+A person has been suspected near the Bandaranaike Memorial Conference Hall of the Cinnamon Gardens Police Division.
 
-මේ අතර පොල්පිතගම පොලිස් වසමේ නියදවනය ප්‍රදේශයේ කැලෑබද ප්‍රදේශයක තිබී සැකකටයුතු ලෙස මියගෝ පුද්ගලයෙකුගේ සිරුරක් සොයාගෙන තිබේ.
+During yesterday (24), the body was found in a message to the Cinnamon Gardens Police.
 
-මෙලස මියගොස් ඇත්තේ, මල්අස්න, පොල්පිතිගම ප්‍රදේශයේ පදිංචිව සිටි 53 හැවිරිදි පුද්ගලයෙකි.
+The magisterial inquiry into the body has been conducted by the body of the corporation and handed over to the relatives.
 
-මරණකරු මාසයකට පමණ පෙර සිට ඇතුරුදන්ව සිට ඇති අතර මීමැස්මොරය රෝගය සඳහා ප්‍රතිකාර ලබාගන්න අයෙකු බවටත් අනාවරණය වී තිබේ.
+Meanwhile, a body of a person has been conducted in a jungle area in the Polphipagama Police Division.
+
+The victim was a 53 year old resident of Polblepitigama, Malushna.
+
+The deceased has been found since the deceased has been reported from the elephant.
 
 ◼️
 
 [Data](articles/014ab327.json)
+
+[Extended Data](ext_articles/014ab327.ext.json)
 
 ---
 
@@ -1270,19 +1294,27 @@ Q. There is a large number of basic facilities including permanent housing. Are 
 
 ---
 
-### ඉන්දීය සමාගමකින් ලක්ෂ 50ක් අල්ලස් ඉල්ලූ එස්.අයිට වැඩ වරදියි
+### SI of Sri Lanka, who demanded the bribe of Indian company
 
 *2024-06-24 19:38:00* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-සමාගමකින්-ලක්ෂ-50ක්-අල්ලස්-ඉල්ලූ-එස්-අයිට-වැඩ-වරදියි/11-410411) · `si`
 
-වැටලීමක් කරන මුවාවෙන් බම්බලපිටිය ක්රෙිස්ටර්  පෙදෙසේ  ඉන්දියන් පුද්ගලික සමාගමක්  වෙත ගොස් රුපියල් ලක්ෂ 50  ක  අල්ලස්   මුදලක් ඉල්ලීම සම්බන්ධයෙන්   කොළඹ දකුණු කොට්ඨාස අපරාධ විමර්ශන අංශයේ උපපොලිස් පරීක්ෂකවරයෙකු වැඩ තහනමට ලක් කර  ඇතැයි පොලිස් මූලස්ථාන ආරංචි මාර්ග සඳහන්  කරයි.
+A Sub-Criminal Inspector in Sri Lanka's Colombo South Division allegedly demanded a bribe from an Indian company. The inspector, involved in counseling, data entry, and marketing, was accused of accepting bribes to facilitate appointments. A senior company official reported this to Senior DIG Mahinda Gunaratne, leading to an investigation by high-ranking officers. The inspector's duties were suspended during the probe.
 
-ව්‍යාපාර සඳහා උපදේශන, දත්ත ඇතුළත් කිරීම් , අලෙවිකරණ ඇතුළු විවිධ සේවා සපයන එම ආයතනය වෙත ඉකුත් 21 වැනිදින  ගොස් තිබූ උපපොලිස් පරීක්ෂකවරයා වැටලීමක් සිදු කිරීමට පැමිණි බව පවසා ඔවුන්ගේ නිදහසට කරුණු උසාවියේදී ඔප්පු කරන ලෙසත්, එසේ නොමැති නම් ලක්ෂ 5 ක් හෝ එයට ආසන්න මුදලක් ගෙවා සම්පූර්ණයෙන්ම සමථයක් කර ගත හැකි බවත් පවසා තිබූ  බව එම සමාගමේ  උසස් නිලධාරියකු බස්නාහිර පළාත භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය  පොලිස්පති මහින්ද ගුණරත්න මහතා වෙත  පැමිණිලි කර තිබුණේ යැයි පොලීසිය කියයි.
+🟩
 
-උපපොලිස් පරීක්ෂකවරයා එදින එම අංශයේ වැඩ බලන ස්ථානාධිපතිවරයා ලෙසද කටයුතු කර තිබූ බව පොලිස් ආරංචි මාර්ග සඳහන් කරයි.
+According to police sources, a Sub-Criminal Inspector of the Colombo South Division Criminal Investigation Division has banned a bribe of Rs.
 
-...
+If the Appointment Inspector who attended counseling, data entries, marketing, marketing, marketing and marketing, to prove to their excuses, and pay more than Rs.A senior official of the company has lodged a complaint with Senior DIG Mahinda Gunaratne that he had said.
+
+According to police sources, the Sub-Inspector had also served the OIC of the Division.
+
+Colombo South Senior Superintendent of Police Normangeant Superintendent of Police Normangeant Superintendentation of High Officers inquiry into the siege of the raid in an investigation.The officer's duties have been banned.
+
+◼️
 
 [Data](articles/57a14b03.json)
+
+[Extended Data](ext_articles/57a14b03.ext.json)
 
 ---
 
@@ -2197,25 +2229,5 @@ The International Representative of the Sri Lanka Freedom Party (SLFP) Meeting w
 [Data](articles/006d33c4.json)
 
 [Extended Data](ext_articles/006d33c4.ext.json)
-
----
-
-### Grade 8-12
-
-*2024-06-24 15:41:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரம்-8-12-வரை-Cambridge-Climate-Quest/175-339336) · `ta`
-
-Sri Lanka's education sector is improving: Grade 8-12 students now have access to the "Cambridge Climate Quest" self-learning program. Additionally, Flinders University from Australia plans to open a campus in Sri Lanka, addressing the demand for higher education in the region.
-
-🟩
-
-In order to further enhance the education sector of Sri Lanka, school students who are educated from grade 8 to 12 are given the opportunity to teach "Cambridge Climate Quest" self -learning.
-
-In addition, the Presidential Media University has announced that Australia's Flinders University will launch its university campus in Sri Lanka to meet the need for regional higher education.
-
-◼️
-
-[Data](articles/2c8550ec.json)
-
-[Extended Data](ext_articles/2c8550ec.ext.json)
 
 ---

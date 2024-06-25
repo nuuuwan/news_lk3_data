@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 20:19:33**
+As of **2024-06-25 20:34:52**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 5,269
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,135 (100.0%) of 32,137 articles have been extended.
+32,137 (100.0%) of 32,137 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### මීගමුවේ සිට ලොවම රැවටූ ඔන්ලයින් ජාවාරම
+### The world's deception from Negombo to the
 
 *2024-06-25 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198149) · `si`
 
-ලොව රටවල් කිහිපයක් ඉලක්ක කරගනිමින් මීගමුව ප්‍රදේශයේ පවත්වාගෙන ගිය මහා පරිමාණ අන්තර්ජාල මූල්‍ය වංචාවක් නීතියේ රැහැනට හසුකර ගැනීමට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සමත් වුණි.
+The CID in Negombo uncovered a vast internet financial fraud network targeting multiple countries. A complaint led to the arrest of two individuals after discovering two bank accounts linked to the scam. Further investigation revealed a larger operation involving 14 arrests, including foreigners, and the seizure of numerous electronic devices. The probe also uncovered connections to branches in Dubai and Afghanistan, highlighting a global reach of the fraud.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අංක දෙක දරන මූල්‍ය විමර්ශන අංශයට පසුගිය 13 වනදා කාන්තාවකගෙන් පැමිණිල්ලක් ලැබී තිබුණි.
+🟩
 
-එහි දැක්වුණේ නාඳුනන පුද්ගලයෙකු විසින් වට්ස්ඇප් සමූහයකට තමන්ව  එක්කරගත් අතර ටික්ටොක් සමාජ මාධ්‍ය ජාලයේ වීඩියෝ සඳහා ලයික් හා කමෙන්ට් දැමීමෙන් මුදල් ඉපැයිය හැකි බවට එම සමූහය මගින් දැනුම්දුන් බවය.
+The Criminal Investigations Department (CID) has taken a large network of Internet financial fraud in Negombo targeting several countries.
 
-එලෙස ලයික් සහ කමෙන්ට් කිරීම වෙනුවෙන් අවස්ථා කිහිපයකදී රුපියල් 750 බැගින් මුදල් ලැබුණු අතර, පසුව වැඩිදුරටත් මුදල් ඉපැයීමට අවශ්‍යනම් ඔවුන්ගේ ටෙලිග්‍රෑම් සමූහයකට එක්ව මුදල් ආයෝජනය කරන ලෙස අදාළ සමූහය මගින් කාන්තාවට දැනුම් දී තිබුණි.
+The Finance Investigation Department has received a complaint with the Financial Investigation Division of the Criminal Investigation Department last night.
 
-ඒ අනුව මුදල් ආයෝජනය කළද, ඊට අදාළ ලාභය ඉල්ලා සිටි අවස්ථාවේදී අදාළ සමූහයේ ඇඩ්මින්වරයා පවසා ඇත්තේ, එම මුදල් ලබාගැනීමට නම්  බැංකු ගිණුමක් වෙත මුදලක් බැර කරන ලෙසය.
+It said that a unidentified person had been added to a Watezapp a group of people and that the group was informed by the Ticktock Social Media Network.
 
-ඒ අනුව අදාළ කාන්තාව රුපියල් ලක්ෂ 54ක මුදලක් අවස්ථා කිහිපයකදී එම බැංකු ගිණුම වෙත යොමුකර තිබුණි.
+The woman had informed the woman by the Group to invest a cash in a group of more than so, and later wanted to invest money in a group of lic and commenting.
+
+The Admin has told the Group when the money was invested, but the profit was asked to get a bank account to obtain the money.
+
+Accordingly, the woman had sent a sum of Rs. 54 lakhs to the bank account.
+
+However, as promised not profit, she had lodged a complaint with the Criminal Investigation Department.
 
 ...
 
 [Data](articles/4a03027c.json)
+
+[Extended Data](ext_articles/4a03027c.ext.json)
 
 ---
 
@@ -166,21 +174,29 @@ Derana 360 political program explained this, explaining the opinion of the LGBTQ
 
 ---
 
-### කාන්තාවන් පිළිබඳ ජාතික කොමිෂන් සභාවක්
+### National Commission of Women
 
 *2024-06-25 18:33:14* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවන්-පිළිබඳ-ජාතික-කොමිෂන්-සභාවක්/11-410430) · `si`
 
-ශ්‍රී ලංකා දේශපාලන ඉතිහාසය තුළ කාන්තාවන්ගේ අයිතිවාසිකම් හෝ කාන්තාවට සම තැන ලබාදීම වෙනුවෙන් පනතක් ගෙනවිත් නොමැති බව කාන්තා හා ළමා කටයුතු රාජ්‍ය අමාත්‍ය ගීතා කුමාරසිංහ මහත්මිය සඳහන් කළාය.
+Sri Lanka's Parliament passed the Empowerment Bill, aimed at strengthening women's rights and establishing a National Commission for Women's Rights. Introduced by President Ranil Wickremesinghe, the bill underwent several amendments and now includes measures to combat gender-based violence and discrimination. This landmark legislation marks a significant step forward in Sri Lanka's political history regarding women's rights.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පයක් අනුව පාර්ලිමේන්තුවට ඉදිරිපත් කළ කාන්තාවන් සවිබල ගැන්වීමේ පනත් කෙටුම්පත මේ වන විට සම්මත වී තිබෙන බවද රාජ්‍ය අමාත්‍යවරිය පෙන්වා දුන්නේය.
+🟩
 
-කාන්තා හා ළමා කටයුතු රාජ්‍ය අමාත්‍ය ගීතා කුමාරසිංහ මහත්මිය මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (25) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+In Sri Lanka's political history, Sri Lanka's political history, the bill was not brought to launches to the women's rights or woman.
 
-කාන්තාවන් සවිබල ගැන්වීමේ පනත් කෙටුම්පත මේ වන විට පාර්ලිමේන්තුවේ දී සම්මත වී තිබෙනවා. ශ්‍රී ලංකාවේ දේශපාලන ඉතිහාසය තුළ කාන්තාවන්ගේ අයිතිවාසිකම් හෝ කාන්තාවට සම තැන වෙනුවෙන් සම්බන්ධයෙන් මීට පෙර පනතක් ගෙනවිත් නොමැති බව පැවසිය යුතුයි. මෙම පනත මඟින් කාන්තාවන් සවිබල ගැන්වීම සඳහා විධිවිධාන සැලැස්වීම පිණිස ද මෙන්ම කාන්තාවන්ගේ අභිවෘද්ධිය සඳහා ජාතික ප්‍රතිපත්තියක් සකස් කිරීම සිදුවනවා.
+The State Minister pointed out that the lacket of the women who were presented to the Parliament of Ranil Wickremesinghe has been passed away.
+
+Minister of Women and Child Affairs Geetha Kumarasinghe made this statement participating at a press conference held at the Presidential Media Center today (25).
+
+Empowerment Bill has been passed in Parliament. It should not be said that in the political history of Sri Lanka, women's rights or woman has not been brought before a woman before the same place.. This act also creates a national policy for providing for provision to empower women and improve women.
+
+The bill was submitted according to a concept of President Ranil Wickremesinghe. A number of amendments took place in preparing the bill. The Parliamentary Forum offered proposals and comments. Accordingly, the bill was included in the bill.
 
 ...
 
 [Data](articles/1b056d02.json)
+
+[Extended Data](ext_articles/1b056d02.ext.json)
 
 ---
 

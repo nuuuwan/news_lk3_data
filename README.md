@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 18:36:25**
+As of **2024-06-25 18:54:00**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,111 (100.0%) of 32,113 articles have been extended.
+32,113 (100.0%) of 32,113 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### பலாலியில் சுற்றுலாத் தகவல் மையம்
+### Tourism Information Center in Palali
 
 *2024-06-25 18:23:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலாலியில்-சுற்றுலாத்-தகவல்-மையம்/175-339418) · `ta`
 
-யாழ்ப்பாணம், பலாலி சர்வதேச விமான நிலையத்தில் பயணிகள் வெளியேறும் பகுதியில் சுற்றுலாப் பயணிகளுக்கான தகவல் தொடர்பு நிலையத்தை வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம். சார்ள்ஸ், செவ்வாய்க்கிழமை (25) திறந்து  வைத்தார்.
+The Tourism Information Center in Palali, Northern Province, was inaugurated by Governor BSMM on Tuesday, offering free tourist guides and showcasing local crafts. The event included discussions between the governor and passengers at the nearby international airport.
 
-வடக்கு மாகாணத்தில் சுற்றுலாப் பயணிகள் இலகுவாக பயணிக்க கூடிய வரலாற்று சிறப்புமிக்க இடங்கள், வழிபாட்டு தளங்கள் உள்ளிட்ட விடயங்கள் அடங்கிய  சுற்றுலா வழிகாட்டி கையேடுகளை தகவல் தொடர்பு நிலையத்தில் இலவசமாக பெற்றுக்கொள்ள முடியும்.
+🟩
 
-அத்துடன் வடக்கு மாகாணத்தில் உற்பத்தி செய்யப்படும் கைவினைப் பொருட்களும் இங்கு விற்பனைக்கு வைக்கப்பட்டுள்ளன.
+Governor of the Northern Province BSMM of the Northern Province Governor of the Northern Province of Palali International Airport. Charles opened on Tuesday (25).
 
-சுற்றுலாப் பயணிகளுக்கான  தகவல்  தொடர்பு நிலையத்தை திறந்து வைத்ததன் பின்னர், விமான நிலைய செயற்பாடுகளை ஆளுநர்  பார்வையிட்டதுடன், விமான பயணிகளுடனும் கலந்துரையாடினார்.
+Tourist guide manuals can be obtained free of charge at the Northern Province, including historical places of worship and worship sites.
 
-சுற்றுலாப் பயணிகளுக்கான தகவல் தொடர்பு நிலையத்தை திறந்து வைக்கும் நிகழ்வில் வடக்கு மாகாண பிரதம செயலாளர், உள்ளூராட்சி அமைச்சின் செயலாளர், சுற்றுலாப் பணியகத்தின் தலைவர், விமான நிலைய அதிகாரிகள் என பலரும் கலந்துச் சிறப்பித்தனர்.
+The crafts produced in the Northern Province are also on sale.
+
+After the opening of the Communications Center for the tourists, the governor visited the airport activities and discussed with the passengers.
+
+The inauguration of the Communications Center for Tourism, the Chief Secretary of the Northern Province, Secretary to the Ministry of Local Government, Chairman of the Tourism Bureau and Airport Officers.
 
 ◼️
 
 [Data](articles/a5cb9145.json)
+
+[Extended Data](ext_articles/a5cb9145.ext.json)
 
 ---
 
@@ -84,25 +90,35 @@ Preparing for high quality a year ago, he was reportedly fearing that he would n
 
 ---
 
-### தன்னுயிரை மாய்த்த   உ/த மாணவன்
+### The student
 
 *2024-06-25 18:10:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தன்னுயிரை-மாய்த்த-உ-த-மாணவன்/175-339417) · `ta`
 
-கம்பளை பிரதேசத்தில் உயர்தரப் பாடசாலை மாணவன் ஒருவர் தன்னைத் தானே துப்பாக்கியால் சுட்டுக் கொண்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+An 18-year-old student from Gampola, Kulasekara, tragically ended his life by shooting himself. He was a student at Gampola International School and had recently transferred to a school in Kandy. His family includes a teacher mother, a retired Forest Department father now employed privately, a brother who is a university lecturer, and a sister who is a doctor at Kurunegala Teaching Hospital. The incident occurred after finding his father's hidden gun, and it's speculated that academic pressure, especially preparing for the GCE Ordinary Level Examination, contributed to his decision.
 
-குறித்த மாணவன் தனது அறையின் கதவைப் பூட்டிவிட்டு  துப்பாக்கியால் சுட்டு உயிரிழந்துள்ளதாக கம்பளை ஹெத்கால பொலிஸார் தெரிவித்தனர்.
+🟩
 
-கம்பளை வீதி உலப்பனையைச் சேர்ந்த கே.எம்.பி.ஆர்.ஜி. குலசேகர என்ற 18 வயது மாணவனே இவ்வாறு தற்கொலை செய்துக் கொண்டுள்ளார்.
+A high school student in Gampola area has shot himself a fire, police said.
 
-இவரது தாய் ஆசிரியை எனவும், தந்தை வனத்துறையில் பணியாற்றி ஓய்வு பெற்று, தற்போது தனியார் நிறுவன ஊழியர் எனவும் தெரிவிக்கப்படுகிறது.
+The student locked the door of his room and shot dead, the Gampala police said.
 
-சகோதரன் பேராதனை பல்கலைக்கழகத்தில் விரிவுரையாளராகவும், ஒரே சகோதரி குருநாகல் போதனா வைத்தியசாலையில் பயிற்சி வைத்தியராகவும் கடமையாற்றுகின்றனர்.
+KMPRG of Gampola Road. Kulasekara, an 18 -year -old student, committed suicide.
 
-தந்தை மறைத்து வைத்திந்த அவரது  துப்பாக்கியை கண்டு பிடித்த மாணவன்,  துப்பாக்கியால் சுட்டுத் தற்கொலை செய்துக் கொண்டுள்ளதாக விசாரணைகளை மேற்கொண்டு வரும் பொலிஸார் தெரிவிக்கின்றனர்.
+It is reported that her mother is a teacher and the father is retired in the Forest Department and is currently a private company employee.
+
+Brother is a lecturer at Peradeniya University and the only sister is a training doctor at the Kurunegala Teaching Hospital.
+
+Investigators say that a student who found his father's hidden gun had committed suicide by shooting himself.
+
+The student, who is studying at the Gampola International School, has joined a popular school in Kandy to study with the 08A Siddhi and B Siddhi in the GCE Ordinary Level Examination.
+
+Preparing for high quality a year ago, he was reportedly fearing that he would not be able to write the exam.
 
 ...
 
 [Data](articles/fdf80abb.json)
+
+[Extended Data](ext_articles/fdf80abb.ext.json)
 
 ---
 

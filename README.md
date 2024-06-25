@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 11:54:33**
+As of **2024-06-25 12:07:44**
 
 ## Newspaper Stats
 
-*Scraped **32,043** Articles*
+*Scraped **32,045** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,781
 economynextcom | 1,845
 dailyftlk | 1,964
-adalk | 2,816
-adaderanalk | 3,640
+adalk | 2,817
+adaderanalk | 3,641
 tamilmirrorlk | 3,778
 dailymirrorlk | 4,733
 virakesarilk | 4,964
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,253
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,042 (100.0%) of 32,043 articles have been extended.
+32,043 (100.0%) of 32,045 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### Administrative officers call-off strike; other trade unions continue islandwide strikes
+
+*2024-06-25 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100086/administrative-officers-call-off-strike-other-trade-unions-continue-islandwide-strikes-) · `en`
+
+The Sri Lanka Administrative Services Association (SASA) has decided to temporarily suspend its planned trade union action following a discussion with Prime Minister Dinesh Gunawardena.
+
+This decision comes after an agreement was reached to increase their allowances effective from June 01, the President of the association Mahesh Gammanpila said.
+
+The association had planned to launch a strike action by reporting sick leave over several demands including a salary increment.
+
+Meanwhile, the representatives of the Government Executive Officers have also held a discussion with the Prime Minister regarding their issues.
+
+President of the Joint Committee of Government Executive Officers H.A.L. Udayasiri expressed that they have decided to continue their trade union action by reporting sick on Tuesday (25) and Wednesday (26), as their demands were not adequately addressed.
+
+...
+
+[Data](articles/922dcb93.json)
+
+---
 
 ### Devils play in the ghost house by a woman
 
@@ -1492,6 +1512,8 @@ I was in Colombo one year ago in June 2023 and things then were already beginnin
 
 [Data](articles/f2872e6d.json)
 
+[Extended Data](ext_articles/f2872e6d.ext.json)
+
 ---
 
 ### If the bird fever has been recorded there is no import
@@ -2154,6 +2176,22 @@ Q. There is a large number of basic facilities including permanent housing. Are 
 
 ---
 
+### මුරුංගා රු. 1100යි, තක්කාලි රු. 1000යි, කැරට් රු. 700
+
+*2024-06-24 19:50:16* · [`adalk`](https://www.ada.lk/breaking_news/මුරුංගා-රු--1100යි--තක්කාලි-රු--1000යි--කැරට්-රු--700/11-410414) · `si`
+
+එළවළු වර්ග රැසක මිල විශාල ලෙස ඉහළ ගොස්  තිබේ.  මුරුංගා  කිලෝවක සිල්ලර මිල රු. 1100 දක්වාත් තක්කාලි කිලෝවක සිල්ලර මිල රු. 900 -1000  දක්වාත් බීට් කිලෝවක සිල්ලර මිල රු .900-1000 දක්වාත් ඉහළ ගොස් තිබේ.වැඩිවී ඇති මිල මිල ගණන් මෙසේය.
+
+මාළු මිරිස් කිලෝවක සිල්ලර මිල  රු. 900 යි. බෝංචි  රු.800යි. කැරට් රු. 700යි. ලීක්ස් රු. 750යි. වම්බටු  රු.600යි.
+
+අමු මිරිස් රු.  500-600 අතර වේ. බටු රු. 480 යි. පතෝල රු. 400යි. ගෝවා  රු. 380යි.  රු.  320 යි. දෙහි රු. 1800 යි.  ඉඟුරු  4000යි.ඇතැම් ප්‍රදේශවල පොල් ගෙඩියක මිල රුපියල් 150 ක් දක්වා ඉහළ ගොස්  තිබෙන අතර,  මාළු හා මස් මිලද ඉහළ ගොස් ඇත.
+
+◼️
+
+[Data](articles/80a1570f.json)
+
+---
+
 ### Apply before 10h to A / L
 
 *2024-06-24 19:45:56* · [`adalk`](https://www.ada.lk/breaking_news/උසස්පෙළට-10දාට-පෙර-අයදුම්-කරන්න/11-410413) · `si`
@@ -2177,51 +2215,5 @@ If you want to be inquiring into the matter, you can contact the telephone numbe
 [Data](articles/ad2476c3.json)
 
 [Extended Data](ext_articles/ad2476c3.ext.json)
-
----
-
-### Inflation down
-
-*2024-06-24 19:43:07* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-පහළට/11-410412) · `si`
-
-Sri Lanka's inflation dropped from 1.6% to 0.5% in May 2024, primarily due to a decrease in food prices. However, non-food items saw a slight increase from 2.3% to 2.4%.
-
-🟩
-
-In April 2024, Sri Lanka's inflation was reduced to 1.6% for May 2024.
-
-In April 2024, the point in the food category of food recorded in April 2024 has reduced to 0.5% in May 2024.
-
-Also, the no-2.3% of the non-foods of food in April 2024 increased to 2.4% in May 2024.
-
-◼️
-
-[Data](articles/15d3c047.json)
-
-[Extended Data](ext_articles/15d3c047.ext.json)
-
----
-
-### SI of Sri Lanka, who demanded the bribe of Indian company
-
-*2024-06-24 19:38:00* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-සමාගමකින්-ලක්ෂ-50ක්-අල්ලස්-ඉල්ලූ-එස්-අයිට-වැඩ-වරදියි/11-410411) · `si`
-
-A Sub-Criminal Inspector in Sri Lanka's Colombo South Division allegedly demanded a bribe from an Indian company. The inspector, involved in counseling, data entry, and marketing, was accused of accepting bribes to facilitate appointments. A senior company official reported this to Senior DIG Mahinda Gunaratne, leading to an investigation by high-ranking officers. The inspector's duties were suspended during the probe.
-
-🟩
-
-According to police sources, a Sub-Criminal Inspector of the Colombo South Division Criminal Investigation Division has banned a bribe of Rs.
-
-If the Appointment Inspector who attended counseling, data entries, marketing, marketing, marketing and marketing, to prove to their excuses, and pay more than Rs.A senior official of the company has lodged a complaint with Senior DIG Mahinda Gunaratne that he had said.
-
-According to police sources, the Sub-Inspector had also served the OIC of the Division.
-
-Colombo South Senior Superintendent of Police Normangeant Superintendent of Police Normangeant Superintendentation of High Officers inquiry into the siege of the raid in an investigation.The officer's duties have been banned.
-
-◼️
-
-[Data](articles/57a14b03.json)
-
-[Extended Data](ext_articles/57a14b03.ext.json)
 
 ---

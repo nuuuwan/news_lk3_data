@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 21:34:51**
+As of **2024-06-25 21:54:15**
 
 ## Newspaper Stats
 
@@ -26,19 +26,25 @@ adaderanasinhalalk | 5,269
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,138 (100.0%) of 32,139 articles have been extended.
+32,139 (100.0%) of 32,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### அதிகாரிகள் பற்றிய தகவல்களை உடனடியாக வழங்குங்கள் - ஜனாதிபதி
+### Immediately provide information about the authorities - the President
 
 *2024-06-25 20:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகாரிகள்-பற்றிய-தகவல்களை-உடனடியாக-வழங்குங்கள்-ஜனாதிபதி/175-339431) · `ta`
+
+The President is the head of state and government in many countries, responsible for implementing and enforcing laws passed by the legislature. They often serve as the commander-in-chief of the military and represent the nation internationally.
+
+🟩
 
 ◼️
 
 [Data](articles/66d7b7be.json)
+
+[Extended Data](ext_articles/66d7b7be.ext.json)
 
 ---
 

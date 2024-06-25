@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 13:19:26**
+As of **2024-06-25 13:35:06**
 
 ## Newspaper Stats
 
-*Scraped **32,063** Articles*
+*Scraped **32,065** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,81 @@ islandlk | 1,781
 economynextcom | 1,853
 dailyftlk | 1,964
 adalk | 2,819
-adaderanalk | 3,643
+adaderanalk | 3,644
 tamilmirrorlk | 3,779
 dailymirrorlk | 4,733
 virakesarilk | 4,964
-adaderanasinhalalk | 5,257
+adaderanasinhalalk | 5,258
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,062 (100.0%) of 32,063 articles have been extended.
+32,063 (100.0%) of 32,065 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### විජයදාස ට එරෙහි වාරණ නියෝගය දීර්ඝ කෙරේ
+### Cabinet approves debt restructuring agreements with Paris Club & other stakeholders
+
+*2024-06-25 13:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100090/cabinet-approves-debt-restructuring-agreements-with-paris-club-other-stakeholders) · `en`
+
+The Cabinet of Ministers has approved the signing of debt restructuring agreements with Paris Club and other stakeholders, Cabinet Spokesperson, Minister Bandula Gunawardana said.
+
+Speaking during the Cabinet press briefing held today (25), Minister Gunawardana said the relevant agreements will be signed tomorrow (26).
+
+◼️
+
+[Data](articles/08dbb4de.json)
+
+---
+
+### මියගිය නාවික සෙබළා ගැන තවත් තොරතුරු
+
+*2024-06-25 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198136) · `si`
+
+උතුරු මුහුදේ නීතිවිරෝධීව ධීවර කටයුතුවල නිරත වීමේ දී අත්අඩංගුවට ගත් ඉන්දීය ධීවරයින් 10දෙනා කන්කසන්තුරය වරාය වෙත රැගෙන විත් තිබේ.
+
+එම පිරිස ඉදිරි නීතිමය කටයුතු සඳහා මයිලඩි ධීවර පරීක්ෂක කාර්යාලය වෙත භාරදීමට නියමිතය.
+
+මෙම ඉන්දීය ධීවරයින් පිරිස අත්අඩංගුවට ගැනීමේ මෙහෙයුමේ දී සිදුවූ අනතුරකින් නාවික හමුදා නිලධාරියෙකු ජීවිතක්ෂයට පත්ව තිබුණි.
+
+අනතුරින් මියගියේ 40 හැවිරිදි වියේ පසුවූ නාවික හමුදා විශේෂ බලඝනයේ නාවිකයෙකි.
+
+යාපනය කන්කසන්තුරය ප්‍රදේශයට ඔබ්බෙන් වූ මෙරට මුහුදු සීමාවට ඇතුළු වී අනවසර ධීවර කටයුතුවල යෙදෙන ඉන්දීය ධීවර යාත්‍රා රැසක් නිරීක්ෂණය කර ඒම යාත්‍රා මෙරට මුහුදු සීමාවෙන් පළවා හැරීමේ විශේෂ මෙහෙයුමක් දියත් කර තිබුණේ අද (25) අලුයම් කාලයේදීය.
+
+උතුරු නාවික විධානයේ වේග ප්‍රහාරය යාත්‍රා යොදාගෙන එම මෙහෙයුම සිදුකර තිබුණි.
+
+එහිදී අනවසර ධීවර කටයුතුවල නිරත වී සිටි ඉන්දීය ධීවර යාත්‍රාවක් සමග ධීවරයින් 10 දෙනෙකු නාවික හමුදා භාරයට ගැණුනි.
+
+...
+
+[Data](articles/ba9e483d.json)
+
+---
+
+### Enjoining order against Wijayadasa extended
 
 *2024-06-25 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198135) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙසත් එම පක්ෂයේ සාමාජිකයෙකු ලෙසත් අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා කටයුතු කිරීම වළක්වාලමින් පනවා තිබෙන වාරණ නියෝගය තවදුරටත් දීර්ඝ කිරීමට කොළඹ දිසා අධිකරණය අද (25) නියෝග කළේය.
+The Colombo District Court issued an injunction against Wijayadasa, chairman of the SLFP, due to a complaint by Lasantha Alagiyawanna, the party's treasurer. The court also directed the filing of protective measures and set a hearing for July 9th.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ භාණ්ඩාගාරික අමාත්‍ය ලසන්ත අලගියවන්න මහතා විසින් එම පැමිණිල්ල ඉදිරිපත් කර තිබුණි.
+🟩
 
-පැමිණිල්ල අද කැඳවනු ලැබූ අවස්ථාවේදී වගඋත්තරකරුවන්ට විරෝධතා ගොනුකිරීම සඳහා අධිකරණය විසින් කල්ලබා දුනි.
+The Colombo District Court today (25) ordered the injunction of the SLFP as the Chairman of the Sri Lanka Freedom Party and a member of the party.
 
-ඉන් අනතුරුව පැමිණිල්ල ජූලි මස 09 වනදා යළි කැඳවීමට නියෝග කළ අධිකරණය එදින දක්වා දැනට නිකුත් කර තිබෙන වාරණ නියෝගය දිර්ඝ කරන ලෙසත් නියෝග කර තිබේ.
+The complaint was lodged by Mr. Lasantha Alagiyawanna, Minister of Treasurer of Sri Lanka Freedom Party.
+
+When the complaint was called to date, the courts gangs to file protectors when they were called today.
+
+Thereafter, the court ordered to be summoned to July 9, the court ordered to be extended order.
 
 ◼️
 
 [Data](articles/4a2b4cb5.json)
+
+[Extended Data](ext_articles/4a2b4cb5.ext.json)
 
 ---
 
@@ -2153,63 +2197,5 @@ The Strategic Steering Committee meeting and summary workshop of the Biogas, Bio
 [Data](articles/42563f20.json)
 
 [Extended Data](ext_articles/42563f20.ext.json)
-
----
-
-### A family dispute at the haunk mansion
-
-*2024-06-24 22:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198114) · `si`
-
-During a family dispute at the Haunk Mansion in Navagamuwa, a confrontation involving a married couple escalated, leading to the arrest of 12 individuals. The Kaduwela Magistrate later released them on bail after revealing the couple had been living apart for a significant period without legal separation. Six people from both sides were hospitalized.
-
-🟩
-
-While visiting a holiday in Navagamuwa, along with its ill loan, had a confrontation of a married husband of the grave.
-
-Police have arrested 12 persons in the confrontation took place at the confrontation took place in the confrontation took place in the incident.
-
-Kaduwela Magistrate had ordered the release of Rs. 100,000 each on personal bail of Rs.
-
-The suspects were released on bail, aged 19 and 24 years.
-
-It is revealed that the married couples have lived separately from a long time and have not been legally separated.
-
-Six persons in both sides of both sides have been hospitalized have been treated in the hospital.
-
-◼️
-
-[Data](articles/eea4dff9.json)
-
-[Extended Data](ext_articles/eea4dff9.ext.json)
-
----
-
-### Another trade union action tomorrow and tomorrow
-
-*2024-06-24 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198113) · `si`
-
-Trade unions across various sectors in Sri Lanka, including education and healthcare, are planning widespread protests and sick leaves due to unresolved salary issues. The government executives have also decided to take sick leave to highlight these anomalies. Protests are scheduled in Colombo and other provinces, with non-academic staff from universities and schools leading the charge. Despite efforts to resolve the issues, including discussions between ministries, the situation remains tense, affecting services like ayurvedic treatments.
-
-🟩
-
-Government executives have decided to report sick leave tomorrow (25) and tomorrow (26) based on their salary anomalies.
-
-The Joint Committee of Government Executives states that steps will be taken to hold a protest in Colombo tomorrow.
-
-At a press conference, the Guru Pupathi Alliance (Gum Gumuru Principal) and the trade union alliance has been reported to a trade union leave.
-
-Meanwhile, several trade unions have commenced the professional measures of several sectors today demanding immediate solutions to the problems of pay anomalies.
-
-The non-academic workers of Moratuwa and Rajarata universities began today and school academic workers are reported to have dismissed sick leave.
-
-The non-academic workers of schools, teacher colleges and science faculty have commenced a two-day trade union action to prepare a national policy to the educational service.
-
-Accordingly, the protests were held today and the central, North Central and Southern provinces.
-
-...
-
-[Data](articles/ae617f5f.json)
-
-[Extended Data](ext_articles/ae617f5f.ext.json)
 
 ---

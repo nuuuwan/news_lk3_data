@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 22:53:07**
+As of **2024-06-25 23:04:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,274
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,145 (100.0%) of 32,147 articles have been extended.
+32,147 (100.0%) of 32,147 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,25 +50,35 @@ State Minister Semasinghe said he also had a meeting with Waleed Sh. A. Albahar,
 
 [Data](articles/685dc23e.json)
 
+[Extended Data](ext_articles/685dc23e.ext.json)
+
 ---
 
-### පුද්ගලික සමාගමක සේවිකාවක් සිපවැළඳ ගැනීම සිරදඬුවමකින් කෙළවර වෙයි
+### Kissing a personnel of a private company ends in prison
 
 *2024-06-25 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198154) · `si`
 
-පුද්ගලික සමාගමක සේවය කළ ලිපිකාරිනියක් සිපවැළඳ ගැනීමේ චෝදනාවෙන් ත්‍රිකුණාමලය මහාධිකරණය විසින් නිදහස් කරනු ලැබූ එම සමාගමේ මානව සම්පත් කළමනාකාරවරයාට අභියාචනාධිකරණය විසින් බරපතළ වැඩ සහිත වසර 07ක සිරදඬුවම් නියම කර තිබේ.
+A court sentenced a HR manager from a private company to prison for kissing a clerk. The Court of Appeal ordered the manager to pay Rs. 750,000. If paid, the sentence would be reduced. This decision was made by Judge Madulla after reviewing appeals. The manager was initially acquitted but then found guilty based on unproven charges.
 
-ඊට අමතරව විත්තිකරු විසින් අගතියට පත් තැනැත්තියට රුපියල් 750,000ක වන්දියක් ගෙවිය යුතු බවත් සම්පත් අබේකෝන් සහ පී කුමාරන් රත්නම් යන අභියාචනාධිකරණ විනිසුරු මඩුල්ල නිකුත් කළ නියෝගයේ සඳහන් ය.
+🟩
 
-එම වන්දි මුදල ගෙවීම පැහැර හරිනු ලැබුවහොත් අමතරව වසරක සිරදඬුවම් නියම කරන බවත් තීන්දුවේ දැක්වෙන බව අද දෙරණ අධිකරණ වාර්තාකරු පැවසීය.
+The Court of Appeal has sentenced the Human Resources Managing Manager of the Trincomalee High Court accused of a clerk of a clerk in a private company.
 
-මෙම නඩුවේ විත්තිකරු නිදොස් කොට නිදහස් කිරීමට මහාධිකරණය දුන් තීන්දුවට එරෙහිව අගතියට පත් තැනැත්තිය විසින් ඉදිරිපත් කළ අභියාචනයක් විභාග කිරීමෙන් අනතුරුව විනිසුරු මඩුල්ල විසින් මෙම තීන්දුව ප්‍රකාශයට පත් කරන ලදි.
+In addition, the decision issued by the Court of Appeal of the Court of Appeal of the accused by the defendant should be paid Rs. 750,000.
 
-මෙම චෝදනාව සම්බන්ධයෙන් විත්තිකරුට එරෙහිව ත්‍රිකුණාමලය මහාධිකරණය හමුවේ නඩු පවරනු ලැබූ අතර දීර්ඝ නඩු විභාගයකින් අනතුරුව  2015 වසරේ සැප්තැම්බර් මස 16 වනදා විත්තිකරු නිදොස් කොට නිදහස් කිරීමට මහාධිකරණ විනිසුරුවරයා තීන්දු කර තිබුණි.
+If the payment of the payment was made, Ada Derana reporter said that if the payment was taken, the decision was filed in the verge.
 
-...
+The verdict was published by the Judge Madulla after hearing a appeal presented by the agricothered and the defendant to acquire the defendant in this case.
+
+The General Manager was acquitted on September 16, 2015 after the accusation.
+
+This order is issued and stated that the charges against the accused have not been proven to be unsuccessful.
+
+◼️
 
 [Data](articles/a2ba790b.json)
+
+[Extended Data](ext_articles/a2ba790b.ext.json)
 
 ---
 

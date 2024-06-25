@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 19:55:11**
+As of **2024-06-25 19:35:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,268
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,126 (100.0%) of 32,131 articles have been extended.
+32,116 (100.0%) of 32,131 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -74,8 +74,6 @@ Face to face talks with bond holders are likely to start Thursday, sources said.
 
 [Data](articles/291c1139.json)
 
-[Extended Data](ext_articles/291c1139.ext.json)
-
 ---
 
 ### Company is for the amendment to Samarizer Law
@@ -98,25 +96,19 @@ Derana 360 political program explained this, explaining the opinion of the LGBTQ
 
 ---
 
-### President requests the officers who sabotage heritage program
+### උරුමය වැඩසටහන කඩාකප්පල් කරන නිලධාරීන් ගැන තොරතුරු ජනපති ඉල්ලයි
 
 *2024-06-25 18:23:48* · [`adalk`](https://www.ada.lk/breaking_news/උරුමය-වැඩසටහන-කඩාකප්පල්-කරන-නිලධාරීන්-ගැන-තොරතුරු-ජනපති-ඉල්ලයි/11-410429) · `si`
 
-President Ranil Wickremesinghe addressed issues regarding the Heritage National Program, emphasizing the importance of protecting land rights and increasing agricultural productivity. He criticized officers sabotaging the program and urged MPs to investigate and report any disruptions. The president announced plans to distribute Rs. 2 lakh heritage freehold deeds and called for support from all MPs to ensure the program's success.
+උරුමය සින්නක්කර ඉඩම් ඔප්පු ලබාදීමේ වැඩසටහන වෙනුවෙන් බොහෝ රාජ්‍ය නිලධාරින් කැපවී කටයුතු කරද්දි, එය කඩාප්පල් කිරීමට උත්සාහ කරන සුළුතරයක් පිළිබඳව ද කරුණු වාර්තා වී ඇති බව සඳහන් කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එවන් නිලධාරීන් පිළිබඳ තොරතුරු තමන්ගේ ප්‍රදේශයේ මන්ත්‍රීවරුන් වෙත ලබා දෙන ලෙස ජනතාවගෙන් ඉල්ලා සිටි අතර, එම තොරතුරු තමා වෙත ලබා දෙන ලෙස මන්ත්‍රීවරුන්ට දැනුම් දෙන බව ද සඳහන් කළේය.
 
-🟩
+තමන්ගේ උරුමය ලබා ගැනීමට ජනතාවට ඇති අයිතිය අහිමි කිරීමට කිසිවෙකුට ඉඩ දිය නොහැකි බව අවධාරණය කළ ජනාධිපතිවරයා මෙම වැඩසටහන සාර්ථක කර ගැනීම වෙනුවෙන් පක්ෂ විපක්ෂ බේදයකින් තොරව සියලු මන්ත්‍රීවරුන්ගේ සහාය අපේක්ෂා කරන බවද සඳහන් කළේය.
 
-President Ranil Wickremesinghe said that the inheritance was committed to the provision of the Land Registration, President Ranil Wickremesinghe said that it was reported to be a minority attempt to a candap.He also said that MPs will inform the MPs to give him information.
-
-He stressed that no one could allow anyone to lose the right to the people to get their inheritance, he said that the party would seek the assistance of all MPs, regardless of opposition opposition.
-
-President Ranil Wickremesinghe made this statement in the 'Heritage National Program' of 20,000 Divisional Secretariat Divisions in the Ampara District.Addressing.
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ “උරුමය” ජාතික වැඩසටහන යටතේ අම්පාර දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 17ක සුදුසුකම්ලාභීන් 20,000ක් අතුරින් පුද්ගලයන් 1,758ක් වෙනුවෙන් සංකේතාත්මකව ඉඩම් ඔප්පු ප්‍රදානය වෙනුවෙන් අද (25) පෙරවරුවේ අම්පාර වීරසිංහ ක්‍රීඩාංගණයේ පැවති උත්සවය අමතමිනි.
 
 ...
 
 [Data](articles/df33598a.json)
-
-[Extended Data](ext_articles/df33598a.ext.json)
 
 ---
 
@@ -227,8 +219,6 @@ In 2026, a 115 MW gas turbine, a CEB owned diesel plants of 68 MW and 72 MW are 
 ◼️
 
 [Data](articles/fb6c3c50.json)
-
-[Extended Data](ext_articles/fb6c3c50.ext.json)
 
 ---
 
@@ -354,8 +344,6 @@ A bond maturing on 01.12.2031 closed at 12.10/20 percent, up from 12.08/15 perce
 
 [Data](articles/169d7a83.json)
 
-[Extended Data](ext_articles/169d7a83.ext.json)
-
 ---
 
 ### Sri Lanka stocks close up, Commercial Bank crossing pushes turnover to 3.9bn
@@ -377,8 +365,6 @@ Top foreign buying was seen on John Keells Holdings Plc (down at 206.00), Tokyo 
 ...
 
 [Data](articles/f5d18979.json)
-
-[Extended Data](ext_articles/f5d18979.ext.json)
 
 ---
 
@@ -577,8 +563,6 @@ However, political parties may be compelled to forge alliances to form a stable 
 ...
 
 [Data](articles/98e85e33.json)
-
-[Extended Data](ext_articles/98e85e33.ext.json)
 
 ---
 
@@ -802,8 +786,6 @@ The meeting was attended by Minister of Foreign Affairs Ali Sabri, Chief of Defe
 
 [Data](articles/0ac03354.json)
 
-[Extended Data](ext_articles/0ac03354.ext.json)
-
 ---
 
 ### Cabinet approval for signing agreement on bilateral debt renovation agreement
@@ -956,8 +938,6 @@ The export promotion programme titled “Sourced Sri Lanka” was organized by t
 
 [Data](articles/5df3b1d0.json)
 
-[Extended Data](ext_articles/5df3b1d0.ext.json)
-
 ---
 
 ### Maximum support of the Bora Federation Success
@@ -1073,8 +1053,6 @@ The Colombo Stock Exchange (CSE) has approved in principle the listing of the de
 ...
 
 [Data](articles/e4d05085.json)
-
-[Extended Data](ext_articles/e4d05085.ext.json)
 
 ---
 
@@ -1295,8 +1273,6 @@ The cabinet of ministers has thus approved a proposal by Minister of Justice, Pr
 ...
 
 [Data](articles/7d0b4095.json)
-
-[Extended Data](ext_articles/7d0b4095.ext.json)
 
 ---
 

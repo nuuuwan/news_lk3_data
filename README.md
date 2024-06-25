@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 12:19:24**
+As of **2024-06-25 12:34:36**
 
 ## Newspaper Stats
 
-*Scraped **32,045** Articles*
+*Scraped **32,049** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 295
 dbsjeyarajcom | 295
-bbccomsinhala | 316
+bbccomsinhala | 317
 newsfirstlk | 363
 islandlk | 1,781
 economynextcom | 1,845
 dailyftlk | 1,964
-adalk | 2,817
-adaderanalk | 3,641
+adalk | 2,818
+adaderanalk | 3,643
 tamilmirrorlk | 3,778
 dailymirrorlk | 4,733
 virakesarilk | 4,964
@@ -26,11 +26,47 @@ adaderanasinhalalk | 5,253
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,045 (100.0%) of 32,045 articles have been extended.
+32,045 (100.0%) of 32,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
+
+### Tamil Nadu CM urges Jaishankar to address fishermen issue with Sri Lanka
+
+*2024-06-25 12:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100088/tamil-nadu-cm-urges-jaishankar-to-address-fishermen-issue-with-sri-lanka) · `en`
+
+Tamil Nadu Chief Minister M. K. Stalin has urged the Indian External Affairs Minister S. Jaishankar to secure the immediate release of all the fishermen and their fishing boats apprehended by Sri Lanka.
+
+The Tamil Nadu Chief Minister has requested Minister Jaishankar in writing to prevail upon the Sri Lankan Government for securing the release of 37 arrested fishermen of Tamil Nadu and to secure expeditious release of the seized boats.
+
+“As I had pointed out in my previous letter, the incidents of arrests and intimidation have been continuing unabated resulting in loss of livelihoods,” he added in his letter, a copy of which was released to the media.
+
+Despite this, yet again, on June 22, 22 fishermen from Rameswaram fishing harbour were apprehended along with their three mechanised fishing boats, Mr. Stalin said in his letter. “I request you to ensure the immediate release of the apprehended fishermen and their boats,” he added.
+
+...
+
+[Data](articles/6ac0eb58.json)
+
+---
+
+### UNDP offers submersible water pumps for flood relief assistance efforts in Sri Lanka
+
+*2024-06-25 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100087/undp-offers-submersible-water-pumps-for-flood-relief-assistance-efforts-in-sri-lanka) · `en`
+
+The United Nations Development Programme (UNDP) in Sri Lanka has handed over 10 units of submersible water pumps to the Disaster Management Center (DMC) for flood response efforts in the Kalutara, Colombo, and Galle districts.
+
+The pumps were handed over by Ms. Malin Herwig, Officer-In-Charge of UNDP in Sri Lanka to, State Minister of Defense of Sri Lanka Premitha Bandara Tennakoon.
+
+The submersible water pumps will support efforts to cleaning flood-affected dug wells, providing immediate disaster relief to around 15,000 affected families across these districts.
+
+According to the DMC, numerous dug wells, which serve as the primary source of safe drinking water for the affected communities, are in urgent need of immediate cleanup. This action is essential to prevent the spread of waterborne diseases in the aftermath of the floods, the UNDP said in a statement.
+
+...
+
+[Data](articles/ca19871b.json)
+
+---
 
 ### Administrative officers call-off strike; other trade unions continue islandwide strikes
 
@@ -835,6 +871,26 @@ The association points out that the declarations of the legislation and the judi
 [Data](articles/0603e0bc.json)
 
 [Extended Data](ext_articles/0603e0bc.ext.json)
+
+---
+
+### ස්ත්‍රී පුරුෂ සමාජභාවීය සමානාත්මතාවය පිළිබඳ පනත් කෙටුම්පත: 'සමරිසි විවාහ බලාත්මක කිරීමක් හෝ දිරිගැන්වීමක් නෑ'
+
+*2024-06-25 06:10:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c511y8gkqg4o) · `si`
+
+ස්ත්‍රී පුරුෂ සමාජභාවීය සමානාත්මතාවය පිළිබඳ පනත් කෙටුම්පත: 'සමරිසි විවාහ බලාත්මක කිරීමක් හෝ දිරිගැන්වීමක් නෑ'
+
+ස්ත්‍රීපුරුෂ සමාජභාවය පදනම් කරගත් ප්‍රධාන පනත් කෙටුම්පත් දෙකක් පිළිබඳ මේ වන විට සංවාදයක් මතුව තිබේ. ඒ අතුරින් ‘කාන්තාවන් සවිබල ගැන්වීමේ පනත් කෙටුම්පත’ පසුගිය ජුනි 20 වෙනිදා පාර්ලිමේන්තුවේ දී තෙවනි වර කියවීමෙන් පසුව සංශෝධන සහිතව වැඩි ඡන්දයෙන් සම්මත විය.
+
+එයින් ‘ස්ත්‍රී පුරුෂ සමාජභාවීය සමානාත්මතාවය පිළිබඳ පනත් කෙටුම්පත’ පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ මතය සම්බන්ධයෙන් ජනාධිපතිවරයා විසින් පාර්ලිමේන්තුවේ දී ආන්දෝලනාත්මක ප්‍රකාශයක් කරන ලදි.
+
+ජනාධිපතිවරවයා පැවසුවේ මේ සම්බන්ධයෙන් තේරීම් කාරක සභාවක් පත් කළ යුතු බවය.
+
+මේ අතර කොළඹ අගරදගුරු මැල්කම් කාදිනල් රංජිත් හිමිපාණන් ප්‍රවෘත්ති සාකච්ඡාවකදී කියා සිටියේ ‘තමන්ගේ ලිංගිකත්වය තෝර ගන්න බැහැනේ කෙනෙකුට. ඉපදෙන කොටම තියෙන ලිංගිකත්වය අනුවනේ අපි ජීවත් වෙන්න ඕනේ’ යනුවෙනි.
+
+...
+
+[Data](articles/446f71fa.json)
 
 ---
 
@@ -2126,102 +2182,18 @@ President Mahinda Rajapaksa said that he would later determine whether Ranil Wic
 
 ---
 
-### Marikkar foretold to say
+### කුරුළු උණ තියෙන රටකින් සත්ව නිෂ්පාදන ගෙන්වන්නේ නෑ
 
-*2024-06-24 20:00:01* · [`adalk`](https://www.ada.lk/breaking_news/කියන්න-යන-සුබ-ආරංචිය-මරික්කාර්-කලින්ම-කියයි/11-410415) · `si`
+*2024-06-24 20:03:00* · [`adalk`](https://www.ada.lk/breaking_news/කුරුළු-උණ-තියෙන-රටකින්-සත්ව-නිෂ්පාදන-ගෙන්වන්නේ-නෑ/11-410416) · `si`
 
-President Ranil Wickremesinghe announced measures to revive Sri Lanka's economy, addressing concerns over taxes and living costs. He mentioned a mysterious upcoming event, possibly related to the government's efforts to avoid bankruptcy, as seen in a recent poster campaign across Colombo. Critics argue that despite these efforts, the average citizen faces increased burdens, questioning the effectiveness of the government's actions.
+කුරුලු උණ රෝගය වාර්තා වන කිසිදු රටකින් මෙරටට සත්ත්ව  නිෂ්පාදන හෝ සතුන් ආනයනය කිරීමට අවසර ලබා නොදෙන බව සත්ත්ව නිෂ්පාදන හා සෞඛ්‍ය දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල්, ආචාර්ය හේමාලි කොතලාවල මහත්මිය අවධාරණය කරයි.
 
-🟩
+ඇය පෙන්වා දෙන්නේ පළමුවරට ඇමරිකා එක්සත් ජනපදයේ ගවයන් ආශ්‍රිතව  ද ඒවියන් ඉන්ෆ්ලුවෙන්සා රෝගය වැලඳී ඇති බවට වාර්තා වීම  දරුණු තත්ත්වයක් වන බවයි.
 
-President Ranil Wickremesinghe said that he was preparing to resume the nation that the country was resumed again in the way the country was rescued again.
-
-Speaking at a media briefing at the Opposition Lease and another tax in the Colombo Opposition, he said that the people were affected by the Colombo Opposition and other taxes.
-
-"We hear that something special is going to happen if something special will be. Today we saw a latest poster campaign throughout Colombo, the latest poster. When we find out what this good news is, we hear about the Triumphuric monks and call the nation and make a special statement in the bankruptcy.. The president asked the nation on March 21st last year, said the country was rescued from bankruptcy.
-
-...
-
-[Data](articles/1ef4a6f9.json)
-
-[Extended Data](ext_articles/1ef4a6f9.ext.json)
-
----
-
-### Prepaidal teacher allowance increases by Rs.2,500
-
-*2024-06-24 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198107) · `si`
-
-President Ranil Wickremesinghe announced a Rs. 2,500 increase in allowances for pre-school teachers, effective immediately. During a visit to the East, he discussed issues with local youths, promising new housing projects and economic improvements through tourism and agriculture modernization, with cooperation from India for Trincomalee's development.
-
-🟩
-
-President Ranil Wickremesinghe says that the allowance for pre-school teachers will be increased by Rs. 2,500.
-
-The President made this observation when he met the youth of the Batticaloa area.
-
-During his visit to the East, President Ranil Wickremesinghe arrived in Chenkaladi.
-
-There were a group of school leavets and unemployed youths with the President and presented their problems to the President.
-
-Q. There are over 1800 pre-schools in the Eastern Province alone. But the gift of the teaching of its teaching is not enough. Is there any idea to increase their date?
-
-President: "We decided to increase the pre-school teachers' allowance by Rs 2,500. That increment must be operated from this week. "
-
-Q. There is a large number of basic facilities including permanent housing. Are you planning to implement a housing infrastructure program for them?
-
-...
-
-[Data](articles/b68f78a3.json)
-
-[Extended Data](ext_articles/b68f78a3.ext.json)
-
----
-
-### Murunga Rs. 1100, tomatoes. 1000, carrot Rs. 700
-
-*2024-06-24 19:50:16* · [`adalk`](https://www.ada.lk/breaking_news/මුරුංගා-රු--1100යි--තක්කාලි-රු--1000යි--කැරට්-රු--700/11-410414) · `si`
-
-Vegetable prices have significantly increased: murunga to Rs. 1100/kg, tomatoes to Rs. 1000/kg, beetroot to Rs. 900-1000/kg, fish chillies to Rs. 900/kg, beans to Rs. 800/kg, carrots to Rs. 700/kg, leaks to Rs. 750/kg, eggplant to Rs. 600/kg, raw chilli to Rs. 500-600/kg, brinjal to Rs. 480/kg, spinach to Rs. 400/kg, cabbage to Rs. 380/kg, lime to Rs. 1800/kg, and coconut to Rs. 4000/kg.
-
-🟩
-
-The price of a number of vegetables has increased largely.Retail of murunga at Rs. Retail of a kilogram of tomatoes up to 1100. Retail of a kilogram of beets has increased to Rs. 900-1000. The prices of the prices have been increased by Rs.
-
-Retail of a kilogram of fish chillies is Rs. 900. Beans Rs.800. Carrot's Rs. 700. Leaks Rs. 750. Eggplant is Rs. 600.
-
-Raw chilli costs Rs.Is between 500-600. Deceased Rs. 480. Paint Rs. 400. Cabbage Rs. 380.  රු.  320 යි. Lime. 1800.The price of a coconut prices in 4,000 has risen to Rs.
+ඒ අනුව මෙරට තුළ ක්‍රියාත්මක වන රෝග ආවේක්ෂණ වැඩ පිළිවෙළ පැවති අන්දමට තවදුරටත් ශක්තිමත් කර ඇති බවත්, අනිසි බියක් ඇති කර ගත යුතු නොමැති බවත් ඇය වැඩිදුරටත් ප්‍රකාශ කර සිටී.
 
 ◼️
 
-[Data](articles/80a1570f.json)
-
-[Extended Data](ext_articles/80a1570f.ext.json)
-
----
-
-### Apply before 10h to A / L
-
-*2024-06-24 19:45:56* · [`adalk`](https://www.ada.lk/breaking_news/උසස්පෙළට-10දාට-පෙර-අයදුම්-කරන්න/11-410413) · `si`
-
-Submit GCE Advanced Level Exam 2024 applications by October 10th. No extensions. Apply online via doenets.lk or onlinexams.gov.lk. School applicants must be processed by principals; private candidates apply directly. For inquiries, call 1912, 0112784208, or 0112784537.
-
-🟩
-
-Applications for the Advanced Level Examination (2024) the GCE Advanced Level Examination should be forwarded before the 10th of this month.
-
-The closing date of applications will not be extended, he pointed out that the deadline should be applied for the date.
-
-Examination Department www.doenets.lk or www. It is said that the onlinexams.gov.lk can be accessed or the DOE official application can be forwarded.
-
-School applicants should pay applications by the principal and the private candidates should be submitted by private candidates after they submit applications.
-
-If you want to be inquiring into the matter, you can contact the telephone numbers of 1912 or 0112784208 or 0112784537.
-
-◼️
-
-[Data](articles/ad2476c3.json)
-
-[Extended Data](ext_articles/ad2476c3.ext.json)
+[Data](articles/c607ed6f.json)
 
 ---

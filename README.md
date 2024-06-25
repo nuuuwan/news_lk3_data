@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-25 17:04:38**
+As of **2024-06-25 17:19:48**
 
 ## Newspaper Stats
 
@@ -26,41 +26,53 @@ adaderanasinhalalk | 5,266
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,097 (100.0%) of 32,099 articles have been extended.
+32,099 (100.0%) of 32,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-25 (Tuesday)
 
-### මෝදි - පුටින් හමුව ගැන ඉඟියක්
+### Modi - a hint of the meeting of Putin
 
 *2024-06-25 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198146) · `si`
 
-ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදිගේ රුසියානු සංචාරය එළඹෙන ජූලි මාසයේදී සිදු විය හැකි බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Indian PM Modi is set to visit Russia in July for talks with President Putin, marking their fifth consecutive meeting since Putin's presidency began in May. The Russian government is preparing for this encounter.
 
-එම සංචාරයේදී අග්‍රාමාත්‍ය මෝදි සහ ජනාධිපති පුටින් අතර හමුවක් පැවැත්වීමට නියමිත බවත් ඒ සඳහා අවශ්‍ය සියලු කටයුතු රුසියානු රජය විසින් සුදානම් කරමින් සිටින බවත් එරට රාජ්‍ය ප්‍රවෘත්ති ඒජන්සිය සඳහන් කරයි.
+🟩
 
-පුටින් මේ වසරේ මැයි මාසයේදී අඛණ්ඩව පස්වැනි වරටත් රුසියාවේ ජනාධිපතිවරයා ලෙස දිවුරුම් දුන් අතර නරේන්ද්‍ර මෝදි ද නොකඩවා තෙවැනි වරටත් ඉන්දියාවේ අග්‍රාමාත්‍යවරයා ලෙස දිවුරුම් දෙන ලදි.
+Indian Prime Minister Narendra Modi's visit to Russia's tour of Russian visit is reported to be held in July.
+
+At the time, a meeting between Prime Minister Modi and President Putin will be played between Putin and is preparing to work by the Russian Government.
+
+Putin was sworn in as the President of Russia for the fifth consecutive year in May this year.
 
 ◼️
 
 [Data](articles/20f9768f.json)
 
+[Extended Data](ext_articles/20f9768f.ext.json)
+
 ---
 
-### චීනයට බලපෑ ගංවතුරෙන් 60ක් මරුට
+### 60 killed in China floods
 
 *2024-06-25 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198145) · `si`
 
-චීනයට බලපා ඇති ගංවතුර තත්ත්වය හේතුවෙන් මියගිය පුද්ගලයින් සංඛ්‍යාව 60 දක්වා ඉහළ ගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Heavy rains in China's south have caused devastating floods, killing 60 and destroying thousands of homes, especially in the Hunan province.
 
-චීනයේ දකුණු ප්‍රදේශයට දින කිහිපයක සිට අධික වර්ෂාපතනයක් ඇදහැලෙමින් පවතින අතර එම නිසාවෙන් ප්‍රදේශ රැසක ගංවතුර සහ නායයෑම් ආපදා තත්ත්වයන් සිදුවී ඇති බව වාර්තා වී තිබේ.
+🟩
 
-චීනයේ හුනාන් පළාතට ගංවතුරෙන් වැඩි බලපෑමක් එල්ලවී ඇති අතර නිවාස දහස් ගණනක් විනාශවී ඇතැයි ද සඳහන් ය.
+Foreign media reports that the number of people who were killed in the floods affected China have increased to 60.
+
+It has been reported that heavy rainfall has been drawn to the southern part of China and has taken place in several areas.
+
+The hunger province in China has been affected and thousands of houses have been destroyed.
 
 ◼️
 
 [Data](articles/607e445f.json)
+
+[Extended Data](ext_articles/607e445f.ext.json)
 
 ---
 

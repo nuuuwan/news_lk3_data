@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 00:06:37**
+As of **2024-06-27 00:19:40**
 
 ## Newspaper Stats
 
-*Scraped **32,331** Articles*
+*Scraped **32,344** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 295
 bbccomsinhala | 318
 newsfirstlk | 363
 islandlk | 1,790
-economynextcom | 1,871
+economynextcom | 1,884
 dailyftlk | 1,976
 adalk | 2,862
 adaderanalk | 3,681
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,331 (100.0%) of 32,331 articles have been extended.
+32,331 (100.0%) of 32,344 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -200,6 +200,26 @@ The proposal, which was submitted by President Ranil Wickremesinghe was defeated
 
 ---
 
+### Sri Lanka leader asks for mandate after bilateral debt deal signed
+
+*2024-06-26 21:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-asks-for-mandate-after-bilateral-debt-deal-signed-169767/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe asked for a mandate to continue his International Monetary Fund-backed economic reforms and questioned the citizens if they will align “with those grappling in the dark”.
+
+President Wickremesinghe’s recorded speech televised all the electronic media comes soon after the island nation declared reaching agreement with $10 billion worth debt restructuring deal in Paris and Beijing.
+
+He reminded the people of the country’s 2022 economic crisis through visuals of queues for fuel and gas as well as power cuts and lack of fertiliser.
+
+He explained the difficult economic reforms done under him in the last two years and criticised his rivals.
+
+Their actions reveal a culture of opportunism, driven solely by ambitions for personal gain and political positioning,” he told his address to the nation.
+
+...
+
+[Data](articles/65cc8cfd.json)
+
+---
+
 ### ‘Sarvajana Balaya’ ready to launch Presidential Election campaign – Dilith Jayaweera
 
 *2024-06-26 21:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100127/sarvajana-balaya-ready-to-launch-presidential-election-campaign-dilith-jayaweera) · `en`
@@ -217,6 +237,46 @@ Speaking to the media during the inauguration of the MJP’s Galle District offi
 [Data](articles/cda7beef.json)
 
 [Extended Data](ext_articles/cda7beef.ext.json)
+
+---
+
+### Sri Lanka bilateral debt repayments delayed till 2028: President
+
+*2024-06-26 20:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-bilateral-debt-repayments-delayed-till-2028-president-169730/) · `en`
+
+ECONOMYNEXT – Repayments 10 billion dollars of bilateral debt has been delayed till 2028, under restructuring deals reached with the Paris Club, China and India, President Ranil Wickremesinghe said.
+
+Sri Lanka will then have until 2043 to repay the loans under concessional terms, he said in a televised address.
+
+Reaching the agreement will end the legal barriers that friendly countries had to give new assistance to Sri Lanka, he said.
+
+“International confidence in our country is reaffirmed as bilateral creditors have reached an agreement with us, serving as a kind of international endorsement,” President Wickremesinghe said.
+
+“Our Prime Minister will introduce these agreements in a special parliamentary session on July 02nd. I urge all patriotic members of Parliament to ratify these agreements.”
+
+Sri Lanka should use the opportunity to progress strongly he said.
+
+...
+
+[Data](articles/236cbf04.json)
+
+---
+
+### Sri Lanka President’s speech after bilateral debt restructuring – full text
+
+*2024-06-26 20:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidents-speech-after-bilateral-debt-restructuring-full-text-169741/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe made a television address to the nation on June 26 after signing bilateral debt restructuring agreements with the Paris Club, India and China.
+
+Today marks a significant milestone in the recent history of our country, a special juncture reflecting the hard work and dedication of our efforts. Our country is now reaping the positive results of our persistent endeavours over the past years.
+
+This morning in Paris, Sri Lanka reached a final agreement with our official bilateral creditors. Similarly, we signed another agreement with China’s Exim Bank today in Beijing. This is indeed encouraging news for those who genuinely care about our country’s welfare.
+
+Over the past two years, we have worked diligently to reach agreements with our bilateral creditors, engaging in extensive discussions. The economic progress we have achieved has provided us with considerable strength in these negotiations.
+
+...
+
+[Data](articles/67cc41cb.json)
 
 ---
 
@@ -716,6 +776,22 @@ Once the two sides had reached a final agreement to restructure $ 4.2 billion de
 
 ---
 
+### Sri Lanka signs US$4.8bn Chinese debt deal
+
+*2024-06-26 18:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-signs-us4-8bn-chinese-debt-deal-169710/) · `en`
+
+ECONOMYNEXT – Sri Lanka signed debt treatment deal in Beijing a short while ago with China Export and Import Bank to restructure $4.2 billion of debt, President’s Media Division said.
+
+“The Framework Agreement related to this was signed between Sri Lanka and China in Colombo, Sri Lanka. This restructuring provides significant debt relief, allowing Sri Lanka to allocate more funds to essential public services & resume concessional financing for critical infrastructure development.”
+
+“Chinese Ambassador, H.E. Qi Zhenhong just signed the vital Government Concessional Loan Agreement. Great contributions to Sri Lanka debt restructuring!”, the Embassy said in its X (Twitter) feed.
+
+◼️
+
+[Data](articles/88e84be6.json)
+
+---
+
 ### US urges Sri Lanka to continue fiscal reforms with transparent and sustainable changes
 
 *2024-06-26 18:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100123/us-urges-sri-lanka-to-continue-fiscal-reforms-with-transparent-and-sustainable-changes) · `en`
@@ -780,6 +856,28 @@ Accordingly, a need for a separate national education university has arisen. The
 
 ---
 
+### Fitch downgrades Maldives to CCC+ as forex reserves fall
+
+*2024-06-26 18:15:00* · [`economynextcom`](https://economynext.com/fitch-downgrades-maldives-to-ccc-as-forex-reserves-fall-169704/) · `en`
+
+ECONOMYNEXT  – Fitch Ratings said it was downgrading Maldives sovereign rating to ‘CCC+’ from ‘B-‘ as forex reserves continued to slip.
+
+Foreign reserves have fallen 492 million US dollars in May 2024 from 748 million a year earlier with a 100 million US dollar swap from the Reserve Bank of India also repaid in December 2023.
+
+Continued monetary reserve falls come from inflationary policy (usually liquidity injections made to offset reserve sales and prevent interest rates from moving up), which make outflows of the balance of payments exceed inflows.
+
+The more open market operations are ‘modernized’ the more a currency is peg is made vulnerable and can lead to social unrest and default.
+
+The International Monetary Fund in its last review urged the Maldives Monetary Authority not to print money if it wanted to maintain the currency peg.
+
+Relation IMF urges Maldives to halt money printing to keep dollar peg amid ‘debt distress’
+
+...
+
+[Data](articles/0fe8cc24.json)
+
+---
+
 ### 6 crores arrested with golden gel
 
 *2024-06-26 17:47:25* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-18ක-රත්තරන්-ජෙල්-සමග-6ක්-අල්ලයි/11-410454) · `si`
@@ -827,6 +925,26 @@ He has called for support today to condemn the repression of principals and teac
 [Data](articles/df0af8f6.json)
 
 [Extended Data](ext_articles/df0af8f6.ext.json)
+
+---
+
+### US welcomes Sri Lanka debt restructuring agreement
+
+*2024-06-26 17:39:00* · [`economynextcom`](https://economynext.com/us-welcomes-sri-lanka-debt-restructuring-agreement-169685/) · `en`
+
+ECONOMYNEXT — The United States welcomes  the news of a final agreement on debt restructuring between Sri Lanka and creditor nations reached on Wednesday June 26, US Ambassador to Sri Lanka Julie Chung said.
+
+The diplomat tweeted Wednesday afternoon that that the agreement is a positive step forward in Sri Lanka’s economic recovery and resilience, helping build more confidence in Sri Lanka’s fiscal environment.
+
+“The US encourages Sri Lanka to continue the reform process, adopting transparent and sustainable changes that foster long-term prosperity and growth,” she said.
+
+The agreement was reached on the sidelines of the Paris Forum 2024 in France.
+
+State Minister of Finance Shehan Semasinsghe tweeted from Paris Wednesday afternoon that the final agreement had been reached on debt restructuring between Sri Lanka and the Official Creditor Committee.
+
+...
+
+[Data](articles/012797d8.json)
 
 ---
 
@@ -894,6 +1012,22 @@ This agreement grants significant debt relief, allowing Sri Lanka to allocate fu
 
 ---
 
+### Sri Lanka reaches final agreement with Chinese EXIM Bank debt: State FinMin
+
+*2024-06-26 17:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-reaches-final-agreement-with-chinese-exim-bank-debt-state-finmin-169668/) · `en`
+
+ECONOMYNEXT – Sri Lanka has reached a final agreement on the China’s bilateral debt deal with its Export Import Bank of China and the signing is underway, State Finance Minister Shehan Semasinghe said.
+
+“It was great meeting Mr Liao Min, Vice Minister of Finance, China, on the sidelines of the Paris Forum 2024 in Paris, France,” Semasinghe said in his X (Twitter) platform.
+
+“We are also pleased that the final agreement has been reached on debt treatment between Sri Lanka and Export Import (EXIM) Bank of China and formalities for signing of the implementing agreements under way.” (Colombo/June 26/2024)
+
+◼️
+
+[Data](articles/b4d9dfff.json)
+
+---
+
 ### President assembled by the Cabinet
 
 *2024-06-26 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198186) · `si`
@@ -911,6 +1045,52 @@ After attending, Minister Harin Fernando said that the President was informed to
 [Data](articles/0fd51714.json)
 
 [Extended Data](ext_articles/0fd51714.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 305.35/55 to US dollar
+
+*2024-06-26 17:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-305-35-55-to-us-dollar-169664/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 305.35/55 to the US dollar on Wednesday, down from 305.25/35 to the US dollar on Tuesday, dealers said, while bond yields up.
+
+A bond maturing on 01.06.2026 closed at 10.55/11.05 percent, down  from 10.75/11.05 percent.
+
+A bond maturing on 15.12.2026 closed at 10.70/11.05 percent, up from 10.65/11.05 percent.
+
+A bond maturing on 15.10.2027 closed at 10.75/11.10 percent, up from 10.65/11.10 percent.
+
+A bond maturing on 15.03.2028 closed at 11.25/80 percent, up from 11.20/11.50 percent.
+
+A bond maturing on 15.09.2029 closed at 12.10/25 percent, up from 12.10/15 percent.
+
+A bond maturing on 01.12.2031 closed at 12.05/25 percent, from 12.10/20 percent.
+
+◼️
+
+[Data](articles/b03dd5a2.json)
+
+---
+
+### Sri Lanka stocks close down, retail investors hold back
+
+*2024-06-26 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-retail-investors-hold-back-169660/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader All Share Index closed down 0.10 percent, or 12.19 points, at 12,261; while the more liquid S&P SL20 Index closed down 0.02 percent, or 0.80 points, at 3,628.
+
+Turnover was 1.8 billion. Six crossings contributed to about 40 percent of the turnover.
+
+Most of this came from crossings on Windforce Plc (flat at 19.50), Central Finance Company Plc (up at 120.00), and Hayleys Plc (up at 106.50).
+
+Commercial Bank of Ceylon Plc was the biggest contributor to the ASPI. The share closed up at 107.00.
+
+Sri Lanka announced that it had reached a ‘final restructuring agreement’ on 5.8 billion US dollars of bilateral debt coming under an Official Creditor Committee in Paris.
+
+...
+
+[Data](articles/3127f653.json)
 
 ---
 
@@ -1148,6 +1328,24 @@ Also, Anthony Praveen, a Sri Lankan Mannar, has sent money to buy cannabis in tw
 
 ---
 
+### Sri Lanka CB imposes penalties on DFCC, Sampath banks for non-compliance
+
+*2024-06-26 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-imposes-penalties-on-dfcc-sampath-banks-for-non-compliance-169652/) · `en`
+
+ECONOMYNEXT – Sri Lanka Central Bank’s Financial Intelligence Unit (FIU) has imposed penalties on DFCC Bank and Sampath Bank for non-compliance with the provisions of the Financial Transactions Reporting Act, the Bank said.
+
+The Central Bank has collected 1 million Sri Lanka rupees from DFCC in March and 2 million from Sampath Bank in April as penalties, it said.
+
+DFCC “had failed to conduct adequate Customer Due Diligence (CDD) on an individual, including the requirement to obtain information on the source of funds/earnings as mandated by the Financial Institutions” as required by the law, the Central Bank said.
+
+“It was observed that the amount deposited to the account was inconsistent with the customer’s anticipated Financial Intelligence Unit volumes from sources of income as stated in the account opening form,” the Central Bank said.
+
+...
+
+[Data](articles/f90536e4.json)
+
+---
+
 ### NATO appoints outgoing Dutch PM Mark Rutte as new secretary-general
 
 *2024-06-26 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100117/-nato-appoints-outgoing-dutch-pm-mark-rutte-as-new-secretary-general) · `en`
@@ -1243,6 +1441,26 @@ At the end of the demonstration, five people met the secretary of the governor a
 [Data](articles/84261518.json)
 
 [Extended Data](ext_articles/84261518.ext.json)
+
+---
+
+### Sri Lanka explores joining BRICS amid faster post-debt restructuring growth hopes
+
+*2024-06-26 16:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-explores-joining-brics-amid-faster-post-debt-restructuring-growth-hopes-169649/) · `en`
+
+ECONOMYNEXT – Sri Lanka has been exploring plans to join BRICS, a bloc of the world’s major emerging economies and a cabinet subcommittee report is expected by end-June, Foreign Minister Ali Sabry has said.
+
+Sri Lanka’s move comes as it is now looking for more funding with the conclusion of formal bilateral debt restructuring deal.
+
+Sabry after attending the BRICS Foreign Ministers’ Conference in Russia early this month, Sri Lanka has appointed a cabinet subcommittee comprising officials from the Ministry of Foreign Affairs, Treasury, Ministry of Finance, and Central Bank to explore the possibility of Sri Lanka joining the BRICS organization.
+
+“I see a lot of momentum being built towards BRICS,” the Foreign Minister told media earlier this month.
+
+“As far as we are concerned we are closely monitoring it. We are expecting that report (from the cabinet subcommittee) to be available for us towards the end of this month. “
+
+...
+
+[Data](articles/c3ce2372.json)
 
 ---
 
@@ -1641,6 +1859,26 @@ It is noteworthy that the police have carried out tear gas and waterfront on the
 [Data](articles/9ae928cd.json)
 
 [Extended Data](ext_articles/9ae928cd.ext.json)
+
+---
+
+### Sri Lanka foreign minister Sabry to visit Japan
+
+*2024-06-26 14:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-minister-sabry-to-visit-japan-169609/) · `en`
+
+ECONOMYNEXT – Sri Lanka Foreign Minister Ali Sabry will visit Japan from July 01 and will hold discussions with his Japanese counterpart, Yoko Kamikawa.
+
+He will focus on making further progress on the outcome of Foreign Minister Kamikawa’s visit to Sri Lanka on May 2024, a Foreign Ministry statement said.
+
+He will also call on several other dignitaries including Chief Cabinet Secretary of Japan Yoshimasa Hayashi.
+
+Japan is expected to re-start projects halted after a sovereign default was declared in 2022 after existing debt is restructured.
+
+Memoranda of understanding with Paris Club creditors, which includes Japan are to signed on June 26. (Colombo/June26/2024)
+
+◼️
+
+[Data](articles/d366b387.json)
 
 ---
 
@@ -2083,307 +2321,5 @@ I hope to provide a portion of 200 acres of land belonging to the tourism indust
 [Data](articles/24d4135f.json)
 
 [Extended Data](ext_articles/24d4135f.ext.json)
-
----
-
-### Fort is disturbed: Lotus Street Lock
-
-*2024-06-26 12:47:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டை-கலங்குகிறது-லோட்டஸ்-வீதிக்குப்-பூட்டு/175-339466) · `ta`
-
-Teachers and principals protested near Fort Railway Station, breaking through police barriers to reach Lotus Road, causing traffic jams on Olkot and nearby streets.
-
-🟩
-
-It is reported that teachers and principals who are protesting in front of the Fort Railway Station have reportedly broke the barrier of the police and moved towards Lotus Road.
-
-As a result, heavy traffic congestion has been found on the streets of Olkot, Olkot Mawatha and its surrounding streets, police said.
-
-◼️
-
-[Data](articles/6e707aac.json)
-
-[Extended Data](ext_articles/6e707aac.ext.json)
-
----
-
-### Three killed, two seriously killed in a lorry collision
-
-*2024-06-26 12:45:56* · [`adalk`](https://www.ada.lk/picture_story/නවතා-තිබූ-සැප-බස්-රථයේ-ලොරියක්-ගැටීමෙන්-තිදෙනෙක්-මරුට--දෙදෙනෙකුට-බරපතලයි/10-410446) · `si`
-
-In a tragic accident on the Jaffna-Kandy A9 road, three died, two critically injured after a luxury bus collided with a lorry. The bus, en route from Jaffna to Colombo, broke down due to a technical issue, delaying rescue efforts. Police report the lorry lost control, causing the crash. Several passengers and the driver were hurt, including a 39-year-old Jaffna resident whose identity remains unknown.
-
-🟩
-
-Three persons were killed in an accident in the Jaffna, Kandy A9 refund in the Jaffna, Kandy A9 main road.
-
-A high luxury bus traveling from Jaffna to Colombo has been stopped due to a technical fault, and several assistants of the bus to restore it.
-
-Meanwhile, the police said that the accident had occurred when the luxury bus had accidentally collided with a lorry that was not able to control the lorry.
-
-The driver, including driver, and several passengers were injured in the same night with the driver of the bus..
-
-Two other people who were unable to verify the driver and identity of the bus, a 39-year-old resident of Jaffna.
-
-◼️
-
-[Data](articles/16ca46f6.json)
-
-[Extended Data](ext_articles/16ca46f6.ext.json)
-
----
-
-### Yall. 42 pounds of jewelery
-
-*2024-06-26 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/187007) · `ta`
-
-Last Sunday, 42 pounds of gold jewelry were mistakenly thrown away in Sangathappa, Jaffna, ending up in a Chavakachcheri landfill. The owners reported it, but the jewelry remains missing despite police investigations. This mirrors a similar incident a year ago where 18 pounds were recovered from the same area.
-
-🟩
-
-The police have lodged a complaint with the police last Sunday in connection with the incident of 42 pounds of gold jewelery in the Sangathappa area of ​​the Jaffna and Chavakachcheri police division.
-
-42 pounds of gold jewelery, which were safely placed in a bottle, were mistakenly placed in the trash and then reached the garbage mound in Chavakachcheri via a waste vehicle.
-
-In this case, the owners who realized that their jewelery was wrongly trash, the Chavakachcheri police have informed the police.
-
-According to police sources, there have been no information about the missing jewelery, despite the investigation of the Chavakachcheri police concerned.
-
-At the same time, a similar incident took place in Chavakachcheri a year ago and the employees of the Chavakachcheri Municipal Council have been searched by the owner of the garbage and retrieved 18 pound jewelery.
-
-◼️
-
-[Data](articles/dac3e472.json)
-
-[Extended Data](ext_articles/dac3e472.ext.json)
-
----
-
-### "Jacob Son" cannot jump out of the country
-
-*2024-06-26 12:35:47* · [`adalk`](https://www.ada.lk/breaking_news/’’ජාකොබ්-පුතා’’-අයිතිකරුට-රටින්-පනින්න-බැරිවෙයි/11-410445) · `si`
-
-Jacob Son, a Sri Lankan fisherman, was arrested by the Sri Lanka Navy for attempting to escape the country with his multi-day fishing vessel. Warnakulasuriya Anderson Indika, a 38-year-old businessman from Negombo, was also detained at Katunayake airport while trying to board an Emirates flight to Dubai. Both were taken for further investigation by the Colombo Police Narcotics Division.
-
-🟩
-
-The Sri Lanka Navy is arrested by the Sri Lanka Navy in distant sea and the owner of the multi-day fishing vessel, which is being brought to the Galle harbor and the owner of the multi-day fishing vessel, the Katunayaka airport to flee this newsA group of officers of the Airport Police Narcotics Division have been arrested by the Police Narcotha Division of the Air Ports.
-
-Warnakulasuriya Anderson Indika Indika Indika Indika Indika is a 38-year-old business resident of Negombo.
-
-He was 28.35 pm Emirates, which was preparing to leave for the Farket on the Katunayake airport at Katunayake airport.Happened.
-
-The arrested businessman has already been taken to the Headquarters of the Colombo Police Narcotics Division for further investigations.. The Police Narcotics Unit will be handed over to the Galle Harbor to the Galle Port on 6th April 06/26.
-
-◼️
-
-[Data](articles/e8a1b662.json)
-
-[Extended Data](ext_articles/e8a1b662.ext.json)
-
----
-
-### Three other universities like Kotalawala
-
-*2024-06-26 12:27:34* · [`adalk`](https://www.ada.lk/breaking_news/කොතලාවල-වගේ-තව-විශ්වවිද්‍යාල-තුනක්/11-410444) · `si`
-
-President Ranil Wickremesinghe highlighted the government's focus on merging economics with technology, especially in computer and IT sectors, during the 2024 'DigneCon' Global Investment Conference. He emphasized the importance of digital technology and entrepreneurship in developing Sri Lanka as a financial zone around the Colombo Port. The conference aimed to foster investment and innovation, with a particular emphasis on agriculture, tourism, and the digital economy. Discussions were held with India and China regarding cooperation in technology and innovation, aiming to leverage their expertise for Sri Lanka's development. The government plans to establish a national AI center, digital translation agency, and revamp the vocational training system to meet the demands of the growing digital economy.
-
-🟩
-
-President Ranil Wickremesinghe said that the government has paid special attention to the merger of economic and technology through computer and information technology.
-
-The President said that he encourages investment in Sri Lanka as a financial zone of the Colombo Port and the use of entrepreneurs and the use of digital technology.
-
-President Ranil Wickremesinghe made this statement addressing the inauguration of 2024 'DigneCon' Global Investment Conference.
-
-The 2024 'DigICon' Global Investment Conference, the 'DigneCon' Global Investment Conference, was held at the Cinnamon Grand Hotel in Colombo today (25) under the patronage of the 'DigneCon' Global Investment Conference on the theme.
-
-After the inauguration session, Minister of Agriculture Kanaka Herath, Investment Promotion, Government Minister Dilum Amunugama and Presidential Chiefs of Presidential Chiefs and Presidential Chiefs of Presidential Advisor Sagala Ratnayake was also held.
-
-...
-
-[Data](articles/0683ffe9.json)
-
-[Extended Data](ext_articles/0683ffe9.ext.json)
-
----
-
-### Lotus road blooms too
-
-*2024-06-26 12:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198171) · `si`
-
-The Lotus Road is closed due to principal-led protests.
-
-🟩
-
-Teachers - The Lotus Road has blocked due to a protest of principals.
-
-◼️
-
-[Data](articles/94dcedba.json)
-
-[Extended Data](ext_articles/94dcedba.ext.json)
-
----
-
-### Gold gel orb: 6 arrested
-
-*2024-06-26 12:20:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசனவாயில்களில்-தங்க-ஜெல்-உருண்டை-06-பேர்-கைது/175-339465) · `ta`
-
-Six individuals were arrested at Katunayake airport for smuggling gold gel pellets worth Rs 18 crore, hidden in their body cavities during a flight from Dubai to Chennai. The suspects, aged 30-50, hail from Kalmunai, Muttur, Colombo-10, Kalkedihane, and Minuwangoda.
-
-🟩
-
-Six people have been arrested at the Katunayake airport for allegedly smuggling gold gel pellets.
-
-The arrested persons arrived from Dubai to Chennai on Tuesday (25) at 01.20 pm by Indigo Airlines flight.
-
-They have hijacked gold gel pellets while hiding in their travels and seat. Its domestic value is Rs 18 crore.
-
-The detainees, Kalmunai, Muttur, Colombo-10, Kalkedihane and Minuwangoda, frequent flight travel, are of six people between the ages of 30 and 50.
-
-An airport customs official said that four of them had hidden the gold gel pellets in the rectum and hid the gold gels weighing 8 kg of 632 grams of 22 gold gel rolls.
-
-◼️
-
-[Data](articles/87d7a37b.json)
-
-[Extended Data](ext_articles/87d7a37b.ext.json)
-
----
-
-### Gold gel orb in the anus: 6 arrested
-
-*2024-06-26 12:20:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசனவாயில்-தங்க-ஜெல்-உருண்டை-06-பேர்-கைது/175-339465) · `ta`
-
-Six individuals were arrested at Katunayake airport upon arrival from Dubai to Chennai, carrying gold gel pellets worth Rs 18 crore. The arrest followed a scan test by customs officials. The suspects, aged 30-50, from areas like Kalmunai, Muttur, Colombo-10, Kalkedihane, and Minuwangoda, concealed the gold within their bodies. Four hid gold gel balls in their rectums, and two carried 8 kg of gold gel balls totaling 632 grams. They will face further inquiries and appear in court.
-
-🟩
-
-Six people have been arrested with gold gel pellets worth Rs 18 crore at Katunayake airport.
-
-The arrested persons arrived from Dubai to Chennai on Tuesday (25) at 01.20 pm by Indigo Airlines flight 6E-1175.
-
-They have been arrested after airport customs officials sent a scan test.
-
-Six Sri Lankans who arrived at the Katunayake airport were arrested by airport customs officials while hiding their bodies in their bodies.
-
-The detainees, Kalmunai, Muttur, Colombo-10, Kalkedihane and Minuwangoda are frequent flights and there are six people between the ages of 30 and 50 years.
-
-An airport customs official said that four of them had hidden gold gel balls in the rectum and two of them had hidden gold gel balls weighing 08 kg of 632 grams of 22 gold gel balls.
-
-Arrested and further inquiries are being taken by a team of customs officials including Katunayake Airport Customs Director Mr. Indika Silva and will be produced before the Negombo Magistrate's Court on Wednesday (26).
-
-◼️
-
-[Data](articles/dcccfaf4.json)
-
-[Extended Data](ext_articles/dcccfaf4.ext.json)
-
----
-
-### Echoing of Tamil Nadu fishermen
-
-*2024-06-26 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187006) · `ta`
-
-In the past week, over 30 Tamil Nadu fishermen were cautioned against fishing in international waters due to tensions with Sri Lanka. The Sri Lankan navy arrested several fishermen, including 22 from Rameswaram, for crossing borders. In response, 10 Naga fishermen were also detained. This led to a one-day strike by 22 Rameswaram fishermen protesting their imprisonment. Following the strike, fishermen were advised not to venture into Sri Lankan waters beyond the international border, emphasizing the importance of carrying necessary documents.
-
-🟩
-
-In the last week, more than 30 Tamil Nadu fishermen have been warned by the Rameshwaram fisheries officials to keep the fishermen from Rameswaram to fishing in the international waters and that the fishermen from Rameshwaram should not cross the international sea.
-
-The Sri Lankan navy arrested three fishermen and 22 fishermen from Rameswaram in Ramanathapuram district last Saturday for allegedly crossing the border.
-
-Following this, 10 Naga fishermen were arrested by the Sri Lankan navy and taken to the Jaffna jail.
-
-The Sri Lankan navy continues to arrest Tamil Nadu fishermen.
-
-In this case, 22 Rameshwaram fishermen who went fishing on Saturday went on a one -day identity strike, denouncing the Sri Lankan navy's imprisonment.
-
-...
-
-[Data](articles/e88534d0.json)
-
-[Extended Data](ext_articles/e88534d0.ext.json)
-
----
-
-### Flower owner
-
-*2024-06-26 12:17:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/மலர்ச்சாலை-உரிமையாளர்-அமரர்-ஊர்தியில்-படுகொலை/93-339464) · `ta`
-
-A flower owner was murdered in Ambalangoda by an unknown assailant wielding a sharp weapon. The victim, known as the head of the Flower Trade Center, was attacked while seated at Amarar. This tragic event occurred on Tuesday night (25) in the Telvatta Avasavatam area, leaving behind his wife and four children.
-
-🟩
-
-Ambalangoda police say that a flower owner has been assassinated and assassinated with a sharp weapon.
-
-Investigations have revealed that the murder was committed by an unidentified man who attacked the head of the Flower Trade Center.
-
-The owner of the flower was killed and the old man was killed while he was sitting on the seat of Amarar.. He is the father of four children.
-
-He went to the Telvatta Avasavatam area on Tuesday night (25). Police said the murder had taken place along the way.
-
-◼️
-
-[Data](articles/96af9fbf.json)
-
-[Extended Data](ext_articles/96af9fbf.ext.json)
-
----
-
-### Death
-
-*2024-06-26 12:16:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தந்தையை-அணைத்த-சிறுமி-மரணம்/175-339463) · `ta`
-
-A tragic accident occurred when a young girl riding in the back seat of a three-wheeler was fatally injured. The driver, her father, suffered serious injuries and was hospitalized. The girl had accompanied her family to Negombo, where she was left with her grandmother while her mother worked. The incident took place near the Kadala area, and preliminary police reports suggest the girl was ejected from the vehicle. She later succumbed to her injuries at Negombo Hospital, and her father was taken to Colombo National Hospital for treatment. Further investigations are ongoing by the Divulapitiya police.
-
-🟩
-
-A girl who was in the back seat of a three -wheeler was killed in a back seat.
-
-The driver of the three -wheeler, the girl's father has been admitted to the hospital with serious injuries.
-
-The deceased little girl went to Negombo with her grandmother, mother and father, unloaded her mother in Negombo to go to work, and sat down with her grandmother and came home.
-
-In this case, the girl who was behind the girl, the father's neck was tied to the Kadala area.. Preliminary inquiries by the police revealed that the girl was thrown out.
-
-The girl has died after being admitted to the Negombo Hospital and the father has been admitted to the Colombo National Hospital for further treatment.
-
-Divulapitiya police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/baabca60.json)
-
-[Extended Data](ext_articles/baabca60.ext.json)
-
----
-
-### The little girl who tied her father
-
-*2024-06-26 12:16:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தந்தையை-கட்டியணைத்த-சிறுமி-மரணம்/175-339463) · `ta`
-
-A tragic accident occurred when a three-wheeler crashed into an electric pole in Divulapitiya, killing a young girl and seriously injuring her father. The family had traveled to Negombo; the girl was last seen hugging her father before the crash. She later died at Negombo Hospital, while her father was hospitalized in Colombo for treatment. Police continue investigating.
-
-🟩
-
-Divulapitiya police said that a three -wheeler crashed into an electric pole in Kadala area, Divulapitiya.
-
-The driver of the three -wheeler, the girl's father has been admitted to the hospital with serious injuries.
-
-The deceased little girl went to Negombo with her grandmother, mother and father, unloaded her mother in Negombo to go to work, and sat down with her grandmother and came home.
-
-In this case, the girl who was behind him was hugging her father's neck in the Kadala area.. Preliminary inquiries by the police revealed that the girl was thrown out.
-
-The girl has died after being admitted to the Negombo Hospital and the father has been admitted to the Colombo National Hospital for further treatment.
-
-Divulapitiya police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/f1b82b74.json)
-
-[Extended Data](ext_articles/f1b82b74.ext.json)
 
 ---

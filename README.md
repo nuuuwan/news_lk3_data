@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 21:54:37**
+As of **2024-06-26 22:07:38**
 
 ## Newspaper Stats
 
-*Scraped **32,324** Articles*
+*Scraped **32,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,68 @@ economynextcom | 1,871
 dailyftlk | 1,976
 adalk | 2,860
 adaderanalk | 3,681
-tamilmirrorlk | 3,816
+tamilmirrorlk | 3,817
 dailymirrorlk | 4,733
 virakesarilk | 5,018
-adaderanasinhalalk | 5,308
+adaderanasinhalalk | 5,309
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,310 (100.0%) of 32,324 articles have been extended.
+32,314 (100.0%) of 32,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### ජනපති ගෙනආ යෝජනාව යළිත් පරාජය වෙයි
+### හෙට පාසල් පැවැත්වීම ගැන දැනුම්දීමක්
+
+*2024-06-26 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198192) · `si`
+
+හෙට (27) දිනයේ සාමාන්‍ය පරිදි රජයේ සියලුම පාසල් පැවැත්වෙන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+
+මේ අතර අද (26) දිනයේදී පොලීසිය ගුරු විදුහල්පතිවරුන්ට එල්ල කළ ප්‍රහාරයට විරෝධය පළ කරමින් හෙට දිනයේ සමස්ත පාසල් පද්ධතිය වසා දමන බව ලංකා ගුරු සංගමයේ ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් පැවසීය.
+
+◼️
+
+[Data](articles/02f42992.json)
+
+---
+
+### கல்வி அமைச்சு வெளியிட்ட அவசர அறிவிப்பு
+
+*2024-06-26 21:48:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சு-வெளியிட்ட-அவசர-அறிவிப்பு/175-339486) · `ta`
+
+அனைத்து அரச பாடசாலைகளின் கல்விச் செயற்பாடுகளும் நாளை வழமை போன்று இடம்பெறும் என கல்வி அமைச்சு வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+ஆசிரியர், அதிபர்கள் நாளைய தினமும் சுகவீன விடுமுறை போராட்டத்தை முன்னெடுக்கவுள்ள நிலையில் குறித்த அறிவிப்பு வெளியிடப்பட்டுள்ளது.
+
+இதேவேளை, வேதனப் பிரச்சினை உள்ளிட்ட பல்வேறு விடயங்களை முன்னிறுத்தி, கொழும்பு - கோட்டை தொடருந்து நிலையத்திற்கு முன்னால் இன்று முன்னெடுக்கப்பட்ட போராட்டத்தில் கண்ணீர்ப்புகை மற்றும் நீர்த்தாரை பிரயோகம் மேற்கொள்ளப்பட்டமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/b7c04c5c.json)
+
+---
+
+### The President's resolution will be defeated
 
 *2024-06-26 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198191) · `si`
 
-නීතිපති සංජය රාජරත්නම්ගේ ධුර කාලය තවත් මාස 6කින් දීර්ඝ කිරීමට ජනාධිපතිවරයා කළ යෝජනාව ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව විසින් යළිත් වරක් ප්‍රතික්ෂේප කර තිබේ.
+Despite the President's rejection and a vote supporting it, the President's resolution to extend the Attorney General's term by six months will likely fail.
 
-මෙහිදී ඡන්දයක් පවත්වා ඇති අතර අදාළ යෝජනාවට විරුද්ධව  මන්ත්‍රීවරුන් 5 දෙනෙකු සහ පක්ෂව මන්ත්‍රීවරු 3 දෙනෙකු ඡන්දය භාවිත කර ඇත.
+🟩
+
+The President has once again rejected the President's proposal to extend the term of office of Attorney General by another six months.
+
+There have been a vote and 5 MPs have voted in favor of the proposal.
 
 ◼️
 
 [Data](articles/496e1f25.json)
+
+[Extended Data](ext_articles/496e1f25.ext.json)
 
 ---
 
@@ -64,6 +100,8 @@ Meanwhile, the non-academic staff of the government schools are also engaged in 
 
 [Data](articles/b4868ed8.json)
 
+[Extended Data](ext_articles/b4868ed8.ext.json)
+
 ---
 
 ### President’s proposal to extend AG’s term defeated again
@@ -77,6 +115,8 @@ The proposal, which was submitted by President Ranil Wickremesinghe was defeated
 ◼️
 
 [Data](articles/f778897e.json)
+
+[Extended Data](ext_articles/f778897e.ext.json)
 
 ---
 
@@ -100,17 +140,31 @@ Speaking to the media during the inauguration of the MJP’s Galle District offi
 
 ---
 
-### வெளிநாட்டுக் கடனை மறுசீரமைப்பதில் இலங்கை வெற்றி பெற்றுள்ளது - ஜனாதிபதி
+### Sri Lanka has succeeded in restructuring foreign loan-President
 
 *2024-06-26 20:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/187056) · `ta`
 
-இலங்கையின் பிரதான உத்தியோகபூர்வ இருதரப்பு கடன் வழங்குநர்களுடன் 26ஆம் திகதி புதன்கிழமை காலை கடன் மறுசீரமைப்பு பேச்சுவார்த்தைகளை நிறைவு செய்து உத்தியோகபூர்வ கடன் வழங்குநர் குழுவுடன் இறுதி உடன்பாடு எட்டப்பட்டுள்ளதால் இலங்கை கடனை மறுசீரமைப்பதில் வெற்றி பெற்றுள்ளது என்றும் கடன் மறுசீரமைப்புப் பணியின் முக்கியமான கட்டத்தை வெற்றிகரமாக முடித்துள்ளதால், வெளிநாட்டு நிதியைப் பயன்படுத்தி முன்னெடுத்த அனைத்து திட்டங்களையும் மீண்டும் தொடங்க சட்டபூர்வ வாய்ப்புகள் ஏற்பட்டுள்ளன என்று ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவிதார்
+It seems like you've shared a detailed narrative or speech focusing on the economic challenges faced by a country, the measures taken to address these issues, and the progress made under certain leadership. This text appears to be a reflection on the strategies employed to stabilize and potentially develop the nation's economy, highlighting the importance of unity, economic strength, and international cooperation.
 
-சீனாவின் எக்ஸிம் வங்கியுடன் பீஜிங்கில் இறுதி உடன்பாடு எட்டப்பட்டதோடு அது  அதற்கான முறையான நடைமுறைகள் தற்போது முன்னெடுக்கப்பட்டு வருவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க மேலும் தெரிவிதார்.
+
+
+If you have specific questions or need assistance related to this content, such as analyzing the economic strategies mentioned, understanding the implications of the decisions described, or seeking advice on similar scenarios, please let me know how I can assist you further.
+
+🟩
+
+Sri Lanka has succeeded in reorganizing the debt and successfully completing all the presidential opportunities that have been successfully completed as the final agreement has been reached with the Official Loan Provincial Committee with the Chief Officer of Sri Lanka's major official bilateral credit issues on Wednesday morning.Wickremasinghe
+
+President Ranil Wickremesinghe further stated that the final agreement was reached with China's Exim Bank and that proper procedures are being carried out.
+
+He pointed out that the President was able to bring the Sri Lankan mother through a dangerous bridge, and that he was fighting for the right to protect the child in a difficult situation as in the drama of Hunuwatte.
+
+The President said that a country that was branded as a bankrupt country as a bankrupt country was a success, and that no country in the world, which fell into the economic abbreviation in recent history, had not achieved such a situation in a short time.
 
 ...
 
 [Data](articles/b13b28f6.json)
+
+[Extended Data](ext_articles/b13b28f6.ext.json)
 
 ---
 
@@ -2243,43 +2297,5 @@ The order also mentions that there is no obstacle for a government official who 
 [Data](articles/801c9feb.json)
 
 [Extended Data](ext_articles/801c9feb.ext.json)
-
----
-
-### CPC refinery to become separate govt-owned entity under restructuring plan
-
-*2024-06-26 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/100106/cpc-refinery-to-become-separate-govt-owned-entity-under-restructuring-plan) · `en`
-
-Minister of Power and Energy, Kanchana Wijesekera says a discussion on the timeline and process for implementing the reforms pertaining to the Ceylon Petroleum Corporation (CPC) took place yesterday with the senior management of the CPC and the refinery.
-
-In a post on ‘X’ (formerly Twitter), he said that under the restructuring plan, the CPC-owned refinery will be set up as a separate government-owned and operated entity to attract and raise investments with the aim of improving fuel quality, efficiency, capacity, and reducing costs.
-
-The restructuring plan includes revising the current approved carder and salary structure of the CPC while digital platforms will be introduced for multiple functions and services, he said.
-
-◼️
-
-[Data](articles/f8bc2800.json)
-
-[Extended Data](ext_articles/f8bc2800.ext.json)
-
----
-
-### Chancellor, Teachers
-
-*2024-06-26 11:01:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/அதிபர்-ஆசிரியர்களுக்கு-சுகயீனம்/46-339452) · `ta`
-
-Nationwide, principals and teachers protested on Wednesday, affecting student attendance as they demand solutions to their issues.
-
-🟩
-
-Principals and teachers are engaged in a healthy holiday struggle nationwide on Wednesday (26) demanding a solution to their problems.
-
-Thus, the attendance of students in schools is less likely.  மாணவர்கள் பாடசாலைக்கு வந்து திரும்பி செல்வதையும் அவதானிக்க கூடியதாக இருந்தது.
-
-◼️
-
-[Data](articles/6cc82a50.json)
-
-[Extended Data](ext_articles/6cc82a50.ext.json)
 
 ---

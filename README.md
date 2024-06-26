@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 00:51:41**
+As of **2024-06-27 01:04:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,340 (100.0%) of 32,344 articles have been extended.
+32,344 (100.0%) of 32,344 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1362,6 +1362,8 @@ DFCC “had failed to conduct adequate Customer Due Diligence (CDD) on an indivi
 
 [Data](articles/f90536e4.json)
 
+[Extended Data](ext_articles/f90536e4.ext.json)
+
 ---
 
 ### NATO appoints outgoing Dutch PM Mark Rutte as new secretary-general
@@ -1479,6 +1481,8 @@ Sabry after attending the BRICS Foreign Ministers’ Conference in Russia early 
 ...
 
 [Data](articles/c3ce2372.json)
+
+[Extended Data](ext_articles/c3ce2372.ext.json)
 
 ---
 
@@ -1897,6 +1901,8 @@ Memoranda of understanding with Paris Club creditors, which includes Japan are t
 ◼️
 
 [Data](articles/d366b387.json)
+
+[Extended Data](ext_articles/d366b387.ext.json)
 
 ---
 

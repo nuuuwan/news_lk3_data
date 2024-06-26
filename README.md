@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 17:35:24**
+As of **2024-06-26 17:55:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,302
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,281 (100.0%) of 32,283 articles have been extended.
+32,283 (100.0%) of 32,283 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,17 +44,25 @@ The slow train plying from Maradana to Moratuwa at 3.50 p.m. has experienced a t
 
 [Data](articles/5e236bce.json)
 
+[Extended Data](ext_articles/5e236bce.ext.json)
+
 ---
 
-### මුහුදුබඩ මාර්ගයේ දුම්රිය ප්‍රමාදයක්
+### Railway delay on the coastal route
 
 *2024-06-26 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198185) · `si`
 
-මරදානේ සිට මොරටුව බලා ධාවනය වෙමින් පැවැති දුම්රියක් අද (26) පස්වරුවේ කොම්පඤ්ඤවීදිය දුම්රිය ස්ථානයේදී කාර්මික දෝෂයකට ලක්වී තිබේ.
+A train from Maradana delayed at Slave Island due to unforeseen circumstances.
+
+🟩
+
+A train traveling from Maradana from Maradana has been underway at the Slave Island Railway Station this afternoon.
 
 ◼️
 
 [Data](articles/6e90ce09.json)
+
+[Extended Data](ext_articles/6e90ce09.ext.json)
 
 ---
 

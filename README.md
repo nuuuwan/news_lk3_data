@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 19:04:29**
+As of **2024-06-26 19:19:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,305
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,295 (100.0%) of 32,297 articles have been extended.
+32,297 (100.0%) of 32,297 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ State Minister of Finance Shehan Semasinghe also confirmed that Sri Lanka signed
 ...
 
 [Data](articles/323360c1.json)
+
+[Extended Data](ext_articles/323360c1.ext.json)
 
 ---
 
@@ -92,21 +94,27 @@ Meanwhile, she added that the US encourages Sri Lanka to continue the reform pro
 
 ---
 
-### කෝටි 18ක රත්තරන් ජෙල් සමග 6ක් අල්ලයි
+### 6 crores arrested with golden gel
 
 *2024-06-26 17:47:25* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-18ක-රත්තරන්-ජෙල්-සමග-6ක්-අල්ලයි/11-410454) · `si`
 
-රුපියල් කෝටි 18 ක් පමණ වටිනා රත්තරන් ජෙල් ගුලි වශයෙන් සකස් කර ඒවා තම සිරුරු තුළ සහ සිය  ගමන් මලු තුළ සගවා ගෙන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටි ශ්‍රී ලාංකිකයන් 06 දෙනෙකු ගුවන් තොටුපොළ රේගු නිලධාරීන් විසින් 06/25 දින අත් අඩංගුවට ගෙන තිබේ .
+Airport Customs officers have been arrested by the Airport Customs Officers at the Bandaranaike International Airport with Rs.
 
-කල්මුණේ , මූතූර් , කොළඹ - 10 , කළගෙඩිහේන් සහ මිනුවන්ගොඩ යන ප්‍රදේශ වල පදිංචි වයස අවුරුදු 30 ත් - 50 ත් අතර පසුවන , නිතර නිතර ගුවන් ගමන් වල නිරත වන පුද්ගලයන් හය දෙනෙකි .
+There are six people who are frequently engaged in flights, between 30 and 50 years of age, between 30 and 50 years of age.
 
-මොවුන් ඩුබායි සිට ඉන්දියාවේ චෙන්නායි නුවර වෙත පැමිණ එතැන් සිට 06/25 දින පස්වරු 01.20 ට ඉන්ඩිගෝ ගුවන් සේවයේ 6 ඊ - 1175 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+They came to the Katunayake Airport on 06/25 pm on 06/25 pm, from Dubai to Srinai, India.
 
-මෙම  පුද්ගලයන් ගුවන් තොටුපොළ රේගු නිලධාරීන් විසින් පරිලෝකන යන්ත්‍ර   (  Scan Test ) පරීක්ෂා කිරීම් වලට යොමු කිරීමෙන් පසුව අත් අඩංගුවට ගැනීම  සිදු කර තිබේ .
+The arrest has been made after the search machines (SCAN Test) tests of the airport customs.
 
-...
+Around 22 gulf of gold included in the ana and 632 gulf of gold and 632 gulf of gold was added to four gold leaves in the bodies of gold gel..
+
+The arrest and further investigations have been made by the Director of Customs and Customs Officers, Katunayake Airport and the Customs Officers, who are to be produced before the Negombo Magistrate's Court on 06/22.
+
+◼️
 
 [Data](articles/25e63fc9.json)
+
+[Extended Data](ext_articles/25e63fc9.ext.json)
 
 ---
 

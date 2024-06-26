@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 16:19:38**
+As of **2024-06-26 16:34:51**
 
 ## Newspaper Stats
 
-*Scraped **32,264** Articles*
+*Scraped **32,272** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,104 @@ economynextcom | 1,870
 dailyftlk | 1,976
 adalk | 2,847
 adaderanalk | 3,668
-tamilmirrorlk | 3,809
+tamilmirrorlk | 3,810
 dailymirrorlk | 4,733
-virakesarilk | 5,002
+virakesarilk | 5,009
 adaderanasinhalalk | 5,299
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,263 (100.0%) of 32,264 articles have been extended.
+32,264 (100.0%) of 32,272 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### රුපියල් කෝටි 18ක රත්‍රන් ජෙල්
+### யாழ். சாவகச்சேரியில் வீதியை புனரமைத்து தருமாறு கோரி ஆர்ப்பாட்டம்
+
+*2024-06-26 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187029) · `ta`
+
+யாழ்ப்பாணம் சாவகச்சேரி பிரதேச சபைக்குட்பட்ட மீசாலை வடக்கு தட்டாங்குளம் வீதியினை புனரமைத்து தருமாறு கோரி அப்பகுதி மக்கள் இன்று புதன்கிழமை (26) ஆர்ப்பாட்டத்தில் ஈடுபட்டடனர்.
+
+வடமாகாண ஆளுநர் செயலகத்திற்கு முன்பாக நடைபெற்ற இந்த ஆர்ப்பாட்டத்தில் குறித்த வீதியினை பயன்படுத்தும் 5 கிராமசேவகர் பிரிவுகளைச் சேர்ந்த மக்கள் கலந்துகொண்டிருந்தனர்.
+
+50 வருடங்களாக புனரமைக்கப்படாத இந்த வீதியால் சுமார் ஆயிரத்திற்கும் மேற்பட்ட மக்கள் பயன்படுத்துகின்ற போதிலும் மிக மோசமான நிலையில் வீதி பாதிக்கப்பட்டுள்ளதாக போராட்டக்காரர்கள் தெரவிக்கின்றனர்.
+
+ஆர்ப்பாட்டத்தின் இறுதியில் ஐவர் ஆளுனரின் செயலாளரை சந்தித்து ஆளுநரின் ஊடாக ஜனாதிபதிக்கான மகஜரை கையளித்தனர்.
+
+◼️
+
+[Data](articles/84261518.json)
+
+---
+
+### Rs. 18 crores gold gel
 
 *2024-06-26 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198182) · `si`
 
-රුපියල් කෝටි 18ක් පමණ වටිනා රත්‍රන් ජෙල්, ගුලි වශයෙන් සකස්කර ඒවා තම ගුද මාර්ගයේ සහ ගමන් මලු තුළ සඟවා ගෙන කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ සිටි ශ්‍රී ලාංකිකයන් 06 දෙනෙකු ගුවන්තොටුපොළ රේගු නිලධාරීන් ඊයේ (25) අත්අඩංගුවට ගෙන තිබේ.
+Suspects, linked to smuggling 18 crores worth of gold and 6 billion rupees, frequently traveled between Sri Lanka and India via Kalmunai, Muttur, Colombo-10, Kalagedihena, and Minuwangoda. They were intercepted in Chennai after passing through Dubai, arrested by airport customs during scanning tests.
 
-කල්මුණේ, මූතූර්, කොළඹ-10, කලගෙඩිහේන සහ මිනුවන්ගොඩ යන ප්‍රදේශ වල පදිංචි වයස අවුරුදු 30ත් 50ත් අතර පසුවන සැකකරුවන් නිතර නිතර ගුවන් ගමන්වල නිරත වන පුද්ගලයන් බව රේගුව පැවසීය.
+🟩
 
-මොවුන් ඩුබායි සිට ඉන්දියාවේ චෙන්නායි වෙත පැමිණ එතැන් කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ තිබුණි.
+6 billion rupees worth Rs.
 
-මෙම පුද්ගලයන් ගුවන්තොටුපොළ රේගු නිලධාරීන් විසින් පරිලෝකන යන්ත්‍ර (Scan Test) පරීක්ෂා කිරීම් වලට යොමු කිරීමෙන් පසුව අත්අඩංගුවට ගැනිණි.
+Customs said that the suspects were frequent frequent flights from Kalmunai, Muttur, Colombo-10, Kalagedihena and Minuwangoda.
+
+They had reached Chennai in Dubai to Chennai, India.
+
+These persons were arrested by airport customs to scanning machines (SCAN Test) tests.
 
 ◼️
 
 [Data](articles/515d388a.json)
+
+[Extended Data](ext_articles/515d388a.ext.json)
+
+---
+
+### கடன் மறுசீரமைப்புக்கு   இறுதி இணக்கப்பாடு
+
+*2024-06-26 15:56:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-மறுசீரமைப்புக்கு-இறுதி-இணக்கப்பாடு/175-339472) · `ta`
+
+இலங்கைக்கு கடன் வழங்கிய நாடுகளுடனான இருதரப்பு கடன் மறுசீரமைப்பு தொடர்பான இறுதி இணக்கப்பாடு எட்டப்பட்டுள்ளது.
+
+இலங்கையின் கடன் மறு சீரமைப்பு தொடர்பில் உத்தியோகபூர்வ கடன் வழங்குனர்களின் குழுவுடன் இணக்கப்பாட்டை ஏற்படுத்திக் கொண்டதாக நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க குறிப்பிட்டுள்ளார்.
+
+பிரான்ஸ் தலைநகர் பாரிசில் நடைபெற்ற 2024 ஆம் ஆண்டுக்கான பாரிஸ் கழக கூட்டத்தின் போது (PARIS Forum) இந்த இணக்கப்பாடு ஏற்படுத்திக்கொள்ளப்பட்டதாக ஷெஹான் சேமசிங்க  X பதிவில் குறிப்பிட்டுள்ளார்.
+
+இலங்கை மற்றும் சீனா இடையிலான இருதரப்பு கடன் மறுசீரமைப்பை ஏற்படுத்திக்கொள்ளவும் நடவடிக்கை எடுத்து வருவதாக இராஜாங்க அமைச்சர் கூறியுள்ளார்.
+
+கடன் மறுசீரமைப்பிற்கு ஒத்துழைப்பு வழங்கிய இந்தியா, ஜப்பான் சீனா உள்ளிட்ட நாடுகளுக்கு  அவர் நன்றி தெரிவித்துள்ளார்.
+
+இலங்கைய எதிர்நோக்கியுள்ள கடன் நெருக்கடிக்கு தீர்வு காண இது முக்கிய திருப்புமுனையாக அமையும் எனவும் இராஜாங்க அமைச்சர் சுட்டிக்காட்டியுள்ளார்.
+
+◼️
+
+[Data](articles/7d0597c3.json)
+
+---
+
+### கடன் மறுசீரமைப்பில் இறுதி உடன்பாடு எட்டப்பட்டது : சீனாவுடனும் எட்டப்படவுள்ளது - அமைச்சர் செஹான்
+
+*2024-06-26 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/187031) · `ta`
+
+இலங்கைக்கும் உத்தியோகபூர்வ கடன் வழங்கும் குழுவிற்கும் இடையில் கடன் மறுசீரமைப்பு தொடர்பான இறுதி உடன்பாடு எட்டப்பட்டுள்ளதாக நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+
+பிரான்ஸில் இடம்பெற்ற 2024 ஆம் ஆண்டுக்கான பாரிஸ் மாநாட்டின் ஓரங்கமாக இடம்பெற்ற நிகழ்வில் இந்த இறுதி முடிவு எட்டப்பட்டுள்ளது.
+
+இது தொடர்பில் நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தனது எக்ஸ் தளத்தில் மேலும் குறிப்பிட்டுள்ளதாவது,
+
+இலங்கைக்கும் உத்தியோகபூர்வ கடன் வழங்கும் குழுவிற்கும் இடையில் கடன் மறுசீரமைப்பு தொடர்பான இறுதி உடன்பாடு எட்டப்பட்டுள்ளது.
+
+இதேவேளை, இலங்கைக்கும் சீனாவின் ஏற்றுமதி இறக்குமதி வங்கிக்கும் இடையில் இருதரப்பு கடன் மறுசீரமைப்பில் உடன்பாடொன்று எட்டப்படவுள்ளது.
+
+உத்தியோகபூர்வ கடன் வழங்கும் குழுவில் உள்ள பிரான்ஸ், இந்தியா மற்றும் ஜப்பான் உள்ளிட்ட நாடுகளுக்கும் அத்துடன் சீனாவின் ஏற்றுமதி இறக்குமதி வங்கியானது இந்த செயல்பாட்டில் தலைமை தாங்கியதற்கு இலங்கை சார்பாக மனப்பூர்வமான நன்றிகளைத் தெரிவித்துக்கொள்கின்றோம் என்றும் அமைச்சர் செஹான் சேமசிங்க குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/79c95bc0.json)
 
 ---
 
@@ -160,6 +228,26 @@ Police had resorted to using tear gas and water cannons to disperse the proteste
 
 ---
 
+### சட்டத்தை அமுல்படுத்தும் அதிகாரிகள் தொடர்ந்தும் சித்திரவதைகளில் ஈடுபடுகின்றனர்  - சித்திரவதைக்குள்ளானவர்களிற்கு நீதி கிடைப்பதை உறுதி செய்வது எமது  கூட்டு பொறுப்பு - வாழ்வதற்கான உரிமை அமைப்பு
+
+*2024-06-26 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/187025) · `ta`
+
+சித்திரவதைக்குள்ளானவர்களிற்கு நீதி கிடைப்பதை உறுதி செய்வதும் எதிர்காலத்தில் இவ்வாறான கொடுரமான செயல்கள் தடுக்கப்படுவதை உறுதி செய்வதும்  நமது கூட்டு பொறுப்பாகும் என வாழ்வதற்கான உரிமை அமைப்பு right to life srilanka தெரிவித்துள்ளது.
+
+சித்திரவதையால் பாதிக்கப்பட்டவர்களிற்கான சர்வதேச ஆதரவு தினமான இன்று இது குறித்து விடுத்துள்ள அறிக்கையிலேயே  வாழ்வதற்கான உரிமை அமைப்பு இதனை தெரிவித்துள்ளது
+
+சித்திரவதையால் பாதிக்கப்பட்டவர்களிற்கான சர்வதேச ஆதரவு தினம் இன்று கடைப்பிடிக்கப்படுகின்ற நிலையில் இலங்கையில் சித்திரவதைகளிற்கு எதிரான சட்டங்கள் விதிமுறைகளை பயனளிக்க கூடிய விதத்தில் நடைமுறைப்படுத்தவேண்டியதன் அவசியத்தை வலியுறுத்தவேண்டியது கட்டாயமாகின்றது.
+
+மாத்தறை நீதிமன்றம் வழங்கியுள்ள வரலாற்று முக்கியத்துவம் வாய்ந்த சமீபத்தைய தீர்ப்பு இதற்கான தேவையை வெளிப்படுத்தியுள்ளது.
+
+திஸ்ஸமஹராம பொலிஸ் நிலைய பொறுப்பதிகாரி உட்பட மூவருக்கு எதிராக நீதிமன்றம் தண்டனை வழங்கியுள்ளது.2003 இல் ஐவரை கடத்தி சித்திரவதை செய்தமைக்காக இவர்களிற்கு எதிராக ஏழு வருட சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/ca0eedc0.json)
+
+---
+
 ### Teacher-Principal strike tomorrow
 
 *2024-06-26 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198179) · `si`
@@ -244,6 +332,54 @@ The agreement provides significant debt relief to Sri Lanka and will be able to 
 
 ---
 
+### கொழும்பில் அதிபர்கள், ஆசிரியர்கள் மீது நீர்த்தாரை, கண்ணீர் புகை வீச்சு !
+
+*2024-06-26 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187021) · `ta`
+
+கொழும்பு லோட்டஸ் சுற்றுவட்டத்திற்கு அருகில் போராட்டத்தில்  ஈடுபட்ட  அதிபர்கள் மற்றும் ஆசிரியர்கள் சங்க உறுப்பினர்கள் மீது பொலிஸார் கண்ணீர்ப்புகை மற்றும் நீர்த்தாரை பிரயோகம் செய்துள்ளனர்.
+
+நாடளாவிய ரீதியில் அதிபர்கள், ஆசிரியர்கள் மற்றும் ஆசிரிய ஆலோசகர்கள்  இன்று புதன்கிழமை (26) சுகயீன விடுமுறை போராட்டத்தை முன்னெடுத்துள்ளனர்.
+
+இந்நிலையில்,  அதிபர்கள், ஆசிரியர்கள் மற்றும் ஆசிரிய ஆலோசகர்களின் பங்குபற்றுதலுடன் இன்று முற்பகல் 11 மணிக்கு கோட்டை ரயில் நிலையத்திற்கு முன்பாக கவனயீர்ப்பு போராட்டமொன்று முன்னெடுக்கடுக்கப்பட்டது.
+
+இந்த கவனயீர்ப்பு போராட்டத்தைக் கலைப்பதற்காக பொலிஸார் போராட்டத்தில் ஈடுபட்ட அதிபர்கள், ஆசிரியர்கள் மீது கண்ணீர்ப்புகை மற்றும் நீர்த்தாரைப் பிரயோகத்தை மேற்கொண்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/9ae928cd.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-06-26 14:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/187023) · `ta`
+
+இன்று புதன்கிழமை (ஜூன் 26) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 300.5260 ஆகவும் கொள்வனவு விலை ரூபா 309.7877 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/243d8be4.json)
+
+---
+
+### அவுஸ்திரேலிய திரும்புகின்றார் ஜூலியன் அசஞ்சே
+
+*2024-06-26 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/187020) · `ta`
+
+விக்கிலீக்ஸ் ஸதாபகர்களில் ஒருவரான ஜூலியன் அசஞ்சே நாடு திரும்பவுள்ளமை குறித்து அவுஸ்திரேலிய பிரதமர் அன்டனி அல்பெனிஸ் மகிழ்ச்சி வெளியிட்டுள்ளார்.
+
+நாடாளுமன்றத்தில் ஆற்றிய உரையில் இதனை தெரிவித்துள்ள அவர் தனது குடும்பத்தினருடன் இணைவதற்காக அவர் அவுஸ்திரேலியா நோக்கி வந்துகொண்டிருக்கின்றார் என்பது குறித்து மகிழ்ச்சியடைகின்றேன் என குறிப்பிட்டுள்ளார்.
+
+அவரது நடவடிக்கைகள் பற்றிபல கருத்துக்கள் இருக்கலாம் ஆனால் அவரது விவகாரம் நீண்டநாட்கள் நீடித்துள்ளது என அவுஸ்திரேலிய பிரதமர் தெரிவித்துள்ளார்.
+
+அவரை தொடர்ந்து தடுத்துவைப்பதால் எந்த பலனும் கிடைக்கப்போவதில்லை என நான் தொடர்ச்சியாக தெரிவித்துவந்துள்ளேன்இநாங்கள் பதவியேற்ற பின்னர்  கடந்த இரண்டு வருடங்களாக எங்கள் அரசாங்கம் இந்த விடயத்திற்கு தீர்வை காண்பதற்காக பல மட்டங்களில் பேச்சுவார்த்தைகளை மேற்கொண்டது என அவுஸ்திரேலிய பிரதமர் தெரிவித்துள்ளார்.உரிய வழிமுறைகள் அனைத்தையும் பயன்படுத்தினோம் என அவர் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/95bd1345.json)
+
+---
+
 ### WikiLeaks founder Julian Assange heads to Australia after US guilty plea
 
 *2024-06-26 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100111/wikileaks-founder-julian-assange-heads-to-australia-after-us-guilty-plea) · `en`
@@ -261,6 +397,34 @@ During the three-hour hearing, Assange pleaded guilty to one criminal count of c
 [Data](articles/38a1e25d.json)
 
 [Extended Data](ext_articles/38a1e25d.ext.json)
+
+---
+
+### We will not forget the devastation, the death of the land and the loss of the land - we can only establish justice in the International Criminal Court.
+
+*2024-06-26 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/187011) · `ta`
+
+Umakumaran, representing the UK's Labor Party, emphasizes the importance of establishing justice through the International Criminal Court (ICC), highlighting the lack of accountability for war crimes in Sri Lanka prior to May 2009. He criticizes the ICC's absence in Sri Lanka and calls for stronger international efforts to address the suffering of Tamils, including sexual violence and displacement. Umakumaran urges the Labor Party to continue advocating for Tamil justice, appealing to the UK's Foreign Minister to support UN recommendations and prioritize international law.
+
+🟩
+
+Umakumaran, who is contesting on behalf of the Labor Party in the upcoming elections in the UK, said that justice can only be established by the United Nations Security Council to approve Sri Lanka in the International Criminal Court.
+
+In an interview with the Tamil Guardian, he said, "We must strengthen our requests for justice on the world stage- we will not forget the devastation, the loss of land and the loss of land.
+
+He said that no one has been held accountable for war crimes before May 2009 and May 2009, he said.
+
+We will never forget the devastation and the loss of the land, and we will never forget the sexual violence that the Tamil men and women have faced with the fact that thousands of people have been in the sand in the sand, and the deliberate bullets of the hospitals and the Red Cross, the high security zones.
+
+He then grows up without families, and men, women and children are living with war -torn injuries.
+
+I don't want to recall this in so much but we need to know our history.
+
+...
+
+[Data](articles/2d291bba.json)
+
+[Extended Data](ext_articles/2d291bba.ext.json)
 
 ---
 
@@ -425,6 +589,24 @@ Teachers and Principals' Association members have been using tear gas and waterp
 [Data](articles/45dae9ed.json)
 
 [Extended Data](ext_articles/45dae9ed.ext.json)
+
+---
+
+### ரஸ்ய அதிகாரிகளிற்கு எதிராக சர்வதேச நீதிமன்றம் பிடியாணை- உக்ரைனில் யுத்த குற்றங்களில் ஈடுபட்டதாக குற்றச்சாட்டு
+
+*2024-06-26 13:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/186999) · `ta`
+
+உக்ரைனில் இடம்பெற்ற யுத்த குற்றங்களிற்காக ரஸ்யாவின் முன்னாள் பாதுகாப்பு அமைச்சர் தற்போதைய  இராணுவபிரதானிக்கு எதிராக சர்வதேச குற்றவியல் நீதிமன்றம் பிடியாணையை பிறப்பித்துள்ளது.
+
+உக்ரைன் மீதான ரஸ்யாவின் படையெடுப்பின் போது உக்ரைனின் சிவில் உட்கட்டமைப்பு மற்றும் மின்நிலையங்கள் மீது மேற்கொள்ளப்பட்ட தாக்குதலிற்காகவே ரஸ்ய அதிகாரிகளிற்கு எதிராக சர்வதேச நீதிமன்றம் பிடியாணை பிறப்பித்துள்ளது.
+
+முன்னாள் பாதுகாப்பு அமைச்சர் சேர்ஜிசொய்குவும்  மற்றும் பாதுகாப்பு பிரதானி வலெரி ஜெராசிமோவும் பொதுமக்கள் இலக்குகளை தாக்கியமை ,பொதுமக்களிற்கு கடும் பாதிப்புகளை ஏற்படுத்தியமை ,சேதப்படுத்தியமை மூலம் யுத்த குற்றங்களில் ஈடுபட்டனர் என ஐசிசி தெரிவித்துள்ளது.
+
+ஹேக்நீதிமன்றம் அவர்களிற்கு எதிராக பிடியாணை பிறப்பித்துள்ள போதிலும் அவர்கள் ரஸ்யாவில் இருப்பதால் கைதுசெய்யப்படுவதற்கான சாத்தியக்கூறுகள் குறைவாக உள்ளன. ரஸ்யா ரோம்பிரகடனத்தில் கைச்சாத்திடவில்லை என  கார்டியன் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/1ab95c1b.json)
 
 ---
 
@@ -607,34 +789,6 @@ At the same time, a similar incident took place in Chavakachcheri a year ago and
 [Data](articles/dac3e472.json)
 
 [Extended Data](ext_articles/dac3e472.ext.json)
-
----
-
-### We will not forget the devastation, the death of the land and the loss of the land - we can only establish justice in the International Criminal Court.
-
-*2024-06-26 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/187011) · `ta`
-
-Umakumaran, representing the UK's Labor Party, emphasizes the importance of establishing justice through the International Criminal Court (ICC), highlighting the lack of accountability for war crimes in Sri Lanka prior to May 2009. He criticizes the ICC's absence in Sri Lanka and calls for stronger international efforts to address the suffering of Tamils, including sexual violence and displacement. Umakumaran urges the Labor Party to continue advocating for Tamil justice, appealing to the UK's Foreign Minister to support UN recommendations and prioritize international law.
-
-🟩
-
-Umakumaran, who is contesting on behalf of the Labor Party in the upcoming elections in the UK, said that justice can only be established by the United Nations Security Council to approve Sri Lanka in the International Criminal Court.
-
-In an interview with the Tamil Guardian, he said, "We must strengthen our requests for justice on the world stage- we will not forget the devastation, the loss of land and the loss of land.
-
-He said that no one has been held accountable for war crimes before May 2009 and May 2009, he said.
-
-We will never forget the devastation and the loss of the land, and we will never forget the sexual violence that the Tamil men and women have faced with the fact that thousands of people have been in the sand in the sand, and the deliberate bullets of the hospitals and the Red Cross, the high security zones.
-
-He then grows up without families, and men, women and children are living with war -torn injuries.
-
-I don't want to recall this in so much but we need to know our history.
-
-...
-
-[Data](articles/2d291bba.json)
-
-[Extended Data](ext_articles/2d291bba.ext.json)
 
 ---
 
@@ -2125,193 +2279,5 @@ The Bora Spiritual Conference parallel with the spiritual conference of the Bora
 [Data](articles/f7a1480a.json)
 
 [Extended Data](ext_articles/f7a1480a.ext.json)
-
----
-
-### Model Debt Relief Agreement Today
-
-*2024-06-26 01:59:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-மறுசீரமைப்பு-உடன்படிக்கை-இன்று/175-339435) · `ta`
-
-President Wickremesinghe announced a bilateral credit reconstruction agreement would be signed today, as Cabinet ministers were briefed on debt restructuring details. The Sri Lankan delegation, including finance ministry officials, met with Paris Corporation representatives for the signing.
-
-🟩
-
-President Ranil Wickremesinghe has announced to the Cabinet that the agreement on bilateral credit reconstruction will be signed today.
-
-Cabinet spokesman and Minister Bandula Gunawardena explained this yesterday. As he further stated,
-
-A detailed explanation of debt restructuring was presented by the President in the Cabinet. He said that the Sri Lankan representative team, including the Secretary of the Finance Ministry and the Chief Ministers of the Treasury, had been sent to meet the officials of the Paris Corporation to sign the agreement today.. (A)
-
-◼️
-
-[Data](articles/5956589e.json)
-
-[Extended Data](ext_articles/5956589e.ext.json)
-
----
-
-### Intervention in Judicial Affairs
-
-*2024-06-26 01:53:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதித்துறை-விவகாரங்களில்-தலையீடு/175-339434) · `ta`
-
-The Sri Lanka Bar Association warns MPs against meddling in judicial matters, citing threats to public trust in the judiciary. The association emphasizes its commitment to safeguarding judicial independence and supports a strong, impartial judiciary. It advocates for thorough, unbiased investigations into any judicial misconduct allegations before taking action.
-
-🟩
-
-The Sri Lanka Bar Association has urged MPs to avoid interfering with the affairs of the Justice Department and the Judicial Services Commission under the guise of Parliamentary Privacy.
-
-In a statement issued by the Sri Lanka Lawyers Association, such actions have been a serious consequences such as violating public confidence in the judiciary.
-
-The Sri Lanka Lawyers Association has urged that it is dedicated to protect the judiciary's independence and the law.
-
-In a statement issued by their statement, they supported the independent and bold judiciary and that it was necessary to protect the legislature.
-
-It also stated that if any allegations are made against a judicial officer, it should first investigate it without prejudice.. (A)
-
-◼️
-
-[Data](articles/c51641e9.json)
-
-[Extended Data](ext_articles/c51641e9.ext.json)
-
----
-
-### Trying to disrupt the project
-
-*2024-06-26 01:14:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உறுமய-திட்டத்தை-சீர்குலைக்க-முயற்சி/175-339433) · `ta`
-
-President Ranil Wickremesinghe addressed concerns over the Urumaya permanent land guarantee program, highlighting both dedication from state officials and attempts to destabilize it. In the Ampara District, 1,768 individuals received land under the scheme, despite opposition from some officials. Government efforts to reclaim lands and address misinformation are ongoing, with calls for MPs to investigate allegations against certain officials.
-
-🟩
-
-President Ranil Wickremesinghe said that while many of the state officials are dedicated to the Urumaya permanent land guarantee program, some people are trying to destabilize it and provide information on such officials.
-
-A total of 1768 people in the 17 Divisional Secretariat Divisions of the Ampara District were held at the Weerasinghe Stadium in Ampara under the National Scheme to provide 20 lakhs of land.
-
-Government officials are working hard to win the project. Many are supporting this. But there are also information about a group of officials who scare people. The government can recover these lands. So they are questioning why you are taking these land guarantees. But once again, if you ask someone to question, I ask you to inform your area MP for information about those officers.. I ask the MPs to investigate the authorities and tell me the facts.
-
-...
-
-[Data](articles/73f61585.json)
-
-[Extended Data](ext_articles/73f61585.ext.json)
-
----
-
-### Details of 5 teams participating in the Lanka Premier League
-
-*2024-06-26 01:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/186978) · `ta`
-
-The Lanka Premier League (LPL) features five teams from Colombo, Kandy, Jaffna, Galle, and Dambulla. This year marks the fifth edition of the tournament organized by Sri Lanka Cricket.
-
-🟩
-
-Sri Lanka Cricket has released details of 5 teams participating in the Fifth Lanka Premier League (LPL) organized by Sri Lanka Cricket.
-
-This year's competition will play five teams representing Colombo, Kandy, Jaffna, Galle and Dambulla.
-
-◼️
-
-[Data](articles/e1c541d5.json)
-
-[Extended Data](ext_articles/e1c541d5.ext.json)
-
----
-
-### Strong First National Conversation on Fair Taxation and Sustainable Development Goals
-
-*2024-06-26 00:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/186976) · `ta`
-
-The inaugural national conversation on fair taxation and sustainable development goals in Sri Lanka, organized by the UNDP and government departments, aimed to address contemporary taxation and financial policy challenges. It focused on economic reforms, public opinion, transparency, company income, and digitalizing public services. The event highlighted the importance of aligning tax structures with sustainable development goals, emphasizing the need for resource optimization and citizen participation for effective socio-economic progress.
-
-🟩
-
-The United Nations Development Program in Sri Lanka (UNDP), along with the Department of Finance, the Department of Home Affairs, the University of Moratuwa and the National Innovation Agency of Sri Lanka, held the first meeting on the national tax to solve the contemporary issues on taxation and financial policies found in the country.
-
-Finance Minister Shehan Semasinghe and UNDP Resident Representative for Sri Lanka Azusa Kubota were also present at the event.
-
-The national discussion was based on the need to reveal the current economic reforms and the thoughts of the public. The purpose of the line, social or financial contract, honesty in taxation, transparency and income of companies, and digitalization of public service.
-
-...
-
-[Data](articles/b0322e5a.json)
-
-[Extended Data](ext_articles/b0322e5a.ext.json)
-
----
-
-### Women's R20 Asian Bowl Cricket in Dambulla: Sri Sri Lanka
-
-*2024-06-26 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/186977) · `ta`
-
-The Women's R20 Asian Cup starts next month in Dambulla, featuring teams from Asia. The tournament aims to prepare participants for the Women's T20 World Cup, with matches scheduled between July 26th and 28th.
-
-🟩
-
-A schedule for the women's R20 Asian Cup will be released next month at the Rangiri, Dambulla International Cricket Hall.
-
-The A group includes India, Pakistan, the United Arab Emirates and Nepal and the B group is Bangladesh, Sri Lanka, Malaysia and Thailand.
-
-The semi -finals will be held on July 26 and the final will be held on July 28.
-
-The Women's T20 Asian Bowl will be a competition to prepare themselves before the Women's T20 World Cup in Bangladesh.
-
-◼️
-
-[Data](articles/0273a672.json)
-
-[Extended Data](ext_articles/0273a672.ext.json)
-
----
-
-### 2024-06-25 (Tuesday)
-
-### Sri Lanka arrived in Sri Lanka as a two -day visit "Sachet"
-
-*2024-06-25 23:30:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-நாள்-விஜயமாக-இலங்கை-வந்தது-சச்செட்/175-339432) · `ta`
-
-During a two-day visit, the Indian Coast Guard presented a $1.2 million gift of spare parts to the Sri Lankan coastal police vessel, Suraksha. This gesture, involving high-ranking officials from both nations, underscores India's commitment to enhancing maritime security in the region through mutual cooperation.
-
-🟩
-
-Sri Lanka Coastal Police Ship
-
-The Patrol Ship on the Coastal Police for giving a gift of US $ 1.2 million worth of spare parts for the Sri Lankan coastal police vessel, Suraksha.
-
-As a part of the ship's Commanding Officer, R. Rajesh Nambiraj TM, the Western Western Regional Commander Rear Admiral TSK Perera and the Director General of the Sri Lanka Coast Guard, Rear Admiral Poojitha Vidhana.
-
-௨. At an event held as part of the visit, the Indian Coast Guard was officially handed over to the Sri Lankan Coast Guard, Suraksha, the Sri Lanka Coast Guard, Suraksha.. At the event
-
-Sri Lanka's High Commissioner of India, Hon. Santosh Ja, Sri Lanka's Defense Secretary General Kamal Gunaratne (Retired), Navy Commander Vice Admiral Priyantha Perera, Western Regional Navy Commander Rear Admiral TSK Perera
-
-Senior officials of the Sri Lanka Coastal Police Force were also in the limelight. The ship left on June 21, 2024.
-
-...
-
-[Data](articles/dd307911.json)
-
-[Extended Data](ext_articles/dd307911.ext.json)
-
----
-
-### State Minister Semasinghe meets CEO of Saudi Fund for Development
-
-*2024-06-25 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100100/state-minister-semasinghe-meets-ceo-of-saudi-fund-for-development) · `en`
-
-Sri Lanka’s State Minister of Finance Shehan Semasinghe has met with Sultan Abdulrahman Al-Marshad, the Chief Executive Officer of the Saudi Fund for Development (SFD), on the sidelines of the OPEC Fund Development Forum in Vienna, Austria.
-
-In a post on ‘X’ (formerly Twitter), he said the discussion centered on strengthening partnerships, focusing on economic support and new development initiatives to bolster Sri Lanka’s economy.
-
-The Saudi Fund for Development is a Saudi Arabian government agency that provides development assistance to developing countries by financing social and infrastructure projects.
-
-State Minister Semasinghe said he also had a meeting with Waleed Sh. A. Albahar, the acting Director General of the Kuwait Fund for Arab and economic Development (KFAED), on the sidelines of the forum.
-
-“We discussed the progress of the economy and strengthening our partnership,” he tweeted.
-
-...
-
-[Data](articles/685dc23e.json)
-
-[Extended Data](ext_articles/685dc23e.ext.json)
 
 ---

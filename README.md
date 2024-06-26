@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 23:19:27**
+As of **2024-06-26 23:34:57**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ adaderanasinhalalk | 5,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,329 (100.0%) of 32,330 articles have been extended.
+32,330 (100.0%) of 32,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### கடவுச்சீட்டு வைத்திருப்போருக்கு முக்கிய அறிவிப்பு
+### Major notice for passport holders
 
 *2024-06-26 23:00:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டு-வைத்திருப்போருக்கு-முக்கிய-அறிவிப்பு/175-339500) · `ta`
 
-ஜூலை முதலாம் திகதியில் இருந்து காலாவதியாகும் வெளிநாட்டு கடவுச்சீட்டுகளின் காலத்தை ஒரு வருடத்தால் நீடிப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+It has been decided to extend the period of foreign passports that will expire from July 1.
 
-(ஈ பாஸ்போட்) இலத்திரனியல் கடவுச்சீட்டு பெற்றுக்கொடுக்கும் நோக்கில் இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக குடிவரவு குடியகல்வு கட்டுப்பாட்டாளர் நாயகம் ஹர்ஷ இலுக்பிடிய தெரிவித்துள்ளார்.
+The decision has been taken for the purpose of obtaining an electronic passport, said Harsha Ilukpitiya, Controller of Immigration and Emigration.
 
-ஏதாவது வெளிநாட்டு பயணச்சீட்டு ஒன்று செல்லுபடியாகும் 10 வருட கால எல்லையை தாண்டிய பின்னர் அதற்கு மேலும் ஒரு வருட காலம் வழங்குவது இலத்திரனியல் கடவுச்சீட்டு விநியோகிக்கும் வரை மாத்திரமாகும் எனவும் கட்டுப்பாட்டாளர் நாயகம் தெரிவித்துள்ளார்.
+The Controller General said that after a valid 10 -year -old border, a further one -year period is to be issued by an electronic passport.
 
-மேலும் எதிர்வரும் நவம்பர் மாதத்தில் இருந்து இலத்திரனியல் கடவுச்சீட்டு விநியோகம் ஆரம்பிக்கப்படுவதுடன் சாதாரண வெளிநாட்டு கடவுச்சீட்டு உடையவர்கள் விரைவாக இலத்திரனியல் கடவுச்சீட்டை பெற்றுக்கொள்ளுமாறு குடிவரவு குடியகல்வு திணைக்களம் கேட்டுக்கொள்கிறது.  R
+The Department of Immigration and Emigration is requested that the Electronic Passport distribution will be launched from November and that the ordinary foreign passports will quickly obtain the electronic passport.R
 
 ◼️
 
 [Data](articles/85cebd81.json)
+
+[Extended Data](ext_articles/85cebd81.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 12:19:31**
+As of **2024-06-26 12:34:40**
 
 ## Newspaper Stats
 
-*Scraped **32,217** Articles*
+*Scraped **32,218** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,790
 economynextcom | 1,870
 dailyftlk | 1,976
 adalk | 2,838
-adaderanalk | 3,660
+adaderanalk | 3,661
 tamilmirrorlk | 3,800
 dailymirrorlk | 4,733
 virakesarilk | 4,994
@@ -26,11 +26,23 @@ adaderanasinhalalk | 5,286
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,217 (100.0%) of 32,217 articles have been extended.
+32,217 (100.0%) of 32,218 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### Road opposite Fort Railway Station blocked due to protest
+
+*2024-06-26 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100108/road-opposite-fort-railway-station-blocked-duetoprotest) · `en`
+
+The road in front of the Colombo Fort Railway Station has been blocked for traffic due to a protest march, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/b2497b38.json)
+
+---
 
 ### Colombo-box bloom
 
@@ -2275,27 +2287,5 @@ Putin was sworn in as the President of Russia for the fifth consecutive year in 
 [Data](articles/20f9768f.json)
 
 [Extended Data](ext_articles/20f9768f.ext.json)
-
----
-
-### Authorization to introduce digital technology in the segregate education system
-
-*2024-06-25 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/186958) · `ta`
-
-The Ministries of Technology and Education plan to enhance the Division Education sector through digital technology integration. This initiative aims to utilize tech for exploring and analyzing Sri Lanka's national Buddhist heritage, benefiting teachers and students across various sects. The Cabinet has endorsed this proposal, ensuring the provision of essential digital tools like computers, smart screens, and printers.
-
-🟩
-
-The Ministry of Technology and the Ministry of Education is planning to carry out programs to strengthen the Division Education by introducing digital technology in the sectarian education system.
-
-It will use digital technology to explore and analyze the national Buddhist heritage of Sri Lanka for teachers and Bigu students and other students in the sect.
-
-Accordingly, the Cabinet has approved the proposal submitted by the President and Education Minister Susil Prema Jayantha as the Minister of Technology to implement the proposed program in order to provide at least two computers, smart screen and print machines.
-
-◼️
-
-[Data](articles/3c270c98.json)
-
-[Extended Data](ext_articles/3c270c98.ext.json)
 
 ---

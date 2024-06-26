@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 05:04:40**
+As of **2024-06-27 05:19:25**
 
 ## Newspaper Stats
 
-*Scraped **32,362** Articles*
+*Scraped **32,363** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,40 +19,60 @@ adalk | 2,862
 adaderanalk | 3,681
 tamilmirrorlk | 3,821
 dailymirrorlk | 4,733
-virakesarilk | 5,022
+virakesarilk | 5,023
 adaderanasinhalalk | 5,310
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,360 (100.0%) of 32,362 articles have been extended.
+32,362 (100.0%) of 32,363 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### LPL  இலச்சினைகள், போட்டி அட்டவணை வெயிடப்பட்டன
+### தமிழ் மக்களுக்கு சமஸ்டித் தீர்வுக்கான ஆதரவை வெளிப்படுத்தவேண்டும் என  Lesley Craig  அம்மையாரிடம்  எம்.பி. எஸ்.கஜேந்திரன் வலியுறுத்தல்
+
+*2024-06-27 04:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187063) · `ta`
+
+தமிழ் மக்கள் ஒற்றையாட்சிக்குட்பட்ட எந்தவொரு தீர்வையும் நிராகரிப்பதுடன்,  தமிழர்தேசத்தை அங்கீகரித்து தமிழர்கள் ஒருபோதும் இழக்கமுடியாத சுயநிர்ணய உரிமையை, அனுபவிக்கக் கூடியதுமான ஒரு சமஸ்டித் தீர்வுக்கான ஆதரவை வெளிப்படுத்தவேண்டும் என பொதுநலவாய அமைப்பின் தென் ஆசிய பகுதிக்குப் பொறுப்பதிகாரியான  Lesley Craig  அம்மையார் மற்றும் கொழும்பிலுள்ள பிரித்தானியத் தூதுவர் ஆகியோரிடம் வலியுறுத்தியுள்ளதாக தமிழ்த் தேசிய மக்கள் முன்னணியின் பொதுச் செயலாளரும் பா.உறுப்பினருமான செல்வராசா கஜேந்திரன் தெரிவித்தார்.
+
+யாழ்ப்பாணம் நகரிலுள்ள ஜெற்விங் (Jetwing)   விடுதியில் பொதுநலவாய அமைப்பின் தென் ஆசியப் பகுதிக்குப் பொறுப்பதிகாரியான   Lesley Craig  அம்மையார் மற்றும் கொழும்பிலுள்ள பிரித்தானியத் தூதுவர் ஆகியோருக்கும் தமிழ்த் தேசிய மக்கள் முன்னணியின் செல்வராசா கஜேந்திரன் ஆகியோருக்குமிடையில் செவ்வாய்க்கிழமை (25) இரவு இடம்பெற்ற சந்திப்பின் போது இவ்வாறு வலியுறுத்தியுள்ளதாக அவர் தெரிவித்தார்
+
+...
+
+[Data](articles/027c58ea.json)
+
+---
+
+### LPL logo, competition table was ranged
 
 *2024-06-27 04:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/187062) · `ta`
 
-ஸ்ரீலங்கா கிரிக்கெட்டினால் ஏற்பாடு செய்யப்பட்டுள்ள   ஐந்தாவது லங்கா பிறீமியர் லீக் அத்தியாயத்திற்கான இலச்சினை, அணிகளின் இலச்சினைகள், போட்டி அட்டவணை ஆகியவற்றை ஸ்ரீலங்கா கிரிக்கெட் இன்று வெளியிட்டது.
+The Lanka Premier League (LPL) announced its fifth season, featuring teams like Leica Jevna Kings, Goal Mawels, Dambulla Sixes, Kalambo Strikes, and Kandy Belgons. The tournament starts on July 1st with a match between Goal Mawels and Kandy Belgons at Pallekele. Each team faces off twice in two phases, with 20 matches including finals at Pallekele and Premadasa Stadiums, concluding on July 23rd.
 
-நடப்பு சம்பியன் பிலவ் கண்டி அணியின் உரிமைத்துவம் ஒப்பந்த விதிகளை மீறியதால் அதன் உரிமையாளர்கள் மாற்றப்பட்டு அணியின் பெயரும் கண்டி பெல்கன்ஸ் என மாற்றப்பட்டுள்ளது.
+🟩
 
-இம்முறை லைக்கா ஜெவ்னா கிங்ஸ், கோல் மாவல்ஸ், தம்புள்ள சிக்சஸ், கலம்போ ஸ்ட்ரைக்கஸ், கண்டி பெல்கன்ஸ் ஆகிய அணிகள் பங்குபற்று
+Sri Lanka Cricket today released the number of teams, teams and competition schedules for the fifth Lanka Premier League chapter organized by Sri Lanka Cricket.
 
-ஐந்தாவது லங்கா பிறீமியர் லீக் அத்தியாயம் கோல் மாவல்ஸ் அணிக்கும்   கண்டி பெல்கன்ஸ் அணிக்கும் இடையில் பல்லேகலையில் ஜூலை 1ஆம் திகதி நடைபெறும் போட்டியுடன் ஆரம்பமாகிறது.
+The owners of the current Champions Bilav Kandy Kandy team have been changed to its owners and the name of the team has been changed to Kandy Belgons.
 
-இரண்டு கட்டங்களாக நடத்தப்படும் இப் போட்டியில் ஒவ்வொரு அணியும் ஒன்றையொன்று இரண்டு தடவைகள் எதிர்த்தாடும்.
+This time Leica Jevna Kings, Goal Mawels, Dambulla Sixes, Kalambo Strikes and Kandy Belgons participate
 
-கண்டி பல்லேகலையில் 5 போட்டிகள் நடத்தப்படும். ஏனைய 15 போட்டிகளும் இறுதிச் சுற்றில் 4 போட்டிகளும் கொழும்பு ஆர். பிரேமதாச விளையாட்டரங்கில் நடைபெறும்.
+The Fifth Lanka Premier League Chapter begins with the match between the Goal Mawels and the Kandy Belgons team in Pallekele on July 1.
 
-இறுதிப் போட்டி ஜூலை 22ஆம் திகதி நடைபெறுவதுடன் 23ஆம் திகதி இருப்பு நாளாக ஒதுக்கப்பட்டுள்ளது.
+In the two phases, each team will oppose each other twice.
+
+Five matches will be held at Pallekelle Kandy. The other 15 matches and 4 matches in the final round. The Premadasa Stadium will be held.
+
+The final will be held on July 22 and the 23rd is reserved for the 23rd.
 
 ◼️
 
 [Data](articles/9d655e47.json)
+
+[Extended Data](ext_articles/9d655e47.ext.json)
 
 ---
 
@@ -170,21 +190,31 @@ The proposal to this effect submitted by the Justice, Prison Affairs and Constit
 
 ---
 
-### ரி20 உலகக் கிண்ண இறுதிப் போட்டிக்கு செல்லப் போகும் புதிய அணி தென் ஆபிரிக்காவா? ஆப்கானிஸ்தானா?
+### Is South Africa to go to the R20 World Cup final?Afghanistan?
 
 *2024-06-27 01:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/187061) · `ta`
 
-17 வருட ரி20 உலகக் கிண்ண வரலாற்றில் இறுதிப் போட்டியில் விளையாட தகுதிபெறப்போகும் புதிய அணி எது என்பதைத் தீர்மானிக்கும் தென் ஆபிரிக்காவுக்கும் ஆப்கானிஸ்தானுக்கும் இடையிலான முதலாவது அரை இறுதிப் போட்டி ட்ரினிடாட், டரூபா ப்றயன் லாரா விளையாட்டரங்கில் இலங்கை நேரப்படி வியாழக்கிழமை (27) காலை 6.00 மணிக்கு ஆரம்பமாகவுள்ளது.
+In the R20 World Cup semi-final, South Africa faces Afghanistan, aiming to break its losing streak in such matches. Despite being labeled as the "Unlucky Team," South Africa has dominated in group stages but faltered in finals. Afghanistan, on the rise in international cricket, reached the semis after impressive performances against high-ranked teams. Both sides boast strong batters and bowlers, with key players from each team set to influence the outcome. The match, held at the Trinidad, Turupa Brayan Lara Stadium, promises to be closely contested, with the toss potentially playing a crucial role.
 
-அதேவேளை, இருவகை உலகக் கிண்ண அரை இறுதிகளில் 7 தடவைகள் தோல்வி அடைந்ததன் காரணமாக துரதிர்ஷ்ட அணி என்ற முத்திரை குத்தப்பட்டுள்ள தென் ஆபிரிக்காவுக்கு எட்டாவது தடவையாக அதிர்ஷ்டம் கிட்டுமா? அல்லது முதல் தடவையாக அரை இறுதியில் விளையாடும் ஆப்கானிஸ்தானுக்கு அதிர்ஷ்டம் கைகொடுக்குமா? என்பதற்கான விடை வியாழக்கிழமை (27) கிடைக்கவுள்ளது.
+🟩
 
-ரி20 உலகக் கிண்ண அரை இறுதியை நோக்கிய ஆப்கானிஸ்தானின் பயணம் தடுமாற்றத்துக்கு மத்தியிலும் அற்புதமாக இருந்தது எனக் கூறலாம்.
+The first semi -final between South Africa and Afghanistan will begin at 6.00 am at the Trinidad, Turupa Brayan Lara Stadium on Thursday (27).
 
-கடந்த சில வருடங்களாக ரி20 கிரிக்கெட்டில் வெகுவாக முன்னேறிவந்துள்ள ஆப்கானிஸ்தான் இம்முறை தரவரிசையில் உயரிய நிலையில் இருந்த நியூஸிலாந்தையும் அவுஸ்திரேலியாவையும் வெற்றிகொண்டே அரை இறுதிக்கு முன்னேறியது.
+At the same time, South Africa, who has been branded the Unfortunate Team for the eighth time, has been lucky for the loss of the two -World Cup semi -finals 7 times?Or will Afghanistan have a fortune for the first time?The answer is available on Thursday (27).
+
+Afghanistan's journey towards the semi -finals of the R20 World Cup was wonderful despite the stumbling block.
+
+Afghanistan, which has advanced in the R20 cricket over the past few years, has advanced to the semi -finals of New Zealand and Australia, which has been the highest rankings.
+
+It is not surprising that Afghanistan performed another miracle by beating South Africa at the end of the half.
+
+On the other hand, South Africa, who won all the tournament in the T -groups and Super 8 and all round, is expected to wipe out the misfortune of continuing the final round.
 
 ...
 
 [Data](articles/10088012.json)
+
+[Extended Data](ext_articles/10088012.ext.json)
 
 ---
 
@@ -2253,29 +2283,5 @@ Memoranda of understanding with Paris Club creditors, which includes Japan are t
 [Data](articles/d366b387.json)
 
 [Extended Data](ext_articles/d366b387.ext.json)
-
----
-
-### Temple Program for Foreigners
-
-*2024-06-26 14:17:50* · [`adalk`](https://www.ada.lk/breaking_news/විදේශිකයන්ට-රස-ආහාර-කවන්න-පන්සලේ-වැඩසටහනක්/11-410450) · `si`
-
-A workshop was held for foreign tourists in Matale, focusing on enhancing tourism services. The event, organized by the Laggala Divisional Secretaries, included practical sessions on setting up food and beverages. It aimed to improve the quality of tourism and hospitality services, supported by both the Australian and Sri Lankan governments.
-
-🟩
-
-RiversSters of Laggala Divisional Secretaries belonging to the Laggala Divisional Secretaries of Laggala Divisional Secretaries, theoretical and Practical workshop for local foreign tourists to visit the RiversSters and Knuckles Forest Reserve in Matale is aimed at providing facilities on new food.Five were thrown into the 26th.
-
-About 35 people who were operating in the Matale District Laggala Divisional Secretariat were present at the Australian Government Assistance.
-
-The Australian government and the Government of Sri Lanka will be implemented as a bilateral program, improving the quality of tourism industry and to implement a better travel service to implement a better travel service.
-
-Hotel owners and chefs in the Laggala Divisional Secretaries under the participation of the island have been conducted in the Laggala Divisional Secretariat Division with interest rates for local and foreign tourists.
-
-...
-
-[Data](articles/d5462094.json)
-
-[Extended Data](ext_articles/d5462094.ext.json)
 
 ---

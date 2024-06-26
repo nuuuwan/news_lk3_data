@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 11:54:45**
+As of **2024-06-26 12:08:17**
 
 ## Newspaper Stats
 
-*Scraped **32,216** Articles*
+*Scraped **32,217** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adaderanalk | 3,660
 tamilmirrorlk | 3,800
 dailymirrorlk | 4,733
 virakesarilk | 4,994
-adaderanasinhalalk | 5,285
+adaderanasinhalalk | 5,286
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,213 (100.0%) of 32,216 articles have been extended.
+32,216 (100.0%) of 32,217 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### කොළඹ - කොටුව අවහිරවෙයි
+
+*2024-06-26 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198169) · `si`
+
+කොළඹ - කොටුව දුම්රියපොළ ඉදිරිපිට මාර්ගය අවහිර වී ඇති බව අද දෙරණ වාර්තාකරු පවසයි.
+
+◼️
+
+[Data](articles/9c2121b8.json)
+
+---
 
 ### Court order issued against planned teacher-principal protest in Colombo
 
@@ -45,6 +57,8 @@ The order also mentions that there is no obstacle for a government official who 
 ...
 
 [Data](articles/801c9feb.json)
+
+[Extended Data](ext_articles/801c9feb.ext.json)
 
 ---
 
@@ -191,6 +205,8 @@ Excess liquidity is now down but the central bank is injecting some money overni
 ...
 
 [Data](articles/aa11dd81.json)
+
+[Extended Data](ext_articles/aa11dd81.ext.json)
 
 ---
 
@@ -423,6 +439,8 @@ In 1971 the US dollar collapsed against its specie anchor, taking the Bretton Wo
 ...
 
 [Data](articles/35ecd240.json)
+
+[Extended Data](ext_articles/35ecd240.ext.json)
 
 ---
 
@@ -2273,29 +2291,5 @@ Accordingly, the Cabinet has approved the proposal submitted by the President an
 [Data](articles/3c270c98.json)
 
 [Extended Data](ext_articles/3c270c98.ext.json)
-
----
-
-### Cabinet approval to develop Hingurakoda Airport
-
-*2024-06-25 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/186957) · `ta`
-
-The Cabinet has approved the development of Hingurakoda Airport, managed by the Air Force, aiming for international civil airline standards. A committee involving various authorities will oversee the project.
-
-🟩
-
-The Cabinet has approved the proposal submitted by the President and the Minister of Ports, Shipping and Airlines Nimal Siripala de Silva as the Minister of Defense to take necessary steps to develop the Hingurakoda airport as a complete airport.
-
-Hingurakoda Airport, which is currently managing by the Air Force, has been found to be developed according to the standards of international civil airlines.
-
-Accordingly, a committee has been appointed with representatives such as the Sri Lanka Air Force, the Sri Lanka Civil Aviation Authority, the Airports and the Airports (Sri Lanka) (Private) Company and the Road Development Authority for the preparation of the main project for the airport.
-
-The Cabinet has approved the proposal submitted by the President and the Minister of Ports, Shipping and Airlines Nimal Siripala de Silva as the Minister of Defense to take necessary steps to develop the Hingurakoda airport as a full airport.
-
-◼️
-
-[Data](articles/0a8508b3.json)
-
-[Extended Data](ext_articles/0a8508b3.ext.json)
 
 ---

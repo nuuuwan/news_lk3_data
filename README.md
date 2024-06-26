@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 13:19:23**
+As of **2024-06-26 13:34:59**
 
 ## Newspaper Stats
 
-*Scraped **32,242** Articles*
+*Scraped **32,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ economynextcom | 1,870
 dailyftlk | 1,976
 adalk | 2,842
 adaderanalk | 3,662
-tamilmirrorlk | 3,808
+tamilmirrorlk | 3,809
 dailymirrorlk | 4,733
 virakesarilk | 5,002
-adaderanasinhalalk | 5,289
+adaderanasinhalalk | 5,290
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,230 (100.0%) of 32,242 articles have been extended.
+32,242 (100.0%) of 32,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### அதிபர், ஆசிரியர்கள் மீது கண்ணீர்ப்புகை பிரயோகம்
+
+*2024-06-26 13:11:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிபர்-ஆசிரியர்கள்-மீது-கண்ணீர்ப்புகை-பிரயோகம்/175-339468) · `ta`
+
+கோட்டை புகையிரத நிலையத்திற்கு அருகில் ஆர்ப்பாட்டத்தில் ஈடுபட்ட ஆசிரியர்கள் மற்றும் அதிபர்கள் சங்க உறுப்பினர்கள் மீது பொலிஸார் கண்ணீர்ப்புகை மற்றும் நீர்த்தாரை பிரயோகம் மேற்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/45dae9ed.json)
+
+---
+
+### අසන්ජේ මව් රටට යයි
+
+*2024-06-26 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198173) · `si`
+
+වසර 12ක් පමණ විවිධ තාඩන පීඩන මධ්‍යයේ නිවාස අඩස්සියේ සහ සිර ගෙවල්වල වෙසෙමින් සිය නිදහස උදෙසා දැඩි සටනක යෙදුණු ජුලියාන් අසන්ජේ සිය මව් රට වන ඔස්ට්‍රේලියාව බලා පිටත් වී තිබේ.
+
+අමෙරිකාවේ රහස් තොරතුරු හෙළිකිරීමේ චෝදනාව ඔහුට එල්ලවී තිබුණු අතර එම චෝදනාවට වැරැද්ද පිළිගැනීමෙන් අනතුරුව අමේරිකානු විනිසුරුවරයෙක් අද (26) ඔහුට නිදහස ලබාදුනි.
+
+වසර 5ක පමණ කාලයක් බ්‍රිතාන්‍ය සිර කුටියක රඳවා සිටි අසන්ජේ සඳුදා (23) විශේෂ ගුවන්යානයකින් පැසිෆික් හි පිහිටි අමෙරිකාවට අයත් සයිපාන් දූපතට ගෙන යන ලදී.
+
+ඔහු එහිදී තම වරද පිළිගත් අතර ඔහුට දඬුවම් වශයෙන් එතෙක් සිරගෙවල්වල ගෙවූ කාලය නියම කරන ලදී.
+
+◼️
+
+[Data](articles/47127760.json)
+
+---
 
 ### Police fire tear gas to disperse teacher-principal protest
 
@@ -42,77 +72,117 @@ Police used tear gas and water cannons to disperse protesting members of the tea
 
 [Data](articles/e2970821.json)
 
+[Extended Data](ext_articles/e2970821.ext.json)
+
 ---
 
-### විරෝධතාකරුවන්ට පොලීසියෙන් ජල හා කඳුළු ගෑස් ප්‍රහාරයක්
+### Protesters were attacked by police and tear gas
 
 *2024-06-26 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198172) · `si`
 
-ගුරු - විදුහල්පතිවරුන්ගේ විරෝධතාවයට පොලීසියෙන් ජල හා කඳුළු ගෑස් ප්‍රහාරයක් එල්ල කර තිබේ.
+Protesters faced police violence, including tear gas attacks, while police also targeted principal-led protests.
+
+🟩
+
+Police have also attacked the protest of the principals of the principals.
 
 ◼️
 
 [Data](articles/3715eaa4.json)
 
+[Extended Data](ext_articles/3715eaa4.ext.json)
+
 ---
 
-### கொழும்பு லோட்டஸ் வீதி மூடப்பட்டது
+### Colombo Lotus Road closed
 
 *2024-06-26 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/187013) · `ta`
 
-இதேவேளை, போராட்டம் காரணமாக கோட்டை ரயில் நிலையத்திற்கு முன்பாக உள்ள வீதியிலும் வாகன போக்குவரத்து முற்றாக தடைப்பட்டுள்ளது. இதனால் அப்பகுதியில் போக்குவரத்து நெரிசல் ஏற்பட்டுள்ளது.
+Colombo's Lotus Road is closed, causing traffic jams near the fort railway station due to protests, leading to complete blockage there as well.
+
+🟩
+
+Meanwhile, traffic in front of the fort railway station has been completely blocked due to the protest.. This has caused traffic congestion in the area.
 
 ◼️
 
 [Data](articles/6cbe4119.json)
 
+[Extended Data](ext_articles/6cbe4119.ext.json)
+
 ---
 
-### கோட்டை கலங்குகிறது: லோட்டஸ் வீதிக்குப் பூட்டு
+### Fort is disturbed: Lotus Street Lock
 
 *2024-06-26 12:47:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டை-கலங்குகிறது-லோட்டஸ்-வீதிக்குப்-பூட்டு/175-339466) · `ta`
 
-பல கோரிக்கைகளை முன்வைத்து, கோட்டை ரயில் நிலையத்துக்கு முன்பாக ஆர்ப்பாட்டத்தில் ஈடுபட்டு வரும் ஆசிரியர்கள் மற்றும் அதிபர்கள் பொலிஸாரின் தடையை உடைத்து லோட்டஸ் வீதியை நோக்கி நகர்வதாக தெரிவிக்கப்படுகிறது.
+Teachers and principals protested near Fort Railway Station, breaking through police barriers to reach Lotus Road, causing traffic jams on Olkot and nearby streets.
 
-இதன் காரணமாக புறக்கோட்டை,ஒல்கொட் மாவத்தை மற்றும் அதனை சுற்றியுள்ள வீதிகளில் கடும் வாகன நெரிசல் காணப்படுவதாக பொலிஸார் தெரிவித்தனர்.
+🟩
+
+It is reported that teachers and principals who are protesting in front of the Fort Railway Station have reportedly broke the barrier of the police and moved towards Lotus Road.
+
+As a result, heavy traffic congestion has been found on the streets of Olkot, Olkot Mawatha and its surrounding streets, police said.
 
 ◼️
 
 [Data](articles/6e707aac.json)
 
+[Extended Data](ext_articles/6e707aac.ext.json)
+
 ---
 
-### யாழ். சாவகச்சேரியில் குப்பையோடு குப்பையாக போடப்பட்ட 42 பவுண் நகைகள்
+### Yall. 42 pounds of jewelery
 
 *2024-06-26 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/187007) · `ta`
 
-யாழ்ப்பாணம், சாவகச்சேரிப் பொலிஸ் பிரிவுக்குட்பட்ட சங்கத்தானைப்பகுதியில் 42 பவுண் தங்க நகைகள் தவறுதலாக குப்பையோடு குப்பையாக போடப்பட்ட சம்பவம் தொடர்பான கடந்த ஞாயிற்றுக்கிழமை பொலிஸாரிடம் முறைப்பாடு செய்யப்பட்டுள்ளது.
+Last Sunday, 42 pounds of gold jewelry were mistakenly thrown away in Sangathappa, Jaffna, ending up in a Chavakachcheri landfill. The owners reported it, but the jewelry remains missing despite police investigations. This mirrors a similar incident a year ago where 18 pounds were recovered from the same area.
 
-போத்தல் ஒன்றினுள் பாதுகாப்பாக வைக்கப்பட்டிருந்த 42 பவுண் தங்க நகைகள் தவறுதலாக குப்பையோடு குப்பையாக கழிவு வைக்கப்படும் இடத்தில் வைக்கப்பட்டு, பின்னர் அது கழிவகற்றும் வாகனம் ஊடாக சாவகச்சேரியில் உள்ள குப்பை மேட்டினை வந்தடைந்துள்ளது.
+🟩
 
-இந்நிலையில், தமது நகைகள் தவறுதலாக குப்பையோடு போடப்பட்டதனை உணர்ந்த உரிமையாளர்கள் இது தொடர்பாக சாவகச்சேரிப் பொலிஸாருக்கு தகவல் வழங்கியுள்ளனர்.
+The police have lodged a complaint with the police last Sunday in connection with the incident of 42 pounds of gold jewelery in the Sangathappa area of ​​the Jaffna and Chavakachcheri police division.
 
-இது தொடர்பாக சாவகச்சேரிப் பொலிஸார் சம்பந்தப்பட்ட தரப்பினரை அழைத்து விசாரணை நடத்திய போதிலும் இதுவரை காணாமல் போன நகைகள் தொடர்பாக எந்த விதமான தகவல்களும் கிடைக்கப்பெறவில்லை என பொலிஸ் வட்டாரங்கள் தெரிவிக்கின்றன.
+42 pounds of gold jewelery, which were safely placed in a bottle, were mistakenly placed in the trash and then reached the garbage mound in Chavakachcheri via a waste vehicle.
 
-...
+In this case, the owners who realized that their jewelery was wrongly trash, the Chavakachcheri police have informed the police.
+
+According to police sources, there have been no information about the missing jewelery, despite the investigation of the Chavakachcheri police concerned.
+
+At the same time, a similar incident took place in Chavakachcheri a year ago and the employees of the Chavakachcheri Municipal Council have been searched by the owner of the garbage and retrieved 18 pound jewelery.
+
+◼️
 
 [Data](articles/dac3e472.json)
 
+[Extended Data](ext_articles/dac3e472.ext.json)
+
 ---
 
-### பேரழிவையும் உயிரிழப்பையும் நிலத்தை இழந்ததையும் நாங்கள் மறக்கமாட்டோம்- இலங்கையை சர்வதேச குற்றவியல் நீதிமன்றத்தில் பாரப்படுத்துவதன் மூலம் மாத்திரமே நீதியை நிலைநாட்டமுடியும் - பிரிட்டன் தேர்தலில் தொழில்கட்சி சார்பில் போட்டியிடும் உமாகுமரன்
+### We will not forget the devastation, the death of the land and the loss of the land - we can only establish justice in the International Criminal Court.
 
 *2024-06-26 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/187011) · `ta`
 
-ஐக்கியநாடுகள் பாதுகாப்பு சபை மூலம் இலங்கையை சர்வதேச குற்றவியல் நீதிமன்றத்தில் பாரப்படுத்துவதன் மூலம் மாத்திரமே நீதியை நிலைநாட்டமுடியும் என பிரிட்டனில் நடைபெறவுள்ள தேர்தலில் தொழில்கட்சியின் சார்பில் போட்டியிடும் உமாகுமரன் தெரிவித்துள்ளார்.
+Umakumaran, representing the UK's Labor Party, emphasizes the importance of establishing justice through the International Criminal Court (ICC), highlighting the lack of accountability for war crimes in Sri Lanka prior to May 2009. He criticizes the ICC's absence in Sri Lanka and calls for stronger international efforts to address the suffering of Tamils, including sexual violence and displacement. Umakumaran urges the Labor Party to continue advocating for Tamil justice, appealing to the UK's Foreign Minister to support UN recommendations and prioritize international law.
 
-தமிழ் கார்டியனிற்கு வழங்கியுள்ள பேட்டியில் இதனை தெரிவித்துள்ள அவர் உலக அரங்கில் நீதிக்கான எங்கள் வேண்டுகோள்களை நாம் வலுப்படுத்தவேண்டும்- பேரழிவையும் உயிரிழப்பையும் நிலத்தை இழந்ததையும் நாங்கள் மறக்கமாட்டோம் எனவும் குறிப்பிட்டுள்ளார்.
+🟩
 
-மே 2009க்கு முன்னதாகவும் மே 2009 இன் போதும் இடம்பெற்ற யுத்த குற்றங்களிற்காக இதுவரை எவரும் பொறுப்புக்கூறலிற்கு உட்படுத்தப்படவில்லை என்பது உண்மையாகவே நம்பமுடியாத விடயமாக காணப்படுகின்றது என அவர் தெரிவித்துள்ளார்.
+Umakumaran, who is contesting on behalf of the Labor Party in the upcoming elections in the UK, said that justice can only be established by the United Nations Security Council to approve Sri Lanka in the International Criminal Court.
+
+In an interview with the Tamil Guardian, he said, "We must strengthen our requests for justice on the world stage- we will not forget the devastation, the loss of land and the loss of land.
+
+He said that no one has been held accountable for war crimes before May 2009 and May 2009, he said.
+
+We will never forget the devastation and the loss of the land, and we will never forget the sexual violence that the Tamil men and women have faced with the fact that thousands of people have been in the sand in the sand, and the deliberate bullets of the hospitals and the Red Cross, the high security zones.
+
+He then grows up without families, and men, women and children are living with war -torn injuries.
+
+I don't want to recall this in so much but we need to know our history.
 
 ...
 
 [Data](articles/2d291bba.json)
+
+[Extended Data](ext_articles/2d291bba.ext.json)
 
 ---
 
@@ -190,23 +260,29 @@ Arrested and further inquiries are being taken by a team of customs officials in
 
 ---
 
-### தமிழக மீனவர்கள் தொடர் கைதின் எதிரொலி : எல்லை தாண்டி மீன் பிடிக்க வேண்டாமென எச்சரிக்கை
+### Echoing of Tamil Nadu fishermen
 
 *2024-06-26 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187006) · `ta`
 
-எல்லை தாண்டி மீன் பிடித்ததாக கடந்த ஒரு வாரத்தில் 30-க்கும் மேற்பட்ட  தமிழக மீனவர்கள் அடுத்தடுத்து இலங்கை கடற்படையால் கைது செய்யப்பட்டு வருவதன்  எதிரொலியாக, ராமேஸ்வரத்திலிருந்து மீன்பிடிக்க செல்லும் மீனவர்கள் சர்வதேச கடல் எல்லையை தாண்டி செல்ல வேண்டாம் எனவும், உயிர்காக்கும்  உபகரணங்களை கையில் வைத்துக் கொள்ளுமாறு ராமேஸ்வரம் மீன்வளத்துறை அதிகாரிகள்   ஒலிபெருக்கி  மூலமாக எச்சரிக்கை விடுத்துள்ளனர்.
+In the past week, over 30 Tamil Nadu fishermen were cautioned against fishing in international waters due to tensions with Sri Lanka. The Sri Lankan navy arrested several fishermen, including 22 from Rameswaram, for crossing borders. In response, 10 Naga fishermen were also detained. This led to a one-day strike by 22 Rameswaram fishermen protesting their imprisonment. Following the strike, fishermen were advised not to venture into Sri Lankan waters beyond the international border, emphasizing the importance of carrying necessary documents.
 
-ராமநாதபுரம் மாவட்டம் ராமேஸ்வரத்தில் இருந்து கடந்த சனிக்கிழமை மீன் பிடிக்க சென்ற மூன்று விசைப்படகுகளையும் அதிலிருந்து 22 மீனவர்களையும் எல்லை தாண்டி  பிடித்ததாக இலங்கை  கடற்படை கைது செய்து யாழ்ப்பாணம் சிறையில் அடைத்தனர்.
+🟩
 
-அதனை தொடர்ந்து நேற்று 10 நாகை மீனவர்களை இலங்கை கடற்படை கைது செய்து யாழ்ப்பாணம் சிறையில் அடைத்துள்ளனர்.
+In the last week, more than 30 Tamil Nadu fishermen have been warned by the Rameshwaram fisheries officials to keep the fishermen from Rameswaram to fishing in the international waters and that the fishermen from Rameshwaram should not cross the international sea.
 
-தமிழக மீனவர்களை தொடர்ந்து இலங்கை கடற்படை கைது செய்து வருவதால் மீனவர்களிடையே அச்சம் ஏற்பட்டுள்ளது.
+The Sri Lankan navy arrested three fishermen and 22 fishermen from Rameswaram in Ramanathapuram district last Saturday for allegedly crossing the border.
 
-இந்நிலையில், சனிக்கிழமை  மீன் பிடிக்க சென்ற 22 ராமேஸ்வரம் மீனவர்களை இலங்கை கடற்படை சிறை பிடித்ததை கண்டித்து ஒரு நாள் அடையாள வேலை நிறுத்தப் போராட்டத்தில் ஈடுபட்டனர்.
+Following this, 10 Naga fishermen were arrested by the Sri Lankan navy and taken to the Jaffna jail.
+
+The Sri Lankan navy continues to arrest Tamil Nadu fishermen.
+
+In this case, 22 Rameshwaram fishermen who went fishing on Saturday went on a one -day identity strike, denouncing the Sri Lankan navy's imprisonment.
 
 ...
 
 [Data](articles/e88534d0.json)
+
+[Extended Data](ext_articles/e88534d0.ext.json)
 
 ---
 
@@ -262,21 +338,31 @@ Divulapitiya police are conducting further investigations into the incident.
 
 ---
 
-### தந்தையை கட்டியணைத்த சிறுமி  மரணம்
+### The little girl who tied her father
 
 *2024-06-26 12:16:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தந்தையை-கட்டியணைத்த-சிறுமி-மரணம்/175-339463) · `ta`
 
-முச்சக்கரவண்டியொன்று மின் கம்பத்தில் மோதியதில் பின் இருக்கையில் இருந்த சிறுமி ஒருவர் உயிரிழந்துள்ள சம்பவமொன்று திவுலப்பிட்டிய, கடவல பிரதேசத்தில், இடம்பெற்றுள்ளது என  திவுலபிட்டிய பொலிஸார் தெரிவித்தனர் .
+A tragic accident occurred when a three-wheeler crashed into an electric pole in Divulapitiya, killing a young girl and seriously injuring her father. The family had traveled to Negombo; the girl was last seen hugging her father before the crash. She later died at Negombo Hospital, while her father was hospitalized in Colombo for treatment. Police continue investigating.
 
-முச்சக்கரவண்டியின் சாரதியான, சிறுமியின் தந்தை பலத்த காயங்களுடன் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருவதாக தெரியவந்துள்ளது
+🟩
 
-உயிரிழந்த சிறுமி தனது பாட்டி, தாய் மற்றும் தந்தையுடன் நீர்கொழும்புக்கு சென்று, வேலைக்குச் செல்வதற்காக தாயை  நீர்கொழும்பில் இறக்கிவிட்டு , தனது பாட்டியுடன் முச்சக்கரவண்டியின் பின்புறம் அமர்ந்து வீட்டிற்கு வந்துள்ளார் .
+Divulapitiya police said that a three -wheeler crashed into an electric pole in Kadala area, Divulapitiya.
 
-இந்நிலையில் திவுலப்பிட்டி,  பின்னாலிருந்த சிறுமி, தந்தையின் கழுத்தை கடவல பகுதியில் வைத்து கட்டிப்பிடித்துள்ளார்.அப்போது தந்தையால் முச்சக்கரவண்டியை கட்டுப்படுத்த முடியாமல் சென்று முச்சக்கரவண்டி வீதியை விட்டு விலகி மின்கம்பத்தில் மோதியுள்ளது. அதன்போது சிறுமி வெளியே தூக்கி வீசப்பட்டுள்ளதாக பொலிஸாரின் ஆரம்பக்கட்ட விசாரணையில் தெரியவந்துள்ளது.
+The driver of the three -wheeler, the girl's father has been admitted to the hospital with serious injuries.
 
-...
+The deceased little girl went to Negombo with her grandmother, mother and father, unloaded her mother in Negombo to go to work, and sat down with her grandmother and came home.
+
+In this case, the girl who was behind him was hugging her father's neck in the Kadala area.. Preliminary inquiries by the police revealed that the girl was thrown out.
+
+The girl has died after being admitted to the Negombo Hospital and the father has been admitted to the Colombo National Hospital for further treatment.
+
+Divulapitiya police are conducting further investigations into the incident.
+
+◼️
 
 [Data](articles/f1b82b74.json)
+
+[Extended Data](ext_articles/f1b82b74.ext.json)
 
 ---
 
@@ -442,21 +528,27 @@ Fort Magistrate's Court has issued a prohibition against several persons involve
 
 ---
 
-### யாழில் புடவைக்கடை மீது பெற்றோல் குண்டு வீச்சு
+### Petrol Bomb
 
 *2024-06-26 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/187001) · `ta`
 
-யாழ்ப்பாணம் நெல்லியடி பகுதியில் உள்ள புடவைக்கடை ஒன்றின் மீது, நேற்று செவ்வாய்க்கிழமை (25) இனம் தெரியாத நபர்கள் பெற்றோல் குண்டு வீசி தாக்குதல் நடாத்தி விட்டு தப்பி சென்றுள்ளனர்.
+In Nelliyadi, Jaffna, unknown individuals threw petrol bombs at a sari shop on Tuesday, causing panic among bystanders. The attackers fled on a motorbike, leaving behind chaos. Local authorities are investigating after receiving a complaint from the shop owner.
 
-மோட்டார் சைக்கிளில் வந்த நபர்கள், புடவைக்கடைக்கு பின் புறமாக வந்து பெற்றோல் குண்டுகளை வீசி விட்டு தப்பி சென்றுள்ளனர்.
+🟩
 
-அதனை அவதானித்த கடை ஊழியர்கள்  அப்பகுதியில் நின்றவர்கள் பெற்றோல் குண்டை வீசியவர்களை துரத்தி சென்ற போதிலும், அவர்கள் தப்பியோடி விட்டனர்.
+An unidentified persons fled on a sari shop in Nelliyadi, Jaffna on Tuesday (25).
 
-சம்பவம் தொடர்பில் கடை உரிமையாளரால் நெல்லியடி பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ள நிலையில், பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+The men on the motorbike came out of the sari shop and fled the petrol bombs.
+
+The shopkeepers who observed it were chased away by those who stood in the area, but they fled.
+
+Police are investigating the incident as the shop owner has lodged a complaint at the Nelliyadi police station.
 
 ◼️
 
 [Data](articles/0876cf75.json)
+
+[Extended Data](ext_articles/0876cf75.ext.json)
 
 ---
 
@@ -526,21 +618,27 @@ Twenty-two male students and eight female students along with the teacher have b
 
 ---
 
-### யாழில் சிறுமி பாலியல் துஸ்பிரயோகம் ; சிறுவன் விளக்கமறியலில்
+### Minor sexual abuse in Jaffna;In the boy's explanation
 
 *2024-06-26 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/186995) · `ta`
 
-யாழ்ப்பாணத்தில் 15 வயது சிறுமியை பாலியல் துஸ்பிரயோகத்திற்கு உள்ளாக்கிய குற்றச்சாட்டில் 17 வயதான சிறுவன் நீதிமன்ற உத்தரவில் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+A 17-year-old boy in Jaffna faces charges for sexually abusing a 15-year-old girl from the Nelliyadi police division. The girl was initially arrested during investigations but later revealed her ordeal. The boy was then apprehended and brought before the Point Pedro Magistrate's Court, where he was remanded for 14 days.
 
-நெல்லியடி பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் வசிக்கும் 15 வயதான சிறுமியை 17 வயதான சிறுவன் பாலியல் துஸ்பிரயோகத்திற்கு உள்ளாக்கியுள்ளதாக பொலிஸாருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் சிறுமியை மீட்டு பருத்தித்துறை ஆதார வைத்தியசாலையில் அனுமதித்தனர்.
+🟩
 
-சிறுமியிடம் மேற்கொள்ளப்பட்ட விசாரணைகளில் சிறுவன் தொடர்பான தகவல்களை பெற்ற பொலிஸார் சிறுவனை கைது செய்து பருத்தித்துறை நீதவான் நீதிமன்றில் முற்படுத்தினர்.
+A 17 -year -old boy has been placed on a court order on charges of sexually abusing a 15 -year -old girl in Jaffna.
 
-நீதிமன்ற விசாரணைகளை அடுத்து , சிறுவனை 14 நாட்கள் விளக்கமறியலில் வைக்குமாறு மன்று உத்தரவிட்டுள்ளது.
+A 15 -year -old girl, who lives in the area of ​​the Nelliyadi police division, has been subjected to sexual abuse by the police.
+
+Investigations carried out by the girl were arrested by the police and arrested the boy and produced him at the Point Pedro Magistrate's Court.
+
+Following the court hearing, the boy has been ordered to be kept for 14 days.
 
 ◼️
 
 [Data](articles/0d645750.json)
+
+[Extended Data](ext_articles/0d645750.ext.json)
 
 ---
 
@@ -568,39 +666,51 @@ The man who was targeted for the shooting was injured and admitted to the Nivith
 
 ---
 
-### அதிபர்கள், ஆசிரியர்கள் சுகயீன விடுமுறை போராட்டம் ; மாணவர்களின் வருகை குறைவு
+### Principals and teachers' sick holiday struggle;Lack of attendance of students
 
 *2024-06-26 10:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/186992) · `ta`
 
-சம்பள பிரச்சினைகளுக்கு தீர்வுகோரி அதிபர்கள் மற்றும் ஆசிரியர்கள் நாடளாவிய ரீதியில் சுகயீன விடுமுறை போராட்டத்தில் இன்று புதன்கிழமை (26) ஈடுபட்டு வருகின்றனர்.
+Nationwide, principals and teachers took a health-related holiday to negotiate salaries, leading to lower student attendance. This action disrupted schooling as the second installment began, affecting educational activities.
 
-இதன் காரணமாக அனைத்து பாடசாலைகளிலும் மாணவர்களின் வருகை குறைவாக காணப்படுவதுடன், மாணவர்கள் பாடசாலைக்கு வந்து திரும்பி செல்வதையும் அவதானிக்க கூடியதாக இருந்தது.
+🟩
 
-இரண்டாம் தவணை ஆரம்பமாகியுள்ள நிலையில் ஆசிரியர்கள் மற்றும் அதிபர்கள் பணிப்பகிஷ்கரிப்பை ஆரம்பித்துள்ளதோடு, இதன் காரணமாக பாடசாலைகளின் கல்வி நடவடிக்கைகள் ஸ்தம்பிதமடைந்துள்ளதாக பெற்றோர்கள் தெரிவிக்கின்றமை குறிப்பிடத்தக்கது.
+Principals and teachers are engaged in a healthy holiday struggle nationwide on Wednesday (26) to address salary issues.
+
+Due to this, the attendance of students in all schools was less and it was possible to observe that students would come back to school.
+
+As the second installment begins, the teachers and principals have begun the work and the parents of the schools have stated that the educational activities of the schools have been disrupted.
 
 ◼️
 
 [Data](articles/fed537da.json)
 
+[Extended Data](ext_articles/fed537da.ext.json)
+
 ---
 
-### கென்யாவில் பாராளுமன்றத்தை முற்றுகையிட்ட ஆர்ப்பாட்டக்காரர்கள் ; பொலிஸாரின் துப்பாக்கிச்சூட்டில் 5  பேர் பலி !
+### Demonstrators who blocked parliament in Kenya;5 killed in police shooting
 
 *2024-06-26 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/186991) · `ta`
 
-கென்யாவில் பாராளுமன்றத்தை முற்றுகையிட்ட ஆர்ப்பாட்டக்காரர்கள் மீது பொலிஸார் நடத்திய துப்பாக்கிச் சூட்டில் 5 பேர் உயிரிழந்துள்ளனர்.
+Protesters blocking Kenya's parliament were fired upon by police, resulting in five deaths and 31 injuries. This incident occurred during protests against a contentious financial bill in Nairobi, leading to a chaotic situation as lawmakers were evacuated.
 
-கென்யாவின் தலைநகர் நைரோபியில் உள்ள பாராளுமன்றத்தில் சர்ச்சைக்குரிய நிதி சட்டமூலம் தாக்கல் செய்வதற்கு எதிராக கடந்த சில நாட்களாக கென்யாவின் பல பகுதிகளிலும் போராட்டம்  நடைபெற்று வருகிறது.
+🟩
 
-இந்நிலையில், பாராளுமன்ற உறுப்பினர்கள் இந்த சட்டமூலத்திற்கு எதிர்ப்பு தெரிவிக்க வலியுறுத்தி பொதுமக்கள் பாராளுமன்றத்திற்கு வெளியே போராட்டத்தில் ஈடுபட்டனர்.
+Five people were killed in police firing on protesters who blocked parliament in Kenya.
 
-போராட்டத்தில் ஆயிரக்கணக்கானோர் செவ்வாய்க்கிழமை (25) பாராளுமன்ற வளாகத்திற்குள் நுழைந்தனர். அப்போது அங்கு பாதுகாப்பு கடமையில் ஈடுபட்டிருந்த பொலிஸார் துப்பாக்கி சூடு நடத்தினர். அதில் 5 பேர் உயிரிழந்துள்ளதோடு, 31 பேர் காயமடைந்துள்ளார்கள்.
+In Kenya's capital, Nairobi, in Kenya's capital, Nairobi has been protesting in many parts of Kenya over the past few days against the filing of a controversial financial bill.
 
-இதனால் அங்கு பரபரப்பான சூழல் உருவானது. தீ வைக்கப்பட்டதை அடுத்து பாராளுமன்ற உறுப்பினர்கள் அங்கிருந்து பாதுகாப்பாக வெளியேற்றப்பட்டனர்.
+At this juncture, MPs staged a protest outside the parliament, demanding opposition to the bill.
+
+Thousands entered the parliamentary complex on Tuesday (25) in the struggle. The police, who were on duty at the time, opened fire.Five of them died and 31 were injured.
+
+This created a hectic environment. Following the fire, MPs were safely evacuated.
 
 ◼️
 
 [Data](articles/19e3cea1.json)
+
+[Extended Data](ext_articles/19e3cea1.ext.json)
 
 ---
 
@@ -2175,47 +2285,5 @@ The inauguration of the Communications Center for Tourism, the Chief Secretary o
 [Data](articles/71f4997a.json)
 
 [Extended Data](ext_articles/71f4997a.ext.json)
-
----
-
-### International airport for Hingurakgoda
-
-*2024-06-25 19:04:30* · [`adalk`](https://www.ada.lk/breaking_news/හිඟුරක්ගොඩට-ජාත්‍යන්තර-ගුවන්-තොටුපොළක්/11-410436) · `si`
-
-The development of Hingurakgoda Airport is underway under the Sri Lanka Air Force and Civil Aviation Authority, with approval from the Cabinet of Defense. This project aims to transform it into a comprehensive airport, supported by key authorities including the Road Development Authority.
-
-🟩
-
-The need to develop the Hingurakgoda Airport in line with the Sri Lanka Air Force management.
-
-Accordingly, the Sri Lanka Air Force, Civil Aviation Authority, Sri Lanka, Sri Lanka, Sri Lanka Air Force, Civil Aviation Authority (Sri Lanka) (Pvt) Ltd. (Pvt) Ltd. and Road Development Authority (Pvt) Ltd. and Road Development AuthorityHave been done.
-
-The Cabinet of Defense was approved by the Cabinet as the President and Ports, Navy and Aviation Minister to take necessary steps to develop the Hingurakgoda Airport as a complete airport in the committee.
-
-◼️
-
-[Data](articles/b8078444.json)
-
-[Extended Data](ext_articles/b8078444.ext.json)
-
----
-
-### NPP will back bill to decriminalize same-sex relationships - Harini Amarasuriya
-
-*2024-06-25 19:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100098/npp-will-back-bill-to-decriminalize-same-sex-relationships-harini-amarasuriya) · `en`
-
-National People’s Power (NPP) Parliamentarian Dr. Harini Amarasuriya states that their party will support the private member’s bill tabled by SLPP MP Premnath C. Dolawaththa to decriminalize same-sex relationships under the penal code.
-
-Joining the ‘Derana 360’ programme, Dr. Amarasuriya explained their party’s stance regarding the LGBTQ+ community.
-
-“We have been advocating for this community for a while. They are also a part of this society. Gender identities are diverse, including those of the same-sex community. From the beginning, we are of the stance that individuals should not be discriminated based on their gender”, she said.
-
-“Specifically, these same-sex relationships have been criminalized in our penal code. This is not a law which was originated in our country; it was introduced during the Victorian era by the British. Therefore, we believe it should be amended,” Dr. Amarasuriya expressed.
-
-...
-
-[Data](articles/474888d7.json)
-
-[Extended Data](ext_articles/474888d7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 06:20:52**
+As of **2024-06-26 07:00:52**
 
 ## Newspaper Stats
 
-*Scraped **32,181** Articles*
+*Scraped **32,182** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,868
 dailyftlk | 1,976
 adalk | 2,834
 adaderanalk | 3,653
-tamilmirrorlk | 3,791
+tamilmirrorlk | 3,792
 dailymirrorlk | 4,733
 virakesarilk | 4,992
 adaderanasinhalalk | 5,274
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,274
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,167 (100.0%) of 32,181 articles have been extended.
+32,168 (100.0%) of 32,182 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The election results have been continuously analysed and commented upon from the
 ...
 
 [Data](articles/4bd181e5.json)
+
+[Extended Data](ext_articles/4bd181e5.ext.json)
 
 ---
 
@@ -319,6 +321,26 @@ The special parliamentary sitting has been called in pursuance of Standing Order
 ...
 
 [Data](articles/7e03122c.json)
+
+---
+
+### ’நீதித்துறை விவகாரங்களில் தலையீடு’
+
+*2024-06-26 01:53:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதித்துறை-விவகாரங்களில்-தலையீடு/175-339434) · `ta`
+
+பாராளுமன்ற சிறப்புரிமைகள் என்ற போர்வையில், நீதித்துறை மற்றும் நீதிச்சேவைகள் ஆணைக்குழுவின் விவகாரங்களில் தலையிடுவதை பாராளுமன்ற உறுப்பினர்கள் தவிர்க்க வேண்டும் என இலங்கை சட்டத்தரணிகள் சங்கம் வலியுறுத்தியுள்ளது.
+
+அவ்வாறான செயற்பாடுகளால் நீதித்துறை மீதான பொதுமக்களின் நம்பிக்கை மீறப்படுவது போன்ற மோசமான விளைவுகள் ஏற்படும் என இலங்கை சட்டத்தரணிகள் சங்கம் விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+நீதித்துறையின் சுதந்திரத்தையும் சட்டவாட்சியையும் பாதுகாப்பதற்கு தாம் அர்ப்பணிப்புடன் இருப்பதாக இலங்கை சட்டத்தரணிகள் சங்கம் வலியுறுத்தியுள்ளது.
+
+சுதந்திரமான மற்றும் தைரியமான நீதித்துறையை ஆதரிப்பதாகவும், சட்டவாட்சியை பாதுகாப்பது அவசியம் எனவும் அவர்கள் வெளியிட்டுள்ள அறிக்கையில் சுட்டிக்காட்டப்பட்டுள்ளது.
+
+நீதித்துறை அதிகாரி ஒருவருக்கு எதிராக ஏதேனும் குற்றச்சாட்டுகள் முன்வைக்கப்படுமாயின், முதலில் அதனை பாரபட்சமின்றி விசாரணை செய்ய வேண்டும் எனவும் அதில் கூறப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/c51641e9.json)
 
 ---
 
@@ -2251,29 +2273,5 @@ The cabinet of ministers has thus approved a proposal by Minister of Justice, Pr
 [Data](articles/7d0b4095.json)
 
 [Extended Data](ext_articles/7d0b4095.ext.json)
-
----
-
-### The land of the Co-operative Society was written to his name
-
-*2024-06-25 13:19:54* · [`adalk`](https://www.ada.lk/breaking_news/සමූපකාර-සමිතියේ-ඉඩම-සභාපති-තම-නමට-ලියාගෙන/11-410423) · `si`
-
-Wayamba and Wasantha Gunasekera, members of the Kalpitiya Co-operative Society, reported that the society's land, including "Bandy Garden," was improperly transferred into the personal name of the chairman. They requested the secretary to revert the land back to the society's ownership. The matter involves allegations against the current chairman and legal actions to rectify the situation.
-
-🟩
-
-Wayamba Gunasekera, Wasantha Gunasekera has informed the Secretary to the Society to restore the land of the Department of Co-operative Society by the Ceylon Chairman of the Kalpitiya.Says, the former board of directors of the media is grateful to the media to commander this invitation on the media and directing the attention of the media.
-
-The current Chairman of the Kalpitiya Various Services Co-operative Society, the current Chairman of the Cooperative Society has been charged. AccordingThis allegation is to write the deed into the personal name of the chairman.
-
-Accordingly, the Secretary to the Society has informed the Society's two acres and three perches, which is 3868 deeds to the Society again, the land of "Bandy Garden".According to Mr. Aeammmil, proceeded to a forty-year period, to a period of forty year, and had been legalized to carry out legal action.
-
-The current chairman of this question was inquired from the present Chairman of this.
-
-...
-
-[Data](articles/2db051f6.json)
-
-[Extended Data](ext_articles/2db051f6.ext.json)
 
 ---

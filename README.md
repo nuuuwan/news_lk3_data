@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 18:14:23**
+As of **2024-06-26 18:26:03**
 
 ## Newspaper Stats
 
-*Scraped **32,289** Articles*
+*Scraped **32,293** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,790
 economynextcom | 1,870
 dailyftlk | 1,976
 adalk | 2,853
-adaderanalk | 3,672
-tamilmirrorlk | 3,811
+adaderanalk | 3,673
+tamilmirrorlk | 3,814
 dailymirrorlk | 4,733
 virakesarilk | 5,009
 adaderanasinhalalk | 5,304
@@ -26,41 +26,101 @@ adaderanasinhalalk | 5,304
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,283 (100.0%) of 32,289 articles have been extended.
+32,289 (100.0%) of 32,293 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### චීන එක්සිම් බැංකුව සමගත් ණය ප්‍රතිකර්ම අවසන් එකඟතාවකට
+### கண்ணீர் புகையால் நாளைக்கும் சுகயீனம்
+
+*2024-06-26 17:47:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்ணீர்-புகையால்-நாளைக்கும்-சுகயீனம்/175-339480) · `ta`
+
+அதிபர்கள், ஆசிரியர்கள் மீது மேற்கொள்ளப்பட்ட ரணில்- ராஜபக்ஷ அரசாங்கத்தின்  அடக்குமுறையைக் கண்டித்து அதிபர், ஆசிரியர்கள், வியாழக்கிழமையும் (27) சுகயீன போராட்டத்தை முன்னெடுக்கவுள்ளனர் என இலங்கை ஆசிரியர் சங்கத்தின் உப தலைவர் ஆ.தீபன் திலீசன் தெரிவித்துள்ளார்.
+
+அதிபர், ஆசிரியர்களுக்கு வழங்கவேண்டிய சம்பள முரண்பாட்டுக்கு தீர்வை வழங்காது, தமக்கு கிடைக்கவேண்டியதை கேட்கும் அதிபர், ஆசிரியர்களின் ஜனநாயகரீதியான  போராட்டத்தை நசுக்க, நீர்த்தாரை பிரயோகம் மற்றும் கண்ணீர் புகைக்குண்டுகள் வீசி, அதிபர், ஆசிரியர்கள் மீது நடத்தப்பட்ட மிலேச்சத்தனமான தாக்குதல்களை கண்டித்தே நாளையதினம் (27) போராட்டம் முன்னெடுக்கப்படவுள்ளது என்றார்.
+
+அதிபர்கள், ஆசிரியர்கள் மீதான அடக்குமுறைகளைக் கண்டிக்கும் விதமாக இன்றைய தினமும் ஆதரவு வழங்க வேண்டும் என்று கேட்டுக்கொண்டுள்ளார்.
+
+◼️
+
+[Data](articles/df0af8f6.json)
+
+---
+
+### Co-Xim Bank to a final agreement with loan remedies
 
 *2024-06-26 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198187) · `si`
 
-ශ්‍රී ලංකාව සහ චීන එක්සිම් බැංකුව අතර ද්විපාර්ශ්වික ණය ප්‍රතිකර්ම අවසන් එකඟතාවකට එළඹුණු බව මුදල් රාජ්‍ය අමාත්‍ය ෂෙහාන් සේමසිංහ මහතා පවසයි.
+Sri Lanka and China's Exim Bank have finalized loan agreements, with key discussions held in Paris. The official signing for implementing these deals is imminent. Additionally, Sri Lanka has reached a final agreement worth $5.8 billion with its debt creditors' committee in Paris.
 
-පැරිස් නුවරදී චීන රජයේ නියෝජ්‍ය මුදල් අමාත්‍ය ලියාවෝ මින් හමු වූ බවත්, එහිදී එම අවසන් එකඟතාවට එළඹුණු බවත් රාජ්‍ය අමාත්‍යවරයා X අවකාශයේ සටහනක් තබමින් වැඩිදුරටත් සඳහන් කරයි.
+🟩
 
-ඒ අනුව අදාළ ගිවිසුම් ක්‍රියාත්මක කරලීම සම්බන්ධයෙන් වූ නිල අත්සන් තැබීම් සිදුවන බවද අමාත්‍යවරයා ප්‍රකාශ කළේය.
+Minister of State Shehan Semasinghe says that the bilateral loan remedies were reached between Sri Lanka and Chinese Exim Bank.
 
-මේ අතර අද පැරිසියේ පැවති හමුවේදී ශ්‍රී ලංකාව මෙරට ද්වීපාර්ශ්වික ණය හිමියන්ගේ නිල කමිටුව සමග අමෙරිකානු ඩොලර් බිලියන 5.8ක ණය ප්‍රතිව්‍යුහගතකරණ අවසන් එකඟතාවට ද එළඹුණි.
+The State Minister further states that the Final Minister of China has met with the Deputy Finance Minister of China in Paris.
+
+Accordingly, the official signing of the implementation of the agreements will take place.
+
+Meanwhile, Sri Lanka has also reached the final agreement of US $ 5.8 billion in debt creditors' official committee in Paris today.
 
 ◼️
 
 [Data](articles/4d6498da.json)
 
+[Extended Data](ext_articles/4d6498da.ext.json)
+
 ---
 
-### ජනපති හදිසියේ කැබිනට් මණ්ඩලය රැස් කරයි
+### LPL அட்டவணை: ஜூலை 1 ஆரம்பம்
+
+*2024-06-26 17:34:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/LPL-அட்டவணை-ஜூலை-1-ஆரம்பம்/44-339479) · `ta`
+
+லங்கா பிரீமியர் லீக் (LPL) ஐந்தாவது சீசன் ஆரம்பமாகவிருக்கிறது. அதற்கான  போட்டி அட்டவணையை வெளியிடப்பட்டுள்ளது.
+
+2024 ஜூலை 1 திங்கட்கிழமை தொடக்க விழாவுடன் உற்சாகமாக தொடங்குகிறது, அதைத் தொடர்ந்து B-Love Kandy மற்றும் Dambulla Thunders இடையிலான முதல் போட்டி கண்டியில் இரவு 7.30 மணிக்கு தொடங்குகிறது.
+
+◼️
+
+[Data](articles/8467bdde.json)
+
+---
+
+### Sri Lanka reaches deal on debt treatment with China’s Exim Bank
+
+*2024-06-26 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100121/sri-lanka-reaches-deal-on-debt-treatment-with-chinas-exim-bank) · `en`
+
+State Minister of Finance Shehan Semasinghe says that he met the Chinese Vice Minister of Finance, Liao Min in Paris and the final agreement has been reached on debt treatment between Sri Lanka and Export Import Bank of China.
+
+Posting on ‘X’ (formerly Twitter), Semasinghe stated that the formalities for signing of the implementing agreements are under way.
+
+Meanwhile, earlier today, Sri Lanka had also reached a final restructuring agreement for USD 5.8 billion of debt with its bilateral lenders’ Official Creditor Committee in Paris, France.
+
+This agreement grants significant debt relief, allowing Sri Lanka to allocate funds to essential public services and secure concessional financing for its development needs, according to the President’s Media Division (PMD).
+
+...
+
+[Data](articles/72fd400d.json)
+
+---
+
+### President assembled by the Cabinet
 
 *2024-06-26 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198186) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අද (26) පස්වරුවේ හදිසි කැබිනට් රැස්වීමක් කැඳවා තිබේ.
+President Ranil Wickremesinghe attended an emergency cabinet meeting where he was briefed on the national statement issued today.
 
-ඊට සහභාගීවීමෙන් අනතුරුව අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පැවසුවේ ජනාධිපතිවරයා අද ජාතිය අමතා සිදුකරන ප්‍රකාශය පිළිබඳව කැබිනට් මණ්ඩලයට දැනුම්දුන් බවය.
+🟩
+
+President Ranil Wickremesinghe has been called by an emergency cabinet meeting this afternoon.
+
+After attending, Minister Harin Fernando said that the President was informed to the Cabinet about the statement issued by the nation today.
 
 ◼️
 
 [Data](articles/0fd51714.json)
+
+[Extended Data](ext_articles/0fd51714.ext.json)
 
 ---
 
@@ -98,19 +158,25 @@ A train traveling from Maradana from Maradana has been underway at the Slave Isl
 
 ---
 
-### හෙටත් ගුරු විදුහල්පතිවරු ලෙඩවෙන ලකුණු
+### Heath Teacher Principal sick
 
 *2024-06-26 17:04:02* · [`adalk`](https://www.ada.lk/breaking_news/හෙටත්-ගුරු-විදුහල්පතිවරු-ලෙඩවෙන-ලකුණු/11-410453) · `si`
 
-ගැටලු කිහිපයක් මුල්කර ගනිමින් අද (26) විරෝධතා පා ගමනට එල්ලකල ජල හා කදුළු ගැස් ප්‍රහාරයන්ට විරෝධය දක්වා හෙට(27) දිනයේදි  අසනිප නිවාඩු වාර්ත කරන බව ගුරු විදුහල්පති වෘත්තිය සමිති සන්ධානය  සදහන් කරයි.
+The Guru Pr Schools Federation Alliance announced that unscheduled leaves will be reported tomorrow due to ongoing protests. Principals have demanded solutions to existing issues, affecting school operations. Today, trainees and principals participated in a trade union action, protesting the delay in salary increases.
 
-පවතින ගැටලු විසදන ලෙස ඉල්ලා අද දිනයේදිත් ගුරු විදුහල්පතිවරුන් අසනිප නිවාඩු වාර්තා කිරිමේ වෘත්තිය ක්‍රියා මාරගයක් සිදුකල අතර මේ නිසා පාසල් කටයුතුවලට දැඩි බලපෑම් සිදුවිය
+🟩
 
-ගුරුවරුන්ට සහ විදුහල්පතිවරුන්ට ලැබිය යුතු වැටුප් වැඩි වීමේ ඉතිරි කොටස වහා ලබා දෙන්නැයි බලකරමින් ගැටලු කිහිපයක් මුල්කර ගනිමින් අද (26) දිනයේද ගුරු විදුහල්පතිවරු අසනීප නිවාඩු වාර්තා කර සේවයට නොපැමිණ සිටීමේ වෘත්තීය සමිති ක්‍රියා මාර්ගයක නිරත වී සිටිය අතර කදුලු ගෑස් හා ජල ප්‍රහාරයන්ටද ලක්විය.
+The Guru Pr Schools Federation Alliance states that the unkills leave will be reported tomorrow (27) at the protest of the protest march.
+
+Guru principals have been reported to report the unknown leave today demanding solution to existing issues and the school activities have been influenced by the school activities
+
+Trainees and principals were on the trade union action today (26), who had not been able to unlock the rest of the salary increase and had been reported to the work.
 
 ◼️
 
 [Data](articles/2464d414.json)
+
+[Extended Data](ext_articles/2464d414.ext.json)
 
 ---
 
@@ -158,21 +224,27 @@ Indian media reports that the Indian Foreign Minister Kuwait Ambassador and the 
 
 ---
 
-### කුකුළු මස් හා බිත්තර හොදින් පිස ආහාරයට ගන්න
+### Eat the chicken and eggs well wipes
 
 *2024-06-26 16:48:55* · [`adalk`](https://www.ada.lk/breaking_news/කුකුළු-මස්-හා-බිත්තර-හොදින්-පිස-ආහාරයට-ගන්න/11-410452) · `si`
 
-කුකුළු මස් හා බිත්තර ආහාරයට ගැනීමේදී හොඳින් පිස ආහාරයට ගන්නා ලෙසත් අමු හෝ අඩුවෙන් පිසින ලද කුකුළු නිශ්පාදන පරිභෝජනයෙන් වළකින ලෙසත් සෞඛ්‍ය අමාත්‍යාංශය ජනතාවට දැනුම් දී සිටියි.
+The Ministry of Health advises thorough cleaning of uncooked poultry and avoiding contact with birds to prevent bird flu. Immediate notification to health authorities is required upon chicken deaths.
 
-ඉන්දියාවේ ව්‍යාප්තවූ කුරුළු උණ හේතුවෙන් සෞඛ්‍ය අමාත්‍යංශය මේ පිළිබඳව අවදානය යොමුකිරීමත් සමග සෞඛ්‍ය ප්‍රවර්ධන කාර් යංශය  විසින් මෙම දැනුමවත් කිරීම තවදුරටත් සිදුකරයි.
+🟩
 
-පක්ශීන් හේතුවෙන් පැතිරෙණ මෙම කුරුළු උණ මිනිසුන්ටද වැළඳිය හැකි බැවින් ඉතාමත්ම විමසිල්ලෙන් සිටින ලෙසත්, කුරුල්ලන් හෝ කුරුළු මළ අපද්‍රව්‍ය ස්පර්ශ වීමෙන් වළක්වා ගන්නා ලෙසත් වැඩිදුරටත් දැනුම්දී සිටියි.
+The Ministry of Health has informed the public to wipe out the chicken and eggs to wipe well and less cooked poultry products.
 
-කුකුළු ගෙවිපලවල කුකුලන් මියයාමක් සිදුවුවහොත් වහාම ප්‍රාදේශීය සෞඛ්‍ය බලධාරීන්ට ඒ බව දන්වන ලෙසත් ඔවුන් දැනුම් දී සිටියි.
+The Health Promotional Car Pyllation continues to pay attention to this as a result of the Ministry of Health due to the Ministry of Health, the Ministry of Health.
+
+The bird fever can also be closely aware and to avoid contacting birds or birds from contacting birds or bird waste.
+
+They have also been asked to inform the Regional Health Authorities immediately if the death of the chickens of poultry.
 
 ◼️
 
 [Data](articles/0fe952a4.json)
+
+[Extended Data](ext_articles/0fe952a4.ext.json)
 
 ---
 
@@ -1066,23 +1138,29 @@ Meanwhile, traffic in front of the fort railway station has been completely bloc
 
 ---
 
-### සරසවි අනධ්‍යන සේවකයන්ට ජනපතිගෙන් ඉල්ලීමක්
+### President requests university non-academic workers
 
 *2024-06-26 12:51:19* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-අනධ්‍යන-සේවකයන්ට-ජනපතිගෙන්-ඉල්ලීමක්/11-410447) · `si`
 
-තරුණ පරපුරට අවශ්‍ය අනාගත ශ්‍රී ලංකාව නිර්මාණය කිරීම පිළිබඳ රට පුරා පුළුල් සංවාදයක් ආරම්භ කළයුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe calls for global dialogue to shape Sri Lanka's future, emphasizing a shift towards a new economy. He promises land for tourism development and addresses concerns over the economy, urging a focus on exports similar to successful Asian nations. He invites youth involvement in planning for a prosperous future, highlighting the importance of unity and innovation.
 
-රට තුළ අලුත් ආර්ථිකයක් ඇති කිරීම වෙනුවෙන් අලුත් ගමනක් යා යුතු බවත්, එහිදී තරුණ පරපුරට ප්‍රමුඛ වගකීමක් පැවරෙන බවත් ජනාධිපතිවරයා අවධාරණය කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ අම්පාර එච්.එම්. වීරසිංහ ක්‍රීඩාංගණයේ දී ජාතික තරුණ සේවා සභාව විසින් සංවිධානය කර තිබු තරුණ හමුවට එක් වෙමිනි.
+President Ranil Wickremesinghe said that a wide discussion should be launched worldwide for the creation of future Sri Lanka needed for the younger generation.
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද පැවසීය,
+The President emphasized that a new journey should go to a new journey to create a new economy in the country.
 
-ත්‍රිකුණාමලයේ තිබෙන තරුණ සේවා සභාවට අයත් අක්කර 200ක ඉඩමෙන් කොටසක් සංචාරක ව්‍යාපාරය සඳහා ලබාදී ඉතිරි කොටස ස්ථීර යොවුන් පුරයක් ඇති කිරීම වෙනුවෙන් ලබාදීමට මම අපේක්ෂා කරනවා. ඒ අනුව ඔබේ විනෝදාස්වාද කටයුතු සඳහා නිදහසේ භාවිතා කළ හැකි අන්දමින් ඊළග වසර දෙක තුළදී එය සකස් කර දීමට කටයුතු කරන බව කිවයුතුයි.
+President Ranil Wickremesinghe said this was HM, Ampara. One of the youth organized by the National Youth Services Council at the Weerasinghe Stadium.
+
+Speaking further, President Ranil Wickremesinghe further said,
+
+I hope to provide a portion of 200 acres of land belonging to the tourism industry in Trincomalee.. It is necessary to be prepared in the next two years, as it can be used freely for your entertainment.
 
 ...
 
 [Data](articles/24d4135f.json)
+
+[Extended Data](ext_articles/24d4135f.ext.json)
 
 ---
 
@@ -1158,19 +1236,27 @@ At the same time, a similar incident took place in Chavakachcheri a year ago and
 
 ---
 
-### ’’ජාකොබ් පුතා’’ අයිතිකරුට රටින් පනින්න බැරිවෙයි
+### "Jacob Son" cannot jump out of the country
 
 *2024-06-26 12:35:47* · [`adalk`](https://www.ada.lk/breaking_news/’’ජාකොබ්-පුතා’’-අයිතිකරුට-රටින්-පනින්න-බැරිවෙයි/11-410445) · `si`
 
-මේ වනවිට ශ්‍රී ලංකා නාවික හමුදාව විසින් ඈත මුහුදු සීමාවේ දී හෙරොයින් කිලෝ ග්‍රෑම් 200 කට අධික ප්‍රමාණයක් සමග අත් අඩංගුවට ගෙන ගාල්ල වරාය වෙත රැගෙන එමින් සිටින " ජාකොබ් පුතා" බහු දින ධීවර යාත්‍රාවේ හිමිකරු , මෙම පුවත සැළවීමත් සමග මාළදිවයින වෙත පළා යාම සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ , අවසාන ආරක්ෂක කවුළුව ද පසු කර යාමට සූදානම් ව සිටියදී ගුවන් තොටුපොළ පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් පිරිසක් විසින් 06/25 දින රාත්‍රී අත් අඩංගුවට ගෙන තිබේ .
+Jacob Son, a Sri Lankan fisherman, was arrested by the Sri Lanka Navy for attempting to escape the country with his multi-day fishing vessel. Warnakulasuriya Anderson Indika, a 38-year-old businessman from Negombo, was also detained at Katunayake airport while trying to board an Emirates flight to Dubai. Both were taken for further investigation by the Colombo Police Narcotics Division.
 
-වර්ණකුලසූරිය ඇන්ඩර්සන් ඉන්දික ප්‍රනාන්දු නැමැති මොහු මීගමුව , පළගතුරය ප්‍රදේශයේ පදිංචි 38 හැවිරිදි ව්‍යාපාරිකයෙකි.
+🟩
 
-මොහු 06/25 දින රාත්‍රී 08.35 ට කටුනායක ගුවන් තොටුපොළෙන් මාළදිවයින බලා පිටත්ව යාමට සූදානම් වී තිබූ එමිරේට්ස් ගුවන් සේවයේ ඊ.කේ.- 653 දරන යානයට පිවිසීම සදහා ගුවන් තොටුපොළ වෙත පැමිණ සියලුම ගුවන් සේවා නිශ්කාශන කටයුතු නිමා කර ගුවන් යානයට පිවිසෙන අවසාන ආරක්ෂක කවුළුව වෙත පැමිණ තිබුණි .
+The Sri Lanka Navy is arrested by the Sri Lanka Navy in distant sea and the owner of the multi-day fishing vessel, which is being brought to the Galle harbor and the owner of the multi-day fishing vessel, the Katunayaka airport to flee this newsA group of officers of the Airport Police Narcotics Division have been arrested by the Police Narcotha Division of the Air Ports.
 
-...
+Warnakulasuriya Anderson Indika Indika Indika Indika Indika is a 38-year-old business resident of Negombo.
+
+He was 28.35 pm Emirates, which was preparing to leave for the Farket on the Katunayake airport at Katunayake airport.Happened.
+
+The arrested businessman has already been taken to the Headquarters of the Colombo Police Narcotics Division for further investigations.. The Police Narcotics Unit will be handed over to the Galle Harbor to the Galle Port on 6th April 06/26.
+
+◼️
 
 [Data](articles/e8a1b662.json)
+
+[Extended Data](ext_articles/e8a1b662.ext.json)
 
 ---
 
@@ -1215,6 +1301,26 @@ Teachers - The Lotus Road has blocked due to a protest of principals.
 [Data](articles/94dcedba.json)
 
 [Extended Data](ext_articles/94dcedba.ext.json)
+
+---
+
+### ஆசனவாயில்களில் தங்க ஜெல் உருண்டை : 06 பேர் கைது
+
+*2024-06-26 12:20:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசனவாயில்களில்-தங்க-ஜெல்-உருண்டை-06-பேர்-கைது/175-339465) · `ta`
+
+தங்க ஜெல் உருண்டைகளை தங்களுடைய ஆசன வாயில்களை மறைத்து வைத்து கடத்தினர் என்றக் குற்றச்சாட்டின் பேரில், 06 பேர், கட்டுநாயக்க விமான நிலையத்தில் வைத்து  கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்டவர்கள், துபாயில் இருந்து சென்னைக்கு வந்து அங்கிருந்து செவ்வாய்க்கிழமை  (25) பிற்பகல் 01.20 மணியளவில் இண்டிகோ ஏர்லைன்ஸ் விமானம்   மூலம் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்தனர்.
+
+தமது பயணப்பொதிகள் மற்றும் ஆசனவாய்களில் மறைத்து வைத்தே, தங்க ஜெல் உருண்டைகளை இவர்கள் கடத்தியுள்ளனர். இதன் உள்நாட்டு பெறுமதி, 18 கோடி ரூபாயாகும்.
+
+கைதானவர்கள், கல்முனை, மூதூர், கொழும்பு-10, கல்கெடிஹேன், மினுவாங்கொடை ஆகிய இடங்களில் வசிப்பவர்களும், அடிக்கடி விமானம் பயணங்களை மேற்கொள்பவர்கள், அவர்களில் 30 வயதுக்கும் 50 வயதுக்கும் இடைப்பட்ட ஆறு பேர் உள்ளனர்.
+
+அவர்களில் 4 பேர் மலக்குடலில் தங்க ஜெல் உருண்டைகளை மறைத்து வைத்திருந்ததாகவும், மேலுமிருவர்  22 தங்க ஜெல் உருண்டைகளில் 08 கிலோ 632 கிராம் எடையுள்ள தங்க ஜெல்களை மறைத்து வைத்திருந்ததாகவும் விமான நிலைய சுங்க அதிகாரி ஒருவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/87d7a37b.json)
 
 ---
 
@@ -2241,91 +2347,5 @@ Two others who were unable to verify the driver and identity of the bus, a 39-ye
 [Data](articles/6c70a7a8.json)
 
 [Extended Data](ext_articles/6c70a7a8.ext.json)
-
----
-
-### Red announcement from the weather for the next 24 hours
-
-*2024-06-26 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198155) · `si`
-
-A severe weather warning has been issued by the Department of Meteorology due to strong winds and rough seas, effective for the next 24 hours. The advisory is particularly cautious for coastal communities near the Arabian Sea, anticipating wind speeds of 65 to 75 knots. Additionally, heavy rainfall exceeding 50 mm is expected in several regions, including the Western, Sabaragamuwa, North Western provinces, and specific districts like Kandy, Nuwara Eliya, Galle, and Matara. Strong winds of 40-50 knots are also forecasted for the Western slopes of the central hills, Trincomalee, Hambantota, and Moneragala Districts.
-
-🟩
-
-The Department of Meteorology has issued a warning red notice of the strong winds and the sea.
-
-The announcement has been issued 3.30 this morning and is in effect for the next 24 hours.
-
-Accordingly, the release statement is more careful for the Thagudu Fisheries and Naval Community implemented in the Arabian Sea.
-
-According to active southwest monsoon, there may be 65 to 75, the sea areas can be very rough.
-
-Meanwhile, there will be showers at times in the Western, Sabaragamuwa and North Western provinces, in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-In some places in the Sabaragamuwa, Kurunegala, Kandy and Nuwara Eliya districts. Heavy rains cause more than 50.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. There are about 40-50 strong winds.
-
-◼️
-
-[Data](articles/f3e8deb7.json)
-
-[Extended Data](ext_articles/f3e8deb7.ext.json)
-
----
-
-### Sri Lanka’s solitary non-Govigama Prime Minister and President
-
-*2024-06-26 05:39:14* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-solitary-non-Govigama-Prime-Minister-and-President/4-763469) · `en`
-
-India, the world’s biggest democracy, held Parliamentary elections this year in seven phases from 19 April to 1 June. 642 million persons voted in the poll. Results were announced on 4 June. The incumbent Prime Minister Narendra Modi was re-elected PM for the third time. His party the Bharatiya Janata Party (BJP) won 240 of 572 Lok Sabha or Parliament seats. Together with allied parties the BJP led National Democratic Alliance (NDA) obtained 293 seats in Parliament.
-
-The election results have been continuously analysed and commented upon from the time of the poll. A significant aspect of these analyses and commentaries is the “caste factor”. Indian analysts and commentators are not “shy” about discussing caste openly when dissecting poll results. It is an acknowledged fact in India that caste plays a very influential role in determining the outcome of elections in many electorates, regions or states. Many Indians delve into the “caste in elections” topic without any inhibitions.
-
-...
-
-[Data](articles/4bd181e5.json)
-
-[Extended Data](ext_articles/4bd181e5.ext.json)
-
----
-
-### Emerging Presidential election campaigns in Sri Lanka: Liberal consensus and fringe politics
-
-*2024-06-26 05:33:58* · [`dailyftlk`](https://www.ft.lk/columns/Emerging-Presidential-election-campaigns-in-Sri-Lanka-Liberal-consensus-and-fringe-politics/4-763468) · `en`
-
-In the lead up to Presidential elections, the three leading political camps—the President Ranil Wickremesinghe-led Government, the Samagi Jana Balawegaya (SJB), and the National People’s Power (NPP)—appear to converge on two key issues, namely, an International Monetary Fund (IMF)-led path to economic recovery, and the continuity of the Provincial Councils (PC) system.
-
-On the economic front, the current IMF program is now backed, to varying degrees, by all three camps. The SJB and the NPP, from the Opposition, argue that they would negotiate the Government’s IMF deal to more favourable terms that especially benefit the more vulnerable, poorer sections of society. This indicates one side of the policy convergence that ‘there is no alternative’ to the IMF.
-
-...
-
-[Data](articles/7297c29a.json)
-
-[Extended Data](ext_articles/7297c29a.ext.json)
-
----
-
-### Economics through Computer and Information Technology - Technology Unit - President
-
-*2024-06-26 05:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/186984) · `ta`
-
-President Ranil Wickremesinghe emphasized the government's focus on integrating economics with technology, aiming to transform the Colombo port city into a financial hub and encourage both domestic and foreign investments in digital technology applications. He highlighted the importance of a digital economy and innovation during the 'Digiecon' World Investment Conference, discussing potential growth sectors like tourism and agriculture modernization. The president also mentioned ongoing discussions with India and preliminary negotiations with China regarding technological cooperation and the establishment of a national center for artificial intelligence.
-
-🟩
-
-President Ranil Wickremesinghe said that the government is paying special attention to the integration of economic and technology through computer and information technology.
-
-The President said that our aim is to build the Colombo port city as a financial zone that promotes investments in Sri Lanka and to hand over the development and digital technology applications of industrial institutions to domestic and foreign investors.
-
-President Ranil Wickremesinghe made this statement while addressing the inauguration of the 'Digiecon' World Investment Conference for 2024.
-
-The 'Digiecon' World Investment Conference for 2024 commenced on Tuesday (25) at the Chinaman Grand Hotel, headed by President Ranil Wickremesinghe, under the theme 'Use of Sri Lanka's Useless Skill'.
-
-...
-
-[Data](articles/81d6c545.json)
-
-[Extended Data](ext_articles/81d6c545.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 02:04:59**
+As of **2024-06-27 02:19:27**
 
 ## Newspaper Stats
 
-*Scraped **32,354** Articles*
+*Scraped **32,358** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 318
 newsfirstlk | 363
 islandlk | 1,790
 economynextcom | 1,884
-dailyftlk | 1,983
+dailyftlk | 1,987
 adalk | 2,862
 adaderanalk | 3,681
 tamilmirrorlk | 3,820
@@ -26,11 +26,77 @@ adaderanasinhalalk | 5,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,349 (100.0%) of 32,354 articles have been extended.
+32,354 (100.0%) of 32,358 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### India says will continue to support Sri Lanka
+
+*2024-06-27 02:04:48* · [`dailyftlk`](https://www.ft.lk/news/India-says-will-continue-to-support-Sri-Lanka/56-763543) · `en`
+
+India said yesterday it will continue to support Sri Lanka’s economic recovery including by promoting long-term investments in its key economic sectors.
+
+The announcement follows the Memorandum of Understanding (MoU) on debt restructuring between Official Creditors Committee and the Government of Sri Lanka.
+
+In a statement, India said as one of the co-chairs of the OCC, along with France and Japan, India has been steadfast in its commitment to the stabilisation, recovery and growth of the Sri Lankan economy. “This was also demonstrated by India’s unprecedented financial support of $ 4 billion to Sri Lanka. India was also the first creditor nation to convey financing assurances to IMF which paved the way for Sri Lanka to secure the IMF program,” the statement said.
+
+...
+
+[Data](articles/ea368079.json)
+
+---
+
+### Ali Sabry to undertake official visit to Japan
+
+*2024-06-27 02:04:01* · [`dailyftlk`](https://www.ft.lk/news/Ali-Sabry-to-undertake-official-visit-to-Japan/56-763542) · `en`
+
+On an invitation extended by Japanese Foreign Minister Yoko Kamikawa, Foreign Minister Ali Sabry is scheduled to undertake an official visit to Japan from 1 July.
+
+During this visit, the Foreign Minister will engage in bilateral discussions with his Japanese counterpart which will focus on making further progress on the outcome of the latter’s official visit to Sri Lanka in May. Foreign Minister Sabry will also call on several other dignitaries including Japan’s Chief Cabinet Secretary Yoshimasa Hayashi.
+
+The Foreign Minister will be accompanied by senior officials of the Ministry of Foreign Affairs of Sri Lanka.
+
+◼️
+
+[Data](articles/8541ce5a.json)
+
+---
+
+### DTNA mulls over common Tamil candidate for Presidential race
+
+*2024-06-27 02:01:11* · [`dailyftlk`](https://www.ft.lk/news/DTNA-mulls-over-common-Tamil-candidate-for-Presidential-race/56-763541) · `en`
+
+The Democratic National Alliance (DTNA) reportedly held discussions this week about fielding a common Tamil candidate for the upcoming Presidential election. The DTNA comprises several Tamil political parties, including Crusaders for Democracy, Democratic People’s Liberation Front (DPLF), People’s Liberation Organisation of Tamil Eelam (PLOTE), Eelam People’s Revolutionary Liberation Front (EPRLF), and the Tamil Eelam Liberation Organisation (TELO). The DTNA holds opposing views to the rival Tamil National Alliance (TNA).
+
+On Monday, DTNA party leaders met and discussed the idea of fielding a common Tamil candidate, agreeing not to support a candidate from the mainstream political parties. Sources indicated that the proposal to field a common candidate was initially brought forward by the EPRLF, led by former MP Suresh Premachandran.
+
+...
+
+[Data](articles/d023e084.json)
+
+---
+
+### AG clears draft Bill to amend Mediation Board Act
+
+*2024-06-27 01:59:54* · [`dailyftlk`](https://www.ft.lk/news/AG-clears-draft-Bill-to-amend-Mediation-Board-Act/56-763540) · `en`
+
+The Cabinet of Ministers on Monday approved the publication of the draft Bill to amend the Mediation Board Act in the Government gazette and table it in Parliament for approval.
+
+The move follows Attorney General’s clearance to the revised Bill prepared by the Legal Draftsman.
+
+On 25 September 2023, the Cabinet of Ministers granted approval to amend Section 7 of the Mediation Board Act No. 72 of 1988 to address issues related to court appearances when mediation is not mutually agreed upon by both parties.
+
+The amendment also aims to tackle administrative problems, such as delays in issuing non-clearance certificates by mediation boards and the non-existence of operational mediation boards.
+
+The proposal to this effect submitted by the Justice, Prison Affairs and Constitutional Reforms Minister Dr. Wijeyadasa Rajapakshe was approved by the Cabinet of Ministers.
+
+◼️
+
+[Data](articles/8e299b1c.json)
+
+---
 
 ### Sri Lanka Mission in Brazil promotes trade, tourism and investment ties with State of Rio de Janeiro
 
@@ -43,6 +109,8 @@ During the visit, Ambassador Sumith Dassanayake had a meeting with the First Vic
 ...
 
 [Data](articles/bb10966d.json)
+
+[Extended Data](ext_articles/bb10966d.ext.json)
 
 ---
 
@@ -59,6 +127,8 @@ This platform will facilitate the sharing of global knowledge and best practices
 ...
 
 [Data](articles/e5a3d9c3.json)
+
+[Extended Data](ext_articles/e5a3d9c3.ext.json)
 
 ---
 
@@ -96,6 +166,8 @@ CEO Nishal Ferdinando said: “We are delighted to welcome Ajith Bandara, Dilsha
 
 [Data](articles/c5e12a8b.json)
 
+[Extended Data](ext_articles/c5e12a8b.ext.json)
+
 ---
 
 ### Southern India participates in Industry Expo 2024 in Sri Lanka
@@ -109,6 +181,8 @@ The South Indian delegation engaged in various B2B meetings and had meetings wit
 ...
 
 [Data](articles/ca8d61d9.json)
+
+[Extended Data](ext_articles/ca8d61d9.ext.json)
 
 ---
 
@@ -131,6 +205,8 @@ We are all aware of the risks associated with choosing the wrong path. Individua
 ...
 
 [Data](articles/661ae823.json)
+
+[Extended Data](ext_articles/661ae823.ext.json)
 
 ---
 
@@ -2205,105 +2281,5 @@ I don't want to recall this in so much but we need to know our history.
 [Data](articles/2d291bba.json)
 
 [Extended Data](ext_articles/2d291bba.ext.json)
-
----
-
-### Discretion discussion begins
-
-*2024-06-26 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198176) · `si`
-
-A delegation from Sri Lanka, including State Minister Shehan Semasinghe, Finance Ministry Secretary Mahinda Siriwardena, and Central Bank Governor Dr. Nandalal Weerasinghe, traveled to France to discuss debt restructuring with Paris society and other creditors. The aim is to renegotiate both local and foreign debts, focusing on bilateral agreements and international bond restructurings. These efforts follow approval from the last cabinet meeting and are set to conclude with a national address by the President tonight, accompanied by special statements on various news channels.
-
-🟩
-
-The discussions have commenced to enhance the restructuring agreements with Paris society.
-
-State Minister Shehan Semasinghe, Finance Ministry Secretary Mahinda Siriwardena and Central Bank Dr. Nandalal Weerasinghe left for France.
-
-The discussions began to restructuring local and foreign debts that Sri Lanka was not able to pay the debt.
-
-Although the restructuring of local debt, India, India and other creditors, have continued to restructure bilateral debts with international bonds and restructuring with international bond owners.
-
-Sri Lanka has the opportunity to enter the restructuring agreement with Paris society to effectively construct the talks with bilateral creditors to an effective end.
-
-These agreements were approved at the last cabinet meeting.
-
-After signing the relevant agreements, the President is scheduled to address the nation this night (26).
-
-...
-
-[Data](articles/06b32a35.json)
-
-[Extended Data](ext_articles/06b32a35.ext.json)
-
----
-
-### Man injured in shooting in Nivithigala
-
-*2024-06-26 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100110/man-injured-in-shooting-in-nivithigala) · `en`
-
-A shooting incident was reported in the Pathakada area in the Nivithigala police division today (26).
-
-Police stated that investigations were launched based on information received regarding the incident.
-
-According to the police, a 38-year-old resident of the Pathakada area of Dikovita Watta sustained injuries to his leg in the incident and is now receiving medical attention at the Nivithigala Hospital.
-
-It was reported that an unidentified assailant who arrived on foot had fired a shot, and then fled the scene, while the victim was in the backyard of his house with a relative.
-
-Police further stated that the motive behind the shooting has not yet been uncovered yet.
-
-◼️
-
-[Data](articles/d61a4159.json)
-
-[Extended Data](ext_articles/d61a4159.ext.json)
-
----
-
-### A Grama Niladhari arrested for bribery
-
-*2024-06-26 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198175) · `si`
-
-A Grama Niladhari was arrested for demanding Rs. 25,000 in bribes to resolve a land issue. The woman victim reported the incident to the Commission to Investigate Allegations of Bribery or Corruption, leading to the arrest. The suspect is now remanded until the 9th of this month.
-
-🟩
-
-A Grama Niladhari of Bribery or Corruption has been arrested by the Commission to Investigate Allegations of Bribery or Corruption.
-
-The Grama Niladhari had requested Rs. 25,000 from a woman to solve a land problem and the woman has lodged a complaint with the commission.
-
-Accordingly, the Grama Niladhari had been arrested by the Investigation Officers yesterday (25).
-
-The Grama Niladhari has been remanded until the 9th of this month.
-
-◼️
-
-[Data](articles/4dacddf4.json)
-
-[Extended Data](ext_articles/4dacddf4.ext.json)
-
----
-
-### Sapugaskanda Oil Refinery makes a separate company
-
-*2024-06-26 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198174) · `si`
-
-Sapugaskanda Oil Refinery, now a separate entity under Ceylon Petroleum Corporation, aims to boost investment, enhance fuel quality, efficiency, and capacity, and cut costs. The corporation's structure, including salaries, is being overhauled, alongside the introduction of digital platforms for various services. This move was discussed by the senior management and Minister Kanchana Wijesekara recently.
-
-🟩
-
-Power and Energy Minister Kanchana Wijesekara says that the Sapugaskanda Oil Refinery will be a separate institution belonging to the Ceylon Petroleum Corporation.
-
-It can attract the necessary investments and increase the quality, efficiency and capacity of fuel and reduce the costs.
-
-The Minister of Ceylon Petroleum Corporation is currently reviewed and the approved cadre and salary structure will also be reviewed and digital platforms for various purposes and services.
-
-The senior management of the Ceylon Petroleum Corporation and the Minister of Ceylon Petroleum Corporation and Minister Kanchana Wijesekara have held a discussion yesterday (25).
-
-◼️
-
-[Data](articles/6de56382.json)
-
-[Extended Data](ext_articles/6de56382.ext.json)
 
 ---

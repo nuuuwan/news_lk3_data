@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 11:19:24**
+As of **2024-06-26 11:35:03**
 
 ## Newspaper Stats
 
-*Scraped **32,212** Articles*
+*Scraped **32,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,790
 economynextcom | 1,868
 dailyftlk | 1,976
 adalk | 2,838
-adaderanalk | 3,658
+adaderanalk | 3,659
 tamilmirrorlk | 3,800
 dailymirrorlk | 4,733
 virakesarilk | 4,994
@@ -26,55 +26,89 @@ adaderanasinhalalk | 5,285
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,206 (100.0%) of 32,212 articles have been extended.
+32,212 (100.0%) of 32,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### ස්ටාලින් ඇතුළු පිරිසකට තහනමක්
+### CPC refinery to become separate govt-owned entity under restructuring plan
+
+*2024-06-26 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/100106/cpc-refinery-to-become-separate-govt-owned-entity-under-restructuring-plan) · `en`
+
+Minister of Power and Energy, Kanchana Wijesekera says a discussion on the timeline and process for implementing the reforms pertaining to the Ceylon Petroleum Corporation (CPC) took place yesterday with the senior management of the CPC and the refinery.
+
+In a post on ‘X’ (formerly Twitter), he said that under the restructuring plan, the CPC-owned refinery will be set up as a separate government-owned and operated entity to attract and raise investments with the aim of improving fuel quality, efficiency, capacity, and reducing costs.
+
+The restructuring plan includes revising the current approved carder and salary structure of the CPC while digital platforms will be introduced for multiple functions and services, he said.
+
+◼️
+
+[Data](articles/f8bc2800.json)
+
+---
+
+### Stalin banned into a group of people
 
 *2024-06-26 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198168) · `si`
 
-අද (26) දහවල් පැවැත්වීමට නියමිතව තිබූ ගුරු - විදුහල්පති විරෝධයට සම්බන්ධ වන පුද්ගලයින් කිහිපදෙනෙකුට එරෙහිව කොටුව මහෙස්ත්‍රාත් අධිකරණයෙන් තහනම් නියෝගයක් නිකුත් කර තිබේ.
+The Fort Magistrate's Court has prohibited several individuals from a protest against school authorities, including the Teacher and Principal.
+
+🟩
+
+Fort Magistrate's Court has issued a prohibition against several persons involved in the protest against the Teacher and Principal of the Teachers' Principal of the Teacher-Principal of the Teacher-Principal of the Teacher and Principal of the Teacher-Principal.
 
 ◼️
 
 [Data](articles/77692d4c.json)
 
+[Extended Data](ext_articles/77692d4c.ext.json)
+
 ---
 
-### ක්‍රිකට් උඩුයටිකුරු කළ ඩක්වර්ත් ජීවිතයෙන් සමුගනී
+### Duckworthwith of cricket retirees
 
 *2024-06-26 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198167) · `si`
 
-වර්ෂාවෙන් බාධා එල්ලවූ ක්‍රිකට් තරගවල ප්‍රතිඵලය තීරණය කිරීමට යොදාගන්නා ඩක්වර්ත් - ලුවිස් ක්‍රමවේදයේ එක නිපැයුම්කරුවෙක් වූ ෆ්‍රෑන්ක් ඩක්වර්ත් ජීවිතක්ෂයට පත්වී තිබේ.
+The Duckworth-Lewis (DLS) method, devised by English statisticians Duckworth and Lewis in 1997, adjusts cricket scores during rain-affected matches. It was adopted by the International Cricket Council in 2001 and revised in 2014 by an Australian statistician, incorporating changes to better reflect current playing conditions.
 
-ඉංග්‍රීසි ජාතික සංඛ්යානවේදීන් වන ඩක්වර්ත් සහ ටෝනි ලුවිස් විසින් නිර්මාණය කරන ලද එම ක්‍රමවේදය පළමුව ජාත්‍යන්තර ක්‍රිකට් තරගයකදී භාවිත කළේ 1997 දීය.
+🟩
 
-එය ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් විධිමත් ලෙස සම්මත කරන ලද්දේ 2001 දීය.
+The Duckworth - Lewis System used to determine the outcome of the cricket matches of the rainfall.
 
-නමුත් 2014 දී DLS ලෙස එම ක්‍රමවේදය නම්කරන ලද්දේ ඔස්ට්‍රේලියානු ජාතික ස්ටර්න් විසින් එම ක්‍රමවේදයට සිදුකළ වෙනස්කම් සමගිනි.
+The methodology created by the English Statistics, Duckworth and Tony Lewis, was first used in 1997 in 1997.
+
+The International Cricket Council was formally passed in 2001.
+
+But in 2014, the methodology was named DLS with changes made by Australian national starn.
 
 ◼️
 
 [Data](articles/dd19852f.json)
 
+[Extended Data](ext_articles/dd19852f.ext.json)
+
 ---
 
-### காத்திருந்த மாணவன் கைது
+### Arrest of the student waiting
 
 *2024-06-26 10:39:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காத்திருந்த-மாணவன்-கைது/175-339451) · `ta`
 
-தம்புத்தேகம பஸ் நிலையத்தில் நின்றுக்கொண்டிருந்த பாடசாலை மாணவர் ஒருவர் போலி நாணயத்தாள்களுடன் கைது செய்யப்பட்டதாக தம்புத்தேகம பொலிஸார் தெரிவித்தனர்.
+In Tambuttegama, a schoolgirl was arrested for possessing counterfeit currency at the bus station. Police, noticing her suspicious behavior, conducted a search and later found printing equipment for fake money at her home.
 
-குறித்த மாணவன் செவ்வாய்க்கிழமை (25) பிற்பகல் தம்புத்தேகம பேருந்து நிலையத்திற்கு அருகில் சந்தேகத்திற்கிடமாக நின்றுக்கொண்டிருந்ததை அவதானித்த பொலிஸ் உத்தியோகத்தர் ஒருவர் , மாணவனை அழைத்து சோதனையிட்ட போது அவரிடமிருந்து போலி 500 ரூபாய் நாணயத்தாள்கள் ஆறு கைப்பற்றப்பட்டுள்ளது .
+🟩
 
-பின்னர், பொலிஸாரால் மேற்கொண்ட விசாரணைகளையடுத்து குறித்த மாணவனின் வீட்டை சோதனையிட்ட போது வீட்டில் இருந்து  போலி பணம் அச்சடிக்கும் கருவிகளை கைப்பற்றியுள்ளனர்.
+Tambuttegama police said that a schoolgirl who was standing at the Tambuttegama bus station was arrested with fake currency notes.
+
+A police officer who observed that the student was standing near the Thambuttegama bus station on Tuesday afternoon (25) when a police officer called the student and searched the student.
+
+Later, the police seized the house of the student's house after investigations by the police, seized fake money printing equipment from the house.
 
 ◼️
 
 [Data](articles/6743baf9.json)
+
+[Extended Data](ext_articles/6743baf9.ext.json)
 
 ---
 
@@ -94,23 +128,31 @@ Twenty-two male students and eight female students along with the teacher have b
 
 [Data](articles/9fd114f6.json)
 
+[Extended Data](ext_articles/9fd114f6.ext.json)
+
 ---
 
-### துப்பாக்கிச்சூட்டில் ஒருவர் காயம்
+### In injury to one of the shooters
 
 *2024-06-26 10:24:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டில்-ஒருவர்-காயம்/175-339446) · `ta`
 
-நிவிதிகல பொலிஸ் பிரிவிற்குட்பட்ட பாதகட பகுதியில் நபர் ஒருவர் துப்பாக்கி பிரயோகத்திற்கு உட்பட்டுள்ளார்.
+A shooter killed one person and injured another in Padakada, Nivitigala. The victim, a 38-year-old married man, was shot while in his yard with his nephew. He was taken to Nivithigala Hospital.
 
-திக்கோவிட்ட வத்த, பாதகட பிரதேசத்தைச் சேர்ந்த 38 வயதுடைய நபரே துப்பாக்கிச் சூட்டில் காயமடைந்துள்ளார்.
+🟩
 
-காயமடைந்தவர் திருமணமானவர் என்பதுடன், குறித்த நபர் தனது மருமகனுடன் வீட்டு முற்றத்தில் இருந்த போது, ​​முகத்தை மறைத்து அருகில் வந்த இனந்தெரியாத துப்பாக்கிதாரி ஒருவர் இவர் மீது துப்பாக்கிப்பிரயோகத்தை மேற்கொண்டுவிட்டு தப்பிச் சென்றுள்ளார்.
+A person has been shot dead in the Padakada area of ​​the Nivitigala Police Division.
 
-துப்பாக்கிச் சூட்டுக்கு இலக்கான நபரின் காலில் காயம் ஏற்பட்டு நிவித்திகல வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+A 38 -year -old man from Padakada, Thikovitta, was injured in the shooting.
+
+The injured man is married and the man who came to the house with his nephew in the courtyard with his nephew, has fired an unidentified gunman who fled his face.
+
+The man who was targeted for the shooting was injured and admitted to the Nivithigala Hospital.
 
 ◼️
 
 [Data](articles/08bedb10.json)
+
+[Extended Data](ext_articles/08bedb10.ext.json)
 
 ---
 
@@ -1448,21 +1490,29 @@ In the Commercial Bank crossing/arranged transaction three buyers purchased its 
 
 ---
 
-### ගුරු විදුහල්පතිවරු අද කොළඹට
+### Guru principals to Colombo
 
 *2024-06-25 19:29:13* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-විදුහල්පතිවරු-අද-කොළඹට/11-410438) · `si`
 
-ගුරු විදුහල්පතිවරුන්ටසහ අධ්‍යාපනක්ෂේත්‍රයට ඇති වී තිබෙන පොදු ගැටලු විසඳාගැනීමටඅද (26දා) ගුරු විදුහල්පතිවරුන් අසනීප වාර්තා කර කොළඹ කොටුව දුම්රිය පොළ ඉදිරිපිටට රැස් වී විරෝධතා ව්‍යාපාරයක් පවත්වන බව ගුරු විදුහල්පති වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
+Teacher principals, along with Pirivena teachers and advisors, plan a protest outside Colombo Fort Railway Station due to unresolved issues including salary anomalies and the abolition of certain school practices. The protest, involving 30 trade unions, aims to address longstanding grievances since November last year.
 
-ඉල්ලීම් කිහිපයක් මුල් කර ගනිමින් ගුරු විදුහල්පතිවරුන්,පිරිවෙන් ගුරුවරුන් හා ගුරු උපදේශකවරුන් අසනීප නිවාඩු වාර්තා කරන බවද එම සන්ධානයේ සාමාජික ලංකා ගුරුසේවා සංගමයේ ලේකම් මහින්ද ජයසිංහ මහතා සඳහන් කළේය.
+🟩
 
-මෙම ක්‍රියාමාර්ගය සඳහා වෘත්තීය සමිති 30කට අයත් සාමාජිකයන් සම්බන්ධවන බවත් විරෝධතා ව්‍යාපාරය කොළඹ කොටුව දුම්රිය පොළ ඉදිරිපිටදී උදේ 11.00 පැවැත්වීමට සැලසුම් කර තිබෙන බවද පැවසීය.
+The Gururu Pr Schools, the Guru Principal Trade Union Alliance states that the teacher principals have been sick and conducted in front of the Colombo Fort Railway Station (26).
 
-පවතින ගැටලු විසඳා ගැනීම් සඳහා බලධාරීන් සමග පැවැත්වූ සාකච්ඡා ආසාර්ථක වීම නිසා වැඩවර්ජන ක්‍රියාමාර්ගයකට යාමට සිදුවූ බවත් පවතින ගැටලු විසඳා ගැනීම සඳහා පසුගිය වසරේ නොවැම්බර් මාසයේ සිට මේ දක්වා විරෝධතා ව්‍යාපාර පැවැත්වීමට කටයුතු කළද, ගැටලු විසඳීමට ආණ්ඩුව හෝ බලධාරීන් කටයුතු නොකළ බවද හෙතෙම පැවසීය.
+Teacher Principals, Pirivena Teachers and Teacher Advisors report sick leave, said that the Pirivena teachers and teacher consultants will report sick leave over several demands.
 
-...
+It is planned to be held in front of 30 trade unions and the protest movement is scheduled to be held in front of the Fort Railway Station.
+
+He said that the protesters or authorities had not taken the protesters from November last year to resolve the issues of the authorities to resolve existing problems.
+
+These are the preparation of two landslides not yet to resolve the salary anomalies of the teachers' salaries, demanding the abolition of school educational and demanding the abolition of the activities of the Principal.He said the course was taken.
+
+◼️
 
 [Data](articles/08ca258a.json)
+
+[Extended Data](ext_articles/08ca258a.ext.json)
 
 ---
 
@@ -2265,23 +2315,5 @@ The judge also set the case to be heard on September 25.
 [Data](articles/702f71cd.json)
 
 [Extended Data](ext_articles/702f71cd.ext.json)
-
----
-
-### Allowance increase for O/L and Scholarship exam evaluators?
-
-*2024-06-25 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100094/-allowance-increase-for-ol-and-scholarship-exam-evaluators-) · `en`
-
-The Ministry of Education has announced that the sub-committee’s recommendation has been received to increase the allowances provided for the teachers engaged in answer sheet evaluation activities of G.C.E. Ordinary Level and Grade 5 Scholarship examinations.
-
-Furthermore, the Education Ministry stated that the recommendations will be forwarded to the Cabinet of Ministers for approval.
-
-Additionally, the Ministry of Education stated that it will intervene to bring down the prices of essential exercise books and other types of stationaries.
-
-◼️
-
-[Data](articles/b81346a0.json)
-
-[Extended Data](ext_articles/b81346a0.ext.json)
 
 ---

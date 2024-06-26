@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 22:34:44**
+As of **2024-06-26 22:52:39**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 5,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,322 (100.0%) of 32,328 articles have been extended.
+32,328 (100.0%) of 32,328 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### ජනපති ජාතිය ඇමතූ පසු ජනතාවගෙන් ප්‍රතිචාර
+### Responses from the people after calling the nation
 
 *2024-06-26 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198193) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (26) රාත්‍රියේ ජාතිය අමතමින් විශේෂ ප්‍රකාශයක් සිදු කළේය.
+In his address, President Ranil Wickremesinghe spoke to the nation on the evening of April 26th.
+
+🟩
+
+President Ranil Wickremesinghe addressed the nation this night (26).
 
 ◼️
 
 [Data](articles/0379c32c.json)
+
+[Extended Data](ext_articles/0379c32c.ext.json)
 
 ---
 
@@ -838,19 +844,25 @@ After attending, Minister Harin Fernando said that the President was informed to
 
 ---
 
-### திருகோணமலையில் மதுபானசாலைக்கு எதிர்ப்பு தெரிவித்து போராடிய 15 பேருக்கு விளக்கமறியல்
+### 15 persons who protested against the liquor store in Trincomalee
 
 *2024-06-26 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/187040) · `ta`
 
-திருகோணமலை, மூதூர் இருதய புரத்தில் ஆரம்பிக்கப்பட்ட மதுபான சாலைக்கு எதிர்ப்பு தெரிவித்து போராட்டத்தில் ஈடுபட்ட 15 நபர்களை மூதூர் பொலிஸார் நேற்று செவ்வாய்க்கிழமை (25) கைது செய்தனர்.
+Fifteen protesters against a liquor store in Trincomalee's Muttur were arrested on Tuesday for unauthorized assembly, obstructing police duties, and assaulting officers. They were remanded until July 3rd by a magistrate.
 
-குறித்த நபர்கள் இன்றைய தினம் மூதூர் நீதிமன்ற நீதவான் முன்னிலையில் மன்றில் ஆஜர்படுத்தப்பட்டதையடுத்து, 15 நபர்களையும் எதிர்வரும் ஜூலை மாதம் 3 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு பொலிஸாருக்கு நீதவான் உத்தரவிட்டார்.
+🟩
 
-குறித்த நபர்களை அனுமதி இன்றி ஒன்று கூடியமை, பொலிஸாரின் கடமைக்கு இடையூறு விளைவித்தமை, பொலிஸாரை தாக்கியமை போன்ற குற்றச்சாட்டின் பேரில் கைது செய்யப்பட்டனர்.
+Muttur police arrested 15 persons who were protesting against the liquor road in Muttur in Trincomalee on Tuesday (25).
+
+The Magistrate ordered the police to be remanded until July 3, after the persons were produced before the Muttur Court Magistrate today.
+
+The men were arrested on charges of gathering without permission, disrupting the duty of the police, and assaulting the police.
 
 ◼️
 
 [Data](articles/8b8979a3.json)
+
+[Extended Data](ext_articles/8b8979a3.ext.json)
 
 ---
 
@@ -870,25 +882,33 @@ The slow train plying from Maradana to Moratuwa at 3.50 p.m. has experienced a t
 
 ---
 
-### நீர்கொழும்பில் இணைய மோசடியில் ஈடுபட்ட வெளிநாட்டவர்கள் உட்பட 33 பேர் கைது
+### 33 arrested, including foreigners in Negombo
 
 *2024-06-26 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/187028) · `ta`
 
-பல வெளிநாட்டு பிரஜைகளையும் உள்ளூர் மக்களையும் குறிவைத்து இணையம் ஊடாக நிதி மோசடியில் ஈடுபட்டதாக கூறப்படும் வெளிநாட்டு பிரஜை உட்பட 33 பேரை நீர்கொழும்பில் குற்றப் புலனாய்வுத் திணைக்களம் கைது செய்துள்ளது.
+In Negombo, 33 individuals, including foreigners, were arrested for online financial fraud targeting locals and foreigners. A woman lost 5.4 million rupees after investing in a scheme promising returns from liking and commenting on Digtok videos. Police actions led to the arrest of two more suspects and the seizure of numerous devices used for fraud. Authorities also arrested 19 more suspects from various countries, warning the public about scams impersonating popular companies on social media.
 
-டிக்டொக் வீடியோக்களை  லைக் செய்வதற்கும், கருத்து தெரிவிப்பதற்கும் பணம் தருவதாக கூறி வட்ஸ்அப் குழு ஒன்றில் பெண்ணொருவர்  இணைந்துள்ளார்.
+🟩
 
-ஆரம்பத்தில் லைக் மற்றும் கமெண்ட் செய்ததற்காக இந்த பெண் பணம் பெற்றுள்ளார். பின்னர் தொடர்ந்து பணத்தை பெற்றுக்கொள்ள வங்கிக் கணக்கில் 5.4 மில்லியன் ரூபாய் முதலீடு  செய்துள்ளார்.
+The Criminal Investigation Department (CID) has arrested 33 people, including a foreign citizen who allegedly engaged in financial fraud on the Internet, targeting several foreign nationals and local people.
 
-பணத்தை முதலீடு செய்த போதிலும் அவர் திரும்ப பணத்தை பெறவில்லை. இந்நிலையில், குறித்த பெண் பொலிஸில் முறைப்பாடு செய்துள்ளார்.
+A woman has joined a WhatsApp group, claiming to have paid to like and comment Digtok videos.
 
-பெண்ணின் முறைப்பாட்டிற்கு அமைய  வங்கிக் கணக்குகள் தொடர்பான மேலதிக விசாரணைகளின் போது தந்தை மற்றும் மகன் ஆகிய இருவரை பொலிஸார் கைது செய்தனர்.
+Initially Like and Comment this woman has received money. He then invested 5.4 million rupees in the bank account to continue to get the money.
 
-இதேவேளை,  பீட்சா ஆர்டர் செய்யப்பட்ட வங்கி கணக்கொன்றின் மூலம் நீர்கொழும்பிலுள்ள வீடொன்றில் சோதனை நடத்திய போது இரண்டு பெண்கள் உட்பட 13 சந்தேக நபர்கள் கைது செய்யப்பட்டனர்.
+Although he invested money he did not receive the money back. In this case, the woman has lodged a complaint with the police.
+
+Police arrested two father and son during further inquiries into bank accounts on the woman's complaint.
+
+Meanwhile, 13 suspects, including two women, were arrested during a raid on a house in Negombo through a pizza ordered bank account.
+
+57 mobile phones, 13 computers and 3 laptops used for fraudulent activities were handed over by the authorities.
 
 ...
 
 [Data](articles/6aa61a16.json)
+
+[Extended Data](ext_articles/6aa61a16.ext.json)
 
 ---
 
@@ -954,21 +974,31 @@ The suspects were arrested after being subjected to scan tests by the Customs of
 
 ---
 
-### சட்டப்பேரவையிலிருந்து அதிமுக சட்டமன்ற உறுப்பினர்கள் இடைநீக்கம்
+### AIADMK legislators suspended from legislative session
 
 *2024-06-26 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/187042) · `ta`
 
-தமிழக சட்டப் பேரவையிலிருந்து அதிமுக சட்டமன்ற உறுப்பினர்கள் இந்தத் தொடர் முழுவதும் இடைநீக்கம் செய்யப்படுவதாக சட்டப்பேரவைத் தலைவர் அப்பாவு உத்தரவிட்டிருக்கிறார்.
+AIADMK legislators were suspended during a legislative session for continuing to discuss the death toll in Kallakurichi despite orders. They wore black to protest and demanded discussion on the issue. Despite warnings, they remained seated, leading to their suspension. The chief minister and other officials supported the decision, highlighting the importance of addressing people's lives over political debates.
 
-சட்டப்பேரவை தொடங்கியதும் அதிமுக சட்டமன்ற உறுப்பினர்கள் கள்ளக்குறிச்சி கள்ளச்சாராய மரணம் குறித்து விவாதிக்க வேண்டும் என தொடர்ந்து குரல் எழுப்பினர். அத்துடன் இன்றும் அதிமுகவின் சட்டமன்ற உறுப்பினர்கள் தங்களது எதிர்ப்பை பதிவு செய்ய கருப்பு வண்ண உடையில் வருகை தந்திருந்தனர். மேலும் கள்ளக்குறிச்சி கள்ளச்சாராய மரணம் குறித்து விவாதிக்க வேண்டும் என கோரிக்கை விடுத்து, சட்டப்பேரவையில் அமளியில் ஈடுபட்டனர்.
+🟩
 
-'கேள்வி நேரத்திற்குப் பிறகு அனுமதி தருகிறேன்' என அவை தலைவர் அப்பாவு கூறிய பிறகும், தொடர்ந்து அதிமுகவினர் அவர்களுடைய இருக்கையின் அமராமல் அமளியில் ஈடுபட்டனர்.
+Leader of the Legislative Assembly has ordered the AIADMK legislators to be suspended throughout the series.
 
-இதைத்தொடர்ந்து அவை முன்னவர் துரைமுருகன், ''அதிமுக சட்டமன்ற உறுப்பினர்களை இடைநீக்கம் '' செய்வதற்கான தீர்மானத்தை பேரவையில் முன்மொழிந்தார். இதற்கு முதல்வர் மு.க ஸ்டாலின் அவர்களும் விளக்கமளித்தார்.
+Once the legislative session began, the AIADMK legislators continued to discuss the death of Kallakurichi Kallakkuri.. And today the AIADMK's legislators were in black dress to register their opposition. They also demanded that Kallakurichi be discussed on the death of Kallakurichi.
+
+Even after the leader's father said, "I will give permission after question time, continued to be in the seat of their seat.
+
+Following this, Duraimurugan proposed a resolution to "suspend the AIADMK legislators".. Chief Minister MK Stalin also explained this.
+
+Following this, the leader of the AIADMK legislators ordered the suspension of the current session.
+
+Following this, the AIADMK legislators who were suspended throughout the current session from the legislative session met with reporters.
 
 ...
 
 [Data](articles/7210d8d7.json)
+
+[Extended Data](ext_articles/7210d8d7.ext.json)
 
 ---
 
@@ -1018,23 +1048,33 @@ They have also been asked to inform the Regional Health Authorities immediately 
 
 ---
 
-### இலங்கைக்கு கஞ்சா கடத்த முயன்ற மூவர் இந்தியாவில் கைது
+### Three persons arrested in India
 
 *2024-06-26 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/187037) · `ta`
 
-இலங்கைக்கு கஞ்சா கடத்துவதற்காக இந்தியாவில் ராமேஸ்வரத்தில் விடுதியில் பதுங்கி இருந்த இலங்கையைச் சேர்ந்த ஒருவர் உட்பட மூவர் கைது செய்யப்பட்டுள்ளனர்.
+Three individuals, including a Sri Lankan man, were arrested in India for smuggling cannabis to Sri Lanka. The arrest came after a joint operation near Rameswaram, close to Sri Lanka, where cannabis and currency were seized. The suspects, including Anthony Praveen from Sri Lanka, had plans to smuggle around 400 kg of cannabis.
 
-கைது செய்யப்பட்டவர்களிடமிருந்து கஞ்சா மற்றும் இலங்கை ரூபாய் நாணயத்தாள்கள் கைப்பற்றப்பட்டுள்ளதோடு, பொலிஸார் தீவிர விசாரணை நடத்தி வருகின்றனர்.
+🟩
 
-ராமநாதபுரம் மாவட்டம் ராமேஸ்வரம் இலங்கைக்கு மிக அருகில் இருப்பதால் தனுஷ்கோடி கடல் வழியாக நாட்டு படகுகளில் இலங்கைக்கு கஞ்சா, ஐஸ்  உள்ளிட்ட போதை பொருட்கள் அதிக அளவு கடத்தப்பட்டு வருகிறது.
+Three persons, including a Sri Lankan man, have been arrested in Rameswaram in India for smuggling cannabis to Sri Lanka.
 
-இந்நிலையில், ராமேஸ்வரத்தில் தங்கி தனுஷ்கோடி கடல் வழியாக போதைப் பொருள் கடத்தல் தொழில் செய்வதற்கு புத்தளம் மாவட்டம் கல்பிட்டியைச் சேர்ந்த அந்தோணி பிரவீன் (35) என்பவர்  விமான மூலம் ஜூன் மாதம் முதலாம் திகதி சென்னைக்கு சென்றுள்ளார். அங்கிருந்து ராமேஸ்வரம் சென்று தனியார் தங்கும் விடுதியில் அறை எடுத்து தங்கயுள்ளார்.
+Cannabis and Sri Lankan rupee currencies have been seized from the arrested and the police are conducting an intensive investigation.
 
-பின்னர் இலங்கையைச் சேர்ந்த அந்தோணி பிரவீன் பெங்களூர், வேளாங்கண்ணி உள்ளிட்ட பகுதிகளுக்கு சென்று அங்குள்ள கஞ்சா வியாபாரிகள் பலரை சந்தித்து கஞ்சா கொள்முதல் செய்வதற்காக விசாரித்ததாக சொல்லப்படுகிறது.
+Rameshwaram in Ramanathapuram district is very close to Sri Lanka.
+
+In this case, Anthony Praveen, 35, from Kalpitti, Puttalam district, went to Chennai on June 1 to stay in Rameswaram and to transmit the drug trafficking via Dhanushkodi sea.. From there he went to Rameswaram and took a room in a private hostel.
+
+It is said that Anthony Praveen from Sri Lanka went to Bangalore and Velankanni areas and met with a number of cannabis traders.
+
+Later, Uma Selvam, 45, from Rameswaram Pudurodu, met with a cannabis dealer Thiagarajan (57) from Bakarumbu area and tried to smuggle cannabis from Dhanushkodi by boat.
+
+Also, Anthony Praveen, a Sri Lankan Mannar, has sent money to buy cannabis in two installments.
 
 ...
 
 [Data](articles/6ff78f01.json)
+
+[Extended Data](ext_articles/6ff78f01.ext.json)
 
 ---
 
@@ -1465,6 +1505,8 @@ China Exim Bank, which has given 4,668.8 billion dollars in credit, discussed re
 ...
 
 [Data](articles/c80e9619.json)
+
+[Extended Data](ext_articles/c80e9619.ext.json)
 
 ---
 

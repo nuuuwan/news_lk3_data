@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 01:04:54**
+As of **2024-06-27 01:19:41**
 
 ## Newspaper Stats
 
-*Scraped **32,344** Articles*
+*Scraped **32,347** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 318
 newsfirstlk | 363
 islandlk | 1,790
 economynextcom | 1,884
-dailyftlk | 1,976
+dailyftlk | 1,978
 adalk | 2,862
 adaderanalk | 3,681
-tamilmirrorlk | 3,819
+tamilmirrorlk | 3,820
 dailymirrorlk | 4,733
 virakesarilk | 5,018
 adaderanasinhalalk | 5,310
@@ -26,9 +26,29 @@ adaderanasinhalalk | 5,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,344 (100.0%) of 32,344 articles have been extended.
+32,344 (100.0%) of 32,347 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-06-27 (Thursday)
+
+### கடன் மறுசீரமைப்பு உடன்பாடு வெற்றி
+
+*2024-06-27 01:01:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-மறுசீரமைப்பு-உடன்பாடு-வெற்றி/175-339501) · `ta`
+
+இலங்கை நேற்று முற்பகல் பரிஸ் நகரில் தனது முக்கிய உத்தியோகபூர்வ இருதரப்பு கடன் வழங்குநர்களுடன் கடன் மறுசீரமைப்பு பேச்சுவார்த்தைகளை நிறைவு செய்துள்ளதுடன் உத்தியோகபூர்வ கடன் வழங்குநர் குழுவுடன் இறுதி இணக்கப்பாட்டை எட்டியுள்ளது.
+
+மேலும், கடன் மறுசீரமைப்பு தொடர்பில் சீனாவின் எக்ஸிம் வங்கியுடன் பீஜிங்கில் இலங்கை இன்று இறுதி இணக்கப்பாட்டை எட்டியதுடன் அதற்கான புரிந்துணர்வு ஒப்பந்தத்திலும் கையெழுத்திடப்பட்டது.
+
+இந்த இணக்கப்பாடுகளுடன், இலங்கை தனது முக்கிய உத்தியோகபூர்வ இருதரப்பு கடன் வழங்குநர்களுக்கான கடன் மறுசீரமைப்பு இணக்கப்பாடுகளை வெற்றிகரமாக நிறைவுசெய்துள்ளது.
+
+இந்த உத்தியோகபூர்வ கடன் வழங்குநர் குழுவுடன் ஜப்பான், இந்தியா மற்றும் பிரான்ஸ் இணைந்து தலைமை தாங்கின. அவுஸ்திரேலியா, ஒஸ்டிரியா, பெல்ஜியம், கனடா, டென்மார்க், ஜெர்மனி, ஹொங்கேரியா, கொரியா, நெதர்லாந்து, ரஷ்யா, ஸ்பெயின், ஸ்வீடன், ஐக்கிய இராச்சியம் மற்றும் அமெரிக்கா ஆகியவை இந்த உத்தியோகபூர்வ கடன் வழங்குநர்கள் குழுவின் ஏனைய உறுப்பினர்கள் இருந்தன.
+
+...
+
+[Data](articles/3b4525ce.json)
+
+---
 
 ### 2024-06-26 (Wednesday)
 
@@ -71,6 +91,20 @@ President Ranil Wickremesinghe addressed the nation this night (26).
 [Data](articles/0379c32c.json)
 
 [Extended Data](ext_articles/0379c32c.ext.json)
+
+---
+
+### It is time for innovation stupid
+
+*2024-06-26 22:13:32* · [`dailyftlk`](https://www.ft.lk/columns/It-is-time-for-innovation-stupid/4-763520) · `en`
+
+Sadly, we have to manage our mess and be creative and innovative in ensuring that we come out of the woods once and for all with a message to the whole world that Sri Lanka indeed can
+
+Sri Lanka is well recommended to follow a path to an innovation economy and two enablers would be technology and innovative and empowered deployment of human capital. These are two economic recommendations that have won Nobel prizes for economics. Most of the woes of Sri Lanka had come from the failure to integrate technology and that is evident when looking at agriculture to industry. Some technology integration has taken place in services but lacking transformational use had consequently failed in overall effectiveness
+
+...
+
+[Data](articles/32f46a0b.json)
 
 ---
 
@@ -139,6 +173,20 @@ Meanwhile, the use of tear gas and waterproofing in front of the Colombo -Fort S
 [Data](articles/b7c04c5c.json)
 
 [Extended Data](ext_articles/b7c04c5c.ext.json)
+
+---
+
+### Radical right, radical left, hyper-Indianisation and re-learning Premadasa’s system-change economics
+
+*2024-06-26 21:40:29* · [`dailyftlk`](https://www.ft.lk/columns/Radical-right-radical-left-hyper-Indianisation-and-re-learning-Premadasa-s-system-change-economics/4-763518) · `en`
+
+‘Archbishop of Colombo, Malcolm Cardinal Ranjith has voiced his strong criticism against the proposed Indo-Lanka land bridge project. Speaking to the media in Ruwanwella on Friday Cardinal Ranjith warned the project will endanger Sri Lanka’s sovereignty and independence. He cited historical instances of South Indian invasions where Sinhalese kings had to defend and reclaim parts of the island. He warned that such a project would lead to Sri Lanka becoming a part of Tamil Nadu…
+
+“Who needs this bridge? It’s evident that the idea originated from foreign requests, not from the people here,” the Cardinal stated. “This Government is determined to follow all external directives without considering whether they are beneficial or harmful to us. We must be cautious and avoid actions that are not in our best interest. Otherwise, we will find ourselves in an even worse crisis than we already face. We must not do anything that jeopardises our sovereignty and independence.” Cardinal Ranjith said…’
+
+...
+
+[Data](articles/cffe411d.json)
 
 ---
 
@@ -2283,67 +2331,5 @@ However, as promised not profit, she had lodged a complaint with the Financial I
 [Data](articles/f62fbbe1.json)
 
 [Extended Data](ext_articles/f62fbbe1.ext.json)
-
----
-
-### Protesters were attacked by police and tear gas
-
-*2024-06-26 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198172) · `si`
-
-Protesters faced police violence, including tear gas attacks, while police also targeted principal-led protests.
-
-🟩
-
-Police have also attacked the protest of the principals of the principals.
-
-◼️
-
-[Data](articles/3715eaa4.json)
-
-[Extended Data](ext_articles/3715eaa4.ext.json)
-
----
-
-### Colombo Lotus Road closed
-
-*2024-06-26 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/187013) · `ta`
-
-Colombo's Lotus Road is closed, causing traffic jams near the fort railway station due to protests, leading to complete blockage there as well.
-
-🟩
-
-Meanwhile, traffic in front of the fort railway station has been completely blocked due to the protest.. This has caused traffic congestion in the area.
-
-◼️
-
-[Data](articles/6cbe4119.json)
-
-[Extended Data](ext_articles/6cbe4119.ext.json)
-
----
-
-### President requests university non-academic workers
-
-*2024-06-26 12:51:19* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-අනධ්‍යන-සේවකයන්ට-ජනපතිගෙන්-ඉල්ලීමක්/11-410447) · `si`
-
-President Ranil Wickremesinghe calls for global dialogue to shape Sri Lanka's future, emphasizing a shift towards a new economy. He promises land for tourism development and addresses concerns over the economy, urging a focus on exports similar to successful Asian nations. He invites youth involvement in planning for a prosperous future, highlighting the importance of unity and innovation.
-
-🟩
-
-President Ranil Wickremesinghe said that a wide discussion should be launched worldwide for the creation of future Sri Lanka needed for the younger generation.
-
-The President emphasized that a new journey should go to a new journey to create a new economy in the country.
-
-President Ranil Wickremesinghe said this was HM, Ampara. One of the youth organized by the National Youth Services Council at the Weerasinghe Stadium.
-
-Speaking further, President Ranil Wickremesinghe further said,
-
-I hope to provide a portion of 200 acres of land belonging to the tourism industry in Trincomalee.. It is necessary to be prepared in the next two years, as it can be used freely for your entertainment.
-
-...
-
-[Data](articles/24d4135f.json)
-
-[Extended Data](ext_articles/24d4135f.ext.json)
 
 ---

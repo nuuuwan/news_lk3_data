@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 03:19:28**
+As of **2024-06-27 03:34:45**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,359 (100.0%) of 32,360 articles have been extended.
+32,360 (100.0%) of 32,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### சட்டமா அதிபரின் பதவி நீடிப்பு பரிந்துரை நிராகரிப்பு
+### Prolongation
 
 *2024-06-27 02:42:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமா-அதிபரின்-பதவி-நீடிப்பு-பரிந்துரை-நிராகரிப்பு/175-339505) · `ta`
 
-சட்டமா அதிபர் சஞ்சய் ராஜரத்தினத்தின் பதவிக் காலத்தை மேலும் 6 மாதங்களுக்கு நீடிப்பதற்கான ஜனாதிபதியின் பரிந்துரை நேற்று நடந்த அரசியலமைப்பு சபைக் கூட்டத்தில் வாக்கெடுப்புக்கு எடுத்துக்கொள்ளப்பட்டது.
+The Constitutional Council voted against extending Attorney Sanjay Rajaratnam's term by 6 months, with only 3 votes in favor out of 8.
 
-இதன்போது எதிராக 5 வாக்குகளும், ஆதரவாக 3 வாக்குகளும் அளிக்கப்பட்ட நிலையில் குறித்த பரிந்துரை மீண்டும் நிராகரிக்கப்பட்டது. (a)
+🟩
+
+The president's recommendation to extend the tenure of Attorney Sanjay Rajaratnam for a further six months was taken up for a referendum at yesterday's Constitutional Council meeting.
+
+The recommendation was rejected by 5 votes and 3 votes in favor. (A)
 
 ◼️
 
 [Data](articles/97364a95.json)
+
+[Extended Data](ext_articles/97364a95.ext.json)
 
 ---
 

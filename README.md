@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 08:54:00**
+As of **2024-06-26 09:06:17**
 
 ## Newspaper Stats
 
-*Scraped **32,192** Articles*
+*Scraped **32,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,868
 dailyftlk | 1,976
 adalk | 2,835
 adaderanalk | 3,654
-tamilmirrorlk | 3,794
+tamilmirrorlk | 3,797
 dailymirrorlk | 4,733
 virakesarilk | 4,994
 adaderanasinhalalk | 5,278
@@ -26,11 +26,49 @@ adaderanasinhalalk | 5,278
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,192 (100.0%) of 32,192 articles have been extended.
+32,192 (100.0%) of 32,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### அவ்வப்போது மழை பெய்யும்
+
+*2024-06-26 08:51:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவ்வப்போது-மழை-பெய்யும்/175-339440) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+சப்ரகமுவ மாகாணத்திலும் குருணாகலை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் சில இடங்களில் 50 மி.மீ அளவான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+மாத்தளை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களில் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது. R
+
+◼️
+
+[Data](articles/d1b1cac2.json)
+
+---
+
+### மாங்குளத்தில் கோர விபத்து - மூவர் சம்பவ இடத்திலேயே மரணம்
+
+*2024-06-26 08:24:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மாங்குளத்தில்-கோர-விபத்து-மூவர்-சம்பவ-இடத்திலேயே-மரணம்/71-339439) · `ta`
+
+மாங்குளம் - பனிக்கன்குளம் பகுதியில் ஏ9 வீதியின் 228 வது கிலோமீற்றர் பகுதியில் நேற்று இரவு 11 மணியளவில் இடம்பெற்ற கோர விபத்தில் மூவர்  உயிரிழந்ததோடு இருவர் படுகாயம் அடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+யாழ்ப்பாணத்திலிருந்து கொழும்பு நோக்கி பயணித்த அதிசொகுசு பேருந்து ஒன்று பழுதடைந்ததன் காரணமாக ஏ9 வீதியில் 228 வது கிலோமீற்றர்  பகுதியில்  நிறுத்தி வைக்கப்பட்டிருந்துள்ளது.
+
+இதன்போது பேருந்தில் வருகை தந்தவர்கள் இறங்கி பேருந்தின் பின்புறமாக நின்று கொண்டிருந்த போது அதே திசையில் வருகை தந்த லொறி ஒன்று குறித்த நபர்கள் மீதும் பேருந்தின் மீதும் மோதியுள்ளது.
+
+லொறியின்  சாரதி மற்றும் பேருந்தில்  பயணித்த  இன்னொருவர் என இருவர் படுகாயம் அடைந்த நிலையில்  வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்
+
+சம்பவ இடத்திற்கு சென்ற மாங்குளம் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர் . R
+
+◼️
+
+[Data](articles/93ccbc72.json)
+
+---
 
 ### Three killed, several injured in lorry-bus accident on A9 road
 
@@ -519,6 +557,22 @@ After the end of the war, the Department of Forest Resources and the Department 
 [Data](articles/7e03122c.json)
 
 [Extended Data](ext_articles/7e03122c.ext.json)
+
+---
+
+### ’ஜனாதிபதியின் பெண்களை வலுவூட்டும் சட்டம்’
+
+*2024-06-26 02:22:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-பெண்களை-வலுவூட்டும்-சட்டம்/175-339437) · `ta`
+
+இலங்கையின் அரசியல் வரலாற்றில் பெண் உரிமைகள், பெண்களுக்கான சம அந்தஸ்து தொடர்பான எந்தவொரு சட்டமூலமும் கொண்டு வரவில்லை எனவும் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அறிவுறுத்தலுக்கமைய பாராளுமன்றத்தில் சமர்பிக்கப்பட்ட பெண்கள் வலுவூட்டலுக்கான சட்டமூலம் நிறைவேற்றப்பட்டுள்ளது என்றும் மகளிர் மற்றும் சிறுவர் விவகார அமைச்சர் கீதா குமாரசிங்க தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற செய்தியாளர் சந்திப்பில் கருத்து தெரிவிக்கும் போதே இராஜாங்க அமைச்சர் கீதா குமாரசிங்க இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்.
+
+பெண்கள் வலுவூட்டல் சட்டம் பாராளுமன்றத்தில் நிறைவேற்றப்பட்டுள்ளது. இலங்கையின் அரசியல் வரலாற்றில், பெண்களின் உரிமைகள் அல்லது பெண்களுக்கு சம அந்தஸ்த்து வழங்குவதற்கான எந்த சட்டமும் கொண்டு வரப்படவில்லை. இந்தச் சட்டத்தின் மூலம், பெண்களை வலுவூட்டுவதற்கான ஏற்பாடுகளைச் செய்வதற்காக, பெண்களின் முன்னேற்றத்திற்கான ஒரு தேசியக் கொள்கை தயாரிக்கப்படும்.
+
+...
+
+[Data](articles/571090c6.json)
 
 ---
 
@@ -1462,6 +1516,28 @@ At the request of Prime Minister Dinesh Gunawardena, the Parliament will be held
 
 ---
 
+### Explainer: How Sri Lanka’s political alliances are forming and their likely policies
+
+*2024-06-25 17:40:00* · [`economynextcom`](https://economynext.com/explainer-how-sri-lankas-political-alliances-are-forming-and-their-likely-policies-169383/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s political parties are now trying to cobble together alliances from a fragmented political landscape in the hope getting in to stronger positions ahead of presidential polls expected between September 17 and October 16.
+
+The composition of the current parliament has changed significantly since 2020, with many legislators no longer affiliated with their original parties after an economic crisis fragmented the then ruling alliance.
+
+Some MPs from the ruling coalition are now in opposition, while some are are in President Ranil Wickremesinghe’s government.
+
+Some legislators claim to be independent, while others have resigned, seeing no value in their positions.
+
+However, political parties may be compelled to forge alliances to form a stable government after the presidential polls. These coalitions may range from nationalist to centrists to leftist.
+
+...
+
+[Data](articles/98e85e33.json)
+
+[Extended Data](ext_articles/98e85e33.ext.json)
+
+---
+
 ### Five-member judge bench appointed to hear ex-Navy chief’s writ
 
 *2024-06-25 17:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100097/five-member-judge-bench-appointed-to-hear-ex-navy-chiefs-writ-) · `en`
@@ -1817,28 +1893,6 @@ Additionally, the Ministry of Education stated that it will intervene to bring d
 [Data](articles/b81346a0.json)
 
 [Extended Data](ext_articles/b81346a0.ext.json)
-
----
-
-### Explainer: How Sri Lanka’s political alliances are forming and their likely policies
-
-*2024-06-25 16:00:00* · [`economynextcom`](https://economynext.com/explainer-how-sri-lankas-political-alliances-are-forming-and-their-likely-policies-169383/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s political parties are now trying to cobble together alliances from a fragmented political landscape in the hope getting in to stronger positions ahead of presidential polls expected between September 17 and October 16.
-
-The composition of the current parliament has changed significantly since 2020, with many legislators no longer affiliated with their original parties after an economic crisis fragmented the then ruling alliance.
-
-Some MPs from the ruling coalition are now in opposition, while some are are in President Ranil Wickremesinghe’s government.
-
-Some legislators claim to be independent, while others have resigned, seeing no value in their positions.
-
-However, political parties may be compelled to forge alliances to form a stable government after the presidential polls. These coalitions may range from nationalist to centrists to leftist.
-
-...
-
-[Data](articles/98e85e33.json)
-
-[Extended Data](ext_articles/98e85e33.ext.json)
 
 ---
 
@@ -2263,77 +2317,5 @@ Subsequently, the case was ordered to be recalled on July 09, and the injunction
 [Data](articles/c756ea4b.json)
 
 [Extended Data](ext_articles/c756ea4b.ext.json)
-
----
-
-### Three ghosts arrested for attacking female devil
-
-*2024-06-25 13:56:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-பிசாசை-தாக்கிய-மூன்று-பேய்கள்-கைது/175-339396) · `ta`
-
-In Kalutara, three men were arrested after allegedly attacking a woman dressed as a devil during a Poson festival celebration. A schoolgirl from North Pulpola Boat Road was hospitalized after being assaulted. The incident occurred when the men entered a haunted house set up by a local boy. Investigations are ongoing by the Kalutara Northern Police.
-
-🟩
-
-The incident took place in the Kalutara area, which was attacked by a girl who had been drunk in the ghostly house where small children had come together on the occasion of the Poson festival.
-
-A student of AT Sidum Lakmina, a schoolgirl from North Pulpola Boat Road, Kalutara, has been admitted to the hospital, said a spokesman for the Kalutara Teaching Hospital.
-
-One of the boys from the area worked hard and prepared a ghost house for a few days.  மூன்றாவது இரவு நிகழ்ச்சியின் போது மூன்று குடிகாரர்கள் பேய்கள் குகைக்குள் நுழைந்தனர்.
-
-It is said that the man who was admitted to the hospital was attacked as a devil and the victim was attacked by the devil's neck.. The Kalutara Northern Police are conducting investigations.
-
-◼️
-
-[Data](articles/da0c4ca6.json)
-
-[Extended Data](ext_articles/da0c4ca6.ext.json)
-
----
-
-### Ministry of Education announced on allowances
-
-*2024-06-25 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198139) · `si`
-
-The Ministry of Education has announced plans to submit allowances for O/L and Grade 5 Scholarship Exams to the Cabinet for approval. It also aims to replace the teachers' trade union representation within its structure. Additionally, the ministry has taken steps to reduce the costs of essential educational materials by 2022.
-
-🟩
-
-The Ministry of Education has announced that the Submits paid to the Allowance of the O / L and Grade 5 Scholarship Examinations.
-
-The statement states that these recommendations will be submitted to the Cabinet and approval.
-
-Moreover, the Commission will consider the proposal to replace the teacher's trade union to the Ministry of Education and to the Ministry of Education.
-
-According to the statement, the Ministry of Education has intervened to reduce the essential exercise books and equipment prices for education by 2022.
-
-◼️
-
-[Data](articles/e175adbd.json)
-
-[Extended Data](ext_articles/e175adbd.ext.json)
-
----
-
-### Sri Lanka’s Commercial Bank Rs10bn to sell up to 10-year 13.5-pct debt
-
-*2024-06-25 13:47:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-rs10bn-to-sell-up-to-10-year-13-5-pct-debt-169251/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Commercial Bank said it is selling debentures to sell up to 10 year debt paying up to 13.5 percent to boost its Tier II capital.
-
-The Bank will initially issue 100 million Basel III compliant – Tier 2 listed rated unsecured subordinated redeemable debentures with a non-viability conversion feature, at 100 rupees each, to raise 10 billion.
-
-It would issue up to a further 50 million debentures in the event of an oversubscription of the initial issue.
-
-A further 50 million debentures would be issued in the event of an oversubscription of the initial issue and the second tranche.
-
-The Bank said the issue will further strengthen its Tier II capital base, raise funds for the expansion of its lending portfolio, and bridge maturity mismatches in the assets and liabilities portfolio of the Bank.
-
-The Colombo Stock Exchange (CSE) has approved in principle the listing of the debenture issue, which opens on July 2.
-
-...
-
-[Data](articles/e4d05085.json)
-
-[Extended Data](ext_articles/e4d05085.ext.json)
 
 ---

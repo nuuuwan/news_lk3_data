@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 08:13:01**
+As of **2024-06-26 08:36:09**
 
 ## Newspaper Stats
 
-*Scraped **32,190** Articles*
+*Scraped **32,192** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,790
 economynextcom | 1,868
 dailyftlk | 1,976
 adalk | 2,835
-adaderanalk | 3,653
-tamilmirrorlk | 3,793
+adaderanalk | 3,654
+tamilmirrorlk | 3,794
 dailymirrorlk | 4,733
 virakesarilk | 4,994
 adaderanasinhalalk | 5,278
@@ -26,47 +26,71 @@ adaderanasinhalalk | 5,278
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,181 (100.0%) of 32,190 articles have been extended.
+32,190 (100.0%) of 32,192 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### ගුරු - විදුහල්පතිවරු ලෙඩ වෙති
+### Three killed, several injured in lorry-bus accident on A9 road
+
+*2024-06-26 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100101/three-killed-several-injured-in-lorry-bus-accident-on-a9-road) · `en`
+
+Three persons have been reported dead, and several others were left injured after a lorry collided against a bus at Mankulam on the A9 road, the police said.
+
+◼️
+
+[Data](articles/6b8fae64.json)
+
+---
+
+### Teacher - Principals are sick
 
 *2024-06-26 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198160) · `si`
 
-ගුරු- විදුහල්පති වෘත්තීය සමිති අද (26) දිනයේ ලෙඩ නිවාඩු වාර්තා කරමින් දීපව්‍යාප්ත වැඩවර්ජනයක නිරත වන බව ලංකා ගුරු සංගමය පවසයි.
+Teacher-Principal unions in Sri Lanka are on strike today, affecting the start of the second school term. The General Secretary, Joseph Stalin, announced protests in Colombo. Many teachers won't attend schools due to this action, leading to disruptions across educational institutions.
 
-එහි ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් මහතා සඳහන් කළේ, සියලුම ගුරු - විදුහල්පතිවරුන් කොළඹට කැඳවා විරෝධතාවක් පැවැත්වීමටද නියමිත බවය.
+🟩
 
-අද දිනයේ ගුරුවරු ලෙඩ නිවාඩු වාර්තා කරන බැවින් බොහෝ පාසල්වල දරුවන්ට පාසල් නොපැමිණෙන ලෙස ද ගුරුවරුන් පවසා තිබිණි.
+The Teacher-Principal Trade Unions are working on a Buddhist strike today (26).
 
-දරුවන්ගේ දෙවන පාසල් වාරය ආරම්භ සමග මෙලෙස ගුරු - විදුහල්පතිවරු වර්ජනය ආරම්භ කර ඇති අතර මේ හේතුවෙන් පාසල්වල අධ්‍යාපන කටයුතු අඬාල වී තිබේ.
+The General Secretary General Joseph Stalin said that all the teacher and principals will be held in Colombo and protest protest.
 
-මේ අතර රජයේ විධායක නිලධාරීන්ගේ සංගමයේ නියෝජතයින් ආරම්භ කළ වෘත්තීය ක්‍රියාමාර්ගය දෙවන දිනටත් අද ක්‍රියාත්මක කරන බව එම සංගමයේ සභාපති එච්.ඒ.එල් උදයසිරි මහතා පැවසීය.
+Teachers report today, teachers have said that they do not come to schools in many schools.
+
+The schools have launched the strike with the second school term of the children and the schools have been crying in schools.
+
+Meanwhile, the trade union action which was started by the representatives of the Government Executive Officers Association will continue today.
 
 ◼️
 
 [Data](articles/0c9d1c0b.json)
 
+[Extended Data](ext_articles/0c9d1c0b.ext.json)
+
 ---
 
-### මල්ශාලා හිමිකරුගේ සිරුර හර්ස් එක ඇතුළේ
+### The body of the fleshly owner is inside Hers
 
 *2024-06-26 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198159) · `si`
 
-බලපිටිය, ආවාස වත්ත මංසන්ධියේ ඊයේ (25) රාත්‍රියේ හර්ස් රථයක් තුළ තිබී කැපුම් තුවාල සහිත මල්ශාලා හිමිකරුවෙකුගේ සිරුරක් හමුව තිබේ.
+A man was seriously injured in a car accident near Malana, with a severe head wound. The incident occurred last night during an awards event. The Ambalangoda Police identified the victim as Thusitha Kumara's father. Witnesses reported seeing the driver at the Balapitiya Athswatta junction around 11 pm.
 
-අම්බලන්ගොඩ පොලීසිය පැවසුවේ එලෙස මියගොස් ඇත්තේ, තෙල්වත්ත, මලවැන්න ප්‍රදේශයේ  පදිංචිව සිටි ජී.පී. තුසිත කුමාර නැමති සිව්දරු පියෙක් බවය.
+🟩
 
-එම පුද්ගලයාගේ හිසට බරපතළ කැපුම් තුවාල සිදුව ඇතැයි ද පොලීසිය පැවසීය.
+The body of a carpel owner with cut wound in a Hersh last night at Awards last night.
 
-ඊයේ රාත්‍රී 11ට පමණ බලපිටිය ආවාස වත්ත මංසන්ධියේ හර්ස් රථයක් නතර කර ඇති බවත් එහි රියදුරු තුවාල සහිතව මියගොස් සිටිනු දැක ප්‍රදේශවාසීන් පොලීසිය දැනුවත් කර ඇත.
+The Ambalangoda Police said such identified GPs in the Malana area. There is a father of Father Thusitha Kumara.
+
+The man's head has been severely cut injured.
+
+The residents in the area have informed the police in the area who had stopped a hers in the Balapitiya Athswatta junction around 11 pm and saw the driver of the driver.
 
 ◼️
 
 [Data](articles/bde658e1.json)
+
+[Extended Data](ext_articles/bde658e1.ext.json)
 
 ---
 
@@ -496,6 +520,22 @@ After the end of the war, the Department of Forest Resources and the Department 
 
 ---
 
+### போரா மாநாட்டை நடத்த அரசாங்கம் ஆதரவு
+
+*2024-06-26 02:09:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போரா-மாநாட்டை-நடத்த-அரசாங்கம்-ஆதரவு/175-339436) · `ta`
+
+இலங்கையில் நடத்தப்படவிருக்கும் போரா சமூகத்தின் வருடாந்த ஆன்மிக மாநாட்டை வெற்றிகரமகா நடத்துவதற்கு தேவையான முழுமையான ஆதரவை வழங்குமாறு தேசிய பாதுகாப்பு தொடர்பிலான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதியின் பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க சம்பந்தப்பட்ட அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+
+போரா மாநாடு தொடர்பில் நேற்று முன்தினம் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்ற கலந்துரையாடலின் போதே சாகல ரத்நாயக்க இந்த அறிவுறுத்தல்களை வழங்கினார்.
+
+இந்த ஆண்டு பாகிஸ்தானின் கராச்சியில் நடைபெறவுள்ள போரா சமூகத்தின் ஆன்மீக மாநாட்டுடன் இணையான போரா ஆன்மீக மாநாடு ஜூலை 7- 16 ஆம் திகதி வரை பம்பலப்பிட்டி போரா பள்ளிவாசல் மற்றும் இலங்கை கண்காட்சி மற்றும் மாநாட்டு மண்டபத்தை மையமாகக் கொண்டு நடைபெறவுள்ளது. (a)
+
+◼️
+
+[Data](articles/f7a1480a.json)
+
+---
+
 ### Model Debt Relief Agreement Today
 
 *2024-06-26 01:59:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-மறுசீரமைப்பு-உடன்படிக்கை-இன்று/175-339435) · `ta`
@@ -888,21 +928,31 @@ The pressing need for a robust procurement law in Sri Lanka to eradicate corrupt
 
 ---
 
-### අධිවේගයේ රු. කෝටි ගණනාවක කොල්ලයක්
+### Rs.. A robbery of the crores
 
 *2024-06-25 20:03:46* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගයේ-රු--කෝටි-ගණනාවක-කොල්ලයක්/11-410440) · `si`
 
-අධිවේගී මාර්ගයේ   කොළඹ පිටත වටරවුම් මාර්ගයේ අතුරුගිරිය අන්තර් හුවමාරු මධ්‍යස්ථානයේ   සිදුවී ඇති බව කියන රුපියල් කෝටි ගණනාවක මහා මුදල් වංචාව සම්බන්ධයෙන් ප්‍රධාන මුදල් අයකැමි ඇතුළු  අයකැමිවරුන් 22 කුගේ වැඩ තහනම් කල බව මාර්ග සංවර්ධන අධිකාරියේ අධ්‍යක්ෂක ජනරාල් එස්. පි. එම්. සූරිය බණ්ඩාර මහතා පැවසීය
+A major cash fraud involving millions was uncovered at the Athurugiriya Interchange Center, allegedly orchestrated by 27 employees disabling security cameras to facilitate theft. The scheme came to light in early 2024, with preliminary investigations suggesting it began in 2020. The incident led to the suspension of several employees and a review by the Road Development Authority and COPE.
 
-අධ්‍යක්ෂ ජනරාල් වරයාගේ අනුමැතියෙන් (අධ්‍යක්ෂක ,අධිවේගී මාර්ග මෙහෙයුම් නඩත්තු හා කළමනාකරන අංශයේ) නියෝජ්‍ය අධ්‍යක්ෂක ජනරාල් පි. එච්. ගුණසිංහ මහතා විසින් එම වැඩ තහනම සිදුකර ඇත.
+🟩
 
-2020 වසරේ රටේ විදුලි අර්බුදයක් පැවති අවස්ථාව ප්‍රයෝජනයට ගනිමින්  සිදු කළ බව කියන එම මහා පරිමාණ මුදල් වංචාව විදුලිය පැවති අවස්ථාවේදී ද විසන්ධි  කර  හා ඉන් අනතුරුව විදුලි වයර් කපා දඉතා කූට අන්දමින් සිදුකර ඇති බව මූලික විමර්ශනවලදී අනාවරණය වී ඇත.
+Director General of Road Development Authority S.S.. P. M. Suriya Bandara said
 
-අතුරුගිරිය අන්තර් හුවමාරු මධ්‍යස්ථානයේ සේවකයන් 27 කු සේවයේ යෙදෙන අතර එයින් 22 කු මෙම වංචාව සිදුකර ඇති බව සිදුකළ විමර්ශන වලදී අනාවරණය වී ඇත.
+Deputy Director General of Directors, Express Obsposition and Management Division (Director General) approval of the Director General. H. The ban was banned by Mr. Gunasinghe.
+
+Preliminary investigations have revealed that the large scale cash fraud was to be used by the use of an increase in electricity in 2020.
+
+Investigations have revealed that 27 employees of the Interchange Center at Athurugiriya and 22 of them have been revealed.
+
+It has been revealed that the large scale cash fraud has been committed by those who come to the customers who come to leave the Athurium Interchange Center after the proportional cameras have been discharged by the employees.
+
+Investigations have revealed that the offenses of the security cameras have been disabled in a few days of January 2024
 
 ...
 
 [Data](articles/ffe71e66.json)
+
+[Extended Data](ext_articles/ffe71e66.ext.json)
 
 ---
 
@@ -983,6 +1033,8 @@ In the Commercial Bank crossing/arranged transaction three buyers purchased its 
 ...
 
 [Data](articles/d1e7f665.json)
+
+[Extended Data](ext_articles/d1e7f665.ext.json)
 
 ---
 
@@ -2275,51 +2327,5 @@ The Colombo Stock Exchange (CSE) has approved in principle the listing of the de
 [Data](articles/e4d05085.json)
 
 [Extended Data](ext_articles/e4d05085.ext.json)
-
----
-
-### Cabinet approval for credit restructuring agreements
-
-*2024-06-25 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198138) · `si`
-
-The Sri Lankan cabinet approved credit restructuring agreements with Paris society and other partners, set to be signed on 26th. This move follows discussions with global leaders like India, Japan, and China, aiming to secure financial support amidst the country's economic challenges. The agreements are part of broader efforts to engage with both local and international communities for financial recovery.
-
-🟩
-
-Cabinet approval has been given to sign credit to the restructuring agreements with Paris society and other stakeholders.
-
-Accordingly, the Cabinet Spokesman Bandula Gunawardena said that the agreements will be signed tomorrow (26).
-
-"Especially after the government leadership countries, especially in the country's bankruptcy, India, so that India, Japan, Japan, China.. Chinese Leadership The Purpose of Sri Lanka and other people who have been able to collaborate and collaborate with the world community with the world community have been able to collaborate with the help of many local and international communities.The President presented the extensive explanation to the Cabinet yesterday.
-
-...
-
-[Data](articles/27cb3da6.json)
-
-[Extended Data](ext_articles/27cb3da6.ext.json)
-
----
-
-### Extension extending against Vijayadasa
-
-*2024-06-25 13:39:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயதாஸவுக்கு-எதிரான-தடையுத்தரவு-நீடிப்பு/175-339395) · `ta`
-
-An interim ban on appointing Vijayadasa Rajapakse as SLFP leader has been extended until July 9 due to legal issues involving the party's treasurer, ministers, and others. This decision was made by Colombo Additional District Magistrate Chandima, who cited potential disruption to party activities by certain members.
-
-🟩
-
-The interim ban on the appointment of Justice Minister Vijayadasa Rajapakse as the leader of the Sri Lanka Freedom Party (SLFP) and the acceptance of the Sri Lanka Freedom Party (SLFP) have been extended till July 9.
-
-The Colombo Additional District Magistrate Chandima, the opposition, issued the order on Tuesday (25).
-
-The Treasurer of the Sri Lanka Sudhnadirak Party, Minister of State Lasantha Alagavannawan, Sarath Ekanayake, Vijayadasa Rajapaksa, Keerthi Udwatta and Maithripala Sirisena. The case was filed on the 28th. The interim injunction imposed then has been extended.
-
-The appointment of Keerthi Udawatta as the respondent of the Freedom Party, the District Magistrate ordered the extension of the interim injunction as the party's secretary Duminda Dissanayake and the leader Nimal Siripaladi Silvai would disrupt the party activities.
-
-...
-
-[Data](articles/2c9d33d7.json)
-
-[Extended Data](ext_articles/2c9d33d7.ext.json)
 
 ---

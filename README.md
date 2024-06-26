@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 15:53:31**
+As of **2024-06-26 16:06:09**
 
 ## Newspaper Stats
 
-*Scraped **32,259** Articles*
+*Scraped **32,263** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,97 @@ islandlk | 1,790
 economynextcom | 1,870
 dailyftlk | 1,976
 adalk | 2,847
-adaderanalk | 3,666
+adaderanalk | 3,668
 tamilmirrorlk | 3,809
 dailymirrorlk | 4,733
 virakesarilk | 5,002
-adaderanasinhalalk | 5,296
+adaderanasinhalalk | 5,298
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,259 (100.0%) of 32,259 articles have been extended.
+32,259 (100.0%) of 32,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### අධිවේගී මාර්ගයේ සේවක වැඩ තහනමෙන් අතුරුගිරියේ හුටපටයක්
+
+*2024-06-26 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198181) · `si`
+
+දක්ෂිණ අධිවේගී මාර්ගයේ අතුරුගිරිය පිවිසුමෙන් එම මාර්ගයට රථවාහන ඇතුළු කිරීමේදී අද (26) දින ටිකට් පත් නිකුත් කිරීමක් සිදු නොකෙරුණි.
+
+මුදල් වංචා චෝදනාවක් මත අතුරුගිරිය පිවිසුම් මධ්‍යස්ථානයේ සේවය කල සේවකයින් 22ක් වැඩ තහනමට ලක්වීම හේතුවෙන් පවතින සේවක හිඟය මත මේ ආකාරයෙන් කටයුතු කිරීමට සිදුවී ඇති බව එහි නිලධාරියෙකු පැවසීය.
+
+කෙසේවෙතත් අතුරුගිරිය පිටවීමේ දොරටුවලින් පිටවන වාහන සඳහා  මුදල් අය කිරීම සඳහා ගැලනිගම අන්තර් හුවමාරුවේ සේවකයන් කිහිප දෙනෙකු තාවකාලිකව සේවය සඳහා යොදවා තිබුණි.
+
+අතුරුගිරිය පිවිසුමෙන් දක්ෂිණ අධිවේගී මාර්ගයට ඇතුළු වූ වාහනවලින් පිටවීමේදී මුදල් අය කිරීමක් සිදුවන බවත් එය අදාළ රථයේ රියදුරු පවසන ඇතුළුවීමේ පිවිසුමේ සිට ගණනය කර මුදල් ලබා ගැනීමක් බවත් අදාළ නිලධාරියා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/95c81029.json)
+
+---
+
+### Petition against minimum daily wage of plantation workers fixed for hearing
+
+*2024-06-26 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/100115/petition-against-minimum-daily-wage-of-plantation-workers-fixed-for-hearing-) · `en`
+
+The petition filed by plantation companies seeking a writ order invalidating the gazette notification issued by the Minister of Labor stipulating a minimum daily wage for plantation workers, has been fixed for hearing on November 08 by the Court of Appeal.
+
+The petition, filed by 21 plantation companies including Agarapatana Plantations Ltd., was taken up for consideration before Justice Sobhitha Rajakaruna today (31).
+
+The petitioners have named 52 individuals including Minister of Labor Manusha Nanayakkara and the Labor Commissioner as respondents of the case.
+
+The petitioning plantation companies point out that the Minister of Labor has issued a gazette notification setting the minimum daily wage of a plantation worker at Rs. 1,350, together with an allowance of Rs. 300 and another allowance of Rs. 80, as minimum wage.
+
+The petitioners claim that the decision taken by the Minister of Labor without consulting them, violates the legal principle of natural justice.
+
+...
+
+[Data](articles/15ee1a3d.json)
+
+---
+
+### ග්‍රාම නිලධාරීන් යළිත් වර්ජන ක්‍රියාමාර්ගයකට
+
+*2024-06-26 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198180) · `si`
+
+ග්‍රාම නිලධාරීන් හෙට (27) සහ අනිද්දා (28) සියලුම රාජකාරීවලින් ඉවත්වී වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරත වන බව ශ්‍රී ලංකා එක්සත් ග්‍රාම නිලධාරී සංගමය පවසයි.
+
+එහි සභාපති නන්දන රණසිංහ මහතා පවසා සිටියේ, ඔවුන් මේ වනවිට ක්‍රියාත්මක කර ඇති අකුරුට වැඩ කිරීමේ ක්‍රියාමාර්ගයට අමතරව මෙම වෘත්තීය ක්‍රියාමර්ගය ගෙන ඇති බවය.
+
+ඔවුන් රජයට බල කරමින් ඉල්ලා සිටින්නේ තම සේවා ව්‍යවස්ථාව සම්පාදනය කරදෙන ලෙසත් 2016යෙන් පසු වැඩි නොකළ ගමන් වියදම් දීමනාව හෝ ඉන්ධන දීමනාව හෝ කුමක් හෝ දීමනාවක් වැඩි කර දෙන ලෙසය.
+
+මෙම දීමනා කිසිවක් අයවැය වෙනතුරු ලබාදීමට නොහැකිනම් යම් දීමනාවක් ලබා දෙන ලෙස ශ්‍රී ලංකා එක්සත් ග්‍රාම නිලධාරී සංගමය වැඩිදුරටත් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/6c45ff6b.json)
+
+---
+
+### Foreign Minister Ali Sabry to visit Japan
+
+*2024-06-26 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100114/foreign-minister-ali-sabry-to-visit-japan) · `en`
+
+Sri Lanka’s Minister of Foreign Affairs Ali Sabry is scheduled to undertake an official visit to Japan from 01 July 2024.
+
+The official visit comes following an invitation extended by Japanese Foreign Minister Yoko Kamikawa, according to the Foreign Affairs Ministry.
+
+During this visit, the Foreign Minister is scheduled to engage in bilateral discussions with his Japanese counterpart which will focus on making further progress on the outcome of the latter’s official visit to Sri Lanka in May 2024.
+
+Foreign Minister Sabry will also call on several other dignitaries including Chief Cabinet Secretary of Japan Yoshimasa Hayashi, it added.
+
+The Foreign Minister will be accompanied by senior officials of the Ministry of Foreign Affairs of Sri Lanka.
+
+◼️
+
+[Data](articles/503789f4.json)
+
+---
 
 ### School teachers and principals to continue strike tomorrow
 
@@ -2231,101 +2307,5 @@ This order is issued and stated that the charges against the accused have not be
 [Data](articles/a2ba790b.json)
 
 [Extended Data](ext_articles/a2ba790b.ext.json)
-
----
-
-### Sri Lanka must establish infrastructure for high-tech cities: President
-
-*2024-06-25 21:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100099/sri-lanka-must-establish-infrastructure-for-high-tech-cities-president-) · `en`
-
-President Ranil Wickremesinghe emphasized that the government is placing special focus on integrating economic and technical sectors through advancements in computer and information technology.
-
-The President highlighted the vision to transform Colombo Port City into a financial zone facilitating offshore activities and attracting investments in Sri Lanka, with a strong emphasis on the development of enterprises and the utilization of digital technology by both local and foreign investors.
-
-President Wickremesinghe made these remarks during the opening of the 2024 ‘DigiEcon’ Global Investment Conference, commenced today (25) at the Cinnamon Grand Hotel, Colombo.
-
-The conference, themed ‘Harnessing Sri Lanka’s Untapped Potential,’ aims to showcase the country’s investment opportunities.
-
-He stated that Sri Lanka needs digital cooperation with India and China who are giants in the field.
-
-...
-
-[Data](articles/950395d8.json)
-
-[Extended Data](ext_articles/950395d8.ext.json)
-
----
-
-### Business in Kenya
-
-*2024-06-25 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198153) · `si`
-
-Mass protests in Kenya erupted over a tax hike, leading to the burning of the Kenyan parliament in Nairobi. Police violence resulted in five deaths.
-
-🟩
-
-A wave of mass protests in Kenya have begun to an increase in a tax increase.
-
-It is reported that the protesters have set fire to the Kenyan parliament building in Nairobi.
-
-The Reuters reported that the police had shot dead and 5 of them were killed.
-
-◼️
-
-[Data](articles/a691d23c.json)
-
-[Extended Data](ext_articles/a691d23c.ext.json)
-
----
-
-### Two intermediate petitions pertaining to the appointment of judges
-
-*2024-06-25 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198152) · `si`
-
-Two petitions were filed in the Supreme Court, challenging the appointment or removal orders issued by it, excluding the Chief Justice. Submitted by Ven. Dambara Amila Thero and Dr. Mahaym Mendis, these petitions allege interference in parliamentary privileges and criticize judges' actions. The filings on April 30 aim to prevent the Supreme Court from hearing a fundamental rights petition against a judge appointed by the President's Court.
-
-🟩
-
-Two Intermediate Petitions have been filed in the Supreme Court demanding the appointment or removal order issued by the Supreme Court except the Chief Justice.
-
-These petitions have been submitted by Ven. Dambara Amila Thero and Dr. Mahaym Mendis.
-
-Petitioners claim that a lawyer had filed a fundamental rights petition against the Supreme Court judge by the President's Court as a Supreme Court judge.
-
-Petitions filed on April 30, preventing the Supreme Court to hear the petition for the fundamental of the Supreme Court.
-
-The petition states that the Supreme Court has intervened in parliamentary privileges through the interim injunction and that some people have been criticized by parliamentary privileges and criticized the judges of high and lower courts.
-
-◼️
-
-[Data](articles/100e9250.json)
-
-[Extended Data](ext_articles/100e9250.ext.json)
-
----
-
-### Wijayadasa is hitting
-
-*2024-06-25 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198151) · `si`
-
-Wijayadasa Rajapaksa, challenging judicial independence, faces accusations from the Judicial Service Association over discrediting judges. He disputes claims about public declarations by district remunity and magistrates, calling for a parliamentary committee review.
-
-🟩
-
-Judges of the Judges of the Judges and Secretary Positions of the Judges of the Judiciary and Secretary posts have been summoned to the Committee on Parliament and the Privileges of Parliament regarding the public privileges of parliamentary privileges.
-
-Meanwhile, the Judicial Service Association announced that Wijeyadasa Rajapakse, who had challenged the Minister of Justice yesterday, is trying to discredit the judges.
-
-Judicial Minister Dr. Wijayadasa Rajapaksa has publicly challenged the independence of the judiciary in Parliamentary privileges on the 19th of the debate in parliamentary privileges.
-
-However, Minister Wijayadasa Rajapakse, who was sent to the Speaker today, says the District Remunity and Magistrates issued public declarations with regard to the Declaration of District Commission and the Magistrates.
-
-The Minister also said that the statement issued by the Judicial Service Association will be violated in parliamentary privileges.
-
-...
-
-[Data](articles/d1f8bdf2.json)
-
-[Extended Data](ext_articles/d1f8bdf2.ext.json)
 
 ---

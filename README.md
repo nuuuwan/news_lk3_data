@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 22:52:39**
+As of **2024-06-26 23:19:27**
 
 ## Newspaper Stats
 
-*Scraped **32,328** Articles*
+*Scraped **32,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,790
 economynextcom | 1,871
 dailyftlk | 1,976
-adalk | 2,860
+adalk | 2,861
 adaderanalk | 3,681
-tamilmirrorlk | 3,818
+tamilmirrorlk | 3,819
 dailymirrorlk | 4,733
 virakesarilk | 5,018
 adaderanasinhalalk | 5,310
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,328 (100.0%) of 32,328 articles have been extended.
+32,329 (100.0%) of 32,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### கடவுச்சீட்டு வைத்திருப்போருக்கு முக்கிய அறிவிப்பு
+
+*2024-06-26 23:00:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டு-வைத்திருப்போருக்கு-முக்கிய-அறிவிப்பு/175-339500) · `ta`
+
+ஜூலை முதலாம் திகதியில் இருந்து காலாவதியாகும் வெளிநாட்டு கடவுச்சீட்டுகளின் காலத்தை ஒரு வருடத்தால் நீடிப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+
+(ஈ பாஸ்போட்) இலத்திரனியல் கடவுச்சீட்டு பெற்றுக்கொடுக்கும் நோக்கில் இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக குடிவரவு குடியகல்வு கட்டுப்பாட்டாளர் நாயகம் ஹர்ஷ இலுக்பிடிய தெரிவித்துள்ளார்.
+
+ஏதாவது வெளிநாட்டு பயணச்சீட்டு ஒன்று செல்லுபடியாகும் 10 வருட கால எல்லையை தாண்டிய பின்னர் அதற்கு மேலும் ஒரு வருட காலம் வழங்குவது இலத்திரனியல் கடவுச்சீட்டு விநியோகிக்கும் வரை மாத்திரமாகும் எனவும் கட்டுப்பாட்டாளர் நாயகம் தெரிவித்துள்ளார்.
+
+மேலும் எதிர்வரும் நவம்பர் மாதத்தில் இருந்து இலத்திரனியல் கடவுச்சீட்டு விநியோகம் ஆரம்பிக்கப்படுவதுடன் சாதாரண வெளிநாட்டு கடவுச்சீட்டு உடையவர்கள் விரைவாக இலத்திரனியல் கடவுச்சீட்டை பெற்றுக்கொள்ளுமாறு குடிவரவு குடியகல்வு திணைக்களம் கேட்டுக்கொள்கிறது.  R
+
+◼️
+
+[Data](articles/85cebd81.json)
+
+---
 
 ### Responses from the people after calling the nation
 
@@ -489,6 +507,26 @@ Jayawardena had initially joined SLC as a Consultant Coach in September 2022 ahe
 [Data](articles/f568ea00.json)
 
 [Extended Data](ext_articles/f568ea00.ext.json)
+
+---
+
+### Three arrested for protest in the Teacher Principal
+
+*2024-06-26 19:22:12* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-විදුහල්පති-විරෝධතාවට-ආපි-තිදෙනෙක්-ජාතික-රෝහලට/11-410459) · `si`
+
+Three individuals were arrested during a protest at the Colombo Fort Railway Station. Police entered the Colombo National Hospital to disperse it. Two of them left the hospital later, while one remained.
+
+🟩
+
+A spokesman said that the police were admitted to the Colombo National Hospital to disperse the protest at the Colombo Fort Railway Station.
+
+Two of the three hospitalized were leaving a while, and others were returning to the hospital.
+
+◼️
+
+[Data](articles/c9df1264.json)
+
+[Extended Data](ext_articles/c9df1264.ext.json)
 
 ---
 
@@ -2345,43 +2383,5 @@ Accordingly, the police arrested the man and conducting further investigations.
 [Data](articles/2571cf2c.json)
 
 [Extended Data](ext_articles/2571cf2c.ext.json)
-
----
-
-### Road opposite Fort Railway Station blocked due to protest
-
-*2024-06-26 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100108/road-opposite-fort-railway-station-blocked-duetoprotest) · `en`
-
-The road in front of the Colombo Fort Railway Station has been blocked for traffic due to a protest march, Ada Derana reporter said.
-
-The protest march has been organized by the teacher-principal trade unions.
-
-Accordingly, the lanes towards Pettah have been blocked for traffic movement causing severe traffic congestion in the area, he said.
-
-UPDATE: Meanwhile, the Lotus Road in Colombo Fort has also been blocked for traffic owing to the protest march by teacher-principal trade unions, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/b2497b38.json)
-
-[Extended Data](ext_articles/b2497b38.ext.json)
-
----
-
-### Colombo-box bloom
-
-*2024-06-26 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198169) · `si`
-
-Road block near Colombo Fort Railway Station prevents Ada Derana reporter from proceeding.
-
-🟩
-
-The road in front of the Colombo Fort Railway Station has blocked the Ada Derana reporter, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/9c2121b8.json)
-
-[Extended Data](ext_articles/9c2121b8.ext.json)
 
 ---

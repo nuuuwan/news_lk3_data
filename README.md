@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 14:35:48**
+As of **2024-06-26 14:53:55**
 
 ## Newspaper Stats
 
-*Scraped **32,252** Articles*
+*Scraped **32,253** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,790
 economynextcom | 1,870
 dailyftlk | 1,976
 adalk | 2,845
-adaderanalk | 3,664
+adaderanalk | 3,665
 tamilmirrorlk | 3,809
 dailymirrorlk | 4,733
 virakesarilk | 5,002
@@ -26,13 +26,27 @@ adaderanasinhalalk | 5,293
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,252 (100.0%) of 32,252 articles have been extended.
+32,252 (100.0%) of 32,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### WikiLeaks founder Julian Assange heads to Australia after U.S. guilty plea
+### Sri Lanka reaches final debt restructuring agreement with creditors
+
+*2024-06-26 14:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100112/sri-lanka-reaches-final-debt-restructuring-agreement-with-creditors) · `en`
+
+Sri Lanka has reached a final restructuring agreement for USD 5.8 billion of debt with its bilateral lenders’ Official Creditor Committee in Paris, France a short while ago.
+
+This agreement grants significant debt relief, allowing Sri Lanka to allocate funds to essential public services and secure concessional financing for its development needs, the President’s Media Division (PMD) said.
+
+◼️
+
+[Data](articles/40d459de.json)
+
+---
+
+### WikiLeaks founder Julian Assange heads to Australia after US guilty plea
 
 *2024-06-26 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100111/wikileaks-founder-julian-assange-heads-to-australia-after-us-guilty-plea) · `en`
 
@@ -2301,21 +2315,5 @@ The S&P SL 20 index has been designed in accordance with international practices
 [Data](articles/6e2ebc3e.json)
 
 [Extended Data](ext_articles/6e2ebc3e.ext.json)
-
----
-
-### Sri Lanka’s first influencer ramp walk at ‘Beauty Pink Night’
-
-*2024-06-25 20:03:00* · [`islandlk`](http://island.lk/sri-lankas-first-influencer-ramp-walk-at-beauty-pink-night/) · `en`
-
-Dettol, a leading global health and hygiene brand, introduced its latest Skincare soap to the Sri Lankan market with a grand celebration. The launch event, named “Dettol Beauty Pink Night,” was a glamorous affair, featuring Sri Lanka’s first influencer ramp walk.
-
-This extraordinary occasion drew some of the country’s most beloved and influential female social media personalities, including Rozanne Diasz, a renowned figure in Sri Lankan fashion and modeling, and Hasini Gunasekara, a prominent beautician and entrepreneur. The event was not only a visual delight but also an insightful gathering where experts shared their knowledge, emphasizing the importance of a proper skincare routine, helping the audience understand how to achieve and maintain healthy skin.
-
-...
-
-[Data](articles/e3933480.json)
-
-[Extended Data](ext_articles/e3933480.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 08:36:09**
+As of **2024-06-26 08:54:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,278
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,190 (100.0%) of 32,192 articles have been extended.
+32,192 (100.0%) of 32,192 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ Three persons have been reported dead, and several others were left injured afte
 ◼️
 
 [Data](articles/6b8fae64.json)
+
+[Extended Data](ext_articles/6b8fae64.ext.json)
 
 ---
 
@@ -520,19 +522,25 @@ After the end of the war, the Department of Forest Resources and the Department 
 
 ---
 
-### போரா மாநாட்டை நடத்த அரசாங்கம் ஆதரவு
+### Government support to hold the Bora Conference
 
 *2024-06-26 02:09:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போரா-மாநாட்டை-நடத்த-அரசாங்கம்-ஆதரவு/175-339436) · `ta`
 
-இலங்கையில் நடத்தப்படவிருக்கும் போரா சமூகத்தின் வருடாந்த ஆன்மிக மாநாட்டை வெற்றிகரமகா நடத்துவதற்கு தேவையான முழுமையான ஆதரவை வழங்குமாறு தேசிய பாதுகாப்பு தொடர்பிலான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதியின் பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க சம்பந்தப்பட்ட அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+Sagala Ratnayake, a senior advisor to Sri Lanka's National Security and President's Working Council, has directed officials to fully support the annual Bora Spiritual Conference set for July 7-16 at the Bambalapitiya Bora School and Sri Lanka Exhibition and Conference Hall. This event mirrors the one held annually in Karachi, Pakistan.
 
-போரா மாநாடு தொடர்பில் நேற்று முன்தினம் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்ற கலந்துரையாடலின் போதே சாகல ரத்நாயக்க இந்த அறிவுறுத்தல்களை வழங்கினார்.
+🟩
 
-இந்த ஆண்டு பாகிஸ்தானின் கராச்சியில் நடைபெறவுள்ள போரா சமூகத்தின் ஆன்மீக மாநாட்டுடன் இணையான போரா ஆன்மீக மாநாடு ஜூலை 7- 16 ஆம் திகதி வரை பம்பலப்பிட்டி போரா பள்ளிவாசல் மற்றும் இலங்கை கண்காட்சி மற்றும் மாநாட்டு மண்டபத்தை மையமாகக் கொண்டு நடைபெறவுள்ளது. (a)
+Sagala Ratnayake, a senior adviser to the National Security and President's Working Council, has issued a directive to the relevant authorities to provide the full support of the annual spiritual conference of the Bora community to be held in Sri Lanka.
+
+Sagala Ratnayake gave these instructions during a discussion held at the Presidential Office yesterday.
+
+The Bora Spiritual Conference parallel with the spiritual conference of the Bora community in Karachi in Pakistan will be held at the Bambalapitiya Bora School and the Sri Lanka Exhibition and Conference Hall from July 7- 16th.. (A)
 
 ◼️
 
 [Data](articles/f7a1480a.json)
+
+[Extended Data](ext_articles/f7a1480a.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 10:07:14**
+As of **2024-06-26 10:19:29**
 
 ## Newspaper Stats
 
-*Scraped **32,204** Articles*
+*Scraped **32,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 islandlk | 1,790
 economynextcom | 1,868
 dailyftlk | 1,976
-adalk | 2,836
+adalk | 2,837
 adaderanalk | 3,657
 tamilmirrorlk | 3,798
 dailymirrorlk | 4,733
 virakesarilk | 4,994
-adaderanasinhalalk | 5,282
+adaderanasinhalalk | 5,283
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,201 (100.0%) of 32,204 articles have been extended.
+32,204 (100.0%) of 32,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### උපකාරක පන්ති නියාමනය කළ යුතු බවට ප්‍රකාශයක්
+
+*2024-06-26 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198166) · `si`
+
+ලංකවේ උපකාරක පංති කාර්මාන්තය නියාමනය කළ යුතු බව පේරාදෙණිය විශ්වවිද්‍යාලයේ ආර්ථික විද්‍යා සහ සංඛ්‍යාන අධ්‍යයන අංශයේ මහාචාර්ය වසන්ත අතුකෝරල මහතා පවසයි.
+
+ඔහු පවසන්නේ එම කර්මාන්තය හරහා දෙමාපියටන්ගේ රුපියල් බිලියන 200ක පමණ මුදලක් සංසරණය වන බවය.
+
+"අද වෙනකොට පවත්නා තරගකාරී විභාග ක්‍රමය නිසා දෙමාපියන් විශාල මුදලක් වියදම් කරලා, ළමයින්ව උපකාරක පන්තිවලට යොමුකරනවා. විශේෂයෙන් 3,4,5 යන පන්තිවලත් 10,11 යන පන්තිවල හා 12,13 යන පන්තිවල ළමුන් විශාල ප්‍රමාණයක් උපකාරක පන්ති එකකට හෝ කිහිපයකට සහභාගී වෙනවා. මෙහි සමස්ත වෙළෙඳ පොළ වටිනාකම බලද්දි වාර්ෂිකව රුපියල් බිලියන 200ක විතර මුදල් හුවමාරුවක් මේ තුළ සිදුවෙනවා. මේ උපකාරක පන්ති නියාමනයක් මේ වෙද්දි සිද්ධ වෙන්නේ නෑ. උපකාරක පන්ති නියාමනයක් සිදුකර බදු දැලට යටත්වීමක් සිදුවිය යුතුයි. ඒ සඳහා රාජ්‍ය මැදිහත්වීමක් මේ වෙලාවේ අවශ්‍යයි. නොමැති නම් පාසල් අධ්‍යාපනය බිඳවැටී උපකාරක පන්තිවල ගොඳුරක් බවට පාසල් අධ්‍යාපනය පත්විය හැකියි."
+
+අධ්‍යාපන අමාත්‍යාංශය මැදිහත් වී මෙම උපකාරක පංති නියාමනය කළ යුතු බව මහාචාර්ය වසන්ත අතුකෝරල මහතා  පෙන්වා දෙයි.
+
+...
+
+[Data](articles/dbeecb54.json)
+
+---
 
 ### Anti-tax protesters storm Kenya’s parliament, drawing police fire as president vows to quash unrest
 
@@ -48,27 +66,35 @@ Kenya’s defense minister said the military had been deployed to support police
 
 [Data](articles/c7cf84b5.json)
 
+[Extended Data](ext_articles/c7cf84b5.ext.json)
+
 ---
 
-### දියේ ගිලී දෙදෙනෙක් මරුට
+### Two drowns
 
 *2024-06-26 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198164) · `si`
 
-උනවටුන වෙරළ තීරයේ දිය නෑමට ගිය විදෙස් ජාතික පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+In two separate incidents, two individuals drowned: one off the Unautana Coast, where the body was found by locals and taken to Karapitiya Hospital, and another in the D Canal in the Welikanda police division. The first victim was identified as a 56-year-old from Welikanda, while details about the second victim are pending.
 
-හබරාදූව පොලීසිය සඳහන් කළේ, මෙම විදෙස් ජාතිකයා ඊයේ (25) සවස් කාලයේ  දියනාමින් සිටියදී දිය වැලකට හසු වී ගසා ගෙන ගොස් ඇති බවය.
+🟩
 
-ප්‍රදේශවාසීන්ගේ මැදිහත් වීමෙන් ඔහු වෙරළෙන් ගොඩට ගෙන ගාල්ල, කරාපිටිය රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මිය ගොස් ඇති බවද පොලීසිය පවසයි.
+The victims were killed in foreign person who was bathing in the Unautana Coast.
 
-මේ අතර වැලිකන්ද පොලිස් වසමේ අසේලපුර ප්‍රදේශයේ ඩී ඇළේ දිය නෑමට ගිය කාන්තාවක් දියේ ගිලී මිය ගොස් තිබේ.
+Habaraduwa Police said that the overseer had been depressed in the evening.
 
-ඊයේ (25) රාත්‍රී කාලයේ මෙම කාන්තාව දිය නෑමට ගොස් මෙම අනතුර සිදුව ඇති බව පොලීසිය ස﻿ඳහන් කරයි.
+The intervention of the residents of the area has died on the coast and died on admission to the Karapitiya Hospital, police said.
 
-මෙලෙස මියගොස් ඇත්තේ, අසේලපුර, වැලිකන්ද ප්‍රදේශයේ පදිංචිව සිටි 56 හැවිරිදි කාන්තාවකි.
+Meanwhile, a woman drowned in D Canal in the Welikanda police division.
+
+The police states that the woman had taken place at night (25) at night.
+
+The deceased has been identified as a 56 year old resident of Welikanda, Welikanda.
 
 ◼️
 
 [Data](articles/bc969dd6.json)
+
+[Extended Data](ext_articles/bc969dd6.ext.json)
 
 ---
 
@@ -89,6 +115,8 @@ Meanwhile, the president of the Joint Committee of Government Executive Officers
 ◼️
 
 [Data](articles/510d1b9b.json)
+
+[Extended Data](ext_articles/510d1b9b.ext.json)
 
 ---
 
@@ -1352,6 +1380,22 @@ I have responded to a number of questions raised in Parliament regarding court p
 
 ---
 
+### කොළඹ නගර සභාවට රු. කෝටි 26ක බදු පොල්ලක්
+
+*2024-06-25 19:20:21* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-නගර-සභාවට-රු--කෝටි-26ක-බදු-පොල්ලක්/11-410437) · `si`
+
+කොළඹ නගරයේ රථවාහන නැවැතුම් පොළවල් පවත්වාගෙන යෑමට කොළඹ නගර සභාව විසින් අවසර දී ඇති ආයතන මේ වන විට රුපියල් කෝටි 26 කට වඩා බදු මුදල් ගෙවීම පැහැර හැර ඇති බව කොළඹ නගර සභාවේ අධ්‍යක්‍ෂ ඉංජිනේරු පී.ඒ. චන්ද්‍රපාල මහතා සඳහන් කළේය.
+
+කොළඹ නගරයේ රථවාහන නැවැතුම් පොළවල් පවත්වාගෙන යෑමට කොළඹ නගර සභාව විසින් අවසර දී ඇති ආයතන 2023 වසර සඳහා රුපියල් කෝටි 20කට වඩා බදු මුදල් ගෙවීම පැහැර හැර තිබියදී 2024 වසර සඳහාද එම රථවාහන නැවැතුම් පොළවල් පවත්වාගෙන යෑමට එම ආයතනවලට අවසර දී ඇති බව කොළඹ නගර සභාවේ අධ්‍යක්‍ෂ ඉංජිනේරු පී.ඒ. චන්ද්‍රපාල මහතා වැඩිදුරටත් සඳහන් කළේය.
+
+කොළඹ නගරයේ රථවාහන නැවැතුම් පොළවල් පවත්වාගෙන යෑමට අවසර දී ඇති ආයතන 26ක් එලෙස බදු මුදල් ගෙවීම පැහැර හැර ඇති බව වගුවක ආකාරයෙන් තොරතුරු දක්වමින් අල්ලස, දූෂණය හා නාස්තියට එරෙහි පුරවැසි බලය සංවිධානයේ සභාපති ජාමුනි කමන්ත තුෂාර මහතාට දැනුම් දී ඇත.
+
+...
+
+[Data](articles/4c3f9e03.json)
+
+---
+
 ### Tourism Information Center at Palali International Airport
 
 *2024-06-25 19:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/186973) · `ta`
@@ -2277,55 +2321,5 @@ The victim was admitted to the Maskeliya District Hospital and was transferred t
 [Data](articles/bb0da0ec.json)
 
 [Extended Data](ext_articles/bb0da0ec.ext.json)
-
----
-
-### Ceoon
-
-*2024-06-25 15:12:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தாயைக்-கொன்ற-தனி-குளவி/76-339398) · `ta`
-
-Sivakumar Anthony Terinda, a 44-year-old mother of two from Maskeliya, died six days post-treatment for a wasp sting at various hospitals including Peradeniya Source Hospital. She was initially treated at Maskeliya District Hospital before being transferred to Dikoya-Klangan Source Hospital and finally to the Teaching Hospital, where she passed away.
-
-🟩
-
-A woman from Maskeliya, who was targeted for the wasp, has died six days later after being treated at Peradeniya Source Hospital.
-
-The deceased is Sivakumar Anthony Terinda (age 44), the mother of two children..  வயது உடைய 2 குழந்தைகளின் தாய் ஆவார்.
-
-Maskeliya Plantation Company's Maskeliya Gilet Division has been working on the 19th, a separate wasps.
-
-The victim was admitted to the Maskeliya District Hospital and was transferred to the Dikoya-Klangan Source Hospital. However, he has died only after being transferred to the Teaching Hospital for further treatment.
-
-◼️
-
-[Data](articles/dc2ec1bd.json)
-
-[Extended Data](ext_articles/dc2ec1bd.ext.json)
-
----
-
-### Police officer who went to hear a complaint
-
-*2024-06-25 15:10:27* · [`adalk`](https://www.ada.lk/breaking_news/පැමිණිල්ලක්-විභාග-කිරීමට-ගිය-පොලිස්-නිලධාරියකුට-පොලු-ප්‍රහාරයක්/11-410427) · `si`
-
-A police officer was attacked in the Purethota area, leading to serious injuries and hospitalization. The incident occurred during a dispute between two brothers, where one brother assaulted the officer with a stick, causing harm to his chest, hand, and leg. Following the attack, the officer found a large jackfruit in the area. Further investigations are being conducted by the Phoyapitiya Police.
-
-🟩
-
-The officer was seriously injured and admitted to the Kandy National Hospital due to the defendant with a complaint by the Purethota area in the Purethota police division.
-
-After attacking the police officer, the police officer will rise to a huge jackfruit in the area.
-
-The officer of the Polonnaruwa Police had gone to the Bothota area in the Bothota area today (25), according to a complaint received regarding a dispute over two brothers. While the police officer summoned the two brothers, the brother who was assaulted while he was impulsive
-
-A stick took an attack on the police officer once. The policeman's chest area has been severely caused to a hand and a leg.
-
-A high police officer said he had used police protection in jackfruit and basefront to arrest the police officer. The Phoyapitiya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/b715f821.json)
-
-[Extended Data](ext_articles/b715f821.ext.json)
 
 ---

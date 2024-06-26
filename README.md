@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 16:06:09**
+As of **2024-06-26 16:19:38**
 
 ## Newspaper Stats
 
-*Scraped **32,263** Articles*
+*Scraped **32,264** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,57 @@ adaderanalk | 3,668
 tamilmirrorlk | 3,809
 dailymirrorlk | 4,733
 virakesarilk | 5,002
-adaderanasinhalalk | 5,298
+adaderanasinhalalk | 5,299
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,259 (100.0%) of 32,263 articles have been extended.
+32,263 (100.0%) of 32,264 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### අධිවේගී මාර්ගයේ සේවක වැඩ තහනමෙන් අතුරුගිරියේ හුටපටයක්
+### රුපියල් කෝටි 18ක රත්‍රන් ජෙල්
+
+*2024-06-26 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198182) · `si`
+
+රුපියල් කෝටි 18ක් පමණ වටිනා රත්‍රන් ජෙල්, ගුලි වශයෙන් සකස්කර ඒවා තම ගුද මාර්ගයේ සහ ගමන් මලු තුළ සඟවා ගෙන කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ සිටි ශ්‍රී ලාංකිකයන් 06 දෙනෙකු ගුවන්තොටුපොළ රේගු නිලධාරීන් ඊයේ (25) අත්අඩංගුවට ගෙන තිබේ.
+
+කල්මුණේ, මූතූර්, කොළඹ-10, කලගෙඩිහේන සහ මිනුවන්ගොඩ යන ප්‍රදේශ වල පදිංචි වයස අවුරුදු 30ත් 50ත් අතර පසුවන සැකකරුවන් නිතර නිතර ගුවන් ගමන්වල නිරත වන පුද්ගලයන් බව රේගුව පැවසීය.
+
+මොවුන් ඩුබායි සිට ඉන්දියාවේ චෙන්නායි වෙත පැමිණ එතැන් කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ තිබුණි.
+
+මෙම පුද්ගලයන් ගුවන්තොටුපොළ රේගු නිලධාරීන් විසින් පරිලෝකන යන්ත්‍ර (Scan Test) පරීක්ෂා කිරීම් වලට යොමු කිරීමෙන් පසුව අත්අඩංගුවට ගැනිණි.
+
+◼️
+
+[Data](articles/515d388a.json)
+
+---
+
+### Employeeship's ban in Athuraviya
 
 *2024-06-26 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198181) · `si`
 
-දක්ෂිණ අධිවේගී මාර්ගයේ අතුරුගිරිය පිවිසුමෙන් එම මාර්ගයට රථවාහන ඇතුළු කිරීමේදී අද (26) දින ටිකට් පත් නිකුත් කිරීමක් සිදු නොකෙරුණි.
+In Athuraviya, 22 employees were suspended over a cash fraud issue, leading to a temporary staff shortage at the Southern Expressway's Athurugiriya entrance. To compensate, workers from the Galunggigah Interchange were reassigned to manage vehicle charges. The system calculates tolls based on vehicle entries, ensuring operations continue smoothly despite the personnel changes.
 
-මුදල් වංචා චෝදනාවක් මත අතුරුගිරිය පිවිසුම් මධ්‍යස්ථානයේ සේවය කල සේවකයින් 22ක් වැඩ තහනමට ලක්වීම හේතුවෙන් පවතින සේවක හිඟය මත මේ ආකාරයෙන් කටයුතු කිරීමට සිදුවී ඇති බව එහි නිලධාරියෙකු පැවසීය.
+🟩
 
-කෙසේවෙතත් අතුරුගිරිය පිටවීමේ දොරටුවලින් පිටවන වාහන සඳහා  මුදල් අය කිරීම සඳහා ගැලනිගම අන්තර් හුවමාරුවේ සේවකයන් කිහිප දෙනෙකු තාවකාලිකව සේවය සඳහා යොදවා තිබුණි.
+The Southern Expressway to the road was issued today (26) tickets today.
 
-අතුරුගිරිය පිවිසුමෙන් දක්ෂිණ අධිවේගී මාර්ගයට ඇතුළු වූ වාහනවලින් පිටවීමේදී මුදල් අය කිරීමක් සිදුවන බවත් එය අදාළ රථයේ රියදුරු පවසන ඇතුළුවීමේ පිවිසුමේ සිට ගණනය කර මුදල් ලබා ගැනීමක් බවත් අදාළ නිලධාරියා වැඩිදුරටත් පැවසීය.
+A senior official said that 22 employees worked at the Athurugiriya entrance center on a cash fraud have to deal with the shortage of employees due to the suspension.
+
+However, several employees of the galungiga interchange have been temporarily employed to charge the vehicles leaving for vehicles.
+
+The officer added that the vehicle entered the Southern Expressway to the Southern Expressway from the Athurugiriya is a cash and calculated from the entry of the vehicle.
 
 ◼️
 
 [Data](articles/95c81029.json)
+
+[Extended Data](ext_articles/95c81029.ext.json)
 
 ---
 
@@ -68,23 +92,31 @@ The petitioners claim that the decision taken by the Minister of Labor without c
 
 [Data](articles/15ee1a3d.json)
 
+[Extended Data](ext_articles/15ee1a3d.ext.json)
+
 ---
 
-### ග්‍රාම නිලධාරීන් යළිත් වර්ජන ක්‍රියාමාර්ගයකට
+### Grama Niladhari back to strike action
 
 *2024-06-26 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198180) · `si`
 
-ග්‍රාම නිලධාරීන් හෙට (27) සහ අනිද්දා (28) සියලුම රාජකාරීවලින් ඉවත්වී වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරත වන බව ශ්‍රී ලංකා එක්සත් ග්‍රාම නිලධාරී සංගමය පවසයි.
+Grama Niladhari workers plan a trade union action on 28th, demanding better service minutes and travel allowances, similar to those in 2016, or an increase in allowances without waiting for the budget.
 
-එහි සභාපති නන්දන රණසිංහ මහතා පවසා සිටියේ, ඔවුන් මේ වනවිට ක්‍රියාත්මක කර ඇති අකුරුට වැඩ කිරීමේ ක්‍රියාමාර්ගයට අමතරව මෙම වෘත්තීය ක්‍රියාමර්ගය ගෙන ඇති බවය.
+🟩
 
-ඔවුන් රජයට බල කරමින් ඉල්ලා සිටින්නේ තම සේවා ව්‍යවස්ථාව සම්පාදනය කරදෙන ලෙසත් 2016යෙන් පසු වැඩි නොකළ ගමන් වියදම් දීමනාව හෝ ඉන්ධන දීමනාව හෝ කුමක් හෝ දීමනාවක් වැඩි කර දෙන ලෙසය.
+The Grama Niladhari Association says that the Grama Niladharis will leave and engage in the trade union action tomorrow (28).
 
-මෙම දීමනා කිසිවක් අයවැය වෙනතුරු ලබාදීමට නොහැකිනම් යම් දීමනාවක් ලබා දෙන ලෙස ශ්‍රී ලංකා එක්සත් ග්‍රාම නිලධාරී සංගමය වැඩිදුරටත් ඉල්ලා සිටී.
+Chairman Nandana Ranasinghe said that they had taken this trade verge in addition to the active action of working.
+
+They demand the government and demands that their service minute and increased travel allowance or no increase in the 2016 travel allowance.
+
+The Sri Lanka United Grama Niladhari Union further requests that if any allowances cannot be given until the budget is not given to budget.
 
 ◼️
 
 [Data](articles/6c45ff6b.json)
+
+[Extended Data](ext_articles/6c45ff6b.ext.json)
 
 ---
 
@@ -105,6 +137,8 @@ The Foreign Minister will be accompanied by senior officials of the Ministry of 
 ◼️
 
 [Data](articles/503789f4.json)
+
+[Extended Data](ext_articles/503789f4.ext.json)
 
 ---
 
@@ -2279,33 +2313,5 @@ State Minister Semasinghe said he also had a meeting with Waleed Sh. A. Albahar,
 [Data](articles/685dc23e.json)
 
 [Extended Data](ext_articles/685dc23e.ext.json)
-
----
-
-### Kissing a personnel of a private company ends in prison
-
-*2024-06-25 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198154) · `si`
-
-A court sentenced a HR manager from a private company to prison for kissing a clerk. The Court of Appeal ordered the manager to pay Rs. 750,000. If paid, the sentence would be reduced. This decision was made by Judge Madulla after reviewing appeals. The manager was initially acquitted but then found guilty based on unproven charges.
-
-🟩
-
-The Court of Appeal has sentenced the Human Resources Managing Manager of the Trincomalee High Court accused of a clerk of a clerk in a private company.
-
-In addition, the decision issued by the Court of Appeal of the Court of Appeal of the accused by the defendant should be paid Rs. 750,000.
-
-If the payment of the payment was made, Ada Derana reporter said that if the payment was taken, the decision was filed in the verge.
-
-The verdict was published by the Judge Madulla after hearing a appeal presented by the agricothered and the defendant to acquire the defendant in this case.
-
-The General Manager was acquitted on September 16, 2015 after the accusation.
-
-This order is issued and stated that the charges against the accused have not been proven to be unsuccessful.
-
-◼️
-
-[Data](articles/a2ba790b.json)
-
-[Extended Data](ext_articles/a2ba790b.ext.json)
 
 ---

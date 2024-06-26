@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 07:24:14**
+As of **2024-06-26 08:01:09**
 
 ## Newspaper Stats
 
-*Scraped **32,184** Articles*
+*Scraped **32,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,64 +17,76 @@ economynextcom | 1,868
 dailyftlk | 1,976
 adalk | 2,834
 adaderanalk | 3,653
-tamilmirrorlk | 3,792
+tamilmirrorlk | 3,793
 dailymirrorlk | 4,733
-virakesarilk | 4,992
+virakesarilk | 4,994
 adaderanasinhalalk | 5,276
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,170 (100.0%) of 32,184 articles have been extended.
+32,178 (100.0%) of 32,187 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### මාන්කුලමේ බිහිසුණු අනතුරක්
+### A terrible accident in Mankulam
 
 *2024-06-26 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198158) · `si`
 
-මාන්කුලම් පොලිස් වසමේ මහනුවර - යාපනය ඒ 9 මාර්ගයේ පනිච්චන්කුලම් ප්‍රදේශයේ දී සිදුවු රිය අනතුරකින් පුද්ගලයින් තිදෙනෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+In a tragic accident on the Kandy-Jaffna A-9 road, three people died when a bus veered off the road near Paranchmunkulam. The driver, who was reportedly unwell and had recently repaired the bus, lost control. Several passengers, including the driver, suffered serious injuries; some were taken to Manukulama Hospital, while others were admitted to Kilinochchi hospital. Two unidentified victims, aged 39 from Jaffna, also succumbed to their injuries.
 
-යාපනය දෙස සිට කොළඹ දෙසට ධාවනය වූ බස් රථයක් ආපදාවකට ලක්ව ඇති අවස්ථාවක රියදුරු සහ එහි සිටි මගීන් කිහිපදෙනෙකු බස් රථයෙන් බැස එය අලුත්වැඩියා සිදුකරමින් සිටිය දී එම දිසාවෙන් ම පැමිණි ලොරි රථයක් රියදුරුට පාලනය කර ගැනීමට නොහැකිව ආපදාවට පත් බස් රථයේ පිටුපස ගැටී අනතුර සිදුව ඇතැයි පොලීසිය පැවසීය.
+🟩
 
-එම අවස්ථාවේ දී බස් රථයේ රියදුරු සහ මගීන් කිහිපදෙනෙක් අනතුරට ලක්ව තිබේ.
+Three persons were killed in an accident in the Paranchmunkulam area on the Mankulam police division in Kandy-Jaffna A-9 road.
 
-බස් රථයේ රියදුරු හා මගීන් කිහිපදෙනෙකු බරපතළ තුවාල ලැබීමත් සමග ඊයේ (25) රාත්‍රීයේ ම  මානකුලම රෝහලට ඇතුළත් කර ඇති අතර එම අවස්ථාවේ දී තිදෙනෙක් ජීවිතක්ෂයට පත්ව ඇත.
+The driver and several passengers were disaster towards Colombo to Colombo, the police said that the driver of the bus, who had been repaired, was not controlled by the driver, and the road was not controlled by the driver.
 
-ලොරි රථයේ රියදුරු හා මගියෙකු තුවාල ලබා කිලිනොච්චිය රෝහලට ඇතුළත් කර තිබේ.
+The driver of the bus and several passengers were in danger.
 
-අනතුරින් අවුරුදු 39ක් වූ යාපනය ප්‍රදේශයේ පදිංචිකරුවෙක් වූ බස් රථයේ රියදුරු හා අනන්‍යතාවය තහවුරු කරගැනීමට නොහැකි තවත් පුද්ගලයින් දෙදෙනෙක් ජීවිතක්ෂයට පත්ව ඇත.
+The bus driver and several passengers were seriously injured and 3 others were rushed to the Manukulama Hospital last night.
+
+The driver and passenger of the lorry has been admitted to the Kilinochchi hospital.
+
+Two others who were unable to verify the driver and identity of the bus, a 39-year-old resident of Jaffna.
 
 ◼️
 
 [Data](articles/6c70a7a8.json)
 
+[Extended Data](ext_articles/6c70a7a8.ext.json)
+
 ---
 
-### ඉදිරි පැය 24 ගැන කාලගුණයෙන් රතු නිවේදනයක්
+### Red announcement from the weather for the next 24 hours
 
 *2024-06-26 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198155) · `si`
 
-තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව මඟින් නිකුත් කර තිබේ.
+A severe weather warning has been issued by the Department of Meteorology due to strong winds and rough seas, effective for the next 24 hours. The advisory is particularly cautious for coastal communities near the Arabian Sea, anticipating wind speeds of 65 to 75 knots. Additionally, heavy rainfall exceeding 50 mm is expected in several regions, including the Western, Sabaragamuwa, North Western provinces, and specific districts like Kandy, Nuwara Eliya, Galle, and Matara. Strong winds of 40-50 knots are also forecasted for the Western slopes of the central hills, Trincomalee, Hambantota, and Moneragala Districts.
 
-එම නිවේදනය අද අලුයම 3.30 නිකුත් කර ඇති අතර ඉදිරි පැය 24 සඳහා බලපැවැත්වේ.
+🟩
 
-ඒ අනුව අරාබි මුහුද ප්‍රදේශයේ ක්‍රියාකරන බහුදින ධීවර හා නාවික ප්‍රජාව සඳහා වඩාත් සැලකිලිමත් වන ලෙස අදාළ නිවේදනයේ දැක්වේ.
+The Department of Meteorology has issued a warning red notice of the strong winds and the sea.
 
-සක්‍රීය නිරිතදිග මෝසම් කාලගුණ තත්ත්වය හේතුවෙන් අරාබි මුහුදු ප්‍රදේශයේ ඉතා තද සුළං පැ.කි.මී 65 - 75 දක්වා ඇති විය හැකි අතර මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+The announcement has been issued 3.30 this morning and is in effect for the next 24 hours.
 
-මේ අතර බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකිය.
+Accordingly, the release statement is more careful for the Thagudu Fisheries and Naval Community implemented in the Arabian Sea.
 
-සබරගමුව පළාතේත්, කුරුණෑගල, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇති වේ.
+According to active southwest monsoon, there may be 65 to 75, the sea areas can be very rough.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇති වේ.
+Meanwhile, there will be showers at times in the Western, Sabaragamuwa and North Western provinces, in Kandy, Nuwara Eliya, Galle and Matara districts.
+
+In some places in the Sabaragamuwa, Kurunegala, Kandy and Nuwara Eliya districts. Heavy rains cause more than 50.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. There are about 40-50 strong winds.
 
 ◼️
 
 [Data](articles/f3e8deb7.json)
+
+[Extended Data](ext_articles/f3e8deb7.ext.json)
 
 ---
 
@@ -107,6 +119,42 @@ On the economic front, the current IMF program is now backed, to varying degrees
 [Data](articles/7297c29a.json)
 
 [Extended Data](ext_articles/7297c29a.ext.json)
+
+---
+
+### கணினி மற்றும் தகவல் தொழில்நுட்பத்தின் ஊடாக பொருளாதாரம் - தொழில்நுட்பப் பிரிவுகனை ஒருங்கிணைப்போம் - ஜனாதிபதி
+
+*2024-06-26 05:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/186984) · `ta`
+
+கணினி மற்றும் தகவல் தொழில்நுட்பத்தின் ஊடாக பொருளாதார - தொழிநுட்பத் துறைகளை ஒருங்கிணைப்பது குறித்து அரசாங்கத்தின் விசேட கவனம் செலுத்து வருவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+இலங்கையில் முதலீடுகளை ஊக்குவித்து கடல்சார் செயற்பாடுகளை இலகுபடுத்தும் நிதி வலயமாக கொழும்பு துறைமுக நகரத்தை கட்டமைப்பதே எமது நோக்கமாகும் எனத் தெரிவித்த ஜனாதிபதி, அதற்குள் தொழில் நிறுவனங்களின் அபிவிருத்தி மற்றும் டிஜிட்டல் தொழில்நுட்பப் பயன்பாடுகளை உள்நாட்டு, வெளிநாட்டு முதலீட்டாளர்களிடம் ஒப்படைக்கவுள்ளதாகவும் ஜனாதிபதி தெரிவித்தார்.
+
+2024 ஆம் ஆண்டுக்கான 'DigiEcon' உலக முதலீட்டு மாநாட்டை ஆரம்பித்து வைத்து உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டுள்ளார்.
+
+2024ஆம் ஆண்டுக்கான 'DigiEcon' உலக முதலீட்டு மாநாடு 'இலங்கையின் இதுவரை பயன்படுத்தப்படாத திறனைப் பயன்படுத்துதல்' எனும் தொனிப்பொருளில் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் கொழும்பு சினமன் கிரான்ட் ஹோட்டலில் செவ்வாய்க்கிழமை (25) ஆரம்பமானது.
+
+...
+
+[Data](articles/81d6c545.json)
+
+---
+
+### இளைஞர் விரும்பும் எதிர்கால இலங்கையை உருவாக்குவது குறித்து நாடு முழுவதும் பரந்தளவிலான கருத்தாடல்களை ஆரம்பிக்க வேண்டும் - ஜனாதிபதி யோசனை முன்வைப்பு
+
+*2024-06-26 05:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186983) · `ta`
+
+இளம் தலைமுறையினர் விரும்பும் எதிர்கால இலங்கையை உருவாக்குவது தொடர்பில் நாடு முழுவதும் பரந்துபட்ட உரையாடல் ஆரம்பிக்கப்பட வேண்டுமென ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+நாட்டில் புதிய பொருளாதாரத்தை உருவாக்குவதற்கு புதிய பயணமொன்றை மேற்கொள்ள வேண்டும் எனவும்  ஜனாதிபதி வலியுறுத்தினார்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க செவ்வாய்க்கிழமை (25)  தேசிய இளைஞர் சேவை மன்றத்தின் ஏற்பாட்டில் அம்பாறை எச்.எம். வீரசிங்க விளையாட்டரங்கில் நடைபெற்ற இளைஞர் சந்திப்பில் கலந்துகொண்டார்.
+
+''திருகோணமலையில் இளைஞர் சேவைகள் மன்றத்திற்குச் சொந்தமான 200 ஏக்கர் காணியில் ஒரு பகுதியை சுற்றுலாத் துறைக்காகவும், எஞ்சிய பகுதியை நிரந்தர இளைஞர் கிராமத்தை உருவாக்குவதற்கும் வழங்க எதிர்பார்க்கின்றேன். அதன்படி, அடுத்த இரண்டு ஆண்டுகளில் உங்களது பொழுதுபோக்கிற்காக தாராளமாகப் பயன்படுத்தும் வகையில் இளைஞர் கிராமம்(யொவுன் புர)  தயாராகும் என்றே கூற வேண்டும்.
+
+...
+
+[Data](articles/487ef25d.json)
 
 ---
 
@@ -342,55 +390,99 @@ The special parliamentary sitting has been called in pursuance of Standing Order
 
 ---
 
-### Factum Perspective: டிஜிட்டல் மற்றும் கடல்சார் எதிர்காலங்களை உருவாக்குதல்
+### Factum Perspective: Creating Digital and Maritime Futures
 
 *2024-06-26 03:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/186980) · `ta`
 
-இராஜதந்திர மற்றும் தொழில்நுட்ப ஈடுபாடுகளின் தொடரில், இலங்கை தனது டிஜிட்டல் மற்றும் கடல்சார் உட்கட்டமைப்பை மேம்படுத்துவதற்காக முன்னேறி வருவதாகத் தெரிகிறது.
+Sri Lanka is enhancing its digital and maritime futures through diplomatic engagements and initiatives. President Ranil Wickremesinghe's visits to Indonesia and discussions with Elon Musk, CEO of Tesla and SpaceX, aim to boost the country's digital infrastructure and maritime projects, including the Ayanic Strip initiative and the blue economy. These efforts also focus on improving shared geographical properties for mutual benefit with Indonesia and introducing the Tropical Belt Initiative during the COP28 conference. The initiatives aim to attract private sector investment, promote the seaweed industry, and establish a joint research program on continental planting for environmental stability. Additionally, discussions with Musk regarding the implementation of Starlink services in Sri Lanka could revolutionize the country's digital landscape, offering high-speed internet access. However, concerns about the cost of installing Starlink services in Sri Lanka remain, highlighting the need for balanced strategies to leverage technological advancements for national development.
 
-இந்தோனேசியாவுக்கான தனது உத்தியோகபூர்வ விஜயத்தின் போது ஜனாதிபதி ரணில் விக்கிரமசிங்க இந்தோனேசிய அதிகாரிகள் மற்றும் டெஸ்லா மற்றும் ஸ்பேஸ் எக்ஸ் நிறுவனத்தின் பிரதம நிறைவேற்று அதிகாரியான எலோன் மஸ்க் ஆகியோருடன் கலந்துரையாடினார். 10வது உலக நீர் மன்றத்தின் பின்னணியில் நிகழும் இந்த சந்திப்புகள் இலங்கையில் பல்வகையான பிரதிபலிப்புக்களை உருவாக்கியுள்ளது, ஆனால் எதிர்காலத்திற்கான பாதையை உருவாக்கலாம்.
+🟩
+
+In a series of diplomatic and technical engagement, Sri Lanka seems to be progressing to improve its digital and maritime infrastructure.
+
+During his official visit to Indonesia, President Ranil Wickremesinghe discussed with Indonesian officials and Elon Mask, chief executive officer of Tesla and SpaceX.. These meetings in the context of World Water Forum in the 10th World Water Forum have created a variety of reflections in Sri Lanka, but can create a path to the future.
+
+During his visit to Indonesia, President Wickremesinghe met Indonesia's Coordinating Minister of Maritime and Investment Affairs Luhud binzar Banjaidan. At the end of last month at the Union Bali complex on the Kura Kura Kura Bali Island, the global merged fund was focused on Sri Lanka's Ayanic Strip initiative, the blue economy and the growing seaweed industry.
 
 ...
 
 [Data](articles/e914fd83.json)
 
+[Extended Data](ext_articles/e914fd83.ext.json)
+
 ---
 
-### மன்னாரில் மீளக்குடியேறிய பின்னர் தமது விவசாய நிலங்களை மீள பெற்றுத்தருமாறு கோருகின்றனர் - க.கனகேஸ்வரன்
+### After resettlement in Mannar, they demand that their agricultural lands be restored - K. Kanakeswaran
 
 *2024-06-26 03:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/186979) · `ta`
 
-நாட்டில் இடம்பெற்ற யுத்தம் காரணமாக மன்னார் மாவட்டமும் பாதிக்கப்பட்டிருந்தது. மீள் குடியேற்றத்தின் பின்னர் நாங்கள் எதிர் நோக்குகின்ற முக்கியமான பிரச்சனையாகப் பொருளாதாரத்தை மீளக் கட்டியெழுப்புவதில் உள்ளது என மன்னார் மாவட்ட அரசாங்க அதிபர் க.கனகேஸ்வரன் தெரிவித்துள்ளார்.
+Post-war, Mannar faces economic hurdles, especially in agriculture. The government and committees discuss restoring farmlands seized by forest and wildlife departments, impacting displaced farmers' livelihoods. Challenges include reconciling land use and compensating those affected.
 
-உண்மை ஒற்றுமை மற்றும் நல்லிணக்க பொறி முறைகளுக்கான இடைக்கால செயலகத்தின் ஏற்பாட்டில் உத்தேச சட்ட வரைவு நிறுவுவதற்கு ஜனாதிபதியின் ஏற்பாட்டில் குறித்த குழு இன்றைய தினம் செவ்வாய்க்கிழமை(25) மன்னருக்கான விஜயம் ஒன்றை மேற்கொண்டிருந்தனர்.
+🟩
 
-மன்னார் மாவட்டச் செயலகத்தில் இன்றைய தினம் செவ்வாய்க்கிழமை(25) காலை 9 மணியளவில் மன்னார் மாவட்ட செயலக கேட்போர் கூடத்தில் அரசாங்க அதிபர் க.கனகேஸ்வரன் தலைமையில் பிரதேசச் செயலாளர் உள்ளிட்ட திணைக்கள தலைவர்களை  உண்மை ஒற்றுமை மற்றும் நல்லிணக்க பொறி முறைகளுக்கான இடைக்கால செயலகத்தின்  உத்தேச சட்ட வரைவு நிறுவுவதற்கான குழுவினர் சந்தித்துக் கலந்துரையாடி உள்ளனர்.
+Mannar district was also affected by the war in the country. Mannar District Government Agent K. Kanageswaran said that the economy is the main problem we face after the resettlement.
 
-இதன் போது மாவட்டத்தில் உள்ள பல்வேறு பிரச்சினைகள் குறித்துக் குறித்த குழுவினர் கலந்துரையாடி உள்ளனர்.
+The committee on the provision of the proposed legislation to establish the proposed legislation under the interim secretariat for real unity and reconciliation machine systems was on a visit to the King on Tuesday (25).
+
+The Committee of the Provisional Secretariat of the Hon.
+
+During this time, the team has discussed various issues in the district.
+
+Meanwhile, Mannar District Government Agent K. Kanageswaran put forward the issue with the team.
+
+Mannar district was also affected by the war in the country.
+
+Agriculture is an important livelihood function in Mannar district. We face various challenges to develop agriculture.
+
+After the end of the war, the Department of Forest Resources and the Department of Wildlife have taken over 36 percent of land.
 
 ...
 
 [Data](articles/7e03122c.json)
 
+[Extended Data](ext_articles/7e03122c.ext.json)
+
 ---
 
-### ’நீதித்துறை விவகாரங்களில் தலையீடு’
+### ’கடன் மறுசீரமைப்பு உடன்படிக்கை இன்று’
+
+*2024-06-26 01:59:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-மறுசீரமைப்பு-உடன்படிக்கை-இன்று/175-339435) · `ta`
+
+இருதரப்பு கடன் மறுசீரமைப்பு தொடர்பான உடன்படிக்கை இன்று கைச்சாத்திடப்படவுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க அமைச்சரவைக்கு அறிவித்துள்ளார்.
+
+அமைச்சரவைப் பேச்சாளர், அமைச்சர் பந்துல குணவர்தன இது தொடர்பில் நேற்று விளக்கமளித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+கடன் மறுசீரமைப்பு தொடர்பில் விரிவான விளக்கம் ஜனாதிபதியினால் அமைச்சரவையில் முன்வைக்கப்பட்டது. அது தொடர்பான உடன்படிக்கையில் இன்று கைச்சாத்திடுவதற்காக  பாரிஸ் கழகத்தின் அதிகாரிகளை சந்திப்பதற்காக நிதி அமைச்சின் செயலாளர் மற்றும் திறைசேரியின் பிரதானி இராஜாங்க அமைச்சர்கள் உள்ளிட்ட இலங்கையை பிரதிநிதித்துவப்படுத்தும் குழுவினர் அனுப்பி வைக்கப்பட்டுள்ளது என்றார். (a)
+
+◼️
+
+[Data](articles/5956589e.json)
+
+---
+
+### Intervention in Judicial Affairs
 
 *2024-06-26 01:53:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதித்துறை-விவகாரங்களில்-தலையீடு/175-339434) · `ta`
 
-பாராளுமன்ற சிறப்புரிமைகள் என்ற போர்வையில், நீதித்துறை மற்றும் நீதிச்சேவைகள் ஆணைக்குழுவின் விவகாரங்களில் தலையிடுவதை பாராளுமன்ற உறுப்பினர்கள் தவிர்க்க வேண்டும் என இலங்கை சட்டத்தரணிகள் சங்கம் வலியுறுத்தியுள்ளது.
+The Sri Lanka Bar Association warns MPs against meddling in judicial matters, citing threats to public trust in the judiciary. The association emphasizes its commitment to safeguarding judicial independence and supports a strong, impartial judiciary. It advocates for thorough, unbiased investigations into any judicial misconduct allegations before taking action.
 
-அவ்வாறான செயற்பாடுகளால் நீதித்துறை மீதான பொதுமக்களின் நம்பிக்கை மீறப்படுவது போன்ற மோசமான விளைவுகள் ஏற்படும் என இலங்கை சட்டத்தரணிகள் சங்கம் விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-நீதித்துறையின் சுதந்திரத்தையும் சட்டவாட்சியையும் பாதுகாப்பதற்கு தாம் அர்ப்பணிப்புடன் இருப்பதாக இலங்கை சட்டத்தரணிகள் சங்கம் வலியுறுத்தியுள்ளது.
+The Sri Lanka Bar Association has urged MPs to avoid interfering with the affairs of the Justice Department and the Judicial Services Commission under the guise of Parliamentary Privacy.
 
-சுதந்திரமான மற்றும் தைரியமான நீதித்துறையை ஆதரிப்பதாகவும், சட்டவாட்சியை பாதுகாப்பது அவசியம் எனவும் அவர்கள் வெளியிட்டுள்ள அறிக்கையில் சுட்டிக்காட்டப்பட்டுள்ளது.
+In a statement issued by the Sri Lanka Lawyers Association, such actions have been a serious consequences such as violating public confidence in the judiciary.
 
-நீதித்துறை அதிகாரி ஒருவருக்கு எதிராக ஏதேனும் குற்றச்சாட்டுகள் முன்வைக்கப்படுமாயின், முதலில் அதனை பாரபட்சமின்றி விசாரணை செய்ய வேண்டும் எனவும் அதில் கூறப்பட்டுள்ளது. (a)
+The Sri Lanka Lawyers Association has urged that it is dedicated to protect the judiciary's independence and the law.
+
+In a statement issued by their statement, they supported the independent and bold judiciary and that it was necessary to protect the legislature.
+
+It also stated that if any allegations are made against a judicial officer, it should first investigate it without prejudice.. (A)
 
 ◼️
 
 [Data](articles/c51641e9.json)
+
+[Extended Data](ext_articles/c51641e9.ext.json)
 
 ---
 
@@ -734,6 +826,8 @@ The pressing need for a robust procurement law in Sri Lanka to eradicate corrupt
 
 [Data](articles/cc794a5a.json)
 
+[Extended Data](ext_articles/cc794a5a.ext.json)
+
 ---
 
 ### Constituent Change in the S&P Sri Lanka 20 Index
@@ -752,6 +846,8 @@ The S&P SL 20 index has been designed in accordance with international practices
 
 [Data](articles/6e2ebc3e.json)
 
+[Extended Data](ext_articles/6e2ebc3e.ext.json)
+
 ---
 
 ### Sri Lanka’s first influencer ramp walk at ‘Beauty Pink Night’
@@ -765,6 +861,8 @@ This extraordinary occasion drew some of the country’s most beloved and influe
 ...
 
 [Data](articles/e3933480.json)
+
+[Extended Data](ext_articles/e3933480.ext.json)
 
 ---
 
@@ -2215,71 +2313,5 @@ The 73 year old Anne is the only daughter of Queen Elizabeth Viharaya, the secon
 [Data](articles/dd507ab4.json)
 
 [Extended Data](ext_articles/dd507ab4.ext.json)
-
----
-
-### Cabinet approval granted for development of Higurakgoda Airport
-
-*2024-06-25 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100091/cabinet-approval-granted-for-development-of-higurakgoda-airport) · `en`
-
-The Cabinet of Ministers has granted approval for the development of Higurakgoda Airport as a full-fledged airport in accordance with international civil aviation standards.
-
-The Department of Government Information said that since the need to develop Higurakgoda Airport in accordance with international civil aviation standards has been recognized, a committee had been appointed from the representatives of Sri Lanka Air Force, Sri Lanka Civil Aviation Authority, Airports and Aviation Limited (Sri Lanka) (Private) Company and Road Development Authority for preparing the master plan for the purpose.
-
-Accordingly, the Cabinet approved the joint proposal presented by the President as the Minister of Defense and the Minister of Ports, Shipping and Aviation Nimal Siripala de Silva to take necessary steps to develop Higurakgoda Airport as a full-fledged airport, as per the recommendations of the said committee, the statement said.
-
-◼️
-
-[Data](articles/67a1296a.json)
-
-[Extended Data](ext_articles/67a1296a.ext.json)
-
----
-
-### Survey allowances to be increased and scholarship scheme
-
-*2024-06-25 13:28:38* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ-හා--ශිෂ්‍යත්ව-උත්තර-පත්‍ර-සමීක්ෂණ-දීමනා-ඉහළට/11-410424) · `si`
-
-The Ministry of Education plans to increase allowances for A/L scholarship exams and may replace the teachers' trade union with the Teachers' Union. It aims to reduce educational expenses by cutting down on essential textbooks and equipment in 2022.
-
-🟩
-
-The Ministry of Education has been subjected to increase the allowances paid to the A / L scholarship examination examination.
-
-The Commission also issued a statement to the Ministry of Education and to the Ministry of Education, the Commission will consider the proposal to replace the teacher's trade union to the Teachers' Union.
-
-According to the Ministry of Education, the Ministry of Education is intervener, to reduce the essential exercise books and equipment for education as per 2022.
-
-◼️
-
-[Data](articles/4146f321.json)
-
-[Extended Data](ext_articles/4146f321.ext.json)
-
----
-
-### Satellite
-
-*2024-06-25 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/186930) · `ta`
-
-A satellite image of the Rama Bridge, connecting India and Sri Lanka, has gone viral. Taken by the Copernicus Sentinel-2 satellite, it shows the bridge's formation theory supported by geological evidence, indicating its connection to Sri Lanka through limestone stones.
-
-🟩
-
-The European Agency has released a photo of the Rama Bridge between India and Sri Lanka, taken by satellite from space.
-
-This photo is going viral on social media. The Rama Bridge is located between India and Sri Lanka between Rameswaram, the southeastern part of India, 48 km from India and Sri Lanka.
-
-In this case, the Ramar Bridge has been taken to the Copenicus Sentinel - 2 satellite photo of the European Space Research Center. The photo has been released by the European Agency on social media.
-
-Soil systems on the Rama Bridge are dry. The depth of the sea is only one to 10 meters, the European Agency said.
-
-Despite many theories about how the bridge was formed, geographical evidence suggests that these limestone stones were once linked to Sri Lanka, according to geographical evidence.
-
-◼️
-
-[Data](articles/746154a4.json)
-
-[Extended Data](ext_articles/746154a4.ext.json)
 
 ---

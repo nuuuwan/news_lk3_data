@@ -1,36 +1,72 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 17:04:31**
+As of **2024-06-26 17:19:27**
 
 ## Newspaper Stats
 
-*Scraped **32,278** Articles*
+*Scraped **32,281** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 295
 dbsjeyarajcom | 295
-bbccomsinhala | 317
+bbccomsinhala | 318
 newsfirstlk | 363
 islandlk | 1,790
 economynextcom | 1,870
 dailyftlk | 1,976
 adalk | 2,849
-adaderanalk | 3,670
+adaderanalk | 3,671
 tamilmirrorlk | 3,811
 dailymirrorlk | 4,733
 virakesarilk | 5,009
-adaderanasinhalalk | 5,300
+adaderanasinhalalk | 5,301
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,273 (100.0%) of 32,278 articles have been extended.
+32,278 (100.0%) of 32,281 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### Six Sri Lankans arrested with ‘Gold Gel’ worth Rs. 180 million at BIA
+
+*2024-06-26 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100118/six-sri-lankans-arrested-with-gold-gel-worth-rs-180-million-at-bia) · `en`
+
+Officers of the Narcotics Control Unit of Sri Lanka Customs have arrested six Sri Lankan passengers at the Bandaranaike International Airport (BIA) in Katunayake for attempting to smuggle ‘Gold Gel’ into the country.
+
+The suspects had concealed the gel-like substance mixed with gold, estimated to be worth around Rs. 180 million, in their rectal cavities and inside their luggage, an official said.
+
+The suspects, aged between 30 and 50, are residents of Kalmunai, Mutur, Colombo-10, Kalagedihena, and Minuwangoda, and are frequent flyers, according to Customs officials.
+
+They had travelled from Dubai to Chennai, India, before arriving at the Katunayake Airport yesterday (25).
+
+The suspects were arrested after being subjected to scan tests by the Customs officers at the airport following a suspicion.
+
+◼️
+
+[Data](articles/0211059d.json)
+
+---
+
+### ජෙයිශංකර් ඉන්දියාවේ ශ්‍රී ලංකා මහ කොමසාරිස්වරිය හමුවෙයි
+
+*2024-06-26 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198184) · `si`
+
+ඉන්දීය විදේශ කටයුතු අමාත්‍ය එස්. ජෙයිශංකර් ඊයේ (25) නවදිල්ලියේදී ඉන්දියාවේ සිටින ශ්‍රී ලංකා මහකොමසාරිස් හමුවී තිබේ.
+
+ඉන්දු - ලංකා ද්විපාර්ශ්වික සබඳතාවල මෑත කාලීන වර්ධනය පිළිබඳව එහිදී සාකච්ඡා කළ බව වාර්තා වෙයි.
+
+ඉන්දීය මාධ්‍ය වාර්තා කරන්නේ ඉන්දීය විදේශ කටයුතු අමාත්‍යවරයා  කුවේට් තානාපතිවරයා සහ නවසීලන්තයේ මහකොමසාරිස්වරිය ද හමුවී ඇති බවය.
+
+◼️
+
+[Data](articles/9765ab91.json)
+
+---
 
 ### NATO appoints outgoing Dutch PM Mark Rutte as new secretary-general
 
@@ -48,47 +84,61 @@ The seasoned Dutch leader, whose 14-year tenure in charge of the Netherlands is 
 
 [Data](articles/31ac1776.json)
 
+[Extended Data](ext_articles/31ac1776.ext.json)
+
 ---
 
-### තරුණයන් දෙදෙනෙකුට විදුලිසැර වැදී බරපතළයි
+### Two youths were committed to electrification
 
 *2024-06-26 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198183) · `si`
 
-පෞද්ගලික ආයතනක ඉහළ තට්ටුවක විදුලි සැර වැදී සිටි තරුණයන් දෙදෙනෙකු රෝහල්ගත කර තිබේ.
+Two youths were electrocuted while cleaning a water tank at a private institution in Mullaittivu. They were taken to Pudukuduirippu Hospital. The incident, suspected to be caused by nearby wiring, occurred around the upper floor of the company.
 
-අද (26) දහවල් මෙම අනතුර සිදුවී ඇති අතර ඒ, මුලතිව්, පුදුකුඩිඉරිප්පු නගරයේ පෞද්ගලික ආයතනකදීය.
+🟩
 
-එහි ඉහළ මහලේ පැවති ජල ටැංකියක් පිරිසිදු කිරීමට ගිය තරුණයින් දෙදෙනෙකුට මෙලෙස විදුලිසැර වැදී ඇත.
+Two youths who were electrocuted in a private institution were hospitalized.
 
-පොලීසිය පැවසුවේ විදුලිසැර වැදීමෙන් බරපතළ තත්ත්වයේ පසුවු තරුණයින් දෙදෙනා පුදුකුඩිඉරිප්පු රෝහලට ඇතුළත් කොට තිබූ බවය.
+The accident occurred this afternoon at a private institution in Mullaittivu, Mullaittivu.
 
-මුලතිව්, පුදුකුඩිඉරිප්පු, 10 වන පටුමඟ ප්‍රදේශයේ පදිංචි 20 හැවිරිදි තරුණයින් දෙදෙනෙකු එලෙස රෝහල්ගත කර තිබුණි.
+Two youths who were traveling to clean a water tank held on the upper floor.
 
-පළමුව තරුණයෙකු පෞද්ගලික ආයතනයේ ඉහළ මහලේ පැවති වතුර ටැංකිය පිරිසිදු කිරීමට ගොස් ඇති අතර, අදාළ තරුණයා පහළට නොපැමිණීම සම්බන්ධයෙන් විමසා බැලීමට තවත් තරුණයෙකු එම ස්ථානයට ගොස් ඇත.
+Police said that the two youths were admitted to the Pudukuduirippu Hospital.
 
-පොලීසිය සැක කරන්නේ අදාළ ආයතනයේ ඉහළ මහල ආසන්නයේ අධිබලැති විදුලි රැහැන් කිහිපයක් පවතින බැවින් අදාළ අධිබලැති විදුලි රැහැනක ගැටීමෙන් මෙම අනතුර සිදුවන්නට ඇති බවය.
+Two 20-year-old youths were residents of the Pudukuduirippu, 10th Lane.
 
-එසේත් නොමැති නම් වෙනත් විදුලි කාන්දුවකින් අනතුර සිදුවී ඇති බවට සැක කෙරෙයි.
+First, a young man had gone to clean the water tank at the top floor of the private company and another young man had gone to the scene.
+
+Police suspect that there are several viring near the upper floor of the company, the accident occurred when there were several virus near the upper floor of the company.
+
+Otherwise, the accident has been reported.
 
 ◼️
 
 [Data](articles/b765b16b.json)
 
+[Extended Data](ext_articles/b765b16b.ext.json)
+
 ---
 
-### மூதூரில் 15 பேருக்கு விளக்கமறியல்
+### Explanation for 15 people in Muttur
 
 *2024-06-26 16:20:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/மூதூரில்-15-பேருக்கு-விளக்கமறியல்/75-339473) · `ta`
 
-மூதூர் இருதயபுர மதுபான சாலைக்கு எதிராக போராட்டத்தில் ஈடுபட்போது, செவ்வாய்க்கிழமை (25 கைது செய்யப்பட்ட 15 பேரும் நீதிமன்ற உத்திரவின் பிரகாரம் ஜூலை 3ம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+During protests against the Muttur Cardayapura Liquor Road, 15 individuals were arrested and charged with unauthorized assembly, obstructing police work, and assaulting officers. They were remanded until July 3 after appearing before the Muttur Court Magistrate on Wednesday.
 
-குறித்த நபர்கள் மூதூர் நீதிமன்ற நீதவான் முன்னிலையில் புதன்கிழமை (26) ஆஜர்படுத்தப்பட்டனர். அவர்களை,  எதிர்வரும் 3ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு  நீதவான் உத்தரவிட்டார்.
+🟩
 
-அனுமதி இன்றி ஒன்று கூடியமை, பொலிஸாரின் கடமைக்கு இடையூறு விளைவித்தமை, பொலிஸாரை தாக்கியமை போன்ற குற்றச்சாட்டின் பேரில் கைது செய்யப்பட்டு, நீதிமன்றில் ஆஜர்படுத்தப்பட்டனர்.
+While protesting against the Muttur Cardayapura Liquor Road, 15 persons who were arrested on Tuesday (25 arrested have been remanded until July 3.
+
+The persons were produced before the Muttur Court Magistrate on Wednesday (26). The magistrate ordered them to be remanded until the 3rd.
+
+They were arrested and produced in court on charges of gathering without permission, disrupting the duties of the police, and assaulting the police.
 
 ◼️
 
 [Data](articles/16773e78.json)
+
+[Extended Data](ext_articles/16773e78.ext.json)
 
 ---
 
@@ -140,21 +190,29 @@ These persons were arrested by airport customs to scanning machines (SCAN Test) 
 
 ---
 
-### ශ්‍රී ලංකාව ණය ප්‍රතිව්‍යුහගතකිරීම සඳහා එකඟතාවකට පිවිසෙයි
+### Sri Lanka enters the restructuring of credit
 
 *2024-06-26 16:01:50* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාව-ණය-ප්‍රතිව්‍යුහගතකිරීම-සඳහා-එකඟතාවකට-පිවිසෙයි/11-410451) · `si`
 
-මීට සුළු මොහොතකට පෙර ශ්‍රී ලංකාව මෙරට ද්වීපාර්ශික ණයහිමියන්ගේ නිල කමිටුව සමග ණය ප්‍රතිව්‍යුහගතකරණය පිළිබඳ අවසන් එකඟත්වයක් ඇති කරගෙන ඇති බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කරයි.
+Sri Lanka has finalized a $5.8 billion loan restructuring deal with its bilateral creditors, led by India, France, and Japan. This agreement marks a significant step forward in stabilizing the country's economy, with Minister of State Shehan Semasinghe expressing gratitude and highlighting the leadership of Ranil Wickremesinghe in achieving this milestone.
 
-ප්‍රංශයේ පැරිස් නුවරදී සිය ද්විපාර්ශ්වික ණය දෙන්නන්ගේ නිල ණයකරුවන්ගේ කමිටුව සමඟ ඇමරිකානු ඩොලර් බිලියන 5.8 ණය ප්‍රතිව්‍යුහගතකරණ සම්බන්ධයෙන් මෙලෙස අවසන් එකඟතාවට පැමිණ තිබේ.
+🟩
 
-නිල ණයහිමි රටවල කමිටුව නියෝජනය කරමින් එහි සම සභාපතිත්වය දරන ඉන්දියාව, ප්‍රංශය සහ ජපානය එම අවස්ථාවට සහභාගී විය.
+Prior to a few minutes ago, Sri Lanka has announced the final agreement on loan restructuring with the official committee of bilateral creditors in the country.
 
-ණය අර්බුදයට විසඳුමක් සෙවීමට සහ මෙම වැදගත් සන්ධිස්ථානය සාක්ෂාත් කරගැනීමට කමිටු ලේකම් කාර්යාලයේ කැපවීම පිළිබඳ ප්‍රසංශා එක් කරන අතර  මෙම ක්‍රියාවලියට ශ්‍රී ලංකාව වෙනුවෙන්  නායකත්වය දුන් නිල ණයකරුවන්ගේ කමිටුවේ සභාපතිවරුන් වන ප්‍රංශය, ඉන්දියාව, ජපානයට සහ චීනයේ අපනයන ආනයන බැංකුවට මෙන්ම ඔවුන්ගේ නොසැලෙන සහයෝගය සඳහා නිල ණයකරුවන්ගේ කමිටු සාමාජිකයින්ට අවංකවම ස්තූති පළ කරන බවද මුදල් රාජ්‍ය අමාත්‍ය ෂෙහාන් සේමසිංහ මහතා සඳහන් කරයි.
+The final agreement has reached US $ 5.8 billion with his official borrowers' committee of its bilateral lenders in Paris in France.
 
-...
+India, France and Japan, representing the committee of the Official Borronda, participated in the event.
+
+The committee's committee of the Committee, the Chairperson of the Committee, India, Japan and the Committees of the Committee of the Committee (India), the Chairperson of the Committees of the Committee, and China's Export Politicals in Sri Lanka for the Certany is the Chairperson of the Committee, India and China.Minister of State Shehan Semasinghe says that he is speaking sincere thanks.
+
+Minister of State Shehan Semasinghe further emphasizes that Ranil Wickremesinghe has helped to lead the Sri Lankan economy to this milestone.
+
+◼️
 
 [Data](articles/2e022af9.json)
+
+[Extended Data](ext_articles/2e022af9.ext.json)
 
 ---
 
@@ -201,6 +259,8 @@ The arrested Grama Niladhari officer has been ordered to be remanded until July 
 ◼️
 
 [Data](articles/587bb416.json)
+
+[Extended Data](ext_articles/587bb416.ext.json)
 
 ---
 
@@ -1342,6 +1402,22 @@ Police are investigating the incident as the shop owner has lodged a complaint a
 
 ---
 
+### පියුමි හංසමාලිගේ ක්‍රීම් සුදු කළේ කළු සල්ලි ද?
+
+*2024-06-26 10:50:14* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c722vq22q67o) · `si`
+
+නිරූපිකාවක් ලෙසින් ශ්‍රී ලංකාවේ ප්‍රසිද්ධ පියුමි හංසමාලි කලින් කලට පුවත් මවන්නියකි.
+
+ඇය මෑතක දී වඩාත්ම කතා බහට ලක් වී ඇත්තේ ඇගේ වත්කම් සම්බන්ධයෙන් එල්ල වී ඇති චෝදනාවක් හේතුවෙනි. පියුමි හංසමාලි උපයාගත් බව කියන වත්කම් සම්බන්ධයෙන් පරීක්ෂණයක් කරන ලෙස ඉල්ලා ‘මගෙන් රටට’ සංවිධානයේ ලේකම් සංජය මහවත්ත විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණිල්ලක් ඉදිරිපත් කර ඇති අතර, ඒ සම්බන්ධයෙන් අලුත්කඩේ අංක 04 මහේස්ත්‍රාත් අධිකරණය විමර්ශන කටයුතු සඳහා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට අවශ්‍ය අවසර ලබා දී ඇත.
+
+1992 වසරේ උපන් පට්ටියගේ පියුමි හංසමාලි ගෝමස් සිය වෘත්තිය ආරම්භ කරන්නේ 2010- 2011 කාලවකවානුවේදී නිරූපිකාවක් ලෙසයි. ඒ වන විට මවක් වූ ඇය සිය දරුවා තනිව හදාවඩාගන්නා ‘සිංගල් අම්මා’ කෙනෙකු ලෙස සමාජයේ ප්‍රසිද්ධියට පත්ව සිටියා ය.
+
+...
+
+[Data](articles/dbd670dc.json)
+
+---
+
 ### Duckworthwith of cricket retirees
 
 *2024-06-26 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198167) · `si`
@@ -2257,65 +2333,5 @@ Capacity challenges and absence of a formal referral mechanism have led to the u
 [Data](articles/8e25441c.json)
 
 [Extended Data](ext_articles/8e25441c.ext.json)
-
----
-
-### SF refutes Govt. crossover rumours and support for Ranil
-
-*2024-06-26 04:54:18* · [`dailyftlk`](https://www.ft.lk/news/SF-refutes-Govt-crossover-rumours-and-support-for-Ranil/56-763460) · `en`
-
-Samagi Jana Balawegaya (SJB) Chairperson MP Field Marshal Sarath Fonseka has said he will not support President Ranil Wickremesinghe’s Presidential candidacy.
-
-Taking to ‘X’, Fonseka refuted rumours he will support the presidential candidacy of Ranil Wickremesinghe calling the reports “completely untrue and baseless”.
-
-He also denied media reports, claiming he would join the Government shortly. A recent news report claimed Fonseka, along with opposition MPs Patali Champika Ranawaka and Dr. Rajitha Senaratne are poised to align themselves with President Ranil Wickremesinghe.
-
-“I want to place it on record that this news is inaccurate. I will not be joining the Government,” he said. Fonseka urged all Sri Lankans to avoid propagating rumours.
-
-He also said that he is prepared to face any challenge on behalf of the motherland, emphasising that it is time for Sri Lanka to move in the right political direction.
-
-...
-
-[Data](articles/cef6d22d.json)
-
-[Extended Data](ext_articles/cef6d22d.ext.json)
-
----
-
-### ADIC urges halt to cannabis cultivation initiative in SL
-
-*2024-06-26 04:53:15* · [`dailyftlk`](https://www.ft.lk/news/ADIC-urges-halt-to-cannabis-cultivation-initiative-in-SL/56-763459) · `en`
-
-Marking the International Day against Drug Abuse and Illicit Trafficking the Alcohol and Drug Information Centre (ADIC) has issued a pressing call to halt recent efforts to legalise the cultivation of cannabis in Sri Lanka.
-
-Despite the Investment Promotion Ministry and the Indigenous Medicine Section of the Health Ministry actively seeking project proposals for the cultivation of cannabis for export and medicinal purposes; ADIC raised significant concerns about the initiative’s true impact on the country.
-
-In a press release, ADIC noted that while the ministries assert that their primary aim is to achieve economic benefits through cannabis exports, thereby enhancing Sri Lanka’s foreign exchange reserves, a comprehensive review by ADIC of financial records from leading cannabis firms worldwide suggests otherwise.
-
-...
-
-[Data](articles/d143b5ed.json)
-
-[Extended Data](ext_articles/d143b5ed.ext.json)
-
----
-
-### Govt. pledges full support for Bora Conference and Convention
-
-*2024-06-26 04:52:55* · [`dailyftlk`](https://www.ft.lk/news/Govt-pledges-full-support-for-Bora-Conference-and-Convention/56-763458) · `en`
-
-National Security Senior Advisor to the President and Presidential Staff Chief Sagala Ratnayaka, has instructed relevant officials to provide maximum support for the successful organisation of the Bora community’s spiritual conference and annual convention in Sri Lanka.
-
-These instructions were given during a discussion held at the Presidential Secretariat on Monday regarding the upcoming Bora Conference and Convention.
-
-The Bora conference and Convention are scheduled to take place from 7 to 16 July at the Bambalapitiya Bora Mosque and the Sri Lanka Convention and Convention Centre, coinciding with the Bora community’s spiritual conference in Karachi, Pakistan.
-
-Approximately 15,000 members of the Bora community from various countries, including India, are expected to attend this event in Sri Lanka. Consequently, extensive discussions were held regarding the provision of all necessary infrastructures, including airport facilities.
-
-...
-
-[Data](articles/446cb006.json)
-
-[Extended Data](ext_articles/446cb006.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 16:51:59**
+As of **2024-06-26 17:04:31**
 
 ## Newspaper Stats
 
-*Scraped **32,273** Articles*
+*Scraped **32,278** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ newsfirstlk | 363
 islandlk | 1,790
 economynextcom | 1,870
 dailyftlk | 1,976
-adalk | 2,848
-adaderanalk | 3,668
-tamilmirrorlk | 3,810
+adalk | 2,849
+adaderanalk | 3,670
+tamilmirrorlk | 3,811
 dailymirrorlk | 4,733
 virakesarilk | 5,009
-adaderanasinhalalk | 5,299
+adaderanasinhalalk | 5,300
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,272 (100.0%) of 32,273 articles have been extended.
+32,273 (100.0%) of 32,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### NATO appoints outgoing Dutch PM Mark Rutte as new secretary-general
+
+*2024-06-26 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100117/-nato-appoints-outgoing-dutch-pm-mark-rutte-as-new-secretary-general) · `en`
+
+NATO’s 32 nations on Wednesday appointed outgoing Dutch Prime Minister Mark Rutte as the alliance’s next head, handing him the job at a crucial moment with Russia on the march in Ukraine and American elections looming.
+
+Rutte will take over from Secretary General Jens Stoltenberg on October 1 after major powers — spearheaded by the United States — wrapped up his nomination ahead of a summit of NATO leaders in Washington next month.
+
+“I warmly welcome NATO Allies’ choice of Mark Rutte as my successor. Mark is a true transatlanticist, a strong leader and a consensus-builder,” Stoltenberg said on social media after NATO ambassadors approved the appointment.
+
+The seasoned Dutch leader, whose 14-year tenure in charge of the Netherlands is set to end within weeks, is seen as a safe pair of hands capable of stewarding the 75-year-old alliance through perilous times.
+
+...
+
+[Data](articles/31ac1776.json)
+
+---
+
+### තරුණයන් දෙදෙනෙකුට විදුලිසැර වැදී බරපතළයි
+
+*2024-06-26 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198183) · `si`
+
+පෞද්ගලික ආයතනක ඉහළ තට්ටුවක විදුලි සැර වැදී සිටි තරුණයන් දෙදෙනෙකු රෝහල්ගත කර තිබේ.
+
+අද (26) දහවල් මෙම අනතුර සිදුවී ඇති අතර ඒ, මුලතිව්, පුදුකුඩිඉරිප්පු නගරයේ පෞද්ගලික ආයතනකදීය.
+
+එහි ඉහළ මහලේ පැවති ජල ටැංකියක් පිරිසිදු කිරීමට ගිය තරුණයින් දෙදෙනෙකුට මෙලෙස විදුලිසැර වැදී ඇත.
+
+පොලීසිය පැවසුවේ විදුලිසැර වැදීමෙන් බරපතළ තත්ත්වයේ පසුවු තරුණයින් දෙදෙනා පුදුකුඩිඉරිප්පු රෝහලට ඇතුළත් කොට තිබූ බවය.
+
+මුලතිව්, පුදුකුඩිඉරිප්පු, 10 වන පටුමඟ ප්‍රදේශයේ පදිංචි 20 හැවිරිදි තරුණයින් දෙදෙනෙකු එලෙස රෝහල්ගත කර තිබුණි.
+
+පළමුව තරුණයෙකු පෞද්ගලික ආයතනයේ ඉහළ මහලේ පැවති වතුර ටැංකිය පිරිසිදු කිරීමට ගොස් ඇති අතර, අදාළ තරුණයා පහළට නොපැමිණීම සම්බන්ධයෙන් විමසා බැලීමට තවත් තරුණයෙකු එම ස්ථානයට ගොස් ඇත.
+
+පොලීසිය සැක කරන්නේ අදාළ ආයතනයේ ඉහළ මහල ආසන්නයේ අධිබලැති විදුලි රැහැන් කිහිපයක් පවතින බැවින් අදාළ අධිබලැති විදුලි රැහැනක ගැටීමෙන් මෙම අනතුර සිදුවන්නට ඇති බවය.
+
+එසේත් නොමැති නම් වෙනත් විදුලි කාන්දුවකින් අනතුර සිදුවී ඇති බවට සැක කෙරෙයි.
+
+◼️
+
+[Data](articles/b765b16b.json)
+
+---
+
+### மூதூரில் 15 பேருக்கு விளக்கமறியல்
+
+*2024-06-26 16:20:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/மூதூரில்-15-பேருக்கு-விளக்கமறியல்/75-339473) · `ta`
+
+மூதூர் இருதயபுர மதுபான சாலைக்கு எதிராக போராட்டத்தில் ஈடுபட்போது, செவ்வாய்க்கிழமை (25 கைது செய்யப்பட்ட 15 பேரும் நீதிமன்ற உத்திரவின் பிரகாரம் ஜூலை 3ம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+குறித்த நபர்கள் மூதூர் நீதிமன்ற நீதவான் முன்னிலையில் புதன்கிழமை (26) ஆஜர்படுத்தப்பட்டனர். அவர்களை,  எதிர்வரும் 3ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு  நீதவான் உத்தரவிட்டார்.
+
+அனுமதி இன்றி ஒன்று கூடியமை, பொலிஸாரின் கடமைக்கு இடையூறு விளைவித்தமை, பொலிஸாரை தாக்கியமை போன்ற குற்றச்சாட்டின் பேரில் கைது செய்யப்பட்டு, நீதிமன்றில் ஆஜர்படுத்தப்பட்டனர்.
+
+◼️
+
+[Data](articles/16773e78.json)
+
+---
 
 ### Yall. Demonstration demanding the rehabilitation of the road in Chavakachcheri
 
@@ -80,6 +140,24 @@ These persons were arrested by airport customs to scanning machines (SCAN Test) 
 
 ---
 
+### ශ්‍රී ලංකාව ණය ප්‍රතිව්‍යුහගතකිරීම සඳහා එකඟතාවකට පිවිසෙයි
+
+*2024-06-26 16:01:50* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාව-ණය-ප්‍රතිව්‍යුහගතකිරීම-සඳහා-එකඟතාවකට-පිවිසෙයි/11-410451) · `si`
+
+මීට සුළු මොහොතකට පෙර ශ්‍රී ලංකාව මෙරට ද්වීපාර්ශික ණයහිමියන්ගේ නිල කමිටුව සමග ණය ප්‍රතිව්‍යුහගතකරණය පිළිබඳ අවසන් එකඟත්වයක් ඇති කරගෙන ඇති බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කරයි.
+
+ප්‍රංශයේ පැරිස් නුවරදී සිය ද්විපාර්ශ්වික ණය දෙන්නන්ගේ නිල ණයකරුවන්ගේ කමිටුව සමඟ ඇමරිකානු ඩොලර් බිලියන 5.8 ණය ප්‍රතිව්‍යුහගතකරණ සම්බන්ධයෙන් මෙලෙස අවසන් එකඟතාවට පැමිණ තිබේ.
+
+නිල ණයහිමි රටවල කමිටුව නියෝජනය කරමින් එහි සම සභාපතිත්වය දරන ඉන්දියාව, ප්‍රංශය සහ ජපානය එම අවස්ථාවට සහභාගී විය.
+
+ණය අර්බුදයට විසඳුමක් සෙවීමට සහ මෙම වැදගත් සන්ධිස්ථානය සාක්ෂාත් කරගැනීමට කමිටු ලේකම් කාර්යාලයේ කැපවීම පිළිබඳ ප්‍රසංශා එක් කරන අතර  මෙම ක්‍රියාවලියට ශ්‍රී ලංකාව වෙනුවෙන්  නායකත්වය දුන් නිල ණයකරුවන්ගේ කමිටුවේ සභාපතිවරුන් වන ප්‍රංශය, ඉන්දියාව, ජපානයට සහ චීනයේ අපනයන ආනයන බැංකුවට මෙන්ම ඔවුන්ගේ නොසැලෙන සහයෝගය සඳහා නිල ණයකරුවන්ගේ කමිටු සාමාජිකයින්ට අවංකවම ස්තූති පළ කරන බවද මුදල් රාජ්‍ය අමාත්‍ය ෂෙහාන් සේමසිංහ මහතා සඳහන් කරයි.
+
+...
+
+[Data](articles/2e022af9.json)
+
+---
+
 ### Final compliance with debt restructuring
 
 *2024-06-26 15:56:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-மறுசீரமைப்புக்கு-இறுதி-இணக்கப்பாடு/175-339472) · `ta`
@@ -105,6 +183,24 @@ The Minister of State also pointed out that this would be a major turning point 
 [Data](articles/7d0597c3.json)
 
 [Extended Data](ext_articles/7d0597c3.ext.json)
+
+---
+
+### Grama Niladhari officer arrested on bribery charge
+
+*2024-06-26 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100116/grama-niladhari-officer-arrested-on-bribery-charge-) · `en`
+
+A Grama Niladhari Officer in the Heerassagala area of Kandy has been arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) for allegedly accepting a bribe.
+
+The Grama Niladhari officer has demanded a bribe of Rs. 25,000 from a woman to resolve a land dispute and the woman has filed a complaint with the Bribery Commission in relation to the incident.
+
+Accordingly, the suspect was arrested yesterday (25) by the Bribery Commission officers while soliciting the bribe from the woman in question.
+
+The arrested Grama Niladhari officer has been ordered to be remanded until July 29 by the Kandy Court.
+
+◼️
+
+[Data](articles/587bb416.json)
 
 ---
 
@@ -386,19 +482,27 @@ It is noteworthy that the police have carried out tear gas and waterfront on the
 
 ---
 
-### විදේශිකයන්ට රස ආහාර කවන්න පන්සලේ වැඩසටහනක්
+### Temple Program for Foreigners
 
 *2024-06-26 14:17:50* · [`adalk`](https://www.ada.lk/breaking_news/විදේශිකයන්ට-රස-ආහාර-කවන්න-පන්සලේ-වැඩසටහනක්/11-410450) · `si`
 
-මාතලේ රිවස්ටර්න් හා නකල්ස් වන රක්ෂිතයේ  සංචාරය සදහා පැමිණෙන දෙස් විදෙස් සංචාරකයින් හට නව ආහාර වල පහස හා අත් දැකීම් ලබාදීමේ අරමුණින් යුතුව කුඩා හා මධ්‍ය පරිමාණ හෝටල් හිමිකරුවන් හා ඒවායේ සේවයේ නියුතු සූපවේදීන් හට න්‍යායාත්මක හා ප්‍රායෝගික වැඩමුළුවක් ලග්ගල ප්‍රාදේශීය ලේකම් කොට්ටාශයට අයත් රිවස්ටර්න් මහලකොටුව ශ්‍රී සුදර්ශනාරාම විහාරස්ථානයේදී දින 05ක් පුරාවට පැවති අතර එය 26 වෙනිදා අවසන් විය.
+A workshop was held for foreign tourists in Matale, focusing on enhancing tourism services. The event, organized by the Laggala Divisional Secretaries, included practical sessions on setting up food and beverages. It aimed to improve the quality of tourism and hospitality services, supported by both the Australian and Sri Lankan governments.
 
-ඕස්ට්‍රේලියානු රජයේ ආධාර මත ක්‍රියාත්මක අන්තර්කරණීය වර්ධනයක් උදෙසාවූ නිපුණතා වැඩසටහන යටතේ ක්‍රියාත්මක වු වැඩමුළුව සදහා මාතලේ දිස්ත්‍රීක්කයට අයත් ලග්ගල ප්‍රාදේශීය ලේකම් කොට්ටාශයේ පිහිටි කුඩා හා මධ්‍ය පරිමාණ සංචාරක හෝටල් හිමියන් හා එහි සේවයේ නියුතු සූපවේදීන් 35 දෙනෙකු පමණ සහභාගි වී සිටියහ.
+🟩
 
-ඕස්ට්‍රේලියානු රජය හා ශ්‍රී ලංකා රජය අතර ද්වි පාර්ශවික වැඩසටහනක් ලෙස ක්‍රියාත්මක කරනු ලබන අතර මෙරට සංචාරක කර්මාන්තයේ ගුණාත්මක බාවය වැඩිදියුණු කරමින් වඩා හොද සංචාරක සේවාවක් ක්‍රියාත්මක කිරීමේ අරමුණින් යුතුව මෙම වැඩසටහන දිවයින පුරා ආවරණය වන පරිදි ක්‍රියාත්මක කිරීමට නියම්තය.
+RiversSters of Laggala Divisional Secretaries belonging to the Laggala Divisional Secretaries of Laggala Divisional Secretaries, theoretical and Practical workshop for local foreign tourists to visit the RiversSters and Knuckles Forest Reserve in Matale is aimed at providing facilities on new food.Five were thrown into the 26th.
+
+About 35 people who were operating in the Matale District Laggala Divisional Secretariat were present at the Australian Government Assistance.
+
+The Australian government and the Government of Sri Lanka will be implemented as a bilateral program, improving the quality of tourism industry and to implement a better travel service to implement a better travel service.
+
+Hotel owners and chefs in the Laggala Divisional Secretaries under the participation of the island have been conducted in the Laggala Divisional Secretariat Division with interest rates for local and foreign tourists.
 
 ...
 
 [Data](articles/d5462094.json)
+
+[Extended Data](ext_articles/d5462094.ext.json)
 
 ---
 
@@ -2213,123 +2317,5 @@ Approximately 15,000 members of the Bora community from various countries, inclu
 [Data](articles/446cb006.json)
 
 [Extended Data](ext_articles/446cb006.ext.json)
-
----
-
-### Factum Overview: BRICS, Global Equality and Dollar Elimination
-
-*2024-06-26 04:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/186981) · `ta`
-
-Developing nations face a severe economic crisis marked by rising unemployment and inflation, depleted foreign currency reserves, and critical shortages in fuel, gas, and essentials. International financial institutions are concerned about these countries' ability to repay debts, highlighting governance failures and corruption. The United Nations Development Project reports a significant increase in the cost of living, affecting over 105 developing countries. The global economic crisis exacerbates these issues, leading to social unrest and potential political crises. Amidst these challenges, there's a push for financial reform, including debt relief and the elimination of the US dollar as the dominant global currency, advocating for a shift towards a more equitable global economy.
-
-🟩
-
-A developing country, faces a more complex economic crisis. Unemployment level is increasing, but inflation is increasing much faster than that. Foreign currency existence in national banks is empty. Fuel and gas reserves are the same.
-
-International financial institutions have heard about this. A) Financial Contact or b) The default in paying the payment of the two issues of the above. In personal discussions, they focus on the subsequent failure of governments and the rise of consumer prices. As for discussions in political spaces, they focus on national corruption, negligence and the need for serious change.
-
-If you belong to the south of the world, this explanation may seem like your country. But it refers to more than 105 -year -old developing countries in the world.
-
-...
-
-[Data](articles/180ff652.json)
-
-[Extended Data](ext_articles/180ff652.ext.json)
-
----
-
-### PM calls for Special Parliament session on 2 July
-
-*2024-06-26 04:31:32* · [`dailyftlk`](https://www.ft.lk/news/PM-calls-for-Special-Parliament-session-on-2-July/56-763457) · `en`
-
-The Parliamentary Communications Department said a special Parliamentary sitting has been scheduled for 2 July.
-
-“The Speaker of Parliament Mahinda Yapa Abeywardena has informed all the Members of Parliament in writing to attend a special Parliamentary sitting on 2 July 2024 at 9:30 a.m.,” it added.
-
-The special parliamentary sitting has been called in pursuance of Standing Order No. 16 of the Standing Orders of the Parliament, as per a request made by the Prime Minister.
-
-◼️
-
-[Data](articles/22b72b4a.json)
-
-[Extended Data](ext_articles/22b72b4a.ext.json)
-
----
-
-### Factum Perspective: Creating Digital and Maritime Futures
-
-*2024-06-26 03:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/186980) · `ta`
-
-Sri Lanka is enhancing its digital and maritime futures through diplomatic engagements and initiatives. President Ranil Wickremesinghe's visits to Indonesia and discussions with Elon Musk, CEO of Tesla and SpaceX, aim to boost the country's digital infrastructure and maritime projects, including the Ayanic Strip initiative and the blue economy. These efforts also focus on improving shared geographical properties for mutual benefit with Indonesia and introducing the Tropical Belt Initiative during the COP28 conference. The initiatives aim to attract private sector investment, promote the seaweed industry, and establish a joint research program on continental planting for environmental stability. Additionally, discussions with Musk regarding the implementation of Starlink services in Sri Lanka could revolutionize the country's digital landscape, offering high-speed internet access. However, concerns about the cost of installing Starlink services in Sri Lanka remain, highlighting the need for balanced strategies to leverage technological advancements for national development.
-
-🟩
-
-In a series of diplomatic and technical engagement, Sri Lanka seems to be progressing to improve its digital and maritime infrastructure.
-
-During his official visit to Indonesia, President Ranil Wickremesinghe discussed with Indonesian officials and Elon Mask, chief executive officer of Tesla and SpaceX.. These meetings in the context of World Water Forum in the 10th World Water Forum have created a variety of reflections in Sri Lanka, but can create a path to the future.
-
-During his visit to Indonesia, President Wickremesinghe met Indonesia's Coordinating Minister of Maritime and Investment Affairs Luhud binzar Banjaidan. At the end of last month at the Union Bali complex on the Kura Kura Kura Bali Island, the global merged fund was focused on Sri Lanka's Ayanic Strip initiative, the blue economy and the growing seaweed industry.
-
-...
-
-[Data](articles/e914fd83.json)
-
-[Extended Data](ext_articles/e914fd83.ext.json)
-
----
-
-### After resettlement in Mannar, they demand that their agricultural lands be restored - K. Kanakeswaran
-
-*2024-06-26 03:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/186979) · `ta`
-
-Post-war, Mannar faces economic hurdles, especially in agriculture. The government and committees discuss restoring farmlands seized by forest and wildlife departments, impacting displaced farmers' livelihoods. Challenges include reconciling land use and compensating those affected.
-
-🟩
-
-Mannar district was also affected by the war in the country. Mannar District Government Agent K. Kanageswaran said that the economy is the main problem we face after the resettlement.
-
-The committee on the provision of the proposed legislation to establish the proposed legislation under the interim secretariat for real unity and reconciliation machine systems was on a visit to the King on Tuesday (25).
-
-The Committee of the Provisional Secretariat of the Hon.
-
-During this time, the team has discussed various issues in the district.
-
-Meanwhile, Mannar District Government Agent K. Kanageswaran put forward the issue with the team.
-
-Mannar district was also affected by the war in the country.
-
-Agriculture is an important livelihood function in Mannar district. We face various challenges to develop agriculture.
-
-After the end of the war, the Department of Forest Resources and the Department of Wildlife have taken over 36 percent of land.
-
-...
-
-[Data](articles/7e03122c.json)
-
-[Extended Data](ext_articles/7e03122c.ext.json)
-
----
-
-### Law to strengthen the president's women
-
-*2024-06-26 02:22:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-பெண்களை-வலுவூட்டும்-சட்டம்/175-339437) · `ta`
-
-Sri Lanka's Parliament passed a historic Women Reinforcement Act, marking the first time in the country's political history that legislation aims to enhance women's rights and status. Initiated by President Ranil Wickremesinghe, the act includes provisions for a national policy on women's advancement, the establishment of a National Women's Commission, and mechanisms to protect women's rights. This landmark law reflects a significant step towards gender equality in Sri Lanka.
-
-🟩
-
-Women and Child Affairs Minister Geeta Kumarasinghe said that there was no bill on women's rights and women's status in Sri Lanka's political history and that the women's reinforcement bill presented in Parliament on the instructions of President Ranil Wickremesinghe.
-
-State Minister Geeta Kumarasinghe said this while addressing a press conference held at the Presidential Media Center yesterday.. As he said more.
-
-Women Reinforcement Act has been passed in Parliament. In the political history of Sri Lanka, no law has been enacted to provide women's rights or equal status to women. Through this law, a national policy will be prepared for women's progress to make arrangements for strengthening women.
-
-The law has been enacted by President Ranil Wickremesinghe. Several amendments were made during the legal draft. The Parliamentary Women's Forum also made recommendations. Accordingly, the law was able to include many essential and important issues.
-
-...
-
-[Data](articles/571090c6.json)
-
-[Extended Data](ext_articles/571090c6.ext.json)
 
 ---

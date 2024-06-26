@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 13:54:16**
+As of **2024-06-26 14:06:20**
 
 ## Newspaper Stats
 
-*Scraped **32,245** Articles*
+*Scraped **32,247** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,79 @@ adaderanalk | 3,662
 tamilmirrorlk | 3,809
 dailymirrorlk | 4,733
 virakesarilk | 5,002
-adaderanasinhalalk | 5,291
+adaderanasinhalalk | 5,293
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,244 (100.0%) of 32,245 articles have been extended.
+32,245 (100.0%) of 32,247 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### සපුගස්කන්ද තෙල් පිරිපහදුව වෙනම ආයතනයක් කරයි
+### ණය ප්‍රතිව්‍යුහගතකිරීමේ සාකච්ඡා ඇරඹේ
+
+*2024-06-26 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198176) · `si`
+
+පැරිස් සමාජය සමඟ ණය ප්‍රතිව්‍යුහගතකිරීමේ ගිවිසුම්වලට එළැඹීමට අදාළ සාකච්ඡා මේ වනවිට ආරම්භ වී තිබේ.
+
+අදාළ ගිවිසුම්වලට අත්සන් තැබීම ස﻿ඳහා මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ, මුදල් අමාත්‍යංශ ලේකම් මහින්ද සිරිවර්ධන හා මහබැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ යන මහත්වරු ප්‍රංශය බලා පිටත්ව ගියහ.
+
+ශ්‍රී ලංකාව මුහුණ දුන් ආර්ථික අර්බුදය හමුවේ ණය ගෙවීමේ හැකියාවක් නොමැති බව ශ්‍රී ලංකාව නිවේදනය කිරීමත් සමග දේශීය හා විදේශීය ණය ප්‍රතිව්‍යුහගතකරණයට සාකච්ඡා ඇරඹුණි.
+
+ඉන් දේශීය ණය ප්‍රතිව්‍යුහගතකරණය අවසන් කෙරුණු නමුත් චීනය, ඉන්දියාව සහ අනෙකුත් ණයහිමියන් සිටින පැරිස් සමාජය සමඟ ද්වීපාර්ශ්වික ණය ප්‍රතිව්‍යුහගතකරණයටත්, ජාත්‍යන්තර බැඳුම්කර හිමියන් සමඟ ණය ප්‍රතිව්‍යුහගතකරණය සඳහාත් සාකච්ඡා අඛණ්ඩව පැවැත්වුණි.
+
+ඉන් ද්වීපාර්ශ්වික ණයහිමියන් සමඟ පැවති සාකච්ඡා ඵලදායි අවසානයකට රැගෙන යමින් පැරිස් සමාජය සමඟ ණය ප්‍රතිව්‍යුහගතකිරීමේ ගිවිසුම්වලට අද දිනයේ එළැඹීමට ශ්‍රී ලංකාවට අවස්ථාව හිමි වේ.
+
+මෙම ගිවිසුම්වලට එළඹීම සඳහා පසුගිය අමාත්‍ය මණ්ඩල රැස්වීමේදි අනුමැතිය ද හිමි වුණි.
+
+...
+
+[Data](articles/06b32a35.json)
+
+---
+
+### අල්ලස් ගත් ග්‍රාම නිලධාරීවරයෙක් අත්අඩංගුවට
+
+*2024-06-26 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198175) · `si`
+
+මහනුවර, හීරැස්සගල ප්‍රදේශයේ අල්ලස් ලබාගත් ග්‍රාම නිලධාරීවරයෙක් අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසම මඟින් අත්අඩංගුවට ගෙන තිබේ.
+
+ග්‍රාම නිලධාරීවරයා ඉඩම් ගැටලුවක් විසඳීම සඳහා කාන්තාවකගෙන් රුපියල් 25,000ක මුදලක් ඉල්ලා ඇති අතර ඒ සම්බන්ධයෙන් අදාළ කාන්තාව කොමිසමට පැමිණිලි කර ඇත.
+
+ඒ අනුව ඊයේ (25) විමර්ශන නිලධාරීන් විසින් අල්ලස් මුදල ලබා දෙන අවස්ථාවේදී ම ග්‍රාම නිලධාරීවරයා අත්අඩංගුවට ගෙන තිබුණි.
+
+අත්අඩංගුවටගත් ග්‍රාම නිලධාරීවරයා ලබන මස 09 දින දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට මහනුවර අධිකරණය නියෝග කර ඇත.
+
+◼️
+
+[Data](articles/4dacddf4.json)
+
+---
+
+### Sapugaskanda Oil Refinery makes a separate company
 
 *2024-06-26 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198174) · `si`
 
-ලංකා ඛනිජතෙල් නීතිගත සංස්ථාව ප්‍රතිව්‍යූහගත කිරීමේ සැලැස්ම යටතේ ඊට අයත් සපුගස්කන්ද තෙල් පිරිපහදුව රජය සතු වෙනම ආයතනයක් බවට පත්කරන බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+Sapugaskanda Oil Refinery, now a separate entity under Ceylon Petroleum Corporation, aims to boost investment, enhance fuel quality, efficiency, and capacity, and cut costs. The corporation's structure, including salaries, is being overhauled, alongside the introduction of digital platforms for various services. This move was discussed by the senior management and Minister Kanchana Wijesekara recently.
 
-එමඟින් ඊට අවශ්‍ය ආයෝජන ආකර්ශනය කරගැනීමට හැකිවන අතර ඉන්ධනවල ප්‍රමිතිය, කාර්යක්ෂමතාව සහ ධාරිතාව ඉහළ නංවා පිරිවැය අඩු කිරීමට ද හැකි වනු ඇති බව සිය x ගිණුමේ සටහනක් තබමින් අමාත්‍යවරයා පෙන්වා දෙයි.
+🟩
 
-ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ දැනට අනුමත සේවක සංඛ්‍යාව සහ වැටුප් ව්‍යූහය ද සමාලෝචනය කෙරෙන අතර විවිධ කාර්යයන් සහ සේවාවන් සඳහා ඩිජිටල් වේදිකා හඳුන්වාදීමට ද නියමිත බවද අමාත්‍යවරයා පවසයි.
+Power and Energy Minister Kanchana Wijesekara says that the Sapugaskanda Oil Refinery will be a separate institution belonging to the Ceylon Petroleum Corporation.
 
-මෙම ප්‍රතිසංස්කරණ ක්‍රියාත්මක කළ යුතු කාලරාමුව සහ ක්‍රියාවලිය සම්බන්ධයෙන් ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ සහ තෙල් පිරිපහදුවේ ජ්‍යෙෂ්ඨ කළමනාකාරීත්වය සහ අමාත්‍ය කංචන විජේසේකර මහතා අතර ඊයේ (25) සාකච්ඡාවක් පැවැත්වී තිබේ.
+It can attract the necessary investments and increase the quality, efficiency and capacity of fuel and reduce the costs.
+
+The Minister of Ceylon Petroleum Corporation is currently reviewed and the approved cadre and salary structure will also be reviewed and digital platforms for various purposes and services.
+
+The senior management of the Ceylon Petroleum Corporation and the Minister of Ceylon Petroleum Corporation and Minister Kanchana Wijesekara have held a discussion yesterday (25).
 
 ◼️
 
 [Data](articles/6de56382.json)
+
+[Extended Data](ext_articles/6de56382.ext.json)
 
 ---
 
@@ -2245,51 +2291,5 @@ These are the preparation of two landslides not yet to resolve the salary anomal
 [Data](articles/08ca258a.json)
 
 [Extended Data](ext_articles/08ca258a.ext.json)
-
----
-
-### Investigate the two judges who have been acting in Parliament to inquire to the Minister of Parliament -letter to Minister Wijeyadasa
-
-*2024-06-25 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186974) · `ta`
-
-Minister Wijeyadasa Rajapakse has requested the summoning of Judges Ruwan Dissanayake and Isuru Nethikumarake to the Committee of Parliament and Privileges due to public comments deemed immoral. The minister, in a letter to the Speaker, highlighted the need for a formal order against the judges for potentially disrupting judicial investigations and violating parliamentary privileges.
-
-🟩
-
-District Judge Ruwan Dissanayake and Secretary Isuru Nethikumarake have publicly worked immoral about a statement in Parliament. Minister of Justice Wijeyadasa Rajapakse said that the two judges should be summoned to the Committee of Parliament and Private Rights.
-
-Justice Minister Wijeyadasa Rajapakse has appealed to the Speaker Mahinda Yapa Abeywardena in a letter to the Speaker.
-
-I have responded to a number of questions raised in Parliament regarding court proceedings on the 19th of last month. District Judge Ruwan Dissanayake and Secretary Isuru Nethikumarage have publicly commented on this in this regard.. Therefore, the two judges should be summoned to the Committee of Parliament and Privitations and issued a formal order.
-
-...
-
-[Data](articles/71930bd9.json)
-
-[Extended Data](ext_articles/71930bd9.ext.json)
-
----
-
-### Colombo Municipal Council. 26 crore tax stick
-
-*2024-06-25 19:20:21* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-නගර-සභාවට-රු--කෝටි-26ක-බදු-පොල්ලක්/11-410437) · `si`
-
-The Colombo Municipal Council faces a 26 crore tax default issue, affecting traffic management. The council's director, Mr. Chandrapala, mentioned permission for 2023 but failed to maintain tax stocks. Corruption and bribery allegations involve the Citizens' Bribery and Corruption Commission. By April 30, 2024, 26 institutions will manage traffic in Colombo, with details yet to be disclosed by the Municipal Commissioner, Mr. Bhadrani Jayatilake.
-
-🟩
-
-The Director of the Colombo Municipal Council has defaulted to maintain the stock of taxes to maintain traffic stocks of traffic in Colombo.. Mr. Chandrapala said.
-
-The Director of the Colombo Municipal Council has been permitted for the year 2023 for the year 2023, the Colombo Municipal Council has been permitted for the year 2023.it. Mr. Chandrapala added.
-
-The Chairman of the Citizen of Bribery and Corruption, Jamadha Thushara has informed the Chairman of the Citizenship Organization (Organization) for the bribe, corruption and waste of institutions that have been permitted to run the tax payments in Colombo.
-
-What are the institutions that have been permitted to run the storage fairs in Colombo and the amount of taxes on April 30, 2024 as at the end of April 30th April 30?Municipal Commissioner of Colombo Urban Commissioner Bhadrani Jayatilake, responding from the UK Municipal Commissioner of Colombo Urban Council under the Information Information Act. Mr. Chandrapala has informed that.
-
-...
-
-[Data](articles/4c3f9e03.json)
-
-[Extended Data](ext_articles/4c3f9e03.ext.json)
 
 ---

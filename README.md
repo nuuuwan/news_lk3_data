@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 21:19:41**
+As of **2024-06-26 21:35:00**
 
 ## Newspaper Stats
 
-*Scraped **32,306** Articles*
+*Scraped **32,310** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,790
 economynextcom | 1,870
 dailyftlk | 1,976
-adalk | 2,856
-adaderanalk | 3,678
+adalk | 2,859
+adaderanalk | 3,679
 tamilmirrorlk | 3,816
 dailymirrorlk | 4,733
 virakesarilk | 5,009
@@ -26,11 +26,47 @@ adaderanasinhalalk | 5,307
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,305 (100.0%) of 32,306 articles have been extended.
+32,306 (100.0%) of 32,310 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### ‘Sarvajana Balaya’ ready to launch Presidential Election campaign – Dilith Jayaweera
+
+*2024-06-26 21:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100127/sarvajana-balaya-ready-to-launch-presidential-election-campaign-dilith-jayaweera) · `en`
+
+Leader of the Mawbima Janatha Party (MJP) Dilith Jayaweera says that the ‘Sarvajana Balaya’ alliance is fully prepared to launch its Presidential Election campaign.
+
+Speaking to the media during the inauguration of the MJP’s Galle District office, the entrepreneur expressed that the alliance ‘Sarvajana Balaya’ has emerged as the primary alternative for the people of Sri Lanka, representing the ideology of leftist nationalism.
+
+“We are the sole political faction championing leftist nationalism. All other parties have united under the banner of right-wing liberalism. President Ranil Wickremesinghe, Sajith Premadasa, and Anura Kumara Dissanayaka are all aligned with this ideology”, Jayaweera highlighted.
+
+“While they traverse that path, we offer a distinct alternative for the people of our nation”, he added.
+
+...
+
+[Data](articles/cda7beef.json)
+
+---
+
+### මහේල ඉල්ලා අස්වෙයි
+
+*2024-06-26 20:23:14* · [`adalk`](https://www.ada.lk/sports/මහේල-ඉල්ලා-අස්වෙයි/9-410469) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ උපදේශකයෙකු ලෙස කටයුතු කළ හිටපු සුපිරි ක්‍රිකට් ක්‍රීඩක මහේල ජයවර්ධන එම තනතුරින් ඉල්ලා අස්වී ඇත. ශ්‍රී ලංකා ක්‍රිකට් ආයතනය මේ බව අද (26දා) නිල වශයෙන් දන්වා සිටියේය.
+
+මහේල 2021 වර්ෂයේ දෙසැම්බර් මාසයේදී මෙම තනතුරෙහි වැඩ භාරගත් අතර ඔහුගේ ධුරය 2022 වර්ෂයේ ජනවාරි මස සිට ක්‍රියාත්මක විය.
+
+මහේල පසුගිය 2023 වර්ෂයේ ඉන්දියාවේ පැවති එක්දින ලෝක  කුසලාන තරගාවලියේදීද ශ්‍රී ලංකා කණ්ඩායමේ උපදේශකයෙකු ලෙස කණ්ඩායම සමග සිටියේය. කෙසේ වෙතත් ඒම තරගාවලියේදීද ශ්‍රී ලංකාව දැක්වූ දුර්වල ක්‍රීඩා විලාසය නිසා මහේලගේ තනතුර සම්බන්ධයෙන් යම් දෝෂාරොපණයක් එල්ලවිය. අනතුරුව ශ්‍රී ලංකා තවත් සුපිරි ක්‍රීඩකයෙකු වූ සනත් ජයසූරිය 2023 වර්ෂයේදි කණ්ඩායමේ තවත් උපදේශකයෙකු ලෙස පත්විය.
+
+මහේල විසින් සිදුකළ කාර්යභාරය පිලිබඳ අදහස් දක්වමින් ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කරන්නේ ඔහු කණ්ඩායමේ පරිසරයේ හා ඉහළ කාර්යසාධන මධ්‍යස්ථානයේ සැලකිය යුතු වෙනස්කම් කිරීමට දායක වූ බවයි.
+
+◼️
+
+[Data](articles/a44d52dd.json)
+
+---
 
 ### President urges all MPs to help ratify agreements with creditor nations
 
@@ -51,6 +87,8 @@ He stated that the necessary formal procedures are currently being implemented.
 ...
 
 [Data](articles/79ab0cbe.json)
+
+[Extended Data](ext_articles/79ab0cbe.ext.json)
 
 ---
 
@@ -113,6 +151,24 @@ A number of occasional railway line and highway projects will be started.
 [Data](articles/5510bb6f.json)
 
 [Extended Data](ext_articles/5510bb6f.ext.json)
+
+---
+
+### ’රනිල් තමයි මිනිහා’
+
+*2024-06-26 19:51:11* · [`adalk`](https://www.ada.lk/breaking_news/’රනිල්-තමයි-මිනිහා’/11-410465) · `si`
+
+ජනාධිපතිවරණය කල්දැමීමේ කිසිදු සූදානමක් නොමැති බවත්, වත්මන් ආණ්ඩුව ව්‍යවස්ථාවට පටහැණි කිසිවක් සිදු නොකරන බවත් ආණ්ඩු පක්ෂයේ ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පැවසීය.
+
+ව්‍යවස්ථාවට අනුව පළමුව ජනාධිපතිවරණය පැවැත්වෙන බව ද හෙතෙම සඳහන් කළේය. අමාත්‍යවරයා මේ බව පැවසුවේ අද (26දා) කොළඹ, ලොරිස් පටුමගේ පැවති මාධ්‍ය හමුවේ දීය.
+
+අත්දැකීම් හා පළපුරුද්ද ඇති නායකයෙකු ලෙස ශ්‍රී ලංකා පොදුජන පෙරමුණ රනිල් වික්‍රමසිංහ මහතා විශ්වාස කරමින් රට භාරදුන් බවත්, ඔහු මේ සඳහා සුදුසු බව ඔප්පු කර ඇති බවත් රණතුංග මහතා ප්‍රකාශ කළේය.
+
+'රනිල් තමයි මිනිහා' යන මතයක් ජනතාව තුළ ගොඩනැගී ඇති බව ද රණතුංග මහතා ප්‍රකාශ කළේය. සුබ පණිවිඩය දරාගත නොහැකි පාර්ශ්ව විසින් රට පුරා වර්ජන රැල්ලක් කරගෙන යන බවත්, වැටුප් විෂමතා ඉවත් කිරීම වෙනුවෙන් කටයුතු කරමින් පවතින මොහොතක මෙවැනි වර්ජන සිදු කරන්නේ රටට ආදරයක් නොමැති කුහකයන් බවත්, ඒ පිටුපස දේශපාලන පක්ෂ සිටින බවත් අමාත්‍යවරයා කීවේය.
+
+◼️
+
+[Data](articles/93592494.json)
 
 ---
 
@@ -191,6 +247,26 @@ Jayawardena had initially joined SLC as a Consultant Coach in September 2022 ahe
 [Data](articles/f568ea00.json)
 
 [Extended Data](ext_articles/f568ea00.ext.json)
+
+---
+
+### චීන එක්සිම් බැංකුව සමගත් ණය ප්‍රතිව්‍යුහගතකරණය ගැන එකඟතාවකට එයි
+
+*2024-06-26 19:19:12* · [`adalk`](https://www.ada.lk/breaking_news/චීන-එක්සිම්-බැංකුව-සමගත්-ණය-ප්‍රතිව්‍යුහගතකරණය-ගැන-එකඟතාවකට-එයි/11-410458) · `si`
+
+ශ්‍රී ලංකාව අද (26දා) පෙරවරුවේ පැරිස් නුවරදී සිය ප්‍රධාන නිල ද්විපාර්ශ්වික ණය හිමියන් සමඟ ණය ප්‍රතිව්‍යුහගත කිරීමේ සාකච්ඡා අවසන් කරමින් නිල ණය හිමියන්ගේ කමිටුව සමඟ අවසන් එකඟත්වයට එළැඹ තිබේ.
+
+එමෙන්ම ණය ප්‍රතිව්‍යුහගතකරණයට අදාළව ශ්‍රී ලංකාව චීනයේ එක්සිම් බැංකුව සමඟ ද  අද බෙයිජිං නුවරදී  අවසන් එකඟත්වයට පැමිණ ඇත.
+
+මෙම එකඟතාවන් සමඟින්, ශ්‍රී ලංකාව සිය ප්‍රධාන නිල ද්විපාර්ශ්වික ණය හිමියන් සඳහා ණය ප්‍රතිව්‍යුහගත කිරීමේ එකඟතාවට පැමිණීම අවසන් කර තිබේ.
+
+මෙම නිල ණය හිමියන්ගේ කමිටුවේ සම සභාපතීත්වය ජපානය, ඉන්දියාව සහ ප්‍රංශය විසින් දරන ලදී. ඕස්ට්‍රේලියාව, ඔස්ට්‍රියාව, බෙල්ජියම, කැනඩාව, ඩෙන්මාර්කය, ජර්මනිය, හංගේරියාව, කොරියාව, නෙදර්ලන්තය, රුසියාව, ස්පාඤ්ඤය, ස්වීඩනය, එක්සත් රාජධානිය සහ ඇමරිකා එක්සත් ජනපදය මෙම නිල ණය හිමියන්ගේ කමිටුවේ සෙසු සාමාජිකයන් වෙයි.
+
+නිල ණය හිමියන්ගේ සහ චීන එක්සිම් බැංකුව හරහා ප්‍රතිව්‍යුහගත කිරීමට නියමිත ණයවල ඒකාබද්ධ වටිනාකම ඇමරිකානු ඩොලර් බිලියන 10 කි.
+
+◼️
+
+[Data](articles/98710760.json)
 
 ---
 
@@ -2249,95 +2325,5 @@ The deceased has been identified as a 56 year old resident of Welikanda, Welikan
 [Data](articles/bc969dd6.json)
 
 [Extended Data](ext_articles/bc969dd6.ext.json)
-
----
-
-### School teachers and principals report ‘sick’
-
-*2024-06-26 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100103/school-teachers-and-principals-report-sick) · `en`
-
-The Ceylon Teachers’ Union (CTU) says that school teachers and principals are engaged in an islandwide trade union action by reporting sick leave today (26).
-
-CTU General Secretary Joseph Stalin stated that teachers and principals would be brought to Colombo for a protest.
-
-Meanwhile, it is reported that certain teachers have also advised students from many schools not to attend school today due to the strike action.
-
-The trade union, which coincides with the start of the second school term, has disrupted educational activities at schools across the country.
-
-Meanwhile, the president of the Joint Committee of Government Executive Officers, says that they would continue their trade union action by participating in the ‘sick leave’ campaign today (26) for the second consecutive day, as their demands have not been adequately addressed.
-
-◼️
-
-[Data](articles/510d1b9b.json)
-
-[Extended Data](ext_articles/510d1b9b.ext.json)
-
----
-
-### 30 students admitted to the hospital
-
-*2024-06-26 08:56:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/30-மாணவர்கள்-வைத்தியசாலையில்-அனுமதி/75-339441) · `ta`
-
-In Muttur, 30 students from a local school were hospitalized after being stung by wasps near the school. The incident occurred during a scholarship exam preparation session. Currently, 22 students and 8 teachers are undergoing treatment at Muttur Hospital.
-
-🟩
-
-Thirty students have been admitted to the hospital in a school in Muttur 5, which belongs to the Muttur police division.
-
-Students who appeared for the scholarship exam were present at the school yesterday evening.
-
-There, the students and teachers have been targeted for the wasp nest in the house near the school.
-
-Subsequently, 22 students, 8 students and teachers are admitted to the Muttur Hospital and are currently receiving treatment.. Remble
-
-◼️
-
-[Data](articles/e88c6ed6.json)
-
-[Extended Data](ext_articles/e88c6ed6.ext.json)
-
----
-
-### Person killed in assaulting with a sharp instrument
-
-*2024-06-26 08:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198163) · `si`
-
-A 33-year-old man from Sevanagala was fatally attacked with sharp weapons in a dispute over property. The incident occurred at his home, where he and his family were assaulted by a neighbor. The attacker, who has since been arrested, is also hospitalized under police guard.
-
-🟩
-
-The Maggodama Colony of Sevanagala Police have hacked to death with sharp weapons in the Maggodaha.
-
-The victim was 33 years old, a 3 year old resident of Sevanagala.
-
-When the deceased arrived at the residence of the deceased, the owner and his wife had been assaulted by the neighboring person in intervention with a dispute with a neighboring person.
-
-The suspect has been arrested and he is also receiving treatment at the Embilipitiya Hospital under police protection.
-
-◼️
-
-[Data](articles/937da2c0.json)
-
-[Extended Data](ext_articles/937da2c0.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the country
-
-*2024-06-26 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100102/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Fairly heavy showers above 50mm are likely at some places in Sabaragamuwa province and in Kurunegala, Kandy and Nuwara-Eliya districts.
-
-Several spells of showers may occur in Matale and Hambantota districts, it said.
-
-Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-◼️
-
-[Data](articles/0419d745.json)
-
-[Extended Data](ext_articles/0419d745.ext.json)
 
 ---

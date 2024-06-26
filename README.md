@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 09:19:42**
+As of **2024-06-26 09:34:57**
 
 ## Newspaper Stats
 
-*Scraped **32,199** Articles*
+*Scraped **32,200** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,790
 economynextcom | 1,868
 dailyftlk | 1,976
-adalk | 2,835
+adalk | 2,836
 adaderanalk | 3,655
 tamilmirrorlk | 3,797
 dailymirrorlk | 4,733
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,281
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,192 (100.0%) of 32,199 articles have been extended.
+32,199 (100.0%) of 32,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### තියුණු ආයුධයකින් පහරදී පුද්ගලයෙක්ව ඝාතනය කෙරේ
+### Person killed in assaulting with a sharp instrument
 
 *2024-06-26 08:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198163) · `si`
 
-සෙවනගල පොලිස් වසමේ මහගම ජනපදය ප්‍රදේශයේ පුද්ගලයෙකුව තියුණු ආයුධවලින් කපා කොටා ඝාතනය කර තිබේ.
+A 33-year-old man from Sevanagala was fatally attacked with sharp weapons in a dispute over property. The incident occurred at his home, where he and his family were assaulted by a neighbor. The attacker, who has since been arrested, is also hospitalized under police guard.
 
-එලෙස ඝාතනයට ලක්ව ඇත්තේ අවුරුදු 33ක් වූ මහගම ජනපදය, සෙවනගල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+🟩
 
-මියගිය පුද්ගලයා තවත් දෙදෙනෙකු සමග සිය මස්සිනා පදිංචිව සිටි නිවසට පැමිණි අවස්ථාවේ එම නිවසේ හිමිකරු සහ ඔහුගේ බිරිඳ අසල්වැසි පුද්ගලයෙකු සමග ඇති කරගත් ආරවුලකට මැදිහත් වීමේ දී අසල්වැසි පුද්ගලයා කැත්තකින් පහරදී මෙම ඝාතනය සිදුකර ඇත.
+The Maggodama Colony of Sevanagala Police have hacked to death with sharp weapons in the Maggodaha.
 
-සැකකරු මේ වනවිට අත්අඩංගුවට ගෙන ඇති අතර, ඔහු ද තුවාල ලබා පොලිස් ආරක්ෂාව යටතේ ඇඹිලිපිටිය රෝහලේ නේවාසිකව ප්‍රතිකාර ලබමින් සිටී.
+The victim was 33 years old, a 3 year old resident of Sevanagala.
+
+When the deceased arrived at the residence of the deceased, the owner and his wife had been assaulted by the neighboring person in intervention with a dispute with a neighboring person.
+
+The suspect has been arrested and he is also receiving treatment at the Embilipitiya Hospital under police protection.
 
 ◼️
 
 [Data](articles/937da2c0.json)
+
+[Extended Data](ext_articles/937da2c0.ext.json)
 
 ---
 
@@ -66,79 +72,105 @@ Strong winds of about 40-50kmph can be expected at times over the Western slopes
 
 [Data](articles/0419d745.json)
 
+[Extended Data](ext_articles/0419d745.ext.json)
+
 ---
 
-### அவ்வப்போது மழை பெய்யும்
+### Occasionally rains
 
 *2024-06-26 08:51:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவ்வப்போது-மழை-பெய்யும்/175-339440) · `ta`
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+Rainfall is forecasted for Western, Sabaragamuwa, North Western Provinces, and districts including Galle, Matara, Kandy, Nuwara Eliya, Matale, and Hambantota. Heavy rain (50mm) is expected in parts of Sabaragamuwa, Kurunegala, Kandy, and Nuwara Eliya. Wind gusts of 40-50km/h may occur in highland slopes, Northern, North Central, North Western Provinces, and Trincomalee, Hambantota, Moneragala districts.
 
-சப்ரகமுவ மாகாணத்திலும் குருணாகலை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் சில இடங்களில் 50 மி.மீ அளவான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+🟩
 
-மாத்தளை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களில் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+Rainfall is expected to occur in the Western, Sabaragamuwa and North Western Provinces and Galle, Matara, Kandy and Nuwara Eliya districts.
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது. R
+50 mm of heavy rainfall is expected in some places in the province of Sabaragamuwa, Kurunegala, Kandy and Nuwara Eliya.
+
+Rainfall is expected in Matale and Hambantota districts several times.
+
+Heavy winds are likely to blow up to 40-50 km / h from time to time in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.. Remble
 
 ◼️
 
 [Data](articles/d1b1cac2.json)
 
+[Extended Data](ext_articles/d1b1cac2.ext.json)
+
 ---
 
-### බඹර ප්‍රහාරයෙන් සිසුන් 30ක් රෝහලට
+### 30 students hospitalized in wasp attack
 
 *2024-06-26 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198162) · `si`
 
-මූතූර් පොලිස් වසමේ මූතූර් 5 ප්‍රදේශයේ දී පාසලක සිසුන් 30 දෙනෙකු බඹර ප්‍රහාරයට ලක්ව රෝහල්ගත කර තිබේ.
+In a wasp attack at a school in the Muttur police division, 30 students including 8 girls and a teacher were hospitalized after being stung. The incident occurred during a scholarship exam preparation session held outside the school premises.
 
-පොලීසිය සඳහන් කළේ ඊයේ (25) සවස ශිෂ්‍යත්වය සඳහා පෙනී සිටින ළමුන් පිරිසක් පාසලේ අමතර පන්තියකට සහභාගී වී ඇති බවය.
+🟩
 
-එහිදී පාසලට යාබඳ නිවසක බඹර කූඩුවක් ඇවිස්සීමෙන් පාසල් සිසුන්ට හා ගුරුවරයාට බඹරු දෂ්ඨ කර ඇත.
+30 students of a school have been hospitalized in the Muttur 5 area of ​​the Muttur police division.
 
-එහිදී සිසුන් 22ක් හා සිසුවියන් 8 දෙනෙකු මෙන්ම ගුරුවරයා ද මූතූර් රෝහලට ඇතුළත් කර ඇති අතර මේ වනවිට ඔවුන් නේවාසිකව ප්‍රතිකාර ලබයි.
+The police said that a group of children who appear for the scholarship have participated in the school yesterday (25).
+
+The wasp bowled out for the school and the teacher by a house to the school.
+
+There were 22 students and 8 students and the teacher was admitted to the Muttur Hospital and they are currently receiving treatment at the Muttur Hospital.
 
 ◼️
 
 [Data](articles/de5b5df9.json)
 
+[Extended Data](ext_articles/de5b5df9.ext.json)
+
 ---
 
-### மாங்குளத்தில் கோர விபத்து - மூவர் சம்பவ இடத்திலேயே மரணம்
+### Accident in Mankulam
 
 *2024-06-26 08:24:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மாங்குளத்தில்-கோர-விபத்து-மூவர்-சம்பவ-இடத்திலேயே-மரணம்/71-339439) · `ta`
 
-மாங்குளம் - பனிக்கன்குளம் பகுதியில் ஏ9 வீதியின் 228 வது கிலோமீற்றர் பகுதியில் நேற்று இரவு 11 மணியளவில் இடம்பெற்ற கோர விபத்தில் மூவர்  உயிரிழந்ததோடு இருவர் படுகாயம் அடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+In a tragic accident on the A9 road near Mankulam, three died and two were hurt when a bus from Jaffna to Colombo collided with a lorry heading the same way. The bus, parked at the 228-kilometer mark, was hit by both the lorry and the bus. Investigations are ongoing by the Mankulam police.
 
-யாழ்ப்பாணத்திலிருந்து கொழும்பு நோக்கி பயணித்த அதிசொகுசு பேருந்து ஒன்று பழுதடைந்ததன் காரணமாக ஏ9 வீதியில் 228 வது கிலோமீற்றர்  பகுதியில்  நிறுத்தி வைக்கப்பட்டிருந்துள்ளது.
+🟩
 
-இதன்போது பேருந்தில் வருகை தந்தவர்கள் இறங்கி பேருந்தின் பின்புறமாக நின்று கொண்டிருந்த போது அதே திசையில் வருகை தந்த லொறி ஒன்று குறித்த நபர்கள் மீதும் பேருந்தின் மீதும் மோதியுள்ளது.
+Three persons were killed and two others were injured in an accident that occurred at around 11 pm last night on the 228th kilometer of the A9 road in Mankulam - Panankulam area.
 
-லொறியின்  சாரதி மற்றும் பேருந்தில்  பயணித்த  இன்னொருவர் என இருவர் படுகாயம் அடைந்த நிலையில்  வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்
+A miraculous bus traveling from Jaffna to Colombo has been parked at the 228 -kilometer area on the A9 road.
 
-சம்பவ இடத்திற்கு சென்ற மாங்குளம் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர் . R
+At the same time, a lorry that was coming in the same direction crashed into the bus and the bus.
+
+Two driver of the lorry and another person who was traveling in the bus
+
+Mankulam police who went to the scene are conducting further investigations. Remble
 
 ◼️
 
 [Data](articles/93ccbc72.json)
 
+[Extended Data](ext_articles/93ccbc72.ext.json)
+
 ---
 
-### නිවිතිගල වෙඩිතැබීමක්
+### Swaligala shooting
 
 *2024-06-26 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198161) · `si`
 
-පොලීසිය සඳහන් කළේ, ඒ සම්බන්ධයෙන් පොලීසියට ලද තොරතුරක් මත විමර්ශන ආරම්භ කළ බවය.
+In the Swaligala shooting incident, a 38-year-old man from Dikowita was injured by a stray bullet fired from a neighbor's gun. The victim, who is married, was shot in the face and taken to Nivitigala Hospital. Police have launched an investigation into the matter.
 
-වෙඩිතැබීමෙන් අවුරුදු 38ක් වූ දික්ඕවිට වත්ත, පාතකඩ ප්‍රදේශයේ පදිංචිකරුවෙක් තුවාල ලබා තිබේ.
+🟩
 
-තුවාලකරු විවාහක අයෙක් වන අතර එම පුද්ගලයා පදිංචි නිවසේ මිදුලේ ඥාති පුත්‍රයෙක් සමග රැඳී සිටිය දී මුහුණ ආවරණය කර ආරක්ෂිත හිස් වැසුමක් පැළඳ පැමිණි නාඳුනන තුවක්කුකරුවෙකු පාගමනින් පැමිණ වෙඩි තබා පළාගොස් ඇත.
+Police said that investigations were initiated on information received by the police.
 
-වෙඩි වැදීමෙන් එම පුද්ගලයාගේ පාදයකට තුවාල සිදුව ඇති අතර ඔහුව නිවිතිගල රෝහලට ඇතුළත් කර තිබේ.
+A resident of Dikowita Watta, 38, was injured in the 38-year-old resident of the Dikowita area.
+
+The casualty is a married person and a straight gun that a neighbors wearing a safe empty had fled the face and shooting the face.
+
+The shooting was injured and admitted to the Nivitigala Hospital.
 
 ◼️
 
 [Data](articles/87a18a50.json)
+
+[Extended Data](ext_articles/87a18a50.ext.json)
 
 ---
 
@@ -187,6 +219,26 @@ Meanwhile, the trade union action which was started by the representatives of th
 [Data](articles/0c9d1c0b.json)
 
 [Extended Data](ext_articles/0c9d1c0b.ext.json)
+
+---
+
+### මල් ශාලා හිමිකරු මෝටර් රථයේදිම කපා කොටා ඝාතනය කරලා
+
+*2024-06-26 07:38:55* · [`adalk`](https://www.ada.lk/breaking_news/මල්-ශාලා-හිමිකරු-මෝටර්-රථයේදිම-කපා-කොටා-ඝාතනය-කරලා/11-410443) · `si`
+
+පොලිස් හදිසි ඇමතුම් අංශයට ලද තොරතුරක් මත අම්බලන්ගොඩ පොලිස් වසමේ ආදාදොල  ආවාස වත්ත ප්‍ර දේශයේදි මෝටර් රථයක් තුළ කපා කොටා ඝාතනය කර තිබූ පුද්ගල මළ සිරුරක් ඊයේ (25) සොයා ගත් බව අම්බලන්ගොඩ පොලීසිය කියයි.
+
+මෙසේ ඝාතනය කොට ඇත්තේ තෙල් වත්ත මළවැන්න දකුණ පදිංචි 47  හැවිරිදි  සිව් දරු පියකු තුසිත කුමාර නමැත්තෙක් බවද පොලිසිය කියයි.
+
+ඝාතනයවූ තැනැත්තා අම්බලන්ගොඩ තල්ගස්ගොඩ අම්බලන්ගොඩ ඩිපෝව අසල නිව් රේමන් නමින් මල් ශාලාවක් පවත්වාගෙන යන අයෙක් වෙයි.
+
+මේ පුද්ගලයා ඊයේ රෑ 9.30ට තිහට පමණ ඔහුට ලද දුරකථන ඇමතුමකට අනුව සිය මෝටර් රථයෙන් නිවසින් පිටව ගොස් තිබෙන බවත් එම දුරකථන ඇමතුම ලබා දී ඇත්තේ ඔහු යටතේ සේවය කරන සේවකයෙක් බවත් මියගිය අයගේ බිරිඳගේ මව පවසන බවද පොලීසිය කියයි.
+
+සිය මෝටර් රථයේ රියදුරු අසුනේම තියුණු ආයුධයකින් කපා කොටා  ඔහු  ඝාතනය කොට ඇති බවද පොලීසිය කියයි. අම්බලන්ගොඩ පොලිසිය මේ පිළිබඳව වැඩි දුර විමර්ශන සිදුකරයි
+
+◼️
+
+[Data](articles/f60c9e3f.json)
 
 ---
 
@@ -640,19 +692,27 @@ After the end of the war, the Department of Forest Resources and the Department 
 
 ---
 
-### ’ஜனாதிபதியின் பெண்களை வலுவூட்டும் சட்டம்’
+### Law to strengthen the president's women
 
 *2024-06-26 02:22:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-பெண்களை-வலுவூட்டும்-சட்டம்/175-339437) · `ta`
 
-இலங்கையின் அரசியல் வரலாற்றில் பெண் உரிமைகள், பெண்களுக்கான சம அந்தஸ்து தொடர்பான எந்தவொரு சட்டமூலமும் கொண்டு வரவில்லை எனவும் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அறிவுறுத்தலுக்கமைய பாராளுமன்றத்தில் சமர்பிக்கப்பட்ட பெண்கள் வலுவூட்டலுக்கான சட்டமூலம் நிறைவேற்றப்பட்டுள்ளது என்றும் மகளிர் மற்றும் சிறுவர் விவகார அமைச்சர் கீதா குமாரசிங்க தெரிவித்தார்.
+Sri Lanka's Parliament passed a historic Women Reinforcement Act, marking the first time in the country's political history that legislation aims to enhance women's rights and status. Initiated by President Ranil Wickremesinghe, the act includes provisions for a national policy on women's advancement, the establishment of a National Women's Commission, and mechanisms to protect women's rights. This landmark law reflects a significant step towards gender equality in Sri Lanka.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற செய்தியாளர் சந்திப்பில் கருத்து தெரிவிக்கும் போதே இராஜாங்க அமைச்சர் கீதா குமாரசிங்க இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்.
+🟩
 
-பெண்கள் வலுவூட்டல் சட்டம் பாராளுமன்றத்தில் நிறைவேற்றப்பட்டுள்ளது. இலங்கையின் அரசியல் வரலாற்றில், பெண்களின் உரிமைகள் அல்லது பெண்களுக்கு சம அந்தஸ்த்து வழங்குவதற்கான எந்த சட்டமும் கொண்டு வரப்படவில்லை. இந்தச் சட்டத்தின் மூலம், பெண்களை வலுவூட்டுவதற்கான ஏற்பாடுகளைச் செய்வதற்காக, பெண்களின் முன்னேற்றத்திற்கான ஒரு தேசியக் கொள்கை தயாரிக்கப்படும்.
+Women and Child Affairs Minister Geeta Kumarasinghe said that there was no bill on women's rights and women's status in Sri Lanka's political history and that the women's reinforcement bill presented in Parliament on the instructions of President Ranil Wickremesinghe.
+
+State Minister Geeta Kumarasinghe said this while addressing a press conference held at the Presidential Media Center yesterday.. As he said more.
+
+Women Reinforcement Act has been passed in Parliament. In the political history of Sri Lanka, no law has been enacted to provide women's rights or equal status to women. Through this law, a national policy will be prepared for women's progress to make arrangements for strengthening women.
+
+The law has been enacted by President Ranil Wickremesinghe. Several amendments were made during the legal draft. The Parliamentary Women's Forum also made recommendations. Accordingly, the law was able to include many essential and important issues.
 
 ...
 
 [Data](articles/571090c6.json)
+
+[Extended Data](ext_articles/571090c6.ext.json)
 
 ---
 
@@ -2281,31 +2341,5 @@ The US State Department said that the government is investigating the minimum nu
 [Data](articles/051f52c7.json)
 
 [Extended Data](ext_articles/051f52c7.ext.json)
-
----
-
-### The Analadeevu people struggle against the coastal security department
-
-*2024-06-25 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/186934) · `ta`
-
-Analadeevu residents protested against the coastal security department's plan to take legal action over temporary repairs to a damaged site. The community, along with the temple administration, had undertaken the renovations. The department threatened legal action against both the unauthorized repairs and the continued use of the area, which led to further protests from the locals.
-
-🟩
-
-The people of Analadeevu on Tuesday (25) staged a protest against the coastal security department's announcement that it would take legal action against the temporary renovation of the long -term landing.
-
-The wreckage was carried out by the temple administration and the people of the village to temporarily repair the wreckage.
-
-Subsequently, it has been revealed that legal action will be taken to remove the rehabilitation area of ​​the coastal security department officials who have gone there or not to completely remove the ruins of the building.
-
-Subsequently, the temple administration has taken steps to rehabilitate the area as before.
-
-Nevertheless, the people of the villagers have been protesting not to carry out the action of the villagers and they are protesting the boat services from there.
-
-◼️
-
-[Data](articles/2e4a7cc2.json)
-
-[Extended Data](ext_articles/2e4a7cc2.ext.json)
 
 ---

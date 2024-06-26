@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 02:19:27**
+As of **2024-06-27 02:34:56**
 
 ## Newspaper Stats
 
-*Scraped **32,358** Articles*
+*Scraped **32,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 318
 newsfirstlk | 363
 islandlk | 1,790
 economynextcom | 1,884
-dailyftlk | 1,987
+dailyftlk | 1,988
 adalk | 2,862
 adaderanalk | 3,681
 tamilmirrorlk | 3,820
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,354 (100.0%) of 32,358 articles have been extended.
+32,358 (100.0%) of 32,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### Mahajana Eksath Peramuna calls on EC to inform political parties on Presidential poll 2024
+
+*2024-06-27 02:05:24* · [`dailyftlk`](https://www.ft.lk/news/Mahajana-Eksath-Peramuna-calls-on-EC-to-inform-political-parties-on-Presidential-poll-2024/56-763544) · `en`
+
+Mahajana Eksath Peramuna (MEP) yesterday called on the Elections Commission (EC) to inform all political parties on the status and procedures of the upcoming Presidential Election.
+
+MEP General Secretary Attorney at Law Tissa Jayawardena Yapa made this request in writing following a meeting held with Elections Commission Chairman R.M.A.L. Rathnayake and Director-General Saman Sri Rathnayake at the Election Secretariat in Rajagiriya.
+
+In the written request, MEP insisted on informing all political parties regarding the existing Constitutional provisions, legal situation and administrative process concerning the Presidential Election slated for 2024.
+
+The MEP also urged the EC to convene an immediate discussion summoning all political parties to address these matters comprehensively.
+
+◼️
+
+[Data](articles/94a850a7.json)
+
+---
 
 ### India says will continue to support Sri Lanka
 
@@ -45,6 +63,8 @@ In a statement, India said as one of the co-chairs of the OCC, along with France
 ...
 
 [Data](articles/ea368079.json)
+
+[Extended Data](ext_articles/ea368079.ext.json)
 
 ---
 
@@ -62,6 +82,8 @@ The Foreign Minister will be accompanied by senior officials of the Ministry of 
 
 [Data](articles/8541ce5a.json)
 
+[Extended Data](ext_articles/8541ce5a.ext.json)
+
 ---
 
 ### DTNA mulls over common Tamil candidate for Presidential race
@@ -75,6 +97,8 @@ On Monday, DTNA party leaders met and discussed the idea of fielding a common Ta
 ...
 
 [Data](articles/d023e084.json)
+
+[Extended Data](ext_articles/d023e084.ext.json)
 
 ---
 
@@ -95,6 +119,8 @@ The proposal to this effect submitted by the Justice, Prison Affairs and Constit
 ◼️
 
 [Data](articles/8e299b1c.json)
+
+[Extended Data](ext_articles/8e299b1c.ext.json)
 
 ---
 
@@ -2253,33 +2279,5 @@ During the three-hour hearing, Assange pleaded guilty to one criminal count of c
 [Data](articles/38a1e25d.json)
 
 [Extended Data](ext_articles/38a1e25d.ext.json)
-
----
-
-### We will not forget the devastation, the death of the land and the loss of the land - we can only establish justice in the International Criminal Court.
-
-*2024-06-26 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/187011) · `ta`
-
-Umakumaran, representing the UK's Labor Party, emphasizes the importance of establishing justice through the International Criminal Court (ICC), highlighting the lack of accountability for war crimes in Sri Lanka prior to May 2009. He criticizes the ICC's absence in Sri Lanka and calls for stronger international efforts to address the suffering of Tamils, including sexual violence and displacement. Umakumaran urges the Labor Party to continue advocating for Tamil justice, appealing to the UK's Foreign Minister to support UN recommendations and prioritize international law.
-
-🟩
-
-Umakumaran, who is contesting on behalf of the Labor Party in the upcoming elections in the UK, said that justice can only be established by the United Nations Security Council to approve Sri Lanka in the International Criminal Court.
-
-In an interview with the Tamil Guardian, he said, "We must strengthen our requests for justice on the world stage- we will not forget the devastation, the loss of land and the loss of land.
-
-He said that no one has been held accountable for war crimes before May 2009 and May 2009, he said.
-
-We will never forget the devastation and the loss of the land, and we will never forget the sexual violence that the Tamil men and women have faced with the fact that thousands of people have been in the sand in the sand, and the deliberate bullets of the hospitals and the Red Cross, the high security zones.
-
-He then grows up without families, and men, women and children are living with war -torn injuries.
-
-I don't want to recall this in so much but we need to know our history.
-
-...
-
-[Data](articles/2d291bba.json)
-
-[Extended Data](ext_articles/2d291bba.ext.json)
 
 ---

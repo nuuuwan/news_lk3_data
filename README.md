@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 15:04:47**
+As of **2024-06-26 15:19:23**
 
 ## Newspaper Stats
 
-*Scraped **32,254** Articles*
+*Scraped **32,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ newsfirstlk | 363
 islandlk | 1,790
 economynextcom | 1,870
 dailyftlk | 1,976
-adalk | 2,845
+adalk | 2,847
 adaderanalk | 3,665
 tamilmirrorlk | 3,809
 dailymirrorlk | 4,733
 virakesarilk | 5,002
-adaderanasinhalalk | 5,294
+adaderanasinhalalk | 5,296
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,253 (100.0%) of 32,254 articles have been extended.
+32,254 (100.0%) of 32,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### ගුරු-විදුහල්පති වර්ජනය හෙටත්
+
+*2024-06-26 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198179) · `si`
+
+කොළඹ, ලෝටස් පාර ප්‍රදේශයේදී තම උද්ඝෝෂණයට පොලීසියෙන් ජල සහ කඳුළු ගෑස් ප්‍රහාර එල්ල කිරීමට විරෝධය දක්වා හෙට (27) ගුරු-විදුහල්පති සංගම් වර්ජනයක නිරත වන බව ලංකා ගුරු සංගමයේ ලේකම් ජෝසෆ් ස්ටාලින් මහතා පවසයි.
+
+අසනීප නිවාඩු වාර්තාකිරීමේ වෘත්තීය ක්‍රියාමාර්ගයට සමඟාමීව ගුරු - විදුහල්පති ඒකාබද්ධ කමිටුව අද (26) කොටුව දුම්රිය ස්ථානය ඉදිරිපිට විරෝධතාවය ආරම්භ කළේය.
+
+එහිදී විරෝධතාවය සම්බන්ධයෙන් කොම්පඤ්ඥවීදීය පොලිසීය කළ ඉල්ලීමක් පරිදි කොටුව මහෙස්ත්‍රාත් අධිකරණයෙන් නියෝගයක්ද නිකුත් කර තිබිණි.
+
+◼️
+
+[Data](articles/244e35a1.json)
+
+---
+
+### වතු වැටුප් පෙත්සම කැඳවීම නොවැම්බර්
+
+*2024-06-26 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198178) · `si`
+
+වතු කම්කරු වැටුප් වැඩි කරන ලෙස නියම කරමින් කම්කරු අමාත්‍යවරයා විසින් නිකුත් කර තිබෙන ගැසට් නිවේදනය බලරහිත කිරීමේ ආඥාවක් නිකුත් කරන ලෙස ඉල්ලා වැවිලි සමාගම් විසින් ගොනු කර තිබූ පෙත්සම නොවැම්බර් මස 08 වනදා විභාගය සඳහා කැඳවන ලෙස අභියාචනාධිකරණය අද (26) නියෝග කළේය.
+
+ආගරපතන වැවිලි සමාගම ඇතුළු වැවිලි සමාගම් 21 ක් විසින් මෙම පෙත්සම ගොනු කර තිබුණි.
+
+මෙම පෙත්සම අද අභියාචනාධිකරණ විනිසුරු සෝභිත රාජකාරණා මහතා ඉදිරියේ කැඳවනු ලැබීය.
+
+◼️
+
+[Data](articles/9a94eb30.json)
+
+---
 
 ### Sri Lanka reaches final debt restructuring agreement with creditors
 
@@ -48,17 +80,23 @@ This agreement grants significant debt relief, allowing Sri Lanka to allocate fu
 
 ---
 
-### ණය ප්‍රතිව්‍යුහගතකරණයට එකඟ වෙයි
+### Agree to restructuring of debt
 
 *2024-06-26 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198177) · `si`
 
-ශ්‍රී ලංකාව මෙරට ද්වීපාර්ශික ණයහිමියන්ගේ නිල කමිටුව සමග අමෙරිකානු ඩොලර් බිලියන 5.8ක ණය ප්‍රතිව්‍යුහගතකරණ අවසන් එකඟතාවට එළඹී තිබේ.
+Sri Lanka finalized a $5.8 billion debt restructuring deal with its bilateral creditors, securing significant debt relief to fund essential public services and development projects.
 
-මෙම ගිවිසුම මගින් ශ්‍රී ලංකාවට කැපී පෙනෙන ණය සහනයක් හිමිවන අතර අත්‍යවශ්‍ය මහජන සේවාවන් පවත්වා ගැනීමටත් සංවර්ධන අවශ්‍යතා සඳහා මූල්‍ය පහසුකම් සපයා ගැනීමටත් හැකිවන බව ජනාධිපති මාධ්‍ය අංශය වැඩිදුරටත් සඳහන් කරයි.
+🟩
+
+Sri Lanka has reached the final agreement of US $ 5.8 billion debts with the official committee of bilateral creditors in the country.
+
+The agreement provides significant debt relief to Sri Lanka and will be able to provide essential public services and facilitate development needs.
 
 ◼️
 
 [Data](articles/7b56e560.json)
+
+[Extended Data](ext_articles/7b56e560.ext.json)
 
 ---
 
@@ -206,6 +244,20 @@ Accordingly, the Ministry of Finance, the Secretary to the Ministry of Finance, 
 
 ---
 
+### කොළඹ කොටුව උණුසුම්
+
+*2024-06-26 13:19:38* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-කොටුව-උණුසුම්/11-410449) · `si`
+
+ගුරු - විදුහල්පති විරෝධතාවය හේතුවෙන් කොළඹ කොටුව දුම්රියපොළ ඉදිරිපිට මාර්ගය අවහිර වී ඇති බව වාර්තා වෙයි.
+
+කොම්පඤ්ඤවීදිය පොලීසිය අධිකරණයෙන් කළ ඉල්ලීමක් අනුව විරෝධතාවයට එක්වන ජෝසප් ස්ටාර්ලින්, මහින්ද ජයසිංහ, අමිල සඳරුවන්, වාස් ගුණවර්ධන, පූජ්‍ය උලපනේ සුමංගල හිමි, මයුර සේනානායක, පූජ්‍ය යල්වල පඤ්ඤාසේකර හිමි, පුංචිහෙට්ටි, මොහාන් පරාක්‍රම වීරසිංහ සහ ඉහත නම් සඳහන් අයගේ සාමාජිකයින් වෙත කොටුව මහෙස්ත්‍රාත් අධිකරණයෙන් ආඥාවක් ද නිකුත් කර තිබේ.
+
+...
+
+[Data](articles/9cbf926e.json)
+
+---
+
 ### Tear
 
 *2024-06-26 13:11:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிபர்-ஆசிரியர்கள்-மீது-கண்ணீர்ப்புகை-பிரயோகம்/175-339468) · `ta`
@@ -265,6 +317,24 @@ The court also prohibited them from entering the Finance Ministry, President’s
 [Data](articles/e2970821.json)
 
 [Extended Data](ext_articles/e2970821.ext.json)
+
+---
+
+### පිසා ඇණවුමක් හරහා කොටුකරගත් මහා පරිමාණ සයිබර් ජාවාරම
+
+*2024-06-26 12:58:05* · [`adalk`](https://www.ada.lk/breaking_news/පිසා-ඇණවුමක්-හරහා-කොටුකරගත්-මහා-පරිමාණ-සයිබර්-ජාවාරම/11-410448) · `si`
+
+ලොව රටවල් කිහිපයක් ඉලක්ක කරගනිමින් මීගමුව ප්‍රදේශයේ පවත්වාගෙන ගිය මහාපරිමාණ අන්තර්ජාල මූල්‍ය වංචාවකට සම්බන්ධ විදේශිකයන් ඇතුළු පුද්ගලයන් 33 කු අත්අඩංගුවට ගත් බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කියයි.
+
+සැකකරුවන් සහ සැකකාරියන් සමඟ මහා පරිමාණ මූල්‍ය වංචාව සඳහා යොදාගත් ජංගම දුරකථන 109 ක් පරිගණක 46 ක් හා ලැෆ් ටොෆ් පරිගණක 3 ක් පොලිස් භාරයට ගෙන ඇත.
+
+එම සැකකරුවන් සහ සැකකාරියන් අතර පාකිස්ථාන ඇල්ජීරියා නේපාල් ඉන්දුනීසියා හා ශ්‍රී ලාංකිකයන් ද වන බව පොලිසිය සඳහන් කරයි.
+
+නාඳුනන පුද්ගලයෙකු විසින් වට්ස්ඇප් සමූහයකට තමන්ව  එක්කරගත් අතර  ටික්ටොක් සමාජ මාධ්‍ය ජාලයේ වීඩියෝ සඳහා ලයික් හා කමෙන්ට් දැමීමෙන් මුදල් ඉපැයිය හැකි බවට එම සමූහය මගින් දැනුම්දුන් බවත් එලෙස ලයික් සහ කමෙන්ට් කිරීම වෙනුවෙන් අවස්ථා කිහිපයකදී  තමන්ට රුපියල් 750 බැගින් මුදල් ලැබුණු බව ඉකුත් 13 වෙනි දින කාන්තාවක් විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු වෙත පැමිණිලි කර තිබිණි.
+
+...
+
+[Data](articles/f62fbbe1.json)
 
 ---
 
@@ -2219,97 +2289,5 @@ The President is the head of state and government in many countries, responsible
 [Data](articles/66d7b7be.json)
 
 [Extended Data](ext_articles/66d7b7be.ext.json)
-
----
-
-### Give officers' information about work
-
-*2024-06-25 20:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198150) · `si`
-
-President Ranil Wickremesinghe calls for immediate reporting of officers undermining land laws during his address at the Ampara District "Heritage Debate" ceremony. He emphasizes the importance of protecting public land rights and presents land deeds worth Rs. 20 lakhs to 1,758 eligible individuals under the program.
-
-🟩
-
-President Ranil Wickremesinghe urges the people and the public representatives to immediately give information about the officers who are trying to sabotage the provisions of the Land Command.
-
-Addressing the Ampara District Ceremony of the "Heritage Debate" National Program, the President said that no one would allow anyone to deprive the ownership of the people to obtain the land of the land.
-
-The President was presented to the people of Weerasinghe, Ampara under the "heritage" National Program of the "Heritage" National Program for providing Rs. 20 lakhs of land deeds.
-
-Of the 20,000 qualification, 1,758 people were figuratively awarded land deeds.
-
-◼️
-
-[Data](articles/a614b481.json)
-
-[Extended Data](ext_articles/a614b481.ext.json)
-
----
-
-### President Ranil Wickremesinghe has introduced women's reinforcement law in Sri Lankan history - Geeta Kumarasinghe
-
-*2024-06-25 20:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/186975) · `ta`
-
-Sri Lanka's President Ranil Wickremesinghe introduced a historic women's reinforcement law, marking the first time such legislation has been enacted in the country's political history. Led by Minister of State for Women and Child Affairs Geeta Kumarasinghe, the law aims to enhance women's rights and status, establish a national policy for women's advancement, and create mechanisms for protecting women's rights, including a National Women's Commission. It also addresses gender and sexual discrimination, setting a precedent for future legislative efforts to empower women.
-
-🟩
-
-Minister of State for Women and Child Affairs Geeta Kumarasinghe said that there was no bill on women's rights and women's status in Sri Lanka's political history.
-
-The Minister of State also pointed out that the women's reinforcement bill presented in Parliament on the instructions of President Ranil Wickremesinghe has been passed.
-
-Minister of Women and Child Affairs Geeta Kumarasinghe made this statement while addressing a press conference held at the Presidential Media Center on Tuesday (25).
-
-“The Women's Reinforcement Act has been passed in Parliament. In the political history of Sri Lanka, no law has been enacted to provide women's rights or equal status to women. Through this law, a national policy will be prepared for women's progress to make arrangements for strengthening women.
-
-...
-
-[Data](articles/d7469e32.json)
-
-[Extended Data](ext_articles/d7469e32.ext.json)
-
----
-
-### How ISMM could contribute towards the eradication of corruption
-
-*2024-06-25 20:07:00* · [`islandlk`](http://island.lk/how-ismm-could-contribute-towards-the-eradication-of-corruption/) · `en`
-
-The Institute of Supply and Materials Management (ISMM) in Sri Lanka holds a unique and important position in shaping the country’s supply chain and procurement practices. As the founder and government-recognized institute in the field, ISMM’s role extends beyond education and training to include consultancy and advocacy for best practices in supply chain management.
-
-The pressing need for a robust procurement law in Sri Lanka to eradicate corruption presents a significant opportunity for ISMM to leverage its resources, expertise, and influence.
-
-...
-
-[Data](articles/cc794a5a.json)
-
-[Extended Data](ext_articles/cc794a5a.ext.json)
-
----
-
-### Rs.. A robbery of the crores
-
-*2024-06-25 20:03:46* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගයේ-රු--කෝටි-ගණනාවක-කොල්ලයක්/11-410440) · `si`
-
-A major cash fraud involving millions was uncovered at the Athurugiriya Interchange Center, allegedly orchestrated by 27 employees disabling security cameras to facilitate theft. The scheme came to light in early 2024, with preliminary investigations suggesting it began in 2020. The incident led to the suspension of several employees and a review by the Road Development Authority and COPE.
-
-🟩
-
-Director General of Road Development Authority S.S.. P. M. Suriya Bandara said
-
-Deputy Director General of Directors, Express Obsposition and Management Division (Director General) approval of the Director General. H. The ban was banned by Mr. Gunasinghe.
-
-Preliminary investigations have revealed that the large scale cash fraud was to be used by the use of an increase in electricity in 2020.
-
-Investigations have revealed that 27 employees of the Interchange Center at Athurugiriya and 22 of them have been revealed.
-
-It has been revealed that the large scale cash fraud has been committed by those who come to the customers who come to leave the Athurium Interchange Center after the proportional cameras have been discharged by the employees.
-
-Investigations have revealed that the offenses of the security cameras have been disabled in a few days of January 2024
-
-...
-
-[Data](articles/ffe71e66.json)
-
-[Extended Data](ext_articles/ffe71e66.ext.json)
 
 ---

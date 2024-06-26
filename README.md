@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 00:34:40**
+As of **2024-06-27 00:51:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,334 (100.0%) of 32,344 articles have been extended.
+32,340 (100.0%) of 32,344 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -796,6 +796,8 @@ ECONOMYNEXT – Sri Lanka signed debt treatment deal in Beijing a short while ag
 
 [Data](articles/88e84be6.json)
 
+[Extended Data](ext_articles/88e84be6.ext.json)
+
 ---
 
 ### US urges Sri Lanka to continue fiscal reforms with transparent and sustainable changes
@@ -882,6 +884,8 @@ Relation IMF urges Maldives to halt money printing to keep dollar peg amid ‘de
 
 [Data](articles/0fe8cc24.json)
 
+[Extended Data](ext_articles/0fe8cc24.ext.json)
+
 ---
 
 ### 6 crores arrested with golden gel
@@ -951,6 +955,8 @@ State Minister of Finance Shehan Semasinsghe tweeted from Paris Wednesday aftern
 ...
 
 [Data](articles/012797d8.json)
+
+[Extended Data](ext_articles/012797d8.ext.json)
 
 ---
 
@@ -1032,6 +1038,8 @@ ECONOMYNEXT – Sri Lanka has reached a final agreement on the China’s bilater
 
 [Data](articles/b4d9dfff.json)
 
+[Extended Data](ext_articles/b4d9dfff.ext.json)
+
 ---
 
 ### President assembled by the Cabinet
@@ -1076,6 +1084,8 @@ A bond maturing on 01.12.2031 closed at 12.05/25 percent, from 12.10/20 percent.
 
 [Data](articles/b03dd5a2.json)
 
+[Extended Data](ext_articles/b03dd5a2.ext.json)
+
 ---
 
 ### Sri Lanka stocks close down, retail investors hold back
@@ -1097,6 +1107,8 @@ Sri Lanka announced that it had reached a ‘final restructuring agreement’ on
 ...
 
 [Data](articles/3127f653.json)
+
+[Extended Data](ext_articles/3127f653.ext.json)
 
 ---
 

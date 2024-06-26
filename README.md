@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 10:19:29**
+As of **2024-06-26 10:34:45**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 5,283
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,204 (100.0%) of 32,206 articles have been extended.
+32,206 (100.0%) of 32,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### උපකාරක පන්ති නියාමනය කළ යුතු බවට ප්‍රකාශයක්
+### A statement that tuition should be regulated
 
 *2024-06-26 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198166) · `si`
 
-ලංකවේ උපකාරක පංති කාර්මාන්තය නියාමනය කළ යුතු බව පේරාදෙණිය විශ්වවිද්‍යාලයේ ආර්ථික විද්‍යා සහ සංඛ්‍යාන අධ්‍යයන අංශයේ මහාචාර්ය වසන්ත අතුකෝරල මහතා පවසයි.
+Professor Wasantha Athukorala advocates for regulating tuition fees, highlighting the significant financial impact of tuition classes on Sri Lanka's economy. He suggests subjecting tuition to taxes and calls for state intervention to ensure quality and prevent misuse.
 
-ඔහු පවසන්නේ එම කර්මාන්තය හරහා දෙමාපියටන්ගේ රුපියල් බිලියන 200ක පමණ මුදලක් සංසරණය වන බවය.
+🟩
 
-"අද වෙනකොට පවත්නා තරගකාරී විභාග ක්‍රමය නිසා දෙමාපියන් විශාල මුදලක් වියදම් කරලා, ළමයින්ව උපකාරක පන්තිවලට යොමුකරනවා. විශේෂයෙන් 3,4,5 යන පන්තිවලත් 10,11 යන පන්තිවල හා 12,13 යන පන්තිවල ළමුන් විශාල ප්‍රමාණයක් උපකාරක පන්ති එකකට හෝ කිහිපයකට සහභාගී වෙනවා. මෙහි සමස්ත වෙළෙඳ පොළ වටිනාකම බලද්දි වාර්ෂිකව රුපියල් බිලියන 200ක විතර මුදල් හුවමාරුවක් මේ තුළ සිදුවෙනවා. මේ උපකාරක පන්ති නියාමනයක් මේ වෙද්දි සිද්ධ වෙන්නේ නෑ. උපකාරක පන්ති නියාමනයක් සිදුකර බදු දැලට යටත්වීමක් සිදුවිය යුතුයි. ඒ සඳහා රාජ්‍ය මැදිහත්වීමක් මේ වෙලාවේ අවශ්‍යයි. නොමැති නම් පාසල් අධ්‍යාපනය බිඳවැටී උපකාරක පන්තිවල ගොඳුරක් බවට පාසල් අධ්‍යාපනය පත්විය හැකියි."
+Professor Wasantha Athukorala, the Department of Economics and Statistical Studies of the University of Peradeniya should be regulate.
 
-අධ්‍යාපන අමාත්‍යාංශය මැදිහත් වී මෙම උපකාරක පංති නියාමනය කළ යුතු බව මහාචාර්ය වසන්ත අතුකෝරල මහතා  පෙන්වා දෙයි.
+He states that the industry circulates about 200 billion rupees through the industry.
+
+"Today's competitive examination system spends a lot of money and focuses children to tuition classes. In particular 3,4,5 classes and 12,13 participates in one or more tuition classes. Annual cost of Rs. 200 billion is an annual exchange of Rs. 200 billion in the total market value. The regulation of these tuing is not happening in. Subjection of tuition should be subjected to taxes. There is a state intervention in this time. School education can be studied that school education is collapsed. "
+
+Prof. Wasantha Athukorala pointed out that the Ministry of Education should intervene and regulate these tuition classes.
+
+There is a wider study, especially when parents participate in the expenditure of their tuition, and why children participate in tuition classes.
 
 ...
 
 [Data](articles/dbeecb54.json)
+
+[Extended Data](ext_articles/dbeecb54.ext.json)
 
 ---
 
@@ -1380,19 +1388,27 @@ I have responded to a number of questions raised in Parliament regarding court p
 
 ---
 
-### කොළඹ නගර සභාවට රු. කෝටි 26ක බදු පොල්ලක්
+### Colombo Municipal Council. 26 crore tax stick
 
 *2024-06-25 19:20:21* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-නගර-සභාවට-රු--කෝටි-26ක-බදු-පොල්ලක්/11-410437) · `si`
 
-කොළඹ නගරයේ රථවාහන නැවැතුම් පොළවල් පවත්වාගෙන යෑමට කොළඹ නගර සභාව විසින් අවසර දී ඇති ආයතන මේ වන විට රුපියල් කෝටි 26 කට වඩා බදු මුදල් ගෙවීම පැහැර හැර ඇති බව කොළඹ නගර සභාවේ අධ්‍යක්‍ෂ ඉංජිනේරු පී.ඒ. චන්ද්‍රපාල මහතා සඳහන් කළේය.
+The Colombo Municipal Council faces a 26 crore tax default issue, affecting traffic management. The council's director, Mr. Chandrapala, mentioned permission for 2023 but failed to maintain tax stocks. Corruption and bribery allegations involve the Citizens' Bribery and Corruption Commission. By April 30, 2024, 26 institutions will manage traffic in Colombo, with details yet to be disclosed by the Municipal Commissioner, Mr. Bhadrani Jayatilake.
 
-කොළඹ නගරයේ රථවාහන නැවැතුම් පොළවල් පවත්වාගෙන යෑමට කොළඹ නගර සභාව විසින් අවසර දී ඇති ආයතන 2023 වසර සඳහා රුපියල් කෝටි 20කට වඩා බදු මුදල් ගෙවීම පැහැර හැර තිබියදී 2024 වසර සඳහාද එම රථවාහන නැවැතුම් පොළවල් පවත්වාගෙන යෑමට එම ආයතනවලට අවසර දී ඇති බව කොළඹ නගර සභාවේ අධ්‍යක්‍ෂ ඉංජිනේරු පී.ඒ. චන්ද්‍රපාල මහතා වැඩිදුරටත් සඳහන් කළේය.
+🟩
 
-කොළඹ නගරයේ රථවාහන නැවැතුම් පොළවල් පවත්වාගෙන යෑමට අවසර දී ඇති ආයතන 26ක් එලෙස බදු මුදල් ගෙවීම පැහැර හැර ඇති බව වගුවක ආකාරයෙන් තොරතුරු දක්වමින් අල්ලස, දූෂණය හා නාස්තියට එරෙහි පුරවැසි බලය සංවිධානයේ සභාපති ජාමුනි කමන්ත තුෂාර මහතාට දැනුම් දී ඇත.
+The Director of the Colombo Municipal Council has defaulted to maintain the stock of taxes to maintain traffic stocks of traffic in Colombo.. Mr. Chandrapala said.
+
+The Director of the Colombo Municipal Council has been permitted for the year 2023 for the year 2023, the Colombo Municipal Council has been permitted for the year 2023.it. Mr. Chandrapala added.
+
+The Chairman of the Citizen of Bribery and Corruption, Jamadha Thushara has informed the Chairman of the Citizenship Organization (Organization) for the bribe, corruption and waste of institutions that have been permitted to run the tax payments in Colombo.
+
+What are the institutions that have been permitted to run the storage fairs in Colombo and the amount of taxes on April 30, 2024 as at the end of April 30th April 30?Municipal Commissioner of Colombo Urban Commissioner Bhadrani Jayatilake, responding from the UK Municipal Commissioner of Colombo Urban Council under the Information Information Act. Mr. Chandrapala has informed that.
 
 ...
 
 [Data](articles/4c3f9e03.json)
+
+[Extended Data](ext_articles/4c3f9e03.ext.json)
 
 ---
 

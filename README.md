@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 20:19:35**
+As of **2024-06-26 20:35:51**
 
 ## Newspaper Stats
 
-*Scraped **32,304** Articles*
+*Scraped **32,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,790
 economynextcom | 1,870
 dailyftlk | 1,976
 adalk | 2,856
-adaderanalk | 3,676
+adaderanalk | 3,677
 tamilmirrorlk | 3,816
 dailymirrorlk | 4,733
 virakesarilk | 5,009
@@ -26,37 +26,65 @@ adaderanasinhalalk | 5,307
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,303 (100.0%) of 32,304 articles have been extended.
+32,304 (100.0%) of 32,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### ජනාධිපති ජාතිය අමතා සිදුකරන විශේෂ ප්‍රකාශය
+### President urges all MPs to help pass agreements reached with creditor nations
+
+*2024-06-26 20:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100126/president-urges-all-mps-to-help-pass-agreements-reached-with-creditor-nations) · `en`
+
+Sri Lankan President Ranil Wickremesinghe says that today marks an important day in the country’s recent history and a unique turning point.
+
+Delivering a special address to the nation on Wednesday (26), the Head of State said that the country is benefitting from the positive results of the hard work carried out by the government in the recent past.
+
+He said that this morning, Sri Lanka reached a final restructuring agreement for USD 5.8 billion of debt with its bilateral lenders’ Official Creditor Committee in Paris, France.
+
+Meanwhile, Sri Lanka today also signed debt treatment agreements with the Export-Import Bank of China (EXIM) in Beijing to restructure USD 4.2 billion of debt.
+
+He stated that the necessary formal procedures are currently being implemented.
+
+“For those who truly love the country, this is a ‘good news’. Sri Lanka won,” he declared in the televised speech.
+
+...
+
+[Data](articles/a4d078d3.json)
+
+---
+
+### Special Statement to address the Presidential race
 
 *2024-06-26 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198190) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ජාතිය අමතා සිදු කරන විශේෂ ප්‍රකාශය ඉහත වීඩියෝවෙන් නැරඹිය හැකිය.
+President Ranil Wickremesinghe can watch the race in the above video.
 
-අද අපේ රටට වැදගත් දවසක්. ද්වි පාර්ශ්වික ණය ප්‍රතිව්‍යුහගත කිරීමේ සාකච්ඡා අද අවසන් කරමින් අවසන් එකඟත්වයකට එළඹුණා.
+Today is an important day to our country. The talks on bilateral debt reached a final agreement to end today.
 
-මේ එකඟතාවයන් සමග විදේශ රටවල සියලු ද්විපාර්ශ්වික ණය වාරික ගෙවීම 2028 වසර දක්වා කල් දමාගැනීමට අපට හැකිවෙයි.
+With these agreements, we will pay the payment of all bilateral loan installments until 2028.
 
-ඉන්පසු සහනදායි කොන්දේසි මත සියලු ණය ගෙවා අවසන් කරන්න 2043 දක්වා දිගු කාලයක් ලබා ගන්නත් අපට අවස්ථාව ලැබේවි.
+Then we will have the opportunity to pay off all debt on concessionary conditions.
 
-ඊළඟට තියෙන්නේ විදේශීය බැදුම්කර හිමියන් ද ඇතුළත් වාණිජ ණය හිමියන් සමග  එකඟතාවයකට එළඹීම.
+Next up to agree with Commercial Creditors, including Foreign Bonders.
 
-2022 වසරේ දළ දේශීය නිෂ්පාදිතයෙන් 9.2%ක ප්‍රමාණයක් විදේශ ණය ගෙවීම සඳහා වැය කිරීමට අපට සිදුවුණා.
+At 2022, we had to spend 9.2% of GDP to pay foreign debts.
 
-2027 සිට 2032 දක්වා ණය ගෙවීම දළ දේශීය නිෂ්පාදිතයෙන් 4.5% කටත් අඩු ප්‍රමාණයක් පවත්වාගෙන යෑමට දැන් ඉඩ සැලසෙනවා.
+The debt from 2027 to 2032 will now allow less than 4.5% of GDP.
 
-2022දී රජයේ වාර්ෂික දළ මූල්‍ය අවශ්‍යතා දළ දේශීය නිෂ්පාදිතයෙන් 34.6%ක්. මේ එකඟතා නිසා එය 2027 සහ 2032 කාලය වෙද්දී එය 13%කට වඩා අඩු වෙයි.
+In 2022, the annual gross financial requirements of the government amounted to 34.6% of GDP. It will reduce the less than 13% and 2032 by the agreement.
 
-2022 අප්‍රේල් මාසයේ ශ්‍රී ලංකාව ණය වෙන්න බැරි බව නිල වශයෙන් ප්‍රකාශ කළා.
+Sri Lanka was officially stated in April 2022.
+
+All the projects in our country stopped on this. Development work stopped. We can now resume all these projects using foreign funds.
+
+A number of occasional railway line and highway projects will be started.
 
 ...
 
 [Data](articles/5510bb6f.json)
+
+[Extended Data](ext_articles/5510bb6f.ext.json)
 
 ---
 
@@ -2283,29 +2311,5 @@ Heavy winds are likely to blow up to 40-50 km / h from time to time in the weste
 [Data](articles/d1b1cac2.json)
 
 [Extended Data](ext_articles/d1b1cac2.ext.json)
-
----
-
-### 30 students hospitalized in wasp attack
-
-*2024-06-26 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198162) · `si`
-
-In a wasp attack at a school in the Muttur police division, 30 students including 8 girls and a teacher were hospitalized after being stung. The incident occurred during a scholarship exam preparation session held outside the school premises.
-
-🟩
-
-30 students of a school have been hospitalized in the Muttur 5 area of ​​the Muttur police division.
-
-The police said that a group of children who appear for the scholarship have participated in the school yesterday (25).
-
-The wasp bowled out for the school and the teacher by a house to the school.
-
-There were 22 students and 8 students and the teacher was admitted to the Muttur Hospital and they are currently receiving treatment at the Muttur Hospital.
-
-◼️
-
-[Data](articles/de5b5df9.json)
-
-[Extended Data](ext_articles/de5b5df9.ext.json)
 
 ---

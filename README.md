@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 03:04:35**
+As of **2024-06-27 03:19:28**
 
 ## Newspaper Stats
 
-*Scraped **32,359** Articles*
+*Scraped **32,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,884
 dailyftlk | 1,988
 adalk | 2,862
 adaderanalk | 3,681
-tamilmirrorlk | 3,820
+tamilmirrorlk | 3,821
 dailymirrorlk | 4,733
 virakesarilk | 5,020
 adaderanasinhalalk | 5,310
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,359 (100.0%) of 32,359 articles have been extended.
+32,359 (100.0%) of 32,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### சட்டமா அதிபரின் பதவி நீடிப்பு பரிந்துரை நிராகரிப்பு
+
+*2024-06-27 02:42:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமா-அதிபரின்-பதவி-நீடிப்பு-பரிந்துரை-நிராகரிப்பு/175-339505) · `ta`
+
+சட்டமா அதிபர் சஞ்சய் ராஜரத்தினத்தின் பதவிக் காலத்தை மேலும் 6 மாதங்களுக்கு நீடிப்பதற்கான ஜனாதிபதியின் பரிந்துரை நேற்று நடந்த அரசியலமைப்பு சபைக் கூட்டத்தில் வாக்கெடுப்புக்கு எடுத்துக்கொள்ளப்பட்டது.
+
+இதன்போது எதிராக 5 வாக்குகளும், ஆதரவாக 3 வாக்குகளும் அளிக்கப்பட்ட நிலையில் குறித்த பரிந்துரை மீண்டும் நிராகரிக்கப்பட்டது. (a)
+
+◼️
+
+[Data](articles/97364a95.json)
+
+---
 
 ### Mahajana Eksath Peramuna calls on EC to inform political parties on Presidential poll 2024
 
@@ -2261,25 +2275,5 @@ Dutti Nirlai Penno, who has been guaranteed to release itself, has agreed to spy
 [Data](articles/95bd1345.json)
 
 [Extended Data](ext_articles/95bd1345.ext.json)
-
----
-
-### WikiLeaks founder Julian Assange heads to Australia after US guilty plea
-
-*2024-06-26 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100111/wikileaks-founder-julian-assange-heads-to-australia-after-us-guilty-plea) · `en`
-
-WikiLeaks founder Julian Assange walked free on Wednesday from a court on the U.S. Pacific island territory of Saipan after pleading guilty to violating U.S. espionage law in a deal that allowed him to head straight home to Australia.
-
-His release ends a 14-year legal saga in which Assange spent more than five years in a British high-security jail and seven years in asylum at the Ecuadorean embassy in London battling extradition to the U.S., where he faced 18 criminal charges.
-
-During the three-hour hearing, Assange pleaded guilty to one criminal count of conspiring to obtain and disclose classified national defence documents but said he had believed the U.S. Constitution’s First Amendment, which protects free speech, shielded his activities.
-
-“Working as a journalist I encouraged my source to provide information that was said to be classified in order to publish that information,” he told the court.
-
-...
-
-[Data](articles/38a1e25d.json)
-
-[Extended Data](ext_articles/38a1e25d.ext.json)
 
 ---

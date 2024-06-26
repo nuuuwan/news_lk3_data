@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 19:52:53**
+As of **2024-06-26 20:04:59**
 
 ## Newspaper Stats
 
-*Scraped **32,297** Articles*
+*Scraped **32,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,92 @@ newsfirstlk | 363
 islandlk | 1,790
 economynextcom | 1,870
 dailyftlk | 1,976
-adalk | 2,854
-adaderanalk | 3,675
-tamilmirrorlk | 3,814
+adalk | 2,856
+adaderanalk | 3,676
+tamilmirrorlk | 3,816
 dailymirrorlk | 4,733
 virakesarilk | 5,009
-adaderanasinhalalk | 5,305
+adaderanasinhalalk | 5,306
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,297 (100.0%) of 32,297 articles have been extended.
+32,297 (100.0%) of 32,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
+### திடீரென பதவி விலகினார் மஹேல ஜயவர்தன
+
+*2024-06-26 19:44:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-பதவி-விலகினார்-மஹேல-ஜயவர்தன/175-339485) · `ta`
+
+இலங்கை கிரிக்கெட் அணியின் முன்னாள் தலைவர மஹேல ஜயவர்தன இலங்கை கிரிக்கெட் அணியின் ஆலோசக பயிற்றுவிப்பாளர் பதவியில் இருந்து உடனடியாக அமுலுக்கு வரும் வகையில் திடீரென விலகியுள்ளார்.
+
+உடனடியாக அமுலுக்கு வரும் வகையில் அவர் தனது பதவியை ராஜினாமா செய்துள்ளதாக சிறிலங்கா கிரிக்கெட் அறிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/4b35e92d.json)
+
+---
+
+### சீனா - இலங்கைக்கு இடையில் முக்கிய ஒப்பந்தம் கைச்சாத்தானது
+
+*2024-06-26 19:41:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனா-இலங்கைக்கு-இடையில்-முக்கிய-ஒப்பந்தம்-கைச்சாத்தானது/175-339484) · `ta`
+
+இலங்கைக்கும் சீனா எக்சிம் வங்கிக்கும் இடையிலான இருதரப்பு கடன் நிவாரண ஒப்பந்தம் பெய்ஜிங்கில் இன்று (26) மாலை கைச்சாத்திடப்பட்டுள்ளது.
+
+4.2 பில்லியன் டொலர் கடனை மறுசீரமைக்க இரு தரப்பும் இறுதி உடன்பாட்டை எட்டிய பின்னர் இந்த ஒப்பந்தம் கையெழுத்தானது. R
+
+◼️
+
+[Data](articles/784559a0.json)
+
+---
+
+### මහේල ඉල්ලා අස්වෙයි
+
+*2024-06-26 19:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198189) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් පුහුණු උපදේශක තනතුරින් මහේල ජයවර්ධන මහතා ඉල්ලා අස්වූ බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+◼️
+
+[Data](articles/92b5c360.json)
+
+---
+
+### Mahela resigns as Sri Lanka consultant coach
+
+*2024-06-26 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100125/mahela-resigns-as-sri-lanka-consultant-coach) · `en`
+
+Sri Lanka Cricket (SLC) today announced that former captain Mahela Jayawardena, who served as the ‘Consultant Coach’ of the SLC, has tendered his resignation with immediate effect.
+
+Jayawardena, during his tenure, helped implement significant changes to the structure of the national team ecosystem and the High-Performance Center, the SLC said.
+
+“Sri Lanka Cricket takes this opportunity to wish Mahela all the best in his future endeavours and thank him for the services he rendered during his tenure,” the statement said.
+
+Jayawardena had initially joined SLC as a Consultant Coach in September 2022 ahead of the ICC Men’s T20 World Cup in Australia. He was in charge of the overall cricketing element of the national teams and provided invaluable strategic support for the players and management teams at the High-Performance Center.
+
+...
+
+[Data](articles/f568ea00.json)
+
+---
+
 ### Sri Lanka signs debt treatment agreement with China’s EXIM Bank
 
 *2024-06-26 18:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/100124/sri-lanka-signs-debt-treatment-agreement-with-chinas-exim-bank) · `en`
 
-Sri Lanka signed debt treatment agreements with Export-Import Bank of China (EXIM) in Beijing, a short while ago, to restructure USD 4.2 billion of debt, the President’s Media Division said.
+Sri Lanka signed debt treatment agreements with the Export-Import Bank of China (EXIM) in Beijing, a short while ago, to restructure USD 4.2 billion of debt, the President’s Media Division said.
 
 The Framework Agreement related to this was signed between Sri Lanka and China in Colombo, Sri Lanka.
 
 This restructuring provides significant debt relief, allowing Sri Lanka to allocate more funds to essential public services and resume concessional financing for critical infrastructure development, the PMD added.
 
-State Minister of Finance Shehan Semasinghe also confirmed that Sri Lanka signed debt treatment agreement with the Export-Import Bank of China to restructure USD 4.2 billion of its debt.
+State Minister of Finance Shehan Semasinghe also confirmed that Sri Lanka signed a debt treatment agreement with the Export-Import Bank of China to restructure USD 4.2 billion of its debt.
 
 “This move is part of an ongoing effort to manage the country’s financial challenges. The framework agreement for this debt treatment was signed between Sri Lanka and China in Colombo,” he posted on ‘X’.
 
@@ -91,6 +149,38 @@ Meanwhile, she added that the US encourages Sri Lanka to continue the reform pro
 [Data](articles/14920273.json)
 
 [Extended Data](ext_articles/14920273.ext.json)
+
+---
+
+### චීනයේ චන්ද්‍ර ගවේෂණයන් හි සන්ධිස්ථානගත ජයග්‍රහණයට චීන ජනපතිගෙන් සුබ පැතුම්
+
+*2024-06-26 18:20:24* · [`adalk`](https://www.ada.lk/breaking_news/චීනයේ-චන්ද්‍ර-ගවේෂණයන්-හි-සන්ධිස්ථානගත-ජයග්‍රහණයට-චීන-ජනපතිගෙන්-සුබ-පැතුම්/11-410456) · `si`
+
+චීනයේ ‘චන්ග්අ 6’ අභ්‍යවකාශ යානය  යළි පෘථිවියට ළඟාවෙයි. එම යානයේ ආපසු පැමිණීමේ කොටස චීනයේ ඇතුළු මොංගෝලියානු ස්වායත්තයේ නියමිත ප්‍රදේශයට  ගොඩබැස ඇත්තේ ඊයේ (25) පස්වරුවේ යි. චන්ද්‍රයාගේ ඈත ප්‍රදේශයෙන් ලබාගත් ‍පළමු සාම්පල එම යානය මගින් රැගෙන ඒම විශේෂත්වයකි.
+
+මේ අතර, ජනාධිපති ෂී ජින් පිං මහතා, චීනයේ චන්ද්‍ර ගවේෂණ ව්‍යාපෘතියේ “ චන්ග් අ 6 ” මෙහෙයුම් මූලස්ථානයේ ඉංජිනේරුවරුන් ඇතුළු එම මෙහෙයුමට එක්වූ සමස්ත කාර්ය මණ්ඩලය වෙත සිය උණුසුම් සුබ පැතුම් පිරිනැමීය.
+
+සඳේ ඈත ප්‍රදේශයෙන් සාම්පල පෘථිවියට රැගෙන ඒම, උසස් අභ්‍යවකාශ ගවේෂණ ශක්‍යතා සහිත රටක් නිර්මාණය කිරීමේ කාර්යයේ දී අත් කර ගැනුණු සන්ධිස්ථානගත ජයග්‍රහණයක් බව ද ජනාධිපතිවරයාගේ සුබ පැතුම් පණිවිඩයේ දැක්වේ. රටේ අභ්‍යවකාශ ගවේෂණ ව්‍යාපෘතීන් අඛණ්ඩව ඉදිරියට මෙහෙයවීම තම අපේක්ෂාව බව ද ඔහු කියාසිටී.
+
+◼️
+
+[Data](articles/d04aff10.json)
+
+---
+
+### අධ්‍යාපන අමාත්‍යාංශයෙන් විශේෂ නිවේදනයක්
+
+*2024-06-26 18:15:21* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-අමාත්‍යාංශයෙන්-විශේෂ-නිවේදනයක්/11-410455) · `si`
+
+අධ්‍යාපනය සඳහා වූ ජාතික විශ්වවිද්‍යාලයක් ආරම්භ කරන බවත් ඒ හරහා අධ්‍යාපනවේදී උපාධිධාරීන් 2028න් පසුව පාසල්වලට එක්වෙන බවත් අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසයි. එම නිවේදනය පහත පරිදි වෙයි.
+
+"1986 දී ආරම්භ කරන ලද ජාතික අධ්‍යාපන විද්‍යාපීඨ අද වන විට 19ක් ඇත. මෙම විද්‍යාපීඨවලට ඇතුළත් වන අභ්‍යාසලාභීන් ශික්ෂණලාභී ගුරුභවතුන් ලෙස වසර 03ක පුහුණුවක් ලැබීමෙන් පසුව ශ්‍රී ලංකා ගුරු සේවයට ඇතුළත්ව පාසල්වල  1-11 ශ්‍රේණිවල විවිධ විෂයන් ඉගැන්වීම සඳහා පත්කරනු ලැබේ.
+
+අධ්‍යාපනයේ ජාත්‍යන්තර ප්‍රමිතීන් පවත්වාගෙන යාම සඳහා නව ප්‍රවණතාවන්ට සරිලන පරිදි විෂයන් අනුව අධ්‍යාපනවේදී උපාධිධාරී ගුරුවරුන් ලෙස විද්‍යාපීඨ ශික්ෂණලාභින් බඳවා ගැනීමට අධ්‍යාපන අමාත්‍යාංශය විසින් කටයුතු කරමින් සිටී.
+
+...
+
+[Data](articles/87ba7d05.json)
 
 ---
 
@@ -2197,155 +2287,5 @@ In 1971 the US dollar collapsed against its specie anchor, taking the Bretton Wo
 [Data](articles/35ecd240.json)
 
 [Extended Data](ext_articles/35ecd240.ext.json)
-
----
-
-### Accident in Mankulam
-
-*2024-06-26 08:24:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மாங்குளத்தில்-கோர-விபத்து-மூவர்-சம்பவ-இடத்திலேயே-மரணம்/71-339439) · `ta`
-
-In a tragic accident on the A9 road near Mankulam, three died and two were hurt when a bus from Jaffna to Colombo collided with a lorry heading the same way. The bus, parked at the 228-kilometer mark, was hit by both the lorry and the bus. Investigations are ongoing by the Mankulam police.
-
-🟩
-
-Three persons were killed and two others were injured in an accident that occurred at around 11 pm last night on the 228th kilometer of the A9 road in Mankulam - Panankulam area.
-
-A miraculous bus traveling from Jaffna to Colombo has been parked at the 228 -kilometer area on the A9 road.
-
-At the same time, a lorry that was coming in the same direction crashed into the bus and the bus.
-
-Two driver of the lorry and another person who was traveling in the bus
-
-Mankulam police who went to the scene are conducting further investigations. Remble
-
-◼️
-
-[Data](articles/93ccbc72.json)
-
-[Extended Data](ext_articles/93ccbc72.ext.json)
-
----
-
-### Three killed in accident
-
-*2024-06-26 08:24:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மாங்குள-கோர-விபத்தில்-மூவர்-பலி/71-339439) · `ta`
-
-An accident on the A9 road near Mankulam resulted in three deaths and two injuries. A bus traveling from Jaffna to Colombo collided with a lorry heading in the same direction. Investigations are ongoing by the Mankulam police.
-
-🟩
-
-Three persons were killed and two others were injured in an accident that occurred at around 11 pm last night on the 228th kilometer of the A9 road in Mankulam - Panankulam area.
-
-A miraculous bus traveling from Jaffna to Colombo has been parked at the 228 -kilometer area on the A9 road.
-
-At the same time, a lorry that was coming in the same direction crashed into the bus and the bus.
-
-Two driver of the lorry and another person who was traveling in the bus
-
-Mankulam police who went to the scene are conducting further investigations. Remble
-
-◼️
-
-[Data](articles/cbd0aebd.json)
-
-[Extended Data](ext_articles/cbd0aebd.ext.json)
-
----
-
-### Swaligala shooting
-
-*2024-06-26 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198161) · `si`
-
-In the Swaligala shooting incident, a 38-year-old man from Dikowita was injured by a stray bullet fired from a neighbor's gun. The victim, who is married, was shot in the face and taken to Nivitigala Hospital. Police have launched an investigation into the matter.
-
-🟩
-
-Police said that investigations were initiated on information received by the police.
-
-A resident of Dikowita Watta, 38, was injured in the 38-year-old resident of the Dikowita area.
-
-The casualty is a married person and a straight gun that a neighbors wearing a safe empty had fled the face and shooting the face.
-
-The shooting was injured and admitted to the Nivitigala Hospital.
-
-◼️
-
-[Data](articles/87a18a50.json)
-
-[Extended Data](ext_articles/87a18a50.ext.json)
-
----
-
-### Three killed, several injured in lorry-bus accident on A9 road
-
-*2024-06-26 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100101/three-killed-several-injured-in-lorry-bus-accident-on-a9-road) · `en`
-
-Three persons have been reported dead, and several others were left injured after a lorry collided against a bus at Mankulam on the A9 road, the police said.
-
-Police said that the passenger bus traveling from Jaffna towards Colombo had been stopped on a side of the road due to a break down last night (25). The driver and several passengers of the bus had gotten off the bus which was being repaired when a lorry coming from the same direction crashed into the back of the bus, injuring the bus driver and other passengers on the road.
-
-The accident had occurred as the driver of the lorry lost control of the vehicle, according to police.
-
-The driver and several passengers of the bus who sustained critical injuries from the accident, have been rushed to Manakulam Hospital whereas three of them were pronounced dead upon admission to the hospital.
-
-The driver and a passenger of the lorry have also been injured and were admitted to Kilinochchi Hospital.
-
-...
-
-[Data](articles/6b8fae64.json)
-
-[Extended Data](ext_articles/6b8fae64.ext.json)
-
----
-
-### Teacher - Principals are sick
-
-*2024-06-26 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198160) · `si`
-
-Teacher-Principal unions in Sri Lanka are on strike today, affecting the start of the second school term. The General Secretary, Joseph Stalin, announced protests in Colombo. Many teachers won't attend schools due to this action, leading to disruptions across educational institutions.
-
-🟩
-
-The Teacher-Principal Trade Unions are working on a Buddhist strike today (26).
-
-The General Secretary General Joseph Stalin said that all the teacher and principals will be held in Colombo and protest protest.
-
-Teachers report today, teachers have said that they do not come to schools in many schools.
-
-The schools have launched the strike with the second school term of the children and the schools have been crying in schools.
-
-Meanwhile, the trade union action which was started by the representatives of the Government Executive Officers Association will continue today.
-
-◼️
-
-[Data](articles/0c9d1c0b.json)
-
-[Extended Data](ext_articles/0c9d1c0b.ext.json)
-
----
-
-### Flowers Hall owner hacked to death
-
-*2024-06-26 07:38:55* · [`adalk`](https://www.ada.lk/breaking_news/මල්-ශාලා-හිමිකරු-මෝටර්-රථයේදිම-කපා-කොටා-ඝාතනය-කරලා/11-410443) · `si`
-
-A 47-year-old man named Thusitha Kumara, father of four, was found dead in his car in Ambalangoda. He was hacked to death with a sharp object, and his body was discovered around 9:30 am. The incident occurred near the Flower Hall in New Reyman, Talgasugoda, Ambalangoda. The police are investigating the case.
-
-🟩
-
-The body of a person who had been discovered in a car was discovered in a car from the Ambalangoda police Division on information received by the Police Emergency Department.
-
-According to police, 47-year-old four father, three-year-old father of Thusitha Kumara, a 47-year-old resident of the Til Estate.
-
-One of the murders is a flower hall in New Reyman near the Ambalangoda Depot, Talgasugoda, Ambalangoda
-
-The victim was about 30 at 9.30 am on a telephone and said the mother of the deceased employee said.
-
-The police say that his car has been hacked to death with a sharp instrument in his cell.. Ambalangoda Police are conducting further investigations
-
-◼️
-
-[Data](articles/f60c9e3f.json)
-
-[Extended Data](ext_articles/f60c9e3f.ext.json)
 
 ---

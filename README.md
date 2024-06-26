@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 12:08:17**
+As of **2024-06-26 12:19:31**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 5,286
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,216 (100.0%) of 32,217 articles have been extended.
+32,217 (100.0%) of 32,217 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### කොළඹ - කොටුව අවහිරවෙයි
+### Colombo-box bloom
 
 *2024-06-26 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198169) · `si`
 
-කොළඹ - කොටුව දුම්රියපොළ ඉදිරිපිට මාර්ගය අවහිර වී ඇති බව අද දෙරණ වාර්තාකරු පවසයි.
+Road block near Colombo Fort Railway Station prevents Ada Derana reporter from proceeding.
+
+🟩
+
+The road in front of the Colombo Fort Railway Station has blocked the Ada Derana reporter, Ada Derana reporter said.
 
 ◼️
 
 [Data](articles/9c2121b8.json)
+
+[Extended Data](ext_articles/9c2121b8.ext.json)
 
 ---
 

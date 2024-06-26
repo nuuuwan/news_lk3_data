@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 01:35:47**
+As of **2024-06-27 01:54:13**
 
 ## Newspaper Stats
 
-*Scraped **32,349** Articles*
+*Scraped **32,354** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 318
 newsfirstlk | 363
 islandlk | 1,790
 economynextcom | 1,884
-dailyftlk | 1,978
+dailyftlk | 1,983
 adalk | 2,862
 adaderanalk | 3,681
 tamilmirrorlk | 3,820
@@ -26,23 +26,111 @@ adaderanasinhalalk | 5,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,347 (100.0%) of 32,349 articles have been extended.
+32,349 (100.0%) of 32,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### ஜனாதிபதி கொண்டு வந்த பிரேரணை மீண்டும் தோற்கடிக்கப்படும்
+### Sri Lanka Mission in Brazil promotes trade, tourism and investment ties with State of Rio de Janeiro
 
-*2024-06-27 01:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/187058) · `ta`
+*2024-06-27 01:25:19* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Mission-in-Brazil-promotes-trade-tourism-and-investment-ties-with-State-of-Rio-de-Janeiro/34-763539) · `en`
 
-சட்டமா அதிபர் சஞ்சய் ராஜரத்தினத்தின் பதவிக்காலத்தை மேலும் 6 மாதங்களுக்கு நீடிப்பதற்கான ஜனாதிபதியின் யோசனையை அரசியலமைப்பு பேரவை மீண்டும் நிராகரித்துள்ளது.
+The Ambassador of Sri Lanka to the Federative Republic of Brazil, Sumith Dassanayake, had an official visit to Rio de Janeiro with a view to boosting trade, tourism and investment ties between Sri Lanka and the State of Rio de Janeiro which is the crypto economic hub of Brazil and the second largest economy of the country with a population of 17.5 million. The visit took place from 12 to 13 June 2024.
 
-இதன்படி குறித்த பிரேரணைக்கு எதிராக 5 பாராளுமன்ற உறுப்பினர்களும், ஆதரவாக 3 பாராளுமன்ற உறுப்பினர்களும் வாக்களித்தனமை குறிப்பிடத்தக்கது.
+During the visit, Ambassador Sumith Dassanayake had a meeting with the First Vice President of the Federation of Foreign Trade Chambers of Brazil (FCCE), Marco Aurelio Kuhner, at the Chamber’s Headquarters.
+
+...
+
+[Data](articles/bb10966d.json)
+
+---
+
+### Seroshi awarded prestigious Eisenhower Fellowships’ Women’s Leadership 2024
+
+*2024-06-27 01:24:28* · [`dailyftlk`](https://www.ft.lk/business/Seroshi-awarded-prestigious-Eisenhower-Fellowships-Women-s-Leadership-2024/34-763538) · `en`
+
+The Women’s International Foundation (WIF) yesterday announced that WIF Founder and Chairperson Seroshi Nandasiri has been honoured with the prestigious Eisenhower Fellowships’ 2024 Women’s Leadership Program award.
+
+This program, now in its fourth iteration since 2010, is dedicated exclusively to connecting and empowering women leaders worldwide, preparing them for the critical role women play in addressing global challenges. Nandasiri’s selection is a testament to her impactful work and the growing influence of WIF in Sri Lanka.
+
+This platform will facilitate the sharing of global knowledge and best practices with local women’s networks, connecting them to a broader global community. Consequently, an entire network of women entrepreneurs and leaders will benefit from this award, creating a significant ripple effect.
+
+...
+
+[Data](articles/e5a3d9c3.json)
+
+---
+
+### The proposal brought by the president will be again defeated
+
+*2024-06-27 01:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/187058) · `ta`
+
+The President's proposal to extend Attorney Sanjay Rajaratnam's term was rejected by the Constituent Assembly, despite support from 5 MPs and three MPs.
+
+🟩
+
+The Constituent Assembly has rejected the president's idea of ​​extending the tenure of Attorney Sanjay Rajaratnam for a further six months.
+
+It is noteworthy that 5 MPs and three MPs voted in favor of the proposal.
 
 ◼️
 
 [Data](articles/1424b4c9.json)
+
+[Extended Data](ext_articles/1424b4c9.ext.json)
+
+---
+
+### JAT Holdings appoints three Directors for R&D, Marketing and Bangladesh operations
+
+*2024-06-27 01:22:14* · [`dailyftlk`](https://www.ft.lk/business/JAT-Holdings-appoints-three-Directors-for-R-D-Marketing-and-Bangladesh-operations/34-763537) · `en`
+
+JAT Holdings PLC, has announced the appointment of three new Directors (Non Board Directors): Ajith Bandara as Director - Research and Development, Dilshan Rodrigo as Director Marketing and Shamara Wanniarachchi as Director/Country Head- Bangladesh.
+
+These additions bring a wealth of expertise and experience to their respective domains, offering strategic support to JAT Holdings’ growth objectives and expansion plans. The Company is market leader in wood coatings and paint products and emerging regional conglomerate.
+
+CEO Nishal Ferdinando said: “We are delighted to welcome Ajith Bandara, Dilshan Rodrigo and Shamara Wanniarachchi to our team of Directors. Their exceptional skills and expertise will be vital in driving our growth objectives and expanding our presence in focus markets. We are confident that their diverse talents and proven track records will be invaluable assets as we shape the future of JAT Holdings.”
+
+...
+
+[Data](articles/c5e12a8b.json)
+
+---
+
+### Southern India participates in Industry Expo 2024 in Sri Lanka
+
+*2024-06-27 01:17:11* · [`dailyftlk`](https://www.ft.lk/business/Southern-India-participates-in-Industry-Expo-2024-in-Sri-Lanka/34-763536) · `en`
+
+Deputy High Commissioner of Sri Lanka in Southern India, Dr. D. Venkateshwaran, led a delegation of 99 representatives from Southern India to the International Industry Expo 2024 which was held from 19 to 23 June at the Bandaranaike Memorial International Conference Hall (BMICH) in Colombo. The event was organised by the Ministry of Industries and the Industrial Development Board (IDB) with a view to fostering international business relations and promoting industrial collaboration among nations.
+
+The South Indian delegation engaged in various B2B meetings and had meetings with Health and Industries Minister Dr. Ramesh Pathirana along with other senior officials of the Ministry of Industries at the exhibition.
+
+...
+
+[Data](articles/ca8d61d9.json)
+
+---
+
+### President declares Sri Lanka’s successful navigation away from bankruptcy
+
+*2024-06-27 01:11:51* · [`dailyftlk`](https://www.ft.lk/news/President-declares-Sri-Lanka-s-successful-navigation-away-from-bankruptcy/56-763535) · `en`
+
+The future does not merely belong to Ranil Wickremesinghe; it pertains to the country, to your future, and the future of our children. In just two years, without a parliamentary majority, without my appointed government officials or ministers, I successfully elevated our country from bankruptcy and economic turmoil to a position that astonished the world
+
+Says Sri Lanka's successful restructuring of foreign debt is a good news for all who care about the country
+
+While some are struggling for the presidency, I struggle for the nation
+
+The child, referred to as Mother Lanka, was safely carried across the perilous vine bridge
+
+Just like in the story of the ‘Caucasian chalk circle’, those who provided no support in protecting the child are now fighting for the child's rights
+
+We are all aware of the risks associated with choosing the wrong path. Individuals have the right to make informed decisions
+
+...
+
+[Data](articles/661ae823.json)
 
 ---
 
@@ -70,21 +158,27 @@ Japan, India and France led the official credit provide group. There were other 
 
 ---
 
-### அடுத்த இரண்டு பெரும்போக நெல் பயிர்ச்செய்கைக்கு MOP உரம் இலவசம் - அமைச்சர் மஹிந்த அமரவீர
+### MOP fertilizer free for the next two major paddy cultivation - Minister Mahinda Amaraweera
 
 *2024-06-27 00:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/187057) · `ta`
 
-ஜூலை 01ஆம் திகதி முதல் 07ஆம் திகதி வரை இளைஞர் விவசாய தொழில்முனைவோர் கிராம வேலைத்திட்டத்தை நடைமுறைப்படுத்துவதற்காக தேசிய வாரமொன்று அறிவிக்கப்படவுள்ளதாக கமத்தொழில் மற்றும் பெருந்தோட்டக் கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர தெரிவித்தார்.
+Minister Mahinda Amaraweera announced a national week for the Youth Agricultural Entrepreneurship Rural Program from July 01 to 07, aiming to boost youth involvement in agriculture. The government will provide MOP fertilizer for free for the next two major paddy cultivations. Additionally, efforts are underway to increase paddy yield through technical measures and special projects, address climate-induced crop damage, and ensure self-sufficiency in egg, milk, and corn production. A new project to enhance egg production has been initiated, and steps are being taken to reduce the cost of coconut oil imports. The government has secured 55,000 metric tons of MOP fertilizer from the UN Food and Agriculture Institute to support paddy farmers, alongside subsidizing tea cultivation fertilizers.
 
-நெற் பயிச்செய்கைக்குத் தேவையான MOP  உரத்தை அடுத்த இரண்டு பெரும் போகங்களுக்கு விவசாயிகளுக்கு இலவசமாக வழங்க அரசாங்கம் தீர்மானித்துள்ளதாகவும் அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (26) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் மஹிந்த அமரவீர இதனைத் தெரிவித்தார்.
+Minister of State for Industry and Plantation Industries Mahinda Amaraweera said that a national week will be announced to implement the Youth Agricultural Entrepreneurship Rural Program from July 01 to 07.
 
-“விவசாயம் மற்றும் பெருந்தோட்டக் கைத்தொழில் அமைச்சு, இளைஞர் சமூகத்தை விவசாயத்துறைக்கு ஈர்க்கும் வகையில் பல வேலைத்திட்டங்களை ஆரம்பித்துள்ளது. அது தொடர்பில் நாட்டின் 25 மாவட்டங்களை உள்ளடக்கிய 160 கிராமங்களை தெரிவு செய்து இளைஞர் விவசாய தொழில்முனைவோர் கிராமத் திட்டங்களை ஆரம்பிக்க அனைத்து ஏற்பாடுகளும் செய்யப்பட்டுள்ளன.
+The Minister said that the government has decided to provide the MOP fertilizer for the paddy field for the next two biggest boys.
+
+Minister Mahinda Amaraweera made this statement at a media briefing held at the Presidential Media Center on Wednesday (26).
+
+“The Ministry of Agriculture and Plantation Industries has launched a number of programs to attract the youth community to the agriculture sector.. In this regard, all arrangements have been made to select 160 villages in the country, including the start of the youth agricultural entrepreneurs.
 
 ...
 
 [Data](articles/b66ab275.json)
+
+[Extended Data](ext_articles/b66ab275.ext.json)
 
 ---
 
@@ -2211,117 +2305,5 @@ The senior management of the Ceylon Petroleum Corporation and the Minister of Ce
 [Data](articles/6de56382.json)
 
 [Extended Data](ext_articles/6de56382.ext.json)
-
----
-
-### Colombo Fort warm
-
-*2024-06-26 13:19:38* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-කොටුව-උණුසුම්-තත්වයක්/11-410449) · `si`
-
-Protests in Colombo Fort involve road blockades, police action with water cannons and tear gas, and demonstrations across several areas including Lotus Road. Key figures like Fort Sandiyananayake and religious leaders have issued statements. The Ministry of Finance and its Secretary have been mentioned, along with instructions related to movement around the area. A court order permits peaceful demonstrations but restricts entry into certain zones.
-
-🟩
-
-The road has been blocked by the Colombo Fort Railway Station. Meanwhile, police have also attacked water and tear gas.
-
-The protest has now been created in the Fort, Lotus Road and other areas.
-
-Fort Sandiyananayake, Punchiutti, Vass Gunawardena, Ven. Ulapene Sandarrama, Ven. Yalli Sandiyakara and Ven.Issued.
-
-Accordingly, the Ministry of Finance, the Secretary to the Ministry of Finance, to NSA roundabout from the Fort and Sabarakara from the NSA roundabout from NSA roundabout from NSA roundabout.The court order not to enter the legal permission of legal permission only to hand over the Meadays. Meanwhile, the court order is said that this order has no obstacle to the main right of a peaceful demonstration without illegal behavior.
-
-◼️
-
-[Data](articles/58a82115.json)
-
-[Extended Data](ext_articles/58a82115.ext.json)
-
----
-
-### Colombo Fort warm
-
-*2024-06-26 13:19:38* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-කොටුව-උණුසුම්/11-410449) · `si`
-
-Teachers' principals protested, blocking roads near Colombo Fort Railway Station. The Ministry of Finance and others were issued court orders regarding legal permissions for protests, allowing peaceful demonstrations without illegal actions.
-
-🟩
-
-It is reported that the road in front of the Fort Railway Station has been blocked due to protest of the Teachers' Principals.
-
-Fort Sandiyananayake, Punchiutti, Vass Gunawardena, Ven. Ulapene Sandarrama, Ven. Yalli Sandiyakara and Ven.Issued.
-
-Accordingly, the Ministry of Finance, the Secretary to the Ministry of Finance, to NSA roundabout from the Fort and Sabarakara from the NSA roundabout from NSA roundabout from NSA roundabout.The court order not to enter the legal permission of legal permission only to hand over the Meadays. Meanwhile, the court order is said that this order has no obstacle to the main right of a peaceful demonstration without illegal behavior.
-
-◼️
-
-[Data](articles/9cbf926e.json)
-
-[Extended Data](ext_articles/9cbf926e.ext.json)
-
----
-
-### Tear
-
-*2024-06-26 13:11:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிபர்-ஆசிரியர்கள்-மீது-கண்ணீர்ப்புகை-பிரயோகம்/175-339468) · `ta`
-
-Members of the Teachers and Principals' Association are using tear gas and waterproofing materials near the Fort Railway Station, likely for safety or maintenance purposes.
-
-🟩
-
-Teachers and Principals' Association members have been using tear gas and waterproofing near the Fort Railway Station.
-
-◼️
-
-[Data](articles/45dae9ed.json)
-
-[Extended Data](ext_articles/45dae9ed.ext.json)
-
----
-
-### International Court of Appeal against Russian officials
-
-*2024-06-26 13:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/186999) · `ta`
-
-The International Criminal Court (ICC) has accused Russia's former defense minister and a security chief of war crimes in Ukraine, including attacks on civilians and infrastructure. Despite the ICC's warrant, their arrest is unlikely as they remain in Russia, which hasn't ratified the Rome Statute.
-
-🟩
-
-The International Criminal Court has issued a statement against Russia's former defense minister for war crimes in Ukraine.
-
-The International Court of Justice has issued a war against Russian authorities for an attack on Ukraine's civil infrastructure and power plants during Russia's invasion of Ukraine.
-
-Former Defense Minister Sergisoiku and security chief Valeri Gerazimo were involved in war crimes by the attack on civilians, damaging the public, and damaging the public.
-
-Although the Hack Court has issued a war against them, they are less likely to be arrested because they are in Russia. The Guardian said that Russia did not sign the Rombrakatanam.
-
-◼️
-
-[Data](articles/1ab95c1b.json)
-
-[Extended Data](ext_articles/1ab95c1b.ext.json)
-
----
-
-### Asanja goes to home country
-
-*2024-06-26 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198173) · `si`
-
-Azanja, charged with revealing U.S. secrets, was extradited from Britain to face charges in the U.S., where he confessed guilt and received a prison sentence.
-
-🟩
-
-Juliyan Azanja left for his homeland, Australia, and her freedoms in the midst of the midstairs stress and prison.
-
-He was charged with the revelation of the US secret information, and a Amantican referee was released today (26).
-
-A special flight in a British cell for about five years was taken to Cachan Island in the United States of America.
-
-He pleaded his guilty and was sentenced to the time of prisons.
-
-◼️
-
-[Data](articles/47127760.json)
-
-[Extended Data](ext_articles/47127760.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 07:00:52**
+As of **2024-06-26 07:24:14**
 
 ## Newspaper Stats
 
-*Scraped **32,182** Articles*
+*Scraped **32,184** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,63 @@ adaderanalk | 3,653
 tamilmirrorlk | 3,792
 dailymirrorlk | 4,733
 virakesarilk | 4,992
-adaderanasinhalalk | 5,274
+adaderanasinhalalk | 5,276
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,168 (100.0%) of 32,182 articles have been extended.
+32,170 (100.0%) of 32,184 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### මාන්කුලමේ බිහිසුණු අනතුරක්
+
+*2024-06-26 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198158) · `si`
+
+මාන්කුලම් පොලිස් වසමේ මහනුවර - යාපනය ඒ 9 මාර්ගයේ පනිච්චන්කුලම් ප්‍රදේශයේ දී සිදුවු රිය අනතුරකින් පුද්ගලයින් තිදෙනෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+යාපනය දෙස සිට කොළඹ දෙසට ධාවනය වූ බස් රථයක් ආපදාවකට ලක්ව ඇති අවස්ථාවක රියදුරු සහ එහි සිටි මගීන් කිහිපදෙනෙකු බස් රථයෙන් බැස එය අලුත්වැඩියා සිදුකරමින් සිටිය දී එම දිසාවෙන් ම පැමිණි ලොරි රථයක් රියදුරුට පාලනය කර ගැනීමට නොහැකිව ආපදාවට පත් බස් රථයේ පිටුපස ගැටී අනතුර සිදුව ඇතැයි පොලීසිය පැවසීය.
+
+එම අවස්ථාවේ දී බස් රථයේ රියදුරු සහ මගීන් කිහිපදෙනෙක් අනතුරට ලක්ව තිබේ.
+
+බස් රථයේ රියදුරු හා මගීන් කිහිපදෙනෙකු බරපතළ තුවාල ලැබීමත් සමග ඊයේ (25) රාත්‍රීයේ ම  මානකුලම රෝහලට ඇතුළත් කර ඇති අතර එම අවස්ථාවේ දී තිදෙනෙක් ජීවිතක්ෂයට පත්ව ඇත.
+
+ලොරි රථයේ රියදුරු හා මගියෙකු තුවාල ලබා කිලිනොච්චිය රෝහලට ඇතුළත් කර තිබේ.
+
+අනතුරින් අවුරුදු 39ක් වූ යාපනය ප්‍රදේශයේ පදිංචිකරුවෙක් වූ බස් රථයේ රියදුරු හා අනන්‍යතාවය තහවුරු කරගැනීමට නොහැකි තවත් පුද්ගලයින් දෙදෙනෙක් ජීවිතක්ෂයට පත්ව ඇත.
+
+◼️
+
+[Data](articles/6c70a7a8.json)
+
+---
+
+### ඉදිරි පැය 24 ගැන කාලගුණයෙන් රතු නිවේදනයක්
+
+*2024-06-26 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198155) · `si`
+
+තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව මඟින් නිකුත් කර තිබේ.
+
+එම නිවේදනය අද අලුයම 3.30 නිකුත් කර ඇති අතර ඉදිරි පැය 24 සඳහා බලපැවැත්වේ.
+
+ඒ අනුව අරාබි මුහුද ප්‍රදේශයේ ක්‍රියාකරන බහුදින ධීවර හා නාවික ප්‍රජාව සඳහා වඩාත් සැලකිලිමත් වන ලෙස අදාළ නිවේදනයේ දැක්වේ.
+
+සක්‍රීය නිරිතදිග මෝසම් කාලගුණ තත්ත්වය හේතුවෙන් අරාබි මුහුදු ප්‍රදේශයේ ඉතා තද සුළං පැ.කි.මී 65 - 75 දක්වා ඇති විය හැකි අතර මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+මේ අතර බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකිය.
+
+සබරගමුව පළාතේත්, කුරුණෑගල, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇති වේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇති වේ.
+
+◼️
+
+[Data](articles/f3e8deb7.json)
+
+---
 
 ### Sri Lanka’s solitary non-Govigama Prime Minister and President
 
@@ -60,6 +106,8 @@ On the economic front, the current IMF program is now backed, to varying degrees
 
 [Data](articles/7297c29a.json)
 
+[Extended Data](ext_articles/7297c29a.ext.json)
+
 ---
 
 ### Corporate Governance Listing Rules on Board policies
@@ -73,6 +121,8 @@ Under the new Corporate Governance Listing Rules, it is mandatory for all compan
 ...
 
 [Data](articles/8c7e7e83.json)
+
+[Extended Data](ext_articles/8c7e7e83.ext.json)
 
 ---
 
@@ -2231,47 +2281,5 @@ Despite many theories about how the bridge was formed, geographical evidence sug
 [Data](articles/746154a4.json)
 
 [Extended Data](ext_articles/746154a4.ext.json)
-
----
-
-### Cabinet approves debt restructuring agreements with Paris Club & other stakeholders
-
-*2024-06-25 13:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100090/cabinet-approves-debt-restructuring-agreements-with-paris-club-other-stakeholders) · `en`
-
-The Cabinet of Ministers has approved the signing of debt restructuring agreements with Paris Club and other stakeholders, Cabinet Spokesperson, Minister Bandula Gunawardana said.
-
-Speaking during the Cabinet press briefing held today (25), Minister Gunawardana said the relevant agreements will be signed tomorrow (26).
-
-A Sri Lankan delegation comprising the Secretary of the Finance Ministry, State Ministers and other relevant officials have left for France for the discussions with the Paris Club group of major creditor countries.
-
-Furthermore, the Cabinet Spokesman stated that President Ranil Wickremesinghe assured, during the Cabinet meeting, that detailed information regarding all the agreements being signed in this manner will be submitted to the Parliament.
-
-He said that additionally, President also mentioned this ‘good news’ will be communicated to all the people of the country in the President’s address to the nation.
-
-...
-
-[Data](articles/08dbb4de.json)
-
-[Extended Data](ext_articles/08dbb4de.ext.json)
-
----
-
-### Sri Lanka to publish revised draft bill amending Mediation Board Act
-
-*2024-06-25 13:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-publish-revised-draft-bill-amending-mediation-board-act-169462/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s cabinet of ministers has approved a proposal to publish a revised draft bill to amend Section 7 of the Mediation Board Act.
-
-The cabinet had previously approved a proposal to amend Section 7 of the Mediation Board Act No. 72 of 1988 to mandate court appearances when mediation is not agreed upon by both parties. It would also deal with administrative issues such as delays in issuing non-clearance certificates by mediation boards and the lack of established or operational mediation boards.
-
-The Government Information Department said on Tuesday June 25 that the Legal Draftsman has drafted the revised bill which the Attorney General has already cleared.
-
-The cabinet of ministers has thus approved a proposal by Minister of Justice, Prison Affairs and Constitutional Reforms Wijeyadasa Rajapakshe to publish the draft bill in the government gazette and present it to parliament for its approval.
-
-...
-
-[Data](articles/7d0b4095.json)
-
-[Extended Data](ext_articles/7d0b4095.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 15:34:59**
+As of **2024-06-26 15:53:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,296
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,258 (100.0%) of 32,259 articles have been extended.
+32,259 (100.0%) of 32,259 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Police had resorted to using tear gas and water cannons to disperse the proteste
 ...
 
 [Data](articles/07b39500.json)
+
+[Extended Data](ext_articles/07b39500.ext.json)
 
 ---
 

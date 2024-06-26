@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 09:54:25**
+As of **2024-06-26 10:07:14**
 
 ## Newspaper Stats
 
-*Scraped **32,201** Articles*
+*Scraped **32,204** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,103 @@ islandlk | 1,790
 economynextcom | 1,868
 dailyftlk | 1,976
 adalk | 2,836
-adaderanalk | 3,655
+adaderanalk | 3,657
 tamilmirrorlk | 3,798
 dailymirrorlk | 4,733
 virakesarilk | 4,994
-adaderanasinhalalk | 5,281
+adaderanasinhalalk | 5,282
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,200 (100.0%) of 32,201 articles have been extended.
+32,201 (100.0%) of 32,204 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### 30 மாணவர்கள் வைத்தியசாலையில் அனுமதி
+### Anti-tax protesters storm Kenya’s parliament, drawing police fire as president vows to quash unrest
+
+*2024-06-26 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100104/anti-tax-protesters-storm-kenyas-parliament-drawing-police-fire-as-president-vows-to-quash-unrest) · `en`
+
+Thousands of protesters stormed Kenya’s parliament Tuesday to protest tax proposals, burning part of the building, sending lawmakers fleeing and drawing fire from police in unrest that the president vowed to quash. Several people were killed.
+
+It was the most direct assault on the government in decades. Journalists saw at least three bodies outside the complex where police had opened fire, and medical workers reported five people killed. Clashes spread to other cities. There was no immediate word on arrests.
+
+“Today’s events mark a critical turning point on how we respond to threats to our national security,” President William Ruto said, calling the events “treasonous” and vowing to quash the unrest “at whatever cost.”
+
+Kenya’s defense minister said the military had been deployed to support police during the “security emergency” and “breaching of critical infrastructure.”
+
+...
+
+[Data](articles/c7cf84b5.json)
+
+---
+
+### දියේ ගිලී දෙදෙනෙක් මරුට
+
+*2024-06-26 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198164) · `si`
+
+උනවටුන වෙරළ තීරයේ දිය නෑමට ගිය විදෙස් ජාතික පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+හබරාදූව පොලීසිය සඳහන් කළේ, මෙම විදෙස් ජාතිකයා ඊයේ (25) සවස් කාලයේ  දියනාමින් සිටියදී දිය වැලකට හසු වී ගසා ගෙන ගොස් ඇති බවය.
+
+ප්‍රදේශවාසීන්ගේ මැදිහත් වීමෙන් ඔහු වෙරළෙන් ගොඩට ගෙන ගාල්ල, කරාපිටිය රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මිය ගොස් ඇති බවද පොලීසිය පවසයි.
+
+මේ අතර වැලිකන්ද පොලිස් වසමේ අසේලපුර ප්‍රදේශයේ ඩී ඇළේ දිය නෑමට ගිය කාන්තාවක් දියේ ගිලී මිය ගොස් තිබේ.
+
+ඊයේ (25) රාත්‍රී කාලයේ මෙම කාන්තාව දිය නෑමට ගොස් මෙම අනතුර සිදුව ඇති බව පොලීසිය ස﻿ඳහන් කරයි.
+
+මෙලෙස මියගොස් ඇත්තේ, අසේලපුර, වැලිකන්ද ප්‍රදේශයේ පදිංචිව සිටි 56 හැවිරිදි කාන්තාවකි.
+
+◼️
+
+[Data](articles/bc969dd6.json)
+
+---
+
+### School teachers and principals report ‘sick’
+
+*2024-06-26 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100103/school-teachers-and-principals-report-sick) · `en`
+
+The Ceylon Teachers’ Union (CTU) says that school teachers and principals are engaged in an islandwide trade union action by reporting sick leave today (26).
+
+CTU General Secretary Joseph Stalin stated that teachers and principals would be brought to Colombo for a protest.
+
+Meanwhile, it is reported that certain teachers have also advised students from many schools not to attend school today due to the strike action.
+
+The trade union, which coincides with the start of the second school term, has disrupted educational activities at schools across the country.
+
+Meanwhile, the president of the Joint Committee of Government Executive Officers, says that they would continue their trade union action by participating in the ‘sick leave’ campaign today (26) for the second consecutive day, as their demands have not been adequately addressed.
+
+◼️
+
+[Data](articles/510d1b9b.json)
+
+---
+
+### 30 students admitted to the hospital
 
 *2024-06-26 08:56:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/30-மாணவர்கள்-வைத்தியசாலையில்-அனுமதி/75-339441) · `ta`
 
-மூதூர் பொலிஸ் பிரிவிற்குட்பட்ட மூதூர் 5 பகுதியில் உள்ள பாடசாலை ஒன்றில் 30 மாணவர்கள் குளவி கொட்டுக்கு இலக்காகி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+In Muttur, 30 students from a local school were hospitalized after being stung by wasps near the school. The incident occurred during a scholarship exam preparation session. Currently, 22 students and 8 teachers are undergoing treatment at Muttur Hospital.
 
-புலமைப்பரிசில் பரீட்சைக்கு தோற்றும் மாணவர்கள் நேற்று (25) மாலை  பாடசாலையில் மேலதிக வகுப்பில் கலந்துகொண்டிருந்தனர்.
+🟩
 
-அங்கு பாடசாலையை ஒட்டியுள்ள வீட்டில் குளவி கூடு கட்டப்பட்டு மாணவர்கள் மற்றும் ஆசிரியர் குளவி கொட்டுக்கு இலக்காகியுள்ளனர்.
+Thirty students have been admitted to the hospital in a school in Muttur 5, which belongs to the Muttur police division.
 
-இதையடுத்து, 22 மாணவர்களும் 8 மாணவிகளும், ஆசிரியரும் மூதூர் வைத்தியசாலையில் அனுமதிக்கப்பட்டு தற்போது சிகிச்சை பெற்று வருகின்றனர். R
+Students who appeared for the scholarship exam were present at the school yesterday evening.
+
+There, the students and teachers have been targeted for the wasp nest in the house near the school.
+
+Subsequently, 22 students, 8 students and teachers are admitted to the Muttur Hospital and are currently receiving treatment.. Remble
 
 ◼️
 
 [Data](articles/e88c6ed6.json)
+
+[Extended Data](ext_articles/e88c6ed6.ext.json)
 
 ---
 
@@ -2261,79 +2327,5 @@ A high police officer said he had used police protection in jackfruit and basefr
 [Data](articles/b715f821.json)
 
 [Extended Data](ext_articles/b715f821.ext.json)
-
----
-
-### Sri Lanka to host Bora conference in July
-
-*2024-06-25 15:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-host-bora-conference-in-july-169524/) · `en`
-
-ECONOMYNEXT – Sri Lanka will host a Bora conference and convention from July 7-16 at the Bambalapitiya Bora Mosque and the Sri Lanka Exhibition and Convention Centre, coinciding with the Bora community’s spiritual conference in Karachi, Pakistan.
-
-Approximately 15,000 members of the Bora community from various countries are expected to attend the event.
-
-Discussions were held between relevant officials at the Presidential Secretariat on Monday (24) regarding the provision of all necessary facilities for the event.
-
-The meeting was attended by Minister of Foreign Affairs Ali Sabri, Chief of Defence Staff General Shavendra Silva, officials of Sri Lanka Customs, Immigration Department, Colombo Municipal Council, Sri Lanka Tourism Development Authority, Sri Lanka Tourism Promotion Bureau, Sri Lanka Police, and the Department of Muslim Religious Affairs.
-
-◼️
-
-[Data](articles/0ac03354.json)
-
-[Extended Data](ext_articles/0ac03354.ext.json)
-
----
-
-### Cabinet approval for signing agreement on bilateral debt renovation agreement
-
-*2024-06-25 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/186942) · `ta`
-
-President Ranil Wickremesinghe announced to the Cabinet that a bilateral debt renovation agreement will be signed on Wednesday, 26th, following a meeting with the Paris team. The Cabinet approved the debt reorganization plan, as disclosed by Minister Bandula Gunawardena during a press conference.
-
-🟩
-
-President Ranil Wickremesinghe has announced to the Cabinet that the agreement on the two -party loan renovation will be signed on Wednesday 26th.
-
-Cabinet Spokesperson Minister Bandula Gunawardena made it clear at a press conference announcing the weekly Cabinet announcements held on Tuesday (25).
-
-Minister Bandula Gunawardena said that the Cabinet has granted permission for issues reorganizing debt.
-
-Minister Bandula Gunawardena said that a team of officials from Sri Lanka had gone there for a meeting with the Paris team and that the agreements would be signed.
-
-◼️
-
-[Data](articles/7485562b.json)
-
-[Extended Data](ext_articles/7485562b.ext.json)
-
----
-
-### A higher texts shot at home
-
-*2024-06-25 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198140) · `si`
-
-In Gampola, a student named Kulasekara, 18, was shot dead at his home. The incident occurred when he went to his room, which was locked. He was identified as a resident of Ulapane Road, Gampola, and was preparing to move to a school in Kandy after passing the GCE O/L exams. His family includes a teacher mother, a retired forest department father, a university lecturer brother, and a doctor sister. The police are investigating the motive behind the shooting.
-
-🟩
-
-A meeting of a suicide school student who has been shot dead is reported from the Gampola area.
-
-The Idola Police said that the student who had gone to the host of the work to the host of the work, the door of the room was locked and shot dead by a ammunition gun.
-
-The deceased has been identified by KMBRG, a resident of Ulapane road, Gampola. Kulasekara is an 18 year old student.
-
-His mother is a teacher and the father is retired from the Department of Forest Conservation.
-
-The same son is a lecturer at the University of Peradeniya and is a doctor in Kurunegala Teaching Hospital.
-
-Police are conducting further investigations that the student who had found the victbage had taken place when the father had hidden the father.
-
-The student who studied at a International School in Gampola was passing out to a popular school in Kandy after passing the GCE O / L examination with the GCE Ordinary Level Examination with the GCE O / L examination.
-
-...
-
-[Data](articles/fd79a9cb.json)
-
-[Extended Data](ext_articles/fd79a9cb.ext.json)
 
 ---

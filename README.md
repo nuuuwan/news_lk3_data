@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 16:34:51**
+As of **2024-06-26 16:51:59**
 
 ## Newspaper Stats
 
-*Scraped **32,272** Articles*
+*Scraped **32,273** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,790
 economynextcom | 1,870
 dailyftlk | 1,976
-adalk | 2,847
+adalk | 2,848
 adaderanalk | 3,668
 tamilmirrorlk | 3,810
 dailymirrorlk | 4,733
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,299
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,264 (100.0%) of 32,272 articles have been extended.
+32,272 (100.0%) of 32,273 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### யாழ். சாவகச்சேரியில் வீதியை புனரமைத்து தருமாறு கோரி ஆர்ப்பாட்டம்
+### Yall. Demonstration demanding the rehabilitation of the road in Chavakachcheri
 
 *2024-06-26 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187029) · `ta`
 
-யாழ்ப்பாணம் சாவகச்சேரி பிரதேச சபைக்குட்பட்ட மீசாலை வடக்கு தட்டாங்குளம் வீதியினை புனரமைத்து தருமாறு கோரி அப்பகுதி மக்கள் இன்று புதன்கிழமை (26) ஆர்ப்பாட்டத்தில் ஈடுபட்டடனர்.
+Residents of Chavakachcheri protested on Wednesday, demanding the reconstruction of the Meesalai North Tattangulam road, which hasn't been repaired in 50 years despite being crucial for over a thousand people. The demonstration, outside the Northern Governor's Secretariat, involved representatives from five Grama Sevakar Divisions. After the protest, five individuals met with the governor's secretary, delivering a petition to the president via the governor.
 
-வடமாகாண ஆளுநர் செயலகத்திற்கு முன்பாக நடைபெற்ற இந்த ஆர்ப்பாட்டத்தில் குறித்த வீதியினை பயன்படுத்தும் 5 கிராமசேவகர் பிரிவுகளைச் சேர்ந்த மக்கள் கலந்துகொண்டிருந்தனர்.
+🟩
 
-50 வருடங்களாக புனரமைக்கப்படாத இந்த வீதியால் சுமார் ஆயிரத்திற்கும் மேற்பட்ட மக்கள் பயன்படுத்துகின்ற போதிலும் மிக மோசமான நிலையில் வீதி பாதிக்கப்பட்டுள்ளதாக போராட்டக்காரர்கள் தெரவிக்கின்றனர்.
+The people of the area staged a protest on Wednesday (26) demanding the rehabilitation of the Meesalai North Tattangulam road under the Chavakachcheri Pradeshiya Sabha in Jaffna.
 
-ஆர்ப்பாட்டத்தின் இறுதியில் ஐவர் ஆளுனரின் செயலாளரை சந்தித்து ஆளுநரின் ஊடாக ஜனாதிபதிக்கான மகஜரை கையளித்தனர்.
+The demonstration, which was held in front of the Northern Governor's Secretariat, was participating in the 5 Grama Sevakar Divisions who used the road.
+
+The road, which has not been reconstructed for 50 years, has been used by more than a thousand people, but the protesters say that the road has been affected.
+
+At the end of the demonstration, five people met the secretary of the governor and handed over the President to the President through the Governor.
 
 ◼️
 
 [Data](articles/84261518.json)
+
+[Extended Data](ext_articles/84261518.ext.json)
 
 ---
 
@@ -74,47 +80,61 @@ These persons were arrested by airport customs to scanning machines (SCAN Test) 
 
 ---
 
-### கடன் மறுசீரமைப்புக்கு   இறுதி இணக்கப்பாடு
+### Final compliance with debt restructuring
 
 *2024-06-26 15:56:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-மறுசீரமைப்புக்கு-இறுதி-இணக்கப்பாடு/175-339472) · `ta`
 
-இலங்கைக்கு கடன் வழங்கிய நாடுகளுடனான இருதரப்பு கடன் மறுசீரமைப்பு தொடர்பான இறுதி இணக்கப்பாடு எட்டப்பட்டுள்ளது.
+Sri Lanka has achieved final compliance with its bilateral credit restructuring plan with lending nations, led by Finance Minister Shehan Semasinghe. This milestone was reached during the 2024 Paris Forum, where discussions included steps towards resolving Sri Lanka's debt crisis, particularly with China. The minister expressed gratitude towards India and Japan for their cooperation, highlighting this as a significant step forward in addressing Sri Lanka's debt issues.
 
-இலங்கையின் கடன் மறு சீரமைப்பு தொடர்பில் உத்தியோகபூர்வ கடன் வழங்குனர்களின் குழுவுடன் இணக்கப்பாட்டை ஏற்படுத்திக் கொண்டதாக நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க குறிப்பிட்டுள்ளார்.
+🟩
 
-பிரான்ஸ் தலைநகர் பாரிசில் நடைபெற்ற 2024 ஆம் ஆண்டுக்கான பாரிஸ் கழக கூட்டத்தின் போது (PARIS Forum) இந்த இணக்கப்பாடு ஏற்படுத்திக்கொள்ளப்பட்டதாக ஷெஹான் சேமசிங்க  X பதிவில் குறிப்பிட்டுள்ளார்.
+A final compliance with bilateral credit restructuring with Sri Lanka's lending countries has been reached.
 
-இலங்கை மற்றும் சீனா இடையிலான இருதரப்பு கடன் மறுசீரமைப்பை ஏற்படுத்திக்கொள்ளவும் நடவடிக்கை எடுத்து வருவதாக இராஜாங்க அமைச்சர் கூறியுள்ளார்.
+Finance Minister Shehan Semasinghe has stated that he has complied with a committee of official credit providers on Sri Lanka's debt reorganization.
 
-கடன் மறுசீரமைப்பிற்கு ஒத்துழைப்பு வழங்கிய இந்தியா, ஜப்பான் சீனா உள்ளிட்ட நாடுகளுக்கு  அவர் நன்றி தெரிவித்துள்ளார்.
+Shehan Semasinghe X has stated that this compliance was made during the Paris Forum of the 2024 Paris Forum in the French capital of Paris.
 
-இலங்கைய எதிர்நோக்கியுள்ள கடன் நெருக்கடிக்கு தீர்வு காண இது முக்கிய திருப்புமுனையாக அமையும் எனவும் இராஜாங்க அமைச்சர் சுட்டிக்காட்டியுள்ளார்.
+The Minister of State has said that steps are being taken to bring about bilateral debt between Sri Lanka and China.
+
+He thanked India and Japan China, who cooperated with the debt restructuring.
+
+The Minister of State also pointed out that this would be a major turning point in solving the debt crisis facing Sri Lanka.
 
 ◼️
 
 [Data](articles/7d0597c3.json)
 
+[Extended Data](ext_articles/7d0597c3.ext.json)
+
 ---
 
-### கடன் மறுசீரமைப்பில் இறுதி உடன்பாடு எட்டப்பட்டது : சீனாவுடனும் எட்டப்படவுள்ளது - அமைச்சர் செஹான்
+### The final agreement on debt restructuring is reached: to be reached with China - Minister Sehan
 
 *2024-06-26 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/187031) · `ta`
 
-இலங்கைக்கும் உத்தியோகபூர்வ கடன் வழங்கும் குழுவிற்கும் இடையில் கடன் மறுசீரமைப்பு தொடர்பான இறுதி உடன்பாடு எட்டப்பட்டுள்ளதாக நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+Sri Lanka has finalized a debt restructuring agreement with its official lending committee, including a separate deal with China's Exports Import Bank. The accord was reached during the 2024 Paris Conference, with Finance Minister Sehan Semasinghe praising the efforts of the official credit committee and President Ranil Wickremesinghe's leadership in addressing the nation's debt crisis.
 
-பிரான்ஸில் இடம்பெற்ற 2024 ஆம் ஆண்டுக்கான பாரிஸ் மாநாட்டின் ஓரங்கமாக இடம்பெற்ற நிகழ்வில் இந்த இறுதி முடிவு எட்டப்பட்டுள்ளது.
+🟩
 
-இது தொடர்பில் நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தனது எக்ஸ் தளத்தில் மேலும் குறிப்பிட்டுள்ளதாவது,
+Finance Minister Xihan Semasinghe said that the final agreement on the debt restructuring has been reached between Sri Lanka and the official lending committee.
 
-இலங்கைக்கும் உத்தியோகபூர்வ கடன் வழங்கும் குழுவிற்கும் இடையில் கடன் மறுசீரமைப்பு தொடர்பான இறுதி உடன்பாடு எட்டப்பட்டுள்ளது.
+The final decision was reached at a part of the 2024 Paris Conference in France.
 
-இதேவேளை, இலங்கைக்கும் சீனாவின் ஏற்றுமதி இறக்குமதி வங்கிக்கும் இடையில் இருதரப்பு கடன் மறுசீரமைப்பில் உடன்பாடொன்று எட்டப்படவுள்ளது.
+Finance Minister Sehan Semasinghe further stated on his X site,
 
-உத்தியோகபூர்வ கடன் வழங்கும் குழுவில் உள்ள பிரான்ஸ், இந்தியா மற்றும் ஜப்பான் உள்ளிட்ட நாடுகளுக்கும் அத்துடன் சீனாவின் ஏற்றுமதி இறக்குமதி வங்கியானது இந்த செயல்பாட்டில் தலைமை தாங்கியதற்கு இலங்கை சார்பாக மனப்பூர்வமான நன்றிகளைத் தெரிவித்துக்கொள்கின்றோம் என்றும் அமைச்சர் செஹான் சேமசிங்க குறிப்பிட்டுள்ளார்.
+The final agreement on debt restructuring has been reached between Sri Lanka and the official lending committee.
+
+Meanwhile, an agreement will be reached on bilateral credit restructuring between Sri Lanka and China's Exports Import Bank.
+
+Minister Sehan Semasinghe has expressed his willingness to Sri Lanka on behalf of Sri Lanka for the presidency of China's Exports Import Bank for the countries of France, India and Japan in the official lending committee.
+
+I congratulate the secretary and officials of the official credit committee who has committed this milestone to reach this milestone to address the debt crisis of Sri Lanka, improve the confidence in the economy.
 
 ...
 
 [Data](articles/79c95bc0.json)
+
+[Extended Data](ext_articles/79c95bc0.ext.json)
 
 ---
 
@@ -228,23 +248,33 @@ Police had resorted to using tear gas and water cannons to disperse the proteste
 
 ---
 
-### சட்டத்தை அமுல்படுத்தும் அதிகாரிகள் தொடர்ந்தும் சித்திரவதைகளில் ஈடுபடுகின்றனர்  - சித்திரவதைக்குள்ளானவர்களிற்கு நீதி கிடைப்பதை உறுதி செய்வது எமது  கூட்டு பொறுப்பு - வாழ்வதற்கான உரிமை அமைப்பு
+### Officials who continue to enforce the law continue torture - our joint responsibility is to ensure justice for torture
 
 *2024-06-26 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/187025) · `ta`
 
-சித்திரவதைக்குள்ளானவர்களிற்கு நீதி கிடைப்பதை உறுதி செய்வதும் எதிர்காலத்தில் இவ்வாறான கொடுரமான செயல்கள் தடுக்கப்படுவதை உறுதி செய்வதும்  நமது கூட்டு பொறுப்பாகும் என வாழ்வதற்கான உரிமை அமைப்பு right to life srilanka தெரிவித்துள்ளது.
+On International Support Day for Torture Victims, emphasis is placed on enforcing anti-torture laws in Sri Lanka, highlighted by a recent court verdict sentencing three, including a police officer, to seven years for torture committed in 2003. Despite the 1994 Anti-Torture Act, which mandates severe punishment for torture, incidents persist, underscoring the need for stricter law enforcement and an independent body to probe police abuses. The call is for collective action to ensure justice and prevent future atrocities, emphasizing the importance of supervising and educating law enforcement to uphold human rights.
 
-சித்திரவதையால் பாதிக்கப்பட்டவர்களிற்கான சர்வதேச ஆதரவு தினமான இன்று இது குறித்து விடுத்துள்ள அறிக்கையிலேயே  வாழ்வதற்கான உரிமை அமைப்பு இதனை தெரிவித்துள்ளது
+🟩
 
-சித்திரவதையால் பாதிக்கப்பட்டவர்களிற்கான சர்வதேச ஆதரவு தினம் இன்று கடைப்பிடிக்கப்படுகின்ற நிலையில் இலங்கையில் சித்திரவதைகளிற்கு எதிரான சட்டங்கள் விதிமுறைகளை பயனளிக்க கூடிய விதத்தில் நடைமுறைப்படுத்தவேண்டியதன் அவசியத்தை வலியுறுத்தவேண்டியது கட்டாயமாகின்றது.
+Right to Life Srilanka has said that it is our joint responsibility to ensure justice for torture and to prevent such terrible acts in the future.
 
-மாத்தறை நீதிமன்றம் வழங்கியுள்ள வரலாற்று முக்கியத்துவம் வாய்ந்த சமீபத்தைய தீர்ப்பு இதற்கான தேவையை வெளிப்படுத்தியுள்ளது.
+In a statement issued today, the International Support Day for Torture victims said this in a statement
 
-திஸ்ஸமஹராம பொலிஸ் நிலைய பொறுப்பதிகாரி உட்பட மூவருக்கு எதிராக நீதிமன்றம் தண்டனை வழங்கியுள்ளது.2003 இல் ஐவரை கடத்தி சித்திரவதை செய்தமைக்காக இவர்களிற்கு எதிராக ஏழு வருட சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது.
+While the International Support Day for Torture victims is being observed today, it is imperative to emphasize the need to implement the laws of against torture in Sri Lanka.
+
+The historic recent verdict issued by the Matara Court has expressed the need.
+
+The court has sentenced three persons, including the officer in charge of the Tissamaharama police station. In 2003, five people have been sentenced to seven years in prison.
+
+The court has fined the police officers and ordered the victims to pay compensation of Rs 500,000.
+
+This emphasized that the court requires justice and accountability for human rights violations.
 
 ...
 
 [Data](articles/ca0eedc0.json)
+
+[Extended Data](ext_articles/ca0eedc0.ext.json)
 
 ---
 
@@ -332,51 +362,89 @@ The agreement provides significant debt relief to Sri Lanka and will be able to 
 
 ---
 
-### கொழும்பில் அதிபர்கள், ஆசிரியர்கள் மீது நீர்த்தாரை, கண்ணீர் புகை வீச்சு !
+### Principals and teachers in Colombo
 
 *2024-06-26 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187021) · `ta`
 
-கொழும்பு லோட்டஸ் சுற்றுவட்டத்திற்கு அருகில் போராட்டத்தில்  ஈடுபட்ட  அதிபர்கள் மற்றும் ஆசிரியர்கள் சங்க உறுப்பினர்கள் மீது பொலிஸார் கண்ணீர்ப்புகை மற்றும் நீர்த்தாரை பிரயோகம் செய்துள்ளனர்.
+Colombo protests: Teachers and principals nationwide went on sick leave strike. Police used tear gas and water cannons against them, including near the Lotus Tower. A demonstration started at the Fort Railway Station, involving educators advocating for their cause amidst the unrest.
 
-நாடளாவிய ரீதியில் அதிபர்கள், ஆசிரியர்கள் மற்றும் ஆசிரிய ஆலோசகர்கள்  இன்று புதன்கிழமை (26) சுகயீன விடுமுறை போராட்டத்தை முன்னெடுத்துள்ளனர்.
+🟩
 
-இந்நிலையில்,  அதிபர்கள், ஆசிரியர்கள் மற்றும் ஆசிரிய ஆலோசகர்களின் பங்குபற்றுதலுடன் இன்று முற்பகல் 11 மணிக்கு கோட்டை ரயில் நிலையத்திற்கு முன்பாக கவனயீர்ப்பு போராட்டமொன்று முன்னெடுக்கடுக்கப்பட்டது.
+Police have used tear gas and reservoirs on the protesters and teachers' union members near the Lotus of Colombo.
 
-இந்த கவனயீர்ப்பு போராட்டத்தைக் கலைப்பதற்காக பொலிஸார் போராட்டத்தில் ஈடுபட்ட அதிபர்கள், ஆசிரியர்கள் மீது கண்ணீர்ப்புகை மற்றும் நீர்த்தாரைப் பிரயோகத்தை மேற்கொண்டமை குறிப்பிடத்தக்கது.
+Principals, teachers and faculty consultants across the country have launched a sick holiday struggle today (26).
+
+In this backdrop, a protest campaign was launched in front of the Fort Railway Station at 11 am today with the participation of principals, teachers and faculty advisers.
+
+It is noteworthy that the police have carried out tear gas and waterfront on the principals and teachers who were involved in the protest to dissolve the protest.
 
 ◼️
 
 [Data](articles/9ae928cd.json)
 
+[Extended Data](ext_articles/9ae928cd.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### විදේශිකයන්ට රස ආහාර කවන්න පන්සලේ වැඩසටහනක්
+
+*2024-06-26 14:17:50* · [`adalk`](https://www.ada.lk/breaking_news/විදේශිකයන්ට-රස-ආහාර-කවන්න-පන්සලේ-වැඩසටහනක්/11-410450) · `si`
+
+මාතලේ රිවස්ටර්න් හා නකල්ස් වන රක්ෂිතයේ  සංචාරය සදහා පැමිණෙන දෙස් විදෙස් සංචාරකයින් හට නව ආහාර වල පහස හා අත් දැකීම් ලබාදීමේ අරමුණින් යුතුව කුඩා හා මධ්‍ය පරිමාණ හෝටල් හිමිකරුවන් හා ඒවායේ සේවයේ නියුතු සූපවේදීන් හට න්‍යායාත්මක හා ප්‍රායෝගික වැඩමුළුවක් ලග්ගල ප්‍රාදේශීය ලේකම් කොට්ටාශයට අයත් රිවස්ටර්න් මහලකොටුව ශ්‍රී සුදර්ශනාරාම විහාරස්ථානයේදී දින 05ක් පුරාවට පැවති අතර එය 26 වෙනිදා අවසන් විය.
+
+ඕස්ට්‍රේලියානු රජයේ ආධාර මත ක්‍රියාත්මක අන්තර්කරණීය වර්ධනයක් උදෙසාවූ නිපුණතා වැඩසටහන යටතේ ක්‍රියාත්මක වු වැඩමුළුව සදහා මාතලේ දිස්ත්‍රීක්කයට අයත් ලග්ගල ප්‍රාදේශීය ලේකම් කොට්ටාශයේ පිහිටි කුඩා හා මධ්‍ය පරිමාණ සංචාරක හෝටල් හිමියන් හා එහි සේවයේ නියුතු සූපවේදීන් 35 දෙනෙකු පමණ සහභාගි වී සිටියහ.
+
+ඕස්ට්‍රේලියානු රජය හා ශ්‍රී ලංකා රජය අතර ද්වි පාර්ශවික වැඩසටහනක් ලෙස ක්‍රියාත්මක කරනු ලබන අතර මෙරට සංචාරක කර්මාන්තයේ ගුණාත්මක බාවය වැඩිදියුණු කරමින් වඩා හොද සංචාරක සේවාවක් ක්‍රියාත්මක කිරීමේ අරමුණින් යුතුව මෙම වැඩසටහන දිවයින පුරා ආවරණය වන පරිදි ක්‍රියාත්මක කිරීමට නියම්තය.
+
+...
+
+[Data](articles/d5462094.json)
+
+---
+
+### Today's currency exchange rate
 
 *2024-06-26 14:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/187023) · `ta`
 
-இன்று புதன்கிழமை (ஜூன் 26) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 300.5260 ஆகவும் கொள்வனவு விலை ரூபா 309.7877 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+On June 26, the US dollar sold for 300.5260 and the Indian Rupee for 309.7877 according to the Central Bank's rates.
+
+🟩
+
+The US dollar sales price was 300.5260 and the price was Rs 309.7877 based on the Central Bank's coinage rate on Wednesday (June 26).
 
 ◼️
 
 [Data](articles/243d8be4.json)
 
+[Extended Data](ext_articles/243d8be4.ext.json)
+
 ---
 
-### அவுஸ்திரேலிய திரும்புகின்றார் ஜூலியன் அசஞ்சே
+### Julian Asngee returns to Australia
 
 *2024-06-26 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/187020) · `ta`
 
-விக்கிலீக்ஸ் ஸதாபகர்களில் ஒருவரான ஜூலியன் அசஞ்சே நாடு திரும்பவுள்ளமை குறித்து அவுஸ்திரேலிய பிரதமர் அன்டனி அல்பெனிஸ் மகிழ்ச்சி வெளியிட்டுள்ளார்.
+Julian Assange, founder of WikiLeaks, is set to return to Australia after being released from a U.S. court. Australian PM Anthony Albanese welcomes his return, stating it's overdue and expressing hope for Assange's future. This comes after Assange's release from a London prison, where he had served part of his sentence. His case involved allegations of espionage for leaking military secrets, but he argued his actions were protected under U.S. free speech laws.
 
-நாடாளுமன்றத்தில் ஆற்றிய உரையில் இதனை தெரிவித்துள்ள அவர் தனது குடும்பத்தினருடன் இணைவதற்காக அவர் அவுஸ்திரேலியா நோக்கி வந்துகொண்டிருக்கின்றார் என்பது குறித்து மகிழ்ச்சியடைகின்றேன் என குறிப்பிட்டுள்ளார்.
+🟩
 
-அவரது நடவடிக்கைகள் பற்றிபல கருத்துக்கள் இருக்கலாம் ஆனால் அவரது விவகாரம் நீண்டநாட்கள் நீடித்துள்ளது என அவுஸ்திரேலிய பிரதமர் தெரிவித்துள்ளார்.
+Australian Prime Minister Antony Albeneis has expressed his pleased to see that one of the WikiLeaks Sadabhakar, Julian Asngee, will return.
 
-அவரை தொடர்ந்து தடுத்துவைப்பதால் எந்த பலனும் கிடைக்கப்போவதில்லை என நான் தொடர்ச்சியாக தெரிவித்துவந்துள்ளேன்இநாங்கள் பதவியேற்ற பின்னர்  கடந்த இரண்டு வருடங்களாக எங்கள் அரசாங்கம் இந்த விடயத்திற்கு தீர்வை காண்பதற்காக பல மட்டங்களில் பேச்சுவார்த்தைகளை மேற்கொண்டது என அவுஸ்திரேலிய பிரதமர் தெரிவித்துள்ளார்.உரிய வழிமுறைகள் அனைத்தையும் பயன்படுத்தினோம் என அவர் குறிப்பிட்டுள்ளார்.
+In a speech in Parliament, he said, "I am happy that he is coming to Australia to join his family."
+
+The Australian Prime Minister has said that his affairs may have been long overdue.
+
+I have repeatedly stated that there will be no benefit from continuing to detain him. The Australian Prime Minister has said that for the past two years, our government has been negotiating to solve the matter for the past two years, ”he said.
+
+WikiLeaks founder Julian Assane has been fully released after US court hearing. He is returning to Australia this evening. Subsequently, a special media briefing has been organized in Canberra tonight.
+
+Dutti Nirlai Penno, who has been guaranteed to release itself, has agreed to spy on the United States and release military secrets.
 
 ...
 
 [Data](articles/95bd1345.json)
+
+[Extended Data](ext_articles/95bd1345.ext.json)
 
 ---
 
@@ -592,21 +660,27 @@ Teachers and Principals' Association members have been using tear gas and waterp
 
 ---
 
-### ரஸ்ய அதிகாரிகளிற்கு எதிராக சர்வதேச நீதிமன்றம் பிடியாணை- உக்ரைனில் யுத்த குற்றங்களில் ஈடுபட்டதாக குற்றச்சாட்டு
+### International Court of Appeal against Russian officials
 
 *2024-06-26 13:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/186999) · `ta`
 
-உக்ரைனில் இடம்பெற்ற யுத்த குற்றங்களிற்காக ரஸ்யாவின் முன்னாள் பாதுகாப்பு அமைச்சர் தற்போதைய  இராணுவபிரதானிக்கு எதிராக சர்வதேச குற்றவியல் நீதிமன்றம் பிடியாணையை பிறப்பித்துள்ளது.
+The International Criminal Court (ICC) has accused Russia's former defense minister and a security chief of war crimes in Ukraine, including attacks on civilians and infrastructure. Despite the ICC's warrant, their arrest is unlikely as they remain in Russia, which hasn't ratified the Rome Statute.
 
-உக்ரைன் மீதான ரஸ்யாவின் படையெடுப்பின் போது உக்ரைனின் சிவில் உட்கட்டமைப்பு மற்றும் மின்நிலையங்கள் மீது மேற்கொள்ளப்பட்ட தாக்குதலிற்காகவே ரஸ்ய அதிகாரிகளிற்கு எதிராக சர்வதேச நீதிமன்றம் பிடியாணை பிறப்பித்துள்ளது.
+🟩
 
-முன்னாள் பாதுகாப்பு அமைச்சர் சேர்ஜிசொய்குவும்  மற்றும் பாதுகாப்பு பிரதானி வலெரி ஜெராசிமோவும் பொதுமக்கள் இலக்குகளை தாக்கியமை ,பொதுமக்களிற்கு கடும் பாதிப்புகளை ஏற்படுத்தியமை ,சேதப்படுத்தியமை மூலம் யுத்த குற்றங்களில் ஈடுபட்டனர் என ஐசிசி தெரிவித்துள்ளது.
+The International Criminal Court has issued a statement against Russia's former defense minister for war crimes in Ukraine.
 
-ஹேக்நீதிமன்றம் அவர்களிற்கு எதிராக பிடியாணை பிறப்பித்துள்ள போதிலும் அவர்கள் ரஸ்யாவில் இருப்பதால் கைதுசெய்யப்படுவதற்கான சாத்தியக்கூறுகள் குறைவாக உள்ளன. ரஸ்யா ரோம்பிரகடனத்தில் கைச்சாத்திடவில்லை என  கார்டியன் தெரிவித்துள்ளது.
+The International Court of Justice has issued a war against Russian authorities for an attack on Ukraine's civil infrastructure and power plants during Russia's invasion of Ukraine.
+
+Former Defense Minister Sergisoiku and security chief Valeri Gerazimo were involved in war crimes by the attack on civilians, damaging the public, and damaging the public.
+
+Although the Hack Court has issued a war against them, they are less likely to be arrested because they are in Russia. The Guardian said that Russia did not sign the Rombrakatanam.
 
 ◼️
 
 [Data](articles/1ab95c1b.json)
+
+[Extended Data](ext_articles/1ab95c1b.ext.json)
 
 ---
 
@@ -2257,27 +2331,5 @@ The law has been enacted by President Ranil Wickremesinghe. Several amendments w
 [Data](articles/571090c6.json)
 
 [Extended Data](ext_articles/571090c6.ext.json)
-
----
-
-### Government support to hold the Bora Conference
-
-*2024-06-26 02:09:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போரா-மாநாட்டை-நடத்த-அரசாங்கம்-ஆதரவு/175-339436) · `ta`
-
-Sagala Ratnayake, a senior advisor to Sri Lanka's National Security and President's Working Council, has directed officials to fully support the annual Bora Spiritual Conference set for July 7-16 at the Bambalapitiya Bora School and Sri Lanka Exhibition and Conference Hall. This event mirrors the one held annually in Karachi, Pakistan.
-
-🟩
-
-Sagala Ratnayake, a senior adviser to the National Security and President's Working Council, has issued a directive to the relevant authorities to provide the full support of the annual spiritual conference of the Bora community to be held in Sri Lanka.
-
-Sagala Ratnayake gave these instructions during a discussion held at the Presidential Office yesterday.
-
-The Bora Spiritual Conference parallel with the spiritual conference of the Bora community in Karachi in Pakistan will be held at the Bambalapitiya Bora School and the Sri Lanka Exhibition and Conference Hall from July 7- 16th.. (A)
-
-◼️
-
-[Data](articles/f7a1480a.json)
-
-[Extended Data](ext_articles/f7a1480a.ext.json)
 
 ---

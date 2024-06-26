@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 09:06:17**
+As of **2024-06-26 09:19:42**
 
 ## Newspaper Stats
 
-*Scraped **32,195** Articles*
+*Scraped **32,199** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 1,790
 economynextcom | 1,868
 dailyftlk | 1,976
 adalk | 2,835
-adaderanalk | 3,654
+adaderanalk | 3,655
 tamilmirrorlk | 3,797
 dailymirrorlk | 4,733
 virakesarilk | 4,994
-adaderanasinhalalk | 5,278
+adaderanasinhalalk | 5,281
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,192 (100.0%) of 32,195 articles have been extended.
+32,192 (100.0%) of 32,199 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### තියුණු ආයුධයකින් පහරදී පුද්ගලයෙක්ව ඝාතනය කෙරේ
+
+*2024-06-26 08:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198163) · `si`
+
+සෙවනගල පොලිස් වසමේ මහගම ජනපදය ප්‍රදේශයේ පුද්ගලයෙකුව තියුණු ආයුධවලින් කපා කොටා ඝාතනය කර තිබේ.
+
+එලෙස ඝාතනයට ලක්ව ඇත්තේ අවුරුදු 33ක් වූ මහගම ජනපදය, සෙවනගල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මියගිය පුද්ගලයා තවත් දෙදෙනෙකු සමග සිය මස්සිනා පදිංචිව සිටි නිවසට පැමිණි අවස්ථාවේ එම නිවසේ හිමිකරු සහ ඔහුගේ බිරිඳ අසල්වැසි පුද්ගලයෙකු සමග ඇති කරගත් ආරවුලකට මැදිහත් වීමේ දී අසල්වැසි පුද්ගලයා කැත්තකින් පහරදී මෙම ඝාතනය සිදුකර ඇත.
+
+සැකකරු මේ වනවිට අත්අඩංගුවට ගෙන ඇති අතර, ඔහු ද තුවාල ලබා පොලිස් ආරක්ෂාව යටතේ ඇඹිලිපිටිය රෝහලේ නේවාසිකව ප්‍රතිකාර ලබමින් සිටී.
+
+◼️
+
+[Data](articles/937da2c0.json)
+
+---
+
+### Fairly heavy showers expected in parts of the country
+
+*2024-06-26 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100102/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department says showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Fairly heavy showers above 50mm are likely at some places in Sabaragamuwa province and in Kurunegala, Kandy and Nuwara-Eliya districts.
+
+Several spells of showers may occur in Matale and Hambantota districts, it said.
+
+Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+◼️
+
+[Data](articles/0419d745.json)
+
+---
 
 ### அவ்வப்போது மழை பெய்யும்
 
@@ -47,6 +83,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d1b1cac2.json)
+
+---
+
+### බඹර ප්‍රහාරයෙන් සිසුන් 30ක් රෝහලට
+
+*2024-06-26 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198162) · `si`
+
+මූතූර් පොලිස් වසමේ මූතූර් 5 ප්‍රදේශයේ දී පාසලක සිසුන් 30 දෙනෙකු බඹර ප්‍රහාරයට ලක්ව රෝහල්ගත කර තිබේ.
+
+පොලීසිය සඳහන් කළේ ඊයේ (25) සවස ශිෂ්‍යත්වය සඳහා පෙනී සිටින ළමුන් පිරිසක් පාසලේ අමතර පන්තියකට සහභාගී වී ඇති බවය.
+
+එහිදී පාසලට යාබඳ නිවසක බඹර කූඩුවක් ඇවිස්සීමෙන් පාසල් සිසුන්ට හා ගුරුවරයාට බඹරු දෂ්ඨ කර ඇත.
+
+එහිදී සිසුන් 22ක් හා සිසුවියන් 8 දෙනෙකු මෙන්ම ගුරුවරයා ද මූතූර් රෝහලට ඇතුළත් කර ඇති අතර මේ වනවිට ඔවුන් නේවාසිකව ප්‍රතිකාර ලබයි.
+
+◼️
+
+[Data](articles/de5b5df9.json)
 
 ---
 
@@ -70,13 +124,39 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### නිවිතිගල වෙඩිතැබීමක්
+
+*2024-06-26 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198161) · `si`
+
+පොලීසිය සඳහන් කළේ, ඒ සම්බන්ධයෙන් පොලීසියට ලද තොරතුරක් මත විමර්ශන ආරම්භ කළ බවය.
+
+වෙඩිතැබීමෙන් අවුරුදු 38ක් වූ දික්ඕවිට වත්ත, පාතකඩ ප්‍රදේශයේ පදිංචිකරුවෙක් තුවාල ලබා තිබේ.
+
+තුවාලකරු විවාහක අයෙක් වන අතර එම පුද්ගලයා පදිංචි නිවසේ මිදුලේ ඥාති පුත්‍රයෙක් සමග රැඳී සිටිය දී මුහුණ ආවරණය කර ආරක්ෂිත හිස් වැසුමක් පැළඳ පැමිණි නාඳුනන තුවක්කුකරුවෙකු පාගමනින් පැමිණ වෙඩි තබා පළාගොස් ඇත.
+
+වෙඩි වැදීමෙන් එම පුද්ගලයාගේ පාදයකට තුවාල සිදුව ඇති අතර ඔහුව නිවිතිගල රෝහලට ඇතුළත් කර තිබේ.
+
+◼️
+
+[Data](articles/87a18a50.json)
+
+---
+
 ### Three killed, several injured in lorry-bus accident on A9 road
 
 *2024-06-26 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100101/three-killed-several-injured-in-lorry-bus-accident-on-a9-road) · `en`
 
 Three persons have been reported dead, and several others were left injured after a lorry collided against a bus at Mankulam on the A9 road, the police said.
 
-◼️
+Police said that the passenger bus traveling from Jaffna towards Colombo had been stopped on a side of the road due to a break down last night (25). The driver and several passengers of the bus had gotten off the bus which was being repaired when a lorry coming from the same direction crashed into the back of the bus, injuring the bus driver and other passengers on the road.
+
+The accident had occurred as the driver of the lorry lost control of the vehicle, according to police.
+
+The driver and several passengers of the bus who sustained critical injuries from the accident, have been rushed to Manakulam Hospital whereas three of them were pronounced dead upon admission to the hospital.
+
+The driver and a passenger of the lorry have also been injured and were admitted to Kilinochchi Hospital.
+
+...
 
 [Data](articles/6b8fae64.json)
 
@@ -2227,95 +2307,5 @@ Nevertheless, the people of the villagers have been protesting not to carry out 
 [Data](articles/2e4a7cc2.json)
 
 [Extended Data](ext_articles/2e4a7cc2.ext.json)
-
----
-
-### Giant
-
-*2024-06-25 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/186939) · `ta`
-
-In Chavakachcheri, Jaffna, there's a 60-year-old tree known for its unusually large mango leaves, measuring about 60 cm long and 20 cm wide, far exceeding the typical size of 34 cm for mangoes themselves.
-
-🟩
-
-The miracle of a tree tree is unusually 60 years old in Chavakachcheri, Jaffna.
-
-Normally, a mango is 34 centimeters long, but the mango leaf is about 60 centimeters long and 20 centimeters wide.
-
-The mango leaf in the courtyard of Mana's house on Chavakachcheri Touch Road has grown uncontrollably.
-
-◼️
-
-[Data](articles/a2bc3265.json)
-
-[Extended Data](ext_articles/a2bc3265.ext.json)
-
----
-
-### Sri Lanka apparel showcased in London under ‘Your Vital Island’ brand
-
-*2024-06-25 14:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-apparel-showcased-in-london-under-your-vital-island-brand-169469/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s textile and apparel industry has showcased the country as a sourcing destination at an exhibition in the United Kingdom, the Export Development Board said.
-
-The primary goal of Sri Lanka’s participation in the exhibition is to discover new buyers and provide a boost to the country’s apparel export sector aiming to increase apparel exports to the United Kingdom by a billion dollar in 2026, the EDB said.
-
-Sri Lanka unveiled its “Your Vital Island” brand to reaffirm its “dedication to meeting global standards while preserving its distinctive identity.”
-
-“It signals a promise of unparalleled quality, unique products, and customized services, all delivered with genuine authenticity.”
-
-The export promotion programme titled “Sourced Sri Lanka” was organized by the EDB, Sri Lanka Apparel Sourcing Association (SLASA), Sri Lanka High Commission in the UK, and Joint Apparel Association Forum (JAAF).
-
-...
-
-[Data](articles/5df3b1d0.json)
-
-[Extended Data](ext_articles/5df3b1d0.ext.json)
-
----
-
-### Maximum support of the Bora Federation Success
-
-*2024-06-25 14:18:36* · [`adalk`](https://www.ada.lk/breaking_news/බෝරා-සම්මේලනය-සාර්ථක-කර-ගැනීමට-රජයේ-උපරිම-සහාය/11-410426) · `si`
-
-Senior Presidential Advisor Sagala Ratnayake directed officials to fully support the Bora Community's National Congress in Sri Lanka, scheduled for July 7-16. The event marks the 200th Spiritual Conference of the Bora Community in Karachi, Pakistan, expected to draw around 15,000 participants from over a thousand countries, including India. Representatives from various Sri Lankan institutions, such as the External Affairs Ministry, Defense, Immigration, and tourism bodies, among others, attended a meeting at the Presidential Secretariat to discuss preparations.
-
-🟩
-
-Senior Presidential Advisor and Presidential Staff Head of President Sagala Ratnayake instructed the relevant officials to provide the best support of the National Congress of the Bora Community to be held in Sri Lanka.
-
-Mr. Sagala Ratnayake was given the instructions at a discussion held at the Presidential Secretariat yesterday (24).
-
-The Bora Conference is held from July 7 to 16th to the 200th the Spiritual Conference of Bora Community in Karachi, Pakistan.
-
-Since a thousand countries, including India, India, India, about 15,000 members of the Bora Community, were discussed at length.
-
-External Affairs Minister Ali Sabri, Chief of Defense Staff, Department of Immigration, Sri Lanka Tourism Development Authority, Sri Lanka Tourism Development Authority, Sri Lanka Tourism Promotion Bureau, Sri Lanka Police, Muslim Religious AffairsA group of officers representing many line institutions, including a number of line institutions, were also present.
-
-◼️
-
-[Data](articles/0549c372.json)
-
-[Extended Data](ext_articles/0549c372.ext.json)
-
----
-
-### Injunction against Minister Wijeyadasa extended further
-
-*2024-06-25 14:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/100093/-injunction-against-minister-wijeyadasa-extended-further) · `en`
-
-The Colombo District Court has further extended the interim order issued preventing Justice Minister Wijeyadasa Rajapakshe from functioning as Chairman of the Sri Lanka Freedom Party (SLFP).
-
-This order was issued when a plaint filed by the Treasurer of SLFP, State Minister Lasantha Alagiyawanna was taken up before the court today (25).
-
-Meanwhile, the Colombo District Court granted time for the respondents to file objections in this regard.
-
-Subsequently, the case was ordered to be recalled on July 09, and the injunction will remain in effect until that date.
-
-◼️
-
-[Data](articles/c756ea4b.json)
-
-[Extended Data](ext_articles/c756ea4b.ext.json)
 
 ---

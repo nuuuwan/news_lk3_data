@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 02:34:56**
+As of **2024-06-27 02:53:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,358 (100.0%) of 32,359 articles have been extended.
+32,359 (100.0%) of 32,359 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The MEP also urged the EC to convene an immediate discussion summoning all polit
 ◼️
 
 [Data](articles/94a850a7.json)
+
+[Extended Data](ext_articles/94a850a7.ext.json)
 
 ---
 

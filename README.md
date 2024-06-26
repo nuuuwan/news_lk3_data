@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 05:37:10**
+As of **2024-06-26 06:20:52**
 
 ## Newspaper Stats
 
-*Scraped **32,169** Articles*
+*Scraped **32,181** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ colombotelegraphcom | 295
 dbsjeyarajcom | 295
 bbccomsinhala | 317
 newsfirstlk | 363
-islandlk | 1,781
+islandlk | 1,790
 economynextcom | 1,868
-dailyftlk | 1,973
+dailyftlk | 1,976
 adalk | 2,834
 adaderanalk | 3,653
 tamilmirrorlk | 3,791
@@ -26,11 +26,53 @@ adaderanasinhalalk | 5,274
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,161 (100.0%) of 32,169 articles have been extended.
+32,167 (100.0%) of 32,181 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### Sri Lanka’s solitary non-Govigama Prime Minister and President
+
+*2024-06-26 05:39:14* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-solitary-non-Govigama-Prime-Minister-and-President/4-763469) · `en`
+
+India, the world’s biggest democracy, held Parliamentary elections this year in seven phases from 19 April to 1 June. 642 million persons voted in the poll. Results were announced on 4 June. The incumbent Prime Minister Narendra Modi was re-elected PM for the third time. His party the Bharatiya Janata Party (BJP) won 240 of 572 Lok Sabha or Parliament seats. Together with allied parties the BJP led National Democratic Alliance (NDA) obtained 293 seats in Parliament.
+
+The election results have been continuously analysed and commented upon from the time of the poll. A significant aspect of these analyses and commentaries is the “caste factor”. Indian analysts and commentators are not “shy” about discussing caste openly when dissecting poll results. It is an acknowledged fact in India that caste plays a very influential role in determining the outcome of elections in many electorates, regions or states. Many Indians delve into the “caste in elections” topic without any inhibitions.
+
+...
+
+[Data](articles/4bd181e5.json)
+
+---
+
+### Emerging Presidential election campaigns in Sri Lanka: Liberal consensus and fringe politics
+
+*2024-06-26 05:33:58* · [`dailyftlk`](https://www.ft.lk/columns/Emerging-Presidential-election-campaigns-in-Sri-Lanka-Liberal-consensus-and-fringe-politics/4-763468) · `en`
+
+In the lead up to Presidential elections, the three leading political camps—the President Ranil Wickremesinghe-led Government, the Samagi Jana Balawegaya (SJB), and the National People’s Power (NPP)—appear to converge on two key issues, namely, an International Monetary Fund (IMF)-led path to economic recovery, and the continuity of the Provincial Councils (PC) system.
+
+On the economic front, the current IMF program is now backed, to varying degrees, by all three camps. The SJB and the NPP, from the Opposition, argue that they would negotiate the Government’s IMF deal to more favourable terms that especially benefit the more vulnerable, poorer sections of society. This indicates one side of the policy convergence that ‘there is no alternative’ to the IMF.
+
+...
+
+[Data](articles/7297c29a.json)
+
+---
+
+### Corporate Governance Listing Rules on Board policies
+
+*2024-06-26 05:25:47* · [`dailyftlk`](https://www.ft.lk/columns/Corporate-Governance-Listing-Rules-on-Board-policies/4-763467) · `en`
+
+Effective governance is paramount to ensuring transparency, accountability, and sustainability
+
+Under the new Corporate Governance Listing Rules, it is mandatory for all companies listed on the Colombo Stock Exchange to publish the policies outlined below by 1 October 2024 on their websites. This requirement is aimed at ensuring compliance with a stringent framework of policies that promote transparency, accountability, and ethical conduct. These policies are instrumental in shaping the operational landscape of companies, building trust among stakeholders, and safeguarding shareholder interests.
+
+...
+
+[Data](articles/8c7e7e83.json)
+
+---
 
 ### LAUGFS Rubber triumphs at National Business Excellence Awards 2024
 
@@ -43,6 +85,8 @@ LAUGFS Rubber emerged as the “Winner in the Large Category” and secured the 
 ...
 
 [Data](articles/c91c53db.json)
+
+[Extended Data](ext_articles/c91c53db.ext.json)
 
 ---
 
@@ -62,6 +106,8 @@ A committee comprising representatives from the Sri Lanka Air Force (SLAF), the 
 
 [Data](articles/afdf2c3a.json)
 
+[Extended Data](ext_articles/afdf2c3a.ext.json)
+
 ---
 
 ### CEB seeks new service provider for Thambapawani wind power plant maintenance
@@ -80,6 +126,8 @@ The proposal to this effect submitted by the Power and Energy Minister Kanchana 
 
 [Data](articles/8be9613e.json)
 
+[Extended Data](ext_articles/8be9613e.ext.json)
+
 ---
 
 ### Keells Supermarkets and DMS introduce self-checkout systems to South Asia from Diebold Nixdorf USA
@@ -96,21 +144,31 @@ This is a remarkable milestone for Keells as they have become the first supermar
 
 [Data](articles/ce5a4921.json)
 
+[Extended Data](ext_articles/ce5a4921.ext.json)
+
 ---
 
-### உறுமய காணி உறுதியைப் பெறும் மக்களின் உரிமையைப் பறிக்க யாருக்கும் இடமளிக்கப் போவதில்லை - ஜனாதிபதி
+### The President is not going to allow anyone to take the right of the Urumaya land.
 
 *2024-06-26 05:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/186982) · `ta`
 
-உறுமய  நிரந்தர காணி உறுதித் திட்டத்திற்காக அரச அதிகாரிகள் பலர் அர்ப்பணிப்புடன் செயற்படும் அதேவேளை, சிலர் அதனை சீர்குலைக்க முயல்வதாக தகவல்கள் கிடைத்துள்ளதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe reaffirmed the commitment to the Urumaya land guarantee program, urging citizens to report any officials disrupting it. He emphasized the importance of securing land rights for all, comparing the process to how whites acquired land historically. The President called upon MPs to investigate reports of disruptive officials and encouraged all parliamentarians to support the program. He also highlighted the Agricultural Modernization Program to boost farmers' income and agricultural production.
 
-அவ்வாறான அதிகாரிகள் குறித்த தகவல்களை தமது பிரதேசத்திலுள்ள பாராளுமன்ற உறுப்பினர்களுக்கு வழங்குமாறு மக்களிடம் ஜனாதிபதி கோரிக்கை விடுத்துள்ளார். அந்தத்  தகவல்களை தனக்குப் பெற்றுத் தருமாறு பாராளுமன்ற உறுப்பினர்களிடம் ஜனாதிபதி கோரினார்.
+🟩
 
-தமக்குரிய காணி உறுதியைப் பெற்றுக்கொள்ளும் உரிமையைப் பறிக்க எவருக்கும் இடமளிக்க முடியாது என வலியுறுத்திய ஜனாதிபதி, இந்த வேலைத்திட்டத்தை வெற்றியடைய அனைத்து பாராளுமன்ற உறுப்பினர்களின் ஆதரவை ஆளும் கட்சி, எதிர்க்கட்சி என்ற பேதமின்றி எதிர்பார்ப்பதாகவும் ஜனாதிபதி தெரிவித்தார்.
+President Ranil Wickremesinghe said that while many state officials are dedicated to the Urumaya permanent land guarantee program, some are trying to disrupt it.
+
+The President has requested the people to provide information about such officials to MPs in his area. The president asked MPs to get the information.
+
+The President urged that no one can allow him to take the right to obtain his own land, and that the ruling party is expecting the support of all parliamentarians to win the program.
+
+Under the National Program for the Urumaya Urumaya Land Confirmation Scheme, 1768 people in the 17 Divisional Secretariat of Ampara District were given land guarantees at the Ampara Weerasinghe Stadium on Tuesday (25). Speaking at the event, President Ranil Wickremesinghe said this.
 
 ...
 
 [Data](articles/9e0bd7a0.json)
+
+[Extended Data](ext_articles/9e0bd7a0.ext.json)
 
 ---
 
@@ -192,17 +250,25 @@ Approximately 15,000 members of the Bora community from various countries, inclu
 
 ---
 
-### Factum கண்ணோட்டம் : பிரிக்ஸ், உலகளாவிய சமபங்கு மற்றும் டொலர் மதிப்பினை நீக்குதல்
+### Factum Overview: BRICS, Global Equality and Dollar Elimination
 
 *2024-06-26 04:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/186981) · `ta`
 
-அபிவிருத்தி அடைந்துவரும் நாடொன்று, மிகவும் சிக்கலான பொருளாதார நெருக்கடியை எதிர்கொள்கிறது. வேலையின்மை நிலை அதிகரித்து வருகின்றது, ஆனால் பணவீக்கம் அதனைவிட மிகவும் வேகமாக அதிகரித்து வருகின்றது. தேசிய வங்கிகளில் வெளிநாட்டு நாணய இருப்பு வெறுமையாக உள்ளது. எரிபொருள் மற்றும் எரிவாயு இருப்புக்களும் அவ்வாறே உள்ளன.
+Developing nations face a severe economic crisis marked by rising unemployment and inflation, depleted foreign currency reserves, and critical shortages in fuel, gas, and essentials. International financial institutions are concerned about these countries' ability to repay debts, highlighting governance failures and corruption. The United Nations Development Project reports a significant increase in the cost of living, affecting over 105 developing countries. The global economic crisis exacerbates these issues, leading to social unrest and potential political crises. Amidst these challenges, there's a push for financial reform, including debt relief and the elimination of the US dollar as the dominant global currency, advocating for a shift towards a more equitable global economy.
 
-சர்வதேச நிதி நிறுவனங்கள் இதுபற்றி தட்டிக் கேட்டன. அ) நிதி உறுதியற்ற தன்மை அல்லது ஆ) பணம் செலுத்துவதில் உள்ள இயல்புநிலை இ) மேற்குறித்த இரண்டு விடயங்களாலும் ஏற்பட்ட அரசியல் அமைதியின்மை குறித்து அவர்கள் மகிழ்ச்சியடையவில்லை. தனிப்பட்ட கலந்துரையாடல்களில், அரசாங்கங்களின் அடுத்தடுத்த தோல்வி மற்றும் நுகர்வோர் விலை உயர்வு ஆகியவற்றிலேயே கவனம் செலுத்துகின்றனர். அரசியல் வெளிகளில் இடம்பெறும் கலந்துரையாடல்களை பொறுத்தவரை, அவை தேசிய ரீதியான ஊழல், அலட்சியம் மற்றும் தீவிரமான மாற்றத்தின் தேவை ஆகியவற்றில் கவனம் செலுத்துகின்றன.
+🟩
+
+A developing country, faces a more complex economic crisis. Unemployment level is increasing, but inflation is increasing much faster than that. Foreign currency existence in national banks is empty. Fuel and gas reserves are the same.
+
+International financial institutions have heard about this. A) Financial Contact or b) The default in paying the payment of the two issues of the above. In personal discussions, they focus on the subsequent failure of governments and the rise of consumer prices. As for discussions in political spaces, they focus on national corruption, negligence and the need for serious change.
+
+If you belong to the south of the world, this explanation may seem like your country. But it refers to more than 105 -year -old developing countries in the world.
 
 ...
 
 [Data](articles/180ff652.json)
+
+[Extended Data](ext_articles/180ff652.ext.json)
 
 ---
 
@@ -584,6 +650,52 @@ Minister of Women and Child Affairs Geeta Kumarasinghe made this statement while
 
 ---
 
+### How ISMM could contribute towards the eradication of corruption
+
+*2024-06-25 20:07:00* · [`islandlk`](http://island.lk/how-ismm-could-contribute-towards-the-eradication-of-corruption/) · `en`
+
+The Institute of Supply and Materials Management (ISMM) in Sri Lanka holds a unique and important position in shaping the country’s supply chain and procurement practices. As the founder and government-recognized institute in the field, ISMM’s role extends beyond education and training to include consultancy and advocacy for best practices in supply chain management.
+
+The pressing need for a robust procurement law in Sri Lanka to eradicate corruption presents a significant opportunity for ISMM to leverage its resources, expertise, and influence.
+
+...
+
+[Data](articles/cc794a5a.json)
+
+---
+
+### Constituent Change in the S&P Sri Lanka 20 Index
+
+*2024-06-25 20:03:00* · [`islandlk`](http://island.lk/constituent-change-in-the-sp-sri-lanka-20-index-4/) · `en`
+
+The Colombo Stock Exchange (CSE) announces the following change in S&P Sri Lanka 20 index constituents made by S&P Dow Jones Indices at the 2024 Mid-Year rebalance.
+
+The exclusions and inclusion as announced by S&P Dow Jones Indices, effective from 24th June 2024 (after the market close of 20th June 2024) are presented below.
+
+The S&P SL 20 index includes the 20 largest companies, by total market capitalization, listed on the CSE that meet minimum size, liquidity, and financial viability thresholds. The constituents are weighted by float-adjusted market capitalization, subject to a single stock cap of 15%, which is employed to reduce single stock concentration.
+
+The S&P SL 20 index has been designed in accordance with international practices and standards. All stocks are classified according to the Global Industry Classification Standard (GICS®), which was co-developed by S&P Dow Jones Indices and MCSI and is widely used by market participants throughout the world.
+
+...
+
+[Data](articles/6e2ebc3e.json)
+
+---
+
+### Sri Lanka’s first influencer ramp walk at ‘Beauty Pink Night’
+
+*2024-06-25 20:03:00* · [`islandlk`](http://island.lk/sri-lankas-first-influencer-ramp-walk-at-beauty-pink-night/) · `en`
+
+Dettol, a leading global health and hygiene brand, introduced its latest Skincare soap to the Sri Lankan market with a grand celebration. The launch event, named “Dettol Beauty Pink Night,” was a glamorous affair, featuring Sri Lanka’s first influencer ramp walk.
+
+This extraordinary occasion drew some of the country’s most beloved and influential female social media personalities, including Rozanne Diasz, a renowned figure in Sri Lankan fashion and modeling, and Hasini Gunasekara, a prominent beautician and entrepreneur. The event was not only a visual delight but also an insightful gathering where experts shared their knowledge, emphasizing the importance of a proper skincare routine, helping the audience understand how to achieve and maintain healthy skin.
+
+...
+
+[Data](articles/e3933480.json)
+
+---
+
 ### The world's deception from Negombo to the
 
 *2024-06-25 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198149) · `si`
@@ -611,6 +723,20 @@ However, as promised not profit, she had lodged a complaint with the Criminal In
 [Data](articles/4a03027c.json)
 
 [Extended Data](ext_articles/4a03027c.ext.json)
+
+---
+
+### Combank crossing hogs the limelight at share market trading
+
+*2024-06-25 19:58:00* · [`islandlk`](http://island.lk/combank-crossing-hogs-the-limelight-at-share-market-trading/) · `en`
+
+The share market was driven by crossings yesterday. A Commercial Bank crossing was the main contributor to the market. It contributed more than 70 percent to the turnover.
+
+In the Commercial Bank crossing/arranged transaction three buyers purchased its shares, including DFCC Bank and two other companies. Besides this Combank transaction, seven crossings drove the market. However, investors were waiting eagerly for President Wickremasinghe’s policy statement. Amid those developments both indices showed mixed reactions. The All Share Price Index rose by 5.4 points while S and P SL20 declined by 1.37 points.
+
+...
+
+[Data](articles/d1e7f665.json)
 
 ---
 
@@ -2149,173 +2275,5 @@ The current chairman of this question was inquired from the present Chairman of 
 [Data](articles/2db051f6.json)
 
 [Extended Data](ext_articles/2db051f6.ext.json)
-
----
-
-### More information about the dead salary soldier
-
-*2024-06-25 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198136) · `si`
-
-In a recent incident involving Indian fishermen in the North Sea, ten were arrested for illegal fishing and taken to the Kankasanthurai harbor. A navy personnel, identified as a 40-year-old from Kurunegala, tragically died during the operation. The fishermen are now under the jurisdiction of the Mylidi Fisheries Office for further legal proceedings.
-
-🟩
-
-The 10 Indian fishermen who were arrested were taken to the Kankasanthurai harbor to engage in illegal fishing activities in the North Sea.
-
-The group will be handed over to Mylidi Fisheries Office for further legal action.
-
-An accident was killed in an accident in the operation to arrest the Indian fishermen.
-
-Navy was a 40-year-old Navy personnel who died in the accident.
-
-A special operation was launched in Sri Lanka today (25), including the Indian fishing vessels in the local kankesanthurai area.
-
-The operation was carried out using the northern naval command of the Northern Naval Command.
-
-Ten fishermen were taken into custody with a Indian fishing vessel who had been involved in unauthorized fisheries.
-
-The Navy said that with the arrest of the Indian fishermen and dangerous the Indian fishermen were aggressively and a sailor was seriously injured.
-
-He was then taken to the land of Jaffna Teaching Hospital.
-
-The maritime is a 40 year old Navy, a resident of the Ibbagamuwa, Kurunegala.
-
-◼️
-
-[Data](articles/ba9e483d.json)
-
-[Extended Data](ext_articles/ba9e483d.ext.json)
-
----
-
-### Sri Lanka to digitize monks’ education through piriven
-
-*2024-06-25 13:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-digitize-monks-education-through-piriven-169449/) · `en`
-
-ECONOMYNEXT – Sri Lanka will digitalize education in priven, or schools for monks, cabinet spokesman minister Bandula Gunawardena said.
-
-“The president is committed to digitalizing classrooms,” Gunawardena told reporters on Tuesday. “The same should apply for piriven.”
-
-“We have 825 piriven in this country with over 100,000 students,” Gunawardena said.
-
-These monastic colleges will be provided computers, smart boards and printers.
-
-Sri Lanka is in the process of digitizing its classrooms with funding from the Chinese Government. (Colombo/Jun25/2024)
-
-◼️
-
-[Data](articles/2318e232.json)
-
-[Extended Data](ext_articles/2318e232.ext.json)
-
----
-
-### Enjoining order against Wijayadasa extended
-
-*2024-06-25 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198135) · `si`
-
-The Colombo District Court issued an injunction against Wijayadasa, chairman of the SLFP, due to a complaint by Lasantha Alagiyawanna, the party's treasurer. The court also directed the filing of protective measures and set a hearing for July 9th.
-
-🟩
-
-The Colombo District Court today (25) ordered the injunction of the SLFP as the Chairman of the Sri Lanka Freedom Party and a member of the party.
-
-The complaint was lodged by Mr. Lasantha Alagiyawanna, Minister of Treasurer of Sri Lanka Freedom Party.
-
-When the complaint was called to date, the courts gangs to file protectors when they were called today.
-
-Thereafter, the court ordered to be summoned to July 9, the court ordered to be extended order.
-
-◼️
-
-[Data](articles/4a2b4cb5.json)
-
-[Extended Data](ext_articles/4a2b4cb5.ext.json)
-
----
-
-### Cabinet nod for developing Sri Lanka’s World War II-era Hingurakkogda airbase
-
-*2024-06-25 12:46:00* · [`economynextcom`](https://economynext.com/cabinet-nod-for-developing-sri-lankas-world-war-ii-era-hingurakkogda-airbase-169432/) · `en`
-
-ECONOMYNEXT — Three months after the government announced plans to revamp the World War II-era Hingurakkgoda airbase to an international airport, Sri Lanka’s cabinet of ministers has approved a proposal to develop it into a fully fledged airport.
-
-The Government Information Department said on Tuesday June 25 that a joint proposal by President Ranil Wickremesinghe in his capacity as Minister of Defence and Minister of Ports, Shipping and Aviation Nimal Siripala de Silva to “make preparations to develop Higurakgoda Airport as a complete airport”.
-
-According to the statement, the purported preparations will be based on the recommendations made by a committee comprising representatives of the Sri Lanka Air Force, the Sri Lanka Civil Aviation Authority, Airports and Aviation Company (Sri Lanka) (Pvt) Ltd and the Road Development Authority. The committee was appointed to formulate a master plan for the airport and related tasks.
-
-...
-
-[Data](articles/da01f7e2.json)
-
-[Extended Data](ext_articles/da01f7e2.ext.json)
-
----
-
-### Sri Lanka to sign Paris Club debt deals Wednesday: Minister
-
-*2024-06-25 12:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-sign-paris-club-debt-deals-wednesday-minister-169439/) · `en`
-
-ECONOMYNEXT – Sri Lanka will sign agreements with Paris Club creditors Wednesday, after cabinet appoved the deals, spokesman Minister Bandula Gunawardana said.
-
-The relevant senior officials and State Minister Shehan Semasinghe has already left the country to sign the agreements, he said.
-
-Sri Lanka has held detailed negotiations with bilateral creditors ever since a sovereign default in 2022 and President Ranil Wickremesinghe has personally met leaders of friendly countries to expedite the restructuring, he said.
-
-The finalizing of the restructure was a ‘great victory’ for Sri Lanka he said.
-
-Details will be revealed to parliament by President Wickremesinghe and an address to the nation on Wednesday he said.
-
-Discussion with private bondholders are also taking place separately, he said. (Colombo/June25/2024)
-
-◼️
-
-[Data](articles/fe58b01a.json)
-
-[Extended Data](ext_articles/fe58b01a.ext.json)
-
----
-
-### We bring Julian Asngee to Australia - Australian Prime Minister
-
-*2024-06-25 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/186926) · `ta`
-
-Australian PM Antony Albenes announced in parliament that WikiLeaks founder Julian Assange will be extradited to Australia for court proceedings, facilitated by the Australian Embassy in London. This comes after a lengthy legal battle during Albenes' tenure as Labor Party leader and opposition leader.
-
-🟩
-
-Australian Prime Minister Antony Alpenis has told parliament that WikiLeaksa Julian Asanjay is being brought to Australia.
-
-We are aware that Julian Asngee is going to face court proceedings in Australia.
-
-The Australian Prime Minister has said that Australia's embassy assistance has been provided by Ambassador to the British Ambassador.
-
-He said that the Julian Assane affair had long been dragged on when he served as the leader of the Labor Party and the leader of the opposition.
-
-Antony Albenez has stated that we are bringing him to Australia.
-
-◼️
-
-[Data](articles/245ed167.json)
-
-[Extended Data](ext_articles/245ed167.ext.json)
-
----
-
-### LPL complete reserves here
-
-*2024-06-25 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198134) · `si`
-
-The Lanka Premier League (LPL) has announced the total reserves for its five participating teams.
-
-🟩
-
-The total reserves of the 5 teams played for the Lanka Premier League Tournament have been named.
-
-◼️
-
-[Data](articles/d0f532b3.json)
-
-[Extended Data](ext_articles/d0f532b3.ext.json)
 
 ---

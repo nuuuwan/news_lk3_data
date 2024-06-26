@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 20:04:59**
+As of **2024-06-26 20:19:35**
 
 ## Newspaper Stats
 
-*Scraped **32,303** Articles*
+*Scraped **32,304** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,55 +20,89 @@ adaderanalk | 3,676
 tamilmirrorlk | 3,816
 dailymirrorlk | 4,733
 virakesarilk | 5,009
-adaderanasinhalalk | 5,306
+adaderanasinhalalk | 5,307
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,297 (100.0%) of 32,303 articles have been extended.
+32,303 (100.0%) of 32,304 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### திடீரென பதவி விலகினார் மஹேல ஜயவர்தன
+### ජනාධිපති ජාතිය අමතා සිදුකරන විශේෂ ප්‍රකාශය
+
+*2024-06-26 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198190) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ජාතිය අමතා සිදු කරන විශේෂ ප්‍රකාශය ඉහත වීඩියෝවෙන් නැරඹිය හැකිය.
+
+අද අපේ රටට වැදගත් දවසක්. ද්වි පාර්ශ්වික ණය ප්‍රතිව්‍යුහගත කිරීමේ සාකච්ඡා අද අවසන් කරමින් අවසන් එකඟත්වයකට එළඹුණා.
+
+මේ එකඟතාවයන් සමග විදේශ රටවල සියලු ද්විපාර්ශ්වික ණය වාරික ගෙවීම 2028 වසර දක්වා කල් දමාගැනීමට අපට හැකිවෙයි.
+
+ඉන්පසු සහනදායි කොන්දේසි මත සියලු ණය ගෙවා අවසන් කරන්න 2043 දක්වා දිගු කාලයක් ලබා ගන්නත් අපට අවස්ථාව ලැබේවි.
+
+ඊළඟට තියෙන්නේ විදේශීය බැදුම්කර හිමියන් ද ඇතුළත් වාණිජ ණය හිමියන් සමග  එකඟතාවයකට එළඹීම.
+
+2022 වසරේ දළ දේශීය නිෂ්පාදිතයෙන් 9.2%ක ප්‍රමාණයක් විදේශ ණය ගෙවීම සඳහා වැය කිරීමට අපට සිදුවුණා.
+
+2027 සිට 2032 දක්වා ණය ගෙවීම දළ දේශීය නිෂ්පාදිතයෙන් 4.5% කටත් අඩු ප්‍රමාණයක් පවත්වාගෙන යෑමට දැන් ඉඩ සැලසෙනවා.
+
+2022දී රජයේ වාර්ෂික දළ මූල්‍ය අවශ්‍යතා දළ දේශීය නිෂ්පාදිතයෙන් 34.6%ක්. මේ එකඟතා නිසා එය 2027 සහ 2032 කාලය වෙද්දී එය 13%කට වඩා අඩු වෙයි.
+
+2022 අප්‍රේල් මාසයේ ශ්‍රී ලංකාව ණය වෙන්න බැරි බව නිල වශයෙන් ප්‍රකාශ කළා.
+
+...
+
+[Data](articles/5510bb6f.json)
+
+---
+
+### Mahela Jayawardena suddenly resigned
 
 *2024-06-26 19:44:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-பதவி-விலகினார்-மஹேல-ஜயவர்தன/175-339485) · `ta`
 
-இலங்கை கிரிக்கெட் அணியின் முன்னாள் தலைவர மஹேல ஜயவர்தன இலங்கை கிரிக்கெட் அணியின் ஆலோசக பயிற்றுவிப்பாளர் பதவியில் இருந்து உடனடியாக அமுலுக்கு வரும் வகையில் திடீரென விலகியுள்ளார்.
+Former captain of the Sri Lankan cricket team, Mahela Jayawardene, has suddenly resigned from the post of Sri Lanka Cricket Advisor Instructor.
 
-உடனடியாக அமுலுக்கு வரும் வகையில் அவர் தனது பதவியை ராஜினாமா செய்துள்ளதாக சிறிலங்கா கிரிக்கெட் அறிவித்துள்ளது. R
+Sri Lanka has announced that he has resigned from his post immediately. Remble
 
 ◼️
 
 [Data](articles/4b35e92d.json)
 
+[Extended Data](ext_articles/4b35e92d.ext.json)
+
 ---
 
-### சீனா - இலங்கைக்கு இடையில் முக்கிய ஒப்பந்தம் கைச்சாத்தானது
+### China - Main deal between Sri Lanka has been signed
 
 *2024-06-26 19:41:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனா-இலங்கைக்கு-இடையில்-முக்கிய-ஒப்பந்தம்-கைச்சாத்தானது/175-339484) · `ta`
 
-இலங்கைக்கும் சீனா எக்சிம் வங்கிக்கும் இடையிலான இருதரப்பு கடன் நிவாரண ஒப்பந்தம் பெய்ஜிங்கில் இன்று (26) மாலை கைச்சாத்திடப்பட்டுள்ளது.
+The bilateral credit relief agreement between Sri Lanka and Eyes Bank has been signed in Beijing this evening.
 
-4.2 பில்லியன் டொலர் கடனை மறுசீரமைக்க இரு தரப்பும் இறுதி உடன்பாட்டை எட்டிய பின்னர் இந்த ஒப்பந்தம் கையெழுத்தானது. R
+The agreement was signed after both sides reached the final agreement to restructure a $ 4.2 billion loan. Remble
 
 ◼️
 
 [Data](articles/784559a0.json)
 
+[Extended Data](ext_articles/784559a0.ext.json)
+
 ---
 
-### මහේල ඉල්ලා අස්වෙයි
+### Mahela resigns
 
 *2024-06-26 19:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198189) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් පුහුණු උපදේශක තනතුරින් මහේල ජයවර්ධන මහතා ඉල්ලා අස්වූ බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනයක් නිකුත් කරමින් පවසයි.
+Sri Lanka Cricket has issued a statement that Maheera Jayawardene resigned from the post of Sri Lanka Cricket Training Consultant.
 
 ◼️
 
 [Data](articles/92b5c360.json)
+
+[Extended Data](ext_articles/92b5c360.ext.json)
 
 ---
 
@@ -87,6 +121,8 @@ Jayawardena had initially joined SLC as a Consultant Coach in September 2022 ahe
 ...
 
 [Data](articles/f568ea00.json)
+
+[Extended Data](ext_articles/f568ea00.ext.json)
 
 ---
 
@@ -152,35 +188,41 @@ Meanwhile, she added that the US encourages Sri Lanka to continue the reform pro
 
 ---
 
-### චීනයේ චන්ද්‍ර ගවේෂණයන් හි සන්ධිස්ථානගත ජයග්‍රහණයට චීන ජනපතිගෙන් සුබ පැතුම්
+### Chinese president greets Chinese President's lunar exploration in China
 
 *2024-06-26 18:20:24* · [`adalk`](https://www.ada.lk/breaking_news/චීනයේ-චන්ද්‍ර-ගවේෂණයන්-හි-සන්ධිස්ථානගත-ජයග්‍රහණයට-චීන-ජනපතිගෙන්-සුබ-පැතුම්/11-410456) · `si`
 
-චීනයේ ‘චන්ග්අ 6’ අභ්‍යවකාශ යානය  යළි පෘථිවියට ළඟාවෙයි. එම යානයේ ආපසු පැමිණීමේ කොටස චීනයේ ඇතුළු මොංගෝලියානු ස්වායත්තයේ නියමිත ප්‍රදේශයට  ගොඩබැස ඇත්තේ ඊයේ (25) පස්වරුවේ යි. චන්ද්‍රයාගේ ඈත ප්‍රදේශයෙන් ලබාගත් ‍පළමු සාම්පල එම යානය මගින් රැගෙන ඒම විශේෂත්වයකි.
+Changt 6 'spacecraft reaches Earth again. The return part of the plane is landed in the area of ​​China. The plane is the first samples obtained from the Hot area.
 
-මේ අතර, ජනාධිපති ෂී ජින් පිං මහතා, චීනයේ චන්ද්‍ර ගවේෂණ ව්‍යාපෘතියේ “ චන්ග් අ 6 ” මෙහෙයුම් මූලස්ථානයේ ඉංජිනේරුවරුන් ඇතුළු එම මෙහෙයුමට එක්වූ සමස්ත කාර්ය මණ්ඩලය වෙත සිය උණුසුම් සුබ පැතුම් පිරිනැමීය.
+Meanwhile, President Xi Jin Pin offered his warm wandering to the entire staff of the Chang of Changa Silva, China's Lunar Exploration Project, including the engineers.
 
-සඳේ ඈත ප්‍රදේශයෙන් සාම්පල පෘථිවියට රැගෙන ඒම, උසස් අභ්‍යවකාශ ගවේෂණ ශක්‍යතා සහිත රටක් නිර්මාණය කිරීමේ කාර්යයේ දී අත් කර ගැනුණු සන්ධිස්ථානගත ජයග්‍රහණයක් බව ද ජනාධිපතිවරයාගේ සුබ පැතුම් පණිවිඩයේ දැක්වේ. රටේ අභ්‍යවකාශ ගවේෂණ ව්‍යාපෘතීන් අඛණ්ඩව ඉදිරියට මෙහෙයවීම තම අපේක්ෂාව බව ද ඔහු කියාසිටී.
+The President's greeting message is a milestone achievement of the samples of the moon. He also prompted the country's space exploration projects continuing.
 
 ◼️
 
 [Data](articles/d04aff10.json)
 
+[Extended Data](ext_articles/d04aff10.ext.json)
+
 ---
 
-### අධ්‍යාපන අමාත්‍යාංශයෙන් විශේෂ නිවේදනයක්
+### Special announcement from the Ministry of Education
 
 *2024-06-26 18:15:21* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-අමාත්‍යාංශයෙන්-විශේෂ-නිවේදනයක්/11-410455) · `si`
 
-අධ්‍යාපනය සඳහා වූ ජාතික විශ්වවිද්‍යාලයක් ආරම්භ කරන බවත් ඒ හරහා අධ්‍යාපනවේදී උපාධිධාරීන් 2028න් පසුව පාසල්වලට එක්වෙන බවත් අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසයි. එම නිවේදනය පහත පරිදි වෙයි.
+Ministry of Education issued a statement saying that a national university has been launched to education and will join school after 2028 graduates.. The announcement is as follows.
 
-"1986 දී ආරම්භ කරන ලද ජාතික අධ්‍යාපන විද්‍යාපීඨ අද වන විට 19ක් ඇත. මෙම විද්‍යාපීඨවලට ඇතුළත් වන අභ්‍යාසලාභීන් ශික්ෂණලාභී ගුරුභවතුන් ලෙස වසර 03ක පුහුණුවක් ලැබීමෙන් පසුව ශ්‍රී ලංකා ගුරු සේවයට ඇතුළත්ව පාසල්වල  1-11 ශ්‍රේණිවල විවිධ විෂයන් ඉගැන්වීම සඳහා පත්කරනු ලැබේ.
+"The National Colleges of Education established in 1986 has 19 today. Trainees included in these Colleges of Scholarships as teacher teachers and appointed to teach different subjects in 1-11 to the Sri Lanka Teachers' Service.
 
-අධ්‍යාපනයේ ජාත්‍යන්තර ප්‍රමිතීන් පවත්වාගෙන යාම සඳහා නව ප්‍රවණතාවන්ට සරිලන පරිදි විෂයන් අනුව අධ්‍යාපනවේදී උපාධිධාරී ගුරුවරුන් ලෙස විද්‍යාපීඨ ශික්ෂණලාභින් බඳවා ගැනීමට අධ්‍යාපන අමාත්‍යාංශය විසින් කටයුතු කරමින් සිටී.
+The Ministry of Education is working to recruit a scientific teachers as graduate teachers as graduate teachers in order to maintain the international standards of education.
+
+Accordingly, a need for a separate national education university has arisen. Therefore, the government has already taken a policy decision to start a trade unions in the field of trade unions and the trade unions in the field of education and the participation of the field of education.
 
 ...
 
 [Data](articles/87ba7d05.json)
+
+[Extended Data](ext_articles/87ba7d05.ext.json)
 
 ---
 
@@ -2265,27 +2307,5 @@ There were 22 students and 8 students and the teacher was admitted to the Muttur
 [Data](articles/de5b5df9.json)
 
 [Extended Data](ext_articles/de5b5df9.ext.json)
-
----
-
-### Sri Lanka Trotskyist beat the IMF to property tax decades ago, Minister says
-
-*2024-06-26 08:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-trotskyist-beat-the-imf-to-property-tax-decades-ago-minister-says-169565/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s former Finance Minister N M Perera, who was a member of a Trotskyist party, has beaten the International Monetary Fund to impose property taxes on citizens decades ago, State Minister for Finance Ranjith Siyambalapitiya has explained.
-
-A property tax was implemented even when N.M. Perera was the Finance Minister, Siyambalapitiya said.
-
-Perera was a member of Sri Lanka’s Trotskyist Lanka Sama Samaja Party and was in the cabinet of a 1970s administration that imposed severe exchange and import controls in a so-called ‘closed economy’.
-
-Perera studied at the London School of Economics, under Harold Laski, a noted Marxist who tried to take UK’s Labour Party deeper even into the left.
-
-In 1971 the US dollar collapsed against its specie anchor, taking the Bretton Woods with it after money was printed to target employment as doctrines involving unsound money that was widely taught widely at so-called ‘Saltwater’ universities.
-
-...
-
-[Data](articles/35ecd240.json)
-
-[Extended Data](ext_articles/35ecd240.ext.json)
 
 ---

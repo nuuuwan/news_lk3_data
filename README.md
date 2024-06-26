@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 14:19:27**
+As of **2024-06-26 14:35:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,293
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,247 (100.0%) of 32,252 articles have been extended.
+32,252 (100.0%) of 32,252 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ During the three-hour hearing, Assange pleaded guilty to one criminal count of c
 ...
 
 [Data](articles/38a1e25d.json)
+
+[Extended Data](ext_articles/38a1e25d.ext.json)
 
 ---
 
@@ -98,6 +100,8 @@ Police further stated that the motive behind the shooting has not yet been uncov
 
 [Data](articles/d61a4159.json)
 
+[Extended Data](ext_articles/d61a4159.ext.json)
+
 ---
 
 ### A Grama Niladhari arrested for bribery
@@ -148,19 +152,27 @@ The senior management of the Ceylon Petroleum Corporation and the Minister of Ce
 
 ---
 
-### කොළඹ කොටුව උණුසුම් තත්වයක්
+### Colombo Fort warm
 
 *2024-06-26 13:19:38* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-කොටුව-උණුසුම්-තත්වයක්/11-410449) · `si`
 
-ගුරු - විදුහල්පති ඒකාබද්ධ කමිටුව විසින් ආරම්බ කර ඇති විරෝධතාවය හේතුවෙන් කොළඹ කොටුව දුම්රියපොළ ඉදිරිපිට මාර්ගය අවහිර වී ඇති බව වාර්තා වෙයි. මේ අතර පොලීසියෙන් ජල හා කඳුළු ගෑස් ප්‍රහාරයක් ද එල්ල කර තිබේ.
+Protests in Colombo Fort involve road blockades, police action with water cannons and tear gas, and demonstrations across several areas including Lotus Road. Key figures like Fort Sandiyananayake and religious leaders have issued statements. The Ministry of Finance and its Secretary have been mentioned, along with instructions related to movement around the area. A court order permits peaceful demonstrations but restricts entry into certain zones.
 
-විරෝධතාවය හේතුවෙන් කොටුව, ලෝටස් පාර සහ සෙසු ප්‍රදේශ රැසක මේ වන විට දැඩි රථවාහන තදබදයක් නිර්මාණය වී තිබේ.
+🟩
 
-කොම්පඤ්ඤවීදිය පොලීසිය අධිකරණයෙන් කළ ඉල්ලීමක් අනුව විරෝධතාවයට එක්වන ජෝසප් ස්ටාර්ලින්, මහින්ද ජයසිංහ, අමිල සඳරුවන්, වාස් ගුණවර්ධන, පූජ්‍ය උලපනේ සුමංගල හිමි, මයුර සේනානායක, පූජ්‍ය යල්වල පඤ්ඤාසේකර හිමි, පුංචිහෙට්ටි, මොහාන් පරාක්‍රම වීරසිංහ සහ ඉහත නම් සඳහන් අයගේ සාමාජිකයින් වෙත කොටුව මහෙස්ත්‍රාත් අධිකරණයෙන් ආඥාවක් ද නිකුත් කර තිබේ.
+The road has been blocked by the Colombo Fort Railway Station. Meanwhile, police have also attacked water and tear gas.
 
-...
+The protest has now been created in the Fort, Lotus Road and other areas.
+
+Fort Sandiyananayake, Punchiutti, Vass Gunawardena, Ven. Ulapene Sandarrama, Ven. Yalli Sandiyakara and Ven.Issued.
+
+Accordingly, the Ministry of Finance, the Secretary to the Ministry of Finance, to NSA roundabout from the Fort and Sabarakara from the NSA roundabout from NSA roundabout from NSA roundabout.The court order not to enter the legal permission of legal permission only to hand over the Meadays. Meanwhile, the court order is said that this order has no obstacle to the main right of a peaceful demonstration without illegal behavior.
+
+◼️
 
 [Data](articles/58a82115.json)
+
+[Extended Data](ext_articles/58a82115.ext.json)
 
 ---
 
@@ -282,21 +294,29 @@ As a result, heavy traffic congestion has been found on the streets of Olkot, Ol
 
 ---
 
-### නවතා තිබූ සැප බස් රථයේ ලොරියක් ගැටීමෙන් තිදෙනෙක් මරුට, දෙදෙනෙකුට බරපතලයි
+### Three killed, two seriously killed in a lorry collision
 
 *2024-06-26 12:45:56* · [`adalk`](https://www.ada.lk/picture_story/නවතා-තිබූ-සැප-බස්-රථයේ-ලොරියක්-ගැටීමෙන්-තිදෙනෙක්-මරුට--දෙදෙනෙකුට-බරපතලයි/10-410446) · `si`
 
-මාන්කුලම් පොලිස් වසමේ යාපනය ,මහනුවර  ඒ 9 ප්‍රධන මාර්ගයේ පනිච්චන්කුලම් ප්‍රදේශයේ දී ඊයේ (25) රාත්‍රියේ සිදුවු රිය අනතුරකින් පුද්ගලයින් තිදෙනෙක් ජීවිතක්ෂයට පත් වූ බවට පොලීසිය පැවසීය.
+In a tragic accident on the Jaffna-Kandy A9 road, three died, two critically injured after a luxury bus collided with a lorry. The bus, en route from Jaffna to Colombo, broke down due to a technical issue, delaying rescue efforts. Police report the lorry lost control, causing the crash. Several passengers and the driver were hurt, including a 39-year-old Jaffna resident whose identity remains unknown.
 
-යාපනය දෙස සිට කොළඹ දෙසට ධාවනය වූ අධි සුඛෝපභෝගී බස් රථයක් ධාවනය වෙමින් තිබියදී ඇති වූ කාර්මික දෝෂයක් හේතුවෙන් නැවතී ඇති අතර පසුව එය යථා තත්වයයට පත්කරගැනීම සඳහා බස් රථයේ රියදුරු ඇතුලු සහයයකයින් කිහිපදෙනෙකු බස් රථයෙන් බැස පරික්ෂා කරමින් සිට ඇත.
+🟩
 
-මේ අතර යාපනය දෙස සිටම කොළඹ දෙසට ධාවනය වූ ලොරි රථයක් රියදුරුට පාලනය කර ගැනීමට නොහැකිව නවතා තිබූ සුඛෝපභෝගී බස් රථයේ පිටුපස ගැටීමෙන් මෙම අනතුර සිදුව ඇතැයි පොලීසිය පැවසීය.
+Three persons were killed in an accident in the Jaffna, Kandy A9 refund in the Jaffna, Kandy A9 main road.
 
-ගැටීම සිදුවන අවස්ථාවේදී බස්රථයේ රියදුරු, ඇතුලු සහයකයින් මෙන්ම මගීන් කිහිපදෙනෙක් තුවාල ලැබීය.බස් රථයේ රියදුරු සමගින් සිව් දෙනෙකු බරපතළ තුවාල ලබා ඊයේ (25) රාත්‍රීයේ ම  මාන්කුලම රෝහලට ඇතුළත් කර ඇති අතර එම අවස්ථාවේදී රියදුරු ඇතුලු තිදෙනෙක් ජීවිතක්ෂයට පත්ව ඇති අතර තවත් දෙදෙනෙකු තුවාල ලබා ප්‍රතිකර ලබයි.
+A high luxury bus traveling from Jaffna to Colombo has been stopped due to a technical fault, and several assistants of the bus to restore it.
 
-...
+Meanwhile, the police said that the accident had occurred when the luxury bus had accidentally collided with a lorry that was not able to control the lorry.
+
+The driver, including driver, and several passengers were injured in the same night with the driver of the bus..
+
+Two other people who were unable to verify the driver and identity of the bus, a 39-year-old resident of Jaffna.
+
+◼️
 
 [Data](articles/16ca46f6.json)
+
+[Extended Data](ext_articles/16ca46f6.ext.json)
 
 ---
 

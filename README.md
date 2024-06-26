@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 05:19:26**
+As of **2024-06-26 05:37:10**
 
 ## Newspaper Stats
 
-*Scraped **32,161** Articles*
+*Scraped **32,169** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,105 @@ bbccomsinhala | 317
 newsfirstlk | 363
 islandlk | 1,781
 economynextcom | 1,868
-dailyftlk | 1,969
+dailyftlk | 1,973
 adalk | 2,834
 adaderanalk | 3,653
 tamilmirrorlk | 3,791
 dailymirrorlk | 4,733
-virakesarilk | 4,988
+virakesarilk | 4,992
 adaderanasinhalalk | 5,274
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,159 (100.0%) of 32,161 articles have been extended.
+32,161 (100.0%) of 32,169 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### LAUGFS Rubber triumphs at National Business Excellence Awards 2024
+
+*2024-06-26 05:15:46* · [`dailyftlk`](https://www.ft.lk/business/LAUGFS-Rubber-triumphs-at-National-Business-Excellence-Awards-2024/34-763465) · `en`
+
+LAUGFS Rubber, a leading manufacturer of industrial solid tyres, has once again demonstrated its industry leadership and commitment to excellence by winning multiple accolades at the prestigious National Business Excellence Awards (NBEA) 2024.
+
+LAUGFS Rubber emerged as the “Winner in the Large Category” and secured the title of “Winner for Excellence in Business and Financial Results – Large Category”. Additionally, the company earned the “Bronze Award – Overall” and was recognised as the runner-up in the Export Sector for the third consecutive year, as well as received a Merit Award for Global Market Reach. The recent awards night was organised by the National Chamber of Commerce of Sri Lanka (NCCSL) and honoured Sri Lankan brands for their outstanding business performance and contributions to the country’s economic progress.
+
+...
+
+[Data](articles/c91c53db.json)
+
+---
+
+### Major development for Higurakgoda Airport
+
+*2024-06-26 05:14:33* · [`dailyftlk`](https://www.ft.lk/business/Major-development-for-Higurakgoda-Airport/34-763464) · `en`
+
+The Government has announced plans to develop Hingurakgoda Airport to meet international civil aviation standards based on the expert committee recommendations.
+
+The joint proposal to this effect presented by President Ranil Wickremesinghe in his capacity as Defence Minister, and the Ports, Shipping and Aviation Minister Nimal Siripala De Silva was approved by the Cabinet of Ministers at its meeting on Monday.
+
+Currently managed by the Sri Lanka Air Force, the airport’s transformation is part of a strategic initiative to boost the country’s aviation infrastructure.
+
+A committee comprising representatives from the Sri Lanka Air Force (SLAF), the Sri Lanka Civil Aviation Authority (CAASL), Airports and Aviation Company (Sri Lanka) Ltd. (AASL) and the Road Development Authority (RDA) has been appointed to draft a master plan for the airport’s development and oversee related tasks.
+
+...
+
+[Data](articles/afdf2c3a.json)
+
+---
+
+### CEB seeks new service provider for Thambapawani wind power plant maintenance
+
+*2024-06-26 05:14:19* · [`dailyftlk`](https://www.ft.lk/business/CEB-seeks-new-service-provider-for-Thambapawani-wind-power-plant-maintenance/34-763463) · `en`
+
+Cabinet of Ministers on Monday approved initiating a competitive procurement process by the Ceylon Electricity Board (CEB) for selecting a new service provider to ensure the continued efficient operation and maintenance of the Thambapawani Wind Power Plant.
+
+The Thambapawani Wind Power Plant, a significant contributor to country’s renewable energy sector, was under commercial monitoring since 18 May 2021. The CEB had previously contracted Vestas Wind Lanka Ltd., for a three-year period, which concluded on 17 May 2024.
+
+The selection process aims to secure a provider capable of upholding these standards and supporting the plant’s long-term operational goals.
+
+The proposal to this effect submitted by the Power and Energy Minister Kanchana Wijesekera was approved by the Cabinet of Ministers.
+
+◼️
+
+[Data](articles/8be9613e.json)
+
+---
+
+### Keells Supermarkets and DMS introduce self-checkout systems to South Asia from Diebold Nixdorf USA
+
+*2024-06-26 05:13:59* · [`dailyftlk`](https://www.ft.lk/business/Keells-Supermarkets-and-DMSintroduceself-checkout-systems-to-South-Asia-from-Diebold-Nixdorf-USA/34-763462) · `en`
+
+Standing alongside two Diebold Nixdorf self-checkout machines at a Keells Supermarket are, from left : JKH Asst. Vice President Nishan Rathnayake, JKH Senior Asst. Vice President Amila Kuruppu, DMS Asst. General Manager Himesh Abeysekera and DMS Sales and Marketing Manager Sampath De Silva
+
+Keells, a leading supermarket chain has upped its game by introducing self-checkout systems from Diebold Nixdorf USA; the global leader for retail automation systems.
+
+This is a remarkable milestone for Keells as they have become the first supermarket to implement self-checkout systems in the whole of South Asia, well ahead of larger markets in this region like India, Pakistan and Bangladesh.
+
+...
+
+[Data](articles/ce5a4921.json)
+
+---
+
+### உறுமய காணி உறுதியைப் பெறும் மக்களின் உரிமையைப் பறிக்க யாருக்கும் இடமளிக்கப் போவதில்லை - ஜனாதிபதி
+
+*2024-06-26 05:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/186982) · `ta`
+
+உறுமய  நிரந்தர காணி உறுதித் திட்டத்திற்காக அரச அதிகாரிகள் பலர் அர்ப்பணிப்புடன் செயற்படும் அதேவேளை, சிலர் அதனை சீர்குலைக்க முயல்வதாக தகவல்கள் கிடைத்துள்ளதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+அவ்வாறான அதிகாரிகள் குறித்த தகவல்களை தமது பிரதேசத்திலுள்ள பாராளுமன்ற உறுப்பினர்களுக்கு வழங்குமாறு மக்களிடம் ஜனாதிபதி கோரிக்கை விடுத்துள்ளார். அந்தத்  தகவல்களை தனக்குப் பெற்றுத் தருமாறு பாராளுமன்ற உறுப்பினர்களிடம் ஜனாதிபதி கோரினார்.
+
+தமக்குரிய காணி உறுதியைப் பெற்றுக்கொள்ளும் உரிமையைப் பறிக்க எவருக்கும் இடமளிக்க முடியாது என வலியுறுத்திய ஜனாதிபதி, இந்த வேலைத்திட்டத்தை வெற்றியடைய அனைத்து பாராளுமன்ற உறுப்பினர்களின் ஆதரவை ஆளும் கட்சி, எதிர்க்கட்சி என்ற பேதமின்றி எதிர்பார்ப்பதாகவும் ஜனாதிபதி தெரிவித்தார்.
+
+...
+
+[Data](articles/9e0bd7a0.json)
+
+---
 
 ### $ 150 m World Bank assistance to improve primary healthcare services
 
@@ -45,6 +127,8 @@ Capacity challenges and absence of a formal referral mechanism have led to the u
 ...
 
 [Data](articles/8e25441c.json)
+
+[Extended Data](ext_articles/8e25441c.ext.json)
 
 ---
 
@@ -65,6 +149,8 @@ He also said that he is prepared to face any challenge on behalf of the motherla
 ...
 
 [Data](articles/cef6d22d.json)
+
+[Extended Data](ext_articles/cef6d22d.ext.json)
 
 ---
 
@@ -106,6 +192,20 @@ Approximately 15,000 members of the Bora community from various countries, inclu
 
 ---
 
+### Factum கண்ணோட்டம் : பிரிக்ஸ், உலகளாவிய சமபங்கு மற்றும் டொலர் மதிப்பினை நீக்குதல்
+
+*2024-06-26 04:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/186981) · `ta`
+
+அபிவிருத்தி அடைந்துவரும் நாடொன்று, மிகவும் சிக்கலான பொருளாதார நெருக்கடியை எதிர்கொள்கிறது. வேலையின்மை நிலை அதிகரித்து வருகின்றது, ஆனால் பணவீக்கம் அதனைவிட மிகவும் வேகமாக அதிகரித்து வருகின்றது. தேசிய வங்கிகளில் வெளிநாட்டு நாணய இருப்பு வெறுமையாக உள்ளது. எரிபொருள் மற்றும் எரிவாயு இருப்புக்களும் அவ்வாறே உள்ளன.
+
+சர்வதேச நிதி நிறுவனங்கள் இதுபற்றி தட்டிக் கேட்டன. அ) நிதி உறுதியற்ற தன்மை அல்லது ஆ) பணம் செலுத்துவதில் உள்ள இயல்புநிலை இ) மேற்குறித்த இரண்டு விடயங்களாலும் ஏற்பட்ட அரசியல் அமைதியின்மை குறித்து அவர்கள் மகிழ்ச்சியடையவில்லை. தனிப்பட்ட கலந்துரையாடல்களில், அரசாங்கங்களின் அடுத்தடுத்த தோல்வி மற்றும் நுகர்வோர் விலை உயர்வு ஆகியவற்றிலேயே கவனம் செலுத்துகின்றனர். அரசியல் வெளிகளில் இடம்பெறும் கலந்துரையாடல்களை பொறுத்தவரை, அவை தேசிய ரீதியான ஊழல், அலட்சியம் மற்றும் தீவிரமான மாற்றத்தின் தேவை ஆகியவற்றில் கவனம் செலுத்துகின்றன.
+
+...
+
+[Data](articles/180ff652.json)
+
+---
+
 ### PM calls for Special Parliament session on 2 July
 
 *2024-06-26 04:31:32* · [`dailyftlk`](https://www.ft.lk/news/PM-calls-for-Special-Parliament-session-on-2-July/56-763457) · `en`
@@ -121,6 +221,38 @@ The special parliamentary sitting has been called in pursuance of Standing Order
 [Data](articles/22b72b4a.json)
 
 [Extended Data](ext_articles/22b72b4a.ext.json)
+
+---
+
+### Factum Perspective: டிஜிட்டல் மற்றும் கடல்சார் எதிர்காலங்களை உருவாக்குதல்
+
+*2024-06-26 03:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/186980) · `ta`
+
+இராஜதந்திர மற்றும் தொழில்நுட்ப ஈடுபாடுகளின் தொடரில், இலங்கை தனது டிஜிட்டல் மற்றும் கடல்சார் உட்கட்டமைப்பை மேம்படுத்துவதற்காக முன்னேறி வருவதாகத் தெரிகிறது.
+
+இந்தோனேசியாவுக்கான தனது உத்தியோகபூர்வ விஜயத்தின் போது ஜனாதிபதி ரணில் விக்கிரமசிங்க இந்தோனேசிய அதிகாரிகள் மற்றும் டெஸ்லா மற்றும் ஸ்பேஸ் எக்ஸ் நிறுவனத்தின் பிரதம நிறைவேற்று அதிகாரியான எலோன் மஸ்க் ஆகியோருடன் கலந்துரையாடினார். 10வது உலக நீர் மன்றத்தின் பின்னணியில் நிகழும் இந்த சந்திப்புகள் இலங்கையில் பல்வகையான பிரதிபலிப்புக்களை உருவாக்கியுள்ளது, ஆனால் எதிர்காலத்திற்கான பாதையை உருவாக்கலாம்.
+
+...
+
+[Data](articles/e914fd83.json)
+
+---
+
+### மன்னாரில் மீளக்குடியேறிய பின்னர் தமது விவசாய நிலங்களை மீள பெற்றுத்தருமாறு கோருகின்றனர் - க.கனகேஸ்வரன்
+
+*2024-06-26 03:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/186979) · `ta`
+
+நாட்டில் இடம்பெற்ற யுத்தம் காரணமாக மன்னார் மாவட்டமும் பாதிக்கப்பட்டிருந்தது. மீள் குடியேற்றத்தின் பின்னர் நாங்கள் எதிர் நோக்குகின்ற முக்கியமான பிரச்சனையாகப் பொருளாதாரத்தை மீளக் கட்டியெழுப்புவதில் உள்ளது என மன்னார் மாவட்ட அரசாங்க அதிபர் க.கனகேஸ்வரன் தெரிவித்துள்ளார்.
+
+உண்மை ஒற்றுமை மற்றும் நல்லிணக்க பொறி முறைகளுக்கான இடைக்கால செயலகத்தின் ஏற்பாட்டில் உத்தேச சட்ட வரைவு நிறுவுவதற்கு ஜனாதிபதியின் ஏற்பாட்டில் குறித்த குழு இன்றைய தினம் செவ்வாய்க்கிழமை(25) மன்னருக்கான விஜயம் ஒன்றை மேற்கொண்டிருந்தனர்.
+
+மன்னார் மாவட்டச் செயலகத்தில் இன்றைய தினம் செவ்வாய்க்கிழமை(25) காலை 9 மணியளவில் மன்னார் மாவட்ட செயலக கேட்போர் கூடத்தில் அரசாங்க அதிபர் க.கனகேஸ்வரன் தலைமையில் பிரதேசச் செயலாளர் உள்ளிட்ட திணைக்கள தலைவர்களை  உண்மை ஒற்றுமை மற்றும் நல்லிணக்க பொறி முறைகளுக்கான இடைக்கால செயலகத்தின்  உத்தேச சட்ட வரைவு நிறுவுவதற்கான குழுவினர் சந்தித்துக் கலந்துரையாடி உள்ளனர்.
+
+இதன் போது மாவட்டத்தில் உள்ள பல்வேறு பிரச்சினைகள் குறித்துக் குறித்த குழுவினர் கலந்துரையாடி உள்ளனர்.
+
+...
+
+[Data](articles/7e03122c.json)
 
 ---
 
@@ -2185,193 +2317,5 @@ The total reserves of the 5 teams played for the Lanka Premier League Tournament
 [Data](articles/d0f532b3.json)
 
 [Extended Data](ext_articles/d0f532b3.ext.json)
-
----
-
-### I will jump into the new symbol: Vijayadasa
-
-*2024-06-25 12:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/புதிய-சின்னத்தில்-குதிப்பேன்-விஜயதாச/76-339394) · `ta`
-
-Vijayadasa Rajapakse, SLFP's interim injunction leader and minister, assures no issues with party leadership post-presidential victory. He mentions introducing a new symbol for the party, hinting at changes in political strategy.
-
-🟩
-
-The Sri Lanka Freedom Party (SLFP) interim injunction leader and minister Vijayadasa Rajapakse has said that there will be no problem with the party leadership after winning the presidential election.
-
-He was speaking to the media on Monday (23) in Kandy.
-
-A meeting of the Sri Lanka Freedom Party (SLFP) regional representatives of the Kandy District was chaired by former leader Maithripala Sirisena and the interim injunction under the chairmanship of Minister Vijayadasa Rajapaksa.
-
-“I am coming to the presidential election. We win, then, all the cases filed against me will be canceled by the Constitution. There will be no problem with the party leadership then. Party members have said that those who hold positions as party leaders are beaten if they come to Kandy. Party members do better.  10 முதல் 12 பேர் தங்களை பலப்படுத்த கட்சியை காட்டிக்கொடுக்க முயற்சிக்கின்றனர்.
-
-...
-
-[Data](articles/282b70a6.json)
-
-[Extended Data](ext_articles/282b70a6.ext.json)
-
----
-
-### Constable's work to shoot constable
-
-*2024-06-25 12:29:08* · [`adalk`](https://www.ada.lk/breaking_news/කොස්තාපල්ට-වෙඩි-තියන්න-ගිය-කොස්තාපල්ගේ-වැඩ-තහනම්/11-410422) · `si`
-
-In Kahathuduwa, an amateur police constable, Nandasena, aged 23, was shot while on duty. The incident occurred when he was asleep, and it was later discovered that he had been assaulted previously. A phone call from a sergeant alerted the police, leading to the recovery of the firearm used. Two other constables intervened, disarming the shooter. Nandasena filed a complaint, resulting in the suspect's arrest and remand. SSP Prasanna Brahman initiated an investigation into the matter.
-
-🟩
-
-Police headquarters has banned the duties of the Amateur Police Constable to be taken into custody in Kahathuduwa police station (TBA).23-year-old officer.
-
-The officer of the 100271 Nandasena has been working in the police station at the next 17 (18).Police say he was sleeping.
-
-Police investigations have revealed that the Nandasena official had spoken at several other times, but he had a blow to a blow to the head, as he was not woke up.
-
-The telephone operator was also informed by a police sergeant in charge of duty that night, he had lodged a complaint with the two persons and a note in the police book on the incident.
-
-The telephone and the suspects had taken place between the telephone and the suspected commander.
-
-...
-
-[Data](articles/7fc051a5.json)
-
-[Extended Data](ext_articles/7fc051a5.ext.json)
-
----
-
-### Thanks to those who voiced for the release of Asngee - Stella Asngee
-
-*2024-06-25 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/186923) · `ta`
-
-Stella Asngee, wife of Julian Asngee, a former WikiLexit member, expressed gratitude towards those advocating for his release. Julian's mother also thanked the efforts that led to the end of his long-term struggle. Julian's father, Johnsipton Asngee, acknowledged the Australian government's role in facilitating his son's freedom.
-
-🟩
-
-Her wife Stella thanked those who voiced the liberation of a WikiLexist, Julian Asngee.
-
-You have been mobilizing for years for years and you have made it possible for many years.
-
-When Stella joined the Association of Stella Asngee, the two first met.
-
-Meanwhile, Julian Asngee's mother -in -law Asngee thanked the end of her son's long -term struggle.
-
-I am grateful for my son's trials that finally ended.
-
-Many people have used my son's situation to advance their own agenda, so I am grateful to the hard workers who have not been invited to the welfare of Julian.
-
-Asngee's father, Johnsipton, thanked the Australian government for spreading for his son.
-
-◼️
-
-[Data](articles/fc744058.json)
-
-[Extended Data](ext_articles/fc744058.ext.json)
-
----
-
-### 13-year-old student who was in the Holman Pandil was attacked hospitalized
-
-*2024-06-25 12:20:02* · [`adalk`](https://www.ada.lk/breaking_news/හොල්මන්-මන්දිරයේ-යකාට-සිටි-13-හැවිරිදි-සිසුවාට-රෝහල්-ගත-වෙන්නම-පහරදීලා/11-410421) · `si`
-
-During the Poson festival in Kalutara, a 13-year-old student was hospitalized after being attacked by a group of children. This incident occurred when three intoxicated individuals were assaulted by the same group. The victim was targeted because they were accused of being a "devil." The local police are investigating the case.
-
-🟩
-
-Three people who have drunk into a hospitals who have drunk into a hospitals who have been assaulted by a group of children who have been involved in the Poson festival are reported from the Kalutara area in Kalutara.
-
-A schoolgake at the Kalutara Survey Hospital, a schoolgirl hospitalized has been hospitalized after a resident of Pwelpola Land Road, Kalutara.
-
-A group of small children in the area has been set up hard-long-suffering mansion and held in the Poson days. It is reported that three drunken layers of drunkenness have entered the season.
-
-The child who is hospitalized has been profounded into a demon, and that the three warnated was the neck of the devil's neck and assaulted the Devil. Kalutara North Police are conducting further investigations.
-
-◼️
-
-[Data](articles/a618541c.json)
-
-[Extended Data](ext_articles/a618541c.ext.json)
-
----
-
-### Eligious fever threatens Sri Lanka!;4,904 victims in 5 months
-
-*2024-06-25 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/186919) · `ta`
-
-Sri Lanka faces religious violence, affecting 4,904 in 5 months, primarily targeting farmers and agricultural workers. Vaccination is available seasonally through local health officers.
-
-🟩
-
-Most of the patients who are reported are farmers who engage in paddy cultivation or neighboring professionals.. Those who are harvesting in agricultural activities, on two or two occasions of the year, can obtain a vaccine in their health medical officer - Specialist Tushani de Perera
-
-◼️
-
-[Data](articles/28d2d7e5.json)
-
-[Extended Data](ext_articles/28d2d7e5.ext.json)
-
----
-
-### A body of a person who died in a house
-
-*2024-06-25 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198133) · `si`
-
-In the Medirigiriya Police Division, Polonnaruwa District, a body was discovered in a deserted house. The deceased suffered heavy bleeding from the nose and mouth but no foul play was evident. The body will be examined by Polonnaruwa Judicial Medicine for further investigation.
-
-🟩
-
-The body of a person who died in a deserted house in the Medirigiriya Police Division in the Polonnaruwa District has been found in a desolate house.
-
-Our correspondent said that the person's nose and the panin had bleeding heavily.
-
-No evidence was found in the founding of the body, while the Medirigiriya police said.
-
-Accordingly, the body is to be produced before the Polonnaruwa Judicial Medicine for further investigations.
-
-◼️
-
-[Data](articles/d6920d67.json)
-
-[Extended Data](ext_articles/d6920d67.ext.json)
-
----
-
-### Tamil Nadu CM urges Jaishankar to address fishermen issue with Sri Lanka
-
-*2024-06-25 12:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100088/tamil-nadu-cm-urges-jaishankar-to-address-fishermen-issue-with-sri-lanka) · `en`
-
-Tamil Nadu Chief Minister M. K. Stalin has urged the Indian External Affairs Minister S. Jaishankar to secure the immediate release of all the fishermen and their fishing boats apprehended by Sri Lanka.
-
-The Tamil Nadu Chief Minister has requested Minister Jaishankar in writing to prevail upon the Sri Lankan Government for securing the release of 37 arrested fishermen of Tamil Nadu and to secure expeditious release of the seized boats.
-
-“As I had pointed out in my previous letter, the incidents of arrests and intimidation have been continuing unabated resulting in loss of livelihoods,” he added in his letter, a copy of which was released to the media.
-
-Despite this, yet again, on June 22, 22 fishermen from Rameswaram fishing harbour were apprehended along with their three mechanised fishing boats, Mr. Stalin said in his letter. “I request you to ensure the immediate release of the apprehended fishermen and their boats,” he added.
-
-...
-
-[Data](articles/6ac0eb58.json)
-
-[Extended Data](ext_articles/6ac0eb58.ext.json)
-
----
-
-### Navy woman dies after he was arrested for arrest Indian fishermen
-
-*2024-06-25 12:09:42* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-ධීවරයන්-අත්අඩංගුවට-ගන්න-යාමේදී-නාවික-හමුදා-සෙබලෙක්-මරුට/11-410420) · `si`
-
-In June 2024, a naval operation off the coast of Jaffna resulted in the hospitalization of ten Indian fishermen after their vessel was intercepted for alleged poaching within Sri Lankan waters. The incident highlights ongoing tensions between the Sri Lankan Navy and foreign fishing fleets, emphasizing the navy's efforts to protect local fisheries and enforce maritime boundaries.
-
-🟩
-
-Navy, today (June 254), a special operation conducted in the Kankesanthurai area in general area Jaffna (10) Indian fishermen navalTroops of the Indian fishing vessel against the handling of Indian fishing vessels were seriously injured and admitted to the Jaffna Teaching Hospital.
-
-The Navy is conducting constant operations to combat the illegal fishing of foreign fishing boundaries and maintaining the livelihood of the local fishing community.
-
-Accordingly, today (June 2024), the unauthorized fishing vessels have been monitored by the Northern Naval Command, which has been traveled by the North Naval Command beyond the Sri Lankan waters.Was done. Ten Indian fishermen (10) Indian fishermen were taken into custody with a Indian fishermen (10) of the Indian fishermen.
-
-...
-
-[Data](articles/5697f209.json)
-
-[Extended Data](ext_articles/5697f209.ext.json)
 
 ---

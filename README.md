@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 00:19:40**
+As of **2024-06-27 00:34:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,331 (100.0%) of 32,344 articles have been extended.
+32,334 (100.0%) of 32,344 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -218,6 +218,8 @@ Their actions reveal a culture of opportunism, driven solely by ambitions for pe
 
 [Data](articles/65cc8cfd.json)
 
+[Extended Data](ext_articles/65cc8cfd.ext.json)
+
 ---
 
 ### ‘Sarvajana Balaya’ ready to launch Presidential Election campaign – Dilith Jayaweera
@@ -260,6 +262,8 @@ Sri Lanka should use the opportunity to progress strongly he said.
 
 [Data](articles/236cbf04.json)
 
+[Extended Data](ext_articles/236cbf04.ext.json)
+
 ---
 
 ### Sri Lanka President’s speech after bilateral debt restructuring – full text
@@ -277,6 +281,8 @@ Over the past two years, we have worked diligently to reach agreements with our 
 ...
 
 [Data](articles/67cc41cb.json)
+
+[Extended Data](ext_articles/67cc41cb.ext.json)
 
 ---
 

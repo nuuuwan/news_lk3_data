@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 11:04:50**
+As of **2024-06-26 11:19:24**
 
 ## Newspaper Stats
 
-*Scraped **32,206** Articles*
+*Scraped **32,212** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,104 @@ newsfirstlk | 363
 islandlk | 1,790
 economynextcom | 1,868
 dailyftlk | 1,976
-adalk | 2,837
-adaderanalk | 3,657
-tamilmirrorlk | 3,798
+adalk | 2,838
+adaderanalk | 3,658
+tamilmirrorlk | 3,800
 dailymirrorlk | 4,733
 virakesarilk | 4,994
-adaderanasinhalalk | 5,283
+adaderanasinhalalk | 5,285
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,206 (100.0%) of 32,206 articles have been extended.
+32,206 (100.0%) of 32,212 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### ස්ටාලින් ඇතුළු පිරිසකට තහනමක්
+
+*2024-06-26 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198168) · `si`
+
+අද (26) දහවල් පැවැත්වීමට නියමිතව තිබූ ගුරු - විදුහල්පති විරෝධයට සම්බන්ධ වන පුද්ගලයින් කිහිපදෙනෙකුට එරෙහිව කොටුව මහෙස්ත්‍රාත් අධිකරණයෙන් තහනම් නියෝගයක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/77692d4c.json)
+
+---
+
+### ක්‍රිකට් උඩුයටිකුරු කළ ඩක්වර්ත් ජීවිතයෙන් සමුගනී
+
+*2024-06-26 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198167) · `si`
+
+වර්ෂාවෙන් බාධා එල්ලවූ ක්‍රිකට් තරගවල ප්‍රතිඵලය තීරණය කිරීමට යොදාගන්නා ඩක්වර්ත් - ලුවිස් ක්‍රමවේදයේ එක නිපැයුම්කරුවෙක් වූ ෆ්‍රෑන්ක් ඩක්වර්ත් ජීවිතක්ෂයට පත්වී තිබේ.
+
+ඉංග්‍රීසි ජාතික සංඛ්යානවේදීන් වන ඩක්වර්ත් සහ ටෝනි ලුවිස් විසින් නිර්මාණය කරන ලද එම ක්‍රමවේදය පළමුව ජාත්‍යන්තර ක්‍රිකට් තරගයකදී භාවිත කළේ 1997 දීය.
+
+එය ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් විධිමත් ලෙස සම්මත කරන ලද්දේ 2001 දීය.
+
+නමුත් 2014 දී DLS ලෙස එම ක්‍රමවේදය නම්කරන ලද්දේ ඔස්ට්‍රේලියානු ජාතික ස්ටර්න් විසින් එම ක්‍රමවේදයට සිදුකළ වෙනස්කම් සමගිනි.
+
+◼️
+
+[Data](articles/dd19852f.json)
+
+---
+
+### காத்திருந்த மாணவன் கைது
+
+*2024-06-26 10:39:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காத்திருந்த-மாணவன்-கைது/175-339451) · `ta`
+
+தம்புத்தேகம பஸ் நிலையத்தில் நின்றுக்கொண்டிருந்த பாடசாலை மாணவர் ஒருவர் போலி நாணயத்தாள்களுடன் கைது செய்யப்பட்டதாக தம்புத்தேகம பொலிஸார் தெரிவித்தனர்.
+
+குறித்த மாணவன் செவ்வாய்க்கிழமை (25) பிற்பகல் தம்புத்தேகம பேருந்து நிலையத்திற்கு அருகில் சந்தேகத்திற்கிடமாக நின்றுக்கொண்டிருந்ததை அவதானித்த பொலிஸ் உத்தியோகத்தர் ஒருவர் , மாணவனை அழைத்து சோதனையிட்ட போது அவரிடமிருந்து போலி 500 ரூபாய் நாணயத்தாள்கள் ஆறு கைப்பற்றப்பட்டுள்ளது .
+
+பின்னர், பொலிஸாரால் மேற்கொண்ட விசாரணைகளையடுத்து குறித்த மாணவனின் வீட்டை சோதனையிட்ட போது வீட்டில் இருந்து  போலி பணம் அச்சடிக்கும் கருவிகளை கைப்பற்றியுள்ளனர்.
+
+◼️
+
+[Data](articles/6743baf9.json)
+
+---
+
+### 30 school children hospitalised following wasp attack
+
+*2024-06-26 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100105/30-school-children-hospitalised-following-wasp-attack) · `en`
+
+Thirty students and a teacher at a school in the Mutur police division have been hospitalised following a wasp attack.
+
+Police stated that the students, who are preparing to sit for the Grade 05 Scholarship Exam, had attended extra classes at the school last evening (25).
+
+During the class, a wasp nest near the school had been disturbed, causing the students and the teacher at the school to be attacked by wasps.
+
+Twenty-two male students and eight female students along with the teacher have been admitted to Mutur Base Hospital for further treatment.
+
+◼️
+
+[Data](articles/9fd114f6.json)
+
+---
+
+### துப்பாக்கிச்சூட்டில் ஒருவர் காயம்
+
+*2024-06-26 10:24:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டில்-ஒருவர்-காயம்/175-339446) · `ta`
+
+நிவிதிகல பொலிஸ் பிரிவிற்குட்பட்ட பாதகட பகுதியில் நபர் ஒருவர் துப்பாக்கி பிரயோகத்திற்கு உட்பட்டுள்ளார்.
+
+திக்கோவிட்ட வத்த, பாதகட பிரதேசத்தைச் சேர்ந்த 38 வயதுடைய நபரே துப்பாக்கிச் சூட்டில் காயமடைந்துள்ளார்.
+
+காயமடைந்தவர் திருமணமானவர் என்பதுடன், குறித்த நபர் தனது மருமகனுடன் வீட்டு முற்றத்தில் இருந்த போது, ​​முகத்தை மறைத்து அருகில் வந்த இனந்தெரியாத துப்பாக்கிதாரி ஒருவர் இவர் மீது துப்பாக்கிப்பிரயோகத்தை மேற்கொண்டுவிட்டு தப்பிச் சென்றுள்ளார்.
+
+துப்பாக்கிச் சூட்டுக்கு இலக்கான நபரின் காலில் காயம் ஏற்பட்டு நிவித்திகல வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/08bedb10.json)
+
+---
 
 ### A statement that tuition should be regulated
 
@@ -1366,6 +1448,24 @@ In the Commercial Bank crossing/arranged transaction three buyers purchased its 
 
 ---
 
+### ගුරු විදුහල්පතිවරු අද කොළඹට
+
+*2024-06-25 19:29:13* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-විදුහල්පතිවරු-අද-කොළඹට/11-410438) · `si`
+
+ගුරු විදුහල්පතිවරුන්ටසහ අධ්‍යාපනක්ෂේත්‍රයට ඇති වී තිබෙන පොදු ගැටලු විසඳාගැනීමටඅද (26දා) ගුරු විදුහල්පතිවරුන් අසනීප වාර්තා කර කොළඹ කොටුව දුම්රිය පොළ ඉදිරිපිටට රැස් වී විරෝධතා ව්‍යාපාරයක් පවත්වන බව ගුරු විදුහල්පති වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
+
+ඉල්ලීම් කිහිපයක් මුල් කර ගනිමින් ගුරු විදුහල්පතිවරුන්,පිරිවෙන් ගුරුවරුන් හා ගුරු උපදේශකවරුන් අසනීප නිවාඩු වාර්තා කරන බවද එම සන්ධානයේ සාමාජික ලංකා ගුරුසේවා සංගමයේ ලේකම් මහින්ද ජයසිංහ මහතා සඳහන් කළේය.
+
+මෙම ක්‍රියාමාර්ගය සඳහා වෘත්තීය සමිති 30කට අයත් සාමාජිකයන් සම්බන්ධවන බවත් විරෝධතා ව්‍යාපාරය කොළඹ කොටුව දුම්රිය පොළ ඉදිරිපිටදී උදේ 11.00 පැවැත්වීමට සැලසුම් කර තිබෙන බවද පැවසීය.
+
+පවතින ගැටලු විසඳා ගැනීම් සඳහා බලධාරීන් සමග පැවැත්වූ සාකච්ඡා ආසාර්ථක වීම නිසා වැඩවර්ජන ක්‍රියාමාර්ගයකට යාමට සිදුවූ බවත් පවතින ගැටලු විසඳා ගැනීම සඳහා පසුගිය වසරේ නොවැම්බර් මාසයේ සිට මේ දක්වා විරෝධතා ව්‍යාපාර පැවැත්වීමට කටයුතු කළද, ගැටලු විසඳීමට ආණ්ඩුව හෝ බලධාරීන් කටයුතු නොකළ බවද හෙතෙම පැවසීය.
+
+...
+
+[Data](articles/08ca258a.json)
+
+---
+
 ### Investigate the two judges who have been acting in Parliament to inquire to the Minister of Parliament -letter to Minister Wijeyadasa
 
 *2024-06-25 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186974) · `ta`
@@ -2183,159 +2283,5 @@ Additionally, the Ministry of Education stated that it will intervene to bring d
 [Data](articles/b81346a0.json)
 
 [Extended Data](ext_articles/b81346a0.ext.json)
-
----
-
-### A-student addicted to the computer
-
-*2024-06-25 15:59:17* · [`adalk`](https://www.ada.lk/breaking_news/පරිගණකයට-ඇබ්බැහි-වී-උ-පෙළ-සිසුවා-දිවි-නහගෙන/11-410428) · `si`
-
-A high school student from Gampola, known for his addiction to computers and online learning, was tragically shot dead by his mother. The incident occurred while he was staying with his brother, a university lecturer, after their parents left for work. The boy, who feared being overheard during online classes, was found with three self-inflicted wounds before the shooting. Further investigations are ongoing.
-
-🟩
-
-A high school student who has been shot dead by the mother of the job has been investigated, police said.
-
-The deceased has been a 10-year-old student of the Gampola road.
-
-The same brother is a lecturer at the University of Peradeniya and the student has been trained in his room.Shooting has been carried out.
-
-He has been home with the brother, after his mother and father left the home for services.. The eldest brother says that the brother is alone in the room and work lessons. Learned at a International School in Gampola has gone to Kingswood College, Kandy to study the GCE O / Lined O / L examination.
-
-It is said that he was afraid that he could not be heard at the time of time ago. This student has been exerting the online lessons and frequently used the computer and mobile. Investigations also revealed that the student had cut three left-handed places with a sharp knife before being shot. The. He also said that he may have been stress and stressful.
-
-...
-
-[Data](articles/23deb979.json)
-
-[Extended Data](ext_articles/23deb979.ext.json)
-
----
-
-### Trying to deceive people by creating fake news again - Sajith
-
-*2024-06-25 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/186947) · `ta`
-
-Opposition Leader Sajith Premadasa criticizes the government for misleading the public with false narratives amidst Sri Lanka's financial crisis. He emphasizes the importance of transparency and accurate information regarding the country's debt and economic recovery efforts.
-
-🟩
-
-Protecting the Great Wealthy of Friendship. Opposition Leader Sajith Premadasa said that no parliament or president could decide whether the country was bankrupt or not.
-
-Under the Universal Information Technology Program, smart classroom equipment worth Rs.
-
-During this time, a sum of Rs.
-
-At this moment, the country's 220 million people are going to tell the story of the fireworks and drums.
-
-Despite the three tragedies of the lifeblood, the Kovit disaster and the bankruptcy of Sri Lanka, there has been no good news in the recent past.
-
-In the midst of this, some people are preparing for crackers. They are attributed to the recovery of bankruptcy.
-
-The country has suffered a great tragedy as the majority of the country has been deceived by lies in recent years.
-
-Because of this, we have fallen into this great disaster as a country. The country needs to know whether the opportunity to burn this fireworks is actually recovering from bankruptcy or other reason.
-
-...
-
-[Data](articles/998c6cd2.json)
-
-[Extended Data](ext_articles/998c6cd2.ext.json)
-
----
-
-### Cabinet approval to implement the Continental Security Projects
-
-*2024-06-25 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/186944) · `ta`
-
-The Cabinet approved two proposals: one for implementing the Kandaldhavara Security Project under the Ministry of Wildlife and Forest Protection, and another for financial support from the Commonwealth Society's Blue Charter Project Incubator. This support will aid in diagnosing continental and sea interruption projects using satellite and drone technology to predict carbon images in Sri Lanka.
-
-🟩
-
-The Cabinet has approved the proposal submitted by the Minister of Wildlife and Forest Protection, Pavithra Wanniyarachchi, to implement the Forest Reserve and Forest Protection Department under the supervision of the Ministry of Wildlife and Forest Protection to implement the Kandaldhavara Security Project.
-
-The Fund of the Commonwealth Society's Blue Charter Project Incubator has been implemented by the Financial Council of the Commonwealth Safety Program.
-
-The 02 proposals submitted by Sri Lanka have been selected by the Blue Charter Project Incubator of the Commonwealth Organization.
-
-Accordingly, the company has decided to provide financial assistance to the diagnosis of the continental and sea interruption project using satellite and drone technology on predicting the carbon image of the continents in Sri Lanka.
-
-...
-
-[Data](articles/fddb1cf7.json)
-
-[Extended Data](ext_articles/fddb1cf7.ext.json)
-
----
-
-### Cabinet approval for Hingurakgoda Airport development
-
-*2024-06-25 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198141) · `si`
-
-Cabinet approves development of Hingurakgoda Airport, a joint initiative by the President and the Ports, Navy, and Aviation Minister. Managed by the Sri Lanka Air Force, the project involves collaboration with the Civil Aviation Authority, Limited Airport and Air Services, and the Road Development Authority. A committee has been formed to oversee this endeavor.
-
-🟩
-
-Cabinet approval has been paid to take necessary steps to develop the Hingurakgoda Airport as a full airport.
-
-As the Minister of Defense, the Cabinet has approved a joint proposal made by the President and Ports, Navy and Aviation Minister.
-
-The development of Hingurakgoda Airport is currently managed by the Sri Lanka Air Force.
-
-Accordingly, the Sri Lanka Air Force, Civil Aviation Authority, Limited Airport and Air Services (Sri Lanka) and Road Development Authority (Sri Lanka) and Road Development Authority (Sri Lanka)A committee has been appointed.
-
-◼️
-
-[Data](articles/8d8d95ac.json)
-
-[Extended Data](ext_articles/8d8d95ac.ext.json)
-
----
-
-### Advice
-
-*2024-06-25 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/186941) · `ta`
-
-A special disease control program has been initiated by the Ministry of Health to combat the spread of H9N8 bird flu in India. The public is advised to follow health protocols if experiencing fever, understand the disease to prevent its spread, and report sick or dead birds to health officials. Avoid touching bird carcasses and ensure chicken products are properly cooked. The Department of Medical Research has set up PCR testing for H9N8, enhancing diagnosis and safety measures against bird flu.
-
-🟩
-
-A special disease program has been launched under the Ministry of Health to curb the spread of the disease in the country, considering the spread of the spread (H9) in India.
-
-The Bureau of Health has also urged the public to follow health procedures if the fever is reported in the country.
-
-The public should be clear about the disease to prevent the spread of bird flu. If anyone is identified in the country, it is necessary to follow public health procedures. Bird fever is usually spreading among birds. However, rarely spreads among humans.
-
-It is necessary to avoid touching the remains of birds to protect from the infection and touches the chicken meat or eggs after touching the hands. It is also safe to use hand wash fluids instead. Well cooked chicken meat, eggs can be used for food. Please file a complaint with the nearest health officials immediately regarding the sick or dead birds.
-
-...
-
-[Data](articles/355d0d2b.json)
-
-[Extended Data](ext_articles/355d0d2b.ext.json)
-
----
-
-### Mother death by a separate wasps
-
-*2024-06-25 15:12:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தனி-குளவியால்-தாய்-மரணம்/76-339398) · `ta`
-
-Sivakumar Anthony Terinda, a 44-year-old mother of two from Maskeliya, died six days post-treatment at Peradeniya Source Hospital due to a wasp attack. She was initially treated at Maskeliya District Hospital before being transferred to Dikoya-Klangan Source Hospital and then to the Teaching Hospital. The incident occurred on the 19th when workers at Maskeliya Gilland Division encountered separate wasps.
-
-🟩
-
-A woman from Maskeliya, who was targeted for the wasp, has died six days later after being treated at Peradeniya Source Hospital.
-
-The deceased is Sivakumar Anthony Terinda (age 44), the mother of two children.  வயது உடைய 2 குழந்தைகளின் தாய் ஆவார்.
-
-Maskeliya Plantation Company's Maskeliya Gilland Division has been working on the 19th, a separate wasps.
-
-The victim was admitted to the Maskeliya District Hospital and was transferred to the Dikoya-Klangan Source Hospital. However, he has died only after being transferred to the Teaching Hospital for further treatment.
-
-◼️
-
-[Data](articles/bb0da0ec.json)
-
-[Extended Data](ext_articles/bb0da0ec.ext.json)
 
 ---

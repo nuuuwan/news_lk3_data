@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 18:36:47**
+As of **2024-06-26 18:53:46**
 
 ## Newspaper Stats
 
-*Scraped **32,294** Articles*
+*Scraped **32,295** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,674
 tamilmirrorlk | 3,814
 dailymirrorlk | 4,733
 virakesarilk | 5,009
-adaderanasinhalalk | 5,304
+adaderanasinhalalk | 5,305
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,293 (100.0%) of 32,294 articles have been extended.
+32,294 (100.0%) of 32,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### චීන - ශ්‍රී ලංකා ණය ප්‍රතිකර්ම ගිවිසුම අත්සන් කරයි
+
+*2024-06-26 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198188) · `si`
+
+ශ්‍රී ලංකාව සහ චීන එක්සිම් බැංකුව අතර ද්විපාර්ශ්වික ණය ප්‍රතිකර්ම ගිවිසුම අද (26) පස්වරුවේ අත්සන් කර තිබේ.
+
+ජනාධිපති මාධ්‍ය අංශය නිවේදනය කළේ අද බෙයිජිං නුවරදී අදාළ ගිවිසුමට අත්සන් තැබුණු බවය.
+
+ඩොලර් බිලියන 4.2ක ණය ප්‍රතිව්‍යුහගත කිරීම සඳහා දෙපාර්ශ්වය අවසන් එකඟතාවකට පැමිණි පසු මෙම ගිවිසුම සඳහා අත්සන් තබා තිබේ.
+
+◼️
+
+[Data](articles/794b7320.json)
+
+---
 
 ### US urges Sri Lanka to continue fiscal reforms with transparent and sustainable changes
 
@@ -45,6 +61,8 @@ Meanwhile, she added that the US encourages Sri Lanka to continue the reform pro
 ◼️
 
 [Data](articles/14920273.json)
+
+[Extended Data](ext_articles/14920273.ext.json)
 
 ---
 
@@ -2325,35 +2343,5 @@ Accordingly, the two judges have immediately summoned to the Committee on Parlia
 [Data](articles/021a44a9.json)
 
 [Extended Data](ext_articles/021a44a9.ext.json)
-
----
-
-### Father killed in love with father's neck - Father
-
-*2024-06-26 07:22:22* · [`adalk`](https://www.ada.lk/breaking_news/පියාගේ-ගෙලෙහි-ආදරයට-එල්ලුණ-දැරිය-මරුට----පියා-ජාතික-රෝහලට/11-410441) · `si`
-
-In a tragic accident in Divulapitiya Kadawala, MG Hanya Heell Fernando, a six-month-old girl, was killed. Her father suffered serious injuries, and her mother received minor grazes. The family was traveling to Negombo when the incident occurred. The child was critically injured and later transferred from Negombo Hospital to Colombo National Hospital for further treatment. Investigations are ongoing under the leadership of the Divulapitiya Police OIC, Chandrasiri Hiriadeniya.
-
-🟩
-
-A small girl was killed in an accident in the Divulapitiya Kadawala, police said.
-
-The deceased has been identified as MG Hanya Heell Fernando, a half-year-old girl.
-
-The father of the targeted was seriously injured and grazing was also minor injuries.
-
-The deceased girl had gone to Negombo with mother and father with her mother and father and the mother was down to work.
-
-The girl was sitting at the back of the accused with the grandmother with the grandmother, while the father had dropped the acor to the actor.Investigations have revealed that the police were thrown out of the three-wheeler.
-
-The girl was admitted to the Negombo Hospital and the girl was rushed to the Colombo National Hospital for further treatment.
-
-Officers of the Motor Inspector OIC, Inspector General of Police (OIC) and other officials are conducting investigations on the instructions of the OIC of the Divulapitiya Police Chandrasiri Hiriadeniya.
-
-◼️
-
-[Data](articles/0a56d743.json)
-
-[Extended Data](ext_articles/0a56d743.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 13:34:59**
+As of **2024-06-26 13:54:16**
 
 ## Newspaper Stats
 
-*Scraped **32,244** Articles*
+*Scraped **32,245** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,45 +20,75 @@ adaderanalk | 3,662
 tamilmirrorlk | 3,809
 dailymirrorlk | 4,733
 virakesarilk | 5,002
-adaderanasinhalalk | 5,290
+adaderanasinhalalk | 5,291
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,242 (100.0%) of 32,244 articles have been extended.
+32,244 (100.0%) of 32,245 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### அதிபர், ஆசிரியர்கள் மீது கண்ணீர்ப்புகை பிரயோகம்
+### සපුගස්කන්ද තෙල් පිරිපහදුව වෙනම ආයතනයක් කරයි
+
+*2024-06-26 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198174) · `si`
+
+ලංකා ඛනිජතෙල් නීතිගත සංස්ථාව ප්‍රතිව්‍යූහගත කිරීමේ සැලැස්ම යටතේ ඊට අයත් සපුගස්කන්ද තෙල් පිරිපහදුව රජය සතු වෙනම ආයතනයක් බවට පත්කරන බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+
+එමඟින් ඊට අවශ්‍ය ආයෝජන ආකර්ශනය කරගැනීමට හැකිවන අතර ඉන්ධනවල ප්‍රමිතිය, කාර්යක්ෂමතාව සහ ධාරිතාව ඉහළ නංවා පිරිවැය අඩු කිරීමට ද හැකි වනු ඇති බව සිය x ගිණුමේ සටහනක් තබමින් අමාත්‍යවරයා පෙන්වා දෙයි.
+
+ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ දැනට අනුමත සේවක සංඛ්‍යාව සහ වැටුප් ව්‍යූහය ද සමාලෝචනය කෙරෙන අතර විවිධ කාර්යයන් සහ සේවාවන් සඳහා ඩිජිටල් වේදිකා හඳුන්වාදීමට ද නියමිත බවද අමාත්‍යවරයා පවසයි.
+
+මෙම ප්‍රතිසංස්කරණ ක්‍රියාත්මක කළ යුතු කාලරාමුව සහ ක්‍රියාවලිය සම්බන්ධයෙන් ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ සහ තෙල් පිරිපහදුවේ ජ්‍යෙෂ්ඨ කළමනාකාරීත්වය සහ අමාත්‍ය කංචන විජේසේකර මහතා අතර ඊයේ (25) සාකච්ඡාවක් පැවැත්වී තිබේ.
+
+◼️
+
+[Data](articles/6de56382.json)
+
+---
+
+### Tear
 
 *2024-06-26 13:11:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிபர்-ஆசிரியர்கள்-மீது-கண்ணீர்ப்புகை-பிரயோகம்/175-339468) · `ta`
 
-கோட்டை புகையிரத நிலையத்திற்கு அருகில் ஆர்ப்பாட்டத்தில் ஈடுபட்ட ஆசிரியர்கள் மற்றும் அதிபர்கள் சங்க உறுப்பினர்கள் மீது பொலிஸார் கண்ணீர்ப்புகை மற்றும் நீர்த்தாரை பிரயோகம் மேற்கொண்டுள்ளனர்.
+Members of the Teachers and Principals' Association are using tear gas and waterproofing materials near the Fort Railway Station, likely for safety or maintenance purposes.
+
+🟩
+
+Teachers and Principals' Association members have been using tear gas and waterproofing near the Fort Railway Station.
 
 ◼️
 
 [Data](articles/45dae9ed.json)
 
+[Extended Data](ext_articles/45dae9ed.ext.json)
+
 ---
 
-### අසන්ජේ මව් රටට යයි
+### Asanja goes to home country
 
 *2024-06-26 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198173) · `si`
 
-වසර 12ක් පමණ විවිධ තාඩන පීඩන මධ්‍යයේ නිවාස අඩස්සියේ සහ සිර ගෙවල්වල වෙසෙමින් සිය නිදහස උදෙසා දැඩි සටනක යෙදුණු ජුලියාන් අසන්ජේ සිය මව් රට වන ඔස්ට්‍රේලියාව බලා පිටත් වී තිබේ.
+Azanja, charged with revealing U.S. secrets, was extradited from Britain to face charges in the U.S., where he confessed guilt and received a prison sentence.
 
-අමෙරිකාවේ රහස් තොරතුරු හෙළිකිරීමේ චෝදනාව ඔහුට එල්ලවී තිබුණු අතර එම චෝදනාවට වැරැද්ද පිළිගැනීමෙන් අනතුරුව අමේරිකානු විනිසුරුවරයෙක් අද (26) ඔහුට නිදහස ලබාදුනි.
+🟩
 
-වසර 5ක පමණ කාලයක් බ්‍රිතාන්‍ය සිර කුටියක රඳවා සිටි අසන්ජේ සඳුදා (23) විශේෂ ගුවන්යානයකින් පැසිෆික් හි පිහිටි අමෙරිකාවට අයත් සයිපාන් දූපතට ගෙන යන ලදී.
+Juliyan Azanja left for his homeland, Australia, and her freedoms in the midst of the midstairs stress and prison.
 
-ඔහු එහිදී තම වරද පිළිගත් අතර ඔහුට දඬුවම් වශයෙන් එතෙක් සිරගෙවල්වල ගෙවූ කාලය නියම කරන ලදී.
+He was charged with the revelation of the US secret information, and a Amantican referee was released today (26).
+
+A special flight in a British cell for about five years was taken to Cachan Island in the United States of America.
+
+He pleaded his guilty and was sentenced to the time of prisons.
 
 ◼️
 
 [Data](articles/47127760.json)
+
+[Extended Data](ext_articles/47127760.ext.json)
 
 ---
 
@@ -2261,29 +2291,5 @@ What are the institutions that have been permitted to run the storage fairs in C
 [Data](articles/4c3f9e03.json)
 
 [Extended Data](ext_articles/4c3f9e03.ext.json)
-
----
-
-### Tourism Information Center at Palali International Airport
-
-*2024-06-25 19:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/186973) · `ta`
-
-The Governor of the Northern Province, BSM. Mars, inaugurated the Tourism Information Center at Palali International Airport, facilitated by Charles. This center provides tourist guides, highlighting historical sites, places of worship, and local crafts from the Northern Province. Post-inauguration, the Governor toured the airport, engaging with passengers. Key officials including the Chief Secretary, Secretary to the Ministry of Local Government, Chairman of the Tourism Bureau, and Airport Officers were present at the launch.
-
-🟩
-
-Governor of the Northern Province BSM. Mars (25) was opened by Charles.
-
-Tourist guide manuals can be available at the Communications Station, including historic places and places of worship that can travel to tourists in the Northern Province.. The crafts produced in the Northern Province are also on sale.
-
-After the opening of the Communications Center for the tourists, the governor visited the airport activities and discussed with the passengers.
-
-The inauguration of the Communications Center for Tourism, the Chief Secretary of the Northern Province, Secretary to the Ministry of Local Government, Chairman of the Tourism Bureau and Airport Officers.
-
-◼️
-
-[Data](articles/71f4997a.json)
-
-[Extended Data](ext_articles/71f4997a.ext.json)
 
 ---

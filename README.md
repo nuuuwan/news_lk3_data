@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 01:19:41**
+As of **2024-06-27 01:35:47**
 
 ## Newspaper Stats
 
-*Scraped **32,347** Articles*
+*Scraped **32,349** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,72 @@ adalk | 2,862
 adaderanalk | 3,681
 tamilmirrorlk | 3,820
 dailymirrorlk | 4,733
-virakesarilk | 5,018
+virakesarilk | 5,020
 adaderanasinhalalk | 5,310
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,344 (100.0%) of 32,347 articles have been extended.
+32,347 (100.0%) of 32,349 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### கடன் மறுசீரமைப்பு உடன்பாடு வெற்றி
+### ஜனாதிபதி கொண்டு வந்த பிரேரணை மீண்டும் தோற்கடிக்கப்படும்
+
+*2024-06-27 01:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/187058) · `ta`
+
+சட்டமா அதிபர் சஞ்சய் ராஜரத்தினத்தின் பதவிக்காலத்தை மேலும் 6 மாதங்களுக்கு நீடிப்பதற்கான ஜனாதிபதியின் யோசனையை அரசியலமைப்பு பேரவை மீண்டும் நிராகரித்துள்ளது.
+
+இதன்படி குறித்த பிரேரணைக்கு எதிராக 5 பாராளுமன்ற உறுப்பினர்களும், ஆதரவாக 3 பாராளுமன்ற உறுப்பினர்களும் வாக்களித்தனமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/1424b4c9.json)
+
+---
+
+### Success in the Debt Reorganization Agreement
 
 *2024-06-27 01:01:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-மறுசீரமைப்பு-உடன்பாடு-வெற்றி/175-339501) · `ta`
 
-இலங்கை நேற்று முற்பகல் பரிஸ் நகரில் தனது முக்கிய உத்தியோகபூர்வ இருதரப்பு கடன் வழங்குநர்களுடன் கடன் மறுசீரமைப்பு பேச்சுவார்த்தைகளை நிறைவு செய்துள்ளதுடன் உத்தியோகபூர்வ கடன் வழங்குநர் குழுவுடன் இறுதி இணக்கப்பாட்டை எட்டியுள்ளது.
+Sri Lanka has finalized debt restructuring agreements with key creditors, including China's Exim Bank, leading to significant loan relief. The deals, worth $10 billion, aim to alleviate the country's financial strain post-economic crisis in 2022. Negotiations with the IMF and various bilateral credit providers, including Japan, India, France, and others, have paved the way for these agreements. The relief includes extended payment periods, reduced interest rates, and the potential for repurposing tax returns towards public services. These measures are expected to stabilize the economy, resume infrastructure projects, and improve Sri Lanka's credit rating, facilitating easier access to future foreign funding.
 
-மேலும், கடன் மறுசீரமைப்பு தொடர்பில் சீனாவின் எக்ஸிம் வங்கியுடன் பீஜிங்கில் இலங்கை இன்று இறுதி இணக்கப்பாட்டை எட்டியதுடன் அதற்கான புரிந்துணர்வு ஒப்பந்தத்திலும் கையெழுத்திடப்பட்டது.
+🟩
 
-இந்த இணக்கப்பாடுகளுடன், இலங்கை தனது முக்கிய உத்தியோகபூர்வ இருதரப்பு கடன் வழங்குநர்களுக்கான கடன் மறுசீரமைப்பு இணக்கப்பாடுகளை வெற்றிகரமாக நிறைவுசெய்துள்ளது.
+Sri Lanka has completed the debt restructuring talks with its prominent official bilateral credit providers in Paris yesterday morning and has reached its final compliance with the official credit providers' committee.
 
-இந்த உத்தியோகபூர்வ கடன் வழங்குநர் குழுவுடன் ஜப்பான், இந்தியா மற்றும் பிரான்ஸ் இணைந்து தலைமை தாங்கின. அவுஸ்திரேலியா, ஒஸ்டிரியா, பெல்ஜியம், கனடா, டென்மார்க், ஜெர்மனி, ஹொங்கேரியா, கொரியா, நெதர்லாந்து, ரஷ்யா, ஸ்பெயின், ஸ்வீடன், ஐக்கிய இராச்சியம் மற்றும் அமெரிக்கா ஆகியவை இந்த உத்தியோகபூர்வ கடன் வழங்குநர்கள் குழுவின் ஏனைய உறுப்பினர்கள் இருந்தன.
+In addition, Sri Lanka has reached its final compliance with China's Exim Bank on debt renovation and signed a Memorandum of Understanding (MoU).
+
+Along with these compliance, Sri Lanka has successfully completed its major official bilateral credit providers' credit restructuring compliance.
+
+Japan, India and France led the official credit provide group. There were other members of the official credit providers group of Australia, Australia, Australia, Belgium, Canada, Denmark, Germany, Hangeria, Korea, the Netherlands, Russia, Spain, Sweden, the United Kingdom and the United States.
 
 ...
 
 [Data](articles/3b4525ce.json)
+
+[Extended Data](ext_articles/3b4525ce.ext.json)
+
+---
+
+### அடுத்த இரண்டு பெரும்போக நெல் பயிர்ச்செய்கைக்கு MOP உரம் இலவசம் - அமைச்சர் மஹிந்த அமரவீர
+
+*2024-06-27 00:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/187057) · `ta`
+
+ஜூலை 01ஆம் திகதி முதல் 07ஆம் திகதி வரை இளைஞர் விவசாய தொழில்முனைவோர் கிராம வேலைத்திட்டத்தை நடைமுறைப்படுத்துவதற்காக தேசிய வாரமொன்று அறிவிக்கப்படவுள்ளதாக கமத்தொழில் மற்றும் பெருந்தோட்டக் கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர தெரிவித்தார்.
+
+நெற் பயிச்செய்கைக்குத் தேவையான MOP  உரத்தை அடுத்த இரண்டு பெரும் போகங்களுக்கு விவசாயிகளுக்கு இலவசமாக வழங்க அரசாங்கம் தீர்மானித்துள்ளதாகவும் அமைச்சர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (26) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் மஹிந்த அமரவீர இதனைத் தெரிவித்தார்.
+
+“விவசாயம் மற்றும் பெருந்தோட்டக் கைத்தொழில் அமைச்சு, இளைஞர் சமூகத்தை விவசாயத்துறைக்கு ஈர்க்கும் வகையில் பல வேலைத்திட்டங்களை ஆரம்பித்துள்ளது. அது தொடர்பில் நாட்டின் 25 மாவட்டங்களை உள்ளடக்கிய 160 கிராமங்களை தெரிவு செய்து இளைஞர் விவசாய தொழில்முனைவோர் கிராமத் திட்டங்களை ஆரம்பிக்க அனைத்து ஏற்பாடுகளும் செய்யப்பட்டுள்ளன.
+
+...
+
+[Data](articles/b66ab275.json)
 
 ---
 
@@ -105,6 +143,8 @@ Sri Lanka is well recommended to follow a path to an innovation economy and two 
 ...
 
 [Data](articles/32f46a0b.json)
+
+[Extended Data](ext_articles/32f46a0b.ext.json)
 
 ---
 
@@ -187,6 +227,8 @@ Meanwhile, the use of tear gas and waterproofing in front of the Colombo -Fort S
 ...
 
 [Data](articles/cffe411d.json)
+
+[Extended Data](ext_articles/cffe411d.ext.json)
 
 ---
 
@@ -2281,55 +2323,5 @@ He pleaded his guilty and was sentenced to the time of prisons.
 [Data](articles/47127760.json)
 
 [Extended Data](ext_articles/47127760.ext.json)
-
----
-
-### Police fire tear gas to disperse teacher-principal protest
-
-*2024-06-26 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100109/police-fire-tear-gas-to-disperse-teacher-principal-protest) · `en`
-
-Police used tear gas and water cannons to disperse protesting members of the teacher-principal trade unions at Lotus Roundabout in Colombo, Ada Derana reporter said.
-
-The teacher-principal trade unions are engaged in an islandwide trade union action by reporting sick leave today (26). At the same time, the members of the trade union launched a protest march in front of the Colombo Fort railway station.
-
-Earlier today, the Colombo Fort Magistrate’s Court issued an order preventing the General Secretary of Ceylon Teachers’ Union Joseph Stalin, Ven. Ulapane Sumangala Thero and 8 others from staging a demonstration in a manner that inconvenience the public or pedestrians along Galle Road, NSA Roundabout and several roads in Colombo.
-
-The court also prohibited them from entering the Finance Ministry, President’s Secretariat, Central Bank of Sri Lanka and President’s House premises.
-
-◼️
-
-[Data](articles/e2970821.json)
-
-[Extended Data](ext_articles/e2970821.ext.json)
-
----
-
-### Large scale cyber trafficking through cooked order
-
-*2024-06-26 12:58:05* · [`adalk`](https://www.ada.lk/breaking_news/පිසා-ඇණවුමක්-හරහා-කොටුකරගත්-මහා-පරිමාණ-සයිබර්-ජාවාරම/11-410448) · `si`
-
-The CID arrested 33 individuals, including foreigners, linked to cyber trafficking across several countries. Suspects were found with 109 mobile phones and 3 laptops. The group allegedly used social media to lure victims, promising profits but instead defrauding them. Investigations led to the discovery of two bank accounts controlled by the ringleaders and the use of online pizza orders as a cover for illicit activities. Authorities raided two luxury houses in Negombo, seizing more devices and arresting additional suspects, including two women. The operation uncovered international connections, including branches in Dubai and Afghanistan, and similarities to a cyber slavery ring in Myanmar.
-
-🟩
-
-The Criminal Investigations Department (CID) has arrested 33 persons including foreigners, including foreigners involved in the world with a number of countries in Negombo.
-
-With the suspects and suspects, 109 mobile phones were taken into police custody and 3 lap toff computers.
-
-Pakistan Algeria Nepal is also Indonesia and Sri Lankans among the suspects and suspects.
-
-Criminal investigations by a woman in several occasions that the Group was informed by a unidentified person to make money in the Ticktock Social Media Network and had received Rs 750 at a cost of Rs.Complaints have been lodged with the department.
-
-If you want to earn money, the Group Admin has told the complainant to a bank account when the profit was asked to invest money.
-
-Accordingly, the labor had been credited to the bank account at several lakhs.
-
-However, as promised not profit, she had lodged a complaint with the Financial Investigation Unit.
-
-...
-
-[Data](articles/f62fbbe1.json)
-
-[Extended Data](ext_articles/f62fbbe1.ext.json)
 
 ---

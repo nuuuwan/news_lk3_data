@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 17:19:27**
+As of **2024-06-26 17:35:24**
 
 ## Newspaper Stats
 
-*Scraped **32,281** Articles*
+*Scraped **32,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,47 @@ islandlk | 1,790
 economynextcom | 1,870
 dailyftlk | 1,976
 adalk | 2,849
-adaderanalk | 3,671
+adaderanalk | 3,672
 tamilmirrorlk | 3,811
 dailymirrorlk | 4,733
 virakesarilk | 5,009
-adaderanasinhalalk | 5,301
+adaderanasinhalalk | 5,302
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,278 (100.0%) of 32,281 articles have been extended.
+32,281 (100.0%) of 32,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### Train delays expected on Coastal Line
+
+*2024-06-26 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100119/train-delays-expected-on-coastal-line-) · `en`
+
+The train services along the Coastal Line will experience delays owing to a train breakdown caused by a technical failure near Kompanna Veediya railway station, Sri Lanka Railways announced.
+
+The slow train plying from Maradana to Moratuwa at 3.50 p.m. has experienced a technical failure in this manner, the department said.
+
+◼️
+
+[Data](articles/5e236bce.json)
+
+---
+
+### මුහුදුබඩ මාර්ගයේ දුම්රිය ප්‍රමාදයක්
+
+*2024-06-26 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198185) · `si`
+
+මරදානේ සිට මොරටුව බලා ධාවනය වෙමින් පැවැති දුම්රියක් අද (26) පස්වරුවේ කොම්පඤ්ඤවීදිය දුම්රිය ස්ථානයේදී කාර්මික දෝෂයකට ලක්වී තිබේ.
+
+◼️
+
+[Data](articles/6e90ce09.json)
+
+---
 
 ### Six Sri Lankans arrested with ‘Gold Gel’ worth Rs. 180 million at BIA
 
@@ -50,21 +76,29 @@ The suspects were arrested after being subjected to scan tests by the Customs of
 
 [Data](articles/0211059d.json)
 
+[Extended Data](ext_articles/0211059d.ext.json)
+
 ---
 
-### ජෙයිශංකර් ඉන්දියාවේ ශ්‍රී ලංකා මහ කොමසාරිස්වරිය හමුවෙයි
+### Jeyashank has found Sri Lankan High Commissioner in India
 
 *2024-06-26 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198184) · `si`
 
-ඉන්දීය විදේශ කටයුතු අමාත්‍ය එස්. ජෙයිශංකර් ඊයේ (25) නවදිල්ලියේදී ඉන්දියාවේ සිටින ශ්‍රී ලංකා මහකොමසාරිස් හමුවී තිබේ.
+Indian Foreign Minister S. Jaishankar met the Sri Lankan High Commissioner in New Delhi, discussing the strengthening of Indo-Sri Lanka relations. The meeting also included discussions with the Kuwait Ambassador and the High Commissioner for New Zealand.
 
-ඉන්දු - ලංකා ද්විපාර්ශ්වික සබඳතාවල මෑත කාලීන වර්ධනය පිළිබඳව එහිදී සාකච්ඡා කළ බව වාර්තා වෙයි.
+🟩
 
-ඉන්දීය මාධ්‍ය වාර්තා කරන්නේ ඉන්දීය විදේශ කටයුතු අමාත්‍යවරයා  කුවේට් තානාපතිවරයා සහ නවසීලන්තයේ මහකොමසාරිස්වරිය ද හමුවී ඇති බවය.
+Indian Foreign Minister S. Jiasankar has found Sri Lankan High Commissioner in India in New Delhi yesterday (25).
+
+It is reported that the recent growth of the Indo-Sri Lanka bilateral relations have been discussed.
+
+Indian media reports that the Indian Foreign Minister Kuwait Ambassador and the High Commissioner for the New Zealand.
 
 ◼️
 
 [Data](articles/9765ab91.json)
+
+[Extended Data](ext_articles/9765ab91.ext.json)
 
 ---
 
@@ -1402,19 +1436,27 @@ Police are investigating the incident as the shop owner has lodged a complaint a
 
 ---
 
-### පියුමි හංසමාලිගේ ක්‍රීම් සුදු කළේ කළු සල්ලි ද?
+### Piyumi Hansamali's cream was white?
 
 *2024-06-26 10:50:14* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c722vq22q67o) · `si`
 
-නිරූපිකාවක් ලෙසින් ශ්‍රී ලංකාවේ ප්‍රසිද්ධ පියුමි හංසමාලි කලින් කලට පුවත් මවන්නියකි.
+Sri Lanka's Piyumi Hansamali, a model turned actress known for her roles in television dramas and movies, has been embroiled in controversy over alleged financial irregularities. Accused of misusing assets, including a luxury vehicle once owned by former President Gotabhaya Rajapaksa, and purchasing a high-end apartment, Hansamali faces scrutiny from the Criminal Investigation Department (CID) and the Illegal Asset Investigation Division. Despite denying these allegations on her social media platforms, the CID continues its probe, focusing on her business dealings, including a beauty product company she co-founded.
 
-ඇය මෑතක දී වඩාත්ම කතා බහට ලක් වී ඇත්තේ ඇගේ වත්කම් සම්බන්ධයෙන් එල්ල වී ඇති චෝදනාවක් හේතුවෙනි. පියුමි හංසමාලි උපයාගත් බව කියන වත්කම් සම්බන්ධයෙන් පරීක්ෂණයක් කරන ලෙස ඉල්ලා ‘මගෙන් රටට’ සංවිධානයේ ලේකම් සංජය මහවත්ත විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණිල්ලක් ඉදිරිපත් කර ඇති අතර, ඒ සම්බන්ධයෙන් අලුත්කඩේ අංක 04 මහේස්ත්‍රාත් අධිකරණය විමර්ශන කටයුතු සඳහා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට අවශ්‍ය අවසර ලබා දී ඇත.
+🟩
 
-1992 වසරේ උපන් පට්ටියගේ පියුමි හංසමාලි ගෝමස් සිය වෘත්තිය ආරම්භ කරන්නේ 2010- 2011 කාලවකවානුවේදී නිරූපිකාවක් ලෙසයි. ඒ වන විට මවක් වූ ඇය සිය දරුවා තනිව හදාවඩාගන්නා ‘සිංගල් අම්මා’ කෙනෙකු ලෙස සමාජයේ ප්‍රසිද්ධියට පත්ව සිටියා ය.
+As a model, Sri Lanka's famous Piyumi Hansalmi from time to time.
+
+She has recently been talked about by a charge of her assets. Piyumi Hansayam is a complaint with the CID to the CID, the ICTUrd has been awarded to the CID for investigation into the investigation.
+
+Batiyy Patumi Hansamali Gomez begins his career as a model in 2010-2011 as a model. She was a mother, a mother, and became famous in society as a 'singal mother'.
+
+In 2014 she was acting with her first teledrama. She acted in a movie in 2018 and contributed to Jackson Anthony, a film directed by Malayalam director Anil Kumar in 2019. During this time, she also represented several international model matches, and also appeared for advertising and songwise.
 
 ...
 
 [Data](articles/dbd670dc.json)
+
+[Extended Data](ext_articles/dbd670dc.ext.json)
 
 ---
 
@@ -2291,47 +2333,5 @@ This is a remarkable milestone for Keells as they have become the first supermar
 [Data](articles/ce5a4921.json)
 
 [Extended Data](ext_articles/ce5a4921.ext.json)
-
----
-
-### The President is not going to allow anyone to take the right of the Urumaya land.
-
-*2024-06-26 05:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/186982) · `ta`
-
-President Ranil Wickremesinghe reaffirmed the commitment to the Urumaya land guarantee program, urging citizens to report any officials disrupting it. He emphasized the importance of securing land rights for all, comparing the process to how whites acquired land historically. The President called upon MPs to investigate reports of disruptive officials and encouraged all parliamentarians to support the program. He also highlighted the Agricultural Modernization Program to boost farmers' income and agricultural production.
-
-🟩
-
-President Ranil Wickremesinghe said that while many state officials are dedicated to the Urumaya permanent land guarantee program, some are trying to disrupt it.
-
-The President has requested the people to provide information about such officials to MPs in his area. The president asked MPs to get the information.
-
-The President urged that no one can allow him to take the right to obtain his own land, and that the ruling party is expecting the support of all parliamentarians to win the program.
-
-Under the National Program for the Urumaya Urumaya Land Confirmation Scheme, 1768 people in the 17 Divisional Secretariat of Ampara District were given land guarantees at the Ampara Weerasinghe Stadium on Tuesday (25). Speaking at the event, President Ranil Wickremesinghe said this.
-
-...
-
-[Data](articles/9e0bd7a0.json)
-
-[Extended Data](ext_articles/9e0bd7a0.ext.json)
-
----
-
-### $ 150 m World Bank assistance to improve primary healthcare services
-
-*2024-06-26 04:55:00* · [`dailyftlk`](https://www.ft.lk/news/150-m-World-Bank-assistance-to-improve-primary-healthcare-services/56-763461) · `en`
-
-The World Bank’s Board of Executive Directors on Monday approved $ 150 million in financing for Sri Lanka to improve the quality and utilisation of its primary healthcare services.
-
-The newly approved Sri Lanka Primary Healthcare System Enhancing Project will help improve quality of care and increase the use of primary medical care institutions, which provide essential health services to local communities.
-
-Capacity challenges and absence of a formal referral mechanism have led to the underutilisation of primary healthcare facilities and overcrowding in tertiary care facilities in Sri Lanka.
-
-...
-
-[Data](articles/8e25441c.json)
-
-[Extended Data](ext_articles/8e25441c.ext.json)
 
 ---

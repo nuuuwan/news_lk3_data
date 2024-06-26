@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 11:35:03**
+As of **2024-06-26 11:54:45**
 
 ## Newspaper Stats
 
-*Scraped **32,213** Articles*
+*Scraped **32,216** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ dbsjeyarajcom | 295
 bbccomsinhala | 317
 newsfirstlk | 363
 islandlk | 1,790
-economynextcom | 1,868
+economynextcom | 1,870
 dailyftlk | 1,976
 adalk | 2,838
-adaderanalk | 3,659
+adaderanalk | 3,660
 tamilmirrorlk | 3,800
 dailymirrorlk | 4,733
 virakesarilk | 4,994
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,285
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,212 (100.0%) of 32,213 articles have been extended.
+32,213 (100.0%) of 32,216 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### Court order issued against planned teacher-principal protest in Colombo
+
+*2024-06-26 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100107/court-order-issued-against-planned-teacher-principal-protest-in-colombo-) · `en`
+
+The Colombo Fort Magistrate’s Court has issued an order preventing the General Secretary of Ceylon Teachers’ Union Joseph Stalin, Ven. Ulapane Sumangala Thero and 8 others from staging a demonstration in a manner that inconvenience the public or pedestrians along Galle Road, NSA Roundabout and several roads in Colombo today (26).
+
+Accordingly, they have been barred from holding protests that blocks the sections of roads from Ceramic Junction to NSA Roundabout, NSA Roundabout to Baladaksha Mawatha along Galle Road and area also prohibited from entering the Finance Ministry, President’s Secretariat, Central Bank of Sri Lanka and President’s House premises.
+
+The order also mentions that there is no obstacle for a government official who is responsible for only a small group to enter the aforementioned premises to deliver their memos on the basis of a lawfully obtained permission.
+
+...
+
+[Data](articles/801c9feb.json)
+
+---
 
 ### CPC refinery to become separate govt-owned entity under restructuring plan
 
@@ -45,6 +61,8 @@ The restructuring plan includes revising the current approved carder and salary 
 ◼️
 
 [Data](articles/f8bc2800.json)
+
+[Extended Data](ext_articles/f8bc2800.ext.json)
 
 ---
 
@@ -153,6 +171,26 @@ The man who was targeted for the shooting was injured and admitted to the Nivith
 [Data](articles/08bedb10.json)
 
 [Extended Data](ext_articles/08bedb10.ext.json)
+
+---
+
+### Sri Lanka rupee steady 305.25/50 to the US dollar, bond quoted wide
+
+*2024-06-26 10:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-steady-305-25-50-to-the-us-dollar-bond-quoted-wide-169582/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 305.25/50 to the US dollar in early morning trade Wednesday, steady from 305.25/35 to the US dollar at yesterday’s close while bonds were quoted wide, dealers said.
+
+Bond market activity was somewhat muted after a rise in Treasury bill yields last week, dealers said.
+
+Interest rates fell after a spike in un-sterilized liquidity from dollar purchases (strong side pegging), but the rupee comes under pressure due to lack of a complementary exchange rate policy to back the strong side pegging when liquidity is used up, analysts have said.
+
+Overnight excess liquidity spiked to almost 200 billion rupees in late May.
+
+Excess liquidity is now down but the central bank is injecting some money overnight. Seven-day term money was injected below the overnight rate. At the moment private credit is still muted.
+
+...
+
+[Data](articles/aa11dd81.json)
 
 ---
 
@@ -365,6 +403,26 @@ There were 22 students and 8 students and the teacher was admitted to the Muttur
 [Data](articles/de5b5df9.json)
 
 [Extended Data](ext_articles/de5b5df9.ext.json)
+
+---
+
+### Sri Lanka Trotskyist beat the IMF to property tax decades ago, Minister says
+
+*2024-06-26 08:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-trotskyist-beat-the-imf-to-property-tax-decades-ago-minister-says-169565/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s former Finance Minister N M Perera, who was a member of a Trotskyist party, has beaten the International Monetary Fund to impose property taxes on citizens decades ago, State Minister for Finance Ranjith Siyambalapitiya has explained.
+
+A property tax was implemented even when N.M. Perera was the Finance Minister, Siyambalapitiya said.
+
+Perera was a member of Sri Lanka’s Trotskyist Lanka Sama Samaja Party and was in the cabinet of a 1970s administration that imposed severe exchange and import controls in a so-called ‘closed economy’.
+
+Perera studied at the London School of Economics, under Harold Laski, a noted Marxist who tried to take UK’s Labour Party deeper even into the left.
+
+In 1971 the US dollar collapsed against its specie anchor, taking the Bretton Woods with it after money was printed to target employment as doctrines involving unsound money that was widely taught widely at so-called ‘Saltwater’ universities.
+
+...
+
+[Data](articles/35ecd240.json)
 
 ---
 
@@ -2239,81 +2297,5 @@ The Cabinet has approved the proposal submitted by the President and the Ministe
 [Data](articles/0a8508b3.json)
 
 [Extended Data](ext_articles/0a8508b3.ext.json)
-
----
-
-### 60 killed in China floods
-
-*2024-06-25 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198145) · `si`
-
-Heavy rains in China's south have caused devastating floods, killing 60 and destroying thousands of homes, especially in the Hunan province.
-
-🟩
-
-Foreign media reports that the number of people who were killed in the floods affected China have increased to 60.
-
-It has been reported that heavy rainfall has been drawn to the southern part of China and has taken place in several areas.
-
-The hunger province in China has been affected and thousands of houses have been destroyed.
-
-◼️
-
-[Data](articles/607e445f.json)
-
-[Extended Data](ext_articles/607e445f.ext.json)
-
----
-
-### Harshana Rajakaruna can only be accepted if international companies declare that the country has recovered from the bank -
-
-*2024-06-25 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/186951) · `ta`
-
-Harshana Rajakaruna argues that without international acknowledgment of Sri Lanka's recovery from bankruptcy, any acceptance of this status by the government or its ministers is deceptive. He criticizes the current government's limited efforts in foreign debt restructuring and questions the credibility of claims about the nation's financial recovery. Rajakaruna emphasizes the importance of transparency and adherence to international standards in declaring such significant economic milestones.
-
-🟩
-
-If the country has recovered from the bankruptcy, international standards must be notified of the announcement.
-
-Without doing so, the president or no other ministers cannot accept the announcement. United People's Shakti Gampaha District Parliamentarian Harshana Rajakaruna said this is a move to deceive the people.
-
-Foreign debt restructuring is very important to recover from that state of affairs.
-
-But the government has so far gone into a very narrow amount of debt renovation in foreign debt restructuring.
-
-Based on this, the government is trying to release the report that the country is currently recovering from bankruptcy.
-
-When many bankrupt countries recover from bankruptcy, the debt reorganization is very successful. But such a situation did not include the Ranil Wickremesinghe -led government.
-
-How can the country recover from bankruptcy. We also wish to recover from the bankruptcy. We will be happy if such a situation happens. But it is not possible to take action to deceive people.
-
-...
-
-[Data](articles/ec7e8369.json)
-
-[Extended Data](ext_articles/ec7e8369.ext.json)
-
----
-
-### A panel of judges panel to petition to Graduoda's petition
-
-*2024-06-25 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198143) · `si`
-
-The Court of Appeal will hear a petition before one filed by former Navy Commander Wasantha Karannagoda. The original petition sought a three-member High Court in Colombo and its suburbs, filed in 2008. Now, it will be presented to a five-member Court of Appeal, including judges Mayadunna Cow, Chamatna Cowkara, and Chamatna Kawasundara, with the case scheduled for September 25.
-
-🟩
-
-The Court of Appeal has decided to hear the petition before the petition filed by former Navy Commander Wasantha Karannagoda.
-
-He had filed the petition to issue a three-member High Court in Colombo and the Court of High Court in Colombo and suburbs in 2008.
-
-Accordingly, the petition is to be heard in front of the five-member Court of Appeal, Mayadunna Cow and Chamatna Cowkara and Chamatna Kawasundara, Mayadunna.
-
-The judge also set the case to be heard on September 25.
-
-◼️
-
-[Data](articles/702f71cd.json)
-
-[Extended Data](ext_articles/702f71cd.ext.json)
 
 ---

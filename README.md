@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 23:34:57**
+As of **2024-06-26 23:54:29**
 
 ## Newspaper Stats
 
-*Scraped **32,330** Articles*
+*Scraped **32,331** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,790
 economynextcom | 1,871
 dailyftlk | 1,976
-adalk | 2,861
+adalk | 2,862
 adaderanalk | 3,681
 tamilmirrorlk | 3,819
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,330 (100.0%) of 32,330 articles have been extended.
+32,330 (100.0%) of 32,331 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -35,6 +35,10 @@ Extensions include translations and NER (Named Entity Recognition).
 ### Major notice for passport holders
 
 *2024-06-26 23:00:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டு-வைத்திருப்போருக்கு-முக்கிய-அறிவிப்பு/175-339500) · `ta`
+
+Passport holders: Expire dates extended to facilitate switch to electronic passports, starting Nov. Controller of Immigration & Emigration, Harsha Ilukpitiya, announced this move to enhance security and efficiency.
+
+🟩
 
 It has been decided to extend the period of foreign passports that will expire from July 1.
 
@@ -457,6 +461,26 @@ Sri Lanka Cricket has issued a statement that Maheera Jayawardene resigned from 
 [Data](articles/92b5c360.json)
 
 [Extended Data](ext_articles/92b5c360.ext.json)
+
+---
+
+### ඩයනාට එරෙහි පෙත්සම විභාගයෙන් විනිසුරන් දෙදෙනෙක් ඉවත්වෙති
+
+*2024-06-26 19:35:03* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාට-එරෙහි-පෙත්සම-විභාගයෙන්-විනිසුරන්-දෙදෙනෙක්-ඉවත්වෙති/11-410461) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රීධුරය අහෝසි කරමින් ශ්‍රේෂ්ඨාධිකරණය දුන් තීන්දුව විවේචනය කිරීමෙන් හිටපු රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මිය අධිකරණයට අපහාසයක් කළැයි සඳහන් කරමින් පවරා ඇති නඩු විභාගයෙන් ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් දෙදෙනෙකු ඉවත් වන බව අද (26දා) ප්‍රකාශ කළේය.
+
+ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන ජනක් සිල්වා සහ කුමුදුනී වික්‍රමසිංහ යන මහත්ම මහත්මීන් අදාළ නඩු විභභාගයෙන් ඉවත් වන බව ප්‍රකාශ කරන ලද්දේ එම පෙත්සම සලකා බැලූ අවස්ථාවේදීය.
+
+පෙත්සමේ ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන ප්‍රීති පද්මන් සූරසේන, ජනක් ද සිල්වා සහ කුමුදුනී වික්‍රමසිංහ යන මහත්ම මහත්මීන්ගෙන් සැදුම්ලත් විනිසුරුමඬුල්ලක්හමුවේමෙය පෙත්සම සලකාබැලිණි.
+
+වැලිගම නගර සභාවේ හිටපු සභාපති රෙහාන් ජයවික්‍රම මහතා ගොනු කර ඇති මෙම පෙත්සමේ වගඋත්තරකරු වශයෙන් හිටපු රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මිය නම් කර තිබේ.
+
+හිටපු රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මියගේ පාර්ලිමේන්තු මන්ත්‍රීධුරය අහෝසි කරමින් ශ්‍රේෂ්ඨාධිකරණය දුන් තීන්දුව විවේචනය කිරීම සම්බන්ධයෙන් ඇයට එරෙහිව විභාගයක් පවත්වා සුදුසු දඬුවම් නියම කරන්නැයි ඉල්ලා මෙම පෙත්සම ගොනු කර ඇත.
+
+◼️
+
+[Data](articles/9216edd4.json)
 
 ---
 
@@ -2355,35 +2379,5 @@ Divulapitiya police are conducting further investigations into the incident.
 [Data](articles/f1b82b74.json)
 
 [Extended Data](ext_articles/f1b82b74.ext.json)
-
----
-
-### Staff attacked chapter and arrested the person in a tree
-
-*2024-06-26 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198170) · `si`
-
-A former army soldier was arrested by a police sergeant after a dispute with his brother led to a complaint. The arrest took place during a protest in a jungle. The sergeant, injured in an attack, was hospitalized. Threats of suicide were made, but the suspect complied with a request to come down from a tree, allowing for his arrest and ongoing investigation.
-
-🟩
-
-The man was arrested by a Pudulpitiya Police Sergeant at a jungle and a protest against a tree.
-
-The man was a former army soldier and a complaint has lodged a complaint with the phobel police for a dispute with his brother.
-
-The suspect was attacked by the Sergeant at a meeting at a meeting of a police sergeant at the time of hearing the complaint.
-
-The sergeant who was injured in serious injuries has been admitted to the Kandy National Hospital.
-
-The police and the residents have been threatened by the police and the suspect would commit suicide by the attack and the suspect would commit suicide by jumping from the tree near the house.
-
-The suspect was not down, but the suspect was not down, but he had gone to the ground as per the request of the Chief Incumbent.
-
-Accordingly, the police arrested the man and conducting further investigations.
-
-◼️
-
-[Data](articles/2571cf2c.json)
-
-[Extended Data](ext_articles/2571cf2c.ext.json)
 
 ---

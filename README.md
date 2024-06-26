@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 18:53:46**
+As of **2024-06-26 19:04:29**
 
 ## Newspaper Stats
 
-*Scraped **32,295** Articles*
+*Scraped **32,297** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,790
 economynextcom | 1,870
 dailyftlk | 1,976
-adalk | 2,853
-adaderanalk | 3,674
+adalk | 2,854
+adaderanalk | 3,675
 tamilmirrorlk | 3,814
 dailymirrorlk | 4,733
 virakesarilk | 5,009
@@ -26,25 +26,51 @@ adaderanasinhalalk | 5,305
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,294 (100.0%) of 32,295 articles have been extended.
+32,295 (100.0%) of 32,297 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### චීන - ශ්‍රී ලංකා ණය ප්‍රතිකර්ම ගිවිසුම අත්සන් කරයි
+### Sri Lanka signs debt treatment agreement with China’s EXIM Bank
+
+*2024-06-26 18:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/100124/sri-lanka-signs-debt-treatment-agreement-with-chinas-exim-bank) · `en`
+
+Sri Lanka signed debt treatment agreements with Export-Import Bank of China (EXIM) in Beijing, a short while ago, to restructure USD 4.2 billion of debt, the President’s Media Division said.
+
+The Framework Agreement related to this was signed between Sri Lanka and China in Colombo, Sri Lanka.
+
+This restructuring provides significant debt relief, allowing Sri Lanka to allocate more funds to essential public services and resume concessional financing for critical infrastructure development, the PMD added.
+
+State Minister of Finance Shehan Semasinghe also confirmed that Sri Lanka signed debt treatment agreement with the Export-Import Bank of China to restructure USD 4.2 billion of its debt.
+
+“This move is part of an ongoing effort to manage the country’s financial challenges. The framework agreement for this debt treatment was signed between Sri Lanka and China in Colombo,” he posted on ‘X’.
+
+...
+
+[Data](articles/323360c1.json)
+
+---
+
+### Chinese - Sri Lanka's credit remedial agreement signs
 
 *2024-06-26 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198188) · `si`
 
-ශ්‍රී ලංකාව සහ චීන එක්සිම් බැංකුව අතර ද්විපාර්ශ්වික ණය ප්‍රතිකර්ම ගිවිසුම අද (26) පස්වරුවේ අත්සන් කර තිබේ.
+Sri Lanka and China have signed a loan restructuring agreement worth $4.2 billion in Beijing, aiming to address the country's debt issues.
 
-ජනාධිපති මාධ්‍ය අංශය නිවේදනය කළේ අද බෙයිජිං නුවරදී අදාළ ගිවිසුමට අත්සන් තැබුණු බවය.
+🟩
 
-ඩොලර් බිලියන 4.2ක ණය ප්‍රතිව්‍යුහගත කිරීම සඳහා දෙපාර්ශ්වය අවසන් එකඟතාවකට පැමිණි පසු මෙම ගිවිසුම සඳහා අත්සන් තබා තිබේ.
+The bilateral loan remedy agreement has been signed this afternoon between Sri Lanka and Chinese Exim.
+
+The Presidential Media Unit announced that the agreement was signed in Beijing today.
+
+Once the two sides had reached a final agreement to restructure $ 4.2 billion debt, the agreement was signed.
 
 ◼️
 
 [Data](articles/794b7320.json)
+
+[Extended Data](ext_articles/794b7320.ext.json)
 
 ---
 
@@ -63,6 +89,24 @@ Meanwhile, she added that the US encourages Sri Lanka to continue the reform pro
 [Data](articles/14920273.json)
 
 [Extended Data](ext_articles/14920273.ext.json)
+
+---
+
+### කෝටි 18ක රත්තරන් ජෙල් සමග 6ක් අල්ලයි
+
+*2024-06-26 17:47:25* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-18ක-රත්තරන්-ජෙල්-සමග-6ක්-අල්ලයි/11-410454) · `si`
+
+රුපියල් කෝටි 18 ක් පමණ වටිනා රත්තරන් ජෙල් ගුලි වශයෙන් සකස් කර ඒවා තම සිරුරු තුළ සහ සිය  ගමන් මලු තුළ සගවා ගෙන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටි ශ්‍රී ලාංකිකයන් 06 දෙනෙකු ගුවන් තොටුපොළ රේගු නිලධාරීන් විසින් 06/25 දින අත් අඩංගුවට ගෙන තිබේ .
+
+කල්මුණේ , මූතූර් , කොළඹ - 10 , කළගෙඩිහේන් සහ මිනුවන්ගොඩ යන ප්‍රදේශ වල පදිංචි වයස අවුරුදු 30 ත් - 50 ත් අතර පසුවන , නිතර නිතර ගුවන් ගමන් වල නිරත වන පුද්ගලයන් හය දෙනෙකි .
+
+මොවුන් ඩුබායි සිට ඉන්දියාවේ චෙන්නායි නුවර වෙත පැමිණ එතැන් සිට 06/25 දින පස්වරු 01.20 ට ඉන්ඩිගෝ ගුවන් සේවයේ 6 ඊ - 1175 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+මෙම  පුද්ගලයන් ගුවන් තොටුපොළ රේගු නිලධාරීන් විසින් පරිලෝකන යන්ත්‍ර   (  Scan Test ) පරීක්ෂා කිරීම් වලට යොමු කිරීමෙන් පසුව අත් අඩංගුවට ගැනීම  සිදු කර තිබේ .
+
+...
+
+[Data](articles/25e63fc9.json)
 
 ---
 
@@ -2295,53 +2339,5 @@ The police say that his car has been hacked to death with a sharp instrument in 
 [Data](articles/f60c9e3f.json)
 
 [Extended Data](ext_articles/f60c9e3f.ext.json)
-
----
-
-### The body of the fleshly owner is inside Hers
-
-*2024-06-26 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198159) · `si`
-
-A man was seriously injured in a car accident near Malana, with a severe head wound. The incident occurred last night during an awards event. The Ambalangoda Police identified the victim as Thusitha Kumara's father. Witnesses reported seeing the driver at the Balapitiya Athswatta junction around 11 pm.
-
-🟩
-
-The body of a carpel owner with cut wound in a Hersh last night at Awards last night.
-
-The Ambalangoda Police said such identified GPs in the Malana area. There is a father of Father Thusitha Kumara.
-
-The man's head has been severely cut injured.
-
-The residents in the area have informed the police in the area who had stopped a hers in the Balapitiya Athswatta junction around 11 pm and saw the driver of the driver.
-
-◼️
-
-[Data](articles/bde658e1.json)
-
-[Extended Data](ext_articles/bde658e1.ext.json)
-
----
-
-### Minister of Justice has lodged a complaint with privileges
-
-*2024-06-26 07:23:59* · [`adalk`](https://www.ada.lk/breaking_news/වරප්‍රසාද-කඩවී-ඇති-බවට-අධිකරණ-ඇමතිගෙන්-පැමිණිල්ලක්/11-410442) · `si`
-
-The Minister of Justice, along with colleagues handling prison and constitutional reforms, filed a complaint against Speaker Mahinda Yapa Abeywardena, accusing him of violating parliamentary privileges. This action followed an announcement by the Judicial Service Association, citing a parliamentary statement deemed inappropriate. Consequently, two judges were called upon by the Parliamentary Ethics and Privileges Committee to investigate the matter.
-
-🟩
-
-Minister of Justice, Prison Reforms and Constitutional Reforms have taken a complaint with the Speaker Mahinda Yapa Abeywardena claimed that he had a violation of privileges and powers as a Member of Parliament.
-
-The complaint has been lodged with announcement by the Judicial Service Association.
-
-It has stated that he has stated that he has stated that the statement made in parliament has stated that the statement made in Parliament was committed to the statement made by Parliament.
-
-Accordingly, the two judges have immediately summoned to the Committee on Parliament Dhamma and Privileges.
-
-◼️
-
-[Data](articles/021a44a9.json)
-
-[Extended Data](ext_articles/021a44a9.ext.json)
 
 ---

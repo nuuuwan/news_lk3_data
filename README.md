@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 14:06:20**
+As of **2024-06-26 14:19:27**
 
 ## Newspaper Stats
 
-*Scraped **32,247** Articles*
+*Scraped **32,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,790
 economynextcom | 1,870
 dailyftlk | 1,976
-adalk | 2,842
-adaderanalk | 3,662
+adalk | 2,845
+adaderanalk | 3,664
 tamilmirrorlk | 3,809
 dailymirrorlk | 4,733
 virakesarilk | 5,002
@@ -26,49 +26,101 @@ adaderanasinhalalk | 5,293
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,245 (100.0%) of 32,247 articles have been extended.
+32,247 (100.0%) of 32,252 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### ණය ප්‍රතිව්‍යුහගතකිරීමේ සාකච්ඡා ඇරඹේ
+### WikiLeaks founder Julian Assange heads to Australia after U.S. guilty plea
+
+*2024-06-26 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100111/wikileaks-founder-julian-assange-heads-to-australia-after-us-guilty-plea) · `en`
+
+WikiLeaks founder Julian Assange walked free on Wednesday from a court on the U.S. Pacific island territory of Saipan after pleading guilty to violating U.S. espionage law in a deal that allowed him to head straight home to Australia.
+
+His release ends a 14-year legal saga in which Assange spent more than five years in a British high-security jail and seven years in asylum at the Ecuadorean embassy in London battling extradition to the U.S., where he faced 18 criminal charges.
+
+During the three-hour hearing, Assange pleaded guilty to one criminal count of conspiring to obtain and disclose classified national defence documents but said he had believed the U.S. Constitution’s First Amendment, which protects free speech, shielded his activities.
+
+“Working as a journalist I encouraged my source to provide information that was said to be classified in order to publish that information,” he told the court.
+
+...
+
+[Data](articles/38a1e25d.json)
+
+---
+
+### Discretion discussion begins
 
 *2024-06-26 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198176) · `si`
 
-පැරිස් සමාජය සමඟ ණය ප්‍රතිව්‍යුහගතකිරීමේ ගිවිසුම්වලට එළැඹීමට අදාළ සාකච්ඡා මේ වනවිට ආරම්භ වී තිබේ.
+A delegation from Sri Lanka, including State Minister Shehan Semasinghe, Finance Ministry Secretary Mahinda Siriwardena, and Central Bank Governor Dr. Nandalal Weerasinghe, traveled to France to discuss debt restructuring with Paris society and other creditors. The aim is to renegotiate both local and foreign debts, focusing on bilateral agreements and international bond restructurings. These efforts follow approval from the last cabinet meeting and are set to conclude with a national address by the President tonight, accompanied by special statements on various news channels.
 
-අදාළ ගිවිසුම්වලට අත්සන් තැබීම ස﻿ඳහා මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ, මුදල් අමාත්‍යංශ ලේකම් මහින්ද සිරිවර්ධන හා මහබැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ යන මහත්වරු ප්‍රංශය බලා පිටත්ව ගියහ.
+🟩
 
-ශ්‍රී ලංකාව මුහුණ දුන් ආර්ථික අර්බුදය හමුවේ ණය ගෙවීමේ හැකියාවක් නොමැති බව ශ්‍රී ලංකාව නිවේදනය කිරීමත් සමග දේශීය හා විදේශීය ණය ප්‍රතිව්‍යුහගතකරණයට සාකච්ඡා ඇරඹුණි.
+The discussions have commenced to enhance the restructuring agreements with Paris society.
 
-ඉන් දේශීය ණය ප්‍රතිව්‍යුහගතකරණය අවසන් කෙරුණු නමුත් චීනය, ඉන්දියාව සහ අනෙකුත් ණයහිමියන් සිටින පැරිස් සමාජය සමඟ ද්වීපාර්ශ්වික ණය ප්‍රතිව්‍යුහගතකරණයටත්, ජාත්‍යන්තර බැඳුම්කර හිමියන් සමඟ ණය ප්‍රතිව්‍යුහගතකරණය සඳහාත් සාකච්ඡා අඛණ්ඩව පැවැත්වුණි.
+State Minister Shehan Semasinghe, Finance Ministry Secretary Mahinda Siriwardena and Central Bank Dr. Nandalal Weerasinghe left for France.
 
-ඉන් ද්වීපාර්ශ්වික ණයහිමියන් සමඟ පැවති සාකච්ඡා ඵලදායි අවසානයකට රැගෙන යමින් පැරිස් සමාජය සමඟ ණය ප්‍රතිව්‍යුහගතකිරීමේ ගිවිසුම්වලට අද දිනයේ එළැඹීමට ශ්‍රී ලංකාවට අවස්ථාව හිමි වේ.
+The discussions began to restructuring local and foreign debts that Sri Lanka was not able to pay the debt.
 
-මෙම ගිවිසුම්වලට එළඹීම සඳහා පසුගිය අමාත්‍ය මණ්ඩල රැස්වීමේදි අනුමැතිය ද හිමි වුණි.
+Although the restructuring of local debt, India, India and other creditors, have continued to restructure bilateral debts with international bonds and restructuring with international bond owners.
+
+Sri Lanka has the opportunity to enter the restructuring agreement with Paris society to effectively construct the talks with bilateral creditors to an effective end.
+
+These agreements were approved at the last cabinet meeting.
+
+After signing the relevant agreements, the President is scheduled to address the nation this night (26).
 
 ...
 
 [Data](articles/06b32a35.json)
 
+[Extended Data](ext_articles/06b32a35.ext.json)
+
 ---
 
-### අල්ලස් ගත් ග්‍රාම නිලධාරීවරයෙක් අත්අඩංගුවට
+### Man injured in shooting in Nivithigala
+
+*2024-06-26 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100110/man-injured-in-shooting-in-nivithigala) · `en`
+
+A shooting incident was reported in the Pathakada area in the Nivithigala police division today (26).
+
+Police stated that investigations were launched based on information received regarding the incident.
+
+According to the police, a 38-year-old resident of the Pathakada area of Dikovita Watta sustained injuries to his leg in the incident and is now receiving medical attention at the Nivithigala Hospital.
+
+It was reported that an unidentified assailant who arrived on foot had fired a shot, and then fled the scene, while the victim was in the backyard of his house with a relative.
+
+Police further stated that the motive behind the shooting has not yet been uncovered yet.
+
+◼️
+
+[Data](articles/d61a4159.json)
+
+---
+
+### A Grama Niladhari arrested for bribery
 
 *2024-06-26 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198175) · `si`
 
-මහනුවර, හීරැස්සගල ප්‍රදේශයේ අල්ලස් ලබාගත් ග්‍රාම නිලධාරීවරයෙක් අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසම මඟින් අත්අඩංගුවට ගෙන තිබේ.
+A Grama Niladhari was arrested for demanding Rs. 25,000 in bribes to resolve a land issue. The woman victim reported the incident to the Commission to Investigate Allegations of Bribery or Corruption, leading to the arrest. The suspect is now remanded until the 9th of this month.
 
-ග්‍රාම නිලධාරීවරයා ඉඩම් ගැටලුවක් විසඳීම සඳහා කාන්තාවකගෙන් රුපියල් 25,000ක මුදලක් ඉල්ලා ඇති අතර ඒ සම්බන්ධයෙන් අදාළ කාන්තාව කොමිසමට පැමිණිලි කර ඇත.
+🟩
 
-ඒ අනුව ඊයේ (25) විමර්ශන නිලධාරීන් විසින් අල්ලස් මුදල ලබා දෙන අවස්ථාවේදී ම ග්‍රාම නිලධාරීවරයා අත්අඩංගුවට ගෙන තිබුණි.
+A Grama Niladhari of Bribery or Corruption has been arrested by the Commission to Investigate Allegations of Bribery or Corruption.
 
-අත්අඩංගුවටගත් ග්‍රාම නිලධාරීවරයා ලබන මස 09 දින දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට මහනුවර අධිකරණය නියෝග කර ඇත.
+The Grama Niladhari had requested Rs. 25,000 from a woman to solve a land problem and the woman has lodged a complaint with the commission.
+
+Accordingly, the Grama Niladhari had been arrested by the Investigation Officers yesterday (25).
+
+The Grama Niladhari has been remanded until the 9th of this month.
 
 ◼️
 
 [Data](articles/4dacddf4.json)
+
+[Extended Data](ext_articles/4dacddf4.ext.json)
 
 ---
 
@@ -93,6 +145,22 @@ The senior management of the Ceylon Petroleum Corporation and the Minister of Ce
 [Data](articles/6de56382.json)
 
 [Extended Data](ext_articles/6de56382.ext.json)
+
+---
+
+### කොළඹ කොටුව උණුසුම් තත්වයක්
+
+*2024-06-26 13:19:38* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-කොටුව-උණුසුම්-තත්වයක්/11-410449) · `si`
+
+ගුරු - විදුහල්පති ඒකාබද්ධ කමිටුව විසින් ආරම්බ කර ඇති විරෝධතාවය හේතුවෙන් කොළඹ කොටුව දුම්රියපොළ ඉදිරිපිට මාර්ගය අවහිර වී ඇති බව වාර්තා වෙයි. මේ අතර පොලීසියෙන් ජල හා කඳුළු ගෑස් ප්‍රහාරයක් ද එල්ල කර තිබේ.
+
+විරෝධතාවය හේතුවෙන් කොටුව, ලෝටස් පාර සහ සෙසු ප්‍රදේශ රැසක මේ වන විට දැඩි රථවාහන තදබදයක් නිර්මාණය වී තිබේ.
+
+කොම්පඤ්ඤවීදිය පොලීසිය අධිකරණයෙන් කළ ඉල්ලීමක් අනුව විරෝධතාවයට එක්වන ජෝසප් ස්ටාර්ලින්, මහින්ද ජයසිංහ, අමිල සඳරුවන්, වාස් ගුණවර්ධන, පූජ්‍ය උලපනේ සුමංගල හිමි, මයුර සේනානායක, පූජ්‍ය යල්වල පඤ්ඤාසේකර හිමි, පුංචිහෙට්ටි, මොහාන් පරාක්‍රම වීරසිංහ සහ ඉහත නම් සඳහන් අයගේ සාමාජිකයින් වෙත කොටුව මහෙස්ත්‍රාත් අධිකරණයෙන් ආඥාවක් ද නිකුත් කර තිබේ.
+
+...
+
+[Data](articles/58a82115.json)
 
 ---
 
@@ -143,6 +211,12 @@ He pleaded his guilty and was sentenced to the time of prisons.
 *2024-06-26 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100109/police-fire-tear-gas-to-disperse-teacher-principal-protest) · `en`
 
 Police used tear gas and water cannons to disperse protesting members of the teacher-principal trade unions at Lotus Roundabout in Colombo, Ada Derana reporter said.
+
+The teacher-principal trade unions are engaged in an islandwide trade union action by reporting sick leave today (26). At the same time, the members of the trade union launched a protest march in front of the Colombo Fort railway station.
+
+Earlier today, the Colombo Fort Magistrate’s Court issued an order preventing the General Secretary of Ceylon Teachers’ Union Joseph Stalin, Ven. Ulapane Sumangala Thero and 8 others from staging a demonstration in a manner that inconvenience the public or pedestrians along Galle Road, NSA Roundabout and several roads in Colombo.
+
+The court also prohibited them from entering the Finance Ministry, President’s Secretariat, Central Bank of Sri Lanka and President’s House premises.
 
 ◼️
 
@@ -205,6 +279,24 @@ As a result, heavy traffic congestion has been found on the streets of Olkot, Ol
 [Data](articles/6e707aac.json)
 
 [Extended Data](ext_articles/6e707aac.ext.json)
+
+---
+
+### නවතා තිබූ සැප බස් රථයේ ලොරියක් ගැටීමෙන් තිදෙනෙක් මරුට, දෙදෙනෙකුට බරපතලයි
+
+*2024-06-26 12:45:56* · [`adalk`](https://www.ada.lk/picture_story/නවතා-තිබූ-සැප-බස්-රථයේ-ලොරියක්-ගැටීමෙන්-තිදෙනෙක්-මරුට--දෙදෙනෙකුට-බරපතලයි/10-410446) · `si`
+
+මාන්කුලම් පොලිස් වසමේ යාපනය ,මහනුවර  ඒ 9 ප්‍රධන මාර්ගයේ පනිච්චන්කුලම් ප්‍රදේශයේ දී ඊයේ (25) රාත්‍රියේ සිදුවු රිය අනතුරකින් පුද්ගලයින් තිදෙනෙක් ජීවිතක්ෂයට පත් වූ බවට පොලීසිය පැවසීය.
+
+යාපනය දෙස සිට කොළඹ දෙසට ධාවනය වූ අධි සුඛෝපභෝගී බස් රථයක් ධාවනය වෙමින් තිබියදී ඇති වූ කාර්මික දෝෂයක් හේතුවෙන් නැවතී ඇති අතර පසුව එය යථා තත්වයයට පත්කරගැනීම සඳහා බස් රථයේ රියදුරු ඇතුලු සහයයකයින් කිහිපදෙනෙකු බස් රථයෙන් බැස පරික්ෂා කරමින් සිට ඇත.
+
+මේ අතර යාපනය දෙස සිටම කොළඹ දෙසට ධාවනය වූ ලොරි රථයක් රියදුරුට පාලනය කර ගැනීමට නොහැකිව නවතා තිබූ සුඛෝපභෝගී බස් රථයේ පිටුපස ගැටීමෙන් මෙම අනතුර සිදුව ඇතැයි පොලීසිය පැවසීය.
+
+ගැටීම සිදුවන අවස්ථාවේදී බස්රථයේ රියදුරු, ඇතුලු සහයකයින් මෙන්ම මගීන් කිහිපදෙනෙක් තුවාල ලැබීය.බස් රථයේ රියදුරු සමගින් සිව් දෙනෙකු බරපතළ තුවාල ලබා ඊයේ (25) රාත්‍රීයේ ම  මාන්කුලම රෝහලට ඇතුළත් කර ඇති අතර එම අවස්ථාවේදී රියදුරු ඇතුලු තිදෙනෙක් ජීවිතක්ෂයට පත්ව ඇති අතර තවත් දෙදෙනෙකු තුවාල ලබා ප්‍රතිකර ලබයි.
+
+...
+
+[Data](articles/16ca46f6.json)
 
 ---
 
@@ -477,6 +569,12 @@ Accordingly, the police arrested the man and conducting further investigations.
 *2024-06-26 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100108/road-opposite-fort-railway-station-blocked-duetoprotest) · `en`
 
 The road in front of the Colombo Fort Railway Station has been blocked for traffic due to a protest march, Ada Derana reporter said.
+
+The protest march has been organized by the teacher-principal trade unions.
+
+Accordingly, the lanes towards Pettah have been blocked for traffic movement causing severe traffic congestion in the area, he said.
+
+UPDATE: Meanwhile, the Lotus Road in Colombo Fort has also been blocked for traffic owing to the protest march by teacher-principal trade unions, Ada Derana reporter said.
 
 ◼️
 
@@ -2199,97 +2297,5 @@ This extraordinary occasion drew some of the country’s most beloved and influe
 [Data](articles/e3933480.json)
 
 [Extended Data](ext_articles/e3933480.ext.json)
-
----
-
-### The world's deception from Negombo to the
-
-*2024-06-25 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198149) · `si`
-
-The CID in Negombo uncovered a vast internet financial fraud network targeting multiple countries. A complaint led to the arrest of two individuals after discovering two bank accounts linked to the scam. Further investigation revealed a larger operation involving 14 arrests, including foreigners, and the seizure of numerous electronic devices. The probe also uncovered connections to branches in Dubai and Afghanistan, highlighting a global reach of the fraud.
-
-🟩
-
-The Criminal Investigations Department (CID) has taken a large network of Internet financial fraud in Negombo targeting several countries.
-
-The Finance Investigation Department has received a complaint with the Financial Investigation Division of the Criminal Investigation Department last night.
-
-It said that a unidentified person had been added to a Watezapp a group of people and that the group was informed by the Ticktock Social Media Network.
-
-The woman had informed the woman by the Group to invest a cash in a group of more than so, and later wanted to invest money in a group of lic and commenting.
-
-The Admin has told the Group when the money was invested, but the profit was asked to get a bank account to obtain the money.
-
-Accordingly, the woman had sent a sum of Rs. 54 lakhs to the bank account.
-
-However, as promised not profit, she had lodged a complaint with the Criminal Investigation Department.
-
-...
-
-[Data](articles/4a03027c.json)
-
-[Extended Data](ext_articles/4a03027c.ext.json)
-
----
-
-### Combank crossing hogs the limelight at share market trading
-
-*2024-06-25 19:58:00* · [`islandlk`](http://island.lk/combank-crossing-hogs-the-limelight-at-share-market-trading/) · `en`
-
-The share market was driven by crossings yesterday. A Commercial Bank crossing was the main contributor to the market. It contributed more than 70 percent to the turnover.
-
-In the Commercial Bank crossing/arranged transaction three buyers purchased its shares, including DFCC Bank and two other companies. Besides this Combank transaction, seven crossings drove the market. However, investors were waiting eagerly for President Wickremasinghe’s policy statement. Amid those developments both indices showed mixed reactions. The All Share Price Index rose by 5.4 points while S and P SL20 declined by 1.37 points.
-
-...
-
-[Data](articles/d1e7f665.json)
-
-[Extended Data](ext_articles/d1e7f665.ext.json)
-
----
-
-### Parliament summoned by sudden
-
-*2024-06-25 19:48:27* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-ලබන-2දා-හදිසියේ-කැඳවයි/11-410439) · `si`
-
-Prime Minister Dinesh Gunawardena requested the assembly of Parliament under the 16th Standing Order on July 2nd. The session, scheduled for 9:30 am, requires the participation of all Members of Parliament (MPs).
-
-🟩
-
-According to the request of Prime Minister Dinesh Gunawardena, the 16 Standing Orders of Parliament 16 Delegation has been called on July 2nd Orders.
-
-Accordingly, Parliament will be assembled at 09.30 am and requested all MPs to participate in the incident.
-
-◼️
-
-[Data](articles/6e9b4214.json)
-
-[Extended Data](ext_articles/6e9b4214.ext.json)
-
----
-
-### Guru principals to Colombo
-
-*2024-06-25 19:29:13* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-විදුහල්පතිවරු-අද-කොළඹට/11-410438) · `si`
-
-Teacher principals, along with Pirivena teachers and advisors, plan a protest outside Colombo Fort Railway Station due to unresolved issues including salary anomalies and the abolition of certain school practices. The protest, involving 30 trade unions, aims to address longstanding grievances since November last year.
-
-🟩
-
-The Gururu Pr Schools, the Guru Principal Trade Union Alliance states that the teacher principals have been sick and conducted in front of the Colombo Fort Railway Station (26).
-
-Teacher Principals, Pirivena Teachers and Teacher Advisors report sick leave, said that the Pirivena teachers and teacher consultants will report sick leave over several demands.
-
-It is planned to be held in front of 30 trade unions and the protest movement is scheduled to be held in front of the Fort Railway Station.
-
-He said that the protesters or authorities had not taken the protesters from November last year to resolve the issues of the authorities to resolve existing problems.
-
-These are the preparation of two landslides not yet to resolve the salary anomalies of the teachers' salaries, demanding the abolition of school educational and demanding the abolition of the activities of the Principal.He said the course was taken.
-
-◼️
-
-[Data](articles/08ca258a.json)
-
-[Extended Data](ext_articles/08ca258a.ext.json)
 
 ---

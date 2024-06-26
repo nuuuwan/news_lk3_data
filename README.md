@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 22:19:29**
+As of **2024-06-26 22:07:38**
 
 ## Newspaper Stats
 
-*Scraped **32,327** Articles*
+*Scraped **32,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,871
 dailyftlk | 1,976
 adalk | 2,860
 adaderanalk | 3,681
-tamilmirrorlk | 3,818
+tamilmirrorlk | 3,817
 dailymirrorlk | 4,733
 virakesarilk | 5,018
 adaderanasinhalalk | 5,309
@@ -26,25 +26,11 @@ adaderanasinhalalk | 5,309
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,314 (100.0%) of 32,327 articles have been extended.
+32,314 (100.0%) of 32,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
-
-### இன்று மிக முக்கியமான நாள் - இதுதான் அந்த நற்செய்தி ; ஜனாதிபதி
-
-*2024-06-26 22:02:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-மிக-முக்கியமான-நாள்-இதுதான்-அந்த-நற்செய்தி-ஜனாதிபதி/175-339487) · `ta`
-
-இலங்கையின் பிரதான உத்தியோகபூர்வ இருதரப்பு கடன் வழங்குநர்களுடன் 26ஆம் திகதி புதன்கிழமை காலை கடன் மறுசீரமைப்பு பேச்சுவார்த்தைகளை நிறைவு செய்து உத்தியோகபூர்வ கடன் வழங்குநர் குழுவுடன் இறுதி உடன்பாடு எட்டப்பட்டுள்ளதால் இலங்கை கடனை மறுசீரமைப்பதில் வெற்றி பெற்றுள்ளது என்றும் கடன் மறுசீரமைப்புப் பணியின் முக்கியமான கட்டத்தை வெற்றிகரமாக முடித்துள்ளதால், வெளிநாட்டு நிதியைப் பயன்படுத்தி முன்னெடுத்த அனைத்து திட்டங்களையும் மீண்டும் தொடங்க சட்டபூர்வ வாய்ப்புகள் ஏற்பட்டுள்ளன என்று ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவிதார்
-
-அன்று  மக்களுக்கு வழங்கிய வாக்குறுதியின் பிரகாரம் இலங்கைத் தாயை ஆபத்தான தொங்கு பாலத்தின் ஊடாக கொண்டு வர முடிந்ததாக தெரிவித்த ஜனாதிபதி, ஹுனுவட்டயே நாடகத்தில்  வருவதைப் போன்று கடினமான நிலைமையில்  குழந்தையைப் பாதுகாப்பதற்கு அஞ்சி எந்த ஆதரவையும் வழங்காத தரப்பினர், குழந்தை தொங்கு பாலத்தை கடக்கும் முன்பே குழந்தையின் உரிமையைக் கேட்டு போராடுவதாகவும் அவர் சுட்டிக்காட்டினார்.
-
-...
-
-[Data](articles/9f635a0f.json)
-
----
 
 ### හෙට පාසල් පැවැත්වීම ගැන දැනුම්දීමක්
 
@@ -2293,5 +2279,23 @@ Rameshwaram Fisheries Assistant Director Abdul Qadar Jailani on the orders of Ra
 [Data](articles/94a9cee2.json)
 
 [Extended Data](ext_articles/94a9cee2.ext.json)
+
+---
+
+### Court order issued against planned teacher-principal protest in Colombo
+
+*2024-06-26 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100107/court-order-issued-against-planned-teacher-principal-protest-in-colombo-) · `en`
+
+The Colombo Fort Magistrate’s Court has issued an order preventing the General Secretary of Ceylon Teachers’ Union Joseph Stalin, Ven. Ulapane Sumangala Thero and 8 others from staging a demonstration in a manner that inconvenience the public or pedestrians along Galle Road, NSA Roundabout and several roads in Colombo today (26).
+
+Accordingly, they have been barred from holding protests that blocks the sections of roads from Ceramic Junction to NSA Roundabout, NSA Roundabout to Baladaksha Mawatha along Galle Road and area also prohibited from entering the Finance Ministry, President’s Secretariat, Central Bank of Sri Lanka and President’s House premises.
+
+The order also mentions that there is no obstacle for a government official who is responsible for only a small group to enter the aforementioned premises to deliver their memos on the basis of a lawfully obtained permission.
+
+...
+
+[Data](articles/801c9feb.json)
+
+[Extended Data](ext_articles/801c9feb.ext.json)
 
 ---

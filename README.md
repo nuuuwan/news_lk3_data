@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 15:19:23**
+As of **2024-06-26 15:34:59**
 
 ## Newspaper Stats
 
-*Scraped **32,258** Articles*
+*Scraped **32,259** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,790
 economynextcom | 1,870
 dailyftlk | 1,976
 adalk | 2,847
-adaderanalk | 3,665
+adaderanalk | 3,666
 tamilmirrorlk | 3,809
 dailymirrorlk | 4,733
 virakesarilk | 5,002
@@ -26,41 +26,69 @@ adaderanasinhalalk | 5,296
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,254 (100.0%) of 32,258 articles have been extended.
+32,258 (100.0%) of 32,259 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### ගුරු-විදුහල්පති වර්ජනය හෙටත්
+### School teachers and principals to continue strike tomorrow
+
+*2024-06-26 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100113/school-teachers-and-principals-to-continue-strike-tomorrow) · `en`
+
+The General Secretary of the Ceylon Teachers’ Union (CTU) Joseph Stalin says that the teacher-principal trade unions will continue their strike action tomorrow (27) as well, protesting against the firing of tear gas and water cannons to disperse their protest march in Colombo today.
+
+The teacher-principal trade unions engaged in an island-wide trade union action by reporting sick leave today (26) based on several demands. At the same time, the members of the trade union launched a protest in Colombo which commenced from near the Colombo Fort Railway Station.
+
+Police had resorted to using tear gas and water cannons to disperse the protesters near the Lotus Roundabout in Colombo, while they were attempting to march towards the Presidential Secretariat this afternoon.
+
+...
+
+[Data](articles/07b39500.json)
+
+---
+
+### Teacher-Principal strike tomorrow
 
 *2024-06-26 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198179) · `si`
 
-කොළඹ, ලෝටස් පාර ප්‍රදේශයේදී තම උද්ඝෝෂණයට පොලීසියෙන් ජල සහ කඳුළු ගෑස් ප්‍රහාර එල්ල කිරීමට විරෝධය දක්වා හෙට (27) ගුරු-විදුහල්පති සංගම් වර්ජනයක නිරත වන බව ලංකා ගුරු සංගමයේ ලේකම් ජෝසෆ් ස්ටාලින් මහතා පවසයි.
+Ceylon Teachers Union plans a strike tomorrow in Colombo's Lotus Road area, following protests at the Fort Railway Station. The action aligns with the union's trade program, supported by a court order after a police request.
 
-අසනීප නිවාඩු වාර්තාකිරීමේ වෘත්තීය ක්‍රියාමාර්ගයට සමඟාමීව ගුරු - විදුහල්පති ඒකාබද්ධ කමිටුව අද (26) කොටුව දුම්රිය ස්ථානය ඉදිරිපිට විරෝධතාවය ආරම්භ කළේය.
+🟩
 
-එහිදී විරෝධතාවය සම්බන්ධයෙන් කොම්පඤ්ඥවීදීය පොලිසීය කළ ඉල්ලීමක් පරිදි කොටුව මහෙස්ත්‍රාත් අධිකරණයෙන් නියෝගයක්ද නිකුත් කර තිබිණි.
+The Ceylon Teachers Union Secretary Joseph Stalin says that the project will be on strike tomorrow (27) at the Lotus Road area in Colombo.
+
+Teachers' Principal Joint Committee, in line with the trade union trade program, commenced protest in front of the Fort Railway Station today.
+
+According to a comprehensive police request, the Fort Magistrate Court has issued an order.
 
 ◼️
 
 [Data](articles/244e35a1.json)
 
+[Extended Data](ext_articles/244e35a1.ext.json)
+
 ---
 
-### වතු වැටුප් පෙත්සම කැඳවීම නොවැම්බර්
+### Calling Estate Salary Petition November
 
 *2024-06-26 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198178) · `si`
 
-වතු කම්කරු වැටුප් වැඩි කරන ලෙස නියම කරමින් කම්කරු අමාත්‍යවරයා විසින් නිකුත් කර තිබෙන ගැසට් නිවේදනය බලරහිත කිරීමේ ආඥාවක් නිකුත් කරන ලෙස ඉල්ලා වැවිලි සමාගම් විසින් ගොනු කර තිබූ පෙත්සම නොවැම්බර් මස 08 වනදා විභාගය සඳහා කැඳවන ලෙස අභියාචනාධිකරණය අද (26) නියෝග කළේය.
+The Court of Appeal ordered the issuance of a gazette notification based on a petition filed by 22 plantation companies, including Visarapatha Plantation Limited, after hearing the case presented by Judge Sobhitha Rajapandara.
 
-ආගරපතන වැවිලි සමාගම ඇතුළු වැවිලි සමාගම් 21 ක් විසින් මෙම පෙත්සම ගොනු කර තිබුණි.
+🟩
 
-මෙම පෙත්සම අද අභියාචනාධිකරණ විනිසුරු සෝභිත රාජකාරණා මහතා ඉදිරියේ කැඳවනු ලැබීය.
+The Court of Appeal today (26) ordered that the petition filed by the Labora's gazette notification to issue the gazette notification commands on the basis of the Laboratory of the Laborabana.
+
+The petition had been filed by the Visarapatha Plantation Limited and 21 plantation companies.
+
+The petition was called before the Court of Appeal Judge Sobhitha Rajapandara today.
 
 ◼️
 
 [Data](articles/9a94eb30.json)
+
+[Extended Data](ext_articles/9a94eb30.ext.json)
 
 ---
 
@@ -68,11 +96,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-06-26 14:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100112/sri-lanka-reaches-final-debt-restructuring-agreement-with-creditors) · `en`
 
-Sri Lanka has reached a final restructuring agreement for USD 5.8 billion of debt with its bilateral lenders’ Official Creditor Committee in Paris, France a short while ago.
+Sri Lanka has reached a final restructuring agreement for USD 5.8 billion of debt with its bilateral lenders’ Official Creditor Committee in Paris, France on Wednesday.
 
 This agreement grants significant debt relief, allowing Sri Lanka to allocate funds to essential public services and secure concessional financing for its development needs, the President’s Media Division (PMD) said.
 
-◼️
+“We are pleased to announce that the final agreement has been reached on debt restructuring between Sri Lanka and the Official Creditor Committee on the sidelines of the Paris Forum 2024 in Paris, France,” Sri Lanka’s State Minister of Finance Shehan Semasinghe confirmed.
+
+“Today, we are also in the process of signing bilateral debt treatment agreements between Sri Lanka and Export-Import Bank of China,” he said in a post on ‘X’ (formerly Twitter).
+
+...
 
 [Data](articles/40d459de.json)
 
@@ -244,17 +276,25 @@ Accordingly, the Ministry of Finance, the Secretary to the Ministry of Finance, 
 
 ---
 
-### කොළඹ කොටුව උණුසුම්
+### Colombo Fort warm
 
 *2024-06-26 13:19:38* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-කොටුව-උණුසුම්/11-410449) · `si`
 
-ගුරු - විදුහල්පති විරෝධතාවය හේතුවෙන් කොළඹ කොටුව දුම්රියපොළ ඉදිරිපිට මාර්ගය අවහිර වී ඇති බව වාර්තා වෙයි.
+Teachers' principals protested, blocking roads near Colombo Fort Railway Station. The Ministry of Finance and others were issued court orders regarding legal permissions for protests, allowing peaceful demonstrations without illegal actions.
 
-කොම්පඤ්ඤවීදිය පොලීසිය අධිකරණයෙන් කළ ඉල්ලීමක් අනුව විරෝධතාවයට එක්වන ජෝසප් ස්ටාර්ලින්, මහින්ද ජයසිංහ, අමිල සඳරුවන්, වාස් ගුණවර්ධන, පූජ්‍ය උලපනේ සුමංගල හිමි, මයුර සේනානායක, පූජ්‍ය යල්වල පඤ්ඤාසේකර හිමි, පුංචිහෙට්ටි, මොහාන් පරාක්‍රම වීරසිංහ සහ ඉහත නම් සඳහන් අයගේ සාමාජිකයින් වෙත කොටුව මහෙස්ත්‍රාත් අධිකරණයෙන් ආඥාවක් ද නිකුත් කර තිබේ.
+🟩
 
-...
+It is reported that the road in front of the Fort Railway Station has been blocked due to protest of the Teachers' Principals.
+
+Fort Sandiyananayake, Punchiutti, Vass Gunawardena, Ven. Ulapene Sandarrama, Ven. Yalli Sandiyakara and Ven.Issued.
+
+Accordingly, the Ministry of Finance, the Secretary to the Ministry of Finance, to NSA roundabout from the Fort and Sabarakara from the NSA roundabout from NSA roundabout from NSA roundabout.The court order not to enter the legal permission of legal permission only to hand over the Meadays. Meanwhile, the court order is said that this order has no obstacle to the main right of a peaceful demonstration without illegal behavior.
+
+◼️
 
 [Data](articles/9cbf926e.json)
+
+[Extended Data](ext_articles/9cbf926e.ext.json)
 
 ---
 
@@ -320,21 +360,33 @@ The court also prohibited them from entering the Finance Ministry, President’s
 
 ---
 
-### පිසා ඇණවුමක් හරහා කොටුකරගත් මහා පරිමාණ සයිබර් ජාවාරම
+### Large scale cyber trafficking through cooked order
 
 *2024-06-26 12:58:05* · [`adalk`](https://www.ada.lk/breaking_news/පිසා-ඇණවුමක්-හරහා-කොටුකරගත්-මහා-පරිමාණ-සයිබර්-ජාවාරම/11-410448) · `si`
 
-ලොව රටවල් කිහිපයක් ඉලක්ක කරගනිමින් මීගමුව ප්‍රදේශයේ පවත්වාගෙන ගිය මහාපරිමාණ අන්තර්ජාල මූල්‍ය වංචාවකට සම්බන්ධ විදේශිකයන් ඇතුළු පුද්ගලයන් 33 කු අත්අඩංගුවට ගත් බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කියයි.
+The CID arrested 33 individuals, including foreigners, linked to cyber trafficking across several countries. Suspects were found with 109 mobile phones and 3 laptops. The group allegedly used social media to lure victims, promising profits but instead defrauding them. Investigations led to the discovery of two bank accounts controlled by the ringleaders and the use of online pizza orders as a cover for illicit activities. Authorities raided two luxury houses in Negombo, seizing more devices and arresting additional suspects, including two women. The operation uncovered international connections, including branches in Dubai and Afghanistan, and similarities to a cyber slavery ring in Myanmar.
 
-සැකකරුවන් සහ සැකකාරියන් සමඟ මහා පරිමාණ මූල්‍ය වංචාව සඳහා යොදාගත් ජංගම දුරකථන 109 ක් පරිගණක 46 ක් හා ලැෆ් ටොෆ් පරිගණක 3 ක් පොලිස් භාරයට ගෙන ඇත.
+🟩
 
-එම සැකකරුවන් සහ සැකකාරියන් අතර පාකිස්ථාන ඇල්ජීරියා නේපාල් ඉන්දුනීසියා හා ශ්‍රී ලාංකිකයන් ද වන බව පොලිසිය සඳහන් කරයි.
+The Criminal Investigations Department (CID) has arrested 33 persons including foreigners, including foreigners involved in the world with a number of countries in Negombo.
 
-නාඳුනන පුද්ගලයෙකු විසින් වට්ස්ඇප් සමූහයකට තමන්ව  එක්කරගත් අතර  ටික්ටොක් සමාජ මාධ්‍ය ජාලයේ වීඩියෝ සඳහා ලයික් හා කමෙන්ට් දැමීමෙන් මුදල් ඉපැයිය හැකි බවට එම සමූහය මගින් දැනුම්දුන් බවත් එලෙස ලයික් සහ කමෙන්ට් කිරීම වෙනුවෙන් අවස්ථා කිහිපයකදී  තමන්ට රුපියල් 750 බැගින් මුදල් ලැබුණු බව ඉකුත් 13 වෙනි දින කාන්තාවක් විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු වෙත පැමිණිලි කර තිබිණි.
+With the suspects and suspects, 109 mobile phones were taken into police custody and 3 lap toff computers.
+
+Pakistan Algeria Nepal is also Indonesia and Sri Lankans among the suspects and suspects.
+
+Criminal investigations by a woman in several occasions that the Group was informed by a unidentified person to make money in the Ticktock Social Media Network and had received Rs 750 at a cost of Rs.Complaints have been lodged with the department.
+
+If you want to earn money, the Group Admin has told the complainant to a bank account when the profit was asked to invest money.
+
+Accordingly, the labor had been credited to the bank account at several lakhs.
+
+However, as promised not profit, she had lodged a complaint with the Financial Investigation Unit.
 
 ...
 
 [Data](articles/f62fbbe1.json)
+
+[Extended Data](ext_articles/f62fbbe1.ext.json)
 
 ---
 
@@ -2273,21 +2325,5 @@ The Minister also said that the statement issued by the Judicial Service Associa
 [Data](articles/d1f8bdf2.json)
 
 [Extended Data](ext_articles/d1f8bdf2.ext.json)
-
----
-
-### Immediately provide information about the authorities - the President
-
-*2024-06-25 20:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகாரிகள்-பற்றிய-தகவல்களை-உடனடியாக-வழங்குங்கள்-ஜனாதிபதி/175-339431) · `ta`
-
-The President is the head of state and government in many countries, responsible for implementing and enforcing laws passed by the legislature. They often serve as the commander-in-chief of the military and represent the nation internationally.
-
-🟩
-
-◼️
-
-[Data](articles/66d7b7be.json)
-
-[Extended Data](ext_articles/66d7b7be.ext.json)
 
 ---

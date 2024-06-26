@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 18:26:03**
+As of **2024-06-26 18:36:47**
 
 ## Newspaper Stats
 
-*Scraped **32,293** Articles*
+*Scraped **32,294** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,790
 economynextcom | 1,870
 dailyftlk | 1,976
 adalk | 2,853
-adaderanalk | 3,673
+adaderanalk | 3,674
 tamilmirrorlk | 3,814
 dailymirrorlk | 4,733
 virakesarilk | 5,009
@@ -26,25 +26,47 @@ adaderanasinhalalk | 5,304
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,289 (100.0%) of 32,293 articles have been extended.
+32,293 (100.0%) of 32,294 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### கண்ணீர் புகையால் நாளைக்கும் சுகயீனம்
+### US urges Sri Lanka to continue fiscal reforms with transparent and sustainable changes
+
+*2024-06-26 18:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100123/us-urges-sri-lanka-to-continue-fiscal-reforms-with-transparent-and-sustainable-changes) · `en`
+
+US Ambassador to Sri Lanka Julie Chung says the United States welcomes the news of a final agreement on debt restructuring between Sri Lanka and creditor nations, which was reached today on the sidelines of the Paris Forum 2024.
+
+“This is a positive step forward in Sri Lanka’s economic recovery and resilience, helping build more confidence in Sri Lanka’s fiscal environment”, the US envoy said in a post on ‘X’ (formerly Twitter).
+
+Meanwhile, she added that the US encourages Sri Lanka to continue the reform process, adopting transparent and sustainable changes that foster long-term prosperity and growth.
+
+◼️
+
+[Data](articles/14920273.json)
+
+---
+
+### Tear smoke tomorrow
 
 *2024-06-26 17:47:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்ணீர்-புகையால்-நாளைக்கும்-சுகயீனம்/175-339480) · `ta`
 
-அதிபர்கள், ஆசிரியர்கள் மீது மேற்கொள்ளப்பட்ட ரணில்- ராஜபக்ஷ அரசாங்கத்தின்  அடக்குமுறையைக் கண்டித்து அதிபர், ஆசிரியர்கள், வியாழக்கிழமையும் (27) சுகயீன போராட்டத்தை முன்னெடுக்கவுள்ளனர் என இலங்கை ஆசிரியர் சங்கத்தின் உப தலைவர் ஆ.தீபன் திலீசன் தெரிவித்துள்ளார்.
+Teachers in Sri Lanka, led by the Vice President of the Sri Lanka Teachers Association, plan a protest against government repression, highlighting unresolved salary issues and calling for support.
 
-அதிபர், ஆசிரியர்களுக்கு வழங்கவேண்டிய சம்பள முரண்பாட்டுக்கு தீர்வை வழங்காது, தமக்கு கிடைக்கவேண்டியதை கேட்கும் அதிபர், ஆசிரியர்களின் ஜனநாயகரீதியான  போராட்டத்தை நசுக்க, நீர்த்தாரை பிரயோகம் மற்றும் கண்ணீர் புகைக்குண்டுகள் வீசி, அதிபர், ஆசிரியர்கள் மீது நடத்தப்பட்ட மிலேச்சத்தனமான தாக்குதல்களை கண்டித்தே நாளையதினம் (27) போராட்டம் முன்னெடுக்கப்படவுள்ளது என்றார்.
+🟩
 
-அதிபர்கள், ஆசிரியர்கள் மீதான அடக்குமுறைகளைக் கண்டிக்கும் விதமாக இன்றைய தினமும் ஆதரவு வழங்க வேண்டும் என்று கேட்டுக்கொண்டுள்ளார்.
+Vice President of the Sri Lanka Teachers Association, A. Deepan Dilean, said that the Chancellor, the teachers and the teachers will launch a sick struggle on Thursday (27), condemning the repression of the Ranil-Rajapakse government on principals and teachers.
+
+The Chancellor does not provide a solution to the salary contradiction to the teachers, but the chancellor, who asks what he wants, will be carried out tomorrow (27), condemning the democratic struggle of the teachers, the use of water and tears, and the tearful smokes and tears.
+
+He has called for support today to condemn the repression of principals and teachers.
 
 ◼️
 
 [Data](articles/df0af8f6.json)
+
+[Extended Data](ext_articles/df0af8f6.ext.json)
 
 ---
 
@@ -72,17 +94,23 @@ Meanwhile, Sri Lanka has also reached the final agreement of US $ 5.8 billion in
 
 ---
 
-### LPL அட்டவணை: ஜூலை 1 ஆரம்பம்
+### LPL Table: The beginning of July 1
 
 *2024-06-26 17:34:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/LPL-அட்டவணை-ஜூலை-1-ஆரம்பம்/44-339479) · `ta`
 
-லங்கா பிரீமியர் லீக் (LPL) ஐந்தாவது சீசன் ஆரம்பமாகவிருக்கிறது. அதற்கான  போட்டி அட்டவணையை வெளியிடப்பட்டுள்ளது.
+The Sri Lanka Premier League (LPL) starts its fifth season soon, with the first match between B-LOVE KANDY and Dambulla Thunders scheduled for 7.30 pm in Kandy.
 
-2024 ஜூலை 1 திங்கட்கிழமை தொடக்க விழாவுடன் உற்சாகமாக தொடங்குகிறது, அதைத் தொடர்ந்து B-Love Kandy மற்றும் Dambulla Thunders இடையிலான முதல் போட்டி கண்டியில் இரவு 7.30 மணிக்கு தொடங்குகிறது.
+🟩
+
+Sri Lanka Premier League (LPL) is about to begin fifth season. The match table has been released.
+
+The first match between B-LOVE KANDY and Dambulla Thunders begins at 7.30 pm in Kandy.
 
 ◼️
 
 [Data](articles/8467bdde.json)
+
+[Extended Data](ext_articles/8467bdde.ext.json)
 
 ---
 
@@ -101,6 +129,8 @@ This agreement grants significant debt relief, allowing Sri Lanka to allocate fu
 ...
 
 [Data](articles/72fd400d.json)
+
+[Extended Data](ext_articles/72fd400d.ext.json)
 
 ---
 
@@ -1304,23 +1334,29 @@ Teachers - The Lotus Road has blocked due to a protest of principals.
 
 ---
 
-### ஆசனவாயில்களில் தங்க ஜெல் உருண்டை : 06 பேர் கைது
+### Gold gel orb: 6 arrested
 
 *2024-06-26 12:20:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசனவாயில்களில்-தங்க-ஜெல்-உருண்டை-06-பேர்-கைது/175-339465) · `ta`
 
-தங்க ஜெல் உருண்டைகளை தங்களுடைய ஆசன வாயில்களை மறைத்து வைத்து கடத்தினர் என்றக் குற்றச்சாட்டின் பேரில், 06 பேர், கட்டுநாயக்க விமான நிலையத்தில் வைத்து  கைது செய்யப்பட்டுள்ளனர்.
+Six individuals were arrested at Katunayake airport for smuggling gold gel pellets worth Rs 18 crore, hidden in their body cavities during a flight from Dubai to Chennai. The suspects, aged 30-50, hail from Kalmunai, Muttur, Colombo-10, Kalkedihane, and Minuwangoda.
 
-கைது செய்யப்பட்டவர்கள், துபாயில் இருந்து சென்னைக்கு வந்து அங்கிருந்து செவ்வாய்க்கிழமை  (25) பிற்பகல் 01.20 மணியளவில் இண்டிகோ ஏர்லைன்ஸ் விமானம்   மூலம் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்தனர்.
+🟩
 
-தமது பயணப்பொதிகள் மற்றும் ஆசனவாய்களில் மறைத்து வைத்தே, தங்க ஜெல் உருண்டைகளை இவர்கள் கடத்தியுள்ளனர். இதன் உள்நாட்டு பெறுமதி, 18 கோடி ரூபாயாகும்.
+Six people have been arrested at the Katunayake airport for allegedly smuggling gold gel pellets.
 
-கைதானவர்கள், கல்முனை, மூதூர், கொழும்பு-10, கல்கெடிஹேன், மினுவாங்கொடை ஆகிய இடங்களில் வசிப்பவர்களும், அடிக்கடி விமானம் பயணங்களை மேற்கொள்பவர்கள், அவர்களில் 30 வயதுக்கும் 50 வயதுக்கும் இடைப்பட்ட ஆறு பேர் உள்ளனர்.
+The arrested persons arrived from Dubai to Chennai on Tuesday (25) at 01.20 pm by Indigo Airlines flight.
 
-அவர்களில் 4 பேர் மலக்குடலில் தங்க ஜெல் உருண்டைகளை மறைத்து வைத்திருந்ததாகவும், மேலுமிருவர்  22 தங்க ஜெல் உருண்டைகளில் 08 கிலோ 632 கிராம் எடையுள்ள தங்க ஜெல்களை மறைத்து வைத்திருந்ததாகவும் விமான நிலைய சுங்க அதிகாரி ஒருவர் தெரிவித்தார்.
+They have hijacked gold gel pellets while hiding in their travels and seat. Its domestic value is Rs 18 crore.
+
+The detainees, Kalmunai, Muttur, Colombo-10, Kalkedihane and Minuwangoda, frequent flight travel, are of six people between the ages of 30 and 50.
+
+An airport customs official said that four of them had hidden the gold gel pellets in the rectum and hid the gold gels weighing 8 kg of 632 grams of 22 gold gel rolls.
 
 ◼️
 
 [Data](articles/87d7a37b.json)
+
+[Extended Data](ext_articles/87d7a37b.ext.json)
 
 ---
 
@@ -2319,33 +2355,5 @@ Officers of the Motor Inspector OIC, Inspector General of Police (OIC) and other
 [Data](articles/0a56d743.json)
 
 [Extended Data](ext_articles/0a56d743.ext.json)
-
----
-
-### A terrible accident in Mankulam
-
-*2024-06-26 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198158) · `si`
-
-In a tragic accident on the Kandy-Jaffna A-9 road, three people died when a bus veered off the road near Paranchmunkulam. The driver, who was reportedly unwell and had recently repaired the bus, lost control. Several passengers, including the driver, suffered serious injuries; some were taken to Manukulama Hospital, while others were admitted to Kilinochchi hospital. Two unidentified victims, aged 39 from Jaffna, also succumbed to their injuries.
-
-🟩
-
-Three persons were killed in an accident in the Paranchmunkulam area on the Mankulam police division in Kandy-Jaffna A-9 road.
-
-The driver and several passengers were disaster towards Colombo to Colombo, the police said that the driver of the bus, who had been repaired, was not controlled by the driver, and the road was not controlled by the driver.
-
-The driver of the bus and several passengers were in danger.
-
-The bus driver and several passengers were seriously injured and 3 others were rushed to the Manukulama Hospital last night.
-
-The driver and passenger of the lorry has been admitted to the Kilinochchi hospital.
-
-Two others who were unable to verify the driver and identity of the bus, a 39-year-old resident of Jaffna.
-
-◼️
-
-[Data](articles/6c70a7a8.json)
-
-[Extended Data](ext_articles/6c70a7a8.ext.json)
 
 ---

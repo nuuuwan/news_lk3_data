@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 23:06:15**
+As of **2024-06-26 22:52:39**
 
 ## Newspaper Stats
 
-*Scraped **32,329** Articles*
+*Scraped **32,328** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,790
 economynextcom | 1,871
 dailyftlk | 1,976
-adalk | 2,861
+adalk | 2,860
 adaderanalk | 3,681
 tamilmirrorlk | 3,818
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,328 (100.0%) of 32,329 articles have been extended.
+32,328 (100.0%) of 32,328 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -489,20 +489,6 @@ Jayawardena had initially joined SLC as a Consultant Coach in September 2022 ahe
 [Data](articles/f568ea00.json)
 
 [Extended Data](ext_articles/f568ea00.ext.json)
-
----
-
-### ගුරු විදුහල්පති විරෝධතාවට ආපි තිදෙනෙක් ජාතික රෝහලට
-
-*2024-06-26 19:22:12* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-විදුහල්පති-විරෝධතාවට-ආපි-තිදෙනෙක්-ජාතික-රෝහලට/11-410459) · `si`
-
-කොළඹ කොටුව දුම්රියපොළ අසල පැවැත්වූ ගුරු විදුහල්පති විරෝධතාවය  විසිරවීම සඳහා පොලිසිය කඳුළු ගෑස් එල්ල කිරීමෙන් රෝගී වූ තිදෙනෙක් කොළඹ ජාතික රෝහල  වෙත ඇතුළත් වූ බව එහි ප්‍රකාශකයෙක් පැවසීය.
-
-රෝහල් ගතවූ තිදෙනාගෙන් දෙදෙනෙක් ප්‍රතිකාර ලබා මඳ වේලාවකදී පිටවී ගිය අතර අනෙක් අය ඇස් රෝහල කරා යොමු වූ බව එම ප්‍රකාශකයා වැඩිදුරටත් පැවසීය.
-
-◼️
-
-[Data](articles/c9df1264.json)
 
 ---
 
@@ -2379,5 +2365,23 @@ UPDATE: Meanwhile, the Lotus Road in Colombo Fort has also been blocked for traf
 [Data](articles/b2497b38.json)
 
 [Extended Data](ext_articles/b2497b38.ext.json)
+
+---
+
+### Colombo-box bloom
+
+*2024-06-26 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198169) · `si`
+
+Road block near Colombo Fort Railway Station prevents Ada Derana reporter from proceeding.
+
+🟩
+
+The road in front of the Colombo Fort Railway Station has blocked the Ada Derana reporter, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/9c2121b8.json)
+
+[Extended Data](ext_articles/9c2121b8.ext.json)
 
 ---

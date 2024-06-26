@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 17:55:43**
+As of **2024-06-26 18:14:23**
 
 ## Newspaper Stats
 
-*Scraped **32,283** Articles*
+*Scraped **32,289** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ newsfirstlk | 363
 islandlk | 1,790
 economynextcom | 1,870
 dailyftlk | 1,976
-adalk | 2,849
+adalk | 2,853
 adaderanalk | 3,672
 tamilmirrorlk | 3,811
 dailymirrorlk | 4,733
 virakesarilk | 5,009
-adaderanasinhalalk | 5,302
+adaderanasinhalalk | 5,304
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,283 (100.0%) of 32,283 articles have been extended.
+32,283 (100.0%) of 32,289 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### චීන එක්සිම් බැංකුව සමගත් ණය ප්‍රතිකර්ම අවසන් එකඟතාවකට
+
+*2024-06-26 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198187) · `si`
+
+ශ්‍රී ලංකාව සහ චීන එක්සිම් බැංකුව අතර ද්විපාර්ශ්වික ණය ප්‍රතිකර්ම අවසන් එකඟතාවකට එළඹුණු බව මුදල් රාජ්‍ය අමාත්‍ය ෂෙහාන් සේමසිංහ මහතා පවසයි.
+
+පැරිස් නුවරදී චීන රජයේ නියෝජ්‍ය මුදල් අමාත්‍ය ලියාවෝ මින් හමු වූ බවත්, එහිදී එම අවසන් එකඟතාවට එළඹුණු බවත් රාජ්‍ය අමාත්‍යවරයා X අවකාශයේ සටහනක් තබමින් වැඩිදුරටත් සඳහන් කරයි.
+
+ඒ අනුව අදාළ ගිවිසුම් ක්‍රියාත්මක කරලීම සම්බන්ධයෙන් වූ නිල අත්සන් තැබීම් සිදුවන බවද අමාත්‍යවරයා ප්‍රකාශ කළේය.
+
+මේ අතර අද පැරිසියේ පැවති හමුවේදී ශ්‍රී ලංකාව මෙරට ද්වීපාර්ශ්වික ණය හිමියන්ගේ නිල කමිටුව සමග අමෙරිකානු ඩොලර් බිලියන 5.8ක ණය ප්‍රතිව්‍යුහගතකරණ අවසන් එකඟතාවට ද එළඹුණි.
+
+◼️
+
+[Data](articles/4d6498da.json)
+
+---
+
+### ජනපති හදිසියේ කැබිනට් මණ්ඩලය රැස් කරයි
+
+*2024-06-26 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198186) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අද (26) පස්වරුවේ හදිසි කැබිනට් රැස්වීමක් කැඳවා තිබේ.
+
+ඊට සහභාගීවීමෙන් අනතුරුව අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පැවසුවේ ජනාධිපතිවරයා අද ජාතිය අමතා සිදුකරන ප්‍රකාශය පිළිබඳව කැබිනට් මණ්ඩලයට දැනුම්දුන් බවය.
+
+◼️
+
+[Data](articles/0fd51714.json)
+
+---
 
 ### Train delays expected on Coastal Line
 
@@ -63,6 +95,22 @@ A train traveling from Maradana from Maradana has been underway at the Slave Isl
 [Data](articles/6e90ce09.json)
 
 [Extended Data](ext_articles/6e90ce09.ext.json)
+
+---
+
+### හෙටත් ගුරු විදුහල්පතිවරු ලෙඩවෙන ලකුණු
+
+*2024-06-26 17:04:02* · [`adalk`](https://www.ada.lk/breaking_news/හෙටත්-ගුරු-විදුහල්පතිවරු-ලෙඩවෙන-ලකුණු/11-410453) · `si`
+
+ගැටලු කිහිපයක් මුල්කර ගනිමින් අද (26) විරෝධතා පා ගමනට එල්ලකල ජල හා කදුළු ගැස් ප්‍රහාරයන්ට විරෝධය දක්වා හෙට(27) දිනයේදි  අසනිප නිවාඩු වාර්ත කරන බව ගුරු විදුහල්පති වෘත්තිය සමිති සන්ධානය  සදහන් කරයි.
+
+පවතින ගැටලු විසදන ලෙස ඉල්ලා අද දිනයේදිත් ගුරු විදුහල්පතිවරුන් අසනිප නිවාඩු වාර්තා කිරිමේ වෘත්තිය ක්‍රියා මාරගයක් සිදුකල අතර මේ නිසා පාසල් කටයුතුවලට දැඩි බලපෑම් සිදුවිය
+
+ගුරුවරුන්ට සහ විදුහල්පතිවරුන්ට ලැබිය යුතු වැටුප් වැඩි වීමේ ඉතිරි කොටස වහා ලබා දෙන්නැයි බලකරමින් ගැටලු කිහිපයක් මුල්කර ගනිමින් අද (26) දිනයේද ගුරු විදුහල්පතිවරු අසනීප නිවාඩු වාර්තා කර සේවයට නොපැමිණ සිටීමේ වෘත්තීය සමිති ක්‍රියා මාර්ගයක නිරත වී සිටිය අතර කදුලු ගෑස් හා ජල ප්‍රහාරයන්ටද ලක්විය.
+
+◼️
+
+[Data](articles/2464d414.json)
 
 ---
 
@@ -107,6 +155,24 @@ Indian media reports that the Indian Foreign Minister Kuwait Ambassador and the 
 [Data](articles/9765ab91.json)
 
 [Extended Data](ext_articles/9765ab91.ext.json)
+
+---
+
+### කුකුළු මස් හා බිත්තර හොදින් පිස ආහාරයට ගන්න
+
+*2024-06-26 16:48:55* · [`adalk`](https://www.ada.lk/breaking_news/කුකුළු-මස්-හා-බිත්තර-හොදින්-පිස-ආහාරයට-ගන්න/11-410452) · `si`
+
+කුකුළු මස් හා බිත්තර ආහාරයට ගැනීමේදී හොඳින් පිස ආහාරයට ගන්නා ලෙසත් අමු හෝ අඩුවෙන් පිසින ලද කුකුළු නිශ්පාදන පරිභෝජනයෙන් වළකින ලෙසත් සෞඛ්‍ය අමාත්‍යාංශය ජනතාවට දැනුම් දී සිටියි.
+
+ඉන්දියාවේ ව්‍යාප්තවූ කුරුළු උණ හේතුවෙන් සෞඛ්‍ය අමාත්‍යංශය මේ පිළිබඳව අවදානය යොමුකිරීමත් සමග සෞඛ්‍ය ප්‍රවර්ධන කාර් යංශය  විසින් මෙම දැනුමවත් කිරීම තවදුරටත් සිදුකරයි.
+
+පක්ශීන් හේතුවෙන් පැතිරෙණ මෙම කුරුළු උණ මිනිසුන්ටද වැළඳිය හැකි බැවින් ඉතාමත්ම විමසිල්ලෙන් සිටින ලෙසත්, කුරුල්ලන් හෝ කුරුළු මළ අපද්‍රව්‍ය ස්පර්ශ වීමෙන් වළක්වා ගන්නා ලෙසත් වැඩිදුරටත් දැනුම්දී සිටියි.
+
+කුකුළු ගෙවිපලවල කුකුලන් මියයාමක් සිදුවුවහොත් වහාම ප්‍රාදේශීය සෞඛ්‍ය බලධාරීන්ට ඒ බව දන්වන ලෙසත් ඔවුන් දැනුම් දී සිටියි.
+
+◼️
+
+[Data](articles/0fe952a4.json)
 
 ---
 
@@ -1000,6 +1066,26 @@ Meanwhile, traffic in front of the fort railway station has been completely bloc
 
 ---
 
+### සරසවි අනධ්‍යන සේවකයන්ට ජනපතිගෙන් ඉල්ලීමක්
+
+*2024-06-26 12:51:19* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-අනධ්‍යන-සේවකයන්ට-ජනපතිගෙන්-ඉල්ලීමක්/11-410447) · `si`
+
+තරුණ පරපුරට අවශ්‍ය අනාගත ශ්‍රී ලංකාව නිර්මාණය කිරීම පිළිබඳ රට පුරා පුළුල් සංවාදයක් ආරම්භ කළයුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+රට තුළ අලුත් ආර්ථිකයක් ඇති කිරීම වෙනුවෙන් අලුත් ගමනක් යා යුතු බවත්, එහිදී තරුණ පරපුරට ප්‍රමුඛ වගකීමක් පැවරෙන බවත් ජනාධිපතිවරයා අවධාරණය කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ අම්පාර එච්.එම්. වීරසිංහ ක්‍රීඩාංගණයේ දී ජාතික තරුණ සේවා සභාව විසින් සංවිධානය කර තිබු තරුණ හමුවට එක් වෙමිනි.
+
+මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද පැවසීය,
+
+ත්‍රිකුණාමලයේ තිබෙන තරුණ සේවා සභාවට අයත් අක්කර 200ක ඉඩමෙන් කොටසක් සංචාරක ව්‍යාපාරය සඳහා ලබාදී ඉතිරි කොටස ස්ථීර යොවුන් පුරයක් ඇති කිරීම වෙනුවෙන් ලබාදීමට මම අපේක්ෂා කරනවා. ඒ අනුව ඔබේ විනෝදාස්වාද කටයුතු සඳහා නිදහසේ භාවිතා කළ හැකි අන්දමින් ඊළග වසර දෙක තුළදී එය සකස් කර දීමට කටයුතු කරන බව කිවයුතුයි.
+
+...
+
+[Data](articles/24d4135f.json)
+
+---
+
 ### Fort is disturbed: Lotus Street Lock
 
 *2024-06-26 12:47:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டை-கலங்குகிறது-லோட்டஸ்-வீதிக்குப்-பூட்டு/175-339466) · `ta`
@@ -1069,6 +1155,22 @@ At the same time, a similar incident took place in Chavakachcheri a year ago and
 [Data](articles/dac3e472.json)
 
 [Extended Data](ext_articles/dac3e472.ext.json)
+
+---
+
+### ’’ජාකොබ් පුතා’’ අයිතිකරුට රටින් පනින්න බැරිවෙයි
+
+*2024-06-26 12:35:47* · [`adalk`](https://www.ada.lk/breaking_news/’’ජාකොබ්-පුතා’’-අයිතිකරුට-රටින්-පනින්න-බැරිවෙයි/11-410445) · `si`
+
+මේ වනවිට ශ්‍රී ලංකා නාවික හමුදාව විසින් ඈත මුහුදු සීමාවේ දී හෙරොයින් කිලෝ ග්‍රෑම් 200 කට අධික ප්‍රමාණයක් සමග අත් අඩංගුවට ගෙන ගාල්ල වරාය වෙත රැගෙන එමින් සිටින " ජාකොබ් පුතා" බහු දින ධීවර යාත්‍රාවේ හිමිකරු , මෙම පුවත සැළවීමත් සමග මාළදිවයින වෙත පළා යාම සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ , අවසාන ආරක්ෂක කවුළුව ද පසු කර යාමට සූදානම් ව සිටියදී ගුවන් තොටුපොළ පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් පිරිසක් විසින් 06/25 දින රාත්‍රී අත් අඩංගුවට ගෙන තිබේ .
+
+වර්ණකුලසූරිය ඇන්ඩර්සන් ඉන්දික ප්‍රනාන්දු නැමැති මොහු මීගමුව , පළගතුරය ප්‍රදේශයේ පදිංචි 38 හැවිරිදි ව්‍යාපාරිකයෙකි.
+
+මොහු 06/25 දින රාත්‍රී 08.35 ට කටුනායක ගුවන් තොටුපොළෙන් මාළදිවයින බලා පිටත්ව යාමට සූදානම් වී තිබූ එමිරේට්ස් ගුවන් සේවයේ ඊ.කේ.- 653 දරන යානයට පිවිසීම සදහා ගුවන් තොටුපොළ වෙත පැමිණ සියලුම ගුවන් සේවා නිශ්කාශන කටයුතු නිමා කර ගුවන් යානයට පිවිසෙන අවසාන ආරක්ෂක කවුළුව වෙත පැමිණ තිබුණි .
+
+...
+
+[Data](articles/e8a1b662.json)
 
 ---
 
@@ -2225,121 +2327,5 @@ The 'Digiecon' World Investment Conference for 2024 commenced on Tuesday (25) at
 [Data](articles/81d6c545.json)
 
 [Extended Data](ext_articles/81d6c545.ext.json)
-
----
-
-### The youth should start a wide range of ideas across the country regarding the creation of the future Sri Lanka- the president's idea
-
-*2024-06-26 05:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/186983) · `ta`
-
-President Ranil Wickremesinghe urges youth to shape Sri Lanka's future, emphasizing the importance of creating a new economy and addressing fears about the country's direction. He highlights the potential of young people and the need for modern agriculture and export-oriented growth. The President also addresses concerns about infrastructure and calls for unity to rebuild the economy and achieve prosperity.
-
-🟩
-
-President Ranil Wickremesinghe said that a wide range of conversations should be initiated across the country regarding the creation of the future Sri Lanka that the younger generation wants.
-
-The President also urged a new journey to create a new economy in the country.
-
-President Ranil Wickremesinghe on Tuesday (25) organized by the National Youth Service Council. He was attending a youth meeting at Weerasinghe Stadium.
-
-“I am expecting to provide a portion of 200 acres of land belonging to the Youth Services Council in Trincomalee and the rest of the youth village for the rest of the village.. Accordingly, in the next two years, it must be said that the youth village (Youn Pur) will be prepared for your entertainment.
-
-This year Poson Boya Day was celebrated with very exciting people. More than 10 lakh people came to the Holy Earth of Anuradhapura. Prior to that, about 20 lakh people came to Colombo on the occasion of the Vesak festival.
-
-...
-
-[Data](articles/487ef25d.json)
-
-[Extended Data](ext_articles/487ef25d.ext.json)
-
----
-
-### Corporate Governance Listing Rules on Board policies
-
-*2024-06-26 05:25:47* · [`dailyftlk`](https://www.ft.lk/columns/Corporate-Governance-Listing-Rules-on-Board-policies/4-763467) · `en`
-
-Effective governance is paramount to ensuring transparency, accountability, and sustainability
-
-Under the new Corporate Governance Listing Rules, it is mandatory for all companies listed on the Colombo Stock Exchange to publish the policies outlined below by 1 October 2024 on their websites. This requirement is aimed at ensuring compliance with a stringent framework of policies that promote transparency, accountability, and ethical conduct. These policies are instrumental in shaping the operational landscape of companies, building trust among stakeholders, and safeguarding shareholder interests.
-
-...
-
-[Data](articles/8c7e7e83.json)
-
-[Extended Data](ext_articles/8c7e7e83.ext.json)
-
----
-
-### LAUGFS Rubber triumphs at National Business Excellence Awards 2024
-
-*2024-06-26 05:15:46* · [`dailyftlk`](https://www.ft.lk/business/LAUGFS-Rubber-triumphs-at-National-Business-Excellence-Awards-2024/34-763465) · `en`
-
-LAUGFS Rubber, a leading manufacturer of industrial solid tyres, has once again demonstrated its industry leadership and commitment to excellence by winning multiple accolades at the prestigious National Business Excellence Awards (NBEA) 2024.
-
-LAUGFS Rubber emerged as the “Winner in the Large Category” and secured the title of “Winner for Excellence in Business and Financial Results – Large Category”. Additionally, the company earned the “Bronze Award – Overall” and was recognised as the runner-up in the Export Sector for the third consecutive year, as well as received a Merit Award for Global Market Reach. The recent awards night was organised by the National Chamber of Commerce of Sri Lanka (NCCSL) and honoured Sri Lankan brands for their outstanding business performance and contributions to the country’s economic progress.
-
-...
-
-[Data](articles/c91c53db.json)
-
-[Extended Data](ext_articles/c91c53db.ext.json)
-
----
-
-### Major development for Higurakgoda Airport
-
-*2024-06-26 05:14:33* · [`dailyftlk`](https://www.ft.lk/business/Major-development-for-Higurakgoda-Airport/34-763464) · `en`
-
-The Government has announced plans to develop Hingurakgoda Airport to meet international civil aviation standards based on the expert committee recommendations.
-
-The joint proposal to this effect presented by President Ranil Wickremesinghe in his capacity as Defence Minister, and the Ports, Shipping and Aviation Minister Nimal Siripala De Silva was approved by the Cabinet of Ministers at its meeting on Monday.
-
-Currently managed by the Sri Lanka Air Force, the airport’s transformation is part of a strategic initiative to boost the country’s aviation infrastructure.
-
-A committee comprising representatives from the Sri Lanka Air Force (SLAF), the Sri Lanka Civil Aviation Authority (CAASL), Airports and Aviation Company (Sri Lanka) Ltd. (AASL) and the Road Development Authority (RDA) has been appointed to draft a master plan for the airport’s development and oversee related tasks.
-
-...
-
-[Data](articles/afdf2c3a.json)
-
-[Extended Data](ext_articles/afdf2c3a.ext.json)
-
----
-
-### CEB seeks new service provider for Thambapawani wind power plant maintenance
-
-*2024-06-26 05:14:19* · [`dailyftlk`](https://www.ft.lk/business/CEB-seeks-new-service-provider-for-Thambapawani-wind-power-plant-maintenance/34-763463) · `en`
-
-Cabinet of Ministers on Monday approved initiating a competitive procurement process by the Ceylon Electricity Board (CEB) for selecting a new service provider to ensure the continued efficient operation and maintenance of the Thambapawani Wind Power Plant.
-
-The Thambapawani Wind Power Plant, a significant contributor to country’s renewable energy sector, was under commercial monitoring since 18 May 2021. The CEB had previously contracted Vestas Wind Lanka Ltd., for a three-year period, which concluded on 17 May 2024.
-
-The selection process aims to secure a provider capable of upholding these standards and supporting the plant’s long-term operational goals.
-
-The proposal to this effect submitted by the Power and Energy Minister Kanchana Wijesekera was approved by the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/8be9613e.json)
-
-[Extended Data](ext_articles/8be9613e.ext.json)
-
----
-
-### Keells Supermarkets and DMS introduce self-checkout systems to South Asia from Diebold Nixdorf USA
-
-*2024-06-26 05:13:59* · [`dailyftlk`](https://www.ft.lk/business/Keells-Supermarkets-and-DMSintroduceself-checkout-systems-to-South-Asia-from-Diebold-Nixdorf-USA/34-763462) · `en`
-
-Standing alongside two Diebold Nixdorf self-checkout machines at a Keells Supermarket are, from left : JKH Asst. Vice President Nishan Rathnayake, JKH Senior Asst. Vice President Amila Kuruppu, DMS Asst. General Manager Himesh Abeysekera and DMS Sales and Marketing Manager Sampath De Silva
-
-Keells, a leading supermarket chain has upped its game by introducing self-checkout systems from Diebold Nixdorf USA; the global leader for retail automation systems.
-
-This is a remarkable milestone for Keells as they have become the first supermarket to implement self-checkout systems in the whole of South Asia, well ahead of larger markets in this region like India, Pakistan and Bangladesh.
-
-...
-
-[Data](articles/ce5a4921.json)
-
-[Extended Data](ext_articles/ce5a4921.ext.json)
 
 ---

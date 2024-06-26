@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 09:34:57**
+As of **2024-06-26 09:54:25**
 
 ## Newspaper Stats
 
-*Scraped **32,200** Articles*
+*Scraped **32,201** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,868
 dailyftlk | 1,976
 adalk | 2,836
 adaderanalk | 3,655
-tamilmirrorlk | 3,797
+tamilmirrorlk | 3,798
 dailymirrorlk | 4,733
 virakesarilk | 4,994
 adaderanasinhalalk | 5,281
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,281
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,199 (100.0%) of 32,200 articles have been extended.
+32,200 (100.0%) of 32,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### 30 மாணவர்கள் வைத்தியசாலையில் அனுமதி
+
+*2024-06-26 08:56:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/30-மாணவர்கள்-வைத்தியசாலையில்-அனுமதி/75-339441) · `ta`
+
+மூதூர் பொலிஸ் பிரிவிற்குட்பட்ட மூதூர் 5 பகுதியில் உள்ள பாடசாலை ஒன்றில் 30 மாணவர்கள் குளவி கொட்டுக்கு இலக்காகி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+புலமைப்பரிசில் பரீட்சைக்கு தோற்றும் மாணவர்கள் நேற்று (25) மாலை  பாடசாலையில் மேலதிக வகுப்பில் கலந்துகொண்டிருந்தனர்.
+
+அங்கு பாடசாலையை ஒட்டியுள்ள வீட்டில் குளவி கூடு கட்டப்பட்டு மாணவர்கள் மற்றும் ஆசிரியர் குளவி கொட்டுக்கு இலக்காகியுள்ளனர்.
+
+இதையடுத்து, 22 மாணவர்களும் 8 மாணவிகளும், ஆசிரியரும் மூதூர் வைத்தியசாலையில் அனுமதிக்கப்பட்டு தற்போது சிகிச்சை பெற்று வருகின்றனர். R
+
+◼️
+
+[Data](articles/e88c6ed6.json)
+
+---
 
 ### Person killed in assaulting with a sharp instrument
 
@@ -222,23 +240,29 @@ Meanwhile, the trade union action which was started by the representatives of th
 
 ---
 
-### මල් ශාලා හිමිකරු මෝටර් රථයේදිම කපා කොටා ඝාතනය කරලා
+### Flowers Hall owner hacked to death
 
 *2024-06-26 07:38:55* · [`adalk`](https://www.ada.lk/breaking_news/මල්-ශාලා-හිමිකරු-මෝටර්-රථයේදිම-කපා-කොටා-ඝාතනය-කරලා/11-410443) · `si`
 
-පොලිස් හදිසි ඇමතුම් අංශයට ලද තොරතුරක් මත අම්බලන්ගොඩ පොලිස් වසමේ ආදාදොල  ආවාස වත්ත ප්‍ර දේශයේදි මෝටර් රථයක් තුළ කපා කොටා ඝාතනය කර තිබූ පුද්ගල මළ සිරුරක් ඊයේ (25) සොයා ගත් බව අම්බලන්ගොඩ පොලීසිය කියයි.
+A 47-year-old man named Thusitha Kumara, father of four, was found dead in his car in Ambalangoda. He was hacked to death with a sharp object, and his body was discovered around 9:30 am. The incident occurred near the Flower Hall in New Reyman, Talgasugoda, Ambalangoda. The police are investigating the case.
 
-මෙසේ ඝාතනය කොට ඇත්තේ තෙල් වත්ත මළවැන්න දකුණ පදිංචි 47  හැවිරිදි  සිව් දරු පියකු තුසිත කුමාර නමැත්තෙක් බවද පොලිසිය කියයි.
+🟩
 
-ඝාතනයවූ තැනැත්තා අම්බලන්ගොඩ තල්ගස්ගොඩ අම්බලන්ගොඩ ඩිපෝව අසල නිව් රේමන් නමින් මල් ශාලාවක් පවත්වාගෙන යන අයෙක් වෙයි.
+The body of a person who had been discovered in a car was discovered in a car from the Ambalangoda police Division on information received by the Police Emergency Department.
 
-මේ පුද්ගලයා ඊයේ රෑ 9.30ට තිහට පමණ ඔහුට ලද දුරකථන ඇමතුමකට අනුව සිය මෝටර් රථයෙන් නිවසින් පිටව ගොස් තිබෙන බවත් එම දුරකථන ඇමතුම ලබා දී ඇත්තේ ඔහු යටතේ සේවය කරන සේවකයෙක් බවත් මියගිය අයගේ බිරිඳගේ මව පවසන බවද පොලීසිය කියයි.
+According to police, 47-year-old four father, three-year-old father of Thusitha Kumara, a 47-year-old resident of the Til Estate.
 
-සිය මෝටර් රථයේ රියදුරු අසුනේම තියුණු ආයුධයකින් කපා කොටා  ඔහු  ඝාතනය කොට ඇති බවද පොලීසිය කියයි. අම්බලන්ගොඩ පොලිසිය මේ පිළිබඳව වැඩි දුර විමර්ශන සිදුකරයි
+One of the murders is a flower hall in New Reyman near the Ambalangoda Depot, Talgasugoda, Ambalangoda
+
+The victim was about 30 at 9.30 am on a telephone and said the mother of the deceased employee said.
+
+The police say that his car has been hacked to death with a sharp instrument in his cell.. Ambalangoda Police are conducting further investigations
 
 ◼️
 
 [Data](articles/f60c9e3f.json)
+
+[Extended Data](ext_articles/f60c9e3f.ext.json)
 
 ---
 
@@ -2311,35 +2335,5 @@ The student who studied at a International School in Gampola was passing out to 
 [Data](articles/fd79a9cb.json)
 
 [Extended Data](ext_articles/fd79a9cb.ext.json)
-
----
-
-### The Sri Lankan government is not concerned about the accountability of the authorities who are complicit in the trafficking- the US State Department
-
-*2024-06-25 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/186940) · `ta`
-
-The US State Department's 2024 report criticizes Sri Lanka for failing to meet minimum anti-trafficking standards, despite efforts to increase penalties and protect victims. It highlights lack of government concern over authority accountability, insufficient case investigations, and minimal cooperation in international cases.
-
-🟩
-
-The US has said that Sri Lanka has not fulfilled the minimum standards to eradicate trafficking but Sri Lanka is making efforts.
-
-The US said this in the annual report of the US State Department on Trafficking on 2024.
-
-The US State Department has said that the Sri Lankan government has made progress in measures to curb trafficking than last year.
-
-The US State Department has said that the Sri Lankan government has taken steps to increase the punishment for those involved in the trafficking and identify the victims and provide services to them.
-
-The US State Department has said that the Sri Lankan government has canceled licenses and promoted private agency stations that promote abduction.
-
-However, the US State Department has said that the government has not fulfilled the low standard of many issues.
-
-The US State Department said that the government is investigating the minimum number of cases of trafficking, and that the punishment for the kidnappers has not been severe.
-
-...
-
-[Data](articles/051f52c7.json)
-
-[Extended Data](ext_articles/051f52c7.ext.json)
 
 ---

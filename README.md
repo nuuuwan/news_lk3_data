@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 14:53:55**
+As of **2024-06-26 15:04:47**
 
 ## Newspaper Stats
 
-*Scraped **32,253** Articles*
+*Scraped **32,254** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 3,665
 tamilmirrorlk | 3,809
 dailymirrorlk | 4,733
 virakesarilk | 5,002
-adaderanasinhalalk | 5,293
+adaderanasinhalalk | 5,294
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,252 (100.0%) of 32,253 articles have been extended.
+32,253 (100.0%) of 32,254 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,22 @@ This agreement grants significant debt relief, allowing Sri Lanka to allocate fu
 ◼️
 
 [Data](articles/40d459de.json)
+
+[Extended Data](ext_articles/40d459de.ext.json)
+
+---
+
+### ණය ප්‍රතිව්‍යුහගතකරණයට එකඟ වෙයි
+
+*2024-06-26 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198177) · `si`
+
+ශ්‍රී ලංකාව මෙරට ද්වීපාර්ශික ණයහිමියන්ගේ නිල කමිටුව සමග අමෙරිකානු ඩොලර් බිලියන 5.8ක ණය ප්‍රතිව්‍යුහගතකරණ අවසන් එකඟතාවට එළඹී තිබේ.
+
+මෙම ගිවිසුම මගින් ශ්‍රී ලංකාවට කැපී පෙනෙන ණය සහනයක් හිමිවන අතර අත්‍යවශ්‍ය මහජන සේවාවන් පවත්වා ගැනීමටත් සංවර්ධන අවශ්‍යතා සඳහා මූල්‍ය පහසුකම් සපයා ගැනීමටත් හැකිවන බව ජනාධිපති මාධ්‍ය අංශය වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/7b56e560.json)
 
 ---
 
@@ -2295,25 +2311,5 @@ Investigations have revealed that the offenses of the security cameras have been
 [Data](articles/ffe71e66.json)
 
 [Extended Data](ext_articles/ffe71e66.ext.json)
-
----
-
-### Constituent Change in the S&P Sri Lanka 20 Index
-
-*2024-06-25 20:03:00* · [`islandlk`](http://island.lk/constituent-change-in-the-sp-sri-lanka-20-index-4/) · `en`
-
-The Colombo Stock Exchange (CSE) announces the following change in S&P Sri Lanka 20 index constituents made by S&P Dow Jones Indices at the 2024 Mid-Year rebalance.
-
-The exclusions and inclusion as announced by S&P Dow Jones Indices, effective from 24th June 2024 (after the market close of 20th June 2024) are presented below.
-
-The S&P SL 20 index includes the 20 largest companies, by total market capitalization, listed on the CSE that meet minimum size, liquidity, and financial viability thresholds. The constituents are weighted by float-adjusted market capitalization, subject to a single stock cap of 15%, which is employed to reduce single stock concentration.
-
-The S&P SL 20 index has been designed in accordance with international practices and standards. All stocks are classified according to the Global Industry Classification Standard (GICS®), which was co-developed by S&P Dow Jones Indices and MCSI and is widely used by market participants throughout the world.
-
-...
-
-[Data](articles/6e2ebc3e.json)
-
-[Extended Data](ext_articles/6e2ebc3e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 20:35:51**
+As of **2024-06-26 21:04:31**
 
 ## Newspaper Stats
 
-*Scraped **32,305** Articles*
+*Scraped **32,306** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,790
 economynextcom | 1,870
 dailyftlk | 1,976
 adalk | 2,856
-adaderanalk | 3,677
+adaderanalk | 3,678
 tamilmirrorlk | 3,816
 dailymirrorlk | 4,733
 virakesarilk | 5,009
@@ -26,11 +26,33 @@ adaderanasinhalalk | 5,307
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,304 (100.0%) of 32,305 articles have been extended.
+32,305 (100.0%) of 32,306 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
+
+### President urges all MPs to help ratify agreements with creditor nations
+
+*2024-06-26 20:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100126/president-urges-all-mps-to-help-ratify-agreements-with-creditor-nations) · `en`
+
+President Ranil Wickremesinghe says that today marks an important day in the country’s recent history and a unique turning point, as Sri Lanka reached final restructuring agreements for its external debt owed to bilateral creditors.
+
+Delivering a special address to the nation on Wednesday (26) evening, the Head of State said that the country is benefitting from the positive results of the hard work carried out by the government in the recent past.
+
+He said that this morning, Sri Lanka reached a final restructuring agreement for USD 5.8 billion of debt with its bilateral lenders’ Official Creditor Committee in Paris, France.
+
+Meanwhile, Sri Lanka today also signed debt treatment agreements with the Export-Import Bank of China (EXIM) in Beijing to restructure USD 4.2 billion of debt.
+
+He stated that the necessary formal procedures are currently being implemented.
+
+“For those who truly love the country, this is a ‘good news’. Sri Lanka won,” he declared in the televised speech.
+
+...
+
+[Data](articles/79ab0cbe.json)
+
+---
 
 ### President urges all MPs to help pass agreements reached with creditor nations
 
@@ -52,11 +74,17 @@ He stated that the necessary formal procedures are currently being implemented.
 
 [Data](articles/a4d078d3.json)
 
+[Extended Data](ext_articles/a4d078d3.ext.json)
+
 ---
 
 ### Special Statement to address the Presidential race
 
 *2024-06-26 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198190) · `si`
+
+President Ranil Wickremesinghe announces significant progress in resolving Sri Lanka's bilateral debt, aiming to pay all loan installments through 2028 under concessionary terms. This move will significantly reduce the country's debt burden, allowing for more efficient use of resources. Additionally, agreements with commercial creditors and foreign bondholders are forthcoming, further easing the economic strain. The statement highlights the resumption of development projects, including railway lines and highways, funded by foreign aid, marking a pivotal moment for Sri Lanka's economic recovery.
+
+🟩
 
 President Ranil Wickremesinghe can watch the race in the above video.
 
@@ -92,6 +120,10 @@ A number of occasional railway line and highway projects will be started.
 
 *2024-06-26 19:44:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-பதவி-விலகினார்-மஹேல-ஜயவர்தன/175-339485) · `ta`
 
+Mahela Jayawardene, former Sri Lankan cricket team captain, abruptly resigned as Sri Lanka Cricket Advisor Instructor. The resignation took effect immediately.
+
+🟩
+
 Former captain of the Sri Lankan cricket team, Mahela Jayawardene, has suddenly resigned from the post of Sri Lanka Cricket Advisor Instructor.
 
 Sri Lanka has announced that he has resigned from his post immediately. Remble
@@ -108,6 +140,10 @@ Sri Lanka has announced that he has resigned from his post immediately. Remble
 
 *2024-06-26 19:41:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனா-இலங்கைக்கு-இடையில்-முக்கிய-ஒப்பந்தம்-கைச்சாத்தானது/175-339484) · `ta`
 
+Sri Lanka and China have finalized a $4.2 billion loan restructuring deal, signing a bilateral credit relief agreement in Beijing. This marks a significant step in stabilizing Sri Lanka's financial situation.
+
+🟩
+
 The bilateral credit relief agreement between Sri Lanka and Eyes Bank has been signed in Beijing this evening.
 
 The agreement was signed after both sides reached the final agreement to restructure a $ 4.2 billion loan. Remble
@@ -123,6 +159,10 @@ The agreement was signed after both sides reached the final agreement to restruc
 ### Mahela resigns
 
 *2024-06-26 19:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198189) · `si`
+
+Maheera Jayawardene has stepped down as Sri Lanka Cricket's Training Consultant.
+
+🟩
 
 Sri Lanka Cricket has issued a statement that Maheera Jayawardene resigned from the post of Sri Lanka Cricket Training Consultant.
 
@@ -220,6 +260,10 @@ Meanwhile, she added that the US encourages Sri Lanka to continue the reform pro
 
 *2024-06-26 18:20:24* · [`adalk`](https://www.ada.lk/breaking_news/චීනයේ-චන්ද්‍ර-ගවේෂණයන්-හි-සන්ධිස්ථානගත-ජයග්‍රහණයට-චීන-ජනපතිගෙන්-සුබ-පැතුම්/11-410456) · `si`
 
+President Xi Jinping congratulates China's Chang'e 6 spacecraft for successfully returning to Earth with lunar samples, marking a significant milestone in the country's space exploration efforts. He extends his warm greetings to all involved in the mission, emphasizing the importance of continued progress in space research.
+
+🟩
+
 Changt 6 'spacecraft reaches Earth again. The return part of the plane is landed in the area of ​​China. The plane is the first samples obtained from the Hot area.
 
 Meanwhile, President Xi Jin Pin offered his warm wandering to the entire staff of the Chang of Changa Silva, China's Lunar Exploration Project, including the engineers.
@@ -237,6 +281,10 @@ The President's greeting message is a milestone achievement of the samples of th
 ### Special announcement from the Ministry of Education
 
 *2024-06-26 18:15:21* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-අමාත්‍යාංශයෙන්-විශේෂ-නිවේදනයක්/11-410455) · `si`
+
+The Ministry of Education announced the establishment of a national university dedicated to education, aiming to enhance teaching standards across Sri Lanka. This initiative comes after recognizing the need for a specialized institution to train future educators effectively. The university, set to open its doors to students in 2028, will focus on preparing graduates to teach various subjects at schools nationwide.
+
+🟩
 
 Ministry of Education issued a statement saying that a national university has been launched to education and will join school after 2028 graduates.. The announcement is as follows.
 
@@ -257,6 +305,10 @@ Accordingly, a need for a separate national education university has arisen. The
 ### 6 crores arrested with golden gel
 
 *2024-06-26 17:47:25* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-18ක-රත්තරන්-ජෙල්-සමග-6ක්-අල්ලයි/11-410454) · `si`
+
+Six individuals, aged 30-50, were arrested at Bandaranaike International Airport upon arrival from Dubai to Sri Lanka. The arrest followed a scan test revealing 22g of gold paste and 632g of gold leaf concealed in their bodies. They will be presented to the Negombo Magistrate's Court for further investigation.
+
+🟩
 
 Airport Customs officers have been arrested by the Airport Customs Officers at the Bandaranaike International Airport with Rs.
 
@@ -2287,29 +2339,5 @@ Strong winds of about 40-50kmph can be expected at times over the Western slopes
 [Data](articles/0419d745.json)
 
 [Extended Data](ext_articles/0419d745.ext.json)
-
----
-
-### Occasionally rains
-
-*2024-06-26 08:51:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவ்வப்போது-மழை-பெய்யும்/175-339440) · `ta`
-
-Rainfall is forecasted for Western, Sabaragamuwa, North Western Provinces, and districts including Galle, Matara, Kandy, Nuwara Eliya, Matale, and Hambantota. Heavy rain (50mm) is expected in parts of Sabaragamuwa, Kurunegala, Kandy, and Nuwara Eliya. Wind gusts of 40-50km/h may occur in highland slopes, Northern, North Central, North Western Provinces, and Trincomalee, Hambantota, Moneragala districts.
-
-🟩
-
-Rainfall is expected to occur in the Western, Sabaragamuwa and North Western Provinces and Galle, Matara, Kandy and Nuwara Eliya districts.
-
-50 mm of heavy rainfall is expected in some places in the province of Sabaragamuwa, Kurunegala, Kandy and Nuwara Eliya.
-
-Rainfall is expected in Matale and Hambantota districts several times.
-
-Heavy winds are likely to blow up to 40-50 km / h from time to time in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.. Remble
-
-◼️
-
-[Data](articles/d1b1cac2.json)
-
-[Extended Data](ext_articles/d1b1cac2.ext.json)
 
 ---

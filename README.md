@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-26 22:19:29**
+As of **2024-06-26 22:34:44**
 
 ## Newspaper Stats
 
-*Scraped **32,327** Articles*
+*Scraped **32,328** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,59 +20,95 @@ adaderanalk | 3,681
 tamilmirrorlk | 3,818
 dailymirrorlk | 4,733
 virakesarilk | 5,018
-adaderanasinhalalk | 5,309
+adaderanasinhalalk | 5,310
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,314 (100.0%) of 32,327 articles have been extended.
+32,322 (100.0%) of 32,328 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-26 (Wednesday)
 
-### இன்று மிக முக்கியமான நாள் - இதுதான் அந்த நற்செய்தி ; ஜனாதிபதி
+### ජනපති ජාතිය ඇමතූ පසු ජනතාවගෙන් ප්‍රතිචාර
+
+*2024-06-26 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198193) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (26) රාත්‍රියේ ජාතිය අමතමින් විශේෂ ප්‍රකාශයක් සිදු කළේය.
+
+◼️
+
+[Data](articles/0379c32c.json)
+
+---
+
+### The most important day today - this is the good news;President
 
 *2024-06-26 22:02:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-மிக-முக்கியமான-நாள்-இதுதான்-அந்த-நற்செய்தி-ஜனாதிபதி/175-339487) · `ta`
 
-இலங்கையின் பிரதான உத்தியோகபூர்வ இருதரப்பு கடன் வழங்குநர்களுடன் 26ஆம் திகதி புதன்கிழமை காலை கடன் மறுசீரமைப்பு பேச்சுவார்த்தைகளை நிறைவு செய்து உத்தியோகபூர்வ கடன் வழங்குநர் குழுவுடன் இறுதி உடன்பாடு எட்டப்பட்டுள்ளதால் இலங்கை கடனை மறுசீரமைப்பதில் வெற்றி பெற்றுள்ளது என்றும் கடன் மறுசீரமைப்புப் பணியின் முக்கியமான கட்டத்தை வெற்றிகரமாக முடித்துள்ளதால், வெளிநாட்டு நிதியைப் பயன்படுத்தி முன்னெடுத்த அனைத்து திட்டங்களையும் மீண்டும் தொடங்க சட்டபூர்வ வாய்ப்புகள் ஏற்பட்டுள்ளன என்று ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவிதார்
+It seems like you've shared a detailed narrative or speech focusing on the economic challenges faced by a country, the measures taken to address these issues, and the subsequent improvements observed. However, you haven't specified a particular question or task you need assistance with regarding this content.
 
-அன்று  மக்களுக்கு வழங்கிய வாக்குறுதியின் பிரகாரம் இலங்கைத் தாயை ஆபத்தான தொங்கு பாலத்தின் ஊடாக கொண்டு வர முடிந்ததாக தெரிவித்த ஜனாதிபதி, ஹுனுவட்டயே நாடகத்தில்  வருவதைப் போன்று கடினமான நிலைமையில்  குழந்தையைப் பாதுகாப்பதற்கு அஞ்சி எந்த ஆதரவையும் வழங்காத தரப்பினர், குழந்தை தொங்கு பாலத்தை கடக்கும் முன்பே குழந்தையின் உரிமையைக் கேட்டு போராடுவதாகவும் அவர் சுட்டிக்காட்டினார்.
+
+
+Could you please clarify what specific help you need with this information? Whether it's analyzing the text, providing insights, or something else, I'm here to assist you further.
+
+🟩
+
+Sri Lanka has succeeded in reorganizing the debt and successfully completing all the presidential opportunities that have been successfully completed as the final agreement has been reached with the Official Loan Provincial Committee with the Chief Officer of Sri Lanka's major official bilateral credit issues on Wednesday morning.Wickremasinghe
+
+The President said that the Sri Lankan mother was able to bring the Sri Lankan mother through the dangerous bridge, and that he was fighting for the right to protect the child in a difficult situation as in the drama of Hunuwatta.
+
+The President said that a country that was branded as a bankrupt country as a bankrupt country was a success, and that no country in the world, which fell into the economic abbreviation in recent history, had not achieved such a situation in a short time.
 
 ...
 
 [Data](articles/9f635a0f.json)
 
+[Extended Data](ext_articles/9f635a0f.ext.json)
+
 ---
 
-### හෙට පාසල් පැවැත්වීම ගැන දැනුම්දීමක්
+### Notice of conducting schools tomorrow
 
 *2024-06-26 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198192) · `si`
 
-හෙට (27) දිනයේ සාමාන්‍ය පරිදි රජයේ සියලුම පාසල් පැවැත්වෙන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+Due to today's attack on principals, the Ceylon Teachers Union has called for a nationwide school closure tomorrow. The Ministry of Education supports this decision, confirming all government schools will be shut down.
 
-මේ අතර අද (26) දිනයේදී පොලීසිය ගුරු විදුහල්පතිවරුන්ට එල්ල කළ ප්‍රහාරයට විරෝධය පළ කරමින් හෙට දිනයේ සමස්ත පාසල් පද්ධතිය වසා දමන බව ලංකා ගුරු සංගමයේ ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් පැවසීය.
+🟩
+
+The Ministry of Education has announced that all government schools will be held tomorrow (27).
+
+Meanwhile, the Chief Secretary General of the Ceylon Teachers Union Joseph Stalin said that the entire school system would be closed tomorrow after the attack on the gurum principals today (26).
 
 ◼️
 
 [Data](articles/02f42992.json)
 
+[Extended Data](ext_articles/02f42992.ext.json)
+
 ---
 
-### கல்வி அமைச்சு வெளியிட்ட அவசர அறிவிப்பு
+### Emergency Notice issued by the Ministry of Education
 
 *2024-06-26 21:48:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சு-வெளியிட்ட-அவசர-அறிவிப்பு/175-339486) · `ta`
 
-அனைத்து அரச பாடசாலைகளின் கல்விச் செயற்பாடுகளும் நாளை வழமை போன்று இடம்பெறும் என கல்வி அமைச்சு வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+State schools will resume classes tomorrow despite ongoing teacher/principal health protests. Tear gas was used near Colombo Fort Station today.
 
-ஆசிரியர், அதிபர்கள் நாளைய தினமும் சுகவீன விடுமுறை போராட்டத்தை முன்னெடுக்கவுள்ள நிலையில் குறித்த அறிவிப்பு வெளியிடப்பட்டுள்ளது.
+🟩
 
-இதேவேளை, வேதனப் பிரச்சினை உள்ளிட்ட பல்வேறு விடயங்களை முன்னிறுத்தி, கொழும்பு - கோட்டை தொடருந்து நிலையத்திற்கு முன்னால் இன்று முன்னெடுக்கப்பட்ட போராட்டத்தில் கண்ணீர்ப்புகை மற்றும் நீர்த்தாரை பிரயோகம் மேற்கொள்ளப்பட்டமை குறிப்பிடத்தக்கது. R
+The educational activities of all state schools will take place tomorrow, according to a statement issued by the Ministry of Education.
+
+The announcement has been made as the teachers and principals are going to carry out a daily health holiday struggle.
+
+Meanwhile, the use of tear gas and waterproofing in front of the Colombo -Fort Station in front of the Colombo Fort Station today. Remble
 
 ◼️
 
 [Data](articles/b7c04c5c.json)
+
+[Extended Data](ext_articles/b7c04c5c.ext.json)
 
 ---
 
@@ -356,21 +392,27 @@ The agreement was signed after both sides reached the final agreement to restruc
 
 ---
 
-### தனது உத்தியோகபூர்வ இருதரப்பு கடன் வழங்குநர்களுடன் கடன் மறுசீரமைப்பு உடன்பாடுகளை வெற்றிகரமாக  இலங்கை நிறைவு செய்தது!
+### Sri Lanka has successfully completed the credit restructuring agreement with its official bilateral credit providers!
 
 *2024-06-26 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/187055) · `ta`
 
-இலங்கை இன்று 26ஆம் திகதி புதன்கிழமை முற்பகல் பெரிஸ் நகரில் தனது முக்கிய உத்தியோகபூர்வ இருதரப்பு கடன் வழங்குநர்களுடன்  கடன் மறுசீரமைப்பு பேச்சுவார்த்தைகளை நிறைவு செய்துள்ளதுடன் உத்தியோகபூர்வ கடன் வழங்குநர் குழுவுடன் இறுதி இணக்கப்பாட்டை எட்டியுள்ளது.
+Sri Lanka has finalized debt restructuring agreements with key bilateral creditors, including China's Exim Bank, after negotiations aimed at managing its post-2022 economic crisis. The deal, worth $10 billion, involves loan extensions, reduced interest rates, and extended payment periods, facilitated by the IMF's Debt Sustainability Analysis. This move aims to stabilize Sri Lanka's economy, improve its credit rating, and resume bilateral financing for crucial infrastructure projects, benefiting sectors like construction and potentially attracting more foreign investment.
 
-மேலும், கடன் மறுசீரமைப்பு தொடர்பில் சீனாவின் எக்ஸிம் வங்கியுடன் பீஜிங்கில் இலங்கை இன்று இறுதி இணக்கப்பாட்டை எட்டியதுடன் அதற்கான புரிந்துணர்வு ஒப்பந்தத்திலும் கையெழுத்திடப்பட்டது.
+🟩
 
-இந்த இணக்கப்பாடுகளுடன், இலங்கை தனது முக்கிய உத்தியோகபூர்வ இருதரப்பு கடன் வழங்குநர்களுக்கான கடன் மறுசீரமைப்பு இணக்கப்பாடுகளை வெற்றிகரமாக நிறைவுசெய்துள்ளது.
+Sri Lanka has completed the debt restructuring negotiations with its prominent official bilateral credit providers in Peris on Wednesday morning, and has reached a final compliance with the official credit providers' committee.
 
-இந்த உத்தியோகபூர்வ கடன் வழங்குநர் குழுவுடன் ஜப்பான், இந்தியா மற்றும் பிரான்ஸ் இணைந்து தலைமை தாங்கின. அவுஸ்திரேலியா, ஒஸ்டிரியா, பெல்ஜியம், கனடா, டென்மார்க், ஜெர்மனி, ஹங்கேரியா, கொரியா, நெதர்லாந்து, ரஷ்யா, ஸ்பெயின், ஸ்வீடன், ஐக்கிய இராச்சியம் மற்றும் அமெரிக்கா ஆகியவை இந்த உத்தியோகபூர்வ கடன் வழங்குநர்கள் குழுவின் ஏனைய உறுப்பினர்கள் இருந்தன.
+In addition, Sri Lanka has reached its final compliance with China's Exim Bank on debt renovation and signed a Memorandum of Understanding (MoU).
+
+Along with these compliance, Sri Lanka has successfully completed its major official bilateral credit providers' credit restructuring compliance.
+
+Japan, India and France led the official credit provide group. There were other members of this official credit providers group including Australia, Australia, Australia, Belgium, Canada, Denmark, Germany, Hungary, Korea, the Netherlands, Russia, Spain, Sweden, the United Kingdom and the United States.
 
 ...
 
 [Data](articles/3e421693.json)
+
+[Extended Data](ext_articles/3e421693.ext.json)
 
 ---
 
@@ -392,25 +434,35 @@ Sri Lanka Cricket has issued a statement that Maheera Jayawardene resigned from 
 
 ---
 
-### 2ஆவது மகளிர் ரி20 போட்டியில் DLS முறைமைப்படி இலங்கையை வென்றது மேற்கிந்தியத் தீவுகள்
+### West Indies won Sri Lanka according to DLS system in the 2nd Women's R20 match
 
 *2024-06-26 19:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/187054) · `ta`
 
-ஹம்பாந்தோட்டை, சூரியவெவ மஹிந்த ராஜபக்ஷ விளையாட்டரங்கில் புதன்கிழமை (26) நடைபெற்ற இரண்டாவது மகளிர் சர்வதேச ரி20 கிரிக்கெட் போட்டியில் இலங்கையை டக்வேர்த் லூயிஸ் (DLS) முறைமை பிரகாரம் மேற்கிந்தியத் தீவுகள் 6 விக்கெட்களால் வெற்றிபெற்றது.
+In the 2nd Women's R20 match, West Indies beat Sri Lanka under the DLS system, winning by 6 wickets. The match was played at the Suriyawewa Mahinda Rajapaksa Stadium in Hambantota. Sri Lanka scored 89/4 in 15.2 overs, setting a revised target of 99 runs in 15 overs for the West Indies due to Duckworth-Lewis calculations. The West Indies reached this target in 14.1 overs, losing 4 wickets. This victory ties the 3-match series 1-1, with the next match scheduled for Friday, 28th.
 
-இதன் மூலம் 3 போட்டிகள் கொண்ட மகளிர் சர்வதேச ரி20 கிரிக்கெட் தொடரை 1 - 1 என மேற்கிந்தியத் தீவுகள் சமப்படுத்தி உள்ளது.
+🟩
 
-இன்றைய போட்டியில் முதலில் துடுப்பெடுத்தாடிய இலங்கை மகளிர் அணி 15.2 ஓவர்களில் 4 விக்கெட்களை இழந்து 89 ஒட்டங்களைப் பெற்றிருந்தபோது மழை பெய்ததால் ஆட்டம் தடைப்பட்டது.
+The West Indies won by 6 wickets in the second women's international T20 cricket match held at the Suriyawewa Mahinda Rajapaksa Stadium in Hambantota on Wednesday (26).
 
-நீண்ட நேரம் தடைப்பட்டு மீண்டும் ஆட்டம் தொடர்ந்தபோது இலங்கையின் இன்னிங்ஸ் முடிவுக்குக் கொண்டுவரப்பட்டு டக்வேர்த் லூயிஸ் முறைமைப் பிரபாரம் மேற்கிந்தியத் தீவுகளுக்கு 15 ஓவர்களில் 99 ஓட்டங்கள் என்ற திருத்தப்பட்ட வெற்றி இலக்கு நிர்ணயிக்கப்பட்டது.
+The West Indies have balanced the 3 -match women's international T20 cricket series 1 - 1.
 
-பதிலுக்கு துடுப்பெடுத்தாடிய மேற்கிந்தியத் தீவுகள் மகளிர் அணி 14.1 ஓவர்களில் 4 விக்கெட்களை இழந்து 99 ஓட்டங்களைப்  பெற்று வெற்றியீட்டியது.
+The Sri Lankan women's team, who won the first match in today's match, lost 4 wickets in 15.2 overs and got 89 runs.
 
-இரண்டு அணிகளுக்கும் இடையிலான தீர்மானம் மிக்க  3ஆவது  போட்டி 28ஆம் திகதி வெள்ளிக்கிழமை நடைபெறும்.
+When Sri Lanka's innings ended for a long time, the Duckworth Louis system was set for the West Indies' 99 runs in 15 overs in 15 overs.
 
-...
+In reply, the West Indies women's team lost 4 wickets in 14.1 overs with 99 runs.
+
+The 3rd match between the two teams will be held on Friday the 28th.
+
+Sri Lankan Women: 89 - 4 Wick in 15.2 overs. (Samari Attapattu 26, Vishmi Gunaratne 24 Kavisha Dilhari 14 AE, Harshita Samarawickrama 14, Afi Flacher 23 - 4 Vic.)
+
+West Indies Women: Edited Winning target 99 runs in 15 overs) 14.1 overs 99 - 4 wik. (Haley Mathews 29, Stefani Taylor 28 AE, Shemein Kempel 16, Aaliya Alin 15 AE)
+
+◼️
 
 [Data](articles/4ccb58e7.json)
+
+[Extended Data](ext_articles/4ccb58e7.ext.json)
 
 ---
 
@@ -434,23 +486,29 @@ Jayawardena had initially joined SLC as a Consultant Coach in September 2022 ahe
 
 ---
 
-### கடன் மறுசீரமைப்பு : சீன எக்ஸிம் வங்கியுடன் இறுதி நிலைப்பாட்டை எட்டியது இலங்கை
+### Debt Reorganization: Sri Lanka reached its final position with Chinese Exim Bank
 
 *2024-06-26 19:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/187052) · `ta`
 
-கடன் மறுசீரமைப்பு தொடர்பான சீனாவின் எக்ஸிம் வங்கியுடன் இலங்கை 26ஆம் திகதி புதன்கிழமை பீஜிங்கில் இறுதி உடன்பாட்டை எட்டியது.
+Sri Lanka finalized a debt relief agreement with China's Exim Bank worth $4.2 billion, aimed at alleviating the country's financial strain and redirecting funds towards essential public services and infrastructure improvements. The agreement was signed in Beijing and Colombo, with key figures from both nations present.
 
-சீன எக்ஸிம் வங்கி மற்றும் இலங்கைக்கிடையில் 4.2 பில்லியன் அமெரிக்க டொலர் கடன் மறுசீரமைப்புக்கான புரிந்துணர்வு ஒப்பந்தங்களில் கைசாத்திடும் நிகழ்வுகள் சற்று முன்னர் பீஜிங் மற்றும் கொழும்பில் நடைபெற்றன.
+🟩
 
-இந்த மறுசீரமைப்பினால் இலங்கைக்கு குறிப்பிடத்தக்க நிவாரணங்கள் கிடைக்கும் என்பதோடு, அத்தியாவசிய பொதுச் சேவைகளுக்காக அதிகளவில் நிதி ஒதுக்கீடு செய்யவும், நாட்டின் உட்கட்மைப்பு வசதிகளை மேம்படுத்துவதற்கான சலுகை அடிப்படையிலான நிதி வசதிகளை பெற்றுக்கொள்ளவும் முடியும்.
+Sri Lanka reached the final agreement in Beijing on Wednesday, 26th of Wednesday with China's Exim Bank on Debt Relief.
 
-மேலும் சீனாவிற்கான இலங்கைத் தூதுவர் மஜிந்த ஜயசிங்க அவர்கள் சீனாவிலுள்ள இலங்கைத் தூதரகத்தில் புரிந்துணர்வு ஒப்பந்தத்தில் கைச்சாத்திட்டப்பட்டது
+The events of the Memorandum of Understanding (Memorandum of Understanding for US $ 4.2 billion) between Chinese Exim Bank and Sri Lanka were held in Beijing and Colombo shortly before.
 
-அதன் பின்னர் இலங்கைக்கான சீனத் தூதரகத்தில் இலங்கைக்கான சீனத் தூதுவர்  கீ சென்ஹாங்(Qi Zhenhong)  மற்றும் திறைசேரி உதவிச் செயலாளர் ஏ.கே. செனவிரத்ன ஆகியொர்  புரிந்துணர்வு ஒப்பந்த கோப்புகளை  பரிமாறிக்கொண்டமை குறிப்பிடத்தக்கது.
+This restructuring will provide significant relief to Sri Lanka and provide more funds for essential public services and to obtain concession -based financial facilities to improve the country's implication facilities.
+
+Sri Lankan Ambassador to China Majinda Jayasinghe signed a Memorandum of Understanding (MoU) at the Sri Lankan embassy in China
+
+The Chinese Ambassador to Sri Lanka then at the Chinese embassy in Sri Lanka, Qi Zhenhong and Treasury Assistant Secretary AK. It is noteworthy that Seneviratne exchanged Memorandum of Understanding.
 
 ◼️
 
 [Data](articles/d4b72a34.json)
+
+[Extended Data](ext_articles/d4b72a34.ext.json)
 
 ---
 
@@ -480,45 +538,61 @@ The combined value of the loans to be restructured through official creditors an
 
 ---
 
-### டக்வேர்த் லூயிஸ் முறைமையை உருவாக்கியவர்களில் ஒருவரான டக்வேர்த் மறைவுக்கு ஐசிசி அனுதாபம்
+### ICC sympathy for Duckworth's demise
 
 *2024-06-26 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/187053) · `ta`
 
-சீரற்ற காலநிலையால் பாதிக்கப்படும் சர்வதேச மட்டுப்படுத்தப்பட்ட ஓவர் கிரிக்கெட் போட்டிகளில் வெற்றி அணிகளைத் தீர்மானிப்பதற்கு டக்வேர்த் லூயிஸ் முறைமையை உருவாக்கியவர்களில் ஒருவரான ப்ராங்க் டக்வேர்த்தின் மறைவுக்கு சர்வதேச கிரிக்கெட் கவுன்சில் தனது ஆழ்ந்த அனுதாபத்தை வெளியிட்டுள்ளது.
+The ICC mourns the loss of Frank Duckworth, co-creator of the Duckworth-Lewis system, which determines outcomes in rain-affected cricket matches. Duckworth, aged 84, passed away recently after serving as a statistical consultant at the ICC until 2014. His contributions to cricket, particularly through the DLS, have been hailed as crucial, with the system being used in international cricket for over two decades. Tony Lewis was the other key figure behind the DLS. The cricket community extends its condolences to Duckworth's family and friends.
 
-சர்வதேச கிரிக்கெட் பேரவையில் 2014வரை புள்ளியியல் ஆலோசகராக பணியாற்றிய டக்வேர்த் தனது 84ஆவது வயதில் கடந்த வெள்ளியன்று காலமானார்.
+🟩
 
-டக்வேர்த்தின் சேவையை பாராட்டிய கிரிக்கெட் செயற்பாடுகளுக்கான ஐசிசி பொது முகாமையாளர் வசிம் கான், அன்னாரது மறைவையொட்டி தனது ஆழ்ந்த அனுதாபங்களையும் தெரிவித்துள்ளார்.
+The International Cricket Council has expressed its deepest sympathy for the demise of one of the creators of the Duckworth Lewis system, one of the creators of the Duckworth Lewis system to determine the winning teams in internationally limited over -cricket matches affected by inclement weather.
 
-'பிராங்க் புள்ளியியல் நிபுணராக தனது கடமையை சிறப்பாக ஆற்றினார். அவரை அவரது சகாக்களும் கிரிக்கெட் குடும்பத்தினரும் மதித்தனர். அவர் இணைந்து உருவாக்கிய டக்வேர்த் லூயிஸ் முறைமை (DLS) முறைமை காலத்தின் தேவையாக இருந்தது. மேலும் இரண்டு தசாப்தங்களுக்கு மேலாக அதனை  சர்வதேச கிரிக்கெட்டில் நாங்கள் பயன்படுத்தி வருகிறோம்.
+Duckworth, who worked as a statistical consultant at the International Cricket Council until 2014, passed away last Friday at the age of 84.
+
+ICC General Manager Wasim Khan, who praised Dougrew's service, has expressed his deepest sympathies in the absence of Annara's death.
+
+'Frank performed his duty as a statistical expert. He respected him with his colleagues and the cricket family. The Duckworth Louis System (DLS) system he created was the need for the period of time. We have been using it in international cricket for more than two decades.
 
 ...
 
 [Data](articles/8c1c443e.json)
 
+[Extended Data](ext_articles/8c1c443e.ext.json)
+
 ---
 
-### මෑත ඉතිහාසයේ ලෝකයේ කිසිඳු රටක් කෙටි කාලයක් තුළ මෙවැනි සුවිශේෂී ජයග්‍රහණයක් ලබාගෙන නැහැ
+### No country in recent history, no country has won such a special victory over a short period of time
 
 *2024-06-26 19:11:00* · [`adalk`](https://www.ada.lk/breaking_news/මෑත-ඉතිහාසයේ-ලෝකයේ-කිසිඳු-රටක්-කෙටි-කාලයක්-තුළ-මෙවැනි-සුවිශේෂී-ජයග්‍රහණයක්-ලබාගෙන-නැහැ/11-410457) · `si`
 
-ලංකා මාතාව කියන දරුවා අනතුරුදායක වැල්පාලමේ මෙතෙක් ආරක්ෂිතව ඉදිරියට ගෙනාවා
+It seems like you've shared a detailed narrative or speech that outlines a historical context, challenges faced, economic strategies implemented, and reflections on leadership and national progress. This text appears to be a comprehensive overview of a country's economic recovery efforts, possibly aimed at addressing the public or stakeholders.
 
-හුණුවටයේ කතාවේ මෙන්ම දරුවා රැක ගන්න කිසිඳු සහයෝගයක් නොදුන් කණ්ඩායම් අද දරුවාගේ අයිතිය ගන්න සටන් කරනවා
 
-පාර වරද්දා ගත්තොත් එහි භයානකකම අප සියලුදෙනා දන්නවා. නිවරැදි තීරණය ගැනීමෙ අයිතිය ජනතාව සතුයි
 
-කිසිඳු කොන්දේසියක් නොමැතිව රට භාරගත් මා සතුව තිබුණේ රට ආර්ථික අර්බුදයෙන් ගලවාගත හැකි බවට වූ විශ්වාසය සහ වැඩ සැලැස්ම පමණයි
+Given the complexity and breadth of the content, could you please clarify what specific assistance or analysis you're seeking regarding this text? Are you looking for an evaluation of the economic strategies mentioned, an analysis of the leadership's communication style, or perhaps insights into how this narrative might resonate with its intended audience?
 
-මෑත ඉතිහාසයේ ලෝකයේ කිසිඳු රටක් කෙටි කාලයක් තුළ මෙවැනි සුවිශේෂී ජයග්‍රහණයක් ලබාගෙන නැහැ
+🟩
 
-මෙම ගමන කඩාකප්පල් කිරීමට උත්සාහ කළ අය අනාගතයේ දිනක රටට ද්‍රෝහි වීමේ හේතුව මත තමන්ගේ දූ දරුවන් ඉදිරියේ ලැජ්ජාවට පත් වේවි
+The child who is named in Sri Lanka has brought the dangerous volume so far
 
-අද (26) පෙරවරුවේ පැරිස් නුවරදී ශ්‍රී ලංකාවේ ප්‍රධාන නිල ද්විපාර්ශ්වික ණය හිමියන් සමඟ ණය ප්‍රතිව්‍යුහගත කිරීමේ සාකච්ඡා අවසන් කරමින් නිල ණය හිමියන්ගේ කමිටුව සමඟ අවසන් එකඟත්වයට එළැඹුණු බවත්, එමෙන්ම චීනයේ එක්සිම් බැංකුව සමඟ ද  අද බෙයිජිං නුවරදී  අවසන් එකඟත්වයට පැමිණි අතර ඊට අදාළ වන විධිමත් ක්‍රියා පටිපාටීන් මේ වන විට සිදුකෙරෙමින් පවතින බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+Teams fighting the right of the child today as well as the child who has not been able to save the child
+
+If the time comes, we all know the dangers of. People have the right to determine the right decision
+
+I only had the trust and work plan that the country could deliver the economic crisis without any condition.
+
+No country in recent history, no country has won such a special victory over a short period of time
+
+Those who tried to sabotage this journey will be embarrassed in the future of the future of the country
+
+The final agreement with the official creditors committee with the chief creditors of Sri Lanka in Paris this morning.President Ranil Wickremesinghe said that it is already underway.
 
 ...
 
 [Data](articles/fbf74c16.json)
+
+[Extended Data](ext_articles/fbf74c16.ext.json)
 
 ---
 
@@ -2267,31 +2341,5 @@ The road in front of the Colombo Fort Railway Station has blocked the Ada Derana
 [Data](articles/9c2121b8.json)
 
 [Extended Data](ext_articles/9c2121b8.ext.json)
-
----
-
-### Alert by loudspeakers
-
-*2024-06-26 11:37:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒலிபெருக்கி-மூலம்-எச்சரிக்கை/175-339458) · `ta`
-
-In the past week, over 30 Tamil Nadu fishermen were detained by the Sri Lankan navy. Fishermen from Rameswaram have urged the Fisheries Department to ensure life-saving gear remains accessible and to caution against crossing international borders. The Sri Lankan navy recently apprehended three fishermen and 22 from Rameswaram in Ramanathapuram district, followed by the arrest of 10 Naga fishermen on Sevarawa. Following these incidents, fishermen have been advised to retain necessary boat documentation.
-
-🟩
-
-More than 30 Tamil Nadu fishermen have been arrested by the Sri Lankan navy in the last one week.
-
-Accordingly, fishermen from Rameswaram have warned the Rameshwaram Fisheries Department to keep the life -saving equipment in the hands of fishermen not to cross the international waters.
-
-The Sri Lankan navy arrested three fishermen and 22 fishermen from Rameswaram in Ramanathapuram district last Saturday (22).
-
-Following this, the Sri Lankan navy arrested 10 Naga fishermen on Sevarawa (25).
-
-Rameshwaram Fisheries Assistant Director Abdul Qadar Jailani on the orders of Rameswaram fishermen who went to sea after the strike on New Delhi (26)They have been warned to keep the relevant documents of the fishing boat.
-
-◼️
-
-[Data](articles/94a9cee2.json)
-
-[Extended Data](ext_articles/94a9cee2.ext.json)
 
 ---

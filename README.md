@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 20:35:10**
+As of **2024-06-27 20:54:01**
 
 ## Newspaper Stats
 
-*Scraped **32,511** Articles*
+*Scraped **32,513** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,802
 economynextcom | 1,890
 dailyftlk | 1,988
-adalk | 2,883
+adalk | 2,885
 adaderanalk | 3,701
 tamilmirrorlk | 3,835
 dailymirrorlk | 4,733
@@ -26,25 +26,43 @@ adaderanasinhalalk | 5,345
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,510 (100.0%) of 32,511 articles have been extended.
+32,511 (100.0%) of 32,513 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### හෙට පාසල් එනවා  - ගුරු සංගම්
+### Coming schools tomorrow - Teacher Societies
 
 *2024-06-27 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198229) · `si`
 
-හෙට (28) දින සාමාන්‍ය පරිදි රජයේ සියලු‍‍ම පාසල් පැවැත්වෙන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+The Ministry of Education announced that government schools will reopen tomorrow (28), despite teacher-principal career procedures continuing across the island. However, Joseph Stalin, General Secretary of the Ceylon Teachers Union, stated that schooling will proceed as usual today.
 
-මේ අතර දිවයිනේ සියලු පාසල්වල ගුරු විදුහල්පතිවරුන් අසනීප නිවාඩු වාර්තාකර සේවයට පැමිණීමෙන් වැළකී අද දෙවැනි දිනටත් වෘත්තීය ක්‍රියාමාර්ගවල නිරත වුණි.
+🟩
 
-කෙසේවෙතත් ලංකා ගුරු සංගමයේ ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් මහතා අද ප්‍රකාශ කළේ හෙට දවසේ සාමාන්‍ය පරිදි පාසල් අධ්‍යාපන කටයුතු පවත්වාගෙන යෑමට තීරණය කළ බවය.
+The Ministry of Education has announced that all government schools will be held tomorrow (28).
+
+Meanwhile, teachers principals in all schools in the island were engaged in career procedures for the second day.
+
+However, the General Secretary of the Ceylon Teachers Union Joseph Stalin declared that today's normal school education.
 
 ◼️
 
 [Data](articles/edfe2190.json)
+
+[Extended Data](ext_articles/edfe2190.ext.json)
+
+---
+
+### හෙට පාසල් පැවැත්වෙන බව අධ්‍යාපන අමාත්‍යාංශය කියයි
+
+*2024-06-27 20:22:48* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-පාසල්-පැවැත්වෙන-බව-අධ්‍යාපන-අමාත්‍යාංශය-කියයි/11-410486) · `si`
+
+හෙට එනම් 2024-06-28 දින සාමාන්‍ය පරිදි රජයේ සියලු‍‍ම පාසල් පැවැත්වෙන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/ada686fa.json)
 
 ---
 
@@ -423,6 +441,22 @@ Eheliyagoda Divisional Secretariat Office, Eheliyagoda Divisional Secretariat. i
 [Data](articles/b394dc5a.json)
 
 [Extended Data](ext_articles/b394dc5a.ext.json)
+
+---
+
+### පවිත්‍රාගේ ගැසට්ටුවට ශ්‍රේෂ්ඨාධිකරණයෙන් තහනමක්
+
+*2024-06-27 17:21:42* · [`adalk`](https://www.ada.lk/breaking_news/පවිත්‍රාගේ-ගැසට්ටුවට-ශ්‍රේෂ්ඨාධිකරණයෙන්-තහනමක්/11-410484) · `si`
+
+විල්පත්තු වෙඩිතළතිව් රක්ෂිතයෙන් ඉස්සන් ගොවිපොළකට අක්කර 415ක් නිදහස් කරමින් වනජීවී අමාත්‍ය පවිත්‍ර වන්නාරච්චි මහත්මිය නිකුත් කළ ගැසට් නිවේදනය ක්‍රියාත්මක කිරීම වහාම වළකාලමින් ශ්‍රේෂ්ඨාධිකරණය අද  (27) අතුරු තහනම් නියෝගය නිකුත් කළේය.
+
+ඉස්සන් ගොවිපොළකට රක්‍ෂිත වනයකින් අක්කර 415ක් නිදහස් කරමින් ගැසට් නිවේදනයක් නිකුත් කිරීම සම්බන්ධයෙන් අධිකරණයේ පෙනී සිට කරුණු පැහැදිලි කිරීමට නියම කරමින් වගඋත්තරකාර අමාත්‍ය පවිත්‍රා වන්නිආරච්චි මහත්මිය ඇතුළු වගුඋත්තරකරුවන්ට නොතීසිද නිකුත් කළේය.
+
+ගොවිපොළකට අක්කර 415ක් නිදහස් කරමින් වනජීවී අමාත්‍ය පවිත්‍ර වන්නාරච්චි මහත්මිය මැයි 06 වැනිදා නිකුත් කළ ගැසට් නිවේදනය හේතූවෙන් විශාල පරිසර හානියක් වන බව පෙන්වා දෙමින් වනජීවී ආරක්ෂණ සංගමය සහ පාරිසරික පදනම ඉදිරිපත් කළ කරුණු සළකා බැලීමෙන් අනතුරුව මෙම පෙත්සම් විභාගය අවසන් වනතුරු වනජීවී අමාත්‍යවරිය නිකුත් කළ ගැසට් නිවේදනය ක්‍රියාත්මක කිරීම වළකාලමින් අදාළ අතුරු තහනම් නියෝගය නිකුත් කළේය.
+
+...
+
+[Data](articles/7480b1b3.json)
 
 ---
 
@@ -2353,55 +2387,5 @@ Sri Lanka cannot get sharply higher hair cuts or other concessions from bondhold
 [Data](articles/9559a8b3.json)
 
 [Extended Data](ext_articles/9559a8b3.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 305.40/60 to US dollar
-
-*2024-06-27 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-305-40-60-to-us-dollar-169786/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 305.40/60 to the US dollar on Thursday, while bond yields were down, and stocks opened 0.17 percent up, dealers said.
-
-The rupee closed at 305.35/55 to the greenback on Wednesday.
-
-In equities, Colombo’s All Share Price Index opened 21.13 points higher at 12,282, while the S&P SL20 of more liquid stocks opened up at 0.21 percent or 7.74 points to 3,636.
-
-A bond maturing on 01.08.2026 was quoted at 10.60/11.00 percent, down from 10.70/11.00 percent.
-
-A bond maturing on 15.03.2028 was quoted at 11.50/60 percent, down from 11.25/80 percent.
-
-A bond maturing on 15.09.2029 was quoted at 12.10/20 percent, down 12.10/25 percent. (Colombo/Jun27/2024)
-
-◼️
-
-[Data](articles/6860117e.json)
-
-[Extended Data](ext_articles/6860117e.ext.json)
-
----
-
-### The tragedy that climbed 7 lives a day
-
-*2024-06-27 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198202) · `si`
-
-In Sri Lanka, around 12,000 fatalities occur annually, with road accidents being responsible for one-fourth of these deaths. Motorcycles account for the highest number of fatalities among young riders aged 18 to 28. The Deputy Inspector General of Police highlighted that the primary cause of these accidents is reckless driving.
-
-🟩
-
-Police say that most of the deaths due to road accidents in the country are motorbikes.
-
-Deputy Inspector General of Police Indika Hapugoda says about seven people die due to road accidents.
-
-Speaking at a media briefing in Colombo, DIG Indika Hapugoda was speaking.
-
-"Sri Lanka dies from about 12,000 times a year. The fourth of them dies from accidents. Seventeen, eight people are killed in Sri Lanka's accidents. The most kids are killed by motorcyclists and followers. Sri Lankan youth lost 18 to 28 years of effective. Last year, 2,310 people died. So 2023, 230 lives were saved from 2023 years of road accidents in 2022 as a percentage. "
-
-DIG Indika Hapugoda said the main cause of the road accidents is driving.
-
-◼️
-
-[Data](articles/e4511f13.json)
-
-[Extended Data](ext_articles/e4511f13.ext.json)
 
 ---

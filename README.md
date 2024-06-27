@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 19:19:39**
+As of **2024-06-27 19:34:57**
 
 ## Newspaper Stats
 
-*Scraped **32,503** Articles*
+*Scraped **32,505** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,81 @@ adaderanalk | 3,700
 tamilmirrorlk | 3,835
 dailymirrorlk | 4,733
 virakesarilk | 5,054
-adaderanasinhalalk | 5,340
+adaderanasinhalalk | 5,342
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,502 (100.0%) of 32,503 articles have been extended.
+32,503 (100.0%) of 32,505 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### 60 இந்திய பிரஜைகள் அதிரடி கைது
+### LPL තරග සඳහා පවර් බ්ලාස්ට් ඕවර්ස්
+
+*2024-06-27 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198226) · `si`
+
+ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ තරග සඳහා නව තරග රීතියක් හඳුන්වා දීමට එහි සංවිධායකයින් කටයුතු කර තිබේ.
+
+ඒ යම් ඉනිමක අවසාන භාගය සඳහා "Power Play" අවස්ථාවක් හඳුන්වා දීමය.
+
+ඒ අනුව යම් ඉනිමක 16වන සහ 17වන පන්දු ඕවර දෙක "Power Play" අවස්ථාවක් වෙයි.
+
+එම පන්දු ඕවර දෙකේදී පිටියේ යාර 30 සීමාවෙන් පිටත රැඳවිය හැක්කේ පන්දු රකින්නන් 4 දෙනෙක් පමණි.
+
+මෙමගින් ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ තරග වඩාත් තරගකාරී වෙතැයි LPL තරගාවලි අධ්‍යක්ෂ සමන්ත දොඩන්වෙල මහතා පවසයි.
+
+◼️
+
+[Data](articles/1a04e710.json)
+
+---
+
+### 60 Indian citizens arrested
 
 *2024-06-27 18:59:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/60-இந்திய-பிரஜைகள்-அதிரடி-கைது/175-339541) · `ta`
 
-இவர்கள் தலங்கம, மாத்திவெல மற்றும் நீர்கொழும்பு பகுதிகளில் இணையத்தின் மூலம் மோசடியில் ஈடுபட்ட நிலையில், குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளனர்.
+60 Indians arrested for alleged fraud in Sri Lanka; 192 devices seized.
 
-குறித்த நபர்கள் கைது செய்யப்பட்ட போது, ​​135 கையடக்கத் தொலைபேசிகள் மற்றும் 57 மடிக்கணினிகள் குற்றப் புலனாய்வுப் பிரிவினரால் கைப்பற்றப்பட்டுள்ளன. R
+🟩
+
+They have been arrested by the Criminal Investigation Division for allegedly fraudulently in the Talangama, Mathiwala and Negombo areas.
+
+When the persons were arrested, 135 mobile phones and 57 laptops were seized by the Criminal Investigation Department.. Remble
 
 ◼️
 
 [Data](articles/838c557e.json)
+
+[Extended Data](ext_articles/838c557e.ext.json)
+
+---
+
+### නිවැසියන්ට දස වධ දී නිවස කොල්ලකෑ කල්ලිය
+
+*2024-06-27 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198225) · `si`
+
+ඇහැළියගොඩ නැදුරන, ඇරෑපොල ප්‍රදේශයේ නිවසකට ඇතුළු වූ සොරුන් පිරිසක් එම නිවසේ පදිංචිව සිටි වැඩිහිටි යුවළකට තියුණු ආයුධවලින් පහරදී අතපය ගැටගසා එම නිවස කොල්ලකා තිබේ.
+
+එහිදී 76 හැවිරිදි කාන්තාව මියගොස් ඇති අතර 76 හැවිරිදි එම කාන්තාවගේ ස්වාමි පුරුෂයා බරපතළ තුවාල ලබා රෝහල් ගතකර ඇත.
+
+පොලීසිය පැවසුවේ පෙරේදා (25) රාත්‍රී 11ත් ඊයේ (26) සවස 4.30ත අතර කාලයේ දී මෙම කොල්ලය සිදුකර ඇති බවයි.
+
+මෙම යුවළගේ වැඩිමහල් දියණිය විවාහ වී කැලණිය ප්‍රදේශයේ පදිංචිව සිටින අතර අනෙක් පිරිමි දරුවන් දෙදෙනා විවාහ වී අමෙරිකාවේ පදිංචිව සිටින බව වාර්තා වේ.
+
+පුතුන් දෙදෙනා දෛනිකව දුරකථන ඇමතුම් ලබාදි මව්පියන්ගේ සුවදුක් විමසන අතර ඊයේ සවස ද දෙමාපියන්ට ඇමතුමක් ලබා දී ඇත.
+
+සිය ඇමතුම් සඳහා දෙමාපියන් ප්‍රතිචාර නොදැක් වූ බැවින් ඔවුන් ඥාතියෙකු ඇමතුමක් දී පවසා ඇත්තේ සිය දෙමාපියන් සුවෙන් සිටින්නේ ද බලා පවසන ලෙසටය.
+
+ඒ අනුව එම පුද්ගලයා මෙම යුවළ පදිංචිව සිටි නිවස‌ට ගොස් පරික්ෂා කිරීමේ දී නිවසේ ජනේලයක් විවෘත කර ඇති බවට දැකිමෙන් පසු නිවසියන්ට කතාකර ඇත.
+
+නමුත් ඔවුන්ගෙන් පිළිතුරක් නොමැති බැවින් අසල්වැසියන්ට ද ඒ බව පවසා නිවස පරික්ෂා කර තිබේ.
+
+...
+
+[Data](articles/f6e4f72d.json)
 
 ---
 
@@ -2357,51 +2409,5 @@ The Department of Meteorology has said that strong winds are likely to blow at s
 [Data](articles/cc24a2aa.json)
 
 [Extended Data](ext_articles/cc24a2aa.ext.json)
-
----
-
-### Bolivia coup attempt fails after military assault on presidential palace
-
-*2024-06-27 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100131/bolivia-coup-attempt-fails-after-military-assault-on-presidential-palace) · `en`
-
-Bolivian armed forces pulled back from the presidential palace in La Paz on Wednesday evening and a general was arrested after President Luis Arce slammed a “coup” attempt against the government and called for international support.
-
-Earlier in the day, military units led by General Juan Jose Zuniga, recently stripped of his military command, had gathered in the central Plaza Murillo square, home to the presidential palace and Congress. A Reuters witness saw an armored vehicle ram a door of the presidential palace and soldiers rush in.
-
-“Today the country is facing an attempted coup d’état. Today the country faces once again interests so that democracy in Bolivia is cut short,” Arce said in comments from the presidential palace, with armed soldiers outside.
-
-“The Bolivian people are summoned today. We need the Bolivian people to organize and mobilize against the coup d’état in favor of democracy.”
-
-...
-
-[Data](articles/2623b48e.json)
-
-[Extended Data](ext_articles/2623b48e.ext.json)
-
----
-
-### Bundy fertilizer is free of the paddy cultivation to two next central seasons
-
-*2024-06-27 08:48:14* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-මහ-කන්න-දෙකකට-වී-වගාවට-බන්ඩි-පොහොර-නොමිලේ/11-410471) · `si`
-
-The Sri Lankan government, through the Ministry of Agriculture and Plantation Industries, is launching a Youth Agri Entrepreneurship Village program across 25 districts to boost youth involvement in agriculture. This initiative, marked by a national week from July 1 to 7, aims to start projects with an initial funding of Rs. 10 million per village, totaling Rs. 1600 million. Addressing the country's rice shortage in 2022, which led to a $300 million import, the government achieved self-sufficiency in rice production in 2023 and aims to increase paddy cultivation further. Additionally, efforts are underway to enhance egg and milk production, tackle rising coconut oil prices, and secure subsidized fertilizers for tea cultivation, including a request for 55,000 MT of Bundy fertilizer from the UN Food and Agriculture Organization for the next two seasons.
-
-🟩
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera stated that a National Week for the implementation of the Youth Agri Entrepreneurship Village from July 01 to 7.
-
-The government has decided to provide Rs.
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera made this statement participating at a press conference held at the Presidential Media Center.
-
-"The Ministry of Agriculture and Plantation Industries have launched a range of programs to attract the youth to agriculture. All arrangements have been made to commence the projects as a young agricultural entrepreneurial villages covering the 25 districts covering 25 districts in the island.
-
-Accordingly, we publishes a national week to implement the youth agro-entrepreneurial village program from July 1 to 7. Its first phase will be given Rs. 10 million for starting projects in every village. 1600 million allocated for this purpose.
-
-...
-
-[Data](articles/436a5670.json)
-
-[Extended Data](ext_articles/436a5670.ext.json)
 
 ---

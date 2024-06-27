@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 18:36:37**
+As of **2024-06-27 18:25:26**
 
 ## Newspaper Stats
 
-*Scraped **32,500** Articles*
+*Scraped **32,498** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,22 @@ newsfirstlk | 363
 islandlk | 1,802
 economynextcom | 1,890
 dailyftlk | 1,988
-adalk | 2,883
+adalk | 2,882
 adaderanalk | 3,699
 tamilmirrorlk | 3,833
 dailymirrorlk | 4,733
 virakesarilk | 5,054
-adaderanasinhalalk | 5,340
+adaderanasinhalalk | 5,339
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,493 (100.0%) of 32,500 articles have been extended.
+32,493 (100.0%) of 32,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
-
-### ඉන්දියාවෙන් ආ වංචනිකයින් 60ක් කොටුවෙයි
-
-*2024-06-27 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198224) · `si`
-
-ඔන්ලයින් මූල්‍ය චංචාවල නිරතවූ විදෙස් ජාතිකයින් 60 දෙනෙක්ව තලංගම, මාදිවෙල සහ මීගමුව යන ප්‍රදේශවලදී අත්අඩංගුවට ගෙන තිබේ.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගත් එම පිරිස ඉන්දීය ජාතිකයන් වෙයි.
-
-එම පිරිස අත්අඩංගුවට ගන්නා අවස්ථාවේදී ඔවුන් සතුව තිබී ජංගම දුරකථන 135ක් සහ ලැප්ටොප් පරිගණක 57ක් CID භාරයට ගෙන ඇත.
-
-◼️
-
-[Data](articles/5f3a3661.json)
-
----
 
 ### පැරිස් එකඟතා ගිවිසුම් ගැන රාජ්‍ය ඇමති හෙළිකරයි
 
@@ -221,24 +205,6 @@ Moreover, it was reported that our country was filling the debt reproduction pro
 [Data](articles/3a6e3d1e.json)
 
 [Extended Data](ext_articles/3a6e3d1e.ext.json)
-
----
-
-### දරුවාගේ හෙට දවසේ වගකීම ශ්‍රී ලංකා පොදුජන පෙරමුණ බාරගන්නවා
-
-*2024-06-27 17:02:08* · [`adalk`](https://www.ada.lk/breaking_news/දරුවාගේ-හෙට-දවසේ-වගකීම-ශ්‍රී-ලංකා-පොදුජන-පෙරමුණ-බාරගන්නවා/11-410483) · `si`
-
-මේ මහ පොළොවේ හැම බිම් අඟලකටම වටිනාකමක් දෙන්න අවශ්‍ය ප්‍රතිපත්ති ක්‍රියාත්මක කළ දේශපාලන පක්ෂය, ශ්‍රී ලංකා පොදුජන පෙරමුණ බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක හා පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා ප්‍රකාශ කරයි.
-
-ඒ හේතුවෙන් රටේ ශක්තිමත්ම දේශපාලන බලවේගය මහින්ද රාජපක්ෂ මහතා සමඟ ගොඩනැඟුණු ශ්‍රී ලංකා පොදුජන පෙරමුණ බව පෙන්වාදෙන ඒ මහතා මේ රටේ ඊළඟ පරම්පරාවේ දේශපාලන බලවේගය ශ්‍රී ලංකා පොදුජන පෙරමුණ බවද පෙන්වාදෙයි.
-
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ අනුරාධපුර දිස්ත්‍රික් "මැදවච්චිය" ආසන සමුළුව අමතමින් මන්ත්‍රීවරයා මේ බව සදහන් කළේය.
-
-ගෝඨාභය රාජපක්ෂ ආණ්ඩුවේ අපි අතින් වැරැදි සිදුවන්න ඇති. නමුත් අපි වගකීමකින් කියනවා ශ්‍රී ලංකා පොදුජන පෙරමුණේ කෘෂිකර්ම ප්‍රතිපත්තිය මහින්ද රාජපක්ෂ මහතාගේ කෘෂීකර්ම ප්‍රතිපත්තිය කියන එක කියා අපි පවසනවා. අපි එය නවීකරණය කරනවා. තාක්ෂණය සමඟ බද්ධ වියයුතු වෙනවා.
-
-...
-
-[Data](articles/7d02ff53.json)
 
 ---
 
@@ -2373,5 +2339,49 @@ South Africa won the match between Afghanistan and South Africa in the final rou
 [Data](articles/4579d7a0.json)
 
 [Extended Data](ext_articles/4579d7a0.ext.json)
+
+---
+
+### Restriction of Credit: Will the news truly harmony with Sri Lanka?
+
+*2024-06-27 08:08:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpv3dy0wgnwo) · `si`
+
+Sri Lanka has successfully restructured $10 billion in loans with major official bilateral creditors, aiming to alleviate its economic crisis. This move, however, raises questions about the country's financial stability and the credibility of such announcements amidst ongoing economic challenges. Critics argue that while restructuring is a positive step, the real test lies in the country's ability to meet its future obligations and the perception of international rating agencies. The restructuring includes significant debts owed to China, India, and Japan, among others, but excludes commercial sovereign bonds totaling around $14.73 billion. The government's optimism contrasts with concerns over the sustainability of the debt and the potential impact on the country's creditworthiness.
+
+🟩
+
+President Ranil Wickremesinghe stated that Sri Lanka completed the restructuring agreements with its major official bilateral creditors.. The loans of $ 10 billion will be restructured.
+
+The Government of Sri Lanka was preparing to announce a broader press propagation to announce a successful country to a success.
+
+Prof. Amini Methshi Perera told BBC Sinhala as a country as a country, as a country. 'Yesterday, the loans were restructured. As a country, you can be a good message. That's true. This is a good thing. It is accepting that. But the decision to make a happy message has the decision to the future.
+
+'It's a wonderful message to people. But what the President brought that good news in Parliament in Parliament?How many years did the Prime Minister or Minister?Will we go bankrupt this country to stay this message?Or are these country so long-administered? '
+
+...
+
+[Data](articles/54bf6fd2.json)
+
+[Extended Data](ext_articles/54bf6fd2.ext.json)
+
+---
+
+### President says IMF will not go back
+
+*2024-06-27 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198199) · `si`
+
+President Ranil Wickremesinghe aims to build a robust, self-sufficient economy, avoiding reliance on IMF aid. He emphasizes the importance of fulfilling commitments to prevent past failures and seeks to leverage international confidence for economic growth, aiming for a future where such assistance is no longer needed.
+
+🟩
+
+President Ranil Wickremesinghe says he is trying to create a strong and disciplined economy that never needs to go to the International Monetary Fund.
+
+The President had made a special statement last night (26).
+
+...
+
+[Data](articles/3320102b.json)
+
+[Extended Data](ext_articles/3320102b.ext.json)
 
 ---

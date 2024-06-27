@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 11:35:05**
+As of **2024-06-27 11:54:44**
 
 ## Newspaper Stats
 
-*Scraped **32,417** Articles*
+*Scraped **32,422** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,40 @@ dbsjeyarajcom | 298
 bbccomsinhala | 319
 newsfirstlk | 363
 islandlk | 1,802
-economynextcom | 1,884
+economynextcom | 1,887
 dailyftlk | 1,988
 adalk | 2,867
-adaderanalk | 3,688
+adaderanalk | 3,689
 tamilmirrorlk | 3,828
 dailymirrorlk | 4,733
 virakesarilk | 5,030
-adaderanasinhalalk | 5,322
+adaderanasinhalalk | 5,323
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,415 (100.0%) of 32,417 articles have been extended.
+32,415 (100.0%) of 32,422 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### මියගිය නාවික සෙබළාට උසස් වීමක් - ඉන්දීය ධීවරයින්ට නඩු
+
+*2024-06-27 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198207) · `si`
+
+මුහුදු සීමා උල්ලංඝනය කළ ඉන්දීය ධීවරයින් පිරිසක් අත්අඩංගුවට ගැනීමට යාමේදී නාවික හමුදා සෙබළෙකු ජීවීතක්ෂයට පත්වීම සහ නාවික හමුදා දේපොළවලට අලාභහානි සිදුවීම සම්බන්ධයෙන් අදාළ ඉන්දීය ධීවරයින්ට එරෙහිව නඩු පැවරීමට පියවර ගන්නා බව නාවික හමුදාව පවසයි.
+
+පසුගිය 25 වනදා යාපනය, කන්කසන්තුරය ප්‍රදේශයට ඔබ්බෙන් වූ මුහුදු ප්‍රදේශයේ අනවසර ධීවර කටයුතු සිදුකළ ඉන්දීය ධීවර යාත්‍රාවක් නාවික හමුදා භාරයට ගැනීම යාමේ දී ඉන්දීය ධීවර යාත්‍රාව කලහකාරී ලෙස හැසිරවීම හේතුවෙන්, නාවික හමුදා විශේෂ යාත්‍රා බලඝණයේ ජ්‍යේෂ්ඨ නාවිකයෙකු ජීවිතක්ෂයට පත් ව තිබිණි.
+
+ඉන්දීය ධීවර යාත්‍රාව සහ එහි සිටි ඉන්දීය ධීවරයින් දස දෙනා නාවික හමුදා භාරයට ගෙන තිබූ අතර ඔවුන්ට එරෙහිව මෙරට මුහුදු සීමාව තුළ නීතිවිරෝධී ධීවර කටයුතු සිදුකිරීම, නාවික හමුදා නිලධාරියෙක් ජීවීතක්ෂයට පත්වීම සහ නාවික හමුදා දේපොළකට අලාභහානි සිදුකිරීම සම්බන්ධයෙන් නඩු පැවරීමට යාපනය, මල්ලාකම් අධිකරණය වෙත කරුණු ඉදිරිපත් කර ඇති බව සඳහන්ය.
+
+...
+
+[Data](articles/012ead64.json)
+
+---
 
 ### காதல் திருமணம் செய்தால் ‘குற்ற வரி’
 
@@ -151,6 +167,20 @@ The President engaged in progressive discussions on the country’s economic and
 [Data](articles/157634a4.json)
 
 [Extended Data](ext_articles/157634a4.ext.json)
+
+---
+
+### President presents Greater Kandy Urban Plan to Chief Prelates
+
+*2024-06-27 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100135/president-presents-greater-kandy-urban-plan-to-chief-prelates) · `en`
+
+President Ranil Wickremesinghe visited the Chief Prelate of the Malwatu Chapter Most Ven. Thibbatuwawe Sri Sumangala Maha Nayaka Thera and the Chief Prelate of the Asgiri Chapter Most Ven. Warakagoda Sri Gnanarathana Nayaka Thera during his visit to Kandy, a short while ago, and received their blessings.
+
+The President engaged in progressive discussions on the country’s economic and financial progress and presented the Greater Kandy Urban Plan to the Chief Prelates, the President’s Media Division said.
+
+◼️
+
+[Data](articles/d10e7883.json)
 
 ---
 
@@ -287,6 +317,48 @@ Subsequently, an anatomical examination held at the Jaffna Bodhana Hospital has 
 [Data](articles/f21bab63.json)
 
 [Extended Data](ext_articles/f21bab63.ext.json)
+
+---
+
+### Paris Club urge comparable deal with Sri Lanka bond holders, seeks info
+
+*2024-06-27 09:41:00* · [`economynextcom`](https://economynext.com/paris-club-urge-comparable-deal-with-sri-lanka-bond-holders-seeks-info-169788/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s official creditor committee made up of Paris Club and India have urged the island to ensure that deal with private bondholders is comparable after concluding agreement on their loans.
+
+While India and several nations negotiated with the Paris Club, China negotiated on a parallel track.
+
+“The OCC now looks forward to receiving from Sri Lanka all information necessary for the OCC to ensure comparability of treatment,” the group said in a statement.
+
+“The OCC also expects that the Sri Lankan authorities will continue to engage with their private creditors to find as soon as possible an agreement on terms at least as favourable as the terms offered by the OCC.”
+
+Sri Lanka cannot get sharply higher hair cuts or other concessions from bondholders which exceed the terms given by official creditors. Bondholders however earn higher interest rates than official creditors.
+
+...
+
+[Data](articles/9559a8b3.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 305.40/60 to US dollar
+
+*2024-06-27 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-305-40-60-to-us-dollar-169786/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 305.40/60 to the US dollar on Thursday, while bond yields were down, and stocks opened 0.17 percent up, dealers said.
+
+The rupee closed at 305.35/55 to the greenback on Wednesday.
+
+In equities, Colombo’s All Share Price Index opened 21.13 points higher at 12,282, while the S&P SL20 of more liquid stocks opened up at 0.21 percent or 7.74 points to 3,636.
+
+A bond maturing on 01.08.2026 was quoted at 10.60/11.00 percent, down from 10.70/11.00 percent.
+
+A bond maturing on 15.03.2028 was quoted at 11.50/60 percent, down from 11.25/80 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.10/20 percent, down 12.10/25 percent. (Colombo/Jun27/2024)
+
+◼️
+
+[Data](articles/6860117e.json)
 
 ---
 
@@ -2195,85 +2267,5 @@ State Minister of Finance Shehan Semasinghe also confirmed that Sri Lanka signed
 [Data](articles/323360c1.json)
 
 [Extended Data](ext_articles/323360c1.ext.json)
-
----
-
-### Chinese - Sri Lanka's credit remedial agreement signs
-
-*2024-06-26 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198188) · `si`
-
-Sri Lanka and China have signed a loan restructuring agreement worth $4.2 billion in Beijing, aiming to address the country's debt issues.
-
-🟩
-
-The bilateral loan remedy agreement has been signed this afternoon between Sri Lanka and Chinese Exim.
-
-The Presidential Media Unit announced that the agreement was signed in Beijing today.
-
-Once the two sides had reached a final agreement to restructure $ 4.2 billion debt, the agreement was signed.
-
-◼️
-
-[Data](articles/794b7320.json)
-
-[Extended Data](ext_articles/794b7320.ext.json)
-
----
-
-### Sri Lanka signs US$4.2bn Chinese debt deal
-
-*2024-06-26 18:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-signs-us4-8bn-chinese-debt-deal-169710/) · `en`
-
-ECONOMYNEXT – Sri Lanka signed debt treatment deal in Beijing a short while ago with China Export and Import Bank to restructure $4.2 billion of debt, President’s Media Division said.
-
-“The Framework Agreement related to this was signed between Sri Lanka and China in Colombo, Sri Lanka. This restructuring provides significant debt relief, allowing Sri Lanka to allocate more funds to essential public services & resume concessional financing for critical infrastructure development.”
-
-“Chinese Ambassador, H.E. Qi Zhenhong just signed the vital Government Concessional Loan Agreement. Great contributions to Sri Lanka debt restructuring!”, the Embassy said in its X (Twitter) feed.
-
-◼️
-
-[Data](articles/88e84be6.json)
-
-[Extended Data](ext_articles/88e84be6.ext.json)
-
----
-
-### US urges Sri Lanka to continue fiscal reforms with transparent and sustainable changes
-
-*2024-06-26 18:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100123/us-urges-sri-lanka-to-continue-fiscal-reforms-with-transparent-and-sustainable-changes) · `en`
-
-US Ambassador to Sri Lanka Julie Chung says the United States welcomes the news of a final agreement on debt restructuring between Sri Lanka and creditor nations, which was reached today on the sidelines of the Paris Forum 2024.
-
-“This is a positive step forward in Sri Lanka’s economic recovery and resilience, helping build more confidence in Sri Lanka’s fiscal environment”, the US envoy said in a post on ‘X’ (formerly Twitter).
-
-Meanwhile, she added that the US encourages Sri Lanka to continue the reform process, adopting transparent and sustainable changes that foster long-term prosperity and growth.
-
-◼️
-
-[Data](articles/14920273.json)
-
-[Extended Data](ext_articles/14920273.ext.json)
-
----
-
-### Chinese president greets Chinese President's lunar exploration in China
-
-*2024-06-26 18:20:24* · [`adalk`](https://www.ada.lk/breaking_news/චීනයේ-චන්ද්‍ර-ගවේෂණයන්-හි-සන්ධිස්ථානගත-ජයග්‍රහණයට-චීන-ජනපතිගෙන්-සුබ-පැතුම්/11-410456) · `si`
-
-President Xi Jinping congratulates China's Chang'e 6 spacecraft for successfully returning to Earth with lunar samples, marking a significant milestone in the country's space exploration efforts. He extends his warm greetings to all involved in the mission, emphasizing the importance of continued progress in space research.
-
-🟩
-
-Changt 6 'spacecraft reaches Earth again. The return part of the plane is landed in the area of ​​China. The plane is the first samples obtained from the Hot area.
-
-Meanwhile, President Xi Jin Pin offered his warm wandering to the entire staff of the Chang of Changa Silva, China's Lunar Exploration Project, including the engineers.
-
-The President's greeting message is a milestone achievement of the samples of the moon. He also prompted the country's space exploration projects continuing.
-
-◼️
-
-[Data](articles/d04aff10.json)
-
-[Extended Data](ext_articles/d04aff10.ext.json)
 
 ---

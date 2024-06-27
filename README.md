@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 00:06:15**
+As of **2024-06-28 00:19:36**
 
 ## Newspaper Stats
 
-*Scraped **32,535** Articles*
+*Scraped **32,536** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,802
 economynextcom | 1,900
 dailyftlk | 1,988
 adalk | 2,885
-adaderanalk | 3,702
+adaderanalk | 3,703
 tamilmirrorlk | 3,839
 dailymirrorlk | 4,733
 virakesarilk | 5,059
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,535 (100.0%) of 32,535 articles have been extended.
+32,535 (100.0%) of 32,536 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### 68 sick, injured children and companions leave Gaza in first medical evacuation since May
+
+*2024-06-27 23:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100150/68-sick-injured-children-and-companions-leave-gaza-in-first-medical-evacuation-since-may) · `en`
+
+(AP) — Israeli authorities say 68 people - sick and injured children plus their companions - have been allowed out of the Gaza Strip and into Egypt in the first medical evacuation since May, when the territory’s sole travel crossing was shut down.
+
+The Israeli military body responsible for Palestinian civilian affairs, known by its acronym COGAT, said Thursday that the evacuation was carried out in coordination with officials from the United States, Egypt and the international community.
+
+The children and their companions left the Gaza Strip via the Kerem Shalom crossing, and the patients were to travel to Egypt and further abroad for medical treatment.
+
+The nearly nine-month Israel-Hamas war has devastated Gaza’s health sector and forced most of its hospitals to shut down. Health officials say thousands of people need medical treatment abroad, including hundreds of urgent cases.
+
+...
+
+[Data](articles/6bf0314e.json)
+
+---
 
 ### Two persons injured in a fuel container vehicle accident
 
@@ -2373,27 +2391,5 @@ Chris Silverwood was also accused of a setback for the Sri Lankan cricket team i
 [Data](articles/c28cd57a.json)
 
 [Extended Data](ext_articles/c28cd57a.ext.json)
-
----
-
-### The students who went to schools went back
-
-*2024-06-27 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/187085) · `ta`
-
-Students returned to schools amidst protests by today's Chancellor and Teachers' Associations against violence in Colombo. Some teachers were present in Vavuniya, but many parents kept their children home, with students seen waiting outside schools.
-
-🟩
-
-Today's Chancellor and Teachers' Associations have been involved in the workplace, protesting against the throwing of water and tear gas bombs on the teacher struggle in Colombo.
-
-A few teachers were present at all schools in Vavuniya, especially in all schools.
-
-However, it was possible to observe that the parents had taken the children they had brought back home and that some students were waiting at the school gate.
-
-◼️
-
-[Data](articles/cb1cdc4d.json)
-
-[Extended Data](ext_articles/cb1cdc4d.ext.json)
 
 ---

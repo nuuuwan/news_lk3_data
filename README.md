@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 00:19:36**
+As of **2024-06-28 00:35:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,535 (100.0%) of 32,536 articles have been extended.
+32,536 (100.0%) of 32,536 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The nearly nine-month Israel-Hamas war has devastated Gaza’s health sector and
 ...
 
 [Data](articles/6bf0314e.json)
+
+[Extended Data](ext_articles/6bf0314e.ext.json)
 
 ---
 

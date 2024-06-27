@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 15:19:41**
+As of **2024-06-27 15:34:53**
 
 ## Newspaper Stats
 
-*Scraped **32,467** Articles*
+*Scraped **32,469** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,802
 economynextcom | 1,890
 dailyftlk | 1,988
 adalk | 2,876
-adaderanalk | 3,694
+adaderanalk | 3,696
 tamilmirrorlk | 3,832
 dailymirrorlk | 4,733
 virakesarilk | 5,044
@@ -26,21 +26,61 @@ adaderanasinhalalk | 5,331
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,465 (100.0%) of 32,467 articles have been extended.
+32,467 (100.0%) of 32,469 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### சீனாவுக்கு பயணமானார் மஹிந்த
+### President warns of measures to designate teaching as an essential service
+
+*2024-06-27 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100143/president-warns-of-measures-to-designate-teaching-as-an-essential-service) · `en`
+
+President Ranil Wickremesinghe emphasized the importance of teachers being present in schools during the morning hours to ensure the education of the country’s children.
+
+He made this observation during a discussion with the Chief Prelate of the Asgiri Chapter, Most Ven. Warakagoda Sri Gnanarathana Nayaka Thero.
+
+He warned that if teachers fail to do so depriving students of their education, steps will be taken to designate teaching as an essential service, the President’s Media Division (PMD) reported.
+
+President Wickremesinghe visited the Chief Prelate of the Malwatu Chapter Most Ven. Thibbatuwawe Sri Sumangala Maha Nayaka Thera and the Chief Prelate of the Asgiri Chapter Most Ven. Warakagoda Sri Gnanarathana Nayaka Thera during his visit to Kandy, and received their blessings this morning (27).
+
+...
+
+[Data](articles/4a01d311.json)
+
+---
+
+### Keheliya’s writ petition fixed for further consideration
+
+*2024-06-27 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100142/keheliyas-writ-petition-fixed-for-further-consideration) · `en`
+
+The Court of Appeal has order for the writ petition filed on behalf of former Health Minister Keheliya Rambukwella to be taken up for further consideration on July 01.
+
+Rambukwella’s petition seeks to invalidate the Maligakanda Magistrate’s Court order to place him in remand custody until the conclusion of the trial concerning the procurement of substandard human intravenous immunoglobulin (IVIG) vials.
+
+When the case was taken for consideration today (27), Deputy Solicitor General Nirmalan Wigneswaran presented the facts to the court on behalf of the Attorney General.
+
+◼️
+
+[Data](articles/9c4e8b77.json)
+
+---
+
+### Mahinda traveled to China
 
 *2024-06-27 14:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனாவுக்கு-பயணமானார்-மஹிந்த/175-339535) · `ta`
 
-நான்கு நாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டு, வியாழக்கிழமை (27)    காலை சீனாவுக்குச் சென்ற முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ, அங்கு தங்கியிருக்கும் போது சீனப் பிரதமர் லீ கியாங் மற்றும் வெளிவிவகார அமைச்சர் வாங் யீ ஆகியோரை சந்தித்துப் பேச்சு நடத்தவுள்ளார்.
+Former Sri Lanka President Mahinda Rajapakse visited China on 27th, where he plans to meet with Chinese PM Lee Kiang and Foreign Minister Wang Yi during his stay.
+
+🟩
+
+Former President Mahinda Rajapakse, who visited China on Thursday morning (27), will meet with Chinese Prime Minister Lee Kiang and Foreign Minister Wang Yi while staying there.
 
 ◼️
 
 [Data](articles/d2de49f1.json)
+
+[Extended Data](ext_articles/d2de49f1.ext.json)
 
 ---
 
@@ -70,25 +110,33 @@ The arrested suspects are residents of Hettipola, aged 17,49 and 54 years.
 
 ---
 
-### ‘ஹபாயா’ அணிந்து தப்பியவர் சிக்கினார்
+### The man who escaped wearing a Habaya telephone number
 
 *2024-06-27 14:17:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/ஹபாயா-அணிந்து-தப்பியவர்-சிக்கினார்/75-339534) · `ta`
 
-54 வயதான தாயையும் அவருடைய 31 வயதான மகளையும் கத்தியால் குத்திய நபரொருவர், முகத்தை முழுமையாக மூடும் ஹபாயை அணிந்துகொண்டு தப்பிக்க முயன்றபோது கைதுசெய்யப்பட்டுள்ளார்.
+In a bizarre escape attempt, a 54-year-old mother and her 31-year-old daughter were arrested after covering themselves in Habaiah, a type of fabric used for clothing. The incident occurred in the Echanagar area, where a 38-year-old man was also arrested for attacking them due to unpaid debt. The mother was injured and hospitalized. Further investigations are ongoing.
 
-இந்த சம்பவம், தம்பலகாமம் பொலிஸ் பிரிவுக்குட்பட்ட ஈச்சநகர் பகுதியில், புதன்கிழமை (26) மாலை இடம்பெற்றுள்ளது. ஹபாய் அணிந்து​கொண்டு தப்பிக்க முயன்ற 38 வயதான குடும்பஸ்தரே கைது செய்யப்பட்டுள்ளார் என தம்பலகாமம் பொலிஸார் தெரிவித்தார்.
+🟩
 
-மூதூரை பிறப்பிடமாகக் கொண்ட இவர், ஈச்ச நகர் பகுதியில் திருமணம் முடித்து வசித்து வருகின்றனார்.
+A 54 -year -old mother and her 31 -year -old daughter have been arrested while trying to escape by wearing Habai, who was completely covered with his face.
 
-தாக்குதளுக்கு இலக்காகி படுகாயமடைந்த தாய், மட்டக்களப்பு பொது வைத்தியசாலையிலும், மகள்,  கந்தளாய் தளவைத்தியசாலையிலும் சிகிச்சை பெற்றுவருகின்றனர். .
+The incident took place on Wednesday evening (26) at Echanagar area of ​​the Thambalakamam police division.. Thambalakamam police said that a 38 -year -old family man has been arrested for trying to escape by wearing Habai.
 
-ஈச்ச நகர் பகுதியிலுள்ள தாக்குதலுக்கு இலக்காக பெண்ணிடம் கைது செய்யப்பட்ட சந்தேகநபர், கடனுக்கு பணம் வாங்கியுள்ளார். அதனை மீள பெற்றுக்கொள்வதற்காக, சந்தேகநபரின் அலைபேசி  திருத்த கடைக்கு அப்பெண் சென்று கேட்டுள்ளார்.
+He is a native of Muttur and is married to Eacha Nagar.
 
-எனினும், ஆத்திரமடைந்த அந்தநபர் பணத்தை திருப்பிக்கொடுக்காது, அந்த பெண்ணின் வீட்டுக்குச் சென்று, தாய், மகள் மீது கத்திக்குத்து தாக்குதல் நடத்தியுள்ளார்.
+The mother, who was injured in the attack, is being treated at the Batticaloa General Hospital. .
 
-...
+The suspect arrested for the attack in Eacha Nagar area has borrowed money. In order to recover it, the woman went to the shop's telephone call shop.
+
+However, the furious man will not return the money, and he went to the woman's house and attacked the mother and daughter.
+
+Habaiah was arrested for closing his face to escape from it.   சம்பவம் தொடர்பிலான மேலதிக விசாரணைகளை முன்னெடுத்துள்ளதாக  தம்பலகாமம் பொலிஸார்  தெரிவித்தனர்.
+
+◼️
 
 [Data](articles/048df237.json)
+
+[Extended Data](ext_articles/048df237.ext.json)
 
 ---
 
@@ -2313,41 +2361,5 @@ Over the past two years, we have worked diligently to reach agreements with our 
 [Data](articles/3cbef80b.json)
 
 [Extended Data](ext_articles/3cbef80b.ext.json)
-
----
-
-### Sri Lanka Finalizes Comprehensive  Debt Re-structuring Agreements with the Official Creditor Committee Co-chaired by France,Japan and India and China Exim Bank to the Combined Value of US $ 10 Billion.
-
-*2024-06-27 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84269) · `en`
-
-(Textr  of Press Release issued by the President’s  Media Division on 26 June 2024)
-
-In a significant milestone for Sri Lanka’s economic revitalization efforts, the nation has successfully finalized comprehensive debt restructuring agreements with key bilateral creditors. On June 26, 2024, Sri Lanka concluded negotiations with the Official Creditor Committee (OCC) and China Exim Bank, marking pivotal strides towards stabilizing its financial footing amid recent economic challenges.
-
-The agreements, valued at a combined USD 10 billion, encompass restructuring arrangements with major bilateral lenders under the auspices of the OCC, co-chaired by Japan, India, and France. Notable members of the committee include Australia, Austria, Belgium, Canada, Denmark, Germany, Hungary, Korea, the Netherlands, Russia, Spain, Sweden, the United Kingdom, and the United States of America.
-
-...
-
-[Data](articles/81c31c90.json)
-
-[Extended Data](ext_articles/81c31c90.ext.json)
-
----
-
-### Indian Fishermen Poaching in Sri Lankan Waters “Aggressively Resist”Arresr  and Seizure of Trawler by Lankan Navy;   Sailor from Navy Special Boat Squadron  Injured in Clash dies  in Jaffna Hospital
-
-*2024-06-27 00:36:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84283) · `en`
-
-A sailor from the Sri Lankan Navy was killed in an operation targeting Indian fishermen and their fishing vessel in the early hours of Tuesday, June 25, 2024, according to Sri Lankan authorities.
-
-As many as 10 Indian fishermen, seven from Nagapattinam, one from Cuddalore in Tamil Nadu and two others from Andhra Pradesh were arrested on charges of illegal fishing in Sri Lankan waters, off Kankesanthurai in Jaffna peninsula. The bottom trawler they used was also apprehended.
-
-Following this, Tamil Nadu Chief Minister M.K. Stalin wrote to Union Minister for External Affairs S. Jaishankar requesting that he convene the Joint Working Group to secure the release of all the fishermen and their fishing boats from Lankan custody. He also insisted on measures to be taken to prevent such arrests in the future.
-
-...
-
-[Data](articles/8b526396.json)
-
-[Extended Data](ext_articles/8b526396.ext.json)
 
 ---

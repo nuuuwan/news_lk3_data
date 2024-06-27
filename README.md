@@ -1,36 +1,62 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 08:13:19**
+As of **2024-06-27 08:21:03**
 
 ## Newspaper Stats
 
-*Scraped **32,382** Articles*
+*Scraped **32,387** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 295
-dbsjeyarajcom | 296
+dbsjeyarajcom | 297
 bbccomsinhala | 318
 newsfirstlk | 363
 islandlk | 1,802
 economynextcom | 1,884
 dailyftlk | 1,988
-adalk | 2,862
+adalk | 2,863
 adaderanalk | 3,681
-tamilmirrorlk | 3,823
+tamilmirrorlk | 3,824
 dailymirrorlk | 4,733
 virakesarilk | 5,023
-adaderanasinhalalk | 5,314
+adaderanasinhalalk | 5,316
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,382 (100.0%) of 32,382 articles have been extended.
+32,382 (100.0%) of 32,387 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### දකුණු අප්‍රිකාව අවසන් වටයට
+
+*2024-06-27 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198200) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අවසන් වටයේ ඇෆගනිස්තානය සහ දකුණු අප්‍රිකාව අතර තරගය ජයග්‍රහණය කිරීමට දකුණු අප්‍රිකාව සමත්විය.
+
+◼️
+
+[Data](articles/4579d7a0.json)
+
+---
+
+### නැවත IMF නොයන බවට ජනපති කියයි
+
+*2024-06-27 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198199) · `si`
+
+තමන් වෙහෙසෙන්නේ නැවත කිසිදිනක ජාත්‍යන්තර මුල්‍ය අරමුදල හමුවට යාමට අවශ්‍ය නොවන ශක්තිමත් සහ විනයානුකූල දියුණු ආර්ථිකයක් රට තුළ ඇති කිරීමට බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ඊයේ (26) රාත්‍රියේ විශේෂ ප්‍රකාශයක් සිදුකරමින් ජනාධිපතිවරයා සඳහන් කර සිටියේ, මීට පෙර අවස්ථා 16ක දී ජාත්‍යන්තර මූල්‍ය අරමුදලේ සහාය ලබාගෙන ඇති නමුත් ඒ සෑම වතාවක දීම ශ්‍රී ලංකාව අසාර්ථක වී ඇති බවය.
+
+...
+
+[Data](articles/3320102b.json)
+
+---
 
 ### Teachers - Principals sick today
 
@@ -333,6 +359,24 @@ On the other hand, South Africa, who won all the tournament in the T -groups and
 [Data](articles/10088012.json)
 
 [Extended Data](ext_articles/10088012.ext.json)
+
+---
+
+### கென்யாவில் ஆர்ப்பாட்டம்: 23 பேர் உயிரிழப்பு
+
+*2024-06-27 01:49:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கென்யாவில்-ஆர்ப்பாட்டம்-23-பேர்-உயிரிழப்பு/50-339504) · `ta`
+
+கென்யாவில் இடம்பெற்ற ஆர்ப்பாட்டத்தின் போது ஏற்பட்ட மோதலில் சிக்கி இதுவரையில் 23 பேர் உயிரிழந்துள்ளனர். பெருந்திரளானோர் காயமடைந்துள்ளனர்.
+
+புதிய வரி விதிப்பு சட்டமூலத்திற்கு எதிர்ப்பு  தெரிவித்தும் சர்ச்சைக்குரிய நிதி சட்டமூலத்திற்கு எதிர்ப்பு தெரிவித்தும் இந்த ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது.
+
+புதிய நிதி சட்டமூலத்திற்கு அமைய பல அத்தியாவசிய சேவைகள் மற்றும் பொருள்களுக்கு பெறுமதி சேர் வரி விதிக்கப்பட்டமையே கென்ய ஆர்ப்பாட்டத்திற்கான காரணமாகும்.
+
+சட்டமூலத்தை நிறைவேற்றிக் கொண்டதன் பின்னர் பாராளுமன்ற உறுப்பினர்கள் இரகசிய பதுங்கு குழி வழியாக அங்கிருந்து வெளியேறியுள்ளனர்.
+
+◼️
+
+[Data](articles/093120dd.json)
 
 ---
 
@@ -1132,6 +1176,22 @@ Sri Lanka has announced that he has resigned from his post immediately. Remble
 
 ---
 
+### ’පොහොට්ටුවෙන් අපේක්ෂකයෙක්’ පෝස්ටරය කැලෑ පෝස්ටරයක්
+
+*2024-06-26 19:44:17* · [`adalk`](https://www.ada.lk/breaking_news/’පොහොට්ටුවෙන්-අපේක්ෂකයෙක්’-පෝස්ටරය-කැලෑ-පෝස්ටරයක්/11-410463) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් ඉදිරිපත් වන ජනාධිපති අපේක්ෂයා පිළිබඳව මෙතෙක් තීරණය කර නොමැති බව පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතා පැවසීය.
+
+තමන් පොදුජන පෙරමුණේ සාමාජිකයෙකු ලෙස වගකීමෙන් එය ප්‍රකාශ කරන බවත්, මේ වන විට රට පුරා අලවා ඇති පොහොට්ටුවෙන් අපේක්ෂකයෙක් පෝස්ටරය 'කැලෑ පෝස්ටරයක්' බවත් හෙතෙම සඳහන් කළේය.
+
+අලුත්ගමගේ මහතා මේ බව පැවසුවේ අද (26දා) කොළඹ දී පැවති මාධ්‍ය හමුවකදීය. පොහොට්ටුවේ සහාය දිනන අපේක්ෂකයාට බව ද ඔහු කීවේය.
+
+◼️
+
+[Data](articles/e920819e.json)
+
+---
+
 ### China - Main deal between Sri Lanka has been signed
 
 *2024-06-26 19:41:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனா-இலங்கைக்கு-இடையில்-முக்கிய-ஒப்பந்தம்-கைச்சாத்தானது/175-339484) · `ta`
@@ -1504,6 +1564,22 @@ The President's greeting message is a milestone achievement of the samples of th
 
 ---
 
+### The Tamil Doctor who Gave Medical Aid to Injured Tigers.
+
+*2024-06-26 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84238) · `en`
+
+“Captain Blood:His Odyssey”was an Adventure novel authored  by well-known writer Rafael  Sabatini in 1922. Sabatini had a flair for creating fictional characters set  against the backdrop of true,historical events.This blend of fiction and fact  was received well by readers,  The Captain Blood novel became a best-seller then. The basic story line was about a physician who suffered greatly because he provided medical treatment to injured persons branded as enemies of the state.
+
+Captain Blood  became an immensely popular novel and several films based on the  book  were made in different languages over the years.The block buster Tamil movie “Aayirathil Oruvan”(One in a thousand) starring MG Ramachandran (MGR) released in 1965  was an adaptation of the Captain blood novel. In the film, MGR plays Manimaran a physician who is victimised for giving medical treatment to people injured in a rebellion against the ruling dictator.
+
+...
+
+[Data](articles/0c6c87b9.json)
+
+[Extended Data](ext_articles/0c6c87b9.ext.json)
+
+---
+
 ### Special announcement from the Ministry of Education
 
 *2024-06-26 18:15:21* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-අමාත්‍යාංශයෙන්-විශේෂ-නිවේදනයක්/11-410455) · `si`
@@ -1549,6 +1625,24 @@ Relation IMF urges Maldives to halt money printing to keep dollar peg amid ‘de
 [Data](articles/0fe8cc24.json)
 
 [Extended Data](ext_articles/0fe8cc24.ext.json)
+
+---
+
+### “The people must determine whether to move forward with me, as I truly comprehend the challenges facing the country, provide practical solutions, and demonstrate tangible results, or align with groups that have yet to grasp the issues and are blindly seeking power” President  Ranil  Wickremesinghe
+
+*2024-06-26 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84273) · `en`
+
+(Text of  special statement delivered by  President  Ranil  Wickremesinghe on 26 June 2024)
+
+Today marks a significant milestone in the recent history of our country, a special juncture reflecting the hard work and dedication of our efforts. Our country is now reaping the positive results of our persistent endeavours over the past years.
+
+This morning in Paris, Sri Lanka reached a final agreement with our official bilateral creditors. Similarly, we signed another agreement with China’s Exim Bank today in Beijing. This is indeed encouraging news for those who genuinely care about our country’s welfare.
+
+Over the past two years, we have worked diligently to reach agreements with our bilateral creditors, engaging in extensive discussions. The economic progress we have achieved has provided us with considerable strength in these negotiations.
+
+...
+
+[Data](articles/3cbef80b.json)
 
 ---
 
@@ -2143,155 +2237,5 @@ At the end of the demonstration, five people met the secretary of the governor a
 [Data](articles/84261518.json)
 
 [Extended Data](ext_articles/84261518.ext.json)
-
----
-
-### Sri Lanka explores joining BRICS amid faster post-debt restructuring growth hopes
-
-*2024-06-26 16:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-explores-joining-brics-amid-faster-post-debt-restructuring-growth-hopes-169649/) · `en`
-
-ECONOMYNEXT – Sri Lanka has been exploring plans to join BRICS, a bloc of the world’s major emerging economies and a cabinet subcommittee report is expected by end-June, Foreign Minister Ali Sabry has said.
-
-Sri Lanka’s move comes as it is now looking for more funding with the conclusion of formal bilateral debt restructuring deal.
-
-Sabry after attending the BRICS Foreign Ministers’ Conference in Russia early this month, Sri Lanka has appointed a cabinet subcommittee comprising officials from the Ministry of Foreign Affairs, Treasury, Ministry of Finance, and Central Bank to explore the possibility of Sri Lanka joining the BRICS organization.
-
-“I see a lot of momentum being built towards BRICS,” the Foreign Minister told media earlier this month.
-
-“As far as we are concerned we are closely monitoring it. We are expecting that report (from the cabinet subcommittee) to be available for us towards the end of this month. “
-
-...
-
-[Data](articles/c3ce2372.json)
-
-[Extended Data](ext_articles/c3ce2372.ext.json)
-
----
-
-### Rs. 18 crores gold gel
-
-*2024-06-26 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198182) · `si`
-
-Suspects, linked to smuggling 18 crores worth of gold and 6 billion rupees, frequently traveled between Sri Lanka and India via Kalmunai, Muttur, Colombo-10, Kalagedihena, and Minuwangoda. They were intercepted in Chennai after passing through Dubai, arrested by airport customs during scanning tests.
-
-🟩
-
-6 billion rupees worth Rs.
-
-Customs said that the suspects were frequent frequent flights from Kalmunai, Muttur, Colombo-10, Kalagedihena and Minuwangoda.
-
-They had reached Chennai in Dubai to Chennai, India.
-
-These persons were arrested by airport customs to scanning machines (SCAN Test) tests.
-
-◼️
-
-[Data](articles/515d388a.json)
-
-[Extended Data](ext_articles/515d388a.ext.json)
-
----
-
-### Sri Lanka enters the restructuring of credit
-
-*2024-06-26 16:01:50* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාව-ණය-ප්‍රතිව්‍යුහගතකිරීම-සඳහා-එකඟතාවකට-පිවිසෙයි/11-410451) · `si`
-
-Sri Lanka has finalized a $5.8 billion loan restructuring deal with its bilateral creditors, led by India, France, and Japan. This agreement marks a significant step forward in stabilizing the country's economy, with Minister of State Shehan Semasinghe expressing gratitude and highlighting the leadership of Ranil Wickremesinghe in achieving this milestone.
-
-🟩
-
-Prior to a few minutes ago, Sri Lanka has announced the final agreement on loan restructuring with the official committee of bilateral creditors in the country.
-
-The final agreement has reached US $ 5.8 billion with his official borrowers' committee of its bilateral lenders in Paris in France.
-
-India, France and Japan, representing the committee of the Official Borronda, participated in the event.
-
-The committee's committee of the Committee, the Chairperson of the Committee, India, Japan and the Committees of the Committee of the Committee (India), the Chairperson of the Committees of the Committee, and China's Export Politicals in Sri Lanka for the Certany is the Chairperson of the Committee, India and China.Minister of State Shehan Semasinghe says that he is speaking sincere thanks.
-
-Minister of State Shehan Semasinghe further emphasizes that Ranil Wickremesinghe has helped to lead the Sri Lankan economy to this milestone.
-
-◼️
-
-[Data](articles/2e022af9.json)
-
-[Extended Data](ext_articles/2e022af9.ext.json)
-
----
-
-### Final compliance with debt restructuring
-
-*2024-06-26 15:56:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-மறுசீரமைப்புக்கு-இறுதி-இணக்கப்பாடு/175-339472) · `ta`
-
-Sri Lanka has achieved final compliance with its bilateral credit restructuring plan with lending nations, led by Finance Minister Shehan Semasinghe. This milestone was reached during the 2024 Paris Forum, where discussions included steps towards resolving Sri Lanka's debt crisis, particularly with China. The minister expressed gratitude towards India and Japan for their cooperation, highlighting this as a significant step forward in addressing Sri Lanka's debt issues.
-
-🟩
-
-A final compliance with bilateral credit restructuring with Sri Lanka's lending countries has been reached.
-
-Finance Minister Shehan Semasinghe has stated that he has complied with a committee of official credit providers on Sri Lanka's debt reorganization.
-
-Shehan Semasinghe X has stated that this compliance was made during the Paris Forum of the 2024 Paris Forum in the French capital of Paris.
-
-The Minister of State has said that steps are being taken to bring about bilateral debt between Sri Lanka and China.
-
-He thanked India and Japan China, who cooperated with the debt restructuring.
-
-The Minister of State also pointed out that this would be a major turning point in solving the debt crisis facing Sri Lanka.
-
-◼️
-
-[Data](articles/7d0597c3.json)
-
-[Extended Data](ext_articles/7d0597c3.ext.json)
-
----
-
-### Grama Niladhari officer arrested on bribery charge
-
-*2024-06-26 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100116/grama-niladhari-officer-arrested-on-bribery-charge-) · `en`
-
-A Grama Niladhari Officer in the Heerassagala area of Kandy has been arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) for allegedly accepting a bribe.
-
-The Grama Niladhari officer has demanded a bribe of Rs. 25,000 from a woman to resolve a land dispute and the woman has filed a complaint with the Bribery Commission in relation to the incident.
-
-Accordingly, the suspect was arrested yesterday (25) by the Bribery Commission officers while soliciting the bribe from the woman in question.
-
-The arrested Grama Niladhari officer has been ordered to be remanded until July 29 by the Kandy Court.
-
-◼️
-
-[Data](articles/587bb416.json)
-
-[Extended Data](ext_articles/587bb416.ext.json)
-
----
-
-### The final agreement on debt restructuring is reached: to be reached with China - Minister Sehan
-
-*2024-06-26 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/187031) · `ta`
-
-Sri Lanka has finalized a debt restructuring agreement with its official lending committee, including a separate deal with China's Exports Import Bank. The accord was reached during the 2024 Paris Conference, with Finance Minister Sehan Semasinghe praising the efforts of the official credit committee and President Ranil Wickremesinghe's leadership in addressing the nation's debt crisis.
-
-🟩
-
-Finance Minister Xihan Semasinghe said that the final agreement on the debt restructuring has been reached between Sri Lanka and the official lending committee.
-
-The final decision was reached at a part of the 2024 Paris Conference in France.
-
-Finance Minister Sehan Semasinghe further stated on his X site,
-
-The final agreement on debt restructuring has been reached between Sri Lanka and the official lending committee.
-
-Meanwhile, an agreement will be reached on bilateral credit restructuring between Sri Lanka and China's Exports Import Bank.
-
-Minister Sehan Semasinghe has expressed his willingness to Sri Lanka on behalf of Sri Lanka for the presidency of China's Exports Import Bank for the countries of France, India and Japan in the official lending committee.
-
-I congratulate the secretary and officials of the official credit committee who has committed this milestone to reach this milestone to address the debt crisis of Sri Lanka, improve the confidence in the economy.
-
-...
-
-[Data](articles/79c95bc0.json)
-
-[Extended Data](ext_articles/79c95bc0.ext.json)
 
 ---

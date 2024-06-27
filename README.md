@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 11:54:44**
+As of **2024-06-27 12:07:48**
 
 ## Newspaper Stats
 
-*Scraped **32,422** Articles*
+*Scraped **32,424** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 295
-dbsjeyarajcom | 298
+dbsjeyarajcom | 299
 bbccomsinhala | 319
 newsfirstlk | 363
 islandlk | 1,802
 economynextcom | 1,887
 dailyftlk | 1,988
 adalk | 2,867
-adaderanalk | 3,689
+adaderanalk | 3,690
 tamilmirrorlk | 3,828
 dailymirrorlk | 4,733
 virakesarilk | 5,030
@@ -26,59 +26,107 @@ adaderanasinhalalk | 5,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,415 (100.0%) of 32,422 articles have been extended.
+32,422 (100.0%) of 32,424 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### මියගිය නාවික සෙබළාට උසස් වීමක් - ඉන්දීය ධීවරයින්ට නඩු
+### Honduras ex-President Hernandez sentenced to 45 years in prison on US drug conviction
 
-*2024-06-27 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198207) · `si`
+*2024-06-27 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100137/honduras-ex-president-hernandez-sentenced-to-45-years-in-prison-on-us-drug-conviction) · `en`
 
-මුහුදු සීමා උල්ලංඝනය කළ ඉන්දීය ධීවරයින් පිරිසක් අත්අඩංගුවට ගැනීමට යාමේදී නාවික හමුදා සෙබළෙකු ජීවීතක්ෂයට පත්වීම සහ නාවික හමුදා දේපොළවලට අලාභහානි සිදුවීම සම්බන්ධයෙන් අදාළ ඉන්දීය ධීවරයින්ට එරෙහිව නඩු පැවරීමට පියවර ගන්නා බව නාවික හමුදාව පවසයි.
+Former Honduran President Juan Orlando Hernandez was sentenced by a U.S. judge on Wednesday to 45 years in prison for his conviction on drug and firearm offenses.
 
-පසුගිය 25 වනදා යාපනය, කන්කසන්තුරය ප්‍රදේශයට ඔබ්බෙන් වූ මුහුදු ප්‍රදේශයේ අනවසර ධීවර කටයුතු සිදුකළ ඉන්දීය ධීවර යාත්‍රාවක් නාවික හමුදා භාරයට ගැනීම යාමේ දී ඉන්දීය ධීවර යාත්‍රාව කලහකාරී ලෙස හැසිරවීම හේතුවෙන්, නාවික හමුදා විශේෂ යාත්‍රා බලඝණයේ ජ්‍යේෂ්ඨ නාවිකයෙකු ජීවිතක්ෂයට පත් ව තිබිණි.
+The sentence means Hernandez, 55, will likely spend the rest of his life behind bars, unless his expected appeal succeeds.
 
-ඉන්දීය ධීවර යාත්‍රාව සහ එහි සිටි ඉන්දීය ධීවරයින් දස දෙනා නාවික හමුදා භාරයට ගෙන තිබූ අතර ඔවුන්ට එරෙහිව මෙරට මුහුදු සීමාව තුළ නීතිවිරෝධී ධීවර කටයුතු සිදුකිරීම, නාවික හමුදා නිලධාරියෙක් ජීවීතක්ෂයට පත්වීම සහ නාවික හමුදා දේපොළකට අලාභහානි සිදුකිරීම සම්බන්ධයෙන් නඩු පැවරීමට යාපනය, මල්ලාකම් අධිකරණය වෙත කරුණු ඉදිරිපත් කර ඇති බව සඳහන්ය.
+A Manhattan jury found him guilty in March of accepting millions of dollars in bribes to protect U.S.-bound cocaine shipments belonging to traffickers he once publicly proclaimed to combat.
+
+Prosecutors had sought a life sentence, while defense lawyers said a 40-year term, the mandatory minimum under federal law, was enough.
+
+U.S. District Judge Kevin Castel said the 45-year sentence should send a message to well-educated, seemingly personable defendants who may believe they are insulated from prosecution.
+
+He also said jurors saw through Hernandez’s “polished demeanor” during the two-week trial, where he took the stand in his own defense.
 
 ...
 
-[Data](articles/012ead64.json)
+[Data](articles/c65e7b15.json)
 
 ---
 
-### காதல் திருமணம் செய்தால் ‘குற்ற வரி’
+### Promotion to the dead naval soldier
+
+*2024-06-27 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198207) · `si`
+
+Indian fishermen arrested for damaging navy property in Sri Lankan waters face prosecution. A naval officer was killed, and his body was returned to his family for burial. The navy plans to promote a senior officer, Sirima, to a higher rank.
+
+🟩
+
+The Navy states that the Indian fishermen will be prosecuted against the Indian fishermen regarding the arrest of a group of Indian fishermen who violate navy property and damaged them.
+
+The Indian fishing vessel was murdered as the Indian fishing vessel was managed by the Indian fishing vessel as the Indian fishing vessel was managed by the Navy.
+
+The Indian fishermen and its fishermen were seized by the Navy and the Navy's fisheries in Sri Lankan waters and prosecuted the navy fisheries and sued the naval property and sued the naval property.It is said.
+
+The post mortem examination of the Jaffna Magistrate has been submitted by the UN Senior Navy.
+
+The remains of the deceased salary have been handed over to relatives yesterday (26) and the funeral is to be done in the Ibbagamuwa area today (27) with full salutation.
+
+The Navy has also said that the Navy has also taken steps to promote Senior Sirima Navy to be promoted as the Senior Sirima Naval Shipping.
+
+◼️
+
+[Data](articles/012ead64.json)
+
+[Extended Data](ext_articles/012ead64.ext.json)
+
+---
+
+### If love is married
 
 *2024-06-27 11:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதல்-திருமணம்-செய்தால்-குற்ற-வரி/175-339522) · `ta`
 
-வரி அறவிடுவதை ஒவ்வோர் அரசாங்கங்களும் மற்றைய அரசாங்கங்களை விஞ்சிவிடுகின்றன. நாடுகளுக்கு நாடு வரி அறவிடும் முறைமையும் வேறுபடும்.
+In Coimbatore, a unique tax called "piercing" is imposed on romantic marriages, a tradition followed for generations in Vadakkalur village. This tax-free area excludes couples from paying unless they undergo a specific ritual. However, there are allegations of caste leaders in Annur discriminating against such unions, leading to tensions within the community.
 
-காதல் திருமணம் செய்தவர்கள் ‘குற்ற வரி’ செலுத்தாவிட்டால் ஊரை விட்டு ஒதுக்கும் நடைமுறை தமிழ்நாட்டு கிராமத்தில் உள்ளது. இதுதொடர்பில் பிபிசி தமிழ் கள ஆய்வை மேற்கொண்டு செய்தி வெளியிட்டுள்ளது.
+🟩
 
-கோவை மாவட்டம் அருகே, காதல் திருமணம் செய்யும் ஜோடிகளுக்கு குற்றம் செய்ததற்கான ‘வரி’ விதிக்கப்படுவதுடன், அதைச் செலுத்தாவிட்டால் ஊரை விட்டுத் தள்ளி வைக்கும் முறை இன்னமும் நடைமுறையில் உள்ளது. இதைக் 'குத்தவரி' என்று அவர்கள் அழைக்கிறார்கள்.
+Each government surpasses other governments. The country's taxable system for countries can vary.
 
-இந்த நடைமுறை பல தலைமுறைகளாகப் பின்பற்றப்படும் நடைமுறை என்று வடக்கலூர் கிராமத் தலைவர் பேசியபோது கூறினார்.
+Romantic married people do not pay the crime tax. In this regard, the BBC has conducted a Tamil field study.
 
-கோவை மாவட்டம் அன்னூர் அருகே, காதல் திருமணம் செய்வோரை கிராமத்தில் இருக்கும் சாதிய தலைவர்கள் ஒதுக்கி வைப்பதாக புகார்கள் கூறப்படுகின்றன. அதுமட்டுமின்றி, காதல் திருமணம் செய்த தம்பதிகளுக்கு ‘குத்தவரி’ (குற்றம் செய்ததற்கான வரி) செலுத்தினால் ஊரினுள் சேர்த்துக் கொள்ளும் வினோத நடைமுறை இருப்பதாகவும் புகார் எழுந்தது.
+Near the Coimbatore district, the tax is levied for the crime for romantic married couples and is still practiced by the manner in which the city is not paid if it is not paid.. They call it 'piercing'.
+
+The Vadakkalur village leader said that this practice has been practiced for many generations.
+
+There are complaints that caste leaders in the village are excluding romantic marriages near Annur in Coimbatore district. In addition, it was also reported that there would be a strange procedure for couples who were married to a married couple if they were paid a piercing line.
+
+5 km from Annur. We traveled the distance and reached the village of Vadakkalur. The surrounding village was a green village, such as banana gardens and other types of crop cultivation.
 
 ...
 
 [Data](articles/b7f20973.json)
 
+[Extended Data](ext_articles/b7f20973.ext.json)
+
 ---
 
-### மல்வத்து பீடத்தில் ஆசி பெற்றார் ஜனாதிபதி
+### Blessed President
 
 *2024-06-27 11:00:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மல்வத்து-பீடத்தில்-ஆசி-பெற்றார்-ஜனாதிபதி/175-339520) · `ta`
 
-கண்டிக்கு விஜயம் செய்த ஜனாதிபதி ரணில் விக்ரமசிங்க, மல்வத்து மகா  மகாநாயக்க திப்பட்டுவாவே ஸ்ரீ சுமங்கல தேரர் மற்றும்  அஸ்கிரி   மகாநாயக்க  வரக்காகொட ஸ்ரீ ஞானரதன  தேரர் ஆகியோரை சந்தித்து ஆசி பெற்றார்.
+President Ranil Wickremesinghe visited Kandy, meeting religious leaders Sri Sumangala Thera and Asgiri Mahanayaka Varakkoda Sri Gnanaradana Thera. They discussed Sri Lanka's economic and financial progress, focusing on the Kandy Urban Development Program.
 
-இலங்கை அடைந்துள்ள பொருளாதார மற்றும் நிதி முன்னேற்றம் குறித்து ஜனாதிபதி மகாநாயக்க தேரர்களுக்கு தெளிவுபடுத்தியதோடு  கண்டி நகர அபிவிருத்தித் திட்டத்தையும் அவர்களுக்கு கையளித்தார்.
+🟩
+
+President Ranil Wickremesinghe, who visited Kandy, met with Sri Sumangala Thera and Asgiri Mahanayaka Varakkoda Sri Gnanaradana Thera.
+
+President Mahanayaka clarified the economic and financial progress in Sri Lanka and handed them over to the Kandy Urban Development Program.
 
 ◼️
 
 [Data](articles/950f6c76.json)
+
+[Extended Data](ext_articles/950f6c76.ext.json)
 
 ---
 
@@ -181,6 +229,8 @@ The President engaged in progressive discussions on the country’s economic and
 ◼️
 
 [Data](articles/d10e7883.json)
+
+[Extended Data](ext_articles/d10e7883.ext.json)
 
 ---
 
@@ -338,6 +388,8 @@ Sri Lanka cannot get sharply higher hair cuts or other concessions from bondhold
 
 [Data](articles/9559a8b3.json)
 
+[Extended Data](ext_articles/9559a8b3.ext.json)
+
 ---
 
 ### Sri Lanka rupee opens weaker at 305.40/60 to US dollar
@@ -359,6 +411,8 @@ A bond maturing on 15.09.2029 was quoted at 12.10/20 percent, down 12.10/25 perc
 ◼️
 
 [Data](articles/6860117e.json)
+
+[Extended Data](ext_articles/6860117e.ext.json)
 
 ---
 
@@ -1259,6 +1313,22 @@ Japan, India and France led the official credit provide group. There were other 
 [Data](articles/3b4525ce.json)
 
 [Extended Data](ext_articles/3b4525ce.ext.json)
+
+---
+
+### Indian Fishermen Poaching in Sri Lankan Waters “Aggressively Resist”Arresr  and Seizure of Trawler by Lankan Navy;   Sailor from Navy Special Boat Squadron  Injured in Clash dies  in Jaffna Hospital
+
+*2024-06-27 00:36:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84283) · `en`
+
+A sailor from the Sri Lankan Navy was killed in an operation targeting Indian fishermen and their fishing vessel in the early hours of Tuesday, June 25, 2024, according to Sri Lankan authorities.
+
+As many as 10 Indian fishermen, seven from Nagapattinam, one from Cuddalore in Tamil Nadu and two others from Andhra Pradesh were arrested on charges of illegal fishing in Sri Lankan waters, off Kankesanthurai in Jaffna peninsula. The bottom trawler they used was also apprehended.
+
+Following this, Tamil Nadu Chief Minister M.K. Stalin wrote to Union Minister for External Affairs S. Jaishankar requesting that he convene the Joint Working Group to secure the release of all the fishermen and their fishing boats from Lankan custody. He also insisted on measures to be taken to prevent such arrests in the future.
+
+...
+
+[Data](articles/8b526396.json)
 
 ---
 
@@ -2211,61 +2281,5 @@ ICC General Manager Wasim Khan, who praised Dougrew's service, has expressed his
 [Data](articles/8c1c443e.json)
 
 [Extended Data](ext_articles/8c1c443e.ext.json)
-
----
-
-### No country in recent history, no country has won such a special victory over a short period of time
-
-*2024-06-26 19:11:00* · [`adalk`](https://www.ada.lk/breaking_news/මෑත-ඉතිහාසයේ-ලෝකයේ-කිසිඳු-රටක්-කෙටි-කාලයක්-තුළ-මෙවැනි-සුවිශේෂී-ජයග්‍රහණයක්-ලබාගෙන-නැහැ/11-410457) · `si`
-
-It seems like you've shared a detailed narrative or speech that outlines a historical context, challenges faced, economic strategies implemented, and reflections on leadership and national progress. This text appears to be a comprehensive overview of a country's economic recovery efforts, possibly aimed at addressing the public or stakeholders.
-
-
-
-Given the complexity and breadth of the content, could you please clarify what specific assistance or analysis you're seeking regarding this text? Are you looking for an evaluation of the economic strategies mentioned, an analysis of the leadership's communication style, or perhaps insights into how this narrative might resonate with its intended audience?
-
-🟩
-
-The child who is named in Sri Lanka has brought the dangerous volume so far
-
-Teams fighting the right of the child today as well as the child who has not been able to save the child
-
-If the time comes, we all know the dangers of. People have the right to determine the right decision
-
-I only had the trust and work plan that the country could deliver the economic crisis without any condition.
-
-No country in recent history, no country has won such a special victory over a short period of time
-
-Those who tried to sabotage this journey will be embarrassed in the future of the future of the country
-
-The final agreement with the official creditors committee with the chief creditors of Sri Lanka in Paris this morning.President Ranil Wickremesinghe said that it is already underway.
-
-...
-
-[Data](articles/fbf74c16.json)
-
-[Extended Data](ext_articles/fbf74c16.ext.json)
-
----
-
-### Sri Lanka signs debt treatment agreement with China’s EXIM Bank
-
-*2024-06-26 18:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/100124/sri-lanka-signs-debt-treatment-agreement-with-chinas-exim-bank) · `en`
-
-Sri Lanka signed debt treatment agreements with the Export-Import Bank of China (EXIM) in Beijing, a short while ago, to restructure USD 4.2 billion of debt, the President’s Media Division said.
-
-The Framework Agreement related to this was signed between Sri Lanka and China in Colombo, Sri Lanka.
-
-This restructuring provides significant debt relief, allowing Sri Lanka to allocate more funds to essential public services and resume concessional financing for critical infrastructure development, the PMD added.
-
-State Minister of Finance Shehan Semasinghe also confirmed that Sri Lanka signed a debt treatment agreement with the Export-Import Bank of China to restructure USD 4.2 billion of its debt.
-
-“This move is part of an ongoing effort to manage the country’s financial challenges. The framework agreement for this debt treatment was signed between Sri Lanka and China in Colombo,” he posted on ‘X’.
-
-...
-
-[Data](articles/323360c1.json)
-
-[Extended Data](ext_articles/323360c1.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 10:07:36**
+As of **2024-06-27 10:19:19**
 
 ## Newspaper Stats
 
-*Scraped **32,401** Articles*
+*Scraped **32,403** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 295
 dbsjeyarajcom | 297
-bbccomsinhala | 318
+bbccomsinhala | 319
 newsfirstlk | 363
 islandlk | 1,802
 economynextcom | 1,884
@@ -20,17 +20,37 @@ adaderanalk | 3,685
 tamilmirrorlk | 3,826
 dailymirrorlk | 4,733
 virakesarilk | 5,027
-adaderanasinhalalk | 5,318
+adaderanasinhalalk | 5,319
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,401 (100.0%) of 32,401 articles have been extended.
+32,401 (100.0%) of 32,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### පුපුරණ ද්‍රව්‍ය සමඟ සැකකරුවන් සිව් දෙනෙකු අත්අඩංගුවට
+
+*2024-06-27 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198203) · `si`
+
+හසලක පොලිස් වසමේ වැල්ගාල ප්‍රදේශයේදී පුපුරනද්‍රව්‍ය තොඟයක් සමඟ සැකකරුවන් සිව් දෙනෙක් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+හසලක පොලිස් ස්ථානයේ  නිලධාරීන්ට ලද තොරතුරක් මත මෙම පුපුරණ ද්‍රව්‍ය තොඟය සොයාගෙන ඇති බවයි පොලීසිය සඳහන් කළේ.
+
+එහිදී ඇමෝනියා කුඩු කිලෝ 01 ග්‍රෑම් 550ක්, සෙන්ටිමීටර් 116ක් දිග සේවා නූලක් සහ ඩෙටනේටර් 03ක් සොයාගත් බව පොලීසිය පැවසුවේය.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 37, 50 හා 60 යන වයස්වල පසුවන මිනිපේ ප්‍රදේශයේ පදිංචිකරුවන්ය.
+
+සැකකරුවන් මහවැලි ගඟේ මසුන් මැරීම සඳහා මෙම පුපුරණ ද්‍රව්‍ය රැගෙන විත් ඇති බව පොලීසිය සිදුකල විමර්ශනවලදී අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/28679c63.json)
+
+---
 
 ### The tragedy that climbed 7 lives a day
 
@@ -531,6 +551,30 @@ The final will be held on July 22 and the 23rd is reserved for the 23rd.
 [Data](articles/9d655e47.json)
 
 [Extended Data](ext_articles/9d655e47.ext.json)
+
+---
+
+### 'මල් වට්ටි, පන්සල් දේශපාලනය' නොමැතිව ජනාධිපතිවරණය ජයගත නොහැකි ද?
+
+*2024-06-27 04:02:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd11r2vdkydo) · `si`
+
+ශ්‍රී ලංකාවට බුදුදහම හඳුන්වා දුන් දේවානම්පිය තිස්ස රජ සමයේ සිට මෙරට රාජ්‍ය පාලනය සහ බුද්ධාගම අතර අත්‍යන්ත බැඳීමක් පැවතුණු බවට ඉතිහාසය සාක්ෂි දරයි.
+
+ඒ අනුව, ලක්දිව පාලනය කළ රජවරුන් බුදුදහම වැළඳ ගැනීම හේතුවෙන් සාමාන්‍ය වැසියන් ද ඒ අනුව ක්‍රියා කළ බව පෙනී යයි.
+
+නිශ්චිත ආගමික හික්මීමක් නොතිබූ ලක්දිව ශිෂ්ටසම්පන්න සමාජයක් ගොඩ නැගීම සඳහා බුදුදහම ඍජුව බලපෑ බව ඉතිහාසඥයින් මෙන් ම පුරාවිද්‍යාඥයින් ද පෙන්වා දී තිබේ.
+
+ශ්‍රී ලංකා ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව ජනපති බෞද්ධ විය යුතුම ද?
+
+ක්‍රිස්තු පූර්ව 4 වන සියවසේදී පමණ ශ්‍රී ලංකාවට රැ‌ගෙන එන ලද දන්ත ධාතුව පසුව ලක්දිව රාජ්‍යත්වයේ සංකේතයක් බවට පත් විය.
+
+මුල් කාලීනව  දන්ත ධාතුව ආරක්ෂා කිරීම ලක්දිව පාලනය කරන රජුට පැවරුණු අතර, පසුකාලීනව එය රාජ්‍යත්වය ආරක්ෂා කර ගැනීමේ සංකේතයක් බවට පත්වූ බව පෙනේ.
+
+මේ අතර, රට එක්සේසත් කිරීම සඳහා එළාර රජුට එරෙහිව දුටුගැමුණු කුමරු ගෙන ගිය සටනට භික්ෂූන් වහන්සේගේ ඍජු ආශීර්වාදය ලැබුණු බව ඉතිහාස මූලාශ්‍රවල සඳහන් කරුණු අනුව පෙනී යයි.
+
+...
+
+[Data](articles/8362897d.json)
 
 ---
 
@@ -2215,51 +2259,5 @@ A bond maturing on 01.12.2031 closed at 12.05/25 percent, from 12.10/20 percent.
 [Data](articles/b03dd5a2.json)
 
 [Extended Data](ext_articles/b03dd5a2.ext.json)
-
----
-
-### Sri Lanka stocks close down, retail investors hold back
-
-*2024-06-26 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-retail-investors-hold-back-169660/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader All Share Index closed down 0.10 percent, or 12.19 points, at 12,261; while the more liquid S&P SL20 Index closed down 0.02 percent, or 0.80 points, at 3,628.
-
-Turnover was 1.8 billion. Six crossings contributed to about 40 percent of the turnover.
-
-Most of this came from crossings on Windforce Plc (flat at 19.50), Central Finance Company Plc (up at 120.00), and Hayleys Plc (up at 106.50).
-
-Commercial Bank of Ceylon Plc was the biggest contributor to the ASPI. The share closed up at 107.00.
-
-Sri Lanka announced that it had reached a ‘final restructuring agreement’ on 5.8 billion US dollars of bilateral debt coming under an Official Creditor Committee in Paris.
-
-...
-
-[Data](articles/3127f653.json)
-
-[Extended Data](ext_articles/3127f653.ext.json)
-
----
-
-### 15 persons who protested against the liquor store in Trincomalee
-
-*2024-06-26 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/187040) · `ta`
-
-Fifteen protesters against a liquor store in Trincomalee's Muttur were arrested on Tuesday for unauthorized assembly, obstructing police duties, and assaulting officers. They were remanded until July 3rd by a magistrate.
-
-🟩
-
-Muttur police arrested 15 persons who were protesting against the liquor road in Muttur in Trincomalee on Tuesday (25).
-
-The Magistrate ordered the police to be remanded until July 3, after the persons were produced before the Muttur Court Magistrate today.
-
-The men were arrested on charges of gathering without permission, disrupting the duty of the police, and assaulting the police.
-
-◼️
-
-[Data](articles/8b8979a3.json)
-
-[Extended Data](ext_articles/8b8979a3.ext.json)
 
 ---

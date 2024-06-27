@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 20:05:05**
+As of **2024-06-27 20:19:32**
 
 ## Newspaper Stats
 
-*Scraped **32,508** Articles*
+*Scraped **32,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,65 @@ islandlk | 1,802
 economynextcom | 1,890
 dailyftlk | 1,988
 adalk | 2,883
-adaderanalk | 3,700
+adaderanalk | 3,701
 tamilmirrorlk | 3,835
 dailymirrorlk | 4,733
 virakesarilk | 5,056
-adaderanasinhalalk | 5,343
+adaderanasinhalalk | 5,344
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,507 (100.0%) of 32,508 articles have been extended.
+32,508 (100.0%) of 32,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### දුම්රිය ප්‍රමාදයක්
+### දෙවන අවසන් පූර්ව තරගයට වැස්සෙන් බාධා
+
+*2024-06-27 20:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198228) · `si`
+
+T20  ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ දෙවන අවසන් පූර්ව තරගය අද (27) පැවැත්වෙයි.
+
+තරගය ශ්‍රී ලංකා වේලාවෙන් අද රාත්‍රී 8ට ආරම්භ කිරීමට නියමිතව තිබුණත් වර්ෂාව හේතුවෙන් තරගයට බාධා එල්ලවී තිබේ.
+
+◼️
+
+[Data](articles/8911ac31.json)
+
+---
+
+### Train services on main line delayed
+
+*2024-06-27 19:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100148/train-services-on-main-line-delayed) · `en`
+
+Sri Lanka Railways has announced delays in train services on the main line due to a fault on the railway track near the Mirigama railway station.
+
+◼️
+
+[Data](articles/9a4f1957.json)
+
+---
+
+### Train delay
 
 *2024-06-27 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198227) · `si`
 
-ප්‍රධාන මාර්ගයේ දුම්රිය ප්‍රමාදයක් සිදුවී ඇති බව දුම්රිය සේවය පවසයි.
+A train delay occurred due to an issue near Mirigama Railway Station, disrupting railway services on the main road.
 
-මීරිගම දුම්රිය ස්ථානය ආසන්නයේ දුම්රිය මාර්ගයේ සිදුවූ ඇතිවූ දෝෂයක් හේතුවෙන් මෙම දුම්රිය ප්‍රමාදය ඇතිවී තිබෙන බව සඳහන් ය.
+🟩
+
+Railway service has taken place on the main road.
+
+The train was delayed due to an error near the railway station near the Mirigama Railway Station.
 
 ◼️
 
 [Data](articles/99ba9818.json)
+
+[Extended Data](ext_articles/99ba9818.ext.json)
 
 ---
 
@@ -2369,51 +2401,5 @@ It said this milestone demonstrates the strong progress made by Sri Lanka in sta
 [Data](articles/17a42d8f.json)
 
 [Extended Data](ext_articles/17a42d8f.ext.json)
-
----
-
-### A person death in a toilet in the bus
-
-*2024-06-27 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198201) · `si`
-
-A body was discovered in a public restroom at the Nuwara Eliya bus station. The police were alerted via phone call. An ambulance arrived in 1990 to transport the deceased to Nuwara Eliya Hospital for an autopsy.
-
-🟩
-
-The body of a dead person was found in the general toilet at the Nuwara Eliya bus stand.
-
-Police said that the toilet was initiated on a telephone call on a telephone call on the toilet.
-
-In 1990, the ambulance service has come to the death of the person.
-
-The body has been placed at the Nuwara Eliya Hospital for the emergency test.
-
-◼️
-
-[Data](articles/e64d20fb.json)
-
-[Extended Data](ext_articles/e64d20fb.ext.json)
-
----
-
-### Teachers and principals continue strike today
-
-*2024-06-27 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100132/teachers-and-principals-continue-strike-today) · `en`
-
-The teacher-principal trade unions are continuing their strike action today (27) as well, protesting against the firing of tear gas and water cannons to disperse their protest march in Colombo yesterday (26).
-
-The teacher-principal trade unions engaged in an island-wide trade union action by reporting sick leave yesterday (26) based on several demands. At the same time, the members of the trade union launched a protest in Colombo which commenced from near the Colombo Fort Railway Station.
-
-Police later resorted to using tear gas and water cannons to disperse the protesters near the Lotus Roundabout in Fort as they attempted to march towards the Presidential Secretariat.
-
-The strike had disrupted educational activities at schools across the country.
-
-Also, attendance in many schools was very low, and some students who came to school had to return home as they could not enter the premises, said Ada Derana reporter.
-
-...
-
-[Data](articles/3d4993fa.json)
-
-[Extended Data](ext_articles/3d4993fa.ext.json)
 
 ---

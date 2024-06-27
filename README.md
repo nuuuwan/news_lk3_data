@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 08:21:03**
+As of **2024-06-27 08:35:06**
 
 ## Newspaper Stats
 
@@ -26,35 +26,47 @@ adaderanasinhalalk | 5,316
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,382 (100.0%) of 32,387 articles have been extended.
+32,387 (100.0%) of 32,387 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### දකුණු අප්‍රිකාව අවසන් වටයට
+### South Africa to the last round
 
 *2024-06-27 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198200) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අවසන් වටයේ ඇෆගනිස්තානය සහ දකුණු අප්‍රිකාව අතර තරගය ජයග්‍රහණය කිරීමට දකුණු අප්‍රිකාව සමත්විය.
+In the final round of the World Cup, South Africa triumphed over Afghanistan, securing victory.
+
+🟩
+
+South Africa won the match between Afghanistan and South Africa in the final round of the World Cup.
 
 ◼️
 
 [Data](articles/4579d7a0.json)
 
+[Extended Data](ext_articles/4579d7a0.ext.json)
+
 ---
 
-### නැවත IMF නොයන බවට ජනපති කියයි
+### President says IMF will not go back
 
 *2024-06-27 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198199) · `si`
 
-තමන් වෙහෙසෙන්නේ නැවත කිසිදිනක ජාත්‍යන්තර මුල්‍ය අරමුදල හමුවට යාමට අවශ්‍ය නොවන ශක්තිමත් සහ විනයානුකූල දියුණු ආර්ථිකයක් රට තුළ ඇති කිරීමට බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe aims to build a robust, self-sufficient economy, avoiding reliance on IMF aid. He emphasizes the importance of fulfilling commitments to prevent past failures and seeks to leverage international confidence for economic growth, aiming for a future where such assistance is no longer needed.
 
-ඊයේ (26) රාත්‍රියේ විශේෂ ප්‍රකාශයක් සිදුකරමින් ජනාධිපතිවරයා සඳහන් කර සිටියේ, මීට පෙර අවස්ථා 16ක දී ජාත්‍යන්තර මූල්‍ය අරමුදලේ සහාය ලබාගෙන ඇති නමුත් ඒ සෑම වතාවක දීම ශ්‍රී ලංකාව අසාර්ථක වී ඇති බවය.
+🟩
+
+President Ranil Wickremesinghe says he is trying to create a strong and disciplined economy that never needs to go to the International Monetary Fund.
+
+The President had made a special statement last night (26).
 
 ...
 
 [Data](articles/3320102b.json)
+
+[Extended Data](ext_articles/3320102b.ext.json)
 
 ---
 
@@ -362,21 +374,27 @@ On the other hand, South Africa, who won all the tournament in the T -groups and
 
 ---
 
-### கென்யாவில் ஆர்ப்பாட்டம்: 23 பேர் உயிரிழப்பு
+### Demonstration in Kenya: 23 people die
 
 *2024-06-27 01:49:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கென்யாவில்-ஆர்ப்பாட்டம்-23-பேர்-உயிரிழப்பு/50-339504) · `ta`
 
-கென்யாவில் இடம்பெற்ற ஆர்ப்பாட்டத்தின் போது ஏற்பட்ட மோதலில் சிக்கி இதுவரையில் 23 பேர் உயிரிழந்துள்ளனர். பெருந்திரளானோர் காயமடைந்துள்ளனர்.
+In Kenya, a demonstration against a new taxation and financial bill turned violent, resulting in 23 deaths and numerous injuries. The protest focused on the VAT increase on essentials, leading to clashes.
 
-புதிய வரி விதிப்பு சட்டமூலத்திற்கு எதிர்ப்பு  தெரிவித்தும் சர்ச்சைக்குரிய நிதி சட்டமூலத்திற்கு எதிர்ப்பு தெரிவித்தும் இந்த ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது.
+🟩
 
-புதிய நிதி சட்டமூலத்திற்கு அமைய பல அத்தியாவசிய சேவைகள் மற்றும் பொருள்களுக்கு பெறுமதி சேர் வரி விதிக்கப்பட்டமையே கென்ய ஆர்ப்பாட்டத்திற்கான காரணமாகும்.
+23 people have been killed in a clash during a demonstration in Kenya. Many people have been injured.
 
-சட்டமூலத்தை நிறைவேற்றிக் கொண்டதன் பின்னர் பாராளுமன்ற உறுப்பினர்கள் இரகசிய பதுங்கு குழி வழியாக அங்கிருந்து வெளியேறியுள்ளனர்.
+The demonstration was launched in protest of the new taxation bill and the controversial financial bill.
+
+The reason for the Kenyan demonstration is the imposition of the value added tax on many essential services and goods in accordance with the new financial bill.
+
+After passing the bill, MPs have left the secret bunker.
 
 ◼️
 
 [Data](articles/093120dd.json)
+
+[Extended Data](ext_articles/093120dd.ext.json)
 
 ---
 
@@ -1176,19 +1194,25 @@ Sri Lanka has announced that he has resigned from his post immediately. Remble
 
 ---
 
-### ’පොහොට්ටුවෙන් අපේක්ෂකයෙක්’ පෝස්ටරය කැලෑ පෝස්ටරයක්
+### A capture of a capture 'a candider' a jungle poster
 
 *2024-06-26 19:44:17* · [`adalk`](https://www.ada.lk/breaking_news/’පොහොට්ටුවෙන්-අපේක්ෂකයෙක්’-පෝස්ටරය-කැලෑ-පෝස්ටරයක්/11-410463) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් ඉදිරිපත් වන ජනාධිපති අපේක්ෂයා පිළිබඳව මෙතෙක් තීරණය කර නොමැති බව පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතා පැවසීය.
+Mahindananda Aluthgamage, a parliamentarian, hasn't chosen a presidential candidate from the Sri Lanka Civil Front yet. A candidate mentioned in a jungle poster claims responsibility for the general forest. Aluthgamage, speaking in Colombo, hinted at the unpredictability of the upcoming race.
 
-තමන් පොදුජන පෙරමුණේ සාමාජිකයෙකු ලෙස වගකීමෙන් එය ප්‍රකාශ කරන බවත්, මේ වන විට රට පුරා අලවා ඇති පොහොට්ටුවෙන් අපේක්ෂකයෙක් පෝස්ටරය 'කැලෑ පෝස්ටරයක්' බවත් හෙතෙම සඳහන් කළේය.
+🟩
 
-අලුත්ගමගේ මහතා මේ බව පැවසුවේ අද (26දා) කොළඹ දී පැවති මාධ්‍ය හමුවකදීය. පොහොට්ටුවේ සහාය දිනන අපේක්ෂකයාට බව ද ඔහු කීවේය.
+Parliamentarian Mahindananda Aluthgamage said that he has not yet been decided on the presidential candidate presented by the Sri Lanka Civil Front.
+
+A candidate is a candidate and said that the poster is a candidate, a candidate, said that he was responsible for the general forest.
+
+Mr. Aluthgamage made this statement at a press conference held in Colombo today (26). He also said that the candidate to win the rhost.
 
 ◼️
 
 [Data](articles/e920819e.json)
+
+[Extended Data](ext_articles/e920819e.ext.json)
 
 ---
 
@@ -1643,6 +1667,8 @@ Over the past two years, we have worked diligently to reach agreements with our 
 ...
 
 [Data](articles/3cbef80b.json)
+
+[Extended Data](ext_articles/3cbef80b.ext.json)
 
 ---
 

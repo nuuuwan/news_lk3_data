@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 12:07:48**
+As of **2024-06-27 12:19:34**
 
 ## Newspaper Stats
 
-*Scraped **32,424** Articles*
+*Scraped **32,427** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,802
 economynextcom | 1,887
 dailyftlk | 1,988
-adalk | 2,867
+adalk | 2,870
 adaderanalk | 3,690
 tamilmirrorlk | 3,828
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,422 (100.0%) of 32,424 articles have been extended.
+32,422 (100.0%) of 32,427 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -107,6 +107,28 @@ There are complaints that caste leaders in the village are excluding romantic ma
 [Data](articles/b7f20973.json)
 
 [Extended Data](ext_articles/b7f20973.ext.json)
+
+---
+
+### මිටර් 100ක් ඇතුළත දුම්රියේ ගැටී දෙදෙනෙක් ජිවිතක්ෂයට
+
+*2024-06-27 11:06:12* · [`adalk`](https://www.ada.lk/breaking_news/මිටර්-100ක්-ඇතුළත-දුම්රියේ-ගැටී-දෙදෙනෙක්-ජිවිතක්ෂයට/11-410473) · `si`
+
+මුහුදු බඩ දුම්‍රිය මාර්ගයේ ඉදුරුව අතුරුවැල්ල ප්‍රදේශයේදී අද (27)උදේ පැය හතරක් පමණ ඇතුළත මීටර් සියයක් අතර දුරකදී දෙදෙනෙකු දුම්රියේ හැපී මරුමුවට පත්වී ඇතැයි කොස්ගොඩ පොලීසිය කියයි.
+
+මෙසේ දුම්රියේ හැපී මිය ගොස් ඇත්තේ ඉදුරුව අතුරුවැල්ල ප්‍රදේශයේම පදිංචි තිස්පස් හැවිරිදි හා හැට හැවිරිදි පිරිමි අයවලුන් දෙදෙනෙක් බවද පොලීසිය කියයි.
+
+මේ දෙදෙනා අතරින් අද අලුයම් කාලයේ තිස් පස් හැවිරිදි පුද්ගලයා කොළඹ සිට මාතර බලා ධාවනය වෙමින් තිබූ දුම්රියකද හැට හැවිරිදි අය අද උදේ බෙලිඅත්තේ සිට කොළඹ බලා ධාවනය වෙමින් තිබූ දුම්රියකද හැපී මරුමුවට පත්වී ඇති බව ද පොලීසිය කියයි.
+
+මේ දෙදෙනාම දුම්රියේ හැපී ඇත්තේ ඉදුරුව අතුරුවැල්ල ප්‍රදේශයේ දුම්රිය මගෙහි මීටර් සියයක් දුර අතර බව ද පොලීසිය කියයි.
+
+දෙදෙනාම දුම්රියට පැන සිය දිවි හානි කර ගත්තේද නැතහොත් වෙනයම් හේතුවක් නිසා ඔවුන් දෙදෙනාම දුම්රියේ හැපී මියගියේ දැයි යන්න පිළිබදව සොයා බැලීමට පරීක්ෂණ ආරම්භ කළ බව ද පොලීසිය කියයි.
+
+මේ දුම්රිය අනතුරින් මිය ගිය දෙදෙනාගේම මරණ පරීක්ෂණ අද දහවල් බලපිටිය මූලික රෝහලේදී පැවැත්වීමට නියමිතව තිබිණ.
+
+◼️
+
+[Data](articles/4389c40c.json)
 
 ---
 
@@ -1816,6 +1838,24 @@ Speaking on the role of Mahela, SLC announced that he contributed significant ch
 
 ---
 
+### මහනුවර ඇසළ පෙරහර මංගල්‍ය අගෝස්තු 05දා ඇරඹෙයි
+
+*2024-06-26 20:10:49* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-ඇසළ-පෙරහර-මංගල්‍ය-අගෝස්තු-05දා-ඇරඹෙයි/11-410468) · `si`
+
+මෙවර කන්ද උඩරට ඇසළ පෙරහර මංගල්‍යය අගෝස්තු මස 05වැනිදා සිට අගෝස්තු මස 21 වැනි දින දක්වා පැවැත්වීමට නියමිත බව ශ්‍රී දළදා මාලිගාවේ දියවඩන නිලමේ ප්‍රදීප් නිලංග දෑල මහතා නිල වශයෙන් ප්‍රකාශයට පත් කළේය .
+
+ශ්‍රී දළදා මාළිගාවේ බහු කාර්ය ගොඩනැගිල්ලේදී ඊයේ (26දා) පැවති පෙරහර සාකච්ඡාවේදී නිලමේවරයාඒ බව ප්‍රකාශයට පත් කළේය .
+
+අගෝස්තු මස 05 දින අලුයම 4.10 ට යෙදෙන සුබ මුහුර්තියෙන් සිව් මහා දේවාලයන්හි කප් සිටුවා අභ්‍යන්තර පෙරහැර පවත්වා අගෝස්තු මස 10 දින ප්‍රථම කුඹල් පෙරහැර වීදි සංචාරය කිරීමට නියමිත අතර අගෝස්තු මස 15 දින ප්‍රථම රන්දෝලි පෙරහර වීදි සංචාරය කිරීමට නියමිතය .
+
+අගෝස්තු මස 20වැනි දා ඇසළ පුන් පොහෝදින රන්දෝලි මහ පෙරහර වීදි සංචාරය කිරීමට නියමිතය.අගෝස්තු මස 21 දින දවල් පෙරහර වීදි සංචාරය කිරීමෙන් අනතුරුව ඇසළ පෙරහර මංගල්‍යය නිමා වීමට නියමිතය .
+
+◼️
+
+[Data](articles/981fe778.json)
+
+---
+
 ### President urges all MPs to help ratify agreements with creditor nations
 
 *2024-06-26 20:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100126/president-urges-all-mps-to-help-ratify-agreements-with-creditor-nations) · `en`
@@ -1861,6 +1901,24 @@ He stated that the necessary formal procedures are currently being implemented.
 [Data](articles/a4d078d3.json)
 
 [Extended Data](ext_articles/a4d078d3.ext.json)
+
+---
+
+### තෙල් පිරිපහදුව රජයට අයත් වෙනම ආයතනයක් කරයි
+
+*2024-06-26 20:03:46* · [`adalk`](https://www.ada.lk/breaking_news/තෙල්-පිරිපහදුව-රජයට-අයත්-වෙනම-ආයතනයක්-කරයි/11-410467) · `si`
+
+ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ ප්‍රතිව්‍යුහගත කිරීමේ කටයුතු අවසන් අදියරට පැමිණ ඇති බව බලශක්ති අමාත්‍යාංශය පවසයි. ඒ අනුව ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවට අයත් තෙල් පිරිපහදුව, රජයට අයත් වෙනම ආයතනයක් ලෙස ස්ථාපිත කර ඉන්ධන ප්‍රමිතිය වැඩි කිරීමට, කාර්යක්ෂමතාව වැඩි කිරීමට, ධාරිතාව වැඩි කිරීමට සහ පිරිවැය අඩු කිරීමට අවශ්‍ය මුල්‍ය ආයෝජන ලබා ගැනීමට නියමිතය.
+
+එමෙන්ම ඛනිජ තෙල් නීතිගත සංස්ථාවේ වත්මන් අනුමත සේවකයන් සංඛ්‍යාව අවශ්‍යතාව අනුව සංශෝධනය කිරීමට සහ නව වැටුප් තල සකස් කිරීමත් සේවා සහ කාර්ය ඩිජිටල්කරණයට ලක් කිරීමත් මෙමගින් සිදු කිරීමට යෝජිතය.
+
+මෙම වැඩපිළිවෙළේ කාලරාමුව සහ ක්‍රියාත්මක කිරීමේ වැඩකටයුතු සම්බන්ධයෙන් විශේෂ සාකච්ඡාවක් ඛනිජ තෙල් සංස්ථාවේ හා තෙල් පිරිපහදුවේ ඉහෙළ කළමනාකාරිත්වය සමග පැවැත්වීය.
+
+මේ අතර ත්‍රිකුණාමලය තෙල් ටැංකි පර්‍යන්තයේ සංවර්ධන සැලසුම සහ එම වැඩපිළිවෙළේ ප්‍රගතිය සමාලෝචනය කිරීමේ සාකච්ඡාවක් ත්‍රිකුණාමලය තෙල් ටැංකි පර්යන්ත සමාගමේ කළමනාකාරිත්වය සමග පැවැත්විණ. එම සමාගම, ඛනිජ තෙල් නීතිගත සංස්ථාවේ හා ලංකා ඉන්දියානු ඉන්ධන සමාගමේ ඒකාබද්ධ ව්‍යාපෘතියක් වන අතර එහි තෙල් ටැංකි 61 ක් අන්තර්ගතවේ.
+
+...
+
+[Data](articles/7adac26c.json)
 
 ---
 
@@ -2205,81 +2263,5 @@ Two of the three hospitalized were leaving a while, and others were returning to
 [Data](articles/c9df1264.json)
 
 [Extended Data](ext_articles/c9df1264.ext.json)
-
----
-
-### Debt Reorganization: Sri Lanka reached its final position with Chinese Exim Bank
-
-*2024-06-26 19:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/187052) · `ta`
-
-Sri Lanka finalized a debt relief agreement with China's Exim Bank worth $4.2 billion, aimed at alleviating the country's financial strain and redirecting funds towards essential public services and infrastructure improvements. The agreement was signed in Beijing and Colombo, with key figures from both nations present.
-
-🟩
-
-Sri Lanka reached the final agreement in Beijing on Wednesday, 26th of Wednesday with China's Exim Bank on Debt Relief.
-
-The events of the Memorandum of Understanding (Memorandum of Understanding for US $ 4.2 billion) between Chinese Exim Bank and Sri Lanka were held in Beijing and Colombo shortly before.
-
-This restructuring will provide significant relief to Sri Lanka and provide more funds for essential public services and to obtain concession -based financial facilities to improve the country's implication facilities.
-
-Sri Lankan Ambassador to China Majinda Jayasinghe signed a Memorandum of Understanding (MoU) at the Sri Lankan embassy in China
-
-The Chinese Ambassador to Sri Lanka then at the Chinese embassy in Sri Lanka, Qi Zhenhong and Treasury Assistant Secretary AK. It is noteworthy that Seneviratne exchanged Memorandum of Understanding.
-
-◼️
-
-[Data](articles/d4b72a34.json)
-
-[Extended Data](ext_articles/d4b72a34.ext.json)
-
----
-
-### Chinese Exim Bank concludes with restructuring of credit
-
-*2024-06-26 19:19:12* · [`adalk`](https://www.ada.lk/breaking_news/චීන-එක්සිම්-බැංකුව-සමගත්-ණය-ප්‍රතිව්‍යුහගතකරණය-ගැන-එකඟතාවකට-එයි/11-410458) · `si`
-
-Sri Lanka has finalized debt restructuring agreements with its major official bilateral creditors and China's Exim Bank, totaling US $10 billion. This includes loans from Japan, India, France, among others, marking the end of loan agreements with these creditors.
-
-🟩
-
-Sri Lanka has ended the final agreement with the official creditors' committee, completing the restructuring discussions with its major official bilateral creditors in Paris this morning.
-
-Sri Lanka has also reached China's Exim Bank of China today with respect to the restructuring of debt.
-
-With these agreements, Sri Lanka has ended the agreement of loans for its major official bilateral creditors.
-
-Japan, India and France were accused of the skin. Australia, Austria, Belgium, Canada, Denmark, Germany, Netherlands, Netherlands, Russia, the United Kingdom and the USA are the other members of the official creditors.
-
-The combined value of the loans to be restructured through official creditors and Chinese Exim Bank is US $ 10 billion.
-
-◼️
-
-[Data](articles/98710760.json)
-
-[Extended Data](ext_articles/98710760.ext.json)
-
----
-
-### ICC sympathy for Duckworth's demise
-
-*2024-06-26 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/187053) · `ta`
-
-The ICC mourns the loss of Frank Duckworth, co-creator of the Duckworth-Lewis system, which determines outcomes in rain-affected cricket matches. Duckworth, aged 84, passed away recently after serving as a statistical consultant at the ICC until 2014. His contributions to cricket, particularly through the DLS, have been hailed as crucial, with the system being used in international cricket for over two decades. Tony Lewis was the other key figure behind the DLS. The cricket community extends its condolences to Duckworth's family and friends.
-
-🟩
-
-The International Cricket Council has expressed its deepest sympathy for the demise of one of the creators of the Duckworth Lewis system, one of the creators of the Duckworth Lewis system to determine the winning teams in internationally limited over -cricket matches affected by inclement weather.
-
-Duckworth, who worked as a statistical consultant at the International Cricket Council until 2014, passed away last Friday at the age of 84.
-
-ICC General Manager Wasim Khan, who praised Dougrew's service, has expressed his deepest sympathies in the absence of Annara's death.
-
-'Frank performed his duty as a statistical expert. He respected him with his colleagues and the cricket family. The Duckworth Louis System (DLS) system he created was the need for the period of time. We have been using it in international cricket for more than two decades.
-
-...
-
-[Data](articles/8c1c443e.json)
-
-[Extended Data](ext_articles/8c1c443e.ext.json)
 
 ---

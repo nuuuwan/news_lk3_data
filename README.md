@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 19:04:44**
+As of **2024-06-27 19:19:39**
 
 ## Newspaper Stats
 
-*Scraped **32,502** Articles*
+*Scraped **32,503** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,890
 dailyftlk | 1,988
 adalk | 2,883
 adaderanalk | 3,700
-tamilmirrorlk | 3,834
+tamilmirrorlk | 3,835
 dailymirrorlk | 4,733
 virakesarilk | 5,054
 adaderanasinhalalk | 5,340
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,340
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,500 (100.0%) of 32,502 articles have been extended.
+32,502 (100.0%) of 32,503 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### 60 இந்திய பிரஜைகள் அதிரடி கைது
+
+*2024-06-27 18:59:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/60-இந்திய-பிரஜைகள்-அதிரடி-கைது/175-339541) · `ta`
+
+இவர்கள் தலங்கம, மாத்திவெல மற்றும் நீர்கொழும்பு பகுதிகளில் இணையத்தின் மூலம் மோசடியில் ஈடுபட்ட நிலையில், குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+குறித்த நபர்கள் கைது செய்யப்பட்ட போது, ​​135 கையடக்கத் தொலைபேசிகள் மற்றும் 57 மடிக்கணினிகள் குற்றப் புலனாய்வுப் பிரிவினரால் கைப்பற்றப்பட்டுள்ளன. R
+
+◼️
+
+[Data](articles/838c557e.json)
+
+---
 
 ### 60 Indians arrested as CID busts massive online financial scam
 
@@ -43,6 +57,8 @@ The suspects have been arrested from Thalangama, Madiwela and Negombo areas whil
 ◼️
 
 [Data](articles/ee086bed.json)
+
+[Extended Data](ext_articles/ee086bed.ext.json)
 
 ---
 
@@ -68,19 +84,25 @@ At the time of his arrest, 135 mobile phones and 57 laptops were taken into cust
 
 ---
 
-### மேல் கொத்மலை நீர்த்தேக்கத்தின் வான்கதவு திறப்பு
+### The opening of the top Kothmalai reservoir
 
 *2024-06-27 18:18:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேல்-கொத்மலை-நீர்த்தேக்கத்தின்-வான்கதவு-திறப்பு/175-339540) · `ta`
 
-அதிக மழை காரணமாக மேல் கொத்மலை நீர்த்தேக்கத்தின் வான்கதவு ஒன்று இன்று (27) திறக்கப்பட்டுள்ளது.
+Heavy rains led to the opening of part of the Upper Kotmale reservoir on 27th. More sections may open if it continues raining. The Nuwara Eliya District Disaster Management Division advises caution.
 
-அந்த பகுதிகளில் மேலும் மழை பெய்தால் நீர்த்தேக்கத்தின் ஏனைய வான்கதவுகள் திறக்கப்படுமென தெரிவிக்கப்படுகிறது.
+🟩
 
-இது தொடர்பில் மக்களை அவதானமாக இருக்குமாறு நுவரெலியா மாவட்ட அனர்த்த முகாமைத்துவப் பிரிவு கேட்டுக்கொண்டுள்ளது. R
+Due to heavy rains, a skillet of the Upper Kotmale reservoir has been opened today (27).
+
+It is reported that the rest of the reservoir will open if it rains in those areas.
+
+The Nuwara Eliya District Disaster Management Division has asked people to be vigilant in this regard. Remble
 
 ◼️
 
 [Data](articles/1732ebb9.json)
+
+[Extended Data](ext_articles/1732ebb9.ext.json)
 
 ---
 
@@ -2381,27 +2403,5 @@ Accordingly, we publishes a national week to implement the youth agro-entreprene
 [Data](articles/436a5670.json)
 
 [Extended Data](ext_articles/436a5670.ext.json)
-
----
-
-### South Africa for first cup final
-
-*2024-06-27 08:35:24* · [`adalk`](https://www.ada.lk/sports/දකුණු-අප්‍රිකාව-පළමුවරට-ලෝක-කුසලාන-අවසන්-මහ-තරගයකට/9-410470) · `si`
-
-In the Twenty20 World Cup final, South Africa faced off against the South Afghan group. Despite winning the toss and setting a low target of 56 runs, South Africa fell short, losing with just one wicket remaining in 8.5 overs. This marked an unfortunate end to their World Cup journey.
-
-🟩
-
-South Afghan group easily won the final match of the Twenty20 World Cup.
-
-The Afghan group who first won the coin in the semi final only 56 runs.
-
-South Africa beat the target to pass only one wicket in 8.5 overs. The South African team, which is unfortunate as an unfortunate juncture of the World Cup competition, is eligible for the final game of the World Cup.
-
-◼️
-
-[Data](articles/bb404c81.json)
-
-[Extended Data](ext_articles/bb404c81.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 15:34:53**
+As of **2024-06-27 15:54:03**
 
 ## Newspaper Stats
 
-*Scraped **32,469** Articles*
+*Scraped **32,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 islandlk | 1,802
 economynextcom | 1,890
 dailyftlk | 1,988
-adalk | 2,876
+adalk | 2,878
 adaderanalk | 3,696
 tamilmirrorlk | 3,832
 dailymirrorlk | 4,733
 virakesarilk | 5,044
-adaderanasinhalalk | 5,331
+adaderanasinhalalk | 5,332
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,467 (100.0%) of 32,469 articles have been extended.
+32,469 (100.0%) of 32,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### අසපුවට පූජා කරන ලද ටිපර් රථය අනතුරට ලක් වී මහණදම් පිරීම සඳහා සූදානම්ව සිටි අයෙක් මරුට
+
+*2024-06-27 15:17:43* · [`adalk`](https://www.ada.lk/breaking_news/අසපුවට-පූජා-කරන-ලද-ටිපර්-රථය-අනතුරට-ලක්-වී-මහණදම්-පිරීම-සඳහා-සූදානම්ව-සිටි-අයෙක්-මරුට/11-410478) · `si`
+
+ඉංගිරිය නාච්චි මලේ අසපුවක මහණදම් පිරීම සඳහා සූදානම්ව සිටි තිදෙනකු ගමන්ගත් ටිපර් ඉංගිරිය පාදුක්ක මාර්ගයේ ශාන්ත පීතර හන්දිය ආසන්නයේදී අනතුරට ලක්වීමෙන් එක් අයකු මිය ගොස් තවත් අයෙක් බරපතල තුවාල ලැබූ බව ඉංගිරිය පොලිසිය කියයි.
+
+අනතුරින් මියගොස් ඇත්තේ අට කලම්පන්න නදුන්  ඇල්ල පොතුවිල් පාර පදිංචිව සිටි එන් ඒ කසුන් සමීර උපශාන්ත නැමැති 32 හැවිරිදි පුද්ගලයෙකි.
+
+අනතුර වන අවස්ථාවේදී එම ස්ථානයෙන් ගමන් කරමින් සිටි හොරණ මූලික රෝහලේ හදිසි ප්‍රතිකාර ඒකකය භාර විශේෂඥ වෛද්‍ය ඉසුරු ගයාන් අබේවර්ධන මහතා  ස්ථානයට පැමිණ ප්‍රදේශවාසීන් සමග එක්ව ටිපර් රථයට කාණුව අතර සිරවී  බරපතල තුවාල ලබා සිටි  පුද්ගලයා පිටතට ගෙන ඔහුගේ ජීවිතය බේරා ගැනීම සඳහා කෘතිම ශ්වසනය ලබා දී දැඩි උත්සාහයක් ගෙන අනතුරුව රෝගියා  රැගෙන පැමිණි වෑන් රථයේ නැගී  ඉංගිරිය රෝහල කරා පැමිණද එහිදී මූලික ප්‍රතිකාර ලබාදී  අනතුරුව හොරණ මූලික රෝහල කරාද රැගෙන විත් තිබූ බව පොලිසිය කියයි.
+
+එලෙස රැගෙනා රෝගියාගේ දිවි බේරා ගැනීම සඳහා එම   වෛද්‍යවරයා ඇතුළු වෛද්‍යවරු පිරිසක් දැඩි උත්සාහ ගත්තද ඔහු මියගිය බව පොලිසිය සඳහන් කරයි.
+
+...
+
+[Data](articles/e63e2f24.json)
+
+---
 
 ### President warns of measures to designate teaching as an essential service
 
@@ -48,6 +66,30 @@ President Wickremesinghe visited the Chief Prelate of the Malwatu Chapter Most V
 
 [Data](articles/4a01d311.json)
 
+[Extended Data](ext_articles/4a01d311.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවේ කැපවීම ලෝකයම අගය කරයි
+
+*2024-06-27 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198216) · `si`
+
+ශ්‍රී ලංකාව තිරසාර වර්ධන මාවතකට අවතීර්ණ කිරීම සඳහා මෙරට බලධාරීන් අවශ්‍ය ප්‍රතිසංස්කරණ ක්‍රියාවට නැංවීමට දරන ප්‍රයත්නය ප්‍රශංසනීය බව ශ්‍රී ලංකා ණය හිමි කමිටුව ඇතුළත් පැරිස් සමාජය පවසයි.
+
+ශ්‍රී ලංකාව ඊයේ එළැඹි ණය ප්‍රතිව්‍යුහගතකරණ ගිවිසුම් සම්බන්ධයෙන් ඉන්දියාව සහ මෙරට අමෙරිකානු තානාපතිනියද අද (27) සිය ප්‍රසාදය පළ කර තිබේ.
+
+ඉන්දීය විදේශ කටයුතු අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසන්නේ ශ්‍රී ලංකාවේ ආර්ථික පුනර්ජීවනය, වර්ධනය සහ ස්ථාවරත්වය උදාකරලීම උදෙසා නොසැලී කැපවී සිටින බවය.
+
+එසේම ශ්‍රී ලංකාවේ අමෙරිකානු තානාපතිනි ජුලි චන්ග් මහත්මියද ඊයේ ශ්‍රී ලංකාව එළඹුණු ණය ප්‍රතිව්‍යුහගතකරණ ගිවිසුම් අමෙරිකාව සාදරයෙන් පිළිගන්නා බව X අවකාශයේ සටහනක් තබමින් සඳහන් කර තිබේ.
+
+එම ගිවිසුම් මෙරට මූල්‍ය පරිසරය පිළිබද විශ්වාසයක් ගොඩනැංවීමට ඉවහල්වන බව ඇය තැබූ සටහනේ සඳහන් ය.
+
+මේ අතර මෙරට නිල ණය හිමියන්ගේ කමිටුවට අයත් පැරිස් සමාජය නිකුත් කළ නිවේදනයේ දැක්වෙන්නේ ශ්‍රී ලංකාව තිරසාර වර්ධන මාවතකට අවතීර්ණ කිරීම සඳහා මෙරට බලධාරීන් අවශ්‍ය ප්‍රතිසංස්කරණ ක්‍රියාවට නැංවීමට දරන ප්‍රයත්නය ප්‍රශංසනීය බවය.
+
+...
+
+[Data](articles/e5fc221d.json)
+
 ---
 
 ### Keheliya’s writ petition fixed for further consideration
@@ -63,6 +105,8 @@ When the case was taken for consideration today (27), Deputy Solicitor General N
 ◼️
 
 [Data](articles/9c4e8b77.json)
+
+[Extended Data](ext_articles/9c4e8b77.ext.json)
 
 ---
 
@@ -735,6 +779,24 @@ President Ranil Wickremesinghe has come to Kandy and paid homage to the Sri Dala
 [Data](articles/6d346bbf.json)
 
 [Extended Data](ext_articles/6d346bbf.ext.json)
+
+---
+
+### නුවරඑළිය බස් නැවතුමේ පොදු වැසිකිළියට ගිය දෙදෙනෙක් මරුට
+
+*2024-06-27 12:13:36* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑළිය-බස්-නැවතුමේ-පොදු-වැසිකිළියට-ගිය-දෙදෙනෙක්-මරුට/11-410475) · `si`
+
+නුවරඑලිය මහ නගර සභාව යටතේ පාලනය වන නුවරඑලිය බස් නැවතුම්පොලේ පිහිටි පොදු වැසිකිලිය වෙත ගිය පුද්ගලයන් දෙදෙනෙකු අභිරහස් ලෙස මියගොස් ඇති බව නුවරඑලිය මුලස්ථාන පොලිසියේ ප්‍රධාන පොලිස් පරික්ෂක ප්‍රේමලාල් හෙට්ටිආරච්චි මහතා පැවසිය.
+
+(26) දින පස්වරුවේ නුවරඑලිය ප්‍රදේශයේ පදිංචි අවු 72 හැවිරිදි පුද්ගලයෙකු වැසිකිලයට ගිය අවස්තාවේ එම පුද්ගලයා වැසිකිලිය තුලදිම මියගොස් ඇති බවත්, බගවන්තලාව ප්‍රදේශයේ පදිංචි අවු 60 වයසැති පුද්ගලයෙකු (27) දින උදැසන 8 ට එම වැසිකිලියට ගිය අවස්තාවේ මියගොස් ඇති බවයි මුලස්ථාන ප්‍රධාන පොලිස් පරික්ෂකවරයා කියා සිටියේ.
+
+අභිරහස් ලෙස මියගිය දෙදෙනාගේ සිරුරු පශ්චාත් මරණ පරික්ෂණය සදහා නුවරඑලිය දිස්ත්‍රික් මහ රෝහලේ අධිකරණ වෛද්‍යවරයා වෙත යොමු කර ඇති බවත්, නුවරඑලිය සෞඛ්‍ය වෛද්‍ය නිලධාරිවරයාගේද සහය ඇතිව විමර්ෂණයක් සිදු කරන තෙක් එම වැසිකිලිය මුද්‍රා තැබිමට පියවර ගෙන ඇති බවද ප්‍රධාන පොලිස් පරික්ෂකවරයා පැවසිය.
+
+එම වැසිකිලිය තුලින් දැඩි දුගන්ධයක් හමන බවත්, ඒ පිලිබදව විමර්ෂණ කටයුතු වල අවධානය යොමු වි ඇති බවයි ප්‍රධාන පොලිස් පරික්ෂකවරයා කියා සිටියේ.
+
+◼️
+
+[Data](articles/7f2beb2d.json)
 
 ---
 
@@ -2301,65 +2363,5 @@ We are all aware of the risks associated with choosing the wrong path. Individua
 [Data](articles/661ae823.json)
 
 [Extended Data](ext_articles/661ae823.ext.json)
-
----
-
-### Ranasinghe  Premadasa: Sri Lanka’s Solitary non-Govigama Prime Minister and President
-
-*2024-06-27 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84279) · `en`
-
-India, the world’s biggest democracy, held Parliamentary elections this year in seven phases from 19 April to 1 June. 642 million persons voted in the poll. Results were announced on 4 June. The incumbent Prime Minister Narendra Modi was re-elected PM for the third time. His party the Bharatiya Janata Party (BJP) won 240 of 572 Lok Sabha or Parliament seats. Together with allied parties the BJP led National Democratic Alliance (NDA) obtained 293 seats in Parliament.
-
-The election results have been continuously analysed and commented upon from the time of the poll. A significant aspect of these analyses and commentaries is the “caste factor”. Indian analysts and commentators are not “shy” about discussing caste openly when dissecting poll results. It is an acknowledged fact in India that caste plays a very influential role in determining the outcome of elections in many electorates, regions or states. Many Indians delve into the “caste in elections” topic without any inhibitions.
-
-...
-
-[Data](articles/b4f24621.json)
-
-[Extended Data](ext_articles/b4f24621.ext.json)
-
----
-
-### Success in the Debt Reorganization Agreement
-
-*2024-06-27 01:01:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-மறுசீரமைப்பு-உடன்பாடு-வெற்றி/175-339501) · `ta`
-
-Sri Lanka has finalized debt restructuring agreements with key creditors, including China's Exim Bank, leading to significant loan relief. The deals, worth $10 billion, aim to alleviate the country's financial strain post-economic crisis in 2022. Negotiations with the IMF and various bilateral credit providers, including Japan, India, France, and others, have paved the way for these agreements. The relief includes extended payment periods, reduced interest rates, and the potential for repurposing tax returns towards public services. These measures are expected to stabilize the economy, resume infrastructure projects, and improve Sri Lanka's credit rating, facilitating easier access to future foreign funding.
-
-🟩
-
-Sri Lanka has completed the debt restructuring talks with its prominent official bilateral credit providers in Paris yesterday morning and has reached its final compliance with the official credit providers' committee.
-
-In addition, Sri Lanka has reached its final compliance with China's Exim Bank on debt renovation and signed a Memorandum of Understanding (MoU).
-
-Along with these compliance, Sri Lanka has successfully completed its major official bilateral credit providers' credit restructuring compliance.
-
-Japan, India and France led the official credit provide group. There were other members of the official credit providers group of Australia, Australia, Australia, Belgium, Canada, Denmark, Germany, Hangeria, Korea, the Netherlands, Russia, Spain, Sweden, the United Kingdom and the United States.
-
-...
-
-[Data](articles/3b4525ce.json)
-
-[Extended Data](ext_articles/3b4525ce.ext.json)
-
----
-
-### “The people must determine whether to move forward with me, as I truly comprehend the challenges facing the country, provide practical solutions, and demonstrate tangible results, or align with groups that have yet to grasp the issues and are blindly seeking power” President  Ranil  Wickremesinghe
-
-*2024-06-27 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84273) · `en`
-
-(Text of  special statement delivered by  President  Ranil  Wickremesinghe on 26 June 2024)
-
-Today marks a significant milestone in the recent history of our country, a special juncture reflecting the hard work and dedication of our efforts. Our country is now reaping the positive results of our persistent endeavours over the past years.
-
-This morning in Paris, Sri Lanka reached a final agreement with our official bilateral creditors. Similarly, we signed another agreement with China’s Exim Bank today in Beijing. This is indeed encouraging news for those who genuinely care about our country’s welfare.
-
-Over the past two years, we have worked diligently to reach agreements with our bilateral creditors, engaging in extensive discussions. The economic progress we have achieved has provided us with considerable strength in these negotiations.
-
-...
-
-[Data](articles/3cbef80b.json)
-
-[Extended Data](ext_articles/3cbef80b.ext.json)
 
 ---

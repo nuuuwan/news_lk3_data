@@ -1,36 +1,96 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 10:35:05**
+As of **2024-06-27 10:53:50**
 
 ## Newspaper Stats
 
-*Scraped **32,403** Articles*
+*Scraped **32,408** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 295
-dbsjeyarajcom | 297
+dbsjeyarajcom | 298
 bbccomsinhala | 319
 newsfirstlk | 363
 islandlk | 1,802
 economynextcom | 1,884
 dailyftlk | 1,988
 adalk | 2,865
-adaderanalk | 3,685
+adaderanalk | 3,688
 tamilmirrorlk | 3,826
 dailymirrorlk | 4,733
 virakesarilk | 5,027
-adaderanasinhalalk | 5,319
+adaderanasinhalalk | 5,320
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,403 (100.0%) of 32,403 articles have been extended.
+32,403 (100.0%) of 32,408 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### Chris Silverwood resigns as Sri Lanka head coach
+
+*2024-06-27 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100136/chris-silverwood-resigns-as-sri-lanka-head-coach) · `en`
+
+The Head Coach of the Sri Lanka National Cricket Team Chris Silverwood, has tendered his resignation from the position, citing personal reasons, Sri Lanka Cricket (SLC) announced today.
+
+◼️
+
+[Data](articles/936f0c68.json)
+
+---
+
+### President calls on Malwatu and Asgiri Maha Nayake Theros
+
+*2024-06-27 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100135/president-calls-on-malwatu-and-asgiri-maha-nayake-theros) · `en`
+
+President Ranil Wickremesinghe visited the Chief Prelate of the Malwatu Chapter Most Ven. Thibbatuwawe Sri Sumangala Maha Nayaka Thera and the Chief Prelate of the Asgiri Chapter Most Ven. Warakagoda Sri Gnanarathana Nayaka Thera during his visit to Kandy, a short while ago, and received their blessings.
+
+The President engaged in progressive discussions on the country’s economic and financial progress and presented the Greater Kandy Urban Plan to the Chief Prelates, the President Media Division said.
+
+◼️
+
+[Data](articles/157634a4.json)
+
+---
+
+### Two SC judges recuse themselves from Diana Gamage contempt petition
+
+*2024-06-27 10:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100134/two-sc-judges-recuse-themselves-from-diana-gamage-contempt-petition) · `en`
+
+Two Supreme Court judges have recused themselves from considering the contempt of court petition filed against former State Minister Diana Gamage.
+
+The petition, filed by the former chairman of the Weligama Urban Council Rehan Jayawickrema, alleges that Gamage is guilty of contempt for the comments made by her during a press conference following the Supreme Court’s judgment disqualifying her from holding the position of a Member of Parliament.
+
+The petition was taken up before a three-member Supreme Court bench comprising Justices Preethi Padman Surasena, Kumuduni Wickremasinghe, and Janak De Silva yesterday (26).
+
+However, Justices Janak De Silva and Kumuduni Wickremasinghe had announced their decision to recuse themselves from the case.
+
+The Supreme Court has then ordered for the petition to be recalled on August 05.
+
+◼️
+
+[Data](articles/f49d3290.json)
+
+---
+
+### ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ඉල්ලා අස්වෙයි
+
+*2024-06-27 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198204) · `si`
+
+ශ්‍රී ලංකා ජාතික ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ලෙස කටයුතු කළ එංගලන්ත ක්‍රිස් සිල්වර්වුඩ් මහතා එම තනතුරෙන් ඉල්ලා අස්වී තිබේ.
+
+ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පැවසුවේ, පෞද්ගලික හේතු මත ඔහු එම තීරණය ගෙන ඇති බවය.
+
+◼️
+
+[Data](articles/7fceb625.json)
+
+---
 
 ### Four suspects arrested with explosives
 
@@ -915,6 +975,20 @@ We are all aware of the risks associated with choosing the wrong path. Individua
 [Data](articles/661ae823.json)
 
 [Extended Data](ext_articles/661ae823.ext.json)
+
+---
+
+### 
+
+*2024-06-27 01:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84279) · `en`
+
+Ranasinghe  Premadasa: Sri Lanka’s Solitary non-Govigama Prime Minister and President
+
+India, the world’s biggest democracy, held Parliamentary elections this year in seven phases from 19 April to 1 June. 642 million persons voted in the poll. Results were announced on 4 June. The incumbent Prime Minister Narendra Modi was re-elected PM for the third time. His party the Bharatiya Janata Party (BJP) won 240 of 572 Lok Sabha or Parliament seats. Together with allied parties the BJP led National Democratic Alliance (NDA) obtained 293 seats in Parliament.
+
+...
+
+[Data](articles/b4f24621.json)
 
 ---
 
@@ -2171,109 +2245,5 @@ Meanwhile, Sri Lanka has also reached the final agreement of US $ 5.8 billion in
 [Data](articles/4d6498da.json)
 
 [Extended Data](ext_articles/4d6498da.ext.json)
-
----
-
-### LPL Table: The beginning of July 1
-
-*2024-06-26 17:34:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/LPL-அட்டவணை-ஜூலை-1-ஆரம்பம்/44-339479) · `ta`
-
-The Sri Lanka Premier League (LPL) starts its fifth season soon, with the first match between B-LOVE KANDY and Dambulla Thunders scheduled for 7.30 pm in Kandy.
-
-🟩
-
-Sri Lanka Premier League (LPL) is about to begin fifth season. The match table has been released.
-
-The first match between B-LOVE KANDY and Dambulla Thunders begins at 7.30 pm in Kandy.
-
-◼️
-
-[Data](articles/8467bdde.json)
-
-[Extended Data](ext_articles/8467bdde.ext.json)
-
----
-
-### Sri Lanka reaches deal on debt treatment with China’s Exim Bank
-
-*2024-06-26 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100121/sri-lanka-reaches-deal-on-debt-treatment-with-chinas-exim-bank) · `en`
-
-State Minister of Finance Shehan Semasinghe says that he met the Chinese Vice Minister of Finance, Liao Min in Paris and the final agreement has been reached on debt treatment between Sri Lanka and Export Import Bank of China.
-
-Posting on ‘X’ (formerly Twitter), Semasinghe stated that the formalities for signing of the implementing agreements are under way.
-
-Meanwhile, earlier today, Sri Lanka had also reached a final restructuring agreement for USD 5.8 billion of debt with its bilateral lenders’ Official Creditor Committee in Paris, France.
-
-This agreement grants significant debt relief, allowing Sri Lanka to allocate funds to essential public services and secure concessional financing for its development needs, according to the President’s Media Division (PMD).
-
-...
-
-[Data](articles/72fd400d.json)
-
-[Extended Data](ext_articles/72fd400d.ext.json)
-
----
-
-### Sri Lanka reaches final agreement with Chinese EXIM Bank debt: State FinMin
-
-*2024-06-26 17:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-reaches-final-agreement-with-chinese-exim-bank-debt-state-finmin-169668/) · `en`
-
-ECONOMYNEXT – Sri Lanka has reached a final agreement on the China’s bilateral debt deal with its Export Import Bank of China and the signing is underway, State Finance Minister Shehan Semasinghe said.
-
-“It was great meeting Mr Liao Min, Vice Minister of Finance, China, on the sidelines of the Paris Forum 2024 in Paris, France,” Semasinghe said in his X (Twitter) platform.
-
-“We are also pleased that the final agreement has been reached on debt treatment between Sri Lanka and Export Import (EXIM) Bank of China and formalities for signing of the implementing agreements under way.” (Colombo/June 26/2024)
-
-◼️
-
-[Data](articles/b4d9dfff.json)
-
-[Extended Data](ext_articles/b4d9dfff.ext.json)
-
----
-
-### President assembled by the Cabinet
-
-*2024-06-26 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198186) · `si`
-
-President Ranil Wickremesinghe attended an emergency cabinet meeting where he was briefed on the national statement issued today.
-
-🟩
-
-President Ranil Wickremesinghe has been called by an emergency cabinet meeting this afternoon.
-
-After attending, Minister Harin Fernando said that the President was informed to the Cabinet about the statement issued by the nation today.
-
-◼️
-
-[Data](articles/0fd51714.json)
-
-[Extended Data](ext_articles/0fd51714.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 305.35/55 to US dollar
-
-*2024-06-26 17:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-305-35-55-to-us-dollar-169664/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 305.35/55 to the US dollar on Wednesday, down from 305.25/35 to the US dollar on Tuesday, dealers said, while bond yields up.
-
-A bond maturing on 01.06.2026 closed at 10.55/11.05 percent, down  from 10.75/11.05 percent.
-
-A bond maturing on 15.12.2026 closed at 10.70/11.05 percent, up from 10.65/11.05 percent.
-
-A bond maturing on 15.10.2027 closed at 10.75/11.10 percent, up from 10.65/11.10 percent.
-
-A bond maturing on 15.03.2028 closed at 11.25/80 percent, up from 11.20/11.50 percent.
-
-A bond maturing on 15.09.2029 closed at 12.10/25 percent, up from 12.10/15 percent.
-
-A bond maturing on 01.12.2031 closed at 12.05/25 percent, from 12.10/20 percent.
-
-◼️
-
-[Data](articles/b03dd5a2.json)
-
-[Extended Data](ext_articles/b03dd5a2.ext.json)
 
 ---

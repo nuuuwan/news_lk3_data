@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 17:35:11**
+As of **2024-06-27 17:55:44**
 
 ## Newspaper Stats
 
-*Scraped **32,485** Articles*
+*Scraped **32,486** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,802
 economynextcom | 1,890
 dailyftlk | 1,988
-adalk | 2,881
+adalk | 2,882
 adaderanalk | 3,699
 tamilmirrorlk | 3,833
 dailymirrorlk | 4,733
@@ -26,23 +26,43 @@ adaderanasinhalalk | 5,336
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,482 (100.0%) of 32,485 articles have been extended.
+32,485 (100.0%) of 32,486 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### ශ්‍රී ලංකාව ඇති කරගත් ගිවිසුම ගැන IMF මතය කියයි
+### The IMF says about the agreement caused by Sri Lanka
 
 *2024-06-27 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198220) · `si`
 
-ශ්‍රී ලංකාවේ බාහිර ණය ප්‍රතිව්‍යුහගත කිරීම සඳහා චීනය සහ අනෙකුත් ණයහිමි රටවල් සමග ඇතිකරගත් එකඟතා, ණය තිරසරභාවය යථා තත්ත්වයට පත්කර ගැනීම සඳහා පියවරක් ඉදිරියට තැබීමක් ලෙස සැලකිය හැකි බව ජාත්‍යන්තර මූල්‍ය අරමුදල පවසයි.
+The IMF views Sri Lanka's agreement as a step towards mending ties with China and restructuring its debt, aiming to secure external loans totaling around $10 billion.
 
-එම එකඟතා ඔස්සේ ඩොලර් බිලියන 10ක පමණ බාහිර ණය ප්‍රතිව්‍යුහගත කිරීමට නියමිතය.
+🟩
+
+The International Monetary Fund (IMF) says it can be considered as a move to restore the consensus with China and other debts to restore external loans in Sri Lanka.
+
+About $ 10 billion over the agreement will be restructured.
 
 ◼️
 
 [Data](articles/0024e66a.json)
+
+[Extended Data](ext_articles/0024e66a.ext.json)
+
+---
+
+### හෙට වැසි වාර කිහිපයක් පමණයි
+
+*2024-06-27 16:45:15* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-වැසි-වාර-කිහිපයක්-පමණයි/11-410482) · `si`
+
+බස්නාහිර, සබරගමුව හා වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල හා මාතර දිස්ත්‍රික්කවල වැසි වාර කිහිපයක් ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එසේම මධ්‍යම කඳුකරහේ බටහිර බෑවුම් ප්‍රහේශවලත්, උතුරු, උතුරු-මැද හා වයඹ පළාත්වලත් ත්‍රිකුණාමලය හම්බන්තොට හා මොණරාගල දිස්ත්‍රික්කවලත් විටින් විට පැ.කි.මී. (35-45) ක පමණ තද සුළං ඇතිවිය හැකි බවත් එම දෙපාර්තමේන්තුව කියයි.
+
+◼️
+
+[Data](articles/fa3ec2c4.json)
 
 ---
 
@@ -76,21 +96,29 @@ The suspect was also found in a desolate land in a desolate land, police said to
 
 ---
 
-### இதயத்தில் காதலிக்கு இடம் கொடுத்த மாணவன்
+### The student who gave the place to the girlfriend in the heart
 
 *2024-06-27 16:37:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதயத்தில்-காதலிக்கு-இடம்-கொடுத்த-மாணவன்/175-339538) · `ta`
 
-உயிரியல் பாட பரீட்சையில்  கேட்கப்பட்ட கேள்விக்கு மாணவர் ஒருவர்  அளித்த பதில் நகைப்பை ஏற்படுத்தி உள்ளது. உணர்ச்சிகளின் மையம் ஆகவும், கற்பனையின் பிறப்பிடம் ஆகவும் இருக்க கூடிய இதயம் இளைஞர்களின் கண்ணோட்டத்தில் வேறு வகையாக பார்க்கப்படுகிறது.
+In a biology exam, a student humorously labeled heart parts with his crushes' names, sparking widespread amusement online. He named the atria after his crushes, Priya, Rupa, Pooja, Namitha, and Harita, describing them in playful terms. This creative response garnered over 6.43 crore views and 10 lakh likes, highlighting the blend of humor and romance in academic settings.
 
-பரீட்சையில் இதயம் பற்றிய வரைபடம் ஒன்றை வரைந்து, அதன் பாகங்களை குறிக்கும்படி கேட்கப்பட்டு இருந்தது. ஆனால், அந்த கேள்விக்கு, ஈர்ப்பின் வெளிப்பாடாக அந்த மாணவர் இதயம் படம் ஒன்றை வரைந்து அதன் பாகங்களை குறித்த விதம் நெட்டிசன்களிடையே சிரிப்பை வரவழைத்து இருக்கிறது.
+🟩
 
-அவர், அப்படி என்ன செய்திருக்கிறார் என பார்ப்போம். அவர் இதயத்தின் உள்பாகங்களான ஏட்ரியம் மற்றும் வெண்ட்ரிக்கிள்கள் ஆகியவற்றை பற்றி குறிப்பிடுவதற்கு பதிலாக, பிரியா, ரூபா, பூஜா, நமீதா மற்றும் ஹரிதா என மாணவரின் வாழ்வில் முக்கிய இடம் பிடித்தவர்களின் பெயர்களை குறிப்பிட்டு உள்ளார்.
+A student's response to a question asked in the biology exam has caused a joke. The heart, which is the center of emotions and the birthplace of imagination, is seen as a different type of youth.
 
-அந்த ஒவ்வொரு பெயருக்கும் அதன் செயல்பாடுகள் என்ற பெயரில் விளக்கமும் அளித்துள்ளார். இதில், பிரியா என்ற பெயருக்கு, இன்ஸ்டாகிராமில் தொடர்ந்து சாட்டிங் செய்யும் தோழி என குறிப்பிட்டு உள்ளார்.
+The exam was drawn to a map of the heart and was asked to mark its parts. But, as a manifestation of attraction, the student's heart has drawn a picture of its parts and has brought laughter among the netizens.
+
+Let's see what he has done so. Instead of referring to the inner parts of the heart, Atrium and ventricles, Priya, Rupa, Pooja, Namitha and Harita referred to the names of the students in the life of the student.
+
+He has also explained the name of its activities to each name. In this, the name Priya is referred to as a chatting girlfriend on Instagram.
+
+Recalls Rupa as beautiful and snakes in the snacks. In addition, Namitha referred to Namitha in a small place where there is no place and has long hair and big eyes.
 
 ...
 
 [Data](articles/9811bebc.json)
+
+[Extended Data](ext_articles/9811bebc.ext.json)
 
 ---
 
@@ -109,6 +137,8 @@ The committee is now awaiting details of a separate agreement that was signed wi
 ...
 
 [Data](articles/86ddcadd.json)
+
+[Extended Data](ext_articles/86ddcadd.ext.json)
 
 ---
 
@@ -2395,23 +2425,5 @@ The MEP also urged the EC to convene an immediate discussion summoning all polit
 [Data](articles/94a850a7.json)
 
 [Extended Data](ext_articles/94a850a7.ext.json)
-
----
-
-### India says will continue to support Sri Lanka
-
-*2024-06-27 02:04:48* · [`dailyftlk`](https://www.ft.lk/news/India-says-will-continue-to-support-Sri-Lanka/56-763543) · `en`
-
-India said yesterday it will continue to support Sri Lanka’s economic recovery including by promoting long-term investments in its key economic sectors.
-
-The announcement follows the Memorandum of Understanding (MoU) on debt restructuring between Official Creditors Committee and the Government of Sri Lanka.
-
-In a statement, India said as one of the co-chairs of the OCC, along with France and Japan, India has been steadfast in its commitment to the stabilisation, recovery and growth of the Sri Lankan economy. “This was also demonstrated by India’s unprecedented financial support of $ 4 billion to Sri Lanka. India was also the first creditor nation to convey financing assurances to IMF which paved the way for Sri Lanka to secure the IMF program,” the statement said.
-
-...
-
-[Data](articles/ea368079.json)
-
-[Extended Data](ext_articles/ea368079.ext.json)
 
 ---

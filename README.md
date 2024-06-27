@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 01:04:55**
+As of **2024-06-28 01:19:43**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,350
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,536 (100.0%) of 32,537 articles have been extended.
+32,537 (100.0%) of 32,537 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### ඉන්දියාවෙන් ලකුණු 172ක ඉලක්කයක්
+### A target of 172 runs from India
 
 *2024-06-28 00:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198234) · `si`
 
-T20  ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ දෙවන අවසන් පූර්ව තරගය අද (27) පැවැත්වෙයි.
+In the T20 World Cup's second semi-final, England chose to field after winning the toss. Despite intermittent rain, India managed to score 171 runs off 20 overs, losing 7 wickets.
 
-එහි කාසියේ වාසිය දිනාගැනීමට එංගලන්තය සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ඉන්දියාවට ලබාදීමටය.
+🟩
 
-ඒ අනුව ඉන්දියාව නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 7ක් දැවී ලකුණු 171ක් රැස් කළේය.
+The second semi-final in the T20 World Cup will be held today (27).
 
-තරගය ආරම්භයට පෙර සහ තරගය පැවැත්වෙන අතරතුරත් විටින් විට වර්ෂාවෙන් බාධා එල්ලවී තිබුණි.
+Engginland won the advantage of the coin, and they decided to give India the opportunity to bat first.
+
+Accordingly, India scored 171 runs for the loss of 7 wickets at the end of 20 overs.
+
+From time to time, the rain was interrupted by time to time before and in the match.
 
 ◼️
 
 [Data](articles/89bc16d8.json)
+
+[Extended Data](ext_articles/89bc16d8.ext.json)
 
 ---
 

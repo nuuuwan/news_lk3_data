@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 12:34:58**
+As of **2024-06-27 12:52:22**
 
 ## Newspaper Stats
 
@@ -26,45 +26,59 @@ adaderanasinhalalk | 5,324
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,427 (100.0%) of 32,430 articles have been extended.
+32,430 (100.0%) of 32,430 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### කෙන්යානු ජනපති පසුබසියි
+### Kenyan President results
 
 *2024-06-27 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198208) · `si`
 
-කෙන්යානු රජය විසින් ඉදිරිපත්කළ මතභේදාත්මක මූල්‍ය පනත් කෙටුම්පත හකුළා ගැනීමට එරට ජනාධිපති විලියම් රූටෝ තීරණය කර තිබේ.
+Kenya's President William Ruto plans to review the contentious Finance Bill aimed at changing the national tax system amidst nationwide protests. The unrest resulted in 23 deaths from clashes between protesters and security forces.
 
-එරට බදු ක්‍රමවේදය සංශෝධනය කිරීමට එම පනත් කෙටුම්පත මගින් යෝජනා කර තිබුණි.
+🟩
 
-ඊට එරෙහිව රට පුරා විරෝධතා පැතිරගිය අතර එරට පාර්ලිමේන්තුවේ කොටසක් ගිනි තැබීමටද උද්ඝෝෂකයින් පියවර ගෙන තිබේ.
+President William Rooto has decided to consult the controversial Finance Bill by the Kenyan government.
 
-ආරක්ෂක අංශ සහ උද්ඝෝෂකයින් අතර තැනින් තැන ඇතිවූ ගැටුම් හේතුවෙන් 23 දෙනෙක් මියගොස් ඇති බව වාර්තා විය.
+The Bill had been proposed to amend the tax system of the country.
+
+Protesters have also been spread throughout the country and set on fire in the country.
+
+It was reported that 23 people were killed in clashes between security forces and the agitoes.
 
 ◼️
 
 [Data](articles/dc0a6dc2.json)
 
+[Extended Data](ext_articles/dc0a6dc2.ext.json)
+
 ---
 
-### දින 24 ක් පුද්ගලයෙකු පැහැරගෙන ගොස් දසවද දුන් පිරිසක් පොලීසියෙන් සොයයි
+### 24-day a person was abducted and the victims were looking for the police
 
 *2024-06-27 12:03:38* · [`adalk`](https://www.ada.lk/breaking_news/දින-24-ක්-පුද්ගලයෙකු-පැහැරගෙන-ගොස්-දසවද-දුන්-පිරිසක්-පොලීසියෙන්-සොයයි/11-410474) · `si`
 
-කිලිනොච්චිය භාරතීපුරම් ප්‍රදේශයේ පදිංචිව දින 24 ක් අතුරුදහන්ව සිටි පුද්ගලයෙකු ඊයේ (26) දින කිලිනෙච්චිය පොලීසියට භාර වී ඇත්තේ තමන් කිසියම් පිරිසක් විසින් පහරගෙන ගොස් වදහිංසා සිදුකල බව පවසමිනි.
+In Bharatipuram, Kilinochchi, a 48-year-old man named Sinharajan Jayakumar was assaulted and tortured by a group. He reported this to the Kilinochchi police, who found him severely injured. The police investigated but couldn't find the assailants. Despite his injuries, Jayakumar was taken to Kilinochchi General Hospital.
 
-භාරතීපුරම් ප්‍රදේශයේ පදිංචි 48 හැවිරිදි සිංහරාජන් ජයකුමාර් නැමත්ත පසුගිය 02 වනදා සිට අතුරුදහන්ව ඇතැයි ඔහුගේ ඥාතීන් විසින් පොලීසියට පැමිණිළි කොට තිබුණි.
+🟩
 
-කෙසේ වෙතත් ඊයේ දිනයේදී අතුරුදහන්ව සිටි පුද්ගලයා එකවරම කිලිනොච්චිය පොලීසියට පැමිණ භාර වී ඇත්තේ තමන්ව කිසියම් පිරිසක් විසින් පැහැරගෙන ගොස් ස්ථාන කිහිපයකට රැගෙන යමින් දිනේන දින විවිධ හිංසා කරමින් පහරදුන් බවටත් ඒසේ රඳවා සිටි අවස්ථාවක එම ස්ථානයෙන් ඉතා අසීරුවෙන් පැන පොලීසියට පැමිණි බවට අදල පුද්ගලයා විසින් පොලීසියට පවසා ඇත.
+A 24-day residents of Bharatipuram, Kilinochchi, surrendered to the Kilithapura Police yesterday (26), saying that he was assaulted and tortured by a group.
 
-ඒ අනුව පොලීසිය විසින් එම පුද්ගලයාගේ තොරතුරු වලට අනුව රඳවා සිටි ස්ථානයකට ගොස් පරික්ෂ කෙට ඇතත් කිසිවෙක් නොසිට ඇති අතර අදාල පිරිස් කව්රුන්දැයි යන්න පිළිබඳව මෙතෙක් තොරතුරක් නොමැති බවටත් එම පිරිස් සොයා පුලුල් පරික්ෂණයක් අරඹා ඇතැයිද කිලිනොච්චිය පොලීසිය වැඩිදුරටත් පැවසීය.
+His relatives had complained to the police that 48-year-old Sinharajan Jayakumar, a resident of Bharathapuram.
 
-...
+However, the man had come to the Kilinochchi police, however, and had been assaulted by the day and attacked the bundle.
+
+Accordingly, the police had gone to a place of information according to the person's information, and no one had been investigated and there was a wide investigation into whether he had no information about the owners.
+
+However, the police also took steps to be admitted to Kilinochchi General Hospital due to cutting injuries.
+
+◼️
 
 [Data](articles/65694b5e.json)
+
+[Extended Data](ext_articles/65694b5e.ext.json)
 
 ---
 

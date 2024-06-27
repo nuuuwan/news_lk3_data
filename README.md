@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 09:19:35**
+As of **2024-06-27 09:34:57**
 
 ## Newspaper Stats
 
-*Scraped **32,392** Articles*
+*Scraped **32,398** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,40 +17,98 @@ economynextcom | 1,884
 dailyftlk | 1,988
 adalk | 2,865
 adaderanalk | 3,683
-tamilmirrorlk | 3,825
+tamilmirrorlk | 3,826
 dailymirrorlk | 4,733
-virakesarilk | 5,023
-adaderanasinhalalk | 5,316
+virakesarilk | 5,027
+adaderanasinhalalk | 5,317
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,387 (100.0%) of 32,392 articles have been extended.
+32,392 (100.0%) of 32,398 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### அடுத்த 24 மணிநேரம் குறித்து சிவப்பு எச்சரிக்கை விடுப்பு
+### බස්නැවතුමේ වැසිකිළියක් තුළ පුද්ගල මරණයක්
+
+*2024-06-27 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198201) · `si`
+
+නුවරඑළිය බස් නැවතුම්පොළේ පොදු වැසිකිළිය තුළ තිබී මියගිය පුද්ගලයෙකුගේ සිරුරක් හමුව තිබේ.
+
+පොලීසිය පැවසුවේ, ඊයේ (26) සවස් කාලයේ දී වැසිකිළිය තුළ පුද්ගලයෙකු වැටී සිටින බවට පොලීසියට ලද දුරකථන ඇමතුමක් මත විමර්ශන ආරම්භ කළ බවය.
+
+පසුව 1990 ගිලන්රථ සේවය පැමිණ අදාළ පුද්ගලයා මියගොස් ඇතැයි තහවුරු කර ඇත.
+
+මෘත ශරීරය හදිසි මරණ පරීක්ෂණය සඳහා නුවරඑළිය රෝහලේ තැන්පත් කර තිබේ.
+
+◼️
+
+[Data](articles/e64d20fb.json)
+
+---
+
+### லஞ்சம் பெற்ற அதிகாரி கைது
+
+*2024-06-27 09:08:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லஞ்சம்-பெற்ற-அதிகாரி-கைது/175-339511) · `ta`
+
+பெண் ஒருவரிடம் 25,000 ரூபாவை லஞ்சமாக பெற்ற சம்பவம் தொடர்பில் ஹீரஸ்ஸகல கிராம அதிகாரியை இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் அதிகாரிகள் குழு நேற்று (26) கைது செய்துள்ளது.
+
+ஹீரஸ்ஸகல கிராம சேவை பிரிவில்  வசிக்கும் பெண் ஒருவர் செய்த முறைப்பாட்டின் பிரகாரம் இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் அதிகாரிகள் குழு ஹிரஸ்ஸகல பிரதேசத்திற்குச் சென்று குறித்த கிராம உத்தியோகத்தர் அலுவலக வளாகத்தில் பணம் கொடுத்த போது அவரை கைது செய்துள்ளனர்.
+
+முறைப்பாடு செய்த பெண்ணின் மகனின் வீட்டிற்கு மின்சாரம் வழங்கிய சம்பவம் தொடர்பில் கிராம அதிகாரி இந்தப் பணத்தை எடுத்துள்ளதாகத் தெரியவந்துள்ளது. R
+
+◼️
+
+[Data](articles/e39e68b6.json)
+
+---
+
+### பாடசாலை கல்வி நடவடிக்கைகள் இன்று வழமைபோல் இடம்பெறும் ; கல்வி அமைச்சு
+
+*2024-06-27 09:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/187069) · `ta`
+
+நாடளாவிய ரீதியில் அதிபர்கள், ஆசிரியர்கள் மற்றும் ஆசிரிய ஆலோசகர்களின் போராட்டங்களுக்கு மத்தியிலும் அனைத்து பாடசாலைகளின் கல்வி நடவடிக்கைகளும் இன்று வியாழக்கிழமை (27) வழமை போன்று நடைபெறும் என கல்வி அமைச்சு அறிவித்துள்ளது.
+
+ஆசிரியர்கள் மற்றும் அதிபர்களின் சம்பள பிரச்சினைகளை தீர்த்து வைக்குமாறு கோரி நேற்றைய தினம் கோட்டை ரயில் நிலையத்திற்கு முன்பாக கவனயீர்ப்பு போராட்டமொன்று முன்னெடுக்கடுக்கப்பட்டது.
+
+இதன்போது, போராட்டத்தில் ஈடுபட்ட  அதிபர்கள் மற்றும் ஆசிரியர்களை கலைக்க கண்ணீர் புகை மற்றும் நீர்த்தாரை பிரயோகிக்கப்பட்டது.
+
+இதற்கு எதிர்ப்பு தெரிவித்து இன்று இரண்டாவது நாளாகவும் சுகயீன விடுமுறை போராட்டம் தொடரும் என இலங்கை ஆசிரியர் சங்கத்தின் பொதுச் செயலாளர் ஜோசப் ஸ்டாலின் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/2c4492f3.json)
+
+---
+
+### Red alert leave on the next 24 hours
 
 *2024-06-27 08:59:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-24-மணிநேரம்-குறித்து-சிவப்பு-எச்சரிக்கை-விடுப்பு/175-339510) · `ta`
 
-பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் சிவப்பு எச்சரிக்கையை விடுத்துள்ளது.
+A red weather warning for strong winds and sea turbulence is in effect for the next 24 hours, affecting maritime activities in the Arabian Sea. The Department of Meteorology also forecasts heavy rainfall in several provinces and warns of high-speed winds across various regions.
 
-இன்று (27) அதிகாலை 3.30 மணியளவில் வெளியிடப்பட்ட இந்த அறிவித்தல் அடுத்த 24 மணிநேரத்திற்கு அமுலில் இருக்கும் என அந்த திணைக்களம் வௌியிட்டுள்ள அறிவித்தலில் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-இதன்படி, அரபிக்கடலில் செயற்படும் நெடுநாள் படகு மீனவர்கள் மற்றும் கடல்சார் சமூகத்தினரையும் மிகவும் அவதானமாக இருக்குமாறு அறிவுறுத்தப்பட்டுள்ளது.
+The Department of Meteorology has issued a red warning on strong winds and sea turbulence.
 
-அப்பகுதியில் பலத்த காற்று வீசக்கூடும் எனவும் கடற்பிரதேசங்கள் மிகவும் கொந்தளிப்புடன் காணப்படும் எனவும்,  திணைக்களம் அறிவித்துள்ளது.
+The announcement, which was released at 3.30 am today (27), will be in effect for the next 24 hours, the department said.
 
-இதேவேளை, மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+Accordingly, long -time boat fishermen and maritime community operating in the Arabian Sea are advised to be very careful.
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும், வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் 40-50 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் மேலும் தெரிவித்துள்ளது. R
+The department has announced that strong winds are likely to blow in the area and the sea will be very turbulent.
+
+Meanwhile, the Department of Meteorology has forecast rainfall in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
+
+The Department of Meteorology has said that strong winds are likely to blow at speeds of 40-50 km / h in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.. Remble
 
 ◼️
 
 [Data](articles/cc24a2aa.json)
+
+[Extended Data](ext_articles/cc24a2aa.ext.json)
 
 ---
 
@@ -70,21 +128,29 @@ Earlier in the day, military units led by General Juan Jose Zuniga, recently str
 
 [Data](articles/2623b48e.json)
 
+[Extended Data](ext_articles/2623b48e.ext.json)
+
 ---
 
-### දකුණු අප්‍රිකාව පළමුවරට ලෝක කුසලාන අවසන් මහ තරගයකට
+### South Africa for first cup final
 
 *2024-06-27 08:35:24* · [`adalk`](https://www.ada.lk/sports/දකුණු-අප්‍රිකාව-පළමුවරට-ලෝක-කුසලාන-අවසන්-මහ-තරගයකට/9-410470) · `si`
 
-පෙරළිකාර ඇෆ්ගනිස්ථාන කණ්ඩායම පහසුවෙන්ම කඩුලු 9කින් ජයග්‍රහණය කරමින් පන්දුවාර විස්සයි20 ලෝක කුසලාන තරගාවලියේ අවසන් මහ තරගයට සුදුසුකම් ලැබීමට දකුණු අප්‍රිකාව සමත්විය.
+In the Twenty20 World Cup final, South Africa faced off against the South Afghan group. Despite winning the toss and setting a low target of 56 runs, South Africa fell short, losing with just one wicket remaining in 8.5 overs. This marked an unfortunate end to their World Cup journey.
 
-අර්ධ අවසන් තරගයේ කාසියේ වාසිය දිනා මුලින්ම පන්දුවට පහරදුන් ඇෆ්ගනිස්ථාන කණ්ඩායම සියලු දෙනා දැවි රැස් කළේ ලකුණු 56ක් පමණි.
+🟩
 
-එම ඉලක්කය පන්දුවාර 8.5කදී එක් කඩුල්ලක් පමණක් දැවී පසුකර යාමට දකුණු අප්‍රිකාව සමත්විය. ක්‍රිකට් ඉතිහාසය තුළ ලෝක කුසලාන තරගාවලි වල අවාසනාවන්ත කණ්ාඩයමක් ලෙස හැදින්වෙන දකුණු අප්‍රිකා කණ්ඩායම ලෝක කුසලාන තරගාවලියක අවසන් මහ තරගයකට සුදුසුකම් ලබන්නේ පළමු අවසථාවටය.
+South Afghan group easily won the final match of the Twenty20 World Cup.
+
+The Afghan group who first won the coin in the semi final only 56 runs.
+
+South Africa beat the target to pass only one wicket in 8.5 overs. The South African team, which is unfortunate as an unfortunate juncture of the World Cup competition, is eligible for the final game of the World Cup.
 
 ◼️
 
 [Data](articles/bb404c81.json)
+
+[Extended Data](ext_articles/bb404c81.ext.json)
 
 ---
 
@@ -101,6 +167,8 @@ Strong winds of about 40-50kmph can be expected at times over the Western slopes
 ◼️
 
 [Data](articles/950ceb3e.json)
+
+[Extended Data](ext_articles/950ceb3e.ext.json)
 
 ---
 
@@ -249,6 +317,58 @@ From the Western slopes of the central hills, Trincomalee, Trincomalee and Moner
 [Data](articles/487712d8.json)
 
 [Extended Data](ext_articles/487712d8.ext.json)
+
+---
+
+### ஹீரஸ்ஸகல கிராம அதிகாரியை இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் அதிகாரிகளால் கைது
+
+*2024-06-27 05:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187066) · `ta`
+
+பெண் ஒருவரிடம் 25000 ரூபா லஞ்சம் பெற்ற சம்பவம் தொடர்பில் ஹீரஸ்ஸகல கிராம அதிகாரியை இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் அதிகாரிகள் குழு புதன்கிழமை (26) கைது செய்துள்ளது.
+
+ஹீரஸ்ஸகல கிராம சேவை பிரிவில்  வசிக்கும் பெண் ஒருவர் செய்த முறைப்பாட்டின் பிரகாரம் இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் அதிகாரிகள் குழு ஹிரஸ்ஸகல பிரதேசத்திற்குச் சென்று குறித்த கிராம உத்தியோகத்தர் அலுவலக வளாகத்தில் பணம் கொடுத்த போது அவரை கைது செய்துள்ளனர்.
+
+முறைப்பாடு செய்த பெண்ணின் மகனின் வீட்டிற்கு மின்சாரம் வழங்கிய சம்பவம் தொடர்பில் கிராம அதிகாரி இந்தப் பணத்தை எடுத்துள்ளதாகத் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/2e63406d.json)
+
+---
+
+### வடக்கு மாகாண ஆளுநரை சந்தித்த பிரித்தானிய உயர்ஸ்தானிகர் அன்றூ பற்றிக்
+
+*2024-06-27 05:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187065) · `ta`
+
+வடக்கு மாகாண  ஆளுநர் பி. எஸ். எம். சார்ள்ஸ் அவர்களை, இலங்கைக்கான பிரித்தானிய உயர்ஸ்தானிகர் அன்றூ பற்றிக் (Andrew Patrick) உள்ளிட்ட குழுவினர் புதன்கிழமை (26) சந்தித்து கலந்துரையாடினர். வடக்கு மாகாண ஆளுநர் செயலகத்தில் இந்த சந்திப்பு நடைபெற்றது.
+
+மீள்குடியேற்றம், காணி விடுவிப்பு, தொழில் வாய்ப்புகள், போக்குவரத்து வசதிகள் உள்ளிட்ட பல விடயங்கள் தொடர்பில் இதன்போது கலந்துரையாடப்பட்டது.
+
+மீள்குடியேற்ற நடவடிக்கைகள் நிறைவு பெற்றுள்ள நிலையில் 1500 குடும்பங்கள் மாத்திரமே மீள்குடியேற்றம் செய்யப்பட வேண்டியுள்ளதாகவும், அவர்களை மீள் குடியேற்றுவதற்கான உரிய செயற்பாடுகள் முன்னெடுக்கப்பட்டுள்ளதாகவும்  ஆளுநர் தெரிவித்தார்.
+
+ஜனாதிபதியின் வழிகாட்டுதல்களுக்கு அமைய, காணி விடுவிப்பு மேற்கொள்ளப்பட்டு வருவதுடன், மக்களின் காணி உரிமையை உறுதிப்படுத்தும் வகையில், “உரித்து” செயல் திட்டம் முன்னெடுக்கப்பட்டு வருவதாகவும்  ஆளுநர் தெரிவித்தார். வெளிநாடுகளில் உள்ள வடக்கு மாகாணத்தை சேர்ந்தவர்கள் நாட்டிற்கு வருகை தந்து தங்களின் காணி உறுதிகளை பெற்றுக்கொள்ள வேண்டும் எனவும் அவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/1644b6a1.json)
+
+---
+
+### மயிலத்தமடு பண்ணையாளர்களின் மேய்ச்சல்தரையை ஒப்படைக்க ஜனாதிபதி ரணில் மீண்டும் உத்தரவு; ஜுலை 2ஆம் வாரத்தில் பண்ணையாளர்களுடன் சந்திப்பு
+
+*2024-06-27 05:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/187064) · `ta`
+
+மயிலத்தமடு பண்ணையாளர்களின் மேய்ச்சல்தரையை ஒப்படைக்குமாறு ஜனாதிபதி ரணில் விக்கிரமசிங்க சம்பந்தப்பட்ட அரச அதிகாரிகளுக்கு மீண்டும் உத்தரவிட்டுள்ளார்.
+
+அத்துடன், ஜுலை இரண்டாம் வாரம் மட்டக்களப்புக்கு விஜயம் செய்யும் தருணத்தில் பண்ணையாளர்களை நேரில் சந்தித்து உரையாடுவதற்கும் ஆர்வம் கொண்டிருப்பதாகவும் ஜனாதிபதி ரணில் தெரிவித்துள்ளார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் நேற்றையதினம் ஜனாதிபதி செயலகத்தில் மட்டக்களப்பு அரசாங்க அதிபர், மகாவலி அதிகாரசபையின் அதிகாரிகள், வனத் திணைக்கள அதிகாரிகள் உள்ளிட்டவர்களைச் சந்தித்திருந்தார்.
+
+இதன்போது மயிலத்தமடு பண்ணையாளர்கள் தமது மேய்ச்சல் தரையை உறுதி செய்யுமாறு தொடர்ச்சியாக முன்னெடுத்துவரும் போராட்டம் சம்பந்தமாக கவனம் செலுத்தப்பட்டது. பண்ணையாளர்கள் விடுத்துள்ள கோரிக்கை தொடர்பாகவும் அவதானம் செலுத்தப்பட்டது.
+
+...
+
+[Data](articles/3f65c991.json)
 
 ---
 
@@ -1408,21 +1528,29 @@ West Indies Women: Edited Winning target 99 runs in 15 overs) 14.1 overs 99 - 4 
 
 ---
 
-### මන්නාරම සුළං බලාගාර ටෙන්ඩරය ඉන්දියාවට දීමෙන් රටට විශාල පාඩුවක්
+### Mannar Lower Lower Power Plants to India
 
 *2024-06-26 19:29:32* · [`adalk`](https://www.ada.lk/breaking_news/මන්නාරම-සුළං-බලාගාර-ටෙන්ඩරය-ඉන්දියාවට-දීමෙන්-රටට-විශාල-පාඩුවක්/11-410460) · `si`
 
-ලංකා විදුලිබල මණ්ඩලය මගින් තරගකාරී මිල ගණන් කැඳවූ මන්නාරම මෙගාවොට් 50ක සුළං විදුලි බලාගාර ව්‍යාපෘතියේ ටෙන්ඩර්පත්වල මිල ගණන් ඊයේ (26දා) දිනයේ විවෘත කළ බව විදුලිබලමණ්ඩල වෘත්තීය සමිති සඳහන් කරයි.
+Ceylon Electricity Board opened bids for a 50 MW wind power project, offering electricity at competitive rates. Unions criticize the plan to build two plants in Mannar and Pooneryn without tenders. Ministerial representatives support the initiative, aiming for cost-effective electricity procurement. The lowest bid received was under five cents per unit.
 
-මේ අනුව එක් සමාගමක් විදුලි ඒකකයක් ඩොලර් ශත හතරයි දශම අටට හා තවත් සමාගමක් ඩොලර් ශත හතරයි දශම නවයකටත් තවත් සමාගමක් ඩොලර් ශත පහයි දශම නවයක් ලෙසත් ඩෙන්ඩර් ඉදිරිපත් කර තිබූ බවදපෙන්වා දෙයි.
+🟩
 
-එහෙත් කිසිදු ඩෙන්ඩර් කැඳවීමකින් තොරව මන්නාරම සහ පුනරීන් ප්‍රදේශවල ඉදිකිරීමට නියමිත සුළං විදුලි බලාගාර දෙකකින් ඩොලර් ශත 8.26කට විදුලි මිලදී ගැනිමට සැලසුම් කර තිබෙන බවත් මෙම බලාගාර දෙක ඉන්දීය සමාගමක්විසින් ඉදිකිරීමට නියමිත බවද වෘත්තීය සමිති පෙන්වා දෙති.
+The prices of the 50 MW of wind power station project was opened by the Ceylon Electricity Board (CEB).
 
-මේ නිසා මෙම සුළං බලාගාර දෙකෙන් විදුලිය ලබා ගැනීමත් තරගකාරී මිල ගණන් යටතේ මිලදී ගැනීමට ඩෙන්ඩර් ක්‍රමවේදයට අනුව සිදුකරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගෙන් හා විෂය භාර අමාත්‍යවරයාගෙන් ඉල්ලා සිටින බවද වෘත්තීය සමිති නියෝජිතයෝ සඳහන් කරති.
+Accordingly, a unit of electricity is four cents a unit of four cents and another nine centimeters, and another nine cents, and another five cents deeper.
 
-...
+But the unions point out that two carts are planned to buy electricity to the project and the two power plants to be built in Mannar and Pooneryn areas without calling.
+
+Therefore, the Ministerial Representatives say that the two wind power stations and to purchase electricity at competitive prices, President Ranil Wickremesinghe said.
+
+According to the dents opened yesterday (26th), the lowest bid was offered to be provided with less than five cents.
+
+◼️
 
 [Data](articles/b1089b42.json)
+
+[Extended Data](ext_articles/b1089b42.ext.json)
 
 ---
 
@@ -2087,153 +2215,5 @@ A train traveling from Maradana from Maradana has been underway at the Slave Isl
 [Data](articles/6e90ce09.json)
 
 [Extended Data](ext_articles/6e90ce09.ext.json)
-
----
-
-### Heath Teacher Principal sick
-
-*2024-06-26 17:04:02* · [`adalk`](https://www.ada.lk/breaking_news/හෙටත්-ගුරු-විදුහල්පතිවරු-ලෙඩවෙන-ලකුණු/11-410453) · `si`
-
-The Guru Pr Schools Federation Alliance announced that unscheduled leaves will be reported tomorrow due to ongoing protests. Principals have demanded solutions to existing issues, affecting school operations. Today, trainees and principals participated in a trade union action, protesting the delay in salary increases.
-
-🟩
-
-The Guru Pr Schools Federation Alliance states that the unkills leave will be reported tomorrow (27) at the protest of the protest march.
-
-Guru principals have been reported to report the unknown leave today demanding solution to existing issues and the school activities have been influenced by the school activities
-
-Trainees and principals were on the trade union action today (26), who had not been able to unlock the rest of the salary increase and had been reported to the work.
-
-◼️
-
-[Data](articles/2464d414.json)
-
-[Extended Data](ext_articles/2464d414.ext.json)
-
----
-
-### Six Sri Lankans arrested with ‘Gold Gel’ worth Rs. 180 million at BIA
-
-*2024-06-26 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100118/six-sri-lankans-arrested-with-gold-gel-worth-rs-180-million-at-bia) · `en`
-
-Officers of the Narcotics Control Unit of Sri Lanka Customs have arrested six Sri Lankan passengers at the Bandaranaike International Airport (BIA) in Katunayake for attempting to smuggle ‘Gold Gel’ into the country.
-
-The suspects had concealed the gel-like substance mixed with gold, estimated to be worth around Rs. 180 million, in their rectal cavities and inside their luggage, an official said.
-
-The suspects, aged between 30 and 50, are residents of Kalmunai, Mutur, Colombo-10, Kalagedihena, and Minuwangoda, and are frequent flyers, according to Customs officials.
-
-They had travelled from Dubai to Chennai, India, before arriving at the Katunayake Airport yesterday (25).
-
-The suspects were arrested after being subjected to scan tests by the Customs officers at the airport following a suspicion.
-
-◼️
-
-[Data](articles/0211059d.json)
-
-[Extended Data](ext_articles/0211059d.ext.json)
-
----
-
-### AIADMK legislators suspended from legislative session
-
-*2024-06-26 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/187042) · `ta`
-
-AIADMK legislators were suspended during a legislative session for continuing to discuss the death toll in Kallakurichi despite orders. They wore black to protest and demanded discussion on the issue. Despite warnings, they remained seated, leading to their suspension. The chief minister and other officials supported the decision, highlighting the importance of addressing people's lives over political debates.
-
-🟩
-
-Leader of the Legislative Assembly has ordered the AIADMK legislators to be suspended throughout the series.
-
-Once the legislative session began, the AIADMK legislators continued to discuss the death of Kallakurichi Kallakkuri.. And today the AIADMK's legislators were in black dress to register their opposition. They also demanded that Kallakurichi be discussed on the death of Kallakurichi.
-
-Even after the leader's father said, "I will give permission after question time, continued to be in the seat of their seat.
-
-Following this, Duraimurugan proposed a resolution to "suspend the AIADMK legislators".. Chief Minister MK Stalin also explained this.
-
-Following this, the leader of the AIADMK legislators ordered the suspension of the current session.
-
-Following this, the AIADMK legislators who were suspended throughout the current session from the legislative session met with reporters.
-
-...
-
-[Data](articles/7210d8d7.json)
-
-[Extended Data](ext_articles/7210d8d7.ext.json)
-
----
-
-### Jeyashank has found Sri Lankan High Commissioner in India
-
-*2024-06-26 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198184) · `si`
-
-Indian Foreign Minister S. Jaishankar met the Sri Lankan High Commissioner in New Delhi, discussing the strengthening of Indo-Sri Lanka relations. The meeting also included discussions with the Kuwait Ambassador and the High Commissioner for New Zealand.
-
-🟩
-
-Indian Foreign Minister S. Jiasankar has found Sri Lankan High Commissioner in India in New Delhi yesterday (25).
-
-It is reported that the recent growth of the Indo-Sri Lanka bilateral relations have been discussed.
-
-Indian media reports that the Indian Foreign Minister Kuwait Ambassador and the High Commissioner for the New Zealand.
-
-◼️
-
-[Data](articles/9765ab91.json)
-
-[Extended Data](ext_articles/9765ab91.ext.json)
-
----
-
-### Eat the chicken and eggs well wipes
-
-*2024-06-26 16:48:55* · [`adalk`](https://www.ada.lk/breaking_news/කුකුළු-මස්-හා-බිත්තර-හොදින්-පිස-ආහාරයට-ගන්න/11-410452) · `si`
-
-The Ministry of Health advises thorough cleaning of uncooked poultry and avoiding contact with birds to prevent bird flu. Immediate notification to health authorities is required upon chicken deaths.
-
-🟩
-
-The Ministry of Health has informed the public to wipe out the chicken and eggs to wipe well and less cooked poultry products.
-
-The Health Promotional Car Pyllation continues to pay attention to this as a result of the Ministry of Health due to the Ministry of Health, the Ministry of Health.
-
-The bird fever can also be closely aware and to avoid contacting birds or birds from contacting birds or bird waste.
-
-They have also been asked to inform the Regional Health Authorities immediately if the death of the chickens of poultry.
-
-◼️
-
-[Data](articles/0fe952a4.json)
-
-[Extended Data](ext_articles/0fe952a4.ext.json)
-
----
-
-### Three persons arrested in India
-
-*2024-06-26 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/187037) · `ta`
-
-Three individuals, including a Sri Lankan man, were arrested in India for smuggling cannabis to Sri Lanka. The arrest came after a joint operation near Rameswaram, close to Sri Lanka, where cannabis and currency were seized. The suspects, including Anthony Praveen from Sri Lanka, had plans to smuggle around 400 kg of cannabis.
-
-🟩
-
-Three persons, including a Sri Lankan man, have been arrested in Rameswaram in India for smuggling cannabis to Sri Lanka.
-
-Cannabis and Sri Lankan rupee currencies have been seized from the arrested and the police are conducting an intensive investigation.
-
-Rameshwaram in Ramanathapuram district is very close to Sri Lanka.
-
-In this case, Anthony Praveen, 35, from Kalpitti, Puttalam district, went to Chennai on June 1 to stay in Rameswaram and to transmit the drug trafficking via Dhanushkodi sea.. From there he went to Rameswaram and took a room in a private hostel.
-
-It is said that Anthony Praveen from Sri Lanka went to Bangalore and Velankanni areas and met with a number of cannabis traders.
-
-Later, Uma Selvam, 45, from Rameswaram Pudurodu, met with a cannabis dealer Thiagarajan (57) from Bakarumbu area and tried to smuggle cannabis from Dhanushkodi by boat.
-
-Also, Anthony Praveen, a Sri Lankan Mannar, has sent money to buy cannabis in two installments.
-
-...
-
-[Data](articles/6ff78f01.json)
-
-[Extended Data](ext_articles/6ff78f01.ext.json)
 
 ---

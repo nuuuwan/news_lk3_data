@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 12:19:34**
+As of **2024-06-27 12:34:58**
 
 ## Newspaper Stats
 
-*Scraped **32,427** Articles*
+*Scraped **32,430** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 islandlk | 1,802
 economynextcom | 1,887
 dailyftlk | 1,988
-adalk | 2,870
+adalk | 2,872
 adaderanalk | 3,690
 tamilmirrorlk | 3,828
 dailymirrorlk | 4,733
 virakesarilk | 5,030
-adaderanasinhalalk | 5,323
+adaderanasinhalalk | 5,324
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,422 (100.0%) of 32,427 articles have been extended.
+32,427 (100.0%) of 32,430 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### කෙන්යානු ජනපති පසුබසියි
+
+*2024-06-27 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198208) · `si`
+
+කෙන්යානු රජය විසින් ඉදිරිපත්කළ මතභේදාත්මක මූල්‍ය පනත් කෙටුම්පත හකුළා ගැනීමට එරට ජනාධිපති විලියම් රූටෝ තීරණය කර තිබේ.
+
+එරට බදු ක්‍රමවේදය සංශෝධනය කිරීමට එම පනත් කෙටුම්පත මගින් යෝජනා කර තිබුණි.
+
+ඊට එරෙහිව රට පුරා විරෝධතා පැතිරගිය අතර එරට පාර්ලිමේන්තුවේ කොටසක් ගිනි තැබීමටද උද්ඝෝෂකයින් පියවර ගෙන තිබේ.
+
+ආරක්ෂක අංශ සහ උද්ඝෝෂකයින් අතර තැනින් තැන ඇතිවූ ගැටුම් හේතුවෙන් 23 දෙනෙක් මියගොස් ඇති බව වාර්තා විය.
+
+◼️
+
+[Data](articles/dc0a6dc2.json)
+
+---
+
+### දින 24 ක් පුද්ගලයෙකු පැහැරගෙන ගොස් දසවද දුන් පිරිසක් පොලීසියෙන් සොයයි
+
+*2024-06-27 12:03:38* · [`adalk`](https://www.ada.lk/breaking_news/දින-24-ක්-පුද්ගලයෙකු-පැහැරගෙන-ගොස්-දසවද-දුන්-පිරිසක්-පොලීසියෙන්-සොයයි/11-410474) · `si`
+
+කිලිනොච්චිය භාරතීපුරම් ප්‍රදේශයේ පදිංචිව දින 24 ක් අතුරුදහන්ව සිටි පුද්ගලයෙකු ඊයේ (26) දින කිලිනෙච්චිය පොලීසියට භාර වී ඇත්තේ තමන් කිසියම් පිරිසක් විසින් පහරගෙන ගොස් වදහිංසා සිදුකල බව පවසමිනි.
+
+භාරතීපුරම් ප්‍රදේශයේ පදිංචි 48 හැවිරිදි සිංහරාජන් ජයකුමාර් නැමත්ත පසුගිය 02 වනදා සිට අතුරුදහන්ව ඇතැයි ඔහුගේ ඥාතීන් විසින් පොලීසියට පැමිණිළි කොට තිබුණි.
+
+කෙසේ වෙතත් ඊයේ දිනයේදී අතුරුදහන්ව සිටි පුද්ගලයා එකවරම කිලිනොච්චිය පොලීසියට පැමිණ භාර වී ඇත්තේ තමන්ව කිසියම් පිරිසක් විසින් පැහැරගෙන ගොස් ස්ථාන කිහිපයකට රැගෙන යමින් දිනේන දින විවිධ හිංසා කරමින් පහරදුන් බවටත් ඒසේ රඳවා සිටි අවස්ථාවක එම ස්ථානයෙන් ඉතා අසීරුවෙන් පැන පොලීසියට පැමිණි බවට අදල පුද්ගලයා විසින් පොලීසියට පවසා ඇත.
+
+ඒ අනුව පොලීසිය විසින් එම පුද්ගලයාගේ තොරතුරු වලට අනුව රඳවා සිටි ස්ථානයකට ගොස් පරික්ෂ කෙට ඇතත් කිසිවෙක් නොසිට ඇති අතර අදාල පිරිස් කව්රුන්දැයි යන්න පිළිබඳව මෙතෙක් තොරතුරක් නොමැති බවටත් එම පිරිස් සොයා පුලුල් පරික්ෂණයක් අරඹා ඇතැයිද කිලිනොච්චිය පොලීසිය වැඩිදුරටත් පැවසීය.
+
+...
+
+[Data](articles/65694b5e.json)
+
+---
 
 ### Honduras ex-President Hernandez sentenced to 45 years in prison on US drug conviction
 
@@ -51,6 +87,8 @@ He also said jurors saw through Hernandez’s “polished demeanor” during the
 ...
 
 [Data](articles/c65e7b15.json)
+
+[Extended Data](ext_articles/c65e7b15.ext.json)
 
 ---
 
@@ -110,25 +148,31 @@ There are complaints that caste leaders in the village are excluding romantic ma
 
 ---
 
-### මිටර් 100ක් ඇතුළත දුම්රියේ ගැටී දෙදෙනෙක් ජිවිතක්ෂයට
+### Two killed in train within 100 miters
 
 *2024-06-27 11:06:12* · [`adalk`](https://www.ada.lk/breaking_news/මිටර්-100ක්-ඇතුළත-දුම්රියේ-ගැටී-දෙදෙනෙක්-ජිවිතක්ෂයට/11-410473) · `si`
 
-මුහුදු බඩ දුම්‍රිය මාර්ගයේ ඉදුරුව අතුරුවැල්ල ප්‍රදේශයේදී අද (27)උදේ පැය හතරක් පමණ ඇතුළත මීටර් සියයක් අතර දුරකදී දෙදෙනෙකු දුම්රියේ හැපී මරුමුවට පත්වී ඇතැයි කොස්ගොඩ පොලීසිය කියයි.
+In a tragic incident near Kosgoda, two individuals, a 2-year-old and a 60-year-old male from Apeldedda, Amarasuwa, were fatally struck by a train while crossing the railway line near a river. The victims were traveling from Colombo to Matara when the accident occurred about 100 meters from the railway line. Both died upon impact, and their bodies were taken to the Balapitiya Base Hospital.
 
-මෙසේ දුම්රියේ හැපී මිය ගොස් ඇත්තේ ඉදුරුව අතුරුවැල්ල ප්‍රදේශයේම පදිංචි තිස්පස් හැවිරිදි හා හැට හැවිරිදි පිරිමි අයවලුන් දෙදෙනෙක් බවද පොලීසිය කියයි.
+🟩
 
-මේ දෙදෙනා අතරින් අද අලුයම් කාලයේ තිස් පස් හැවිරිදි පුද්ගලයා කොළඹ සිට මාතර බලා ධාවනය වෙමින් තිබූ දුම්රියකද හැට හැවිරිදි අය අද උදේ බෙලිඅත්තේ සිට කොළඹ බලා ධාවනය වෙමින් තිබූ දුම්රියකද හැපී මරුමුවට පත්වී ඇති බව ද පොලීසිය කියයි.
+Kosgoda Police say that two mines have been killed in a distance of two meters in the area in the river railway line.
 
-මේ දෙදෙනාම දුම්රියේ හැපී ඇත්තේ ඉදුරුව අතුරුවැල්ල ප්‍රදේශයේ දුම්රිය මගෙහි මීටර් සියයක් දුර අතර බව ද පොලීසිය කියයි.
+The train had been killed two-year-old and 60-year-old male, a resident of the Apelled area in Amarasuwa.
 
-දෙදෙනාම දුම්රියට පැන සිය දිවි හානි කර ගත්තේද නැතහොත් වෙනයම් හේතුවක් නිසා ඔවුන් දෙදෙනාම දුම්රියේ හැපී මියගියේ දැයි යන්න පිළිබදව සොයා බැලීමට පරීක්ෂණ ආරම්භ කළ බව ද පොලීසිය කියයි.
+According to the two-five-year-old man who was traveling to Matara from Colombo this morning, the police said.
 
-මේ දුම්රිය අනතුරින් මිය ගිය දෙදෙනාගේම මරණ පරීක්ෂණ අද දහවල් බලපිටිය මූලික රෝහලේදී පැවැත්වීමට නියමිතව තිබිණ.
+Both of them have hit the train between a hundred meters from the railway line.
+
+The police said that the two commenced their suicide, or for the other reason, sought to look into the train.
+
+Deaths of both death of the train crash were to be held at the Balapitiya Base Hospital this afternoon.
 
 ◼️
 
 [Data](articles/4389c40c.json)
+
+[Extended Data](ext_articles/4389c40c.ext.json)
 
 ---
 
@@ -1352,6 +1396,8 @@ Following this, Tamil Nadu Chief Minister M.K. Stalin wrote to Union Minister fo
 
 [Data](articles/8b526396.json)
 
+[Extended Data](ext_articles/8b526396.ext.json)
+
 ---
 
 ### MOP fertilizer free for the next two major paddy cultivation - Minister Mahinda Amaraweera
@@ -1838,21 +1884,27 @@ Speaking on the role of Mahela, SLC announced that he contributed significant ch
 
 ---
 
-### මහනුවර ඇසළ පෙරහර මංගල්‍ය අගෝස්තු 05දා ඇරඹෙයි
+### Kandy Perahera commences on August 5
 
 *2024-06-26 20:10:49* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-ඇසළ-පෙරහර-මංගල්‍ය-අගෝස්තු-05දා-ඇරඹෙයි/11-410468) · `si`
 
-මෙවර කන්ද උඩරට ඇසළ පෙරහර මංගල්‍යය අගෝස්තු මස 05වැනිදා සිට අගෝස්තු මස 21 වැනි දින දක්වා පැවැත්වීමට නියමිත බව ශ්‍රී දළදා මාලිගාවේ දියවඩන නිලමේ ප්‍රදීප් නිලංග දෑල මහතා නිල වශයෙන් ප්‍රකාශයට පත් කළේය .
+The Mount Kandy Perahera, announced by the Diyawadana Nilame of the Sri Dalada Maligawa, will take place from August 5th to 21st. The event was discussed on July 26th, with the first spotlight on August 10th featuring the Maha Devalaya's Kap Plan Perahera. The Esala Paraday Perahera is scheduled for August 20th and 21st.
 
-ශ්‍රී දළදා මාළිගාවේ බහු කාර්ය ගොඩනැගිල්ලේදී ඊයේ (26දා) පැවති පෙරහර සාකච්ඡාවේදී නිලමේවරයාඒ බව ප්‍රකාශයට පත් කළේය .
+🟩
 
-අගෝස්තු මස 05 දින අලුයම 4.10 ට යෙදෙන සුබ මුහුර්තියෙන් සිව් මහා දේවාලයන්හි කප් සිටුවා අභ්‍යන්තර පෙරහැර පවත්වා අගෝස්තු මස 10 දින ප්‍රථම කුඹල් පෙරහැර වීදි සංචාරය කිරීමට නියමිත අතර අගෝස්තු මස 15 දින ප්‍රථම රන්දෝලි පෙරහර වීදි සංචාරය කිරීමට නියමිතය .
+The Mount Kandy Perahera, Diyawadana Nilame, the Sri Dalada Maligawa, has officially declared that the Mount Kandy Perahera will be held from August 05 to 21st August.
 
-අගෝස්තු මස 20වැනි දා ඇසළ පුන් පොහෝදින රන්දෝලි මහ පෙරහර වීදි සංචාරය කිරීමට නියමිතය.අගෝස්තු මස 21 දින දවල් පෙරහර වීදි සංචාරය කිරීමෙන් අනතුරුව ඇසළ පෙරහර මංගල්‍යය නිමා වීමට නියමිතය .
+The Nilame stated that the Perahera discussion held yesterday (26) at the Sri Dalada Maligawa yesterday (26).
+
+The first potlight will visit the first Kap Plan Perahera of the Maha Devalaya on the 10th of August.
+
+On the 20th of August, the Esala Paraday Perahera will be held on the 21st of the 21st of the 21st of March.
 
 ◼️
 
 [Data](articles/981fe778.json)
+
+[Extended Data](ext_articles/981fe778.ext.json)
 
 ---
 
@@ -1904,21 +1956,27 @@ He stated that the necessary formal procedures are currently being implemented.
 
 ---
 
-### තෙල් පිරිපහදුව රජයට අයත් වෙනම ආයතනයක් කරයි
+### Oil refinery makes a government part of the government
 
 *2024-06-26 20:03:46* · [`adalk`](https://www.ada.lk/breaking_news/තෙල්-පිරිපහදුව-රජයට-අයත්-වෙනම-ආයතනයක්-කරයි/11-410467) · `si`
 
-ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ ප්‍රතිව්‍යුහගත කිරීමේ කටයුතු අවසන් අදියරට පැමිණ ඇති බව බලශක්ති අමාත්‍යාංශය පවසයි. ඒ අනුව ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවට අයත් තෙල් පිරිපහදුව, රජයට අයත් වෙනම ආයතනයක් ලෙස ස්ථාපිත කර ඉන්ධන ප්‍රමිතිය වැඩි කිරීමට, කාර්යක්ෂමතාව වැඩි කිරීමට, ධාරිතාව වැඩි කිරීමට සහ පිරිවැය අඩු කිරීමට අවශ්‍ය මුල්‍ය ආයෝජන ලබා ගැනීමට නියමිතය.
+The restructuring of the Ceylon Petroleum Corporation is nearing completion, aiming to enhance fuel quality and efficiency by separating the oil refinery into its own entity. This move also involves adjusting employee numbers and introducing new salary scales. Additionally, discussions have been held regarding the progress of the Trincomalee Oil Tank Terminal, a joint project with the Lanka Fuel Corporation, which includes 61 tanks. The terminal aims to meet the country's energy needs and facilitate exports.
 
-එමෙන්ම ඛනිජ තෙල් නීතිගත සංස්ථාවේ වත්මන් අනුමත සේවකයන් සංඛ්‍යාව අවශ්‍යතාව අනුව සංශෝධනය කිරීමට සහ නව වැටුප් තල සකස් කිරීමත් සේවා සහ කාර්ය ඩිජිටල්කරණයට ලක් කිරීමත් මෙමගින් සිදු කිරීමට යෝජිතය.
+🟩
 
-මෙම වැඩපිළිවෙළේ කාලරාමුව සහ ක්‍රියාත්මක කිරීමේ වැඩකටයුතු සම්බන්ධයෙන් විශේෂ සාකච්ඡාවක් ඛනිජ තෙල් සංස්ථාවේ හා තෙල් පිරිපහදුවේ ඉහෙළ කළමනාකාරිත්වය සමග පැවැත්වීය.
+The Ministry of Energy says that the restructuring of the Ceylon Petroleum Corporation has reached final stage. Accordingly, the oil refinery belonging to the Ceylon Petroleum Corporation as a separate company to increase the fuel standards and increase the capacity to increase the capacity, increase capacity and reducing costs.
 
-මේ අතර ත්‍රිකුණාමලය තෙල් ටැංකි පර්‍යන්තයේ සංවර්ධන සැලසුම සහ එම වැඩපිළිවෙළේ ප්‍රගතිය සමාලෝචනය කිරීමේ සාකච්ඡාවක් ත්‍රිකුණාමලය තෙල් ටැංකි පර්යන්ත සමාගමේ කළමනාකාරිත්වය සමග පැවැත්විණ. එම සමාගම, ඛනිජ තෙල් නීතිගත සංස්ථාවේ හා ලංකා ඉන්දියානු ඉන්ධන සමාගමේ ඒකාබද්ධ ව්‍යාපෘතියක් වන අතර එහි තෙල් ටැංකි 61 ක් අන්තර්ගතවේ.
+It is proposed to make amendment to the need to amend the number of employees of the Ceylon Petroleum Corporation and create new salary ses.
+
+A special discussion was held with the overhead management of the Petroleum Corporation and the Oil Refinery.
+
+Meanwhile, a discussion to review the progress plan of the Trincomalee Oil Tank Terminal and the progress of the program with the management of the Trincomalee Oil Tanks. The company is a joint project of the Petroleum Corporation and Lanka Fuel Corporation and there are 61 tanks.
 
 ...
 
 [Data](articles/7adac26c.json)
+
+[Extended Data](ext_articles/7adac26c.ext.json)
 
 ---
 
@@ -2223,45 +2281,5 @@ According to the dents opened yesterday (26th), the lowest bid was offered to be
 [Data](articles/b1089b42.json)
 
 [Extended Data](ext_articles/b1089b42.ext.json)
-
----
-
-### Mahela resigns as Sri Lanka consultant coach
-
-*2024-06-26 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100125/mahela-resigns-as-sri-lanka-consultant-coach) · `en`
-
-Sri Lanka Cricket (SLC) today announced that former captain Mahela Jayawardena, who served as the ‘Consultant Coach’ of the SLC, has tendered his resignation with immediate effect.
-
-Jayawardena, during his tenure, helped implement significant changes to the structure of the national team ecosystem and the High-Performance Center, the SLC said.
-
-“Sri Lanka Cricket takes this opportunity to wish Mahela all the best in his future endeavours and thank him for the services he rendered during his tenure,” the statement said.
-
-Jayawardena had initially joined SLC as a Consultant Coach in September 2022 ahead of the ICC Men’s T20 World Cup in Australia. He was in charge of the overall cricketing element of the national teams and provided invaluable strategic support for the players and management teams at the High-Performance Center.
-
-...
-
-[Data](articles/f568ea00.json)
-
-[Extended Data](ext_articles/f568ea00.ext.json)
-
----
-
-### Three arrested for protest in the Teacher Principal
-
-*2024-06-26 19:22:12* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-විදුහල්පති-විරෝධතාවට-ආපි-තිදෙනෙක්-ජාතික-රෝහලට/11-410459) · `si`
-
-Three individuals were arrested during a protest at the Colombo Fort Railway Station. Police entered the Colombo National Hospital to disperse it. Two of them left the hospital later, while one remained.
-
-🟩
-
-A spokesman said that the police were admitted to the Colombo National Hospital to disperse the protest at the Colombo Fort Railway Station.
-
-Two of the three hospitalized were leaving a while, and others were returning to the hospital.
-
-◼️
-
-[Data](articles/c9df1264.json)
-
-[Extended Data](ext_articles/c9df1264.ext.json)
 
 ---

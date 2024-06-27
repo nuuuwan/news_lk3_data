@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 09:34:57**
+As of **2024-06-27 09:54:31**
 
 ## Newspaper Stats
 
-*Scraped **32,398** Articles*
+*Scraped **32,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,71 +16,149 @@ islandlk | 1,802
 economynextcom | 1,884
 dailyftlk | 1,988
 adalk | 2,865
-adaderanalk | 3,683
+adaderanalk | 3,685
 tamilmirrorlk | 3,826
 dailymirrorlk | 4,733
 virakesarilk | 5,027
-adaderanasinhalalk | 5,317
+adaderanasinhalalk | 5,318
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,392 (100.0%) of 32,398 articles have been extended.
+32,398 (100.0%) of 32,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### බස්නැවතුමේ වැසිකිළියක් තුළ පුද්ගල මරණයක්
+### දිනකට ජීවිත 7ක් බිලිගන්නා ඛේදවාචකය
+
+*2024-06-27 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198202) · `si`
+
+මෙරට මාර්ග අනතුරු හේතුවෙන් සිදුවන මරණ වැඩි සංඛ්‍යාවක් යතුරුපැදි අනතුරු බව පොලීසිය පවසයි.
+
+රථ වාහන දිසාව භාර නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා පවසන්නේ දෛනිකව මාර්ග අනතුරු හේතුවෙන් පුද්ගලයින් 07 දෙනෙකු පමණ මිය යන බවය.
+
+කොළඹ පැවති මාධ්‍ය හමුවකට එක්වෙමින් නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා මේ බව සඳහන් කළේය.
+
+"ලංකාවේ අනතුරුවලින් වසරකට 12,000ක් පමණ මියයනවා. ඒ අතරින් හතරෙන් එකක්ම මාර්ගයේ සිදුවන අනතුරුවලින් මියයන පිරිස. එතකොට ලංකාවේ අනතුරුවලින් දිනකට 7 දෙනෙක්, 8 දෙනෙක් විතර ජීවිතක්ෂයට පත්වෙනවා. එයින් වැඩිපුරම ජීවිතක්ෂයට පත්වෙන්නේ යතුරුපැදිවල පැදිකරුවන් සහ පසුපැදිකරුවන්. ලංකාවේ තරුණ ප්‍රජාව අවුරුදු 18 - 28 ඵලදායි තරුණ ජීවිත අහිමිවෙනවා. පසුගිය වසරේ 2,310 දෙනෙක් මියගිහින් තිබුණා. එතකොට ප්‍රතිශතයක් වශයෙන් 2022 වසරට සාපේක්ෂව 2023 වසරේ මාර්ග රිය අනතුරුවලින් ජීවිත 230ක් බේරාගන්න හැකියාවක් තිබුණා."
+
+මාර්ග අනතුරු වැඩි වීමට ප්‍රධානතම හේතුව බීමත් රිය ධාවනය බව නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/e4511f13.json)
+
+---
+
+### India hails Sri Lanka’s debt restructuring pact; reaffirms support to recovery
+
+*2024-06-27 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100133/india-hails-sri-lankas-debt-restructuring-pact-reaffirms-support-to-recovery) · `en`
+
+India on Wednesday welcomed Sri Lanka’s debt restructuring agreement with a group of creditor nations and said it will continue to support the island nation’s economic recovery, including by promoting long-term investments.
+
+India is one of the co-chairs of the Official Creditors Committee (OCC) that was formed in April last year to finalise a plan for restructuring Sri Lanka’s debt.
+
+The Sri Lankan government said it has finalised a long-delayed debt restructuring agreement for USD 5.8 billion with its bilateral lenders, including India and China.
+
+“After several rounds of engagements, the OCC signed the Memorandum of Understanding (MoU) on debt restructuring on June 26,” India’s Ministry of External Affairs (MEA) said.
+
+It said this milestone demonstrates the strong progress made by Sri Lanka in stabilising its economy and moving towards reform and growth.
+
+...
+
+[Data](articles/17a42d8f.json)
+
+---
+
+### A person death in a toilet in the bus
 
 *2024-06-27 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198201) · `si`
 
-නුවරඑළිය බස් නැවතුම්පොළේ පොදු වැසිකිළිය තුළ තිබී මියගිය පුද්ගලයෙකුගේ සිරුරක් හමුව තිබේ.
+A body was discovered in a public restroom at the Nuwara Eliya bus station. The police were alerted via phone call. An ambulance arrived in 1990 to transport the deceased to Nuwara Eliya Hospital for an autopsy.
 
-පොලීසිය පැවසුවේ, ඊයේ (26) සවස් කාලයේ දී වැසිකිළිය තුළ පුද්ගලයෙකු වැටී සිටින බවට පොලීසියට ලද දුරකථන ඇමතුමක් මත විමර්ශන ආරම්භ කළ බවය.
+🟩
 
-පසුව 1990 ගිලන්රථ සේවය පැමිණ අදාළ පුද්ගලයා මියගොස් ඇතැයි තහවුරු කර ඇත.
+The body of a dead person was found in the general toilet at the Nuwara Eliya bus stand.
 
-මෘත ශරීරය හදිසි මරණ පරීක්ෂණය සඳහා නුවරඑළිය රෝහලේ තැන්පත් කර තිබේ.
+Police said that the toilet was initiated on a telephone call on a telephone call on the toilet.
+
+In 1990, the ambulance service has come to the death of the person.
+
+The body has been placed at the Nuwara Eliya Hospital for the emergency test.
 
 ◼️
 
 [Data](articles/e64d20fb.json)
 
+[Extended Data](ext_articles/e64d20fb.ext.json)
+
 ---
 
-### லஞ்சம் பெற்ற அதிகாரி கைது
+### Teachers and principals continue strike today
+
+*2024-06-27 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100132/teachers-and-principals-continue-strike-today) · `en`
+
+The teacher-principal trade unions are continuing their strike action today (27) as well, protesting against the firing of tear gas and water cannons to disperse their protest march in Colombo yesterday (26).
+
+The teacher-principal trade unions engaged in an island-wide trade union action by reporting sick leave yesterday (26) based on several demands. At the same time, the members of the trade union launched a protest in Colombo which commenced from near the Colombo Fort Railway Station.
+
+Police later resorted to using tear gas and water cannons to disperse the protesters near the Lotus Roundabout in Fort as they attempted to march towards the Presidential Secretariat.
+
+The strike had disrupted educational activities at schools across the country.
+
+Also, attendance in many schools was very low, and some students who came to school had to return home as they could not enter the premises, said Ada Derana reporter.
+
+...
+
+[Data](articles/3d4993fa.json)
+
+---
+
+### Bribed officer arrested
 
 *2024-06-27 09:08:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லஞ்சம்-பெற்ற-அதிகாரி-கைது/175-339511) · `ta`
 
-பெண் ஒருவரிடம் 25,000 ரூபாவை லஞ்சமாக பெற்ற சம்பவம் தொடர்பில் ஹீரஸ்ஸகல கிராம அதிகாரியை இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் அதிகாரிகள் குழு நேற்று (26) கைது செய்துள்ளது.
+A village officer was arrested by the Bribery Corruption Commission for accepting a bribe related to electricity supply services. The arrest followed a complaint from a local woman.
 
-ஹீரஸ்ஸகல கிராம சேவை பிரிவில்  வசிக்கும் பெண் ஒருவர் செய்த முறைப்பாட்டின் பிரகாரம் இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் அதிகாரிகள் குழு ஹிரஸ்ஸகல பிரதேசத்திற்குச் சென்று குறித்த கிராம உத்தியோகத்தர் அலுவலக வளாகத்தில் பணம் கொடுத்த போது அவரை கைது செய்துள்ளனர்.
+🟩
 
-முறைப்பாடு செய்த பெண்ணின் மகனின் வீட்டிற்கு மின்சாரம் வழங்கிய சம்பவம் தொடர்பில் கிராம அதிகாரி இந்தப் பணத்தை எடுத்துள்ளதாகத் தெரியவந்துள்ளது. R
+A group of officials of the Bribery Corruption Commission yesterday (26) arrested a village officer in connection with the bribery incident of a woman who had bribed a woman.
+
+According to a complaint lodged by a woman living in the Heyrasagala Grama Niladhari, a group of officials of the Bribery Commission have arrested a group of officials and arrested the Grama Niladhari Office.
+
+The village officer has taken the money in connection with the incident of supplying electricity to the house of the woman's son who complained.. Remble
 
 ◼️
 
 [Data](articles/e39e68b6.json)
 
+[Extended Data](ext_articles/e39e68b6.ext.json)
+
 ---
 
-### பாடசாலை கல்வி நடவடிக்கைகள் இன்று வழமைபோல் இடம்பெறும் ; கல்வி அமைச்சு
+### School educational activities will take place today as usual;Ministry of Education
 
 *2024-06-27 09:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/187069) · `ta`
 
-நாடளாவிய ரீதியில் அதிபர்கள், ஆசிரியர்கள் மற்றும் ஆசிரிய ஆலோசகர்களின் போராட்டங்களுக்கு மத்தியிலும் அனைத்து பாடசாலைகளின் கல்வி நடவடிக்கைகளும் இன்று வியாழக்கிழமை (27) வழமை போன்று நடைபெறும் என கல்வி அமைச்சு அறிவித்துள்ளது.
+Despite protests over teacher/principal pay issues, schools remain open today. Yesterday's demonstration at the Fort Railway Station led to clashes, with tear gas and water used against protesters. The Sri Lanka Teachers Union's Joseph Stalin promises continued action.
 
-ஆசிரியர்கள் மற்றும் அதிபர்களின் சம்பள பிரச்சினைகளை தீர்த்து வைக்குமாறு கோரி நேற்றைய தினம் கோட்டை ரயில் நிலையத்திற்கு முன்பாக கவனயீர்ப்பு போராட்டமொன்று முன்னெடுக்கடுக்கப்பட்டது.
+🟩
 
-இதன்போது, போராட்டத்தில் ஈடுபட்ட  அதிபர்கள் மற்றும் ஆசிரியர்களை கலைக்க கண்ணீர் புகை மற்றும் நீர்த்தாரை பிரயோகிக்கப்பட்டது.
+The Ministry of Education has announced that the educational activities of all schools will be held today (27) despite the struggles of principals, teachers and faculty consultants nationwide.
 
-இதற்கு எதிர்ப்பு தெரிவித்து இன்று இரண்டாவது நாளாகவும் சுகயீன விடுமுறை போராட்டம் தொடரும் என இலங்கை ஆசிரியர் சங்கத்தின் பொதுச் செயலாளர் ஜோசப் ஸ்டாலின் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+A protest campaign was carried out in front of the Fort Railway Station yesterday demanding the resolving the pay issues of teachers and principals.
+
+In the meantime, tear gas and water were used to dissolve the protesting principals and teachers.
+
+Joseph Stalin, general secretary of the Sri Lanka Teachers Union, said that the second day of the day will continue for the second day.
 
 ◼️
 
 [Data](articles/2c4492f3.json)
+
+[Extended Data](ext_articles/2c4492f3.ext.json)
 
 ---
 
@@ -320,55 +398,77 @@ From the Western slopes of the central hills, Trincomalee, Trincomalee and Moner
 
 ---
 
-### ஹீரஸ்ஸகல கிராம அதிகாரியை இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் அதிகாரிகளால் கைது
+### Heyrasagala village officer arrested by officials of bribery corruption commission
 
 *2024-06-27 05:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187066) · `ta`
 
-பெண் ஒருவரிடம் 25000 ரூபா லஞ்சம் பெற்ற சம்பவம் தொடர்பில் ஹீரஸ்ஸகல கிராம அதிகாரியை இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் அதிகாரிகள் குழு புதன்கிழமை (26) கைது செய்துள்ளது.
+A village officer from Heyrasagala was arrested by the Bribery Corruption Commission for allegedly accepting bribes to supply electricity. The arrest followed a complaint by a local woman whose son's house was involved.
 
-ஹீரஸ்ஸகல கிராம சேவை பிரிவில்  வசிக்கும் பெண் ஒருவர் செய்த முறைப்பாட்டின் பிரகாரம் இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் அதிகாரிகள் குழு ஹிரஸ்ஸகல பிரதேசத்திற்குச் சென்று குறித்த கிராம உத்தியோகத்தர் அலுவலக வளாகத்தில் பணம் கொடுத்த போது அவரை கைது செய்துள்ளனர்.
+🟩
 
-முறைப்பாடு செய்த பெண்ணின் மகனின் வீட்டிற்கு மின்சாரம் வழங்கிய சம்பவம் தொடர்பில் கிராம அதிகாரி இந்தப் பணத்தை எடுத்துள்ளதாகத் தெரியவந்துள்ளது.
+A group of officials of the Bribery Corruption Commission on Wednesday (26) arrested a Heyrazakala village officer in connection with the bribery of a woman.
+
+According to a complaint lodged by a woman living in the Heyrasagala Grama Niladhari, a group of officials of the Bribery Commission have arrested a group of officials and arrested the Grama Niladhari Office.
+
+The village officer has taken the money in connection with the incident of supplying electricity to the house of the woman's son who complained.
 
 ◼️
 
 [Data](articles/2e63406d.json)
 
+[Extended Data](ext_articles/2e63406d.ext.json)
+
 ---
 
-### வடக்கு மாகாண ஆளுநரை சந்தித்த பிரித்தானிய உயர்ஸ்தானிகர் அன்றூ பற்றிக்
+### British High Commissioner who met the Governor of the Northern Province
 
 *2024-06-27 05:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187065) · `ta`
 
-வடக்கு மாகாண  ஆளுநர் பி. எஸ். எம். சார்ள்ஸ் அவர்களை, இலங்கைக்கான பிரித்தானிய உயர்ஸ்தானிகர் அன்றூ பற்றிக் (Andrew Patrick) உள்ளிட்ட குழுவினர் புதன்கிழமை (26) சந்தித்து கலந்துரையாடினர். வடக்கு மாகாண ஆளுநர் செயலகத்தில் இந்த சந்திப்பு நடைபெற்றது.
+In a meeting between the British High Commissioner to Sri Lanka and the Governor of the Northern Province, discussions covered resettlement, land release, job opportunities, and transportation improvements. The Governor noted progress in resettling 1,500 families and ongoing efforts to release land according to presidential guidelines. He emphasized the importance of foreign visitors securing land rights and highlighted initiatives to create jobs based on qualifications, especially in tourism. The Governor also mentioned plans to expand transport services, including domestic aviation, to benefit the Northern Province.
 
-மீள்குடியேற்றம், காணி விடுவிப்பு, தொழில் வாய்ப்புகள், போக்குவரத்து வசதிகள் உள்ளிட்ட பல விடயங்கள் தொடர்பில் இதன்போது கலந்துரையாடப்பட்டது.
+🟩
 
-மீள்குடியேற்ற நடவடிக்கைகள் நிறைவு பெற்றுள்ள நிலையில் 1500 குடும்பங்கள் மாத்திரமே மீள்குடியேற்றம் செய்யப்பட வேண்டியுள்ளதாகவும், அவர்களை மீள் குடியேற்றுவதற்கான உரிய செயற்பாடுகள் முன்னெடுக்கப்பட்டுள்ளதாகவும்  ஆளுநர் தெரிவித்தார்.
+Governor of the Northern Province. S.. M.. Charles, including the British High Commissioner to Sri Lanka, met with the Andrew Patrick on Wednesday (26).. The meeting was held at the Governor of the Northern Province.
 
-ஜனாதிபதியின் வழிகாட்டுதல்களுக்கு அமைய, காணி விடுவிப்பு மேற்கொள்ளப்பட்டு வருவதுடன், மக்களின் காணி உரிமையை உறுதிப்படுத்தும் வகையில், “உரித்து” செயல் திட்டம் முன்னெடுக்கப்பட்டு வருவதாகவும்  ஆளுநர் தெரிவித்தார். வெளிநாடுகளில் உள்ள வடக்கு மாகாணத்தை சேர்ந்தவர்கள் நாட்டிற்கு வருகை தந்து தங்களின் காணி உறுதிகளை பெற்றுக்கொள்ள வேண்டும் எனவும் அவர் தெரிவித்தார்.
+Discussions were discussed on a number of issues including resettlement, land release, employment opportunities and transport facilities.
+
+The governor said that only 1500 families had to be resettled as the resettlement measures had been completed and the resettlement of them had been taken to resettle them.
+
+The governor said that the land release is being carried out in accordance with the guidelines of the president and that the "Uridu" action plan is being carried out to ensure the land rights of the people.. He also said that people from abroad should visit the country and obtain their land guarantees.
 
 ...
 
 [Data](articles/1644b6a1.json)
 
+[Extended Data](ext_articles/1644b6a1.ext.json)
+
 ---
 
-### மயிலத்தமடு பண்ணையாளர்களின் மேய்ச்சல்தரையை ஒப்படைக்க ஜனாதிபதி ரணில் மீண்டும் உத்தரவு; ஜுலை 2ஆம் வாரத்தில் பண்ணையாளர்களுடன் சந்திப்பு
+### President Ranil again ordered to hand over the grazing floor of peacock farmers;Meeting with farmers in the 2nd week of July
 
 *2024-06-27 05:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/187064) · `ta`
 
-மயிலத்தமடு பண்ணையாளர்களின் மேய்ச்சல்தரையை ஒப்படைக்குமாறு ஜனாதிபதி ரணில் விக்கிரமசிங்க சம்பந்தப்பட்ட அரச அதிகாரிகளுக்கு மீண்டும் உத்தரவிட்டுள்ளார்.
+President Ranil Wickremesinghe has directed officials to return grazing lands to peacock farmers and expressed interest in personally meeting them during his visit to Batticaloa in early July. He discussed the farmers' challenges with local officials, emphasizing the need to address their demands promptly. Officials assured no agricultural activities would disrupt the farmers' land use, marking an end to the dispute.
 
-அத்துடன், ஜுலை இரண்டாம் வாரம் மட்டக்களப்புக்கு விஜயம் செய்யும் தருணத்தில் பண்ணையாளர்களை நேரில் சந்தித்து உரையாடுவதற்கும் ஆர்வம் கொண்டிருப்பதாகவும் ஜனாதிபதி ரணில் தெரிவித்துள்ளார்.
+🟩
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் நேற்றையதினம் ஜனாதிபதி செயலகத்தில் மட்டக்களப்பு அரசாங்க அதிபர், மகாவலி அதிகாரசபையின் அதிகாரிகள், வனத் திணைக்கள அதிகாரிகள் உள்ளிட்டவர்களைச் சந்தித்திருந்தார்.
+President Ranil Wickremesinghe has once again ordered the relevant state officials to hand over the grazing floor of the peacock farmers.
 
-இதன்போது மயிலத்தமடு பண்ணையாளர்கள் தமது மேய்ச்சல் தரையை உறுதி செய்யுமாறு தொடர்ச்சியாக முன்னெடுத்துவரும் போராட்டம் சம்பந்தமாக கவனம் செலுத்தப்பட்டது. பண்ணையாளர்கள் விடுத்துள்ள கோரிக்கை தொடர்பாகவும் அவதானம் செலுத்தப்பட்டது.
+President Ranil has said that he is also interested in meeting the farmers in person at the moment of visiting Batticaloa for the second week of July.
+
+President Ranil Wickremesinghe met with the Batticaloa Government Agent, the Mahaweli Authority officials and the Forest Department officials at the Presidential Secretariat yesterday.
+
+At this time, the focus was on the struggle of peacock farmers to ensure their grazing grounds.. Farmers were also concerned about the demand issued by the farmers.
+
+He has also questioned the authorities about the implementation of the implementation of the farmers' demand and has been asked to take steps to provide a solution to the matter.
+
+Officials have confirmed that agricultural activities will not be carried out on the pasture ground and the evacuation will be eliminated.
 
 ...
 
 [Data](articles/3f65c991.json)
+
+[Extended Data](ext_articles/3f65c991.ext.json)
 
 ---
 
@@ -2151,69 +2251,5 @@ The men were arrested on charges of gathering without permission, disrupting the
 [Data](articles/8b8979a3.json)
 
 [Extended Data](ext_articles/8b8979a3.ext.json)
-
----
-
-### Train delays expected on Coastal Line
-
-*2024-06-26 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100119/train-delays-expected-on-coastal-line-) · `en`
-
-The train services along the Coastal Line will experience delays owing to a train breakdown caused by a technical failure near Kompanna Veediya railway station, Sri Lanka Railways announced.
-
-The slow train plying from Maradana to Moratuwa at 3.50 p.m. has experienced a technical failure in this manner, the department said.
-
-◼️
-
-[Data](articles/5e236bce.json)
-
-[Extended Data](ext_articles/5e236bce.ext.json)
-
----
-
-### 33 arrested, including foreigners in Negombo
-
-*2024-06-26 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/187028) · `ta`
-
-In Negombo, 33 individuals, including foreigners, were arrested for online financial fraud targeting locals and foreigners. A woman lost 5.4 million rupees after investing in a scheme promising returns from liking and commenting on Digtok videos. Police actions led to the arrest of two more suspects and the seizure of numerous devices used for fraud. Authorities also arrested 19 more suspects from various countries, warning the public about scams impersonating popular companies on social media.
-
-🟩
-
-The Criminal Investigation Department (CID) has arrested 33 people, including a foreign citizen who allegedly engaged in financial fraud on the Internet, targeting several foreign nationals and local people.
-
-A woman has joined a WhatsApp group, claiming to have paid to like and comment Digtok videos.
-
-Initially Like and Comment this woman has received money. He then invested 5.4 million rupees in the bank account to continue to get the money.
-
-Although he invested money he did not receive the money back. In this case, the woman has lodged a complaint with the police.
-
-Police arrested two father and son during further inquiries into bank accounts on the woman's complaint.
-
-Meanwhile, 13 suspects, including two women, were arrested during a raid on a house in Negombo through a pizza ordered bank account.
-
-57 mobile phones, 13 computers and 3 laptops used for fraudulent activities were handed over by the authorities.
-
-...
-
-[Data](articles/6aa61a16.json)
-
-[Extended Data](ext_articles/6aa61a16.ext.json)
-
----
-
-### Railway delay on the coastal route
-
-*2024-06-26 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198185) · `si`
-
-A train from Maradana delayed at Slave Island due to unforeseen circumstances.
-
-🟩
-
-A train traveling from Maradana from Maradana has been underway at the Slave Island Railway Station this afternoon.
-
-◼️
-
-[Data](articles/6e90ce09.json)
-
-[Extended Data](ext_articles/6e90ce09.ext.json)
 
 ---

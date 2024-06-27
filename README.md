@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 14:35:06**
+As of **2024-06-27 14:53:35**
 
 ## Newspaper Stats
 
-*Scraped **32,461** Articles*
+*Scraped **32,464** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,78 @@ adalk | 2,875
 adaderanalk | 3,694
 tamilmirrorlk | 3,830
 dailymirrorlk | 4,733
-virakesarilk | 5,042
-adaderanasinhalalk | 5,330
+virakesarilk | 5,044
+adaderanasinhalalk | 5,331
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,455 (100.0%) of 32,461 articles have been extended.
+32,461 (100.0%) of 32,464 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### තඹුත්තේගමින් කොටුකර ගත් හොර නෝට්ටු මුද්‍රණාලය
+
+*2024-06-27 14:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198215) · `si`
+
+ව්‍යාජ මුදල් නෝට්ටු මුද්‍රණය කළ සැකකරුවන් තිදෙනෙක් තඹුත්තේගම පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+රුපියල් 500 ව්‍යාජ මුදල් නෝට්ටු 06ක් සන්තකයේ තබාගෙන සිටි 17 හැවිරිදි උඩුනුවර ජනපදය, නොච්චියාගම ප්‍රදේශයේ පදිංචි තරුණයෙක් පසුගිය 25 වන දින අත්අඩංගුවට ගත් බව පොලීසිය පැවසීය.
+
+එම සැකකරුගෙන් සිදුකළ වැඩිදුර ප්‍රශ්න කිරීම්වලදී ව්‍යාජ මුදල් නෝට්ටු මුද්‍රණය කිරීම සහ ව්‍යාජ නෝට්ටු ළඟ තබා ගෙන සිටි තවත් සැකකරුවන් තිදෙනෙක් ඊයේ (26) අත්අඩංගුවට ගෙන තිබේ.
+
+එම සැකකරුවන් සතුව තිබී ව්‍යාජ රුපියල් 5,000 මුදල් නෝට්ටු 08ක්, ව්‍යාජ රුපියල් 500 නෝට්ටු 149ක් සහ ව්‍යාජ මුදල් මුද්‍රණය කිරීමට යොදාගත් ලැප්ටොප් පරිගණකයක් සහ මුද්‍රණ යන්ත්‍රයක් පොලීසිය භාරයට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 17,49 හා 54 යන වයස්වල පසුවන හෙට්ටිපොල ප්‍රදේශයේ පදිංචිකරුවන්ය.
+
+◼️
+
+[Data](articles/c76768d5.json)
+
+---
+
+### நுவரெலியாவில் பொது மலசலகூடத்தில் இரு சடலங்கள் மீட்பு
+
+*2024-06-27 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/187099) · `ta`
+
+நுவரெலியா பிரதான பஸ் தரிப்பிடத்தில் உள்ள பொது  மலசலகூடத்தில் இருந்து இருவர் சடலங்களாக மீட்கப்பட்டுள்ளனர்.
+
+நேற்று புதன்கிழமை (26) இரவு நுவரெலியா பிளாக்பூல் ருவன்எலியாவைச் சேர்ந்த 71 வயதுடைய முதியவர்  ஒருவரின் சடலமும், இன்று வியாழக்கிழமை (27) ஆரியபுர பொகவந்தலாவையைச் சேர்ந்த 51 வயதுடைய ஒருவரின் சடலமும் மீட்கப்பட்டுள்ளதாக  பொலிஸார் தெரிவித்தனர்.
+
+மலசல கூடத்தில் இருவர் விழுந்து கிடந்ததை அவதானித்த பொதுமக்கள் 1990 அவசர நோயாளர் காவு வண்டி சேவைக்கு தெரிவித்து சம்பவ இடத்திற்கு வந்தவர்கள் குறித்த இருவரும்  உயிரிழந்துள்ளதை உறுதிப்படுத்தினர்.
+
+சடலங்கள் பிரேத பரிசோதனைக்காக நுவரெலியா மாவட்ட பொது வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளது.
+
+சடலங்களாக மீட்கப்பட்டவர்கள் மலசல கூடத்தில்  வீழ்ந்து கிடப்பதாக பொலிஸாருக்கு கிடைத்த தொலைபேசி அழைப்பின் அடிப்படையில் விசாரணைகளை ஆரம்பித்ததாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/79981a3b.json)
+
+---
+
+### கராச்சியில் மர்ம மரணங்கள் அதிகரிப்பு ; 3 தினங்களில் 29 சடலங்கள் மீட்பு
+
+*2024-06-27 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/187097) · `ta`
+
+பாகிஸ்­தானின் கராச்சி நகரில் மர்­ம­மான முறையில் உயி­ரி­ழந்த 29 பேரின் சட­லங்கள் நகரின் பல பகு­தி­க­ளி­லி­ருந்து 3 நாட்­களில் மீட்­கப்­பட்­டுள்­ள­தாக அதி­கா­ரிகள் தெரி­வித்­துள்­ளனர்.
+
+இச்­ச­ட­லங்­களில் காயங்கள் எதுவும் காணப்­ப­ட­வில்லை எனத் தெரி­வித்­துள்ள அதி­கா­ரிகள், இம்­ம­ர­ணங்­க­ளுக்­கான கார­ணத்தை கண்­ட­றி­வ­தற்கு விசா­ர­ணை­களை நடத்­தப்­ப­டு­வ­தா­கவும் தெரி­வித்­துள்­ளனர்.
+
+நேற்று முன்­தினம் செவ்­வாய்க்­கி­ழமை நகரின் பல பகு­தி­க­ளி­லி­ருந்தும் 09 சட­லங்கள் மீட்­கப்­பட்­டுள்­ள­தாக அதி­கா­ரிகள் தெரி­வித்­துள்­ளனர்.
+
+'சிப்பா' தொண்டு நிறு­வ­னத்தின் தொண்­டர்­களால் 5 சட­லங்­களும், 'எதி' தொண்­டு­நி­று­வ­னத்தின் தொண்­டர்­களால் 4 சட­லங்­களும் செவ்­வாய்க்­கிழமை (25) மீட்­கப்­பட்­டுள்­ளன.
+
+இதனால், செவ்வாய் வரை­யான 3 தினங்­களில் கராச்­சியில்  இவ்­வாறு மீட்­கப்­பட்ட சட­லங்­களின் எண்­ணிக்கை 29 ஆக அதி­க­ரித்­துள்­ளது.
+
+...
+
+[Data](articles/8a0cc023.json)
+
+---
 
 ### The order on Keheliya's petition
 
@@ -670,35 +730,47 @@ Chris Silverwood was also accused of a setback for the Sri Lankan cricket team i
 
 ---
 
-### பாடசாலைகளுக்கு சென்ற மாணவர்கள் திரும்பிச் சென்றனர்
+### The students who went to schools went back
 
 *2024-06-27 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/187085) · `ta`
 
-கொழும்பில் முன்னெடுக்கப்பட்ட ஆசிரியர் போராட்டத்தின் மீது நீர்த்தாரை மற்றும் கண்ணீர் புகை குண்டுகளை வீசியதற்கு எதிர்ப்பு தெரிவித்து இன்றையதினம் அதிபர், ஆசிரியர்  சங்கங்கள் பணிப்புறக்கணிப்பில் ஈடுபட்டுள்ளமையால் பாடசாலைகளுக்கு குறைந்த அளவிலான மாணவர்களே வருகை தந்தமையை அவதானிக்க கூடியதாக இருந்தது.
+Students returned to schools amidst protests by today's Chancellor and Teachers' Associations against violence in Colombo. Some teachers were present in Vavuniya, but many parents kept their children home, with students seen waiting outside schools.
 
-குறிப்பாக வவுனியாவில் அனைத்து பாடசாலைகளிலும் குறைந்த அளவான மாணவர்களே சென்ற நிலையில் ஒரு சில ஆசிரியர்களும் பாடசாலைகளுக்கு பிரசன்னமாக இருந்தனர்.
+🟩
 
-எனினும், பெற்றோர் தாம் அழைத்து வந்த பிள்ளைகளை மீண்டும் வீடுகளுக்கு அழைத்துச் சென்றதையும் சில மாணவர்கள் பாடசாலை வாயிலில் காத்திருந்ததையும் அவதானிக்க கூடியதாக இருந்தது.
+Today's Chancellor and Teachers' Associations have been involved in the workplace, protesting against the throwing of water and tear gas bombs on the teacher struggle in Colombo.
+
+A few teachers were present at all schools in Vavuniya, especially in all schools.
+
+However, it was possible to observe that the parents had taken the children they had brought back home and that some students were waiting at the school gate.
 
 ◼️
 
 [Data](articles/cb1cdc4d.json)
 
+[Extended Data](ext_articles/cb1cdc4d.ext.json)
+
 ---
 
-### தலதா மாளிகைக்கு ஜனாதிபதி விஜயம் : வழிபாடுகளில் ஈடுபட்டு ஆசி பெற்றார் !
+### President visit the Dalada House: Blessed
 
 *2024-06-27 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/187081) · `ta`
 
-கண்டி வரலாற்று சிறப்புமிக்க ஸ்ரீ தலதா மாளிகைக்கு ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று வியாழக்கிழமை (27) காலை விஜயம் செய்து வணக்கவழிபாடுகளில் ஈடுபட்டு ஆசி பெற்றார்.
+President Ranil Wickremesinghe visited the historic Sri Dalada House in Kandy, meeting religious leaders including Sri Sumangala Thera and discussing economic progress and the Kandy Urban Development Program.
 
-கண்டிக்கு விஜயம் செய்த ஜனாதிபதி ரணில் விக்ரமசிங்க, மல்வத்து மகா விகாரையின் மகாநாயக்க திப்பட்டுவாவே ஸ்ரீ சுமங்கல தேரர் மற்றும்  அஸ்கிரி மகா விகாரை மகாநாயக்க   வரக்காகொட ஸ்ரீ ஞானரதன  தேரர் ஆகியோரை சந்தித்து ஆசிபெற்றார்.
+🟩
 
-இலங்கை அடைந்துள்ள பொருளாதார மற்றும் நிதி முன்னேற்றம் குறித்து ஜனாதிபதி மகாநாயக்க தேரர்களுக்கு தெளிவுபடுத்தியதோடு  கண்டி நகர அபிவிருத்தித் திட்டத்தையும் அவர்களுக்கு கையளித்தார்.
+President Ranil Wickremesinghe visited the historic Sri Dalada House in Kandy on Thursday morning (27).
+
+President Ranil Wickremesinghe, who visited Kandy, met with Sri Sumangala Thera of the Malwathu Maha Viharaya, Sri Sumangala Thera and Asgiri Maha Vikarai Mahanayaka Varakkoda Sri Gnanaradana Thera.
+
+President Mahanayaka clarified the economic and financial progress in Sri Lanka and handed them over to the Kandy Urban Development Program.
 
 ◼️
 
 [Data](articles/1a65a5a1.json)
+
+[Extended Data](ext_articles/1a65a5a1.ext.json)
 
 ---
 
@@ -719,6 +791,8 @@ Under his tenure, the national team won the T20 Asia Cup in 2022 and also reache
 ◼️
 
 [Data](articles/d1475db7.json)
+
+[Extended Data](ext_articles/d1475db7.ext.json)
 
 ---
 
@@ -774,21 +848,27 @@ In the meantime, the thickness of the breast side has been torn down by tearing 
 
 ---
 
-### டயானாவுக்கு எதிரான நீதிமன்ற அவமதிப்பு வழக்கிலிருந்து இரண்டு நீதிபதிகள் விலகல்
+### Two judges withdraw from court contempt of court against Diana
 
 *2024-06-27 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187082) · `ta`
 
-நீதிமன்றத்தை அவமதித்ததாக முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகேவுக்கு எதிராக தாக்கல் செய்யப்பட்ட வழக்கு  விசாரணைகளில் இருந்து இரண்டு உயர் நீதிமன்ற நீதிபதிகள் விலகியுள்ளனர்.
+Two High Court judges withdrew from a case against Diana Kamage, accused of insulting the court, due to her criticism of a Supreme Court decision. The case was initially presented before a panel including Judges Preeti Padman Surasena, Kumudini Wickramasinghe, and Janak de Silva, but now only Judge Preeti Padman Surasena remains.
 
-பாராளுமன்ற உறுப்பினர் பதவியில் இருந்து தகுதி நீக்கம் செய்து உயர் நீதிமன்றம் வழங்கிய தீர்ப்பு தொடர்பில் டயானா கமகே ஊடகவியலாளர் சந்திப்பில் தெரிவித்த கருத்துக்களால் நீதிமன்றத்தை அவமதித்ததாகக் கூறி அவருக்கு எதிராக  வழக்கு தாக்கல் செய்யப்பட்டுள்ளது.
+🟩
 
-இந்நிலையில,  நேற்று (26) உயர் நீதிமன்ற நீதியரசர்களான பிரீத்தி பத்மன் சூரசேன, குமுதினி விக்கிரமசிங்க மற்றும் ஜனக் டி சில்வா ஆகிய மூவரடங்கிய நீதிபதிகள் குழாம் முன்னிலையில் வழக்கு விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+Two High Court judges have withdrawn from the trial filed against former State Minister Diana Kamage for insulting the court.
 
-இதன்போது, நீதியரசர்களான ஜனக் டி சில்வா மற்றும் குமுதினி விக்கிரமசிங்க ஆகியோர் இந்த வழக்கில் இருந்து விலகுவதாக அறிவித்துள்ளனர்.
+A case has been filed against Diana Kamage in a media briefing on the verdict given by the Supreme Court to disqualify from the post of Member of Parliament.
+
+In the meantime, the case was taken up in the presence of a panel of judges of High Court Judges Preeti Padman Surasena, Kumudini Wickramasinghe and Janak de Silva yesterday (26).
+
+Judges Janak de Silva and Kumudini Wickremesinghe have announced that they will quit the case.
 
 ◼️
 
 [Data](articles/2ee257a6.json)
+
+[Extended Data](ext_articles/2ee257a6.ext.json)
 
 ---
 
@@ -820,23 +900,31 @@ There are complaints that caste leaders in the village are excluding romantic ma
 
 ---
 
-### கிராம உத்தியோகத்தர்கள் 3 நாள் தொழிற்சங்க நடவடிக்கை
+### Grama Niladhari 3 -day union action
 
 *2024-06-27 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/187077) · `ta`
 
-தங்களின் பல கோரிக்கைகளுக்கு தீர்வுகளை வழங்குவதில் காலதாமதம் ஏற்பட்டுள்ளமையை கண்டித்து மூன்று நாட்கள்  கிராம உத்தியோகத்தர்கள் சங்கம் தொழிற்சங்க நடவடிக்கையில் ஈடுப்பட தீர்மானித்துள்ளது.
+Grama Niladhari workers began a three-day union action protesting delays in addressing demands for increased allowances and government responsiveness. They've discussed these issues for years without resolution, leading to the strike. The association plans to continue protests until their demands are met.
 
-போக்குவரத்து கொடுப்பனவு, எரிபொருள் கொடுப்பனவு, சீருடை கொடுப்பனவு, தொடர்பாடல் கொடுப்பனவு போன்றவற்றை அதிகரிக்குமாறு கோரியே இந்த தொழிற்சங்க நடவடிக்கை முன்னெடுக்கப்படுகின்றது.
+🟩
 
-அரச நிறைவேற்று அதிகாரிகளின் பிரச்சினைகளுக்கு தீர்வு காண அரசாங்கம் விரைவான தீர்மானங்களை எடுத்துள்ளது.
+The Grama Niladhari Association has decided to engage in trade union action, condemning the delay in providing solutions to many of their demands.
 
-எங்கள் கூட்டணி பல ஆண்டுகளாக இந்த பிரச்சினைகள் தொடர்பில் கலந்துரையாடி வருகிறது, ஆனால் எங்கள் பிரச்சினைகளுக்கான தீர்வுகள் தொடர்ந்து தாமதமாகின்றன என கிராம உத்தியோகத்தர்களின் தொழிற்சங்க கூட்டமைப்பு தெரிவித்துள்ளது.
+The trade union action is being taken to increase transportation, fuel allowance, uniform allowance and communication allowance.
 
-இதன் காரணமாக கிராம உத்தியோகத்தர்கள் நேற்று (26) முதல் மூன்று நாட்கள் பணிப்பகிஷ்கரிப்பில் ஈடுப்பட்டுள்ளனர்.
+The government has made rapid decisions to address the problems of state executive officials.
 
-...
+Our coalition has been discussing these issues for many years, but the solutions to our problems continue to be delayed, the Grama Niladhari Trade Union Federation said.
+
+Due to this, the Grama Niladhari has been engaged in the workshop yesterday (26) for three days.
+
+Meanwhile, they are not going to work on weekends and special state holidays. The Grama Niladhari Association said that if the government does not respond to our demands, the district will continue to protest.
+
+◼️
 
 [Data](articles/97b9f1a1.json)
+
+[Extended Data](ext_articles/97b9f1a1.ext.json)
 
 ---
 
@@ -1446,19 +1534,27 @@ South Africa won the match between Afghanistan and South Africa in the final rou
 
 ---
 
-### ණය ප්‍රතිව්‍යුහගතකරණය: ආරංචිය ශ්‍රී ලංකාවට සැබවින්ම සුබ වෙයිද ?
+### Restriction of Credit: Will the news truly harmony with Sri Lanka?
 
 *2024-06-27 08:08:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpv3dy0wgnwo) · `si`
 
-ශ්‍රී ලංකාව සිය ප්‍රධාන නිල ද්විපාර්ශ්වික ණය හිමියන් සමඟ ණය ප්‍රතිව්‍යුහගත කිරීමේ එකඟතා සාර්ථකව අවසන් කළ බව ජනාධිපති රනිල් වික්‍රමසිංහ (ජුනි මස 26) ප්‍රකාශ කළේය. මේයටතේ ඩොලර් බිලියන 10ක ණය ප්‍රතිව්‍යුගතකරණයට ලක්වනු ඇත.
+Sri Lanka has successfully restructured $10 billion in loans with major official bilateral creditors, aiming to alleviate its economic crisis. This move, however, raises questions about the country's financial stability and the credibility of such announcements amidst ongoing economic challenges. Critics argue that while restructuring is a positive step, the real test lies in the country's ability to meet its future obligations and the perception of international rating agencies. The restructuring includes significant debts owed to China, India, and Japan, among others, but excludes commercial sovereign bonds totaling around $14.73 billion. The government's optimism contrasts with concerns over the sustainability of the debt and the potential impact on the country's creditworthiness.
 
-ණය ප්‍රතිව්‍යුගතකරණ වැඩසටහන සාර්ථක කර ගැනීම පිළිබඳ රටට නිවේදනය කිරීම සඳහා ශ්‍රී ලංකා රජය දින කිහිපයකට පෙර සිට ම සූදානම් වෙමින් පුළුල් මාධ්‍ය ප්‍රචාරණයක් ගෙන ගියේය.
+🟩
 
-වයඹ විශ්වවිද්‍යාලයයේ කළමනාකරණ හා මූල්‍ය පීඨයේ මහාචාර්ය අමින්ද මෙත්සිල පෙරේරා බීබීසී සිංහල වෙත කියා සිටියේ, රටක් ලෙස මෙය සුබ පණිවිඩක් බවය. ‘ඊයේ සැමරුවනේ ණය ප්‍රතිව්‍යුගත කළ කියලා. රටක් හැටියට සුබ පණිවිඩයක් වෙන්න පුළුවන්. ඒක ඇත්ත. මේක හොඳ දෙයක්.සුබ දෙයක්. ඒක අපි පිළිගන්නවා. නමුත් සුබ පණිවිඩය යථාර්ථයක් කර ගැනීමේ තීරණය තියෙන්නේ ඉදිරියේදී පත්වන දේශපාලන පක්ෂයට.’ යනුවෙනි.
+President Ranil Wickremesinghe stated that Sri Lanka completed the restructuring agreements with its major official bilateral creditors.. The loans of $ 10 billion will be restructured.
+
+The Government of Sri Lanka was preparing to announce a broader press propagation to announce a successful country to a success.
+
+Prof. Amini Methshi Perera told BBC Sinhala as a country as a country, as a country. 'Yesterday, the loans were restructured. As a country, you can be a good message. That's true. This is a good thing. It is accepting that. But the decision to make a happy message has the decision to the future.
+
+'It's a wonderful message to people. But what the President brought that good news in Parliament in Parliament?How many years did the Prime Minister or Minister?Will we go bankrupt this country to stay this message?Or are these country so long-administered? '
 
 ...
 
 [Data](articles/54bf6fd2.json)
+
+[Extended Data](ext_articles/54bf6fd2.ext.json)
 
 ---
 
@@ -2249,55 +2345,5 @@ The Department of Immigration and Emigration is requested that the Electronic Pa
 [Data](articles/85cebd81.json)
 
 [Extended Data](ext_articles/85cebd81.ext.json)
-
----
-
-### LAUGFS Rubber triumphs at National Business Excellence Awards 2024
-
-*2024-06-26 22:48:00* · [`islandlk`](http://island.lk/laugfs-rubber-triumphs-at-national-business-excellence-awards-2024/) · `en`
-
-LAUGFS Rubber, a leading manufacturer of industrial solid tyres, has once again demonstrated its industry leadership and commitment to excellence by winning multiple accolades at the prestigious National Business Excellence Awards (NBEA) 2024.
-
-LAUGFS Rubber emerged as the ‘Winner in the Large Category’ and secured the title of ‘Winner for Excellence in Business and Financial Results – Large Category’. Additionally, the company earned the ‘Bronze Award – Overall’ and was recognised as the Runner-Up in the Export Sector for the third consecutive year, as well as received a Merit Award for Global Market Reach. The recent awards night was organised by the National Chamber of Commerce of Sri Lanka (NCCSL) and honoured Sri Lankan brands for their outstanding business performance and contributions to the country’s economic progress.
-
-...
-
-[Data](articles/7c33f5e9.json)
-
-[Extended Data](ext_articles/7c33f5e9.ext.json)
-
----
-
-### Commercial Credit and Finance secures 1st place in K Seeds Investments’ ranking report
-
-*2024-06-26 22:47:00* · [`islandlk`](http://island.lk/commercial-credit-and-finance-secures-1st-place-in-k-seeds-investments-ranking-report/) · `en`
-
-K Seeds Investments (Pvt) Ltd identified Commercial Credit and Finance PLC as the best performing finance company under the 1st category among the 28 listed finance companies in Sri Lanka through a ranking carried out based on their financial performance for the fourth quarter of 2023/24.
-
-The report segregates the finance companies based on the size of their asset base and ranks them in their respective categories among their peers based on ten financial metrics, which are calculated from the quarterly financial statements.
-
-Commercial Credit and Finance PLC topped the overall spectrum by belonging to “Category 1” (asset base > Rs. 100 billion). The Categories 2, 3 and 4 represent the companies having an asset base between Rs. 50 to 100 billion, 20 to50 billion and less than 20 billion respectively.
-
-...
-
-[Data](articles/f45dad03.json)
-
-[Extended Data](ext_articles/f45dad03.ext.json)
-
----
-
-### E. B. Creasy Solar energizes 9th Annual Construction Power and Energy Expo 2024
-
-*2024-06-26 22:45:00* · [`islandlk`](http://island.lk/e-b-creasy-solar-energizes-9th-annual-construction-power-and-energy-expo-2024/) · `en`
-
-E.B. Creasy Solar, the Renewable Energy Arm of E. B. Creasy & Co. PLC, is proud to announce its Platinum Sponsorship of the Construction Power and Energy Expo 2024, Sri Lanka’s premier event dedicated to interior products, construction, power, and energy.
-
-As a long-standing advocate of sustainable development, E. B. Creasy Solar is delighted to power this prestigious expo making its return for the 9th consecutive year. Scheduled to take place from July 5th to 7th, 2024, at the Bandaranaike Memorial International Conference Hall (BMICH), Colombo, the exhibition will serve as a vital platform for industry professionals to showcase cutting-edge trends, technologies, and solutions.
-
-...
-
-[Data](articles/96deff42.json)
-
-[Extended Data](ext_articles/96deff42.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 02:34:51**
+As of **2024-06-28 02:52:41**
 
 ## Newspaper Stats
 
-*Scraped **32,538** Articles*
+*Scraped **32,539** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,900
 dailyftlk | 1,988
 adalk | 2,885
 adaderanalk | 3,703
-tamilmirrorlk | 3,839
+tamilmirrorlk | 3,840
 dailymirrorlk | 4,733
 virakesarilk | 5,059
 adaderanasinhalalk | 5,350
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,350
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,538 (100.0%) of 32,538 articles have been extended.
+32,538 (100.0%) of 32,539 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### ’வார இறுதி, விடுமுறையில் வேலை செய்யோம்’
+
+*2024-06-28 02:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வார-இறுதி-விடுமுறையில்-வேலை-செய்யோம்/175-339558) · `ta`
+
+நான்கு கோரிக்கைகளை முன்வைத்து கிராம உத்தியோகத்தர்கள் புதன்கிழமை (26) ஆரம்பித்த பணிப்பகிஷ்கரிப்பு, மூன்று நாட்களுக்கு தொடரும் என அறிவித்துள்ளனர்.
+
+போக்குவரத்து, எரிபொருள், சீருடை மற்றும் தொடர்பாடல் ஆகிய கொடுப்பனவுகளை அதிகரிக்குமாறு கோரியே இந்த தொழிற்சங்க நடவடிக்கை முன்னெடுக்கப்படுகின்றது.
+
+இந்த பிரச்சினைகள் தொடர்பில் பல ஆண்டுகளாக எங்கள் கூட்டணி கலந்துரையாடி வருகிறது, ஆனால் எங்கள் பிரச்சினைகளுக்கான தீர்வுகள் தொடர்ந்து தாமதமாகின்றன என கிராம உத்தியோகத்தர்களின் தொழிற்சங்க கூட்டமைப்பு தெரிவித்துள்ளது.
+
+இதேவேளை,  வார இறுதி நாட்கள் மற்றும் விசேட அரச விடுமுறை நாட்களில் வேலை செய்ய போவதில்லை. எங்களின் கோரிக்கைகளுக்கு அரசாங்கம் பதில் அளிக்காவிட்டால், மாவட்ட அளவில் போராட்டம் தொடரும் என கிராம உத்தியோகத்தர்கள் சங்கம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/9d594eff.json)
+
+---
 
 ### A target of 172 runs from India
 
@@ -2363,31 +2381,5 @@ It was reported that 23 people were killed in clashes between security forces an
 [Data](articles/dc0a6dc2.json)
 
 [Extended Data](ext_articles/dc0a6dc2.ext.json)
-
----
-
-### 24-day a person was abducted and the victims were looking for the police
-
-*2024-06-27 12:03:38* · [`adalk`](https://www.ada.lk/breaking_news/දින-24-ක්-පුද්ගලයෙකු-පැහැරගෙන-ගොස්-දසවද-දුන්-පිරිසක්-පොලීසියෙන්-සොයයි/11-410474) · `si`
-
-In Bharatipuram, Kilinochchi, a 48-year-old man named Sinharajan Jayakumar was assaulted and tortured by a group. He reported this to the Kilinochchi police, who found him severely injured. The police investigated but couldn't find the assailants. Despite his injuries, Jayakumar was taken to Kilinochchi General Hospital.
-
-🟩
-
-A 24-day residents of Bharatipuram, Kilinochchi, surrendered to the Kilithapura Police yesterday (26), saying that he was assaulted and tortured by a group.
-
-His relatives had complained to the police that 48-year-old Sinharajan Jayakumar, a resident of Bharathapuram.
-
-However, the man had come to the Kilinochchi police, however, and had been assaulted by the day and attacked the bundle.
-
-Accordingly, the police had gone to a place of information according to the person's information, and no one had been investigated and there was a wide investigation into whether he had no information about the owners.
-
-However, the police also took steps to be admitted to Kilinochchi General Hospital due to cutting injuries.
-
-◼️
-
-[Data](articles/65694b5e.json)
-
-[Extended Data](ext_articles/65694b5e.ext.json)
 
 ---

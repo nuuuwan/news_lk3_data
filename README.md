@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 04:34:56**
+As of **2024-06-28 04:53:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,350
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,542 (100.0%) of 32,544 articles have been extended.
+32,544 (100.0%) of 32,544 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ By April 2022 the central bank had borrowed and busted forex to end up with nega
 ...
 
 [Data](articles/46323a70.json)
+
+[Extended Data](ext_articles/46323a70.ext.json)
 
 ---
 
@@ -78,21 +80,27 @@ India was the first lending country to provide financial guarantees to the IMF s
 
 ---
 
-### ’மலையக குடும்பங்களை பிரஜைகளாக்கும் கொள்கை தயார்’
+### Model
 
 *2024-06-28 02:19:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-குடும்பங்களை-பிரஜைகளாக்கும்-கொள்கை-தயார்/175-339561) · `ta`
 
-பெருந்தோட்ட பிரதேசங்களில், நவீன அடிமைத்துவ அம்சங்களுக்கு மத்தியில், மலையக சமூக குடும்பங்கள்  வாழ்கின்றன. இம்மக்களுக்கு  பெருந்தோட்ட நிலங்களில், வதி விட காணி உரிமை, வாழ்வாதார காணி உரிமை உள்ளிட்ட உரிமைகளை பெற்று தந்து அவர்களை இந்நாட்டின் முழுமையான பிரஜைகளாக்கும் கொள்கையை தமிழ் முற்போக்கு கூட்டணி முன்னெடுப்பதாக அறிவித்துள்ளது.
+The Tamil Progressive Alliance aims to grant full citizenship and land rights to upcountry plantation communities, addressing modern slavery aspects. A meeting with UN officials discussed transforming the plantation sector post-regime change, involving local civil society and seeking international support from organizations like the UN Food Agricultural Institute, UNICEF, and the World Food Institute.
 
-இலங்கை ஐ.நா வதிவிட பிரதிநிதி மார்க் அந்திரேவிற்கும், தமிழ் முற்போக்கு கூட்டனி தலைவர் மனோ கணேசன் தலைமையிலான தூதுக்குழுவுக்கும் இடையில் தீர்க்கமான சந்திப்பு   கொழும்பில் வியாழக்கிழமை (27) இடம்பெற்றது.  இதன்போதே மேற்கண்டவாறு எடுத்துரைத்துள்ளார்.
+🟩
 
-இதன் போது, தமிழ் முற்போக்கு கூட்டணியின் நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினர் எம். உதயகுமார் மற்றும் தமுகூ/ஜமமு கேகாலை மாவட்ட அமைப்பாளர் எம். பரணிதரன் ஆகியோரும் கலந்து கொண்டனர்.
+In the plantation areas, the upcountry community families live amidst modern slavery aspects. The Tamil Progressive Alliance (TNA) has announced the policy of making them the full citizenship of the country and giving them the rights of land rights, livelihood land rights, more than residential lands.
 
-இந்த சந்திப்பு தொடர்பில் மனோ கணேசன் எம்.பி, ஊடகங்களுக்கு கருத்து கூறிய போது தெரிவித்தாவது,
+A decisive meeting was held in Colombo on Thursday (27) between UN Resident Representative Mark Andrew and delegation headed by Tamil Progressive Alliance leader Mano Ganesan.He has already mentioned the above.
+
+Nuwara Eliya District Parliamentarian of the Tamil Progressive Alliance. Udayakumar and Tamuku/Jamau Kegalle District Organizer M. Paranitharan was also present.
+
+Mano Ganesan MP told the media about the meeting.
 
 ...
 
 [Data](articles/dba24e7d.json)
+
+[Extended Data](ext_articles/dba24e7d.ext.json)
 
 ---
 

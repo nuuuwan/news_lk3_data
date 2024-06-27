@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 09:05:13**
+As of **2024-06-27 09:19:35**
 
 ## Newspaper Stats
 
-*Scraped **32,387** Articles*
+*Scraped **32,392** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,802
 economynextcom | 1,884
 dailyftlk | 1,988
-adalk | 2,863
-adaderanalk | 3,681
-tamilmirrorlk | 3,824
+adalk | 2,865
+adaderanalk | 3,683
+tamilmirrorlk | 3,825
 dailymirrorlk | 4,733
 virakesarilk | 5,023
 adaderanasinhalalk | 5,316
@@ -26,11 +26,83 @@ adaderanasinhalalk | 5,316
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,387 (100.0%) of 32,387 articles have been extended.
+32,387 (100.0%) of 32,392 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### அடுத்த 24 மணிநேரம் குறித்து சிவப்பு எச்சரிக்கை விடுப்பு
+
+*2024-06-27 08:59:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-24-மணிநேரம்-குறித்து-சிவப்பு-எச்சரிக்கை-விடுப்பு/175-339510) · `ta`
+
+பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் சிவப்பு எச்சரிக்கையை விடுத்துள்ளது.
+
+இன்று (27) அதிகாலை 3.30 மணியளவில் வெளியிடப்பட்ட இந்த அறிவித்தல் அடுத்த 24 மணிநேரத்திற்கு அமுலில் இருக்கும் என அந்த திணைக்களம் வௌியிட்டுள்ள அறிவித்தலில் தெரிவிக்கப்பட்டுள்ளது.
+
+இதன்படி, அரபிக்கடலில் செயற்படும் நெடுநாள் படகு மீனவர்கள் மற்றும் கடல்சார் சமூகத்தினரையும் மிகவும் அவதானமாக இருக்குமாறு அறிவுறுத்தப்பட்டுள்ளது.
+
+அப்பகுதியில் பலத்த காற்று வீசக்கூடும் எனவும் கடற்பிரதேசங்கள் மிகவும் கொந்தளிப்புடன் காணப்படும் எனவும்,  திணைக்களம் அறிவித்துள்ளது.
+
+இதேவேளை, மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும், வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் 40-50 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் மேலும் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/cc24a2aa.json)
+
+---
+
+### Bolivia coup attempt fails after military assault on presidential palace
+
+*2024-06-27 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100131/bolivia-coup-attempt-fails-after-military-assault-on-presidential-palace) · `en`
+
+Bolivian armed forces pulled back from the presidential palace in La Paz on Wednesday evening and a general was arrested after President Luis Arce slammed a “coup” attempt against the government and called for international support.
+
+Earlier in the day, military units led by General Juan Jose Zuniga, recently stripped of his military command, had gathered in the central Plaza Murillo square, home to the presidential palace and Congress. A Reuters witness saw an armored vehicle ram a door of the presidential palace and soldiers rush in.
+
+“Today the country is facing an attempted coup d’état. Today the country faces once again interests so that democracy in Bolivia is cut short,” Arce said in comments from the presidential palace, with armed soldiers outside.
+
+“The Bolivian people are summoned today. We need the Bolivian people to organize and mobilize against the coup d’état in favor of democracy.”
+
+...
+
+[Data](articles/2623b48e.json)
+
+---
+
+### දකුණු අප්‍රිකාව පළමුවරට ලෝක කුසලාන අවසන් මහ තරගයකට
+
+*2024-06-27 08:35:24* · [`adalk`](https://www.ada.lk/sports/දකුණු-අප්‍රිකාව-පළමුවරට-ලෝක-කුසලාන-අවසන්-මහ-තරගයකට/9-410470) · `si`
+
+පෙරළිකාර ඇෆ්ගනිස්ථාන කණ්ඩායම පහසුවෙන්ම කඩුලු 9කින් ජයග්‍රහණය කරමින් පන්දුවාර විස්සයි20 ලෝක කුසලාන තරගාවලියේ අවසන් මහ තරගයට සුදුසුකම් ලැබීමට දකුණු අප්‍රිකාව සමත්විය.
+
+අර්ධ අවසන් තරගයේ කාසියේ වාසිය දිනා මුලින්ම පන්දුවට පහරදුන් ඇෆ්ගනිස්ථාන කණ්ඩායම සියලු දෙනා දැවි රැස් කළේ ලකුණු 56ක් පමණි.
+
+එම ඉලක්කය පන්දුවාර 8.5කදී එක් කඩුල්ලක් පමණක් දැවී පසුකර යාමට දකුණු අප්‍රිකාව සමත්විය. ක්‍රිකට් ඉතිහාසය තුළ ලෝක කුසලාන තරගාවලි වල අවාසනාවන්ත කණ්ාඩයමක් ලෙස හැදින්වෙන දකුණු අප්‍රිකා කණ්ඩායම ලෝක කුසලාන තරගාවලියක අවසන් මහ තරගයකට සුදුසුකම් ලබන්නේ පළමු අවසථාවටය.
+
+◼️
+
+[Data](articles/bb404c81.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2024-06-27 08:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100130/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Several spells of showers may occur in Matale and Hambantota districts, it said.
+
+Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+◼️
+
+[Data](articles/950ceb3e.json)
+
+---
 
 ### South Africa to the last round
 
@@ -1336,6 +1408,24 @@ West Indies Women: Edited Winning target 99 runs in 15 overs) 14.1 overs 99 - 4 
 
 ---
 
+### මන්නාරම සුළං බලාගාර ටෙන්ඩරය ඉන්දියාවට දීමෙන් රටට විශාල පාඩුවක්
+
+*2024-06-26 19:29:32* · [`adalk`](https://www.ada.lk/breaking_news/මන්නාරම-සුළං-බලාගාර-ටෙන්ඩරය-ඉන්දියාවට-දීමෙන්-රටට-විශාල-පාඩුවක්/11-410460) · `si`
+
+ලංකා විදුලිබල මණ්ඩලය මගින් තරගකාරී මිල ගණන් කැඳවූ මන්නාරම මෙගාවොට් 50ක සුළං විදුලි බලාගාර ව්‍යාපෘතියේ ටෙන්ඩර්පත්වල මිල ගණන් ඊයේ (26දා) දිනයේ විවෘත කළ බව විදුලිබලමණ්ඩල වෘත්තීය සමිති සඳහන් කරයි.
+
+මේ අනුව එක් සමාගමක් විදුලි ඒකකයක් ඩොලර් ශත හතරයි දශම අටට හා තවත් සමාගමක් ඩොලර් ශත හතරයි දශම නවයකටත් තවත් සමාගමක් ඩොලර් ශත පහයි දශම නවයක් ලෙසත් ඩෙන්ඩර් ඉදිරිපත් කර තිබූ බවදපෙන්වා දෙයි.
+
+එහෙත් කිසිදු ඩෙන්ඩර් කැඳවීමකින් තොරව මන්නාරම සහ පුනරීන් ප්‍රදේශවල ඉදිකිරීමට නියමිත සුළං විදුලි බලාගාර දෙකකින් ඩොලර් ශත 8.26කට විදුලි මිලදී ගැනිමට සැලසුම් කර තිබෙන බවත් මෙම බලාගාර දෙක ඉන්දීය සමාගමක්විසින් ඉදිකිරීමට නියමිත බවද වෘත්තීය සමිති පෙන්වා දෙති.
+
+මේ නිසා මෙම සුළං බලාගාර දෙකෙන් විදුලිය ලබා ගැනීමත් තරගකාරී මිල ගණන් යටතේ මිලදී ගැනීමට ඩෙන්ඩර් ක්‍රමවේදයට අනුව සිදුකරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගෙන් හා විෂය භාර අමාත්‍යවරයාගෙන් ඉල්ලා සිටින බවද වෘත්තීය සමිති නියෝජිතයෝ සඳහන් කරති.
+
+...
+
+[Data](articles/b1089b42.json)
+
+---
+
 ### Mahela resigns as Sri Lanka consultant coach
 
 *2024-06-26 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100125/mahela-resigns-as-sri-lanka-consultant-coach) · `en`
@@ -2145,123 +2235,5 @@ Also, Anthony Praveen, a Sri Lankan Mannar, has sent money to buy cannabis in tw
 [Data](articles/6ff78f01.json)
 
 [Extended Data](ext_articles/6ff78f01.ext.json)
-
----
-
-### Sri Lanka CB imposes penalties on DFCC, Sampath banks for non-compliance
-
-*2024-06-26 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-imposes-penalties-on-dfcc-sampath-banks-for-non-compliance-169652/) · `en`
-
-ECONOMYNEXT – Sri Lanka Central Bank’s Financial Intelligence Unit (FIU) has imposed penalties on DFCC Bank and Sampath Bank for non-compliance with the provisions of the Financial Transactions Reporting Act, the Bank said.
-
-The Central Bank has collected 1 million Sri Lanka rupees from DFCC in March and 2 million from Sampath Bank in April as penalties, it said.
-
-DFCC “had failed to conduct adequate Customer Due Diligence (CDD) on an individual, including the requirement to obtain information on the source of funds/earnings as mandated by the Financial Institutions” as required by the law, the Central Bank said.
-
-“It was observed that the amount deposited to the account was inconsistent with the customer’s anticipated Financial Intelligence Unit volumes from sources of income as stated in the account opening form,” the Central Bank said.
-
-...
-
-[Data](articles/f90536e4.json)
-
-[Extended Data](ext_articles/f90536e4.ext.json)
-
----
-
-### NATO appoints outgoing Dutch PM Mark Rutte as new secretary-general
-
-*2024-06-26 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100117/-nato-appoints-outgoing-dutch-pm-mark-rutte-as-new-secretary-general) · `en`
-
-NATO’s 32 nations on Wednesday appointed outgoing Dutch Prime Minister Mark Rutte as the alliance’s next head, handing him the job at a crucial moment with Russia on the march in Ukraine and American elections looming.
-
-Rutte will take over from Secretary General Jens Stoltenberg on October 1 after major powers — spearheaded by the United States — wrapped up his nomination ahead of a summit of NATO leaders in Washington next month.
-
-“I warmly welcome NATO Allies’ choice of Mark Rutte as my successor. Mark is a true transatlanticist, a strong leader and a consensus-builder,” Stoltenberg said on social media after NATO ambassadors approved the appointment.
-
-The seasoned Dutch leader, whose 14-year tenure in charge of the Netherlands is set to end within weeks, is seen as a safe pair of hands capable of stewarding the 75-year-old alliance through perilous times.
-
-...
-
-[Data](articles/31ac1776.json)
-
-[Extended Data](ext_articles/31ac1776.ext.json)
-
----
-
-### Two youths were committed to electrification
-
-*2024-06-26 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198183) · `si`
-
-Two youths were electrocuted while cleaning a water tank at a private institution in Mullaittivu. They were taken to Pudukuduirippu Hospital. The incident, suspected to be caused by nearby wiring, occurred around the upper floor of the company.
-
-🟩
-
-Two youths who were electrocuted in a private institution were hospitalized.
-
-The accident occurred this afternoon at a private institution in Mullaittivu, Mullaittivu.
-
-Two youths who were traveling to clean a water tank held on the upper floor.
-
-Police said that the two youths were admitted to the Pudukuduirippu Hospital.
-
-Two 20-year-old youths were residents of the Pudukuduirippu, 10th Lane.
-
-First, a young man had gone to clean the water tank at the top floor of the private company and another young man had gone to the scene.
-
-Police suspect that there are several viring near the upper floor of the company, the accident occurred when there were several virus near the upper floor of the company.
-
-Otherwise, the accident has been reported.
-
-◼️
-
-[Data](articles/b765b16b.json)
-
-[Extended Data](ext_articles/b765b16b.ext.json)
-
----
-
-### Explanation for 15 people in Muttur
-
-*2024-06-26 16:20:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/மூதூரில்-15-பேருக்கு-விளக்கமறியல்/75-339473) · `ta`
-
-During protests against the Muttur Cardayapura Liquor Road, 15 individuals were arrested and charged with unauthorized assembly, obstructing police work, and assaulting officers. They were remanded until July 3 after appearing before the Muttur Court Magistrate on Wednesday.
-
-🟩
-
-While protesting against the Muttur Cardayapura Liquor Road, 15 persons who were arrested on Tuesday (25 arrested have been remanded until July 3.
-
-The persons were produced before the Muttur Court Magistrate on Wednesday (26). The magistrate ordered them to be remanded until the 3rd.
-
-They were arrested and produced in court on charges of gathering without permission, disrupting the duties of the police, and assaulting the police.
-
-◼️
-
-[Data](articles/16773e78.json)
-
-[Extended Data](ext_articles/16773e78.ext.json)
-
----
-
-### Yall. Demonstration demanding the rehabilitation of the road in Chavakachcheri
-
-*2024-06-26 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187029) · `ta`
-
-Residents of Chavakachcheri protested on Wednesday, demanding the reconstruction of the Meesalai North Tattangulam road, which hasn't been repaired in 50 years despite being crucial for over a thousand people. The demonstration, outside the Northern Governor's Secretariat, involved representatives from five Grama Sevakar Divisions. After the protest, five individuals met with the governor's secretary, delivering a petition to the president via the governor.
-
-🟩
-
-The people of the area staged a protest on Wednesday (26) demanding the rehabilitation of the Meesalai North Tattangulam road under the Chavakachcheri Pradeshiya Sabha in Jaffna.
-
-The demonstration, which was held in front of the Northern Governor's Secretariat, was participating in the 5 Grama Sevakar Divisions who used the road.
-
-The road, which has not been reconstructed for 50 years, has been used by more than a thousand people, but the protesters say that the road has been affected.
-
-At the end of the demonstration, five people met the secretary of the governor and handed over the President to the President through the Governor.
-
-◼️
-
-[Data](articles/84261518.json)
-
-[Extended Data](ext_articles/84261518.ext.json)
 
 ---

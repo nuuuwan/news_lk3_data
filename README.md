@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 07:47:09**
+As of **2024-06-27 08:13:19**
 
 ## Newspaper Stats
 
@@ -26,49 +26,65 @@ adaderanasinhalalk | 5,314
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,379 (100.0%) of 32,382 articles have been extended.
+32,382 (100.0%) of 32,382 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### ගුරු - විදුහල්පතිවරු අදත් ලෙඩින්
+### Teachers - Principals sick today
 
 *2024-06-27 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198198) · `si`
 
-ගුරු- විදුහල්පති වෘත්තීය සමිති අද (27) දිනයේ ද ලෙඩ නිවාඩු වාර්තා කරමින් දීපව්‍යාප්ත වැඩවර්ජනයක නිරතවීමට තීරණය කර තිබේ.
+Teacher and principal unions in Sri Lanka began a strike today due to a police attack on protesters, affecting school attendance. The Ministry of Education insists government schools remain open despite the strike. The second phase of the GCE Ordinary Level exam, initially scheduled for today, is now set for tomorrow due to the strike. Additionally, Registrar General's officers will strike today and tomorrow, impacting land registration services across the island.
 
-කොළඹ පැවති විරෝධතාවයට පොලීසිය එල්ල කළ කඳුළු ගෑස් සහ ජල ප්‍රහාරයට විරෝධය පළ කරමින් ගුරු - විදුහල්පති වෘත්තීය සමිති මෙලෙස වැඩවර්ජනයක නිරත වීමට තීරණය කර ඇති බව වාර්තා වුණි.
+🟩
 
-අසනීප නිවාඩු වාර්තා කරමින් ඊයේ (26) දිනයේත් ගුරු - විදුහල්පති වෘත්තීය සමිත වැඩවර්ජනයක නිරත වු අතර මේ හේතුවෙන් දිවයිනේ බොහෝ පාසල්වල අධ්‍යයන කටයුතු ඇණහිට තිබිණි.
+The teacher's trade unions have been played on a Buddhist strike from today (27) and sick leave.
 
-පාසල් රැසක ළමුන්ගේ පැමිණීම ද ඉතා අවම මට්ටමක පැවති අතර ඇතැම් පාසල්වලට පැමිණි සිසුන්ට පාසල්වලට ඇතුළුවීමට නොහැකි වීම හේතුවෙන් හැරී යාමට ද සිදුවු බව "අද දෙරණ" වාර්තාකරුවන් සඳහන් කළේය.
+The Guru-Principal's trade unions have decided to strike in protest of tear gas and water attack on protest in Colombo.
 
-කෙසේවෙතත් අද (27) දිනයේ දී සාමාන්‍ය පරිදි රජයේ සියලුම පාසල් පැවැත්වෙන බව අධ්‍යාපන අමාත්‍යංශය නිවේදනයක් නිකුත් කරමින් සඳහන් කළේය.
+The Teacher-Principal of the Teacher - Principal was launched yesterday (26), reports say.
 
-මේ අතර අද දිනයේ ආරම්භ කිරීමට සැලසුම් කර තිබු අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ දෙවන අදියරේ ඇගයීම් කටයුතු නොවැළැක්විය හේතුවක් මත සිදුනොකරන බව විභාග කොමසාරිස් අමිත් ජයසුන්දර මහතා පවසයි.
+The arrival of children in many schools was also low and the students who had come to school were not able to enter schools.
+
+However, the Ministry of Education has issued a statement that all government schools will be held today (27).
+
+Meanwhile, the Commissioner General of Examinations Amit Jayasundara says that the second phase of the GCE Ordinary Level examination planned today to commence today is not on the basis of an unavoidable reason.
+
+The Commissioner of Examinations will be informed of a statement that the second phase of evaluation will commence tomorrow (28).
+
+Meanwhile, Sri Lanka United Grama Niladharis Association (SLMC) says.
 
 ...
 
 [Data](articles/27227397.json)
 
+[Extended Data](ext_articles/27227397.ext.json)
+
 ---
 
-### දකුණු අප්‍රිකාවට පහසු ඉලක්කයක්
+### An easy target for South Africa
 
 *2024-06-27 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198197) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අවසන් වටයේ ඇෆ්ගනිස්තාන කණ්ඩායම සහ දකුණු අප්‍රිකාව අතර තරගය මේ වනවිට පැවැත්වෙයි.
+In the World Cup final, South Africa defeated Afghanistan. Batting first, Afghanistan scored 56 runs in 56 balls. South Africa's Marco Jansen and Tabraiz Shamsi each took three wickets. South Africa won by 57 runs.
 
-තරගයේ කාසියේ වාසිය දිනා පළමුවෙන් පන්දුවට පහරදුන් ඇෆ්ගනිස්තාන කණ්ඩායම පන්දුවාර 11 පන්දු 5ක් අවසානයේ සියලුදෙනා දැවී ලකුණු 56ක් රැස්කළේය.
+🟩
 
-පන්දු යැවීමේදී දකුණු අප්‍රිකානු කණ්ඩායම වෙනුවෙන් Marco Jansen සහ Tabraiz Shamsi කඩුලු 03 බැගින් දවාගත්තහ.
+The match between Afghanistan and South Africa, the finals of the World Cup match will be held.
 
-ඒ අනුව තරගය ජය ගැනීම සඳහා දකුණු අප්‍රිකානු කණ්ඩායමට ලකුණු 57ක පහසු ඉලක්කයක් හිමිව තිබේ.
+The Afghan group scored 56 runs for the loss of 56 balls to bat first.
+
+The Marco Jansen and Tabraiz Shamsi took three wickets each for South African team.
+
+South Africa have been able to win the match 57 runs.
 
 ◼️
 
 [Data](articles/49dba106.json)
+
+[Extended Data](ext_articles/49dba106.ext.json)
 
 ---
 
@@ -320,21 +336,27 @@ On the other hand, South Africa, who won all the tournament in the T -groups and
 
 ---
 
-### ’நெல் பயிர்ச்செய்கைக்கு இலவச உரம்’
+### Free fertilizer for paddy cultivation
 
 *2024-06-27 01:45:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்-பயிர்ச்செய்கைக்கு-இலவச-உரம்/175-339503) · `ta`
 
-நெற் பயிச்செய்கைக்குத் தேவையான MOP உரத்தை அடுத்த இரண்டு பெரும் போகங்களுக்கு விவசாயிகளுக்கு இலவசமாக வழங்க அரசாங்கம் தீர்மானித்துள்ளதாக விவசாய மற்றும் பெருந்தோட்டக் கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர தெரிவித்தார்.
+The Sri Lankan government, under Minister Mahinda Amaraweera, plans to offer free MOP fertilizer for the upcoming two rice planting seasons. Additionally, it aims to engage young people in agriculture through a program starting July 1st, allocating 1600 million rupees for 160 selected villages' youth agricultural entrepreneurship initiatives.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் மஹிந்த அமரவீர இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-விவசாயம் மற்றும் பெருந்தோட்டக் கைத்தொழில் அமைச்சு, இளைஞர் சமூகத்தை விவசாயத்துறைக்கு ஈர்க்கும் வகையில் பல வேலைத்திட்டங்களை ஆரம்பித்துள்ளது. அது தொடர்பில் நாட்டின் 25 மாவட்டங்களை உள்ளடக்கிய 160 கிராமங்களை தெரிவு செய்து இளைஞர் விவசாய தொழில்முனைவோர் கிராமத் திட்டங்களை ஆரம்பிக்க அனைத்து ஏற்பாடுகளும் செய்யப்பட்டுள்ளன.
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera said that the government has decided to provide the MOP fertilizer for the next two major booms for the next two major booms.
 
-அதன்படி, ஜூலை 01 ஆம் திகதி முதல் ஜூலை 07ஆம் திகதி வரை இளைஞர் விவசாய தொழில்முனைவோர் கிராமத் திட்டத்தை செயல்படுத்தும் தேசிய வாரமாக அறிவிக்கிறோம். முதற்கட்டமாக ஒவ்வொரு கிராமத்திலும் இந்த வேலைத்திட்டங்களை ஆரம்பிக்க 10 மில்லியன் ரூபா வழங்கப்படவுள்ளது. இதற்காக ஒதுக்கப்பட்ட தொகை 1600 மில்லியன் ரூபாவாகும் என்றார். (a)
+Minister Mahinda Amaraweera said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
+
+The Ministry of Agriculture and Plantation Industries has launched a number of programs to attract the youth community to the agriculture sector.. In this regard, all arrangements have been made to select 160 villages in the country, including the start of the youth agricultural entrepreneurs.
+
+Accordingly, from July 01 to July 07, we declare the National Week of the Youth Agricultural Entrepreneurship Village Program.. 10 million rupees will be paid to start these programs in each village for the first time. He said the amount allocated for this was 1600 million rupees. (A)
 
 ◼️
 
 [Data](articles/b4830519.json)
+
+[Extended Data](ext_articles/b4830519.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 17:19:15**
+As of **2024-06-27 17:35:11**
 
 ## Newspaper Stats
 
-*Scraped **32,482** Articles*
+*Scraped **32,485** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,35 @@ islandlk | 1,802
 economynextcom | 1,890
 dailyftlk | 1,988
 adalk | 2,881
-adaderanalk | 3,698
-tamilmirrorlk | 3,832
+adaderanalk | 3,699
+tamilmirrorlk | 3,833
 dailymirrorlk | 4,733
 virakesarilk | 5,046
-adaderanasinhalalk | 5,335
+adaderanasinhalalk | 5,336
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,481 (100.0%) of 32,482 articles have been extended.
+32,482 (100.0%) of 32,485 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### ශ්‍රී ලංකාව ඇති කරගත් ගිවිසුම ගැන IMF මතය කියයි
+
+*2024-06-27 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198220) · `si`
+
+ශ්‍රී ලංකාවේ බාහිර ණය ප්‍රතිව්‍යුහගත කිරීම සඳහා චීනය සහ අනෙකුත් ණයහිමි රටවල් සමග ඇතිකරගත් එකඟතා, ණය තිරසරභාවය යථා තත්ත්වයට පත්කර ගැනීම සඳහා පියවරක් ඉදිරියට තැබීමක් ලෙස සැලකිය හැකි බව ජාත්‍යන්තර මූල්‍ය අරමුදල පවසයි.
+
+එම එකඟතා ඔස්සේ ඩොලර් බිලියන 10ක පමණ බාහිර ණය ප්‍රතිව්‍යුහගත කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/0024e66a.json)
+
+---
 
 ### Someone in the funeral communeration surrendered
 
@@ -62,25 +76,67 @@ The suspect was also found in a desolate land in a desolate land, police said to
 
 ---
 
-### වාර්තා වෙනස් වෙයි - පන්දු ඕවරයකට ලකුණු 43ක්
+### இதயத்தில் காதலிக்கு இடம் கொடுத்த மாணவன்
+
+*2024-06-27 16:37:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதயத்தில்-காதலிக்கு-இடம்-கொடுத்த-மாணவன்/175-339538) · `ta`
+
+உயிரியல் பாட பரீட்சையில்  கேட்கப்பட்ட கேள்விக்கு மாணவர் ஒருவர்  அளித்த பதில் நகைப்பை ஏற்படுத்தி உள்ளது. உணர்ச்சிகளின் மையம் ஆகவும், கற்பனையின் பிறப்பிடம் ஆகவும் இருக்க கூடிய இதயம் இளைஞர்களின் கண்ணோட்டத்தில் வேறு வகையாக பார்க்கப்படுகிறது.
+
+பரீட்சையில் இதயம் பற்றிய வரைபடம் ஒன்றை வரைந்து, அதன் பாகங்களை குறிக்கும்படி கேட்கப்பட்டு இருந்தது. ஆனால், அந்த கேள்விக்கு, ஈர்ப்பின் வெளிப்பாடாக அந்த மாணவர் இதயம் படம் ஒன்றை வரைந்து அதன் பாகங்களை குறித்த விதம் நெட்டிசன்களிடையே சிரிப்பை வரவழைத்து இருக்கிறது.
+
+அவர், அப்படி என்ன செய்திருக்கிறார் என பார்ப்போம். அவர் இதயத்தின் உள்பாகங்களான ஏட்ரியம் மற்றும் வெண்ட்ரிக்கிள்கள் ஆகியவற்றை பற்றி குறிப்பிடுவதற்கு பதிலாக, பிரியா, ரூபா, பூஜா, நமீதா மற்றும் ஹரிதா என மாணவரின் வாழ்வில் முக்கிய இடம் பிடித்தவர்களின் பெயர்களை குறிப்பிட்டு உள்ளார்.
+
+அந்த ஒவ்வொரு பெயருக்கும் அதன் செயல்பாடுகள் என்ற பெயரில் விளக்கமும் அளித்துள்ளார். இதில், பிரியா என்ற பெயருக்கு, இன்ஸ்டாகிராமில் தொடர்ந்து சாட்டிங் செய்யும் தோழி என குறிப்பிட்டு உள்ளார்.
+
+...
+
+[Data](articles/9811bebc.json)
+
+---
+
+### Sri Lanka debt deal key to restoring debt sustainability, IMF says
+
+*2024-06-27 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100146/sri-lanka-debt-deal-key-to-restoring-debt-sustainability-imf-says) · `en`
+
+Sri Lanka’s agreements with China and other creditor nations to restructure about $10 billion in bilateral debt brought it a step closer towards restoring debt sustainability, the International Monetary Fund (IMF) said on Thursday.
+
+The island nation signed deals with China and other creditor nations to restructure about $10 billion in bilateral debt on Wednesday, helping it approach the end of a restructuring process that began in September 2022 after its reserves hit record lows and forced it to default on foreign debt for the first time.
+
+Sri Lankan officials in Paris inked the agreement with the Official Creditor Committee (OCC) co-chaired by Japan, India and France that have lent a combined $5.8 billion.
+
+The committee is now awaiting details of a separate agreement that was signed with China EXIM Bank to rework $4.2 billion to be shared with them to ensure comparability of treatment, OCC said in a statement.
+
+...
+
+[Data](articles/86ddcadd.json)
+
+---
+
+### Records change - 43 runs per ball
 
 *2024-06-27 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198219) · `si`
 
-ඊයේ (26) නිමාවට පත්වූ ප්‍රාන්ත ක්‍රිකට් තරගයකදී වාර්තා රැසක් බිහිවුණි.
+In a recent cricket tournament, Lestershire's Louis Philip James made headlines with his exceptional batting performance, scoring 43 runs off just one over, including several sixes and fours. This feat surpassed previous records set by Andrew Flindoff in 1998 and Dan Laurence in 2024.
 
-ලෙස්ටර්ෂයර් දෙවැනි ඉනිමේ වැඩිම ලකුණු ලාභියා වූයේ ලුවී ෆිලිප් ජේම්ස් නම් ක්‍රීඩකයා ය.
+🟩
 
-ඔහුගේ ඉනිමේ විශේෂත්වය වූයේ ඔහු ඔලී රොබින්සන් යැවූ එක් ඕවරයකදී ලකුණු 43ක් ලබාගැනීමට සමත් වීමය.
+There were many reports in a state cricket tournament that ended yesterday (26).
 
-එහිදී ඔහු එම ඕවරයේදී පිළිවෙලින් 6, 6 (නිපන්දුවකි), 4, 6, 4, 6 (නිපන්දුවකි), 4, 6 (නිපන්දුවකි), සහ 1 වශයෙන් ලකුණු 43ක් රැස්කළේය.
+Lestershire was the highest scorer in the second innings, Louis Philip James.
 
-එම පන්දු ඕවරය සම්පූර්ණ කිරීමට නිපන්දු 3ක් සමග පන්දු 9ක් යැවීමට රොබින්සන් ට සිදුවිය.
+His innings was the specialty of the one overs that he sent 43 runs in one over.
 
-මීට පෙර එංගලන්ත ප්‍රාන්ත තරගාවලියේදී එක් පන්දු ඕවරයකදී වැඩිම ලකුණු සංඛ්‍යාවක් රැස්කිරීමේ වාර්තාව හිමිකරගෙන සිටියේ ලැන්කැෂයර් කණ්ඩායමේ ඇන්ඩෲ ෆ්ලින්ටොෆ් (1998) සහ සරේ ප්‍රාන්තයේ ඩෑන් ලෝරන්ස් (2024) යන දෙදෙනාය.
+There he was 6, 6 (a skill), 4, 6, 4, 6 (a skill), 4, 6 (a skills), and 1 runs.
+
+Robinson had to send nine balls with 3 balls with 3 ninetes to complete the ball.
+
+Earlier, in one bowler team won the highest number of marks at the England County Andrew Flindoff (1998) and Dan Laurence (2024) in Surrey State.
 
 ◼️
 
 [Data](articles/869f4b5e.json)
+
+[Extended Data](ext_articles/869f4b5e.ext.json)
 
 ---
 
@@ -2357,61 +2413,5 @@ In a statement, India said as one of the co-chairs of the OCC, along with France
 [Data](articles/ea368079.json)
 
 [Extended Data](ext_articles/ea368079.ext.json)
-
----
-
-### Ali Sabry to undertake official visit to Japan
-
-*2024-06-27 02:04:01* · [`dailyftlk`](https://www.ft.lk/news/Ali-Sabry-to-undertake-official-visit-to-Japan/56-763542) · `en`
-
-On an invitation extended by Japanese Foreign Minister Yoko Kamikawa, Foreign Minister Ali Sabry is scheduled to undertake an official visit to Japan from 1 July.
-
-During this visit, the Foreign Minister will engage in bilateral discussions with his Japanese counterpart which will focus on making further progress on the outcome of the latter’s official visit to Sri Lanka in May. Foreign Minister Sabry will also call on several other dignitaries including Japan’s Chief Cabinet Secretary Yoshimasa Hayashi.
-
-The Foreign Minister will be accompanied by senior officials of the Ministry of Foreign Affairs of Sri Lanka.
-
-◼️
-
-[Data](articles/8541ce5a.json)
-
-[Extended Data](ext_articles/8541ce5a.ext.json)
-
----
-
-### DTNA mulls over common Tamil candidate for Presidential race
-
-*2024-06-27 02:01:11* · [`dailyftlk`](https://www.ft.lk/news/DTNA-mulls-over-common-Tamil-candidate-for-Presidential-race/56-763541) · `en`
-
-The Democratic National Alliance (DTNA) reportedly held discussions this week about fielding a common Tamil candidate for the upcoming Presidential election. The DTNA comprises several Tamil political parties, including Crusaders for Democracy, Democratic People’s Liberation Front (DPLF), People’s Liberation Organisation of Tamil Eelam (PLOTE), Eelam People’s Revolutionary Liberation Front (EPRLF), and the Tamil Eelam Liberation Organisation (TELO). The DTNA holds opposing views to the rival Tamil National Alliance (TNA).
-
-On Monday, DTNA party leaders met and discussed the idea of fielding a common Tamil candidate, agreeing not to support a candidate from the mainstream political parties. Sources indicated that the proposal to field a common candidate was initially brought forward by the EPRLF, led by former MP Suresh Premachandran.
-
-...
-
-[Data](articles/d023e084.json)
-
-[Extended Data](ext_articles/d023e084.ext.json)
-
----
-
-### AG clears draft Bill to amend Mediation Board Act
-
-*2024-06-27 01:59:54* · [`dailyftlk`](https://www.ft.lk/news/AG-clears-draft-Bill-to-amend-Mediation-Board-Act/56-763540) · `en`
-
-The Cabinet of Ministers on Monday approved the publication of the draft Bill to amend the Mediation Board Act in the Government gazette and table it in Parliament for approval.
-
-The move follows Attorney General’s clearance to the revised Bill prepared by the Legal Draftsman.
-
-On 25 September 2023, the Cabinet of Ministers granted approval to amend Section 7 of the Mediation Board Act No. 72 of 1988 to address issues related to court appearances when mediation is not mutually agreed upon by both parties.
-
-The amendment also aims to tackle administrative problems, such as delays in issuing non-clearance certificates by mediation boards and the non-existence of operational mediation boards.
-
-The proposal to this effect submitted by the Justice, Prison Affairs and Constitutional Reforms Minister Dr. Wijeyadasa Rajapakshe was approved by the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/8e299b1c.json)
-
-[Extended Data](ext_articles/8e299b1c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 11:19:18**
+As of **2024-06-27 11:35:05**
 
 ## Newspaper Stats
 
-*Scraped **32,415** Articles*
+*Scraped **32,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,884
 dailyftlk | 1,988
 adalk | 2,867
 adaderanalk | 3,688
-tamilmirrorlk | 3,826
+tamilmirrorlk | 3,828
 dailymirrorlk | 4,733
 virakesarilk | 5,030
 adaderanasinhalalk | 5,322
@@ -26,11 +26,45 @@ adaderanasinhalalk | 5,322
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,415 (100.0%) of 32,415 articles have been extended.
+32,415 (100.0%) of 32,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### காதல் திருமணம் செய்தால் ‘குற்ற வரி’
+
+*2024-06-27 11:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதல்-திருமணம்-செய்தால்-குற்ற-வரி/175-339522) · `ta`
+
+வரி அறவிடுவதை ஒவ்வோர் அரசாங்கங்களும் மற்றைய அரசாங்கங்களை விஞ்சிவிடுகின்றன. நாடுகளுக்கு நாடு வரி அறவிடும் முறைமையும் வேறுபடும்.
+
+காதல் திருமணம் செய்தவர்கள் ‘குற்ற வரி’ செலுத்தாவிட்டால் ஊரை விட்டு ஒதுக்கும் நடைமுறை தமிழ்நாட்டு கிராமத்தில் உள்ளது. இதுதொடர்பில் பிபிசி தமிழ் கள ஆய்வை மேற்கொண்டு செய்தி வெளியிட்டுள்ளது.
+
+கோவை மாவட்டம் அருகே, காதல் திருமணம் செய்யும் ஜோடிகளுக்கு குற்றம் செய்ததற்கான ‘வரி’ விதிக்கப்படுவதுடன், அதைச் செலுத்தாவிட்டால் ஊரை விட்டுத் தள்ளி வைக்கும் முறை இன்னமும் நடைமுறையில் உள்ளது. இதைக் 'குத்தவரி' என்று அவர்கள் அழைக்கிறார்கள்.
+
+இந்த நடைமுறை பல தலைமுறைகளாகப் பின்பற்றப்படும் நடைமுறை என்று வடக்கலூர் கிராமத் தலைவர் பேசியபோது கூறினார்.
+
+கோவை மாவட்டம் அன்னூர் அருகே, காதல் திருமணம் செய்வோரை கிராமத்தில் இருக்கும் சாதிய தலைவர்கள் ஒதுக்கி வைப்பதாக புகார்கள் கூறப்படுகின்றன. அதுமட்டுமின்றி, காதல் திருமணம் செய்த தம்பதிகளுக்கு ‘குத்தவரி’ (குற்றம் செய்ததற்கான வரி) செலுத்தினால் ஊரினுள் சேர்த்துக் கொள்ளும் வினோத நடைமுறை இருப்பதாகவும் புகார் எழுந்தது.
+
+...
+
+[Data](articles/b7f20973.json)
+
+---
+
+### மல்வத்து பீடத்தில் ஆசி பெற்றார் ஜனாதிபதி
+
+*2024-06-27 11:00:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மல்வத்து-பீடத்தில்-ஆசி-பெற்றார்-ஜனாதிபதி/175-339520) · `ta`
+
+கண்டிக்கு விஜயம் செய்த ஜனாதிபதி ரணில் விக்ரமசிங்க, மல்வத்து மகா  மகாநாயக்க திப்பட்டுவாவே ஸ்ரீ சுமங்கல தேரர் மற்றும்  அஸ்கிரி   மகாநாயக்க  வரக்காகொட ஸ்ரீ ஞானரதன  தேரர் ஆகியோரை சந்தித்து ஆசி பெற்றார்.
+
+இலங்கை அடைந்துள்ள பொருளாதார மற்றும் நிதி முன்னேற்றம் குறித்து ஜனாதிபதி மகாநாயக்க தேரர்களுக்கு தெளிவுபடுத்தியதோடு  கண்டி நகர அபிவிருத்தித் திட்டத்தையும் அவர்களுக்கு கையளித்தார்.
+
+◼️
+
+[Data](articles/950f6c76.json)
+
+---
 
 ### Bolivia will prevent the government to roll over
 
@@ -88,7 +122,15 @@ The President also announced the President of the President to the Mahanayake, t
 
 The Head Coach of the Sri Lanka National Cricket Team Chris Silverwood, has tendered his resignation from the position, citing personal reasons, Sri Lanka Cricket (SLC) announced today.
 
-◼️
+“Being an international coach means long periods away from loved ones. After lengthy conversations with my family and with a heavy heart, I feel it is now time for me to return home and spend some quality time together,” Silverwood stated.
+
+He also expressed his gratitude towards the players, coaches, backroom staff, and management of Sri Lanka Cricket (SLC) for their support during his tenure. “Without your support, none of the success would have been possible,” he added.
+
+“It has been a real honour for me to be part of Sri Lanka Cricket and I will be taking away many fond memories,” Silverwood added.
+
+Under Silverwood’s leadership, the national team achieved significant success, including winning the T20 Asia Cup in 2022 and reaching the finals of the 50-over Asia Cup in 2023.
+
+...
 
 [Data](articles/936f0c68.json)
 
@@ -102,7 +144,7 @@ The Head Coach of the Sri Lanka National Cricket Team Chris Silverwood, has tend
 
 President Ranil Wickremesinghe visited the Chief Prelate of the Malwatu Chapter Most Ven. Thibbatuwawe Sri Sumangala Maha Nayaka Thera and the Chief Prelate of the Asgiri Chapter Most Ven. Warakagoda Sri Gnanarathana Nayaka Thera during his visit to Kandy, a short while ago, and received their blessings.
 
-The President engaged in progressive discussions on the country’s economic and financial progress and presented the Greater Kandy Urban Plan to the Chief Prelates, the President Media Division said.
+The President engaged in progressive discussions on the country’s economic and financial progress and presented the Greater Kandy Urban Plan to the Chief Prelates, the President’s Media Division said.
 
 ◼️
 
@@ -1108,13 +1150,13 @@ We are all aware of the risks associated with choosing the wrong path. Individua
 
 ---
 
-### 
+### Ranasinghe  Premadasa: Sri Lanka’s Solitary non-Govigama Prime Minister and President
 
-*2024-06-27 01:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84279) · `en`
-
-Ranasinghe  Premadasa: Sri Lanka’s Solitary non-Govigama Prime Minister and President
+*2024-06-27 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84279) · `en`
 
 India, the world’s biggest democracy, held Parliamentary elections this year in seven phases from 19 April to 1 June. 642 million persons voted in the poll. Results were announced on 4 June. The incumbent Prime Minister Narendra Modi was re-elected PM for the third time. His party the Bharatiya Janata Party (BJP) won 240 of 572 Lok Sabha or Parliament seats. Together with allied parties the BJP led National Democratic Alliance (NDA) obtained 293 seats in Parliament.
+
+The election results have been continuously analysed and commented upon from the time of the poll. A significant aspect of these analyses and commentaries is the “caste factor”. Indian analysts and commentators are not “shy” about discussing caste openly when dissecting poll results. It is an acknowledged fact in India that caste plays a very influential role in determining the outcome of elections in many electorates, regions or states. Many Indians delve into the “caste in elections” topic without any inhibitions.
 
 ...
 
@@ -2233,45 +2275,5 @@ The President's greeting message is a milestone achievement of the samples of th
 [Data](articles/d04aff10.json)
 
 [Extended Data](ext_articles/d04aff10.ext.json)
-
----
-
-### The Tamil Doctor who Gave Medical Aid to Injured Tigers.
-
-*2024-06-26 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84238) · `en`
-
-“Captain Blood:His Odyssey”was an Adventure novel authored  by well-known writer Rafael  Sabatini in 1922. Sabatini had a flair for creating fictional characters set  against the backdrop of true,historical events.This blend of fiction and fact  was received well by readers,  The Captain Blood novel became a best-seller then. The basic story line was about a physician who suffered greatly because he provided medical treatment to injured persons branded as enemies of the state.
-
-Captain Blood  became an immensely popular novel and several films based on the  book  were made in different languages over the years.The block buster Tamil movie “Aayirathil Oruvan”(One in a thousand) starring MG Ramachandran (MGR) released in 1965  was an adaptation of the Captain blood novel. In the film, MGR plays Manimaran a physician who is victimised for giving medical treatment to people injured in a rebellion against the ruling dictator.
-
-...
-
-[Data](articles/0c6c87b9.json)
-
-[Extended Data](ext_articles/0c6c87b9.ext.json)
-
----
-
-### Special announcement from the Ministry of Education
-
-*2024-06-26 18:15:21* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-අමාත්‍යාංශයෙන්-විශේෂ-නිවේදනයක්/11-410455) · `si`
-
-The Ministry of Education announced the establishment of a national university dedicated to education, aiming to enhance teaching standards across Sri Lanka. This initiative comes after recognizing the need for a specialized institution to train future educators effectively. The university, set to open its doors to students in 2028, will focus on preparing graduates to teach various subjects at schools nationwide.
-
-🟩
-
-Ministry of Education issued a statement saying that a national university has been launched to education and will join school after 2028 graduates.. The announcement is as follows.
-
-"The National Colleges of Education established in 1986 has 19 today. Trainees included in these Colleges of Scholarships as teacher teachers and appointed to teach different subjects in 1-11 to the Sri Lanka Teachers' Service.
-
-The Ministry of Education is working to recruit a scientific teachers as graduate teachers as graduate teachers in order to maintain the international standards of education.
-
-Accordingly, a need for a separate national education university has arisen. Therefore, the government has already taken a policy decision to start a trade unions in the field of trade unions and the trade unions in the field of education and the participation of the field of education.
-
-...
-
-[Data](articles/87ba7d05.json)
-
-[Extended Data](ext_articles/87ba7d05.ext.json)
 
 ---

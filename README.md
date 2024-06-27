@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 06:21:13**
+As of **2024-06-27 07:01:11**
 
 ## Newspaper Stats
 
-*Scraped **32,375** Articles*
+*Scraped **32,377** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 295
-dbsjeyarajcom | 295
+dbsjeyarajcom | 296
 bbccomsinhala | 318
 newsfirstlk | 363
 islandlk | 1,802
@@ -17,7 +17,7 @@ economynextcom | 1,884
 dailyftlk | 1,988
 adalk | 2,862
 adaderanalk | 3,681
-tamilmirrorlk | 3,821
+tamilmirrorlk | 3,822
 dailymirrorlk | 4,733
 virakesarilk | 5,023
 adaderanasinhalalk | 5,310
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,363 (100.0%) of 32,375 articles have been extended.
+32,370 (100.0%) of 32,377 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -314,6 +314,22 @@ The South Indian delegation engaged in various B2B meetings and had meetings wit
 
 ---
 
+### கடும் வெப்பத்தால் உருகிய ஆபிரகாம் லிங்கன்
+
+*2024-06-27 01:14:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கடும்-வெப்பத்தால்-உருகிய-ஆபிரகாம்-லிங்கன்/50-339502) · `ta`
+
+அமெரிக்காவில் கடும் வெப்பம் நிலவி வருகிறது. இதனால், அமெரிக்காவின் 16 ஆவது ஜனாதிபதியான ஆபிரகாம் லிங்கனின் மெழுகுச் சிலை உருகியுள்ளது.
+
+6 அடி உயரத்தில் உருவாக்கப்பட்டுள்ள அந்தச் மெழுகுச் சிலையின் தலைப்பகுதி வெப்பத்தால் உருகி கீழே வளைந்துள்ளது.
+
+திறந்தவெளியில் வைக்கப்பட்டிருந்த ஆபிரகாம் லிங்கன் சிலையின் சேதமடைந்த தலைப் பகுதியை சீரமைக்கும் பணிகள் முன்னெடுக்கப்பட்டுள்ளன. (a)
+
+◼️
+
+[Data](articles/571b99f0.json)
+
+---
+
 ### President declares Sri Lanka’s successful navigation away from bankruptcy
 
 *2024-06-27 01:11:51* · [`dailyftlk`](https://www.ft.lk/news/President-declares-Sri-Lanka-s-successful-navigation-away-from-bankruptcy/56-763535) · `en`
@@ -414,6 +430,8 @@ Apply it evenly on your face, focusing on the affected area.
 
 [Data](articles/8dc5fad6.json)
 
+[Extended Data](ext_articles/8dc5fad6.ext.json)
+
 ---
 
 ### Major notice for passport holders
@@ -452,6 +470,8 @@ LAUGFS Rubber emerged as the ‘Winner in the Large Category’ and secured the 
 
 [Data](articles/7c33f5e9.json)
 
+[Extended Data](ext_articles/7c33f5e9.ext.json)
+
 ---
 
 ### Commercial Credit and Finance secures 1st place in K Seeds Investments’ ranking report
@@ -468,6 +488,8 @@ Commercial Credit and Finance PLC topped the overall spectrum by belonging to �
 
 [Data](articles/f45dad03.json)
 
+[Extended Data](ext_articles/f45dad03.ext.json)
+
 ---
 
 ### E. B. Creasy Solar energizes 9th Annual Construction Power and Energy Expo 2024
@@ -481,6 +503,8 @@ As a long-standing advocate of sustainable development, E. B. Creasy Solar is de
 ...
 
 [Data](articles/96deff42.json)
+
+[Extended Data](ext_articles/96deff42.ext.json)
 
 ---
 
@@ -504,6 +528,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/4a5055bc.json)
 
+[Extended Data](ext_articles/4a5055bc.ext.json)
+
 ---
 
 ### Flaws in debt restructuring slow down share trading
@@ -517,6 +543,8 @@ Due to deeply flawed operational frameworks, built on statistics rejecting class
 ...
 
 [Data](articles/cad0ac53.json)
+
+[Extended Data](ext_articles/cad0ac53.ext.json)
 
 ---
 
@@ -1384,6 +1412,22 @@ Relation IMF urges Maldives to halt money printing to keep dollar peg amid ‘de
 
 ---
 
+### Sri Lanka Finalizes Comprehensive  Debt Re-structuring Agreements with the Official Creditor Committee Co-chaired by France,Japan and India and China Exim Bank to the Combined Value of US $ 10 Billion.
+
+*2024-06-26 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84269) · `en`
+
+(Textr  of Press Release issued by the President’s  Media Division on 26 June 2024)
+
+In a significant milestone for Sri Lanka’s economic revitalization efforts, the nation has successfully finalized comprehensive debt restructuring agreements with key bilateral creditors. On June 26, 2024, Sri Lanka concluded negotiations with the Official Creditor Committee (OCC) and China Exim Bank, marking pivotal strides towards stabilizing its financial footing amid recent economic challenges.
+
+The agreements, valued at a combined USD 10 billion, encompass restructuring arrangements with major bilateral lenders under the auspices of the OCC, co-chaired by Japan, India, and France. Notable members of the committee include Australia, Austria, Belgium, Canada, Denmark, Germany, Hungary, Korea, the Netherlands, Russia, Spain, Sweden, the United Kingdom, and the United States of America.
+
+...
+
+[Data](articles/81c31c90.json)
+
+---
+
 ### 6 crores arrested with golden gel
 
 *2024-06-26 17:47:25* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-18ක-රත්තරන්-ජෙල්-සමග-6ක්-අල්ලයි/11-410454) · `si`
@@ -2217,57 +2261,5 @@ Police had resorted to using tear gas and water cannons to disperse the proteste
 [Data](articles/07b39500.json)
 
 [Extended Data](ext_articles/07b39500.ext.json)
-
----
-
-### Officials who continue to enforce the law continue torture - our joint responsibility is to ensure justice for torture
-
-*2024-06-26 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/187025) · `ta`
-
-On International Support Day for Torture Victims, emphasis is placed on enforcing anti-torture laws in Sri Lanka, highlighted by a recent court verdict sentencing three, including a police officer, to seven years for torture committed in 2003. Despite the 1994 Anti-Torture Act, which mandates severe punishment for torture, incidents persist, underscoring the need for stricter law enforcement and an independent body to probe police abuses. The call is for collective action to ensure justice and prevent future atrocities, emphasizing the importance of supervising and educating law enforcement to uphold human rights.
-
-🟩
-
-Right to Life Srilanka has said that it is our joint responsibility to ensure justice for torture and to prevent such terrible acts in the future.
-
-In a statement issued today, the International Support Day for Torture victims said this in a statement
-
-While the International Support Day for Torture victims is being observed today, it is imperative to emphasize the need to implement the laws of against torture in Sri Lanka.
-
-The historic recent verdict issued by the Matara Court has expressed the need.
-
-The court has sentenced three persons, including the officer in charge of the Tissamaharama police station. In 2003, five people have been sentenced to seven years in prison.
-
-The court has fined the police officers and ordered the victims to pay compensation of Rs 500,000.
-
-This emphasized that the court requires justice and accountability for human rights violations.
-
-...
-
-[Data](articles/ca0eedc0.json)
-
-[Extended Data](ext_articles/ca0eedc0.ext.json)
-
----
-
-### Teacher-Principal strike tomorrow
-
-*2024-06-26 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198179) · `si`
-
-Ceylon Teachers Union plans a strike tomorrow in Colombo's Lotus Road area, following protests at the Fort Railway Station. The action aligns with the union's trade program, supported by a court order after a police request.
-
-🟩
-
-The Ceylon Teachers Union Secretary Joseph Stalin says that the project will be on strike tomorrow (27) at the Lotus Road area in Colombo.
-
-Teachers' Principal Joint Committee, in line with the trade union trade program, commenced protest in front of the Fort Railway Station today.
-
-According to a comprehensive police request, the Fort Magistrate Court has issued an order.
-
-◼️
-
-[Data](articles/244e35a1.json)
-
-[Extended Data](ext_articles/244e35a1.ext.json)
 
 ---

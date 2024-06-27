@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 14:19:20**
+As of **2024-06-27 14:35:06**
 
 ## Newspaper Stats
 
@@ -26,53 +26,67 @@ adaderanasinhalalk | 5,330
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,443 (99.9%) of 32,461 articles have been extended.
+32,455 (100.0%) of 32,461 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### කෙහෙළිය ගේ පෙත්සම ගැන දුන් නියෝගය
+### The order on Keheliya's petition
 
 *2024-06-27 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198214) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ඉදිරිපත් කර තිබෙන රිට් පෙත්සමක් වැඩිදුර සලකා බැලීම සඳහා ලබන ජූලි මස 01 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කළේය.
+Keheliya Rambukwella, ex-Health Minister, filed a petition on July 1st, seeking to delay proceedings related to substandard antibodies until further notice. The Court of Appeal will review this request on July 27th, with the Attorney General represented by Deputy Solicitor General Nirmalan Vigneswaran.
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධියට අදාළව තමන්ව නඩු විභාගය අවසන් වන තෙක් රක්ෂිත බන්ධනාගාර ගත කිරීමට මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසින් ලබාදී ඇති නියෝගය බලරහිත කිරීමේ තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා එම පෙත්සම ගොනුකර තිබේ.
+🟩
 
-අද (27) එම පෙත්සම සලකා බැලීම සිදුකළ අතර එහිදී නීතිපතිවරයා වෙනුවෙන් නියෝජ්‍ය සොලිසිටර් ජනරාල් නිර්මලන් විග්නේෂ්වරන් මහතා කරුණු ඉදිරිපත් කළේය.
+The Court of Appeal was set to call a Rit petition filed by the former Health Minister Keheliya Rambukwella on July 1.
+
+The petition has been filed to be remanded to be remanded until the end of the substandard antibodies.
+
+The petition was considered today (27), Deputy Solicitor General Nirmalan Vigneswaran made the Attorney General.
 
 ◼️
 
 [Data](articles/c0c4a366.json)
 
+[Extended Data](ext_articles/c0c4a366.ext.json)
+
 ---
 
-### කුමන්ත්‍රණයෙන් බේරුණු ජනපති ගැන මේ කරුණු දන්නවාද ?
+### Do you know these facts about the conspiracy survived?
 
 *2024-06-27 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198213) · `si`
 
-2020 දී බොලිවියාවේ ජනාධිපති ලෙස තේරී පත්වූ ලුයිස් ආසේ ව නෙරපා දැමීමට එරට හමුදා ජෙනරාල්වරයෙක් ගත් උත්සාහය ව්‍යාර්ථ කිරීමට එරට බලධාරීන් සමත් විය.
+In 2020, Bolivian authorities attempted to oust a military general who sought presidency. President Luis Alberto Catacora, an economist known for his 2005 economic plan leading to rapid growth but also increasing poverty, faces criticism over economic issues like scarce dollar reserves. Plans to partner with Chinese and Russian investors for lithium mining, crucial for e-car batteries, highlight the country's strategic focus amidst opposition claims of failure.
 
-ජනාධිපති ලුයිස් ආසේ පවසන්නේ හිටපු ජනාධිපතිවරයෙක් වන ඉවෝ මොරාලෙස් එම ප්‍රයත්නය ට සහාය දක්වා ඇති බවය.
+🟩
 
-බොලිවියාවේ ජනාධිපතිවරයා ප්‍රකට ආර්ථික විශේෂඥයෙකි. ඔහුගේ සම්පූර්ණ නම වන්නේ ලුයිස් ඇල්බර්ටෝ ආසේ කැටකෝරා ය.
+In 2020, the authorities of a military general attempt to expel the elected to be elected as President of Bolivia.
 
-මොරාලෙස් ජනපති ලෙස පත්වූ 2005 වසරේ පැවති ජනාධිපතිවරණයේ ආර්ථික සැලසුමේ නිර්මාතෘ වරයා වන්නේ ඔහු ය.
+President Luis San says the former president Ivon Morales assisted the effort.
 
-අනතුරුව බොලිවියා ආර්ථිකය සීග්‍රයෙන් වර්ධනය වූ අතර එම ආර්ථික වර්ධනයට මූලික වූයේ ආසේ හඳුන්වා දුන් ප්‍රතිසංස්කරණ බව ඔහුගේ ආධාරකරුවන් පවසයි.
+The President of Bolivia is a well-known economist. His full name is Catacora, Luis Alberto.
 
-විශේෂයෙන්ම එම සමයේ එරට බොහෝ දෙනෙක්ව දරිද්‍රතාවයෙන් මුදවා ගැනීමට ඔහු ගෙන ආ ප්‍රතිසංස්කරණ හේතුවූ බව කවුරුත් පිළිගන්නා මතය කි.
+He is the Creator of the economic plan of the 2005 presidential election, which was appointed as the President.
 
-60 හැවිරිදි වියේ පසුවන ජනාධිපතිවරයා මේ වනවිට අසාර්ථක වී ඇති බව ඔහුගේ විරුද්ධවාදීන් පවසයි.
+The Bolivia economy then grew rapidly and the reforms were initially introduced to the economic growth.
 
-රට තුළ ඩොලර් සංචිත හිඟ වීමෙන් ආර්ථික ගැටලු වර්ධනය වෙමින් තිබේ.
+It is especially accepted that the reform of reforms he brought many people in poverty during the same time.
 
-මෙවන් පසුබිමක බොලිවියාවේ බහුල ලිතියම් ලෝහය කැණීම සඳහා චීන සහ රුසියානු ආයෝජකයින් සමග ගිවිසුම්ගත වීමට ජනපතිවරයා සැලසුම්කර තිබේ.
+His opponents say the 60-year-old president has failed.
 
-...
+Economic problems are growing by scarcity of dollar reserves in the country.
+
+The President has planned to be contracted with Chinese and Russian investors to dig the abundant little litch metal in such a background.
+
+There is a great demand for Lithium to use e-car battery production.
+
+◼️
 
 [Data](articles/be190bcc.json)
+
+[Extended Data](ext_articles/be190bcc.ext.json)
 
 ---
 
@@ -102,17 +116,23 @@ Accordingly, all those appointments were decided to provide all of the appointme
 
 ---
 
-### கிளிநொச்சியில் நாய்க்கடிக்கு இலக்கான சிறுமி உயிரிழப்பு
+### Puppy girl dies in Kilinochchi
 
 *2024-06-27 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/187095) · `ta`
 
-கிளிநொச்சி, குமாரசாமிபுரம் பகுதியைச் சேர்ந்த நான்கு வயது சிறுமி ஒருவர் விசர்நாய்க் கடிக்கு இலக்காகி சிகிச்சை பலனின்றி நேற்று புதன்கிழமை (26) உயிரிழந்துள்ளார்.
+A four-year-old girl from Kilinochchi died on Wednesday after being hospitalized in Jaffna for treatment.
 
-சிறுமி விசர்நாய்க் கடிக்கு இலக்கான நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் கடந்த ஞாயிற்றுக்கிழமை அனுமதிக்கப்பட்டு, சிகிச்சை பெற்று வந்துள்ளார்.
+🟩
+
+A four -year -old girl from Kumarasamipuram, Kilinochchi died on Wednesday (26) without treatment.
+
+The girl was admitted to the Jaffna Teaching Hospital last Sunday and was receiving treatment.
 
 ◼️
 
 [Data](articles/d6655171.json)
+
+[Extended Data](ext_articles/d6655171.ext.json)
 
 ---
 
@@ -160,19 +180,27 @@ The interim injunction order stated that until the end of the petition examinati
 
 ---
 
-### உண்மை, ஒற்றுமை மற்றும் நல்லிணக்கத்துக்கான சுயாதீன ஆணைக்குழுவை உருவாக்குவது தொடர்பில் கிளிநொச்சியில் பல தரப்பினருடன் கலந்துரையாடல்!
+### Discussion with many parties in Kilinochchi on the creation of an independent commission for truth, unity and reconciliation!
 
 *2024-06-27 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187093) · `ta`
 
-உண்மை மற்றும் நல்லிணக்க பொறிமுறைக்கான இடைக்கால செயலகம் (ISTRM) மற்றும் உண்மை ஒற்றுமை மற்றும் நல்லிணக்கத்திற்கான உத்தேச ஆணையம்(CTUR) இலங்கையில் வடக்கு கிழக்கில் நிலவிய மோதலில் பாதிக்கப்பட்டவர்கள் எதிர்கொள்ளும் பிரச்சினைகள் மற்றும் அநீதிகளை நிவர்த்தி செய்வதற்கு இலங்கையில் ஆணைக்குழுவொன்றை நிறுவுவதற்கான நடவடிக்கையினை மேற்கொண்டு வருகின்றன.
+In Kilinochchi, discussions aimed at creating an independent commission for truth, unity, and reconciliation in Sri Lanka took place. This commission, focused on addressing injustices faced by victims of the conflict in the North and East, is set to be established through a Parliamentary Act. The goal is to investigate human rights violations from 1983 to 2009, prevent future incidents, and promote national reconciliation. These discussions involved various stakeholders, including government agents, military elites, police officers, NGO representatives, journalists, and the public, emphasizing the importance of social justice and unity.
 
-அந்தவகையில் உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு தொடர்பான விளக்கத்தினை வழங்கவும் ஆலோசனையைப் பெற்றுக் கொள்ளவதற்கான கலந்துரையாடல்கள் நேற்று (26) கிளிநொச்சி மாவட்டத்தில் நான்கு அமர்வுகளாக நடைபெற்றன.
+🟩
 
-இலங்கையில் தேசிய நல்லிணக்கம், ஒற்றுமை மற்றும் சமூக நீதியை மேம்படுத்தும் நோக்கில் உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க பொறிமுறைக்கான இடக்கால செயலகத்தின் ஏற்பாட்டில் குறித்த கலந்துரையாடல்கள் நடைபெற்றன.
+The Interim Secretariat for Truth and Reconciliation Mechanism and the proposed Commission for True Unity and Reconciliation (CTUR) is taking steps to establish a Commission in Sri Lanka to address the problems and injustices facing the victims of the conflict in the North and East in Sri Lanka.
+
+Four sessions were held yesterday (26) in the Kilinochchi district.
+
+Discussions were held in Sri Lanka under the aim of promoting national reconciliation, unity and social justice.
+
+Between 1983 and 2009, it is planned to establish a Truth, Integration and Reconciliation Commission as an independent organization established by the Parliamentary Act to find out the fact of alleged human rights violations during the conflict in the Northern and Eastern Provinces.
 
 ...
 
 [Data](articles/1f272fe3.json)
+
+[Extended Data](ext_articles/1f272fe3.ext.json)
 
 ---
 
@@ -260,53 +288,75 @@ He ordered the military to be deployed, saying “violence and anarchy” would 
 
 ---
 
-### கொழும்பில் வெள்ளம் ஏற்பட்டமைக்கான காரணங்களை ஆராய்ந்து 2 வாரங்களுக்குள் அறிக்கை சமர்ப்பிக்குமாறு சாகல பணிப்பு
+### Sakala work to submit a report within 2 weeks of flooding in Colombo
 
 *2024-06-27 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/187092) · `ta`
 
-கொழும்பு மாவட்டத்தில் வெள்ளம் ஏற்பட்டதற்கான காரணங்களை ஆராய்ந்து அனைத்து கிராம உத்தியோகத்தர் பிரிவுகளையும் உள்ளடக்கிய வகையில் அறிக்கை கோருமாறும், அந்த அறிக்கைகளின் அடிப்படையில் ஆரம்ப அறிக்கையை தயாரித்து இரண்டு வாரங்களுக்குள் ஜனாதிபதி அலுவலகத்தில் சமர்ப்பிக்குமாறும், தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க கொழும்பு மாவட்டத்தின் பிரதேச செயலாளர்களுக்கு அறிவுறுத்தல் வழங்கினார்.
+Sagala Ratnayake, the Senior Advisor and President, urged Divisional Secretaries to compile reports on the flood impact across Colombo's Grama Niladhari Divisions. He promised swift action to devise strategies to mitigate future flood risks, following discussions with departmental leaders about the recent flooding caused by adverse weather conditions. President Ranil Wickremesinghe, who visited the affected areas, concurred that the floods were naturally occurring and directed the preparation of short-term, medium, and long-term plans to prevent similar incidents. The meeting included key figures like MP Premnath C. ACM, Water Supply Ministry Secretary Nabeel, sector leaders, and Colombo district residents.
 
-அதன் பிரகாரம், சம்பந்தப்பட்ட நிறுவனங்களின் தலைவர்களுடன் கலந்துரையாடி இந்தப் பிரச்சினைகளுக்குத் தீர்வு காண்பதற்குத் தேவையான திட்டங்களை உடனடியாகத் தயாரிக்க நடவடிக்கை எடுப்பதாக அவர் தெரிவித்தார்.
+🟩
 
-மோசமான காலநிலை காரணமாக கொழும்பு மாவட்டத்தில் அண்மையில்  ஏற்பட்ட வெள்ள நிலைமைக்கான காரணங்களைக் கண்டறிந்து அதற்குத் தீர்வுகாண்பதற்காக துறைசார் நிறுவனங்களின் தலைவர்களுடன் புதன்கிழமை (26) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்ற கலந்துரையாடலின் போதே சாகல ரத்நாயக்க மேற்கண்டவாறு தெரிவித்தார்.
+Sagala Ratnayake, the Senior Advisor of the National Security and the President of the President, advised the Divisional Secretaries of the National Security President and the President of the President of the President, to submit a report on the reports of all Grama Niladhari Divisions and submit the initial report on the basis of those reports.
+
+Accordingly, he said that he would take immediate steps to prepare the necessary plans to address these issues in consultation with the leaders of the concerned companies.
+
+Sagala Ratnayake made this statement during a discussion with the leaders of the departmental institutions on Wednesday afternoon (26) to find out the reasons for the recent flood situation in the Colombo district due to bad weather conditions.
+
+Sagala Ratnayake added that President Ranil Wickremesinghe and the political representatives of the area have visited the floods in the Colombo district and that the flood situation has been identified as natural causes.
 
 ...
 
 [Data](articles/2df3de2d.json)
 
+[Extended Data](ext_articles/2df3de2d.ext.json)
+
 ---
 
-### வீடு புகுந்து வயோதிப தம்பதியரை கூரிய ஆயுதத்தால் தாக்கிய கும்பல் : மனைவி உயிரிழப்பு : கணவர் படுகாயம்!
+### Gang attacked the elderly couple with a sharp weapon: wife death:
 
 *2024-06-27 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/187090) · `ta`
 
-வீட்டினுள் கொள்ளையடிக்க நுழைந்த கும்பலொன்று அவ்வீட்டில் வசித்துவந்த வயோதிப தம்பதியரை கூரிய ஆயுதத்தால் தாக்கியதில் 74 வயதுடைய வயோதிபப் பெண் உயிரிழந்ததோடு, பெண்ணின் கணவர் படுகாயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+A gang attacked an elderly couple; the 74-year-old wife died, while the 76-year-old husband was hospitalized after being assaulted with a sharp weapon. The couple lived alone, with their children abroad and one in Kelaniya. The attackers, suspected of targeting the couple's property, fled the scene.
 
-அந்த வீட்டில் வயோதிப கணவரும் (வயது 76) மனைவியும் மட்டுமே வசித்துவருகின்றனர். அவர்களது இரு பிள்ளைகள் வெளிநாட்டிலும், ஒரு மகள் களனி பிரதேசத்திலும் தனித்தனியே வசித்து வருகின்றனர்.
+🟩
 
-இந்நிலையில், வீட்டுக்குள் நுழைந்த கும்பல், வயதான மனைவியை கூரிய ஆயுதத்தால் தாக்கிக் கொலை செய்ததோடு, வீட்டின் குளியலறைக்கு அருகில் கணவரையும் தாக்கி, கை, கால்களை கட்டியதாகவும், இத்தாக்குதலில் கணவரும் இறந்துவிட்டதாக கருதிய பின்னர் கொள்ளையர்கள் அங்கிருந்து தப்பிச் சென்றுள்ளதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
+A 74 -year -old woman died and the woman's husband was injured and admitted to the hospital when a gang entered the house with a sharp weapon.
 
-மேலும், சொத்துக்களை கொள்ளையடிப்பதற்காகவே வீடு புகுந்து இந்த கும்பல் தம்பதியரை தாக்கிக் கொலை செய்திருக்கக்கூடும் என பொலிஸார் சந்தேகிக்கின்றனர்.
+Only the elderly husband (age 76) of the house lives in the house. Their two children live separately in the abroad and a daughter in Kelaniya.
 
-இந்த தாக்குதலில் எஹலியகொடை அராபொல நதுரன பிரதேசத்தைச் சேர்ந்த மூன்று பிள்ளைகளின் தாயே கொலை செய்யப்பட்டுள்ளார்.
+In this case, the gang, who entered the house, assaulted the elderly wife with a sharp weapon and attacked her husband near the bathroom, tied her hands and feet and the robbers had fled the scene.
 
-...
+Moreover, police suspect that the gang may have been assaulted and killed by the couple for robbing property.
+
+The mother of three children from the Arabola Nadurana area of ​​Ehaliyagoda has been murdered in the attack.
+
+The woman's husband, who was admitted to the Ehaliyagoda Hospital, is a retired army officer.
+
+◼️
 
 [Data](articles/a9cdfcae.json)
 
+[Extended Data](ext_articles/a9cdfcae.ext.json)
+
 ---
 
-### இன்றைய தங்க விலைச் சுட்டெண்
+### Today's gold price index
 
 *2024-06-27 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/187091) · `ta`
 
-நாட்டில் தங்கத்தின் விலையில் மாற்றங்கள் ஏற்பட்டு வரும் நிலையில் இன்று வியாழக்கிழமை (27)  24 கரட் ஒரு கிராம் தங்கம் 24,000 ரூபாவாகவும், 24 கரட் 8 கிராம் (ஒரு பவுண்) தங்கம் 191,500 ரூபாவாகவும் விற்பனை செய்யப்படுவதாக அகில இலங்கை நகை வியாபாரிகள் சங்கம் தெரிவித்துள்ளது.
+Gold prices in Sri Lanka today: 24k gold at 24,000 rupees per 24 grams and 22k gold at 22,200 rupees per 24 grams.
 
-மேலும், 22 கரட் ஒரு கிராம் தங்கம் 22,200 ரூபாவாகவும், 22 கரட் 8 கிராம் (ஒரு பவுண்)  தங்கம் 177,200   ரூபாவாகவும் விற்பனை செய்யப்படுவதாக அச்சங்கம் தெரிவித்துள்ளது.
+🟩
+
+The All Ceylon Jewelry Merchants Association said that 24 grams of gold will be sold at 24,000 rupees and 24 kart 8 grams (one pound) gold at 191,500 rupees today as gold prices are changing in the country.
+
+In addition, 22 grams of gold is sold at 22,200 rupees and 22 carat 8 grams (one pound) gold is being sold at 177,200 rupees.
 
 ◼️
 
 [Data](articles/cb65af1d.json)
+
+[Extended Data](ext_articles/cb65af1d.ext.json)
 
 ---
 
@@ -400,6 +450,8 @@ In Sri Lanka’s most recent currency crisis which came on top of a Coronavirus 
 
 [Data](articles/9c7b1fde.json)
 
+[Extended Data](ext_articles/9c7b1fde.ext.json)
+
 ---
 
 ### Sri Lanka goods exports down 5.81-pct in May, services up 21.2-pct
@@ -422,55 +474,85 @@ Other exports that increased included; petroleum products which were up 117.68 p
 
 [Data](articles/d90d9380.json)
 
+[Extended Data](ext_articles/d90d9380.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-06-27 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/187088) · `ta`
 
-இன்று வியாழக்கிழமை (ஜூன் 27) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 300.6997 ஆகவும்  விற்பனை விலை ரூபா 309.8352 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar's buying rate was Rs 300.6997, while its selling rate was Rs 309.8352 as per the Central Bank's latest update on June 27.
+
+🟩
+
+The US dollar purchasing price was Rs 300.6997 and the sales price were Rs 309.8352 based on a currency exchange rate released by the Central Bank on Thursday (June 27).
 
 ◼️
 
 [Data](articles/a0b8bc6f.json)
 
+[Extended Data](ext_articles/a0b8bc6f.ext.json)
+
 ---
 
-### லெபனானை கற்காலத்திற்கு அனுப்புவோம்- இஸ்ரேல் கடும் எச்சரிக்கை
+### We will send Lebanon to the Age- Israel
 
 *2024-06-27 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/187089) · `ta`
 
-லெபனானில்  யுத்தமொன்றை விரும்பவில்லை எனினும் லெபனானை கற்காலத்திற்கு அனுப்ப முடியும்  என இஸ்ரேல் தெரிவித்துள்ளது.
+Israel warns Lebanon against conflict, stating readiness for any scenario. Israeli Defense Minister Yo Galant, during his Washington visit, emphasized Israel's capability to devastate Lebanon if war ensues, referencing the ongoing tensions and the potential for full-scale war. This comes amidst fears of escalation following Hezbollah's warnings about attacks on Israeli-Lebanese borders. Despite the concerns, key allies like the U.S. are actively mediating to prevent a larger conflict.
 
-வோசிங்டனிற்கான விஜயத்தின்போது இஸ்ரேலின் பாதுகாப்பு அமைச்சர் யோவ் கலன்ட் இதனை தெரிவித்துள்ளார்.தனது நாட்டினால் லெபனானை கற்காலத்தினை நோக்கி தள்ள முடியும் ஆனால் அதனை செய்ய விரும்பவில்லை என அவர் தெரிவித்துள்ளார்.
+🟩
 
-நாங்கள் யுத்தத்தை விரும்பவில்லை ஆனால் நாங்கள் அனைத்து சூழ்நிலைகளுக்கும் எங்களை தயார்படுத்துகின்றோம் என அவர் குறிப்பிட்டுள்ளார்.
+Israel has said it does not want a war in Lebanon, but it can be sent to Lebanon.
 
-யுத்தமொன்றை ஆரம்பித்தால் லெபனானிற்கு  எங்களால் பேரழிவை ஏற்படுத்த முடியும் என்பது ஹெஸ்புல்லா அமைப்பிற்கு தெரியும் என இஸ்ரேலின் பாதுகாப்பு அமைச்சர் தெரிவித்துள்ளார்.
+Israeli Defense Minister Yo Galant said this during his visit to Wasington.
 
-ஒக்டோபர் ஏழாம் திகதி ஹமாஸ் மேற்கொண்ட தாக்குதலின் பின்னர் இஸ்ரேல் யுத்தத்தை ஆரம்பித்தது முதல் இஸ்ரேல் லெபனான் எல்லையில் ஹெஸ்புல்லா அமைப்பிற்கும் இஸ்ரேலிய படையினருக்கும் இடையில் நாளாந்தம் மோதல்கள் இடம்பெறுவது குறிப்பிடத்தக்கது.
+We do not want the war but we are preparing ourselves for all circumstances, ”he said.
 
-...
+The Hesbullah organization knows that we can devastate Lebanon if we launch a war, Israel's defense minister said.
+
+It is noteworthy that the Israeli war began on the seventh of October after the launch of the Israeli war on the Israeli Lebanon border.
+
+Following the intensification of these conflicts over the past few weeks, fear of complete war. The head of the Hesbullah organization has also issued a warning following the warning of attacking Israeli Lebanon.
+
+It is noteworthy that Israel's prominent colleagues, including the United States, did not want the Hesbullah Israeli clashes to explode in full war.
+
+A US official said that the US is engaged in intense negotiations with all sides, including Lebanon Israel, in this regard.
+
+◼️
 
 [Data](articles/094b7edf.json)
 
+[Extended Data](ext_articles/094b7edf.ext.json)
+
 ---
 
-### இந்தியாவின் அதானி நிறுவனத்தின் காற்றாலை மின் உற்பத்தி திட்டத்தில் நிதி மோசடி - ஐக்கிய மக்கள் சக்தி
+### Financial Fraud in India's Wind Power Power Program - United People's Power
 
 *2024-06-27 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187087) · `ta`
 
-இந்தியாவின் அதானி நிறுவனம் முன்னெடுத்துள்ள மின் உற்பத்தி  திட்டங்களில் பாரிய நிதிமோசடி இடம்பெற்றுள்ளதாக ஐக்கிய மக்கள் சக்தி குற்றம்சாட்டியுள்ளது.
+The United People's Power accuses India's Adani Company of launching massive power projects without proper government approval. They question the government's decision to allow Adani Grens Energy Company to set up a wind power plant in Mannar Poonakari. The group claims this could lead to significant financial losses for Sri Lanka over the next two decades.
 
-மன்னார் பூநகரியில் காற்றாலை மின்உற்பத்தி திட்டத்தை முன்னெடுப்பதற்கு இந்தியாவின் அதானி கிறீன்ஸ் எனேர்ஜி நிறுவனத்திற்குஅரசாங்கம் அனுமதிவழங்கியுள்ளமை குறித்து ஐக்கிய மக்கள் சக்தி கேள்வி எழுப்பியுள்ளது.
+🟩
 
-இலங்கையின் வலுசக்தி துறையின் காற்று வலுசக்திதுறையை ஜனாதிபதியும் அமைச்சர் காஞ்சனவிஜயசேகரவும் இந்திய நிறுவனத்திற்கு வழங்கியுள்ளதால் பாரிய அளவிலான நிதிமோசடி இடம்பெறுகின்றது என ஐக்கிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் அஜித் பி பெரேரா தெரிவித்துள்ளார்.
+The United People's Power alleges that the power generation projects launched by India's Adani Company have been massive.
 
-இந்தியாவின் அதானி கிறீன்ஸ் எனர்ஜி நிறுவனம் மூலம் மன்னார் மற்றும்பூநகரியில் காற்றாலை காற்றாலை மின்நிலையங்களை உருவாக்க முன்மொழியப்பட்ட திட்டத்தின் கீழ் உற்பத்தி செய்யப்படும் மின்சாரத்தினை ஒருகிலோவோட்டிற்கு என்ற அடிப்படையில் கொள்வனவு செய்வதற்கு அரசாங்கம் அனுமதி வழங்கியுள்ளது எனவும் அவர் தெரிவித்துள்ளார்.
+The United People's Power has questioned the government's admission to India's Adani Grens Energy Company to launch a wind power plant in Mannar Poonakari.
+
+United People's Power Parliamentarian Ajith P. Perera says that the President and the Minister of State for India and Minister Kanjanavijayasekara have provided a massive financial financial raise as the President and Minister Kanjanavijayasekara has provided the air force in the Department of Power and Energy.
+
+He added that the government has given permission to buy electricity generated under the proposal to create wind power plants in Mannar and Poonakari through India's Adani Grens Energy Company.
+
+The United People's Power Parliament has said that Sri Lanka will have to lose millions in 20 years in 20 years.
+
+He said that the company, Windfors, offered to build a windmill station at the station.
 
 ...
 
 [Data](articles/6d29c30d.json)
+
+[Extended Data](ext_articles/6d29c30d.ext.json)
 
 ---
 

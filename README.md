@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 19:34:57**
+As of **2024-06-27 19:53:12**
 
 ## Newspaper Stats
 
-*Scraped **32,505** Articles*
+*Scraped **32,507** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,76 @@ adalk | 2,883
 adaderanalk | 3,700
 tamilmirrorlk | 3,835
 dailymirrorlk | 4,733
-virakesarilk | 5,054
+virakesarilk | 5,056
 adaderanasinhalalk | 5,342
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,503 (100.0%) of 32,505 articles have been extended.
+32,505 (100.0%) of 32,507 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### LPL තරග සඳහා පවර් බ්ලාස්ට් ඕවර්ස්
+### வெறும் 7 சதவீத கடன் தள்ளுபடிக்கு இணக்கப்பாடு எட்டப்பட்டுள்ளமை நற்செய்தியல்ல - ஹர்ஷ டி சில்வா
+
+*2024-06-27 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187121) · `ta`
+
+சர்வதேச கடன் வழங்குனர்களுடன் எட்டப்பட்டுள்ள இணக்கப்பாட்டுக்கமைய 7 சதவீத கடன் தள்ளுபடி மாத்திரமே கிடைக்கப்பெறவுள்ளது. 28 சதவீத கடன் தள்ளுபடி எதிர்பார்க்கப்பட்ட நிலையில், வெறும் 7 சதவீதத்துக்கு மாத்திரம் இணக்கம் காணப்பட்டுள்ளமை ஒரு நற்செய்தியல்ல என்று ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+
+பிரதான இரு தரப்பு உத்தியோகபூர்வ கடன் வழங்குநர்களான சீன, ஜப்பன் இந்தியா உட்பட ஏனைய நாடுகளுடன் இணக்கப்பாட்டை எட்டியமை உண்மையில் மகிழ்ச்சியளிக்கிறது. அதன் ஊடாக நன்மை கிடைக்குமானால் இலங்கை என்ற குழந்தையை அங்குமிங்கும் இழுத்து சிதைப்பதற்கு நாம் தயாராக இல்லை என்நும் ஹர்ஷ டி சில்வா சுட்டிக்காட்டினார்.
+
+வியாழக்கிழமை (27) கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் விசேட உரை தொடர்பில்கருத்து வெளியிடும் போதே அவர் இதனைத் தெரிவித்தார். அவர் மேலும் குறிப்பிடுகையில்,
+
+...
+
+[Data](articles/49b69416.json)
+
+---
+
+### இன்று இரவு இரண்டாவது அரை இறுதிப் போட்டி : தென் ஆபிரிக்காவை இறுதிப் போட்டியில் எதிர்த்தாடப்போவது நடப்பு சம்பியன் இங்கிலாந்தா? முன்னாள் சம்பியன் இந்தியாவா?
+
+*2024-06-27 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/187120) · `ta`
+
+9ஆவது ரி20 உலகக் கிண்ண இறுதிப் போட்டியில் தென் ஆபிரிக்காவை எதிர்த்தாடப்போவது நடப்பு சம்பியன் இங்கிலாந்தா? முதலாவது சம்பியன் இந்தியாவா? என்பதைத் தீர்மானிக்கும் இரண்டாவது அரை இறுதிப் போட்டி இலங்கை நேரப்படி வியாழக்கிழமை (27) இரவு 8.00 மணிக்கு ஆரம்பமாகவுள்ளது.
+
+ஒன்பதாவது ரி20 உலகக் கிண்ண அத்தியாயத்தில் தோல்வி அடையாத அணியாக இந்தியாவும், முதல் சுற்றிலும் சுப்பர் சுற்றிலும் தட்டுத்தடுமாறிய அணியாக இங்கிலாந்தும் இன்றைய போட்டியை எதிர்கொள்ளவுள்ளன.
+
+ரி20 உலகக் கிண்ண அங்குரார்ப்பண அத்தியாயத்தில் எம். எஸ். தோனி தலைமையில் சம்பியனான இந்தியா, 17 வருடங்களின் பின்னர் உலகக் கிண்ணத்தை இரண்டாவது தடவையாக சுவீகரிக்கும் முனைப்புடன் இம்முறை களம் இறங்கியுள்ளது.
+
+மறுபக்கத்தில் 2010இலும் 2022இலும் ரி20 உலக சம்பியனான இங்கிலாந்து, தொடர்ச்சியாக இரண்டு தடவைகள் சம்பியனான நாடு என்ற பெருமையை தனதாக்கிக்கொள்ளும் குறிக்கோளுடன் இம்முறை போட்டியிடுகிறது.
+
+...
+
+[Data](articles/5b450c9c.json)
+
+---
+
+### Power Blast Overs for LPL matches
 
 *2024-06-27 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198226) · `si`
 
-ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ තරග සඳහා නව තරග රීතියක් හඳුන්වා දීමට එහි සංවිධායකයින් කටයුතු කර තිබේ.
+In the Sri Lanka Premier League, a new rule called "Power Play" has been introduced. This involves the last two balls of each innings (16th and 17th), where only four fielders can be placed within the 30-yard boundary. This change aims to enhance competitiveness in the league.
 
-ඒ යම් ඉනිමක අවසාන භාගය සඳහා "Power Play" අවස්ථාවක් හඳුන්වා දීමය.
+🟩
 
-ඒ අනුව යම් ඉනිමක 16වන සහ 17වන පන්දු ඕවර දෙක "Power Play" අවස්ථාවක් වෙයි.
+The organizers have been introduced to introduce a new competition rule for the Sri Lanka Premier League.
 
-එම පන්දු ඕවර දෙකේදී පිටියේ යාර 30 සීමාවෙන් පිටත රැඳවිය හැක්කේ පන්දු රකින්නන් 4 දෙනෙක් පමණි.
+It is the introduction of the "Power Play" instance for the end of a certain innings.
 
-මෙමගින් ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ තරග වඩාත් තරගකාරී වෙතැයි LPL තරගාවලි අධ්‍යක්ෂ සමන්ත දොඩන්වෙල මහතා පවසයි.
+Accordingly, the 16th and 17th ball of the two end of the 16th and 17 balls will be a "Power Play" chance.
+
+The ball will remain outside the 30 yards boundary in the field only 4 bowler.
+
+This will help the Lanka Premier League tournament is the most competitive, Mr. Samantha Dodanwela.
 
 ◼️
 
 [Data](articles/1a04e710.json)
+
+[Extended Data](ext_articles/1a04e710.ext.json)
 
 ---
 
@@ -72,29 +112,37 @@ When the persons were arrested, 135 mobile phones and 57 laptops were seized by 
 
 ---
 
-### නිවැසියන්ට දස වධ දී නිවස කොල්ලකෑ කල්ලිය
+### The gang householder torture and robbed the house
 
 *2024-06-27 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198225) · `si`
 
-ඇහැළියගොඩ නැදුරන, ඇරෑපොල ප්‍රදේශයේ නිවසකට ඇතුළු වූ සොරුන් පිරිසක් එම නිවසේ පදිංචිව සිටි වැඩිහිටි යුවළකට තියුණු ආයුධවලින් පහරදී අතපය ගැටගසා එම නිවස කොල්ලකා තිබේ.
+In Ahalaiyagoda, a home invasion resulted in the death of a 76-year-old woman and serious injury to her husband. Thieves armed with sharp weapons looted the property. The couple's children, living abroad, tried to contact them but were unable to reach them until they found out through a relative. Upon arrival, they discovered their parents severely injured; the father was hospitalized.
 
-එහිදී 76 හැවිරිදි කාන්තාව මියගොස් ඇති අතර 76 හැවිරිදි එම කාන්තාවගේ ස්වාමි පුරුෂයා බරපතළ තුවාල ලබා රෝහල් ගතකර ඇත.
+🟩
 
-පොලීසිය පැවසුවේ පෙරේදා (25) රාත්‍රී 11ත් ඊයේ (26) සවස 4.30ත අතර කාලයේ දී මෙම කොල්ලය සිදුකර ඇති බවයි.
+A large number of thieves entered a house in Ahalaiyagoda, a house in Ahalatiyagoda, has been attacked by sharp weapons and plundered the limbs.
 
-මෙම යුවළගේ වැඩිමහල් දියණිය විවාහ වී කැලණිය ප්‍රදේශයේ පදිංචිව සිටින අතර අනෙක් පිරිමි දරුවන් දෙදෙනා විවාහ වී අමෙරිකාවේ පදිංචිව සිටින බව වාර්තා වේ.
+The 76-year-old woman died and the husband of the 76-year-old woman was seriously injured.
 
-පුතුන් දෙදෙනා දෛනිකව දුරකථන ඇමතුම් ලබාදි මව්පියන්ගේ සුවදුක් විමසන අතර ඊයේ සවස ද දෙමාපියන්ට ඇමතුමක් ලබා දී ඇත.
+The police said that the spoil had been carried out at 4.30 pm yesterday (25).
 
-සිය ඇමතුම් සඳහා දෙමාපියන් ප්‍රතිචාර නොදැක් වූ බැවින් ඔවුන් ඥාතියෙකු ඇමතුමක් දී පවසා ඇත්තේ සිය දෙමාපියන් සුවෙන් සිටින්නේ ද බලා පවසන ලෙසටය.
+The elder daughter of the couple resides in the Kelaniya and the other two boys are married to the United States.
 
-ඒ අනුව එම පුද්ගලයා මෙම යුවළ පදිංචිව සිටි නිවස‌ට ගොස් පරික්ෂා කිරීමේ දී නිවසේ ජනේලයක් විවෘත කර ඇති බවට දැකිමෙන් පසු නිවසියන්ට කතාකර ඇත.
+The two sons have called parental voice daily, and the parents have been called yesterday evening.
 
-නමුත් ඔවුන්ගෙන් පිළිතුරක් නොමැති බැවින් අසල්වැසියන්ට ද ඒ බව පවසා නිවස පරික්ෂා කර තිබේ.
+Since their parents did not respond to their calls, they called a relative and said that their parents were rained.
+
+Accordingly, the man had spoken to the homes after seeing that the couple had gone to the resident of the resident of the house.
+
+But they have no reply to their neighbors and checked the house.
+
+The father had fallen into the bathroom with cutting injuries and saw the mother of a mother.
 
 ...
 
 [Data](articles/f6e4f72d.json)
+
+[Extended Data](ext_articles/f6e4f72d.ext.json)
 
 ---
 
@@ -182,7 +230,7 @@ The State Minister further stated that the amount of debts will be extended to a
 
 ### Anti -Religious Minority Activities in Sri Lanka with the support of state authorities
 
-*2024-06-27 17:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/187115) · `ta`
+*2024-06-27 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/187115) · `ta`
 
 In Sri Lanka, state-supported anti-religious minority activities have escalated, with police involvement. The U.S. highlighted these issues in its 2023 religious freedom report. Local majority communities claim state backing for violent incidents against religious minorities, especially Christians and Muslims. Christian groups allege harassment and restrictions on religious practices, with the National Christian Swiss Coalition Organization (NCEASL) reporting police and state official interference. Civil activists and media report arrests of Tamil National People's Front supporters for peaceful protests and ongoing surveillance and harassment of Muslims post-2019 Easter Sunday attacks. The government is accused of viewing Muslim and Christian communities as threats to Sinhala Buddhist dominance, leading to legal controls and arrests under the ICCPR law. Religious transaction registrations are criticized for being arbitrary, with NCEASL reporting nine incidents against Muslims and 13 against Hindus. Concerns also arise over the Presidential Secretariat for Archaeological Traditional Management potentially leading to land grabs in Tamil and Muslim areas.
 
@@ -2357,57 +2405,5 @@ The village officer has taken the money in connection with the incident of suppl
 [Data](articles/e39e68b6.json)
 
 [Extended Data](ext_articles/e39e68b6.ext.json)
-
----
-
-### School educational activities will take place today as usual;Ministry of Education
-
-*2024-06-27 09:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/187069) · `ta`
-
-Despite protests over teacher/principal pay issues, schools remain open today. Yesterday's demonstration at the Fort Railway Station led to clashes, with tear gas and water used against protesters. The Sri Lanka Teachers Union's Joseph Stalin promises continued action.
-
-🟩
-
-The Ministry of Education has announced that the educational activities of all schools will be held today (27) despite the struggles of principals, teachers and faculty consultants nationwide.
-
-A protest campaign was carried out in front of the Fort Railway Station yesterday demanding the resolving the pay issues of teachers and principals.
-
-In the meantime, tear gas and water were used to dissolve the protesting principals and teachers.
-
-Joseph Stalin, general secretary of the Sri Lanka Teachers Union, said that the second day of the day will continue for the second day.
-
-◼️
-
-[Data](articles/2c4492f3.json)
-
-[Extended Data](ext_articles/2c4492f3.ext.json)
-
----
-
-### Red alert leave on the next 24 hours
-
-*2024-06-27 08:59:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-24-மணிநேரம்-குறித்து-சிவப்பு-எச்சரிக்கை-விடுப்பு/175-339510) · `ta`
-
-A red weather warning for strong winds and sea turbulence is in effect for the next 24 hours, affecting maritime activities in the Arabian Sea. The Department of Meteorology also forecasts heavy rainfall in several provinces and warns of high-speed winds across various regions.
-
-🟩
-
-The Department of Meteorology has issued a red warning on strong winds and sea turbulence.
-
-The announcement, which was released at 3.30 am today (27), will be in effect for the next 24 hours, the department said.
-
-Accordingly, long -time boat fishermen and maritime community operating in the Arabian Sea are advised to be very careful.
-
-The department has announced that strong winds are likely to blow in the area and the sea will be very turbulent.
-
-Meanwhile, the Department of Meteorology has forecast rainfall in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
-
-The Department of Meteorology has said that strong winds are likely to blow at speeds of 40-50 km / h in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.. Remble
-
-◼️
-
-[Data](articles/cc24a2aa.json)
-
-[Extended Data](ext_articles/cc24a2aa.ext.json)
 
 ---

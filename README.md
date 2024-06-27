@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 05:19:25**
+As of **2024-06-27 05:37:24**
 
 ## Newspaper Stats
 
@@ -26,23 +26,31 @@ adaderanasinhalalk | 5,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,362 (100.0%) of 32,363 articles have been extended.
+32,363 (100.0%) of 32,363 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### தமிழ் மக்களுக்கு சமஸ்டித் தீர்வுக்கான ஆதரவை வெளிப்படுத்தவேண்டும் என  Lesley Craig  அம்மையாரிடம்  எம்.பி. எஸ்.கஜேந்திரன் வலியுறுத்தல்
+### Lesley Craig to the Tamil people to express support for the Samastit solution. S. Gajendran emphasizes
 
 *2024-06-27 04:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187063) · `ta`
 
-தமிழ் மக்கள் ஒற்றையாட்சிக்குட்பட்ட எந்தவொரு தீர்வையும் நிராகரிப்பதுடன்,  தமிழர்தேசத்தை அங்கீகரித்து தமிழர்கள் ஒருபோதும் இழக்கமுடியாத சுயநிர்ணய உரிமையை, அனுபவிக்கக் கூடியதுமான ஒரு சமஸ்டித் தீர்வுக்கான ஆதரவை வெளிப்படுத்தவேண்டும் என பொதுநலவாய அமைப்பின் தென் ஆசிய பகுதிக்குப் பொறுப்பதிகாரியான  Lesley Craig  அம்மையார் மற்றும் கொழும்பிலுள்ள பிரித்தானியத் தூதுவர் ஆகியோரிடம் வலியுறுத்தியுள்ளதாக தமிழ்த் தேசிய மக்கள் முன்னணியின் பொதுச் செயலாளரும் பா.உறுப்பினருமான செல்வராசா கஜேந்திரன் தெரிவித்தார்.
+Lesley Craig expressed support for the Tamil people, emphasizing the importance of addressing the unresolved ethnic issue in Sri Lanka, which contributes to the country's ongoing political and economic crises. She highlighted the need for a federal solution that ensures the Tamil people's self-determination, criticizing the Sri Lankan government's policies and the implementation of the 13th Amendment to the Constitution. The statement also called for international intervention, including actions by the UN Human Rights Council and the British government, to address human rights violations and support the Tamil cause.
 
-யாழ்ப்பாணம் நகரிலுள்ள ஜெற்விங் (Jetwing)   விடுதியில் பொதுநலவாய அமைப்பின் தென் ஆசியப் பகுதிக்குப் பொறுப்பதிகாரியான   Lesley Craig  அம்மையார் மற்றும் கொழும்பிலுள்ள பிரித்தானியத் தூதுவர் ஆகியோருக்கும் தமிழ்த் தேசிய மக்கள் முன்னணியின் செல்வராசா கஜேந்திரன் ஆகியோருக்குமிடையில் செவ்வாய்க்கிழமை (25) இரவு இடம்பெற்ற சந்திப்பின் போது இவ்வாறு வலியுறுத்தியுள்ளதாக அவர் தெரிவித்தார்
+🟩
+
+The Tamil National Ambassador to the Southern Asian Society of the Commonwealth and the British Ambassador to the Commonwealth of the United Nations, the Tamil people who rejected any solution and the support of the Tamils ​​that could never be lost and enjoyed by the Tamil people. Nitran said.
+
+He stated that he stated that he stated that he was speaking on Tuesday night between Lesley Craig, the South Asian region of the Commonwealth Organization and the British Ambassador in Colombo and the Selvarasa Gajendran of the Tamil National People's Front on Tuesday night at the Jetwing Hotel in Jaffna.
+
+The policies that the Sri Lankan government has adopted for the past 75 years and the unresolved ethnic problem are the main reasons for Sri Lanka's current political and economic crises. The economy can never be built without resolving the ethnic problem.
 
 ...
 
 [Data](articles/027c58ea.json)
+
+[Extended Data](ext_articles/027c58ea.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 05:37:24**
+As of **2024-06-27 06:00:41**
 
 ## Newspaper Stats
 
-*Scraped **32,363** Articles*
+*Scraped **32,375** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 295
 dbsjeyarajcom | 295
 bbccomsinhala | 318
 newsfirstlk | 363
-islandlk | 1,790
+islandlk | 1,802
 economynextcom | 1,884
 dailyftlk | 1,988
 adalk | 2,862
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,363 (100.0%) of 32,363 articles have been extended.
+32,363 (100.0%) of 32,375 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -388,6 +388,34 @@ Minister Mahinda Amaraweera made this statement at a media briefing held at the 
 
 ### 2024-06-26 (Wednesday)
 
+### Let’s do it with Potatoes…
+
+*2024-06-26 23:23:00* · [`islandlk`](http://island.lk/lets-do-it-with-potatoes/) · `en`
+
+Hi! Since I haven’t given my readers any beauty tips, with the potato as the main base, I thought of bringing the potato into the scene this week.
+
+What’s more, potatoes are freely available, so you won’t have any hassle going searching for this vegetable which is a favourite at most homes.
+
+You will need 02 teaspoons potato juice, 02 teaspoons lemon juice and ½ teaspoon honey (optional)
+
+Mix the potato and lemon juice and add honey to the mixture and blend well.
+
+Apply it all over your face and neck and leave it on for 15 minutes and then wash it off with water.
+
+(Do this very alternate day. By the way, dilute the lemon juice if you experience irritation)
+
+You will need 01 tablespoon potato juice or pulp, 01 tablespoon tomato juice or pulp and 01 tablespoon honey.
+
+Mix the potato and tomato juice/pulp and add the honey to the mixture and mix until you obtain a smooth paste.
+
+Apply it evenly on your face, focusing on the affected area.
+
+...
+
+[Data](articles/8dc5fad6.json)
+
+---
+
 ### Major notice for passport holders
 
 *2024-06-26 23:00:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டு-வைத்திருப்போருக்கு-முக்கிய-அறிவிப்பு/175-339500) · `ta`
@@ -409,6 +437,86 @@ The Department of Immigration and Emigration is requested that the Electronic Pa
 [Data](articles/85cebd81.json)
 
 [Extended Data](ext_articles/85cebd81.ext.json)
+
+---
+
+### LAUGFS Rubber triumphs at National Business Excellence Awards 2024
+
+*2024-06-26 22:48:00* · [`islandlk`](http://island.lk/laugfs-rubber-triumphs-at-national-business-excellence-awards-2024/) · `en`
+
+LAUGFS Rubber, a leading manufacturer of industrial solid tyres, has once again demonstrated its industry leadership and commitment to excellence by winning multiple accolades at the prestigious National Business Excellence Awards (NBEA) 2024.
+
+LAUGFS Rubber emerged as the ‘Winner in the Large Category’ and secured the title of ‘Winner for Excellence in Business and Financial Results – Large Category’. Additionally, the company earned the ‘Bronze Award – Overall’ and was recognised as the Runner-Up in the Export Sector for the third consecutive year, as well as received a Merit Award for Global Market Reach. The recent awards night was organised by the National Chamber of Commerce of Sri Lanka (NCCSL) and honoured Sri Lankan brands for their outstanding business performance and contributions to the country’s economic progress.
+
+...
+
+[Data](articles/7c33f5e9.json)
+
+---
+
+### Commercial Credit and Finance secures 1st place in K Seeds Investments’ ranking report
+
+*2024-06-26 22:47:00* · [`islandlk`](http://island.lk/commercial-credit-and-finance-secures-1st-place-in-k-seeds-investments-ranking-report/) · `en`
+
+K Seeds Investments (Pvt) Ltd identified Commercial Credit and Finance PLC as the best performing finance company under the 1st category among the 28 listed finance companies in Sri Lanka through a ranking carried out based on their financial performance for the fourth quarter of 2023/24.
+
+The report segregates the finance companies based on the size of their asset base and ranks them in their respective categories among their peers based on ten financial metrics, which are calculated from the quarterly financial statements.
+
+Commercial Credit and Finance PLC topped the overall spectrum by belonging to “Category 1” (asset base > Rs. 100 billion). The Categories 2, 3 and 4 represent the companies having an asset base between Rs. 50 to 100 billion, 20 to50 billion and less than 20 billion respectively.
+
+...
+
+[Data](articles/f45dad03.json)
+
+---
+
+### E. B. Creasy Solar energizes 9th Annual Construction Power and Energy Expo 2024
+
+*2024-06-26 22:45:00* · [`islandlk`](http://island.lk/e-b-creasy-solar-energizes-9th-annual-construction-power-and-energy-expo-2024/) · `en`
+
+E.B. Creasy Solar, the Renewable Energy Arm of E. B. Creasy & Co. PLC, is proud to announce its Platinum Sponsorship of the Construction Power and Energy Expo 2024, Sri Lanka’s premier event dedicated to interior products, construction, power, and energy.
+
+As a long-standing advocate of sustainable development, E. B. Creasy Solar is delighted to power this prestigious expo making its return for the 9th consecutive year. Scheduled to take place from July 5th to 7th, 2024, at the Bandaranaike Memorial International Conference Hall (BMICH), Colombo, the exhibition will serve as a vital platform for industry professionals to showcase cutting-edge trends, technologies, and solutions.
+
+...
+
+[Data](articles/96deff42.json)
+
+---
+
+### Knuckles Water partners with Sri Lanka Red Cross Society to provide relief
+
+*2024-06-26 22:44:00* · [`islandlk`](http://island.lk/knuckles-water-partners-with-sri-lanka-red-cross-society-to-provide-relief/) · `en`
+
+Knuckles Water, in collaboration with the Country’s Largest Humanitarian Organization, the Sri Lanka Red Cross Society (SLRCS), has taken decisive action to support communities affected by recent flooding across Sri Lanka.
+
+Marking the first step in a broader effort to ensure immediate access to clean drinking water for flood-affected families, Knuckles Water, bottled by Cargills Food & Beverages Ltd, has donated 5-liter Knuckles Water bottles to SLRCS Gampaha to aid the relief efforts. Over 1,000 families benefited from the distribution program which focused on the Bollagala and Gagabadapara GS divisions, with around 600 families from each area receiving aid.
+
+Spa Ceylon clinches double-win at Pure Beauty Global Awards 2024
+
+E. B. Creasy Solar energizes 9th Annual Construction Power and Energy Expo 2024
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/4a5055bc.json)
+
+---
+
+### Flaws in debt restructuring slow down share trading
+
+*2024-06-26 22:42:00* · [`islandlk`](http://island.lk/flaws-in-debt-restructuring-slow-down-share-trading/) · `en`
+
+The stock market got off to a sluggish start yesterday because both local and foreign investors are worrying over certain flaws in the external debt restructuring exercise, stock market analysts said.
+
+Due to deeply flawed operational frameworks, built on statistics rejecting classical economic principles and laws of nature, currencies of IMF dependent countries tend to depreciate permanently; nominal interest rates and inflation tend to be high, critics said.
+
+...
+
+[Data](articles/cad0ac53.json)
 
 ---
 
@@ -2161,135 +2269,5 @@ According to a comprehensive police request, the Fort Magistrate Court has issue
 [Data](articles/244e35a1.json)
 
 [Extended Data](ext_articles/244e35a1.ext.json)
-
----
-
-### Calling Estate Salary Petition November
-
-*2024-06-26 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198178) · `si`
-
-The Court of Appeal ordered the issuance of a gazette notification based on a petition filed by 22 plantation companies, including Visarapatha Plantation Limited, after hearing the case presented by Judge Sobhitha Rajapandara.
-
-🟩
-
-The Court of Appeal today (26) ordered that the petition filed by the Labora's gazette notification to issue the gazette notification commands on the basis of the Laboratory of the Laborabana.
-
-The petition had been filed by the Visarapatha Plantation Limited and 21 plantation companies.
-
-The petition was called before the Court of Appeal Judge Sobhitha Rajapandara today.
-
-◼️
-
-[Data](articles/9a94eb30.json)
-
-[Extended Data](ext_articles/9a94eb30.ext.json)
-
----
-
-### Sri Lanka wraps up final deal on bilateral debt, China also in
-
-*2024-06-26 14:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-wraps-up-final-deal-on-bilateral-debt-china-also-in-169611/) · `en`
-
-ECONOMYNEXT   – Sri Lanka has reached ‘final restructuring agreement’ on 5.8 billion US dollars of bilateral debt coming under an Official Creditor Committee in Paris, the President’s Media Office said.
-
-“This agreement grants significant debt relief, allowing Sri Lanka to allocate funds to essential public services and secure, concessional financing for its development needs,” the statement said.
-
-Sri Lanka has 10.58 billion in bilateral debt coming under Paris Club with creditors like India also working with the group.
-
-China Exim Bank, which has given 4,668.8 billion dollars in credit, discussed restructuring with Sri Lanka on a separate but parallel track.
-
-“Today we are also in the process of signing  bilateral debt treatment agreements between Sri Lanka and Export Import Bank of China,” State Minister of Finance Shehan Semasinghe said in an x.com message.
-
-...
-
-[Data](articles/c80e9619.json)
-
-[Extended Data](ext_articles/c80e9619.ext.json)
-
----
-
-### Sri Lanka reaches final debt restructuring agreement with creditors
-
-*2024-06-26 14:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100112/sri-lanka-reaches-final-debt-restructuring-agreement-with-creditors) · `en`
-
-Sri Lanka has reached a final restructuring agreement for USD 5.8 billion of debt with its bilateral lenders’ Official Creditor Committee in Paris, France on Wednesday.
-
-This agreement grants significant debt relief, allowing Sri Lanka to allocate funds to essential public services and secure concessional financing for its development needs, the President’s Media Division (PMD) said.
-
-“We are pleased to announce that the final agreement has been reached on debt restructuring between Sri Lanka and the Official Creditor Committee on the sidelines of the Paris Forum 2024 in Paris, France,” Sri Lanka’s State Minister of Finance Shehan Semasinghe confirmed.
-
-“Today, we are also in the process of signing bilateral debt treatment agreements between Sri Lanka and Export-Import Bank of China,” he said in a post on ‘X’ (formerly Twitter).
-
-...
-
-[Data](articles/40d459de.json)
-
-[Extended Data](ext_articles/40d459de.ext.json)
-
----
-
-### Agree to restructuring of debt
-
-*2024-06-26 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198177) · `si`
-
-Sri Lanka finalized a $5.8 billion debt restructuring deal with its bilateral creditors, securing significant debt relief to fund essential public services and development projects.
-
-🟩
-
-Sri Lanka has reached the final agreement of US $ 5.8 billion debts with the official committee of bilateral creditors in the country.
-
-The agreement provides significant debt relief to Sri Lanka and will be able to provide essential public services and facilitate development needs.
-
-◼️
-
-[Data](articles/7b56e560.json)
-
-[Extended Data](ext_articles/7b56e560.ext.json)
-
----
-
-### Principals and teachers in Colombo
-
-*2024-06-26 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187021) · `ta`
-
-Colombo protests: Teachers and principals nationwide went on sick leave strike. Police used tear gas and water cannons against them, including near the Lotus Tower. A demonstration started at the Fort Railway Station, involving educators advocating for their cause amidst the unrest.
-
-🟩
-
-Police have used tear gas and reservoirs on the protesters and teachers' union members near the Lotus of Colombo.
-
-Principals, teachers and faculty consultants across the country have launched a sick holiday struggle today (26).
-
-In this backdrop, a protest campaign was launched in front of the Fort Railway Station at 11 am today with the participation of principals, teachers and faculty advisers.
-
-It is noteworthy that the police have carried out tear gas and waterfront on the principals and teachers who were involved in the protest to dissolve the protest.
-
-◼️
-
-[Data](articles/9ae928cd.json)
-
-[Extended Data](ext_articles/9ae928cd.ext.json)
-
----
-
-### Sri Lanka foreign minister Sabry to visit Japan
-
-*2024-06-26 14:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-minister-sabry-to-visit-japan-169609/) · `en`
-
-ECONOMYNEXT – Sri Lanka Foreign Minister Ali Sabry will visit Japan from July 01 and will hold discussions with his Japanese counterpart, Yoko Kamikawa.
-
-He will focus on making further progress on the outcome of Foreign Minister Kamikawa’s visit to Sri Lanka on May 2024, a Foreign Ministry statement said.
-
-He will also call on several other dignitaries including Chief Cabinet Secretary of Japan Yoshimasa Hayashi.
-
-Japan is expected to re-start projects halted after a sovereign default was declared in 2022 after existing debt is restructured.
-
-Memoranda of understanding with Paris Club creditors, which includes Japan are to signed on June 26. (Colombo/June26/2024)
-
-◼️
-
-[Data](articles/d366b387.json)
-
-[Extended Data](ext_articles/d366b387.ext.json)
 
 ---

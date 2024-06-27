@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 18:25:26**
+As of **2024-06-27 18:53:51**
 
 ## Newspaper Stats
 
-*Scraped **32,498** Articles*
+*Scraped **32,500** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,64 @@ newsfirstlk | 363
 islandlk | 1,802
 economynextcom | 1,890
 dailyftlk | 1,988
-adalk | 2,882
+adalk | 2,883
 adaderanalk | 3,699
 tamilmirrorlk | 3,833
 dailymirrorlk | 4,733
 virakesarilk | 5,054
-adaderanasinhalalk | 5,339
+adaderanasinhalalk | 5,340
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,493 (100.0%) of 32,498 articles have been extended.
+32,500 (100.0%) of 32,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### පැරිස් එකඟතා ගිවිසුම් ගැන රාජ්‍ය ඇමති හෙළිකරයි
+### 60 crash from India arrested
+
+*2024-06-27 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198224) · `si`
+
+60 foreign nationals arrested in Thalangamuwa, Madiwela, and Negombo by CID. Seized: 135 mobiles, 57 laptops.
+
+🟩
+
+A 60 foreign nationals have been arrested in Thalangamuwa, Madiwela and Negombo.
+
+They were arrested by the Criminal Investigations Department.
+
+At the time of his arrest, 135 mobile phones and 57 laptops were taken into custody.
+
+◼️
+
+[Data](articles/5f3a3661.json)
+
+[Extended Data](ext_articles/5f3a3661.ext.json)
+
+---
+
+### State Minister reveals about Paris Agreement agreements
 
 *2024-06-27 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198223) · `si`
 
-ණය ප්‍රතිව්‍යූහගත කිරීම අවසන් කිරීමට අවශ්‍ය ප්‍රධාන අදියර තුනෙන් අදියර 2ක් මේ වනවිට අවසන් කර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+A State Minister discussed progress on the Paris Agreement and debt restructuring. Two of three phases for ending debt restructuring are complete, with the final phase involving personal bonds underway. Debt will be extended until around 2043 through restructuring, aiming to restore the economy and reduce interest rates. This process is crucial for the country's economic recovery post-sacrifices made by its citizens under the President's leadership.
 
-ඔහු පැවසුවේ ඉතිරිව ඇති අනෙක් අදියර වන පෞද්ගලික බැඳුම්කරහිමියන් සමග එකඟතාවයකට පැමිණීම සම්බන්ධයෙන් අවශ්‍ය කටයුතු සිදුකරමින් පවතින බවයි.
+🟩
 
-රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් පැවසුවේ ණය ප්‍රතිව්‍යූහගතකරණය තුළින් ණය ගෙවන කාලය ආසන්න වශයෙන් 2043 වසර දක්වා දීර්ඝවීමක් සිදුවන බවත්ය.
+Separately, 2 stages have already been completed in the three stages required to end the restructuring of debt.
+
+He said that the other phase remaining phase of personal bonds is being taken to reach an agreement.
+
+The State Minister further stated that the amount of debts will be extended to approximately 2043 through debt restructuring.
 
 ...
 
 [Data](articles/6caef65a.json)
+
+[Extended Data](ext_articles/6caef65a.ext.json)
 
 ---
 
@@ -205,6 +233,30 @@ Moreover, it was reported that our country was filling the debt reproduction pro
 [Data](articles/3a6e3d1e.json)
 
 [Extended Data](ext_articles/3a6e3d1e.ext.json)
+
+---
+
+### The child is responsible for the child tomorrow
+
+*2024-06-27 17:02:08* · [`adalk`](https://www.ada.lk/breaking_news/දරුවාගේ-හෙට-දවසේ-වගකීම-ශ්‍රී-ලංකා-පොදුජන-පෙරමුණ-බාරගන්නවා/11-410483) · `si`
+
+Namal Rajapaksa, a Sri Lankan parliamentarian, discussed his party's policies, emphasizing the importance of addressing the country's agricultural and energy issues. He highlighted the need for technological advancement and professional development, especially for youth planning to work abroad. Rajapaksa expressed confidence in his party's ability to lead the country towards progress and criticized the previous government's handling of these matters.
+
+🟩
+
+Namal Rajapaksa, National Organizer of the Sri Lanka Civil Appointment and Parliamentarian Namal Rajapaksa said that the Political Party has implemented the policies of the Sri Lankan public.
+
+It is said that the Sri Lankan Cran's famous lead in the country's strongest political force is being built with Mahinda Rajapaksa, the Sri Lanka Civil Arasekaraya (SLPFA) is the party's leader.
+
+He was speaking at the Member of the Kumbukwachchiya seat conference at the Anuradhapura District of the Sri Lanka General Man.
+
+We must have done wrongs of Gotabhaya Rajapaksa government. But we are responsible, we say that the Agriculture Policy of the Sri Lanka Crachchi Peradeniya is the Kirror's Krrorism Policy. We will modify it. The technology should be transplanted.
+
+...
+
+[Data](articles/7d02ff53.json)
+
+[Extended Data](ext_articles/7d02ff53.ext.json)
 
 ---
 
@@ -418,37 +470,49 @@ The Supreme Court had issued this interim order while allowing the hearing of a 
 
 ---
 
-### கெஹலியவின் ரிட் மனு விசாரணை ஒத்திவைப்பு
+### Gehaliya's Rid Petition Trial adjourned
 
 *2024-06-27 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187106) · `ta`
 
-முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல தாக்கல் செய்த ரிட் மனு இன்று மீண்டும் மேல்முறையீட்டு நீதிமன்றத்தால் விசாரணைக்கு ஒத்திவைக்கப்பட்டது.
+Keheliya Rambukwella, ex-Health Minister, filed a writ petition at the Court of Appeal, seeking to overturn a Magistrate's Court order. The case, initially set for hearing today, was postponed to July 01st. Deputy Solicitor General Nirmalan Wigneswaran argued on behalf of the Attorney General.
 
-குறித்த வழக்கு இன்று (27) விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போது  ஜூலை மாதம் 01ஆம் திகதிக்கு  ஒத்திவைக்கப்பட்டது.
+🟩
 
-இன்றையதினம் சட்டமா அதிபர் சார்பில் பிரதி சொலிசிட்டர் ஜெனரல் நிர்மலன் விக்னேஸ்வரன் நீதிமன்றத்தில் வாதங்களை முன்வைத்தார்.
+Former Health Minister Keheliya Rambukwella filed a writ petition again today by the Court of Appeal.
 
-மாளிகாகந்த நீதவான் நீதிமன்றத்தினால் தன்னை வழக்கு விசாரணை முடியும் வரை விளக்கமறியலில் வைக்குமாறு பிறப்பிக்கப்பட்ட உத்தரவை இரத்துச் செய்து ஆணை பிறப்பிக்குமாறு கோரி முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல ரிட் மனு தாக்கல் செய்துள்ளமை குறிப்பிடத்தக்கது.
+The case was adjourned to July 01 when the case was taken up for hearing today (27).
+
+Deputy Solicitor General Nirmalan Wigneswaran presented arguments in court on behalf of the Attorney General today.
+
+It is noteworthy that former Health Minister Keheliya Rambukwella has filed a petition demanding the cancellation of the order issued by the Magistrate Magistrate's Court until the case is over.
 
 ◼️
 
 [Data](articles/5671910b.json)
 
+[Extended Data](ext_articles/5671910b.ext.json)
+
 ---
 
-### போதைப்பொருள் குற்றச்சாட்டில் மேலும் 807 பேர் கைது
+### 807 more arrested for drug charges
 
 *2024-06-27 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187108) · `ta`
 
-நாடளாவிய ரீதியில் முன்னெடுக்கப்பட்டு வரும் 'யுக்திய' விசேட சுற்றிவளைப்பு நடவடிக்கையின்போது கடந்த 24 மணித்தியாலத்தில் 807 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+In the past 24 hours, 807 individuals were arrested as part of the 'Yuktiya' operation, with 773 linked to drug offenses and 34 being wanted criminals. Authorities confiscated 52 kg of heroin, 142 kg of methamphetamine, and other drugs totaling 453 milligrams.
 
-இவர்களில் போதைப்பொருள் சார்ந்த குற்றங்களோடு தொடர்புடையவர்கள் 773 பேர் எனவும் குற்றப் பிரிவினரின் பட்டியலில் இடம்பிடித்தவர்கள் 34 பேர் எனவும் பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+🟩
 
-சந்தேக நபர்களிடமிருந்து 52 கிலோ 616 மில்லிகிராம் ஹெரோயின், 142 கிலோ ஐஸ், 453 மில்லிகிராம் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டன.
+807 suspects have been arrested in the last 24 hours during the 'Yuktiya' special roundup on the country.
+
+The police headquarters said that 773 of them were involved in drug crimes and 34 on the list of criminals.
+
+52 kg of 616 milligrams of heroin, 142 kg of ice and 453 milligrams of drugs were seized from the suspects.
 
 ◼️
 
 [Data](articles/cf47ab30.json)
+
+[Extended Data](ext_articles/cf47ab30.ext.json)
 
 ---
 
@@ -472,17 +536,23 @@ The OCC said it also expects that the Sri Lankan authorities will continue to en
 
 ---
 
-### வெலிமடையில் இடம்பெற்ற பஸ் விபத்தில் 11 பேர் காயம் !
+### 11 people injured in bus accident in Welimada
 
 *2024-06-27 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/187109) · `ta`
 
-வெலிமடை அம்பகஸ்தோவ பகுதியில் இன்று வியாழக்கிழமை (27) இரண்டு தனியார் பஸ்கள் மோதி விபத்துக்குள்ளானதில் 11 பேர் காயமடைந்த நிலையில், வெலிமடை பொது வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+In a tragic accident in Welimada, two buses collided in Ambakastova, injuring 11 people. The incident occurred when one bus was overtaken by another on the Broker of Ambakastova Road.
 
-வெலிமடை அம்பகஸ்தோவ வீதியின் தரகல பகுதியில் முன்னோக்கிச் சென்று கொண்டிருந்த பஸ் பின்னால் வந்து கொண்டிருந்த மற்றைய பஸ்ஸை மோதி விபத்துக்குள்ளாகியுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+🟩
+
+Two private buses collided with two private buses in Ambakastova area on Thursday (27), police said.
+
+Police said the other bus was traveling behind the bus that was traveling forward on the Broker of Ambakastova Road, Welimada.
 
 ◼️
 
 [Data](articles/2f13cfb6.json)
+
+[Extended Data](ext_articles/2f13cfb6.ext.json)
 
 ---
 
@@ -1341,6 +1411,8 @@ A Nature news item by Benjamin Plackett (2024) reported that ‘by the end of th
 ...
 
 [Data](articles/9f6b70bc.json)
+
+[Extended Data](ext_articles/9f6b70bc.ext.json)
 
 ---
 
@@ -2339,49 +2411,5 @@ South Africa won the match between Afghanistan and South Africa in the final rou
 [Data](articles/4579d7a0.json)
 
 [Extended Data](ext_articles/4579d7a0.ext.json)
-
----
-
-### Restriction of Credit: Will the news truly harmony with Sri Lanka?
-
-*2024-06-27 08:08:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpv3dy0wgnwo) · `si`
-
-Sri Lanka has successfully restructured $10 billion in loans with major official bilateral creditors, aiming to alleviate its economic crisis. This move, however, raises questions about the country's financial stability and the credibility of such announcements amidst ongoing economic challenges. Critics argue that while restructuring is a positive step, the real test lies in the country's ability to meet its future obligations and the perception of international rating agencies. The restructuring includes significant debts owed to China, India, and Japan, among others, but excludes commercial sovereign bonds totaling around $14.73 billion. The government's optimism contrasts with concerns over the sustainability of the debt and the potential impact on the country's creditworthiness.
-
-🟩
-
-President Ranil Wickremesinghe stated that Sri Lanka completed the restructuring agreements with its major official bilateral creditors.. The loans of $ 10 billion will be restructured.
-
-The Government of Sri Lanka was preparing to announce a broader press propagation to announce a successful country to a success.
-
-Prof. Amini Methshi Perera told BBC Sinhala as a country as a country, as a country. 'Yesterday, the loans were restructured. As a country, you can be a good message. That's true. This is a good thing. It is accepting that. But the decision to make a happy message has the decision to the future.
-
-'It's a wonderful message to people. But what the President brought that good news in Parliament in Parliament?How many years did the Prime Minister or Minister?Will we go bankrupt this country to stay this message?Or are these country so long-administered? '
-
-...
-
-[Data](articles/54bf6fd2.json)
-
-[Extended Data](ext_articles/54bf6fd2.ext.json)
-
----
-
-### President says IMF will not go back
-
-*2024-06-27 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198199) · `si`
-
-President Ranil Wickremesinghe aims to build a robust, self-sufficient economy, avoiding reliance on IMF aid. He emphasizes the importance of fulfilling commitments to prevent past failures and seeks to leverage international confidence for economic growth, aiming for a future where such assistance is no longer needed.
-
-🟩
-
-President Ranil Wickremesinghe says he is trying to create a strong and disciplined economy that never needs to go to the International Monetary Fund.
-
-The President had made a special statement last night (26).
-
-...
-
-[Data](articles/3320102b.json)
-
-[Extended Data](ext_articles/3320102b.ext.json)
 
 ---

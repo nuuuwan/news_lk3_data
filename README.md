@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 02:52:41**
+As of **2024-06-28 03:04:48**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,350
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,538 (100.0%) of 32,539 articles have been extended.
+32,539 (100.0%) of 32,539 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### ’வார இறுதி, விடுமுறையில் வேலை செய்யோம்’
+### Express weekend, vacation
 
 *2024-06-28 02:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வார-இறுதி-விடுமுறையில்-வேலை-செய்யோம்/175-339558) · `ta`
 
-நான்கு கோரிக்கைகளை முன்வைத்து கிராம உத்தியோகத்தர்கள் புதன்கிழமை (26) ஆரம்பித்த பணிப்பகிஷ்கரிப்பு, மூன்று நாட்களுக்கு தொடரும் என அறிவித்துள்ளனர்.
+Grama Niladhari workers, demanding better transport, fuel, uniforms, and communication, have gone on strike from Wednesday, extending through the weekend and possibly more, as discussions for solutions remain stalled. They've vowed not to work on weekends and special holidays until their demands are met, threatening further protests if the government doesn't respond.
 
-போக்குவரத்து, எரிபொருள், சீருடை மற்றும் தொடர்பாடல் ஆகிய கொடுப்பனவுகளை அதிகரிக்குமாறு கோரியே இந்த தொழிற்சங்க நடவடிக்கை முன்னெடுக்கப்படுகின்றது.
+🟩
 
-இந்த பிரச்சினைகள் தொடர்பில் பல ஆண்டுகளாக எங்கள் கூட்டணி கலந்துரையாடி வருகிறது, ஆனால் எங்கள் பிரச்சினைகளுக்கான தீர்வுகள் தொடர்ந்து தாமதமாகின்றன என கிராம உத்தியோகத்தர்களின் தொழிற்சங்க கூட்டமைப்பு தெரிவித்துள்ளது.
+The Grama Niladhari, which has made four demands, announced that the workplace, which began on Wednesday (26), will continue for three days.
 
-இதேவேளை,  வார இறுதி நாட்கள் மற்றும் விசேட அரச விடுமுறை நாட்களில் வேலை செய்ய போவதில்லை. எங்களின் கோரிக்கைகளுக்கு அரசாங்கம் பதில் அளிக்காவிட்டால், மாவட்ட அளவில் போராட்டம் தொடரும் என கிராம உத்தியோகத்தர்கள் சங்கம் தெரிவித்துள்ளது.
+The trade union action is being carried out demanding increased transport, fuel, uniform and communication.
+
+Our coalition has been discussing these issues for many years, but the solutions to our problems continue to be delayed, the Grama Niladhari Trade Union Federation said.
+
+Meanwhile, not going to work on weekends and special state holidays. The Grama Niladhari Association said that if the government does not respond to our demands, the district will continue to protest.
 
 ◼️
 
 [Data](articles/9d594eff.json)
+
+[Extended Data](ext_articles/9d594eff.ext.json)
 
 ---
 

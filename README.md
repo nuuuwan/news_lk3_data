@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 13:54:17**
+As of **2024-06-27 14:06:45**
 
 ## Newspaper Stats
 
@@ -26,61 +26,79 @@ adaderanasinhalalk | 5,328
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,439 (100.0%) of 32,443 articles have been extended.
+32,443 (100.0%) of 32,443 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### ජූලි මාසයේ 8,000කට ස්ථීර පත්වීම්
+### Permanent appointments for 8,000 in July
 
 *2024-06-27 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198212) · `si`
 
-පළාත් පාලන ආයතනවල තාවකාලික, අනියම්, ආදේශක, කොන්ත්‍රාත් සහ සහන පදනම මත සිටින සේවකයන්ට ස්ථිර විශ්‍රාම වැටුප් සහිත පත්වීම් ලබාදීමට කැබිනට් අනුමැතිය ලැබී ඇත.
+The Cabinet approved permanent appointments for 8,000 temporary workers in local government bodies nationwide, including Pradeshiya Sabhas and Urban Councils. This decision follows a special discussion led by Prime Minister Dinesh Gunawardena, aiming to formalize the employment status of these individuals from temporary, casual, substitute, contract, and relief roles. All appointments are set to be finalized in July.
 
-ඒ, අග්‍රාමාත්‍ය සහ රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා ඉදිරිපත් කළ අමාත්‍ය මණ්ඩල සංදේශයටකට අනුවය.
+🟩
 
-මෙමඟින් දිවයින පුරා ප්‍රාදේශීය සභා, නගර සභා, මහනගර සභාවල සේවය කරන තාවකාලික, අනියම්, ආදේශක, කොන්ත්‍රාත් සහ සහන පදනම මත සිටින 8,435 දෙනෙකුට ස්ථිර පත්වීම් ලැබෙයි.
+Cabinet approval has been granted to grant permanent pension appointments to the temporary, casual, substitutes, contract and relief base of local authorities.
 
-එම පත්වීම් ලිපි කඩිනමින් ලබාදීම සඳහා විශේෂ සාකච්ඡාවක් අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තු සංකීර්ණයේදී පසුගියදා පැවැත්විණි.
+The Cabinet Memorandum of Prime Minister and Public Administration, Home Affairs, Provincial Councils, Provincial Councils and Local Government, Dinesh Gunawardena.
 
-ඒ අනුව ජූලි මාසය තුළ එම සියලු පත්වීම් ලිපි ලබාදීමට තීරණය කරන ලදී.
+This will take permanent appointments on temporary, casual, substitutes, contract and relief base serving in Pradeshiya Sabhas, Urban Councils across the country.
+
+A special discussion was held at the Parliamentary Complex under the patronage of Prime Minister Dinesh Gunawardena to provide them with immediate discussions.
+
+Accordingly, all those appointments were decided to provide all of the appointments in July.
 
 ◼️
 
 [Data](articles/b048628e.json)
 
+[Extended Data](ext_articles/b048628e.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරුත් ඉල්ලා අස්වෙයි
+### Sri Lankan cricket team leads to resign
 
 *2024-06-27 13:28:53* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකා-ක්‍රිකට්-කණ්ඩායමේ-ප්‍රධාන-පුහුණුකරුත්-ඉල්ලා-අස්වෙයි/11-410477) · `si`
 
-ශ්‍රී ලංකා ජාතික පිරිමි ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකාර ධුරය දැරූ ක්‍රිස් සිල්වර්වුඩ් මහතා අද (27) සිය ධුරයෙන් ඉල්ලා අස්වීමේ ලිපිය ක්‍රිකට් ආයතනය වෙත ලබාදී  ඇති බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කරයි.
+Chris Silvertingal, head coach of Sri Lanka's National Box Cricket team, resigned due to personal reasons. Appointed in May 2022, he stepped down on March 27th.
 
-ක්‍රිකට් ආයතනය නිවේදනය කළේ ක්‍රිස් සිල්වර්ඩුඩ් මහතා පෞද්ගලික හේතුවක් මත සිය ධුරයෙන් ඉල්ලා අස්වීමට තීරණය කර ඇති බවයි.
+🟩
 
-2022 වසරේ මැයි මාසයේ සිට ක්‍රිස් සිල්වර්වුඩ් මහතා ශ්‍රී ලංකා කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ලෙස පත්කෙරුණි.
+Sri Lanka Cricket (SLC) has issued the head coach of the Sri Lanka National Box Cricket team to the resignation letter from his post today (27).
+
+Cricket announced that Chris Silvertingd has decided to resign from his post on a personal cause.
+
+Chris Savwardwood was appointed as the Chief Trainer of the Sri Lankan team from May 2022.
 
 ◼️
 
 [Data](articles/7063c94d.json)
 
+[Extended Data](ext_articles/7063c94d.ext.json)
+
 ---
 
-### පවිත්‍රාගේ ගැසට්ටුවට එරෙහිව වාරණයක්
+### Box against Pavithra's gazette
 
 *2024-06-27 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198211) · `si`
 
-විල්පත්තුව ආශ්‍රිත වෙඩිතලතිව් රක්ෂිත වනාන්තර කලාපයේ කොටසක් ඉස්සන් වගාව සඳහා වෙන්කරමින් වනජීවි අමාත්‍ය පවිත්‍රා වන්‍යාරච්චි මහත්මිය  විසින් නිකුත් කළ ගැසට් නිවේදනයක් වහාම ක්‍රියාත්මක වීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය අතුරු තහනම් නියෝගයක් නිකුත් කර තිබේ.
+The Supreme Court has temporarily halted development in a portion of Sri Lanka's Vedithalthivu Reserve Forest, responding to a petition from environmental groups. This decision will remain in effect until the court concludes its review of the case.
 
-පරිසර සංවිධාන කිහිපයක් විසින් ගොනුකළ පෙත්සමක් විභාගයට ගැනීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය මෙම නියෝගය නිකුත් කරනු ලැබීය.
+🟩
 
-මෙම අතුරු තහනම් නියෝගය පෙත්සම් විභාගය අවසන් වන තෙක් බලපැවැත්වෙන බවත් නියෝගයේ සඳහන් වුණි.
+The Supreme Court has issued an interim injunction with a part of the Wilpattu-based Vedithalthivu Reserve Forest Reserve forest area.
+
+The Supreme Court issued the order permits a petition filed by several environmental organizations.
+
+The interim injunction order stated that until the end of the petition examination.
 
 ◼️
 
 [Data](articles/a7f36754.json)
+
+[Extended Data](ext_articles/a7f36754.ext.json)
 
 ---
 
@@ -946,21 +964,29 @@ Earlier in the day, military units led by General Juan Jose Zuniga, recently str
 
 ---
 
-### ඉදිරි මහ කන්න දෙකකට වී වගාවට බන්ඩි පොහොර නොමිලේ
+### Bundy fertilizer is free of the paddy cultivation to two next central seasons
 
 *2024-06-27 08:48:14* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-මහ-කන්න-දෙකකට-වී-වගාවට-බන්ඩි-පොහොර-නොමිලේ/11-410471) · `si`
 
-ජූලි මස 01දා සිට 07දා දක්වා තරුණ කෘෂි ව්‍යවසායකත්ව ගම්මාන වැඩපිළිවෙල ක්‍රියාත්මක කිරීමේ ජාතික සතියක් ප්‍රකාශයට පත් කරන බව කෘෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා සඳහන් කළේය.
+The Sri Lankan government, through the Ministry of Agriculture and Plantation Industries, is launching a Youth Agri Entrepreneurship Village program across 25 districts to boost youth involvement in agriculture. This initiative, marked by a national week from July 1 to 7, aims to start projects with an initial funding of Rs. 10 million per village, totaling Rs. 1600 million. Addressing the country's rice shortage in 2022, which led to a $300 million import, the government achieved self-sufficiency in rice production in 2023 and aims to increase paddy cultivation further. Additionally, efforts are underway to enhance egg and milk production, tackle rising coconut oil prices, and secure subsidized fertilizers for tea cultivation, including a request for 55,000 MT of Bundy fertilizer from the UN Food and Agriculture Organization for the next two seasons.
 
-ඉදිරි මහ කන්න දෙකක් සඳහා ගොවි ජනතාවට වී වගාවට අවශ්‍ය බන්ඩි (MOP) පොහොර නොමිලේ ලබා දීමට රජය තීරණය කර තිබෙන බව ද අමාත්‍යවරයා පැවසීය.
+🟩
 
-කෘෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera stated that a National Week for the implementation of the Youth Agri Entrepreneurship Village from July 01 to 7.
 
-"කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශය විසින් තරුණ ප්‍රජාව කෘෂි කර්මාන්තයට ආකර්ශනය කර ගැනීම සඳහා වැඩපිළිවෙල රැසක් ආරම්භ කර තිබෙනවා. ඊට අදාළව දිවයිනේ දිස්ත්‍රික්ක 25 ආවරණය වන පරිදි ගම්මාන 160ක් තෝරාගෙන තරුණ කෘෂි ව්‍යවසායකත්ව ගම්මාන ලෙස ව්‍යාපෘති ආරම්භ කිරීමට මේ වනවිට සියලූ කටයුතු සූදානම් කර තිබෙනවා.
+The government has decided to provide Rs.
+
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera made this statement participating at a press conference held at the Presidential Media Center.
+
+"The Ministry of Agriculture and Plantation Industries have launched a range of programs to attract the youth to agriculture. All arrangements have been made to commence the projects as a young agricultural entrepreneurial villages covering the 25 districts covering 25 districts in the island.
+
+Accordingly, we publishes a national week to implement the youth agro-entrepreneurial village program from July 1 to 7. Its first phase will be given Rs. 10 million for starting projects in every village. 1600 million allocated for this purpose.
 
 ...
 
 [Data](articles/436a5670.json)
+
+[Extended Data](ext_articles/436a5670.ext.json)
 
 ---
 

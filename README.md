@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 16:19:41**
+As of **2024-06-27 16:34:57**
 
 ## Newspaper Stats
 
-*Scraped **32,477** Articles*
+*Scraped **32,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,802
 economynextcom | 1,890
 dailyftlk | 1,988
 adalk | 2,879
-adaderanalk | 3,696
+adaderanalk | 3,697
 tamilmirrorlk | 3,832
 dailymirrorlk | 4,733
 virakesarilk | 5,046
@@ -26,51 +26,83 @@ adaderanasinhalalk | 5,334
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,473 (100.0%) of 32,477 articles have been extended.
+32,477 (100.0%) of 32,478 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### දරුවන්ගේ අධ්‍යාපනය අහිමි වීමට ඉඩ දෙන්නේ නැහැ - ජනපති
+### Sri Lankan urged to continue to engage with private creditors to reach deal
+
+*2024-06-27 16:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100144/sri-lankan-urged-to-continue-to-engage-with-private-creditors-to-reach-deal) · `en`
+
+The Official Creditor Committee (OCC) of Sri Lanka’s bilateral lenders has commended island nation’s efforts in implementing necessary reforms to ensure a sustainable economic path.
+
+The Official Creditor Committee says it now looks forward to receiving from Sri Lanka all information necessary for the OCC to ensure comparability of treatment.
+
+The OCC said it also expects that the Sri Lankan authorities will continue to engage with their private creditors to find as soon as possible an agreement on terms at least as favourable as the terms offered by the OCC.
+
+“These engagements will ensure that the overall debt treatment granted to Sri Lanka is consistent with the IMF program parameters,” it said in a statement on Wednesday.
+
+...
+
+[Data](articles/2681be0f.json)
+
+---
+
+### Children will not be allowed to lose their education - President
 
 *2024-06-27 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198218) · `si`
 
-ගුරු භූමිකාවේ ගරුත්වය රැකීම ගුරුවරුන්ගේ වගකීමක් බවත් රටේ දරුවන්ගේ අධ්‍යාපනය අහිමි වීමට ඉඩ නොතබන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe emphasizes the importance of teachers in maintaining the country's education system, stating that their role is crucial for the nation's future. He assures that measures will be taken to prevent disruptions in education and to address the concerns of teachers. Additionally, the President discusses various initiatives including salary increases for public servants, the development of Kandy, and the importance of unity among political parties for economic growth.
 
-ජනාධිපතිවරයා මේ බව පැවසුවේ අද (27) අස්ගිරි, මල්වතු මහනාහිමිවරුන් බැහැ දැක ආශිර්වාද ලබාගත් අවස්ථාවේදීය.
+🟩
 
-මහනුවර සුවිසල් නගර සංවර්ධන සැලැස්ම ද මහනාහිමිවරුන්ට පිළිගැන්වීම එහිදී සිදු කෙරුණි.
+President Ranil Wickremesinghe says that the dignity of the teacher role is the responsibility of teachers and that the education of the country will not allow the education of the country.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ අද පෙරවරුවේ මහනුවරට පැමිණි අතර ප්‍රථමයෙන් ඓතිහාසික දළදා සමිඳුන් වැඳ පුදාගෙන ආශිර්වාද ලබා ගත්තේය.
+The President made this observation when the Malwathu Mahanayakas cannot be seen today (27).
 
-දළදා මාළිගාව වෙත පැමිණි ජනාධිපති රනිල් වික්‍රමසිංහ මහතාව දියවඩන නිලමේ නිලංග දෑල මහතා විසින් පිළිගනු ලැබීය.
+The Mahanayakes also presented the large city development plan in Kandy.
 
-අනතුරුව ජනාධිපතිවරයා මල්වතු පාර්ශ්වයේ මහානායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සුමංගල නාහිමියන් සහ අස්ගිරි පාර්ශ්වයේ මහානායක අතිපූජ්‍ය වරකාගොඩ ශ්‍රී ඥානරතන නාහිමි බැහැ දැක ආශිර්වාද ලබාගෙන තිබුණි.
+President Ranil Wickremesinghe arrived in Kandy this morning and paid bunging the Sacred Delias Dalada Maligawa this morning.
 
-වැටුප් විෂමතාවක් ඇති නොවන අයුරින් රාජ්‍ය නිලධාරීන්ගේ වැටුප් වැඩි කිරීම සඳහා විධිමත් ක්‍රමවේදයක් ලබන වසරේ සිට සකසන බවද මහනාහිමිවරුන් හමුවේ ජනපති පවසා තිබේ.
+President Ranil Wickremesinghe was admitted to the Dalada Maligawa.
+
+The President had followed the Most Venerable Church of Malwatte Ven.
+
+The President has said that a systematic procedure will be prepared to increase the salaries of public officers in a manner that does not cause salary anomalies.
+
+President Ranil Wickremesinghe has said that the teachers should remain in schools for the education of the country's children.
 
 ...
 
 [Data](articles/edd61ca4.json)
 
+[Extended Data](ext_articles/edd61ca4.ext.json)
+
 ---
 
-### சீனா சென்றார் மஹிந்த !
+### China went to Mahinda!
 
 *2024-06-27 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/187104) · `ta`
 
-நான்கு நாள் உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டு முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ இன்று வியாழக்கிழமை (27) காலை சீனாவிற்கு சென்றுள்ளார்.
+Former Sri Lanka President Mahinda Rajapaksa visited China on a four-day trip, attending a conference marking the 70th anniversary of China's "Five Principles" for peace. The visit includes meetings with Chinese leaders like Premier Li Keqiang and Foreign Minister Wang Yi.
 
-சீனாவின் அமைதியான சகவாழ்வுக்கான ஐந்து கோட்பாடுகள் வெளியிடப்பட்டதன் 70வது ஆண்டு நிறைவைக் குறிக்கும் மாநாட்டில் கலந்து கொள்ள அந்நாட்டு வெளிவிவகார அமைச்சர் விடுத்த அழைப்பை ஏற்று மஹிந்த ராஜபக்ஷ அங்கு சென்றுள்ளார்.
+🟩
 
-இந்த விஜயத்தில் சீனப் பிரதமர் லீ கியாங் மற்றும் வெளிவிவகார அமைச்சர் வாங் யீ ஆகியோரை சந்தித்து கலந்துரையாடுவார் என எதிர்பார்க்கப்படுகின்றது.
+Former President Mahinda Rajapaksa visited China this morning on Thursday morning on a four -day official visit.
 
-இந்த மாநாட்டில் சீன ஜனாதிபதி ஜி ஜின்பிங், பிரதமர் லீ கியாங், வெளிவிவகார அமைச்சர் வாங் யீ மற்றும் பல சீன கம்யூனிஸ்ட் கட்சி உறுப்பினர்கள் கலந்து கொள்ளவுள்ளனர்.
+Mahinda Rajapaksa has visited the Foreign Minister's invitation to attend a conference on the 70th anniversary of the publication of five principles for China's peaceful coexistence.
+
+It is expected that Chinese Prime Minister Lee Kiang and External Affairs Minister Wang Yi will meet on the visit.
+
+The conference will be attended by Chinese President Xi Jinping, Prime Minister Lee Kiang, Foreign Minister Wang Yi and many Chinese Communist Party members.
 
 ◼️
 
 [Data](articles/d221fbe9.json)
+
+[Extended Data](ext_articles/d221fbe9.ext.json)
 
 ---
 
@@ -96,17 +128,23 @@ The petition was then taken to hear the petition on 25th July.
 
 ---
 
-### සිරකරුවන්ගෙන් ගුටි කෑ සිරකරුවෙකු මියයි
+### Prisoner died from prisoners
 
 *2024-06-27 15:30:58* · [`adalk`](https://www.ada.lk/breaking_news/සිරකරුවන්ගෙන්-ගුටි-කෑ-සිරකරුවෙකු-මියයි/11-410479) · `si`
 
-ගාල්ල බන්ධනාගාරයේ සිරකරුවන්ගේ පහරකෑමට ලක්ව තුවාල ලබා ගාල්ල කරාපිටිය ශික්ෂණ රෝහලට ඇතුලත් කළ සිරකරුවකු  ඊයේ (26)දින රාත්‍රි මියගොස් ඇතැයි ගාල්ල පොලිසිය කියයි.
+A prisoner died in Galle Prison on 26th. Identified as someone arrested in Poddala, Galle. Further investigation ongoing.
 
-මෙසේ මියගොස් ඇත්තේ ගාල්ලේ පෝද්දල බලගොඩ ප්‍රදේශයේ පදිංචි දූෂණ සිද්ධියක් සම්බන්ධයෙන් පොලිස් අත් අඩංගුවට ගත් පසු  උසාවි නියෝගයක් අනුව බන්ධනාගාර ගත කොට සිටි අයෙකි. සිද්ධිය සම්බන්ධව ගාල්ල පොලිසිය වැඩිදුර විමර්ශන කටයුතු සිදු කරයි.
+🟩
+
+The Galle Police say a prisoner has been admitted to the Galle Prison Prisoners in Galle Prison yesterday (26).
+
+The deceased has been identified as police arrested in Poddala in Poddala, Galle.. Galle Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/56e3dd49.json)
+
+[Extended Data](ext_articles/56e3dd49.ext.json)
 
 ---
 
@@ -160,21 +198,27 @@ President Wickremesinghe visited the Chief Prelate of the Malwatu Chapter Most V
 
 ---
 
-### வவுனியா பல்கலைக்கழக கல்வி சாரா ஊழியர்கள் கவனயீர்ப்பு ஊர்வலம்
+### Vavuniya University
 
 *2024-06-27 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/187100) · `ta`
 
-வவுனியா பல்கலைக்கழகத்தின் கல்விசாரா ஊழியர்கள் இன்று வியாழக்கிழமை (27) கவனயீர்ப்பு ஊர்வலத்தில் ஈடுபட்டிருந்தனர்.
+Non-academic staff at Vavuniya University joined protests on the 57th day, demanding pay hikes and condemning police actions against principals. Teachers in Colombo also marched, expressing solidarity and opposing the use of force and water cannons.
 
-இலங்கை பூராகவும் பல்கலைக்கழக கல்விசாரா ஊழியர்கள் 57 ஆவது நாளாகவும் தமது பணிப்பகிஸ்கரிப்பு போராட்டத்தில் ஈடுபட்டு வருவதோடு சத்யாக்கிரக போராட்டத்திலும் ஈடுபட்டுள்ளனர்.
+🟩
 
-இந்நிலையில், நேற்று புதன்கிழமை கொழும்பில் போராட்டத்தில் ஈடுப்பட்ட ஆசிரியர், அதிபர்களது மீது தண்ணீர் தாரை பிரயோகம் மற்றும் கண்ணீர் புகை பிரயோகம் மேற்கொள்ளப்பட்டதை கண்டித்தும் தமது நியாயமான கோரிக்கையாக காணப்படுகின்ற சம்பள உயர்வை உடனடியாக தர வேண்டும் எனக் கூறியும் இன்று வியாழக்கிழமை (27) ஊர்வலத்தினை ஏற்பாடு செய்திருந்தனர்.
+The non -academic staff of the University of Vavuniya were engaged in a rally on Thursday (27).
 
-வவுனியா பூங்கா வீதியில் உள்ள வவுனியா பல்கலைக்கழக வெளிவாரி கற்கைகள்பீட கட்டிட தொகுதியிலிருந்து ஆரம்பித்த ஊர்வலமானது நகர் வழியாக பழைய பஸ் நிலையத்தை சென்றடைந்து நிறைவடைந்திருந்தது.
+Non -academic staff of Sri Lanka are engaged in their workshop for the 57th day and the Satyagraha struggle.
+
+In the meantime, the teacher who was protesting in Colombo on Wednesday held a procession on Thursday (27), condemning the use of water and tear gas on the principals and demanding the immediate pay hike.
+
+The procession started from the Vavuniya University External Studies Building Building at Vavuniya Park Road and reached the old bus station through the city.
 
 ◼️
 
 [Data](articles/a94befd5.json)
+
+[Extended Data](ext_articles/a94befd5.ext.json)
 
 ---
 
@@ -2367,23 +2411,5 @@ During the visit, Ambassador Sumith Dassanayake had a meeting with the First Vic
 [Data](articles/bb10966d.json)
 
 [Extended Data](ext_articles/bb10966d.ext.json)
-
----
-
-### Seroshi awarded prestigious Eisenhower Fellowships’ Women’s Leadership 2024
-
-*2024-06-27 01:24:28* · [`dailyftlk`](https://www.ft.lk/business/Seroshi-awarded-prestigious-Eisenhower-Fellowships-Women-s-Leadership-2024/34-763538) · `en`
-
-The Women’s International Foundation (WIF) yesterday announced that WIF Founder and Chairperson Seroshi Nandasiri has been honoured with the prestigious Eisenhower Fellowships’ 2024 Women’s Leadership Program award.
-
-This program, now in its fourth iteration since 2010, is dedicated exclusively to connecting and empowering women leaders worldwide, preparing them for the critical role women play in addressing global challenges. Nandasiri’s selection is a testament to her impactful work and the growing influence of WIF in Sri Lanka.
-
-This platform will facilitate the sharing of global knowledge and best practices with local women’s networks, connecting them to a broader global community. Consequently, an entire network of women entrepreneurs and leaders will benefit from this award, creating a significant ripple effect.
-
-...
-
-[Data](articles/e5a3d9c3.json)
-
-[Extended Data](ext_articles/e5a3d9c3.ext.json)
 
 ---

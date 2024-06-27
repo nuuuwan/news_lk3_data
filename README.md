@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 04:19:34**
+As of **2024-06-28 04:34:56**
 
 ## Newspaper Stats
 
-*Scraped **32,542** Articles*
+*Scraped **32,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 299
 bbccomsinhala | 320
 newsfirstlk | 363
 islandlk | 1,802
-economynextcom | 1,900
+economynextcom | 1,901
 dailyftlk | 1,988
 adalk | 2,885
 adaderanalk | 3,703
-tamilmirrorlk | 3,843
+tamilmirrorlk | 3,844
 dailymirrorlk | 4,733
 virakesarilk | 5,059
 adaderanasinhalalk | 5,350
@@ -26,39 +26,95 @@ adaderanasinhalalk | 5,350
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,540 (100.0%) of 32,542 articles have been extended.
+32,542 (100.0%) of 32,544 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### கடன் மறுசீரமைப்புக்கான புரிந்துணர்வு உடன்படிக்கை
+### Sri Lanka banking system repays debt or builds fx reserves of US$6.2bn since default
+
+*2024-06-28 04:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-banking-system-repays-debt-or-builds-fx-reserves-of-us6-2bn-since-default-169912/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s banking system has collected reserves or repaid debt totaling 6.2 billion US dollars in the two years to April 2024 since rates were to help end money being printed (inflationary policy) to keep interest rates artificially low.
+
+In April 2022 Sri Lanka also defaulted, halting the repayment of bilateral and private debt.
+
+The savings of principle repayments from April 2022 to March 2024 from the default is 5.8 billion US dollars.
+
+The central bank however continued to borrow from the Reserve Bank of India after the rate hike, and printed money to sterilize interventions delaying a quick correction of the balance of payments.
+
+Since then, the central bank has built reserves with deflationary policy as private credit also fell.
+
+By April 2022 the central bank had borrowed and busted forex to end up with negative reserves of 4.2 billion US dollars, which worsened to 4.8 billion US dollar by June 2022. It then started to improve.
+
+...
+
+[Data](articles/46323a70.json)
+
+---
+
+### A Memorandum of Understanding for Debt Relief
 
 *2024-06-28 02:23:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-மறுசீரமைப்புக்கான-புரிந்துணர்வு-உடன்படிக்கை/175-339562) · `ta`
 
-இலங்கைக்கான நீடித்த நிதி வசதி திட்டத்தினை சர்வதேச நாணய நிதியம் அங்கீகரித்த நிலையில் இலங்கையின் இருதரப்பு கடன் வழங்குனர்கள் மத்தியில் இலங்கையின் கடன்களை மறுசீரமைப்பதற்கான பேச்சுகளை முன்னெடுக்கும் நோக்குடன் 2023 ஏப்ரல் 13 ஆம் திகதி உத்தியோகபூர்வ கடன் வழங்குனர்கள் சபையானது (OCC) ஸ்தாபிக்கப்பட்டது.
+The Official Credit Provincial Council (OCC), established in 2023, aims to restructure Sri Lanka's bilateral loans. On June 26, 2024, after several discussions, the OCC signed a Memorandum of Understanding, highlighting Sri Lanka's efforts towards economic stability and development. Coordinated by India, France, and Japan, the OCC demonstrates a strong commitment to Sri Lanka's economic growth, backed by India's significant financial support, including a US $4 billion loan. India was the first to offer financial guarantees to the IMF, enabling Sri Lanka to access the International Monetary Fund Assistance Scheme. India continues to support Sri Lanka's economic recovery through investments in key sectors.
 
-அதனைத் தொடர்ந்து முன்னெடுக்கப்பட்ட பல சுற்றுப் பேச்சுக்களை அடுத்து 2024 ஜூன் 26 ஆம் திகதி OCC ஆனது புரிந்துணர்வு உடன்படிக்கை ஒன்றில் கைச்சாத்திட்டிருந்தது. தனது பொருளாதார ஸ்திரத்தன்மையினை உறுதிப்படுத்துவதற்காகவும் மறுசீரமைப்பு மற்றும் வளர்ச்சியை நோக்கிய உறுதியான நகர்வினை மேற்கொள்வதற்காகவும் இலங்கை மேற்கொண்ட வலுவான முன்னேற்றகரமான செயற்பாடுகளை இம்மைல்கல் நிரூபிக்கின்றது என்று இலங்கைக்கான இந்திய உயர்ஸ்தானிகராலயம் விடுத்துள்ள ஊடக அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+🟩
+
+On April 13, 2023, the Official Credit Provincial Council (OCC) was established with the aim of reorganizing Sri Lanka's bilateral loans among Sri Lanka's bilateral loans, as the IMF recognized the prolonged financial facility for Sri Lanka.
+
+On June 26, 2024, the OCC signed a Memorandum of Understanding following several rounds of talks.. In a media report issued by the Indian High Commission in Sri Lanka, Sri Lanka has proven that Sri Lanka has proven the strong progressive actions to ensure its economic stability and to make a firm move towards restructuring and development.
+
+India, along with France and Japan, co -ordinates the OCC, has a strong commitment to Sri Lanka's economic growth and stability. This commitment was proven by India's US $ 4 billion funded by India's unprecedented unprecedented US $ 4 billion.
+
+India was the first lending country to provide financial guarantees to the IMF so that Sri Lanka had the opportunity to have the International Monetary Fund Assistance Scheme.
 
 ...
 
 [Data](articles/ce543d34.json)
 
+[Extended Data](ext_articles/ce543d34.ext.json)
+
 ---
 
-### ஜனாதிபதி ரணில் கண்டியில் வழிபாடு
+### ’மலையக குடும்பங்களை பிரஜைகளாக்கும் கொள்கை தயார்’
+
+*2024-06-28 02:19:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-குடும்பங்களை-பிரஜைகளாக்கும்-கொள்கை-தயார்/175-339561) · `ta`
+
+பெருந்தோட்ட பிரதேசங்களில், நவீன அடிமைத்துவ அம்சங்களுக்கு மத்தியில், மலையக சமூக குடும்பங்கள்  வாழ்கின்றன. இம்மக்களுக்கு  பெருந்தோட்ட நிலங்களில், வதி விட காணி உரிமை, வாழ்வாதார காணி உரிமை உள்ளிட்ட உரிமைகளை பெற்று தந்து அவர்களை இந்நாட்டின் முழுமையான பிரஜைகளாக்கும் கொள்கையை தமிழ் முற்போக்கு கூட்டணி முன்னெடுப்பதாக அறிவித்துள்ளது.
+
+இலங்கை ஐ.நா வதிவிட பிரதிநிதி மார்க் அந்திரேவிற்கும், தமிழ் முற்போக்கு கூட்டனி தலைவர் மனோ கணேசன் தலைமையிலான தூதுக்குழுவுக்கும் இடையில் தீர்க்கமான சந்திப்பு   கொழும்பில் வியாழக்கிழமை (27) இடம்பெற்றது.  இதன்போதே மேற்கண்டவாறு எடுத்துரைத்துள்ளார்.
+
+இதன் போது, தமிழ் முற்போக்கு கூட்டணியின் நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினர் எம். உதயகுமார் மற்றும் தமுகூ/ஜமமு கேகாலை மாவட்ட அமைப்பாளர் எம். பரணிதரன் ஆகியோரும் கலந்து கொண்டனர்.
+
+இந்த சந்திப்பு தொடர்பில் மனோ கணேசன் எம்.பி, ஊடகங்களுக்கு கருத்து கூறிய போது தெரிவித்தாவது,
+
+...
+
+[Data](articles/dba24e7d.json)
+
+---
+
+### President Ranil Worship in Kandy
 
 *2024-06-28 02:16:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ரணில்-கண்டியில்-வழிபாடு/175-339560) · `ta`
 
-கண்டிக்கு, வியாழக்கிழமை (27) விஜயம் செய்திருந்த ஜனாதிபதி ரணில் விக்கிரமசிங்க, ஸ்ரீ தலதா மாளிகைக்குச் சென்று வழிபாடுகளில் ஈடுபட்டார். அத்துடன், மல்வத்து  மாநாயக்க, அஸ்கிரிய மாநாயக்க ஆகியோரை சந்தித்து ஆசீர்வாதம் பெற்றுக்கொண்டார்.
+President Ranil Wickremesinghe visited Kandy, attending the Sri Dalada House, meeting religious leaders, and discussing Sri Lanka's economic progress. He participated in special poojas at the Sri Selvavinayaka Temple and received blessings from the Meeram schoolhouse. The President also presented the Kandy City Development Program to local religious leaders.
 
-அதன்பின்னர், கட்டுக்கலை ஸ்ரீ செல்வவிநாயகர் ஆலயத்துக்குச் சென்ற ஜனாதிபதி ரணில் விக்கிரமசிங்க, அங்கு இடம்பெற்ற சிறப்பு பூஜைகளிலும் கலந்துகொண்டார். அத்துடன் மீரம் மக்கம் பள்ளிவாசலுக்குச் சென்று ஆசீர்வாதம் பெற்றுக்கொண்டார்.
+🟩
 
-மல்வத்து மகா விகாரையின் மகாநாயக்க திப்பட்டுவாவே ஸ்ரீ சுமங்கல தேரர் மற்றும்  அஸ்கிரி மகா விகாரை மகாநாயக்க   வரக்காகொட ஸ்ரீ ஞானரதன  தேரர் ஆகியோரை சந்தித்து ஆசி பெற்ற ஜனாதிபதி ரணில் விக்கிரமசிங்க, இலங்கை அடைந்துள்ள பொருளாதார மற்றும் நிதி முன்னேற்றம் குறித்து  மகாநாயக்க தேரர்களுக்கு தெளிவுபடுத்தினார். அத்துடன், கண்டி நகர அபிவிருத்தித் திட்டத்தையும் மாநாயக்கர்களிடம் கையளித்தார்.
+President Ranil Wickremesinghe, who visited Kandy on Thursday (27), visited the Sri Dalada House. He also met with Malwatu Manayaka and Asgiriya Manayaka.
+
+President Ranil Wickremesinghe, who went to the Sri Selvavinayaka Temple, was also present at the special poojas held there.. He also went to the schoolhouse of Meeram and received the blessing.
+
+President Ranil Wickremesinghe, who met Sri Sumangala Thera and Asgiri Maha Vikarai Mahanayaka Varakkoda Sri Gnanaradana Thera, made clear the economic and financial progress of Sri Lanka. He also handed over the Kandy City Development Program to the Manayakas.
 
 ◼️
 
 [Data](articles/eb173447.json)
+
+[Extended Data](ext_articles/eb173447.ext.json)
 
 ---
 
@@ -2331,49 +2387,5 @@ A US official said that the US is engaged in intense negotiations with all sides
 [Data](articles/094b7edf.json)
 
 [Extended Data](ext_articles/094b7edf.ext.json)
-
----
-
-### The Only Way Forward – STEM Research & Development – For A Productive, Future Sri Lanka
-
-*2024-06-27 12:24:22* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-only-way-forward-stem-research-development-for-a-productive-future-sri-lanka/) · `en`
-
-Sri Lanka will have elections soon. In fact, right now, the country is engulfed and is swirling in the vortex of election fervour. People still hold on to the expectation that democracy will hold sway. The daily discourses are dominated by nothing but the most dismal of news – about debt restructuring and how to squander the IMF loan. How unfortunate is that? Notwithstanding those, I want to point out that there is still some hope.
-
-A Nature news item by Benjamin Plackett (2024) reported that ‘by the end of this year, voters in some 65 countries and regions will have gone to the polls. That means close to half of the global population will have had the chance to cast a ballot of some sort, including almost 360 million people across the European Union’. The same article says: ‘Not all of the world’s political procedures will be free and fair, but this year is still expected to represent the biggest manifestation of the democratic process in history’.
-
-...
-
-[Data](articles/9f6b70bc.json)
-
-[Extended Data](ext_articles/9f6b70bc.ext.json)
-
----
-
-### Financial Fraud in India's Wind Power Power Program - United People's Power
-
-*2024-06-27 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187087) · `ta`
-
-The United People's Power accuses India's Adani Company of launching massive power projects without proper government approval. They question the government's decision to allow Adani Grens Energy Company to set up a wind power plant in Mannar Poonakari. The group claims this could lead to significant financial losses for Sri Lanka over the next two decades.
-
-🟩
-
-The United People's Power alleges that the power generation projects launched by India's Adani Company have been massive.
-
-The United People's Power has questioned the government's admission to India's Adani Grens Energy Company to launch a wind power plant in Mannar Poonakari.
-
-United People's Power Parliamentarian Ajith P. Perera says that the President and the Minister of State for India and Minister Kanjanavijayasekara have provided a massive financial financial raise as the President and Minister Kanjanavijayasekara has provided the air force in the Department of Power and Energy.
-
-He added that the government has given permission to buy electricity generated under the proposal to create wind power plants in Mannar and Poonakari through India's Adani Grens Energy Company.
-
-The United People's Power Parliament has said that Sri Lanka will have to lose millions in 20 years in 20 years.
-
-He said that the company, Windfors, offered to build a windmill station at the station.
-
-...
-
-[Data](articles/6d29c30d.json)
-
-[Extended Data](ext_articles/6d29c30d.ext.json)
 
 ---

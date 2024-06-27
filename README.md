@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 16:07:32**
+As of **2024-06-27 16:19:41**
 
 ## Newspaper Stats
 
-*Scraped **32,473** Articles*
+*Scraped **32,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,98 @@ newsfirstlk | 363
 islandlk | 1,802
 economynextcom | 1,890
 dailyftlk | 1,988
-adalk | 2,878
+adalk | 2,879
 adaderanalk | 3,696
 tamilmirrorlk | 3,832
 dailymirrorlk | 4,733
-virakesarilk | 5,044
-adaderanasinhalalk | 5,333
+virakesarilk | 5,046
+adaderanasinhalalk | 5,334
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,472 (100.0%) of 32,473 articles have been extended.
+32,473 (100.0%) of 32,477 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### විනිසුරුවරුන් පත් කිරීමේ සිද්ධියට අදාළව තවත් තීරණයක්
+### දරුවන්ගේ අධ්‍යාපනය අහිමි වීමට ඉඩ දෙන්නේ නැහැ - ජනපති
+
+*2024-06-27 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198218) · `si`
+
+ගුරු භූමිකාවේ ගරුත්වය රැකීම ගුරුවරුන්ගේ වගකීමක් බවත් රටේ දරුවන්ගේ අධ්‍යාපනය අහිමි වීමට ඉඩ නොතබන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා මේ බව පැවසුවේ අද (27) අස්ගිරි, මල්වතු මහනාහිමිවරුන් බැහැ දැක ආශිර්වාද ලබාගත් අවස්ථාවේදීය.
+
+මහනුවර සුවිසල් නගර සංවර්ධන සැලැස්ම ද මහනාහිමිවරුන්ට පිළිගැන්වීම එහිදී සිදු කෙරුණි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ අද පෙරවරුවේ මහනුවරට පැමිණි අතර ප්‍රථමයෙන් ඓතිහාසික දළදා සමිඳුන් වැඳ පුදාගෙන ආශිර්වාද ලබා ගත්තේය.
+
+දළදා මාළිගාව වෙත පැමිණි ජනාධිපති රනිල් වික්‍රමසිංහ මහතාව දියවඩන නිලමේ නිලංග දෑල මහතා විසින් පිළිගනු ලැබීය.
+
+අනතුරුව ජනාධිපතිවරයා මල්වතු පාර්ශ්වයේ මහානායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සුමංගල නාහිමියන් සහ අස්ගිරි පාර්ශ්වයේ මහානායක අතිපූජ්‍ය වරකාගොඩ ශ්‍රී ඥානරතන නාහිමි බැහැ දැක ආශිර්වාද ලබාගෙන තිබුණි.
+
+වැටුප් විෂමතාවක් ඇති නොවන අයුරින් රාජ්‍ය නිලධාරීන්ගේ වැටුප් වැඩි කිරීම සඳහා විධිමත් ක්‍රමවේදයක් ලබන වසරේ සිට සකසන බවද මහනාහිමිවරුන් හමුවේ ජනපති පවසා තිබේ.
+
+...
+
+[Data](articles/edd61ca4.json)
+
+---
+
+### சீனா சென்றார் மஹிந்த !
+
+*2024-06-27 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/187104) · `ta`
+
+நான்கு நாள் உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டு முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ இன்று வியாழக்கிழமை (27) காலை சீனாவிற்கு சென்றுள்ளார்.
+
+சீனாவின் அமைதியான சகவாழ்வுக்கான ஐந்து கோட்பாடுகள் வெளியிடப்பட்டதன் 70வது ஆண்டு நிறைவைக் குறிக்கும் மாநாட்டில் கலந்து கொள்ள அந்நாட்டு வெளிவிவகார அமைச்சர் விடுத்த அழைப்பை ஏற்று மஹிந்த ராஜபக்ஷ அங்கு சென்றுள்ளார்.
+
+இந்த விஜயத்தில் சீனப் பிரதமர் லீ கியாங் மற்றும் வெளிவிவகார அமைச்சர் வாங் யீ ஆகியோரை சந்தித்து கலந்துரையாடுவார் என எதிர்பார்க்கப்படுகின்றது.
+
+இந்த மாநாட்டில் சீன ஜனாதிபதி ஜி ஜின்பிங், பிரதமர் லீ கியாங், வெளிவிவகார அமைச்சர் வாங் யீ மற்றும் பல சீன கம்யூனிஸ்ட் கட்சி உறுப்பினர்கள் கலந்து கொள்ளவுள்ளனர்.
+
+◼️
+
+[Data](articles/d221fbe9.json)
+
+---
+
+### Another decision pertaining to the appointment of judges
 
 *2024-06-27 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198217) · `si`
 
-අගවිනිසුරුවරයා හැර ශ්‍රේෂ්ඨාධිකරණයේ සෙසු විනිසුරු ධුර සඳහා විනිසුරුවරුන් නම් කිරීම වළක්වාලමින් ජනාධිපතිවරයා වෙත තහනම් නියෝගයක් නිකුත් කිරීමට අදාළ මූලික අයිතිවාසිකම් පෙත්සම කඩිනමින් විභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය තීන්දු කර තිබේ.
+The Supreme Court will hear a fundamental rights petition concerning fisheries, with the Chief Justice presiding. This decision comes after considering two petitions filed by Ven, with hearings scheduled for July 25th.
 
-අදාළ තහනම් නියෝගය ඉවත් කිරීමේ හෝ වෙනස් කිරීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා පූජ්‍ය දඹර අමිල හිමියන් සහ ආචාර්ය මහීම් මෙන්ඩිස් යන පාර්ශ්ව විසින් ඉදිරිපත් කළ අතරමැදි පෙත්සම් දෙකක් සලකා බැලීමෙන් පසුව අධිකරණය මෙම නියෝගය නිකුත් කර ඇත.
+🟩
 
-ඉන් අනතුරුව අදාළ පෙත්සම ජුලි මස 25 වනදා විභාගයට ගැනීමටද අධිකරණය දින නියම කළේය.
+The Supreme Court has decided to hear the fundamental rights petition to be heard as the Chief Justice, preventing the name of the Judges for the fisheries' filing for the fiscal judiciary.
+
+The court has issued the court after considering two intermediate petitions filed by Ven.
+
+The petition was then taken to hear the petition on 25th July.
 
 ◼️
 
 [Data](articles/e5d83549.json)
+
+[Extended Data](ext_articles/e5d83549.ext.json)
+
+---
+
+### සිරකරුවන්ගෙන් ගුටි කෑ සිරකරුවෙකු මියයි
+
+*2024-06-27 15:30:58* · [`adalk`](https://www.ada.lk/breaking_news/සිරකරුවන්ගෙන්-ගුටි-කෑ-සිරකරුවෙකු-මියයි/11-410479) · `si`
+
+ගාල්ල බන්ධනාගාරයේ සිරකරුවන්ගේ පහරකෑමට ලක්ව තුවාල ලබා ගාල්ල කරාපිටිය ශික්ෂණ රෝහලට ඇතුලත් කළ සිරකරුවකු  ඊයේ (26)දින රාත්‍රි මියගොස් ඇතැයි ගාල්ල පොලිසිය කියයි.
+
+මෙසේ මියගොස් ඇත්තේ ගාල්ලේ පෝද්දල බලගොඩ ප්‍රදේශයේ පදිංචි දූෂණ සිද්ධියක් සම්බන්ධයෙන් පොලිස් අත් අඩංගුවට ගත් පසු  උසාවි නියෝගයක් අනුව බන්ධනාගාර ගත කොට සිටි අයෙකි. සිද්ධිය සම්බන්ධව ගාල්ල පොලිසිය වැඩිදුර විමර්ශන කටයුතු සිදු කරයි.
+
+◼️
+
+[Data](articles/56e3dd49.json)
 
 ---
 
@@ -95,6 +157,24 @@ President Wickremesinghe visited the Chief Prelate of the Malwatu Chapter Most V
 [Data](articles/4a01d311.json)
 
 [Extended Data](ext_articles/4a01d311.ext.json)
+
+---
+
+### வவுனியா பல்கலைக்கழக கல்வி சாரா ஊழியர்கள் கவனயீர்ப்பு ஊர்வலம்
+
+*2024-06-27 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/187100) · `ta`
+
+வவுனியா பல்கலைக்கழகத்தின் கல்விசாரா ஊழியர்கள் இன்று வியாழக்கிழமை (27) கவனயீர்ப்பு ஊர்வலத்தில் ஈடுபட்டிருந்தனர்.
+
+இலங்கை பூராகவும் பல்கலைக்கழக கல்விசாரா ஊழியர்கள் 57 ஆவது நாளாகவும் தமது பணிப்பகிஸ்கரிப்பு போராட்டத்தில் ஈடுபட்டு வருவதோடு சத்யாக்கிரக போராட்டத்திலும் ஈடுபட்டுள்ளனர்.
+
+இந்நிலையில், நேற்று புதன்கிழமை கொழும்பில் போராட்டத்தில் ஈடுப்பட்ட ஆசிரியர், அதிபர்களது மீது தண்ணீர் தாரை பிரயோகம் மற்றும் கண்ணீர் புகை பிரயோகம் மேற்கொள்ளப்பட்டதை கண்டித்தும் தமது நியாயமான கோரிக்கையாக காணப்படுகின்ற சம்பள உயர்வை உடனடியாக தர வேண்டும் எனக் கூறியும் இன்று வியாழக்கிழமை (27) ஊர்வலத்தினை ஏற்பாடு செய்திருந்தனர்.
+
+வவுனியா பூங்கா வீதியில் உள்ள வவுனியா பல்கலைக்கழக வெளிவாரி கற்கைகள்பீட கட்டிட தொகுதியிலிருந்து ஆரம்பித்த ஊர்வலமானது நகர் வழியாக பழைய பஸ் நிலையத்தை சென்றடைந்து நிறைவடைந்திருந்தது.
+
+◼️
+
+[Data](articles/a94befd5.json)
 
 ---
 
@@ -190,6 +270,32 @@ The arrested suspects are residents of Hettipola, aged 17,49 and 54 years.
 
 ---
 
+### Two bodies recovery at the public rectum in Nuwara Eliya
+
+*2024-06-27 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187099) · `ta`
+
+In Nuwara Eliya, two bodies were found in the public rectum near the main bus parking lot. A 71-year-old man from Blackpool and a 51-year-old from Aryapura died after falling into a sewage pit. The incident occurred during the 1990 emergency patient carriage service. The bodies were taken to the Nuwara Eliya District General Hospital for autopsy following their discovery.
+
+🟩
+
+Two bodies have been recovered from the public rectum at the Nuwara Eliya main bus parking lot.
+
+The body of a 71 -year -old elderly man from Blackpool Ruwan Elia, Nuwara Eliya on Wednesday night (26) night, and the body of a 51 -year -old from Aryapura Bogawantalawa on Thursday (27) have been recovered.
+
+The public, who noticed that two people had fallen into the sewage hall, confirmed that the two men had died of the 1990 emergency patient carriage service.
+
+The bodies have been placed in the funeral room of the Nuwara Eliya District General Hospital for autopsy.
+
+The police said that the bodies were rescued on the basis of a phone call from the police that the bodies were falling into the sewage hall.
+
+◼️
+
+[Data](articles/79981a3b.json)
+
+[Extended Data](ext_articles/79981a3b.ext.json)
+
+---
+
 ### The man who escaped wearing a Habaya telephone number
 
 *2024-06-27 14:17:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/ஹபாயா-அணிந்து-தப்பியவர்-சிக்கினார்/75-339534) · `ta`
@@ -217,32 +323,6 @@ Habaiah was arrested for closing his face to escape from it.   சம்பவ
 [Data](articles/048df237.json)
 
 [Extended Data](ext_articles/048df237.ext.json)
-
----
-
-### Two bodies recovery at the public rectum in Nuwara Eliya
-
-*2024-06-27 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/187099) · `ta`
-
-In Nuwara Eliya, two bodies were found in the public rectum near the main bus parking lot. A 71-year-old man from Blackpool and a 51-year-old from Aryapura died after falling into a sewage pit. The incident occurred during the 1990 emergency patient carriage service. The bodies were taken to the Nuwara Eliya District General Hospital for autopsy following their discovery.
-
-🟩
-
-Two bodies have been recovered from the public rectum at the Nuwara Eliya main bus parking lot.
-
-The body of a 71 -year -old elderly man from Blackpool Ruwan Elia, Nuwara Eliya on Wednesday night (26) night, and the body of a 51 -year -old from Aryapura Bogawantalawa on Thursday (27) have been recovered.
-
-The public, who noticed that two people had fallen into the sewage hall, confirmed that the two men had died of the 1990 emergency patient carriage service.
-
-The bodies have been placed in the funeral room of the Nuwara Eliya District General Hospital for autopsy.
-
-The police said that the bodies were rescued on the basis of a phone call from the police that the bodies were falling into the sewage hall.
-
-◼️
-
-[Data](articles/79981a3b.json)
-
-[Extended Data](ext_articles/79981a3b.ext.json)
 
 ---
 
@@ -2305,81 +2385,5 @@ This platform will facilitate the sharing of global knowledge and best practices
 [Data](articles/e5a3d9c3.json)
 
 [Extended Data](ext_articles/e5a3d9c3.ext.json)
-
----
-
-### The proposal brought by the president will be again defeated
-
-*2024-06-27 01:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/187058) · `ta`
-
-The President's proposal to extend Attorney Sanjay Rajaratnam's term was rejected by the Constituent Assembly, despite support from 5 MPs and three MPs.
-
-🟩
-
-The Constituent Assembly has rejected the president's idea of ​​extending the tenure of Attorney Sanjay Rajaratnam for a further six months.
-
-It is noteworthy that 5 MPs and three MPs voted in favor of the proposal.
-
-◼️
-
-[Data](articles/1424b4c9.json)
-
-[Extended Data](ext_articles/1424b4c9.ext.json)
-
----
-
-### JAT Holdings appoints three Directors for R&D, Marketing and Bangladesh operations
-
-*2024-06-27 01:22:14* · [`dailyftlk`](https://www.ft.lk/business/JAT-Holdings-appoints-three-Directors-for-R-D-Marketing-and-Bangladesh-operations/34-763537) · `en`
-
-JAT Holdings PLC, has announced the appointment of three new Directors (Non Board Directors): Ajith Bandara as Director - Research and Development, Dilshan Rodrigo as Director Marketing and Shamara Wanniarachchi as Director/Country Head- Bangladesh.
-
-These additions bring a wealth of expertise and experience to their respective domains, offering strategic support to JAT Holdings’ growth objectives and expansion plans. The Company is market leader in wood coatings and paint products and emerging regional conglomerate.
-
-CEO Nishal Ferdinando said: “We are delighted to welcome Ajith Bandara, Dilshan Rodrigo and Shamara Wanniarachchi to our team of Directors. Their exceptional skills and expertise will be vital in driving our growth objectives and expanding our presence in focus markets. We are confident that their diverse talents and proven track records will be invaluable assets as we shape the future of JAT Holdings.”
-
-...
-
-[Data](articles/c5e12a8b.json)
-
-[Extended Data](ext_articles/c5e12a8b.ext.json)
-
----
-
-### Southern India participates in Industry Expo 2024 in Sri Lanka
-
-*2024-06-27 01:17:11* · [`dailyftlk`](https://www.ft.lk/business/Southern-India-participates-in-Industry-Expo-2024-in-Sri-Lanka/34-763536) · `en`
-
-Deputy High Commissioner of Sri Lanka in Southern India, Dr. D. Venkateshwaran, led a delegation of 99 representatives from Southern India to the International Industry Expo 2024 which was held from 19 to 23 June at the Bandaranaike Memorial International Conference Hall (BMICH) in Colombo. The event was organised by the Ministry of Industries and the Industrial Development Board (IDB) with a view to fostering international business relations and promoting industrial collaboration among nations.
-
-The South Indian delegation engaged in various B2B meetings and had meetings with Health and Industries Minister Dr. Ramesh Pathirana along with other senior officials of the Ministry of Industries at the exhibition.
-
-...
-
-[Data](articles/ca8d61d9.json)
-
-[Extended Data](ext_articles/ca8d61d9.ext.json)
-
----
-
-### Abraham Lincoln melted by extreme heat
-
-*2024-06-27 01:14:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கடும்-வெப்பத்தால்-உருகிய-ஆபிரகாம்-லிங்கன்/50-339502) · `ta`
-
-In the U.S., record-breaking heat caused the head of a 6-foot tall wax statue of Abraham Lincoln to melt and warp. Repair work is underway on this outdoor statue.
-
-🟩
-
-There is a heavy heat in the United States. Thus, the wax statue of Abraham Lincoln, the 16th president of the United States, has melted.
-
-The head of the wax statue, which is made of a height of 6 feet, is melted and curved by the heat.
-
-Work on repairing the damaged head of the Abraham Lincoln statue, which was placed in the open air. (A)
-
-◼️
-
-[Data](articles/571b99f0.json)
-
-[Extended Data](ext_articles/571b99f0.ext.json)
 
 ---

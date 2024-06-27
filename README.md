@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 22:19:43**
+As of **2024-06-27 22:34:51**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,519 (100.0%) of 32,520 articles have been extended.
+32,520 (100.0%) of 32,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### විධායක සේවා නිලධාරීන්ට විශේෂ දීමනාවක්
+### Special offer for Executive Service Officers
 
 *2024-06-27 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198233) · `si`
 
-රාජ්‍ය සේවයේ විධායක සේවා නිලධාරීන්ට මෙතෙක් සේවා කාලය මත පදනම්ව ගෙවන ලද විශේෂ දීමනාව වෙනුවට සේවා කාලය නොසලකා රුපියල් 25,000ක විශේෂ මාසික දීමනාවක් ගෙවීමට තීරණය කර ඇති බව වාර්තා වෙයි.
+Executive Service Officers in Sri Lanka will receive a special monthly allowance as per a decision confirmed by Mr. Mahesh Gammanpila, President of the Sri Lanka Administrative Service Association. This includes members of the Sri Lanka Architectural Service and the Sri Lanka Survey Service, with the provision set to take effect from July 1, 2011.
 
-ශ්‍රී ලංකා පරිපාලන සේවා සංගමයේ සභාපති මහේෂ් ගම්මන්පිල මහතා ඒ බව තහවුරු කළේය.
+🟩
 
-මෙම දීමනාව ශ්‍රී ලංකා ඉංජිනේරු සේවයේ, ශ්‍රී ලංකා වාස්තු විද්‍යාඥ සේවයේ සහ ශ්‍රී ලංකා මිනින්දෝරු සේවයේ නිලධාරීන්ට ද හිමි වෙයි.
+It has been reported that the Executive Service Officers Executive Service Officers have to pay a special monthly allowance of Rs.
 
-ඊට අදාළ චක්‍රලේඛ විධිවිධාන 2024.07.01 දින සිට ක්‍රියාත්මක වෙන බවද දැනුම්දෙයි.
+The President of the Sri Lanka Administrative Service Association, Mr. Mahesh Gammanpila confirmed this.
+
+The Sri Lanka Architectural Service of the Sri Lanka Architectural Service and the Sri Lanka Survey Service of the Sri Lanka Institute of Engineering Service and the Sri Lanka Survey Service are also present.
+
+The relevant circular provisions will be implemented from 01.07.2011.
 
 ◼️
 
 [Data](articles/cb8ee588.json)
+
+[Extended Data](ext_articles/cb8ee588.ext.json)
 
 ---
 

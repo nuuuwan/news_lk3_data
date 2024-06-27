@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 19:53:12**
+As of **2024-06-27 20:05:05**
 
 ## Newspaper Stats
 
-*Scraped **32,507** Articles*
+*Scraped **32,508** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,49 +20,81 @@ adaderanalk | 3,700
 tamilmirrorlk | 3,835
 dailymirrorlk | 4,733
 virakesarilk | 5,056
-adaderanasinhalalk | 5,342
+adaderanasinhalalk | 5,343
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,505 (100.0%) of 32,507 articles have been extended.
+32,507 (100.0%) of 32,508 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### வெறும் 7 சதவீத கடன் தள்ளுபடிக்கு இணக்கப்பாடு எட்டப்பட்டுள்ளமை நற்செய்தியல்ல - ஹர்ஷ டி சில்வா
+### දුම්රිය ප්‍රමාදයක්
+
+*2024-06-27 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198227) · `si`
+
+ප්‍රධාන මාර්ගයේ දුම්රිය ප්‍රමාදයක් සිදුවී ඇති බව දුම්රිය සේවය පවසයි.
+
+මීරිගම දුම්රිය ස්ථානය ආසන්නයේ දුම්රිය මාර්ගයේ සිදුවූ ඇතිවූ දෝෂයක් හේතුවෙන් මෙම දුම්රිය ප්‍රමාදය ඇතිවී තිබෙන බව සඳහන් ය.
+
+◼️
+
+[Data](articles/99ba9818.json)
+
+---
+
+### Harsha de Silva is not good news
 
 *2024-06-27 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187121) · `ta`
 
-சர்வதேச கடன் வழங்குனர்களுடன் எட்டப்பட்டுள்ள இணக்கப்பாட்டுக்கமைய 7 சதவீத கடன் தள்ளுபடி மாத்திரமே கிடைக்கப்பெறவுள்ளது. 28 சதவீத கடன் தள்ளுபடி எதிர்பார்க்கப்பட்ட நிலையில், வெறும் 7 சதவீதத்துக்கு மாத்திரம் இணக்கம் காணப்பட்டுள்ளமை ஒரு நற்செய்தியல்ல என்று ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+Dr. Harsha de Silva criticizes the 7% loan waiver, highlighting it as less favorable than the anticipated 28% waiver. He commends Sri Lanka's compliance with international credit providers but expresses concern over potential negative impacts. The United People's Power supports seeking IMF assistance but opposes certain aspects of the agreement, emphasizing the need for transparency and beneficial outcomes for Sri Lanka.
 
-பிரதான இரு தரப்பு உத்தியோகபூர்வ கடன் வழங்குநர்களான சீன, ஜப்பன் இந்தியா உட்பட ஏனைய நாடுகளுடன் இணக்கப்பாட்டை எட்டியமை உண்மையில் மகிழ்ச்சியளிக்கிறது. அதன் ஊடாக நன்மை கிடைக்குமானால் இலங்கை என்ற குழந்தையை அங்குமிங்கும் இழுத்து சிதைப்பதற்கு நாம் தயாராக இல்லை என்நும் ஹர்ஷ டி சில்வா சுட்டிக்காட்டினார்.
+🟩
 
-வியாழக்கிழமை (27) கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் விசேட உரை தொடர்பில்கருத்து வெளியிடும் போதே அவர் இதனைத் தெரிவித்தார். அவர் மேலும் குறிப்பிடுகையில்,
+The 7 per cent loan discount is only available in accordance with international credit providers. United People's Power MP Dr. Harsha de Silva said that the 28 per cent loan waiver was expected and that only 7 per cent was not a good news.
+
+It is really happy to have reached compliance with other countries, including the major bipartisan official credit providers, including Chinese and Japan India.. Harsha de Silva pointed out that we are not ready to drag a child named Sri Lanka if it is beneficial through it.
+
+He was speaking at a special speech by President Ranil Wickremesinghe at a press conference held at the Opposition Leader's Office in Colombo on Thursday (27).. As he further notes,
+
+We listened to President Ranil Wickremesinghe's special speech on the debt restructuring. In it, the people should understand who the best mother of the country and that those who urged the monetary fund to seek the monetary fund during the reign of former President Gotabhaya Rajapakse.
 
 ...
 
 [Data](articles/49b69416.json)
 
+[Extended Data](ext_articles/49b69416.ext.json)
+
 ---
 
-### இன்று இரவு இரண்டாவது அரை இறுதிப் போட்டி : தென் ஆபிரிக்காவை இறுதிப் போட்டியில் எதிர்த்தாடப்போவது நடப்பு சம்பியன் இங்கிலாந்தா? முன்னாள் சம்பியன் இந்தியாவா?
+### Second semi -finals tonight: Is the current champion to oppose South Africa in the final?Is the former champion India?
 
 *2024-06-27 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/187120) · `ta`
 
-9ஆவது ரி20 உலகக் கிண்ண இறுதிப் போட்டியில் தென் ஆபிரிக்காவை எதிர்த்தாடப்போவது நடப்பு சம்பியன் இங்கிலாந்தா? முதலாவது சம்பியன் இந்தியாவா? என்பதைத் தீர்மானிக்கும் இரண்டாவது அரை இறுதிப் போட்டி இலங்கை நேரப்படி வியாழக்கிழமை (27) இரவு 8.00 மணிக்கு ஆரம்பமாகவுள்ளது.
+In the 9th T20 World Cup, India, led by Dhoni, faces South Africa in the semi-finals, aiming to become the first champion. This marks India's second appearance in the finals after 17 years. England, the reigning world champion from 2010 and 2022, seeks to defend its title against South Africa. The match history between India and England shows a balance with each team winning twice. Despite England's strong performance, including Alex Hales' 86 runs and Jos Buttler's 80 runs, India's batting lineup, featuring Rohit Sharma, Virat Kohli, and Rishabh Pant, poses a significant challenge. The outcome of tonight's match will determine the finalist set to compete against South Africa.
 
-ஒன்பதாவது ரி20 உலகக் கிண்ண அத்தியாயத்தில் தோல்வி அடையாத அணியாக இந்தியாவும், முதல் சுற்றிலும் சுப்பர் சுற்றிலும் தட்டுத்தடுமாறிய அணியாக இங்கிலாந்தும் இன்றைய போட்டியை எதிர்கொள்ளவுள்ளன.
+🟩
 
-ரி20 உலகக் கிண்ண அங்குரார்ப்பண அத்தியாயத்தில் எம். எஸ். தோனி தலைமையில் சம்பியனான இந்தியா, 17 வருடங்களின் பின்னர் உலகக் கிண்ணத்தை இரண்டாவது தடவையாக சுவீகரிக்கும் முனைப்புடன் இம்முறை களம் இறங்கியுள்ளது.
+Is the current champion to oppose South Africa in the 9th T20 World Cup final?Is India the first champion?The second semi -final will begin at 8.00 pm on Thursday (27).
 
-மறுபக்கத்தில் 2010இலும் 2022இலும் ரி20 உலக சம்பியனான இங்கிலாந்து, தொடர்ச்சியாக இரண்டு தடவைகள் சம்பியனான நாடு என்ற பெருமையை தனதாக்கிக்கொள்ளும் குறிக்கோளுடன் இம்முறை போட்டியிடுகிறது.
+India will face today's match as the Ninth T20 World Cup chapter and the first round of the team and the first round of the Superbow.
+
+In the R20 World Bowl Inaugural Chapter. S.. India, led by Dhoni, has come to the forefront of the World Cup for the second time after 17 years.
+
+On the other hand, in 2010 and 2022, the UK, the world champion, is contesting this year with the aim of honoring the pride of the country as a two consecutive year.
+
+When the two teams finally met in Adelaide in the semi -finals of the R20 World Cup, England were bowled out for 169 runs for 169 runs and won by 10 wickets in 16 overs.
+
+Alex Hales was not in the squad for 86 runs without losing the match. But Jose Butler, who scored 80 runs without losing the game, is playing the captain of the England team this time.
 
 ...
 
 [Data](articles/5b450c9c.json)
+
+[Extended Data](ext_articles/5b450c9c.ext.json)
 
 ---
 
@@ -2383,27 +2415,5 @@ Also, attendance in many schools was very low, and some students who came to sch
 [Data](articles/3d4993fa.json)
 
 [Extended Data](ext_articles/3d4993fa.ext.json)
-
----
-
-### Bribed officer arrested
-
-*2024-06-27 09:08:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லஞ்சம்-பெற்ற-அதிகாரி-கைது/175-339511) · `ta`
-
-A village officer was arrested by the Bribery Corruption Commission for accepting a bribe related to electricity supply services. The arrest followed a complaint from a local woman.
-
-🟩
-
-A group of officials of the Bribery Corruption Commission yesterday (26) arrested a village officer in connection with the bribery incident of a woman who had bribed a woman.
-
-According to a complaint lodged by a woman living in the Heyrasagala Grama Niladhari, a group of officials of the Bribery Commission have arrested a group of officials and arrested the Grama Niladhari Office.
-
-The village officer has taken the money in connection with the incident of supplying electricity to the house of the woman's son who complained.. Remble
-
-◼️
-
-[Data](articles/e39e68b6.json)
-
-[Extended Data](ext_articles/e39e68b6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 07:24:30**
+As of **2024-06-27 07:47:09**
 
 ## Newspaper Stats
 
-*Scraped **32,379** Articles*
+*Scraped **32,382** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,60 +17,112 @@ economynextcom | 1,884
 dailyftlk | 1,988
 adalk | 2,862
 adaderanalk | 3,681
-tamilmirrorlk | 3,822
+tamilmirrorlk | 3,823
 dailymirrorlk | 4,733
 virakesarilk | 5,023
-adaderanasinhalalk | 5,312
+adaderanasinhalalk | 5,314
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,377 (100.0%) of 32,379 articles have been extended.
+32,379 (100.0%) of 32,382 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### ඩයනාට එරෙහි නඩුවෙන් විනිසුරුවරු දෙදෙනෙක් ඉවත්වෙයි
+### ගුරු - විදුහල්පතිවරු අදත් ලෙඩින්
+
+*2024-06-27 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198198) · `si`
+
+ගුරු- විදුහල්පති වෘත්තීය සමිති අද (27) දිනයේ ද ලෙඩ නිවාඩු වාර්තා කරමින් දීපව්‍යාප්ත වැඩවර්ජනයක නිරතවීමට තීරණය කර තිබේ.
+
+කොළඹ පැවති විරෝධතාවයට පොලීසිය එල්ල කළ කඳුළු ගෑස් සහ ජල ප්‍රහාරයට විරෝධය පළ කරමින් ගුරු - විදුහල්පති වෘත්තීය සමිති මෙලෙස වැඩවර්ජනයක නිරත වීමට තීරණය කර ඇති බව වාර්තා වුණි.
+
+අසනීප නිවාඩු වාර්තා කරමින් ඊයේ (26) දිනයේත් ගුරු - විදුහල්පති වෘත්තීය සමිත වැඩවර්ජනයක නිරත වු අතර මේ හේතුවෙන් දිවයිනේ බොහෝ පාසල්වල අධ්‍යයන කටයුතු ඇණහිට තිබිණි.
+
+පාසල් රැසක ළමුන්ගේ පැමිණීම ද ඉතා අවම මට්ටමක පැවති අතර ඇතැම් පාසල්වලට පැමිණි සිසුන්ට පාසල්වලට ඇතුළුවීමට නොහැකි වීම හේතුවෙන් හැරී යාමට ද සිදුවු බව "අද දෙරණ" වාර්තාකරුවන් සඳහන් කළේය.
+
+කෙසේවෙතත් අද (27) දිනයේ දී සාමාන්‍ය පරිදි රජයේ සියලුම පාසල් පැවැත්වෙන බව අධ්‍යාපන අමාත්‍යංශය නිවේදනයක් නිකුත් කරමින් සඳහන් කළේය.
+
+මේ අතර අද දිනයේ ආරම්භ කිරීමට සැලසුම් කර තිබු අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ දෙවන අදියරේ ඇගයීම් කටයුතු නොවැළැක්විය හේතුවක් මත සිදුනොකරන බව විභාග කොමසාරිස් අමිත් ජයසුන්දර මහතා පවසයි.
+
+...
+
+[Data](articles/27227397.json)
+
+---
+
+### දකුණු අප්‍රිකාවට පහසු ඉලක්කයක්
+
+*2024-06-27 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198197) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අවසන් වටයේ ඇෆ්ගනිස්තාන කණ්ඩායම සහ දකුණු අප්‍රිකාව අතර තරගය මේ වනවිට පැවැත්වෙයි.
+
+තරගයේ කාසියේ වාසිය දිනා පළමුවෙන් පන්දුවට පහරදුන් ඇෆ්ගනිස්තාන කණ්ඩායම පන්දුවාර 11 පන්දු 5ක් අවසානයේ සියලුදෙනා දැවී ලකුණු 56ක් රැස්කළේය.
+
+පන්දු යැවීමේදී දකුණු අප්‍රිකානු කණ්ඩායම වෙනුවෙන් Marco Jansen සහ Tabraiz Shamsi කඩුලු 03 බැගින් දවාගත්තහ.
+
+ඒ අනුව තරගය ජය ගැනීම සඳහා දකුණු අප්‍රිකානු කණ්ඩායමට ලකුණු 57ක පහසු ඉලක්කයක් හිමිව තිබේ.
+
+◼️
+
+[Data](articles/49dba106.json)
+
+---
+
+### Two judges leave the case against Diana
 
 *2024-06-27 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198196) · `si`
 
-හිටපු රාජ්‍ය ඇමතිනි ඩයනා ගමගේ මහත්මිය අධිකරණයට අපහාසයක් සිදුකර ඇතැයි චෝදනා කරමින් ගොනුකර තිබූ පෙත්සම සලකා බැලීමේ කටයුතුවලින් ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුවරුන් දෙදෙනෙකු ඉවත් වී තිබේ.
+Two Supreme Court judges have withdrawn from a case involving Diana Gamage, whose petition challenges the court's decision to dissolve certain posts. The petition was initially presented by a former council chairman and was set to be heard by three judges, including Kumuduni Wickramasinghe and Janaka de Silva, who have now been removed from the case. The Supreme Court has scheduled a session for August 5th to reconsider the petition.
 
-පාර්ලිමේන්තු මන්ත්‍රී ධුරය අහෝසි කරමින් ශ්‍රේෂ්ඨාධිකරණය විසින් ප්‍රකාශයට පත් කළ නඩු තීන්දුව සම්බන්ධයෙන් මාධ්‍ය හමුවකදී ප්‍රකාශ කරනු ලැබූ අදහස්වලින් ඩයනා ගමගේ මහත්මිය අධිකරණයට අපහාසයක් සිදුකර ඇතැයි චෝදනා කරමින් වැලිගම නගර සභාවේ හිටපු සභාපති රෙහාන් ජයවික්‍රම මහතා විසින් මෙම පෙත්සම ගොනුකර තිබිණි.
+🟩
 
-මෙම පෙත්සම ප්‍රීති පද්මන් සූරසේන, කුමුදුනි වික්‍රමසිංහ සහ ජනක් ද සිල්වා යන මහත්ම මහත්මීන්ගේ සමන්විත ත්‍රී පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ ඊයේ (26) කැඳවනු ලැබීය.
+Two Supreme Court judges have resigned from the submission of the petition filed by Mrs. Diana Gamage, accusing the execution of former state ministers.
 
-එම අවස්ථාවේදී අදාළ විනිසුරු මඩුල්ලේ සාමාජික විනිසුරුවරු වශයෙන් කටයුතු කළ කුමුදුනි වික්‍රමසිංහ සහ ජනක් ද සිල්වා යන මහත්ම මහත්මීන් තමන් මෙම පෙත්සම් සලකා බැලීමේ කටයුතුවලින් ඉවත් වන බව දැනුම් දී තිබේ.
+The petition was filed by the former Chairman of the Weligama Urban Council, accusing the court's decision to abolish the post of posts.
 
-ඒ අනුව අදාළ පෙත්සම සලකා බැලීම සඳහා අගෝස්තු මස 05 වනදා යළි කැඳවන ලෙසත් ශ්‍රේෂ්ඨාධිකරණය දින නියම කළේය.
+The petition was called before the three-member Supreme Court Judge Mrs. Surren Surasena, Kumuduni Wickramasinghe and Janaka de Silva.
+
+Kumudani Wickramasinghe and Janaka de Silva, who was the member judge of the panel of judges, has been asked to remove these petitions.
+
+Accordingly, the Supreme Court paid the day to recall the petition on August 05 to consider the petition.
 
 ◼️
 
 [Data](articles/55ccc46e.json)
 
+[Extended Data](ext_articles/55ccc46e.ext.json)
+
 ---
 
-### කාලගුණයෙන් රතු නිවේදනයක්
+### A red announcement from the weather
 
 *2024-06-27 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198194) · `si`
 
-තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+The Department of Meteorology warns of strong winds and rough seas for the next 24 hours, affecting areas like Typhord Fisheries and Naval communities in the Arabian Sea. Expect heavy showers in Western, Sabaragamuwa, North Western, Trincomalee, Hambantota, and Moneragala districts, with wind speeds of 40-50 km/h from the central hills' western slopes.
 
-අද (27) උදෑසන 3.30ට නිකුත් කර ඇති අදාළ නිවේදනය ඉදිරි පැය 24 සඳහා බලපැවැත්වේ.
+🟩
 
-ඒ අනුව අරාබි මුහුද ප්‍රදේශයේ ක්‍රියාකරන බහුදින ධීවර සහ නාවික ප්‍රජාවන්ට වඩාත් සැලකිලිමත් වන ලෙස ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව දැනුම්දෙයි.
+The Department of Meteorology has issued a warning red announcement of the strong winds and the sea.
 
-මේ හේතුවෙන් ඉතා තද සුළං ඇති විය හැකි බවත් මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බවත් එම දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The relevant announcement issued at 3.30 am today (27) is effective for the next 24 hours.
 
-මේ අතර බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති වන බව ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology has not been concerned about the Typhord Fisheries and Naval communities working in the Arabian Sea.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇති වේ.
+The department announces that strong winds can cause very strong winds and the sea can be very rough.
+
+Meanwhile, the Meteorology Department says that there will be showers in the Western, Sabaragamuwa and North Western provinces.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. There are about 40-50 strong winds.
 
 ◼️
 
 [Data](articles/487712d8.json)
+
+[Extended Data](ext_articles/487712d8.ext.json)
 
 ---
 
@@ -265,6 +317,24 @@ On the other hand, South Africa, who won all the tournament in the T -groups and
 [Data](articles/10088012.json)
 
 [Extended Data](ext_articles/10088012.ext.json)
+
+---
+
+### ’நெல் பயிர்ச்செய்கைக்கு இலவச உரம்’
+
+*2024-06-27 01:45:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்-பயிர்ச்செய்கைக்கு-இலவச-உரம்/175-339503) · `ta`
+
+நெற் பயிச்செய்கைக்குத் தேவையான MOP உரத்தை அடுத்த இரண்டு பெரும் போகங்களுக்கு விவசாயிகளுக்கு இலவசமாக வழங்க அரசாங்கம் தீர்மானித்துள்ளதாக விவசாய மற்றும் பெருந்தோட்டக் கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் மஹிந்த அமரவீர இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+விவசாயம் மற்றும் பெருந்தோட்டக் கைத்தொழில் அமைச்சு, இளைஞர் சமூகத்தை விவசாயத்துறைக்கு ஈர்க்கும் வகையில் பல வேலைத்திட்டங்களை ஆரம்பித்துள்ளது. அது தொடர்பில் நாட்டின் 25 மாவட்டங்களை உள்ளடக்கிய 160 கிராமங்களை தெரிவு செய்து இளைஞர் விவசாய தொழில்முனைவோர் கிராமத் திட்டங்களை ஆரம்பிக்க அனைத்து ஏற்பாடுகளும் செய்யப்பட்டுள்ளன.
+
+அதன்படி, ஜூலை 01 ஆம் திகதி முதல் ஜூலை 07ஆம் திகதி வரை இளைஞர் விவசாய தொழில்முனைவோர் கிராமத் திட்டத்தை செயல்படுத்தும் தேசிய வாரமாக அறிவிக்கிறோம். முதற்கட்டமாக ஒவ்வொரு கிராமத்திலும் இந்த வேலைத்திட்டங்களை ஆரம்பிக்க 10 மில்லியன் ரூபா வழங்கப்படவுள்ளது. இதற்காக ஒதுக்கப்பட்ட தொகை 1600 மில்லியன் ரூபாவாகும் என்றார். (a)
+
+◼️
+
+[Data](articles/b4830519.json)
 
 ---
 
@@ -2201,75 +2271,5 @@ I congratulate the secretary and officials of the official credit committee who 
 [Data](articles/79c95bc0.json)
 
 [Extended Data](ext_articles/79c95bc0.ext.json)
-
----
-
-### Employeeship's ban in Athuraviya
-
-*2024-06-26 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198181) · `si`
-
-In Athuraviya, 22 employees were suspended over a cash fraud issue, leading to a temporary staff shortage at the Southern Expressway's Athurugiriya entrance. To compensate, workers from the Galunggigah Interchange were reassigned to manage vehicle charges. The system calculates tolls based on vehicle entries, ensuring operations continue smoothly despite the personnel changes.
-
-🟩
-
-The Southern Expressway to the road was issued today (26) tickets today.
-
-A senior official said that 22 employees worked at the Athurugiriya entrance center on a cash fraud have to deal with the shortage of employees due to the suspension.
-
-However, several employees of the galungiga interchange have been temporarily employed to charge the vehicles leaving for vehicles.
-
-The officer added that the vehicle entered the Southern Expressway to the Southern Expressway from the Athurugiriya is a cash and calculated from the entry of the vehicle.
-
-◼️
-
-[Data](articles/95c81029.json)
-
-[Extended Data](ext_articles/95c81029.ext.json)
-
----
-
-### Petition against minimum daily wage of plantation workers fixed for hearing
-
-*2024-06-26 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/100115/petition-against-minimum-daily-wage-of-plantation-workers-fixed-for-hearing-) · `en`
-
-The petition filed by plantation companies seeking a writ order invalidating the gazette notification issued by the Minister of Labor stipulating a minimum daily wage for plantation workers, has been fixed for hearing on November 08 by the Court of Appeal.
-
-The petition, filed by 21 plantation companies including Agarapatana Plantations Ltd., was taken up for consideration before Justice Sobhitha Rajakaruna today (31).
-
-The petitioners have named 52 individuals including Minister of Labor Manusha Nanayakkara and the Labor Commissioner as respondents of the case.
-
-The petitioning plantation companies point out that the Minister of Labor has issued a gazette notification setting the minimum daily wage of a plantation worker at Rs. 1,350, together with an allowance of Rs. 300 and another allowance of Rs. 80, as minimum wage.
-
-The petitioners claim that the decision taken by the Minister of Labor without consulting them, violates the legal principle of natural justice.
-
-...
-
-[Data](articles/15ee1a3d.json)
-
-[Extended Data](ext_articles/15ee1a3d.ext.json)
-
----
-
-### Grama Niladhari back to strike action
-
-*2024-06-26 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198180) · `si`
-
-Grama Niladhari workers plan a trade union action on 28th, demanding better service minutes and travel allowances, similar to those in 2016, or an increase in allowances without waiting for the budget.
-
-🟩
-
-The Grama Niladhari Association says that the Grama Niladharis will leave and engage in the trade union action tomorrow (28).
-
-Chairman Nandana Ranasinghe said that they had taken this trade verge in addition to the active action of working.
-
-They demand the government and demands that their service minute and increased travel allowance or no increase in the 2016 travel allowance.
-
-The Sri Lanka United Grama Niladhari Union further requests that if any allowances cannot be given until the budget is not given to budget.
-
-◼️
-
-[Data](articles/6c45ff6b.json)
-
-[Extended Data](ext_articles/6c45ff6b.ext.json)
 
 ---

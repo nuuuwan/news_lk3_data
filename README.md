@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 21:54:20**
+As of **2024-06-27 22:07:34**
 
 ## Newspaper Stats
 
@@ -26,33 +26,43 @@ adaderanasinhalalk | 5,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,516 (100.0%) of 32,519 articles have been extended.
+32,519 (100.0%) of 32,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### ඉන්දියානුවන් 60ක් හසුවූ සිද්ධිය ගැන තවත් තොරතුරු
+### More information about the incident that had been harassed 60 Indians
 
 *2024-06-27 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198232) · `si`
 
-මෙරට රැඳීසිටිමින් ඔන්ලයින් හරහා මූල්‍ය ජාවාරම් සිදුකළ ඉන්දීය ජාතිකයන් 60 දෙනෙකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අද (60) පස්වරුවේ අත්අඩංගුවට ගෙන තිබුණි.
+The CID arrested 60 Indians involved in a financial racket through illegal online activities. The operation began with a raid in Hinaticampura, leading to the seizure of 9 laptops, 59 mobile phones, and the arrest of 16 individuals. Further raids resulted in the discovery of 40 computers used in the racket and the arrest of 30 more Indians in Kochchikade, Negombo. Investigations revealed their involvement in accessing India's banned internet pages, indicating a significant financial operation.
 
-මෙරට තුළ රැඳීසිටින ඉන්දීය ජාතිකයන් පිරිසක් නීතිවිරෝධී අයුරින් ඔන්ලයින් හරහා මුල්‍ය ජාවාරමක් සිදුකරන බවට අපරාධ පරීක්ෂණ දෙපාරත්මේන්තුවට තොරතුරක් ලැබී තිබේ.
+🟩
 
-ඒ අනුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාර නියෝජ්‍ය පොලිස්පති රොහාන් ප්‍රේමරත්න මහතාගේ සෘජු අධීක්ෂණය යටතේ එහි අධ්‍යක්ෂ ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී මංගල දෙහිදෙණිය මහතාගේ උපදෙස් මත ඊට අදාළව විමර්ශනයක් ආරම්භ කර තිබුණි.
+The CID has been arrested by the CID today (60) by the CID today (60).
 
-එහි ප්‍රතිඵලයක් ලෙස අද පස්වරුවේ තලංගම, හීනටිකුඹුර ප්‍රදේශයේ නිවසක් විමර්ශන නිලධාරීන් විසින් වටලනු ලැබීය.
+Criminal Investigations Department has received information that a group of Indian nationals who stayed in the country are conducting a financial racket on illegal online.
 
-එහිදී ඉන්දීය ජාතිකයන් 16 දෙනෙකු අත්අඩංගුවට ගැනුණු අතර, ලැප්ටොප් 9ක් හා ජංගම දුරකතන 59ක් විමර්ශන නිලධාරීන් සිය භාරයට ගෙන තිබුණි.
+Accordingly, the Director of the Criminal Inspector General of Police Rohan Premaratne had begun an investigation into the instructions of the Director of Police Mangala Dev Prendeniya.
 
-අනතුරුව මීගමුව, කොච්චිකඩේ ප්‍රදේශයේ පිහිටි සුඛෝපභෝගී නිවසක් ද විමර්ශන නිලධාරීන් පරීක්ෂා කර තවත් ඉන්දීය ජාතිකයන් 30 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+As a result, a house was raided by the Investigation Officers in Hinaticampura area this afternoon.
 
-එහි තිබී ජාවාරම් සඳහා යොදාගත් පරිගණක 40ක් සහා ජංගම දුරකථන 38ක්ද සොයාගෙන ඇත.
+16 Indian nationals were arrested and 9 laptops and 59 mobile phones were taken into custody.
+
+Lifestious house in Kochchikade area, Negombo and 30 other Indian nationals have been arrested.
+
+40 computers used in racket and 38 were found.
+
+Investigations have been obtained on a monthly rent of Rs.
+
+The Criminal Investigation Department officials raided a house in Madiwela
 
 ...
 
 [Data](articles/dec728a4.json)
+
+[Extended Data](ext_articles/dec728a4.ext.json)
 
 ---
 
@@ -74,15 +84,21 @@ However, the General Secretary of the Ceylon Teachers’ Union (CTU) Joseph Stal
 
 ---
 
-### புகையிரத சேவையில் தாமதம்
+### Delay in the train service
 
 *2024-06-27 21:07:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரத-சேவையில்-தாமதம்/175-339543) · `ta`
 
-மீரிகம புகையிரத நிலையத்திற்கு அருகில் உள்ள புகையிரத பாதையில் ஏற்பட்ட கோளாறு காரணமாக பிரதான பாதையில் புகையிரத சேவையில் ஈடுபடும் புகையிரதம் தாமதமாக புறப்பட்டதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது. R
+Train service delay: The Railway Department reported a delay on the main route due to issues near the Meirigama Railway Station.
+
+🟩
+
+The Railway Department said that the train service on the main road was delayed due to a railway line near the Meirigama Railway Station.. Remble
 
 ◼️
 
 [Data](articles/51ebb221.json)
+
+[Extended Data](ext_articles/51ebb221.ext.json)
 
 ---
 
@@ -106,21 +122,27 @@ Accordingly, the first Kumbal Perahera will commence on August 10, 202 and the f
 
 ---
 
-### ஜனாதிபதி ரணில் விக்ரமசிங்க கண்டியில் வழிபாடு
+### President Ranil Wickremesinghe Worship in Kandy
 
 *2024-06-27 21:05:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ரணில்-விக்ரமசிங்க-கண்டியில்-வழிபாடு/175-339542) · `ta`
 
-கண்டிக்கு, இன்று  (27) விஜயம் செய்திருந்த ஜனாதிபதி ரணில் விக்ரமசிங்க, ஸ்ரீ தலதா மாளிகைக்கு சென்று வழிபாடுகளில் ஈடுபட்டார்.
+President Ranil Wickremesinghe visited Kandy, engaging in religious activities including worship at the Sri Dalada House and visiting temples like Sri Selvam Vinayagar Temple. He met with Buddhist leaders Malwathu Mahanayake and Asgiriya Mahanayake, discussing Sri Lanka's economic and financial progress. The President also presented the Kandy City Development Program to the Mahanayaka Theras.
 
-அத்துடன், மல்வத்து  மகாநாயக்க, அஸ்கிரிய மகாநாயக்க ஆகியோரை சந்தித்து ஆசீர்வாதம் பெற்றுக் கொண்டார்.
+🟩
 
-அதன்பின்னர், கட்டுக்கலை ஸ்ரீ செல்வ விநாயகர் ஆலயத்துக்குச் சென்ற ஜனாதிபதி ரணில் விக்ரமசிங்க, அங்கு இடம்பெற்ற சிறப்பு பூஜைகளில் கலந்து கொண்டார். அத்துடன் மீரா மக்கம் பள்ளிவாசலுக்குச் சென்று ஆசீர்வாதம் பெற்றுக் கொண்டார்.
+President Ranil Wickremesinghe, who visited Kandy today (27), visited the Sri Dalada House and engaged in worship.
 
-மல்வத்து மகா விகாரையின் மகாநாயக்க திப்பட்டுவாவே ஸ்ரீ சுமங்கல தேரர் மற்றும்  அஸ்கிரிய மகா விகாரை மகாநாயக்க   வரகாகொட ஸ்ரீ ஞானரத்ன  தேரர் ஆகியோரை சந்தித்து ஆசி பெற்ற ஜனாதிபதி ரணில் விக்கிரமசிங்க, இலங்கை அடைந்துள்ள பொருளாதார மற்றும் நிதி முன்னேற்றம் குறித்து  மகாநாயக்க தேரர்களுக்கு தெளிவுபடுத்தினார். அத்துடன்,  கண்டி நகர அபிவிருத்தி திட்டத்தையும்  மாநாயக்கர்களிடம் கையளித்தார்.. R
+He also met Malwathu Mahanayake and Asgiriya Mahanayake.
+
+President Ranil Wickremesinghe, who visited the Sri Selvam Vinayagar Temple, was attended by special poojas held there.. And Meera went to the schoolgirl and received the blessings.
+
+President Ranil Wickremesinghe, who was blessed with Sri Sumangala Thera and Asgiriya Maha Vihara Mahanayaka Varakagoda Sri Gnanaratne Thera of the Malwathu Maha Viharaya, made it clear to the Mahanayaka Thera on the economic and financial progress of Sri Lanka. He also handed over the Kandy City Development Program to the Manayakas.. Remble
 
 ◼️
 
 [Data](articles/568e3c45.json)
+
+[Extended Data](ext_articles/568e3c45.ext.json)
 
 ---
 

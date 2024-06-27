@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 22:07:34**
+As of **2024-06-27 22:19:43**
 
 ## Newspaper Stats
 
-*Scraped **32,519** Articles*
+*Scraped **32,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,702
 tamilmirrorlk | 3,837
 dailymirrorlk | 4,733
 virakesarilk | 5,056
-adaderanasinhalalk | 5,348
+adaderanasinhalalk | 5,349
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,519 (100.0%) of 32,519 articles have been extended.
+32,519 (100.0%) of 32,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### විධායක සේවා නිලධාරීන්ට විශේෂ දීමනාවක්
+
+*2024-06-27 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198233) · `si`
+
+රාජ්‍ය සේවයේ විධායක සේවා නිලධාරීන්ට මෙතෙක් සේවා කාලය මත පදනම්ව ගෙවන ලද විශේෂ දීමනාව වෙනුවට සේවා කාලය නොසලකා රුපියල් 25,000ක විශේෂ මාසික දීමනාවක් ගෙවීමට තීරණය කර ඇති බව වාර්තා වෙයි.
+
+ශ්‍රී ලංකා පරිපාලන සේවා සංගමයේ සභාපති මහේෂ් ගම්මන්පිල මහතා ඒ බව තහවුරු කළේය.
+
+මෙම දීමනාව ශ්‍රී ලංකා ඉංජිනේරු සේවයේ, ශ්‍රී ලංකා වාස්තු විද්‍යාඥ සේවයේ සහ ශ්‍රී ලංකා මිනින්දෝරු සේවයේ නිලධාරීන්ට ද හිමි වෙයි.
+
+ඊට අදාළ චක්‍රලේඛ විධිවිධාන 2024.07.01 දින සිට ක්‍රියාත්මක වෙන බවද දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/cb8ee588.json)
+
+---
 
 ### More information about the incident that had been harassed 60 Indians
 
@@ -2379,27 +2397,5 @@ The President engaged in progressive discussions on the country’s economic and
 [Data](articles/d10e7883.json)
 
 [Extended Data](ext_articles/d10e7883.ext.json)
-
----
-
-### Two SC judges recuse themselves from Diana Gamage contempt petition
-
-*2024-06-27 10:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100134/two-sc-judges-recuse-themselves-from-diana-gamage-contempt-petition) · `en`
-
-Two Supreme Court judges have recused themselves from considering the contempt of court petition filed against former State Minister Diana Gamage.
-
-The petition, filed by the former chairman of the Weligama Urban Council Rehan Jayawickrema, alleges that Gamage is guilty of contempt for the comments made by her during a press conference following the Supreme Court’s judgment disqualifying her from holding the position of a Member of Parliament.
-
-The petition was taken up before a three-member Supreme Court bench comprising Justices Preethi Padman Surasena, Kumuduni Wickremasinghe, and Janak De Silva yesterday (26).
-
-However, Justices Janak De Silva and Kumuduni Wickremasinghe had announced their decision to recuse themselves from the case.
-
-The Supreme Court has then ordered for the petition to be recalled on August 05.
-
-◼️
-
-[Data](articles/f49d3290.json)
-
-[Extended Data](ext_articles/f49d3290.ext.json)
 
 ---

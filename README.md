@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 09:54:31**
+As of **2024-06-27 10:07:36**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,318
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,398 (100.0%) of 32,401 articles have been extended.
+32,401 (100.0%) of 32,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### දිනකට ජීවිත 7ක් බිලිගන්නා ඛේදවාචකය
+### The tragedy that climbed 7 lives a day
 
 *2024-06-27 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198202) · `si`
 
-මෙරට මාර්ග අනතුරු හේතුවෙන් සිදුවන මරණ වැඩි සංඛ්‍යාවක් යතුරුපැදි අනතුරු බව පොලීසිය පවසයි.
+In Sri Lanka, around 12,000 fatalities occur annually, with road accidents being responsible for one-fourth of these deaths. Motorcycles account for the highest number of fatalities among young riders aged 18 to 28. The Deputy Inspector General of Police highlighted that the primary cause of these accidents is reckless driving.
 
-රථ වාහන දිසාව භාර නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා පවසන්නේ දෛනිකව මාර්ග අනතුරු හේතුවෙන් පුද්ගලයින් 07 දෙනෙකු පමණ මිය යන බවය.
+🟩
 
-කොළඹ පැවති මාධ්‍ය හමුවකට එක්වෙමින් නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා මේ බව සඳහන් කළේය.
+Police say that most of the deaths due to road accidents in the country are motorbikes.
 
-"ලංකාවේ අනතුරුවලින් වසරකට 12,000ක් පමණ මියයනවා. ඒ අතරින් හතරෙන් එකක්ම මාර්ගයේ සිදුවන අනතුරුවලින් මියයන පිරිස. එතකොට ලංකාවේ අනතුරුවලින් දිනකට 7 දෙනෙක්, 8 දෙනෙක් විතර ජීවිතක්ෂයට පත්වෙනවා. එයින් වැඩිපුරම ජීවිතක්ෂයට පත්වෙන්නේ යතුරුපැදිවල පැදිකරුවන් සහ පසුපැදිකරුවන්. ලංකාවේ තරුණ ප්‍රජාව අවුරුදු 18 - 28 ඵලදායි තරුණ ජීවිත අහිමිවෙනවා. පසුගිය වසරේ 2,310 දෙනෙක් මියගිහින් තිබුණා. එතකොට ප්‍රතිශතයක් වශයෙන් 2022 වසරට සාපේක්ෂව 2023 වසරේ මාර්ග රිය අනතුරුවලින් ජීවිත 230ක් බේරාගන්න හැකියාවක් තිබුණා."
+Deputy Inspector General of Police Indika Hapugoda says about seven people die due to road accidents.
 
-මාර්ග අනතුරු වැඩි වීමට ප්‍රධානතම හේතුව බීමත් රිය ධාවනය බව නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා සඳහන් කළේය.
+Speaking at a media briefing in Colombo, DIG Indika Hapugoda was speaking.
+
+"Sri Lanka dies from about 12,000 times a year. The fourth of them dies from accidents. Seventeen, eight people are killed in Sri Lanka's accidents. The most kids are killed by motorcyclists and followers. Sri Lankan youth lost 18 to 28 years of effective. Last year, 2,310 people died. So 2023, 230 lives were saved from 2023 years of road accidents in 2022 as a percentage. "
+
+DIG Indika Hapugoda said the main cause of the road accidents is driving.
 
 ◼️
 
 [Data](articles/e4511f13.json)
+
+[Extended Data](ext_articles/e4511f13.ext.json)
 
 ---
 
@@ -69,6 +75,8 @@ It said this milestone demonstrates the strong progress made by Sri Lanka in sta
 ...
 
 [Data](articles/17a42d8f.json)
+
+[Extended Data](ext_articles/17a42d8f.ext.json)
 
 ---
 
@@ -113,6 +121,8 @@ Also, attendance in many schools was very low, and some students who came to sch
 ...
 
 [Data](articles/3d4993fa.json)
+
+[Extended Data](ext_articles/3d4993fa.ext.json)
 
 ---
 
@@ -1848,7 +1858,7 @@ Once the two sides had reached a final agreement to restructure $ 4.2 billion de
 
 ---
 
-### Sri Lanka signs US$4.8bn Chinese debt deal
+### Sri Lanka signs US$4.2bn Chinese debt deal
 
 *2024-06-26 18:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-signs-us4-8bn-chinese-debt-deal-169710/) · `en`
 

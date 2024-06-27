@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 17:04:48**
+As of **2024-06-27 17:19:15**
 
 ## Newspaper Stats
 
-*Scraped **32,481** Articles*
+*Scraped **32,482** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,67 @@ adaderanalk | 3,698
 tamilmirrorlk | 3,832
 dailymirrorlk | 4,733
 virakesarilk | 5,046
-adaderanasinhalalk | 5,334
+adaderanasinhalalk | 5,335
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,479 (100.0%) of 32,481 articles have been extended.
+32,481 (100.0%) of 32,482 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### අයෙක් අවමංගල්‍ය රථයේ අවසන් ගමන් යැවූ පුද්ගලයා භාරවෙයි
+### Someone in the funeral communeration surrendered
 
 *2024-06-27 16:43:34* · [`adalk`](https://www.ada.lk/breaking_news/අයෙක්-අවමංගල්‍ය-රථයේ-අවසන්-ගමන්-යැවූ-පුද්ගලයා-භාරවෙයි/11-410481) · `si`
 
-අම්බලන්ගොඩ  ආදාදොල  ආවාස වත්ත පදේශයේදී  මළ මිනී පවාහනය කරනු ලබන මෝටර් රථයක් තුළ  කපා කොටා ඝාතනය කර තිබූ මල් ශාලා හිමිකරු ඝාතනය කළා යයි කියන තැනැත්තා අද(27)නීතීඥයකු මාර්ගයෙන් භාරවීමෙන් පසු සැකපිට පශ්න කිරීම සදහා අත් අඩංගුවට ගත් බව අම්බලන්ගොඩ පොලීසිය කියයි.
+A 47-year-old man from the oil estate was arrested for allegedly murdering a florist named Dwarf Dash, whose flower shop, "New Reman," was located in Ambalangoda. The incident occurred on June 25 when the suspect attacked the victim with a sharp weapon after bringing him to the flower shop. The motive behind the killing was reportedly a casual relationship between the suspect and the victim's wife. The suspect will be produced in court tomorrow for further investigation.
 
-සැකකරු විසින් මෙසේ ඝාතනය කොට තිබුණේ තෙල් වත්ත මළවැන්න දකුණ පදිංචි 47  හැවිරිදි  පුද්ගලයකු බවද පොලීසිය කියයි.
+🟩
 
-මේ මල් ශාලා හිමිකරු ඝාතනය කර තිබුණේ ජුනි මස 25 වැනිදා රෑ බවත් මේ ඝාතනය සම්බන්ධයෙන් සැකපිට පශ්න කිරීම සදහා අත් අඩංගුවට ගැනුණේ ඔහුගේම මල් ශාලාවේ සේවය කළ සේවකයකු බවද පොලීසිය කියයි.
+The Karadnegoda Police said that he was arrested by a lawyer who had been assassinated by a lawyer who had been assassinated by a lawyer who had been assassinated by a law-carried out car in Ambalangoda.
 
-සැකකරු වතුගෙදර ආදාදොළ පදේශයේම පදිංචි විසිඅට හැවිරිදි  දෙදරු පියෙක් බවත් මල් ශාලා හිමිකරු සිය භාර්යාව සමග පවත්වාගෙන යතැයි කියන අනියම් සම්බන්ධතාවය මේ ඝාතනයේ හේතුව බව  අනාවරණයවූ බවත් පොලීසිය කියයි.
+The suspect was a 47 year old resident of the oil estate.
 
-ඝාතනයවූ තැනැත්තා අම්බලන්ගොඩ තල්ගස්ගොඩ අම්බලන්ගොඩ ඩිපෝව අසල නිව් රේමන් නමින් මල් ශාලාවක් පවත්වාගෙන යන අයෙක් වන අතර ඔහු එම මල්ශාලාවේ හිමිකරු බවත් පවසන පොලීසිය ඔහුගේ ඝාතකයාද එම මල් ශාලාවේ සේවකයකු ලෙස වැඩකරන අයෙකු බවත් පොලීසිය කියයි.
+The flower owner was killed on June 25 and was arrested for questioning on suspicion of the murder.
+
+The suspect has revealed that the cause of the twenty-eight-year-old dashes of Dwarf, the flower of the flower hall, is the cause of the casual relationship with his wife.
+
+The victim is a flower hall called New Reman in Ambalangoda, Ambalangoda, Ambalangoda
+
+The suspect that the suspect had taken a bangle on June 25 to bring a body to carry a dead person to bring a body, the suspect who had been brought to the area of ​​the flower of the flower of the Bornawatta area on June 25, was assaulted by a sharp weapon.
+
+The suspect was also found in a desolate land in a desolate land, police said to kill the flower hall owner.
 
 ...
 
 [Data](articles/1bed6543.json)
+
+[Extended Data](ext_articles/1bed6543.ext.json)
+
+---
+
+### වාර්තා වෙනස් වෙයි - පන්දු ඕවරයකට ලකුණු 43ක්
+
+*2024-06-27 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198219) · `si`
+
+ඊයේ (26) නිමාවට පත්වූ ප්‍රාන්ත ක්‍රිකට් තරගයකදී වාර්තා රැසක් බිහිවුණි.
+
+ලෙස්ටර්ෂයර් දෙවැනි ඉනිමේ වැඩිම ලකුණු ලාභියා වූයේ ලුවී ෆිලිප් ජේම්ස් නම් ක්‍රීඩකයා ය.
+
+ඔහුගේ ඉනිමේ විශේෂත්වය වූයේ ඔහු ඔලී රොබින්සන් යැවූ එක් ඕවරයකදී ලකුණු 43ක් ලබාගැනීමට සමත් වීමය.
+
+එහිදී ඔහු එම ඕවරයේදී පිළිවෙලින් 6, 6 (නිපන්දුවකි), 4, 6, 4, 6 (නිපන්දුවකි), 4, 6 (නිපන්දුවකි), සහ 1 වශයෙන් ලකුණු 43ක් රැස්කළේය.
+
+එම පන්දු ඕවරය සම්පූර්ණ කිරීමට නිපන්දු 3ක් සමග පන්දු 9ක් යැවීමට රොබින්සන් ට සිදුවිය.
+
+මීට පෙර එංගලන්ත ප්‍රාන්ත තරගාවලියේදී එක් පන්දු ඕවරයකදී වැඩිම ලකුණු සංඛ්‍යාවක් රැස්කිරීමේ වාර්තාව හිමිකරගෙන සිටියේ ලැන්කැෂයර් කණ්ඩායමේ ඇන්ඩෲ ෆ්ලින්ටොෆ් (1998) සහ සරේ ප්‍රාන්තයේ ඩෑන් ලෝරන්ස් (2024) යන දෙදෙනාය.
+
+◼️
+
+[Data](articles/869f4b5e.json)
 
 ---
 
@@ -146,19 +178,25 @@ The conference will be attended by Chinese President Xi Jinping, Prime Minister 
 
 ---
 
-### ගුරු දෙවිවරුනේ හෙට ඉදන් වැඩට එන්න
+### Come to work from tomorrow
 
 *2024-06-27 15:41:28* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-දෙවිවරුනේ-හෙට-ඉදන්-වැඩට-එන්න/11-410480) · `si`
 
-සුවහසක් දරුවන් වෙනුවෙන් හෙටදිනයේ සිට ගුරු දෙවිවරු ලෙස සලකන සියලුම ගුරු මෑණිවරුන්ගෙන් හා පියවරුන්ගෙන් කාරුණිකව සේවයට වර්ථා කරන ලෙස වැඩබලන අධ්‍යපන අමාත්‍යවරයා වහයෙන් ආචාර්යය බන්දුල ගුණවර්ධන මහතා ඉල්ලා සිටියි. පවතින ගුරු වර්ජනය සම්බන්ධයෙන් දැනුවත් කිරීමේ ප්‍රවෘති සාකච්ඡාවකට එක්වෙමින් ඒ්මහතා අද ( 27) රජයේ ප්‍රවෘති දෙපාර්ථමේන්තුවේදී මෙසේ ඉල්ලා සිටින ලදී.
+Bandula Gunawardena urges kindness towards teachers, highlighting the disparity between government and international school education quality despite equal tax contributions.
 
-ජාත්‍යන්තර පාසල් හා අනෙකුත් පුද්ගලික පාසල්වල දරුවන් කිසිදු ගුරු වර්ජනයකින් තොරව අඛණ්ඩව අධ්‍යපන ලබාදීමේ ක්‍රයාවලිය සිදුවන නමුදු ආන්ඩුවට බදුගෙවන දුප්පත් ජනතාවගේ දරුවන්ට අද එම තත්වය අහිමිවී ඇතිබවත් ඒ්මහතා වැඩිදුරටත් කියා සිටියේය.
+🟩
 
-බදු ගෙවන ජනතාවගේ බදු මුදලින් වැටුප් ගෙවන විට වැටුප් ගෙවීම පිලිබද ආණ්ඩුවට  කලහැකි උපරිමය ගුරුවරුන් සඳහා කර ඇති බවත් ඒ් මහතා මෙම අවස්ථාවේදී ප්‍රකාශකර සිටියේය.
+Acting Minister Bandula Gunawardena requests that the teachers and the forefathers are kind to the best of the teacher and fathers who consider the teacher gods for their children.. Attempting to awareness discussion on the prevailing teacher, we have called on the government's news team today (27).
+
+The children of international schools and other private schools have been destroyed without any teacher strike, but the government's children who have been taxed to the government have lost the situation.
+
+He stated that when the tax payments were paid by the tax payments of the tax payments, the government has been given the maximum teachers.
 
 ◼️
 
 [Data](articles/bfa131be.json)
+
+[Extended Data](ext_articles/bfa131be.ext.json)
 
 ---
 
@@ -2375,33 +2413,5 @@ The proposal to this effect submitted by the Justice, Prison Affairs and Constit
 [Data](articles/8e299b1c.json)
 
 [Extended Data](ext_articles/8e299b1c.ext.json)
-
----
-
-### Is South Africa to go to the R20 World Cup final?Afghanistan?
-
-*2024-06-27 01:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/187061) · `ta`
-
-In the R20 World Cup semi-final, South Africa faces Afghanistan, aiming to break its losing streak in such matches. Despite being labeled as the "Unlucky Team," South Africa has dominated in group stages but faltered in finals. Afghanistan, on the rise in international cricket, reached the semis after impressive performances against high-ranked teams. Both sides boast strong batters and bowlers, with key players from each team set to influence the outcome. The match, held at the Trinidad, Turupa Brayan Lara Stadium, promises to be closely contested, with the toss potentially playing a crucial role.
-
-🟩
-
-The first semi -final between South Africa and Afghanistan will begin at 6.00 am at the Trinidad, Turupa Brayan Lara Stadium on Thursday (27).
-
-At the same time, South Africa, who has been branded the Unfortunate Team for the eighth time, has been lucky for the loss of the two -World Cup semi -finals 7 times?Or will Afghanistan have a fortune for the first time?The answer is available on Thursday (27).
-
-Afghanistan's journey towards the semi -finals of the R20 World Cup was wonderful despite the stumbling block.
-
-Afghanistan, which has advanced in the R20 cricket over the past few years, has advanced to the semi -finals of New Zealand and Australia, which has been the highest rankings.
-
-It is not surprising that Afghanistan performed another miracle by beating South Africa at the end of the half.
-
-On the other hand, South Africa, who won all the tournament in the T -groups and Super 8 and all round, is expected to wipe out the misfortune of continuing the final round.
-
-...
-
-[Data](articles/10088012.json)
-
-[Extended Data](ext_articles/10088012.ext.json)
 
 ---

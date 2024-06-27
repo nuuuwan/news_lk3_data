@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 23:54:27**
+As of **2024-06-28 00:06:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,525 (100.0%) of 32,535 articles have been extended.
+32,535 (100.0%) of 32,535 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -344,6 +344,8 @@ India was the first country to assist Sri Lanka with a $1 billion credit line af
 
 [Data](articles/19eef232.json)
 
+[Extended Data](ext_articles/19eef232.ext.json)
+
 ---
 
 ### Coming schools tomorrow - Teacher Societies
@@ -531,6 +533,8 @@ All offered 25 billion rupees of 01 June 2033 bonds were sold at 9.00 percent.
 ◼️
 
 [Data](articles/07edf84f.json)
+
+[Extended Data](ext_articles/07edf84f.ext.json)
 
 ---
 
@@ -802,6 +806,8 @@ Metal scrap is collected by people in small trucks and push carts and taken to l
 
 [Data](articles/bac49865.json)
 
+[Extended Data](ext_articles/bac49865.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes weaker at 305.70/90 to US dollar
@@ -817,6 +823,8 @@ A bond maturing on 15.09.2029 closed at 12.15/30 percent, up from 12.10/25 perce
 ◼️
 
 [Data](articles/4bfa29b6.json)
+
+[Extended Data](ext_articles/4bfa29b6.ext.json)
 
 ---
 
@@ -867,6 +875,8 @@ Sunshine Holdings Plc (down at 63.90) saw the most active volumes traded in the 
 ...
 
 [Data](articles/12c51654.json)
+
+[Extended Data](ext_articles/12c51654.ext.json)
 
 ---
 
@@ -1102,6 +1112,8 @@ Some of Sri Lanka’s teacher and principal unions are protesting wage discrepan
 
 [Data](articles/4a5e0a5b.json)
 
+[Extended Data](ext_articles/4a5e0a5b.ext.json)
+
 ---
 
 ### China went to Mahinda!
@@ -1308,6 +1320,8 @@ Premadasa also claimed that the government has been hiding information and data 
 
 [Data](articles/14dd94d9.json)
 
+[Extended Data](ext_articles/14dd94d9.ext.json)
+
 ---
 
 ### Come to work from tomorrow
@@ -1392,6 +1406,8 @@ As part of the acquisition, Dialog issued 952,694,689 ordinary voting shares by 
 
 [Data](articles/a9504785.json)
 
+[Extended Data](ext_articles/a9504785.ext.json)
+
 ---
 
 ### FAO distributes tool kits to Sri Lanka farmers to encourage GAP adoption
@@ -1407,6 +1423,8 @@ Participants were provided with agriculture kits tailored for a land area of 0.2
 ...
 
 [Data](articles/b417ed27.json)
+
+[Extended Data](ext_articles/b417ed27.ext.json)
 
 ---
 
@@ -1545,6 +1563,8 @@ It will reduce its army cadre by more than 50 percent, he said. Sri Lanka is in 
 ...
 
 [Data](articles/c9b77567.json)
+
+[Extended Data](ext_articles/c9b77567.ext.json)
 
 ---
 

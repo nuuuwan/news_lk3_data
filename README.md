@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 17:55:44**
+As of **2024-06-27 18:13:54**
 
 ## Newspaper Stats
 
-*Scraped **32,486** Articles*
+*Scraped **32,497** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 295
+colombotelegraphcom | 296
 dbsjeyarajcom | 299
 bbccomsinhala | 320
 newsfirstlk | 363
@@ -19,18 +19,98 @@ adalk | 2,882
 adaderanalk | 3,699
 tamilmirrorlk | 3,833
 dailymirrorlk | 4,733
-virakesarilk | 5,046
-adaderanasinhalalk | 5,336
+virakesarilk | 5,054
+adaderanasinhalalk | 5,338
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,485 (100.0%) of 32,486 articles have been extended.
+32,486 (100.0%) of 32,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### பொலிஸார்   அரசஅதிகாரிகளின் ஆதரவுடன் இலங்கையில் மத சிறுபான்மையினருக்கு எதிரான நடவடிக்கைகள் - மதசுதந்திர அறிக்கையில் அமெரிக்கா குற்றச்சாட்டு
+
+*2024-06-27 17:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/187115) · `ta`
+
+பொலிஸார்   அரசஅதிகாரிகளின் ஆதரவுடன் இலங்கையில் மத சிறுபான்மையினருக்கு எதிரான நடவடிக்கைகள் - மதசுதந்திர அறிக்கையில் அமெரிக்கா குற்றச்சாட்டு
+
+இலங்கையில் மதசிறுபான்மையினருக்கு எதிரான வன்முறைகள் தொடர்வதாக தெரிவித்துள்ள அமெரிக்கா இந்த நடவடிக்கைகளிற்கு அரச அதிகாரிகள் ஆதரவளிப்பதாக தகவல்கள் கிடைத்துள்ளதாக தெரிவித்துள்ளது.
+
+2023 ம் ஆண்டு மத சுதந்திரம் தொடர்பான வருடாந்த அறிக்கையில் அமெரிக்கா இதனை தெரிவித்துள்ளது.
+
+உள்ளுர் பெரும்பான்மை மதசமூகத்தின் உறுப்பினர்கள் வன்முறை சம்பவங்களில் ஈடுபட்டதாக தெரிவித்த மதசிறுபான்மையினத்தவர்கள் அவர்களிற்கு அரச அதிகாரிகள் ஆதரவளித்ததாக தெரிவித்தனர்.
+
+பௌத்த கிராமங்களில் கிறிஸ்தவர்கள் தங்கள் நடவடிக்கைகளை நிறுத்தவேண்டும் அல்லது மதவழிபாட்டிற்காக பௌத்தசாசன அமைச்சின் அனுமதியை பெறவேண்டும் என வேண்டுகோள் விடுப்பவர்களிற்கு ஆதரவாக அரசஅதிகாரிகள் செயற்பட்டனர் என கிறிஸ்தவர்களிற்கு எதிரான வன்முறைகளை ஆராய்ந்த ஆய்வாளர்கள் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/8b962fb2.json)
+
+---
+
+### පොහොර සහනාධාරයට රජය ලබාදෙන මුල්‍ය ප්‍රතිපාදන ගැන අලුත් තීරණයක්
+
+*2024-06-27 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198222) · `si`
+
+මින් ඉදිරියට වී වගාව සඳහා පොහොර සහනාධාරය වශයෙන් රජය ලබාදෙන මුල්‍ය ප්‍රතිපාදන කුඹුරු අයිතිකරුවන්ට සහ අඳ ගොවීන්ට පමණක් ලබාදීමට පියවර ගන්නැයි කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා ගොවිජන සංවර්ධන දෙපාර්තමේන්තුවට උපදෙස් දුන්නේය.
+
+පොහොර සහනාධාර මුදල් ගොවි ගිණුම්වලට බැර කිරීමේ දී ඇතැම් කුඹුරු හිමියන් තම කුඹුරු වගාකරන ගොවීන් වගා කන්නයක් පාසා වෙනස් කිරීම නිසා මුදල් ලබාදීමේ දී යම් ප්‍රමාදයන් සිදුවන බව පෙනී ගොස් ඇත.
+
+මෙවර යල කන්නයේ දී රජය විසින් මේ වනවිට රුපියල් බිලියන 5.4ක් පොහොර මිලදී ගැනීම සඳහා ගොවි ගිණුම්වලටම ලබා දී ඇත.
+
+නමුත් ඇතැම් ගොවීන් තවමත් තමන්ට මුදල් නොලැබුනු බවට පැමිණිළි කර ඇත.
+
+මෙම තත්ත්වය සැලකිල්ලට ගෙන කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා අද දින (27) ගොවිජන සංවර්ධන දෙපාර්තමේන්තුවේ නිලධාරින් සමග මේ සම්බන්ධව සාකච්ඡා කර ඇති බව වාර්තා වෙයි.
+
+ඒ අනුව ඇතැම් කුඹුරු අයිතිකරුවන් තම කුඹුරු වගා කරන ගොවීන් කන්නයෙන් කන්නයට මාරුකිරීම නිසා ඔවුන් පිළිබඳ තොරතුරු ලබාගැනීමේ ගැටලුවක් පැන නැගී ඇති බවට ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/b8fd63b3.json)
+
+---
+
+### தமிழகத்தில் மீன்பிடி தொழிலில் ஈடுபட்ட 8 சிறார்கள் மீட்பு : படகு உரிமையாளர்களுக்கு அபராதம்
+
+*2024-06-27 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/187114) · `ta`
+
+தமிழகத்தில் ராமேஸ்வரம் மீன்பிடி துறைமுகத்தில் இருந்து மீன்பிடிக்கச் செல்லும் விசைப்படகில் 18 வயதுக்குட்பட்ட 8 சிறார்கள் தொழிலாளர்களாக பயன்படுத்தப்பட்டமை கண்டுபிடிக்கப்பட்டுள்ளது.
+
+இந்நிலையில், இந்த சிறுவர்கள் மீட்கப்பட்டுள்ளதோடு, படகு உரிமையாளர்களுக்கு அபராதம் விதிக்கப்பட்டதுடன், இந்திய அரசாங்கத்தினால் மானியமாக வழங்கப்படும் டீசல் மற்றும் மீன்பிடி அனுமதிச்சீட்டு இரத்து செய்து உத்தரவிடப்பட்டுள்ளது.
+
+எல்லை தாண்டி இலங்கை கடற்பரப்புக்குள் பிரவேசித்து, மீன்பிடியில் ஈடுபடும் விசைப்படகுகளை இலங்கை கடற்படை சிறைபிடிக்கும்போது சிறார்களும் கைது செய்யப்படுவதாக குற்றச்சாட்டுகள் எழுந்துள்ளன.
+
+அதனடிப்படையில் ராமேஸ்வரம் மீன்பிடி துறைமுகத்தில் இருந்து மீன்பிடிக்கச் செல்லும் மீன்பிடி படகுகளில் சிறார்கள் மீன்பிடித் தொழிலில் பயன்படுத்தப்படுகின்றமை தொடர்பில் ராமேஸ்வரம் மாவட்ட குழந்தைகள் நல அலுவலர், தொழிலாளர் நல வாரியம் மற்றும் மீன்வளத்துறை அதிகாரிகள் கூட்டாக திடீர் சோதனை நடத்தியுள்ளனர்.
+
+...
+
+[Data](articles/4ced058b.json)
+
+---
+
+### ඇහැලියගොඩ විශාල කන්දක් නායයයි
+
+*2024-06-27 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198221) · `si`
+
+ඇහැලියගොඩ ගැටහැත්ත උඩුවක ප්‍රදේශයේ විශාල කන්දක් නායයෑම හේතුවෙන් නිවාස 8ක් මුළුමනින්ම විනාශ වී තිබේ.
+
+අද (27) දහවල් 1ට පමණ මෙම නායයෑම සිදුවී ඇති අතර නායයෑමේ ලක්ෂණ අද උදෑසන සිටම දක්නට ලැබීම හේතුවෙන් නිවාස අවටවූ පවුල්වල පිරිස් ඉවත්වී තිබුණි.
+
+මෙම නායයෑමට ලක්වූ ස්ථානයට පහළින් ගලාබසින ගැටහැති ඔය මුලුමනින්ම හරස්වී ඇති බැවින් ඇළ ඉහළ කොටසට ගංවතුර අවධානමක් ද හටගෙන ඇත.
+
+මේ වනවිට නායයෑම සක්‍රීය වූ ස්ථානයේ පවුල් 48ක පුද්ගලයන් 158 දෙනෙකු ඉවත්කර උඩුවක සිද්ධාර්ථ විදුහලේ රඳවා සිටී.
+
+සහන කටයුතු ඇහැලියගොඩ ප්‍රාදේශීය ලේකම් කාර්යාලය සිදුකරන බව ඇහැලියගොඩ ප්‍රදේශීය ලේකම් එස්. ඒ. දිල්රුක් මහතා පවසයි.
+
+◼️
+
+[Data](articles/b394dc5a.json)
+
+---
 
 ### The IMF says about the agreement caused by Sri Lanka
 
@@ -52,17 +132,73 @@ About $ 10 billion over the agreement will be restructured.
 
 ---
 
-### හෙට වැසි වාර කිහිපයක් පමණයි
+### கடன் மறுசீரமைப்புச் செயற்பாட்டில் பல பிரச்சினைகள் உள்ளன - எதிர்க்கட்சித் தலைவர் சஜித்
+
+*2024-06-27 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/187112) · `ta`
+
+சர்வதேச நாணய நிதியத் திட்டம் மற்றும் கடன் மறுசீரமைப்புத் திட்டங்கள் குறித்து நேற்றைய தினம் பல விடயங்கள் வெளிப்படுத்தப்பட்டன. கடன் மறுசீரமைப்பு செயல்முறை நாட்டிற்கு நன்மை பயக்கும் என்றால், அதற்கு ஆதரவை வழங்குவோம் என்றாலும் நேற்றைய தினம் வெளிப்படுத்தப்பட்ட விடயங்கள் தொடர்பில் சிக்கல் நிலை ஏற்பட்டுள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பிரபஞ்சம் தகவல் தொழிநுட்ப வேலைத்திட்டத்தின் கீழ், 265 ஆவது கட்டமாக 1,177,000 இலட்சம் ரூபா பெறுமதியான ஸ்மார்ட் வகுப்பறை உபகரணங்கள், களுத்தறை, புளத்சிங்கள மதுராவல, ரெமுன மகா வித்தியாலத்திற்கு வழங்கி வைக்கும் நிகழ்வு ஜூன் 27 ஆம் திகதி இடம்பெற்றது.
+
+இதன்போது, பாடசாலை அபிவிருத்தி சங்கத்தினருக்கு ஒரு இலட்சம் ரூபா நிதியுதவியும் வழங்கி வைக்கப்பட்டது.
+
+இந்நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/3a6e3d1e.json)
+
+---
+
+### யாழில் எரிந்த நிலையில் மோட்டார் சைக்கிள் மீட்பு
+
+*2024-06-27 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/187111) · `ta`
+
+யாழ்ப்பாணத்தில் வெற்றுக் காணி ஒன்றில் இருந்து இன்று வியாழக்கிழமை (27) முற்றாக எரிந்த நிலையில் மோட்டார் சைக்கிள் ஒன்று மீட்கப்பட்டுள்ளது.
+
+உடுவில் தெற்கு பிள்ளையார் கோவிலுக்கு அருகில் உள்ள வெற்றுக் காணி ஒன்றில் மோட்டார் சைக்கிள் ஒன்று முற்றாக எரிந்த நிலையில் காணப்படுவதாக, சுன்னாக பொலிஸாருக்கு கிடைக்கப்பெற்ற தகவலின் அடிப்படையில் சம்பவ இடத்திற்கு சென்ற பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+குறித்த மோட்டார் சைக்கிளின் இலக்க தகடு என நம்பப்படும் இலக்க தகடு ஒன்று காணியின் பிறிதொரு இடத்தில் இருந்து மீட்கப்பட்டுள்ளது.
+
+அதேவேளை கடந்த வாரம் கோப்பாய் பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் நள்ளிரவு வேளை வீதியில் வைத்து சுமார் 10 இலட்ச ரூபாய் பெறுமதியான மோட்டார் சைக்கிள் ஒன்று தீயிட்டு கொளுத்தப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0ce20915.json)
+
+---
+
+### Only a few showers tomorrow
 
 *2024-06-27 16:45:15* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-වැසි-වාර-කිහිපයක්-පමණයි/11-410482) · `si`
 
-බස්නාහිර, සබරගමුව හා වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල හා මාතර දිස්ත්‍රික්කවල වැසි වාර කිහිපයක් ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Tomorrow, expect several showers mainly in the Western, Sabaragamuwa, North Western, and some parts of the Central, Southern, Eastern, and Uva provinces. Strong winds of 35-45 km/h are also predicted.
 
-එසේම මධ්‍යම කඳුකරහේ බටහිර බෑවුම් ප්‍රහේශවලත්, උතුරු, උතුරු-මැද හා වයඹ පළාත්වලත් ත්‍රිකුණාමලය හම්බන්තොට හා මොණරාගල දිස්ත්‍රික්කවලත් විටින් විට පැ.කි.මී. (35-45) ක පමණ තද සුළං ඇතිවිය හැකි බවත් එම දෙපාර්තමේන්තුව කියයි.
+🟩
+
+Several spells of showers in the Western, Sabaragamuwa and North Western provinces have occurred in the Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Also, in Trincomalee and Northwestern districts, Trincomalee and Northwestern districts, Trincomalee and Northwestern districts, Trincomalee and Northwestern provinces, Trincomalee and North-Central and Northwestern provinces.. The Department says that strong winds can occur about 35-45.
 
 ◼️
 
 [Data](articles/fa3ec2c4.json)
+
+[Extended Data](ext_articles/fa3ec2c4.ext.json)
+
+---
+
+### ஆசிரியர் சேவை அத்தியாவசிய சேவையாக அறிவிக்கப்படும் - ஜனாதிபதி
+
+*2024-06-27 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/187107) · `ta`
+
+நாட்டின் பிள்ளைகளின் கல்விக்காக ஆசிரியர்கள் காலை வேளையில் பாடசாலைகளில் இருக்க வேண்டியது கட்டாயமானது. ஏதேனும் காரணங்களுக்காக எதிர்வரும் காலங்களில் அவ்வாறு நடக்காமல் இருக்குமாயின் பாடசாலை மாணவர்களின் கல்வியை இழப்பதற்கான சந்தர்ப்பம் உருவாகும் என்பதால், ஆசிரியர் சேவை அத்தியாவசிய சேவையாக அறிவிக்கப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க அறிவித்தார்.
+
+இன்று வியாழக்கிழமை (27) கண்டி - அஸ்கிரிய பீடத்தின் மகாநாயக்க தேரர் ஸ்ரீ வரகாகொட ஞானரதன தேரரை சந்தித்த போது ஜனாதிபதி ரணில் விக்ரமசிங்க இதனை அறிவித்தார்.
+
+◼️
+
+[Data](articles/216fae28.json)
 
 ---
 
@@ -142,6 +278,30 @@ The committee is now awaiting details of a separate agreement that was signed wi
 
 ---
 
+### China went to Mahinda!
+
+*2024-06-27 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/187104) · `ta`
+
+Former Sri Lanka President Mahinda Rajapaksa visited China on a four-day trip, attending a conference marking the 70th anniversary of China's "Five Principles" for peace. The visit includes meetings with Chinese leaders like Premier Li Keqiang and Foreign Minister Wang Yi.
+
+🟩
+
+Former President Mahinda Rajapaksa visited China this morning on Thursday morning on a four -day official visit.
+
+Mahinda Rajapaksa has visited the Foreign Minister's invitation to attend a conference on the 70th anniversary of the publication of five principles for China's peaceful coexistence.
+
+It is expected that Chinese Prime Minister Lee Kiang and External Affairs Minister Wang Yi will meet on the visit.
+
+The conference will be attended by Chinese President Xi Jinping, Prime Minister Lee Kiang, Foreign Minister Wang Yi and many Chinese Communist Party members.
+
+◼️
+
+[Data](articles/d221fbe9.json)
+
+[Extended Data](ext_articles/d221fbe9.ext.json)
+
+---
+
 ### Records change - 43 runs per ball
 
 *2024-06-27 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198219) · `si`
@@ -188,6 +348,40 @@ The Supreme Court had issued this interim order while allowing the hearing of a 
 
 ---
 
+### கெஹலியவின் ரிட் மனு விசாரணை ஒத்திவைப்பு
+
+*2024-06-27 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187106) · `ta`
+
+முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல தாக்கல் செய்த ரிட் மனு இன்று மீண்டும் மேல்முறையீட்டு நீதிமன்றத்தால் விசாரணைக்கு ஒத்திவைக்கப்பட்டது.
+
+குறித்த வழக்கு இன்று (27) விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போது  ஜூலை மாதம் 01ஆம் திகதிக்கு  ஒத்திவைக்கப்பட்டது.
+
+இன்றையதினம் சட்டமா அதிபர் சார்பில் பிரதி சொலிசிட்டர் ஜெனரல் நிர்மலன் விக்னேஸ்வரன் நீதிமன்றத்தில் வாதங்களை முன்வைத்தார்.
+
+மாளிகாகந்த நீதவான் நீதிமன்றத்தினால் தன்னை வழக்கு விசாரணை முடியும் வரை விளக்கமறியலில் வைக்குமாறு பிறப்பிக்கப்பட்ட உத்தரவை இரத்துச் செய்து ஆணை பிறப்பிக்குமாறு கோரி முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல ரிட் மனு தாக்கல் செய்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/5671910b.json)
+
+---
+
+### போதைப்பொருள் குற்றச்சாட்டில் மேலும் 807 பேர் கைது
+
+*2024-06-27 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187108) · `ta`
+
+நாடளாவிய ரீதியில் முன்னெடுக்கப்பட்டு வரும் 'யுக்திய' விசேட சுற்றிவளைப்பு நடவடிக்கையின்போது கடந்த 24 மணித்தியாலத்தில் 807 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இவர்களில் போதைப்பொருள் சார்ந்த குற்றங்களோடு தொடர்புடையவர்கள் 773 பேர் எனவும் குற்றப் பிரிவினரின் பட்டியலில் இடம்பிடித்தவர்கள் 34 பேர் எனவும் பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+
+சந்தேக நபர்களிடமிருந்து 52 கிலோ 616 மில்லிகிராம் ஹெரோயின், 142 கிலோ ஐஸ், 453 மில்லிகிராம் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டன.
+
+◼️
+
+[Data](articles/cf47ab30.json)
+
+---
+
 ### Sri Lankan urged to continue to engage with private creditors to reach deal
 
 *2024-06-27 16:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100144/sri-lankan-urged-to-continue-to-engage-with-private-creditors-to-reach-deal) · `en`
@@ -205,6 +399,20 @@ The OCC said it also expects that the Sri Lankan authorities will continue to en
 [Data](articles/2681be0f.json)
 
 [Extended Data](ext_articles/2681be0f.ext.json)
+
+---
+
+### வெலிமடையில் இடம்பெற்ற பஸ் விபத்தில் 11 பேர் காயம் !
+
+*2024-06-27 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/187109) · `ta`
+
+வெலிமடை அம்பகஸ்தோவ பகுதியில் இன்று வியாழக்கிழமை (27) இரண்டு தனியார் பஸ்கள் மோதி விபத்துக்குள்ளானதில் 11 பேர் காயமடைந்த நிலையில், வெலிமடை பொது வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+வெலிமடை அம்பகஸ்தோவ வீதியின் தரகல பகுதியில் முன்னோக்கிச் சென்று கொண்டிருந்த பஸ் பின்னால் வந்து கொண்டிருந்த மற்றைய பஸ்ஸை மோதி விபத்துக்குள்ளாகியுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/2f13cfb6.json)
 
 ---
 
@@ -237,30 +445,6 @@ President Ranil Wickremesinghe has said that the teachers should remain in schoo
 [Data](articles/edd61ca4.json)
 
 [Extended Data](ext_articles/edd61ca4.ext.json)
-
----
-
-### China went to Mahinda!
-
-*2024-06-27 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/187104) · `ta`
-
-Former Sri Lanka President Mahinda Rajapaksa visited China on a four-day trip, attending a conference marking the 70th anniversary of China's "Five Principles" for peace. The visit includes meetings with Chinese leaders like Premier Li Keqiang and Foreign Minister Wang Yi.
-
-🟩
-
-Former President Mahinda Rajapaksa visited China this morning on Thursday morning on a four -day official visit.
-
-Mahinda Rajapaksa has visited the Foreign Minister's invitation to attend a conference on the 70th anniversary of the publication of five principles for China's peaceful coexistence.
-
-It is expected that Chinese Prime Minister Lee Kiang and External Affairs Minister Wang Yi will meet on the visit.
-
-The conference will be attended by Chinese President Xi Jinping, Prime Minister Lee Kiang, Foreign Minister Wang Yi and many Chinese Communist Party members.
-
-◼️
-
-[Data](articles/d221fbe9.json)
-
-[Extended Data](ext_articles/d221fbe9.ext.json)
 
 ---
 
@@ -758,13 +942,13 @@ Between 1983 and 2009, it is planned to establish a Truth, Integration and Recon
 
 The Supreme Court has issued an interim order preventing the implementation of Gazette notification issued by Wildlife Minister Pavithra Wanniarachchi, which de-gazetted a section of the Vidataltivu Nature Reserve in Wilpattu to allocate it for a prawn farm project.
 
+The Supreme Court issued this order while allowing the hearing of a petition filed by several environmental organizations.
+
+The order stated that this interim order will remain in effect until the hearing of the petition is concluded.
+
 In May, an extraordinary gazette had been issued de-gazetting a section of the Vidataltivu Nature Reserve to set up an aquaculture industrial park.
 
 The aquaculture industrial park will reportedly be used for the farming of various species including marine finfish, crabs and exotic species of shrimp in a Public Private Partnership.
-
-The gazette issued by Minister of Wildlife and Forest Resources Conservation Pavithradevi Wanniarachchi, had noted that the area specified in the appendix of the gazette will no longer be designated as part of the Vidataltivu Nature Reserve.
-
-However, the Center for Environmental Justice (CEJ) had filed a petition with the Supreme Court challenging the government’s decision.
 
 ...
 
@@ -1073,6 +1257,20 @@ A US official said that the US is engaged in intense negotiations with all sides
 [Data](articles/094b7edf.json)
 
 [Extended Data](ext_articles/094b7edf.ext.json)
+
+---
+
+### The Only Way Forward – STEM Research & Development – For A Productive, Future Sri Lanka
+
+*2024-06-27 12:24:22* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-only-way-forward-stem-research-development-for-a-productive-future-sri-lanka/) · `en`
+
+Sri Lanka will have elections soon. In fact, right now, the country is engulfed and is swirling in the vortex of election fervour. People still hold on to the expectation that democracy will hold sway. The daily discourses are dominated by nothing but the most dismal of news – about debt restructuring and how to squander the IMF loan. How unfortunate is that? Notwithstanding those, I want to point out that there is still some hope.
+
+A Nature news item by Benjamin Plackett (2024) reported that ‘by the end of this year, voters in some 65 countries and regions will have gone to the polls. That means close to half of the global population will have had the chance to cast a ballot of some sort, including almost 360 million people across the European Union’. The same article says: ‘Not all of the world’s political procedures will be free and fair, but this year is still expected to represent the biggest manifestation of the democratic process in history’.
+
+...
+
+[Data](articles/9f6b70bc.json)
 
 ---
 
@@ -2147,283 +2345,5 @@ Meanwhile, Sri Lanka United Grama Niladharis Association (SLMC) says.
 [Data](articles/27227397.json)
 
 [Extended Data](ext_articles/27227397.ext.json)
-
----
-
-### An easy target for South Africa
-
-*2024-06-27 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198197) · `si`
-
-In the World Cup final, South Africa defeated Afghanistan. Batting first, Afghanistan scored 56 runs in 56 balls. South Africa's Marco Jansen and Tabraiz Shamsi each took three wickets. South Africa won by 57 runs.
-
-🟩
-
-The match between Afghanistan and South Africa, the finals of the World Cup match will be held.
-
-The Afghan group scored 56 runs for the loss of 56 balls to bat first.
-
-The Marco Jansen and Tabraiz Shamsi took three wickets each for South African team.
-
-South Africa have been able to win the match 57 runs.
-
-◼️
-
-[Data](articles/49dba106.json)
-
-[Extended Data](ext_articles/49dba106.ext.json)
-
----
-
-### Two judges leave the case against Diana
-
-*2024-06-27 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198196) · `si`
-
-Two Supreme Court judges have withdrawn from a case involving Diana Gamage, whose petition challenges the court's decision to dissolve certain posts. The petition was initially presented by a former council chairman and was set to be heard by three judges, including Kumuduni Wickramasinghe and Janaka de Silva, who have now been removed from the case. The Supreme Court has scheduled a session for August 5th to reconsider the petition.
-
-🟩
-
-Two Supreme Court judges have resigned from the submission of the petition filed by Mrs. Diana Gamage, accusing the execution of former state ministers.
-
-The petition was filed by the former Chairman of the Weligama Urban Council, accusing the court's decision to abolish the post of posts.
-
-The petition was called before the three-member Supreme Court Judge Mrs. Surren Surasena, Kumuduni Wickramasinghe and Janaka de Silva.
-
-Kumudani Wickramasinghe and Janaka de Silva, who was the member judge of the panel of judges, has been asked to remove these petitions.
-
-Accordingly, the Supreme Court paid the day to recall the petition on August 05 to consider the petition.
-
-◼️
-
-[Data](articles/55ccc46e.json)
-
-[Extended Data](ext_articles/55ccc46e.ext.json)
-
----
-
-### A red announcement from the weather
-
-*2024-06-27 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198194) · `si`
-
-The Department of Meteorology warns of strong winds and rough seas for the next 24 hours, affecting areas like Typhord Fisheries and Naval communities in the Arabian Sea. Expect heavy showers in Western, Sabaragamuwa, North Western, Trincomalee, Hambantota, and Moneragala districts, with wind speeds of 40-50 km/h from the central hills' western slopes.
-
-🟩
-
-The Department of Meteorology has issued a warning red announcement of the strong winds and the sea.
-
-The relevant announcement issued at 3.30 am today (27) is effective for the next 24 hours.
-
-The Department of Meteorology has not been concerned about the Typhord Fisheries and Naval communities working in the Arabian Sea.
-
-The department announces that strong winds can cause very strong winds and the sea can be very rough.
-
-Meanwhile, the Meteorology Department says that there will be showers in the Western, Sabaragamuwa and North Western provinces.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. There are about 40-50 strong winds.
-
-◼️
-
-[Data](articles/487712d8.json)
-
-[Extended Data](ext_articles/487712d8.ext.json)
-
----
-
-### Heyrasagala village officer arrested by officials of bribery corruption commission
-
-*2024-06-27 05:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187066) · `ta`
-
-A village officer from Heyrasagala was arrested by the Bribery Corruption Commission for allegedly accepting bribes to supply electricity. The arrest followed a complaint by a local woman whose son's house was involved.
-
-🟩
-
-A group of officials of the Bribery Corruption Commission on Wednesday (26) arrested a Heyrazakala village officer in connection with the bribery of a woman.
-
-According to a complaint lodged by a woman living in the Heyrasagala Grama Niladhari, a group of officials of the Bribery Commission have arrested a group of officials and arrested the Grama Niladhari Office.
-
-The village officer has taken the money in connection with the incident of supplying electricity to the house of the woman's son who complained.
-
-◼️
-
-[Data](articles/2e63406d.json)
-
-[Extended Data](ext_articles/2e63406d.ext.json)
-
----
-
-### British High Commissioner who met the Governor of the Northern Province
-
-*2024-06-27 05:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187065) · `ta`
-
-In a meeting between the British High Commissioner to Sri Lanka and the Governor of the Northern Province, discussions covered resettlement, land release, job opportunities, and transportation improvements. The Governor noted progress in resettling 1,500 families and ongoing efforts to release land according to presidential guidelines. He emphasized the importance of foreign visitors securing land rights and highlighted initiatives to create jobs based on qualifications, especially in tourism. The Governor also mentioned plans to expand transport services, including domestic aviation, to benefit the Northern Province.
-
-🟩
-
-Governor of the Northern Province. S.. M.. Charles, including the British High Commissioner to Sri Lanka, met with the Andrew Patrick on Wednesday (26).. The meeting was held at the Governor of the Northern Province.
-
-Discussions were discussed on a number of issues including resettlement, land release, employment opportunities and transport facilities.
-
-The governor said that only 1500 families had to be resettled as the resettlement measures had been completed and the resettlement of them had been taken to resettle them.
-
-The governor said that the land release is being carried out in accordance with the guidelines of the president and that the "Uridu" action plan is being carried out to ensure the land rights of the people.. He also said that people from abroad should visit the country and obtain their land guarantees.
-
-...
-
-[Data](articles/1644b6a1.json)
-
-[Extended Data](ext_articles/1644b6a1.ext.json)
-
----
-
-### President Ranil again ordered to hand over the grazing floor of peacock farmers;Meeting with farmers in the 2nd week of July
-
-*2024-06-27 05:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/187064) · `ta`
-
-President Ranil Wickremesinghe has directed officials to return grazing lands to peacock farmers and expressed interest in personally meeting them during his visit to Batticaloa in early July. He discussed the farmers' challenges with local officials, emphasizing the need to address their demands promptly. Officials assured no agricultural activities would disrupt the farmers' land use, marking an end to the dispute.
-
-🟩
-
-President Ranil Wickremesinghe has once again ordered the relevant state officials to hand over the grazing floor of the peacock farmers.
-
-President Ranil has said that he is also interested in meeting the farmers in person at the moment of visiting Batticaloa for the second week of July.
-
-President Ranil Wickremesinghe met with the Batticaloa Government Agent, the Mahaweli Authority officials and the Forest Department officials at the Presidential Secretariat yesterday.
-
-At this time, the focus was on the struggle of peacock farmers to ensure their grazing grounds.. Farmers were also concerned about the demand issued by the farmers.
-
-He has also questioned the authorities about the implementation of the implementation of the farmers' demand and has been asked to take steps to provide a solution to the matter.
-
-Officials have confirmed that agricultural activities will not be carried out on the pasture ground and the evacuation will be eliminated.
-
-...
-
-[Data](articles/3f65c991.json)
-
-[Extended Data](ext_articles/3f65c991.ext.json)
-
----
-
-### Lesley Craig to the Tamil people to express support for the Samastit solution. S. Gajendran emphasizes
-
-*2024-06-27 04:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187063) · `ta`
-
-Lesley Craig expressed support for the Tamil people, emphasizing the importance of addressing the unresolved ethnic issue in Sri Lanka, which contributes to the country's ongoing political and economic crises. She highlighted the need for a federal solution that ensures the Tamil people's self-determination, criticizing the Sri Lankan government's policies and the implementation of the 13th Amendment to the Constitution. The statement also called for international intervention, including actions by the UN Human Rights Council and the British government, to address human rights violations and support the Tamil cause.
-
-🟩
-
-The Tamil National Ambassador to the Southern Asian Society of the Commonwealth and the British Ambassador to the Commonwealth of the United Nations, the Tamil people who rejected any solution and the support of the Tamils ​​that could never be lost and enjoyed by the Tamil people. Nitran said.
-
-He stated that he stated that he stated that he was speaking on Tuesday night between Lesley Craig, the South Asian region of the Commonwealth Organization and the British Ambassador in Colombo and the Selvarasa Gajendran of the Tamil National People's Front on Tuesday night at the Jetwing Hotel in Jaffna.
-
-The policies that the Sri Lankan government has adopted for the past 75 years and the unresolved ethnic problem are the main reasons for Sri Lanka's current political and economic crises. The economy can never be built without resolving the ethnic problem.
-
-...
-
-[Data](articles/027c58ea.json)
-
-[Extended Data](ext_articles/027c58ea.ext.json)
-
----
-
-### LPL logo, competition table was ranged
-
-*2024-06-27 04:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/187062) · `ta`
-
-The Lanka Premier League (LPL) announced its fifth season, featuring teams like Leica Jevna Kings, Goal Mawels, Dambulla Sixes, Kalambo Strikes, and Kandy Belgons. The tournament starts on July 1st with a match between Goal Mawels and Kandy Belgons at Pallekele. Each team faces off twice in two phases, with 20 matches including finals at Pallekele and Premadasa Stadiums, concluding on July 23rd.
-
-🟩
-
-Sri Lanka Cricket today released the number of teams, teams and competition schedules for the fifth Lanka Premier League chapter organized by Sri Lanka Cricket.
-
-The owners of the current Champions Bilav Kandy Kandy team have been changed to its owners and the name of the team has been changed to Kandy Belgons.
-
-This time Leica Jevna Kings, Goal Mawels, Dambulla Sixes, Kalambo Strikes and Kandy Belgons participate
-
-The Fifth Lanka Premier League Chapter begins with the match between the Goal Mawels and the Kandy Belgons team in Pallekele on July 1.
-
-In the two phases, each team will oppose each other twice.
-
-Five matches will be held at Pallekelle Kandy. The other 15 matches and 4 matches in the final round. The Premadasa Stadium will be held.
-
-The final will be held on July 22 and the 23rd is reserved for the 23rd.
-
-◼️
-
-[Data](articles/9d655e47.json)
-
-[Extended Data](ext_articles/9d655e47.ext.json)
-
----
-
-### Can the presidential election without 'flowers, temples'' can't win?
-
-*2024-06-27 04:02:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd11r2vdkydo) · `si`
-
-Buddhism's influence on Sri Lanka's politics is profound, from its introduction by King Devanampiya Tissa to modern politicians leveraging Buddhist symbols and practices for electoral gains. Historical figures like King Dutugemunu and SWRD. Bandaranaike utilized Buddhist support effectively. However, critics argue that this reliance on religious symbolism for political advantage risks undermining the true principles of Buddhism and could lead to societal decay.
-
-🟩
-
-History testifies that the Devanampiya introduced Buddhism in Tissa since the king of Tissa.
-
-Accordingly, the kings ruled by the kings of Lakdiva have seen that the civilians acted accordingly.
-
-Archaeologists have also pointed out that Buddhism has directly affected the building of a civilized society without a specific religious discipline.
-
-The Constitution of Sri Lanka shall be Buddhist?
-
-The dental relics brought to Sri Lanka about the 4th century BCE later became a symbol of state.
-
-The king controlling the Lakdani relics early in the early days was assigned to a symbol of protecting noonomity.
-
-Meanwhile, the facts of the history sources appear that the monk's direct blessing has been given to King Dutugemunu to unite the country.
-
-King Dutugemunu had a good relationship with the Maha Vihara.
-
-However, many historical analysts think that the Mahavamsa, who is a small space for the Maha Viharaya, who have not been a close role in the Maha Vihara.
-
-...
-
-[Data](articles/8362897d.json)
-
-[Extended Data](ext_articles/8362897d.ext.json)
-
----
-
-### Prolongation
-
-*2024-06-27 02:42:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமா-அதிபரின்-பதவி-நீடிப்பு-பரிந்துரை-நிராகரிப்பு/175-339505) · `ta`
-
-The Constitutional Council voted against extending Attorney Sanjay Rajaratnam's term by 6 months, with only 3 votes in favor out of 8.
-
-🟩
-
-The president's recommendation to extend the tenure of Attorney Sanjay Rajaratnam for a further six months was taken up for a referendum at yesterday's Constitutional Council meeting.
-
-The recommendation was rejected by 5 votes and 3 votes in favor. (A)
-
-◼️
-
-[Data](articles/97364a95.json)
-
-[Extended Data](ext_articles/97364a95.ext.json)
-
----
-
-### Mahajana Eksath Peramuna calls on EC to inform political parties on Presidential poll 2024
-
-*2024-06-27 02:05:24* · [`dailyftlk`](https://www.ft.lk/news/Mahajana-Eksath-Peramuna-calls-on-EC-to-inform-political-parties-on-Presidential-poll-2024/56-763544) · `en`
-
-Mahajana Eksath Peramuna (MEP) yesterday called on the Elections Commission (EC) to inform all political parties on the status and procedures of the upcoming Presidential Election.
-
-MEP General Secretary Attorney at Law Tissa Jayawardena Yapa made this request in writing following a meeting held with Elections Commission Chairman R.M.A.L. Rathnayake and Director-General Saman Sri Rathnayake at the Election Secretariat in Rajagiriya.
-
-In the written request, MEP insisted on informing all political parties regarding the existing Constitutional provisions, legal situation and administrative process concerning the Presidential Election slated for 2024.
-
-The MEP also urged the EC to convene an immediate discussion summoning all political parties to address these matters comprehensively.
-
-◼️
-
-[Data](articles/94a850a7.json)
-
-[Extended Data](ext_articles/94a850a7.ext.json)
 
 ---

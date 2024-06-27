@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 00:52:07**
+As of **2024-06-28 01:04:55**
 
 ## Newspaper Stats
 
-*Scraped **32,536** Articles*
+*Scraped **32,537** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,15 +20,35 @@ adaderanalk | 3,703
 tamilmirrorlk | 3,839
 dailymirrorlk | 4,733
 virakesarilk | 5,059
-adaderanasinhalalk | 5,349
+adaderanasinhalalk | 5,350
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,536 (100.0%) of 32,536 articles have been extended.
+32,536 (100.0%) of 32,537 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-06-28 (Friday)
+
+### ඉන්දියාවෙන් ලකුණු 172ක ඉලක්කයක්
+
+*2024-06-28 00:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198234) · `si`
+
+T20  ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ දෙවන අවසන් පූර්ව තරගය අද (27) පැවැත්වෙයි.
+
+එහි කාසියේ වාසිය දිනාගැනීමට එංගලන්තය සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ඉන්දියාවට ලබාදීමටය.
+
+ඒ අනුව ඉන්දියාව නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 7ක් දැවී ලකුණු 171ක් රැස් කළේය.
+
+තරගය ආරම්භයට පෙර සහ තරගය පැවැත්වෙන අතරතුරත් විටින් විට වර්ෂාවෙන් බාධා එල්ලවී තිබුණි.
+
+◼️
+
+[Data](articles/89bc16d8.json)
+
+---
 
 ### 2024-06-27 (Thursday)
 
@@ -2371,27 +2391,5 @@ He also said jurors saw through Hernandez’s “polished demeanor” during the
 [Data](articles/c65e7b15.json)
 
 [Extended Data](ext_articles/c65e7b15.ext.json)
-
----
-
-### The coach of the cricket team resigns
-
-*2024-06-27 11:49:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/கிரிக்கெட்-அணியின்-பயிற்சியாளர்-இராஜினாமா/44-339525) · `ta`
-
-Chris Silverwood, the English head coach of the Sri Lankan National Cricket Team, has resigned due to personal reasons, amid criticism over the team's performance in the T20 World Cup.
-
-🟩
-
-Chris Silverwood, the head coach of the Sri Lankan National Cricket Team, has resigned from the post, said Sri Lanka Cricket.
-
-Chris Silverwood from England has resigned for personal reasons, Sri Lanka Cricket has said.
-
-Chris Silverwood was also accused of a setback for the Sri Lankan cricket team in the T20 World Cup.
-
-◼️
-
-[Data](articles/c28cd57a.json)
-
-[Extended Data](ext_articles/c28cd57a.ext.json)
 
 ---

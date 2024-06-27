@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 07:01:11**
+As of **2024-06-27 07:24:30**
 
 ## Newspaper Stats
 
-*Scraped **32,377** Articles*
+*Scraped **32,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ adaderanalk | 3,681
 tamilmirrorlk | 3,822
 dailymirrorlk | 4,733
 virakesarilk | 5,023
-adaderanasinhalalk | 5,310
+adaderanasinhalalk | 5,312
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,370 (100.0%) of 32,377 articles have been extended.
+32,377 (100.0%) of 32,379 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### ඩයනාට එරෙහි නඩුවෙන් විනිසුරුවරු දෙදෙනෙක් ඉවත්වෙයි
+
+*2024-06-27 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198196) · `si`
+
+හිටපු රාජ්‍ය ඇමතිනි ඩයනා ගමගේ මහත්මිය අධිකරණයට අපහාසයක් සිදුකර ඇතැයි චෝදනා කරමින් ගොනුකර තිබූ පෙත්සම සලකා බැලීමේ කටයුතුවලින් ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුවරුන් දෙදෙනෙකු ඉවත් වී තිබේ.
+
+පාර්ලිමේන්තු මන්ත්‍රී ධුරය අහෝසි කරමින් ශ්‍රේෂ්ඨාධිකරණය විසින් ප්‍රකාශයට පත් කළ නඩු තීන්දුව සම්බන්ධයෙන් මාධ්‍ය හමුවකදී ප්‍රකාශ කරනු ලැබූ අදහස්වලින් ඩයනා ගමගේ මහත්මිය අධිකරණයට අපහාසයක් සිදුකර ඇතැයි චෝදනා කරමින් වැලිගම නගර සභාවේ හිටපු සභාපති රෙහාන් ජයවික්‍රම මහතා විසින් මෙම පෙත්සම ගොනුකර තිබිණි.
+
+මෙම පෙත්සම ප්‍රීති පද්මන් සූරසේන, කුමුදුනි වික්‍රමසිංහ සහ ජනක් ද සිල්වා යන මහත්ම මහත්මීන්ගේ සමන්විත ත්‍රී පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ ඊයේ (26) කැඳවනු ලැබීය.
+
+එම අවස්ථාවේදී අදාළ විනිසුරු මඩුල්ලේ සාමාජික විනිසුරුවරු වශයෙන් කටයුතු කළ කුමුදුනි වික්‍රමසිංහ සහ ජනක් ද සිල්වා යන මහත්ම මහත්මීන් තමන් මෙම පෙත්සම් සලකා බැලීමේ කටයුතුවලින් ඉවත් වන බව දැනුම් දී තිබේ.
+
+ඒ අනුව අදාළ පෙත්සම සලකා බැලීම සඳහා අගෝස්තු මස 05 වනදා යළි කැඳවන ලෙසත් ශ්‍රේෂ්ඨාධිකරණය දින නියම කළේය.
+
+◼️
+
+[Data](articles/55ccc46e.json)
+
+---
+
+### කාලගුණයෙන් රතු නිවේදනයක්
+
+*2024-06-27 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198194) · `si`
+
+තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+අද (27) උදෑසන 3.30ට නිකුත් කර ඇති අදාළ නිවේදනය ඉදිරි පැය 24 සඳහා බලපැවැත්වේ.
+
+ඒ අනුව අරාබි මුහුද ප්‍රදේශයේ ක්‍රියාකරන බහුදින ධීවර සහ නාවික ප්‍රජාවන්ට වඩාත් සැලකිලිමත් වන ලෙස ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව දැනුම්දෙයි.
+
+මේ හේතුවෙන් ඉතා තද සුළං ඇති විය හැකි බවත් මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බවත් එම දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+මේ අතර බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති වන බව ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇති වේ.
+
+◼️
+
+[Data](articles/487712d8.json)
+
+---
 
 ### Lesley Craig to the Tamil people to express support for the Samastit solution. S. Gajendran emphasizes
 
@@ -314,19 +356,25 @@ The South Indian delegation engaged in various B2B meetings and had meetings wit
 
 ---
 
-### கடும் வெப்பத்தால் உருகிய ஆபிரகாம் லிங்கன்
+### Abraham Lincoln melted by extreme heat
 
 *2024-06-27 01:14:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கடும்-வெப்பத்தால்-உருகிய-ஆபிரகாம்-லிங்கன்/50-339502) · `ta`
 
-அமெரிக்காவில் கடும் வெப்பம் நிலவி வருகிறது. இதனால், அமெரிக்காவின் 16 ஆவது ஜனாதிபதியான ஆபிரகாம் லிங்கனின் மெழுகுச் சிலை உருகியுள்ளது.
+In the U.S., record-breaking heat caused the head of a 6-foot tall wax statue of Abraham Lincoln to melt and warp. Repair work is underway on this outdoor statue.
 
-6 அடி உயரத்தில் உருவாக்கப்பட்டுள்ள அந்தச் மெழுகுச் சிலையின் தலைப்பகுதி வெப்பத்தால் உருகி கீழே வளைந்துள்ளது.
+🟩
 
-திறந்தவெளியில் வைக்கப்பட்டிருந்த ஆபிரகாம் லிங்கன் சிலையின் சேதமடைந்த தலைப் பகுதியை சீரமைக்கும் பணிகள் முன்னெடுக்கப்பட்டுள்ளன. (a)
+There is a heavy heat in the United States. Thus, the wax statue of Abraham Lincoln, the 16th president of the United States, has melted.
+
+The head of the wax statue, which is made of a height of 6 feet, is melted and curved by the heat.
+
+Work on repairing the damaged head of the Abraham Lincoln statue, which was placed in the open air. (A)
 
 ◼️
 
 [Data](articles/571b99f0.json)
+
+[Extended Data](ext_articles/571b99f0.ext.json)
 
 ---
 
@@ -1426,6 +1474,8 @@ The agreements, valued at a combined USD 10 billion, encompass restructuring arr
 
 [Data](articles/81c31c90.json)
 
+[Extended Data](ext_articles/81c31c90.ext.json)
+
 ---
 
 ### 6 crores arrested with golden gel
@@ -2221,45 +2271,5 @@ The Sri Lanka United Grama Niladhari Union further requests that if any allowanc
 [Data](articles/6c45ff6b.json)
 
 [Extended Data](ext_articles/6c45ff6b.ext.json)
-
----
-
-### Foreign Minister Ali Sabry to visit Japan
-
-*2024-06-26 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100114/foreign-minister-ali-sabry-to-visit-japan) · `en`
-
-Sri Lanka’s Minister of Foreign Affairs Ali Sabry is scheduled to undertake an official visit to Japan from 01 July 2024.
-
-The official visit comes following an invitation extended by Japanese Foreign Minister Yoko Kamikawa, according to the Foreign Affairs Ministry.
-
-During this visit, the Foreign Minister is scheduled to engage in bilateral discussions with his Japanese counterpart which will focus on making further progress on the outcome of the latter’s official visit to Sri Lanka in May 2024.
-
-Foreign Minister Sabry will also call on several other dignitaries including Chief Cabinet Secretary of Japan Yoshimasa Hayashi, it added.
-
-The Foreign Minister will be accompanied by senior officials of the Ministry of Foreign Affairs of Sri Lanka.
-
-◼️
-
-[Data](articles/503789f4.json)
-
-[Extended Data](ext_articles/503789f4.ext.json)
-
----
-
-### School teachers and principals to continue strike tomorrow
-
-*2024-06-26 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100113/school-teachers-and-principals-to-continue-strike-tomorrow) · `en`
-
-The General Secretary of the Ceylon Teachers’ Union (CTU) Joseph Stalin says that the teacher-principal trade unions will continue their strike action tomorrow (27) as well, protesting against the firing of tear gas and water cannons to disperse their protest march in Colombo today.
-
-The teacher-principal trade unions engaged in an island-wide trade union action by reporting sick leave today (26) based on several demands. At the same time, the members of the trade union launched a protest in Colombo which commenced from near the Colombo Fort Railway Station.
-
-Police had resorted to using tear gas and water cannons to disperse the protesters near the Lotus Roundabout in Colombo, while they were attempting to march towards the Presidential Secretariat this afternoon.
-
-...
-
-[Data](articles/07b39500.json)
-
-[Extended Data](ext_articles/07b39500.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 13:34:55**
+As of **2024-06-27 13:54:17**
 
 ## Newspaper Stats
 
-*Scraped **32,439** Articles*
+*Scraped **32,443** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ newsfirstlk | 363
 islandlk | 1,802
 economynextcom | 1,887
 dailyftlk | 1,988
-adalk | 2,873
+adalk | 2,875
 adaderanalk | 3,694
 tamilmirrorlk | 3,830
 dailymirrorlk | 4,733
 virakesarilk | 5,030
-adaderanasinhalalk | 5,326
+adaderanasinhalalk | 5,328
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,434 (100.0%) of 32,439 articles have been extended.
+32,439 (100.0%) of 32,443 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### ජූලි මාසයේ 8,000කට ස්ථීර පත්වීම්
+
+*2024-06-27 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198212) · `si`
+
+පළාත් පාලන ආයතනවල තාවකාලික, අනියම්, ආදේශක, කොන්ත්‍රාත් සහ සහන පදනම මත සිටින සේවකයන්ට ස්ථිර විශ්‍රාම වැටුප් සහිත පත්වීම් ලබාදීමට කැබිනට් අනුමැතිය ලැබී ඇත.
+
+ඒ, අග්‍රාමාත්‍ය සහ රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා ඉදිරිපත් කළ අමාත්‍ය මණ්ඩල සංදේශයටකට අනුවය.
+
+මෙමඟින් දිවයින පුරා ප්‍රාදේශීය සභා, නගර සභා, මහනගර සභාවල සේවය කරන තාවකාලික, අනියම්, ආදේශක, කොන්ත්‍රාත් සහ සහන පදනම මත සිටින 8,435 දෙනෙකුට ස්ථිර පත්වීම් ලැබෙයි.
+
+එම පත්වීම් ලිපි කඩිනමින් ලබාදීම සඳහා විශේෂ සාකච්ඡාවක් අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තු සංකීර්ණයේදී පසුගියදා පැවැත්විණි.
+
+ඒ අනුව ජූලි මාසය තුළ එම සියලු පත්වීම් ලිපි ලබාදීමට තීරණය කරන ලදී.
+
+◼️
+
+[Data](articles/b048628e.json)
+
+---
+
+### ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරුත් ඉල්ලා අස්වෙයි
+
+*2024-06-27 13:28:53* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකා-ක්‍රිකට්-කණ්ඩායමේ-ප්‍රධාන-පුහුණුකරුත්-ඉල්ලා-අස්වෙයි/11-410477) · `si`
+
+ශ්‍රී ලංකා ජාතික පිරිමි ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකාර ධුරය දැරූ ක්‍රිස් සිල්වර්වුඩ් මහතා අද (27) සිය ධුරයෙන් ඉල්ලා අස්වීමේ ලිපිය ක්‍රිකට් ආයතනය වෙත ලබාදී  ඇති බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කරයි.
+
+ක්‍රිකට් ආයතනය නිවේදනය කළේ ක්‍රිස් සිල්වර්ඩුඩ් මහතා පෞද්ගලික හේතුවක් මත සිය ධුරයෙන් ඉල්ලා අස්වීමට තීරණය කර ඇති බවයි.
+
+2022 වසරේ මැයි මාසයේ සිට ක්‍රිස් සිල්වර්වුඩ් මහතා ශ්‍රී ලංකා කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ලෙස පත්කෙරුණි.
+
+◼️
+
+[Data](articles/7063c94d.json)
+
+---
+
+### පවිත්‍රාගේ ගැසට්ටුවට එරෙහිව වාරණයක්
+
+*2024-06-27 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198211) · `si`
+
+විල්පත්තුව ආශ්‍රිත වෙඩිතලතිව් රක්ෂිත වනාන්තර කලාපයේ කොටසක් ඉස්සන් වගාව සඳහා වෙන්කරමින් වනජීවි අමාත්‍ය පවිත්‍රා වන්‍යාරච්චි මහත්මිය  විසින් නිකුත් කළ ගැසට් නිවේදනයක් වහාම ක්‍රියාත්මක වීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය අතුරු තහනම් නියෝගයක් නිකුත් කර තිබේ.
+
+පරිසර සංවිධාන කිහිපයක් විසින් ගොනුකළ පෙත්සමක් විභාගයට ගැනීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය මෙම නියෝගය නිකුත් කරනු ලැබීය.
+
+මෙම අතුරු තහනම් නියෝගය පෙත්සම් විභාගය අවසන් වන තෙක් බලපැවැත්වෙන බවත් නියෝගයේ සඳහන් වුණි.
+
+◼️
+
+[Data](articles/a7f36754.json)
+
+---
 
 ### Supreme Court stays degazetting of Vidataltivu reserve
 
@@ -42,27 +94,41 @@ The Supreme Court has issued an interim order preventing the implementation of G
 
 [Data](articles/297d6ad4.json)
 
+[Extended Data](ext_articles/297d6ad4.ext.json)
+
 ---
 
-### සමරිසි පුද්ගලයින්ව කොල්ලකන අමුතුම ජාවාරමක්
+### The oveest racket robbing the people of Samarisi
 
 *2024-06-27 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198210) · `si`
 
-සමරිසි පුද්ගලයන්ට තවත් එවැනිම පුද්ගලයන් හඳුන්වාදෙන බව පවසා පාළු නිවෙසකට ගෙන්වා නිරුවත් කර පහරදී එම දර්ශන අන්තර්ජාලයට මුදාහරින බවට තර්ජනය කර රුපියල් ලක්ෂ ගණනින් කප්පම්ගත් තිදෙනෙකු මිරිහාන මූලස්ථාන පොලිසිය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+Mirihana Police arrested three naked extortionists in Samarisi, claiming to be locals. They were linked to a desolate house where a 39-year-old man from Bandarawela, Nugegoda, was assaulted, stripped, and threatened for a Rs. 100,000 ransom. The victim reported the incident, leading to the arrest of the suspects, who were found with heroin and ice drugs. The operation took place at a two-story house owned by one of the suspect's fathers.
 
-සැකකරුවන් කලකපටන් සංවිධානාත්මකව මෙම කප්පම්ගැනීම සිදුකර ඇති බව පොලීසිය පැවසුවේය.
+🟩
 
-නුගේගොඩ ප්‍රදේශයේ වෙළෙඳසැලක සේවය කරන බණ්ඩාරවෙල ප්‍රදේශයේ පදිංචි 39 හැවිරිදි  පුද්ගලයෙකු  සමරිසි පුද්ගලයන් සම්බන්ධ කරන යෙදුමකට සම්බන්ධ වීමෙන්‍ අනතුරුව පිටකෝට්ටේ, බැද්දගාන වෙහෙරකන්ද ප්‍රදේශයේ පාළු දෙමහල් නිවසකට ඔහුව පුද්ගලයෙකු විසින් ගෙන්වා තිබේ.
+The Mirihana Police have arrested three extortors who were naked and extorted to a desolate house, claiming that they were introduced to Samarises.
 
-එලෙස ගෙන්වාගත් පුද්ගලයාට තිදෙනෙකුගෙන් යුත් කණ්ඩායමක් පහරදී නිරුවත් කර එම දර්ශන වීඩියෝගත කර අන්තර්ජාලයට මුදහරින බවට තර්ජනය කර ඇති බව පොලීසිය පැවසුවේය.
+The suspects have been organized organized organized.
 
-එසේ නොකිරීමට නම් අදාළ පිරිස රුපියල් ලක්ෂයක කප්පම් මුදලක් අදාළ පුද්ගලයාගෙන් ඉල්ලා තිබේ.
+After connecting a 39-year-old man in the Bandarawela area in Nugegoda, a 39 year old resident of the Bandarawela area in Nugegoda has brought him to a desolate two storied house in Badakotte.
 
-පසුව ඔහු ඒ පිළිබඳව මිරිහාන මූලස්ථාන පොලීසියට පැමිණිලි කිරීමෙන් අනතුරුව පොලීසිය ඔහු ලවා දුරකථන ඇමතුමක් අදාළ පිරිසට ලබාදී පවසා ඇත්තේ, මුදල් ලබාගැනීම සඳහා පිටකෝට්ටේ මංසන්දියට පැමිණෙන ලෙසය.
+The victim has been assaulted and naked and threatened to welcome the vision and was threatened to do the Internet.
+
+To do not, the people have asked the person to ask for a ransom of Rs. 100,000.
+
+Later, he had lodged a complaint with the Mirihana Police Police and he had given a telephone call to the group to visit Pitakotte to obtain money.
+
+The suspects were arrested by police officers surrounding the surrounding police.
+
+The police were in their cell phones, the police were found in six people with extortion.
+
+Police have also recovered heroin and ice drugs in the possession of the suspects.
 
 ...
 
 [Data](articles/1cf0037d.json)
+
+[Extended Data](ext_articles/1cf0037d.ext.json)
 
 ---
 
@@ -90,6 +156,8 @@ He ordered the military to be deployed, saying “violence and anarchy” would 
 
 [Data](articles/7de9f82e.json)
 
+[Extended Data](ext_articles/7de9f82e.ext.json)
+
 ---
 
 ### Free MOP fertilizer for paddy cultivation for next two ‘Maha’ seasons
@@ -107,6 +175,8 @@ Addressing the press briefing, the minister further elaborated that the Ministry
 ...
 
 [Data](articles/3f65c32b.json)
+
+[Extended Data](ext_articles/3f65c32b.ext.json)
 
 ---
 
@@ -127,6 +197,8 @@ The seized Indian trawler along with the 10 Indian fishermen were brought to the
 ...
 
 [Data](articles/4f41c697.json)
+
+[Extended Data](ext_articles/4f41c697.ext.json)
 
 ---
 
@@ -871,6 +943,24 @@ Earlier in the day, military units led by General Juan Jose Zuniga, recently str
 [Data](articles/2623b48e.json)
 
 [Extended Data](ext_articles/2623b48e.ext.json)
+
+---
+
+### ඉදිරි මහ කන්න දෙකකට වී වගාවට බන්ඩි පොහොර නොමිලේ
+
+*2024-06-27 08:48:14* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-මහ-කන්න-දෙකකට-වී-වගාවට-බන්ඩි-පොහොර-නොමිලේ/11-410471) · `si`
+
+ජූලි මස 01දා සිට 07දා දක්වා තරුණ කෘෂි ව්‍යවසායකත්ව ගම්මාන වැඩපිළිවෙල ක්‍රියාත්මක කිරීමේ ජාතික සතියක් ප්‍රකාශයට පත් කරන බව කෘෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා සඳහන් කළේය.
+
+ඉදිරි මහ කන්න දෙකක් සඳහා ගොවි ජනතාවට වී වගාවට අවශ්‍ය බන්ඩි (MOP) පොහොර නොමිලේ ලබා දීමට රජය තීරණය කර තිබෙන බව ද අමාත්‍යවරයා පැවසීය.
+
+කෘෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+"කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශය විසින් තරුණ ප්‍රජාව කෘෂි කර්මාන්තයට ආකර්ශනය කර ගැනීම සඳහා වැඩපිළිවෙල රැසක් ආරම්භ කර තිබෙනවා. ඊට අදාළව දිවයිනේ දිස්ත්‍රික්ක 25 ආවරණය වන පරිදි ගම්මාන 160ක් තෝරාගෙන තරුණ කෘෂි ව්‍යවසායකත්ව ගම්මාන ලෙස ව්‍යාපෘති ආරම්භ කිරීමට මේ වනවිට සියලූ කටයුතු සූදානම් කර තිබෙනවා.
+
+...
+
+[Data](articles/436a5670.json)
 
 ---
 
@@ -2157,115 +2247,5 @@ He stated that the necessary formal procedures are currently being implemented.
 [Data](articles/a4d078d3.json)
 
 [Extended Data](ext_articles/a4d078d3.ext.json)
-
----
-
-### Oil refinery makes a government part of the government
-
-*2024-06-26 20:03:46* · [`adalk`](https://www.ada.lk/breaking_news/තෙල්-පිරිපහදුව-රජයට-අයත්-වෙනම-ආයතනයක්-කරයි/11-410467) · `si`
-
-The restructuring of the Ceylon Petroleum Corporation is nearing completion, aiming to enhance fuel quality and efficiency by separating the oil refinery into its own entity. This move also involves adjusting employee numbers and introducing new salary scales. Additionally, discussions have been held regarding the progress of the Trincomalee Oil Tank Terminal, a joint project with the Lanka Fuel Corporation, which includes 61 tanks. The terminal aims to meet the country's energy needs and facilitate exports.
-
-🟩
-
-The Ministry of Energy says that the restructuring of the Ceylon Petroleum Corporation has reached final stage. Accordingly, the oil refinery belonging to the Ceylon Petroleum Corporation as a separate company to increase the fuel standards and increase the capacity to increase the capacity, increase capacity and reducing costs.
-
-It is proposed to make amendment to the need to amend the number of employees of the Ceylon Petroleum Corporation and create new salary ses.
-
-A special discussion was held with the overhead management of the Petroleum Corporation and the Oil Refinery.
-
-Meanwhile, a discussion to review the progress plan of the Trincomalee Oil Tank Terminal and the progress of the program with the management of the Trincomalee Oil Tanks. The company is a joint project of the Petroleum Corporation and Lanka Fuel Corporation and there are 61 tanks.
-
-...
-
-[Data](articles/7adac26c.json)
-
-[Extended Data](ext_articles/7adac26c.ext.json)
-
----
-
-### Special Statement to address the Presidential race
-
-*2024-06-26 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198190) · `si`
-
-President Ranil Wickremesinghe announces significant progress in resolving Sri Lanka's bilateral debt, aiming to pay all loan installments through 2028 under concessionary terms. This move will significantly reduce the country's debt burden, allowing for more efficient use of resources. Additionally, agreements with commercial creditors and foreign bondholders are forthcoming, further easing the economic strain. The statement highlights the resumption of development projects, including railway lines and highways, funded by foreign aid, marking a pivotal moment for Sri Lanka's economic recovery.
-
-🟩
-
-President Ranil Wickremesinghe can watch the race in the above video.
-
-Today is an important day to our country. The talks on bilateral debt reached a final agreement to end today.
-
-With these agreements, we will pay the payment of all bilateral loan installments until 2028.
-
-Then we will have the opportunity to pay off all debt on concessionary conditions.
-
-Next up to agree with Commercial Creditors, including Foreign Bonders.
-
-At 2022, we had to spend 9.2% of GDP to pay foreign debts.
-
-The debt from 2027 to 2032 will now allow less than 4.5% of GDP.
-
-In 2022, the annual gross financial requirements of the government amounted to 34.6% of GDP. It will reduce the less than 13% and 2032 by the agreement.
-
-Sri Lanka was officially stated in April 2022.
-
-All the projects in our country stopped on this. Development work stopped. We can now resume all these projects using foreign funds.
-
-A number of occasional railway line and highway projects will be started.
-
-...
-
-[Data](articles/5510bb6f.json)
-
-[Extended Data](ext_articles/5510bb6f.ext.json)
-
----
-
-### Grama Niladhari removed from duties for 4 days
-
-*2024-06-26 19:54:08* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රාම-නිලධාරීන්-දින-4ක්-රාජකාරීවලින්-ඉවතට/11-410466) · `si`
-
-Grama Niladhari, a key local government official, was absent from duties for four days due to unresolved issues spanning 61 years. This marked his first such absence. The United People's Freedom Alliance (UPFA) met with trade union representatives to address concerns, including past strikes and unresolved issues affecting both the Grama Niladhari and trade unions. Measures are being considered to resolve these longstanding problems.
-
-🟩
-
-The Grama Niladhari UPFA said that this is the first time to leave all duties from the 61 years of issues.
-
-The Alliance (UPFA) retains meet the trade union representatives in the Trade 30 on the 30th evening.. G. Mr. Neththikumara said.
-
-He said that the strike has taken place earlier, he said that there were several duties and delays in the resolution of existing problems.
-
-He said that the course of action will be taken to solve the offending issues related to the Grama Niladhari and trade unions to be prepared and the individual preferred service minister.
-
-◼️
-
-[Data](articles/811b9f33.json)
-
-[Extended Data](ext_articles/811b9f33.ext.json)
-
----
-
-### 'Ranil is the guy'
-
-*2024-06-26 19:51:11* · [`adalk`](https://www.ada.lk/breaking_news/’රනිල්-තමයි-මිනිහා’/11-410465) · `si`
-
-Prasanna Ranatunga, the Chief Organizer and Minister of Urban Development and Housing, clarified that there are no plans to postpone the upcoming presidential election. He emphasized that Mr. Ranil Wickremesinghe, known for his leadership and experience, has been entrusted with leading the nation effectively. Ranatunga criticized opposition parties for their disruptive actions, labeling them as hypocritical and detrimental to the country's progress.
-
-🟩
-
-The Chief Organizer, Urban Development and Housing Minister Prasanna Ranatunga said that there is no preparation of postponement of the presidential election and the present government will do nothing to the constitution.
-
-He said the presidential election was first in terms of the constitution.. The Minister made this observation today (26th) at the media held in Loris Lane.
-
-Mr. Ranil Wickremesinghe has been handed over to the country and has proved that the country has been handed over to the country as a leader with experience and experience.
-
-Ranil said that the man had been built in the public.. The Minister said that the unbearable parties carrying the greetings and the arrangement of strikes is being carried out throughout the country and is the hypocrites that are not infected with the country.
-
-◼️
-
-[Data](articles/93592494.json)
-
-[Extended Data](ext_articles/93592494.ext.json)
 
 ---

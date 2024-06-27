@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 20:19:32**
+As of **2024-06-27 20:35:10**
 
 ## Newspaper Stats
 
-*Scraped **32,510** Articles*
+*Scraped **32,511** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,51 @@ adaderanalk | 3,701
 tamilmirrorlk | 3,835
 dailymirrorlk | 4,733
 virakesarilk | 5,056
-adaderanasinhalalk | 5,344
+adaderanasinhalalk | 5,345
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,508 (100.0%) of 32,510 articles have been extended.
+32,510 (100.0%) of 32,511 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### දෙවන අවසන් පූර්ව තරගයට වැස්සෙන් බාධා
+### හෙට පාසල් එනවා  - ගුරු සංගම්
+
+*2024-06-27 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198229) · `si`
+
+හෙට (28) දින සාමාන්‍ය පරිදි රජයේ සියලු‍‍ම පාසල් පැවැත්වෙන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+
+මේ අතර දිවයිනේ සියලු පාසල්වල ගුරු විදුහල්පතිවරුන් අසනීප නිවාඩු වාර්තාකර සේවයට පැමිණීමෙන් වැළකී අද දෙවැනි දිනටත් වෘත්තීය ක්‍රියාමාර්ගවල නිරත වුණි.
+
+කෙසේවෙතත් ලංකා ගුරු සංගමයේ ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් මහතා අද ප්‍රකාශ කළේ හෙට දවසේ සාමාන්‍ය පරිදි පාසල් අධ්‍යාපන කටයුතු පවත්වාගෙන යෑමට තීරණය කළ බවය.
+
+◼️
+
+[Data](articles/edfe2190.json)
+
+---
+
+### Rain interrupted in the second semi final
 
 *2024-06-27 20:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198228) · `si`
 
-T20  ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ දෙවන අවසන් පූර්ව තරගය අද (27) පැවැත්වෙයි.
+The second T20 World Cup semi-final, scheduled for today at 8 am, faces a challenge due to unexpected rain.
 
-තරගය ශ්‍රී ලංකා වේලාවෙන් අද රාත්‍රී 8ට ආරම්භ කිරීමට නියමිතව තිබුණත් වර්ෂාව හේතුවෙන් තරගයට බාධා එල්ලවී තිබේ.
+🟩
+
+The second semi-final in the T20 World Cup will be held today (27).
+
+The match is to be opened at 8am and the race, despite the rain.
 
 ◼️
 
 [Data](articles/8911ac31.json)
+
+[Extended Data](ext_articles/8911ac31.ext.json)
 
 ---
 
@@ -55,6 +77,8 @@ Sri Lanka Railways has announced delays in train services on the main line due t
 ◼️
 
 [Data](articles/9a4f1957.json)
+
+[Extended Data](ext_articles/9a4f1957.ext.json)
 
 ---
 
@@ -2379,27 +2403,5 @@ DIG Indika Hapugoda said the main cause of the road accidents is driving.
 [Data](articles/e4511f13.json)
 
 [Extended Data](ext_articles/e4511f13.ext.json)
-
----
-
-### India hails Sri Lanka’s debt restructuring pact; reaffirms support to recovery
-
-*2024-06-27 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100133/india-hails-sri-lankas-debt-restructuring-pact-reaffirms-support-to-recovery) · `en`
-
-India on Wednesday welcomed Sri Lanka’s debt restructuring agreement with a group of creditor nations and said it will continue to support the island nation’s economic recovery, including by promoting long-term investments.
-
-India is one of the co-chairs of the Official Creditors Committee (OCC) that was formed in April last year to finalise a plan for restructuring Sri Lanka’s debt.
-
-The Sri Lankan government said it has finalised a long-delayed debt restructuring agreement for USD 5.8 billion with its bilateral lenders, including India and China.
-
-“After several rounds of engagements, the OCC signed the Memorandum of Understanding (MoU) on debt restructuring on June 26,” India’s Ministry of External Affairs (MEA) said.
-
-It said this milestone demonstrates the strong progress made by Sri Lanka in stabilising its economy and moving towards reform and growth.
-
-...
-
-[Data](articles/17a42d8f.json)
-
-[Extended Data](ext_articles/17a42d8f.ext.json)
 
 ---

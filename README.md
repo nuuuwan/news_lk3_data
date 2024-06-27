@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 20:54:01**
+As of **2024-06-27 21:04:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,345
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,511 (100.0%) of 32,513 articles have been extended.
+32,513 (100.0%) of 32,513 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,15 +54,21 @@ However, the General Secretary of the Ceylon Teachers Union Joseph Stalin declar
 
 ---
 
-### හෙට පාසල් පැවැත්වෙන බව අධ්‍යාපන අමාත්‍යාංශය කියයි
+### President says schools tomorrow
 
 *2024-06-27 20:22:48* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-පාසල්-පැවැත්වෙන-බව-අධ්‍යාපන-අමාත්‍යාංශය-කියයි/11-410486) · `si`
 
-හෙට එනම් 2024-06-28 දින සාමාන්‍ය පරිදි රජයේ සියලු‍‍ම පාසල් පැවැත්වෙන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+The Ministry of Education has declared that all government schools will open tomorrow, specifically on April 20th, 2024.
+
+🟩
+
+The Ministry of Education has announced that all government schools will be held tomorrow, tomorrow, 2024-20 days.
 
 ◼️
 
 [Data](articles/ada686fa.json)
+
+[Extended Data](ext_articles/ada686fa.ext.json)
 
 ---
 
@@ -444,19 +450,29 @@ Eheliyagoda Divisional Secretariat Office, Eheliyagoda Divisional Secretariat. i
 
 ---
 
-### පවිත්‍රාගේ ගැසට්ටුවට ශ්‍රේෂ්ඨාධිකරණයෙන් තහනමක්
+### Supreme Court banned for Pavithra's gazette
 
 *2024-06-27 17:21:42* · [`adalk`](https://www.ada.lk/breaking_news/පවිත්‍රාගේ-ගැසට්ටුවට-ශ්‍රේෂ්ඨාධිකරණයෙන්-තහනමක්/11-410484) · `si`
 
-විල්පත්තු වෙඩිතළතිව් රක්ෂිතයෙන් ඉස්සන් ගොවිපොළකට අක්කර 415ක් නිදහස් කරමින් වනජීවී අමාත්‍ය පවිත්‍ර වන්නාරච්චි මහත්මිය නිකුත් කළ ගැසට් නිවේදනය ක්‍රියාත්මක කිරීම වහාම වළකාලමින් ශ්‍රේෂ්ඨාධිකරණය අද  (27) අතුරු තහනම් නියෝගය නිකුත් කළේය.
+The Supreme Court recently lifted a ban on 415 acres within the Wilpattu National Park, reversing a decision made by the Minister of Wildlife Safety and the Environmental Foundation. This reversal came after a petition filed by the Wildlife Safety Association and the Environmental Foundation. The case was heard by justices Preethi Padman Surussena, Shiran Gunaratne, and Achala Wijesinghe, who will issue further orders on November 12th.
 
-ඉස්සන් ගොවිපොළකට රක්‍ෂිත වනයකින් අක්කර 415ක් නිදහස් කරමින් ගැසට් නිවේදනයක් නිකුත් කිරීම සම්බන්ධයෙන් අධිකරණයේ පෙනී සිට කරුණු පැහැදිලි කිරීමට නියම කරමින් වගඋත්තරකාර අමාත්‍ය පවිත්‍රා වන්නිආරච්චි මහත්මිය ඇතුළු වගුඋත්තරකරුවන්ට නොතීසිද නිකුත් කළේය.
+🟩
 
-ගොවිපොළකට අක්කර 415ක් නිදහස් කරමින් වනජීවී අමාත්‍ය පවිත්‍ර වන්නාරච්චි මහත්මිය මැයි 06 වැනිදා නිකුත් කළ ගැසට් නිවේදනය හේතූවෙන් විශාල පරිසර හානියක් වන බව පෙන්වා දෙමින් වනජීවී ආරක්ෂණ සංගමය සහ පාරිසරික පදනම ඉදිරිපත් කළ කරුණු සළකා බැලීමෙන් අනතුරුව මෙම පෙත්සම් විභාගය අවසන් වනතුරු වනජීවී අමාත්‍යවරිය නිකුත් කළ ගැසට් නිවේදනය ක්‍රියාත්මක කිරීම වළකාලමින් අදාළ අතුරු තහනම් නියෝගය නිකුත් කළේය.
+The Supreme Court today released the Attribute Court today (27) at the Annual Assignment of Pure Venarachchi issued by the Wilpattuvila Reserve.
+
+Respondent was released by the respondents and the respondents, on the release of 415 acres of a gazette.
+
+Minister of Wildlife Safety Association and the Environmental Foundation of the Wildlife Sauman Association on May 6, the Wildlife Security Association and the Environmental Foundation, the Gazette Notification issued on May 6, Implement the gazette notification issued by the Minister of WildlifeIssued on the interim injunction order in averted.
+
+The petition was considered by Supreme Court judges Preethi Padman Surussena, Shiran Gunaratne and Achala Welfuli.
+
+Minister of Wildlife Pavithra Wanniarachchi has been named as respondents in the Fundamental Rights Petitions filed by the Wildlife Safety Association and the Environmental Foundation.
 
 ...
 
 [Data](articles/7480b1b3.json)
+
+[Extended Data](ext_articles/7480b1b3.ext.json)
 
 ---
 

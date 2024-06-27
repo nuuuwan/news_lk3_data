@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 05:04:29**
+As of **2024-06-28 05:19:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,350
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,544 (100.0%) of 32,554 articles have been extended.
+32,548 (100.0%) of 32,554 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,23 +56,29 @@ By April 2022 the central bank had borrowed and busted forex to end up with nega
 
 ---
 
-### ’அரசியலமைப்புக்கு புறம்பாக செயற்படாது’
+### Model does not act illegally
 
 *2024-06-28 02:26:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியலமைப்புக்கு-புறம்பாக-செயற்படாது/175-339563) · `ta`
 
-தேர்தலை பிற்போடுவதற்கு அரசாங்கம் ஒருபோதும் அரசியலமைப்பிற்கு புறம்பாக செயற்படாது என அரசாங்க கட்சியின் பிரதான அமைப்பாளரும் அமைச்சருமான பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+The government assures it won't act illegally to conduct elections, prioritizing the constitutional presidential vote to establish stability. Minister Prasanna Ranatunga emphasizes the importance of a stable government amidst national challenges, citing President Ranil Wickremesinghe's efforts to stabilize the country post-Easter attacks and COVID-19. The minister addresses debates over election timing and criticizes opposition strikes, highlighting the government's commitment to holding elections legally and maintaining national unity.
 
-நிலையான அரசாங்கத்தை அமைப்பதற்கு முதலில் அரசியலமைப்பு ரீதியிலான ஜனாதிபதித் தேர்தல் நடத்தப்படும் என அமைச்சர் குறிப்பிட்டார். அடுத்த வருடம் பொதுத் தேர்தல் நடத்தப்படும் என்றும் அமைச்சர் தெரிவித்தார்.
+🟩
 
-இரண்டு வருடங்களுக்கு முன்னர் ஸ்திரமற்ற நிலையில் இருந்த நாட்டை தற்போதைய ஜனாதிபதியால் ஸ்திரப்படுத்த முடிந்துள்ளதாகவும் அதனால் தான் ஜனாதிபதி ரணில் விக்கிரமசிங்க மீது மக்கள் நம்பிக்கை வைத்துள்ளதாகவும் அமைச்சர் கூறினார்.
+Prasanna Ranatunga, the chief organizer and minister of the state party, said the government would never act illegally to the constitution for the posting of the election.
 
-கொழும்பில் புதன்கிழமை (26) பிற்பகல் நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்ட அமைச்சர் பிரசன்ன ரணதுங்க இதனைத் தெரிவித்தார்.
+The Minister said that the constitutional presidential election would be held first to form a stable government. The minister said the general election would be held next year.
 
-தேர்தல் ஒத்திவைக்கப்படுமா என்ற விவாதம் நாட்டில் நிலவி வருகிறது. அத்துடன், பொதுத் தேர்தலா அல்லது ஜனாதிபதித் தேர்தலா என்பது குறித்தும் கலந்துரையாடப்படுகிறது.
+The Minister said that the current president had been able to stabilize the country which was instability two years ago and that's why people have confidence in President Ranil Wickremesinghe.
+
+Minister Prasanna Ranatunga made this statement at a media briefing held in Colombo on Wednesday afternoon.
+
+There is a debate on whether the election will be postponed. It is also discussed whether the general election or the presidential election.
 
 ...
 
 [Data](articles/ec2f4957.json)
+
+[Extended Data](ext_articles/ec2f4957.ext.json)
 
 ---
 
@@ -194,59 +200,85 @@ Meanwhile, not going to work on weekends and special state holidays. The Grama N
 
 ---
 
-### நடப்பு சம்பியன் இங்கிலாந்தை வீழ்த்தி இறுதிப் போட்டியில் நுழைந்தது அங்குரார்ப்பண ரி20 உலக சம்பியன் இந்தியா
+### Current Champion defeated England and entered the final
 
 *2024-06-28 01:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/187133) · `ta`
 
-கயானா ப்ரொவிடன்ஸ் விளையாட்டரங்கில் வியாழக்கிழமை (27) நடைபெற்ற நடப்பு சம்பியன் இங்கிலாந்துக்கு எதிரான இரண்டாவது அரை இறுதிப் போட்டியில் 68 ஓட்டங்களால் வெற்றிபெற்ற இந்தியா ஞாயிற்றுக்கிழமை (29) நடைபெறவுள்ள இறுதிப் போட்டியில் தென் ஆபிரிக்காவை எதிர்த்தாடவுள்ளது.
+India, defeating England, advanced to the T20 World Cup final where they'll face South Africa. This victory marks India's third qualification for the finals and their participation in three ICC cricket events within a year. Despite initial struggles, including a rain delay and early losses, India's batting, particularly Rohit Sharma's half-century, and bowling, led by Akshar Patel and Kuldeep Yadav, secured their place in the final.
 
-இந்த வெற்றியுடன் 3ஆவது தடவையாக ரி20 உலகக் கிண்ண இறுதிப் போட்டியில் விளையாட அங்குரார்ப்பண ரி20 உலக சம்பியன் இந்தியா தகுதி பெற்றுள்ளது.
+🟩
 
-அத்துடன் ஒரு வருடத்துக்குள் 3 வகையான ஐசிசி கிரிக்கெட் இறுதி ஆட்டங்களில் விளையாட தகுதிபெற்ற அணி என்ற பெருமையையும் இந்தியா பெறுகிறது.
+India will oppose South Africa in the final of the second semi -final against England by 68 runs in the final of the current champion England on Thursday (27) at the Guyana Provisions Stadium.
 
-இரண்டாவது அரை இறுதிப் போட்டியில் இங்கிலாந்தை சகலதுறைகளிலும் ஒட்டுமொத்தமாக விஞ்சும் வகையில் இந்தியா விளையாடியதை அவதானிக்க முடிந்தது. குறிப்பாக சுழல்பந்துவீச்சிலும் களத்தடுப்பிலும் இந்தியா அசாத்திய திறமையை வெளிப்படுத்தியது.
+With this victory for the third time, the World Champion India has qualified to play in the T20 World Cup final.
 
-அத்துடன் அணித் தலைவர் ரோஹித் ஷர்மாவின் அரைச் சதமும் இந்தியாவின் வெற்றிக்கு அடிகோலியிருந்தது.
+India also holds the distinction of being a qualified team to play in 3 types of ICC cricket within a year.
+
+In the second semi -finals, India could not observe India in all sectors. India, especially in spinning and fielding, showed an impossible talent.
+
+Also, the half -century of team captain Rohit Sharma was a hit for India's victory.
+
+In the second semi -finals, which started with the rain for about 75 minutes, India were first invited to bat first and scored 171 runs for the loss of 7 wickets in 20 overs.
+
+When India lost 2 wickets in 8 overs and scored 65 runs again, the game was suspended for another 75 minutes.
 
 ...
 
 [Data](articles/92c8aa1c.json)
 
+[Extended Data](ext_articles/92c8aa1c.ext.json)
+
 ---
 
-### மதத் தளங்களுக்கு ஜனாதிபதி பயணம் செய்து ஆசி பெற்றார்!
+### The President traveled to religious sites and blessed!
 
 *2024-06-28 01:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/187132) · `ta`
 
-பிள்ளைகளின் கல்விக்காக காலை வேளையில் ஆசிரியர்கள் பாடசாலைகளில் இருக்க வேண்டியது கட்டாயமானது என்றும், எதிர்வரும் நாட்களில் அவ்வாறு நடக்காமல் போனால் ஆசிரியர் சேவை அத்தியாவசிய சேவையாக அறிவிக்கப்படும் என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க அறிவித்தார்.
+President Ranil Wickremesinghe emphasized the importance of teachers being present in schools for child education, threatening to declare the Teacher Service an essential service if they don't comply. He visited religious sites, including the historic Kandy Dalada House, and discussed various national development programs and salary increases for public servants.
 
-அஸ்கிரிய பீடத்தின் மகாநாயக்க தேரர் ஸ்ரீ வரகாகொட ஞானரதன தேரரை வியாழக்கிழமை (27) சந்தித்து கலந்துரையாடிய போதே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+🟩
 
-ஆசிரியர்களும், அதிபர்களும் பிள்ளைகளின் எதிர்காலத்திற்கு முன்மாதிரியாக செயற்பட வேண்டும் எனவும், அவர்கள் போராட்டங்களிலும், வேலைநிறுத்தங்களிலும் ஈடுபடும் போது, எதிர்காலத்தில் பிள்ளைகளுக்கு அவர்களால் எவ்வாறு அறிவுரைகளையும் வழிகாட்டல்களையும் வழங்க முடியும் என சிந்திக்க வேண்டுமெனவும் ஜனாதிபதி வலியுறுத்தினார்.
+President Ranil Wickremesinghe announced that teachers should be in school in the morning for the education of the children and that if it does not happen in the coming days, the Teacher Service will be declared an essential service.
 
-ஒட்டுமொத்தமாக ஆசிரியர் சேவையிலிருக்கும் சகலரும் இந்த ஆர்ப்ப்பாட்டத்தில் பங்கெடுக்கவில்லை என்றும் அரசியல் சார்ந்தவர்களே இதில் பங்கெடுத்திருப்பதாக தனக்கு தகவல் கிடைத்திருப்பதாகவும் சுட்டிக்காட்டிய ஜனாதிபதி, இதனால் ஒட்டுமொத்த ஆசிரியர் தொழிலுக்கும் களங்கம் ஏற்படுமெனவும் தெரிவித்தார்.
+The President made this statement while addressing Sri Varakagoda Gnanaradana Thera of the Asgiriya Faculty on Thursday (27).
+
+The President stressed that teachers and principals should act as a role model for the future of the children and that when they engage in struggles and strikes, they should be given advice and guidance to children in the future.
+
+The president pointed out that all of the teacher service as a whole did not participate in the demonstration and that politicians had participated in it, and that the entire teacher business would be tarnished.
+
+The President said that the boycott of the work is only within the Sinhala schools, and that the educational activities of the Tamil, Muslim and private schools are going on as usual.
 
 ...
 
 [Data](articles/d953e24d.json)
 
+[Extended Data](ext_articles/d953e24d.ext.json)
+
 ---
 
-### வண. கரகொட உயங்கோட மைத்ரி மூர்த்தி தேரரைச் சந்தித்து ஆசிர்வாதம் பெற்றார் ஜனாதிபதி
+### Verse. Maithri Murthy met Karagoda Ungoda and blessed the President
 
 *2024-06-28 01:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/187131) · `ta`
 
-பலாங்கொட ஸ்ரீ தர்மானந்த வித்யாயதன பிரிவெனாவுக்கு வியாழக்கிழமை (27) விஜயம் செய்த  ஜனாதிபதி ரணில் விக்ரமசிங்க, ஸ்ரீ அமரபுர மகாசங்க சபைத் தலைவரும் ஸ்ரீலங்கா அமரபுர பீட ராஸ்ஸகல தரப்பு மகாநாயக்க தேரர் வண. கரகொட உயங்கோட மைத்ரி மூர்த்தி தேரரைச் சந்தித்து ஆசிர்வாதம் பெற்றுக்கொண்டார்.
+Maithri Murthy met with President Ranil Wickremasinghe and the head of the Sri Amarapura Mahasanga Council, discussing Sri Lanka's economic progress and plans for a Theravada Buddhist research center in Anuradhapura. The President presented a check, highlighting the importance of respecting teachers' roles and banning union activities during school hours under emergency laws. Present were Minister Manusha Nanayakkara, Sabaragamuwa Provincial Governor Naveen Dissanayake, Senior Advisor Sagala Ratnayake, and Parliamentarian Akila Ellawala.
 
-இலங்கை அடைந்துள்ள பொருளாதார மற்றும் நிதி முன்னேற்றம் தொடர்பில் மகாநாயக்க தேரருக்குத் தெளிவுபடுத்திய ஜனாதிபதி அவரோடு சிறிது நேரம் கலந்தாலோசித்தார்.
+🟩
 
-ஸ்ரீ தம்மானந்த பிரிவெனாவின் மறுசீரமைப்புப் பணிகளுக்காக சப்ரகமுவ மாகாண ஆளுநர் அலுவலகத்தினால் வழங்கப்பட்ட ஒரு மில்லியன் ரூபாவுக்கான காசோலையையும் ஜனாதிபதி இதன்போது கையளித்தார்.
+President Ranil Wickremasinghe, President of Sri Amarapura Mahasanga Council and Sri Lanka Amarapura Peetha Rasakala. Maithri Murthy met the Thera and received the blessings of Karagoda.
 
-"இன்று, தேரவாத பௌத்தத்துக்கு உலகம் முழுவதும் அதிக கேள்வி உள்ளது. அநுராதபுரத்தை மையமாகக் கொண்டு தேரவாத பௌத்தம் தொடர்பான ஆய்வு மையத்தை அமைக்கத் திட்டமிட்டுள்ளோம். அதன்படி, உள்நாடு வெளிநாடுகளில் இருந்து தேரவாத பௌத்தத்தில் ஆர்வமுள்ள அனைவருக்கும் வந்து இந்த மையத்தில் கற்கும் வாய்ப்பு கிடைக்கும்.
+The President, who made clear to Mahanayaka Thera on the economic and financial improvement that Sri Lanka has achieved, consulted with him for a while.
+
+The President also handed over a check for Rs.
+
+"Today, there is a greater questioning of the world for Theravada Buddhism. We are planning to set up the Terana Buddhist Research Center centered around Anuradhapura. Accordingly, everyone who is interested in Theravara Buddhism from abroad will have the opportunity to learn at this center.
+
+A company that inspects Buddhist teachings in California, USA. So you have the opportunity to learn more Buddhism. Such a Buddhist educational center should be created.
 
 ...
 
 [Data](articles/669f80f4.json)
+
+[Extended Data](ext_articles/669f80f4.ext.json)
 
 ---
 

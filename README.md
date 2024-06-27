@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 23:36:37**
+As of **2024-06-27 23:54:27**
 
 ## Newspaper Stats
 
-*Scraped **32,525** Articles*
+*Scraped **32,535** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 299
 bbccomsinhala | 320
 newsfirstlk | 363
 islandlk | 1,802
-economynextcom | 1,890
+economynextcom | 1,900
 dailyftlk | 1,988
 adalk | 2,885
 adaderanalk | 3,702
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,522 (100.0%) of 32,525 articles have been extended.
+32,525 (100.0%) of 32,535 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### மதிலை உடைத்துக் கொண்டு வீட்டுக்குள்சென்ற எரிபொருள் கொள்கலன் வாகன விபத்தில் இருவர் காயம்
+### Two persons injured in a fuel container vehicle accident
 
 *2024-06-27 22:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/187124) · `ta`
 
-திருகோணமலை மாவட்டம், தம்பலகாமம் பொலிஸ் பிரிவுக்குட்பட்ட திருகோணமலை_கண்டி பிரதான வீதியின் 98ம் கட்டை பகுதியில் இடம் பெற்ற வாகன விபத்தில் இருவர் காயமடைந்துள்ளனர்.
+In a tragic accident on the Trincomalee-Kandi road, two individuals aged 50 and 45, both from Madugama, were injured when their fuel transport vehicle crashed into a house near the 98th area. The incident occurred on Thursday evening due to the driver falling asleep.
 
-குறித்த விபத்து சம்பவம் வியாழக்கிழமை (27) மாலை இடம் பெற்றுள்ளது . கொழும்பிலிருந்து திருகோணமலை நோக்கிப் பயணித்த எரிபொருள் கொள்வனவு வாகனமே இவ்வாறு வீட்டு மதிலை உடைத்துக் கொண்டு வீட்டுக்குள் சென்றுள்ளது.
+🟩
 
-நித்திரை  கலக்கம் காரணமாக இவ்விபத்து சம்பவம் இடம் பெற்றுள்ளதாக ஆரம்பக் கட்ட விசாரணை மூலம் தெரியவருகிறது. இதில் எரிபொருள் கொள்கலனைச் செலுத்திய சாரதி வயது (50), உதவியாளர் வயது (45) ஆகிய இருவர் காயமடைந்துள்ளனர். இவர்கள் மதுகம பகுதியைச் சேர்ந்தவர்கள் எனத் தெரியவருகிறது.
+Two persons were injured in a vehicle accident on the 98th area of ​​the Trincomalee -Kandi main road in the Trincomalee district.
+
+The accident took place on Thursday evening (27) evening. The fuel purchase vehicle traveling from Colombo to Trincomalee has broken the house and went into the house.
+
+The preliminary investigation revealed that the incident took place due to sleep. The driver's age (50) and the assistant age (45) were injured in the fuel container.. It is revealed that they belong to the Madugama area.
 
 ◼️
 
 [Data](articles/0e5b58c2.json)
+
+[Extended Data](ext_articles/0e5b58c2.ext.json)
 
 ---
 
@@ -98,27 +104,37 @@ The driver and assistant who paid the fuel container were injured. Thambalakamam
 
 ---
 
-### தேசிய விளையாட்டுப் போட்டி மகளிர் கால்பந்தாட்டம்: அரை இறுதிகளில் மேல், வட மத்திய, வடமேல், சப்ரகமுவ அணிகள்
+### National Sports Competition Women's Football
 
 *2024-06-27 22:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/187123) · `ta`
 
-யாழ்ப்பாணத்தில் வியாழக்கிழமை (27) ஆரம்பமான 48ஆவது தேசிய விளையாட்டுப் போட்டியில் ஓர் அங்கமான மகளிர் கால்பந்தாட்டப் போட்டியில் மேல், வட மத்திய, வடமேல், சப்ரகமுவ ஆகிய மாகாண அணிகள் அரை இறுதிகளில் விளையாட தகுதிபெற்றுள்ளன.
+The 48th National Sports Competition's women's football saw top teams from North Central, North Western, and Sabaragamuwa provinces qualify for the semi-finals, starting in Jaffna. Nine provincial teams competed, with the Eastern Province being eliminated early. Notable matches included North Central Province defeating the Southern Province 3-1, Western Province winning against the Northern Province 5-1, Sabaragamuwa Province beating the Central Province 3-0, and North Western Province triumphing over the Uva Province 3-0. Last year's champions, North Western Province, aims to defend its title, with semi-finals scheduled for Saturday.
 
-இதற்கு முன்னோடியாக யாழ். துரையப்பா விளையாட்டரங்கில் இன்று நடைபெற்ற கால் இறுதிப் போட்டிகளில் இந்த நான்கு அணிகளும் இலகுவாக வெற்றியீட்டின.
+🟩
 
-இவ் வருடப் போட்டியில் 9 மாகாண அணிகளும் பங்குபற்றின. ஒரு போட்டி நீக்கல் போட்டியாக நடத்தப்பட்டு கிழக்கு மாகாணம் நீக்கப்பட்டது.
+Top, North Central, North Western and Sabaragamuwa provincial teams have qualified to play in semi -finals at the 48th National Sports Competition, which began on Thursday (27) in Jaffna.
 
-தென் மாகாணத்துக்கு எதிரான போட்டியில் வட மத்திய மாகாணம் 3 - 1 என்ற கோல்கள் வித்தியாசத்தில் வெற்றிபெற்றது.
+The pioneer of this is Jaffna. The four teams were easily won in the quarter -finals held at the Duraiyappa Stadium today.
 
-வட மாகாணத்துக்கு எதிரான போட்டியில் மேல் மாகாணம் 5 - 1 என்ற கோல்கள் வித்தியாசத்தில் வெற்றிபெற்றது.
+Nine provincial teams participated in this year's competition. A competition was held as a rivalry and the Eastern Province was removed.
 
-மத்திய மாகாணத்துக்கு எதிரான போட்டியில் சப்ரகமுவ மாகாணம் 3 - 0 என்ற கோல்கள் வித்தியாசத்தில் வெற்றிபெற்றது.
+The North Central Province won the match against the Southern Province 3–1.
 
-ஊவா மாகாணத்துக்கு எதிரான போட்டியில் வடமேல் மாகாணம் 3 - 0 என்ற கோல்கள் வித்தியாசத்தில் வெற்றிபெற்றது.
+In the match against the Northern Province, the Western Province won by 5 - 1.
+
+Sabaragamuwa won the match against the Central Province 3 - 0.
+
+The North Western Province won the match against the Uva Province 3 - 0.
+
+In the 47th National Games last year, the North Western Province became a champion in the women's football and won the gold medal and the Western Province won the silver medal.
+
+The semi -finals will be held on Saturday and the finals for the bronze medal.
 
 ...
 
 [Data](articles/6868e32f.json)
+
+[Extended Data](ext_articles/6868e32f.ext.json)
 
 ---
 
@@ -180,23 +196,33 @@ The Criminal Investigation Department officials raided a house in Madiwela
 
 ---
 
-### 102ஆவது தேசிய மெய்வல்லுநர் சம்பியன்ஷிப்பில் சிறந்த வீரர் அருண, சிறந்த வீராங்கனை தருஷி
+### Aruna, best player in the 102nd National Athletic Championship
 
 *2024-06-27 21:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/187122) · `ta`
 
-ஸ்ரீலங்கா அத்லெட்டிக்ஸ் நிறுவனத்தினால் (இலங்கை மெய்வல்லுநர்) தியகம, மஹிந்த ராஜபக்ஷ விளையாட்டரங்கில் நடத்தப்பட்ட 102ஆவது தேசிய மெய்வல்லுநர் சம்பியன்ஷிப்பில் இருபாலாரிலும் அதிசிறந்த மெய்வல்லுநராக 400 மீற்றர் ஓட்ட வீரர் அருண தர்ஷன தெரிவானார்.
+Aruna Darshana won the 102nd National Athletic Championship, securing 1,145 IAAF points in the men's 400m race. He also took home the Wilton Battlee Challenge Cup. Tarushi Karunaratne, with 1088 IAAF points from the women's 800m race, won the Kalambo Kentine Committee Challenge Cup. Dilhani Lakekam, excelling in the throwing tournament, received the Salonbas Challenge Bowl.
 
-கடந்த செவ்வாய்க்கிழமை ஆரம்பமான இப் போட்டி இன்று நிறைவுக்கு வந்ததுடன் 500க்கும் மேற்பட்ட போட்டியாளர்கள் பங்குபற்றினர்.
+🟩
 
-ஆண்களுக்கான 400 மீற்றர் ஓட்டப் போட்டியை 45.51 செக்கன்களில் நிறைவு செய்ததன் மூலம் 1,145 சர்வதேச தரவரிசை (IAAF Points) புள்ளிகளைப் பெற்ற அருண தர்ஷன அதிசிறந்த மெய்வல்லுநருக்கான என். வைரவநாதன் ஞாபகார்த்த சவால் கிண்ணத்தை வென்றெடுத்தார்.
+Aruna Darshana was elected as the highest in the 102nd National Athletic Championships at the Mahinda Rajapaksa Stadium, Diyagama, Sri Lanka Athletics Company (Sri Lanka Athletics).
 
-அத்துடன் ஆண் போட்டியாளர்களில்  அதிசிறந்த மெய்வல்லுநருக்கான தி வில்டன் பாட்லீட் சவால் கிண்ணத்தையும் அருண தர்ஷன வென்றெடுத்தார்.
+The tournament, which began last Tuesday, came to an end today and more than 500 competitors participated.
 
-பெண் போட்டியாளர்களில் அதிசிறந்த வீராங்கனைக்காக வழங்கப்படும் கலம்போ கென்டீன் கொமிட்டி சவால் கிண்ணத்தை இலங்கை பாடசாலைகள் மெய்வல்லுநர் சங்க வீராங்கனை தருஷி கருணாரட்ன வென்றெடுத்தார்.
+Aruna Darshana, who received 1,145 International Rankings (IAAF Points) points by completing the men's 400m race in 45.51 seconds. Vairavanathan won the Memorial Challenge Cup.
+
+Aruna Darshan also won The Wilton Battlee Challenge Cup for the great athlete of the male competitors.
+
+Tarushi Karunaratne won the Kalambo Kentine Committee Challenge Cup bowl for the best player of the female competitors.
+
+Tarushi Karunaratne became the best player with 1088 international rankings by completing the women's 800m race in 2 minutes and 04.22 seconds.
+
+Dilhani Lakekam, who is near the Olympic gate with Tarushi, was selected as the best player in the throwing tournament and awarded the Salonbas Challenge Bowl.
 
 ...
 
 [Data](articles/66b86fa9.json)
+
+[Extended Data](ext_articles/66b86fa9.ext.json)
 
 ---
 
@@ -297,6 +323,26 @@ England won the advantage of the coin, and they decided to bowl first.
 [Data](articles/fa1b5c66.json)
 
 [Extended Data](ext_articles/fa1b5c66.ext.json)
+
+---
+
+### India pledges continuous backing for Sri Lanka’s economic recovery
+
+*2024-06-27 20:34:00* · [`economynextcom`](https://economynext.com/india-pledges-continuous-backing-for-sri-lankas-economic-recovery-169924/) · `en`
+
+ECONOMYNEXT – India has pledged continuous support for Sri Lanka’s economic recovery after the island nation reached formal debt restructuring deal with its bilateral creditors.
+
+Sri Lanka also reached the same deal with Export and Import Bank of China separately after Beijing had negotiations with Colombo government outside the Official Creditors Committee (OCC).
+
+“India will continue to support Sri Lanka’s economic recovery including by promoting long-term investments in its key economic sectors,” India’s External Affairs Ministry said in a statement.
+
+India said the milestone signing the deal after several rounds of engagements, “demonstrates the strong progress made by Sri Lanka in stabilizing its economy and moving towards reform and growth”.
+
+India was the first country to assist Sri Lanka with a $1 billion credit line after the island nation declared bankruptcy in April 2022.
+
+...
+
+[Data](articles/19eef232.json)
 
 ---
 
@@ -469,6 +515,22 @@ This will help the Lanka Premier League tournament is the most competitive, Mr. 
 [Data](articles/1a04e710.json)
 
 [Extended Data](ext_articles/1a04e710.ext.json)
+
+---
+
+### Sri Lanka sells Rs75bn in 2028 to 2033 bonds
+
+*2024-06-27 19:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs75bn-in-2028-to-2033-bonds-169905/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 75 billion rupees in 2028 and 2033 bonds, data from the state debt office showed.
+
+The debt office sold an offered 50 billion rupees of 15 February 2028 at an average yield of 10.75 percent.
+
+All offered 25 billion rupees of 01 June 2033 bonds were sold at 9.00 percent.
+
+◼️
+
+[Data](articles/07edf84f.json)
 
 ---
 
@@ -718,6 +780,46 @@ Eheliyagoda Divisional Secretariat Office, Eheliyagoda Divisional Secretariat. i
 
 ---
 
+### Sri Lanka to impose new trade controls, make free metal scrap exports illegal
+
+*2024-06-27 17:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-impose-new-trade-controls-make-free-metal-scrap-exports-illegal-169880/) · `en`
+
+ECONOMYNEXT – Sri Lanka to plans to clamp down on the exports of metal scrap and make it illegal to export items without navigating through a licensing system, a statement said.
+
+Measures are being taken to ban the export of metal, iron, related equipment and scrap in the country, without a license, a statement from the Finance Ministry said.
+
+In the future, all metal exports should be made only on the recommendations of the Ministry of Industry.
+
+He had made the statement after meeting metal workers, Ministry of Industry buraucrats and Customs officials.
+
+The ban will apply to copper, brash, aluminum, cast iron, white iron and high carbon steels.
+
+It was not mentioned which group of citizens the ministry wanted to give an advantage at the expense of other citizens who will be at a disadvantage with the export control.
+
+Metal scrap is collected by people in small trucks and push carts and taken to larger collectors who pay upfront cash.
+
+...
+
+[Data](articles/bac49865.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 305.70/90 to US dollar
+
+*2024-06-27 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-305-70-90-to-us-dollar-169899/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 305.70/90 to the US dollar on Thursday, down from 305.35/55 to the US dollar on Wednesday, dealers said, while bond yields were up.
+
+A bond maturing on 15.12.2026 closed at 11.00/30 percent, up from 10.70/11.05 percent.
+
+A bond maturing on 15.09.2029 closed at 12.15/30 percent, up from 12.10/25 percent.
+
+◼️
+
+[Data](articles/4bfa29b6.json)
+
+---
+
 ### Supreme Court banned for Pavithra's gazette
 
 *2024-06-27 17:21:42* · [`adalk`](https://www.ada.lk/breaking_news/පවිත්‍රාගේ-ගැසට්ටුවට-ශ්‍රේෂ්ඨාධිකරණයෙන්-තහනමක්/11-410484) · `si`
@@ -741,6 +843,30 @@ Minister of Wildlife Pavithra Wanniarachchi has been named as respondents in the
 [Data](articles/7480b1b3.json)
 
 [Extended Data](ext_articles/7480b1b3.ext.json)
+
+---
+
+### Sri Lanka stocks close down, profit taking seen
+
+*2024-06-27 17:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-profit-taking-seen-169894/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
+
+The broader All Share Index closed down 0.59 percent, or 72.43 points, at 12,188; while the more liquid S&P SL20 Index closed down 0.75 percent, or 27.26 points, at 3,601.
+
+“There’s a lack of confidence among investors due to the uncertainty created around the ISBs,” market participants said.
+
+Clearing activity usually seen around the month end could also have been a factor for the indices to close down, Softlogic Stockbrokers said. “Market sentiment was subdued despite the positive news on the economic front yesterday.
+
+“These being the last trade days of the month and a lot of clearing and margin calls taking place could be one reason for market to close down.
+
+“And there was also some profit taking seen. There was a lot of selling, predominantly by local participants.”
+
+Sunshine Holdings Plc (down at 63.90) saw the most active volumes traded in the day.
+
+...
+
+[Data](articles/12c51654.json)
 
 ---
 
@@ -958,6 +1084,26 @@ The committee is now awaiting details of a separate agreement that was signed wi
 
 ---
 
+### Sri Lanka mulls designating teaching an essential service
+
+*2024-06-27 16:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-mulls-designating-teaching-an-essential-service-169875/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has said steps will be taken to designate teaching as an essential service to ensure the education of children.
+
+Wickremesinghe “emphasized the importance of teachers being present in schools during morning hours to ensure the education of children, warning that if teachers fail to do so depriving students of their education, steps will be taken to designate teaching as an essential service,” the president’s media division quoted him as saying.
+
+Wickremesinghe was reported to have said this during a discussion with the chief prelate of the Asgiri Chapter Warakagoda Sri Gnanarathana Nayaka Thera in Kandy on Thursday.
+
+Declaring a service an ‘essential service‘ seeks to ensure that these services aren’t interrupted, usually by strike action.
+
+Some of Sri Lanka’s teacher and principal unions are protesting wage discrepancies. (Colombo/Jun27/2024)
+
+◼️
+
+[Data](articles/4a5e0a5b.json)
+
+---
+
 ### China went to Mahinda!
 
 *2024-06-27 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/187104) · `ta`
@@ -1146,6 +1292,24 @@ President Ranil Wickremesinghe has said that the teachers should remain in schoo
 
 ---
 
+### Sri Lanka opposition leaders downplay bilateral debt deal announcement
+
+*2024-06-27 15:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-leaders-downplay-bilateral-debt-deal-announcement-169870/) · `en`
+
+ECONOMYNEXT — Both opposition leader Sajith Premadasa and leftist National People’s Power (NPP) leader Anura Kumara Dissanayake have dismissed the announcement of Sri Lanka’s debt deferment agreement with bilateral creditors, pointing instead to negotiations still ongoing with commercial creditors.
+
+Premadasa speaking at an event accused the government of telling “earth-shattering lies”.
+
+“The latest gamble is fooling the people. Earth shattering lies are being told. If you look at this data, no one will accept that our country has come out of bankruptcy. They’re trying to show just the bilateral agreement and claim that we have come out of bankruptcy. There are many types of debt. There has been no definite agreement reached with creditors on international sovereign bonds (ISBs),” he said.
+
+Premadasa also claimed that the government has been hiding information and data relevant to debt restructuring.
+
+...
+
+[Data](articles/14dd94d9.json)
+
+---
+
 ### Come to work from tomorrow
 
 *2024-06-27 15:41:28* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-දෙවිවරුනේ-හෙට-ඉදන්-වැඩට-එන්න/11-410480) · `si`
@@ -1207,6 +1371,42 @@ The deceased has been identified as police arrested in Poddala in Poddala, Galle
 [Data](articles/56e3dd49.json)
 
 [Extended Data](ext_articles/56e3dd49.ext.json)
+
+---
+
+### Sri Lanka’s Dialog Axiata completes acquisition of Bharti Airtel Lanka
+
+*2024-06-27 15:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-dialog-axiata-completes-acquisition-of-bharti-airtel-lanka-169857/) · `en`
+
+ECONOMYNEXT – Sri Lanka telco company Dialog Axiata Plc said it had completed the acquisition of Bharti Airtel
+
+“Dialog has acquired 100% of the issued shares in Airtel Lanka on 26 June 2024,” the company said in a stock exchange filing.
+
+Dialog announced in April it was entering in to a Share Sale Agreement with Bharti Airtel Limited for the acquisition of the entirety of the issued shares of Bharti Airtel Lanka Private Limited (Airtel Lanka).
+
+As part of the acquisition, Dialog issued 952,694,689 ordinary voting shares by way of a share swap to Bharti on Wednesday (26), which amounts to 10.355 percent of the total issued shares of Dialog.
+
+“Airtel Lanka is now a fully owned subsidiary of Dialog, and Dialog aims to amalgamate with Airtel Lanka under the applicable provisions of the Companies Act No. 7 of 2007, with Dialog remaining as the amalgamated company.”
+
+...
+
+[Data](articles/a9504785.json)
+
+---
+
+### FAO distributes tool kits to Sri Lanka farmers to encourage GAP adoption
+
+*2024-06-27 15:19:00* · [`economynextcom`](https://economynext.com/fao-distributes-tool-kits-to-sri-lanka-farmers-to-encourage-gap-adoption-169856/) · `en`
+
+ECONOMYNEXT — The Food and Agriculture Organisation of the United Nations (FAO) has provided agriculture tool kits to over 600 smallholder vegetable farmers in Sri Lanka’s Badulla, Monaragala, and Mullaitivu districts to encourage the adoption of Good Agricultural Practices (GAP), the agency said.
+
+The FAO said in a statement on Thursday June 27 that the initiative had focused on equipping targeted farmers with the tools and knowledge necessary to “effectively adopt modern, climate-resilient approaches to agriculture”.
+
+Participants were provided with agriculture kits tailored for a land area of 0.25 acres. These kits comprised essential components such as drip irrigation systems, plastic mulch, insect-proof nets, and Galvanized Iron (GI) pipes, enabling efficient resource utilisation and cost reduction, the organisation said.
+
+...
+
+[Data](articles/b417ed27.json)
 
 ---
 
@@ -1327,6 +1527,24 @@ When the case was taken for consideration today (27), Deputy Solicitor General N
 [Data](articles/9c4e8b77.json)
 
 [Extended Data](ext_articles/9c4e8b77.ext.json)
+
+---
+
+### Sri Lanka Navy recruiting cadre to safeguard country’s Exclusive Economic Zone
+
+*2024-06-27 14:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-navy-recruiting-cadre-to-safeguard-countrys-exclusive-economic-zone-169846/) · `en`
+
+ECONOMYNEXT – Sri Lanka is recruiting members for its naval force with advertisements calling for applications from cadet entry officers, direct entry artificers, artificers, sailors, and officers.
+
+The government plans to strengthen the navy to safeguard the country’s Exclusive Economic Zone (EEZ) in the Indian Ocean, the island nation’s state defence minister said last month.
+
+“We need to strengthen both navy and the air force. We are in a strategic position globally. Our EEZ is eight times larger than our country. So improving the strength of navy is also our objective,” Pramitha Bandara Tennakoon said.
+
+It will reduce its army cadre by more than 50 percent, he said. Sri Lanka is in the process of reducing a bloated state sector which is estimated at around 1.5 million in a country with 22 million population.
+
+...
+
+[Data](articles/c9b77567.json)
 
 ---
 
@@ -2157,257 +2375,5 @@ However, it was possible to observe that the parents had taken the children they
 [Data](articles/cb1cdc4d.json)
 
 [Extended Data](ext_articles/cb1cdc4d.ext.json)
-
----
-
-### President visit the Dalada House: Blessed
-
-*2024-06-27 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/187081) · `ta`
-
-President Ranil Wickremesinghe visited the historic Sri Dalada House in Kandy, meeting religious leaders including Sri Sumangala Thera and discussing economic progress and the Kandy Urban Development Program.
-
-🟩
-
-President Ranil Wickremesinghe visited the historic Sri Dalada House in Kandy on Thursday morning (27).
-
-President Ranil Wickremesinghe, who visited Kandy, met with Sri Sumangala Thera of the Malwathu Maha Viharaya, Sri Sumangala Thera and Asgiri Maha Vikarai Mahanayaka Varakkoda Sri Gnanaradana Thera.
-
-President Mahanayaka clarified the economic and financial progress in Sri Lanka and handed them over to the Kandy Urban Development Program.
-
-◼️
-
-[Data](articles/1a65a5a1.json)
-
-[Extended Data](ext_articles/1a65a5a1.ext.json)
-
----
-
-### Sri Lanka cricket coach Chris Silverwood resigns
-
-*2024-06-27 11:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-cricket-coach-chris-silverwood-resigns-169813/) · `en`
-
-ECONOMYNEXT – Head coach Chris Silverwood has resigned for personal reasons, Sri Lanka cricket said days after Mahela Jayewardene also left.
-
-“Being an international coach means long periods away from loved ones. After lengthy conversations with my family and with a heavy heart, I feel it is now time for me to return home and spend some quality time together,” Sri Lanka Cricket quoted Silverwood as saying in a statement.
-
-“I would like to thank the players, coaches, backroom staff, and management of the SLC for their support during my time in Sri Lanka. Without your support, none of the success would have been possible
-
-“It has been a real honour for me to be part of Sri Lanka Cricket and I will be taking away many fond memories,” added Silverwood.
-
-Under his tenure, the national team won the T20 Asia Cup in 2022 and also reached the finals of the 50-over Asia Cup in 2023, SLC said. (Colombo/June27/2024)
-
-◼️
-
-[Data](articles/d1475db7.json)
-
-[Extended Data](ext_articles/d1475db7.ext.json)
-
----
-
-### Promotion to the dead naval soldier
-
-*2024-06-27 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198207) · `si`
-
-Indian fishermen arrested for damaging navy property in Sri Lankan waters face prosecution. A naval officer was killed, and his body was returned to his family for burial. The navy plans to promote a senior officer, Sirima, to a higher rank.
-
-🟩
-
-The Navy states that the Indian fishermen will be prosecuted against the Indian fishermen regarding the arrest of a group of Indian fishermen who violate navy property and damaged them.
-
-The Indian fishing vessel was murdered as the Indian fishing vessel was managed by the Indian fishing vessel as the Indian fishing vessel was managed by the Navy.
-
-The Indian fishermen and its fishermen were seized by the Navy and the Navy's fisheries in Sri Lankan waters and prosecuted the navy fisheries and sued the naval property and sued the naval property.It is said.
-
-The post mortem examination of the Jaffna Magistrate has been submitted by the UN Senior Navy.
-
-The remains of the deceased salary have been handed over to relatives yesterday (26) and the funeral is to be done in the Ibbagamuwa area today (27) with full salutation.
-
-The Navy has also said that the Navy has also taken steps to promote Senior Sirima Navy to be promoted as the Senior Sirima Naval Shipping.
-
-◼️
-
-[Data](articles/012ead64.json)
-
-[Extended Data](ext_articles/012ead64.ext.json)
-
----
-
-### Dusk
-
-*2024-06-27 11:27:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவனின்-வயிற்றை-கிழித்த-இரண்டடி-தடி-மீட்பு/175-339524) · `ta`
-
-In Kalmunai, a schoolgirl fell into a palm tree, leading to a rare medical case where a youth was treated for injuries caused by the tree's fall. Despite severe internal damage, including organ lacerations, the youth underwent emergency surgery and is now stable. This unique case highlights the complexity of medical procedures and the dedication of healthcare professionals.
-
-🟩
-
-When the palm tree failed to fall down, there was an incident in Kalmunai that had been recovered in the stomach of a schoolgirl.
-
-The youth who was involved in the accident on the road to support the Kalmunai North was admitted to the emergency department on Tuesday (25). The incident of a youth survived after several hours of emergency surgery has been reported in Kalmunai.
-
-A 18 -year -old schoolgirl from Navithanveli area in Kalmunai has fallen into a palm tree to snatch a tree.
-
-In the meantime, the thickness of the breast side has been torn down by tearing down 15 parts of the body, including the liver, lungs, and primontakkal, through the young man's anal, the glyceria tree, which was planted in the plant.
-
-...
-
-[Data](articles/d9845d8d.json)
-
-[Extended Data](ext_articles/d9845d8d.ext.json)
-
----
-
-### Two judges withdraw from court contempt of court against Diana
-
-*2024-06-27 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187082) · `ta`
-
-Two High Court judges withdrew from a case against Diana Kamage, accused of insulting the court, due to her criticism of a Supreme Court decision. The case was initially presented before a panel including Judges Preeti Padman Surasena, Kumudini Wickramasinghe, and Janak de Silva, but now only Judge Preeti Padman Surasena remains.
-
-🟩
-
-Two High Court judges have withdrawn from the trial filed against former State Minister Diana Kamage for insulting the court.
-
-A case has been filed against Diana Kamage in a media briefing on the verdict given by the Supreme Court to disqualify from the post of Member of Parliament.
-
-In the meantime, the case was taken up in the presence of a panel of judges of High Court Judges Preeti Padman Surasena, Kumudini Wickramasinghe and Janak de Silva yesterday (26).
-
-Judges Janak de Silva and Kumudini Wickremesinghe have announced that they will quit the case.
-
-◼️
-
-[Data](articles/2ee257a6.json)
-
-[Extended Data](ext_articles/2ee257a6.ext.json)
-
----
-
-### If love is married
-
-*2024-06-27 11:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதல்-திருமணம்-செய்தால்-குற்ற-வரி/175-339522) · `ta`
-
-In Coimbatore, a unique tax called "piercing" is imposed on romantic marriages, a tradition followed for generations in Vadakkalur village. This tax-free area excludes couples from paying unless they undergo a specific ritual. However, there are allegations of caste leaders in Annur discriminating against such unions, leading to tensions within the community.
-
-🟩
-
-Each government surpasses other governments. The country's taxable system for countries can vary.
-
-Romantic married people do not pay the crime tax. In this regard, the BBC has conducted a Tamil field study.
-
-Near the Coimbatore district, the tax is levied for the crime for romantic married couples and is still practiced by the manner in which the city is not paid if it is not paid.. They call it 'piercing'.
-
-The Vadakkalur village leader said that this practice has been practiced for many generations.
-
-There are complaints that caste leaders in the village are excluding romantic marriages near Annur in Coimbatore district. In addition, it was also reported that there would be a strange procedure for couples who were married to a married couple if they were paid a piercing line.
-
-5 km from Annur. We traveled the distance and reached the village of Vadakkalur. The surrounding village was a green village, such as banana gardens and other types of crop cultivation.
-
-...
-
-[Data](articles/b7f20973.json)
-
-[Extended Data](ext_articles/b7f20973.ext.json)
-
----
-
-### Grama Niladhari 3 -day union action
-
-*2024-06-27 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/187077) · `ta`
-
-Grama Niladhari workers began a three-day union action protesting delays in addressing demands for increased allowances and government responsiveness. They've discussed these issues for years without resolution, leading to the strike. The association plans to continue protests until their demands are met.
-
-🟩
-
-The Grama Niladhari Association has decided to engage in trade union action, condemning the delay in providing solutions to many of their demands.
-
-The trade union action is being taken to increase transportation, fuel allowance, uniform allowance and communication allowance.
-
-The government has made rapid decisions to address the problems of state executive officials.
-
-Our coalition has been discussing these issues for many years, but the solutions to our problems continue to be delayed, the Grama Niladhari Trade Union Federation said.
-
-Due to this, the Grama Niladhari has been engaged in the workshop yesterday (26) for three days.
-
-Meanwhile, they are not going to work on weekends and special state holidays. The Grama Niladhari Association said that if the government does not respond to our demands, the district will continue to protest.
-
-◼️
-
-[Data](articles/97b9f1a1.json)
-
-[Extended Data](ext_articles/97b9f1a1.ext.json)
-
----
-
-### Two killed in train within 100 miters
-
-*2024-06-27 11:06:12* · [`adalk`](https://www.ada.lk/breaking_news/මිටර්-100ක්-ඇතුළත-දුම්රියේ-ගැටී-දෙදෙනෙක්-ජිවිතක්ෂයට/11-410473) · `si`
-
-In a tragic incident near Kosgoda, two individuals, a 2-year-old and a 60-year-old male from Apeldedda, Amarasuwa, were fatally struck by a train while crossing the railway line near a river. The victims were traveling from Colombo to Matara when the accident occurred about 100 meters from the railway line. Both died upon impact, and their bodies were taken to the Balapitiya Base Hospital.
-
-🟩
-
-Kosgoda Police say that two mines have been killed in a distance of two meters in the area in the river railway line.
-
-The train had been killed two-year-old and 60-year-old male, a resident of the Apelled area in Amarasuwa.
-
-According to the two-five-year-old man who was traveling to Matara from Colombo this morning, the police said.
-
-Both of them have hit the train between a hundred meters from the railway line.
-
-The police said that the two commenced their suicide, or for the other reason, sought to look into the train.
-
-Deaths of both death of the train crash were to be held at the Balapitiya Base Hospital this afternoon.
-
-◼️
-
-[Data](articles/4389c40c.json)
-
-[Extended Data](ext_articles/4389c40c.ext.json)
-
----
-
-### Blessed President
-
-*2024-06-27 11:00:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மல்வத்து-பீடத்தில்-ஆசி-பெற்றார்-ஜனாதிபதி/175-339520) · `ta`
-
-President Ranil Wickremesinghe visited Kandy, meeting religious leaders Sri Sumangala Thera and Asgiri Mahanayaka Varakkoda Sri Gnanaradana Thera. They discussed Sri Lanka's economic and financial progress, focusing on the Kandy Urban Development Program.
-
-🟩
-
-President Ranil Wickremesinghe, who visited Kandy, met with Sri Sumangala Thera and Asgiri Mahanayaka Varakkoda Sri Gnanaradana Thera.
-
-President Mahanayaka clarified the economic and financial progress in Sri Lanka and handed them over to the Kandy Urban Development Program.
-
-◼️
-
-[Data](articles/950f6c76.json)
-
-[Extended Data](ext_articles/950f6c76.ext.json)
-
----
-
-### Lawyer of lawyer arrested for sanding the law
-
-*2024-06-27 10:58:49* · [`adalk`](https://www.ada.lk/breaking_news/නීතියට-වැලි-ගැසූ--නීතිඥයා-කාර්යාංශ-දැලේ/11-410472) · `si`
-
-A lawyer was among those arrested during a raid on an unlicensed foreign employment agency in Sri Lanka. The operation led to the seizure of numerous documents, including passports and visa papers. The suspects were later released on bail. Meanwhile, another individual involved in sending students abroad under false pretenses was also apprehended. Authorities advise checking SLBFE or calling a specific number for verification of licensed agencies.
-
-🟩
-
-June 25, officials of the Bureau of the Bureau has raided a fraudulent foreign employment agency conducted without a valid license with the Sri Lanka Bureau.
-
-The raid was conducted due to a illegal foreign employment agency in Kottawa, Kottawa operating in the Makumbura junction and recruitments to the Branch.
-
-Officers of the Bureau have been arrested by the Special Investigation Division of the Bureau where he was asked to be a lawyer from profession in question.. A large number of other documents, including 50 passports, job applications, visa documents, have been taken into custody.
-
-The suspect was produced before the Homagama Magistrate's Court yesterday (6/26) and released on a bail of Rs.
-
-Kapila Karuna Kapila, Pushpakumara, Amila Perahera, Amila Perera, Maheesha Kodippili, Madushan Wijewardena and Gayasha Subipmani.
-
-Meanwhile, a Licensee, who has sent a youth from student visas for employment in the razor, has been arrested by June 25.
-
-...
-
-[Data](articles/03beb30b.json)
-
-[Extended Data](ext_articles/03beb30b.ext.json)
 
 ---

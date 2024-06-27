@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 16:34:57**
+As of **2024-06-27 16:51:29**
 
 ## Newspaper Stats
 
-*Scraped **32,478** Articles*
+*Scraped **32,479** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,802
 economynextcom | 1,890
 dailyftlk | 1,988
 adalk | 2,879
-adaderanalk | 3,697
+adaderanalk | 3,698
 tamilmirrorlk | 3,832
 dailymirrorlk | 4,733
 virakesarilk | 5,046
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,334
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,477 (100.0%) of 32,478 articles have been extended.
+32,478 (100.0%) of 32,479 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### Supreme Court decides to expedite case over nominating SC judges
+
+*2024-06-27 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100145/supreme-court-decides-to-expedite-case-over-nominating-sc-judges-) · `en`
+
+The Supreme Court has decided to expedite and take up on 25 July the case on which it previously issued an interim stay order on the President and the Constitutional Council preventing them from nominating judges to the Supreme Court of Sri Lanka.
+
+On April 30, the Supreme Court had issued an interim stay order on the President and the Constitutional Council, preventing them from nominating judges to the Supreme Court, except for the position of Chief Justice.
+
+The Supreme Court had issued this interim order while allowing the hearing of a petition submitted by a lawyer against the decision taken by the Constituent Council to reject the nomination submitted by the President for the appointment of the incumbent President of the Court of Appeal, Justice Nissanka Bandula Karunaratne as a Supreme Court Judge.
+
+◼️
+
+[Data](articles/6ecdd383.json)
+
+---
 
 ### Sri Lankan urged to continue to engage with private creditors to reach deal
 
@@ -47,6 +63,8 @@ The OCC said it also expects that the Sri Lankan authorities will continue to en
 ...
 
 [Data](articles/2681be0f.json)
+
+[Extended Data](ext_articles/2681be0f.ext.json)
 
 ---
 
@@ -2395,21 +2413,5 @@ Accordingly, from July 01 to July 07, we declare the National Week of the Youth 
 [Data](articles/b4830519.json)
 
 [Extended Data](ext_articles/b4830519.ext.json)
-
----
-
-### Sri Lanka Mission in Brazil promotes trade, tourism and investment ties with State of Rio de Janeiro
-
-*2024-06-27 01:25:19* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Mission-in-Brazil-promotes-trade-tourism-and-investment-ties-with-State-of-Rio-de-Janeiro/34-763539) · `en`
-
-The Ambassador of Sri Lanka to the Federative Republic of Brazil, Sumith Dassanayake, had an official visit to Rio de Janeiro with a view to boosting trade, tourism and investment ties between Sri Lanka and the State of Rio de Janeiro which is the crypto economic hub of Brazil and the second largest economy of the country with a population of 17.5 million. The visit took place from 12 to 13 June 2024.
-
-During the visit, Ambassador Sumith Dassanayake had a meeting with the First Vice President of the Federation of Foreign Trade Chambers of Brazil (FCCE), Marco Aurelio Kuhner, at the Chamber’s Headquarters.
-
-...
-
-[Data](articles/bb10966d.json)
-
-[Extended Data](ext_articles/bb10966d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 15:54:03**
+As of **2024-06-27 16:07:32**
 
 ## Newspaper Stats
 
-*Scraped **32,472** Articles*
+*Scraped **32,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,61 @@ adaderanalk | 3,696
 tamilmirrorlk | 3,832
 dailymirrorlk | 4,733
 virakesarilk | 5,044
-adaderanasinhalalk | 5,332
+adaderanasinhalalk | 5,333
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,469 (100.0%) of 32,472 articles have been extended.
+32,472 (100.0%) of 32,473 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### අසපුවට පූජා කරන ලද ටිපර් රථය අනතුරට ලක් වී මහණදම් පිරීම සඳහා සූදානම්ව සිටි අයෙක් මරුට
+### විනිසුරුවරුන් පත් කිරීමේ සිද්ධියට අදාළව තවත් තීරණයක්
+
+*2024-06-27 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198217) · `si`
+
+අගවිනිසුරුවරයා හැර ශ්‍රේෂ්ඨාධිකරණයේ සෙසු විනිසුරු ධුර සඳහා විනිසුරුවරුන් නම් කිරීම වළක්වාලමින් ජනාධිපතිවරයා වෙත තහනම් නියෝගයක් නිකුත් කිරීමට අදාළ මූලික අයිතිවාසිකම් පෙත්සම කඩිනමින් විභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය තීන්දු කර තිබේ.
+
+අදාළ තහනම් නියෝගය ඉවත් කිරීමේ හෝ වෙනස් කිරීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා පූජ්‍ය දඹර අමිල හිමියන් සහ ආචාර්ය මහීම් මෙන්ඩිස් යන පාර්ශ්ව විසින් ඉදිරිපත් කළ අතරමැදි පෙත්සම් දෙකක් සලකා බැලීමෙන් පසුව අධිකරණය මෙම නියෝගය නිකුත් කර ඇත.
+
+ඉන් අනතුරුව අදාළ පෙත්සම ජුලි මස 25 වනදා විභාගයට ගැනීමටද අධිකරණය දින නියම කළේය.
+
+◼️
+
+[Data](articles/e5d83549.json)
+
+---
+
+### One killed in crashing tipper vehicle accident
 
 *2024-06-27 15:17:43* · [`adalk`](https://www.ada.lk/breaking_news/අසපුවට-පූජා-කරන-ලද-ටිපර්-රථය-අනතුරට-ලක්-වී-මහණදම්-පිරීම-සඳහා-සූදානම්ව-සිටි-අයෙක්-මරුට/11-410478) · `si`
 
-ඉංගිරිය නාච්චි මලේ අසපුවක මහණදම් පිරීම සඳහා සූදානම්ව සිටි තිදෙනකු ගමන්ගත් ටිපර් ඉංගිරිය පාදුක්ක මාර්ගයේ ශාන්ත පීතර හන්දිය ආසන්නයේදී අනතුරට ලක්වීමෙන් එක් අයකු මිය ගොස් තවත් අයෙක් බරපතල තුවාල ලැබූ බව ඉංගිරිය පොලිසිය කියයි.
+A fatal crash involving a tipper truck occurred at Tipper Ingiriya Junction, resulting in one death and one injury. The victim, NIN Kasun Sameera Uphahusha, was identified as a resident of Kalanu Nadugala Pottuvil Road. Despite efforts by medical staff, including Specialist Dr. Isuru Gayan Abeywardena from Horana Base Hospital, the injured passenger succumbed to injuries. The driver of the three-wheeler involved in the accident was also hospitalized. Investigations are ongoing under the leadership of Ingiriya Police OIC Chief Inspector Tilakaratne, with no reports of the driver being aware of the accident.
 
-අනතුරින් මියගොස් ඇත්තේ අට කලම්පන්න නදුන්  ඇල්ල පොතුවිල් පාර පදිංචිව සිටි එන් ඒ කසුන් සමීර උපශාන්ත නැමැති 32 හැවිරිදි පුද්ගලයෙකි.
+🟩
 
-අනතුර වන අවස්ථාවේදී එම ස්ථානයෙන් ගමන් කරමින් සිටි හොරණ මූලික රෝහලේ හදිසි ප්‍රතිකාර ඒකකය භාර විශේෂඥ වෛද්‍ය ඉසුරු ගයාන් අබේවර්ධන මහතා  ස්ථානයට පැමිණ ප්‍රදේශවාසීන් සමග එක්ව ටිපර් රථයට කාණුව අතර සිරවී  බරපතල තුවාල ලබා සිටි  පුද්ගලයා පිටතට ගෙන ඔහුගේ ජීවිතය බේරා ගැනීම සඳහා කෘතිම ශ්වසනය ලබා දී දැඩි උත්සාහයක් ගෙන අනතුරුව රෝගියා  රැගෙන පැමිණි වෑන් රථයේ නැගී  ඉංගිරිය රෝහල කරා පැමිණද එහිදී මූලික ප්‍රතිකාර ලබාදී  අනතුරුව හොරණ මූලික රෝහල කරාද රැගෙන විත් තිබූ බව පොලිසිය කියයි.
+According to Ingiriya Police, another injured in the Tipper Ingiriya Junction, who was preparing to fill the padukka road in the Padukka road, the Tipper Ingiriya Junction.
 
-එලෙස රැගෙනා රෝගියාගේ දිවි බේරා ගැනීම සඳහා එම   වෛද්‍යවරයා ඇතුළු වෛද්‍යවරු පිරිසක් දැඩි උත්සාහ ගත්තද ඔහු මියගිය බව පොලිසිය සඳහන් කරයි.
+The deceased has been identified as NIN Kasun Sameera Uphahusha, a resident of the Kalanu Nadugala Pottuvil Road.
+
+Specialist Dr. Isuru Gayan Abeywardena in charge of the Horana Base Hospital in the Horana Base Hospital.The police said that the patient was taken to the Ingiriya hospital and was taken into custody.
+
+The doctors, including the doctor, tried to save the patient's lives, but he died.
+
+Police say the other person was the driver
+
+The tipper vehicle was taken to the police with a disaster car, police said that the three-wheeler driver was admitted to the Ingiriya Regional Hospital.
+
+Investigations have revealed that the tipper who was killed in a tipper junction with two other people who were killed in a tipper to Padukka.
 
 ...
 
 [Data](articles/e63e2f24.json)
+
+[Extended Data](ext_articles/e63e2f24.ext.json)
 
 ---
 
@@ -70,25 +98,33 @@ President Wickremesinghe visited the Chief Prelate of the Malwatu Chapter Most V
 
 ---
 
-### ශ්‍රී ලංකාවේ කැපවීම ලෝකයම අගය කරයි
+### Sri Lankan commitment is appreciation of the world
 
 *2024-06-27 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198216) · `si`
 
-ශ්‍රී ලංකාව තිරසාර වර්ධන මාවතකට අවතීර්ණ කිරීම සඳහා මෙරට බලධාරීන් අවශ්‍ය ප්‍රතිසංස්කරණ ක්‍රියාවට නැංවීමට දරන ප්‍රයත්නය ප්‍රශංසනීය බව ශ්‍රී ලංකා ණය හිමි කමිටුව ඇතුළත් පැරිස් සමාජය පවසයි.
+Sri Lanka's efforts to achieve sustainable growth through necessary reforms have garnered international support, including from the US Ambassador and the Paris Club. The restructuring of its debt, involving significant reductions and extensions on loan repayments, aims to stabilize the economy and rebuild trust in the financial sector. This move, which includes contributions from India, marks a crucial step towards Sri Lanka's economic recovery and sustainable development path.
 
-ශ්‍රී ලංකාව ඊයේ එළැඹි ණය ප්‍රතිව්‍යුහගතකරණ ගිවිසුම් සම්බන්ධයෙන් ඉන්දියාව සහ මෙරට අමෙරිකානු තානාපතිනියද අද (27) සිය ප්‍රසාදය පළ කර තිබේ.
+🟩
 
-ඉන්දීය විදේශ කටයුතු අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසන්නේ ශ්‍රී ලංකාවේ ආර්ථික පුනර්ජීවනය, වර්ධනය සහ ස්ථාවරත්වය උදාකරලීම උදෙසා නොසැලී කැපවී සිටින බවය.
+The Paris Club, including the Sri Lanka Loan Committee, says the attempt to implement the necessary reforms in order to enter Sri Lanka to reach a sustainable growth path.
 
-එසේම ශ්‍රී ලංකාවේ අමෙරිකානු තානාපතිනි ජුලි චන්ග් මහත්මියද ඊයේ ශ්‍රී ලංකාව එළඹුණු ණය ප්‍රතිව්‍යුහගතකරණ ගිවිසුම් අමෙරිකාව සාදරයෙන් පිළිගන්නා බව X අවකාශයේ සටහනක් තබමින් සඳහන් කර තිබේ.
+US Ambassador to India and Sri Lanka has expressed their appreciation for the restructuring agreement of Sri Lanka yesterday.
 
-එම ගිවිසුම් මෙරට මූල්‍ය පරිසරය පිළිබද විශ්වාසයක් ගොඩනැංවීමට ඉවහල්වන බව ඇය තැබූ සටහනේ සඳහන් ය.
+The Indian External Affairs Ministry issues announcement and says Sri Lanka's economic revival, growth and stability is committed to achieving growth and stability.
 
-මේ අතර මෙරට නිල ණය හිමියන්ගේ කමිටුවට අයත් පැරිස් සමාජය නිකුත් කළ නිවේදනයේ දැක්වෙන්නේ ශ්‍රී ලංකාව තිරසාර වර්ධන මාවතකට අවතීර්ණ කිරීම සඳහා මෙරට බලධාරීන් අවශ්‍ය ප්‍රතිසංස්කරණ ක්‍රියාවට නැංවීමට දරන ප්‍රයත්නය ප්‍රශංසනීය බවය.
+Sri Lanka's Ambassador July Chang, July Chang, was also welcomed by Sri Lanka's debt restructuring agreements.
+
+She said that agreements would help to build trust in the financial environment of the country.
+
+Meanwhile, the comment of Paris Club belonging to the official creditors of the country is commendable to implement Sri Lanka to a sustainable development path.
+
+When Sri Lanka announced the payment of loan on April 12, 2022, the Sri Lankan government was left to pay foreign debt.
 
 ...
 
 [Data](articles/e5fc221d.json)
+
+[Extended Data](ext_articles/e5fc221d.ext.json)
 
 ---
 
@@ -782,21 +818,27 @@ President Ranil Wickremesinghe has come to Kandy and paid homage to the Sri Dala
 
 ---
 
-### නුවරඑළිය බස් නැවතුමේ පොදු වැසිකිළියට ගිය දෙදෙනෙක් මරුට
+### Two killed in Nuwara Eliya Bus Stand
 
 *2024-06-27 12:13:36* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑළිය-බස්-නැවතුමේ-පොදු-වැසිකිළියට-ගිය-දෙදෙනෙක්-මරුට/11-410475) · `si`
 
-නුවරඑලිය මහ නගර සභාව යටතේ පාලනය වන නුවරඑලිය බස් නැවතුම්පොලේ පිහිටි පොදු වැසිකිලිය වෙත ගිය පුද්ගලයන් දෙදෙනෙකු අභිරහස් ලෙස මියගොස් ඇති බව නුවරඑලිය මුලස්ථාන පොලිසියේ ප්‍රධාන පොලිස් පරික්ෂක ප්‍රේමලාල් හෙට්ටිආරච්චි මහතා පැවසිය.
+In Nuwara Eliya, two individuals died at the bus stand, including a 72-year-old man found in a toilet. Their bodies were sent for autopsy. The police are investigating the cause of death.
 
-(26) දින පස්වරුවේ නුවරඑලිය ප්‍රදේශයේ පදිංචි අවු 72 හැවිරිදි පුද්ගලයෙකු වැසිකිලයට ගිය අවස්තාවේ එම පුද්ගලයා වැසිකිලිය තුලදිම මියගොස් ඇති බවත්, බගවන්තලාව ප්‍රදේශයේ පදිංචි අවු 60 වයසැති පුද්ගලයෙකු (27) දින උදැසන 8 ට එම වැසිකිලියට ගිය අවස්තාවේ මියගොස් ඇති බවයි මුලස්ථාන ප්‍රධාන පොලිස් පරික්ෂකවරයා කියා සිටියේ.
+🟩
 
-අභිරහස් ලෙස මියගිය දෙදෙනාගේ සිරුරු පශ්චාත් මරණ පරික්ෂණය සදහා නුවරඑලිය දිස්ත්‍රික් මහ රෝහලේ අධිකරණ වෛද්‍යවරයා වෙත යොමු කර ඇති බවත්, නුවරඑලිය සෞඛ්‍ය වෛද්‍ය නිලධාරිවරයාගේද සහය ඇතිව විමර්ෂණයක් සිදු කරන තෙක් එම වැසිකිලිය මුද්‍රා තැබිමට පියවර ගෙන ඇති බවද ප්‍රධාන පොලිස් පරික්ෂකවරයා පැවසිය.
+Headshana Police Premalal Hettiarachchi said that two persons have died in the Nuwara Eliya bus stand under the Nuwara Eliya bus station under the Nuwara Eliya Municipal Council.
 
-එම වැසිකිලිය තුලින් දැඩි දුගන්ධයක් හමන බවත්, ඒ පිලිබදව විමර්ෂණ කටයුතු වල අවධානය යොමු වි ඇති බවයි ප්‍රධාන පොලිස් පරික්ෂකවරයා කියා සිටියේ.
+(26) A 72-year-old man who had been living in the toilet (27) has died in the closet of the toilet (27)..
+
+The bodies of the two deaths were directed to the forensic doctor at the Nuwara Eliya District General Hospital.
+
+The Chief Inspector said that the inquiry had been boring through the closet and the attention of the investigation into the incident.
 
 ◼️
 
 [Data](articles/7f2beb2d.json)
+
+[Extended Data](ext_articles/7f2beb2d.ext.json)
 
 ---
 
@@ -2339,29 +2381,5 @@ Work on repairing the damaged head of the Abraham Lincoln statue, which was plac
 [Data](articles/571b99f0.json)
 
 [Extended Data](ext_articles/571b99f0.ext.json)
-
----
-
-### President declares Sri Lanka’s successful navigation away from bankruptcy
-
-*2024-06-27 01:11:51* · [`dailyftlk`](https://www.ft.lk/news/President-declares-Sri-Lanka-s-successful-navigation-away-from-bankruptcy/56-763535) · `en`
-
-The future does not merely belong to Ranil Wickremesinghe; it pertains to the country, to your future, and the future of our children. In just two years, without a parliamentary majority, without my appointed government officials or ministers, I successfully elevated our country from bankruptcy and economic turmoil to a position that astonished the world
-
-Says Sri Lanka's successful restructuring of foreign debt is a good news for all who care about the country
-
-While some are struggling for the presidency, I struggle for the nation
-
-The child, referred to as Mother Lanka, was safely carried across the perilous vine bridge
-
-Just like in the story of the ‘Caucasian chalk circle’, those who provided no support in protecting the child are now fighting for the child's rights
-
-We are all aware of the risks associated with choosing the wrong path. Individuals have the right to make informed decisions
-
-...
-
-[Data](articles/661ae823.json)
-
-[Extended Data](ext_articles/661ae823.ext.json)
 
 ---

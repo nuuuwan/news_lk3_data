@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 18:53:51**
+As of **2024-06-27 19:04:44**
 
 ## Newspaper Stats
 
-*Scraped **32,500** Articles*
+*Scraped **32,502** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,802
 economynextcom | 1,890
 dailyftlk | 1,988
 adalk | 2,883
-adaderanalk | 3,699
-tamilmirrorlk | 3,833
+adaderanalk | 3,700
+tamilmirrorlk | 3,834
 dailymirrorlk | 4,733
 virakesarilk | 5,054
 adaderanasinhalalk | 5,340
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,340
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,500 (100.0%) of 32,500 articles have been extended.
+32,500 (100.0%) of 32,502 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### 60 Indians arrested as CID busts massive online financial scam
+
+*2024-06-27 18:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100147/60-indians-arrested-as-cid-busts-massive-online-financial-scam) · `en`
+
+Sri Lanka Police says that 60 Indian nationals who are allegedly part of a group engaged in online financial scams have been arrested by the Criminal Investigations Department (CID).
+
+The suspects have been arrested from Thalangama, Madiwela and Negombo areas while a total of 135 mobile phones and 57 laptop computers have also been seized from their possession, police said.
+
+◼️
+
+[Data](articles/ee086bed.json)
+
+---
 
 ### 60 crash from India arrested
 
@@ -51,6 +65,22 @@ At the time of his arrest, 135 mobile phones and 57 laptops were taken into cust
 [Data](articles/5f3a3661.json)
 
 [Extended Data](ext_articles/5f3a3661.ext.json)
+
+---
+
+### மேல் கொத்மலை நீர்த்தேக்கத்தின் வான்கதவு திறப்பு
+
+*2024-06-27 18:18:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேல்-கொத்மலை-நீர்த்தேக்கத்தின்-வான்கதவு-திறப்பு/175-339540) · `ta`
+
+அதிக மழை காரணமாக மேல் கொத்மலை நீர்த்தேக்கத்தின் வான்கதவு ஒன்று இன்று (27) திறக்கப்பட்டுள்ளது.
+
+அந்த பகுதிகளில் மேலும் மழை பெய்தால் நீர்த்தேக்கத்தின் ஏனைய வான்கதவுகள் திறக்கப்படுமென தெரிவிக்கப்படுகிறது.
+
+இது தொடர்பில் மக்களை அவதானமாக இருக்குமாறு நுவரெலியா மாவட்ட அனர்த்த முகாமைத்துவப் பிரிவு கேட்டுக்கொண்டுள்ளது. R
+
+◼️
+
+[Data](articles/1732ebb9.json)
 
 ---
 
@@ -686,13 +716,11 @@ Investigations have revealed that the tipper who was killed in a tipper junction
 
 *2024-06-27 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100143/president-warns-of-measures-to-designate-teaching-as-an-essential-service) · `en`
 
-President Ranil Wickremesinghe emphasized the importance of teachers being present in schools during the morning hours to ensure the education of the country’s children.
+President Ranil Wickremesinghe emphasized the importance of teachers being present in schools during school hours for the education of the nation’s children.
 
-He made this observation during a discussion with the Chief Prelate of the Asgiri Chapter, Most Ven. Warakagoda Sri Gnanarathana Nayaka Thero.
+He warned that if this commitment is not upheld in the future and school children are deprived of their education as a result, necessary measures will be taken to designate the teaching profession as an essential service, the President’s Media Division reported.
 
-He warned that if teachers fail to do so depriving students of their education, steps will be taken to designate teaching as an essential service, the President’s Media Division (PMD) reported.
-
-President Wickremesinghe visited the Chief Prelate of the Malwatu Chapter Most Ven. Thibbatuwawe Sri Sumangala Maha Nayaka Thera and the Chief Prelate of the Asgiri Chapter Most Ven. Warakagoda Sri Gnanarathana Nayaka Thera during his visit to Kandy, and received their blessings this morning (27).
+President Wickremesinghe mentioned this during his visit to the Asgiri Maha Viharaya. The President received blessings from the Most Venerable Warakagoda Sri Gnanarathana Maha Nayaka Thero, the Chief Prelate of the Asgiriya Chapter. President Wickremesinghe also participated in a cordial conversation with the Maha Nayaka Thero.
 
 ...
 
@@ -2375,41 +2403,5 @@ South Africa beat the target to pass only one wicket in 8.5 overs. The South Afr
 [Data](articles/bb404c81.json)
 
 [Extended Data](ext_articles/bb404c81.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2024-06-27 08:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100130/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Several spells of showers may occur in Matale and Hambantota districts, it said.
-
-Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-◼️
-
-[Data](articles/950ceb3e.json)
-
-[Extended Data](ext_articles/950ceb3e.ext.json)
-
----
-
-### South Africa to the last round
-
-*2024-06-27 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198200) · `si`
-
-In the final round of the World Cup, South Africa triumphed over Afghanistan, securing victory.
-
-🟩
-
-South Africa won the match between Afghanistan and South Africa in the final round of the World Cup.
-
-◼️
-
-[Data](articles/4579d7a0.json)
-
-[Extended Data](ext_articles/4579d7a0.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 02:04:40**
+As of **2024-06-28 02:19:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,350
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,537 (100.0%) of 32,538 articles have been extended.
+32,538 (100.0%) of 32,538 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -445,6 +445,8 @@ Roma’s journey of life through nine decades on earth has been one that most Ce
 ...
 
 [Data](articles/cb3c9fe5.json)
+
+[Extended Data](ext_articles/cb3c9fe5.ext.json)
 
 ---
 

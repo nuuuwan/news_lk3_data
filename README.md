@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 15:04:34**
+As of **2024-06-27 15:19:41**
 
 ## Newspaper Stats
 
-*Scraped **32,465** Articles*
+*Scraped **32,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,890
 dailyftlk | 1,988
 adalk | 2,876
 adaderanalk | 3,694
-tamilmirrorlk | 3,830
+tamilmirrorlk | 3,832
 dailymirrorlk | 4,733
 virakesarilk | 5,044
 adaderanasinhalalk | 5,331
@@ -26,11 +26,23 @@ adaderanasinhalalk | 5,331
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,464 (100.0%) of 32,465 articles have been extended.
+32,465 (100.0%) of 32,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### சீனாவுக்கு பயணமானார் மஹிந்த
+
+*2024-06-27 14:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனாவுக்கு-பயணமானார்-மஹிந்த/175-339535) · `ta`
+
+நான்கு நாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டு, வியாழக்கிழமை (27)    காலை சீனாவுக்குச் சென்ற முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ, அங்கு தங்கியிருக்கும் போது சீனப் பிரதமர் லீ கியாங் மற்றும் வெளிவிவகார அமைச்சர் வாங் யீ ஆகியோரை சந்தித்துப் பேச்சு நடத்தவுள்ளார்.
+
+◼️
+
+[Data](articles/d2de49f1.json)
+
+---
 
 ### Concellent notes printing pressed by tightening
 
@@ -55,6 +67,28 @@ The arrested suspects are residents of Hettipola, aged 17,49 and 54 years.
 [Data](articles/c76768d5.json)
 
 [Extended Data](ext_articles/c76768d5.ext.json)
+
+---
+
+### ‘ஹபாயா’ அணிந்து தப்பியவர் சிக்கினார்
+
+*2024-06-27 14:17:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/ஹபாயா-அணிந்து-தப்பியவர்-சிக்கினார்/75-339534) · `ta`
+
+54 வயதான தாயையும் அவருடைய 31 வயதான மகளையும் கத்தியால் குத்திய நபரொருவர், முகத்தை முழுமையாக மூடும் ஹபாயை அணிந்துகொண்டு தப்பிக்க முயன்றபோது கைதுசெய்யப்பட்டுள்ளார்.
+
+இந்த சம்பவம், தம்பலகாமம் பொலிஸ் பிரிவுக்குட்பட்ட ஈச்சநகர் பகுதியில், புதன்கிழமை (26) மாலை இடம்பெற்றுள்ளது. ஹபாய் அணிந்து​கொண்டு தப்பிக்க முயன்ற 38 வயதான குடும்பஸ்தரே கைது செய்யப்பட்டுள்ளார் என தம்பலகாமம் பொலிஸார் தெரிவித்தார்.
+
+மூதூரை பிறப்பிடமாகக் கொண்ட இவர், ஈச்ச நகர் பகுதியில் திருமணம் முடித்து வசித்து வருகின்றனார்.
+
+தாக்குதளுக்கு இலக்காகி படுகாயமடைந்த தாய், மட்டக்களப்பு பொது வைத்தியசாலையிலும், மகள்,  கந்தளாய் தளவைத்தியசாலையிலும் சிகிச்சை பெற்றுவருகின்றனர். .
+
+ஈச்ச நகர் பகுதியிலுள்ள தாக்குதலுக்கு இலக்காக பெண்ணிடம் கைது செய்யப்பட்ட சந்தேகநபர், கடனுக்கு பணம் வாங்கியுள்ளார். அதனை மீள பெற்றுக்கொள்வதற்காக, சந்தேகநபரின் அலைபேசி  திருத்த கடைக்கு அப்பெண் சென்று கேட்டுள்ளார்.
+
+எனினும், ஆத்திரமடைந்த அந்தநபர் பணத்தை திருப்பிக்கொடுக்காது, அந்த பெண்ணின் வீட்டுக்குச் சென்று, தாய், மகள் மீது கத்திக்குத்து தாக்குதல் நடத்தியுள்ளார்.
+
+...
+
+[Data](articles/048df237.json)
 
 ---
 
@@ -998,21 +1032,31 @@ President Mahanayaka clarified the economic and financial progress in Sri Lanka 
 
 ---
 
-### නීතියට වැලි ගැසූ  නීතිඥයා කාර්යාංශ දැලේ
+### Lawyer of lawyer arrested for sanding the law
 
 *2024-06-27 10:58:49* · [`adalk`](https://www.ada.lk/breaking_news/නීතියට-වැලි-ගැසූ--නීතිඥයා-කාර්යාංශ-දැලේ/11-410472) · `si`
 
-ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව පවත්වාගෙන ගිය වංචනික විදේශ රැකියා නියෝජිතායතනයක් කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් ජූනි මස 25 වැටලීම් කර තිබේ.
+A lawyer was among those arrested during a raid on an unlicensed foreign employment agency in Sri Lanka. The operation led to the seizure of numerous documents, including passports and visa papers. The suspects were later released on bail. Meanwhile, another individual involved in sending students abroad under false pretenses was also apprehended. Authorities advise checking SLBFE or calling a specific number for verification of licensed agencies.
 
-කොට්ටාව, මාකුඹුර හන්දියේ Pearl Wings Visa Consultancy යන නමින් නිතිවිරෝධි විදේශ රැකියා නියෝජිතායතනයක් පවත්වාගෙන යන බවටත්, එම ආයතනය මගින් රුමේනියාව, ඇල්බේනියාව, සයිප්‍රස් යන රටවල රැකියා සඳහා බඳවාගැනීම් සිදුකරන බවට කාර්යාංශයට ලද තොරතුරක් මත මෙම වැටලීම සිදුකරන ලදී.
+🟩
 
-කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් අදාළ ආයතනයේ හිමිකරු එහිදී අත්අඩංගුවට ගත් අතර, ඔහුගෙන් සිදුකළ ප්‍රශ්න කිරීමේදී ඔහු වෘත්තියෙන් නීතිඥවරයෙකු බවත් හෙළිවී තිබේ. අදාළ ස්ථානයේ තිබී විදේශ ගමන් බලපත්‍ර 50ක්, රැකියා අයදුම්පත්, වීසා ලේඛන ඇතුළු තවත් ලේඛන විශාල ප්‍රමාණයක් නිළධාරීන් භාරයට ගෙන තිබේ.
+June 25, officials of the Bureau of the Bureau has raided a fraudulent foreign employment agency conducted without a valid license with the Sri Lanka Bureau.
 
-අත්අඩංගුවට ගත් සැකකරු ඊයේ දින (6/26) හෝමාගම මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව රුපියල් ලක්ෂ 10ක ශරීර ඇපයක් මත මුදාහැරීමට මහේස්ත්‍රාත්වරයා නියෝග කරන ලදී.
+The raid was conducted due to a illegal foreign employment agency in Kottawa, Kottawa operating in the Makumbura junction and recruitments to the Branch.
+
+Officers of the Bureau have been arrested by the Special Investigation Division of the Bureau where he was asked to be a lawyer from profession in question.. A large number of other documents, including 50 passports, job applications, visa documents, have been taken into custody.
+
+The suspect was produced before the Homagama Magistrate's Court yesterday (6/26) and released on a bail of Rs.
+
+Kapila Karuna Kapila, Pushpakumara, Amila Perahera, Amila Perera, Maheesha Kodippili, Madushan Wijewardena and Gayasha Subipmani.
+
+Meanwhile, a Licensee, who has sent a youth from student visas for employment in the razor, has been arrested by June 25.
 
 ...
 
 [Data](articles/03beb30b.json)
+
+[Extended Data](ext_articles/03beb30b.ext.json)
 
 ---
 
@@ -2305,61 +2349,5 @@ Following this, Tamil Nadu Chief Minister M.K. Stalin wrote to Union Minister fo
 [Data](articles/8b526396.json)
 
 [Extended Data](ext_articles/8b526396.ext.json)
-
----
-
-### MOP fertilizer free for the next two major paddy cultivation - Minister Mahinda Amaraweera
-
-*2024-06-27 00:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/187057) · `ta`
-
-Minister Mahinda Amaraweera announced a national week for the Youth Agricultural Entrepreneurship Rural Program from July 01 to 07, aiming to boost youth involvement in agriculture. The government will provide MOP fertilizer for free for the next two major paddy cultivations. Additionally, efforts are underway to increase paddy yield through technical measures and special projects, address climate-induced crop damage, and ensure self-sufficiency in egg, milk, and corn production. A new project to enhance egg production has been initiated, and steps are being taken to reduce the cost of coconut oil imports. The government has secured 55,000 metric tons of MOP fertilizer from the UN Food and Agriculture Institute to support paddy farmers, alongside subsidizing tea cultivation fertilizers.
-
-🟩
-
-Minister of State for Industry and Plantation Industries Mahinda Amaraweera said that a national week will be announced to implement the Youth Agricultural Entrepreneurship Rural Program from July 01 to 07.
-
-The Minister said that the government has decided to provide the MOP fertilizer for the paddy field for the next two biggest boys.
-
-Minister Mahinda Amaraweera made this statement at a media briefing held at the Presidential Media Center on Wednesday (26).
-
-“The Ministry of Agriculture and Plantation Industries has launched a number of programs to attract the youth community to the agriculture sector.. In this regard, all arrangements have been made to select 160 villages in the country, including the start of the youth agricultural entrepreneurs.
-
-...
-
-[Data](articles/b66ab275.json)
-
-[Extended Data](ext_articles/b66ab275.ext.json)
-
----
-
-### 2024-06-26 (Wednesday)
-
-### Let’s do it with Potatoes…
-
-*2024-06-26 23:23:00* · [`islandlk`](http://island.lk/lets-do-it-with-potatoes/) · `en`
-
-Hi! Since I haven’t given my readers any beauty tips, with the potato as the main base, I thought of bringing the potato into the scene this week.
-
-What’s more, potatoes are freely available, so you won’t have any hassle going searching for this vegetable which is a favourite at most homes.
-
-You will need 02 teaspoons potato juice, 02 teaspoons lemon juice and ½ teaspoon honey (optional)
-
-Mix the potato and lemon juice and add honey to the mixture and blend well.
-
-Apply it all over your face and neck and leave it on for 15 minutes and then wash it off with water.
-
-(Do this very alternate day. By the way, dilute the lemon juice if you experience irritation)
-
-You will need 01 tablespoon potato juice or pulp, 01 tablespoon tomato juice or pulp and 01 tablespoon honey.
-
-Mix the potato and tomato juice/pulp and add the honey to the mixture and mix until you obtain a smooth paste.
-
-Apply it evenly on your face, focusing on the affected area.
-
-...
-
-[Data](articles/8dc5fad6.json)
-
-[Extended Data](ext_articles/8dc5fad6.ext.json)
 
 ---

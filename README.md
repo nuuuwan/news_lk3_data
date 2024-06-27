@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 22:53:40**
+As of **2024-06-27 23:05:26**
 
 ## Newspaper Stats
 
-*Scraped **32,520** Articles*
+*Scraped **32,522** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,890
 dailyftlk | 1,988
 adalk | 2,885
 adaderanalk | 3,702
-tamilmirrorlk | 3,837
+tamilmirrorlk | 3,839
 dailymirrorlk | 4,733
 virakesarilk | 5,056
 adaderanasinhalalk | 5,349
@@ -26,11 +26,49 @@ adaderanasinhalalk | 5,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,520 (100.0%) of 32,520 articles have been extended.
+32,520 (100.0%) of 32,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### டி20 உலகக்கோப்பை அரையிறுதி: இந்தியா - இங்கிலாந்து ஆட்டம் மழையால் பாதிப்பு
+
+*2024-06-27 22:30:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/டி20-உலகக்கோப்பை-அரையிறுதி-இந்தியா-இங்கிலாந்து-ஆட்டம்-மழையால்-பாதிப்பு/44-339545) · `ta`
+
+இறுதிக்கட்டத்தை எட்டியுள்ள 9-வது டி20 உலகக்கோப்பை கிரிக்கெட் தொடரில் அரையிறுதி ஆட்டங்கள் நடைபெற்று வருகின்றன. இதில் இன்று நடைபெற்று வரும் இரண்டாவது அரையிறுதி
+
+ஆட்டத்தில் முன்னாள் சாம்பியன் ஆன இந்தியாவும், நடப்பு சாம்பியன் ஆன இங்கிலாந்து அணியும் மோதி வருகின்றன.
+
+இந்த ஆட்டத்திற்கான டாஸ் போடப்பட்டது. அதில் டாஸ் வென்ற இங்கிலாந்து அணியின் கேப்டன் ஜோஸ் பட்லர் பந்துவீச்சைத் தேர்வு செய்தார். இதன்படி இந்திய அணி
+
+முதலாவதாக களமிறங்கி பேட்டிங் செய்தது. இந்திய அணி 8 ஓவர்கள் முடிவில் 2 விக்கெட் இழப்புக்கு 65 ரன்கள் எடுத்திருந்த போது மழை குறுக்கிட்டது.
+
+இதன் காரணமாக ஆட்டம் தர்காலிகமாக நிறுத்தப்பட்டு உள்ளது. ரோகித் சர்மா 37 ரன்களுடனும், சூர்யகுமார் யாதவ் 13 ரன்களுடனும் களத்தில் உள்ளனர்
+
+◼️
+
+[Data](articles/2b458588.json)
+
+---
+
+### வீட்டுக்குள் சென்ற எரிபொருள் பௌசர்
+
+*2024-06-27 22:20:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/வீட்டுக்குள்-சென்ற-எரிபொருள்-பௌசர்/75-339544) · `ta`
+
+திருகோணமலை - தம்பலகாமம் பொலிஸ் பிரிவுக்குட்பட்ட திருகோணமலை_கண்டி பிரதான வீதியின் 98ம் கட்டை பகுதியில் இன்று (27) மாலை இடம்பெற்ற வாகன விபத்தில் இருவர் காயமடைந்துள்ளனர்.
+
+கொழும்பில் இருந்து திருகோணமலை நோக்கி பயணித்த எரிபொருள் கொள்வனவு வாகனம் ஒன்று வீட்டு மதிலை உடைத்துக் கொண்டு வீட்டுக்குள் சென்றுள்ளது .
+
+நித்திரை  கலக்கம் காரணமாக இவ் விபத்து சம்பவம் இடம்பெற்றுள்ளதாக ஆரம்ப கட்ட விசாரணை மூலம் தெரியவருகிறது.
+
+இதில் எரிபொருள் கொள்கலனை செலுத்திய சாரதி மற்றும் உதவியாளர் காயமடைந்துள்ளனர். இச் சம்பவம் குறித்த மேலதிக விசாரனைகளை தம்பலகாமம் பொலிஸார் முன்னெடுத்துள்ளனர். R
+
+◼️
+
+[Data](articles/c7c95018.json)
+
+---
 
 ### Special offer for Executive Service Officers
 
@@ -2371,37 +2409,5 @@ Under Silverwood’s leadership, the national team achieved significant success,
 [Data](articles/936f0c68.json)
 
 [Extended Data](ext_articles/936f0c68.ext.json)
-
----
-
-### President calls on Malwatu and Asgiri Maha Nayake Theros
-
-*2024-06-27 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100135/president-calls-on-malwatu-and-asgiri-maha-nayake-theros) · `en`
-
-President Ranil Wickremesinghe visited the Chief Prelate of the Malwatu Chapter Most Ven. Thibbatuwawe Sri Sumangala Maha Nayaka Thera and the Chief Prelate of the Asgiri Chapter Most Ven. Warakagoda Sri Gnanarathana Nayaka Thera during his visit to Kandy, a short while ago, and received their blessings.
-
-The President engaged in progressive discussions on the country’s economic and financial progress and presented the Greater Kandy Urban Plan to the Chief Prelates, the President’s Media Division said.
-
-◼️
-
-[Data](articles/157634a4.json)
-
-[Extended Data](ext_articles/157634a4.ext.json)
-
----
-
-### President presents Greater Kandy Urban Plan to Chief Prelates
-
-*2024-06-27 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100135/president-presents-greater-kandy-urban-plan-to-chief-prelates) · `en`
-
-President Ranil Wickremesinghe visited the Chief Prelate of the Malwatu Chapter Most Ven. Thibbatuwawe Sri Sumangala Maha Nayaka Thera and the Chief Prelate of the Asgiri Chapter Most Ven. Warakagoda Sri Gnanarathana Nayaka Thera during his visit to Kandy, a short while ago, and received their blessings.
-
-The President engaged in progressive discussions on the country’s economic and financial progress and presented the Greater Kandy Urban Plan to the Chief Prelates, the President’s Media Division said.
-
-◼️
-
-[Data](articles/d10e7883.json)
-
-[Extended Data](ext_articles/d10e7883.ext.json)
 
 ---

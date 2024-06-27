@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 10:53:50**
+As of **2024-06-27 11:06:28**
 
 ## Newspaper Stats
 
-*Scraped **32,408** Articles*
+*Scraped **32,415** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ newsfirstlk | 363
 islandlk | 1,802
 economynextcom | 1,884
 dailyftlk | 1,988
-adalk | 2,865
+adalk | 2,867
 adaderanalk | 3,688
 tamilmirrorlk | 3,826
 dailymirrorlk | 4,733
-virakesarilk | 5,027
-adaderanasinhalalk | 5,320
+virakesarilk | 5,030
+adaderanasinhalalk | 5,322
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,403 (100.0%) of 32,408 articles have been extended.
+32,408 (100.0%) of 32,415 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### බොලිවියා රජය පෙරළීමේ තැත වැළකෙයි
+
+*2024-06-27 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198206) · `si`
+
+බොලිවියාවේ රජය පෙරළාදමා හමුදා කුමන්ත්‍රණයකින් බලය අල්ලා ගැනීමට හමුදා ජෙනරාල්වරයෙක් ගත් උත්සාහය ව්‍යාර්ථ කර තිබේ.
+
+විදෙස් මාධ්‍ය පැවසුවේ කුමන්ත්‍රණයේ ප්‍රධානියා ලෙස හඳුනාගත් ජෙනරාල් Juan José Zúñiga ව එරට පොලීසිය විසින් අත්අඩංගුවට ගත් බවයි.
+
+ඔහුගේ නායකත්වය යටතේ හමුදා කණ්ඩායමක් ලා පාස් අගනුවර පිහිටි ජනාධිපති මන්දිරයට කඩා වැදී තිබුණි.
+
+එසේම රජයේ ප්‍රධාන ගොඩනැගිලි පිහිටා ඇති මුරිල්ලෝ චතුරශ්‍රයේ හමුදා සන්නද්ධ රථ ස්ථානගත කර තිබුණි. පසුව එම හමුදා කණ්ඩායම් ඉවත් විය.
+
+කුමන්ත්‍රණයට නායකත්වය දුන් ජෙනරාල්වරයා පවසා තිබුණේ එරට ප්‍රජාතන්ත්‍රවාදය ප්‍රතිව්‍යුහගත කිරීම ඔහුගේ උත්සාහය බවයි.
+
+නමුත් ජනාධිපති ලුවී ආර්ස් පවසා ඇත්තේ සිය රට අස්ථායි කිරීමට ගන්නා උත්සාහය ප්‍රතික්ෂේප කරන බවයි.
+
+◼️
+
+[Data](articles/5651ded5.json)
+
+---
+
+### ජනපති දළදා වහන්සේ වැඳ පුදාගනී
+
+*2024-06-27 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198205) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (27) උදෑසන මහනුවර ඓතිහාසික ශ්‍රී දළදා මාළිගය වෙත පැමිණ දළදා වහන්සේ වැඳපුදා ගත්තේය.
+
+ඉන් අනතුරුව ජනාධිපතිවරයා, මල්වතු පාර්ශවයේ මහා නායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සුමංගල මහා නායක හිමියන් සහ අස්ගිරි පාර්ශ්වයේ මහා නායක අතිපුජ්‍ය වරකාගොඩ ශ්‍රී ඥානරතන නායක හිමිපාණන් වහන්සේ බැහැදැක ආශිර්වාද ලබා ගෙන තිබේ.
+
+රටේ ආර්ථික සහ මූල්‍ය ප්‍රගතිය පිළිබඳ ප්‍රගතිශීලී සාකච්ඡාවක නිරත වූ ජනාධිපතිවරයා මහනුවර නගර සැලැස්ම මහනාහිමිවරුන් වෙත පිළිගැන්වූ බව ද ජනාධිපති මාධ්‍ය ඒකකය නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/3e3dd70e.json)
+
+---
 
 ### Chris Silverwood resigns as Sri Lanka head coach
 
@@ -41,6 +79,8 @@ The Head Coach of the Sri Lanka National Cricket Team Chris Silverwood, has tend
 ◼️
 
 [Data](articles/936f0c68.json)
+
+[Extended Data](ext_articles/936f0c68.ext.json)
 
 ---
 
@@ -55,6 +95,8 @@ The President engaged in progressive discussions on the country’s economic and
 ◼️
 
 [Data](articles/157634a4.json)
+
+[Extended Data](ext_articles/157634a4.ext.json)
 
 ---
 
@@ -76,19 +118,43 @@ The Supreme Court has then ordered for the petition to be recalled on August 05.
 
 [Data](articles/f49d3290.json)
 
+[Extended Data](ext_articles/f49d3290.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ඉල්ලා අස්වෙයි
+### மூதூர் - இருதயபுர மக்களின் போராட்டக்களத்துக்கு அருட்தந்தையர்கள், அரசியல்வாதிகள் விஜயம்
+
+*2024-06-27 10:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/187071) · `ta`
+
+திருகோணமலை மூதூர் இருதயபுரம் பகுதியில் திறக்கப்பட்டுள்ள மதுபானசாலைக்கு எதிராக போராடிவரும் மக்களை புதன்கிழமை (26) அருட்தந்தையர்கள், சமூக ஆர்வலர்கள், பாராளுமன்ற உறுப்பினர் இம்ரான் மஹ்ரூப், இலங்கை தமிழ் அரசு கட்சியின் மாவட்ட கிளை தலைவர் சண்முகம் குகதாசன் ஆகியோர் சந்தித்து அடுத்தகட்ட நடவடிக்கை தொடர்பாக கலந்துரையாடினர்.
+
+மூதூர் இருதய புரத்தில் ஆரம்பிக்கப்பட்ட மதுபான சாலைக்கு எதிர்ப்பு தெரிவித்து போராட்டத்தில் ஈடுபட்ட 15 நபர்களை மூதூர் பொலிஸார் செவ்வாய்க்கிழமை (25)கைது செய்து நீதிமன்றில் ஆஜர்படுத்திய போது அவர்களை எதிர்வரும் 3 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதிமன்றம் உத்திரவிட்டுள்ளது.
+
+குறித்த நபர்கள் அனுமதி இன்றி ஒன்று கூடியமை, பொலிஸாரின் கடமைக்கு இடையூறு விளைவித்தமை, பொலிஸாரை தாக்கியமை போன்ற குற்றச்சாட்டின் பேரில் கைது செய்யப்பட்டனர்.
+
+◼️
+
+[Data](articles/029987c8.json)
+
+---
+
+### Sri Lankan cricket team resigns
 
 *2024-06-27 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198204) · `si`
 
-ශ්‍රී ලංකා ජාතික ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ලෙස කටයුතු කළ එංගලන්ත ක්‍රිස් සිල්වර්වුඩ් මහතා එම තනතුරෙන් ඉල්ලා අස්වී තිබේ.
+England, the chief coach of Sri Lanka's cricket team, has resigned due to personal reasons.
 
-ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පැවසුවේ, පෞද්ගලික හේතු මත ඔහු එම තීරණය ගෙන ඇති බවය.
+🟩
+
+England, who was the chief coach of the Sri Lanka national cricket team, has resigned from the post.
+
+Sri Lanka Cricket said that he had taken that decision on personal reasons.
 
 ◼️
 
 [Data](articles/7fceb625.json)
+
+[Extended Data](ext_articles/7fceb625.ext.json)
 
 ---
 
@@ -115,6 +181,40 @@ Investigations have revealed that the suspects were carrying these explosives to
 [Data](articles/28679c63.json)
 
 [Extended Data](ext_articles/28679c63.ext.json)
+
+---
+
+### இரண்டாவது நாளாகவும் தொடரும் அதிபர்கள், ஆசிரியர்களின் போராட்டம்
+
+*2024-06-27 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/187070) · `ta`
+
+அதிபர்கள், ஆசிரியர்களின் தொழிற்சங்க ஏற்பாட்டில் இரண்டாவது நாளாகவும்  இன்று வியாழக்கிழமை (27) சுகயீன விடுப்பு போராட்டம்  முன்னெடுக்கப்பட்டுள்ளது.
+
+நாடளாவியரீதியில்  அதிபர்கள், ஆசிரியர்கள் தொழிற்சங்க கூட்டமைப்பின் ஏற்பாட்டில் சுகயீன விடுமுறை  போராட்டத்தினால்  இன்றும்  பாடசாலைகளில் கற்றல் கற்பித்தல் செயற்பாடுகள் முடங்கியுள்ளன.
+
+மாணவர்கள் வரவின்றி பாடசாலைகள் காணப்பட்டதுடன், பாடசாலைகளுக்கு அதிபர்கள், ஆசிரியர்கள் சமூகமளிக்காமையால் மாணவர்கள் வீடுகளுக்கு திரும்பி செல்வதை அவதானிக்க முடிந்துள்ளது.
+
+◼️
+
+[Data](articles/229d36cd.json)
+
+---
+
+### பால் புரைக்கேறியதில் ஒரு மாத குழந்தை உயிரிழப்பு !
+
+*2024-06-27 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187072) · `ta`
+
+யாழ்ப்பாணம், இணுவில் கிழக்கு பகுதியில் பால் புரைக்கேறியதில் பிறந்து நாற்பது நாட்களேயான பெண் குழந்தை ஒன்று நேற்று புதன்கிழமை (26) உயிரிழந்துள்ளது.
+
+நேற்றைய தினம் அதிகாலை குழந்தை அசைவற்றுக் கிடப்பதனை அவதானித்த பெற்றோர் குழந்தையினை தெல்லிப்பழை ஆதார வைத்தியசாலைக்கு எடுத்துச் சென்றுள்ளனர்.
+
+மரணம் தொடர்பிலான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டு உடற்கூற்று பரிசோதனைக்கு அறிவுறுத்தினார்.
+
+தொடர்ந்து யாழ்.போதனா வைத்தியசாலையில் இடம்பெற்ற உடற்கூற்றுப் பரிசோதனையில் பால் புரைக்கேறியமையினாலேயே மரணம் சம்பவித்துள்ளதாக அறிக்கையிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f21bab63.json)
 
 ---
 
@@ -990,6 +1090,8 @@ India, the world’s biggest democracy, held Parliamentary elections this year i
 
 [Data](articles/b4f24621.json)
 
+[Extended Data](ext_articles/b4f24621.ext.json)
+
 ---
 
 ### Success in the Debt Reorganization Agreement
@@ -1586,6 +1688,24 @@ A number of occasional railway line and highway projects will be started.
 
 ---
 
+### ග්‍රාම නිලධාරීන් දින 4ක් රාජකාරීවලින් ඉවතට
+
+*2024-06-26 19:54:08* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රාම-නිලධාරීන්-දින-4ක්-රාජකාරීවලින්-ඉවතට/11-410466) · `si`
+
+ගැටලු කිහිපයක්  මුල් කර ගනිමින් අද(27දා) සිට 30 වැනි දින දක්වා  දින 04 ක් සියලුම රාජකාරිවලින් ඉවත් වීමට කටයුතු කරන බවත්, වසර 61 ක ග්‍රාම නිලධාරී සේවා ඉතිහාසයේ සියලුම රාජකාරිවලින් ඉවත්වන පළමු අවස්ථාව මෙය බවත් ග්‍රාමනිලධාරි වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
+
+30 වැනි දින සවස වෘත්තීය සමිති සන්ධානයෙහි සිටින වෘත්තීය සමිති නියෝජිතයන් රැස් වී  ඉදිරි ක්‍රියා මාර්ග පිළිබඳව සාකච්ඡා කර තීරණයක් ගැනීමට කටයුතු කරන බවද එම සන්ධානයේ සමකැඳවුම්කරු  අයි. ජී. නෙත්තිකුමාර මහතා සඳහන් කළේය.
+
+මීට පෙර වැඩ වර්ජන සිදුවී තිබුණත් ආපදා තත්ත්වයන්ට අදාළ කටයුතු ඇතුළු රාජකාරි කිහිපයක් සිදුකර තිබෙන බවත්, පවතින ගැටලු විසඳීම ප්‍රමාද කරමින් තිබෙන නිසා සියලුම රාජකාරිවලින් ඉවත්වන බවත් හෙතෙම පවසා සිටියේය.
+
+ග්‍රාම නිලධාරී සේවාවට අදාළව පවතින දීමනා ගැටලු විසඳන ලෙසත් ග්‍රාම නිලධාරී වෘත්තීය සමිති විසින් ඉදිරිපත් කර තිබෙන යෝජනාවලට අනුව සේවා ව්‍යවස්ථාවක් සකස් කරන ලෙස හා නිලධාරීන්ගේ තනි කැමැත්තට සකස් කර තිබෙන සේවා ව්‍යවස්ථාව ඉවත් කරන ලෙසත් ඉල්ලා මෙම ක්‍රියා මාර්ගය සිදුකරන බවද ඒ මහතා පැවසීය.
+
+◼️
+
+[Data](articles/811b9f33.json)
+
+---
+
 ### 'Ranil is the guy'
 
 *2024-06-26 19:51:11* · [`adalk`](https://www.ada.lk/breaking_news/’රනිල්-තමයි-මිනිහා’/11-410465) · `si`
@@ -1607,6 +1727,26 @@ Ranil said that the man had been built in the public.. The Minister said that th
 [Data](articles/93592494.json)
 
 [Extended Data](ext_articles/93592494.ext.json)
+
+---
+
+### මාස තුනක් ඇතුළත වැඩිම ඩෙංගු රෝගීන් ගෙවුණු දින 25 තුළදී
+
+*2024-06-26 19:47:59* · [`adalk`](https://www.ada.lk/breaking_news/මාස-තුනක්-ඇතුළත-වැඩිම-ඩෙංගු-රෝගීන්-ගෙවුණු-දින-25-තුළදී/11-410464) · `si`
+
+ගෙවී ගිය මාස 03ක කාලය සැලකීමේදී වැඩිම ඩෙංගු රෝගීන් ප්‍රමාණය ගෙවුණු දින 25 තුළදී වාර්තා වී තිබෙන අතර, මේ මස 01වන දින සිට 25 වන දින දක්වා කාලය තුළදී ඩෙංගු රෝගීන් 2,719ක් වාර්තා වී තිබේ.
+
+පසුගිය මැයි මාසයේදී ඩෙංගු රෝගීන් 2,647ක් වාර්තා වී තිබෙන අතර, අප්‍රේල් මාසය තුළදීරෝගීන් 2,234ක් වාර්තා වී තිබේ. මේ අනුව මේ වසරේ ජනවාරි 01වන දින සිට මේ මස 25වන දින කාලයතුළදී ඩෙංගු රෝගීන් 27,639ක් වාර්තා වී ඇත.
+
+මේ වසරේ ජනවාරි 01වන දින සිට මේ මස 25වන දින දක්වා කාලය සැලකීමේදීඩෙංගු රෝගය නිසා පුද්ගල මරණ09ක් සිදුව තිබෙන බව සෞඛ්‍ය අංශ පෙන්වා දෙයි.
+
+පසුගිය මාර්තු මාසය තුළදී ඩෙංගු රෝගීන් 3,615ක් වාර්තා වී තිබෙන පෙබරවාරි මාසයේදීරෝගීන් 6,007ක් හා ජනවාරි මාසයේදීරෝගීන් 10,417ක් වාර්තා වී තිබෙන අතර,සෞඛ්‍ය වෛද්‍යනිලධාරී කොට්ඨාස බලප්‍රදේශ 13ක ඩෙංගු අධිඅවදානම් මට්ටමින් පැතිර යන බවද සඳහන් කරයි.
+
+මේ වසරේ ගෙවී ගිය කාලය තුළදී වාර්තා වන සමස්ත රෝගීන්ගෙන් 10,383ක් බස්නාහිර පළාත තුළින් වාර්තා වී තිබෙන අතර, එය සමස්ත රෝගීන්ගෙන් ප්‍රතිශතයක් ලෙස 37.6%කි.
+
+...
+
+[Data](articles/a727a1a2.json)
 
 ---
 
@@ -2087,163 +2227,5 @@ Accordingly, a need for a separate national education university has arisen. The
 [Data](articles/87ba7d05.json)
 
 [Extended Data](ext_articles/87ba7d05.ext.json)
-
----
-
-### Fitch downgrades Maldives to CCC+ as forex reserves fall
-
-*2024-06-26 18:15:00* · [`economynextcom`](https://economynext.com/fitch-downgrades-maldives-to-ccc-as-forex-reserves-fall-169704/) · `en`
-
-ECONOMYNEXT  – Fitch Ratings said it was downgrading Maldives sovereign rating to ‘CCC+’ from ‘B-‘ as forex reserves continued to slip.
-
-Foreign reserves have fallen 492 million US dollars in May 2024 from 748 million a year earlier with a 100 million US dollar swap from the Reserve Bank of India also repaid in December 2023.
-
-Continued monetary reserve falls come from inflationary policy (usually liquidity injections made to offset reserve sales and prevent interest rates from moving up), which make outflows of the balance of payments exceed inflows.
-
-The more open market operations are ‘modernized’ the more a currency is peg is made vulnerable and can lead to social unrest and default.
-
-The International Monetary Fund in its last review urged the Maldives Monetary Authority not to print money if it wanted to maintain the currency peg.
-
-Relation IMF urges Maldives to halt money printing to keep dollar peg amid ‘debt distress’
-
-...
-
-[Data](articles/0fe8cc24.json)
-
-[Extended Data](ext_articles/0fe8cc24.ext.json)
-
----
-
-### “The people must determine whether to move forward with me, as I truly comprehend the challenges facing the country, provide practical solutions, and demonstrate tangible results, or align with groups that have yet to grasp the issues and are blindly seeking power” President  Ranil  Wickremesinghe
-
-*2024-06-26 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84273) · `en`
-
-(Text of  special statement delivered by  President  Ranil  Wickremesinghe on 26 June 2024)
-
-Today marks a significant milestone in the recent history of our country, a special juncture reflecting the hard work and dedication of our efforts. Our country is now reaping the positive results of our persistent endeavours over the past years.
-
-This morning in Paris, Sri Lanka reached a final agreement with our official bilateral creditors. Similarly, we signed another agreement with China’s Exim Bank today in Beijing. This is indeed encouraging news for those who genuinely care about our country’s welfare.
-
-Over the past two years, we have worked diligently to reach agreements with our bilateral creditors, engaging in extensive discussions. The economic progress we have achieved has provided us with considerable strength in these negotiations.
-
-...
-
-[Data](articles/3cbef80b.json)
-
-[Extended Data](ext_articles/3cbef80b.ext.json)
-
----
-
-### Sri Lanka Finalizes Comprehensive  Debt Re-structuring Agreements with the Official Creditor Committee Co-chaired by France,Japan and India and China Exim Bank to the Combined Value of US $ 10 Billion.
-
-*2024-06-26 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84269) · `en`
-
-(Textr  of Press Release issued by the President’s  Media Division on 26 June 2024)
-
-In a significant milestone for Sri Lanka’s economic revitalization efforts, the nation has successfully finalized comprehensive debt restructuring agreements with key bilateral creditors. On June 26, 2024, Sri Lanka concluded negotiations with the Official Creditor Committee (OCC) and China Exim Bank, marking pivotal strides towards stabilizing its financial footing amid recent economic challenges.
-
-The agreements, valued at a combined USD 10 billion, encompass restructuring arrangements with major bilateral lenders under the auspices of the OCC, co-chaired by Japan, India, and France. Notable members of the committee include Australia, Austria, Belgium, Canada, Denmark, Germany, Hungary, Korea, the Netherlands, Russia, Spain, Sweden, the United Kingdom, and the United States of America.
-
-...
-
-[Data](articles/81c31c90.json)
-
-[Extended Data](ext_articles/81c31c90.ext.json)
-
----
-
-### 6 crores arrested with golden gel
-
-*2024-06-26 17:47:25* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-18ක-රත්තරන්-ජෙල්-සමග-6ක්-අල්ලයි/11-410454) · `si`
-
-Six individuals, aged 30-50, were arrested at Bandaranaike International Airport upon arrival from Dubai to Sri Lanka. The arrest followed a scan test revealing 22g of gold paste and 632g of gold leaf concealed in their bodies. They will be presented to the Negombo Magistrate's Court for further investigation.
-
-🟩
-
-Airport Customs officers have been arrested by the Airport Customs Officers at the Bandaranaike International Airport with Rs.
-
-There are six people who are frequently engaged in flights, between 30 and 50 years of age, between 30 and 50 years of age.
-
-They came to the Katunayake Airport on 06/25 pm on 06/25 pm, from Dubai to Srinai, India.
-
-The arrest has been made after the search machines (SCAN Test) tests of the airport customs.
-
-Around 22 gulf of gold included in the ana and 632 gulf of gold and 632 gulf of gold was added to four gold leaves in the bodies of gold gel..
-
-The arrest and further investigations have been made by the Director of Customs and Customs Officers, Katunayake Airport and the Customs Officers, who are to be produced before the Negombo Magistrate's Court on 06/22.
-
-◼️
-
-[Data](articles/25e63fc9.json)
-
-[Extended Data](ext_articles/25e63fc9.ext.json)
-
----
-
-### Tear smoke tomorrow
-
-*2024-06-26 17:47:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்ணீர்-புகையால்-நாளைக்கும்-சுகயீனம்/175-339480) · `ta`
-
-Teachers in Sri Lanka, led by the Vice President of the Sri Lanka Teachers Association, plan a protest against government repression, highlighting unresolved salary issues and calling for support.
-
-🟩
-
-Vice President of the Sri Lanka Teachers Association, A. Deepan Dilean, said that the Chancellor, the teachers and the teachers will launch a sick struggle on Thursday (27), condemning the repression of the Ranil-Rajapakse government on principals and teachers.
-
-The Chancellor does not provide a solution to the salary contradiction to the teachers, but the chancellor, who asks what he wants, will be carried out tomorrow (27), condemning the democratic struggle of the teachers, the use of water and tears, and the tearful smokes and tears.
-
-He has called for support today to condemn the repression of principals and teachers.
-
-◼️
-
-[Data](articles/df0af8f6.json)
-
-[Extended Data](ext_articles/df0af8f6.ext.json)
-
----
-
-### US welcomes Sri Lanka debt restructuring agreement
-
-*2024-06-26 17:39:00* · [`economynextcom`](https://economynext.com/us-welcomes-sri-lanka-debt-restructuring-agreement-169685/) · `en`
-
-ECONOMYNEXT — The United States welcomes  the news of a final agreement on debt restructuring between Sri Lanka and creditor nations reached on Wednesday June 26, US Ambassador to Sri Lanka Julie Chung said.
-
-The diplomat tweeted Wednesday afternoon that that the agreement is a positive step forward in Sri Lanka’s economic recovery and resilience, helping build more confidence in Sri Lanka’s fiscal environment.
-
-“The US encourages Sri Lanka to continue the reform process, adopting transparent and sustainable changes that foster long-term prosperity and growth,” she said.
-
-The agreement was reached on the sidelines of the Paris Forum 2024 in France.
-
-State Minister of Finance Shehan Semasinsghe tweeted from Paris Wednesday afternoon that the final agreement had been reached on debt restructuring between Sri Lanka and the Official Creditor Committee.
-
-...
-
-[Data](articles/012797d8.json)
-
-[Extended Data](ext_articles/012797d8.ext.json)
-
----
-
-### Co-Xim Bank to a final agreement with loan remedies
-
-*2024-06-26 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198187) · `si`
-
-Sri Lanka and China's Exim Bank have finalized loan agreements, with key discussions held in Paris. The official signing for implementing these deals is imminent. Additionally, Sri Lanka has reached a final agreement worth $5.8 billion with its debt creditors' committee in Paris.
-
-🟩
-
-Minister of State Shehan Semasinghe says that the bilateral loan remedies were reached between Sri Lanka and Chinese Exim Bank.
-
-The State Minister further states that the Final Minister of China has met with the Deputy Finance Minister of China in Paris.
-
-Accordingly, the official signing of the implementation of the agreements will take place.
-
-Meanwhile, Sri Lanka has also reached the final agreement of US $ 5.8 billion in debt creditors' official committee in Paris today.
-
-◼️
-
-[Data](articles/4d6498da.json)
-
-[Extended Data](ext_articles/4d6498da.ext.json)
 
 ---

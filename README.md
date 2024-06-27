@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 01:54:13**
+As of **2024-06-28 02:04:40**
 
 ## Newspaper Stats
 
-*Scraped **32,537** Articles*
+*Scraped **32,538** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 296
+colombotelegraphcom | 297
 dbsjeyarajcom | 299
 bbccomsinhala | 320
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,350
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,537 (100.0%) of 32,537 articles have been extended.
+32,537 (100.0%) of 32,538 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -431,6 +431,20 @@ The Ministry of Education has announced that all government schools will be held
 [Data](articles/ada686fa.json)
 
 [Extended Data](ext_articles/ada686fa.ext.json)
+
+---
+
+### She Walked Gently Into The Night: A Tribute To Roma De Zoysa
+
+*2024-06-27 20:09:28* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/she-walked-gently-into-the-night-a-tribute-to-roma-de-zoysa/) · `en`
+
+I did not know Roma de Zoysa prior to my arriving in Southern California. But her impeccable pedigree, which needed no exaggeration, had been a subject of many a conversation that occurred in the Los Angeles circles. When I met her for the first time, the immediacy of her presence was no surprise either. The impression she created has been embedded in me never to fade away, ever.
+
+Roma’s journey of life through nine decades on earth has been one that most Ceylonese ladies would compete enviably to share; born into one of the most prestigious and elite Down-South families, Roma, amongst mostly men, led not only her own life in her own terms but also influenced a then patriarchal social environment with stoicism of a man and elegance of a graceful lady. She could not let a social event occur without her serene intervention nor could she wait without contributing her mite which was of enormous magnitude in material finesse and spiritual guidance.
+
+...
+
+[Data](articles/cb3c9fe5.json)
 
 ---
 
@@ -2373,29 +2387,5 @@ However, the police also took steps to be admitted to Kilinochchi General Hospit
 [Data](articles/65694b5e.json)
 
 [Extended Data](ext_articles/65694b5e.ext.json)
-
----
-
-### Honduras ex-President Hernandez sentenced to 45 years in prison on US drug conviction
-
-*2024-06-27 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100137/honduras-ex-president-hernandez-sentenced-to-45-years-in-prison-on-us-drug-conviction) · `en`
-
-Former Honduran President Juan Orlando Hernandez was sentenced by a U.S. judge on Wednesday to 45 years in prison for his conviction on drug and firearm offenses.
-
-The sentence means Hernandez, 55, will likely spend the rest of his life behind bars, unless his expected appeal succeeds.
-
-A Manhattan jury found him guilty in March of accepting millions of dollars in bribes to protect U.S.-bound cocaine shipments belonging to traffickers he once publicly proclaimed to combat.
-
-Prosecutors had sought a life sentence, while defense lawyers said a 40-year term, the mandatory minimum under federal law, was enough.
-
-U.S. District Judge Kevin Castel said the 45-year sentence should send a message to well-educated, seemingly personable defendants who may believe they are insulated from prosecution.
-
-He also said jurors saw through Hernandez’s “polished demeanor” during the two-week trial, where he took the stand in his own defense.
-
-...
-
-[Data](articles/c65e7b15.json)
-
-[Extended Data](ext_articles/c65e7b15.ext.json)
 
 ---

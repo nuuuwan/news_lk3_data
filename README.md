@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 13:19:23**
+As of **2024-06-27 13:34:55**
 
 ## Newspaper Stats
 
-*Scraped **32,433** Articles*
+*Scraped **32,439** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,120 @@ newsfirstlk | 363
 islandlk | 1,802
 economynextcom | 1,887
 dailyftlk | 1,988
-adalk | 2,872
-adaderanalk | 3,690
+adalk | 2,873
+adaderanalk | 3,694
 tamilmirrorlk | 3,830
 dailymirrorlk | 4,733
 virakesarilk | 5,030
-adaderanasinhalalk | 5,325
+adaderanasinhalalk | 5,326
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,433 (100.0%) of 32,433 articles have been extended.
+32,434 (100.0%) of 32,439 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### Supreme Court stays degazetting of Vidataltivu reserve
+
+*2024-06-27 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100141/supreme-court-stays-degazetting-of-vidataltivu-reserve) · `en`
+
+The Supreme Court has issued an interim order preventing the implementation of Gazette notification issued by Wildlife Minister Pavithra Wanniarachchi, which de-gazetted a section of the Vidataltivu Nature Reserve in Wilpattu to allocate it for a prawn farm project.
+
+◼️
+
+[Data](articles/297d6ad4.json)
+
+---
+
+### සමරිසි පුද්ගලයින්ව කොල්ලකන අමුතුම ජාවාරමක්
+
+*2024-06-27 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198210) · `si`
+
+සමරිසි පුද්ගලයන්ට තවත් එවැනිම පුද්ගලයන් හඳුන්වාදෙන බව පවසා පාළු නිවෙසකට ගෙන්වා නිරුවත් කර පහරදී එම දර්ශන අන්තර්ජාලයට මුදාහරින බවට තර්ජනය කර රුපියල් ලක්ෂ ගණනින් කප්පම්ගත් තිදෙනෙකු මිරිහාන මූලස්ථාන පොලිසිය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරුවන් කලකපටන් සංවිධානාත්මකව මෙම කප්පම්ගැනීම සිදුකර ඇති බව පොලීසිය පැවසුවේය.
+
+නුගේගොඩ ප්‍රදේශයේ වෙළෙඳසැලක සේවය කරන බණ්ඩාරවෙල ප්‍රදේශයේ පදිංචි 39 හැවිරිදි  පුද්ගලයෙකු  සමරිසි පුද්ගලයන් සම්බන්ධ කරන යෙදුමකට සම්බන්ධ වීමෙන්‍ අනතුරුව පිටකෝට්ටේ, බැද්දගාන වෙහෙරකන්ද ප්‍රදේශයේ පාළු දෙමහල් නිවසකට ඔහුව පුද්ගලයෙකු විසින් ගෙන්වා තිබේ.
+
+එලෙස ගෙන්වාගත් පුද්ගලයාට තිදෙනෙකුගෙන් යුත් කණ්ඩායමක් පහරදී නිරුවත් කර එම දර්ශන වීඩියෝගත කර අන්තර්ජාලයට මුදහරින බවට තර්ජනය කර ඇති බව පොලීසිය පැවසුවේය.
+
+එසේ නොකිරීමට නම් අදාළ පිරිස රුපියල් ලක්ෂයක කප්පම් මුදලක් අදාළ පුද්ගලයාගෙන් ඉල්ලා තිබේ.
+
+පසුව ඔහු ඒ පිළිබඳව මිරිහාන මූලස්ථාන පොලීසියට පැමිණිලි කිරීමෙන් අනතුරුව පොලීසිය ඔහු ලවා දුරකථන ඇමතුමක් අදාළ පිරිසට ලබාදී පවසා ඇත්තේ, මුදල් ලබාගැනීම සඳහා පිටකෝට්ටේ මංසන්දියට පැමිණෙන ලෙසය.
+
+...
+
+[Data](articles/1cf0037d.json)
+
+---
+
+### Kenya’s president withdraws tax plan after deadly protest
+
+*2024-06-27 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100140/kenyas-president-withdraws-tax-plan-after-deadly-protest) · `en`
+
+Kenya’s President William Ruto says he will withdraw a finance bill containing controversial tax hikes after deadly protests which saw parliament set ablaze on Tuesday.
+
+In an address to the nation, he said it was clear that Kenyans “want nothing” to do with the bill.
+
+“I concede,” he said, adding that he would not sign the bill into law.
+
+At least 22 people were killed in Tuesday’s protests, according to the state-funded Kenya National Commission on Human Rights (KNHRC).
+
+Mr Ruto said he would now enter into dialogue with the young people, who were at the forefront of the biggest protests to hit the country since he was elected in 2022.
+
+The bill was passed by parliament on Tuesday, despite nationwide demonstrations against it.
+
+Protesters broke into parliament, vandalising the interior and setting parts of the complex on fire. The ceremonial mace, symbolising the authority of the legislature, was stolen.
+
+He ordered the military to be deployed, saying “violence and anarchy” would not be tolerated.
+
+...
+
+[Data](articles/7de9f82e.json)
+
+---
+
+### Free MOP fertilizer for paddy cultivation for next two ‘Maha’ seasons
+
+*2024-06-27 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100139/-free-mop-fertilizer-for-paddy-cultivation-for-next-two-maha-seasons) · `en`
+
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera, announced that a national week for the implementation of the Youth Agri-Entrepreneurship Village Program will be held from July 01st to 07th.
+
+He also stated that the government has decided to provide free MOP fertilizer for paddy cultivation to farmers for the next two seasons.
+
+Minister Amaraweera made these remarks during a press briefing themed “Collective Path to a Stable Country”, held at the Presidential Media Centre (PMC) yesterday (26).
+
+Addressing the press briefing, the minister further elaborated that the Ministry of Agriculture and Plantation Industries has launched various programs to attract youth to the agriculture sector and as part of this effort, 160 villages across the 25 districts in the country have been selected to become Youth Agri-Entrepreneurship Villages.
+
+...
+
+[Data](articles/3f65c32b.json)
+
+---
+
+### Indian fishermen to be charged over death of Sri Lanka Navy sailor
+
+*2024-06-27 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100138/indian-fishermen-to-be-charged-over-death-of-sri-lanka-navy-sailor) · `en`
+
+Sri Lanka Navy says that the 10 Indian fishermen who were arrested while poaching in Sri Lankan waters off Kankesanthurai in the early hours of Tuesday (25) will also face charges for causing the death of a naval person and for causing damage to naval property.
+
+The Sri Lanka Navy had conducted a special operation off Kankesanthurai, Jaffna in the wee hours of June 25, to seize an Indian fishing trawler poaching in Sri Lankan waters.
+
+During this operation, a senior sailor from the Navy Special Boat Squadron sustained critical injuries due to the aggressive manoeuvres of the Indian trawler, resisting its seizure, the navy said.
+
+Unfortunately, the senior sailor succumbed to his injuries after being admitted to the Jaffna Teaching Hospital.
+
+The seized Indian trawler along with the 10 Indian fishermen were brought to the Kankesanthurai Harbour and they were handed over to the Kankesanthurai Police for onward legal proceedings.
+
+...
+
+[Data](articles/4f41c697.json)
+
+---
 
 ### Manager remanded for jewelery and money
 
@@ -57,6 +155,24 @@ The Keyner owner has complained to the Special Criminal Investigation Unit again
 [Data](articles/60c03f35.json)
 
 [Extended Data](ext_articles/60c03f35.ext.json)
+
+---
+
+### President pays homage to the Lord the Lord
+
+*2024-06-27 12:17:48* · [`adalk`](https://www.ada.lk/religion/ජනපති-දළඳා-සමිඳුන්-වැඳ-පුදා-ගනියි/4-410476) · `si`
+
+President Ranil Wickremesinghe visited Kandy to pay respects at the Sri Dalada Maligawa, honoring the sacred relic.
+
+🟩
+
+President Ranil Wickremesinghe has come to Kandy and paid homage to the Sri Dalada Mandasiya.
+
+◼️
+
+[Data](articles/6d346bbf.json)
+
+[Extended Data](ext_articles/6d346bbf.ext.json)
 
 ---
 
@@ -2151,139 +2267,5 @@ Ranil said that the man had been built in the public.. The Minister said that th
 [Data](articles/93592494.json)
 
 [Extended Data](ext_articles/93592494.ext.json)
-
----
-
-### The highest number of dengue patients during three months
-
-*2024-06-26 19:47:59* · [`adalk`](https://www.ada.lk/breaking_news/මාස-තුනක්-ඇතුළත-වැඩිම-ඩෙංගු-රෝගීන්-ගෙවුණු-දින-25-තුළදී/11-410464) · `si`
-
-Over the past 25 days, the highest number of dengue patients was reported, reaching 27,639 on the 25th of this month. This surpasses the previous highs of 2,647 in May and 2,234 in April. The health sector also noted nine deaths since January 1st. Notably, the Western Province accounted for 10,383 of the total patients reported this year, with significant numbers also reported from the Gampaha, Jaffna, Kandy, Puttalam, and Ratnapura districts.
-
-🟩
-
-The highest number of dengue patients has been reported during the past 25 days in the past 25 days.
-
-2,647 dengue patients have been reported last May and 2,234 in April have been reported in April. Accordingly, 27,639 dengue patients have been reported on the 25th of this month.
-
-The health sector points out that there have been nine deaths due to the treatment of the period from 1st January this year.
-
-In March, 6,615 dengue patients were reported in February and 10,417 dengue in January and 10,417 health staff divisions.
-
-10,383 of the total number of patients reported this year have been reported from the Western Province.
-
-In the Gampaha district, 3,720 cases of the Gampaha district have been reported from the Gampaha district, including the Gampaha district, and the number of patients reported from the Jaffna district.
-
-1,159 patients from the Kandy district, 739 patients were reported from the Puttalam district, 1,614 from the Ratnapura district.
-
-◼️
-
-[Data](articles/a727a1a2.json)
-
-[Extended Data](ext_articles/a727a1a2.ext.json)
-
----
-
-### Mahela Jayawardena suddenly resigned
-
-*2024-06-26 19:44:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-பதவி-விலகினார்-மஹேல-ஜயவர்தன/175-339485) · `ta`
-
-Mahela Jayawardene, former Sri Lankan cricket team captain, abruptly resigned as Sri Lanka Cricket Advisor Instructor. The resignation took effect immediately.
-
-🟩
-
-Former captain of the Sri Lankan cricket team, Mahela Jayawardene, has suddenly resigned from the post of Sri Lanka Cricket Advisor Instructor.
-
-Sri Lanka has announced that he has resigned from his post immediately. Remble
-
-◼️
-
-[Data](articles/4b35e92d.json)
-
-[Extended Data](ext_articles/4b35e92d.ext.json)
-
----
-
-### A capture of a capture 'a candider' a jungle poster
-
-*2024-06-26 19:44:17* · [`adalk`](https://www.ada.lk/breaking_news/’පොහොට්ටුවෙන්-අපේක්ෂකයෙක්’-පෝස්ටරය-කැලෑ-පෝස්ටරයක්/11-410463) · `si`
-
-Mahindananda Aluthgamage, a parliamentarian, hasn't chosen a presidential candidate from the Sri Lanka Civil Front yet. A candidate mentioned in a jungle poster claims responsibility for the general forest. Aluthgamage, speaking in Colombo, hinted at the unpredictability of the upcoming race.
-
-🟩
-
-Parliamentarian Mahindananda Aluthgamage said that he has not yet been decided on the presidential candidate presented by the Sri Lanka Civil Front.
-
-A candidate is a candidate and said that the poster is a candidate, a candidate, said that he was responsible for the general forest.
-
-Mr. Aluthgamage made this statement at a press conference held in Colombo today (26). He also said that the candidate to win the rhost.
-
-◼️
-
-[Data](articles/e920819e.json)
-
-[Extended Data](ext_articles/e920819e.ext.json)
-
----
-
-### China - Main deal between Sri Lanka has been signed
-
-*2024-06-26 19:41:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனா-இலங்கைக்கு-இடையில்-முக்கிய-ஒப்பந்தம்-கைச்சாத்தானது/175-339484) · `ta`
-
-Sri Lanka and China have finalized a $4.2 billion loan restructuring deal, signing a bilateral credit relief agreement in Beijing. This marks a significant step in stabilizing Sri Lanka's financial situation.
-
-🟩
-
-The bilateral credit relief agreement between Sri Lanka and Eyes Bank has been signed in Beijing this evening.
-
-The agreement was signed after both sides reached the final agreement to restructure a $ 4.2 billion loan. Remble
-
-◼️
-
-[Data](articles/784559a0.json)
-
-[Extended Data](ext_articles/784559a0.ext.json)
-
----
-
-### Sri Lanka has successfully completed the credit restructuring agreement with its official bilateral credit providers!
-
-*2024-06-26 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/187055) · `ta`
-
-Sri Lanka has finalized debt restructuring agreements with key bilateral creditors, including China's Exim Bank, after negotiations aimed at managing its post-2022 economic crisis. The deal, worth $10 billion, involves loan extensions, reduced interest rates, and extended payment periods, facilitated by the IMF's Debt Sustainability Analysis. This move aims to stabilize Sri Lanka's economy, improve its credit rating, and resume bilateral financing for crucial infrastructure projects, benefiting sectors like construction and potentially attracting more foreign investment.
-
-🟩
-
-Sri Lanka has completed the debt restructuring negotiations with its prominent official bilateral credit providers in Peris on Wednesday morning, and has reached a final compliance with the official credit providers' committee.
-
-In addition, Sri Lanka has reached its final compliance with China's Exim Bank on debt renovation and signed a Memorandum of Understanding (MoU).
-
-Along with these compliance, Sri Lanka has successfully completed its major official bilateral credit providers' credit restructuring compliance.
-
-Japan, India and France led the official credit provide group. There were other members of this official credit providers group including Australia, Australia, Australia, Belgium, Canada, Denmark, Germany, Hungary, Korea, the Netherlands, Russia, Spain, Sweden, the United Kingdom and the United States.
-
-...
-
-[Data](articles/3e421693.json)
-
-[Extended Data](ext_articles/3e421693.ext.json)
-
----
-
-### Mahela resigns
-
-*2024-06-26 19:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198189) · `si`
-
-Maheera Jayawardene has stepped down as Sri Lanka Cricket's Training Consultant.
-
-🟩
-
-Sri Lanka Cricket has issued a statement that Maheera Jayawardene resigned from the post of Sri Lanka Cricket Training Consultant.
-
-◼️
-
-[Data](articles/92b5c360.json)
-
-[Extended Data](ext_articles/92b5c360.ext.json)
 
 ---

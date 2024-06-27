@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 16:51:29**
+As of **2024-06-27 17:04:48**
 
 ## Newspaper Stats
 
-*Scraped **32,479** Articles*
+*Scraped **32,481** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,802
 economynextcom | 1,890
 dailyftlk | 1,988
-adalk | 2,879
+adalk | 2,881
 adaderanalk | 3,698
 tamilmirrorlk | 3,832
 dailymirrorlk | 4,733
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,334
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,478 (100.0%) of 32,479 articles have been extended.
+32,479 (100.0%) of 32,481 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### අයෙක් අවමංගල්‍ය රථයේ අවසන් ගමන් යැවූ පුද්ගලයා භාරවෙයි
+
+*2024-06-27 16:43:34* · [`adalk`](https://www.ada.lk/breaking_news/අයෙක්-අවමංගල්‍ය-රථයේ-අවසන්-ගමන්-යැවූ-පුද්ගලයා-භාරවෙයි/11-410481) · `si`
+
+අම්බලන්ගොඩ  ආදාදොල  ආවාස වත්ත පදේශයේදී  මළ මිනී පවාහනය කරනු ලබන මෝටර් රථයක් තුළ  කපා කොටා ඝාතනය කර තිබූ මල් ශාලා හිමිකරු ඝාතනය කළා යයි කියන තැනැත්තා අද(27)නීතීඥයකු මාර්ගයෙන් භාරවීමෙන් පසු සැකපිට පශ්න කිරීම සදහා අත් අඩංගුවට ගත් බව අම්බලන්ගොඩ පොලීසිය කියයි.
+
+සැකකරු විසින් මෙසේ ඝාතනය කොට තිබුණේ තෙල් වත්ත මළවැන්න දකුණ පදිංචි 47  හැවිරිදි  පුද්ගලයකු බවද පොලීසිය කියයි.
+
+මේ මල් ශාලා හිමිකරු ඝාතනය කර තිබුණේ ජුනි මස 25 වැනිදා රෑ බවත් මේ ඝාතනය සම්බන්ධයෙන් සැකපිට පශ්න කිරීම සදහා අත් අඩංගුවට ගැනුණේ ඔහුගේම මල් ශාලාවේ සේවය කළ සේවකයකු බවද පොලීසිය කියයි.
+
+සැකකරු වතුගෙදර ආදාදොළ පදේශයේම පදිංචි විසිඅට හැවිරිදි  දෙදරු පියෙක් බවත් මල් ශාලා හිමිකරු සිය භාර්යාව සමග පවත්වාගෙන යතැයි කියන අනියම් සම්බන්ධතාවය මේ ඝාතනයේ හේතුව බව  අනාවරණයවූ බවත් පොලීසිය කියයි.
+
+ඝාතනයවූ තැනැත්තා අම්බලන්ගොඩ තල්ගස්ගොඩ අම්බලන්ගොඩ ඩිපෝව අසල නිව් රේමන් නමින් මල් ශාලාවක් පවත්වාගෙන යන අයෙක් වන අතර ඔහු එම මල්ශාලාවේ හිමිකරු බවත් පවසන පොලීසිය ඔහුගේ ඝාතකයාද එම මල් ශාලාවේ සේවකයකු ලෙස වැඩකරන අයෙකු බවත් පොලීසිය කියයි.
+
+...
+
+[Data](articles/1bed6543.json)
+
+---
 
 ### Supreme Court decides to expedite case over nominating SC judges
 
@@ -45,6 +65,8 @@ The Supreme Court had issued this interim order while allowing the hearing of a 
 ◼️
 
 [Data](articles/6ecdd383.json)
+
+[Extended Data](ext_articles/6ecdd383.ext.json)
 
 ---
 
@@ -121,6 +143,22 @@ The conference will be attended by Chinese President Xi Jinping, Prime Minister 
 [Data](articles/d221fbe9.json)
 
 [Extended Data](ext_articles/d221fbe9.ext.json)
+
+---
+
+### ගුරු දෙවිවරුනේ හෙට ඉදන් වැඩට එන්න
+
+*2024-06-27 15:41:28* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-දෙවිවරුනේ-හෙට-ඉදන්-වැඩට-එන්න/11-410480) · `si`
+
+සුවහසක් දරුවන් වෙනුවෙන් හෙටදිනයේ සිට ගුරු දෙවිවරු ලෙස සලකන සියලුම ගුරු මෑණිවරුන්ගෙන් හා පියවරුන්ගෙන් කාරුණිකව සේවයට වර්ථා කරන ලෙස වැඩබලන අධ්‍යපන අමාත්‍යවරයා වහයෙන් ආචාර්යය බන්දුල ගුණවර්ධන මහතා ඉල්ලා සිටියි. පවතින ගුරු වර්ජනය සම්බන්ධයෙන් දැනුවත් කිරීමේ ප්‍රවෘති සාකච්ඡාවකට එක්වෙමින් ඒ්මහතා අද ( 27) රජයේ ප්‍රවෘති දෙපාර්ථමේන්තුවේදී මෙසේ ඉල්ලා සිටින ලදී.
+
+ජාත්‍යන්තර පාසල් හා අනෙකුත් පුද්ගලික පාසල්වල දරුවන් කිසිදු ගුරු වර්ජනයකින් තොරව අඛණ්ඩව අධ්‍යපන ලබාදීමේ ක්‍රයාවලිය සිදුවන නමුදු ආන්ඩුවට බදුගෙවන දුප්පත් ජනතාවගේ දරුවන්ට අද එම තත්වය අහිමිවී ඇතිබවත් ඒ්මහතා වැඩිදුරටත් කියා සිටියේය.
+
+බදු ගෙවන ජනතාවගේ බදු මුදලින් වැටුප් ගෙවන විට වැටුප් ගෙවීම පිලිබද ආණ්ඩුවට  කලහැකි උපරිමය ගුරුවරුන් සඳහා කර ඇති බවත් ඒ් මහතා මෙම අවස්ථාවේදී ප්‍රකාශකර සිටියේය.
+
+◼️
+
+[Data](articles/bfa131be.json)
 
 ---
 
@@ -2365,53 +2403,5 @@ On the other hand, South Africa, who won all the tournament in the T -groups and
 [Data](articles/10088012.json)
 
 [Extended Data](ext_articles/10088012.ext.json)
-
----
-
-### Demonstration in Kenya: 23 people die
-
-*2024-06-27 01:49:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கென்யாவில்-ஆர்ப்பாட்டம்-23-பேர்-உயிரிழப்பு/50-339504) · `ta`
-
-In Kenya, a demonstration against a new taxation and financial bill turned violent, resulting in 23 deaths and numerous injuries. The protest focused on the VAT increase on essentials, leading to clashes.
-
-🟩
-
-23 people have been killed in a clash during a demonstration in Kenya. Many people have been injured.
-
-The demonstration was launched in protest of the new taxation bill and the controversial financial bill.
-
-The reason for the Kenyan demonstration is the imposition of the value added tax on many essential services and goods in accordance with the new financial bill.
-
-After passing the bill, MPs have left the secret bunker.
-
-◼️
-
-[Data](articles/093120dd.json)
-
-[Extended Data](ext_articles/093120dd.ext.json)
-
----
-
-### Free fertilizer for paddy cultivation
-
-*2024-06-27 01:45:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்-பயிர்ச்செய்கைக்கு-இலவச-உரம்/175-339503) · `ta`
-
-The Sri Lankan government, under Minister Mahinda Amaraweera, plans to offer free MOP fertilizer for the upcoming two rice planting seasons. Additionally, it aims to engage young people in agriculture through a program starting July 1st, allocating 1600 million rupees for 160 selected villages' youth agricultural entrepreneurship initiatives.
-
-🟩
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera said that the government has decided to provide the MOP fertilizer for the next two major booms for the next two major booms.
-
-Minister Mahinda Amaraweera said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-The Ministry of Agriculture and Plantation Industries has launched a number of programs to attract the youth community to the agriculture sector.. In this regard, all arrangements have been made to select 160 villages in the country, including the start of the youth agricultural entrepreneurs.
-
-Accordingly, from July 01 to July 07, we declare the National Week of the Youth Agricultural Entrepreneurship Village Program.. 10 million rupees will be paid to start these programs in each village for the first time. He said the amount allocated for this was 1600 million rupees. (A)
-
-◼️
-
-[Data](articles/b4830519.json)
-
-[Extended Data](ext_articles/b4830519.ext.json)
 
 ---

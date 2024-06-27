@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 18:13:54**
+As of **2024-06-27 18:25:26**
 
 ## Newspaper Stats
 
-*Scraped **32,497** Articles*
+*Scraped **32,498** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,95 +20,141 @@ adaderanalk | 3,699
 tamilmirrorlk | 3,833
 dailymirrorlk | 4,733
 virakesarilk | 5,054
-adaderanasinhalalk | 5,338
+adaderanasinhalalk | 5,339
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,486 (100.0%) of 32,497 articles have been extended.
+32,493 (100.0%) of 32,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### பொலிஸார்   அரசஅதிகாரிகளின் ஆதரவுடன் இலங்கையில் மத சிறுபான்மையினருக்கு எதிரான நடவடிக்கைகள் - மதசுதந்திர அறிக்கையில் அமெரிக்கா குற்றச்சாட்டு
+### පැරිස් එකඟතා ගිවිසුම් ගැන රාජ්‍ය ඇමති හෙළිකරයි
+
+*2024-06-27 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198223) · `si`
+
+ණය ප්‍රතිව්‍යූහගත කිරීම අවසන් කිරීමට අවශ්‍ය ප්‍රධාන අදියර තුනෙන් අදියර 2ක් මේ වනවිට අවසන් කර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+
+ඔහු පැවසුවේ ඉතිරිව ඇති අනෙක් අදියර වන පෞද්ගලික බැඳුම්කරහිමියන් සමග එකඟතාවයකට පැමිණීම සම්බන්ධයෙන් අවශ්‍ය කටයුතු සිදුකරමින් පවතින බවයි.
+
+රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් පැවසුවේ ණය ප්‍රතිව්‍යූහගතකරණය තුළින් ණය ගෙවන කාලය ආසන්න වශයෙන් 2043 වසර දක්වා දීර්ඝවීමක් සිදුවන බවත්ය.
+
+...
+
+[Data](articles/6caef65a.json)
+
+---
+
+### Anti -Religious Minority Activities in Sri Lanka with the support of state authorities
 
 *2024-06-27 17:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/187115) · `ta`
 
-பொலிஸார்   அரசஅதிகாரிகளின் ஆதரவுடன் இலங்கையில் மத சிறுபான்மையினருக்கு எதிரான நடவடிக்கைகள் - மதசுதந்திர அறிக்கையில் அமெரிக்கா குற்றச்சாட்டு
+In Sri Lanka, state-supported anti-religious minority activities have escalated, with police involvement. The U.S. highlighted these issues in its 2023 religious freedom report. Local majority communities claim state backing for violent incidents against religious minorities, especially Christians and Muslims. Christian groups allege harassment and restrictions on religious practices, with the National Christian Swiss Coalition Organization (NCEASL) reporting police and state official interference. Civil activists and media report arrests of Tamil National People's Front supporters for peaceful protests and ongoing surveillance and harassment of Muslims post-2019 Easter Sunday attacks. The government is accused of viewing Muslim and Christian communities as threats to Sinhala Buddhist dominance, leading to legal controls and arrests under the ICCPR law. Religious transaction registrations are criticized for being arbitrary, with NCEASL reporting nine incidents against Muslims and 13 against Hindus. Concerns also arise over the Presidential Secretariat for Archaeological Traditional Management potentially leading to land grabs in Tamil and Muslim areas.
 
-இலங்கையில் மதசிறுபான்மையினருக்கு எதிரான வன்முறைகள் தொடர்வதாக தெரிவித்துள்ள அமெரிக்கா இந்த நடவடிக்கைகளிற்கு அரச அதிகாரிகள் ஆதரவளிப்பதாக தகவல்கள் கிடைத்துள்ளதாக தெரிவித்துள்ளது.
+🟩
 
-2023 ம் ஆண்டு மத சுதந்திரம் தொடர்பான வருடாந்த அறிக்கையில் அமெரிக்கா இதனை தெரிவித்துள்ளது.
+Anti -Religious Minority Activities in Sri Lanka with the support of police officials
 
-உள்ளுர் பெரும்பான்மை மதசமூகத்தின் உறுப்பினர்கள் வன்முறை சம்பவங்களில் ஈடுபட்டதாக தெரிவித்த மதசிறுபான்மையினத்தவர்கள் அவர்களிற்கு அரச அதிகாரிகள் ஆதரவளித்ததாக தெரிவித்தனர்.
+The United States has said that the US has said that state officials have received support for these measures.
 
-பௌத்த கிராமங்களில் கிறிஸ்தவர்கள் தங்கள் நடவடிக்கைகளை நிறுத்தவேண்டும் அல்லது மதவழிபாட்டிற்காக பௌத்தசாசன அமைச்சின் அனுமதியை பெறவேண்டும் என வேண்டுகோள் விடுப்பவர்களிற்கு ஆதரவாக அரசஅதிகாரிகள் செயற்பட்டனர் என கிறிஸ்தவர்களிற்கு எதிரான வன்முறைகளை ஆராய்ந்த ஆய்வாளர்கள் தெரிவித்துள்ளனர்.
+The United States made this statement in the annual report on religious independence in 2023.
+
+Members of the local majority community said that the religious people who said they were involved in violent incidents, said state officials supported them.
+
+Researchers who analyzed the violence against Christians said that the state authorities acted in support of those who appealed to Christians to stop their activities in Buddhist villages or to obtain the permission of the Ministry of Buddhism for religion.
+
+Christian groups have continued to say that the National Christian Swiss Coalition Organization (NCEASL) of Sri Lanka has accepted this and that the police and state officials have been involved in the harassment of minority community and their religious transactions.
 
 ...
 
 [Data](articles/8b962fb2.json)
 
+[Extended Data](ext_articles/8b962fb2.ext.json)
+
 ---
 
-### පොහොර සහනාධාරයට රජය ලබාදෙන මුල්‍ය ප්‍රතිපාදන ගැන අලුත් තීරණයක්
+### New Decision on the funds provided to fertilizer subsidy
 
 *2024-06-27 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198222) · `si`
 
-මින් ඉදිරියට වී වගාව සඳහා පොහොර සහනාධාරය වශයෙන් රජය ලබාදෙන මුල්‍ය ප්‍රතිපාදන කුඹුරු අයිතිකරුවන්ට සහ අඳ ගොවීන්ට පමණක් ලබාදීමට පියවර ගන්නැයි කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා ගොවිජන සංවර්ධන දෙපාර්තමේන්තුවට උපදෙස් දුන්නේය.
+Mahinda Amaraweera, Minister of Agriculture, directed the Agrarian Development Department to disburse government funds allocated for fertilizer subsidies to paddy farmers. This support has enabled some farmers to switch cultivation seasons. Despite Rs. 5.4 billion being deposited into farmers' accounts, some have not received it. The minister met with department officials to address issues, ensuring that paddy owners, especially tenants, receive financial aid for fertilizers. A circular will be issued to all farming communities regarding this assistance.
 
-පොහොර සහනාධාර මුදල් ගොවි ගිණුම්වලට බැර කිරීමේ දී ඇතැම් කුඹුරු හිමියන් තම කුඹුරු වගාකරන ගොවීන් වගා කන්නයක් පාසා වෙනස් කිරීම නිසා මුදල් ලබාදීමේ දී යම් ප්‍රමාදයන් සිදුවන බව පෙනී ගොස් ඇත.
+🟩
 
-මෙවර යල කන්නයේ දී රජය විසින් මේ වනවිට රුපියල් බිලියන 5.4ක් පොහොර මිලදී ගැනීම සඳහා ගොවි ගිණුම්වලටම ලබා දී ඇත.
+Minister of Agriculture Mahinda Amaraweera advised the Department of the Agrarian Development Department to pay the financing funds provided to the government as fertilizer subsidy for paddy cultivation.
 
-නමුත් ඇතැම් ගොවීන් තවමත් තමන්ට මුදල් නොලැබුනු බවට පැමිණිළි කර ඇත.
+In credited to fertilizer subsidized financials, some paddy owners have been able to change their paddy cultivation farmers when they change their paddy season.
 
-මෙම තත්ත්වය සැලකිල්ලට ගෙන කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා අද දින (27) ගොවිජන සංවර්ධන දෙපාර්තමේන්තුවේ නිලධාරින් සමග මේ සම්බන්ධව සාකච්ඡා කර ඇති බව වාර්තා වෙයි.
+The government has already provided Rs. 5.4 billion in the farmer accounts for purchasing fertilizer.
 
-ඒ අනුව ඇතැම් කුඹුරු අයිතිකරුවන් තම කුඹුරු වගා කරන ගොවීන් කන්නයෙන් කන්නයට මාරුකිරීම නිසා ඔවුන් පිළිබඳ තොරතුරු ලබාගැනීමේ ගැටලුවක් පැන නැගී ඇති බවට ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව පෙන්වා දුන්නේය.
+However, some farmers have not yet received their money.
+
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera have been discussed with the officials of the Agrarian Development Department of Agriculture today (27).
+
+Accordingly, some paddy owners have claimed to obtain information about their paddy cultivation due to the transfer of their paddy season.
 
 ...
 
 [Data](articles/b8fd63b3.json)
 
+[Extended Data](ext_articles/b8fd63b3.ext.json)
+
 ---
 
-### தமிழகத்தில் மீன்பிடி தொழிலில் ஈடுபட்ட 8 சிறார்கள் மீட்பு : படகு உரிமையாளர்களுக்கு அபராதம்
+### Rescue of 8 children involved in fishing in Tamil Nadu: fines for boat owners
 
 *2024-06-27 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/187114) · `ta`
 
-தமிழகத்தில் ராமேஸ்வரம் மீன்பிடி துறைமுகத்தில் இருந்து மீன்பிடிக்கச் செல்லும் விசைப்படகில் 18 வயதுக்குட்பட்ட 8 சிறார்கள் தொழிலாளர்களாக பயன்படுத்தப்பட்டமை கண்டுபிடிக்கப்பட்டுள்ளது.
+In Tamil Nadu, eight underage children were rescued from work in the Rameswaram fishing port. The boat owners were fined, and their diesel and fishing permits were revoked. This action follows allegations that Sri Lankan naval forces detained Indian fishing boats venturing into Sri Lankan waters. A joint raid by local child welfare, labor, and fisheries officers uncovered the exploitation. The children were urged to return to school, and the Tamil Nadu government has suspended operations pending further investigation.
 
-இந்நிலையில், இந்த சிறுவர்கள் மீட்கப்பட்டுள்ளதோடு, படகு உரிமையாளர்களுக்கு அபராதம் விதிக்கப்பட்டதுடன், இந்திய அரசாங்கத்தினால் மானியமாக வழங்கப்படும் டீசல் மற்றும் மீன்பிடி அனுமதிச்சீட்டு இரத்து செய்து உத்தரவிடப்பட்டுள்ளது.
+🟩
 
-எல்லை தாண்டி இலங்கை கடற்பரப்புக்குள் பிரவேசித்து, மீன்பிடியில் ஈடுபடும் விசைப்படகுகளை இலங்கை கடற்படை சிறைபிடிக்கும்போது சிறார்களும் கைது செய்யப்படுவதாக குற்றச்சாட்டுகள் எழுந்துள்ளன.
+Eight children under the age of 18 have been used as workers from the Rameswaram fishing port in Tamil Nadu.
 
-அதனடிப்படையில் ராமேஸ்வரம் மீன்பிடி துறைமுகத்தில் இருந்து மீன்பிடிக்கச் செல்லும் மீன்பிடி படகுகளில் சிறார்கள் மீன்பிடித் தொழிலில் பயன்படுத்தப்படுகின்றமை தொடர்பில் ராமேஸ்வரம் மாவட்ட குழந்தைகள் நல அலுவலர், தொழிலாளர் நல வாரியம் மற்றும் மீன்வளத்துறை அதிகாரிகள் கூட்டாக திடீர் சோதனை நடத்தியுள்ளனர்.
+In this case, the boys have been rescued and fined the boat owners and have been ordered to cancel the diesel and fishing permit by the Government of India.
+
+There are allegations that the Sri Lankan navy is arrested by the Sri Lankan navy's capture of fishing boats that enter the Sri Lankan waters across the border.
+
+Accordingly, Rameshwaram District Child Welfare Officer, Labor Welfare Board and Fisheries Officers have jointly raided the fishing industry in the fishing industry.
+
+It was revealed that 8 children were used for fishing in the 8 fishing boats that returned to shore this morning (27) from the Rameshwaram fishing port.
+
+Subsequently, officials headed by Assistant Commissioner of Labor Implementation Division Florist, which rescued the eight children, advised the children to go to school and go to school.
 
 ...
 
 [Data](articles/4ced058b.json)
 
+[Extended Data](ext_articles/4ced058b.ext.json)
+
 ---
 
-### ඇහැලියගොඩ විශාල කන්දක් නායයයි
+### Eheliyagoda is a large mountain of land
 
 *2024-06-27 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198221) · `si`
 
-ඇහැලියගොඩ ගැටහැත්ත උඩුවක ප්‍රදේශයේ විශාල කන්දක් නායයෑම හේතුවෙන් නිවාස 8ක් මුළුමනින්ම විනාශ වී තිබේ.
+A massive landslide in Eheliyagoda destroyed eight houses and displaced 48 families from Siddhartha Vidyalaya. The event occurred around 1 pm, with subsequent flooding risks along nearby streams.
 
-අද (27) දහවල් 1ට පමණ මෙම නායයෑම සිදුවී ඇති අතර නායයෑමේ ලක්ෂණ අද උදෑසන සිටම දක්නට ලැබීම හේතුවෙන් නිවාස අවටවූ පවුල්වල පිරිස් ඉවත්වී තිබුණි.
+🟩
 
-මෙම නායයෑමට ලක්වූ ස්ථානයට පහළින් ගලාබසින ගැටහැති ඔය මුලුමනින්ම හරස්වී ඇති බැවින් ඇළ ඉහළ කොටසට ගංවතුර අවධානමක් ද හටගෙන ඇත.
+Eight houses have been completely destroyed due to a large mountain of a large mountain in the area in Eheliyagoda.
 
-මේ වනවිට නායයෑම සක්‍රීය වූ ස්ථානයේ පවුල් 48ක පුද්ගලයන් 158 දෙනෙකු ඉවත්කර උඩුවක සිද්ධාර්ථ විදුහලේ රඳවා සිටී.
+The landslide has taken place around 1 afternoon and the leaders of the landslide had been withdrawn from this morning.
 
-සහන කටයුතු ඇහැලියගොඩ ප්‍රාදේශීය ලේකම් කාර්යාලය සිදුකරන බව ඇහැලියගොඩ ප්‍රදේශීය ලේකම් එස්. ඒ. දිල්රුක් මහතා පවසයි.
+The stream has also taken a flood risk for the stretch of streams, as it is completely crossed down below the landslide.
+
+The Siddhartha Vidyalaya, who has been removed from 48 families at the landslide, has been removed from 48 families.
+
+Eheliyagoda Divisional Secretariat Office, Eheliyagoda Divisional Secretariat. it. Says Dilruuk.
 
 ◼️
 
 [Data](articles/b394dc5a.json)
+
+[Extended Data](ext_articles/b394dc5a.ext.json)
 
 ---
 
@@ -132,39 +178,57 @@ About $ 10 billion over the agreement will be restructured.
 
 ---
 
-### கடன் மறுசீரமைப்புச் செயற்பாட்டில் பல பிரச்சினைகள் உள்ளன - எதிர்க்கட்சித் தலைவர் சஜித்
+### There are many issues in the debt restructuring process - Opposition Leader Sajith
 
 *2024-06-27 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/187112) · `ta`
 
-சர்வதேச நாணய நிதியத் திட்டம் மற்றும் கடன் மறுசீரமைப்புத் திட்டங்கள் குறித்து நேற்றைய தினம் பல விடயங்கள் வெளிப்படுத்தப்பட்டன. கடன் மறுசீரமைப்பு செயல்முறை நாட்டிற்கு நன்மை பயக்கும் என்றால், அதற்கு ஆதரவை வழங்குவோம் என்றாலும் நேற்றைய தினம் வெளிப்படுத்தப்பட்ட விடயங்கள் தொடர்பில் சிக்கல் நிலை ஏற்பட்டுள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition Leader Sajith Premadasa criticized the debt restructuring process, highlighting several issues including delayed compliance targets, lack of negotiation with international creditors, and the government's handling of educational rights for teachers and principals. He pointed out that despite progress in other countries like Ghana, Sri Lanka's debt restructuring has faced challenges, with no clear plan for achieving sustainable compliance. Additionally, he expressed concern over the government's approach to obtaining loans and managing educational reforms, emphasizing the importance of transparency and dialogue in addressing national issues.
 
-பிரபஞ்சம் தகவல் தொழிநுட்ப வேலைத்திட்டத்தின் கீழ், 265 ஆவது கட்டமாக 1,177,000 இலட்சம் ரூபா பெறுமதியான ஸ்மார்ட் வகுப்பறை உபகரணங்கள், களுத்தறை, புளத்சிங்கள மதுராவல, ரெமுன மகா வித்தியாலத்திற்கு வழங்கி வைக்கும் நிகழ்வு ஜூன் 27 ஆம் திகதி இடம்பெற்றது.
+🟩
 
-இதன்போது, பாடசாலை அபிவிருத்தி சங்கத்தினருக்கு ஒரு இலட்சம் ரூபா நிதியுதவியும் வழங்கி வைக்கப்பட்டது.
+Several issues were revealed yesterday about the International Monetary Fund Plan and Debt Reorganization Plans. Opposition leader Sajith Premadasa said that if the debt renovation process is beneficial to the country, we will support it, but there is a problem with the issues revealed yesterday.
 
-இந்நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மேற்கண்டவாறு தெரிவித்தார்.
+Under the Universal Information Technology Program, Smart Classroom Equipment worth Rs.
+
+During this time, a sum of Rs.
+
+Opposition Leader Sajith Premadasa said this while addressing the event.
+
+Time has been levied to pay off the loan until 2028. To pay off debt installments from 2028. Although this seems to be a good thing, we must repay the loan since 2033, according to the International March 2023 March report of the International March.
+
+Although the International Monetary Finance Report was mentioned, this compliance discussion has not been able to reach the target of 2033.
+
+Moreover, it was reported that our country was filling the debt reproduction process than all countries.
 
 ...
 
 [Data](articles/3a6e3d1e.json)
 
+[Extended Data](ext_articles/3a6e3d1e.ext.json)
+
 ---
 
-### யாழில் எரிந்த நிலையில் மோட்டார் சைக்கிள் மீட்பு
+### Motorcycle recovery in Jaffna
 
 *2024-06-27 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/187111) · `ta`
 
-யாழ்ப்பாணத்தில் வெற்றுக் காணி ஒன்றில் இருந்து இன்று வியாழக்கிழமை (27) முற்றாக எரிந்த நிலையில் மோட்டார் சைக்கிள் ஒன்று மீட்கப்பட்டுள்ளது.
+In Jaffna, a burned motorcycle was found on a vacant lot, along with its license plate. This discovery comes after another high-value motorcycle was torched on the street last week.
 
-உடுவில் தெற்கு பிள்ளையார் கோவிலுக்கு அருகில் உள்ள வெற்றுக் காணி ஒன்றில் மோட்டார் சைக்கிள் ஒன்று முற்றாக எரிந்த நிலையில் காணப்படுவதாக, சுன்னாக பொலிஸாருக்கு கிடைக்கப்பெற்ற தகவலின் அடிப்படையில் சம்பவ இடத்திற்கு சென்ற பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+🟩
 
-குறித்த மோட்டார் சைக்கிளின் இலக்க தகடு என நம்பப்படும் இலக்க தகடு ஒன்று காணியின் பிறிதொரு இடத்தில் இருந்து மீட்கப்பட்டுள்ளது.
+A motorcycle has been recovered from a blank land in Jaffna on Thursday (27).
 
-அதேவேளை கடந்த வாரம் கோப்பாய் பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் நள்ளிரவு வேளை வீதியில் வைத்து சுமார் 10 இலட்ச ரூபாய் பெறுமதியான மோட்டார் சைக்கிள் ஒன்று தீயிட்டு கொளுத்தப்பட்டமை குறிப்பிடத்தக்கது.
+Police have gone to the scene on the basis of information available to the Sunnah police that a motorcycle was completely burnt in a blank land near Uduvil South Pillaiyar Temple.
+
+A digit plate, believed to be the digit plate of the motorcycle, has been recovered from another location of the land.
+
+Meanwhile, a motorcycle worth about Rs 10 lakh was set on fire on the road at midnight last week.
 
 ◼️
 
 [Data](articles/0ce20915.json)
+
+[Extended Data](ext_articles/0ce20915.ext.json)
 
 ---
 
@@ -188,17 +252,23 @@ Also, in Trincomalee and Northwestern districts, Trincomalee and Northwestern di
 
 ---
 
-### ஆசிரியர் சேவை அத்தியாவசிய சேவையாக அறிவிக்கப்படும் - ஜனாதிபதி
+### Teacher Service will be declared as essential service - President
 
 *2024-06-27 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/187107) · `ta`
 
-நாட்டின் பிள்ளைகளின் கல்விக்காக ஆசிரியர்கள் காலை வேளையில் பாடசாலைகளில் இருக்க வேண்டியது கட்டாயமானது. ஏதேனும் காரணங்களுக்காக எதிர்வரும் காலங்களில் அவ்வாறு நடக்காமல் இருக்குமாயின் பாடசாலை மாணவர்களின் கல்வியை இழப்பதற்கான சந்தர்ப்பம் உருவாகும் என்பதால், ஆசிரியர் சேவை அத்தியாவசிய சேவையாக அறிவிக்கப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க அறிவித்தார்.
+President Ranil Wickremesinghe declares teacher service essential to ensure children's education, emphasizing the importance of teachers' presence in schools early mornings. This decision comes after discussions with religious leaders, highlighting the government's commitment to education amidst ongoing challenges.
 
-இன்று வியாழக்கிழமை (27) கண்டி - அஸ்கிரிய பீடத்தின் மகாநாயக்க தேரர் ஸ்ரீ வரகாகொட ஞானரதன தேரரை சந்தித்த போது ஜனாதிபதி ரணில் விக்ரமசிங்க இதனை அறிவித்தார்.
+🟩
+
+It is mandatory for teachers to be in schools in the morning for the education of the country's children. President Ranil Wickremesinghe has announced that the teacher service will be declared an essential service, as the opportunity to lose the education of school children will be created if it does not happen in the future.
+
+President Ranil Wickremesinghe announced this when Mahanayaka Thera of the Kandy -Asgiriya Faculty met Sri Varakagoda Gnanaradana Thera on Thursday (27).
 
 ◼️
 
 [Data](articles/216fae28.json)
+
+[Extended Data](ext_articles/216fae28.ext.json)
 
 ---
 
@@ -2313,37 +2383,5 @@ The President had made a special statement last night (26).
 [Data](articles/3320102b.json)
 
 [Extended Data](ext_articles/3320102b.ext.json)
-
----
-
-### Teachers - Principals sick today
-
-*2024-06-27 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198198) · `si`
-
-Teacher and principal unions in Sri Lanka began a strike today due to a police attack on protesters, affecting school attendance. The Ministry of Education insists government schools remain open despite the strike. The second phase of the GCE Ordinary Level exam, initially scheduled for today, is now set for tomorrow due to the strike. Additionally, Registrar General's officers will strike today and tomorrow, impacting land registration services across the island.
-
-🟩
-
-The teacher's trade unions have been played on a Buddhist strike from today (27) and sick leave.
-
-The Guru-Principal's trade unions have decided to strike in protest of tear gas and water attack on protest in Colombo.
-
-The Teacher-Principal of the Teacher - Principal was launched yesterday (26), reports say.
-
-The arrival of children in many schools was also low and the students who had come to school were not able to enter schools.
-
-However, the Ministry of Education has issued a statement that all government schools will be held today (27).
-
-Meanwhile, the Commissioner General of Examinations Amit Jayasundara says that the second phase of the GCE Ordinary Level examination planned today to commence today is not on the basis of an unavoidable reason.
-
-The Commissioner of Examinations will be informed of a statement that the second phase of evaluation will commence tomorrow (28).
-
-Meanwhile, Sri Lanka United Grama Niladharis Association (SLMC) says.
-
-...
-
-[Data](articles/27227397.json)
-
-[Extended Data](ext_articles/27227397.ext.json)
 
 ---

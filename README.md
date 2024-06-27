@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 21:04:50**
+As of **2024-06-27 21:34:57**
 
 ## Newspaper Stats
 
-*Scraped **32,513** Articles*
+*Scraped **32,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ islandlk | 1,802
 economynextcom | 1,890
 dailyftlk | 1,988
 adalk | 2,885
-adaderanalk | 3,701
+adaderanalk | 3,702
 tamilmirrorlk | 3,835
 dailymirrorlk | 4,733
 virakesarilk | 5,056
-adaderanasinhalalk | 5,345
+adaderanasinhalalk | 5,347
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,513 (100.0%) of 32,513 articles have been extended.
+32,513 (100.0%) of 32,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### Govt schools to function as normal tomorrow
+
+*2024-06-27 21:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100149/govt-schools-to-function-as-normal-tomorrow) · `en`
+
+The Ministry of Education has announced that all government schools will function as per usual tomorrow (28).
+
+The teacher-principal trade unions engaged in an island-wide trade union action by reporting sick for the second consecutive day today (27) based on several demands.
+
+However, the General Secretary of the Ceylon Teachers’ Union (CTU) Joseph Stalin, stated they decided to resume normal duties from tomorrow (28).
+
+◼️
+
+[Data](articles/d2081e2a.json)
+
+---
+
+### මහනුවර ඇසළ පෙරහර උත්සවය පවත්වන දින දැනුම්දෙයි
+
+*2024-06-27 21:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198231) · `si`
+
+2024 කන්ද උඩරට ඇසළ පෙරහැර මහා මංගල්ලය පවත්වන දින නිවේදනය කර තිබේ.
+
+ඊට අනුව පළමු කුඹල් පෙරහැර 2024 අගෝස්තු මස 10 වනදා ආරම්භ කෙරෙන අතර අවසන් මහ රන්දෝලි පෙරහැර අගෝස්තු 19 වනදා වීදි සංචාරය කෙරෙයි.
+
+◼️
+
+[Data](articles/5f8a10d3.json)
+
+---
+
+### කාසියේ වාසිය එංගලන්තයට
+
+*2024-06-27 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198230) · `si`
+
+T20  ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ දෙවන අවසන් පූර්ව තරගය අද (27) පැවැත්වෙයි.
+
+එහි කාසියේ වාසිය දිනාගැනීමට එංගලන්තය සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දු රැකීමටය.
+
+◼️
+
+[Data](articles/fa1b5c66.json)
+
+---
 
 ### Coming schools tomorrow - Teacher Societies
 
@@ -2335,73 +2379,5 @@ Investigations have revealed that the suspects were carrying these explosives to
 [Data](articles/28679c63.json)
 
 [Extended Data](ext_articles/28679c63.ext.json)
-
----
-
-### The struggle of principals and teachers who continue for the second day
-
-*2024-06-27 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/187070) · `ta`
-
-Principals and teachers' strike continues for a second day, paralyzing school activities. The Principals and Teachers Trade Union Federation's illegal holiday protest keeps students from returning to school as educators stay away.
-
-🟩
-
-The second day of the union arrangement of principals and teachers was launched on Thursday (27).
-
-Learning teaching activities in schools are still paralyzed today due to the illicit holiday struggle in the arrangement of the Principals and Teachers Trade Union Federation.
-
-Students have been visited and schools have been observed that the schools have not been able to return home as principals and teachers do not attend.
-
-◼️
-
-[Data](articles/229d36cd.json)
-
-[Extended Data](ext_articles/229d36cd.ext.json)
-
----
-
-### A month -old baby dies in milk
-
-*2024-06-27 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187072) · `ta`
-
-A one-month-old baby girl died suddenly in her sleep in Jaffna, Sri Lanka. Her parents noticed she was unresponsive and rushed her to the hospital, where an autopsy revealed the cause of death as "death due to milk."
-
-🟩
-
-Forty days after a baby girl died on Wednesday (26) in the east of Jaffna.
-
-Parents who observed that the baby was immobile yesterday morning, took the child to the Tellippalai Base Hospital.
-
-Sudden Death Investigation Officer
-
-Subsequently, an anatomical examination held at the Jaffna Bodhana Hospital has been reported that the death of milk has been reported.
-
-◼️
-
-[Data](articles/f21bab63.json)
-
-[Extended Data](ext_articles/f21bab63.ext.json)
-
----
-
-### Paris Club urge comparable deal with Sri Lanka bond holders, seeks info
-
-*2024-06-27 09:41:00* · [`economynextcom`](https://economynext.com/paris-club-urge-comparable-deal-with-sri-lanka-bond-holders-seeks-info-169788/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s official creditor committee made up of Paris Club and India have urged the island to ensure that deal with private bondholders is comparable after concluding agreement on their loans.
-
-While India and several nations negotiated with the Paris Club, China negotiated on a parallel track.
-
-“The OCC now looks forward to receiving from Sri Lanka all information necessary for the OCC to ensure comparability of treatment,” the group said in a statement.
-
-“The OCC also expects that the Sri Lankan authorities will continue to engage with their private creditors to find as soon as possible an agreement on terms at least as favourable as the terms offered by the OCC.”
-
-Sri Lanka cannot get sharply higher hair cuts or other concessions from bondholders which exceed the terms given by official creditors. Bondholders however earn higher interest rates than official creditors.
-
-...
-
-[Data](articles/9559a8b3.json)
-
-[Extended Data](ext_articles/9559a8b3.ext.json)
 
 ---

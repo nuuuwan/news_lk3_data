@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 10:19:19**
+As of **2024-06-27 10:35:05**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,401 (100.0%) of 32,403 articles have been extended.
+32,403 (100.0%) of 32,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
 
-### පුපුරණ ද්‍රව්‍ය සමඟ සැකකරුවන් සිව් දෙනෙකු අත්අඩංගුවට
+### Four suspects arrested with explosives
 
 *2024-06-27 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198203) · `si`
 
-හසලක පොලිස් වසමේ වැල්ගාල ප්‍රදේශයේදී පුපුරනද්‍රව්‍ය තොඟයක් සමඟ සැකකරුවන් සිව් දෙනෙක් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Four suspects, aged 37, 50, and 60, from Minipe, were arrested near Velgala with 1.16 kg of explosives and three detonators, allegedly planning to use them to fish in the Mahaweli River.
 
-හසලක පොලිස් ස්ථානයේ  නිලධාරීන්ට ලද තොරතුරක් මත මෙම පුපුරණ ද්‍රව්‍ය තොඟය සොයාගෙන ඇති බවයි පොලීසිය සඳහන් කළේ.
+🟩
 
-එහිදී ඇමෝනියා කුඩු කිලෝ 01 ග්‍රෑම් 550ක්, සෙන්ටිමීටර් 116ක් දිග සේවා නූලක් සහ ඩෙටනේටර් 03ක් සොයාගත් බව පොලීසිය පැවසුවේය.
+Four suspects have been arrested by the police along with a delegation in the Velgala area in Hasalaka Police Division.
 
-අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 37, 50 හා 60 යන වයස්වල පසුවන මිනිපේ ප්‍රදේශයේ පදිංචිකරුවන්ය.
+The police said that the explosives have been found on information received by the Hasalaka Police Station.
 
-සැකකරුවන් මහවැලි ගඟේ මසුන් මැරීම සඳහා මෙම පුපුරණ ද්‍රව්‍ය රැගෙන විත් ඇති බව පොලීසිය සිදුකල විමර්ශනවලදී අනාවරණය වී ඇත.
+The police said that there were 550 g of ammonia, 550 g, 116 cm long service string and three detonators.
+
+The arrested suspects are residents of Minipe area, aged 37, 50 and 60 years old.
+
+Investigations have revealed that the suspects were carrying these explosives to fish in the Mahaweli River.
 
 ◼️
 
 [Data](articles/28679c63.json)
+
+[Extended Data](ext_articles/28679c63.ext.json)
 
 ---
 
@@ -554,27 +560,37 @@ The final will be held on July 22 and the 23rd is reserved for the 23rd.
 
 ---
 
-### 'මල් වට්ටි, පන්සල් දේශපාලනය' නොමැතිව ජනාධිපතිවරණය ජයගත නොහැකි ද?
+### Can the presidential election without 'flowers, temples'' can't win?
 
 *2024-06-27 04:02:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd11r2vdkydo) · `si`
 
-ශ්‍රී ලංකාවට බුදුදහම හඳුන්වා දුන් දේවානම්පිය තිස්ස රජ සමයේ සිට මෙරට රාජ්‍ය පාලනය සහ බුද්ධාගම අතර අත්‍යන්ත බැඳීමක් පැවතුණු බවට ඉතිහාසය සාක්ෂි දරයි.
+Buddhism's influence on Sri Lanka's politics is profound, from its introduction by King Devanampiya Tissa to modern politicians leveraging Buddhist symbols and practices for electoral gains. Historical figures like King Dutugemunu and SWRD. Bandaranaike utilized Buddhist support effectively. However, critics argue that this reliance on religious symbolism for political advantage risks undermining the true principles of Buddhism and could lead to societal decay.
 
-ඒ අනුව, ලක්දිව පාලනය කළ රජවරුන් බුදුදහම වැළඳ ගැනීම හේතුවෙන් සාමාන්‍ය වැසියන් ද ඒ අනුව ක්‍රියා කළ බව පෙනී යයි.
+🟩
 
-නිශ්චිත ආගමික හික්මීමක් නොතිබූ ලක්දිව ශිෂ්ටසම්පන්න සමාජයක් ගොඩ නැගීම සඳහා බුදුදහම ඍජුව බලපෑ බව ඉතිහාසඥයින් මෙන් ම පුරාවිද්‍යාඥයින් ද පෙන්වා දී තිබේ.
+History testifies that the Devanampiya introduced Buddhism in Tissa since the king of Tissa.
 
-ශ්‍රී ලංකා ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව ජනපති බෞද්ධ විය යුතුම ද?
+Accordingly, the kings ruled by the kings of Lakdiva have seen that the civilians acted accordingly.
 
-ක්‍රිස්තු පූර්ව 4 වන සියවසේදී පමණ ශ්‍රී ලංකාවට රැ‌ගෙන එන ලද දන්ත ධාතුව පසුව ලක්දිව රාජ්‍යත්වයේ සංකේතයක් බවට පත් විය.
+Archaeologists have also pointed out that Buddhism has directly affected the building of a civilized society without a specific religious discipline.
 
-මුල් කාලීනව  දන්ත ධාතුව ආරක්ෂා කිරීම ලක්දිව පාලනය කරන රජුට පැවරුණු අතර, පසුකාලීනව එය රාජ්‍යත්වය ආරක්ෂා කර ගැනීමේ සංකේතයක් බවට පත්වූ බව පෙනේ.
+The Constitution of Sri Lanka shall be Buddhist?
 
-මේ අතර, රට එක්සේසත් කිරීම සඳහා එළාර රජුට එරෙහිව දුටුගැමුණු කුමරු ගෙන ගිය සටනට භික්ෂූන් වහන්සේගේ ඍජු ආශීර්වාදය ලැබුණු බව ඉතිහාස මූලාශ්‍රවල සඳහන් කරුණු අනුව පෙනී යයි.
+The dental relics brought to Sri Lanka about the 4th century BCE later became a symbol of state.
+
+The king controlling the Lakdani relics early in the early days was assigned to a symbol of protecting noonomity.
+
+Meanwhile, the facts of the history sources appear that the monk's direct blessing has been given to King Dutugemunu to unite the country.
+
+King Dutugemunu had a good relationship with the Maha Vihara.
+
+However, many historical analysts think that the Mahavamsa, who is a small space for the Maha Viharaya, who have not been a close role in the Maha Vihara.
 
 ...
 
 [Data](articles/8362897d.json)
+
+[Extended Data](ext_articles/8362897d.ext.json)
 
 ---
 

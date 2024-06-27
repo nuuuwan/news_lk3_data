@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-27 12:52:22**
+As of **2024-06-27 13:04:44**
 
 ## Newspaper Stats
 
-*Scraped **32,430** Articles*
+*Scraped **32,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ economynextcom | 1,887
 dailyftlk | 1,988
 adalk | 2,872
 adaderanalk | 3,690
-tamilmirrorlk | 3,828
+tamilmirrorlk | 3,830
 dailymirrorlk | 4,733
 virakesarilk | 5,030
-adaderanasinhalalk | 5,324
+adaderanasinhalalk | 5,325
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,430 (100.0%) of 32,430 articles have been extended.
+32,430 (100.0%) of 32,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-27 (Thursday)
+
+### රු ලක්ෂ 80ක ස්වර්ණාභරණ සහ මුදල් වංචා කළ කළමනාකරු රිමාන්ඩ්
+
+*2024-06-27 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198209) · `si`
+
+රුපියල් ලක්ෂ 80ක් පමණ වටිනා ස්වර්ණාභරණ සහ මුදල් වංචා කළ කළමණාකාරවරයෙක් රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+හැටන් මල්ලිඅප්පුව නගරයේ, ස්වර්ණාභරණ උකස් ගන්නා පෞද්ගලික මධ්‍යස්ථානයක සේවය කළ කළමණාකාරවරයෙකු හැටන් පොලිස් කොට්ඨාශයේ විශේෂ අපරාධ විමර්ශන අංශයේ නිලධාරින් විසින් සැකපිට අත්අඩංගුවට ගෙන තිබුණි.
+
+අත්අඩංගුවට ගත් සැකකරු ඊයේ (26) හැටන් මහෙස්ත්‍රාත් එම්.ෆරුක්ඩින් මහතා වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව ඔහු ජූලි මස 09 වන දින දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට මහෙස්ත්‍රාත්වරයා නියෝග කර ඇත.
+
+මෙසේ රක්ෂිත බන්ධනාගාර ගත කරනු ලැබුවේ, එම පෞද්ගලික උකස් මධ්‍යස්ථානයේ කළමණාකරු වශයෙන් සේවය කළ අයෙකි.
+
+සැකකරු වසර කිහිපයක් එම උකස් මධ්‍යස්ථානයේ කළමණාකරු වශයෙන් සේවය කර ඇති බවත්, එම උකස් මධ්‍යස්ථානයේ හිමිකරු මාස තුනක් විදේශගතව සිට යළිත් දිවයිනට පැමිණ එම උකස් මධ්‍යස්ථානයේ උකස් කර තිබු ස්වර්ණාභරණ සහ මුදල් පරීක්ෂා කර තිබේ.
+
+එහිදී රුපියල් ලක්ෂ 80ක පමණ ස්වර්ණාභරණ සහ මුදල් අස්ථානගත වී ඇති බවට තහවුරු වීමෙන් පසු උකස් මධ්‍යස්ථානයේ හිමිකරු විසින් කළමණාකරුට එරෙහිව හැටන් පොලිස් කොට්ඨාශයේ විශේෂ අපරාධ විමර්ශන ඒකකය වෙත පැමිණිලි කර තිබේ.
+
+◼️
+
+[Data](articles/60c03f35.json)
+
+---
 
 ### Kenyan President results
 
@@ -106,6 +128,22 @@ He also said jurors saw through Hernandez’s “polished demeanor” during the
 
 ---
 
+### கிரிக்கெட் அணியின் பயிற்சியாளர் இராஜினாமா
+
+*2024-06-27 11:49:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/கிரிக்கெட்-அணியின்-பயிற்சியாளர்-இராஜினாமா/44-339525) · `ta`
+
+இலங்கை தேசிய கிரிக்கட் அணியின் தலைமை பயிற்சியாளராக இருந்த கிறிஸ் சில்வர்வூட், அந்தப் பதவியிலிருந்து இராஜினாமா செய்துள்ளதாக இலங்கை கிரிக்கெட் நிறுவனம் வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+இங்கிலாந்தை சேர்ந்த கிறிஸ் சில்வர்வுட் தனிப்பட்ட காரணங்களுக்காக இராஜினாமா செய்துள்ளதாக  இலங்கை கிரிக்கெட் நிறுவனம் தெரிவித்துள்ளது.
+
+T20 உலகக் கிண்ண கிரிக்கெட் போட்டியில் இலங்கை கிரிக்கெட் அணிக்கு ஏற்பட்ட பின்னடைவுக்கு கிறிஸ் சில்வர்வுட் மீதும் குற்றம் சுமத்தப்பட்டமை குறிப்பிடத்தக்கது .
+
+◼️
+
+[Data](articles/c28cd57a.json)
+
+---
+
 ### Promotion to the dead naval soldier
 
 *2024-06-27 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198207) · `si`
@@ -131,6 +169,24 @@ The Navy has also said that the Navy has also taken steps to promote Senior Siri
 [Data](articles/012ead64.json)
 
 [Extended Data](ext_articles/012ead64.ext.json)
+
+---
+
+### மாணவனின் வயிற்றை கிழித்த இரண்டடி தடி மீட்பு
+
+*2024-06-27 11:27:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவனின்-வயிற்றை-கிழித்த-இரண்டடி-தடி-மீட்பு/175-339524) · `ta`
+
+பனை மரத்திலிருந்து கீழே தவறிவிழுந்த போது, பாடசாலை மாணவனின் வயிற்றில் குத்திய இரண்டடி நீளமுள்ள தடி மீட்கப்பட்டுள்ள சம்பவமொன்று கல்முனையில் இடம்பெற்றுள்ளது.
+
+கல்முனை வடக்கு ஆதரவைத்த சாலையில் உயிருக்கு போராடிய நிலையில் விபத்தில் சிக்கிய இளைஞன் அவசர சிகிச்சைப் பிரிவில்  செவ்வாய்க்கிழமை (25) அனுமதிக்கப்பட்டார். பல மணி நேர அவசர சத்திர சிகிச்சையின் பின்னர் குறித்த இளைஞன் உயிர் பிழைத்த சம்பவம் கல்முனையில் பதிவாகியுள்ளது.
+
+கல்முனை நாவிதன்வெளி பிரதேசத்தை சேர்ந்த 18 வயதுடைய பாடசாலை மாணவன் நுங்கு பறிப்பதற்காக பனை மரத்தில் ஏறிய போது தவறி விழுந்துள்ளான்.
+
+இந்நிலையில் குறித்த இடத்தில் பயற்றை செடிக்கு நாட்டப்பட்டிருந்த கிளிசரியா மரத்தின் கம்பு குறித்த இளைஞரின் குத வழியாக பாய்ந்து சலப்பை, ஈரல், நுரையீரல், பிரிமென்தகடு உட்பட உடலின் முக்கிய பாகங்களாக காணப்படுகின்ற  15 பாகங்களை கிழித்துக் கொண்டு மார்பக பக்கமாக குறித்த தடி வெளியில் தெரிந்துள்ளது.
+
+...
+
+[Data](articles/d9845d8d.json)
 
 ---
 
@@ -2211,89 +2267,5 @@ Sri Lanka Cricket has issued a statement that Maheera Jayawardene resigned from 
 [Data](articles/92b5c360.json)
 
 [Extended Data](ext_articles/92b5c360.ext.json)
-
----
-
-### Two judges withdrawn from the petition against Diana
-
-*2024-06-26 19:35:03* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාට-එරෙහි-පෙත්සම-විභාගයෙන්-විනිසුරන්-දෙදෙනෙක්-ඉවත්වෙති/11-410461) · `si`
-
-Supreme Court Justice Diana Gamage withdrew from a petition against her, accusing the court of insulting it by disbanding a Member of Parliament. Judges Janaka Silva and Kumuduni also resigned from the petition. The case involves allegations against former State Minister Diana Gamage and calls for the Supreme Court's decision regarding the dissolution of the Weligama Urban Council and former State Minister Diyanayake.
-
-🟩
-
-The Supreme Court Justice Diana Gamage was dismissed that the Supreme Court was insulted by the Supreme Court by abolishing the Member of Parliament.
-
-The petition was revealed that the petition was resigned from Supreme Court Judge Janaka Silva and Kumuduni.
-
-The petition was considered as Supreme Court judges of the petition, rejoicing, and the petition.
-
-Former State State Minister Diana Gamage has been named as respondent in the Weligama Urban Council, Rehan Jayawickrama.
-
-The petition has been filed asking for the Supreme Court's decision with the abolition of former State Minister Diyanayake.
-
-◼️
-
-[Data](articles/9216edd4.json)
-
-[Extended Data](ext_articles/9216edd4.ext.json)
-
----
-
-### West Indies won Sri Lanka according to DLS system in the 2nd Women's R20 match
-
-*2024-06-26 19:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/187054) · `ta`
-
-In the 2nd Women's R20 match, West Indies beat Sri Lanka under the DLS system, winning by 6 wickets. The match was played at the Suriyawewa Mahinda Rajapaksa Stadium in Hambantota. Sri Lanka scored 89/4 in 15.2 overs, setting a revised target of 99 runs in 15 overs for the West Indies due to Duckworth-Lewis calculations. The West Indies reached this target in 14.1 overs, losing 4 wickets. This victory ties the 3-match series 1-1, with the next match scheduled for Friday, 28th.
-
-🟩
-
-The West Indies won by 6 wickets in the second women's international T20 cricket match held at the Suriyawewa Mahinda Rajapaksa Stadium in Hambantota on Wednesday (26).
-
-The West Indies have balanced the 3 -match women's international T20 cricket series 1 - 1.
-
-The Sri Lankan women's team, who won the first match in today's match, lost 4 wickets in 15.2 overs and got 89 runs.
-
-When Sri Lanka's innings ended for a long time, the Duckworth Louis system was set for the West Indies' 99 runs in 15 overs in 15 overs.
-
-In reply, the West Indies women's team lost 4 wickets in 14.1 overs with 99 runs.
-
-The 3rd match between the two teams will be held on Friday the 28th.
-
-Sri Lankan Women: 89 - 4 Wick in 15.2 overs. (Samari Attapattu 26, Vishmi Gunaratne 24 Kavisha Dilhari 14 AE, Harshita Samarawickrama 14, Afi Flacher 23 - 4 Vic.)
-
-West Indies Women: Edited Winning target 99 runs in 15 overs) 14.1 overs 99 - 4 wik. (Haley Mathews 29, Stefani Taylor 28 AE, Shemein Kempel 16, Aaliya Alin 15 AE)
-
-◼️
-
-[Data](articles/4ccb58e7.json)
-
-[Extended Data](ext_articles/4ccb58e7.ext.json)
-
----
-
-### Mannar Lower Lower Power Plants to India
-
-*2024-06-26 19:29:32* · [`adalk`](https://www.ada.lk/breaking_news/මන්නාරම-සුළං-බලාගාර-ටෙන්ඩරය-ඉන්දියාවට-දීමෙන්-රටට-විශාල-පාඩුවක්/11-410460) · `si`
-
-Ceylon Electricity Board opened bids for a 50 MW wind power project, offering electricity at competitive rates. Unions criticize the plan to build two plants in Mannar and Pooneryn without tenders. Ministerial representatives support the initiative, aiming for cost-effective electricity procurement. The lowest bid received was under five cents per unit.
-
-🟩
-
-The prices of the 50 MW of wind power station project was opened by the Ceylon Electricity Board (CEB).
-
-Accordingly, a unit of electricity is four cents a unit of four cents and another nine centimeters, and another nine cents, and another five cents deeper.
-
-But the unions point out that two carts are planned to buy electricity to the project and the two power plants to be built in Mannar and Pooneryn areas without calling.
-
-Therefore, the Ministerial Representatives say that the two wind power stations and to purchase electricity at competitive prices, President Ranil Wickremesinghe said.
-
-According to the dents opened yesterday (26th), the lowest bid was offered to be provided with less than five cents.
-
-◼️
-
-[Data](articles/b1089b42.json)
-
-[Extended Data](ext_articles/b1089b42.ext.json)
 
 ---

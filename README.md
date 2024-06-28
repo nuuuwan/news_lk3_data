@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 09:19:50**
+As of **2024-06-28 09:35:03**
 
 ## Newspaper Stats
 
-*Scraped **32,589** Articles*
+*Scraped **32,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,901
 dailyftlk | 1,998
 adalk | 2,886
 adaderanalk | 3,706
-tamilmirrorlk | 3,848
+tamilmirrorlk | 3,849
 dailymirrorlk | 4,733
 virakesarilk | 5,068
 adaderanasinhalalk | 5,357
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,589 (100.0%) of 32,589 articles have been extended.
+32,589 (100.0%) of 32,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### பியூமி ஹன்சமாலியின் நிறுவனத்திற்குள் பாய்ந்த CID-யினர்
+
+*2024-06-28 09:09:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பியூமி-ஹன்சமாலியின்-நிறுவனத்திற்குள்-பாய்ந்த-CID-யினர்/175-339567) · `ta`
+
+பிரபல மாடல் அழகியும், தொழிலதிபருமான பியூமி ஹன்சமாலிக்கு சொந்தமான அழகுசாதனப் பொருட்கள் நிறுவனம் மீதான விசாரணைகளை குற்றப் புலனாய்வுத் திணைக்களத்தின் சட்டவிரோத சொத்துக்கள் விசாரணைப் பிரிவு முன்னெடுத்து வருவதாக தெரிவிக்கப்படுகின்றது.
+
+இதேவேளை, இந்த சம்பவத்துடன் தொடர்புடைய பொதிகள் சேவை நிறுவனத்தின் நான்கு அதிகாரிகளிடம் CID-யினர் வாக்குமூலம் பெற்றுள்ளனர். இதில் அந்த நிறுவனத்தின் தலைவரும் அடங்குவர் என பொலிஸ் ஊடகப் பேச்சாளர் நிஹால் தல்துவ தெரிவித்தார்.
+
+இதேவேளை, நாளை (29) பியூமி ஹன்சமாலியிடம் வாக்குமூலம் பதிவு செய்யவுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் நிஹால் தல்துவ தெரிவித்தார். R
+
+◼️
+
+[Data](articles/0e797e74.json)
+
+---
 
 ### Solar power generation exceeds 1000 MW
 
@@ -2253,27 +2269,5 @@ It is noteworthy that former Health Minister Keheliya Rambukwella has filed a pe
 [Data](articles/5671910b.json)
 
 [Extended Data](ext_articles/5671910b.ext.json)
-
----
-
-### 807 more arrested for drug charges
-
-*2024-06-27 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187108) · `ta`
-
-In the past 24 hours, 807 individuals were arrested as part of the 'Yuktiya' operation, with 773 linked to drug offenses and 34 being wanted criminals. Authorities confiscated 52 kg of heroin, 142 kg of methamphetamine, and other drugs totaling 453 milligrams.
-
-🟩
-
-807 suspects have been arrested in the last 24 hours during the 'Yuktiya' special roundup on the country.
-
-The police headquarters said that 773 of them were involved in drug crimes and 34 on the list of criminals.
-
-52 kg of 616 milligrams of heroin, 142 kg of ice and 453 milligrams of drugs were seized from the suspects.
-
-◼️
-
-[Data](articles/cf47ab30.json)
-
-[Extended Data](ext_articles/cf47ab30.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 07:48:07**
+As of **2024-06-28 08:22:57**
 
 ## Newspaper Stats
 
-*Scraped **32,583** Articles*
+*Scraped **32,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 islandlk | 1,813
 economynextcom | 1,901
 dailyftlk | 1,998
-adalk | 2,885
-adaderanalk | 3,704
-tamilmirrorlk | 3,847
+adalk | 2,886
+adaderanalk | 3,705
+tamilmirrorlk | 3,848
 dailymirrorlk | 4,733
 virakesarilk | 5,068
-adaderanasinhalalk | 5,355
+adaderanasinhalalk | 5,356
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,569 (100.0%) of 32,583 articles have been extended.
+32,578 (100.0%) of 32,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### මෙරට කාන්තාවන්ගෙන් සියයට 50ක් ස්ථුලතාවයෙන්
+
+*2024-06-28 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198241) · `si`
+
+මෙරට කාන්තාවන්ගෙන් සියයට 50ක් පමණ ස්ථූලතාවයෙන් පෙළෙන බව ශ්‍රී ලංකා පෝෂණ විශේෂඥ වෛද්‍යවරුන්ගේ විද්‍යායතනය පවසයි.
+
+එහි සභාපති වෛද්‍ය තිමති වික්‍රමසේකර මහතා පැවසුවේ ළමුන් අතර ද ස්ථුලතාවය ඉහළ යමින් පවතින බවය.
+
+"අපි මේ ස්ථුලතාවය කියන කාරණය අමතක කරලා තියෙන්නේ. හැම වෙලාවෙම අපි මන්දපෝෂණය ගැන තමයි අවධානය යොමු කරන්නේ. නමුත් ළමා ස්ථූලතාවයත් වැඩිවීගෙන යනවා. කාන්තාවන්ගෙන් 50කට ආසන්න ප්‍රමාණයක් අධි බර සහ ස්ථුලතාවය. අලුත් පර්යේෂණ දත්ත පද්ධතියක් ලංකාවට අවශ්‍යයි."
+
+මේ වන විට මෙරට මන්දපෝෂණ තත්ත්වය අඩු වුවද අධි පෝෂණය ඉහළ ගොස් ඇති බව වෛද්‍ය තිමති වික්‍රමසේකර මහතා වැඩිදුරටත් සදහන් කළේය.
+
+◼️
+
+[Data](articles/83b5602a.json)
+
+---
 
 ### Sanjaya Mahawatta arrested by TID
 
@@ -42,47 +60,79 @@ The Chairman of ‘Magen Ratata’ movement Sanjaya Mahawatta has been arrested 
 
 [Data](articles/0e20170e.json)
 
+[Extended Data](ext_articles/0e20170e.ext.json)
+
 ---
 
-### සංජය මහවත්ත අත්අඩංගුවට
+### Sanjaya Mahawaththa arrested by TID
+
+*2024-06-28 07:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100151/sanjaya-mahawaththa-arrested-by-tid) · `en`
+
+The Chairman of ‘Magen Ratata’ movement Sanjaya Mahawaththa has been arrested by the Terrorism Investigation Division (TID) for allegedly making false allegations against senior police officers, police said.
+
+◼️
+
+[Data](articles/d4841e77.json)
+
+---
+
+### Sanjaya Mahawatta arrested
 
 *2024-06-28 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198240) · `si`
 
-ජ්‍යේෂඨ පොලිස් නිලධාරීන්ට අසත්‍ය චෝදනා එල්ල කිරීමේ සිද්ධියක් සම්බන්ධයෙන් සංජය මහවත්ත අත්අඩංගුවට ගෙන ඇති බව වාර්තා වෙයි.
+Sanjaya Mahawatta was arrested for falsely accusing Tesion police officers.
+
+🟩
+
+It is reported that Sanjaya Mahawatta has been arrested in connection with the incident of false allegations to the Tesion police officers.
 
 ◼️
 
 [Data](articles/8984939c.json)
 
+[Extended Data](ext_articles/8984939c.ext.json)
+
 ---
 
-### විශ්‍රාම වැටුප් වැඩිපුර ගෙවලා
+### Pensions were paid more
 
 *2024-06-28 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198239) · `si`
 
-ගම්පහ දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කාර්යාල 13ක පසුගිය වසරේ දෙසැම්බර් 31 වනදා වන විට විශ්‍රාම වැටුප් ලබමින් සිටි විශ්‍රාමිකයින් 419 දෙනෙකු සඳහා රුපියල් කෝටි 4කට අධික මුදලක් වැඩිපුර ගෙවා ඇති බව රජයේ ගිණුම් පිළිබද කාරක සභාවේදී අනාවරණය වී තිබේ.
+The Select Committee of Government Accounts found that the government delayed pension payments due to unaddressed issues like the non-suspension of pension circulars upon death notifications. This was discovered during a review of the Auditor General's records in the Gampaha District Secretariat. The committee has now ordered officials to investigate and rectify these payment delays and related malpractices.
 
-මියගිය බව දැනුම් දීමට ප්‍රමාදවීම, ජීවිත සහතික ලබා නොදෙන විශ්‍රාමිකයින්ගේ විශ්‍රාම වැටුප් තාවකාලිකව නතර කිරීමට කටයුතු නොකිරීම, විශ්‍රාම වැටුප් චක්‍රලේඛවලට අනුගත නොවීම සහ වෙනත් හේතුන් මත මෙලෙස මෙම මුදල් ගෙවීම් සිදු කර ඇති බව විගණන නිලධාරීන් පෙන්වා දී ඇත.
+🟩
 
-ගම්පහ දිස්ත්‍රික් ලේකම් කාර්යාලයේ පසුගිය වසරවල විගණකාධිපති වාර්තා සහ වර්තමාන කාර්ය සාධනය පරීක්ෂා කිරීම සඳහා රජයේ ගිණුම් පිළිබඳ කාරක සභාව පසුගියදා පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථාවේදී මෙම තොරතුරු අනාවරණය වුණි.
+The Select Committee of Government Accounts have revealed that the government has paid over Rs.
 
-ඒ අනුව විශ්‍රාම වැටුප් ගෙවීමේදී සිදුවන අක්‍රමිකතා සහ ගැටලු හඳුනාගෙන ඒවා කඩිනමින් විසඳීමට පියවර ගන්නා ලෙස කාරක සභාව විසින් නිලධාරීන්ට උපදෙස් ලබාදී තිබේ.
+Auditors have pointed out that the pension circulars have not been temporarily suspended to be temporarily suspended to be suspended and paid to the delay in notification of death.
+
+This information was revealed when the ACCCCCCC general meeting met with the Auditor General's records and current performance in the Gampaha District Secretariat recently.
+
+Accordingly, the committee has instructed officials to identify malpractices and issues at paying pensions.
 
 ◼️
 
 [Data](articles/86196767.json)
 
+[Extended Data](ext_articles/86196767.ext.json)
+
 ---
 
-### මල්ශාලා හිමිකරු ඝාතනයේ සැකකරු පොලීසියටම ඇවිත්
+### The suspect in the murder of the Municipal Council has come to the police
 
 *2024-06-28 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198238) · `si`
 
-මල්ශාලා හිමිකරුවෙකු කපා කොටා ඝාතනය කිරීමේ අපරාධයේ සැකකරු ඊයේ (27) සවස නීතිඥයෙකු මාර්ගයෙන් අම්බලන්ගොඩ පොලීසියට භාරවීමෙන් පසු අත්අඩංගුවට ගෙන තිබේ.
+A suspect in the Municipal Council murder case was turned over to the Ambalangoda Police by a lawyer on April 27th.
+
+🟩
+
+The suspect was handed over to the Ambalangoda Police by a lawyer yesterday evening yesterday (27).
 
 ◼️
 
 [Data](articles/c382c216.json)
+
+[Extended Data](ext_articles/c382c216.ext.json)
 
 ---
 
@@ -95,6 +145,8 @@ A response to “President raises point of order in Parliament over SC ruling on
 ...
 
 [Data](articles/a913667f.json)
+
+[Extended Data](ext_articles/a913667f.ext.json)
 
 ---
 
@@ -117,6 +169,8 @@ Sri Lanka Podujana Peramuna National Orga-niser and Parliamentarian Namal Rajapa
 ...
 
 [Data](articles/4ea8f812.json)
+
+[Extended Data](ext_articles/4ea8f812.ext.json)
 
 ---
 
@@ -154,6 +208,8 @@ In a joint press briefing on Wednesday, Chief Organiser of the ruling party and 
 
 [Data](articles/8e49edf4.json)
 
+[Extended Data](ext_articles/8e49edf4.ext.json)
+
 ---
 
 ### BASL condemns Parliamentary attacks on judicial independence
@@ -176,6 +232,8 @@ This statement follows a series of remarks against the judiciary by the Justice 
 
 [Data](articles/7f1d224e.json)
 
+[Extended Data](ext_articles/7f1d224e.ext.json)
+
 ---
 
 ### National Business Excellence Awards concludes successfully
@@ -189,6 +247,8 @@ The National Chamber announced that the “The National Business Excellence Awar
 ...
 
 [Data](articles/b6834cad.json)
+
+[Extended Data](ext_articles/b6834cad.ext.json)
 
 ---
 
@@ -429,6 +489,20 @@ Time has been levied to pay off the loan until 2028. To pay off debt installment
 [Data](articles/56a1876b.json)
 
 [Extended Data](ext_articles/56a1876b.ext.json)
+
+---
+
+### கடன் மறுசீரமைப்பில் ’பிரச்சினைகள்  உள்ளன’
+
+*2024-06-28 02:31:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கடன்-மறுசீரமைப்பில்-பிரச்சினைகள்-உள்ளன/150-339564) · `ta`
+
+சர்வதேச நாணய நிதிய (IMF) திட்டம் மற்றும் கடன் மறுசீரமைப்புத் திட்டங்கள் குறித்து பல விடயங்கள் புதன்கிழமை (26)  வெளிப்படுத்தப்பட்டன. கடன் மறுசீரமைப்பு செயல்முறை நாட்டிற்கு நன்மை பயக்கும் என்றால், அதற்கு ஆதரவை வழங்குவோம். என்றாலும் நேற்றைய தினம் வெளிப்படுத்தப்பட்ட விடயங்கள் தொடர்பில் சிக்கல் நிலை ஏற்பட்டுள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+
+பிரபஞ்சம் தகவல் தொழிநுட்ப வேலைத்திட்டத்தின் கீழ்,   களுத்தறை, புலத்சிங்கல மதுராவல, ரெமுன மகா வித்தியாலத்திற்கு வழங்கி வைக்கும் நிகழ்வு ஜூன் 27 ஆம் திகதி இடம்பெற்றது. அதில் கலந்துகொண்டு உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/db53ca24.json)
 
 ---
 
@@ -1237,6 +1311,24 @@ The Ministry of Education has announced that all government schools will be held
 [Data](articles/ada686fa.json)
 
 [Extended Data](ext_articles/ada686fa.ext.json)
+
+---
+
+### ඉන්දියාවේ තහනම් සූදු ඔට්ටු පිටුවක් මහා පරිමාණයෙන් ලංකාවේ සිට ක්‍රියාත්මක කරලා
+
+*2024-06-27 20:17:32* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවේ-තහනම්-සූදු-ඔට්ටු-පිටුවක්-මහා-පරිමාණයෙන්-ලංකාවේ-සිට-ක්‍රියාත්මක-කරලා/11-410485) · `si`
+
+මෙරට තුළ රැඳී සිටිමින් නීති විරෝධී ලෙස අන්තර්ජාලය හරහා මූල්‍ය ජාවාරමක් සිදු කළ ඉන්දියන් ජාතිකයන් 60 කු අත්අඩංගුවට ගත් බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කියයි.
+
+එම සැකකරුවන් සමග ස්මාට් වර්ගයේ ජංගම දුරකථන 135 ක්, පරිගණක  40  හා ලැෆ් ටොෆ් පරිගණක 17 ක් පොලිස් භාරයට ගෙන ඇත. තලංගම , කෝට්ටේ මාදිවෙල සහ මීගමුව කොච්චිකඩ යන ප්‍රදේශවලදී එම වැටලීම් සිදුකර ඇත.
+
+තලංගම හීනටි කුඹුර ප්‍රදේශයේ නිවසක් වටලා එම නිවසේ රැඳී සිට මෙම ජාවාරම සිදුකළ ඉන්දියන් ජාතිකයන් 16 කු අත්අඩංගුවට ගත් පොලිසිය ඔහුත් භාරයේ තිබී ලැෆ් ටොෆ් පරිගණක 9 ක් හා ජංගම දුරකථන 59 ක් පොලිස් භාරයට ගෙන ඇත.
+
+කෝට්ටේ මාදිවෙල ප්‍රදේශයෙන් ප්‍රදේශයේද නිවසක් වටලා එම ජාලයටම සම්බන්ධ තවත් ඉන්දියන් ජාතිකයන් 13 අත්අඩංගුවට ගත් පොලිසිය එම ස්ථානයේ තිබී ලැෆ්ටොෆ්  පරිගණක 8 ක් ජංගම දුරකථන 38 ක් ද පොලිස් භාරයට ගෙන ඇත
+
+...
+
+[Data](articles/d09cea6a.json)
 
 ---
 
@@ -2137,101 +2229,5 @@ Police said the other bus was traveling behind the bus that was traveling forwar
 [Data](articles/2f13cfb6.json)
 
 [Extended Data](ext_articles/2f13cfb6.ext.json)
-
----
-
-### Children will not be allowed to lose their education - President
-
-*2024-06-27 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198218) · `si`
-
-President Ranil Wickremesinghe emphasizes the importance of teachers in maintaining the country's education system, stating that their role is crucial for the nation's future. He assures that measures will be taken to prevent disruptions in education and to address the concerns of teachers. Additionally, the President discusses various initiatives including salary increases for public servants, the development of Kandy, and the importance of unity among political parties for economic growth.
-
-🟩
-
-President Ranil Wickremesinghe says that the dignity of the teacher role is the responsibility of teachers and that the education of the country will not allow the education of the country.
-
-The President made this observation when the Malwathu Mahanayakas cannot be seen today (27).
-
-The Mahanayakes also presented the large city development plan in Kandy.
-
-President Ranil Wickremesinghe arrived in Kandy this morning and paid bunging the Sacred Delias Dalada Maligawa this morning.
-
-President Ranil Wickremesinghe was admitted to the Dalada Maligawa.
-
-The President had followed the Most Venerable Church of Malwatte Ven.
-
-The President has said that a systematic procedure will be prepared to increase the salaries of public officers in a manner that does not cause salary anomalies.
-
-President Ranil Wickremesinghe has said that the teachers should remain in schools for the education of the country's children.
-
-...
-
-[Data](articles/edd61ca4.json)
-
-[Extended Data](ext_articles/edd61ca4.ext.json)
-
----
-
-### Sri Lanka opposition leaders downplay bilateral debt deal announcement
-
-*2024-06-27 15:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-leaders-downplay-bilateral-debt-deal-announcement-169870/) · `en`
-
-ECONOMYNEXT — Both opposition leader Sajith Premadasa and leftist National People’s Power (NPP) leader Anura Kumara Dissanayake have dismissed the announcement of Sri Lanka’s debt deferment agreement with bilateral creditors, pointing instead to negotiations still ongoing with commercial creditors.
-
-Premadasa speaking at an event accused the government of telling “earth-shattering lies”.
-
-“The latest gamble is fooling the people. Earth shattering lies are being told. If you look at this data, no one will accept that our country has come out of bankruptcy. They’re trying to show just the bilateral agreement and claim that we have come out of bankruptcy. There are many types of debt. There has been no definite agreement reached with creditors on international sovereign bonds (ISBs),” he said.
-
-Premadasa also claimed that the government has been hiding information and data relevant to debt restructuring.
-
-...
-
-[Data](articles/14dd94d9.json)
-
-[Extended Data](ext_articles/14dd94d9.ext.json)
-
----
-
-### Come to work from tomorrow
-
-*2024-06-27 15:41:28* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-දෙවිවරුනේ-හෙට-ඉදන්-වැඩට-එන්න/11-410480) · `si`
-
-Bandula Gunawardena urges kindness towards teachers, highlighting the disparity between government and international school education quality despite equal tax contributions.
-
-🟩
-
-Acting Minister Bandula Gunawardena requests that the teachers and the forefathers are kind to the best of the teacher and fathers who consider the teacher gods for their children.. Attempting to awareness discussion on the prevailing teacher, we have called on the government's news team today (27).
-
-The children of international schools and other private schools have been destroyed without any teacher strike, but the government's children who have been taxed to the government have lost the situation.
-
-He stated that when the tax payments were paid by the tax payments of the tax payments, the government has been given the maximum teachers.
-
-◼️
-
-[Data](articles/bfa131be.json)
-
-[Extended Data](ext_articles/bfa131be.ext.json)
-
----
-
-### Another decision pertaining to the appointment of judges
-
-*2024-06-27 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198217) · `si`
-
-The Supreme Court will hear a fundamental rights petition concerning fisheries, with the Chief Justice presiding. This decision comes after considering two petitions filed by Ven, with hearings scheduled for July 25th.
-
-🟩
-
-The Supreme Court has decided to hear the fundamental rights petition to be heard as the Chief Justice, preventing the name of the Judges for the fisheries' filing for the fiscal judiciary.
-
-The court has issued the court after considering two intermediate petitions filed by Ven.
-
-The petition was then taken to hear the petition on 25th July.
-
-◼️
-
-[Data](articles/e5d83549.json)
-
-[Extended Data](ext_articles/e5d83549.ext.json)
 
 ---

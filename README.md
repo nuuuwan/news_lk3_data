@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 11:35:08**
+As of **2024-06-28 11:54:43**
 
 ## Newspaper Stats
 
-*Scraped **32,604** Articles*
+*Scraped **32,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,813
 economynextcom | 1,901
 dailyftlk | 1,998
-adalk | 2,887
+adalk | 2,889
 adaderanalk | 3,709
 tamilmirrorlk | 3,853
 dailymirrorlk | 4,733
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,604 (100.0%) of 32,604 articles have been extended.
+32,604 (100.0%) of 32,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### හිරුනිකාට බරපතල වැඩ සහිත වසර තුනක සිරදඬුවම්
+
+*2024-06-28 11:04:22* · [`adalk`](https://www.ada.lk/breaking_news/හිරුනිකාට-බරපතල-වැඩ-සහිත-වසර-තුනක-සිරදඬුවම්/11-410490) · `si`
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රිනී හිරුණිකා ප්‍රේමචන්ද්‍රට කොළඹ මහාධිකරණ විසින් බරපතළ වැඩ සහිත වසර තුනක සිර දඬුවම් නියම කර ඇත.
+
+2015 වසරේදී දෙමටගොඩ ප්‍රදේශයේ වෙළෙඳසැලක සේවය කළ තරුණයකු පැහැරගෙන ගොස් වදහිංසා කොට  සිරකර තැබීමේ චෝදනාව සම්බන්ධයෙන් ඇය වැරදිකරු බවට තීන්දු කරමින් මෙම නියෝගය නිකුත් කර ඇති බව සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/745ddba4.json)
+
+---
 
 ### A large crucial in Delhi airport
 
@@ -81,6 +95,24 @@ However, some political commentators say that Democratic supporters will not be 
 [Data](articles/070bba44.json)
 
 [Extended Data](ext_articles/070bba44.ext.json)
+
+---
+
+### චීනයේ යෝධ පැන්ඩා යළිත් ඇමරිකාවට
+
+*2024-06-28 10:27:17* · [`adalk`](https://www.ada.lk/breaking_news/චීනයේ-යෝධ-පැන්ඩා-යළිත්-ඇමරිකාවට/11-410488) · `si`
+
+ඇමරිකාව සහ ඔස්ට්‍රියාව සමග පවත්වන යෝධ පැන්ඩා සංරක්ෂණ සහයෝගිතා ගිවිසුම් යළි ක්‍රියාවට නැංවීමට චීනය පියවර ගනී.
+
+ඔස්ට්‍රියාවේ Tiergarten Schönbrunn සත්වෝද්‍යානය සමග යෝධ පැන්ඩා සංරක්ෂණ සහයෝගිතා පිළිබඳ නව ගිවිසුමක් අත්සන් කර ඇති බව චීන වනජීවී සංරක්ෂණ සංගමය නිවේදනය කර ඇත. එසේම, "Yunchuan" සහ "Xinbao" නමැති යෝධ පැන්ඩාවුන් දෙදෙනෙකු ඇමරිකාවේ San Diego සත්වෝද්‍යානය වෙත පිටත් කිරීමත් සමග චීන-ඇමරිකානු යෝධ පැන්ඩා සංරක්ෂණ සහයෝගිතා යළි ආරම්භ වී ඇති බව ද එම සංගමය කියාසිටී.
+
+වසර 20 කට අධික කාලයක් තිස්සේ චීනය අදාළ සත්වෝද්‍යාන සමග යෝධ පැන්ඩා සංරක්ෂණ සහයෝගිතා පවත්වා තිබේ.  චීන -ඔස්ට්‍රියානු හා චීන -ඇමරිකානු යෝධ පැන්ඩා සංරක්ෂණ සහයෝගිතා ඔස්සේ එම සතුන්ගේ පැවැත්ම තවදුරටත් තහවුරු වනු ඇත. එය ගෝලීය ජෛව විවිධත්වය සුරක්ෂිත කිරීමට මෙන්ම චීන ජනතාවගේ ජාත්‍යන්තර මිත්‍රත්වය ශක්තිමත් කිරීමට ද දායක වන බව චීන බලධාරීන් පෙන්වා දී තිබේ.
+
+චීන විදේශ අමාත්‍යාංශ ප්‍රකාශිකා මාඕ නිං මහත්මිය මේ කරුණු අනාවරණය කළේ විදේශ අමාත්‍යාංශයේ ඊයේ (27) පැවති මාධ්‍ය හමුවට එක්වෙමිනි.
+
+◼️
+
+[Data](articles/58baf58c.json)
 
 ---
 
@@ -2215,57 +2247,5 @@ A bond maturing on 15.09.2029 closed at 12.15/30 percent, up from 12.10/25 perce
 [Data](articles/4bfa29b6.json)
 
 [Extended Data](ext_articles/4bfa29b6.ext.json)
-
----
-
-### Supreme Court banned for Pavithra's gazette
-
-*2024-06-27 17:21:42* · [`adalk`](https://www.ada.lk/breaking_news/පවිත්‍රාගේ-ගැසට්ටුවට-ශ්‍රේෂ්ඨාධිකරණයෙන්-තහනමක්/11-410484) · `si`
-
-The Supreme Court recently lifted a ban on 415 acres within the Wilpattu National Park, reversing a decision made by the Minister of Wildlife Safety and the Environmental Foundation. This reversal came after a petition filed by the Wildlife Safety Association and the Environmental Foundation. The case was heard by justices Preethi Padman Surussena, Shiran Gunaratne, and Achala Wijesinghe, who will issue further orders on November 12th.
-
-🟩
-
-The Supreme Court today released the Attribute Court today (27) at the Annual Assignment of Pure Venarachchi issued by the Wilpattuvila Reserve.
-
-Respondent was released by the respondents and the respondents, on the release of 415 acres of a gazette.
-
-Minister of Wildlife Safety Association and the Environmental Foundation of the Wildlife Sauman Association on May 6, the Wildlife Security Association and the Environmental Foundation, the Gazette Notification issued on May 6, Implement the gazette notification issued by the Minister of WildlifeIssued on the interim injunction order in averted.
-
-The petition was considered by Supreme Court judges Preethi Padman Surussena, Shiran Gunaratne and Achala Welfuli.
-
-Minister of Wildlife Pavithra Wanniarachchi has been named as respondents in the Fundamental Rights Petitions filed by the Wildlife Safety Association and the Environmental Foundation.
-
-...
-
-[Data](articles/7480b1b3.json)
-
-[Extended Data](ext_articles/7480b1b3.ext.json)
-
----
-
-### Sri Lanka stocks close down, profit taking seen
-
-*2024-06-27 17:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-profit-taking-seen-169894/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
-
-The broader All Share Index closed down 0.59 percent, or 72.43 points, at 12,188; while the more liquid S&P SL20 Index closed down 0.75 percent, or 27.26 points, at 3,601.
-
-“There’s a lack of confidence among investors due to the uncertainty created around the ISBs,” market participants said.
-
-Clearing activity usually seen around the month end could also have been a factor for the indices to close down, Softlogic Stockbrokers said. “Market sentiment was subdued despite the positive news on the economic front yesterday.
-
-“These being the last trade days of the month and a lot of clearing and margin calls taking place could be one reason for market to close down.
-
-“And there was also some profit taking seen. There was a lot of selling, predominantly by local participants.”
-
-Sunshine Holdings Plc (down at 63.90) saw the most active volumes traded in the day.
-
-...
-
-[Data](articles/12c51654.json)
-
-[Extended Data](ext_articles/12c51654.ext.json)
 
 ---

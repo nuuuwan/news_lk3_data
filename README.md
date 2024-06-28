@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 16:06:55**
+As of **2024-06-28 16:19:32**
 
 ## Newspaper Stats
 
-*Scraped **32,643** Articles*
+*Scraped **32,645** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,901
 dailyftlk | 1,998
 adalk | 2,891
 adaderanalk | 3,716
-tamilmirrorlk | 3,858
+tamilmirrorlk | 3,860
 dailymirrorlk | 4,733
 virakesarilk | 5,079
 adaderanasinhalalk | 5,374
@@ -26,21 +26,59 @@ adaderanasinhalalk | 5,374
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,640 (100.0%) of 32,643 articles have been extended.
+32,643 (100.0%) of 32,645 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### අත්අඩංගුවට ගත් ඉන්දියානුවන් ගණන තවත් ඉහළට
+### கொழும்பு மக்களுக்கு அவசர அறிவிப்பு
+
+*2024-06-28 16:06:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மக்களுக்கு-அவசர-அறிவிப்பு/175-339585) · `ta`
+
+கொழும்பு மாவட்டத்தின் பல பகுதிகளுக்கு நாளை 15 மணித்தியாலங்களுக்கு நீர் விநியோகம் தடைப்படும் என நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+
+இதன்படி நாளை காலை 9.00 மணி முதல் நள்ளிரவு 12.00 மணி வரை நீர் விநியோகம் தடைப்படும் எனவும் சபை குறிப்பிட்டுள்ளது.
+
+கொழும்பு, தெஹிவளை, கோட்டை, கடுவெல மாநகர சபைக்குட்பட்ட பகுதிகள், மஹரகம, பொரலஸ்கமுவ, கொலன்னாவ நகரசபை பகுதி, கொட்டிகாவத்தை, முல்லேரிய பிரதேச சபைக்குட்பட்ட  இவ்வாறு நீர் விநியோகத் தடை அமுல்படுத்தப்படவுள்ளது.
+
+மேலும், மொரட்டுவ நகரசபை பகுதிகளுக்கு குறைந்த அழுத்தத்துடன் நீர் விநியோகம் செய்யப்படவுள்ளதாகவும் வடிகாலமைப்பு சபை மேலும் தெரிவிக்கிறது. R
+
+◼️
+
+[Data](articles/b13680f1.json)
+
+---
+
+### The number of Indians who were arrested up
 
 *2024-06-28 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198260) · `si`
 
-ඔන්ලයින් වංචා සිදුකරමින් සිටි ඉන්දීය ජාතිකයින් 137 දෙනෙක් ඊයේ දිනය තුළදී අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පවසයි.
+137 Indian nationals were arrested yesterday, according to Attorney at Law and police spokesman Nihal Talduuwa.
+
+🟩
+
+Attorney at Law, police spokesman, Nihal Talduuwa said that 137 Indian nationals were arrested yesterday.
 
 ◼️
 
 [Data](articles/495e88ce.json)
+
+[Extended Data](ext_articles/495e88ce.ext.json)
+
+---
+
+### பேருந்து கட்டணம் குறைகின்றது
+
+*2024-06-28 15:31:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்து-கட்டணம்-குறைகின்றது/175-339584) · `ta`
+
+ஜூலை 1ஆம் திகதி முதல் பேருந்து கட்டணத்தை 5 சதவீதம் குறைக்க தீர்மானிக்கப்பட்டுள்ளது.
+
+இதன்படி, குறைந்தபட்ச பேருந்து கட்டணம் 2 ரூபாவால் குறைக்கப்படவுள்ள நிலையில், புதிய குறைந்தபட்ச பேருந்து கட்டணம் 28 ரூபாவாக குறைக்கப்படவுள்ளது. R
+
+◼️
+
+[Data](articles/23cb3e08.json)
 
 ---
 
@@ -58,21 +96,29 @@ The work related to restoring the ‘Podi Menike’ train has already commenced,
 
 [Data](articles/63328b3d.json)
 
+[Extended Data](ext_articles/63328b3d.ext.json)
+
 ---
 
-### එවැනි සහන අපිට ඕනේ නෑ -ජනපති
+### We don't want such relief - President
 
 *2024-06-28 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198259) · `si`
 
-දේශගුණික විපර්යාසවලට මුහුණදීමේ දී අප්‍රිකාවේ අඩුආදායම්ලාභී රටවල ණය සම්පූර්ණයෙන් අහෝසි කළ යුතු බව ශ්‍රී ලංකාවේ විදේශ ප්‍රතිපත්තිය බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe opposes seeking financial aid from low-income African nations, asserting Sri Lanka's self-sufficiency in managing its debt. He made this statement at the 2024 Presidential Awards Ceremony, emphasizing Sri Lanka's capability without needing external concessions.
 
-ශ්‍රී ලංකාවට එවන් සහනයක් අවශ්‍ය නොවන අතර ණය කළමනාකරණය කර ගනිමින් ඉදිරියට යාමට ශ්‍රී ලංකාවට ශක්තිය සහ ඥානය තිබෙන බව ද ජනාධිපතිවරයා කියා සිටියේය.
+🟩
 
-අද (28) පෙරවරුවේ කොළඹ බණ්ඩාරනායක ජාත්‍යන්තර අනුස්මරණ සම්මන්ත්‍රණ ශාලාවේ පැවති 2024 ජනාධිපති පරිසර සම්මාන උළෙල අමතමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව පැවසීය.
+President Ranil Wickremesinghe says Sri Lanka's foreign policy should be completely eliminated in Africa's low income agencies in Africa's low-income countries in Africa.
+
+Sri Lanka does not need such concessions and Sri Lanka has strength and knowledge to continue to manage the debt.
+
+President Ranil Wickremesinghe addressing the 2024 Presidential Awards Ceremony at the Bandaranaike International Memorial Conference Hall today (28).
 
 ◼️
 
 [Data](articles/d6ca13d5.json)
+
+[Extended Data](ext_articles/d6ca13d5.ext.json)
 
 ---
 
@@ -2163,57 +2209,5 @@ In the districts of Kandy, Matale, Badulla, Moneragala, Kegalle, Ratnapura, Kalu
 [Data](articles/45b95824.json)
 
 [Extended Data](ext_articles/45b95824.ext.json)
-
----
-
-### A target of 172 runs from India
-
-*2024-06-28 00:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198234) · `si`
-
-In the T20 World Cup's second semi-final, England chose to field after winning the toss. Despite intermittent rain, India managed to score 171 runs off 20 overs, losing 7 wickets.
-
-🟩
-
-The second semi-final in the T20 World Cup will be held today (27).
-
-Engginland won the advantage of the coin, and they decided to give India the opportunity to bat first.
-
-Accordingly, India scored 171 runs for the loss of 7 wickets at the end of 20 overs.
-
-From time to time, the rain was interrupted by time to time before and in the match.
-
-◼️
-
-[Data](articles/89bc16d8.json)
-
-[Extended Data](ext_articles/89bc16d8.ext.json)
-
----
-
-### Yall. Rescue by police suspected in front of the hospital
-
-*2024-06-28 00:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187125) · `ta`
-
-Jaffna police rescued a car stuck at the entrance of Jaffna Teaching Hospital No. 13. The driver, unaccounted for, blocked the pharmacy gate. After investigating, the car was removed with a heavy vehicle and taken to the police station for further action.
-
-🟩
-
-Jaffna police have rescued the car that was suspected of suspected of the entrance to the Jaffna Teaching Hospital No. 13.
-
-A person has stopped the car as the entrance to the Jaffna Bodhana Hospital Pharmaceutical Gateway No. 13th.
-
-The hospital staff are searching for the driver of the car as the hospital vehicle is unable to get out of the pharmaceutical barn.
-
-The driver of the car for a long time was not reported to the Jaffna police through the hospital director.
-
-The police arrived at the scene, investigated and investigated and inquired at the neighboring shops, but the car was recovered from the car with the help of a heavy vehicle and took it to the police station.
-
-Police have taken steps to find its owner through the car's digit plate.
-
-◼️
-
-[Data](articles/efedfdc0.json)
-
-[Extended Data](ext_articles/efedfdc0.ext.json)
 
 ---

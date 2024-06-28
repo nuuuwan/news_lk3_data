@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 07:01:19**
+As of **2024-06-28 07:25:03**
 
 ## Newspaper Stats
 
-*Scraped **32,568** Articles*
+*Scraped **32,569** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 297
 dbsjeyarajcom | 299
 bbccomsinhala | 320
 newsfirstlk | 363
-islandlk | 1,812
+islandlk | 1,813
 economynextcom | 1,901
 dailyftlk | 1,988
 adalk | 2,885
@@ -26,51 +26,63 @@ adaderanasinhalalk | 5,352
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,557 (100.0%) of 32,568 articles have been extended.
+32,568 (100.0%) of 32,569 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### අදත් වැස්ස
+### Rain today
 
 *2024-06-28 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198236) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (28) දිනයේ වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
+Expect rain across various regions including Western, Sabaragamuwa, Northwestern, Batticaloa, Ampara, Trincomalee, Hambantota, and Moneragala districts. Strong winds expected too.
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිකුත් කළ නවතම නිවේදනයේ ඒ බව දැක්වෙයි.
+🟩
 
-ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+Several spells of showers in the Western, Sabaragamuwa and Northwestern provinces.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40ක 50ක පමණ තද සුළං ද ඇති වෙයි.
+The latest announcement issued by the Department of Meteorology.
+
+Showers or thundershowers will occur at several places in the Batticaloa and Batticaloa districts of Ampara and Batticaloa districts.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. There are also about 40 struggle strong winds.
 
 ◼️
 
 [Data](articles/17175548.json)
 
+[Extended Data](ext_articles/17175548.ext.json)
+
 ---
 
-### ඉන්දියාව අවසන් ගැටුමට
+### India for the closing clash
 
 *2024-06-28 05:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198235) · `si`
 
-පන්දුවාර 20යි20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අවසන් මහා තරගයට සුදුසුකම් ලැබීමට ඉන්දීය කණ්ඩායම සමත් වුණි.
+In the 20-over World Cup, India qualified for the finals against England, who won the toss and batted first, scoring 171/7 in 20 overs. Chasing 172, England made 103/0 in 4 overs. Despite England's strong start, India and South Africa remain unbeaten, setting up an exciting showdown on the upcoming Saturday.
 
-ඒ ඊයේ (27) පැවති අවසන් පුර්ව තරගයෙන් එංගලන්ත කණ්ඩායම පරදා ලකුණු 68කින් ජයගැනීමත් සමගය.
+🟩
 
-තරගයේ කාසියේ වාසිය දිනු එංගලන්තය කණ්ඩායම පළමුව පන්දුවට පහරදීමේ අවස්ථාව ඉන්දීය කණ්ඩායමට ලබා දුනි.
+The Indian team was able to qualify for the final of 20 overs.
 
-ඒ අනුව ඔවුන් නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 7ක් දැවී ලකුණු 171ක් ලබා ගත්තේය.
+The final group of England won by 68 runs in the final termination held yesterday (27).
 
-ලකුණු 172ක ජයග්‍රාහී ඉලක්කයක් හඹා ගිය එංගලන්ත කණ්ඩායමට පන්දුවාර 16යි පන්දු 04ක් අවසානයේ සියලු දෙනා දැවී ලබා ගත හැකි වුයේ ලකුණු 103ක් පමණයි.
+England won the toss and elected England to bat first.
 
-ඉන්දීය කණ්ඩායම සහ දකුණු අප්‍රිකානු කණ්ඩායම මෙම ලෝක කුසලාන තරගාවලියේ මෙතෙක් ක්‍රීඩා කළ සියලුම තරග ජයග්‍රහණය කර තිබීම විශේෂත්වයක් වෙයි.
+Accordingly, they scored 171 runs for the loss of 7 wickets at the end of the 20 overs.
 
-ඒ අනුව 2024 පන්දුවාර 20යි 20 ලෝක කුසලාන අවසාන මහා තරගය දකුණු අප්‍රිකානු කණ්ඩායම සහ ඉන්දීය කණ්ඩායම අතර එළඹෙන සෙනසුරාදා පැවැත්වීමට නියමිතය.
+Chasing a target of 172, England scored 103 runs in 4 overs.
+
+The team of India and South Africa have won all the matches played so far in this World Cup.
+
+Accordingly, 2024 will be held on the coming Saturday between the ninth Saturday and the Indian team.
 
 ◼️
 
 [Data](articles/c1d2a9ba.json)
+
+[Extended Data](ext_articles/c1d2a9ba.ext.json)
 
 ---
 
@@ -110,6 +122,8 @@ The awards showcased the dedication of the respective SLT-MOBITEL teams in deliv
 
 [Data](articles/c56018f3.json)
 
+[Extended Data](ext_articles/c56018f3.ext.json)
+
 ---
 
 ### Virtusa’s Vice President lauds SL’s ‘transformative developments’
@@ -128,6 +142,8 @@ Ferreira also briefed journalists on the recent launch of ‘Virtusa Helio’, t
 
 [Data](articles/7f0f5ab3.json)
 
+[Extended Data](ext_articles/7f0f5ab3.ext.json)
+
 ---
 
 ### Sunshine Holdings wins Gold for ‘Best Investor Relations’ at CFA Capital Market Awards 2024
@@ -139,6 +155,8 @@ Diversified conglomerate Sunshine Holdings PLC (CSE: SUN) won Gold at the CFA So
 ...
 
 [Data](articles/9b0ffd3d.json)
+
+[Extended Data](ext_articles/9b0ffd3d.ext.json)
 
 ---
 
@@ -158,19 +176,25 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 
 ---
 
-### வெள்ளம் தொடர்பில் 2 வாரங்களுக்குள் அறிக்கை
+### Report within 2 weeks regarding floods
 
 *2024-06-28 02:38:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளம்-தொடர்பில்-2-வாரங்களுக்குள்-அறிக்கை/175-339565) · `ta`
 
-கொழும்பு மாவட்டத்தில் வெள்ளம் ஏற்பட்டதற்கான காரணங்களை ஆராய்ந்து அனைத்து கிராம உத்தியோகத்தர் பிரிவுகளையும் உள்ளடக்கிய வகையில் அறிக்கை கோருமாறும், அந்த அறிக்கைகளின் அடிப்படையில் ஆரம்ப அறிக்கையை தயாரித்து இரண்டு வாரங்களுக்குள் ஜனாதிபதி அலுவலகத்தில் சமர்ப்பிக்குமாறும் தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க கொழும்பு மாவட்டத்தின் பிரதேச செயலாளர்களுக்கு அறிவுறுத்தல் வழங்கினார்.
+Sagala Ratnayake, head of National Security, tasked Divisional Secretaries to probe flood causes in Colombo district, aiming for a two-week report. He pledged swift action to tackle these issues, consulting relevant parties. This directive came from a meeting at the Presidential Office, focusing on understanding the recent flood situation linked to adverse weather conditions.
 
-அதன் பிரகாரம், சம்பந்தப்பட்ட நிறுவனங்களின் தலைவர்களுடன் கலந்துரையாடி இந்தப் பிரச்சினைகளுக்குத் தீர்வு காண்பதற்குத் தேவையான திட்டங்களை உடனடியாகத் தயாரிக்க நடவடிக்கை எடுப்பதாக அவர் தெரிவித்தார்.
+🟩
 
-மோசமான காலநிலை காரணமாக கொழும்பு மாவட்டத்தில் அண்மையில் ஏற்பட்ட வெள்ள நிலைமைக்கான காரணங்களைக் கண்டறிந்து அதற்குத் தீர்வுகாண்பதற்காக துறைசார் நிறுவனங்களின் தலைவர்களுடன் நேற்று முன்தினம் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்ற கலந்துரையாடலின் போதே சாகல ரத்நாயக்க இவ்வாறு  தெரிவித்தார். (a)
+Sagala Ratnayake, the President of the National Security, advised the Divisional Secretaries of the National Security and the President of the President of the President of the National Security, to investigate the causes of the floods in the Colombo district and submit a report to the Presidential Office within two weeks.
+
+Accordingly, he said that he would take immediate steps to prepare the necessary plans to address these issues in consultation with the leaders of the concerned companies.
+
+Sagala Ratnayake made this statement during a discussion held at the Presidential Office yesterday with the leaders of the departmental institutions to find out the reasons for the recent flood situation in the Colombo district due to the worse weather conditions.. (A)
 
 ◼️
 
 [Data](articles/3a244251.json)
+
+[Extended Data](ext_articles/3a244251.ext.json)
 
 ---
 
@@ -302,6 +326,8 @@ The 29th National Bartenders Competition 2024 concluded with a spectacular Grand
 
 [Data](articles/bc1de23b.json)
 
+[Extended Data](ext_articles/bc1de23b.ext.json)
+
 ---
 
 ### Fonterra Brands Lanka marks World Environment Day with focus on land restoration
@@ -313,6 +339,8 @@ Fonterra Brands Lanka commemorated World Environment Day by hosting an education
 ...
 
 [Data](articles/f696987f.json)
+
+[Extended Data](ext_articles/f696987f.ext.json)
 
 ---
 

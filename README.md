@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 00:51:29**
+As of **2024-06-29 01:04:28**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 5,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,707 (100.0%) of 32,723 articles have been extended.
+32,717 (100.0%) of 32,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
 
-### கடனைத் திருப்பிச் செலுத்துவதற்கான நிலைபேற்றுத் தன்மை காரணமாக, இலங்கைக்கு சுமார் 17 பில்லியன் அமெரிக்க டொலர்கள் நன்மை கிடைக்கும் - அலி சப்ரி
+### Due to the status of repayment of the loan, Sri Lanka will benefit from $ 17 billion - Ali Sabri
 
 *2024-06-29 00:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/187224) · `ta`
 
-இருதரப்பு கடன் வழங்குநர்களுடனான கடன் மறுசீரமைப்பு செயல்முறை வெற்றியடைவதன் மூலம் இலங்கைக்கு சுமார் 17 பில்லியன் அமெரிக்க டொலர்கள் நன்மை கிடைக்கும் என வெளிநாட்டலுவல்கள் அமைச்சர் ஜனாதிபதி சட்டத்தரணி அலி சப்ரி தெரிவித்தார்.
+Sri Lanka, through successful debt restructuring with bilateral lenders including India, Japan, France, and ongoing negotiations with China, expects to gain around $17 billion. This achievement paves the way for favorable outcomes in talks for international bailouts, aiming to reduce its total debt to 95% of its GDP and lower foreign loan interest by 4.5% of GDP.
 
-அத்துடன், சர்வதேச பிணைமுறிகள் தொடர்பான பேச்சுவார்த்தைகளை வெற்றியடையச் செய்வதற்கு இந்நிலைமை உதவும் என்றும் அமைச்சர் மேலும் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் இன்று (28) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் அலி சப்ரி இதனைத் தெரிவித்தார்.
+Foreign Affairs Minister Ali Sabri said Sri Lanka would benefit from $ 17 billion benefit from the success of the debt reproductive process with bilateral credit providers.
 
-“2022 ஏப்ரல் 12 ஆம் திகதி, குறிப்பிட்ட அளவு வெளிநாட்டுக் கடன்களை திருப்பிச் செலுத்துவதை தற்காலிகமாக நிறுத்த இலங்கை முடிவு செய்தது. அமெரிக்க டொலருக்கு நிகரான ரூபாவின் பெறுமதி 600, 700, 1000 ஆக உயரும் என்று, அன்று சிலர் குற்றம் சாட்டினர். ஆனால் நாம் அந்த நிலைமையைக் கட்டுப்படுத்தினோம்.
+The Minister added that the situation will help you succeed in negotiations on international bailouts.
+
+Minister Ali Sabri said this at a media briefing held at the Presidential Media Center today (28).
+
+“On April 12, 2022, Sri Lanka decided to suspend a certain amount of foreign loans. Some accused the rupee of Rs 600, 700, 1000 against the US dollar. But we controlled that situation.
+
+In a contract with the International Monetary Fund, we were told to restructure the loan. For that, Lazart was appointed as our representative and Clipart Hans for legal matters. In the meantime, we first took steps to rebuild the domestic debt.It is noteworthy that despite such activities, we have been working as a country to pay off the debts of multi -regions.
 
 ...
 
 [Data](articles/731639d3.json)
+
+[Extended Data](ext_articles/731639d3.ext.json)
 
 ---
 
@@ -156,6 +164,8 @@ Serendib Flour Mills exhibited its 7 Star Premium Bakers’ Flour and retail ran
 
 [Data](articles/e667d854.json)
 
+[Extended Data](ext_articles/e667d854.ext.json)
+
 ---
 
 ### Empowering healthcare through education: People’s Bank and IIHS partner to support nursing excellence
@@ -171,6 +181,8 @@ Recognising the global shortage of nurses, estimated at 13 million worldwide, Pe
 ...
 
 [Data](articles/8759819a.json)
+
+[Extended Data](ext_articles/8759819a.ext.json)
 
 ---
 
@@ -188,6 +200,8 @@ The opening ceremony on Sunday at 10 a.m. will be graced by Republic of Korea Am
 
 [Data](articles/4ff2034c.json)
 
+[Extended Data](ext_articles/4ff2034c.ext.json)
+
 ---
 
 ### ComBank boosts digital banking with ‘Pay and Win’ and ‘Transact and Win’ promos
@@ -203,6 +217,8 @@ Under the ‘Pay and Win’ promotion, Commercial Bank will provide cashbacks of
 ...
 
 [Data](articles/c3fdd1ce.json)
+
+[Extended Data](ext_articles/c3fdd1ce.ext.json)
 
 ---
 
@@ -220,6 +236,8 @@ The NDB Araliya savings account, designed specifically for women, aligns with th
 
 [Data](articles/178f24fe.json)
 
+[Extended Data](ext_articles/178f24fe.ext.json)
+
 ---
 
 ### Ceylon Green Life Plantation enters food supplement market
@@ -231,6 +249,8 @@ Guava and agro-cultivators, Ceylon Green Life Plantation Ltd., recently signed u
 ...
 
 [Data](articles/7c037f7f.json)
+
+[Extended Data](ext_articles/7c037f7f.ext.json)
 
 ---
 
@@ -252,6 +272,8 @@ The Ambassador welcomed Chief Guest Tourism, Lands, Sports and Youth Affairs Min
 
 [Data](articles/5d988c47.json)
 
+[Extended Data](ext_articles/5d988c47.ext.json)
+
 ---
 
 ### JICA improves elderly services in Sri Lanka
@@ -268,6 +290,8 @@ In Thailand, JICA supported the improvement of elderly services from 2007 to 202
 
 [Data](articles/b0197c2c.json)
 
+[Extended Data](ext_articles/b0197c2c.ext.json)
+
 ---
 
 ### Everystory Sri Lanka holds first public event on women’s movements of Sri Lanka
@@ -283,6 +307,8 @@ A key feature of this event was three teach-outs led by Sharanya Sekaram (Englis
 ...
 
 [Data](articles/3ebf1460.json)
+
+[Extended Data](ext_articles/3ebf1460.ext.json)
 
 ---
 

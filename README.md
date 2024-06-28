@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 22:35:07**
+As of **2024-06-28 22:53:16**
 
 ## Newspaper Stats
 
-*Scraped **32,695** Articles*
+*Scraped **32,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,723
 tamilmirrorlk | 3,862
 dailymirrorlk | 4,733
 virakesarilk | 5,095
-adaderanasinhalalk | 5,383
+adaderanasinhalalk | 5,384
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,693 (100.0%) of 32,695 articles have been extended.
+32,695 (100.0%) of 32,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### හිරුණිකාගෙන් සිරදඬුවමට එරෙහිව අභියාචනයක්
+
+*2024-06-28 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198270) · `si`
+
+හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට ලබාදුන් සිරදඬුවමට එරෙහිව එළැඹෙන සතියේ අභියාචනාධිකරණය හමුවේ අභියාචනයක් ගොනුකරන බව ඇයගේ නීතිඥයින් සඳහන් කරයි.
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රිනී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට කොළඹ මහාධිකරණය අද (28) බරපතළ වැඩසහිත වසර තුනක සිර දඬුවම් නියම කළේය.
+
+ඒ, 2015 දී තරුණයකු පැහැරගෙන ගොස් අයුතු ලෙස සිරකර තැබීමේ චෝදනාව සම්බන්ධයෙනි.
+
+ඒ අනුව, විත්තිකාර හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය චෝදනා 18කට වරදකාරිය කෙරුණු අතර එම එක් එක් චෝදනාවට රුපියල් විසිදහස බැගින් දඩ නියම කෙරුණි.
+
+2015 වසරේ දෙසැම්බර් 21වැනිදා දෙමටගොඩ ප්‍රදේශයේ වෙළෙඳසැලක සේවය කරමින් සිටි අමිල ප්‍රියංග නම් තරුණයෙකුව ඩිෆෙන්ඩර් රථයකින් පැහැරගෙන ගොස් සාපරාධී බිය ගැන්වීමක් කළ බවට එවක පාර්ලිමේන්තු මන්ත්‍රීවරියක්ව සිටි හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට සහ ඇගේ පෞද්ගලික ආරක්ෂකයින්ට චෝදනා එල්ල වුණි.
+
+ඒ සම්බන්ධයෙන් සිදුකෙරුණු මූලික විමර්ශනයකින් අනතුරුව හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට සහ ඇගේ පෞද්ගලික ආරක්ෂකයින් 08 දෙනෙකුට නීතිපතිවරයා චෝදනා 29ක් යටතේ කොළඹ මහාධිකරණය හමුවේ අධිචෝදනා ගොනුකළේය.
+
+...
+
+[Data](articles/4b304e20.json)
+
+---
 
 ### Powerful 7.2 magnitude earthquake hits southern Peru
 
@@ -50,6 +72,8 @@ The quake was felt as far as the capital. Video posted to social media shows lam
 
 [Data](articles/7405e424.json)
 
+[Extended Data](ext_articles/7405e424.ext.json)
+
 ---
 
 ### Govt says Rs. 11.6 billion disbursed to ‘Aswesuma’ beneficiaries for June
@@ -65,6 +89,8 @@ In response to the current economic situation, President Ranil Wickremesinghe ha
 ...
 
 [Data](articles/a652fec2.json)
+
+[Extended Data](ext_articles/a652fec2.ext.json)
 
 ---
 
@@ -2293,29 +2319,5 @@ Police Media Spokesperson Nihal Talduwa said that Sanjay Mahawatta has been arre
 [Data](articles/fd7f87a5.json)
 
 [Extended Data](ext_articles/fd7f87a5.ext.json)
-
----
-
-### Sri Lanka 165MW renewable tenders Rs15+, Mannar wind award in two weeks: Minister
-
-*2024-06-28 09:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-165mw-renewable-tenders-rs15-up-mannar-wind-award-in-two-weeks-minister-169950/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Mannar 50 Mega Watt wind power plant and 165MW of renewable plants and would be awarded to the “lowest & successful” bidder, Minister of Energy Kanchana Wijesekera said.
-
-“The process for approvals has also been expedited, and MOPE hopes to conclude the awarding to lowest & successful bidder of Mannar 50 Mw wind tender & 165 Mw tenders in the next two weeks,” Minister Wijesekera said in an x.com post.
-
-The tenders of the 50MW wind plant came in at 4.88 US cents by Windforce Plc, 4.88 cents by Vidulanka and  5.90 cents by Lakdhanavi, he said.
-
-The prices are sharply lower than the India’s Adani non-competitive negotiated price of 8.26 US cents.
-
-The 165MW small renewable tender has responses ranging from 15 rupees to 29 rupees and is being evaluated by the Ceylon Electricity Board, he said.
-
-The Mannar wind plant at 4.88 cents is about 14.90 rupees at an exchange rate of 305 to the US dollar.
-
-...
-
-[Data](articles/52dff62e.json)
-
-[Extended Data](ext_articles/52dff62e.ext.json)
 
 ---

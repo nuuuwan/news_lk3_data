@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 23:35:06**
+As of **2024-06-28 23:54:30**
 
 ## Newspaper Stats
 
-*Scraped **32,697** Articles*
+*Scraped **32,704** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 299
 bbccomsinhala | 321
 newsfirstlk | 363
 islandlk | 1,813
-economynextcom | 1,913
+economynextcom | 1,920
 dailyftlk | 1,998
 adalk | 2,895
 adaderanalk | 3,723
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,696 (100.0%) of 32,697 articles have been extended.
+32,697 (100.0%) of 32,704 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### சிறீதரன் எம்.பிக்கு அச்சுறுத்தல்...
+### Sreedharan threatens MP ...
 
 *2024-06-28 23:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சிறீதரன்-எம்-பிக்கு-அச்சுறுத்தல்/71-339588) · `ta`
 
-பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரனின், யாழ்ப்பாணத்திலுள்ள இல்லத்தின் முன்பாக இனந்தெரியாத நபர்களின் அச்சுறுத்தும் வகையிலான நடமாட்டம் இன்றையதினம் (28) அவதானிக்கப்பட்டுள்ளது.
+Surveillance footage shows masked individuals on motorcycles outside MP Sivagnanam Sridharan's home in Jaffna, suggesting a threat to him and his family.
 
-இலக்கத்தகடுகள் மறைக்கப்பட்ட நான்கு மோட்டார்சைக்கிள்களில், முகமூடிகள் அணிந்தவாறு வருகைதந்த இனந்தெரியாத நபர்களின் நடமாட்டம், பாராளுமன்ற உறுப்பினர் சிறீதரனையும், அவரது குடும்பத்தினரையும் அச்சுறுத்தும் வகையிலான திட்டமிட்ட செயல் என்பதை, கண்காணிப்புக் கமராக்களில் பதிவாகியுள்ள காணொளிக் காட்சிகள் உறுதிப்படுத்துகின்றன. R
+🟩
+
+Member of Parliament Sivagnanam Sridharan has been observed today (28) in front of the house in Jaffna.
+
+Video footage recorded in surveillance confirms that the number of non -unidentified persons who have been wearing masks is a planned act that threatens MP Sreedharan and his family, on four hidden motorcycles.. Remble
 
 ◼️
 
 [Data](articles/d5199d23.json)
+
+[Extended Data](ext_articles/d5199d23.ext.json)
 
 ---
 
@@ -280,6 +286,28 @@ Although the Indian citizen is suspected of having a fever, he has no bird fever
 
 ---
 
+### Sri Lanka could face unrest as in Kenya if economic stability not established: President
+
+*2024-06-28 19:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-could-face-unrest-as-in-kenya-if-economic-stability-not-established-president-170170/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s president has pointed to Kenya’s current struggle with a severe economic crisis and incidents of violence, and said economic preparedness in all nations was a crucial need.
+
+“Recent riots in Kenya, where around 20 people have been shot dead, highlight the consequences of economic instability. If we do not establish economic stability in Sri Lanka, we could face similar unrest,” President Ranil Wickremesinghe said.
+
+Wickremesinghe was speaking at the Presidential Environment Awards ceremony at the Bandaranaike Memorial International Conference Hall (BMICH) in Colombo on Friday.
+
+He said Sri Lanka’s economic stability has effectively prevented comparable challenges within the country.
+
+“Sri Lanka has taken the first step toward debt restructuring, moving us out of bankruptcy.
+
+“Our next step is to implement the Economic Transformation Law to continue this progress.
+
+...
+
+[Data](articles/741221ad.json)
+
+---
+
 ### Fonseka will record historical victory in politics
 
 *2024-06-28 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187218) · `ta`
@@ -325,6 +353,28 @@ The confiscated drugs are to be handed over to the Police Narcotics Bureau for f
 [Data](articles/20128d7b.json)
 
 [Extended Data](ext_articles/20128d7b.ext.json)
+
+---
+
+### Sri Lanka implements Banking (Amendment) Act No. 24 of 2024
+
+*2024-06-28 19:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-implements-banking-amendment-act-no-24-of-2024-170160/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank announced that the Banking (Amendment) Act No. 24 of 2024, which aims to strengthen the legal and regulatory framework applicable for licensed commercial banks and licensed specialised banks, is in effect from June 15.
+
+“These amendments were formulated with a view to further strengthening the legal and regulatory framework applicable for licensed commercial banks and licensed specialised banks to enhance the resilience of the banking sector of Sri Lanka,” CBSL said in a statement.
+
+“The recent amendments were formulated considering the developments in the current regulatory framework, economic and market developments, the best practices and international standards adopted on
+
+prudential requirements to the context of the local banking sector.”
+
+Observations of relevant stakeholders including the banking sector, Panel of Auditors conducting
+
+audits of banks, other regulators and authorities were considered when drafting the amendments, CBSL said.
+
+...
+
+[Data](articles/eda9fe1b.json)
 
 ---
 
@@ -604,6 +654,46 @@ The event was attended by many including the General Secretary of the Sri Lanka 
 
 ---
 
+### Many Sri Lanka mercenaries have become Russian citizens: Foreign Minister
+
+*2024-06-28 17:22:00* · [`economynextcom`](https://economynext.com/many-sri-lanka-mercenaries-have-become-russian-citizens-foreign-minister-170089/) · `en`
+
+ECONOMYNEXT – Many Sri Lankan mercenaries fighting in the Ukraine front have become Russian citizens, making it difficult to give them diplomatic support, Foreign Minister Ali Sabry said.
+
+So far 446 complaints have been lodged by family members asking for government help to bring back menfolk trapped in the Ukraine warfront, he said.
+
+“They have taken Russian citizenship at the moment,” Sabry told reporters on Friday explaining the difficulties faced by Sri Lanka in getting back citizens.
+
+“If you take another country’s citizenship you lose Sri Lankan citizenship, so if you are no longer a citizen of Sri Lanka we lose the right to represent you, that is the problem, unless they apply for dual citizenship,” Minister Sabry said.
+
+While some appeared to have been misled that they would be camp helpers in support roles and pushed into combat, others may have known the actual stakes involved, he said.
+
+...
+
+[Data](articles/5138f922.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 306.00/20 to US dollar
+
+*2024-06-28 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-306-00-20-to-us-dollar-170105/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 306.00/20 to the US dollar on Friday, down from 305.70/90 to the US dollar on Thursday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 10.95/11.15 percent, down from 11.00/30 percent.
+
+A bond maturing on 15.02.2028 closed at 11.90/98 percent, down from 11.85/12.05 percent.
+
+A bond maturing on 15.09.2029 closed at 12.20/30 percent, up from 12.15/30 percent.
+
+A bond maturing on 01.06.2033 closed at 12.35/50 percent down from 12.35/95 percent.
+
+◼️
+
+[Data](articles/6a5cdc29.json)
+
+---
+
 ### 137 Indians arrested in Sri Lanka over massive online financial scam
 
 *2024-06-28 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100166/137-indians-arrested-in-sri-lanka-over-massive-online-financial-scam) · `en`
@@ -641,6 +731,30 @@ A suspect in the incident, an officer of the Medical Supplies Division (MSD), ha
 [Data](articles/b36714b9.json)
 
 [Extended Data](ext_articles/b36714b9.ext.json)
+
+---
+
+### Sri Lanka stocks close down, Sampath Bank pushes turnover
+
+*2024-06-28 16:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-sampath-bank-pushes-turnover-170093/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Friday, data on its site showed.
+
+The broader All Share Index closed down 0.37 percent, or 45.03 points, at 12,143; while the more liquid S&P SL20 Index closed down 0.36 percent, or 12.83 points, at 3,588.
+
+A large part of this came from a crossing on Sampath Bank Plc which contributed in total 1 billion to the day’s turnover. The share closed down at 78.30.
+
+“There were 4 crossings today, which contributed more than 50 percent of the turnover,” Softlogic Stockbrokers said.
+
+“The high net worth and institutions sectors are positive, even though the retail segment is continuing with their wait-and-see approach.”
+
+Clearing activity usually seen around the month end could also have been a factor for the indices to close down, market participants said.
+
+“These being the last trade days of the month and a lot of clearing and margin calls taking place could be a reason for market to close down.”
+
+...
+
+[Data](articles/d75865b5.json)
 
 ---
 
@@ -1207,6 +1321,24 @@ Sri Lanka’s Central Bank hiked rates in 2022 April to end money printed for tw
 [Data](articles/05569ceb.json)
 
 [Extended Data](ext_articles/05569ceb.ext.json)
+
+---
+
+### Sri Lanka economic stability under President reduced renewable power prices: Minister
+
+*2024-06-28 14:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-economic-stability-under-president-reduced-renewable-power-prices-minister-170029/) · `en`
+
+ECONOMYNEXT – Economic stability achieved by Sri Lanka under President Ranil Wickremesinghe and policy changes had reduced renewable purchase prices, Energy Minister Kanchana Wijesekera said after investors bid steeply lower rates in a competitive tender in June, compared to earlier negotiated rates.
+
+“The key factor is the economic & political stability that the President & the Government has brought in and the positive policy changes & legal frame work changes established in the sector..,” Minister Kanchana Wijesekera said in an x.com post.
+
+“One of the key but not so popular decision was the cost reflective pricing which enabled the CEB to pay back the RE Developers on time making it easier for developers to raise financing.”
+
+Sri Lanka’s Central Bank hiked rates in 2022 April to end money printed for two years to keep rates artificially low in a bid to boost growth and target potential output.
+
+...
+
+[Data](articles/b87115b6.json)
 
 ---
 
@@ -2183,143 +2315,5 @@ Further investigations are being carried out by the Kandawala Public Health Insp
 [Data](articles/3947373a.json)
 
 [Extended Data](ext_articles/3947373a.ext.json)
-
----
-
-### Two defendants were abroad
-
-*2024-06-28 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198244) · `si`
-
-The Attorney General informed the Supreme Court about two defendants involved in a 2019 case, accused of transporting heroin, who had left the country. The Solicitor General requested the court to consider the possibility of extraditing them from Indonesia. The Supreme Court ordered the defendants' lawyers to appear before it, scheduling the Court of Appeal Petition for August 6. This case began with the prosecution of 56 kilograms of heroin found off Trincomalee in 2019, leading to a lengthy trial that ended with the High Court's acquittal of the defendants, prompting the Attorney General's appeal to the Supreme Court.
-
-🟩
-
-The Attorney General also informed the Supreme Court yesterday that two of the three-kilometers of the five-kilometers of the Colombo Muniard, which was accused of transporting and executed in the North of 2019.
-
-Solicitor General Aeesha Jinasena appeared for the Attorney General yesterday after the Attorney General's Court was contested to be accused of accusing the Attorney General yesterday to congratulate the three-member High Courts.
-
-Accordingly, the panel of Mendenna ordered the director of the Bureau of the Mendeliscology of the next litigator.
-
-In addition, the bail to appear before the next day before the next day.
-
-The Court of Appeals presented at the Attorney General yesterday yesterday. The five-member Supreme Court judge called Shiran Gunaratne and Priyantha Fernando, Turarijah, Yasantha Kodagoda, Shiran Gunaratne and Priyantha Fernando.
-
-...
-
-[Data](articles/c3705f50.json)
-
-[Extended Data](ext_articles/c3705f50.ext.json)
-
----
-
-### Sri Lanka to revise high feed-in renewable tariffs after cheap competitive tenders
-
-*2024-06-28 09:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-revise-high-feed-in-renewable-tariffs-after-cheap-competitive-tenders-169970/) · `en`
-
-ECONOMYNEXT – Sri Lanka will lower high feed in tariffs offered to renewable developers after low prices that has come in from a 50 MW tender for power plant in Mannar, Minister Wijesekera said.
-
-“With the new competitive bids coming in, The Ministry of Power & Energy has already taken steps to revise the Feeding Tariff rates, Roof Top Solar Tariff rates,” Minister Wijesekera said a twitter.com message.
-
-Formulas for negotiating renewable projects and economic indicators will also be revised, he said.
-
-Two years ago the government raised roof top solar tariff from 22 rupees a unit to 37 rupees the feed-in tariff for ground mounted solar to 33 rupee a unit and wind to 30 to “encourage developers to continue in the sector,” he said.
-
-At the time Sri Lanka’s rupee was in tatters, there were forex shortages, global wind and solar equipment prices were also high and domestic interest rates were high.
-
-...
-
-[Data](articles/ebbe3db2.json)
-
-[Extended Data](ext_articles/ebbe3db2.ext.json)
-
----
-
-### New scratch to increase egg production
-
-*2024-06-28 09:55:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-உற்பத்தியை-அதிகரிக்க-புதிய-திட்ட்ம்/175-339569) · `ta`
-
-Agriculture Minister Mahinda Amaraweera announced the release of 160,000 poultry chicks to boost egg production, highlighting the country's ongoing struggle to meet its egg and milk needs domestically. Despite efforts, the price of an egg remains high, ranging from 50 to 55 rupees in stores.
-
-🟩
-
-Agriculture Minister Mahinda Amaraweera has said that 160,000 poultry chicks have been launched for entrepreneurs to increase egg production.
-
-He said that we are still unable to become self -sufficient in the total eggs and milk production required for this country.
-
-Meanwhile, one egg in stores is sold for up to 50 - 55 rupees. Remble
-
-◼️
-
-[Data](articles/95e944a2.json)
-
-[Extended Data](ext_articles/95e944a2.ext.json)
-
----
-
-### New Electricity Bill endorsed by the Speaker
-
-*2024-06-28 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100153/new-electricity-bill-endorsed-by-the-speaker) · `en`
-
-The new Sri Lanka Electricity Bill, which was passed in Parliament three weeks ago, has received endorsement from the Speaker of the Parliament yesterday (27).
-
-Accordingly, the new Act comes into effect from yesterday (27).
-
-This landmark legislation aims to implement comprehensive reforms in Sri Lanka’s electricity industry.
-
-Key provisions of the bill include the establishment of the National Electricity Advisory Council and designation of the Public Utilities Commission of Sri Lanka (PUCSL) as the industry regulator.
-
-The bill also mandates the creation of corporate entities under the Companies Act No. 07 of 2007 to manage the generation, transmission, distribution, trade, supply, and procurement of electricity.
-
-Additionally, it repeals the Ceylon Electricity Board Act No. 17 of 1969 and the Sri Lanka Electricity Act No. 20 of 2009, marking a significant shift in the legislative framework governing the sector.
-
-◼️
-
-[Data](articles/0ff8cd44.json)
-
-[Extended Data](ext_articles/0ff8cd44.ext.json)
-
----
-
-### Mahinda met the Deputy Minister of Foreign Affairs
-
-*2024-06-28 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/187141) · `ta`
-
-Mahinda Rajapakse, former Sri Lankan President, recently visited China and met with Deputy Foreign Minister Sun Waitong. This meeting highlighted the strong ties between China and Sri Lanka, with Sun recalling Rajapakse's historic 2014 visit to Sri Lanka and inviting him as an old friend of China.
-
-🟩
-
-Former President Mahinda Rajapakse, who has visited China, has met with the Deputy Minister of Foreign Affairs Sun Waitong.
-
-It is noteworthy that Deputy Foreign Minister Sun Waitong, who recalled the historic visit to Sri Lanka during Mahinda Rajapaksa's president in 2014, invited Mahinda Rajapakse to be the oldest friend of China.
-
-◼️
-
-[Data](articles/f54b23c5.json)
-
-[Extended Data](ext_articles/f54b23c5.ext.json)
-
----
-
-### Ceylon Chamber congratulates gov for bilateral creditor agreement
-
-*2024-06-28 09:35:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-congratulates-gov-for-bilateral-creditor-agreement-169951/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s private sector trade body has congratulated the government for securing an agreement with official bilateral creditors for restructuring its external debt.
-
-“The Ceylon Chamber of Commerce congratulates the Government in securing an agreement with the official bilateral creditors of external debt,” the Ceylon Chamber of Commerce said in a statement.
-
-“The completion of the negotiations will help Sri Lanka improve its credit ratings and ease the access to finance for the economy.”
-
-Ceylon Chamber Congratulates Government on Reaching Key Milestone in External Debt Restructuring
-
-The Ceylon Chamber of Commerce congratulates the Government in securing an agreement with the official bilateral creditors of external debt.
-
-We extend our appreciation to the Official Creditors Committee chaired by France, India and Japan, members of the committee, China and the EXIM Bank of China and the Paris Club Secretariat.
-
-...
-
-[Data](articles/cf80e60c.json)
-
-[Extended Data](ext_articles/cf80e60c.ext.json)
 
 ---

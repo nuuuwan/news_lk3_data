@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 15:19:45**
+As of **2024-06-28 15:34:53**
 
 ## Newspaper Stats
 
-*Scraped **32,637** Articles*
+*Scraped **32,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ islandlk | 1,813
 economynextcom | 1,901
 dailyftlk | 1,998
 adalk | 2,891
-adaderanalk | 3,713
+adaderanalk | 3,715
 tamilmirrorlk | 3,858
 dailymirrorlk | 4,733
 virakesarilk | 5,079
-adaderanasinhalalk | 5,371
+adaderanasinhalalk | 5,372
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,636 (100.0%) of 32,637 articles have been extended.
+32,637 (100.0%) of 32,640 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### බස් ගාස්තු පහළට
+
+*2024-06-28 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198258) · `si`
+
+ජූලි 1 වනදා සිට බස් ගාස්තු සියයට 5කින් පහළ දැමීමට තීරණය කර තිබේ.
+
+ඒ අනුව අවම බස් ගාස්තුව රුපියල් 2කින් පහළ යන අතර එහි නව ගාස්තුව රුපියල් 28කි.
+
+වාර්ෂික බස් ගාස්තු සංශෝධනයට අදාළව බස් සංගම් සහ අමාත්‍ය බන්දුල ගුණවර්ධන මහතා සමග පැවති සාකච්ඡාවකින් අනතුරුව එම තීරණය ගෙන තිබේ.
+
+◼️
+
+[Data](articles/59015f9b.json)
+
+---
+
+### Bus fares to be reduced by 5%
+
+*2024-06-28 15:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/100163/bus-fares-to-be-reduced-by-5) · `en`
+
+A decision has been taken to reduce bus fares by 5% with effect from July 01.
+
+Meanwhile, the minimum fare has been reduced by Rs. 2 to Rs. 28.
+
+◼️
+
+[Data](articles/bdef3f42.json)
+
+---
 
 ### Sanjaya to Mahawatta Prison
 
@@ -47,6 +77,22 @@ The Chairman of the Organization "to the country" has been remanded until July 0
 [Data](articles/81b92c9a.json)
 
 [Extended Data](ext_articles/81b92c9a.ext.json)
+
+---
+
+### Parliament to debate debt restructuring agreements next week
+
+*2024-06-28 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100162/parliament-to-debate-debt-restructuring-agreements-next-week) · `en`
+
+The debate on Sri Lanka’s debt restructuring agreements will be held in Parliament on July 02 and 03 while the vote will be taken in the evening of July 03, 2024.
+
+Meanwhile, the Speaker of Parliament Mahinda Yapa Abeywardena has requested all the Members of Parliament (MPs) to attend the Special Sitting of Parliament on Tuesday the 02 of July 2024 at 9.30 a.m., in pursuance of Standing Order No. 16 of the Standing Orders of the Parliament, having been requested to do so by the Prime Minister.
+
+On June 26, 2024, Sri Lanka concluded negotiations with the Official Creditor Committee (OCC) and China Exim Bank, marking pivotal strides towards stabilizing its financial footing amid recent economic challenges.
+
+...
+
+[Data](articles/079baa5a.json)
 
 ---
 
@@ -272,21 +318,29 @@ The NWSDB has requested people residing in the aforementioned areas to take the 
 
 ---
 
-### නීති විරෝධිව උපයාගත් වත්කම් රාජ සන්තක කරන පනත ලබන මස පාර්ර්ලිමේන්තුවට
+### Active Assets Act of Law Academic Act
 
 *2024-06-28 12:39:38* · [`adalk`](https://www.ada.lk/breaking_news/නීති-විරෝධිව-උපයාගත්-වත්කම්-රාජ-සන්තක-කරන-පනත-ලබන-මස-පාර්ර්ලිමේන්තුවට/11-410491) · `si`
 
-ඇතැම් රාජ්‍ය සේවකයින්  අල්ලස් කොමිස් ගනිමින් කටයුතු කළත් සමස්තයක් ලෙස රාජ්‍ය සේවකයින් ගෞරවණිය සේවයක් සිදු කරන බවත් දියුණු රටක් බවට පත්වීමට ශක්තිමත් නීති පද්ධතියක් අත්‍යවශ්‍ය බවත් අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහා පවසයි.
+The Minister of Justice emphasizes a robust legal system to combat bribery among public servants, presenting a bill to parliament aimed at recovering illicit assets. He highlights the importance of a strong legal framework for national development, citing educational reforms and the need to uphold the rule of law.
 
-එසේම නීති විරෝධිව උපයාගත් වත්කම් රාජ සන්තක කිරීමට අදාල පනත් කෙටුම්පත ලබන මාසයේ පාර්ලිමේන්තුවට ඉදිරිපත් කරන බවද අමාත්‍යවරයා පැවැසිය.
+🟩
 
-අධිකරණ අමාත්‍යවරයා මෙම අදහස් පළ කළේ සදහම් ගුරු උවසර ගාල්ල දිස්ත්‍රික්කයේ දහම් පාසැල් ගුරුවරයෙකු ලෙස ගුණ නැණින් පිරිපුන් දැයක් ගොඩ නගන්නට 25 වසරකට වඩා කැප වු සුදුසුකම්ලත් දහම් පාසැල් ගුරුවරුන් 361 දෙනෙකු සදහා මුළු දිවයිනටම බලපාන පරිදි සාම විනිසුරු තනතුරු පිරිනැමීම වෙනුවෙන් ගාල්ල Hall Galle De Hall ශාලාවේ පැවති උත්සවයටකට එක්වෙමිනි.
+The Minister of Justice Wijayadasa Rajapakse says that although some public servants are taking bribery commissions, there is a strong legal system to become a prosperous legal system.
 
-" අද රාජ්‍ය සේවය තුළින් හොද සේවයක් සිදු නොකරන බවට ඇතැම් අය විවේචනය කරනවා. එහෙත් එම අදහස නිවැරදි නැහැ. කිහිප දෙනෙක් රාජ්‍ය සේවකයින්  අල්ලස් කොමිස් ගනිමින් කටයුතු කළත් සමස්තයක් ලෙස රාජ්‍ය සේවකයින් ගෞරවණිය සේවයක් සිදු කරනවා.
+The Minister also presented the Bill in Parliament to be presented to Parliament for public responsibilities.
+
+Minister of Justice made these comments at a ceremony held as a Dhamma School Teachers in Galle District as a Dhamma School Teachers in Galle District as a Dhamma School Teachers in Galle DistrictTogether.
+
+"Some criticize that today's public service is not served. But that idea is not correct. Several public employees acted bribery commissions, but public servants will serve as a whole.
+
+A strong new bribery commission has been appointed to quit bribery and commission. Submit the Bill in Parliament to procure the assets of crime and illegal assets to be presented to Parliament next month. During the past few months, 75 bills have been amended to reform the legal system.
 
 ...
 
 [Data](articles/675b7cdc.json)
+
+[Extended Data](ext_articles/675b7cdc.ext.json)
 
 ---
 
@@ -2175,87 +2229,5 @@ Because of this the game has been stopped. Rohit Sharma has 37 runs and Suryakum
 [Data](articles/2b458588.json)
 
 [Extended Data](ext_articles/2b458588.ext.json)
-
----
-
-### Fuel Bowser that went into the house
-
-*2024-06-27 22:20:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/வீட்டுக்குள்-சென்ற-எரிபொருள்-பௌசர்/75-339544) · `ta`
-
-In a tragic accident on the Trincomalee-Kandi road, a fuel truck heading home after delivering fuel from Colombo crashed into a house, injuring its driver and assistant. The mishap was caused by fatigue. Further investigation is being conducted by the Thambalakamam police.
-
-🟩
-
-Two persons were injured in a vehicle accident on the 98th area of ​​the Trincomalee -Kandi main road in the Trincomalee - Thambalakamam police division this evening.
-
-A fuel purchasing vehicle traveling from Colombo to Trincomalee has broken the house and went home.
-
-Initial investigations revealed that the accident occurred due to sleep.
-
-The driver and assistant who paid the fuel container were injured. Thambalakamam police are conducting further inquiries into the incident. Remble
-
-◼️
-
-[Data](articles/c7c95018.json)
-
-[Extended Data](ext_articles/c7c95018.ext.json)
-
----
-
-### National Sports Competition Women's Football
-
-*2024-06-27 22:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/187123) · `ta`
-
-The 48th National Sports Competition's women's football saw top teams from North Central, North Western, and Sabaragamuwa provinces qualify for the semi-finals, starting in Jaffna. Nine provincial teams competed, with the Eastern Province being eliminated early. Notable matches included North Central Province defeating the Southern Province 3-1, Western Province winning against the Northern Province 5-1, Sabaragamuwa Province beating the Central Province 3-0, and North Western Province triumphing over the Uva Province 3-0. Last year's champions, North Western Province, aims to defend its title, with semi-finals scheduled for Saturday.
-
-🟩
-
-Top, North Central, North Western and Sabaragamuwa provincial teams have qualified to play in semi -finals at the 48th National Sports Competition, which began on Thursday (27) in Jaffna.
-
-The pioneer of this is Jaffna. The four teams were easily won in the quarter -finals held at the Duraiyappa Stadium today.
-
-Nine provincial teams participated in this year's competition. A competition was held as a rivalry and the Eastern Province was removed.
-
-The North Central Province won the match against the Southern Province 3–1.
-
-In the match against the Northern Province, the Western Province won by 5 - 1.
-
-Sabaragamuwa won the match against the Central Province 3 - 0.
-
-The North Western Province won the match against the Uva Province 3 - 0.
-
-In the 47th National Games last year, the North Western Province became a champion in the women's football and won the gold medal and the Western Province won the silver medal.
-
-The semi -finals will be held on Saturday and the finals for the bronze medal.
-
-...
-
-[Data](articles/6868e32f.json)
-
-[Extended Data](ext_articles/6868e32f.ext.json)
-
----
-
-### Special offer for Executive Service Officers
-
-*2024-06-27 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198233) · `si`
-
-Executive Service Officers in Sri Lanka will receive a special monthly allowance as per a decision confirmed by Mr. Mahesh Gammanpila, President of the Sri Lanka Administrative Service Association. This includes members of the Sri Lanka Architectural Service and the Sri Lanka Survey Service, with the provision set to take effect from July 1, 2011.
-
-🟩
-
-It has been reported that the Executive Service Officers Executive Service Officers have to pay a special monthly allowance of Rs.
-
-The President of the Sri Lanka Administrative Service Association, Mr. Mahesh Gammanpila confirmed this.
-
-The Sri Lanka Architectural Service of the Sri Lanka Architectural Service and the Sri Lanka Survey Service of the Sri Lanka Institute of Engineering Service and the Sri Lanka Survey Service are also present.
-
-The relevant circular provisions will be implemented from 01.07.2011.
-
-◼️
-
-[Data](articles/cb8ee588.json)
-
-[Extended Data](ext_articles/cb8ee588.ext.json)
 
 ---

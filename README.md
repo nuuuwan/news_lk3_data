@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 00:34:56**
+As of **2024-06-29 00:51:29**
 
 ## Newspaper Stats
 
-*Scraped **32,721** Articles*
+*Scraped **32,723** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,33 +14,91 @@ bbccomsinhala | 321
 newsfirstlk | 363
 islandlk | 1,813
 economynextcom | 1,920
-dailyftlk | 2,010
+dailyftlk | 2,011
 adalk | 2,895
 adaderanalk | 3,723
 tamilmirrorlk | 3,863
 dailymirrorlk | 4,733
-virakesarilk | 5,100
+virakesarilk | 5,101
 adaderanasinhalalk | 5,384
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,704 (99.9%) of 32,721 articles have been extended.
+32,707 (100.0%) of 32,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
 
-### டொலர் கொண்டுவரும் இலங்கை தேயிலை எதிர்கொள்ளும் சவால்கள் கடந்து வருவதற்கான தீர்வுகள் என்ன?
+### கடனைத் திருப்பிச் செலுத்துவதற்கான நிலைபேற்றுத் தன்மை காரணமாக, இலங்கைக்கு சுமார் 17 பில்லியன் அமெரிக்க டொலர்கள் நன்மை கிடைக்கும் - அலி சப்ரி
+
+*2024-06-29 00:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/187224) · `ta`
+
+இருதரப்பு கடன் வழங்குநர்களுடனான கடன் மறுசீரமைப்பு செயல்முறை வெற்றியடைவதன் மூலம் இலங்கைக்கு சுமார் 17 பில்லியன் அமெரிக்க டொலர்கள் நன்மை கிடைக்கும் என வெளிநாட்டலுவல்கள் அமைச்சர் ஜனாதிபதி சட்டத்தரணி அலி சப்ரி தெரிவித்தார்.
+
+அத்துடன், சர்வதேச பிணைமுறிகள் தொடர்பான பேச்சுவார்த்தைகளை வெற்றியடையச் செய்வதற்கு இந்நிலைமை உதவும் என்றும் அமைச்சர் மேலும் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் இன்று (28) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் அலி சப்ரி இதனைத் தெரிவித்தார்.
+
+“2022 ஏப்ரல் 12 ஆம் திகதி, குறிப்பிட்ட அளவு வெளிநாட்டுக் கடன்களை திருப்பிச் செலுத்துவதை தற்காலிகமாக நிறுத்த இலங்கை முடிவு செய்தது. அமெரிக்க டொலருக்கு நிகரான ரூபாவின் பெறுமதி 600, 700, 1000 ஆக உயரும் என்று, அன்று சிலர் குற்றம் சாட்டினர். ஆனால் நாம் அந்த நிலைமையைக் கட்டுப்படுத்தினோம்.
+
+...
+
+[Data](articles/731639d3.json)
+
+---
+
+### What are the solutions to the challenges facing the Sri Lankan tea that the dollar brings?
 
 *2024-06-29 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/187223) · `ta`
 
-1972 ஆம் ஆண்டு அப்போதைய  அரசாங்கம் சகல தோட்டங்களையும் அரசாங்கமயமாக்கியது.   1992 ஆம் ஆண்டுவரை அரசாங்கமே தேயிலை தோட்டங்களை எடுத்து நடத்தியது.  1992 ஆம் ஆண்டு அரசாங்கம் இந்த தோட்டங்களை தனியார் நிறுவனங்களுக்கு குத்தகைக்கு வழங்கியது.   கடந்த 32 வருடங்களாக தனியார் துறையினர் அதிக அளவில் தோட்டங்களை நடத்திக் கொண்டிருக்கின்றனர். கிட்டத்தட்ட 22 தனியார் கம்பெனிகள் தற்போது இலங்கையில் இந்த தேயிலை தோட்டங்களை குத்தகைக்கு எடுத்து நடத்துவதுடன் இவற்றில் சுமார் ஒரு இலட்சம் தொழிலாளர்கள் பணியாற்றுகின்றனர்.    அரசாங்கமும் இன்னும் சில நிறுவனங்களை நடத்திக் கொண்டிருக்கின்றது. மக்கள் பெருந்தோட்ட அபிவிருத்த சபை என்ற பெயரில் ஒரு அரசாங்க நிறுவனம் பெருந்தோட்டங்களை நடத்துகிறது. அதேபோன்று அரசின் சார்பில் எல்கடுவ பிளாண்டேஷன் என்ற நிறுவனமும் தோட்டங்களை நிர்வகிக்கின்றது.   இலங்கை பெருந்தோட்ட கூட்டுத் தாபனம் என்ற   பெயரிலும் அரசாங்கம் ஒரு பெருந்தோட்ட நிறுவனத்தை நடத்துகின்றது.  இந்த மூன்று அரச நிறுவனங்களின் கீழும்   8000 அளவில் தொழிலாளர்கள் பணிபுரிகின்றனர்.
+The challenges faced by Sri Lanka's tea industry are multifaceted, involving both internal and external factors. Here are the key challenges:
+
+
+
+1. **Declining Production**: Over the years, Sri Lanka's tea production has significantly decreased from 340 million kg to around 250 million kg annually. This decline is attributed to various factors, including lack of investment in high-yield crops, inefficient use of government-provided land, and a shift towards employing temporary rather than permanent workers.
+
+
+
+2. **Low Productivity**: The productivity of plantation companies is low, partly because of inadequate investment in modern farming techniques and technologies. Dr. Chandra Bose highlights that 30% of the land allocated for tea cultivation remains unused, indicating inefficiencies in land management and utilization.
+
+
+
+3. **Shift to Temporary Workers**: A significant portion of the workforce has transitioned from permanent to temporary employment, leading to early retirement and reduced commitment to the industry. This shift has negatively impacted the stability and efficiency of the workforce.
+
+
+
+4. **Economic Crisis**: The broader economic crisis in Sri Lanka has exacerbated the challenges faced by the tea industry. Rising costs of living and inflation have made it difficult for workers to afford even the current wages, let alone any increases. The increase in poverty levels, especially among plantation communities, underscores the urgency of addressing wage issues.
+
+
+
+5. **Market Competition and Global Trends**: The global demand for tea has seen a decline, affecting Sri Lanka's export earnings. Changes in consumer preferences and competition from other tea-producing countries have also played a role in reducing Sri Lanka's market share.
+
+
+
+6. **Government Focus and Legislation**: Criticisms have been raised regarding the Ministry of Plantation Industries' priorities, with allegations that it favors plantation owners over workers and fails to promote the growth and development of plantation companies effectively. The legacy of colonial-era laws and structures, such as the Labour Ordinance and the Plantation Human Development Fund, while intended to protect workers, have also been identified as areas needing reform to better address contemporary challenges.
+
+
+
+7. **Proposed Solutions and Challenges**: Suggestions for converting workers into small plantation owners aim to address wage issues and empower workers economically. However, implementing such changes requires significant restructuring of the industry, including land redistribution, provision of capital, and support services. This approach faces practical and logistical challenges, including resistance from existing plantation owners and the need for substantial government intervention and funding.
+
+
+
+Addressing these challenges requires comprehensive strategies that balance the interests of workers, plantation owners, and the broader economy. This includes investing in agricultural research and technology, improving working conditions and wages, reevaluating land use policies, and exploring innovative models of ownership and participation in the tea industry.
+
+🟩
+
+In 1972, the then government governmentization of all the gardens.Until 1992, the government held tea plantations.In 1992, the government leased these gardens to private companies.The private sector has been running the gardens for the past 32 years. About 22 private companies are currently leasing these tea plantations in Sri Lanka and about one lakh workers.The government is also running a few more companies. A government agency runs plantations in the name of People's Plantation Development Board. Similarly, the state of Elkaduwa Plantation on behalf of the state also manages gardens.The government runs a plantation company in the name of the Sri Lanka Plantation Joint Corporation.Under these three state agencies, there are 8000 workers.
+
+According to statistics of the United Nations Food and Agricultural Organization, the world's tea production has been increased for some years. Tea production has increased by 3.2 percent.By 2022, the world produced 6.7 million tonnes of tea.
 
 ...
 
 [Data](articles/8199c992.json)
+
+[Extended Data](ext_articles/8199c992.ext.json)
 
 ---
 
@@ -60,19 +118,27 @@ However, Minister Amaraweera acknowledged that the increase in fertiliser prices
 
 [Data](articles/3a896e94.json)
 
+[Extended Data](ext_articles/3a896e94.ext.json)
+
 ---
 
-### இந்தியா, சீனா, ஜப்பான் நாடுகளுடன் கடன் மறுசீரமைப்பு ஒப்பந்தங்கள் கைச்சாத்து; சர்வதேச  நிதியுதவிக்கான மிக எளிதான பிரவேசம்
+### Debt Reorganization Agreements with India, China and JapanThe most easy entry for international funding
 
 *2024-06-29 00:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/187222) · `ta`
 
-இந்தியா, ஜப்பான், பிரான்ஸ் உள்ளிட்ட  உத்தியோகபூர்வ   கடன் வழங்குநர் குழு மற்றும் சீனா ஆகியவற்றுடன்  இலங்கை இருதரப்பு கடன் மறுசீரமைப்பு தொடர்பில்  இணக்கப்பாட்டை எட்டியதையடுத்து புதன்கிழமை  இது தொடர்பான ஒப்பந்தங்கள் கைச்சாத்திட்டுள்ளன.  அதன்படி புதன்கிழமை மாலை  சீனாவுடனான கடன் மறுசீரமைப்பு ஒப்பந்தம் கொழும்பிலும் பீஜிங்கிலும் கைச்சாத்திடப்பட்டது. மேலும் ஜப்பான், பிரான்ஸ் மற்றும் இந்தியா ஆகிய நாடுகளுடன் பரிஸ் நகரில் ஒப்பந்தங்கள் கைச்சாத்திடப்பட்டன.  இந்தியாவுடன் மெய் நிகர் வழியே ஒப்பந்தம் கைச்சாத்திடப்பட்டது.
+Sri Lanka has secured debt reorganization agreements with China, India, Japan, and France, totaling $10 billion, marking a crucial step in its economic recovery. These agreements defer bilateral credit payments until 2028, providing significant relief. Additionally, Sri Lanka is negotiating with private creditors for debt restructuring, aiming to address its $14.7 billion debt issue. The agreements allow for loan extensions, reduced interest rates, and potential debt cancellations, offering a pathway towards stabilizing the economy and resuming stalled infrastructure projects.
 
-இந்த அடைவு மட்டமானது இலங்கையின் பொருளாதார மீட்சி செயற்பாடுகளில் மிக முக்கியத்துவமிக்க மைல்கல்லாக பார்க்கப்படுகின்றது.  அதாவது இந்த ஒப்பந்தங்கள் கைச்சாத்திடப்பட்டதன் ஊடாக 2018 ஆம் ஆண்டுவரை   இருதரப்பு கடன் செலுத்த வேண்டியதில்லை. அதற்கான நிவாரணம் கிடைக்கிறது.
+🟩
+
+The agreement on Wednesday has signed a consensus on Sri Lanka's bilateral credit restructuring with the official credit issuer and China, including India, Japan and France.Accordingly, on Wednesday evening, the Debt Reorganization Agreement with China was signed in Colombo and Beijing. Contracts were signed in Paris with Japan, France and India.The agreement was signed with India.
+
+This directory level is seen as the most important milestone in Sri Lanka's economic recovery process.This means that these agreements do not have to pay bilateral credit until 2018. There is a relief.
 
 ...
 
 [Data](articles/36bdac9a.json)
+
+[Extended Data](ext_articles/36bdac9a.ext.json)
 
 ---
 
@@ -253,6 +319,20 @@ In the past we’ve voted repeatedly for crooks, charlatans, the incompetent, th
 ...
 
 [Data](articles/70eb264c.json)
+
+---
+
+### Why system change?
+
+*2024-06-28 23:16:34* · [`dailyftlk`](https://www.ft.lk/columns/Why-system-change/4-763611) · `en`
+
+The time has come to handover the baton to the new generation and not be foolish to underestimate its talent and commitment to remake Sri Lanka into an economically sustainable democracy with rule of law
+
+They are not only underestimating the intelligence of the new generation of voters who could distinguish between the objectives, programs and methodology of JVP in the past and its new NPP avatar, but also are hiding the fact that the mayhem was caused more by the reactionary forces ruling the country at that time than JVP itself. Beyond this elementary truth the critics also do not want to concede that the mother of all crises in Sri Lanka is the socio-political system built on an ideology of Sinhala Buddhist chauvinism (SBC) born out of political Buddhism
+
+...
+
+[Data](articles/79ae9320.json)
 
 ---
 
@@ -2157,57 +2237,5 @@ In the Mahabharata war, Aswathama, who fought the Pandavas on behalf of the team
 [Data](articles/3dd5b438.json)
 
 [Extended Data](ext_articles/3dd5b438.ext.json)
-
----
-
-### Lizard in Mixer in Jaffna;15 thousand rupees
-
-*2024-06-28 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/187156) · `ta`
-
-A lizard found in a mixer purchased from a sweet shop near the Jaffna Selvil Temple led to a case where the seller was fined 15,000 rupees after investigations. This incident occurred during the Anipongal special pooja at the temple.
-
-🟩
-
-Investigations into the case of a lizard in a mixer sold in the environment of the Jaffna Selvil Temple have been sentenced to 15 thousand rupees.
-
-The Anipongal special pooja was held last Monday night at the temple.
-
-In this case, a lizard was found when a person who visited the temple, bought a mixer at a sweet shop in the temple environment.
-
-Following the announcement to the Public Health Inspector in the area, the Point Pedro Magistrate's Court has filed a case against the sweets of the Public Health Inspector who has received the mixer with a lizard.
-
-The case was taken up for hearing on Thursday (27) yesterday, and he was sentenced to 15 thousand rupees to warn the man who sold the mixer.
-
-◼️
-
-[Data](articles/7134bd52.json)
-
-[Extended Data](ext_articles/7134bd52.ext.json)
-
----
-
-### Lizard
-
-*2024-06-28 11:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பல்லியை-பொரித்து-விற்றவருக்கு-தண்டனை/71-339573) · `ta`
-
-A person selling a mixer containing a lizard in the Jaffna-Selvasanadhi temple area faced legal action after a public health inspector reported it. The incident occurred during the Anipongal special pooja. Following the report, the Point Pedro Magistrate's Court fined the seller 15,000 rupees.
-
-🟩
-
-In the context of the Jaffna -Selvasanadhi temple environment, a person who sold the mixer has been fined Rs.
-
-The Anipongal special pooja was held last Monday night at the temple.
-
-A lizard was found when a person who visited the temple, when he bought the mixer at a sweet shop in the temple environment.
-
-Following the announcement to the Public Health Inspector in the area, the Point Pedro Magistrate's Court has filed a case against the sweets of the Public Health Inspector who has received the mixer with a lizard.
-
-The case was taken up for hearing on Thursday yesterday, and he was sentenced to 15,000 rupees to warn the person who sold the mixer.. Remble
-
-◼️
-
-[Data](articles/b9487f7e.json)
-
-[Extended Data](ext_articles/b9487f7e.ext.json)
 
 ---

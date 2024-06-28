@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 14:35:32**
+As of **2024-06-28 14:53:42**
 
 ## Newspaper Stats
 
-*Scraped **32,634** Articles*
+*Scraped **32,635** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,57 @@ adaderanalk | 3,713
 tamilmirrorlk | 3,858
 dailymirrorlk | 4,733
 virakesarilk | 5,079
-adaderanasinhalalk | 5,369
+adaderanasinhalalk | 5,370
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,631 (100.0%) of 32,634 articles have been extended.
+32,634 (100.0%) of 32,635 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### දුම්රිය පීලි පැනීමක්
+### ණය ප්‍රතිව්‍යුහගතකරණ එකඟතා ගැන විවාදය අඟහරුවාදා
+
+*2024-06-28 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198256) · `si`
+
+ණය ප්‍රතිව්‍යුහගතකරණ එකඟතා පිළිබඳ විවාදය ජූලි 2 සහ 3 යන දිනවලදී පාර්ලිමේන්තුවේ දී පැවැත්වීමට නියමිතය.
+
+මේ අතර ජූලි මස 02වන අඟහරුවාදා පෙ.ව 9.30ට පාර්ලිමේන්තුවේ විශේෂ රැස්වීමක් කැඳවා තිබේ.
+
+අග්‍රාමාත්‍යවරයාගේ ඉල්ලීම පරිදි පාර්ලිමේන්තුවේ ස්ථාවර නියෝගවල 16 ස්ථාවර නියෝගය ප්‍රකාරව මෙම කැඳවීම සිදුකර ඇත.
+
+එබැවින් ඊට පැමිණ සහභාගී වන ලෙස සියලුම පාර්ලිමේන්තු මන්ත්‍රීවරයන්ගෙන් ඉල්ලා සිටින බව කථානායක මහින්ද යාපා අබේවර්ධන මහතා නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/97f9bdf5.json)
+
+---
+
+### Train derailment
 
 *2024-06-28 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198254) · `si`
 
-දුම්රිය පීලි පැනීමක් හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ලවී තිබේ.
+A train derailment occurred on the Upcountry railway line, disrupting service between Colombo Fort and Badulla near the Sunday railway station. The incident happened around 11 AM on the 28th, damaging several wheels of the front engine. Repair work has begun.
 
-නාවලපිටිය දුම්රිය පාලක මැදිරිය සඳහන් කළේ කොළඹ කොටුව සිට බදුල්ල දක්වා ධාවනය වු පොඩි මැණිකේ දුම්රිය වටවල දුම්රිය ස්ථානය ආසන්නයේ දී පීලි පැනිමට ලක්වී ඇති බවය.
+🟩
 
-මෙම අනතුර සිදුවී ඇත්තේ අද (28) උදැසන 11 ට පමණ වන අතර දුම්රියේ ඉදිරිපස එන්ජිමේ රෝද කිහිපයක් පීලි පැන ඇති බව පාලක මැදිරිය වැඩිදුරටත් සඳහන් කළේය.
+The train derailment has been interrupted due to the uproventing train on the Upcountry railway line.
 
-පොඩි මැණිකේ දුම්රිය පීලිගත කිරිමේ කටයුතු මේ වනවිට ආරම්භ කර ඇත.
+The Nawalapitiya Railway Control Room stated that the demanded was near the Sunday railway station from Colombo Fort to Badulla.
+
+The accident had taken place around 11 (28th) and several wheels of the train had a few wheels in the front engine.
+
+Work on the train in primary genera is launched.
 
 ◼️
 
 [Data](articles/6edd134e.json)
+
+[Extended Data](ext_articles/6edd134e.ext.json)
 
 ---
 
@@ -132,39 +156,51 @@ The water cut will be made due to an essential modernization of the Ambatale Wat
 
 ---
 
-### முன்னாள் பிரதமர்கள் உட்பட 27  அவுஸ்திரேலியர்களிற்கு எதிராக தடை - ரஸ்யா அறிவிப்பு
+### Ban against 27 Australians, including former prime ministers - Russia announces
 
 *2024-06-28 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187170) · `ta`
 
-அவுஸ்திரேலியாவின் இரு முன்னாள் பிரதமர்கள் உட்பட 27 பேருக்கு எதிராக ரஸ்யா தடைகளை அறிவித்துள்ளது.
+Russia has imposed sanctions on 27 Australians, including two former prime ministers, for allegedly supporting anti-Russian actions. This move comes after Australia sanctioned Russian officials and major corporations. The Russian Foreign Ministry warns of further sanctions unless Australia halts its anti-Russian stance.
 
-ரஸ்ய எதிர்ப்பு நிகழ்ச்சிநிரலை முன்னெடுப்பதற்காக அவுஸ்திரேலியாவின் முன்னாள் பிரதமர்கள் டொனி அபொட் ஜோன் ஹவார்ட் உட்பட 27 பேருக்கு எதிராக தடைகளை ரஸ்யா அறிவித்துள்ளது.
+🟩
 
-அரசியல்வாதிகள் பெரும்நிறுவனங்களின் நிறைவேற்று அதிகாரிகள் கல்விமான்கள் பத்திரிகையாளர்களிற்கு எதிராக அவுஸ்திரேலியா தடைகளை அறிவித்துள்ளது.
+Russia has announced sanctions against 27 people, including two former prime ministers in Australia.
 
-அவுஸ்திரேலிய அரசாங்கம் ரஸ்ய எதிர்ப்பு நிகழ்ச்சிநிரலை கைவிடாவிட்டால் தடை பட்டியலில் மேலும் பலரை சேர்க்கவுள்ளதாக ரஸ்ய வெளிவிவகார அமைச்சு எச்சரித்துள்ளது.
+Russia has announced sanctions against 27 people, including former Prime Minister Tony Abod John Hawart, Australia's former prime ministers to carry out the anti -Russian agenda.
 
-ரஸ்யநிறுவனங்கள் ரஸ்ய பிரஜைகளிற்கு எதிரான அரசியல்நோக்கம் கொண்ட தடைகளிற்கு பதிலாக 27 அவுஸ்திரேலியர்கள் ரஸ்யாவிற்குள் நுழைவதற்கு தடைவிதித்துள்ளதாக ரஸ்ய வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+Australia has announced sanctions against the executive officials of politicians and major corporations.
 
-ரஸ்யாவின் முடக்கப்பட்ட சொத்துக்களை உக்ரைனிற்கு வழங்ககோரி அவுஸ்திரேலிய அரசாங்கத்திற்கு கடிதம் எழுதிய 23 பேர் இந்த தடைப்பட்டியலில் இடம்பெற்றுள்ளனர்.
+The Russian Foreign Ministry has warned that if the Australian government does not abandon the anti -Russian agenda, many more people will be added to the ban.
 
-ரஸ்யாவின் நலன்களிற்கு எதிராக தீர்ப்புகளை வழங்கிய இரண்டு நீதிபதிகளும் இந்த பட்டியலில் இடம்பெற்றுள்ளனர்.
+The Russian Foreign Ministry has said that 27 Australians have banned the entry of Russia instead of politically obstructions against Russian citizens.
+
+The ban is featured 23 people who wrote to the Australian government to provide Russia's disabled assets to Ukraine.
+
+The list includes two judges who have issued rulings against Russia's interests.
 
 ◼️
 
 [Data](articles/a05fd189.json)
 
+[Extended Data](ext_articles/a05fd189.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-06-28 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/187168) · `ta`
 
-இன்று வெள்ளிக்கிழமை (ஜூன் 28) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 301.0183 ஆகவும்,  விற்பனை விலை ரூபா 310.3533 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+I'm unable to provide real-time data or updates such as today's currency exchange rates directly. However, I can help summarize or explain concepts related to currency exchange rates if you have specific questions about them
+
+🟩
+
+The US dollar purchasing price was Rs.
 
 ◼️
 
 [Data](articles/ca1e87e0.json)
+
+[Extended Data](ext_articles/ca1e87e0.ext.json)
 
 ---
 
@@ -2243,23 +2279,5 @@ Dilhani Lakekam, who is near the Olympic gate with Tarushi, was selected as the 
 [Data](articles/66b86fa9.json)
 
 [Extended Data](ext_articles/66b86fa9.ext.json)
-
----
-
-### Govt schools to function as normal tomorrow
-
-*2024-06-27 21:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100149/govt-schools-to-function-as-normal-tomorrow) · `en`
-
-The Ministry of Education has announced that all government schools will function as per usual tomorrow (28).
-
-The teacher-principal trade unions engaged in an island-wide trade union action by reporting sick for the second consecutive day today (27) based on several demands.
-
-However, the General Secretary of the Ceylon Teachers’ Union (CTU) Joseph Stalin, stated they decided to resume normal duties from tomorrow (28).
-
-◼️
-
-[Data](articles/d2081e2a.json)
-
-[Extended Data](ext_articles/d2081e2a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 16:52:04**
+As of **2024-06-28 17:04:44**
 
 ## Newspaper Stats
 
-*Scraped **32,663** Articles*
+*Scraped **32,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,84 @@ adalk | 2,891
 adaderanalk | 3,716
 tamilmirrorlk | 3,860
 dailymirrorlk | 4,733
-virakesarilk | 5,085
-adaderanasinhalalk | 5,374
+virakesarilk | 5,087
+adaderanasinhalalk | 5,376
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,657 (100.0%) of 32,663 articles have been extended.
+32,663 (100.0%) of 32,667 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### කෙහෙළිය තවදුරටත් රිමාන්ඩ්
+
+*2024-06-28 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198262) · `si`
+
+හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් 07 දෙනෙකු ජුලි මස 12 වනදා දක්වා රක්ෂිත බන්ධනගාරගතකර තිබේ.
+
+සැකකරුවන් මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී ඇත.
+
+එම සිද්ධියේ සැකකාරියක් වන වෛද්‍ය සැපයුම් අංශයේ නිලධාරිනියක්ව ඇප  මත මුදාහැර තිබේ.
+
+◼️
+
+[Data](articles/bb80ee00.json)
+
+---
+
+### අස්වැසුම ප්‍රතිලාභීන්ට විශේෂ දීමනාවක්
+
+*2024-06-28 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198261) · `si`
+
+අස්වැසුම සුබසාධක ප්‍රතිලාභ ගෙවීමේ වැඩසටහන යටතේ 2024 ජුනි මාසය සඳහා සංක්‍රාන්තික හා අවදානමට ලක්වූ කාණ්ඩවලට අයත් ප්‍රතිලාභීන්ට විශේෂ දීමනා ගෙවීම සඳහා රුපියල් බිලියන 11.6ක මුදලක් සුබසාධක ප්‍රතිලාභ මණ්ඩලය විසින් නිකුත් කර තිබේ.
+
+සමස්ත ප්‍රතිලාභීන් 622,495 දෙනෙකුගේ බැංකු ගිණුම් වෙත ඊයේ (27) දිනයේ එම මුදල් මුදාහැරි බව සඳහන් වේ.
+
+මෙම වැඩසටහනේ පළමු අදියර ලෙස අවධානමට ලක්වූ කාණ්ඩයේ සුදුසුකම් ලැබූ ප්‍රතිලාභීන්ට රුපියල් 5,000 බැගින් 2023 ජූලි මස සිට 2024. 03. 31 දක්වාත්, සංක්‍රාන්ති කාණ්ඩය යටතේ සුදුසුකම් ලාභීන්ට රුපියල් 2,500 බැගින් 2023 ජූලි මස 2023. 12. 31 දක්වාත් ගෙවීමට කටයුතු කර තිබුණි.
+
+ඒ අනුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සුබසාධක ප්‍රතිලාභ මණ්ඩලයට උපදෙස් දී ඇත්තේ වත්මන් ආර්ථික තත්ත්වය සැලකිල්ලට ගෙන අස්වැසුම සුබසාධක ප්‍රතිලාභ ගෙවීමේ වැඩසටහන යටතේ සංක්‍රාන්තික කාණ්ඩයේ සහ අවධානමට ලක්වූ කාණ්ඩයේ ප්‍රතිලාභීන්ට විශේෂ දීමනා ගෙවීමේ කාලය මේ වසරේ දෙසැම්බර් මස දක්වා දීර්ඝ කරන ලෙසටය.
+
+...
+
+[Data](articles/89c5b43e.json)
+
+---
+
+### இலங்கையில் பறவைக்காய்ச்சல் தொற்று ?
+
+*2024-06-28 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/187196) · `ta`
+
+பறவைக்காய்ச்சலால் பாதிக்கப்பட்டுள்ளதாக சந்தேகிக்கப்படும் நோயாளி ஒருவர் அடையாளம் காணப்பட்டுள்ளதாக தொற்று  நோய் வைத்தியசாலை வட்டாரங்கள் தெரிவித்துள்ளன.
+
+பறவைக் காய்ச்சல், ஏவியன் இன்ப்ளூயன்ஸா என்றும் அழைக்கப்படுகிறது. இது மனிதர்களைப் பாதிக்கக்கூடிய ஒரு வகை இன்ப்ளூயன்ஸா வைரஸால் ஏற்படுகிறது.  அவற்றில் ஒரு விகாரங்கம் H5N1ஆகும்.
+
+◼️
+
+[Data](articles/f544d8f8.json)
+
+---
+
+### தேர்தல் உரையா? உண்மையான நிவாரணமா? - சந்தேகங்களை எழுப்புகின்றது ரணில் விக்கிரமசிங்கவின் நாட்டு மக்களிற்கான உரை
+
+*2024-06-28 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/187194) · `ta`
+
+இருதரப்பு கடன்வழங்குநர்களுடன் மிகவும் எதிர்பார்க்கப்பட்ட கடன்மறுசீரமைப்பு உடன்படிக்கை குறித்து இலங்கை ஜனாதிபதி ரணில்விக்கிரமசிங்க அறிவித்துள்ளார். எனினும் இது இன்னமும் மோசமான நிலையிலிருக்கும் நாட்டின் உண்மையான பொருளாதார நிலையை துல்லியமாக தெரிவிப்பதற்கு பதில் எதிர்வரும் தேர்தலிற்கு முன்னர் தனது ஆதரவை அதிகரிக்க செய்வதற்கான அவரது முயற்சியாக இது காணப்படுகின்றது என பல ஆய்வாளர்கள் தெரிவித்துள்ளனர்.
+
+ஜப்பான் மற்றும் இந்தியா உட்பட இலங்கையின் முக்கிய இரு தரப்பு கடன்வழங்குநர்களுடன் ஏற்பட்டுள்ள இணக்கப்பாடு குறித்து புதன்கிழமை  ஜனாதிபதி நாட்டு மக்களிற்கு அறிவித்தார்.உத்தியோகபூர்வ கடன் கொடுநர்களுடன் ஏற்பட்ட இணக்கப்பாடு குறித்தே அவர் அறிவித்தார்.
+
+இலங்கையின் நுண்பொருளாதார ஸ்திரதன்மையை மீட்டெடுப்பதற்கான சர்வதேச நாணயநிதியத்தின் திட்டத்தின் அடிப்படையாக இந்த கடன்மறுசீரமைப்பு நடவடிக்கைகள் காணப்படுகின்றன.
+
+ஜூலை மாதம் இரண்டாம் திகதி நாடாளுமன்றத்தின் விசேட அமர்வில் இந்த உடன்படிக்கைகள் சமர்ப்பிக்கப்பட்டு  ஏற்றுக்கொள்ளப்படும்.
+
+...
+
+[Data](articles/303e0e41.json)
+
+---
 
 ### Train derailment;Mountain Rail Services Victim
 
@@ -1150,6 +1216,8 @@ The Embassy partnered with the Sri Lanka Department of Import and Export Control
 
 [Data](articles/5ba895b7.json)
 
+[Extended Data](ext_articles/5ba895b7.ext.json)
+
 ---
 
 ### Bideman and Trump delivered the cloth
@@ -1394,6 +1462,8 @@ A bond maturing on 15.09.2029 was quoted at 12.15/25 percent, down from 12.15/30
 
 [Data](articles/08127ead.json)
 
+[Extended Data](ext_articles/08127ead.ext.json)
+
 ---
 
 ### Little daughter killed a dog
@@ -1467,6 +1537,8 @@ At the time Sri Lanka’s rupee was in tatters, there were forex shortages, glob
 ...
 
 [Data](articles/ebbe3db2.json)
+
+[Extended Data](ext_articles/ebbe3db2.ext.json)
 
 ---
 
@@ -1556,6 +1628,8 @@ We extend our appreciation to the Official Creditors Committee chaired by France
 
 [Data](articles/cf80e60c.json)
 
+[Extended Data](ext_articles/cf80e60c.ext.json)
+
 ---
 
 ### Sanjaya Mahawatta arrested
@@ -1597,6 +1671,8 @@ The Mannar wind plant at 4.88 cents is about 14.90 rupees at an exchange rate of
 ...
 
 [Data](articles/52dff62e.json)
+
+[Extended Data](ext_articles/52dff62e.ext.json)
 
 ---
 
@@ -1663,6 +1739,8 @@ The re-elected Board comprises Chairman Duminda Hulangamuwa – Country Managing
 ...
 
 [Data](articles/9f44dff6.json)
+
+[Extended Data](ext_articles/9f44dff6.ext.json)
 
 ---
 
@@ -2151,71 +2229,5 @@ By April 2022 the central bank had borrowed and busted forex to end up with nega
 [Data](articles/46323a70.json)
 
 [Extended Data](ext_articles/46323a70.ext.json)
-
----
-
-### SLT-MOBITEL clinches six prestigious awards at National Project Management Excellence Awards 2024
-
-*2024-06-28 03:36:00* · [`islandlk`](http://island.lk/slt-mobitel-clinches-six-prestigious-awards-at-national-project-management-excellence-awards-2024/) · `en`
-
-At the recent National Project Management Excellence Awards 2024 held at Hotel Galadari in Colombo, SLT-MOBITEL, the National ICT Solutions Provider, secured six prestigious awards. These accolades underscore SLT-MOBITEL’s dedication to pioneering innovative solutions, driving digital transformation, and enriching the lives of Sri Lankans through their exceptional achievements.
-
-The awards showcased the dedication of the respective SLT-MOBITEL teams in delivering the highest standards in project management and ability to deliver solutions that make a difference across diverse sectors. The company’s revolutionary Research and Development initiative, the ‘Embryo’ Team clinched three Gold awards for their groundbreaking projects and project management skills in various sectors.
-
-...
-
-[Data](articles/c56018f3.json)
-
-[Extended Data](ext_articles/c56018f3.ext.json)
-
----
-
-### Virtusa’s Vice President lauds SL’s ‘transformative developments’
-
-*2024-06-28 03:35:00* · [`islandlk`](http://island.lk/virtusas-vice-president-lauds-sls-transformative-developments/) · `en`
-
-Roch Ferreira, Vice President and Global Head of Corporate Marketing at Virtusa, emphasized current transformative developments in Sri Lanka during a recent roundtable aimed at enhancing media relationships and presence in the country.
-
-Speaking at roundtable at the Kingsbury, he added: “Receiving the Great Place to Work certification for the second year in a row is a testament to our efforts in creating a nurturing and inclusive workplace. We are proud to offer local talent the chance to work on global projects, providing invaluable experience and career growth.”
-
-Ferreira emphasized the integral role Sri Lanka plays as a talent destination for Virtusa and the company’s interest in engaging local media to disseminate the employer brand messaging in the local market.
-
-Ferreira also briefed journalists on the recent launch of ‘Virtusa Helio’, the company’s Gen-AI offering, the launch of the Virtusa consulting practice and continued commitment to ESG and engineering with purpose.
-
-...
-
-[Data](articles/7f0f5ab3.json)
-
-[Extended Data](ext_articles/7f0f5ab3.ext.json)
-
----
-
-### Sunshine Holdings wins Gold for ‘Best Investor Relations’ at CFA Capital Market Awards 2024
-
-*2024-06-28 03:35:00* · [`islandlk`](http://island.lk/sunshine-holdings-wins-gold-for-best-investor-relations-at-cfa-capital-market-awards-2024/) · `en`
-
-Diversified conglomerate Sunshine Holdings PLC (CSE: SUN) won Gold at the CFA Society Sri Lanka Capital Market Awards. Held at the Cinnamon Grand Colombo recently, the prestigious Gold award was conferred for ‘Best Investor Relations’ (Mid to Large Cap Companies), recognising Sunshine Holdings’ resilience and commitment to seizing opportunities and maintaining exceptional investor relations. This is the fourth time Sunshine Holdings has won the Gold award in the 12-year history of Capital Market Awards.
-
-...
-
-[Data](articles/9b0ffd3d.json)
-
-[Extended Data](ext_articles/9b0ffd3d.ext.json)
-
----
-
-### Share market gripped by selling pressure following President’s address
-
-*2024-06-28 03:29:00* · [`islandlk`](http://island.lk/share-market-gripped-by-selling-pressure-following-presidents-address/) · `en`
-
-The stock market experienced much selling pressure yesterday as investors anticipated some political uncertainty after President Ranil Wickremesinghe addressed the nation on Wednesday and made a comment on the positive economic situation of the country, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went down by 74 points while S and P SL20 declined by 32.8 points. Turnover stood at Rs 1 billion with three crossings. Those crossings were reported in Sampath Bank, which crossed 486,000 shares to the tune of Rs 37.9 million; its shares traded at Rs 78, Windforce 1.9 million shares crossed for Rs 37.8 million; its shares traded at Rs 19.50 and HNB (Non- Voting) 125,000 shares crossed for Rs 20 million; its shares traded at Rs 150.
-
-...
-
-[Data](articles/ac4f0402.json)
-
-[Extended Data](ext_articles/ac4f0402.ext.json)
 
 ---

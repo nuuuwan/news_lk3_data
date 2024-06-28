@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 13:35:22**
+As of **2024-06-28 13:54:27**
 
 ## Newspaper Stats
 
-*Scraped **32,627** Articles*
+*Scraped **32,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ islandlk | 1,813
 economynextcom | 1,901
 dailyftlk | 1,998
 adalk | 2,890
-adaderanalk | 3,712
+adaderanalk | 3,713
 tamilmirrorlk | 3,858
 dailymirrorlk | 4,733
 virakesarilk | 5,077
-adaderanasinhalalk | 5,365
+adaderanasinhalalk | 5,367
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,627 (100.0%) of 32,627 articles have been extended.
+32,627 (100.0%) of 32,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### අදත් ලෝටස් පාර වසා දැමේ
+
+*2024-06-28 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198252) · `si`
+
+ඒ ලංකා බැංකු සේවක සංගමය සංවිධානය කර තිබෙන විරෝධතා පාගමනක් හේතුවෙන් එම මාර්ගය අවහිරවීම හේතුවෙනි.
+
+◼️
+
+[Data](articles/3f40f2cd.json)
+
+---
+
+### Lotus Road in Colombo closed due to protest
+
+*2024-06-28 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100159/lotus-road-in-colombo-closed-due-to-protest) · `en`
+
+Lotus Road in Colombo has been closed for traffic due to a protest march by the Ceylon Bank Employees’ Union (CBEU).
+
+◼️
+
+[Data](articles/4ba26700.json)
+
+---
+
+### ප්‍රදේශ රැසකට හෙට ජල සැපයුම අත්හිටුවයි
+
+*2024-06-28 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198251) · `si`
+
+කොළඹ ඇතුළු ප්‍රදේශ කිහිපයකට හෙට (29) දිනයේ ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
+
+ඒ අනුව හෙට පෙරවරු 9 සිට මධ්‍යම රාත්‍රී 12 දක්වා පැය 15ක කාලයක් ජලසැපයුම අත්හිටුවනු ඇත.
+
+කොළඹ, දෙහිවල, ගල්කිස්ස, කෝට්ටේ, කඩුවෙල යන මහනගර සභා බලප්‍රදේශ, මහරගම, බොරලැස්ගමුව,කොළොන්නාව යන නගර සභා බල ප්‍රදේශ සහ කොටිකාවත්ත, මුල්ලේරියාව යන ප්‍රාදේශීය සභා බල ප්‍රදේශවලට ජලසැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය වැඩිදුරටත් සඳහන් කරයි.
+
+ඊට අමතරව මොරටුව මහනගර සභා බල ප්‍රදේශයේ අඩුපීඩන තත්ත්වය යටතේ ජලය සැපයෙන බවද ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
+
+අඹතලේ ජල පවිත්‍රාගාරයේ අත්‍යවශ්‍ය නවීකරණ කටයුත්තක් සහ ජල පිරිපහදු පද්ධතියේ නඩත්තු කටයුත්තක් හේතුවෙන් මෙම ජල කප්පාදුව සිදුකිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/4c4b38b4.json)
+
+---
 
 ### Those arrested in Muttur released on bail
 
@@ -2207,67 +2251,5 @@ England won the advantage of the coin, and they decided to bowl first.
 [Data](articles/fa1b5c66.json)
 
 [Extended Data](ext_articles/fa1b5c66.ext.json)
-
----
-
-### India pledges continuous backing for Sri Lanka’s economic recovery
-
-*2024-06-27 20:34:00* · [`economynextcom`](https://economynext.com/india-pledges-continuous-backing-for-sri-lankas-economic-recovery-169924/) · `en`
-
-ECONOMYNEXT – India has pledged continuous support for Sri Lanka’s economic recovery after the island nation reached formal debt restructuring deal with its bilateral creditors.
-
-Sri Lanka also reached the same deal with Export and Import Bank of China separately after Beijing had negotiations with Colombo government outside the Official Creditors Committee (OCC).
-
-“India will continue to support Sri Lanka’s economic recovery including by promoting long-term investments in its key economic sectors,” India’s External Affairs Ministry said in a statement.
-
-India said the milestone signing the deal after several rounds of engagements, “demonstrates the strong progress made by Sri Lanka in stabilizing its economy and moving towards reform and growth”.
-
-India was the first country to assist Sri Lanka with a $1 billion credit line after the island nation declared bankruptcy in April 2022.
-
-...
-
-[Data](articles/19eef232.json)
-
-[Extended Data](ext_articles/19eef232.ext.json)
-
----
-
-### Coming schools tomorrow - Teacher Societies
-
-*2024-06-27 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198229) · `si`
-
-The Ministry of Education announced that government schools will reopen tomorrow (28), despite teacher-principal career procedures continuing across the island. However, Joseph Stalin, General Secretary of the Ceylon Teachers Union, stated that schooling will proceed as usual today.
-
-🟩
-
-The Ministry of Education has announced that all government schools will be held tomorrow (28).
-
-Meanwhile, teachers principals in all schools in the island were engaged in career procedures for the second day.
-
-However, the General Secretary of the Ceylon Teachers Union Joseph Stalin declared that today's normal school education.
-
-◼️
-
-[Data](articles/edfe2190.json)
-
-[Extended Data](ext_articles/edfe2190.ext.json)
-
----
-
-### President says schools tomorrow
-
-*2024-06-27 20:22:48* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-පාසල්-පැවැත්වෙන-බව-අධ්‍යාපන-අමාත්‍යාංශය-කියයි/11-410486) · `si`
-
-The Ministry of Education has declared that all government schools will open tomorrow, specifically on April 20th, 2024.
-
-🟩
-
-The Ministry of Education has announced that all government schools will be held tomorrow, tomorrow, 2024-20 days.
-
-◼️
-
-[Data](articles/ada686fa.json)
-
-[Extended Data](ext_articles/ada686fa.ext.json)
 
 ---

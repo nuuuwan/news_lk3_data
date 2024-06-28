@@ -1,0 +1,21 @@
+{
+  "translated_text": {
+    "si": {
+      "title": "\u0db6\u0dc3\u0dca \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0d85\u0da9\u0dd4 \u0dc0\u0dd9\u0db8\u0dd2\u0db1\u0dca \u0db4\u0dc0\u0dad\u0dd3",
+      "body_lines": [
+        "\u0db6\u0dc3\u0dca \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0da2\u0dd6\u0dbd\u0dd2 1 \u0dc3\u0dd2\u0da7 \u0dc3\u0dd2\u0dba\u0dba\u0da7 5 \u0d9a\u0dd2\u0db1\u0dca \u0d85\u0da9\u0dd4 \u0d9a\u0dbb \u0d87\u0dad.",
+        "\u0d92 \u0d85\u0db1\u0dd4\u0dc0 \u0d85\u0dc0\u0db8 \u0db6\u0dc3\u0dca \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 2 \u0d9a\u0dd2\u0db1\u0dca \u0d85\u0da9\u0dd4 \u0d9a\u0dbb\u0db1 \u0d85\u0dad\u0dbb \u0db1\u0dc0 \u0d85\u0dc0\u0db8 \u0db6\u0dc3\u0dca \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 28 \u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d85\u0da9\u0dd4 \u0d9a\u0dd9\u0dbb\u0dda.. \u0dbb\u0dd3\u0dbd\u0dca"
+      ]
+    },
+    "en": {
+      "title": "The bus fare is decreasing",
+      "body_lines": [
+        "The bus fare has been reduced by 5 per cent from July 1.",
+        "Accordingly, the minimum bus fare will be reduced by 2 rupees, and the new minimum bus fare will be reduced to 28 rupees.. Remble"
+      ]
+    }
+  },
+  "summary_lines": [
+    "From July 1, the bus fare decreased by 5%, making the minimum fare drop to 28 rupees from 30 rupees."
+  ]
+}

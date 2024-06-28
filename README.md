@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 02:35:06**
+As of **2024-06-29 02:53:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,723 (100.0%) of 32,727 articles have been extended.
+32,727 (100.0%) of 32,727 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ President acknowledged Fonseka’s leadership was instrumental in securing victo
 
 [Data](articles/51d80f70.json)
 
+[Extended Data](ext_articles/51d80f70.ext.json)
+
 ---
 
 ### President sole leader capable of rebuilding Sri Lanka says Ittapane Dhammalankara
@@ -67,6 +69,8 @@ Upon arriving at the temple, President Wickremesinghe first participated in reli
 ...
 
 [Data](articles/acdfbf0c.json)
+
+[Extended Data](ext_articles/acdfbf0c.ext.json)
 
 ---
 
@@ -90,6 +94,8 @@ Citing the National Lotteries Board (NLB) as an example, Rahman alleged the Pres
 
 [Data](articles/85c73f33.json)
 
+[Extended Data](ext_articles/85c73f33.ext.json)
+
 ---
 
 ### USCIRF releases latest update on religious freedom in Sri Lanka
@@ -105,6 +111,8 @@ In its 2024 Annual Report, USCIRF recommended that the US Department of State in
 ...
 
 [Data](articles/e1b9d90a.json)
+
+[Extended Data](ext_articles/e1b9d90a.ext.json)
 
 ---
 

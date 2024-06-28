@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 09:05:38**
+As of **2024-06-28 09:19:50**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,588 (100.0%) of 32,589 articles have been extended.
+32,589 (100.0%) of 32,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### සූර්ය බල විදුලි උත්පාදනය මෙගාවොට් 1000 ඉක්මවයි
+### Solar power generation exceeds 1000 MW
 
 *2024-06-28 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198242) · `si`
 
-මේ වනවිට මෙරට ජාතික විදුලි පද්ධතියට සම්බන්ධ සමස්ථ සූර්ය බලයෙන් විදුලිය උත්පාදනය කිරීම මෙගාවොට් 1000 ඉක්මවීමට හැකිවී ඇති බව බලශක්ති අමාත්‍යංශය පවසයි.
+Solar power generation in the country surpassed 1000 MW, with 944 MW from rooftop installations and 156 MW from large-scale projects. The Ministry of Energy expects annual additions of 150 MW over the next four years, aiming for significant growth in solar energy contributions to the national grid.
 
-වහළය මත සූර්ය පැනල මගින් මෙගාවොට් 944ක් සහ බිම්ගත සූර්ය පැනල මගින් මෙගාවොට් 156ක් ජාතික පද්ධතියට එකතු කර ඇති බව එම අමාත්‍යංශය පෙන්වා දෙයි.
+🟩
 
-මෙම වර්ෂය අවසන් වනවිට වහළය මත සූර්ය පැනල මගින් පමණක් මෙගාවොට් 1000 ඉක්මවූ විදුලි උත්පාදනයක් ජාතික පද්ධතියට එකතු කිරීමට නියමිතය.
+The Ministry of Energy says that the total solar powered electricity in this country has increased by 1000 MW.
 
-විදුලිබල මණ්ඩලයේ දීර්ඝ කාලීන උත්පාදන සැලසුම අනුව ඉදිරි වසර 4 තුළ සෑම වසරකම වහළය මත සූර්ය පැනල මගින් මෙගාවොට් 150 බැගින් ජාතික පද්ධතියට එකතු කිරීමට සැලසුම් කර තිබේ.
+According to the roof, the Solar panels have been added to 944 MW and 156 MW through the lading solar panels.
 
-කෙසේවෙතත් මෙම වසරේ පළමු මාස 5 තුළ පමණක් වහළය මත සූර්ය පැනල මගින් මෙගාවොට් 132ක් ජාතික පද්ධතියට එකතු කිරීමට හැකිවී ඇති බව බලශක්ති අමාත්‍යංශය වැඩිදුරටත් සඳහන් කරයි.
+By the end of this year, the solar panel is expected to be added to the national grid only by the solar panel.
+
+According to the next four years, the solar panel will be added to the national grid of 150 MW each year in the next four years, according to the Long-Term Geology of the CEB.
+
+However, the Solar Panel has been able to add 132 MW to the National System on the roof during the first five months of this year.
 
 ◼️
 
 [Data](articles/eaedc033.json)
+
+[Extended Data](ext_articles/eaedc033.ext.json)
 
 ---
 
@@ -405,6 +411,8 @@ Accordingly, 2024 will be held on the coming Saturday between the ninth Saturday
 *2024-06-28 05:54:59* · [`dailyftlk`](https://www.ft.lk/columns/Management-of-international-reserves/4-763560) · `en`
 
 Since the official international reserves are readily available to and controlled by the monetary authorities, they help build up confidence in market players that a country would meet its regular external payment obligations in a timely manner
+
+Foreign exchange reserves comprise of financial assets held in foreign currencies by central banks and governments. They not only provide liquidity for people to transact with the rest of the world, but also help build up confidence that a country is able to honour all its external payments in a timely manner. In the face of BOP difficulties, a country can draw down its own reserves to defend the exchange rate and/ or draw on the reserves of the IMF to regulate the magnitude and duration of crises
 
 ...
 

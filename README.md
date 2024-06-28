@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 12:07:49**
+As of **2024-06-28 12:19:31**
 
 ## Newspaper Stats
 
-*Scraped **32,621** Articles*
+*Scraped **32,622** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 297
 dbsjeyarajcom | 299
-bbccomsinhala | 320
+bbccomsinhala | 321
 newsfirstlk | 363
 islandlk | 1,813
 economynextcom | 1,901
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,606 (100.0%) of 32,621 articles have been extended.
+32,616 (100.0%) of 32,622 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Trump and Biden, who were each the oldest president when first elected, even acc
 ...
 
 [Data](articles/79ed580e.json)
+
+[Extended Data](ext_articles/79ed580e.ext.json)
 
 ---
 
@@ -98,123 +100,171 @@ The issue was a key focus during a high-level visit by a parliamentary delegatio
 
 [Data](articles/287a64f9.json)
 
+[Extended Data](ext_articles/287a64f9.ext.json)
+
 ---
 
-### புதுடெல்லி விமான நிலைய கூரை இடிந்ததில் மூவர் பலி
+### New Delhi Airport roof
 
 *2024-06-28 11:30:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதுடெல்லி-விமான-நிலைய-கூரை-இடிந்ததில்-மூவர்-பலி/175-339576) · `ta`
 
-தலைநகர் புதுடெல்லியில் தொடர்ந்து கனமழை பெய்து வருகிறது. வியாழக்கிழமை (27) இரவு முழுவதும் பெய்த தொடர் கனமழையால் சாலைகளில் வெள்ளம் பெருக்கெடுத்து ஓடுகிறது. ஆங்காங்கே மழைநீர் தேங்கியதால் டெல்லி நகரம் முழுவதும் கடும் போக்குவரத்து நெரிசல் ஏற்பட்டுள்ளது. மேலும், சுரங்கப்பாதைகளில் தேங்கியுள்ள தண்ணீரில் வாகனங்கள் சிக்கியதால் மக்கள் கடும் அவதிக்கு ஆளாகினர்.
+Heavy rains in New Delhi caused severe traffic congestion and damage when the New Delhi Airport's roof collapsed, trapping vehicles and injuring several people. Three fatalities occurred, and operations at Terminal 1 have been suspended pending further notice.
 
-இந்த சூழலில் புதுடெல்லி விமான நிலையத்தின் டெர்மினல் 1-ல் மேற்கூரை திடீரென இடிந்து விழுந்தது. கனமழை காரணமாக மேற்கூரை இடிந்து விழுந்ததில் நிறுத்தி வைத்திருந்த கார்கள் பலத்த சேதமடைந்தன. உள்ளே சிக்கியிருந்தவர்களை தீயணைப்புத்துறையினர் மீட்டனர்.காயமடைந்தவர்கள் மீட்கப்பட்டு மருத்துவமனைக்கு கொண்டு செல்லும் வழியில் ஒருவர் உயிரிழந்தார். மேலும் 6 பேர் மருத்துவமனையில் சிகிச்சை பெற்று வந்தனர்.
+🟩
 
-இந்நிலையில் புதுடெல்லி விமான நிலையத்தில் மேற்கூரை இடிந்து விழுந்த விபத்தில் மேலும் இருவர் உயிரிழந்துள்ளதால் பலி எண்ணிக்கை 3ஆக அதிகரித்துள்ளது.
+Heavy rains continue in the capital New Delhi. Thursday (27) night. There has been heavy traffic congestion throughout Delhi due to rain water stagnant. Also, people were hit hard by vehicles caught in stagnant water on the tunnels.
 
-...
+In this context, the roof of the New Delhi Airport suddenly collapsed on the roof. The cars parked in the roof of the roof due to heavy rains were severely damaged. Firefighters rescued those who were trapped inside.. Six more were treated at the hospital.
+
+The death toll from two more deaths in New Delhi Airport has risen to 3.
+
+In the incident of the collapse of the Delhi airport roof, the Terminal 1 has been halted until the re -announcement of air traffic.
+
+◼️
 
 [Data](articles/de477398.json)
 
+[Extended Data](ext_articles/de477398.ext.json)
+
 ---
 
-### தடுமாறிய பைடன் -கலக்கத்தில் ஜனநாயக கட்சியினர்
+### Democrats in stumbling
 
 *2024-06-28 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187160) · `ta`
 
-அமெரிக்க ஜனாதிபதி ஜோபைடனிற்கும் முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்பிற்கும் இடையில் இன்று இடம்பெற்ற நேரடிவிவாதத்தின் போது ஜோடைபனின் தடுமாற்றம் மிகுந்த பதில்களும் செயற்பாடுகளும் கரிசனையை ஏற்படுத்தியுள்ளன.
+In a contentious debate, President Biden faced criticism for his performance, raising concerns about his candidacy ahead of the November elections.
 
-சிஎன்என் ஏற்பாடு செய்திருந்த ஜனாதிபதி தேர்தல் விவாதம் பைடனின் பிரச்சாரகுழுவினருக்கு பல  கேள்விகளிற்கு பதில் சொல்லவேண்டிய நிலையை ஏற்படுத்தியுள்ளது.இதனை தொடர்ந்து அவரது பிரச்சார குழுவினர் பாதிப்புகளை சரிசெய்யும் நடவடிக்கைகளில் இறங்கியுள்ளனர்.
+🟩
 
-ஜோபைடனின் கரமுரடான குரலும்( உடல்நிலை சரியில்லை என அவரது பிரச்சாரகுழுவினர் தெரிவித்துள்ளனர்)பைடன் தனது சிந்தனையை இழந்ததாக தோன்றிய சில தருணங்களும், பார்வைக்கு தென்பட்ட சிறந்த விடயங்கள் இல்லை என பிபிசி தெரிவித்துள்ளது.
+During today's intervenings between US President Jobiton and former President Donald Trump, Jodiban's stumbling blocks and actions have caused compassion.
 
-இதனை தொடர்ந்து நவம்பரில் பைடன் வெற்றிபெறுவதற்கான வாய்ப்புகள் குறித்து அமெரிக்க ஊடகங்களில் ஆய்வாளர்கள் கரிசனை வெளியிட்டுள்ளனர்.
+The presidential election debate organized by CNN has caused many questions to be answered by Baiden's campaign group.
+
+The BBC said that there were some moments that Bitan had lost his thinking, and that there were no good things to sight.
+
+Following this, researchers in the American media have released concern over the chances of Bidan's success in November.
 
 ◼️
 
 [Data](articles/d3528abb.json)
 
+[Extended Data](ext_articles/d3528abb.ext.json)
+
 ---
 
-### வெய்டாங்கை சந்தித்தார் மஹிந்த
+### Mahinda met Waidang
 
 *2024-06-28 11:21:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெய்டாங்கை-சந்தித்தார்-மஹிந்த/175-339575) · `ta`
 
-சீன வெளியுறவுத்துறை துணை அமைச்சர் சன் வெய்டாங்கை, பெய்ஜிங்கில்,  முன்னாள் ஜனாதிபதியும் எம்.பியுமான மஹிந்த ராஜபக்சவை சந்தித்தார்.
+Sun Waidang, Chinese Foreign Minister, met with former Sri Lankan President Mahinda Rajapaksa in Beijing. This meeting highlights the strong ties between China and Sri Lanka, dating back to when Xi Jinping visited Sri Lanka as President in 2014, calling Rajapaksa one of China's oldest friends.
 
-2014 ஆம் ஆண்டு மஹிந்த ராஜபக்ஷ ஜனாதிபதியாக இருந்த போது ஜனாதிபதி H.E Xi Jinping இலங்கைக்கு மேற்கொண்ட வரலாற்று சிறப்புமிக்க விஜயத்தை நினைவுகூர்ந்த பிரதி வெளிவிவகார அமைச்சர், அவரை சீனாவின் பழைய நண்பர் என்று அழைத்தார்.
+🟩
+
+Chinese Foreign Minister Sun Waidang met with former President and MP Mahinda Rajapaksa in Beijing.
+
+When Mahinda Rajapaksa was president in 2014, President H.E Xi Jinping made a historic visit to Sri Lanka and called him the oldest friend of China.
 
 ◼️
 
 [Data](articles/d78923bb.json)
 
+[Extended Data](ext_articles/d78923bb.ext.json)
+
 ---
 
-### நாடளாவிய ரீதியில் அதிரடி சோதனைக்கு தயாரான அதிகாரிகள்
+### Officers who are preparing for action raids nationwide
 
 *2024-06-28 11:20:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடளாவிய-ரீதியில்-அதிரடி-சோதனைக்கு-தயாரான-அதிகாரிகள்/175-339574) · `ta`
 
-நாடளாவிய ரீதியில் பாடசாலைகளில் காணப்படும் சிற்றுண்டிச்சாலைகளில் வழங்கப்படும் உணவுப் பொருட்களின் தரம் தொடர்பில் ஆராயப்படவுள்ளது.
+Nationwide, officers are gearing up for action raids focusing on school meal quality. Complaints about subpar food items in some schools led Minister of State for Education Arunachalam Aravinda Kumar to alert public health inspectors.
 
-சில சிற்றுண்டிச்சாலைகளில் வழங்கப்படும் உணவுப் பொருட்களின் தரம் தொடர்பில் பல்வேறு முறைப்பாடுகள் கிடைக்கப் பெற்றுள்ளதாகக் கல்வி இராஜாங்க அமைச்சர் அருணாச்சலம் அரவிந்த குமார் தெரிவித்தார்.
+🟩
 
-இந்த விடயம் தொடர்பில் பொதுச் சுகாதாரப் பரிசோதகர்களுக்கு அறிவித்தல் வழங்குவதற்கும் நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளதாக அவர் குறிப்பிட்டார். R
+The quality of food items provided in schools in schools across the country will be investigated.
+
+Minister of State for Education Arunachalam Aravinda Kumar said that various complaints have been received regarding the quality of food items provided in some snacks.
+
+He said that steps have been taken to notify the public health inspectors regarding this issue.. Remble
 
 ◼️
 
 [Data](articles/1bd48d3c.json)
 
+[Extended Data](ext_articles/1bd48d3c.ext.json)
+
 ---
 
-### கல்கி 2898 கிபி - விமர்சனம்
+### Kalki 2898kb - Review
 
 *2024-06-28 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/187157) · `ta`
 
-நடிகர்கள் : அமிதாப்பச்சன், பிரபாஸ், கமல்ஹாசன், தீபிகா படுகோன், திஷா படானி, பசுபதி மற்றும் பலர்.
+"Kalki 2898k," a massive Indian film costing Rs 600 crore, spans Telugu, Tamil, Hindi, Malayalam, and Kannada. It focuses on the quest for Kalki, a savior in the city of Kasi, under the rule of Supreme Yaskin. The plot involves Aswathama seeking redemption for his curse, Bhairava striving to fulfill her dream, and the struggle against Supreme Yaskin's forces. The film features a mix of mythological elements and modern technology, with special effects highlighting its strengths. Performances by actors like Kamal Haasan, Deepika Padukone, and Prabhas are praised, along with the cinematography and music.
 
-இந்திய மதிப்பில் தோராயமாக 600 கோடி ரூபாய் செலவில் தயாரான பிரம்மாண்டமான படம்.  தெலுங்கு, தமிழ், இந்தி, மலையாளம் கன்னடம் ஆகிய மொழிகளில் வெளியாகி இருக்கும் திரைப்படம். தமிழ், மலையாளம், கன்னடம் ஆகிய மூன்று மொழிகளிலும் இப்படத்தினை விளம்பரப்படுத்தும் நிகழ்வினை பட குழுவினர் திட்டமிட்டு தவிர்த்து விட்டார்கள். மும்பை- ஹைதராபாத்- டுபாய்-  ஆகிய முக்கிய மாநகரங்களில் மட்டுமே இப்படத்தினை விளம்பரப்படுத்தும் நிகழ்வு நடைபெற்றது. இருப்பினும் இந்தத் திரைப்படம் தமிழ் ரசிகர்களை கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+🟩
+
+Actors: Amithappachan, Prabhas, Kamal Haasan, Deepika Padukone, Disha Patani, Pasupathi and many others.
+
+The biggest film that is ready at a cost of Rs 600 crore in India.Telugu, Tamil, Hindi and Malayalam Kannada. The film crew systematically avoids the event in Tamil, Malayalam and Kannada. The film was held only in the major cities of Mumbai-Hyderabad and Dubai. Did the film attracted Tamil fans, however?Or not?We will continue to see.
+
+In the Mahabharata war, Aswathama, who fought the Pandavas on behalf of the team, destroys the strength of the mother's womb as the mother of the Pandavas.. Furious, Krishna Paramatma curses the immortal gift to Aswatama. Also, Krishna Paramatma in Kaliyuga says that when the incarnation of Azwatama is saved, he says that the curse will be emancipated.
 
 ...
 
 [Data](articles/3dd5b438.json)
 
+[Extended Data](ext_articles/3dd5b438.ext.json)
+
 ---
 
-### யாழில் மிக்ஸரில் பல்லி ; 15 ஆயிரம் ரூபாய் தண்டம்
+### Lizard in Mixer in Jaffna;15 thousand rupees
 
 *2024-06-28 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/187156) · `ta`
 
-யாழ்ப்பாணம் செல்வ சந்நிதி ஆலய சூழலில் விற்கப்பட்ட மிக்ஸரில் பொரித்த நிலையில் பல்லி ஒன்று காணப்பட்டமை தொடர்பில் நடைபெற்ற வழக்கு விசாரணையில், மிக்ஸரை விற்பனை செய்த நபருக்கு 15ஆயிரம் ரூபாய் தண்டம் விதிக்கப்பட்டுள்ளது.
+A lizard found in a mixer purchased from a sweet shop near the Jaffna Selvil Temple led to a case where the seller was fined 15,000 rupees after investigations. This incident occurred during the Anipongal special pooja at the temple.
 
-சந்நிதி ஆலயத்தில் கடந்த திங்கட்கிழமை இரவு, ஆனிப்பொங்கல் விசேட பூஜை வழிபாடுகள் இடம்பெற்றன.
+🟩
 
-இந்நிலையில் ஆலயத்திற்கு வருகை தந்த ஒருவர், ஆலய சூழலில் உள்ள இனிப்பு கடை ஒன்றில் மிக்ஸரை வாங்கிய போது, அதனுள் பொரித்த நிலையில் பல்லி ஒன்று காணப்பட்டுள்ளது.
+Investigations into the case of a lizard in a mixer sold in the environment of the Jaffna Selvil Temple have been sentenced to 15 thousand rupees.
 
-அது தொடர்பில் அப்பகுதி பொது சுகாதார பரிசோதகருக்கு அறிவிக்கப்பட்டதை அடுத்து, பல்லியுடன் காணப்பட்ட மிக்ஸரை சான்று பொருளாக பெற்றுக்கொண்ட பொது சுகாதார பரிசோதகர் குறித்த இனிப்பு கடைக்கு எதிராக பருத்தித்துறை நீதவான் நீதிமன்றில் வழக்கு தாக்கல் செய்துள்ளார்.
+The Anipongal special pooja was held last Monday night at the temple.
 
-குறித்த வழக்கு நேற்று வியாழக்கிழமை (27) விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட வேளை, மிக்ஸரை விற்பனை செய்த நபரை கடுமையாக எச்சரித்த மன்று அவருக்கு 15ஆயிரம் ரூபாய் தண்டம் விதித்தது.
+In this case, a lizard was found when a person who visited the temple, bought a mixer at a sweet shop in the temple environment.
+
+Following the announcement to the Public Health Inspector in the area, the Point Pedro Magistrate's Court has filed a case against the sweets of the Public Health Inspector who has received the mixer with a lizard.
+
+The case was taken up for hearing on Thursday (27) yesterday, and he was sentenced to 15 thousand rupees to warn the man who sold the mixer.
 
 ◼️
 
 [Data](articles/7134bd52.json)
 
+[Extended Data](ext_articles/7134bd52.ext.json)
+
 ---
 
-### பல்லியை  பொரித்து விற்றவருக்கு  தண்டனை
+### Lizard
 
 *2024-06-28 11:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பல்லியை-பொரித்து-விற்றவருக்கு-தண்டனை/71-339573) · `ta`
 
-யாழ்ப்பாணம் - செல்வச்சந்நிதி ஆலய சூழலில் மிக்ஸருக்குள் பொரித்த பல்லி ஒன்று காணப்பட்ட சம்பவத்தில், மிக்ஸரை விற்பனை செய்த நபருக்கு 15,000 ரூபாய் தண்டம்  விதிக்கப்பட்டுள்ளது.
+A person selling a mixer containing a lizard in the Jaffna-Selvasanadhi temple area faced legal action after a public health inspector reported it. The incident occurred during the Anipongal special pooja. Following the report, the Point Pedro Magistrate's Court fined the seller 15,000 rupees.
 
-சந்நிதி ஆலயத்தில் கடந்த திங்கட்கிழமை இரவு , ஆனிப்பொங்கல் விசேட பூஜை வழிபாடுகள் இடம்பெற்றன.
+🟩
 
-அந்நிலையில் ஆலயத்திற்கு வருகை தந்த ஒருவர், ஆலய சூழலில் உள்ள இனிப்பு கடை ஒன்றில் மிக்ஸரை வாங்கிய போது, அதனுள் பொரித்த நிலையில் பல்லி ஒன்று காணப்பட்டுள்ளது.
+In the context of the Jaffna -Selvasanadhi temple environment, a person who sold the mixer has been fined Rs.
 
-அது தொடர்பில் அப்பகுதி பொது சுகாதார பரிசோதகருக்கு அறிவிக்கப்பட்டதை அடுத்து , பல்லியுடன் காணப்பட்ட மிக்ஸரை சான்று பொருளாக பெற்றுக்கொண்ட பொது சுகாதார பரிசோதகர் குறித்த இனிப்பு கடைக்கு எதிராக பருத்தித்துறை நீதவான் நீதிமன்றில் வழக்கு தாக்கல் செய்துள்ளார்.
+The Anipongal special pooja was held last Monday night at the temple.
 
-குறித்த வழக்கு நேற்றைய தினம் வியாழக்கிழமை விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட வேளை , மிக்ஸரை விற்பனை செய்த நபரை கடுமையாக எச்சரித்த மன்று அவருக்கு 15,000 ரூபாய் தண்டம் விதிக்கப்பட்டது. R
+A lizard was found when a person who visited the temple, when he bought the mixer at a sweet shop in the temple environment.
+
+Following the announcement to the Public Health Inspector in the area, the Point Pedro Magistrate's Court has filed a case against the sweets of the Public Health Inspector who has received the mixer with a lizard.
+
+The case was taken up for hearing on Thursday yesterday, and he was sentenced to 15,000 rupees to warn the person who sold the mixer.. Remble
 
 ◼️
 
 [Data](articles/b9487f7e.json)
+
+[Extended Data](ext_articles/b9487f7e.ext.json)
 
 ---
 
@@ -262,19 +312,27 @@ Operating operations have commenced operations to find out if the concessionary 
 
 ---
 
-### அரசியல் மாற்றத்தை பேசும் 'அறம் செய்'
+### 'Make the' Charity 'Speaking of Political Change
 
 *2024-06-28 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/187149) · `ta`
 
-''அறம் செய் எனும் திரைப்படம் தமிழகத்தில் ஆட்சி மாற்றத்தைப் பற்றி பேசவில்லை. அரசியல் மாற்றத்தை குறித்து தான் பேசுகிறது''  என அப்பட இயக்குநர் தெரிவித்திருக்கிறார்.
+"Upcoming Tamil film 'Arami Para' discusses political change rather than regime shift, focusing on a 75-year transformation in governance. Director Vaidyanathan emphasizes the need for a complete overhaul in politics, inspired by the Indian Constitution, without featuring any specific political leaders."
 
-இயக்குநர் பாலு எஸ். வைத்தியநாதன் இயக்கத்தில் உருவாகி இருக்கும் 'அறம் செய்' எனும் திரைப்படத்தில் 'லொள்ளு சபா' ஜீவா, அஞ்சனா கீர்த்தி, மீனாட்சி மேகாலீ, சாதனா, யோகி ராம் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். சிவக்குமார் மற்றும் கண்ணன் இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஸ்ரீகாந்த் தேவா இசையமைத்திருக்கிறார். இந்தத் திரைப்படத்தை தாரகை சினிமாஸ் எனும் நிறுவனம் தயாரித்திருக்கிறது.
+🟩
 
-இப்படத்தின் இசை வெளியீடு சென்னையில் சிறப்பாக நடைபெற்றது இதன் போது சமூக செயற்பாட்டாளர் சுந்தரவல்லி, ஜாக்குவார் தங்கம் உள்ளிட்ட பலர் சிறப்பு அதிதிகளாக பங்குபற்றினர்.
+“The movie 'Charum Sara' is not talking about regime change in Tamil Nadu. He talks about political change, ”the director said.
 
-...
+Director Balu S. 'Loku Saba' Jeeva, Anjana Keerthi, Meenakshi Megalee, Sadhana and Yogi Ram in the upcoming film 'Arami Para' directed by Vaidyanathan.. Srikanth Deva has composed the film, which has been recorded by Sivakumar and Kannan.. The film was produced by Taraka Cinemas.
+
+The music release of the film was held in Chennai.
+
+Speaking about the film. The film talks about politics. It also talks about the need to completely change politics that has been around for the past 75 years. Currently need is not regime change. The screenplay is set to emphasize political change. No political leaders in the film are informed about the political party. We have described the things that the governments that ruled us for the past 75 years. We have been talking about how politics for the people should be, quoting the Indian Constitution. ”
+
+◼️
 
 [Data](articles/407ff331.json)
+
+[Extended Data](ext_articles/407ff331.ext.json)
 
 ---
 
@@ -1091,6 +1149,26 @@ Foreign exchange reserves comprise of financial assets held in foreign currencie
 [Data](articles/bc1aa766.json)
 
 [Extended Data](ext_articles/bc1aa766.ext.json)
+
+---
+
+### හිරුණිකා ප්‍රේමචන්ද්‍ර: බරපතළ වැඩ සහිත වසර තුනක සිර දඬුවම්
+
+*2024-06-28 05:42:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1rw717jvypo) · `si`
+
+දෙමටගොඩ ප්‍රදේශයේ වෙළඳසැලක සේවය කළ තරුණයකු පැහැරගෙන ගොස් අයුතු ලෙස සිරකර තැබීමේ චෝදනාව සම්බන්ධයෙන් වරදකරු කෙරුණු හිටපු පාර්ලිමේන්තු මන්ත්‍රී හිරුණිකා ප්‍රේමචන්ද්‍රට කොළඹ මහාධිකරණ විසින් අද (ජුනි 28 වැනිදා) බරපතළ වැඩ සහිත වසර තුනක සිර දඬුවම් නියම කරනු ලැබීය.
+
+දීර්ඝ නඩු විභාගයකින් අනතුරුව කොළඹ මහාධිකරණ විනිසුරු අමල් රණරාජ තීන්දුව ප්‍රකාශයට පත් කළේය.
+
+ඒ අනුව විත්තිකාර හිරුණිකා ප්‍රේමචන්ද්‍ර චෝදනා 18 කට වරදකාරිය කෙරුණු අතර එම එක් එක් චෝදනාවට රුපියල් 20000 බැගින් දඩ ද නියම කෙරුණි.
+
+දඩ මුදල් ගෙවීම පැහැර හරිනු ලැබුවොත් එක් චෝදනාවට මාස 6 බැගින් සිර දඬුවම් නියම කරන බවත් නියෝගයේ සඳහන් විය.
+
+නඩුව කැඳවූ අවස්ථාවේදී විනිසුරු අමල් රණරජා විවෘත අධිකරණය ප්‍රකාශ කළේ විත්තිකාරිය  තරුණයෙකු පැහැරගෙන යාමේ චෝදනාවට කුමන්ත්‍රණය කිරීම හා ආධාර අනුබල දීමේ චෝදනාවලට වරදකරු කරන බව ය.
+
+...
+
+[Data](articles/05afbfc2.json)
 
 ---
 
@@ -2127,29 +2205,5 @@ The train was delayed due to an error near the railway station near the Mirigama
 [Data](articles/99ba9818.json)
 
 [Extended Data](ext_articles/99ba9818.ext.json)
-
----
-
-### Harsha de Silva is not good news
-
-*2024-06-27 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187121) · `ta`
-
-Dr. Harsha de Silva criticizes the 7% loan waiver, highlighting it as less favorable than the anticipated 28% waiver. He commends Sri Lanka's compliance with international credit providers but expresses concern over potential negative impacts. The United People's Power supports seeking IMF assistance but opposes certain aspects of the agreement, emphasizing the need for transparency and beneficial outcomes for Sri Lanka.
-
-🟩
-
-The 7 per cent loan discount is only available in accordance with international credit providers. United People's Power MP Dr. Harsha de Silva said that the 28 per cent loan waiver was expected and that only 7 per cent was not a good news.
-
-It is really happy to have reached compliance with other countries, including the major bipartisan official credit providers, including Chinese and Japan India.. Harsha de Silva pointed out that we are not ready to drag a child named Sri Lanka if it is beneficial through it.
-
-He was speaking at a special speech by President Ranil Wickremesinghe at a press conference held at the Opposition Leader's Office in Colombo on Thursday (27).. As he further notes,
-
-We listened to President Ranil Wickremesinghe's special speech on the debt restructuring. In it, the people should understand who the best mother of the country and that those who urged the monetary fund to seek the monetary fund during the reign of former President Gotabhaya Rajapakse.
-
-...
-
-[Data](articles/49b69416.json)
-
-[Extended Data](ext_articles/49b69416.ext.json)
 
 ---

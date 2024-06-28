@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 14:19:41**
+As of **2024-06-28 14:35:32**
 
 ## Newspaper Stats
 
-*Scraped **32,631** Articles*
+*Scraped **32,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,58 @@ adalk | 2,890
 adaderanalk | 3,713
 tamilmirrorlk | 3,858
 dailymirrorlk | 4,733
-virakesarilk | 5,077
-adaderanasinhalalk | 5,368
+virakesarilk | 5,079
+adaderanasinhalalk | 5,369
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,630 (100.0%) of 32,631 articles have been extended.
+32,631 (100.0%) of 32,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### මෙරට ව්‍යාපෘති යළි ආරම්භ කිරීමට ජපානය සැරසෙයි
+### දුම්රිය පීලි පැනීමක්
+
+*2024-06-28 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198254) · `si`
+
+දුම්රිය පීලි පැනීමක් හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ලවී තිබේ.
+
+නාවලපිටිය දුම්රිය පාලක මැදිරිය සඳහන් කළේ කොළඹ කොටුව සිට බදුල්ල දක්වා ධාවනය වු පොඩි මැණිකේ දුම්රිය වටවල දුම්රිය ස්ථානය ආසන්නයේ දී පීලි පැනිමට ලක්වී ඇති බවය.
+
+මෙම අනතුර සිදුවී ඇත්තේ අද (28) උදැසන 11 ට පමණ වන අතර දුම්රියේ ඉදිරිපස එන්ජිමේ රෝද කිහිපයක් පීලි පැන ඇති බව පාලක මැදිරිය වැඩිදුරටත් සඳහන් කළේය.
+
+පොඩි මැණිකේ දුම්රිය පීලිගත කිරිමේ කටයුතු මේ වනවිට ආරම්භ කර ඇත.
+
+◼️
+
+[Data](articles/6edd134e.json)
+
+---
+
+### Japan is preparing to resume projects in Sri Lanka
 
 *2024-06-28 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198253) · `si`
 
-ණය ප්‍රතිව්‍යුහගතකරණ ගිවිසුම්වලට එළඹුණු ශ්‍රී ලංකාව ඊට අදාළව අවබෝධතා ගිවිසුම්වලට අත්සන් තැබීමෙන් පසු අතරමග නැවතුණු මෙරට ජපාන ව්‍යාපෘති කඩිනමින් යළි ආරම්භ කිරීමට කටයුතු කරන බව ශ්‍රී ලංකාවේ ජපාන තානාපති මිසුකොෂි හිදෙකි මහතා පවසයි.
+Japan plans to restart its projects in Sri Lanka post-Memorandum of Understanding signing. The Japanese Ambassador highlighted Sri Lanka's debt restructuring agreements with bilateral creditors and Japan's ongoing support for the country's economic recovery. This marks a significant step towards restoring faith in Sri Lanka's economy and aiding its financial recovery.
 
-අද (28) කොළඹ පැවැති ප්‍රවෘත්ති සාකච්ඡාවකදී ඔහු ප්‍රකාශ කළේ ශ්‍රී ලංකාව ණය ප්‍රතිව්‍යුහගතකරණ ගිවිසුම්වලට ද්විපාර්ශ්වික ණයහිමියන් සමග අත්සන් තැබීම සම්බන්ධයෙන් සිය ප්‍රසාදය පළ කරන බවය.
+🟩
 
-එමෙන්ම ශ්‍රී ලංකාවේ ආර්ථිකය ප්‍රකෘතිමත් කිරීම සඳහා ජපානය අඛණ්ඩ සහාය ලබාදෙන බවද තානාපතිවරයා වැඩිදුරටත් ප්‍රකාශ කළේය.
+Japanese Ambassador to Sri Lanka's Japanese projects will be resumed after signing the Memorandum of Understanding (Undahabharaya) after signing the Memorandum of Understanding.
 
-"එය ශ්‍රී ලංකාවේ ආර්ථිකය ප්‍රකෘතිමත් කිරීමට මෙන්ම, ජාත්‍යන්තර ප්‍රජාවේ විශ්වාසය යළි දිනාගැනීම සඳහා වැදගත් සන්ධිස්ථානයක් බව කිව යුතුයි. ශ්‍රී ලංකාවට ණය අර්බුදය විසදීමට සහාය වීම සඳහා ජපානය උපරිම අන්දමින් කටයුතු කරනවා. අවබෝධතා ගිවිසුම්වලට අත්සන් තැබූ වහාම මෙරට ජපාන ව්‍යාපෘති යළි ආරම්භ කිරීම සඳහා මුදල් යෙදවීම වේගවත් කිරීමට අප උත්සාහ කරනවා. මූල්‍ය අර්බුදයෙන් මිදී ප්‍රකෘතිමත් වීම සඳහා ජපානය ශ්‍රී ලංකාවට අබණ්ඩව සහාය වනවා."
+At a press conference held in Colombo today, he said Sri Lanka will commend the signing of bilateral creditors to the restructuring agreements of debt.
+
+The ambassador also said that Japan continues to support the restoration of Sri Lanka's economy.
+
+"It is an important milestone to recover the economy of Sri Lanka as well as to re-win the belief in the international community. Japan is maximum of the best of Sri Lanka to support Sri Lanka. We are trying to accelerate financing to resume Japanese projects as soon as they signed. Japan helps Sri Lanka to recover from the financial crisis. "
 
 ◼️
 
 [Data](articles/12eed0b8.json)
+
+[Extended Data](ext_articles/12eed0b8.ext.json)
 
 ---
 
@@ -105,6 +129,42 @@ The water cut will be made due to an essential modernization of the Ambatale Wat
 [Data](articles/4c4b38b4.json)
 
 [Extended Data](ext_articles/4c4b38b4.ext.json)
+
+---
+
+### முன்னாள் பிரதமர்கள் உட்பட 27  அவுஸ்திரேலியர்களிற்கு எதிராக தடை - ரஸ்யா அறிவிப்பு
+
+*2024-06-28 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187170) · `ta`
+
+அவுஸ்திரேலியாவின் இரு முன்னாள் பிரதமர்கள் உட்பட 27 பேருக்கு எதிராக ரஸ்யா தடைகளை அறிவித்துள்ளது.
+
+ரஸ்ய எதிர்ப்பு நிகழ்ச்சிநிரலை முன்னெடுப்பதற்காக அவுஸ்திரேலியாவின் முன்னாள் பிரதமர்கள் டொனி அபொட் ஜோன் ஹவார்ட் உட்பட 27 பேருக்கு எதிராக தடைகளை ரஸ்யா அறிவித்துள்ளது.
+
+அரசியல்வாதிகள் பெரும்நிறுவனங்களின் நிறைவேற்று அதிகாரிகள் கல்விமான்கள் பத்திரிகையாளர்களிற்கு எதிராக அவுஸ்திரேலியா தடைகளை அறிவித்துள்ளது.
+
+அவுஸ்திரேலிய அரசாங்கம் ரஸ்ய எதிர்ப்பு நிகழ்ச்சிநிரலை கைவிடாவிட்டால் தடை பட்டியலில் மேலும் பலரை சேர்க்கவுள்ளதாக ரஸ்ய வெளிவிவகார அமைச்சு எச்சரித்துள்ளது.
+
+ரஸ்யநிறுவனங்கள் ரஸ்ய பிரஜைகளிற்கு எதிரான அரசியல்நோக்கம் கொண்ட தடைகளிற்கு பதிலாக 27 அவுஸ்திரேலியர்கள் ரஸ்யாவிற்குள் நுழைவதற்கு தடைவிதித்துள்ளதாக ரஸ்ய வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+
+ரஸ்யாவின் முடக்கப்பட்ட சொத்துக்களை உக்ரைனிற்கு வழங்ககோரி அவுஸ்திரேலிய அரசாங்கத்திற்கு கடிதம் எழுதிய 23 பேர் இந்த தடைப்பட்டியலில் இடம்பெற்றுள்ளனர்.
+
+ரஸ்யாவின் நலன்களிற்கு எதிராக தீர்ப்புகளை வழங்கிய இரண்டு நீதிபதிகளும் இந்த பட்டியலில் இடம்பெற்றுள்ளனர்.
+
+◼️
+
+[Data](articles/a05fd189.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-06-28 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/187168) · `ta`
+
+இன்று வெள்ளிக்கிழமை (ஜூன் 28) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 301.0183 ஆகவும்,  விற்பனை விலை ரூபா 310.3533 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ca1e87e0.json)
 
 ---
 
@@ -2201,67 +2261,5 @@ However, the General Secretary of the Ceylon Teachers’ Union (CTU) Joseph Stal
 [Data](articles/d2081e2a.json)
 
 [Extended Data](ext_articles/d2081e2a.ext.json)
-
----
-
-### Delay in the train service
-
-*2024-06-27 21:07:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரத-சேவையில்-தாமதம்/175-339543) · `ta`
-
-Train service delay: The Railway Department reported a delay on the main route due to issues near the Meirigama Railway Station.
-
-🟩
-
-The Railway Department said that the train service on the main road was delayed due to a railway line near the Meirigama Railway Station.. Remble
-
-◼️
-
-[Data](articles/51ebb221.json)
-
-[Extended Data](ext_articles/51ebb221.ext.json)
-
----
-
-### Days of Kandy Esala Perahera
-
-*2024-06-27 21:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198231) · `si`
-
-The Kandy Esala Perahera, a grand festival, begins on August 10 and concludes on August 19, featuring processions and rituals.
-
-🟩
-
-Mount Kandy Perahera The Gennigama Day of the Kandyan Esala Perahera has been announced.
-
-Accordingly, the first Kumbal Perahera will commence on August 10, 202 and the final Randoli Perahera will be held on August 19.
-
-◼️
-
-[Data](articles/5f8a10d3.json)
-
-[Extended Data](ext_articles/5f8a10d3.ext.json)
-
----
-
-### President Ranil Wickremesinghe Worship in Kandy
-
-*2024-06-27 21:05:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ரணில்-விக்ரமசிங்க-கண்டியில்-வழிபாடு/175-339542) · `ta`
-
-President Ranil Wickremesinghe visited Kandy, engaging in religious activities including worship at the Sri Dalada House and visiting temples like Sri Selvam Vinayagar Temple. He met with Buddhist leaders Malwathu Mahanayake and Asgiriya Mahanayake, discussing Sri Lanka's economic and financial progress. The President also presented the Kandy City Development Program to the Mahanayaka Theras.
-
-🟩
-
-President Ranil Wickremesinghe, who visited Kandy today (27), visited the Sri Dalada House and engaged in worship.
-
-He also met Malwathu Mahanayake and Asgiriya Mahanayake.
-
-President Ranil Wickremesinghe, who visited the Sri Selvam Vinayagar Temple, was attended by special poojas held there.. And Meera went to the schoolgirl and received the blessings.
-
-President Ranil Wickremesinghe, who was blessed with Sri Sumangala Thera and Asgiriya Maha Vihara Mahanayaka Varakagoda Sri Gnanaratne Thera of the Malwathu Maha Viharaya, made it clear to the Mahanayaka Thera on the economic and financial progress of Sri Lanka. He also handed over the Kandy City Development Program to the Manayakas.. Remble
-
-◼️
-
-[Data](articles/568e3c45.json)
-
-[Extended Data](ext_articles/568e3c45.ext.json)
 
 ---

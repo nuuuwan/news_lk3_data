@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 10:34:48**
+As of **2024-06-28 10:53:06**
 
 ## Newspaper Stats
 
-*Scraped **32,597** Articles*
+*Scraped **32,603** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,88 @@ newsfirstlk | 363
 islandlk | 1,813
 economynextcom | 1,901
 dailyftlk | 1,998
-adalk | 2,886
-adaderanalk | 3,708
-tamilmirrorlk | 3,851
+adalk | 2,887
+adaderanalk | 3,709
+tamilmirrorlk | 3,853
 dailymirrorlk | 4,733
 virakesarilk | 5,068
-adaderanasinhalalk | 5,360
+adaderanasinhalalk | 5,362
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,596 (100.0%) of 32,597 articles have been extended.
+32,597 (100.0%) of 32,603 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### බයිඩන් සහ ට්‍රම්ප් ප්‍රසිද්ධියේ රෙදි ගලවා ගනිති
+
+*2024-06-28 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198247) · `si`
+
+අමෙරිකානු ජනාධිපති ජෝ බයිඩන් සහ හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සී එන් එන් රූපවාහිනිය මගින් සංවිධානය කළ විවාදයට සහභාගී වූහ.
+
+විචාරකයින් පවසන්නේ ඔවුන් දෙදෙනා "බොරු කියන" බවට එකිනෙකාට චෝදනා කරගත් බවය.
+
+ට්‍රම්ප්, බයිඩන් ගේ ආර්ථික ප්‍රතිපත්ති සහ විදෙස් ප්‍රතිපත්ති විවේචනය කළ අතර බයිඩන්, ට්‍රම්ප් ගේ අපරාධ සම්බන්ධයෙන් සහ 2020 වසරේදී ජනාධිපතිවරණ ප්‍රතිඵල වෙනස් කිරීමට උත්සාහ කළ බවටද චෝදනා කළේය.
+
+එළැඹෙන නොවැම්බර් 05 වනදා පැවැත්වීමට නියමිත අමෙරිකානු ජනාධිපතිවරණය සඳහා මෙම දෙදෙනා ඉදිරිපත්වීමට නියමිත අතර ඒ වෙනුවෙන් මේ දෙදෙනා ප්‍රසිද්ධ විවාදයකට එක්වූ පළමු අවස්ථාව මෙය වෙයි.
+
+ස්ටෝමි ඩැනියෙල්ස් නම් නිල් චිත්‍රපට නිළියක් සමග ට්‍රම්ප් ගේ තිබූ සම්බන්ධතාවයක් සම්බන්ධයෙන් ද බයිඩන් මෙම විවාදයේදී කරුණු දක්වා තිබූ අතර ට්‍රම්ප් එම චෝදනාව ප්‍රතික්ෂේප කළේය.
+
+නමුත් මෙම විවාදයේදී බයිඩන් ගේ ප්‍රතිචාර සහ සමහර උත්තර සම්බන්ධයෙන් සමස්තයක් වශයෙන් ඩිමොක්‍රටික් ආධාරකරුවන් සතුටු නොවනු ඇති බව සමහර දේශපාලන විචාරකයෝ පවසති.
+
+◼️
+
+[Data](articles/070bba44.json)
+
+---
+
+### ஹிருணிக்காவுக்கு 3 ஆண்டுகள் சிறை
+
+*2024-06-28 10:24:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிக்காவுக்கு-3-ஆண்டுகள்-சிறை/175-339572) · `ta`
+
+முன்னாள் கொழும்பு மாவட்ட பாராளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமச்சந்திர, டிஃபென்டர் மூலம் இளைஞரை கடத்திச் சென்ற குற்றச்சாட்டில் குற்றவாளி என நிரூபிக்கப்பட்டு கொழும்பு மேல் நீதிமன்றம் அவருக்கு மூன்று வருட சிறைத்தண்டனை விதித்து இன்று தீர்ப்பளித்துள்ளது
+
+◼️
+
+[Data](articles/91d23629.json)
+
+---
+
+### ஹிருணிக்காவுக்கு 3 ஆண்டுகள் சிறை
+
+*2024-06-28 10:23:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிக்காவுக்கு-3-ஆண்டுகள்-சிறை/175-339570) · `ta`
+
+முன்னாள் கொழும்பு மாவட்ட பாராளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமச்சந்திர, டிஃபென்டர் மூலம் இளைஞரை கடத்திச் சென்ற குற்றச்சாட்டில் குற்றவாளி என நிரூபிக்கப்பட்டு கொழும்பு மேல் நீதிமன்றம் அவருக்கு மூன்று வருட சிறைத்தண்டனை விதித்து இன்று தீர்ப்பளித்துள்ளது
+
+◼️
+
+[Data](articles/2c4513f9.json)
+
+---
+
+### Roof collapses at Delhi airport’s Terminal-1; three dead, several injured
+
+*2024-06-28 10:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100155/roof-collapses-at-delhi-airports-terminal-1-three-dead-several-injured) · `en`
+
+Three people died and six were injured after a portion of the roof of the Delhi airport’s Terminal-1 fell on cars, including taxis, amid heavy rains early Friday, Delhi Fire Services (DFS) officials said.
+
+They said a search operation is underway to make sure no one else is trapped in the damaged vehicles.
+
+Besides the roof sheet, the support beams also collapsed, damaging the cars parked in the pick-up and drop area of the terminal, the officials said.
+
+Of the six, one was rescued from a car on which an iron beam had fallen, the officials said. Three fire-tenders were sent to the airport after a call about the incident was received by the DFS around 5:30 a.m.
+
+“Due to heavy rain since early this morning, a portion of the canopy at the old Departure forecourt of Delhi Airport’s Terminal 1 collapsed around 5 am. There are injuries reported, and emergency personnel are working to provide all necessary assistance and medical aid to those affected,” an airport spokesperson said.
+
+...
+
+[Data](articles/8aa77ce4.json)
+
+---
 
 ### Hirunika sentenced to 3 years rigorous imprisonment
 
@@ -45,6 +111,24 @@ The sentencing was delivered by Colombo High Court Judge Amal Ranaraja on Friday
 ◼️
 
 [Data](articles/b3c7c573.json)
+
+[Extended Data](ext_articles/b3c7c573.ext.json)
+
+---
+
+### හිරුණිකාට බරපතළ වැඩ සහිත සිරදඬුවම්
+
+*2024-06-28 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198246) · `si`
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රිනී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට කොළඹ මහාධිකරණ විසින් බරපතළ වැඩ සහිත වසර තුනක සිර දඬුවම් නියම කර තිබේ.
+
+ඒ, දෙමටගොඩ ප්‍රදේශයේ වෙළෙඳසැලක සේවය කළ තරුණයකු පැහැරගෙන ගොස් අයුතු ලෙස සිරකර තැබීමේ චෝදනාව සම්බන්ධයෙන් වරදකරු කරමිනි.
+
+කොළඹ මහාධිකරණ විනිසුරු අමල් රණරාජ මහතා විසින් තීන්දුව ප්‍රකාශයට පත් කර තිබුණි.
+
+◼️
+
+[Data](articles/0f74bc45.json)
 
 ---
 
@@ -255,6 +339,22 @@ Strong winds of about 40-50kmph can be expected at times over the Western slopes
 [Data](articles/bc615efb.json)
 
 [Extended Data](ext_articles/bc615efb.ext.json)
+
+---
+
+### එංගලන්තය පැරදූ ඉන්දියාව ලෝක කුසලාන අවසන් මහ තරගයට
+
+*2024-06-28 08:09:48* · [`adalk`](https://www.ada.lk/sports/එංගලන්තය-පැරදූ-ඉන්දියාව-ලෝක-කුසලාන-අවසන්-මහ-තරගයට/9-410487) · `si`
+
+පන්දුවාර විස්සයි20 ලෝක කුසලාන තරගාවලියේ අවසන් මහ තරගයේ සිය ස්ථානය වෙන් කර ගැනීමට ඉන්දිය කණ්ඩායම සමත්විය. ඒ තරගාවලියේ දෙවැනි අවසන් පූර්ව තරගය ලෙසින් ඉන්දියාව හා එංගලන්තය අතර පැවැති තරගයෙන් එංගලන්තයට එරෙහිව ලකුණු 68ක ජයක් වාර්තා කරමින්.
+
+තරගයේ මුලින්ම පන්දුවට පහරදුන් ඉන්දිය කණ්ඩායම ලකුණු 171/7ක් රැස් කළ අතර පිළිතුරු ඉනිම ක්‍රිඩා කළ එංගලන්තයට රැස් කළ හැකිවූයේ ලකුණු 103ක් පමණි.
+
+ඒ අනුව දකුණු අප්‍රිකා කණ්ඩායම හා ඉන්දිය කණ්ඩායම අතර අවසන් මහ තරගය හෙට පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/6f8e9edb.json)
 
 ---
 
@@ -2125,153 +2225,5 @@ About $ 10 billion over the agreement will be restructured.
 [Data](articles/0024e66a.json)
 
 [Extended Data](ext_articles/0024e66a.ext.json)
-
----
-
-### There are many issues in the debt restructuring process - Opposition Leader Sajith
-
-*2024-06-27 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/187112) · `ta`
-
-Opposition Leader Sajith Premadasa criticized the debt restructuring process, highlighting several issues including delayed compliance targets, lack of negotiation with international creditors, and the government's handling of educational rights for teachers and principals. He pointed out that despite progress in other countries like Ghana, Sri Lanka's debt restructuring has faced challenges, with no clear plan for achieving sustainable compliance. Additionally, he expressed concern over the government's approach to obtaining loans and managing educational reforms, emphasizing the importance of transparency and dialogue in addressing national issues.
-
-🟩
-
-Several issues were revealed yesterday about the International Monetary Fund Plan and Debt Reorganization Plans. Opposition leader Sajith Premadasa said that if the debt renovation process is beneficial to the country, we will support it, but there is a problem with the issues revealed yesterday.
-
-Under the Universal Information Technology Program, Smart Classroom Equipment worth Rs.
-
-During this time, a sum of Rs.
-
-Opposition Leader Sajith Premadasa said this while addressing the event.
-
-Time has been levied to pay off the loan until 2028. To pay off debt installments from 2028. Although this seems to be a good thing, we must repay the loan since 2033, according to the International March 2023 March report of the International March.
-
-Although the International Monetary Finance Report was mentioned, this compliance discussion has not been able to reach the target of 2033.
-
-Moreover, it was reported that our country was filling the debt reproduction process than all countries.
-
-...
-
-[Data](articles/3a6e3d1e.json)
-
-[Extended Data](ext_articles/3a6e3d1e.ext.json)
-
----
-
-### The child is responsible for the child tomorrow
-
-*2024-06-27 17:02:08* · [`adalk`](https://www.ada.lk/breaking_news/දරුවාගේ-හෙට-දවසේ-වගකීම-ශ්‍රී-ලංකා-පොදුජන-පෙරමුණ-බාරගන්නවා/11-410483) · `si`
-
-Namal Rajapaksa, a Sri Lankan parliamentarian, discussed his party's policies, emphasizing the importance of addressing the country's agricultural and energy issues. He highlighted the need for technological advancement and professional development, especially for youth planning to work abroad. Rajapaksa expressed confidence in his party's ability to lead the country towards progress and criticized the previous government's handling of these matters.
-
-🟩
-
-Namal Rajapaksa, National Organizer of the Sri Lanka Civil Appointment and Parliamentarian Namal Rajapaksa said that the Political Party has implemented the policies of the Sri Lankan public.
-
-It is said that the Sri Lankan Cran's famous lead in the country's strongest political force is being built with Mahinda Rajapaksa, the Sri Lanka Civil Arasekaraya (SLPFA) is the party's leader.
-
-He was speaking at the Member of the Kumbukwachchiya seat conference at the Anuradhapura District of the Sri Lanka General Man.
-
-We must have done wrongs of Gotabhaya Rajapaksa government. But we are responsible, we say that the Agriculture Policy of the Sri Lanka Crachchi Peradeniya is the Kirror's Krrorism Policy. We will modify it. The technology should be transplanted.
-
-...
-
-[Data](articles/7d02ff53.json)
-
-[Extended Data](ext_articles/7d02ff53.ext.json)
-
----
-
-### Motorcycle recovery in Jaffna
-
-*2024-06-27 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/187111) · `ta`
-
-In Jaffna, a burned motorcycle was found on a vacant lot, along with its license plate. This discovery comes after another high-value motorcycle was torched on the street last week.
-
-🟩
-
-A motorcycle has been recovered from a blank land in Jaffna on Thursday (27).
-
-Police have gone to the scene on the basis of information available to the Sunnah police that a motorcycle was completely burnt in a blank land near Uduvil South Pillaiyar Temple.
-
-A digit plate, believed to be the digit plate of the motorcycle, has been recovered from another location of the land.
-
-Meanwhile, a motorcycle worth about Rs 10 lakh was set on fire on the road at midnight last week.
-
-◼️
-
-[Data](articles/0ce20915.json)
-
-[Extended Data](ext_articles/0ce20915.ext.json)
-
----
-
-### Only a few showers tomorrow
-
-*2024-06-27 16:45:15* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-වැසි-වාර-කිහිපයක්-පමණයි/11-410482) · `si`
-
-Tomorrow, expect several showers mainly in the Western, Sabaragamuwa, North Western, and some parts of the Central, Southern, Eastern, and Uva provinces. Strong winds of 35-45 km/h are also predicted.
-
-🟩
-
-Several spells of showers in the Western, Sabaragamuwa and North Western provinces have occurred in the Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Also, in Trincomalee and Northwestern districts, Trincomalee and Northwestern districts, Trincomalee and Northwestern districts, Trincomalee and Northwestern provinces, Trincomalee and North-Central and Northwestern provinces.. The Department says that strong winds can occur about 35-45.
-
-◼️
-
-[Data](articles/fa3ec2c4.json)
-
-[Extended Data](ext_articles/fa3ec2c4.ext.json)
-
----
-
-### Teacher Service will be declared as essential service - President
-
-*2024-06-27 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/187107) · `ta`
-
-President Ranil Wickremesinghe declares teacher service essential to ensure children's education, emphasizing the importance of teachers' presence in schools early mornings. This decision comes after discussions with religious leaders, highlighting the government's commitment to education amidst ongoing challenges.
-
-🟩
-
-It is mandatory for teachers to be in schools in the morning for the education of the country's children. President Ranil Wickremesinghe has announced that the teacher service will be declared an essential service, as the opportunity to lose the education of school children will be created if it does not happen in the future.
-
-President Ranil Wickremesinghe announced this when Mahanayaka Thera of the Kandy -Asgiriya Faculty met Sri Varakagoda Gnanaradana Thera on Thursday (27).
-
-◼️
-
-[Data](articles/216fae28.json)
-
-[Extended Data](ext_articles/216fae28.ext.json)
-
----
-
-### Someone in the funeral communeration surrendered
-
-*2024-06-27 16:43:34* · [`adalk`](https://www.ada.lk/breaking_news/අයෙක්-අවමංගල්‍ය-රථයේ-අවසන්-ගමන්-යැවූ-පුද්ගලයා-භාරවෙයි/11-410481) · `si`
-
-A 47-year-old man from the oil estate was arrested for allegedly murdering a florist named Dwarf Dash, whose flower shop, "New Reman," was located in Ambalangoda. The incident occurred on June 25 when the suspect attacked the victim with a sharp weapon after bringing him to the flower shop. The motive behind the killing was reportedly a casual relationship between the suspect and the victim's wife. The suspect will be produced in court tomorrow for further investigation.
-
-🟩
-
-The Karadnegoda Police said that he was arrested by a lawyer who had been assassinated by a lawyer who had been assassinated by a lawyer who had been assassinated by a law-carried out car in Ambalangoda.
-
-The suspect was a 47 year old resident of the oil estate.
-
-The flower owner was killed on June 25 and was arrested for questioning on suspicion of the murder.
-
-The suspect has revealed that the cause of the twenty-eight-year-old dashes of Dwarf, the flower of the flower hall, is the cause of the casual relationship with his wife.
-
-The victim is a flower hall called New Reman in Ambalangoda, Ambalangoda, Ambalangoda
-
-The suspect that the suspect had taken a bangle on June 25 to bring a body to carry a dead person to bring a body, the suspect who had been brought to the area of ​​the flower of the flower of the Bornawatta area on June 25, was assaulted by a sharp weapon.
-
-The suspect was also found in a desolate land in a desolate land, police said to kill the flower hall owner.
-
-...
-
-[Data](articles/1bed6543.json)
-
-[Extended Data](ext_articles/1bed6543.ext.json)
 
 ---

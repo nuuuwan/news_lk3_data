@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 19:34:49**
+As of **2024-06-28 19:53:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,380
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,681 (100.0%) of 32,682 articles have been extended.
+32,682 (100.0%) of 32,682 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ The confiscated drugs are to be handed over to the Police Narcotics Bureau for f
 ◼️
 
 [Data](articles/20128d7b.json)
+
+[Extended Data](ext_articles/20128d7b.ext.json)
 
 ---
 

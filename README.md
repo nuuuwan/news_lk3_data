@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 09:35:03**
+As of **2024-06-28 09:54:05**
 
 ## Newspaper Stats
 
-*Scraped **32,590** Articles*
+*Scraped **32,591** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,55 @@ adaderanalk | 3,706
 tamilmirrorlk | 3,849
 dailymirrorlk | 4,733
 virakesarilk | 5,068
-adaderanasinhalalk | 5,357
+adaderanasinhalalk | 5,358
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,589 (100.0%) of 32,590 articles have been extended.
+32,590 (100.0%) of 32,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### பியூமி ஹன்சமாலியின் நிறுவனத்திற்குள் பாய்ந்த CID-யினர்
+### යතුරුපැදිය ලොරියක ගැටී තරුණයෙක් මරුට
+
+*2024-06-28 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198243) · `si`
+
+හයිලෙවල් මාර්ගයේ හංවැල්ල - වනහගොඩ ප්‍රදේශයේදී අද (28) අලුයම සිදුවු ලොරි - යතුරුපැදි අනතුරකින් 18 හැවිරිදි තරුණයෙකු එම ස්ථානයේදීම ජීවිතක්ෂයට පත්වී තිබේ.
+
+ප්‍රදර්ශනය අවසන් කළ තොරණක් ලොරි රථයකින් අවිස්සාවේල්ල දෙසට ප්‍රවාහනය කරමින් සිටියදී ලොරි රථයේ ඉන්ධන අවසන් වීමෙන් පසු මාර්ගය අයිනේ නවතා තිබියදී වේගයෙන් පැමිණි යතුරපැදිය එම ලොරි රථයේ පසුපස ගැටී ඇත.
+
+අනතුරින් යතුරුපැදිය පදවාගෙන පැමිණි හංවැල්ල ගිරාඉඹුල ප්‍රදේශයේ පදිංචි ජනිත් ගිම්හාන් ප්‍රියදර්ශන නමැති තරුණයා මියගොස් ඇත.
+
+සිද්ධිය සම්බන්ධයෙන් ලොරි රථයේ රියදුරු සැකපිට අත්අඩංගුවට ගෙන ඇති අතර හංවැල්ල පොලීසිය වැඩිදුරට විමර්ශන සිදු කරයි.
+
+◼️
+
+[Data](articles/194f5a30.json)
+
+---
+
+### CID-Yinner
 
 *2024-06-28 09:09:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பியூமி-ஹன்சமாலியின்-நிறுவனத்திற்குள்-பாய்ந்த-CID-யினர்/175-339567) · `ta`
 
-பிரபல மாடல் அழகியும், தொழிலதிபருமான பியூமி ஹன்சமாலிக்கு சொந்தமான அழகுசாதனப் பொருட்கள் நிறுவனம் மீதான விசாரணைகளை குற்றப் புலனாய்வுத் திணைக்களத்தின் சட்டவிரோத சொத்துக்கள் விசாரணைப் பிரிவு முன்னெடுத்து வருவதாக தெரிவிக்கப்படுகின்றது.
+The Criminal Investigation Department (CID) is investigating a cosmetics company owned by model-businessman Pumi Hansamali. Four officers from the Packages Service Company have confessed to involvement in an incident, and their confessions will be submitted to Pumi Hansamali tomorrow.
 
-இதேவேளை, இந்த சம்பவத்துடன் தொடர்புடைய பொதிகள் சேவை நிறுவனத்தின் நான்கு அதிகாரிகளிடம் CID-யினர் வாக்குமூலம் பெற்றுள்ளனர். இதில் அந்த நிறுவனத்தின் தலைவரும் அடங்குவர் என பொலிஸ் ஊடகப் பேச்சாளர் நிஹால் தல்துவ தெரிவித்தார்.
+🟩
 
-இதேவேளை, நாளை (29) பியூமி ஹன்சமாலியிடம் வாக்குமூலம் பதிவு செய்யவுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் நிஹால் தல்துவ தெரிவித்தார். R
+It is reported that the Investigation Department of the Criminal Investigation Department is carrying out an investigation into the cosmetics company owned by Pumi Hansamali, a popular model and businessman.
+
+Meanwhile, the CID has received a confession to four officers of the Packages Service Company involved in the incident.. Police Media Spokesperson Nihal Talduwa said the company would be the head of the company.
+
+Meanwhile, police media spokesman Nihal Talduwa said that the confession will be filed with Pumi Hansamali tomorrow (29).. Remble
 
 ◼️
 
 [Data](articles/0e797e74.json)
+
+[Extended Data](ext_articles/0e797e74.ext.json)
 
 ---
 
@@ -2245,29 +2269,5 @@ The Supreme Court had issued this interim order while allowing the hearing of a 
 [Data](articles/6ecdd383.json)
 
 [Extended Data](ext_articles/6ecdd383.ext.json)
-
----
-
-### Gehaliya's Rid Petition Trial adjourned
-
-*2024-06-27 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187106) · `ta`
-
-Keheliya Rambukwella, ex-Health Minister, filed a writ petition at the Court of Appeal, seeking to overturn a Magistrate's Court order. The case, initially set for hearing today, was postponed to July 01st. Deputy Solicitor General Nirmalan Wigneswaran argued on behalf of the Attorney General.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella filed a writ petition again today by the Court of Appeal.
-
-The case was adjourned to July 01 when the case was taken up for hearing today (27).
-
-Deputy Solicitor General Nirmalan Wigneswaran presented arguments in court on behalf of the Attorney General today.
-
-It is noteworthy that former Health Minister Keheliya Rambukwella has filed a petition demanding the cancellation of the order issued by the Magistrate Magistrate's Court until the case is over.
-
-◼️
-
-[Data](articles/5671910b.json)
-
-[Extended Data](ext_articles/5671910b.ext.json)
 
 ---

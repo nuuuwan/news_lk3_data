@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 01:19:36**
+As of **2024-06-29 01:34:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,720 (100.0%) of 32,723 articles have been extended.
+32,723 (100.0%) of 32,723 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -440,19 +440,27 @@ The quake was felt as far as the capital. Video posted to social media shows lam
 
 ---
 
-### இலங்கையின் வங்குரோத்து நிலை குறித்து அறிவிக்கும் பொறுப்பு சர்வதேச நிதி தரப்படுத்தல் நிறுவனங்களுடையதல்ல - எதிர்க்கட்சிகளுக்கு அமைச்சர் அலி சப்ரி பதில்
+### The responsibility of announcing the bankruptcy of Sri Lanka is not of international financial standards- Minister Ali Sabri responds to opposition parties
 
 *2024-06-28 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187219) · `ta`
 
-சர்வதேச நிதி தரப்படுத்தல் நிறுவனங்கள் இலங்கையின் கடன் மீள் செலுத்துகைத் திறன் மேம்பாடு எந்த மட்டத்தில் உள்ளது என்பதையே வெளிப்படுத்தும். மாறாக வங்குரோத்து நிலையிலிருந்து மீண்டுள்ளதா இல்லையா என்பதை அறிவிக்க மாட்டா. எதிர்க்கட்சிகள் இதனை தெரிந்து கொண்டு விமர்சனங்களை முன்வைக்க வேண்டும் என்று வெளியுறவுகள் அமைச்சர் அலி சப்ரி தெரிவித்தார்.
+Sri Lanka's External Affairs Minister Ali Sabri responded to opposition criticisms about the country's debt repayment capacity, stating that international financial standards do not dictate the announcement of its bankruptcy. He emphasized that the government would disclose its recovery status rather than relying on external assessments. Sabri urged opposition parties to base their criticisms on accurate information, highlighting a $17 billion profit from bilateral credit restructuring as evidence of economic resilience.
 
-ஜனாதிபதி ஊடக மையத்தில் வெள்ளிக்கிழமை (28) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-2022 ஏப்ரல் 12ஆம் திகதி எம்மால் சர்வதேச கடனில் ஒரு தொகையை மீள செலுத்த முடியாது என்று அறிவித்தோம். இலங்கை அரசாங்கமே இதனை அறிவித்தது. மாறாக வெளிநாட்டு நிதித்தரப்படுத்தல் நிறுவனங்கள் அல்ல. அதே போன்று இலங்கை அந்த நிலைமையிலிருந்து மீண்டுள்ளதா இல்லையா என்பதையும் நாமே அறிவிப்போம். சர்வதேச நிதி தரப்படுத்தல் நிறுவனங்கள் இலங்கையின் கடன் மீள்செலுத்தல் திறன் எந்த மட்டத்தில் உள்ளது என்பதையே வெளிப்படுத்தும்.
+International Financial Retariting Companies reveal the level of Sri Lanka's debt re -payment capacity development. On the contrary, it will not be revealed whether or not. External Affairs Minister Ali Sabri said the opposition parties should know this and present criticism.
+
+He further stated at the media conference held at the Presidential Media Center on Friday (28).
+
+On April 12, 2022, we announced that we cannot repay a sum of international debt. The Sri Lankan government announced this. Rather than foreign financing companies. Similarly, we will announce whether Sri Lanka is recovering from that situation. International financial standards will reveal the level of Sri Lanka's debt re -enactment capacity.
+
+Opposition parties that spread bogus ideas among the people should understand this and then present criticism. We have received a profit of $ 17 billion as bilateral credit restructuring has been reached. This is a huge strength for our economy.
 
 ...
 
 [Data](articles/426ffd82.json)
+
+[Extended Data](ext_articles/426ffd82.ext.json)
 
 ---
 
@@ -474,21 +482,29 @@ In response to the current economic situation, President Ranil Wickremesinghe ha
 
 ---
 
-### பீல்ட் மார்ஷல் சரத் பொன்சேகாவினால் எழுதப்பட்ட நூல் ஜனாதிபதி தலைமையில் வௌியீடு
+### Written by Field Marshal Sarath Fonseka
 
 *2024-06-28 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/187221) · `ta`
 
-முப்பது வருடகால யுத்தத்தை நிறைவு செய்ய சிறந்த தலைமைத்துவத்தை வழங்கிய முன்னாள் இராணுவத் தளபதியும், பாராளுமன்ற உறுப்பினருமான பீல்ட் மார்ஷல் சரத் பொன்சேகாவினால் "இராணுவ தளபதி தேசத்துக்கு வழங்கிய வாக்குறுதி - இந்த யுத்தம் அடுத்த தளபதி வரையில் நீடிக்க இடமளியேன்" என்ற தலைப்பில் எழுதப்பட்ட நூல் வெளியீட்டு விழா ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் வெள்ளிக்கிழமை (28) கொழும்பு நெலும் பொக்குன கலையரங்கில் நடைபெற்றது.
+Field Marshal Sarath Fonseka, a former Army Commander and Member of Parliament, received recognition for his leadership in ending a 30-year war. President Ranil Wickremesinghe praised Fonseka's contributions, highlighting his ability to navigate both war and political challenges. The President noted Fonseka's strategic role in the Jayasikuru struggle in Jaffna and his resilience in making tough decisions amidst war casualties and losses. Despite facing challenges in civilian life, Fonseka was conferred the Field Marshal status, acknowledging his significant contributions to the nation. The event underscored the importance of Fonseka's service and his ongoing relevance to the country's future development.
 
-இதன்போது புத்தகத்தின் முதல் பிரதி பீல்ட் மார்ஷல் சரத் பொன்சேகாவினால் ஜனாதிபதிக்கு வழங்கி வைக்கப்பட்டது.
+🟩
 
-அதனையடுத்து பீல்ட் மார்ஷல் சரத் பொன்சேகா ஜனாதிபதிக்கு நினைவு பரிசு ஒன்றையும் வழங்கி வைத்தார்.
+Former Army Commander and Member of Parliament, Field Marshal Sarath Fonseka, who gave the best leadership to conclude the thirty -year war - Promise to the Army Commander - Written by President Ranil Wickremesinghe on Friday (28), titled "The War will remain up to the Commander -in -Chief."Held in the gallery.
 
-இதன்போது பீல்ட் மார்ஷல் சரத் பொன்சேகாவின் சேவைக்கு பாராட்டு தெரிவித்த ஜனாதிபதி,  யுத்தத்தை வெற்றிகொண்டது மாத்திரமன்றி, பல்வேறு அரசியல் சவால்களுக்கும் முகம்கொடுத்தவர் என்ற வகையில் எதிர்காலத்தில் நாட்டிற்கு பெரும் சேவையாற்ற முடியும் என்றும் தெரிவித்தார்.
+The first copy of the book was presented to the President by Marshal Sarath Fonseka.
+
+Field Marshal Sarath Fonseka then presented a souvenir to the President.
+
+The President praised Field Marshal Sarath Fonseka's service, saying that the victory of the war will only be a great service to the country in the future.
+
+"Only Sarath Fonseka plays the status of Field Marshall. He has conquered the war challenges and has confronted the political challenges outside.
 
 ...
 
 [Data](articles/4b71f54f.json)
+
+[Extended Data](ext_articles/4b71f54f.ext.json)
 
 ---
 
@@ -532,21 +548,27 @@ President Ranil Wickremesinghe says that the country needs to provide another se
 
 ---
 
-### பெரு நாட்டில் 7.2 ரிக்டர் அளவில் சக்திவாய்ந்த நிலநடுக்கம்!
+### Powerful earthquake at 7.2 magnitude in Peru
 
 *2024-06-28 21:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/187220) · `ta`
 
-குறித்த நிலநடுக்கமானது பெரு மாநிலத்தை உள்ள கடல் பகுதியிலேயே 7.2 ரிக்டர் அளவுகோலில் பதிவாகி இருக்கிறது.
+A powerful 7.2 magnitude earthquake struck off the coast of Peru, triggering a tsunami warning and causing widespread fear. Videos from the event show dramatic scenes of buildings shaking, rocks falling onto roads, and cars parked on streets. The quake also disrupted traffic on the Pan-American Highway near Karaveli.
 
-நிலநடுக்கம் காரணமாக அங்கு சுனாமி எச்சரிக்கை விடுக்கப்பட்டு இருக்கிறது. இதனால் மக்கள் அச்சம் அடைந்துள்ளனர்.
+🟩
 
-நிலநடுக்கத்தின் போது பதிவான சிசிடிவி காட்சி அடங்கிய வீடியோ சமூக வலைதளங்களில் அதிகம் பகிரப்பட்டு வருகிறது. வீடியோவில் தெருவில் நிறுத்தி வைக்கப்பட்ட கார் பூமியோடு சேர்ந்து குலுங்கும் காட்சிகள் இடம்பெற்றுள்ளன.
+The earthquake has been recorded on a magnitude 7.2 magnitude in the seas of Peru.
 
-இதே போன்று வீட்டினுள் இருந்த மின்விளக்குகள் நிலநடுக்கத்தால் குலுங்கின. இது தொடர்பான வீடியோ வெளியாகி உள்ளது. காராவெலியிலே ஏற்பட்ட நிலநடுக்கம் காரணமாக மலையில் இருந்த பாறைகள் சரிந்து பான்-அமெரிக்க நெடுஞ்சாலையில் விழுந்தன. இதனால் அந்த பகுதியில் போக்குவரத்து பாதிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+A tsunami warning has been issued due to the earthquake. This is why people are afraid.
+
+Video of the CCTV footage recorded during the earthquake has been shared on social networks. The video features shocking scenes along the Earth parked on the street.
+
+Similarly, the lights inside the house were shaken by the earthquake. A related video has been released. The rocks on the mountain fell on the Pan-American highway due to an earthquake in Karaveli.. It is noteworthy that traffic in the area has been affected.
 
 ◼️
 
 [Data](articles/7ea5c055.json)
+
+[Extended Data](ext_articles/7ea5c055.ext.json)
 
 ---
 

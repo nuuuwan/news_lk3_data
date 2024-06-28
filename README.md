@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 15:53:47**
+As of **2024-06-28 16:06:55**
 
 ## Newspaper Stats
 
-*Scraped **32,640** Articles*
+*Scraped **32,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ islandlk | 1,813
 economynextcom | 1,901
 dailyftlk | 1,998
 adalk | 2,891
-adaderanalk | 3,715
+adaderanalk | 3,716
 tamilmirrorlk | 3,858
 dailymirrorlk | 4,733
 virakesarilk | 5,079
-adaderanasinhalalk | 5,372
+adaderanasinhalalk | 5,374
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,640 (100.0%) of 32,640 articles have been extended.
+32,640 (100.0%) of 32,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### අත්අඩංගුවට ගත් ඉන්දියානුවන් ගණන තවත් ඉහළට
+
+*2024-06-28 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198260) · `si`
+
+ඔන්ලයින් වංචා සිදුකරමින් සිටි ඉන්දීය ජාතිකයින් 137 දෙනෙක් ඊයේ දිනය තුළදී අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පවසයි.
+
+◼️
+
+[Data](articles/495e88ce.json)
+
+---
+
+### Derailment disrupts train services on up-country line
+
+*2024-06-28 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100164/derailment-disrupts-train-services-on-up-country-line) · `en`
+
+Train services along the up-country railway line have been disrupted owing to the derailment of the ‘Podi Menike’ train near the Watawala Railway Station, the Nawalapitiya Railway Control Room said.
+
+The accident took place today (28) at around 11.00 a.m. while the train was plying from Colombo Fort to Badulla.  The control room further stated that several wheels of the train’s front engine have derailed.
+
+The work related to restoring the ‘Podi Menike’ train has already commenced, a spokesman said.
+
+◼️
+
+[Data](articles/63328b3d.json)
+
+---
+
+### එවැනි සහන අපිට ඕනේ නෑ -ජනපති
+
+*2024-06-28 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198259) · `si`
+
+දේශගුණික විපර්යාසවලට මුහුණදීමේ දී අප්‍රිකාවේ අඩුආදායම්ලාභී රටවල ණය සම්පූර්ණයෙන් අහෝසි කළ යුතු බව ශ්‍රී ලංකාවේ විදේශ ප්‍රතිපත්තිය බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ශ්‍රී ලංකාවට එවන් සහනයක් අවශ්‍ය නොවන අතර ණය කළමනාකරණය කර ගනිමින් ඉදිරියට යාමට ශ්‍රී ලංකාවට ශක්තිය සහ ඥානය තිබෙන බව ද ජනාධිපතිවරයා කියා සිටියේය.
+
+අද (28) පෙරවරුවේ කොළඹ බණ්ඩාරනායක ජාත්‍යන්තර අනුස්මරණ සම්මන්ත්‍රණ ශාලාවේ පැවති 2024 ජනාධිපති පරිසර සම්මාන උළෙල අමතමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව පැවසීය.
+
+◼️
+
+[Data](articles/d6ca13d5.json)
+
+---
 
 ### Bus fares down
 
@@ -61,6 +105,8 @@ The decision has been taken following a discussion with the Minister and Ministe
 A decision has been taken to reduce bus fares by 5% with effect from July 01.
 
 Meanwhile, the minimum fare has been reduced by Rs. 2 to Rs. 28.
+
+The bus fares have been reduced under the annual fare revision, and as agreed during a meeting between Transport Ministry officials and private bus operators earlier today (28).
 
 ◼️
 
@@ -2169,75 +2215,5 @@ Police have taken steps to find its owner through the car's digit plate.
 [Data](articles/efedfdc0.json)
 
 [Extended Data](ext_articles/efedfdc0.ext.json)
-
----
-
-### 2024-06-27 (Thursday)
-
-### 68 sick, injured children and companions leave Gaza in first medical evacuation since May
-
-*2024-06-27 23:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100150/68-sick-injured-children-and-companions-leave-gaza-in-first-medical-evacuation-since-may) · `en`
-
-(AP) — Israeli authorities say 68 people - sick and injured children plus their companions - have been allowed out of the Gaza Strip and into Egypt in the first medical evacuation since May, when the territory’s sole travel crossing was shut down.
-
-The Israeli military body responsible for Palestinian civilian affairs, known by its acronym COGAT, said Thursday that the evacuation was carried out in coordination with officials from the United States, Egypt and the international community.
-
-The children and their companions left the Gaza Strip via the Kerem Shalom crossing, and the patients were to travel to Egypt and further abroad for medical treatment.
-
-The nearly nine-month Israel-Hamas war has devastated Gaza’s health sector and forced most of its hospitals to shut down. Health officials say thousands of people need medical treatment abroad, including hundreds of urgent cases.
-
-...
-
-[Data](articles/6bf0314e.json)
-
-[Extended Data](ext_articles/6bf0314e.ext.json)
-
----
-
-### Two persons injured in a fuel container vehicle accident
-
-*2024-06-27 22:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/187124) · `ta`
-
-In a tragic accident on the Trincomalee-Kandi road, two individuals aged 50 and 45, both from Madugama, were injured when their fuel transport vehicle crashed into a house near the 98th area. The incident occurred on Thursday evening due to the driver falling asleep.
-
-🟩
-
-Two persons were injured in a vehicle accident on the 98th area of ​​the Trincomalee -Kandi main road in the Trincomalee district.
-
-The accident took place on Thursday evening (27) evening. The fuel purchase vehicle traveling from Colombo to Trincomalee has broken the house and went into the house.
-
-The preliminary investigation revealed that the incident took place due to sleep. The driver's age (50) and the assistant age (45) were injured in the fuel container.. It is revealed that they belong to the Madugama area.
-
-◼️
-
-[Data](articles/0e5b58c2.json)
-
-[Extended Data](ext_articles/0e5b58c2.ext.json)
-
----
-
-### T20 World Cup semifinals: India - England game
-
-*2024-06-27 22:30:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/டி20-உலகக்கோப்பை-அரையிறுதி-இந்தியா-இங்கிலாந்து-ஆட்டம்-மழையால்-பாதிப்பு/44-339545) · `ta`
-
-In the 9th T20 World Cup, India faced England in the semis. England won the toss and opted to bowl first. India's opening batsmen, Rohit Sharma and Suryakumar Yadav, made significant contributions before rain halted play after 8 overs, with India at 65/2.
-
-🟩
-
-The semifinals are being played in the 9th T20 World Cup cricket series. The second semifinals are taking place today
-
-India, India and the current champion, are clashing in the match.
-
-Toss for this game. England's captain Jose Butler chose the bowling. Accordingly the Indian team
-
-First, the bang was batting. When the Indian team scored 65 runs for the loss of 2 wickets at the end of 8 overs, the rain was interrupted.
-
-Because of this the game has been stopped. Rohit Sharma has 37 runs and Suryakumar Yadav with 13 runs
-
-◼️
-
-[Data](articles/2b458588.json)
-
-[Extended Data](ext_articles/2b458588.ext.json)
 
 ---

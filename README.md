@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 19:19:40**
+As of **2024-06-28 19:34:49**
 
 ## Newspaper Stats
 
-*Scraped **32,681** Articles*
+*Scraped **32,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,813
 economynextcom | 1,913
 dailyftlk | 1,998
 adalk | 2,891
-adaderanalk | 3,719
+adaderanalk | 3,720
 tamilmirrorlk | 3,861
 dailymirrorlk | 4,733
 virakesarilk | 5,093
@@ -26,29 +26,57 @@ adaderanasinhalalk | 5,380
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,680 (100.0%) of 32,681 articles have been extended.
+32,681 (100.0%) of 32,682 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### අධිකරණයට රැගෙන ආ රැඳවියන් පළායයි
+### Cocaine and Kush cannabis worth over Rs. 190M inside ‘whey protein’ containers
+
+*2024-06-28 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100168/cocaine-and-kush-cannabis-worth-over-rs-190m-inside-whey-protein-containers) · `en`
+
+Officers of the Sri Lanka Customs Narcotics Control Unit have seized cocaine and ‘Kush’ cannabis estimated to be worth nearly Rs. 160 million found inside 6 parcels during inspections carried out at a courier clearance station in Seeduwa.
+
+A total of 2,030 grams of cocaine and 2,177 grams of ‘Kush’ cannabis were found inside several whey protein powder containers packed in the parcels, which had been sent from Canada and America to addresses in Colombo and Kadawatha.
+
+However, following investigations conducted regarding the respective addresses, it has been revealed that those addresses are fake.
+
+The parcels were opened due to suspicion as no one had come forward to collect them even after one month had passed since their arrival, a spokesman said.
+
+The Sri Lanka Customs said that the estimated street value of drugs is almost Rs. 190 million.
+
+The confiscated drugs are to be handed over to the Police Narcotics Bureau for further investigations.
+
+◼️
+
+[Data](articles/20128d7b.json)
+
+---
+
+### Inmates who were brought to court
 
 *2024-06-28 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198266) · `si`
 
-කුරුවිට බන්ධනාගාරයේ රැඳවියන් දෙදෙනෙක් නීති කෘත්‍යක් සඳහා අද (28) වරකාපොළ තුල්හිරිය මහෙස්ත්‍රාත් අධිකරණයට රැගෙන යමින් සිටියදී බන්ධනාගාර නිලධාරින් තල්ලුකර පළාගොස් තිබේ.
+Two inmates from Kuruwita prison escaped to the Tulhiriya Magistrate's Court, suspected by prison officials. The escapees, including Roshan Asanka and JKNna Prabodo, are wanted in several cases across Pelmadulla, Attanagalla, Horana, and Warakapola. Police, aided by dogs, are investigating their escape and whereabouts.
 
-මෙම සැකකරුවන් මාංචු සමඟ පළාගොස් ඇති අතර ඔවුන් සොයා වරකාපොළ පොලීසිය විමර්ශන සිදුකරයි.
+🟩
 
-එක් සැකකරුවකු ගෝනපොළ පදිංචි රොෂාන් අසංක කන්දප්පා නමැති අයෙක් වන අතර අනෙක් සැකකරු හොරණ දවුලගලවත්ත පදිංචි ජේ.ඩී.චන්න ප්‍රබෝද නමැති අයෙකි.
+Prison officials have been puspected by two inmates in Kuruwita prison to the Tulhiriya Magistrate's Court today (28).
 
-මෙම සැකකරුවන්ට පැල්මඩුල්ල, අත්තනගල්ල, හොරණ සහ වරකාපොළ යන අධිකරණවල නඩු රාශියක් ඇති බව සඳහන් වේ.
+The suspects have fled handcuffs and Warakapola Police are conducting further investigations.
 
-පොලීසිය පැවසුවේ සැකකරුවන් සේවීමේ විමර්ශන සඳහා පොලිස් සුනඛයින්ගේ ද සහාය මේ සඳහා ලබා ගත් බවයි.
+One suspect is a resident of Roshan Asanka, another residents of the Suspect, and the other suspect named JDKnna Prabodo.
+
+The suspects have a number of cases in courts in Pelmadulla, Attanagalla, Horana and Warakapola.
+
+Police said that the assistance of police dogs were also supported for the investigation investigations.
 
 ◼️
 
 [Data](articles/cd5d7c0c.json)
+
+[Extended Data](ext_articles/cd5d7c0c.ext.json)
 
 ---
 
@@ -292,7 +320,7 @@ The operation in Madiwela, Sri Jayawardenepura Kotte led to the arrest of 13 ind
 
 In total, 158 mobile phones, 16 laptops, and 60 desktop computers were seized from 137 Indians arrested, he said.
 
-◼️
+...
 
 [Data](articles/73870cf4.json)
 
@@ -2265,23 +2293,5 @@ Accordingly, the committee has instructed officials to identify malpractices and
 [Data](articles/86196767.json)
 
 [Extended Data](ext_articles/86196767.ext.json)
-
----
-
-### The suspect in the murder of the Municipal Council has come to the police
-
-*2024-06-28 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198238) · `si`
-
-A suspect in the Municipal Council murder case was turned over to the Ambalangoda Police by a lawyer on April 27th.
-
-🟩
-
-The suspect was handed over to the Ambalangoda Police by a lawyer yesterday evening yesterday (27).
-
-◼️
-
-[Data](articles/c382c216.json)
-
-[Extended Data](ext_articles/c382c216.ext.json)
 
 ---

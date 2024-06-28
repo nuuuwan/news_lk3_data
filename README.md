@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 22:19:36**
+As of **2024-06-28 22:35:07**
 
 ## Newspaper Stats
 
-*Scraped **32,693** Articles*
+*Scraped **32,695** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,813
 economynextcom | 1,913
 dailyftlk | 1,998
 adalk | 2,895
-adaderanalk | 3,721
+adaderanalk | 3,723
 tamilmirrorlk | 3,862
 dailymirrorlk | 4,733
 virakesarilk | 5,095
@@ -26,11 +26,47 @@ adaderanasinhalalk | 5,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,693 (100.0%) of 32,693 articles have been extended.
+32,693 (100.0%) of 32,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### Powerful 7.2 magnitude earthquake hits southern Peru
+
+*2024-06-28 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100171/powerful-72-magnitude-earthquake-hits-southern-peru) · `en`
+
+(CNN) — At least eight people have been injured after a powerful 7.2 magnitude earthquake struck off the coast of southern Peru overnight Friday at a depth of 28 kilometers (17 miles), according to the United States Geological Survey (USGC).
+
+The quake hit 8 kilometers (5 miles) west of Atiquipa, about 600 kilometers (372 miles) south of the capital Lima.
+
+Some residents of Atiquipa said on social media they felt a very strong and long quake that caused their beds to shake.
+
+CCTV footage from the nearby town of Caraveli shows a residential street as the tremor shakes violently and people come out of their houses.
+
+The quake was felt as far as the capital. Video posted to social media shows lamps swaying inside houses in Lima.
+
+...
+
+[Data](articles/7405e424.json)
+
+---
+
+### Govt says Rs. 11.6 billion disbursed to ‘Aswesuma’ beneficiaries for June
+
+*2024-06-28 22:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100170/govt-says-rs-116-billion-disbursed-to-aswesuma-beneficiaries-for-june) · `en`
+
+Under the “Aswesuma” Welfare Benefit Payment Program, the Welfare Benefits Board has disbursed a total of Rs. 11.6 billion to the bank accounts of 622,495 beneficiaries in the transitional and vulnerable categories yesterday (27) for the payments of June 2024.
+
+In the first phase of the program, eligible beneficiaries in the vulnerable category received Rs. 5,000 from July 2023 to March 31, 2024. Meanwhile, those in the transitional category received Rs. 2,500 from July 2023 to December 31, 2023.
+
+In response to the current economic situation, President Ranil Wickremesinghe has instructed the Welfare Benefits Board to extend the payment period of special allowances for beneficiaries in the transitional and vulnerable categories under the “Aswesuma” Welfare Benefit Payment Program until December this year, the President’s Media Division said.
+
+...
+
+[Data](articles/a652fec2.json)
+
+---
 
 ### Top US Treasury official to visit Sri Lanka next week
 
@@ -2281,49 +2317,5 @@ The Mannar wind plant at 4.88 cents is about 14.90 rupees at an exchange rate of
 [Data](articles/52dff62e.json)
 
 [Extended Data](ext_articles/52dff62e.ext.json)
-
----
-
-### Sanjaya Mahawatta
-
-*2024-06-28 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/187138) · `ta`
-
-Sanjaya Mahawatta, leader of the 'Mahen Ratta' group, was arrested by the Police Terrorist Investigation Unit for allegedly leveling false accusations against high-ranking police officers.
-
-🟩
-
-Police have arrested Sanjaya Mahawatta Terrorist Investigation Unit of the 'Mahen Ratta' organization.
-
-Police said that Sanjaya Mahawatta, the leader of the 'Mahen Ratta' organization, has been arrested on charges of false allegations against senior police officers.
-
-◼️
-
-[Data](articles/36ae0f1b.json)
-
-[Extended Data](ext_articles/36ae0f1b.ext.json)
-
----
-
-### Youth dies after colliding at a lorry
-
-*2024-06-28 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198243) · `si`
-
-An 18-year-old motorcyclist, Janith SumHhan Priyadarshana from Hanwella, died when his bike collided with a lorry on Hylavel road. The incident occurred as the lorry was moving towards Avissawella. The driver has been arrested for investigation.
-
-🟩
-
-An 18-year-old youth was killed in a motorcycle accident in Hylavel road in Hanwella - Weight.
-
-When the exhibition was transporting a lorry to Avissawella towards Avissawella, the rapidly reached the back of the lorry after the end of the lorry.
-
-Janith SumHhan Priyadarshana, a resident of the Hanwella Girambulambu, who was riding the motorcycle, has died.
-
-The lorry driver has been arrested on suspicion of the incident and the Hanwella police are conducting further investigations.
-
-◼️
-
-[Data](articles/194f5a30.json)
-
-[Extended Data](ext_articles/194f5a30.ext.json)
 
 ---

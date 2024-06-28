@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 15:34:53**
+As of **2024-06-28 15:53:47**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,372
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,637 (100.0%) of 32,640 articles have been extended.
+32,640 (100.0%) of 32,640 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### බස් ගාස්තු පහළට
+### Bus fares down
 
 *2024-06-28 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198258) · `si`
 
-ජූලි 1 වනදා සිට බස් ගාස්තු සියයට 5කින් පහළ දැමීමට තීරණය කර තිබේ.
+Bus fares decreased by 5% since July 1, making the minimum fare Rs. 28 after a Rs. 2 reduction. This change was decided after discussions involving Minister Bandula Gunawardena and the annual fare review process.
 
-ඒ අනුව අවම බස් ගාස්තුව රුපියල් 2කින් පහළ යන අතර එහි නව ගාස්තුව රුපියල් 28කි.
+🟩
 
-වාර්ෂික බස් ගාස්තු සංශෝධනයට අදාළව බස් සංගම් සහ අමාත්‍ය බන්දුල ගුණවර්ධන මහතා සමග පැවති සාකච්ඡාවකින් අනතුරුව එම තීරණය ගෙන තිබේ.
+The bus fares have been reduced by 5 percent from July 1.
+
+Accordingly the minimum bus fare will be reduced by Rs. 2 and the new fare is Rs. 28.
+
+The decision has been taken following a discussion with the Minister and Minister Bandula Gunawardena regarding the annual bus fare revision.
 
 ◼️
 
 [Data](articles/59015f9b.json)
+
+[Extended Data](ext_articles/59015f9b.ext.json)
 
 ---
 
@@ -59,6 +65,8 @@ Meanwhile, the minimum fare has been reduced by Rs. 2 to Rs. 28.
 ◼️
 
 [Data](articles/bdef3f42.json)
+
+[Extended Data](ext_articles/bdef3f42.ext.json)
 
 ---
 
@@ -93,6 +101,8 @@ On June 26, 2024, Sri Lanka concluded negotiations with the Official Creditor Co
 ...
 
 [Data](articles/079baa5a.json)
+
+[Extended Data](ext_articles/079baa5a.ext.json)
 
 ---
 

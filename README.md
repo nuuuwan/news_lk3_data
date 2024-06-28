@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 08:15:21**
+As of **2024-06-28 08:22:57**
 
 ## Newspaper Stats
 
-*Scraped **32,585** Articles*
+*Scraped **32,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,813
 economynextcom | 1,901
 dailyftlk | 1,998
-adalk | 2,885
+adalk | 2,886
 adaderanalk | 3,705
-tamilmirrorlk | 3,847
+tamilmirrorlk | 3,848
 dailymirrorlk | 4,733
 virakesarilk | 5,068
 adaderanasinhalalk | 5,356
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,356
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,578 (100.0%) of 32,585 articles have been extended.
+32,578 (100.0%) of 32,587 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -489,6 +489,20 @@ Time has been levied to pay off the loan until 2028. To pay off debt installment
 [Data](articles/56a1876b.json)
 
 [Extended Data](ext_articles/56a1876b.ext.json)
+
+---
+
+### கடன் மறுசீரமைப்பில் ’பிரச்சினைகள்  உள்ளன’
+
+*2024-06-28 02:31:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கடன்-மறுசீரமைப்பில்-பிரச்சினைகள்-உள்ளன/150-339564) · `ta`
+
+சர்வதேச நாணய நிதிய (IMF) திட்டம் மற்றும் கடன் மறுசீரமைப்புத் திட்டங்கள் குறித்து பல விடயங்கள் புதன்கிழமை (26)  வெளிப்படுத்தப்பட்டன. கடன் மறுசீரமைப்பு செயல்முறை நாட்டிற்கு நன்மை பயக்கும் என்றால், அதற்கு ஆதரவை வழங்குவோம். என்றாலும் நேற்றைய தினம் வெளிப்படுத்தப்பட்ட விடயங்கள் தொடர்பில் சிக்கல் நிலை ஏற்பட்டுள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+
+பிரபஞ்சம் தகவல் தொழிநுட்ப வேலைத்திட்டத்தின் கீழ்,   களுத்தறை, புலத்சிங்கல மதுராவல, ரெமுன மகா வித்தியாலத்திற்கு வழங்கி வைக்கும் நிகழ்வு ஜூன் 27 ஆம் திகதி இடம்பெற்றது. அதில் கலந்துகொண்டு உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/db53ca24.json)
 
 ---
 
@@ -1297,6 +1311,24 @@ The Ministry of Education has announced that all government schools will be held
 [Data](articles/ada686fa.json)
 
 [Extended Data](ext_articles/ada686fa.ext.json)
+
+---
+
+### ඉන්දියාවේ තහනම් සූදු ඔට්ටු පිටුවක් මහා පරිමාණයෙන් ලංකාවේ සිට ක්‍රියාත්මක කරලා
+
+*2024-06-27 20:17:32* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවේ-තහනම්-සූදු-ඔට්ටු-පිටුවක්-මහා-පරිමාණයෙන්-ලංකාවේ-සිට-ක්‍රියාත්මක-කරලා/11-410485) · `si`
+
+මෙරට තුළ රැඳී සිටිමින් නීති විරෝධී ලෙස අන්තර්ජාලය හරහා මූල්‍ය ජාවාරමක් සිදු කළ ඉන්දියන් ජාතිකයන් 60 කු අත්අඩංගුවට ගත් බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කියයි.
+
+එම සැකකරුවන් සමග ස්මාට් වර්ගයේ ජංගම දුරකථන 135 ක්, පරිගණක  40  හා ලැෆ් ටොෆ් පරිගණක 17 ක් පොලිස් භාරයට ගෙන ඇත. තලංගම , කෝට්ටේ මාදිවෙල සහ මීගමුව කොච්චිකඩ යන ප්‍රදේශවලදී එම වැටලීම් සිදුකර ඇත.
+
+තලංගම හීනටි කුඹුර ප්‍රදේශයේ නිවසක් වටලා එම නිවසේ රැඳී සිට මෙම ජාවාරම සිදුකළ ඉන්දියන් ජාතිකයන් 16 කු අත්අඩංගුවට ගත් පොලිසිය ඔහුත් භාරයේ තිබී ලැෆ් ටොෆ් පරිගණක 9 ක් හා ජංගම දුරකථන 59 ක් පොලිස් භාරයට ගෙන ඇත.
+
+කෝට්ටේ මාදිවෙල ප්‍රදේශයෙන් ප්‍රදේශයේද නිවසක් වටලා එම ජාලයටම සම්බන්ධ තවත් ඉන්දියන් ජාතිකයන් 13 අත්අඩංගුවට ගත් පොලිසිය එම ස්ථානයේ තිබී ලැෆ්ටොෆ්  පරිගණක 8 ක් ජංගම දුරකථන 38 ක් ද පොලිස් භාරයට ගෙන ඇත
+
+...
+
+[Data](articles/d09cea6a.json)
 
 ---
 
@@ -2197,57 +2229,5 @@ Police said the other bus was traveling behind the bus that was traveling forwar
 [Data](articles/2f13cfb6.json)
 
 [Extended Data](ext_articles/2f13cfb6.ext.json)
-
----
-
-### Children will not be allowed to lose their education - President
-
-*2024-06-27 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198218) · `si`
-
-President Ranil Wickremesinghe emphasizes the importance of teachers in maintaining the country's education system, stating that their role is crucial for the nation's future. He assures that measures will be taken to prevent disruptions in education and to address the concerns of teachers. Additionally, the President discusses various initiatives including salary increases for public servants, the development of Kandy, and the importance of unity among political parties for economic growth.
-
-🟩
-
-President Ranil Wickremesinghe says that the dignity of the teacher role is the responsibility of teachers and that the education of the country will not allow the education of the country.
-
-The President made this observation when the Malwathu Mahanayakas cannot be seen today (27).
-
-The Mahanayakes also presented the large city development plan in Kandy.
-
-President Ranil Wickremesinghe arrived in Kandy this morning and paid bunging the Sacred Delias Dalada Maligawa this morning.
-
-President Ranil Wickremesinghe was admitted to the Dalada Maligawa.
-
-The President had followed the Most Venerable Church of Malwatte Ven.
-
-The President has said that a systematic procedure will be prepared to increase the salaries of public officers in a manner that does not cause salary anomalies.
-
-President Ranil Wickremesinghe has said that the teachers should remain in schools for the education of the country's children.
-
-...
-
-[Data](articles/edd61ca4.json)
-
-[Extended Data](ext_articles/edd61ca4.ext.json)
-
----
-
-### Sri Lanka opposition leaders downplay bilateral debt deal announcement
-
-*2024-06-27 15:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-leaders-downplay-bilateral-debt-deal-announcement-169870/) · `en`
-
-ECONOMYNEXT — Both opposition leader Sajith Premadasa and leftist National People’s Power (NPP) leader Anura Kumara Dissanayake have dismissed the announcement of Sri Lanka’s debt deferment agreement with bilateral creditors, pointing instead to negotiations still ongoing with commercial creditors.
-
-Premadasa speaking at an event accused the government of telling “earth-shattering lies”.
-
-“The latest gamble is fooling the people. Earth shattering lies are being told. If you look at this data, no one will accept that our country has come out of bankruptcy. They’re trying to show just the bilateral agreement and claim that we have come out of bankruptcy. There are many types of debt. There has been no definite agreement reached with creditors on international sovereign bonds (ISBs),” he said.
-
-Premadasa also claimed that the government has been hiding information and data relevant to debt restructuring.
-
-...
-
-[Data](articles/14dd94d9.json)
-
-[Extended Data](ext_articles/14dd94d9.ext.json)
 
 ---

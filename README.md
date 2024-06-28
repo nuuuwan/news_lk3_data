@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 09:54:05**
+As of **2024-06-28 10:05:55**
 
 ## Newspaper Stats
 
-*Scraped **32,591** Articles*
+*Scraped **32,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,901
 dailyftlk | 1,998
 adalk | 2,886
 adaderanalk | 3,706
-tamilmirrorlk | 3,849
+tamilmirrorlk | 3,851
 dailymirrorlk | 4,733
 virakesarilk | 5,068
 adaderanasinhalalk | 5,358
@@ -26,27 +26,63 @@ adaderanasinhalalk | 5,358
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,590 (100.0%) of 32,591 articles have been extended.
+32,591 (100.0%) of 32,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### යතුරුපැදිය ලොරියක ගැටී තරුණයෙක් මරුට
+### முட்டை உற்பத்தியை அதிகரிக்க புதிய திட்ட்ம்
+
+*2024-06-28 09:55:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-உற்பத்தியை-அதிகரிக்க-புதிய-திட்ட்ம்/175-339569) · `ta`
+
+முட்டை உற்பத்தியை அதிகரிக்க தொழில்முனைவோருக்கு 160,000 கோழிக் குஞ்சுகள் வழங்ஞம் புதிய திட்டம் ஆரம்பித்துள்ளதாக விவசாய அமைச்சர் மகிந்த அமரவீர தெரிவித்துள்ளார்.
+
+இந்த நாட்டிற்குத் தேவையான மொத்த முட்டை மற்றும் பால் உற்பத்தியில் இன்னும் எம்மால் தன்னிறைவு அடைய முடியவில்லை என்றும் குறிப்பிட்டார்.
+
+இதேவேளை, கடைகளில் ஒரு முட்டை 50 - 55 ரூபாய் வரை விற்பனை செய்யப்படுகின்றமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/95e944a2.json)
+
+---
+
+### சஞ்சய மஹவத்த கைது
+
+*2024-06-28 09:32:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஞ்சய-மஹவத்த-கைது/175-339568) · `ta`
+
+'Magen Ratata' அமைப்பின் தலைவர் சஞ்சய மஹவத்த குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+
+சிரேஷ்ட பொலிஸ் அதிகாரிகளுக்கு எதிராக பொய்யான குற்றச்சாட்டுகளை சுமத்திய சம்பவம் தொடர்பில் சஞ்சய் மஹவத்த கைது செய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர்  நிஹால் தல்துவ தெரிவித்தார். R
+
+◼️
+
+[Data](articles/fd7f87a5.json)
+
+---
+
+### Youth dies after colliding at a lorry
 
 *2024-06-28 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198243) · `si`
 
-හයිලෙවල් මාර්ගයේ හංවැල්ල - වනහගොඩ ප්‍රදේශයේදී අද (28) අලුයම සිදුවු ලොරි - යතුරුපැදි අනතුරකින් 18 හැවිරිදි තරුණයෙකු එම ස්ථානයේදීම ජීවිතක්ෂයට පත්වී තිබේ.
+An 18-year-old motorcyclist, Janith SumHhan Priyadarshana from Hanwella, died when his bike collided with a lorry on Hylavel road. The incident occurred as the lorry was moving towards Avissawella. The driver has been arrested for investigation.
 
-ප්‍රදර්ශනය අවසන් කළ තොරණක් ලොරි රථයකින් අවිස්සාවේල්ල දෙසට ප්‍රවාහනය කරමින් සිටියදී ලොරි රථයේ ඉන්ධන අවසන් වීමෙන් පසු මාර්ගය අයිනේ නවතා තිබියදී වේගයෙන් පැමිණි යතුරපැදිය එම ලොරි රථයේ පසුපස ගැටී ඇත.
+🟩
 
-අනතුරින් යතුරුපැදිය පදවාගෙන පැමිණි හංවැල්ල ගිරාඉඹුල ප්‍රදේශයේ පදිංචි ජනිත් ගිම්හාන් ප්‍රියදර්ශන නමැති තරුණයා මියගොස් ඇත.
+An 18-year-old youth was killed in a motorcycle accident in Hylavel road in Hanwella - Weight.
 
-සිද්ධිය සම්බන්ධයෙන් ලොරි රථයේ රියදුරු සැකපිට අත්අඩංගුවට ගෙන ඇති අතර හංවැල්ල පොලීසිය වැඩිදුරට විමර්ශන සිදු කරයි.
+When the exhibition was transporting a lorry to Avissawella towards Avissawella, the rapidly reached the back of the lorry after the end of the lorry.
+
+Janith SumHhan Priyadarshana, a resident of the Hanwella Girambulambu, who was riding the motorcycle, has died.
+
+The lorry driver has been arrested on suspicion of the incident and the Hanwella police are conducting further investigations.
 
 ◼️
 
 [Data](articles/194f5a30.json)
+
+[Extended Data](ext_articles/194f5a30.ext.json)
 
 ---
 
@@ -2223,51 +2259,5 @@ The conference will be attended by Chinese President Xi Jinping, Prime Minister 
 [Data](articles/d221fbe9.json)
 
 [Extended Data](ext_articles/d221fbe9.ext.json)
-
----
-
-### Records change - 43 runs per ball
-
-*2024-06-27 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198219) · `si`
-
-In a recent cricket tournament, Lestershire's Louis Philip James made headlines with his exceptional batting performance, scoring 43 runs off just one over, including several sixes and fours. This feat surpassed previous records set by Andrew Flindoff in 1998 and Dan Laurence in 2024.
-
-🟩
-
-There were many reports in a state cricket tournament that ended yesterday (26).
-
-Lestershire was the highest scorer in the second innings, Louis Philip James.
-
-His innings was the specialty of the one overs that he sent 43 runs in one over.
-
-There he was 6, 6 (a skill), 4, 6, 4, 6 (a skill), 4, 6 (a skills), and 1 runs.
-
-Robinson had to send nine balls with 3 balls with 3 ninetes to complete the ball.
-
-Earlier, in one bowler team won the highest number of marks at the England County Andrew Flindoff (1998) and Dan Laurence (2024) in Surrey State.
-
-◼️
-
-[Data](articles/869f4b5e.json)
-
-[Extended Data](ext_articles/869f4b5e.ext.json)
-
----
-
-### Supreme Court decides to expedite case over nominating SC judges
-
-*2024-06-27 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100145/supreme-court-decides-to-expedite-case-over-nominating-sc-judges-) · `en`
-
-The Supreme Court has decided to expedite and take up on 25 July the case on which it previously issued an interim stay order on the President and the Constitutional Council preventing them from nominating judges to the Supreme Court of Sri Lanka.
-
-On April 30, the Supreme Court had issued an interim stay order on the President and the Constitutional Council, preventing them from nominating judges to the Supreme Court, except for the position of Chief Justice.
-
-The Supreme Court had issued this interim order while allowing the hearing of a petition submitted by a lawyer against the decision taken by the Constituent Council to reject the nomination submitted by the President for the appointment of the incumbent President of the Court of Appeal, Justice Nissanka Bandula Karunaratne as a Supreme Court Judge.
-
-◼️
-
-[Data](articles/6ecdd383.json)
-
-[Extended Data](ext_articles/6ecdd383.ext.json)
 
 ---

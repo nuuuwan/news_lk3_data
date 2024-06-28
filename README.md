@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 07:25:03**
+As of **2024-06-28 07:48:07**
 
 ## Newspaper Stats
 
-*Scraped **32,569** Articles*
+*Scraped **32,583** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,111 @@ bbccomsinhala | 320
 newsfirstlk | 363
 islandlk | 1,813
 economynextcom | 1,901
-dailyftlk | 1,988
+dailyftlk | 1,998
 adalk | 2,885
-adaderanalk | 3,703
+adaderanalk | 3,704
 tamilmirrorlk | 3,847
 dailymirrorlk | 4,733
 virakesarilk | 5,068
-adaderanasinhalalk | 5,352
+adaderanasinhalalk | 5,355
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,568 (100.0%) of 32,569 articles have been extended.
+32,569 (100.0%) of 32,583 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### Sanjaya Mahawatta arrested by TID
+
+*2024-06-28 07:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100151/sanjaya-mahawatta-arrested-by-tid) · `en`
+
+The Chairman of ‘Magen Ratata’ movement Sanjaya Mahawatta has been arrested by the Terrorism Investigation Division (TID) for allegedly making false allegations against senior police officers, police said.
+
+◼️
+
+[Data](articles/0e20170e.json)
+
+---
+
+### සංජය මහවත්ත අත්අඩංගුවට
+
+*2024-06-28 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198240) · `si`
+
+ජ්‍යේෂඨ පොලිස් නිලධාරීන්ට අසත්‍ය චෝදනා එල්ල කිරීමේ සිද්ධියක් සම්බන්ධයෙන් සංජය මහවත්ත අත්අඩංගුවට ගෙන ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/8984939c.json)
+
+---
+
+### විශ්‍රාම වැටුප් වැඩිපුර ගෙවලා
+
+*2024-06-28 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198239) · `si`
+
+ගම්පහ දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කාර්යාල 13ක පසුගිය වසරේ දෙසැම්බර් 31 වනදා වන විට විශ්‍රාම වැටුප් ලබමින් සිටි විශ්‍රාමිකයින් 419 දෙනෙකු සඳහා රුපියල් කෝටි 4කට අධික මුදලක් වැඩිපුර ගෙවා ඇති බව රජයේ ගිණුම් පිළිබද කාරක සභාවේදී අනාවරණය වී තිබේ.
+
+මියගිය බව දැනුම් දීමට ප්‍රමාදවීම, ජීවිත සහතික ලබා නොදෙන විශ්‍රාමිකයින්ගේ විශ්‍රාම වැටුප් තාවකාලිකව නතර කිරීමට කටයුතු නොකිරීම, විශ්‍රාම වැටුප් චක්‍රලේඛවලට අනුගත නොවීම සහ වෙනත් හේතුන් මත මෙලෙස මෙම මුදල් ගෙවීම් සිදු කර ඇති බව විගණන නිලධාරීන් පෙන්වා දී ඇත.
+
+ගම්පහ දිස්ත්‍රික් ලේකම් කාර්යාලයේ පසුගිය වසරවල විගණකාධිපති වාර්තා සහ වර්තමාන කාර්ය සාධනය පරීක්ෂා කිරීම සඳහා රජයේ ගිණුම් පිළිබඳ කාරක සභාව පසුගියදා පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථාවේදී මෙම තොරතුරු අනාවරණය වුණි.
+
+ඒ අනුව විශ්‍රාම වැටුප් ගෙවීමේදී සිදුවන අක්‍රමිකතා සහ ගැටලු හඳුනාගෙන ඒවා කඩිනමින් විසඳීමට පියවර ගන්නා ලෙස කාරක සභාව විසින් නිලධාරීන්ට උපදෙස් ලබාදී තිබේ.
+
+◼️
+
+[Data](articles/86196767.json)
+
+---
+
+### මල්ශාලා හිමිකරු ඝාතනයේ සැකකරු පොලීසියටම ඇවිත්
+
+*2024-06-28 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198238) · `si`
+
+මල්ශාලා හිමිකරුවෙකු කපා කොටා ඝාතනය කිරීමේ අපරාධයේ සැකකරු ඊයේ (27) සවස නීතිඥයෙකු මාර්ගයෙන් අම්බලන්ගොඩ පොලීසියට භාරවීමෙන් පසු අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/c382c216.json)
+
+---
+
+### Descent into lunacy
+
+*2024-06-28 06:33:28* · [`dailyftlk`](https://www.ft.lk/columns/Descent-into-lunacy/4-763582) · `en`
+
+A response to “President raises point of order in Parliament over SC ruling on Gender Equality Bill” published in the Daily FT of 19 June 2024 (https://www.ft.lk/news/President-raises-point-of-order-in-Parliament-over-SC-ruling-on-Gender-Equality-Bill/56-763217#:~:text=President%20Ranil%20Wickremesinghe%20yesterday%20in,to%20look%20into%20the%20matter.)
+
+...
+
+[Data](articles/a913667f.json)
+
+---
+
+### Namal raises concerns over policy differences with President
+
+*2024-06-28 06:16:55* · [`dailyftlk`](https://www.ft.lk/news/Namal-raises-concerns-over-policy-differences-with-President/56-763577) · `en`
+
+Sri Lanka Podujana Peramuna National Organiser and Parliamentarian Namal Rajapaksa
+
+Criticises some actions of President Ranil Wickremesinghe, noting they do not align with SLPP policies
+
+Recalls past successes of SLPP leadership in ending SL’s three-decade long conflict and following development
+
+Blames Aragalaya for country’s collapse and questions if long queues for gods were orchestrated by a group
+
+Asserts SLPP’s readiness for upcoming elections and Opposition to any delays
+
+Sri Lanka Podujana Peramuna National Orga-niser and Parliamentarian Namal Rajapaksa has said that some actions taken by President Ranil Wickremesinghe do not align with SLPP policies. Speaking at a party electoral organising meeting in Medawachchiya yesterday, Rajapaksa noted that while the SLPP appointed Wickremesinghe as President and supported certain legislations he introduced, the party disagrees with some of his policies as they do not align with those of the SLPP.
+
+...
+
+[Data](articles/4ea8f812.json)
+
+---
 
 ### Rain today
 
@@ -53,6 +141,118 @@ From the Western slopes of the central hills, Trincomalee, Trincomalee and Moner
 [Data](articles/17175548.json)
 
 [Extended Data](ext_articles/17175548.ext.json)
+
+---
+
+### Govt. MPs assure no postponement of elections, emphasise stability
+
+*2024-06-28 06:15:42* · [`dailyftlk`](https://www.ft.lk/news/Govt-MPs-assure-no-postponement-of-elections-emphasise-stability/56-763576) · `en`
+
+In a joint press briefing on Wednesday, Chief Organiser of the ruling party and Minister Prasanna Ranatunga, along with Minister Manusha Nanayakkara and MP Mahinda Nanayakkara, called for public support to continue on the path of economic stability and development, urging everyone to look at the situation intelligently and make informed decisions.
+
+...
+
+[Data](articles/8e49edf4.json)
+
+---
+
+### BASL condemns Parliamentary attacks on judicial independence
+
+*2024-06-28 06:14:21* · [`dailyftlk`](https://www.ft.lk/news/BASL-condemns-Parliamentary-attacks-on-judicial-independence/56-763575) · `en`
+
+Expresses dismay over comments made about individual judges’ conduct and rulings by Justice Minister
+
+Stresses that JSC should have exclusive control over disciplinary actions of judicial officers without legislative interference
+
+Says it views Parliamentary remarks as a threat to rule of law and judicial independence
+
+Warns Parliamentary criticisms of judges could mislead public and undermine confidence in judicial system
+
+The Bar Association of Sri Lanka (BASL) this week condemned the parliamentary attacks on judicial independence.
+
+This statement follows a series of remarks against the judiciary by the Justice Minister Dr. Wijeyadasa Rajapakshe and several Members of Parliament during a Parliamentary debate on 19 June.
+
+...
+
+[Data](articles/7f1d224e.json)
+
+---
+
+### National Business Excellence Awards concludes successfully
+
+*2024-06-28 06:13:28* · [`dailyftlk`](https://www.ft.lk/business/National-Business-Excellence-Awards-concludes-successfully/34-763574) · `en`
+
+Overall winners of NBEA 2024 and Office Bearers of the Chamber are in the picture. From left: National Chamber Deputy President Kavinda Rajapakse, National Chamber President Deepal Nelson, LAUGFS Corporation – Rubber (Bronze Award Winner), Haycarb (Gold Award Winner), Hayleys Fabric (Joint Silver Award Winner), Samson Rubber Industries (Joint Silver Award Winner) and National Chamber Senior Deputy President Anura Warnakulasooriya
+
+The National Chamber announced that the “The National Business Excellence Awards 2024” celebrating its 19th year was concluded successfully in a grand manner on Thursday, 20 June 2024 at Shangri-La, attended by the large gathering of business community, leaders from corporate world, distinguished guests and invitees.
+
+...
+
+[Data](articles/b6834cad.json)
+
+---
+
+### Ceylon Chamber of Commerce re-elects Chairman Duminda Hulangamuwa and Board at 185th AGM
+
+*2024-06-28 06:11:34* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-of-Commerce-re-elects-Chairman-Duminda-Hulangamuwa-and-Board-at-185th-AGM/34-763573) · `en`
+
+The Ceylon Chamber of Commerce announced the re-election of its Board for the Year 2024/25 at the Chamber’s 185th Annual General Meeting held yesterday.
+
+The re-elected Board comprises Chairman – Ernst & Young Country Managing Partner for Sri Lanka and Maldives Duminda Hulangamuwa, Vice Chairman – John Keells Holdings PLC Chairman Krishan Balendra and Deputy Vice Chairman – Standard Chartered Bank Sri Lanka CEO Bingumal Thewarathanthri. Lion Brewery (Ceylon) PLC Chairman Amal Cabraal, Hemas Holdings PLC Non-Executive Director Kasturi Chellaraja Wilson, Hayleys PLC Executive Director Sarah Ganegoda, Dialog Axiata PLC Director/Group CEO Supun Weerasinghe, Hirdaramani Group Chairman Vinod Hirdaramani and Ceylon Chamber Secretary General/CEO Buwanekabahu Perera.
+
+...
+
+[Data](articles/f66aa267.json)
+
+---
+
+### Dipped Products unveils world’s first purpose-built EVPRO glove for EV industry
+
+*2024-06-28 06:10:32* · [`dailyftlk`](https://www.ft.lk/business/Dipped-Products-unveils-world-s-first-purpose-built-EVPRO-glove-for-EV-industry/34-763572) · `en`
+
+From left: Hayleys Executive Director Rajitha Kariyawasan, Hayleys Group Chairman and Chief Executive Mohan Pandithage, DPL Managing Director Pushpika Janadheera and DPL General Manager – Technical and Research Development Upul Ratnayake
+
+R&D drives innovations for niche premium export markets at Hayleys Group Hand Protection sector
+
+Dipped Products PLC (DPL), a global leader in sustainable, premium glove manufacturing and member of the Hayleys Group, announced the launch of the EVPRO Glove - the first ever product specifically engineered to meet the unique hand protection requirements of Electric Vehicle (EV) professionals.
+
+Offering unmatched safety and mobility for electrical engineers, the EVPRO Glove provides crucial protection against electric shock during the handling and maintenance of electrical vehicles.
+
+...
+
+[Data](articles/6d4d0504.json)
+
+---
+
+### Star Garments Group wins Silver Award for ‘Energy Efficiency in Industry’ for Innovation Centre
+
+*2024-06-28 06:08:32* · [`dailyftlk`](https://www.ft.lk/business/Star-Garments-Group-wins-Silver-Award-for-Energy-Efficiency-in-Industry-for-Innovation-Centre/34-763571) · `en`
+
+Star Garments Senior Manager – Group Sustainability and Compliance Senura Dharmadasa receiving the award from IDB Chairman Dr. Saranga Alahapperuma. Executive – Group Sustainability Chalani Panditha is also present
+
+Star Garments Group was recently recognised at the first-ever International Symposium on Green Industry Initiative for Sustainable Industrial Development (ISGSD), winning a Silver Award in the ‘‘Energy Efficiency in Industry” category for its Innovation Centre based in Katunayake, the first ‘Passive house factory building’ in the world and first “Passive House Design” in South Asia.
+
+It is also the first LEED Platinum building in Sri Lanka to be certified under latest LEED V4.
+
+The event, organised by the Industrial Development Board (IDB) and Industries Ministry was held on 20-23 June at the BMICH, Colombo.
+
+...
+
+[Data](articles/5d2f15e6.json)
+
+---
+
+### Why do banks exist?
+
+*2024-06-28 06:06:59* · [`dailyftlk`](https://www.ft.lk/columns/Why-do-banks-exist/4-763570) · `en`
+
+Fitch placed 13 Sri Lankan banks on Rating Watch Negative on 12-04-2022 during the crisis
+
+Two leading Ministers Dr. Ramesh Pathirana and Dr. Wijeyadasa Rajapakshe on Sunday lambasted the banking sector for half-hearted support to the struggling Micro, Small and Medium Entrepreneurs (MSMEs) thereby endangering a quicker recovery in the economy following multiple crises. Industries and Health Minister Dr. Ramesh Pathirana on Sunday urged enterprises to take a stand against unfair banking practices and to continue lobbying for their interests regardless of political affiliations.
+
+...
+
+[Data](articles/d3abda4b.json)
 
 ---
 
@@ -83,6 +283,18 @@ Accordingly, 2024 will be held on the coming Saturday between the ninth Saturday
 [Data](articles/c1d2a9ba.json)
 
 [Extended Data](ext_articles/c1d2a9ba.ext.json)
+
+---
+
+### Management of international reserves
+
+*2024-06-28 05:54:59* · [`dailyftlk`](https://www.ft.lk/columns/Management-of-international-reserves/4-763560) · `en`
+
+Since the official international reserves are readily available to and controlled by the monetary authorities, they help build up confidence in market players that a country would meet its regular external payment obligations in a timely manner
+
+...
+
+[Data](articles/bc1aa766.json)
 
 ---
 
@@ -2021,335 +2233,5 @@ The petition was then taken to hear the petition on 25th July.
 [Data](articles/e5d83549.json)
 
 [Extended Data](ext_articles/e5d83549.ext.json)
-
----
-
-### Prisoner died from prisoners
-
-*2024-06-27 15:30:58* · [`adalk`](https://www.ada.lk/breaking_news/සිරකරුවන්ගෙන්-ගුටි-කෑ-සිරකරුවෙකු-මියයි/11-410479) · `si`
-
-A prisoner died in Galle Prison on 26th. Identified as someone arrested in Poddala, Galle. Further investigation ongoing.
-
-🟩
-
-The Galle Police say a prisoner has been admitted to the Galle Prison Prisoners in Galle Prison yesterday (26).
-
-The deceased has been identified as police arrested in Poddala in Poddala, Galle.. Galle Police are conducting further investigations.
-
-◼️
-
-[Data](articles/56e3dd49.json)
-
-[Extended Data](ext_articles/56e3dd49.ext.json)
-
----
-
-### Sri Lanka’s Dialog Axiata completes acquisition of Bharti Airtel Lanka
-
-*2024-06-27 15:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-dialog-axiata-completes-acquisition-of-bharti-airtel-lanka-169857/) · `en`
-
-ECONOMYNEXT – Sri Lanka telco company Dialog Axiata Plc said it had completed the acquisition of Bharti Airtel
-
-“Dialog has acquired 100% of the issued shares in Airtel Lanka on 26 June 2024,” the company said in a stock exchange filing.
-
-Dialog announced in April it was entering in to a Share Sale Agreement with Bharti Airtel Limited for the acquisition of the entirety of the issued shares of Bharti Airtel Lanka Private Limited (Airtel Lanka).
-
-As part of the acquisition, Dialog issued 952,694,689 ordinary voting shares by way of a share swap to Bharti on Wednesday (26), which amounts to 10.355 percent of the total issued shares of Dialog.
-
-“Airtel Lanka is now a fully owned subsidiary of Dialog, and Dialog aims to amalgamate with Airtel Lanka under the applicable provisions of the Companies Act No. 7 of 2007, with Dialog remaining as the amalgamated company.”
-
-...
-
-[Data](articles/a9504785.json)
-
-[Extended Data](ext_articles/a9504785.ext.json)
-
----
-
-### FAO distributes tool kits to Sri Lanka farmers to encourage GAP adoption
-
-*2024-06-27 15:19:00* · [`economynextcom`](https://economynext.com/fao-distributes-tool-kits-to-sri-lanka-farmers-to-encourage-gap-adoption-169856/) · `en`
-
-ECONOMYNEXT — The Food and Agriculture Organisation of the United Nations (FAO) has provided agriculture tool kits to over 600 smallholder vegetable farmers in Sri Lanka’s Badulla, Monaragala, and Mullaitivu districts to encourage the adoption of Good Agricultural Practices (GAP), the agency said.
-
-The FAO said in a statement on Thursday June 27 that the initiative had focused on equipping targeted farmers with the tools and knowledge necessary to “effectively adopt modern, climate-resilient approaches to agriculture”.
-
-Participants were provided with agriculture kits tailored for a land area of 0.25 acres. These kits comprised essential components such as drip irrigation systems, plastic mulch, insect-proof nets, and Galvanized Iron (GI) pipes, enabling efficient resource utilisation and cost reduction, the organisation said.
-
-...
-
-[Data](articles/b417ed27.json)
-
-[Extended Data](ext_articles/b417ed27.ext.json)
-
----
-
-### One killed in crashing tipper vehicle accident
-
-*2024-06-27 15:17:43* · [`adalk`](https://www.ada.lk/breaking_news/අසපුවට-පූජා-කරන-ලද-ටිපර්-රථය-අනතුරට-ලක්-වී-මහණදම්-පිරීම-සඳහා-සූදානම්ව-සිටි-අයෙක්-මරුට/11-410478) · `si`
-
-A fatal crash involving a tipper truck occurred at Tipper Ingiriya Junction, resulting in one death and one injury. The victim, NIN Kasun Sameera Uphahusha, was identified as a resident of Kalanu Nadugala Pottuvil Road. Despite efforts by medical staff, including Specialist Dr. Isuru Gayan Abeywardena from Horana Base Hospital, the injured passenger succumbed to injuries. The driver of the three-wheeler involved in the accident was also hospitalized. Investigations are ongoing under the leadership of Ingiriya Police OIC Chief Inspector Tilakaratne, with no reports of the driver being aware of the accident.
-
-🟩
-
-According to Ingiriya Police, another injured in the Tipper Ingiriya Junction, who was preparing to fill the padukka road in the Padukka road, the Tipper Ingiriya Junction.
-
-The deceased has been identified as NIN Kasun Sameera Uphahusha, a resident of the Kalanu Nadugala Pottuvil Road.
-
-Specialist Dr. Isuru Gayan Abeywardena in charge of the Horana Base Hospital in the Horana Base Hospital.The police said that the patient was taken to the Ingiriya hospital and was taken into custody.
-
-The doctors, including the doctor, tried to save the patient's lives, but he died.
-
-Police say the other person was the driver
-
-The tipper vehicle was taken to the police with a disaster car, police said that the three-wheeler driver was admitted to the Ingiriya Regional Hospital.
-
-Investigations have revealed that the tipper who was killed in a tipper junction with two other people who were killed in a tipper to Padukka.
-
-...
-
-[Data](articles/e63e2f24.json)
-
-[Extended Data](ext_articles/e63e2f24.ext.json)
-
----
-
-### President warns of measures to designate teaching as an essential service
-
-*2024-06-27 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100143/president-warns-of-measures-to-designate-teaching-as-an-essential-service) · `en`
-
-President Ranil Wickremesinghe emphasized the importance of teachers being present in schools during school hours for the education of the nation’s children.
-
-He warned that if this commitment is not upheld in the future and school children are deprived of their education as a result, necessary measures will be taken to designate the teaching profession as an essential service, the President’s Media Division reported.
-
-President Wickremesinghe mentioned this during his visit to the Asgiri Maha Viharaya. The President received blessings from the Most Venerable Warakagoda Sri Gnanarathana Maha Nayaka Thero, the Chief Prelate of the Asgiriya Chapter. President Wickremesinghe also participated in a cordial conversation with the Maha Nayaka Thero.
-
-...
-
-[Data](articles/4a01d311.json)
-
-[Extended Data](ext_articles/4a01d311.ext.json)
-
----
-
-### Vavuniya University
-
-*2024-06-27 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/187100) · `ta`
-
-Non-academic staff at Vavuniya University joined protests on the 57th day, demanding pay hikes and condemning police actions against principals. Teachers in Colombo also marched, expressing solidarity and opposing the use of force and water cannons.
-
-🟩
-
-The non -academic staff of the University of Vavuniya were engaged in a rally on Thursday (27).
-
-Non -academic staff of Sri Lanka are engaged in their workshop for the 57th day and the Satyagraha struggle.
-
-In the meantime, the teacher who was protesting in Colombo on Wednesday held a procession on Thursday (27), condemning the use of water and tear gas on the principals and demanding the immediate pay hike.
-
-The procession started from the Vavuniya University External Studies Building Building at Vavuniya Park Road and reached the old bus station through the city.
-
-◼️
-
-[Data](articles/a94befd5.json)
-
-[Extended Data](ext_articles/a94befd5.ext.json)
-
----
-
-### Sri Lankan commitment is appreciation of the world
-
-*2024-06-27 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198216) · `si`
-
-Sri Lanka's efforts to achieve sustainable growth through necessary reforms have garnered international support, including from the US Ambassador and the Paris Club. The restructuring of its debt, involving significant reductions and extensions on loan repayments, aims to stabilize the economy and rebuild trust in the financial sector. This move, which includes contributions from India, marks a crucial step towards Sri Lanka's economic recovery and sustainable development path.
-
-🟩
-
-The Paris Club, including the Sri Lanka Loan Committee, says the attempt to implement the necessary reforms in order to enter Sri Lanka to reach a sustainable growth path.
-
-US Ambassador to India and Sri Lanka has expressed their appreciation for the restructuring agreement of Sri Lanka yesterday.
-
-The Indian External Affairs Ministry issues announcement and says Sri Lanka's economic revival, growth and stability is committed to achieving growth and stability.
-
-Sri Lanka's Ambassador July Chang, July Chang, was also welcomed by Sri Lanka's debt restructuring agreements.
-
-She said that agreements would help to build trust in the financial environment of the country.
-
-Meanwhile, the comment of Paris Club belonging to the official creditors of the country is commendable to implement Sri Lanka to a sustainable development path.
-
-When Sri Lanka announced the payment of loan on April 12, 2022, the Sri Lankan government was left to pay foreign debt.
-
-...
-
-[Data](articles/e5fc221d.json)
-
-[Extended Data](ext_articles/e5fc221d.ext.json)
-
----
-
-### Keheliya’s writ petition fixed for further consideration
-
-*2024-06-27 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100142/keheliyas-writ-petition-fixed-for-further-consideration) · `en`
-
-The Court of Appeal has order for the writ petition filed on behalf of former Health Minister Keheliya Rambukwella to be taken up for further consideration on July 01.
-
-Rambukwella’s petition seeks to invalidate the Maligakanda Magistrate’s Court order to place him in remand custody until the conclusion of the trial concerning the procurement of substandard human intravenous immunoglobulin (IVIG) vials.
-
-When the case was taken for consideration today (27), Deputy Solicitor General Nirmalan Wigneswaran presented the facts to the court on behalf of the Attorney General.
-
-◼️
-
-[Data](articles/9c4e8b77.json)
-
-[Extended Data](ext_articles/9c4e8b77.ext.json)
-
----
-
-### Sri Lanka Navy recruiting cadre to safeguard country’s Exclusive Economic Zone
-
-*2024-06-27 14:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-navy-recruiting-cadre-to-safeguard-countrys-exclusive-economic-zone-169846/) · `en`
-
-ECONOMYNEXT – Sri Lanka is recruiting members for its naval force with advertisements calling for applications from cadet entry officers, direct entry artificers, artificers, sailors, and officers.
-
-The government plans to strengthen the navy to safeguard the country’s Exclusive Economic Zone (EEZ) in the Indian Ocean, the island nation’s state defence minister said last month.
-
-“We need to strengthen both navy and the air force. We are in a strategic position globally. Our EEZ is eight times larger than our country. So improving the strength of navy is also our objective,” Pramitha Bandara Tennakoon said.
-
-It will reduce its army cadre by more than 50 percent, he said. Sri Lanka is in the process of reducing a bloated state sector which is estimated at around 1.5 million in a country with 22 million population.
-
-...
-
-[Data](articles/c9b77567.json)
-
-[Extended Data](ext_articles/c9b77567.ext.json)
-
----
-
-### Mahinda traveled to China
-
-*2024-06-27 14:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனாவுக்கு-பயணமானார்-மஹிந்த/175-339535) · `ta`
-
-Former Sri Lanka President Mahinda Rajapakse visited China on 27th, where he plans to meet with Chinese PM Lee Kiang and Foreign Minister Wang Yi during his stay.
-
-🟩
-
-Former President Mahinda Rajapakse, who visited China on Thursday morning (27), will meet with Chinese Prime Minister Lee Kiang and Foreign Minister Wang Yi while staying there.
-
-◼️
-
-[Data](articles/d2de49f1.json)
-
-[Extended Data](ext_articles/d2de49f1.ext.json)
-
----
-
-### Concellent notes printing pressed by tightening
-
-*2024-06-27 14:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198215) · `si`
-
-Tambuttegama police arrested six suspects, aged 17, 17, 17, 49, and 54, for printing counterfeit Rs. 5,000 notes. Three were detained initially, followed by three more after further investigation.
-
-🟩
-
-Tambuttegama police have arrested three suspects who printed fake currency notes.
-
-A 17-year-old Udunuvana Colony, a 17-year-old Udiyana, a 17-year-old resident of Nochchiyagama, was arrested on the 25th.
-
-In further interrogation of the suspect, three more suspects have been arrested yesterday (26).
-
-The suspects were taken into custody for eight fake Rs. 5,000 forged Rs.
-
-The arrested suspects are residents of Hettipola, aged 17,49 and 54 years.
-
-◼️
-
-[Data](articles/c76768d5.json)
-
-[Extended Data](ext_articles/c76768d5.ext.json)
-
----
-
-### Two bodies recovery at the public rectum in Nuwara Eliya
-
-*2024-06-27 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187099) · `ta`
-
-In Nuwara Eliya, two bodies were found in the public rectum near the main bus parking lot. A 71-year-old man from Blackpool and a 51-year-old from Aryapura died after falling into a sewage pit. The incident occurred during the 1990 emergency patient carriage service. The bodies were taken to the Nuwara Eliya District General Hospital for autopsy following their discovery.
-
-🟩
-
-Two bodies have been recovered from the public rectum at the Nuwara Eliya main bus parking lot.
-
-The body of a 71 -year -old elderly man from Blackpool Ruwan Elia, Nuwara Eliya on Wednesday night (26) night, and the body of a 51 -year -old from Aryapura Bogawantalawa on Thursday (27) have been recovered.
-
-The public, who noticed that two people had fallen into the sewage hall, confirmed that the two men had died of the 1990 emergency patient carriage service.
-
-The bodies have been placed in the funeral room of the Nuwara Eliya District General Hospital for autopsy.
-
-The police said that the bodies were rescued on the basis of a phone call from the police that the bodies were falling into the sewage hall.
-
-◼️
-
-[Data](articles/79981a3b.json)
-
-[Extended Data](ext_articles/79981a3b.ext.json)
-
----
-
-### The man who escaped wearing a Habaya telephone number
-
-*2024-06-27 14:17:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/ஹபாயா-அணிந்து-தப்பியவர்-சிக்கினார்/75-339534) · `ta`
-
-In a bizarre escape attempt, a 54-year-old mother and her 31-year-old daughter were arrested after covering themselves in Habaiah, a type of fabric used for clothing. The incident occurred in the Echanagar area, where a 38-year-old man was also arrested for attacking them due to unpaid debt. The mother was injured and hospitalized. Further investigations are ongoing.
-
-🟩
-
-A 54 -year -old mother and her 31 -year -old daughter have been arrested while trying to escape by wearing Habai, who was completely covered with his face.
-
-The incident took place on Wednesday evening (26) at Echanagar area of ​​the Thambalakamam police division.. Thambalakamam police said that a 38 -year -old family man has been arrested for trying to escape by wearing Habai.
-
-He is a native of Muttur and is married to Eacha Nagar.
-
-The mother, who was injured in the attack, is being treated at the Batticaloa General Hospital. .
-
-The suspect arrested for the attack in Eacha Nagar area has borrowed money. In order to recover it, the woman went to the shop's telephone call shop.
-
-However, the furious man will not return the money, and he went to the woman's house and attacked the mother and daughter.
-
-Habaiah was arrested for closing his face to escape from it.   சம்பவம் தொடர்பிலான மேலதிக விசாரணைகளை முன்னெடுத்துள்ளதாக  தம்பலகாமம் பொலிஸார்  தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/048df237.json)
-
-[Extended Data](ext_articles/048df237.ext.json)
-
----
-
-### Increase in mysterious deaths in Karachi;29 bodies recovery in 3 days
-
-*2024-06-27 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/187097) · `ta`
-
-Karachi faces mystery deaths: 29 bodies found in 3 days. Officials probe causes, suspect heatwave impact. Charities recover bodies, hospitals see surge in patients with symptoms like fever & diarrhea. Temperatures soar, power cuts exacerbate conditions.
-
-🟩
-
-Officials say the bodies of 29 people who died mysteriously in Karachi, Pakistan, have been recovered from several parts of the city in three days.
-
-Officials said there were no injuries in the seats and that investigations are being conducted to find out the cause of the deaths.
-
-Officials said that nine bodies were recovered from several parts of the city on Tuesday.
-
-Five bodies by volunteers of the 'Chipa' charity and 4 bodies by the 'opposite' charity have been recovered on Tuesday (25).
-
-As a result, the number of bodies recovered in Karachi in three days up to Mars has increased to 29.
-
-Sindh Provincial Home Minister Zia Langanar said that the number of bodies brought to the large hospitals and the corpses of Karachi is on the rise.
-
-In a statement, Minister Zia said in a statement that if the investigation was found in the severe heat, the power supply would be responsible for the power supply in Karachi and that the murder case would be filed against the company's management.
-
-...
-
-[Data](articles/8a0cc023.json)
-
-[Extended Data](ext_articles/8a0cc023.ext.json)
 
 ---

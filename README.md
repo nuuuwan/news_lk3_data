@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 10:19:46**
+As of **2024-06-28 10:34:48**
 
 ## Newspaper Stats
 
-*Scraped **32,596** Articles*
+*Scraped **32,597** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,813
 economynextcom | 1,901
 dailyftlk | 1,998
 adalk | 2,886
-adaderanalk | 3,707
+adaderanalk | 3,708
 tamilmirrorlk | 3,851
 dailymirrorlk | 4,733
 virakesarilk | 5,068
@@ -26,49 +26,79 @@ adaderanasinhalalk | 5,360
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,593 (100.0%) of 32,596 articles have been extended.
+32,596 (100.0%) of 32,597 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### සුනඛයෙකු සපාකෑ පුංචි දියණිය මරුට
+### Hirunika sentenced to 3 years rigorous imprisonment
+
+*2024-06-28 10:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100154/hirunika-sentenced-to-3-years-rigorous-imprisonment) · `en`
+
+Former Member of Parliament Hirunika Premachandra has been sentenced to three years rigorous imprisonment by the Colombo High Court.
+
+The former SJB parliamentarian was sentenced after being found guilty of involvement in the abduction and wrongful detention of a young man who was employed in a shop in the Dematagoda area.
+
+The sentencing was delivered by Colombo High Court Judge Amal Ranaraja on Friday (28).
+
+◼️
+
+[Data](articles/b3c7c573.json)
+
+---
+
+### Little daughter killed a dog
 
 *2024-06-28 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198245) · `si`
 
-කිලිනොච්චිය,  කන්ඩාවලෙයි ප්‍රදේශයේදී පසුගිය 10 වනදා මෙම සුනඛයා විසින් දැරියව සපා කා ඇති බව ප්‍රදේශවාසීන් සඳහන් කරයි.
+A young girl died after being bitten by a dog in Kilinochchi, allegedly without receiving a rabies vaccine. She fell ill days later and was hospitalized, where it was confirmed her death was due to the dog bite. Four others bitten by the same dog sought medical help. Investigations are ongoing by local health inspectors.
 
-දෙමව්පියන් ඇයට ජලභීතිකා එන්නත හෝ අවශ්‍ය වෛද්‍ය ප්‍රතිකාර ලබාදීමට කටයුතු කර නොමැති බවටද ඔවුන් චෝදනා නගයි.
+🟩
 
-දින කිහිපයකට පසුව දැරිය හදිසියේ අසනීපවීම හේතුවෙන් ඇයව කිලිනොච්චිය රෝහලට ඇතුළත් කර ඇති අතර ඊයේ (27) දින ඇය ජීවිතක්ෂයට පත්වී තිබේ.
+Residents of the area say that the dog had bites the girl on the 10th in Kilinochchi, Kilinochchi.
 
-දැරියගේ මරණය සුනඛයා සපාකෑමෙන් සිදුවී ඇති බව රෝහල් බලධාරීන් විසින් පවසා ඇත.
+They are accused of their parents that she has not taken rabies vaccine or necessary medical care.
 
-අදාළ සුනඛයා සපා කෑ තවත් පුද්ගලයින් සිව්දෙනෙකු වෛද්‍ය ප්‍රතිකාර සඳහා ගොස් ඇති බවද ප්‍රදේශවාසීන් සඳහන් කරයි.
+She was admitted to the Kilinochchi hospital due to sudden illness a few days later.
 
-සිද්ධිය සම්බන්ධයෙන් කන්ඩාවලෙයි මහජන සෞඛ්‍ය පරීක්ෂක නිලධාරීන් විසින් වැඩිදුර පරීක්ෂණ සිදුකරයි.
+Hospital authorities have said that the death of the girl had taken place from biting the dog.
+
+Residents of the area states that four other people who bite the dog had gone to medical treatment.
+
+Further investigations are being carried out by the Kandawala Public Health Inspectors of Kandawala.
 
 ◼️
 
 [Data](articles/3947373a.json)
 
+[Extended Data](ext_articles/3947373a.ext.json)
+
 ---
 
-### විත්තිකරුවන් දෙදෙනෙක් විදෙස්ගත වෙලා
+### Two defendants were abroad
 
 *2024-06-28 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198244) · `si`
 
-2019 වසරේ උතුරු මුහුදු තීරයේදී බහුදින ධීවර යාත්‍රාවකින් හෙරොයින් මත්කුඩු කිලෝග්‍රෑම් 196.8ක් ප්‍රවාහනය කිරීම සහ ජාවාරම්කිරීමේ චෝදනා ලබා කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලක් විසින් නිදොස් කොට නිදහස් කළ විත්තිකරුවන් පස්දෙනා අතුරින් විත්තිකරුවන් දෙදෙනෙකු රටින් පළාගොස් ඇති බව නීතිපතිවරයා ඊයේ (27) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුන්නේය.
+The Attorney General informed the Supreme Court about two defendants involved in a 2019 case, accused of transporting heroin, who had left the country. The Solicitor General requested the court to consider the possibility of extraditing them from Indonesia. The Supreme Court ordered the defendants' lawyers to appear before it, scheduling the Court of Appeal Petition for August 6. This case began with the prosecution of 56 kilograms of heroin found off Trincomalee in 2019, leading to a lengthy trial that ended with the High Court's acquittal of the defendants, prompting the Attorney General's appeal to the Supreme Court.
 
-කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලක් විසින් නිදොස්කොට නිදහස් කළ විත්තිකරුවන් පස් දෙනා වරදකරුවන්කොට දඬුවම් පමුණුවන ලෙස ඉල්ලා නීතිපතිවරයා ගොනුකර තිබූ අභියාචනා පෙත්සමක් ඊයේ කැඳවූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි වෙනුවෙන් පෙනී සිටි සොලිසිටර් ජනරාල් අයේෂා ජිනසේන මෙනෙවිය මෙම දැනුම්දීම කළාය.
+🟩
 
-ඒ අනුව විදේශගතව සිටින මෙම විත්තිකරුවන් දෙදෙනා මෙරටට ගෙන්වා ගැනීම සඳහා ගනු ලබන ක්‍රියාමාර්ග පිළිබදව මීළඟ නඩු දිනයේ අධිකරණය හමුවේ කරුණු දැක්වීමට පියවර ගන්නා ලෙස විනිසුරු මඩුල්ල පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශයේ අධ්‍යක්ෂවරයාට නියෝග කළේය.
+The Attorney General also informed the Supreme Court yesterday that two of the three-kilometers of the five-kilometers of the Colombo Muniard, which was accused of transporting and executed in the North of 2019.
 
-ඊට අමතරව විදේශගතව සිටින එම විත්තිකරුවන් දෙදෙනාගේ ඇපකරුවන්ට මීළඟ නඩු දිනයේ අධිකරණය හමුවේ පෙනී සිටින ලෙසත් විනිසුරු මඩුල්ල නියම කළේය.
+Solicitor General Aeesha Jinasena appeared for the Attorney General yesterday after the Attorney General's Court was contested to be accused of accusing the Attorney General yesterday to congratulate the three-member High Courts.
+
+Accordingly, the panel of Mendenna ordered the director of the Bureau of the Mendeliscology of the next litigator.
+
+In addition, the bail to appear before the next day before the next day.
+
+The Court of Appeals presented at the Attorney General yesterday yesterday. The five-member Supreme Court judge called Shiran Gunaratne and Priyantha Fernando, Turarijah, Yasantha Kodagoda, Shiran Gunaratne and Priyantha Fernando.
 
 ...
 
 [Data](articles/c3705f50.json)
+
+[Extended Data](ext_articles/c3705f50.ext.json)
 
 ---
 
@@ -113,6 +143,8 @@ Additionally, it repeals the Ceylon Electricity Board Act No. 17 of 1969 and the
 ◼️
 
 [Data](articles/0ff8cd44.json)
+
+[Extended Data](ext_articles/0ff8cd44.ext.json)
 
 ---
 
@@ -2241,31 +2273,5 @@ The suspect was also found in a desolate land in a desolate land, police said to
 [Data](articles/1bed6543.json)
 
 [Extended Data](ext_articles/1bed6543.ext.json)
-
----
-
-### The student who gave the place to the girlfriend in the heart
-
-*2024-06-27 16:37:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதயத்தில்-காதலிக்கு-இடம்-கொடுத்த-மாணவன்/175-339538) · `ta`
-
-In a biology exam, a student humorously labeled heart parts with his crushes' names, sparking widespread amusement online. He named the atria after his crushes, Priya, Rupa, Pooja, Namitha, and Harita, describing them in playful terms. This creative response garnered over 6.43 crore views and 10 lakh likes, highlighting the blend of humor and romance in academic settings.
-
-🟩
-
-A student's response to a question asked in the biology exam has caused a joke. The heart, which is the center of emotions and the birthplace of imagination, is seen as a different type of youth.
-
-The exam was drawn to a map of the heart and was asked to mark its parts. But, as a manifestation of attraction, the student's heart has drawn a picture of its parts and has brought laughter among the netizens.
-
-Let's see what he has done so. Instead of referring to the inner parts of the heart, Atrium and ventricles, Priya, Rupa, Pooja, Namitha and Harita referred to the names of the students in the life of the student.
-
-He has also explained the name of its activities to each name. In this, the name Priya is referred to as a chatting girlfriend on Instagram.
-
-Recalls Rupa as beautiful and snakes in the snacks. In addition, Namitha referred to Namitha in a small place where there is no place and has long hair and big eyes.
-
-...
-
-[Data](articles/9811bebc.json)
-
-[Extended Data](ext_articles/9811bebc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 10:05:55**
+As of **2024-06-28 10:19:46**
 
 ## Newspaper Stats
 
-*Scraped **32,593** Articles*
+*Scraped **32,596** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,49 +16,123 @@ islandlk | 1,813
 economynextcom | 1,901
 dailyftlk | 1,998
 adalk | 2,886
-adaderanalk | 3,706
+adaderanalk | 3,707
 tamilmirrorlk | 3,851
 dailymirrorlk | 4,733
 virakesarilk | 5,068
-adaderanasinhalalk | 5,358
+adaderanasinhalalk | 5,360
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,591 (100.0%) of 32,593 articles have been extended.
+32,593 (100.0%) of 32,596 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### முட்டை உற்பத்தியை அதிகரிக்க புதிய திட்ட்ம்
+### සුනඛයෙකු සපාකෑ පුංචි දියණිය මරුට
+
+*2024-06-28 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198245) · `si`
+
+කිලිනොච්චිය,  කන්ඩාවලෙයි ප්‍රදේශයේදී පසුගිය 10 වනදා මෙම සුනඛයා විසින් දැරියව සපා කා ඇති බව ප්‍රදේශවාසීන් සඳහන් කරයි.
+
+දෙමව්පියන් ඇයට ජලභීතිකා එන්නත හෝ අවශ්‍ය වෛද්‍ය ප්‍රතිකාර ලබාදීමට කටයුතු කර නොමැති බවටද ඔවුන් චෝදනා නගයි.
+
+දින කිහිපයකට පසුව දැරිය හදිසියේ අසනීපවීම හේතුවෙන් ඇයව කිලිනොච්චිය රෝහලට ඇතුළත් කර ඇති අතර ඊයේ (27) දින ඇය ජීවිතක්ෂයට පත්වී තිබේ.
+
+දැරියගේ මරණය සුනඛයා සපාකෑමෙන් සිදුවී ඇති බව රෝහල් බලධාරීන් විසින් පවසා ඇත.
+
+අදාළ සුනඛයා සපා කෑ තවත් පුද්ගලයින් සිව්දෙනෙකු වෛද්‍ය ප්‍රතිකාර සඳහා ගොස් ඇති බවද ප්‍රදේශවාසීන් සඳහන් කරයි.
+
+සිද්ධිය සම්බන්ධයෙන් කන්ඩාවලෙයි මහජන සෞඛ්‍ය පරීක්ෂක නිලධාරීන් විසින් වැඩිදුර පරීක්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/3947373a.json)
+
+---
+
+### විත්තිකරුවන් දෙදෙනෙක් විදෙස්ගත වෙලා
+
+*2024-06-28 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198244) · `si`
+
+2019 වසරේ උතුරු මුහුදු තීරයේදී බහුදින ධීවර යාත්‍රාවකින් හෙරොයින් මත්කුඩු කිලෝග්‍රෑම් 196.8ක් ප්‍රවාහනය කිරීම සහ ජාවාරම්කිරීමේ චෝදනා ලබා කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලක් විසින් නිදොස් කොට නිදහස් කළ විත්තිකරුවන් පස්දෙනා අතුරින් විත්තිකරුවන් දෙදෙනෙකු රටින් පළාගොස් ඇති බව නීතිපතිවරයා ඊයේ (27) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුන්නේය.
+
+කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලක් විසින් නිදොස්කොට නිදහස් කළ විත්තිකරුවන් පස් දෙනා වරදකරුවන්කොට දඬුවම් පමුණුවන ලෙස ඉල්ලා නීතිපතිවරයා ගොනුකර තිබූ අභියාචනා පෙත්සමක් ඊයේ කැඳවූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි වෙනුවෙන් පෙනී සිටි සොලිසිටර් ජනරාල් අයේෂා ජිනසේන මෙනෙවිය මෙම දැනුම්දීම කළාය.
+
+ඒ අනුව විදේශගතව සිටින මෙම විත්තිකරුවන් දෙදෙනා මෙරටට ගෙන්වා ගැනීම සඳහා ගනු ලබන ක්‍රියාමාර්ග පිළිබදව මීළඟ නඩු දිනයේ අධිකරණය හමුවේ කරුණු දැක්වීමට පියවර ගන්නා ලෙස විනිසුරු මඩුල්ල පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශයේ අධ්‍යක්ෂවරයාට නියෝග කළේය.
+
+ඊට අමතරව විදේශගතව සිටින එම විත්තිකරුවන් දෙදෙනාගේ ඇපකරුවන්ට මීළඟ නඩු දිනයේ අධිකරණය හමුවේ පෙනී සිටින ලෙසත් විනිසුරු මඩුල්ල නියම කළේය.
+
+...
+
+[Data](articles/c3705f50.json)
+
+---
+
+### New scratch to increase egg production
 
 *2024-06-28 09:55:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-உற்பத்தியை-அதிகரிக்க-புதிய-திட்ட்ம்/175-339569) · `ta`
 
-முட்டை உற்பத்தியை அதிகரிக்க தொழில்முனைவோருக்கு 160,000 கோழிக் குஞ்சுகள் வழங்ஞம் புதிய திட்டம் ஆரம்பித்துள்ளதாக விவசாய அமைச்சர் மகிந்த அமரவீர தெரிவித்துள்ளார்.
+Agriculture Minister Mahinda Amaraweera announced the release of 160,000 poultry chicks to boost egg production, highlighting the country's ongoing struggle to meet its egg and milk needs domestically. Despite efforts, the price of an egg remains high, ranging from 50 to 55 rupees in stores.
 
-இந்த நாட்டிற்குத் தேவையான மொத்த முட்டை மற்றும் பால் உற்பத்தியில் இன்னும் எம்மால் தன்னிறைவு அடைய முடியவில்லை என்றும் குறிப்பிட்டார்.
+🟩
 
-இதேவேளை, கடைகளில் ஒரு முட்டை 50 - 55 ரூபாய் வரை விற்பனை செய்யப்படுகின்றமை குறிப்பிடத்தக்கது. R
+Agriculture Minister Mahinda Amaraweera has said that 160,000 poultry chicks have been launched for entrepreneurs to increase egg production.
+
+He said that we are still unable to become self -sufficient in the total eggs and milk production required for this country.
+
+Meanwhile, one egg in stores is sold for up to 50 - 55 rupees. Remble
 
 ◼️
 
 [Data](articles/95e944a2.json)
 
+[Extended Data](ext_articles/95e944a2.ext.json)
+
 ---
 
-### சஞ்சய மஹவத்த கைது
+### New Electricity Bill endorsed by the Speaker
+
+*2024-06-28 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100153/new-electricity-bill-endorsed-by-the-speaker) · `en`
+
+The new Sri Lanka Electricity Bill, which was passed in Parliament three weeks ago, has received endorsement from the Speaker of the Parliament yesterday (27).
+
+Accordingly, the new Act comes into effect from yesterday (27).
+
+This landmark legislation aims to implement comprehensive reforms in Sri Lanka’s electricity industry.
+
+Key provisions of the bill include the establishment of the National Electricity Advisory Council and designation of the Public Utilities Commission of Sri Lanka (PUCSL) as the industry regulator.
+
+The bill also mandates the creation of corporate entities under the Companies Act No. 07 of 2007 to manage the generation, transmission, distribution, trade, supply, and procurement of electricity.
+
+Additionally, it repeals the Ceylon Electricity Board Act No. 17 of 1969 and the Sri Lanka Electricity Act No. 20 of 2009, marking a significant shift in the legislative framework governing the sector.
+
+◼️
+
+[Data](articles/0ff8cd44.json)
+
+---
+
+### Sanjaya Mahawatta arrested
 
 *2024-06-28 09:32:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஞ்சய-மஹவத்த-கைது/175-339568) · `ta`
 
-'Magen Ratata' அமைப்பின் தலைவர் சஞ்சய மஹவத்த குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+Sanjaya Mahawatta, head of 'Magen Ratata', was arrested by the Criminal Investigation Department for allegedly making false accusations against senior police officers.
 
-சிரேஷ்ட பொலிஸ் அதிகாரிகளுக்கு எதிராக பொய்யான குற்றச்சாட்டுகளை சுமத்திய சம்பவம் தொடர்பில் சஞ்சய் மஹவத்த கைது செய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர்  நிஹால் தல்துவ தெரிவித்தார். R
+🟩
+
+The leader of the 'Magen Ratata' organization Sanjaya Mahawatta has been arrested by the Criminal Investigation Department.
+
+Police Media Spokesperson Nihal Talduwa said that Sanjay Mahawatta has been arrested in connection with the incident of false allegations against senior police officers.. Remble
 
 ◼️
 
 [Data](articles/fd7f87a5.json)
+
+[Extended Data](ext_articles/fd7f87a5.ext.json)
 
 ---
 
@@ -2193,71 +2267,5 @@ Recalls Rupa as beautiful and snakes in the snacks. In addition, Namitha referre
 [Data](articles/9811bebc.json)
 
 [Extended Data](ext_articles/9811bebc.ext.json)
-
----
-
-### Sri Lanka debt deal key to restoring debt sustainability, IMF says
-
-*2024-06-27 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100146/sri-lanka-debt-deal-key-to-restoring-debt-sustainability-imf-says) · `en`
-
-Sri Lanka’s agreements with China and other creditor nations to restructure about $10 billion in bilateral debt brought it a step closer towards restoring debt sustainability, the International Monetary Fund (IMF) said on Thursday.
-
-The island nation signed deals with China and other creditor nations to restructure about $10 billion in bilateral debt on Wednesday, helping it approach the end of a restructuring process that began in September 2022 after its reserves hit record lows and forced it to default on foreign debt for the first time.
-
-Sri Lankan officials in Paris inked the agreement with the Official Creditor Committee (OCC) co-chaired by Japan, India and France that have lent a combined $5.8 billion.
-
-The committee is now awaiting details of a separate agreement that was signed with China EXIM Bank to rework $4.2 billion to be shared with them to ensure comparability of treatment, OCC said in a statement.
-
-...
-
-[Data](articles/86ddcadd.json)
-
-[Extended Data](ext_articles/86ddcadd.ext.json)
-
----
-
-### Sri Lanka mulls designating teaching an essential service
-
-*2024-06-27 16:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-mulls-designating-teaching-an-essential-service-169875/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has said steps will be taken to designate teaching as an essential service to ensure the education of children.
-
-Wickremesinghe “emphasized the importance of teachers being present in schools during morning hours to ensure the education of children, warning that if teachers fail to do so depriving students of their education, steps will be taken to designate teaching as an essential service,” the president’s media division quoted him as saying.
-
-Wickremesinghe was reported to have said this during a discussion with the chief prelate of the Asgiri Chapter Warakagoda Sri Gnanarathana Nayaka Thera in Kandy on Thursday.
-
-Declaring a service an ‘essential service‘ seeks to ensure that these services aren’t interrupted, usually by strike action.
-
-Some of Sri Lanka’s teacher and principal unions are protesting wage discrepancies. (Colombo/Jun27/2024)
-
-◼️
-
-[Data](articles/4a5e0a5b.json)
-
-[Extended Data](ext_articles/4a5e0a5b.ext.json)
-
----
-
-### China went to Mahinda!
-
-*2024-06-27 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/187104) · `ta`
-
-Former Sri Lanka President Mahinda Rajapaksa visited China on a four-day trip, attending a conference marking the 70th anniversary of China's "Five Principles" for peace. The visit includes meetings with Chinese leaders like Premier Li Keqiang and Foreign Minister Wang Yi.
-
-🟩
-
-Former President Mahinda Rajapaksa visited China this morning on Thursday morning on a four -day official visit.
-
-Mahinda Rajapaksa has visited the Foreign Minister's invitation to attend a conference on the 70th anniversary of the publication of five principles for China's peaceful coexistence.
-
-It is expected that Chinese Prime Minister Lee Kiang and External Affairs Minister Wang Yi will meet on the visit.
-
-The conference will be attended by Chinese President Xi Jinping, Prime Minister Lee Kiang, Foreign Minister Wang Yi and many Chinese Communist Party members.
-
-◼️
-
-[Data](articles/d221fbe9.json)
-
-[Extended Data](ext_articles/d221fbe9.ext.json)
 
 ---

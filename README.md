@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 21:54:24**
+As of **2024-06-28 22:07:04**
 
 ## Newspaper Stats
 
-*Scraped **32,691** Articles*
+*Scraped **32,693** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 1,813
 economynextcom | 1,913
 dailyftlk | 1,998
 adalk | 2,895
-adaderanalk | 3,720
+adaderanalk | 3,721
 tamilmirrorlk | 3,862
 dailymirrorlk | 4,733
 virakesarilk | 5,095
-adaderanasinhalalk | 5,382
+adaderanasinhalalk | 5,383
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,691 (100.0%) of 32,691 articles have been extended.
+32,691 (100.0%) of 32,693 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### Top US Treasury official to visit Sri Lanka next week
+
+*2024-06-28 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100169/top-us-treasury-official-to-visit-sri-lanka-next-week) · `en`
+
+U.S. Department of the Treasury’s Deputy Assistant Secretary (DAS) for Asia Robert Kaproth is scheduled to visit Sri Lanka next week.
+
+He is scheduled to meet government officials, think tanks, and financial sector leaders in Sri Lanka during the visit.
+
+“We look forward to welcoming US Treasury Deputy Assistant Secretary Robert Kaproth back to Sri Lanka next week to meet with government officials, think tanks, and financial sector leaders.”
+
+“DAS Kaproth’s visit underscores U.S. commitment to supporting Sri Lanka during this crucial period,” U.S. Ambassador to Sri Lanka Julie J. Chung said in a post on ‘X’.
+
+She added that deepening reforms that encourage transparency, accountability, and sustainability in government, economic, and financial sectors is vital as Sri Lanka works to build its economic recovery and resilience.
+
+◼️
+
+[Data](articles/c654efd2.json)
+
+---
+
+### ෆොන්සේකාගේ පොරොන්දුව ජනපති අතට
+
+*2024-06-28 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198269) · `si`
+
+සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාෂල් සරත් ෆොන්සේකා මහතාගෙන් ඉදිරියේදී රටට තවත් සේවයක් ලබාගැනීමට අවශ්‍ය බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+◼️
+
+[Data](articles/033483b9.json)
+
+---
 
 ### Upcountry Railway Track restores
 
@@ -2285,51 +2317,5 @@ The lorry driver has been arrested on suspicion of the incident and the Hanwella
 [Data](articles/194f5a30.json)
 
 [Extended Data](ext_articles/194f5a30.ext.json)
-
----
-
-### Sri Lanka Chamber re-elects board for 2024/25
-
-*2024-06-28 09:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-chamber-re-elects-board-for-2024-25-169943/) · `en`
-
-ECONOMYNEXT – Sri Lanka trade body, the Ceylon Chamber of Commerce, has re-elected its chairman and board for 2024/25 at it recently held annual general meeting.
-
-Over the past year, the Chamber worked on initiatives focused on policy advocacy, stakeholder engagement, and expanding market access for its Members, it said in a statement.
-
-The board said it would continue advocating for pro-growth policies and facilitating growth opportunities for Members.
-
-The Ceylon Chamber of Commerce Re-elects Chairman Duminda Hulangamuwa and Board for 2024/25 at 185th AGM
-
-The Ceylon Chamber of Commerce announced the re-election of its Board for the Year 2024/25 at the Chamber’s 185th Annual General Meeting on June 27.
-
-The re-elected Board comprises Chairman Duminda Hulangamuwa – Country Managing Partner for Sri Lanka and The Maldives, Ernst & Young, Vice Chairman Krishan Balendra – Chairman John Keells Holdings PLC, and Deputy Vice Chairman Bingumal Thewarathanthri – CEO, Standard Chartered Bank Sri Lanka.
-
-...
-
-[Data](articles/9f44dff6.json)
-
-[Extended Data](ext_articles/9f44dff6.ext.json)
-
----
-
-### CID-Yinner
-
-*2024-06-28 09:09:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பியூமி-ஹன்சமாலியின்-நிறுவனத்திற்குள்-பாய்ந்த-CID-யினர்/175-339567) · `ta`
-
-The Criminal Investigation Department (CID) is investigating a cosmetics company owned by model-businessman Pumi Hansamali. Four officers from the Packages Service Company have confessed to involvement in an incident, and their confessions will be submitted to Pumi Hansamali tomorrow.
-
-🟩
-
-It is reported that the Investigation Department of the Criminal Investigation Department is carrying out an investigation into the cosmetics company owned by Pumi Hansamali, a popular model and businessman.
-
-Meanwhile, the CID has received a confession to four officers of the Packages Service Company involved in the incident.. Police Media Spokesperson Nihal Talduwa said the company would be the head of the company.
-
-Meanwhile, police media spokesman Nihal Talduwa said that the confession will be filed with Pumi Hansamali tomorrow (29).. Remble
-
-◼️
-
-[Data](articles/0e797e74.json)
-
-[Extended Data](ext_articles/0e797e74.ext.json)
 
 ---

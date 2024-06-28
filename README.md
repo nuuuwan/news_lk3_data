@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 05:19:31**
+As of **2024-06-28 05:37:00**
 
 ## Newspaper Stats
 
-*Scraped **32,554** Articles*
+*Scraped **32,555** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,901
 dailyftlk | 1,988
 adalk | 2,885
 adaderanalk | 3,703
-tamilmirrorlk | 3,845
+tamilmirrorlk | 3,846
 dailymirrorlk | 4,733
 virakesarilk | 5,068
 adaderanasinhalalk | 5,350
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,350
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,548 (100.0%) of 32,554 articles have been extended.
+32,554 (100.0%) of 32,555 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,20 @@ By April 2022 the central bank had borrowed and busted forex to end up with nega
 [Data](articles/46323a70.json)
 
 [Extended Data](ext_articles/46323a70.ext.json)
+
+---
+
+### கடன் மறுசீரமைப்பில் ’பிரச்சினைகள்  உள்ளன’
+
+*2024-06-28 02:31:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-மறுசீரமைப்பில்-பிரச்சினைகள்-உள்ளன/175-339564) · `ta`
+
+சர்வதேச நாணய நிதிய (IMF) திட்டம் மற்றும் கடன் மறுசீரமைப்புத் திட்டங்கள் குறித்து பல விடயங்கள் புதன்கிழமை (26)  வெளிப்படுத்தப்பட்டன. கடன் மறுசீரமைப்பு செயல்முறை நாட்டிற்கு நன்மை பயக்கும் என்றால், அதற்கு ஆதரவை வழங்குவோம். என்றாலும் நேற்றைய தினம் வெளிப்படுத்தப்பட்ட விடயங்கள் தொடர்பில் சிக்கல் நிலை ஏற்பட்டுள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+
+பிரபஞ்சம் தகவல் தொழிநுட்ப வேலைத்திட்டத்தின் கீழ்,   களுத்தறை, புலத்சிங்கல மதுராவல, ரெமுன மகா வித்தியாலத்திற்கு வழங்கி வைக்கும் நிகழ்வு ஜூன் 27 ஆம் திகதி இடம்பெற்றது. அதில் கலந்துகொண்டு உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/56a1876b.json)
 
 ---
 
@@ -282,87 +296,127 @@ A company that inspects Buddhist teachings in California, USA. So you have the o
 
 ---
 
-### பரீட்சை விடைத்தாள் மதிப்பீட்டிலிருந்து விலகி மாணவர்களின் கழுத்தை நெரிக்க வேண்டாம் - சமன் ரத்னப்பிரிய
+### Do not strangle the students' neck away from the exam answer sheet -Saman Ratnapriya
 
 *2024-06-28 01:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/187130) · `ta`
 
-ஜனாதிபதியின் நற்செய்தியை திசை திருப்பவே மக்கள் விடுதலை முன்னணியின் ஆசிரியர் சங்கம் போராட்டம் நடத்தியது.நீதிமன்ற உத்தரவை மீறியதாலே பொலிஸார் அவர்கள் மீது கண்ணீர்புகை பிரயோகம் மேற்கொண்டனர் என ஜனாதிபதியின் தொழில் உறவுகள் ஆணையாளர் நாயகம் சமன் ரத்னப்பிரிய தெரிவித்தார்.
+In response to the Teachers Union of the People's Liberation Front's protest, President Ranil Wickremesinghe urged against disrupting education, highlighting the potential harm to students' futures. The government is addressing teacher demands amidst an economic crisis, but protests and police actions threaten to delay exam results, affecting students adversely.
 
-சிவில் அமைப்புக்கள் மற்றும் தொழிற்சங்கங்களின் ஒன்றியம் வியாழக்கிழமை (27) கொழும்பில் நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-ஆசிரியர்களின் பிரச்சினை தீர்க்கப்பட வேண்டும். அவர்களின் கோரிக்கைகளுக்கு தீர்வு காண்பதற்கு அரசாங்கம் நடவடிக்கை எடுத்து வருகிறது. என்றாலும் பொருளாதார ரீதியில் நாடு நெருக்கடியை எதிர்கொண்டுள்ள நிலையில் அவர்களின் கோரிக்கைகளை உடனடியாக தீர்க்க முடியாத நிலையே இருந்து வந்தது. இவ்வாறான நிலையில் ஜனாதிபதி ரணில் விக்ரமசிங்க நாட்டு மக்களுக்கு நேற்று முன்தினம் நற்செய்தி தெரிவிக்கப்போவதை அறிந்து, அதனை  திசை திருப்பும் நோக்கில், மக்கள் விடுதலை முன்னணியின் ஆசிரியர் தொழிற்சங்கம் போராட்டம் மேற்கொண்டது.
+The Teachers Union of the People's Liberation Front (JVP) has staged a protest to divert the president's good news.
+
+He was speaking at a press conference held in Colombo on Thursday (27).
+
+The issue of teachers must be resolved. The government is taking steps to resolve their demands. However, as the country is facing an economic crisis, their demands have not been resolved immediately. In this context, President Ranil Wickremesinghe was going to tell the people of the country yesterday to tell the good news and divert it.
+
+Anyone can fight for their rights. There is no wrong in that. However, the police had taken steps to control the water, tears, and to control the court order. However, in order to continue the government's crisis, they have announced that they are going to withdraw from the Education Ordinary Examination Act, in protest of the police action.. This is the act of strangling the students.
 
 ...
 
 [Data](articles/bca1f8f7.json)
 
+[Extended Data](ext_articles/bca1f8f7.ext.json)
+
 ---
 
-### ரஷ்ய இராணுவத்தில் சிக்கியுள்ள இலங்கையர்கள் விவகாரம் கூட்டு செயற்குழுவை அமைப்பதற்கு இலங்கை முன்மொழிவு
+### Sri Lankan proposal to form a joint committee of Sri Lankans caught in the Russian army
 
 *2024-06-28 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/187129) · `ta`
 
-ரஷ்ய இராணுவத்தில் பணிக்கமர்த்தப்பட்டுள்ள இலங்கையர்கள் விவகாரத்தில் அவர்களின் பிரச்சனைகள் மற்றும் கவலைகளை நிவர்த்தி செய்வதற்காக இருதரப்பு அதிகாரிகளை உள்ளடக்கிய ஒரு கூட்டு செயற்குழுவை அமைப்பதற்கு இலங்கை முன்மொழிந்துள்ளது. இரு தரப்பினரும் இவ்விடயங்களில் ஈடுபாட்டுடன் செயற்பாடுகளைத் தொடர ஒப்புக் கொண்டுள்ளனர்.
+Sri Lanka proposes a joint committee to address issues of its citizens in the Russian military. The committee will focus on the welfare of 17 Sri Lankans involved in the conflict, including the deceased and injured, and explore options for their safe return. This initiative follows a meeting between Sri Lankan and Russian officials, including External Affairs Minister Taraka Balasuriya and Russian ministers Anthre Rudenko and AV Bomin.
 
-வெளிவிவகார இராஜாங்க அமைச்சர் தாரக பாலசூரிய தலைமையிலான உயர்மட்ட தூதுக்குழு, புதன்கிழமை மற்றும் நேற்று வியாழக்கிழமை ரஷ்யாவுக்கு விஜயமொன்றை மேற்கொண்டிருந்தது.
+🟩
 
-இதன் போது ரஷ்ய வெளிவிவகார பிரதி அமைச்சர் அந்த்ரே ருடேன்கோ மற்றும் ரஷ்யாவின் பாதுகாப்பு பிரதி அமைச்சர் கேணல் ஜெனரல் ஏ.வி.போமின் ஆகியோருடன் ஆயுதப்படையில் ஒப்பந்த அடிப்படையில் பணியமர்த்தப்பட்டுள்ள இலங்கையர்கள் தொடர்பில் கலந்துரையாடல் நடத்தியுள்ளது. இந்த கலந்துரையாடலின் போதே இவ்விடயம் தொடர்பில் அவதானம் செலுத்தப்பட்டுள்ளது.
+Sri Lanka has proposed a joint executive committee comprising bilateral officers to address their problems and concerns in the Russian military affair.. Both sides have agreed to continue their activities.
 
-...
+The high -level delegation headed by External Affairs Minister Taraka Balasuriya made a visit to Russia on Wednesday and Thursday.
+
+Russian External Affairs Minister Anthre Rudenko and Russian Defense Minister AV Bomin have held a discussion on Sri Lankans who have been hired in the Armed Forces on a contract basis.. During this discussion, the matter has been paid.
+
+These discussions focused on the plight of 17 Sri Lankans, the dead and the injured, the plight of the unknown Sri Lankans, the possibility of returning home in their own end, and the regulation of contracts.
+
+The high -level delegation was attended by MPs Dayasiri Jayasekara, Gamini Valegoda, Defense Secretary General Kamal Gunardhana and Sri Lanka Ambassador to Russia BM Amsa.
+
+◼️
 
 [Data](articles/014ef4ec.json)
 
+[Extended Data](ext_articles/014ef4ec.ext.json)
+
 ---
 
-### மடு அன்னையின் ஆடி மாத திருவிழா தொடர்பில் மடுவில் மன்னார் மறைமாவட்ட ஆயர் தலைமையில் விசேட கலந்துரையாடல்!
+### Special Discussion under the leadership of the Mannar Diocese of Madhuvil
 
 *2024-06-28 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187128) · `ta`
 
-மடு அன்னையின் ஆடி மாத திருவிழா தொடர்பான விசேட கலந்துரையாடல்  வியாழக்கிழமை (27) காலை 11 மணியளவில்    மடுத்திருத்தல கேட்போர் கூடத்தில் இடம்பெற்றது.
+A special discussion on the Madhu Mother's Adi Month Festival took place at the Mediterranean auditorium, chaired by Mannar Diocese's Emmanuel Fernando. Attendees included high-ranking officials from various sectors. The festival, which began on the 23rd, is expected to attract millions, with all necessary arrangements in place.
 
-மன்னார் மாவட்ட அரசாங்க அதிபர் க.கனகேஸ்வரன் ஏற்பாட்டில் மன்னார் மறைமாவட்ட  ஆயர் மேதகு இம்மானுவேல் பெர்னாண்டோ ஆண்டகை தலைமையில் இடம்பெற்றது.
+🟩
 
-குறித்த கலந்துரையாடலில் மன்னார் மறைமாவட்ட குரு முதல்வர் அருட்தந்தை  கிறிஸ்து நாயகம் அடிகளார்,மடு திருத்தல பரிபாலகர்  அருட்தந்தை   ஞானப்பிரகாசம்  அடிகளார்,பிரதேச செயலாளர்கள்,திணைக்கள தலைவர்கள்,பொலிஸ், கடற்படை மற்றும் ராணுவ உயர் அதிகாரிகள் என பலர் கலந்து கொண்டிருந்தனர்.
+A special discussion on Madhu Mother's Adi Month Festival was held on Thursday (27) at 11 am at the Mediterranean auditorium.
 
-கடந்த 23 ஆம் திகதி கொடியேற்றத்துடன் மடு அன்னையின் ஆடி மாத திருவிழா ஆரம்பமானது.தொடர்ந்து நவநாள் திருப்பலி தமிழ் சிங்கள மொழிகளில் ஒப்புக் கொடுக்கப்பட்டு வருகிறது.
+Mannar Diocese Emmanuel Fernando was chaired by Mannar Diocese Emmanuel Fernando.
 
-எதிர்வரும் 2 ஆம் திகதி காலை 6.15 மணிக்கு மறைமாவட்ட ஆயர்கள் இணைந்து திருவிழா திருப்பலியை கூட்டுத்திருப் பலியாக ஒப்புக் கொடுக்க உள்ளனர்.
+The discussion was attended by Mannar Diocese Guru Chief Minister Aruttanda Christ, Madulama Piripalakar Gnanaprakasam Adikallar, Divisional Secretaries, Department Heads, Police, Navy and Army Officers.
 
-...
+The Madhu Mother's Audi Month Festival commenced on the 23rd of this month.
+
+At 6.15 am on the 2nd of this month, the diocese bishops will be able to confess the festival as a coalition.
+
+The Diocese of Mannar said that all kinds of arrangements have been made due to the attendance of millions of people from many parts of the country to come to the blessing of the mother.
+
+It is noteworthy that the Mannar Diocese and the Government Agent had commented to the media.
+
+◼️
 
 [Data](articles/a480af0a.json)
 
+[Extended Data](ext_articles/a480af0a.ext.json)
+
 ---
 
-### ஜனாதிபதியின் நற்செய்தி எதிர்க்கட்சிகளுக்கு கெட்டதாகும் - ஐக்கிய தேசிய கட்சி தெரிவிப்பு
+### The president's good news is bad for the opposition - United National Party
 
 *2024-06-28 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/187127) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் நற்செய்தியுடன் தடைப்பட்டிருந்த நாட்டின் அபிவிருத்தி திட்டங்களை மீண்டும் முன்னெடுப்பதற்கு வாய்ப்பு கிடைத்துள்ளது. அத்துடன் வங்குராேத்து நிலையிலிருந்த நாடு மீண்டும் சாதாரண நிலைமைக்கு மாறியுள்ளது என ஐக்கிய தேசிய கட்சி முன்னாள் பாராளுமன்ற உறுப்பினர் ஆஷு மாரசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe's economic recovery plan, hailed as positive news for Sri Lanka, has reportedly led to widespread public joy but poses a challenge for the opposition, particularly the United National Party (UNP), which had criticized his initiatives. This turn of events has rendered the opposition's criticism irrelevant, highlighting the effectiveness of Wickremesinghe's leadership in navigating the country's financial recovery amidst skepticism from international institutions.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் வியாழக்கிழமை (27) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க புதன்கிழமை (26) நாட்டு மக்களுக்கு வழங்கிய நற்செய்தி மூலம் நாடு வங்குராேத்து நிலையிலிருந்து மீண்டுள்ளதுடன் கடந்த 3 வருடங்களுக்கும் அதிக காலம் தடைப்பட்டிருந்த நாட்டின் அபிவிருத்தி திட்டங்கள் மீள ஆரம்பிக்க சந்தர்ப்பம் கிடைத்துள்ளது. ஜனாதிபதியின் இந்த நற்செய்தி நாட்டை நேசிக்கின்ற மக்களுக்கு மன ஆறுதலையும் மகிழ்ச்சியையும் ஏற்படுத்தியுள்ளது. அதனால்தான் ஜனாதிபதி நாட்டு மக்களுக்கு இந்த நற்செய்தியை தெரிவிக்கும்போது, நாட்டின் அனைத்து பிரதேசங்களிலும் மக்கள் பட்டாசு கொளுத்தி மகிழ்ச்சியை வெளிப்படுத்தி இருந்தனர்.
+President Ranil Wickremesinghe has the opportunity to re -carry out the country's development plans forbidden with the good news of President. Former United National Party (UNP) parliamentarian Ashu Marasinghe said that the country from the banks of the bank has changed again.
+
+He was speaking at a press conference held on Thursday (27) at the UNP headquarters.
+
+President Ranil Wickremesinghe has recovered from the banks of the country on Wednesday (26).. The Gospel of the President has brought peace and happiness to people who love the country. That is why the people of the country have expressed their happiness in all parts of the country, when the president conveys this good news.
 
 ...
 
 [Data](articles/3170c193.json)
 
+[Extended Data](ext_articles/3170c193.ext.json)
+
 ---
 
-### மனோ கணேசன் தலைமையில் தமுகூ தூதுக்குழு, ஐநா வதிவிட பிரதிநிதி மார்க் அந்திரேயை சந்தித்து உரையாடல்
+### Tamuku Ambassador, led by Mano Ganesan, met UN Resident Representative Mark Andrew
 
 *2024-06-28 01:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/187126) · `ta`
 
-இலங்கை ஐநா வதிவிட பிரதிநிதி மார்க் அந்திரேவிற்கும், தமிழ் முற்போக்கு கூட்டணி தலைவர் மனோ கணேசன் தலைமையிலான தூதுக்குழுவுக்கும் இடையில் தீர்க்கமான சந்திப்பு வியாழக்கிழமை (27) கொழும்பில் நிகழ்ந்தது. இதன் போது, தமிழ் முற்போக்கு கூட்டணியின் நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினர் எம். உதயகுமார் மற்றும் தமுகூ/ஜமமு கேகாலை மாவட்ட அமைப்பாளர் எம். பரணிதரன் ஆகியோரும் கலந்து கொண்டனர்.
+A meeting took place in Colombo between UN Resident Representative Mark Andrew and the Tamil Progressive Alliance, led by Mano Ganesan, discussing policies for granting full citizenship and land rights to certain districts. The alliance aims to transform the plantation sector post-regime change and is preparing for legislative actions. They are also engaging with the Upcountry Civil Society and plan to seek international support from organizations like the UN Food Agricultural Institute, UNICEF, and the World Food Institute.
 
-இந்த சந்திப்பு தொடர்பில் மனோ கணேசன் எம்பி ஊடகங்களுக்கு கருத்து கூறிய போது தெரிவித்தாவது,
+🟩
 
-நுவரெலியா முதல் கொழும்பு அவிசாவளை உட்பட, கண்டி, மாத்தளை, பதுளை, மொனராகலை, கேகாலை, இரத்தினபுரி, களுத்துறை, காலி, மாத்தறை, குருநாகலை ஆகிய மாவட்டங்களில் பரந்து விரிந்துள்ள பெருந்தோட்ட பிரதேசங்களில், நவீன அடிமைத்துவ அம்சங்களுக்கு மத்தியில், மலையக சமூக குடும்பங்கள்  வாழ்கின்றன. இம்மக்களுக்கு  பெருந்தோட்ட நிலங்களில், வதி விட காணி உரிமை, வாழ்வாதார காணி உரிமை உள்ளிட்ட உரிமைகளைப் பெற்று தந்து அவர்களை இந்நாட்டின் முழுமையான பிரஜைகளாக்கும் கொள்கையைத் தமிழ் முற்போக்கு கூட்டணி முன்னெடுக்கின்றது.
+A decisive meeting was held in Colombo on Thursday (27) between Sri Lanka UN Resident Representative Mark Andrew and delegation headed by Tamil Progressive Alliance leader Mano Ganesan.. Nuwara Eliya District Parliamentarian of the Tamil Progressive Alliance. Udayakumar and Tamuku/Jamau Kegalle District Organizer M. Paranitharan was also present.
+
+Mano Ganesan commented to the media about the meeting.
+
+In the districts of Kandy, Matale, Badulla, Moneragala, Kegalle, Ratnapura, Kalutara, Galle, Matara and Kurunegala, including Nuwara Eliya to Colombo to Colombo. The Tamil Progressive Alliance is taking the policy of making them the full citizenship of the country and giving them the rights of land rights, livelihood land rights, more than residential lands.
 
 ...
 
 [Data](articles/45b95824.json)
+
+[Extended Data](ext_articles/45b95824.ext.json)
 
 ---
 
@@ -390,25 +444,31 @@ From time to time, the rain was interrupted by time to time before and in the ma
 
 ---
 
-### யாழ். வைத்தியசாலை முன் சந்தேகத்திற்கு இடமான  நிறுத்தி வைக்கப்பட்ட கார் பொலிஸாரால் மீட்பு!
+### Yall. Rescue by police suspected in front of the hospital
 
 *2024-06-28 00:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187125) · `ta`
 
-யாழ்ப்பாணம் போதனா வைத்தியசாலையின் 13ஆம் இலக்க நுழைவாயில் முன்பாக சந்தேகத்திற்கு இடமான முறையில் நிறுத்தி வைக்கப்பட்டிருந்த காரினை யாழ்ப்பாண பொலிஸார் மீட்டு சென்றுள்ளனர்.
+Jaffna police rescued a car stuck at the entrance of Jaffna Teaching Hospital No. 13. The driver, unaccounted for, blocked the pharmacy gate. After investigating, the car was removed with a heavy vehicle and taken to the police station for further action.
 
-யாழ்.போதனா வைத்தியசாலை மருந்து களஞ்சியத்திற்கு செல்லும் நுழைவாயிலான 13ஆம் இலக்க நுழைவாயிலை முற்றாக மறித்தவாறான நிலையில் நபர் ஒருவர் காரினை நிறுத்தி சென்றுள்ளார்.
+🟩
 
-அதனால் மருந்து களஞ்சியத்தில் இருந்து வைத்தியசாலை வாகனம் வெளியே செல்ல முடியாத நிலைமை ஏற்பட்டமையால் , வைத்தியசாலை ஊழியர்கள் , காரின் சாரதியை தேடி உள்ளனர்.
+Jaffna police have rescued the car that was suspected of suspected of the entrance to the Jaffna Teaching Hospital No. 13.
 
-நீண்ட நேரமாகியும் காரின் சாரதி அவ்விடத்திற்கு வராதமையால், வைத்தியசாலை பணிப்பாளர் ஊடாக யாழ்ப்பாண பொலிஸாருக்கு அறிவிக்கப்பட்டது.
+A person has stopped the car as the entrance to the Jaffna Bodhana Hospital Pharmaceutical Gateway No. 13th.
 
-பொலிஸார் சம்பவ இடத்திற்கு வந்து , விசாரணைகளை மேற்கொண்டதுடன் , அயலில் உள்ள கடைகளில் விசாரித்த போதிலும் காரின் சாரதியை கண்டறிய முடியாததால் , காரினை அவ்விடத்தில் இருந்து கனரக வாகனத்தின் உதவியுடன் மீட்டு , பொலிஸ் நிலையத்திற்கு கொண்டு சென்றுள்ளனர்.
+The hospital staff are searching for the driver of the car as the hospital vehicle is unable to get out of the pharmaceutical barn.
 
-காரின் இலக்க தகட்டின் ஊடாக அதன் உரிமையாளரை கண்டறிவதற்கு பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
+The driver of the car for a long time was not reported to the Jaffna police through the hospital director.
+
+The police arrived at the scene, investigated and investigated and inquired at the neighboring shops, but the car was recovered from the car with the help of a heavy vehicle and took it to the police station.
+
+Police have taken steps to find its owner through the car's digit plate.
 
 ◼️
 
 [Data](articles/efedfdc0.json)
+
+[Extended Data](ext_articles/efedfdc0.ext.json)
 
 ---
 
@@ -2341,33 +2401,5 @@ Police have also recovered heroin and ice drugs in the possession of the suspect
 [Data](articles/1cf0037d.json)
 
 [Extended Data](ext_articles/1cf0037d.ext.json)
-
----
-
-### Kenya’s president withdraws tax plan after deadly protest
-
-*2024-06-27 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100140/kenyas-president-withdraws-tax-plan-after-deadly-protest) · `en`
-
-Kenya’s President William Ruto says he will withdraw a finance bill containing controversial tax hikes after deadly protests which saw parliament set ablaze on Tuesday.
-
-In an address to the nation, he said it was clear that Kenyans “want nothing” to do with the bill.
-
-“I concede,” he said, adding that he would not sign the bill into law.
-
-At least 22 people were killed in Tuesday’s protests, according to the state-funded Kenya National Commission on Human Rights (KNHRC).
-
-Mr Ruto said he would now enter into dialogue with the young people, who were at the forefront of the biggest protests to hit the country since he was elected in 2022.
-
-The bill was passed by parliament on Tuesday, despite nationwide demonstrations against it.
-
-Protesters broke into parliament, vandalising the interior and setting parts of the complex on fire. The ceremonial mace, symbolising the authority of the legislature, was stolen.
-
-He ordered the military to be deployed, saying “violence and anarchy” would not be tolerated.
-
-...
-
-[Data](articles/7de9f82e.json)
-
-[Extended Data](ext_articles/7de9f82e.ext.json)
 
 ---

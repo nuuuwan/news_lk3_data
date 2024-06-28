@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 00:19:36**
+As of **2024-06-29 00:34:56**
 
 ## Newspaper Stats
 
-*Scraped **32,704** Articles*
+*Scraped **32,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,247 @@ bbccomsinhala | 321
 newsfirstlk | 363
 islandlk | 1,813
 economynextcom | 1,920
-dailyftlk | 1,998
+dailyftlk | 2,010
 adalk | 2,895
 adaderanalk | 3,723
 tamilmirrorlk | 3,863
 dailymirrorlk | 4,733
-virakesarilk | 5,095
+virakesarilk | 5,100
 adaderanasinhalalk | 5,384
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,704 (100.0%) of 32,704 articles have been extended.
+32,704 (99.9%) of 32,721 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-06-29 (Saturday)
+
+### டொலர் கொண்டுவரும் இலங்கை தேயிலை எதிர்கொள்ளும் சவால்கள் கடந்து வருவதற்கான தீர்வுகள் என்ன?
+
+*2024-06-29 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/187223) · `ta`
+
+1972 ஆம் ஆண்டு அப்போதைய  அரசாங்கம் சகல தோட்டங்களையும் அரசாங்கமயமாக்கியது.   1992 ஆம் ஆண்டுவரை அரசாங்கமே தேயிலை தோட்டங்களை எடுத்து நடத்தியது.  1992 ஆம் ஆண்டு அரசாங்கம் இந்த தோட்டங்களை தனியார் நிறுவனங்களுக்கு குத்தகைக்கு வழங்கியது.   கடந்த 32 வருடங்களாக தனியார் துறையினர் அதிக அளவில் தோட்டங்களை நடத்திக் கொண்டிருக்கின்றனர். கிட்டத்தட்ட 22 தனியார் கம்பெனிகள் தற்போது இலங்கையில் இந்த தேயிலை தோட்டங்களை குத்தகைக்கு எடுத்து நடத்துவதுடன் இவற்றில் சுமார் ஒரு இலட்சம் தொழிலாளர்கள் பணியாற்றுகின்றனர்.    அரசாங்கமும் இன்னும் சில நிறுவனங்களை நடத்திக் கொண்டிருக்கின்றது. மக்கள் பெருந்தோட்ட அபிவிருத்த சபை என்ற பெயரில் ஒரு அரசாங்க நிறுவனம் பெருந்தோட்டங்களை நடத்துகிறது. அதேபோன்று அரசின் சார்பில் எல்கடுவ பிளாண்டேஷன் என்ற நிறுவனமும் தோட்டங்களை நிர்வகிக்கின்றது.   இலங்கை பெருந்தோட்ட கூட்டுத் தாபனம் என்ற   பெயரிலும் அரசாங்கம் ஒரு பெருந்தோட்ட நிறுவனத்தை நடத்துகின்றது.  இந்த மூன்று அரச நிறுவனங்களின் கீழும்   8000 அளவில் தொழிலாளர்கள் பணிபுரிகின்றனர்.
+
+...
+
+[Data](articles/8199c992.json)
+
+---
+
+### Agriculture Minister to submit Cabinet paper to reduce coconut oil prices
+
+*2024-06-29 00:07:50* · [`dailyftlk`](https://www.ft.lk/business/Agriculture-Minister-to-submit-Cabinet-paper-to-reduce-coconut-oil-prices/34-763631) · `en`
+
+Agriculture Minister Mahinda Amaraweera on Wednesday confirmed that measures are being taken to address the rise in the price of coconut oil in the market.
+
+Speaking at the Presidential Media Centre he revealed the Government charges Rs. 150 per litre of imported coconut oil at present and he would propose a reduction of this amount via Cabinet paper.
+
+Citing data from the Coconut Development Authority (CDA), he said the annual coconut oil requirement is 25,868 tons. “There are 51,457 tons of coconut oil available within the country,” he said, asserting that the price hike was unwarranted.
+
+However, Minister Amaraweera acknowledged that the increase in fertiliser prices has impacted crops.
+
+◼️
+
+[Data](articles/3a896e94.json)
+
+---
+
+### இந்தியா, சீனா, ஜப்பான் நாடுகளுடன் கடன் மறுசீரமைப்பு ஒப்பந்தங்கள் கைச்சாத்து; சர்வதேச  நிதியுதவிக்கான மிக எளிதான பிரவேசம்
+
+*2024-06-29 00:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/187222) · `ta`
+
+இந்தியா, ஜப்பான், பிரான்ஸ் உள்ளிட்ட  உத்தியோகபூர்வ   கடன் வழங்குநர் குழு மற்றும் சீனா ஆகியவற்றுடன்  இலங்கை இருதரப்பு கடன் மறுசீரமைப்பு தொடர்பில்  இணக்கப்பாட்டை எட்டியதையடுத்து புதன்கிழமை  இது தொடர்பான ஒப்பந்தங்கள் கைச்சாத்திட்டுள்ளன.  அதன்படி புதன்கிழமை மாலை  சீனாவுடனான கடன் மறுசீரமைப்பு ஒப்பந்தம் கொழும்பிலும் பீஜிங்கிலும் கைச்சாத்திடப்பட்டது. மேலும் ஜப்பான், பிரான்ஸ் மற்றும் இந்தியா ஆகிய நாடுகளுடன் பரிஸ் நகரில் ஒப்பந்தங்கள் கைச்சாத்திடப்பட்டன.  இந்தியாவுடன் மெய் நிகர் வழியே ஒப்பந்தம் கைச்சாத்திடப்பட்டது.
+
+இந்த அடைவு மட்டமானது இலங்கையின் பொருளாதார மீட்சி செயற்பாடுகளில் மிக முக்கியத்துவமிக்க மைல்கல்லாக பார்க்கப்படுகின்றது.  அதாவது இந்த ஒப்பந்தங்கள் கைச்சாத்திடப்பட்டதன் ஊடாக 2018 ஆம் ஆண்டுவரை   இருதரப்பு கடன் செலுத்த வேண்டியதில்லை. அதற்கான நிவாரணம் கிடைக்கிறது.
+
+...
+
+[Data](articles/36bdac9a.json)
+
+---
+
+### Serendib Flour Mills’ premium range impresses at international culinary extravaganza in Malé
+
+*2024-06-29 00:06:17* · [`dailyftlk`](https://www.ft.lk/business/Serendib-Flour-Mills-premium-range-impresses-at-international-culinary-extravaganza-in-Malé/34-763630) · `en`
+
+Serendib Flour Mills Ltd. recently showcased its commitment to quality and innovation at the 18th edition of the Hotel Asia Exhibition and International Culinary Challenge 2024, connecting with industry leaders and potential customers in the Maldives’ thriving hospitality sector.
+
+The premier event was held recently at the Dharubaaruge Exhibition Hall, Usfasgandu and the Maldives National University in Malé.
+
+Serendib Flour Mills exhibited its 7 Star Premium Bakers’ Flour and retail range, demonstrating the quality and versatility of its products. The company’s efforts were well-received, and representatives had the opportunity to engage with numerous culinary professionals from Maldivian resorts and hotels, as well as other industry stakeholders.
+
+...
+
+[Data](articles/e667d854.json)
+
+---
+
+### Empowering healthcare through education: People’s Bank and IIHS partner to support nursing excellence
+
+*2024-06-29 00:05:30* · [`dailyftlk`](https://www.ft.lk/business/Empowering-healthcare-through-education-People-s-Bank-and-IIHS-partner-to-support-nursing-excellence/34-763629) · `en`
+
+PB Empowering Healthcare Through Education People’s Bank and IIHS Partner to Support Nursing Excellence
+
+People’s Bank and the International Institute of Health Sciences (IIHS) have formalised a strategic partnership to enhance educational opportunities for nurses under the project “Heda Nena Weduma”. The Memorandum of Understanding (MOU) signing ceremony took place recently at the People’s Bank Head Office in Colombo 2, marking a significant milestone in fostering accessible education in the healthcare sector.
+
+Recognising the global shortage of nurses, estimated at 13 million worldwide, People’s Bank and IIHS have joined forces to empower aspiring and practicing nurses through specialised educational loan facilities. Under this initiative, People’s Bank will offer special concessionary interest rates for nursing students enrolled in degree programs at IIHS, thereby easing the financial burden associated with higher education.
+
+...
+
+[Data](articles/8759819a.json)
+
+---
+
+### 2024 Study in Korea Education Fair kicks off tomorrow in Colombo with 11 universities
+
+*2024-06-29 00:04:45* · [`dailyftlk`](https://www.ft.lk/business/2024-Study-in-Korea-Education-Fair-kicks-off-tomorrow-in-Colombo-with-11-universities/34-763628) · `en`
+
+The Embassy of the Republic of Korea and the National Institute for International Education of Korea in collaboration with the Ministry of Education of Sri Lanka will host its first ever “2024 Study in Korea Education Fair” paving way for Sri Lankan students to explore opportunities for higher studies in Korea.
+
+It will be held on Sunday 30 June and Monday 1 July from 10 a.m. to 5 p.m. at Trace Expert City, Maradana, Colombo 10.  11 Korean universities will come to Sri Lanka to participate in the Education Fair on the above dates at the Trace Expert City, Colombo 10. At the same time, for those who are not able to come, the online education fair will be held with the participation of 30 universities until Tuesday 2 July via the official website ‘studyinkorea.go.kr’.
+
+The opening ceremony on Sunday at 10 a.m. will be graced by Republic of Korea Ambassador Miyon Lee, and Education Minister Susil Premajayantha.
+
+...
+
+[Data](articles/4ff2034c.json)
+
+---
+
+### ComBank boosts digital banking with ‘Pay and Win’ and ‘Transact and Win’ promos
+
+*2024-06-29 00:04:32* · [`dailyftlk`](https://www.ft.lk/business/ComBank-boosts-digital-banking-with-Pay-and-Win-and-Transact-and-Win-promos/34-763627) · `en`
+
+The electricity bills of 300 customers will be wiped out, and three customers will each win a tour package for two to Singapore under an exciting new campaign launched by the Commercial Bank of Ceylon to promote the use of ‘ComBank Digital’ – Sri Lanka’s most-used digital banking platform.
+
+The bank has announced that these valuable prizes will be offered under two promotions – ‘Pay and Win’ and ‘Transact and Win’ – that will run till the end of August, and will be open to all existing users of ComBank Digital as well as new registrants that meet the eligibility criteria.
+
+Under the ‘Pay and Win’ promotion, Commercial Bank will provide cashbacks of up to Rs. 10,000 to 300 customers that pay their electricity bills via ComBank Digital in June, July, and August, rewarding 100 customers each month.
+
+...
+
+[Data](articles/c3fdd1ce.json)
+
+---
+
+### NDB announces Araliya Savings Account promotion
+
+*2024-06-29 00:04:24* · [`dailyftlk`](https://www.ft.lk/business/NDB-announces-Araliya-Savings-Account-promotion/34-763626) · `en`
+
+NDB Bank has announced the NDB Araliya Promotion 2024, running until 31 July under the theme ‘Save and Be Gifted’.
+
+This special campaign continues the bank’s tradition of empowering women by encouraging them to save and invest in their futures, offering exclusive rewards as a token of appreciation for their trust and commitment.
+
+The NDB Araliya savings account, designed specifically for women, aligns with the bank’s commitment to promoting female participation in the economic and social sectors. Through this initiative, NDB Bank aims to provide women with the financial tools and support necessary to achieve their personal and professional goals, reinforcing the bank’s dedication to empowering women in all their endeavours.
+
+...
+
+[Data](articles/178f24fe.json)
+
+---
+
+### Ceylon Green Life Plantation enters food supplement market
+
+*2024-06-29 00:04:16* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Green-Life-Plantation-enters-food-supplement-market/34-763625) · `en`
+
+Guava and agro-cultivators, Ceylon Green Life Plantation Ltd., recently signed up with Ancient Nutra Ltd. to launch a “Deelectaa guava food supplement capsule” for the Sri Lankan market.
+
+...
+
+[Data](articles/7c037f7f.json)
+
+---
+
 ### 2024-06-28 (Friday)
+
+### US Embassy commemorates 248 years of American independence
+
+*2024-06-28 23:59:42* · [`dailyftlk`](https://www.ft.lk/news/US-Embassy-commemorates-248-years-of-American-independence/56-763624) · `en`
+
+US Marines ceremonially presenting US flag to US Ambassador Julie Chung
+
+US Ambassador Julie Chung giving remarks at event to commemorate 248th anniversary of American independence
+
+The US Embassy in Colombo on Thursday celebrated the 248th anniversary of the independence of the United States of America with a festive event hosted by US Ambassador Julie Chung at the Galle Face Hotel.
+
+The Ambassador welcomed Chief Guest Tourism, Lands, Sports and Youth Affairs Minister Harin Fernando, alongside distinguished Sri Lankan officials, diplomats, and partners from the business, civil society, and media communities. This year’s American Independence Day celebration highlighted the enduring spirit of democracy and the robust partnership between the United States and Sri Lanka.
+
+...
+
+[Data](articles/5d988c47.json)
+
+---
+
+### JICA improves elderly services in Sri Lanka
+
+*2024-06-28 23:57:52* · [`dailyftlk`](https://www.ft.lk/news/JICA-improves-elderly-services-in-Sri-Lanka/56-763623) · `en`
+
+The Thailand visiting program for the JICA Project for Capacity Enhancement of Elderly Service Management in the Community in Sri Lanka (ProCEES) was conducted from 26 to 31 May with a view to improving elderly services in Sri Lanka.
+
+JICA brought a delegation of 10 officials from the Ministry of Health and Ministry of Women, Child Affairs and Social Empowerment for this training.
+
+In Thailand, JICA supported the improvement of elderly services from 2007 to 2022. It was explained during the visiting program that Thailand had tackled similar challenges currently experienced by Sri Lanka. It was a great opportunity to discuss lessons learnt in Thailand and how to provide elderly services with available resources.
+
+...
+
+[Data](articles/b0197c2c.json)
+
+---
+
+### Everystory Sri Lanka holds first public event on women’s movements of Sri Lanka
+
+*2024-06-28 23:56:03* · [`dailyftlk`](https://www.ft.lk/news/Everystory-Sri-Lanka-holds-first-public-event-on-women-s-movements-of-Sri-Lanka/56-763622) · `en`
+
+Everystory Sri Lanka on 16 June hosted its first public event on the women’s movements of Sri Lanka at the Colombo Public Library.
+
+This unique trilingual event included public teach-outs, and a series of interactive learning opportunities on the topic facilitated through storytelling, sharing accessible resources, and creating spaces for dialogue. The event drew a crowd of over 300 eager to participate and learn.
+
+A key feature of this event was three teach-outs led by Sharanya Sekaram (English), Saritha Irugalbandara (Sinhala), and Siva Malathy (Tamil) that looked to provide a historical overview of the rich history of the women’s movements that have shaped Sri Lankan history since the 1920s.
+
+...
+
+[Data](articles/3ebf1460.json)
+
+---
+
+### Bishop Kirby De Lanerolle to lead 11,500 global free churches in new era of inter-religious harmony
+
+*2024-06-28 23:54:43* · [`dailyftlk`](https://www.ft.lk/news/Bishop-Kirby-De-Lanerolle-to-lead-11-500-global-free-churches-in-new-era-of-inter-religious-harmony/56-763621) · `en`
+
+From left: Pr. Upul Janaka, Pr. V. Manogaran Rajah, Bishop Kirby de Lanerolle, Ven. Kollonawe Narada Thero, Ven. Hadigalle Wimasara Thero, Pr. Susil Ranjith, Pr. Anjana Costa, and Pr. Disali Pietersz
+
+The Apostolic Diocese of Ceylon (ADC), in partnership with the Indian National Apostolic Diocese (INA), has announced a significant expansion of its mission globally.
+
+With the new appointment of Bishop Kirby Sinclair de Lanerolle as the General Secretary of the International Independent Apostolic Diocesan Synod (IIADS), with a mandate beyond the 670 churches in Sri Lanka to 11,000 churches in India, the Middle East and the USA.
+
+For the past decade, the ADC has been serving, covering, and representing free and independent churches in Sri Lanka. The ADC School currently trains up to 400 pastors and Christian leaders from across the country.
+
+...
+
+[Data](articles/ad8233fd.json)
+
+---
+
+### Bridging Sri Lanka’s “Leadership Deficit”: a conceptual framework for the near-future
+
+*2024-06-28 23:21:47* · [`dailyftlk`](https://www.ft.lk/columns/Bridging-Sri-Lanka-s-Leadership-Deficit-a-conceptual-framework-for-the-near-future/4-763612) · `en`
+
+The citizenry vote for politicians in the vain hope that ‘this time there will be change for the better’ – Pic by Shehan Gunasekara
+
+Despite the critical engagement of scholars and other writers in the mainstream media attempting to introduce leadership models with countervailing themes such as plurality, inclusiveness, sensitivity, empathy, acute self-knowledge and other ‘softer’ attributes, the essence of political leadership in Sri Lanka in the intervening decade and a half after the end of the so-called ‘ethnic war’ has seen a hardening of positions
+
+As Sri Lanka gears up for elections later this year, people of voting age would do well to gird their loins against being gulled again into casting their ballots unwisely for those whom we call our ‘leaders’.
+
+In the past we’ve voted repeatedly for crooks, charlatans, the incompetent, the corrupt, and the utterly unrepentant of their litany of crimes.
+
+...
+
+[Data](articles/70eb264c.json)
+
+---
 
 ### Sreedharan threatens MP ...
 
@@ -104,6 +328,22 @@ The quake was felt as far as the capital. Video posted to social media shows lam
 
 ---
 
+### இலங்கையின் வங்குரோத்து நிலை குறித்து அறிவிக்கும் பொறுப்பு சர்வதேச நிதி தரப்படுத்தல் நிறுவனங்களுடையதல்ல - எதிர்க்கட்சிகளுக்கு அமைச்சர் அலி சப்ரி பதில்
+
+*2024-06-28 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187219) · `ta`
+
+சர்வதேச நிதி தரப்படுத்தல் நிறுவனங்கள் இலங்கையின் கடன் மீள் செலுத்துகைத் திறன் மேம்பாடு எந்த மட்டத்தில் உள்ளது என்பதையே வெளிப்படுத்தும். மாறாக வங்குரோத்து நிலையிலிருந்து மீண்டுள்ளதா இல்லையா என்பதை அறிவிக்க மாட்டா. எதிர்க்கட்சிகள் இதனை தெரிந்து கொண்டு விமர்சனங்களை முன்வைக்க வேண்டும் என்று வெளியுறவுகள் அமைச்சர் அலி சப்ரி தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் வெள்ளிக்கிழமை (28) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+2022 ஏப்ரல் 12ஆம் திகதி எம்மால் சர்வதேச கடனில் ஒரு தொகையை மீள செலுத்த முடியாது என்று அறிவித்தோம். இலங்கை அரசாங்கமே இதனை அறிவித்தது. மாறாக வெளிநாட்டு நிதித்தரப்படுத்தல் நிறுவனங்கள் அல்ல. அதே போன்று இலங்கை அந்த நிலைமையிலிருந்து மீண்டுள்ளதா இல்லையா என்பதையும் நாமே அறிவிப்போம். சர்வதேச நிதி தரப்படுத்தல் நிறுவனங்கள் இலங்கையின் கடன் மீள்செலுத்தல் திறன் எந்த மட்டத்தில் உள்ளது என்பதையே வெளிப்படுத்தும்.
+
+...
+
+[Data](articles/426ffd82.json)
+
+---
+
 ### Govt says Rs. 11.6 billion disbursed to ‘Aswesuma’ beneficiaries for June
 
 *2024-06-28 22:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100170/govt-says-rs-116-billion-disbursed-to-aswesuma-beneficiaries-for-june) · `en`
@@ -119,6 +359,24 @@ In response to the current economic situation, President Ranil Wickremesinghe ha
 [Data](articles/a652fec2.json)
 
 [Extended Data](ext_articles/a652fec2.ext.json)
+
+---
+
+### பீல்ட் மார்ஷல் சரத் பொன்சேகாவினால் எழுதப்பட்ட நூல் ஜனாதிபதி தலைமையில் வௌியீடு
+
+*2024-06-28 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/187221) · `ta`
+
+முப்பது வருடகால யுத்தத்தை நிறைவு செய்ய சிறந்த தலைமைத்துவத்தை வழங்கிய முன்னாள் இராணுவத் தளபதியும், பாராளுமன்ற உறுப்பினருமான பீல்ட் மார்ஷல் சரத் பொன்சேகாவினால் "இராணுவ தளபதி தேசத்துக்கு வழங்கிய வாக்குறுதி - இந்த யுத்தம் அடுத்த தளபதி வரையில் நீடிக்க இடமளியேன்" என்ற தலைப்பில் எழுதப்பட்ட நூல் வெளியீட்டு விழா ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் வெள்ளிக்கிழமை (28) கொழும்பு நெலும் பொக்குன கலையரங்கில் நடைபெற்றது.
+
+இதன்போது புத்தகத்தின் முதல் பிரதி பீல்ட் மார்ஷல் சரத் பொன்சேகாவினால் ஜனாதிபதிக்கு வழங்கி வைக்கப்பட்டது.
+
+அதனையடுத்து பீல்ட் மார்ஷல் சரத் பொன்சேகா ஜனாதிபதிக்கு நினைவு பரிசு ஒன்றையும் வழங்கி வைத்தார்.
+
+இதன்போது பீல்ட் மார்ஷல் சரத் பொன்சேகாவின் சேவைக்கு பாராட்டு தெரிவித்த ஜனாதிபதி,  யுத்தத்தை வெற்றிகொண்டது மாத்திரமன்றி, பல்வேறு அரசியல் சவால்களுக்கும் முகம்கொடுத்தவர் என்ற வகையில் எதிர்காலத்தில் நாட்டிற்கு பெரும் சேவையாற்ற முடியும் என்றும் தெரிவித்தார்.
+
+...
+
+[Data](articles/4b71f54f.json)
 
 ---
 
@@ -159,6 +417,24 @@ President Ranil Wickremesinghe says that the country needs to provide another se
 [Data](articles/033483b9.json)
 
 [Extended Data](ext_articles/033483b9.ext.json)
+
+---
+
+### பெரு நாட்டில் 7.2 ரிக்டர் அளவில் சக்திவாய்ந்த நிலநடுக்கம்!
+
+*2024-06-28 21:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/187220) · `ta`
+
+குறித்த நிலநடுக்கமானது பெரு மாநிலத்தை உள்ள கடல் பகுதியிலேயே 7.2 ரிக்டர் அளவுகோலில் பதிவாகி இருக்கிறது.
+
+நிலநடுக்கம் காரணமாக அங்கு சுனாமி எச்சரிக்கை விடுக்கப்பட்டு இருக்கிறது. இதனால் மக்கள் அச்சம் அடைந்துள்ளனர்.
+
+நிலநடுக்கத்தின் போது பதிவான சிசிடிவி காட்சி அடங்கிய வீடியோ சமூக வலைதளங்களில் அதிகம் பகிரப்பட்டு வருகிறது. வீடியோவில் தெருவில் நிறுத்தி வைக்கப்பட்ட கார் பூமியோடு சேர்ந்து குலுங்கும் காட்சிகள் இடம்பெற்றுள்ளன.
+
+இதே போன்று வீட்டினுள் இருந்த மின்விளக்குகள் நிலநடுக்கத்தால் குலுங்கின. இது தொடர்பான வீடியோ வெளியாகி உள்ளது. காராவெலியிலே ஏற்பட்ட நிலநடுக்கம் காரணமாக மலையில் இருந்த பாறைகள் சரிந்து பான்-அமெரிக்க நெடுஞ்சாலையில் விழுந்தன. இதனால் அந்த பகுதியில் போக்குவரத்து பாதிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/7ea5c055.json)
 
 ---
 
@@ -1933,399 +2209,5 @@ The case was taken up for hearing on Thursday yesterday, and he was sentenced to
 [Data](articles/b9487f7e.json)
 
 [Extended Data](ext_articles/b9487f7e.ext.json)
-
----
-
-### Three years sentenced to Hiunika seriously
-
-*2024-06-28 11:04:22* · [`adalk`](https://www.ada.lk/breaking_news/හිරුනිකාට-බරපතල-වැඩ-සහිත-වසර-තුනක-සිරදඬුවම්/11-410490) · `si`
-
-Former Sri Lankan MP Hirunika Premachandra was sentenced to three years in prison for ordering the abduction and torture of a youth from the Dematagoda area in 2015.
-
-🟩
-
-Former MP Hirunika Premachandra has been sentenced to three years in prison by the Colombo High Court.
-
-It is said that the order has been issued to abduct a youth who served in the Dematagoda area in 2015 and torture her prisoner.
-
-◼️
-
-[Data](articles/745ddba4.json)
-
-[Extended Data](ext_articles/745ddba4.ext.json)
-
----
-
-### A large crucial in Delhi airport
-
-*2024-06-28 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198248) · `si`
-
-A plane crash at Delhi International Airport's first terminal resulted in three fatalities and six injuries due to heavy rain and wind. Operations are underway to determine if concessionaires were involved.
-
-🟩
-
-A large risk was crashed into the roof of the first terminal of the Delhi International Airport in India.
-
-According to a Delhi fire escape officer, 3 of them were killed and six others were injured.
-
-The roof of the building crashed due to heavy rains and wind on Friday morning.
-
-Operating operations have commenced operations to find out if the concessionary groups have been involved.
-
-◼️
-
-[Data](articles/01505100.json)
-
-[Extended Data](ext_articles/01505100.ext.json)
-
----
-
-### 'Make the' Charity 'Speaking of Political Change
-
-*2024-06-28 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/187149) · `ta`
-
-"Upcoming Tamil film 'Arami Para' discusses political change rather than regime shift, focusing on a 75-year transformation in governance. Director Vaidyanathan emphasizes the need for a complete overhaul in politics, inspired by the Indian Constitution, without featuring any specific political leaders."
-
-🟩
-
-“The movie 'Charum Sara' is not talking about regime change in Tamil Nadu. He talks about political change, ”the director said.
-
-Director Balu S. 'Loku Saba' Jeeva, Anjana Keerthi, Meenakshi Megalee, Sadhana and Yogi Ram in the upcoming film 'Arami Para' directed by Vaidyanathan.. Srikanth Deva has composed the film, which has been recorded by Sivakumar and Kannan.. The film was produced by Taraka Cinemas.
-
-The music release of the film was held in Chennai.
-
-Speaking about the film. The film talks about politics. It also talks about the need to completely change politics that has been around for the past 75 years. Currently need is not regime change. The screenplay is set to emphasize political change. No political leaders in the film are informed about the political party. We have described the things that the governments that ruled us for the past 75 years. We have been talking about how politics for the people should be, quoting the Indian Constitution. ”
-
-◼️
-
-[Data](articles/407ff331.json)
-
-[Extended Data](ext_articles/407ff331.ext.json)
-
----
-
-### Train in Slovakia - bus collision;6 people killed
-
-*2024-06-28 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/187144) · `ta`
-
-In south Slovakia, a tragic bus-train collision near Noah Samki resulted in six deaths and at least five injuries. The accident happened around 5 PM local time, involving 209 train passengers and 9 bus riders. The train driver's quick actions likely prevented further casualties, but he was critically injured. Emergency responders rushed to the scene with several ambulances and helicopters.
-
-🟩
-
-Six people were killed when a bus crashed into a railway train in south Slovakia.
-
-The accident occurred near the city of Noah Samki, about 80 km east of the capital, Prattislawa.
-
-The accident occurred at around 17:00 pm (16:00 BST), and 6 people were killed and at least five others were injured.
-
-Drivers of the bus and train have been injured and admitted to the hospital in critical condition.
-
-Officials said that at the time of the accident, there were 200 people on the train and 9 on the bus.
-
-The driver of the train has been acting instantly to prevent train interruption. As a result of this, travelers have avoided injuries and casualties, the Railway Department said.
-
-A few seconds before the accident, he jumped into the control room and suffered burns.
-
-Emergency services reported that five ambulances and three air ambulances were sent to the scene.
-
-◼️
-
-[Data](articles/948b09c9.json)
-
-[Extended Data](ext_articles/948b09c9.ext.json)
-
----
-
-### Sri Lanka looks at balancing trade security and logistic hub needs with East Asia experts
-
-*2024-06-28 10:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-looks-at-balancing-trade-security-and-logistic-hub-needs-with-east-asia-experts-169977/) · `en`
-
-ECONOMYNEXT – Sri Lanka has discussed the need to balance trade security with experts from East Asian nations at a forum supported by the United States.
-
-“The challenge lies in achieving an equilibrium between enabling smooth trade and  ensuring robust security measures,” the US embassy in Colombo said.
-
-“To cultivate trading environments that support legitimate operations and restrict illegal activities, so that countries can not only foster economic growth but also develop that competitive edge within the global marketplace.”
-
-The Embassy partnered with the Sri Lanka Department of Import and Export Control to launch the Sri Lanka Strategic Trade Forum, which brought together government and private sector to address trade security, development of competitive practices for global trade hubs.
-
-...
-
-[Data](articles/5ba895b7.json)
-
-[Extended Data](ext_articles/5ba895b7.ext.json)
-
----
-
-### Bideman and Trump delivered the cloth
-
-*2024-06-28 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198247) · `si`
-
-In a historic first, US President Joe Biden and former President Donald Trump debated on CN TV, where both were accused of lying by critics. Trump criticized Biden's economic and foreign policies, while Biden addressed allegations related to Stormy Daniels. The debate precedes the upcoming US presidential election on November 5th, potentially affecting voter opinions.
-
-🟩
-
-US President Joe Biden and former President Donald Trump participated in the debate organized by CN TV.
-
-Critics say they accused one another of "lying."
-
-Trump has criticized the economic policies and foreign policies of the foreign policies and tried to change Presidential election in terms of Bidesen, Trump's crimes and Presidential election in 2020.
-
-The two are to contest for the US presidential election that is scheduled to be held on November 5, and this is the first time they joined a public debate.
-
-The Bideen had set out in the debate on a connection with a blue film actress named Stormy Daniel. Trump rejected the allegation.
-
-However, some political commentators say that Democratic supporters will not be happy in this debate.
-
-◼️
-
-[Data](articles/070bba44.json)
-
-[Extended Data](ext_articles/070bba44.ext.json)
-
----
-
-### Government executives for Rs. 25,000 Special monthly allowance
-
-*2024-06-28 10:34:32* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-විධායක-නිලධාරීන්ට-රු--25000-ක-විශේෂ-මාසික-දීමනාවක්/11-410489) · `si`
-
-The government announced a special monthly allowance of Rs. 25,000 for executives, effective from yesterday as per the circular issued by the Public Administration Home Affairs Ministry. This allowance excludes executive officers.
-
-🟩
-
-The government has decided to pay a special monthly allowance of Rs.
-
-The Circulars on this matter was released yesterday (27), the Public Administration Home Affairs Ministry of Provincial Councils and Local Government Pradeep Yasaratne was released.
-
-The New Circular states that a maximum of Rs.
-
-The circular is not applicable to the Executive of the Executives for Executives for the executives of Rs. 25,000 or excellent monthly allowance.
-
-◼️
-
-[Data](articles/4d26d80c.json)
-
-[Extended Data](ext_articles/4d26d80c.ext.json)
-
----
-
-### Hirunika Premachandra sentenced to 3 years in prison
-
-*2024-06-28 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/187148) · `ta`
-
-Hirunika Premachandra, a former MP from the United People's Power, was sentenced to three years in prison by the Colombo High Court for the death of a youth in 2015.
-
-🟩
-
-The Colombo High Court has imposed a three -year rigorous imprisonment for Hirunika Premachandra, a member of the United People's Power and former MP.
-
-The court today issued the verdict on Friday (28) following the recognition of a youth in the Dematagoda area of ​​Colombo in 2015.
-
-◼️
-
-[Data](articles/815dbf36.json)
-
-[Extended Data](ext_articles/815dbf36.ext.json)
-
----
-
-### Giant Panda in China again to America
-
-*2024-06-28 10:27:17* · [`adalk`](https://www.ada.lk/breaking_news/චීනයේ-යෝධ-පැන්ඩා-යළිත්-ඇමරිකාවට/11-410488) · `si`
-
-China has reactivated its giant panda conservation agreements with the U.S. and Austria, sending pandas Yunchuan and Xinbao to the San Diego Zoo and signing a deal with the Tiergarten Schönn Zoo in Austria. This marks the resumption of Chinese-American conservation collaborations after over 20 years, emphasizing the importance of global biodiversity and international friendship.
-
-🟩
-
-China takes steps to reactivate the giant panda conservation cooperation agreements with America and Austria.
-
-The Chinese wildlife conservation unit has announced that a new agreement has been signed with the Tiergarten Schönn Zoo in Austria.. Also, with the departure of two giant pandow, "Yunchuan" and "Xinbao", Chinese-American Giant Padda conservation collaborations have resumed the US SAN DIEOGO Zoo.
-
-For more than 20 years, China has been conducting giant panda conservation cooperation with respective zoos.The survival of those animals will be further confirmed through Chinese-Statioxi-American giant panda conservation collaboration. The Chinese authorities have pointed out that it helps to safeguard global biodiversity as well as the international friendship of Chinese people.
-
-Chinese Foreign Ministry spokesman Pariska Mao Nan, participating in the press conference held at the Foreign Ministry yesterday.
-
-◼️
-
-[Data](articles/58baf58c.json)
-
-[Extended Data](ext_articles/58baf58c.ext.json)
-
----
-
-### 3 years in jail for Hirunika
-
-*2024-06-28 10:24:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிக்காவுக்கு-3-ஆண்டுகள்-சிறை/175-339572) · `ta`
-
-Hirunika Premachandra, a former Colombo District Parliamentarian, was sentenced to three years in prison for allegedly abducting a youth, as found guilty by a court.
-
-🟩
-
-Former Colombo District Parliamentarian Hirunika Premachandra has sentenced him to three years in prison for allegedly guilty of abducting a youth by a deputy.
-
-◼️
-
-[Data](articles/91d23629.json)
-
-[Extended Data](ext_articles/91d23629.ext.json)
-
----
-
-### Kallakurichi counterfeit liquor
-
-*2024-06-28 10:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/187142) · `ta`
-
-In Chennai, an AIADMK-led hunger strike demanded action on counterfeit liquor deaths in Kallakurichi, where over 60 fatalities occurred. The protest was sparked by four more deaths on Wednesday, leading to calls for the resignation of the Tamil Nadu Chief Minister and a CBI investigation.
-
-🟩
-
-A hunger strike was held in Chennai on Thursday (27) on behalf of the AIADMK, demanding the investigation of the deaths of counterfeit cases, condemning the death of over 60 people in Kallakurichi.
-
-The death toll from four people died on Wednesday (26) in Kallakurichi. At the Rajaratnam Playground in Egmore, Chennai, the AIADMK general secretary and opposition leader Edappadi K Palanisamy, the leader of the AIADMK, led the hunger strike.
-
-“Why is Vidya DMK Chief Minister hesitant to try in the legislature repeatedly trying to discuss the deaths of Kallakurichi counterfeit liquor?Why did Kallakurichi go to Kallakurichi to this day, as the deaths of illicit liquor have exceeded 60?The CBI is investigating the deaths of Kallakurichi and the Chief Minister of Tamil Nadu should immediately resign. ”
-
-...
-
-[Data](articles/f15dc09b.json)
-
-[Extended Data](ext_articles/f15dc09b.ext.json)
-
----
-
-### 3 years in jail for Hirunika
-
-*2024-06-28 10:23:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிக்காவுக்கு-3-ஆண்டுகள்-சிறை/175-339570) · `ta`
-
-Hirunika Premachandra, former Colombo District MP, was sentenced to three years in jail for allegedly abducting a youth, as found guilty by a court.
-
-🟩
-
-Former Colombo District Parliamentarian Hirunika Premachandra has sentenced him to three years in prison for allegedly guilty of abducting a youth by a deputy.
-
-◼️
-
-[Data](articles/2c4513f9.json)
-
-[Extended Data](ext_articles/2c4513f9.ext.json)
-
----
-
-### Roof collapses at Delhi airport’s Terminal-1; three dead, several injured
-
-*2024-06-28 10:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100155/roof-collapses-at-delhi-airports-terminal-1-three-dead-several-injured) · `en`
-
-Three people died and six were injured after a portion of the roof of the Delhi airport’s Terminal-1 fell on cars, including taxis, amid heavy rains early Friday, Delhi Fire Services (DFS) officials said.
-
-They said a search operation is underway to make sure no one else is trapped in the damaged vehicles.
-
-Besides the roof sheet, the support beams also collapsed, damaging the cars parked in the pick-up and drop area of the terminal, the officials said.
-
-Of the six, one was rescued from a car on which an iron beam had fallen, the officials said. Three fire-tenders were sent to the airport after a call about the incident was received by the DFS around 5:30 a.m.
-
-“Due to heavy rain since early this morning, a portion of the canopy at the old Departure forecourt of Delhi Airport’s Terminal 1 collapsed around 5 am. There are injuries reported, and emergency personnel are working to provide all necessary assistance and medical aid to those affected,” an airport spokesperson said.
-
-...
-
-[Data](articles/8aa77ce4.json)
-
-[Extended Data](ext_articles/8aa77ce4.ext.json)
-
----
-
-### Hirunika sentenced to 3 years rigorous imprisonment
-
-*2024-06-28 10:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100154/hirunika-sentenced-to-3-years-rigorous-imprisonment) · `en`
-
-Former Member of Parliament Hirunika Premachandra has been sentenced to three years rigorous imprisonment by the Colombo High Court.
-
-The former SJB parliamentarian was sentenced after being found guilty of being involved in the abduction of a youth in the Dematagoda area on December 21, 2015 using a Defender and his wrongful detention.
-
-The sentencing was delivered by Colombo High Court Judge Amal Ranaraja on Friday (28).
-
-Accordingly, Premachandra was found guilty of 18 charges and the court ordered that a fine of Rs. 20,000 be imposed for each charge.
-
-The order also stated that if the payment of the fines is defaulted, an additional 06 months imprisonment will be imposed for each charge.
-
-When the case was taken up, Colombo High Court Judge Amal Ranaraja declared in open court that the defendant was found guilty of conspiracy and aiding and abetting the abduction of a youth.
-
-...
-
-[Data](articles/b3c7c573.json)
-
-[Extended Data](ext_articles/b3c7c573.ext.json)
-
----
-
-### Hirunika is seriously arranged
-
-*2024-06-28 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198246) · `si`
-
-Mr. Hirunika Premachandra was sentenced to three years in prison by the Colombo High Court for abducting and assaulting a young man from the Deathagoda area. The conviction was confirmed by Judge Amal Ranaraja.
-
-🟩
-
-Colombo High Court has sentenced him three years in prison to Mr. Hirunika Premachandra.
-
-It was convicted of the allegation of a young man who had been abducted and abused a young man who served in the Deathagoda area.
-
-Colombo High Court Judge Amal Ranaraja had been announced.
-
-◼️
-
-[Data](articles/0f74bc45.json)
-
-[Extended Data](ext_articles/0f74bc45.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 305.90/306.00 to US dollar
-
-*2024-06-28 10:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-305-90-306-00-to-us-dollar-169964/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 305.90/306.00 to the US dollar on Friday, while bond yields were steady, and stocks opened 0.03 percent down, dealers said.
-
-In equities, Colombo’s All Share Price Index opened 3.56 points lower at 12,185, while the S&P SL20 of more liquid stocks opened up at 0.17 percent or 6.12 points to 3,607.
-
-A bond maturing on 01.06.2026 was quoted at 10.90/11.00 percent.
-
-A bond maturing on 15.12.2026 was quoted at 10.95/11.15 percent, down from 11.00/30 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.90/12.00 percent, up from 11.85/12.05 percent.
-
-A bond maturing on 15.09.2029 was quoted at 12.15/25 percent, down from 12.15/30 percent. (Colombo/Jun28/2024)
-
-◼️
-
-[Data](articles/08127ead.json)
-
-[Extended Data](ext_articles/08127ead.ext.json)
-
----
-
-### Little daughter killed a dog
-
-*2024-06-28 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198245) · `si`
-
-A young girl died after being bitten by a dog in Kilinochchi, allegedly without receiving a rabies vaccine. She fell ill days later and was hospitalized, where it was confirmed her death was due to the dog bite. Four others bitten by the same dog sought medical help. Investigations are ongoing by local health inspectors.
-
-🟩
-
-Residents of the area say that the dog had bites the girl on the 10th in Kilinochchi, Kilinochchi.
-
-They are accused of their parents that she has not taken rabies vaccine or necessary medical care.
-
-She was admitted to the Kilinochchi hospital due to sudden illness a few days later.
-
-Hospital authorities have said that the death of the girl had taken place from biting the dog.
-
-Residents of the area states that four other people who bite the dog had gone to medical treatment.
-
-Further investigations are being carried out by the Kandawala Public Health Inspectors of Kandawala.
-
-◼️
-
-[Data](articles/3947373a.json)
-
-[Extended Data](ext_articles/3947373a.ext.json)
 
 ---

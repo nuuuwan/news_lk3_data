@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 23:19:25**
+As of **2024-06-28 23:35:06**
 
 ## Newspaper Stats
 
-*Scraped **32,696** Articles*
+*Scraped **32,697** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,913
 dailyftlk | 1,998
 adalk | 2,895
 adaderanalk | 3,723
-tamilmirrorlk | 3,862
+tamilmirrorlk | 3,863
 dailymirrorlk | 4,733
 virakesarilk | 5,095
 adaderanasinhalalk | 5,384
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,696 (100.0%) of 32,696 articles have been extended.
+32,696 (100.0%) of 32,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### சிறீதரன் எம்.பிக்கு அச்சுறுத்தல்...
+
+*2024-06-28 23:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சிறீதரன்-எம்-பிக்கு-அச்சுறுத்தல்/71-339588) · `ta`
+
+பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரனின், யாழ்ப்பாணத்திலுள்ள இல்லத்தின் முன்பாக இனந்தெரியாத நபர்களின் அச்சுறுத்தும் வகையிலான நடமாட்டம் இன்றையதினம் (28) அவதானிக்கப்பட்டுள்ளது.
+
+இலக்கத்தகடுகள் மறைக்கப்பட்ட நான்கு மோட்டார்சைக்கிள்களில், முகமூடிகள் அணிந்தவாறு வருகைதந்த இனந்தெரியாத நபர்களின் நடமாட்டம், பாராளுமன்ற உறுப்பினர் சிறீதரனையும், அவரது குடும்பத்தினரையும் அச்சுறுத்தும் வகையிலான திட்டமிட்ட செயல் என்பதை, கண்காணிப்புக் கமராக்களில் பதிவாகியுள்ள காணொளிக் காட்சிகள் உறுதிப்படுத்துகின்றன. R
+
+◼️
+
+[Data](articles/d5199d23.json)
+
+---
 
 ### Appeal against Hirunika
 
@@ -2307,25 +2321,5 @@ We extend our appreciation to the Official Creditors Committee chaired by France
 [Data](articles/cf80e60c.json)
 
 [Extended Data](ext_articles/cf80e60c.ext.json)
-
----
-
-### Sanjaya Mahawatta arrested
-
-*2024-06-28 09:32:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஞ்சய-மஹவத்த-கைது/175-339568) · `ta`
-
-Sanjaya Mahawatta, head of 'Magen Ratata', was arrested by the Criminal Investigation Department for allegedly making false accusations against senior police officers.
-
-🟩
-
-The leader of the 'Magen Ratata' organization Sanjaya Mahawatta has been arrested by the Criminal Investigation Department.
-
-Police Media Spokesperson Nihal Talduwa said that Sanjay Mahawatta has been arrested in connection with the incident of false allegations against senior police officers.. Remble
-
-◼️
-
-[Data](articles/fd7f87a5.json)
-
-[Extended Data](ext_articles/fd7f87a5.ext.json)
 
 ---

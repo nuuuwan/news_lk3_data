@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 07:48:07**
+As of **2024-06-28 08:15:21**
 
 ## Newspaper Stats
 
-*Scraped **32,583** Articles*
+*Scraped **32,585** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ islandlk | 1,813
 economynextcom | 1,901
 dailyftlk | 1,998
 adalk | 2,885
-adaderanalk | 3,704
+adaderanalk | 3,705
 tamilmirrorlk | 3,847
 dailymirrorlk | 4,733
 virakesarilk | 5,068
-adaderanasinhalalk | 5,355
+adaderanasinhalalk | 5,356
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,569 (100.0%) of 32,583 articles have been extended.
+32,578 (100.0%) of 32,585 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### මෙරට කාන්තාවන්ගෙන් සියයට 50ක් ස්ථුලතාවයෙන්
+
+*2024-06-28 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198241) · `si`
+
+මෙරට කාන්තාවන්ගෙන් සියයට 50ක් පමණ ස්ථූලතාවයෙන් පෙළෙන බව ශ්‍රී ලංකා පෝෂණ විශේෂඥ වෛද්‍යවරුන්ගේ විද්‍යායතනය පවසයි.
+
+එහි සභාපති වෛද්‍ය තිමති වික්‍රමසේකර මහතා පැවසුවේ ළමුන් අතර ද ස්ථුලතාවය ඉහළ යමින් පවතින බවය.
+
+"අපි මේ ස්ථුලතාවය කියන කාරණය අමතක කරලා තියෙන්නේ. හැම වෙලාවෙම අපි මන්දපෝෂණය ගැන තමයි අවධානය යොමු කරන්නේ. නමුත් ළමා ස්ථූලතාවයත් වැඩිවීගෙන යනවා. කාන්තාවන්ගෙන් 50කට ආසන්න ප්‍රමාණයක් අධි බර සහ ස්ථුලතාවය. අලුත් පර්යේෂණ දත්ත පද්ධතියක් ලංකාවට අවශ්‍යයි."
+
+මේ වන විට මෙරට මන්දපෝෂණ තත්ත්වය අඩු වුවද අධි පෝෂණය ඉහළ ගොස් ඇති බව වෛද්‍ය තිමති වික්‍රමසේකර මහතා වැඩිදුරටත් සදහන් කළේය.
+
+◼️
+
+[Data](articles/83b5602a.json)
+
+---
 
 ### Sanjaya Mahawatta arrested by TID
 
@@ -42,47 +60,79 @@ The Chairman of ‘Magen Ratata’ movement Sanjaya Mahawatta has been arrested 
 
 [Data](articles/0e20170e.json)
 
+[Extended Data](ext_articles/0e20170e.ext.json)
+
 ---
 
-### සංජය මහවත්ත අත්අඩංගුවට
+### Sanjaya Mahawaththa arrested by TID
+
+*2024-06-28 07:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100151/sanjaya-mahawaththa-arrested-by-tid) · `en`
+
+The Chairman of ‘Magen Ratata’ movement Sanjaya Mahawaththa has been arrested by the Terrorism Investigation Division (TID) for allegedly making false allegations against senior police officers, police said.
+
+◼️
+
+[Data](articles/d4841e77.json)
+
+---
+
+### Sanjaya Mahawatta arrested
 
 *2024-06-28 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198240) · `si`
 
-ජ්‍යේෂඨ පොලිස් නිලධාරීන්ට අසත්‍ය චෝදනා එල්ල කිරීමේ සිද්ධියක් සම්බන්ධයෙන් සංජය මහවත්ත අත්අඩංගුවට ගෙන ඇති බව වාර්තා වෙයි.
+Sanjaya Mahawatta was arrested for falsely accusing Tesion police officers.
+
+🟩
+
+It is reported that Sanjaya Mahawatta has been arrested in connection with the incident of false allegations to the Tesion police officers.
 
 ◼️
 
 [Data](articles/8984939c.json)
 
+[Extended Data](ext_articles/8984939c.ext.json)
+
 ---
 
-### විශ්‍රාම වැටුප් වැඩිපුර ගෙවලා
+### Pensions were paid more
 
 *2024-06-28 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198239) · `si`
 
-ගම්පහ දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කාර්යාල 13ක පසුගිය වසරේ දෙසැම්බර් 31 වනදා වන විට විශ්‍රාම වැටුප් ලබමින් සිටි විශ්‍රාමිකයින් 419 දෙනෙකු සඳහා රුපියල් කෝටි 4කට අධික මුදලක් වැඩිපුර ගෙවා ඇති බව රජයේ ගිණුම් පිළිබද කාරක සභාවේදී අනාවරණය වී තිබේ.
+The Select Committee of Government Accounts found that the government delayed pension payments due to unaddressed issues like the non-suspension of pension circulars upon death notifications. This was discovered during a review of the Auditor General's records in the Gampaha District Secretariat. The committee has now ordered officials to investigate and rectify these payment delays and related malpractices.
 
-මියගිය බව දැනුම් දීමට ප්‍රමාදවීම, ජීවිත සහතික ලබා නොදෙන විශ්‍රාමිකයින්ගේ විශ්‍රාම වැටුප් තාවකාලිකව නතර කිරීමට කටයුතු නොකිරීම, විශ්‍රාම වැටුප් චක්‍රලේඛවලට අනුගත නොවීම සහ වෙනත් හේතුන් මත මෙලෙස මෙම මුදල් ගෙවීම් සිදු කර ඇති බව විගණන නිලධාරීන් පෙන්වා දී ඇත.
+🟩
 
-ගම්පහ දිස්ත්‍රික් ලේකම් කාර්යාලයේ පසුගිය වසරවල විගණකාධිපති වාර්තා සහ වර්තමාන කාර්ය සාධනය පරීක්ෂා කිරීම සඳහා රජයේ ගිණුම් පිළිබඳ කාරක සභාව පසුගියදා පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථාවේදී මෙම තොරතුරු අනාවරණය වුණි.
+The Select Committee of Government Accounts have revealed that the government has paid over Rs.
 
-ඒ අනුව විශ්‍රාම වැටුප් ගෙවීමේදී සිදුවන අක්‍රමිකතා සහ ගැටලු හඳුනාගෙන ඒවා කඩිනමින් විසඳීමට පියවර ගන්නා ලෙස කාරක සභාව විසින් නිලධාරීන්ට උපදෙස් ලබාදී තිබේ.
+Auditors have pointed out that the pension circulars have not been temporarily suspended to be temporarily suspended to be suspended and paid to the delay in notification of death.
+
+This information was revealed when the ACCCCCCC general meeting met with the Auditor General's records and current performance in the Gampaha District Secretariat recently.
+
+Accordingly, the committee has instructed officials to identify malpractices and issues at paying pensions.
 
 ◼️
 
 [Data](articles/86196767.json)
 
+[Extended Data](ext_articles/86196767.ext.json)
+
 ---
 
-### මල්ශාලා හිමිකරු ඝාතනයේ සැකකරු පොලීසියටම ඇවිත්
+### The suspect in the murder of the Municipal Council has come to the police
 
 *2024-06-28 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198238) · `si`
 
-මල්ශාලා හිමිකරුවෙකු කපා කොටා ඝාතනය කිරීමේ අපරාධයේ සැකකරු ඊයේ (27) සවස නීතිඥයෙකු මාර්ගයෙන් අම්බලන්ගොඩ පොලීසියට භාරවීමෙන් පසු අත්අඩංගුවට ගෙන තිබේ.
+A suspect in the Municipal Council murder case was turned over to the Ambalangoda Police by a lawyer on April 27th.
+
+🟩
+
+The suspect was handed over to the Ambalangoda Police by a lawyer yesterday evening yesterday (27).
 
 ◼️
 
 [Data](articles/c382c216.json)
+
+[Extended Data](ext_articles/c382c216.ext.json)
 
 ---
 
@@ -95,6 +145,8 @@ A response to “President raises point of order in Parliament over SC ruling on
 ...
 
 [Data](articles/a913667f.json)
+
+[Extended Data](ext_articles/a913667f.ext.json)
 
 ---
 
@@ -117,6 +169,8 @@ Sri Lanka Podujana Peramuna National Orga-niser and Parliamentarian Namal Rajapa
 ...
 
 [Data](articles/4ea8f812.json)
+
+[Extended Data](ext_articles/4ea8f812.ext.json)
 
 ---
 
@@ -154,6 +208,8 @@ In a joint press briefing on Wednesday, Chief Organiser of the ruling party and 
 
 [Data](articles/8e49edf4.json)
 
+[Extended Data](ext_articles/8e49edf4.ext.json)
+
 ---
 
 ### BASL condemns Parliamentary attacks on judicial independence
@@ -176,6 +232,8 @@ This statement follows a series of remarks against the judiciary by the Justice 
 
 [Data](articles/7f1d224e.json)
 
+[Extended Data](ext_articles/7f1d224e.ext.json)
+
 ---
 
 ### National Business Excellence Awards concludes successfully
@@ -189,6 +247,8 @@ The National Chamber announced that the “The National Business Excellence Awar
 ...
 
 [Data](articles/b6834cad.json)
+
+[Extended Data](ext_articles/b6834cad.ext.json)
 
 ---
 
@@ -2189,49 +2249,5 @@ Premadasa also claimed that the government has been hiding information and data 
 [Data](articles/14dd94d9.json)
 
 [Extended Data](ext_articles/14dd94d9.ext.json)
-
----
-
-### Come to work from tomorrow
-
-*2024-06-27 15:41:28* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-දෙවිවරුනේ-හෙට-ඉදන්-වැඩට-එන්න/11-410480) · `si`
-
-Bandula Gunawardena urges kindness towards teachers, highlighting the disparity between government and international school education quality despite equal tax contributions.
-
-🟩
-
-Acting Minister Bandula Gunawardena requests that the teachers and the forefathers are kind to the best of the teacher and fathers who consider the teacher gods for their children.. Attempting to awareness discussion on the prevailing teacher, we have called on the government's news team today (27).
-
-The children of international schools and other private schools have been destroyed without any teacher strike, but the government's children who have been taxed to the government have lost the situation.
-
-He stated that when the tax payments were paid by the tax payments of the tax payments, the government has been given the maximum teachers.
-
-◼️
-
-[Data](articles/bfa131be.json)
-
-[Extended Data](ext_articles/bfa131be.ext.json)
-
----
-
-### Another decision pertaining to the appointment of judges
-
-*2024-06-27 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198217) · `si`
-
-The Supreme Court will hear a fundamental rights petition concerning fisheries, with the Chief Justice presiding. This decision comes after considering two petitions filed by Ven, with hearings scheduled for July 25th.
-
-🟩
-
-The Supreme Court has decided to hear the fundamental rights petition to be heard as the Chief Justice, preventing the name of the Judges for the fisheries' filing for the fiscal judiciary.
-
-The court has issued the court after considering two intermediate petitions filed by Ven.
-
-The petition was then taken to hear the petition on 25th July.
-
-◼️
-
-[Data](articles/e5d83549.json)
-
-[Extended Data](ext_articles/e5d83549.ext.json)
 
 ---

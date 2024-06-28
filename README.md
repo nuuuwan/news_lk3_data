@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 19:04:35**
+As of **2024-06-28 19:19:40**
 
 ## Newspaper Stats
 
-*Scraped **32,680** Articles*
+*Scraped **32,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,719
 tamilmirrorlk | 3,861
 dailymirrorlk | 4,733
 virakesarilk | 5,093
-adaderanasinhalalk | 5,379
+adaderanasinhalalk | 5,380
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,680 (100.0%) of 32,680 articles have been extended.
+32,680 (100.0%) of 32,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### අධිකරණයට රැගෙන ආ රැඳවියන් පළායයි
+
+*2024-06-28 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198266) · `si`
+
+කුරුවිට බන්ධනාගාරයේ රැඳවියන් දෙදෙනෙක් නීති කෘත්‍යක් සඳහා අද (28) වරකාපොළ තුල්හිරිය මහෙස්ත්‍රාත් අධිකරණයට රැගෙන යමින් සිටියදී බන්ධනාගාර නිලධාරින් තල්ලුකර පළාගොස් තිබේ.
+
+මෙම සැකකරුවන් මාංචු සමඟ පළාගොස් ඇති අතර ඔවුන් සොයා වරකාපොළ පොලීසිය විමර්ශන සිදුකරයි.
+
+එක් සැකකරුවකු ගෝනපොළ පදිංචි රොෂාන් අසංක කන්දප්පා නමැති අයෙක් වන අතර අනෙක් සැකකරු හොරණ දවුලගලවත්ත පදිංචි ජේ.ඩී.චන්න ප්‍රබෝද නමැති අයෙකි.
+
+මෙම සැකකරුවන්ට පැල්මඩුල්ල, අත්තනගල්ල, හොරණ සහ වරකාපොළ යන අධිකරණවල නඩු රාශියක් ඇති බව සඳහන් වේ.
+
+පොලීසිය පැවසුවේ සැකකරුවන් සේවීමේ විමර්ශන සඳහා පොලිස් සුනඛයින්ගේ ද සහාය මේ සඳහා ලබා ගත් බවයි.
+
+◼️
+
+[Data](articles/cd5d7c0c.json)
+
+---
 
 ### Extending Explanation for Keheliya
 
@@ -2263,19 +2283,5 @@ The suspect was handed over to the Ambalangoda Police by a lawyer yesterday even
 [Data](articles/c382c216.json)
 
 [Extended Data](ext_articles/c382c216.ext.json)
-
----
-
-### Descent into lunacy
-
-*2024-06-28 06:33:28* · [`dailyftlk`](https://www.ft.lk/columns/Descent-into-lunacy/4-763582) · `en`
-
-A response to “President raises point of order in Parliament over SC ruling on Gender Equality Bill” published in the Daily FT of 19 June 2024 (https://www.ft.lk/news/President-raises-point-of-order-in-Parliament-over-SC-ruling-on-Gender-Equality-Bill/56-763217#:~:text=President%20Ranil%20Wickremesinghe%20yesterday%20in,to%20look%20into%20the%20matter.)
-
-...
-
-[Data](articles/a913667f.json)
-
-[Extended Data](ext_articles/a913667f.ext.json)
 
 ---

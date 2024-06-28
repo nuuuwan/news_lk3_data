@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 13:54:27**
+As of **2024-06-28 14:05:45**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 5,367
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,627 (100.0%) of 32,630 articles have been extended.
+32,630 (100.0%) of 32,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### අදත් ලෝටස් පාර වසා දැමේ
+### Lotus is still closed today
 
 *2024-06-28 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198252) · `si`
 
-ඒ ලංකා බැංකු සේවක සංගමය සංවිධානය කර තිබෙන විරෝධතා පාගමනක් හේතුවෙන් එම මාර්ගය අවහිරවීම හේතුවෙනි.
+Lotus remains shut due to a protest march by the Bank of Ceylon Bank Employees Union.
+
+🟩
+
+It is due to a protest march organized by the Bank of Ceylon Bank Employees Union.
 
 ◼️
 
 [Data](articles/3f40f2cd.json)
+
+[Extended Data](ext_articles/3f40f2cd.ext.json)
 
 ---
 
@@ -54,25 +60,33 @@ Lotus Road in Colombo has been closed for traffic due to a protest march by the 
 
 [Data](articles/4ba26700.json)
 
+[Extended Data](ext_articles/4ba26700.ext.json)
+
 ---
 
-### ප්‍රදේශ රැසකට හෙට ජල සැපයුම අත්හිටුවයි
+### Water cut tomorrow
 
 *2024-06-28 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198251) · `si`
 
-කොළඹ ඇතුළු ප්‍රදේශ කිහිපයකට හෙට (29) දිනයේ ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
+A 15-hour water cut is scheduled for tomorrow in Colombo and several other areas due to modernization and maintenance work at the Ambatale Water Treatment Plant.
 
-ඒ අනුව හෙට පෙරවරු 9 සිට මධ්‍යම රාත්‍රී 12 දක්වා පැය 15ක කාලයක් ජලසැපයුම අත්හිටුවනු ඇත.
+🟩
 
-කොළඹ, දෙහිවල, ගල්කිස්ස, කෝට්ටේ, කඩුවෙල යන මහනගර සභා බලප්‍රදේශ, මහරගම, බොරලැස්ගමුව,කොළොන්නාව යන නගර සභා බල ප්‍රදේශ සහ කොටිකාවත්ත, මුල්ලේරියාව යන ප්‍රාදේශීය සභා බල ප්‍රදේශවලට ජලසැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය වැඩිදුරටත් සඳහන් කරයි.
+The National Water Supply and Drainage Board says that the water cut will be imposed tomorrow (29) in Colombo.
 
-ඊට අමතරව මොරටුව මහනගර සභා බල ප්‍රදේශයේ අඩුපීඩන තත්ත්වය යටතේ ජලය සැපයෙන බවද ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
+Accordingly, the water will be suspended for a 15-hour water from 9 am to 12 midnight.
 
-අඹතලේ ජල පවිත්‍රාගාරයේ අත්‍යවශ්‍ය නවීකරණ කටයුත්තක් සහ ජල පිරිපහදු පද්ධතියේ නඩත්තු කටයුත්තක් හේතුවෙන් මෙම ජල කප්පාදුව සිදුකිරීමට නියමිතය.
+The National Water Supply and Drainage Board further stated that the water supply is suspended in Colombo, Dehiwala, Mount Lavinia, Kotte, Boralesgamuwa, Kotte and Mulleriyawa Pradeshiya Sabha areas.
+
+The National Water Supply and Drainage Board says that water will be provided with drop in the Moratuwa Municipal Council area.
+
+The water cut will be made due to an essential modernization of the Ambatale Water Treatment Plant and the maintenance work of the water refinery system.
 
 ◼️
 
 [Data](articles/4c4b38b4.json)
+
+[Extended Data](ext_articles/4c4b38b4.ext.json)
 
 ---
 

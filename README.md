@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 14:53:42**
+As of **2024-06-28 15:04:53**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,370
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,634 (100.0%) of 32,635 articles have been extended.
+32,635 (100.0%) of 32,635 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### ණය ප්‍රතිව්‍යුහගතකරණ එකඟතා ගැන විවාදය අඟහරුවාදා
+### Debt on Debt Restruct Concentration Tuesday
 
 *2024-06-28 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198256) · `si`
 
-ණය ප්‍රතිව්‍යුහගතකරණ එකඟතා පිළිබඳ විවාදය ජූලි 2 සහ 3 යන දිනවලදී පාර්ලිමේන්තුවේ දී පැවැත්වීමට නියමිතය.
+A debate on a Debt Restriction Agreement will take place in Parliament on July 2nd and 3rd. A special session has been scheduled for 9:30 am on July 2nd, at the Prime Minister's request, adhering to 16 Standing Orders. Mr. Speaker Mahinda Yapa Abeywardena has asked all MPs to attend.
 
-මේ අතර ජූලි මස 02වන අඟහරුවාදා පෙ.ව 9.30ට පාර්ලිමේන්තුවේ විශේෂ රැස්වීමක් කැඳවා තිබේ.
+🟩
 
-අග්‍රාමාත්‍යවරයාගේ ඉල්ලීම පරිදි පාර්ලිමේන්තුවේ ස්ථාවර නියෝගවල 16 ස්ථාවර නියෝගය ප්‍රකාරව මෙම කැඳවීම සිදුකර ඇත.
+Debt Restriction Agreement Debate will be held in Parliament in Parliament on July 2 and 3.
 
-එබැවින් ඊට පැමිණ සහභාගී වන ලෙස සියලුම පාර්ලිමේන්තු මන්ත්‍රීවරයන්ගෙන් ඉල්ලා සිටින බව කථානායක මහින්ද යාපා අබේවර්ධන මහතා නිවේදනය කරයි.
+Meanwhile, a special meeting of Parliament has been summoned to Parliament at 9.30 am on July 2.
+
+At the request of the Prime Minister, the 16 Standing Orders of Parliament has been called in accordance with Standing Order.
+
+Mr. Speaker Mahinda Yapa Abeywardena announced that he is requested to attend all MPs to attend.
 
 ◼️
 
 [Data](articles/97f9bdf5.json)
+
+[Extended Data](ext_articles/97f9bdf5.ext.json)
 
 ---
 

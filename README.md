@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 05:37:00**
+As of **2024-06-28 06:00:37**
 
 ## Newspaper Stats
 
-*Scraped **32,555** Articles*
+*Scraped **32,557** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 297
 dbsjeyarajcom | 299
 bbccomsinhala | 320
 newsfirstlk | 363
-islandlk | 1,802
+islandlk | 1,804
 economynextcom | 1,901
 dailyftlk | 1,988
 adalk | 2,885
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,350
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,554 (100.0%) of 32,555 articles have been extended.
+32,554 (100.0%) of 32,557 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,20 @@ By April 2022 the central bank had borrowed and busted forex to end up with nega
 [Data](articles/46323a70.json)
 
 [Extended Data](ext_articles/46323a70.ext.json)
+
+---
+
+### Share market gripped by selling pressure following President’s address
+
+*2024-06-28 03:29:00* · [`islandlk`](http://island.lk/share-market-gripped-by-selling-pressure-following-presidents-address/) · `en`
+
+The stock market experienced much selling pressure yesterday as investors anticipated some political uncertainty after President Ranil Wickremesinghe addressed the nation on Wednesday and made a comment on the positive economic situation of the country, market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went down by 74 points while S and P SL20 declined by 32.8 points. Turnover stood at Rs 1 billion with three crossings. Those crossings were reported in Sampath Bank, which crossed 486,000 shares to the tune of Rs 37.9 million; its shares traded at Rs 78, Windforce 1.9 million shares crossed for Rs 37.8 million; its shares traded at Rs 19.50 and HNB (Non- Voting) 125,000 shares crossed for Rs 20 million; its shares traded at Rs 150.
+
+...
+
+[Data](articles/ac4f0402.json)
 
 ---
 
@@ -2367,39 +2381,5 @@ The aquaculture industrial park will reportedly be used for the farming of vario
 [Data](articles/297d6ad4.json)
 
 [Extended Data](ext_articles/297d6ad4.ext.json)
-
----
-
-### The oveest racket robbing the people of Samarisi
-
-*2024-06-27 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198210) · `si`
-
-Mirihana Police arrested three naked extortionists in Samarisi, claiming to be locals. They were linked to a desolate house where a 39-year-old man from Bandarawela, Nugegoda, was assaulted, stripped, and threatened for a Rs. 100,000 ransom. The victim reported the incident, leading to the arrest of the suspects, who were found with heroin and ice drugs. The operation took place at a two-story house owned by one of the suspect's fathers.
-
-🟩
-
-The Mirihana Police have arrested three extortors who were naked and extorted to a desolate house, claiming that they were introduced to Samarises.
-
-The suspects have been organized organized organized.
-
-After connecting a 39-year-old man in the Bandarawela area in Nugegoda, a 39 year old resident of the Bandarawela area in Nugegoda has brought him to a desolate two storied house in Badakotte.
-
-The victim has been assaulted and naked and threatened to welcome the vision and was threatened to do the Internet.
-
-To do not, the people have asked the person to ask for a ransom of Rs. 100,000.
-
-Later, he had lodged a complaint with the Mirihana Police Police and he had given a telephone call to the group to visit Pitakotte to obtain money.
-
-The suspects were arrested by police officers surrounding the surrounding police.
-
-The police were in their cell phones, the police were found in six people with extortion.
-
-Police have also recovered heroin and ice drugs in the possession of the suspects.
-
-...
-
-[Data](articles/1cf0037d.json)
-
-[Extended Data](ext_articles/1cf0037d.ext.json)
 
 ---

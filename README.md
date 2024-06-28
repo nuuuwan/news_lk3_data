@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 06:21:06**
+As of **2024-06-28 07:01:19**
 
 ## Newspaper Stats
 
-*Scraped **32,557** Articles*
+*Scraped **32,568** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,67 @@ colombotelegraphcom | 297
 dbsjeyarajcom | 299
 bbccomsinhala | 320
 newsfirstlk | 363
-islandlk | 1,804
+islandlk | 1,812
 economynextcom | 1,901
 dailyftlk | 1,988
 adalk | 2,885
 adaderanalk | 3,703
-tamilmirrorlk | 3,846
+tamilmirrorlk | 3,847
 dailymirrorlk | 4,733
 virakesarilk | 5,068
-adaderanasinhalalk | 5,350
+adaderanasinhalalk | 5,352
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,554 (100.0%) of 32,557 articles have been extended.
+32,557 (100.0%) of 32,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### අදත් වැස්ස
+
+*2024-06-28 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198236) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (28) දිනයේ වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිකුත් කළ නවතම නිවේදනයේ ඒ බව දැක්වෙයි.
+
+ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40ක 50ක පමණ තද සුළං ද ඇති වෙයි.
+
+◼️
+
+[Data](articles/17175548.json)
+
+---
+
+### ඉන්දියාව අවසන් ගැටුමට
+
+*2024-06-28 05:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198235) · `si`
+
+පන්දුවාර 20යි20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අවසන් මහා තරගයට සුදුසුකම් ලැබීමට ඉන්දීය කණ්ඩායම සමත් වුණි.
+
+ඒ ඊයේ (27) පැවති අවසන් පුර්ව තරගයෙන් එංගලන්ත කණ්ඩායම පරදා ලකුණු 68කින් ජයගැනීමත් සමගය.
+
+තරගයේ කාසියේ වාසිය දිනු එංගලන්තය කණ්ඩායම පළමුව පන්දුවට පහරදීමේ අවස්ථාව ඉන්දීය කණ්ඩායමට ලබා දුනි.
+
+ඒ අනුව ඔවුන් නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 7ක් දැවී ලකුණු 171ක් ලබා ගත්තේය.
+
+ලකුණු 172ක ජයග්‍රාහී ඉලක්කයක් හඹා ගිය එංගලන්ත කණ්ඩායමට පන්දුවාර 16යි පන්දු 04ක් අවසානයේ සියලු දෙනා දැවී ලබා ගත හැකි වුයේ ලකුණු 103ක් පමණයි.
+
+ඉන්දීය කණ්ඩායම සහ දකුණු අප්‍රිකානු කණ්ඩායම මෙම ලෝක කුසලාන තරගාවලියේ මෙතෙක් ක්‍රීඩා කළ සියලුම තරග ජයග්‍රහණය කර තිබීම විශේෂත්වයක් වෙයි.
+
+ඒ අනුව 2024 පන්දුවාර 20යි 20 ලෝක කුසලාන අවසාන මහා තරගය දකුණු අප්‍රිකානු කණ්ඩායම සහ ඉන්දීය කණ්ඩායම අතර එළඹෙන සෙනසුරාදා පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/c1d2a9ba.json)
+
+---
 
 ### Sri Lanka banking system repays debt or builds fx reserves of US$6.2bn since default
 
@@ -56,6 +98,50 @@ By April 2022 the central bank had borrowed and busted forex to end up with nega
 
 ---
 
+### SLT-MOBITEL clinches six prestigious awards at National Project Management Excellence Awards 2024
+
+*2024-06-28 03:36:00* · [`islandlk`](http://island.lk/slt-mobitel-clinches-six-prestigious-awards-at-national-project-management-excellence-awards-2024/) · `en`
+
+At the recent National Project Management Excellence Awards 2024 held at Hotel Galadari in Colombo, SLT-MOBITEL, the National ICT Solutions Provider, secured six prestigious awards. These accolades underscore SLT-MOBITEL’s dedication to pioneering innovative solutions, driving digital transformation, and enriching the lives of Sri Lankans through their exceptional achievements.
+
+The awards showcased the dedication of the respective SLT-MOBITEL teams in delivering the highest standards in project management and ability to deliver solutions that make a difference across diverse sectors. The company’s revolutionary Research and Development initiative, the ‘Embryo’ Team clinched three Gold awards for their groundbreaking projects and project management skills in various sectors.
+
+...
+
+[Data](articles/c56018f3.json)
+
+---
+
+### Virtusa’s Vice President lauds SL’s ‘transformative developments’
+
+*2024-06-28 03:35:00* · [`islandlk`](http://island.lk/virtusas-vice-president-lauds-sls-transformative-developments/) · `en`
+
+Roch Ferreira, Vice President and Global Head of Corporate Marketing at Virtusa, emphasized current transformative developments in Sri Lanka during a recent roundtable aimed at enhancing media relationships and presence in the country.
+
+Speaking at roundtable at the Kingsbury, he added: “Receiving the Great Place to Work certification for the second year in a row is a testament to our efforts in creating a nurturing and inclusive workplace. We are proud to offer local talent the chance to work on global projects, providing invaluable experience and career growth.”
+
+Ferreira emphasized the integral role Sri Lanka plays as a talent destination for Virtusa and the company’s interest in engaging local media to disseminate the employer brand messaging in the local market.
+
+Ferreira also briefed journalists on the recent launch of ‘Virtusa Helio’, the company’s Gen-AI offering, the launch of the Virtusa consulting practice and continued commitment to ESG and engineering with purpose.
+
+...
+
+[Data](articles/7f0f5ab3.json)
+
+---
+
+### Sunshine Holdings wins Gold for ‘Best Investor Relations’ at CFA Capital Market Awards 2024
+
+*2024-06-28 03:35:00* · [`islandlk`](http://island.lk/sunshine-holdings-wins-gold-for-best-investor-relations-at-cfa-capital-market-awards-2024/) · `en`
+
+Diversified conglomerate Sunshine Holdings PLC (CSE: SUN) won Gold at the CFA Society Sri Lanka Capital Market Awards. Held at the Cinnamon Grand Colombo recently, the prestigious Gold award was conferred for ‘Best Investor Relations’ (Mid to Large Cap Companies), recognising Sunshine Holdings’ resilience and commitment to seizing opportunities and maintaining exceptional investor relations. This is the fourth time Sunshine Holdings has won the Gold award in the 12-year history of Capital Market Awards.
+
+...
+
+[Data](articles/9b0ffd3d.json)
+
+---
+
 ### Share market gripped by selling pressure following President’s address
 
 *2024-06-28 03:29:00* · [`islandlk`](http://island.lk/share-market-gripped-by-selling-pressure-following-presidents-address/) · `en`
@@ -68,19 +154,45 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 
 [Data](articles/ac4f0402.json)
 
+[Extended Data](ext_articles/ac4f0402.ext.json)
+
 ---
 
-### கடன் மறுசீரமைப்பில் ’பிரச்சினைகள்  உள்ளன’
+### வெள்ளம் தொடர்பில் 2 வாரங்களுக்குள் அறிக்கை
+
+*2024-06-28 02:38:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளம்-தொடர்பில்-2-வாரங்களுக்குள்-அறிக்கை/175-339565) · `ta`
+
+கொழும்பு மாவட்டத்தில் வெள்ளம் ஏற்பட்டதற்கான காரணங்களை ஆராய்ந்து அனைத்து கிராம உத்தியோகத்தர் பிரிவுகளையும் உள்ளடக்கிய வகையில் அறிக்கை கோருமாறும், அந்த அறிக்கைகளின் அடிப்படையில் ஆரம்ப அறிக்கையை தயாரித்து இரண்டு வாரங்களுக்குள் ஜனாதிபதி அலுவலகத்தில் சமர்ப்பிக்குமாறும் தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க கொழும்பு மாவட்டத்தின் பிரதேச செயலாளர்களுக்கு அறிவுறுத்தல் வழங்கினார்.
+
+அதன் பிரகாரம், சம்பந்தப்பட்ட நிறுவனங்களின் தலைவர்களுடன் கலந்துரையாடி இந்தப் பிரச்சினைகளுக்குத் தீர்வு காண்பதற்குத் தேவையான திட்டங்களை உடனடியாகத் தயாரிக்க நடவடிக்கை எடுப்பதாக அவர் தெரிவித்தார்.
+
+மோசமான காலநிலை காரணமாக கொழும்பு மாவட்டத்தில் அண்மையில் ஏற்பட்ட வெள்ள நிலைமைக்கான காரணங்களைக் கண்டறிந்து அதற்குத் தீர்வுகாண்பதற்காக துறைசார் நிறுவனங்களின் தலைவர்களுடன் நேற்று முன்தினம் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்ற கலந்துரையாடலின் போதே சாகல ரத்நாயக்க இவ்வாறு  தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/3a244251.json)
+
+---
+
+### There are telephone problems in debt restructuring
 
 *2024-06-28 02:31:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-மறுசீரமைப்பில்-பிரச்சினைகள்-உள்ளன/175-339564) · `ta`
 
-சர்வதேச நாணய நிதிய (IMF) திட்டம் மற்றும் கடன் மறுசீரமைப்புத் திட்டங்கள் குறித்து பல விடயங்கள் புதன்கிழமை (26)  வெளிப்படுத்தப்பட்டன. கடன் மறுசீரமைப்பு செயல்முறை நாட்டிற்கு நன்மை பயக்கும் என்றால், அதற்கு ஆதரவை வழங்குவோம். என்றாலும் நேற்றைய தினம் வெளிப்படுத்தப்பட்ட விடயங்கள் தொடர்பில் சிக்கல் நிலை ஏற்பட்டுள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+Debt restructuring issues highlighted concerns over the IMF plan and delays in debt repayment deadlines until 2028. Opposition leader Sajith Premadasa criticized the process, pointing out slower progress compared to other countries like Ghana, which reduced its debt by 37%. He accused the government of misleading the public about the completion of the debt restructuring process and lack of negotiation with international creditors.
 
-பிரபஞ்சம் தகவல் தொழிநுட்ப வேலைத்திட்டத்தின் கீழ்,   களுத்தறை, புலத்சிங்கல மதுராவல, ரெமுன மகா வித்தியாலத்திற்கு வழங்கி வைக்கும் நிகழ்வு ஜூன் 27 ஆம் திகதி இடம்பெற்றது. அதில் கலந்துகொண்டு உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+🟩
+
+Several issues were revealed on Wednesday (26) regarding the International Monetary Fund (IMF) Plan and Debt Reorganization Plans. If the debt restoration process is beneficial to the country, we will support it. Opposition leader Sajith Premadasa, however, said that there was a problem with the issues revealed yesterday.
+
+Under the Universal Information Technology Program, Kalutara, Pulath Singhla Mathuravala, Remuna Maha Vidyalaya was held on June 27. He said this while addressing it.
+
+Time has been levied to pay off the loan until 2028. To pay off debt installments from 2028. Although this seems to be a good thing. Although the IMF is mentioned in the report, this compliance discussion has not reached the target of 2033. The Opposition Leader said that since 2028, compliance has been reached to pay off debt installments.
 
 ...
 
 [Data](articles/56a1876b.json)
+
+[Extended Data](ext_articles/56a1876b.ext.json)
 
 ---
 
@@ -177,6 +289,30 @@ President Ranil Wickremesinghe, who met Sri Sumangala Thera and Asgiri Maha Vika
 [Data](articles/eb173447.json)
 
 [Extended Data](ext_articles/eb173447.ext.json)
+
+---
+
+### National Bartenders Competition 2024 concludes with spectacular grand finale
+
+*2024-06-28 02:12:00* · [`islandlk`](http://island.lk/national-bartenders-competition-2024-concludes-with-spectacular-grand-finale/) · `en`
+
+The 29th National Bartenders Competition 2024 concluded with a spectacular Grand Finale on June 14th at the Cinnamon Grand, Colombo. Powered by International Distillers Limited (IDL) – Sri Lanka’s market leader in Locally Manufactured Foreign Liquor (LMFL) – and organized by the Sri Lanka Hospitality Graduates Association (SLHGA), this prestigious event celebrated the exceptional talent and creativity of bartenders from across the island.
+
+...
+
+[Data](articles/bc1de23b.json)
+
+---
+
+### Fonterra Brands Lanka marks World Environment Day with focus on land restoration
+
+*2024-06-28 02:12:00* · [`islandlk`](http://island.lk/fonterra-brands-lanka-marks-world-environment-day-with-focus-on-land-restoration/) · `en`
+
+Fonterra Brands Lanka commemorated World Environment Day by hosting an educational workshop focused on environmental awareness and soil conservation practices. Aligned with this year’s theme of “Land Restoration, Desertification, and Drought Resilience”, the initiative aimed to empower the local community and future generations with the knowledge and skills needed to realize a more sustainable future.
+
+...
+
+[Data](articles/f696987f.json)
 
 ---
 
@@ -2187,199 +2323,5 @@ In a statement, Minister Zia said in a statement that if the investigation was f
 [Data](articles/8a0cc023.json)
 
 [Extended Data](ext_articles/8a0cc023.ext.json)
-
----
-
-### The order on Keheliya's petition
-
-*2024-06-27 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198214) · `si`
-
-Keheliya Rambukwella, ex-Health Minister, filed a petition on July 1st, seeking to delay proceedings related to substandard antibodies until further notice. The Court of Appeal will review this request on July 27th, with the Attorney General represented by Deputy Solicitor General Nirmalan Vigneswaran.
-
-🟩
-
-The Court of Appeal was set to call a Rit petition filed by the former Health Minister Keheliya Rambukwella on July 1.
-
-The petition has been filed to be remanded to be remanded until the end of the substandard antibodies.
-
-The petition was considered today (27), Deputy Solicitor General Nirmalan Vigneswaran made the Attorney General.
-
-◼️
-
-[Data](articles/c0c4a366.json)
-
-[Extended Data](ext_articles/c0c4a366.ext.json)
-
----
-
-### Do you know these facts about the conspiracy survived?
-
-*2024-06-27 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198213) · `si`
-
-In 2020, Bolivian authorities attempted to oust a military general who sought presidency. President Luis Alberto Catacora, an economist known for his 2005 economic plan leading to rapid growth but also increasing poverty, faces criticism over economic issues like scarce dollar reserves. Plans to partner with Chinese and Russian investors for lithium mining, crucial for e-car batteries, highlight the country's strategic focus amidst opposition claims of failure.
-
-🟩
-
-In 2020, the authorities of a military general attempt to expel the elected to be elected as President of Bolivia.
-
-President Luis San says the former president Ivon Morales assisted the effort.
-
-The President of Bolivia is a well-known economist. His full name is Catacora, Luis Alberto.
-
-He is the Creator of the economic plan of the 2005 presidential election, which was appointed as the President.
-
-The Bolivia economy then grew rapidly and the reforms were initially introduced to the economic growth.
-
-It is especially accepted that the reform of reforms he brought many people in poverty during the same time.
-
-His opponents say the 60-year-old president has failed.
-
-Economic problems are growing by scarcity of dollar reserves in the country.
-
-The President has planned to be contracted with Chinese and Russian investors to dig the abundant little litch metal in such a background.
-
-There is a great demand for Lithium to use e-car battery production.
-
-◼️
-
-[Data](articles/be190bcc.json)
-
-[Extended Data](ext_articles/be190bcc.ext.json)
-
----
-
-### Permanent appointments for 8,000 in July
-
-*2024-06-27 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198212) · `si`
-
-The Cabinet approved permanent appointments for 8,000 temporary workers in local government bodies nationwide, including Pradeshiya Sabhas and Urban Councils. This decision follows a special discussion led by Prime Minister Dinesh Gunawardena, aiming to formalize the employment status of these individuals from temporary, casual, substitute, contract, and relief roles. All appointments are set to be finalized in July.
-
-🟩
-
-Cabinet approval has been granted to grant permanent pension appointments to the temporary, casual, substitutes, contract and relief base of local authorities.
-
-The Cabinet Memorandum of Prime Minister and Public Administration, Home Affairs, Provincial Councils, Provincial Councils and Local Government, Dinesh Gunawardena.
-
-This will take permanent appointments on temporary, casual, substitutes, contract and relief base serving in Pradeshiya Sabhas, Urban Councils across the country.
-
-A special discussion was held at the Parliamentary Complex under the patronage of Prime Minister Dinesh Gunawardena to provide them with immediate discussions.
-
-Accordingly, all those appointments were decided to provide all of the appointments in July.
-
-◼️
-
-[Data](articles/b048628e.json)
-
-[Extended Data](ext_articles/b048628e.ext.json)
-
----
-
-### Puppy girl dies in Kilinochchi
-
-*2024-06-27 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/187095) · `ta`
-
-A four-year-old girl from Kilinochchi died on Wednesday after being hospitalized in Jaffna for treatment.
-
-🟩
-
-A four -year -old girl from Kumarasamipuram, Kilinochchi died on Wednesday (26) without treatment.
-
-The girl was admitted to the Jaffna Teaching Hospital last Sunday and was receiving treatment.
-
-◼️
-
-[Data](articles/d6655171.json)
-
-[Extended Data](ext_articles/d6655171.ext.json)
-
----
-
-### Sri Lankan cricket team leads to resign
-
-*2024-06-27 13:28:53* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකා-ක්‍රිකට්-කණ්ඩායමේ-ප්‍රධාන-පුහුණුකරුත්-ඉල්ලා-අස්වෙයි/11-410477) · `si`
-
-Chris Silvertingal, head coach of Sri Lanka's National Box Cricket team, resigned due to personal reasons. Appointed in May 2022, he stepped down on March 27th.
-
-🟩
-
-Sri Lanka Cricket (SLC) has issued the head coach of the Sri Lanka National Box Cricket team to the resignation letter from his post today (27).
-
-Cricket announced that Chris Silvertingd has decided to resign from his post on a personal cause.
-
-Chris Savwardwood was appointed as the Chief Trainer of the Sri Lankan team from May 2022.
-
-◼️
-
-[Data](articles/7063c94d.json)
-
-[Extended Data](ext_articles/7063c94d.ext.json)
-
----
-
-### Box against Pavithra's gazette
-
-*2024-06-27 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198211) · `si`
-
-The Supreme Court has temporarily halted development in a portion of Sri Lanka's Vedithalthivu Reserve Forest, responding to a petition from environmental groups. This decision will remain in effect until the court concludes its review of the case.
-
-🟩
-
-The Supreme Court has issued an interim injunction with a part of the Wilpattu-based Vedithalthivu Reserve Forest Reserve forest area.
-
-The Supreme Court issued the order permits a petition filed by several environmental organizations.
-
-The interim injunction order stated that until the end of the petition examination.
-
-◼️
-
-[Data](articles/a7f36754.json)
-
-[Extended Data](ext_articles/a7f36754.ext.json)
-
----
-
-### Discussion with many parties in Kilinochchi on the creation of an independent commission for truth, unity and reconciliation!
-
-*2024-06-27 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187093) · `ta`
-
-In Kilinochchi, discussions aimed at creating an independent commission for truth, unity, and reconciliation in Sri Lanka took place. This commission, focused on addressing injustices faced by victims of the conflict in the North and East, is set to be established through a Parliamentary Act. The goal is to investigate human rights violations from 1983 to 2009, prevent future incidents, and promote national reconciliation. These discussions involved various stakeholders, including government agents, military elites, police officers, NGO representatives, journalists, and the public, emphasizing the importance of social justice and unity.
-
-🟩
-
-The Interim Secretariat for Truth and Reconciliation Mechanism and the proposed Commission for True Unity and Reconciliation (CTUR) is taking steps to establish a Commission in Sri Lanka to address the problems and injustices facing the victims of the conflict in the North and East in Sri Lanka.
-
-Four sessions were held yesterday (26) in the Kilinochchi district.
-
-Discussions were held in Sri Lanka under the aim of promoting national reconciliation, unity and social justice.
-
-Between 1983 and 2009, it is planned to establish a Truth, Integration and Reconciliation Commission as an independent organization established by the Parliamentary Act to find out the fact of alleged human rights violations during the conflict in the Northern and Eastern Provinces.
-
-...
-
-[Data](articles/1f272fe3.json)
-
-[Extended Data](ext_articles/1f272fe3.ext.json)
-
----
-
-### Supreme Court stays degazetting of Vidataltivu reserve
-
-*2024-06-27 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100141/supreme-court-stays-degazetting-of-vidataltivu-reserve) · `en`
-
-The Supreme Court has issued an interim order preventing the implementation of Gazette notification issued by Wildlife Minister Pavithra Wanniarachchi, which de-gazetted a section of the Vidataltivu Nature Reserve in Wilpattu to allocate it for a prawn farm project.
-
-The Supreme Court issued this order while allowing the hearing of a petition filed by several environmental organizations.
-
-The order stated that this interim order will remain in effect until the hearing of the petition is concluded.
-
-In May, an extraordinary gazette had been issued de-gazetting a section of the Vidataltivu Nature Reserve to set up an aquaculture industrial park.
-
-The aquaculture industrial park will reportedly be used for the farming of various species including marine finfish, crabs and exotic species of shrimp in a Public Private Partnership.
-
-...
-
-[Data](articles/297d6ad4.json)
-
-[Extended Data](ext_articles/297d6ad4.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 17:19:26**
+As of **2024-06-28 17:35:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,376
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,667 (100.0%) of 32,669 articles have been extended.
+32,669 (100.0%) of 32,669 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ In total, 158 mobile phones, 16 laptops, and 60 desktop computers were seized fr
 
 [Data](articles/73870cf4.json)
 
+[Extended Data](ext_articles/73870cf4.ext.json)
+
 ---
 
 ### Keheliya and seven others further remanded
@@ -65,6 +67,8 @@ A suspect in the incident, an officer of the Medical Supplies Division (MSD), ha
 ◼️
 
 [Data](articles/b36714b9.json)
+
+[Extended Data](ext_articles/b36714b9.ext.json)
 
 ---
 

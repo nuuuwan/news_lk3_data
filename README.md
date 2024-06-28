@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 13:04:30**
+As of **2024-06-28 13:19:31**
 
 ## Newspaper Stats
 
-*Scraped **32,626** Articles*
+*Scraped **32,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,813
 economynextcom | 1,901
 dailyftlk | 1,998
-adalk | 2,889
+adalk | 2,890
 adaderanalk | 3,712
 tamilmirrorlk | 3,858
 dailymirrorlk | 4,733
@@ -26,23 +26,31 @@ adaderanasinhalalk | 5,365
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,623 (100.0%) of 32,626 articles have been extended.
+32,626 (100.0%) of 32,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### மூதூரில் கைது செய்யப்பட்டவர்கள் பிணையில் விடுதலை
+### Those arrested in Muttur released on bail
 
 *2024-06-28 12:46:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/மூதூரில்-கைது-செய்யப்பட்டவர்கள்-பிணையில்-விடுதலை/75-339582) · `ta`
 
-மூதூர் - இருதயபுரம் பகுதியில் இடம்பெற்ற மதுபானசாலைக்கு எதிரான எதிர்ப்பு ஆர்ப்பாட்டத்தின்போது சந்தேகத்தின்பேரில் கைது செய்யப்பட்ட சந்தேக நபர்கள் 15 பேரும் வெள்ளிக்கிழமை (28) மூதூர் நீதிமன்றால் பிணை வழங்கி விடுதலை செய்யப்பட்டுள்ளனர்.
+Fifteen suspects arrested after protests against a liquor store in Muttur were released on bail by the Muttur court on Friday. The arrests occurred when police clashed with residents on Tuesday evening, leading to the detention of 15 individuals, including a schoolgirl and a lactating mother, along with confiscation of several vehicles. The court initially ordered their remand until July 3rd but later granted them bail.
 
-குறித்த வழக்கானது எதிராளிகள் சார்பாக நகர்த்தல் விண்ணப்பத்தின் மூலம் மூதூர் நீதவான் நீதிமன்றில் எடுத்துக் கொள்ளப்பட்டது. இதன்போது கைது செய்யப்பட்ட அனைவரும் நீதவான் நீதிமன்ற நீதிபதி எச்.எம்.தஸ்னீம் பௌசானின் முன்னிலையில் திறந்த நீதிமன்றில் நூற்றுக்கும் அதிகமானவர்களுடன் ஆள் அடையாள அணிவகுப்பிற்கு உட்படுத்தப்பட்டிருந்தார்கள். பின்னர் ஒவ்வொருவரும் தலா 50000 பெறுமதியான சரீரப்பிணையில் விடுவிக்கப்பட்டிருந்ததோடு, எதிர்வரும் நவம்பர் மாதம் 25ஆம் திகதி மீண்டும் வழக்கு விசாரணைக்காக அழைக்கப்பட்டுள்ளனர்.
+🟩
+
+Fifteen suspects arrested on suspicion of protest against the liquor store in Muttur - Irudayapuram area have been granted bail by the Muttur court on Friday (28).
+
+The case was taken at the Muttur Magistrate's Court through the Movement Application on behalf of the opponents. All those arrested were subjected to an identification parade with more than a hundred people in the open court in the presence of Magistrate's Court Judge HM Dasneem Bausan.. Later, each was released in a bodies worth Rs.
+
+The police attacked the residents on Tuesday (25) at 8.00 pm in protest of the liquor road opened in the Irudayapuram area.. Later, the additional police and the Special Task Force were summoned and the people who were in peace and the people who were not involved in the demonstration and the people who were not involved in it, and the people who had taken refuge in the church in the church were arrested and arrested.
 
 ...
 
 [Data](articles/3856f3ce.json)
+
+[Extended Data](ext_articles/3856f3ce.ext.json)
 
 ---
 
@@ -63,6 +71,8 @@ The NWSDB has requested people residing in the aforementioned areas to take the 
 ◼️
 
 [Data](articles/596e1c2c.json)
+
+[Extended Data](ext_articles/596e1c2c.ext.json)
 
 ---
 
@@ -164,23 +174,33 @@ The issue was a key focus during a high-level visit by a parliamentary delegatio
 
 ---
 
-### හිරුණිකාට දියයුතු දඬුවම ගැන නීතිපති දෙපාර්තමේන්තුව කළ ඉල්ලීම
+### Attorney General's Department's request on the punishment of Hirunika
 
 *2024-06-28 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198249) · `si`
 
-දෙමටගොඩ ප්‍රදේශයේ වෙළෙඳසැලක සේවය කළ තරුණයකු පැහැරගෙන ගොස් අයුතු ලෙස සිරකර තැබීමේ චෝදනාව සම්බන්ධයෙන් වරදකරු කෙරුණු හිටපු පාර්ලිමේන්තු මන්ත්‍රී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට කොළඹ මහාධිකරණ විසින් බරපතළ වැඩ සහිත වසර තුනක සිර දඬුවම් නියම කළේය.
+Hirunika Premachandra was sentenced by the Colombo High Court for orchestrating the abduction and abuse of a youth. The court found her guilty on 18 charges, each attracting a fine of Rs. 20,000. If unpaid, this could lead to a six-month prison sentence. Despite being a Member of Parliament, the severity of her actions was highlighted, suggesting a potential maximum sentence of 69 years. However, the court opted for a lesser sentence, considering her political status and the appeal process ongoing.
 
-දීර්ඝ නඩු විභාගයකින් අනතුරුව කොළඹ මහාධිකරණ විනිසුරු අමල් රණරාජ මහතා විසින් තීන්දුව ප්‍රකාශයට පත් කරන ලදී.
+🟩
 
-ඒ අනුව විත්තිකාර හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය චෝදනා 18කට වරදකාරිය කෙරුණු අතර එම එක් එක් චෝදනාවට රුපියල් 20,000 බැගින් දඩ නියම කරන බවත් විනිසුරවරයා නියෝග කළේය.
+The Colombo High Court sentenced Mrs. Hiwika Premachandra who was convicted of abuse of a youth who was abducted and abused a traveler in Dematagoda.
 
-එම දඩ මුදල් ගෙවීම පැහැර හැරියහොත් එක් චෝදනාවට මාස 06 බැගින් සිර දඬුවම් නියම කරන බවත් නියෝගයේ සඳහන් විය.
+Colombo High Court Judge Amal Ranaraja was published after a long trial.
 
-නඩුව කැඳවූ අවස්ථාවේදී විනිසුරු අමල් රණරජා මහතා විවෘත අධිකරණය ප්‍රකාශ කළේ විත්තිකාරිය තරුණයෙකු පැහැරගෙන යාමේ චෝදනාවට කුමන්ත්‍රණය කිරීම හා ආධාර අනුබලදීමේ චෝදනාවලට වරදකරු කරන බවයි.
+Accordingly, the judge ordered that the defendant Hirunika Premachandra was conquered by 18 accusations and each charge would be fined Rs. 20,000 each.
+
+If the penalties were lost, the order was stated in prison six months in prison.
+
+After the case was taken up, Justice Amal Ranraja said the Supreme Court stated that the defendant was convicted of plotting and the accusation of abduction of a youth.
+
+The deputy Solicitor General Janak Bandara appearing for the abduction of the court before the punishment, eight of the accused recalled that the Colombo High Court was sentenced to imprisonment and fines.
+
+According to the nature of the defendant, she could be sentenced to 69 years in prison with serious work.
 
 ...
 
 [Data](articles/3be9cf25.json)
+
+[Extended Data](ext_articles/3be9cf25.ext.json)
 
 ---
 
@@ -473,6 +493,24 @@ However, some political commentators say that Democratic supporters will not be 
 [Data](articles/070bba44.json)
 
 [Extended Data](ext_articles/070bba44.ext.json)
+
+---
+
+### රජයේ විධායක නිලධාරීන්ට රු. 25000 ක විශේෂ මාසික දීමනාවක්
+
+*2024-06-28 10:34:32* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-විධායක-නිලධාරීන්ට-රු--25000-ක-විශේෂ-මාසික-දීමනාවක්/11-410489) · `si`
+
+රාජ්‍ය සේවයේ විධායක සේවා ගණයේ නිලධාරීන් සඳහා ජූලි මස 01 දා සිට ක්‍රියාත්මක වන පරිදි රුපියල් 25000 ක විශේෂ මාසික දීමනාවක් ගෙවීමට රජය තීරණය කරයි.
+
+මේ සම්බන්ධයෙන් වූ චක්‍රලේඛය ඊයේ (27)රාජ්‍ය පරිපාලන ස්වදේශ කටයුතු පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශයේ ලේකම් ප්‍රදීප් යසරත්න මහතාගේ අත්සනින් නිකුත් කෙරිණි.
+
+මෙම දීමනාව හිමිවෙන විධායක නිලධාරීන් සඳහා මෙතෙක් සේවා කාලය මත පදනම්ව රුපියල් 15000 ක උපරිමයකට යටත්ව මාසික දීමනාවක් ගෙවූ අතර ඒ අනුව ඔවුන් මෙතෙක් ලැබූ එම  දීමනාව වෙනුවට පොදුවේ මේ නව  දීමනාව හිමිවෙන බව නව චක්‍රලේඛයේ සඳහන්වේ.
+
+තවද සේවා විශේෂත්වය සලකා මෙතෙක් රුපියල්  25000 හෝ එය ඉක්මවා විශේෂ මාසික දීමනා ලබන  විධායක නිලධාරීන්ට මෙම දීමනා  සංශෝධනය අදාල නොව  බවද මේ  චක්‍රලේඛයේ සඳහන් වේ.
+
+◼️
+
+[Data](articles/4d26d80c.json)
 
 ---
 
@@ -2225,37 +2263,5 @@ The Ministry of Education has announced that all government schools will be held
 [Data](articles/ada686fa.json)
 
 [Extended Data](ext_articles/ada686fa.ext.json)
-
----
-
-### India has operated a banned gambling bet from Sri Lanka
-
-*2024-06-27 20:17:32* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවේ-තහනම්-සූදු-ඔට්ටු-පිටුවක්-මහා-පරිමාණයෙන්-ලංකාවේ-සිට-ක්‍රියාත්මක-කරලා/11-410485) · `si`
-
-In Sri Lanka, 60 Indian nationals involved in an online gambling racket were arrested. Authorities seized 135 mobile phones, 40 computers, and other devices during raids in several locations. The operation, supervised by DIG Premane Premaratne, targeted a banned gambling site linked to significant betting on cricket tournaments.
-
-🟩
-
-The Criminal Investigations Department says that 60 Indians who have been inaugurated in the country have been arrested by 60 Indians who have committed a financial racket online.
-
-Police seized 135 smoky mobile phones with the suspects, 40 computers and 17 laugh devils. The raids have been carried out in the Kotagama, Kotte and Negombo Kochchikade areas.
-
-Police have arrested 9 computers and 5 mobile phones were taken into custody in the area where the racket was held at the Kumbus in the Kumbuwara area.
-
-Police have seized 8 computers in the area, police seized 38 mobile phones in the area
-
-The suspects were also recovered from the suspects in the Kochchikade area of ​​Kochchikade, Negombo.
-
-Police investigations have revealed that the house was obtained on two million monthly lease
-
-The arrested suspects were revealed that a banned gambling online page was launched in India.
-
-Investigations have revealed that many million rupees will be betting on various sports cricket tournament today (27).
-
-...
-
-[Data](articles/d09cea6a.json)
-
-[Extended Data](ext_articles/d09cea6a.ext.json)
 
 ---

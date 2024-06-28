@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 21:04:33**
+As of **2024-06-28 21:19:33**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 5,382
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,689 (100.0%) of 32,691 articles have been extended.
+32,691 (100.0%) of 32,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### උඩරට දුම්රිය මාර්ගයේ ධාවන කටයුතු යථා තත්ත්වයට.
+### Upcountry Railway Track restores
 
 *2024-06-28 20:26:42* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-මාර්ගයේ-ධාවන-කටයුතු-යථා-තත්ත්වයට-/11-410495) · `si`
 
-කොළඹ කොටුව සිට බදුල්ල දක්වා ධාවනය වු පොඩි මැණිකේ දුම්රිය (28) දින උදැසන 11 ට පමණ වටවල දුම්රිය ස්ථානය අසලදි පිලි පැනිමට ලක්විම නිසා ඇණ හිට තිබු උඩරට දුම්රිය මාර්ගයේ ධාවන කටයුතු පස්වරු 2 සිට යලි යථා තත්ත්වයට පත් කෙරිණ.
+The upcountry railway line from Colombo Fort to Badulla was repaired after a delay caused by issues with two wheels of the Menike train. The restoration began at 2 pm, affecting all trains on the Kandyan line which were halted at Galabada and Hatton stations until service resumed.
 
-පොඩි මැණිකේ දුම්රියේ ඉදිරිපස එන්ජිමේ රෝද දෙකක් පිලි පැනිම හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ ධාවන කටයුතු පැය තුනක කාලයක් ඇණ හිට තිබුණි.
+🟩
 
-පිලි පැනිමට ලක් වු පොඩි මැණිකේ දුම්රිය එන්ජිමේ රෝද පිලිගත කිරිමෙන් පසු පස්වරු 2 සිට එම මාර්ගයේ ගමනා ගමන යථා තත්ත්වයට පත් කෙරිණ.
+The upcountry railway line from the Panatawala Railway Station at the Colombo Fort to Badulla was restored from 2 pm.
 
-පිලි පැනිමට ලක් වු දුම්රිය පිලිගත කරන තෙක් උඩරට දුම්රිය මාර්ගයේ ධාවනය කල සියළුම මගි ප්‍රවාහන දුම්රියන් ගලබඩ සහ හැටන් දුම්රිය ස්ථානය වල නතර කර තිබුණි.
+The upcountry railway track was held three hours due to two wheels of the Front of the Small Menike train.
+
+The train was restored from 2 pm from 2 pm after the wheels of the staff of the small gem enclosure.
+
+All passageway trains on the Kandyan railway line were stopped at the Galabada and Hatton Railway Station until the filled train.
 
 ◼️
 
 [Data](articles/daf5c548.json)
 
+[Extended Data](ext_articles/daf5c548.ext.json)
+
 ---
 
-### මල්ශාලා හිමිකරු ඝාතනයේ සැකකරුවෙක් අත්අඩංගුවට
+### Suspect arrested in Murder of Murder
 
 *2024-06-28 20:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198268) · `si`
 
-පසුගියදා අම්බලන්ගොඩ බලපිටිය ප්‍රදේශයේ අවමංගල්‍ය රථයක් තුළදී මල්ශාලා හිමිකරුවෙකු ඝාතනය කිරීමේ සිද්ධියට සැකපිට ඝාතනයට පුද්ගලයෙක් අත්අඩංගුවට ගෙන තිබේ.
+A suspect, known as a disciple of the victim, was arrested in connection with the murder of a man at a funeral in Balapitiya, Ambalangoda. The suspect confessed to the police about having an affair with the victim's wife.
 
-එම සැකකරු ඝාතනයට ලක්වූ පුද්ගලයාගේ ගෝලයෙක් වන බවත් ඔහු සන්තකයේ තිබී තියුණු ආයුධයක් ද පොලිස් භාරයට ගෙන ඇත.
+🟩
 
-සැකකරු පොලීසියට පාපොච්චාරණය කරමිස් පවසා ඇත්තේ, තම බිරිඳ සමඟ පැවති අනියම් සම්බන්ධයක් හේතුවෙන් මල්ශාලා හිමිකරු සමග අවස්ථා කිහිපයකදීම බහින්බස් වීම් සිදුවූ බවය.
+The murder was arrested in connection with the murder of a funeral in Balapitiya, Ambalangoda.
+
+He was also taken into custody that the suspect was a disciple of the victim.
+
+The suspect had confession to the police and had a casual affair with his wife on several occasions with the blocks of the mulletin.
 
 ◼️
 
 [Data](articles/4ac25de6.json)
+
+[Extended Data](ext_articles/4ac25de6.ext.json)
 
 ---
 

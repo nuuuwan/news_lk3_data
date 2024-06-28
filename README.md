@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 03:34:51**
+As of **2024-06-29 03:53:13**
 
 ## Newspaper Stats
 
@@ -118,7 +118,7 @@ In its 2024 Annual Report, USCIRF recommended that the US Department of State in
 
 ### Due to the status of repayment of the loan, Sri Lanka will benefit from $ 17 billion - Ali Sabri
 
-*2024-06-29 00:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/187224) · `ta`
+*2024-06-29 00:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187224) · `ta`
 
 Sri Lanka, through successful debt restructuring with bilateral lenders including India, Japan, France, and ongoing negotiations with China, expects to gain around $17 billion. This achievement paves the way for favorable outcomes in talks for international bailouts, aiming to reduce its total debt to 95% of its GDP and lower foreign loan interest by 4.5% of GDP.
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 16:19:32**
+As of **2024-06-28 16:34:56**
 
 ## Newspaper Stats
 
-*Scraped **32,645** Articles*
+*Scraped **32,663** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,40 +13,98 @@ dbsjeyarajcom | 299
 bbccomsinhala | 321
 newsfirstlk | 363
 islandlk | 1,813
-economynextcom | 1,901
+economynextcom | 1,913
 dailyftlk | 1,998
 adalk | 2,891
 adaderanalk | 3,716
 tamilmirrorlk | 3,860
 dailymirrorlk | 4,733
-virakesarilk | 5,079
+virakesarilk | 5,085
 adaderanasinhalalk | 5,374
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,643 (100.0%) of 32,645 articles have been extended.
+32,645 (99.9%) of 32,663 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### கொழும்பு மக்களுக்கு அவசர அறிவிப்பு
+### ரயில் தடம் புரள்வு ; மலையக ரயில் சேவைகள் பாதிப்பு
+
+*2024-06-28 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/187191) · `ta`
+
+வட்டவளை ரயில்  நிலையத்திற்கு அருகில் ரயில் ஒன்று தடம் புரண்டமையினால் மலையக ரயில் சேவைகள் பாதிப்படைந்துள்ளதாக நாவலப்பிட்டி ரயில் கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+
+கொழும்பு கோட்டையில் இருந்து பதுளை நோக்கி பயணித்த  'பொடி மெனிக்கே' ரயில் இன்று வெள்ளிக்கிழமை (28) முற்பகல் 11.00 மணியளவில்  தடம் புரண்டுள்ளது.
+
+தடம் புரண்ட ரயிலை சீரமைக்கும் பணிகள் இடம்பெற்று வருவதாக  நாவலப்பிட்டி ரயில் கட்டுப்பாட்டு அறை மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/26912c32.json)
+
+---
+
+### Sri Lanka CEB workforce to be revised: Minister
+
+*2024-06-28 16:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-ceb-workforce-to-be-revised-minister-170072/) · `en`
+
+ECONOMYNEXT – The workforce of the state-owned utility provider, the Ceylon Electricity Board, will  be restructured to reduce future hires, Sri Lanka’s Minister of Power and Energy has said.
+
+“The existing approved carder of 26,000+ will be revised to reduce the number of employees recruited in the future,” Kanchana Wijesekera said on x (twitter).
+
+“A new salary structure, a performance based incentive system & a promotion system will be introduced to the CEB employees in the next few weeks,” the minister said.
+
+Wijesekera met trade unions of the CEB recently and “Discussed the structure of the reforms, timeline for implementing different tasks, appointments to successor companies, human resource management, salary structures, policy and management decisions taken.”
+
+Earlier this month Sri Lanka’s parliament passed a new electricity law which aimed to unbundle the sector.
+
+...
+
+[Data](articles/170fec56.json)
+
+---
+
+### Emergency Notice of Colombo People
 
 *2024-06-28 16:06:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மக்களுக்கு-அவசர-அறிவிப்பு/175-339585) · `ta`
 
-கொழும்பு மாவட்டத்தின் பல பகுதிகளுக்கு நாளை 15 மணித்தியாலங்களுக்கு நீர் விநியோகம் தடைப்படும் என நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+Colombo's Water Supply and Drainage Board announced a 15-hour disruption starting 9 am tomorrow, affecting areas including Colombo, Dehiwala, Fort, Kaduwela, Maharagama, Boralesgamuwa, Kolonnawa, Kotikawatte, Mulleriya, and Moratuwa with low pressure.
 
-இதன்படி நாளை காலை 9.00 மணி முதல் நள்ளிரவு 12.00 மணி வரை நீர் விநியோகம் தடைப்படும் எனவும் சபை குறிப்பிட்டுள்ளது.
+🟩
 
-கொழும்பு, தெஹிவளை, கோட்டை, கடுவெல மாநகர சபைக்குட்பட்ட பகுதிகள், மஹரகம, பொரலஸ்கமுவ, கொலன்னாவ நகரசபை பகுதி, கொட்டிகாவத்தை, முல்லேரிய பிரதேச சபைக்குட்பட்ட  இவ்வாறு நீர் விநியோகத் தடை அமுல்படுத்தப்படவுள்ளது.
+The Water Supply and Drainage Board said that water supply will be disrupted for 15 hours tomorrow.
 
-மேலும், மொரட்டுவ நகரசபை பகுதிகளுக்கு குறைந்த அழுத்தத்துடன் நீர் விநியோகம் செய்யப்படவுள்ளதாகவும் வடிகாலமைப்பு சபை மேலும் தெரிவிக்கிறது. R
+According to the council, the water supply will be disrupted from 9.00 am to 12 pm tomorrow.
+
+The water supply ban will be implemented by the Colombo, Dehiwala, Fort, Kaduwela Municipal Council, Maharagama, Boralesgamuwa, Kolonnawa Municipal Council, Kotikawatte and Mulleriya Pradeshiya Sabha.
+
+The Drainage Board also states that the water supply to the Moratuwa municipalities will be supplied with low pressure.. Remble
 
 ◼️
 
 [Data](articles/b13680f1.json)
+
+[Extended Data](ext_articles/b13680f1.ext.json)
+
+---
+
+### மின்சார சட்டமூலத்தை சபாநாயகர் சான்றுரைப்படுத்தினார்
+
+*2024-06-28 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187187) · `ta`
+
+மின்சார சட்டமூலத்தை சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன வியாழக்கிழமை (27) தனது கையொப்பத்தையிட்டு சான்றுரைப்படுத்தினர்.
+
+மின்சாரத்தொழிலுக்கான சீர்திருத்தங்களை நடைமுறைப்படுத்துவதற்கு ஏற்பாடு செய்யும் நோக்கிலான இந்த சட்டமூலம் 2024 ஏப்ரல் 25 ஆம் திகதி பாராளுமன்றத்துக்கு முன்வைக்கப்பட்டது. அதனையடுத்து, கடந்த 6 ஆம் திகதி பாராளுமன்றத்தில் விவாதத்துக்கு எடுத்துக்கொள்ளப்பட்டு 44 மேலதிக வாக்குகளால் சட்டமூலம் நிறைவேற்றப்பட்டது.
+
+அதற்கமைய, இந்த சட்டமூலம் 2024 ஆம் ஆண்டின் 36 ஆம் இலக்க இலங்கை மின்சாரம் சட்டமாக நடைமுறைக்கு வருகின்றது.
+
+◼️
+
+[Data](articles/24838340.json)
 
 ---
 
@@ -68,17 +126,65 @@ Attorney at Law, police spokesman, Nihal Talduuwa said that 137 Indian nationals
 
 ---
 
-### பேருந்து கட்டணம் குறைகின்றது
+### Sri Lanka pays Aswesuma beneficiaries Rs11.6bn for June
+
+*2024-06-28 15:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-pays-aswesuma-beneficiaries-rs11-6bn-for-june-170064/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Welfare Benefits Board has disbursed 11.6 billion rupees to the bank accounts of 622,495 beneficiaries under the Aswesuma scheme for June.
+
+In the first phase of the program, beneficiaries in the ‘vulnerable’ category received 5,000 rupees from July 2023 to March 2024.
+
+Those in the ‘transitional’ category received 2,500 rupees from July to December.
+
+The existing payment system for the ‘extremely poor’ and ‘poor’ categories will continue without changes, Jayantha Wijeratne Chairman/Commissioner of the Welfare Benefits Board said.
+
+Sri Lanka to expand Aswesuma benefits to around 40-pct of population ahead of polls
+
+The Aswesuma poverty alleviation programme, financially backed by the World Bank, is designed to protect lower income groups under severely poor, poor, vulnerable, and transitional categories.
+
+The programme has been allocated 205 billion rupees for this year. (Colombo/June28/2024)
+
+◼️
+
+[Data](articles/5391dcba.json)
+
+---
+
+### The bus fare is decreasing
 
 *2024-06-28 15:31:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்து-கட்டணம்-குறைகின்றது/175-339584) · `ta`
 
-ஜூலை 1ஆம் திகதி முதல் பேருந்து கட்டணத்தை 5 சதவீதம் குறைக்க தீர்மானிக்கப்பட்டுள்ளது.
+From July 1, the bus fare decreased by 5%, making the minimum fare drop to 28 rupees from 30 rupees.
 
-இதன்படி, குறைந்தபட்ச பேருந்து கட்டணம் 2 ரூபாவால் குறைக்கப்படவுள்ள நிலையில், புதிய குறைந்தபட்ச பேருந்து கட்டணம் 28 ரூபாவாக குறைக்கப்படவுள்ளது. R
+🟩
+
+The bus fare has been reduced by 5 per cent from July 1.
+
+Accordingly, the minimum bus fare will be reduced by 2 rupees, and the new minimum bus fare will be reduced to 28 rupees.. Remble
 
 ◼️
 
 [Data](articles/23cb3e08.json)
+
+[Extended Data](ext_articles/23cb3e08.ext.json)
+
+---
+
+### கனிய மண் அகழ்விற்காக நிலத்தை இழந்தவர்களுக்கு மன்னார் பொது அமைப்புக்களின் ஒன்றியத்தின் அவசர வேண்டுகோள்
+
+*2024-06-28 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/187181) · `ta`
+
+மன்னாரில் கனிய மண் அகழ்விற்காக நிலத்தை இழந்தவர்கள் மன்னார் பொது அமைப்புகளின் ஒன்றியத்துடன் தொடர்பு கொள்ளுமாறு அவ் ஒன்றியத்தின் தலைவர் வி.எஸ்.சிவகரன்  வேண்டுகோள் விடுத்துள்ளார்.
+
+இவ்விடயம் தொடர்பாக அவர் இன்று வெள்ளிக்கிழமை (28) விடுத்துள்ள ஊடக அறிக்கையில் மேலும் குறிப்பிடுகையில்,
+
+மன்னார் நகர் பிரதேச செயலாளர் பிரிவுக்கு உட்பட்ட பகுதிகளில் கனிய மண் அகழ்விற்காக  உள்ளூர் காணி முகவர்கள் மூலம் சட்ட விரோதமான முறையில் காணி அபகரிக்கப்படுவதாக பல்வேறு விதமான முறைப்பாடுகள் கிடைக்கப் பெற்றுள்ளன. சில குழுக்கள் அரசியல் செல்வாக்கை பயன்படுத்தியும் அதிகாரத்தை உபயோகித்தும் சாதாரண மக்களின் காணிகளை அபகரித்து வருவதாக குற்றம் சாட்டுகின்றனர்.
+
+அத்துடன், பயன்படுத்தப்படாத நிலங்களுக்கு ஆட்சி  உறுதிகளையும் எழுதுவதாகவும் கூறுகின்றனர். அது மாத்திரமின்றி சில காணிகளுக்கு பயன்பாட்டில் இல்லாத வேறு உறுதிகளை எல்லைகளை மாற்றி  குறித்த இடங்களில் நில அபகரிப்பிலும் ஈடுபடுகின்றனர் எனவும் பாதிக்கப்பட்ட தரப்பினர் ஆதாரங்களோடு குற்றம் சாட்டுகின்றனர்.
+
+...
+
+[Data](articles/3f5bf8cb.json)
 
 ---
 
@@ -122,6 +228,22 @@ President Ranil Wickremesinghe addressing the 2024 Presidential Awards Ceremony 
 
 ---
 
+### சமாதான நீதவான்களுக்கான நடத்தைக் கோவை அடங்கிய ஒழுங்குவிதிகளுக்கு அமைச்சுசார் ஆலோசனைக் குழுவில் அனுமதி
+
+*2024-06-28 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/187183) · `ta`
+
+சமாதான நீதவான்களை நியமித்தல், இடைநிறுத்துதல், இரத்துச் செய்தல் மற்றும் நடத்தைக் கோவை அடங்கிய 1978 ஆம் ஆண்டின் 2 ஆம் இலக்க நீதித்துறைச் சட்டத்தின் கீழ் நீதி, சிறைச்சாலை அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சரினால் ஆக்கப்பட்ட இரண்டு ஒழுங்குவிதிகளுக்கு நீதி, சிறைச்சாலை அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அலுவல்கள் பற்றிய அமைச்சுசார் ஆலோசனைக் குழுவில் அனுமதி வழங்கப்பட்டது.
+
+நீதி, சிறைச்சாலை அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜயதாச ராஜபக்ஷ தலைமையில் அமைச்சுசார் ஆலோசனைக் குழு அண்மையில் (18) பாராளுமன்றத்தில் கூடிய போதே இந்த அனுமதி வழங்கப்பட்டது.
+
+சமாதான நீதவான்களுக்கிடையே உயர் தரத்திலான தார்மீக மற்றும் ஒழுக்கவியல் நடத்தையை ஊக்குவித்தல் மற்றும் ஊழல் செயல்முறைகளுக்கான வாய்ப்புக்களை இல்லாதொழித்தல் என்பவற்றின் மூலம் வினைத்திறனான நீதி நிருவாகத்தை வலுப்பெறச்செய்தல் இந்த நடத்தைக் கோவையின் குறிக்கோளாகும்.
+
+...
+
+[Data](articles/a6a21d25.json)
+
+---
+
 ### Bus fares down
 
 *2024-06-28 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198258) · `si`
@@ -162,6 +284,24 @@ The bus fares have been reduced under the annual fare revision, and as agreed du
 
 ---
 
+### சீனாவின் முன்னாள்  பாதுகாப்பு அமைச்சர்கள் இருவர்  ஊழல் குற்றச்சாட்டினால் கம்யூனிஸ்ட் கட்சியிலிருந்து வெளியேற்றம்
+
+*2024-06-28 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/187171) · `ta`
+
+சீனாவின் முன்னாள் பாது­காப்பு அமைச்­சர்­க­ளான லீ ஷாங்ஃபூ மற்றும்  வெய் ஃபெங்கே இரு­வரும் ஆளும் கம்­யூனிஸ்ட் கட்­சி­யி­லி­ருந்து நேற்று வியா­ழக்­கி­ழமை (27) வெளி­யேற்­றப்பட்டுள்­ளனர். ஊழல் குற்­றச்­சாட்­டு­களின் கார­ண­மாக இவர்கள் கட்­சி­யி­லி­ருந்து வெளி­யேற்­றப்­பட்­டுள்­ளனர் என சீன ஊட­கங்கள் தெரி­வித்­துள்­ளனர்.
+
+வெய் ஃபெங்கே 2018 மார்ச் முதல் 2023 மார்ச்  11 ஆம் திக­தி­வரை வரை பாது­காப்பு அமைச்­ச­ராக பதவி வகித்தார். மறுநாள் லீ ஷாங்பூ பாது­காப்பு அமைச்­ச­ராக பத­வி­யேற்றார்.
+
+கடந்த ஆகஸ்ட் மாதம் இரு மாத காலம், பொது­மக்கள் பார்­வை­யி­லி­ருந்து அவர் காணாமல் போயி­ருந்தார். அவ­ருக்கு என்ன நடந்­தது என கேள்வி எழுந்த நிலையில்,  பாது­காப்பு அமைச்சர் பத­வி­யி­லி­ருந்து லீ ஷாங்ஃபூ நீக்­கப்­பட்­டுள்ளார் என கடந்த ஒக்­டோபர் மாதம் அறி­விக்­கப்­பட்­டது.
+
+இந்­நி­லையில் லீ ஷாங்ஃ­பூவும், வெய் ஃபெங்­கேவும் ஊழல் குற்­றச்­சாட்­டுகள் கார­ண­மாக சீன கம்­யூனிஸ்ட் கட்­சி­யி­லி­ருந்து இடை­நி­றுத்­தப்­பட்­டுள்­ளனர் என சீன அரச ஊட­க­மான சி.சி.ரி.வி. நேற்று தெரி­வித்­துள்­ளது.
+
+...
+
+[Data](articles/71388bef.json)
+
+---
+
 ### Sanjaya to Mahawatta Prison
 
 *2024-06-28 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198257) · `si`
@@ -180,21 +320,63 @@ The Chairman of the Organization "to the country" has been remanded until July 0
 
 ---
 
+### நீதியையும் சமூக நலனையும் மனித உரிமையையும் கேள்ளாக்கும் வகையில் இருதயபுர சம்பவம் - திருமலை மறைமாவட்ட ஆயர்
+
+*2024-06-28 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187176) · `ta`
+
+நீதியையும் சமூக நலனையும் மனித உரிமையையும் கேள்விக்குள்ளாக்கும் வகையில் மூதூர் இருதயபுரத்தில் (சகாயபுரம்) மிகவும் வருத்தத்துக்குரிய சம்பவம் இடம்பெற்றுள்ளதாக திருகோணமலை மறைமாவட்ட ஆயர் அதிவணக்கத்திற்குரிய கிரிஸ்டியன் நோயல் இம்மானுவேல் ஆண்டகை தெரிவித்துள்ளார்.
+
+மூதூர் இருதயபுரத்தில் மதுபானசாலை திறப்புக்கு எதிராக அக்கிராம மக்களால் கடந்த நாட்களில் இடம்பெற்றது. இந்நிலையில் இந்த ஆர்ப்பாட்டத்தில் ஈடுபட்ட 15 பொதுமக்கள் கைதுசெய்யப்பட்டு பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+
+இந்த சம்பவம் தொடர்பில் திருகோணமலை மறைமாவட்ட ஆயர் அதிவணக்கத்திற்குரிய கிரிஸ்டியன் நோயல் இம்மானுவேல் ஆண்டகை ஊடகங்களுக்கு அனுப்பி வைத்துள்ள ஊடக அறிக்கையில் மேலும் குறிப்பிடப்பட்டுள்ளதாவது,
+
+மிகவும் வருத்தத்துக்குரிய சம்பவம் அண்மையில் மூதூர் இருதயபுரத்தில் (சகாயபுரம்) நடைபெற்றதை கேள்விப்பட்டிருப்பீர்கள். நீதியையும் சமூக நலனையும் மனித உரிமையையும் கேள்விக்குறியாக்கும் வகையில் இச்சம்பவம் நடைபெற்றுள்ளது.
+
+...
+
+[Data](articles/5cb12158.json)
+
+---
+
 ### Parliament to debate debt restructuring agreements next week
 
 *2024-06-28 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100162/parliament-to-debate-debt-restructuring-agreements-next-week) · `en`
 
-The debate on Sri Lanka’s debt restructuring agreements will be held in Parliament on July 02 and 03 while the vote will be taken in the evening of July 03, 2024.
+The Committee on Parliamentary Business has decided to debate the Resolution for the Implementation of External Debt Restructuring Agreements on July 2nd and 3rd, according to the Chief of Staff and Deputy Secretary General of Parliament.
 
-Meanwhile, the Speaker of Parliament Mahinda Yapa Abeywardena has requested all the Members of Parliament (MPs) to attend the Special Sitting of Parliament on Tuesday the 02 of July 2024 at 9.30 a.m., in pursuance of Standing Order No. 16 of the Standing Orders of the Parliament, having been requested to do so by the Prime Minister.
+This has been decided in the Committee on Parliamentary Business held this morning (28), under the chairmanship of Speaker Mahinda Yapa Abeywardena and with the participation of Prime Minister Dinesh Gunawardena.
 
-On June 26, 2024, Sri Lanka concluded negotiations with the Official Creditor Committee (OCC) and China Exim Bank, marking pivotal strides towards stabilizing its financial footing amid recent economic challenges.
+Accordingly, the Parliament is scheduled to meet on Tuesday the 2nd of July at 9.30 am and it has been decided to hold the debate until 5.00 pm.
+
+The President is also scheduled to make a special statement to Parliament on that day regarding the implementation of external debt restructuring agreements, the Deputy Secretary General added.
+
+It has been decided to hold this debate for the second day on Wednesday the 3rd of July from 9.30 am to 5.00 pm. Subsequently at 5.00 pm, the vote on this resolution is scheduled to be held.
 
 ...
 
 [Data](articles/079baa5a.json)
 
 [Extended Data](ext_articles/079baa5a.ext.json)
+
+---
+
+### Sri Lanka former legislator sentenced to rigorous imprisonment
+
+*2024-06-28 14:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-former-legislator-sentenced-to-rigorous-imprisonment-170035/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Colombo High Court has sentenced former Member of Parliament Hirunika Premachandra to three years rigorous imprisonment for the abduction of a man in 2015.
+
+The young man was abducted in a black Defender car and threatened in Dematagoda, on December 21, 2015.
+
+Premachandra was found guilty of 18 of the 29 charges against her, Sri Lanka Police said. Its Colombo Crimes Division investigated the matter.
+
+Premachandra, now a member of the main opposition Samagi Jana Balavegaya (SJB), was at the time a legislator of the Yahpalanaya (good governance) coalition government.
+
+She is the daughter of former MP Bharatha Lakshman Premachandra who was murdered in 2011.(Colombo/June28/2024)
+
+◼️
+
+[Data](articles/6986bab6.json)
 
 ---
 
@@ -219,6 +401,24 @@ Mr. Speaker Mahinda Yapa Abeywardena announced that he is requested to attend al
 [Data](articles/97f9bdf5.json)
 
 [Extended Data](ext_articles/97f9bdf5.ext.json)
+
+---
+
+### Sri Lanka economic stability under President reduced RE prices: Minister
+
+*2024-06-28 14:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-economic-stability-under-president-reduced-re-prices-minister-170029/) · `en`
+
+ECONOMYNEXT – Economic stability achieved by Sri Lanka under President Ranil Wickremesinghe and policy changes had reduced renewable purchase prices, Energy Minister Kanchana Wijesekera said after investors bid steeply lower rates in a competitive tender in June, compared to earlier negotiated rates.
+
+“The key factor is the economic & political stability that the President & the Government has brought in and the positive policy changes & legal frame work changes established in the sector..,” Minister Kanchana Wijesekera said in an x.com post.
+
+“One of the key but not so popular decision was the cost reflective pricing which enabled the CEB to pay back the RE Developers on time making it easier for developers to raise financing.”
+
+Sri Lanka’s Central Bank hiked rates in 2022 April to end money printed for two years to keep rates artificially low in a bid to boost growth and target potential output.
+
+...
+
+[Data](articles/05569ceb.json)
 
 ---
 
@@ -267,6 +467,24 @@ The ambassador also said that Japan continues to support the restoration of Sri 
 [Data](articles/12eed0b8.json)
 
 [Extended Data](ext_articles/12eed0b8.ext.json)
+
+---
+
+### Joint working committee with Russia proposed to deal with Sri Lanka mercenaries
+
+*2024-06-28 13:52:00* · [`economynextcom`](https://economynext.com/joint-working-committee-with-russia-proposed-to-deal-with-sri-lanka-mercenaries-170008/) · `en`
+
+ECONOMYNEXT – Sri Lanka has proposed a joint working committee with Russian officials to deal with hundreds of ex-soldiers deployed in the Russia’s war with Ukraine, the island’s embassy in Moscow said.
+
+Returnees and families of the ex-soldiers have complained that they were misled into going to Russia as camp helpers and then they were forced to fight in the frontlines.
+
+“Sri Lanka proposed to establish a joint working committee comprising of officials from the two sides to meet regularly to address issues and concerns of the Sri Lankans who have been deployed,” the embassy in Moscow said.
+
+State Minister of Foreign Affairs Tharaka Balasuriya visited the Russian Federation on June 26-27 and met Deputy Minister of Foreign Affairs of the Russian Federation Andrey Rudenko and the Deputy Minister of Defense of the Russian Federation Colonel General A V Fomin.
+
+...
+
+[Data](articles/298bb080.json)
 
 ---
 
@@ -469,6 +687,26 @@ Warner and Jake Frazer Muger was played for the Delhi Capitals team at the India
 [Data](articles/05c04061.json)
 
 [Extended Data](ext_articles/05c04061.ext.json)
+
+---
+
+### 99x considers collaborations to invest in and scale operations in Sri Lanka
+
+*2024-06-28 12:13:00* · [`economynextcom`](https://economynext.com/99x-considers-collaborations-to-invest-in-and-scale-operations-in-sri-lanka-169984/) · `en`
+
+ECONOMYNEXT – 99x, a global product engineering company, said it was focused on exploring potential collaborations to invest in and scale operations in Sri Lanka, using local talent and skills.
+
+Future collaboration opportunities in sales and solution building were also explored at a roundtable discussion titled ‘Poised for Growth in Europe and Americas’ held at 99x office premises in Colombo recently.
+
+The event brought together 99x’s leaders from Norway, Portugal, Brazil, and Sri Lanka.
+
+“The expansion of our geographical presence allows us to tap into diverse pools of talent and foster stronger relationships with our clients worldwide,” Odd-Sverre Ostlie, Group CEO of 99x Group, said.
+
+The company’s ongoing investment in Sri Lanka was discussed, with Hasith Yaggahavita, CEO of 99x Technology emphasising the depth of talent and skills available in the region.
+
+...
+
+[Data](articles/b0f94fe9.json)
 
 ---
 
@@ -838,6 +1076,24 @@ Emergency services reported that five ambulances and three air ambulances were s
 
 ---
 
+### Sri Lanka looks at balancing trade security and logistic hub needs with East Asia experts
+
+*2024-06-28 10:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-looks-at-balancing-trade-security-and-logistic-hub-needs-with-east-asia-experts-169977/) · `en`
+
+ECONOMYNEXT – Sri Lanka has discussed the need to balance trade security with experts from East Asian nations at a forum supported by the United States.
+
+“The challenge lies in achieving an equilibrium between enabling smooth trade and  ensuring robust security measures,” the US embassy in Colombo said.
+
+“To cultivate trading environments that support legitimate operations and restrict illegal activities, so that countries can not only foster economic growth but also develop that competitive edge within the global marketplace.”
+
+The Embassy partnered with the Sri Lanka Department of Import and Export Control to launch the Sri Lanka Strategic Trade Forum, which brought together government and private sector to address trade security, development of competitive practices for global trade hubs.
+
+...
+
+[Data](articles/5ba895b7.json)
+
+---
+
 ### Bideman and Trump delivered the cloth
 
 *2024-06-28 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198247) · `si`
@@ -1060,6 +1316,28 @@ Colombo High Court Judge Amal Ranaraja had been announced.
 
 ---
 
+### Sri Lanka rupee opens weaker at 305.90/306.00 to US dollar
+
+*2024-06-28 10:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-305-90-306-00-to-us-dollar-169964/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 305.90/306.00 to the US dollar on Friday, while bond yields were steady, and stocks opened 0.03 percent down, dealers said.
+
+In equities, Colombo’s All Share Price Index opened 3.56 points lower at 12,185, while the S&P SL20 of more liquid stocks opened up at 0.17 percent or 6.12 points to 3,607.
+
+A bond maturing on 01.06.2026 was quoted at 10.90/11.00 percent.
+
+A bond maturing on 15.12.2026 was quoted at 10.95/11.15 percent, down from 11.00/30 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.90/12.00 percent, up from 11.85/12.05 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.15/25 percent, down from 12.15/30 percent. (Colombo/Jun28/2024)
+
+◼️
+
+[Data](articles/08127ead.json)
+
+---
+
 ### Little daughter killed a dog
 
 *2024-06-28 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198245) · `si`
@@ -1111,6 +1389,26 @@ The Court of Appeals presented at the Attorney General yesterday yesterday. The 
 [Data](articles/c3705f50.json)
 
 [Extended Data](ext_articles/c3705f50.ext.json)
+
+---
+
+### Sri Lanka to revise high feed-in renewable tariffs after cheap competitive tenders
+
+*2024-06-28 09:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-revise-high-feed-in-renewable-tariffs-after-cheap-competitive-tenders-169970/) · `en`
+
+ECONOMYNEXT – Sri Lanka will lower high feed in tariffs offered to renewable developers after low prices that has come in from a 50 MW tender for power plant in Mannar, Minister Wijesekera said.
+
+“With the new competitive bids coming in, The Ministry of Power & Energy has already taken steps to revise the Feeding Tariff rates, Roof Top Solar Tariff rates,” Minister Wijesekera said a twitter.com message.
+
+Formulas for negotiating renewable projects and economic indicators will also be revised, he said.
+
+Two years ago the government raised roof top solar tariff from 22 rupees a unit to 37 rupees the feed-in tariff for ground mounted solar to 33 rupee a unit and wind to 30 to “encourage developers to continue in the sector,” he said.
+
+At the time Sri Lanka’s rupee was in tatters, there were forex shortages, global wind and solar equipment prices were also high and domestic interest rates were high.
+
+...
+
+[Data](articles/ebbe3db2.json)
 
 ---
 
@@ -1180,6 +1478,28 @@ It is noteworthy that Deputy Foreign Minister Sun Waitong, who recalled the hist
 
 ---
 
+### Ceylon Chamber congratulates gov for bilateral creditor agreement
+
+*2024-06-28 09:35:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-congratulates-gov-for-bilateral-creditor-agreement-169951/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s private sector trade body has congratulated the government for securing an agreement with official bilateral creditors for restructuring its external debt.
+
+“The Ceylon Chamber of Commerce congratulates the Government in securing an agreement with the official bilateral creditors of external debt,” the Ceylon Chamber of Commerce said in a statement.
+
+“The completion of the negotiations will help Sri Lanka improve its credit ratings and ease the access to finance for the economy.”
+
+Ceylon Chamber Congratulates Government on Reaching Key Milestone in External Debt Restructuring
+
+The Ceylon Chamber of Commerce congratulates the Government in securing an agreement with the official bilateral creditors of external debt.
+
+We extend our appreciation to the Official Creditors Committee chaired by France, India and Japan, members of the committee, China and the EXIM Bank of China and the Paris Club Secretariat.
+
+...
+
+[Data](articles/cf80e60c.json)
+
+---
+
 ### Sanjaya Mahawatta arrested
 
 *2024-06-28 09:32:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஞ்சய-மஹவத்த-கைது/175-339568) · `ta`
@@ -1197,6 +1517,28 @@ Police Media Spokesperson Nihal Talduwa said that Sanjay Mahawatta has been arre
 [Data](articles/fd7f87a5.json)
 
 [Extended Data](ext_articles/fd7f87a5.ext.json)
+
+---
+
+### Sri Lanka 165MW renewable tenders Rs15 up, Mannar wind award in two weeks: Minister
+
+*2024-06-28 09:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-165mw-renewable-tenders-rs15-up-mannar-wind-award-in-two-weeks-minister-169950/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Mannar 50 Mega Watt wind power plant and 165MW of renewable plants and would be awarded to the “lowest & successful” bidder, Minister of Energy Kanchana Wijesekera said.
+
+“The process for approvals has also been expedited, and MOPE hopes to conclude the awarding to lowest & successful bidder of Mannar 50 Mw wind tender & 165 Mw tenders in the next two weeks,” Minister Wijesekera said in an x.com post.
+
+The tenders of the 50MW wind plant came in at 4.88 US cents by Windforce Plc, 4.88 cents by Vidulanka and  5.90 cents by Lakdhanavi, he said.
+
+The prices are sharply lower than the India’s Adani non-competitive negotiated price of 8.26 US cents.
+
+The 165MW small renewable tender has responses ranging from 15 rupees to 29 rupees and is being evaluated by the Ceylon Electricity Board, he said.
+
+The Mannar wind plant at 4.88 cents is about 14.90 rupees at an exchange rate of 305 to the US dollar.
+
+...
+
+[Data](articles/52dff62e.json)
 
 ---
 
@@ -1241,6 +1583,28 @@ The lorry driver has been arrested on suspicion of the incident and the Hanwella
 [Data](articles/194f5a30.json)
 
 [Extended Data](ext_articles/194f5a30.ext.json)
+
+---
+
+### Sri Lanka Chamber re-elects board for 2024/25
+
+*2024-06-28 09:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-chamber-re-elects-board-for-2024-25-169943/) · `en`
+
+ECONOMYNEXT – Sri Lanka trade body, the Ceylon Chamber of Commerce, has re-elected its chairman and board for 2024/25 at it recently held annual general meeting.
+
+Over the past year, the Chamber worked on initiatives focused on policy advocacy, stakeholder engagement, and expanding market access for its Members, it said in a statement.
+
+The board said it would continue advocating for pro-growth policies and facilitating growth opportunities for Members.
+
+The Ceylon Chamber of Commerce Re-elects Chairman Duminda Hulangamuwa and Board for 2024/25 at 185th AGM
+
+The Ceylon Chamber of Commerce announced the re-election of its Board for the Year 2024/25 at the Chamber’s 185th Annual General Meeting on June 27.
+
+The re-elected Board comprises Chairman Duminda Hulangamuwa – Country Managing Partner for Sri Lanka and The Maldives, Ernst & Young, Vice Chairman Krishan Balendra – Chairman John Keells Holdings PLC, and Deputy Vice Chairman Bingumal Thewarathanthri – CEO, Standard Chartered Bank Sri Lanka.
+
+...
+
+[Data](articles/9f44dff6.json)
 
 ---
 
@@ -1795,419 +2159,5 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 [Data](articles/ac4f0402.json)
 
 [Extended Data](ext_articles/ac4f0402.ext.json)
-
----
-
-### Report within 2 weeks regarding floods
-
-*2024-06-28 02:38:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளம்-தொடர்பில்-2-வாரங்களுக்குள்-அறிக்கை/175-339565) · `ta`
-
-Sagala Ratnayake, head of National Security, tasked Divisional Secretaries to probe flood causes in Colombo district, aiming for a two-week report. He pledged swift action to tackle these issues, consulting relevant parties. This directive came from a meeting at the Presidential Office, focusing on understanding the recent flood situation linked to adverse weather conditions.
-
-🟩
-
-Sagala Ratnayake, the President of the National Security, advised the Divisional Secretaries of the National Security and the President of the President of the President of the National Security, to investigate the causes of the floods in the Colombo district and submit a report to the Presidential Office within two weeks.
-
-Accordingly, he said that he would take immediate steps to prepare the necessary plans to address these issues in consultation with the leaders of the concerned companies.
-
-Sagala Ratnayake made this statement during a discussion held at the Presidential Office yesterday with the leaders of the departmental institutions to find out the reasons for the recent flood situation in the Colombo district due to the worse weather conditions.. (A)
-
-◼️
-
-[Data](articles/3a244251.json)
-
-[Extended Data](ext_articles/3a244251.ext.json)
-
----
-
-### There are telephone problems in debt restructuring
-
-*2024-06-28 02:31:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-மறுசீரமைப்பில்-பிரச்சினைகள்-உள்ளன/175-339564) · `ta`
-
-Debt restructuring issues highlighted concerns over the IMF plan and delays in debt repayment deadlines until 2028. Opposition leader Sajith Premadasa criticized the process, pointing out slower progress compared to other countries like Ghana, which reduced its debt by 37%. He accused the government of misleading the public about the completion of the debt restructuring process and lack of negotiation with international creditors.
-
-🟩
-
-Several issues were revealed on Wednesday (26) regarding the International Monetary Fund (IMF) Plan and Debt Reorganization Plans. If the debt restoration process is beneficial to the country, we will support it. Opposition leader Sajith Premadasa, however, said that there was a problem with the issues revealed yesterday.
-
-Under the Universal Information Technology Program, Kalutara, Pulath Singhla Mathuravala, Remuna Maha Vidyalaya was held on June 27. He said this while addressing it.
-
-Time has been levied to pay off the loan until 2028. To pay off debt installments from 2028. Although this seems to be a good thing. Although the IMF is mentioned in the report, this compliance discussion has not reached the target of 2033. The Opposition Leader said that since 2028, compliance has been reached to pay off debt installments.
-
-...
-
-[Data](articles/56a1876b.json)
-
-[Extended Data](ext_articles/56a1876b.ext.json)
-
----
-
-### There are telephone problems in debt restructuring
-
-*2024-06-28 02:31:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கடன்-மறுசீரமைப்பில்-பிரச்சினைகள்-உள்ளன/150-339564) · `ta`
-
-Debt restructuring issues highlighted concerns over the IMF plan and delays in debt repayment until 2028, despite initial optimism. Opposition leader Sajith Premadasa criticized the slow progress, pointing out that other countries like Ghana have successfully reduced their debt more quickly. He accused the government of misleading the public about the completion of the debt restructuring process, emphasizing the need for transparency and swift action to avoid legal challenges.
-
-🟩
-
-Several issues were revealed on Wednesday (26) regarding the International Monetary Fund (IMF) Plan and Debt Reorganization Plans. If the debt restoration process is beneficial to the country, we will support it. Opposition leader Sajith Premadasa, however, said that there was a problem with the issues revealed yesterday.
-
-Under the Universal Information Technology Program, Kalutara, Pulathsingala Mathuravala, Remuna Maha Vidyalaya was held on June 27. He said this while addressing it.
-
-Time has been levied to pay off the loan until 2028. To pay off debt installments from 2028. Although this seems a good thing. Although the IMF is mentioned in the report, this compliance discussion has not reached the target of 2033. The Opposition Leader said that since 2028, compliance has been reached to pay off debt installments.
-
-...
-
-[Data](articles/db53ca24.json)
-
-[Extended Data](ext_articles/db53ca24.ext.json)
-
----
-
-### Model does not act illegally
-
-*2024-06-28 02:26:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியலமைப்புக்கு-புறம்பாக-செயற்படாது/175-339563) · `ta`
-
-The government assures it won't act illegally to conduct elections, prioritizing the constitutional presidential vote to establish stability. Minister Prasanna Ranatunga emphasizes the importance of a stable government amidst national challenges, citing President Ranil Wickremesinghe's efforts to stabilize the country post-Easter attacks and COVID-19. The minister addresses debates over election timing and criticizes opposition strikes, highlighting the government's commitment to holding elections legally and maintaining national unity.
-
-🟩
-
-Prasanna Ranatunga, the chief organizer and minister of the state party, said the government would never act illegally to the constitution for the posting of the election.
-
-The Minister said that the constitutional presidential election would be held first to form a stable government. The minister said the general election would be held next year.
-
-The Minister said that the current president had been able to stabilize the country which was instability two years ago and that's why people have confidence in President Ranil Wickremesinghe.
-
-Minister Prasanna Ranatunga made this statement at a media briefing held in Colombo on Wednesday afternoon.
-
-There is a debate on whether the election will be postponed. It is also discussed whether the general election or the presidential election.
-
-...
-
-[Data](articles/ec2f4957.json)
-
-[Extended Data](ext_articles/ec2f4957.ext.json)
-
----
-
-### A Memorandum of Understanding for Debt Relief
-
-*2024-06-28 02:23:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-மறுசீரமைப்புக்கான-புரிந்துணர்வு-உடன்படிக்கை/175-339562) · `ta`
-
-The Official Credit Provincial Council (OCC), established in 2023, aims to restructure Sri Lanka's bilateral loans. On June 26, 2024, after several discussions, the OCC signed a Memorandum of Understanding, highlighting Sri Lanka's efforts towards economic stability and development. Coordinated by India, France, and Japan, the OCC demonstrates a strong commitment to Sri Lanka's economic growth, backed by India's significant financial support, including a US $4 billion loan. India was the first to offer financial guarantees to the IMF, enabling Sri Lanka to access the International Monetary Fund Assistance Scheme. India continues to support Sri Lanka's economic recovery through investments in key sectors.
-
-🟩
-
-On April 13, 2023, the Official Credit Provincial Council (OCC) was established with the aim of reorganizing Sri Lanka's bilateral loans among Sri Lanka's bilateral loans, as the IMF recognized the prolonged financial facility for Sri Lanka.
-
-On June 26, 2024, the OCC signed a Memorandum of Understanding following several rounds of talks.. In a media report issued by the Indian High Commission in Sri Lanka, Sri Lanka has proven that Sri Lanka has proven the strong progressive actions to ensure its economic stability and to make a firm move towards restructuring and development.
-
-India, along with France and Japan, co -ordinates the OCC, has a strong commitment to Sri Lanka's economic growth and stability. This commitment was proven by India's US $ 4 billion funded by India's unprecedented unprecedented US $ 4 billion.
-
-India was the first lending country to provide financial guarantees to the IMF so that Sri Lanka had the opportunity to have the International Monetary Fund Assistance Scheme.
-
-...
-
-[Data](articles/ce543d34.json)
-
-[Extended Data](ext_articles/ce543d34.ext.json)
-
----
-
-### Model
-
-*2024-06-28 02:19:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-குடும்பங்களை-பிரஜைகளாக்கும்-கொள்கை-தயார்/175-339561) · `ta`
-
-The Tamil Progressive Alliance aims to grant full citizenship and land rights to upcountry plantation communities, addressing modern slavery aspects. A meeting with UN officials discussed transforming the plantation sector post-regime change, involving local civil society and seeking international support from organizations like the UN Food Agricultural Institute, UNICEF, and the World Food Institute.
-
-🟩
-
-In the plantation areas, the upcountry community families live amidst modern slavery aspects. The Tamil Progressive Alliance (TNA) has announced the policy of making them the full citizenship of the country and giving them the rights of land rights, livelihood land rights, more than residential lands.
-
-A decisive meeting was held in Colombo on Thursday (27) between UN Resident Representative Mark Andrew and delegation headed by Tamil Progressive Alliance leader Mano Ganesan.He has already mentioned the above.
-
-Nuwara Eliya District Parliamentarian of the Tamil Progressive Alliance. Udayakumar and Tamuku/Jamau Kegalle District Organizer M. Paranitharan was also present.
-
-Mano Ganesan MP told the media about the meeting.
-
-...
-
-[Data](articles/dba24e7d.json)
-
-[Extended Data](ext_articles/dba24e7d.ext.json)
-
----
-
-### President Ranil Worship in Kandy
-
-*2024-06-28 02:16:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ரணில்-கண்டியில்-வழிபாடு/175-339560) · `ta`
-
-President Ranil Wickremesinghe visited Kandy, attending the Sri Dalada House, meeting religious leaders, and discussing Sri Lanka's economic progress. He participated in special poojas at the Sri Selvavinayaka Temple and received blessings from the Meeram schoolhouse. The President also presented the Kandy City Development Program to local religious leaders.
-
-🟩
-
-President Ranil Wickremesinghe, who visited Kandy on Thursday (27), visited the Sri Dalada House. He also met with Malwatu Manayaka and Asgiriya Manayaka.
-
-President Ranil Wickremesinghe, who went to the Sri Selvavinayaka Temple, was also present at the special poojas held there.. He also went to the schoolhouse of Meeram and received the blessing.
-
-President Ranil Wickremesinghe, who met Sri Sumangala Thera and Asgiri Maha Vikarai Mahanayaka Varakkoda Sri Gnanaradana Thera, made clear the economic and financial progress of Sri Lanka. He also handed over the Kandy City Development Program to the Manayakas.
-
-◼️
-
-[Data](articles/eb173447.json)
-
-[Extended Data](ext_articles/eb173447.ext.json)
-
----
-
-### National Bartenders Competition 2024 concludes with spectacular grand finale
-
-*2024-06-28 02:12:00* · [`islandlk`](http://island.lk/national-bartenders-competition-2024-concludes-with-spectacular-grand-finale/) · `en`
-
-The 29th National Bartenders Competition 2024 concluded with a spectacular Grand Finale on June 14th at the Cinnamon Grand, Colombo. Powered by International Distillers Limited (IDL) – Sri Lanka’s market leader in Locally Manufactured Foreign Liquor (LMFL) – and organized by the Sri Lanka Hospitality Graduates Association (SLHGA), this prestigious event celebrated the exceptional talent and creativity of bartenders from across the island.
-
-...
-
-[Data](articles/bc1de23b.json)
-
-[Extended Data](ext_articles/bc1de23b.ext.json)
-
----
-
-### Fonterra Brands Lanka marks World Environment Day with focus on land restoration
-
-*2024-06-28 02:12:00* · [`islandlk`](http://island.lk/fonterra-brands-lanka-marks-world-environment-day-with-focus-on-land-restoration/) · `en`
-
-Fonterra Brands Lanka commemorated World Environment Day by hosting an educational workshop focused on environmental awareness and soil conservation practices. Aligned with this year’s theme of “Land Restoration, Desertification, and Drought Resilience”, the initiative aimed to empower the local community and future generations with the knowledge and skills needed to realize a more sustainable future.
-
-...
-
-[Data](articles/f696987f.json)
-
-[Extended Data](ext_articles/f696987f.ext.json)
-
----
-
-### Fraud in pawn shop: jail for manager
-
-*2024-06-28 02:05:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடகுக்-கடையில்-மோசடி-முகாமையாளருக்கு-சிறை/175-339559) · `ta`
-
-A pawn shop manager in Sri Lanka was arrested for allegedly defrauding 80 lakhs worth of jewelry and cash from customers. The incident came to light when the store owner returned after three months and discovered discrepancies in the records. The manager, who had been working at the shop for several years, was taken into custody by the Hatton Police Division and remanded until further notice.
-
-🟩
-
-A man who was serving as a pawn station has been arrested and interrogated on charges of defrauding about 80 lakhs of jewelery and money on gold jewelery.
-
-A manager, who worked at a private mortgage shop in Hatton Malliyappu, was arrested by the Hatton Police Division officials and appeared in the presence of Hatton Magistrate M. Burukdeen on Wednesday (26).. The magistrate ordered the suspect to be kept in remand until the 09th of this month..
-
-The suspect has been working as a manager at the mortgage station for many years, and the owner of the mortgage station returned to the country after three months and was exposed when the jewelery and cash details were exposed.
-
-The manager of the pawn station was arrested on the basis of a complaint made and produced in court.
-
-◼️
-
-[Data](articles/caba98e4.json)
-
-[Extended Data](ext_articles/caba98e4.ext.json)
-
----
-
-### Express weekend, vacation
-
-*2024-06-28 02:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வார-இறுதி-விடுமுறையில்-வேலை-செய்யோம்/175-339558) · `ta`
-
-Grama Niladhari workers, demanding better transport, fuel, uniforms, and communication, have gone on strike from Wednesday, extending through the weekend and possibly more, as discussions for solutions remain stalled. They've vowed not to work on weekends and special holidays until their demands are met, threatening further protests if the government doesn't respond.
-
-🟩
-
-The Grama Niladhari, which has made four demands, announced that the workplace, which began on Wednesday (26), will continue for three days.
-
-The trade union action is being carried out demanding increased transport, fuel, uniform and communication.
-
-Our coalition has been discussing these issues for many years, but the solutions to our problems continue to be delayed, the Grama Niladhari Trade Union Federation said.
-
-Meanwhile, not going to work on weekends and special state holidays. The Grama Niladhari Association said that if the government does not respond to our demands, the district will continue to protest.
-
-◼️
-
-[Data](articles/9d594eff.json)
-
-[Extended Data](ext_articles/9d594eff.ext.json)
-
----
-
-### The President traveled to religious sites and blessed!
-
-*2024-06-28 01:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/187132) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of teachers being present in schools for child education, threatening to declare the Teacher Service an essential service if they don't comply. He visited religious sites, including the historic Kandy Dalada House, and discussed various national development programs and salary increases for public servants.
-
-🟩
-
-President Ranil Wickremesinghe announced that teachers should be in school in the morning for the education of the children and that if it does not happen in the coming days, the Teacher Service will be declared an essential service.
-
-The President made this statement while addressing Sri Varakagoda Gnanaradana Thera of the Asgiriya Faculty on Thursday (27).
-
-The President stressed that teachers and principals should act as a role model for the future of the children and that when they engage in struggles and strikes, they should be given advice and guidance to children in the future.
-
-The president pointed out that all of the teacher service as a whole did not participate in the demonstration and that politicians had participated in it, and that the entire teacher business would be tarnished.
-
-The President said that the boycott of the work is only within the Sinhala schools, and that the educational activities of the Tamil, Muslim and private schools are going on as usual.
-
-...
-
-[Data](articles/d953e24d.json)
-
-[Extended Data](ext_articles/d953e24d.ext.json)
-
----
-
-### Verse. Maithri Murthy met Karagoda Ungoda and blessed the President
-
-*2024-06-28 01:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/187131) · `ta`
-
-Maithri Murthy met with President Ranil Wickremasinghe and the head of the Sri Amarapura Mahasanga Council, discussing Sri Lanka's economic progress and plans for a Theravada Buddhist research center in Anuradhapura. The President presented a check, highlighting the importance of respecting teachers' roles and banning union activities during school hours under emergency laws. Present were Minister Manusha Nanayakkara, Sabaragamuwa Provincial Governor Naveen Dissanayake, Senior Advisor Sagala Ratnayake, and Parliamentarian Akila Ellawala.
-
-🟩
-
-President Ranil Wickremasinghe, President of Sri Amarapura Mahasanga Council and Sri Lanka Amarapura Peetha Rasakala. Maithri Murthy met the Thera and received the blessings of Karagoda.
-
-The President, who made clear to Mahanayaka Thera on the economic and financial improvement that Sri Lanka has achieved, consulted with him for a while.
-
-The President also handed over a check for Rs.
-
-"Today, there is a greater questioning of the world for Theravada Buddhism. We are planning to set up the Terana Buddhist Research Center centered around Anuradhapura. Accordingly, everyone who is interested in Theravara Buddhism from abroad will have the opportunity to learn at this center.
-
-A company that inspects Buddhist teachings in California, USA. So you have the opportunity to learn more Buddhism. Such a Buddhist educational center should be created.
-
-...
-
-[Data](articles/669f80f4.json)
-
-[Extended Data](ext_articles/669f80f4.ext.json)
-
----
-
-### Do not strangle the students' neck away from the exam answer sheet -Saman Ratnapriya
-
-*2024-06-28 01:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/187130) · `ta`
-
-In response to the Teachers Union of the People's Liberation Front's protest, President Ranil Wickremesinghe urged against disrupting education, highlighting the potential harm to students' futures. The government is addressing teacher demands amidst an economic crisis, but protests and police actions threaten to delay exam results, affecting students adversely.
-
-🟩
-
-The Teachers Union of the People's Liberation Front (JVP) has staged a protest to divert the president's good news.
-
-He was speaking at a press conference held in Colombo on Thursday (27).
-
-The issue of teachers must be resolved. The government is taking steps to resolve their demands. However, as the country is facing an economic crisis, their demands have not been resolved immediately. In this context, President Ranil Wickremesinghe was going to tell the people of the country yesterday to tell the good news and divert it.
-
-Anyone can fight for their rights. There is no wrong in that. However, the police had taken steps to control the water, tears, and to control the court order. However, in order to continue the government's crisis, they have announced that they are going to withdraw from the Education Ordinary Examination Act, in protest of the police action.. This is the act of strangling the students.
-
-...
-
-[Data](articles/bca1f8f7.json)
-
-[Extended Data](ext_articles/bca1f8f7.ext.json)
-
----
-
-### Sri Lankan proposal to form a joint committee of Sri Lankans caught in the Russian army
-
-*2024-06-28 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/187129) · `ta`
-
-Sri Lanka proposes a joint committee to address issues of its citizens in the Russian military. The committee will focus on the welfare of 17 Sri Lankans involved in the conflict, including the deceased and injured, and explore options for their safe return. This initiative follows a meeting between Sri Lankan and Russian officials, including External Affairs Minister Taraka Balasuriya and Russian ministers Anthre Rudenko and AV Bomin.
-
-🟩
-
-Sri Lanka has proposed a joint executive committee comprising bilateral officers to address their problems and concerns in the Russian military affair.. Both sides have agreed to continue their activities.
-
-The high -level delegation headed by External Affairs Minister Taraka Balasuriya made a visit to Russia on Wednesday and Thursday.
-
-Russian External Affairs Minister Anthre Rudenko and Russian Defense Minister AV Bomin have held a discussion on Sri Lankans who have been hired in the Armed Forces on a contract basis.. During this discussion, the matter has been paid.
-
-These discussions focused on the plight of 17 Sri Lankans, the dead and the injured, the plight of the unknown Sri Lankans, the possibility of returning home in their own end, and the regulation of contracts.
-
-The high -level delegation was attended by MPs Dayasiri Jayasekara, Gamini Valegoda, Defense Secretary General Kamal Gunardhana and Sri Lanka Ambassador to Russia BM Amsa.
-
-◼️
-
-[Data](articles/014ef4ec.json)
-
-[Extended Data](ext_articles/014ef4ec.ext.json)
-
----
-
-### Special Discussion under the leadership of the Mannar Diocese of Madhuvil
-
-*2024-06-28 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187128) · `ta`
-
-A special discussion on the Madhu Mother's Adi Month Festival took place at the Mediterranean auditorium, chaired by Mannar Diocese's Emmanuel Fernando. Attendees included high-ranking officials from various sectors. The festival, which began on the 23rd, is expected to attract millions, with all necessary arrangements in place.
-
-🟩
-
-A special discussion on Madhu Mother's Adi Month Festival was held on Thursday (27) at 11 am at the Mediterranean auditorium.
-
-Mannar Diocese Emmanuel Fernando was chaired by Mannar Diocese Emmanuel Fernando.
-
-The discussion was attended by Mannar Diocese Guru Chief Minister Aruttanda Christ, Madulama Piripalakar Gnanaprakasam Adikallar, Divisional Secretaries, Department Heads, Police, Navy and Army Officers.
-
-The Madhu Mother's Audi Month Festival commenced on the 23rd of this month.
-
-At 6.15 am on the 2nd of this month, the diocese bishops will be able to confess the festival as a coalition.
-
-The Diocese of Mannar said that all kinds of arrangements have been made due to the attendance of millions of people from many parts of the country to come to the blessing of the mother.
-
-It is noteworthy that the Mannar Diocese and the Government Agent had commented to the media.
-
-◼️
-
-[Data](articles/a480af0a.json)
-
-[Extended Data](ext_articles/a480af0a.ext.json)
-
----
-
-### The president's good news is bad for the opposition - United National Party
-
-*2024-06-28 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/187127) · `ta`
-
-President Ranil Wickremesinghe's economic recovery plan, hailed as positive news for Sri Lanka, has reportedly led to widespread public joy but poses a challenge for the opposition, particularly the United National Party (UNP), which had criticized his initiatives. This turn of events has rendered the opposition's criticism irrelevant, highlighting the effectiveness of Wickremesinghe's leadership in navigating the country's financial recovery amidst skepticism from international institutions.
-
-🟩
-
-President Ranil Wickremesinghe has the opportunity to re -carry out the country's development plans forbidden with the good news of President. Former United National Party (UNP) parliamentarian Ashu Marasinghe said that the country from the banks of the bank has changed again.
-
-He was speaking at a press conference held on Thursday (27) at the UNP headquarters.
-
-President Ranil Wickremesinghe has recovered from the banks of the country on Wednesday (26).. The Gospel of the President has brought peace and happiness to people who love the country. That is why the people of the country have expressed their happiness in all parts of the country, when the president conveys this good news.
-
-...
-
-[Data](articles/3170c193.json)
-
-[Extended Data](ext_articles/3170c193.ext.json)
-
----
-
-### Tamuku Ambassador, led by Mano Ganesan, met UN Resident Representative Mark Andrew
-
-*2024-06-28 01:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/187126) · `ta`
-
-A meeting took place in Colombo between UN Resident Representative Mark Andrew and the Tamil Progressive Alliance, led by Mano Ganesan, discussing policies for granting full citizenship and land rights to certain districts. The alliance aims to transform the plantation sector post-regime change and is preparing for legislative actions. They are also engaging with the Upcountry Civil Society and plan to seek international support from organizations like the UN Food Agricultural Institute, UNICEF, and the World Food Institute.
-
-🟩
-
-A decisive meeting was held in Colombo on Thursday (27) between Sri Lanka UN Resident Representative Mark Andrew and delegation headed by Tamil Progressive Alliance leader Mano Ganesan.. Nuwara Eliya District Parliamentarian of the Tamil Progressive Alliance. Udayakumar and Tamuku/Jamau Kegalle District Organizer M. Paranitharan was also present.
-
-Mano Ganesan commented to the media about the meeting.
-
-In the districts of Kandy, Matale, Badulla, Moneragala, Kegalle, Ratnapura, Kalutara, Galle, Matara and Kurunegala, including Nuwara Eliya to Colombo to Colombo. The Tamil Progressive Alliance is taking the policy of making them the full citizenship of the country and giving them the rights of land rights, livelihood land rights, more than residential lands.
-
-...
-
-[Data](articles/45b95824.json)
-
-[Extended Data](ext_articles/45b95824.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 20:53:40**
+As of **2024-06-28 21:04:33**
 
 ## Newspaper Stats
 
-*Scraped **32,689** Articles*
+*Scraped **32,691** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 islandlk | 1,813
 economynextcom | 1,913
 dailyftlk | 1,998
-adalk | 2,894
+adalk | 2,895
 adaderanalk | 3,720
 tamilmirrorlk | 3,862
 dailymirrorlk | 4,733
 virakesarilk | 5,095
-adaderanasinhalalk | 5,381
+adaderanasinhalalk | 5,382
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,689 (100.0%) of 32,689 articles have been extended.
+32,689 (100.0%) of 32,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### උඩරට දුම්රිය මාර්ගයේ ධාවන කටයුතු යථා තත්ත්වයට.
+
+*2024-06-28 20:26:42* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-මාර්ගයේ-ධාවන-කටයුතු-යථා-තත්ත්වයට-/11-410495) · `si`
+
+කොළඹ කොටුව සිට බදුල්ල දක්වා ධාවනය වු පොඩි මැණිකේ දුම්රිය (28) දින උදැසන 11 ට පමණ වටවල දුම්රිය ස්ථානය අසලදි පිලි පැනිමට ලක්විම නිසා ඇණ හිට තිබු උඩරට දුම්රිය මාර්ගයේ ධාවන කටයුතු පස්වරු 2 සිට යලි යථා තත්ත්වයට පත් කෙරිණ.
+
+පොඩි මැණිකේ දුම්රියේ ඉදිරිපස එන්ජිමේ රෝද දෙකක් පිලි පැනිම හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ ධාවන කටයුතු පැය තුනක කාලයක් ඇණ හිට තිබුණි.
+
+පිලි පැනිමට ලක් වු පොඩි මැණිකේ දුම්රිය එන්ජිමේ රෝද පිලිගත කිරිමෙන් පසු පස්වරු 2 සිට එම මාර්ගයේ ගමනා ගමන යථා තත්ත්වයට පත් කෙරිණ.
+
+පිලි පැනිමට ලක් වු දුම්රිය පිලිගත කරන තෙක් උඩරට දුම්රිය මාර්ගයේ ධාවනය කල සියළුම මගි ප්‍රවාහන දුම්රියන් ගලබඩ සහ හැටන් දුම්රිය ස්ථානය වල නතර කර තිබුණි.
+
+◼️
+
+[Data](articles/daf5c548.json)
+
+---
+
+### මල්ශාලා හිමිකරු ඝාතනයේ සැකකරුවෙක් අත්අඩංගුවට
+
+*2024-06-28 20:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198268) · `si`
+
+පසුගියදා අම්බලන්ගොඩ බලපිටිය ප්‍රදේශයේ අවමංගල්‍ය රථයක් තුළදී මල්ශාලා හිමිකරුවෙකු ඝාතනය කිරීමේ සිද්ධියට සැකපිට ඝාතනයට පුද්ගලයෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+එම සැකකරු ඝාතනයට ලක්වූ පුද්ගලයාගේ ගෝලයෙක් වන බවත් ඔහු සන්තකයේ තිබී තියුණු ආයුධයක් ද පොලිස් භාරයට ගෙන ඇත.
+
+සැකකරු පොලීසියට පාපොච්චාරණය කරමිස් පවසා ඇත්තේ, තම බිරිඳ සමඟ පැවති අනියම් සම්බන්ධයක් හේතුවෙන් මල්ශාලා හිමිකරු සමග අවස්ථා කිහිපයකදීම බහින්බස් වීම් සිදුවූ බවය.
+
+◼️
+
+[Data](articles/4ac25de6.json)
+
+---
 
 ### 18 crores drugs in 13 bottles of coordy protein
 
@@ -2174,7 +2208,7 @@ Police Media Spokesperson Nihal Talduwa said that Sanjay Mahawatta has been arre
 
 ---
 
-### Sri Lanka 165MW renewable tenders Rs15 up, Mannar wind award in two weeks: Minister
+### Sri Lanka 165MW renewable tenders Rs15+, Mannar wind award in two weeks: Minister
 
 *2024-06-28 09:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-165mw-renewable-tenders-rs15-up-mannar-wind-award-in-two-weeks-minister-169950/) · `en`
 
@@ -2285,49 +2319,5 @@ Meanwhile, police media spokesman Nihal Talduwa said that the confession will be
 [Data](articles/0e797e74.json)
 
 [Extended Data](ext_articles/0e797e74.ext.json)
-
----
-
-### Solar power generation exceeds 1000 MW
-
-*2024-06-28 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198242) · `si`
-
-Solar power generation in the country surpassed 1000 MW, with 944 MW from rooftop installations and 156 MW from large-scale projects. The Ministry of Energy expects annual additions of 150 MW over the next four years, aiming for significant growth in solar energy contributions to the national grid.
-
-🟩
-
-The Ministry of Energy says that the total solar powered electricity in this country has increased by 1000 MW.
-
-According to the roof, the Solar panels have been added to 944 MW and 156 MW through the lading solar panels.
-
-By the end of this year, the solar panel is expected to be added to the national grid only by the solar panel.
-
-According to the next four years, the solar panel will be added to the national grid of 150 MW each year in the next four years, according to the Long-Term Geology of the CEB.
-
-However, the Solar Panel has been able to add 132 MW to the National System on the roof during the first five months of this year.
-
-◼️
-
-[Data](articles/eaedc033.json)
-
-[Extended Data](ext_articles/eaedc033.ext.json)
-
----
-
-### Several spells of showers expected in parts of Sri Lanka
-
-*2024-06-28 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100152/several-spells-of-showers-expected-in-parts-of-sri-lanka) · `en`
-
-The Meteorology Department forecasts that several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
-
-Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provincesand in Trincomalee, Hambantota and Monaragala districts.
-
-◼️
-
-[Data](articles/bc615efb.json)
-
-[Extended Data](ext_articles/bc615efb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 17:04:44**
+As of **2024-06-28 17:19:26**
 
 ## Newspaper Stats
 
-*Scraped **32,667** Articles*
+*Scraped **32,669** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,813
 economynextcom | 1,913
 dailyftlk | 1,998
 adalk | 2,891
-adaderanalk | 3,716
+adaderanalk | 3,718
 tamilmirrorlk | 3,860
 dailymirrorlk | 4,733
 virakesarilk | 5,087
@@ -26,75 +26,141 @@ adaderanasinhalalk | 5,376
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,663 (100.0%) of 32,667 articles have been extended.
+32,667 (100.0%) of 32,669 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### කෙහෙළිය තවදුරටත් රිමාන්ඩ්
+### 137 Indians arrested in Sri Lanka over massive online financial scam
+
+*2024-06-28 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100166/137-indians-arrested-in-sri-lanka-over-massive-online-financial-scam) · `en`
+
+Sri Lanka Police says a total of 137 Indian nationals who are allegedly part of a group engaged in a large-scale online financial scam operation have been arrested by the Criminal Investigations Department (CID) within yesterday (27) from multiple locations in the country.
+
+Police Media Spokesman DIG Nihal Thalduwa stated that in Negombo, 55 suspects were detained, along with the seizure of 55 mobile phones and 29 laptops.
+
+In Kochchikade, 53 suspects were apprehended, and authorities seized 31 laptops and 58 mobile phones.
+
+The operation in Madiwela, Sri Jayawardenepura Kotte led to the arrest of 13 individuals and the seizure of 8 laptops and 38 mobile phones, while in Thalangama, Battaramulla, 16 suspects were taken into custody, with 8 laptops and 38 mobile phones recovered.
+
+In total, 158 mobile phones, 16 laptops, and 60 desktop computers were seized from 137 Indians arrested, he said.
+
+◼️
+
+[Data](articles/73870cf4.json)
+
+---
+
+### Keheliya and seven others further remanded
+
+*2024-06-28 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100165/keheliya-and-seven-others-further-remanded) · `en`
+
+Former Minister of Health Keheliya Rambukwella and 07 others have been further remanded until 12 July by the Maligakanda Magistrate’s Court over the import of substandard human Immunoglobulin vials.
+
+This order was issued when the case was taken up before the Maligakanda Magistrate today (28).
+
+A suspect in the incident, an officer of the Medical Supplies Division (MSD), has been released on bail.
+
+◼️
+
+[Data](articles/b36714b9.json)
+
+---
+
+### Keheliya further remanded
 
 *2024-06-28 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198262) · `si`
 
-හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් 07 දෙනෙකු ජුලි මස 12 වනදා දක්වා රක්ෂිත බන්ධනගාරගතකර තිබේ.
+Former Minister Keheliya Rambukwella and six others were remanded until July 12 after being charged at the Maliganda Magistrate's Court. One suspect was released on bail.
 
-සැකකරුවන් මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී ඇත.
+🟩
 
-එම සිද්ධියේ සැකකාරියක් වන වෛද්‍ය සැපයුම් අංශයේ නිලධාරිනියක්ව ඇප  මත මුදාහැර තිබේ.
+Seven suspects including former Minister Keheliya Rambukwella and seven suspects have been remanded until July 12.
+
+The suspects have been submitted to the Maliganda Magistrate's Court.
+
+A suspect in the incident has been released on bail.
 
 ◼️
 
 [Data](articles/bb80ee00.json)
 
+[Extended Data](ext_articles/bb80ee00.ext.json)
+
 ---
 
-### අස්වැසුම ප්‍රතිලාභීන්ට විශේෂ දීමනාවක්
+### A special allowance for beneficiaries
 
 *2024-06-28 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198261) · `si`
 
-අස්වැසුම සුබසාධක ප්‍රතිලාභ ගෙවීමේ වැඩසටහන යටතේ 2024 ජුනි මාසය සඳහා සංක්‍රාන්තික හා අවදානමට ලක්වූ කාණ්ඩවලට අයත් ප්‍රතිලාභීන්ට විශේෂ දීමනා ගෙවීම සඳහා රුපියල් බිලියන 11.6ක මුදලක් සුබසාධක ප්‍රතිලාභ මණ්ඩලය විසින් නිකුත් කර තිබේ.
+The Welfare Board has released funds for 622,495 beneficiaries, including a special allowance of Rs. 5,000 annually for eligible individuals and Rs. 2,500 for those transitioning. This support is extended to vulnerable groups from June to December 2024, as directed by President Ranil Wickremesinghe. The board assures ongoing financial aid for the needy.
 
-සමස්ත ප්‍රතිලාභීන් 622,495 දෙනෙකුගේ බැංකු ගිණුම් වෙත ඊයේ (27) දිනයේ එම මුදල් මුදාහැරි බව සඳහන් වේ.
+🟩
 
-මෙම වැඩසටහනේ පළමු අදියර ලෙස අවධානමට ලක්වූ කාණ්ඩයේ සුදුසුකම් ලැබූ ප්‍රතිලාභීන්ට රුපියල් 5,000 බැගින් 2023 ජූලි මස සිට 2024. 03. 31 දක්වාත්, සංක්‍රාන්ති කාණ්ඩය යටතේ සුදුසුකම් ලාභීන්ට රුපියල් 2,500 බැගින් 2023 ජූලි මස 2023. 12. 31 දක්වාත් ගෙවීමට කටයුතු කර තිබුණි.
+The Welfare Board has issued a sum of Rs.
 
-ඒ අනුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සුබසාධක ප්‍රතිලාභ මණ්ඩලයට උපදෙස් දී ඇත්තේ වත්මන් ආර්ථික තත්ත්වය සැලකිල්ලට ගෙන අස්වැසුම සුබසාධක ප්‍රතිලාභ ගෙවීමේ වැඩසටහන යටතේ සංක්‍රාන්තික කාණ්ඩයේ සහ අවධානමට ලක්වූ කාණ්ඩයේ ප්‍රතිලාභීන්ට විශේෂ දීමනා ගෙවීමේ කාලය මේ වසරේ දෙසැම්බර් මස දක්වා දීර්ඝ කරන ලෙසටය.
+It is said that the bank accounts were released yesterday (27) at 622,495 overall beneficiaries.
 
-...
+5,000 per year to qualified beneficiaries in the event. 03. 2,500 per certificates under the transition group cost Rs 223. 12. Steps were taken to 31.
+
+Accordingly, President Ranil Wickremesinghe has advised the Welfare Benefit Board until December this year.
+
+It has been decided to pay a special allowance for the monthly and vulnerable categories for June 2024, to December 2024, to December 2024 to pay Rs.
+
+The Welfare Benefit Board says that the payment method for the poor and poor categories are continuing.
+
+◼️
 
 [Data](articles/89c5b43e.json)
 
+[Extended Data](ext_articles/89c5b43e.ext.json)
+
 ---
 
-### இலங்கையில் பறவைக்காய்ச்சல் தொற்று ?
+### Bird flu in Sri Lanka?
 
 *2024-06-28 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/187196) · `ta`
 
-பறவைக்காய்ச்சலால் பாதிக்கப்பட்டுள்ளதாக சந்தேகிக்கப்படும் நோயாளி ஒருவர் அடையாளம் காணப்பட்டுள்ளதாக தொற்று  நோய் வைத்தியசாலை வட்டாரங்கள் தெரிவித்துள்ளன.
+In Sri Lanka, a suspected case of bird flu (Avian Influenza) has been reported. Bird flu, also known as avian influenza, is caused by viruses like H5N1, which can infect humans.
 
-பறவைக் காய்ச்சல், ஏவியன் இன்ப்ளூயன்ஸா என்றும் அழைக்கப்படுகிறது. இது மனிதர்களைப் பாதிக்கக்கூடிய ஒரு வகை இன்ப்ளூயன்ஸா வைரஸால் ஏற்படுகிறது.  அவற்றில் ஒரு விகாரங்கம் H5N1ஆகும்.
+🟩
+
+A patient suspected of being suffering from bird flu has been identified, sources said.
+
+Bird fever is also known as Avian Influenza. It is caused by a type of influenza virus that can affect humans.One of them is H5N1.
 
 ◼️
 
 [Data](articles/f544d8f8.json)
 
+[Extended Data](ext_articles/f544d8f8.ext.json)
+
 ---
 
-### தேர்தல் உரையா? உண்மையான நிவாரணமா? - சந்தேகங்களை எழுப்புகின்றது ரணில் விக்கிரமசிங்கவின் நாட்டு மக்களிற்கான உரை
+### Is the election speech?Real relief?- Speaking to Ranil Wickremesinghe's people
 
 *2024-06-28 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/187194) · `ta`
 
-இருதரப்பு கடன்வழங்குநர்களுடன் மிகவும் எதிர்பார்க்கப்பட்ட கடன்மறுசீரமைப்பு உடன்படிக்கை குறித்து இலங்கை ஜனாதிபதி ரணில்விக்கிரமசிங்க அறிவித்துள்ளார். எனினும் இது இன்னமும் மோசமான நிலையிலிருக்கும் நாட்டின் உண்மையான பொருளாதார நிலையை துல்லியமாக தெரிவிப்பதற்கு பதில் எதிர்வரும் தேர்தலிற்கு முன்னர் தனது ஆதரவை அதிகரிக்க செய்வதற்கான அவரது முயற்சியாக இது காணப்படுகின்றது என பல ஆய்வாளர்கள் தெரிவித்துள்ளனர்.
+Sri Lankan President Ranil Wickremesinghe's announcement of a debt agreement with bilateral creditors is seen by many as a pre-election strategy to boost support amid the country's ongoing economic challenges. The deal, aimed at restoring economic stability, is set to be discussed in Parliament on July 2nd. Critics, however, view it as a political maneuver rather than a genuine solution, especially considering the upcoming October elections. Political analyst Professor Nirmal Ranjith Devasiri suggests Wickremesinghe's speech is an attempt to counter his political opponent Sajith Premadasa, highlighting the divided support within the United National Party. Despite the potential for Wickremesinghe to leverage his economic recovery vision against Premadasa, the effectiveness of such strategies remains uncertain amidst widespread public discontent and skepticism towards austerity measures imposed by the IMF.
 
-ஜப்பான் மற்றும் இந்தியா உட்பட இலங்கையின் முக்கிய இரு தரப்பு கடன்வழங்குநர்களுடன் ஏற்பட்டுள்ள இணக்கப்பாடு குறித்து புதன்கிழமை  ஜனாதிபதி நாட்டு மக்களிற்கு அறிவித்தார்.உத்தியோகபூர்வ கடன் கொடுநர்களுடன் ஏற்பட்ட இணக்கப்பாடு குறித்தே அவர் அறிவித்தார்.
+🟩
 
-இலங்கையின் நுண்பொருளாதார ஸ்திரதன்மையை மீட்டெடுப்பதற்கான சர்வதேச நாணயநிதியத்தின் திட்டத்தின் அடிப்படையாக இந்த கடன்மறுசீரமைப்பு நடவடிக்கைகள் காணப்படுகின்றன.
+Sri Lankan President Ranil Wickremesinghe has announced the highly anticipated debt agreement with bilateral creditors. However, many researchers have said that this is an attempt to increase its support before the upcoming election, in response to the real economic status of the country, which is still in poor condition.
 
-ஜூலை மாதம் இரண்டாம் திகதி நாடாளுமன்றத்தின் விசேட அமர்வில் இந்த உடன்படிக்கைகள் சமர்ப்பிக்கப்பட்டு  ஏற்றுக்கொள்ளப்படும்.
+On Wednesday, the President announced the compliance with Sri Lanka's major bipartisans, including Japan and India. He announced on Wednesday.
+
+These debt processing measures are based on the International Monetary Fund's plan to restore Sri Lanka's micro -economic stability.
+
+These agreements will be submitted and accepted at a special session of Parliament on the second of July.
+
+However, many analysts have described the announcement of Wickremesinghe's announcement of the debt restructuring- they have commented that the presidential elections are due to take place in Octobar this year.
 
 ...
 
 [Data](articles/303e0e41.json)
+
+[Extended Data](ext_articles/303e0e41.ext.json)
 
 ---
 
@@ -2175,59 +2241,5 @@ Foreign exchange reserves comprise of financial assets held in foreign currencie
 [Data](articles/bc1aa766.json)
 
 [Extended Data](ext_articles/bc1aa766.ext.json)
-
----
-
-### Hirunika Premachandra: Three years in prison with serious work
-
-*2024-06-28 05:42:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1rw717jvypo) · `si`
-
-Hirunika Premachandra, a former MP, was convicted for abducting a youth, resulting in a three-year prison sentence with hard labor. The conviction followed a lengthy trial where she was found guilty of 18 charges and fined Rs. 200,000. If the fine is not paid, she faces six months imprisonment per charge. This case highlights the severity of the legal consequences for such crimes and the importance of resolving disputes through legal channels rather than resorting to violence.
-
-🟩
-
-Former MP Hirunika Premachandra was convicted of abducting a youth who served in a shop in the Dematagoda.
-
-Colombo High Court Judge Amal Ranarajarajarajarajarajarajarajarajaya has been published after a long trial.
-
-Accordingly, the defendant Hirunika Premachandra was guilty of 18 accusations and the charge was fined Rs. 200,000.
-
-If the penalties were taken up, the order stated that six months would be sentenced to six months per share.
-
-The judge Amal Ranraja said the judge was summoned to the opening of the defendant.
-
-The deputy Solicitor General Janaka Bandara who appeared before the court before the punishment, eight of the accused recalled that the Colombo High Court has filed imprisonment and fines.
-
-According to the nature of the defendant, the court could be sentenced to 69 years in prison with serious work.
-
-...
-
-[Data](articles/05afbfc2.json)
-
-[Extended Data](ext_articles/05afbfc2.ext.json)
-
----
-
-### Sri Lanka banking system repays debt or builds fx reserves of US$6.2bn since default
-
-*2024-06-28 04:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-banking-system-repays-debt-or-builds-fx-reserves-of-us6-2bn-since-default-169912/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s banking system has collected reserves or repaid debt totaling 6.2 billion US dollars in the two years to April 2024 since rates were to help end money being printed (inflationary policy) to keep interest rates artificially low.
-
-In April 2022 Sri Lanka also defaulted, halting the repayment of bilateral and private debt.
-
-The savings of principle repayments from April 2022 to March 2024 from the default is 5.8 billion US dollars.
-
-The central bank however continued to borrow from the Reserve Bank of India after the rate hike, and printed money to sterilize interventions delaying a quick correction of the balance of payments.
-
-Since then, the central bank has built reserves with deflationary policy as private credit also fell.
-
-By April 2022 the central bank had borrowed and busted forex to end up with negative reserves of 4.2 billion US dollars, which worsened to 4.8 billion US dollar by June 2022. It then started to improve.
-
-...
-
-[Data](articles/46323a70.json)
-
-[Extended Data](ext_articles/46323a70.ext.json)
 
 ---

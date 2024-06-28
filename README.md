@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 22:53:16**
+As of **2024-06-28 23:04:51**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 5,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,695 (100.0%) of 32,696 articles have been extended.
+32,696 (100.0%) of 32,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### හිරුණිකාගෙන් සිරදඬුවමට එරෙහිව අභියාචනයක්
+### Appeal against Hirunika
 
 *2024-06-28 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198270) · `si`
 
-හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට ලබාදුන් සිරදඬුවමට එරෙහිව එළැඹෙන සතියේ අභියාචනාධිකරණය හමුවේ අභියාචනයක් ගොනුකරන බව ඇයගේ නීතිඥයින් සඳහන් කරයි.
+Hirunika Premachandra, a former MP, was sentenced to three years in prison for abducting and assaulting a youth in 2015. Her lawyers plan to appeal this decision to the Court of Appeal. The case involved 18 charges, and despite initial acquittal for Premachandra and her guards, she was convicted on retrial by the Colombo High Court. The Deputy Solicitor General highlighted the misuse of power and urged for a stern sentence to deter similar offenses.
 
-හිටපු පාර්ලිමේන්තු මන්ත්‍රිනී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට කොළඹ මහාධිකරණය අද (28) බරපතළ වැඩසහිත වසර තුනක සිර දඬුවම් නියම කළේය.
+🟩
 
-ඒ, 2015 දී තරුණයකු පැහැරගෙන ගොස් අයුතු ලෙස සිරකර තැබීමේ චෝදනාව සම්බන්ධයෙනි.
+Her lawyers say that the imprisonment of Hirunika Premachandra will be filed against the Court of Appeal.
 
-ඒ අනුව, විත්තිකාර හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය චෝදනා 18කට වරදකාරිය කෙරුණු අතර එම එක් එක් චෝදනාවට රුපියල් විසිදහස බැගින් දඩ නියම කෙරුණි.
+Former MP Hirunika Premachandra sentenced to three years in prison today (28).
 
-2015 වසරේ දෙසැම්බර් 21වැනිදා දෙමටගොඩ ප්‍රදේශයේ වෙළෙඳසැලක සේවය කරමින් සිටි අමිල ප්‍රියංග නම් තරුණයෙකුව ඩිෆෙන්ඩර් රථයකින් පැහැරගෙන ගොස් සාපරාධී බිය ගැන්වීමක් කළ බවට එවක පාර්ලිමේන්තු මන්ත්‍රීවරියක්ව සිටි හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට සහ ඇගේ පෞද්ගලික ආරක්ෂකයින්ට චෝදනා එල්ල වුණි.
+It is in the case of abducting a youth and abusing a youth in 2015.
 
-ඒ සම්බන්ධයෙන් සිදුකෙරුණු මූලික විමර්ශනයකින් අනතුරුව හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට සහ ඇගේ පෞද්ගලික ආරක්ෂකයින් 08 දෙනෙකුට නීතිපතිවරයා චෝදනා 29ක් යටතේ කොළඹ මහාධිකරණය හමුවේ අධිචෝදනා ගොනුකළේය.
+Accordingly, Ms. Hirunika Premachandra was conquered by 18 accusations and each charge was fined Rs.
+
+Amila Priyanga, who was working in December 21, 2015, Mrs. Hirunika Premachandra, who was a young man and was accused of abducting a young man in Defender.
+
+After a preliminary investigation, Mrs. Hirunika Premachandra and eight her private guards were indignant before the Colombo High Court under 29 charges.
+
+Abduction, abduction and assistance, and the support of the abduction and assistance of a public purpose, the abduction and assistance of the indictment is to be abducted in the indictment of the indictment.
 
 ...
 
 [Data](articles/4b304e20.json)
+
+[Extended Data](ext_articles/4b304e20.ext.json)
 
 ---
 

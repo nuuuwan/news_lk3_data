@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 15:04:53**
+As of **2024-06-28 15:19:45**
 
 ## Newspaper Stats
 
-*Scraped **32,635** Articles*
+*Scraped **32,637** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 islandlk | 1,813
 economynextcom | 1,901
 dailyftlk | 1,998
-adalk | 2,890
+adalk | 2,891
 adaderanalk | 3,713
 tamilmirrorlk | 3,858
 dailymirrorlk | 4,733
 virakesarilk | 5,079
-adaderanasinhalalk | 5,370
+adaderanasinhalalk | 5,371
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,635 (100.0%) of 32,635 articles have been extended.
+32,636 (100.0%) of 32,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### Sanjaya to Mahawatta Prison
+
+*2024-06-28 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198257) · `si`
+
+The Chairman of an organization has been arrested by the Terrorism Investigation Division and remanded until July 05, 2023, to be held at Mahawatta Prison.
+
+🟩
+
+The Chairman of the Organization "to the country" has been remanded until July 05, who was arrested by the Terrorism Investigation Division.
+
+◼️
+
+[Data](articles/81b92c9a.json)
+
+[Extended Data](ext_articles/81b92c9a.ext.json)
+
+---
 
 ### Debt on Debt Restruct Concentration Tuesday
 
@@ -251,6 +269,24 @@ The NWSDB has requested people residing in the aforementioned areas to take the 
 [Data](articles/596e1c2c.json)
 
 [Extended Data](ext_articles/596e1c2c.ext.json)
+
+---
+
+### නීති විරෝධිව උපයාගත් වත්කම් රාජ සන්තක කරන පනත ලබන මස පාර්ර්ලිමේන්තුවට
+
+*2024-06-28 12:39:38* · [`adalk`](https://www.ada.lk/breaking_news/නීති-විරෝධිව-උපයාගත්-වත්කම්-රාජ-සන්තක-කරන-පනත-ලබන-මස-පාර්ර්ලිමේන්තුවට/11-410491) · `si`
+
+ඇතැම් රාජ්‍ය සේවකයින්  අල්ලස් කොමිස් ගනිමින් කටයුතු කළත් සමස්තයක් ලෙස රාජ්‍ය සේවකයින් ගෞරවණිය සේවයක් සිදු කරන බවත් දියුණු රටක් බවට පත්වීමට ශක්තිමත් නීති පද්ධතියක් අත්‍යවශ්‍ය බවත් අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහා පවසයි.
+
+එසේම නීති විරෝධිව උපයාගත් වත්කම් රාජ සන්තක කිරීමට අදාල පනත් කෙටුම්පත ලබන මාසයේ පාර්ලිමේන්තුවට ඉදිරිපත් කරන බවද අමාත්‍යවරයා පැවැසිය.
+
+අධිකරණ අමාත්‍යවරයා මෙම අදහස් පළ කළේ සදහම් ගුරු උවසර ගාල්ල දිස්ත්‍රික්කයේ දහම් පාසැල් ගුරුවරයෙකු ලෙස ගුණ නැණින් පිරිපුන් දැයක් ගොඩ නගන්නට 25 වසරකට වඩා කැප වු සුදුසුකම්ලත් දහම් පාසැල් ගුරුවරුන් 361 දෙනෙකු සදහා මුළු දිවයිනටම බලපාන පරිදි සාම විනිසුරු තනතුරු පිරිනැමීම වෙනුවෙන් ගාල්ල Hall Galle De Hall ශාලාවේ පැවති උත්සවයටකට එක්වෙමිනි.
+
+" අද රාජ්‍ය සේවය තුළින් හොද සේවයක් සිදු නොකරන බවට ඇතැම් අය විවේචනය කරනවා. එහෙත් එම අදහස නිවැරදි නැහැ. කිහිප දෙනෙක් රාජ්‍ය සේවකයින්  අල්ලස් කොමිස් ගනිමින් කටයුතු කළත් සමස්තයක් ලෙස රාජ්‍ය සේවකයින් ගෞරවණිය සේවයක් සිදු කරනවා.
+
+...
+
+[Data](articles/675b7cdc.json)
 
 ---
 
@@ -2221,69 +2257,5 @@ The relevant circular provisions will be implemented from 01.07.2011.
 [Data](articles/cb8ee588.json)
 
 [Extended Data](ext_articles/cb8ee588.ext.json)
-
----
-
-### More information about the incident that had been harassed 60 Indians
-
-*2024-06-27 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198232) · `si`
-
-The CID arrested 60 Indians involved in a financial racket through illegal online activities. The operation began with a raid in Hinaticampura, leading to the seizure of 9 laptops, 59 mobile phones, and the arrest of 16 individuals. Further raids resulted in the discovery of 40 computers used in the racket and the arrest of 30 more Indians in Kochchikade, Negombo. Investigations revealed their involvement in accessing India's banned internet pages, indicating a significant financial operation.
-
-🟩
-
-The CID has been arrested by the CID today (60) by the CID today (60).
-
-Criminal Investigations Department has received information that a group of Indian nationals who stayed in the country are conducting a financial racket on illegal online.
-
-Accordingly, the Director of the Criminal Inspector General of Police Rohan Premaratne had begun an investigation into the instructions of the Director of Police Mangala Dev Prendeniya.
-
-As a result, a house was raided by the Investigation Officers in Hinaticampura area this afternoon.
-
-16 Indian nationals were arrested and 9 laptops and 59 mobile phones were taken into custody.
-
-Lifestious house in Kochchikade area, Negombo and 30 other Indian nationals have been arrested.
-
-40 computers used in racket and 38 were found.
-
-Investigations have been obtained on a monthly rent of Rs.
-
-The Criminal Investigation Department officials raided a house in Madiwela
-
-...
-
-[Data](articles/dec728a4.json)
-
-[Extended Data](ext_articles/dec728a4.ext.json)
-
----
-
-### Aruna, best player in the 102nd National Athletic Championship
-
-*2024-06-27 21:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/187122) · `ta`
-
-Aruna Darshana won the 102nd National Athletic Championship, securing 1,145 IAAF points in the men's 400m race. He also took home the Wilton Battlee Challenge Cup. Tarushi Karunaratne, with 1088 IAAF points from the women's 800m race, won the Kalambo Kentine Committee Challenge Cup. Dilhani Lakekam, excelling in the throwing tournament, received the Salonbas Challenge Bowl.
-
-🟩
-
-Aruna Darshana was elected as the highest in the 102nd National Athletic Championships at the Mahinda Rajapaksa Stadium, Diyagama, Sri Lanka Athletics Company (Sri Lanka Athletics).
-
-The tournament, which began last Tuesday, came to an end today and more than 500 competitors participated.
-
-Aruna Darshana, who received 1,145 International Rankings (IAAF Points) points by completing the men's 400m race in 45.51 seconds. Vairavanathan won the Memorial Challenge Cup.
-
-Aruna Darshan also won The Wilton Battlee Challenge Cup for the great athlete of the male competitors.
-
-Tarushi Karunaratne won the Kalambo Kentine Committee Challenge Cup bowl for the best player of the female competitors.
-
-Tarushi Karunaratne became the best player with 1088 international rankings by completing the women's 800m race in 2 minutes and 04.22 seconds.
-
-Dilhani Lakekam, who is near the Olympic gate with Tarushi, was selected as the best player in the throwing tournament and awarded the Salonbas Challenge Bowl.
-
-...
-
-[Data](articles/66b86fa9.json)
-
-[Extended Data](ext_articles/66b86fa9.ext.json)
 
 ---

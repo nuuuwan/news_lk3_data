@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 02:19:28**
+As of **2024-06-29 02:35:06**
 
 ## Newspaper Stats
 
-*Scraped **32,723** Articles*
+*Scraped **32,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 321
 newsfirstlk | 363
 islandlk | 1,813
 economynextcom | 1,920
-dailyftlk | 2,011
+dailyftlk | 2,015
 adalk | 2,895
 adaderanalk | 3,723
 tamilmirrorlk | 3,863
@@ -26,11 +26,87 @@ adaderanasinhalalk | 5,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,723 (100.0%) of 32,723 articles have been extended.
+32,723 (100.0%) of 32,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
+
+### Field Marshal Fonseka’s military and political experiences continue to be invaluable assets: President
+
+*2024-06-29 02:06:18* · [`dailyftlk`](https://www.ft.lk/news/Field-Marshal-Fonseka-s-military-and-political-experiences-continue-to-be-invaluable-assets-President/56-763640) · `en`
+
+Acknowledges Yahapalana Govt.’s decision to honour Fonseka with title of Field Marshal
+
+Field Marshal Fonseka attributes victory in war to collective effort of extraordinary dedication of war heroes
+
+Expresses doubts on if former leaders honoured sacrifices made by both war heroes, people post-war
+
+President Wickremesinghe yesterday expressed confidence in former Army Commander and MP Field Marshal Sarath Fonseka’s enduring commitment to the country and asserted that his military and political experiences continue to be invaluable assets.
+
+He made these remarks during the launch of ‘The Army Commander’s Promise to the Nation – I Will Not Leave This War to the Next Army Commander’, a book authored by Fonseka. The event, held at the Nelum Pokuna Theatre in Colombo, celebrated Fonseka’s pivotal role in ending the country’s 30-year civil war.
+
+President acknowledged Fonseka’s leadership was instrumental in securing victory in what he described as one of the world’s most challenging wars.
+
+...
+
+[Data](articles/51d80f70.json)
+
+---
+
+### President sole leader capable of rebuilding Sri Lanka says Ittapane Dhammalankara
+
+*2024-06-29 02:04:09* · [`dailyftlk`](https://www.ft.lk/news/President-sole-leader-capable-of-rebuilding-Sri-Lanka-says-Ittapane-Dhammalankara/56-763639) · `en`
+
+The Chief Prelate of the Kotte Sri Kalyani Samagri Dharma Maha Sangha Sabha Aggamaha Pandita Most Venerable Dr. Ittapane Dhammalankara Maha Nayaka Thera, stated that President Ranil Wickremesinghe is the sole leader capable of rebuilding Sri Lanka’s economy and advancing the nation. The Maha Nayaka Thera who is also and Chancellor of the Sri Jayewardenepura University, emphasised that the President’s program merits the blessings of the entire Maha Sangha.
+
+The Maha Nayaka Thera made these remarks during President Wickremesinghe’s visit to Rukmale Sri Dharma Vijayaloka Maha Viharaya, Kottawa on Thursday.
+
+Upon arriving at the temple, President Wickremesinghe first participated in religious rituals to receive blessings. He then visited the Maha Nayaka Thera, inquiring about his health and engaging in a cordial discussion. Additionally, the President reviewed the temple’s development activities.
+
+...
+
+[Data](articles/acdfbf0c.json)
+
+---
+
+### Mujibur accuses Cabinet of continued corruption
+
+*2024-06-29 01:54:29* · [`dailyftlk`](https://www.ft.lk/news/Mujibur-accuses-Cabinet-of-continued-corruption/56-763638) · `en`
+
+SJB MP Mujibur Rahman criticises President for failing to eliminate corruption in Government transactions
+
+Says President’s only recourse to increase revenue appears to be imposing an inexhaustible tax burden on citizens
+
+Emphasises urgent need for President to remove Ministers implicated in fraud and corruption
+
+Samagi Jana Balawegaya (SJB) MP Mujibur Rahman has accused the Cabinet of continuing corrupt practices and alleged President Wickremesinghe has not taken any steps to put a stop to them.
+
+Addressing a press conference at the Opposition leader’s office in Colombo yesterday, Rahman said there is no transparency in the procurement processes.
+
+Citing the National Lotteries Board (NLB) as an example, Rahman alleged the President has allowed the NLB to print all things including tickets issued without calling for tenders. He said the task has been entrusted to a group of friends of the Chairman of the Lottery Board.
+
+...
+
+[Data](articles/85c73f33.json)
+
+---
+
+### USCIRF releases latest update on religious freedom in Sri Lanka
+
+*2024-06-29 01:53:51* · [`dailyftlk`](https://www.ft.lk/news/USCIRF-releases-latest-update-on-religious-freedom-in-Sri-Lanka/56-763637) · `en`
+
+The United States Commission on International Religious Freedom (USCIRF) yesterday released the latest report on Sri Lanka.
+
+The Sri Lanka Country Update provides an overview of the current religious freedom conditions in Sri Lanka and key observations from USCIRF’s 2023 delegation to the country, such as religiously motivated land disputes, registration challenges, and the use of discriminatory legislation to target and detain religious minorities. It includes a summary of proposed amendments to the Muslim Marriage and Divorce Act, the Anti-Terrorism Act, the Online Safety Bill, and the enforcement of the International Covenant on Civil and Political Rights Act.
+
+In its 2024 Annual Report, USCIRF recommended that the US Department of State include Sri Lanka on its Special Watch List for engaging in or allowing severe violations of religious freedom. In May 2024, USCIRF held a hearing on religious freedom in Sri Lanka.
+
+...
+
+[Data](articles/e1b9d90a.json)
+
+---
 
 ### Due to the status of repayment of the loan, Sri Lanka will benefit from $ 17 billion - Ali Sabri
 
@@ -2203,93 +2279,5 @@ In the incident of the collapse of the Delhi airport roof, the Terminal 1 has be
 [Data](articles/de477398.json)
 
 [Extended Data](ext_articles/de477398.ext.json)
-
----
-
-### Democrats in stumbling
-
-*2024-06-28 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187160) · `ta`
-
-In a contentious debate, President Biden faced criticism for his performance, raising concerns about his candidacy ahead of the November elections.
-
-🟩
-
-During today's intervenings between US President Jobiton and former President Donald Trump, Jodiban's stumbling blocks and actions have caused compassion.
-
-The presidential election debate organized by CNN has caused many questions to be answered by Baiden's campaign group.
-
-The BBC said that there were some moments that Bitan had lost his thinking, and that there were no good things to sight.
-
-Following this, researchers in the American media have released concern over the chances of Bidan's success in November.
-
-◼️
-
-[Data](articles/d3528abb.json)
-
-[Extended Data](ext_articles/d3528abb.ext.json)
-
----
-
-### Mahinda met Waidang
-
-*2024-06-28 11:21:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெய்டாங்கை-சந்தித்தார்-மஹிந்த/175-339575) · `ta`
-
-Sun Waidang, Chinese Foreign Minister, met with former Sri Lankan President Mahinda Rajapaksa in Beijing. This meeting highlights the strong ties between China and Sri Lanka, dating back to when Xi Jinping visited Sri Lanka as President in 2014, calling Rajapaksa one of China's oldest friends.
-
-🟩
-
-Chinese Foreign Minister Sun Waidang met with former President and MP Mahinda Rajapaksa in Beijing.
-
-When Mahinda Rajapaksa was president in 2014, President H.E Xi Jinping made a historic visit to Sri Lanka and called him the oldest friend of China.
-
-◼️
-
-[Data](articles/d78923bb.json)
-
-[Extended Data](ext_articles/d78923bb.ext.json)
-
----
-
-### Officers who are preparing for action raids nationwide
-
-*2024-06-28 11:20:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடளாவிய-ரீதியில்-அதிரடி-சோதனைக்கு-தயாரான-அதிகாரிகள்/175-339574) · `ta`
-
-Nationwide, officers are gearing up for action raids focusing on school meal quality. Complaints about subpar food items in some schools led Minister of State for Education Arunachalam Aravinda Kumar to alert public health inspectors.
-
-🟩
-
-The quality of food items provided in schools in schools across the country will be investigated.
-
-Minister of State for Education Arunachalam Aravinda Kumar said that various complaints have been received regarding the quality of food items provided in some snacks.
-
-He said that steps have been taken to notify the public health inspectors regarding this issue.. Remble
-
-◼️
-
-[Data](articles/1bd48d3c.json)
-
-[Extended Data](ext_articles/1bd48d3c.ext.json)
-
----
-
-### Kalki 2898kb - Review
-
-*2024-06-28 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/187157) · `ta`
-
-"Kalki 2898k," a massive Indian film costing Rs 600 crore, spans Telugu, Tamil, Hindi, Malayalam, and Kannada. It focuses on the quest for Kalki, a savior in the city of Kasi, under the rule of Supreme Yaskin. The plot involves Aswathama seeking redemption for his curse, Bhairava striving to fulfill her dream, and the struggle against Supreme Yaskin's forces. The film features a mix of mythological elements and modern technology, with special effects highlighting its strengths. Performances by actors like Kamal Haasan, Deepika Padukone, and Prabhas are praised, along with the cinematography and music.
-
-🟩
-
-Actors: Amithappachan, Prabhas, Kamal Haasan, Deepika Padukone, Disha Patani, Pasupathi and many others.
-
-The biggest film that is ready at a cost of Rs 600 crore in India.Telugu, Tamil, Hindi and Malayalam Kannada. The film crew systematically avoids the event in Tamil, Malayalam and Kannada. The film was held only in the major cities of Mumbai-Hyderabad and Dubai. Did the film attracted Tamil fans, however?Or not?We will continue to see.
-
-In the Mahabharata war, Aswathama, who fought the Pandavas on behalf of the team, destroys the strength of the mother's womb as the mother of the Pandavas.. Furious, Krishna Paramatma curses the immortal gift to Aswatama. Also, Krishna Paramatma in Kaliyuga says that when the incarnation of Azwatama is saved, he says that the curse will be emancipated.
-
-...
-
-[Data](articles/3dd5b438.json)
-
-[Extended Data](ext_articles/3dd5b438.ext.json)
 
 ---

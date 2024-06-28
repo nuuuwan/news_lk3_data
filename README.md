@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 22:07:04**
+As of **2024-06-28 22:19:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,691 (100.0%) of 32,693 articles have been extended.
+32,693 (100.0%) of 32,693 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,17 +50,25 @@ She added that deepening reforms that encourage transparency, accountability, an
 
 [Data](articles/c654efd2.json)
 
+[Extended Data](ext_articles/c654efd2.ext.json)
+
 ---
 
-### ෆොන්සේකාගේ පොරොන්දුව ජනපති අතට
+### Fonseka's promise to the President
 
 *2024-06-28 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198269) · `si`
 
-සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාෂල් සරත් ෆොන්සේකා මහතාගෙන් ඉදිරියේදී රටට තවත් සේවයක් ලබාගැනීමට අවශ්‍ය බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe calls for additional contributions from MP Field Marshal Sarath Fonseka, emphasizing the nation's need for his services.
+
+🟩
+
+President Ranil Wickremesinghe says that the country needs to provide another service from MP Field Marshal Sarath Fonseka, MP's Field Marshal Sarath Fonseka.
 
 ◼️
 
 [Data](articles/033483b9.json)
+
+[Extended Data](ext_articles/033483b9.ext.json)
 
 ---
 

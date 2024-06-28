@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 08:22:57**
+As of **2024-06-28 08:34:58**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,356
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,578 (100.0%) of 32,587 articles have been extended.
+32,587 (100.0%) of 32,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### මෙරට කාන්තාවන්ගෙන් සියයට 50ක් ස්ථුලතාවයෙන්
+### 50 percent of women in Sri Lanka with fractual
 
 *2024-06-28 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198241) · `si`
 
-මෙරට කාන්තාවන්ගෙන් සියයට 50ක් පමණ ස්ථූලතාවයෙන් පෙළෙන බව ශ්‍රී ලංකා පෝෂණ විශේෂඥ වෛද්‍යවරුන්ගේ විද්‍යායතනය පවසයි.
+In Sri Lanka, around 50% of women face obesity issues, affecting both themselves and their children's health. Despite progress in reducing malnutrition, there's a growing concern over high nutrition levels. The need for more research and awareness is highlighted.
 
-එහි සභාපති වෛද්‍ය තිමති වික්‍රමසේකර මහතා පැවසුවේ ළමුන් අතර ද ස්ථුලතාවය ඉහළ යමින් පවතින බවය.
+🟩
 
-"අපි මේ ස්ථුලතාවය කියන කාරණය අමතක කරලා තියෙන්නේ. හැම වෙලාවෙම අපි මන්දපෝෂණය ගැන තමයි අවධානය යොමු කරන්නේ. නමුත් ළමා ස්ථූලතාවයත් වැඩිවීගෙන යනවා. කාන්තාවන්ගෙන් 50කට ආසන්න ප්‍රමාණයක් අධි බර සහ ස්ථුලතාවය. අලුත් පර්යේෂණ දත්ත පද්ධතියක් ලංකාවට අවශ්‍යයි."
+Sri Lanka Nutrition Specialist doctors say that about 50 percent of women suffer from a statue.
 
-මේ වන විට මෙරට මන්දපෝෂණ තත්ත්වය අඩු වුවද අධි පෝෂණය ඉහළ ගොස් ඇති බව වෛද්‍ය තිමති වික්‍රමසේකර මහතා වැඩිදුරටත් සදහන් කළේය.
+The Chairman of the Ministry Dr. Timatha Wickremasekera said the obligation was rising among children.
+
+"We have forgotten this obvious fact. We always focus on malnutrition.But children's flexibility grounds too. Nearly 50 of women overweight and flexibility. Sri Lanka needs a new research database. "
+
+Dr. Timathi Wickremasekera further added that even though the country's malnutrition has been reduced, he has risen high nutrition.
 
 ◼️
 
 [Data](articles/83b5602a.json)
+
+[Extended Data](ext_articles/83b5602a.ext.json)
 
 ---
 
@@ -73,6 +79,8 @@ The Chairman of ‘Magen Ratata’ movement Sanjaya Mahawaththa has been arreste
 ◼️
 
 [Data](articles/d4841e77.json)
+
+[Extended Data](ext_articles/d4841e77.ext.json)
 
 ---
 
@@ -264,6 +272,8 @@ The re-elected Board comprises Chairman – Ernst & Young Country Managing Partn
 
 [Data](articles/f66aa267.json)
 
+[Extended Data](ext_articles/f66aa267.ext.json)
+
 ---
 
 ### Dipped Products unveils world’s first purpose-built EVPRO glove for EV industry
@@ -281,6 +291,8 @@ Offering unmatched safety and mobility for electrical engineers, the EVPRO Glove
 ...
 
 [Data](articles/6d4d0504.json)
+
+[Extended Data](ext_articles/6d4d0504.ext.json)
 
 ---
 
@@ -300,6 +312,8 @@ The event, organised by the Industrial Development Board (IDB) and Industries Mi
 
 [Data](articles/5d2f15e6.json)
 
+[Extended Data](ext_articles/5d2f15e6.ext.json)
+
 ---
 
 ### Why do banks exist?
@@ -313,6 +327,8 @@ Two leading Ministers Dr. Ramesh Pathirana and Dr. Wijeyadasa Rajapakshe on Sund
 ...
 
 [Data](articles/d3abda4b.json)
+
+[Extended Data](ext_articles/d3abda4b.ext.json)
 
 ---
 
@@ -355,6 +371,8 @@ Since the official international reserves are readily available to and controlle
 ...
 
 [Data](articles/bc1aa766.json)
+
+[Extended Data](ext_articles/bc1aa766.ext.json)
 
 ---
 
@@ -492,17 +510,25 @@ Time has been levied to pay off the loan until 2028. To pay off debt installment
 
 ---
 
-### கடன் மறுசீரமைப்பில் ’பிரச்சினைகள்  உள்ளன’
+### There are telephone problems in debt restructuring
 
 *2024-06-28 02:31:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கடன்-மறுசீரமைப்பில்-பிரச்சினைகள்-உள்ளன/150-339564) · `ta`
 
-சர்வதேச நாணய நிதிய (IMF) திட்டம் மற்றும் கடன் மறுசீரமைப்புத் திட்டங்கள் குறித்து பல விடயங்கள் புதன்கிழமை (26)  வெளிப்படுத்தப்பட்டன. கடன் மறுசீரமைப்பு செயல்முறை நாட்டிற்கு நன்மை பயக்கும் என்றால், அதற்கு ஆதரவை வழங்குவோம். என்றாலும் நேற்றைய தினம் வெளிப்படுத்தப்பட்ட விடயங்கள் தொடர்பில் சிக்கல் நிலை ஏற்பட்டுள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+Debt restructuring issues highlighted concerns over the IMF plan and delays in debt repayment until 2028, despite initial optimism. Opposition leader Sajith Premadasa criticized the slow progress, pointing out that other countries like Ghana have successfully reduced their debt more quickly. He accused the government of misleading the public about the completion of the debt restructuring process, emphasizing the need for transparency and swift action to avoid legal challenges.
 
-பிரபஞ்சம் தகவல் தொழிநுட்ப வேலைத்திட்டத்தின் கீழ்,   களுத்தறை, புலத்சிங்கல மதுராவல, ரெமுன மகா வித்தியாலத்திற்கு வழங்கி வைக்கும் நிகழ்வு ஜூன் 27 ஆம் திகதி இடம்பெற்றது. அதில் கலந்துகொண்டு உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+🟩
+
+Several issues were revealed on Wednesday (26) regarding the International Monetary Fund (IMF) Plan and Debt Reorganization Plans. If the debt restoration process is beneficial to the country, we will support it. Opposition leader Sajith Premadasa, however, said that there was a problem with the issues revealed yesterday.
+
+Under the Universal Information Technology Program, Kalutara, Pulathsingala Mathuravala, Remuna Maha Vidyalaya was held on June 27. He said this while addressing it.
+
+Time has been levied to pay off the loan until 2028. To pay off debt installments from 2028. Although this seems a good thing. Although the IMF is mentioned in the report, this compliance discussion has not reached the target of 2033. The Opposition Leader said that since 2028, compliance has been reached to pay off debt installments.
 
 ...
 
 [Data](articles/db53ca24.json)
+
+[Extended Data](ext_articles/db53ca24.ext.json)
 
 ---
 
@@ -1314,21 +1340,35 @@ The Ministry of Education has announced that all government schools will be held
 
 ---
 
-### ඉන්දියාවේ තහනම් සූදු ඔට්ටු පිටුවක් මහා පරිමාණයෙන් ලංකාවේ සිට ක්‍රියාත්මක කරලා
+### India has operated a banned gambling bet from Sri Lanka
 
 *2024-06-27 20:17:32* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවේ-තහනම්-සූදු-ඔට්ටු-පිටුවක්-මහා-පරිමාණයෙන්-ලංකාවේ-සිට-ක්‍රියාත්මක-කරලා/11-410485) · `si`
 
-මෙරට තුළ රැඳී සිටිමින් නීති විරෝධී ලෙස අන්තර්ජාලය හරහා මූල්‍ය ජාවාරමක් සිදු කළ ඉන්දියන් ජාතිකයන් 60 කු අත්අඩංගුවට ගත් බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කියයි.
+In Sri Lanka, 60 Indian nationals involved in an online gambling racket were arrested. Authorities seized 135 mobile phones, 40 computers, and other devices during raids in several locations. The operation, supervised by DIG Premane Premaratne, targeted a banned gambling site linked to significant betting on cricket tournaments.
 
-එම සැකකරුවන් සමග ස්මාට් වර්ගයේ ජංගම දුරකථන 135 ක්, පරිගණක  40  හා ලැෆ් ටොෆ් පරිගණක 17 ක් පොලිස් භාරයට ගෙන ඇත. තලංගම , කෝට්ටේ මාදිවෙල සහ මීගමුව කොච්චිකඩ යන ප්‍රදේශවලදී එම වැටලීම් සිදුකර ඇත.
+🟩
 
-තලංගම හීනටි කුඹුර ප්‍රදේශයේ නිවසක් වටලා එම නිවසේ රැඳී සිට මෙම ජාවාරම සිදුකළ ඉන්දියන් ජාතිකයන් 16 කු අත්අඩංගුවට ගත් පොලිසිය ඔහුත් භාරයේ තිබී ලැෆ් ටොෆ් පරිගණක 9 ක් හා ජංගම දුරකථන 59 ක් පොලිස් භාරයට ගෙන ඇත.
+The Criminal Investigations Department says that 60 Indians who have been inaugurated in the country have been arrested by 60 Indians who have committed a financial racket online.
 
-කෝට්ටේ මාදිවෙල ප්‍රදේශයෙන් ප්‍රදේශයේද නිවසක් වටලා එම ජාලයටම සම්බන්ධ තවත් ඉන්දියන් ජාතිකයන් 13 අත්අඩංගුවට ගත් පොලිසිය එම ස්ථානයේ තිබී ලැෆ්ටොෆ්  පරිගණක 8 ක් ජංගම දුරකථන 38 ක් ද පොලිස් භාරයට ගෙන ඇත
+Police seized 135 smoky mobile phones with the suspects, 40 computers and 17 laugh devils. The raids have been carried out in the Kotagama, Kotte and Negombo Kochchikade areas.
+
+Police have arrested 9 computers and 5 mobile phones were taken into custody in the area where the racket was held at the Kumbus in the Kumbuwara area.
+
+Police have seized 8 computers in the area, police seized 38 mobile phones in the area
+
+The suspects were also recovered from the suspects in the Kochchikade area of ​​Kochchikade, Negombo.
+
+Police investigations have revealed that the house was obtained on two million monthly lease
+
+The arrested suspects were revealed that a banned gambling online page was launched in India.
+
+Investigations have revealed that many million rupees will be betting on various sports cricket tournament today (27).
 
 ...
 
 [Data](articles/d09cea6a.json)
+
+[Extended Data](ext_articles/d09cea6a.ext.json)
 
 ---
 

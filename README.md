@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 11:19:37**
+As of **2024-06-28 11:35:08**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,603 (100.0%) of 32,604 articles have been extended.
+32,604 (100.0%) of 32,604 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### දිල්ලි ගුවන්තොටුපොළේ විශාල අනතුරක්
+### A large crucial in Delhi airport
 
 *2024-06-28 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198248) · `si`
 
-ඉන්දියාවේ දිල්ලි ජාත්‍යන්තර ගුවන්තොටුපොළේ පළමු පර්යන්තයේ වහලෙහි කොටසක් කඩාවැටී විශාල අනතුරක් සිදුවී තිබේ.
+A plane crash at Delhi International Airport's first terminal resulted in three fatalities and six injuries due to heavy rain and wind. Operations are underway to determine if concessionaires were involved.
 
-දිල්ලි ගිනි නිවන සේවයේ නිලධාරියෙක් පැවසුවේ ඉන් 3 දෙනෙක් මියගොස් තවත් 6 දෙනෙක් තුවාල ලබා ඇති බවයි.
+🟩
 
-සිකුරාදා උදෑසන ඇතිවූ අධික වර්ෂාව සහ සුළඟ හේතුවෙන් එම ගොඩනැගිල්ලේ වහලේ කොටසක් කඩා වැටුණි.
+A large risk was crashed into the roof of the first terminal of the Delhi International Airport in India.
 
-මේ වනවිට සහන කණ්ඩායම් අනතුරට ලක්වූ තවත් අය සිටීදැයි සොයා මෙහෙයුම් ආරම්භ කර තිබේ.
+According to a Delhi fire escape officer, 3 of them were killed and six others were injured.
+
+The roof of the building crashed due to heavy rains and wind on Friday morning.
+
+Operating operations have commenced operations to find out if the concessionary groups have been involved.
 
 ◼️
 
 [Data](articles/01505100.json)
+
+[Extended Data](ext_articles/01505100.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 10:53:06**
+As of **2024-06-28 11:04:56**
 
 ## Newspaper Stats
 
@@ -26,55 +26,73 @@ adaderanasinhalalk | 5,362
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,597 (100.0%) of 32,603 articles have been extended.
+32,603 (100.0%) of 32,603 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### බයිඩන් සහ ට්‍රම්ප් ප්‍රසිද්ධියේ රෙදි ගලවා ගනිති
+### Bideman and Trump delivered the cloth
 
 *2024-06-28 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198247) · `si`
 
-අමෙරිකානු ජනාධිපති ජෝ බයිඩන් සහ හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සී එන් එන් රූපවාහිනිය මගින් සංවිධානය කළ විවාදයට සහභාගී වූහ.
+In a historic first, US President Joe Biden and former President Donald Trump debated on CN TV, where both were accused of lying by critics. Trump criticized Biden's economic and foreign policies, while Biden addressed allegations related to Stormy Daniels. The debate precedes the upcoming US presidential election on November 5th, potentially affecting voter opinions.
 
-විචාරකයින් පවසන්නේ ඔවුන් දෙදෙනා "බොරු කියන" බවට එකිනෙකාට චෝදනා කරගත් බවය.
+🟩
 
-ට්‍රම්ප්, බයිඩන් ගේ ආර්ථික ප්‍රතිපත්ති සහ විදෙස් ප්‍රතිපත්ති විවේචනය කළ අතර බයිඩන්, ට්‍රම්ප් ගේ අපරාධ සම්බන්ධයෙන් සහ 2020 වසරේදී ජනාධිපතිවරණ ප්‍රතිඵල වෙනස් කිරීමට උත්සාහ කළ බවටද චෝදනා කළේය.
+US President Joe Biden and former President Donald Trump participated in the debate organized by CN TV.
 
-එළැඹෙන නොවැම්බර් 05 වනදා පැවැත්වීමට නියමිත අමෙරිකානු ජනාධිපතිවරණය සඳහා මෙම දෙදෙනා ඉදිරිපත්වීමට නියමිත අතර ඒ වෙනුවෙන් මේ දෙදෙනා ප්‍රසිද්ධ විවාදයකට එක්වූ පළමු අවස්ථාව මෙය වෙයි.
+Critics say they accused one another of "lying."
 
-ස්ටෝමි ඩැනියෙල්ස් නම් නිල් චිත්‍රපට නිළියක් සමග ට්‍රම්ප් ගේ තිබූ සම්බන්ධතාවයක් සම්බන්ධයෙන් ද බයිඩන් මෙම විවාදයේදී කරුණු දක්වා තිබූ අතර ට්‍රම්ප් එම චෝදනාව ප්‍රතික්ෂේප කළේය.
+Trump has criticized the economic policies and foreign policies of the foreign policies and tried to change Presidential election in terms of Bidesen, Trump's crimes and Presidential election in 2020.
 
-නමුත් මෙම විවාදයේදී බයිඩන් ගේ ප්‍රතිචාර සහ සමහර උත්තර සම්බන්ධයෙන් සමස්තයක් වශයෙන් ඩිමොක්‍රටික් ආධාරකරුවන් සතුටු නොවනු ඇති බව සමහර දේශපාලන විචාරකයෝ පවසති.
+The two are to contest for the US presidential election that is scheduled to be held on November 5, and this is the first time they joined a public debate.
+
+The Bideen had set out in the debate on a connection with a blue film actress named Stormy Daniel. Trump rejected the allegation.
+
+However, some political commentators say that Democratic supporters will not be happy in this debate.
 
 ◼️
 
 [Data](articles/070bba44.json)
 
+[Extended Data](ext_articles/070bba44.ext.json)
+
 ---
 
-### ஹிருணிக்காவுக்கு 3 ஆண்டுகள் சிறை
+### 3 years in jail for Hirunika
 
 *2024-06-28 10:24:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிக்காவுக்கு-3-ஆண்டுகள்-சிறை/175-339572) · `ta`
 
-முன்னாள் கொழும்பு மாவட்ட பாராளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமச்சந்திர, டிஃபென்டர் மூலம் இளைஞரை கடத்திச் சென்ற குற்றச்சாட்டில் குற்றவாளி என நிரூபிக்கப்பட்டு கொழும்பு மேல் நீதிமன்றம் அவருக்கு மூன்று வருட சிறைத்தண்டனை விதித்து இன்று தீர்ப்பளித்துள்ளது
+Hirunika Premachandra, a former Colombo District Parliamentarian, was sentenced to three years in prison for allegedly abducting a youth, as found guilty by a court.
+
+🟩
+
+Former Colombo District Parliamentarian Hirunika Premachandra has sentenced him to three years in prison for allegedly guilty of abducting a youth by a deputy.
 
 ◼️
 
 [Data](articles/91d23629.json)
 
+[Extended Data](ext_articles/91d23629.ext.json)
+
 ---
 
-### ஹிருணிக்காவுக்கு 3 ஆண்டுகள் சிறை
+### 3 years in jail for Hirunika
 
 *2024-06-28 10:23:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிக்காவுக்கு-3-ஆண்டுகள்-சிறை/175-339570) · `ta`
 
-முன்னாள் கொழும்பு மாவட்ட பாராளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமச்சந்திர, டிஃபென்டர் மூலம் இளைஞரை கடத்திச் சென்ற குற்றச்சாட்டில் குற்றவாளி என நிரூபிக்கப்பட்டு கொழும்பு மேல் நீதிமன்றம் அவருக்கு மூன்று வருட சிறைத்தண்டனை விதித்து இன்று தீர்ப்பளித்துள்ளது
+Hirunika Premachandra, former Colombo District MP, was sentenced to three years in jail for allegedly abducting a youth, as found guilty by a court.
+
+🟩
+
+Former Colombo District Parliamentarian Hirunika Premachandra has sentenced him to three years in prison for allegedly guilty of abducting a youth by a deputy.
 
 ◼️
 
 [Data](articles/2c4513f9.json)
+
+[Extended Data](ext_articles/2c4513f9.ext.json)
 
 ---
 
@@ -96,6 +114,8 @@ Of the six, one was rescued from a car on which an iron beam had fallen, the off
 
 [Data](articles/8aa77ce4.json)
 
+[Extended Data](ext_articles/8aa77ce4.ext.json)
+
 ---
 
 ### Hirunika sentenced to 3 years rigorous imprisonment
@@ -116,19 +136,25 @@ The sentencing was delivered by Colombo High Court Judge Amal Ranaraja on Friday
 
 ---
 
-### හිරුණිකාට බරපතළ වැඩ සහිත සිරදඬුවම්
+### Hirunika is seriously arranged
 
 *2024-06-28 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198246) · `si`
 
-හිටපු පාර්ලිමේන්තු මන්ත්‍රිනී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට කොළඹ මහාධිකරණ විසින් බරපතළ වැඩ සහිත වසර තුනක සිර දඬුවම් නියම කර තිබේ.
+Mr. Hirunika Premachandra was sentenced to three years in prison by the Colombo High Court for abducting and assaulting a young man from the Deathagoda area. The conviction was confirmed by Judge Amal Ranaraja.
 
-ඒ, දෙමටගොඩ ප්‍රදේශයේ වෙළෙඳසැලක සේවය කළ තරුණයකු පැහැරගෙන ගොස් අයුතු ලෙස සිරකර තැබීමේ චෝදනාව සම්බන්ධයෙන් වරදකරු කරමිනි.
+🟩
 
-කොළඹ මහාධිකරණ විනිසුරු අමල් රණරාජ මහතා විසින් තීන්දුව ප්‍රකාශයට පත් කර තිබුණි.
+Colombo High Court has sentenced him three years in prison to Mr. Hirunika Premachandra.
+
+It was convicted of the allegation of a young man who had been abducted and abused a young man who served in the Deathagoda area.
+
+Colombo High Court Judge Amal Ranaraja had been announced.
 
 ◼️
 
 [Data](articles/0f74bc45.json)
+
+[Extended Data](ext_articles/0f74bc45.ext.json)
 
 ---
 
@@ -342,19 +368,25 @@ Strong winds of about 40-50kmph can be expected at times over the Western slopes
 
 ---
 
-### එංගලන්තය පැරදූ ඉන්දියාව ලෝක කුසලාන අවසන් මහ තරගයට
+### India defeated England to World Cup final
 
 *2024-06-28 08:09:48* · [`adalk`](https://www.ada.lk/sports/එංගලන්තය-පැරදූ-ඉන්දියාව-ලෝක-කුසලාන-අවසන්-මහ-තරගයට/9-410487) · `si`
 
-පන්දුවාර විස්සයි20 ලෝක කුසලාන තරගාවලියේ අවසන් මහ තරගයේ සිය ස්ථානය වෙන් කර ගැනීමට ඉන්දිය කණ්ඩායම සමත්විය. ඒ තරගාවලියේ දෙවැනි අවසන් පූර්ව තරගය ලෙසින් ඉන්දියාව හා එංගලන්තය අතර පැවැති තරගයෙන් එංගලන්තයට එරෙහිව ලකුණු 68ක ජයක් වාර්තා කරමින්.
+India clinched the Twenty20 World Cup final, defeating England by 68 runs. In the semi-finals, India scored 171/7 while England managed only 103 runs. Tomorrow, India will face South Africa in the final match.
 
-තරගයේ මුලින්ම පන්දුවට පහරදුන් ඉන්දිය කණ්ඩායම ලකුණු 171/7ක් රැස් කළ අතර පිළිතුරු ඉනිම ක්‍රිඩා කළ එංගලන්තයට රැස් කළ හැකිවූයේ ලකුණු 103ක් පමණි.
+🟩
 
-ඒ අනුව දකුණු අප්‍රිකා කණ්ඩායම හා ඉන්දිය කණ්ඩායම අතර අවසන් මහ තරගය හෙට පැවැත්වීමට නියමිතය.
+Indian team beat his place in the final match of the Twenty20 World Cup. The second semi-final was won by 68 runs against England in the match between India and England.
+
+The Indian team scored 171/7 in the match and the reply was only 103 runs for England.
+
+South African team and the final match will be played tomorrow.
 
 ◼️
 
 [Data](articles/6f8e9edb.json)
+
+[Extended Data](ext_articles/6f8e9edb.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 12:19:31**
+As of **2024-06-28 12:34:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,616 (100.0%) of 32,622 articles have been extended.
+32,622 (100.0%) of 32,622 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -336,29 +336,35 @@ Speaking about the film. The film talks about politics. It also talks about the 
 
 ---
 
-### ஸ்லோவாக்கியாவில் ரயில் -  பஸ் மோதி விபத்து ; 6 பேர் பலி
+### Train in Slovakia - bus collision;6 people killed
 
 *2024-06-28 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/187144) · `ta`
 
-தெற்கு ஸ்லோவாக்கியாவில் ரயில் கடவையில் கடுகதி ரயிலுடன் பஸ் மோதியதில் ஆறு பேர் உயிரிழந்துள்ளார்கள்.
+In south Slovakia, a tragic bus-train collision near Noah Samki resulted in six deaths and at least five injuries. The accident happened around 5 PM local time, involving 209 train passengers and 9 bus riders. The train driver's quick actions likely prevented further casualties, but he was critically injured. Emergency responders rushed to the scene with several ambulances and helicopters.
 
-தலைநகர் பிராட்டிஸ்லாவாவிலிருந்து கிழக்கே 80 கிலோ மீற்றர் தொலைவில் உள்ள நோவ் சாம்கி நகருக்கு அருகில் இந்த விபத்து நடந்துள்ளது.
+🟩
 
-விபத்து உள்ளூர் நேரப்படி சுமார் 17:00 மணியளவில் (16:00 BST) இடம்பெற்றுள்ளதோடு, 6 பேர் உயிரிழந்துள்ளதோடு,  குறைந்தது ஐந்து பேர் காயமடைந்துள்ளார்கள்.
+Six people were killed when a bus crashed into a railway train in south Slovakia.
 
-விபத்தில் பஸ் மற்றும் ரயில் ஆகியவற்றின் சாரதிகளும் படுகாயமடைந்து ஆபத்தான நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+The accident occurred near the city of Noah Samki, about 80 km east of the capital, Prattislawa.
 
-விபத்து இடம்பெற்றபோது ரயிலில் 200 பேரும், பஸ்ஸில் 9 பேரும் இருந்ததாக அதிகாரிகள் தெரிவித்துள்ளனர்.
+The accident occurred at around 17:00 pm (16:00 BST), and 6 people were killed and at least five others were injured.
 
-ரயில் சாரதி ரயில் தடம்புரள்வதை தடுக்க உடனடி செயற்பட்டுள்ளார். இதன்காரணமாக  பயணிகளுக்கு காயங்கள், உயிர்ச்சேதம் தவிர்க்கப்பட்டதாக அந்நாட்டு ரயில் திணைக்களம் தெரிவித்துள்ளது.
+Drivers of the bus and train have been injured and admitted to the hospital in critical condition.
 
-விபத்து இடம்பெற சில வினாடிகளுக்கு முன் அவர் கட்டுப்பாட்டு அறைக்குள் குதித்து தீக்காயங்களுக்கு உள்ளாகினார்.
+Officials said that at the time of the accident, there were 200 people on the train and 9 on the bus.
 
-ஐந்து ஆம்புலன்ஸ்கள் மற்றும் மூன்று ஆகாய ஆம்புலன்ஸ்கள் சம்பவ இடத்திற்கு அனுப்பி வைக்கப்பட்டதாக அவசர சேவைகள் தெரிவித்தன.
+The driver of the train has been acting instantly to prevent train interruption. As a result of this, travelers have avoided injuries and casualties, the Railway Department said.
+
+A few seconds before the accident, he jumped into the control room and suffered burns.
+
+Emergency services reported that five ambulances and three air ambulances were sent to the scene.
 
 ◼️
 
 [Data](articles/948b09c9.json)
+
+[Extended Data](ext_articles/948b09c9.ext.json)
 
 ---
 
@@ -390,17 +396,23 @@ However, some political commentators say that Democratic supporters will not be 
 
 ---
 
-### ஹிருணிகா பிரேமச்சந்திரவிற்கு 3 வருட கடூழிய சிறைத் தண்டனை
+### Hirunika Premachandra sentenced to 3 years in prison
 
 *2024-06-28 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/187148) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் உறுப்பினரும், முன்னாள் பாராளுமன்ற உறுப்பினருமான ஹிருணிகா பிரேமச்சந்திரவிற்கு மூன்று வருட கடூழிய சிறைத் தண்டனையை கொழும்பு மேல் நீதிமன்றம் விதித்துள்ளது.
+Hirunika Premachandra, a former MP from the United People's Power, was sentenced to three years in prison by the Colombo High Court for the death of a youth in 2015.
 
-2015 ஆம் ஆண்டு கொழும்பு தெமட்டகொடை பகுதியில் இளைஞன் ஒருவரை, டிபென்டர் மூலம் கடத்திச் சென்ற வழக்கில் குற்றவாளியாக அடையாளம் காணப்பட்டதை அடுத்தே இந்த தீர்ப்பை நீதிமன்றம் இன்று வெள்ளிக்கிழமை (28) வழங்கியுள்ளது.
+🟩
+
+The Colombo High Court has imposed a three -year rigorous imprisonment for Hirunika Premachandra, a member of the United People's Power and former MP.
+
+The court today issued the verdict on Friday (28) following the recognition of a youth in the Dematagoda area of ​​Colombo in 2015.
 
 ◼️
 
 [Data](articles/815dbf36.json)
+
+[Extended Data](ext_articles/815dbf36.ext.json)
 
 ---
 
@@ -446,17 +458,25 @@ Former Colombo District Parliamentarian Hirunika Premachandra has sentenced him 
 
 ---
 
-### கள்ளக்குறிச்சி கள்ள சாராய சாவு விவகாரம்: சென்னையில் அதிமுகவினர் உண்ணாவிரத அறப்போராட்டம்
+### Kallakurichi counterfeit liquor
 
 *2024-06-28 10:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/187142) · `ta`
 
-கள்ளக்குறிச்சியில் கள்ள சாராயம் அருந்தி 60 க்கும் மேற்பட்டவர்கள் மரணமடைந்தது குறித்து சட்டப்பேரவையில் பேச அனுமதி வழங்காததை கண்டித்தும், கள்ளச்சாராய மரணங்கள் குறித்து புலனாய்வு துறையினரின் விசாரணை கோரியும், அதிமுக சார்பில் வியாழக்கிழமை (27) சென்னையில் உண்ணாவிரத அறப்போராட்டம் நடைபெற்றது.
+In Chennai, an AIADMK-led hunger strike demanded action on counterfeit liquor deaths in Kallakurichi, where over 60 fatalities occurred. The protest was sparked by four more deaths on Wednesday, leading to calls for the resignation of the Tamil Nadu Chief Minister and a CBI investigation.
 
-கள்ளக்குறிச்சியில் கள்ள சாராயம் அருந்தியவர்களில் புதன்கிழமை (26) நான்கு பேர் மரணம் அடைந்ததை தொடர்ந்து உயிரிழந்தோரின் எண்ணிக்கை 63 ஆக உயர்ந்திருக்கிறது. இந்நிலையில், சென்னை எழும்பூரில் உள்ள ராஜரத்தினம் விளையாட்டு மைதானத்தில் அதிமுகவின் பொதுச் செயலாளரும், சட்டப்பேரவை எதிர்க்கட்சி தலைவருமான எடப்பாடி கே பழனிச்சாமி தலைமையில் அதிமுக சட்டமன்ற உறுப்பினர்களும், அக்கட்சியின் முன்னணி நிர்வாகிகளும், தொண்டர்களும் உண்ணாவிரத அறப்போராட்டத்தில் ஈடுபட்டனர்.
+🟩
+
+A hunger strike was held in Chennai on Thursday (27) on behalf of the AIADMK, demanding the investigation of the deaths of counterfeit cases, condemning the death of over 60 people in Kallakurichi.
+
+The death toll from four people died on Wednesday (26) in Kallakurichi. At the Rajaratnam Playground in Egmore, Chennai, the AIADMK general secretary and opposition leader Edappadi K Palanisamy, the leader of the AIADMK, led the hunger strike.
+
+“Why is Vidya DMK Chief Minister hesitant to try in the legislature repeatedly trying to discuss the deaths of Kallakurichi counterfeit liquor?Why did Kallakurichi go to Kallakurichi to this day, as the deaths of illicit liquor have exceeded 60?The CBI is investigating the deaths of Kallakurichi and the Chief Minister of Tamil Nadu should immediately resign. ”
 
 ...
 
 [Data](articles/f15dc09b.json)
+
+[Extended Data](ext_articles/f15dc09b.ext.json)
 
 ---
 
@@ -646,17 +666,23 @@ Additionally, it repeals the Ceylon Electricity Board Act No. 17 of 1969 and the
 
 ---
 
-### சீன வெளிவிவகார பிரதி அமைச்சரை சந்தித்தார் மஹிந்த
+### Mahinda met the Deputy Minister of Foreign Affairs
 
 *2024-06-28 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/187141) · `ta`
 
-சீனாவுக்கு விஜயம் மேற்கொண்டுள்ள முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ அந்நாட்டின் வெளிவிவகார பிரதி அமைச்சர் சன் வெய்டோங்கை சந்தித்து கலந்துரையாடியுள்ளார்.
+Mahinda Rajapakse, former Sri Lankan President, recently visited China and met with Deputy Foreign Minister Sun Waitong. This meeting highlighted the strong ties between China and Sri Lanka, with Sun recalling Rajapakse's historic 2014 visit to Sri Lanka and inviting him as an old friend of China.
 
-மஹிந்த ராஜபக்ஷ கடந்த 2014 ஆம் ஆண்டு ஜனாதிபதியாக இருந்த காலத்தில் சீன ஜனாதிபதி ஷி ஜின்பிங் இலங்கைக்கு மேற்கொண்ட வரலாற்று சிறப்புமிக்க விஜயத்தை நினைவுகூர்ந்த பிரதி வெளிவிவகார அமைச்சர் சன் வெய்டோங், சீனாவின் பழைய நண்பர் என்றும் மஹிந்த ராஜபக்ஷவை அழைத்தமை குறிப்பிடத்தக்கது.
+🟩
+
+Former President Mahinda Rajapakse, who has visited China, has met with the Deputy Minister of Foreign Affairs Sun Waitong.
+
+It is noteworthy that Deputy Foreign Minister Sun Waitong, who recalled the historic visit to Sri Lanka during Mahinda Rajapaksa's president in 2014, invited Mahinda Rajapakse to be the oldest friend of China.
 
 ◼️
 
 [Data](articles/f54b23c5.json)
+
+[Extended Data](ext_articles/f54b23c5.ext.json)
 
 ---
 
@@ -680,17 +706,23 @@ Police Media Spokesperson Nihal Talduwa said that Sanjay Mahawatta has been arre
 
 ---
 
-### பொலிஸ் அதிகாரிகளுக்கு எதிராக பொய் குற்றச்சாட்டு : கைதுசெய்யப்பட்டார் சஞ்சய மஹவத்த !
+### Sanjaya Mahawatta
 
 *2024-06-28 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/187138) · `ta`
 
-'மகென் ரட்டட' அமைப்பின் தலைவர் சஞ்சய மஹவத்த பயங்கரவாத புலனாய்வு பிரிவினரால் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Sanjaya Mahawatta, leader of the 'Mahen Ratta' group, was arrested by the Police Terrorist Investigation Unit for allegedly leveling false accusations against high-ranking police officers.
 
-சிரேஷ்ட பொலிஸ் அதிகாரிகளுக்கு எதிராக பொய்யான குற்றச்சாட்டுகளை முன்வைத்த குற்றச்சாட்டின் பேரிலேயே 'மகென் ரட்டட' அமைப்பின் தலைவர் சஞ்சய மஹவத்த கைதுசெய்யப்பட்டுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+🟩
+
+Police have arrested Sanjaya Mahawatta Terrorist Investigation Unit of the 'Mahen Ratta' organization.
+
+Police said that Sanjaya Mahawatta, the leader of the 'Mahen Ratta' organization, has been arrested on charges of false allegations against senior police officers.
 
 ◼️
 
 [Data](articles/36ae0f1b.json)
+
+[Extended Data](ext_articles/36ae0f1b.ext.json)
 
 ---
 
@@ -942,7 +974,7 @@ Criticises some actions of President Ranil Wickremesinghe, noting they do not al
 
 Recalls past successes of SLPP leadership in ending SL’s three-decade long conflict and following development
 
-Blames Aragalaya for country’s collapse and questions if long queues for gods were orchestrated by a group
+Blames Aragalaya for country’s collapse and questions if long queues for goods were orchestrated by a group​
 
 Asserts SLPP’s readiness for upcoming elections and Opposition to any delays
 
@@ -1152,23 +1184,33 @@ Foreign exchange reserves comprise of financial assets held in foreign currencie
 
 ---
 
-### හිරුණිකා ප්‍රේමචන්ද්‍ර: බරපතළ වැඩ සහිත වසර තුනක සිර දඬුවම්
+### Hirunika Premachandra: Three years in prison with serious work
 
 *2024-06-28 05:42:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1rw717jvypo) · `si`
 
-දෙමටගොඩ ප්‍රදේශයේ වෙළඳසැලක සේවය කළ තරුණයකු පැහැරගෙන ගොස් අයුතු ලෙස සිරකර තැබීමේ චෝදනාව සම්බන්ධයෙන් වරදකරු කෙරුණු හිටපු පාර්ලිමේන්තු මන්ත්‍රී හිරුණිකා ප්‍රේමචන්ද්‍රට කොළඹ මහාධිකරණ විසින් අද (ජුනි 28 වැනිදා) බරපතළ වැඩ සහිත වසර තුනක සිර දඬුවම් නියම කරනු ලැබීය.
+Hirunika Premachandra, a former MP, was convicted for abducting a youth, resulting in a three-year prison sentence with hard labor. The conviction followed a lengthy trial where she was found guilty of 18 charges and fined Rs. 200,000. If the fine is not paid, she faces six months imprisonment per charge. This case highlights the severity of the legal consequences for such crimes and the importance of resolving disputes through legal channels rather than resorting to violence.
 
-දීර්ඝ නඩු විභාගයකින් අනතුරුව කොළඹ මහාධිකරණ විනිසුරු අමල් රණරාජ තීන්දුව ප්‍රකාශයට පත් කළේය.
+🟩
 
-ඒ අනුව විත්තිකාර හිරුණිකා ප්‍රේමචන්ද්‍ර චෝදනා 18 කට වරදකාරිය කෙරුණු අතර එම එක් එක් චෝදනාවට රුපියල් 20000 බැගින් දඩ ද නියම කෙරුණි.
+Former MP Hirunika Premachandra was convicted of abducting a youth who served in a shop in the Dematagoda.
 
-දඩ මුදල් ගෙවීම පැහැර හරිනු ලැබුවොත් එක් චෝදනාවට මාස 6 බැගින් සිර දඬුවම් නියම කරන බවත් නියෝගයේ සඳහන් විය.
+Colombo High Court Judge Amal Ranarajarajarajarajarajarajarajarajaya has been published after a long trial.
 
-නඩුව කැඳවූ අවස්ථාවේදී විනිසුරු අමල් රණරජා විවෘත අධිකරණය ප්‍රකාශ කළේ විත්තිකාරිය  තරුණයෙකු පැහැරගෙන යාමේ චෝදනාවට කුමන්ත්‍රණය කිරීම හා ආධාර අනුබල දීමේ චෝදනාවලට වරදකරු කරන බව ය.
+Accordingly, the defendant Hirunika Premachandra was guilty of 18 accusations and the charge was fined Rs. 200,000.
+
+If the penalties were taken up, the order stated that six months would be sentenced to six months per share.
+
+The judge Amal Ranraja said the judge was summoned to the opening of the defendant.
+
+The deputy Solicitor General Janaka Bandara who appeared before the court before the punishment, eight of the accused recalled that the Colombo High Court has filed imprisonment and fines.
+
+According to the nature of the defendant, the court could be sentenced to 69 years in prison with serious work.
 
 ...
 
 [Data](articles/05afbfc2.json)
+
+[Extended Data](ext_articles/05afbfc2.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 01:04:28**
+As of **2024-06-29 01:19:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,717 (100.0%) of 32,723 articles have been extended.
+32,720 (100.0%) of 32,723 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -328,6 +328,8 @@ For the past decade, the ADC has been serving, covering, and representing free a
 
 [Data](articles/ad8233fd.json)
 
+[Extended Data](ext_articles/ad8233fd.ext.json)
+
 ---
 
 ### Bridging Sri Lanka’s “Leadership Deficit”: a conceptual framework for the near-future
@@ -346,6 +348,8 @@ In the past we’ve voted repeatedly for crooks, charlatans, the incompetent, th
 
 [Data](articles/70eb264c.json)
 
+[Extended Data](ext_articles/70eb264c.ext.json)
+
 ---
 
 ### Why system change?
@@ -359,6 +363,8 @@ They are not only underestimating the intelligence of the new generation of vote
 ...
 
 [Data](articles/79ae9320.json)
+
+[Extended Data](ext_articles/79ae9320.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 16:34:56**
+As of **2024-06-28 16:52:04**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,374
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,645 (99.9%) of 32,663 articles have been extended.
+32,657 (100.0%) of 32,663 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### ரயில் தடம் புரள்வு ; மலையக ரயில் சேவைகள் பாதிப்பு
+### Train derailment;Mountain Rail Services Victim
 
 *2024-06-28 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/187191) · `ta`
 
-வட்டவளை ரயில்  நிலையத்திற்கு அருகில் ரயில் ஒன்று தடம் புரண்டமையினால் மலையக ரயில் சேவைகள் பாதிப்படைந்துள்ளதாக நாவலப்பிட்டி ரயில் கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+A train derailment occurred near Vattawala station, affecting mountain rail services. The 'Podi Menike' train from Colombo Fort to Badulla derailed around 11:00 am. Rehabilitation efforts are ongoing.
 
-கொழும்பு கோட்டையில் இருந்து பதுளை நோக்கி பயணித்த  'பொடி மெனிக்கே' ரயில் இன்று வெள்ளிக்கிழமை (28) முற்பகல் 11.00 மணியளவில்  தடம் புரண்டுள்ளது.
+🟩
 
-தடம் புரண்ட ரயிலை சீரமைக்கும் பணிகள் இடம்பெற்று வருவதாக  நாவலப்பிட்டி ரயில் கட்டுப்பாட்டு அறை மேலும் தெரிவித்துள்ளது.
+The Nawalapitiya Railway Control Room said that a train derailment near the Vattawala railway station has been affected by hill station services.
+
+The 'Podi Menike' train from Colombo Fort to Badulla was derailed at around 11.00 am today.
+
+The Nawalapitiya Railway Control Room further stated that work on rehabilitation of the derailment train is underway.
 
 ◼️
 
 [Data](articles/26912c32.json)
+
+[Extended Data](ext_articles/26912c32.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ Earlier this month Sri Lanka’s parliament passed a new electricity law which a
 ...
 
 [Data](articles/170fec56.json)
+
+[Extended Data](ext_articles/170fec56.ext.json)
 
 ---
 
@@ -92,19 +100,25 @@ The Drainage Board also states that the water supply to the Moratuwa municipalit
 
 ---
 
-### மின்சார சட்டமூலத்தை சபாநாயகர் சான்றுரைப்படுத்தினார்
+### Speaker testified the Electricity Bill
 
 *2024-06-28 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187187) · `ta`
 
-மின்சார சட்டமூலத்தை சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன வியாழக்கிழமை (27) தனது கையொப்பத்தையிட்டு சான்றுரைப்படுத்தினர்.
+Mahinda Yapa Abeywardena signed a bill on April 27, 2024, aiming to reform the electricity industry. Introduced to Parliament on April 25, it was debated and passed on the 6th, becoming the Sri Lanka Electricity Act No. 36 of 2024.
 
-மின்சாரத்தொழிலுக்கான சீர்திருத்தங்களை நடைமுறைப்படுத்துவதற்கு ஏற்பாடு செய்யும் நோக்கிலான இந்த சட்டமூலம் 2024 ஏப்ரல் 25 ஆம் திகதி பாராளுமன்றத்துக்கு முன்வைக்கப்பட்டது. அதனையடுத்து, கடந்த 6 ஆம் திகதி பாராளுமன்றத்தில் விவாதத்துக்கு எடுத்துக்கொள்ளப்பட்டு 44 மேலதிக வாக்குகளால் சட்டமூலம் நிறைவேற்றப்பட்டது.
+🟩
 
-அதற்கமைய, இந்த சட்டமூலம் 2024 ஆம் ஆண்டின் 36 ஆம் இலக்க இலங்கை மின்சாரம் சட்டமாக நடைமுறைக்கு வருகின்றது.
+Speaker Mahinda Yapa Abeywardena made his signature on Thursday (27).
+
+The Bill was aimed at implementing the reforms for electricity industry on April 25, 2024, to Parliament on April 2524. Subsequently, the bill was taken up for debate in Parliament on the 6th and was passed by 44 additional votes.
+
+Accordingly, the Bill is implemented as the Sri Lanka Electricity Act No. 36 of 2024.
 
 ◼️
 
 [Data](articles/24838340.json)
+
+[Extended Data](ext_articles/24838340.ext.json)
 
 ---
 
@@ -148,6 +162,8 @@ The programme has been allocated 205 billion rupees for this year. (Colombo/June
 
 [Data](articles/5391dcba.json)
 
+[Extended Data](ext_articles/5391dcba.ext.json)
+
 ---
 
 ### The bus fare is decreasing
@@ -170,21 +186,31 @@ Accordingly, the minimum bus fare will be reduced by 2 rupees, and the new minim
 
 ---
 
-### கனிய மண் அகழ்விற்காக நிலத்தை இழந்தவர்களுக்கு மன்னார் பொது அமைப்புக்களின் ஒன்றியத்தின் அவசர வேண்டுகோள்
+### Emergency appeal of Mannar Public Organizations for those who lost their land for heavy soil excavation
 
 *2024-06-28 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/187181) · `ta`
 
-மன்னாரில் கனிய மண் அகழ்விற்காக நிலத்தை இழந்தவர்கள் மன்னார் பொது அமைப்புகளின் ஒன்றியத்துடன் தொடர்பு கொள்ளுமாறு அவ் ஒன்றியத்தின் தலைவர் வி.எஸ்.சிவகரன்  வேண்டுகோள் விடுத்துள்ளார்.
+Mannar Public Organizations launched an emergency appeal for individuals whose land was taken for heavy soil excavation, citing seizures by local agents and accusations of land grabbing facilitated by political influence. President Sivakaran urged those affected to seek help from the union, promising legal action against fraudulent practices.
 
-இவ்விடயம் தொடர்பாக அவர் இன்று வெள்ளிக்கிழமை (28) விடுத்துள்ள ஊடக அறிக்கையில் மேலும் குறிப்பிடுகையில்,
+🟩
 
-மன்னார் நகர் பிரதேச செயலாளர் பிரிவுக்கு உட்பட்ட பகுதிகளில் கனிய மண் அகழ்விற்காக  உள்ளூர் காணி முகவர்கள் மூலம் சட்ட விரோதமான முறையில் காணி அபகரிக்கப்படுவதாக பல்வேறு விதமான முறைப்பாடுகள் கிடைக்கப் பெற்றுள்ளன. சில குழுக்கள் அரசியல் செல்வாக்கை பயன்படுத்தியும் அதிகாரத்தை உபயோகித்தும் சாதாரண மக்களின் காணிகளை அபகரித்து வருவதாக குற்றம் சாட்டுகின்றனர்.
+President of the Union VS Sivakaran has requested that those who lost their land for the excavation of heavy soil in Mannar be contacted with the Union of Mannar Public Organizations.
 
-அத்துடன், பயன்படுத்தப்படாத நிலங்களுக்கு ஆட்சி  உறுதிகளையும் எழுதுவதாகவும் கூறுகின்றனர். அது மாத்திரமின்றி சில காணிகளுக்கு பயன்பாட்டில் இல்லாத வேறு உறுதிகளை எல்லைகளை மாற்றி  குறித்த இடங்களில் நில அபகரிப்பிலும் ஈடுபடுகின்றனர் எனவும் பாதிக்கப்பட்ட தரப்பினர் ஆதாரங்களோடு குற்றம் சாட்டுகின்றனர்.
+He further stated in a media statement issued today (28)
+
+Various complaints have been received that the land is being seized by local land agents for heavy soil excavations in the Mannar Nagar Divisional Secretariat Division.. Some groups accuse the land of ordinary people, using political influence and power.
+
+They also claim that they are writing regime's stations for unused lands. Victims also accuse the sources of allegedly engaging in land grabbing in places where some land is not used.
+
+The victims are concerned that some lawyers are taking over the improper confirmation products.
+
+It is also a very distressing thing that the Sri Lankan agencies that are being excavated by Australia for a multi -crore worth of land have been given to the Sri Lankan agencies.
 
 ...
 
 [Data](articles/3f5bf8cb.json)
+
+[Extended Data](ext_articles/3f5bf8cb.ext.json)
 
 ---
 
@@ -228,19 +254,27 @@ President Ranil Wickremesinghe addressing the 2024 Presidential Awards Ceremony 
 
 ---
 
-### சமாதான நீதவான்களுக்கான நடத்தைக் கோவை அடங்கிய ஒழுங்குவிதிகளுக்கு அமைச்சுசார் ஆலோசனைக் குழுவில் அனுமதி
+### Permission to the Ministry Advisory Committee for the Regulations of Behavior for Peace Magistrates
 
 *2024-06-28 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/187183) · `ta`
 
-சமாதான நீதவான்களை நியமித்தல், இடைநிறுத்துதல், இரத்துச் செய்தல் மற்றும் நடத்தைக் கோவை அடங்கிய 1978 ஆம் ஆண்டின் 2 ஆம் இலக்க நீதித்துறைச் சட்டத்தின் கீழ் நீதி, சிறைச்சாலை அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சரினால் ஆக்கப்பட்ட இரண்டு ஒழுங்குவிதிகளுக்கு நீதி, சிறைச்சாலை அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அலுவல்கள் பற்றிய அமைச்சுசார் ஆலோசனைக் குழுவில் அனுமதி வழங்கப்பட்டது.
+The Ministry Advisory Committee, led by Minister Vijayadasa Rajapaksa, received approval for two regulations aimed at enhancing judicial efficiency and integrity. These regulations pertain to the appointment, suspension, and conduct of peace magistrates, aiming to curb corruption and uphold public trust. The regulations were necessitated by issues within the magistrate appointment process and the need to safeguard the dignity of the peace magistrate position. Additionally, discussions included the Civil Action Act and proposals regarding the abolition of the Home Rule Act and protection of residents, with several parliamentarians in attendance.
 
-நீதி, சிறைச்சாலை அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜயதாச ராஜபக்ஷ தலைமையில் அமைச்சுசார் ஆலோசனைக் குழு அண்மையில் (18) பாராளுமன்றத்தில் கூடிய போதே இந்த அனுமதி வழங்கப்பட்டது.
+🟩
 
-சமாதான நீதவான்களுக்கிடையே உயர் தரத்திலான தார்மீக மற்றும் ஒழுக்கவியல் நடத்தையை ஊக்குவித்தல் மற்றும் ஊழல் செயல்முறைகளுக்கான வாய்ப்புக்களை இல்லாதொழித்தல் என்பவற்றின் மூலம் வினைத்திறனான நீதி நிருவாகத்தை வலுப்பெறச்செய்தல் இந்த நடத்தைக் கோவையின் குறிக்கோளாகும்.
+The two regulations made by the Minister of Justice, Prison Affairs and Constitutional Reforms were approved by the Ministry of Justice, Prison Affairs and Constitutional Reorganization under the Judicial Act No. 2 of 1978, including the appointment, suspension, cancellation and conduct of peace.
+
+The Ministry Advisory Committee headed by Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapaksa was granted this permission in Parliament recently.
+
+The goal of this conduct is to strengthen the efficient judicial administration by promoting high -quality moral and moral behavior among the magistrates of peace and eliminating opportunities for corrupt processes.
+
+The Minister of Justice pointed out that the system of appointing peace magistrates and their qualifications has not yet been mentioned.. Minister Vijayadasa Rajapakse added that the regulations have been revealed due to the inability of the Magistrate to cancel the posts of the posts of the post.
 
 ...
 
 [Data](articles/a6a21d25.json)
+
+[Extended Data](ext_articles/a6a21d25.ext.json)
 
 ---
 
@@ -284,21 +318,31 @@ The bus fares have been reduced under the annual fare revision, and as agreed du
 
 ---
 
-### சீனாவின் முன்னாள்  பாதுகாப்பு அமைச்சர்கள் இருவர்  ஊழல் குற்றச்சாட்டினால் கம்யூனிஸ்ட் கட்சியிலிருந்து வெளியேற்றம்
+### Two former Security Ministers of China are exposed from the Communist Party for alleged corruption
 
 *2024-06-28 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/187171) · `ta`
 
-சீனாவின் முன்னாள் பாது­காப்பு அமைச்­சர்­க­ளான லீ ஷாங்ஃபூ மற்றும்  வெய் ஃபெங்கே இரு­வரும் ஆளும் கம்­யூனிஸ்ட் கட்­சி­யி­லி­ருந்து நேற்று வியா­ழக்­கி­ழமை (27) வெளி­யேற்­றப்பட்டுள்­ளனர். ஊழல் குற்­றச்­சாட்­டு­களின் கார­ண­மாக இவர்கள் கட்­சி­யி­லி­ருந்து வெளி­யேற்­றப்­பட்­டுள்­ளனர் என சீன ஊட­கங்கள் தெரி­வித்­துள்­ளனர்.
+China's Communist Party expelled former defense ministers Lee Shangfu and Wei Fenghe over corruption allegations. Lee vanished in August but was removed from his post in October. Both faced accusations of bribery. This move aligns with President Xi Jinping's efforts to combat corruption within the state sector, despite criticism from opponents viewing it as a means to eliminate political rivals.
 
-வெய் ஃபெங்கே 2018 மார்ச் முதல் 2023 மார்ச்  11 ஆம் திக­தி­வரை வரை பாது­காப்பு அமைச்­ச­ராக பதவி வகித்தார். மறுநாள் லீ ஷாங்பூ பாது­காப்பு அமைச்­ச­ராக பத­வி­யேற்றார்.
+🟩
 
-கடந்த ஆகஸ்ட் மாதம் இரு மாத காலம், பொது­மக்கள் பார்­வை­யி­லி­ருந்து அவர் காணாமல் போயி­ருந்தார். அவ­ருக்கு என்ன நடந்­தது என கேள்வி எழுந்த நிலையில்,  பாது­காப்பு அமைச்சர் பத­வி­யி­லி­ருந்து லீ ஷாங்ஃபூ நீக்­கப்­பட்­டுள்ளார் என கடந்த ஒக்­டோபர் மாதம் அறி­விக்­கப்­பட்­டது.
+Former China's former defense ministers Lee Shangfu and Wei Fenga were expelled from the ruling Communist Party yesterday (27). Chinese media reports that they have been expelled from the party due to corruption allegations.
 
-இந்­நி­லையில் லீ ஷாங்ஃ­பூவும், வெய் ஃபெங்­கேவும் ஊழல் குற்­றச்­சாட்­டுகள் கார­ண­மாக சீன கம்­யூனிஸ்ட் கட்­சி­யி­லி­ருந்து இடை­நி­றுத்­தப்­பட்­டுள்­ளனர் என சீன அரச ஊட­க­மான சி.சி.ரி.வி. நேற்று தெரி­வித்­துள்­ளது.
+Wei Feenga held the post of Defense from March 2018 to 2023 March 11th March. The next day Lee Shankbu was sworn in as Defense Minister.
+
+Last August two months, he disappeared from public view. When he was questioned what happened to him, it was announced last October that Lee Shangfu had been removed from the post of Defense Minister.
+
+The Chinese state media CCRV has been suspended from the Chinese Communist Party due to corruption allegations. Yesterday said.
+
+CCRV has been accused of bribing Lee Shangfu using his post and bribing others.. Has been reported.
+
+The Chinese Communist Party, which founded the Chinese People's Republic, is the only ruling party. The Chinese Communist Party is the most powerful organization in the country.
 
 ...
 
 [Data](articles/71388bef.json)
+
+[Extended Data](ext_articles/71388bef.ext.json)
 
 ---
 
@@ -320,21 +364,27 @@ The Chairman of the Organization "to the country" has been remanded until July 0
 
 ---
 
-### நீதியையும் சமூக நலனையும் மனித உரிமையையும் கேள்ளாக்கும் வகையில் இருதயபுர சம்பவம் - திருமலை மறைமாவட்ட ஆயர்
+### Irudayapura incident - Thirumalai Diocese Bishop
 
 *2024-06-28 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187176) · `ta`
 
-நீதியையும் சமூக நலனையும் மனித உரிமையையும் கேள்விக்குள்ளாக்கும் வகையில் மூதூர் இருதயபுரத்தில் (சகாயபுரம்) மிகவும் வருத்தத்துக்குரிய சம்பவம் இடம்பெற்றுள்ளதாக திருகோணமலை மறைமாவட்ட ஆயர் அதிவணக்கத்திற்குரிய கிரிஸ்டியன் நோயல் இம்மானுவேல் ஆண்டகை தெரிவித்துள்ளார்.
+The Irudayapura incident in Sahayapuram, Muttur, sparked controversy over justice, social welfare, and human rights after villagers opposed the opening of a liquor store. Fifteen demonstrators were arrested but later released on bail. The Christian Naul Emmanuel of the Trincomalee diocese criticized the police's use of force, including entering a temple, during peaceful protests. He called for transparency from authorities and urged them to restore peace and justice, emphasizing the importance of maintaining Irudayapura as a non-alcoholic village for its community and spiritual growth.
 
-மூதூர் இருதயபுரத்தில் மதுபானசாலை திறப்புக்கு எதிராக அக்கிராம மக்களால் கடந்த நாட்களில் இடம்பெற்றது. இந்நிலையில் இந்த ஆர்ப்பாட்டத்தில் ஈடுபட்ட 15 பொதுமக்கள் கைதுசெய்யப்பட்டு பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+🟩
 
-இந்த சம்பவம் தொடர்பில் திருகோணமலை மறைமாவட்ட ஆயர் அதிவணக்கத்திற்குரிய கிரிஸ்டியன் நோயல் இம்மானுவேல் ஆண்டகை ஊடகங்களுக்கு அனுப்பி வைத்துள்ள ஊடக அறிக்கையில் மேலும் குறிப்பிடப்பட்டுள்ளதாவது,
+The most sad incident of the Muttur heart (Sahayapuram) has taken place to question the justice, social welfare and human rights, said the christian Naul Emmanuel year of the Trincomalee diocese.
 
-மிகவும் வருத்தத்துக்குரிய சம்பவம் அண்மையில் மூதூர் இருதயபுரத்தில் (சகாயபுரம்) நடைபெற்றதை கேள்விப்பட்டிருப்பீர்கள். நீதியையும் சமூக நலனையும் மனித உரிமையையும் கேள்விக்குறியாக்கும் வகையில் இச்சம்பவம் நடைபெற்றுள்ளது.
+In the past days, the people of the village have taken place against the opening of the liquor school in Muttur. In this case, 15 civilians involved in the demonstration have been arrested and released on bail.
+
+In a media statement sent to the media of the Trincomalee Diocese of the Diocese of Trincomalee, the Emmanuel Emmanuel Anniversary Media, said.
+
+You may have heard that the most sad incident took place recently at Muttur Cardayapuram (Sahayapuram). The incident took place to question justice, social welfare and human rights.
 
 ...
 
 [Data](articles/5cb12158.json)
+
+[Extended Data](ext_articles/5cb12158.ext.json)
 
 ---
 
@@ -378,6 +428,8 @@ She is the daughter of former MP Bharatha Lakshman Premachandra who was murdered
 
 [Data](articles/6986bab6.json)
 
+[Extended Data](ext_articles/6986bab6.ext.json)
+
 ---
 
 ### Debt on Debt Restruct Concentration Tuesday
@@ -419,6 +471,8 @@ Sri Lanka’s Central Bank hiked rates in 2022 April to end money printed for tw
 ...
 
 [Data](articles/05569ceb.json)
+
+[Extended Data](ext_articles/05569ceb.ext.json)
 
 ---
 
@@ -485,6 +539,8 @@ State Minister of Foreign Affairs Tharaka Balasuriya visited the Russian Federat
 ...
 
 [Data](articles/298bb080.json)
+
+[Extended Data](ext_articles/298bb080.ext.json)
 
 ---
 
@@ -707,6 +763,8 @@ The company’s ongoing investment in Sri Lanka was discussed, with Hasith Yagga
 ...
 
 [Data](articles/b0f94fe9.json)
+
+[Extended Data](ext_articles/b0f94fe9.ext.json)
 
 ---
 

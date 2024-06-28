@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 08:54:00**
+As of **2024-06-28 09:05:38**
 
 ## Newspaper Stats
 
-*Scraped **32,588** Articles*
+*Scraped **32,589** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,706
 tamilmirrorlk | 3,848
 dailymirrorlk | 4,733
 virakesarilk | 5,068
-adaderanasinhalalk | 5,356
+adaderanasinhalalk | 5,357
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,587 (100.0%) of 32,588 articles have been extended.
+32,588 (100.0%) of 32,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### සූර්ය බල විදුලි උත්පාදනය මෙගාවොට් 1000 ඉක්මවයි
+
+*2024-06-28 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198242) · `si`
+
+මේ වනවිට මෙරට ජාතික විදුලි පද්ධතියට සම්බන්ධ සමස්ථ සූර්ය බලයෙන් විදුලිය උත්පාදනය කිරීම මෙගාවොට් 1000 ඉක්මවීමට හැකිවී ඇති බව බලශක්ති අමාත්‍යංශය පවසයි.
+
+වහළය මත සූර්ය පැනල මගින් මෙගාවොට් 944ක් සහ බිම්ගත සූර්ය පැනල මගින් මෙගාවොට් 156ක් ජාතික පද්ධතියට එකතු කර ඇති බව එම අමාත්‍යංශය පෙන්වා දෙයි.
+
+මෙම වර්ෂය අවසන් වනවිට වහළය මත සූර්ය පැනල මගින් පමණක් මෙගාවොට් 1000 ඉක්මවූ විදුලි උත්පාදනයක් ජාතික පද්ධතියට එකතු කිරීමට නියමිතය.
+
+විදුලිබල මණ්ඩලයේ දීර්ඝ කාලීන උත්පාදන සැලසුම අනුව ඉදිරි වසර 4 තුළ සෑම වසරකම වහළය මත සූර්ය පැනල මගින් මෙගාවොට් 150 බැගින් ජාතික පද්ධතියට එකතු කිරීමට සැලසුම් කර තිබේ.
+
+කෙසේවෙතත් මෙම වසරේ පළමු මාස 5 තුළ පමණක් වහළය මත සූර්ය පැනල මගින් මෙගාවොට් 132ක් ජාතික පද්ධතියට එකතු කිරීමට හැකිවී ඇති බව බලශක්ති අමාත්‍යංශය වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/eaedc033.json)
+
+---
 
 ### Several spells of showers expected in parts of Sri Lanka
 
@@ -40,11 +60,13 @@ The Meteorology Department forecasts that several spells of showers will occur i
 
 Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
 
-Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-
+Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provincesand in Trincomalee, Hambantota and Monaragala districts.
 
 ◼️
 
 [Data](articles/bc615efb.json)
+
+[Extended Data](ext_articles/bc615efb.ext.json)
 
 ---
 
@@ -2245,25 +2267,5 @@ The police headquarters said that 773 of them were involved in drug crimes and 3
 [Data](articles/cf47ab30.json)
 
 [Extended Data](ext_articles/cf47ab30.ext.json)
-
----
-
-### Sri Lankan urged to continue to engage with private creditors to reach deal
-
-*2024-06-27 16:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100144/sri-lankan-urged-to-continue-to-engage-with-private-creditors-to-reach-deal) · `en`
-
-The Official Creditor Committee (OCC) of Sri Lanka’s bilateral lenders has commended island nation’s efforts in implementing necessary reforms to ensure a sustainable economic path.
-
-The Official Creditor Committee says it now looks forward to receiving from Sri Lanka all information necessary for the OCC to ensure comparability of treatment.
-
-The OCC said it also expects that the Sri Lankan authorities will continue to engage with their private creditors to find as soon as possible an agreement on terms at least as favourable as the terms offered by the OCC.
-
-“These engagements will ensure that the overall debt treatment granted to Sri Lanka is consistent with the IMF program parameters,” it said in a statement on Wednesday.
-
-...
-
-[Data](articles/2681be0f.json)
-
-[Extended Data](ext_articles/2681be0f.ext.json)
 
 ---

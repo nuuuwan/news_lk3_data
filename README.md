@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 18:25:19**
+As of **2024-06-28 18:36:58**
 
 ## Newspaper Stats
 
-*Scraped **32,672** Articles*
+*Scraped **32,673** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,719
 tamilmirrorlk | 3,860
 dailymirrorlk | 4,733
 virakesarilk | 5,087
-adaderanasinhalalk | 5,378
+adaderanasinhalalk | 5,379
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,672 (100.0%) of 32,672 articles have been extended.
+32,672 (100.0%) of 32,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### පේරු රාජ්‍යයේ ප්‍රබල භූකම්පනයක්
+
+*2024-06-28 18:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198265) · `si`
+
+මධ්‍යම පේරු රාජ්‍යයේ Atiquipa  ප්‍රදේශයට ඔබ්බෙන් වූ මුහුදු ප්‍රදේශයේ හටගත් භූකම්පනය රික්ටර් මාපකයේ ඒකක 7. 2ක ප්‍රබලත්වයක් සටහන් කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+භූකම්පනයත් සමඟ සුනාමි අනතුරු ඇඟවීම් නිකුත් කළ ද පසුව එය ඉවත් කර ඇති බව සඳහන් වේ.
+
+වාර්ෂිකව භූකම්පන සිය ගණනක් පමණ සිදුවන රටක් ලෙස පේරු රාජ්‍යය සැලකේ.
+
+◼️
+
+[Data](articles/b3a34a99.json)
+
+---
 
 ### An increase in inflation
 
@@ -2225,25 +2241,5 @@ Offering unmatched safety and mobility for electrical engineers, the EVPRO Glove
 [Data](articles/6d4d0504.json)
 
 [Extended Data](ext_articles/6d4d0504.ext.json)
-
----
-
-### Star Garments Group wins Silver Award for ‘Energy Efficiency in Industry’ for Innovation Centre
-
-*2024-06-28 06:08:32* · [`dailyftlk`](https://www.ft.lk/business/Star-Garments-Group-wins-Silver-Award-for-Energy-Efficiency-in-Industry-for-Innovation-Centre/34-763571) · `en`
-
-Star Garments Senior Manager – Group Sustainability and Compliance Senura Dharmadasa receiving the award from IDB Chairman Dr. Saranga Alahapperuma. Executive – Group Sustainability Chalani Panditha is also present
-
-Star Garments Group was recently recognised at the first-ever International Symposium on Green Industry Initiative for Sustainable Industrial Development (ISGSD), winning a Silver Award in the ‘‘Energy Efficiency in Industry” category for its Innovation Centre based in Katunayake, the first ‘Passive house factory building’ in the world and first “Passive House Design” in South Asia.
-
-It is also the first LEED Platinum building in Sri Lanka to be certified under latest LEED V4.
-
-The event, organised by the Industrial Development Board (IDB) and Industries Ministry was held on 20-23 June at the BMICH, Colombo.
-
-...
-
-[Data](articles/5d2f15e6.json)
-
-[Extended Data](ext_articles/5d2f15e6.ext.json)
 
 ---

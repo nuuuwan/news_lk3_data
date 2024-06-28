@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 20:04:56**
+As of **2024-06-28 20:20:00**
 
 ## Newspaper Stats
 
@@ -26,43 +26,61 @@ adaderanasinhalalk | 5,381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,682 (100.0%) of 32,684 articles have been extended.
+32,684 (100.0%) of 32,684 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### තරුෂි ගේ ඔලිම්පික් සිහිනයට අකුල් හෙළන නිලධාරීන්
+### Officers who ignore Tharushi's Olympics
 
 *2024-06-28 19:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198267) · `si`
 
-ලොව සෑම රටක්ම ඔලිම්පික් උලෙළට සහභාගි වීම සඳහා එම රටවල ක්‍රීඩක ක්‍රීඩිකාවන්ට පහසුකම් සපයා දී, ඔවුන්ව දිරිගන්වන පසුබිමක, මෙරට ක්‍රීඩා බලධාරීන් සිදුකරන්නේ ඔලිම්පික් කඩඉම පෙනෙන මානයේ සිටින ක්‍රීඩක ක්‍රීඩිකාවන්ට ඔලිම්පික් උලෙළට සුදුසුකම් ලබාගැනීමේ මං අහුරමින් ඔවුන්ට අකුල් හෙළීමයි.
+Sri Lanka's Athletic Authority faces criticism for allegedly neglecting Tharushi's Olympic preparations. Despite her impressive performance in the 800 meters, her event was held in poor conditions during the rainy season, affecting her timing. Her coach requested a delay, but the request was ignored, potentially jeopardizing her chances at the Paris Olympics. This incident raises questions about the authority's commitment to supporting athletes, highlighting a need for improved facilities and support systems.
 
-මේ පුවත ඔලිම්පික් කඩඉම පෙනෙන මානයේ සිටින ශ්‍රී ලංකාවේ කැපීපෙනෙනම මලල ක්‍රීඩිකාව වන 19 හැවිරිදි තරුෂි කරුණාරත්නට මෙරට මලල ක්‍රීඩා බලධාරීන් සිදුකළ අසාධාරණයක් පිළිබඳව ය.
+🟩
 
-එළැඹෙන ජූලි මාසයේ ආරම්භවීමට නියමිත පැරිස් ඔලිම්පික් උලෙළ ට සුදුසුකම් ලබාගැනීමට අවශ්‍ය පරිසාධන මට්ටම සපුරාගැනීමේ අරමුණ සහිතව මෙරට මලල ක්‍රිඩක ක්‍රිඩිකාවන් ඊයේ (27) දියගමදී අවසන් වූ 102 වැනි ජාතික මලල ක්‍රීඩා ශූරතා තරගාවලියට සහභාගි විය.
+Sri Lanka's sports authorities are able to qualify for the Olympic Games to facilitate the Olympics to attend the Olympics.
 
-ඔලිම්පික් කඩඉම ආසන්නයේ සිටින කාන්තා මීටර 800 ඉසව්වේ ආසියානු රන් පදක්කම් ලාභිනිය වන තරුෂි කරුණාරත්න ද ඒ අතර සිටියාය.
+The news is an injustice to the Athletic Authority of Athletic Authority, an athletic 19, is an outstanding athlete, who is the Olympic Framework.
 
-පැරිස් ඔලිම්පික් උලෙළේ කාන්තා මීටර 800 ඉසව්ව සඳහා ලොව පුරා ක්‍රීඩිකාවන් 48 දෙනෙක් සුදුසුකම් ලැබීමට නියමිත අතර තරුෂි කරුණාරත්න ඊයේ වනවිට ROAD TO PARIS ශ්‍රේණිගත කිරීම්වල 49වැනි ස්ථානයේ පසුවූවාය.
+The Athletics Championships that ended on the Paris Olympics to be eligible to qualify for the Olympic Hold in July.
+
+It was also known as Ashi Ashi Karunaratne in the 800 meter events near the Olympic Cap.
+
+48 players around the world will be eligible for the 800mmary of the Paris Olympics Women's Mem Day.
+
+The last 800 meter event was scheduled to begin at 7.50 am, but the water was on the rains from the grain.
+
+Tharushi's coach Susantha Fernando has asked athletics authorities to delay the beginning of the event.
+
+The coach has been appointed by the first lane in the first lane, the most important lane in the 800 meter route, due to difficulty in the rainy season.
 
 ...
 
 [Data](articles/c3477f00.json)
 
+[Extended Data](ext_articles/c3477f00.ext.json)
+
 ---
 
-### இலங்கையில் பறவைக் காய்ச்சல்?
+### Bird fever in Sri Lanka?
 
 *2024-06-28 19:37:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-பறவைக்-காய்ச்சல்/175-339587) · `ta`
 
-இலங்கைக்கு வந்த இந்திய பிரஜை ஒருவர் காய்ச்சல் போன்ற அறிகுறிகளைக் காட்டியதை அடுத்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக சுகாதார அதிகாரிகள் உறுதிப்படுத்தியுள்ளனர்.
+An Indian visitor to Sri Lanka was hospitalized due to fever, not bird flu, but influenza. Health officials clarified the confusion.
 
-குறித்த இந்திய பிரஜைக்கு காய்ச்சல் ஏற்பட்டிருக்கலாம் என சந்தேகிக்கப்படுகின்ற போதிலும், இலங்கையில் நடத்தப்பட்ட பரிசோதனையில் அவருக்கு பறவைக் காய்ச்சல் இல்லை, ஆனால் இன்புளுவன்சா இருப்பது உறுதி செய்யப்பட்டது. R
+🟩
+
+Health officials have confirmed that an Indian citizen who came to Sri Lanka has been admitted to the hospital after showing signs of fever.
+
+Although the Indian citizen is suspected of having a fever, he has no bird fever, but in influenza is confirmed.. Remble
 
 ◼️
 
 [Data](articles/55f999b1.json)
+
+[Extended Data](ext_articles/55f999b1.ext.json)
 
 ---
 

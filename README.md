@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 08:34:58**
+As of **2024-06-28 08:54:00**
 
 ## Newspaper Stats
 
-*Scraped **32,587** Articles*
+*Scraped **32,588** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,813
 economynextcom | 1,901
 dailyftlk | 1,998
 adalk | 2,886
-adaderanalk | 3,705
+adaderanalk | 3,706
 tamilmirrorlk | 3,848
 dailymirrorlk | 4,733
 virakesarilk | 5,068
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,356
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,587 (100.0%) of 32,587 articles have been extended.
+32,587 (100.0%) of 32,588 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### Several spells of showers expected in parts of Sri Lanka
+
+*2024-06-28 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100152/several-spells-of-showers-expected-in-parts-of-sri-lanka) · `en`
+
+The Meteorology Department forecasts that several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
+
+Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-
+
+◼️
+
+[Data](articles/bc615efb.json)
+
+---
 
 ### 50 percent of women in Sri Lanka with fractual
 
@@ -2249,25 +2265,5 @@ The OCC said it also expects that the Sri Lankan authorities will continue to en
 [Data](articles/2681be0f.json)
 
 [Extended Data](ext_articles/2681be0f.ext.json)
-
----
-
-### 11 people injured in bus accident in Welimada
-
-*2024-06-27 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/187109) · `ta`
-
-In a tragic accident in Welimada, two buses collided in Ambakastova, injuring 11 people. The incident occurred when one bus was overtaken by another on the Broker of Ambakastova Road.
-
-🟩
-
-Two private buses collided with two private buses in Ambakastova area on Thursday (27), police said.
-
-Police said the other bus was traveling behind the bus that was traveling forward on the Broker of Ambakastova Road, Welimada.
-
-◼️
-
-[Data](articles/2f13cfb6.json)
-
-[Extended Data](ext_articles/2f13cfb6.ext.json)
 
 ---

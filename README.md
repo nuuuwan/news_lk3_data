@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 12:53:12**
+As of **2024-06-28 13:04:30**
 
 ## Newspaper Stats
 
-*Scraped **32,623** Articles*
+*Scraped **32,626** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,79 @@ islandlk | 1,813
 economynextcom | 1,901
 dailyftlk | 1,998
 adalk | 2,889
-adaderanalk | 3,711
-tamilmirrorlk | 3,857
+adaderanalk | 3,712
+tamilmirrorlk | 3,858
 dailymirrorlk | 4,733
 virakesarilk | 5,077
-adaderanasinhalalk | 5,364
+adaderanasinhalalk | 5,365
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,622 (100.0%) of 32,623 articles have been extended.
+32,623 (100.0%) of 32,626 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### වෝනර් යයි ෆ්‍රේසර් එයි
+### மூதூரில் கைது செய்யப்பட்டவர்கள் பிணையில் விடுதலை
+
+*2024-06-28 12:46:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/மூதூரில்-கைது-செய்யப்பட்டவர்கள்-பிணையில்-விடுதலை/75-339582) · `ta`
+
+மூதூர் - இருதயபுரம் பகுதியில் இடம்பெற்ற மதுபானசாலைக்கு எதிரான எதிர்ப்பு ஆர்ப்பாட்டத்தின்போது சந்தேகத்தின்பேரில் கைது செய்யப்பட்ட சந்தேக நபர்கள் 15 பேரும் வெள்ளிக்கிழமை (28) மூதூர் நீதிமன்றால் பிணை வழங்கி விடுதலை செய்யப்பட்டுள்ளனர்.
+
+குறித்த வழக்கானது எதிராளிகள் சார்பாக நகர்த்தல் விண்ணப்பத்தின் மூலம் மூதூர் நீதவான் நீதிமன்றில் எடுத்துக் கொள்ளப்பட்டது. இதன்போது கைது செய்யப்பட்ட அனைவரும் நீதவான் நீதிமன்ற நீதிபதி எச்.எம்.தஸ்னீம் பௌசானின் முன்னிலையில் திறந்த நீதிமன்றில் நூற்றுக்கும் அதிகமானவர்களுடன் ஆள் அடையாள அணிவகுப்பிற்கு உட்படுத்தப்பட்டிருந்தார்கள். பின்னர் ஒவ்வொருவரும் தலா 50000 பெறுமதியான சரீரப்பிணையில் விடுவிக்கப்பட்டிருந்ததோடு, எதிர்வரும் நவம்பர் மாதம் 25ஆம் திகதி மீண்டும் வழக்கு விசாரணைக்காக அழைக்கப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/3856f3ce.json)
+
+---
+
+### 15-hour water cut in Colombo and suburbs
+
+*2024-06-28 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100158/15-hour-water-cut-in-colombo-and-suburbs) · `en`
+
+The National Water Supply and Drainage Board (NWSDB) announced that a 15-hour water cut will be imposed for several areas including Colombo and suburbs tomorrow (29).
+
+Accordingly, the water supply will be suspended from 9 a.m. tomorrow (29) until 12 midnight in Colombo, Dehiwala, Mount Lavinia, Sri Jayawardenepura Kotte, Kaduwela Municipal Council area, Maharagama, Boralesgamuwa, Kolonnawa Urban Council area and Kotikawatte-Mulleriyawa Pradeshiya Sabha area.
+
+Meanwhile, for the Moratuwa Municipal Council area, the water supply will be under low-pressure conditions.
+
+The water cut is attributed to the suspending of the power supply to the Ambatale Water Treatment Plant owing to essential maintenance work planned by the Ceylon Electricity Board and repairs at the treatment plant.
+
+The NWSDB has requested people residing in the aforementioned areas to take the necessary steps to collect water required for the duration of the water cut.
+
+◼️
+
+[Data](articles/596e1c2c.json)
+
+---
+
+### The Fraser is going to be wowner
 
 *2024-06-28 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198250) · `si`
 
-ඔස්ට්‍රේලියානු ක්‍රිකට් කණ්ඩායමේ සුපිරි ආරම්භක පිතිකරුවා වූ ඩේවිඩ් වෝනර් ජාත්‍යන්තර ක්‍රිකට් පිටියට සමුදී තිබේ.
+David Warner, Australia's top batsman, announced his retirement from international cricket after the team's exit from the T20 World Cup. He remains a strong contender for Test matches. His teammate Jake Fraser might take over as the next big player, as seen during their time with the Delhi Capitals in the IPL.
 
-ඔස්ට්‍රේලියානු කණ්ඩායම විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ සුපිරි අට දෙනාගේ වටයෙන් එළියට යෑමත් සමගම වෝනර් ජාත්‍යන්තර ක්‍රිකට් පිටියෙන් සමු ගත්තේය.
+🟩
 
-තමාගෙන් හිස් වන ස්ථානය සඳහා සුදුසුම පිතිකරුවා 22 හැවිරිදි ජේක් ෆ්‍රේසර් මැගර්ක් බව වෝනර් පවසයි. ඔහු පවසන්නේ එක්දින, 20යි විස්ස පමණක් නොව ටෙස්ට් තරග සඳහා ද මැගර්ක් ඉතා යෝග්‍ය පිතිකරුවෙක් බවයි.
+David Warner, the Super starter batsman of the Australian cricket team, has been told to the international cricket.
 
-සිය ඉන්ස්ටග්‍රෑම් පිටුවෙහි සටහනක් තබමින් වෝනර්, ජේක් ෆ්‍රේසර් මැගර්ක් සම්බන්ධයෙන් පවසා ඇත්තේ 'All yours now champion' යනුවෙනි.
+When the Australian team to be out of the round of the Supers of the Twenty20 World Cup, Warner retired from international cricket.
 
-පසුගිය ඉන්දීය ප්‍රිමියර් ලීග් තරගාවලියේදී දිල්ලි කැපිටල්ස් කණ්ඩායම වෙනුවෙන් වෝනර් සහ ජේක් ෆ්‍රේසර් මැගර්ක් ක්‍රීඩා කළ අතර එහිදී සිය තරුණ සගයාට ගුරුහරුකම් ලබාදීමට වෝනර් අමතක නොකළේය.
+Warner says the best batsman for the place where he is empty. He says that not only twenty-day, 20 and twenty but also is a fit batsman for Test matches.
+
+Wahoher, a note of the Instagram page, said: 'All in champion'.
+
+Warner and Jake Frazer Muger was played for the Delhi Capitals team at the Indian Premier League.
 
 ◼️
 
 [Data](articles/05c04061.json)
+
+[Extended Data](ext_articles/05c04061.ext.json)
 
 ---
 
@@ -121,6 +161,26 @@ The issue was a key focus during a high-level visit by a parliamentary delegatio
 [Data](articles/287a64f9.json)
 
 [Extended Data](ext_articles/287a64f9.ext.json)
+
+---
+
+### හිරුණිකාට දියයුතු දඬුවම ගැන නීතිපති දෙපාර්තමේන්තුව කළ ඉල්ලීම
+
+*2024-06-28 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198249) · `si`
+
+දෙමටගොඩ ප්‍රදේශයේ වෙළෙඳසැලක සේවය කළ තරුණයකු පැහැරගෙන ගොස් අයුතු ලෙස සිරකර තැබීමේ චෝදනාව සම්බන්ධයෙන් වරදකරු කෙරුණු හිටපු පාර්ලිමේන්තු මන්ත්‍රී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට කොළඹ මහාධිකරණ විසින් බරපතළ වැඩ සහිත වසර තුනක සිර දඬුවම් නියම කළේය.
+
+දීර්ඝ නඩු විභාගයකින් අනතුරුව කොළඹ මහාධිකරණ විනිසුරු අමල් රණරාජ මහතා විසින් තීන්දුව ප්‍රකාශයට පත් කරන ලදී.
+
+ඒ අනුව විත්තිකාර හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය චෝදනා 18කට වරදකාරිය කෙරුණු අතර එම එක් එක් චෝදනාවට රුපියල් 20,000 බැගින් දඩ නියම කරන බවත් විනිසුරවරයා නියෝග කළේය.
+
+එම දඩ මුදල් ගෙවීම පැහැර හැරියහොත් එක් චෝදනාවට මාස 06 බැගින් සිර දඬුවම් නියම කරන බවත් නියෝගයේ සඳහන් විය.
+
+නඩුව කැඳවූ අවස්ථාවේදී විනිසුරු අමල් රණරජා මහතා විවෘත අධිකරණය ප්‍රකාශ කළේ විත්තිකාරිය තරුණයෙකු පැහැරගෙන යාමේ චෝදනාවට කුමන්ත්‍රණය කිරීම හා ආධාර අනුබලදීමේ චෝදනාවලට වරදකරු කරන බවයි.
+
+...
+
+[Data](articles/3be9cf25.json)
 
 ---
 
@@ -2197,55 +2257,5 @@ Investigations have revealed that many million rupees will be betting on various
 [Data](articles/d09cea6a.json)
 
 [Extended Data](ext_articles/d09cea6a.ext.json)
-
----
-
-### She Walked Gently Into The Night: A Tribute To Roma De Zoysa
-
-*2024-06-27 20:09:28* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/she-walked-gently-into-the-night-a-tribute-to-roma-de-zoysa/) · `en`
-
-I did not know Roma de Zoysa prior to my arriving in Southern California. But her impeccable pedigree, which needed no exaggeration, had been a subject of many a conversation that occurred in the Los Angeles circles. When I met her for the first time, the immediacy of her presence was no surprise either. The impression she created has been embedded in me never to fade away, ever.
-
-Roma’s journey of life through nine decades on earth has been one that most Ceylonese ladies would compete enviably to share; born into one of the most prestigious and elite Down-South families, Roma, amongst mostly men, led not only her own life in her own terms but also influenced a then patriarchal social environment with stoicism of a man and elegance of a graceful lady. She could not let a social event occur without her serene intervention nor could she wait without contributing her mite which was of enormous magnitude in material finesse and spiritual guidance.
-
-...
-
-[Data](articles/cb3c9fe5.json)
-
-[Extended Data](ext_articles/cb3c9fe5.ext.json)
-
----
-
-### Rain interrupted in the second semi final
-
-*2024-06-27 20:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198228) · `si`
-
-The second T20 World Cup semi-final, scheduled for today at 8 am, faces a challenge due to unexpected rain.
-
-🟩
-
-The second semi-final in the T20 World Cup will be held today (27).
-
-The match is to be opened at 8am and the race, despite the rain.
-
-◼️
-
-[Data](articles/8911ac31.json)
-
-[Extended Data](ext_articles/8911ac31.ext.json)
-
----
-
-### Train services on main line delayed
-
-*2024-06-27 19:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100148/train-services-on-main-line-delayed) · `en`
-
-Sri Lanka Railways has announced delays in train services on the main line due to a fault on the railway track near the Mirigama railway station.
-
-◼️
-
-[Data](articles/9a4f1957.json)
-
-[Extended Data](ext_articles/9a4f1957.ext.json)
 
 ---

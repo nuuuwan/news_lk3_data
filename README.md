@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 17:35:11**
+As of **2024-06-28 17:55:45**
 
 ## Newspaper Stats
 
-*Scraped **32,669** Articles*
+*Scraped **32,672** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ islandlk | 1,813
 economynextcom | 1,913
 dailyftlk | 1,998
 adalk | 2,891
-adaderanalk | 3,718
+adaderanalk | 3,719
 tamilmirrorlk | 3,860
 dailymirrorlk | 4,733
 virakesarilk | 5,087
-adaderanasinhalalk | 5,376
+adaderanasinhalalk | 5,378
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,669 (100.0%) of 32,669 articles have been extended.
+32,669 (100.0%) of 32,672 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### උද්ධමනයේ වැඩිවීමක්
+
+*2024-06-28 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198264) · `si`
+
+ජාතික පාරිභෝගික මිල දර්ශකයට අනුව 2024 මැයි මාසයේදී 0.9% ක් ලෙස වාර්තා වූ මෙරට උද්ධමනය 2024 ජූනි මාසය සඳහා 1.7%ක් දක්වා වැඩි වී තිබේ.
+
+◼️
+
+[Data](articles/1d489bec.json)
+
+---
+
+### Colombo’s consumer price inflation increases in June
+
+*2024-06-28 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100167/colombos-consumer-price-inflation-increases-in-june) · `en`
+
+The overall rate of inflation as measured by the Colombo Consumer Price Index (CCPI) on Year-on-Year basis has increased to 1.7% in June 2024, compared to 0.9% in May 2024, according to the Department of Census and Statistics.
+
+Meanwhile food inflation has increased to 1.4% in June 2024, compared to 0.0% in May 2024 while non-food inflation has climbed to 1.8% in June 2024, compared to 1.3% the previous month.
+
+◼️
+
+[Data](articles/a538a925.json)
+
+---
+
+### කැනඩාවෙන් සහ අමෙරිකාවෙන් ආ මත් පාර්සල්
+
+*2024-06-28 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198263) · `si`
+
+සීදුව ප්‍රදේශයේ පවත්වාගෙන යන කුරියර් භාණ්ඩ නිෂ්කාශන ආයතනයක් තුළ සිදුකළ ආවේක්ෂණ රාජකාරිවලදී මත්ද්‍රව්‍ය ඇති බවට සැකකළ පාර්සල් 6ක් ශ්‍රී ලංකා රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් පරීක්ෂා කර තිබේ.
+
+එහිදී එම පාර්සල්වල තිබී කොකේන් නැමති මත්ද්‍රව්‍ය ග්‍රෑම් 2,030ක් සහ කුෂ් මත්ද්‍රව්‍ය ග්‍රෑම් 2,177ක් තිබී සොයාගෙන ඇත.
+
+මෙම පාර්සල් කැනඩාව සහ අමෙරිකාවේ සිට කොළඹ, කඩවත යන ප්‍රදේශවල පදිංචි පුද්ගලයන් වෙත එවා තිබේ.
+
+අදාළ ලිපිනයන් සම්බන්ධයෙන් සිදුකළ විමර්ශනවලදී හෙළි වී ඇත්තේ එම ලිපිනයන් ව්‍යාජ ඒවා බවය.
+
+ශ්‍රී ලංකා රේගු මත්ද්‍රව්‍ය පාලන අංශය පැවසුවේ, මෙම මත්ද්‍රව්‍යවල වෙළෙඳපොළ වටිනාකම රුපියල් මිලියන 190කට ආසන්න බවය.
+
+වැඩිදුර විමර්ශන කටයුතු සඳහා මෙම මත්ද්‍රව්‍ය පොලීසියේ මත්ද්‍රව්‍ය නාශක අංශයට භාරදීමට නියමිතය.
+
+◼️
+
+[Data](articles/e6c22f38.json)
+
+---
 
 ### 137 Indians arrested in Sri Lanka over massive online financial scam
 
@@ -2183,67 +2231,5 @@ The event, organised by the Industrial Development Board (IDB) and Industries Mi
 [Data](articles/5d2f15e6.json)
 
 [Extended Data](ext_articles/5d2f15e6.ext.json)
-
----
-
-### Why do banks exist?
-
-*2024-06-28 06:06:59* · [`dailyftlk`](https://www.ft.lk/columns/Why-do-banks-exist/4-763570) · `en`
-
-Fitch placed 13 Sri Lankan banks on Rating Watch Negative on 12-04-2022 during the crisis
-
-Two leading Ministers Dr. Ramesh Pathirana and Dr. Wijeyadasa Rajapakshe on Sunday lambasted the banking sector for half-hearted support to the struggling Micro, Small and Medium Entrepreneurs (MSMEs) thereby endangering a quicker recovery in the economy following multiple crises. Industries and Health Minister Dr. Ramesh Pathirana on Sunday urged enterprises to take a stand against unfair banking practices and to continue lobbying for their interests regardless of political affiliations.
-
-...
-
-[Data](articles/d3abda4b.json)
-
-[Extended Data](ext_articles/d3abda4b.ext.json)
-
----
-
-### India for the closing clash
-
-*2024-06-28 05:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198235) · `si`
-
-In the 20-over World Cup, India qualified for the finals against England, who won the toss and batted first, scoring 171/7 in 20 overs. Chasing 172, England made 103/0 in 4 overs. Despite England's strong start, India and South Africa remain unbeaten, setting up an exciting showdown on the upcoming Saturday.
-
-🟩
-
-The Indian team was able to qualify for the final of 20 overs.
-
-The final group of England won by 68 runs in the final termination held yesterday (27).
-
-England won the toss and elected England to bat first.
-
-Accordingly, they scored 171 runs for the loss of 7 wickets at the end of the 20 overs.
-
-Chasing a target of 172, England scored 103 runs in 4 overs.
-
-The team of India and South Africa have won all the matches played so far in this World Cup.
-
-Accordingly, 2024 will be held on the coming Saturday between the ninth Saturday and the Indian team.
-
-◼️
-
-[Data](articles/c1d2a9ba.json)
-
-[Extended Data](ext_articles/c1d2a9ba.ext.json)
-
----
-
-### Management of international reserves
-
-*2024-06-28 05:54:59* · [`dailyftlk`](https://www.ft.lk/columns/Management-of-international-reserves/4-763560) · `en`
-
-Since the official international reserves are readily available to and controlled by the monetary authorities, they help build up confidence in market players that a country would meet its regular external payment obligations in a timely manner
-
-Foreign exchange reserves comprise of financial assets held in foreign currencies by central banks and governments. They not only provide liquidity for people to transact with the rest of the world, but also help build up confidence that a country is able to honour all its external payments in a timely manner. In the face of BOP difficulties, a country can draw down its own reserves to defend the exchange rate and/ or draw on the reserves of the IMF to regulate the magnitude and duration of crises
-
-...
-
-[Data](articles/bc1aa766.json)
-
-[Extended Data](ext_articles/bc1aa766.ext.json)
 
 ---

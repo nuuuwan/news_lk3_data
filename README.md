@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 11:04:56**
+As of **2024-06-28 11:19:37**
 
 ## Newspaper Stats
 
-*Scraped **32,603** Articles*
+*Scraped **32,604** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,709
 tamilmirrorlk | 3,853
 dailymirrorlk | 4,733
 virakesarilk | 5,068
-adaderanasinhalalk | 5,362
+adaderanasinhalalk | 5,363
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,603 (100.0%) of 32,603 articles have been extended.
+32,603 (100.0%) of 32,604 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
+
+### දිල්ලි ගුවන්තොටුපොළේ විශාල අනතුරක්
+
+*2024-06-28 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198248) · `si`
+
+ඉන්දියාවේ දිල්ලි ජාත්‍යන්තර ගුවන්තොටුපොළේ පළමු පර්යන්තයේ වහලෙහි කොටසක් කඩාවැටී විශාල අනතුරක් සිදුවී තිබේ.
+
+දිල්ලි ගිනි නිවන සේවයේ නිලධාරියෙක් පැවසුවේ ඉන් 3 දෙනෙක් මියගොස් තවත් 6 දෙනෙක් තුවාල ලබා ඇති බවයි.
+
+සිකුරාදා උදෑසන ඇතිවූ අධික වර්ෂාව සහ සුළඟ හේතුවෙන් එම ගොඩනැගිල්ලේ වහලේ කොටසක් කඩා වැටුණි.
+
+මේ වනවිට සහන කණ්ඩායම් අනතුරට ලක්වූ තවත් අය සිටීදැයි සොයා මෙහෙයුම් ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/01505100.json)
+
+---
 
 ### Bideman and Trump delivered the cloth
 
@@ -124,11 +142,17 @@ Of the six, one was rescued from a car on which an iron beam had fallen, the off
 
 Former Member of Parliament Hirunika Premachandra has been sentenced to three years rigorous imprisonment by the Colombo High Court.
 
-The former SJB parliamentarian was sentenced after being found guilty of involvement in the abduction and wrongful detention of a young man who was employed in a shop in the Dematagoda area.
+The former SJB parliamentarian was sentenced after being found guilty of being involved in the abduction of a youth in the Dematagoda area on December 21, 2015 using a Defender and his wrongful detention.
 
 The sentencing was delivered by Colombo High Court Judge Amal Ranaraja on Friday (28).
 
-◼️
+Accordingly, Premachandra was found guilty of 18 charges and the court ordered that a fine of Rs. 20,000 be imposed for each charge.
+
+The order also stated that if the payment of the fines is defaulted, an additional 06 months imprisonment will be imposed for each charge.
+
+When the case was taken up, Colombo High Court Judge Amal Ranaraja declared in open court that the defendant was found guilty of conspiracy and aiding and abetting the abduction of a youth.
+
+...
 
 [Data](articles/b3c7c573.json)
 
@@ -624,7 +648,7 @@ The National Chamber announced that the “The National Business Excellence Awar
 
 The Ceylon Chamber of Commerce announced the re-election of its Board for the Year 2024/25 at the Chamber’s 185th Annual General Meeting held yesterday.
 
-The re-elected Board comprises Chairman – Ernst & Young Country Managing Partner for Sri Lanka and Maldives Duminda Hulangamuwa, Vice Chairman – John Keells Holdings PLC Chairman Krishan Balendra and Deputy Vice Chairman – Standard Chartered Bank Sri Lanka CEO Bingumal Thewarathanthri. Lion Brewery (Ceylon) PLC Chairman Amal Cabraal, Hemas Holdings PLC Non-Executive Director Kasturi Chellaraja Wilson, Hayleys PLC Executive Director Sarah Ganegoda, Dialog Axiata PLC Director/Group CEO Supun Weerasinghe, Hirdaramani Group Chairman Vinod Hirdaramani and Ceylon Chamber Secretary General/CEO Buwanekabahu Perera.
+The re-elected Board comprises Chairman – Ernst & Young Country Managing Partner for Sri Lanka and Maldives Duminda Hulangamuwa, Vice Chairman – John Keells Holdings PLC Chairman Krishan Balendra and Deputy Vice Chairman – Standard Chartered Bank Sri Lanka CEO Bingumal Thewarathanthri. Lion Brewery (Ceylon) PLC Chairman Amal Cabraal, Hemas Holdings PLC Non-Executive Director Kasturi Chellaraja Wilson, Hayleys PLC Executive Director Sarath Ganegoda, Dialog Axiata PLC Director/Group CEO Supun Weerasinghe, Hirdaramani Group Chairman Vinod Hirdaramani and Ceylon Chamber Secretary General/CEO Buwanekabahu Perera.
 
 ...
 
@@ -2237,25 +2261,5 @@ Sunshine Holdings Plc (down at 63.90) saw the most active volumes traded in the 
 [Data](articles/12c51654.json)
 
 [Extended Data](ext_articles/12c51654.ext.json)
-
----
-
-### The IMF says about the agreement caused by Sri Lanka
-
-*2024-06-27 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198220) · `si`
-
-The IMF views Sri Lanka's agreement as a step towards mending ties with China and restructuring its debt, aiming to secure external loans totaling around $10 billion.
-
-🟩
-
-The International Monetary Fund (IMF) says it can be considered as a move to restore the consensus with China and other debts to restore external loans in Sri Lanka.
-
-About $ 10 billion over the agreement will be restructured.
-
-◼️
-
-[Data](articles/0024e66a.json)
-
-[Extended Data](ext_articles/0024e66a.ext.json)
 
 ---

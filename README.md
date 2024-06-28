@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 17:55:45**
+As of **2024-06-28 18:13:49**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 5,378
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,669 (100.0%) of 32,672 articles have been extended.
+32,672 (100.0%) of 32,672 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-28 (Friday)
 
-### උද්ධමනයේ වැඩිවීමක්
+### An increase in inflation
 
 *2024-06-28 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198264) · `si`
 
-ජාතික පාරිභෝගික මිල දර්ශකයට අනුව 2024 මැයි මාසයේදී 0.9% ක් ලෙස වාර්තා වූ මෙරට උද්ධමනය 2024 ජූනි මාසය සඳහා 1.7%ක් දක්වා වැඩි වී තිබේ.
+Inflation rose from 0.9% to 1.7% in May 2024.
+
+🟩
+
+Inflation, which was 0.9% in May 2024, has increased to 1.7% in May 2024.
 
 ◼️
 
 [Data](articles/1d489bec.json)
+
+[Extended Data](ext_articles/1d489bec.ext.json)
 
 ---
 
@@ -56,27 +62,35 @@ Meanwhile food inflation has increased to 1.4% in June 2024, compared to 0.0% in
 
 [Data](articles/a538a925.json)
 
+[Extended Data](ext_articles/a538a925.ext.json)
+
 ---
 
-### කැනඩාවෙන් සහ අමෙරිකාවෙන් ආ මත් පාර්සල්
+### Canada and America's drug parcels
 
 *2024-06-28 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198263) · `si`
 
-සීදුව ප්‍රදේශයේ පවත්වාගෙන යන කුරියර් භාණ්ඩ නිෂ්කාශන ආයතනයක් තුළ සිදුකළ ආවේක්ෂණ රාජකාරිවලදී මත්ද්‍රව්‍ය ඇති බවට සැකකළ පාර්සල් 6ක් ශ්‍රී ලංකා රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් පරීක්ෂා කර තිබේ.
+Sri Lanka Customs seized six drug-laden parcels containing cocaine and kush, totaling 2,030 drugs and 25,177 grams, valued at nearly Rs. 190 million. The parcels were addressed to Canadian and American residents in Kadawatha but had fake addresses. They will be investigated by the Narcotics Division.
 
-එහිදී එම පාර්සල්වල තිබී කොකේන් නැමති මත්ද්‍රව්‍ය ග්‍රෑම් 2,030ක් සහ කුෂ් මත්ද්‍රව්‍ය ග්‍රෑම් 2,177ක් තිබී සොයාගෙන ඇත.
+🟩
 
-මෙම පාර්සල් කැනඩාව සහ අමෙරිකාවේ සිට කොළඹ, කඩවත යන ප්‍රදේශවල පදිංචි පුද්ගලයන් වෙත එවා තිබේ.
+The Sri Lanka Customs Drug Administration Unit has inspected six parcels suspected to have been drugged in the Currie Production Clearance of the Currie Production Clearance.
 
-අදාළ ලිපිනයන් සම්බන්ධයෙන් සිදුකළ විමර්ශනවලදී හෙළි වී ඇත්තේ එම ලිපිනයන් ව්‍යාජ ඒවා බවය.
+Cocaine has found 2,030 drugs and 25,177 grams of Kashine in the parcels.
 
-ශ්‍රී ලංකා රේගු මත්ද්‍රව්‍ය පාලන අංශය පැවසුවේ, මෙම මත්ද්‍රව්‍යවල වෙළෙඳපොළ වටිනාකම රුපියල් මිලියන 190කට ආසන්න බවය.
+These parcels have been sent to people of residents of Canada and from US to residents of Kadawatha.
 
-වැඩිදුර විමර්ශන කටයුතු සඳහා මෙම මත්ද්‍රව්‍ය පොලීසියේ මත්ද්‍රව්‍ය නාශක අංශයට භාරදීමට නියමිතය.
+Investigations into the addresses have revealed that the addresses were fake.
+
+The Sri Lanka Customs Drug Advancement said that the market value of these drugs was nearly Rs. 190 million.
+
+The drug will be handed over to the Narcotics Division for further investigations.
 
 ◼️
 
 [Data](articles/e6c22f38.json)
+
+[Extended Data](ext_articles/e6c22f38.ext.json)
 
 ---
 

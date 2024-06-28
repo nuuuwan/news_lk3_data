@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-28 23:54:30**
+As of **2024-06-29 00:06:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,697 (100.0%) of 32,704 articles have been extended.
+32,704 (100.0%) of 32,704 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -306,6 +306,8 @@ He said Sri Lanka’s economic stability has effectively prevented comparable ch
 
 [Data](articles/741221ad.json)
 
+[Extended Data](ext_articles/741221ad.ext.json)
+
 ---
 
 ### Fonseka will record historical victory in politics
@@ -375,6 +377,8 @@ audits of banks, other regulators and authorities were considered when drafting 
 ...
 
 [Data](articles/eda9fe1b.json)
+
+[Extended Data](ext_articles/eda9fe1b.ext.json)
 
 ---
 
@@ -672,6 +676,8 @@ While some appeared to have been misled that they would be camp helpers in suppo
 
 [Data](articles/5138f922.json)
 
+[Extended Data](ext_articles/5138f922.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes weaker at 306.00/20 to US dollar
@@ -691,6 +697,8 @@ A bond maturing on 01.06.2033 closed at 12.35/50 percent down from 12.35/95 perc
 ◼️
 
 [Data](articles/6a5cdc29.json)
+
+[Extended Data](ext_articles/6a5cdc29.ext.json)
 
 ---
 
@@ -755,6 +763,8 @@ Clearing activity usually seen around the month end could also have been a facto
 ...
 
 [Data](articles/d75865b5.json)
+
+[Extended Data](ext_articles/d75865b5.ext.json)
 
 ---
 
@@ -1339,6 +1349,8 @@ Sri Lanka’s Central Bank hiked rates in 2022 April to end money printed for tw
 ...
 
 [Data](articles/b87115b6.json)
+
+[Extended Data](ext_articles/b87115b6.ext.json)
 
 ---
 

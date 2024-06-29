@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 06:20:34**
+As of **2024-06-29 07:00:30**
 
 ## Newspaper Stats
 
-*Scraped **32,735** Articles*
+*Scraped **32,736** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,723
 tamilmirrorlk | 3,863
 dailymirrorlk | 4,733
 virakesarilk | 5,101
-adaderanasinhalalk | 5,384
+adaderanasinhalalk | 5,385
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,727 (100.0%) of 32,735 articles have been extended.
+32,735 (100.0%) of 32,736 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
+
+### ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-06-29 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198271) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සිහින් වැසිවාර කිහිපයක් ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව දන්වා ඇත.
+
+එමෙන්ම, මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකි බව  කාලගුණවිද්‍යා දෙපාර්තමේන්තුව කළ නිවේදනයේ සඳහන් වේ.
+
+◼️
+
+[Data](articles/80c1b066.json)
+
+---
 
 ### Straight A Pluses for Sierra Cables from FITCH
 
@@ -43,6 +59,8 @@ Commenting on the recognition, Harsha Jayatunga, CEO of Sierra Cables said, “W
 ...
 
 [Data](articles/7db12f7f.json)
+
+[Extended Data](ext_articles/7db12f7f.ext.json)
 
 ---
 
@@ -57,6 +75,8 @@ The All Share Price Index went down by 45.03 points while S and P SL20 rose by 1
 ...
 
 [Data](articles/f4858be9.json)
+
+[Extended Data](ext_articles/f4858be9.ext.json)
 
 ---
 
@@ -156,6 +176,8 @@ The Digital Trust Awards Night was organized by ISACA Sri Lanka, a local chapter
 
 [Data](articles/2ffa3320.json)
 
+[Extended Data](ext_articles/2ffa3320.ext.json)
+
 ---
 
 ### ComBank wins two Golds at IDB’s Green Industry Awards 2024
@@ -169,6 +191,8 @@ Commercial Bank also won the Bronze award for ‘Inclusive business development�
 ...
 
 [Data](articles/b86b7f89.json)
+
+[Extended Data](ext_articles/b86b7f89.ext.json)
 
 ---
 
@@ -2217,29 +2241,5 @@ The company’s ongoing investment in Sri Lanka was discussed, with Hasith Yagga
 [Data](articles/b0f94fe9.json)
 
 [Extended Data](ext_articles/b0f94fe9.ext.json)
-
----
-
-### Biden falters in fiery debate with Trump
-
-*2024-06-28 11:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100157/biden-falters-in-fiery-debate-with-trump) · `en`
-
-A halting Joe Biden struggled Thursday to allay concerns he is too old for a second term in the White House in a fiery debate with Donald Trump marked by personal insults.
-
-A bombastic Trump lashed out at his successor, calling him a failure on the economy and the world stage.
-
-Biden looked to hit back, but his delivery was faltering as he spoke rapidly in a raspy, trailing-off voice, stumbled on his words and stared open-mouthed.
-
-His performance, after he spent the week secluded in preparation, sparked new concern within his Democratic Party as polls show Trump is tied or ahead for the November election.
-
-It was the first debate ever between a president and former president -- and each accused each other of being history’s worst.
-
-Trump and Biden, who were each the oldest president when first elected, even accused each other of being childlike as they argued over their golf swings.
-
-...
-
-[Data](articles/79ed580e.json)
-
-[Extended Data](ext_articles/79ed580e.ext.json)
 
 ---

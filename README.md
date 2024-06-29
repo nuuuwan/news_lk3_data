@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 08:53:50**
+As of **2024-06-29 09:05:54**
 
 ## Newspaper Stats
 
-*Scraped **32,745** Articles*
+*Scraped **32,747** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 1,920
 dailyftlk | 2,015
 adalk | 2,896
 adaderanalk | 3,724
-tamilmirrorlk | 3,866
+tamilmirrorlk | 3,867
 dailymirrorlk | 4,733
 virakesarilk | 5,101
-adaderanasinhalalk | 5,388
+adaderanasinhalalk | 5,389
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,744 (100.0%) of 32,745 articles have been extended.
+32,745 (100.0%) of 32,747 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
+
+### 20යි 20 ලෝක කුසලානයේ අවසන් දිනය අදයි
+
+*2024-06-29 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198275) · `si`
+
+T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අවසන් තරගය අද (29) පැවැත්වීමට නියමිතය.
+
+ඉන්දියාව සහ දකුණු අප්‍රිකාව අතර තරගය රාත්‍රී 8.00 ට බාර්බඩෝස් හිදී පැවැත්වෙයි.
+
+මූලික වටයේ ඒ කාණ්ඩය යටතේ ඉන්දියාව අපරාජිතව සුපිරි අටදෙනාගේ වටයට සුදුසුකම් ලැබූ අතර ඩී කාණ්ඩය යටතේ තරග වැදුණු දකුණු අප්‍රිකාව ද අපරාජිතව සුපිරි අට දෙනාගේ වටයට සුදුසුකම් ලැබීය.
+
+ඒ අනුව, ලෝක කුසලාන ක්‍රිකට් තරගාවලි ඉතිහාසයේ දකුණු අප්‍රිකා කණ්ඩායම අවසන් තරගයක් සඳහා සුදුසුකම් ලද ප්‍රථම අවස්ථාව මෙය වීම විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/c104fd21.json)
+
+---
 
 ### Several spells of showers expected in parts of Sri Lanka
 
@@ -47,6 +65,26 @@ Strong winds of about 40-50kmph can be expected at times over the Western slopes
 [Data](articles/bda50602.json)
 
 [Extended Data](ext_articles/bda50602.ext.json)
+
+---
+
+### ’கடன் மறுசீரமைப்பால் இலங்கைக்கு நன்மை’
+
+*2024-06-29 07:24:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-மறுசீரமைப்பால்-இலங்கைக்கு-நன்மை/175-339592) · `ta`
+
+இருதரப்பு கடன் வழங்குநர்களுடனான கடன் மறுசீரமைப்பு செயல்முறை வெற்றியடைவதன் மூலம் இலங்கைக்கு சுமார் 17 பில்லியன் அமெரிக்க டொலர்கள் நன்மை கிடைக்கும் என வெளிநாட்டலுவல்கள் அமைச்சர் ஜனாதிபதி சட்டத்தரணி அலி சப்ரி தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் அலி சப்ரி இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+2022 ஏப்ரல் 12 ஆம் திகதி, குறிப்பிட்ட அளவு வெளிநாட்டுக் கடன்களை திருப்பிச் செலுத்துவதை தற்காலிகமாக நிறுத்த இலங்கை முடிவு செய்தது. அமெரிக்க டொலருக்கு நிகரான ரூபாவின் பெறுமதி 600, 700, 1000 ஆக உயரும் என்று, அன்று சிலர் குற்றம் சாட்டினர். ஆனால் நாம் அந்த நிலைமையைக் கட்டுப்படுத்தினோம்.
+
+அதற்காக லாசார்ட் நிறுவனத்தை எமது பிரதிநிதியாகவும், சட்ட விடயங்களுக்காக கிளிபர்ட் ஹான்ஸ் நிறுவனமும் நியமிக்கப்பட்டன. இதன்போது, நாம் முதலில் உள்நாட்டுக் கடனை மறுசீரமைக்க நடவடிக்கை எடுத்தோம்.
+
+இவ்வாறான செயற்பாடுகள் முன்னெடுக்கப்பட்ட போதும் பலதரப்பு நிறுவனங்களின் கடனை செலுத்துவதற்காக ஒரு நாடாக நாம் செயற்பட்டு வந்தோம் என்பதும் குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/78d041db.json)
 
 ---
 
@@ -974,17 +1012,27 @@ The suspected drug was arrested by the Police Narcotics Unit of the Police Narco
 
 ---
 
-### ගුවන් හමුදාවේ හෙලිකොප්ටරයක් අරන් යන්න ලොව විශාලම ගුවන් යානයක් කටුනායකට
+### Katunayake to take a helicopter to take a helicopter
 
 *2024-06-28 20:14:32* · [`adalk`](https://www.ada.lk/picture_story/ගුවන්-හමුදාවේ-හෙලිකොප්ටරයක්-අරන්-යන්න-ලොව-විශාලම-ගුවන්-යානයක්-කටුනායකට/10-410493) · `si`
 
-මධ්‍යම අප්‍රිකානු ජනරජයේ සාම සාධක රාජකාරී වල නිරත වී සිටින ශ්‍රී ලංකා ගුවන් හමුදාව සදහා , ඔවුන් සතු " එම්.අයි. - 17 " වර්ගයේ හෙලිකොප්ටර් යානයක් රැගෙන යාම සදහා ලොව විශාලතම භාණ්ඩ ප්‍රවාහන ගුවන් යානයක් වන " ඇන්ටනෝව් - 124 " ( Antonov - 124) ගුවන් යානයක් 06/28 දින පස්වරු 02.45 ට කටුනායක ගුවන් හමුදා කදවුර වෙත පැමිණියේය .
+The Sri Lanka Air Force, involved in peacekeeping in the Central African Republic since 2014, received an Antonov-124 cargo plane at Katunayake Air Force base. This visit coincides with significant maintenance work on one of their helicopters. The force operates three types of helicopters in the region, utilizing them for troop transport, medical emergencies, and other critical missions. Their peacekeeping efforts have generated $125 million for Sri Lanka.
 
-ශ්‍රී ලංකා ගුවන් හමුදාව 2014 වසරේ සිට මධ්‍යම අප්‍රිකානු ජනරජයේ සාම සාධක රාජකාරී වල නිරත වී සිටින අතර , වර්තමානයේ එහි එම්.අයි.- 17 වර්ගයේ හෙලිකොප්ටර් යානා 03 ක් ද එහි සේවා සදහා යොදවා තිබේ. මෙයින් එක් හෙලිකොප්ටර් යානයක අත්‍යාවශ්‍ය ප්‍රධාන නඩත්තු කටයුත්තක් (Major Overhaul ) සිදු කිරීමට ඇති නිසා , එම යානය එරටින් ඉවත් කර ශ්‍රී ලංකාවට රැගෙන ඒමට ප්‍රථම , මෙම එම්.අයි.- 17 හෙලිකොප්ටර් යානය එරට ශ්‍රී ලංකා හෙලිකොප්ටර් බල ඝනය වෙත එකතු කිරීම සදහා මෙසේ රැගෙන යාම සිදු කිරීමට පියවර ගෙන තිබේ.
+🟩
+
+For the Sri Lanka Air Force, which is engaged in peacekeeping of peacekeeping in peace factors in the Central African Republic, their "MI '. - 17 "Antonov - 124" (Antonov - 124) A plane came to Katunayake at Katunayake at Katunayake at Katunayake Air Force.
+
+The Sri Lanka Air Force has been working in peace factors in the Central African Republic from 2014 and currently has three helicopters and three types of helicopters.. This MI has taken a major maintenance activity in one helicopter (major overhaul), so that the plane was removed and the helicopter was to add Sri Lankan helicopters to the thick of Sri Lanka's helicopter power.Steps have been taken to perform.
+
+The Sri Lanka Air Force helicopters in the Central African Republic is using the transport of troops, internal flights, emergency medical care and emergency and transportation.
+
+Sri Lanka has earned US $ 125 million from the process of peacekeeping of the Republic of Central African Republic.
 
 ...
 
 [Data](articles/b85b99ad.json)
+
+[Extended Data](ext_articles/b85b99ad.ext.json)
 
 ---
 
@@ -2187,49 +2235,5 @@ The ambassador also said that Japan continues to support the restoration of Sri 
 [Data](articles/12eed0b8.json)
 
 [Extended Data](ext_articles/12eed0b8.ext.json)
-
----
-
-### Joint working committee with Russia proposed to deal with Sri Lanka mercenaries
-
-*2024-06-28 13:52:00* · [`economynextcom`](https://economynext.com/joint-working-committee-with-russia-proposed-to-deal-with-sri-lanka-mercenaries-170008/) · `en`
-
-ECONOMYNEXT – Sri Lanka has proposed a joint working committee with Russian officials to deal with hundreds of ex-soldiers deployed in the Russia’s war with Ukraine, the island’s embassy in Moscow said.
-
-Returnees and families of the ex-soldiers have complained that they were misled into going to Russia as camp helpers and then they were forced to fight in the frontlines.
-
-“Sri Lanka proposed to establish a joint working committee comprising of officials from the two sides to meet regularly to address issues and concerns of the Sri Lankans who have been deployed,” the embassy in Moscow said.
-
-State Minister of Foreign Affairs Tharaka Balasuriya visited the Russian Federation on June 26-27 and met Deputy Minister of Foreign Affairs of the Russian Federation Andrey Rudenko and the Deputy Minister of Defense of the Russian Federation Colonel General A V Fomin.
-
-...
-
-[Data](articles/298bb080.json)
-
-[Extended Data](ext_articles/298bb080.ext.json)
-
----
-
-### There will be none of the elections
-
-*2024-06-28 13:33:29* · [`adalk`](https://www.ada.lk/breaking_news/දීමනා-නොඳුන්නොත්-මැතිවරණවලට-බලපාවි/11-410492) · `si`
-
-Grama Niladhari workers threaten to abandon duties due to unpaid allowances. They demand immediate payment or gazetting of their rights. The situation escalates as the union considers a nationwide strike over unresolved issues.
-
-🟩
-
-The All Ceylon Free Grama Niladhari Union says that if the authorities have not taken the approved allowance of the Grama Niladharis during this year, the All Ceylon Free Grama Niladhari Association Sujeewa Liyanage said.
-
-All duties have been abandoned by the Grama Niladhari and the Grama Niladhari, demanding the approval from gazette, the Grama Niladhari Trade Union Bureau, which was abstaked by gazetting and the amendments.Was engaged.
-
-If the allowance approved by a committee is not sufficient in their Grama Securities Domain, the authorities are requested to be paid in this year, not responding to this year.The All Ceylon Grama Niladhari Union's National Organizer said that the next Lanka Grama Niladhari Union said.
-
-The National Organizer of the Association, the National Organizer of the Association has been involved in a continuous strike between the Prime Minister's fourteen projects in the country regarding the issues of the Grama Niladhari.He further stated.
-
-◼️
-
-[Data](articles/0e58e7f9.json)
-
-[Extended Data](ext_articles/0e58e7f9.ext.json)
 
 ---

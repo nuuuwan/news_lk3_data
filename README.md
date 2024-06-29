@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 15:04:38**
+As of **2024-06-29 15:19:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,398
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,780 (100.0%) of 32,782 articles have been extended.
+32,782 (100.0%) of 32,782 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,23 +46,31 @@ Sri Lanka Navy Spokesperson said the vessel is being towed back to land with the
 
 [Data](articles/bd7daf3d.json)
 
+[Extended Data](ext_articles/bd7daf3d.ext.json)
+
 ---
 
-### மது என நினைத்து மிதந்து வந்த விஷத்தை குடித்தவர்கள் மரணம்
+### Those who drank the poison that floated in the thought of alcohol
 
 *2024-06-29 14:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மது-என-நினைத்து-மிதந்து-வந்த-விஷத்தை-குடித்தவர்கள்-மரணம்/175-339598) · `ta`
 
-தங்காலை மீன்பிடி துறைமுகத்தில் இருந்து கடலுக்குச் சென்ற இரண்டு மீனவர்கள் மது என நினைத்து விஷக் கரைசலை குடித்து உயிரிழந்துள்ளனர்.
+Two fishermen died after consuming poison from bottles found in the sea near Tangalle harbor. Four others are critically ill. The incident involved six fishermen aboard the "Devon" boat.
 
-நேற்று (28) இரவு கடலில் மிதந்து வந்த போத்தல்கள் சில இவர்களுக்கு கிடைத்துள்ள நிலையில், அதனை மதுபானம் என நினைத்து அருந்தியுள்ளனர்.
+🟩
 
-இதில் மேலும் நான்கு மீனவர்களின் நிலைமை கவலைக்கிடமாக இருப்பதாக கடற்றொழில் பணிப்பாளர் நாயகம் சுசந்த கஹவத்த தெரிவித்தார்.
+Two fishermen who went to sea from the Tangalle fishing harbor have died of poisonous solution.
 
-தங்காலை மீன்பிடித் துறைமுகத்திலிருந்து மீன்பிடி நடவடிக்கைகளுக்காகப் புறப்பட்ட “டெவோன்” என்ற பல்நாள் மீன்பிடி படகில் இருந்த 06 மீனவர்களே இச்சம்பவத்திற்கு முகங்கொடுத்துள்ளதாக தெரிவிக்கப்படுகின்றது. R
+Some of the bottles floating in the sea last night (28) have been found as a brewery.
+
+Fisheries Director General Susantha Kahawatta said that the condition of four more fishermen was worrisome.
+
+It is reported that six fishermen from the Tangalle fishing harbor for fishing, "Devon", a multi -day fishing boat, faced the incident.. Remble
 
 ◼️
 
 [Data](articles/3f8e39ee.json)
+
+[Extended Data](ext_articles/3f8e39ee.ext.json)
 
 ---
 

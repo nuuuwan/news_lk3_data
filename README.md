@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 14:35:16**
+As of **2024-06-29 14:53:57**
 
 ## Newspaper Stats
 
-*Scraped **32,779** Articles*
+*Scraped **32,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,56 +19,90 @@ adalk | 2,898
 adaderanalk | 3,730
 tamilmirrorlk | 3,872
 dailymirrorlk | 4,733
-virakesarilk | 5,108
+virakesarilk | 5,109
 adaderanasinhalalk | 5,398
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,777 (100.0%) of 32,779 articles have been extended.
+32,779 (100.0%) of 32,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
 
-### මුහුදේ පාවී ආ බෝතල් මත්පැන් යැයි සිතා පානය කළ ධීවරයින් දෙදෙනෙක් මරුට
+### Two fishermen killed in fishermen who were born in the sea
 
 *2024-06-29 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198285) · `si`
 
-මත්පැන් බව සිතා විෂ සහිත ද්‍රාවණයක් පානය කිරීම හේතුවෙන් තංගල්ල ධීවර වරායෙන් මුහුදු ගිය ධීවරයින් දෙදෙනෙකු මියගොස් තිබේ.
+In Tangalle Fisheries Harbor, two fishermen died after consuming a toxic substance believed to be from bottles found floating in the sea. Six others fell ill, including four critically. The incident occurred aboard the Devi, Devon, "Devone," with the affected individuals contacting authorities via radio before losing contact. Despite efforts to bring the vessel ashore, another crew member passed away. The Navy has been notified.
 
-තවත් ධීවරයින් සිව් දෙනෙකු අසාධ්‍ය තත්ත්වයේ පසුවන බව ධීවර අධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත මහතා පැවසීය.
+🟩
 
-තංගල්ල ධීවර වරායෙන් ධීවර කටයුතු සඳහා පිටත්ව ගිය "ඩෙවෝන්" නම් බහුදින ධීවර යාත්‍රාවේ සිටි ධීවරයින් 06 දෙනෙකු මෙම සිද්ධියට මුහුණ පා ඇති බව සඳහන් ය.
+Two fishermen have died in the Tangalle Fisheries Harbor due to drinking a toxic solution.
 
-ඊයේ (28) රාත්‍රියේ ඔවුන්ට මුහුදේ පාවෙමින් තිබු බෝතල් කිහිපයක් හමුවී ඇති අතර මත්පැන් බව සිතා ඔවුන් ඒවා පානය කර තිබේ.
+Fisheries Director General Susantha Kahawatta said four other fishermen were in critical condition.
 
-එහිදී ධීවරයින් 06 දෙනාම රෝගී තත්ත්වයට පත්වී ඇති අතර ඒ සම්බන්ධයෙන් පණිවිඩ හුවමාරු යන්ත්‍ර ඔස්සේ ඔවුන් දැනුම්දීමක් සිදුකර තිබු බව ධීවර අධ්‍යක්ෂ ජනරාල්වරයා පැවසීය.
+Six fishermen on the Devi, Devon, "Devone" in the Tangalle Fisheries Harbor, have faced this incident.
 
-"තංගල්ල ධීවර වරායෙන් රැකියාව සඳහා ගිය මෙම යාත්‍රාවට ඊයේ රාත්‍රියේ මුහුදේ පාවෙමින් තිබුණු යම්කිසි බෝතල් වගයක් හමුවෙලා. මේ බෝතල්වල මත්පැන් කියලා විශ්වාස කරලා... ඔවුන් අද උදේ ඒ බෝතල්වල තිබුණු දේ පානය කරලා තියෙනවා. අනතුරව කාර්යමණ්ඩලයේ 06 දෙනාම රෝගී තත්ත්වයකට පත්වෙලා. මොවුන් දැඩි රෝගාතුරවීමට පෙර ඔවුන්ට යම් ශරීරික අපහසුතාවක් ඇති වෙලා."
+They have found several bottles floating in the sea yesterday and have been thinking about it.
+
+The Director of Fisheries said that six fishermen were sick and they had been notified through message engineers.
+
+"Some of the bottles floating in the sea last night were found on the vessel of the Tangalle Fisheries Harbor. These bottles believe that alcohol ... They have been drinking what they had in the bottles this morning. At least six staff in the accident have become ill. Before they were ill, they have a physical difficulty. "
 
 ...
 
 [Data](articles/a9de81a6.json)
 
+[Extended Data](ext_articles/a9de81a6.ext.json)
+
 ---
 
-### අපේ මිනිස්සු ගැන රුසියාවෙන් දුන් පිළිතුර
+### Russia's answer to our people
 
 *2024-06-29 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198284) · `si`
 
-රුසියානු - යුක්‍රේන යුද්ධයට එක්වීම සඳහා මෙරටින් ගිය ශ්‍රී ලාංකික විශ්‍රාමික සෙබළුන්ගෙන්  17 දෙනෙකු මියගොස් ඇති බව ඔවුන් පිළිබඳ සොයාබැලීම සඳහා රුසියාව බලා පිටත්ව ගිය මෙරට දූත පිරිසේ සාමාජික පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා පවසයි.
+A Sri Lankan delegation, including MPs and officials, traveled to Russia to explore the Ukraine conflict. They met with Russian Foreign and Defense Ministry officials to gain insights into the situation.
 
-කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළින් අද (29) අලුයම දිවයිනට පැමිණීමෙන් අනතුරුව මාධ්‍යයට අදහස් දක්වමින් ඔහු සඳහන් කළේ, යුද්ධයට එක්වූ 121 දෙනෙකු මේ වනවිට අතුරුදන්වී ඇති බවය.
+🟩
 
-මෙම සිද්ධිය ගැන තොරතුරු සොයා බැලීමට විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය, පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන ගාමිණී වලේබොඩ, දයාසිරි ජයසේකර මහතා ඇතුළු රාජ්‍ය නිලධාරීන් 8 දෙනෙකු පසුගියදා දිවයිනෙන් පිටත්ව ගොස් තිබුණි.
+UNP MP Dayasiri Jayasekara says that 17 Sri Lankan delegation departed to Russia to look into the Russian - Ukrainian war.
 
-එහිදී ශ්‍රී ලාංකික දූත පිරිස රුසියානු විදේශ කටයුතු නියෝජ්‍ය අමාත්‍යවරයා, රුසියානු ආරක්ෂක අමාත්‍යවරයා ඇතුළු නිලධාරින් පිරිසක් සමග සාකච්ඡා පවත්වා ඇත.
+Speaking to the media, he said that 121 joined in the war at the Bandaranaike International Airport today (29), he said.
+
+Foreign Minister Tharaka Balaboda, MPs Gamini Walaboda and Dayasiri Jayasekera and 8 public officials have left the island recently to investigate the incident.
+
+The Sri Lankan delegation was discussed with the Deputy Minister of Russian Foreign Affairs, the Russian Defense Minister and a group of officers.
 
 ◼️
 
 [Data](articles/e5abd37d.json)
+
+[Extended Data](ext_articles/e5abd37d.ext.json)
+
+---
+
+### திருகோணமலையில் இஸ்ரேலிய சுற்றுலாப் பயணி மாயம்
+
+*2024-06-29 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/187251) · `ta`
+
+நாட்டுக்கு வருகை தந்த இஸ்ரேலிய பெண் சுற்றுலாப் பயணி ஒருவர் திருகோணமலையில் காணாமல் போயுள்ளார்.
+
+இது தொடர்பில் பொலிஸாருக்குக் கிடைக்கப்பெற்றுள்ள முறைப்பாட்டுக்கு அமைய திருகோணமலை உப்புவெளி பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+கடந்த 22ஆம் திகதி நாட்டுக்கு வருகை தந்த 25 வயதுடைய டேமர் எமிடாய் (Tamar Amitai) என்ற இஸ்ரேலிய பெண் சுற்றுலாப் பயணியே திருகோணமலைக்கு சென்றிருந்த நிலையில் காணாமல் போயுள்ளார்.
+
+அவர் இணையவழி ஊடாக திருகோணமலையிலுள்ள ஹோட்டலில் அறை ஒன்றை முன்பதிவு செய்து, 22ஆம் திகதி அங்கு சென்று தங்கியுள்ளார்.
+
+இந்நிலையில், அவர் 26ஆம் திகதி முதல் காணாமல் போயுள்ளார். இதனையடுத்து, ஹோட்டலின் உரிமையாளர் பொலிஸில் முறைப்பாடு செய்துள்ளார்.
+
+காணாமல் போன சுற்றுலாப் பயணி தொடர்பில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதாகவும், ஆனால், இதுவரை எவ்வித தகவலும் கிடைக்கவில்லை எனவும் உப்புவெளி பொலிஸ் பொறுப்பதிகாரி தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/cafbec14.json)
 
 ---
 
@@ -2231,27 +2265,5 @@ The event was attended by many including the General Secretary of the Sri Lanka 
 [Data](articles/e6aaab9a.json)
 
 [Extended Data](ext_articles/e6aaab9a.ext.json)
-
----
-
-### Many Sri Lanka mercenaries have become Russian citizens: Foreign Minister
-
-*2024-06-28 17:22:00* · [`economynextcom`](https://economynext.com/many-sri-lanka-mercenaries-have-become-russian-citizens-foreign-minister-170089/) · `en`
-
-ECONOMYNEXT – Many Sri Lankan mercenaries fighting in the Ukraine front have become Russian citizens, making it difficult to give them diplomatic support, Foreign Minister Ali Sabry said.
-
-So far 446 complaints have been lodged by family members asking for government help to bring back menfolk trapped in the Ukraine warfront, he said.
-
-“They have taken Russian citizenship at the moment,” Sabry told reporters on Friday explaining the difficulties faced by Sri Lanka in getting back citizens.
-
-“If you take another country’s citizenship you lose Sri Lankan citizenship, so if you are no longer a citizen of Sri Lanka we lose the right to represent you, that is the problem, unless they apply for dual citizenship,” Minister Sabry said.
-
-While some appeared to have been misled that they would be camp helpers in support roles and pushed into combat, others may have known the actual stakes involved, he said.
-
-...
-
-[Data](articles/5138f922.json)
-
-[Extended Data](ext_articles/5138f922.ext.json)
 
 ---

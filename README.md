@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 17:35:10**
+As of **2024-06-29 17:55:28**
 
 ## Newspaper Stats
 
-*Scraped **32,792** Articles*
+*Scraped **32,796** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,80 @@ newsfirstlk | 363
 islandlk | 1,821
 economynextcom | 1,922
 dailyftlk | 2,015
-adalk | 2,899
+adalk | 2,902
 adaderanalk | 3,733
 tamilmirrorlk | 3,874
 dailymirrorlk | 4,733
 virakesarilk | 5,109
-adaderanasinhalalk | 5,404
+adaderanasinhalalk | 5,405
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,790 (100.0%) of 32,792 articles have been extended.
+32,790 (100.0%) of 32,796 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
+
+### ෆීල්ඩ් මාෂල්ට රට වෙනුවෙන් විශිෂ්ට සේවාවක් ඉටු කළ හැකියි
+
+*2024-06-29 17:30:52* · [`adalk`](https://www.ada.lk/picture_story/ෆීල්ඩ්-මාෂල්ට-රට-වෙනුවෙන්-විශිෂ්ට-සේවාවක්-ඉටු-කළ-හැකියි/10-410501) · `si`
+
+තිස් වසරක යුද්ධය නිමා කිරීමට විශිෂ්ට නායකත්වයක් සැපයූ හිටපු යුද හමුදාපති, පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා විසින් රචිත “යුද හමුදාපති ජාතියට දුන් පොරොන්දුව – මම මේ යුද්ධය ඊළඟ යුද හමුදාපතිට ඉතිරි නොකරමි” ග්‍රන්ථය එළිදැක්වීම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන්  කොළඹ නෙළුම් පොකුණ රඟහලේ දී පැවැත්විණි.
+
+ග්‍රන්ථයේ පළමු පිටපත මෙහිදී පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා විසින් ජනාධිපතිවරයා වෙත පිළිගැන්වීය.
+
+හිටපු යුද හමුදාපතිවරයෙකු ලෙස සරත් ෆොන්සේකා මහතාගේ සේවාව මෙහිදී අගය කළ ජනාධිපතිවරයා යුද අභියෝගය ජයග්‍රහණය කළ සහ දේශපාලනයේ අභියෝග රැසකට මුහුණ දුන් සරත් ෆොන්සේකා මහතාට ඉදිරියට ද රට වෙනුවෙන් විශිෂ්ට සේවාවක් සිදු කිරීමට හැකියාව තිබෙන බව සඳහන් කළේය.
+
+මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද පැවසීය,
+
+මෙරට යුද හමුදාවේ එකම ෆීල්ඩ් මාර්ෂල් තනතුර දරන්නේ සරත් ෆොන්සේකා මහතායි. එතුමා යුද අභියෝගය ජයග්‍රහණය කළා පමණක් නොවෙයි, යුද පිටියෙන් පිටත දේශපාලනය තුළත් අභියෝගවලට මුහුණ දුන් කෙනෙක්.
+
+...
+
+[Data](articles/7bda505d.json)
+
+---
+
+### අප්‍රිකානු කලාපයේ රටවල ණය සම්පූර්ණයෙන් අහෝසි කළ යුතුයි
+
+*2024-06-29 17:22:24* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රිකානු-කලාපයේ-රටවල-ණය-සම්පූර්ණයෙන්-අහෝසි-කළ-යුතුයි/11-410500) · `si`
+
+ආර්ථික ගැටලුකාරී තත්ත්වය හේතුවෙන් කෙන්යාව අද විශාල අර්බුදයකට මුහුණ දී සිටින අතර මිනිස් ඝාතන ද සිදු වන බව පෙන්වා දුන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා රටක ආර්ථිකය සකස් කිරීම අත්‍යාවශ්‍ය බවත්, රට තුළ ආර්ථික ස්ථාවරත්වයක් ඇති කිරීමට ශ්‍රී ලංකාව සමත් නොවුවා නම් අද ශ්‍රී ලංකාවේ තත්ත්වය ද එය බවත් පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේ දී පැවති 2024 ජනාධිපති පරිසර සම්මාන උළෙල අමතමිනි.
+
+මෙහිදී අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් සඳහන් කළේ දේශගුණික විපර්යාසවලට මුහුණ දීමට ආර්ථික ශක්තිය නොමැති අප්‍රිකානු කලාපයේ රටවල ණය සම්පූර්ණයෙන් අහෝසි කළ යුතු බවට ගෝලීය හඬක් නැඟීම ශ්‍රී ලංකාවේ විදේශ ප්‍රතිපත්තියේ කොටසක් වන බවයි.
+
+ශ්‍රී ලංකාව එවන් සහනයක් අපේක්ෂා නොකරන අතර ණය කළමනාකරණය කර ගනිමින් ඉදිරියට යාමට ශ්‍රී ලංකාවට ශක්තිය සහ ඥානය ඇති බවද ජනාධිපතිවරයා එහිදී කියා සිටියේය.
+
+...
+
+[Data](articles/01ba0c3c.json)
+
+---
+
+### රුසියානු යුද්ධයෙන් තුවාල ලැබූ ශ්‍රී ලාංකිකයන් එන්න බෑ කියයි
+
+*2024-06-29 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198293) · `si`
+
+කුලී හමුදා සඳහා එක්වීමට රුසියාවට ගිය ශ්‍රී ලාංකිකයන්ගෙන් තුවල ලැබු අය අතරින් පිරිසක් නැවත ශ්‍රී ලංකාවට පැමිණීමට අකමැති බව විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා පවසයි.
+
+රුසියාවේ පුරවැසිභාවය ලැබෙනු ඇතැයි ඔවුන්ගේ බලාපොරොත්තුව බවද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+මේ අතර මියගිය අයට වන්දි ගෙවීමට රුසියානු රජය පියවර ගනිමින් සිටින බවද තාරක බාලසූරිය මහතා අද (29) කෑගල්ලේදී පැවසීය.
+
+"අපි කණ්ඩායමක් රුසියාවට ගොස් රුසියාවේ ආරක්ෂක නියෝජ්‍ය අමාත්‍යවරයා හා විදේශ කටයුතු නියෝජ්‍ය අමාත්‍යවරයා සමග රාජ්‍ය තාන්ත්‍රික මට්ටමින් සාකච්ජා කළා. එහිදි අපට දැනුම්දී තිබුණා 464 දෙනෙක් ගැන."
+
+මෙම සිද්ධිය ගැන තොරතුරු සොයා බැලීමට විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය, පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන ගාමිණී වලේබොඩ, දයාසිරි ජයසේකර මහතා ඇතුළු රාජ්‍ය නිලධාරීන් 8 දෙනෙකු පසුගියදා දිවයිනෙන් පිටත්ව ගොස් තිබුණි.
+
+◼️
+
+[Data](articles/4c9b6a27.json)
+
+---
 
 ### Thamillon celebrates the fourth anniversary
 
@@ -2092,6 +2150,20 @@ Sri Lanka has earned US $ 125 million from the process of peacekeeping of the Re
 
 ---
 
+### ගුවන් හමුදාවේ හෙලිකොප්ටරයක් අරන් යන්න ලොව විශාලම ගුවන් යානයක් කටුනායකට
+
+*2024-06-28 20:14:32* · [`adalk`](https://www.ada.lk/uncategorized/ගුවන්-හමුදාවේ-හෙලිකොප්ටරයක්-අරන්-යන්න-ලොව-විශාලම-ගුවන්-යානයක්-කටුනායකට/1-410493) · `si`
+
+මධ්‍යම අප්‍රිකානු ජනරජයේ සාම සාධක රාජකාරී වල නිරත වී සිටින ශ්‍රී ලංකා ගුවන් හමුදාව සදහා , ඔවුන් සතු " එම්.අයි. - 17 " වර්ගයේ හෙලිකොප්ටර් යානයක් රැගෙන යාම සදහා ලොව විශාලතම භාණ්ඩ ප්‍රවාහන ගුවන් යානයක් වන " ඇන්ටනෝව් - 124 " ( Antonov - 124) ගුවන් යානයක් 06/28 දින පස්වරු 02.45 ට කටුනායක ගුවන් හමුදා කදවුර වෙත පැමිණියේය .
+
+ශ්‍රී ලංකා ගුවන් හමුදාව 2014 වසරේ සිට මධ්‍යම අප්‍රිකානු ජනරජයේ සාම සාධක රාජකාරී වල නිරත වී සිටින අතර , වර්තමානයේ එහි එම්.අයි.- 17 වර්ගයේ හෙලිකොප්ටර් යානා 03 ක් ද එහි සේවා සදහා යොදවා තිබේ. මෙයින් එක් හෙලිකොප්ටර් යානයක අත්‍යාවශ්‍ය ප්‍රධාන නඩත්තු කටයුත්තක් (Major Overhaul ) සිදු කිරීමට ඇති නිසා , එම යානය එරටින් ඉවත් කර ශ්‍රී ලංකාවට රැගෙන ඒමට ප්‍රථම , මෙම එම්.අයි.- 17 හෙලිකොප්ටර් යානය එරට ශ්‍රී ලංකා හෙලිකොප්ටර් බල ඝනය වෙත එකතු කිරීම සදහා මෙසේ රැගෙන යාම සිදු කිරීමට පියවර ගෙන තිබේ.
+
+...
+
+[Data](articles/f556f64d.json)
+
+---
+
 ### Officers who ignore Tharushi's Olympics
 
 *2024-06-28 19:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198267) · `si`
@@ -2189,103 +2261,5 @@ After the end of the war, there was a need to establish peace in Jaffna. For tha
 [Data](articles/a9362b75.json)
 
 [Extended Data](ext_articles/a9362b75.ext.json)
-
----
-
-### Cocaine and Kush cannabis worth over Rs. 190M inside ‘whey protein’ containers
-
-*2024-06-28 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100168/cocaine-and-kush-cannabis-worth-over-rs-190m-inside-whey-protein-containers) · `en`
-
-Officers of the Sri Lanka Customs Narcotics Control Unit have seized cocaine and ‘Kush’ cannabis estimated to be worth nearly Rs. 160 million found inside 6 parcels during inspections carried out at a courier clearance station in Seeduwa.
-
-A total of 2,030 grams of cocaine and 2,177 grams of ‘Kush’ cannabis were found inside several whey protein powder containers packed in the parcels, which had been sent from Canada and America to addresses in Colombo and Kadawatha.
-
-However, following investigations conducted regarding the respective addresses, it has been revealed that those addresses are fake.
-
-The parcels were opened due to suspicion as no one had come forward to collect them even after one month had passed since their arrival, a spokesman said.
-
-The Sri Lanka Customs said that the estimated street value of drugs is almost Rs. 190 million.
-
-The confiscated drugs are to be handed over to the Police Narcotics Bureau for further investigations.
-
-◼️
-
-[Data](articles/20128d7b.json)
-
-[Extended Data](ext_articles/20128d7b.ext.json)
-
----
-
-### Sri Lanka implements Banking (Amendment) Act No. 24 of 2024
-
-*2024-06-28 19:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-implements-banking-amendment-act-no-24-of-2024-170160/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank announced that the Banking (Amendment) Act No. 24 of 2024, which aims to strengthen the legal and regulatory framework applicable for licensed commercial banks and licensed specialised banks, is in effect from June 15.
-
-“These amendments were formulated with a view to further strengthening the legal and regulatory framework applicable for licensed commercial banks and licensed specialised banks to enhance the resilience of the banking sector of Sri Lanka,” CBSL said in a statement.
-
-“The recent amendments were formulated considering the developments in the current regulatory framework, economic and market developments, the best practices and international standards adopted on
-
-prudential requirements to the context of the local banking sector.”
-
-Observations of relevant stakeholders including the banking sector, Panel of Auditors conducting
-
-audits of banks, other regulators and authorities were considered when drafting the amendments, CBSL said.
-
-...
-
-[Data](articles/eda9fe1b.json)
-
-[Extended Data](ext_articles/eda9fe1b.ext.json)
-
----
-
-### Inmates who were brought to court
-
-*2024-06-28 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198266) · `si`
-
-Two inmates from Kuruwita prison escaped to the Tulhiriya Magistrate's Court, suspected by prison officials. The escapees, including Roshan Asanka and JKNna Prabodo, are wanted in several cases across Pelmadulla, Attanagalla, Horana, and Warakapola. Police, aided by dogs, are investigating their escape and whereabouts.
-
-🟩
-
-Prison officials have been puspected by two inmates in Kuruwita prison to the Tulhiriya Magistrate's Court today (28).
-
-The suspects have fled handcuffs and Warakapola Police are conducting further investigations.
-
-One suspect is a resident of Roshan Asanka, another residents of the Suspect, and the other suspect named JDKnna Prabodo.
-
-The suspects have a number of cases in courts in Pelmadulla, Attanagalla, Horana and Warakapola.
-
-Police said that the assistance of police dogs were also supported for the investigation investigations.
-
-◼️
-
-[Data](articles/cd5d7c0c.json)
-
-[Extended Data](ext_articles/cd5d7c0c.ext.json)
-
----
-
-### If Sri Lanka could not build the economy of Sri Lanka, Sri Lanka would have become another Kenya - President
-
-*2024-06-28 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/187217) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of economic stability during his speech at the President's Environmental Awards for 2024, comparing Sri Lanka's situation to Kenya's economic crisis. He highlighted the need for countries to address climate change and economic challenges collaboratively, advocating for debt relief for African nations and criticizing the allocation of funds to wars instead of addressing climate change. The President also discussed Sri Lanka's initiatives towards a digital and green economy, including a climate change law and an International University on Climate Change, while urging international cooperation to tackle climate change effectively.
-
-🟩
-
-Kenya is facing massive crisis due to economic issues. President Ranil Wickremesinghe said that it would be imperative to prepare the economy of a country, and that if the economic situation failed to create an economic situation within the country, the situation would have been the case.
-
-The President was speaking at the President's Environmental Awards for 2024 at the Bandaranaike Memorial International Conference Hall in Colombo.
-
-“The President also said that the debt of the economic weak African regional countries that faced climate change should be abolished.
-
-In addition, the President said that Sri Lanka is ready to accept regional leadership on the change of climate change and that Sri Lanka is now carrying out various activities within the international community.
-
-...
-
-[Data](articles/a8ae4f5e.json)
-
-[Extended Data](ext_articles/a8ae4f5e.ext.json)
 
 ---

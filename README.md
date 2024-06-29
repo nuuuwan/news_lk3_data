@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 09:54:18**
+As of **2024-06-29 10:06:53**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,390
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,749 (100.0%) of 32,750 articles have been extended.
+32,750 (100.0%) of 32,750 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Minister of Foreign Affairs Ali Sabry revealed this addressing the Media briefin
 ...
 
 [Data](articles/5f21d403.json)
+
+[Extended Data](ext_articles/5f21d403.ext.json)
 
 ---
 

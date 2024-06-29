@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 11:35:01**
+As of **2024-06-29 11:54:23**
 
 ## Newspaper Stats
 
-*Scraped **32,761** Articles*
+*Scraped **32,762** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,821
 economynextcom | 1,922
 dailyftlk | 2,015
 adalk | 2,898
-adaderanalk | 3,727
+adaderanalk | 3,728
 tamilmirrorlk | 3,869
 dailymirrorlk | 4,733
 virakesarilk | 5,104
@@ -26,41 +26,73 @@ adaderanasinhalalk | 5,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,759 (100.0%) of 32,761 articles have been extended.
+32,761 (100.0%) of 32,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
 
-### வாள்கள், கைக்கோடாரிகளுடன் இளைஞர்கள் கைது
+### World ‘failing’ to meet development goals: UN chief
+
+*2024-06-29 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100177/world-failing-to-meet-development-goals-un-chief) · `en`
+
+War and funding shortfalls have hampered progress toward the United Nations’ flagship development goals which include action to combat climate change, the organization’s Secretary-General Antonio Guterres warned on Friday.
+
+In 2015, UN member states adopted the Sustainable Development Goals, 17 targets to transform the world by 2030 including by completely ending extreme poverty and eliminating hunger.
+
+But Guterres said Friday that “the world is getting a failing grade.”
+
+“Our failure to secure peace, to confront climate change, and to boost international finance is undermining development,” he told a briefing in New York, unveiling the latest progress check on the targets.
+
+“We must accelerate action for the sustainable development goals, and we don’t have a moment to lose — only 17 percent of the targets (are) on track.”
+
+...
+
+[Data](articles/3f29b070.json)
+
+---
+
+### Youth arrested with swords, handicaps
 
 *2024-06-29 11:19:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வாள்கள்-கைக்கோடாரிகளுடன்-இளைஞர்கள்-கைது/71-339594) · `ta`
 
-யாழ்ப்பாணம் - கோண்டாவில் பகுதியில் ஆயுதங்களுடன் மூன்று பேர் கோப்பாய் பொலிஸாரால் நேற்றைய தினம் கைது செய்யப்பட்டனர்.
+Three individuals, including a 24-year-old from Point Pedro, were arrested by Kopay police in the Jaffna-Kondavil area for possessing weapons. They will be presented at the Jaffna Magistrate's Court today.
 
-பருத்தித்துறையைச் சேர்ந்த 24 வயதான மூவர் கோண்டாவில் பகுதியில் உள்ள வீடொன்றுக்கு அருகில் கூடியிருந்த போது இவ்வாறு கைது செய்யப்பட்டனர்.
+🟩
 
-கைது செய்யப்பட்டவர்களை யாழ்ப்பாணம் நீதவான் நீதிமன்றத்தில் இன்று (29) முற்படுத்த கோப்பாய் பொலிஸார் நடவடிக்கை எடுத்துள்ளனர். R
+Three persons were arrested by Kopay police yesterday with weapons in the Jaffna -Kondavil area.
+
+The 24 -year -old from Point Pedro was arrested while gathering near a house in Kondavil area.
+
+Kopay police have taken steps to appear at the Jaffna Magistrate's Court today (29). Remble
 
 ◼️
 
 [Data](articles/58f94762.json)
 
+[Extended Data](ext_articles/58f94762.ext.json)
+
 ---
 
-### இலங்கைக்கு வந்த உலகின் மிகப் பெரிய சரக்கு விமானம்
+### The world's largest cargo flight to Sri Lanka
 
 *2024-06-29 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/187234) · `ta`
 
-உலகின் மிகப் பெரிய சரக்கு விமானங்களில் ஒன்றான என்டனோவ் 124 (ANTONOV-124) வெள்ளிக்கிழமை (28) கட்டுநாயக்க விமான நிலையத்தில் தரையிறங்கியது.
+The Antonov 124, the world's largest cargo plane, delivered a MI-17 helicopter to Sri Lanka's Katunayake airport for use by its soldiers in peacekeeping missions in the Central African Republic, marking a significant delivery for Sri Lanka's peacekeeping efforts.
 
-மத்திய ஆபிரிக்க குடியரசில் அமைதிப்பணிகளில் ஈடுபட்டுள்ள  இலங்கையின் படையினருக்கு எம்ஐ 17 ஹெலிகொப்டர் (MI-17 helicopter) ஒன்றை கொண்டு செல்வதற்காகவே இந்த விமானம்  இலங்கைக்கு வந்தது.
+🟩
 
-2014 ஆம் ஆண்டு முதல் மத்திய ஆபிரிக்க குடியரசில் அமைதி காக்கும் பணிகளில்,  இலங்கையின் படையினர் தீவிரமாக ஈடுபட்டு வருகின்றனர்.
+Entonov 124, one of the world's largest cargo aircraft, landed at the Katunayake airport on Friday (28).
+
+The aircraft came to Sri Lanka to carry a MI-17 Helicopter for Sri Lankan soldiers engaged in peacekeeping in the Central African Republic.
+
+Sri Lankan soldiers have been actively engaged in peacekeeping work in the Central African Republic since 2014.
 
 ◼️
 
 [Data](articles/1276ac34.json)
+
+[Extended Data](ext_articles/1276ac34.ext.json)
 
 ---
 
@@ -2223,23 +2255,5 @@ It is also a very distressing thing that the Sri Lankan agencies that are being 
 [Data](articles/3f5bf8cb.json)
 
 [Extended Data](ext_articles/3f5bf8cb.ext.json)
-
----
-
-### Derailment disrupts train services on up-country line
-
-*2024-06-28 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100164/derailment-disrupts-train-services-on-up-country-line) · `en`
-
-Train services along the up-country railway line have been disrupted owing to the derailment of the ‘Podi Menike’ train near the Watawala Railway Station, the Nawalapitiya Railway Control Room said.
-
-The accident took place today (28) at around 11.00 a.m. while the train was plying from Colombo Fort to Badulla.  The control room further stated that several wheels of the train’s front engine have derailed.
-
-The work related to restoring the ‘Podi Menike’ train has already commenced, a spokesman said.
-
-◼️
-
-[Data](articles/63328b3d.json)
-
-[Extended Data](ext_articles/63328b3d.ext.json)
 
 ---

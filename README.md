@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 14:53:57**
+As of **2024-06-29 15:04:38**
 
 ## Newspaper Stats
 
-*Scraped **32,780** Articles*
+*Scraped **32,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,821
 economynextcom | 1,922
 dailyftlk | 2,015
 adalk | 2,898
-adaderanalk | 3,730
-tamilmirrorlk | 3,872
+adaderanalk | 3,731
+tamilmirrorlk | 3,873
 dailymirrorlk | 4,733
 virakesarilk | 5,109
 adaderanasinhalalk | 5,398
@@ -26,11 +26,45 @@ adaderanasinhalalk | 5,398
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,779 (100.0%) of 32,780 articles have been extended.
+32,780 (100.0%) of 32,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
+
+### 2 fishermen dead, 4 critical after consuming unknown liquid at sea
+
+*2024-06-29 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100180/2-fishermen-dead-4-critical-after-consuming-unknown-liquid-at-sea) · `en`
+
+Two of the six crew members of a fishing vessel that set out from Tangalle have died, and the remaining four are in critical condition after consuming the contents of a bottle they found floating in the sea, assuming it was liquor.
+
+The incident has reportedly occurred while the boat was around 320 nautical miles (592.64 km) off the coast of Sri Lanka.
+
+Sri Lanka Navy Spokesperson said the vessel is being towed back to land with the help of another craft.
+
+◼️
+
+[Data](articles/bd7daf3d.json)
+
+---
+
+### மது என நினைத்து மிதந்து வந்த விஷத்தை குடித்தவர்கள் மரணம்
+
+*2024-06-29 14:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மது-என-நினைத்து-மிதந்து-வந்த-விஷத்தை-குடித்தவர்கள்-மரணம்/175-339598) · `ta`
+
+தங்காலை மீன்பிடி துறைமுகத்தில் இருந்து கடலுக்குச் சென்ற இரண்டு மீனவர்கள் மது என நினைத்து விஷக் கரைசலை குடித்து உயிரிழந்துள்ளனர்.
+
+நேற்று (28) இரவு கடலில் மிதந்து வந்த போத்தல்கள் சில இவர்களுக்கு கிடைத்துள்ள நிலையில், அதனை மதுபானம் என நினைத்து அருந்தியுள்ளனர்.
+
+இதில் மேலும் நான்கு மீனவர்களின் நிலைமை கவலைக்கிடமாக இருப்பதாக கடற்றொழில் பணிப்பாளர் நாயகம் சுசந்த கஹவத்த தெரிவித்தார்.
+
+தங்காலை மீன்பிடித் துறைமுகத்திலிருந்து மீன்பிடி நடவடிக்கைகளுக்காகப் புறப்பட்ட “டெவோன்” என்ற பல்நாள் மீன்பிடி படகில் இருந்த 06 மீனவர்களே இச்சம்பவத்திற்கு முகங்கொடுத்துள்ளதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/3f8e39ee.json)
+
+---
 
 ### Two fishermen killed in fishermen who were born in the sea
 
@@ -84,25 +118,33 @@ The Sri Lankan delegation was discussed with the Deputy Minister of Russian Fore
 
 ---
 
-### திருகோணமலையில் இஸ்ரேலிய சுற்றுலாப் பயணி மாயம்
+### Israeli tourist magic in Trincomalee
 
 *2024-06-29 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/187251) · `ta`
 
-நாட்டுக்கு வருகை தந்த இஸ்ரேலிய பெண் சுற்றுலாப் பயணி ஒருவர் திருகோணமலையில் காணாமல் போயுள்ளார்.
+An Israeli tourist, Tamar Amitai, vanished in Trincomalee after checking into a hotel on the 22nd. The local police initiated an investigation upon receiving a complaint from the hotel owner. The International Search and Recovery Organization, Magnus, has offered assistance, sharing contact details for anyone with information.
 
-இது தொடர்பில் பொலிஸாருக்குக் கிடைக்கப்பெற்றுள்ள முறைப்பாட்டுக்கு அமைய திருகோணமலை உப்புவெளி பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+🟩
 
-கடந்த 22ஆம் திகதி நாட்டுக்கு வருகை தந்த 25 வயதுடைய டேமர் எமிடாய் (Tamar Amitai) என்ற இஸ்ரேலிய பெண் சுற்றுலாப் பயணியே திருகோணமலைக்கு சென்றிருந்த நிலையில் காணாமல் போயுள்ளார்.
+An Israeli female tourist who visits the country has disappeared in Trincomalee.
 
-அவர் இணையவழி ஊடாக திருகோணமலையிலுள்ள ஹோட்டலில் அறை ஒன்றை முன்பதிவு செய்து, 22ஆம் திகதி அங்கு சென்று தங்கியுள்ளார்.
+The Trincomalee Uppuweli police have launched an investigation into the complaint made to the police.
 
-இந்நிலையில், அவர் 26ஆம் திகதி முதல் காணாமல் போயுள்ளார். இதனையடுத்து, ஹோட்டலின் உரிமையாளர் பொலிஸில் முறைப்பாடு செய்துள்ளார்.
+Tamar Amitai, an Israeli woman, who was traveling to the country on the 22nd, disappeared as she went to Trincomalee.
 
-காணாமல் போன சுற்றுலாப் பயணி தொடர்பில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதாகவும், ஆனால், இதுவரை எவ்வித தகவலும் கிடைக்கவில்லை எனவும் உப்புவெளி பொலிஸ் பொறுப்பதிகாரி தெரிவித்துள்ளார்.
+He booked a room at a hotel in Trincomalee through enemy and went there on the 22nd.
 
-...
+In this case, he has disappeared since the 26th. Subsequently, the owner of the hotel has lodged a complaint with the police.
+
+The Uppuveli Police Officer said that investigations have been launched in connection with the missing tourist but have not yet received any information.
+
+The International Search and Recovery Organization, Magnus, has shared a post on social media that the tourist will be informed of the +972508899698 or the Sar@Magnus.co.il email address.
+
+◼️
 
 [Data](articles/cafbec14.json)
+
+[Extended Data](ext_articles/cafbec14.ext.json)
 
 ---
 
@@ -2209,61 +2251,5 @@ Meanwhile food inflation has increased to 1.4% in June 2024, compared to 0.0% in
 [Data](articles/a538a925.json)
 
 [Extended Data](ext_articles/a538a925.ext.json)
-
----
-
-### Canada and America's drug parcels
-
-*2024-06-28 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198263) · `si`
-
-Sri Lanka Customs seized six drug-laden parcels containing cocaine and kush, totaling 2,030 drugs and 25,177 grams, valued at nearly Rs. 190 million. The parcels were addressed to Canadian and American residents in Kadawatha but had fake addresses. They will be investigated by the Narcotics Division.
-
-🟩
-
-The Sri Lanka Customs Drug Administration Unit has inspected six parcels suspected to have been drugged in the Currie Production Clearance of the Currie Production Clearance.
-
-Cocaine has found 2,030 drugs and 25,177 grams of Kashine in the parcels.
-
-These parcels have been sent to people of residents of Canada and from US to residents of Kadawatha.
-
-Investigations into the addresses have revealed that the addresses were fake.
-
-The Sri Lanka Customs Drug Advancement said that the market value of these drugs was nearly Rs. 190 million.
-
-The drug will be handed over to the Narcotics Division for further investigations.
-
-◼️
-
-[Data](articles/e6c22f38.json)
-
-[Extended Data](ext_articles/e6c22f38.ext.json)
-
----
-
-### Threatening to free comments in Batticaloa district - Anuragumara Dissanayake
-
-*2024-06-28 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187203) · `ta`
-
-Anura Kumara Dissanayake, head of the National People's Power, criticized threats against free speech in Batticaloa, highlighting political tensions and the need for change. He addressed a teachers' conference, emphasizing education and teacher rights. Political alliances and leadership changes were discussed, with mentions of Sajith Premadasa's lack of local council membership influencing his leadership position. The event underscored the call for new politics to address communal issues and corruption, with references to historical struggles and the potential for change through unity and strong leadership.
-
-🟩
-
-The National People's Power President Anura Kumara Dissanayake said that the threat that is not free to express their opinions in the Batticaloa district is being issued by Pillaiyan.
-
-Sajith is the leader of the party with the name of former President Premadasa. Sajith Premadasa is not even a member of the Batticaloa Municipal Council if his father was not a former president.
-
-The Batticaloa District Conference of the Sri Lanka Teachers Service Association was held on Thursday afternoon at the William Hall in Batticaloa.
-
-Batticaloa District Secretary of the Sri Lanka Teachers Service Association. A. National People's Power President Anura Kumara Dissanayake was the chief guest at the event chaired by Tesman.
-
-Education is over ..!The conference was organized by the Sri Lanka Teachers Service Association on how to win the rights of teachers.
-
-The event was attended by many including the General Secretary of the Sri Lanka Teachers Service Association, Mahinda Jayasinghe.
-
-...
-
-[Data](articles/e6aaab9a.json)
-
-[Extended Data](ext_articles/e6aaab9a.ext.json)
 
 ---

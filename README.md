@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 18:35:29**
+As of **2024-06-29 18:53:29**
 
 ## Newspaper Stats
 
-*Scraped **32,800** Articles*
+*Scraped **32,801** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,821
 economynextcom | 1,922
 dailyftlk | 2,015
-adalk | 2,904
+adalk | 2,905
 adaderanalk | 3,733
 tamilmirrorlk | 3,874
 dailymirrorlk | 4,733
@@ -26,25 +26,47 @@ adaderanasinhalalk | 5,407
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,799 (100.0%) of 32,800 articles have been extended.
+32,800 (100.0%) of 32,801 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
 
-### සුඩානයේ දරුණු සාගතයක්
+### A severe famine in Sudan
 
 *2024-06-29 18:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198295) · `si`
 
-වසරක අධික කාලයක සිට සිවිල් යුද්ධයකට මැදිව සිටින සුඩාන ජනතාවගෙන් අඩක් දරුණු සාගතයකට මුහුණ දෙමින් සිටින බව එක්සත් ජාතීන් අවධාරණය කරයි.
+In Sudan, a severe famine affects half of its population caught in conflict. People resort to extreme measures like eating leaves and soil due to dire food shortages. This crisis is deemed the world's worst food insecurity situation.
 
-ඇතැම් සුඩාන ජාතිකයින් කුසගින්න නිවා ගැනීම සඳහා දැනටමත් කොළ සහ පස් ආහාරයට ගන්නා බවද සඳහන්ය.
+🟩
 
-ලොව දරුණුතම සාගතයක් ලෙස වාර්තා අතරට එක්ව ඇති සුඩාන ආහාර අර්බුදය සැලකෙන්නේ එරටින් මෙතෙක් වාර්තා වී ඇති දරුණුතම ආහාර අනාරක්ෂිතතාව ලෙසය.
+The United Nations emphasizes that half of the Sudan people who are in a central war have been facing a serious famine.
+
+It is said that some Sudan nationals are already eating leaves and soil to turn hunger.
+
+The Sudan Food crisis is considered as the worst famine in the world as the worst food insecurity so far reported so far.
 
 ◼️
 
 [Data](articles/81c07aa1.json)
+
+[Extended Data](ext_articles/81c07aa1.ext.json)
+
+---
+
+### මුහුදේ පාවෙමින් තිබූ බෝතල් දියරයක් පානය කර ධිවරයන් දෙදෙනෙක් මරුට
+
+*2024-06-29 17:48:33* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදේ-පාවෙමින්-තිබූ-බෝතල්-දියරයක්-පානය-කර-ධිවරයන්-දෙදෙනෙක්-මරුට/11-410503) · `si`
+
+තංගල්ල ධීවර වරායෙන් ධීවර කටයුතු සඳහා පිටත් ගොස් ඇති ධීවරයින් හය දෙනෙකු (06) රැගත් මෙරට බහුදින ධීවර යාත්‍රාවක සිටි  ධීවරයින් පිරිස, මුහුදේ පාවෙමින් තිබූ බෝතලයක තිබූ  දියරයක් පානය කර එය විෂ වී, එම ධීවරයින් පිරිස අසාධ්‍ය තත්වයට පත්ව, ඉන් ධීවරයින් දෙදෙනෙකු (02) ජීවිතක්ෂයට පත්ව තිබේ.
+
+එම ධීවරයින් පිරිස කඩිනමින් වෛද්‍ය ආධාර ලබාදී ගොඩබිමට රැගෙන ඒමට සහය වන ලෙස, ධීවර  හා ජලජ සම්පත් දෙපාර්තමේන්තුව වෙතින් නාවික හමුදා මූලස්ථානයේ  කොළඹ සමුද්‍රීය සෙවීම් හා මුදවා ගැනීම් සම්බන්ධීකරණ මධ්‍යස්ථානය වෙත අද දින දහවල් (2024 ජූනි 29) දැනුම් දීමක් කර ඇතැයි නාවික හමුදාව නිවේදනය කරයි.
+
+එම දැනුම් දීමට වහාම ප්‍රතිචාර දැක්වූ නාවික හමුදාව, කොළඹ සමුද්‍රීය සෙවීම් හා මුදවා ගැනීම් සම්බන්ධීකරණ මධ්‍යස්ථානය මඟින් නාවික සැතපුම් 365 ක් පමණ දුර මුහුදේ දියරයක් විෂ වී ආපදාවට පත්  ධීවරයින් වෙත   සහන සැලසීම සඳහා එම ප්‍රදේශය ඔස්සේ යාත්‍රා කරනු ලබන නෞකා දැනුවත් කිරීමට අවශ්‍ය කටයුතු සිදුකරමින් පවතින අතර, නාවික හමුදා වෛද්‍යවරයෙක් මඟින්  සන්නිවේදන  උපකරණ මාර්ගයෙන් වෛද්‍ය උපදෙස් ලබා දීමට කටයුතු කෙරිණි.
+
+...
+
+[Data](articles/f1bf0626.json)
 
 ---
 
@@ -2275,29 +2297,5 @@ Sri Lanka has earned US $ 125 million from the process of peacekeeping of the Re
 [Data](articles/b85b99ad.json)
 
 [Extended Data](ext_articles/b85b99ad.ext.json)
-
----
-
-### Katunayake to take a helicopter to take a helicopter
-
-*2024-06-28 20:14:32* · [`adalk`](https://www.ada.lk/uncategorized/ගුවන්-හමුදාවේ-හෙලිකොප්ටරයක්-අරන්-යන්න-ලොව-විශාලම-ගුවන්-යානයක්-කටුනායකට/1-410493) · `si`
-
-The Sri Lanka Air Force, involved in peacekeeping in the Central African Republic since 2014, received an Antonov-124 cargo plane at Katunayake Air Force base. This visit coincides with significant maintenance work on one of their helicopters. The force operates three types of helicopters in the region, utilizing them for troop transport, medical emergencies, and other critical missions. Their peacekeeping efforts have generated $125 million for Sri Lanka.
-
-🟩
-
-For the Sri Lanka Air Force, which is engaged in peacekeeping of peacekeeping in peace factors in the Central African Republic, their "MI '. - 17 "Antonov - 124" (Antonov - 124) A plane came to Katunayake at Katunayake at Katunayake at Katunayake Air Force.
-
-The Sri Lanka Air Force has been working in peace factors in the Central African Republic from 2014 and currently has three helicopters and three types of helicopters.. This MI has taken a major maintenance activity in one helicopter (major overhaul), so that the plane was removed and the helicopter was to add Sri Lankan helicopters to the thick of Sri Lanka's helicopter power.Steps have been taken to perform.
-
-The Sri Lanka Air Force helicopters in the Central African Republic is using the transport of troops, internal flights, emergency medical care and emergency and transportation.
-
-Sri Lanka has earned US $ 125 million from the process of peacekeeping of the Republic of Central African Republic.
-
-...
-
-[Data](articles/f556f64d.json)
-
-[Extended Data](ext_articles/f556f64d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 10:34:45**
+As of **2024-06-29 10:54:18**
 
 ## Newspaper Stats
 
-*Scraped **32,750** Articles*
+*Scraped **32,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,100 @@ dbsjeyarajcom | 300
 bbccomsinhala | 321
 newsfirstlk | 363
 islandlk | 1,821
-economynextcom | 1,920
+economynextcom | 1,922
 dailyftlk | 2,015
 adalk | 2,896
-adaderanalk | 3,726
+adaderanalk | 3,727
 tamilmirrorlk | 3,867
 dailymirrorlk | 4,733
-virakesarilk | 5,101
-adaderanasinhalalk | 5,390
+virakesarilk | 5,103
+adaderanasinhalalk | 5,391
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,750 (100.0%) of 32,750 articles have been extended.
+32,750 (100.0%) of 32,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
+
+### ජල සැපයුම විසන්ධි කළ ප්‍රදේශ
+
+*2024-06-29 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198277) · `si`
+
+කොළඹ ඇතුළු ප්‍රදේශ කිහිපයකට අද (29) වනදා ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
+
+ඒ අනුව අද පෙරවරු 9 සිට මධ්‍යම රාත්‍රී 12 දක්වා පැය 15ක කාලයක් ජලසැපයුම අත්හිටුවනු ඇත.
+
+කොළඹ, දෙහිවල, ගල්කිස්ස, කෝට්ටේ, කඩුවෙල යන මහනගර සභා බලප්‍රදේශ, මහරගම, බොරලැස්ගමුව,කොළොන්නාව යන නගර සභා බල ප්‍රදේශ සහ කොටිකාවත්ත, මුල්ලේරියාව යන ප්‍රාදේශීය සභා බල ප්‍රදේශවලට ජලසැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය වැඩිදුරටත් සඳහන් කරයි.
+
+ඊට අමතරව මොරටුව මහනගර සභා බල ප්‍රදේශයේ අඩුපීඩන තත්ත්වය යටතේ ජලය සැපයෙන බවද ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
+
+අඹතලේ ජල පවිත්‍රාගාරයේ අත්‍යවශ්‍ය නවීකරණ කටයුත්තක් සහ ජල පිරිපහදු පද්ධතියේ නඩත්තු කටයුත්තක් හේතුවෙන් මෙම ජල කප්පාදුව සිදුකිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/d56010a6.json)
+
+---
+
+### Sri Lanka Police to destroy over 1,200kg of narcotics today
+
+*2024-06-29 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100175/sri-lanka-police-to-destroy-over-1200kg-of-narcotics-today) · `en`
+
+Sri Lanka Police Headquarters announced that steps will be taken today (29) to destroy over 1,208 kilograms of drugs following the completion of court proceedings in relation to them.
+
+A spokesperson for the Police Headquarters stated that the destroying of the seized drugs would take place using a high-powered drug incinerator at the Wanathawilluwa Lactose Estate.
+
+The drugs slated for destruction include 614 kg and 36 g of ‘Ice’ (Crystal methamphetamine), 13 kg and 686 g of heroin, and 581 kg and 34 g of ketamine.
+
+The confiscated drugs are to be transferred this morning to officials from the Police Narcotics Bureau (PNB) at the Colombo High Court at 9:30 a.m. They will then be transported to the Wanathawilluwa Lactose Estate, where they will be incinerated.
+
+...
+
+[Data](articles/b623728b.json)
+
+---
+
+### Sri Lanka inflation rise only 3.3-pct over 21-months to June 2024
+
+*2024-06-29 10:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-inflation-rise-only-3-3-pct-over-21-months-to-june-2024-170208/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s inflation rose 3.3 percent over 21 months from October 22 when monetary stability was reached, data from the state statistics office showed with 12-month inflation at 1.7 percent.
+
+The central bank has operated largely deflationary policy though excess liquidity was allowed to build up over April and May, leading to some downward pressure on the rupee due the so-called ‘flexible’ exchange rate which critics say is riddled with anchor conflicts.
+
+Under the flexible exchange rate with a reserve target, the International Monetary Fund encourage countries with monetary instability to buy dollars to prevent currency strengthening but discourages sales, when credit boost import demand, leading to confidence shocks to both exchange and market rates.
+
+Since September 2022 when monetary stability was reached the exchange rate has been allowed to appreciate from 360 to the 305 to the US dollar.
+
+...
+
+[Data](articles/9b016771.json)
+
+---
+
+### உக்ரைனிற்கு எதிராக போரிடும் இலங்கையர்கள் பலர் ரஸ்ய பிரஜைகளாக மாறியுள்ளனர் – அலிசப்ரி
+
+*2024-06-29 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187227) · `ta`
+
+உக்ரைனிற்கு எதிராக போரிடும் இலங்கையை சேர்ந்த கூலிப்படையினரில் ரஸ்ய பிரஜைகளாக மாறியுள்ளனர் என வெளிவிவகார அமைச்சர் அலி சப்ரி தெரிவி;த்துள்ளார்.
+
+உக்ரைன் போர் முனைகளில் சிக்குண்டவர்களை மீட்டுதருமாறு கோரும் 446 முறைப்பாடுகள் இலங்கை வெளிவிவகார அமைச்சிற்கு கிடைத்துள்ளன என அலிசப்ரி தெரிவித்துள்ளார்.
+
+அவர்களில் பலர் ரஸ்ய பிரஜைகளாக மாறியுள்ளனர் ரஸ்ய குடியுரிமையை பெற்றுக்கொண்டுள்ளனர் என அவர் தெரிவித்துள்ளார்.
+
+இன்னுமொரு நாட்டின் பிரஜாவுரிமையை நீங்கள் பெற்றுக்கொண்டால் இலங்கையின் பிரஜாவுரிமையை நீங்கள் இழந்துவிடுவீர்கள் நீங்கள் இலங்கை பிரஜை இல்லை என்பதால் உங்களின் சார்பில் பேசுவதற்கு எங்களிற்கு உரிமையில்லை என அலிசப்ரி தெரிவித்துள்ளார்.
+
+சிலர் தவறாக வழிநடத்தப்பட்டுள்ளனர் போல தோன்றுகின்றது முகாம்களில் உதவியாளர்களாக பணியாற்றுவதற்காக சேர்க்கப்படுவதாக தெரிவித்து அவர்களை போருக்குள் சிக்கவைத்துள்ளனர் என அலிசப்ரி தெரிவித்துள்ளார்.ஏனையவர்கள் தெரிந்தே இணைந்துகொண்டுள்ளனர் என அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/3af58990.json)
+
+---
 
 ### Sri Lanka gains advantage of USD 17 billion from debt repayment plan - Ali Sabry
 
@@ -73,6 +149,22 @@ The Department has informed the fisheries and the naval community as no leoming 
 [Data](articles/c2178f13.json)
 
 [Extended Data](ext_articles/c2178f13.ext.json)
+
+---
+
+### மீனவர்களுக்கு விடுக்கப்பட்டுள்ள எச்சரிக்கை!
+
+*2024-06-29 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/187226) · `ta`
+
+கடலுக்கு செல்லும் மீனவர்களும் கடல் சார் ஊழியர்களும் அவதானத்துடன் கடற்றொழில் நடவடிக்கைளில் ஈடுபடுமாறு  வளிமண்டலவவியல் திணைக்களத்தின் இயற்கை அபாயங்கள் முன்னெச்சரிக்கை மையம் தெரிவித்துள்ளது.
+
+தென்மேற்கு பருவமழை நிலை காரணமாக அரபிக் கடல் பகுதியில் மணிக்கு 80 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் எனவும், கடல் கொந்தளிப்பாகவும் இருக்கும் இயற்கை அபாயங்கள் முன்னெச்சரிக்கை மையம் தெரிவித்துள்ளது.
+
+மேற்குறிப்பிட்ட கடல் பகுதிகளில் இருப்பவர்கள் உடனடியாக கரையோரங்களுக்கு திரும்பவும் அல்லது பாதுகாப்பான பகுதிகளுக்கு செல்லவும் அறிவுறுத்தப்படுகிறார்கள்.
+
+◼️
+
+[Data](articles/a7451173.json)
 
 ---
 
@@ -163,6 +255,24 @@ It is noteworthy that despite such activities, we have been working as a country
 [Data](articles/78d041db.json)
 
 [Extended Data](ext_articles/78d041db.ext.json)
+
+---
+
+### Sri Lankan mercenaries receive 3mn rubles for injuries on Russian front: Minister
+
+*2024-06-29 07:21:00* · [`economynextcom`](https://economynext.com/sri-lankan-mercenaries-receive-3mn-rubles-for-injuries-on-russian-front-minister-170181/) · `en`
+
+ECONOMYNEXT – Sri Lankan mercenaries fighting in the Russia-Ukraine war on the Russian side will receive up to 3 million rubles (10,740,257.48 Sri Lanka rupees) as compensation if injured, Minister of Foreign Affairs Ali Sabry said.
+
+“It’s about up to 3 million for injuries in rubles and up to 12 million (42,835,154.57 Sri Lankan rupees) for death,” Sabry told reporters on Friday.
+
+A Sri Lankan delegation to Russia led by State Minister for Foreign Affairs Tharaka Balasuriya, had discussed the issue of compensation.
+
+The Sri Lankan foreign ministry maintains that there have been 17 Sri Lankan deaths, however escapees say that there are over 200 Sri Lankan ex-soldiers dead on the battlefield. (Colombo/June28/2024)
+
+◼️
+
+[Data](articles/35fccd1d.json)
 
 ---
 
@@ -2115,135 +2225,5 @@ The Chinese Communist Party, which founded the Chinese People's Republic, is the
 [Data](articles/71388bef.json)
 
 [Extended Data](ext_articles/71388bef.ext.json)
-
----
-
-### Sanjaya to Mahawatta Prison
-
-*2024-06-28 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198257) · `si`
-
-The Chairman of an organization has been arrested by the Terrorism Investigation Division and remanded until July 05, 2023, to be held at Mahawatta Prison.
-
-🟩
-
-The Chairman of the Organization "to the country" has been remanded until July 05, who was arrested by the Terrorism Investigation Division.
-
-◼️
-
-[Data](articles/81b92c9a.json)
-
-[Extended Data](ext_articles/81b92c9a.ext.json)
-
----
-
-### Irudayapura incident - Thirumalai Diocese Bishop
-
-*2024-06-28 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187176) · `ta`
-
-The Irudayapura incident in Sahayapuram, Muttur, sparked controversy over justice, social welfare, and human rights after villagers opposed the opening of a liquor store. Fifteen demonstrators were arrested but later released on bail. The Christian Naul Emmanuel of the Trincomalee diocese criticized the police's use of force, including entering a temple, during peaceful protests. He called for transparency from authorities and urged them to restore peace and justice, emphasizing the importance of maintaining Irudayapura as a non-alcoholic village for its community and spiritual growth.
-
-🟩
-
-The most sad incident of the Muttur heart (Sahayapuram) has taken place to question the justice, social welfare and human rights, said the christian Naul Emmanuel year of the Trincomalee diocese.
-
-In the past days, the people of the village have taken place against the opening of the liquor school in Muttur. In this case, 15 civilians involved in the demonstration have been arrested and released on bail.
-
-In a media statement sent to the media of the Trincomalee Diocese of the Diocese of Trincomalee, the Emmanuel Emmanuel Anniversary Media, said.
-
-You may have heard that the most sad incident took place recently at Muttur Cardayapuram (Sahayapuram). The incident took place to question justice, social welfare and human rights.
-
-...
-
-[Data](articles/5cb12158.json)
-
-[Extended Data](ext_articles/5cb12158.ext.json)
-
----
-
-### Parliament to debate debt restructuring agreements next week
-
-*2024-06-28 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100162/parliament-to-debate-debt-restructuring-agreements-next-week) · `en`
-
-The Committee on Parliamentary Business has decided to debate the Resolution for the Implementation of External Debt Restructuring Agreements on July 2nd and 3rd, according to the Chief of Staff and Deputy Secretary General of Parliament.
-
-This has been decided in the Committee on Parliamentary Business held this morning (28), under the chairmanship of Speaker Mahinda Yapa Abeywardena and with the participation of Prime Minister Dinesh Gunawardena.
-
-Accordingly, the Parliament is scheduled to meet on Tuesday the 2nd of July at 9.30 am and it has been decided to hold the debate until 5.00 pm.
-
-The President is also scheduled to make a special statement to Parliament on that day regarding the implementation of external debt restructuring agreements, the Deputy Secretary General added.
-
-It has been decided to hold this debate for the second day on Wednesday the 3rd of July from 9.30 am to 5.00 pm. Subsequently at 5.00 pm, the vote on this resolution is scheduled to be held.
-
-...
-
-[Data](articles/079baa5a.json)
-
-[Extended Data](ext_articles/079baa5a.ext.json)
-
----
-
-### Sri Lanka former legislator sentenced to rigorous imprisonment
-
-*2024-06-28 14:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-former-legislator-sentenced-to-rigorous-imprisonment-170035/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Colombo High Court has sentenced former Member of Parliament Hirunika Premachandra to three years rigorous imprisonment for the abduction of a man in 2015.
-
-The young man was abducted in a black Defender car and threatened in Dematagoda, on December 21, 2015.
-
-Premachandra was found guilty of 18 of the 29 charges against her, Sri Lanka Police said. Its Colombo Crimes Division investigated the matter.
-
-Premachandra, now a member of the main opposition Samagi Jana Balavegaya (SJB), was at the time a legislator of the Yahpalanaya (good governance) coalition government.
-
-She is the daughter of former MP Bharatha Lakshman Premachandra who was murdered in 2011.(Colombo/June28/2024)
-
-◼️
-
-[Data](articles/6986bab6.json)
-
-[Extended Data](ext_articles/6986bab6.ext.json)
-
----
-
-### Debt on Debt Restruct Concentration Tuesday
-
-*2024-06-28 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198256) · `si`
-
-A debate on a Debt Restriction Agreement will take place in Parliament on July 2nd and 3rd. A special session has been scheduled for 9:30 am on July 2nd, at the Prime Minister's request, adhering to 16 Standing Orders. Mr. Speaker Mahinda Yapa Abeywardena has asked all MPs to attend.
-
-🟩
-
-Debt Restriction Agreement Debate will be held in Parliament in Parliament on July 2 and 3.
-
-Meanwhile, a special meeting of Parliament has been summoned to Parliament at 9.30 am on July 2.
-
-At the request of the Prime Minister, the 16 Standing Orders of Parliament has been called in accordance with Standing Order.
-
-Mr. Speaker Mahinda Yapa Abeywardena announced that he is requested to attend all MPs to attend.
-
-◼️
-
-[Data](articles/97f9bdf5.json)
-
-[Extended Data](ext_articles/97f9bdf5.ext.json)
-
----
-
-### Sri Lanka economic stability under President reduced renewable power prices: Minister
-
-*2024-06-28 14:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-economic-stability-under-president-reduced-re-prices-minister-170029/) · `en`
-
-ECONOMYNEXT – Economic stability achieved by Sri Lanka under President Ranil Wickremesinghe and policy changes had reduced renewable purchase prices, Energy Minister Kanchana Wijesekera said after investors bid steeply lower rates in a competitive tender in June, compared to earlier negotiated rates.
-
-“The key factor is the economic & political stability that the President & the Government has brought in and the positive policy changes & legal frame work changes established in the sector..,” Minister Kanchana Wijesekera said in an x.com post.
-
-“One of the key but not so popular decision was the cost reflective pricing which enabled the CEB to pay back the RE Developers on time making it easier for developers to raise financing.”
-
-Sri Lanka’s Central Bank hiked rates in 2022 April to end money printed for two years to keep rates artificially low in a bid to boost growth and target potential output.
-
-...
-
-[Data](articles/05569ceb.json)
-
-[Extended Data](ext_articles/05569ceb.ext.json)
 
 ---

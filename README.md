@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 08:35:02**
+As of **2024-06-29 08:53:50**
 
 ## Newspaper Stats
 
-*Scraped **32,744** Articles*
+*Scraped **32,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,821
 economynextcom | 1,920
 dailyftlk | 2,015
-adalk | 2,895
+adalk | 2,896
 adaderanalk | 3,724
 tamilmirrorlk | 3,866
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,742 (100.0%) of 32,744 articles have been extended.
+32,744 (100.0%) of 32,745 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Strong winds of about 40-50kmph can be expected at times over the Western slopes
 ◼️
 
 [Data](articles/bda50602.json)
+
+[Extended Data](ext_articles/bda50602.ext.json)
 
 ---
 
@@ -74,17 +76,23 @@ Police Media Spokesperson Inspector General of Police Media Spokesman further st
 
 ---
 
-### இ.போ.ச. பஸ் வீதியை விட்டு விலகி விபத்து
+### E.. Crashing off the bus road
 
 *2024-06-29 07:15:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-போ-ச-பஸ்-வீதியை-விட்டு-விலகி-விபத்து/175-339591) · `ta`
 
-சம்மாந்துறை பொலிஸ் பிரிவில் இலங்கை போக்குவரத்துச் சபைக்குச் சொந்தமான பஸ் ஒன்று வீதியை விட்டு விலகி விபத்துக்குள்ளாகியுள்ளது.
+A SLTB bus crashed off the road near Kalmunai - Ampara, causing an accident last night.
 
-கல்முனை - அம்பாறை பிரதான வீதியில் வங்களாவடி எனும் இடத்துக்குச் சற்றுத் தொலைவில் நேற்று இரவு இந்த விபத்து இடம்பெற்றுள்ளது.
+🟩
+
+A bus belonging to the Sri Lanka Transport Board (SLTB) in the Samanthurai Police Division has crashed off the road.
+
+The accident took place last night on the main road of Kalmunai - Ampara.
 
 ◼️
 
 [Data](articles/7f664d7d.json)
+
+[Extended Data](ext_articles/7f664d7d.ext.json)
 
 ---
 
@@ -966,6 +974,20 @@ The suspected drug was arrested by the Police Narcotics Unit of the Police Narco
 
 ---
 
+### ගුවන් හමුදාවේ හෙලිකොප්ටරයක් අරන් යන්න ලොව විශාලම ගුවන් යානයක් කටුනායකට
+
+*2024-06-28 20:14:32* · [`adalk`](https://www.ada.lk/picture_story/ගුවන්-හමුදාවේ-හෙලිකොප්ටරයක්-අරන්-යන්න-ලොව-විශාලම-ගුවන්-යානයක්-කටුනායකට/10-410493) · `si`
+
+මධ්‍යම අප්‍රිකානු ජනරජයේ සාම සාධක රාජකාරී වල නිරත වී සිටින ශ්‍රී ලංකා ගුවන් හමුදාව සදහා , ඔවුන් සතු " එම්.අයි. - 17 " වර්ගයේ හෙලිකොප්ටර් යානයක් රැගෙන යාම සදහා ලොව විශාලතම භාණ්ඩ ප්‍රවාහන ගුවන් යානයක් වන " ඇන්ටනෝව් - 124 " ( Antonov - 124) ගුවන් යානයක් 06/28 දින පස්වරු 02.45 ට කටුනායක ගුවන් හමුදා කදවුර වෙත පැමිණියේය .
+
+ශ්‍රී ලංකා ගුවන් හමුදාව 2014 වසරේ සිට මධ්‍යම අප්‍රිකානු ජනරජයේ සාම සාධක රාජකාරී වල නිරත වී සිටින අතර , වර්තමානයේ එහි එම්.අයි.- 17 වර්ගයේ හෙලිකොප්ටර් යානා 03 ක් ද එහි සේවා සදහා යොදවා තිබේ. මෙයින් එක් හෙලිකොප්ටර් යානයක අත්‍යාවශ්‍ය ප්‍රධාන නඩත්තු කටයුත්තක් (Major Overhaul ) සිදු කිරීමට ඇති නිසා , එම යානය එරටින් ඉවත් කර ශ්‍රී ලංකාවට රැගෙන ඒමට ප්‍රථම , මෙම එම්.අයි.- 17 හෙලිකොප්ටර් යානය එරට ශ්‍රී ලංකා හෙලිකොප්ටර් බල ඝනය වෙත එකතු කිරීම සදහා මෙසේ රැගෙන යාම සිදු කිරීමට පියවර ගෙන තිබේ.
+
+...
+
+[Data](articles/b85b99ad.json)
+
+---
+
 ### Officers who ignore Tharushi's Olympics
 
 *2024-06-28 19:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198267) · `si`
@@ -1208,7 +1230,23 @@ Peru is considered to be a hundred-year-old country.
 
 ---
 
-### Former Colombo District Parliamentarian Hirunika Premachandra was found guilty of her involvement in the abduction of a youth using a Defender in 2015 and was given a three-year rigorous prison sentence by the Colombo High Court yesterday’Will Seek Bail on Monday says her Lawyer
+### Ranasinghe  Premadasa: Sri Lanka’s Solitary non-Govigama Prime Minister and President
+
+*2024-06-28 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84279) · `en`
+
+India, the world’s biggest democracy, held Parliamentary elections this year in seven phases from 19 April to 1 June. 642 million persons voted in the poll. Results were announced on 4 June. The incumbent Prime Minister Narendra Modi was re-elected PM for the third time. His party the Bharatiya Janata Party (BJP) won 240 of 572 Lok Sabha or Parliament seats. Together with allied parties the BJP led National Democratic Alliance (NDA) obtained 293 seats in Parliament.
+
+The election results have been continuously analysed and commented upon from the time of the poll. A significant aspect of these analyses and commentaries is the “caste factor”. Indian analysts and commentators are not “shy” about discussing caste openly when dissecting poll results. It is an acknowledged fact in India that caste plays a very influential role in determining the outcome of elections in many electorates, regions or states. Many Indians delve into the “caste in elections” topic without any inhibitions.
+
+...
+
+[Data](articles/b4f24621.json)
+
+[Extended Data](ext_articles/b4f24621.ext.json)
+
+---
+
+### Colombo  High Court  Finds  Hirunika Premachandra Guilty of 18 Charges Including the Abduction, Assault and Intimidation of a Youth at Dematagoda in 2015 and  Sentences Former Colombo MP  to 3 Years  Rigorous Imprisonment ;Will Seek Bail on Monday says her Lawyer
 
 *2024-06-28 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84290) · `en`
 
@@ -2193,37 +2231,5 @@ The National Organizer of the Association, the National Organizer of the Associa
 [Data](articles/0e58e7f9.json)
 
 [Extended Data](ext_articles/0e58e7f9.ext.json)
-
----
-
-### Lotus is still closed today
-
-*2024-06-28 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198252) · `si`
-
-Lotus remains shut due to a protest march by the Bank of Ceylon Bank Employees Union.
-
-🟩
-
-It is due to a protest march organized by the Bank of Ceylon Bank Employees Union.
-
-◼️
-
-[Data](articles/3f40f2cd.json)
-
-[Extended Data](ext_articles/3f40f2cd.ext.json)
-
----
-
-### Lotus Road in Colombo closed due to protest
-
-*2024-06-28 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100159/lotus-road-in-colombo-closed-due-to-protest) · `en`
-
-Lotus Road in Colombo has been closed for traffic due to a protest march by the Ceylon Bank Employees’ Union (CBEU).
-
-◼️
-
-[Data](articles/4ba26700.json)
-
-[Extended Data](ext_articles/4ba26700.ext.json)
 
 ---

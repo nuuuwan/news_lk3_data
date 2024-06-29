@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 12:35:00**
+As of **2024-06-29 12:53:28**
 
 ## Newspaper Stats
 
-*Scraped **32,770** Articles*
+*Scraped **32,772** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,72 @@ economynextcom | 1,922
 dailyftlk | 2,015
 adalk | 2,898
 adaderanalk | 3,729
-tamilmirrorlk | 3,871
+tamilmirrorlk | 3,872
 dailymirrorlk | 4,733
 virakesarilk | 5,106
-adaderanasinhalalk | 5,393
+adaderanasinhalalk | 5,394
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,765 (100.0%) of 32,770 articles have been extended.
+32,770 (100.0%) of 32,772 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
 
-### பாடசாலை மாணவர்கள் 8 பேர் வைத்தியசாலையில் அனுமதி
+### වැඩවර්ජනයට දින 53ක්
+
+*2024-06-29 12:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198280) · `si`
+
+විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින්ගේ ගැටලුව සම්බන්ධයෙන් ලබන සඳුදා විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිසමේ සභාපතිවරයා සමග සාකච්ඡාවක් පැවැත්වීමට නියමිත බව අන්තර් විශ්වවිද්‍යාල වෘත්තීය සමිති මහා සම්මේලනය පවසයි.
+
+එහි සමලේකම් කේ.එල්.ඩී. රිච්මන් මහතා පැවුසවේ ඊයේ (28) දින රැස්වූ වෘත්තීය සමිති එකමුතුව වෘත්තීය ක්‍රියාමාර්ගය අඛණ්ඩව සිදුකිරීමට තීරණය කළ බවය.
+
+"විශ්වවිද්‍යාල පද්ධතියි අකර්මන්‍ය ‍වෙලා අදට දින 53ක් වෙනවා. මේ වෙනකම් ගැටලු විසඳීමට සාධනීය මැදිහත්වීමක් කරලා නෑ රජය. ඊයේ දිනයේ වෘත්තීය සමිති රැස් ‍වෙලා තීරණය කළා මෙම වෘත්තීය ක්‍රියාමාර්ගය අඛණ්ඩව සිදුකරගෙන යාමට. නිසි විසඳුමක් නොලැබුනහොත් වෘත්තීය ක්‍රියාමාර්ග අඛණ්ඩව සිදුකරනවා."
+
+◼️
+
+[Data](articles/dd10e865.json)
+
+---
+
+### பாலித ரங்கே பண்டாரவின் மகன் திடீர் கைது
+
+*2024-06-29 12:22:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலித-ரங்கே-பண்டாரவின்-மகன்-திடீர்-கைது/175-339597) · `ta`
+
+ஐக்கிய தேசியக் கட்சியின் செயலாளர் நாயகம் பாலித ரங்கே பண்டாரவின் மகன் யசோத ரங்கே பண்டார திடீரென கைது செய்யப்பட்டுள்ளார்.
+
+இன்று (29) அதிகாலை 4.30 மணியளவில் கருவலகஸ்வெவ 07 ஆம் தூண் மீ ஓயாவிற்கு அருகிலுள்ள அலிமங்கட பிரதேசத்தில் அவர் பயணித்த கார் வீதியை விட்டு விலகி முச்சக்கர வண்டியுடன் மோதி விபத்தை ஏற்படுத்திய சம்பவம் தொடர்பிலேயே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+விபத்து தொடர்பான மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாக கருவலகஸ்வெவ பொலிஸார் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/10b362f5.json)
+
+---
+
+### 8 school students admitted to the hospital
 
 *2024-06-29 12:18:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-மாணவர்கள்-8-பேர்-வைத்தியசாலையில்-அனுமதி/175-339596) · `ta`
 
-மடு கல்வி வலயத்திற்குட்பட்ட பாடசாலை ஒன்றில் கல்வி கற்கும் தரம் 4 ஐச் சேர்ந்த மாணவர்கள் 8 பேர் திடீர் சுகயீனம் காரணமாக நேற்று(28) மன்னார் மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Eight grade 4 students were hospitalized after falling ill from eating dry castor seeds brought from home to school. They received immediate medical attention at Mannar District General Hospital.
 
-குறித்த பாடசாலையில் தரம் 4 இல் கல்வி கற்கும் மாணவர் ஒருவர் தனது வீட்டில் எண்ணெய் எடுப்பதற்காக காய வைத்திருந்த ஆமணக்கு விதைகளை பாடசாலைக்கு கொண்டு வந்து சக மாணவர்களுடன் அதை உட்கொண்ட நிலையிலே குறித்த மாணவர்கள் திடீர் சுகயீனமடைந்து உள்ளதாக தெரிய வருகிறது.
+🟩
 
-இந்த நிலையில் குறித்த 8 மாணவர்களும் உடனடியாக மன்னார் மாவட்ட பொது வைத்தியசாலைக்கு கொண்டு வரப்பட்டு தற்போது சிகிச்சை பெற்று வருகின்றனர். R
+Eight students from grade 4 students have been admitted to the Mannar District General Hospital yesterday (28) due to sudden illness.
+
+It is reported that a student of grade 4 in the school has been suddenly sick when the castor seeds that have been dried in their home have been brought to the school.
+
+The 8 students are immediately brought to the Mannar District General Hospital and are currently receiving treatment. Remble
 
 ◼️
 
 [Data](articles/024191a6.json)
+
+[Extended Data](ext_articles/024191a6.ext.json)
 
 ---
 
@@ -64,59 +102,85 @@ The driver of the three-wheeler had sustained serious injuries in the crash and 
 
 [Data](articles/ad2364a2.json)
 
+[Extended Data](ext_articles/ad2364a2.ext.json)
+
 ---
 
-### சீன ஜனாதிபதியை சந்தித்தார் மஹிந்த
+### 18 crores of rupees received as proteins taken from yoghurt
+
+*2024-06-29 12:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/187229) · `ta`
+
+Customs officials in Seeduwa seized 6 plastic bottles containing 2kg of cocaine and 2kg of cannabis, valued at Rs 185.64 million, shipped from Canada and the US. The drugs were initially mistaken for protein supplements due to their packaging, highlighting the challenges in detecting illicit substances.
+
+🟩
+
+Cocaine and Kush, worth Rs 185 million, were seized on Friday (28).
+
+Officials of the Customs Drug Control Unit have seized six large plastic bottles in the service company that sells the packages abroad in Seeduwa.
+
+Customs spokesman and Senior Customs Director Seewali Arukoda said that there were 2 kilograms of 30 grams of cocaine and 2 kilograms of 177 grams of cannabis.
+
+One gram of cocaine is 70,000 rupees and one gram of kush is 20,000 rupees. Accordingly, the total value of the seized drugs is estimated at Rs 185,640,000.
+
+The drug package has been sent from Canada and the United States to Kadawatha and Colombo a month ago.
+
+Customs did not remove it until these packs were seen as suspicious.. In the meantime, when the authorities found that the addresses were wrong because there was no one to get packs, they were found to have drugs.
+
+◼️
+
+[Data](articles/684abd57.json)
+
+[Extended Data](ext_articles/684abd57.ext.json)
+
+---
+
+### Mahinda met the Chinese president
 
 *2024-06-29 12:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/187241) · `ta`
 
-சீன ஜனாதிபதி ஷி ஜின்பிங்கை முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ சந்தித்து கலந்துரையாடினார்.
+During the 70th anniversary of China's peaceful coexistence theories, former Sri Lankan President Mahinda Rajapakse met with Chinese President Xi Jinping in Beijing.
 
-சீனாவின் தலைநகர் பீஜிங்கில் இடம்பெற்ற அமைதியான சகவாழ்வுக்கான 5 கோட்பாடுகளின் 70 ஆவது ஆண்டுவிழாவின் போதே இந்த சந்திப்பு இடம்பெற்றுள்ளது.
+🟩
+
+Former President Mahinda Rajapakse met with Chinese President Shi Jinping.
+
+The meeting took place during the 70th anniversary of 5 theories of peaceful coexistence in Beijing, China's capital.
 
 ◼️
 
 [Data](articles/b98380e4.json)
 
----
-
-### தயிரிலிருந்து எடுக்கப்பட்ட புரதங்களென நாட்டுக்கு கொணடுவரப்பட்ட 18 கோடி ரூபா பெறுதிமதியான போதைப்பொருட்கள் கைப்பற்றல்
-
-*2024-06-29 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/187229) · `ta`
-
-சரக்கு விமான சேவைகள் மூலமாக நாட்டுக்கு கொண்டுவரப்பட்ட 185 மில்லியன் ரூபாய் பெறுமதியான கொக்கைன் மற்றும் குஷ் ஆகிய போதைப்பொருட்கள் வெள்ளிக்கிழமை (28) கைப்பற்றப்பட்டுள்ளன.
-
-சீதுவையில் உள்ள  வெளிநாடுகளுக்கு பொதிகள் அனுப்பும் சேவை நிறுவனத்தில் ஆறு பெரிய பிளாஸ்டிக் போத்தல்களில் மறைத்து வைக்கப்பட்டிருந்த நிலையில் சுங்க போதைப்பொருள் கட்டுப்பாட்டுப் பிரிவின் அதிகாரிகள் கைப்பற்றியுள்ளனர்.
-
-அவற்றில், 2 கிலோகிராம் 30 கிராம் கொக்கெய்ன் மற்றும் 2 கிலோகிராம் 177 கிராம் கஞ்சா வகை குஷ் போதைப்பொருட்கள் இருந்ததாக சுங்க ஊடகப் பேச்சாளர், சிரேஷ்ட சுங்கப் பணிப்பாளர்  சீவலி அருக்கொட தெரிவித்தார்.
-
-ஒரு கிராம் கொக்கைன் 70,000 ரூபாவாகும், ஒரு கிராம் குஷ் 20,000 ரூபாவாகும். அதன்படி, கைப்பற்றப்பட்ட போதைப்பொருட்களின் மொத்த பெறுமதி 185,640,000 ரூபாய் என மதிப்பிடப்பட்டுள்ளது.
-
-இந்த போதைப்பொருள் பொதி கனடா மற்றும் அமெரிக்கா ஆகிய நாடுகளிலிருந்து கடவத்தை மற்றும் கொழும்பு ஆகிய இரண்டு முகவரிகளுக்கு ஒரு மாதத்திற்கு முன்னர் அனுப்பப்பட்டுள்ளது.
-
-...
-
-[Data](articles/684abd57.json)
+[Extended Data](ext_articles/b98380e4.ext.json)
 
 ---
 
-### වතු වැටුප් වැඩි කිරීමේ තීන්දුව තවමත් කොට උඩ
+### The verdict of estate salary increases is still up
 
 *2024-06-29 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198279) · `si`
 
-වතු කම්කරුවන්ගේ වැටුප් වැඩි කරමින් පසුගියදා කම්කරු අමාත්‍යවරයා විසින් නිකුත් කළ ගැසට් නිවේදනය ක්‍රියාත්මක වීම අත්හිටුවා අතුරු තහනම් නියෝගයක් නිකුත් නොකිරීමට අභියාචනාධිකරණය විසින් දී ඇති තීන්දුවට එරෙහිව වතු සමාගම් විසින් ගොනුකර තිබූ අභියාචනා පෙත්සමක් ශ්‍රේෂ්ඨාධිකරණය හමුවේ සලකාබලා තිබේ.
+The Supreme Court is considering a petition against the Court of Appeal's decision on estate salary increases, after a gazette notification by the Association of Plantation Workers. The case involves 21 companies and was presented by a Supreme Court judge. Further hearings are set for next month.
 
-ආගරපතන වැවිලි සමාගම ඇතුළු සමාගම් 21 ක් විසින් අභියාචනයකින් ඉදිරිපත් කර තිබු මෙම පෙත්සම් ගාමිණී අමරසේකර, කුමුදුනී වික්‍රමසිංහ සහ ජනක් ද සිල්වා යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ ඊයේ (28) දිනයේ කැඳවනු ලැබීය.
+🟩
 
-එහිදී නීතිපතිවරයා වෙනුවෙන් දේශන ඉදිරිපත් කිරීම සිදු කෙරුණු බව අද දෙරණ අධිකරණ වාර්තාකරු සඳහන් කළේය.
+The Gazette notification issued by the Association of Plantation Workers recently considers a petition filed by the Supreme Court against the decision of the Court of Appeal against the decision by the Assembly Court of Appeal.
 
-අනතුරුව වැඩිදුර කරුණු සලකා බැලීම ලබන මස 4 වනදා දක්වා කල් දමා තිබේ.
+The petitions were summoned by a appeal by 21 companies including the three-member Supreme Court Judge Madulla yesterday (28).
 
-පෙත්සම්කාර සමාගම් කියා සිටින්නේ වතුකම්කරුවන්ගේ වැටුප් වැඩි කරන ලෙස නියම කරමින් කම්කරු අමාත්‍යවරයා විසින් ඉකුත් දා ගැසට් නිවේදනයක් නිකුත් කළ බවය.
+Ada Derana reporter said that the lecture on behalf of the Attorney General was made.
 
-...
+Further considerations have been postponed until the 4th of next month.
+
+Petitioners claim that the Minister of Labor has issued a gazette notification on the recent past.
+
+The petitioners have decided not to issue the interim injunction order in suspending the gazette notification of the gazette notification for the examination of the gazette notification.
+
+The appearance companies have filed a petition filed by the Court of Appeal to request that decision will be illegal.
+
+◼️
 
 [Data](articles/dd222f77.json)
+
+[Extended Data](ext_articles/dd222f77.ext.json)
 
 ---
 
@@ -2181,51 +2245,5 @@ The Welfare Benefit Board says that the payment method for the poor and poor cat
 [Data](articles/89c5b43e.json)
 
 [Extended Data](ext_articles/89c5b43e.ext.json)
-
----
-
-### Bird flu in Sri Lanka?
-
-*2024-06-28 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/187196) · `ta`
-
-In Sri Lanka, a suspected case of bird flu (Avian Influenza) has been reported. Bird flu, also known as avian influenza, is caused by viruses like H5N1, which can infect humans.
-
-🟩
-
-A patient suspected of being suffering from bird flu has been identified, sources said.
-
-Bird fever is also known as Avian Influenza. It is caused by a type of influenza virus that can affect humans.One of them is H5N1.
-
-◼️
-
-[Data](articles/f544d8f8.json)
-
-[Extended Data](ext_articles/f544d8f8.ext.json)
-
----
-
-### Is the election speech?Real relief?- Speaking to Ranil Wickremesinghe's people
-
-*2024-06-28 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/187194) · `ta`
-
-Sri Lankan President Ranil Wickremesinghe's announcement of a debt agreement with bilateral creditors is seen by many as a pre-election strategy to boost support amid the country's ongoing economic challenges. The deal, aimed at restoring economic stability, is set to be discussed in Parliament on July 2nd. Critics, however, view it as a political maneuver rather than a genuine solution, especially considering the upcoming October elections. Political analyst Professor Nirmal Ranjith Devasiri suggests Wickremesinghe's speech is an attempt to counter his political opponent Sajith Premadasa, highlighting the divided support within the United National Party. Despite the potential for Wickremesinghe to leverage his economic recovery vision against Premadasa, the effectiveness of such strategies remains uncertain amidst widespread public discontent and skepticism towards austerity measures imposed by the IMF.
-
-🟩
-
-Sri Lankan President Ranil Wickremesinghe has announced the highly anticipated debt agreement with bilateral creditors. However, many researchers have said that this is an attempt to increase its support before the upcoming election, in response to the real economic status of the country, which is still in poor condition.
-
-On Wednesday, the President announced the compliance with Sri Lanka's major bipartisans, including Japan and India. He announced on Wednesday.
-
-These debt processing measures are based on the International Monetary Fund's plan to restore Sri Lanka's micro -economic stability.
-
-These agreements will be submitted and accepted at a special session of Parliament on the second of July.
-
-However, many analysts have described the announcement of Wickremesinghe's announcement of the debt restructuring- they have commented that the presidential elections are due to take place in Octobar this year.
-
-...
-
-[Data](articles/303e0e41.json)
-
-[Extended Data](ext_articles/303e0e41.ext.json)
 
 ---

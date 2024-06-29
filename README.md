@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 12:06:49**
+As of **2024-06-29 12:19:40**
 
 ## Newspaper Stats
 
-*Scraped **32,764** Articles*
+*Scraped **32,765** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,922
 dailyftlk | 2,015
 adalk | 2,898
 adaderanalk | 3,728
-tamilmirrorlk | 3,869
+tamilmirrorlk | 3,870
 dailymirrorlk | 4,733
 virakesarilk | 5,104
 adaderanasinhalalk | 5,392
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,392
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,762 (100.0%) of 32,764 articles have been extended.
+32,764 (100.0%) of 32,765 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,21 +54,45 @@ But Guterres said Friday that “the world is getting a failing grade.”
 
 ---
 
-### රංගේ බණ්ඩාරගේ පුතා අත්අඩංගුවට
+### Range Bandara's son arrested
 
 *2024-06-29 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198278) · `si`
 
-එක්සත් ජාතික පක්ෂ මහලේකම් පාලිත රංගේ බණ්ඩාර මහතාගේ පුත්‍රයා වන යශෝධ රංගේ බණ්ඩාර රිය අනතුරක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන තිබේ.
+Palitha Range Bandara's son was arrested for his involvement in an accident near Elephant Pass, where a three-wheeler driver was seriously injured. Further investigations are ongoing.
 
-කරුවලගස්වැව 07 කණුව මී ඔය ආසන්නයේ අලිමංකඩ ප්‍රදේශයේදී අද (29) අලුයම 4.30 පමණ  ඔහු ගමන්ගත් මෝටර් රථය මාර්ගයෙන් ඉවතට පැන ත්‍රීවිල් රථයක ගැටීමෙන් මෙම අනතුරු සිදුවී ඇති බව වාර්තා වෙයි.
+🟩
 
-අනතුරෙන් ත්‍රීවිල් රථ රියදුරු බරපතළ තුවාල ලබා පුත්තලම මූලික රෝහලට ඇතුළත් කර ඇති බව සඳහන් ය.
+The son of the UNP General Secretary Palitha Range Bandara, the son of the UNP, has been arrested in connection with an accident.
 
-අනතුර සම්බන්ධයෙන් තවදුරටත් පරීක්ෂණ සිදුකරමින් පවතින බව කරුවලගස්වැව පොලීසිය පවසයි.
+The accidents have been reported from the Elephant Pass, Karuwalagaswewa 07 at the Elephant Pass.
+
+The three-wheeler driver has been seriously injured and rushed to the Puttalam Base Hospital.
+
+Karuwalagaswewa Police say further investigations are being carried out in connection with the accident.
 
 ◼️
 
 [Data](articles/7e206891.json)
+
+[Extended Data](ext_articles/7e206891.ext.json)
+
+---
+
+### அதிகாலை இடம்பெற்ற விபத்தில் ஒருவர் சம்பவ இடத்திலேயே மரணம்
+
+*2024-06-29 11:25:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/அதிகாலை-இடம்பெற்ற-விபத்தில்-ஒருவர்-சம்பவ-இடத்திலேயே-மரணம்/72-339595) · `ta`
+
+மடு -  இரண்டாம் கட்டைப் பகுதியில் இன்று (29) அதிகாலை இடம் பெற்ற  விபத்தில்  ஒருவர் சம்பவ இடத்திலேயே  உயிரிழந்துள்ளதுடன் மற்றைய நபர் காயங்களுடன் முருங்கன் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தெரிய வருகிறது.
+
+மடு ஜோதிநகர் இரண்டாம் கட்டை பாலத்தின் அருகில்  இடம்பெற்ற இவ்விபத்தில் பெரியகமம்  பிரதேசத்தைச் சேர்ந்த 35 வயதுடைய   நபர் சம்பவ இடத்தில் உயிரிழந்தார்.
+
+காயமடைந்தவர்  முருங்கன் வைத்தியசாலைக்கு எடுத்துச் செல்லப்பட்டு அங்கிருந்து மேலதிக சிகிச்சைக்காக மன்னார் மாவட்ட பொது வைத்தியசாலைக்கு  மாற்றப்பட்டுள்ளார்.
+
+உயிரிழந்தவரின் சடலம்  மன்னார் மாவட்ட பொது வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன் மேலதிக விசாரணைகளை பொலிஸார் முன்னெடுத்து வருகின்றனர். R
+
+◼️
+
+[Data](articles/06b86ed1.json)
 
 ---
 
@@ -611,6 +635,8 @@ Nuwan Seneviratne’s journey from being a school bus driver in Colombo to becom
 ...
 
 [Data](articles/a264b826.json)
+
+[Extended Data](ext_articles/a264b826.ext.json)
 
 ---
 
@@ -2215,31 +2241,5 @@ Attorney at Law, police spokesman, Nihal Talduuwa said that 137 Indian nationals
 [Data](articles/495e88ce.json)
 
 [Extended Data](ext_articles/495e88ce.ext.json)
-
----
-
-### Sri Lanka pays Aswesuma beneficiaries Rs11.6bn for June
-
-*2024-06-28 15:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-pays-aswesuma-beneficiaries-rs11-6bn-for-june-170064/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Welfare Benefits Board has disbursed 11.6 billion rupees to the bank accounts of 622,495 beneficiaries under the Aswesuma scheme for June.
-
-In the first phase of the program, beneficiaries in the ‘vulnerable’ category received 5,000 rupees from July 2023 to March 2024.
-
-Those in the ‘transitional’ category received 2,500 rupees from July to December.
-
-The existing payment system for the ‘extremely poor’ and ‘poor’ categories will continue without changes, Jayantha Wijeratne Chairman/Commissioner of the Welfare Benefits Board said.
-
-Sri Lanka to expand Aswesuma benefits to around 40-pct of population ahead of polls
-
-The Aswesuma poverty alleviation programme, financially backed by the World Bank, is designed to protect lower income groups under severely poor, poor, vulnerable, and transitional categories.
-
-The programme has been allocated 205 billion rupees for this year. (Colombo/June28/2024)
-
-◼️
-
-[Data](articles/5391dcba.json)
-
-[Extended Data](ext_articles/5391dcba.ext.json)
 
 ---

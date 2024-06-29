@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 12:19:40**
+As of **2024-06-29 12:35:00**
 
 ## Newspaper Stats
 
-*Scraped **32,765** Articles*
+*Scraped **32,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,109 @@ islandlk | 1,821
 economynextcom | 1,922
 dailyftlk | 2,015
 adalk | 2,898
-adaderanalk | 3,728
-tamilmirrorlk | 3,870
+adaderanalk | 3,729
+tamilmirrorlk | 3,871
 dailymirrorlk | 4,733
-virakesarilk | 5,104
-adaderanasinhalalk | 5,392
+virakesarilk | 5,106
+adaderanasinhalalk | 5,393
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,764 (100.0%) of 32,765 articles have been extended.
+32,765 (100.0%) of 32,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
+
+### பாடசாலை மாணவர்கள் 8 பேர் வைத்தியசாலையில் அனுமதி
+
+*2024-06-29 12:18:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-மாணவர்கள்-8-பேர்-வைத்தியசாலையில்-அனுமதி/175-339596) · `ta`
+
+மடு கல்வி வலயத்திற்குட்பட்ட பாடசாலை ஒன்றில் கல்வி கற்கும் தரம் 4 ஐச் சேர்ந்த மாணவர்கள் 8 பேர் திடீர் சுகயீனம் காரணமாக நேற்று(28) மன்னார் மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+குறித்த பாடசாலையில் தரம் 4 இல் கல்வி கற்கும் மாணவர் ஒருவர் தனது வீட்டில் எண்ணெய் எடுப்பதற்காக காய வைத்திருந்த ஆமணக்கு விதைகளை பாடசாலைக்கு கொண்டு வந்து சக மாணவர்களுடன் அதை உட்கொண்ட நிலையிலே குறித்த மாணவர்கள் திடீர் சுகயீனமடைந்து உள்ளதாக தெரிய வருகிறது.
+
+இந்த நிலையில் குறித்த 8 மாணவர்களும் உடனடியாக மன்னார் மாவட்ட பொது வைத்தியசாலைக்கு கொண்டு வரப்பட்டு தற்போது சிகிச்சை பெற்று வருகின்றனர். R
+
+◼️
+
+[Data](articles/024191a6.json)
+
+---
+
+### Range Bandara’s son arrested over car crash
+
+*2024-06-29 12:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100178/range-bandaras-son-arrested-over-car-crash) · `en`
+
+Yasodha Range Bandara, the son of United National Party (UNP) General Secretary Palitha Range Bandara, has been arrested following a car accident that occurred early this morning (29).
+
+The incident had occurred at around 4.30 a.m. in the Elephant Pass area near the 7th Mile Post, Mee-Oya, Karuwalagaswewa.
+
+The car driven by Yasodha Range Bandara had reportedly veered off the road and collided with a three-wheeler.
+
+The driver of the three-wheeler had sustained serious injuries in the crash and has been admitted to the Puttalam Base Hospital for treatment.
+
+◼️
+
+[Data](articles/ad2364a2.json)
+
+---
+
+### சீன ஜனாதிபதியை சந்தித்தார் மஹிந்த
+
+*2024-06-29 12:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/187241) · `ta`
+
+சீன ஜனாதிபதி ஷி ஜின்பிங்கை முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ சந்தித்து கலந்துரையாடினார்.
+
+சீனாவின் தலைநகர் பீஜிங்கில் இடம்பெற்ற அமைதியான சகவாழ்வுக்கான 5 கோட்பாடுகளின் 70 ஆவது ஆண்டுவிழாவின் போதே இந்த சந்திப்பு இடம்பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/b98380e4.json)
+
+---
+
+### தயிரிலிருந்து எடுக்கப்பட்ட புரதங்களென நாட்டுக்கு கொணடுவரப்பட்ட 18 கோடி ரூபா பெறுதிமதியான போதைப்பொருட்கள் கைப்பற்றல்
+
+*2024-06-29 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/187229) · `ta`
+
+சரக்கு விமான சேவைகள் மூலமாக நாட்டுக்கு கொண்டுவரப்பட்ட 185 மில்லியன் ரூபாய் பெறுமதியான கொக்கைன் மற்றும் குஷ் ஆகிய போதைப்பொருட்கள் வெள்ளிக்கிழமை (28) கைப்பற்றப்பட்டுள்ளன.
+
+சீதுவையில் உள்ள  வெளிநாடுகளுக்கு பொதிகள் அனுப்பும் சேவை நிறுவனத்தில் ஆறு பெரிய பிளாஸ்டிக் போத்தல்களில் மறைத்து வைக்கப்பட்டிருந்த நிலையில் சுங்க போதைப்பொருள் கட்டுப்பாட்டுப் பிரிவின் அதிகாரிகள் கைப்பற்றியுள்ளனர்.
+
+அவற்றில், 2 கிலோகிராம் 30 கிராம் கொக்கெய்ன் மற்றும் 2 கிலோகிராம் 177 கிராம் கஞ்சா வகை குஷ் போதைப்பொருட்கள் இருந்ததாக சுங்க ஊடகப் பேச்சாளர், சிரேஷ்ட சுங்கப் பணிப்பாளர்  சீவலி அருக்கொட தெரிவித்தார்.
+
+ஒரு கிராம் கொக்கைன் 70,000 ரூபாவாகும், ஒரு கிராம் குஷ் 20,000 ரூபாவாகும். அதன்படி, கைப்பற்றப்பட்ட போதைப்பொருட்களின் மொத்த பெறுமதி 185,640,000 ரூபாய் என மதிப்பிடப்பட்டுள்ளது.
+
+இந்த போதைப்பொருள் பொதி கனடா மற்றும் அமெரிக்கா ஆகிய நாடுகளிலிருந்து கடவத்தை மற்றும் கொழும்பு ஆகிய இரண்டு முகவரிகளுக்கு ஒரு மாதத்திற்கு முன்னர் அனுப்பப்பட்டுள்ளது.
+
+...
+
+[Data](articles/684abd57.json)
+
+---
+
+### වතු වැටුප් වැඩි කිරීමේ තීන්දුව තවමත් කොට උඩ
+
+*2024-06-29 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198279) · `si`
+
+වතු කම්කරුවන්ගේ වැටුප් වැඩි කරමින් පසුගියදා කම්කරු අමාත්‍යවරයා විසින් නිකුත් කළ ගැසට් නිවේදනය ක්‍රියාත්මක වීම අත්හිටුවා අතුරු තහනම් නියෝගයක් නිකුත් නොකිරීමට අභියාචනාධිකරණය විසින් දී ඇති තීන්දුවට එරෙහිව වතු සමාගම් විසින් ගොනුකර තිබූ අභියාචනා පෙත්සමක් ශ්‍රේෂ්ඨාධිකරණය හමුවේ සලකාබලා තිබේ.
+
+ආගරපතන වැවිලි සමාගම ඇතුළු සමාගම් 21 ක් විසින් අභියාචනයකින් ඉදිරිපත් කර තිබු මෙම පෙත්සම් ගාමිණී අමරසේකර, කුමුදුනී වික්‍රමසිංහ සහ ජනක් ද සිල්වා යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ ඊයේ (28) දිනයේ කැඳවනු ලැබීය.
+
+එහිදී නීතිපතිවරයා වෙනුවෙන් දේශන ඉදිරිපත් කිරීම සිදු කෙරුණු බව අද දෙරණ අධිකරණ වාර්තාකරු සඳහන් කළේය.
+
+අනතුරුව වැඩිදුර කරුණු සලකා බැලීම ලබන මස 4 වනදා දක්වා කල් දමා තිබේ.
+
+පෙත්සම්කාර සමාගම් කියා සිටින්නේ වතුකම්කරුවන්ගේ වැටුප් වැඩි කරන ලෙස නියම කරමින් කම්කරු අමාත්‍යවරයා විසින් ඉකුත් දා ගැසට් නිවේදනයක් නිකුත් කළ බවය.
+
+...
+
+[Data](articles/dd222f77.json)
+
+---
 
 ### World ‘failing’ to meet development goals: UN chief
 
@@ -78,21 +166,27 @@ Karuwalagaswewa Police say further investigations are being carried out in conne
 
 ---
 
-### அதிகாலை இடம்பெற்ற விபத்தில் ஒருவர் சம்பவ இடத்திலேயே மரணம்
+### One person died on the spot in an early morning accident
 
 *2024-06-29 11:25:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/அதிகாலை-இடம்பெற்ற-விபத்தில்-ஒருவர்-சம்பவ-இடத்திலேயே-மரணம்/72-339595) · `ta`
 
-மடு -  இரண்டாம் கட்டைப் பகுதியில் இன்று (29) அதிகாலை இடம் பெற்ற  விபத்தில்  ஒருவர் சம்பவ இடத்திலேயே  உயிரிழந்துள்ளதுடன் மற்றைய நபர் காயங்களுடன் முருங்கன் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தெரிய வருகிறது.
+In a tragic accident near Madhu Jothinagar's II Bridge, a 35-year-old man from Periyakamam died instantly. Another victim was hospitalized, first at Murugan Hospital and later transferred to Mannar District General Hospital for treatment. The deceased's body remains at Mannar hospital while police continue their investigation.
 
-மடு ஜோதிநகர் இரண்டாம் கட்டை பாலத்தின் அருகில்  இடம்பெற்ற இவ்விபத்தில் பெரியகமம்  பிரதேசத்தைச் சேர்ந்த 35 வயதுடைய   நபர் சம்பவ இடத்தில் உயிரிழந்தார்.
+🟩
 
-காயமடைந்தவர்  முருங்கன் வைத்தியசாலைக்கு எடுத்துச் செல்லப்பட்டு அங்கிருந்து மேலதிக சிகிச்சைக்காக மன்னார் மாவட்ட பொது வைத்தியசாலைக்கு  மாற்றப்பட்டுள்ளார்.
+One person died on the spot and the other person was admitted to the Murugan Hospital with injuries.
 
-உயிரிழந்தவரின் சடலம்  மன்னார் மாவட்ட பொது வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன் மேலதிக விசாரணைகளை பொலிஸார் முன்னெடுத்து வருகின்றனர். R
+The 35 -year -old man from Periyakamam died at the scene of the incident, which was held near the II Bridge of Madhu Jothinagar.
+
+The injured was taken to the Murugan Hospital and then transferred to the Mannar District General Hospital for further treatment.
+
+The body of the deceased has been placed at the Mannar District General Hospital and further investigations are being carried out by the police.. Remble
 
 ◼️
 
 [Data](articles/06b86ed1.json)
+
+[Extended Data](ext_articles/06b86ed1.ext.json)
 
 ---
 
@@ -2133,113 +2227,5 @@ However, many analysts have described the announcement of Wickremesinghe's annou
 [Data](articles/303e0e41.json)
 
 [Extended Data](ext_articles/303e0e41.ext.json)
-
----
-
-### Train derailment;Mountain Rail Services Victim
-
-*2024-06-28 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/187191) · `ta`
-
-A train derailment occurred near Vattawala station, affecting mountain rail services. The 'Podi Menike' train from Colombo Fort to Badulla derailed around 11:00 am. Rehabilitation efforts are ongoing.
-
-🟩
-
-The Nawalapitiya Railway Control Room said that a train derailment near the Vattawala railway station has been affected by hill station services.
-
-The 'Podi Menike' train from Colombo Fort to Badulla was derailed at around 11.00 am today.
-
-The Nawalapitiya Railway Control Room further stated that work on rehabilitation of the derailment train is underway.
-
-◼️
-
-[Data](articles/26912c32.json)
-
-[Extended Data](ext_articles/26912c32.ext.json)
-
----
-
-### Sri Lanka CEB workforce to be revised: Minister
-
-*2024-06-28 16:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-ceb-workforce-to-be-revised-minister-170072/) · `en`
-
-ECONOMYNEXT – The workforce of the state-owned utility provider, the Ceylon Electricity Board, will  be restructured to reduce future hires, Sri Lanka’s Minister of Power and Energy has said.
-
-“The existing approved carder of 26,000+ will be revised to reduce the number of employees recruited in the future,” Kanchana Wijesekera said on x (twitter).
-
-“A new salary structure, a performance based incentive system & a promotion system will be introduced to the CEB employees in the next few weeks,” the minister said.
-
-Wijesekera met trade unions of the CEB recently and “Discussed the structure of the reforms, timeline for implementing different tasks, appointments to successor companies, human resource management, salary structures, policy and management decisions taken.”
-
-Earlier this month Sri Lanka’s parliament passed a new electricity law which aimed to unbundle the sector.
-
-...
-
-[Data](articles/170fec56.json)
-
-[Extended Data](ext_articles/170fec56.ext.json)
-
----
-
-### Emergency Notice of Colombo People
-
-*2024-06-28 16:06:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மக்களுக்கு-அவசர-அறிவிப்பு/175-339585) · `ta`
-
-Colombo's Water Supply and Drainage Board announced a 15-hour disruption starting 9 am tomorrow, affecting areas including Colombo, Dehiwala, Fort, Kaduwela, Maharagama, Boralesgamuwa, Kolonnawa, Kotikawatte, Mulleriya, and Moratuwa with low pressure.
-
-🟩
-
-The Water Supply and Drainage Board said that water supply will be disrupted for 15 hours tomorrow.
-
-According to the council, the water supply will be disrupted from 9.00 am to 12 pm tomorrow.
-
-The water supply ban will be implemented by the Colombo, Dehiwala, Fort, Kaduwela Municipal Council, Maharagama, Boralesgamuwa, Kolonnawa Municipal Council, Kotikawatte and Mulleriya Pradeshiya Sabha.
-
-The Drainage Board also states that the water supply to the Moratuwa municipalities will be supplied with low pressure.. Remble
-
-◼️
-
-[Data](articles/b13680f1.json)
-
-[Extended Data](ext_articles/b13680f1.ext.json)
-
----
-
-### Speaker testified the Electricity Bill
-
-*2024-06-28 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187187) · `ta`
-
-Mahinda Yapa Abeywardena signed a bill on April 27, 2024, aiming to reform the electricity industry. Introduced to Parliament on April 25, it was debated and passed on the 6th, becoming the Sri Lanka Electricity Act No. 36 of 2024.
-
-🟩
-
-Speaker Mahinda Yapa Abeywardena made his signature on Thursday (27).
-
-The Bill was aimed at implementing the reforms for electricity industry on April 25, 2024, to Parliament on April 2524. Subsequently, the bill was taken up for debate in Parliament on the 6th and was passed by 44 additional votes.
-
-Accordingly, the Bill is implemented as the Sri Lanka Electricity Act No. 36 of 2024.
-
-◼️
-
-[Data](articles/24838340.json)
-
-[Extended Data](ext_articles/24838340.ext.json)
-
----
-
-### The number of Indians who were arrested up
-
-*2024-06-28 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198260) · `si`
-
-137 Indian nationals were arrested yesterday, according to Attorney at Law and police spokesman Nihal Talduuwa.
-
-🟩
-
-Attorney at Law, police spokesman, Nihal Talduuwa said that 137 Indian nationals were arrested yesterday.
-
-◼️
-
-[Data](articles/495e88ce.json)
-
-[Extended Data](ext_articles/495e88ce.ext.json)
 
 ---

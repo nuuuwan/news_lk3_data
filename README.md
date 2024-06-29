@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 13:53:58**
+As of **2024-06-29 14:05:57**
 
 ## Newspaper Stats
 
@@ -26,35 +26,41 @@ adaderanasinhalalk | 5,396
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,776 (100.0%) of 32,777 articles have been extended.
+32,777 (100.0%) of 32,777 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
 
-### යශෝධ රංගේ බණ්ඩාරව අත්අඩංගුවට ගත් රිය අනතුර ගැන තවත් තොරතුරු
+### More information about the accident arrested by Yashoda Range Bandara
 
 *2024-06-29 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198282) · `si`
 
-පුත්තලම කරුවලගස්වැව ප්‍රදේශයේදී සිදුවූ රිය අනතුරක් සම්බන්ධයෙන් එක්සත් ජාතික පක්ෂ මහලේකම් පාලිත රංගේ බණ්ඩාර මහතාගේ පුත් ‍‍යශෝධ රංගේ බණ්ඩාර පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+UNP General Secretary Palitha Range Bandara was arrested by his son after an accident near Karuwalagaswewa, where both were traveling in separate vehicles. The incident occurred around 4:30 am, resulting in serious injuries to the three-wheeler driver, who was later hospitalized. This event follows a previous accident involving Yashoda Range Bandara in 2018, leading to his remand.
 
-එහිදී ඔහු ගමන්ගත් මෝටර් රථය ත්‍රීරෝද රථයක ගැටී  ත්‍රීරෝද රථ රියදුරු බරපතළ තුවාල ලබා රෝහල්ගත කෙරුණි.
+🟩
 
-මෙම අනතුර සිදුවී ඇත්තේ, අද අලුයම 4.30ට පමණ කරුවලගස්වැව 07 කණුව මී ඔය ආසන්නයේදීය.
+UNP General Secretary Palitha Range Bandara has been arrested by the son of UNP General Secretary Palitha Range Bandara.
 
-එහිදී එක්සත් ජාතික පක්ෂ මහලේකම් පාලිත රංගේ බණ්ඩාර මහතාගේ පුත් යශෝධ රංගේ බණ්ඩාර ගමන් ගත් මෝටර් රථය ගැටී තිබුණේ, ඉදිරියෙන් පැමිණි ත්‍රීරෝද රථයකය.
+The car he was traveling in a three-wheeler and three-wheeler driver was seriously injured.
 
-අනතුරින් බරපතළ තුවාල ලැබූ ත්‍රීරෝද රථ රියදුරු ප්‍රතිකාර සඳහා පුත්තලම මූලික රෝහලට ඇතුළත් කර තිබේ.
+The accident had taken place near Karuwalagaswewa 07 Poya in Karuwalagaswewa 07 town around 4.30 am today.
 
-අනතුර සිදුවන අවස්ථාවේදී මෝටර් රථයේ සහ ත්‍රීරෝද රථයේ ගමන් කර ඇත්තේ, රියදුරන් දෙදෙනා පමණි.
+The son of UNP General Secretary Palitha Range Bandara was tied up in front of the march.
 
-අනතුර සම්බන්ධයෙන් පාලිත රංගේ බණ්ඩාර මහතාගේ පුත් යශෝධ රංගේ බණ්ඩාර කරුවලගස්වැව පොලීසිය විසින් අත්අඩංගුවට ගනු ලැබීය.
+Three-wheeler driver, who was seriously injured in the accident, has been admitted to the Puttalam Base Hospital.
 
-යශෝධ රංගේ බණ්ඩාර මීට පෙරදීත් 2018 වසරේ සිදුකළ රිය අනතුරක් සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාරගතව සිටි පුද්ගලයෙකි.
+The two drivers were traveled at the car and three wheelers at the time of the accident.
+
+Palitha Range Bandara was arrested by Karuwalagaswewa Police.
+
+Yashoda Range Bandara was remanded in connection with an accident in 2018.
 
 ◼️
 
 [Data](articles/171f7a68.json)
+
+[Extended Data](ext_articles/171f7a68.ext.json)
 
 ---
 

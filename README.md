@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 07:23:00**
+As of **2024-06-29 07:46:45**
 
 ## Newspaper Stats
 
-*Scraped **32,737** Articles*
+*Scraped **32,741** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,140 @@ economynextcom | 1,920
 dailyftlk | 2,015
 adalk | 2,895
 adaderanalk | 3,723
-tamilmirrorlk | 3,864
+tamilmirrorlk | 3,865
 dailymirrorlk | 4,733
 virakesarilk | 5,101
-adaderanasinhalalk | 5,385
+adaderanasinhalalk | 5,388
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,736 (100.0%) of 32,737 articles have been extended.
+32,741 (100.0%) of 32,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
 
-### சரத் பொன்சேகாவின் நூலை வெளியிட்டார் ஜனாதிபதி
+### Chinese cheated on Meemana from Negombo
+
+*2024-06-29 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198274) · `si`
+
+Thirty Chinese nationals were arrested in Negombo for financial fraud, while 137 Indians were detained for online cheating. The police seized numerous laptops and mobile phones during the operations.
+
+🟩
+
+Troops of 30 Chinese have been arrested by the CID.
+
+Police Media Spokesperson DIG Nihal Talduuwa said that they were arrested while staying at a hotel in the Negombo area.
+
+He says that they were arrested on charges of financial fraud.
+
+Meanwhile, 137 Indian nationals were also taken into custody by the charge of cheating on the Internet.
+
+Police Media Spokesperson Inspector General of Police Media Spokesman further stated that many laptops and mobile phones were also taken into custody in their custody.
+
+◼️
+
+[Data](articles/261ec7f2.json)
+
+[Extended Data](ext_articles/261ec7f2.ext.json)
+
+---
+
+### 1200 kg of drugs to Wanathavil
+
+*2024-06-29 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198273) · `si`
+
+Over 1,300 kg of drugs, including 614 kg of ice and 36 kg of heroin, seized in Wanathavil will be destroyed using a high-temperature oven. The operation involves Narcotic officers and supervised by Government Analysts and Puttalam Magistrate officers.
+
+🟩
+
+Police Headquarters says that more than 1,280 kg of drugs completed will be taken to destroy over 1,38 km.
+
+A spokesperson of the headquarters stated that the devastation is being destroyed using the oven in the Vanathaviluwa Lactos estate.
+
+614 kg of ice drugs, 36 kilograms of heroin and 686 m kg.
+
+The drug is to be taken into custody by the Narcotics Base Officers this morning and the Appointment of Wanathawiluwa will be destroyed by the use of high-drug burning oven.
+
+The suspects are being carried out under the supervision of the officials of the Government Analyst and the Officers of the Government Analyst and the Narcotics Bureau of Officers of Puttalam Magistrate.
+
+◼️
+
+[Data](articles/2e4e22c4.json)
+
+[Extended Data](ext_articles/2e4e22c4.ext.json)
+
+---
+
+### The model has become another Kenya
+
+*2024-06-29 07:03:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மற்றுமொரு-கென்யாவாக-மாறியிருக்கும்/175-339590) · `ta`
+
+Sri Lanka's President Ranil Wickremesinghe warns that without economic stability, nations could face crises like Kenya's current situation, where violence erupts due to economic strain. He calls for an end to wars in Ukraine and Gaza, advocating for peace and a Palestinian state. Highlighting Sri Lanka's support for Africa, he emphasizes the importance of addressing economic issues to prevent such conflicts.
+
+🟩
+
+Kenya is facing massive crisis due to economic issues. So that the killings are taking place. President Ranil Wickremesinghe said the situation in Sri Lanka would have been the case if it had failed to create an economic situation within the country.
+
+The President was speaking at the President's Environmental Awards for 2024 at the Bandaranaike Memorial International Conference Hall in Colombo yesterday.. He further stated that
+
+War did not use. We are demanding that you stop the war in Ukraine. Stop the war in Gaza. Stop that war and create a Palestinian state in five years. Similarly, take action on Israel's security.
+
+...
+
+[Data](articles/c5cb3e56.json)
+
+[Extended Data](ext_articles/c5cb3e56.ext.json)
+
+---
+
+### The President has published the book Sarath Fonseka
 
 *2024-06-29 06:52:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சரத்-பொன்சேகாவின்-நூலை-வெளியிட்டார்-ஜனாதிபதி/175-339589) · `ta`
 
-முப்பது வருடகால யுத்தத்தை நிறைவு செய்ய சிறந்த தலைமைத்துவத்தை வழங்கிய முன்னாள் இராணுவத் தளபதியும், நாடாளுமன்ற உறுப்பினருமான பீல்ட் மார்ஷல் சரத் பொன்சேகாவினால் 'இராணுவ தளபதி தேசத்துக்கு வழங்கிய வாக்குறுதி – இந்த யுத்தம் அடுத்த தளபதி வரையில் நீடிக்க இடமளியேன்' என்ற தலைப்பில் எழுதப்பட்ட நூல் வெளியீட்டு விழா ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் நேற்று கொழும்பு நெலும் பொக்குன கலையரங்கில் நடைபெற்றது.
+Field Marshal Sarath Fonseka, a former Army Commander and MP, authored a book titled "Promise to the Commander-in-Chief of the War," dedicated to his leadership during Sri Lanka's 30-year conflict. The first copy was gifted to the President, followed by a souvenir from Fonseka. The President praised Fonseka's contributions, emphasizing the importance of his role in overcoming political challenges post-war.
 
-இதன்போது புத்தகத்தின் முதல் பிரதி பீல்ட் மார்ஷல் சரத் பொன்சேகாவினால் ஜனாதிபதிக்கு வழங்கி வைக்கப்பட்டது.
+🟩
 
-அதனையடுத்து பீல்ட் மார்ஷல் சரத் பொன்சேகா ஜனாதிபதிக்கு நினைவு பரிசு ஒன்றையும் வழங்கி வைத்தார்.
+Former Army Commander and Member of Parliament, Field Marshal Sarath Fonseka, who gave the best leadership to conclude the thirty years of war, was held at the Colombo -headed book titled 'Promise to the Commander -in -Chief of the War'.
 
-இதன்போது பீல்ட் மார்ஷல் சரத் பொன்சேகாவின் சேவைக்கு பாராட்டு தெரிவித்த ஜனாதிபதி, யுத்தத்தை வெற்றிகொண்டது மாத்திரமன்றி, பல்வேறு அரசியல் சவால்களுக்கும் முகம்கொடுத்தவர் என்ற வகையில் எதிர்காலத்தில் நாட்டிற்கு பெரும் சேவையாற்ற முடியும் என்றும் தெரிவித்தார். (a)
+The first copy of the book was presented to the President by Marshal Sarath Fonseka.
+
+Subsequently, Field Marshal Sarath Fonseka presented a souvenir to the President.
+
+The President congratulated Field Marshal Sarath Fonseka's service, saying that the winning of the war will only be a great service to the country as the face of various political challenges.. (A)
 
 ◼️
 
 [Data](articles/0ba87651.json)
+
+[Extended Data](ext_articles/0ba87651.ext.json)
+
+---
+
+### 8 children were hospitalized
+
+*2024-06-29 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198272) · `si`
+
+Eight schoolchildren were hospitalized after consuming food from a stall in Thasekanamaduadamadu. The group includes one 9-year-old boy and seven girls. Police are investigating the incident.
+
+🟩
+
+Eight school children have been hospitalized due to a displeasure caused by eating a climb.
+
+The police said that these children have eaten castiches in Thasekanamaduadamadu, yesterday.
+
+Meanwhile, there are a 9-year-old boy and 7 girls, police said.
+
+The group is children in the Madhu and Madu police are conducting further investigations.
+
+◼️
+
+[Data](articles/61832d9f.json)
+
+[Extended Data](ext_articles/61832d9f.ext.json)
 
 ---
 
@@ -2147,101 +2251,5 @@ The US dollar purchasing price was Rs.
 [Data](articles/ca1e87e0.json)
 
 [Extended Data](ext_articles/ca1e87e0.ext.json)
-
----
-
-### Those arrested in Muttur released on bail
-
-*2024-06-28 12:46:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/மூதூரில்-கைது-செய்யப்பட்டவர்கள்-பிணையில்-விடுதலை/75-339582) · `ta`
-
-Fifteen suspects arrested after protests against a liquor store in Muttur were released on bail by the Muttur court on Friday. The arrests occurred when police clashed with residents on Tuesday evening, leading to the detention of 15 individuals, including a schoolgirl and a lactating mother, along with confiscation of several vehicles. The court initially ordered their remand until July 3rd but later granted them bail.
-
-🟩
-
-Fifteen suspects arrested on suspicion of protest against the liquor store in Muttur - Irudayapuram area have been granted bail by the Muttur court on Friday (28).
-
-The case was taken at the Muttur Magistrate's Court through the Movement Application on behalf of the opponents. All those arrested were subjected to an identification parade with more than a hundred people in the open court in the presence of Magistrate's Court Judge HM Dasneem Bausan.. Later, each was released in a bodies worth Rs.
-
-The police attacked the residents on Tuesday (25) at 8.00 pm in protest of the liquor road opened in the Irudayapuram area.. Later, the additional police and the Special Task Force were summoned and the people who were in peace and the people who were not involved in the demonstration and the people who were not involved in it, and the people who had taken refuge in the church in the church were arrested and arrested.
-
-...
-
-[Data](articles/3856f3ce.json)
-
-[Extended Data](ext_articles/3856f3ce.ext.json)
-
----
-
-### 15-hour water cut in Colombo and suburbs
-
-*2024-06-28 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100158/15-hour-water-cut-in-colombo-and-suburbs) · `en`
-
-The National Water Supply and Drainage Board (NWSDB) announced that a 15-hour water cut will be imposed for several areas including Colombo and suburbs tomorrow (29).
-
-Accordingly, the water supply will be suspended from 9 a.m. tomorrow (29) until 12 midnight in Colombo, Dehiwala, Mount Lavinia, Sri Jayawardenepura Kotte, Kaduwela Municipal Council area, Maharagama, Boralesgamuwa, Kolonnawa Urban Council area and Kotikawatte-Mulleriyawa Pradeshiya Sabha area.
-
-Meanwhile, for the Moratuwa Municipal Council area, the water supply will be under low-pressure conditions.
-
-The water cut is attributed to the suspending of the power supply to the Ambatale Water Treatment Plant owing to essential maintenance work planned by the Ceylon Electricity Board and repairs at the treatment plant.
-
-The NWSDB has requested people residing in the aforementioned areas to take the necessary steps to collect water required for the duration of the water cut.
-
-◼️
-
-[Data](articles/596e1c2c.json)
-
-[Extended Data](ext_articles/596e1c2c.ext.json)
-
----
-
-### Active Assets Act of Law Academic Act
-
-*2024-06-28 12:39:38* · [`adalk`](https://www.ada.lk/breaking_news/නීති-විරෝධිව-උපයාගත්-වත්කම්-රාජ-සන්තක-කරන-පනත-ලබන-මස-පාර්ර්ලිමේන්තුවට/11-410491) · `si`
-
-The Minister of Justice emphasizes a robust legal system to combat bribery among public servants, presenting a bill to parliament aimed at recovering illicit assets. He highlights the importance of a strong legal framework for national development, citing educational reforms and the need to uphold the rule of law.
-
-🟩
-
-The Minister of Justice Wijayadasa Rajapakse says that although some public servants are taking bribery commissions, there is a strong legal system to become a prosperous legal system.
-
-The Minister also presented the Bill in Parliament to be presented to Parliament for public responsibilities.
-
-Minister of Justice made these comments at a ceremony held as a Dhamma School Teachers in Galle District as a Dhamma School Teachers in Galle District as a Dhamma School Teachers in Galle DistrictTogether.
-
-"Some criticize that today's public service is not served. But that idea is not correct. Several public employees acted bribery commissions, but public servants will serve as a whole.
-
-A strong new bribery commission has been appointed to quit bribery and commission. Submit the Bill in Parliament to procure the assets of crime and illegal assets to be presented to Parliament next month. During the past few months, 75 bills have been amended to reform the legal system.
-
-...
-
-[Data](articles/675b7cdc.json)
-
-[Extended Data](ext_articles/675b7cdc.ext.json)
-
----
-
-### The Fraser is going to be wowner
-
-*2024-06-28 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198250) · `si`
-
-David Warner, Australia's top batsman, announced his retirement from international cricket after the team's exit from the T20 World Cup. He remains a strong contender for Test matches. His teammate Jake Fraser might take over as the next big player, as seen during their time with the Delhi Capitals in the IPL.
-
-🟩
-
-David Warner, the Super starter batsman of the Australian cricket team, has been told to the international cricket.
-
-When the Australian team to be out of the round of the Supers of the Twenty20 World Cup, Warner retired from international cricket.
-
-Warner says the best batsman for the place where he is empty. He says that not only twenty-day, 20 and twenty but also is a fit batsman for Test matches.
-
-Wahoher, a note of the Instagram page, said: 'All in champion'.
-
-Warner and Jake Frazer Muger was played for the Delhi Capitals team at the Indian Premier League.
-
-◼️
-
-[Data](articles/05c04061.json)
-
-[Extended Data](ext_articles/05c04061.ext.json)
 
 ---

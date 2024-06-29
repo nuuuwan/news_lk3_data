@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 18:24:22**
+As of **2024-06-29 18:35:29**
 
 ## Newspaper Stats
 
-*Scraped **32,799** Articles*
+*Scraped **32,800** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,53 +20,83 @@ adaderanalk | 3,733
 tamilmirrorlk | 3,874
 dailymirrorlk | 4,733
 virakesarilk | 5,109
-adaderanasinhalalk | 5,406
+adaderanasinhalalk | 5,407
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,796 (100.0%) of 32,799 articles have been extended.
+32,799 (100.0%) of 32,800 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
 
-### ඡන්දය ගැන මැතිවරණ කොමිසමෙන් ඉඟියක්
+### සුඩානයේ දරුණු සාගතයක්
+
+*2024-06-29 18:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198295) · `si`
+
+වසරක අධික කාලයක සිට සිවිල් යුද්ධයකට මැදිව සිටින සුඩාන ජනතාවගෙන් අඩක් දරුණු සාගතයකට මුහුණ දෙමින් සිටින බව එක්සත් ජාතීන් අවධාරණය කරයි.
+
+ඇතැම් සුඩාන ජාතිකයින් කුසගින්න නිවා ගැනීම සඳහා දැනටමත් කොළ සහ පස් ආහාරයට ගන්නා බවද සඳහන්ය.
+
+ලොව දරුණුතම සාගතයක් ලෙස වාර්තා අතරට එක්ව ඇති සුඩාන ආහාර අර්බුදය සැලකෙන්නේ එරටින් මෙතෙක් වාර්තා වී ඇති දරුණුතම ආහාර අනාරක්ෂිතතාව ලෙසය.
+
+◼️
+
+[Data](articles/81c07aa1.json)
+
+---
+
+### Election Commission hints of votes
 
 *2024-06-29 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198294) · `si`
 
-එළඹෙන ජුලි මස 17න් පසුව ජනාධිපතිවරණය පිළිබඳ නිවේදනය ප්‍රකාශ කිරීම සඳහා මැතිවරණ කොමිසමට බලය ලැබෙන බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් රත්නායක මහතා පවසයි.
+The Elections Commission plans to announce the date for the presidential election after July 17th, as indicated by Commissioner General Saman Ratnayake. He assured readiness for any election and mentioned the possibility of using the 2024 voter list.
 
-මැතිවරණ කොමසාරිස් ජනරාල් සමන් රත්නායක මහතා අද (29) මහනුවරදී මාධ්‍ය වෙත අදහස් දක්වමින් මේ බව සඳහන් කළේය.
+🟩
 
-ඔහු වැඩිදුරටත් සඳහන් කළේ මැතිවරණ කොමිසම ඕනෑම මැතිවරණයකට සූදානම් බවය.
+Elections Commissioner General Saman Ratnayake says that the Elections Commission will be empowered to express the announcement of the presidential election after 17 July 17.
 
-මෙම මැතිවරණය සඳහා 2024 ජන්ද හිමි නාමලේඛනය උපයෝගී කරගැනීමට හැකි බවද සමන් රත්නායක මහතා පැවසීය.
+Elections Commissioner General Saman Ratnayake said this to the media in Kandy today (29).
+
+He further stated that the Election Commission is ready for any election.
+
+Saman Ratnayake said that the 2024 voter list could be utilized for this election.
 
 ◼️
 
 [Data](articles/995d110f.json)
 
+[Extended Data](ext_articles/995d110f.ext.json)
+
 ---
 
-### ලංකාවට ඇමෙරිකානු ඩොලර් බිලියන 17ක වාසියක් එන හැටි ඇමති අලි සබ්‍රි කියයි
+### Minister Ali Sabri says Sri Lanka gets an advantage of US $ 17 billion
 
 *2024-06-29 17:36:46* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවට-ඇමෙරිකානු-ඩොලර්-බිලියන-17ක-වාසියක්-එන-හැටි-ඇමති-අලි-සබ්‍රි-කියයි/11-410502) · `si`
 
-ද්වී පාර්ශ්වීය ණය හිමියන් සමඟ ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලිය සාර්ථක කරගැනීමත් සමඟ ශ්‍රී ලංකාවට ඇමෙරිකානු ඩොලර් බිලියන 17ක පමණ වාසියක් හිමිවන බව විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ සබ්‍රි මහතා සඳහන් කළේය.
+Sri Lanka secured a $17 billion advantage through debt restructuring, including agreements with the IMF, India, Japan, France, and China. This move not only stabilized the country's debt situation but also paved the way for negotiations on international sovereign bonds, aiming to reduce the total loan to 95% of GDP and lower foreign debt interest to 4.5% of GDP.
 
-එසේම ජාත්‍යන්තර ස්වෛරී බැඳුම්කර සම්බන්ධයෙන් වන සාකච්ඡා සාර්ථක කරගැනීමට ද මෙම තත්ත්වය ඉවහල් වන බව අමාත්‍යවරයා පැවසීය.
+🟩
 
-විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්‍රි මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+External Affairs Minister Sabri stated that Sri Lanka has an advantage of US $ 17 billion.
 
-2022 වසරේ අප්‍රේල් මස 12 වනදා ශ්‍රී ලංකාව විසින් ගෙවිය යුතු විදේශ ණය යම් ප්‍රමාණයක් ගෙවීම තාවකාලිකව අත්හිටුවීමට තීරණය කළා. ඒ වන විටත් ඩොලරයට සාපේක්ෂව රුපියලේ අගය 600, 700 සහ 1000 දක්වා ඉහල යන බවට එවක සිටි ඇතැම් පාර්ශ්ව චෝදනා කළා. නමුත් පසුව අප විසින් එම තත්ත්වය පාලනය කර ගැනීමට සමත් වුණා.
+The Minister also also helps us to make negotiations on international sovereignty bonds.
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ ගිවිසුම් ගත වීමේ දී ණය ප්‍රතිව්‍යුහගත කරගන්නා ලෙස අපට දැනුම් දුන්නා. ඒ සඳහා ලසාඩ් සමාගම අපගේ නියෝජිතයා ලෙසත් නීති උපදේශක ලෙස ක්ලිෆඩ් චාන්ස් සමාගමත් පත් කර ගැනීමට කටයුතු කළා.
+Foreign Minister Ali Sabri said this at a press conference held at the President's Media Center today by the President's Counsel.
+
+Deciding on April 12, 2022 decided to suspend a certain amount of foreign loans due to Sri Lanka. Some of the parties in the same time alleged to increase the rupee to 600, 700 and 1000 compared to the dollar. But then we managed to control the situation.
+
+Informed us to restructure debt in agreement with the International Monetary Fund. We also took Lasaard as our representative and to appoint Clifford Chance as Legal Advisor.
+
+Here we first taken action to restructure local debts. Even when this is done, we must state that we have done the debt of multilateral organizations as a country.
 
 ...
 
 [Data](articles/cf8453e8.json)
+
+[Extended Data](ext_articles/cf8453e8.ext.json)
 
 ---
 
@@ -150,19 +180,29 @@ Foreign Minister Tharaka Balaboda, MPs Gamini Walaboda and Dayasiri Jayasekera a
 
 ---
 
-### අස්වැසුමට තවත් රුපියල් බිලියන 11.6ක්
+### 11.6 billion to relief
 
 *2024-06-29 17:14:19* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුමට-තවත්-රුපියල්-බිලියන-11-6ක්/11-410499) · `si`
 
-අස්වැසුම සුබසාධක ප්‍රතිලාභ ගෙවීමේ වැඩසටහන යටතේ 2024 ජුනි මාසය සඳහා සංක්‍රාන්තික හා අවධානමට ලක්වූ කාණ්ඩවලට අයත් ප්‍රතිලාභීන්ට විශේෂ දීමනා ගෙවීම සඳහා රුපියල් බිලියන 11.6ක මුදලක් සුබසාධක ප්‍රතිලාභ මණ්ඩලය විසින් සමස්ත ප්‍රතිලාභීන් 622,495 දෙනෙකුගේ බැංකු ගිණුම් වෙත මුදා හැර තිබේ.
+President Ranil Wickremesinghe extended special allowances for eligible beneficiaries, including a monthly Rs. 5,000 payment from July 2024 to December 2024, due to the economic situation. The Welfare Benefit Board continues to support the needy through this initiative.
 
-මෙම වැඩසටහනේ පළමු අදියර ලෙස අවධානමට ලක්වූ කාණ්ඩයේ සුදුසුකම් ලැබූ ප්‍රතිලාභීන්ට රුපියල් 5000 බැගින් 2023 ජූලි මස සිට 2024. 03. 31 දක්වාත්, සංක්‍රාන්ති කාණ්ඩය යටතේ සුදුසුකම්ලාභීන්ට රුපියල් 2500 බැගින් 2023 ජූලි මස 2023. 12. 31 දක්වාත් ගෙවීමට කටයුතු යොදා තිබිණි.
+🟩
 
-වත්මන් ආර්ථික තත්ත්වය සැලකිල්ලට ගෙන අස්වැසුම සුබසාධක ප්‍රතිලාභ ගෙවීමේ වැඩසටහන යටතේ සංක්‍රාන්තික කාණ්ඩයේ සහ අවධානමට ලක්වූ කාණ්ඩයේ ප්‍රතිලාභීන්ට විශේෂ දීමනා ගෙවීමේ කාලය මේ වසරේ දෙසැම්බර් මස දක්වා දීර්ඝ කරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සුබසාධක ප්‍රතිලාභ මණ්ඩලයට උපදෙස් දී ඇත.
+The Welfare Benefits of the benefit Board of the Welfare and Risk Board have been released to the bank accounts of Rs.
 
-...
+5000 rupees from July 2024 to qualified category eligible beneficiaries in the event. 03. 2500 per Rs. 2500 3 July 2023. 12. Steps were also paid to 31.
+
+In view of the current economic situation, President Ranil Wickremesinghe has instructed the Welfare Benefit Board to extend the period of payment of special allowances to the beneficiaries of the transition category and the surfaces.
+
+In July, 2024, to pay a special allowance for the monthly and vulnerable categories for June 2024, to December 2024 to pay Rs. 5,000 per month.
+
+The Chairman / Commissioner General of Welfare, Jayantha Wijeratne says that the payment system for the poor and poor categories are continuing.
+
+◼️
 
 [Data](articles/911e6261.json)
+
+[Extended Data](ext_articles/911e6261.ext.json)
 
 ---
 
@@ -2259,37 +2299,5 @@ Sri Lanka has earned US $ 125 million from the process of peacekeeping of the Re
 [Data](articles/f556f64d.json)
 
 [Extended Data](ext_articles/f556f64d.ext.json)
-
----
-
-### Officers who ignore Tharushi's Olympics
-
-*2024-06-28 19:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198267) · `si`
-
-Sri Lanka's Athletic Authority faces criticism for allegedly neglecting Tharushi's Olympic preparations. Despite her impressive performance in the 800 meters, her event was held in poor conditions during the rainy season, affecting her timing. Her coach requested a delay, but the request was ignored, potentially jeopardizing her chances at the Paris Olympics. This incident raises questions about the authority's commitment to supporting athletes, highlighting a need for improved facilities and support systems.
-
-🟩
-
-Sri Lanka's sports authorities are able to qualify for the Olympic Games to facilitate the Olympics to attend the Olympics.
-
-The news is an injustice to the Athletic Authority of Athletic Authority, an athletic 19, is an outstanding athlete, who is the Olympic Framework.
-
-The Athletics Championships that ended on the Paris Olympics to be eligible to qualify for the Olympic Hold in July.
-
-It was also known as Ashi Ashi Karunaratne in the 800 meter events near the Olympic Cap.
-
-48 players around the world will be eligible for the 800mmary of the Paris Olympics Women's Mem Day.
-
-The last 800 meter event was scheduled to begin at 7.50 am, but the water was on the rains from the grain.
-
-Tharushi's coach Susantha Fernando has asked athletics authorities to delay the beginning of the event.
-
-The coach has been appointed by the first lane in the first lane, the most important lane in the 800 meter route, due to difficulty in the rainy season.
-
-...
-
-[Data](articles/c3477f00.json)
-
-[Extended Data](ext_articles/c3477f00.ext.json)
 
 ---

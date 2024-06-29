@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 10:54:18**
+As of **2024-06-29 11:07:21**
 
 ## Newspaper Stats
 
-*Scraped **32,756** Articles*
+*Scraped **32,757** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,821
 economynextcom | 1,922
 dailyftlk | 2,015
-adalk | 2,896
+adalk | 2,897
 adaderanalk | 3,727
 tamilmirrorlk | 3,867
 dailymirrorlk | 4,733
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,750 (100.0%) of 32,756 articles have been extended.
+32,756 (100.0%) of 32,757 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
 
-### ජල සැපයුම විසන්ධි කළ ප්‍රදේශ
+### Water Supply Disconnected Areas
 
 *2024-06-29 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198277) · `si`
 
-කොළඹ ඇතුළු ප්‍රදේශ කිහිපයකට අද (29) වනදා ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
+Several areas in Colombo, including Dehiwala, Mount Lavinia, Kotte, Boralesgamuwa, and Mulleriyawa, will experience a 15-hour water cut starting from 9 am today due to modernization work at the Ambatale Water Treatment Plant. However, water supply will continue in the Moratuwa Municipal Council area.
 
-ඒ අනුව අද පෙරවරු 9 සිට මධ්‍යම රාත්‍රී 12 දක්වා පැය 15ක කාලයක් ජලසැපයුම අත්හිටුවනු ඇත.
+🟩
 
-කොළඹ, දෙහිවල, ගල්කිස්ස, කෝට්ටේ, කඩුවෙල යන මහනගර සභා බලප්‍රදේශ, මහරගම, බොරලැස්ගමුව,කොළොන්නාව යන නගර සභා බල ප්‍රදේශ සහ කොටිකාවත්ත, මුල්ලේරියාව යන ප්‍රාදේශීය සභා බල ප්‍රදේශවලට ජලසැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය වැඩිදුරටත් සඳහන් කරයි.
+The National Water Supply and Drainage Board (NBRO) says that several areas of Colombo will be suspended today (29).
 
-ඊට අමතරව මොරටුව මහනගර සභා බල ප්‍රදේශයේ අඩුපීඩන තත්ත්වය යටතේ ජලය සැපයෙන බවද ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
+Accordingly, a water supply will be suspended for a 15-hour water from 9 am.
 
-අඹතලේ ජල පවිත්‍රාගාරයේ අත්‍යවශ්‍ය නවීකරණ කටයුත්තක් සහ ජල පිරිපහදු පද්ධතියේ නඩත්තු කටයුත්තක් හේතුවෙන් මෙම ජල කප්පාදුව සිදුකිරීමට නියමිතය.
+The National Water Supply and Drainage Board further stated that the water supply is suspended in Colombo, Dehiwala, Mount Lavinia, Kotte, Boralesgamuwa, Kotte and Mulleriyawa Pradeshiya Sabha areas.
+
+The National Water Supply and Drainage Board says that water will be provided with drop in the Moratuwa Municipal Council area.
+
+The water cut will be made due to an essential modernization of the Ambatale Water Treatment Plant and the maintenance work of the water refinery system.
 
 ◼️
 
 [Data](articles/d56010a6.json)
+
+[Extended Data](ext_articles/d56010a6.ext.json)
 
 ---
 
@@ -68,6 +74,8 @@ The confiscated drugs are to be transferred this morning to officials from the P
 
 [Data](articles/b623728b.json)
 
+[Extended Data](ext_articles/b623728b.ext.json)
+
 ---
 
 ### Sri Lanka inflation rise only 3.3-pct over 21-months to June 2024
@@ -86,25 +94,33 @@ Since September 2022 when monetary stability was reached the exchange rate has b
 
 [Data](articles/9b016771.json)
 
+[Extended Data](ext_articles/9b016771.ext.json)
+
 ---
 
-### உக்ரைனிற்கு எதிராக போரிடும் இலங்கையர்கள் பலர் ரஸ்ய பிரஜைகளாக மாறியுள்ளனர் – அலிசப்ரி
+### Many Sri Lankans fighting against Ukraine have become Russian citizens - Alizabri
 
 *2024-06-29 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187227) · `ta`
 
-உக்ரைனிற்கு எதிராக போரிடும் இலங்கையை சேர்ந்த கூலிப்படையினரில் ரஸ்ய பிரஜைகளாக மாறியுள்ளனர் என வெளிவிவகார அமைச்சர் அலி சப்ரி தெரிவி;த்துள்ளார்.
+Sri Lanka's External Affairs Minister Ali Sabri announced that many Sri Lankans fighting in Ukraine have gained Russian citizenship, leading to 446 complaints from families seeking their return. He warned that acquiring foreign citizenship results in losing Sri Lankan citizenship and highlighted concerns over individuals being misled into assisting in military camps.
 
-உக்ரைன் போர் முனைகளில் சிக்குண்டவர்களை மீட்டுதருமாறு கோரும் 446 முறைப்பாடுகள் இலங்கை வெளிவிவகார அமைச்சிற்கு கிடைத்துள்ளன என அலிசப்ரி தெரிவித்துள்ளார்.
+🟩
 
-அவர்களில் பலர் ரஸ்ய பிரஜைகளாக மாறியுள்ளனர் ரஸ்ய குடியுரிமையை பெற்றுக்கொண்டுள்ளனர் என அவர் தெரிவித்துள்ளார்.
+External Affairs Minister Ali Sabri said that the Sri Lankan mercenaries who are fighting against Ukraine have become Russian citizens.
 
-இன்னுமொரு நாட்டின் பிரஜாவுரிமையை நீங்கள் பெற்றுக்கொண்டால் இலங்கையின் பிரஜாவுரிமையை நீங்கள் இழந்துவிடுவீர்கள் நீங்கள் இலங்கை பிரஜை இல்லை என்பதால் உங்களின் சார்பில் பேசுவதற்கு எங்களிற்கு உரிமையில்லை என அலிசப்ரி தெரிவித்துள்ளார்.
+Alisabri said that the Ministry of Foreign Affairs of Sri Lanka has received 446 complaints demanding the recovery of those who have been rescued on the Ukraine war fronts.
 
-சிலர் தவறாக வழிநடத்தப்பட்டுள்ளனர் போல தோன்றுகின்றது முகாம்களில் உதவியாளர்களாக பணியாற்றுவதற்காக சேர்க்கப்படுவதாக தெரிவித்து அவர்களை போருக்குள் சிக்கவைத்துள்ளனர் என அலிசப்ரி தெரிவித்துள்ளார்.ஏனையவர்கள் தெரிந்தே இணைந்துகொண்டுள்ளனர் என அவர் குறிப்பிட்டுள்ளார்.
+Many of them have become Russian citizens, they have obtained Russian citizenship, he said.
+
+If you get the citizenship of another country, you will lose the citizenship of Sri Lanka.
+
+Alizabri said that some people appear to be misleading and that they are being used to work as assistants in the camps.
 
 ◼️
 
 [Data](articles/3af58990.json)
+
+[Extended Data](ext_articles/3af58990.ext.json)
 
 ---
 
@@ -152,19 +168,25 @@ The Department has informed the fisheries and the naval community as no leoming 
 
 ---
 
-### மீனவர்களுக்கு விடுக்கப்பட்டுள்ள எச்சரிக்கை!
+### Warning for fishermen!
 
 *2024-06-29 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/187226) · `ta`
 
-கடலுக்கு செல்லும் மீனவர்களும் கடல் சார் ஊழியர்களும் அவதானத்துடன் கடற்றொழில் நடவடிக்கைளில் ஈடுபடுமாறு  வளிமண்டலவவியல் திணைக்களத்தின் இயற்கை அபாயங்கள் முன்னெச்சரிக்கை மையம் தெரிவித்துள்ளது.
+Fishermen and maritime workers are urged to seek safety due to strong winds up to 80 km/h in the Arabian Sea caused by the southwest monsoon. The Department of Atmospheric Department advises immediate return to shore or moving to safe areas.
 
-தென்மேற்கு பருவமழை நிலை காரணமாக அரபிக் கடல் பகுதியில் மணிக்கு 80 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் எனவும், கடல் கொந்தளிப்பாகவும் இருக்கும் இயற்கை அபாயங்கள் முன்னெச்சரிக்கை மையம் தெரிவித்துள்ளது.
+🟩
 
-மேற்குறிப்பிட்ட கடல் பகுதிகளில் இருப்பவர்கள் உடனடியாக கரையோரங்களுக்கு திரும்பவும் அல்லது பாதுகாப்பான பகுதிகளுக்கு செல்லவும் அறிவுறுத்தப்படுகிறார்கள்.
+The Department of Atmospheric Department has said that fishermen and maritime workers are on the lookout for fisheries.
+
+Due to the southwest monsoon condition, strong winds are likely to blow at speeds of up to 80 km / h in the Arabian Sea, according to the Center for Natural Center.
+
+Those in the waters are advised to return to the shores immediately or go to safe areas.
 
 ◼️
 
 [Data](articles/a7451173.json)
+
+[Extended Data](ext_articles/a7451173.ext.json)
 
 ---
 
@@ -211,6 +233,24 @@ This is the first time South Africa in the history of the World Cup has qualifie
 [Data](articles/c104fd21.json)
 
 [Extended Data](ext_articles/c104fd21.ext.json)
+
+---
+
+### ජුලි 02දා ජනපතිගෙන් පාර්ලිමේන්තුවට විශේෂ ප්‍රකාශයක්
+
+*2024-06-29 08:17:46* · [`adalk`](https://www.ada.lk/breaking_news/ජුලි-02දා-ජනපතිගෙන්-පාර්ලිමේන්තුවට-විශේෂ ප්‍රකාශයක්/11-410496) · `si`
+
+විදේශ ණය ප්‍රතිව්‍යුහගත කිරීමේ ගිවිසුම් ක්‍රියාත්මක කිරීම සදහා වූ යෝජනා සම්මතය පිළිබඳ විවාදය ජූලි 2 සහ 3 දෙදින පැවැත්වීමට  පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය වූ බව පාර්ලිමේන්තුවේ කාර්ය මණ්ඩල ප්‍රධානී සහ නියෝජ්‍ය මහලේකම් චමින්ද කුලරත්න මහතා පැවසීය.
+
+ඊයේ (28) පෙරවරුවේ කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් සහ අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතාගේ සහභාගීත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී මේ බව තීරණය වී ඇත.
+
+මේ අනුව ජූලි 2 වැනි අඟහරුවාදා පෙ.ව 9.30 ට පාර්ලිමේන්තුව රැස්වීමට නියමිත අතර ප.ව 5.00 දක්වා විවාදය පැවැත්වීමට තීරණය වී තිබේ. එසේම විදේශ ණය ප්‍රතිව්‍යුහගත කිරීමේ ගිවිසුම් ක්‍රියාත්මක කිරීම සම්බන්ධයෙන්  එදින පෙරවරුවේ ජනාධිපතිවරයා විසින් පාර්ලිමේන්තුවට විශේෂ ප්‍රකාශයක් කිරීමට ද නියමිතව බව නියෝජ්‍ය මහලේකම්වරයා වැඩිදුරටත් පැවසීය.
+
+ජූලි 3 වැනි බදාදා පෙ.ව 9.30 සිට ප.ව 5.00 දක්වා මෙම විවාදය දෙවැනි දිනටත් පැවැත්වීමට මෙහිදී තීරණය වී ඇත. අනතුරුව ප.ව 5.00 මෙම යෝජනා සම්මතයට අදාළ ඡන්ද විමසීම පැවැත්වීමට නියමිතව තිබේ.
+
+...
+
+[Data](articles/ced510d2.json)
 
 ---
 
@@ -273,6 +313,8 @@ The Sri Lankan foreign ministry maintains that there have been 17 Sri Lankan dea
 ◼️
 
 [Data](articles/35fccd1d.json)
+
+[Extended Data](ext_articles/35fccd1d.ext.json)
 
 ---
 
@@ -2197,33 +2239,5 @@ The bus fares have been reduced under the annual fare revision, and as agreed du
 [Data](articles/bdef3f42.json)
 
 [Extended Data](ext_articles/bdef3f42.ext.json)
-
----
-
-### Two former Security Ministers of China are exposed from the Communist Party for alleged corruption
-
-*2024-06-28 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/187171) · `ta`
-
-China's Communist Party expelled former defense ministers Lee Shangfu and Wei Fenghe over corruption allegations. Lee vanished in August but was removed from his post in October. Both faced accusations of bribery. This move aligns with President Xi Jinping's efforts to combat corruption within the state sector, despite criticism from opponents viewing it as a means to eliminate political rivals.
-
-🟩
-
-Former China's former defense ministers Lee Shangfu and Wei Fenga were expelled from the ruling Communist Party yesterday (27). Chinese media reports that they have been expelled from the party due to corruption allegations.
-
-Wei Feenga held the post of Defense from March 2018 to 2023 March 11th March. The next day Lee Shankbu was sworn in as Defense Minister.
-
-Last August two months, he disappeared from public view. When he was questioned what happened to him, it was announced last October that Lee Shangfu had been removed from the post of Defense Minister.
-
-The Chinese state media CCRV has been suspended from the Chinese Communist Party due to corruption allegations. Yesterday said.
-
-CCRV has been accused of bribing Lee Shangfu using his post and bribing others.. Has been reported.
-
-The Chinese Communist Party, which founded the Chinese People's Republic, is the only ruling party. The Chinese Communist Party is the most powerful organization in the country.
-
-...
-
-[Data](articles/71388bef.json)
-
-[Extended Data](ext_articles/71388bef.ext.json)
 
 ---

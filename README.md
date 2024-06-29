@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 14:19:33**
+As of **2024-06-29 14:35:16**
 
 ## Newspaper Stats
 
-*Scraped **32,777** Articles*
+*Scraped **32,779** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ adaderanalk | 3,730
 tamilmirrorlk | 3,872
 dailymirrorlk | 4,733
 virakesarilk | 5,108
-adaderanasinhalalk | 5,396
+adaderanasinhalalk | 5,398
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,777 (100.0%) of 32,777 articles have been extended.
+32,777 (100.0%) of 32,779 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
+
+### මුහුදේ පාවී ආ බෝතල් මත්පැන් යැයි සිතා පානය කළ ධීවරයින් දෙදෙනෙක් මරුට
+
+*2024-06-29 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198285) · `si`
+
+මත්පැන් බව සිතා විෂ සහිත ද්‍රාවණයක් පානය කිරීම හේතුවෙන් තංගල්ල ධීවර වරායෙන් මුහුදු ගිය ධීවරයින් දෙදෙනෙකු මියගොස් තිබේ.
+
+තවත් ධීවරයින් සිව් දෙනෙකු අසාධ්‍ය තත්ත්වයේ පසුවන බව ධීවර අධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත මහතා පැවසීය.
+
+තංගල්ල ධීවර වරායෙන් ධීවර කටයුතු සඳහා පිටත්ව ගිය "ඩෙවෝන්" නම් බහුදින ධීවර යාත්‍රාවේ සිටි ධීවරයින් 06 දෙනෙකු මෙම සිද්ධියට මුහුණ පා ඇති බව සඳහන් ය.
+
+ඊයේ (28) රාත්‍රියේ ඔවුන්ට මුහුදේ පාවෙමින් තිබු බෝතල් කිහිපයක් හමුවී ඇති අතර මත්පැන් බව සිතා ඔවුන් ඒවා පානය කර තිබේ.
+
+එහිදී ධීවරයින් 06 දෙනාම රෝගී තත්ත්වයට පත්වී ඇති අතර ඒ සම්බන්ධයෙන් පණිවිඩ හුවමාරු යන්ත්‍ර ඔස්සේ ඔවුන් දැනුම්දීමක් සිදුකර තිබු බව ධීවර අධ්‍යක්ෂ ජනරාල්වරයා පැවසීය.
+
+"තංගල්ල ධීවර වරායෙන් රැකියාව සඳහා ගිය මෙම යාත්‍රාවට ඊයේ රාත්‍රියේ මුහුදේ පාවෙමින් තිබුණු යම්කිසි බෝතල් වගයක් හමුවෙලා. මේ බෝතල්වල මත්පැන් කියලා විශ්වාස කරලා... ඔවුන් අද උදේ ඒ බෝතල්වල තිබුණු දේ පානය කරලා තියෙනවා. අනතුරව කාර්යමණ්ඩලයේ 06 දෙනාම රෝගී තත්ත්වයකට පත්වෙලා. මොවුන් දැඩි රෝගාතුරවීමට පෙර ඔවුන්ට යම් ශරීරික අපහසුතාවක් ඇති වෙලා."
+
+...
+
+[Data](articles/a9de81a6.json)
+
+---
+
+### අපේ මිනිස්සු ගැන රුසියාවෙන් දුන් පිළිතුර
+
+*2024-06-29 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198284) · `si`
+
+රුසියානු - යුක්‍රේන යුද්ධයට එක්වීම සඳහා මෙරටින් ගිය ශ්‍රී ලාංකික විශ්‍රාමික සෙබළුන්ගෙන්  17 දෙනෙකු මියගොස් ඇති බව ඔවුන් පිළිබඳ සොයාබැලීම සඳහා රුසියාව බලා පිටත්ව ගිය මෙරට දූත පිරිසේ සාමාජික පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා පවසයි.
+
+කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළින් අද (29) අලුයම දිවයිනට පැමිණීමෙන් අනතුරුව මාධ්‍යයට අදහස් දක්වමින් ඔහු සඳහන් කළේ, යුද්ධයට එක්වූ 121 දෙනෙකු මේ වනවිට අතුරුදන්වී ඇති බවය.
+
+මෙම සිද්ධිය ගැන තොරතුරු සොයා බැලීමට විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය, පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන ගාමිණී වලේබොඩ, දයාසිරි ජයසේකර මහතා ඇතුළු රාජ්‍ය නිලධාරීන් 8 දෙනෙකු පසුගියදා දිවයිනෙන් පිටත්ව ගොස් තිබුණි.
+
+එහිදී ශ්‍රී ලාංකික දූත පිරිස රුසියානු විදේශ කටයුතු නියෝජ්‍ය අමාත්‍යවරයා, රුසියානු ආරක්ෂක අමාත්‍යවරයා ඇතුළු නිලධාරින් පිරිසක් සමග සාකච්ඡා පවත්වා ඇත.
+
+◼️
+
+[Data](articles/e5abd37d.json)
+
+---
 
 ### More information about the accident arrested by Yashoda Range Bandara
 
@@ -2213,49 +2253,5 @@ While some appeared to have been misled that they would be camp helpers in suppo
 [Data](articles/5138f922.json)
 
 [Extended Data](ext_articles/5138f922.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 306.00/20 to US dollar
-
-*2024-06-28 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-306-00-20-to-us-dollar-170105/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 306.00/20 to the US dollar on Friday, down from 305.70/90 to the US dollar on Thursday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 10.95/11.15 percent, down from 11.00/30 percent.
-
-A bond maturing on 15.02.2028 closed at 11.90/98 percent, down from 11.85/12.05 percent.
-
-A bond maturing on 15.09.2029 closed at 12.20/30 percent, up from 12.15/30 percent.
-
-A bond maturing on 01.06.2033 closed at 12.35/50 percent down from 12.35/95 percent.
-
-◼️
-
-[Data](articles/6a5cdc29.json)
-
-[Extended Data](ext_articles/6a5cdc29.ext.json)
-
----
-
-### 137 Indians arrested in Sri Lanka over massive online financial scam
-
-*2024-06-28 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100166/137-indians-arrested-in-sri-lanka-over-massive-online-financial-scam) · `en`
-
-Sri Lanka Police says a total of 137 Indian nationals who are allegedly part of a group engaged in a large-scale online financial scam operation have been arrested by the Criminal Investigations Department (CID) within yesterday (27) from multiple locations in the country.
-
-Police Media Spokesman DIG Nihal Thalduwa stated that in Negombo, 55 suspects were detained, along with the seizure of 55 mobile phones and 29 laptops.
-
-In Kochchikade, 53 suspects were apprehended, and authorities seized 31 laptops and 58 mobile phones.
-
-The operation in Madiwela, Sri Jayawardenepura Kotte led to the arrest of 13 individuals and the seizure of 8 laptops and 38 mobile phones, while in Thalangama, Battaramulla, 16 suspects were taken into custody, with 8 laptops and 38 mobile phones recovered.
-
-In total, 158 mobile phones, 16 laptops, and 60 desktop computers were seized from 137 Indians arrested, he said.
-
-...
-
-[Data](articles/73870cf4.json)
-
-[Extended Data](ext_articles/73870cf4.ext.json)
 
 ---

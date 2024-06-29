@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 09:05:54**
+As of **2024-06-29 09:19:21**
 
 ## Newspaper Stats
 
-*Scraped **32,747** Articles*
+*Scraped **32,748** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,821
 economynextcom | 1,920
 dailyftlk | 2,015
 adalk | 2,896
-adaderanalk | 3,724
+adaderanalk | 3,725
 tamilmirrorlk | 3,867
 dailymirrorlk | 4,733
 virakesarilk | 5,101
@@ -26,27 +26,53 @@ adaderanasinhalalk | 5,389
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,745 (100.0%) of 32,747 articles have been extended.
+32,747 (100.0%) of 32,748 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
 
-### 20යි 20 ලෝක කුසලානයේ අවසන් දිනය අදයි
+### 30 Chinese nationals arrested for online financial fraud
+
+*2024-06-29 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100173/30-chinese-nationals-arrested-for-online-financial-fraud) · `en`
+
+At least 30 Chinese nationals have been arrested by the Criminal Investigation Department (CID).
+
+Police Media Spokesman DIG Nihal Thalduwa said that the group was arrested while staying at a hotel in Negombo.
+
+He has stated that they were arrested on charges of financial fraud carried out online.
+
+Meanwhile, a total of 137 Indian nationals who are allegedly part of a group engaged in a large-scale online financial scam operation have been arrested by the CID within yesterday (27) from multiple locations in the country.
+
+The Police Spokesman further stated that in total, 158 mobile phones, 16 laptops, and 60 desktop computers were seized from the 137 Indians arrested.
+
+◼️
+
+[Data](articles/18372c9f.json)
+
+---
+
+### Today is the last day of the World Cup
 
 *2024-06-29 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198275) · `si`
 
-T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අවසන් තරගය අද (29) පැවැත්වීමට නියමිතය.
+Today marks the historic finale of the T20 World Cup, where India faces South Africa at 8:00 pm in Barbados. This is South Africa's inaugural appearance in the final after qualifying through the Super Eight stage alongside India.
 
-ඉන්දියාව සහ දකුණු අප්‍රිකාව අතර තරගය රාත්‍රී 8.00 ට බාර්බඩෝස් හිදී පැවැත්වෙයි.
+🟩
 
-මූලික වටයේ ඒ කාණ්ඩය යටතේ ඉන්දියාව අපරාජිතව සුපිරි අටදෙනාගේ වටයට සුදුසුකම් ලැබූ අතර ඩී කාණ්ඩය යටතේ තරග වැදුණු දකුණු අප්‍රිකාව ද අපරාජිතව සුපිරි අට දෙනාගේ වටයට සුදුසුකම් ලැබීය.
+The final game of the T20 World Cup will be held today (29).
 
-ඒ අනුව, ලෝක කුසලාන ක්‍රිකට් තරගාවලි ඉතිහාසයේ දකුණු අප්‍රිකා කණ්ඩායම අවසන් තරගයක් සඳහා සුදුසුකම් ලද ප්‍රථම අවස්ථාව මෙය වීම විශේෂත්වයකි.
+India and South Africa will be held at Barbados at 8.00 pm.
+
+The preliminary rounds, India qualified for the round of the Super Eight and qualified to the round of South Africa.
+
+This is the first time South Africa in the history of the World Cup has qualified for a final.
 
 ◼️
 
 [Data](articles/c104fd21.json)
+
+[Extended Data](ext_articles/c104fd21.ext.json)
 
 ---
 
@@ -68,23 +94,29 @@ Strong winds of about 40-50kmph can be expected at times over the Western slopes
 
 ---
 
-### ’கடன் மறுசீரமைப்பால் இலங்கைக்கு நன்மை’
+### Benefits of Sri Lanka
 
 *2024-06-29 07:24:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-மறுசீரமைப்பால்-இலங்கைக்கு-நன்மை/175-339592) · `ta`
 
-இருதரப்பு கடன் வழங்குநர்களுடனான கடன் மறுசீரமைப்பு செயல்முறை வெற்றியடைவதன் மூலம் இலங்கைக்கு சுமார் 17 பில்லியன் அமெரிக்க டொலர்கள் நன்மை கிடைக்கும் என வெளிநாட்டலுவல்கள் அமைச்சர் ஜனாதிபதி சட்டத்தரணி அலி சப்ரி தெரிவித்தார்.
+Sri Lanka expects to gain around $17 billion from its successful debt restructuring efforts with bilateral creditors, including India, Japan, and France, and negotiations with China. This achievement not only facilitates loan repayments but also strengthens its position for future international financial assistance. The country is also working towards reducing its total debt to 95% of GDP and lowering foreign loan interest to 4.5% of GDP, as part of its debt restructuring plan under IMF guidance.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் அலி சப்ரி இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-2022 ஏப்ரல் 12 ஆம் திகதி, குறிப்பிட்ட அளவு வெளிநாட்டுக் கடன்களை திருப்பிச் செலுத்துவதை தற்காலிகமாக நிறுத்த இலங்கை முடிவு செய்தது. அமெரிக்க டொலருக்கு நிகரான ரூபாவின் பெறுமதி 600, 700, 1000 ஆக உயரும் என்று, அன்று சிலர் குற்றம் சாட்டினர். ஆனால் நாம் அந்த நிலைமையைக் கட்டுப்படுத்தினோம்.
+Foreign Affairs Minister Ali Sabri said Sri Lanka would benefit from $ 17 billion benefit from the success of the debt reproductive process with bilateral credit providers.
 
-அதற்காக லாசார்ட் நிறுவனத்தை எமது பிரதிநிதியாகவும், சட்ட விடயங்களுக்காக கிளிபர்ட் ஹான்ஸ் நிறுவனமும் நியமிக்கப்பட்டன. இதன்போது, நாம் முதலில் உள்நாட்டுக் கடனை மறுசீரமைக்க நடவடிக்கை எடுத்தோம்.
+Minister Ali Sabri said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
 
-இவ்வாறான செயற்பாடுகள் முன்னெடுக்கப்பட்ட போதும் பலதரப்பு நிறுவனங்களின் கடனை செலுத்துவதற்காக ஒரு நாடாக நாம் செயற்பட்டு வந்தோம் என்பதும் குறிப்பிடத்தக்கது.
+On April 12, 2022, Sri Lanka decided to suspend a certain amount of foreign loans. Some accused the rupee of Rs 600, 700, 1000 against the US dollar. But we controlled that situation.
+
+For that, Lazart was appointed as our representative and Clipart Hans for legal matters. In the meantime, we first took steps to rebuild the domestic debt.
+
+It is noteworthy that despite such activities, we have been working as a country to pay off the debt of many companies.
 
 ...
 
 [Data](articles/78d041db.json)
+
+[Extended Data](ext_articles/78d041db.ext.json)
 
 ---
 
@@ -2211,29 +2243,5 @@ Work on the train in primary genera is launched.
 [Data](articles/6edd134e.json)
 
 [Extended Data](ext_articles/6edd134e.ext.json)
-
----
-
-### Japan is preparing to resume projects in Sri Lanka
-
-*2024-06-28 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198253) · `si`
-
-Japan plans to restart its projects in Sri Lanka post-Memorandum of Understanding signing. The Japanese Ambassador highlighted Sri Lanka's debt restructuring agreements with bilateral creditors and Japan's ongoing support for the country's economic recovery. This marks a significant step towards restoring faith in Sri Lanka's economy and aiding its financial recovery.
-
-🟩
-
-Japanese Ambassador to Sri Lanka's Japanese projects will be resumed after signing the Memorandum of Understanding (Undahabharaya) after signing the Memorandum of Understanding.
-
-At a press conference held in Colombo today, he said Sri Lanka will commend the signing of bilateral creditors to the restructuring agreements of debt.
-
-The ambassador also said that Japan continues to support the restoration of Sri Lanka's economy.
-
-"It is an important milestone to recover the economy of Sri Lanka as well as to re-win the belief in the international community. Japan is maximum of the best of Sri Lanka to support Sri Lanka. We are trying to accelerate financing to resume Japanese projects as soon as they signed. Japan helps Sri Lanka to recover from the financial crisis. "
-
-◼️
-
-[Data](articles/12eed0b8.json)
-
-[Extended Data](ext_articles/12eed0b8.ext.json)
 
 ---

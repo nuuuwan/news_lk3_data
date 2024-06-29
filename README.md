@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 13:19:32**
+As of **2024-06-29 13:35:01**
 
 ## Newspaper Stats
 
-*Scraped **32,774** Articles*
+*Scraped **32,776** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,64 @@ adalk | 2,898
 adaderanalk | 3,730
 tamilmirrorlk | 3,872
 dailymirrorlk | 4,733
-virakesarilk | 5,106
+virakesarilk | 5,108
 adaderanasinhalalk | 5,395
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,774 (100.0%) of 32,774 articles have been extended.
+32,774 (100.0%) of 32,776 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
+
+### ஈரான் ஜனாதிபதி தேர்தல் முடிவுகள்- இரு பிரதான வேட்பாளர்களிற்கு இடையில் கடும் போட்டி
+
+*2024-06-29 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/187245) · `ta`
+
+ஈரானில் ஜனாதிபதி தேர்தலில் போட்டியிட்ட இரு பிரதான வேட்பாளர்களிற்கு இடையில் கடும் போட்டி நிலவுவது வெளியாகியுள்ள தேர்தல் முடிவுகளின் மூலம் தெரியவந்துள்ளது.
+
+எட்டு மில்லியனிற்கு மேற்பட்ட வாக்குகள் எண்ணப்பட்டுள்ள நிலையில் கடும்போக்காளர் சயீட் ஜலீலிக்கும் மிதவாத வேட்பாளர்மசூட் பெசெக்கியானிற்கும் இடையில் கடும் போட்டி நிலவுகின்றது - இருவரும் சுமார் 40 வீத வாக்குகளை பெற்றுள்ளனர்.
+
+இரண்டு வாக்காளர்களும் 50 வீத வாக்குகளை பெறவிட்டால் வெள்ளிக்கிழமை இரண்டாம் சுற்று தேர்தல் இடம்பெறும்.
+
+மே 19ம் திகதி முன்னாள் ஜனாதிபதி இப்ராஹிம் ரைசி ஹெலிக்கொப்டர் விபத்தில் உயிரிழந்ததை தொடர்ந்து ஈரானில் ஜனாதிபதி தேர்தல் இடம்பெற்றது.
+
+◼️
+
+[Data](articles/e4e53eb0.json)
+
+---
+
+### 18 crores of rupees received as proteins taken from yoghurt
+
+*2024-06-29 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/187229) · `ta`
+
+Customs officials in Seeduwa seized 6 plastic bottles containing 2kg of cocaine and 2kg of cannabis, valued at Rs 185.64 million, shipped from Canada and the US. The drugs were initially mistaken for protein supplements due to their packaging, highlighting the challenges in detecting illicit substances.
+
+🟩
+
+Cocaine and Kush, worth Rs 185 million, were seized on Friday (28).
+
+Officials of the Customs Drug Control Unit have seized six large plastic bottles in the service company that sells the packages abroad in Seeduwa.
+
+Customs spokesman and Senior Customs Director Seewali Arukoda said that there were 2 kilograms of 30 grams of cocaine and 2 kilograms of 177 grams of cannabis.
+
+One gram of cocaine is 70,000 rupees and one gram of kush is 20,000 rupees. Accordingly, the total value of the seized drugs is estimated at Rs 185,640,000.
+
+The drug package has been sent from Canada and the United States to Kadawatha and Colombo a month ago.
+
+Customs did not remove it until these packs were seen as suspicious.. In the meantime, when the authorities found that the addresses were wrong because there was no one to get packs, they were found to have drugs.
+
+◼️
+
+[Data](articles/684abd57.json)
+
+[Extended Data](ext_articles/684abd57.ext.json)
+
+---
 
 ### 19 Covod - 19 New Genre in America
 
@@ -51,6 +97,20 @@ It is reported that the activism of the virus is still underway, hospitalization
 [Data](articles/5b399773.json)
 
 [Extended Data](ext_articles/5b399773.ext.json)
+
+---
+
+### பாலித ரங்கேபண்டாரவின் மகன் கைது !
+
+*2024-06-29 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/187246) · `ta`
+
+முன்னாள் பாராளுமன்ற உறுப்பினர் பாலித ரங்கே பண்டாரவின் மகன் கைதுசெய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப்பேச்சாளர் தெரிவித்தார்.
+
+வாகன விபத்து தொடர்பிலேயே முன்னாள் பாராளுமன்ற உறுப்பினர் பாலித ரங்கே பண்டாரவின் மகன் கைதுசெய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப்பேச்சாளர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/8d050a7c.json)
 
 ---
 
@@ -159,34 +219,6 @@ The driver of the three-wheeler had sustained serious injuries in the crash and 
 [Data](articles/ad2364a2.json)
 
 [Extended Data](ext_articles/ad2364a2.ext.json)
-
----
-
-### 18 crores of rupees received as proteins taken from yoghurt
-
-*2024-06-29 12:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/187229) · `ta`
-
-Customs officials in Seeduwa seized 6 plastic bottles containing 2kg of cocaine and 2kg of cannabis, valued at Rs 185.64 million, shipped from Canada and the US. The drugs were initially mistaken for protein supplements due to their packaging, highlighting the challenges in detecting illicit substances.
-
-🟩
-
-Cocaine and Kush, worth Rs 185 million, were seized on Friday (28).
-
-Officials of the Customs Drug Control Unit have seized six large plastic bottles in the service company that sells the packages abroad in Seeduwa.
-
-Customs spokesman and Senior Customs Director Seewali Arukoda said that there were 2 kilograms of 30 grams of cocaine and 2 kilograms of 177 grams of cannabis.
-
-One gram of cocaine is 70,000 rupees and one gram of kush is 20,000 rupees. Accordingly, the total value of the seized drugs is estimated at Rs 185,640,000.
-
-The drug package has been sent from Canada and the United States to Kadawatha and Colombo a month ago.
-
-Customs did not remove it until these packs were seen as suspicious.. In the meantime, when the authorities found that the addresses were wrong because there was no one to get packs, they were found to have drugs.
-
-◼️
-
-[Data](articles/684abd57.json)
-
-[Extended Data](ext_articles/684abd57.ext.json)
 
 ---
 
@@ -2199,57 +2231,5 @@ A suspect in the incident, an officer of the Medical Supplies Division (MSD), ha
 [Data](articles/b36714b9.json)
 
 [Extended Data](ext_articles/b36714b9.ext.json)
-
----
-
-### Sri Lanka stocks close down, Sampath Bank pushes turnover
-
-*2024-06-28 16:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-sampath-bank-pushes-turnover-170093/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Friday, data on its site showed.
-
-The broader All Share Index closed down 0.37 percent, or 45.03 points, at 12,143; while the more liquid S&P SL20 Index closed down 0.36 percent, or 12.83 points, at 3,588.
-
-A large part of this came from a crossing on Sampath Bank Plc which contributed in total 1 billion to the day’s turnover. The share closed down at 78.30.
-
-“There were 4 crossings today, which contributed more than 50 percent of the turnover,” Softlogic Stockbrokers said.
-
-“The high net worth and institutions sectors are positive, even though the retail segment is continuing with their wait-and-see approach.”
-
-Clearing activity usually seen around the month end could also have been a factor for the indices to close down, market participants said.
-
-“These being the last trade days of the month and a lot of clearing and margin calls taking place could be a reason for market to close down.”
-
-...
-
-[Data](articles/d75865b5.json)
-
-[Extended Data](ext_articles/d75865b5.ext.json)
-
----
-
-### 11.6 billion rupees to provide allowances to two sections of the Aswesuma Scheme
-
-*2024-06-28 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/187197) · `ta`
-
-The Welfare Trusts Council allocated 11.6 billion rupees to support 622,495 beneficiaries under the Intermediate and Vulnerable sections of the Assembly Welfare Program. This initiative, aimed at addressing the economic crisis, includes special allowances for those affected from July to December 2024, ensuring continued support for those below the poverty line.
-
-🟩
-
-The Welfare Trusts Council released Rs 11.6 billion on Thursday (27) for the deposit of 622,495 beneficiaries under the Intermediate and Vulnerable sections under the Assembly Welfare Program.
-
-In the first phase of this program, the payment of the impact of the impact is Rs.
-
-President Ranil Wickremesinghe has advised the period to issue a special allowance for beneficiaries selected under sections affected by the Ashemus Welfare Payment Program, considering the current economic crisis.
-
-It has also been decided to provide special allowances for those who have been affected by the victims and intermediate damage from July 2024 to December 2024.
-
-Similarly, Jayantha Wijeratne, Chairman and Commissioner of Welfare Benefits, said that the allowance for those below the Poverty and Poverty line will continue to be paid.
-
-◼️
-
-[Data](articles/a80c9091.json)
-
-[Extended Data](ext_articles/a80c9091.ext.json)
 
 ---

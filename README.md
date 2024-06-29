@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 18:53:29**
+As of **2024-06-29 19:04:44**
 
 ## Newspaper Stats
 
-*Scraped **32,801** Articles*
+*Scraped **32,803** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ islandlk | 1,821
 economynextcom | 1,922
 dailyftlk | 2,015
 adalk | 2,905
-adaderanalk | 3,733
+adaderanalk | 3,734
 tamilmirrorlk | 3,874
 dailymirrorlk | 4,733
 virakesarilk | 5,109
-adaderanasinhalalk | 5,407
+adaderanasinhalalk | 5,408
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,800 (100.0%) of 32,801 articles have been extended.
+32,801 (100.0%) of 32,803 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
+
+### India has taken up issue of fishermen charged with death of SL navy sailor - MEA
+
+*2024-06-29 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100183/india-has-taken-up-issue-of-fishermen-charged-with-death-of-sl-navy-sailor-mea) · `en`
+
+(ANI) Regarding the matter of 10 Indian fishermen being charged with the death of a navy sailor in Sri Lanka, India’s Ministry of External Affairs spokesperson Randhir Jaiswal said that India has always prioritised the welfare of these fishermen and is making efforts to bring them back home.
+
+Ten Indian fishermen, arrested by Sri Lanka on June 24 for alleged illegal fishing, will face charges related to the death of a Sri Lankan Navy sailor who was killed during an operation to apprehend them, stated reports.
+
+Addressing a weekly press briefing on Friday, MEA spokesperson Randhir Jaiswal said, “We have always attached the highest importance to the welfare of our fishermen who get caught abroad, and we have tried our best to bring them back.”
+
+Further, the MEA said they are aware of the situation and have raised the issue with Sri Lankan authorities.
+
+...
+
+[Data](articles/8e71194d.json)
+
+---
+
+### රංගේ බණ්ඩාරගේ පුතාට ඇප
+
+*2024-06-29 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198296) · `si`
+
+පුත්තලම, කරුවලගස්වැව ප්‍රදේශයේදී සිදුවූ රිය අනතුරක් සම්බන්ධයෙන් අත්අඩංගුවට පත්වූ එක්සත් ජාතික පක්ෂ මහලේකම් පාලිත රංගේ බණ්ඩාර මහතාගේ පුත් ‍‍යශෝධ රංගේ බණ්ඩාර ඇප මත මුදහැරීමට පුත්තලම මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+
+එම අනතුර සිදුව ඇත්තේ, අද (29) අලුයම 4.30ට පමණ කරුවලගස්වැව හතේ කණුව මී ඔය ආසන්නයේදීය.
+
+එහිදී එක්සත් ජාතික පක්ෂ මහලේකම් පාලිත රංගේ බණ්ඩාර මහතාගේ පුත් යශෝධ රංගේ බණ්ඩාර ගමන් ගත් මෝටර් රථය ගැටී තිබුණේ, ඉදිරියෙන් පැමිණි ත්‍රිරෝද රථයකය.
+
+අනතුරින් බරපතළ තුවාල ලැබූ ත්‍රිරෝද රථ රියදුරු ප්‍රතිකාර සඳහා පුත්තලම මූලික රෝහලට ඇතුළත් කර තිබේ.
+
+අනතුර සිදුවන අවස්ථාවේදී මෝටර් රථයේ සහ ත්‍රිරෝද රථයේ ගමන් කර ඇත්තේ, රියදුරන් දෙදෙනා පමණි.
+
+අනතුර සම්බන්ධයෙන් පාලිත රංගේ බණ්ඩාර මහතාගේ පුත් යශෝධ රංගේ බණ්ඩාර කරුවලගස්වැව පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබුණි.
+
+අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව සැකකරු රුපියල් ලක්ෂ 5ක ශරීර ඇප මත මුදාහැරීමට වැඩබලන පුත්තලම මහෙස්ත්‍රාත්වරයා නියෝග කළේය.
+
+යශෝධ රංගේ බණ්ඩාර මීට පෙර එනම් 2018 වසරේ සිදුකළ රිය අනතුරක් සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාරගතව සිටි පුද්ගලයෙකි.
+
+◼️
+
+[Data](articles/87c9e05c.json)
+
+---
 
 ### A severe famine in Sudan
 
@@ -54,19 +98,27 @@ The Sudan Food crisis is considered as the worst famine in the world as the wors
 
 ---
 
-### මුහුදේ පාවෙමින් තිබූ බෝතල් දියරයක් පානය කර ධිවරයන් දෙදෙනෙක් මරුට
+### Two people die and drink a bottle of bottle floating in the sea
 
 *2024-06-29 17:48:33* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදේ-පාවෙමින්-තිබූ-බෝතල්-දියරයක්-පානය-කර-ධිවරයන්-දෙදෙනෙක්-මරුට/11-410503) · `si`
 
-තංගල්ල ධීවර වරායෙන් ධීවර කටයුතු සඳහා පිටත් ගොස් ඇති ධීවරයින් හය දෙනෙකු (06) රැගත් මෙරට බහුදින ධීවර යාත්‍රාවක සිටි  ධීවරයින් පිරිස, මුහුදේ පාවෙමින් තිබූ බෝතලයක තිබූ  දියරයක් පානය කර එය විෂ වී, එම ධීවරයින් පිරිස අසාධ්‍ය තත්වයට පත්ව, ඉන් ධීවරයින් දෙදෙනෙකු (02) ජීවිතක්ෂයට පත්ව තිබේ.
+Two fishermen died after consuming a poisonous substance from a bottle found in the sea near the Tangalle Fisheries Port. The Fisheries and Aquatic Resources Department requested assistance from the Colombo Marine Sweethouse and Rescue Coordination Center of the Navy. The Navy, responding swiftly, deployed a ship equipped with medical personnel to provide aid to the affected fishermen, taking steps to ensure their safety and well-being.
 
-එම ධීවරයින් පිරිස කඩිනමින් වෛද්‍ය ආධාර ලබාදී ගොඩබිමට රැගෙන ඒමට සහය වන ලෙස, ධීවර  හා ජලජ සම්පත් දෙපාර්තමේන්තුව වෙතින් නාවික හමුදා මූලස්ථානයේ  කොළඹ සමුද්‍රීය සෙවීම් හා මුදවා ගැනීම් සම්බන්ධීකරණ මධ්‍යස්ථානය වෙත අද දින දහවල් (2024 ජූනි 29) දැනුම් දීමක් කර ඇතැයි නාවික හමුදාව නිවේදනය කරයි.
+🟩
 
-එම දැනුම් දීමට වහාම ප්‍රතිචාර දැක්වූ නාවික හමුදාව, කොළඹ සමුද්‍රීය සෙවීම් හා මුදවා ගැනීම් සම්බන්ධීකරණ මධ්‍යස්ථානය මඟින් නාවික සැතපුම් 365 ක් පමණ දුර මුහුදේ දියරයක් විෂ වී ආපදාවට පත්  ධීවරයින් වෙත   සහන සැලසීම සඳහා එම ප්‍රදේශය ඔස්සේ යාත්‍රා කරනු ලබන නෞකා දැනුවත් කිරීමට අවශ්‍ය කටයුතු සිදුකරමින් පවතින අතර, නාවික හමුදා වෛද්‍යවරයෙක් මඟින්  සන්නිවේදන  උපකරණ මාර්ගයෙන් වෛද්‍ය උපදෙස් ලබා දීමට කටයුතු කෙරිණි.
+Two fishermen killed in a multi-tier-fishermen who had been thrown into the sea from the Tangalle Fisheries PortHas been found.
 
-...
+The Fisheries and Aquatic Resources Department (Fisheries and Aquatic Resources Department) has announced that the Fisheries and Aquatic Resources department has been asked to the Colombo Marine Sweethouse and Rescue Coordination Center (June 29) at the Navy.
+
+The Navy immediately responded by the Colombo Marine Search and Rescue Coordinating Center, which poisoned with 365 nautical miles into the sea liquid and providing relief to the affected fishermen,Steps were taken to provide medical advice through communication equipment by a Navy doctor.
+
+The Sri Lanka Navy ship Wijayabahu Vijayabahu Vijayabahu Wijaybahu Wijayabahu was to remove the ship with a medical team.
+
+◼️
 
 [Data](articles/f1bf0626.json)
+
+[Extended Data](ext_articles/f1bf0626.ext.json)
 
 ---
 
@@ -2247,55 +2299,5 @@ The suspect had confession to the police and had a casual affair with his wife o
 [Data](articles/4ac25de6.json)
 
 [Extended Data](ext_articles/4ac25de6.ext.json)
-
----
-
-### 18 crores drugs in 13 bottles of coordy protein
-
-*2024-06-28 20:19:54* · [`adalk`](https://www.ada.lk/breaking_news/කායවර්ධන-ප්‍රෝටීන්-බෝතල්-13ක්-තුළ-කෝටි-18ක-මත්ද්‍රව්‍ය/11-410494) · `si`
-
-Customs officials seized 18 crore worth of drugs, including "Kush" and cocaine, hidden in 13 bottles of cordy protein shipped from the US to Sri Lanka via a private bonded tunnel. The drugs were disguised as protein bottles and weighed more than expected upon inspection. Two kilograms each of marijuana, coconut (likely a typo for cocaine), and actual cocaine were confiscated. Further investigation is ongoing by the Police Narcotics Unit.
-
-🟩
-
-Botau, a large quantity of "Kush", a large number of bottles of protein, and cocaine sucks of coach and cocaine is a stock of cocaine, which is used to develop their meats.Customs Drug Adminment Officers have been recovered by the officers of the Customs Drug Administration and the officers of the Customs Drug Administration.
-
-The stock of drugs were prepared as six parcels and sent to Kadawatha from US to Kadawatha and the fake addresses in Colombo.
-
-The parcels had received this private bonded tunnel about a month ago, and the parcel had taken steps to open and inspect the parcels, and they had more weight than the weight of the bottles in bottles.The stock of drugs have been found at the rescue testing
-
-The Customs Drug Administration Unit had been arrested in the drug, two kilograms of marijuana and two kilograms of coconut and two kilograms of cocaine.
-
-The suspected drug was arrested by the Police Narcotics Unit of the Police Narcotics Division for further investigations.
-
-◼️
-
-[Data](articles/94978dd4.json)
-
-[Extended Data](ext_articles/94978dd4.ext.json)
-
----
-
-### Katunayake to take a helicopter to take a helicopter
-
-*2024-06-28 20:14:32* · [`adalk`](https://www.ada.lk/picture_story/ගුවන්-හමුදාවේ-හෙලිකොප්ටරයක්-අරන්-යන්න-ලොව-විශාලම-ගුවන්-යානයක්-කටුනායකට/10-410493) · `si`
-
-The Sri Lanka Air Force, involved in peacekeeping in the Central African Republic since 2014, received an Antonov-124 cargo plane at Katunayake Air Force base. This visit coincides with significant maintenance work on one of their helicopters. The force operates three types of helicopters in the region, utilizing them for troop transport, medical emergencies, and other critical missions. Their peacekeeping efforts have generated $125 million for Sri Lanka.
-
-🟩
-
-For the Sri Lanka Air Force, which is engaged in peacekeeping of peacekeeping in peace factors in the Central African Republic, their "MI '. - 17 "Antonov - 124" (Antonov - 124) A plane came to Katunayake at Katunayake at Katunayake at Katunayake Air Force.
-
-The Sri Lanka Air Force has been working in peace factors in the Central African Republic from 2014 and currently has three helicopters and three types of helicopters.. This MI has taken a major maintenance activity in one helicopter (major overhaul), so that the plane was removed and the helicopter was to add Sri Lankan helicopters to the thick of Sri Lanka's helicopter power.Steps have been taken to perform.
-
-The Sri Lanka Air Force helicopters in the Central African Republic is using the transport of troops, internal flights, emergency medical care and emergency and transportation.
-
-Sri Lanka has earned US $ 125 million from the process of peacekeeping of the Republic of Central African Republic.
-
-...
-
-[Data](articles/b85b99ad.json)
-
-[Extended Data](ext_articles/b85b99ad.ext.json)
 
 ---

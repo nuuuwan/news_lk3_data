@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 15:34:54**
+As of **2024-06-29 15:53:23**
 
 ## Newspaper Stats
 
-*Scraped **32,782** Articles*
+*Scraped **32,783** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,731
 tamilmirrorlk | 3,873
 dailymirrorlk | 4,733
 virakesarilk | 5,109
-adaderanasinhalalk | 5,398
+adaderanasinhalalk | 5,399
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,782 (100.0%) of 32,782 articles have been extended.
+32,782 (100.0%) of 32,783 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
+
+### ප්‍රධාන මාර්ගය අවහිර කරමින් තංගල්ල පල්ලික්කුඩා ප්‍රදේශයේ විරෝධයක්
+
+*2024-06-29 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198286) · `si`
+
+කොළඹ - කතරගම මාර්ගය තංගල්ල පල්ලික්කුඩා ප්‍රදේශයෙන් අවහිර කරමින් ධීවර ජනතාව විරෝධතාවයක් ආරම්භ කර තිබේ.
+
+ඒ, තංගල්ල ධීවර වරායෙන් මුහුදු ගිය ධීවරයින් කඩිනමින් ගොඩබිමට ගෙනවිත් දෙන ලෙස බලධාරීන්ට බල කරමිනි.
+
+ධීවර කටයුතු සඳහා මුහුදු ගිය එම ධීවරයින්ට ඊයේ (28) රාත්‍රියේ මුහුදේ පාවෙමින් තිබු බෝතල් කිහිපයක් හමුවී ඇති අතර මත්පැන් බව සිතා ඔවුන් ඒවා පානය කර තිබේ.
+
+ඒ හේතුවෙන් යාත්‍රාවේ සිටි ධීවරයින් 06 දෙනාම දැඩි ලෙස අසාධ්‍ය වී ඇති අතර මේ වනවිට දෙදෙනෙකු මියගොස් තිබෙන බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/9c5b2cb1.json)
+
+---
 
 ### 2 fishermen dead, 4 critical after consuming unknown liquid at sea
 
@@ -2243,21 +2261,5 @@ Inflation, which was 0.9% in May 2024, has increased to 1.7% in May 2024.
 [Data](articles/1d489bec.json)
 
 [Extended Data](ext_articles/1d489bec.ext.json)
-
----
-
-### Colombo’s consumer price inflation increases in June
-
-*2024-06-28 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100167/colombos-consumer-price-inflation-increases-in-june) · `en`
-
-The overall rate of inflation as measured by the Colombo Consumer Price Index (CCPI) on Year-on-Year basis has increased to 1.7% in June 2024, compared to 0.9% in May 2024, according to the Department of Census and Statistics.
-
-Meanwhile food inflation has increased to 1.4% in June 2024, compared to 0.0% in May 2024 while non-food inflation has climbed to 1.8% in June 2024, compared to 1.3% the previous month.
-
-◼️
-
-[Data](articles/a538a925.json)
-
-[Extended Data](ext_articles/a538a925.ext.json)
 
 ---

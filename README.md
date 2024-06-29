@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 11:54:23**
+As of **2024-06-29 12:06:49**
 
 ## Newspaper Stats
 
-*Scraped **32,762** Articles*
+*Scraped **32,764** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 297
+colombotelegraphcom | 298
 dbsjeyarajcom | 300
 bbccomsinhala | 321
 newsfirstlk | 363
@@ -20,13 +20,13 @@ adaderanalk | 3,728
 tamilmirrorlk | 3,869
 dailymirrorlk | 4,733
 virakesarilk | 5,104
-adaderanasinhalalk | 5,391
+adaderanasinhalalk | 5,392
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,761 (100.0%) of 32,762 articles have been extended.
+32,762 (100.0%) of 32,764 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,26 @@ But Guterres said Friday that “the world is getting a failing grade.”
 ...
 
 [Data](articles/3f29b070.json)
+
+[Extended Data](ext_articles/3f29b070.ext.json)
+
+---
+
+### රංගේ බණ්ඩාරගේ පුතා අත්අඩංගුවට
+
+*2024-06-29 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198278) · `si`
+
+එක්සත් ජාතික පක්ෂ මහලේකම් පාලිත රංගේ බණ්ඩාර මහතාගේ පුත්‍රයා වන යශෝධ රංගේ බණ්ඩාර රිය අනතුරක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන තිබේ.
+
+කරුවලගස්වැව 07 කණුව මී ඔය ආසන්නයේ අලිමංකඩ ප්‍රදේශයේදී අද (29) අලුයම 4.30 පමණ  ඔහු ගමන්ගත් මෝටර් රථය මාර්ගයෙන් ඉවතට පැන ත්‍රීවිල් රථයක ගැටීමෙන් මෙම අනතුරු සිදුවී ඇති බව වාර්තා වෙයි.
+
+අනතුරෙන් ත්‍රීවිල් රථ රියදුරු බරපතළ තුවාල ලබා පුත්තලම මූලික රෝහලට ඇතුළත් කර ඇති බව සඳහන් ය.
+
+අනතුර සම්බන්ධයෙන් තවදුරටත් පරීක්ෂණ සිදුකරමින් පවතින බව කරුවලගස්වැව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/7e206891.json)
 
 ---
 
@@ -577,6 +597,20 @@ The group is children in the Madhu and Madu police are conducting further invest
 [Data](articles/61832d9f.json)
 
 [Extended Data](ext_articles/61832d9f.ext.json)
+
+---
+
+### Nuwan Seneviratne & Sri Lankan Cricket Management: A Sad Chronicle Of Mismanaged Talent
+
+*2024-06-29 06:24:44* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/nuwan-seneviratne-sri-lankan-cricket-management-a-sad-chronicle-of-mismanaged-talent/) · `en`
+
+Sri Lanka’s cricketing heritage is rich, with a legacy of producing some of the most talented cricketers the world has ever seen. Yet, the management of this talent has often been mired in controversy, inefficiency, and neglect. One glaring example of this mismanagement is the story of Nuwan Seneviratne, whose potential was overlooked by Sri Lankan cricket authorities, leading him to become a key asset for the Indian cricket team instead.
+
+Nuwan Seneviratne’s journey from being a school bus driver in Colombo to becoming India’s left-arm throwdown specialist is both inspiring and a testament to his resilience and skill. However, it also highlights the failures of Sri Lanka’s cricket management to recognize and nurture homegrown talent.
+
+...
+
+[Data](articles/a264b826.json)
 
 ---
 
@@ -2207,53 +2241,5 @@ The programme has been allocated 205 billion rupees for this year. (Colombo/June
 [Data](articles/5391dcba.json)
 
 [Extended Data](ext_articles/5391dcba.ext.json)
-
----
-
-### The bus fare is decreasing
-
-*2024-06-28 15:31:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்து-கட்டணம்-குறைகின்றது/175-339584) · `ta`
-
-From July 1, the bus fare decreased by 5%, making the minimum fare drop to 28 rupees from 30 rupees.
-
-🟩
-
-The bus fare has been reduced by 5 per cent from July 1.
-
-Accordingly, the minimum bus fare will be reduced by 2 rupees, and the new minimum bus fare will be reduced to 28 rupees.. Remble
-
-◼️
-
-[Data](articles/23cb3e08.json)
-
-[Extended Data](ext_articles/23cb3e08.ext.json)
-
----
-
-### Emergency appeal of Mannar Public Organizations for those who lost their land for heavy soil excavation
-
-*2024-06-28 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/187181) · `ta`
-
-Mannar Public Organizations launched an emergency appeal for individuals whose land was taken for heavy soil excavation, citing seizures by local agents and accusations of land grabbing facilitated by political influence. President Sivakaran urged those affected to seek help from the union, promising legal action against fraudulent practices.
-
-🟩
-
-President of the Union VS Sivakaran has requested that those who lost their land for the excavation of heavy soil in Mannar be contacted with the Union of Mannar Public Organizations.
-
-He further stated in a media statement issued today (28)
-
-Various complaints have been received that the land is being seized by local land agents for heavy soil excavations in the Mannar Nagar Divisional Secretariat Division.. Some groups accuse the land of ordinary people, using political influence and power.
-
-They also claim that they are writing regime's stations for unused lands. Victims also accuse the sources of allegedly engaging in land grabbing in places where some land is not used.
-
-The victims are concerned that some lawyers are taking over the improper confirmation products.
-
-It is also a very distressing thing that the Sri Lankan agencies that are being excavated by Australia for a multi -crore worth of land have been given to the Sri Lankan agencies.
-
-...
-
-[Data](articles/3f5bf8cb.json)
-
-[Extended Data](ext_articles/3f5bf8cb.ext.json)
 
 ---

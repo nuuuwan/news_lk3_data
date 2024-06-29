@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 16:35:02**
+As of **2024-06-29 16:51:51**
 
 ## Newspaper Stats
 
-*Scraped **32,787** Articles*
+*Scraped **32,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,58 @@ economynextcom | 1,922
 dailyftlk | 2,015
 adalk | 2,898
 adaderanalk | 3,732
-tamilmirrorlk | 3,873
+tamilmirrorlk | 3,874
 dailymirrorlk | 4,733
 virakesarilk | 5,109
-adaderanasinhalalk | 5,402
+adaderanasinhalalk | 5,403
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,786 (100.0%) of 32,787 articles have been extended.
+32,787 (100.0%) of 32,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
 
-### ධීවරයින් 10 දෙනාගේ සිද්ධිය ගැන ඉන්දියාවෙන් ප්‍රතිචාර
+### ධීවරයන් 6 දෙනාගෙන් 3 දෙනෙක් මරුට
+
+*2024-06-29 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198291) · `si`
+
+මත්පැන් බව සිතා විෂ සහිත ද්‍රාවණයක් පානය කිරීම හේතුවෙන් තංගල්ල ධීවර වරායෙන් මුහුදු ගිය ධීවරයින් 6 දෙනා අතරින් මේ වනවිට 3 දෙනෙකු මියගොස් තිබේ.
+
+◼️
+
+[Data](articles/ff40a4eb.json)
+
+---
+
+### India responds to the incident of 10 fishermen
 
 *2024-06-29 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198290) · `si`
 
-ශ්‍රී ලංකාවේ නාවික හමුදා නිලධාරියෙකුගේ මරණය සම්බන්ධයෙන් චෝදනා එල්ලවී සිටින ඉන්දීය ධීවරයින් 10 දෙනාගේ සිද්ධිය සම්බන්ධයෙන් ඉන්දියාව ප්‍රතිචාර දක්වා තිබේ.
+India has responded to the detention of 10 Indian fishermen accused of killing a Sri Lankan Navy officer. The Ministry of External Affairs emphasized India's priority to secure the release of its fishermen. Discussions are underway with Sri Lankan authorities regarding the incident.
 
-ඒ අනුව ඉන්දීය විදේශ කටයුතු අමාත්‍යාංශයේ ප්‍රකාශක රන්දීර් ජයිස්වාල් කියා සිටියේ ඉන්දියාව මෙම ධීවරයින් සම්බන්ධයෙන්ට සැමවිටම ප්‍රමුඛත්වය ලබාදී ඔවුන් ආපසු සිය රටට ගෙන්වා ගැනීමට උත්සාහ කරන බවය.
+🟩
 
-නීතිවිරෝධී ලෙස මසුන් ඇල්ලීම සම්බන්ධයෙන් ශ්‍රී ලංකාව විසින් ජුනි 24 වන දින අත්අඩංගුවට ගත් ඉන්දීය ධීවරයින් 10 දෙනෙකු අත්අඩංගුවට ගැනීමේ මෙහෙයුමකදී මිය ගිය ශ්‍රී ලංකා නාවික හමුදා නිලධාරියාගේ මරණය සම්බන්ධයෙන් එම ඉන්දීය ධීවරයින්ට චෝදනා එල්ල කර ඇතැයි මාධ්‍ය වාර්තා කර තිබුණි.
+India has responded with the 10 Indian fishermen who have been accused of the death of the death of a Navy officer in Sri Lanka.
 
-මෙම තත්ත්වය පිළිබඳව ඉන්දීය විදේශ කටයුතු අමාත්‍යංශය දැනුවත් බවද රන්දීර් ජයිස්වාල් ප්‍රකාශ කර ඇත.
+Speaking of the Ministry of External Affairs, Ranseen Jaywal said that India always prioritizes the fishermen and to get back to their country.
 
-එමෙන්ම ශ්‍රී ලංකා බලධාරීන් සමග ගැටලුව සාකච්ඡා කරන බවද පවසා තිබේ.
+According to the media reports, Indian fishermen have been accused of the death of 10 Indian fishermen who were arrested on June 24 on the arrest of 10 Indian fishermen.
 
-...
+The Indian Foreign Ministry is aware of this situation.
+
+It has also been said that the problem with the Sri Lankan authorities is discussing.
+
+The Indian fishing vessel was killed due to the handling of Indian fishing vessel as the Indian fishing vessel was managed by the Navy's fishing vessel in the sea.
+
+◼️
 
 [Data](articles/e5af528f.json)
+
+[Extended Data](ext_articles/e5af528f.ext.json)
 
 ---
 
@@ -93,6 +113,24 @@ The awards were presented for the civilians who were optimal to protect the envi
 [Data](articles/c62348b5.json)
 
 [Extended Data](ext_articles/c62348b5.ext.json)
+
+---
+
+### வளிமண்டலவியல் திணைக்களத்தின் சிவப்பு அறிவிப்பு
+
+*2024-06-29 15:56:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களத்தின்-சிவப்பு-அறிவிப்பு/175-339599) · `ta`
+
+தென்மேற்கு பருவமழை தீவிரமடைந்துள்ளதால் அரபிக்கடற்பரப்பு மிகவும் கொந்தளிப்பாக காணப்படும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+அதன்படி, 06 மற்றும் 20 வடக்கு அட்சரேகை மற்றும் 55 மற்றும் 70 கிழக்கு தீர்க்கரேகைக்கு இடைப்பட்ட பகுதியில் மணிக்கு 70-80 கிலோமீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் என திணைக்களம் தெரிவித்துள்ளது.
+
+இதன் காரணமாக குறித்த பிரதேசத்தில் மீன்பிடி மற்றும் கடற்தொழில் நடவடிக்கைகளில் ஈடுபடும் தொழிலாளர்கள் உடனடியாக நிலத்திற்கு அல்லது பாதுகாப்பான இடத்திற்கு செல்லுமாறு வளிமண்டலவியல் திணைக்களம் கேட்டுக்கொண்டுள்ளது.
+
+அதேபோல், மறு அறிவித்தல் வரை அந்த கடற்பரப்பில் கடற்றொழிலில் ஈடுபட வேண்டாம் என மீனவர்கள் மற்றும் கடல்சார் சமூகத்தினருக்கு அறிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/200c756c.json)
 
 ---
 
@@ -2227,45 +2265,5 @@ The election results have been continuously analysed and commented upon from the
 [Data](articles/b4f24621.json)
 
 [Extended Data](ext_articles/b4f24621.ext.json)
-
----
-
-### Colombo  High Court  Finds  Hirunika Premachandra Guilty of 18 Charges Including the Abduction, Assault and Intimidation of a Youth at Dematagoda in 2015 and  Sentences Former Colombo MP  to 3 Years  Rigorous Imprisonment ;Will Seek Bail on Monday says her Lawyer
-
-*2024-06-28 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84290) · `en`
-
-Colombo High Court Judge Amal Ranaraja sentenced Hirunika Premachandra to three years imprisonment after she was found guilty of 18 counts, including conspiring and aiding in the abduction of the victim, threatening, assaulting, and intimidating victim Amila Priyankara after the abduction in Dematagoda. Hirunika Premachandra is the ninth accused in the case, and criminal charges against her proceeded as she pleaded not guilty.
-
-Meanwhile, the court further imposed a fine of Rs. 20,000 on the accused for each charge and warned that she could face a six-month imprisonment in default of the said fine.
-
-Deputy Solicitor General Janaka Bandara, appearing for the Attorney General, highlighted the seriousness of the offence, noting that the accused committed this crime while serving as a Member of Parliament. He observed that it is not appropriate to impose a suspended imprisonment sentence on the accused due to the severity of the offence
-
-...
-
-[Data](articles/c3bf5eca.json)
-
-[Extended Data](ext_articles/c3bf5eca.ext.json)
-
----
-
-### Prashant's 'Anthan'
-
-*2024-06-28 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/187209) · `ta`
-
-"Anthakan," starring Prashant, Karthik, Simran, Priya Anand, among others, directed by Samudrakani, and featuring music by Santosh Narayanan, is set for release in August. Produced by Shanti Thiagarajan for Star Movies, it's noted for its critical success and Tamil language recreation.
-
-🟩
-
-The film crew has announced that the film 'Anthakan' will be released in August, which will be released in August.
-
-Prashant, Karthik, Simran, Priya Anand, Samudrakani, Urvasi, Yogi Babu. S.. Ravikumar, Vanitha Vijayakumar and many others have been cast. Santosh Narayanan has composed the film, which has been recorded by Ravi Yadav. The film is being produced by producer Shanti Thiagarajan on behalf of Star Movies.
-
-All the tasks of this movie are completed and waiting for the release. The film crew has said that the film is scheduled to be released in August.. It is noteworthy that the film is a critically successful film, which is a critically successful film, and its Tamil language re -creation is a film.
-
-◼️
-
-[Data](articles/b4ad7dc7.json)
-
-[Extended Data](ext_articles/b4ad7dc7.ext.json)
 
 ---

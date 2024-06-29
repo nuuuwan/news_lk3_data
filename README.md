@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 09:19:21**
+As of **2024-06-29 09:34:53**
 
 ## Newspaper Stats
 
-*Scraped **32,748** Articles*
+*Scraped **32,749** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,725
 tamilmirrorlk | 3,867
 dailymirrorlk | 4,733
 virakesarilk | 5,101
-adaderanasinhalalk | 5,389
+adaderanasinhalalk | 5,390
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,747 (100.0%) of 32,748 articles have been extended.
+32,748 (100.0%) of 32,749 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
+
+### කාලගුණයෙන් රතු නිවේදනයක්
+
+*2024-06-29 09:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198276) · `si`
+
+සක්‍රීය නිරිතදිග මෝසම් තත්ත්වය හේතුවෙන් අරාබි මුහුදු ප්‍රදේශය ඉතා රළු විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව දැනුම් දී තිබේ.
+
+එම දෙපාර්තමේන්තුව පැවසුවේ උතුරු අක්ෂාංශ 06 ත් 20 ත් සහ නැගෙනහිර දේශාංශ 55 ත් 70 ත් යන ප්‍රදේශයේ පැයට කිලෝමීටර් 70 – 80 තද සුළං පවතින බවය.
+
+මේ හේතුවෙන් අදාළ ප්‍රදේශයේ ධීවර හා නාවික කටයුතුවල යෙදී සිටින පිරිස් වහාම ගොඩබිම හෝ ආරක්ෂිත ස්ථානයක් වෙත පැමිණෙන ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ඉල්ලා සිටියි.
+
+එම මුහුදු ප්‍රදේශයට නැවත දැනුම්දෙන තුරු යත්‍රා නොකරන ලෙස එම දෙපාර්තමේන්තුව ධීවර හා නාවික ප්‍රජාවට දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/c2178f13.json)
+
+---
 
 ### 30 Chinese nationals arrested for online financial fraud
 
@@ -49,6 +67,8 @@ The Police Spokesman further stated that in total, 158 mobile phones, 16 laptops
 ◼️
 
 [Data](articles/18372c9f.json)
+
+[Extended Data](ext_articles/18372c9f.ext.json)
 
 ---
 
@@ -2219,29 +2239,5 @@ Sri Lanka’s Central Bank hiked rates in 2022 April to end money printed for tw
 [Data](articles/b87115b6.json)
 
 [Extended Data](ext_articles/b87115b6.ext.json)
-
----
-
-### Train derailment
-
-*2024-06-28 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198254) · `si`
-
-A train derailment occurred on the Upcountry railway line, disrupting service between Colombo Fort and Badulla near the Sunday railway station. The incident happened around 11 AM on the 28th, damaging several wheels of the front engine. Repair work has begun.
-
-🟩
-
-The train derailment has been interrupted due to the uproventing train on the Upcountry railway line.
-
-The Nawalapitiya Railway Control Room stated that the demanded was near the Sunday railway station from Colombo Fort to Badulla.
-
-The accident had taken place around 11 (28th) and several wheels of the train had a few wheels in the front engine.
-
-Work on the train in primary genera is launched.
-
-◼️
-
-[Data](articles/6edd134e.json)
-
-[Extended Data](ext_articles/6edd134e.ext.json)
 
 ---

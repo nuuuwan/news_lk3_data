@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 17:19:50**
+As of **2024-06-29 17:35:10**
 
 ## Newspaper Stats
 
-*Scraped **32,790** Articles*
+*Scraped **32,792** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,821
 economynextcom | 1,922
 dailyftlk | 2,015
-adalk | 2,898
-adaderanalk | 3,732
+adalk | 2,899
+adaderanalk | 3,733
 tamilmirrorlk | 3,874
 dailymirrorlk | 4,733
 virakesarilk | 5,109
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,404
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,790 (100.0%) of 32,790 articles have been extended.
+32,790 (100.0%) of 32,792 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -61,6 +61,26 @@ Professor Kandaiah Pathmanandan, Apovt Journalist for the service of the Institu
 [Data](articles/4866d46e.json)
 
 [Extended Data](ext_articles/4866d46e.ext.json)
+
+---
+
+### Death toll climbs after fishermen consume ‘unknown liquid’ at sea
+
+*2024-06-29 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100182/death-toll-climbs-after-fishermen-consume-unknown-liquid-at-sea) · `en`
+
+The death toll following the incident where the crew of a fishing vessel had consumed the contents of a bottle they found floating in the sea, assuming it was liquor, has increased to three, the Sri Lanka Navy confirmed.
+
+Meanwhile, it is reported that three other fishermen are still in critical condition.
+
+Initially it was reported earlier today that two out of the six crew members of a fishing vessel that set out from Tangalle have died, and the remaining four are in critical condition after consuming the contents of a bottle they found floating in the sea, assuming it was liquor.
+
+The incident has reportedly occurred while the boat was around 320 nautical miles (592.64 km) off the coast of Sri Lanka.
+
+Sri Lanka Navy Spokesperson said the vessel is being towed back to land with the help of another craft.
+
+◼️
+
+[Data](articles/e25d8808.json)
 
 ---
 
@@ -879,6 +899,24 @@ Minister of Foreign Affairs Ali Sabry revealed this addressing the Media briefin
 [Data](articles/5f21d403.json)
 
 [Extended Data](ext_articles/5f21d403.ext.json)
+
+---
+
+### හදිසි නීතිය හෝ ක්‍රියාත්මක කර දරුවන්ගේ අධ්‍යාපනය සුරක්ෂිත කරනවා
+
+*2024-06-29 09:16:52* · [`adalk`](https://www.ada.lk/breaking_news/හදිසි-නීතිය-හෝ-ක්‍රියාත්මක-කර-දරුවන්ගේ-අධ්‍යාපනය-සුරක්ෂිත-කරනවා/11-410498) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා බලංගොඩ ශ්‍රී ධර්මානන්ද විද්‍යායතන පිරිවෙන වෙත පැමිණ ශ්‍රී ලංකා අමරපුර මහා සංඝ සභාවේ සභාපති සහ ශ්‍රී ලංකා අමරපුර මහා නිකායේ රාස්සගල පර්ශ්වයේ මහානායක පූජ්‍ය කරගොඩ උයන්ගොඩ මෛත්‍රී මුර්ති මහා නායක හිමිපාණන් වහන්සේ බැහැ දැක ආශිර්වාද ලබා ගත්තේය.
+
+ශ්‍රී ලංකාව මේ වන විට අත්කරගෙන සිටින ආර්ථික සහ මූල්‍ය ප්‍රගතිය පිළිබඳව මහානායක හිමියන් දැනුවත් කරමින් උන්වහන්සේ සමඟ කෙටි පිළිසඳරක නිරත වු ජනාධිපතිවරයා විහාරස්ථානයේ සංවර්ධන කටයුතු පිළිබඳවද සොයා බැලීය.
+
+සබරගමුව පළාත් ආණ්ඩුකාර කාර්යාලය මඟින් ශ්‍රී ධම්මානන්ද විද්‍යායතන පිරිවෙණේ ප්‍රතිසංස්කරණ කටයුතු සඳහා ලබාදුන් රුපියල් මිලියනයක මුදලට අදාළ චෙක්පත මහ නායක හිමිපාණන් වහන්සේ වෙත පිළිගැන්වීම ද ජනාධිපතිවරයා අතින් සිදු විය.
+
+මෙහිදී අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් මෙසේද පැවසීය,
+
+...
+
+[Data](articles/a0493299.json)
 
 ---
 
@@ -2249,49 +2287,5 @@ In addition, the President said that Sri Lanka is ready to accept regional leade
 [Data](articles/a8ae4f5e.json)
 
 [Extended Data](ext_articles/a8ae4f5e.ext.json)
-
----
-
-### Extending Explanation for Keheliya
-
-*2024-06-28 18:32:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-விளக்கமறியல்-நீடிப்பு/175-339586) · `ta`
-
-Seven individuals, including ex-health minister Keheliya Rambukwella, were remanded till July 12th after appearing in court. One suspect was released on bail.
-
-🟩
-
-Seven suspects, including former health minister Keheliya Rambukwella, have been remanded until July 12.
-
-The order was issued after the suspects were produced before the Magistrate's Court today.
-
-However, a suspect in connection with the incident has been released on bail. Remble
-
-◼️
-
-[Data](articles/0c8eeb29.json)
-
-[Extended Data](ext_articles/0c8eeb29.ext.json)
-
----
-
-### A powerful earthquake in Peru
-
-*2024-06-28 18:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198265) · `si`
-
-A strong earthquake struck central Peru near Acari, triggering tsunami warnings that were later lifted. This event marks a significant seismic activity in the region, reminiscent of historical earthquakes in the country.
-
-🟩
-
-Units in the sea area of ​​the sea area in the middle of the central Peru-Termination of ATIQUIPA. Foreign media reports that 2 has been recorded.
-
-Tsunami warnings with the earthquake have been issued and then removed.
-
-Peru is considered to be a hundred-year-old country.
-
-◼️
-
-[Data](articles/b3a34a99.json)
-
-[Extended Data](ext_articles/b3a34a99.ext.json)
 
 ---

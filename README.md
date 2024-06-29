@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 16:51:51**
+As of **2024-06-29 17:04:35**
 
 ## Newspaper Stats
 
-*Scraped **32,789** Articles*
+*Scraped **32,790** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,27 +20,57 @@ adaderanalk | 3,732
 tamilmirrorlk | 3,874
 dailymirrorlk | 4,733
 virakesarilk | 5,109
-adaderanasinhalalk | 5,403
+adaderanasinhalalk | 5,404
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,787 (100.0%) of 32,789 articles have been extended.
+32,789 (100.0%) of 32,790 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
 
-### ධීවරයන් 6 දෙනාගෙන් 3 දෙනෙක් මරුට
+### තමිලන් පුවත්පත සිව්වැනි සංවත්සරය සමරයි
+
+*2024-06-29 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198292) · `si`
+
+ශ්‍රී ලාංකිකයින් මව්බිම පිළිබඳව එක සේ සිතන බව තහවුරු නොකොට නීතිය හෝ ව්‍යවස්ථානුකූල වෙනස්කම් සිදුකිරීමෙන් ප්‍රයෝජනයක්  නොවන බව මව්බිම ජනතා පක්ෂයේ නායක, ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+ඔහු මේ බව ප්‍රකාශ කළේ, තමිලන් ජාතික පුවත්පතේ සිව්වැනි සංවත්සර සැමරුම් උත්සවයට එක්වෙමින්.
+
+ලිබර්ටි පබ්ලිෂර්ස් ආයතනය මෙරට දෙමළ පාඨකයා වෙනුවෙන් තමිලන් ජාතික පුවත්පත ආරම්භ කළේ, 2020 වසරේදීය.
+
+සති අන්ත මෙන්ම දිනපතා පුවත්පතක් ලෙසත් දිවයින පුරා බෙදාහැරෙන තමිලන්හි සිව්වන සංවත්සරය වැල්ලවත්ත රාමක්‍රිෂ්ණ  ශාලාවේදී ඊයේ පැවැත්වුණි.
+
+එම උත්සවය පැවැත්වුණේ, මව්බිම ජනතා පක්ෂයේ නායක , ව්‍යවසායක දිලිත් ජයවීර මහතාගේ ප්‍රධානත්වයෙනි.
+
+එම අවස්ථාවට දෙමළ සහ මුස්ලිම් පාර්ලිමේන්තු මන්ත්‍රීවරුන් ඇතුළු ආරාධිතයින් රැසක් එක්විය.
+
+මෙහිදී දෙමළ භාෂාවෙන් අධ්‍යාපනය, සමාජ සේවා, මාධ්‍යවේදී, කලා සහ දෙමළ සාහිත්‍ය යන අංශ සඳහා සුවිශේෂී දායකත්වයක් සැපයූ  5දෙනෙකු සම්මානයෙන් පිදුම් ලැබීම විශේෂත්වයකි.
+
+...
+
+[Data](articles/4866d46e.json)
+
+---
+
+### Three fishermen killed in 6 fishermen
 
 *2024-06-29 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198291) · `si`
 
-මත්පැන් බව සිතා විෂ සහිත ද්‍රාවණයක් පානය කිරීම හේතුවෙන් තංගල්ල ධීවර වරායෙන් මුහුදු ගිය ධීවරයින් 6 දෙනා අතරින් මේ වනවිට 3 දෙනෙකු මියගොස් තිබේ.
+In a tragic incident, three out of six fishermen died after leaving Tangalle Fisheries Harbor under the influence of alcohol.
+
+🟩
+
+Among the six fishermen were killed by the six fishermen who left the Tangalle Fisheries Harbor due to drinking liquor.
 
 ◼️
 
 [Data](articles/ff40a4eb.json)
+
+[Extended Data](ext_articles/ff40a4eb.ext.json)
 
 ---
 
@@ -116,21 +146,27 @@ The awards were presented for the civilians who were optimal to protect the envi
 
 ---
 
-### வளிமண்டலவியல் திணைக்களத்தின் சிவப்பு அறிவிப்பு
+### A red notice of the Department of Meteorology
 
 *2024-06-29 15:56:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களத்தின்-சிவப்பு-அறிவிப்பு/175-339599) · `ta`
 
-தென்மேற்கு பருவமழை தீவிரமடைந்துள்ளதால் அரபிக்கடற்பரப்பு மிகவும் கொந்தளிப்பாக காணப்படும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology warns of intense southwest monsoon turbulence in the Arabian Sea, with winds reaching 70-80 km/h between latitudes 6° and 20°N and longitudes 55° and 70°E. It advises fishers and mariners to avoid sea activities and seek safety onshore until further notice.
 
-அதன்படி, 06 மற்றும் 20 வடக்கு அட்சரேகை மற்றும் 55 மற்றும் 70 கிழக்கு தீர்க்கரேகைக்கு இடைப்பட்ட பகுதியில் மணிக்கு 70-80 கிலோமீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் என திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-இதன் காரணமாக குறித்த பிரதேசத்தில் மீன்பிடி மற்றும் கடற்தொழில் நடவடிக்கைகளில் ஈடுபடும் தொழிலாளர்கள் உடனடியாக நிலத்திற்கு அல்லது பாதுகாப்பான இடத்திற்கு செல்லுமாறு வளிமண்டலவியல் திணைக்களம் கேட்டுக்கொண்டுள்ளது.
+The Department of Meteorology has said that the southwest monsoon has intensified and the Arabian Sea is very turbulent.
 
-அதேபோல், மறு அறிவித்தல் வரை அந்த கடற்பரப்பில் கடற்றொழிலில் ஈடுபட வேண்டாம் என மீனவர்கள் மற்றும் கடல்சார் சமூகத்தினருக்கு அறிவிக்கப்பட்டுள்ளது. R
+According to the department, strong winds are likely to blow up to 70-80 km / h in the area between 06 and 20 northern latitude and 55 and 70 eastern longitudinal.
+
+Due to this, the Department of Meteorology has asked the workers who are engaged in fishing and marine operations in the area to immediately move to the land or a safe place.
+
+Similarly, fishermen and maritime community has been informed not to engage in fishing in the sea until re -notice.. Remble
 
 ◼️
 
 [Data](articles/200c756c.json)
+
+[Extended Data](ext_articles/200c756c.ext.json)
 
 ---
 
@@ -2249,21 +2285,5 @@ Peru is considered to be a hundred-year-old country.
 [Data](articles/b3a34a99.json)
 
 [Extended Data](ext_articles/b3a34a99.ext.json)
-
----
-
-### Ranasinghe  Premadasa: Sri Lanka’s Solitary non-Govigama Prime Minister and President
-
-*2024-06-28 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84279) · `en`
-
-India, the world’s biggest democracy, held Parliamentary elections this year in seven phases from 19 April to 1 June. 642 million persons voted in the poll. Results were announced on 4 June. The incumbent Prime Minister Narendra Modi was re-elected PM for the third time. His party the Bharatiya Janata Party (BJP) won 240 of 572 Lok Sabha or Parliament seats. Together with allied parties the BJP led National Democratic Alliance (NDA) obtained 293 seats in Parliament.
-
-The election results have been continuously analysed and commented upon from the time of the poll. A significant aspect of these analyses and commentaries is the “caste factor”. Indian analysts and commentators are not “shy” about discussing caste openly when dissecting poll results. It is an acknowledged fact in India that caste plays a very influential role in determining the outcome of elections in many electorates, regions or states. Many Indians delve into the “caste in elections” topic without any inhibitions.
-
-...
-
-[Data](articles/b4f24621.json)
-
-[Extended Data](ext_articles/b4f24621.ext.json)
 
 ---

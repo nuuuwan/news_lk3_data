@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 17:04:35**
+As of **2024-06-29 17:19:50**
 
 ## Newspaper Stats
 
@@ -26,33 +26,41 @@ adaderanasinhalalk | 5,404
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,789 (100.0%) of 32,790 articles have been extended.
+32,790 (100.0%) of 32,790 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
 
-### තමිලන් පුවත්පත සිව්වැනි සංවත්සරය සමරයි
+### Thamillon celebrates the fourth anniversary
 
 *2024-06-29 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198292) · `si`
 
-ශ්‍රී ලාංකිකයින් මව්බිම පිළිබඳව එක සේ සිතන බව තහවුරු නොකොට නීතිය හෝ ව්‍යවස්ථානුකූල වෙනස්කම් සිදුකිරීමෙන් ප්‍රයෝජනයක්  නොවන බව මව්බිම ජනතා පක්ෂයේ නායක, ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+On its fourth anniversary, Thamillon National newspaper celebrated under the leadership of entrepreneur Dilith Jayaweera, emphasizing the importance of understanding the nation's thoughts before making legal or constitutional changes. The event, held in Colombo Wellawaya, honored individuals for their contributions to education, social services, journalism, arts, and Tamil literature, including Professor Kandaiah Pathmanandan and writer Al-Odamathi Vidyalaya. Additionally, 25 students from five Colombo schools and 20 O/L students from Lidula were recognized for their achievements.
 
-ඔහු මේ බව ප්‍රකාශ කළේ, තමිලන් ජාතික පුවත්පතේ සිව්වැනි සංවත්සර සැමරුම් උත්සවයට එක්වෙමින්.
+🟩
 
-ලිබර්ටි පබ්ලිෂර්ස් ආයතනය මෙරට දෙමළ පාඨකයා වෙනුවෙන් තමිලන් ජාතික පුවත්පත ආරම්භ කළේ, 2020 වසරේදීය.
+The leader of the people, entrepreneral Dilith Jayaweera says that the law or constitutional changes are not beneficial without confirming the thinking of the motherland.
 
-සති අන්ත මෙන්ම දිනපතා පුවත්පතක් ලෙසත් දිවයින පුරා බෙදාහැරෙන තමිලන්හි සිව්වන සංවත්සරය වැල්ලවත්ත රාමක්‍රිෂ්ණ  ශාලාවේදී ඊයේ පැවැත්වුණි.
+He made this statement participating at the fourth anniversary celebration ceremony of the Thamillon National newspaper.
 
-එම උත්සවය පැවැත්වුණේ, මව්බිම ජනතා පක්ෂයේ නායක , ව්‍යවසායක දිලිත් ජයවීර මහතාගේ ප්‍රධානත්වයෙනි.
+The Liberty Pubshers began in the 2020 year, for the Tamil reader of Sri Lanka.
 
-එම අවස්ථාවට දෙමළ සහ මුස්ලිම් පාර්ලිමේන්තු මන්ත්‍රීවරුන් ඇතුළු ආරාධිතයින් රැසක් එක්විය.
+The fourth anniversary of Thamillan was held as weekend and daily newspaper, the fourth anniversary of Thamillan was held at the Colombo Wellawaya.
 
-මෙහිදී දෙමළ භාෂාවෙන් අධ්‍යාපනය, සමාජ සේවා, මාධ්‍යවේදී, කලා සහ දෙමළ සාහිත්‍ය යන අංශ සඳහා සුවිශේෂී දායකත්වයක් සැපයූ  5දෙනෙකු සම්මානයෙන් පිදුම් ලැබීම විශේෂත්වයකි.
+The ceremony was held by the leader of the Mawbima People's Party, entrepreneral Dilith Jayaweera.
+
+There were many other invitees to the event.
+
+The 5 people who contributed significantly for education, social services, journalist, arts, and Tamil literature in Tamil.
+
+Professor Kandaiah Pathmanandan, Apovt Journalist for the service of the Institute of Social Services for the service of the education sector. Mr. Danichasingham was awarded the award.
 
 ...
 
 [Data](articles/4866d46e.json)
+
+[Extended Data](ext_articles/4866d46e.ext.json)
 
 ---
 

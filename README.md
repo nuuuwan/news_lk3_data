@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 16:19:36**
+As of **2024-06-29 16:35:02**
 
 ## Newspaper Stats
 
-*Scraped **32,786** Articles*
+*Scraped **32,787** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,732
 tamilmirrorlk | 3,873
 dailymirrorlk | 4,733
 virakesarilk | 5,109
-adaderanasinhalalk | 5,401
+adaderanasinhalalk | 5,402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,784 (100.0%) of 32,786 articles have been extended.
+32,786 (100.0%) of 32,787 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
+
+### ධීවරයින් 10 දෙනාගේ සිද්ධිය ගැන ඉන්දියාවෙන් ප්‍රතිචාර
+
+*2024-06-29 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198290) · `si`
+
+ශ්‍රී ලංකාවේ නාවික හමුදා නිලධාරියෙකුගේ මරණය සම්බන්ධයෙන් චෝදනා එල්ලවී සිටින ඉන්දීය ධීවරයින් 10 දෙනාගේ සිද්ධිය සම්බන්ධයෙන් ඉන්දියාව ප්‍රතිචාර දක්වා තිබේ.
+
+ඒ අනුව ඉන්දීය විදේශ කටයුතු අමාත්‍යාංශයේ ප්‍රකාශක රන්දීර් ජයිස්වාල් කියා සිටියේ ඉන්දියාව මෙම ධීවරයින් සම්බන්ධයෙන්ට සැමවිටම ප්‍රමුඛත්වය ලබාදී ඔවුන් ආපසු සිය රටට ගෙන්වා ගැනීමට උත්සාහ කරන බවය.
+
+නීතිවිරෝධී ලෙස මසුන් ඇල්ලීම සම්බන්ධයෙන් ශ්‍රී ලංකාව විසින් ජුනි 24 වන දින අත්අඩංගුවට ගත් ඉන්දීය ධීවරයින් 10 දෙනෙකු අත්අඩංගුවට ගැනීමේ මෙහෙයුමකදී මිය ගිය ශ්‍රී ලංකා නාවික හමුදා නිලධාරියාගේ මරණය සම්බන්ධයෙන් එම ඉන්දීය ධීවරයින්ට චෝදනා එල්ල කර ඇතැයි මාධ්‍ය වාර්තා කර තිබුණි.
+
+මෙම තත්ත්වය පිළිබඳව ඉන්දීය විදේශ කටයුතු අමාත්‍යංශය දැනුවත් බවද රන්දීර් ජයිස්වාල් ප්‍රකාශ කර ඇත.
+
+එමෙන්ම ශ්‍රී ලංකා බලධාරීන් සමග ගැටලුව සාකච්ඡා කරන බවද පවසා තිබේ.
+
+...
+
+[Data](articles/e5af528f.json)
+
+---
 
 ### Striking uni non-academic staff to hold talks with UGC
 
@@ -46,27 +66,33 @@ K.L.D.G. Richmond, the co-secretary of the Inter-University Trade Union Federati
 
 [Data](articles/2e334e68.json)
 
+[Extended Data](ext_articles/2e334e68.ext.json)
+
 ---
 
-### කෙන්යාවේ කෝලහාල දුටුවා ද ? - ජනපති විමසයි
+### Found the Kenya's riots?- President seizes
 
 *2024-06-29 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198289) · `si`
 
-තමන් රට භාරගෙන ආර්ථිකය ස්ථාවර නොකළේ නම්, ශ්‍රී ලංකාව අද කෙන්යාවක් බවට පත්වී අවසන් බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+Sri Lanka's President Ranil Wickremesinghe compares his country's current state to Kenya's recent unrest, emphasizing the importance of stabilizing the economy to avoid similar situations. He highlights the need for economic reforms and credits the loan relief in Africa as a solution to prevent such crises.
 
-2024 ජනාධිපති පරිසර සම්මාන උළෙල සඳහා ඊයේ (28) එක්වෙමින් ජනාධිපතිවරයා මෙම අදහස් පළ කළේය.
+🟩
 
-2024 ජනාධිපති පරිසර සම්මාන උළෙල කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේදී ඊයේ පැවැත්වුණි.
+President Ranil Wickremesinghe says Sri Lanka has become a Kenya today if he has not taken the country and stabilized the economy.
 
-එහිදී පරිසරය ආරක්ෂා කිරීම වෙනුවෙන් සහ දේශගුණික විපර්යාස වැළැක්වීම සඳහා ප්‍රශස්ත දායකත්වයක් දැක්වූ පිරිස වෙනුවෙන් සම්මාන ප්‍රදානය කෙරුණි.
+The President made these comments participating yesterday (28) for the Presidential EPL.
 
-"අප්‍රිකාවේ සහ ආසියාවේ රටවල් ගණනාවක් ණය වී සිටිනවා. ඔවුන් ණය සහන ඉල්ලා තිබෙනවා. අසියාවේ ණය සහන ඉල්ලීමට මම සහාය ලබා දුන්නේ නැහැ. ලංකාවේ ණය ප්‍රශ්නය අපට විසදාගත හැකි බව මම පෙන්වා දුන්නා. නමුත් අප්‍රිකාවේ අඩු ආදායම්ලාභී රටවල ණය සහන සම්පුර්ණයෙන් අහෝසි කරන ලෙස ඉල්ලා සිටියා."
+The Presidential Environment Awards ceremony was held yesterday at the Bandaranaike Memorial International Conference Hall in Colombo.
 
-"දැන් ආර්ථික පරිවර්තන නීතිය සම්මත කර ගනිමින් අප එම ගමන යා යුතුයි. ඒ වගේම මේ දිනවල කෙන්යාවේ තිබෙන කෝලහාල අප දුටුවා. රටක ආර්ථිකය සකස් කළේ නැත්නම් මතුවන තත්ත්වය මෙයයි. ලංකාවේ මෙම ආර්ථික ස්ථාවරත්වය ඇති කළේ නැත්නම් අපටත් ඒ තත්ත්වයට මුහුණ දීමට සිදු වෙනවා."
+The awards were presented for the civilians who were optimal to protect the environment and to prevent climate change.
 
-◼️
+"There are a number of countries in Africa and Asia. They have demanded credit relief. I did not support the loan relief of Asia. I pointed out that we can solve the credit question in Sri Lanka. But in Africa, the loan relief was invaluable to abolish relief. "
+
+...
 
 [Data](articles/c62348b5.json)
+
+[Extended Data](ext_articles/c62348b5.ext.json)
 
 ---
 
@@ -2241,27 +2267,5 @@ All the tasks of this movie are completed and waiting for the release. The film 
 [Data](articles/b4ad7dc7.json)
 
 [Extended Data](ext_articles/b4ad7dc7.ext.json)
-
----
-
-### Vijay Antony's 'Hitler' released in August
-
-*2024-06-28 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/187208) · `ta`
-
-"Vijay Antony's 'Hitler,' set for August release, stars Riya Suman and Gautam Vasudev Menon. Directed by Tanasekaran, music by Vivek-Mervin. Awaiting official dual-language release date."
-
-🟩
-
-The film crew has been enthusiastically announced that the film 'Hitler' is scheduled to be released in August.
-
-Directed by director Tanasekaran, directed by director Tanasekaran, directed by 'Vaanam Kottanam', Vijay Antony, Riya Suman, Gautam Vasudev Menon. The film, which is being recorded by Naveen Kumar, has composed the film. The film is being produced by Vivek-Mervin.
-
-The film crew has said that the film is scheduled to be released in August, which will be completed and waiting for the release.
-
-...
-
-[Data](articles/3ea455ba.json)
-
-[Extended Data](ext_articles/3ea455ba.ext.json)
 
 ---

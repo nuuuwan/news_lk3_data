@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 08:21:11**
+As of **2024-06-29 08:35:02**
 
 ## Newspaper Stats
 
-*Scraped **32,742** Articles*
+*Scraped **32,744** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,821
 economynextcom | 1,920
 dailyftlk | 2,015
 adalk | 2,895
-adaderanalk | 3,723
-tamilmirrorlk | 3,865
+adaderanalk | 3,724
+tamilmirrorlk | 3,866
 dailymirrorlk | 4,733
 virakesarilk | 5,101
 adaderanasinhalalk | 5,388
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,742 (100.0%) of 32,742 articles have been extended.
+32,742 (100.0%) of 32,744 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
+
+### Several spells of showers expected in parts of Sri Lanka
+
+*2024-06-29 08:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100172/several-spells-of-showers-expected-in-parts-of-sri-lanka) · `en`
+
+The Meteorology Department forecasts that several spells of light showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
+
+Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+◼️
+
+[Data](articles/bda50602.json)
+
+---
 
 ### Chinese cheated on Meemana from Negombo
 
@@ -55,6 +71,20 @@ Police Media Spokesperson Inspector General of Police Media Spokesman further st
 [Data](articles/261ec7f2.json)
 
 [Extended Data](ext_articles/261ec7f2.ext.json)
+
+---
+
+### இ.போ.ச. பஸ் வீதியை விட்டு விலகி விபத்து
+
+*2024-06-29 07:15:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-போ-ச-பஸ்-வீதியை-விட்டு-விலகி-விபத்து/175-339591) · `ta`
+
+சம்மாந்துறை பொலிஸ் பிரிவில் இலங்கை போக்குவரத்துச் சபைக்குச் சொந்தமான பஸ் ஒன்று வீதியை விட்டு விலகி விபத்துக்குள்ளாகியுள்ளது.
+
+கல்முனை - அம்பாறை பிரதான வீதியில் வங்களாவடி எனும் இடத்துக்குச் சற்றுத் தொலைவில் நேற்று இரவு இந்த விபத்து இடம்பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/7f664d7d.json)
 
 ---
 
@@ -2195,61 +2225,5 @@ Lotus Road in Colombo has been closed for traffic due to a protest march by the 
 [Data](articles/4ba26700.json)
 
 [Extended Data](ext_articles/4ba26700.ext.json)
-
----
-
-### Water cut tomorrow
-
-*2024-06-28 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198251) · `si`
-
-A 15-hour water cut is scheduled for tomorrow in Colombo and several other areas due to modernization and maintenance work at the Ambatale Water Treatment Plant.
-
-🟩
-
-The National Water Supply and Drainage Board says that the water cut will be imposed tomorrow (29) in Colombo.
-
-Accordingly, the water will be suspended for a 15-hour water from 9 am to 12 midnight.
-
-The National Water Supply and Drainage Board further stated that the water supply is suspended in Colombo, Dehiwala, Mount Lavinia, Kotte, Boralesgamuwa, Kotte and Mulleriyawa Pradeshiya Sabha areas.
-
-The National Water Supply and Drainage Board says that water will be provided with drop in the Moratuwa Municipal Council area.
-
-The water cut will be made due to an essential modernization of the Ambatale Water Treatment Plant and the maintenance work of the water refinery system.
-
-◼️
-
-[Data](articles/4c4b38b4.json)
-
-[Extended Data](ext_articles/4c4b38b4.ext.json)
-
----
-
-### Ban against 27 Australians, including former prime ministers - Russia announces
-
-*2024-06-28 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187170) · `ta`
-
-Russia has imposed sanctions on 27 Australians, including two former prime ministers, for allegedly supporting anti-Russian actions. This move comes after Australia sanctioned Russian officials and major corporations. The Russian Foreign Ministry warns of further sanctions unless Australia halts its anti-Russian stance.
-
-🟩
-
-Russia has announced sanctions against 27 people, including two former prime ministers in Australia.
-
-Russia has announced sanctions against 27 people, including former Prime Minister Tony Abod John Hawart, Australia's former prime ministers to carry out the anti -Russian agenda.
-
-Australia has announced sanctions against the executive officials of politicians and major corporations.
-
-The Russian Foreign Ministry has warned that if the Australian government does not abandon the anti -Russian agenda, many more people will be added to the ban.
-
-The Russian Foreign Ministry has said that 27 Australians have banned the entry of Russia instead of politically obstructions against Russian citizens.
-
-The ban is featured 23 people who wrote to the Australian government to provide Russia's disabled assets to Ukraine.
-
-The list includes two judges who have issued rulings against Russia's interests.
-
-◼️
-
-[Data](articles/a05fd189.json)
-
-[Extended Data](ext_articles/a05fd189.ext.json)
 
 ---

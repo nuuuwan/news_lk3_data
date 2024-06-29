@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 07:00:30**
+As of **2024-06-29 07:23:00**
 
 ## Newspaper Stats
 
-*Scraped **32,736** Articles*
+*Scraped **32,737** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,920
 dailyftlk | 2,015
 adalk | 2,895
 adaderanalk | 3,723
-tamilmirrorlk | 3,863
+tamilmirrorlk | 3,864
 dailymirrorlk | 4,733
 virakesarilk | 5,101
 adaderanasinhalalk | 5,385
@@ -26,25 +26,49 @@ adaderanasinhalalk | 5,385
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,735 (100.0%) of 32,736 articles have been extended.
+32,736 (100.0%) of 32,737 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
 
-### ප්‍රදේශ කිහිපයකට වැසි
+### சரத் பொன்சேகாவின் நூலை வெளியிட்டார் ஜனாதிபதி
+
+*2024-06-29 06:52:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சரத்-பொன்சேகாவின்-நூலை-வெளியிட்டார்-ஜனாதிபதி/175-339589) · `ta`
+
+முப்பது வருடகால யுத்தத்தை நிறைவு செய்ய சிறந்த தலைமைத்துவத்தை வழங்கிய முன்னாள் இராணுவத் தளபதியும், நாடாளுமன்ற உறுப்பினருமான பீல்ட் மார்ஷல் சரத் பொன்சேகாவினால் 'இராணுவ தளபதி தேசத்துக்கு வழங்கிய வாக்குறுதி – இந்த யுத்தம் அடுத்த தளபதி வரையில் நீடிக்க இடமளியேன்' என்ற தலைப்பில் எழுதப்பட்ட நூல் வெளியீட்டு விழா ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் நேற்று கொழும்பு நெலும் பொக்குன கலையரங்கில் நடைபெற்றது.
+
+இதன்போது புத்தகத்தின் முதல் பிரதி பீல்ட் மார்ஷல் சரத் பொன்சேகாவினால் ஜனாதிபதிக்கு வழங்கி வைக்கப்பட்டது.
+
+அதனையடுத்து பீல்ட் மார்ஷல் சரத் பொன்சேகா ஜனாதிபதிக்கு நினைவு பரிசு ஒன்றையும் வழங்கி வைத்தார்.
+
+இதன்போது பீல்ட் மார்ஷல் சரத் பொன்சேகாவின் சேவைக்கு பாராட்டு தெரிவித்த ஜனாதிபதி, யுத்தத்தை வெற்றிகொண்டது மாத்திரமன்றி, பல்வேறு அரசியல் சவால்களுக்கும் முகம்கொடுத்தவர் என்ற வகையில் எதிர்காலத்தில் நாட்டிற்கு பெரும் சேவையாற்ற முடியும் என்றும் தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/0ba87651.json)
+
+---
+
+### Showers in several areas
 
 *2024-06-29 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198271) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සිහින් වැසිවාර කිහිපයක් ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Several regions including Western, Sabaragamuwa, Northwestern provinces, Ampara, Batticaloa, and central hill slopes may experience showers or thundershowers. Strong winds are also expected due to these weather conditions.
 
-ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව දන්වා ඇත.
+🟩
 
-එමෙන්ම, මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකි බව  කාලගුණවිද්‍යා දෙපාර්තමේන්තුව කළ නිවේදනයේ සඳහන් වේ.
+The Department of Meteorology states that several thin closed will occur in the Western, Sabaragamuwa and Northwestern provinces.
+
+Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
+
+Also, in the western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Trincomalee and Moneragala Districts. The Meteorology was stated that the winds could cause about strong winds.
 
 ◼️
 
 [Data](articles/80c1b066.json)
+
+[Extended Data](ext_articles/80c1b066.ext.json)
 
 ---
 
@@ -2219,27 +2243,5 @@ Warner and Jake Frazer Muger was played for the Delhi Capitals team at the India
 [Data](articles/05c04061.json)
 
 [Extended Data](ext_articles/05c04061.ext.json)
-
----
-
-### 99x considers collaborations to invest in and scale operations in Sri Lanka
-
-*2024-06-28 12:13:00* · [`economynextcom`](https://economynext.com/99x-considers-collaborations-to-invest-in-and-scale-operations-in-sri-lanka-169984/) · `en`
-
-ECONOMYNEXT – 99x, a global product engineering company, said it was focused on exploring potential collaborations to invest in and scale operations in Sri Lanka, using local talent and skills.
-
-Future collaboration opportunities in sales and solution building were also explored at a roundtable discussion titled ‘Poised for Growth in Europe and Americas’ held at 99x office premises in Colombo recently.
-
-The event brought together 99x’s leaders from Norway, Portugal, Brazil, and Sri Lanka.
-
-“The expansion of our geographical presence allows us to tap into diverse pools of talent and foster stronger relationships with our clients worldwide,” Odd-Sverre Ostlie, Group CEO of 99x Group, said.
-
-The company’s ongoing investment in Sri Lanka was discussed, with Hasith Yaggahavita, CEO of 99x Technology emphasising the depth of talent and skills available in the region.
-
-...
-
-[Data](articles/b0f94fe9.json)
-
-[Extended Data](ext_articles/b0f94fe9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 11:20:01**
+As of **2024-06-29 11:35:01**
 
 ## Newspaper Stats
 
-*Scraped **32,759** Articles*
+*Scraped **32,761** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 1,922
 dailyftlk | 2,015
 adalk | 2,898
 adaderanalk | 3,727
-tamilmirrorlk | 3,868
+tamilmirrorlk | 3,869
 dailymirrorlk | 4,733
-virakesarilk | 5,103
+virakesarilk | 5,104
 adaderanasinhalalk | 5,391
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,757 (100.0%) of 32,759 articles have been extended.
+32,759 (100.0%) of 32,761 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
+
+### வாள்கள், கைக்கோடாரிகளுடன் இளைஞர்கள் கைது
+
+*2024-06-29 11:19:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வாள்கள்-கைக்கோடாரிகளுடன்-இளைஞர்கள்-கைது/71-339594) · `ta`
+
+யாழ்ப்பாணம் - கோண்டாவில் பகுதியில் ஆயுதங்களுடன் மூன்று பேர் கோப்பாய் பொலிஸாரால் நேற்றைய தினம் கைது செய்யப்பட்டனர்.
+
+பருத்தித்துறையைச் சேர்ந்த 24 வயதான மூவர் கோண்டாவில் பகுதியில் உள்ள வீடொன்றுக்கு அருகில் கூடியிருந்த போது இவ்வாறு கைது செய்யப்பட்டனர்.
+
+கைது செய்யப்பட்டவர்களை யாழ்ப்பாணம் நீதவான் நீதிமன்றத்தில் இன்று (29) முற்படுத்த கோப்பாய் பொலிஸார் நடவடிக்கை எடுத்துள்ளனர். R
+
+◼️
+
+[Data](articles/58f94762.json)
+
+---
+
+### இலங்கைக்கு வந்த உலகின் மிகப் பெரிய சரக்கு விமானம்
+
+*2024-06-29 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/187234) · `ta`
+
+உலகின் மிகப் பெரிய சரக்கு விமானங்களில் ஒன்றான என்டனோவ் 124 (ANTONOV-124) வெள்ளிக்கிழமை (28) கட்டுநாயக்க விமான நிலையத்தில் தரையிறங்கியது.
+
+மத்திய ஆபிரிக்க குடியரசில் அமைதிப்பணிகளில் ஈடுபட்டுள்ள  இலங்கையின் படையினருக்கு எம்ஐ 17 ஹெலிகொப்டர் (MI-17 helicopter) ஒன்றை கொண்டு செல்வதற்காகவே இந்த விமானம்  இலங்கைக்கு வந்தது.
+
+2014 ஆம் ஆண்டு முதல் மத்திய ஆபிரிக்க குடியரசில் அமைதி காக்கும் பணிகளில்,  இலங்கையின் படையினர் தீவிரமாக ஈடுபட்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/1276ac34.json)
+
+---
 
 ### Water Supply Disconnected Areas
 
@@ -58,19 +90,25 @@ The water cut will be made due to an essential modernization of the Ambatale Wat
 
 ---
 
-### பல தடவைகள் மழை பெய்யும்
+### It rains several times
 
 *2024-06-29 10:27:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-தடவைகள்-மழை-பெய்யும்/175-339593) · `ta`
 
-நாட்டின் மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+Rainfall is expected across various regions including Sabaragamuwa, North Western Provinces, and specific districts like Galle, Matara, Kandy, and Nuwara Eliya. Additionally, there might be rain or thunderstorms in the evenings in the Uva Province and Ampara and Batticaloa districts. Strong winds up to 40-50 km/h are anticipated in certain areas, particularly the western slopes of the Central Highlands and other provinces mentioned.
 
-ஊவா மாகாணத்திலும் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களிலும் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+🟩
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது. R
+The Department of Meteorology has forecast rainfall in the country, Sabaragamuwa and North Western Provinces and Galle, Matara, Kandy and Nuwara Eliya districts.
+
+It is possible to experience rain or thunderstorms in the evening or in some places in the Uva Province and Ampara and Batticaloa districts.
+
+Strong winds are likely to blow up to 40-50 km / h from time to time in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.. Remble
 
 ◼️
 
 [Data](articles/390e7ebf.json)
+
+[Extended Data](ext_articles/390e7ebf.ext.json)
 
 ---
 
@@ -184,19 +222,29 @@ The Department has informed the fisheries and the naval community as no leoming 
 
 ---
 
-### කොළඹට ගංවතුර ඇතිවීම ගැන වාර්තාවක් සති දෙකකින් ඉල්ලයි
+### Two weeks calling for floods in Colombo
 
 *2024-06-29 09:11:32* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹට-ගංවතුර-ඇතිවීම-ගැන-වාර්තාවක්-සති-දෙකකින්-ඉල්ලයි/11-410497) · `si`
 
-කොළඹ දිස්ත්‍රික්කය තුළ ගංවතුර තත්ත්වයක් ඇතිවීමට හේතු වූ කරුණු සොයා බලා සියලු ග්‍රාම නිලධාරී කොට්ඨාස ආවරණය වන පරිදි වාර්තා කැඳවන ලෙසත්, එම වාර්තා අනුව මූලික වාර්තාවක් සකස් කර සති දෙකක් තුළ ජනාධිපති කාර්යාලය වෙත ලබා දෙන ලෙසත් ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානී හා ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක සාගල රත්නායක මහතා කොළඹ දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේම්වරුන්ට උපදෙස් ලබා දුන්නේය.
+In response to severe flooding in Colombo over two weeks, Presidential Advisor Sagala Ratnayake announced measures to tackle the issue, including developing immediate action plans. He discussed with agency heads to identify causes, attributing them to both natural factors and human activities. President Ranil Wickremesinghe directed the preparation of short-term, medium-term, and long-term prevention programs. The meeting included the Minister of Water Supply and local residents, emphasizing collective efforts to prevent future floods.
 
-ඒ අනුව මෙම ගැටළු විසඳීම සඳහා අදාළ ආයතන ප්‍රධානීන් සමඟ සාකච්ඡා කර අවශ්‍ය සැලසුම් සකස් කිරීමට කඩිනමින් පියවර ගන්නා බව ද ඒ මහතා සඳහන් කළේය.
+🟩
 
-සාගල රත්නායක මහතා මෙම අදහස් පළ කළේ පසුගිය දිනවල පැවති අයහපත් කාලගුණික තත්ත්වය හමුවේ කොළඹ දිස්ත්‍රික්කය තුළ ගංවතුර තත්ත්වයක් ඇතිවීමට හේතු වූ කරුණු හඳුනා ගෙන ඊට විසඳුම් සෙවීම සඳහා රේඛීය ආයතන ප්‍රධානීන් සමඟ ජනාධිපති කාර්යාලයේදී පැවති සාකච්ඡාවේදීය.
+Presidential staff and Presidential senior Presidential Advisor to the Presidential Staff Grama Niladhari DivisionsRatnayake instructed the local lands in the Colombo District.
+
+He said that steps will be taken to address these issues and take immediate steps to develop the necessary plans.
+
+Mr. Sagala Ratnayake made these comments during a discussion with the heads of the Level agencies to identify a flood in the Colombo district in the face of recently.
+
+President Ranil Wickremesinghe and the political representatives of the Colombo district were observed that the political representatives of the Colombo district were observed in the area and identified natural causes and informal human activity and informal human activity.
+
+He added that President Ranil Wickremesinghe has instructed to prepare short-term, medium term and long-term programs to prevent such floods again in the future.
 
 ...
 
 [Data](articles/e57e4c36.json)
+
+[Extended Data](ext_articles/e57e4c36.ext.json)
 
 ---
 
@@ -2193,51 +2241,5 @@ The work related to restoring the ‘Podi Menike’ train has already commenced,
 [Data](articles/63328b3d.json)
 
 [Extended Data](ext_articles/63328b3d.ext.json)
-
----
-
-### We don't want such relief - President
-
-*2024-06-28 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198259) · `si`
-
-President Ranil Wickremesinghe opposes seeking financial aid from low-income African nations, asserting Sri Lanka's self-sufficiency in managing its debt. He made this statement at the 2024 Presidential Awards Ceremony, emphasizing Sri Lanka's capability without needing external concessions.
-
-🟩
-
-President Ranil Wickremesinghe says Sri Lanka's foreign policy should be completely eliminated in Africa's low income agencies in Africa's low-income countries in Africa.
-
-Sri Lanka does not need such concessions and Sri Lanka has strength and knowledge to continue to manage the debt.
-
-President Ranil Wickremesinghe addressing the 2024 Presidential Awards Ceremony at the Bandaranaike International Memorial Conference Hall today (28).
-
-◼️
-
-[Data](articles/d6ca13d5.json)
-
-[Extended Data](ext_articles/d6ca13d5.ext.json)
-
----
-
-### Permission to the Ministry Advisory Committee for the Regulations of Behavior for Peace Magistrates
-
-*2024-06-28 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/187183) · `ta`
-
-The Ministry Advisory Committee, led by Minister Vijayadasa Rajapaksa, received approval for two regulations aimed at enhancing judicial efficiency and integrity. These regulations pertain to the appointment, suspension, and conduct of peace magistrates, aiming to curb corruption and uphold public trust. The regulations were necessitated by issues within the magistrate appointment process and the need to safeguard the dignity of the peace magistrate position. Additionally, discussions included the Civil Action Act and proposals regarding the abolition of the Home Rule Act and protection of residents, with several parliamentarians in attendance.
-
-🟩
-
-The two regulations made by the Minister of Justice, Prison Affairs and Constitutional Reforms were approved by the Ministry of Justice, Prison Affairs and Constitutional Reorganization under the Judicial Act No. 2 of 1978, including the appointment, suspension, cancellation and conduct of peace.
-
-The Ministry Advisory Committee headed by Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapaksa was granted this permission in Parliament recently.
-
-The goal of this conduct is to strengthen the efficient judicial administration by promoting high -quality moral and moral behavior among the magistrates of peace and eliminating opportunities for corrupt processes.
-
-The Minister of Justice pointed out that the system of appointing peace magistrates and their qualifications has not yet been mentioned.. Minister Vijayadasa Rajapakse added that the regulations have been revealed due to the inability of the Magistrate to cancel the posts of the posts of the post.
-
-...
-
-[Data](articles/a6a21d25.json)
-
-[Extended Data](ext_articles/a6a21d25.ext.json)
 
 ---

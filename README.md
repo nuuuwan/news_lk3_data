@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 09:34:53**
+As of **2024-06-29 09:54:18**
 
 ## Newspaper Stats
 
-*Scraped **32,749** Articles*
+*Scraped **32,750** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,821
 economynextcom | 1,920
 dailyftlk | 2,015
 adalk | 2,896
-adaderanalk | 3,725
+adaderanalk | 3,726
 tamilmirrorlk | 3,867
 dailymirrorlk | 4,733
 virakesarilk | 5,101
@@ -26,27 +26,51 @@ adaderanasinhalalk | 5,390
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,748 (100.0%) of 32,749 articles have been extended.
+32,749 (100.0%) of 32,750 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
 
-### කාලගුණයෙන් රතු නිවේදනයක්
+### Sri Lanka gains advantage of USD 17 billion from debt repayment plan - Ali Sabry
+
+*2024-06-29 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100174/sri-lanka-gains-advantage-of-usd-17-billion-from-debt-repayment-plan-ali-sabry) · `en`
+
+Minister of Foreign Affairs and President’s Counsel Ali Sabri, has stated that the successful debt sustainability process with bilateral creditors will provide Sri Lanka with an advantage of approximately US $ 17 billion.
+
+The minister also stated that this situation will facilitate successful negotiations regarding international sovereign debts.
+
+Minister of Foreign Affairs Ali Sabry revealed this addressing the Media briefing yesterday (28) at the Presidential Media Centre (PMC) under the theme “Collective Path to a Stable Country.”
+
+“On April 12, 2022, Sri Lanka decided to temporarily suspend the payment of a portion of its foreign debt. At that time, some parties predicted that the value of the rupee would surge to 600, 700, or even 1000 against the dollar. However, we managed to control the situation.
+
+...
+
+[Data](articles/5f21d403.json)
+
+---
+
+### A red announcement from the weather
 
 *2024-06-29 09:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198276) · `si`
 
-සක්‍රීය නිරිතදිග මෝසම් තත්ත්වය හේතුවෙන් අරාබි මුහුදු ප්‍රදේශය ඉතා රළු විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව දැනුම් දී තිබේ.
+Due to active southwest monsoon, the Department of Meteorology warns the Arab sea area, specifically 70-80km of the Eastern latitude and 55-70km of the Eastern longitude. It advises the Departments of Fisheries and Navigation to move ashore or to safe places, prohibiting any seafaring activities.
 
-එම දෙපාර්තමේන්තුව පැවසුවේ උතුරු අක්ෂාංශ 06 ත් 20 ත් සහ නැගෙනහිර දේශාංශ 55 ත් 70 ත් යන ප්‍රදේශයේ පැයට කිලෝමීටර් 70 – 80 තද සුළං පවතින බවය.
+🟩
 
-මේ හේතුවෙන් අදාළ ප්‍රදේශයේ ධීවර හා නාවික කටයුතුවල යෙදී සිටින පිරිස් වහාම ගොඩබිම හෝ ආරක්ෂිත ස්ථානයක් වෙත පැමිණෙන ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ඉල්ලා සිටියි.
+The Department of Meteorology has informed the Arab sea area due to active southwest monsoon.
 
-එම මුහුදු ප්‍රදේශයට නැවත දැනුම්දෙන තුරු යත්‍රා නොකරන ලෙස එම දෙපාර්තමේන්තුව ධීවර හා නාවික ප්‍රජාවට දැනුම් දී තිබේ.
+The department said that 70 to 80 kilometers of the Eastern latitude and 55 to 70 km of the Eastern longing.
+
+The Department of Meteorology has requested the Department of Fisheries and Navigation to come to a land or safe place in the area.
+
+The Department has informed the fisheries and the naval community as no leoming to the sea.
 
 ◼️
 
 [Data](articles/c2178f13.json)
+
+[Extended Data](ext_articles/c2178f13.ext.json)
 
 ---
 
@@ -2219,25 +2243,5 @@ Sri Lanka’s Central Bank hiked rates in 2022 April to end money printed for tw
 [Data](articles/05569ceb.json)
 
 [Extended Data](ext_articles/05569ceb.ext.json)
-
----
-
-### Sri Lanka economic stability under President reduced renewable power prices: Minister
-
-*2024-06-28 14:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-economic-stability-under-president-reduced-renewable-power-prices-minister-170029/) · `en`
-
-ECONOMYNEXT – Economic stability achieved by Sri Lanka under President Ranil Wickremesinghe and policy changes had reduced renewable purchase prices, Energy Minister Kanchana Wijesekera said after investors bid steeply lower rates in a competitive tender in June, compared to earlier negotiated rates.
-
-“The key factor is the economic & political stability that the President & the Government has brought in and the positive policy changes & legal frame work changes established in the sector..,” Minister Kanchana Wijesekera said in an x.com post.
-
-“One of the key but not so popular decision was the cost reflective pricing which enabled the CEB to pay back the RE Developers on time making it easier for developers to raise financing.”
-
-Sri Lanka’s Central Bank hiked rates in 2022 April to end money printed for two years to keep rates artificially low in a bid to boost growth and target potential output.
-
-...
-
-[Data](articles/b87115b6.json)
-
-[Extended Data](ext_articles/b87115b6.ext.json)
 
 ---

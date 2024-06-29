@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 13:04:59**
+As of **2024-06-29 13:19:32**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,395
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,772 (100.0%) of 32,774 articles have been extended.
+32,774 (100.0%) of 32,774 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
 
-### කොවිඩ් - 19 නව ප්‍රභේදයක් අමෙරිකාවේ
+### 19 Covod - 19 New Genre in America
 
 *2024-06-29 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198281) · `si`
 
-කොවිඩ් - 19 වෛරසයේ නව ප්‍රභේදයක් අමෙරිකාවේ ව්‍යාප්ත වෙමින් පවතින බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+A new COVID-19 variant, dubbed "Covard," is rapidly spreading across 39 U.S. states, causing increased hospitalizations and deaths. The American CDC confirms this surge, highlighting the need for continued vigilance and public health measures.
 
-අමෙරිකානු රෝග පාලනය සහ වැළැක්වීමේ මධ්‍යස්ථානය පවසන්නේ ප්‍රාන්ත 39ක නව ප්‍රභේදය පැතිර යමින් පවතින බවය.
+🟩
 
-වෛරසයේ සක්‍රීයතාව සාපේක්ෂව තවමත් අඩු අගයක් පැවතිය ද රෝහල්ගත කිරීම් සහ මරණ ඉහළ යමින් පවතින බව වාර්තා වෙයි.
+The Covard - 19 A new variant of the virus is expanding in the United States, foreign media reports say.
+
+The American Disease Control and Prevention Center says that the new variety of 39 states is spreading.
+
+It is reported that the activism of the virus is still underway, hospitalization and deaths are rising.
 
 ◼️
 
 [Data](articles/5b399773.json)
+
+[Extended Data](ext_articles/5b399773.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ What’s more, health officials have reported upticks this month in COVID-19-ass
 ...
 
 [Data](articles/03e90970.json)
+
+[Extended Data](ext_articles/03e90970.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 12:53:28**
+As of **2024-06-29 13:04:59**
 
 ## Newspaper Stats
 
-*Scraped **32,772** Articles*
+*Scraped **32,774** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,51 +16,99 @@ islandlk | 1,821
 economynextcom | 1,922
 dailyftlk | 2,015
 adalk | 2,898
-adaderanalk | 3,729
+adaderanalk | 3,730
 tamilmirrorlk | 3,872
 dailymirrorlk | 4,733
 virakesarilk | 5,106
-adaderanasinhalalk | 5,394
+adaderanasinhalalk | 5,395
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,770 (100.0%) of 32,772 articles have been extended.
+32,772 (100.0%) of 32,774 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
 
-### වැඩවර්ජනයට දින 53ක්
+### කොවිඩ් - 19 නව ප්‍රභේදයක් අමෙරිකාවේ
+
+*2024-06-29 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198281) · `si`
+
+කොවිඩ් - 19 වෛරසයේ නව ප්‍රභේදයක් අමෙරිකාවේ ව්‍යාප්ත වෙමින් පවතින බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+අමෙරිකානු රෝග පාලනය සහ වැළැක්වීමේ මධ්‍යස්ථානය පවසන්නේ ප්‍රාන්ත 39ක නව ප්‍රභේදය පැතිර යමින් පවතින බවය.
+
+වෛරසයේ සක්‍රීයතාව සාපේක්ෂව තවමත් අඩු අගයක් පැවතිය ද රෝහල්ගත කිරීම් සහ මරණ ඉහළ යමින් පවතින බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/5b399773.json)
+
+---
+
+### US health officials recommend new COVID-19 shots for all this fall
+
+*2024-06-29 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100179/us-health-officials-recommend-new-covid-19-shots-for-all-this-fall) · `en`
+
+With fresh COVID-19 cases bubbling up in some parts of the country, health officials are setting course for a fall vaccination campaign.
+
+The Centers for Disease Control and Prevention on Thursday recommended new shots for all Americans this fall.
+
+Officials acknowledged the need for shots is not as dire as it was only a few years ago. Most Americans have some degree of immunity from being infected, from past vaccinations or both. COVID-19 deaths and hospitalizations last month were at about their lowest point since the pandemic first hit the United States in 2020.
+
+But immunity wanes, new coronavirus variants keep emerging and there are still hundreds of COVID-19-associated deaths and thousands of hospitalizations reported each week.
+
+What’s more, health officials have reported upticks this month in COVID-19-associated emergency room visits and hospitalizations, and a pronounced increase in positive test results in the southwestern U.S.
+
+...
+
+[Data](articles/03e90970.json)
+
+---
+
+### 53 days to strike
 
 *2024-06-29 12:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198280) · `si`
 
-විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින්ගේ ගැටලුව සම්බන්ධයෙන් ලබන සඳුදා විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිසමේ සභාපතිවරයා සමග සාකච්ඡාවක් පැවැත්වීමට නියමිත බව අන්තර් විශ්වවිද්‍යාල වෘත්තීය සමිති මහා සම්මේලනය පවසයි.
+University non-academic staff plan a strike after 53 days without government intervention. Trade unions decided to continue their action unless issues are resolved.
 
-එහි සමලේකම් කේ.එල්.ඩී. රිච්මන් මහතා පැවුසවේ ඊයේ (28) දින රැස්වූ වෘත්තීය සමිති එකමුතුව වෘත්තීය ක්‍රියාමාර්ගය අඛණ්ඩව සිදුකිරීමට තීරණය කළ බවය.
+🟩
 
-"විශ්වවිද්‍යාල පද්ධතියි අකර්මන්‍ය ‍වෙලා අදට දින 53ක් වෙනවා. මේ වෙනකම් ගැටලු විසඳීමට සාධනීය මැදිහත්වීමක් කරලා නෑ රජය. ඊයේ දිනයේ වෘත්තීය සමිති රැස් ‍වෙලා තීරණය කළා මෙම වෘත්තීය ක්‍රියාමාර්ගය අඛණ්ඩව සිදුකරගෙන යාමට. නිසි විසඳුමක් නොලැබුනහොත් වෘත්තීය ක්‍රියාමාර්ග අඛණ්ඩව සිදුකරනවා."
+The Meeting of University Grants Commission is scheduled to hold talks with the Chairman of the University Grants Commission, regarding the issue of university non-academic workers.
+
+Its strike KLD. Mr. Richman had decided to continue the trade union action to be continued yesterday.
+
+"The university sets are 53 days today. The government has not taken positive interference to solve problems. The trade unions meet yesterday and decided to continue this trade union action. Conducts continuously, if there is no proper solution. "
 
 ◼️
 
 [Data](articles/dd10e865.json)
 
+[Extended Data](ext_articles/dd10e865.ext.json)
+
 ---
 
-### பாலித ரங்கே பண்டாரவின் மகன் திடீர் கைது
+### The son of Palitha Range Bandara's sudden arrested
 
 *2024-06-29 12:22:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலித-ரங்கே-பண்டாரவின்-மகன்-திடீர்-கைது/175-339597) · `ta`
 
-ஐக்கிய தேசியக் கட்சியின் செயலாளர் நாயகம் பாலித ரங்கே பண்டாரவின் மகன் யசோத ரங்கே பண்டார திடீரென கைது செய்யப்பட்டுள்ளார்.
+Yasoda Range Bandara, son of UNP Secretary Palitha Range Bandara, was arrested for crashing his car into another vehicle in Alimangada near Kuruwalakaswewa 07 pillar early this morning. Investigations continue.
 
-இன்று (29) அதிகாலை 4.30 மணியளவில் கருவலகஸ்வெவ 07 ஆம் தூண் மீ ஓயாவிற்கு அருகிலுள்ள அலிமங்கட பிரதேசத்தில் அவர் பயணித்த கார் வீதியை விட்டு விலகி முச்சக்கர வண்டியுடன் மோதி விபத்தை ஏற்படுத்திய சம்பவம் தொடர்பிலேயே இவர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-விபத்து தொடர்பான மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாக கருவலகஸ்வெவ பொலிஸார் தெரிவித்தனர். R
+Yasoda Range Bandara, son of United National Party (UNP) Secretary Palitha Range Bandara, has been arrested.
+
+He was arrested in connection with the accident that he had crashed into a car road in Alimangada area near the Kuruwalakaswewa 07 pillar at 4.30 am today (29).
+
+Further investigations into the accident are being carried out. Remble
 
 ◼️
 
 [Data](articles/10b362f5.json)
+
+[Extended Data](ext_articles/10b362f5.ext.json)
 
 ---
 
@@ -2195,55 +2243,5 @@ Similarly, Jayantha Wijeratne, Chairman and Commissioner of Welfare Benefits, sa
 [Data](articles/a80c9091.json)
 
 [Extended Data](ext_articles/a80c9091.ext.json)
-
----
-
-### Keheliya further remanded
-
-*2024-06-28 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198262) · `si`
-
-Former Minister Keheliya Rambukwella and six others were remanded until July 12 after being charged at the Maliganda Magistrate's Court. One suspect was released on bail.
-
-🟩
-
-Seven suspects including former Minister Keheliya Rambukwella and seven suspects have been remanded until July 12.
-
-The suspects have been submitted to the Maliganda Magistrate's Court.
-
-A suspect in the incident has been released on bail.
-
-◼️
-
-[Data](articles/bb80ee00.json)
-
-[Extended Data](ext_articles/bb80ee00.ext.json)
-
----
-
-### A special allowance for beneficiaries
-
-*2024-06-28 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198261) · `si`
-
-The Welfare Board has released funds for 622,495 beneficiaries, including a special allowance of Rs. 5,000 annually for eligible individuals and Rs. 2,500 for those transitioning. This support is extended to vulnerable groups from June to December 2024, as directed by President Ranil Wickremesinghe. The board assures ongoing financial aid for the needy.
-
-🟩
-
-The Welfare Board has issued a sum of Rs.
-
-It is said that the bank accounts were released yesterday (27) at 622,495 overall beneficiaries.
-
-5,000 per year to qualified beneficiaries in the event. 03. 2,500 per certificates under the transition group cost Rs 223. 12. Steps were taken to 31.
-
-Accordingly, President Ranil Wickremesinghe has advised the Welfare Benefit Board until December this year.
-
-It has been decided to pay a special allowance for the monthly and vulnerable categories for June 2024, to December 2024, to December 2024 to pay Rs.
-
-The Welfare Benefit Board says that the payment method for the poor and poor categories are continuing.
-
-◼️
-
-[Data](articles/89c5b43e.json)
-
-[Extended Data](ext_articles/89c5b43e.ext.json)
 
 ---

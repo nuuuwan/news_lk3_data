@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 17:55:28**
+As of **2024-06-29 18:12:55**
 
 ## Newspaper Stats
 
-*Scraped **32,796** Articles*
+*Scraped **32,799** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,78 +15,154 @@ newsfirstlk | 363
 islandlk | 1,821
 economynextcom | 1,922
 dailyftlk | 2,015
-adalk | 2,902
+adalk | 2,904
 adaderanalk | 3,733
 tamilmirrorlk | 3,874
 dailymirrorlk | 4,733
 virakesarilk | 5,109
-adaderanasinhalalk | 5,405
+adaderanasinhalalk | 5,406
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,790 (100.0%) of 32,796 articles have been extended.
+32,796 (100.0%) of 32,799 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
 
-### ෆීල්ඩ් මාෂල්ට රට වෙනුවෙන් විශිෂ්ට සේවාවක් ඉටු කළ හැකියි
+### ඡන්දය ගැන මැතිවරණ කොමිසමෙන් ඉඟියක්
+
+*2024-06-29 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198294) · `si`
+
+එළඹෙන ජුලි මස 17න් පසුව ජනාධිපතිවරණය පිළිබඳ නිවේදනය ප්‍රකාශ කිරීම සඳහා මැතිවරණ කොමිසමට බලය ලැබෙන බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් රත්නායක මහතා පවසයි.
+
+මැතිවරණ කොමසාරිස් ජනරාල් සමන් රත්නායක මහතා අද (29) මහනුවරදී මාධ්‍ය වෙත අදහස් දක්වමින් මේ බව සඳහන් කළේය.
+
+ඔහු වැඩිදුරටත් සඳහන් කළේ මැතිවරණ කොමිසම ඕනෑම මැතිවරණයකට සූදානම් බවය.
+
+මෙම මැතිවරණය සඳහා 2024 ජන්ද හිමි නාමලේඛනය උපයෝගී කරගැනීමට හැකි බවද සමන් රත්නායක මහතා පැවසීය.
+
+◼️
+
+[Data](articles/995d110f.json)
+
+---
+
+### ලංකාවට ඇමෙරිකානු ඩොලර් බිලියන 17ක වාසියක් එන හැටි ඇමති අලි සබ්‍රි කියයි
+
+*2024-06-29 17:36:46* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවට-ඇමෙරිකානු-ඩොලර්-බිලියන-17ක-වාසියක්-එන-හැටි-ඇමති-අලි-සබ්‍රි-කියයි/11-410502) · `si`
+
+ද්වී පාර්ශ්වීය ණය හිමියන් සමඟ ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලිය සාර්ථක කරගැනීමත් සමඟ ශ්‍රී ලංකාවට ඇමෙරිකානු ඩොලර් බිලියන 17ක පමණ වාසියක් හිමිවන බව විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ සබ්‍රි මහතා සඳහන් කළේය.
+
+එසේම ජාත්‍යන්තර ස්වෛරී බැඳුම්කර සම්බන්ධයෙන් වන සාකච්ඡා සාර්ථක කරගැනීමට ද මෙම තත්ත්වය ඉවහල් වන බව අමාත්‍යවරයා පැවසීය.
+
+විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්‍රි මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+2022 වසරේ අප්‍රේල් මස 12 වනදා ශ්‍රී ලංකාව විසින් ගෙවිය යුතු විදේශ ණය යම් ප්‍රමාණයක් ගෙවීම තාවකාලිකව අත්හිටුවීමට තීරණය කළා. ඒ වන විටත් ඩොලරයට සාපේක්ෂව රුපියලේ අගය 600, 700 සහ 1000 දක්වා ඉහල යන බවට එවක සිටි ඇතැම් පාර්ශ්ව චෝදනා කළා. නමුත් පසුව අප විසින් එම තත්ත්වය පාලනය කර ගැනීමට සමත් වුණා.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ ගිවිසුම් ගත වීමේ දී ණය ප්‍රතිව්‍යුහගත කරගන්නා ලෙස අපට දැනුම් දුන්නා. ඒ සඳහා ලසාඩ් සමාගම අපගේ නියෝජිතයා ලෙසත් නීති උපදේශක ලෙස ක්ලිෆඩ් චාන්ස් සමාගමත් පත් කර ගැනීමට කටයුතු කළා.
+
+...
+
+[Data](articles/cf8453e8.json)
+
+---
+
+### Field Marshal can play an excellent service for the country
 
 *2024-06-29 17:30:52* · [`adalk`](https://www.ada.lk/picture_story/ෆීල්ඩ්-මාෂල්ට-රට-වෙනුවෙන්-විශිෂ්ට-සේවාවක්-ඉටු-කළ-හැකියි/10-410501) · `si`
 
-තිස් වසරක යුද්ධය නිමා කිරීමට විශිෂ්ට නායකත්වයක් සැපයූ හිටපු යුද හමුදාපති, පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා විසින් රචිත “යුද හමුදාපති ජාතියට දුන් පොරොන්දුව – මම මේ යුද්ධය ඊළඟ යුද හමුදාපතිට ඉතිරි නොකරමි” ග්‍රන්ථය එළිදැක්වීම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන්  කොළඹ නෙළුම් පොකුණ රඟහලේ දී පැවැත්විණි.
+Field Marshal Sarath Fonseka, recognized for his military leadership and contributions to winning the war, was honored by President Ranil Wickremesinghe. The President highlighted Fonseka's strategic victories both in warfare and politics, emphasizing his resilience and dedication to serving the nation. Despite challenges, including the loss of Jaffna during operations and personal imprisonment, Fonseka's unwavering commitment to national development was acknowledged. His potential for future contributions to the country was underscored, reflecting on his enduring influence and the importance of leveraging his experience for the nation's progress.
 
-ග්‍රන්ථයේ පළමු පිටපත මෙහිදී පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා විසින් ජනාධිපතිවරයා වෙත පිළිගැන්වීය.
+🟩
 
-හිටපු යුද හමුදාපතිවරයෙකු ලෙස සරත් ෆොන්සේකා මහතාගේ සේවාව මෙහිදී අගය කළ ජනාධිපතිවරයා යුද අභියෝගය ජයග්‍රහණය කළ සහ දේශපාලනයේ අභියෝග රැසකට මුහුණ දුන් සරත් ෆොන්සේකා මහතාට ඉදිරියට ද රට වෙනුවෙන් විශිෂ්ට සේවාවක් සිදු කිරීමට හැකියාව තිබෙන බව සඳහන් කළේය.
+President Ranil Wickremesinghe was chaired by the former Army Commander of the Army Parun 'Army Commander of the Army, the President of the Army..
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද පැවසීය,
+The first copy of the book was presented to the President MP Field Marshal Sarath Fonseka.
 
-මෙරට යුද හමුදාවේ එකම ෆීල්ඩ් මාර්ෂල් තනතුර දරන්නේ සරත් ෆොන්සේකා මහතායි. එතුමා යුද අභියෝගය ජයග්‍රහණය කළා පමණක් නොවෙයි, යුද පිටියෙන් පිටත දේශපාලනය තුළත් අභියෝගවලට මුහුණ දුන් කෙනෙක්.
+Sarath Fonseka, who was appreciated by the president of former Army Commander, said that the President won the war challenge and had a great service to the country.
+
+Speaking further, President Ranil Wickremesinghe further said,
+
+Sarath Fonseka holds the same Field Marshal in the Sri Lanka Army. He did not just win the challenge of the war challenge but also in politics outside the war.
+
+I have identified him through the General Swin, General Dr. Health. I was closely associated with General Dr. Dr.arathna. He told me the officer had a good future to give it the opportunity. The government had a knowledge of every officer in the government even though the war began. Several excellent officers were produced in the time, and Sarath Fonseka has a special place.
 
 ...
 
 [Data](articles/7bda505d.json)
 
+[Extended Data](ext_articles/7bda505d.ext.json)
+
 ---
 
-### අප්‍රිකානු කලාපයේ රටවල ණය සම්පූර්ණයෙන් අහෝසි කළ යුතුයි
+### Loans must be abolished in countries in the African region
 
 *2024-06-29 17:22:24* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රිකානු-කලාපයේ-රටවල-ණය-සම්පූර්ණයෙන්-අහෝසි-කළ-යුතුයි/11-410500) · `si`
 
-ආර්ථික ගැටලුකාරී තත්ත්වය හේතුවෙන් කෙන්යාව අද විශාල අර්බුදයකට මුහුණ දී සිටින අතර මිනිස් ඝාතන ද සිදු වන බව පෙන්වා දුන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා රටක ආර්ථිකය සකස් කිරීම අත්‍යාවශ්‍ය බවත්, රට තුළ ආර්ථික ස්ථාවරත්වයක් ඇති කිරීමට ශ්‍රී ලංකාව සමත් නොවුවා නම් අද ශ්‍රී ලංකාවේ තත්ත්වය ද එය බවත් පැවසීය.
+At the 2024 Presidential Awards Ceremony, President Ranil Wickremesinghe emphasized the importance of abolishing loans in Africa to address economic crises, citing Sri Lanka's successful economic strategies. He highlighted Sri Lanka's readiness to lead in combating climate change and its commitment to a digital and green economy. Despite facing financial challenges, Sri Lanka opposes loan relief for Asia but supports abolishing debts for African nations to tackle climate change effectively. The President urged an end to wars and conflicts, advocating for peace and economic stability globally.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේ දී පැවති 2024 ජනාධිපති පරිසර සම්මාන උළෙල අමතමිනි.
+🟩
 
-මෙහිදී අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් සඳහන් කළේ දේශගුණික විපර්යාසවලට මුහුණ දීමට ආර්ථික ශක්තිය නොමැති අප්‍රිකානු කලාපයේ රටවල ණය සම්පූර්ණයෙන් අහෝසි කළ යුතු බවට ගෝලීය හඬක් නැඟීම ශ්‍රී ලංකාවේ විදේශ ප්‍රතිපත්තියේ කොටසක් වන බවයි.
+If the Kenya is a major crisis today due to the economic problem, the state of Sri Lanka is essential to develop the economy of the country and that Sri Lanka has been able to prepare the economy of a country in the country..
 
-ශ්‍රී ලංකාව එවන් සහනයක් අපේක්ෂා නොකරන අතර ණය කළමනාකරණය කර ගනිමින් ඉදිරියට යාමට ශ්‍රී ලංකාවට ශක්තිය සහ ඥානය ඇති බවද ජනාධිපතිවරයා එහිදී කියා සිටියේය.
+The President was addressing the 2024 Presidential Awards Ceremony at the Bandaranaike Memorial International Conference Hall.
+
+President Ranil Wickremesinghe said that the rise of a global voice should be completely eliminated in the African region of the African region of the African region of the African region.
+
+Sri Lanka does not expect such concessions and Sri Lanka has the strength and knowledge of Sri Lanka to proceed with the debt.
+
+The President said Sri Lanka is ready to lead the region in the international workforce to take the regional leadership in the face of climate change.
 
 ...
 
 [Data](articles/01ba0c3c.json)
 
+[Extended Data](ext_articles/01ba0c3c.ext.json)
+
 ---
 
-### රුසියානු යුද්ධයෙන් තුවාල ලැබූ ශ්‍රී ලාංකිකයන් එන්න බෑ කියයි
+### Sri Lankans who were injured in the Russian war say they cannot come
 
 *2024-06-29 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198293) · `si`
 
-කුලී හමුදා සඳහා එක්වීමට රුසියාවට ගිය ශ්‍රී ලාංකිකයන්ගෙන් තුවල ලැබු අය අතරින් පිරිසක් නැවත ශ්‍රී ලංකාවට පැමිණීමට අකමැති බව විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා පවසයි.
+Injured Sri Lankans in the Russian conflict face challenges returning home due to hopes for Russian citizenship. The Indian Minister of External Affairs, Tharaka Balasuriya, mentioned this issue. Meanwhile, efforts are underway to compensate victims, as the Foreign Minister and others visited Russia for discussions.
 
-රුසියාවේ පුරවැසිභාවය ලැබෙනු ඇතැයි ඔවුන්ගේ බලාපොරොත්තුව බවද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-මේ අතර මියගිය අයට වන්දි ගෙවීමට රුසියානු රජය පියවර ගනිමින් සිටින බවද තාරක බාලසූරිය මහතා අද (29) කෑගල්ලේදී පැවසීය.
+Minister of External Affairs Tharaka Balasuriya says that the Indian Minister of External Affairs Tharaka Balasuriya says that the Sri Lankans who had returned to the tax return to rent were unwilling to return to Sri Lanka.
 
-"අපි කණ්ඩායමක් රුසියාවට ගොස් රුසියාවේ ආරක්ෂක නියෝජ්‍ය අමාත්‍යවරයා හා විදේශ කටයුතු නියෝජ්‍ය අමාත්‍යවරයා සමග රාජ්‍ය තාන්ත්‍රික මට්ටමින් සාකච්ජා කළා. එහිදි අපට දැනුම්දී තිබුණා 464 දෙනෙක් ගැන."
+They hope that they will have citizenship in Russia, the public minister said.
 
-මෙම සිද්ධිය ගැන තොරතුරු සොයා බැලීමට විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය, පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන ගාමිණී වලේබොඩ, දයාසිරි ජයසේකර මහතා ඇතුළු රාජ්‍ය නිලධාරීන් 8 දෙනෙකු පසුගියදා දිවයිනෙන් පිටත්ව ගොස් තිබුණි.
+Meanwhile, Tharaka Balasuriya said that the Russian government is taking measures to compensate the dead.
+
+"We went to Russia and discussed the Russian Defense Minister and the Deputy Minister of External Affairs at diplomatic. We had informed about 464. "
+
+Foreign Minister Tharaka Balaboda, MPs Gamini Walaboda and Dayasiri Jayasekera and 8 public officials have left the island recently to investigate the incident.
 
 ◼️
 
 [Data](articles/4c9b6a27.json)
+
+[Extended Data](ext_articles/4c9b6a27.ext.json)
+
+---
+
+### අස්වැසුමට තවත් රුපියල් බිලියන 11.6ක්
+
+*2024-06-29 17:14:19* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුමට-තවත්-රුපියල්-බිලියන-11-6ක්/11-410499) · `si`
+
+අස්වැසුම සුබසාධක ප්‍රතිලාභ ගෙවීමේ වැඩසටහන යටතේ 2024 ජුනි මාසය සඳහා සංක්‍රාන්තික හා අවධානමට ලක්වූ කාණ්ඩවලට අයත් ප්‍රතිලාභීන්ට විශේෂ දීමනා ගෙවීම සඳහා රුපියල් බිලියන 11.6ක මුදලක් සුබසාධක ප්‍රතිලාභ මණ්ඩලය විසින් සමස්ත ප්‍රතිලාභීන් 622,495 දෙනෙකුගේ බැංකු ගිණුම් වෙත මුදා හැර තිබේ.
+
+මෙම වැඩසටහනේ පළමු අදියර ලෙස අවධානමට ලක්වූ කාණ්ඩයේ සුදුසුකම් ලැබූ ප්‍රතිලාභීන්ට රුපියල් 5000 බැගින් 2023 ජූලි මස සිට 2024. 03. 31 දක්වාත්, සංක්‍රාන්ති කාණ්ඩය යටතේ සුදුසුකම්ලාභීන්ට රුපියල් 2500 බැගින් 2023 ජූලි මස 2023. 12. 31 දක්වාත් ගෙවීමට කටයුතු යොදා තිබිණි.
+
+වත්මන් ආර්ථික තත්ත්වය සැලකිල්ලට ගෙන අස්වැසුම සුබසාධක ප්‍රතිලාභ ගෙවීමේ වැඩසටහන යටතේ සංක්‍රාන්තික කාණ්ඩයේ සහ අවධානමට ලක්වූ කාණ්ඩයේ ප්‍රතිලාභීන්ට විශේෂ දීමනා ගෙවීමේ කාලය මේ වසරේ දෙසැම්බර් මස දක්වා දීර්ඝ කරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සුබසාධක ප්‍රතිලාභ මණ්ඩලයට උපදෙස් දී ඇත.
+
+...
+
+[Data](articles/911e6261.json)
 
 ---
 
@@ -139,6 +215,8 @@ Sri Lanka Navy Spokesperson said the vessel is being towed back to land with the
 ◼️
 
 [Data](articles/e25d8808.json)
+
+[Extended Data](ext_articles/e25d8808.ext.json)
 
 ---
 
@@ -960,21 +1038,31 @@ Minister of Foreign Affairs Ali Sabry revealed this addressing the Media briefin
 
 ---
 
-### හදිසි නීතිය හෝ ක්‍රියාත්මක කර දරුවන්ගේ අධ්‍යාපනය සුරක්ෂිත කරනවා
+### Emergency or implementing the education of children
 
 *2024-06-29 09:16:52* · [`adalk`](https://www.ada.lk/breaking_news/හදිසි-නීතිය-හෝ-ක්‍රියාත්මක-කර-දරුවන්ගේ-අධ්‍යාපනය-සුරක්ෂිත-කරනවා/11-410498) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා බලංගොඩ ශ්‍රී ධර්මානන්ද විද්‍යායතන පිරිවෙන වෙත පැමිණ ශ්‍රී ලංකා අමරපුර මහා සංඝ සභාවේ සභාපති සහ ශ්‍රී ලංකා අමරපුර මහා නිකායේ රාස්සගල පර්ශ්වයේ මහානායක පූජ්‍ය කරගොඩ උයන්ගොඩ මෛත්‍රී මුර්ති මහා නායක හිමිපාණන් වහන්සේ බැහැ දැක ආශිර්වාද ලබා ගත්තේය.
+President Ranil Wickremesinghe met with Sri Lanka Amarapura Maha Sangha leaders to discuss educational initiatives, including establishing a Theravada Buddhism study center in Anuradhapura, inspired by a similar center in California. He emphasized the importance of addressing issues affecting monks and teachers, advocating for their rights and the quality of education. The event was attended by several officials, highlighting the government's commitment to enhancing Buddhist education and supporting educators.
 
-ශ්‍රී ලංකාව මේ වන විට අත්කරගෙන සිටින ආර්ථික සහ මූල්‍ය ප්‍රගතිය පිළිබඳව මහානායක හිමියන් දැනුවත් කරමින් උන්වහන්සේ සමඟ කෙටි පිළිසඳරක නිරත වු ජනාධිපතිවරයා විහාරස්ථානයේ සංවර්ධන කටයුතු පිළිබඳවද සොයා බැලීය.
+🟩
 
-සබරගමුව පළාත් ආණ්ඩුකාර කාර්යාලය මඟින් ශ්‍රී ධම්මානන්ද විද්‍යායතන පිරිවෙණේ ප්‍රතිසංස්කරණ කටයුතු සඳහා ලබාදුන් රුපියල් මිලියනයක මුදලට අදාළ චෙක්පත මහ නායක හිමිපාණන් වහන්සේ වෙත පිළිගැන්වීම ද ජනාධිපතිවරයා අතින් සිදු විය.
+President Ranil Wickremesinghe arrived at the Sri Lanka Amarapura Maha Sangha Chairman of Sri Lanka and Sri Lanka Amarapura Maha Nikaya, Sri Lanka Amarapura Maha Nikaya.
 
-මෙහිදී අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් මෙසේද පැවසීය,
+The President also looked into the development of the Viharamaha who was involved in the Mahanayake and the Mahanayake Thera informed the Mahanayaka Thera.
+
+The President also presented the check to the Sri Dhammaonanda Institute of Pirivena, the Governor of the Sabaragamuwa and the President.
+
+President Ranil Wickremesinghe further said,
+
+There is a high demand for Buddhist Buddhism around the world today. We are planning to build a center in Anuradhapura to study theravada Buddhism. Accordingly, legendous local and foreign will have the opportunity to attend the center.
+
+A study of Buddhist religious teachings in California, USA has established. It provides further study of the Mahayana Buddhism.. We should also have such a Buddhist education center.
 
 ...
 
 [Data](articles/a0493299.json)
+
+[Extended Data](ext_articles/a0493299.ext.json)
 
 ---
 
@@ -2150,17 +2238,27 @@ Sri Lanka has earned US $ 125 million from the process of peacekeeping of the Re
 
 ---
 
-### ගුවන් හමුදාවේ හෙලිකොප්ටරයක් අරන් යන්න ලොව විශාලම ගුවන් යානයක් කටුනායකට
+### Katunayake to take a helicopter to take a helicopter
 
 *2024-06-28 20:14:32* · [`adalk`](https://www.ada.lk/uncategorized/ගුවන්-හමුදාවේ-හෙලිකොප්ටරයක්-අරන්-යන්න-ලොව-විශාලම-ගුවන්-යානයක්-කටුනායකට/1-410493) · `si`
 
-මධ්‍යම අප්‍රිකානු ජනරජයේ සාම සාධක රාජකාරී වල නිරත වී සිටින ශ්‍රී ලංකා ගුවන් හමුදාව සදහා , ඔවුන් සතු " එම්.අයි. - 17 " වර්ගයේ හෙලිකොප්ටර් යානයක් රැගෙන යාම සදහා ලොව විශාලතම භාණ්ඩ ප්‍රවාහන ගුවන් යානයක් වන " ඇන්ටනෝව් - 124 " ( Antonov - 124) ගුවන් යානයක් 06/28 දින පස්වරු 02.45 ට කටුනායක ගුවන් හමුදා කදවුර වෙත පැමිණියේය .
+The Sri Lanka Air Force, involved in peacekeeping in the Central African Republic since 2014, received an Antonov-124 cargo plane at Katunayake Air Force base. This visit coincides with significant maintenance work on one of their helicopters. The force operates three types of helicopters in the region, utilizing them for troop transport, medical emergencies, and other critical missions. Their peacekeeping efforts have generated $125 million for Sri Lanka.
 
-ශ්‍රී ලංකා ගුවන් හමුදාව 2014 වසරේ සිට මධ්‍යම අප්‍රිකානු ජනරජයේ සාම සාධක රාජකාරී වල නිරත වී සිටින අතර , වර්තමානයේ එහි එම්.අයි.- 17 වර්ගයේ හෙලිකොප්ටර් යානා 03 ක් ද එහි සේවා සදහා යොදවා තිබේ. මෙයින් එක් හෙලිකොප්ටර් යානයක අත්‍යාවශ්‍ය ප්‍රධාන නඩත්තු කටයුත්තක් (Major Overhaul ) සිදු කිරීමට ඇති නිසා , එම යානය එරටින් ඉවත් කර ශ්‍රී ලංකාවට රැගෙන ඒමට ප්‍රථම , මෙම එම්.අයි.- 17 හෙලිකොප්ටර් යානය එරට ශ්‍රී ලංකා හෙලිකොප්ටර් බල ඝනය වෙත එකතු කිරීම සදහා මෙසේ රැගෙන යාම සිදු කිරීමට පියවර ගෙන තිබේ.
+🟩
+
+For the Sri Lanka Air Force, which is engaged in peacekeeping of peacekeeping in peace factors in the Central African Republic, their "MI '. - 17 "Antonov - 124" (Antonov - 124) A plane came to Katunayake at Katunayake at Katunayake at Katunayake Air Force.
+
+The Sri Lanka Air Force has been working in peace factors in the Central African Republic from 2014 and currently has three helicopters and three types of helicopters.. This MI has taken a major maintenance activity in one helicopter (major overhaul), so that the plane was removed and the helicopter was to add Sri Lankan helicopters to the thick of Sri Lanka's helicopter power.Steps have been taken to perform.
+
+The Sri Lanka Air Force helicopters in the Central African Republic is using the transport of troops, internal flights, emergency medical care and emergency and transportation.
+
+Sri Lanka has earned US $ 125 million from the process of peacekeeping of the Republic of Central African Republic.
 
 ...
 
 [Data](articles/f556f64d.json)
+
+[Extended Data](ext_articles/f556f64d.ext.json)
 
 ---
 
@@ -2193,73 +2291,5 @@ The coach has been appointed by the first lane in the first lane, the most impor
 [Data](articles/c3477f00.json)
 
 [Extended Data](ext_articles/c3477f00.ext.json)
-
----
-
-### Bird fever in Sri Lanka?
-
-*2024-06-28 19:37:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-பறவைக்-காய்ச்சல்/175-339587) · `ta`
-
-An Indian visitor to Sri Lanka was hospitalized due to fever, not bird flu, but influenza. Health officials clarified the confusion.
-
-🟩
-
-Health officials have confirmed that an Indian citizen who came to Sri Lanka has been admitted to the hospital after showing signs of fever.
-
-Although the Indian citizen is suspected of having a fever, he has no bird fever, but in influenza is confirmed.. Remble
-
-◼️
-
-[Data](articles/55f999b1.json)
-
-[Extended Data](ext_articles/55f999b1.ext.json)
-
----
-
-### Sri Lanka could face unrest as in Kenya if economic stability not established: President
-
-*2024-06-28 19:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-could-face-unrest-as-in-kenya-if-economic-stability-not-established-president-170170/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s president has pointed to Kenya’s current struggle with a severe economic crisis and incidents of violence, and said economic preparedness in all nations was a crucial need.
-
-“Recent riots in Kenya, where around 20 people have been shot dead, highlight the consequences of economic instability. If we do not establish economic stability in Sri Lanka, we could face similar unrest,” President Ranil Wickremesinghe said.
-
-Wickremesinghe was speaking at the Presidential Environment Awards ceremony at the Bandaranaike Memorial International Conference Hall (BMICH) in Colombo on Friday.
-
-He said Sri Lanka’s economic stability has effectively prevented comparable challenges within the country.
-
-“Sri Lanka has taken the first step toward debt restructuring, moving us out of bankruptcy.
-
-“Our next step is to implement the Economic Transformation Law to continue this progress.
-
-...
-
-[Data](articles/741221ad.json)
-
-[Extended Data](ext_articles/741221ad.ext.json)
-
----
-
-### Fonseka will record historical victory in politics
-
-*2024-06-28 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187218) · `ta`
-
-Field Marshal Sarath Fonseka, known for leading Sri Lanka through three decades of war, is expected to make significant contributions to politics, according to President Ranil Wickremesinghe. Despite transitioning from military to parliamentary roles, Fonseka's impact is anticipated to be profound, marking a historic victory in the political sphere. His appointment to lead peace efforts in Jaffna post-war underscores his leadership capabilities, likened to having the strength of a brigade. With past successes in both battlefields and politics, Fonseka is poised for future achievements, ensuring his continued service to the nation.
-
-🟩
-
-Field Marshall Sarath Fonseka's service is not going to end as a military commander or Member of Parliament. He still has opportunities to serve the country. President Ranil Wickremesinghe said he hoped that he would record historical victory in the political arena, not only in the war.
-
-Field Marshall Sarath Fonseka's 'Promise to the Army Commander'. Speaking at the event as a special guest at the event, the President added that this was said.
-
-Field Marshall Fonseka took over as military commander in charge of 3 decades of war. Because of that he was upgraded to Field Marsha. He is the only military commander who acted as a field monster in Sri Lanka.
-
-After the end of the war, there was a need to establish peace in Jaffna. For that purpose, a thorough brigade of the army should be deployed on duty. But I appointed Sarath Fonseka. The reason is because a person named Fonseka is equal to a brigade.
-
-...
-
-[Data](articles/a9362b75.json)
-
-[Extended Data](ext_articles/a9362b75.ext.json)
 
 ---

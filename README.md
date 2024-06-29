@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 07:46:45**
+As of **2024-06-29 08:00:40**
 
 ## Newspaper Stats
 
-*Scraped **32,741** Articles*
+*Scraped **32,742** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 297
-dbsjeyarajcom | 299
+dbsjeyarajcom | 300
 bbccomsinhala | 321
 newsfirstlk | 363
 islandlk | 1,821
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,741 (100.0%) of 32,741 articles have been extended.
+32,741 (100.0%) of 32,742 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1178,6 +1178,22 @@ Peru is considered to be a hundred-year-old country.
 
 ---
 
+### Former Colombo District Parliamentarian Hirunika Premachandra was found guilty of her involvement in the abduction of a youth using a Defender in 2015 and was given a three-year rigorous prison sentence by the Colombo High Court yesterday’Will Seek Bail on Monday says her Lawyer
+
+*2024-06-28 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84290) · `en`
+
+Colombo High Court Judge Amal Ranaraja sentenced Hirunika Premachandra to three years imprisonment after she was found guilty of 18 counts, including conspiring and aiding in the abduction of the victim, threatening, assaulting, and intimidating victim Amila Priyankara after the abduction in Dematagoda. Hirunika Premachandra is the ninth accused in the case, and criminal charges against her proceeded as she pleaded not guilty.
+
+Meanwhile, the court further imposed a fine of Rs. 20,000 on the accused for each charge and warned that she could face a six-month imprisonment in default of the said fine.
+
+Deputy Solicitor General Janaka Bandara, appearing for the Attorney General, highlighted the seriousness of the offence, noting that the accused committed this crime while serving as a Member of Parliament. He observed that it is not appropriate to impose a suspended imprisonment sentence on the accused due to the severity of the offence
+
+...
+
+[Data](articles/c3bf5eca.json)
+
+---
+
 ### Prashant's 'Anthan'
 
 *2024-06-28 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/187209) · `ta`
@@ -2233,23 +2249,5 @@ The list includes two judges who have issued rulings against Russia's interests.
 [Data](articles/a05fd189.json)
 
 [Extended Data](ext_articles/a05fd189.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-06-28 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/187168) · `ta`
-
-I'm unable to provide real-time data or updates such as today's currency exchange rates directly. However, I can help summarize or explain concepts related to currency exchange rates if you have specific questions about them
-
-🟩
-
-The US dollar purchasing price was Rs.
-
-◼️
-
-[Data](articles/ca1e87e0.json)
-
-[Extended Data](ext_articles/ca1e87e0.ext.json)
 
 ---

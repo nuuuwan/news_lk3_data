@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 05:37:04**
+As of **2024-06-29 06:00:10**
 
 ## Newspaper Stats
 
-*Scraped **32,727** Articles*
+*Scraped **32,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 297
 dbsjeyarajcom | 299
 bbccomsinhala | 321
 newsfirstlk | 363
-islandlk | 1,813
+islandlk | 1,821
 economynextcom | 1,920
 dailyftlk | 2,015
 adalk | 2,895
@@ -26,11 +26,39 @@ adaderanasinhalalk | 5,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,727 (100.0%) of 32,727 articles have been extended.
+32,727 (100.0%) of 32,735 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
+
+### Straight A Pluses for Sierra Cables from FITCH
+
+*2024-06-29 02:16:00* · [`islandlk`](http://island.lk/straight-a-pluses-for-sierra-cables-from-fitch/) · `en`
+
+Sierra Cables PLC, one of Sri Lanka’s renowned cable manufacturers, has sustained a solid rating of A+ (lka) with a stable outlook for three consecutive years from Fitch Ratings, a leading provider of credit ratings for global markets. Despite the challenging economic conditions both locally and internationally, Sierra Cables’ impressive standing is a testament to the Company’s remarkable financial performance and strategic management decisions which played a pivotal role in maintaining this consistent distinction.
+
+Commenting on the recognition, Harsha Jayatunga, CEO of Sierra Cables said, “We are extremely pleased with our performance this financial year and are delighted that we could maintain the rating for the past three years despite the highly challenging economic restraints. We were able to attain this grade due to our robust financial performance, combined with timely and prudent management decisions.”
+
+...
+
+[Data](articles/7db12f7f.json)
+
+---
+
+### Share market marked by declining trend despite govt.’s economic stabilization effort
+
+*2024-06-29 02:16:00* · [`islandlk`](http://island.lk/share-market-marked-by-declining-trend-despite-govt-s-economic-stabilization-effort/) · `en`
+
+The stock market registered a downward trend yesterday mainly due to political instability despite the government’s effort at stabilizing the economy with the signing of the MOU with external creditors, market analysts said.Amid those developments mixed signals were sent by the main indices.
+
+The All Share Price Index went down by 45.03 points while S and P SL20 rose by 1.2 points. Turnover stood at Rs 2.2 billion with four crossings. Those crossings were reported in Sampath Bank, which crossed 11.7 million shares to the tune of Rs 912 million; its shares traded at Rs 78, Renuka Foods 8.9 million shares crossed for Rs 125 million and its shares sold at Rs 14, JKH 450,000 shares crossed for Rs 91.8 million; its shares traded at Rs 204, HNB (Non- Voting) 125,000 shares crossed to the tune of Rs 20 million; its shares traded at Rs 160.
+
+...
+
+[Data](articles/f4858be9.json)
+
+---
 
 ### Field Marshal Fonseka’s military and political experiences continue to be invaluable assets: President
 
@@ -113,6 +141,34 @@ In its 2024 Annual Report, USCIRF recommended that the US Department of State in
 [Data](articles/e1b9d90a.json)
 
 [Extended Data](ext_articles/e1b9d90a.ext.json)
+
+---
+
+### LB Finance honored with award at inaugural Digital Trust Awards Night 2024
+
+*2024-06-29 01:28:00* · [`islandlk`](http://island.lk/lb-finance-honored-with-award-at-inaugural-digital-trust-awards-night-2024/) · `en`
+
+LB Finance PLC has proudly secured the merit award at the inaugural Digital Trust Awards Night 2024, held at The Monarch Imperial in Thalawathugoda. The award was given in the “Technology Resilient Company of the Year” category, marking a significant milestone in LB Finance’s history. This recognition celebrates the company’s exceptional commitment to cybersecurity, digital innovation, and the promotion of digital trust.
+
+The Digital Trust Awards Night was organized by ISACA Sri Lanka, a local chapter of the global association of IS security and governance professionals. ISACA Sri Lanka aims to promote and elevate the visibility of the IS audit, control, and security profession throughout the area by sponsoring local educational seminars and workshops.
+
+...
+
+[Data](articles/2ffa3320.json)
+
+---
+
+### ComBank wins two Golds at IDB’s Green Industry Awards 2024
+
+*2024-06-29 01:28:00* · [`islandlk`](http://island.lk/combank-wins-two-golds-at-idbs-green-industry-awards-2024/) · `en`
+
+The Commercial Bank of Ceylon won triple honours including two Golds at the Green Industry Awards 2024 presented by the Industrial Development Board (IDB) to recognize success stories in sustainability.Sri Lanka’s first 100% carbon neutral bank, Commercial Bank was presented the Gold for ‘Low carbon and/or climate-resilient production’ for the positive impacts of the Bank’s journey to carbon-neutral status; and the Gold for ‘Green digital and information technologies’ for its success in driving the adoption of digital banking by a wide spectrum of customers, thereby enhancing financial inclusion and reducing environmental impact.
+
+Commercial Bank also won the Bronze award for ‘Inclusive business development’ in recognition of its pioneering role in Green Financing to support initiatives aimed at addressing climate change, promoting environmental sustainability, and fostering eco-friendly activities.
+
+...
+
+[Data](articles/b86b7f89.json)
 
 ---
 
@@ -2185,107 +2241,5 @@ Trump and Biden, who were each the oldest president when first elected, even acc
 [Data](articles/79ed580e.json)
 
 [Extended Data](ext_articles/79ed580e.ext.json)
-
----
-
-### Current Champion defeated England and entered the final
-
-*2024-06-28 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/187133) · `ta`
-
-India, defeating England, advanced to the T20 World Cup final where they'll face South Africa. This victory marks India's third qualification for the finals and their participation in three ICC cricket events within a year. Despite initial struggles, including a rain delay and early losses, India's batting, particularly Rohit Sharma's half-century, and bowling, led by Akshar Patel and Kuldeep Yadav, secured their place in the final.
-
-🟩
-
-India will oppose South Africa in the final of the second semi -final against England by 68 runs in the final of the current champion England on Thursday (27) at the Guyana Provisions Stadium.
-
-With this victory for the third time, the World Champion India has qualified to play in the T20 World Cup final.
-
-India also holds the distinction of being a qualified team to play in 3 types of ICC cricket within a year.
-
-In the second semi -finals, India could not observe India in all sectors. India, especially in spinning and fielding, showed an impossible talent.
-
-Also, the half -century of team captain Rohit Sharma was a hit for India's victory.
-
-In the second semi -finals, which started with the rain for about 75 minutes, India were first invited to bat first and scored 171 runs for the loss of 7 wickets in 20 overs.
-
-When India lost 2 wickets in 8 overs and scored 65 runs again, the game was suspended for another 75 minutes.
-
-...
-
-[Data](articles/92c8aa1c.json)
-
-[Extended Data](ext_articles/92c8aa1c.ext.json)
-
----
-
-### Sri Lanka calls for compensation for mercenaries killed in Russia
-
-*2024-06-28 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100156/sri-lanka-calls-for-compensation-for-mercenaries-killed-in-russia) · `en`
-
-Sri Lanka has called for payment of compensation for 17 Sri Lankans killed in action in Russia, the Embassy of Sri Lanka in Russia said on Thursday (27).
-
-The issue was a key focus during a high-level visit by a parliamentary delegation led by State Minister of Foreign Affairs Tharaka Balasuriya, who held two days of discussions with Russian officials, including Deputy Minister of Foreign Affairs Andrey Rudenko and Deputy Minister of Defence Colonel General A. V. Fomin.
-
-“The interactions centred on the 17 Sri Lankans killed in action, payment of compensation for the deceased and the wounded, the plight of the uncontactable Lankans, possibility of voluntary returns, early termination of contracts and regularisation of remuneration,” it said in a statement.
-
-...
-
-[Data](articles/287a64f9.json)
-
-[Extended Data](ext_articles/287a64f9.ext.json)
-
----
-
-### Attorney General's Department's request on the punishment of Hirunika
-
-*2024-06-28 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198249) · `si`
-
-Hirunika Premachandra was sentenced by the Colombo High Court for orchestrating the abduction and abuse of a youth. The court found her guilty on 18 charges, each attracting a fine of Rs. 20,000. If unpaid, this could lead to a six-month prison sentence. Despite being a Member of Parliament, the severity of her actions was highlighted, suggesting a potential maximum sentence of 69 years. However, the court opted for a lesser sentence, considering her political status and the appeal process ongoing.
-
-🟩
-
-The Colombo High Court sentenced Mrs. Hiwika Premachandra who was convicted of abuse of a youth who was abducted and abused a traveler in Dematagoda.
-
-Colombo High Court Judge Amal Ranaraja was published after a long trial.
-
-Accordingly, the judge ordered that the defendant Hirunika Premachandra was conquered by 18 accusations and each charge would be fined Rs. 20,000 each.
-
-If the penalties were lost, the order was stated in prison six months in prison.
-
-After the case was taken up, Justice Amal Ranraja said the Supreme Court stated that the defendant was convicted of plotting and the accusation of abduction of a youth.
-
-The deputy Solicitor General Janak Bandara appearing for the abduction of the court before the punishment, eight of the accused recalled that the Colombo High Court was sentenced to imprisonment and fines.
-
-According to the nature of the defendant, she could be sentenced to 69 years in prison with serious work.
-
-...
-
-[Data](articles/3be9cf25.json)
-
-[Extended Data](ext_articles/3be9cf25.ext.json)
-
----
-
-### New Delhi Airport roof
-
-*2024-06-28 11:30:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதுடெல்லி-விமான-நிலைய-கூரை-இடிந்ததில்-மூவர்-பலி/175-339576) · `ta`
-
-Heavy rains in New Delhi caused severe traffic congestion and damage when the New Delhi Airport's roof collapsed, trapping vehicles and injuring several people. Three fatalities occurred, and operations at Terminal 1 have been suspended pending further notice.
-
-🟩
-
-Heavy rains continue in the capital New Delhi. Thursday (27) night. There has been heavy traffic congestion throughout Delhi due to rain water stagnant. Also, people were hit hard by vehicles caught in stagnant water on the tunnels.
-
-In this context, the roof of the New Delhi Airport suddenly collapsed on the roof. The cars parked in the roof of the roof due to heavy rains were severely damaged. Firefighters rescued those who were trapped inside.. Six more were treated at the hospital.
-
-The death toll from two more deaths in New Delhi Airport has risen to 3.
-
-In the incident of the collapse of the Delhi airport roof, the Terminal 1 has been halted until the re -announcement of air traffic.
-
-◼️
-
-[Data](articles/de477398.json)
-
-[Extended Data](ext_articles/de477398.ext.json)
 
 ---

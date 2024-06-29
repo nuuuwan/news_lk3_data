@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 16:05:20**
+As of **2024-06-29 16:19:36**
 
 ## Newspaper Stats
 
-*Scraped **32,784** Articles*
+*Scraped **32,786** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,81 @@ islandlk | 1,821
 economynextcom | 1,922
 dailyftlk | 2,015
 adalk | 2,898
-adaderanalk | 3,731
+adaderanalk | 3,732
 tamilmirrorlk | 3,873
 dailymirrorlk | 4,733
 virakesarilk | 5,109
-adaderanasinhalalk | 5,400
+adaderanasinhalalk | 5,401
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,783 (100.0%) of 32,784 articles have been extended.
+32,784 (100.0%) of 32,786 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-29 (Saturday)
 
-### සංචාරකයන් ලක්ෂ 10 පනී
+### Striking uni non-academic staff to hold talks with UGC
+
+*2024-06-29 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100181/striking-uni-non-academic-staff-to-hold-talks-with-ugc) · `en`
+
+A discussion is scheduled to be held on Monday (July 01) between the University Grants Commission (UGC) and representatives of the Inter-University Trade Union Federation to address the wage issues of university non-academic staff.
+
+K.L.D.G. Richmond, the co-secretary of the Inter-University Trade Union Federation, stated yesterday (28) that the university non-academic employees have decided to continue their trade union action.
+
+“It has been 53 days since the university system has been inoperative. The government has not made any positive intervention to solve the problems so far. The trade unions met yesterday and decided to continue this trade union action. If a proper solution is not found, the trade union action will continue.”
+
+◼️
+
+[Data](articles/2e334e68.json)
+
+---
+
+### කෙන්යාවේ කෝලහාල දුටුවා ද ? - ජනපති විමසයි
+
+*2024-06-29 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198289) · `si`
+
+තමන් රට භාරගෙන ආර්ථිකය ස්ථාවර නොකළේ නම්, ශ්‍රී ලංකාව අද කෙන්යාවක් බවට පත්වී අවසන් බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+2024 ජනාධිපති පරිසර සම්මාන උළෙල සඳහා ඊයේ (28) එක්වෙමින් ජනාධිපතිවරයා මෙම අදහස් පළ කළේය.
+
+2024 ජනාධිපති පරිසර සම්මාන උළෙල කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේදී ඊයේ පැවැත්වුණි.
+
+එහිදී පරිසරය ආරක්ෂා කිරීම වෙනුවෙන් සහ දේශගුණික විපර්යාස වැළැක්වීම සඳහා ප්‍රශස්ත දායකත්වයක් දැක්වූ පිරිස වෙනුවෙන් සම්මාන ප්‍රදානය කෙරුණි.
+
+"අප්‍රිකාවේ සහ ආසියාවේ රටවල් ගණනාවක් ණය වී සිටිනවා. ඔවුන් ණය සහන ඉල්ලා තිබෙනවා. අසියාවේ ණය සහන ඉල්ලීමට මම සහාය ලබා දුන්නේ නැහැ. ලංකාවේ ණය ප්‍රශ්නය අපට විසදාගත හැකි බව මම පෙන්වා දුන්නා. නමුත් අප්‍රිකාවේ අඩු ආදායම්ලාභී රටවල ණය සහන සම්පුර්ණයෙන් අහෝසි කරන ලෙස ඉල්ලා සිටියා."
+
+"දැන් ආර්ථික පරිවර්තන නීතිය සම්මත කර ගනිමින් අප එම ගමන යා යුතුයි. ඒ වගේම මේ දිනවල කෙන්යාවේ තිබෙන කෝලහාල අප දුටුවා. රටක ආර්ථිකය සකස් කළේ නැත්නම් මතුවන තත්ත්වය මෙයයි. ලංකාවේ මෙම ආර්ථික ස්ථාවරත්වය ඇති කළේ නැත්නම් අපටත් ඒ තත්ත්වයට මුහුණ දීමට සිදු වෙනවා."
+
+◼️
+
+[Data](articles/c62348b5.json)
+
+---
+
+### 10 lakh tourists jumps
 
 *2024-06-29 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198287) · `si`
 
-2024 ආරම්භයේ සිට මේ දක්වා ශ්‍රී ලංකාවට පැමිණි විදේශීය සංචාරකයන් සංඛ්‍යාව ලක්ෂ 10  සීමාව ඉක්මවා ගොස් තිබේ.
+Sri Lanka welcomed its 1 millionth foreign tourist, Patricia Roy from Dublin, at Katunayake Airport today. The milestone marks a significant increase since the start of 2024, highlighting the country's growing popularity among international visitors.
 
-ඒ අනුව 1,000,000 වන සංචාරකයා ලෙස අයර්ලන්තයේ ඩබ්ලින් නුවර සිට පැමිණි පෝල් රෝයි නම් කෙරුණු අතර ඔහු සමග පැට්‍රීෂියා රෝයි නම් කාන්තාව ද පැමිණ තිබුණි.
+🟩
 
-ඔවුන් අද දහවල් 12.40ට එංගලන්තයේ ලන්ඩන් නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 504 දරන ගුවන් යානයෙන් කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ ඇත.
+Since its inception, the number of foreign tourists visited Sri Lanka from the beginning of 2024 to date.
 
-ඔවුන් පිළිගැනීම සඳහා කටුනායක ගුවන්තොටුපොළ පැමිණීමේ පර්යන්තයේ උත්සවයක් සංවිධානය කර තිබුණි.
+Paul Roy, who came from Dublin, was named 1,000,000, was named Patricia Roy, with him.
+
+They have been in London, England to Sri Lanka from London, England this afternoon to the Katunayake Airport.
+
+They had organized a ceremony of the Bandaranaike International Airport to receive them.
 
 ◼️
 
 [Data](articles/3f9c4019.json)
+
+[Extended Data](ext_articles/3f9c4019.ext.json)
 
 ---
 
@@ -2219,53 +2263,5 @@ The film crew has said that the film is scheduled to be released in August, whic
 [Data](articles/3ea455ba.json)
 
 [Extended Data](ext_articles/3ea455ba.ext.json)
-
----
-
-### The new song release of 'Alan' will be released
-
-*2024-06-28 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/187207) · `ta`
-
-"Alan," a song inspired by actor Alan's success story, has been released. Directed by R., it features a star-studded cast including Tafia Mathura, Lal, Vivek Prasanna, and Karunakaran. Composed by Manoj Krishna and sung by Nikita Gandhi, the song follows a Western music style and has garnered positive feedback from music enthusiasts.
-
-🟩
-
-The song 'Alan', which is played in the role of the actor's success story, has been released as a song and a song for the song 'Nation Leave Come ..'.
-
-Director r. The film 'Alan', which is being produced by Siva, starred Tafia Mathura, Lal, Vivek Prasanna, Karunakaran and many others.. Manoj Krishna has composed the film, which has been recorded by Vindan Stalin. The film was made on behalf of 3S Pictures Company. Siva has produced.
-
-The shooting of the film is complete and the post -shooting technical work is underway.. The song and the lyrical video for the song have been released as the first look and songs of the film have been released.
-
-The song is written by songwriter Karthik Netha, playback singer Nikita Gandhi and composer and singer Manoj Krishna.. The song has been well received by the music fans as the song has been formed in the Western music line.
-
-◼️
-
-[Data](articles/33c3f95f.json)
-
-[Extended Data](ext_articles/33c3f95f.ext.json)
-
----
-
-### KS Ravikumar starrer 'You Are Next'
-
-*2024-06-28 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/187205) · `ta`
-
-"KS Ravikumar stars in 'You Are Next,' a multi-lingual horror thriller set in the IT world, featuring a mix of newcomers and experienced actors like Rachita Mahalakshmi and Udaya. Directed by KS Ravikumar himself, the film promises a fresh experience beyond typical horror thrillers."
-
-🟩
-
-Director and actor gay. S.. Ravikumar's first role in the film 'Yours Next' was held in Chennai.
-
-Gay in the film 'You Are Next'. S.. Ravikumar, Rachita Mahalakshmi, Udaya, Janani, Dinesh, Divya Krishnan, Harshad, KP Y Vinod, Rafi, 'Bullet' Sami. K. G. Vasant is composing the music hood for the film, which is being recorded by Rathish.
-
-The film is being produced by Mohideen Abdul Qadar and Mani on behalf of Imack Films Pvt Limited and Sky Frames Entertainment.
-
-Commenting on the film, the director said, “The film's screenplay is set to be an incident around the youth working in the field of information technology.. The film is ready not only in Tamil but also in Telugu, Malayalam, Kannada and Hindi.. Though the horror thriller jainer has been released so far, the film will give fans a new experience. ”
-
-◼️
-
-[Data](articles/5df6f5ce.json)
-
-[Extended Data](ext_articles/5df6f5ce.ext.json)
 
 ---

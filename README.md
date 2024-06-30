@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 01:35:07**
+As of **2024-07-01 01:53:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,964 (100.0%) of 32,965 articles have been extended.
+32,965 (100.0%) of 32,965 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -192,19 +192,25 @@ However, the prices of Auto Diesel and Kerosene remains unchanged, the Ceypetco 
 
 ---
 
-### எரிபொருள் விலை; இரட்டை எண்ணில் குறைப்பு
+### Fuel price;Reduction in double number
 
 *2024-06-30 21:41:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலை-இரட்டை-எண்ணில்-குறைப்பு/175-339664) · `ta`
 
-இதற்கமைய, ஒக்டேன் 92 ரக பெற்றோல் லீற்றர் ஒன்றின் விலை 11 ரூபாவினால் குறைக்கப்படவுள்ளது. இதன்படி, ஒக்டேன் 92 ரக பெற்றோல் லீற்றர் ஒன்றின் புதிய விலை 344 ரூபாவாக நிர்ணயிக்கப்படவுள்ளது.
+Petrol prices have been reduced: Octane 92 by 11 rupees to 344, Octane 95 by 41 rupees to 379, and Super Diesel by 22 rupees to 355 rupees.
 
-ஒக்டேன் 95 ரக பெற்றோல் லீற்றர் ஒன்றின் புதிய விலை 41 ரூபாவினால் குறைக்கப்படவுள்ளது. ஒக்டேன் 95 ரக பெற்றோல் லீற்றர் ஒன்றின் புதிய விலை 379 ரூபாவாக நிர்ணயிக்கப்படவுள்ளது.
+🟩
 
-சுப்பர் டீசல் லீற்றர் ஒன்றின் விலை 22 ரூபாவினால் குறைக்கப்படவுள்ளது. சுப்பர் டீசல் லீற்றர் ஒன்றின் புதிய விலை 355 ரூபாவாக நிர்ணயிக்கப்படவுள்ளது. (a)
+Accordingly, the price of an Octane 92 petrol per liter will be reduced by 11 rupees. Accordingly, the new price of a liter of 92 petrol of Octane will be fixed at 344 rupees.
+
+The new price of a liter of Octane 95 Rupees will be reduced by 41 rupees. The new price of a liter of Octane 95 petrol is to be fixed at 379 rupees.
+
+The price of a liter of Super Diesel is to be reduced by 22 rupees. The new price of a liter of super diesel is to be fixed at 355 rupees. (A)
 
 ◼️
 
 [Data](articles/5b72b5cb.json)
+
+[Extended Data](ext_articles/5b72b5cb.ext.json)
 
 ---
 

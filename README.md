@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 15:34:59**
+As of **2024-06-30 15:53:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,432
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,894 (100.0%) of 32,895 articles have been extended.
+32,895 (100.0%) of 32,895 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -37,6 +37,10 @@ Extensions include translations and NER (Named Entity Recognition).
 *2024-06-30 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100197/two-navy-intelligence-personnel-arrested-over-drug-trafficking-links) · `en`
 
 Two Sri Lanka Navy personnel attached to the Intelligence Unit have been arrested by the SL Navy Special Investigation Unit over their alleged involvement in a large-scale drug smuggling racket.
+
+The two naval personnel from the Naval Intelligence were arrested today (30) following an extensive internal investigation by the Special Investigation Unit of the Sri Lanka Navy, a statement said.
+
+The two naval personnel, arrested on suspicion of aiding and abetting a large-scale drug smuggling racket, will be handed over to the Police Narcotic Bureau (PNB) for onward legal action, the navy said.
 
 ◼️
 
@@ -463,6 +467,8 @@ Accordingly, Senior Additional Solicitor General Parinda Ranasinghe, who is the 
 ◼️
 
 [Data](articles/961fbc39.json)
+
+[Extended Data](ext_articles/961fbc39.ext.json)
 
 ---
 

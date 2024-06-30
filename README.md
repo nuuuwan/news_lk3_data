@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 04:04:40**
+As of **2024-07-01 04:19:40**
 
 ## Newspaper Stats
 
@@ -26,101 +26,145 @@ adaderanasinhalalk | 5,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,970 (100.0%) of 32,976 articles have been extended.
+32,976 (100.0%) of 32,976 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### இந்திய கிரிக்கெட் அணியின் அடுத்த தலைவர்  ஹர்திக் பாண்டியா…?
+### Hardik Pandya's next captain of the Indian cricket team…?
 
 *2024-07-01 03:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/187347) · `ta`
 
-ஐ.பி.எல் போட்டிகளில் மும்பை இந்தியன்ஸ் அணி தோற்க அதன்  புதிய தலைவர்  ஹர்திக் பாண்டியாவே காரணம் என இரசிகர்கள் சமூக ஊடகங்களில் அவரை வறுத்தெடுத்து விட்டனர். ஆனால் இடம்பெற்று முடிந்த இருபதுக்கு இருபது உலகக்கிண்ணத் தொடரில் முக்கியமான போட்டிகளில் அவரின் சிறப்பான துடுப்பாட்டம் பந்து வீச்சே  இந்திய அணி கிண்ணத்தை வெல்லக் காரணம் என இப்போது அவரை புகழ்ந்து பதிவுகள் வந்து கொண்டிருக்கின்றன.
+Despite initial criticism and social media roasts for leading Mumbai Indians to defeat themselves in the IPL, Hardik Pandya's exceptional performance in the T20 World Cup, including crucial contributions in both batting and bowling, has positioned him as a strong candidate for India's cricket captaincy. With senior players Rohit Sharma and Virat Kohli retiring from international T20s, Pandya's emergence offers a fresh perspective and potential leadership for the team. His strategic decisions, such as bowling the final over effectively in key matches, have showcased his capabilities beyond just being a player. Despite the challenges and criticism, Pandya remains focused on proving himself through his actions, indicating a promising future as India's cricket captain.
 
-ஐ.பி.எல் தொடரில் மும்பை இந்தியன்ஸ் அணியின் வெற்றிகரமான தலைவராக இருந்தவர் ரோஹித் சர்மா. பத்து ஆண்டுகள் மும்பை இந்தியன்ஸ் அணியின் தலைவராக இருந்தது மட்டுமல்லாது ஐந்து தடவைகள் வெற்றிக்கிண்ணத்தை பெற்றுக்கொடுத்தவர் அவர். ஆனால் 2024 ஆம் ஆண்டு பருவகாலத்தில் அணி நிர்வாகம் என்ன நினைத்ததோ பதவியை ஹர்திக் பாண்டியாவிடம் தூக்கி கொடுத்து விட்டது.
+🟩
+
+Fans have roasted him on social media that Mumbai Indians defeat Mumbai Indians in the IPL.. But in the second twenty -twenty -two World Series, his best batting bowling is now the reason for the Indian team to win the bowl.
+
+Rohit Sharma was the successful captain of the Mumbai Indians in the IPL series. He was the captain of the Mumbai Indians for ten years but also the winner of five times. But in the 2024 season, the team's administration lifted the post to Hardik Pandya.
+
+Mumbai Indians have not been able to achieve significant victories this time due to Pandya's indifferent body. Rohit Sharma's fans have roasted Pandya. Pandya insults Rohit at the stadium. Although Rohit Sharma was appointed as the Indian captain of the Twenty20 World Cup, Pandya's feature in the squad has caused severe criticism.. However, Pandya has responded to the criticism of her.
 
 ...
 
 [Data](articles/907bc277.json)
 
+[Extended Data](ext_articles/907bc277.ext.json)
+
 ---
 
-### தொழிலாளர்களுக்கு காணி உரிமை: தடையாக இருப்பது யார்?
+### Land Right to Workers: Who is the obstacle?
 
 *2024-07-01 03:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187346) · `ta`
 
-தொழிலாளர்களுக்கு காணி உரிமையை வழங்குவதற்கு அரசியல்ரீதியான அழுத்தங்களும் இல்லாமலில்லை. பிரதமர் தினேஷ் குணவர்தனவிற்கு பொதுஜன பெரமுன உட்பட வேறு கட்சிகளும் இதை செயற்படுத்த வேண்டாமென அழுத்தங்கள் வழங்குவதாக தகவல்கள் தெரிவிக்கின்றன. இலங்கை தொழிலாளர் காங்கிரஸ் மகிந்த ராஜபக்சவுடனான கூட்டணியை முறித்து கொண்டமை இதற்கு ஒரு காரணமாக இருக்கலாம்.
+The obstacle to granting land rights to workers includes internal government delays, opposition from companies owning plantation lands, and lack of political pressure. Despite Cabinet approval, policy preparation and company consent delay implementation. Political alliances and promises unfulfilled contribute to the complexity.
 
-அரசாங்கத்தினால் முன்னெடுக்கப்பட்டு வரும் ‘உறுமய’ நிரந்தர காணி உரித்து வழங்கும் திட்டம் நாடெங்கினும் வெற்றிகரமாக செயற்படுத்தப்பட்டு வருகின்றது. ஜனாதிபதி ரணில் விக்ரமசிங்க நாடெங்கினும் சென்று காணி உரித்துகளை இத்திட்டத்தின் கீழ் உள்வாங்கப்பட்ட மக்களிடம் வழங்கி வருகின்றார். ஆனால் அவரது தலைமைத்துவத்தின் கீழ்  அமைச்சரவையில் மூன்று அமைச்சர்களால் சமர்ப்பிக்கப்பட்ட தோட்டத் தொழிலாளர்களுக்கு காணி உரிமை வழங்கும் அமைச்சரவைப் பத்திரத்துக்கு அனுமதி கிடைத்தும் அத்திட்டம் இன்னும் இழுபறியாகவே உள்ளது.
+🟩
+
+There are no political pressures to grant land rights to workers. Reports suggest that other parties, including the PA, should not implement this to Prime Minister Dinesh Gunawardena.. This is one of the reasons why the Ceylon Workers Congress broke the alliance with Mahinda Rajapaksa.
+
+The government is being successfully implemented by the government's permanent land providing scheme.. President Ranil Wickremesinghe goes to the country and gives land to the people who have been enrolled under the scheme.. But under his leadership, the plantation workers submitted by three ministers in the Cabinet are allowed to grant land rights.
+
+Despite the approval of the Cabinet, the plan to provide land rights to the plantation people is not immediately implemented because it takes time to prepare a policy plan document.. Although the document is currently being prepared, the companies and some political parties have expressed their opposition to the project.
 
 ...
 
 [Data](articles/0c34ff14.json)
 
+[Extended Data](ext_articles/0c34ff14.ext.json)
+
 ---
 
-### காதலிக்கு பயம் காட்ட கழுத்தில் கயிற்றை மாட்டிய இளைஞன் கயிறு இறுகி மரணம்: வவுனியாவில் துயரம்
+### Young man stuck in the neck to show fear of girlfriend
 
 *2024-07-01 03:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/187345) · `ta`
 
-வவுனியா, நந்திமித்திரகம பகுதியில் வசிக்கும் இளைஞர் ஒருவர் காதலிக்குப் பயம் காட்டக் கழுத்தில் கயிற்றை மாட்டிய நிலையில் அது இறுகியதால் மரணமடைந்துள்ளதாக பொலிசார் தெரிவித்தனர்.கடந்த இரு தினங்களுக்கு முன் வவுனியா போகஸ்வேவ பகுதியைச் சேர்ந்த 17 வயது இளைஞன் ஒருவரைக் காணவில்லை என மாமடுப் பொலிசில் முறைப்பாடு செய்யப்பட்டிருந்தது.இந்நிலையில் குறித்த இளைஞன் ஞாயி்ற்றுக்கிழமை (30) தூக்கிட்டு மரணித்த நிலையில் நந்திமித்திரகம பகுதியில் கண்டு பிடிக்கப்பட்டார். தனது 15 வயது காதலியை மிரட்டுவதற்காகக் கழுத்தில் கயிற்றை மாட்டிய நிலையில் குறித்த கயிறு இறுகி மரணித்துள்ளதாக பொலிசாரின் ஆரம்ப கட்ட விசாரணைகளில் தெரிய வந்துள்ளது.வவுனியா வைத்தியசாலைக்கு கொண்டு வரப்பட்ட இளைஞனின் சடலம் உடற்கூற்று பரிசோதனையின் பின் உறவினர்களிடம் கையளிக்கப்பட்டுள்ளது. இது தொடர்பாக மாமடுவ பொலிசார் மேலதிக விசாரணைகளை முன்னெடுத்துள்ளனர்.
+In Vavuniya, a 17-year-old boy went missing and was later found dead with a rope around his neck, allegedly as a threat to his 15-year-old girlfriend. Police are investigating.
+
+🟩
+
+A young man living in Nandimitrakama area in Vavuniya, a young man, said that a 17 -year -old youth from the Bogaswewa area of ​​Vavuniya was missing two days ago.Was found in the area. Initial investigations by the police have revealed that the rope has died after being stuck in the neck to intimidate his 15 -year -old girlfriend.. Mamaduwa police are conducting further investigations.
 
 ◼️
 
 [Data](articles/369b7973.json)
 
+[Extended Data](ext_articles/369b7973.ext.json)
+
 ---
 
-### வவுனியா வைத்தியசாலையிலிருந்து தப்பிச் சென்றவர் வீதியில் சடலமாக மீட்பு
+### Recovery from Vavuniya Hospital
 
 *2024-07-01 03:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/187344) · `ta`
 
-வவுனியா வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்ட நிலையில் அங்கிருந்து தப்பிச் சென்றவர் வீதியில் சடலமாக மீட்கப்பட்டுள்ளதாக வவுனியா பொலிசார் தெரிவித்தனர்.
+A man from Achipuram, admitted to Vavuniya Hospital, disappeared but was later found dead near Ranimil Road junction. Police suspect foul play due to the circumstances surrounding his death and are conducting further investigations.
 
-வவுனியா, கோவில்புதுக்குளம், ராணிமில் வீதி சந்திப் பகுதியில் சனிக்கிழமை (29) குறித்த சடலம் மீட்கப்பட்டதாக பொலிசார் தெரிவித்தனர்.
+🟩
 
-வவுனியா வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டிருந்த வவுனியா, ஆச்சிபுரம் பகுதியைச் சேர்ந்த லியோசியஸ் டெல்சன் என்பவர் வைத்தியசாலையில் ஊசி போடுவதற்கு பயந்து வைத்தியசாலையிலிருந்து விடுகை பெறாது இரவு தப்பி வீடு நோக்கிச் சென்றுள்ளார்.
+Vavuniya police said that the man who fled the road has been recovered on the road after being admitted to the Vavuniya Hospital for treatment.
 
-இந்நிலையில் வவுனியா, கோவில்புதுக்குளம், ராணிமில் சந்தியில் மரணமடைந்த நிலையில் சடலம் இருப்பதாக பொலிசாருக்கு கிடைத்த தகவலையடுத்து அங்கு செவன்ற பொலிசார் அச் சடலத்தை மீட்டனர். வைத்தியசாலையிலிருந்து தப்பிச் சென்றவரே சடலமாக மீட்கப்பட்டுள்ளதாக பொலிசார் தெரிவித்தர்.
+The body was recovered on Saturday (29) at Ranimil Road junction in Vavuniya, Kovilputhukulam, police said.
 
-...
+Leosius Teleson, a resident of Achipuram, who was admitted to the Vavuniya Hospital for treatment, has left the hospital for fear of injecting at the hospital.
+
+In this case, the body of the police recovered the body after the body was found dead at Ranimil junction in Vavuniya.. Police said the body was recovered from the hospital.
+
+Investigations by the police revealed that the accident had taken the accident and caused the accident.. The Vavuniya police and the traffic police are continuing further investigations.
+
+◼️
 
 [Data](articles/484892d2.json)
 
+[Extended Data](ext_articles/484892d2.ext.json)
+
 ---
 
-### புதையல் தோண்டுவதற்கு முற்பட்ட பூசாரி உட்பட 5 பேர் கைது!
+### Five arrested, including a priest who tried to dig a treasure
 
 *2024-07-01 03:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/187343) · `ta`
 
-ஓமந்தை, விளாத்திக்குளம் பகுதியில் வைத்து பூசாரி உட்பட 5 பேர் கைது செய்யப்பட்டுள்ளதாக ஓமந்தைப் பொலிசார் ஞாயிற்றுக்கிழமை (30) தெரிவித்தனர்.
+In Omanthai, Oman, five individuals, including a priest, were arrested for trying to dig for treasure during a surveillance operation based on tip-offs. The group, comprising locals from Kandy, Tawasikulam, and Omanthai, faces charges and will be presented in court for further investigation.
 
-வவுனியா, ஓமந்தைப் பொலிசாருக்கு கிடைத்த விசேட தகவலையடுத்து விளாத்திக்குளம் பகுதியில் இரவு விசேட கண்காணிப்பு நடவடிகையில் ஈடுபட்ட போது புதையல் தோண்டுவதற்கு முற்பட்ட 5 பேர் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-கண்டி பகுதியிலிருந்து வருகை தந்த பூசாரி மற்றும் வவுனியாவின் தவசிகுளம், ஓமந்தை ஆகிய பகுதிகளைச் சேர்ந்த நால்வருமாக 5 பேர் கைது செய்யப்பட்டுள்ளனர். மேலதிக விசாரணைகளின் பின் குறித்த 5 பேரையும் வவுனியா நீதிமன்றில் முற்படுத்த நடவடிக்கை எடுத்துள்ளதாகவும் பொலிசார் மேலும் தெரிவித்தனர்.
+Five persons, including a priest, have been arrested in the Valathikulam area of ​​Omanthai, Omanthai police said on Sunday (30).
+
+Five persons have been arrested for attempting to excavate the treasure when they were engaged in a special surveillance process in Valathikkulam area on special information received by the Omanthai police in Vavuniya.
+
+Five persons from the Kandy area and four persons from the Tawasikulam and Omanthai areas of Vavuniya have been arrested.. Five persons have been taken to appear in the Vavuniya Court after further investigations, police said.
 
 ◼️
 
 [Data](articles/0eaf2d68.json)
 
+[Extended Data](ext_articles/0eaf2d68.ext.json)
+
 ---
 
-### சர்வதேச நீதி கோரி வவுனியாவில் காணாமல் ஆக்கப்பட்டோரின் உறவுகள் ஆர்ப்பாட்டம்
+### Missing Relations Demonstration in Vavuniya seeking international justice
 
 *2024-07-01 03:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/187342) · `ta`
 
-காணாமல் ஆக்கப்பட்டவர்களுக்குச் சர்வதேச நீதி கோரி வவுனியாவில் கவனயீர்ப்பு போராட்டம் ஒன்று முன்னெடுக்கப்பட்டது.
+In Vavuniya, a protest march demanded international justice for the missing. Carrying signs, participants voiced against compensation and criticized government efforts to undermine their struggle through aid. Led by the Vavuniya District Missing Association, the call for justice resonates strongly amidst allegations of secret installations and attempts to pacify the community.
 
-வவுனியா மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்டோரின் சங்கத்தால் பழைய பேருந்து நிலையம் முன்பாக 30ஆம் திகதி செவ்வாய்க்கிழமை குறித்த கவனயீர்ப்பு போராட்டம் இடம்பெற்றது.
+🟩
 
-ஆர்ப்பாட்டத்தில் ஈடுபட்டோர் ''எமக்குச் சர்வதேச நீதியே வேண்டும், எங்கே எங்கே பிள்ளைகள் எங்கே,  அலுவலகம் எமக்கு வேண்டாம், கையில் கொடுத்த பிள்ளைகளுக்கு மரண சான்றிதழ் எதற்கு, நாம் இழப்பீட்டைக் கோரவில்லை, கையில் தந்த எமது சிறுவர்கள் எங்கே'' என எழுதப்பட்ட பதாதைகளை ஏந்தியிருந்ததுடன் கோசங்களையும் எழுப்பியிருந்தனர்.
+A protest march was launched in Vavuniya seeking international justice for the missing.
 
-இதன்போது கருத்து தெரிவித்த வவுனியா மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்டோர் சங்கத் தலைவி ஜெனீற்றா,
+A protest march was held in front of the old bus station on Tuesday, 30th of the Vavuniya District.
 
-...
+The protesters were carrying the posts, carrying the words, "where we need international justice, where the children do not want the office, what is the death certificate for the children who gave us the death certificate, we did not seek compensation.
+
+Commenting on this, Vavuniya District Missing Association President Geneita
+
+What happened to our children. We want international justice. Although the office said we don't need it, they secretly installed it in our areas. The current President Ranil has carried out the work of the Grama Niladhari Media Office. They seek to blunt our struggle by providing livelihood assistance. The relationships of the missing in this regard should be alerted. We need justice. We will fight for justice for the life.
+
+◼️
 
 [Data](articles/b90c4901.json)
+
+[Extended Data](ext_articles/b90c4901.ext.json)
 
 ---
 

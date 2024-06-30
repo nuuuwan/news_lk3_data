@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 23:35:06**
+As of **2024-06-30 23:54:30**
 
 ## Newspaper Stats
 
-*Scraped **32,955** Articles*
+*Scraped **32,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 301
 bbccomsinhala | 321
 newsfirstlk | 363
 islandlk | 1,834
-economynextcom | 1,926
+economynextcom | 1,929
 dailyftlk | 2,015
 adalk | 2,930
 adaderanalk | 3,758
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,955 (100.0%) of 32,955 articles have been extended.
+32,955 (100.0%) of 32,958 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -75,6 +75,24 @@ The fishermen have been drinking as a liquid in a bottle of a bottle floating in
 [Data](articles/22d78dec.json)
 
 [Extended Data](ext_articles/22d78dec.ext.json)
+
+---
+
+### Sri Lanka Presidential election date can be told after July 17: Commissioner Gen
+
+*2024-06-30 22:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-election-date-can-be-told-after-july-17-commissioner-gen-170284/) · `en`
+
+ECONOMYNEXT  – Sri Lanka’s Elections Commission will get powers under the Constitution to set a date for the next Presidential elections from July 17 onwards, Commissioner General Saman Sri Ratnayake has said.
+
+“According to the Constitution and the law, the Presidential Elections has be held in between one month before November 18 and two months after,” Ratnayake told reporters.
+
+“So if we work backwards, most likely about July 17 – that is the closest date – the Commission gets the power to make the announcement.”
+
+He said the electors list is now being finalized. (Colombo/June30/2024)
+
+◼️
+
+[Data](articles/56921db6.json)
 
 ---
 
@@ -1104,6 +1122,32 @@ The two naval personnel, arrested on suspicion of aiding and abetting a large-sc
 
 ---
 
+### Sri Lanka coconut auction prices rise 10-pct over June
+
+*2024-06-30 14:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-rise-10-pct-over-june-170254/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s average coconut prices went up to 83,443 from 81,228 for 1,000 nuts at an auction on June 27, data from the Coconut Development Authority shows.
+
+Coconut auction prices rose 10 percent over June and are up 32 percent from the lows of 62,900 seen at the beginning of June.
+
+Coconut auction are near the historic highs seen in the first quarter of 2023.
+
+The highest price was 95,000 for 1000 nuts at the June 27 auction, up from 86,200 while the lowest was 77,000 up from 66,000 for 1000 nuts.
+
+A total of 337,179 coconuts were offered at the auction and 324,726 were sold.
+
+Wholesale prices were 95 to 110 rupees for large nuts and 85 to 90 rupees for small nuts in the week to June 20.
+
+Farmgate prices in Kurunegala were 75,000 – 80,000 per 1,000 nuts.
+
+Coconut shells were 30,000 – 31,000 rupees per metric ton. (Colombo/June30/2024)
+
+◼️
+
+[Data](articles/a37e41c6.json)
+
+---
+
 ### Operational operation of Bureane in Ratmalana
 
 *2024-06-30 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198323) · `si`
@@ -2086,6 +2130,24 @@ Giving policy support and denying monetary stability has become mainstream in th
 
 ---
 
+### Sri Lanka budget deficit implodes 56-pct to April 2024, interest bill eases
+
+*2024-06-30 09:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-implodes-56-pct-to-april-2024-interest-bill-eases-170246/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s budget deficit has collapsed to 361 billion rupees up to April 2024 from 824.2 helped by higher tax revenues and a falling interest bill, official data show.
+
+Revenues surged 48 percent to 1,216 billion rupees to April 2024, ahead of the 35 percent annual growth projected in a budget, with higher value added and income tax rates as well as economic activity recovering close to previous levels.
+
+Sri Lanka is emerging from the worst case of ‘policy support’ deployed by macroeconomists since the central bank was set up in 1950 where the usual inflationary rate cuts which trigger currency crises and IMF programs, was also backed up tax cuts.
+
+Giving policy support and denying monetary stability has become mainstream in the age of inflation and ‘age of external defaults without a war’ due to so-called Saltwater-Cambridge doctrine, critics say.
+
+...
+
+[Data](articles/b06e40f9.json)
+
+---
+
 ### Suicide attacks on the place in Nigeria
 
 *2024-06-30 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198313) · `si`
@@ -2299,77 +2361,5 @@ The deceased has been identified as a 56 year old resident of Ramboda, Ramboda.
 [Data](articles/9f049829.json)
 
 [Extended Data](ext_articles/9f049829.ext.json)
-
----
-
-### Four fishermen die after drinking from bottle found in sea; 2 survivors taken aboard merchant vessel
-
-*2024-06-30 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100190/four-fishermen-die-after-drinking-from-bottle-found-in-sea-2-survivors-taken-aboard-merchant-vessel) · `en`
-
-The death toll following the incident where the crew of a fishing vessel had consumed the contents of a bottle they found floating in the sea, assuming it was liquor, has now increased to four while two others are in critical condition, according to the Sri Lanka Navy.
-
-Meanwhile, the two fishermen who are critically ill have been taken aboard a Singaporean merchant vessel and emergency treatment is being provided, the navy spokesman said.
-
-The Singaporean vessel is expected to transfer the two fishermen to SLNS Vijayabahu at sea, he said.
-
-The Director General of the Department of Fisheries & Aquatic Resources, Susantha Kahawatta, stated yesterday that the crew of the fishing boat named “Devon 5,” which had set out to sea from the Tangalle fisheries harbor, have faced this predicament after they had found several bottles containing an unknown liquid floating in the sea and consumed some of it assuming that it was alcohol.
-
-...
-
-[Data](articles/c08a344b.json)
-
-[Extended Data](ext_articles/c08a344b.ext.json)
-
----
-
-### Bureane in Ratmalana falls in five days
-
-*2024-06-30 08:55:07* · [`adalk`](https://www.ada.lk/breaking_news/රත්මලානේ-බුරියා-දින-පහකින්-කොටුවෙයි/11-410507) · `si`
-
-A working officer's family in Ratmalana was targeted by burglars who broke into their two-story house and stole valuables worth £11.5. The thieves entered through the front door while the eldest son slept and his father was away. Surveillance footage helped identify and arrest one suspect, who also led police to recover a stolen gold ring from a private mortgage center in Ratmalana. Further investigation uncovered more stolen items hidden in the suspect's house.
-
-🟩
-
-The Mount Lavinia Police say that a two-storied householder of a working officer in an e-school officer Ratmalana has been arrested within a five-day gold lane.
-
-The suspects were tabled in £ 11 - 1/2 of the heights with £ 11 - 1/2 of the property.
-
-The eldest son was sleeping at home and left the house in front of the house, when her husband had left for the job.Police investigations have revealed that he had left the front door and opened the front door and stole the Ranabadanda stock in the cupboard.
-
-The suspect was identified and arrested after the suspect was founded in a CCTV camera installed in front of the house.
-
-Previously questioned by the suspect in the suspect in the suspect, a stolen gold ring has been found in the Ratmalana area at a private mortgage center in Ratmalana.
-
-The rest of the other goods were found on the suspect's statements while hidden in the suspect's house. The 50 year old suspect is to be produced before the Mt.
-
-◼️
-
-[Data](articles/24e9a414.json)
-
-[Extended Data](ext_articles/24e9a414.ext.json)
-
----
-
-### Singapore ark to rescue two sick fishermen
-
-*2024-06-30 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198311) · `si`
-
-A critical situation unfolded when two senior fishermen aboard a Sinhalese Fisheries vessel near Sri Lanka fell ill after consuming a poisonous substance. A Singapore-flagged MV vessel rescued them, and the Sri Lanka Navy's Vijayabahu is en route to provide further assistance. Unfortunately, four other fishermen have passed away. The Department of Fisheries and the Fisheries and Aquatic Resources alerted the Maritime Safety and Rescue Coordinating Center, leading to swift action from the Colombo Marine Search and Rescue Coordinating Center.
-
-🟩
-
-Two senior fishermen who were in critical pagan vessel, which was sailing under the Sinhalese Fisheries of the Sri Lanka Air Headquarters, has been rescued by a traded vessel, which was sailing under the 'MV'.
-
-The Vijayabahu, Sri Lanka Navy, who left the fishermen of the multi-day fishing operation, is now approaching the sea area.
-
-The fishermen on a multi-day fishing vessel carrying six fishermen from the Tangalle Fisheries Harbor have drank a liquid in the area floating and poisoned and critical.
-
-Four fishermen have died in the south of the Deep Sea, which is about 365 nautical miles (about 675 km), to assist in carrying out medical assistance to landThe Department of Fisheries and the Fisheries and Aquatic Resources was reported at the Maritime Sweet and Rescue Coordinating Center at the Naval Headquarters yesterday.
-
-...
-
-[Data](articles/3565b6a5.json)
-
-[Extended Data](ext_articles/3565b6a5.ext.json)
 
 ---

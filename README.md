@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 15:53:15**
+As of **2024-06-30 16:05:08**
 
 ## Newspaper Stats
 
-*Scraped **32,895** Articles*
+*Scraped **32,897** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adaderanalk | 3,750
 tamilmirrorlk | 3,890
 dailymirrorlk | 4,733
 virakesarilk | 5,110
-adaderanasinhalalk | 5,432
+adaderanasinhalalk | 5,434
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,895 (100.0%) of 32,895 articles have been extended.
+32,895 (100.0%) of 32,897 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
+
+### සොරකම් කළ යතුරුපැදියෙන් ගොස් මාල කැඩූ දෙදෙනා
+
+*2024-06-30 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198325) · `si`
+
+තරුණ රාජ්‍ය නිලධාරියෙක් ට අයත් රුපියල් ලක්ෂ 4ක් වටිනා යතුරුපැදියක් සොරකම් කර එම යතුරුපැදියෙන් ගොස් රන් මාල කැඩූ සැකකරුවන් දෙදෙනෙක්ව අත්අඩංගුවට ගෙන තිබේ.
+
+එම සැකකරුවන් සමෘද්ධි සංවර්ධන නිලධාරිනියකගේ රුපියල් ලක්ෂ 2ක් පමණ වටිනා රන් මාලයක් සහ පෙන්ඩනයක් කොල්ල කා තිබුණි.
+
+ඔවුන් දෙදෙනාව ජූලි 08 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට ගාල්ල අතිරේක මහෙස්ත්‍රාත් කේ. පී. ආර්. එල්. විදානගමගේ මහත්මිය ඊයේ (29) නියෝග කළාය.
+
+සැකකරුවන් විසින් සිදුකරන ලද තවත් අපරාධ තිබේද යන්න සම්බන්ධයෙන් විමර්ශනය කර එහි ප්‍රගතිය මීළඟ නඩු දිනයේදී අධිකරණයට ඉදිරිපත් කරන ලෙසද මහෙස්ත්‍රාත්තුමිය පොලීසියට දැනුම් දුන්නාය.
+
+◼️
+
+[Data](articles/9d9f71f9.json)
+
+---
+
+### නාවික හමුදාවේ දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-06-30 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198324) · `si`
+
+මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරමකට ආධාර සහ අනුබල දුන් බවට සැකකෙරෙන නාවික හමුදා නිලධාරීන් දෙදෙනෙක්ව අද (30) නාවික හමුදා විශේෂ විමර්ශන ඒකකය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ශ්‍රී ලංකා නාවික හමුදා විශේෂ විමර්ශන ඒකකය මගින් සිදුකළ දීර්ඝ අභ්‍යන්තර පරීෂණයකින් අනතුරුව මෙම අත්අඩංගුවට ගැනීම සිදුකළ බව නාවික හමුදාව පවසයි.
+
+මෙම නිලධාරීන් දෙදෙනා නාවික හමුදා බුද්ධි අංශයට අනුයුක්තව සේවය කළ දෙදෙනෙකි.
+
+සැකකරුවන් ඉදිරි නීතිමය කටයුතු සඳහා පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශය වෙත භාරදීමට නියමිතය.
+
+◼️
+
+[Data](articles/3e038967.json)
+
+---
 
 ### Two navy intelligence personnel arrested over drug trafficking links
 
@@ -374,7 +410,7 @@ Director General of the Fisheries Department Susantha Kahawatta said that one of
 
 ---
 
-### 18 killed, 42 injured in series of suicide attacks In Nigeria
+### 18 killed, 42 injured in series of suicide attacks in Nigeria
 
 *2024-06-30 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100194/18-killed-42-injured-in-series-of-suicide-attacks-in-nigeria) · `en`
 
@@ -2325,51 +2361,5 @@ Among the six fishermen were killed by the six fishermen who left the Tangalle F
 [Data](articles/ff40a4eb.json)
 
 [Extended Data](ext_articles/ff40a4eb.ext.json)
-
----
-
-### India responds to the incident of 10 fishermen
-
-*2024-06-29 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198290) · `si`
-
-India has responded to the detention of 10 Indian fishermen accused of killing a Sri Lankan Navy officer. The Ministry of External Affairs emphasized India's priority to secure the release of its fishermen. Discussions are underway with Sri Lankan authorities regarding the incident.
-
-🟩
-
-India has responded with the 10 Indian fishermen who have been accused of the death of the death of a Navy officer in Sri Lanka.
-
-Speaking of the Ministry of External Affairs, Ranseen Jaywal said that India always prioritizes the fishermen and to get back to their country.
-
-According to the media reports, Indian fishermen have been accused of the death of 10 Indian fishermen who were arrested on June 24 on the arrest of 10 Indian fishermen.
-
-The Indian Foreign Ministry is aware of this situation.
-
-It has also been said that the problem with the Sri Lankan authorities is discussing.
-
-The Indian fishing vessel was killed due to the handling of Indian fishing vessel as the Indian fishing vessel was managed by the Navy's fishing vessel in the sea.
-
-◼️
-
-[Data](articles/e5af528f.json)
-
-[Extended Data](ext_articles/e5af528f.ext.json)
-
----
-
-### Striking uni non-academic staff to hold talks with UGC
-
-*2024-06-29 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100181/striking-uni-non-academic-staff-to-hold-talks-with-ugc) · `en`
-
-A discussion is scheduled to be held on Monday (July 01) between the University Grants Commission (UGC) and representatives of the Inter-University Trade Union Federation to address the wage issues of university non-academic staff.
-
-K.L.D.G. Richmond, the co-secretary of the Inter-University Trade Union Federation, stated yesterday (28) that the university non-academic employees have decided to continue their trade union action.
-
-“It has been 53 days since the university system has been inoperative. The government has not made any positive intervention to solve the problems so far. The trade unions met yesterday and decided to continue this trade union action. If a proper solution is not found, the trade union action will continue.”
-
-◼️
-
-[Data](articles/2e334e68.json)
-
-[Extended Data](ext_articles/2e334e68.ext.json)
 
 ---

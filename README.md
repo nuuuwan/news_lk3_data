@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 18:53:27**
+As of **2024-06-30 19:04:34**
 
 ## Newspaper Stats
 
-*Scraped **32,928** Articles*
+*Scraped **32,934** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,60 @@ adalk | 2,924
 adaderanalk | 3,754
 tamilmirrorlk | 3,892
 dailymirrorlk | 4,733
-virakesarilk | 5,124
+virakesarilk | 5,130
 adaderanasinhalalk | 5,441
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,926 (100.0%) of 32,928 articles have been extended.
+32,928 (100.0%) of 32,934 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
 
-### එංගලන්ත ටෙස්ට් කණ්ඩායම ට අලුත් දෙන්නෙක්
+### New two persons to England Test team
 
 *2024-06-30 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198332) · `si`
 
-සංචාරක බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සමග පැවැත්වෙන ටෙස්ට් ක්‍රිකට් තරගාවලිය සඳහා ක්‍රීඩකයින් 14 දෙනෙකුගෙන් සමන්විත එංගලන්ත සංචිතය නම්කර තිබේ.
+Jamie Smith and Dylan Burton join England's Test squad against the West Indies, replacing Ben Fox and Johnny Beaston. The series starts at Lord's on July 10.
 
-මෙම සංචිතය සඳහා නවක ක්‍රීඩකයින් දෙදෙනෙක් කැඳවා තිබේ. ඒ කඩුලු රකින ක්‍රීඩක ජැමී ස්මිත් සහ වේගපන්දු යවන ක්‍රීඩක ඩිලෝන් පෙනින්ග්ටන් ය.
+🟩
 
-එංගලන්ත කණ්ඩායමේ කඩුලු රකින ක්‍රීඩකයින් ලෙස සිටි බෙන් ෆොක්ස් සහ ජොනී බෙයාස්ටෝ මෙම සංචිතය සඳහා නම්කර නොමැත.
+The English squad of the 14 players have been named for the Test series with the West Indies team with the West Indies.
 
-එංගලන්ත සංචිතය මෙසේය - බෙන් ස්ටොක්ස් (නායක), ජේම්ස් ඇන්ඩර්සන්, ගස් ඇට්කින්සන්, ෂොයිබ් බෂීර්, හැරී බ්රූක්, සැක් ක්‍රෝලි, බෙන් ඩකට්, ඩෑන් ලෝරන්ස්, ඩිලෝන් පෙනින්ග්ටන්, ඔලී පෝප්, මැතිව් පෝට්ස්, ජෝ රූට්, ජැමී ස්මිත්, සහ ක්‍රිස් වෝක්ස්
+Two new players have been called for this squad. It was a wicket-raised Jamie Smith and Fast Bowel Dylangton.
 
-සංචාරක බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සහ එංගලන්තය අතර ජුලි 10 වනදා ලෝඩ්ස් පිටියේ ඇරඹෙන පළමු ටෙස්ට් තරගය ජේම්ස් ඇන්ඩර්සන් ගේ සමුගැනීමේ ටෙස්ට් තරගය වෙයි.
+Ben Fox and Johnny Beasto, who was players in England's team, has not been named for the squad.
+
+The English squad is:
+
+West Indies team and England will be the first Test match that begins on the Lord's Led page on July 10.
 
 ◼️
 
 [Data](articles/05d32986.json)
+
+[Extended Data](ext_articles/05d32986.ext.json)
+
+---
+
+### “உறுமய” வேலைத்திட்டத்தின் கீழ் மொனராகலை மாவட்ட மக்களுக்காக 41,960 காணி உறுதிப் பத்திரங்கள் -ஜனாதிபதி
+
+*2024-06-30 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/187335) · `ta`
+
+முழு உரிமையுள்ள காணி உறுதிப் பத்திரங்கள் வழங்கும் ‘உறுமய’ வேலைத் திட்டத்தின் கீழ் மொனராகலை மாவட்டத்தில் அதிகளவு உறுதிகளை வழங்கும் பிரதேச செயலகத்தில் குளங்களைப் புனரமைப்பதற்கு 25 மில்லியன் ரூபா வழங்கப்படுமென ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+இந்த இரண்டு வேலைத்திட்டங்களினாலும் இந்நாட்டின் விவசாயிகள் வெற்றி பெறுவார்கள் எனத் தெரிவித்த ஜனாதிபதி, விவசாயிகளை முன்னேற்றுவதன் மூலம் நாட்டை அபிவிருத்தியை நோக்கிக்கொண்டு செல்வதே இதன் நோக்கமாகும் எனவும் தெரிவித்தார்.
+
+20 இலட்சம் காணி உறுதிகளை வழங்கும் ‘உறுமய’ தேசிய வேலைத்திட்டத்தின் கீழ், மொனராகலை மாவட்டத்தின் 11 பிரதேச செயலகப் பிரிவுகளில் தகுதியான 41,960 பயனாளிகளில், அடையாள ரீதியில்  600 பேருக்கு உறுதிப் பத்திரங்கள் வழங்கும் நிகழ்வு இன்று (30) முற்பகல் வெல்லவாயவில் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் நடைபெற்றது.
+
+தொடர்ந்தும் இங்கு உரையாற்றிய ஜனாதிபதி, கண்டி இராச்சியத்திற்கு அரிசி வழங்கிய வெல்லஸ்ஸ 1818 ஆம் ஆண்டு போரின் பின்னர் அழிக்கப்பட்டதாக குறிப்பிட்டார்.
+
+...
+
+[Data](articles/6ca44b37.json)
 
 ---
 
@@ -69,6 +93,68 @@ But rising temperatures are leading to more frequent and intense droughts, natur
 ◼️
 
 [Data](articles/c3d100a8.json)
+
+[Extended Data](ext_articles/c3d100a8.ext.json)
+
+---
+
+### வடக்கு, கிழக்கு எழுச்சி : ஒரு பார்வை
+
+*2024-06-30 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187331) · `ta`
+
+இலங்கையின் வடக்கு, கிழக்கின் வளர்ச்சி பலருக்கு புதிய வாய்ப்புகளை வழங்குகின்றது. மக்கள், வியாபாரிகள், பெற்றோர்கள், மாணவர்கள் மற்றும் வெளிநாட்டில் இருந்து வரும் இலங்கையர்கள் அனைவரும் இந்த சாதகமான சூழ்நிலையைப் பயன்படுத்திக் கொள்ள திட்டமிட வேண்டும். இதன் மூலம், தங்கள் சொந்த வாழ்க்கையை மேம்படுத்துவது மட்டுமல்லாமல், இலங்கையின் வடகிழக்கின் வளர்ச்சியில் பங்களிப்பதற்கும் இது ஒரு வாய்ப்பாக இருக்கும்.
+
+◼️
+
+[Data](articles/45ada313.json)
+
+---
+
+### பிரித்தானியாவில் கவனம் பெறும் ஈழத் தமிழ் அரசியல்
+
+*2024-06-30 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187328) · `ta`
+
+கனடாவைப்போல பிரித்தானியாவிலும், வரப்போகும் பொது தேர்தலுக்கு பின்னர் புலம்பெயர் தமிழர்களின் அரசியல் ரீதியான செல்வாக்கு அதிகரிக்கும் சாத்தியங்கள் உள்ளன.
+
+◼️
+
+[Data](articles/102b0bb2.json)
+
+---
+
+### திபெத்தில் மனித உரிமைத் தலையீடு
+
+*2024-06-30 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187330) · `ta`
+
+‘திபெத் தீர்வுச் சட்டம்’ என்ற பெயரில் தலைப்பிடப்பட்டிருக்கும் இந்த சட்டமுன் வரைவு 391 காங்கிரஸ் உறுப்பினர்களின் சம்மதத்துடன் நிறைவேற்றபட்டது. தற்பொழுது ஜனாதிபதி ஜோ பைடனின் கையெழுத்திற்காக காத்திருக்கிறது. ஜனாதிபதி பைடனின் கையெழுத்திடப்பட்டதும் திபெத் தீர்வுச் சட்டம் அங்கீகரிக்கப்பட்டதொரு சட்டமாக ஏற்றுக்கொள்ளபட்டதாகிறது.
+
+◼️
+
+[Data](articles/2daea3a8.json)
+
+---
+
+### கடல்சார் மீட்பு   மையம் யாருக்காக?
+
+*2024-06-30 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187314) · `ta`
+
+ஐந்து ஆண்டுகளில் கடலில் நிர்க்கதிக்குள்ளாகியிருக்கும் கப்பல்களில் இருந்து உதவிக் கோரிக்கை விடுக்கப்படுவது தொடர்ச்சியாக அதிகரித்து வருகின்ற நிலையில் தான், இலங்கையின் கடல்சார் மீட்பு ஒருங்கிணைப்பு மையத்தை இந்தியா வலுப்படுத்தியிருக்கிறது
+
+◼️
+
+[Data](articles/2042ed2a.json)
+
+---
+
+### மு.காவின் 31ஆவது பேராளர் மாநாடு சமூகத்துக்கு சொல்லும் செய்தி என்ன?
+
+*2024-06-30 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187323) · `ta`
+
+கிழக்கு மாகாண முன்னாள் ஆளுநர் ஹிஸ்புல்லாஹ் இந்த இளைஞர் குழுவினரை சமாதானப்படுத்தி பேராளர் மாவட்ட அழைத்துச் சென்றபோது அங்கும் பிரச்சினைகள் ஏற்பட்டன. இதேவேளை நிந்தவூரில் இருந்து பேராளர் மாநாட்டுக்குச் சென்ற முஸ்லிம் காங்கிரஸின் ஆதரவாளர்கள் உயர்பீட உறுப்பினர் நியமனத்தில் கட்சியின் தலைவர் முறையாக செயற்படவில்லை என்ற குற்றச்சாட்டை முன்வைத்து பேராளர் மாநாட்டிலிருந்து வெளியேறினர்.
+
+◼️
+
+[Data](articles/d139b998.json)
 
 ---
 
@@ -2169,151 +2255,5 @@ These ground rules were considered to be essential to avoid a repetition of the 
 [Data](articles/881cc840.json)
 
 [Extended Data](ext_articles/881cc840.ext.json)
-
----
-
-### The Idea of the Global South
-
-*2024-06-30 00:42:00* · [`islandlk`](http://island.lk/the-idea-of-the-global-south/) · `en`
-
-It is easy to celebrate the return of Asia, the rise of the Global South, the resurgence of the Non-Aligned nations of the world. It is harder to chart a course for these countries and regions, to strategise the way forward for them.
-
-The Global South, to be sure, has never been stronger before. The present moment is rife with many possibilities. The US and its allies have effectively lost the moral high ground, though some would argue and not incorrectly that it never held that high ground in the first place. South Africa’s intervention in the ongoing genocide in Gaza is an example of the immense potential of Global Southernism: the trial was launched at the behest, not of China or Russia or any of those countries that have a major issue with the US-led Western alliance, but of a state that had no rivalry or issue with that alliance.
-
-...
-
-[Data](articles/037a16b8.json)
-
-[Extended Data](ext_articles/037a16b8.ext.json)
-
----
-
-### 2024-06-29 (Saturday)
-
-### India wins Twenty20 World Cup in thrilling final against South Africa
-
-*2024-06-29 23:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100187/india-wins-twenty20-world-cup-in-thrilling-final-against-south-africa) · `en`
-
-BRIDGETOWN, Barbados (AP) — India pulled off a sensational seven-run win against South Africa in a gripping final of the Twenty20 World Cup on Saturday.
-
-South Africa, playing its first ever final of an ICC tournament, needed a run-a-ball 30 to win on the back of Heinrich Klaasen’s belligerent 52 off 27 balls.
-
-But India’s pace bowlers roared back in the death overs to restrict them at 169-8.
-
-Kohli’s first half-century at this tournament anchored India to 176-7 after captain Rohit Sharma won the toss and elected to bat.
-
-India won its second T20 World Cup but its first world title in 12 years.
-
-◼️
-
-[Data](articles/78556a74.json)
-
-[Extended Data](ext_articles/78556a74.ext.json)
-
----
-
-### Twentyi T20 cricket World championship
-
-*2024-06-29 23:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198305) · `si`
-
-In the 2024 T20 Cricket World Cup, India emerged victorious over South Africa by 7 runs in the final. Batting first after winning the toss, India scored 176/7, with Virat Kohli leading the charge with 76 runs. In response, South Africa fell short at 169/8, despite Henrik Klassen's 52 and Quinton de Cock's 39. Jasprit Bumrah and Arshdeep Singh were key for India with two wickets each. The trophy was presented by the Prime Minister of Barbados and West Indies legend Chris Gayle.
-
-🟩
-
-The Indian team won the 20th cricket World Cup.
-
-The 2024 South Africa defeated South African by 7 runs in the final.
-
-The Indian leader won the toss and elected to bat first.
-
-Accordingly, South Africa bowlers have challenged India from 34 runs for 34 runs in the Indian team.
-
-The failed Virakya Koli scored 76 runs in the final.
-
-Attorney Patel scored 47 runs and the Indian group scored 176 runs for the loss of 7 wickets.
-
-Chasing a 177 runs, South Africa won only 169 runs for the loss of 8 wickets in the end of 20 overs.
-
-Henrik Clayan scored 52 runs for the innings, and the Quendon de Cock scored 39 runs
-
-Jasprit Bumra and Arshrayep Singh took 2 wickets each while bowling on India.
-
-The Trophy of the World Trophy to the champions of the World Cup was brought to the stadium by the Prime Minister of Barbudos and the West Indies Chris Gayle.
-
-◼️
-
-[Data](articles/53be2be3.json)
-
-[Extended Data](ext_articles/53be2be3.ext.json)
-
----
-
-### India champion beat South Africa in the last over
-
-*2024-06-29 23:35:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தென்-ஆப்பிரிக்காவை-கடைசி-ஓவரில்-வீழ்த்தி-இந்தியா-சாம்பியன்/44-339607) · `ta`
-
-In the nail-biting finale of the 9th T20 World Cup, India emerged victorious against South Africa. Batting first, India reached 176/7, led by Virat Kohli's 76. South Africa set a target of 177, but India clinched victory in the last over, thanks to Hardik Pandya's exceptional bowling, securing the cup with an 8-run lead.
-
-🟩
-
-India - South Africa teams clash in the final of the 9th T20 World Cup. India captain Rohit won the toss and elected to bat.
-
-Rohit -Virat Kohli was the opening batsmen of the Indian team.
-
-Keshav Maharaja hit the 2nd over to India, scoring 15 runs in the first over by 15 runs.. In that over, Rohit was disappointed with 9 runs and Bund Duck out.
-
-Suryakumar Yadav was dismissed for three runs.. Akshar played brilliantly at the other end of Virat Kohli to play relax. Akshar Buder, who was expected to hit half -century, was unfortunately run out for 47 runs. Virat Kohli, who played, hit half a century.
-
-Shivam Dubey scored 27 runs for his share, India scored 176 runs for the loss of 7 wickets at the end of 20 overs. Virat Kohli scored 76 runs in the Indian team. Norjee and Keshav Maharaja took 2 wickets each for South Africa.
-
-...
-
-[Data](articles/3364a572.json)
-
-[Extended Data](ext_articles/3364a572.ext.json)
-
----
-
-### Woman minister arrested for witchcraft for president
-
-*2024-06-29 23:24:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜனாதிபதிக்கு-சூனியம்-வைத்த-பெண்-அமைச்சர்-கைது/50-339605) · `ta`
-
-Fatima Shamnas Salim, Maldives' Tourism Minister, was arrested along with her husband Adam Rameez for allegedly practicing witchcraft against President Mohammed Mohesu. Police raided their home based on complaints and found suspicious items, leading to the arrest of four individuals.
-
-🟩
-
-Tourism Minister of Maldives Fatima Shamnas Salim. Her husband Adam Rameez is holding a parallel to the minister at the President's House.
-
-At this juncture, police went to his house and went to his home by complaining that Fatima had put Billy witchcraft to President Mohammed Mohesu.
-
-There were many suspected items found there. The police seized them and arrested four people, including Fatima Shamnaz and Adam Rameez.. (A)
-
-◼️
-
-[Data](articles/b0f9aa43.json)
-
-[Extended Data](ext_articles/b0f9aa43.ext.json)
-
----
-
-### Bail for the son of Palitha Range Bandara
-
-*2024-06-29 22:52:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலித-ரங்கே-பண்டாரவின்-மகனுக்கு-பிணை/175-339604) · `ta`
-
-Yasoda Range Bandara, son of Palitha Range Bandara, was released from jail but had his driver's license suspended after being linked to a 2018 vehicle accident in Puttalam - Karuwalakaswewa.
-
-🟩
-
-Puttalam Magistrate's Court has ordered the release of Yasoda Range Bandara, son of Palitha Range Bandara, who was arrested in connection with a vehicle accident in Puttalam - Karuwalakaswewa area.
-
-However, the court has temporarily canceled his driver's license.
-
-It is noteworthy that Yasoda Range Bandara was in detail in connection with the 2018 vehicle accident.. Remble
-
-◼️
-
-[Data](articles/a324376e.json)
-
-[Extended Data](ext_articles/a324376e.ext.json)
 
 ---

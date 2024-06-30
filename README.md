@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 19:35:11**
+As of **2024-06-30 19:52:41**
 
 ## Newspaper Stats
 
-*Scraped **32,936** Articles*
+*Scraped **32,937** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,834
 economynextcom | 1,926
 dailyftlk | 2,015
 adalk | 2,926
-adaderanalk | 3,754
+adaderanalk | 3,755
 tamilmirrorlk | 3,892
 dailymirrorlk | 4,733
 virakesarilk | 5,130
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,936 (100.0%) of 32,936 articles have been extended.
+32,936 (100.0%) of 32,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
+
+### Sri Lanka hoping to reach agreement with private bondholders next week, says President
+
+*2024-06-30 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100201/sri-lanka-hoping-to-reach-agreement-with-private-bondholders-next-week-says-president) · `en`
+
+President Ranil Wickremesinghe said the Sri Lankan government is expecting to conclude discussions and reach an agreement with private bondholders on restructuring the country’s debt next week.
+
+He stated this while addressing the “Ekwa Jayagamu” public rally in Matara on Sunday (30).
+
+In what it termed a significant milestone, Sri Lanka this week sealed a deal with the Official Creditor Committee [OCC], to restructure the debt owed to its bilateral lenders including India, and signed a separate agreement with China for debt treatment.
+
+Wickremesinghe said that since signing the agreements with bilateral creditors, the representatives of private bondholders have also already started speaking with the government.
+
+“As of now, we have successfully achieved progress on both sides. We are expecting to successfully conclude this by next week,” he said.
+
+...
+
+[Data](articles/bb0b8309.json)
+
+---
 
 ### New two persons to England Test team
 
@@ -2287,27 +2307,5 @@ Established in 2004, RIOCOCO began with a vision to revolutionise the coconut gr
 [Data](articles/484c8dd0.json)
 
 [Extended Data](ext_articles/484c8dd0.ext.json)
-
----
-
-### Do the Tamil Critics of the 13th Constitutional Amendment have the Political Strength to Force a Future Govt to Introduce a Devolution Scheme  better than what is Available in the Provincial Councils?
-
-*2024-06-30 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84298) · `en`
-
-Sri Lankan Tamil politics has become more complicated due to contradictions among Tamil political parties regarding what position northern and eastern Tamils should take in the upcoming Presidential Election.
-
-It makes no sense to expect Tamil parties to be inclined to act unitedly or to come to a unified position to find a solution to the national ethnic problem.
-
-The idea of fielding a Tamil common candidate at the Presidential Election has occupied Tamil politics in recent times.
-
-Though the Democratic Tamil National Alliance (DTNA), consisting of a few Tamil parties whose leaders formerly were prominent members of armed militant groups, have decided to support the attempts to field a common Tamil candidate, the initial enthusiasm among some Tamil parties is now absent in this regard.
-
-There are conflicting views not only between parties but also within each party regarding the common candidate.
-
-...
-
-[Data](articles/5bc40ed7.json)
-
-[Extended Data](ext_articles/5bc40ed7.ext.json)
 
 ---

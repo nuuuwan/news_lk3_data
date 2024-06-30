@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 19:19:37**
+As of **2024-06-30 19:35:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,934 (100.0%) of 32,936 articles have been extended.
+32,936 (100.0%) of 32,936 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1198,19 +1198,33 @@ The United Nations should consider establishing and establishing special police 
 
 ---
 
-### බුද්ධි තොරතුර රන් ජාවාරම්කරුවන් අතටම ගිහිල්ලා මුම්බායි ගුවන් තොටුපොල දෙවනත් කරයි
+### Intelligence moves golden racketeers and makes Mumbai airport
 
 *2024-06-30 11:37:58* · [`adalk`](https://www.ada.lk/breaking_news/බුද්ධි-තොරතුර-රන්-ජාවාරම්කරුවන්-අතටම-ගිහිල්ලා-මුම්බායි-ගුවන්-තොටුපොල-දෙවනත්-කරයි/11-410516) · `si`
 
-ඉන්දීය ගුවන් මගීන් 18 දෙනෙකු  සිය සිරුරු වල ගුද මාර්ගයේ සගවා ගෙන ශ්‍රී ලංකාවට ගෙන එමින් තිබූ රුපියල් කෝටි ගනනක් වටිනා රත්තරන් තොගයක් පිළිබඳ තොරතුරු කටුනායක ගුවන් තොටුපොළ රේගු නිලධාරීන් විසින් දැන ගෙන ඇති බවට තොරතුරු එම මගීන්ට සැළවීමත් සමග ඔවුන් ව්‍යාජ කළබළයක් ඇති කර , කටුනායකට එන ගුවන් යානය පැය දෙකක කාළයක් ප්‍රමාද වීමට සළස්වා ගෙන , ඒ අතරතුර එම රත්තරන් තොගය වෙනත් පුද්ගලයන්ට ලබා දී , පසුව ඔවුන් කිසිවක් නොමැතිව  කටුනායක ගුවන් තොටුපොළ වෙත 06/29 දින පස්වරුවේ පැමිණ තිබුණි .
+Intelligence thwarted a smuggling attempt at Katunayake airport involving 18 Indian passengers trying to smuggle gold. The operation was delayed, and the suspects reached Bandaranaike International Airport instead. Indian authorities, anticipating their arrival, prepared for their arrest but learned they had already left. The group consisted of 16 men and 2 women. Their flight from Mumbai to Katunayake was scheduled for 6:00 pm, but they arrived two hours late. Customs officers inspected the plane and found nothing, suspecting involvement of the LTTE.
 
-ඉන්දීය ආදායම් බුද්ධි අංශය( Department of Revenue Interligence ) විසින් මෙසේ ඉන්දීය ජාතික ගුවන් මගීන් 18 දෙනෙකු තම සිරුරු වල ගුද මාර්ග වල විශාල රත්තරන් තොගයක් සගවා ගෙන 06/29 දින පස්වරු 03.00 ට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණීමට නියමිතව ඇති බවට කටුනායක ගුවන් තොටුපොළ රේගු නිලධාරීන් වෙත බුද්ධි තොරතුරක් ලබා දී තිබුණි .
+🟩
 
-ඒ අනුව කටුනායක ගුවන් තොටුපොළ රේගු අධ්‍යක්ෂ ඉන්දික සිල්වා මහතා සමග තවත් රේගු නිලධාරීන් 20 දෙනෙකු මෙම ගුවන් යානය තුළටම ගොස් මොවුන් අත් අඩංගුවට ගැනීමට සූදානම් වී සිටියහ .
+The aircraft has come to know that the Katunayake airport has made information about 18 Indian passengers to bring about bodies of Rs.In the meantime, the gold was to be delayed and given to other individuals, and then they had come to the Bandaranaike International Airport without any of the two hours.
+
+Indian Airport Intelligence Intelligence Intelligence Service, Katunayake Airport was due to arrive at the Katunayake airport at 06/200 pmAn intelligence was provided.
+
+Accordingly, 20 more customs officers with the Director of the Katunayaka Airport and were prepared to be arrested on this plane.
+
+The flight had taken place after this flight was heard by these Indian.
+
+The Indian racketeers included 16 Indian men and two women.
+
+The airline is due to leave the airport on January at 12.25 pm on January at 12.25 in Mumbai, India.
+
+In the meantime, they had been substanded to give them the gold from their bodies.
 
 ...
 
 [Data](articles/a09c1aef.json)
+
+[Extended Data](ext_articles/a09c1aef.ext.json)
 
 ---
 
@@ -1674,21 +1688,27 @@ The 35 -year -old Kohli, who made his debut in 2010 in twenty -20 internationals
 
 ---
 
-### මේ වසරේ පැමිණි සංචාරකයන් ප්‍රමාණය මිලියනය ඉක්මවයි
+### Tourist arrivals this year exceeds one million
 
 *2024-06-30 09:25:58* · [`adalk`](https://www.ada.lk/uncategorized/මේ-වසරේ-පැමිණි-සංචාරකයන්-ප්‍රමාණය-මිලියනය-ඉක්මවයි/1-410511) · `si`
 
-2024 වසරේ 01/01 දින සිට මේ දක්වා ශ්‍රී ලංකාවට පැමිණි විදේශීය සංචාරකයන් ප්‍රමාණය 06/29 දින දහවල් දශ ලක්ෂය ඉක්මවා ගියහ.
+In 2023, over a million foreign tourists visited Sri Lanka from January 1st to 29th. Notable visitors included Paul Roy and Patricia Roe from Dublin, who arrived via SriLankan Airlines from London on January 6th at 12:40 pm. The event was overseen by Mrs. Subhasini Perera, Director of the Sri Lanka Tourism Promotion Bureau, highlighting the tourism industry's significant growth.
 
-ඒ  අනුව දශ ලක්ෂය වැනි සංචාරකයා ලෙස අයර්ලන්තයේ ඩබ්ලින් නුවර සිට පැමිණි පෝල් රෝයි (Paul Roe ) සහ පැට්‍රීෂියා රෝයි ( Patricia Roe ) යුවළයි.
+🟩
 
-ඔවුන් 06/29 දින දහවල් 12.40 ට එංගලන්තයේ ලන්ඩන් නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 504 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+Foreign tourists visited Sri Lanka from 01/01/20 to the date of January 01/29 were exceeding Rs.
 
-ඔවුන් පිළිගැනීම සදහා උත්කර්ෂවත් උත්සවයක් කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ පැවති අතර ඒ සදහා ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරුන් , ශ්‍රී ලංකා සංචාරක ප්‍රවර්ධන කාර්යාංශයේ අධ්‍යක්ෂ සුභාෂිණි පෙරේරා , එහි නියෝජ්‍ය අධ්‍යක්ෂ හරීන්ද්‍රා විජේවර්ධන , කටුනායක ගුවන් තොටුපොළ ශ්‍රී ලංකා සංචාරක මණ්ඩලයේ තොරතුරු කේන්ද්‍රයේ කළමනාකරු වාසනා කුමාරි යන මහත්ම මහත්මීන් සහභාගී වී සිටියහ .
+Accordingly, Paul Roy, Paul Roy, and Patricia Roe, came from Dublin, as a traveler.
+
+They were from London, England to SriLankan Airlines from London, England to 12.40 pm on January 06/22.
+
+Mrs. Subhasini Perera, Director of Sri Lanka Tourism Promotion Bureau, Manager of the Sri Lanka Tourist Board of Sri Lanka Tourist Board of Sri Lanka Tourism Board, Handara, Sri Lanka Tourism Board (SLVA)Were attended.
 
 ◼️
 
 [Data](articles/4d5b7823.json)
+
+[Extended Data](ext_articles/4d5b7823.ext.json)
 
 ---
 

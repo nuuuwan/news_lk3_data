@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 02:21:20**
+As of **2024-07-01 02:04:39**
 
 ## Newspaper Stats
 
@@ -26,59 +26,47 @@ adaderanasinhalalk | 5,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,967 (100.0%) of 32,967 articles have been extended.
+32,965 (100.0%) of 32,967 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### People are skeptical about elections
+### தேர்தல்கள் தொடர்பில் மக்களிடம் பெரும் சந்தேகம்
 
 *2024-07-01 01:36:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்கள்-தொடர்பில்-மக்களிடம்-பெரும்-சந்தேகம்/175-339669) · `ta`
 
-Public skepticism towards the presidential election in Sri Lanka is high, as indicated by Parliamentarian Professor GL Peiris at a conference. He highlighted issues including potential corruption, the importance of timely elections for democracy, and conflicts between the state and public opinion. The professor also mentioned concerns over the country's financial situation due to alleged fraud and corruption, particularly involving IMF representatives. Additionally, he discussed the submission of evidence against the Southern Provincial Governor for illegal activities and criticized the President's attempt to form a parliamentary committee to review court decisions, viewing it as a threat to judicial independence.
+"செப்டெம்பர் 16 முதல் ஒக்டோபர் 16 வரை ஜனாதிபதித் தேர்தல் நடத்தப்பட வேண்டும் என்பதில் பொதுமக்களுக்கு நியாயமான சந்தேகம் உள்ளது என்று பாராளுமன்ற உறுப்பினர் பேராசிரியர் ஜி.எல்.பீரிஸ் தெரிவித்தார்.
 
-🟩
+கொழும்பில் சனிக்கிழமை (29) நடைபெற்ற மாநாட்டில் கலந்துகொண்டு உரையாற்றும் போதே மேற்கண்டவாறு தெரிவிததார்.
 
-“The public is suspicious of the presidential election from September 16 to October 16,” said Parliamentarian Professor GL Peiris.
+பொது மக்களின் ஒருமித்த கருத்தை சிதைத்து அரசுக்கும் பொதுமக்களுக்கும் இடையே போர் நடப்பதாக தெரிகின்றது.  சரியான நேரத்தில் தேர்தல்கள் நடத்துவது ஜனநாயகத்தின் அடிப்படை அம்சமாகும், அதை அழிக்க யாரும் அனுமதிக்கப்பட மாட்டார்கள் என்றார்.
 
-He was speaking at a conference held in Colombo on Saturday (29).
+நாட்டின் வங்குரோத்து நிலைக்கு முக்கிய காரணம் மோசடி, ஊழலாகும் சர்வதேச நாணய நிதிய பிரதிநிதிகள் கூட இலங்கையில் கொள்முதல் செயல்முறை மிகவும் ஊழல் நிறைந்ததாக அறிவித்துள்ளனர் என்றார்.
 
-It seems that there is a war between the state and the public, distorting the consensus of the public.He said that holding elections at the right time is the basic aspect of democracy and no one will be allowed to destroy it.
-
-He said the main reason for the country's bankruptcy was fraudulent and corrupt IMF representatives have announced that the procurement process in Sri Lanka is very corrupt.
-
-He said the facts of the illegal activities of the Southern Provincial Governor, which would give political appointment to local government representatives, would be submitted to the Election Commissioner's Office.
+உள்ளூராட்சி பிரதிநிதிகளுக்கு அரசியல் நியமனம் வழங்கும் தென்மாகாண ஆளுநரின் சட்டவிரோத நடவடிக்கைகள் தொடர்பான உண்மைகள் தேர்தல் ஆணையாளர் அலுவலகத்தில் சமர்ப்பிக்கப்படும் என்றார்.
 
 ...
 
 [Data](articles/52f8fed1.json)
 
-[Extended Data](ext_articles/52f8fed1.ext.json)
-
 ---
 
-### Thinking of the model is laughable
+### ’நினைப்பது நகைப்புக்குரியது’
 
 *2024-07-01 01:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நினைப்பது-நகைப்புக்குரியது/175-339668) · `ta`
 
-On her 80th birthday, former President Mrs. Chandrika Bandaranaike Kumaratunga reflects on her contributions to Sri Lanka, dismissing concerns about forgetting her actions as laughable. She emphasizes her enduring love for the country and its people, attributing her strength to their support despite criticism.
+நாட்டுக்காக நான் செய்த சில விடயங்களை மறந்தாலும் நாட்டு மக்கள் அவற்றை நினைவுகூருவார்கள் என நினைப்பது நகைப்புக்குரியது என முன்னாள் ஜனாதிபதி திருமதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்க தெரிவித்துள்ளார்.
 
-🟩
+திருமதி பண்டாரநாயக்கா, தனது 80வது பிறந்தநாளை ஜூன் 29ஆம் திகதியன்று தனது முகநூல் பதிவொன்றை இட்டுள்ளார். அந்த பதிவிலேயே மேற்கண்டவாறு தெரிவித்துள்ளார்.
 
-Former President Mrs. Chandrika Bandaranaike Kumaratunga has said that it is ludicrous to think that the people of the country will remember them even if I forget some of the things I have done for the country.
+“இன்று நான் இந்த பூமியில் எழுபத்தொன்பதாவது வயதைக் கடந்து எண்பது வயதை எட்டியுள்ளேன்.எனக்கு நினைவு தெரிந்த நாள் முதல் என் நாட்டிற்காகவும், நாட்டு மக்களுக்காகவும், அவர்களின் முன்னேற்றத்திற்காகவும் பல விஷயங்களைச் செய்திருக்கிறேன்.
 
-Mrs. Bandaranaike posted her 80th birthday on June 29. He said the above.
-
-“Today I have reached the age of seventy -nine years on this earth. From the day I remember, I have done many things for my country, the people and their progress.
-
-I may have forgotten many things. If I forgot some of them, it is laughable to think that people remember them. But in the greetings of the whole day, the memories of some people who love me at home and abroad made me clear to me.
+நான் பல விஷயங்களை மறந்திருக்கலாம். அவற்றில் சிலவற்றை நான் மறந்துவிட்டேன் என்றால், நாட்டு மக்கள் அவற்றை நினைவில் வைத்திருப்பதை எண்ணுவது நகைப்புக்குரியது. ஆனால் அன்று முழுவதும் எனக்கு கிடைத்த வாழ்த்துக்களில், உள்நாட்டிலும் வெளிநாட்டிலும் என்னை நேசிக்கும் சிலரது நினைவுகள் எனக்கு ஒரு விஷயத்தை தெளிவுபடுத்தியது.
 
 ...
 
 [Data](articles/846203b9.json)
-
-[Extended Data](ext_articles/846203b9.ext.json)
 
 ---
 

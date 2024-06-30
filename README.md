@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 16:50:43**
+As of **2024-06-30 17:04:34**
 
 ## Newspaper Stats
 
-*Scraped **32,913** Articles*
+*Scraped **32,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,834
 economynextcom | 1,926
 dailyftlk | 2,015
-adalk | 2,922
+adalk | 2,923
 adaderanalk | 3,752
 tamilmirrorlk | 3,890
 dailymirrorlk | 4,733
@@ -26,19 +26,43 @@ adaderanasinhalalk | 5,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,910 (100.0%) of 32,913 articles have been extended.
+32,913 (100.0%) of 32,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
 
-### එක්ව ජයගමු ජන රැලියට ජනපති එක්වෙයි
+### President jointly joins the winter rally
 
 *2024-06-30 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198327) · `si`
+
+The President attended a winter rally, showing solidarity with citizens amidst harsh weather conditions.
+
+🟩
 
 ◼️
 
 [Data](articles/8fdb134c.json)
+
+[Extended Data](ext_articles/8fdb134c.ext.json)
+
+---
+
+### මියගිය මිත්තණියගේ ඉඩමේ අයිතිය ඉල්ලා නර්තන  ශිල්පීන් දෙදෙනා යකා නටයි
+
+*2024-06-30 16:08:44* · [`adalk`](https://www.ada.lk/breaking_news/මියගිය-මිත්තණියගේ-ඉඩමේ-අයිතිය-ඉල්ලා-නර්තන--ශිල්පීන්-දෙදෙනා-යකා-නටයි/11-410522) · `si`
+
+උරුමය වැඩසටහනට සමගාමීව රජයේ ඉඩම් සඳහා සින්නක්කර ඔප්පු ලබාදීමේ බණ්ඩාරගම   බමුණු මුල්ල සේවා පියසේ පැවැති ජංගම වැඩසටහන අවස්ථාවේදී ඉඩමක තනි අයිතිය ඉල්ලා  එම ස්ථානයට කඩා වැදි නිලධාරීන්ට බැණ වැදී පහරදීමට උත්සාහ කළ බව කියන පුද්ගලයන් දෙදෙනකුට එරෙහිව පැමිණිල්ලක්  ලැබී ඇතැයි බණ්ඩාරගම පොලිසිය කියයි
+
+එම එක් පුද්ගලයෙකු කලායතනයක් පවත්වාගෙන යන්න නර්තන ශිල්පීයෙකි. අනෙක් පුද්ගලයා ඔහුගේ සමීපතම ගෝල නර්තන ශිල්පියා බව දැනගන්නට ඇත
+
+මීට වසරකට පමණ ඉහතදී  මියගිය     එක් පුද්ගලයෙකුගේ මිත්තණියට කිම්මන්තුඩාව  ප්‍රදේශයේ අයිතිව තිබූ  ඉඩමක්  කොටස් දෙකකට වෙන්කර එම පුද්ගලයාට සහ ඔහුගේ වයස අවුරුදු 18 අඩු බාල සහෝදරයා වෙත පසු අයිතිය නම් කර තිබී ඇති බව  පොලිසිය කියයි
+
+මිත්තණිය මිය යාමෙන් අනතුරුව    එහි මුල් ඔප්පුව   ගෝල නර්තන ශිල්පියාගේ මව භාරයේ තිබී ඇති අතර ඇය බාල පුතුට ඇති ආදරය හේතුවෙන් ගෝල නර්තන ශිල්පී පුතුට මුල් ඔප්පුව  ලබාදීම ප්‍රතික්ෂේප  කර  ඇති බව දැනගන්නට ඇත.එයට හේතු වී ඇත්තේ ඔහු මුළු ඉඩම ම ඔහුගේ නර්තන ආචාර්යවරයාට විකිණීම සඳහා සැලසුම් කර ඇති බවට ඇය වෙත දැනගැනීමට  ලැබීම නිසාය
+
+...
+
+[Data](articles/6129cc9c.json)
 
 ---
 
@@ -104,27 +128,39 @@ The ceremony took place at the Mahinda Rajapaksa Conference Hall in Wellawaya to
 
 [Data](articles/e46355c2.json)
 
+[Extended Data](ext_articles/e46355c2.ext.json)
+
 ---
 
-### රුපියල් කෝටි දෙකක ස්වර්ණාභරණ තොගයක් කටුනායක දී අත් අඩංගුවට
+### Arrest in Katunayake
 
 *2024-06-30 15:54:21* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-කෝටි-දෙකක-ස්වර්ණාභරණ-තොගයක්-කටුනායක-දී-අත්-අඩංගුවට/11-410521) · `si`
 
-පියල් කෝටි දෙකක් පමණ වටිනා ස්වර්ණාභරණ තොගයක් සිය ගමන් මලු තුළ සගවා ගෙන , කිසිවක් ප්‍රකාශ කිරීමට නොමැති " හරිත මාවත "
+In Katunayake, a 47-year-old man from Jaffna was arrested for trying to smuggle jewelry worth two crores through the Green Channel at the airport. The jewelry included a necklace, a bracelet, and a ring. Passengers from countries like France, England, and Germany face less scrutiny than those from Katunayake. The arrest occurred around 6:30 pm yesterday, and customs officials are continuing their investigation.
 
-( Green Channel ) ඔස්සේ ගුවන් තොටුපොළෙන් පිටතට යාමට තැත් කළ ගුවන් මගියෙකු රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් 06/29 දින පස්වරුවේ අත් අඩංගුවට ගෙන තිබේ .
+🟩
 
-මොහු යාපනය ප්‍රදේශයේ පදිංචි 47 හැවිරිදි පුද්ගලයෙකි .මොහු සෑම  මාසයකම තුන් හතර වතාවක් ප්‍රංශය සහ ශ්‍රී ලංකාව අතර ගුවන් ගමන් වල යෙදුණු පුද්ගලයෙකි .
+A stock of jewelery worth about two crores, and the "Green Mawatha" of the "Green Mawatha"
 
-සාමාන්‍යයෙන්  ප්‍රංශය , එංගලන්තය , ජර්මනිය , රුසියාව වැනි රටවල සිට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණෙන ගුවන් මගීන් එතරම් දැඩි පරීක්ෂා කිරීමකට ලක් නොකරති .
+A passenger traumat man who attempted to be out of the airport through the Green Channel was arrested by the Customs Drug Administration Division.
 
-එහෙත් මොහු පිළිබඳ ඇති වූ සැකය මත මොහු නවතා අහඹු ලෙස පරීක්ෂා කිරීමේදී මෙම ස්වර්ණාභරණ තොගය සොයා ගෙන අත් අඩංගුවට ගැනීමට හැකි වී තිබේ .
+He is a 47 year old resident of Jaffna.
 
-මොහු ඊයේ 06/29 දින රාත්‍රී 06.30 ට පමණ දෝහා සිට කටාර් ගුවන් සේවයේ කිව්.ආර්.- 654 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+Passengers from countries such as France, England, Germany, Russia are not very intensified from countries such as the Katunayake Airport.
 
-...
+But on suspicion of suspicion, the jewelery has been recovered and arrested.
+
+He was told by Dhoha from Dhoha from 6.30 pm yesterday.
+
+He was arrested in attempting to leave the airport without proclaiming 995 grams and a manner and a ring manufacturers.
+
+Customs officers are conducting further investigations to keep this air passenger in managing.
+
+◼️
 
 [Data](articles/e224ab87.json)
+
+[Extended Data](ext_articles/e224ab87.ext.json)
 
 ---
 
@@ -2287,37 +2323,5 @@ Further, the MEA said they are aware of the situation and have raised the issue 
 [Data](articles/8e71194d.json)
 
 [Extended Data](ext_articles/8e71194d.ext.json)
-
----
-
-### Range Bandara's son released on bail
-
-*2024-06-29 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198296) · `si`
-
-Palitha Range Bandara's son, arrested after a 4:30 am accident in Karuwalagaswewa, Puttalam, involving a three-wheeler, has been released on bail set at Rs. 500,000 by the Puttalam Magistrate's Court. The other driver involved in the accident is hospitalized.
-
-🟩
-
-The Puttalam Magistrate's Court has ordered the son of UNP General Secretary Palitha Range Bandara, who was arrested in Karuwalagaswewa, Puttalam.
-
-The accident had occurred at around 4.30 am at around 4.30 am, Karuwalagaswewa and 17th Meet.
-
-The son of UNP General Secretary Palitha Range Bandara was a three-wheeler that came forward.
-
-The three-wheeler driver who was seriously injured in the accident has been admitted to the Puttalam Base Hospital.
-
-The two drivers were traveling in the car and three wheelers at the time of the accident.
-
-Palitha Range Bandara was arrested by Karuwalagaswewa Police.
-
-The acting Puttalam Magistrate ordered the release of Rs. 500,000.
-
-Yashoda Range Bandara was remanded in connection with an accident in 2018.
-
-◼️
-
-[Data](articles/87c9e05c.json)
-
-[Extended Data](ext_articles/87c9e05c.ext.json)
 
 ---

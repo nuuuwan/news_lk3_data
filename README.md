@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 20:34:53**
+As of **2024-06-30 20:53:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,443
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,942 (100.0%) of 32,944 articles have been extended.
+32,944 (100.0%) of 32,944 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -172,41 +172,55 @@ The Annual Bus fare revision should be published every year and will be awarded 
 
 ---
 
-### වැඩබලන නීතීපති පාරින්ද රණසිංහ?
+### Acting Athand is the Minister of Attorney General
 
 *2024-06-30 19:20:57* · [`adalk`](https://www.ada.lk/breaking_news/වැඩබලන-නීතීපති-පාරින්ද-රණසිංහ-/11-410525) · `si`
 
-වැඩබලන නීතීපතිවරයා වශයන් ජ්‍යෙෂ්ඨ අතිරේක සොලිසිටර් ජනරාල් පාරින්ද රණසිංහ මහතා පත් කර ඇතැයි වාර්තා වෙයි.
+Mr. Ranasinghe, the Senior Additional Solicitor General, has been assigned to prosecute Sanjaya Rajaratnam. Despite retiring twice from the Legislative Council to extend his service, he continues to serve. Meanwhile, it's reported that another lawyer, Massesasinghe, fills the vacancy left by Mr. Ranasinghe.
 
-නීතීපතිවරයා වශයන් කටයුතු කළ සංජය රාජරත්නම් මහතා විශ්‍රාම යෑමෙන් පුරප්පාඩු වු නීතීපතිධුරය සඳහා මෙලෙස ජ්‍යෙෂ්ඨ අතිරේක සොලිසිටර් ජනරාල් පාරින්ද රණසිංහ මහතා පත් කර ඇතැයි වාර්තාවේ.
+🟩
 
-සංජය රාජරත්නම් මහතාට තවදුරටත් නීතීපතිධුරයේ කටයුතු කිරීම සඳහා සේවා දිගුවක් දෙන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කළ ඉල්ලම් ව්‍යවස්ථාදායක සභාවෙන් දෙවරක්ම ප්‍රතික්‍ෂෙප කිරීම හේතූවෙන් සංජය රාජරත්නම් මහතාට විශ්‍රාම යෑමට සිදුවිය.
+Senior Additional Solicitor General's High Court Solicitor General's High Court, reports say.
 
-ඉන් පුරප්පාඩු වු නීතීපතිධුරය සඳහා මෙලෙස ජ්‍යෙෂ්ඨ අතිරේක සොලිසිටර් ජනරාල් පාරින්ද රණසිංහ මහතා පත් කර ඇතැයි වාර්තා වන අතර පාරින්ද රණසිංහ මහතා එම ධුරයේ ස්ථිර කිරීම සඳහා ව්‍යවස්ථාදායක සභාවෙන් ඉල්ලීමක් කරනු ඇති බවටත් වාර්තාවේ.
+Senior Additional Solicitor General Aduriser General of Solicitor General, Mr. Ranasinghe, has been appointed to the prosecution of Sanjaya Rajaratnam.
+
+Sanjaya Rajaratnam had to retire twice due to the Legislative Council to the Legislative Council to further a service extension.
+
+It is reported that Senior Additional Solicitor General's Massesasinghe has been appointed to the vacant lawyers.
 
 ◼️
 
 [Data](articles/a4c10038.json)
 
+[Extended Data](ext_articles/a4c10038.ext.json)
+
 ---
 
-### රනිල්ගේ මාතර රැළියට පොහොට්ටුවේ මැති ඇමතිවරු එක්වෙති
+### Ministers and MPs in Pohoth joins Ranil's Matara rally
 
 *2024-06-30 18:55:17* · [`adalk`](https://www.ada.lk/picture_story/රනිල්ගේ-මාතර-රැළියට-පොහොට්ටුවේ-මැති-ඇමතිවරු-එක්වෙති/10-410523) · `si`
 
-ජනාධිපතිවරණයට පෙර ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් රට පුරා පැවැත්වෙන “එක්ව ජය ගමු” ජන රැලි මාලාවේ මංගල රැලිය අද (30දා) මාතර කොටුව මහින්ද විජේසේකර ක්‍රිඩාංගනයේදී පැවැත්විණි.
+In Pohoth, ministers and MPs joined a UNP rally led by Ranil Wickremesinghe ahead of the presidential election. Organized by Kanchana Wijesekara, Lakshman Yapa Abeywardena, and Sagala Ratnayake, it saw participation from various party members and local politicians. Key figures like Prasanna Ranatunga, Ali Sabri, Harin Fernando, and Manusha Nanayakkara supported the event, with Kanchana Wijesekara endorsing Wickremesinghe as the ideal presidential candidate. The gathering also included MPs Mahindananda Aluthgamage and Douglas Devananda, highlighting its significance.
 
-විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර, දකුණු පලාත් ආණ්ඩුකාර ලක්ෂ්මන් යාපා අබේවර්ධන සහ ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානී සාගල රත්නායක යන මහත්වරුන් එක්ව මෙම ජන රැලිය සංවිධානය කර තිබීම විශේෂත්වයකි.
+🟩
 
-ඒ සදහා එක්සත් ජාතික පක්ෂය, ශ්‍රී ලංකා පොදු ජනජන පෙරමුණ සහ ශ්‍රී ලංකා නිදහස් පක්ෂය නියෝජනය කරමින් ප්‍රාදේශීය දේශපාලඥයින් ඇතුළු පාක්ෂිකයින් විශාල පිරිසක් සහභාගී වූහ.
+The rally rally rally in the country was held at Mahinda Wijesekera playwright before the presidential election.
 
-අමාත්‍යවරුන් වන ප්‍රසන්න රණතුංග, අලි සබ්රි, හරීන් ප්‍රනාන්දු, මනූෂ නානායක්කාර, රමේෂ් පතිරණ, දකුණු පලාත් ආණ්ඩුකාර ලක්ෂ්මන් යාපා අබේවර්ධන, හිටපු අමාත්‍ය සාගල රත්නායක යන මහත්වරු එහිදී අදහස් පල කලේය.
+Minister of Power and Energy Minister Kanchana Wijesara, Southern Provincial Councils Lakshman Yapa Abeywardena and Presidential Chief of Staff Sagala Ratnayake organized the rally.
 
-විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා කියා සිටියේ පොහොට්ටුව ඇතැම් අය විවිධ කතා සිදුකලද එලැඹෙන ජනාධිපතිවරණයට සුදුසුම අපේක්ෂකයා වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා බවයි.
+A large number of party members including local politicians representing the United National Party (UNP) and the Sri Lanka Freedom Party were present.
+
+Ministers Prasanna Ranatunga, Ali Sabri, Harin Fernando, Harin Fernando, Manusha Nanayakkara, Southern Province Lakshman Yapa Abeywardena, Southern Province Lakshman Yapa Abeywardena.
+
+Power and Energy Minister Kanchana Wijesekara said that the present President Ranil Wickremesinghe is the ideal candidate for the presidential election.
+
+He invited President Ranil Wickremesinghe to contest the rally of the public rally to the presidential election.
 
 ...
 
 [Data](articles/bb04dec8.json)
+
+[Extended Data](ext_articles/bb04dec8.ext.json)
 
 ---
 

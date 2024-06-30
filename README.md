@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 01:19:20**
+As of **2024-07-01 01:35:07**
 
 ## Newspaper Stats
 
-*Scraped **32,964** Articles*
+*Scraped **32,965** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,929
 dailyftlk | 2,015
 adalk | 2,931
 adaderanalk | 3,759
-tamilmirrorlk | 3,895
+tamilmirrorlk | 3,896
 dailymirrorlk | 4,733
 virakesarilk | 5,133
 adaderanasinhalalk | 5,448
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,964 (100.0%) of 32,964 articles have been extended.
+32,964 (100.0%) of 32,965 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -189,6 +189,22 @@ However, the prices of Auto Diesel and Kerosene remains unchanged, the Ceypetco 
 [Data](articles/500d5648.json)
 
 [Extended Data](ext_articles/500d5648.ext.json)
+
+---
+
+### எரிபொருள் விலை; இரட்டை எண்ணில் குறைப்பு
+
+*2024-06-30 21:41:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலை-இரட்டை-எண்ணில்-குறைப்பு/175-339664) · `ta`
+
+இதற்கமைய, ஒக்டேன் 92 ரக பெற்றோல் லீற்றர் ஒன்றின் விலை 11 ரூபாவினால் குறைக்கப்படவுள்ளது. இதன்படி, ஒக்டேன் 92 ரக பெற்றோல் லீற்றர் ஒன்றின் புதிய விலை 344 ரூபாவாக நிர்ணயிக்கப்படவுள்ளது.
+
+ஒக்டேன் 95 ரக பெற்றோல் லீற்றர் ஒன்றின் புதிய விலை 41 ரூபாவினால் குறைக்கப்படவுள்ளது. ஒக்டேன் 95 ரக பெற்றோல் லீற்றர் ஒன்றின் புதிய விலை 379 ரூபாவாக நிர்ணயிக்கப்படவுள்ளது.
+
+சுப்பர் டீசல் லீற்றர் ஒன்றின் விலை 22 ரூபாவினால் குறைக்கப்படவுள்ளது. சுப்பர் டீசல் லீற்றர் ஒன்றின் புதிய விலை 355 ரூபாவாக நிர்ணயிக்கப்படவுள்ளது. (a)
+
+◼️
+
+[Data](articles/5b72b5cb.json)
 
 ---
 
@@ -2325,25 +2341,5 @@ The fishermen on a multi-day fishing vessel in Sri Lanka with six (Registration 
 [Data](articles/29fe2924.json)
 
 [Extended Data](ext_articles/29fe2924.ext.json)
-
----
-
-### Virat Kohli rest
-
-*2024-06-30 09:27:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/விராட்-கோலி-ஓய்வு/44-339626) · `ta`
-
-Virat Kohli, aged 35, has announced his retirement from T20 Internationals, including matches against the US and West Indies. Known for his debut in 2010, he amassed 4,188 runs in 100 games, showcasing his prowess in this format.
-
-🟩
-
-India's Virat Kohli has retired from the Twenty20 Internationals of the United States and the West Indies with the Twenty20 World Cup with the Twenty20 World Cup.
-
-The 35 -year -old Kohli, who made his debut in 2010 in twenty -20 internationals, scored 4,188 runs off 100 balls at 100 balls.
-
-◼️
-
-[Data](articles/3763f644.json)
-
-[Extended Data](ext_articles/3763f644.ext.json)
 
 ---

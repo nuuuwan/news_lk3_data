@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 19:52:41**
+As of **2024-06-30 20:04:37**
 
 ## Newspaper Stats
 
-*Scraped **32,937** Articles*
+*Scraped **32,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 3,755
 tamilmirrorlk | 3,892
 dailymirrorlk | 4,733
 virakesarilk | 5,130
-adaderanasinhalalk | 5,441
+adaderanasinhalalk | 5,442
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,936 (100.0%) of 32,937 articles have been extended.
+32,937 (100.0%) of 32,938 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,26 @@ Wickremesinghe said that since signing the agreements with bilateral creditors, 
 ...
 
 [Data](articles/bb0b8309.json)
+
+[Extended Data](ext_articles/bb0b8309.ext.json)
+
+---
+
+### බස් ගාස්තු වෙනසට කුමක් වෙයිද ?
+
+*2024-06-30 19:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198333) · `si`
+
+හෙට (01) සිට බස් ගාස්තු සියයට 5කින් අඩුවන බවට ප්‍රකාශ කළ ද එය ක්‍රියාත්මක කළ නොහැකි තත්ත්වයක් උද්ගතව ඇති බව ලංකා පෞද්ගලික බස් හිමියන්ගේ සංගමය පවසයි.
+
+එහි සභාපති ගැමුණු විජේරත්න මහතා පැවසුවේ අද දිනයේ සිදුවීමට නියමිත ඉන්ධන මිල සංශෝධනය ද සලකා බලා බස් ගාස්තු සංශෝධනය කිරීමට ගමනාගමන කොමිසම සැලසුම් කරමින් සිටින බවයි.
+
+මේ අතර ජාතික බස් ගාස්තු ප්‍රතිපත්තියට අනුව ගාස්තු සංශෝධනය හෙට (01) ප්‍රකාශයට පත් කරන බව ජාතික ගමනාගමන කොමිසමේ සභාපති ශෂි වෙල්ගම මහතා පවසයි.
+
+සෑම වසරකම ජුලි පළමුවනදා වාර්ෂික බස් ගාස්තු සංශෝධනය ප්‍රකාශයට පත් කළ යුතු අතර ඒ අනුව හෙට පස්වරු 1.00ට පැවැත්වෙන මාධ්‍ය හමුවේ දී ඒ සම්බන්ධයෙන් වන නිවේදනය ඉදිරිපත් කරන බව ශෂී වෙල්ගම මහතා පැවසීය.
+
+◼️
+
+[Data](articles/a9ddd367.json)
 
 ---
 
@@ -2291,21 +2311,5 @@ The election results have been continuously analysed and commented upon from the
 [Data](articles/b4f24621.json)
 
 [Extended Data](ext_articles/b4f24621.ext.json)
-
----
-
-### RIOCOCO Lanka earned dual silver honours at Stevie American Business Awards 2024
-
-*2024-06-30 01:31:00* · [`islandlk`](http://island.lk/riococo-lanka-earned-dual-silver-honours-at-stevie-american-business-awards-2024/) · `en`
-
-RIOCOCO, one of the major coconut-growing media manufacturers in Sri Lanka, was awarded two prestigious Silver Awards at the Annual Stevie Awards also known as the American Business Awards 2024 recently. RIOCOCO was recognised for its excellence as the Manufacturing Company of the Year and for its cutting-edge contributions in Sustainability and Climate Protection products, said a press release.
-
-Established in 2004, RIOCOCO began with a vision to revolutionise the coconut growing media industry with the corporate headquarters in Texas, USA. Founded by Shan Halamba, the company quickly gained prominence for its commitment to producing high-quality, uniform, and consistent coconut growing media for medium to high tech greenhouses. Over the years, RIOCOCO has expanded its operations to over 65 countries worldwide, becoming a global leader and the Sri Lankan origin brand in the industry.
-
-...
-
-[Data](articles/484c8dd0.json)
-
-[Extended Data](ext_articles/484c8dd0.ext.json)
 
 ---

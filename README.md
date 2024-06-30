@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 22:34:41**
+As of **2024-06-30 22:52:54**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,951 (100.0%) of 32,954 articles have been extended.
+32,954 (100.0%) of 32,954 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
 
-### බේරුණු ධීවරයා විජයබාහු නෞකාවට භාරදෙයි
+### Handing fisherman handed over to Vijayabahu
 
 *2024-06-30 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198338) · `si`
 
-ඩෙවොන් 5 බහුදින ධීවර යාත්‍රාවේ සිට දිවි බේරාගත් ධීවරයා, නාවික හමුදාවේ  ''විජයබාහු නෞකාව'' වෙත අද (30) රාත්‍රියේ දී නංවාගෙන ඇති අතර නෞකාව මේ වනවිට ගොඩබිමට යාත්‍රා කරමින් පවතින බව නාවික හමුදා මාධ්‍ය ප්‍රකාශකවරයා අද දෙරණට පැවසුවේය.
+In a tragic incident, five out of six fishermen were killed when their vessel capsized off the coast of Sri Lanka. The survivors, including a 42-year-old and two others, were rescued by the Sri Lanka Navy. The victims were identified as Dilshan, Sujith Sanjeewa, and three unnamed individuals from the Tangalle Fisheries Harbor.
 
-එම බහුදින ධීවර යාත්‍රාවේ සිට ධීවරයින් හය දෙනාගෙන් පස්දෙනෙකුම මේවනවිට මියගොස් ඇති බව ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුව තහවුරු කර තිබේ.
+🟩
 
-මෙලෙස මියගොස් තිබුණේ යාත්‍රාවේ ස්කිපර්වරයා වන 42 හැවිරිදි නයන කාන්ත , 24 හැවිරිදි පැතුම් දිල්ශාන්, 32 හැවිරිදි සුජිත් සංජීව , 33 හැවිරිදි ප්‍රදීප් නිශාන්ත සහ 68 හැවිරිදි අජිත් කුමාර යන ධීවරයින් 5 දෙනාය.
+The Navy Spokesperson has said that the Navy has rescued the Siranie of the Navy to the Sri Lanka Navy and the ship said.
 
-තංගල්ල ධීවර වරායෙන් ඩෙවොන් 5 නැමැති බහුදින ධීවර යාත්‍රාව ඉකුත් 6 වනදා ජාත්‍යන්තර මුහුදු සීමාවට ධීවර කටයුතු සඳහා යාත්‍රා කොට ඇත්තේ ධීවරයන් 6 දෙනෙකුද සමගිනි.
+The Department of Fisheries and Aquatic Resources has confirmed that five of the six fishermen have been killed from the multi-day vessel.
 
-ධීවර කටයුතුවල නිරත වෙමින් සිටි අතරවාරයේ මුහුදේ පාවෙමින් තිබූ යම් බෝතලයක තිබූ දියරයක් මත්පැන් වර්ගයක් යැයි සිතා මෙම ධීවරයින් පානය කර ඇත.
+The victim was 42-year-old wishes of the vessel, Dilshan, 32-year-old Sujith Sanjeewa, 33 fishermen.
+
+From the Tangalle Fisheries Harbor, the Devon 5, Devon 5, Sail Sail 6 fishermen with six fishermen.
+
+The fishermen have been drinking as a liquid in a bottle of a bottle floating in the sea.
 
 ◼️
 
 [Data](articles/22d78dec.json)
+
+[Extended Data](ext_articles/22d78dec.ext.json)
 
 ---
 
@@ -138,23 +144,33 @@ Sashi Welgama said that the annual bus fare revision should be announced on the 
 
 ---
 
-### තරුෂිට ඔලිම්පික් වරම් අහිමිවෙයිද ?
+### Will Thashi's loss of Olympics?
 
 *2024-06-30 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198336) · `si`
 
-දියගම පැවති ජාතික මලල ක්‍රීඩා ශූරතා තරගාවලියේ දී සංවිධායකයින් වර්ෂාව මධ්‍යයේ ධාවන ශූරී තරුෂි කරුණාරත්න ගේ තරග ඉසව්ව පැවැත්වීම සම්බන්ධයෙන් පරීක්ෂණයක් ක්‍රියාත්මක බව ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා අද (30)  අනාවරණ කළේය.
+Harin Fernando announced an inquiry into the National Athletic Championship in Diyagama after Tharushi Karunaratne won the 600m race. She qualified for the Paris Olympics Women's 800m event, needing to be among the top 45 athletes competing under the "Wild Card". The Sports Minister mentioned an Ombudsman and a national sports council would judge the situation further.
 
-ඔලිම්පික් වරම් අපේක්ෂාවෙන් තරුෂි පසුගියදා දියගම පැවති ජාතික මලල ක්‍රීඩා ශූරතා තරගාවලියට එක් වූ අතර එහිදී ඇය සහභාගි වූ මීටර 800 කාන්තා ධාවන ඉසව්ව වර්ෂාව මධ්‍යයේ පැවැත්වීම පිළිබඳව "අද දෙරණ" අනාවරණයෙන් පසු එම සිදුවීම දැඩි ආන්දෝලනයට තුඩුදුන්නේය.
+🟩
 
-එවන් පසුබිමක පැරිස් ඔලිම්පික් වරම් අපේක්ෂාවෙන් සිටින ක්‍රීඩක ක්‍රීඩිකාවන් වෙනුවෙන් අවසන් තේරීම් තරග කිහිපයක් අද (01) දියගමදී පැවති අතර ඊට තරුෂි කරුණාරත්න ද එක්වූවාය.
+Minister of Sports Harin Fernando today revealed that the organizers were conducting an inquiry into the event in the National Athletic Championship Tournament in Diyagama.
 
-ඇය මෙහිදී මීටර 600 ධාවන ඉසව්ව සඳහා එක් වූ අතර විනාඩි එකයි තත්පර 26යි දශම 9යි9ක දක්ෂතාවක් වාර්තා කරමින් ඇය එම ඉසව්වේ ප්‍රථම ස්ථානය දිනා ගත්තාය.
+Tharushi recently joined the National Athletic Championship held in Diyagama, Diyagama recently held the National Athletic Championship in Diyagama.
 
-පැරිස් ඔලිම්පික් උලෙළේ කාන්තා මීටර 800 ඉසව්ව සඳහා ක්‍රීඩිකාවන් 48 දෙනෙක් සුදුසුකම් ලැබීමට නියමිත අතර තරුෂි කරුණාරත්න තේරීම් තරගවලදී ලැබූ ජයත් සමග ශ්‍රේණිගත කිරීම් සටහනේ 42වන ස්ථානයේ පසුවෙයි.
+Several final choice matches for players who are in such a background were held in Diyagama, Tharushi Karunaratne.
+
+She joined the 600m long and scored the first place in the event.
+
+48 athletes will be eligible for the 800mmary of the Paris Olympics Women's Meter Events.
+
+Although 48 players will attend the Olympic event, but they should be among the 45 first athletes as they participate under the "Will Card".
+
+Sports Minister Harin Fernando said the organizers of the National Athletic Championship Tournament held in the Diyagama.
 
 ...
 
 [Data](articles/aa0c9bc3.json)
+
+[Extended Data](ext_articles/aa0c9bc3.ext.json)
 
 ---
 
@@ -328,19 +344,33 @@ Accordingly, the driver was produced before the Kandy National Hospital after ob
 
 ---
 
-### වැඩිම ඔප්පු ප්‍රමාණයක් දෙන ප්‍රාදේශීය ලේකම් කාර්යාලයට ජනපතිගෙන් ලැබෙන දේ
+### President receives the highest number of deeds
 
 *2024-06-30 19:32:02* · [`adalk`](https://www.ada.lk/breaking_news/වැඩිම-ඔප්පු-ප්‍රමාණයක්-දෙන-ප්‍රාදේශීය-ලේකම්-කාර්යාලයට-ජනපතිගෙන්-ලැබෙන-දේ/11-410526) · `si`
 
-“උරුමය” සින්නක්කර ඉඩම් ඔප්පු ලබාදීමේ වැඩසටහන යටතේ වැඩිම ඔප්පු ප්‍රමාණයක් ලබා දීමට කටයුතු කරන ප්‍රදේශීය ලේකම් කොට්ඨාසයේ වැව් ප්‍රතිසංස්කරණය සඳහා රුපියල් මිලියන 25 ක් ලබාදීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe announced plans to develop the Moneragala District, including granting land ownership rights to farmers, enhancing agricultural productivity, and establishing investment zones. He emphasized the importance of modernization and export-oriented agriculture in the region, aiming to create a significant agricultural zone in the Dry Zone. The initiative is part of a broader strategy to ensure food security globally and stimulate economic growth in the region.
 
-මෙම වැඩසටහන් තුළින් ජයග්‍රහණය කරන්නේ මෙරට ගොවි ජනතාව බව පැවසු ජනාධිපතිවරයා ගොවි ජනතාව නඟා සිටුවමින් රට සංවර්ධනය කරා ගෙන යාම තම අරමුණ බවද පැවසීය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ “උරුමය” ජාතික වැඩසටහන යටතේ මොණරාගල දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 11ක සුදුසුකම්ලාභීන් 41,960ක් අතුරින් පුද්ගලයන් 600ක් වෙනුවෙන් සංකේතාත්මකව ඔප්පු ප්‍රදානය කිරීම වෙනුවෙන් අද (30) පෙරවරුවේ වැල්ලවාය මහින්ද රාජපක්ෂ සම්මන්ත්‍රණ ශාලාවේ පැවති උත්සවය අමතමිනි.
+President Ranil Wickremesinghe said that he will provide Rs.
+
+The President said that these programs were the farmer community in the country to improve the country to develop the country.
+
+President Ranil Wickremesinghe said this was at the Mahinda Rajapaksa International Conference Hall today (30) with the "Heritage" National Program of the Moneragala DistrictAddressing the event.
+
+Speaking further President. Even though the province has not been developed under various governments, the President has shown that the President has not received land ownership to the country and is happy to be fulfilled under the present government.
+
+President Ranil Wickremesinghe said that the dry zone is expected to be developed in Udawalawe, Moneragala, Ampara and Mahaweli C region.
+
+The President joined the people inherited for the people of the Moneragala district and went to the people and engaged in a friendly talk.
+
+Minister Ranil Wickremesinghe further added:
 
 ...
 
 [Data](articles/c084094c.json)
+
+[Extended Data](ext_articles/c084094c.ext.json)
 
 ---
 

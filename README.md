@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 18:35:32**
+As of **2024-06-30 18:53:27**
 
 ## Newspaper Stats
 
-*Scraped **32,926** Articles*
+*Scraped **32,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 1,834
 economynextcom | 1,926
 dailyftlk | 2,015
 adalk | 2,924
-adaderanalk | 3,753
+adaderanalk | 3,754
 tamilmirrorlk | 3,892
 dailymirrorlk | 4,733
 virakesarilk | 5,124
-adaderanasinhalalk | 5,440
+adaderanasinhalalk | 5,441
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,926 (100.0%) of 32,926 articles have been extended.
+32,926 (100.0%) of 32,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
+
+### එංගලන්ත ටෙස්ට් කණ්ඩායම ට අලුත් දෙන්නෙක්
+
+*2024-06-30 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198332) · `si`
+
+සංචාරක බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සමග පැවැත්වෙන ටෙස්ට් ක්‍රිකට් තරගාවලිය සඳහා ක්‍රීඩකයින් 14 දෙනෙකුගෙන් සමන්විත එංගලන්ත සංචිතය නම්කර තිබේ.
+
+මෙම සංචිතය සඳහා නවක ක්‍රීඩකයින් දෙදෙනෙක් කැඳවා තිබේ. ඒ කඩුලු රකින ක්‍රීඩක ජැමී ස්මිත් සහ වේගපන්දු යවන ක්‍රීඩක ඩිලෝන් පෙනින්ග්ටන් ය.
+
+එංගලන්ත කණ්ඩායමේ කඩුලු රකින ක්‍රීඩකයින් ලෙස සිටි බෙන් ෆොක්ස් සහ ජොනී බෙයාස්ටෝ මෙම සංචිතය සඳහා නම්කර නොමැත.
+
+එංගලන්ත සංචිතය මෙසේය - බෙන් ස්ටොක්ස් (නායක), ජේම්ස් ඇන්ඩර්සන්, ගස් ඇට්කින්සන්, ෂොයිබ් බෂීර්, හැරී බ්රූක්, සැක් ක්‍රෝලි, බෙන් ඩකට්, ඩෑන් ලෝරන්ස්, ඩිලෝන් පෙනින්ග්ටන්, ඔලී පෝප්, මැතිව් පෝට්ස්, ජෝ රූට්, ජැමී ස්මිත්, සහ ක්‍රිස් වෝක්ස්
+
+සංචාරක බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සහ එංගලන්තය අතර ජුලි 10 වනදා ලෝඩ්ස් පිටියේ ඇරඹෙන පළමු ටෙස්ට් තරගය ජේම්ස් ඇන්ඩර්සන් ගේ සමුගැනීමේ ටෙස්ට් තරගය වෙයි.
+
+◼️
+
+[Data](articles/05d32986.json)
+
+---
+
+### Seven killed in Kyrgyz mud slides
+
+*2024-06-30 18:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100200/seven-killed-in-kyrgyz-mud-slides) · `en`
+
+Five children and two adults have died in mudslides in Kyrgyzstan, a mountainous Central Asian country on the front line of climate change, the government said Saturday.
+
+“Seven people died in the Nookat district” of southern Kyrgyzstan,” said the Ministry of Emergency Situations, adding that five of the dead were minors born between 2008 and 2016.
+
+At least 1,300 people on holiday in the area have been evacuated since Friday evening, it added. Saturday’s tragedy comes just days after the death of a five-year-old child in a similar disaster.
+
+Central Asia, a region particularly sensitive to climate change, regularly suffers floods, earthquakes, landslides, avalanches and fires.
+
+But rising temperatures are leading to more frequent and intense droughts, natural disasters and unpredictable seasonal weather condition in Kyrgyzstan, as per UN.
+
+◼️
+
+[Data](articles/c3d100a8.json)
+
+---
 
 ### New York Police shooting child who showed a toy pistol
 
@@ -2275,51 +2315,5 @@ It is noteworthy that Yasoda Range Bandara was in detail in connection with the 
 [Data](articles/a324376e.json)
 
 [Extended Data](ext_articles/a324376e.ext.json)
-
----
-
-### Indian military tank sinks and kills 5 soldiers
-
-*2024-06-29 22:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100186/indian-military-tank-sinks-and-kills-5-soldiers) · `en`
-
-Five Indian soldiers were killed when a military tank they were travelling in sank while crossing a river in the remote region of Ladakh that borders China, officials said Saturday.
-
-The tank sank early Saturday due to sudden increase in the water levels of Shyok River during a military training activity, according to an Indian army command center statement. It said the accident took place in Saser Brangsa near the Line of Actual Control that divides India and China in the Ladakh region.
-
-“We will never forget exemplary service of our gallant soldiers to the nation. My heartfelt condolences to the bereaved families. The nation stands firm with them during this hour of grief,” Singh wrote on the social platform X.
-
-The Indian and Chinese militaries have been locked in a standoff in Ladakh since May 2020, when they clashed along their land border in the region, with 20 Indian and four Chinese soldiers killed.
-
-...
-
-[Data](articles/988493ff.json)
-
-[Extended Data](ext_articles/988493ff.ext.json)
-
----
-
-### Foreigners in Sri Lanka
-
-*2024-06-29 22:47:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-கொத்து-கொத்தாக-சிக்கும்-வெளிநாட்டவர்கள்/175-339603) · `ta`
-
-In Sri Lanka, 30 Chinese nationals were arrested for online fraud, including Bitcoin scams. The arrests followed a series of money laundering cases involving foreign nationals. Authorities urge vigilance among the public, especially regarding property rentals, and ask for reports on suspicious activities.
-
-🟩
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa said that 30 Chinese citizens who defrauded online were arrested at a hotel in Negombo today.
-
-Investigations have revealed that the group was involved in various frauds on the Internet via Bitcoin.
-
-A large number of foreigners were arrested a few days ago on charges of defrauding money on an online money laundering in Sri Lanka.
-
-Sri Lankan police have asked the public to inform them if they are informed of such fraud.
-
-The public is advised to be very careful when renting more houses. Remble
-
-◼️
-
-[Data](articles/3b4f7b3f.json)
-
-[Extended Data](ext_articles/3b4f7b3f.ext.json)
 
 ---

@@ -1,36 +1,50 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 00:06:48**
+As of **2024-07-01 00:19:42**
 
 ## Newspaper Stats
 
-*Scraped **32,958** Articles*
+*Scraped **32,963** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 300
 dbsjeyarajcom | 301
+colombotelegraphcom | 302
 bbccomsinhala | 321
 newsfirstlk | 363
 islandlk | 1,834
 economynextcom | 1,929
 dailyftlk | 2,015
-adalk | 2,930
+adalk | 2,931
 adaderanalk | 3,758
 tamilmirrorlk | 3,895
 dailymirrorlk | 4,733
-virakesarilk | 5,132
-adaderanasinhalalk | 5,447
+virakesarilk | 5,133
+adaderanasinhalalk | 5,448
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,958 (100.0%) of 32,958 articles have been extended.
+32,958 (100.0%) of 32,963 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
+
+### ආර් සම්පන්දන් දිවියෙන් සමුගනී
+
+*2024-06-30 23:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198339) · `si`
+
+ඔහු ද්‍රවිඩ ජාතික සන්ධානය නියෝජනය කරමින් පාර්ලිමේන්තු මන්ත්‍රීවරයෙක් ලෙස කටයුතු කළේය.
+
+කොළඹ පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටියදී ඔහු අභාවප්‍රාප්ත වී තිබේ.
+
+◼️
+
+[Data](articles/6984cc02.json)
+
+---
 
 ### President urges opposition to join the path of unity for national progress
 
@@ -49,6 +63,28 @@ Addressing the gathering, President Ranil Wickremesinghe emphasized that today m
 [Data](articles/e967aa0e.json)
 
 [Extended Data](ext_articles/e967aa0e.ext.json)
+
+---
+
+### இன்று நள்ளிரவு முதல் எரிபொருள் விலை குறைப்பு!
+
+*2024-06-30 22:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/187340) · `ta`
+
+இலங்கை பெற்றோலிய கூட்டுத்தாபனம் தனது எரிபொருள் விலையை 30ஆம் திகதி நள்ளிரவு முதல் அமுலுக்கு வரும் வகையில் திருத்துவதற்கு தீர்மானித்துள்ளது.
+
+இந்த திருத்தங்களின் கீழ், மூன்று வகையான எரிபொருட்களின் விலைகள் குறைக்கப்படவுள்ள அதேவேளை, இரண்டின் விலையில் மாற்றமில்லை.
+
+இதன்படி, ஒக்டேன் 92 பெற்றோல் லீற்றர் ஒன்றின் விலை 11 ரூபாவினால் குறைக்கப்படவுள்ளதுடன், அதன் புதிய விலை 344 ரூபாவாகும்.
+
+ஒக்டேன் 95 பெற்றோல் லீற்றர் ஒன்றின் விலை 41 ரூபாவால் குறைக்கப்படவுள்ளதுடன், அதன் புதிய விலை 379 ரூபாவாகும்.
+
+ஒரு லீற்றர் சுப்பர் டீசலின் விலை 22 ரூபாவினால் குறைக்கப்படவுள்ளதுடன் அதன் புதிய விலை355 ரூபாவாக அறிவிக்கப்பட்டுள்ளது.
+
+இதன்படி, ஆட்டோ டீசல் லீற்றர் ஒன்றின் விலை 317 ரூபாவாகவும் மண்ணெண்ணெய்யின் விலை 202 ரூபாவாகவும் நிர்ணயிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/665a62c5.json)
 
 ---
 
@@ -265,6 +301,24 @@ At the same time, the Muslim Congress, Tamil parties and 12 members of the Risha
 [Data](articles/53eb2161.json)
 
 [Extended Data](ext_articles/53eb2161.ext.json)
+
+---
+
+### රට ගොඩනැඟීමේ පාඩම මගෙන් ඉගෙන ගන්න
+
+*2024-06-30 20:12:55* · [`adalk`](https://www.ada.lk/breaking_news/රට-ගොඩනැඟීමේ-පාඩම-මගෙන්-ඉගෙන-ගන්න/11-410530) · `si`
+
+අද තිබෙන්නේ පුද්ගලවාදය හෝ පක්ෂවාදය නොව, රට පෙරට තබා සියලුදෙනා පොදු එකඟතාවකින් ඉදිරියට යාම බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+
+රටට ආදරය කරන සියලුදෙනා එක්කර ගනිමින් නිහඬවම ඉකුත් දෙවසර තුළ රට වෙනුවෙන් පුළුල් වැඩ කොටසක් ඉටු කළ බව පැවසූ ජනාධිපතිවරයා මෙම නව දේශපාලන ගමන ආරක්ෂා කර ගනිමින් ඉදිරියට ගෙන යාමට සියලුදෙනා කැපවිය යුතු බවද සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ වත්මන් රජයේ වැඩපිළිවෙළ සහ ඉදිරි ගමන් මඟ පිළිබඳ ජනතාව දැනුවත් කිරීම වෙනුවෙන් අද (30) මාතර කොටුව ක්‍රිඩාංගණයේ පැවති ජන හමුව අමතමිනි.
+
+“එක්ව ජයගමු – අපි මාතර” මැයෙන් විදුලිබල සහ බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා විසින් සංවිධානය කර තිබු මෙම ජන හමුවට මාතර දිස්ත්‍රික්කයේ ජනතාව අතිවිශාල පිරිසක් එක්ව සිටියහ.
+
+...
+
+[Data](articles/cee71c52.json)
 
 ---
 
@@ -586,6 +640,20 @@ But rising temperatures are leading to more frequent and intense droughts, natur
 
 ---
 
+### Can A Country Swamped By Mythological Beliefs Prosper?
+
+*2024-06-30 18:20:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/can-a-country-swamped-by-mythological-beliefs-prosper/) · `en`
+
+Mythological practices are prevalent in many religions worldwide, ranging from visiting places of religious significance to ringing bells dangling on the testicles of a sage. This piece is not to entirely reject these practices, as some rituals have become traditions, but to highlight the absurd levels of indulgence in Sri Lanka, primarily driven by a segment of Buddhist monks.
+
+Almost every family adheres to traditions such as consulting horoscope readers and waiting for auspicious times for significant events. Indigenous chanting and dancing, like Bali Thovil, are commonly accepted customs. However, there is an over-dependence on newly found practices and beliefs, where authorities need to act before these characters turn the youth into blind followers.
+
+...
+
+[Data](articles/5ef153d8.json)
+
+---
+
 ### North, East Rise: A View
 
 *2024-06-30 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187331) · `ta`
@@ -701,6 +769,18 @@ The bullet had hit the child's chest and the child died after hospitalization.
 [Data](articles/f6bd5813.json)
 
 [Extended Data](ext_articles/f6bd5813.ext.json)
+
+---
+
+### Is The News Really Good?
+
+*2024-06-30 18:06:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-the-news-really-good/) · `en`
+
+When a bankrupt country receives good news, it raises great expectations in the hearts of its people. Last week, the government gave extensive publicity to this so-called good news. Consequently, various opposition groups were very concerned about this trend. Some were worried if this was genuinely good news, while others were anxious to learn more details about it. Nevertheless, at first glance, being able to restructure bilateral debts and officially come out of bankruptcy should be good news for the people of a bankrupt country. This is particularly true for those who have suffered in long queues for oil and gas, and for the business community that had to stop operations due to the inability to open letters of credit. However, it seemed that this news was not very favorable for political groups hoping to seize state power in the near future.
+
+...
+
+[Data](articles/5e2e5464.json)
 
 ---
 
@@ -2237,135 +2317,5 @@ Mrs. Subhasini Perera, Director of Sri Lanka Tourism Promotion Bureau, Manager o
 [Data](articles/4d5b7823.json)
 
 [Extended Data](ext_articles/4d5b7823.ext.json)
-
----
-
-### Tourist arrivals this year exceeds one million
-
-*2024-06-30 09:25:58* · [`adalk`](https://www.ada.lk/picture_story/මේ-වසරේ-පැමිණි-සංචාරකයන්-ප්‍රමාණය-මිලියනය-ඉක්මවයි/10-410511) · `si`
-
-In 2023, over a million foreign tourists visited Sri Lanka from January 1st to 29th. Notable visitors included Paul Roy and Patricia Roe from Dublin, who arrived via SriLankan Airlines from London on January 6th at 12:40 pm. The event was overseen by Mrs. Subhasini Perera, Director of the Sri Lanka Tourism Promotion Bureau, highlighting the significant tourism growth.
-
-🟩
-
-Foreign tourists visited Sri Lanka from 01/01/20 to the date of January 01/29 were exceeding Rs.
-
-Accordingly, Paul Roy, Paul Roy, and Patricia Roe, came from Dublin, as a traveler.
-
-They were from London, England to SriLankan Airlines from London, England to 12.40 pm on January 06/22.
-
-Mrs. Subhasini Perera, Director of Sri Lanka Tourism Promotion Bureau, Manager of the Sri Lanka Tourist Board of Sri Lanka Tourist Board of Sri Lanka Tourism Board, Handara, Sri Lanka Tourism Board (SLVA)Were attended.
-
-◼️
-
-[Data](articles/900dc945.json)
-
-[Extended Data](ext_articles/900dc945.ext.json)
-
----
-
-### Public transport services are essential services
-
-*2024-06-30 09:18:51* · [`adalk`](https://www.ada.lk/breaking_news/පොදු-ගමනාගමන-සේවා-අත්‍යවශ්‍ය-සේවා-බවට-පත්-කෙරේ/11-410510) · `si`
-
-President Wickremesinghe declares common transport services for passengers and goods as essential services. A gazette notification aims to maintain roads, bridges, railways, and traffic services, applicable to all public corporations, departments, local authorities, cooperatives, or branches.
-
-🟩
-
-Common Transport Services for passengers or goods to transport goods will be essential services by President Ranil Wickremesinghe.
-
-Gazette notification to facilitate and maintain and maintain roads, bridges, bridges and railways for these services, facilitate and maintaining traffic services to traffic services, the Presidential Secretary EMSB Wickaman yesterday (29) The day was released.
-
-Accordingly, the gazette notification has made these services from any public corporation, department, a local authority, cooperative society or branch.
-
-◼️
-
-[Data](articles/886b717e.json)
-
-[Extended Data](ext_articles/886b717e.ext.json)
-
----
-
-### Sabaragamuwa Samuna Perahera is dated
-
-*2024-06-30 09:13:56* · [`adalk`](https://www.ada.lk/religion/සබරගමුව-සමන්-දේවාල-පෙරහරට-දින-නියම-වෙයි/4-410509) · `si`
-
-The Sabaragamuwa Samuna Perahera festival, organized by the Ratnapura District Secretary's committee, will take place from August 5th to 9th. It includes the traditional Diya Cutting Festival and is sponsored by the state, focusing on health facilities. Migara Jayasundara mentioned the event's significance, while Basnayake Nilame encourages pilgrimage participation.
-
-🟩
-
-Sabaragamuwa Maha Saman Devalaya will take place on 5th to 9 August to 9 August to the 9th of August to August 14, August 19Basnayake Nilame of the Maha Saman Devalaya, Ratnapura, said that the Festival of the Diya Cutting Festival was implemented to date.
-
-Migara Jayasundara, Migara Jayasundara, said that the annual procession of Sabaragamuwa Perahele was held on 3 August.
-
-The Perahera of the Maha Devalaya is organized by the State-sponsored procession and is organized by a committee of Ratnapura District Secretary Wasantha Gunaratne in connection with the health facilities.
-
-The Festival of the Flower of the Great Saman Devalaya The flower of the flower of the flower to the Maha Saman River.Basnayake Nayaka Niwarana Jayasundara is demanding the participation of pilgrims to participate in this year's Perahera.
-
-◼️
-
-[Data](articles/20f532dd.json)
-
-[Extended Data](ext_articles/20f532dd.ext.json)
-
----
-
-### Upcountry train is commonly
-
-*2024-06-30 09:08:28* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනය-සාමන්‍ය පරිදි/11-410508) · `si`
-
-Due to maintenance work, the Badulla-Colombo Fort railway line will operate from midnight tonight. The Nawalapitiya Railway Control Room reports that certain trains will not run today, including the frequent ones. This closure affects the section between Galabada stations, impacting services from Colombo Fort to Badulla and vice versa. Passengers are advised to check schedules before traveling.
-
-🟩
-
-Badulla railway line from Badulla to Colombo Fort will be operated from the night of the railway line from the railway line from the railway stations.The Nawalapitiya Railway Control Room (UPFA) says that the two frequent number of traffic train trains will not run today (30).
-
-The Railway Department said that the railway line was held at the railway line between the Galabada railway stations at around 1.15 am today (30) at 1.15 am today (30).
-
-This is due to this to the Badulla Fort from Colombo Fort to Badulla and has been admitted to Nawalapitiya Railway Station at Nawalapitiya.He also said that the Nawalapitiya Railway Control Room was made.
-
-Accordingly, the Colombo Fort Colombo Fort, Badulla Fort, Colombo Fort, Colombo Fort, 1045, has commenced the Colombo Fort.
-
-◼️
-
-[Data](articles/db91809d.json)
-
-[Extended Data](ext_articles/db91809d.ext.json)
-
----
-
-### Child killed in swimming pool
-
-*2024-06-30 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198312) · `si`
-
-In tragic incidents, a five-year-old boy from Colombo 09 drowned in a park pool, and a 14-year-old student from Mankulam went missing but was later found dead in the Iranamadu Reservoir. Additionally, a 56-year-old man from Ramboda disappeared and was found dead at Weligama Beach.
-
-🟩
-
-A five-year-old boy and another were killed in three incidents of drowning and another.
-
-A small child drowned in a pool of a park in North Battiyoda, Kandana, North Batiyagoda.
-
-The deceased has been identified as a 5 year old resident of Colombo 09.
-
-The child and several others, including a few children, were drowned.
-
-The child's father was admitted to the Jaela Divisional Hospital and died on admission to the Ragama hospital for further treatment.
-
-Meanwhile, one student drowned in the Iranamadu Reservoir, who had been drowned.
-
-Disappeared student is a 14 year old student residing in the Mankulam area.
-
-Meanwhile, a man dropped at the Weligama Police Division in the Weligama Police Division has disappeared.
-
-The missing person was found in the Weligama Beach last night.
-
-The deceased has been identified as a 56 year old resident of Ramboda, Ramboda.
-
-◼️
-
-[Data](articles/9f049829.json)
-
-[Extended Data](ext_articles/9f049829.ext.json)
 
 ---

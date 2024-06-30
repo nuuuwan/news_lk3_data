@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 18:24:09**
+As of **2024-06-30 18:35:32**
 
 ## Newspaper Stats
 
@@ -26,55 +26,73 @@ adaderanasinhalalk | 5,440
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,923 (100.0%) of 32,926 articles have been extended.
+32,926 (100.0%) of 32,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
 
-### සෙල්ලම් පිස්තෝලයක් පෙන්වූ දරුවාට නිව්යෝර්ක් පොලීසිය වෙඩි තියයි
+### New York Police shooting child who showed a toy pistol
 
 *2024-06-30 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198331) · `si`
 
-අමෙරිකාවේ නිව්යෝර්ක් ප්‍රාන්ත පොලිසිය සිදුකළ වෙඩි තැබීමකින් 13 හැවිරිදි දරුවෙක් මියගොස් තිබේ.
+In Utica, NY, a 13-year-old boy was fatally shot by state police. The incident occurred as the boy, carrying a toy gun, fled from officers. Despite being unarmed, he was pursued and shot in the chest, leading to his death.
 
-පොලීසිය පවසන්නේ දරුවාගේ අතේ පිස්තෝලයක් ඇතැයි සිතා පොලිස් නිලධාරියෙක් ඔහුට වෙඩිතබා ඇති බවයි.
+🟩
 
-උටිකා නම් ප්‍රදේශයේ පසුගිය දින කිහිපයෙකි සොරකම් වාර්තා වී ඇති අතර ඒ හේතුවෙන් පොලිස් නිලධාරීන් යොදවා තිබු බව සඳහන් ය.
+A 13-year-old child was killed by the New York State Police in the United States.
 
-Nyah Mway නම් එම දරුවා සිය මිතුරෙක් සමග මාර්ගයේ ගමන් කරමින් සිටියදී ඔවුන්ව නවත්වා පොලීසිය ඔවුන් දෙදෙනාගෙන් ප්‍රශ්න කරමින් සිටින විට Nyah Mway එම ස්ථානයෙන් පැන ගොස් තිබේ.
+Police say that a police officer shot dead to him.
 
-පොලිස් නිලධාරීන් ඔහු පසුපස ගොස් අල්ලාගෙන ඇති අතර එහිදී දරුවා සහ පොලිස් නිලධාරියෙක් බිම පොරබදා තිබුණි.
+The previous few days in the area of ​​Utika, the police said that police officers were deployed.
 
-වෙඩි උණ්ඩය දරුවාගේ පපුවට වැදී තිබු අතර රෝහල් ගත කිරීමෙන් අනතුරුව දරුවා මියගොස් තිබේ.
+NYAH MWAY, when the child was walking along the road with his friend, Nyah Mway has escaped when the police are driving from them.
+
+The police officers followed him and held a child and a police officer in the ground.
+
+The bullet had hit the child's chest and the child died after hospitalization.
 
 ◼️
 
 [Data](articles/f6bd5813.json)
 
+[Extended Data](ext_articles/f6bd5813.ext.json)
+
 ---
 
-### இழுவிசைகளுக்குள் அகப்பட்டிருக்கும்  தமிழர் அரசியல்
+### Tamil politics
 
 *2024-06-30 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/187321) · `ta`
 
-தமிழீழ விடுதலைப்புலிகள் செய்த அரசியலில் மிகப் பெரிய குறைபாடு, தேசமாக திரட்டுவதில் அக்கறை செலுத்தாமையே. இதனால் ஏற்பட்ட விளைவு பெருந்தொகையானோர் தேசப் போராட்டத்துக்கு வெளியே தள்ளிவிடப்பட்டனர். இதுவே பிற்காலத்தில் போராட்டத்தின் பின்னடைவுக்கும் காரணமாகியது. உண்மையில் தற்போது தேவையானது ‘புலி அரசியல்’ அல்ல, மாறாக புலிகளிலும் மேம்பட்ட அரசியலே. இந்த உண்மையை முன்னணியினர் புரிந்துகொள்ள தயாராக இல்லை. இதனால் வரலாற்றுக் குறைபாடு தொடரும் நிலை ஏற்படுகிறது.
+The LTTE's main flaw was its lack of national unity, causing many to be excluded from the struggle. This led to the downfall of their later efforts. Today, what's needed isn't "tiger politics" but understanding and leadership that embraces all Tamils.
+
+🟩
+
+The biggest drawback in the politics of the Liberation Tigers of Tamil Eelam (LTTE) is not interested in mobilizing the nation. The result was a large number of people postponed outside the national struggle. This was the recession of the later struggle. In fact, what is currently needed is not a tiger politics. This fact is not ready to understand the leading. This leads to a continuing historical impairment.
 
 ◼️
 
 [Data](articles/5f642e69.json)
 
+[Extended Data](ext_articles/5f642e69.ext.json)
+
 ---
 
-### கிட்டுமா இராணுவத் தளபதி பதவி?
+### Kituma Army Commander?
 
 *2024-06-30 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/187318) · `ta`
 
-தற்போது பிரபாகரனின் சடலத்தை கண்டுபிடித்து, அறிவித்த மேஜர் ஜெனரல் ரோஹித அலுவிகார  இராணுவத் தலைமை அதிகாரியாக  நியமிக்கப்பட்டிருந்தாலும் அவர்  விஜயபா படைப்பிரிவை சேர்ந்தவர் என்பதால் இராணுவத்தளபதி என்ற உயர் பதவியை அடைவது கடினம் தான்
+Major General Rohitha Alagavara, despite being named chief minister of Prabhakaran's body, faces challenges reaching the Army Commander post due to his affiliation with the Vijayabha Brigade.
+
+🟩
+
+Although Major General Rohitha Alagavara has been appointed as the chief minister of Prabhakaran's body, it is difficult to achieve the high position of the Army Commander because he belongs to the Vijayabha Brigade.
 
 ◼️
 
 [Data](articles/f44c8b82.json)
+
+[Extended Data](ext_articles/f44c8b82.ext.json)
 
 ---
 

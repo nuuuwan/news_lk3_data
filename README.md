@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 22:08:22**
+As of **2024-06-30 22:19:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,445
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,950 (100.0%) of 32,951 articles have been extended.
+32,951 (100.0%) of 32,951 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ However, the prices of Auto Diesel and Kerosene remains unchanged, the Ceypetco 
 ◼️
 
 [Data](articles/500d5648.json)
+
+[Extended Data](ext_articles/500d5648.ext.json)
 
 ---
 

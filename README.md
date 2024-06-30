@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 18:12:31**
+As of **2024-06-30 18:24:09**
 
 ## Newspaper Stats
 
-*Scraped **32,923** Articles*
+*Scraped **32,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,64 @@ adalk | 2,924
 adaderanalk | 3,753
 tamilmirrorlk | 3,892
 dailymirrorlk | 4,733
-virakesarilk | 5,122
-adaderanasinhalalk | 5,439
+virakesarilk | 5,124
+adaderanasinhalalk | 5,440
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,922 (100.0%) of 32,923 articles have been extended.
+32,923 (100.0%) of 32,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
+
+### සෙල්ලම් පිස්තෝලයක් පෙන්වූ දරුවාට නිව්යෝර්ක් පොලීසිය වෙඩි තියයි
+
+*2024-06-30 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198331) · `si`
+
+අමෙරිකාවේ නිව්යෝර්ක් ප්‍රාන්ත පොලිසිය සිදුකළ වෙඩි තැබීමකින් 13 හැවිරිදි දරුවෙක් මියගොස් තිබේ.
+
+පොලීසිය පවසන්නේ දරුවාගේ අතේ පිස්තෝලයක් ඇතැයි සිතා පොලිස් නිලධාරියෙක් ඔහුට වෙඩිතබා ඇති බවයි.
+
+උටිකා නම් ප්‍රදේශයේ පසුගිය දින කිහිපයෙකි සොරකම් වාර්තා වී ඇති අතර ඒ හේතුවෙන් පොලිස් නිලධාරීන් යොදවා තිබු බව සඳහන් ය.
+
+Nyah Mway නම් එම දරුවා සිය මිතුරෙක් සමග මාර්ගයේ ගමන් කරමින් සිටියදී ඔවුන්ව නවත්වා පොලීසිය ඔවුන් දෙදෙනාගෙන් ප්‍රශ්න කරමින් සිටින විට Nyah Mway එම ස්ථානයෙන් පැන ගොස් තිබේ.
+
+පොලිස් නිලධාරීන් ඔහු පසුපස ගොස් අල්ලාගෙන ඇති අතර එහිදී දරුවා සහ පොලිස් නිලධාරියෙක් බිම පොරබදා තිබුණි.
+
+වෙඩි උණ්ඩය දරුවාගේ පපුවට වැදී තිබු අතර රෝහල් ගත කිරීමෙන් අනතුරුව දරුවා මියගොස් තිබේ.
+
+◼️
+
+[Data](articles/f6bd5813.json)
+
+---
+
+### இழுவிசைகளுக்குள் அகப்பட்டிருக்கும்  தமிழர் அரசியல்
+
+*2024-06-30 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/187321) · `ta`
+
+தமிழீழ விடுதலைப்புலிகள் செய்த அரசியலில் மிகப் பெரிய குறைபாடு, தேசமாக திரட்டுவதில் அக்கறை செலுத்தாமையே. இதனால் ஏற்பட்ட விளைவு பெருந்தொகையானோர் தேசப் போராட்டத்துக்கு வெளியே தள்ளிவிடப்பட்டனர். இதுவே பிற்காலத்தில் போராட்டத்தின் பின்னடைவுக்கும் காரணமாகியது. உண்மையில் தற்போது தேவையானது ‘புலி அரசியல்’ அல்ல, மாறாக புலிகளிலும் மேம்பட்ட அரசியலே. இந்த உண்மையை முன்னணியினர் புரிந்துகொள்ள தயாராக இல்லை. இதனால் வரலாற்றுக் குறைபாடு தொடரும் நிலை ஏற்படுகிறது.
+
+◼️
+
+[Data](articles/5f642e69.json)
+
+---
+
+### கிட்டுமா இராணுவத் தளபதி பதவி?
+
+*2024-06-30 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/187318) · `ta`
+
+தற்போது பிரபாகரனின் சடலத்தை கண்டுபிடித்து, அறிவித்த மேஜர் ஜெனரல் ரோஹித அலுவிகார  இராணுவத் தலைமை அதிகாரியாக  நியமிக்கப்பட்டிருந்தாலும் அவர்  விஜயபா படைப்பிரிவை சேர்ந்தவர் என்பதால் இராணுவத்தளபதி என்ற உயர் பதவியை அடைவது கடினம் தான்
+
+◼️
+
+[Data](articles/f44c8b82.json)
+
+---
 
 ### Rohit who ate the grounds of the stadium
 
@@ -888,25 +934,35 @@ Fatimath Shamnas was the Minister of Environment, Climate Change and Energy of t
 
 ---
 
-### මිගමුව සයිබර් අපරාධ කේන්ද්‍රයක් බවට පත්වෙමින් යයි
+### The Negombo is becoming a cyber criminal hub
 
 *2024-06-30 11:51:45* · [`adalk`](https://www.ada.lk/breaking_news/මිගමුව-සයිබර්-අපරාධ-කේන්ද්‍රයක්-බවට-පත්වෙමින්-යයි/11-410517) · `si`
 
-මීගමුව  කුඩා පාඩුව ප්‍රදේශයේ තවත්  හෝටලයක් වැටලු  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන්  කණ්ඩායම විසින් අන්තර්ජාලය හරහා මුදල් වංචා කළබවට සැකපිට චීන ජාතිකයන් 31 දෙනෙකු 30 දින   අත්අඩංගුවට ගෙනතිබේ මොවුන් අතරින් අටදෙනකු . සතුව ඔවුන් ගේ  විදේශ ගමන් තිබී නොමැත.
+Negombo is emerging as a cybercrime hotspot, with 31 suspects arrested from a hotel. The police suspect involvement in the White Twenty20 World Cup. They've seized 30 computers and numerous mobile phones, arresting nearly 150 suspects from four hotels. Suspects include nationals from Pakistan, Nigeria, Nepal, Malaysia, India, Bangladesh, and China. The operation targeted an area known for harboring online criminals, disrupting their activities.
 
-විස්සයි20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියට අදාළ සුදු  මෙම ස්ථානයේසිට මෙහෙයවා ඇතිබවට පොලිසිය සැකපලකරයි.
+🟩
 
-ඔවුන් සතුව තිබී පරිගණක 30ක් සහ ජංගම දුරකථන 80කට අධික ප්‍රමාණයක් පොලිසිය බාරයට ගෙන ඇති අතර  අත්අඩංගුවට ගත් පිරිස අතර එක් චීන ජාතික කාන්තාවක් ද සිටිබව පොලිසිය පවසයි.
+Another hotel in the small loss in the small loss in the small loss in the small loss in the Factory Criminal Investigations Department officials arrested 31 of the suspects. There were not their travels.
 
-පසුගිය 24 දිනසිට මේදක්වා මීගමුවේ හෝටල් හතරක සිදුකල වැටලීම් වලදී පරිගණක අපරාධ සිදුකිරීම සදහා රැදී සිටිබවට සැකපිට පුද්ගලයන් 15 0 කට ආසන්න විදේශිකයන් පිරිසක් අත්අඩංගුවට ගෙන ඇත.
+The police suspect that the Village was conducted with the White Twenty20 World Cup.
 
-මොවන් අතර පකිස්තාන් ,නයිජීරියා, නේපාල, මැලේසියා, ඉන්දීය, බංගලිදේශ සහ චීන ජාතිකයන් ද සිටින බවද පොලිසිය පවසයි.
+Police have also briefed 30 computers and more mobile phones were briefed and the police said.
 
-මොවුන් සන්තකයේ තිබී ජංගම දුරකථන පරිගණක ඇතළු විද්‍යුත් උපකරණ විශාල ප්‍රමාණයක් ද පොලිසිය බාරයට ගෙන තිබිණි.
+Nearly 15 0 forecasts have been arrested on suspects on the raids at four Negoasi hotels in the four hotels in Neuasi.
 
-...
+The police say that Pakistan, Nigeria, Nepalese, Malaysia, Indian, Bangladeshi and Chinese are also present.
+
+The police also had a large number of electronic devices with mobile phones in their possession.
+
+The number of arrests of online criminals have been identified as an area where Negombo has been safely kept secretary.
+
+The criminals have been allowed to launch the criminals in deliberate residents of the housing owners.
+
+◼️
 
 [Data](articles/0153dfa7.json)
+
+[Extended Data](ext_articles/0153dfa7.ext.json)
 
 ---
 
@@ -2247,77 +2303,5 @@ The public is advised to be very careful when renting more houses. Remble
 [Data](articles/3b4f7b3f.json)
 
 [Extended Data](ext_articles/3b4f7b3f.ext.json)
-
----
-
-### Public transport services make an essential service
-
-*2024-06-29 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198304) · `si`
-
-A gazette declares public transport, including roads, bridges, railways, and traffic services, as essential under the Essential Public Service Act (No. 61 of 1979), ensuring their continuity during emergencies.
-
-🟩
-
-A gazette released a gazette, converting public transport services to a essential service.
-
-According to the Essential Public Service Act, No. 61 of 1979, the Gazette has been issued by the Secretary to the Secretary to the President.
-
-Accordingly, passengers or cargoes, as well as roads, bridges, culverts, culverts and railways, and traffic services, and traffic services have been made into an essential service to the gazette.
-
-◼️
-
-[Data](articles/0ce24304.json)
-
-[Extended Data](ext_articles/0ce24304.ext.json)
-
----
-
-### The tendon of the Devon 5
-
-*2024-06-29 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198303) · `si`
-
-The Sri Lanka Navy relocated the "Vijayabahu Ship" to the Tangalle Fisheries Harbor due to a medical emergency involving six "Devon 5" tugboats. A crew member found a severely ill person with a bottle of alcohol floating in the water. The situation worsened when the captain and four fishermen died, leaving others in critical condition. An Air Force helicopter was dispatched to assist, and efforts are underway to transport the survivors ashore.
-
-🟩
-
-The National Army of the Sri Lanka Navy said that all activities are being deposal to the location of the "Vijayabahu Ship" to the location of the "Sevabahu" to the Tangalle Fisheries Harbor.
-
-Meanwhile, an Air Force helicopter has also been prepared to bring fishermen in the vessel.
-
-On the 4th of the Tangalle Fisheries Harbor, six "Devon 5" tugs had gone to fishing for fishing.
-
-The Fisheries Director General Susantha Kahawatte said that alcohol has been alcohol with a bottle floating in deep Diyawala night.
-
-The fluid that the drink was severely ill, and they have said about the condition of a radio to another fishing vessel near the morning.
-
-Accordingly, the Schedder of the vessel informed the Message Swap Center informed of the Fishermen and touch the fishing vessel, but the fishermen were sent to the site.
-
-The company said that the skipper had died of the death of four fishermen who were in the vessel.
-
-...
-
-[Data](articles/dafb18ed.json)
-
-[Extended Data](ext_articles/dafb18ed.ext.json)
-
----
-
-### Coly is building India
-
-*2024-06-29 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198302) · `si`
-
-In cricket, India made 176/7 against Coly. Vird hit 76, while Aksha Patel contributed 47 runs.
-
-🟩
-
-The Indian team scored 176 runs for the loss of 7 wickets for their innings.
-
-Vird was 76 runs for India and Aksha Patel scored 47 runs.
-
-◼️
-
-[Data](articles/305e451b.json)
-
-[Extended Data](ext_articles/305e451b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 13:19:22**
+As of **2024-06-30 13:35:10**
 
 ## Newspaper Stats
 
-*Scraped **32,841** Articles*
+*Scraped **32,842** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,39 +20,69 @@ adaderanalk | 3,747
 tamilmirrorlk | 3,874
 dailymirrorlk | 4,733
 virakesarilk | 5,110
-adaderanasinhalalk | 5,428
+adaderanasinhalalk | 5,429
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,805 (99.9%) of 32,841 articles have been extended.
+32,822 (99.9%) of 32,842 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
 
-### හෝටලයෙන් අතුරුදන් වූ ඊශ්‍රායල තරුණිය හමුවූ තැන
+### වැඩබලන නීතිපති දිවුරුම්දීම හෙට
+
+*2024-06-30 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198320) · `si`
+
+ජ්‍යෙෂ්ඨ නියෝජ්‍ය සොලිසිටර් ජනරාල් පාරින්ද රණසිංහ මහතා වැඩබලන නීතිපතිවරයා ලෙස හෙට (01) දිවුරුම්දීමට නියමිතව තිබේ.
+
+අගවිනිසුරුවරයා ඉදිරියේ තමා වැඩබලන නීතිපතිවරයා ලෙස දිවුරුම්දෙන බව "අද දෙරණ" කළ විමසීමකදී පාරින්ද රණසිංහ මහතා පැවසීය.
+
+නීතිපති ධුරයේ කටයුතු කළ සංජේ රාජරත්නම් මහතාගේ ධුර කාලය පසුගිය 26 වනදායින් අවසන් වීම හේතුවෙන් නීතිපති ධුරය පුරප්පාඩු වී පැවතුණි.
+
+ඒ අනුව, ජනාධිපතිවරයා විසින් වැඩබලන නීතිපතිවරයා ලෙස ජ්‍යෙෂ්ඨ නියෝජ්‍ය සොලිසිටර් ජනරාල් පාරින්ද රණසිංහ මහතා පත්කිරිමට පියවර ගෙන තිබේ.
+
+ඒ මහතා නීතිපති ධුරයට පත් කිරීම සඳහා ජනාධිපතිවරයාගේ නිර්දේශය ඉදිරියේ දී ව්‍යවස්ථාදායක සභාව වෙත යොමුකිරීමට නියමිතය.
+
+පාරින්ද රණසිංහ මහතා මෙරට හිටපු අගවිනිසුරුවරයෙකු වන කේ. ඒ. පාරින්ද රණසිංහ මහතාගේ පුත්‍රයෙකු වෙයි.
+
+◼️
+
+[Data](articles/d61ad09d.json)
+
+---
+
+### Where the unvended Israeli girl met
 
 *2024-06-30 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198319) · `si`
 
-ත්‍රිකුණාමලය ප්‍රදේශයේ සංචාරයක් සඳහා පැමිණ පසුගියදා අතුරුදන් වූ ඊශ්‍රායල ජාතික තරුණිය නිලාවේලි ප්‍රදේශයේ කැලයක් තුළ සිටියදී විමර්ශන කණ්ඩායම් විසින් සොයා ගෙන තිබේ.
+A 25-year-old Israeli woman went missing from her hotel in Trincomalee, Sri Lanka, after arriving on the 22nd. The Uppuweli Police, along with the Special Task Force and the Eastern Provincial Tourism Bureau, launched an investigation. She was found in the Nilaveli area but remains hospitalized without providing details about her disappearance.
 
-තමර් අමිතායි නැමැති 25 හැවිරිදි එම ඊශ්‍රායල ජාතික තරුණිය ඉකුත් 22 වනදා ශ්‍රී ලංකාවට පැමිණ තිබුණේ සංචාරයක් සඳහාය.
+🟩
 
-නවාතැන්ගැනීම සඳහා අන්තර්ජාලය ඔස්සේ ත්‍රිකුණාමලය ප්‍රදේශයේ හෝටලයක් සතියක කාලයක් සඳහා ඇය වෙන් කරවාගෙන තිබුණාය.
+Investigations have been recovered by the Israeli national girl in the Nilaveli area in Nilaveli.
 
-කෙසේ වෙතත් ඉකුත් 26 වනදා පස්වරුවේ සිට ඇය අතුරුදන් වී ඇති අතර, හෝටලයේ හිමිකරු ඒ සම්බන්ධයෙන් උප්පුවේලි පොලීසිය දැනුවත් කර තිබේ.
+The Israeli national, 25-year-old Israeli woman, arrived in Sri Lanka on the 22nd.
 
-ඒ අනුව, උප්පුවේලි පොලීසිය, පොලිස් විශේෂ කාර්ය බළකාය, උප්පුවේලි ප්‍රාදේශිය සභාව සහ නැගෙනහිර පළාත් සංචාරක කාර්යාංශය එක්ව තරුණිය සොයා විමර්ශන ආරම්භ කළේය.
+She had set up a hotel in Trincomalee in Trincomalee online to accommodate.
 
-ප්‍රදේශයේ සිදුකළ මෙහෙයුමකින් අනතුරුව ඊයේ (29) පස්වරුවේ අදාළ තරුණිය නිලාවේලි ප්‍රදේශයේ කැලයක් තුළ සිටියදී සොයා ගැනුණි.
+However, she has disappeared on the 26th and the owner of the hotel informed the Uppuice Police regarding the incident.
 
-සිද්ධිය සම්බන්ධයෙන් උප්පුවේලි පොලීසියෙන් "අද දෙරණ" කළ විමසීමකදී එහි නිලධාරින් පැවසුවේ තරුණිය යම් සිහිමද තත්ත්වයකින් පෙළෙන බවත් ඇය විසින්ම අදාළ කැලෑ ප්‍රදේශයට යන්නට ඇතැයි අනුමාන කරන බවත්ය.
+Accordingly, the Uppuweli Police, Police Special Task Force, and the Eastern Provincial Tourism Bureau were conducting further investigations.
 
-...
+The girl was recovered following a camp in Nilaveli in Nilaveli.
+
+When contacted by the Uppuweli Police, "Ada Derana" said the girl said that the girl was amazing and guess that she had to go to the forest area.
+
+However, she still has no statement from the girl regarding the incident and she is currently receiving treatment at the Trincomalee Base Hospital.
+
+◼️
 
 [Data](articles/3eee1080.json)
+
+[Extended Data](ext_articles/3eee1080.ext.json)
 
 ---
 
@@ -74,21 +104,29 @@ However, one of the two fishermen has also passed away leaving just one survivor
 
 [Data](articles/c5d8d63b.json)
 
+[Extended Data](ext_articles/c5d8d63b.ext.json)
+
 ---
 
-### ධීවර මරණ ඉහළට
+### Top of fisheries death
 
 *2024-06-30 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198318) · `si`
 
-මත්පැන් බව සිතා මුහුදේ පාවෙමින් තිබූ බෝතලයක වූ විෂ දියරයක් පානය කළ "ඩෙවොන් 5" බහුදින ධීවර යාත්‍රාවේ සිටි ධීවරයින් හය දෙනාගෙන් තවත් අයෙක් මේ වනවිට මියගොස් ඇතැයි ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුව තහවුරු කරයි.
+Six fishermen died after being trapped in a drifting bottle off the coast. Two survivors from the Devon 5 incident were rescued; however, one passed away.
 
-ඩෙවොන් 5 යාත්‍රාවේ අසාධ්‍යව සිටි දෙදෙනෙක්ව අද (30) සිංගප්පුරු වෙළෙඳ නෞකාවක් මගින් බේරාගෙන තිබුණි.
+🟩
 
-ඉන් එක් අයෙක් මියගොස් ඇති බවට වාර්තා වූ බව ධීවර දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත මහතා පැවසීය.
+The Department of Fisheries and Aquatic Resources has confirmed that another six fishermen were killed in a bottle floating in the sea.
+
+Two signs of the Devon 5 were saved today (30).
+
+Director General of the Fisheries Department Susantha Kahawatta said that one of them had died.
 
 ◼️
 
 [Data](articles/2cf8e058.json)
+
+[Extended Data](ext_articles/2cf8e058.ext.json)
 
 ---
 
@@ -112,6 +150,8 @@ Nineteen “seriously injured” people were taken to the regional capital Maidu
 
 [Data](articles/570bdfaa.json)
 
+[Extended Data](ext_articles/570bdfaa.ext.json)
+
 ---
 
 ### Parinda Ranasinghe to be sworn in as Acting AG
@@ -134,27 +174,35 @@ However, the proposal requires the approval of the Constitutional Council, which
 
 [Data](articles/79018366.json)
 
+[Extended Data](ext_articles/79018366.ext.json)
+
 ---
 
-### මගීන්ගේ ජීවිත බේරූ රියදුරු
+### Passenger Life Save Driver
 
 *2024-06-30 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198317) · `si`
 
-බලන්ගොඩ සිට මහනුවර දක්වා ධාවනය කරවමින් තිබූ ලංකා ගමනාගමන මණ්ඩලයට අයත් බස් රථයක පසුපස රෝදවල ඇණ බුරැල්විම හේතුවෙන් සිදුවන්නට ගිය විශාල අනතුරක් වළක්වා ගැනීමට බස් රථයේ රියදුරා සමත්වී තිබේ.
+Driver Ajith Kumara skillfully prevented an accident involving a Sri Lanka Transport Board bus carrying nearly 100 passengers from Balangoda to Kandy. The incident occurred when the bus began losing control due to faulty rear wheels, which were found to be damaged.
 
-එම අවස්ථාවේ බස් රථයේ මගීන් 100කට ආසන්න පිරිසක් ගමන්කර තිබුණි.
+🟩
 
-බලන්ගොඩ ඩිපෝවට අයත් එම බස් රථයේ රියදුරු ලෙස අජිත් කුමාර මහතා කටයුතු කර ඇති අතර ඔහුගේ දක්ෂතාවය හේතුවෙන් සිදුවන්නට ගිය අනතුර වළක්වා ගෙන තිබූ බව අප වාර්තාකරු පැවසීය.
+The driver of the bus has been able to avoid a large risk of the rear wheels of a bus belonging to the Sri Lanka Transport Board from Balangoda to Kandy.
 
-අද උදැසන  6.50ට පමණ මහනුවර බලා බලන්ගොඩ නගරයෙන් එම බස් රථය පිටත්ව ගොස් තිබේ.
+Nearly 100 passengers were traveling at the bus.
 
-රෝදවල ඇතිවූ ඇති වු දෝෂයත් සමග බස් රථය, රියදුරුගේ පාලනයෙන් ගිලිහී යෑමට පටන් ගෙන තිබූ අතර එහිදී රියදුරු බස් රථය නතර කරගෙන තිබුණි.
+The driver of the bus belonging to the Balangoda Depot was taken by Ajith Kumara and the accident had been prevented due to his skill.
 
-පසුව ඔහු රෝද පරීක්ෂාකර ඇති  අතර එහිදී නිරීක්ෂණය වී ඇත්තේ පසුපස රෝදවල ඇණ බුරැල් වි  ඇති බවයි.
+The bus was leaving for Kandy around 6.50 am today.
+
+The bus had begun to lose the driver's administration with the fault caused by the wheels.
+
+Later he was tested wheels and observed that the rear wheels have been pushed in the rear wheels.
 
 ◼️
 
 [Data](articles/6d75c21a.json)
+
+[Extended Data](ext_articles/6d75c21a.ext.json)
 
 ---
 
@@ -176,21 +224,29 @@ Maharagama Police is conducting further investigations related to the incident.
 
 [Data](articles/1f61a0c4.json)
 
+[Extended Data](ext_articles/1f61a0c4.ext.json)
+
 ---
 
-### උඩරට දුම්රිය ධාවනය යථා තත්ත්වයට
+### Upcountry train services restored
 
 *2024-06-30 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198315) · `si`
 
-රාත්‍රි තැපැල් දුම්රිය පීලි පැනීමෙන් ඇනහිට තිබු උඩරට මාර්ගයේ දුම්රිය ධාවන කටයුතු යථා තත්ත්වයට පත්කර තිබේ.
+Upcountry train services resumed with night mail train operational again. Restoration completed by track train engine and Hatton railway maintenance staff, following interruption on Kandyan road yesterday.
 
-පීලි පැනීමට ලක් වු දුම්රියේ එන්ජිම නාවලපිටිය සහ හැටන් දුම්රිය ස්ථානයේ දුම්රිය මාර්ග නඩත්තු අංශයේ සේවකයින් විසින් පීලිගත කිරිමෙන් අනතුරුව එම මාර්ගයේ ධාවන කටයුතු යථා තත්ත්වයට පත්කළ බව දුම්රිය දෙපාර්තමේන්තුව පැවසීය.
+🟩
 
-බදුල්ල සිට කොළඹ කොටුව දක්වා ධාවනය කරමින් තිබූ රාත්‍රි තැපැල් දුම්රිය පීලි පැනීමෙන් අද (30) අලුයම සිට උඩරට මාර්ගයේ දුම්රිය ධාවන කටයුතුවලට බාධා එල්ල වී තිබුණි.
+The upcountry route railway route has been restored with the delegation of night mail train.
+
+The road was restored after the engine of the track train and Hatton railway maintenance sector employees, said the Railway Department.
+
+The night-railway train services were interrupted from the Kandyan road today (30).
 
 ◼️
 
 [Data](articles/9c69b392.json)
+
+[Extended Data](ext_articles/9c69b392.ext.json)
 
 ---
 
@@ -210,23 +266,31 @@ The department further stated that two short-distance trains have been cancelled
 
 [Data](articles/2b4abd7f.json)
 
+[Extended Data](ext_articles/2b4abd7f.ext.json)
+
 ---
 
-### කරණම් ගැසූ මෝටර් රථය
+### The car made
 
 *2024-06-30 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198314) · `si`
 
-නොර්වුඩ් සිට හැටන් දක්වා ධාවනය කළ මෝටර් රථයක් මාර්ගයෙන් ඉවතට පැන පහළට පෙරළීයාමෙන් එහි ගමන් ගත් කාන්තාවක් සහ තවත් පුද්ගලයෙකු තුවාල ලබා තිබේ.
+In a car accident on the Hatton-Norwood road, a woman with a new license drove from Norwood to Hatton, injuring herself and another passenger. They were admitted to the Basic Hospital of Dikoya.
 
-ඔවුන් දෙදෙනාව දික්ඔය මුලික රෝහල වෙත ඇතුළු කර ඇති බව නොර්වුඩ් පොලීසිය පැවසිය.
+🟩
 
-මෙම අනතුර ඊයේ (29) හැටන් - නොර්වුඩ් ප්‍රධාන මාර්ගයේ නොර්වුඩ් දියසිරිගම ප්‍රදේශයේදී සිදුවිය.
+A car driven from Norwood to Hatton and another was injured when rolled down the road.
 
-අලුතෙන් රියදුරු බලපත්‍රයක් ලබාගෙන තිබූ කාන්තාවක් විසින් මෙම මෝටර් රථය පදවා ඇති බව පොලීසිය පවසයි.
+The Norwood police said that two of them were inserted to the Basic Hospital of Dikoya.
+
+The accident occurred in the Hatton-Norwood main road, Norwood, Dasyasiyagoda.
+
+The car has been drove by a woman who had obtained a new driving license.
 
 ◼️
 
 [Data](articles/40b85aa3.json)
+
+[Extended Data](ext_articles/40b85aa3.ext.json)
 
 ---
 
@@ -246,47 +310,65 @@ Giving policy support and denying monetary stability has become mainstream in th
 
 [Data](articles/147d43c5.json)
 
+[Extended Data](ext_articles/147d43c5.ext.json)
+
 ---
 
-### නයිජීරියාවේ තැන තැන මරාගෙන මැරෙන ප්‍රහාර
+### Suicide attacks on the place in Nigeria
 
 *2024-06-30 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198313) · `si`
 
-නයිජීරියාවේ ස්ථාන කිහිපයක සිදුකළ මරාගෙන මැරෙන ප්‍රහාර හේතුවෙන් 18 දෙනෙක් මියගොස් 30 දෙනෙක් පමණ තුවාල කබා තිබේ.
+In Nigeria, suicide attacks in Borno Prefecture's Northeast targeted a funeral and hospital, killing 18 and injuring 30. These attacks are linked to Islamist extremists, contributing to the death of 40,000 and displacement of 2 million.
 
-එරට ඊසානදිග බොර්නෝ ප්‍රාන්තයේ මංගල උත්සවයක්, අවමංගල උත්සවයක් සහ රෝහලක් ඉලක්ක කර එම මරාගෙන මැරෙන ප්‍රහාර එල්ලකර තිබුණි.
+🟩
 
-මෙම ප්‍රාන්තයේ පසුගිය වසර 15 පුරා බෝකො හරාම් ඉස්ලාමීය අන්තවාදී කණ්ඩායම සටන්වැදී සිටින අතර ඒ හේතුවෙන් පුද්ගලයින් 40,000ක් මියගොස් තවත් මිලියන 2ක් පමණ අවතැන් වී තිබේ.
+Eighteen injuries were killed and 30 wounded were killed and 30 injured due to suicide attacks on several places in Nigeria.
+
+The suicide attacks were targeted at the Northeast Borno Prefecture, a funeral and hospital.
+
+Boslamic extremist extremist in this state has fighter and 40,000 people have been killed and another 2 million have been displaced.
 
 ◼️
 
 [Data](articles/7ba232ac.json)
 
+[Extended Data](ext_articles/7ba232ac.ext.json)
+
 ---
 
-### පිහිණුම් තටාකයේ ගිලී කුඩා දරුවෙක් ජීවිතක්ෂයට
+### Child killed in swimming pool
 
 *2024-06-30 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198312) · `si`
 
-ප්‍රදේශ කිහිපයකින් වාර්තා වූ දියේ ගිලීම් සිද්ධි 3කින් අවුරුදු 05ක කුඩා දරුවෙකු සහ තවත් අයෙක් මියගොස් ඇති අතර 14 හැවිරිදි සිසුවෙක් අතුරදන්ව තිබේ.
+In tragic incidents, a five-year-old boy from Colombo 09 drowned in a park pool, and a 14-year-old student from Mankulam went missing but was later found dead in the Iranamadu Reservoir. Additionally, a 56-year-old man from Ramboda disappeared and was found dead at Weligama Beach.
 
-කඳාන පොලිස් වසමේ උතුරු බටගොඩ ප්‍රදේශයේ පිහිටි උද්‍යානයක පිහිණුම් තටාකයක දිය නාමින් සිටි කුඩා දරුවෙකු දියේ ගිලී මියගොස් ඇත.
+🟩
 
-එසේ මියගොස් ඇත්තේ, දෙමටගොඩ, කොළඹ 09 ප්‍රදේශයේ පදිංචිව සිටි 05 හැවිරිදි දරුවෙකි.
+A five-year-old boy and another were killed in three incidents of drowning and another.
 
-එම දරුවා ඇතුළු තවත් දරුවන් කිහිපදෙනෙකු සමග පිහිණුම් තටාකයේ දිය නාමින් සිටියදී මෙසේ දියේ ගිලී ඇත.
+A small child drowned in a pool of a park in North Battiyoda, Kandana, North Batiyagoda.
 
-දරුවාගේ පියා විසින් දරුවාව ජාඇල ප්‍රාදේශීය රෝහලට ඇතුළත් කර වැඩිදුර ප්‍රතිකාර සඳහා රාගම රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇති බව පොලීසිය පවසයි.
+The deceased has been identified as a 5 year old resident of Colombo 09.
 
-මේ අතර මාන්කුලම්, ඉරණමඩු ජලාශයේ දිය නෑමට ගොස් සිටි සිසුන් 05 දෙනෙකුගෙන් එක් සිසුවෙකු දියේ ගිලී ඇතුරුදන් වී තිබේ.
+The child and several others, including a few children, were drowned.
 
-අතුරුදන් වී සිටින සිසුවා තිරුමුරුකණ්ඩි, මාන්කුලම ප්‍රදේශයේ පදිංචිව සිටි 14 හැවිරිදි සිසුවෙකි.
+The child's father was admitted to the Jaela Divisional Hospital and died on admission to the Ragama hospital for further treatment.
 
-මේ අතර වැලිගම පොලිස් වසමේ පැලෑන ප්‍රදේශයේදී වෙරළේ දියනාමින් සිටි පුද්ගලයෙකු දිය රළකට හසුවී අතුරුදන්ව ඇත.
+Meanwhile, one student drowned in the Iranamadu Reservoir, who had been drowned.
 
-...
+Disappeared student is a 14 year old student residing in the Mankulam area.
+
+Meanwhile, a man dropped at the Weligama Police Division in the Weligama Police Division has disappeared.
+
+The missing person was found in the Weligama Beach last night.
+
+The deceased has been identified as a 56 year old resident of Ramboda, Ramboda.
+
+◼️
 
 [Data](articles/9f049829.json)
+
+[Extended Data](ext_articles/9f049829.ext.json)
 
 ---
 
@@ -306,63 +388,93 @@ The Director General of the Department of Fisheries & Aquatic Resources, Susanth
 
 [Data](articles/c08a344b.json)
 
+[Extended Data](ext_articles/c08a344b.ext.json)
+
 ---
 
-### රෝගාතුර වී සිටින ධීවරයින් දෙදෙනාව බේරා ගැනීමට සිංගප්පුරු නැවක් සමත්වෙයි
+### Singapore ark to rescue two sick fishermen
 
 *2024-06-30 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198311) · `si`
 
-නාවික හමුදා මූලස්ථානයේ පිහිටි කොළඹ සමුද්‍රීය සෙවීම් හා මුදවා ගැනීම් සම්බන්ධීකරණ මධ්‍යස්ථානයේ සම්බන්ධීකරණයෙන් “ඩෙවොන් 5” බහුදින ධීවර යාත්‍රාවේ අසාධ්‍ය තත්ත්වයේ සිටි ධීවරයින් දෙදෙනෙක් ‘MV KOTA CAMIL’ නමැති සිංගප්පූරු ධජය යටතේ යාත්‍රා කරමින් තිබූ වෙළෙඳ නෞකාවක් මඟින් අද (30) උදෑසන මුදවා ගෙන තිබේ.
+A critical situation unfolded when two senior fishermen aboard a Sinhalese Fisheries vessel near Sri Lanka fell ill after consuming a poisonous substance. A Singapore-flagged MV vessel rescued them, and the Sri Lanka Navy's Vijayabahu is en route to provide further assistance. Unfortunately, four other fishermen have passed away. The Department of Fisheries and the Fisheries and Aquatic Resources alerted the Maritime Safety and Rescue Coordinating Center, leading to swift action from the Colombo Marine Search and Rescue Coordinating Center.
 
-එම බහුදින ධීවර යාත්‍රාවේ ධීවරයින් මුදවා ගැනීමේ මෙහෙයුම සඳහා වෛද්‍ය කණ්ඩායමක් සමඟ ඊයේ (29) සවස පිටත් වූ ශ්‍රී ලංකා නාවික හමුදාවේ විජයබාහු නෞකාව මේ වන විට එම මුහුදු ප්‍රදේශය වෙත ළඟා වෙමින් සිටියි.
+🟩
 
-තංගල්ල ධීවර වරායෙන් ධීවර කටයුතු සඳහා පිටත්ව ගොස් ඇති ධීවරයින් හය දෙනෙකු රැගත් “ඩෙවොන් 5” නමැති මෙරට බහුදින ධීවර යාත්‍රාවේ සිටි  ධීවරයින් පිරිස, එම මුහුදු ප්‍රදේශයේ පාවෙමින් ආ බෝතලයක තිබූ දියරයක් පානය කර එය විෂ වී, අසාධ්‍ය තත්වයට පත්ව තිබුණි.
+Two senior fishermen who were in critical pagan vessel, which was sailing under the Sinhalese Fisheries of the Sri Lanka Air Headquarters, has been rescued by a traded vessel, which was sailing under the 'MV'.
+
+The Vijayabahu, Sri Lanka Navy, who left the fishermen of the multi-day fishing operation, is now approaching the sea area.
+
+The fishermen on a multi-day fishing vessel carrying six fishermen from the Tangalle Fisheries Harbor have drank a liquid in the area floating and poisoned and critical.
+
+Four fishermen have died in the south of the Deep Sea, which is about 365 nautical miles (about 675 km), to assist in carrying out medical assistance to landThe Department of Fisheries and the Fisheries and Aquatic Resources was reported at the Maritime Sweet and Rescue Coordinating Center at the Naval Headquarters yesterday.
 
 ...
 
 [Data](articles/3565b6a5.json)
 
+[Extended Data](ext_articles/3565b6a5.ext.json)
+
 ---
 
-### මහරගම පොළ ඉදිරිපිට පිහි ඇනුමක්
+### Knives in front of Maharagama
 
 *2024-06-30 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198310) · `si`
 
-මහරගම නගරයේ දී තියුණු ආයුධයකින් පහර දී මනුෂ්‍ය ඝාතනයක් සිදුකිරීමට උත්සාහ කළ පුද්ගලයකු පොලිස් විශේෂ කාර්ය බළකාය මගින් අත්අඩංගුවට ගෙන තිබේ.
+In Maharagama, a 40-year-old man was stabbed and hospitalized. The attacker, also from Maharagama, was arrested by the Special Task Force (STF) after being found with a knife.
 
-මහරගම මහජන පොළ ඉදිරිපිට දී එම සැකකරු වෙනත් පුද්ගලයෙකුට තියුණු ආයුධයකින් පහර දෙමින් සිටියදී විශේෂ කාර්ය බළකායේ නිලධාරීන් විසින් දැඩි පරිශ්‍රමයක් යොදා අදාළ ඔහුව අත්අඩංගුවට ගෙන තිබුණි.
+🟩
 
-සැකකරු සන්තකයේ තිබී මත්කරල් කිහිපයක් සහ තියුණු ආයුධයක් ද විශේෂ කාර්ය බළකා භාරයට ගෙන ඇති අතර ඔහු 40 හැවිරිදි මහරගම ප්‍රදේශයේ පදිංචිකරුවෙකි.
+A person has been arrested by the STF personnel who was attacked with a sharp object in Maharagama.
 
-පිහි ඇනුමෙන් දැඩි ලෙස තුවාල ලැබු පුද්ගලයා ප්‍ර‍ථිකාර සදහා කළුබෝවිල රෝහලට ඇතුළත් කර ඇති බව වාර්තා වෙයි.
+He was arrested by the Special Task Force officials while the suspect was attacked by another person in front of the Maharagama.
+
+The STF and a sharp weapon have been taken into custody and a sharp weapon in possession of the suspect and is a 40 year old resident of Maharagama.
+
+The man who was severely injured in the knife stress has been admitted to the Kalubowila hospital for treatment.
 
 ◼️
 
 [Data](articles/71f0d93f.json)
 
+[Extended Data](ext_articles/71f0d93f.ext.json)
+
 ---
 
-### කෝලි සහ ෂර්මා විස්සයි විස්ස ජාත්‍යන්තර පිටියට සමුදෙති
+### Coli and Sharma Samayaka to T20 International
 
 *2024-06-30 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198309) · `si`
 
-ලෝක කුසලානය ජයග්‍රහණය කිරීමෙන් අනතුරුව ඉන්දීය කණ්ඩායමේ නායක රෝහිත් ෂර්මා සහ විරාත් කෝලි ප්‍රකාශ කළේ තමන් 20යි 20 ජාත්‍යන්තර ක්‍රිකට් පිටියට සමුදෙන බවය.
+Rohit Sharma and Virat Kohli, after leading India to victory in the World Cup, expressed their readiness for Twenty20 (T20) International cricket. Virat Kohli made his T20 debut on June 30, 2010, participating in 125 matches and scoring 4,188 runs. The 35-year-old Kohli also won the Player of the Tournament award at the 2021 T20 World Cup. Rohit Sharma, aged 37, debuted in T20 Internationals against England on September 19, 2007, playing 215 matches, scoring 4,231 runs, including five centuries and numerous half-centuries. His highest score in a T20 International match is 121.
 
-විරාත් කෝලි 20යි 20 ජාත්‍යන්තර වරම් හිමි කරගත්තේ 2010 වසරේද ජුනි 12 සිම්බාබ්වේ කණ්ඩායමට එරෙහිව පැවැති තරගයකදීය.
+🟩
 
-කෝලි 20යි 20 ජාත්‍යන්තර තරග 125කට මුහුණ දී ඇති අතර එම තරගවලදී රැස්කළ මුළු ලකුණු සංඛ්‍යාව 4,188කි.
+After winning the World Cup, the captain of the Indian team Rohith Sharma and Virat Kohli said they were cowarded at 20 and 20.
 
-35 හැවිරිදි කෝලි විසින් 20යි 20 ජාත්‍යන්තර තරගයකදී රැස්කර ඇති වැඩිම ලකුණු ප්‍රමාණය ලෙස වාර්තා වෙන්නේ 122කි.
+Virget Colli 20, 20 International Ordinance 20th June 2010 in 2010 in 2010.
 
-ඊයේ පැවති ලෝක කුසලාන 20යි 20 අවසන් මහා තරගයේ වීරයා සම්මානය දිනා ගැනීමටද විරාත් කෝලි සමත්විය.
+Trees 20 and 20 international competitions were faced with 125 international matches and the total score of 4,188 were scope.
 
-ඊයේ අවසන්වූ  20යි 20 ලෝක කුසලාන තරගාවලියේ මුල් තරගවලදී කෝලී අසාර්ථක වුවද අවසන් තරගයේදී ලකුණු 76ක් රැස් කරමින් අවශ්‍යම මොහොතේ සිය පිත්ත ක්‍රියාත්මක කළේ ඉන්දීය ඉනිම ඔසවා තබමිනි.
+The 35-year-old Ceylon was 122 years old.
 
-මේ අතර ඉන්දීය කණ්ඩායමේ නායක රෝහිත් ෂර්මා ඊයේ අවසන් තරගයෙන් අනතුරුව පැවැති මාධ්‍ය හමුවේදී තමන් 20යි 20 ජාත්‍යන්තර ක්‍රිකට් පිටියට සමුදෙන බව නිවේදනය කළේය.
+Virath Kohli won 20 World Cups yesterday and won the Award.
 
-...
+In the first matches of the 20 World Cup, Cole was failed to score 76 runs in the final and implemented his batting at the final.
+
+Meanwhile, the Indian team leader Rohit Sharma yesterday announced that he was 20 and 20 to the international cricket field.
+
+The 37-year-old Rohit Sharma was born in a match against England on September 19, 2007.
+
+At that time the Sharm faced 20 and 15 international matches, 4,231 were 4,231.
+
+The Sharma scored five centuries and has been a large number of six half centuries.
+
+The best score recorded by Sharma in a 2020 international match is 121.
+
+◼️
 
 [Data](articles/f24f5f5e.json)
+
+[Extended Data](ext_articles/f24f5f5e.ext.json)
 
 ---
 
@@ -2245,29 +2357,5 @@ The President congratulated Field Marshal Sarath Fonseka's service, saying that 
 [Data](articles/0ba87651.json)
 
 [Extended Data](ext_articles/0ba87651.ext.json)
-
----
-
-### 8 children were hospitalized
-
-*2024-06-29 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198272) · `si`
-
-Eight schoolchildren were hospitalized after consuming food from a stall in Thasekanamaduadamadu. The group includes one 9-year-old boy and seven girls. Police are investigating the incident.
-
-🟩
-
-Eight school children have been hospitalized due to a displeasure caused by eating a climb.
-
-The police said that these children have eaten castiches in Thasekanamaduadamadu, yesterday.
-
-Meanwhile, there are a 9-year-old boy and 7 girls, police said.
-
-The group is children in the Madhu and Madu police are conducting further investigations.
-
-◼️
-
-[Data](articles/61832d9f.json)
-
-[Extended Data](ext_articles/61832d9f.ext.json)
 
 ---

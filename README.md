@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 13:54:09**
+As of **2024-06-30 14:05:17**
 
 ## Newspaper Stats
 
-*Scraped **32,886** Articles*
+*Scraped **32,887** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 298
+colombotelegraphcom | 299
 dbsjeyarajcom | 300
 bbccomsinhala | 321
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,429
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,838 (99.9%) of 32,886 articles have been extended.
+32,851 (99.9%) of 32,887 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ According to Principal Commissioner R Srinivasa Naik, the investigation began wh
 ...
 
 [Data](articles/2b481dc8.json)
+
+[Extended Data](ext_articles/2b481dc8.ext.json)
 
 ---
 
@@ -76,37 +78,49 @@ Mr. Mawatha, Ranasinghe, a former Chief Justice. it. Mr. Mass and Ranasinghe.
 
 ---
 
-### ’’ඩෙවොන් 5’’ විෂ ශරීරගත වීමෙන් මියගිය ධීවරයින් සංඛ්‍යාව 5ක් දක්වා ඉහලට
+### '' Devon 5 '' The number of fishermen who died of toxication up to 5
 
 *2024-06-30 13:09:07* · [`adalk`](https://www.ada.lk/breaking_news/’’ඩෙවොන්-5’’-විෂ-ශරීරගත-වීමෙන්-මියගිය-ධීවරයින්-සංඛ්‍යාව-5ක්-දක්වා-ඉහලට/11-410519) · `si`
 
-මත්පැන් බව සිතා මුහුදේ පාවෙමින් තිබූ බෝතලයක වූ විෂ දියරයක් පානය කළ "ඩෙවොන් 5" බහුදින ධීවර යාත්‍රාවේ සිටි ධීවරයින් හය දෙනාගෙන් තවත් අයෙක් මේ වනවිට මියගොස් ඇතැයි ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුව තහවුරු කරයි.
+The Department of Fisheries confirmed six more deaths from a toxic substance found in bottles at sea, bringing the total to five. Two of the "Devon 5," crew members of a Singhore trade ship, were rescued but tragically, one has passed away. Additionally, the body of a sailor from the Sri Lanka Naval Ship, now under the Singapore flag, will be returned later today.
 
-ඒ අනුව මේ වන විට මියගොස් ඇති ධීවරයින් ගණන 5ක් වන අතර ඩෙවොන් 5 යාත්‍රාවේ අසාධ්‍යව සිටි දෙදෙනෙක්ව අද (30) දින සිංගප්පුරු වෙළෙඳ නෞකාවක් මගින් බේරාගෙන තිබුණි. ඉන් එක් අයෙක් මියගොස් ඇති බවට වාර්තා වූ බව ධීවර දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත පැවසීය.
+🟩
 
-මේ අතර  සිංගප්පූරු ධජය යටතේ රැගෙන එන අසාධ්‍ය ධීවරයා හා මියගිය ධීවරයාගේ මෘත ශරීරය ඊයේ සන්ද්‍යාවේ පිටත් වූ ශ්‍රී ලංකා නාවික නෞකා විජයබාහු නෞකාවට අද පස්වරු 6.00ට පමණ වන විට බාර ගැනීමට නියමිතව පවතී.
+The Department of Fisheries and Aquatic Resources has confirmed that another six fishermen were killed in a bottle floating in the sea.
+
+Accordingly, 5 fishermen have been killed and two of the Devon 5, a Singhore trade ship was rescued today (30).The Director General of the Fisheries Department Susantha Kahawatte said that one of them had died.
+
+Meanwhile, the body of the Sri Lanka Naval Ship, who has been brought under the Vijaya Vijayabahu, which was brought under the Singapore Flag yesterday, is due to be handed over at 6.00 pm.
 
 ◼️
 
 [Data](articles/b5f26dda.json)
 
+[Extended Data](ext_articles/b5f26dda.ext.json)
+
 ---
 
-### කාන්තාවක් ධාවනය කල මොටර් රථයක් බොක්කුවත් මතට පෙරලෙයි, දෙදෙනෙකුට තුවාල
+### A woman driven a woman on the bay, two injured
 
 *2024-06-30 13:00:10* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවක්-ධාවනය-කල-මොටර්-රථයක්-බොක්කුවත්-මතට-පෙරලෙයි--දෙදෙනෙකුට-තුවාල/11-410518) · `si`
 
-නොර්වුඩ් සිට හැටන් දක්වා ධාවනය කල මොටර් රථයක් මාර්ගයෙන් ඉවතට පැන බොක්කුවක් මතට පෙරලිමෙන් මොටර් රථයේ ගමන් ගත් කාන්තාවක් සහ තවත් පුද්ගලයෙකු තුවාල ලබා දික්ඔය මුලික රෝහල වෙත ඇතුලත් කර ඇති බව නොර්වුඩ් පොලිසිය පැවසිය.
+In a tragic accident near Dasyasirigama, a novice driver lost control of her car, colliding with a tractor. Both were rushed to Bacid Hospital. The incident, investigated by Norwood police, highlights the dangers of inexperienced driving.
 
-මෙම අනතුර සිදු වි ඇත්තේ  ඊයේ (29) දින පස්වරු 4 ට පමණ හැටන් නොර්වුඩ් ප්‍රධාන මාර්ගයේ නොර්වුඩ් දියසිරිගම ප්‍රදේශයේදිය.
+🟩
 
-නව රියදුරු බලපත්‍රයක් ලබාගෙන ඇති කාන්තාවක් විසින් මොටර් රථය ධාවනය කර ඇති බවත්, ධාවනය වෙමින් තිබු මොටර් රථය කාන්තාවගේ පාලනයෙන් මිදි මොටර් රථය මාර්ගයෙන් ඉවතට පැන මෙම අනතුර සිදු වි ඇති බවට සැකකරන බවයි අනතුර සම්බන්ධයෙන් පරික්ෂණ පවත්වන නොර්වුඩ් පොලිසිය කියා සිටියේ.
+Norwood police said that a motor vehicle and another person was admitted to the Bacid Hospital by a mortar vehicle to Hatton.
 
-අනතුරෙන් මොටර් රථයට දැඩි අලාභ හානි වි ඇති බවත්, අනතුර සම්බන්ධයෙන් නොර්වුඩ් පොලිසිය පරික්ෂණ පවත්වයි.
+The accident occurred in the Dasyasirigama area on the Dasiyirigama main road around 4 pm yesterday (29).
+
+The Nortwood police said that the motor was driven by a new driver's license and suspected that the road was driven by the lack of the woman's control.
+
+The mortgage vehicle has damaged severe losses and the Norwood police are conducting investigations into the accident.
 
 ◼️
 
 [Data](articles/2856fa5f.json)
+
+[Extended Data](ext_articles/2856fa5f.ext.json)
 
 ---
 
@@ -142,37 +156,49 @@ However, she still has no statement from the girl regarding the incident and she
 
 ---
 
-### எரிபொருள் விலையில் இன்றிரவு திருத்தம்
+### Correction tonight in fuel prices
 
 *2024-06-30 12:32:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலையில்-இன்றிரவு-திருத்தம்/175-339643) · `ta`
 
-எரிபொருள் விலை திருத்தம் இன்று (30) இரவு இடம்பெறும் என மின்சக்தி மற்றும் எரிசக்தி அமைச்சு தெரிவித்துள்ளது.
+Tonight's fuel price revision will occur as per the monthly schedule. If diesel prices decrease, private bus fares may remain unchanged despite a 5% reduction in bus fares effective from Monday due to previous fuel price adjustments.
 
-மாதாந்திர எரிபொருள் திருத்தத்தின் படி இந்த திருத்தம் இடம்பெறும் என அமைச்சின் அதிகாரி ஒருவர் தெரிவித்தார்.
+🟩
 
-எவ்வாறாயினும், டீசல் விலை இன்றிரவு குறைக்கப்பட்டால், பஸ் கட்டணங்களில் மீண்டும் விலையில் திருத்தம் செய்யப்படாது என தனியார் பஸ் உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது.
+The Ministry of Power and Energy said that the fuel prices revision will take place tonight.
 
-எரிபொருள் விலை திருத்தத்தின் பிரகாரம் பஸ் கட்டணம் 5 வீதத்தால் குறைக்கப்பட்டுள்ளதுடன் அது திங்கட்கிழமை (01) முதல் அமுலுக்கு வரவுள்ளது. குறைந்தபட்ச பேருந்து கட்டணம் ரூ. 28 என அறிவிக்கப்பட்டுள்ளது.
+According to a ministry official, the amendment will take place according to the monthly fuel amendment.
+
+However, if the diesel prices are reduced tonight, the private bus owners' association said it would not be revised at bus fares.
+
+Bus fare has been reduced by 5 percent according to the fuel price revision and it will come into effect on Monday (01). Minimum bus fare Rs.. Has been declared 28.
 
 ◼️
 
 [Data](articles/1968ad22.json)
 
+[Extended Data](ext_articles/1968ad22.ext.json)
+
 ---
 
-### பாலியல் துஷ்பிரயோகம்: கோடீஸ்வர வர்த்தகருக்கு பயணத் தடை
+### Sexual Abuse
 
 *2024-06-30 12:24:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலியல்-துஷ்பிரயோகம்-கோடீஸ்வர-வர்த்தகருக்கு-பயணத்-தடை/175-339642) · `ta`
 
-பாலியல் வன்கொடுமை செய்ததாகக் கூறப்படும் சம்பவம் தொடர்பில், கோடீஸ்வர வர்த்தகரான ரிச்சர்ட் பீரிஸ் குழுமத்தின் தலைவர் சேனா யத்தேஹகே நாட்டை விட்டு வெளியேறுவதற்கு  கோட்டை நீதவான் கோசல பயணத் தடை விதித்தார்.
+In a case involving allegations of sexual assault against businessman Sena Yadehake, Fort Magistrate Kosala has temporarily banned him from leaving Sri Lanka. This action follows a complaint filed by a young business analyst, claiming sexual abuse during a business meeting at a hotel in Kalupitiya. The Kaluppitti police initiated an investigation upon receiving the complaint and requested a travel ban on Yadehake. The magistrate has also instructed the police to update the court on the investigation's progress.
 
-கொள்ளுப்பிட்டியில் உள்ள நட்சத்திர ஹோட்டல் ஒன்றில் வியாபார விவகாரங்களை ஆராய சென்ற போது குறித்த கோடீஸ்வர வர்த்தகர் தன்னை பாலியல் வன்கொடுமை செய்ததாக கிடைக்கப்பெற்ற முறைப்பாட்டின் அடிப்படையில் விசாரணைகளை ஆரம்பித்துள்ளதாகக் கூறி கொள்ளுப்பிட்டி பொலிஸ் அதிகாரிகள் கோரிக்கையை ஏற்று வெளிநாட்டு பயணத்தடையை பிறப்பித்தனர்.
+🟩
 
-இளம் வணிகப் பகுப்பாய்வாளர் செய்த முறைப்பாடு தொடர்பான விசாரணையின் முன்னேற்றத்தை நீதிமன்றத்திற்கு தெரிவித்த கொள்ளுப்பிட்டி பொலிஸ் அதிகாரிகள், சுமார் ஒரு மாத காலமாக வெளிநாட்டில் இருந்த சேன யத்தேஹிகே இலங்கை திரும்பியதும் முறைப்பாட்டாளரை அழைக்கப்பட்டதாக தெரிவித்தனர். ரிச்சர்ட் பீரிஸ் குழுமத்தின் வர்த்தக விவகாரங்களை ஆய்வு செய்வதற்காக கொள்ளுப்பிட்டியில் உள்ள ஒரு நட்சத்திர ஹோட்டலில் தங்கியுள்ளார்.
+Fort Magistrate Kosala has banned the departure of a millionaire businessman Richard Peiris Group Chairman Sena Yadehake from leaving the country in connection with the alleged rape incident.
+
+The Kaluppitti police officers have issued a foreign ban on the request that the billionaire businessman has begun investigations on the complaint that he has been sexually assaulted when he went to explore business affairs at a star hotel in Kalupitiya.
+
+The Kaluppitti police officials informed the court the progress of the complaint made by the young business analyst and said that the Sena Yadehike, who was abroad for about a month, had called the complainant.. Richard Peiris is staying at a star hotel in Kaluppitti to investigate the business affairs of the Group.
 
 ...
 
 [Data](articles/1a1174db.json)
+
+[Extended Data](ext_articles/1a1174db.ext.json)
 
 ---
 
@@ -198,21 +224,29 @@ However, one of the two fishermen has also passed away leaving just one survivor
 
 ---
 
-### ஜனாதிபதிக்கு ‘மண்டை ஓடு சூனியம்’: 2 அமைச்சர்கள் கைது
+### President
 
 *2024-06-30 11:51:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜனாதிபதிக்கு-மண்டை-ஓடு-சூனியம்-2-அமைச்சர்கள்-கைது/50-339641) · `ta`
 
-ஜனாதிபதிக்கு மண்டை ஓட்டுடன் சூனியம் வைத்து சதி செய்தனர் என்றக் குற்றச்சாட்டின் பேரில், இரண்டு அமைச்சர்களுக்கு எதிராக கடும் நடவடிக்கைகள் எடுக்கப்பட்டுள்ளன.
+Two ministers in the Maldives, Fatimath Shamnas and Adam Rameez, were arrested for allegedly practicing witchcraft against President Mohammed Muiz, leading to widespread debate. This follows a history of "Billy magic" incidents, including a murder linked to witchcraft accusations and political unrest. Despite being legal, belief in witchcraft significantly impacts society, with potential penalties under Islamic law.
 
-மாலத்தீவு ஜனாதிபதி முகமது முய்ஸுவுக்கு பில்லி சூனியம் வைத்ததாக அந்நாட்டின் அமைச்சர்கள் 2 பேர் கைது செய்யப்பட்டிருப்பது பெரும் விவாதங்களை கிளப்பியிருக்கிறது.
+🟩
 
-அந்நாட்டில் ஜனாதிபதி தேர்தல் நடைபெற்றது. இந்த தேர்தலில், முகமது முய்ஸு புதிய ஜனாதிபதிபதியாக தேர்ந்தெடுக்கப்பட்டார். இவர் சீனாவுடன் நெருக்கம் காட்டி, இந்தியாவை அதிகம் பகைத்துக்கொண்டார். இதனால் மாலத்தீவு குறித்து இந்தியாவில் அதிகம் பேச்சு அடிப்பட்டது.
+Strict action has been taken against two ministers on charges of conspiracy to conspire to the president with a skull.
 
-இப்படி இருக்கையில், தற்போது மற்றொரு விவகாரம் குறித்து ஜனாதிபதி முகமது முய்ஸுவின் பெயர் அடிப்பட்டிருக்கிறது. அதாவது முய்ஸுவுக்கு சூனியம் வைத்ததாக அந்நாட்டு அமைச்சர் பாத்திமத் ஷம்னாஸை மற்றும் மற்றொரு அமைச்சரான ஆடம் ரமீஸ் என 2 அமைச்சர்களை பொலிஸார் கைது செய்துள்ளனர்.
+The arrest of two ministers of the country for allegedly bringing Billy to Maldivian President Mohammed Muizu has caused great debate.
+
+The presidential election was held in the country. In this election, Mohammed Muiz was elected as the new president. He was close to China and hated India. This resulted in the most talk about the Maldives in India.
+
+In this case, now the name of President Mohammed Muiz is on another issue. The police have arrested two ministers, Fatimad Shamnas and another minister, Adam Rameez, for allegedly witchcraft to Muiz.
+
+Fatimath Shamnas was the Minister of Environment, Climate Change and Energy of the Maldives. Both have been suspended from the post of Minister.
 
 ...
 
 [Data](articles/7617bb0c.json)
+
+[Extended Data](ext_articles/7617bb0c.ext.json)
 
 ---
 
@@ -262,19 +296,27 @@ Nineteen “seriously injured” people were taken to the regional capital Maidu
 
 ---
 
-### ஆணுறுப்பில் சேரும் பிளாஸ்டிக்: மொத்தமாக செயலிழக்கும் அபாயம்
+### Plastic Plastic: The risk of deactivation of bulk
 
 *2024-06-30 11:35:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/ஆணுறுப்பில்-சேரும்-பிளாஸ்டிக்-மொத்தமாக-செயலிழக்கும்-அபாயம்/57-339639) · `ta`
 
-ஆணுறுப்பில் பிளாஸ்டிக் இருப்பதை அமெரிக்காவைச் சேர்ந்த ஆய்வாளர்கள் கண்டுபிடித்துள்ளனர். அங்கு இருக்கும் இந்த மைக்ரோ பிளாஸ்டிக் துகள்கள் விறைப்புத்தன்மை பாதித்து ஆணுறுப்பைச் செயலிழக்க வைக்கவும் கூட வாய்ப்புகள் இருப்பதாக ஆய்வாளர்கள் எச்சரிக்கிறார்கள். நாம் சாப்பிடப் பயன்படுத்தும் பிளாஸ்டிக் மூலமாகவே இவை உடலுக்குள் செல்வதாகவும் ஆய்வாளர்கள் எச்சரித்துள்ளனர்.
+Researchers have discovered microplastic particles in the penises of five men undergoing surgery for erectile dysfunction, marking the first time such particles have been found in this area. These tiny plastics, ranging from 0.5mm to 0.002mm, could potentially interfere with blood flow during erections, highlighting a previously unknown health risk associated with widespread plastic use. The study, published in the Sexual Medicine Journal, warns that these microplastics, often ingested through water and food packaged in plastic, could lead to more severe health issues, including heart attacks.
 
-இப்போது உலகில் கிட்டதட்ட எங்குப் பார்த்தாலும் பிளாஸ்டிக் என்றே இருக்கிறது. பிளாஸ்டிக் மூலம் சில நன்மைகள் இருந்தாலும்.. அதனால் சரி செய்யவே முடியாத பல தீமைகளும் இருக்கவே செய்கிறது.
+🟩
 
-பிளாஸ்டிக் பிரச்சினையைச் சரி செய்ய முயற்சிகள் நடந்தாலும் அவை பெரியளவில் கை கொடுக்கவில்லை. இந்த பிளாஸ்டிக் பிரச்சினை அடுத்த கட்டத்திற்குச் சென்றுவிட்டதைக் காட்டும் நிகழ்வு ஒன்று இப்போது நடந்துள்ளது.
+America researchers have discovered the presence of plastic in the penis. Researchers warn that these micro plastic particles are also likely to affect the erection and cause the penis inactivation. Researchers have warned that they go into the body through plastic we use to eat.
+
+Wherever you look at the world now is plastic. Although there are some benefits with plastic.. So there are many disadvantages that cannot be fixed.
+
+Although attempts to correct the plastic problem, they do not lend a large hand. There is now an event to show that the plastic issue has gone to the next level.
+
+Penis: ie, for the first time, the microfluctics have been found in the penis.. Britain's The Guardian News Agency has reported that it is dangerous to affect even erection. The results of the study have also been released in your Sexual Medicine Journal.
 
 ...
 
 [Data](articles/82dfda1f.json)
+
+[Extended Data](ext_articles/82dfda1f.ext.json)
 
 ---
 
@@ -352,23 +394,29 @@ Maharagama Police is conducting further investigations related to the incident.
 
 ---
 
-### மிளகாயில் ஐஸ்கிரீம் தயாரிப்பு
+### Ice cream preparation of chili
 
 *2024-06-30 10:27:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிளகாயில்-ஐஸ்கிரீம்-தயாரிப்பு/175-339632) · `ta`
 
-இந்த தயாரிப்பு விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சின் கீழ் உள்ள விவசாய துறை நவீனமயமாக்கல் திட்டத்தின் தொழில்நுட்ப மற்றும் நிதி பங்களிப்பின் கீழ் உற்பத்தி செய்யப்பட்டுள்ளது.
+Inventor Lasantha Ruwan Ladangilaka, under the Agricultural Department's support, created chili ice cream, combining sweetness with spice. Guided by the University of Uva's Food Science faculty, it's set to hit markets, catering to both children and adults' tastes.
 
-வெலிமட தரகல லசந்த ருவன் லங்காதிலக என்ற கண்டுபிடிப்பாளரே இவ்வாறு மிளகாயில் இருந்து ஐஸ்கிரீமை தயாரித்துள்ளார்.
+🟩
 
-விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர்  மஹிந்த அமரவீர மற்றும் விவசாய இராஜாங்க அமைச்சர் மொஹான் பிரியதர்ஷன டி சில்வா ஆகியோருக்கு மிளகாய் ஐஸ்கிரீம் வழங்கப்பட்டது.
+This product has been produced under the technical and financial contribution of the Agricultural Department of Agriculture and Plantation Industries.
 
-இந்த மிளகாய் ஐஸ்கிரீம் பெறுமதி சேர்க்கப்பட்ட பொருளாக சந்தைக்கு அறிமுகம் செய்யப்படவுள்ளதாகவும் இனிப்பு மற்றும் காரமான மிளகாயை ஒன்றாக இணைத்து புதிய சுவையை அனுபவிக்க முடியும் எனவும் லங்காதிலக தெரிவித்தார்.
+The inventor of the Welimada brokerage Lasantha Ruwan Ladangilaka has made the ice cream from the chilli.
 
-ஊவா பல்கலைக்கழகத்தின் உணவு விஞ்ஞான மற்றும் தொழிநுட்ப பீடத்தின் வழிகாட்டுதலின் கீழ், இந்த சில்லி ஐஸ்கிரீம் செய்முறை குறித்து ஆய்வுகள் மேற்கொள்ளப்பட்டு, அந்த செய்முறை வெற்றியடைவதால், இந்த தயாரிப்பு சந்தைக்கு வழங்க ஏற்பாடுகள் செய்யப்பட்டுள்ளன.
+Chilli ice cream was given to Agriculture and Plantation Industries Minister Mahinda Amaraweera and Agriculture Minister Mohan Priyadarshana de Silva.
+
+Langilaka said that the chilli ice cream value will be introduced to the market and the sweet and spicy chilli can be combined with the new flavor.
+
+Under the guidance of the Food Science and Technology Faculty of the University of Uva University, this roulette ice cream recipe has been conducted and arrangements have been made to provide the product to the market as the recipe is successful.
 
 ...
 
 [Data](articles/51e79908.json)
+
+[Extended Data](ext_articles/51e79908.ext.json)
 
 ---
 
@@ -394,17 +442,23 @@ The night-railway train services were interrupted from the Kandyan road today (3
 
 ---
 
-### மலையக ரயில் சேவை வழமைக்குத் திரும்பியது
+### Mountain Rail Service returned to normal
 
 *2024-06-30 10:17:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-ரயில்-சேவை-வழமைக்குத்-திரும்பியது/76-339630) · `ta`
 
-பதுளையில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த இரவு அஞ்சல் புகையிரதம் கலபடை மற்றும் இங்குருஓயா புகையிரத நிலையங்களுக்கு இடையில்  ஞாயிற்றுக்கிழமை (30) அதிகாலை தடம்புரண்டது.
+Disruption occurred on the Badulla-Colombo Fort route between Galapadi and I Eonor Oya stations on Sunday morning. The railway traffic on the hill railway line was affected but has since returned to normal.
 
-இந்த நிலைமைகள் காரணமாக மலையகப் புகையிரதப் பாதையில் இயங்கும் புகையிரதப் போக்குவரத்தில் இடையூறு ஏற்பட்டுள்ளதாகவும், புகையிரதம் மீண்டும் தடம் ஏற்றப்பட்டதன் பின்னர் தற்போது ரயில் போக்குவரத்து வழமைக்குத் திரும்பியுள்ளதாகவும் அந்த அதிகாரி மேலும் தெரிவித்தார்.
+🟩
+
+The night from Badulla to Colombo Fort was disrupted between the Galapadi and the I Eonor Oya Railway Stations on Sunday morning.
+
+The official said that due to these conditions, the railway traffic on the hill railway line has been disrupted and the train has now returned to normal after the railway traffic.
 
 ◼️
 
 [Data](articles/42969658.json)
+
+[Extended Data](ext_articles/42969658.ext.json)
 
 ---
 
@@ -428,17 +482,23 @@ The department further stated that two short-distance trains have been cancelled
 
 ---
 
-### එළැඹෙන සතියේ හිරුණිකාගෙන් අභියාචනයක්
+### Appeal from Hirunika in the next week
 
 *2024-06-30 10:13:51* · [`adalk`](https://www.ada.lk/breaking_news/එළැඹෙන-සතියේ-හිරුණිකාගෙන්-අභියාචනයක්/11-410513) · `si`
 
-හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට නියමකල සිරදඬුවමට එරෙහිව එළැඹෙන සතියේ අභියාචනාධිකරණය හමුවේ අභියාචනයක් ගොනුකරන බව ඇයගේ නීතිඥයින් පවසයි.
+Hirunika Premachandra plans to appeal her three-year prison sentence from 2015 allegations within a week. Her lawyers confirm the move against the Colombo High Court ruling.
 
-පසුගිය 2015 වසරේදී දී තරුණයකු පැහැරගෙන ගොස්  සිරකර තැබීමේ චෝදනාව සම්බන්ධයෙන් හිටපු පාර්ලිමේන්තු මන්ත්‍රිනී හිරුණිකා ප්‍රේමචන්ද්‍රට කොළඹ මහාධිකරණය පසුගිය 28දින බරපතළ වැඩසහිත වසර තුනක සිර දඬුවම් නියම කෙරුණු අතර. විත්තිකාර හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය චෝදනා 18කට වරදකාරිය කෙරුණු අතර එම එක් එක් චෝදනාවට රුපියල් විසිදහස බැගින් දඩ නියම කෙරුණි.
+🟩
+
+Her lawyers say that Hirunika Premachandra will file a appeal to the Court of Appeal against the sentence of prison.
+
+Former MP Hirunika Premachandra for the allegation of a youth in the last year 2015, the Colombo High Court was sentenced to three years in prison.Ms. Hirunika Premachandra was conquered by 18 accusations and each charge was fined Rs.
 
 ◼️
 
 [Data](articles/d19caee4.json)
+
+[Extended Data](ext_articles/d19caee4.ext.json)
 
 ---
 
@@ -466,23 +526,31 @@ The car has been drove by a woman who had obtained a new driving license.
 
 ---
 
-### நடுக்கடலில் உயிரிழந்தவர்களின் எண்ணிக்கை அதிகரித்தது
+### The number of casualties in the Mediterranean
 
 *2024-06-30 10:03:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடுக்கடலில்-உயிரிழந்தவர்களின்-எண்ணிக்கை-அதிகரித்தது/175-339628) · `ta`
 
-கடலில் மிதந்த பாட்டிலில் இருந்த திரவத்தை மதுபானம் என கருதி அருந்தி உயிரிழந்தவர்களின் எண்ணிக்கை நான்காக அதிகரித்துள்ளதுடன் மேலும் இருவர் ஆபத்தான நிலையில் உள்ளதாக இலங்கை கடற்படை தெரிவித்துள்ளது.
+In the Mediterranean, the Sri Lankan navy reported four deaths due to consuming sea water after a liquor spill. Two fishermen were rescued and taken to Singapore for treatment. The Director General of Fisheries mentioned that the Devon 5 boat, sailing from Tangalle, faced this issue due to its distance from shore, receiving only emergency aid over radio. Efforts are underway to reach the remaining crew safely.
 
-இதேவேளை, மோசமாக பாதிக்கப்பட்ட இரு மீனவர்களும் சிங்கப்பூர் வணிகக் கப்பலில் ஏற்றிச் செல்லப்பட்டு அவசர சிகிச்சை அளிக்கப்பட்டு வருவதாக கடற்படைப் பேச்சாளர் தெரிவித்தார்.
+🟩
 
-தங்காலை மீன்பிடித் துறைமுகத்திலிருந்து கடலுக்குச் சென்ற டெவோன் 5 என்ற மீன்பிடிப் படகின் மீனவர்களே இந்த அவலநிலையை எதிர்கொண்டதாக கடற்றொழில் மற்றும் நீரியல் வளங்கள் திணைக்களத்தின் பணிப்பாளர் நாயகம் சுசந்த கஹவத்த தெரிவித்துள்ளார்.
+The Sri Lankan navy said the number of people died of drinking water in the sea of ​​liquor, which was floating in the sea, has increased to four.
 
-தகவல் தொடர்பு சாதனங்கள் மூலம் அவசர முதலுதவிக்கான வழிமுறைகளை மருத்துவக் குழுக்கள் வழங்கியுள்ளதாகவும், ஆழ்கடல் பகுதியில் உள்ளதால் அவர்களை மீட்க மற்றொரு கப்பலை கடலுக்கு அனுப்ப போதிய கால அவகாசம் இல்லை என்றும் அவர் கூறினார்.
+Meanwhile, two of the poor fishermen have been shipped to a Singapore business vessel and are being treated in emergency, the naval spokesman said.
 
-அவர்களை அருகில் உள்ள கப்பலில் ஏற்றி கரைக்கு கொண்டு வர முயற்சிகள் மேற்கொள்ளப்பட்டு வருவதாகவும் அவர் கூறினார்.
+Director General of the Department of Fisheries and Aquatic Resources, Susantha Kahawatta said that the fishermen of the Devon 5 fishing boat, who went to sea from the Tangalle fishing harbor.
 
-...
+He said that medical teams have provided emergency first aid instructions through communication equipment and that there is insufficient time to send another ship to the sea to rescue them as it is in the deep sea.
+
+He also said that efforts are being made to carry them to the nearest ship and bring them to shore.
+
+The incident was said to have occurred when the boat was 320 nautical miles (592.64 km) from the Sri Lankan coast.. Remble
+
+◼️
 
 [Data](articles/2ebb01cd.json)
+
+[Extended Data](ext_articles/2ebb01cd.ext.json)
 
 ---
 
@@ -528,29 +596,43 @@ Boslamic extremist extremist in this state has fighter and 40,000 people have be
 
 ---
 
-### ඩෙවොන් 5 යාත්‍රාවේ ධිවරයන් දෙදෙනෙක් බේරා ගැනෙයි
+### Two Coopers Save Two Dveon 5
 
 *2024-06-30 09:31:49* · [`adalk`](https://www.ada.lk/breaking_news/ඩෙවොන්-5-යාත්‍රාවේ-ධිවරයන්-දෙදෙනෙක්-බේරා-ගැනෙයි/11-410512) · `si`
 
-නාවික හමුදා මූලස්ථානයේ පිහිටි කොළඹ සමුද්‍රීය සෙවීම් හා මුදවා ගැනීම් සම්බන්ධීකරණ මධ්‍යස්ථානයේ සම්බන්ධීකරණයෙන් “Devon 5” බහුදින ධීවර යාත්‍රාවේ අසාද්‍ය තත්වයේ සිටි ධීවරයින් දෙදෙනෙක් (02) ‘MV KOTA CAMIL’ නමැති සිංගප්පූරු ධජය යටතේ යාත්‍රා කරමින් තිබූ වෙළඳ නෞකාවක් මඟින් අද දින (2024 ජුනි 30) උදෑසන මුදවා ගැනීමට කටයුතු කෙරුණු අතර, “Devon 5” බහුදින ධීවර යාත්‍රාවේ ධීවරයින් මුදවා ගැනීමේ මෙහෙයුම සඳහා වෛද්‍ය කණ්ඩායමක් සමඟ 2024 ජුනි මස 29 වන දින සන්ද්‍යාවේ පිටත් වූ ශ්‍රී ලංකා නාවික නෞකා විජයබාහු නෞකාව මේ වන විට එම මුහුදු ප්‍රදේශය වෙත ළඟා වෙමින් සිටියි.
+In a tragic incident off the coast of Sri Lanka, two fishermen died after consuming a mysterious substance found in a floating bottle. The Sri Lanka Maritime Safety and Rescue Coordination Center responded swiftly, deploying naval ships and coordinating rescue efforts. Despite initial challenges, all surviving fishermen were rescued, with two being treated onboard the Sri Lanka Naval Ship Wijayabahu. This incident underscores the dangers faced by fishermen and the importance of swift and coordinated rescue operations.
+
+🟩
+
+Two fishermen who were unprotected by two fishermen from the Sri Lanka Maritime Savings and Rescue Coordination at the Naval Headquarters.Steps were taken to redeem the morning, and the Sri Lanka Naval Ship, which was leaving the Fisheries of the Fisheries of the Year 29, is currently reaching the sea area.
+
+The fishermen on a multi-day fishing vessel in Sri Lanka with six (Registration No. Imul-A-0909 Tle), the two fishermen who have departed from the Tangalle Fisheries Harbor have drank a liquid from a bottle floating in the sea areaTwo (02) fishermen have been killed and two (02) fishermen have been killed in the south of Sri Lanka.The Department of Fisheries and Aquatic Resources was notified by the Department of Fisheries and Aquatic Resources, to assist in the land, to assist in the land and the Department of Fisheries and Aquatic Resources.
 
 ...
 
 [Data](articles/29fe2924.json)
 
+[Extended Data](ext_articles/29fe2924.ext.json)
+
 ---
 
-### விராட் கோலி ஓய்வு
+### Virat Kohli rest
 
 *2024-06-30 09:27:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/விராட்-கோலி-ஓய்வு/44-339626) · `ta`
 
-ஐக்கிய அமெரிக்கா, மேற்கிந்தியத் தீவுகளில் நடைபெற்று முடிந்த சர்வதேச கிரிக்கெட் சபையின் இருபதுக்கு – 20 உலகக் கிண்ணத்துடன் இருபதுக்கு – 20 சர்வதேசப் போட்டிகளிலிருந்து இந்தியாவின் விராட் கோலி ஓய்வு பெற்றுள்ளார்.
+Virat Kohli, aged 35, has announced his retirement from T20 Internationals, including matches against the US and West Indies. Known for his debut in 2010, he amassed 4,188 runs in 100 games, showcasing his prowess in this format.
 
-இருபதுக்கு – 20 சர்வதேசப் போட்டிகளில் 2010ஆம் ஆண்டு அறிமுகத்தை மேற்கொண்ட 35 வயதான கோலி, 125 போட்டிகளில் 100 பந்துகளில் 137.04 ஓட்டங்கள் என்ற வேகத்தில் 4,188 ஓட்டங்களைப் பெற்றிருந்தார்.
+🟩
+
+India's Virat Kohli has retired from the Twenty20 Internationals of the United States and the West Indies with the Twenty20 World Cup with the Twenty20 World Cup.
+
+The 35 -year -old Kohli, who made his debut in 2010 in twenty -20 internationals, scored 4,188 runs off 100 balls at 100 balls.
 
 ◼️
 
 [Data](articles/3763f644.json)
+
+[Extended Data](ext_articles/3763f644.ext.json)
 
 ---
 
@@ -789,6 +871,20 @@ The best score recorded by Sharma in a 2020 international match is 121.
 [Data](articles/f24f5f5e.json)
 
 [Extended Data](ext_articles/f24f5f5e.ext.json)
+
+---
+
+### East-Timor Today & The United Nations’ Contribution
+
+*2024-06-30 08:21:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/east-timor-today-the-united-nations-contribution/) · `en`
+
+In the world today, there is a prominent trend to promote small nations as strong and powerful countries within the world’s global agenda. According to that trend, we can identify East-Timor (now Timor-Leste) as one of the robust nations in the international scene. This is also the intention of the country, and the present President Jose Ramos-Horta who in fact visited Sri Lanka in 1996 and met with some of the progressive political leaders. He also conducted human rights training for several young social activists and leaders.
+
+Timor-Leste is a Southeast Asian country which was brutally invaded and ruled by Indonesia for more than 20 years. Before the Indonesian invasion, Timor-Leste was colonized by Portuguese formally since 1702, but their first presence was in 1515.
+
+...
+
+[Data](articles/56d62b44.json)
 
 ---
 
@@ -2149,37 +2245,5 @@ The International Search and Recovery Organization, Magnus, has shared a post on
 [Data](articles/cafbec14.json)
 
 [Extended Data](ext_articles/cafbec14.ext.json)
-
----
-
-### More information about the accident arrested by Yashoda Range Bandara
-
-*2024-06-29 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198282) · `si`
-
-UNP General Secretary Palitha Range Bandara was arrested by his son after an accident near Karuwalagaswewa, where both were traveling in separate vehicles. The incident occurred around 4:30 am, resulting in serious injuries to the three-wheeler driver, who was later hospitalized. This event follows a previous accident involving Yashoda Range Bandara in 2018, leading to his remand.
-
-🟩
-
-UNP General Secretary Palitha Range Bandara has been arrested by the son of UNP General Secretary Palitha Range Bandara.
-
-The car he was traveling in a three-wheeler and three-wheeler driver was seriously injured.
-
-The accident had taken place near Karuwalagaswewa 07 Poya in Karuwalagaswewa 07 town around 4.30 am today.
-
-The son of UNP General Secretary Palitha Range Bandara was tied up in front of the march.
-
-Three-wheeler driver, who was seriously injured in the accident, has been admitted to the Puttalam Base Hospital.
-
-The two drivers were traveled at the car and three wheelers at the time of the accident.
-
-Palitha Range Bandara was arrested by Karuwalagaswewa Police.
-
-Yashoda Range Bandara was remanded in connection with an accident in 2018.
-
-◼️
-
-[Data](articles/171f7a68.json)
-
-[Extended Data](ext_articles/171f7a68.ext.json)
 
 ---

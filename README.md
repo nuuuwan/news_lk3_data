@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 17:35:10**
+As of **2024-06-30 17:55:35**
 
 ## Newspaper Stats
 
-*Scraped **32,920** Articles*
+*Scraped **32,922** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,926
 dailyftlk | 2,015
 adalk | 2,923
 adaderanalk | 3,753
-tamilmirrorlk | 3,890
+tamilmirrorlk | 3,892
 dailymirrorlk | 4,733
 virakesarilk | 5,122
 adaderanasinhalalk | 5,439
@@ -26,55 +26,107 @@ adaderanasinhalalk | 5,439
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,916 (100.0%) of 32,920 articles have been extended.
+32,920 (100.0%) of 32,922 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
 
-### බීමත් රියදුරා දුම්රිය නවතා බැස පළායයි
+### மைதானத்தின் மண்ணை சாப்பிட்ட ரோகித்
+
+*2024-06-30 17:27:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/மைதானத்தின்-மண்ணை-சாப்பிட்ட-ரோகித்/44-339658) · `ta`
+
+அமெரிக்கா மற்றும் வெஸ்ட் இண்டீசில் நடைபெற்று முடிந்த 9-வது டி20 உலகக்கோப்பை தொடரில் ரோகித் சர்மா தலைமையிலான இந்திய அணி சாம்பியன் பட்டம் வென்றது. 17 ஆண்டுகள் கழித்து டி20 உலகக்கோப்பை தொடரில் இந்தியா சாம்பியன் பட்டம் வென்றதை ரசிகர்கள் உற்சாகமாக கொண்டாடி வருகின்றனர்.
+
+ரோகித் சர்மா தலைமையிலான இந்திய அணி ஐ.சி.சி. டெஸ்ட் சாம்பியன்ஷிப் மற்றும் 50 ஓவர் உலகக்கோப்பை தொடர்களின் இறுதிப்போட்டிகளில் தோல்வியை தழுவியிருந்தது. இதனால் உணர்ச்சி வசப்பட்ட ரோகித், இந்த வெற்றியை நினைவு கூறும் வகையில் பார்படாஸ் மைதானத்தின் மண்னை சாப்பிட்டார். இந்த வீடியோ சமூக வலைதளங்களில் வைரலானது.
+
+◼️
+
+[Data](articles/398d9202.json)
+
+---
+
+### The drunk driver stops the train and get the post
 
 *2024-06-30 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198330) · `si`
 
-අද (30) කොළඹ සිට මහනුවර බලා පෙව 10.40ට ධාවනය ආරම්භ වූ දුම්රියේ රියදුරා අධික ලෙස මත්පැන් පානය කර කලබලකාරී ලෙස හැසිරී ඇති බව වාර්තා වෙයි.
+A drunk driver caused chaos on a train journey from Colombo to Kandy, leading to his arrest by passengers before being handed over to the Railway Security Division. The incident delayed the train's arrival in Kandy, reaching at 10:30 PM instead of the scheduled 6:40 PM.
 
-ඔහු දුම්රිය මහනුවර නගරයට ආසන්න සුදුහුම්පොල පෙදෙසේ ස්ථානයක නවතා දුම්රියෙන් බැස පළායද්දී දුම්රියේ සිටි මගීන් ඔහුව ලුහුබැඳ ගොස් අල්ලාගෙන සහායක රියදුරා යොදවා දුම්රිය නුවර දුම්රිය ස්ථානයට තෙක් ධාවනය කර තිබේ.
+🟩
 
-පසුව එම බීමත් රියදුරාව දුම්රිය ප්‍රවාහන පරීක්ෂක නිලධාරියා මාර්ගයෙන් දුම්රිය ආරක්ෂක අංශයට භාරදීමට පියවර ගනු ලැබීය.
+It is reported that the driver of the train who started traveling from Colombo to Kandy today (30) has opened the driver of the train.
 
-මෙම දුම්රිය මහනුවරට ළඟාවීමට නියමිතව තිබුණේ පව 1.40ටය.  එහෙත් දුම්රිය පැමිණියේ සවස 2.30ට බව මගීන් පැවසීය.
+The passengers on the train had pursued him and seized him and was deployed to the train to the railway station.
+
+The drunk driver was handed over to the Railway Security Division through the Railway Security Officer.
+
+The trains were to reach Kandy to Kandy 1.40.  එහෙත් දුම්රිය පැමිණියේ සවස 2.30ට බව මගීන් පැවසීය.
 
 ◼️
 
 [Data](articles/c8788e6d.json)
 
+[Extended Data](ext_articles/c8788e6d.ext.json)
+
 ---
 
-### ஆயரின் கையில் கடிவாளம்
+### Pastor
 
 *2024-06-30 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/187316) · `ta`
 
-மன்னாரில் முன்னெடுக்கப்படும் திட்டங்களுக்கு உள்ள இடையூறைக் களைவதற்கு, மன்னார் ஆயரைப் பயன்படுத்திக் கொள்வதற்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க முற்பட்டால் அது ஆச்சரியமல்ல
+President Ranil Wickremesinghe may have enlisted Mannar Bishop's help to resolve project disruptions in Mannar, which isn't unexpected.
+
+🟩
+
+It is not surprising if President Ranil Wickremesinghe sought to use the Mannar Bishop to eliminate the disruption of the projects in Mannar.
 
 ◼️
 
 [Data](articles/f548a9ea.json)
 
+[Extended Data](ext_articles/f548a9ea.ext.json)
+
 ---
 
-### රවින්ද්‍ර ජඩේජා ත් යයි
+### Ravindra goes off
 
 *2024-06-30 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198329) · `si`
 
-ඉන්දීය කණ්ඩායමේ සුපිරි තුන් ඉරියව් ක්‍රීඩක රවින්ද්‍ර ජඩේජා තමා විස්සයි විස්ස ජාත්‍යන්තර පිටියෙන් සමුගන්නා බව නිවේදනය කර තිබේ.
+Ravindra Jadeja, aged 35, announces his international cricket retirement, highlighting his memorable contributions to the Indian team, especially in Test and ODI formats.
 
-35 හැවිරිදි වියේ පසුවන ජඩේජා පවසන්නේ තමා ක්‍රීඩා කළ ඉන්දීය කණ්ඩායමට 20යි 20 ලෝක කුසලානය දිනා ගැනීමට හැකිවීම සදා අමතක නොවන ජයග්‍රහණයක් බවයි.
+🟩
 
-තමා ටෙස්ට් සහ එක්දින ජාත්‍යන්තර තරග සඳහා තවදුරටත් ඉන්දියාව නියෝජනය කරන බව ඔහු පවසයි.
+Ravindra Jadeja has announced his retirement from the International Grounds in the International Grounds.
+
+Jadeaja, who is 35, says that he is an unforgettable victory for the Indian team that he has played.
+
+He says that India is still represented in Test and ODIs.
 
 ◼️
 
 [Data](articles/7c91ea28.json)
+
+[Extended Data](ext_articles/7c91ea28.ext.json)
+
+---
+
+### மிதந்த போத்தலை திறந்து   அருந்திய ஐவர் பலி
+
+*2024-06-30 17:05:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிதந்த-போத்தலை-திறந்து-அருந்திய-ஐவர்-பலி/175-339657) · `ta`
+
+சர்வதேச கடலில் ஆபத்தான நிலையில் இருந்த 6 மீனவர்களில் 5 பேர் உயிரிழந்துள்ளதாகவும், மற்றைய மீனவரை காப்பாற்ற கடற்படை வைத்தியர் உட்பட கடற்படை குழு முயற்சித்து வருவதாக கடற்படை பேச்சாளர் ​கப்டன் கயான் விக்ரமசூரிய தெரிவித்துள்ளார்.
+
+தங்காலை துறைமுகத்தில் இருந்து கடந்த 4ஆம் திகதி மீன்பிடி நடவடிக்கைகளுக்காக 6 மீனவர்களை ஏற்றிக்கொண்டு "டெவோன் 5" என்ற பல்நாள் மீன்பிடிக் கப்பல் சென்றது.
+
+தங்காலை துறைமுகத்தில் இருந்து சுமார் 675 கிலோமீற்றர் தொலைவில் சர்வதேச ஆழ்கடலில் மீன்பிடி நடவடிக்கையில் ஈடுபட்டு வந்த மீனவர்கள் கடலில் மிதந்த மதுபான போத்தலை குடித்துள்ளனர். அதன் பின்னரே ஆபத்தான நிலையில் விழுந்துள்ளனர்.
+
+கடற்படையின் கூற்றுப்படி, பல நாள் கப்பலின் கேப்டன் திரவத்தை குடித்த சில நிமிடங்களில் இறந்தார். ஏனைய நால்வரும் அதன் பின்னர் இறந்துவிட்டனர்.
+
+கடற்படைத் தலைமையகத்தில் அமைந்துள்ள கொழும்பு கடல்சார் தேடல் மற்றும் மீட்பு ஒருங்கிணைப்பு நிலையத்தின் ஊடாக கடற்றொழில் மற்றும் நீரியல் வளத் திணைக்களம் கடற்படைத் தலைமையகத்திற்கு ஒரு செய்தியை அனுப்பியிருந்தது.
+
+...
+
+[Data](articles/0d40716f.json)
 
 ---
 
@@ -128,15 +180,21 @@ The videos shown by the two of them threatened the officers with the complaint w
 
 ---
 
-### தொங்கு பாலத்தை கடந்துள்ள குழந்தை
+### Child
 
 *2024-06-30 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/187313) · `ta`
 
-ஆபத்தான் தொங்கு பாலத்திலிருந்து இலங்கைத் தாய்திருநாடு எனும் குழந்தையை நான் மிக பாதுகாப்பாக அழைத்து வந்துள்ளேன். இப்போது என்ன நடக்கின்றது? குழந்தையை காக்க எந்த ஆதரவையும் தராத குழுக்கள் இப்போது குழந்தைக்கு உரிமை கொண்டாடுகிறார்கள். சரியான பாதையில் நான் சென்ற காரணத்தினாலேயே குழந்தையை காப்பாற்ற முடிந்தது. இப்போது அதிகாரத்துக்காக போராடும் குழுக்களை நாட்டு மக்கள் அடையாளம் காண வேண்டும்.
+After rescuing the child from the Hanging Bridge, the situation has escalated as opposing groups claim the child. Despite challenges, the mission was successful due to correct actions. It's crucial for the nation to recognize and support genuine advocates against power struggles.
+
+🟩
+
+I have brought the child from the Hanging Bridge to the mother of Sri Lanka. What is happening now?Groups that do not support the child are now claiming the child. I was able to save the child because I went on the right track. The people of the country must now identify groups that are fighting for power.
 
 ◼️
 
 [Data](articles/4e097bba.json)
+
+[Extended Data](ext_articles/4e097bba.ext.json)
 
 ---
 
@@ -2253,57 +2311,5 @@ Yasodha Range Bandara had previously been arrested and remanded over a car accid
 [Data](articles/d3432a42.json)
 
 [Extended Data](ext_articles/d3432a42.ext.json)
-
----
-
-### 30 Chinese arrested by online racket
-
-*2024-06-29 20:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198301) · `si`
-
-Police arrested 30 Chinese nationals in Negombo for running online scams involving Bitcoin. They also detained 20 Indians linked to laptop and phone thefts. Authorities warn the public about such activities and advise vigilance, especially regarding housing.
-
-🟩
-
-Police have arrested 30 Chinese nationals conducted online rackets.
-
-Police Media Spokesperson DIG Nihal Talduuwa stated that they were arrested at a hotel in Negombo.
-
-Investigation Officers have revealed that the group had revealed that the group had carried out various trafficking through Bitcoin.
-
-A large number of overseas was arrested from time to time under the accusations of staying in the country within the last few days.
-
-Twenty Indian nationals were arrested yesterday after 137 Indian laptops and mobile phones.
-
-The Sri Lankan police urge the public to be notified if there is information on such racket. The public informed the public to be more concerned with housing.
-
-◼️
-
-[Data](articles/02d12607.json)
-
-[Extended Data](ext_articles/02d12607.ext.json)
-
----
-
-### The second rally in the New Alliance today
-
-*2024-06-29 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198300) · `si`
-
-At the second rally of the New Alliance, Minister Mahinda Amaraweera announced the formation of the United People's Freedom Alliance (UPFA) under the leadership of the Sri Lanka Freedom Party. The event took place in Wellawaya, with notable attendees including Minister Nimal Siripala de Silva, MP Anura Priyadarshana Yapa, and several others from the SLFP and independent MPs.
-
-🟩
-
-Minister Mahinda Amaraweera says that the next UPFA is the new alliance of the Sri Lanka Freedom Party.
-
-He made these comments addressing the new UPFA's rally in Wellawaya.
-
-"The 'UPFA led the UPFA leader leader in Wellawaya is held today (29).
-
-Minister Nimal Siripala de Silva and Sri Lanka Freedom Party representatives including SLFP representatives including MP Anura Priyadarshana Yapa and other people including ministers, State Ministers and Independent MPs were also present.
-
-◼️
-
-[Data](articles/d84cf44a.json)
-
-[Extended Data](ext_articles/d84cf44a.ext.json)
 
 ---

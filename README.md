@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 15:05:12**
+As of **2024-06-30 14:54:14**
 
 ## Newspaper Stats
 
@@ -102,7 +102,7 @@ The President said that the highest amount of goods in the Divisional Secretaria
 
 *2024-06-30 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100196/chennai-airport-customs-busts-syndicate-smuggling-267kg-gold-from-sri-lanka) · `en`
 
-In a dramatic turn of events, the Customs department at Chennai International Airport has successfully dismantled a smuggling syndicate involved in trafficking 267 kg of gold valued at INR 1,670 million from Sri Lanka over the past two months.
+In a dramatic turn of events, the Customs department at Chennai International Airport has successfully dismantled a smuggling syndicate involved in trafficking 267 kg of gold valued at INR 1670 million from Sri Lanka over the past two months.
 
 The operation kicked off following a crucial intelligence tip-off, resulting in the arrest of a shop-owner and his staff, allegedly part of the criminal enterprise.
 
@@ -1296,22 +1296,6 @@ DSI Tyres has introduced the Online Pick Up from Dealer system to customers thro
 
 ---
 
-### Ranasinghe  Premadasa: Sri Lanka’s Solitary non-Govigama Prime Minister and President
-
-*2024-06-30 01:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84279) · `en`
-
-India, the world’s biggest democracy, held Parliamentary elections this year in seven phases from 19 April to 1 June. 642 million persons voted in the poll. Results were announced on 4 June. The incumbent Prime Minister Narendra Modi was re-elected PM for the third time. His party the Bharatiya Janata Party (BJP) won 240 of 572 Lok Sabha or Parliament seats. Together with allied parties the BJP led National Democratic Alliance (NDA) obtained 293 seats in Parliament.
-
-The election results have been continuously analysed and commented upon from the time of the poll. A significant aspect of these analyses and commentaries is the “caste factor”. Indian analysts and commentators are not “shy” about discussing caste openly when dissecting poll results. It is an acknowledged fact in India that caste plays a very influential role in determining the outcome of elections in many electorates, regions or states. Many Indians delve into the “caste in elections” topic without any inhibitions.
-
-...
-
-[Data](articles/b4f24621.json)
-
-[Extended Data](ext_articles/b4f24621.ext.json)
-
----
-
 ### RIOCOCO Lanka earned dual silver honours at Stevie American Business Awards 2024
 
 *2024-06-30 01:31:00* · [`islandlk`](http://island.lk/riococo-lanka-earned-dual-silver-honours-at-stevie-american-business-awards-2024/) · `en`
@@ -2307,5 +2291,29 @@ The awards were presented for the civilians who were optimal to protect the envi
 [Data](articles/c62348b5.json)
 
 [Extended Data](ext_articles/c62348b5.ext.json)
+
+---
+
+### A red notice of the Department of Meteorology
+
+*2024-06-29 15:56:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களத்தின்-சிவப்பு-அறிவிப்பு/175-339599) · `ta`
+
+The Department of Meteorology warns of intense southwest monsoon turbulence in the Arabian Sea, with winds reaching 70-80 km/h between latitudes 6° and 20°N and longitudes 55° and 70°E. It advises fishers and mariners to avoid sea activities and seek safety onshore until further notice.
+
+🟩
+
+The Department of Meteorology has said that the southwest monsoon has intensified and the Arabian Sea is very turbulent.
+
+According to the department, strong winds are likely to blow up to 70-80 km / h in the area between 06 and 20 northern latitude and 55 and 70 eastern longitudinal.
+
+Due to this, the Department of Meteorology has asked the workers who are engaged in fishing and marine operations in the area to immediately move to the land or a safe place.
+
+Similarly, fishermen and maritime community has been informed not to engage in fishing in the sea until re -notice.. Remble
+
+◼️
+
+[Data](articles/200c756c.json)
+
+[Extended Data](ext_articles/200c756c.ext.json)
 
 ---

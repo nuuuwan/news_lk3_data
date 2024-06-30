@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 01:04:43**
+As of **2024-07-01 01:19:20**
 
 ## Newspaper Stats
 
@@ -44,9 +44,11 @@ A veteran Tamil politician and prominent figure in country’s main Tamil allian
 
 Sampanthan was the incumbent MP for Trincomalee District and has served in five parliaments since 1977.
 
-In April this year, the Parliament had granted the former TNA leader and Trincomalee District MP leave of three months from attending Parliament sessions as he was receiving medical treatment.
+A lawyer by profession, Sampanthan led the Tamil National Alliance since 2001. He was a Member of Parliament continuously from 2001 until his death in 2024, and previously served as a MP from 1977 to 1983 and from 1997 to 2000.
 
-◼️
+He was the Leader of the Opposition from September 2015 to December 2018.
+
+...
 
 [Data](articles/84aab491.json)
 

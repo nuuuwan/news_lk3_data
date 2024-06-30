@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 00:34:59**
+As of **2024-07-01 00:51:15**
 
 ## Newspaper Stats
 
-*Scraped **32,963** Articles*
+*Scraped **32,964** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,834
 economynextcom | 1,929
 dailyftlk | 2,015
 adalk | 2,931
-adaderanalk | 3,758
+adaderanalk | 3,759
 tamilmirrorlk | 3,895
 dailymirrorlk | 4,733
 virakesarilk | 5,133
@@ -26,9 +26,25 @@ adaderanasinhalalk | 5,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,962 (100.0%) of 32,963 articles have been extended.
+32,963 (100.0%) of 32,964 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-07-01 (Monday)
+
+### Former TNA leader R. Sampanthan passes away
+
+*2024-07-01 00:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100205/former-tna-leader-r-sampanthan-passes-away) · `en`
+
+Former Tamil National Alliance (TNA) leader and former Opposition Leader MP R. Sampanthan has passed away at the age of 91.
+
+He has reportedly passed away while receiving treatment at a private hospital in Colombo.
+
+◼️
+
+[Data](articles/84aab491.json)
+
+---
 
 ### 2024-06-30 (Sunday)
 
@@ -805,6 +821,8 @@ When a bankrupt country receives good news, it raises great expectations in the 
 ...
 
 [Data](articles/5e2e5464.json)
+
+[Extended Data](ext_articles/5e2e5464.ext.json)
 
 ---
 
@@ -2317,29 +2335,5 @@ The 35 -year -old Kohli, who made his debut in 2010 in twenty -20 internationals
 [Data](articles/3763f644.json)
 
 [Extended Data](ext_articles/3763f644.ext.json)
-
----
-
-### Tourist arrivals this year exceeds one million
-
-*2024-06-30 09:25:58* · [`adalk`](https://www.ada.lk/uncategorized/මේ-වසරේ-පැමිණි-සංචාරකයන්-ප්‍රමාණය-මිලියනය-ඉක්මවයි/1-410511) · `si`
-
-In 2023, over a million foreign tourists visited Sri Lanka from January 1st to 29th. Notable visitors included Paul Roy and Patricia Roe from Dublin, who arrived via SriLankan Airlines from London on January 6th at 12:40 pm. The event was overseen by Mrs. Subhasini Perera, Director of the Sri Lanka Tourism Promotion Bureau, highlighting the tourism industry's significant growth.
-
-🟩
-
-Foreign tourists visited Sri Lanka from 01/01/20 to the date of January 01/29 were exceeding Rs.
-
-Accordingly, Paul Roy, Paul Roy, and Patricia Roe, came from Dublin, as a traveler.
-
-They were from London, England to SriLankan Airlines from London, England to 12.40 pm on January 06/22.
-
-Mrs. Subhasini Perera, Director of Sri Lanka Tourism Promotion Bureau, Manager of the Sri Lanka Tourist Board of Sri Lanka Tourist Board of Sri Lanka Tourism Board, Handara, Sri Lanka Tourism Board (SLVA)Were attended.
-
-◼️
-
-[Data](articles/4d5b7823.json)
-
-[Extended Data](ext_articles/4d5b7823.ext.json)
 
 ---

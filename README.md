@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-29 19:19:38**
+As of **2024-06-30 13:19:22**
 
 ## Newspaper Stats
 
-*Scraped **32,805** Articles*
+*Scraped **32,841** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,42 +13,694 @@ dbsjeyarajcom | 300
 bbccomsinhala | 321
 newsfirstlk | 363
 islandlk | 1,821
-economynextcom | 1,922
+economynextcom | 1,926
 dailyftlk | 2,015
 adalk | 2,905
-adaderanalk | 3,734
+adaderanalk | 3,747
 tamilmirrorlk | 3,874
 dailymirrorlk | 4,733
 virakesarilk | 5,110
-adaderanasinhalalk | 5,409
+adaderanasinhalalk | 5,428
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,803 (100.0%) of 32,805 articles have been extended.
+32,805 (99.9%) of 32,841 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-06-30 (Sunday)
+
+### හෝටලයෙන් අතුරුදන් වූ ඊශ්‍රායල තරුණිය හමුවූ තැන
+
+*2024-06-30 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198319) · `si`
+
+ත්‍රිකුණාමලය ප්‍රදේශයේ සංචාරයක් සඳහා පැමිණ පසුගියදා අතුරුදන් වූ ඊශ්‍රායල ජාතික තරුණිය නිලාවේලි ප්‍රදේශයේ කැලයක් තුළ සිටියදී විමර්ශන කණ්ඩායම් විසින් සොයා ගෙන තිබේ.
+
+තමර් අමිතායි නැමැති 25 හැවිරිදි එම ඊශ්‍රායල ජාතික තරුණිය ඉකුත් 22 වනදා ශ්‍රී ලංකාවට පැමිණ තිබුණේ සංචාරයක් සඳහාය.
+
+නවාතැන්ගැනීම සඳහා අන්තර්ජාලය ඔස්සේ ත්‍රිකුණාමලය ප්‍රදේශයේ හෝටලයක් සතියක කාලයක් සඳහා ඇය වෙන් කරවාගෙන තිබුණාය.
+
+කෙසේ වෙතත් ඉකුත් 26 වනදා පස්වරුවේ සිට ඇය අතුරුදන් වී ඇති අතර, හෝටලයේ හිමිකරු ඒ සම්බන්ධයෙන් උප්පුවේලි පොලීසිය දැනුවත් කර තිබේ.
+
+ඒ අනුව, උප්පුවේලි පොලීසිය, පොලිස් විශේෂ කාර්ය බළකාය, උප්පුවේලි ප්‍රාදේශිය සභාව සහ නැගෙනහිර පළාත් සංචාරක කාර්යාංශය එක්ව තරුණිය සොයා විමර්ශන ආරම්භ කළේය.
+
+ප්‍රදේශයේ සිදුකළ මෙහෙයුමකින් අනතුරුව ඊයේ (29) පස්වරුවේ අදාළ තරුණිය නිලාවේලි ප්‍රදේශයේ කැලයක් තුළ සිටියදී සොයා ගැනුණි.
+
+සිද්ධිය සම්බන්ධයෙන් උප්පුවේලි පොලීසියෙන් "අද දෙරණ" කළ විමසීමකදී එහි නිලධාරින් පැවසුවේ තරුණිය යම් සිහිමද තත්ත්වයකින් පෙළෙන බවත් ඇය විසින්ම අදාළ කැලෑ ප්‍රදේශයට යන්නට ඇතැයි අනුමාන කරන බවත්ය.
+
+...
+
+[Data](articles/3eee1080.json)
+
+---
+
+### Death toll after fishermen drink from bottle found in sea climbs to 05
+
+*2024-06-30 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100195/death-toll-after-fishermen-drink-from-bottle-found-in-sea-climbs-to-05) · `en`
+
+The Director General of the Department of Fisheries & Aquatic Resources, Susantha Kahawatta, stated that one of the two Sri Lankan fishermen taken onboard the Singaporean merchant vessel for emergency treatment has been reported dead, raising the total deaths to five among the 6-member crew.
+
+It was reported this morning (30) that the death toll following the incident where the crew of a fishing vessel had consumed the contents of a bottle they found floating in the sea, assuming it was liquor, had increased to four while two others are in critical condition.
+
+The two fishermen who were critically ill had been taken aboard a Singaporean merchant vessel and were provided with emergency treatment.
+
+The Singaporean vessel is expected to transfer the two fishermen to SLNS Vijayabahu at sea.
+
+However, one of the two fishermen has also passed away leaving just one survivor from the six-man crew of the fishing trawler.
+
+...
+
+[Data](articles/c5d8d63b.json)
+
+---
+
+### ධීවර මරණ ඉහළට
+
+*2024-06-30 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198318) · `si`
+
+මත්පැන් බව සිතා මුහුදේ පාවෙමින් තිබූ බෝතලයක වූ විෂ දියරයක් පානය කළ "ඩෙවොන් 5" බහුදින ධීවර යාත්‍රාවේ සිටි ධීවරයින් හය දෙනාගෙන් තවත් අයෙක් මේ වනවිට මියගොස් ඇතැයි ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුව තහවුරු කරයි.
+
+ඩෙවොන් 5 යාත්‍රාවේ අසාධ්‍යව සිටි දෙදෙනෙක්ව අද (30) සිංගප්පුරු වෙළෙඳ නෞකාවක් මගින් බේරාගෙන තිබුණි.
+
+ඉන් එක් අයෙක් මියගොස් ඇති බවට වාර්තා වූ බව ධීවර දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත මහතා පැවසීය.
+
+◼️
+
+[Data](articles/2cf8e058.json)
+
+---
+
+### 18 killed, 42 injured in series of suicide attacks In Nigeria
+
+*2024-06-30 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100194/18-killed-42-injured-in-series-of-suicide-attacks-in-nigeria) · `en`
+
+At least 18 people were killed and 19 seriously wounded in a string of suicide attacks in northeastern Nigeria on Saturday, emergency services said.
+
+In one of three blasts in the town of Gwoza, a female attacker with a baby strapped to her back detonated explosives in the middle of a wedding ceremony, according to a police spokesman.
+
+The other attacks in the border town across from Cameroon targeted a hospital and a funeral for victims of the earlier wedding blast, authorities said.
+
+At least 18 people were killed and 42 others injured in the attacks, according to the Borno State Emergency Management Agency (SEMA).
+
+“So far, 18 deaths comprising children, men, females and pregnant women” have been reported, said Barkindo Saidu, the head of the agency, in a report seen by AFP.
+
+Nineteen “seriously injured” people were taken to the regional capital Maiduguri, while 23 others were awaiting evacuation, Saidu said in the report.
+
+...
+
+[Data](articles/570bdfaa.json)
+
+---
+
+### Parinda Ranasinghe to be sworn in as Acting AG
+
+*2024-06-30 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100193/parinda-ranasinghe-to-be-sworn-in-as-acting-ag) · `en`
+
+Senior Additional Solicitor General Parinda Ranasinghe is to be appointed as the Acting Attorney General of Sri Lanka.
+
+He is scheduled to be sworn-in to the position before the Chief Justice tomorrow (01).
+
+Last week, it was reported that the proposal to extend incumbent Attorney General Sanjay Rajaratnam’s term by another 06 months was defeated for the second time at the Constitutional Council meeting.
+
+The proposal, which was submitted by President Ranil Wickremesinghe, was defeated with 05 votes against it while 03 members voted in favour.
+
+Rajaratnam’s current term is set to expire at the end of this month, and the President had proposed an extension for an additional six months.
+
+However, the proposal requires the approval of the Constitutional Council, which twice defeated it.
+
+◼️
+
+[Data](articles/79018366.json)
+
+---
+
+### මගීන්ගේ ජීවිත බේරූ රියදුරු
+
+*2024-06-30 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198317) · `si`
+
+බලන්ගොඩ සිට මහනුවර දක්වා ධාවනය කරවමින් තිබූ ලංකා ගමනාගමන මණ්ඩලයට අයත් බස් රථයක පසුපස රෝදවල ඇණ බුරැල්විම හේතුවෙන් සිදුවන්නට ගිය විශාල අනතුරක් වළක්වා ගැනීමට බස් රථයේ රියදුරා සමත්වී තිබේ.
+
+එම අවස්ථාවේ බස් රථයේ මගීන් 100කට ආසන්න පිරිසක් ගමන්කර තිබුණි.
+
+බලන්ගොඩ ඩිපෝවට අයත් එම බස් රථයේ රියදුරු ලෙස අජිත් කුමාර මහතා කටයුතු කර ඇති අතර ඔහුගේ දක්ෂතාවය හේතුවෙන් සිදුවන්නට ගිය අනතුර වළක්වා ගෙන තිබූ බව අප වාර්තාකරු පැවසීය.
+
+අද උදැසන  6.50ට පමණ මහනුවර බලා බලන්ගොඩ නගරයෙන් එම බස් රථය පිටත්ව ගොස් තිබේ.
+
+රෝදවල ඇතිවූ ඇති වු දෝෂයත් සමග බස් රථය, රියදුරුගේ පාලනයෙන් ගිලිහී යෑමට පටන් ගෙන තිබූ අතර එහිදී රියදුරු බස් රථය නතර කරගෙන තිබුණි.
+
+පසුව ඔහු රෝද පරීක්ෂාකර ඇති  අතර එහිදී නිරීක්ෂණය වී ඇත්තේ පසුපස රෝදවල ඇණ බුරැල් වි  ඇති බවයි.
+
+◼️
+
+[Data](articles/6d75c21a.json)
+
+---
+
+### Person injured in stabbing at Maharagama town
+
+*2024-06-30 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100192/person-injured-in-stabbing-at-maharagama-town) · `en`
+
+Police Special Task Force (STF) personnel have arrested an individual for attempting to commit murder by attacking another person with a sharp weapon.
+
+The STF personnel had arrested the suspect with great effort while he was attacking another individual with a sharp weapon in front of the Maharagama public fair.
+
+STF has taken custody of several intoxicating pills and a sharp weapon which were found in the possession of the relevant suspect, who is identified as a 40-year-old resident of Maharagama.
+
+The person who was attacked has sustained serious injuries and has been admitted to the Kalubowila (Colombo South) Teaching Hospital for further treatment.
+
+Maharagama Police is conducting further investigations related to the incident.
+
+◼️
+
+[Data](articles/1f61a0c4.json)
+
+---
+
+### උඩරට දුම්රිය ධාවනය යථා තත්ත්වයට
+
+*2024-06-30 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198315) · `si`
+
+රාත්‍රි තැපැල් දුම්රිය පීලි පැනීමෙන් ඇනහිට තිබු උඩරට මාර්ගයේ දුම්රිය ධාවන කටයුතු යථා තත්ත්වයට පත්කර තිබේ.
+
+පීලි පැනීමට ලක් වු දුම්රියේ එන්ජිම නාවලපිටිය සහ හැටන් දුම්රිය ස්ථානයේ දුම්රිය මාර්ග නඩත්තු අංශයේ සේවකයින් විසින් පීලිගත කිරිමෙන් අනතුරුව එම මාර්ගයේ ධාවන කටයුතු යථා තත්ත්වයට පත්කළ බව දුම්රිය දෙපාර්තමේන්තුව පැවසීය.
+
+බදුල්ල සිට කොළඹ කොටුව දක්වා ධාවනය කරමින් තිබූ රාත්‍රි තැපැල් දුම්රිය පීලි පැනීමෙන් අද (30) අලුයම සිට උඩරට මාර්ගයේ දුම්රිය ධාවන කටයුතුවලට බාධා එල්ල වී තිබුණි.
+
+◼️
+
+[Data](articles/9c69b392.json)
+
+---
+
+### Derailment disrupts train services on up-country line
+
+*2024-06-30 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100191/derailment-disrupts-train-services-on-up-country-line) · `en`
+
+Train services along the up-country railway line have been disrupted owing to the derailment of a night-mail  between Galabada and Inguru Oya railway stations, Sri Lanka Railways (SLR) said.
+
+The train plying from Badulla to Colombo Fort Station had commenced it’s journey at 06.30 pm yesterday (29) while the derailment took place at around 1.15 a.m. today
+
+Due to this, the train services on the upcountry line have been disrupted.
+
+The department further stated that two short-distance trains have been cancelled and the work related to restoring the derailed train has already commenced.
+
+◼️
+
+[Data](articles/2b4abd7f.json)
+
+---
+
+### කරණම් ගැසූ මෝටර් රථය
+
+*2024-06-30 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198314) · `si`
+
+නොර්වුඩ් සිට හැටන් දක්වා ධාවනය කළ මෝටර් රථයක් මාර්ගයෙන් ඉවතට පැන පහළට පෙරළීයාමෙන් එහි ගමන් ගත් කාන්තාවක් සහ තවත් පුද්ගලයෙකු තුවාල ලබා තිබේ.
+
+ඔවුන් දෙදෙනාව දික්ඔය මුලික රෝහල වෙත ඇතුළු කර ඇති බව නොර්වුඩ් පොලීසිය පැවසිය.
+
+මෙම අනතුර ඊයේ (29) හැටන් - නොර්වුඩ් ප්‍රධාන මාර්ගයේ නොර්වුඩ් දියසිරිගම ප්‍රදේශයේදී සිදුවිය.
+
+අලුතෙන් රියදුරු බලපත්‍රයක් ලබාගෙන තිබූ කාන්තාවක් විසින් මෙම මෝටර් රථය පදවා ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/40b85aa3.json)
+
+---
+
+### Sri Lanka budget deficit implodes 56-pct to April 2024, interest bill eases
+
+*2024-06-30 09:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-collapses-up-to-april-2024-interest-bill-start-to-ease-170246/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s budget deficit has collapsed to 361 billion rupees up to April 2024 from 824.2 helped by higher tax revenues and a falling interest bill, official data show.
+
+Revenues surged 48 percent to 1,216 billion rupees to April 2024, ahead of the 35 percent annual growth projected in a budget, with higher value added and income tax rates as well as economic activity recovering close to previous levels.
+
+Sri Lanka is emerging from the worst case of ‘policy support’ deployed by macroeconomists since the central bank was set up in 1950 where the usual inflationary rate cuts which trigger currency crises and IMF programs, was also backed up tax cuts.
+
+Giving policy support and denying monetary stability has become mainstream in the age of inflation and ‘age of external defaults without a war’ due to so-called Saltwater-Cambridge doctrine, critics say.
+
+...
+
+[Data](articles/147d43c5.json)
+
+---
+
+### නයිජීරියාවේ තැන තැන මරාගෙන මැරෙන ප්‍රහාර
+
+*2024-06-30 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198313) · `si`
+
+නයිජීරියාවේ ස්ථාන කිහිපයක සිදුකළ මරාගෙන මැරෙන ප්‍රහාර හේතුවෙන් 18 දෙනෙක් මියගොස් 30 දෙනෙක් පමණ තුවාල කබා තිබේ.
+
+එරට ඊසානදිග බොර්නෝ ප්‍රාන්තයේ මංගල උත්සවයක්, අවමංගල උත්සවයක් සහ රෝහලක් ඉලක්ක කර එම මරාගෙන මැරෙන ප්‍රහාර එල්ලකර තිබුණි.
+
+මෙම ප්‍රාන්තයේ පසුගිය වසර 15 පුරා බෝකො හරාම් ඉස්ලාමීය අන්තවාදී කණ්ඩායම සටන්වැදී සිටින අතර ඒ හේතුවෙන් පුද්ගලයින් 40,000ක් මියගොස් තවත් මිලියන 2ක් පමණ අවතැන් වී තිබේ.
+
+◼️
+
+[Data](articles/7ba232ac.json)
+
+---
+
+### පිහිණුම් තටාකයේ ගිලී කුඩා දරුවෙක් ජීවිතක්ෂයට
+
+*2024-06-30 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198312) · `si`
+
+ප්‍රදේශ කිහිපයකින් වාර්තා වූ දියේ ගිලීම් සිද්ධි 3කින් අවුරුදු 05ක කුඩා දරුවෙකු සහ තවත් අයෙක් මියගොස් ඇති අතර 14 හැවිරිදි සිසුවෙක් අතුරදන්ව තිබේ.
+
+කඳාන පොලිස් වසමේ උතුරු බටගොඩ ප්‍රදේශයේ පිහිටි උද්‍යානයක පිහිණුම් තටාකයක දිය නාමින් සිටි කුඩා දරුවෙකු දියේ ගිලී මියගොස් ඇත.
+
+එසේ මියගොස් ඇත්තේ, දෙමටගොඩ, කොළඹ 09 ප්‍රදේශයේ පදිංචිව සිටි 05 හැවිරිදි දරුවෙකි.
+
+එම දරුවා ඇතුළු තවත් දරුවන් කිහිපදෙනෙකු සමග පිහිණුම් තටාකයේ දිය නාමින් සිටියදී මෙසේ දියේ ගිලී ඇත.
+
+දරුවාගේ පියා විසින් දරුවාව ජාඇල ප්‍රාදේශීය රෝහලට ඇතුළත් කර වැඩිදුර ප්‍රතිකාර සඳහා රාගම රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇති බව පොලීසිය පවසයි.
+
+මේ අතර මාන්කුලම්, ඉරණමඩු ජලාශයේ දිය නෑමට ගොස් සිටි සිසුන් 05 දෙනෙකුගෙන් එක් සිසුවෙකු දියේ ගිලී ඇතුරුදන් වී තිබේ.
+
+අතුරුදන් වී සිටින සිසුවා තිරුමුරුකණ්ඩි, මාන්කුලම ප්‍රදේශයේ පදිංචිව සිටි 14 හැවිරිදි සිසුවෙකි.
+
+මේ අතර වැලිගම පොලිස් වසමේ පැලෑන ප්‍රදේශයේදී වෙරළේ දියනාමින් සිටි පුද්ගලයෙකු දිය රළකට හසුවී අතුරුදන්ව ඇත.
+
+...
+
+[Data](articles/9f049829.json)
+
+---
+
+### Four fishermen die after drinking from bottle found in sea; 2 survivors taken aboard merchant vessel
+
+*2024-06-30 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100190/four-fishermen-die-after-drinking-from-bottle-found-in-sea-2-survivors-taken-aboard-merchant-vessel) · `en`
+
+The death toll following the incident where the crew of a fishing vessel had consumed the contents of a bottle they found floating in the sea, assuming it was liquor, has now increased to four while two others are in critical condition, according to the Sri Lanka Navy.
+
+Meanwhile, the two fishermen who are critically ill have been taken aboard a Singaporean merchant vessel and emergency treatment is being provided, the navy spokesman said.
+
+The Singaporean vessel is expected to transfer the two fishermen to SLNS Vijayabahu at sea, he said.
+
+The Director General of the Department of Fisheries & Aquatic Resources, Susantha Kahawatta, stated yesterday that the crew of the fishing boat named “Devon 5,” which had set out to sea from the Tangalle fisheries harbor, have faced this predicament after they had found several bottles containing an unknown liquid floating in the sea and consumed some of it assuming that it was alcohol.
+
+...
+
+[Data](articles/c08a344b.json)
+
+---
+
+### රෝගාතුර වී සිටින ධීවරයින් දෙදෙනාව බේරා ගැනීමට සිංගප්පුරු නැවක් සමත්වෙයි
+
+*2024-06-30 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198311) · `si`
+
+නාවික හමුදා මූලස්ථානයේ පිහිටි කොළඹ සමුද්‍රීය සෙවීම් හා මුදවා ගැනීම් සම්බන්ධීකරණ මධ්‍යස්ථානයේ සම්බන්ධීකරණයෙන් “ඩෙවොන් 5” බහුදින ධීවර යාත්‍රාවේ අසාධ්‍ය තත්ත්වයේ සිටි ධීවරයින් දෙදෙනෙක් ‘MV KOTA CAMIL’ නමැති සිංගප්පූරු ධජය යටතේ යාත්‍රා කරමින් තිබූ වෙළෙඳ නෞකාවක් මඟින් අද (30) උදෑසන මුදවා ගෙන තිබේ.
+
+එම බහුදින ධීවර යාත්‍රාවේ ධීවරයින් මුදවා ගැනීමේ මෙහෙයුම සඳහා වෛද්‍ය කණ්ඩායමක් සමඟ ඊයේ (29) සවස පිටත් වූ ශ්‍රී ලංකා නාවික හමුදාවේ විජයබාහු නෞකාව මේ වන විට එම මුහුදු ප්‍රදේශය වෙත ළඟා වෙමින් සිටියි.
+
+තංගල්ල ධීවර වරායෙන් ධීවර කටයුතු සඳහා පිටත්ව ගොස් ඇති ධීවරයින් හය දෙනෙකු රැගත් “ඩෙවොන් 5” නමැති මෙරට බහුදින ධීවර යාත්‍රාවේ සිටි  ධීවරයින් පිරිස, එම මුහුදු ප්‍රදේශයේ පාවෙමින් ආ බෝතලයක තිබූ දියරයක් පානය කර එය විෂ වී, අසාධ්‍ය තත්වයට පත්ව තිබුණි.
+
+...
+
+[Data](articles/3565b6a5.json)
+
+---
+
+### මහරගම පොළ ඉදිරිපිට පිහි ඇනුමක්
+
+*2024-06-30 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198310) · `si`
+
+මහරගම නගරයේ දී තියුණු ආයුධයකින් පහර දී මනුෂ්‍ය ඝාතනයක් සිදුකිරීමට උත්සාහ කළ පුද්ගලයකු පොලිස් විශේෂ කාර්ය බළකාය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+මහරගම මහජන පොළ ඉදිරිපිට දී එම සැකකරු වෙනත් පුද්ගලයෙකුට තියුණු ආයුධයකින් පහර දෙමින් සිටියදී විශේෂ කාර්ය බළකායේ නිලධාරීන් විසින් දැඩි පරිශ්‍රමයක් යොදා අදාළ ඔහුව අත්අඩංගුවට ගෙන තිබුණි.
+
+සැකකරු සන්තකයේ තිබී මත්කරල් කිහිපයක් සහ තියුණු ආයුධයක් ද විශේෂ කාර්ය බළකා භාරයට ගෙන ඇති අතර ඔහු 40 හැවිරිදි මහරගම ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+පිහි ඇනුමෙන් දැඩි ලෙස තුවාල ලැබු පුද්ගලයා ප්‍ර‍ථිකාර සදහා කළුබෝවිල රෝහලට ඇතුළත් කර ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/71f0d93f.json)
+
+---
+
+### කෝලි සහ ෂර්මා විස්සයි විස්ස ජාත්‍යන්තර පිටියට සමුදෙති
+
+*2024-06-30 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198309) · `si`
+
+ලෝක කුසලානය ජයග්‍රහණය කිරීමෙන් අනතුරුව ඉන්දීය කණ්ඩායමේ නායක රෝහිත් ෂර්මා සහ විරාත් කෝලි ප්‍රකාශ කළේ තමන් 20යි 20 ජාත්‍යන්තර ක්‍රිකට් පිටියට සමුදෙන බවය.
+
+විරාත් කෝලි 20යි 20 ජාත්‍යන්තර වරම් හිමි කරගත්තේ 2010 වසරේද ජුනි 12 සිම්බාබ්වේ කණ්ඩායමට එරෙහිව පැවැති තරගයකදීය.
+
+කෝලි 20යි 20 ජාත්‍යන්තර තරග 125කට මුහුණ දී ඇති අතර එම තරගවලදී රැස්කළ මුළු ලකුණු සංඛ්‍යාව 4,188කි.
+
+35 හැවිරිදි කෝලි විසින් 20යි 20 ජාත්‍යන්තර තරගයකදී රැස්කර ඇති වැඩිම ලකුණු ප්‍රමාණය ලෙස වාර්තා වෙන්නේ 122කි.
+
+ඊයේ පැවති ලෝක කුසලාන 20යි 20 අවසන් මහා තරගයේ වීරයා සම්මානය දිනා ගැනීමටද විරාත් කෝලි සමත්විය.
+
+ඊයේ අවසන්වූ  20යි 20 ලෝක කුසලාන තරගාවලියේ මුල් තරගවලදී කෝලී අසාර්ථක වුවද අවසන් තරගයේදී ලකුණු 76ක් රැස් කරමින් අවශ්‍යම මොහොතේ සිය පිත්ත ක්‍රියාත්මක කළේ ඉන්දීය ඉනිම ඔසවා තබමිනි.
+
+මේ අතර ඉන්දීය කණ්ඩායමේ නායක රෝහිත් ෂර්මා ඊයේ අවසන් තරගයෙන් අනතුරුව පැවැති මාධ්‍ය හමුවේදී තමන් 20යි 20 ජාත්‍යන්තර ක්‍රිකට් පිටියට සමුදෙන බව නිවේදනය කළේය.
+
+...
+
+[Data](articles/f24f5f5e.json)
+
+---
+
+### Kohli & Rohit retire from T20 internationals after World Cup win
+
+*2024-06-30 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100189/kohli-rohit-retire-from-t20-internationals-after-world-cup-win) · `en`
+
+India legends Virat Kohli and Rohit Sharma have retired from T20 internationals following their World Cup triumph in Barbados.
+
+Kohli was man of the match for his 76 and Rohit became the first India captain to lift a World Cup since 2011 following the captivating seven-run defeat of South Africa.
+
+Rohit, 37, and 35-year-old Kohli are number one and two respectively on the all-time list of T20 international run-scorers.
+
+“I’ve loved every moment of this,” said Rohit. “I started my India career playing this format. This is what I wanted. I wanted to win the cup and say thank you.”
+
+On former captain Kohli, Rohit said: “He’s been a champion player without a doubt. We all know what he has done for us.
+
+“At some point everyone has to say goodbye to the game and Virat was very clear that this is what he wanted to do.”
+
+Both men will continue to be available for India in Tests and one-day internationals.
+
+...
+
+[Data](articles/b337b763.json)
+
+---
+
+### Several spells of light showers expected in parts of the island
+
+*2024-06-30 08:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100188/several-spells-of-light-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of light showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts, it said.
+
+◼️
+
+[Data](articles/ba3d27c0.json)
+
+---
+
+### උඩරට මාර්ගයේ දුම්රිය ධාවනයට බාධා
+
+*2024-06-30 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198308) · `si`
+
+පීලි පැනීමක් හේතුවෙන් උඩරට මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ල වී තිබේ.
+
+බදුල්ල දුම්රිය ස්ථානයෙන් ඊයේ (29) පස්වරු 06.30ට කොළඹ කොටුව බලා ධාවනය වූ තැපැල් දුම්රිය ගලබඩ හා ඉගුරුඔය දුම්රිය ස්ථාන අතර පීලි පැනීමකට ලක්ව ඇති බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+අලුයම 1.15ට පමණ දුම්රිය පීලි පැනීම සිදුව ඇති අතර මේ හේතුවෙන් එම මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ල වී ඇත.
+
+ඒ හේතුවෙන් කෙටිදුර දුම්රිය ගමන් වාර දෙකක් අවංගු කර ඇති අතර දුම්රිය පීලිගත කිරීමේ කටයුතු මේ වන විට සිදුකරන බව ද දුම්රිය දෙපාර්තමේන්තුව වැඩිදුරටක් පවසීය.
+
+◼️
+
+[Data](articles/5aaa72d7.json)
+
+---
+
+### ධීවර හා නාවික ප්‍රජාවට අනතුරු ඇඟවීමක්
+
+*2024-06-30 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198307) · `si`
+
+ඉදිරි පැය 24 සඳහා තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කර තිබේ.
+
+අරාබි මුහුද ප්‍රදේශයේ ක්‍රියාකරන බහුදින ධීවර සහ නාවික ප්‍රජාව සඳහා එම නිවේදනය නිකුත්කළ බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, සක්‍රීය නිරිතදිග මෝසම් කාලගුණය නිසා අරාබි මුහුදු ප්‍රදේශයේ (උතුරු අක්ෂාංශ 06ත් 20ත් සහ නැගෙනහිර දේශාංශ 55 සහ 68 අතර මුහුදු ප්‍රදේශවල) ඉතා තද සුළං (පැ.කි.මී. 70-80) පැවතිය හැකි බවය.
+
+ඒ හේතුවෙන් මුහුද ඉතා රළු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+මේ අතර බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සිහින් වැසිවාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකි බව එම දෙපාර්තමේන්තුව වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/768d51aa.json)
+
+---
+
 ### 2024-06-29 (Saturday)
 
-### ජනපතිගේ සැලසුම මේකයි - අනුර දිසානායක
+### India wins Twenty20 World Cup in thrilling final against South Africa
+
+*2024-06-29 23:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100187/india-wins-twenty20-world-cup-in-thrilling-final-against-south-africa) · `en`
+
+BRIDGETOWN, Barbados (AP) — India pulled off a sensational seven-run win against South Africa in a gripping final of the Twenty20 World Cup on Saturday.
+
+South Africa, playing its first ever final of an ICC tournament, needed a run-a-ball 30 to win on the back of Heinrich Klaasen’s belligerent 52 off 27 balls.
+
+But India’s pace bowlers roared back in the death overs to restrict them at 169-8.
+
+Kohli’s first half-century at this tournament anchored India to 176-7 after captain Rohit Sharma won the toss and elected to bat.
+
+India won its second T20 World Cup but its first world title in 12 years.
+
+◼️
+
+[Data](articles/78556a74.json)
+
+---
+
+### විස්සයි විස්ස ක්‍රිකට් ලෝක ශූරතාවය ඉන්දියාවට
+
+*2024-06-29 23:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198305) · `si`
+
+වසර 17කට පසු 20යි 20 ක්‍රිකට් ලෝක කුසලානය හිමිකරගැනීමට ඉන්දීය කණ්ඩායම අද (29) සමත්විය.
+
+ඒ 2024 විස්සයි විස්ස ක්‍රිකට් ලෝක කුසලාන අවසන් තරගයේදී දකුණු අප්‍රිකානු කණ්ඩායම ලකුණු 7කින් පරාජයට පත්කරමිනි.
+
+බාබෙඩෝස් හි පැවති මෙම තරගයේ කාසියේ වාසිය ඉන්දිය නායකයා දිනා ගත් අතර පළමුවෙන් පන්දුවට පහරදීමට ඔහු තීරණය කළේය.
+
+ඒ අනුව, පිටියට පිවිසි ඉන්දීය කණ්ඩායමේ මුල් කඩුලු 3 ලකුණු 34ක් තුළ දවා ගනිමින් දකුණු අප්‍රිකා පන්දු යවන්නන් ඉන්දීය කණ්ඩායමට දැඩි අභියෝගයක් එල්ල කළේය.
+
+මෙම තරගාවලියේදී අසාර්ථක වු විරාත් කෝලි අවසන් තරගයේදි ලකුණු 76ක් රැස් කරමින් අවශ්‍යම මොහොතේ සිය පිත්ත ක්‍රියාත්මක කළේ ඉන්දීය ඉනිම ඔසවා තබමිනි.
+
+අක්ෂා පටෙල් ලකුණු 47ක් සහ ෂිවම් ඩුබේ ලකුණු 27ක් රැස් කළ අතර ඒ අනුව ඉන්දීය කන්ඩායම නියමිත පන්දුවාර 20දි කඩුලු 7ක් දැවී ලකුණු 176ක් රැස් කිරීමට සමත්විය.
+
+ලකුණු 177ක ජයග්‍රාහී ඉලක්කයක් හඹාගිය දකුණු අප්‍රිකා කණ්ඩායමට නියමිත පන්දු ඕවර 20 අවසානයේ කඩුලු 8ක් දැවී රැස්කර ගත හැකි වූයේ ලකුණු 169ක් පමණි.
+
+දකුණු අප්‍රිකා ඉනිම වෙනුවෙන් හෙන්රික් ක්ලාසන් ලකුණු 52ක් රැස්කළ අතර ක්වින්ටන් ඩි කොක් ලකුණු 39ක් රැස්කළේය
+
+...
+
+[Data](articles/53be2be3.json)
+
+---
+
+### Indian military tank sinks and kills 5 soldiers
+
+*2024-06-29 22:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100186/indian-military-tank-sinks-and-kills-5-soldiers) · `en`
+
+Five Indian soldiers were killed when a military tank they were travelling in sank while crossing a river in the remote region of Ladakh that borders China, officials said Saturday.
+
+The tank sank early Saturday due to sudden increase in the water levels of Shyok River during a military training activity, according to an Indian army command center statement. It said the accident took place in Saser Brangsa near the Line of Actual Control that divides India and China in the Ladakh region.
+
+“We will never forget exemplary service of our gallant soldiers to the nation. My heartfelt condolences to the bereaved families. The nation stands firm with them during this hour of grief,” Singh wrote on the social platform X.
+
+The Indian and Chinese militaries have been locked in a standoff in Ladakh since May 2020, when they clashed along their land border in the region, with 20 Indian and four Chinese soldiers killed.
+
+...
+
+[Data](articles/988493ff.json)
+
+---
+
+### පොදු ගමනාගමන සේවා අත්‍යවශ්‍ය සේවාවක් බවට පත්කරයි
+
+*2024-06-29 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198304) · `si`
+
+පොදු ගමනාගමන සේවා අත්‍යවශ්‍ය සේවාවක් බවට පත් කරමින් ගැසට් පත්‍රයක් නිකුත් කර තිබේ.
+
+1979 අංක 61 දරණ අත්‍යවශ්‍ය මහජන සේවා පනතට අනුව ජනාධිපතිවරයාට පැවරී ඇති බලතල ප්‍රකාරව එම ගැසට් පත්‍රය ජනාධිපති ලේකම්වරයා විසින් නිකුත් කර ඇති බව සඳහන්ය.
+
+ඒ අනුව මගීන් හෝ භාණ්ඩ ප්‍රවාහනය සඳහා හෝ පොදු ගමනාගමන සේවා මෙන්ම මංමාවත්, පාලම්, බෝක්කු සහ දුම්රිය මාර්ග ඇතුළුව මංමාවත්, දුම්රිය මාර්ග මගින් ගමනාගමන සේවා පහසුකම් සැලසීම සහ පවත්වාගෙන යාම අදාළ ගැසට් පත්‍රය මගින් අත්‍යවශ්‍ය සේවාවක් බවට පත්කර තිබේ.
+
+◼️
+
+[Data](articles/0ce24304.json)
+
+---
+
+### ඩෙවොන් 5 සොයා ආ මාරකය
+
+*2024-06-29 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198303) · `si`
+
+ශ්‍රී ලංකා නාවික හමුදාවේ "විජයබාහු නෞකාව" තංගල්ල ධීවර වරායෙන් මුහුදු ගිය "ඩෙවොන් 5" බහුදින ධීවර යාත්‍රාව පිහිටි ස්ථානයට පිටත් කිරීමට සියලු කටයුතු සූදානම් කරමින් පවතින බව නාවික හමුදා මාධ්‍ය අංශය පවසයි.
+
+මේ අතර අවශ්‍ය වුවහොත් එම යාත්‍රාවේ සිටින ධීවරයන් රැගෙන ඒම සඳහා ගුවන් හමුදා හෙලිකොප්ටර් යානාවක් ද සූදානම් කර තිබේ.
+
+තංගල්ල ධීවර වරායෙන් පසුගිය 4 වනදා "ඩෙවොන් 5" බහුදින ධීවර යාත්‍රාව ධීවරයන් 6 දෙනෙකුද සමගින් ජාත්‍යන්තර මුහුුදු සීමාවට ධීවර කටයුතු සඳහා ගොස් තිබුණි.
+
+ගොඩබිම සිට මුහුදු සැතපුම් 340ක් පමණ දුරින් එම පිරිස ධීවර කටයුතු සිදුකරමින් සිටින අතරතුරදී පෙරේදා රාත්‍රියේ ගැඹුරු දියඹේ පාවෙමින් තිබූ ලීටර 5ක පමණ බෝතලයක් මත්පැන් වර්ගයක් යැයි සිතා පානය කර ඇති බව ධීවර අධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත මහතා පැවසීය.
+
+එම දියරය පානය කළ පිරිස දැඩි ලෙස රෝගාතුර වී ඇති අතර ඉන් අයෙක් අද උදෑසන අසල වූ තවත් ධීවර යාත්‍රාවකට රේඩියෝ පණිවුඩයක් ලබාදී තත්ත්වය පිළිබඳව පවසා තිබේ.
+
+...
+
+[Data](articles/dafb18ed.json)
+
+---
+
+### කෝලි ඉන්දියාව ගොඩ දමයි
+
+*2024-06-29 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198302) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන අවසන් මහා තරගයේ පළමුව පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම සිය ඉනිම සඳහා කඩුලු 7ක් දැවී ලකුණු 176ක් රැස්කළේය.
+
+ඉන්දියාව වෙනුවෙන් විරාත් කෝලි ලකුණු 76ක් රැස්කළ අතර අක්ෂා පටෙල් ලකුණු 47යි.
+
+◼️
+
+[Data](articles/305e451b.json)
+
+---
+
+### Range Bandara’s son granted bail
+
+*2024-06-29 21:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100185/range-bandaras-son-granted-bail) · `en`
+
+UNP General Secretary Palitha Range Bandara’s son Yasodha Range Bandara, who was arrested in connection with a car accident in Karuwalagaswewa area in Puttalam, has been granted bail by the Puttalam Magistrate’s Court.
+
+After being presented to the court, the Acting Puttalam Magistrate has ordered the suspect to be released on a personal bail of Rs. 500,000.
+
+He was arrested by officers following a vehicular accident that occurred early this morning (29).
+
+The incident had occurred at around 4.30 a.m. in the Elephant Pass area near the 7th Mile Post, Mee-Oya, Karuwalagaswewa.
+
+The car driven by Yasodha Range Bandara had reportedly veered off the road and collided with a three-wheeler.
+
+The driver of the three-wheeler had sustained serious injuries in the crash and has been admitted to the Puttalam Base Hospital for treatment.
+
+Yasodha Range Bandara had previously been arrested and remanded over a car accident in 2018.
+
+◼️
+
+[Data](articles/d3432a42.json)
+
+---
+
+### ඔන්ලයින් ජාවාරම් සිදුකළ චීන්නු 30ක් අත්අඩංගුවට
+
+*2024-06-29 20:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198301) · `si`
+
+ඔන්ලයින් ජාවාරම් සිදුකළ චීන ජාතිකයන් 30ක් පොලිසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා සඳහන් කළේ මීගමුව ප්‍රදේශයේ හෝටලයකදී ඔවුන් අත්අඩංගුවට ගත් බවය.
+
+විමර්ශන නිලධාරීන් පවසන්නේ, එම පිරිස BITCOIN හරහා අන්තර්ජාලය ඔස්සේ විවිධ ජාවාරම් සිදුකර ඇති බවට සිදුකළ මූලික විමර්ශනවලදී හෙළි වී ඇති බවය.
+
+ගතවූ දින කිහිපය තුළ මෙරට රැඳී සිටිමින් අන්තර්ජාලය ඔස්සේ මුදල් වංචා කිරීමේ චෝදනාව යටතේ විදේශ ජාතිකයින් විශාල පිරිසක් වරින්වර අත්අඩංගුවට පත්විය.
+
+ඊයේ දිනයේදී ඉන්දීය ජාතිකයින් 137 දෙනෙකුද එම ජාවාරම් සම්බන්ධයෙන් අත්අඩංගුවට පත්වූ අතර ඔවුන් සතුව තිබී ලැප්ටොප් පරිගණක සහ ජංගම දුරකථන රැසක් ද පොලිස් භාරයට ගැණුනි.
+
+ශ්‍රී ලංකා පොලීසිය ජනතාවගෙන් ඉල්ලා සිටින්නේ මෙවැනි ජාවාරම් පිළිබඳ තොරතුරු තිබේ නම් දැනුම්දෙන ලෙසය. නිවාස කුලියට දීමේදී වැඩි සැලකිල්ලක් දක්වන ලෙසට මහජනතාවට දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/02d12607.json)
+
+---
+
+### නව සන්ධානයේ දෙවෙනි රැලිය අද
+
+*2024-06-29 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198300) · `si`
+
+රටේ මීළඟ ජනාධිපතිවරයා බිහි කරන්නේ ශ්‍රී ලංකා නිදහස් පක්ෂය ප්‍රමුඛ නව සන්ධානය බව අමාත්‍ය මහින්ද අමරවීර මහතා පවසයි.
+
+ඔහු එම අදහස් පළ කළේ, වැල්ලවායේ දී අද පැවති නව සන්ධානයේ ජන රැලිය අමතමිනි.
+
+''දිනුම රටට එක්ව පෙරට'' තේමාවෙන්, ශ්‍රී ලංකා නිදහස් පක්ෂය ප්‍රමුඛ නව සන්ධානයේ දෙවැනි රැලිය අද (29) පැවැත්වුණේ වැල්ලවාය නගරයේදී ය.
+
+එම අවස්ථාවට අමාත්‍ය නිමල් සිරිපාල ද සිල්වා ඇතුළු ශ්‍රී ලංකා නිදහස් පක්ෂයේ නියෝජිතයින්, පාර්ලිමේන්තු මන්ත්‍රී අනුර ප්‍රියදර්ශන යාපා ඇතුළු නව සන්ධානයේ නියෝජිතයින් මෙන්ම අමාත්‍යවරුන්, රාජ්‍ය අමාත්‍යවරුන් සහ පාර්ලිමේන්තුවේ ස්වාධීන මන්ත්‍රීවරුන් ඇතුළු පිරිසක් එක්විය.
+
+◼️
+
+[Data](articles/d84cf44a.json)
+
+---
+
+### ගාල්ලේ සර්වජන බලය
+
+*2024-06-29 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198299) · `si`
+
+සර්වජන බලය දේශපාලන වේදිකාව ලංකාවේ ඇති එකම නිර්මල වේදිකාව බව මව්බිම ජනතා පක්ෂයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+ඔහු ඒ බව සඳහන් කළේ, අද පැවති සර්වජන බලය ගාල්ල මහජන රැළිය අමතමිනි.
+
+''ව්‍යවසායකත්ව රාජ්‍යයක් - සතුටු දැයක්'' අරමුණු කරගනිමින් සර්වජන බලය දේශපාලන එකමුතුවෙහි ගාල්ල මහජන රැළිය ගාල්ල නගර සභා පරිශ්‍රයේදී අද පැවැත්වුණි.
+
+◼️
+
+[Data](articles/e465120e.json)
+
+---
+
+### UN police summit: Sri Lanka offers specialized police teams and experts to counter global threats
+
+*2024-06-29 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100184/un-police-summit-sri-lanka-offers-specialized-police-teams-and-experts-to-counter-global-threats) · `en`
+
+Sri Lanka has informed the United Nations (UN) that it is willing to contribute police gendarmerie and criminal justice experts with experience and skills to counter the growing challenges to international peace and to share the knowledge and experience with any nation.
+
+“I am confident that the Sri Lanka formed police unit, which is at Readiness Level 3, stands by with the capacity to handle the emerging security landscape,” Sri Lanka’s Public Security Minister Tiran Alles said, addressing the fourth United Nations Chiefs of Police Summit (UNCOPS 2024).
+
+He said that organized crime, gang violence and illicit economies are rapidly on the rise and that this is becoming a growing challenge to international peace.
+
+“It is therefore imperative that the United Nations consider deploying specialized police teams with experience and skills to counter this menace,” he said.
+
+...
+
+[Data](articles/dda384be.json)
+
+---
+
+### President's plan is this - Anura Dissanayake
 
 *2024-06-29 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198297) · `si`
 
-විද්‍යා හා තාක්ෂණ ක්ෂේත්‍රයේ පර්යේෂණ සඳහා තම ආණ්ඩුවක් යටතේ කිසිදු අතගැසීමක් නොකරන බව ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා පවසයි.
+Anura Kumara Dissanayake criticizes lack of scientific research funding but launches Science & Technology Policy. He supports reappointing the Chief Justice, despite previous Constitutional Council rejection, indicating a desire for centralized power. This move contrasts with the presence of numerous scientists advocating for the policy, highlighting a complex dynamic between political control and scientific advancement.
 
-අනුර කුමාර දිසානායක මහතා ඒ බව සඳහන් කළේ  ජතික ජන බලවේගයේ විද්‍යා හා තාක්ෂණ ප්‍රතිපත්තිය එළිදැක්වීමේ අවස්ථාවට එක්වෙමිනි.
+🟩
 
-අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (29) කොළඹදී එම වැඩසටහන පැවැත්වුණි.
+Leader of the National Power Anura Kumara Dissanayake says that there is no support for research in the field of science and technology.
 
-"අගවිනිසුරු විශ්‍රාම යන තෙක් නිතිපතිව ධුරයේ තබා ගැනීමට ජනපතිට අවශ්‍යයි. ඒ ඇයි. නැවත ඔහුව අගවිනිසුරු තනතුරට පත් කරන්න. ව්‍යවස්ථා සභාව එක අවස්ථාවකදී ප්‍රතික්ෂේප කර තිබියදී නැවතත් ව්‍යවස්ථා සභාවට මේ යෝජනාව ඉදිරිපත් කරනවා. ඒ ඇයි. දේශපාලන අධිකාරිය හිතනවා සියලු බලයන් තමන්ගේ අණට යටත් වියයුතුයි කියලා."
+Anura Kumara Dissanayake made this observation at the launch of Science and Technology Policy of the National Power.
 
-ජතික ජන බලවේගයේ විද්‍යා හා තාක්ෂණ ප්‍රතිපත්තිය එළිදැක්වීමේ අවස්ථාවට ලොව විවිධ රටවල විද්‍යා තාක්ෂණ ක්ෂේත්‍රයේ මෙන්ම නවෝත්පාදන පර්යේෂණවල නියැලී සිටින ශ්‍රී ලාංකික විද්‍යාඥයින් පිරිසක් මෙන්ම මෙරට විද්‍යා හා තාක්ෂණ ක්ෂේත්‍රයේ විද්වතුන් රැසක් එක්විය.
+The program was held in Colombo today (29) under the patronage of Anura Kumara Dissanayake.
+
+President wants to hold the Chief Justice until the retirement of the Chief Justice. Why is that why. Appoint him to the position of the Chief Justice again. The constitutional council will be resumed again while the Constitutional Council was rejected at one point.. Why is that why. The political authority thinks that all the powers should be subject to their command. "
+
+The launch of science technology policy of the Nationalism and Technology Policy of the National Force and a large number of scientists in the field of science and science technology in the country.
 
 ...
 
 [Data](articles/0d727c9a.json)
+
+[Extended Data](ext_articles/0d727c9a.ext.json)
+
+---
+
+### Sri Lanka government repays foreign debt on a net basis in 1Q 2024
+
+*2024-06-29 18:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-government-repays-foreign-debt-on-a-net-basis-in-1q-2024-170244/) · `en`
+
+ECONOMYNEXT  – Sri Lanka’s budget foreign financing was negative in the first quarter of 2024, as the government repaid debt on a net basis, official data show.
+
+Sri Lanka has a debt moratorium and unless new budget support loans come from agencies like the World Bank or Asian Development Bank, or some earlier projects disburse funds, the government has to keep servicing multilateral debt.
+
+Foreign financing was a net repayment of 14.9 billion rupees in the first three months of the year, the central bank said which was lower than the negative 41.4 billion in 2024.
+
+While interest payments will have to be serviced with the restructuring agreements of the bilaterals, new principle disbursements will take place as soon as projects are resumed.
+
+Domestic financing was also lower at 296.1 billion rupees, down from 666.1 billion last year. (Colombo/June29/2024)
+
+◼️
+
+[Data](articles/dfef98fd.json)
 
 ---
 
@@ -256,19 +908,25 @@ The President said Sri Lanka is ready to lead the region in the international wo
 
 ---
 
-### கடலில் மிதந்த திரவத்தை அருந்திய மீனவர்கள் ; இருவர் பலி : நால்வர் கவலைக்கிடம்!
+### Fishermen who drank liquid floating in the sea;Two killed: Four workers!
 
 *2024-06-29 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/187260) · `ta`
 
-தங்காலையிலிருந்து படகில் மீன்பிடிக்கச் சென்ற 6 மீனவர்கள் கடலில் மிதந்த நிலையில் காணப்பட்ட  போத்தலிலிருந்த திரவத்தை அருந்தியதில்  இரு மீனவர்கள் உயிரிழந்துள்ளதாக கடற்றொழில் திணக்களத்தின் பணிப்பாளர் நாயகம் சுசந்த கஹவத்த தெரிவித்துள்ளார்.
+In a tragic incident, two fishermen died after consuming liquid from floating bottles in the sea. The Director General of the Fisheries Department, Susantha Kahawatta, reported that four others are critically ill and are being transported back to shore. This accident occurred 317 nautical miles out to sea.
 
-ஏனைய நான்கு மீனவர்களின் நிலைமை கவலைக்கிடமாக உள்ளதாகவும், அவர்கள் தற்போது மற்றுமொரு மீன்பிடி படகு மூலம் இன்று (29)  கரைக்கு கொண்டு வரப்படுவதாகவும் அவர் மேலும் தெரிவித்துள்ளார்.
+🟩
 
-ஆழ்கடலில் 317 கடல் மைல் தொலைவில் சென்று கொண்டிருந்த போதே இந்தச் சம்பவம் இடம்பெற்றுள்ளது.
+Director General of the Fisheries Department, Susantha Kahawatta said that two fishermen were killed when they had been drinking a bottle of bottles that were floating in the sea.
+
+He added that the condition of the other four fishermen is worrisome and that they are currently being brought to shore today (29) by another fishing boat.
+
+The incident took place while traveling 317 nautical miles into the deep sea.
 
 ◼️
 
 [Data](articles/b1953aba.json)
+
+[Extended Data](ext_articles/b1953aba.ext.json)
 
 ---
 
@@ -364,13 +1022,13 @@ The death toll following the incident where the crew of a fishing vessel had con
 
 Meanwhile, it is reported that three other fishermen are still in critical condition.
 
-Initially it was reported earlier today that two out of the six crew members of a fishing vessel that set out from Tangalle have died, and the remaining four are in critical condition after consuming the contents of a bottle they found floating in the sea, assuming it was liquor.
+The Director General of the Department of Fisheries & Aquatic Resources, Susantha Kahawatta, stated that the crew of the fishing boat named “Devon,” which had set out to sea from the Tangalle fisheries harbor, have faced this predicament after they had found several bottles containing an unknown liquid floating in the sea and consumed some of it assuming that it was alcohol.
 
-The incident has reportedly occurred while the boat was around 320 nautical miles (592.64 km) off the coast of Sri Lanka.
+He said medical teams are providing instructions for emergency first aid via communications devices and that there is insufficient time to send another vessel out to sea to retrieve them as they are in the deep sea area.
 
-Sri Lanka Navy Spokesperson said the vessel is being towed back to land with the help of another craft.
+He said that attempts are being made to board them into a nearby vessel and bring them ashore.
 
-◼️
+...
 
 [Data](articles/e25d8808.json)
 
@@ -918,6 +1576,28 @@ The meeting took place during the 70th anniversary of 5 theories of peaceful coe
 
 ---
 
+### Sri Lanka foreign exchange earnings exceed imports by US$611mn in May
+
+*2024-06-29 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-exchange-earnings-exceed-imports-by-us611mn-in-may-170216/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s current foreign exchange earnings from exports, remittances and gross services totalled 2,016 million dollars, exceeding imports of 1,404 million dollars by 611 million US dollars in May 2024, official data showed.
+
+Sri Lanka’s exports were 1,011 million dollars in May, remittances were 460.1 million dollars and gross services inflows including from tourism was 460.1 million dollars.
+
+The net services account surplus, after deducting outward like tourism, sea and air transport of 229.8 million US dollars was 230.3 million dollars.
+
+Total inflows from exports, remittances and net services were 1,786 million dollars, which exceeded merchandise imports by 318.4 million US dollars.
+
+When people get money from tourism or remittances, they will use them for food, fuel or for other imports driving imports and triggering a trade deficit.
+
+Governor foreign borrowings would also lead to road or airport building and imports of cement and steel.
+
+...
+
+[Data](articles/5a738569.json)
+
+---
+
 ### The verdict of estate salary increases is still up
 
 *2024-06-29 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198279) · `si`
@@ -1193,6 +1873,24 @@ Minister of Foreign Affairs Ali Sabry revealed this addressing the Media briefin
 [Data](articles/5f21d403.json)
 
 [Extended Data](ext_articles/5f21d403.ext.json)
+
+---
+
+### Sri Lanka to save USD 17 billion through debt repayment plan - Ali Sabry
+
+*2024-06-29 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100174/sri-lanka-to-save-usd-17-billion-through-debt-repayment-plan-ali-sabry) · `en`
+
+Minister of Foreign Affairs and President’s Counsel Ali Sabri, has stated that the successful debt sustainability process with bilateral creditors will provide Sri Lanka with an advantage of approximately US $ 17 billion.
+
+The minister also stated that this situation will facilitate successful negotiations regarding international sovereign debts.
+
+Minister of Foreign Affairs Ali Sabry revealed this addressing the Media briefing yesterday (28) at the Presidential Media Centre (PMC) under the theme “Collective Path to a Stable Country.”
+
+“On April 12, 2022, Sri Lanka decided to temporarily suspend the payment of a portion of its foreign debt. At that time, some parties predicted that the value of the rupee would surge to 600, 700, or even 1000 against the dollar. However, we managed to control the situation.
+
+...
+
+[Data](articles/a9f58178.json)
 
 ---
 
@@ -1571,731 +2269,5 @@ The group is children in the Madhu and Madu police are conducting further invest
 [Data](articles/61832d9f.json)
 
 [Extended Data](ext_articles/61832d9f.ext.json)
-
----
-
-### Nuwan Seneviratne & Sri Lankan Cricket Management: A Sad Chronicle Of Mismanaged Talent
-
-*2024-06-29 06:24:44* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/nuwan-seneviratne-sri-lankan-cricket-management-a-sad-chronicle-of-mismanaged-talent/) · `en`
-
-Sri Lanka’s cricketing heritage is rich, with a legacy of producing some of the most talented cricketers the world has ever seen. Yet, the management of this talent has often been mired in controversy, inefficiency, and neglect. One glaring example of this mismanagement is the story of Nuwan Seneviratne, whose potential was overlooked by Sri Lankan cricket authorities, leading him to become a key asset for the Indian cricket team instead.
-
-Nuwan Seneviratne’s journey from being a school bus driver in Colombo to becoming India’s left-arm throwdown specialist is both inspiring and a testament to his resilience and skill. However, it also highlights the failures of Sri Lanka’s cricket management to recognize and nurture homegrown talent.
-
-...
-
-[Data](articles/a264b826.json)
-
-[Extended Data](ext_articles/a264b826.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-06-29 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198271) · `si`
-
-Several regions including Western, Sabaragamuwa, Northwestern provinces, Ampara, Batticaloa, and central hill slopes may experience showers or thundershowers. Strong winds are also expected due to these weather conditions.
-
-🟩
-
-The Department of Meteorology states that several thin closed will occur in the Western, Sabaragamuwa and Northwestern provinces.
-
-Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
-
-Also, in the western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Trincomalee and Moneragala Districts. The Meteorology was stated that the winds could cause about strong winds.
-
-◼️
-
-[Data](articles/80c1b066.json)
-
-[Extended Data](ext_articles/80c1b066.ext.json)
-
----
-
-### Straight A Pluses for Sierra Cables from FITCH
-
-*2024-06-29 02:16:00* · [`islandlk`](http://island.lk/straight-a-pluses-for-sierra-cables-from-fitch/) · `en`
-
-Sierra Cables PLC, one of Sri Lanka’s renowned cable manufacturers, has sustained a solid rating of A+ (lka) with a stable outlook for three consecutive years from Fitch Ratings, a leading provider of credit ratings for global markets. Despite the challenging economic conditions both locally and internationally, Sierra Cables’ impressive standing is a testament to the Company’s remarkable financial performance and strategic management decisions which played a pivotal role in maintaining this consistent distinction.
-
-Commenting on the recognition, Harsha Jayatunga, CEO of Sierra Cables said, “We are extremely pleased with our performance this financial year and are delighted that we could maintain the rating for the past three years despite the highly challenging economic restraints. We were able to attain this grade due to our robust financial performance, combined with timely and prudent management decisions.”
-
-...
-
-[Data](articles/7db12f7f.json)
-
-[Extended Data](ext_articles/7db12f7f.ext.json)
-
----
-
-### Share market marked by declining trend despite govt.’s economic stabilization effort
-
-*2024-06-29 02:16:00* · [`islandlk`](http://island.lk/share-market-marked-by-declining-trend-despite-govt-s-economic-stabilization-effort/) · `en`
-
-The stock market registered a downward trend yesterday mainly due to political instability despite the government’s effort at stabilizing the economy with the signing of the MOU with external creditors, market analysts said.Amid those developments mixed signals were sent by the main indices.
-
-The All Share Price Index went down by 45.03 points while S and P SL20 rose by 1.2 points. Turnover stood at Rs 2.2 billion with four crossings. Those crossings were reported in Sampath Bank, which crossed 11.7 million shares to the tune of Rs 912 million; its shares traded at Rs 78, Renuka Foods 8.9 million shares crossed for Rs 125 million and its shares sold at Rs 14, JKH 450,000 shares crossed for Rs 91.8 million; its shares traded at Rs 204, HNB (Non- Voting) 125,000 shares crossed to the tune of Rs 20 million; its shares traded at Rs 160.
-
-...
-
-[Data](articles/f4858be9.json)
-
-[Extended Data](ext_articles/f4858be9.ext.json)
-
----
-
-### Field Marshal Fonseka’s military and political experiences continue to be invaluable assets: President
-
-*2024-06-29 02:06:18* · [`dailyftlk`](https://www.ft.lk/news/Field-Marshal-Fonseka-s-military-and-political-experiences-continue-to-be-invaluable-assets-President/56-763640) · `en`
-
-Acknowledges Yahapalana Govt.’s decision to honour Fonseka with title of Field Marshal
-
-Field Marshal Fonseka attributes victory in war to collective effort of extraordinary dedication of war heroes
-
-Expresses doubts on if former leaders honoured sacrifices made by both war heroes, people post-war
-
-President Wickremesinghe yesterday expressed confidence in former Army Commander and MP Field Marshal Sarath Fonseka’s enduring commitment to the country and asserted that his military and political experiences continue to be invaluable assets.
-
-He made these remarks during the launch of ‘The Army Commander’s Promise to the Nation – I Will Not Leave This War to the Next Army Commander’, a book authored by Fonseka. The event, held at the Nelum Pokuna Theatre in Colombo, celebrated Fonseka’s pivotal role in ending the country’s 30-year civil war.
-
-President acknowledged Fonseka’s leadership was instrumental in securing victory in what he described as one of the world’s most challenging wars.
-
-...
-
-[Data](articles/51d80f70.json)
-
-[Extended Data](ext_articles/51d80f70.ext.json)
-
----
-
-### President sole leader capable of rebuilding Sri Lanka says Ittapane Dhammalankara
-
-*2024-06-29 02:04:09* · [`dailyftlk`](https://www.ft.lk/news/President-sole-leader-capable-of-rebuilding-Sri-Lanka-says-Ittapane-Dhammalankara/56-763639) · `en`
-
-The Chief Prelate of the Kotte Sri Kalyani Samagri Dharma Maha Sangha Sabha Aggamaha Pandita Most Venerable Dr. Ittapane Dhammalankara Maha Nayaka Thera, stated that President Ranil Wickremesinghe is the sole leader capable of rebuilding Sri Lanka’s economy and advancing the nation. The Maha Nayaka Thera who is also and Chancellor of the Sri Jayewardenepura University, emphasised that the President’s program merits the blessings of the entire Maha Sangha.
-
-The Maha Nayaka Thera made these remarks during President Wickremesinghe’s visit to Rukmale Sri Dharma Vijayaloka Maha Viharaya, Kottawa on Thursday.
-
-Upon arriving at the temple, President Wickremesinghe first participated in religious rituals to receive blessings. He then visited the Maha Nayaka Thera, inquiring about his health and engaging in a cordial discussion. Additionally, the President reviewed the temple’s development activities.
-
-...
-
-[Data](articles/acdfbf0c.json)
-
-[Extended Data](ext_articles/acdfbf0c.ext.json)
-
----
-
-### Mujibur accuses Cabinet of continued corruption
-
-*2024-06-29 01:54:29* · [`dailyftlk`](https://www.ft.lk/news/Mujibur-accuses-Cabinet-of-continued-corruption/56-763638) · `en`
-
-SJB MP Mujibur Rahman criticises President for failing to eliminate corruption in Government transactions
-
-Says President’s only recourse to increase revenue appears to be imposing an inexhaustible tax burden on citizens
-
-Emphasises urgent need for President to remove Ministers implicated in fraud and corruption
-
-Samagi Jana Balawegaya (SJB) MP Mujibur Rahman has accused the Cabinet of continuing corrupt practices and alleged President Wickremesinghe has not taken any steps to put a stop to them.
-
-Addressing a press conference at the Opposition leader’s office in Colombo yesterday, Rahman said there is no transparency in the procurement processes.
-
-Citing the National Lotteries Board (NLB) as an example, Rahman alleged the President has allowed the NLB to print all things including tickets issued without calling for tenders. He said the task has been entrusted to a group of friends of the Chairman of the Lottery Board.
-
-...
-
-[Data](articles/85c73f33.json)
-
-[Extended Data](ext_articles/85c73f33.ext.json)
-
----
-
-### USCIRF releases latest update on religious freedom in Sri Lanka
-
-*2024-06-29 01:53:51* · [`dailyftlk`](https://www.ft.lk/news/USCIRF-releases-latest-update-on-religious-freedom-in-Sri-Lanka/56-763637) · `en`
-
-The United States Commission on International Religious Freedom (USCIRF) yesterday released the latest report on Sri Lanka.
-
-The Sri Lanka Country Update provides an overview of the current religious freedom conditions in Sri Lanka and key observations from USCIRF’s 2023 delegation to the country, such as religiously motivated land disputes, registration challenges, and the use of discriminatory legislation to target and detain religious minorities. It includes a summary of proposed amendments to the Muslim Marriage and Divorce Act, the Anti-Terrorism Act, the Online Safety Bill, and the enforcement of the International Covenant on Civil and Political Rights Act.
-
-In its 2024 Annual Report, USCIRF recommended that the US Department of State include Sri Lanka on its Special Watch List for engaging in or allowing severe violations of religious freedom. In May 2024, USCIRF held a hearing on religious freedom in Sri Lanka.
-
-...
-
-[Data](articles/e1b9d90a.json)
-
-[Extended Data](ext_articles/e1b9d90a.ext.json)
-
----
-
-### LB Finance honored with award at inaugural Digital Trust Awards Night 2024
-
-*2024-06-29 01:28:00* · [`islandlk`](http://island.lk/lb-finance-honored-with-award-at-inaugural-digital-trust-awards-night-2024/) · `en`
-
-LB Finance PLC has proudly secured the merit award at the inaugural Digital Trust Awards Night 2024, held at The Monarch Imperial in Thalawathugoda. The award was given in the “Technology Resilient Company of the Year” category, marking a significant milestone in LB Finance’s history. This recognition celebrates the company’s exceptional commitment to cybersecurity, digital innovation, and the promotion of digital trust.
-
-The Digital Trust Awards Night was organized by ISACA Sri Lanka, a local chapter of the global association of IS security and governance professionals. ISACA Sri Lanka aims to promote and elevate the visibility of the IS audit, control, and security profession throughout the area by sponsoring local educational seminars and workshops.
-
-...
-
-[Data](articles/2ffa3320.json)
-
-[Extended Data](ext_articles/2ffa3320.ext.json)
-
----
-
-### ComBank wins two Golds at IDB’s Green Industry Awards 2024
-
-*2024-06-29 01:28:00* · [`islandlk`](http://island.lk/combank-wins-two-golds-at-idbs-green-industry-awards-2024/) · `en`
-
-The Commercial Bank of Ceylon won triple honours including two Golds at the Green Industry Awards 2024 presented by the Industrial Development Board (IDB) to recognize success stories in sustainability.Sri Lanka’s first 100% carbon neutral bank, Commercial Bank was presented the Gold for ‘Low carbon and/or climate-resilient production’ for the positive impacts of the Bank’s journey to carbon-neutral status; and the Gold for ‘Green digital and information technologies’ for its success in driving the adoption of digital banking by a wide spectrum of customers, thereby enhancing financial inclusion and reducing environmental impact.
-
-Commercial Bank also won the Bronze award for ‘Inclusive business development’ in recognition of its pioneering role in Green Financing to support initiatives aimed at addressing climate change, promoting environmental sustainability, and fostering eco-friendly activities.
-
-...
-
-[Data](articles/b86b7f89.json)
-
-[Extended Data](ext_articles/b86b7f89.ext.json)
-
----
-
-### Due to the status of repayment of the loan, Sri Lanka will benefit from $ 17 billion - Ali Sabri
-
-*2024-06-29 00:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187224) · `ta`
-
-Sri Lanka, through successful debt restructuring with bilateral lenders including India, Japan, France, and ongoing negotiations with China, expects to gain around $17 billion. This achievement paves the way for favorable outcomes in talks for international bailouts, aiming to reduce its total debt to 95% of its GDP and lower foreign loan interest by 4.5% of GDP.
-
-🟩
-
-Foreign Affairs Minister Ali Sabri said Sri Lanka would benefit from $ 17 billion benefit from the success of the debt reproductive process with bilateral credit providers.
-
-The Minister added that the situation will help you succeed in negotiations on international bailouts.
-
-Minister Ali Sabri said this at a media briefing held at the Presidential Media Center today (28).
-
-“On April 12, 2022, Sri Lanka decided to suspend a certain amount of foreign loans. Some accused the rupee of Rs 600, 700, 1000 against the US dollar. But we controlled that situation.
-
-In a contract with the International Monetary Fund, we were told to restructure the loan. For that, Lazart was appointed as our representative and Clipart Hans for legal matters. In the meantime, we first took steps to rebuild the domestic debt.It is noteworthy that despite such activities, we have been working as a country to pay off the debts of multi -regions.
-
-...
-
-[Data](articles/731639d3.json)
-
-[Extended Data](ext_articles/731639d3.ext.json)
-
----
-
-### What are the solutions to the challenges facing the Sri Lankan tea that the dollar brings?
-
-*2024-06-29 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/187223) · `ta`
-
-The challenges faced by Sri Lanka's tea industry are multifaceted, involving both internal and external factors. Here are the key challenges:
-
-
-
-1. **Declining Production**: Over the years, Sri Lanka's tea production has significantly decreased from 340 million kg to around 250 million kg annually. This decline is attributed to various factors, including lack of investment in high-yield crops, inefficient use of government-provided land, and a shift towards employing temporary rather than permanent workers.
-
-
-
-2. **Low Productivity**: The productivity of plantation companies is low, partly because of inadequate investment in modern farming techniques and technologies. Dr. Chandra Bose highlights that 30% of the land allocated for tea cultivation remains unused, indicating inefficiencies in land management and utilization.
-
-
-
-3. **Shift to Temporary Workers**: A significant portion of the workforce has transitioned from permanent to temporary employment, leading to early retirement and reduced commitment to the industry. This shift has negatively impacted the stability and efficiency of the workforce.
-
-
-
-4. **Economic Crisis**: The broader economic crisis in Sri Lanka has exacerbated the challenges faced by the tea industry. Rising costs of living and inflation have made it difficult for workers to afford even the current wages, let alone any increases. The increase in poverty levels, especially among plantation communities, underscores the urgency of addressing wage issues.
-
-
-
-5. **Market Competition and Global Trends**: The global demand for tea has seen a decline, affecting Sri Lanka's export earnings. Changes in consumer preferences and competition from other tea-producing countries have also played a role in reducing Sri Lanka's market share.
-
-
-
-6. **Government Focus and Legislation**: Criticisms have been raised regarding the Ministry of Plantation Industries' priorities, with allegations that it favors plantation owners over workers and fails to promote the growth and development of plantation companies effectively. The legacy of colonial-era laws and structures, such as the Labour Ordinance and the Plantation Human Development Fund, while intended to protect workers, have also been identified as areas needing reform to better address contemporary challenges.
-
-
-
-7. **Proposed Solutions and Challenges**: Suggestions for converting workers into small plantation owners aim to address wage issues and empower workers economically. However, implementing such changes requires significant restructuring of the industry, including land redistribution, provision of capital, and support services. This approach faces practical and logistical challenges, including resistance from existing plantation owners and the need for substantial government intervention and funding.
-
-
-
-Addressing these challenges requires comprehensive strategies that balance the interests of workers, plantation owners, and the broader economy. This includes investing in agricultural research and technology, improving working conditions and wages, reevaluating land use policies, and exploring innovative models of ownership and participation in the tea industry.
-
-🟩
-
-In 1972, the then government governmentization of all the gardens.Until 1992, the government held tea plantations.In 1992, the government leased these gardens to private companies.The private sector has been running the gardens for the past 32 years. About 22 private companies are currently leasing these tea plantations in Sri Lanka and about one lakh workers.The government is also running a few more companies. A government agency runs plantations in the name of People's Plantation Development Board. Similarly, the state of Elkaduwa Plantation on behalf of the state also manages gardens.The government runs a plantation company in the name of the Sri Lanka Plantation Joint Corporation.Under these three state agencies, there are 8000 workers.
-
-According to statistics of the United Nations Food and Agricultural Organization, the world's tea production has been increased for some years. Tea production has increased by 3.2 percent.By 2022, the world produced 6.7 million tonnes of tea.
-
-...
-
-[Data](articles/8199c992.json)
-
-[Extended Data](ext_articles/8199c992.ext.json)
-
----
-
-### Agriculture Minister to submit Cabinet paper to reduce coconut oil prices
-
-*2024-06-29 00:07:50* · [`dailyftlk`](https://www.ft.lk/business/Agriculture-Minister-to-submit-Cabinet-paper-to-reduce-coconut-oil-prices/34-763631) · `en`
-
-Agriculture Minister Mahinda Amaraweera on Wednesday confirmed that measures are being taken to address the rise in the price of coconut oil in the market.
-
-Speaking at the Presidential Media Centre he revealed the Government charges Rs. 150 per litre of imported coconut oil at present and he would propose a reduction of this amount via Cabinet paper.
-
-Citing data from the Coconut Development Authority (CDA), he said the annual coconut oil requirement is 25,868 tons. “There are 51,457 tons of coconut oil available within the country,” he said, asserting that the price hike was unwarranted.
-
-However, Minister Amaraweera acknowledged that the increase in fertiliser prices has impacted crops.
-
-◼️
-
-[Data](articles/3a896e94.json)
-
-[Extended Data](ext_articles/3a896e94.ext.json)
-
----
-
-### Debt Reorganization Agreements with India, China and JapanThe most easy entry for international funding
-
-*2024-06-29 00:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/187222) · `ta`
-
-Sri Lanka has secured debt reorganization agreements with China, India, Japan, and France, totaling $10 billion, marking a crucial step in its economic recovery. These agreements defer bilateral credit payments until 2028, providing significant relief. Additionally, Sri Lanka is negotiating with private creditors for debt restructuring, aiming to address its $14.7 billion debt issue. The agreements allow for loan extensions, reduced interest rates, and potential debt cancellations, offering a pathway towards stabilizing the economy and resuming stalled infrastructure projects.
-
-🟩
-
-The agreement on Wednesday has signed a consensus on Sri Lanka's bilateral credit restructuring with the official credit issuer and China, including India, Japan and France.Accordingly, on Wednesday evening, the Debt Reorganization Agreement with China was signed in Colombo and Beijing. Contracts were signed in Paris with Japan, France and India.The agreement was signed with India.
-
-This directory level is seen as the most important milestone in Sri Lanka's economic recovery process.This means that these agreements do not have to pay bilateral credit until 2018. There is a relief.
-
-...
-
-[Data](articles/36bdac9a.json)
-
-[Extended Data](ext_articles/36bdac9a.ext.json)
-
----
-
-### Serendib Flour Mills’ premium range impresses at international culinary extravaganza in Malé
-
-*2024-06-29 00:06:17* · [`dailyftlk`](https://www.ft.lk/business/Serendib-Flour-Mills-premium-range-impresses-at-international-culinary-extravaganza-in-Malé/34-763630) · `en`
-
-Serendib Flour Mills Ltd. recently showcased its commitment to quality and innovation at the 18th edition of the Hotel Asia Exhibition and International Culinary Challenge 2024, connecting with industry leaders and potential customers in the Maldives’ thriving hospitality sector.
-
-The premier event was held recently at the Dharubaaruge Exhibition Hall, Usfasgandu and the Maldives National University in Malé.
-
-Serendib Flour Mills exhibited its 7 Star Premium Bakers’ Flour and retail range, demonstrating the quality and versatility of its products. The company’s efforts were well-received, and representatives had the opportunity to engage with numerous culinary professionals from Maldivian resorts and hotels, as well as other industry stakeholders.
-
-...
-
-[Data](articles/e667d854.json)
-
-[Extended Data](ext_articles/e667d854.ext.json)
-
----
-
-### Empowering healthcare through education: People’s Bank and IIHS partner to support nursing excellence
-
-*2024-06-29 00:05:30* · [`dailyftlk`](https://www.ft.lk/business/Empowering-healthcare-through-education-People-s-Bank-and-IIHS-partner-to-support-nursing-excellence/34-763629) · `en`
-
-PB Empowering Healthcare Through Education People’s Bank and IIHS Partner to Support Nursing Excellence
-
-People’s Bank and the International Institute of Health Sciences (IIHS) have formalised a strategic partnership to enhance educational opportunities for nurses under the project “Heda Nena Weduma”. The Memorandum of Understanding (MOU) signing ceremony took place recently at the People’s Bank Head Office in Colombo 2, marking a significant milestone in fostering accessible education in the healthcare sector.
-
-Recognising the global shortage of nurses, estimated at 13 million worldwide, People’s Bank and IIHS have joined forces to empower aspiring and practicing nurses through specialised educational loan facilities. Under this initiative, People’s Bank will offer special concessionary interest rates for nursing students enrolled in degree programs at IIHS, thereby easing the financial burden associated with higher education.
-
-...
-
-[Data](articles/8759819a.json)
-
-[Extended Data](ext_articles/8759819a.ext.json)
-
----
-
-### 2024 Study in Korea Education Fair kicks off tomorrow in Colombo with 11 universities
-
-*2024-06-29 00:04:45* · [`dailyftlk`](https://www.ft.lk/business/2024-Study-in-Korea-Education-Fair-kicks-off-tomorrow-in-Colombo-with-11-universities/34-763628) · `en`
-
-The Embassy of the Republic of Korea and the National Institute for International Education of Korea in collaboration with the Ministry of Education of Sri Lanka will host its first ever “2024 Study in Korea Education Fair” paving way for Sri Lankan students to explore opportunities for higher studies in Korea.
-
-It will be held on Sunday 30 June and Monday 1 July from 10 a.m. to 5 p.m. at Trace Expert City, Maradana, Colombo 10.  11 Korean universities will come to Sri Lanka to participate in the Education Fair on the above dates at the Trace Expert City, Colombo 10. At the same time, for those who are not able to come, the online education fair will be held with the participation of 30 universities until Tuesday 2 July via the official website ‘studyinkorea.go.kr’.
-
-The opening ceremony on Sunday at 10 a.m. will be graced by Republic of Korea Ambassador Miyon Lee, and Education Minister Susil Premajayantha.
-
-...
-
-[Data](articles/4ff2034c.json)
-
-[Extended Data](ext_articles/4ff2034c.ext.json)
-
----
-
-### ComBank boosts digital banking with ‘Pay and Win’ and ‘Transact and Win’ promos
-
-*2024-06-29 00:04:32* · [`dailyftlk`](https://www.ft.lk/business/ComBank-boosts-digital-banking-with-Pay-and-Win-and-Transact-and-Win-promos/34-763627) · `en`
-
-The electricity bills of 300 customers will be wiped out, and three customers will each win a tour package for two to Singapore under an exciting new campaign launched by the Commercial Bank of Ceylon to promote the use of ‘ComBank Digital’ – Sri Lanka’s most-used digital banking platform.
-
-The bank has announced that these valuable prizes will be offered under two promotions – ‘Pay and Win’ and ‘Transact and Win’ – that will run till the end of August, and will be open to all existing users of ComBank Digital as well as new registrants that meet the eligibility criteria.
-
-Under the ‘Pay and Win’ promotion, Commercial Bank will provide cashbacks of up to Rs. 10,000 to 300 customers that pay their electricity bills via ComBank Digital in June, July, and August, rewarding 100 customers each month.
-
-...
-
-[Data](articles/c3fdd1ce.json)
-
-[Extended Data](ext_articles/c3fdd1ce.ext.json)
-
----
-
-### NDB announces Araliya Savings Account promotion
-
-*2024-06-29 00:04:24* · [`dailyftlk`](https://www.ft.lk/business/NDB-announces-Araliya-Savings-Account-promotion/34-763626) · `en`
-
-NDB Bank has announced the NDB Araliya Promotion 2024, running until 31 July under the theme ‘Save and Be Gifted’.
-
-This special campaign continues the bank’s tradition of empowering women by encouraging them to save and invest in their futures, offering exclusive rewards as a token of appreciation for their trust and commitment.
-
-The NDB Araliya savings account, designed specifically for women, aligns with the bank’s commitment to promoting female participation in the economic and social sectors. Through this initiative, NDB Bank aims to provide women with the financial tools and support necessary to achieve their personal and professional goals, reinforcing the bank’s dedication to empowering women in all their endeavours.
-
-...
-
-[Data](articles/178f24fe.json)
-
-[Extended Data](ext_articles/178f24fe.ext.json)
-
----
-
-### Ceylon Green Life Plantation enters food supplement market
-
-*2024-06-29 00:04:16* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Green-Life-Plantation-enters-food-supplement-market/34-763625) · `en`
-
-Guava and agro-cultivators, Ceylon Green Life Plantation Ltd., recently signed up with Ancient Nutra Ltd. to launch a “Deelectaa guava food supplement capsule” for the Sri Lankan market.
-
-...
-
-[Data](articles/7c037f7f.json)
-
-[Extended Data](ext_articles/7c037f7f.ext.json)
-
----
-
-### 2024-06-28 (Friday)
-
-### US Embassy commemorates 248 years of American independence
-
-*2024-06-28 23:59:42* · [`dailyftlk`](https://www.ft.lk/news/US-Embassy-commemorates-248-years-of-American-independence/56-763624) · `en`
-
-US Marines ceremonially presenting US flag to US Ambassador Julie Chung
-
-US Ambassador Julie Chung giving remarks at event to commemorate 248th anniversary of American independence
-
-The US Embassy in Colombo on Thursday celebrated the 248th anniversary of the independence of the United States of America with a festive event hosted by US Ambassador Julie Chung at the Galle Face Hotel.
-
-The Ambassador welcomed Chief Guest Tourism, Lands, Sports and Youth Affairs Minister Harin Fernando, alongside distinguished Sri Lankan officials, diplomats, and partners from the business, civil society, and media communities. This year’s American Independence Day celebration highlighted the enduring spirit of democracy and the robust partnership between the United States and Sri Lanka.
-
-...
-
-[Data](articles/5d988c47.json)
-
-[Extended Data](ext_articles/5d988c47.ext.json)
-
----
-
-### JICA improves elderly services in Sri Lanka
-
-*2024-06-28 23:57:52* · [`dailyftlk`](https://www.ft.lk/news/JICA-improves-elderly-services-in-Sri-Lanka/56-763623) · `en`
-
-The Thailand visiting program for the JICA Project for Capacity Enhancement of Elderly Service Management in the Community in Sri Lanka (ProCEES) was conducted from 26 to 31 May with a view to improving elderly services in Sri Lanka.
-
-JICA brought a delegation of 10 officials from the Ministry of Health and Ministry of Women, Child Affairs and Social Empowerment for this training.
-
-In Thailand, JICA supported the improvement of elderly services from 2007 to 2022. It was explained during the visiting program that Thailand had tackled similar challenges currently experienced by Sri Lanka. It was a great opportunity to discuss lessons learnt in Thailand and how to provide elderly services with available resources.
-
-...
-
-[Data](articles/b0197c2c.json)
-
-[Extended Data](ext_articles/b0197c2c.ext.json)
-
----
-
-### Everystory Sri Lanka holds first public event on women’s movements of Sri Lanka
-
-*2024-06-28 23:56:03* · [`dailyftlk`](https://www.ft.lk/news/Everystory-Sri-Lanka-holds-first-public-event-on-women-s-movements-of-Sri-Lanka/56-763622) · `en`
-
-Everystory Sri Lanka on 16 June hosted its first public event on the women’s movements of Sri Lanka at the Colombo Public Library.
-
-This unique trilingual event included public teach-outs, and a series of interactive learning opportunities on the topic facilitated through storytelling, sharing accessible resources, and creating spaces for dialogue. The event drew a crowd of over 300 eager to participate and learn.
-
-A key feature of this event was three teach-outs led by Sharanya Sekaram (English), Saritha Irugalbandara (Sinhala), and Siva Malathy (Tamil) that looked to provide a historical overview of the rich history of the women’s movements that have shaped Sri Lankan history since the 1920s.
-
-...
-
-[Data](articles/3ebf1460.json)
-
-[Extended Data](ext_articles/3ebf1460.ext.json)
-
----
-
-### Bishop Kirby De Lanerolle to lead 11,500 global free churches in new era of inter-religious harmony
-
-*2024-06-28 23:54:43* · [`dailyftlk`](https://www.ft.lk/news/Bishop-Kirby-De-Lanerolle-to-lead-11-500-global-free-churches-in-new-era-of-inter-religious-harmony/56-763621) · `en`
-
-From left: Pr. Upul Janaka, Pr. V. Manogaran Rajah, Bishop Kirby de Lanerolle, Ven. Kollonawe Narada Thero, Ven. Hadigalle Wimasara Thero, Pr. Susil Ranjith, Pr. Anjana Costa, and Pr. Disali Pietersz
-
-The Apostolic Diocese of Ceylon (ADC), in partnership with the Indian National Apostolic Diocese (INA), has announced a significant expansion of its mission globally.
-
-With the new appointment of Bishop Kirby Sinclair de Lanerolle as the General Secretary of the International Independent Apostolic Diocesan Synod (IIADS), with a mandate beyond the 670 churches in Sri Lanka to 11,000 churches in India, the Middle East and the USA.
-
-For the past decade, the ADC has been serving, covering, and representing free and independent churches in Sri Lanka. The ADC School currently trains up to 400 pastors and Christian leaders from across the country.
-
-...
-
-[Data](articles/ad8233fd.json)
-
-[Extended Data](ext_articles/ad8233fd.ext.json)
-
----
-
-### Bridging Sri Lanka’s “Leadership Deficit”: a conceptual framework for the near-future
-
-*2024-06-28 23:21:47* · [`dailyftlk`](https://www.ft.lk/columns/Bridging-Sri-Lanka-s-Leadership-Deficit-a-conceptual-framework-for-the-near-future/4-763612) · `en`
-
-The citizenry vote for politicians in the vain hope that ‘this time there will be change for the better’ – Pic by Shehan Gunasekara
-
-Despite the critical engagement of scholars and other writers in the mainstream media attempting to introduce leadership models with countervailing themes such as plurality, inclusiveness, sensitivity, empathy, acute self-knowledge and other ‘softer’ attributes, the essence of political leadership in Sri Lanka in the intervening decade and a half after the end of the so-called ‘ethnic war’ has seen a hardening of positions
-
-As Sri Lanka gears up for elections later this year, people of voting age would do well to gird their loins against being gulled again into casting their ballots unwisely for those whom we call our ‘leaders’.
-
-In the past we’ve voted repeatedly for crooks, charlatans, the incompetent, the corrupt, and the utterly unrepentant of their litany of crimes.
-
-...
-
-[Data](articles/70eb264c.json)
-
-[Extended Data](ext_articles/70eb264c.ext.json)
-
----
-
-### Why system change?
-
-*2024-06-28 23:16:34* · [`dailyftlk`](https://www.ft.lk/columns/Why-system-change/4-763611) · `en`
-
-The time has come to handover the baton to the new generation and not be foolish to underestimate its talent and commitment to remake Sri Lanka into an economically sustainable democracy with rule of law
-
-They are not only underestimating the intelligence of the new generation of voters who could distinguish between the objectives, programs and methodology of JVP in the past and its new NPP avatar, but also are hiding the fact that the mayhem was caused more by the reactionary forces ruling the country at that time than JVP itself. Beyond this elementary truth the critics also do not want to concede that the mother of all crises in Sri Lanka is the socio-political system built on an ideology of Sinhala Buddhist chauvinism (SBC) born out of political Buddhism
-
-...
-
-[Data](articles/79ae9320.json)
-
-[Extended Data](ext_articles/79ae9320.ext.json)
-
----
-
-### Sreedharan threatens MP ...
-
-*2024-06-28 23:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சிறீதரன்-எம்-பிக்கு-அச்சுறுத்தல்/71-339588) · `ta`
-
-Surveillance footage shows masked individuals on motorcycles outside MP Sivagnanam Sridharan's home in Jaffna, suggesting a threat to him and his family.
-
-🟩
-
-Member of Parliament Sivagnanam Sridharan has been observed today (28) in front of the house in Jaffna.
-
-Video footage recorded in surveillance confirms that the number of non -unidentified persons who have been wearing masks is a planned act that threatens MP Sreedharan and his family, on four hidden motorcycles.. Remble
-
-◼️
-
-[Data](articles/d5199d23.json)
-
-[Extended Data](ext_articles/d5199d23.ext.json)
-
----
-
-### Appeal against Hirunika
-
-*2024-06-28 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198270) · `si`
-
-Hirunika Premachandra, a former MP, was sentenced to three years in prison for abducting and assaulting a youth in 2015. Her lawyers plan to appeal this decision to the Court of Appeal. The case involved 18 charges, and despite initial acquittal for Premachandra and her guards, she was convicted on retrial by the Colombo High Court. The Deputy Solicitor General highlighted the misuse of power and urged for a stern sentence to deter similar offenses.
-
-🟩
-
-Her lawyers say that the imprisonment of Hirunika Premachandra will be filed against the Court of Appeal.
-
-Former MP Hirunika Premachandra sentenced to three years in prison today (28).
-
-It is in the case of abducting a youth and abusing a youth in 2015.
-
-Accordingly, Ms. Hirunika Premachandra was conquered by 18 accusations and each charge was fined Rs.
-
-Amila Priyanga, who was working in December 21, 2015, Mrs. Hirunika Premachandra, who was a young man and was accused of abducting a young man in Defender.
-
-After a preliminary investigation, Mrs. Hirunika Premachandra and eight her private guards were indignant before the Colombo High Court under 29 charges.
-
-Abduction, abduction and assistance, and the support of the abduction and assistance of a public purpose, the abduction and assistance of the indictment is to be abducted in the indictment of the indictment.
-
-...
-
-[Data](articles/4b304e20.json)
-
-[Extended Data](ext_articles/4b304e20.ext.json)
-
----
-
-### Powerful 7.2 magnitude earthquake hits southern Peru
-
-*2024-06-28 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100171/powerful-72-magnitude-earthquake-hits-southern-peru) · `en`
-
-(CNN) — At least eight people have been injured after a powerful 7.2 magnitude earthquake struck off the coast of southern Peru overnight Friday at a depth of 28 kilometers (17 miles), according to the United States Geological Survey (USGC).
-
-The quake hit 8 kilometers (5 miles) west of Atiquipa, about 600 kilometers (372 miles) south of the capital Lima.
-
-Some residents of Atiquipa said on social media they felt a very strong and long quake that caused their beds to shake.
-
-CCTV footage from the nearby town of Caraveli shows a residential street as the tremor shakes violently and people come out of their houses.
-
-The quake was felt as far as the capital. Video posted to social media shows lamps swaying inside houses in Lima.
-
-...
-
-[Data](articles/7405e424.json)
-
-[Extended Data](ext_articles/7405e424.ext.json)
-
----
-
-### The responsibility of announcing the bankruptcy of Sri Lanka is not of international financial standards- Minister Ali Sabri responds to opposition parties
-
-*2024-06-28 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187219) · `ta`
-
-Sri Lanka's External Affairs Minister Ali Sabri responded to opposition criticisms about the country's debt repayment capacity, stating that international financial standards do not dictate the announcement of its bankruptcy. He emphasized that the government would disclose its recovery status rather than relying on external assessments. Sabri urged opposition parties to base their criticisms on accurate information, highlighting a $17 billion profit from bilateral credit restructuring as evidence of economic resilience.
-
-🟩
-
-International Financial Retariting Companies reveal the level of Sri Lanka's debt re -payment capacity development. On the contrary, it will not be revealed whether or not. External Affairs Minister Ali Sabri said the opposition parties should know this and present criticism.
-
-He further stated at the media conference held at the Presidential Media Center on Friday (28).
-
-On April 12, 2022, we announced that we cannot repay a sum of international debt. The Sri Lankan government announced this. Rather than foreign financing companies. Similarly, we will announce whether Sri Lanka is recovering from that situation. International financial standards will reveal the level of Sri Lanka's debt re -enactment capacity.
-
-Opposition parties that spread bogus ideas among the people should understand this and then present criticism. We have received a profit of $ 17 billion as bilateral credit restructuring has been reached. This is a huge strength for our economy.
-
-...
-
-[Data](articles/426ffd82.json)
-
-[Extended Data](ext_articles/426ffd82.ext.json)
-
----
-
-### Govt says Rs. 11.6 billion disbursed to ‘Aswesuma’ beneficiaries for June
-
-*2024-06-28 22:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100170/govt-says-rs-116-billion-disbursed-to-aswesuma-beneficiaries-for-june) · `en`
-
-Under the “Aswesuma” Welfare Benefit Payment Program, the Welfare Benefits Board has disbursed a total of Rs. 11.6 billion to the bank accounts of 622,495 beneficiaries in the transitional and vulnerable categories yesterday (27) for the payments of June 2024.
-
-In the first phase of the program, eligible beneficiaries in the vulnerable category received Rs. 5,000 from July 2023 to March 31, 2024. Meanwhile, those in the transitional category received Rs. 2,500 from July 2023 to December 31, 2023.
-
-In response to the current economic situation, President Ranil Wickremesinghe has instructed the Welfare Benefits Board to extend the payment period of special allowances for beneficiaries in the transitional and vulnerable categories under the “Aswesuma” Welfare Benefit Payment Program until December this year, the President’s Media Division said.
-
-...
-
-[Data](articles/a652fec2.json)
-
-[Extended Data](ext_articles/a652fec2.ext.json)
-
----
-
-### Written by Field Marshal Sarath Fonseka
-
-*2024-06-28 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/187221) · `ta`
-
-Field Marshal Sarath Fonseka, a former Army Commander and Member of Parliament, received recognition for his leadership in ending a 30-year war. President Ranil Wickremesinghe praised Fonseka's contributions, highlighting his ability to navigate both war and political challenges. The President noted Fonseka's strategic role in the Jayasikuru struggle in Jaffna and his resilience in making tough decisions amidst war casualties and losses. Despite facing challenges in civilian life, Fonseka was conferred the Field Marshal status, acknowledging his significant contributions to the nation. The event underscored the importance of Fonseka's service and his ongoing relevance to the country's future development.
-
-🟩
-
-Former Army Commander and Member of Parliament, Field Marshal Sarath Fonseka, who gave the best leadership to conclude the thirty -year war - Promise to the Army Commander - Written by President Ranil Wickremesinghe on Friday (28), titled "The War will remain up to the Commander -in -Chief."Held in the gallery.
-
-The first copy of the book was presented to the President by Marshal Sarath Fonseka.
-
-Field Marshal Sarath Fonseka then presented a souvenir to the President.
-
-The President praised Field Marshal Sarath Fonseka's service, saying that the victory of the war will only be a great service to the country in the future.
-
-"Only Sarath Fonseka plays the status of Field Marshall. He has conquered the war challenges and has confronted the political challenges outside.
-
-...
-
-[Data](articles/4b71f54f.json)
-
-[Extended Data](ext_articles/4b71f54f.ext.json)
-
----
-
-### Top US Treasury official to visit Sri Lanka next week
-
-*2024-06-28 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100169/top-us-treasury-official-to-visit-sri-lanka-next-week) · `en`
-
-U.S. Department of the Treasury’s Deputy Assistant Secretary (DAS) for Asia Robert Kaproth is scheduled to visit Sri Lanka next week.
-
-He is scheduled to meet government officials, think tanks, and financial sector leaders in Sri Lanka during the visit.
-
-“We look forward to welcoming US Treasury Deputy Assistant Secretary Robert Kaproth back to Sri Lanka next week to meet with government officials, think tanks, and financial sector leaders.”
-
-“DAS Kaproth’s visit underscores U.S. commitment to supporting Sri Lanka during this crucial period,” U.S. Ambassador to Sri Lanka Julie J. Chung said in a post on ‘X’.
-
-She added that deepening reforms that encourage transparency, accountability, and sustainability in government, economic, and financial sectors is vital as Sri Lanka works to build its economic recovery and resilience.
-
-◼️
-
-[Data](articles/c654efd2.json)
-
-[Extended Data](ext_articles/c654efd2.ext.json)
-
----
-
-### Fonseka's promise to the President
-
-*2024-06-28 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198269) · `si`
-
-President Ranil Wickremesinghe calls for additional contributions from MP Field Marshal Sarath Fonseka, emphasizing the nation's need for his services.
-
-🟩
-
-President Ranil Wickremesinghe says that the country needs to provide another service from MP Field Marshal Sarath Fonseka, MP's Field Marshal Sarath Fonseka.
-
-◼️
-
-[Data](articles/033483b9.json)
-
-[Extended Data](ext_articles/033483b9.ext.json)
-
----
-
-### Powerful earthquake at 7.2 magnitude in Peru
-
-*2024-06-28 21:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/187220) · `ta`
-
-A powerful 7.2 magnitude earthquake struck off the coast of Peru, triggering a tsunami warning and causing widespread fear. Videos from the event show dramatic scenes of buildings shaking, rocks falling onto roads, and cars parked on streets. The quake also disrupted traffic on the Pan-American Highway near Karaveli.
-
-🟩
-
-The earthquake has been recorded on a magnitude 7.2 magnitude in the seas of Peru.
-
-A tsunami warning has been issued due to the earthquake. This is why people are afraid.
-
-Video of the CCTV footage recorded during the earthquake has been shared on social networks. The video features shocking scenes along the Earth parked on the street.
-
-Similarly, the lights inside the house were shaken by the earthquake. A related video has been released. The rocks on the mountain fell on the Pan-American highway due to an earthquake in Karaveli.. It is noteworthy that traffic in the area has been affected.
-
-◼️
-
-[Data](articles/7ea5c055.json)
-
-[Extended Data](ext_articles/7ea5c055.ext.json)
 
 ---

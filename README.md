@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 03:19:47**
+As of **2024-07-01 03:34:55**
 
 ## Newspaper Stats
 
-*Scraped **32,968** Articles*
+*Scraped **32,970** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,929
 dailyftlk | 2,015
 adalk | 2,931
 adaderanalk | 3,759
-tamilmirrorlk | 3,899
+tamilmirrorlk | 3,901
 dailymirrorlk | 4,733
 virakesarilk | 5,133
 adaderanasinhalalk | 5,448
@@ -26,11 +26,49 @@ adaderanasinhalalk | 5,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,968 (100.0%) of 32,968 articles have been extended.
+32,968 (100.0%) of 32,970 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
+
+### இருவாரங்களில் 12 பேர் இணைவர்
+
+*2024-07-01 01:52:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவாரங்களில்-12-பேர்-இணைவர்/175-339672) · `ta`
+
+எதிர்வரும் இரண்டு வாரங்களில் 12 பாராளுமன்ற உறுப்பினர்கள் தங்களுடன் இணையவுள்ளதாக ஐக்கிய மக்கள் சக்தியின்  பொதுச் செயலாளர் ரஞ்சித் மத்துமபண்டார தெரிவித்துள்ளார்.
+
+இது தொடர்பில் ஊடகங்களுக்கு கருத்து தெரிவித்த அவர், பாராளுமன்ற உறுப்பினர்கள் அரசாங்கத்திற்கு வரவுள்ளதாக அரசாங்கம் ஒரு வருடமாக கூறி வருகின்ற போதிலும் எவரும் அரசாங்கத்துடன் இணைந்து கொள்ளவில்லை எனவும் தெரிவித்தார்.
+
+ஜனாதிபதித் தேர்தலை ஜனாதிபதியால் ஒத்திவைக்கமுடியாது. ஆனால், பாராளுமன்றத்தில் ஒரு பிரேரணையை முன்வைத்து, மூன்றிலிரண்டு பெரும்பான்மையுடன் அந்தப் பிரேரணை நிறைவேற்றி, ஜனாதிபதித் தேர்தலை ஒத்திவைக்கமுடியும்.
+
+எனினும், கடந்த காலங்களில் பாராளுமன்றத்தில் நிறைவேற்றப்பட்ட சட்டமூலங்களின் போது, அரசாங்கத்துக்கு 112 வாக்குகளே கிடைத்தன. இது மூன்றில் இரண்டு பெரும்பான்மை இல்லை. தமிழ், முஸ்லிம் கட்சிகளுடன் இணைந்து பாரிய கூட்டணியை ஐக்கிய மக்கள் சக்தியே உருவாக்கும்.
+
+...
+
+[Data](articles/60a4c18a.json)
+
+---
+
+### தாமரை மொட்டில் தனி வேட்பாளர்
+
+*2024-07-01 01:46:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரை-மொட்டில்-தனி-வேட்பாளர்/175-339671) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் தனி வேட்பாளர் ஒருவர் நிச்சயமாக நிறுத்தப்படுவார் என ஸ்ரீலங்கா பொது மக்கள் முன்னணியின் பதுளை மாவட்ட பாராளுமன்ற உறுப்பினர்  ஜானக திஸ்ஸகுட்டியாராச்சி தெரிவித்தார்.
+
+அப்போது இருந்த பிரச்சினைகளை தீர்க்கவே ரணில் விக்ரமசிங்கவை ஆட்சிக்கு கொண்டு வந்ததாக கூறிய  திஸ்ஸ குட்டியாராச்சி, ரணில் விக்ரமசிங்க இல்லாமல் ரோஹித அபேகுணவர்தன இருந்தாலும் அந்த வேலையை காஞ்சனாலா ஷெஹான் சரியாக செய்வார் எனவும் தெரிவித்தார்.
+
+ஶ்ரீலங்கா பொதுஜன பெரமுனவின் அகலவத்தை தொகுதி மாநாட்டில் கலந்துகொண்டு உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+வரிசையை நிறுத்தியவர்களோ, இரண்டு ஐம்பதுக்கு உணவு கொடுத்தவர்களோ, பால் மா பாக்கெட்டின் விலையைக் குறைத்தோ, ஒருவரைக் கொன்றோ தலைவர்களை நியமிக்க முடியாது என்றும் அவர் குறிப்பிட்டுள்ளார்.
+
+"நாமலை அழைத்து வர முற்படும் போது, அவர் இன்னும் சோம்பேறியாக இருப்பதாக கூறுகிறார், அவர் எங்கே சோம்பேறியாக இருக்கிறார் என்று எனக்குத் தெரியவில்லை," என்றும் தெரிவித்த  திஸ்ஸ குட்டியாராச்சி அநுரகுமாரவிடம் பொருளாதாரக் கொள்கை இல்லை என்றார்.
+
+◼️
+
+[Data](articles/55917ec4.json)
+
+---
 
 ### Come forward to increase daily pain
 
@@ -2315,53 +2353,5 @@ The car has been drove by a woman who had obtained a new driving license.
 [Data](articles/40b85aa3.json)
 
 [Extended Data](ext_articles/40b85aa3.ext.json)
-
----
-
-### The number of casualties in the Mediterranean
-
-*2024-06-30 10:03:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடுக்கடலில்-உயிரிழந்தவர்களின்-எண்ணிக்கை-அதிகரித்தது/175-339628) · `ta`
-
-In the Mediterranean, the Sri Lankan navy reported four deaths due to consuming sea water after a liquor spill. Two fishermen were rescued and taken to Singapore for treatment. The Director General of Fisheries mentioned that the Devon 5 boat, sailing from Tangalle, faced this issue due to its distance from shore, receiving only emergency aid over radio. Efforts are underway to reach the remaining crew safely.
-
-🟩
-
-The Sri Lankan navy said the number of people died of drinking water in the sea of ​​liquor, which was floating in the sea, has increased to four.
-
-Meanwhile, two of the poor fishermen have been shipped to a Singapore business vessel and are being treated in emergency, the naval spokesman said.
-
-Director General of the Department of Fisheries and Aquatic Resources, Susantha Kahawatta said that the fishermen of the Devon 5 fishing boat, who went to sea from the Tangalle fishing harbor.
-
-He said that medical teams have provided emergency first aid instructions through communication equipment and that there is insufficient time to send another ship to the sea to rescue them as it is in the deep sea.
-
-He also said that efforts are being made to carry them to the nearest ship and bring them to shore.
-
-The incident was said to have occurred when the boat was 320 nautical miles (592.64 km) from the Sri Lankan coast.. Remble
-
-◼️
-
-[Data](articles/2ebb01cd.json)
-
-[Extended Data](ext_articles/2ebb01cd.ext.json)
-
----
-
-### Sri Lanka budget deficit implodes 56-pct to April 2024, interest bill eases
-
-*2024-06-30 09:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-collapses-up-to-april-2024-interest-bill-start-to-ease-170246/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s budget deficit has collapsed to 361 billion rupees up to April 2024 from 824.2 helped by higher tax revenues and a falling interest bill, official data show.
-
-Revenues surged 48 percent to 1,216 billion rupees to April 2024, ahead of the 35 percent annual growth projected in a budget, with higher value added and income tax rates as well as economic activity recovering close to previous levels.
-
-Sri Lanka is emerging from the worst case of ‘policy support’ deployed by macroeconomists since the central bank was set up in 1950 where the usual inflationary rate cuts which trigger currency crises and IMF programs, was also backed up tax cuts.
-
-Giving policy support and denying monetary stability has become mainstream in the age of inflation and ‘age of external defaults without a war’ due to so-called Saltwater-Cambridge doctrine, critics say.
-
-...
-
-[Data](articles/147d43c5.json)
-
-[Extended Data](ext_articles/147d43c5.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 05:05:08**
+As of **2024-07-01 05:19:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,978 (100.0%) of 32,984 articles have been extended.
+32,984 (100.0%) of 32,984 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Amerasinghe claimed that the SIS had informed the Criminal Investigations Depart
 
 [Data](articles/200e8467.json)
 
+[Extended Data](ext_articles/200e8467.ext.json)
+
 ---
 
 ### ADIC urges halt to cannabis cultivation initiative in SL
@@ -63,6 +65,8 @@ In a press release, ADIC noted that while the ministries assert that their prima
 ...
 
 [Data](articles/6935e708.json)
+
+[Extended Data](ext_articles/6935e708.ext.json)
 
 ---
 
@@ -86,6 +90,8 @@ Addressing a press conference in Colombo, Marikkar pointed out that according to
 
 [Data](articles/dbeda20e.json)
 
+[Extended Data](ext_articles/dbeda20e.ext.json)
+
 ---
 
 ### Sajith promised estate workers ownership of small estates under future SJB Govt.: TPA
@@ -104,6 +110,8 @@ The MP proposed that workers should receive maximum benefits from their labour, 
 
 [Data](articles/6b3d8282.json)
 
+[Extended Data](ext_articles/6b3d8282.ext.json)
+
 ---
 
 ### Former President Mahinda Rajapaksa was seen greeting Chinese President Xi Jinping at the conference commemorating the 70th anniversary
@@ -115,6 +123,8 @@ Former President Mahinda Rajapaksa was seen greeting Chinese President Xi Jinpin
 ◼️
 
 [Data](articles/e5021d68.json)
+
+[Extended Data](ext_articles/e5021d68.ext.json)
 
 ---
 
@@ -135,6 +145,8 @@ Although the circumstances of her disappearance and discovery are still under in
 ...
 
 [Data](articles/11374738.json)
+
+[Extended Data](ext_articles/11374738.ext.json)
 
 ---
 

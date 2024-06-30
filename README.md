@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 15:05:12**
+As of **2024-06-30 15:19:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,432
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,874 (99.9%) of 32,894 articles have been extended.
+32,887 (100.0%) of 32,894 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ Two Sri Lanka Navy personnel attached to the Intelligence Unit have been arreste
 ◼️
 
 [Data](articles/37f29540.json)
+
+[Extended Data](ext_articles/37f29540.ext.json)
 
 ---
 
@@ -490,21 +492,27 @@ Maharagama Police is conducting further investigations related to the incident.
 
 ---
 
-### සජිත් ආරම්භ කළ නිවාස 45,117 ක වැඩ අවසන් කරන්න කැබිනට් අනුමැතිය
+### Last 45,117 houses established at Sajith initiated 45,117 houses
 
 *2024-06-30 10:48:33* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-ආරම්භ-කළ නිවාස-45-117-ක-වැඩ-අවසන්-කරන්න-කැබිනට්-අනුමැතිය/11-410514) · `si`
 
-සජිත් ප්‍රේමදාස මහතා අතරමග නවතා දැමූ නිවාස ව්‍යාපෘතිවල වැඩකටයුතු අවසන් කිරීමට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමි වේ.
+Sajith Premadasa, the Opposition Leader and former Minister of Housing, initiated numerous housing projects aimed at low-income communities. Despite approving 45,117 houses, his tenure saw the halt of 229,580 units due to funding issues. The National Housing Development Authority suspended further payments on 184,463 houses. Premadasa has now sought Cabinet approval to complete 45,117 units, facing criticism over unfinished projects.
 
-විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා නිවාස විෂයභාර අමාත්‍යවරයා ලෙස කටයුතු කළ 2015 – 2019 කාලවකවානුව තුළ ජාතික නිවාස සංවර්ධන අධිකාරිය මගින් සැමට සෙවණ නිවාස වැඩසටහන යටතේ අඩු ආදායම්ලාභී ප්‍රජාව ඉලක්ක කරගනිමින් ව්‍යාපෘති 07 ක් ආරම්භ කර තිබිණ.
+🟩
 
-ආදර්ශ ගම්මාන වැඩසටහන, විසිරි ණය (ආධාර) වැඩසටහන, ග්‍රාම ශක්ති විසිරි ආධාර, විසිරි ණය වැඩසටහන, විරු සුමිතුරු, වකුගඩු ආධාර, ගංවතුරෙන් හානි වූ උතුරේ නිවාස ඉදිකිරීම මෙම ව්‍යාපෘති 07 යි.
+Sajith Premadasa is approved by the Cabinet to end the work of the housing projects.
 
-සජිත් ප්‍රේමදාස මහතා නිවාස අමාත්‍යවරයා වශයෙන් සිටියදී ඉදිකිරීම් ආරම්භ කරන ලද නිවාස ඒකක ගණන 387,520 කි. එක් උදාගම්මාන වැඩසටහනක් සඳහා වෙන් කළ මුදල කොටස් වශයෙන් උදාගම්මාන කිහිපයක් සඳහා වෙන්කිරීමත්, ව්‍යාපෘති සදහා වෙන් කළ මුදල් ප්‍රතිපාදනවලින් 79.97% ක් පමණක් ලැබීමත් යන හේතූන් මත නිවාස ඒකක 229,580 ක ඉදිකිරීම් අතරමග නතර වී තිබේ.
+Opposition Leader Sajith Premadasa has served as the Minister of Housing Grounds 2019 - 2019 07 projects had commenced a number of projects targeting the low income community under the Sevana Housing Program.
+
+The model village program, academic loans (aid) program, Visitor Aid, Walking, Walking, Relief Aid, Damage Damaged, Damage Damaged and Damage Damaged by Floods damaged.
+
+Sajith Premadasa was 387,520 housing units where the construction was Minister of Housing. The construction of 229,580 housing units have stopped by allocation of allocated amount of money for a single Uda-Udammana program.
 
 ...
 
 [Data](articles/160a1e79.json)
+
+[Extended Data](ext_articles/160a1e79.ext.json)
 
 ---
 
@@ -1346,6 +1354,8 @@ There are conflicting views not only between parties but also within each party 
 
 [Data](articles/5bc40ed7.json)
 
+[Extended Data](ext_articles/5bc40ed7.ext.json)
+
 ---
 
 ### US Treasury Officer comes to Sri Lanka
@@ -1488,35 +1498,47 @@ Shivam Dubey scored 27 runs for his share, India scored 176 runs for the loss of
 
 ---
 
-### ஜனாதிபதிக்கு சூனியம் வைத்த பெண் அமைச்சர் கைது
+### Woman minister arrested for witchcraft for president
 
 *2024-06-29 23:24:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜனாதிபதிக்கு-சூனியம்-வைத்த-பெண்-அமைச்சர்-கைது/50-339605) · `ta`
 
-மாலைத்தீவின் சுற்றுலா துறை அமைச்சர் பாத்திமா ஷாம்னாஸ் சலீம். இவரது கணவர் ஆதம் ரமீஸ் ஜனாதிபதி மாளிகையில் அமைச்சருக்கு இணையான பதவி வகித்து வருகிறார்.
+Fatima Shamnas Salim, Maldives' Tourism Minister, was arrested along with her husband Adam Rameez for allegedly practicing witchcraft against President Mohammed Mohesu. Police raided their home based on complaints and found suspicious items, leading to the arrest of four individuals.
 
-இந்த நிலையில், ஜனாதிபதி முகமது மொய்சுவுக்கு பாத்திமா, பில்லி சூனியம் வைத்தார் என அவர் மீது புகார் கூறி அவரது வீட்டுக்குச் சென்ற பொலிஸார் அங்கு தீவிர சோதனைநடத்தினர்.
+🟩
 
-அப்போது சந்தேகத்துக்குரிய பல பொருட்கள் அங்கு கண்டறியப்பட்டன. அவற்றை கைப்பற்றிய பொலிஸார் பாத்திமா ஷாம்னாஸ், ஆதம் ரமீஸ் உள்பட 4 பேரை கைது செய்தனர். (a)
+Tourism Minister of Maldives Fatima Shamnas Salim. Her husband Adam Rameez is holding a parallel to the minister at the President's House.
+
+At this juncture, police went to his house and went to his home by complaining that Fatima had put Billy witchcraft to President Mohammed Mohesu.
+
+There were many suspected items found there. The police seized them and arrested four people, including Fatima Shamnaz and Adam Rameez.. (A)
 
 ◼️
 
 [Data](articles/b0f9aa43.json)
 
+[Extended Data](ext_articles/b0f9aa43.ext.json)
+
 ---
 
-### பாலித ரங்கே பண்டாரவின் மகனுக்கு பிணை
+### Bail for the son of Palitha Range Bandara
 
 *2024-06-29 22:52:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலித-ரங்கே-பண்டாரவின்-மகனுக்கு-பிணை/175-339604) · `ta`
 
-புத்தளம் - கருவலகஸ்வெவ பிரதேசத்தில் இடம்பெற்ற வாகன விபத்து தொடர்பில் கைது செய்யப்பட்ட பாலித ரங்கே பண்டாரவின் மகன் யசோத ரங்கே பண்டாரவை பிணையில் விடுவிக்குமாறு புத்தளம் நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+Yasoda Range Bandara, son of Palitha Range Bandara, was released from jail but had his driver's license suspended after being linked to a 2018 vehicle accident in Puttalam - Karuwalakaswewa.
 
-ஆனால், அவரது சாரதி அனுமதிப்  பத்திரத்தை தற்காலிகமாக ரத்து செய்து நீதிமன்றம் உத்தரவிட்டுள்ளது.
+🟩
 
-யசோதா ரங்கே பண்டார கடந்த 2018 ஆம் ஆண்டு இடம்பெற்ற வாகன விபத்து தொடர்பில் விளக்கமறியலில் வைக்கப்பட்டிருந்தவர் என்பது குறிப்பிடத்தக்கது. R
+Puttalam Magistrate's Court has ordered the release of Yasoda Range Bandara, son of Palitha Range Bandara, who was arrested in connection with a vehicle accident in Puttalam - Karuwalakaswewa area.
+
+However, the court has temporarily canceled his driver's license.
+
+It is noteworthy that Yasoda Range Bandara was in detail in connection with the 2018 vehicle accident.. Remble
 
 ◼️
 
 [Data](articles/a324376e.json)
+
+[Extended Data](ext_articles/a324376e.ext.json)
 
 ---
 
@@ -1540,23 +1562,29 @@ The Indian and Chinese militaries have been locked in a standoff in Ladakh since
 
 ---
 
-### இலங்கையில் கொத்து கொத்தாக சிக்கும் வெளிநாட்டவர்கள்
+### Foreigners in Sri Lanka
 
 *2024-06-29 22:47:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-கொத்து-கொத்தாக-சிக்கும்-வெளிநாட்டவர்கள்/175-339603) · `ta`
 
-ஒன்லைன் மூலம் மோசடி செய்த 30 சீன பிரஜைகளை நீர்கொழும்பில் உள்ள ஹோட்டல் ஒன்றில் வைத்து இன்று கைது செய்யப்பட்டதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதி பொலிஸ்மா அதிபர் நிஹால் தல்துவ தெரிவித்தார்.
+In Sri Lanka, 30 Chinese nationals were arrested for online fraud, including Bitcoin scams. The arrests followed a series of money laundering cases involving foreign nationals. Authorities urge vigilance among the public, especially regarding property rentals, and ask for reports on suspicious activities.
 
-இக்குழுவினர் BITCOIN ஊடாக இணையத்தில் பல்வேறு மோசடிகளில் ஈடுபட்டு வந்தமை முதல்கட்ட விசாரணையில் தெரியவந்துள்ளதாக விசாரணை அதிகாரிகள் தெரிவித்துள்ளனர்.
+🟩
 
-இலங்கையில் தங்கியிருந்து ஒன்லைனில் பணம் மோசடி செய்த குற்றச்சாட்டின் கீழ் கடந்த சில நாட்களுக்கு முன்னர் பெருமளவான வெளிநாட்டவர்கள் கைது செய்யப்பட்டனர்.
+Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa said that 30 Chinese citizens who defrauded online were arrested at a hotel in Negombo today.
 
-இவ்வாறான மோசடி தொடர்பில் தகவல் தெரிந்தால் தமக்கு அறிவிக்குமாறு இலங்கை பொலிஸார் பொதுமக்களிடம் கோரியுள்ளனர்.
+Investigations have revealed that the group was involved in various frauds on the Internet via Bitcoin.
 
-மேலும் வீடுகளை வாடகைக்கு விடும்போது பொதுமக்கள் மிகவும் கவனமாக இருக்குமாறும் அறிவுறுத்தப்படுகிறார்கள். R
+A large number of foreigners were arrested a few days ago on charges of defrauding money on an online money laundering in Sri Lanka.
+
+Sri Lankan police have asked the public to inform them if they are informed of such fraud.
+
+The public is advised to be very careful when renting more houses. Remble
 
 ◼️
 
 [Data](articles/3b4f7b3f.json)
+
+[Extended Data](ext_articles/3b4f7b3f.ext.json)
 
 ---
 
@@ -1732,21 +1760,27 @@ He said that the universal power of the Galle public rally was addressing the Ga
 
 ---
 
-### காணாமல் போன வெளிநாட்டு சுற்றுலா பயணி மீட்பு
+### Missing Foreign Traveler Recovery
 
 *2024-06-29 19:52:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/காணாமல்-போன-வெளிநாட்டு-சுற்றுலா-பயணி-மீட்பு/75-339601) · `ta`
 
-இஸ்ரேல் நாட்டில் இருந்து இலங்கைக்கு வருகை தந்த 25 வயதுடைய பெண் சுற்றுலா பயணி 3 நாட்களுக்கு முன்பு திருகோணமலையில் மர்மமான முறையில் காணாமல் போன நிலையில், இவ்விடயம் குறித்து இன்று ஆளுநரின் கவனத்திற்கு கொண்டு வந்ததை அடுத்து கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் தலையீட்டில், 10 மணி நேரத்திற்குள் அப்பெண் கண்டுபிடிக்கப்பட்டுள்ளார்.
+A 25-year-old Israeli tourist went missing in Trincomalee, Sri Lanka, prompting a multi-agency search involving the police, military, local government, and tourism bureau. The tourist was found near Salli Kovil today, in a distressed state. Following her medical check-up, further directives were issued to the Eastern Provincial Tourism authorities.
 
-பொலிஸ், இராணுவம், பிரதேச செயலகம், உப்புவேலி பிரதேச சபை,சுற்றுலாப் பணியகம் ஆகியவை மீட்பு பணி ஈடுபட ஆளுநரால் பணிப்புரை விடுக்கப்பட்டது.
+🟩
+
+A 25 -year -old female tourist who arrived in Sri Lanka from Israel was mysteriously disappeared in Trincomalee 3 days ago.
+
+The Governor was issued a directive to rescue the police, the military, the Divisional Secretariat, the Uppuveli Pradeshiya Sabha and the Tourism Bureau.
 
 ஆளுநரின் பணிப்புரைக்கு அமைய, குறித்த தரப்பினர் தேடுதல் பணியில் ஈடுப்பட்டு, மர்மமான முறையில் காணாமல் போன பெண்ணை மயங்கிய நிலையில் சல்லி கோவிலுக்கு அருகில் இன்று மீட்டு எடுத்துள்ளனர். .
 
-குறித்த சுற்றுலா பயணி மருத்துவ பரிசோதனையின் பின், அவருடைய நாட்டு தூதரகத்தில் ஒப்படைக்குமாறு ஆளுநரால் கிழக்கு மாகாண சுற்றுலா பணியத்திற்கு பணிப்புரை விடுக்கப்பட்டது.
+After the tourist medical examination, the governor was issued a directive to the Eastern Provincial Tourism Tourism Tourism Tourism.
 
 ◼️
 
 [Data](articles/5ed109f2.json)
+
+[Extended Data](ext_articles/5ed109f2.ext.json)
 
 ---
 
@@ -1813,6 +1847,8 @@ Domestic financing was also lower at 296.1 billion rupees, down from 666.1 billi
 ◼️
 
 [Data](articles/dfef98fd.json)
+
+[Extended Data](ext_articles/dfef98fd.ext.json)
 
 ---
 
@@ -1882,6 +1918,8 @@ He left the UK, secure in the fact that with doctors in the family she was in go
 
 [Data](articles/a5b04619.json)
 
+[Extended Data](ext_articles/a5b04619.ext.json)
+
 ---
 
 ### A severe famine in Sudan
@@ -1906,39 +1944,53 @@ The Sudan Food crisis is considered as the worst famine in the world as the wors
 
 ---
 
-### රංගෙගේ පුතා රිය අනතුරකට අත්අඩංගුවට  - රියදුරු බලපත්‍රය අත්හිටුවයි
+### Range's son arrested for suspending driver's license
 
 *2024-06-29 18:01:50* · [`adalk`](https://www.ada.lk/breaking_news/රංගෙගේ-පුතා-රිය-අනතුරකට-අත්අඩංගුවට----රියදුරු-බලපත්‍රය-අත්හිටුවයි/11-410504) · `si`
 
-කරුවලගස්වැව 6 කනුව ප්‍රදේශයෙ දි ත්‍රි රෝද රථයක් අනතුරකට ලක් කර එක් අයකුට බරපතල තුවාල සිදුකිරීම ඇතුළු චෝදනා ගනනාවක් සම්බන්ධයෙන් අත් අඩංගුවට ගැනුන එක්සත් ජාතික පක්ෂ මහ ලේකම් පාලිත රංගේ බංඩාර මහතාගේ පුත් යසෝධ රංගේ බංඩාර පුත්තලම අධිකරණයට ඉදිරිපත් කිරීමේන් පසු ලක්ෂ පහක ශරීර ඇප මත මුදා හැරීමට නියෝග කල වැඩ බලන මහෙස්ත්‍රාත් වරයා අදාල සැකකරුගේ රියදුරු බලපත්‍රය තාවකාලිකව අත් හිටුවිමට නියෝග කෙරුණී.
+UNP General Secretary's son, involved in a severe accident near Karuwalagaswewa 6, was arrested and later released on bail. He allegedly suspended his driver's license after the incident, which led to his arrest. The accident occurred while he was driving from Puttalam, causing serious injuries to the three-wheeler driver who was admitted to Puttalam Hospital.
 
-29 අලුයම පුත්තලම ප්‍රදේශයෙ සිට කරුවලගස්වැව තබ්බෝව බලා ඔහුගේ මෝටර් රථයෙන් ගමන් කරමින් තිබියදී කරුවලගස්වැව 6 කනුව ප්‍රදේශයෙදී ත්‍රි රෝද රථයක ගැටි දරුණු අනතුරක් සිදුව තිබුනී.
+🟩
 
-මෙම අනතුරීන් පසු එම ස්ථානයට පැමිනි රාජංගනය යාය හත ප්‍රදේශයෙ විහාරස්ථානයක හිමිනමකට අයත් සුභෝපභෝගී මෝටර් රථයකින් යසෝද රංගේ බංඩා පිටත්ව ගොස් ඇති බව කියයි.
+UNP General Secretary General (UNP), the son of UNP General Secretary of the Karuwalagaswewa 6 pointing, was released on a number of charges with serious injuries and was released on bail of the Buddha.Acting Magistrate ordered the suspect's driver's license for the suspect.
 
-අනතුරීන් තුවාල ලැබු ත්‍රි රෝද රථ රියදුරු එම ස්ථානයට පැමිනි පිරිස් විසින් කඩිනමින් පුත්තලම රෝහලට ඇතුලත් කිරීමට කටයුතු කර තිබුනී.
+The Karuwalagaswewa 6, Karuwalagaswewa 6, had been a severe accident in the Karuwalagaswewa 6 post while he was traveling from his car from Puttalam.
 
-කරුවලගස්වැව පොලිසිය මගීන් පසුව අත් අඩංගුවට ගත් යාසෝධ රංගේ බංඩාර පුත්තලම වැඩ බලන මහෙස්ත්‍රාත් වෙත ඉදිරිපත් කිරීම සිදුව තිබුනී.
+After the accident, Yasodo Rangeh Bandara has left the luxury car of a monk in a monk in the temple in the seven area in the area.
+
+The three-wheeler driver of the accident had been admitted to the Puttalam Hospital soon.
+
+The Bandaraugaswewa police arrested after the passengers were presented to the Bandara Puttalam Acting Magistrate.
 
 ◼️
 
 [Data](articles/68633a16.json)
 
+[Extended Data](ext_articles/68633a16.ext.json)
+
 ---
 
-### මුහුදේ පාවෙමින් තිබූ බෝතල් දියරයක් පානය කර ධිවරයන් 4ක් මරුට
+### Four fishermen die of watering lots of floating in the sea
 
 *2024-06-29 17:48:33* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදේ-පාවෙමින්-තිබූ-බෝතල්-දියරයක්-පානය-කර-ධිවරයන්-4ක්-මරුට/11-410503) · `si`
 
-(UDATE) 9.39 PM තංගල්ල ධීවර වරායෙන් ධීවර කටයුතු සඳහා පිටත් ගොස් ඇති ධීවරයින් හය දෙනෙකු (06) රැගත් මෙරට බහුදින ධීවර යාත්‍රාවක සිටි  ධීවරයින් පිරිස, මුහුදේ පාවෙමින් තිබූ බෝතලයක තිබූ  දියරයක් පානය කර එය විෂ වී, එම ධීවරයින් පිරිස අසාධ්‍ය තත්වයට පත්ව, ඉන් ධීවරයින්හතරදෙනෙක් ජිවිතක්ෂයට පත්ව තිබේ.
+Six fishermen from Sri Lanka died after being poisoned while at sea. The incident occurred aboard a multi-day fishing vessel that departed from the Tangalle Fisheries Harbor. In response, the Fisheries and Aquatic Resources Department requested assistance from the Colombo Marine Sweethouse and Rescue Coordination Center, leading to immediate action by the Sri Lanka Navy. A navy ship equipped with a medical team was dispatched to aid the remaining fishermen, who were critically ill due to the poisoning.
 
-5.39 PM තංගල්ල ධීවර වරායෙන් ධීවර කටයුතු සඳහා පිටත් ගොස් ඇති ධීවරයින් හය දෙනෙකු (06) රැගත් මෙරට බහුදින ධීවර යාත්‍රාවක සිටි  ධීවරයින් පිරිස, මුහුදේ පාවෙමින් තිබූ බෝතලයක තිබූ  දියරයක් පානය කර එය විෂ වී, එම ධීවරයින් පිරිස අසාධ්‍ය තත්වයට පත්ව, ඉන් ධීවරයින් දෙදෙනෙකු (02) ජීවිතක්ෂයට පත්ව තිබේ.
+🟩
 
-එම ධීවරයින් පිරිස කඩිනමින් වෛද්‍ය ආධාර ලබාදී ගොඩබිමට රැගෙන ඒමට සහය වන ලෙස, ධීවර  හා ජලජ සම්පත් දෙපාර්තමේන්තුව වෙතින් නාවික හමුදා මූලස්ථානයේ  කොළඹ සමුද්‍රීය සෙවීම් හා මුදවා ගැනීම් සම්බන්ධීකරණ මධ්‍යස්ථානය වෙත අද දින දහවල් (2024 ජූනි 29) දැනුම් දීමක් කර ඇතැයි නාවික හමුදාව නිවේදනය කරයි.
+(UDATE) 9.39 PM The fishermen on a multi-day fishing vessel in Sri Lanka (06) fishermen who had been devoted to the fishermen of the Tangalle Fisheries were poisoned and poisoning and the fishermen were in critical condition, the fishermenHave been killed.
+
+5.39 PM The fishermen on a multi-day vessel carrying six (06) fishermen who had left fishing from the Tangalle Fisheries Harbor have been poisonous and two fishermen (02).Diedly.
+
+The Fisheries and Aquatic Resources Department (Fisheries and Aquatic Resources Department) has announced that the Fisheries and Aquatic Resources department has been asked to the Colombo Marine Sweethouse and Rescue Coordination Center (June 29) at the Navy.
+
+The Navy immediately responded by the Colombo Marine Search and Rescue Coordinating Center, which poisoned with 365 nautical miles into the sea liquid and providing relief to the affected fishermen,Steps were taken to provide medical advice through communication equipment by a Navy doctor.
 
 ...
 
 [Data](articles/015a67e7.json)
+
+[Extended Data](ext_articles/015a67e7.ext.json)
 
 ---
 
@@ -2046,23 +2098,31 @@ I have identified him through the General Swin, General Dr. Health. I was closel
 
 ---
 
-### ෆීල්ඩ් මාෂල්ට රට වෙනුවෙන් විශිෂ්ට සේවාවක් ඉටු කළ හැකියි
+### Field Marshal can play an excellent service for the country
 
 *2024-06-29 17:30:52* · [`adalk`](https://www.ada.lk/uncategorized/ෆීල්ඩ්-මාෂල්ට-රට-වෙනුවෙන්-විශිෂ්ට-සේවාවක්-ඉටු-කළ-හැකියි/1-410501) · `si`
 
-තිස් වසරක යුද්ධය නිමා කිරීමට විශිෂ්ට නායකත්වයක් සැපයූ හිටපු යුද හමුදාපති, පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා විසින් රචිත “යුද හමුදාපති ජාතියට දුන් පොරොන්දුව – මම මේ යුද්ධය ඊළඟ යුද හමුදාපතිට ඉතිරි නොකරමි” ග්‍රන්ථය එළිදැක්වීම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන්  කොළඹ නෙළුම් පොකුණ රඟහලේ දී පැවැත්විණි.
+Field Marshal Sarath Fonseka, recognized for leading Sri Lanka to victory in the war against terrorism, was honored by President Ranil Wickremesinghe. The President praised Fonseka's military leadership and political contributions, highlighting his strategic role in capturing Jaffna despite initial setbacks. Wickremesinghe noted Fonseka's resilience, both during the war and in facing imprisonment, before offering him the position of Field Marshal. This recognition underscores the value placed on Fonseka's service to the nation, emphasizing his ongoing potential to contribute to the country's development and peace efforts.
 
-ග්‍රන්ථයේ පළමු පිටපත මෙහිදී පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා විසින් ජනාධිපතිවරයා වෙත පිළිගැන්වීය.
+🟩
 
-හිටපු යුද හමුදාපතිවරයෙකු ලෙස සරත් ෆොන්සේකා මහතාගේ සේවාව මෙහිදී අගය කළ ජනාධිපතිවරයා යුද අභියෝගය ජයග්‍රහණය කළ සහ දේශපාලනයේ අභියෝග රැසකට මුහුණ දුන් සරත් ෆොන්සේකා මහතාට ඉදිරියට ද රට වෙනුවෙන් විශිෂ්ට සේවාවක් සිදු කිරීමට හැකියාව තිබෙන බව සඳහන් කළේය.
+President Ranil Wickremesinghe was chaired by the former Army Commander of the Army Parun 'Army Commander of the Army, the President of the Army..
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද පැවසීය,
+The first copy of the book was presented to the President MP Field Marshal Sarath Fonseka.
 
-මෙරට යුද හමුදාවේ එකම ෆීල්ඩ් මාර්ෂල් තනතුර දරන්නේ සරත් ෆොන්සේකා මහතායි. එතුමා යුද අභියෝගය ජයග්‍රහණය කළා පමණක් නොවෙයි, යුද පිටියෙන් පිටත දේශපාලනය තුළත් අභියෝගවලට මුහුණ දුන් කෙනෙක්.
+Sarath Fonseka, who was appreciated by the president of former Army Commander, said that the President won the war challenge and had a great service to the country.
+
+Speaking further, President Ranil Wickremesinghe further said,
+
+Sarath Fonseka holds the same Field Marshal in the Sri Lanka Army. He did not just win the challenge of the war challenge but also in politics outside the war.
+
+I have identified him through the General Swin, General Dr. Health. I was closely associated with General Dr. Dr.arathna. He told me the officer had a good future to give it the opportunity. The government had a knowledge of every officer in the government even though the war began. Several excellent officers were produced in the time, and Sarath Fonseka has a special place.
 
 ...
 
 [Data](articles/ce444718.json)
+
+[Extended Data](ext_articles/ce444718.ext.json)
 
 ---
 

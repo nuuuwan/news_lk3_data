@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 17:04:34**
+As of **2024-06-30 17:19:36**
 
 ## Newspaper Stats
 
-*Scraped **32,914** Articles*
+*Scraped **32,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 1,834
 economynextcom | 1,926
 dailyftlk | 2,015
 adalk | 2,923
-adaderanalk | 3,752
+adaderanalk | 3,753
 tamilmirrorlk | 3,890
 dailymirrorlk | 4,733
 virakesarilk | 5,120
-adaderanasinhalalk | 5,436
+adaderanasinhalalk | 5,437
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,913 (100.0%) of 32,914 articles have been extended.
+32,914 (100.0%) of 32,916 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
+
+### President Ranil joins ‘Ekwa Jayagamu’ public rally in Matara
+
+*2024-06-30 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100199/president-ranil-joins-ekwa-jayagamu-public-rally-in-matara) · `en`
+
+President Ranil Wickremesinghe arrived at the “Ekwa Jayagamu” public rally in Matara, a short while ago.
+
+The United National Party (UNP) and a section of the Sri Lanka Podujana Peramuna (SLPP) have commenced the President’s election campaign island-wide starting from Matara today under the theme ‘Ekwa Jayagamu’ (Victory Through Unity).
+
+The rally is attended by Ministers Prasanna Ranatunga, Kanchana Wijesekera, Ali Sabry, Harin Fernando, Manusha Nanayakkara, Ramesh Pathirana, North Western Province Governor Lakshman Yapa Abeywardena and President’s Chief of Staff and Senior Advisor on National Security Sagala Ratnayake.
+
+◼️
+
+[Data](articles/226b0adc.json)
+
+---
+
+### රාජ්‍ය සේවකයින්ට වැඩ පෙන්නූ නැට්ටුවෝ මාට්ටු
+
+*2024-06-30 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198328) · `si`
+
+උරුමය වැඩසටහනට සමගාමීව රජයේ ඉඩම් සඳහා සින්නක්කර ඔප්පු ලබාදීමට බණ්ඩාරගම, බමුණුමුල්ල සේවා පියසේ පැවැති ජංගම වැඩසටහන අවස්ථාවේදී ඉඩමක තනි අයිතිය ඉල්ලා එම ස්ථානයට කඩාවැදී නිලධාරීන්ට බැණවැදී පහරදීමට උත්සාහ කළ බව කියන පුද්ගලයන් දෙදෙනකුට එරෙහිව පැමිණිල්ලක් ලැබී ඇතැයි බණ්ඩාරගම පොලීසිය පවසයි.
+
+එම එක් පුද්ගලයෙකු කලායතනයක් පවත්වාගෙන යන්න නර්තන ශිල්පීයෙකි. අනෙක් පුද්ගලයා ඔහුගේ සමීපතම ගෝල නර්තන ශිල්පියා බව දැනගන්නට ලැබෙයි.
+
+ගෝල නර්තන ශිල්පියාගේ මිත්තණිය මීට වසරකට පමණ පෙර මියගොස් ඇති අතර ඇයට අයිතිව තිබූ ඉඩමක "පසු අයිතිය" සඳහා එම පුද්ගලයාව සහ ඔහුගේ වයස අවුරුදු 18 අඩු බාල සහෝදරයා ව නම්කර තිබූ බව වාර්තා විය.
+
+මිත්තණිය මිය යාමෙන් අනතුරුව ඉඩමේ මුල් ඔප්පුව ගෝල නර්තන ශිල්පියාගේ මව භාරයේ තිබී ඇති අතර ඇය බාල පුතුට ඇති ආදරය හේතුවෙන් ගෝල නර්තන ශිල්පී පුතුට මුල් ඔප්පුව ලබාදීම ප්‍රතික්ෂේප කර ඇති බව දැනගන්නට ඇත.
+
+එයට හේතු වී ඇත්තේ ඔහු මුළු ඉඩම ම ඔහුගේ නර්තන ආචාර්යවරයාට රුපියල් ලක්ෂ 20කට විකිණීම සඳහා සැලසුම් කර ඇති බවට ඇය වෙත දැනගැනීමට ලැබීමය.
+
+...
+
+[Data](articles/f57f6ccf.json)
+
+---
 
 ### President jointly joins the winter rally
 
@@ -48,21 +84,29 @@ The President attended a winter rally, showing solidarity with citizens amidst h
 
 ---
 
-### මියගිය මිත්තණියගේ ඉඩමේ අයිතිය ඉල්ලා නර්තන  ශිල්පීන් දෙදෙනා යකා නටයි
+### Two dancers demanding the ownership of the dead grand grand girl
 
 *2024-06-30 16:08:44* · [`adalk`](https://www.ada.lk/breaking_news/මියගිය-මිත්තණියගේ-ඉඩමේ-අයිතිය-ඉල්ලා-නර්තන--ශිල්පීන්-දෙදෙනා-යකා-නටයි/11-410522) · `si`
 
-උරුමය වැඩසටහනට සමගාමීව රජයේ ඉඩම් සඳහා සින්නක්කර ඔප්පු ලබාදීමේ බණ්ඩාරගම   බමුණු මුල්ල සේවා පියසේ පැවැති ජංගම වැඩසටහන අවස්ථාවේදී ඉඩමක තනි අයිතිය ඉල්ලා  එම ස්ථානයට කඩා වැදි නිලධාරීන්ට බැණ වැදී පහරදීමට උත්සාහ කළ බව කියන පුද්ගලයන් දෙදෙනකුට එරෙහිව පැමිණිල්ලක්  ලැබී ඇතැයි බණ්ඩාරගම පොලිසිය කියයි
+In Bandaragama, two dancers dispute over land inheritance from a deceased relative, leading to legal complaints and threats against police officers. The dispute involves the division of land in the Kammidtuda area, with one dancer refusing to hand over documents related to the property. This situation escalated during a meeting organized by the Land Divisional Secretariat, where both parties were accused of threatening behavior. As a result, the dancers have been summoned to appear before the Bandaragama Police on January 1st.
 
-එම එක් පුද්ගලයෙකු කලායතනයක් පවත්වාගෙන යන්න නර්තන ශිල්පීයෙකි. අනෙක් පුද්ගලයා ඔහුගේ සමීපතම ගෝල නර්තන ශිල්පියා බව දැනගන්නට ඇත
+🟩
 
-මීට වසරකට පමණ ඉහතදී  මියගිය     එක් පුද්ගලයෙකුගේ මිත්තණියට කිම්මන්තුඩාව  ප්‍රදේශයේ අයිතිව තිබූ  ඉඩමක්  කොටස් දෙකකට වෙන්කර එම පුද්ගලයාට සහ ඔහුගේ වයස අවුරුදු 18 අඩු බාල සහෝදරයා වෙත පසු අයිතිය නම් කර තිබී ඇති බව  පොලිසිය කියයි
+Bandaragama police say that the complaint has been lodged with the government to demanding the country's ownership of the land at the mobile program of the sale of her heritage program.
 
-මිත්තණිය මිය යාමෙන් අනතුරුව    එහි මුල් ඔප්පුව   ගෝල නර්තන ශිල්පියාගේ මව භාරයේ තිබී ඇති අතර ඇය බාල පුතුට ඇති ආදරය හේතුවෙන් ගෝල නර්තන ශිල්පී පුතුට මුල් ඔප්පුව  ලබාදීම ප්‍රතික්ෂේප  කර  ඇති බව දැනගන්නට ඇත.එයට හේතු වී ඇත්තේ ඔහු මුළු ඉඩම ම ඔහුගේ නර්තන ආචාර්යවරයාට විකිණීම සඳහා සැලසුම් කර ඇති බවට ඇය වෙත දැනගැනීමට  ලැබීම නිසාය
+One of those person maintains a pelivery is a dancer. It is learned that the other person is his closest goal dancer
+
+One person who died ago was named after a land belonging to the Kammidtuda area into two parts, the police said
+
+After the death of the grandmother, the first deed of the goal dancer of the deed had been refused to provide the root deed of the goal dancer.Because she is to know that she is
+
+The Land Dancer on the Gross Dancer on the 27th, the Land Unit of the Land Divisional Secretariat under the Piyasa Teacher Committee conducted under the Piyasa Teacher (Nutrake) has been interrupted by the dance lecturer.A Development Officer has also presented with the complaints that the two of them threatened the police that they have tried to attack.
 
 ...
 
 [Data](articles/6129cc9c.json)
+
+[Extended Data](ext_articles/6129cc9c.ext.json)
 
 ---
 
@@ -2281,47 +2325,5 @@ The launch of science technology policy of the Nationalism and Technology Policy
 [Data](articles/0d727c9a.json)
 
 [Extended Data](ext_articles/0d727c9a.ext.json)
-
----
-
-### Sri Lanka government repays foreign debt on a net basis in 1Q 2024
-
-*2024-06-29 18:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-government-repays-foreign-debt-on-a-net-basis-in-1q-2024-170244/) · `en`
-
-ECONOMYNEXT  – Sri Lanka’s budget foreign financing was negative in the first quarter of 2024, as the government repaid debt on a net basis, official data show.
-
-Sri Lanka has a debt moratorium and unless new budget support loans come from agencies like the World Bank or Asian Development Bank, or some earlier projects disburse funds, the government has to keep servicing multilateral debt.
-
-Foreign financing was a net repayment of 14.9 billion rupees in the first three months of the year, the central bank said which was lower than the negative 41.4 billion in 2024.
-
-While interest payments will have to be serviced with the restructuring agreements of the bilaterals, new principle disbursements will take place as soon as projects are resumed.
-
-Domestic financing was also lower at 296.1 billion rupees, down from 666.1 billion last year. (Colombo/June29/2024)
-
-◼️
-
-[Data](articles/dfef98fd.json)
-
-[Extended Data](ext_articles/dfef98fd.ext.json)
-
----
-
-### India has taken up issue of fishermen charged with death of SL navy sailor - MEA
-
-*2024-06-29 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100183/india-has-taken-up-issue-of-fishermen-charged-with-death-of-sl-navy-sailor-mea) · `en`
-
-(ANI) Regarding the matter of 10 Indian fishermen being charged with the death of a navy sailor in Sri Lanka, India’s Ministry of External Affairs spokesperson Randhir Jaiswal said that India has always prioritised the welfare of these fishermen and is making efforts to bring them back home.
-
-Ten Indian fishermen, arrested by Sri Lanka on June 24 for alleged illegal fishing, will face charges related to the death of a Sri Lankan Navy sailor who was killed during an operation to apprehend them, stated reports.
-
-Addressing a weekly press briefing on Friday, MEA spokesperson Randhir Jaiswal said, “We have always attached the highest importance to the welfare of our fishermen who get caught abroad, and we have tried our best to bring them back.”
-
-Further, the MEA said they are aware of the situation and have raised the issue with Sri Lankan authorities.
-
-...
-
-[Data](articles/8e71194d.json)
-
-[Extended Data](ext_articles/8e71194d.ext.json)
 
 ---

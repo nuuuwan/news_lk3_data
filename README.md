@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 04:19:40**
+As of **2024-07-01 04:35:02**
 
 ## Newspaper Stats
 
-*Scraped **32,976** Articles*
+*Scraped **32,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,929
 dailyftlk | 2,015
 adalk | 2,931
 adaderanalk | 3,759
-tamilmirrorlk | 3,901
+tamilmirrorlk | 3,903
 dailymirrorlk | 4,733
 virakesarilk | 5,139
 adaderanasinhalalk | 5,448
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,976 (100.0%) of 32,976 articles have been extended.
+32,976 (100.0%) of 32,978 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -78,7 +78,7 @@ Despite the approval of the Cabinet, the plan to provide land rights to the plan
 
 ### Young man stuck in the neck to show fear of girlfriend
 
-*2024-07-01 03:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/187345) · `ta`
+*2024-07-01 03:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/187345) · `ta`
 
 In Vavuniya, a 17-year-old boy went missing and was later found dead with a rope around his neck, allegedly as a threat to his 15-year-old girlfriend. Police are investigating.
 
@@ -165,6 +165,36 @@ What happened to our children. We want international justice. Although the offic
 [Data](articles/b90c4901.json)
 
 [Extended Data](ext_articles/b90c4901.ext.json)
+
+---
+
+### இரு தினங்கள் விசேட அமர்வு
+
+*2024-07-01 01:59:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-தினங்கள்-விசேட-அமர்வு/175-339674) · `ta`
+
+வெளிநாட்டுக் கடன் மறுசீரமைப்பு உடன்படிக்கைகளை நடைமுறைப்படுத்துவதற்கான முன்மொழிவுகளை நிறைவேற்றுவதற்காக ஜூலை 2,3 ஆம் திகதிகளில் விசேட பாராளுமன்ற அமர்வை நடத்த தீர்மானிக்கப்பட்டுள்ளது.
+
+வெள்ளிக்கிழமை (21) கூடிய பாராளுமன்ற விவகாரங்களுக்கான குழுவே, விசேட பாராளுமன்ற அமர்வை கூட்டுவதற்கான அங்கிகாரத்தை வழங்கியுள்ளது.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க பாராளுமன்றத்தில், செவ்வாய்க்கிழமை (02) விசேட உரையை ஆற்றியதன் பின்னர், வெளிநாட்டுக் கடன் மறுசீரமைப்பு உடன்படிக்கைகள் தொடர்பிலான விவாதமும் நடத்தப்படும்.
+
+◼️
+
+[Data](articles/1365c6fb.json)
+
+---
+
+### நால்வர் தாவுவர்?
+
+*2024-07-01 01:56:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நால்வர்-தாவுவர்/175-339673) · `ta`
+
+ஜனாதிபதி பாராளுமன்றத்தில் எதிர்வரும் 2 ஆம் திகதி உரையாற்றும் போது எதிர்க்கட்சியின் நான்கு உறுப்பினர்களில் இருவர் அரசாங்கத்திற்கு ஆதரவளிக்க தயாராக இருப்பதாக தகவல்கள் வெளியாகியுள்ளன.
+
+இதேவேளை, ராஜித சேனாரத்ன மற்றும் பீல்ட் மார்ஷல் சரத் பொன்சேகா ஆகியோரும் அரசாங்கத்துடன் கூட்டணி அமைக்கத் தயாராக இருப்பதாகவும், எதிர்வரும் ஜனாதிபதித் தேர்தலில் ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்கத் தயாராக இருப்பதாகவும் தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/0413ff39.json)
 
 ---
 
@@ -2323,55 +2353,5 @@ The youth has been admitted to Trincomalee hospitals in accordance with scratchi
 [Data](articles/92515e52.json)
 
 [Extended Data](ext_articles/92515e52.ext.json)
-
----
-
-### Last 45,117 houses established at Sajith initiated 45,117 houses
-
-*2024-06-30 10:48:33* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-ආරම්භ-කළ නිවාස-45-117-ක-වැඩ-අවසන්-කරන්න-කැබිනට්-අනුමැතිය/11-410514) · `si`
-
-Sajith Premadasa, the Opposition Leader and former Minister of Housing, initiated numerous housing projects aimed at low-income communities. Despite approving 45,117 houses, his tenure saw the halt of 229,580 units due to funding issues. The National Housing Development Authority suspended further payments on 184,463 houses. Premadasa has now sought Cabinet approval to complete 45,117 units, facing criticism over unfinished projects.
-
-🟩
-
-Sajith Premadasa is approved by the Cabinet to end the work of the housing projects.
-
-Opposition Leader Sajith Premadasa has served as the Minister of Housing Grounds 2019 - 2019 07 projects had commenced a number of projects targeting the low income community under the Sevana Housing Program.
-
-The model village program, academic loans (aid) program, Visitor Aid, Walking, Walking, Relief Aid, Damage Damaged, Damage Damaged and Damage Damaged by Floods damaged.
-
-Sajith Premadasa was 387,520 housing units where the construction was Minister of Housing. The construction of 229,580 housing units have stopped by allocation of allocated amount of money for a single Uda-Udammana program.
-
-...
-
-[Data](articles/160a1e79.json)
-
-[Extended Data](ext_articles/160a1e79.ext.json)
-
----
-
-### Ice cream preparation of chili
-
-*2024-06-30 10:27:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிளகாயில்-ஐஸ்கிரீம்-தயாரிப்பு/175-339632) · `ta`
-
-Inventor Lasantha Ruwan Ladangilaka, under the Agricultural Department's support, created chili ice cream, combining sweetness with spice. Guided by the University of Uva's Food Science faculty, it's set to hit markets, catering to both children and adults' tastes.
-
-🟩
-
-This product has been produced under the technical and financial contribution of the Agricultural Department of Agriculture and Plantation Industries.
-
-The inventor of the Welimada brokerage Lasantha Ruwan Ladangilaka has made the ice cream from the chilli.
-
-Chilli ice cream was given to Agriculture and Plantation Industries Minister Mahinda Amaraweera and Agriculture Minister Mohan Priyadarshana de Silva.
-
-Langilaka said that the chilli ice cream value will be introduced to the market and the sweet and spicy chilli can be combined with the new flavor.
-
-Under the guidance of the Food Science and Technology Faculty of the University of Uva University, this roulette ice cream recipe has been conducted and arrangements have been made to provide the product to the market as the recipe is successful.
-
-...
-
-[Data](articles/51e79908.json)
-
-[Extended Data](ext_articles/51e79908.ext.json)
 
 ---

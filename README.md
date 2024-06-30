@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 21:04:42**
+As of **2024-06-30 21:19:29**
 
 ## Newspaper Stats
 
-*Scraped **32,944** Articles*
+*Scraped **32,945** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,755
 tamilmirrorlk | 3,895
 dailymirrorlk | 4,733
 virakesarilk | 5,130
-adaderanasinhalalk | 5,443
+adaderanasinhalalk | 5,444
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,944 (100.0%) of 32,944 articles have been extended.
+32,944 (100.0%) of 32,945 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
+
+### නොසිතූ මොහොතක දිවියට සමුදුන් ධීවරයෝ
+
+*2024-06-30 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198335) · `si`
+
+ගැඹුරු මුහුදේ දී විෂ ද්‍රව්‍යයක් පානය කිරීම හේතුවෙන් රෝගී තත්ත්යෙන් පසුවන ධීවරයා අද (30) රාත්‍රියේ ශ්‍රී ලංකා නාවික හමුදාවේ විජයබාහු නෞකාව වෙත භාරගැනීමට නියමිත බව නාවික හමුදාව පවසයි.
+
+නාවික හමුදා මාධ්‍ය ප්‍රකාශක කපිතාන් ගයාන් වික්‍රමසූරිය මහතා පැවසුවේ රෝගී ධීවරයාව සහ මියගිය ධීවරයාගේ දේහය සිංගප්පූරු වෙළෙඳ නෞකාවේ සිට විජයබාහු නෞකාව වෙත ලබාගැනීමට නියමිත බවය.
+
+ඩෙවොන් 05 නමැති තංගල්ල ධීවර වරායෙන් මුහුදු ගිය බහුදින ධීවර යාත්‍රාවේ සිටි ධීවරයින් හය දෙනා මුහුදේ පා වී ආ බෝතලයක තිබූ ද්‍රව්‍යයක් පානය කිරීමෙන් රෝගී තත්ත්වයට පත් වූ අතර ඉන් පස් දෙනෙකු මේ වන විට ජීවිතක්ෂයට පත්ව තිබේ.
+
+රෝගී තත්ත්වයේ පසුවන ධීවරයා දිවයිනට ගෙන්වා ගැනීමේ කටයුතු සම්බන්ධයෙන් වැඩිදුරටත් පැහැදිලි කරන නාවික හමුදා මාධ්‍ය ප්‍රකාශක කපිතාන් ගයාන් වික්‍රමසූරිය මහතා,
+
+"තවම ජීවතුන් අතර සිටින කෙනෙකේ ඉන්නවා අපට බේර ගන්න. අපි මූලිකත්වය දෙන්නේ දැනට ජීවතුන් අතර සිටින කෙනාව කරදරයක් නැතුව ඉක්මනටම බේරගන්න. ඒක කළාට පස්සේ අපට බලන්න පුළුවන් ධීවර යාත්‍රාවට මොකද කරන්නේ කියන එක. "
+
+...
+
+[Data](articles/bdcb2412.json)
+
+---
 
 ### In response to the appointment of Attorney General
 
@@ -2321,33 +2341,5 @@ There are chronic adherents to the habit who however consider work as the curse 
 [Data](articles/1735fed5.json)
 
 [Extended Data](ext_articles/1735fed5.ext.json)
-
----
-
-### A warning to the fisheries and naval community
-
-*2024-06-30 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198307) · `si`
-
-The Department of Meteorology has issued a severe weather warning for the Thagudu Fisheries and Naval Community in the Arabian Sea, predicting high winds and rough seas due to an active southwestern monsoon. Additionally, heavy rainfall is expected in several provinces, including the Western, Sabaragamuwa, and North Western regions, as well as districts like Trincomalee, Hambantota, and Moneragala. Strong winds of 40-50 knots may also affect these areas.
-
-🟩
-
-The Department of Meteorology has issued a warning red announcement for the next 24 hours.
-
-The Meteorology Department states that the announcement was made for the Thagudu Fisheries and Naval Community in the Arabian Sea.
-
-The department strict winds (sea areas offshops between 6 and 20 Northern) and the Eastern Lands of the Eastern Lands (55 and 68) due to active southwestern monsoon (sea areas 55 and 68).. 70-80).
-
-As a result, the sea could be very rough.
-
-Meanwhile, the Department of Meteorology says that several thin closed will occur in the Western, Sabaragamuwa and North Western provinces.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The Department added that strong winds could be caused by about 40-50.
-
-◼️
-
-[Data](articles/768d51aa.json)
-
-[Extended Data](ext_articles/768d51aa.ext.json)
 
 ---

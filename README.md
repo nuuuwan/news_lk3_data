@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 17:19:36**
+As of **2024-06-30 17:35:10**
 
 ## Newspaper Stats
 
-*Scraped **32,916** Articles*
+*Scraped **32,920** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,64 @@ adalk | 2,923
 adaderanalk | 3,753
 tamilmirrorlk | 3,890
 dailymirrorlk | 4,733
-virakesarilk | 5,120
-adaderanasinhalalk | 5,437
+virakesarilk | 5,122
+adaderanasinhalalk | 5,439
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,914 (100.0%) of 32,916 articles have been extended.
+32,916 (100.0%) of 32,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
+
+### බීමත් රියදුරා දුම්රිය නවතා බැස පළායයි
+
+*2024-06-30 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198330) · `si`
+
+අද (30) කොළඹ සිට මහනුවර බලා පෙව 10.40ට ධාවනය ආරම්භ වූ දුම්රියේ රියදුරා අධික ලෙස මත්පැන් පානය කර කලබලකාරී ලෙස හැසිරී ඇති බව වාර්තා වෙයි.
+
+ඔහු දුම්රිය මහනුවර නගරයට ආසන්න සුදුහුම්පොල පෙදෙසේ ස්ථානයක නවතා දුම්රියෙන් බැස පළායද්දී දුම්රියේ සිටි මගීන් ඔහුව ලුහුබැඳ ගොස් අල්ලාගෙන සහායක රියදුරා යොදවා දුම්රිය නුවර දුම්රිය ස්ථානයට තෙක් ධාවනය කර තිබේ.
+
+පසුව එම බීමත් රියදුරාව දුම්රිය ප්‍රවාහන පරීක්ෂක නිලධාරියා මාර්ගයෙන් දුම්රිය ආරක්ෂක අංශයට භාරදීමට පියවර ගනු ලැබීය.
+
+මෙම දුම්රිය මහනුවරට ළඟාවීමට නියමිතව තිබුණේ පව 1.40ටය.  එහෙත් දුම්රිය පැමිණියේ සවස 2.30ට බව මගීන් පැවසීය.
+
+◼️
+
+[Data](articles/c8788e6d.json)
+
+---
+
+### ஆயரின் கையில் கடிவாளம்
+
+*2024-06-30 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/187316) · `ta`
+
+மன்னாரில் முன்னெடுக்கப்படும் திட்டங்களுக்கு உள்ள இடையூறைக் களைவதற்கு, மன்னார் ஆயரைப் பயன்படுத்திக் கொள்வதற்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க முற்பட்டால் அது ஆச்சரியமல்ல
+
+◼️
+
+[Data](articles/f548a9ea.json)
+
+---
+
+### රවින්ද්‍ර ජඩේජා ත් යයි
+
+*2024-06-30 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198329) · `si`
+
+ඉන්දීය කණ්ඩායමේ සුපිරි තුන් ඉරියව් ක්‍රීඩක රවින්ද්‍ර ජඩේජා තමා විස්සයි විස්ස ජාත්‍යන්තර පිටියෙන් සමුගන්නා බව නිවේදනය කර තිබේ.
+
+35 හැවිරිදි වියේ පසුවන ජඩේජා පවසන්නේ තමා ක්‍රීඩා කළ ඉන්දීය කණ්ඩායමට 20යි 20 ලෝක කුසලානය දිනා ගැනීමට හැකිවීම සදා අමතක නොවන ජයග්‍රහණයක් බවයි.
+
+තමා ටෙස්ට් සහ එක්දින ජාත්‍යන්තර තරග සඳහා තවදුරටත් ඉන්දියාව නියෝජනය කරන බව ඔහු පවසයි.
+
+◼️
+
+[Data](articles/7c91ea28.json)
+
+---
 
 ### President Ranil joins ‘Ekwa Jayagamu’ public rally in Matara
 
@@ -46,25 +92,51 @@ The rally is attended by Ministers Prasanna Ranatunga, Kanchana Wijesekera, Ali 
 
 [Data](articles/226b0adc.json)
 
+[Extended Data](ext_articles/226b0adc.ext.json)
+
 ---
 
-### රාජ්‍ය සේවකයින්ට වැඩ පෙන්නූ නැට්ටුවෝ මාට්ටු
+### Nakato arrested for public servants
 
 *2024-06-30 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198328) · `si`
 
-උරුමය වැඩසටහනට සමගාමීව රජයේ ඉඩම් සඳහා සින්නක්කර ඔප්පු ලබාදීමට බණ්ඩාරගම, බමුණුමුල්ල සේවා පියසේ පැවැති ජංගම වැඩසටහන අවස්ථාවේදී ඉඩමක තනි අයිතිය ඉල්ලා එම ස්ථානයට කඩාවැදී නිලධාරීන්ට බැණවැදී පහරදීමට උත්සාහ කළ බව කියන පුද්ගලයන් දෙදෙනකුට එරෙහිව පැමිණිල්ලක් ලැබී ඇතැයි බණ්ඩාරගම පොලීසිය පවසයි.
+In Bandaragama, two individuals claiming to be dancers were allegedly assaulted by officials during a heritage program. The incident occurred at the Etagama Bamunumulla Services on the 27th, where a freehold deeds scheme was held. One of the victims is a dancer whose grandmother's land deed he holds. The other victim is his close friend. A development officer filed a complaint after witnessing the attack, which was captured on video.
 
-එම එක් පුද්ගලයෙකු කලායතනයක් පවත්වාගෙන යන්න නර්තන ශිල්පීයෙකි. අනෙක් පුද්ගලයා ඔහුගේ සමීපතම ගෝල නර්තන ශිල්පියා බව දැනගන්නට ලැබෙයි.
+🟩
 
-ගෝල නර්තන ශිල්පියාගේ මිත්තණිය මීට වසරකට පමණ පෙර මියගොස් ඇති අතර ඇයට අයිතිව තිබූ ඉඩමක "පසු අයිතිය" සඳහා එම පුද්ගලයාව සහ ඔහුගේ වයස අවුරුදු 18 අඩු බාල සහෝදරයා ව නම්කර තිබූ බව වාර්තා විය.
+The Bandaragama Police have received a complaint against two persons who claimed to be attacked by the officials in Bandaragama, Bamunumulla service.
 
-මිත්තණිය මිය යාමෙන් අනතුරුව ඉඩමේ මුල් ඔප්පුව ගෝල නර්තන ශිල්පියාගේ මව භාරයේ තිබී ඇති අතර ඇය බාල පුතුට ඇති ආදරය හේතුවෙන් ගෝල නර්තන ශිල්පී පුතුට මුල් ඔප්පුව ලබාදීම ප්‍රතික්ෂේප කර ඇති බව දැනගන්නට ඇත.
+One of those person maintains a pelivery is a dancer. It is learned that the other person is his closest goal dancer.
 
-එයට හේතු වී ඇත්තේ ඔහු මුළු ඉඩම ම ඔහුගේ නර්තන ආචාර්යවරයාට රුපියල් ලක්ෂ 20කට විකිණීම සඳහා සැලසුම් කර ඇති බවට ඇය වෙත දැනගැනීමට ලැබීමය.
+The grandmother's grandmother died about a year ago and had been named the younger brother, and the younger brother of the age of 18.
 
-...
+After the death of the grandmother, the deed of the deed of the deed of the land was in the custody of the deed of the deed.
+
+Causes him to know that the whole land was planned to sell his dance for Rs.
+
+Under the heritage program, freehold deeds scheme was held on the Etagama Bamunumulla Services on the 27th.
+
+A development officer has lodged a complaint with the police that his disciple was blown with the dance to the site and claimed to be attacked and attacked.
+
+The videos shown by the two of them threatened the officers with the complaint with the police.
+
+◼️
 
 [Data](articles/f57f6ccf.json)
+
+[Extended Data](ext_articles/f57f6ccf.ext.json)
+
+---
+
+### தொங்கு பாலத்தை கடந்துள்ள குழந்தை
+
+*2024-06-30 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/187313) · `ta`
+
+ஆபத்தான் தொங்கு பாலத்திலிருந்து இலங்கைத் தாய்திருநாடு எனும் குழந்தையை நான் மிக பாதுகாப்பாக அழைத்து வந்துள்ளேன். இப்போது என்ன நடக்கின்றது? குழந்தையை காக்க எந்த ஆதரவையும் தராத குழுக்கள் இப்போது குழந்தைக்கு உரிமை கொண்டாடுகிறார்கள். சரியான பாதையில் நான் சென்ற காரணத்தினாலேயே குழந்தையை காப்பாற்ற முடிந்தது. இப்போது அதிகாரத்துக்காக போராடும் குழுக்களை நாட்டு மக்கள் அடையாளம் காண வேண்டும்.
+
+◼️
+
+[Data](articles/4e097bba.json)
 
 ---
 
@@ -2233,97 +2305,5 @@ Minister Nimal Siripala de Silva and Sri Lanka Freedom Party representatives inc
 [Data](articles/d84cf44a.json)
 
 [Extended Data](ext_articles/d84cf44a.ext.json)
-
----
-
-### The exangeration power in Galle
-
-*2024-06-29 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198299) · `si`
-
-Dilith Jayaweera, leader of Sri Lanka's Navalman Party, highlighted the significance of the Galle public rally, emphasizing its universal impact and importance as a unique platform in the country.
-
-🟩
-
-The Navalman Party Leader Dilith Jayaweera, the leader of the Motherland, Dilith Jayaweera is the only pure platform in Sri Lanka.
-
-He said that the universal power of the Galle public rally was addressing the Galle mass rally.
-
-"A" Entrepreneurship - Happy
-
-◼️
-
-[Data](articles/e465120e.json)
-
-[Extended Data](ext_articles/e465120e.ext.json)
-
----
-
-### Missing Foreign Traveler Recovery
-
-*2024-06-29 19:52:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/காணாமல்-போன-வெளிநாட்டு-சுற்றுலா-பயணி-மீட்பு/75-339601) · `ta`
-
-A 25-year-old Israeli tourist went missing in Trincomalee, Sri Lanka, prompting a multi-agency search involving the police, military, local government, and tourism bureau. The tourist was found near Salli Kovil today, in a distressed state. Following her medical check-up, further directives were issued to the Eastern Provincial Tourism authorities.
-
-🟩
-
-A 25 -year -old female tourist who arrived in Sri Lanka from Israel was mysteriously disappeared in Trincomalee 3 days ago.
-
-The Governor was issued a directive to rescue the police, the military, the Divisional Secretariat, the Uppuveli Pradeshiya Sabha and the Tourism Bureau.
-
-ஆளுநரின் பணிப்புரைக்கு அமைய, குறித்த தரப்பினர் தேடுதல் பணியில் ஈடுப்பட்டு, மர்மமான முறையில் காணாமல் போன பெண்ணை மயங்கிய நிலையில் சல்லி கோவிலுக்கு அருகில் இன்று மீட்டு எடுத்துள்ளனர். .
-
-After the tourist medical examination, the governor was issued a directive to the Eastern Provincial Tourism Tourism Tourism Tourism.
-
-◼️
-
-[Data](articles/5ed109f2.json)
-
-[Extended Data](ext_articles/5ed109f2.ext.json)
-
----
-
-### UN police summit: Sri Lanka offers specialized police teams and experts to counter global threats
-
-*2024-06-29 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100184/un-police-summit-sri-lanka-offers-specialized-police-teams-and-experts-to-counter-global-threats) · `en`
-
-Sri Lanka has informed the United Nations (UN) that it is willing to contribute police gendarmerie and criminal justice experts with experience and skills to counter the growing challenges to international peace and to share the knowledge and experience with any nation.
-
-“I am confident that the Sri Lanka formed police unit, which is at Readiness Level 3, stands by with the capacity to handle the emerging security landscape,” Sri Lanka’s Public Security Minister Tiran Alles said, addressing the fourth United Nations Chiefs of Police Summit (UNCOPS 2024).
-
-He said that organized crime, gang violence and illicit economies are rapidly on the rise and that this is becoming a growing challenge to international peace.
-
-“It is therefore imperative that the United Nations consider deploying specialized police teams with experience and skills to counter this menace,” he said.
-
-...
-
-[Data](articles/dda384be.json)
-
-[Extended Data](ext_articles/dda384be.ext.json)
-
----
-
-### President's plan is this - Anura Dissanayake
-
-*2024-06-29 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198297) · `si`
-
-Anura Kumara Dissanayake criticizes lack of scientific research funding but launches Science & Technology Policy. He supports reappointing the Chief Justice, despite previous Constitutional Council rejection, indicating a desire for centralized power. This move contrasts with the presence of numerous scientists advocating for the policy, highlighting a complex dynamic between political control and scientific advancement.
-
-🟩
-
-Leader of the National Power Anura Kumara Dissanayake says that there is no support for research in the field of science and technology.
-
-Anura Kumara Dissanayake made this observation at the launch of Science and Technology Policy of the National Power.
-
-The program was held in Colombo today (29) under the patronage of Anura Kumara Dissanayake.
-
-President wants to hold the Chief Justice until the retirement of the Chief Justice. Why is that why. Appoint him to the position of the Chief Justice again. The constitutional council will be resumed again while the Constitutional Council was rejected at one point.. Why is that why. The political authority thinks that all the powers should be subject to their command. "
-
-The launch of science technology policy of the Nationalism and Technology Policy of the National Force and a large number of scientists in the field of science and science technology in the country.
-
-...
-
-[Data](articles/0d727c9a.json)
-
-[Extended Data](ext_articles/0d727c9a.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 23:54:30**
+As of **2024-07-01 00:06:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,955 (100.0%) of 32,958 articles have been extended.
+32,958 (100.0%) of 32,958 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -93,6 +93,8 @@ He said the electors list is now being finalized. (Colombo/June30/2024)
 ◼️
 
 [Data](articles/56921db6.json)
+
+[Extended Data](ext_articles/56921db6.ext.json)
 
 ---
 
@@ -1146,6 +1148,8 @@ Coconut shells were 30,000 – 31,000 rupees per metric ton. (Colombo/June30/202
 
 [Data](articles/a37e41c6.json)
 
+[Extended Data](ext_articles/a37e41c6.ext.json)
+
 ---
 
 ### Operational operation of Bureane in Ratmalana
@@ -2145,6 +2149,8 @@ Giving policy support and denying monetary stability has become mainstream in th
 ...
 
 [Data](articles/b06e40f9.json)
+
+[Extended Data](ext_articles/b06e40f9.ext.json)
 
 ---
 

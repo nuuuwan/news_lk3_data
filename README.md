@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 19:04:34**
+As of **2024-06-30 19:19:37**
 
 ## Newspaper Stats
 
-*Scraped **32,934** Articles*
+*Scraped **32,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,834
 economynextcom | 1,926
 dailyftlk | 2,015
-adalk | 2,924
+adalk | 2,926
 adaderanalk | 3,754
 tamilmirrorlk | 3,892
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,928 (100.0%) of 32,934 articles have been extended.
+32,934 (100.0%) of 32,936 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,21 +58,29 @@ West Indies team and England will be the first Test match that begins on the Lor
 
 ---
 
-### “உறுமய” வேலைத்திட்டத்தின் கீழ் மொனராகலை மாவட்ட மக்களுக்காக 41,960 காணி உறுதிப் பத்திரங்கள் -ஜனாதிபதி
+### 41,960 land guarantees for the people of Moneragala district under the "Urumaya" program
 
 *2024-06-30 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/187335) · `ta`
 
-முழு உரிமையுள்ள காணி உறுதிப் பத்திரங்கள் வழங்கும் ‘உறுமய’ வேலைத் திட்டத்தின் கீழ் மொனராகலை மாவட்டத்தில் அதிகளவு உறுதிகளை வழங்கும் பிரதேச செயலகத்தில் குளங்களைப் புனரமைப்பதற்கு 25 மில்லியன் ரூபா வழங்கப்படுமென ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced 41,960 land guarantees for Moneragala district under the "Urumaya" program, allocating 25 million rupees for pond rehabilitation. He emphasized the importance of these initiatives for national development and thanked farmers for their contributions. The President highlighted the historical significance of the area and its potential for agricultural growth, aiming to transform it into a significant agricultural zone. He urged quick implementation of the program and expressed optimism about the future of the region.
 
-இந்த இரண்டு வேலைத்திட்டங்களினாலும் இந்நாட்டின் விவசாயிகள் வெற்றி பெறுவார்கள் எனத் தெரிவித்த ஜனாதிபதி, விவசாயிகளை முன்னேற்றுவதன் மூலம் நாட்டை அபிவிருத்தியை நோக்கிக்கொண்டு செல்வதே இதன் நோக்கமாகும் எனவும் தெரிவித்தார்.
+🟩
 
-20 இலட்சம் காணி உறுதிகளை வழங்கும் ‘உறுமய’ தேசிய வேலைத்திட்டத்தின் கீழ், மொனராகலை மாவட்டத்தின் 11 பிரதேச செயலகப் பிரிவுகளில் தகுதியான 41,960 பயனாளிகளில், அடையாள ரீதியில்  600 பேருக்கு உறுதிப் பத்திரங்கள் வழங்கும் நிகழ்வு இன்று (30) முற்பகல் வெல்லவாயவில் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் நடைபெற்றது.
+President Ranil Wickremesinghe said that 25 million rupees will be given to the rehabilitation of ponds at the Divisional Secretariat in the Moneragala District under the Urumaya Telephone Program issuing full -fledged land guarantees.
 
-தொடர்ந்தும் இங்கு உரையாற்றிய ஜனாதிபதி, கண்டி இராச்சியத்திற்கு அரிசி வழங்கிய வெல்லஸ்ஸ 1818 ஆம் ஆண்டு போரின் பின்னர் அழிக்கப்பட்டதாக குறிப்பிட்டார்.
+The President said that the farmers of the country would be successful with these two programs, and that the aim was to take the country to the development of the country.
+
+Under the National Program of Rs.
+
+Speaking on the occasion, the President noted that Wellesa, who provided rice to the Kandyan Kingdom, was destroyed after the 1818 war.
+
+Subsequently, despite the development of various governments, the President pointed out that the people were not getting a land right, and that he was happy to be able to fulfill the responsibility under the current government thanks to the farmers who gave rice to the country.
 
 ...
 
 [Data](articles/6ca44b37.json)
+
+[Extended Data](ext_articles/6ca44b37.ext.json)
 
 ---
 
@@ -98,63 +106,93 @@ But rising temperatures are leading to more frequent and intense droughts, natur
 
 ---
 
-### வடக்கு, கிழக்கு எழுச்சி : ஒரு பார்வை
+### North, East Rise: A View
 
 *2024-06-30 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187331) · `ta`
 
-இலங்கையின் வடக்கு, கிழக்கின் வளர்ச்சி பலருக்கு புதிய வாய்ப்புகளை வழங்குகின்றது. மக்கள், வியாபாரிகள், பெற்றோர்கள், மாணவர்கள் மற்றும் வெளிநாட்டில் இருந்து வரும் இலங்கையர்கள் அனைவரும் இந்த சாதகமான சூழ்நிலையைப் பயன்படுத்திக் கொள்ள திட்டமிட வேண்டும். இதன் மூலம், தங்கள் சொந்த வாழ்க்கையை மேம்படுத்துவது மட்டுமல்லாமல், இலங்கையின் வடகிழக்கின் வளர்ச்சியில் பங்களிப்பதற்கும் இது ஒரு வாய்ப்பாக இருக்கும்.
+The growth in Sri Lanka's North and East presents new opportunities for its people, including merchants, students, and overseas Sri Lankans. This favorable situation encourages them to invest and contribute to the region's development, benefiting both themselves and the community.
+
+🟩
+
+Growth of the North and East of Sri Lanka offers new opportunities to many. People, merchants, parents, students and all Sri Lankans from abroad should plan to take advantage of this favorable situation. With this, it will be an opportunity not only to improve their own life but also to contribute to the development of the Northeast of Sri Lanka.
 
 ◼️
 
 [Data](articles/45ada313.json)
 
+[Extended Data](ext_articles/45ada313.ext.json)
+
 ---
 
-### பிரித்தானியாவில் கவனம் பெறும் ஈழத் தமிழ் அரசியல்
+### Eelam Tamil politics focusing on Britain
 
 *2024-06-30 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187328) · `ta`
 
-கனடாவைப்போல பிரித்தானியாவிலும், வரப்போகும் பொது தேர்தலுக்கு பின்னர் புலம்பெயர் தமிழர்களின் அரசியல் ரீதியான செல்வாக்கு அதிகரிக்கும் சாத்தியங்கள் உள்ளன.
+In Britain, post-election, diaspora Tamils may exert political influence akin to Canada's Tamil community impact.
+
+🟩
+
+In Britain, like Canada, there is a possibility that the political influence of the diaspora Tamils ​​after the upcoming general election.
 
 ◼️
 
 [Data](articles/102b0bb2.json)
 
+[Extended Data](ext_articles/102b0bb2.ext.json)
+
 ---
 
-### திபெத்தில் மனித உரிமைத் தலையீடு
+### Tibet
 
 *2024-06-30 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187330) · `ta`
 
-‘திபெத் தீர்வுச் சட்டம்’ என்ற பெயரில் தலைப்பிடப்பட்டிருக்கும் இந்த சட்டமுன் வரைவு 391 காங்கிரஸ் உறுப்பினர்களின் சம்மதத்துடன் நிறைவேற்றபட்டது. தற்பொழுது ஜனாதிபதி ஜோ பைடனின் கையெழுத்திற்காக காத்திருக்கிறது. ஜனாதிபதி பைடனின் கையெழுத்திடப்பட்டதும் திபெத் தீர்வுச் சட்டம் அங்கீகரிக்கப்பட்டதொரு சட்டமாக ஏற்றுக்கொள்ளபட்டதாகிறது.
+The Tibet Solution Act, passed by 391 Congress members, awaits President Biden's signature to become law.
+
+🟩
+
+The bill, titled Tibet Solution Act, was passed with the consent of 391 Congress members. Currently waiting for President Joe Baiden's signature. Once President Baiden's signed, the Tibetan Solution Act is approved as a law approved.
 
 ◼️
 
 [Data](articles/2daea3a8.json)
 
+[Extended Data](ext_articles/2daea3a8.ext.json)
+
 ---
 
-### கடல்சார் மீட்பு   மையம் யாருக்காக?
+### For whom?
 
 *2024-06-30 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187314) · `ta`
 
-ஐந்து ஆண்டுகளில் கடலில் நிர்க்கதிக்குள்ளாகியிருக்கும் கப்பல்களில் இருந்து உதவிக் கோரிக்கை விடுக்கப்படுவது தொடர்ச்சியாக அதிகரித்து வருகின்ற நிலையில் தான், இலங்கையின் கடல்சார் மீட்பு ஒருங்கிணைப்பு மையத்தை இந்தியா வலுப்படுத்தியிருக்கிறது
+India has bolstered Sri Lanka's Maritime Rescue Coordination Center to meet rising demands from ships long denied sea access due to conflict.
+
+🟩
+
+India has strengthened the Sri Lankan Maritime Rescue Coordination Center as it continues to increase the demand for aid from the ships that have been deprived of the sea in five years.
 
 ◼️
 
 [Data](articles/2042ed2a.json)
 
+[Extended Data](ext_articles/2042ed2a.ext.json)
+
 ---
 
-### மு.காவின் 31ஆவது பேராளர் மாநாடு சமூகத்துக்கு சொல்லும் செய்தி என்ன?
+### What is the message of the 31st convention of the MU?
 
 *2024-06-30 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187323) · `ta`
 
-கிழக்கு மாகாண முன்னாள் ஆளுநர் ஹிஸ்புல்லாஹ் இந்த இளைஞர் குழுவினரை சமாதானப்படுத்தி பேராளர் மாவட்ட அழைத்துச் சென்றபோது அங்கும் பிரச்சினைகள் ஏற்பட்டன. இதேவேளை நிந்தவூரில் இருந்து பேராளர் மாநாட்டுக்குச் சென்ற முஸ்லிம் காங்கிரஸின் ஆதரவாளர்கள் உயர்பீட உறுப்பினர் நியமனத்தில் கட்சியின் தலைவர் முறையாக செயற்படவில்லை என்ற குற்றச்சாட்டை முன்வைத்து பேராளர் மாநாட்டிலிருந்து வெளியேறினர்.
+The 31st convention of the MU faced controversy as supporters of the Muslim Congress left due to allegations against the party leader's conduct. Former Governor Hizbullah addressed issues but failed to satisfy all attendees.
+
+🟩
+
+Former Governor of the Eastern Province Hizbullah took the problems when the group took the district district to appease the group.. Meanwhile, supporters of the Muslim Congress, who attended the convention from Nintavur, left the convention on the allegation that the party leader did not act properly.
 
 ◼️
 
 [Data](articles/d139b998.json)
+
+[Extended Data](ext_articles/d139b998.ext.json)
 
 ---
 
@@ -1160,6 +1198,22 @@ The United Nations should consider establishing and establishing special police 
 
 ---
 
+### බුද්ධි තොරතුර රන් ජාවාරම්කරුවන් අතටම ගිහිල්ලා මුම්බායි ගුවන් තොටුපොල දෙවනත් කරයි
+
+*2024-06-30 11:37:58* · [`adalk`](https://www.ada.lk/breaking_news/බුද්ධි-තොරතුර-රන්-ජාවාරම්කරුවන්-අතටම-ගිහිල්ලා-මුම්බායි-ගුවන්-තොටුපොල-දෙවනත්-කරයි/11-410516) · `si`
+
+ඉන්දීය ගුවන් මගීන් 18 දෙනෙකු  සිය සිරුරු වල ගුද මාර්ගයේ සගවා ගෙන ශ්‍රී ලංකාවට ගෙන එමින් තිබූ රුපියල් කෝටි ගනනක් වටිනා රත්තරන් තොගයක් පිළිබඳ තොරතුරු කටුනායක ගුවන් තොටුපොළ රේගු නිලධාරීන් විසින් දැන ගෙන ඇති බවට තොරතුරු එම මගීන්ට සැළවීමත් සමග ඔවුන් ව්‍යාජ කළබළයක් ඇති කර , කටුනායකට එන ගුවන් යානය පැය දෙකක කාළයක් ප්‍රමාද වීමට සළස්වා ගෙන , ඒ අතරතුර එම රත්තරන් තොගය වෙනත් පුද්ගලයන්ට ලබා දී , පසුව ඔවුන් කිසිවක් නොමැතිව  කටුනායක ගුවන් තොටුපොළ වෙත 06/29 දින පස්වරුවේ පැමිණ තිබුණි .
+
+ඉන්දීය ආදායම් බුද්ධි අංශය( Department of Revenue Interligence ) විසින් මෙසේ ඉන්දීය ජාතික ගුවන් මගීන් 18 දෙනෙකු තම සිරුරු වල ගුද මාර්ග වල විශාල රත්තරන් තොගයක් සගවා ගෙන 06/29 දින පස්වරු 03.00 ට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණීමට නියමිතව ඇති බවට කටුනායක ගුවන් තොටුපොළ රේගු නිලධාරීන් වෙත බුද්ධි තොරතුරක් ලබා දී තිබුණි .
+
+ඒ අනුව කටුනායක ගුවන් තොටුපොළ රේගු අධ්‍යක්ෂ ඉන්දික සිල්වා මහතා සමග තවත් රේගු නිලධාරීන් 20 දෙනෙකු මෙම ගුවන් යානය තුළටම ගොස් මොවුන් අත් අඩංගුවට ගැනීමට සූදානම් වී සිටියහ .
+
+...
+
+[Data](articles/a09c1aef.json)
+
+---
+
 ### 18 killed, 42 injured in series of suicide attacks in Nigeria
 
 *2024-06-30 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100194/18-killed-42-injured-in-series-of-suicide-attacks-in-nigeria) · `en`
@@ -1617,6 +1671,24 @@ The 35 -year -old Kohli, who made his debut in 2010 in twenty -20 internationals
 [Data](articles/3763f644.json)
 
 [Extended Data](ext_articles/3763f644.ext.json)
+
+---
+
+### මේ වසරේ පැමිණි සංචාරකයන් ප්‍රමාණය මිලියනය ඉක්මවයි
+
+*2024-06-30 09:25:58* · [`adalk`](https://www.ada.lk/uncategorized/මේ-වසරේ-පැමිණි-සංචාරකයන්-ප්‍රමාණය-මිලියනය-ඉක්මවයි/1-410511) · `si`
+
+2024 වසරේ 01/01 දින සිට මේ දක්වා ශ්‍රී ලංකාවට පැමිණි විදේශීය සංචාරකයන් ප්‍රමාණය 06/29 දින දහවල් දශ ලක්ෂය ඉක්මවා ගියහ.
+
+ඒ  අනුව දශ ලක්ෂය වැනි සංචාරකයා ලෙස අයර්ලන්තයේ ඩබ්ලින් නුවර සිට පැමිණි පෝල් රෝයි (Paul Roe ) සහ පැට්‍රීෂියා රෝයි ( Patricia Roe ) යුවළයි.
+
+ඔවුන් 06/29 දින දහවල් 12.40 ට එංගලන්තයේ ලන්ඩන් නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 504 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+
+ඔවුන් පිළිගැනීම සදහා උත්කර්ෂවත් උත්සවයක් කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ පැවති අතර ඒ සදහා ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරුන් , ශ්‍රී ලංකා සංචාරක ප්‍රවර්ධන කාර්යාංශයේ අධ්‍යක්ෂ සුභාෂිණි පෙරේරා , එහි නියෝජ්‍ය අධ්‍යක්ෂ හරීන්ද්‍රා විජේවර්ධන , කටුනායක ගුවන් තොටුපොළ ශ්‍රී ලංකා සංචාරක මණ්ඩලයේ තොරතුරු කේන්ද්‍රයේ කළමනාකරු වාසනා කුමාරි යන මහත්ම මහත්මීන් සහභාගී වී සිටියහ .
+
+◼️
+
+[Data](articles/4d5b7823.json)
 
 ---
 
@@ -2217,43 +2289,5 @@ There are conflicting views not only between parties but also within each party 
 [Data](articles/5bc40ed7.json)
 
 [Extended Data](ext_articles/5bc40ed7.ext.json)
-
----
-
-### US Treasury Officer comes to Sri Lanka
-
-*2024-06-30 01:06:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-திறைசேரி-அதிகாரி-இலங்கை-வருகிறார்/175-339608) · `ta`
-
-Robert Caproth, Deputy Assistant Secretary of Asia for the US Treasury, will visit Sri Lanka next week. He'll meet with government and financial leaders as part of his trip.
-
-🟩
-
-Deputy Assistant Secretary of Asia of the US Treasury Robert Caproth arrives in Sri Lanka next week.
-
-US Ambassador to Sri Lanka Julie Sung said this in his X post.
-
-Caprooth is scheduled to hold discussions with state officials and finance leaders during his visit. (A)
-
-◼️
-
-[Data](articles/ea4d8c16.json)
-
-[Extended Data](ext_articles/ea4d8c16.ext.json)
-
----
-
-### Two aged US presidents square off in debate for the ages
-
-*2024-06-30 00:53:00* · [`islandlk`](http://island.lk/two-aged-us-presidents-square-off-in-debate-for-the-ages/) · `en`
-
-The Biden-Trump debate, touted as the political face-off that would change the course of history, was held Thursday night at the CNN studios in Atlanta, Georgia. The rather unusual ground rules for the debate had been agreed upon by the candidates weeks ago. It was the earliest presidential debate in history, held as it was more than four months before election day in November.
-
-These ground rules were considered to be essential to avoid a repetition of the debate between these two when they were candidates for the presidency in 2020. During that first debate nearly four years ago, the general consensus was that Trump was “unhinged, bullied, bulldozed and obfuscated” (CNN), talked “incoherently and rattled off unfounded and baseless attacks” (NBC) spewed “misleading claims and outright lies” (New York Times) and showed he had “nothing but contempt for the values and norms that are essential to democracy” (Washington Post). No one wanted to see that kind of confrontational fiasco again.
-
-...
-
-[Data](articles/881cc840.json)
-
-[Extended Data](ext_articles/881cc840.ext.json)
 
 ---

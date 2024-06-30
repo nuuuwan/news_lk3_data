@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 21:19:29**
+As of **2024-06-30 21:34:52**
 
 ## Newspaper Stats
 
@@ -26,29 +26,39 @@ adaderanasinhalalk | 5,444
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,944 (100.0%) of 32,945 articles have been extended.
+32,945 (100.0%) of 32,945 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
 
-### නොසිතූ මොහොතක දිවියට සමුදුන් ධීවරයෝ
+### The fishermen of the life at a time when unexpected
 
 *2024-06-30 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198335) · `si`
 
-ගැඹුරු මුහුදේ දී විෂ ද්‍රව්‍යයක් පානය කිරීම හේතුවෙන් රෝගී තත්ත්යෙන් පසුවන ධීවරයා අද (30) රාත්‍රියේ ශ්‍රී ලංකා නාවික හමුදාවේ විජයබාහු නෞකාව වෙත භාරගැනීමට නියමිත බව නාවික හමුදාව පවසයි.
+Six fishermen from Tangalle Fisheries Harbor fell ill during a voyage; five died. The surviving one is being transferred to the Sri Lanka Navy. The group was sailing 365 nautical miles south of Deonadara when tragedy struck.
 
-නාවික හමුදා මාධ්‍ය ප්‍රකාශක කපිතාන් ගයාන් වික්‍රමසූරිය මහතා පැවසුවේ රෝගී ධීවරයාව සහ මියගිය ධීවරයාගේ දේහය සිංගප්පූරු වෙළෙඳ නෞකාවේ සිට විජයබාහු නෞකාව වෙත ලබාගැනීමට නියමිත බවය.
+🟩
 
-ඩෙවොන් 05 නමැති තංගල්ල ධීවර වරායෙන් මුහුදු ගිය බහුදින ධීවර යාත්‍රාවේ සිටි ධීවරයින් හය දෙනා මුහුදේ පා වී ආ බෝතලයක තිබූ ද්‍රව්‍යයක් පානය කිරීමෙන් රෝගී තත්ත්වයට පත් වූ අතර ඉන් පස් දෙනෙකු මේ වන විට ජීවිතක්ෂයට පත්ව තිබේ.
+The fisherman who is suffering from the deeper sea is due to be handed over to the Sri Lanka Navy Vijayabahu on the night of the 30th.
 
-රෝගී තත්ත්වයේ පසුවන ධීවරයා දිවයිනට ගෙන්වා ගැනීමේ කටයුතු සම්බන්ධයෙන් වැඩිදුරටත් පැහැදිලි කරන නාවික හමුදා මාධ්‍ය ප්‍රකාශක කපිතාන් ගයාන් වික්‍රමසූරිය මහතා,
+Navy Spokesperson Capithan Gayan Wickremasturiya said that the sick fisherman and the deceased fisherman is due to the Singapore vessel to Vijayabahu.
 
-"තවම ජීවතුන් අතර සිටින කෙනෙකේ ඉන්නවා අපට බේර ගන්න. අපි මූලිකත්වය දෙන්නේ දැනට ජීවතුන් අතර සිටින කෙනාව කරදරයක් නැතුව ඉක්මනටම බේරගන්න. ඒක කළාට පස්සේ අපට බලන්න පුළුවන් ධීවර යාත්‍රාවට මොකද කරන්නේ කියන එක. "
+The six fishermen who were on the Tangalle Fisheries Harbor, the Tangalle Fisheries Harbor, were sick and five of them have died.
 
-...
+Navy Media Spokesperson Capithan Gayan Wickremasturiya, who is said to have further illustrate the fisherman of the island.
+
+"There is still alive, save us. We give priority to the currently alive, save quickly without any trouble. What we can see after that. "
+
+The victim was 42-year-old wishes of the vessel, Dilshan, 32-year-old Sujith Sanjeewa, 33 fishermen.
+
+When they were facing unexpected, the fishing vessel was sailing from 365 nautical miles from the south of the Deonadara Troops.
+
+◼️
 
 [Data](articles/bdcb2412.json)
+
+[Extended Data](ext_articles/bdcb2412.ext.json)
 
 ---
 

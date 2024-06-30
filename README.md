@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 21:54:26**
+As of **2024-06-30 22:08:22**
 
 ## Newspaper Stats
 
-*Scraped **32,950** Articles*
+*Scraped **32,951** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,834
 economynextcom | 1,926
 dailyftlk | 2,015
 adalk | 2,929
-adaderanalk | 3,756
+adaderanalk | 3,757
 tamilmirrorlk | 3,895
 dailymirrorlk | 4,733
 virakesarilk | 5,132
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,445
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,945 (100.0%) of 32,950 articles have been extended.
+32,950 (100.0%) of 32,951 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
+
+### Fuel prices reduced
+
+*2024-06-30 21:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100203/fuel-prices-reduced) · `en`
+
+The Ceylon Petroleum Corporation (CPC) has announced the revision of fuel prices with effect from midnight today (30).
+
+Accordingly, the price of Petrol 92 Octane has been reduced by Rs. 11 to Rs. 344 per liter while Petrol 95 Octane has been reduced by Rs. 41 to Rs. 379 per liter.
+
+The price of Super Diesel has also been slashed by Rs. 22 with the new price at Rs. 355 per liter.
+
+However, the prices of Auto Diesel and Kerosene remains unchanged, the Ceypetco said.
+
+◼️
+
+[Data](articles/500d5648.json)
+
+---
 
 ### Navy vessel receives critical fisherman from merchant ship
 
@@ -46,39 +64,55 @@ The Navy medical team aboard SLNS Vijayabahu is delivering emergency treatment t
 
 Additionally, SLNS Vijayabahu is en route to shores, carrying the body of the other fisherman who tragically lost his life onboard ‘MV KOTA CAMIL0’, the navy said.
 
-◼️
+A total of five fishermen have died thus far after the crew of a fishing vessel had consumed the contents of a bottle they found floating in the sea, assuming it was liquor.
+
+...
 
 [Data](articles/4010b7b1.json)
 
+[Extended Data](ext_articles/4010b7b1.ext.json)
+
 ---
 
-### ඉන්ධන මිල වෙනස් වෙයි
+### Fuel prices vary
 
 *2024-06-30 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198337) · `si`
 
-අද (30) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි සිපෙට්කෝ ඉන්ධන මිල ගණන් සංශෝධනය කර තිබේ.
+Sipette fuel prices were adjusted on March 30th.
+
+🟩
+
+Sipette fuel prices have been amended today (30).
 
 ◼️
 
 [Data](articles/1d284c89.json)
 
+[Extended Data](ext_articles/1d284c89.ext.json)
+
 ---
 
-### பஸ் கட்டணம் குறைக்கப்படும் என அறிவிக்கப்பட்டாலும் அதனை நடைமுறைப்படுத்த முடியாது - இலங்கை தனியார் பஸ் உரிமையாளர்கள் சங்கம்
+### Bus fare is not announced but it cannot be implemented - Sri Lanka Private Bus Owners Association
 
 *2024-06-30 21:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/187339) · `ta`
 
-01ஆம் திகதி திங்கட்கிழமை  முதல் பஸ் கட்டணம் 5 வீதத்தால் குறைக்கப்படும் என அறிவிக்கப்பட்டாலும் அதனை நடைமுறைப்படுத்த முடியாது என இலங்கை தனியார் பஸ் உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது.
+The Sri Lanka Private Bus Owners Association plans to reduce fares by 5% starting Monday, despite no official announcement. The Transport Commission aims to adjust fares due to rising fuel costs, with details expected on Monday.
 
-இன்று இடம்பெறவுள்ள எரிபொருள் விலை திருத்தத்தை கருத்தில் கொண்டு பஸ் கட்டணத்தை திருத்துவதற்கு போக்குவரத்து ஆணைக்குழு திட்டமிட்டுள்ளதாக அதன் தலைவர் கெமுனு விஜேரத்ன தெரிவித்துள்ளார்.
+🟩
 
-இதேவேளை, தேசிய பஸ் கட்டணக் கொள்கையின் பிரகாரம் 01ஆம் திகதி திங்கட்கிழமை கட்டண திருத்தம் அறிவிக்கப்படும் என தேசிய போக்குவரத்து ஆணைக்குழுவின் தலைவர் ஷஷி வெல்கம தெரிவித்துள்ளார்.
+The Sri Lanka Private Bus Owners Association has said that the bus fare will be reduced by 5 percent from Monday 01st.
 
-வருடாந்த பஸ் கட்டண திருத்தம் ஒவ்வொரு வருடமும் ஜூலை மாதம் முதலாம் திகதி அறிவிக்கப்பட வேண்டுமெனவும், அதன்படி நாளை பிற்பகல் 1.00 மணிக்கு நடைபெறும் ஊடகவியலாளர் சந்திப்பில் அதுகுறித்த அறிவிப்பு வெளியிடப்படும் எனவும் சஷி வெல்கம தெரிவித்தார்.
+The Transport Commission is planning to revise the bus fare in view of the fuel prices to be held today, its leader Gemunu Wijeratne said.
+
+Meanwhile, Shashi Welgama, Chairman of the National Transport Commission, said that the tariff amendment will be announced on Monday, the 01st of the National Bus Tax Policy.
+
+Sashi Welgama said that the annual bus fare revision should be announced on the 1st of July every year and the announcement will be made at a media briefing at 1.00 pm tomorrow.
 
 ◼️
 
 [Data](articles/2a512674.json)
+
+[Extended Data](ext_articles/2a512674.ext.json)
 
 ---
 
@@ -112,19 +146,27 @@ When they were facing unexpected, the fishing vessel was sailing from 365 nautic
 
 ---
 
-### நாட்டு வரலாற்றில் பலம்மிக்க கூட்டணியை இன்னும் சில தினங்களில் அமைப்போம் - ரஞ்சித் மத்தும பண்டார
+### We will form a powerful alliance in the history of the country in a few days - Ranjith Mathuma Bandara
 
 *2024-06-30 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187338) · `ta`
 
-ஐக்கிய மக்கள் சக்தியிலிருந்து பலர் அரசாங்கத்துடன் இணைந்துகொள்ள இருப்பதாக ஒருவருடமாக அரசாங்கம் தெரிவித்து வருகின்றபோதும் யாரும் இதுவரை இணைந்துகொள்ளவில்லை. ஆனால் அடுத்துவரும் இரண்டு வாரங்களுக்குள் அரசாங்கத்துடன் இருக்கும்  12பேர் ஐக்கிய மக்கள் சக்தியில் இணைந்துகொள்ள இருக்கின்றனர் என ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளரும் பாராளுமன்ற உறுப்பினருமான ரஞ்சித் மத்தும பண்டார தெரிவித்தார்.
+Ranjith Mathuma Bandara, Secretary of the United People's Power and MP, announced a significant political alliance involving his party, the Muslim Congress, Tamil parties, and 12 members of the Rishad Bathiudeen Party. This alliance aims to form a historic coalition in the country. Despite initial claims of 20 government officials joining the United People's Power, only 11 have done so, with promises of 12 more in the coming weeks. The party is also preparing for the upcoming presidential election, aiming to incorporate 2 million members to secure victory against competitors like Sajith Premadasa and Anura Kumara Dissanayake. Bandara emphasized the need for the presidential election to be held between September and October, asserting that the Election Commission has the necessary authority and that no one can prevent it.
 
-30 ஆம் திகதி ஞாயிற்றுக்கிழமை இடம்பெற்ற நிகழ்வொன்றின் பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-ஐக்கிய மக்கள் சக்தியிலிருந்து 20பேர் இணைந்துகொள்ளப்போவதாக ஒரு வருடத்துக்கு முன்பிருந்தே அரசாங்கம் தெரிவித்து வருகிறது. ஆனால் எமது தரப்பிலிருந்து ஹரின், மனுஷவை தவிர வேறு யாரும் இதுவரை செல்லவில்லை. ஆனால் அரசாங்கத்தில் இருந்த 11 பேர் எம்முடன் இணைந்துகொண்டுள்ளனர். அடுத்துவரும் இரண்டு வாரங்களில் மேலும் 12பேர் எம்முடன் இணைந்துகொள்ள இருக்கின்றனர்.
+No one has ever joined the United People's Power. But within two weeks, 12 people with the government will join the United People's Power, said United People's Power Secretary and Member of Parliament, Ranjith Mathuma Bandara.
+
+He was speaking to the media after an event on Sunday 30th.
+
+The government has announced a year ago that 20 people will join the United People's Power. But from our side Harin and man, no one has ever gone. But 11 people in the government have joined us. In the next two weeks, there will be 12 more people joining us.
+
+At the same time, the Muslim Congress, Tamil parties and 12 members of the Rishad Bathiudeen Party are forming an alliance with us. We will set up a strong coalition in the history of the country in a few more days. While the government is trying to write with us, we are joining the government with us.
 
 ...
 
 [Data](articles/53eb2161.json)
+
+[Extended Data](ext_articles/53eb2161.ext.json)
 
 ---
 
@@ -222,19 +264,25 @@ The robbery has been recovered at the pawn shops in Kandy, Kurunegala, Katugasto
 
 ---
 
-### බීමත් දුම්රිය රියදුරු දුම්රිය නවතා දිව යයි
+### The drunk train driver's train runs off
 
 *2024-06-30 19:53:30* · [`adalk`](https://www.ada.lk/breaking_news/බීමත්-දුම්රිය-රියදුරු-දුම්රිය-නවතා-දිව-යයි/11-410528) · `si`
 
-කොළඹ දුම්රිය මාර්ගයේ සිට පේරාදෙණිය හරහා මහනුවරට ඇතුල්වූ දුම්රියක රියදුරුවරයා අධික බීමතින් සිටින බවට එම දුම්රියේ සිටි මගීන් විරෝධය දැක්වීම හේතුවෙන් මහනුවර දුම්රිය ස්ථානයට ආසන්න සුදුහුම්පොළ දුම්රිය ස්ථානයේදී චෝදනාවට ලක් වූ දුම්රිය රියදුරුවරයා දුම්රිය නවතා පලායාම හේතුවෙන් දැඩි අර්බුදකාරී තත්ත්වයක්උද්ගත වී ඇති බව පොලීසිය කියයි .
+A train driver, charged for causing a derailment during a protest, was released without arrest by the Railway Security but later produced at the Kandy National Hospital for medical evaluation.
 
-කෙසේ නමුත් එසේ පලා ගියදුම්රිය රියදුරුවරයා දුම්රිය ආරක්ෂක අංශ මගින් අත්අඩංගුවට ගෙන මහනුවර මූලස්ථාන පොලිසියට ඉදිරිපත් කිරීමෙන් පසුඒ සම්බන්ධයෙන් නීති පියවර ගැනීමට පොලිස් දෙපාර්තමේන්තුවට නීතිමය බලයක් නොමැති බැවින් එම රියැදුරුවරයා මහනුවර ජාතික රෝහලට ඉදිරිපත් කොට වාර්තාවක් ලබාගන්නා ලෙස දුම්රිය ආරක්ෂක අංශ නිලධාරීන්ට මහනුවර මූලස්ථාන පොලිසිය උපදෙස් ලබා දුන් බව ඉහළ පොලිස් නිලධාරියකු පැවසීය .
+🟩
 
-ඒ අනුව එම රියදුරුවරයා මහනුවර ජාතික රෝහලට ඉදිරිපත් කිරීමෙන් අනතුරුව වෛද්‍ය වාර්තා ලබා ගැනීමෙන් පසු දුම්රිය දෙපාර්තමේන්තු නීති පද්ධතිය තුළ ඇති නීති ප්‍රතිපාදන අනුව ඉදිරි පියවර ගැනීමට නියමිතය .
+The train driver who had been charged from the Colombo railway train to Kandy has been charged due to the protest of the train, police said.
+
+However, as the police department has not been arrested by the Railway Security for the Kandy Headquarters and the Police Department was produced before the Kandy Headquarters and was submitted to the Kandy Headquarters.A police officer said.
+
+Accordingly, the driver was produced before the Kandy National Hospital after obtaining medical reports and will be taken by the Department of Railways.
 
 ◼️
 
 [Data](articles/6513f65b.json)
+
+[Extended Data](ext_articles/6513f65b.ext.json)
 
 ---
 
@@ -2311,21 +2359,5 @@ The best score recorded by Sharma in a 2020 international match is 121.
 [Data](articles/f24f5f5e.json)
 
 [Extended Data](ext_articles/f24f5f5e.ext.json)
-
----
-
-### East-Timor Today & The United Nations’ Contribution
-
-*2024-06-30 08:21:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/east-timor-today-the-united-nations-contribution/) · `en`
-
-In the world today, there is a prominent trend to promote small nations as strong and powerful countries within the world’s global agenda. According to that trend, we can identify East-Timor (now Timor-Leste) as one of the robust nations in the international scene. This is also the intention of the country, and the present President Jose Ramos-Horta who in fact visited Sri Lanka in 1996 and met with some of the progressive political leaders. He also conducted human rights training for several young social activists and leaders.
-
-Timor-Leste is a Southeast Asian country which was brutally invaded and ruled by Indonesia for more than 20 years. Before the Indonesian invasion, Timor-Leste was colonized by Portuguese formally since 1702, but their first presence was in 1515.
-
-...
-
-[Data](articles/56d62b44.json)
-
-[Extended Data](ext_articles/56d62b44.ext.json)
 
 ---

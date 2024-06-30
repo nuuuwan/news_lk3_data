@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 21:34:52**
+As of **2024-06-30 21:54:26**
 
 ## Newspaper Stats
 
-*Scraped **32,945** Articles*
+*Scraped **32,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ newsfirstlk | 363
 islandlk | 1,834
 economynextcom | 1,926
 dailyftlk | 2,015
-adalk | 2,928
-adaderanalk | 3,755
+adalk | 2,929
+adaderanalk | 3,756
 tamilmirrorlk | 3,895
 dailymirrorlk | 4,733
-virakesarilk | 5,130
-adaderanasinhalalk | 5,444
+virakesarilk | 5,132
+adaderanasinhalalk | 5,445
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,945 (100.0%) of 32,945 articles have been extended.
+32,945 (100.0%) of 32,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
+
+### Navy vessel receives critical fisherman from merchant ship
+
+*2024-06-30 21:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100202/navy-vessel-receives-critical-fisherman-from-merchant-ship) · `en`
+
+The Maritime Rescue Coordination Centre (MRCC) in Colombo coordinated the retrieval of two critically ill fishermen on the multi-day fishing trawler “Devon 5”, through the merchant ship ‘MV KOTA CAMIL’ this morning (30).
+
+However, one of the two fishermen has tragically lost his life, while aboard the merchant ship.
+
+The remaining fisherman was transferred to SLNS Vijayabahu this evening (30), about 170 nautical miles (314 km) off Dondra, according to the Sri Lanka Navy.
+
+The Navy medical team aboard SLNS Vijayabahu is delivering emergency treatment to the critically ill fisherman.
+
+Additionally, SLNS Vijayabahu is en route to shores, carrying the body of the other fisherman who tragically lost his life onboard ‘MV KOTA CAMIL0’, the navy said.
+
+◼️
+
+[Data](articles/4010b7b1.json)
+
+---
+
+### ඉන්ධන මිල වෙනස් වෙයි
+
+*2024-06-30 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198337) · `si`
+
+අද (30) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි සිපෙට්කෝ ඉන්ධන මිල ගණන් සංශෝධනය කර තිබේ.
+
+◼️
+
+[Data](articles/1d284c89.json)
+
+---
+
+### பஸ் கட்டணம் குறைக்கப்படும் என அறிவிக்கப்பட்டாலும் அதனை நடைமுறைப்படுத்த முடியாது - இலங்கை தனியார் பஸ் உரிமையாளர்கள் சங்கம்
+
+*2024-06-30 21:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/187339) · `ta`
+
+01ஆம் திகதி திங்கட்கிழமை  முதல் பஸ் கட்டணம் 5 வீதத்தால் குறைக்கப்படும் என அறிவிக்கப்பட்டாலும் அதனை நடைமுறைப்படுத்த முடியாது என இலங்கை தனியார் பஸ் உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது.
+
+இன்று இடம்பெறவுள்ள எரிபொருள் விலை திருத்தத்தை கருத்தில் கொண்டு பஸ் கட்டணத்தை திருத்துவதற்கு போக்குவரத்து ஆணைக்குழு திட்டமிட்டுள்ளதாக அதன் தலைவர் கெமுனு விஜேரத்ன தெரிவித்துள்ளார்.
+
+இதேவேளை, தேசிய பஸ் கட்டணக் கொள்கையின் பிரகாரம் 01ஆம் திகதி திங்கட்கிழமை கட்டண திருத்தம் அறிவிக்கப்படும் என தேசிய போக்குவரத்து ஆணைக்குழுவின் தலைவர் ஷஷி வெல்கம தெரிவித்துள்ளார்.
+
+வருடாந்த பஸ் கட்டண திருத்தம் ஒவ்வொரு வருடமும் ஜூலை மாதம் முதலாம் திகதி அறிவிக்கப்பட வேண்டுமெனவும், அதன்படி நாளை பிற்பகல் 1.00 மணிக்கு நடைபெறும் ஊடகவியலாளர் சந்திப்பில் அதுகுறித்த அறிவிப்பு வெளியிடப்படும் எனவும் சஷி வெல்கம தெரிவித்தார்.
+
+◼️
+
+[Data](articles/2a512674.json)
+
+---
 
 ### The fishermen of the life at a time when unexpected
 
@@ -59,6 +109,22 @@ When they were facing unexpected, the fishing vessel was sailing from 365 nautic
 [Data](articles/bdcb2412.json)
 
 [Extended Data](ext_articles/bdcb2412.ext.json)
+
+---
+
+### நாட்டு வரலாற்றில் பலம்மிக்க கூட்டணியை இன்னும் சில தினங்களில் அமைப்போம் - ரஞ்சித் மத்தும பண்டார
+
+*2024-06-30 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187338) · `ta`
+
+ஐக்கிய மக்கள் சக்தியிலிருந்து பலர் அரசாங்கத்துடன் இணைந்துகொள்ள இருப்பதாக ஒருவருடமாக அரசாங்கம் தெரிவித்து வருகின்றபோதும் யாரும் இதுவரை இணைந்துகொள்ளவில்லை. ஆனால் அடுத்துவரும் இரண்டு வாரங்களுக்குள் அரசாங்கத்துடன் இருக்கும்  12பேர் ஐக்கிய மக்கள் சக்தியில் இணைந்துகொள்ள இருக்கின்றனர் என ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளரும் பாராளுமன்ற உறுப்பினருமான ரஞ்சித் மத்தும பண்டார தெரிவித்தார்.
+
+30 ஆம் திகதி ஞாயிற்றுக்கிழமை இடம்பெற்ற நிகழ்வொன்றின் பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+ஐக்கிய மக்கள் சக்தியிலிருந்து 20பேர் இணைந்துகொள்ளப்போவதாக ஒரு வருடத்துக்கு முன்பிருந்தே அரசாங்கம் தெரிவித்து வருகிறது. ஆனால் எமது தரப்பிலிருந்து ஹரின், மனுஷவை தவிர வேறு யாரும் இதுவரை செல்லவில்லை. ஆனால் அரசாங்கத்தில் இருந்த 11 பேர் எம்முடன் இணைந்துகொண்டுள்ளனர். அடுத்துவரும் இரண்டு வாரங்களில் மேலும் 12பேர் எம்முடன் இணைந்துகொள்ள இருக்கின்றனர்.
+
+...
+
+[Data](articles/53eb2161.json)
 
 ---
 
@@ -153,6 +219,22 @@ The robbery has been recovered at the pawn shops in Kandy, Kurunegala, Katugasto
 [Data](articles/9b65c398.json)
 
 [Extended Data](ext_articles/9b65c398.ext.json)
+
+---
+
+### බීමත් දුම්රිය රියදුරු දුම්රිය නවතා දිව යයි
+
+*2024-06-30 19:53:30* · [`adalk`](https://www.ada.lk/breaking_news/බීමත්-දුම්රිය-රියදුරු-දුම්රිය-නවතා-දිව-යයි/11-410528) · `si`
+
+කොළඹ දුම්රිය මාර්ගයේ සිට පේරාදෙණිය හරහා මහනුවරට ඇතුල්වූ දුම්රියක රියදුරුවරයා අධික බීමතින් සිටින බවට එම දුම්රියේ සිටි මගීන් විරෝධය දැක්වීම හේතුවෙන් මහනුවර දුම්රිය ස්ථානයට ආසන්න සුදුහුම්පොළ දුම්රිය ස්ථානයේදී චෝදනාවට ලක් වූ දුම්රිය රියදුරුවරයා දුම්රිය නවතා පලායාම හේතුවෙන් දැඩි අර්බුදකාරී තත්ත්වයක්උද්ගත වී ඇති බව පොලීසිය කියයි .
+
+කෙසේ නමුත් එසේ පලා ගියදුම්රිය රියදුරුවරයා දුම්රිය ආරක්ෂක අංශ මගින් අත්අඩංගුවට ගෙන මහනුවර මූලස්ථාන පොලිසියට ඉදිරිපත් කිරීමෙන් පසුඒ සම්බන්ධයෙන් නීති පියවර ගැනීමට පොලිස් දෙපාර්තමේන්තුවට නීතිමය බලයක් නොමැති බැවින් එම රියැදුරුවරයා මහනුවර ජාතික රෝහලට ඉදිරිපත් කොට වාර්තාවක් ලබාගන්නා ලෙස දුම්රිය ආරක්ෂක අංශ නිලධාරීන්ට මහනුවර මූලස්ථාන පොලිසිය උපදෙස් ලබා දුන් බව ඉහළ පොලිස් නිලධාරියකු පැවසීය .
+
+ඒ අනුව එම රියදුරුවරයා මහනුවර ජාතික රෝහලට ඉදිරිපත් කිරීමෙන් අනතුරුව වෛද්‍ය වාර්තා ලබා ගැනීමෙන් පසු දුම්රිය දෙපාර්තමේන්තු නීති පද්ධතිය තුළ ඇති නීති ප්‍රතිපාදන අනුව ඉදිරි පියවර ගැනීමට නියමිතය .
+
+◼️
+
+[Data](articles/6513f65b.json)
 
 ---
 
@@ -2245,111 +2327,5 @@ Timor-Leste is a Southeast Asian country which was brutally invaded and ruled by
 [Data](articles/56d62b44.json)
 
 [Extended Data](ext_articles/56d62b44.ext.json)
-
----
-
-### Kohli & Rohit retire from T20 internationals after World Cup win
-
-*2024-06-30 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100189/kohli-rohit-retire-from-t20-internationals-after-world-cup-win) · `en`
-
-India legends Virat Kohli and Rohit Sharma have retired from T20 internationals following their World Cup triumph in Barbados.
-
-Kohli was man of the match for his 76 and Rohit became the first India captain to lift a World Cup since 2011 following the captivating seven-run defeat of South Africa.
-
-Rohit, 37, and 35-year-old Kohli are number one and two respectively on the all-time list of T20 international run-scorers.
-
-“I’ve loved every moment of this,” said Rohit. “I started my India career playing this format. This is what I wanted. I wanted to win the cup and say thank you.”
-
-On former captain Kohli, Rohit said: “He’s been a champion player without a doubt. We all know what he has done for us.
-
-“At some point everyone has to say goodbye to the game and Virat was very clear that this is what he wanted to do.”
-
-Both men will continue to be available for India in Tests and one-day internationals.
-
-...
-
-[Data](articles/b337b763.json)
-
-[Extended Data](ext_articles/b337b763.ext.json)
-
----
-
-### Several spells of light showers expected in parts of the island
-
-*2024-06-30 08:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100188/several-spells-of-light-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of light showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts, it said.
-
-◼️
-
-[Data](articles/ba3d27c0.json)
-
-[Extended Data](ext_articles/ba3d27c0.ext.json)
-
----
-
-### Twenty20 World Cup into India
-
-*2024-06-30 08:02:07* · [`adalk`](https://www.ada.lk/sports/විස්සයි-20-ලෝක-කුසලානය-ඉන්දියාවට/9-410505) · `si`
-
-India won the Twenty20 World Cup against South Africa in the finals. The Indian team scored 176/7, with Rathnak Virali Viiek Rathna contributing 76 off 59 balls, earning him the man of the match award.
-
-🟩
-
-The group of people were able to win the Twenty20 World Cup by defeating the South Africa played in the World Cup final.
-
-The Indian team scored 176/7 in the match, and the South African team scored only 169/8 runs.
-
-Indian batsman Rathnak Virali Viiek Rathna scored 76 off 59 balls in 59 balls with. Accordingly, he was adjudged the match.
-
-◼️
-
-[Data](articles/d5f38ded.json)
-
-[Extended Data](ext_articles/d5f38ded.ext.json)
-
----
-
-### Upcountry train is obstructed
-
-*2024-06-30 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198308) · `si`
-
-A train derailment occurred near Galabada, disrupting service between Badulla and Eguru Oya stations. The incident happened at 1.15 am, causing delays and shorter trains until repairs are completed.
-
-🟩
-
-The railway line has been disrupted due to a derailment.
-
-The Railway Department states that the post railway station, which was traveling from the Badulla Railway Station, has been derailed between Galabada and Eguru Oya railway stations.
-
-Railway train has been derailed around 1.15 am and caused the train on the road.
-
-As a result, shorter trains have been concluded and the railway stations will be conducted in the railway department.
-
-◼️
-
-[Data](articles/5aaa72d7.json)
-
-[Extended Data](ext_articles/5aaa72d7.ext.json)
-
----
-
-### Drink – the curse of the working classes
-
-*2024-06-30 06:52:00* · [`islandlk`](http://island.lk/drink-the-curse-of-the-working-classes/) · `en`
-
-There are chronic adherents to the habit who however consider work as the curse of the drinking classes! Whichever way it is looked at, continued, indiscriminate and habitual intake of alcohol finally leads to alcoholism.
-
-“Manifestations of alcoholism vary with the individual. Intoxication may be followed by the relatively mild syndrome known as a hangover; extreme symptoms of withdrawal my include delirium tremens, hallucinations, and other acute brain disorders. Polyneuropathy, a degenerative disease of the nervous system, and acute hepatitis are common. Alcoholics also suffer the consequences of a deficient diet.
-
-“Cirrhosis of the liver is associated with chronic alcoholism, as are numerous forms of brain damage. Alcoholics also suffer high accident rates, lowered resistance to infection, loss of employment and family life, and a reduction of life span of 10 to 12 years”. A very serious and pitiable situation indeed which is voluntarily acquired over a period of time.
-
-...
-
-[Data](articles/1735fed5.json)
-
-[Extended Data](ext_articles/1735fed5.ext.json)
 
 ---

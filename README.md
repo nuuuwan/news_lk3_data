@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 14:05:17**
+As of **2024-06-30 14:19:42**
 
 ## Newspaper Stats
 
-*Scraped **32,887** Articles*
+*Scraped **32,891** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 299
+colombotelegraphcom | 300
 dbsjeyarajcom | 300
 bbccomsinhala | 321
 newsfirstlk | 363
@@ -20,17 +20,55 @@ adaderanalk | 3,748
 tamilmirrorlk | 3,890
 dailymirrorlk | 4,733
 virakesarilk | 5,110
-adaderanasinhalalk | 5,429
+adaderanasinhalalk | 5,432
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,851 (99.9%) of 32,887 articles have been extended.
+32,860 (99.9%) of 32,891 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
+
+### රත්මලානේ බුරියා ව කොටුකරගත් මෙහෙයුම
+
+*2024-06-30 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198323) · `si`
+
+රත්මලානේ පිහිටි නිවසකින් රුපියල් ලක්ෂ 20කට ආසන්න වටිනාකමකින් යුත් රන් භාණ්ඩ සොරාගත් "රත්මලානේ බුරියා" නැමැත්තා අත්අඩංගුවට ගෙන තිබේ.
+
+මෙම සොකරම සිදුකර දින පහක් වැනි කෙටි කාලයක් තුළදී සැකකරු ව අත්අඩංගුවට ගත් බව ගල්කිස්ස පොලීසිය පැවසීය.
+
+සැකකරු විසින් සොරාගෙන තිබු දේපොළ අතර පවුම් 11 1/2 ක් බර තැල්ලක් සහිත මාලයක්, වළලු දෙකක් හා මුදුවක් පොලිස් භාරයට ගෙන ඇත.
+
+ඉකුත් මස 24 වෙනිදින නිවසේ සිට කාන්තාව සහ ඔහුගේ සැමියා රැකියාව සඳහා පිටව ගොස්  සිටි අවස්ථාවේදී  වැඩිමල් පුතු නිවසේ නිදාගෙන සිට ඇති අතර පොඩි පුතු නිවසේ ඉදිරිපස දොර වසා දමා යතුර නිවස ඉදිරිපිට තබා තිබෙන සපත්තු රඳවනය තුළ සඟවා ක්‍රීඩා කටයුතු සඳහා නිවසින් පිටව ගොස් තිබුණි.
+
+ඒ අතරවාරයේදී  නිවස ඉදිරිපිටට පැමිණි සැකකරු, සඟවා තිබූ යතුර දැක එය රැගෙන ඉදිරිපස දොර විවෘත කරගෙන නිවස තුළට ගොස් අල්මාරිය තුළ තිබූ රත්‍රන් සොරාගෙන පිටව ගොස් තිබූ බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+සැකකරු නිවස ඉදිරිපිටට පැමිණ නිවස තුළට ඇතුලුවෙන අයුරු ඉදිරිපිට නිවසක සවිකර තිබූ සීසීටීවී කැමරාවක සටහන්ව තිබුණි.
+
+...
+
+[Data](articles/e2721b2b.json)
+
+---
+
+### උරුමය මොනරාගල ට
+
+*2024-06-30 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198322) · `si`
+
+සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ “උරුමය” ජාතික වැඩසටහන යටතේ මොනරාගල දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 11ක සුදුසුකම්ලාභීන් 41,960ක් අතුරින් පුද්ගලයන් 600ක් වෙනුවෙන් සංකේතාත්මකව ඔප්පු ප්‍රදානය කිරීම අද (30) සිදුකළේය.
+
+ඒ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් වැල්ලවාය මහින්ද රාජපක්ෂ සම්මන්ත්‍රණ ශාලාවේදී පැවති උත්සවයකදීය.
+
+එහිදී ජනාධිපතිවරයා පැවසුවේ “උරුමය” ජාතික වැඩසටහන යටතේ මොනරාගල දිස්ත්‍රික්කයේ වැඩිම සින්නක්කර ඉඩම් ඔප්පු සංඛ්‍යාවක් ලබාදෙන ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ වැව් ප්‍රතිසංස්කරණය කිරීම සඳහා අමතර ප්‍රතිපාදනයක් ලෙස රුපියල් මිලියන 25 ක් ලබාදීමට කටයුතු කරන බවයි.
+
+◼️
+
+[Data](articles/930b98cd.json)
+
+---
 
 ### Chennai airport customs busts syndicate smuggling 267kg gold from Sri Lanka
 
@@ -47,6 +85,30 @@ According to Principal Commissioner R Srinivasa Naik, the investigation began wh
 [Data](articles/2b481dc8.json)
 
 [Extended Data](ext_articles/2b481dc8.ext.json)
+
+---
+
+### පෘථිවිය බේරාගැනීමේ කොන්ත්‍රාත්තුව ඊලොන් මස්ක් ට
+
+*2024-06-30 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198321) · `si`
+
+වසර 20කට වැඩි කාලයක් පුරා විද්‍යාත්මක පර්යේෂණ රැසකට දායකත්වය සපයන ජාත්‍යන්තර අභ්‍යවකාශ මධ්‍යස්ථානයේ සේවා කාලය අවසන් වූ විට එය ආරක්ෂිතව ඉවත්කර දැමීමේ සැලසුම නාසා ආයතනය ප්‍රකාශයට පත් කර තිබේ.
+
+ඒ අනුව මේ භාරදූර මෙහෙයුම සඳහා යොදාගැනීමට නියමිතව ඇත්තේ ඊලොන් මස්ක්ගේ ස්පේස් එක්ස් සමාගමට අයත් යානයකි.
+
+ක්ෂුද්‍ර ගුරුත්වාකර්ෂණ සහ අභ්‍යවකාශ පරිසර යටතේ අත්හදා බැලීම් සිදුකිරීමේ අරමුණින් ජාත්‍යන්තර අභ්‍යවකාශ මධ්‍යස්ථානය පිහිටුවීමේ කටයුතු පළමුව ආරම්භ වූයේ 1998 වසරේදීය.
+
+ඒ අමෙරිකානු, රුසියානු, ජපාන, යුරෝපා සංගම් සහ කැනේඩියානු අභ්‍යවකාශ ඒජන්සිවල එකමුතුවෙනි.
+
+එම මධ්‍යස්ථානය ඉදිකෙරුණේ එවක අභ්‍යවකාශ ක්ෂේත්‍රයේ දැවැන්තයා වූ සෝවියට් සමූහාණ්ඩුවට අයත් මීර් අභ්‍යවකාශ මධ්‍යස්ථානය සිදුකළ මාදිලියේ පර්යේෂණ සිදුකිරීමේ අරමුණ සහිතව ය.
+
+2000 වසරේදී මෙහෙයුම් ආරම්භ කෙරුණු ජාත්‍යන්තර අභ්‍යවකාශ මධ්‍යස්ථානය අමෙරිකානු සහ රුසියානු ලෙස අංශ දෙකක් යටතේ ක්‍රියාත්මක වෙයි.
+
+ජාත්‍යන්තර අභ්‍යාවකාශ මධ්‍යස්ථානයේ සහායෙන් පර්යේෂණ 3,300කට වැඩි සංඛ්‍යාවක් සිදුකර ඇති අතර ඒ වෙත විද්‍යාත්මක සහ වාණිජ චාරිකා සිය ගණනක් සිදුකර තිබේ.
+
+...
+
+[Data](articles/64b41c92.json)
 
 ---
 
@@ -636,69 +698,97 @@ The 35 -year -old Kohli, who made his debut in 2010 in twenty -20 internationals
 
 ---
 
-### මේ වසරේ පැමිණි සංචාරකයන් ප්‍රමාණය මිලියනය ඉක්මවයි
+### Tourist arrivals this year exceeds one million
 
 *2024-06-30 09:25:58* · [`adalk`](https://www.ada.lk/picture_story/මේ-වසරේ-පැමිණි-සංචාරකයන්-ප්‍රමාණය-මිලියනය-ඉක්මවයි/10-410511) · `si`
 
-2024 වසරේ 01/01 දින සිට මේ දක්වා ශ්‍රී ලංකාවට පැමිණි විදේශීය සංචාරකයන් ප්‍රමාණය 06/29 දින දහවල් දශ ලක්ෂය ඉක්මවා ගියහ.
+In 2023, over a million foreign tourists visited Sri Lanka from January 1st to 29th. Notable visitors included Paul Roy and Patricia Roe from Dublin, who arrived via SriLankan Airlines from London on January 6th at 12:40 pm. The event was overseen by Mrs. Subhasini Perera, Director of the Sri Lanka Tourism Promotion Bureau, highlighting the significant tourism growth.
 
-ඒ  අනුව දශ ලක්ෂය වැනි සංචාරකයා ලෙස අයර්ලන්තයේ ඩබ්ලින් නුවර සිට පැමිණි පෝල් රෝයි (Paul Roe ) සහ පැට්‍රීෂියා රෝයි ( Patricia Roe ) යුවළයි.
+🟩
 
-ඔවුන් 06/29 දින දහවල් 12.40 ට එංගලන්තයේ ලන්ඩන් නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 504 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+Foreign tourists visited Sri Lanka from 01/01/20 to the date of January 01/29 were exceeding Rs.
 
-ඔවුන් පිළිගැනීම සදහා උත්කර්ෂවත් උත්සවයක් කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ පැවති අතර ඒ සදහා ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරුන් , ශ්‍රී ලංකා සංචාරක ප්‍රවර්ධන කාර්යාංශයේ අධ්‍යක්ෂ සුභාෂිණි පෙරේරා , එහි නියෝජ්‍ය අධ්‍යක්ෂ හරීන්ද්‍රා විජේවර්ධන , කටුනායක ගුවන් තොටුපොළ ශ්‍රී ලංකා සංචාරක මණ්ඩලයේ තොරතුරු කේන්ද්‍රයේ කළමනාකරු වාසනා කුමාරි යන මහත්ම මහත්මීන් සහභාගී වී සිටියහ .
+Accordingly, Paul Roy, Paul Roy, and Patricia Roe, came from Dublin, as a traveler.
+
+They were from London, England to SriLankan Airlines from London, England to 12.40 pm on January 06/22.
+
+Mrs. Subhasini Perera, Director of Sri Lanka Tourism Promotion Bureau, Manager of the Sri Lanka Tourist Board of Sri Lanka Tourist Board of Sri Lanka Tourism Board, Handara, Sri Lanka Tourism Board (SLVA)Were attended.
 
 ◼️
 
 [Data](articles/900dc945.json)
 
+[Extended Data](ext_articles/900dc945.ext.json)
+
 ---
 
-### පොදු ගමනාගමන සේවා අත්‍යවශ්‍ය සේවා බවට පත් කෙරේ
+### Public transport services are essential services
 
 *2024-06-30 09:18:51* · [`adalk`](https://www.ada.lk/breaking_news/පොදු-ගමනාගමන-සේවා-අත්‍යවශ්‍ය-සේවා-බවට-පත්-කෙරේ/11-410510) · `si`
 
-මගීන් හෝ බඩු ප්‍රවාහනය සඳහාවූ පොදු ගමනාගමන සේවාවන්  ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින්  අත්‍යවශ්‍ය සේවා බවට පත් කෙරේ.
+President Wickremesinghe declares common transport services for passengers and goods as essential services. A gazette notification aims to maintain roads, bridges, railways, and traffic services, applicable to all public corporations, departments, local authorities, cooperatives, or branches.
 
-මෙකී සේවා මෙන්ම මෙම සේවා සඳහා අවශ්‍ය මංමාවත් ,පාලම් බෝක්කු සහ දුම්රිය මාර්ග ඇතුළු මංමාවත් මෙන්ම දුම්රිය මාර්ග මගින් ගමනාගමන සේවා සඳහා පහසුකම් සැලසීම සහ පවත්වාගෙන යාම අත්‍යවශ්‍ය සේවා බවට පත් කළ ගැසට් නිවේදනය  ජනාධිපති ලේකම් ඊ.එම්.එස්.බී.ඒකනායක මහතා විසින් ඊයේ (29) දිනෙන් නිකුත් කරනු ලැබීය.
+🟩
 
-මේ අනුව මෙම ගැසට් නිවේදනය මගින්  ඕනෑම රාජ්‍ය සංස්ථාවකින්,දෙපාර්තමේන්තුවකින්,පළාත් පාලන ආයතනයකින්,සමුපකාර සමිතියකින් හෝ ඒවායේ ශාඛාවකින් සපයනු ලබන මෙකී සේවාවන් සාමාන්‍ය ජන ජීවිතය පවත්වාගෙන යාමට අත්‍යාවශ්‍ය සේවා බවට පත්කර තිබේ.
+Common Transport Services for passengers or goods to transport goods will be essential services by President Ranil Wickremesinghe.
+
+Gazette notification to facilitate and maintain and maintain roads, bridges, bridges and railways for these services, facilitate and maintaining traffic services to traffic services, the Presidential Secretary EMSB Wickaman yesterday (29) The day was released.
+
+Accordingly, the gazette notification has made these services from any public corporation, department, a local authority, cooperative society or branch.
 
 ◼️
 
 [Data](articles/886b717e.json)
 
+[Extended Data](ext_articles/886b717e.ext.json)
+
 ---
 
-### සබරගමුව සමන් දේවාල පෙරහරට දින නියම වෙයි
+### Sabaragamuwa Samuna Perahera is dated
 
 *2024-06-30 09:13:56* · [`adalk`](https://www.ada.lk/religion/සබරගමුව-සමන්-දේවාල-පෙරහරට-දින-නියම-වෙයි/4-410509) · `si`
 
-සබරගමුව මහ සමන් දේවාලයේ වාර්ෂික ඇසළ පෙරහැර මංගල්‍යය සඳහා කප් සිටුවිම අගෝස්තු මස 5 වන දින සිදුවෙන අතර කුඹල් පෙරහැර අගෝස්තු 5 වන දින සිට 9 වන දින දක්වාත් විථි පෙරහැර අගෝස්තු 10 වන දින සිට අගෝස්තු 14 වන දින දක්වාත් රනදෝලි පෙරහැර අගෝස්තු 15 වන දින සිට අගෝස්තු 19  දින දක්වාත් දිය කැපිමේ මංගල්‍යය 20 වන පැවත්විමට කටයුතු යොදා ඇතිබව රත්නපුර මහ සමන් දේවාලයේ බස්නායක නිළමේ මිගාර ජයසුන්දර මහතා පැවසිය.
+The Sabaragamuwa Samuna Perahera festival, organized by the Ratnapura District Secretary's committee, will take place from August 5th to 9th. It includes the traditional Diya Cutting Festival and is sponsored by the state, focusing on health facilities. Migara Jayasundara mentioned the event's significance, while Basnayake Nilame encourages pilgrimage participation.
 
-සබරගමුව මහ සමන් දේවාලයේ වාර්ෂිකව සිදුවෙන මෙම පෙරහැර මංගල්‍යයට ප්‍රථම අගෝස්තු 3වන දින සර්ව රාත්‍රික පරිත්‍රාණ ධර්ම දේශනාවක් පවත්වා පසුදින සපිරිකර සහිත මහ සඟ රුවන විෂයෙහි හිල් දානමය පිංකමක් පැවත්වෙන බවද  බස්නායක නිළමේ මිගාර ජයසුන්දර මහතා පැවසිය.
+🟩
 
-මෙම සමන් මහ දේවාලයේ පෙරහැර රාජ්‍ය අනුග්‍රහයෙන් සිදුවෙන පෙරහැරක් වන අතර ඒ සඳහා අවශ්‍ය ආරක්ෂක කටයුතු සෞඛ්‍ය පහසුකම් ඇතුළු අනෙකුත් පහසුකම් සම්බන්ධව රත්නපුර දිස්ත්‍රික් ලේකම් වසන්ත ගුණරත්න මහතාගේ ප්‍රධානත්වයන් යුත් කමිටුවක් මගින් සංවිධාන කර ඇති බවද බස්නායක නිළමේ මිගාර ජයසුන්දර මහතා පැවසිය.
+Sabaragamuwa Maha Saman Devalaya will take place on 5th to 9 August to 9 August to the 9th of August to August 14, August 19Basnayake Nilame of the Maha Saman Devalaya, Ratnapura, said that the Festival of the Diya Cutting Festival was implemented to date.
 
-...
+Migara Jayasundara, Migara Jayasundara, said that the annual procession of Sabaragamuwa Perahele was held on 3 August.
+
+The Perahera of the Maha Devalaya is organized by the State-sponsored procession and is organized by a committee of Ratnapura District Secretary Wasantha Gunaratne in connection with the health facilities.
+
+The Festival of the Flower of the Great Saman Devalaya The flower of the flower of the flower to the Maha Saman River.Basnayake Nayaka Niwarana Jayasundara is demanding the participation of pilgrims to participate in this year's Perahera.
+
+◼️
 
 [Data](articles/20f532dd.json)
 
+[Extended Data](ext_articles/20f532dd.ext.json)
+
 ---
 
-### උඩරට දුම්රිය ධාවනය සාමන්‍ය පරිදි
+### Upcountry train is commonly
 
 *2024-06-30 09:08:28* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනය-සාමන්‍ය පරිදි/11-410508) · `si`
 
-බදුල්ල සිට කොළඹ කොටුව බලා ධාවනය වෙමින් තිබූ  අංක 1046 දරන රාත්‍රි තැපැල් දුම්රිය ගලබඩ සහ ඉගුරුඔය දුම්රිය ස්ථාන අතර දුම්රිය මාර්ගයේ දී පීලීපැනීමට ලක්වීමෙන් අවහිර වී තිබූ බදුල්ල කොළඹ දුම්රිය ධාවනය අද (30) පෙරවරුවේ සිට සාමාන්‍ය පරදි ධාවනය වන බවත්, මහනුවර බදුල්ල සහ බදුල්ල මහනුවර අතර ධාවනය වන අංක 1126, 1596 දරන භාණ්ඩ ප්‍රවාහන මිශ්‍ර දුම්රියන් දෙක අද (30) දින ධාවනය නොවන බව  නාවලපිටිය දුම්රිය පාලක මැදිරිය පවසයි.
+Due to maintenance work, the Badulla-Colombo Fort railway line will operate from midnight tonight. The Nawalapitiya Railway Control Room reports that certain trains will not run today, including the frequent ones. This closure affects the section between Galabada stations, impacting services from Colombo Fort to Badulla and vice versa. Passengers are advised to check schedules before traveling.
 
-බදුල්ල සිට කොළඹ කොටුව බලා ධාවනය වෙමින් තිබූ අංක  1046 දරන රාත්‍රි තැපැල් දුම්රියේ මැදිරි දෙකක් මෙසේ අද(30) අලුයම 1.15ට පමණ ඉගුරුඔය  ගලබඩ දුම්රිය ස්ථාන අතර දුම්රිය මාර්ගයේ දී පීලීපැනීමට ලක් වූ බව දුම්රිය දෙපාර්තමේන්තුව පැවසීය .
+🟩
 
-මේ නිසාවෙන් කොළඹ කොටුව සිට බදුල්ල බලා ධාවනය වෙමින් තිබූ අංක 1045 දරන රාත්‍රි තැපැල් දුම්රිය නාවලපිටිය දුම්රිය ස්ථානයේ නවතා තැබු  බවත් , නාවලපිටිය දුම්රිය ස්ථානයේ  දුම්රිය සේවකයන් විසින් පිලීපැනිමට ලක් වූ දුම්රිය පිළීගත කිරිමේ කටයුතු සිදු කර අද (30) උදෑසන 8.00 පමණ වන විට දුම්රිය මාර්ගය යථා තත්වයට පත් කල බවත්  නාවලපිටිය දුම්රිය පාලක මැදිරියේ ප්‍රකාශයකු සදහන් කළේය .
+Badulla railway line from Badulla to Colombo Fort will be operated from the night of the railway line from the railway line from the railway stations.The Nawalapitiya Railway Control Room (UPFA) says that the two frequent number of traffic train trains will not run today (30).
 
-...
+The Railway Department said that the railway line was held at the railway line between the Galabada railway stations at around 1.15 am today (30) at 1.15 am today (30).
+
+This is due to this to the Badulla Fort from Colombo Fort to Badulla and has been admitted to Nawalapitiya Railway Station at Nawalapitiya.He also said that the Nawalapitiya Railway Control Room was made.
+
+Accordingly, the Colombo Fort Colombo Fort, Badulla Fort, Colombo Fort, Colombo Fort, 1045, has commenced the Colombo Fort.
+
+◼️
 
 [Data](articles/db91809d.json)
+
+[Extended Data](ext_articles/db91809d.ext.json)
 
 ---
 
@@ -758,21 +848,31 @@ The Director General of the Department of Fisheries & Aquatic Resources, Susanth
 
 ---
 
-### රත්මලානේ බුරියා දින පහකින් කොටුවෙයි
+### Bureane in Ratmalana falls in five days
 
 *2024-06-30 08:55:07* · [`adalk`](https://www.ada.lk/breaking_news/රත්මලානේ-බුරියා-දින-පහකින්-කොටුවෙයි/11-410507) · `si`
 
-විද්‍යුත් නාලිකාවක රැකියාව කරන නිලධාරිනියකගේ රත්මලාන ගාමිණී පටුමග දෙමහල්  නිවසකින් රුපියල් ලක්ෂ 20 කට ආසන්න රන් භාණ්ඩ සොරාගත් " රත්මලානේ බුරියා" නැමැත්තා දින පහක් වැනි කෙටි කාලයක් තුළදී අත්අඩංගුවට ගත් බව  ගල්කිස්ස මූලස්ථාන පොලිසිය කියයි.
+A working officer's family in Ratmalana was targeted by burglars who broke into their two-story house and stole valuables worth £11.5. The thieves entered through the front door while the eldest son slept and his father was away. Surveillance footage helped identify and arrest one suspect, who also led police to recover a stolen gold ring from a private mortgage center in Ratmalana. Further investigation uncovered more stolen items hidden in the suspect's house.
 
-සැකකරු සොරාගෙන තිබු දේපල අතර පවුම් 11 - 1/2  ක්  බර තැල්ලක් සහිත මාලයක් , වළලු දෙකක් හා මුදුවක්  පොලිස්  බාරයට ගෙන ඇත.
+🟩
 
-ඉකුත් මස 24 වෙනිදින  නිලධාරිනිය සහ ඇයගේ සැමියා රැකියාව සඳහා පිටව ගොස්  සිටි අවස්ථාවේදී  වැඩිමල් පුතු නිවසේ නිදාගෙන සිටි ඇති අතර පොඩි පුතු නිවසේ ඉදිරිපස දොර වසා දමා යතුර නිවස ඉදිරිපිට  තබා තිබෙන සපත්තු රඳවනය තුළ සඟවා ක්‍රීඩා කටයුතු සඳහා නිවසින් පිටව ගිය අතර වාරයේදී  නිවස ඉදිරිපිටට පැමිණ තිබූ සැකකරු සඟවා තිබූ යතුර දැක එය රැගෙන ඉදිරිපස දොර විවෘත කරගෙන නිවස තුළට ගොස් අල්මාරිය තුල තිබූ රන්බාන්ඩ තොගය සොරාගෙන පිටව ගොස් තිබූ බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+The Mount Lavinia Police say that a two-storied householder of a working officer in an e-school officer Ratmalana has been arrested within a five-day gold lane.
 
-සැකකරු නිවස ඉදිරිපිටට පැමිණ නිවස තුළට ඇතුල්වෙන අයුරු ඉදිරිපිට නිවසක සවිකර තිබූ සීසීටීවී කැමරාවක පටිගත ව පොලිසියට හමුවීමෙන් අනතුරුව  සැකකරු හඳුනාගෙන අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+The suspects were tabled in £ 11 - 1/2 of the heights with £ 11 - 1/2 of the property.
 
-...
+The eldest son was sleeping at home and left the house in front of the house, when her husband had left for the job.Police investigations have revealed that he had left the front door and opened the front door and stole the Ranabadanda stock in the cupboard.
+
+The suspect was identified and arrested after the suspect was founded in a CCTV camera installed in front of the house.
+
+Previously questioned by the suspect in the suspect in the suspect, a stolen gold ring has been found in the Ratmalana area at a private mortgage center in Ratmalana.
+
+The rest of the other goods were found on the suspect's statements while hidden in the suspect's house. The 50 year old suspect is to be produced before the Mt.
+
+◼️
 
 [Data](articles/24e9a414.json)
+
+[Extended Data](ext_articles/24e9a414.ext.json)
 
 ---
 
@@ -824,15 +924,35 @@ The man who was severely injured in the knife stress has been admitted to the Ka
 
 ---
 
-### කෝලි හා රෝහිත් විස්සයි20 පිටියෙන් සමුගනියි
+### The Thamil Thesiya Kootani – A Plague On The Tamil People!
+
+*2024-06-30 08:32:29* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-thamil-thesiya-kootani-a-plague-on-the-tamil-people/) · `en`
+
+Word is out that a “party”, The Thamil Thesiya Kootani, has been formed to put forward a common Tamil candidate as President. It is an unmitigated disaster, a plague on the Tamil people. The Federal Party has wisely dissociated itself from the move.
+
+I say this because we Tamils have been reduced to nobodies in Sri Lanka through persistent discrimination and state violence amounting to genocide. But now suddenly the conversation is different as all three likely Presidential Candidates –  Anura Kumara Dissanayake, Ranil Wickremesinghe and Sajit Pemadasa – are bidding for our Tamil votes, even promising the 13th Amendment and more.
+
+...
+
+[Data](articles/bf6da000.json)
+
+---
+
+### Coly and Rohit resignation from Twenty20 Ground
 
 *2024-06-30 08:29:14* · [`adalk`](https://www.ada.lk/sports/කෝලි-හා-රෝහිත්-විස්සයි20-පිටියෙන්-සමුගනියි/9-410506) · `si`
 
-ඉන්දිය සුපිරි පිතිකරුවන් දෙදෙනෙක් මෙන්ම ඉන්දිය නායකයන් දෙපළක්ද වන විරාත් කෝලි හා රෝහිත් ශර්මා විස්සයි20 පිටියෙන් සමුගන්නා බවට විස්සයි20 ලෝක කුසලානයේ අවසන් මහ තරගය ජය ගැනීමෙන් පසුව ප්‍රකාශයට පත් කළහ.
+After winning the Twenty20 World Cup, Coly and Rohit resigned from Twenty20 Ground, marking a significant moment in Indian cricket history.
+
+🟩
+
+Two Indian super-batsmen and two Indian leaders were declared after winning the final match of the Twenty20 World Cup.
 
 ◼️
 
 [Data](articles/fe76b365.json)
+
+[Extended Data](ext_articles/fe76b365.ext.json)
 
 ---
 
@@ -886,6 +1006,8 @@ Timor-Leste is a Southeast Asian country which was brutally invaded and ruled by
 
 [Data](articles/56d62b44.json)
 
+[Extended Data](ext_articles/56d62b44.ext.json)
+
 ---
 
 ### Kohli & Rohit retire from T20 internationals after World Cup win
@@ -930,19 +1052,25 @@ Strong winds of about 40-50 kmph can be expected at times over the Western slope
 
 ---
 
-### විස්සයි 20 ලෝක කුසලානය ඉන්දියාවට
+### Twenty20 World Cup into India
 
 *2024-06-30 08:02:07* · [`adalk`](https://www.ada.lk/sports/විස්සයි-20-ලෝක-කුසලානය-ඉන්දියාවට/9-410505) · `si`
 
-සිය මංගල ලෝක කුසලාන අවසන් මහ තරගයට ක්‍රීඩා කළ දකුණු අප්‍රිකා කණ්ඩායම පරාජය කරමින් විස්සයි20 ලෝක කුසලානය ජය ගැනීමට  ප්‍රභල ඉන්දී්‍ය කණ්ඩායම සමත්විය.
+India won the Twenty20 World Cup against South Africa in the finals. The Indian team scored 176/7, with Rathnak Virali Viiek Rathna contributing 76 off 59 balls, earning him the man of the match award.
 
-තරගයේ මුලින්ම පන්දුවට පහරදුන් ඉන්දිය කණ්ඩායම ලකුණු 176/7ක් රැස් කළ අතර එයට පිළිතුරු ලෙස දකුණු අප්‍රිකා කණ්ඩායම රැස් වූයේ ලකුණු 169/8ක් පමණි.
+🟩
 
-තරගාවලිය පුරාම ලකුණු අතර නොසිටි ඉන්දිය සුපිරි පිතිකරු විරාත් කෝලි අවසන් මහ තරගයේදී සිය පිත්ත ක්‍රියාත්මක කරමින් පන්දු 59කදී ලකුණු 76ක් රැස් කළේය. ඒ අනුව ඔහු තරගයේ විරයා ලෙසින්ද සම්මාන ලැබීය.
+The group of people were able to win the Twenty20 World Cup by defeating the South Africa played in the World Cup final.
+
+The Indian team scored 176/7 in the match, and the South African team scored only 169/8 runs.
+
+Indian batsman Rathnak Virali Viiek Rathna scored 76 off 59 balls in 59 balls with. Accordingly, he was adjudged the match.
 
 ◼️
 
 [Data](articles/d5f38ded.json)
+
+[Extended Data](ext_articles/d5f38ded.ext.json)
 
 ---
 
@@ -983,6 +1111,8 @@ There are chronic adherents to the habit who however consider work as the curse 
 ...
 
 [Data](articles/1735fed5.json)
+
+[Extended Data](ext_articles/1735fed5.ext.json)
 
 ---
 
@@ -2139,111 +2269,5 @@ Sri Lanka Navy Spokesperson said the vessel is being towed back to land with the
 [Data](articles/bd7daf3d.json)
 
 [Extended Data](ext_articles/bd7daf3d.ext.json)
-
----
-
-### Those who drank the poison that floated in the thought of alcohol
-
-*2024-06-29 14:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மது-என-நினைத்து-மிதந்து-வந்த-விஷத்தை-குடித்தவர்கள்-மரணம்/175-339598) · `ta`
-
-Two fishermen died after consuming poison from bottles found in the sea near Tangalle harbor. Four others are critically ill. The incident involved six fishermen aboard the "Devon" boat.
-
-🟩
-
-Two fishermen who went to sea from the Tangalle fishing harbor have died of poisonous solution.
-
-Some of the bottles floating in the sea last night (28) have been found as a brewery.
-
-Fisheries Director General Susantha Kahawatta said that the condition of four more fishermen was worrisome.
-
-It is reported that six fishermen from the Tangalle fishing harbor for fishing, "Devon", a multi -day fishing boat, faced the incident.. Remble
-
-◼️
-
-[Data](articles/3f8e39ee.json)
-
-[Extended Data](ext_articles/3f8e39ee.ext.json)
-
----
-
-### Two fishermen killed in fishermen who were born in the sea
-
-*2024-06-29 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198285) · `si`
-
-In Tangalle Fisheries Harbor, two fishermen died after consuming a toxic substance believed to be from bottles found floating in the sea. Six others fell ill, including four critically. The incident occurred aboard the Devi, Devon, "Devone," with the affected individuals contacting authorities via radio before losing contact. Despite efforts to bring the vessel ashore, another crew member passed away. The Navy has been notified.
-
-🟩
-
-Two fishermen have died in the Tangalle Fisheries Harbor due to drinking a toxic solution.
-
-Fisheries Director General Susantha Kahawatta said four other fishermen were in critical condition.
-
-Six fishermen on the Devi, Devon, "Devone" in the Tangalle Fisheries Harbor, have faced this incident.
-
-They have found several bottles floating in the sea yesterday and have been thinking about it.
-
-The Director of Fisheries said that six fishermen were sick and they had been notified through message engineers.
-
-"Some of the bottles floating in the sea last night were found on the vessel of the Tangalle Fisheries Harbor. These bottles believe that alcohol ... They have been drinking what they had in the bottles this morning. At least six staff in the accident have become ill. Before they were ill, they have a physical difficulty. "
-
-...
-
-[Data](articles/a9de81a6.json)
-
-[Extended Data](ext_articles/a9de81a6.ext.json)
-
----
-
-### Russia's answer to our people
-
-*2024-06-29 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198284) · `si`
-
-A Sri Lankan delegation, including MPs and officials, traveled to Russia to explore the Ukraine conflict. They met with Russian Foreign and Defense Ministry officials to gain insights into the situation.
-
-🟩
-
-UNP MP Dayasiri Jayasekara says that 17 Sri Lankan delegation departed to Russia to look into the Russian - Ukrainian war.
-
-Speaking to the media, he said that 121 joined in the war at the Bandaranaike International Airport today (29), he said.
-
-Foreign Minister Tharaka Balaboda, MPs Gamini Walaboda and Dayasiri Jayasekera and 8 public officials have left the island recently to investigate the incident.
-
-The Sri Lankan delegation was discussed with the Deputy Minister of Russian Foreign Affairs, the Russian Defense Minister and a group of officers.
-
-◼️
-
-[Data](articles/e5abd37d.json)
-
-[Extended Data](ext_articles/e5abd37d.ext.json)
-
----
-
-### Israeli tourist magic in Trincomalee
-
-*2024-06-29 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/187251) · `ta`
-
-An Israeli tourist, Tamar Amitai, vanished in Trincomalee after checking into a hotel on the 22nd. The local police initiated an investigation upon receiving a complaint from the hotel owner. The International Search and Recovery Organization, Magnus, has offered assistance, sharing contact details for anyone with information.
-
-🟩
-
-An Israeli female tourist who visits the country has disappeared in Trincomalee.
-
-The Trincomalee Uppuweli police have launched an investigation into the complaint made to the police.
-
-Tamar Amitai, an Israeli woman, who was traveling to the country on the 22nd, disappeared as she went to Trincomalee.
-
-He booked a room at a hotel in Trincomalee through enemy and went there on the 22nd.
-
-In this case, he has disappeared since the 26th. Subsequently, the owner of the hotel has lodged a complaint with the police.
-
-The Uppuveli Police Officer said that investigations have been launched in connection with the missing tourist but have not yet received any information.
-
-The International Search and Recovery Organization, Magnus, has shared a post on social media that the tourist will be informed of the +972508899698 or the Sar@Magnus.co.il email address.
-
-◼️
-
-[Data](articles/cafbec14.json)
-
-[Extended Data](ext_articles/cafbec14.ext.json)
 
 ---

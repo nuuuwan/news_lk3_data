@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 15:19:40**
+As of **2024-06-30 15:34:59**
 
 ## Newspaper Stats
 
-*Scraped **32,894** Articles*
+*Scraped **32,895** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,834
 economynextcom | 1,926
 dailyftlk | 2,015
 adalk | 2,920
-adaderanalk | 3,749
+adaderanalk | 3,750
 tamilmirrorlk | 3,890
 dailymirrorlk | 4,733
 virakesarilk | 5,110
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,432
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,887 (100.0%) of 32,894 articles have been extended.
+32,894 (100.0%) of 32,895 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -439,6 +439,30 @@ However, the proposal requires the approval of the Constitutional Council, which
 [Data](articles/79018366.json)
 
 [Extended Data](ext_articles/79018366.ext.json)
+
+---
+
+### Parinda Ranasinghe to be appointed as Acting AG
+
+*2024-06-30 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100193/parinda-ranasinghe-to-be-appointed-as-acting-ag) · `en`
+
+Senior Additional Solicitor General Parinda Ranasinghe is to be appointed as the Acting Attorney General of Sri Lanka.
+
+He is scheduled to be sworn in to the position before the Chief Justice tomorrow (01).
+
+Last week, it was reported that the proposal to extend incumbent Attorney General Sanjay Rajaratnam’s term by another 06 months was defeated for the second time at the Constitutional Council meeting.
+
+The proposal, which was submitted by President Ranil Wickremesinghe, was defeated with 05 votes against it while 03 members voted in favour.
+
+Rajaratnam’s current term is set to expire at the end of this month, and the President had proposed an extension for an additional six months.
+
+However, the proposal requires the approval of the Constitutional Council, which twice defeated it.
+
+Accordingly, Senior Additional Solicitor General Parinda Ranasinghe, who is the son of former Chief Justice K. A. Parinda Ranasinghe is tipped to be appointed as the Acting AG.
+
+◼️
+
+[Data](articles/961fbc39.json)
 
 ---
 
@@ -2341,31 +2365,5 @@ K.L.D.G. Richmond, the co-secretary of the Inter-University Trade Union Federati
 [Data](articles/2e334e68.json)
 
 [Extended Data](ext_articles/2e334e68.ext.json)
-
----
-
-### Found the Kenya's riots?- President seizes
-
-*2024-06-29 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198289) · `si`
-
-Sri Lanka's President Ranil Wickremesinghe compares his country's current state to Kenya's recent unrest, emphasizing the importance of stabilizing the economy to avoid similar situations. He highlights the need for economic reforms and credits the loan relief in Africa as a solution to prevent such crises.
-
-🟩
-
-President Ranil Wickremesinghe says Sri Lanka has become a Kenya today if he has not taken the country and stabilized the economy.
-
-The President made these comments participating yesterday (28) for the Presidential EPL.
-
-The Presidential Environment Awards ceremony was held yesterday at the Bandaranaike Memorial International Conference Hall in Colombo.
-
-The awards were presented for the civilians who were optimal to protect the environment and to prevent climate change.
-
-"There are a number of countries in Africa and Asia. They have demanded credit relief. I did not support the loan relief of Asia. I pointed out that we can solve the credit question in Sri Lanka. But in Africa, the loan relief was invaluable to abolish relief. "
-
-...
-
-[Data](articles/c62348b5.json)
-
-[Extended Data](ext_articles/c62348b5.ext.json)
 
 ---

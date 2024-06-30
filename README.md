@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 22:52:54**
+As of **2024-06-30 23:04:34**
 
 ## Newspaper Stats
 
-*Scraped **32,954** Articles*
+*Scraped **32,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,834
 economynextcom | 1,926
 dailyftlk | 2,015
 adalk | 2,930
-adaderanalk | 3,757
+adaderanalk | 3,758
 tamilmirrorlk | 3,895
 dailymirrorlk | 4,733
 virakesarilk | 5,132
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,954 (100.0%) of 32,954 articles have been extended.
+32,954 (100.0%) of 32,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
+
+### President urges opposition to join the path of unity for national progress
+
+*2024-06-30 22:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100204/president-urges-opposition-to-join-the-path-of-unity-for-national-progress) · `en`
+
+President Ranil Wickremesinghe stressed that, at present unity and prioritizing the nation, over individual interests or party affiliations are crucial for moving forward together.
+
+He stated this addressing the first rally in the “Victory through Unity” (Ekwa Jayagamu) series, organized by Minister of Power and Energy Kanchana Wijesekara and titled “Victory through Unity – Matara District (Ekwa Jayagamu – Api Matara)” at Matara Fort Ground today (30).
+
+The President highlighted his administration’s extensive efforts over the past two years and underscored the critical need for collective commitment to protect and propel the nation’s political journey for the benefit of all.
+
+Addressing the gathering, President Ranil Wickremesinghe emphasized that today marks the start of a new political journey.
+
+...
+
+[Data](articles/e967aa0e.json)
+
+---
 
 ### Handing fisherman handed over to Vijayabahu
 
@@ -2351,29 +2369,5 @@ Four fishermen have died in the south of the Deep Sea, which is about 365 nautic
 [Data](articles/3565b6a5.json)
 
 [Extended Data](ext_articles/3565b6a5.ext.json)
-
----
-
-### Knives in front of Maharagama
-
-*2024-06-30 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198310) · `si`
-
-In Maharagama, a 40-year-old man was stabbed and hospitalized. The attacker, also from Maharagama, was arrested by the Special Task Force (STF) after being found with a knife.
-
-🟩
-
-A person has been arrested by the STF personnel who was attacked with a sharp object in Maharagama.
-
-He was arrested by the Special Task Force officials while the suspect was attacked by another person in front of the Maharagama.
-
-The STF and a sharp weapon have been taken into custody and a sharp weapon in possession of the suspect and is a 40 year old resident of Maharagama.
-
-The man who was severely injured in the knife stress has been admitted to the Kalubowila hospital for treatment.
-
-◼️
-
-[Data](articles/71f0d93f.json)
-
-[Extended Data](ext_articles/71f0d93f.ext.json)
 
 ---

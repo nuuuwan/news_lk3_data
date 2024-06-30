@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 14:35:33**
+As of **2024-06-30 14:54:14**
 
 ## Newspaper Stats
 
-*Scraped **32,891** Articles*
+*Scraped **32,894** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 300
-dbsjeyarajcom | 300
+dbsjeyarajcom | 301
 bbccomsinhala | 321
 newsfirstlk | 363
 islandlk | 1,834
 economynextcom | 1,926
 dailyftlk | 2,015
-adalk | 2,919
-adaderanalk | 3,748
+adalk | 2,920
+adaderanalk | 3,749
 tamilmirrorlk | 3,890
 dailymirrorlk | 4,733
 virakesarilk | 5,110
@@ -26,11 +26,23 @@ adaderanasinhalalk | 5,432
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,869 (99.9%) of 32,891 articles have been extended.
+32,874 (99.9%) of 32,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
+
+### Two navy intelligence personnel arrested over drug trafficking links
+
+*2024-06-30 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100197/two-navy-intelligence-personnel-arrested-over-drug-trafficking-links) · `en`
+
+Two Sri Lanka Navy personnel attached to the Intelligence Unit have been arrested by the SL Navy Special Investigation Unit over their alleged involvement in a large-scale drug smuggling racket.
+
+◼️
+
+[Data](articles/37f29540.json)
+
+---
 
 ### Operational operation of Bureane in Ratmalana
 
@@ -475,6 +487,24 @@ Maharagama Police is conducting further investigations related to the incident.
 [Data](articles/1f61a0c4.json)
 
 [Extended Data](ext_articles/1f61a0c4.ext.json)
+
+---
+
+### සජිත් ආරම්භ කළ නිවාස 45,117 ක වැඩ අවසන් කරන්න කැබිනට් අනුමැතිය
+
+*2024-06-30 10:48:33* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-ආරම්භ-කළ නිවාස-45-117-ක-වැඩ-අවසන්-කරන්න-කැබිනට්-අනුමැතිය/11-410514) · `si`
+
+සජිත් ප්‍රේමදාස මහතා අතරමග නවතා දැමූ නිවාස ව්‍යාපෘතිවල වැඩකටයුතු අවසන් කිරීමට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමි වේ.
+
+විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා නිවාස විෂයභාර අමාත්‍යවරයා ලෙස කටයුතු කළ 2015 – 2019 කාලවකවානුව තුළ ජාතික නිවාස සංවර්ධන අධිකාරිය මගින් සැමට සෙවණ නිවාස වැඩසටහන යටතේ අඩු ආදායම්ලාභී ප්‍රජාව ඉලක්ක කරගනිමින් ව්‍යාපෘති 07 ක් ආරම්භ කර තිබිණ.
+
+ආදර්ශ ගම්මාන වැඩසටහන, විසිරි ණය (ආධාර) වැඩසටහන, ග්‍රාම ශක්ති විසිරි ආධාර, විසිරි ණය වැඩසටහන, විරු සුමිතුරු, වකුගඩු ආධාර, ගංවතුරෙන් හානි වූ උතුරේ නිවාස ඉදිකිරීම මෙම ව්‍යාපෘති 07 යි.
+
+සජිත් ප්‍රේමදාස මහතා නිවාස අමාත්‍යවරයා වශයෙන් සිටියදී ඉදිකිරීම් ආරම්භ කරන ලද නිවාස ඒකක ගණන 387,520 කි. එක් උදාගම්මාන වැඩසටහනක් සඳහා වෙන් කළ මුදල කොටස් වශයෙන් උදාගම්මාන කිහිපයක් සඳහා වෙන්කිරීමත්, ව්‍යාපෘති සදහා වෙන් කළ මුදල් ප්‍රතිපාදනවලින් 79.97% ක් පමණක් ලැබීමත් යන හේතූන් මත නිවාස ඒකක 229,580 ක ඉදිකිරීම් අතරමග නතර වී තිබේ.
+
+...
+
+[Data](articles/160a1e79.json)
 
 ---
 
@@ -1278,21 +1308,49 @@ Established in 2004, RIOCOCO began with a vision to revolutionise the coconut gr
 
 [Data](articles/484c8dd0.json)
 
+[Extended Data](ext_articles/484c8dd0.ext.json)
+
 ---
 
-### அமெரிக்க திறைசேரி அதிகாரி இலங்கை வருகிறார்
+### Do the Tamil Critics of the 13th Constitutional Amendment have the Political Strength to Force a Future Govt to Introduce a Devolution Scheme  better than what is Available in the Provincial Councils?
+
+*2024-06-30 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84298) · `en`
+
+Sri Lankan Tamil politics has become more complicated due to contradictions among Tamil political parties regarding what position northern and eastern Tamils should take in the upcoming Presidential Election.
+
+It makes no sense to expect Tamil parties to be inclined to act unitedly or to come to a unified position to find a solution to the national ethnic problem.
+
+The idea of fielding a Tamil common candidate at the Presidential Election has occupied Tamil politics in recent times.
+
+Though the Democratic Tamil National Alliance (DTNA), consisting of a few Tamil parties whose leaders formerly were prominent members of armed militant groups, have decided to support the attempts to field a common Tamil candidate, the initial enthusiasm among some Tamil parties is now absent in this regard.
+
+There are conflicting views not only between parties but also within each party regarding the common candidate.
+
+...
+
+[Data](articles/5bc40ed7.json)
+
+---
+
+### US Treasury Officer comes to Sri Lanka
 
 *2024-06-30 01:06:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-திறைசேரி-அதிகாரி-இலங்கை-வருகிறார்/175-339608) · `ta`
 
-அமெரிக்க திறைசேரியின் ஆசியாவிற்கான பிரதி உதவி செயலாளர் ரொபர்ட் கப்ரோத் அடுத்த வாரம் இலங்கை வரவுள்ளார்.
+Robert Caproth, Deputy Assistant Secretary of Asia for the US Treasury, will visit Sri Lanka next week. He'll meet with government and financial leaders as part of his trip.
 
-இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் தனது எக்ஸ் பதிவில் இதனை தெரிவித்துள்ளார்.
+🟩
 
-கப்ரோத் தனது விஜயத்தின் போது, அரச அதிகாரிகள் மற்றும் நிதித்துறை தலைவர்களுடன் கலந்துரையாடல்களை முன்னெடுக்க திட்டமிடப்பட்டுள்ளது. (a)
+Deputy Assistant Secretary of Asia of the US Treasury Robert Caproth arrives in Sri Lanka next week.
+
+US Ambassador to Sri Lanka Julie Sung said this in his X post.
+
+Caprooth is scheduled to hold discussions with state officials and finance leaders during his visit. (A)
 
 ◼️
 
 [Data](articles/ea4d8c16.json)
+
+[Extended Data](ext_articles/ea4d8c16.ext.json)
 
 ---
 
@@ -1308,6 +1366,8 @@ These ground rules were considered to be essential to avoid a repetition of the 
 
 [Data](articles/881cc840.json)
 
+[Extended Data](ext_articles/881cc840.ext.json)
+
 ---
 
 ### The Idea of the Global South
@@ -1321,6 +1381,8 @@ The Global South, to be sure, has never been stronger before. The present moment
 ...
 
 [Data](articles/037a16b8.json)
+
+[Extended Data](ext_articles/037a16b8.ext.json)
 
 ---
 
@@ -1384,21 +1446,29 @@ The Trophy of the World Trophy to the champions of the World Cup was brought to 
 
 ---
 
-### தென் ஆப்பிரிக்காவை கடைசி ஓவரில் வீழ்த்தி இந்தியா சாம்பியன்
+### India champion beat South Africa in the last over
 
 *2024-06-29 23:35:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தென்-ஆப்பிரிக்காவை-கடைசி-ஓவரில்-வீழ்த்தி-இந்தியா-சாம்பியன்/44-339607) · `ta`
 
-9-வது டி20 உலகக்கோப்பை தொடரின் இறுதிப்போட்டியில் இந்தியா - தென் ஆப்பிரிக்கா அணிகள் மோதின. இதில் டாஸ் வென்ற இந்திய அணியின் தலைவர் ரோகித் பேட்டிங் தேர்வு செய்தார்.
+In the nail-biting finale of the 9th T20 World Cup, India emerged victorious against South Africa. Batting first, India reached 176/7, led by Virat Kohli's 76. South Africa set a target of 177, but India clinched victory in the last over, thanks to Hardik Pandya's exceptional bowling, securing the cup with an 8-run lead.
 
-அதன்படி முதலில் துடுப்பெடுத்தாட களமிறங்கிய இந்திய அணியின் தொடக்க ஆட்டக்காரர்களாக ரோகித் - விராட் கோலி களமிறங்கினர்.
+🟩
 
-இதில் முதல் ஓவரிலேயே 15 ஓட்டங்கள் அடித்து அதிரடியாக தொடங்கிய இந்தியாவுக்கு, 2-வது ஓவரை வீசிய கேஷவ் மகராஜா இரட்டை செக் வைத்தார். அந்த ஓவரில் ரோகித் 9 ஓட்டங்களிலும், பண்ட் டக் அவுட் ஆகியும் ஏமாற்றம் அளித்தனர்.
+India - South Africa teams clash in the final of the 9th T20 World Cup. India captain Rohit won the toss and elected to bat.
 
-அவரைதொடர்ந்து களமிறங்கிய சூர்யகுமார் யாதவ் 3 ஓட்டங்களிலும் ஆட்டமிழந்தார் பின்னர் கை கோர்த்த விராட் கோலி - அக்சர் படேல் இணை சிறப்பாக விளையாடி அணியை சரிவிலிருந்து மீட்டெடுத்தது. விராட் கோலி ஒருபுறம் நிதானமாக விளையாட மறுமுனையில் அக்சர் அதிரடியாக விளையாடினார். அரைசதம் அடிப்பார் என்று எதிர்பார்க்கப்பட்ட அக்சர் படேர் துரதிர்ஷ்டவசமாக 47 ஓட்டங்களில் ரன் அவுட் ஆனார். நிலைத்து விளையாடிய விராட் கோலி அரைசதம் அடித்து அசத்தினார்.
+Rohit -Virat Kohli was the opening batsmen of the Indian team.
+
+Keshav Maharaja hit the 2nd over to India, scoring 15 runs in the first over by 15 runs.. In that over, Rohit was disappointed with 9 runs and Bund Duck out.
+
+Suryakumar Yadav was dismissed for three runs.. Akshar played brilliantly at the other end of Virat Kohli to play relax. Akshar Buder, who was expected to hit half -century, was unfortunately run out for 47 runs. Virat Kohli, who played, hit half a century.
+
+Shivam Dubey scored 27 runs for his share, India scored 176 runs for the loss of 7 wickets at the end of 20 overs. Virat Kohli scored 76 runs in the Indian team. Norjee and Keshav Maharaja took 2 wickets each for South Africa.
 
 ...
 
 [Data](articles/3364a572.json)
+
+[Extended Data](ext_articles/3364a572.ext.json)
 
 ---
 
@@ -2245,71 +2315,5 @@ Similarly, fishermen and maritime community has been informed not to engage in f
 [Data](articles/200c756c.json)
 
 [Extended Data](ext_articles/200c756c.ext.json)
-
----
-
-### 10 lakh tourists jumps
-
-*2024-06-29 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198287) · `si`
-
-Sri Lanka welcomed its 1 millionth foreign tourist, Patricia Roy from Dublin, at Katunayake Airport today. The milestone marks a significant increase since the start of 2024, highlighting the country's growing popularity among international visitors.
-
-🟩
-
-Since its inception, the number of foreign tourists visited Sri Lanka from the beginning of 2024 to date.
-
-Paul Roy, who came from Dublin, was named 1,000,000, was named Patricia Roy, with him.
-
-They have been in London, England to Sri Lanka from London, England this afternoon to the Katunayake Airport.
-
-They had organized a ceremony of the Bandaranaike International Airport to receive them.
-
-◼️
-
-[Data](articles/3f9c4019.json)
-
-[Extended Data](ext_articles/3f9c4019.ext.json)
-
----
-
-### Objection of Tangalle Pallikkuda
-
-*2024-06-29 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198286) · `si`
-
-Fishermen in Tangalle Pallikuda protested by blocking the Colombo-Kataragama road after six were severely injured and two died during a fishing trip, allegedly due to alcohol consumption.
-
-🟩
-
-The fishermen have launched a protest blocking the Colombo-Kataragama road from Tangalle Pallikuda area.
-
-The fishermen paid to the authorities to lay down the fishermen who left the Tangalle Fisheries Harbor.
-
-The fishermen visited the sea for fisheries yesterday (28), and they have been thinking that alcohol was drinking.
-
-As a result, six fishermen in the vessel have been severely criticized and two have died.
-
-◼️
-
-[Data](articles/9c5b2cb1.json)
-
-[Extended Data](ext_articles/9c5b2cb1.ext.json)
-
----
-
-### 2 fishermen dead, 4 critical after consuming unknown liquid at sea
-
-*2024-06-29 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100180/2-fishermen-dead-4-critical-after-consuming-unknown-liquid-at-sea) · `en`
-
-Two of the six crew members of a fishing vessel that set out from Tangalle have died, and the remaining four are in critical condition after consuming the contents of a bottle they found floating in the sea, assuming it was liquor.
-
-The incident has reportedly occurred while the boat was around 320 nautical miles (592.64 km) off the coast of Sri Lanka.
-
-Sri Lanka Navy Spokesperson said the vessel is being towed back to land with the help of another craft.
-
-◼️
-
-[Data](articles/bd7daf3d.json)
-
-[Extended Data](ext_articles/bd7daf3d.ext.json)
 
 ---

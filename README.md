@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 00:19:42**
+As of **2024-07-01 00:34:59**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,958 (100.0%) of 32,963 articles have been extended.
+32,962 (100.0%) of 32,963 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
 
-### ආර් සම්පන්දන් දිවියෙන් සමුගනී
+### R prodicity retires
 
 *2024-06-30 23:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198339) · `si`
 
-ඔහු ද්‍රවිඩ ජාතික සන්ධානය නියෝජනය කරමින් පාර්ලිමේන්තු මන්ත්‍රීවරයෙක් ලෙස කටයුතු කළේය.
+R. Sampanthan, a former Member of Parliament from the Tamil National Alliance (TNA), passed away in Colombo during medical treatment.
 
-කොළඹ පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටියදී ඔහු අභාවප්‍රාප්ත වී තිබේ.
+🟩
+
+He acted as a Member of Parliament representing the TNA.
+
+He passed away while receiving treatment at a private hospital in Colombo.
 
 ◼️
 
 [Data](articles/6984cc02.json)
+
+[Extended Data](ext_articles/6984cc02.ext.json)
 
 ---
 
@@ -66,25 +72,31 @@ Addressing the gathering, President Ranil Wickremesinghe emphasized that today m
 
 ---
 
-### இன்று நள்ளிரவு முதல் எரிபொருள் விலை குறைப்பு!
+### Fuel prices cut from midnight today!
 
 *2024-06-30 22:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/187340) · `ta`
 
-இலங்கை பெற்றோலிய கூட்டுத்தாபனம் தனது எரிபொருள் விலையை 30ஆம் திகதி நள்ளிரவு முதல் அமுலுக்கு வரும் வகையில் திருத்துவதற்கு தீர்மானித்துள்ளது.
+From midnight, the Ceylon Petroleum Corporation cuts fuel prices: Octane 92 petrol drops to 344 rupees, Octane 95 to 379 rupees, super diesel to 355 rupees. Auto diesel remains at 317 rupees, and kerosene oil at 202 rupees.
 
-இந்த திருத்தங்களின் கீழ், மூன்று வகையான எரிபொருட்களின் விலைகள் குறைக்கப்படவுள்ள அதேவேளை, இரண்டின் விலையில் மாற்றமில்லை.
+🟩
 
-இதன்படி, ஒக்டேன் 92 பெற்றோல் லீற்றர் ஒன்றின் விலை 11 ரூபாவினால் குறைக்கப்படவுள்ளதுடன், அதன் புதிய விலை 344 ரூபாவாகும்.
+The Ceylon Petroleum Corporation has decided to revise its fuel prices from midnight on the 30th.
 
-ஒக்டேன் 95 பெற்றோல் லீற்றர் ஒன்றின் விலை 41 ரூபாவால் குறைக்கப்படவுள்ளதுடன், அதன் புதிய விலை 379 ரூபாவாகும்.
+Under these amendments, the prices of three types of fuels are to be reduced, while the price of the two is not changed.
 
-ஒரு லீற்றர் சுப்பர் டீசலின் விலை 22 ரூபாவினால் குறைக்கப்படவுள்ளதுடன் அதன் புதிய விலை355 ரூபாவாக அறிவிக்கப்பட்டுள்ளது.
+Accordingly, the price of Octane 92 petrol will be reduced by 11 rupees and its new price is 344 rupees.
 
-இதன்படி, ஆட்டோ டீசல் லீற்றர் ஒன்றின் விலை 317 ரூபாவாகவும் மண்ணெண்ணெய்யின் விலை 202 ரூபாவாகவும் நிர்ணயிக்கப்பட்டுள்ளது.
+The Octane 95 Petrol Price will be reduced by 41 rupees and its new price is 379 rupees.
+
+The price of a liter of super diesel will be reduced by 22 rupees and its new price has been announced at 355 rupees.
+
+Accordingly, the price of an auto diesel per liter is 317 rupees and the price of kerosene oil at 202 rupees.
 
 ◼️
 
 [Data](articles/665a62c5.json)
+
+[Extended Data](ext_articles/665a62c5.ext.json)
 
 ---
 
@@ -304,21 +316,31 @@ At the same time, the Muslim Congress, Tamil parties and 12 members of the Risha
 
 ---
 
-### රට ගොඩනැඟීමේ පාඩම මගෙන් ඉගෙන ගන්න
+### Learn the country's building lesson
 
 *2024-06-30 20:12:55* · [`adalk`](https://www.ada.lk/breaking_news/රට-ගොඩනැඟීමේ-පාඩම-මගෙන්-ඉගෙන-ගන්න/11-410530) · `si`
 
-අද තිබෙන්නේ පුද්ගලවාදය හෝ පක්ෂවාදය නොව, රට පෙරට තබා සියලුදෙනා පොදු එකඟතාවකින් ඉදිරියට යාම බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+President Ranil Wickremesinghe emphasized unity and collective action over individualism, highlighting significant achievements in the past two years despite challenges. He spoke of a new political journey starting from Matara, focusing on learning from the country and its people to build a better future. The President also addressed the nation's economic stabilization efforts, including tax reforms and relief programs, aiming to secure the country's financial future and encourage unity across political divides.
 
-රටට ආදරය කරන සියලුදෙනා එක්කර ගනිමින් නිහඬවම ඉකුත් දෙවසර තුළ රට වෙනුවෙන් පුළුල් වැඩ කොටසක් ඉටු කළ බව පැවසූ ජනාධිපතිවරයා මෙම නව දේශපාලන ගමන ආරක්ෂා කර ගනිමින් ඉදිරියට ගෙන යාමට සියලුදෙනා කැපවිය යුතු බවද සඳහන් කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ වත්මන් රජයේ වැඩපිළිවෙළ සහ ඉදිරි ගමන් මඟ පිළිබඳ ජනතාව දැනුවත් කිරීම වෙනුවෙන් අද (30) මාතර කොටුව ක්‍රිඩාංගණයේ පැවති ජන හමුව අමතමිනි.
+President Ranil Wickremesinghe stressed that today, not individualism or birdism, but alliance and all in common agreement.
 
-“එක්ව ජයගමු – අපි මාතර” මැයෙන් විදුලිබල සහ බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා විසින් සංවිධානය කර තිබු මෙම ජන හමුවට මාතර දිස්ත්‍රික්කයේ ජනතාව අතිවිශාල පිරිසක් එක්ව සිටියහ.
+The President said that all the work was silent in the past two years and had done a wide range of work for the country.
+
+President Ranil Wickremesinghe made this statement addressing the public meeting held at the Fort Stadium today (30) to educate the public program and the public.
+
+"Jointly Joint - Matara and Energy Minister Kanchana Wijesekera was organized by the people of the Matara district.
+
+President Ranil Wickremesinghe said that the beginning of a new political journey has been marked from Matara today. The country said that the President would learn how the President would be able to learn the country with the country, as well as the President to build the country with this program.
+
+Addressing the crowd, President Ranil Wickremesinghe further added:
 
 ...
 
 [Data](articles/cee71c52.json)
+
+[Extended Data](ext_articles/cee71c52.ext.json)
 
 ---
 
@@ -651,6 +673,8 @@ Almost every family adheres to traditions such as consulting horoscope readers a
 ...
 
 [Data](articles/5ef153d8.json)
+
+[Extended Data](ext_articles/5ef153d8.ext.json)
 
 ---
 

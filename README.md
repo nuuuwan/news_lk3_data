@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 04:35:02**
+As of **2024-07-01 04:55:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,976 (100.0%) of 32,978 articles have been extended.
+32,978 (100.0%) of 32,978 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -168,33 +168,45 @@ What happened to our children. We want international justice. Although the offic
 
 ---
 
-### இரு தினங்கள் விசேட அமர்வு
+### Two Days Special Session
 
 *2024-07-01 01:59:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-தினங்கள்-விசேட-அமர்வு/175-339674) · `ta`
 
-வெளிநாட்டுக் கடன் மறுசீரமைப்பு உடன்படிக்கைகளை நடைமுறைப்படுத்துவதற்கான முன்மொழிவுகளை நிறைவேற்றுவதற்காக ஜூலை 2,3 ஆம் திகதிகளில் விசேட பாராளுமன்ற அமர்வை நடத்த தீர்மானிக்கப்பட்டுள்ளது.
+A special parliamentary session is scheduled for July 2-3 to discuss and implement proposals from the Foreign Loan Reform Agreement. The Committee for Parliamentary Affairs approved this session. President Ranil Wickremesinghe addressed Parliament on June 2, setting the stage for debates on foreign credit reconstruction agreements.
 
-வெள்ளிக்கிழமை (21) கூடிய பாராளுமன்ற விவகாரங்களுக்கான குழுவே, விசேட பாராளுமன்ற அமர்வை கூட்டுவதற்கான அங்கிகாரத்தை வழங்கியுள்ளது.
+🟩
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க பாராளுமன்றத்தில், செவ்வாய்க்கிழமை (02) விசேட உரையை ஆற்றியதன் பின்னர், வெளிநாட்டுக் கடன் மறுசீரமைப்பு உடன்படிக்கைகள் தொடர்பிலான விவாதமும் நடத்தப்படும்.
+It has been decided to hold a special parliamentary session on July 2,3 to implement proposals for implementing the Foreign Loan Reform Agreement.
+
+The Committee for Parliamentary Affairs on Friday (21) has provided the recognition of the Special Parliamentary Session.
+
+President Ranil Wickremesinghe delivered a special speech on Tuesday (02) in Parliament and a debate on foreign credit reconstruction agreements will be held.
 
 ◼️
 
 [Data](articles/1365c6fb.json)
 
+[Extended Data](ext_articles/1365c6fb.ext.json)
+
 ---
 
-### நால்வர் தாவுவர்?
+### Four tabs?
 
 *2024-07-01 01:56:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நால்வர்-தாவுவர்/175-339673) · `ta`
 
-ஜனாதிபதி பாராளுமன்றத்தில் எதிர்வரும் 2 ஆம் திகதி உரையாற்றும் போது எதிர்க்கட்சியின் நான்கு உறுப்பினர்களில் இருவர் அரசாங்கத்திற்கு ஆதரவளிக்க தயாராக இருப்பதாக தகவல்கள் வெளியாகியுள்ளன.
+Two opposition members may back the government in parliament. Rajitha Senaratne and Sarath Fonseka plan to ally with it, supporting Ranil Wickremesinghe in the presidential election.
 
-இதேவேளை, ராஜித சேனாரத்ன மற்றும் பீல்ட் மார்ஷல் சரத் பொன்சேகா ஆகியோரும் அரசாங்கத்துடன் கூட்டணி அமைக்கத் தயாராக இருப்பதாகவும், எதிர்வரும் ஜனாதிபதித் தேர்தலில் ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்கத் தயாராக இருப்பதாகவும் தெரிவிக்கப்படுகிறது.
+🟩
+
+Reports have emerged that two of the four members of the opposition are ready to support the government while addressing the president's parliament on the 2nd.
+
+Meanwhile, Rajitha Senaratne and Field Marshal Sarath Fonseka are ready to form an alliance with the government and are ready to support Ranil Wickremesinghe in the upcoming presidential election.
 
 ◼️
 
 [Data](articles/0413ff39.json)
+
+[Extended Data](ext_articles/0413ff39.ext.json)
 
 ---
 

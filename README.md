@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 14:19:42**
+As of **2024-06-30 14:35:33**
 
 ## Newspaper Stats
 
@@ -26,47 +26,63 @@ adaderanasinhalalk | 5,432
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,860 (99.9%) of 32,891 articles have been extended.
+32,869 (99.9%) of 32,891 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
 
-### රත්මලානේ බුරියා ව කොටුකරගත් මෙහෙයුම
+### Operational operation of Bureane in Ratmalana
 
 *2024-06-30 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198323) · `si`
 
-රත්මලානේ පිහිටි නිවසකින් රුපියල් ලක්ෂ 20කට ආසන්න වටිනාකමකින් යුත් රන් භාණ්ඩ සොරාගත් "රත්මලානේ බුරියා" නැමැත්තා අත්අඩංගුවට ගෙන තිබේ.
+A suspect in Ratmalana was arrested for stealing gold items worth nearly Rs. The theft occurred over five days, with the suspect entering the house through a hidden key and stealing from a cupboard. Surveillance footage captured the suspect near the house. The suspect, aged 50, will face charges at the Mount Lavinia Magistrate's Court.
 
-මෙම සොකරම සිදුකර දින පහක් වැනි කෙටි කාලයක් තුළදී සැකකරු ව අත්අඩංගුවට ගත් බව ගල්කිස්ස පොලීසිය පැවසීය.
+🟩
 
-සැකකරු විසින් සොරාගෙන තිබු දේපොළ අතර පවුම් 11 1/2 ක් බර තැල්ලක් සහිත මාලයක්, වළලු දෙකක් හා මුදුවක් පොලිස් භාරයට ගෙන ඇත.
+"Ratmalana" has been arrested in Ratmalana, who stored the gold items worth nearly Rs.
 
-ඉකුත් මස 24 වෙනිදින නිවසේ සිට කාන්තාව සහ ඔහුගේ සැමියා රැකියාව සඳහා පිටව ගොස්  සිටි අවස්ථාවේදී  වැඩිමල් පුතු නිවසේ නිදාගෙන සිට ඇති අතර පොඩි පුතු නිවසේ ඉදිරිපස දොර වසා දමා යතුර නිවස ඉදිරිපිට තබා තිබෙන සපත්තු රඳවනය තුළ සඟවා ක්‍රීඩා කටයුතු සඳහා නිවසින් පිටව ගොස් තිබුණි.
+Mount Lavinia Police said that the suspect was arrested in a period of five days.
 
-ඒ අතරවාරයේදී  නිවස ඉදිරිපිටට පැමිණි සැකකරු, සඟවා තිබූ යතුර දැක එය රැගෙන ඉදිරිපස දොර විවෘත කරගෙන නිවස තුළට ගොස් අල්මාරිය තුළ තිබූ රත්‍රන් සොරාගෙන පිටව ගොස් තිබූ බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+The suspect has been taken into custody with £ 11 1/2 runs with £ 11 1/2 heavy bodies.
 
-සැකකරු නිවස ඉදිරිපිටට පැමිණ නිවස තුළට ඇතුලුවෙන අයුරු ඉදිරිපිට නිවසක සවිකර තිබූ සීසීටීවී කැමරාවක සටහන්ව තිබුණි.
+The eldest son was sleeping at home and left the house in front of the house when the woman and his husband had left the house on the 24th of last month.
 
-...
+In the meantime, police investigations have revealed that the suspect had seen the hidden key and opened the front door and went into the house and stole the gold in the cupboard.
+
+The suspect was in front of the house and was moved in a CCTV camera that was mounted in front of the house.
+
+In question the suspect related to many aft, a stolen gold ring has been able to find a stolen gold ring in Ratmalana.
+
+The rest of the other items were found in the suspect's statements while the 50-year-old suspect, the 50-year-old suspect is to be produced before the Mount Lavinia Magistrate's Court.
+
+◼️
 
 [Data](articles/e2721b2b.json)
 
+[Extended Data](ext_articles/e2721b2b.ext.json)
+
 ---
 
-### උරුමය මොනරාගල ට
+### Inheritance to Moneragala
 
 *2024-06-30 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198322) · `si`
 
-සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ “උරුමය” ජාතික වැඩසටහන යටතේ මොනරාගල දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 11ක සුදුසුකම්ලාභීන් 41,960ක් අතුරින් පුද්ගලයන් 600ක් වෙනුවෙන් සංකේතාත්මකව ඔප්පු ප්‍රදානය කිරීම අද (30) සිදුකළේය.
+In a ceremony at the Mahinda Rajapaksa Conference Hall, President Ranil Wickremesinghe announced that the Divisional Secretariat Division in Moneragala, part of the heritage program, would receive significant resources for tank reconstruction.
 
-ඒ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් වැල්ලවාය මහින්ද රාජපක්ෂ සම්මන්ත්‍රණ ශාලාවේදී පැවති උත්සවයකදීය.
+🟩
 
-එහිදී ජනාධිපතිවරයා පැවසුවේ “උරුමය” ජාතික වැඩසටහන යටතේ මොනරාගල දිස්ත්‍රික්කයේ වැඩිම සින්නක්කර ඉඩම් ඔප්පු සංඛ්‍යාවක් ලබාදෙන ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ වැව් ප්‍රතිසංස්කරණය කිරීම සඳහා අමතර ප්‍රතිපාදනයක් ලෙස රුපියල් මිලියන 25 ක් ලබාදීමට කටයුතු කරන බවයි.
+Among the 41,960 Divisional Secretariat Divisions in the Moneragala district of the "heritage" National Program of the "Heritage" National Program of the "Heritage" National Program of the Moneragala District of the Maundaratne District.
+
+At a function held at the Mahinda Rajapaksa Conference Hall under the patronage of President Ranil Wickremesinghe.
+
+The President said that the highest amount of goods in the Divisional Secretariat Division will be provided for the reconstruction of the tanks of the Divisional Secretariat Division.
 
 ◼️
 
 [Data](articles/930b98cd.json)
+
+[Extended Data](ext_articles/930b98cd.ext.json)
 
 ---
 
@@ -88,27 +104,33 @@ According to Principal Commissioner R Srinivasa Naik, the investigation began wh
 
 ---
 
-### පෘථිවිය බේරාගැනීමේ කොන්ත්‍රාත්තුව ඊලොන් මස්ක් ට
+### Eelon Musk to save Earth
 
 *2024-06-30 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198321) · `si`
 
-වසර 20කට වැඩි කාලයක් පුරා විද්‍යාත්මක පර්යේෂණ රැසකට දායකත්වය සපයන ජාත්‍යන්තර අභ්‍යවකාශ මධ්‍යස්ථානයේ සේවා කාලය අවසන් වූ විට එය ආරක්ෂිතව ඉවත්කර දැමීමේ සැලසුම නාසා ආයතනය ප්‍රකාශයට පත් කර තිබේ.
+Elon Musk's SpaceX is set to assist NASA in safely removing the International Space Station (ISS), marking the end of its 24-year mission. Launched in 1998, the ISS, a collaboration between the U.S., Russia, Japan, the EU, and Canada, has hosted over 3,300 scientific experiments. With its retirement planned for 2030, NASA aims to deorbit the 430-ton station without causing harm to Earth. The project, costing $843 million, is expected to set a precedent for managing other space debris.
 
-ඒ අනුව මේ භාරදූර මෙහෙයුම සඳහා යොදාගැනීමට නියමිතව ඇත්තේ ඊලොන් මස්ක්ගේ ස්පේස් එක්ස් සමාගමට අයත් යානයකි.
+🟩
 
-ක්ෂුද්‍ර ගුරුත්වාකර්ෂණ සහ අභ්‍යවකාශ පරිසර යටතේ අත්හදා බැලීම් සිදුකිරීමේ අරමුණින් ජාත්‍යන්තර අභ්‍යවකාශ මධ්‍යස්ථානය පිහිටුවීමේ කටයුතු පළමුව ආරම්භ වූයේ 1998 වසරේදීය.
+NASA has announced the plan to remove the plan to remove it safely with the end of the International Space Station that contributes to more than 20 years.
 
-ඒ අමෙරිකානු, රුසියානු, ජපාන, යුරෝපා සංගම් සහ කැනේඩියානු අභ්‍යවකාශ ඒජන්සිවල එකමුතුවෙනි.
+Accordingly, it is due to be used for this rice operation, Ecomy Musk's Space X Company.
 
-එම මධ්‍යස්ථානය ඉදිකෙරුණේ එවක අභ්‍යවකාශ ක්ෂේත්‍රයේ දැවැන්තයා වූ සෝවියට් සමූහාණ්ඩුවට අයත් මීර් අභ්‍යවකාශ මධ්‍යස්ථානය සිදුකළ මාදිලියේ පර්යේෂණ සිදුකිරීමේ අරමුණ සහිතව ය.
+The establishment of the International Space Station was first started in 1998 with the objective of making experiments under micro gravity and space environment.
 
-2000 වසරේදී මෙහෙයුම් ආරම්භ කෙරුණු ජාත්‍යන්තර අභ්‍යවකාශ මධ්‍යස්ථානය අමෙරිකානු සහ රුසියානු ලෙස අංශ දෙකක් යටතේ ක්‍රියාත්මක වෙයි.
+It is united in American, Russian, Japan, EU and Canadian Space Agencies.
 
-ජාත්‍යන්තර අභ්‍යාවකාශ මධ්‍යස්ථානයේ සහායෙන් පර්යේෂණ 3,300කට වැඩි සංඛ්‍යාවක් සිදුකර ඇති අතර ඒ වෙත විද්‍යාත්මක සහ වාණිජ චාරිකා සිය ගණනක් සිදුකර තිබේ.
+The center was elapsed with the purpose of conducting the Mor Space Station, which was held in the Soviet Union.
+
+The International Space Station (UPFA) operated in 2000 under two aspects of US and Russian.
+
+More than 3,300 research from the International Space Station has conducted more than 3,300 scientific and commercial visits.
 
 ...
 
 [Data](articles/64b41c92.json)
+
+[Extended Data](ext_articles/64b41c92.ext.json)
 
 ---
 
@@ -936,6 +958,8 @@ I say this because we Tamils have been reduced to nobodies in Sri Lanka through 
 
 [Data](articles/bf6da000.json)
 
+[Extended Data](ext_articles/bf6da000.ext.json)
+
 ---
 
 ### Coly and Rohit resignation from Twenty20 Ground
@@ -1144,39 +1168,51 @@ From the Western slopes of the central hills, Trincomalee, Trincomalee and Moner
 
 ---
 
-### இரணைமடுக் குளத்தில் மூழ்கிய சிறுவன்
+### The boy drowned in the pond
 
 *2024-06-30 02:21:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரணைமடுக்-குளத்தில்-மூழ்கிய-சிறுவன்/175-339612) · `ta`
 
-கிளிநொச்சி - இரணைமடுக் குளத்தில் நீராடச் சென்ற 14 வயது சிறுவன் ஒருவர் காணாமல்போயுள்ளார்.
+A 14-year-old boy named Selvarathinam Rushanthan from Mathikandi-Vasanthanagar disappeared after going missing with his brother and friends around 11:30 am near the Kilinochchi-Iranamadu pond. The police are conducting a search.
 
-மேற்படி சிறுவன் அவரது சகோதரன் மற்றும் நண்பர்களுடன் நேற்று முற்பகல் 11.30 மணியளவில் நீராடச் சென்றபோதே நீரில் மூழ்கிக் காணாமல்போயுள்ளார்.
+🟩
 
-திருமுறிகண்டி இந்து வித்தியாலயத்தில் தரம் 9 இல் கல்வி கற்று வரும் முறிகண்டி - வசந்தநகர் பகுதியில் வசிக்கும் செல்வரத்தினம் ருஷாந்தன் எனும் சிறுவனே இவ்வாறு காணாமல்போயுள்ளார்.
+A 14 -year -old boy who was drowned in the Kilinochchi - Iranamadu pond has disappeared.
 
-அந்தச் சிறுவனைத் தேடும் பணிகள் முன்னெடுக்கப்பட்டு வருகின்றன என்று பொலிஸார் தெரிவித்துள்ளனர். (a)
+The boy disappeared with his brother and friends at around 11.30 am yesterday.
+
+Selvarathinam Rushanthan, a boy who lives in Mathikandi - Vasanthanagar, who is educated in Grade 9 at Thirumurikandi Hindu Vidyalaya, has disappeared.
+
+Police said the search for the boy is underway. (A)
 
 ◼️
 
 [Data](articles/8598ddec.json)
 
+[Extended Data](ext_articles/8598ddec.ext.json)
+
 ---
 
-### அபிவிருத்தி பணிகளை ஆராய்ந்தார் ஜனாதிபதி
+### The President analyzed the development work
 
 *2024-06-30 02:18:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அபிவிருத்தி-பணிகளை-ஆராய்ந்தார்-ஜனாதிபதி/175-339611) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க நேற்று பிற்பகல் கந்தானை சென். செபஸ்தியன் தேவாலயத்திற்குச் சென்று அதன் அபிவிருத்தி பணிகள் குறித்த நேரில் ஆராய்ந்தார்.
+President Ranil Wickremesinghe visited the Sebastian church, a significant Christian site expected to attract millions nationwide. He approved a Rs 6 million allocation for a water supply project near the church, addressing longstanding requests.
 
-கந்தானை சென். செபஸ்தியன் தேவாலயம் பெருமளவான கிறிஸ்தவ மக்கள் வரும் தளமாக காணப்படுவதோடு, இதன் திருவிழா காலத்திலும் நாடளாவிய ரீதியிலிருந்து லட்சக்கணக்கிலான மக்கள் வருகை தருவர்.
+🟩
 
-தேவாலயத்தின் சுற்று வட்டாரத்தில் நிறையும் தண்ணீரை அருகிலுள்ள வயலுக்கு அனுப்புவதற்கான திட்டம் குறித்த கோரிக்கைகள் நீண்ட நாள்களாக முன்வைக்கப்பட்டு வருகின்ற நிலையில், அதற்காக 6 மில்லியன் ரூபாய் ஒதுக்கீடு செய்யப்பட்டுள்ளது.
+President Ranil Wickremesinghe Sen. Sen yesterday afternoon. Sebastian went to the church and examined its development work.
 
-அதன் முதற்கட்ட ஏற்பாடுகளை ஆரம்பிப்பதற்காக 02 லட்சம் ரூபா காசோளையினை ஜனாதிபதி தேவாலயத்தின் தலைமைப் பாதிரியார் லலித் எக்ஸ்பெடிடஸிடம் வழங்கி வைத்தார். (a)
+Kandanai seni. The Sebastian church is seen as the site of a large number of Christian people and the festival will visit millions of people from all over the country during the festival.
+
+Since the demands of the plan to send water to the nearby field in the roundabout of the church have been raised for a long time, Rs 6 million has been allocated for it.
+
+The President of the President of the Church, Lalith Expetitus, presented the Rs.. (A)
 
 ◼️
 
 [Data](articles/2a969b27.json)
+
+[Extended Data](ext_articles/2a969b27.ext.json)
 
 ---
 
@@ -1194,6 +1230,8 @@ The passive house design emphasizes super insulation, airtightness, and heat rec
 
 [Data](articles/06a6d4c4.json)
 
+[Extended Data](ext_articles/06a6d4c4.ext.json)
+
 ---
 
 ### ComBank employees celebrate Poson with ‘Pahan Gee’
@@ -1210,6 +1248,8 @@ Star Garments Group wins Silver Award for ‘Energy Efficiency in Industry’ fo
 
 [Data](articles/092d6950.json)
 
+[Extended Data](ext_articles/092d6950.ext.json)
+
 ---
 
 ### DSI Tyres introduces ‘Online Pick Up from Dealer’ system
@@ -1221,6 +1261,8 @@ DSI Tyres has introduced the Online Pick Up from Dealer system to customers thro
 ...
 
 [Data](articles/96c81b7b.json)
+
+[Extended Data](ext_articles/96c81b7b.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 00:51:15**
+As of **2024-07-01 01:04:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,963 (100.0%) of 32,964 articles have been extended.
+32,964 (100.0%) of 32,964 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -40,9 +40,17 @@ Former Tamil National Alliance (TNA) leader and former Opposition Leader MP R. S
 
 He has reportedly passed away while receiving treatment at a private hospital in Colombo.
 
+A veteran Tamil politician and prominent figure in country’s main Tamil alliance - Ilankai Tamil Arasu Kadchi (ITAK), his political career spanned six decades, with his first stint in the Sri Lankan parliament starting in 1977.
+
+Sampanthan was the incumbent MP for Trincomalee District and has served in five parliaments since 1977.
+
+In April this year, the Parliament had granted the former TNA leader and Trincomalee District MP leave of three months from attending Parliament sessions as he was receiving medical treatment.
+
 ◼️
 
 [Data](articles/84aab491.json)
+
+[Extended Data](ext_articles/84aab491.ext.json)
 
 ---
 

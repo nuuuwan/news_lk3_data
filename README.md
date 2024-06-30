@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 16:35:03**
+As of **2024-06-30 16:50:43**
 
 ## Newspaper Stats
 
-*Scraped **32,912** Articles*
+*Scraped **32,913** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,27 @@ adaderanalk | 3,752
 tamilmirrorlk | 3,890
 dailymirrorlk | 4,733
 virakesarilk | 5,120
-adaderanasinhalalk | 5,435
+adaderanasinhalalk | 5,436
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,910 (100.0%) of 32,912 articles have been extended.
+32,910 (100.0%) of 32,913 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
+
+### එක්ව ජයගමු ජන රැලියට ජනපති එක්වෙයි
+
+*2024-06-30 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198327) · `si`
+
+◼️
+
+[Data](articles/8fdb134c.json)
+
+---
 
 ### 267 kilograms of gold from Sri Lanka racket
 
@@ -2309,23 +2319,5 @@ Yashoda Range Bandara was remanded in connection with an accident in 2018.
 [Data](articles/87c9e05c.json)
 
 [Extended Data](ext_articles/87c9e05c.ext.json)
-
----
-
-### Amma’s sudden and going to sea “when you can’t even swim”
-
-*2024-06-29 18:33:00* · [`islandlk`](http://island.lk/ammas-sudden-and-going-to-sea-when-you-cant-even-swim/) · `en`
-
-(Excerpted from Simply Nahil – a maverick with the Midas touch, the biography of Nahil Wijesuriya)
-
-Digging deeper into his life in the UK, he tells me that despite all the highs during the time he spent in London, easily the lowest would be the day he got a call from his brother-in-law, Lakshman Karalliedde, urging him to make his way back to Sri Lanka immediately. “Lakshman informed me that my mother was sick and I needed to get back home fast,” he said.
-
-He left the UK, secure in the fact that with doctors in the family she was in good hands. Unfortunately, once in Colombo, he was informed formed that she had passed away from a heart attack. He was about to turn 24 years and in shock. “Amma’s sudden death was by far the most devastating single incident in my life,” says Nahil.
-
-...
-
-[Data](articles/a5b04619.json)
-
-[Extended Data](ext_articles/a5b04619.ext.json)
 
 ---

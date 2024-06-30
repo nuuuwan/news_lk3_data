@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 04:35:02**
+As of **2024-07-01 05:05:08**
 
 ## Newspaper Stats
 
-*Scraped **32,978** Articles*
+*Scraped **32,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 321
 newsfirstlk | 363
 islandlk | 1,834
 economynextcom | 1,929
-dailyftlk | 2,015
+dailyftlk | 2,021
 adalk | 2,931
 adaderanalk | 3,759
 tamilmirrorlk | 3,903
@@ -26,11 +26,117 @@ adaderanasinhalalk | 5,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,976 (100.0%) of 32,978 articles have been extended.
+32,978 (100.0%) of 32,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
+
+### Complaint filed against SIS over COVID-19 forced cremations
+
+*2024-07-01 04:53:27* · [`dailyftlk`](https://www.ft.lk/news/Complaint-filed-against-SIS-over-COVID-19-forced-cremations/56-763671) · `en`
+
+Activist Chirantha Amerasinghe filed a complaint against the State Intelligence Service (SIS) over the controversial forced cremations of COVID-19 dead. Amerasinghe and several others filed the complaint at the Sri Lanka Police Headquarters on Saturday.
+
+Speaking to the media, Amerasinghe said the mandatory cremation policy was imposed to target the Muslim community in an attempt to oppress them.
+
+He noted that while the Easter Sunday attack mastermind Zahran Hashim at one point could not find followers for his cause, the various attacks against the Muslim community helped him recruit over 35 members at the time.
+
+Amerasinghe claimed that the SIS had informed the Criminal Investigations Department (CID) that COVID-19 could spread through water contamination. Based on this SIS information, he said he was detained by the police in 2020 after he posted on social media that there was no evidence of negative impacts from burying COVID-19 victims.
+
+...
+
+[Data](articles/200e8467.json)
+
+---
+
+### ADIC urges halt to cannabis cultivation initiative in SL
+
+*2024-07-01 04:52:56* · [`dailyftlk`](https://www.ft.lk/news/ADIC-urges-halt-to-cannabis-cultivation-initiative-in-SL/56-763670) · `en`
+
+Marking the International Day against Drug Abuse and Illicit Trafficking, the Alcohol and Drug Information Centre (ADIC) has issued a pressing call to halt recent efforts to legalise the cultivation of cannabis in Sri Lanka.
+
+Despite the Ministry of Investment Promotion and the Indigenous Medicine Section of the Ministry of Health actively seeking project proposals for the cultivation of cannabis for export and medicinal purposes, ADIC raised significant concerns about the initiative’s true impact on the country.
+
+In a press release, ADIC noted that while the ministries assert that their primary aim is to achieve economic benefits through cannabis exports, thereby enhancing Sri Lanka’s foreign exchange reserves, a comprehensive review by ADIC of financial records from leading cannabis firms worldwide suggests otherwise.
+
+...
+
+[Data](articles/6935e708.json)
+
+---
+
+### Marikkar’s broadside on RW’s politically motivated debt restructuring
+
+*2024-07-01 04:41:47* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-s-broadside-on-RW-s-politically-motivated-debt-restructuring/56-763667) · `en`
+
+Reveals when President Ranil Wickremesinghe took office total debt was $ 83 b but has now increased to $ 100.2 b
+
+Claims Sri Lanka requested 28% reduction in face value from commercial creditors, but they have agreed to only 7% reduction
+
+Emphasises need for program to increase dollar income through boosting exports and attracting foreign direct investment
+
+Proposes transforming loss-making public institutions into profitable entities through public-private partnerships
+
+Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday criticised the Government for attempting to present the restructuring of $ 10 billion out of Sri Lanka’s whopping $ 100 billion debt as good news.
+
+Addressing a press conference in Colombo, Marikkar pointed out that according to the Central Bank, Sri Lanka’s debt as of March 2024 stands at $ 100.2 billion.
+
+...
+
+[Data](articles/dbeda20e.json)
+
+---
+
+### Sajith promised estate workers ownership of small estates under future SJB Govt.: TPA
+
+*2024-07-01 04:40:41* · [`dailyftlk`](https://www.ft.lk/news/Sajith-promised-estate-workers-ownership-of-small-estates-under-future-SJB-Govt-TPA/56-763666) · `en`
+
+The Tamil Progressive Alliance (TPA) MP M. Udhayakumar has said Samagi Jana Balawegaya (SJB) leader Sajith Premadasa has given written assurance to the TPA that in a future SJB Government, steps will be taken to enable estate workers to become owners of small estates.
+
+The MP made this claim while attending a political talk show on a private radio channel on Saturday.
+
+During the show, the MP emphasised that estate workers are weary from protesting for wages that meet their basic livelihood needs. He highlighted the cycle where increased wages lead to higher living costs, stressing the need to break this cycle.
+
+The MP proposed that workers should receive maximum benefits from their labour, suggesting a solution by dividing current plantation estates and making workers small estate owners, granting them management responsibilities.
+
+...
+
+[Data](articles/6b3d8282.json)
+
+---
+
+### Former President Mahinda Rajapaksa was seen greeting Chinese President Xi Jinping at the conference commemorating the 70th anniversary
+
+*2024-07-01 04:40:25* · [`dailyftlk`](https://www.ft.lk/news/Former-President-Mahinda-Rajapaksa-was-seen-greeting-Chinese-President-Xi-Jinping-at-the-conference-commemorating-the-70th-anniversary/56-763665) · `en`
+
+Former President Mahinda Rajapaksa was seen greeting Chinese President Xi Jinping at the conference commemorating the 70th anniversary of the Five Principles of Peaceful Coexistence in Beijing, China yesterday. Rajapaksa is currently on a four-day visit to the country. China’s Vice Minister of Foreign Affairs Sun Weidong met with Rajapaksa over the weekend, reaffirming their strong partnership. Weidong, referring to Rajapaksa as an “old friend of China,” assured continued support for Sri Lanka’s economic and social development. Rajapaksa expressed gratitude for China’s unwavering support and sought ongoing cooperation for the future.
+
+◼️
+
+[Data](articles/e5021d68.json)
+
+---
+
+### Missing Israeli tourist found safe after coordinated search
+
+*2024-07-01 04:39:05* · [`dailyftlk`](https://www.ft.lk/news/Missing-Israeli-tourist-found-safe-after-coordinated-search/56-763664) · `en`
+
+In a heartening development, 25-year-old Israeli tourist Tamar Amitai, who went missing last Wednesday, while travelling in Trincomalee in the Eastern Province was found by authorities.
+
+Eastern Province Governor Senthil Thondaman attributed the successful search as the result of a coordinated effort involving the Police, Army, Divisional Secretariat, Uppuvali Pradhya Sabha and the Tourism Bureau of the Eastern Province.
+
+Governor Thondaman reported that Amitai was located in Sallikovil, a few kilometres from her hostel, Rolex Guest House. Social media assistance along with a special operation led by the Governor’s Secretariat focused on monitoring and searching the region.
+
+Although the circumstances of her disappearance and discovery are still under investigation, officials have expressed gratitude for the teamwork that led to her safe recovery.
+
+“We are pleased to inform the public that Tamar Amitai has been found and is safe,” Governor Thondaman announced.
+
+...
+
+[Data](articles/11374738.json)
+
+---
 
 ### Hardik Pandya's next captain of the Indian cricket team…?
 
@@ -168,33 +274,45 @@ What happened to our children. We want international justice. Although the offic
 
 ---
 
-### இரு தினங்கள் விசேட அமர்வு
+### Two Days Special Session
 
 *2024-07-01 01:59:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-தினங்கள்-விசேட-அமர்வு/175-339674) · `ta`
 
-வெளிநாட்டுக் கடன் மறுசீரமைப்பு உடன்படிக்கைகளை நடைமுறைப்படுத்துவதற்கான முன்மொழிவுகளை நிறைவேற்றுவதற்காக ஜூலை 2,3 ஆம் திகதிகளில் விசேட பாராளுமன்ற அமர்வை நடத்த தீர்மானிக்கப்பட்டுள்ளது.
+A special parliamentary session is scheduled for July 2-3 to discuss and implement proposals from the Foreign Loan Reform Agreement. The Committee for Parliamentary Affairs approved this session. President Ranil Wickremesinghe addressed Parliament on June 2, setting the stage for debates on foreign credit reconstruction agreements.
 
-வெள்ளிக்கிழமை (21) கூடிய பாராளுமன்ற விவகாரங்களுக்கான குழுவே, விசேட பாராளுமன்ற அமர்வை கூட்டுவதற்கான அங்கிகாரத்தை வழங்கியுள்ளது.
+🟩
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க பாராளுமன்றத்தில், செவ்வாய்க்கிழமை (02) விசேட உரையை ஆற்றியதன் பின்னர், வெளிநாட்டுக் கடன் மறுசீரமைப்பு உடன்படிக்கைகள் தொடர்பிலான விவாதமும் நடத்தப்படும்.
+It has been decided to hold a special parliamentary session on July 2,3 to implement proposals for implementing the Foreign Loan Reform Agreement.
+
+The Committee for Parliamentary Affairs on Friday (21) has provided the recognition of the Special Parliamentary Session.
+
+President Ranil Wickremesinghe delivered a special speech on Tuesday (02) in Parliament and a debate on foreign credit reconstruction agreements will be held.
 
 ◼️
 
 [Data](articles/1365c6fb.json)
 
+[Extended Data](ext_articles/1365c6fb.ext.json)
+
 ---
 
-### நால்வர் தாவுவர்?
+### Four tabs?
 
 *2024-07-01 01:56:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நால்வர்-தாவுவர்/175-339673) · `ta`
 
-ஜனாதிபதி பாராளுமன்றத்தில் எதிர்வரும் 2 ஆம் திகதி உரையாற்றும் போது எதிர்க்கட்சியின் நான்கு உறுப்பினர்களில் இருவர் அரசாங்கத்திற்கு ஆதரவளிக்க தயாராக இருப்பதாக தகவல்கள் வெளியாகியுள்ளன.
+Two opposition members may back the government in parliament. Rajitha Senaratne and Sarath Fonseka plan to ally with it, supporting Ranil Wickremesinghe in the presidential election.
 
-இதேவேளை, ராஜித சேனாரத்ன மற்றும் பீல்ட் மார்ஷல் சரத் பொன்சேகா ஆகியோரும் அரசாங்கத்துடன் கூட்டணி அமைக்கத் தயாராக இருப்பதாகவும், எதிர்வரும் ஜனாதிபதித் தேர்தலில் ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்கத் தயாராக இருப்பதாகவும் தெரிவிக்கப்படுகிறது.
+🟩
+
+Reports have emerged that two of the four members of the opposition are ready to support the government while addressing the president's parliament on the 2nd.
+
+Meanwhile, Rajitha Senaratne and Field Marshal Sarath Fonseka are ready to form an alliance with the government and are ready to support Ranil Wickremesinghe in the upcoming presidential election.
 
 ◼️
 
 [Data](articles/0413ff39.json)
+
+[Extended Data](ext_articles/0413ff39.ext.json)
 
 ---
 
@@ -2207,151 +2325,5 @@ Nineteen “seriously injured” people were taken to the regional capital Maidu
 [Data](articles/570bdfaa.json)
 
 [Extended Data](ext_articles/570bdfaa.ext.json)
-
----
-
-### Plastic Plastic: The risk of deactivation of bulk
-
-*2024-06-30 11:35:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/ஆணுறுப்பில்-சேரும்-பிளாஸ்டிக்-மொத்தமாக-செயலிழக்கும்-அபாயம்/57-339639) · `ta`
-
-Researchers have discovered microplastic particles in the penises of five men undergoing surgery for erectile dysfunction, marking the first time such particles have been found in this area. These tiny plastics, ranging from 0.5mm to 0.002mm, could potentially interfere with blood flow during erections, highlighting a previously unknown health risk associated with widespread plastic use. The study, published in the Sexual Medicine Journal, warns that these microplastics, often ingested through water and food packaged in plastic, could lead to more severe health issues, including heart attacks.
-
-🟩
-
-America researchers have discovered the presence of plastic in the penis. Researchers warn that these micro plastic particles are also likely to affect the erection and cause the penis inactivation. Researchers have warned that they go into the body through plastic we use to eat.
-
-Wherever you look at the world now is plastic. Although there are some benefits with plastic.. So there are many disadvantages that cannot be fixed.
-
-Although attempts to correct the plastic problem, they do not lend a large hand. There is now an event to show that the plastic issue has gone to the next level.
-
-Penis: ie, for the first time, the microfluctics have been found in the penis.. Britain's The Guardian News Agency has reported that it is dangerous to affect even erection. The results of the study have also been released in your Sexual Medicine Journal.
-
-...
-
-[Data](articles/82dfda1f.json)
-
-[Extended Data](ext_articles/82dfda1f.ext.json)
-
----
-
-### Parinda Ranasinghe to be sworn in as Acting AG
-
-*2024-06-30 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100193/parinda-ranasinghe-to-be-sworn-in-as-acting-ag) · `en`
-
-Senior Additional Solicitor General Parinda Ranasinghe is to be appointed as the Acting Attorney General of Sri Lanka.
-
-He is scheduled to be sworn-in to the position before the Chief Justice tomorrow (01).
-
-Last week, it was reported that the proposal to extend incumbent Attorney General Sanjay Rajaratnam’s term by another 06 months was defeated for the second time at the Constitutional Council meeting.
-
-The proposal, which was submitted by President Ranil Wickremesinghe, was defeated with 05 votes against it while 03 members voted in favour.
-
-Rajaratnam’s current term is set to expire at the end of this month, and the President had proposed an extension for an additional six months.
-
-However, the proposal requires the approval of the Constitutional Council, which twice defeated it.
-
-◼️
-
-[Data](articles/79018366.json)
-
-[Extended Data](ext_articles/79018366.ext.json)
-
----
-
-### Parinda Ranasinghe to be appointed as Acting AG
-
-*2024-06-30 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100193/parinda-ranasinghe-to-be-appointed-as-acting-ag) · `en`
-
-Senior Additional Solicitor General Parinda Ranasinghe is to be appointed as the Acting Attorney General of Sri Lanka.
-
-He is scheduled to be sworn in to the position before the Chief Justice tomorrow (01).
-
-Last week, it was reported that the proposal to extend incumbent Attorney General Sanjay Rajaratnam’s term by another 06 months was defeated for the second time at the Constitutional Council meeting.
-
-The proposal, which was submitted by President Ranil Wickremesinghe, was defeated with 05 votes against it while 03 members voted in favour.
-
-Rajaratnam’s current term is set to expire at the end of this month, and the President had proposed an extension for an additional six months.
-
-However, the proposal requires the approval of the Constitutional Council, which twice defeated it.
-
-Accordingly, Senior Additional Solicitor General Parinda Ranasinghe, who is the son of former Chief Justice K. A. Parinda Ranasinghe is tipped to be appointed as the Acting AG.
-
-◼️
-
-[Data](articles/961fbc39.json)
-
-[Extended Data](ext_articles/961fbc39.ext.json)
-
----
-
-### Passenger Life Save Driver
-
-*2024-06-30 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198317) · `si`
-
-Driver Ajith Kumara skillfully prevented an accident involving a Sri Lanka Transport Board bus carrying nearly 100 passengers from Balangoda to Kandy. The incident occurred when the bus began losing control due to faulty rear wheels, which were found to be damaged.
-
-🟩
-
-The driver of the bus has been able to avoid a large risk of the rear wheels of a bus belonging to the Sri Lanka Transport Board from Balangoda to Kandy.
-
-Nearly 100 passengers were traveling at the bus.
-
-The driver of the bus belonging to the Balangoda Depot was taken by Ajith Kumara and the accident had been prevented due to his skill.
-
-The bus was leaving for Kandy around 6.50 am today.
-
-The bus had begun to lose the driver's administration with the fault caused by the wheels.
-
-Later he was tested wheels and observed that the rear wheels have been pushed in the rear wheels.
-
-◼️
-
-[Data](articles/6d75c21a.json)
-
-[Extended Data](ext_articles/6d75c21a.ext.json)
-
----
-
-### Person injured in stabbing at Maharagama town
-
-*2024-06-30 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100192/person-injured-in-stabbing-at-maharagama-town) · `en`
-
-Police Special Task Force (STF) personnel have arrested an individual for attempting to commit murder by attacking another person with a sharp weapon.
-
-The STF personnel had arrested the suspect with great effort while he was attacking another individual with a sharp weapon in front of the Maharagama public fair.
-
-STF has taken custody of several intoxicating pills and a sharp weapon which were found in the possession of the relevant suspect, who is identified as a 40-year-old resident of Maharagama.
-
-The person who was attacked has sustained serious injuries and has been admitted to the Kalubowila (Colombo South) Teaching Hospital for further treatment.
-
-Maharagama Police is conducting further investigations related to the incident.
-
-◼️
-
-[Data](articles/1f61a0c4.json)
-
-[Extended Data](ext_articles/1f61a0c4.ext.json)
-
----
-
-### Israel, who disappeared, finds
-
-*2024-06-30 10:55:58* · [`adalk`](https://www.ada.lk/breaking_news/අතුරුදන්ව-සිටි-ඊශ්‍රායෙල්-සංචාරිකාව-සොයා-ගනියි/11-410515) · `si`
-
-A young Israeli woman reported missing from Uppuweli, Trincomalee, was found injured on a stone in Sampalalthiv. She was discovered after her family filed a complaint with the local police. The girl was hospitalized due to scratches on her body.
-
-🟩
-
-The Israeli National Youth, who had been disappeared while she was missing at the Uppuweli area in Trincomalee, was found on a stone on the Sampalalthiv.
-
-The owner had lodged a complaint with the Uppuweli Police regarding the disappearance of the girl on the 20th day in Trincomalee.
-
-The youth has been admitted to Trincomalee hospitals in accordance with scratching injuries.Has been done.
-
-◼️
-
-[Data](articles/92515e52.json)
-
-[Extended Data](ext_articles/92515e52.ext.json)
 
 ---

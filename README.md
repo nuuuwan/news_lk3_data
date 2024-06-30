@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 16:19:54**
+As of **2024-06-30 16:35:03**
 
 ## Newspaper Stats
 
-*Scraped **32,910** Articles*
+*Scraped **32,912** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,834
 economynextcom | 1,926
 dailyftlk | 2,015
-adalk | 2,921
-adaderanalk | 3,751
+adalk | 2,922
+adaderanalk | 3,752
 tamilmirrorlk | 3,890
 dailymirrorlk | 4,733
 virakesarilk | 5,120
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,435
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,897 (100.0%) of 32,910 articles have been extended.
+32,910 (100.0%) of 32,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
 
-### ශ්‍රී ලංකාවෙන් රත්‍රන් කිලෝ 267ක් ඉන්දියාවට පැන්නූ ජාවාරම
+### 267 kilograms of gold from Sri Lanka racket
 
 *2024-06-30 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198326) · `si`
 
-ශ්‍රී ලංකාවේ සිට ඉන්දියාවට රත්‍රන් රැගෙන යාමේ ජාවාරමක් මැඩ පැවැත්වීමට චෙන්නායි ජාත්‍යන්තර ගුවන්තොටුපොළේ රේගු නිලධාරීන් සමත්ව තිබේ.
+Customs officials at Chennai International Airport busted a gold smuggling ring involving 267 kg of gold smuggled from Sri Lanka over two months. The ringleaders and several employees have been identified and arrested, including a sales officer caught hiding gold in his body during inspection.
 
-PTI පුවත් සේවය වාර්තා කළේ ජාවාරම්කරුවන් විසින් පසුගිය මාස දෙක තුළදී රත්‍රන් කිලෝ 267ක් ශ්‍රී ලංකාවෙන් රැගෙන ගොස් ඇති බවයි.
+🟩
 
-ගුවන්තොටුපොළ තුළ පිහිටි සාප්පුවක් කේන්ද්‍රකර ගනිමින් එම ජාවාරම සිදුකර තිබූ අතර බුද්ධි තොරතුරු අනුව එම සාප්පුවේ හිමිකරු සහ සේවකයින් අත්අඩංගුවට ගැනීමෙන් අනතුරුව තවත් තොරතුරු හෙළිදරව් වී තිබේ.
+Customs officers at the Chennai International Airport have fled Sri Lanka to India.
 
-එම සාප්පුවේ අලෙවි නිලධාරියෙක් ගේ සැකකටයුතු හැසිරීම නිරීක්ෂණය කළ බලධාරීන් ඔහුව අත්අඩංගුවට ගෙන ඇති අතර එහිදී ඔහු සිය සිරුරේ සඟවා ගෙන සිටි රත්‍රන් කැබලි කිහිපයක් හමුවී තිබේ.
+The PTI news service was reported that the racketeers had taken 267 kilograms of gold in Sri Lanka over Sri Lanka over the past two months.
 
-විමර්ශනයේදී හෙළිවී ඇත්තේ එම සාප්පුව ශ්‍රී ලාංකිකයින් පිරිසක් විසින් කුලියට ලබාගෙන සේවකයින් අට දෙනෙක් යොදවා එම ජාවාරම සිදුකර ඇති බවයි.
+The racket was crashed at the airport, and according to intelligence, the owner and other employees of intelligence have been revealed.
+
+The authorities who inspected the conduct of a sales officer in the shop have been arrested by the authorities who had been arrested by a few pieces of gold he hidden in his body.
+
+Investigation revealed that the shop was hired by a group of Sri Lankans and employed eight employees.
 
 ◼️
 
 [Data](articles/7b06ea0a.json)
+
+[Extended Data](ext_articles/7b06ea0a.ext.json)
 
 ---
 
@@ -67,6 +73,48 @@ The ceremony took place at the Mahinda Rajapaksa Conference Hall in Wellawaya to
 ...
 
 [Data](articles/1c48c496.json)
+
+[Extended Data](ext_articles/1c48c496.ext.json)
+
+---
+
+### ‘Urumaya’: Over 41,000 land deeds granted to Monaragala District residents
+
+*2024-06-30 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100198/urumaya-over-41000-land-deeds-granted-to-monaragala-district-residents-) · `en`
+
+President Ranil Wickremesinghe declared a Rs.25 million allocation for the restoration of tanks in the Divisional Secretariat Division, which issues the highest number of deeds under the “Urumaya” freehold land deeds program.
+
+He highlighted that these efforts are geared towards supporting farmers and advancing the country’s development, the President’s Media Division said.
+
+The President made these remarks while addressing the symbolic ceremony for the distribution of freehold land deeds to the beneficiaries in 11 divisional secretariat divisions of Monaragala district under the “Urumaya” national program, which provides 02 million freehold land deeds.
+
+The ceremony took place at the Mahinda Rajapaksa Conference Hall in Wellawaya today (30), where approximately 600 out of 41,960 beneficiaries received their deeds.
+
+...
+
+[Data](articles/e46355c2.json)
+
+---
+
+### රුපියල් කෝටි දෙකක ස්වර්ණාභරණ තොගයක් කටුනායක දී අත් අඩංගුවට
+
+*2024-06-30 15:54:21* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-කෝටි-දෙකක-ස්වර්ණාභරණ-තොගයක්-කටුනායක-දී-අත්-අඩංගුවට/11-410521) · `si`
+
+පියල් කෝටි දෙකක් පමණ වටිනා ස්වර්ණාභරණ තොගයක් සිය ගමන් මලු තුළ සගවා ගෙන , කිසිවක් ප්‍රකාශ කිරීමට නොමැති " හරිත මාවත "
+
+( Green Channel ) ඔස්සේ ගුවන් තොටුපොළෙන් පිටතට යාමට තැත් කළ ගුවන් මගියෙකු රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් 06/29 දින පස්වරුවේ අත් අඩංගුවට ගෙන තිබේ .
+
+මොහු යාපනය ප්‍රදේශයේ පදිංචි 47 හැවිරිදි පුද්ගලයෙකි .මොහු සෑම  මාසයකම තුන් හතර වතාවක් ප්‍රංශය සහ ශ්‍රී ලංකාව අතර ගුවන් ගමන් වල යෙදුණු පුද්ගලයෙකි .
+
+සාමාන්‍යයෙන්  ප්‍රංශය , එංගලන්තය , ජර්මනිය , රුසියාව වැනි රටවල සිට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණෙන ගුවන් මගීන් එතරම් දැඩි පරීක්ෂා කිරීමකට ලක් නොකරති .
+
+එහෙත් මොහු පිළිබඳ ඇති වූ සැකය මත මොහු නවතා අහඹු ලෙස පරීක්ෂා කිරීමේදී මෙම ස්වර්ණාභරණ තොගය සොයා ගෙන අත් අඩංගුවට ගැනීමට හැකි වී තිබේ .
+
+මොහු ඊයේ 06/29 දින රාත්‍රී 06.30 ට පමණ දෝහා සිට කටාර් ගුවන් සේවයේ කිව්.ආර්.- 654 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+...
+
+[Data](articles/e224ab87.json)
 
 ---
 
@@ -208,27 +256,39 @@ According to Principal Commissioner R Srinivasa Naik, the investigation began wh
 
 ---
 
-### வரிவிதிப்பிற்கு எதிராக கென்யாவில் போராட்டம் - ‘வியூகம் வகுத்து கிளர்ந்தெழுந்த இஸட் - ஜெனரேஷன் சந்ததி’
+### Struggle in Kenya against taxation
 
 *2024-06-30 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/187299) · `ta`
 
-கென்ய மக்களின் போராட்டம் உச்சம் தொட்டுள்ள நிலையில் அதனை தேசத்துரோகம் என்று வர்ணிக்கும் அளவிற்கு ஜனாதிபதி இறுமாப்பு கொண்டவராக திகழ்ந்தார்”
+Kenya faces a tough battle against high taxes, which the president labels as a heroic resistance akin to treason.
+
+🟩
+
+The president was proud to describe the Kenyan people's struggle as it was a culmination of treason.
 
 ◼️
 
 [Data](articles/db0449de.json)
 
+[Extended Data](ext_articles/db0449de.ext.json)
+
 ---
 
-### மத்திய கிழக்கில் இஸ்ரேலுக்கு எதிர்காலம் இல்லை
+### Israel has no future in the Middle East
 
 *2024-06-30 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/187296) · `ta`
 
-இஸ்ரேல் ஒரு வகையான இறையியல் சார்ந்த இனவாத நாடு. பலஸ்தீன பூமியையும், வீடுகளையும், வாழ்வாதாரங்களையும், உயிர்களையும் திருடியே அதுஉருவாக்கப்பட்டது. பலஸ்தீன பூர்வீகக் குடிகளின் உரிமைகளை கண்டபடி துஷ்பிரயோகம் செய்வதற்கு தேவையான ஆதரவும் அனுமதியும் வழங்கப்பட்டது. இப்போது இந்தச் சொத்துக்கள் மீது அதிகமான யூதர்கள் உரிமை கோரி வருகின்றனர். ஆனால் பெரும்பாலான இஸ்ரேலியர்கள் யுத்தத்துக்குப் பிந்திய வந்தேறு குடிகள் என்பதே உண்மையாகும்.
+Israel faces challenges due to its creation based on land seizures from Palestinians, leading to ongoing disputes over rights and resources. Many Israelis are descendants of post-war immigrants, complicating efforts towards peace and coexistence in the region.
+
+🟩
+
+Israel is a kind of theological -based communalist. It was created by stealing the Palestinian earth, homes, livelihoods and lives. The support and permission for abusing the rights of the Palestinian natives. Now more Jews are claiming these assets. But the fact is that most Israelis are the post -war people.
 
 ◼️
 
 [Data](articles/6ff554ef.json)
+
+[Extended Data](ext_articles/6ff554ef.ext.json)
 
 ---
 
@@ -262,15 +322,21 @@ More than 3,300 research from the International Space Station has conducted more
 
 ---
 
-### ஜனாதிபதியும்   நாடகமும் அரசியலும்
+### The president and the drama and the politics
 
 *2024-06-30 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/187306) · `ta`
 
-ஜனாதிபதி ரணில்  நாட்டு மக்களுக்கான உரையில் வெளிப்படையாக அரசியல் பேசாது போனாலும், வாக்கு கேட்காது போனாலும்-  மறைமுகமாக கேட்பது மக்களாணையைத் தான்,,,
+In President Ranil's address, he subtly addressed political issues without directly mentioning them, indirectly listening to public sentiment through his speech.
+
+🟩
+
+President Ranil's speech in the speech of the people, even if politics is not spoken or not voting- indirectly listening to the people ,,,,,,,,,,,,,,,,,,,
 
 ◼️
 
 [Data](articles/0dbd3c4c.json)
+
+[Extended Data](ext_articles/0dbd3c4c.ext.json)
 
 ---
 
@@ -348,21 +414,31 @@ The mortgage vehicle has damaged severe losses and the Norwood police are conduc
 
 ---
 
-### இலங்கையின் கடற்படுக்கையில் உள்ள மிகவும் பெறுமதியான கனிய வளம் - கண்வைத்தது அதானி நிறுவனம்
+### Adani Company is the most valuable resource in Sri Lanka's navy
 
 *2024-06-30 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187307) · `ta`
 
-கொழும்பு துறைமுகத்தின் மேற்குமுனை அபிவிருத்தி மற்றும் மன்னார் காற்றாலை மின் உற்பத்தி திட்டம் போன்றவற்றில்  ஈடுபட்டுள்ள இந்தியாவின் அதானி குழுமம் இலங்கையில் கடல்படுக்கையில் கனிமங்களை அகழும் திட்டத்திலும் ஈடுபடவுள்ளது.
+The Adani Group, collaborating with Taiwan's Umigor, plans to mine Cobalt in Sri Lanka, leveraging India's naval rights post-settlement of a dispute. Sri Lanka aims to exploit its maritime resources, extending its continental shelf beyond 200 nautical miles as per UN law. Despite India's request for additional maritime rights and applications to explore Cobalt-rich areas, the International Navy Authority denied India's claims over disputed seas, citing Sri Lanka's sovereignty. This sets the stage for diplomatic resolution between the two countries regarding their maritime boundaries and resource exploration rights.
 
-கோபல்ட்  கனிமங்களை Cobalt deposit அகழ்வதற்கான நடவடிக்கையில் தாய்வானை சேர்ந்த உமிகோர் நிறுவனத்துடன் இணைந்து அதானி குழுமம் செயற்படவுள்ளது என இது குறித்த பேச்சுவார்த்தைகளில் ஈடுபட்டுள்ள அதிகாரியொருவர் தெரிவித்துள்ளார்.
+🟩
 
-இரு நாடுகளிற்கும் இடையிலான கடற்படுக்கை உரிமை பிரச்சினைக்கு தீர்வை கண்டதன் பின்னர் இந்திய பெருங்கடலின் ஆழத்தில் பதிந்துள்ள பெறுமதிமிக்க கனியங்களை கண்டறிவதற்காக இந்தியாவுடன் கூட்டு சேர்வதன் மூலம் குறிப்பிடதக்க நன்மைகளை பெறுவதற்கு இலங்கை  எண்ணியுள்ளது.
+The Adani Group of India, which is involved in the West Center Development of the Colombo Port and the Mannar Wind Power Plant, will be involved in the excavation of minerals in Sri Lanka.
 
-ஐக்கியநாடுகளின் கடல்சட்ட ஒப்பந்தத்தின் படி இலங்கை தனது கண்ட அடுக்கினை 200 கடல்மைல்களில் இருந்து நீடித்துள்ளது.2009 இல் சர்வதேச கடற்படுக்கை ஆணையத்திடம் சமர்ப்பித்த விண்ணப்பத்தினை தொடர்ந்து இது சாத்தியமாகியுள்ளது.
+An official in talks said that the Adani Group will work in collaboration with Taiwan's Umigor Company in the process of excavating Cobalt minerals.
+
+Sri Lanka intends to have the benefits of alliance with India to find the valuable benefits of the depths of the Indian Ocean after seeing a solution to the naval rights issue between the two countries.
+
+According to the United Nations Maritime Agreement, Sri Lanka has extended its continent from 200 nations.
+
+Currently, Sri Lanka has a special right of 200 miles from the coast of Sri Lanka, which is due to the Pheromankanese rich in the Central Indian Ocean;The tops can be used for economic purposes.
+
+India has also demanded the right of 350 marines from its border.
 
 ...
 
 [Data](articles/5d53d81d.json)
+
+[Extended Data](ext_articles/5d53d81d.ext.json)
 
 ---
 
@@ -444,61 +520,91 @@ The Kaluppitti police officials informed the court the progress of the complaint
 
 ---
 
-### வடக்கு, கிழக்கு இணைப்பு : சம்பந்தனுக்கு பதிலளிக்காத முஸ்லிம் அரசியல்வாதிகள்
+### North, East Link: Muslim politicians who do not respond to Sambandan
 
 *2024-06-30 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187301) · `ta`
 
-வரதராஜ பெருமாளை முதலமைச்சராகக் கொண்ட மாகாண சபையில் முஸ்லிம்களும் அங்கம் வகித்த போதும், அக்காலத்திலேயே முஸ்லிம்கள் தமிழ் ஆயுதக் குழுக்களாலும் அரசியல் தரப்புகளாலும் கசப்பான அனுபவங்களை பெற்றுக்கொண்டனர் என்பதே வரலாறாகும். அந்தக் காலத்துக்கு மீளத் திரும்ப முஸ்லிம்கள் விரும்பவில்லை.
+Muslim politicians' silence towards Sambandan reflects broader historical tensions between Muslims and Tamil armed groups/political parties, leading to a reluctance to revisit past conflicts.
+
+🟩
+
+Although Muslims were also part of the provincial council, which was the chief minister of Varadaraja Perumal, the history of the Muslims had gained bitter experiences by Tamil armed groups and political parties at that time.. Muslims did not want to return to that time.
 
 ◼️
 
 [Data](articles/23a2ee7e.json)
 
+[Extended Data](ext_articles/23a2ee7e.ext.json)
+
 ---
 
-### உதயமாகிறதா புதிய பனிப்போர்?
+### Is the new Cold War?
 
 *2024-06-30 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187303) · `ta`
 
-தாக்கத்துக்கு எதிரான மறு தாக்கம் என்ற நியூட்டனின் விதிக்கு ஒப்ப அமெரிக்காவின் எதிர்ப்பைச் சமாளிக்க தாம் ஒன்று திரள வேண்டிய நிர்ப்பந்தத்தில் இந்த நாடுகள் உள்ளன. அது இயல்பானதும் கூட. 90களில் நிகழ்ந்த சோவியத் ஒன்றியத்தின் உடைவோடு பனிப்போர் முடிவுக்கு வந்து விட்டதாகக் கருதப்பட்டாலும், அது வேறொரு விதத்தில் தொடர்கிறது அல்லது தொடர நிர்ப்பந்திக்கப்படுகின்றது என்பதையே இன்றைய சூழல் புலப்படுத்துகின்றது.
+Despite the end of the Soviet Union in the '90s, tensions reminiscent of the Cold War persist as nations unite against U.S. resistance to Newton's rule of re-impact, indicating its continuation in a new form.
+
+🟩
+
+These countries are forced to gather together to deal with US opposition to Newton's rule of re -impact. Even if it is normal. Although the Cold War is thought to have ended with the breakup of the Soviet Union in the 90s, it is in a different way that it continues or forced to continue.
 
 ◼️
 
 [Data](articles/0717a2a6.json)
 
+[Extended Data](ext_articles/0717a2a6.ext.json)
+
 ---
 
-### பெரமுனவின் முடிவுக்காகவே காத்துக்கொண்டிருக்கின்றேன் - தம்மிக்க
+### I am waiting for Peramuna's decision - tamarind
 
 *2024-06-30 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/187295) · `ta`
 
-ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்கு தயாராகியுள்ள நிலையில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் முடிவுக்காகவே காத்துக்கொண்டிருக்கின்றேன் என்று தொழிலதிபரும் பாராளுமன்ற உறுப்பினருமான தம்மிக்க பெரேரா தெரிவித்தார்.
+Dhammika Perera, a businessman and MP, awaits the Sri Lanka People's Alliance (PA)'s decision on his potential candidacy for president. He's prepared to meet ten conditions set by the PA and is ready to contest the election, initially confident of securing 51% of the votes. With nomination filings due on August 20th, he expects a decision from the PA within the next 50 days.
 
-ஜனாதிபதி தேர்தலில் வேட்பாளராக அறிவிப்பதற்கு முன்னதாக எனக்கு பொதுஜன பெரமுன பத்து நிபந்தனைகளை விதித்திருந்த நிலையில் அவற்றை நடைமுறைப்படுத்துவதற்கான அனைத்து செயற்பாடுகளும் ஆரம்பிக்கப்பட்டுள்ளன என்றும் அவர் குறிப்பிட்டுள்ளார்.
+🟩
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் களமிறங்குவது தொடர்பில் வீரகேசரியிடம் கருத்து வெளியிடும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+Businessman and Member of Parliament Dhammika Perera said that he is waiting for the decision of the Sri Lanka PA as he is preparing to contest the presidential election.
 
-ஜனாதிபதி தேர்தலில் களமிறங்குவதற்கு நான் தயாராகவே உள்ளேன். ஆரம்பத்தில் 51 சதவீதமான வாக்குகளை பெற்றுக்கொள்வது உறுதியாகின்றபோது நிச்சயமாக களமிறங்குவதாகவும் தெரிவித்திருந்தேன். இந்த நிலையில் பொதுஜன பெரமுன ஜனாதிபதி வேட்பாளராக பெயரிடுவதற்கு முன்னதாக பத்து நிபந்தனைகளை விதித்திருந்தார்கள். அந்த நிபந்தனைகளை செயற்படுத்துவதற்கான அனைத்து திட்டங்களும் ஆரம்பமாகிவிட்டன.
+He added that all the activities to implement them have been initiated as I have imposed ten conditions before the presidential election.
+
+He said this while commenting on Weerakesari on the upcoming presidential election.
+
+I am ready to field the presidential election. Initially, I was sure to get 51 percent of the vote. At this juncture, the PA had imposed ten conditions before naming the presidential candidate. All the plans for implementing those conditions have begun.
+
+In addition, I am currently ready to field as the presidential candidate. In this context, the decision to name me as the Sri Lankan PA should take a decision.
+
+I am looking forward to taking that resolution. In the present context, the constitution has to file nominations on August 20.
 
 ...
 
 [Data](articles/d9f4b3a2.json)
 
+[Extended Data](ext_articles/d9f4b3a2.ext.json)
+
 ---
 
-### மயிலத்தமடு பண்ணையாளர்களின் மேய்ச்சல் தரையை ஒப்படைக்க ஜனாதிபதி ரணில் மீண்டும் உத்தரவு
+### President Ranil again order to hand over the grazing grounds of peacock farmers
 
 *2024-06-30 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/187293) · `ta`
 
-மயிலத்தமடு பண்ணையாளர்களின் மேய்ச்சல் தரையை ஒப்படைக்குமாறு ஜனாதிபதி ரணில் விக்கிரமசிங்க சம்பந்தப்பட்ட அரச அதிகாரிகளுக்கு மீண்டும் உத்தரவிட்டுள்ளார். அத்துடன் ஜுலை இரண்டாம் வாரம் மட்டக்களப்புக்கு விஜயம் செய்யும் தருணத்தில் பண்ணையாளர்களை நேரில் சந்தித்து உரையாடுவதற்கும் ஆர்வம் கொண்டிருப்பதாகவும் ஜனாதிபதி ரணில் தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe has directed officials to return grazing lands to peacock farmers, expressing interest in personally meeting them during his visit to Batticaloa in early July. This decision follows discussions with local government and forestry officials, aimed at resolving farmers' concerns over land use. Authorities have assured that farming activities will cease on these pastures, marking an end to the dispute.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் நேற்று சனிக்கிழமை (29)  ஜனாதிபதி செயலகத்தில் மட்டக்களப்பு அரசாங்க அதிபர், மகாவலி அதிகார சபையின் அதிகாரிகள், வனத் திணைக்கள அதிகாரிகள் உள்ளிட்டவர்களை சந்தித்திருந்தார்.
+🟩
 
-இதன்போது மயிலத்தமடு பண்ணையாளர்கள் தமது மேய்ச்சல் தரையை உறுதி செய்யுமாறு தொடர்ச்சியாக முன்னெடுத்துவரும் போராட்டம் சம்பந்தமாக கவனம் செலுத்தப்பட்டது.
+President Ranil Wickremesinghe has once again ordered the relevant state officials to hand over the grazing grounds of peacock farmers. President Ranil has said that he is also interested in meeting the farmers in person at the moment of visiting Batticaloa for the second week of July.
+
+President Ranil Wickremesinghe met with the Batticaloa Government Agent, the Mahaweli Authority officials and the Forest Department officials at the Presidential Secretariat on Saturday (29).
+
+At this time, the focus was on the struggle of peacock farmers to ensure their grazing grounds.
+
+Farmers were also concerned about the demand issued by the farmers. He has also questioned the authorities about the implementation of the implementation of the farmers' demands, and that he has been asked to take steps to provide a solution to the matter.
 
 ...
 
 [Data](articles/5eab480b.json)
+
+[Extended Data](ext_articles/5eab480b.ext.json)
 
 ---
 
@@ -572,21 +678,31 @@ Director General of the Fisheries Department Susantha Kahawatta said that one of
 
 ---
 
-### சிறப்பு பொலிஸ் பிரிவுகளை ஸ்தாபிக்க ஐ.நா. நடவடிக்கை எடுக்க வேண்டும் - டிரான்  அலஸ்
+### UN to establish special police units. To take action - Tran Ales
 
 *2024-06-30 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/187290) · `ta`
 
-சர்வதேச ரீதியாக அதிகரித்துவரும் பாதுகாப்பு அச்சுறுத்தல்களை எதிர்த்துப் போராடுவதற்கு சிறப்பு பொலிஸ் பிரிவுகளை ஸ்தாபிப்பதற்கு ஐ.நா நடவடிக்கைகளை எடுக்க வேண்டும் என்றும் அதற்கு முழுமையான ஒத்துழைப்புக்களை வழங்குவதற்கு இலங்கை தயாராகவுள்ளதாகவும் பொதுப்பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்துள்ளார்.
+Tran Ales, Public Security Minister of Sri Lanka, proposes the UN create specialized police units to combat global security threats like cybercrime and gang violence, emphasizing Sri Lanka's readiness to assist and share expertise.
 
-அண்மையில் நடைபெற்ற ஐ.நா. பொலிஸ்மா அதிபர்கள் மாநாட்டில் கலந்துகொண்டு உரையாற்றும்போதே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+🟩
 
-வன்முறையான மோதல்களின் எழுச்சி மோதல் வலயங்களில் பொதுமக்களின் அவலநிலை, சைபர் கிரைம், ஆயுதமயமாக்கப்பட்ட தொழில்நுட்பம் போன்ற பாரம்பரியமற்ற அச்சுறுத்தல்களின் தோற்றம் உட்பட சர்வதேச ரீதியாக பாதுகாப்பு சவால்களின் அதிகரித்து வருகின்றமையானது சிக்கலான தன்மைகளை அனைத்து நாடுகளுக்கும் ஏற்படுத்தியுள்ளது.
+Public Security Minister Tran Ales has said that the UN should take steps to establish special police units to fight internationally increasing security threats and Sri Lanka is ready to provide full cooperation.
 
-குறிப்பாக, ஒழுங்கமைக்கப்பட்ட குற்றங்கள் மற்றும் கும்பல்களின் வன்முறைகள் அதிகரித்து வருகின்றன. இந்த நிலைமை சர்வதேச அமைதிக்கு தீங்கு விளைவிக்கும் தாக்கத்தை வெளிப்படுத்துவதாக உள்ளது.
+The recently held UN. He said this while addressing the meeting of the Police Principals.
+
+Increasing international security challenges, including the emergence of traditional threats such as cybercrime and armed technology, has caused complexity to all countries in the conflict of violent conflicts.
+
+In particular, the violence of organized crimes and gangs is increasing. This situation is an impact on international peace.
+
+Sri Lanka's commitment to international security will continue and the Sri Lanka Police Division is currently ready. The Sri Lanka Police Division is found in grade three, ensuring credibility.
+
+The United Nations should consider establishing and establishing special police units to deal with the increasing threat of organized crimes and gang violence.
 
 ...
 
 [Data](articles/dd39962e.json)
+
+[Extended Data](ext_articles/dd39962e.ext.json)
 
 ---
 
@@ -738,19 +854,25 @@ Maharagama Police is conducting further investigations related to the incident.
 
 ---
 
-### අතුරුදන්ව සිටි ඊශ්‍රායෙල් සංචාරිකාව සොයා ගනියි
+### Israel, who disappeared, finds
 
 *2024-06-30 10:55:58* · [`adalk`](https://www.ada.lk/breaking_news/අතුරුදන්ව-සිටි-ඊශ්‍රායෙල්-සංචාරිකාව-සොයා-ගනියි/11-410515) · `si`
 
-ත්‍රිකුණාමලය උප්පුවේලි  ප්‍රදේශයේ නවාතැන්පොළක නවාතැන් ගැන සිටියදී අතුරුදහන්ව සිට සිටි ඊශ්‍රායල් ජාතික තරුණිය දින තුනකට පසුව ඊයේ (29) පස්වරුවේ සාම්පල්තිව් වෙරළේ  ගල්තලාවක් මත වැටී සිටියදී සොයා ගැනීමට උප්පුවේලී  පොලිසිය සමත් විය.
+A young Israeli woman reported missing from Uppuweli, Trincomalee, was found injured on a stone in Sampalalthiv. She was discovered after her family filed a complaint with the local police. The girl was hospitalized due to scratches on her body.
 
-ඉකුත් 20 දා  ලංකාවේ සංචාරයකට පැමිණී මෙම තරුණිය විසි දෙවෙනිදා ත්‍රිකුණාමලයට පැමිණ නවාතැන්පොළේ නවාතැන් ගැන සිටියදී ඉකුත් 26 දා මෙසේ අතුරුදහන් වීම සම්බන්ධයෙන් එම නවාතැන්පොලේ අයිතිකරු උප්පුවේලි පොලීසියට පැමිණිලි කර තිබුණි.
+🟩
 
-සීරීම් තුවාල සහිතව විදේශීය තරුණියක් සාම්බල්තිව් වෙරළේ ගල්තලාවක් මත  වැටී සිටින බවටත් ලද තොරතුරු අනුව පොලිසිය සොයාගත් මෙම තරුණිය  ත්‍රිකුණාමලය රෝහල් ඇතුළත් කර තිබේ .සිද්ධිය සම්බන්ධයෙන් භාෂා පරිවර්තක සහාය ඇතිව ටාමාර් අම්ටායි (Tamar Amtai) නැමැති 25 හැවිරිදි මෙම තරුණියගේ ප්‍රකාශ සටහන් කර ගැනීමට උප්පුවේලි පොලීසිය කටයුතු සූදානම් කර තිබේ.
+The Israeli National Youth, who had been disappeared while she was missing at the Uppuweli area in Trincomalee, was found on a stone on the Sampalalthiv.
+
+The owner had lodged a complaint with the Uppuweli Police regarding the disappearance of the girl on the 20th day in Trincomalee.
+
+The youth has been admitted to Trincomalee hospitals in accordance with scratching injuries.Has been done.
 
 ◼️
 
 [Data](articles/92515e52.json)
+
+[Extended Data](ext_articles/92515e52.ext.json)
 
 ---
 
@@ -804,19 +926,27 @@ Under the guidance of the Food Science and Technology Faculty of the University 
 
 ---
 
-### நாட்டின் ஜனநாயகத்துக்கு முற்றிப்புள்ளி வைக்க தனது அந்திம காலத்திலும்  ஜனாதிபதி செயற்படுகிறார் - சந்திம வீரகொடி
+### The president also acts in his twilight to put an end to the democracy of the country - Chandima Weerakodi
 
 *2024-06-30 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187289) · `ta`
 
-சட்டமா அதிபர் ஒருவர் இல்லாமல் பயணிக்க முடியாது என்று தெரிவித்துள்ள பாராளுமன்ற உறுப்பினர் சந்திம வீரகொடி அவர் சார்பில் சிரேஷ்ட சட்டத்தரணிகள் ஆஜரானமை மற்றும் தீர்ப்பளிக்கப்பட்ட வழக்குகளின் சட்ட அங்கீகாரம் தொடர்பிலும் கேள்விகளைத் தொடுத்திருந்தார்.
+Chandima Weerakody criticizes the president for undermining democracy, highlighting issues with the legal system, including the unexplained extension of the Attorney General's term and the lack of a replacement. He raises concerns over the president's interference in judicial independence and the potential implications for the country's democracy.
 
-எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் நேற்று சனிக்கிழமை (29) நடைபெற்ற ஊடக சந்திப்பில் கலந்துகொண்டு கருத்து வெளியிடும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-நாட்டின் ஜனநாயகத்துக்கு முற்றிப்புள்ளி வைக்க தமது அந்திம காலத்திலும் ஜனாதிபதி செயற்பட்டு வருகிறார். முடியாட்சிகளில் கூட பின்பற்றப்படாத நடைமுறைகளை, தனது மனம் நொந்தால் நீதிமன்ற கட்டமைப்புக்கு எச்சரிக்கை விடுக்குமளவுக்கு ஜனாதிபதி செயற்பட்டு வருவதை காண்கிறோம்.
+Parliamentarian Chandima Weerakody, who has said that he cannot travel without a Attorney General, has also posted questions about the legal recognition of senior lawyers and the legal recognition of cases.
+
+He said this while attending a media briefing held at the Opposition Leader's office on Saturday (29).
+
+The president is also acting in his early days to put an end to the democracy of the country. We see the president's act to warn the court structure if his mind is impressed, even in the monarchy.
+
+Everyone knows the allegations made by the President Parliament and the court structure of the country without any concern about the impact of the country's democracy. We thank the members of the Constitutional Council. We were afraid that another Charles would be in the Constitutional Council. The president's twice to extend the service period of the Attorney General was rejected by the Constitutional Council.
 
 ...
 
 [Data](articles/7b02ca23.json)
+
+[Extended Data](ext_articles/7b02ca23.ext.json)
 
 ---
 
@@ -2197,53 +2327,5 @@ He left the UK, secure in the fact that with doctors in the family she was in go
 [Data](articles/a5b04619.json)
 
 [Extended Data](ext_articles/a5b04619.ext.json)
-
----
-
-### A severe famine in Sudan
-
-*2024-06-29 18:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198295) · `si`
-
-In Sudan, a severe famine affects half of its population caught in conflict. People resort to extreme measures like eating leaves and soil due to dire food shortages. This crisis is deemed the world's worst food insecurity situation.
-
-🟩
-
-The United Nations emphasizes that half of the Sudan people who are in a central war have been facing a serious famine.
-
-It is said that some Sudan nationals are already eating leaves and soil to turn hunger.
-
-The Sudan Food crisis is considered as the worst famine in the world as the worst food insecurity so far reported so far.
-
-◼️
-
-[Data](articles/81c07aa1.json)
-
-[Extended Data](ext_articles/81c07aa1.ext.json)
-
----
-
-### Range's son arrested for suspending driver's license
-
-*2024-06-29 18:01:50* · [`adalk`](https://www.ada.lk/breaking_news/රංගෙගේ-පුතා-රිය-අනතුරකට-අත්අඩංගුවට----රියදුරු-බලපත්‍රය-අත්හිටුවයි/11-410504) · `si`
-
-UNP General Secretary's son, involved in a severe accident near Karuwalagaswewa 6, was arrested and later released on bail. He allegedly suspended his driver's license after the incident, which led to his arrest. The accident occurred while he was driving from Puttalam, causing serious injuries to the three-wheeler driver who was admitted to Puttalam Hospital.
-
-🟩
-
-UNP General Secretary General (UNP), the son of UNP General Secretary of the Karuwalagaswewa 6 pointing, was released on a number of charges with serious injuries and was released on bail of the Buddha.Acting Magistrate ordered the suspect's driver's license for the suspect.
-
-The Karuwalagaswewa 6, Karuwalagaswewa 6, had been a severe accident in the Karuwalagaswewa 6 post while he was traveling from his car from Puttalam.
-
-After the accident, Yasodo Rangeh Bandara has left the luxury car of a monk in a monk in the temple in the seven area in the area.
-
-The three-wheeler driver of the accident had been admitted to the Puttalam Hospital soon.
-
-The Bandaraugaswewa police arrested after the passengers were presented to the Bandara Puttalam Acting Magistrate.
-
-◼️
-
-[Data](articles/68633a16.json)
-
-[Extended Data](ext_articles/68633a16.ext.json)
 
 ---

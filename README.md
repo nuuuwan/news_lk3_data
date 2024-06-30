@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-30 20:04:37**
+As of **2024-06-30 20:19:29**
 
 ## Newspaper Stats
 
-*Scraped **32,938** Articles*
+*Scraped **32,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,88 @@ economynextcom | 1,926
 dailyftlk | 2,015
 adalk | 2,926
 adaderanalk | 3,755
-tamilmirrorlk | 3,892
+tamilmirrorlk | 3,895
 dailymirrorlk | 4,733
 virakesarilk | 5,130
-adaderanasinhalalk | 5,442
+adaderanasinhalalk | 5,443
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,937 (100.0%) of 32,938 articles have been extended.
+32,938 (100.0%) of 32,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-30 (Sunday)
+
+### பதில் சட்டமா அதிபர் நியமனம்
+
+*2024-06-30 20:04:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-சட்டமா-அதிபர்-நியமனம்/175-339663) · `ta`
+
+பதில் சட்டமா அதிபராக சிரேஷ்ட மேலதிக சொலிசிட்டர் ஜெனரல் பரிந்த ரணசிங்க நியமிக்கப்பட்டுள்ளார். சட்டமா அதிபராக கடமையாற்றிய சட்டமா அதிபர் சஞ்சய் ராஜரத்தினம் வெற்றிடமாகிய பதவிக்கு சிரேஷ்ட மேலதிக சொலிசிட்டர் ஜெனரல் பரிந்த ரணசிங்க நியமிக்கப்பட்டுள்ளதாக அந்த அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது
+
+◼️
+
+[Data](articles/83b1b5b8.json)
+
+---
+
+### ජනපතිට ලැබුණු නෞකාව
+
+*2024-06-30 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198334) · `si`
+
+මෙම වසරේ සහ එළඹෙන වසරේ මැතිවරණ කිහිපයක් පැවැත්වීමට නියමිත බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+කෙසේනමුත් ප්‍රාදේශීය සභා ඡන්දය පැවැත්වීමට නම් හැකියාවක් නොමැති බවත් ඒ සඳහා අවශ්‍ය මූල්‍යම පහසුකම් නොමැති බවත් ජනාධිපතිවරා වැඩිදුරටත් ප්‍රකාශ කළේය.
+
+ඔහු මේ බව සඳහන් කළේ අද (30) මාතර පැවති ''එක්ව ජයගමු'' ජන රැලියට එක්වූ අවස්ථාවේදීය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපතිවරයා පැවසුවේ කුණාටුවකට මුහුණ දුන් ශ්‍රී ලංකාව නමැති නෞකාව තමන් මේ වන විට සුරක්ෂිතව ගොඩබිමට රැගෙනවිත් ඇති බවත් එය පැන ගිය කපිතාන්වරයකුට යළි බාරදෙන්නේ ? නැත්නම් මේ ආකාරයට ඉදිරියට රැගෙන යන්නේ ද ? යන්න තමා ජනතාවගෙන් විමසා සිටින බවයි.
+
+''එක්ව ජයගමු'' මැයෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය සහතික කෙරෙන ජන හමුව පැවැත්වුණේ එක්සත් ජාතික පක්ෂයේ සහ ආණ්ඩුවට සහාය දෙන ශ්‍රී ලංකා පොදුජන පෙරමුණු මන්ත්‍රීවරුන්ගෙත්, තවත් පාර්ශ්ව කිහිපයකත් එකතුවෙනි.
+
+...
+
+[Data](articles/44991fdc.json)
+
+---
+
+### சாரதி போதையில்: இடையில் ரயில்
+
+*2024-06-30 19:59:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-போதையில்-இடையில்-ரயில்/175-339662) · `ta`
+
+கொழும்பில் இருந்து கண்டிக்கு இன்று காலை . 10.40 புறப்பட்டுச் சென்ற  ரயிலின் சாரதி குடித்துவிட்டு தள்ளாடிவிட்டார்.
+
+இதனால் ரயிலை கண்டி நகருக்கு அருகிலுள்ள சுடுஹும்பொலவில் நிறுத்திவிட்டு ரயிலில் இருந்து தப்பி ஓடினார்.
+
+ரயிலில் இருந்த பயணிகள் பின்தொடர்ந்து ரயில் ஓட்டுநரை பிடித்து கொடுத்தனர். அதனையடுத்து ரயிலை கண்டி நிலையத்திற்கு இயக்க ஏற்பாடு செய்தனர்
+
+◼️
+
+[Data](articles/b8ecc08d.json)
+
+---
+
+### தொடர்ந்து தங்க நகைகளை திருடிவந்த மூவர் கைது
+
+*2024-06-30 19:53:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்து-தங்க-நகைகளை-திருடிவந்த-மூவர்-கைது/175-339661) · `ta`
+
+வடமேல் மாகாணத்தில் பல்வேறு பகுதிகளிலும்  வீடுகள் மற்றும் வியாபார நிலையங்களில் கொள்ளையிடப்பட்டதாக கூறப்படும் தங்க நகைகளுடன் மூவர் கைது செய்யப்பட்டுள்ளதாக புத்தளம் பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்கள்  நுரைச்சோலை, நாகொல்லாகம, தொரடியாவ, தெதிகம, கொஸ்வத்த ஆகிய பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதிகளில் உள்ள வீடுகள் மற்றும் வியாபார நிலையங்களில் இவ்வாறு தங்க நகைகளை கொள்ளையிட்டுள்ளமை விசாரணையில் தெரியவந்துள்ளது.
+
+சந்தேக நபர்களிடமிருந்து கைப்பற்றப்பட்ட தங்க நகைகள் 2 கோடியே 50 இலட்சத்திற்கும் அதிக பெறுமதியுடையது எனவும் பொலிஸார் குறிப்பிட்டனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்கள் நீதிமன்றத்தின் உத்தரவில் தடுத்துவைத்து விசாரணைக்கு உட்படுத்தப்பட்ட போதே கொள்ளையிடப்பட்ட தங்க நகைகள் தொடர்பில் தகவல் வெளிப்படுத்தப்பட்டுள்ளன.
+
+இவ்வாறு கொள்ளையிடப்பட்ட தங்க நகைகள் கண்டி, குருநாகல், கட்டுகஸ்தோட்டை, கேகாலை ஆகிய பகுதிகளில் உள்ள அடகு கடைகளில் அடகு வைக்கப்பட்டிருந்த நிலையில் மீட்கப்பட்டுள்ளதாகவும் பொலிஸார் மேலும் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/9b65c398.json)
+
+---
 
 ### Sri Lanka hoping to reach agreement with private bondholders next week, says President
 
@@ -54,21 +122,27 @@ Wickremesinghe said that since signing the agreements with bilateral creditors, 
 
 ---
 
-### බස් ගාස්තු වෙනසට කුමක් වෙයිද ?
+### What will happen to the change of bus fare?
 
 *2024-06-30 19:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198333) · `si`
 
-හෙට (01) සිට බස් ගාස්තු සියයට 5කින් අඩුවන බවට ප්‍රකාශ කළ ද එය ක්‍රියාත්මක කළ නොහැකි තත්ත්වයක් උද්ගතව ඇති බව ලංකා පෞද්ගලික බස් හිමියන්ගේ සංගමය පවසයි.
+Bus fares may decrease by 5% as per SLTH, but the final decision rests with the Transport Commission, which plans to announce revisions soon.
 
-එහි සභාපති ගැමුණු විජේරත්න මහතා පැවසුවේ අද දිනයේ සිදුවීමට නියමිත ඉන්ධන මිල සංශෝධනය ද සලකා බලා බස් ගාස්තු සංශෝධනය කිරීමට ගමනාගමන කොමිසම සැලසුම් කරමින් සිටින බවයි.
+🟩
 
-මේ අතර ජාතික බස් ගාස්තු ප්‍රතිපත්තියට අනුව ගාස්තු සංශෝධනය හෙට (01) ප්‍රකාශයට පත් කරන බව ජාතික ගමනාගමන කොමිසමේ සභාපති ශෂි වෙල්ගම මහතා පවසයි.
+The Lanka Private Bus Owners Association (SLTH) says that the bus fares will be reduced by 5% tomorrow (01).
 
-සෑම වසරකම ජුලි පළමුවනදා වාර්ෂික බස් ගාස්තු සංශෝධනය ප්‍රකාශයට පත් කළ යුතු අතර ඒ අනුව හෙට පස්වරු 1.00ට පැවැත්වෙන මාධ්‍ය හමුවේ දී ඒ සම්බන්ධයෙන් වන නිවේදනය ඉදිරිපත් කරන බව ශෂී වෙල්ගම මහතා පැවසීය.
+The Chairman of Gemunu Wijeratne said that the Transport Commission is planning to revise the bus fares to be considered today.
+
+Meanwhile, the Chairman of the National Transport Commission Shashi Welgama said that the tariff revision will be announced tomorrow (01).
+
+The Annual Bus fare revision should be published every year and will be awarded the statement at 1.00 pm, Mr. Shashi Welgama said.
 
 ◼️
 
 [Data](articles/a9ddd367.json)
+
+[Extended Data](ext_articles/a9ddd367.ext.json)
 
 ---
 
@@ -2245,71 +2319,5 @@ The President of the President of the Church, Lalith Expetitus, presented the Rs
 [Data](articles/2a969b27.json)
 
 [Extended Data](ext_articles/2a969b27.ext.json)
-
----
-
-### Star Garments Group wins Silver Award for ‘Energy Efficiency in Industry’ for its Innovation Center
-
-*2024-06-30 01:34:00* · [`islandlk`](http://island.lk/star-garments-group-wins-silver-award-for-energy-efficiency-in-industry-for-its-innovation-center/) · `en`
-
-Star Garments Group won a Silver Award at the first-ever International Symposium on Green Industry Initiative for Sustainable Industrial Development in the ‘Energy Efficiency in Industry’ category for its Innovation Center based in Katunayake – the first ‘Passive house factory building’ in the world and first ‘Passive House Design’ in South Asia. It is also the first LEED Platinum building in Sri Lanka to be certified under latest LEED V4, said a press release.
-
-It said: The event, organized by the Industrial Development Board and Ministry of industries, was held on the 20th, 21st and 23rd of June 2024 at the BMICH, Colombo.
-
-The passive house design emphasizes super insulation, airtightness, and heat recovery systems to minimize energy consumption, setting a new standard for industrial buildings in tropical climates. Star’s Innovation Center has also been awarded the 2020 AIA New York Merit Award in sustainability and the 2021 Passive House International Award.
-
-...
-
-[Data](articles/06a6d4c4.json)
-
-[Extended Data](ext_articles/06a6d4c4.ext.json)
-
----
-
-### ComBank employees celebrate Poson with ‘Pahan Gee’
-
-*2024-06-30 01:34:00* · [`islandlk`](http://island.lk/combank-employees-celebrate-poson-with-pahan-gee/) · `en`
-
-A choral ensemble comprising of members of the staff of the Commercial Bank recently performed at a celebration of Poson with devotional songs. The Bank’s Chairman Sharhan Muhseen, Deputy Chairman Raja Senanayake, Managing Director/CEO Sanath Manatunge, directors and representatives of the senior and corporate management of the Bank graced the occasion at the Malalasekara Theatre at Nalanda College. Present and past employees of Commercial Bank and their families attended the celebration.
-
-The guest artiste at the event was the popular musician T. M. Jayaratne, who was accompanied by the Commercial Bank choir on some of the songs. A notable feature of the performance was that many of the devotional songs sung were composed especially for the Bank. Pictured here is one of the performances at the event.
-
-Star Garments Group wins Silver Award for ‘Energy Efficiency in Industry’ for its Innovation Center
-
-...
-
-[Data](articles/092d6950.json)
-
-[Extended Data](ext_articles/092d6950.ext.json)
-
----
-
-### DSI Tyres introduces ‘Online Pick Up from Dealer’ system
-
-*2024-06-30 01:34:00* · [`islandlk`](http://island.lk/dsi-tyres-introduces-online-pick-up-from-dealer-system/) · `en`
-
-DSI Tyres has introduced the Online Pick Up from Dealer system to customers through its website, dsityreshop.com, with numerous innovations. This system, launched for the first time in Sri Lanka, allows customers to quickly order tyres from the comfort of their homes and have them conveniently fitted at the nearest tyre dealer.
-
-...
-
-[Data](articles/96c81b7b.json)
-
-[Extended Data](ext_articles/96c81b7b.ext.json)
-
----
-
-### Ranasinghe  Premadasa: Sri Lanka’s Solitary non-Govigama Prime Minister and President
-
-*2024-06-30 01:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84279) · `en`
-
-India, the world’s biggest democracy, held Parliamentary elections this year in seven phases from 19 April to 1 June. 642 million persons voted in the poll. Results were announced on 4 June. The incumbent Prime Minister Narendra Modi was re-elected PM for the third time. His party the Bharatiya Janata Party (BJP) won 240 of 572 Lok Sabha or Parliament seats. Together with allied parties the BJP led National Democratic Alliance (NDA) obtained 293 seats in Parliament.
-
-The election results have been continuously analysed and commented upon from the time of the poll. A significant aspect of these analyses and commentaries is the “caste factor”. Indian analysts and commentators are not “shy” about discussing caste openly when dissecting poll results. It is an acknowledged fact in India that caste plays a very influential role in determining the outcome of elections in many electorates, regions or states. Many Indians delve into the “caste in elections” topic without any inhibitions.
-
-...
-
-[Data](articles/b4f24621.json)
-
-[Extended Data](ext_articles/b4f24621.ext.json)
 
 ---

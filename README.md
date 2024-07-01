@@ -1,36 +1,48 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 15:06:14**
+As of **2024-07-01 15:19:47**
 
 ## Newspaper Stats
 
-*Scraped **33,095** Articles*
+*Scraped **33,098** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 302
 colombotelegraphcom | 303
-bbccomsinhala | 323
+bbccomsinhala | 324
 newsfirstlk | 363
 islandlk | 1,846
 economynextcom | 1,934
 dailyftlk | 2,036
 adalk | 2,942
 adaderanalk | 3,772
-tamilmirrorlk | 3,915
+tamilmirrorlk | 3,916
 dailymirrorlk | 4,733
 virakesarilk | 5,157
-adaderanasinhalalk | 5,469
+adaderanasinhalalk | 5,470
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,092 (100.0%) of 33,095 articles have been extended.
+33,095 (100.0%) of 33,098 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
+
+### சம்பந்தனுக்கு ஜனாதிபதி இரங்கல்
+
+*2024-07-01 14:56:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனுக்கு-ஜனாதிபதி-இரங்கல்/175-339700) · `ta`
+
+இரா.சம்பந்தனின் மறைவிற்கு எனது ஆழ்ந்த இரங்கலைத் தெரிவித்துக் கொள்கிறேன். ஒரு தேசியத் தலைவராக, நம் நாட்டில் ஏற்பட்ட பிளவுகளைக் குறைக்க அயராது பாடுபட்டார். அவரது இழப்பு நாடு முழுவதும் இரங்கல் தெரிவிக்கும். என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/af048fb6.json)
+
+---
 
 ### Teacher-principal trade unions to protest in front of schools tomorrow
 
@@ -50,33 +62,65 @@ The General Secretary of the Ceylon Teachers’ Union (CTU) Joseph Stalin emphas
 
 [Data](articles/1dcea87d.json)
 
+[Extended Data](ext_articles/1dcea87d.ext.json)
+
 ---
 
-### LPL තරගාවලිය අද ඇරඹේ
+### ඉඩම් දෙන්නේ නිකන් නෙමෙයි -ජනපති
+
+*2024-07-01 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198363) · `si`
+
+"උරුමය" ජාතික වැඩසටහන යටතේ සින්නක්කර ඉඩම් ඔප්පු ලබාගන්නා සියලුදෙනා කෘෂිකර්ම නවීකරණ වැඩසටහන සමඟ එක් වියයුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+මොනරාගල දිස්ත්‍රික්කයේ පැවති "උරුමය" ජාතික වැඩසටහනේ අදියරක් සමග ඊයේ (30) එක්වෙමින් ජනාධිපතිවරයා මේ බව සඳහන් කළේය.
+
+සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ "උරුමය" ජාතික වැඩසටහන යටතේ මොනරාගල දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 11ක සුදුසුකම්ලාභීන් 41,960ක් අතුරින් පුද්ගලයන් 600ක් වෙනුවෙන් සංකේතාත්මකව ඔප්පු ප්‍රදානය, ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් වැල්ලවාය මහින්ද රාජපක්ෂ සම්මන්ත්‍රණ ශාලාවේදී ඊයේ පැවැත්වුණි.
+
+"මේ ඉඩම් දෙන්නේ නිකන් නෙමෙයි. සල්ලි ඉල්ලන්නේ නෑ. මේ හැම එක්කෙනාම අපේ කෘෂිකර්ම නවීකරණ වැඩසටහනට එකඟවෙන්න ඕනේ. ගොවිතැන් කරන අය. එතනට එන්න. අපි ආධාර උපකාර දෙන්නම් ආපහු මේ ප්‍රදේශය දියුණු කරන්න. අපනයන ආර්ථිකයකට යන්න. මොකද්ද අමාරුව. ළඟ තියෙනවා වරායක්. ළඟ තියෙනවා ගුවන් තොටුපොළක්. ඊළඟ අවුරුදු 30 - 40 දී ලෝකයේ ආහාර සැපයීම විශාල ගැටලුවක්. අපි ආහාර සපයන්න ඕනේ. ඒකෙන් මුදල් උපයාගන්න ඕනේ..."
+
+◼️
+
+[Data](articles/a0012b51.json)
+
+---
+
+### The LPL tournament begins today
 
 *2024-07-01 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198362) · `si`
 
-ලංකා ප්‍රිමියර් ලීග් 20යි 20 ක්‍රිකට් තරගාවලියේ 5 වැනි අදියර අද (01) පල්ලෙකැලේ ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී ආරම්භ වෙයි.
+The Lanka Premier League's 5th phase starts today at the Pallekele International Cricket Stadium. The opening match between Dambulla Sixers and Candy Falcons is scheduled for 7:30 pm, with former leader Michael Clay attending as the league's brand ambassador.
 
-පළමු තරගයේදී දඹුල්ල සික්සර්ස් සහ කැන්ඩි ෆැල්කන්ස් කණ්ඩායම තරග බිමට පිවිසෙන අතර එම තරගය අද රාත්‍රී 7.30 ට ආරම්භ වීමට නියමිතය.
+🟩
 
-මෙවර ලංකා ප්‍රිමියර් ලීග් 20යි 20 ක්‍රිකට් තරගාවලියේ සන්නාම තානාපතිවරයා ලෙසින් කටයුතු කරන ඔස්ට්‍රේලියා හිටපු නායක මයිකල් ක්ලාක්ද සහභාගී වෙයි.
+The 5th phase of Lanka Premier League will commence at the Pallekele International Cricket Stadium today (01).
+
+Dambulla Sixers and Candy Falckens in the first match celebrate the match and the match will begin at 7.30 pm today.
+
+Former leader Michael Clay also attends the brand ambassador of the Lanka Premier League and the Brand Cricket Tournament.
 
 ◼️
 
 [Data](articles/2a689843.json)
 
+[Extended Data](ext_articles/2a689843.ext.json)
+
 ---
 
-### චීනයේ රොකට්ටුවක් කඩා වැටෙයි
+### A rocket of China collapses
 
 *2024-07-01 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198361) · `si`
 
-රොකට්ටුවේ පළමු අදියරයේ අසාර්ථකවීමක් හේතුවෙන් එහි දියත් කිරීමේ මධ්‍යස්ථානයෙන් වෙන්වූ විගස කඩා වැටී ඇති වාර්තා වෙයි.
+China's rocket failed during its first phase, collapsing shortly after launch.
+
+🟩
+
+The first phase of the rocket has failed due to a failure of the rocket and collapsed as soon as the launch center.
 
 ◼️
 
 [Data](articles/1ab2eae5.json)
+
+[Extended Data](ext_articles/1ab2eae5.ext.json)
 
 ---
 
@@ -1438,6 +1482,26 @@ The injured individuals have been admitted to Wathupitiwala and Warakapola hospi
 
 ---
 
+### ඩෙවොන් 5: යාත්‍රාවේ දිවි ගලවා ගත් එකම ධීවරයා ගොඩබිමට රැගෙන එයි
+
+*2024-07-01 09:13:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp0812660v3o) · `si`
+
+ඩෙවොන් 5: යාත්‍රාවේ දිවි ගලවා ගත් එකම ධීවරයා ගොඩබිමට රැගෙන එයි
+
+මෙහි කිසිවක් අඩංගු නැත.Play video, "''කුඩු තියෙනවා කිවුවහම විනාඩි 10න් 20න් ගිහින් ගේන්න පුළුවන්නම් ඇයි බොඩිස් ගේන්න බැරි''", ධාවන කාලය 1,4701:47වීඩියෝ ශීර්ෂ වැකිය, ''කුඩු තියෙනවා කිවුවහම විනාඩි 10න් 20න් ගිහින් ගේන්න පුළුවන්නම් ඇයි බොඩිස් ගේන්න බැරි''
+
+ශ්‍රී ලංකාවට ඔබ්බෙන් වූ දකුණු මුහුදේ  පාවෙමින් තිබු බෝතලයක තිබූ ද්‍රාවණයක් මත්පැන් යැයි සිතා පානය කළ සිදුවීමෙන් දැනට ජීවතුන් අතර සිටින එකම ධීවරයා රැගත් විජයබාහු නෞකාව අද (ජුලි මස 01 වෙනිදා) හම්බන්තොට වරායට පැමිණි  බව නාවික හමුදාව පවසයි.
+
+නාවික හමුදා මාධ්‍ය අධ්‍යක්ෂක කැප්ටන් ගයාන් වික්‍රමසූරිය බීබීසී සිංහල සේවයට පැවසුවේ එම ධීවරයා රෝහල් ගත කිරීමට අවශ්‍ය පියවර ගත් බවය.
+
+එමෙන්ම මියගිය එක් ධීවරයෙකුගේ සිරුරක් ද විජයබාහු නෞකාව මගින් ගොඩබිමට රැගෙන ආ බව නාවික හමුදා මාධ්‍ය ප්‍රකාශකවරයා පැවසුවේය.
+
+...
+
+[Data](articles/ef425536.json)
+
+---
+
 ### Van in Kalutara - Car collisionMother, father and 6 -month -old baby hurt
 
 *2024-07-01 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/187351) · `ta`
@@ -2131,71 +2195,5 @@ Mumbai Indians have not been able to achieve significant victories this time due
 [Data](articles/907bc277.json)
 
 [Extended Data](ext_articles/907bc277.ext.json)
-
----
-
-### Land Right to Workers: Who is the obstacle?
-
-*2024-07-01 03:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187346) · `ta`
-
-The obstacle to granting land rights to workers includes internal government delays, opposition from companies owning plantation lands, and lack of political pressure. Despite Cabinet approval, policy preparation and company consent delay implementation. Political alliances and promises unfulfilled contribute to the complexity.
-
-🟩
-
-There are no political pressures to grant land rights to workers. Reports suggest that other parties, including the PA, should not implement this to Prime Minister Dinesh Gunawardena.. This is one of the reasons why the Ceylon Workers Congress broke the alliance with Mahinda Rajapaksa.
-
-The government is being successfully implemented by the government's permanent land providing scheme.. President Ranil Wickremesinghe goes to the country and gives land to the people who have been enrolled under the scheme.. But under his leadership, the plantation workers submitted by three ministers in the Cabinet are allowed to grant land rights.
-
-Despite the approval of the Cabinet, the plan to provide land rights to the plantation people is not immediately implemented because it takes time to prepare a policy plan document.. Although the document is currently being prepared, the companies and some political parties have expressed their opposition to the project.
-
-...
-
-[Data](articles/0c34ff14.json)
-
-[Extended Data](ext_articles/0c34ff14.ext.json)
-
----
-
-### Young man stuck in the neck to show fear of girlfriend
-
-*2024-07-01 03:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/187345) · `ta`
-
-In Vavuniya, a 17-year-old boy went missing and was later found dead with a rope around his neck, allegedly as a threat to his 15-year-old girlfriend. Police are investigating.
-
-🟩
-
-A young man living in Nandimitrakama area in Vavuniya, a young man, said that a 17 -year -old youth from the Bogaswewa area of ​​Vavuniya was missing two days ago.Was found in the area. Initial investigations by the police have revealed that the rope has died after being stuck in the neck to intimidate his 15 -year -old girlfriend.. Mamaduwa police are conducting further investigations.
-
-◼️
-
-[Data](articles/369b7973.json)
-
-[Extended Data](ext_articles/369b7973.ext.json)
-
----
-
-### Recovery from Vavuniya Hospital
-
-*2024-07-01 03:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/187344) · `ta`
-
-A man from Achipuram, admitted to Vavuniya Hospital, disappeared but was later found dead near Ranimil Road junction. Police suspect foul play due to the circumstances surrounding his death and are conducting further investigations.
-
-🟩
-
-Vavuniya police said that the man who fled the road has been recovered on the road after being admitted to the Vavuniya Hospital for treatment.
-
-The body was recovered on Saturday (29) at Ranimil Road junction in Vavuniya, Kovilputhukulam, police said.
-
-Leosius Teleson, a resident of Achipuram, who was admitted to the Vavuniya Hospital for treatment, has left the hospital for fear of injecting at the hospital.
-
-In this case, the body of the police recovered the body after the body was found dead at Ranimil junction in Vavuniya.. Police said the body was recovered from the hospital.
-
-Investigations by the police revealed that the accident had taken the accident and caused the accident.. The Vavuniya police and the traffic police are continuing further investigations.
-
-◼️
-
-[Data](articles/484892d2.json)
-
-[Extended Data](ext_articles/484892d2.ext.json)
 
 ---

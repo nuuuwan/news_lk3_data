@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 10:35:09**
+As of **2024-07-01 10:53:30**
 
 ## Newspaper Stats
 
-*Scraped **33,034** Articles*
+*Scraped **33,038** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,845
 economynextcom | 1,929
 dailyftlk | 2,036
-adalk | 2,933
-adaderanalk | 3,764
+adalk | 2,936
+adaderanalk | 3,765
 tamilmirrorlk | 3,909
 dailymirrorlk | 4,733
 virakesarilk | 5,139
@@ -26,23 +26,51 @@ adaderanasinhalalk | 5,457
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,027 (100.0%) of 33,034 articles have been extended.
+33,034 (100.0%) of 33,038 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### පියුමි හංසමාලි නීතිවිරෝධී වත්කම් විමර්ශන ඒකකයට
+### One dead after armed gunmen storm French wedding
+
+*2024-07-01 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100212/one-dead-after-armed-gunmen-storm-french-wedding) · `en`
+
+A man in his 30s has been killed and several others wounded in a shooting at a Turkish wedding in north-east France, police have said.
+
+French media report that three armed, hooded men arrived at the reception venue in Thionville late on Saturday night before opening fire on guests.
+
+Quoting police sources, Le Figaro newspaper says the attackers came at 01:15am local time to “settle scores between well-known gangs in Moselle”.
+
+A pregnant woman was among the wounded, police said, and three of the injured are reportedly in a critical condition at the Bel-Air hospital nearby.
+
+Around 100 people were celebrating at Eden Palace when the gunmen arrived at the event in a 4x4 car, according to French media, in the region of Lorraine near the borders of Germany and Luxembourg.
+
+“At a quarter past one in the morning, a group of people went outside to smoke in front of the hall, and then three heavily-armed men opened fire in their direction,” a police source was quoted by AFP.
+
+...
+
+[Data](articles/0741cc9b.json)
+
+---
+
+### Piyumi Hansamali Illegal Asset Investigation Unit
 
 *2024-07-01 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198350) · `si`
 
-ප්‍රසිද්ධ නිරූපන ශිල්පිනයක් වන පියුමි හංසමාලීව අද (01) උදෑසන අපරාධ පරීක්ෂණ දෙපාර්තුමේන්තුවේ නීතිවිරෝධී වත්කම් විමර්ශන ඒකකයට පැමිණ තිබේ.
+Piyumi Hanamali, a renowned model, visited the ICFI's CID on January 1st to address allegations about her amassing billions of rupees.
 
-ඒ ඇය සැකසහිත ලෙස රුපියල් කෝටි ගණනක දේපොළ උපයාගෙන ඇතැයි කියමින් ලද පැමිණිල්ලකට අනුව සිදුකරන විමර්ශනයකට අදාළව ප්‍රකාශයක් ලබාදීම සඳහාය.
+🟩
+
+Piyumi Hanamali, a popular model, has arrived at the ICFI in the CID today (01).
+
+It is to be made to a statement regarding a complaint lodged with a complaint that she has earned billions of rupees.
 
 ◼️
 
 [Data](articles/42de251d.json)
+
+[Extended Data](ext_articles/42de251d.ext.json)
 
 ---
 
@@ -61,6 +89,8 @@ The June 28 presidential election marked the lowest voter turnout in the history
 ...
 
 [Data](articles/8d9320e9.json)
+
+[Extended Data](ext_articles/8d9320e9.ext.json)
 
 ---
 
@@ -82,23 +112,29 @@ Meanwhile, Kodikara warned that if their issues are not adequately addressed, th
 
 ---
 
-### 24 மணி நேரத்திற்கு  சிவப்பு எச்சரிக்கை விடுக்கப்பட்டது
+### Red alerted for 24 hours
 
 *2024-07-01 09:56:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணி-நேரத்திற்கு-சிவப்பு-எச்சரிக்கை-விடுக்கப்பட்டது/175-339682) · `ta`
 
-பலத்த காற்று மற்றும் கடல் ​கொந்தளிப்புடன் காணப்படுவதால் அரபிக் கடல் பகுதியில் மீன்பிடி மற்றும் கடல்சார் சமூகத்தை அவதானமாக செயற்படுமாறு வளிமண்டலவியல் திணைக்களம் சிவப்பு எச்சரிக்கையை விடுத்துள்ளது.
+A red alert has been issued for 24 hours due to severe weather conditions in the Arabian Sea affecting fisheries and maritime activities. The region experiences intense southwest climate causing high turbulence. Expectations include heavy rainfall across several provinces and thunderstorms in specific areas. Wind speeds of 40-50 km/h are anticipated in certain districts.
 
-தென்மேற்கு பருவநிலை தீவிரமாக இருப்பதால் அரபிக் கடல் பகுதி மிகவும் கொந்தளிப்பாக இருக்கும்.
+🟩
 
-இதேவேளை, மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சிறிதளவு மழை பெய்யும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology has issued a red warning that the fisheries and maritime community in the Arabian Sea is observed due to strong winds and sea turbulence.
 
-ஊவா மாகாணம், அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களில் மாலை அல்லது இரவு வேளைகளில் சில இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+The Arabian Sea is very turbulent as the southwest climate is intense.
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும், வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் காற்று இடைக்கிடையில் 40-50 கிலோ மீற்றர் வேகத்தில் காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் மேலும் தெரிவித்துள்ளது. R
+Meanwhile, the Department of Meteorology has said that there will be some rainfall in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Thundershowers will occur in some places in the evening or night in the Uva Province, Ampara and Batticaloa districts.
+
+The Department of Meteorology has said that winds are likely to blow at speeds of 40-50 km / h in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.. Remble
 
 ◼️
 
 [Data](articles/29ed1974.json)
+
+[Extended Data](ext_articles/29ed1974.ext.json)
 
 ---
 
@@ -120,59 +156,91 @@ Sri Lanka Navy has arrested a group of Indian fishermen who were illegally engag
 
 ---
 
-### இறுதிக் கிரியை பற்றிய தகவல்
+### Actuality
 
 *2024-07-01 09:52:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறுதிக்-கிரியை-பற்றிய-தகவல்/175-339680) · `ta`
 
-தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவரும் இலங்கைத் தமிழரசுக் கட்சியின் தலைவருமான திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினர் இராஜவரோதயம் சம்பந்தன் தமது 91ஆவது வயதில் நேற்று இரவு காலமானார்.
+Rajavarodayam Sampanthan, leader of the Tamil National Alliance (TNA) and TNA, Trincomalee district MP, passed away at 91 from illness in a Colombo hospital. His funeral will be held in Colombo and Parliament, followed by a procession to his hometown, Trincomalee. Further details will be announced.
 
-உடல் நலக்குறைவினால் கொழும்பிலுள்ள தனியார் வைத்தியசாலை ஒன்றில் அனுமதிக்கப்பட்டிருந்த அவர், நேற்றிரவு 11 மணியளவில் காலமானதாக தெரிவிக்கப்படுகின்றது.
+🟩
 
-அன்னாரின் பூதவுடல் அஞ்சலிக்காக கொழும்பில் மலர்சாலையில் வைக்கப்பட்டு அதன்பின்னர் அவரது பூதவுடல் பாராளுமன்றத்தில் அஞ்சலிக்காக வைக்கப்படவுள்ளது.
+The leader of the Tamil National Alliance (TNA) and the leader of the Sri Lanka Tamil National Alliance (TNA), Trincomalee district parliamentarian Rajavarodayam Sampanthan passed away last night at the age of 91.
 
-அதன்பின்னர் அன்னாரின் பூதவுடல் இறுதிக் கிரியைகளுக்காக அவரின் சொந்த ஊரான திருகோணமலைக்குக் கொண்டு செல்லப்படும் என்றும் அறிவிக்கப்பட்டுள்ளது.
+He was admitted to a private hospital in Colombo due to ill health, and it was reported that he passed away around 11 pm last night.
 
-இறுதிக் கிரியைகள் தொடர்பான விபரம் பின்னர் அறிவிக்கப்படும் என பாராளுமன்ற உறுப்பினர் எம்.ஏ. சுமந்திரன் அறிவித்துள்ளார். R
+Annar's funeral will be placed in the flower in Colombo and will then be placed in Parliament in Parliament.
+
+It has also been announced that Annar's funeral will be taken to his hometown of Trincomalee for the funeral.
+
+The Member of Parliament MA said that the details of the funeral will be announced later.. Sumanthiran has announced. Remble
 
 ◼️
 
 [Data](articles/74708ad2.json)
 
+[Extended Data](ext_articles/74708ad2.ext.json)
+
 ---
 
-### சம்பந்தனின் மறைவுக்கு மஹிந்த இரங்கல்
+### පාර්ලිමේන්තු මන්ත්‍රී ආර් සම්බන්ධන් දිවි ගමනට සමුදෙයි
+
+*2024-07-01 09:50:20* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මන්ත්‍රී-ආර්-සම්බන්ධන්-දිවි-ගමනට-සමුදෙයි/11-410535) · `si`
+
+දෙමළ ජාතික සන්ධානයේ නායකයා ලෙස කටයුතු කල පාර්ලිමේන්තු මන්ත්‍රී ආර් සම්බන්ධන් මහතා අභාවප්‍රාප්ත වී තිබේ. ඒ වන විට ඔහු අනූ එක් වැයි වියේ පසු විය.
+
+කොළඹ පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටියදී ඒ මහතා අභාවප්‍රාප්ත වී ඇති බව වාර්තාවේ. අවසන් කටයුතු සම්බන්ධයෙන් පසුව දැනුම් දෙන බව පවුලේ ප්‍රකාශකයෙක් සඳහන් කලේය.
+
+◼️
+
+[Data](articles/995e2ef6.json)
+
+---
+
+### Mahinda's condolences to Sambandan's demise
 
 *2024-07-01 09:45:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனின்-மறைவுக்கு-மஹிந்த-இரங்கல்/175-339679) · `ta`
 
-இலங்கை தமிழரசுக்கட்சியின் தலைவர் ஆர்.சம்பந்தனின் மறைவுக்கு மஹிந்த ராஜபக்ஷ டுவிட்டரில் தனது இரங்கலைத் தெரிவித்தார்.
+Mahinda Rajapaksa mourns the loss of R. Sampanthan, a prominent Sri Lankan Tamil party leader, calling him an "old friend" and a significant figure in the country's political landscape. He extends his sympathies to Sampanthan's family and friends, highlighting the impact of this loss on the broader political community.
 
-‘அவர் ஒரு பழைய நண்பர். நாங்கள் பல நாட்கள் பல்வேறு விடயங்களைப் பற்றி விவாதித்தோம். அவரது மறைவு இலங்கை அரசியல் சகோதரத்துவத்திற்கு ஒரு இழப்பு . அவரது குடும்பத்தினர் மற்றும் நண்பர்களுக்கு ஆறுதலை கூற விரும்புகிறேன்.’ என்று குறிப்பிட்டுள்ளார். R
+🟩
+
+Mahinda Rajapaksa expressed his condolences on Twitter on the demise of Sri Lankan Tamil party leader R. Sampanthan.
+
+He's an old friend. We have discussed many days of various things. His demise is a loss to the Sri Lankan political brotherhood. I would like to give comfort to his family and friends.. Remble
 
 ◼️
 
 [Data](articles/28d369ce.json)
 
+[Extended Data](ext_articles/28d369ce.ext.json)
+
 ---
 
-### சம்பந்தன் மறைவுக்கு அங்கஜன் இரங்கல்
+### Anganan's condolence
 
 *2024-07-01 09:41:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தன்-மறைவுக்கு-அங்கஜன்-இரங்கல்/175-339678) · `ta`
 
-இலங்கை தமிழரசு கட்சியின் முன்னாள் தலைவரும், தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவரும், முன்னாள் எதிர்க்கட்சி தலைவரும், திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இரா.சம்பந்தன் மறைவுக்கு யாழ். மாவட்ட பாராளுமன்ற உறுப்பினர்
+R. Sampanthan, a key figure in Sri Lanka's Tamil National Alliance, passed away, leaving a significant void in Tamil politics. Known for his dedication to public service over a legal career, Sampanthan's diplomatic efforts were pivotal in the Tamil community's struggles. His loss is deeply felt, especially in the Trincomalee district, where he represented Tamil interests. A unifying force within the party system, his absence marks the end of an era in Tamil political history. Condolences pour in for his family, friends, and supporters, with prayers for his soul.
 
-அன்னாரின் இழப்பு தமிழ்த் தேசிய அரசியல் பரப்புக்கு பேரிழப்பாகும். தனது சட்டத் தொழிலை தியாகம் செய்து தன்னை மக்கள் அரசியலில் ஈடுபடுத்திய பெருமகனார் அவர்.
+🟩
 
-தமிழர்களின் மூன்று வகையான போராட்ட காலங்களிலும் தனது அரசியல் சாணக்கியத்தையும், அனுபவத்தையும் பல சந்தர்ப்பங்களில் இராஜதந்திரங்களாக அவர் பயன்படுத்தியிருந்ததை இத்தருணத்தில் நினைவில் கொள்ள வேண்டும்.
+Former leader of the Sri Lanka Tamil National Alliance (TNA), Tamil National Alliance leader, former opposition leader and Trincomalee district parliamentarian R. Sampanthan's death. Parliamentarian
 
-திருகோணமலை மாவட்டத்தின் தமிழர் பிரதிநிதித்துவத்தின் இறுதி நம்பிக்கையாக திகழ்ந்த அவரது இழப்பு ஈடுசெய்யப்பட முடியாதது.
+The loss of Annar is a disaster for the Tamil national political area. He is a great man who sacrificed his legal career and engaged in people's politics.
 
-வரலாற்று பாரம்பரியம் மிக்க கட்சியையும், வேறுபட்ட நீரோட்டங்களில் பயணித்த கட்சிகளின் கூட்டமைப்பையும் தனது இயலுமைக்காலங்கள் அனைத்திலும் தன் ஆளுமையால் சிதைவடையாது காப்பாற்றியதில் அவருக்கு இணை அவர் மட்டுமே.
+It must be remembered at this moment that he used his political sort of politicalism and experience as diplomacy on many occasions during the three kinds of struggle of the Tamils.
 
-இலங்கைத் தமிழர்களின் அரசியல் வரலாற்றின் நீண்டகால அனுபவப் பக்கமொன்றை எங்கள் இனம் இன்று இழந்துள்ளது.
+His loss, which was the ultimate belief in the Tamil representation of the Trincomalee district, is not compensated.
+
+He is the only one who coordinated the historic party and the federation of parties that traveled in different currents, and in all his enabled times, his personality would not be shattered.
+
+Our race today has lost a long -term experience of the political history of Sri Lankan Tamils.
 
 ...
 
 [Data](articles/d142c85e.json)
+
+[Extended Data](ext_articles/d142c85e.ext.json)
 
 ---
 
@@ -477,6 +545,8 @@ German investment via Bogala Graphite Ltd. over the past two decades have seen s
 ...
 
 [Data](articles/25fb60d1.json)
+
+[Extended Data](ext_articles/25fb60d1.ext.json)
 
 ---
 
@@ -1606,6 +1676,26 @@ Giving policy support and denying monetary stability has become mainstream in th
 
 ---
 
+### අද බස් ගාස්තු අඩුවෙයි?
+
+*2024-06-30 20:47:38* · [`adalk`](https://www.ada.lk/breaking_news/අද-බස්-ගාස්තු-අඩුවෙයි-/11-410533) · `si`
+
+වාර්ෂික බස් ගාස්තු සංශෝධනයට අනුව නව බස් ගාස්තුව අද (01දා) දිනය තුළදීප්‍රකාශයට පත් කරන බව ජාතික ගමනාගමන කොමිෂන් සභාව සඳහන් කරයි.
+
+බස් ගාස්තු සංශෝධනය සම්බන්ධයෙන් පසුගිය 28වන දින බස් සංගම් සමග සාකච්ඡා කළ බවත් මේ අනුව මාර්ග 350ක ප්‍රමාණයකට අදාළව ගාස්තු සකස් කිරීම් සිදුකරන බවද එම කොමිසමේ සභාපති ශෂී වෙල්ගම මහතා %අද^ කළ විමසීමකදී සඳහන් කළේය.
+
+නව ගාස්තුව අද (01දා) ප්‍රකාශයට පත් කිරීමෙන් පසු ටිකට්පත් නිකුත් කරන යන්ත්‍රවලට නව ගාස්තුව ඇතුළත් කළ යුතු බවත් මේ අනුව අද ප්‍රකාශයට පත් කරන ගාස්තුව ඉදිරි දිනවල ක්‍රියාත්මක වන බවද පවසා සිටියේය.
+
+බස් සංගම් හා ජාතික ගමනාගමන කොමිෂන් සභාවේ නිලධාරීන් අතර පැවැති සාකච්ඡාවේදී රුපියල් 30ක් ලෙස පවතින අවම බස් ගාස්තුව රුපියල් 28ක් දක්වා අඩු කිරීමට හා එතැන් පටන් ගාස්තුව 5෴කින්අඩු කිරීමට තීරණය කර තිබෙන බවද වාර්තාවේ.
+
+මෙම ගාස්තුව පිළිබඳව බස් සංගම් සමග සාකච්ඡා කළ බවත් මේ අනුව අවම බස් ගාස්තුව රුපියල් 28ක් ලෙස හා අනෙකුත් ගාස්තුව 5෴කින් අඩු කිරීමට බස් සංගම් එකඟ වූ බවද ලංකා පෞද්ගලික බස් හිමියන්ගේ සංගමය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/1e0ca69b.json)
+
+---
+
 ### We will form a powerful alliance in the history of the country in a few days - Ranjith Mathuma Bandara
 
 *2024-06-30 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187338) · `ta`
@@ -1627,6 +1717,24 @@ At the same time, the Muslim Congress, Tamil parties and 12 members of the Risha
 [Data](articles/53eb2161.json)
 
 [Extended Data](ext_articles/53eb2161.ext.json)
+
+---
+
+### ලංකාවේ පළමුවරට මිරිස්වලින් අයිස් ක්‍රීම් හදයි
+
+*2024-06-30 20:27:33* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-පළමුවරට-මිරිස්වලින්-අයිස්-ක්‍රීම්-හදයි/11-410532) · `si`
+
+මෙරට පළමුවරට මිරිස්වලින් නිෂ්පාදනය කරන ලද අයිස්ක්‍රීම් විශේෂයක්  හඳුන්වා දීමට නව නිපැයුම්කරුවෙකු වන වැලිමඩ, දරගල පදිංචි ලසන්ත රුවන් ලංකාතිලක මහතා  කටයුතු කර තිබේ.
+
+කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශය යටතේ ක්‍රියාත්මක කෘෂි අංශ නවීකරණ වැඩ සටහනේ තාක්ෂණික හා මුල්‍ය දායකත්වය යටතේ මෙම නිෂ්පාදනය එළි දක්වා ඇති අතර ඌව විශ්ව විද්‍යාලයේ ආහාර විද්‍යා හා තාක්ෂණික පීඨයේ මාර්ගොපදේශකත්වය යටතේ ඒ  පිළිබඳ පර්යේෂණ සිදු කර ඇත.
+
+මෙම අයිස්ක්‍රීම් විශේෂය අතුරු නිෂ්පාදනයක් ලෙස බීජ ලබා ගැනීමට යොදාගන්නා වියළි මිරිස්වල පොත්ත උපයෝගි කර ගනිමින් සකස් කරනු ලැබේ. එසේම පැණි රස හා මිරිස් සැර එකට එක්වූ නවමු රසයකින් මෙම අයිස්ක්‍රීම් රස විඳිය හැකි බව නිපැයුම්කරුවා පෙන්වා දෙයි.
+
+ඒ අනුව මේ පිළිබඳ වැඩිදුරටත් අදහස් දක්වමින් ලංකාතිලක මහතා සඳහන් කර සිටියේ දරුවන්ට හා වැඩිහිටියන්ට වශයෙන් නිෂ්පාදන විශේෂ 02ක් හඳුන්වා දී ඇති බවත්  ඉදිරියේ දී ඒවා වෙළෙඳපළට නිකුත් කිරීමට කටයුතු කරන බවත්ය.
+
+◼️
+
+[Data](articles/467eb803.json)
 
 ---
 
@@ -2073,77 +2181,5 @@ Growth of the North and East of Sri Lanka offers new opportunities to many. Peop
 [Data](articles/45ada313.json)
 
 [Extended Data](ext_articles/45ada313.ext.json)
-
----
-
-### Eelam Tamil politics focusing on Britain
-
-*2024-06-30 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187328) · `ta`
-
-In Britain, post-election, diaspora Tamils may exert political influence akin to Canada's Tamil community impact.
-
-🟩
-
-In Britain, like Canada, there is a possibility that the political influence of the diaspora Tamils ​​after the upcoming general election.
-
-◼️
-
-[Data](articles/102b0bb2.json)
-
-[Extended Data](ext_articles/102b0bb2.ext.json)
-
----
-
-### Tibet
-
-*2024-06-30 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187330) · `ta`
-
-The Tibet Solution Act, passed by 391 Congress members, awaits President Biden's signature to become law.
-
-🟩
-
-The bill, titled Tibet Solution Act, was passed with the consent of 391 Congress members. Currently waiting for President Joe Baiden's signature. Once President Baiden's signed, the Tibetan Solution Act is approved as a law approved.
-
-◼️
-
-[Data](articles/2daea3a8.json)
-
-[Extended Data](ext_articles/2daea3a8.ext.json)
-
----
-
-### For whom?
-
-*2024-06-30 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187314) · `ta`
-
-India has bolstered Sri Lanka's Maritime Rescue Coordination Center to meet rising demands from ships long denied sea access due to conflict.
-
-🟩
-
-India has strengthened the Sri Lankan Maritime Rescue Coordination Center as it continues to increase the demand for aid from the ships that have been deprived of the sea in five years.
-
-◼️
-
-[Data](articles/2042ed2a.json)
-
-[Extended Data](ext_articles/2042ed2a.ext.json)
-
----
-
-### What is the message of the 31st convention of the MU?
-
-*2024-06-30 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187323) · `ta`
-
-The 31st convention of the MU faced controversy as supporters of the Muslim Congress left due to allegations against the party leader's conduct. Former Governor Hizbullah addressed issues but failed to satisfy all attendees.
-
-🟩
-
-Former Governor of the Eastern Province Hizbullah took the problems when the group took the district district to appease the group.. Meanwhile, supporters of the Muslim Congress, who attended the convention from Nintavur, left the convention on the allegation that the party leader did not act properly.
-
-◼️
-
-[Data](articles/d139b998.json)
-
-[Extended Data](ext_articles/d139b998.ext.json)
 
 ---

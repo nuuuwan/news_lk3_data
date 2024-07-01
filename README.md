@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 17:04:49**
+As of **2024-07-01 17:19:35**
 
 ## Newspaper Stats
 
-*Scraped **33,119** Articles*
+*Scraped **33,122** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,42 +13,82 @@ colombotelegraphcom | 303
 bbccomsinhala | 324
 newsfirstlk | 363
 islandlk | 1,846
-economynextcom | 1,934
+economynextcom | 1,935
 dailyftlk | 2,036
 adalk | 2,944
-adaderanalk | 3,774
+adaderanalk | 3,775
 tamilmirrorlk | 3,919
 dailymirrorlk | 4,733
 virakesarilk | 5,167
-adaderanasinhalalk | 5,474
+adaderanasinhalalk | 5,475
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,117 (100.0%) of 33,119 articles have been extended.
+33,119 (100.0%) of 33,122 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### பாட்டி துஷ்பிரயோகம்: பல் இறுகி மரணம்
+### President to deliver special statement in Parliament tomorrow
+
+*2024-07-01 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100222/president-to-deliver-special-statement-in-parliament-tomorrow) · `en`
+
+President Ranil Wickremesinghe is scheduled to make a special statement to the Parliament tomorrow (02) on the implementation of the debt restructuring agreements, the Parliamentary Communications Department said.
+
+Accordingly, the debate and vote on the agreements have been postponed, it added.
+
+Earlier, the Speaker of Parliament Mahinda Yapa Abeywardena informed all the Members of Parliament in writing to attend a special parliamentary sitting on July 2, 2024 at 9.30 a.m. The special parliamentary sitting had been called in pursuance of Standing Order No. 16 of the Standing Orders of the Parliament, as per a request made by the Prime Minister.
+
+◼️
+
+[Data](articles/112a036f.json)
+
+---
+
+### කැරම් බෝඩ් නඩුවට අදාළ නියෝගයක් 09 වනදා
+
+*2024-07-01 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198368) · `si`
+
+හිටපු ක්‍රීඩා අමාත්‍ය මහින්දානන්ද අලුත්ගමගේ සහ එවක සතොස ආයතනයේ හිටපු සභාපති සහ වත්මන් අමාත්‍ය නලින් ප්‍රනාන්දු විත්තියේ සාක්ෂි කැඳවීමකින් තොරව නිදහස් කරන ලෙස ඔවුන්ගේ නීතිඥවරුන් කළ ඉල්ලීම පිළිබඳ නියෝගය ලබන 09 වනදා ප්‍රකාශයට පත් කරන බව කොළඹ මහාධිකරණය නියම කළේය.
+
+2015 වසරේ පැවති ජනාධිපතිවරණය සමයේ රුපියල් මිලියන 53කට ආසන්න වටිනාකමකින් යුත් කැරම් බෝඩ් හා දාම් බෝඩ් සතොස ආයතනය හරහා මිලදීගෙන ක්‍රීඩා සංගම් අතර බෙදාදීම තුළින් රජයට පාඩුවක් සිදු කළේ යැයි ඔවුන්ට චෝදනා එල්ල කර තිබේ.
+
+අල්ලස් කොමිසම විසින් ගොනුකර තිබූ මෙම නඩුව අද (01) අමල් රණරාජා, ප්‍රදීප් හෙට්ටිආරච්චි සහ මහේන් වීරමන් යන ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+◼️
+
+[Data](articles/2222e953.json)
+
+---
+
+### Grandmother's abuse: toothbrush death
 
 *2024-07-01 16:38:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாட்டி-துஷ்பிரயோகம்-பல்-இறுகி-மரணம்/76-339704) · `ta`
 
-பாட்டியை துஷ்பிரயோகத்துக்கு ​உட்படுத்த முயன்றபோது, அப்பாட்டியின் போலியான பல் செட், தொண்டடையில் இறுகியமையால் அப்பாட்டி பரிதாபமாக மரணமடைந்த சம்பவமொன்று பலாங்கொடையில் இடம்பெற்றுள்ளது.
+A woman attempted to harm her grandmother with a fake toothbrush, leading to her father's accidental death. A mysterious man named Asami intervened, silencing the grandmother and preventing further harm. He then disappeared after leaving the grandmother hanging. Her body was found on June 27th, revealing signs of sexual assault. Police are searching for Asami to bring him to justice.
 
-முன்தாக திடீரென அந்த மர்ம ஆசாமி, பாட்டியின் வீட்டுக்குள் புகுந்துள்ளார். இதனை சற்றும் எதிர்பாராத அப்பாட்டி, கூச்சலிட்டு அக்கம் பக்கத்தவர்களை உதவிக்கு அழைக்க முயன்றுள்ளார்.
+🟩
 
-எனினும், பாட்டி சத்தம் போடுவதை தடுக்கும் வகையில் அந்த மர்ம ஆசாமி, அப்பாட்டியின் வாயை அடைத்து இறுக பிடித்துள்ளார். அப்போது, வாயிலிருந்த போலி பல்செட் கழன்று பாட்டியின் தொண்டை குழிக்குள் சென்றுள்ளது.
+When she tried to abuse her grandmother, a fake tooth set, a miserable death of the father's throat, was a tragic death of the father.
 
-எனினும், கழுத்துடன் இறுக கட்டியணைத்து பிடித்திருந்த மர்ம ஆசாமியின் கைகளிலேயே பாட்டி தொங்கிவிட்டது. இதனை சற்றும் எதிர்பாராத நபர், அப்படியே விட்டுவிட்டு தலைமறைவாகிவிட்டார்.
+Suddenly the mysterious Asami entered the grandmother's house. Somewhat unexpectedly, the neighbors shouted and tried to call the neighbors for help.
 
-அந்த பாட்டியின் சடலம், ஜூன் 27 ஆம் திகதி மீட்கப்பட்டது. பிரேத பரிசோதனைகள் ஜூன் 29ஆம் திகதியன்று மேற்கொள்ளப்பட்டது அதன்போதே, பாட்டியை பாலியல் துஷ்பிரயோகத்தக்கு முயற்சித்துள்ளமை தொடர்பிலான தடயங்கள் கிடைத்துள்ளன.
+However, the mysterious Asami shuts down the mouth of the grandmother to prevent the noise of the grandmother. At the time, the fake toothpaste from the gate went into the grandmother's throat.
 
-...
+However, the grandmother hung in the hands of the mysterious Asami who tightened his neck. Somewhat unexpectedly, he left and went into hiding.
+
+The body of the grandmother was recovered on June 27. The autopsy was carried out on June 29, and there were traces of the attempt to sexually abuse grandmother.
+
+Balangoda police said that efforts have been made to arrest the person involved in the incident.
+
+◼️
 
 [Data](articles/e7fd2d56.json)
+
+[Extended Data](ext_articles/e7fd2d56.ext.json)
 
 ---
 
@@ -204,19 +244,25 @@ Naula worked at Naula Police responsible for the incident. Senaka Ruwan Amarasin
 
 ---
 
-### සංශෝධනය වූ නව බස් ගාස්තු. වැඩියෙන් බස් ගාස්තු අය කරොත් 1955ට අමතන්න
+### New bus fares amended. If more bus fares charged in 1955
 
 *2024-07-01 15:52:09* · [`adalk`](https://www.ada.lk/breaking_news/සංශෝධනය-වූ-නව-බස්-ගාස්තු--වැඩියෙන්-බස්-ගාස්තු-අය-කරොත්-1955ට-අමතන්න/11-410543) · `si`
 
-වාර්ෂික බස් ගාස්තු සංශෝධනය අනුව 2024-.07-01 දින මධ්‍යම රාත්‍රිෙය් සිට මගී ප්‍රවාහනයේ යෙදෙන සියලුම බස්රථ සේවාවල බස් ගාස්තු සීයට පහයි දශම බිංදුවයි හතකින් (5.07/100) අඩු කරන ලදී.
+In 2024, Sri Lanka revised bus fares, reducing them by the amount overcharged since 1955. The NTC warned of legal action against overcharging. New rates apply to both state-run and private buses.
 
-මගීන්ගෙන් අයකළ යුතු නියමිත බස් ගාස්තුවට වඩා වැඩියෙන් බස් ගාස්තු අය කරන අය පිළිබඳව 1955 ක්ෂණික ඇමතුම් අංකය වෙත දැනුම් දීමෙන් නීත්‍යානුකූල පියවර ගැනීමට කටයුතු කරන බව ජාතික ගමනාගමන කොමිෂන් සභාව සඳහන් කරයි.
+🟩
 
-ඒ අනුව ශ්‍රී ලංකා ගමනා ගමන මණ්ඩලය හා පෞද්ගලික බස්රථ වල ක්‍රියාත්මක විය යුතු නව බස් ගාස්තු පහත පරිදි වේ.
+The annual bus fare revision was reduced by the bus fares of all bus fares to transport passengers from midnight on the middle of 2024 -20 days.
+
+The National Transport Commission (NTC) stated that legal action will be taken to take legal action on the 1955 hotline.
+
+Accordingly, the new bus fares to be operated in Sri Lanka Transport Board and private buses are as follows.
 
 ◼️
 
 [Data](articles/daaddfe3.json)
+
+[Extended Data](ext_articles/daaddfe3.ext.json)
 
 ---
 
@@ -1992,6 +2038,28 @@ Wickremesinghe said he may not be able to full details of the Paris Club and Chi
 
 ---
 
+### Sri Lanka President hopes for quick finish to ISB holder talks
+
+*2024-07-01 09:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-hopes-for-quick-finish-to-isb-holder-talks-170304/) · `en`
+
+ECONOMYNEXT – Sri Lanka is in discussions with sovereign bondholders hoping for a quick deal as early as next week, President Ranil Wickremesinghe has told a public rally.
+
+“Actually after we signed this (bilateral MOUs), the bondholders representatives started talking to us,” President Wickremesinghe told a rally in Matara on June 30.
+
+“I thought this may take a month. Up to now we have been discussing effectively. I expect by next week we will be able to successfully complete this.”
+
+“Then will have that agreement as well. So I told Harsha de Silva the chairman of Committee on Public Finance, let’s take all three agreements.”
+
+Wickremesinghe said he may not be able to full details of the Paris Club and China debt deals to the Parliament this week.
+
+“If we disclose two, then it will be a problem for private creditors,” he said.
+
+...
+
+[Data](articles/7eb5d9c1.json)
+
+---
+
 ### Sri Lanka rupee opens stronger at 305.95/306.25 to US dollar
 
 *2024-07-01 09:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-305-95-306-25-to-us-dollar-170306/) · `en`
@@ -2297,65 +2365,5 @@ Syinopec has also been amended to the company to operate from today.
 [Data](articles/1e8c762a.json)
 
 [Extended Data](ext_articles/1e8c762a.ext.json)
-
----
-
-### A red notice on the next 24 hours
-
-*2024-07-01 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198340) · `si`
-
-The Meteorological Department warns of strong winds and rough seas in the Arabian Sea, affecting the fishing and naval communities over the next 24 hours due to the active southwest monsoon. It also predicts showers or thundershowers in various regions, including the Western, Sabaragamuwa, North Western provinces, and specific districts like Ampara, Batticaloa, Trincomalee, Hambantota, and Moneragala, with wind speeds of 40-50 km/h.
-
-🟩
-
-The Meteorological Department has issued a warning red announcement of the strong winds and sea.
-
-Accordingly, the department is informed to care for the multi-day fishing and naval community in the Arabian sea.
-
-The active southwest monsoon weather may be very rough.
-
-Meanwhile, the Department of Meteorology states that several thin closed will occur in the Western, Sabaragamuwa and North Western provinces.
-
-Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The weather forecast statement contains 40-50 strong winds.
-
-◼️
-
-[Data](articles/ae18f982.json)
-
-[Extended Data](ext_articles/ae18f982.ext.json)
-
----
-
-### How should Sri Lanka leverage a new era in the UK?
-
-*2024-07-01 05:50:08* · [`dailyftlk`](https://www.ft.lk/columns/How-should-Sri-Lanka-leverage-a-new-era-in-the-UK/4-763705) · `en`
-
-Sri Lanka should advocate for genuine and impactful change from the next UK government while also striving for systemic change within its own country
-
-The anticipated victory of the Labour Party in the forthcoming general election in the United Kingdom presents a pivotal opportunity for political activists campaigning for a fairer and more sustainable Sri Lanka. This potential shift in power offers a chance to press for significant changes in the global economic order. For Sri Lanka to overcome its external debt crisis and economic difficulties, Labour’s commitment to strengthening and reforming multilateral institutions, tackling corruption and illicit money flows, and supporting the recovery of stolen assets is crucial.
-
-...
-
-[Data](articles/fcf1f2d7.json)
-
-[Extended Data](ext_articles/fcf1f2d7.ext.json)
-
----
-
-### Yes, it is $ 26 b in just 5 years
-
-*2024-07-01 05:47:27* · [`dailyftlk`](https://www.ft.lk/columns/Yes-it-is-26-b-in-just-5-years/4-763704) · `en`
-
-The table illustrates the accumulated foreign currency inflow gap for Sri Lanka over the past five years compared to 2018, the year before the COVID-19 pandemic and the Easter Sunday attacks. To emerge from the current crisis, it is crucial to strengthen and expand these verticals. According to the table, Sri Lanka has experienced a loss of about $ 26 billion over the past five years, compared to if it had maintained the same inflow numbers as in 2018 each year.
-
-The impact from tourism over the past five years amounts to approximately $ 13.9 billion. During this period, the industry was severely affected due to a global tourism slowdown. Consequently, we failed to maintain hotel standards even at their previous levels. This has resulted in poor conditions of the facilities, pressing room rates down compared to regional competitors.
-
-...
-
-[Data](articles/dfd23394.json)
-
-[Extended Data](ext_articles/dfd23394.ext.json)
 
 ---

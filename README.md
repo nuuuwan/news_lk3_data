@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 15:35:08**
+As of **2024-07-01 15:54:25**
 
 ## Newspaper Stats
 
-*Scraped **33,098** Articles*
+*Scraped **33,099** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,772
 tamilmirrorlk | 3,916
 dailymirrorlk | 4,733
 virakesarilk | 5,157
-adaderanasinhalalk | 5,470
+adaderanasinhalalk | 5,471
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,098 (100.0%) of 33,098 articles have been extended.
+33,098 (100.0%) of 33,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
+
+### ත්‍රස්ත ප්‍රහාර අවදානමක් - අමෙරිකානු හමුදා කඳවුරු සීරුවෙන්
+
+*2024-07-01 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198364) · `si`
+
+යුරෝපයේ පිහිටුවා ඇති අමෙරිකානු හමුදා කඳවුරු කිහිපයක් සීරුවෙන් තැබීමට අමෙරිකාව පියවර ගෙන තිබේ.
+
+එලෙස අනතුරු ඇඟවීම් නිකුත් කර ඇත්තේ ඒ වෙත ත්‍රස්ත ප්‍රහාරයක් එල්ල වීමට ඇති අවදානම සලකමිනි.
+
+මේ අනුව ඒවාට දෙවැනි මට්ටමේ අනතුරු ඇඟවීම් නිකුත් කර ඇති අතර එලෙස අනතුරු අඟවා ඇත්තේ වසර 10කට පමණ පසුවය.
+
+මෙලෙස අනතුරු ඇඟවීම් නිකුත් කළ හමුදා කඳවුරු අතරට ජර්මනියේ ශ්ටුට්ගාට් කඳවුර මෙන්ම ඉතාලියේ අවියානෝ ගුවන් හමුදා කඳවුර ද අයත් බව වැඩිදුරටත් සඳහන් වේ.
+
+◼️
+
+[Data](articles/0a3c3664.json)
+
+---
 
 ### President to condole in Sambandan
 
@@ -2199,27 +2217,5 @@ After being sworn in as a lawyer. Connectors worked in Trincomalee.
 [Data](articles/b10a069f.json)
 
 [Extended Data](ext_articles/b10a069f.ext.json)
-
----
-
-### Hardik Pandya's next captain of the Indian cricket team…?
-
-*2024-07-01 03:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/187347) · `ta`
-
-Despite initial criticism and social media roasts for leading Mumbai Indians to defeat themselves in the IPL, Hardik Pandya's exceptional performance in the T20 World Cup, including crucial contributions in both batting and bowling, has positioned him as a strong candidate for India's cricket captaincy. With senior players Rohit Sharma and Virat Kohli retiring from international T20s, Pandya's emergence offers a fresh perspective and potential leadership for the team. His strategic decisions, such as bowling the final over effectively in key matches, have showcased his capabilities beyond just being a player. Despite the challenges and criticism, Pandya remains focused on proving himself through his actions, indicating a promising future as India's cricket captain.
-
-🟩
-
-Fans have roasted him on social media that Mumbai Indians defeat Mumbai Indians in the IPL.. But in the second twenty -twenty -two World Series, his best batting bowling is now the reason for the Indian team to win the bowl.
-
-Rohit Sharma was the successful captain of the Mumbai Indians in the IPL series. He was the captain of the Mumbai Indians for ten years but also the winner of five times. But in the 2024 season, the team's administration lifted the post to Hardik Pandya.
-
-Mumbai Indians have not been able to achieve significant victories this time due to Pandya's indifferent body. Rohit Sharma's fans have roasted Pandya. Pandya insults Rohit at the stadium. Although Rohit Sharma was appointed as the Indian captain of the Twenty20 World Cup, Pandya's feature in the squad has caused severe criticism.. However, Pandya has responded to the criticism of her.
-
-...
-
-[Data](articles/907bc277.json)
-
-[Extended Data](ext_articles/907bc277.ext.json)
 
 ---

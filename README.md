@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 21:19:37**
+As of **2024-07-01 21:35:02**
 
 ## Newspaper Stats
 
-*Scraped **33,152** Articles*
+*Scraped **33,153** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,846
 economynextcom | 1,940
 dailyftlk | 2,036
 adalk | 2,944
-adaderanalk | 3,777
+adaderanalk | 3,778
 tamilmirrorlk | 3,923
 dailymirrorlk | 4,733
 virakesarilk | 5,177
@@ -26,29 +26,53 @@ adaderanasinhalalk | 5,483
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,151 (100.0%) of 33,152 articles have been extended.
+33,152 (100.0%) of 33,153 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### පළා ගිය රැඳවියන් දෙදෙනෙක් අත්අඩංගුවට
+### US Supreme Court rules Trump has immunity for official, not private acts
 
-*2024-07-01 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198377) · `si`
+*2024-07-01 21:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100225/us-supreme-court-rules-trump-has-immunity-for-official-not-private-acts) · `en`
 
-අධිකරණයෙන් සිරදඬුවම් හිමිවූ සැකකරුවන් දෙදෙනෙක් බන්ධනාගාර නිලධාරීන්ගෙන් මිදි පළාගොස් මොරගහහේන ප්‍රදේශයේ සැඟව සිටියදී පොලීසිය අත්අඩංගුවට ගෙන තිබේ.
+The U.S. Supreme Court found on Monday that Donald Trump cannot be prosecuted for official actions taken as president, but can for private acts, in a landmark ruling recognizing for the first time any form of presidential immunity from prosecution.
 
-සැකකරුවන් අත් මාංචු ද සමගින් සොරාගත් යතුරුපැදියකින් කිලෝමීටර් 65ක පමණ දුරක් පළාගොස් ඇති අතර කිලෝමීටර් 6ක් පමණ දුරක් ගංගාවක්ද තරණය කර කැලෑවක සැඟව සිටියදී පොලිස් නිලධාරීන් විසින් සොයාගෙන තිබුණි.
+The justices, in a 6-3 ruling written by Chief Justice John Roberts, threw out a lower court’s decision rejecting Trump’s claim of immunity from criminal charges involving his efforts to undo his 2020 election loss to Joe Biden. The six conservative justices were in the majority. Its three liberals dissented.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ ගෝනුපල, ඔලබොඩුව හන්දිය, ජාතික තරුණ සේවා මාවතේ පදිංචි රොෂාන් අසංක නොහොත් "සුද්දා" නමැති 29 හැවිරිදි රැඳවියෙකි.
-
-අනෙක් රඳවියා කෑගල්ල කොට්ඨාස අපරාධ විමර්ශන අංශය ඊයේ (30) අත්අඩංගුවට ගෙන තිබුණි.
-
-වරකාපොළ, පොලිස් බලප්‍රදේශයේ යතුරුපැදි සොරකම් සම්බන්ධයෙන් වරකපොළ පොලීසිය මගින් අත්අඩංගුවට ගෙන වරකාපොළ තුල්හිරිය මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව ඔහුව බන්ධනාගාරගත කර තිබුණි.
+“We conclude that under our constitutional structure of separated powers, the nature of presidential power requires that former president have some immunity from criminal prosecution for official acts during his tenure in office,” Roberts wrote.
 
 ...
 
+[Data](articles/30f4be77.json)
+
+---
+
+### Two suspects arrested
+
+*2024-07-01 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198377) · `si`
+
+Two prisoners, including one named Roshan Asakanka alias Awaitan, escaped from Kuruwita Prison and were later captured in the Moragahahena area. They had stolen a motorcycle and were hiding in a forest. Arrested by prison officials and the Test House in Warakapola, they were brought before the Tilhiriya Magistrate Court.
+
+🟩
+
+Two suspects who were imprisoned by the court were arrested by the prison officials and were hiding in the Moragahahena area.
+
+The suspects have fled the motorbike with a stolen motorcycle with a stolen motorcycle and the police were found in a jungle while he was hiding at a forest.
+
+The suspect was arrested for Roshan Asakanka alias Awaitan, Nava, "Suddha".
+
+The other Divisional Secretariat Investigation Division was arrested yesterday.
+
+He was arrested by the Test House in the Warakapola, Police area and were produced before the Tilhiriya Magistrate Court about the motorcycle vessels.
+
+The two inmates fled the prison officials when the two inmates were taken from the Kuruwita Prison in Kuruwita Magistrate's Court to restore the two inmates on the 28th.
+
+◼️
+
 [Data](articles/1f8f1dbf.json)
+
+[Extended Data](ext_articles/1f8f1dbf.ext.json)
 
 ---
 
@@ -2387,25 +2411,5 @@ Around 100 people were celebrating at Eden Palace when the gunmen arrived at the
 [Data](articles/0741cc9b.json)
 
 [Extended Data](ext_articles/0741cc9b.ext.json)
-
----
-
-### Train on train at Dematagoda
-
-*2024-07-01 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/187352) · `ta`
-
-A train from Colombo Fort Railway Station was attacked with stones on Sunday evening, damaging its air conditioning and doors. Most passengers were onboard during the incident.
-
-🟩
-
-A train from the Colombo Fort Railway Station at around 6.40 pm on Sunday (30) at around 6.40 pm.
-
-Most of the passengers were traveling on the train, and the train's air and door were damaged by the stone blowing attack.
-
-◼️
-
-[Data](articles/7a5be03f.json)
-
-[Extended Data](ext_articles/7a5be03f.ext.json)
 
 ---

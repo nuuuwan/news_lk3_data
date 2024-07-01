@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 11:19:36**
+As of **2024-07-01 11:35:09**
 
 ## Newspaper Stats
 
-*Scraped **33,051** Articles*
+*Scraped **33,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 302
 colombotelegraphcom | 302
 bbccomsinhala | 323
 newsfirstlk | 363
-islandlk | 1,845
+islandlk | 1,846
 economynextcom | 1,929
 dailyftlk | 2,036
 adalk | 2,937
@@ -20,43 +20,89 @@ adaderanalk | 3,766
 tamilmirrorlk | 3,911
 dailymirrorlk | 4,733
 virakesarilk | 5,146
-adaderanasinhalalk | 5,458
+adaderanasinhalalk | 5,459
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,041 (100.0%) of 33,051 articles have been extended.
+33,051 (100.0%) of 33,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### சம்பந்தனின் மறைவிற்கு இந்தியப் பிரதமர் மோடி இரங்கல்
+### ප්‍රංශයේ අධිවේගයට කඩා වැටුණු ගුවන් යානය
+
+*2024-07-01 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198352) · `si`
+
+ප්‍රංශයේ අධිවේගී මාර්ගයකට සැහැල්ලු ගුවන් යානයක් කඩා වැටීමෙන් පුද්ගලයින් තිදෙනෙකු මියගොස් තිබේ.
+
+ප්‍රංශයේ පැරිස් නුවර සිට කිලෝමීටර් 30ක පමණ දුරින් යුත් ප්‍රදේශයකට එම ගුවන් යානය කඩා වැටී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ගුවන් යානය කඩා වැටීමත් සමග අදාළ අධිවේගී මාර්ගයේ වාහන ගමනාගමන කටයුතු ද ඇණහිට ඇති බව සඳහන් වේ.
+
+කෙසේවෙතත් ගුවන් යානය කුමන හේතුවක් මත කඩා වැටී ඇත් ද යන්න සම්බන්ධයෙන් මෙතෙක් තොරතුරු වාර්තා වී නොමැති බව විදෙස් මාධ්‍ය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/9042572c.json)
+
+---
+
+### Politics and the Plantation Wage
+
+*2024-07-01 11:00:00* · [`islandlk`](http://island.lk/politics-and-the-plantation-wage/) · `en`
+
+President Ranil Wickremesinghe chose the Ceylon Workers’ Congress May Day platform, in Kotagala, to announce the increase of the plantation workers’ daily wage to Rs 1,700.00. An unexpected presidential fiat, delivered just a few months before a possible election by a potential presidential candidate, was made public from the political platform of a major plantation trade union, generally seen as pro-government. The self-evident political implications do not merit either debate or elaboration.
+
+In a rational world, in any industry, the employer and the employee should arrive at a fair wage through a consultative process. The unsolicited intervention of a third force with an agenda unrelated to the interests of either party, is undesirable from all points of view. Still, there are precedents, when sitting presidents have mandated wage increases in the plantation sector, for patently political reasons, ignoring the possible toxic economic consequences.
+
+...
+
+[Data](articles/f90ce7e6.json)
+
+[Extended Data](ext_articles/f90ce7e6.ext.json)
+
+---
+
+### Indian Prime Minister Modi condoles the demise of Sambandan
 
 *2024-07-01 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/187360) · `ta`
 
-இலங்கைத் தமிழரசுக்கட்சியின் சிரேஷ்ட தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இராஜவரோதயம் சம்பந்தனின் மறைவிற்கு இந்திய பிரதமர் நரேந்தி மோடி இரங்கல் தெரிவித்துள்ளார்.
+Indian PM Modi mourns the passing of Sri Lankan Tamil leader Rajavarodayam Sambandan, expressing sympathy to his family and admiring his commitment to peace, security, and justice for Tamils in Sri Lanka.
 
-தமிழ்த் தேசியக் கூட்டமைப்பின் மூத்த தலைவர் ஆர்.சம்பந்தனின் குடும்பத்தினருக்கும் நண்பர்களுக்கும் எனது ஆழ்ந்த அனுதாபங்கள். அவருடனான சந்திப்புகளின் இனிய நினைவுகள் எப்போதும் போற்றத்தக்கது. இலங்கையில் வாழும் தமிழர்களுக்கு அமைதி, பாதுகாப்பு, சமத்துவம், நீதி மற்றும் கண்ணியம் போன்ற வாழ்க்கையை அவர் இடைவிடாமல் பின் தொடர்ந்தார். இலங்கையிலும் இந்தியாவிலும் உள்ள அவரது நண்பர்கள் மற்றும் அவரை பின்பற்றுபவர்களுக்கு இது ஒரு பெரும் இழப்பு என பதிவிட்டுள்ளார்.
+🟩
+
+Indian Prime Minister Narendi Modi has condoled the death of Senior Leader of the Sri Lankan Tamil party and Trincomalee district parliamentarian Rajavarodayam Sambandan.
+
+My deepest sympathies to the family and friends of R. Sampanthan, senior leader of the Tamil National Alliance. Happy memories of meetings with him are always admirable. He followed the life of peace, security, equality, justice and dignity for Tamils ​​living in Sri Lanka. This is a huge loss for his friends and his followers in Sri Lanka and India.
 
 ◼️
 
 [Data](articles/6376d605.json)
 
+[Extended Data](ext_articles/6376d605.ext.json)
+
 ---
 
-### யாழில் விபத்தில் சிக்கிய வைத்தியர் படுகாயம்!
+### Doctor injured in accident in Jaffna
 
 *2024-07-01 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/187356) · `ta`
 
-யாழ்ப்பாணம், சாவகச்சேரி பொலிஸ் பிரிவிற்குட்பட்ட ஏ-9 வீதியில் இன்று திங்கட்கிழமை (01) காலை இடம்பெற்ற விபத்தில் வைத்தியர் ஒருவரும், மோட்டார் சைக்கிளில் பயணித்த நபர் ஒருவரும் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+In Jaffna, a doctor and a motorcyclist were hospitalized after a crash on the A-9 road. The incident occurred on Monday, leaving both with injuries.
 
-இதன்போது, இருவரும் படுகாயம் அடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றனர்.
+🟩
+
+A doctor and a motorcycle passengers have been admitted to hospital after being injured in an accident which took place on Monday (01) on the A-9 road in the Jaffna and Chavakachcheri police division.
+
+During this time, the two have been admitted to the hospital with injuries.
 
 ◼️
 
 [Data](articles/f4b370e6.json)
+
+[Extended Data](ext_articles/f4b370e6.ext.json)
 
 ---
 
@@ -102,55 +148,75 @@ Accordingly, Senior Additional Solicitor General Parinda Ranasinghe, who is the 
 
 ---
 
-### 25 தமிழக மீனவர்கள் கைது
+### 25 Tamil Nadu fishermen arrested
 
 *2024-07-01 10:39:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/25-தமிழக-மீனவர்கள்-கைது/175-339687) · `ta`
 
-இலங்கை கடற்பரப்பில் அத்துமீறி நுழைந்து மீன் பிடித்த குற்றச்சாட்டில் 25 தமிழக கடற்தொழிலாளர்கள்  திங்கட்கிழமை (01) அதிகாலை கைது செய்யப்பட்டுள்ளனர்.
+25 Tamil Nadu fishermen were arrested early Monday for fishing in Sri Lankan waters near Jaffna Neduntivu Sea. Their 4 boats were seized. The Department of Fisheries and Aquatic Resources will represent them in court after investigation.
 
-யாழ்ப்பாணம் நெடுந்தீவு கடற்பரப்பில் மீன்பிடித்துக் கொண்டிருந்த வேளையே அவர்கள் கைது செய்யப்பட்டதுடன் , அவர்களின் 4 படகுகளையும் கடற்படையினர் கைப்பற்றியுள்ளனர்.
+🟩
 
-கைதான கடற்தொழிலாளர்கள் மயிலிட்டி மீன்பிடி துறைமுகத்திற்கு அழைத்துச் சொல்லப்பட்டுள்ள நிலையில் விசாரணைகளின் பின்னர் கடற்றொழில் நீரியல்வளத்துறை திணைக்களத்தினரினர் ஊடாக ஊர்காவற்றுறை நீதிமன்றத்தில் முற்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+25 Tamil Nadu fishermen have been arrested in the early hours of Monday (01) on charges of fishing in the Sri Lankan waters.
+
+They were arrested while fishing in the Jaffna Neduntivu Sea and the Navy seized their 4 boats.
+
+Steps have been taken to appear at the Kayts Court by the Department of Fisheries and Aquatic Resources after investigations.
 
 ◼️
 
 [Data](articles/6d83a3d5.json)
 
+[Extended Data](ext_articles/6d83a3d5.ext.json)
+
 ---
 
-### பேருந்து விபத்தில் 20 பேர் காயம்
+### 20 people injured in bus accident
 
 *2024-07-01 10:32:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பேருந்து-விபத்தில்-20-பேர்-காயம்/76-339685) · `ta`
 
-கொழும்பு - கண்டி வீதியில் , வெவெல்தெனிய தேவாலயத்திற்கு அருகிலுள்ள வளைவில், இ . போ. சபைக்கு சொந்தமான பேருந்து மற்றும் தனியார் பேருந்தொன்று நேருக்கு நேர் மோதி விபத்துக்குள்ளானதில் இருபதுக்கும் மேற்பட்டோர் காயமடைந்த நிலையில் வட்டுபிட்டிவல மற்றும் வரக்காபொல வைத்தியசாலைகளில் அனுமதிக்கப்பட்டுள்ளதாக தங்கொவிட்ட பொலிஸார் தெரிவிக்கின்றனர்.
+In a tragic accident on the Colombo-Kandy Road near Weldeniya church, a bus and a private bus collided head-on, injuring over twenty passengers. The buses were traveling from Panadura to Kandy and Colonpindunuwei to Colombo respectively. Both drivers were hurt, and one allegedly fled the scene. Traffic was disrupted for an hour due to the incident.
 
-பாணந்துறையில் இருந்து கண்டி நோக்கி பயணித்த உடஹமுல்ல டிப்போவிற்கு சொந்தமான பேருந்து ஒன்றும், கலென்பிந்துனுவெவயில் இருந்து கொழும்பு நோக்கி பயணித்த தனியார் பெருந்தொன்றுமே இவ்வாறு விபத்துக்குள்ளாகியது .
+🟩
 
-இரண்டு பேரூந்துகளின் சாரதிகளும் காயமடைந்துள்ளதாக தெரியவந்துள்ளதுடன், விபத்தின் பின்னர் சாரதி ஒருவர் தப்பி ஓடியதாக கிடைக்கப்பெற்ற தகவல் தொடர்பில் விசாரணைகளை மேற்கொண்டு வருவதாக பொலிஸார் தெரிவித்தனர்.
+On the ramp near the Weldeniya church on Colombo - Kandy Road,. Go on.More than twenty people have been admitted to Vadupitivala and Warakapola hospitals after a bus and private bus collided head -on.
 
-இந்த விபத்து காரணமாக கொழும்பு - கண்டி பிரதான வீதியில் சுமார் ஒரு மணித்தியாலம் வரை போக்குவரத்து தடைப்பட்டிருந்தமை குறிப்பிடத்தக்கது .
+A bus belonging to the Udhamulla Depot, who was traveling from Panadura to Kandy, and a privately traveling from Colonpindunuwei to Colombo.
+
+The drivers of the two buses were reportedly injured and the police said they were investigating information that a driver had fled after the accident.
+
+Due to this accident, traffic was blocked for about an hour on the Colombo -Kandy main road.
 
 ◼️
 
 [Data](articles/0fe40e3f.json)
 
+[Extended Data](ext_articles/0fe40e3f.ext.json)
+
 ---
 
-### சம்பந்தனின் மறைவுக்கு அரசியல்வாதிகள், பிரமுகர்கள் இரங்கல் !
+### Politicians and dignitaries condole the demise of Sambandan!
 
 *2024-07-01 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187353) · `ta`
 
-இலங்கைத் தமிழரசுக்கட்சியின் சிரேஷ்ட தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இராஜவரோதயம் சம்பந்தன் 30 ஆம் திகதி ஞாயிற்றுக்கிழமை தனது 91 ஆவது வயதில் காலமானார்.
+Rajavarodayam Sambandan, a senior leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian, passed away at 91. Politicians and dignitaries mourned his loss, highlighting his dedication to equality and democracy in Sri Lanka. His legacy of fair leadership and commitment to peace and harmony is remembered fondly.
 
-உடல்நலம் பாதிக்கப்பட்ட நிலையில் கொழும்பில் உள்ள தனியார் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்றுவந்த நிலையில், அவர் உயிரிழந்ததாக குடும்பத்தினர் உறுதிப்படுத்தினர்.
+🟩
 
-1933ஆம் ஆண்டு பெப்ரவரி மாதம் 5 ஆம் திகதி பிறந்த சம்பந்தன் இயற்கை எய்தும் போது  அவருக்கு 91வயதாகும்.
+Senior Leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian Rajavarodayam Sambandan passed away on Sunday, 30th, at the age of 91.
 
-இந்நிலையில், மூத்த அரசியல்வாதியான இரா. சம்பந்தனின் மறைவுக்கு அரசியல்வாதிகள், பிரமுகர்கள் உள்ளிட்ட பலர் இரங்கல் தெரிவித்துள்ளனர்.
+The family confirmed that he died after being admitted to a private hospital in Colombo.
+
+Born on February 5, 1933, he was 91 years old when Sampanthan came to nature.
+
+In this case, the senior politician. Many politicians and dignitaries have condoled the demise of Sambandan.
+
+Today, we express deep sympathy for Mr. Sambandan, who served Sri Lanka for more than half a century. His commitment to grant equal rights to all Sri Lankans is the lighthouse of hope. His honest and fair leadership will continue to encourage me and others. In fact, opposition leader Sajith Premadasa said in a condolence message that this refers to the end of an era.
 
 ...
 
 [Data](articles/74490b12.json)
+
+[Extended Data](ext_articles/74490b12.ext.json)
 
 ---
 
@@ -178,31 +244,43 @@ Around 100 people were celebrating at Eden Palace when the gunmen arrived at the
 
 ---
 
-### தெமட்டகொடையில் ரயில் மீது கல்வீச்சு !
+### Train on train at Dematagoda
 
 *2024-07-01 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/187352) · `ta`
 
-கொழும்பு கோட்டை ரயில் நிலையத்தில் இருந்து நேற்று ஞாயிற்றுக்கிழமை (30) மாலை  6.40  மணியளவில் ரம்புக்கனை  நோக்கி பயணித்த  ரயிலின்  மீது தெமட்டகொடை பகுதியில் வைத்து கல் வீச்சுத் தாக்குதல் இடம்பெற்றுள்ளது.
+A train from Colombo Fort Railway Station was attacked with stones on Sunday evening, damaging its air conditioning and doors. Most passengers were onboard during the incident.
 
-ரயிலில் அதிக பயணிகள் பயணித்துக் கொண்டிருந்ததோடு, கல் வீச்சுத் தாக்குதலினால் ரயிலின் யன்னல் மற்றும் கதவு சேதமடைந்துள்ளன.
+🟩
+
+A train from the Colombo Fort Railway Station at around 6.40 pm on Sunday (30) at around 6.40 pm.
+
+Most of the passengers were traveling on the train, and the train's air and door were damaged by the stone blowing attack.
 
 ◼️
 
 [Data](articles/7a5be03f.json)
 
+[Extended Data](ext_articles/7a5be03f.ext.json)
+
 ---
 
-### වේවැල්දෙණිය ප්‍රදේශයේ බස් රථ අනතුරක්
+### Bus accident in Weweldeniya
 
 *2024-07-01 10:14:52* · [`adalk`](https://www.ada.lk/breaking_news/වේවැල්දෙණිය-ප්‍රදේශයේ-බස්-රථ-අනතුරක්/11-410537) · `si`
 
-කොළඹ - නුවර ප්‍රධාන මාර්ගයේ වේවැල්දෙණිය ප්‍රදේශයේ දී ලංගම බස් රථයක් සහ පෞද්ගලික බස් රථයක් එකිනෙක ගැටී පුද්ගලයින් 15 දෙනෙකු තුවාල ලබා ඇති බව පොලීසිය පවසයි.
+In Weweldeniya, a collision between a SLTB bus and a private bus resulted in 15 injuries. Victims are hospitalized at Wathupitiwala and Warakapola hospitals.
 
-අනතුරින් තුවාල ලැබූ පුද්ගලයින් මේ වනවිට වතුපිටිවල සහ වරකාපොළ රෝහල්වලට ප්‍රතිකාර සඳහා ඇතුළත් කර තිබේ.
+🟩
+
+A SLTB bus and a private bus collided in the Weweldeniya area on the Colombo-Kandy main road and 15 people were injured.
+
+The injured have been admitted to Wathupitiwala and Warakapola hospitals.
 
 ◼️
 
 [Data](articles/f3cc1392.json)
+
+[Extended Data](ext_articles/f3cc1392.ext.json)
 
 ---
 
@@ -442,19 +520,25 @@ The injured individuals have been admitted to Wathupitiwala and Warakapola hospi
 
 ---
 
-### களுத்துறையில் வேன் - கார் மோதி விபத்து ; தாய், தந்தை மற்றும் 6 மாத குழந்தை காயம்
+### Van in Kalutara - Car collisionMother, father and 6 -month -old baby hurt
 
 *2024-07-01 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/187351) · `ta`
 
-களுத்துறை - பண்டாரகம வீதியின் கோனடுவ பகுதியில் வேன் ஒன்றும் கார் ஒன்றும் மோதி நேற்று ஞாயிற்றுக்கிழமை (30) விபத்துக்குள்ளாகியுள்ளன.
+In a crash near Kalutara-Bandaragama, a van collided with a car, injuring a family of three including a 6-month-old baby. The car's driver fled the scene, leading to ongoing police investigations.
 
-இந்த விபத்தில் வேனில் பயணித்த தாய், தந்தை மற்றும் 6 மாத குழந்தை காயமடைந்துள்ளனர்.
+🟩
 
-விபத்தினை அடுத்து கார் சாரதி தப்பியோடியுள்ள நிலையில் மேலதிக விசாரணைகளை பொலிஸார் முன்னெடுத்துள்ளனர்.
+A van and a car crashed into the Konaduwa area of ​​Kalutara - Bandaragama road on Sunday (30).
+
+The mother, father and 6 -month -old baby who was traveling in the van were injured in the accident.
+
+Further investigations are being carried out by the police as the driver of the car has fled after the accident.
 
 ◼️
 
 [Data](articles/019d5e46.json)
+
+[Extended Data](ext_articles/019d5e46.ext.json)
 
 ---
 
@@ -520,25 +604,31 @@ Strong winds of about 40-50kmph can be expected at times over the Western slopes
 
 ---
 
-### பிரான்சில் தேர்தல் முடிவுகளை தொடர்ந்து வன்முறை – வர்த்தக நிலையங்கள் வாகனங்கள் தீக்கிரை
+### Violence following election results in France
 
 *2024-07-01 08:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187350) · `ta`
 
-பிரான்ஸ் நாடாளுமன்ற தேர்தலில் தீவிரவலதுசாரி கட்சி முன்னிலை பெற்றதை தொடர்ந்து அதனை எதிர்க்கும் தரப்பினர் தலைநகர் பரிசில் கடும் ஆர்ப்பாட்டங்களில் ஈடுபட்;டுள்ளனர்.
+In France's parliamentary elections, the far-right RN party leads with 33% of the vote, followed by the Left with 28%, and President Macron's coalition with 21%. The elections have sparked protests from opposition parties. This marks the first time a party leader, Jordan Bardella of the RN, has publicly expressed readiness to become prime minister.
 
-பிரான்ஸ் நாடாளுமன்ற தேர்தலில் தீவிரவலதுசாரிகள் முன்னிலைபெற்றுள்ள அதேவேளை தற்போதைய ஜனாதிபதி இமானுவேல் மக்ரோனின் கட்சி மூன்றாவது இடத்திற்கு தள்ளப்பட்டுள்ளது.
+🟩
 
-குடியேற்றவாசிகளிற்கு எதிரான ஆர்என் கட்சி 33 வீத வாக்குகளை பெற்றுள்ள அதேவேளை இடதுசாரிகூட்டணி 28 வீத வாக்குகளை பெற்றுள்ளது.
+Following the racist party in the French parliamentary elections, the opposition parties have been involved in heavy demonstrations in the capital.
 
-ஜனாதிபதி இமானுவேல் மக்ரோனின் கூட்டணிக்கு 21 வீத வாக்குகள் கிடைத்துள்ளதாக பிரான்ஸ் ஊடகங்கள் தெரிவிக்கின்றன.
+While the radicals are leading the French parliamentary elections, the current President Emanuel Macron's party has been relegated to third place.
 
-பிரான்ஸ் மக்கள் வாக்களித்தால் நான்; அனைத்துபிரான்ஸ் மக்களினதும் பிரதமராக தயார் என ஆர்என் கட்சி தலைவர் ஜோர்டன் பர்டெல்லா தெரிவித்துள்ளார்.
+The RN party has received 33 percent of the vote against the immigrants and the Left has received 28 percent of the vote.
 
-பிரான்ஸ் நாடாளுமன்ற தேர்தலின் முதல் சுற்றில் தீவிரவலதுசாரிகள் வெற்றிபெற்றுள்ளமை அதன் வரலாற்றில் இதுவே முதல்தடவை என்பது குறிப்பிடத்தக்கது.
+French media reports that President Emanuel Macron's coalition received 21 percent of the vote.
+
+If the people of France vote;RN Party leader Jordan Bardella said he was ready to be the prime minister of all the people.
+
+It is the first time in the history of the French parliamentary elections.
 
 ◼️
 
 [Data](articles/6baacc52.json)
+
+[Extended Data](ext_articles/6baacc52.ext.json)
 
 ---
 
@@ -560,23 +650,29 @@ Five people have lost their lives in several accidents yesterday (30).
 
 ---
 
-### பிரான்ஸ் நாடாளுமன்ற தேர்தல் - தீவிரவலதுசாரிகள் முன்னிலையில்
+### French parliamentary election - in the presence of radicals
 
 *2024-07-01 08:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/187349) · `ta`
 
-பிரான்ஸ் நாடாளுமன்ற தேர்தலில் தீவிரவலதுசாரிகள் முன்னிலைபெற்றுள்ள அதேவேளை தற்போதைய ஜனாதிபதி இமானுவேல் மக்ரோனின் கட்சி மூன்றாவது இடத்திற்கு தள்ளப்பட்டுள்ளது.
+In the French parliamentary elections, radicals lead with the RN party at 33%, followed by the Left at 28%. President Macron's coalition trails with 21%. This marks the first time a party leader, Jordan Bardella from the RN party, has expressed readiness to become prime minister, indicating a significant shift in French politics.
 
-குடியேற்றவாசிகளிற்கு எதிரான ஆர்என் கட்சி 33 வீத வாக்குகளை பெற்றுள்ள அதேவேளை இடதுசாரிகூட்டணி 28 வீத வாக்குகளை பெற்றுள்ளது.
+🟩
 
-ஜனாதிபதி இமானுவேல் மக்ரோனின் கூட்டணிக்கு 21 வீத வாக்குகள் கிடைத்துள்ளதாக பிரான்ஸ் ஊடகங்கள் தெரிவிக்கின்றன.
+While the radicals are leading the French parliamentary elections, the current President Emanuel Macron's party has been relegated to third place.
 
-பிரான்ஸ் மக்கள் வாக்களித்தால் நான்; அனைத்துபிரான்ஸ் மக்களினதும் பிரதமராக தயார் என ஆர்என் கட்சி தலைவர் ஜோர்டன் பர்டெல்லா தெரிவித்துள்ளார்.
+The RN party has received 33 percent of the vote against the immigrants and the Left has received 28 percent of the vote.
 
-பிரான்ஸ் நாடாளுமன்ற தேர்தலின் முதல் சுற்றில் தீவிரவலதுசாரிகள் வெற்றிபெற்றுள்ளமை அதன் வரலாற்றில் இதுவே முதல்தடவை என்பது குறிப்பிடத்தக்கது.
+French media reports that President Emanuel Macron's coalition received 21 percent of the vote.
+
+If the people of France vote;RN Party leader Jordan Bardella said he was ready to be the prime minister of all the people.
+
+It is the first time in the history of the French parliamentary elections.
 
 ◼️
 
 [Data](articles/e36bb197.json)
+
+[Extended Data](ext_articles/e36bb197.ext.json)
 
 ---
 
@@ -2087,53 +2183,5 @@ Minister of Power and Energy Kanchana Wijesekara said that President Ranil Wickr
 [Data](articles/44991fdc.json)
 
 [Extended Data](ext_articles/44991fdc.ext.json)
-
----
-
-### Driver intoxicated: The train in between
-
-*2024-06-30 19:59:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-போதையில்-இடையில்-ரயில்/175-339662) · `ta`
-
-This morning, a train from Colombo to Kandy was delayed due to its drunk driver, who left at 10.40 AM. The train stopped at Suduhumbola, where the driver abandoned it. Passengers chased him, eventually getting the train back on track to reach Kandy Station.
-
-🟩
-
-From Colombo to Kandy this morning. The driver of the train, who left 10.40, was drunk.
-
-The train stopped at Suduhumbola near Kandy and fled the train.
-
-The passengers on the train followed the train driver. Subsequently they arranged the train to run the Kandy Station
-
-◼️
-
-[Data](articles/b8ecc08d.json)
-
-[Extended Data](ext_articles/b8ecc08d.ext.json)
-
----
-
-### Three persons arrested for stealing gold jewelery
-
-*2024-06-30 19:53:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்து-தங்க-நகைகளை-திருடிவந்த-மூவர்-கைது/175-339661) · `ta`
-
-In the North Western Province, Puttalam police arrested three individuals for stealing over 2.5 crore worth of gold jewelry from homes and businesses in areas like Nauraicholai, Nagollagama, Thoradiyawa, Thedikama, and Koswatta. The suspects' interrogation led to the recovery of the stolen items from pawn shops in Kandy, Kurunegala, Katugastota, and Kegalle.
-
-🟩
-
-Puttalam police said that three persons have been arrested in various parts of the North Western Province with gold jewelery allegedly robbed at homes and businesses.
-
-Investigations have revealed that the arrested suspects have robbed gold jewelery at homes and businesses in the areas of Nauraicholai, Nagollagama, Thoradiyawa, Thedikama and Koswatta.
-
-The gold jewelery seized from the suspects is worth more than 2 crore 50 lakhs, police said.
-
-Information about the gold jewelery has been revealed when the suspects were detained and interrogated by the court order.
-
-The robbery has been recovered at the pawn shops in Kandy, Kurunegala, Katugastota and Kegalle.. Remble
-
-◼️
-
-[Data](articles/9b65c398.json)
-
-[Extended Data](ext_articles/9b65c398.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 09:19:54**
+As of **2024-07-01 09:34:53**
 
 ## Newspaper Stats
 
-*Scraped **33,021** Articles*
+*Scraped **33,023** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 islandlk | 1,845
 economynextcom | 1,929
 dailyftlk | 2,035
-adalk | 2,932
+adalk | 2,933
 adaderanalk | 3,761
 tamilmirrorlk | 3,905
 dailymirrorlk | 4,733
 virakesarilk | 5,139
-adaderanasinhalalk | 5,453
+adaderanasinhalalk | 5,454
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,021 (100.0%) of 33,021 articles have been extended.
+33,021 (100.0%) of 33,023 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,22 @@ Additionally, they are requested to stay attentive to future forecasts issued by
 [Data](articles/62f8c25b.json)
 
 [Extended Data](ext_articles/62f8c25b.ext.json)
+
+---
+
+### බස් දෙකක් එකිනෙක ගැටී 15කට තුවාල
+
+*2024-07-01 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198346) · `si`
+
+කොළඹ - නුවර ප්‍රධාන මාර්ගයේ වේවැල්දෙණිය ප්‍රදේශයේ දී ලංගම බස් රථයක් සහ පෞද්ගලික බස් රථයක් එකිනෙක ගැටී අනතුරක් සිදුව ඇත.
+
+අනතුරින් පුද්ගලයින් 15 දෙනෙකු තුවාල ලබා ඇති බව පොලීසිය පවසයි.
+
+තුවාලකරුවන් මේ වනවිට වතුපිටිවල සහ වරකාපොළ රෝහල්වලට ප්‍රතිකාර සඳහා ඇතුළත් කර තිබේ.
+
+◼️
+
+[Data](articles/5a16a011.json)
 
 ---
 
@@ -1194,26 +1210,6 @@ The fishermen have been drinking as a liquid in a bottle of a bottle floating in
 
 ---
 
-### Sri Lanka Presidential election date can be told after July 17: Commissioner Gen
-
-*2024-06-30 22:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-election-date-can-be-told-after-july-17-commissioner-gen-170284/) · `en`
-
-ECONOMYNEXT  – Sri Lanka’s Elections Commission will get powers under the Constitution to set a date for the next Presidential elections from July 17 onwards, Commissioner General Saman Sri Ratnayake has said.
-
-“According to the Constitution and the law, the Presidential Elections has be held in between one month before November 18 and two months after,” Ratnayake told reporters.
-
-“So if we work backwards, most likely about July 17 – that is the closest date – the Commission gets the power to make the announcement.”
-
-He said the electors list is now being finalized. (Colombo/June30/2024)
-
-◼️
-
-[Data](articles/56921db6.json)
-
-[Extended Data](ext_articles/56921db6.ext.json)
-
----
-
 ### Fuel prices reduced
 
 *2024-06-30 21:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100203/fuel-prices-reduced) · `en`
@@ -1382,6 +1378,26 @@ When they were facing unexpected, the fishing vessel was sailing from 365 nautic
 
 ---
 
+### Sri Lanka budget deficit implodes 56-pct to April 2024, interest bill eases
+
+*2024-06-30 20:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-implodes-56-pct-to-april-2024-interest-bill-eases-170246/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s budget deficit has collapsed to 361 billion rupees up to April 2024 from 824.2 helped by higher tax revenues and a falling interest bill, official data show.
+
+Revenues surged 48 percent to 1,216 billion rupees to April 2024, ahead of the 35 percent annual growth projected in a budget, with higher value added and income tax rates as well as economic activity recovering close to previous levels.
+
+Sri Lanka is emerging from the worst case of ‘policy support’ deployed by macroeconomists since the central bank was set up in 1950 where the usual inflationary rate cuts which trigger currency crises and IMF programs, was also backed up tax cuts.
+
+Giving policy support and denying monetary stability has become mainstream in the age of inflation and ‘age of external defaults without a war’ due to so-called Saltwater-Cambridge doctrine, critics say.
+
+...
+
+[Data](articles/b06e40f9.json)
+
+[Extended Data](ext_articles/b06e40f9.ext.json)
+
+---
+
 ### We will form a powerful alliance in the history of the country in a few days - Ranjith Mathuma Bandara
 
 *2024-06-30 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187338) · `ta`
@@ -1431,6 +1447,26 @@ Addressing the crowd, President Ranil Wickremesinghe further added:
 [Data](articles/cee71c52.json)
 
 [Extended Data](ext_articles/cee71c52.ext.json)
+
+---
+
+### Sri Lanka Presidential election date can be told after July 17: Commissioner Gen
+
+*2024-06-30 20:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-election-date-can-be-told-after-july-17-commissioner-gen-170284/) · `en`
+
+ECONOMYNEXT  – Sri Lanka’s Elections Commission will get powers under the Constitution to set a date for the next Presidential elections from July 17 onwards, Commissioner General Saman Sri Ratnayake has said.
+
+“According to the Constitution and the law, the Presidential Elections has be held in between one month before November 18 and two months after,” Ratnayake told reporters.
+
+“So if we work backwards, most likely about July 17 – that is the closest date – the Commission gets the power to make the announcement.”
+
+He said the electors list is now being finalized. (Colombo/June30/2024)
+
+◼️
+
+[Data](articles/56921db6.json)
+
+[Extended Data](ext_articles/56921db6.ext.json)
 
 ---
 
@@ -1569,6 +1605,22 @@ Trained as a lawyer, he based his arguments for a political solution on Sri Lank
 [Data](articles/4d79b1e1.json)
 
 [Extended Data](ext_articles/4d79b1e1.ext.json)
+
+---
+
+### ඩයනාට එරෙහිව අල්ලස් කොමිෂමෙන් විමර්ශනයක්
+
+*2024-06-30 19:38:20* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාට-එරෙහිව-අල්ලස්-කොමිෂමෙන්-විමර්ශනයක්/11-410527) · `si`
+
+ශ්‍රී ලංකාවේ පුරවැසියකු නොවන බව දනිමින්ම පාර්ලිමෙන්තු මන්ත්‍රීවරියක හා රාජ්‍ය අමාත්‍යවරියක වශයෙන් වසර 04කට ආසන්න කාලයක් කටයුතු කිරීමෙන් රාජ්‍ය මුදල් හා දේපළ අවභාවිතා කිරීම සම්බන්ධයෙන් හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මියට එරෙහිව අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිසම විමර්ශන ආරම්භ කර ඇත.
+
+හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය පාර්ලිමෙන්තු මන්ත්‍රීවරියක හා රාජ්‍ය අමාත්‍යවරියක වශයෙන් කටයුතු කරමින් රාජ්‍ය මුදල් හා දේපළ අවභාවිතා අල්ලස් පනතේ සඳහන් දුෂණය නමැති වරද කර ඇති බවට ලැබුණු පැමිණිල්ලකට අනුව අල්ලස් කොමිසම මෙම විමර්ශනය ආරම්භ කර ඇත.
+
+ලංකාවේ පුරවැසියකු නොවන බව දනිමින්ම පාර්ලිමෙන්තු මන්ත්‍රීවරියක හා රාජ්‍ය අමාත්‍යවරියක වශයෙන් හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය කටයුතු කිරීමෙන් රාජ්‍ය මුදල් හා දේපළ අවභාවිතා කිරීම සම්බන්ධයෙන් විමර්ශනයක් කර ඇය අවභාවිතා කළ මුදල් ආපසු අයකරගන්නා ලෙසත් ඇයට එරෙහිව නඩු පවරන ලෙසත් ඉල්ලමින් ‘අල්ලස දූෂණය හා නාස්තියට එරෙහි පුරවැසි බලය’ සංවිධානයේ සභාපති කාමන්ත තුෂාර මහතා කළ පැමිණිල්ලකට අනුව අල්ලස් කොමිසම මෙම විමර්ශනය ආරම්භ කර ඇත.
+
+...
+
+[Data](articles/9068722a.json)
 
 ---
 
@@ -2115,65 +2167,5 @@ The videos shown by the two of them threatened the officers with the complaint w
 [Data](articles/f57f6ccf.json)
 
 [Extended Data](ext_articles/f57f6ccf.ext.json)
-
----
-
-### Child
-
-*2024-06-30 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/187313) · `ta`
-
-After rescuing the child from the Hanging Bridge, the situation has escalated as opposing groups claim the child. Despite challenges, the mission was successful due to correct actions. It's crucial for the nation to recognize and support genuine advocates against power struggles.
-
-🟩
-
-I have brought the child from the Hanging Bridge to the mother of Sri Lanka. What is happening now?Groups that do not support the child are now claiming the child. I was able to save the child because I went on the right track. The people of the country must now identify groups that are fighting for power.
-
-◼️
-
-[Data](articles/4e097bba.json)
-
-[Extended Data](ext_articles/4e097bba.ext.json)
-
----
-
-### President jointly joins the winter rally
-
-*2024-06-30 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198327) · `si`
-
-The President attended a winter rally, showing solidarity with citizens amidst harsh weather conditions.
-
-🟩
-
-◼️
-
-[Data](articles/8fdb134c.json)
-
-[Extended Data](ext_articles/8fdb134c.ext.json)
-
----
-
-### Two dancers demanding the ownership of the dead grand grand girl
-
-*2024-06-30 16:08:44* · [`adalk`](https://www.ada.lk/breaking_news/මියගිය-මිත්තණියගේ-ඉඩමේ-අයිතිය-ඉල්ලා-නර්තන--ශිල්පීන්-දෙදෙනා-යකා-නටයි/11-410522) · `si`
-
-In Bandaragama, two dancers dispute over land inheritance from a deceased relative, leading to legal complaints and threats against police officers. The dispute involves the division of land in the Kammidtuda area, with one dancer refusing to hand over documents related to the property. This situation escalated during a meeting organized by the Land Divisional Secretariat, where both parties were accused of threatening behavior. As a result, the dancers have been summoned to appear before the Bandaragama Police on January 1st.
-
-🟩
-
-Bandaragama police say that the complaint has been lodged with the government to demanding the country's ownership of the land at the mobile program of the sale of her heritage program.
-
-One of those person maintains a pelivery is a dancer. It is learned that the other person is his closest goal dancer
-
-One person who died ago was named after a land belonging to the Kammidtuda area into two parts, the police said
-
-After the death of the grandmother, the first deed of the goal dancer of the deed had been refused to provide the root deed of the goal dancer.Because she is to know that she is
-
-The Land Dancer on the Gross Dancer on the 27th, the Land Unit of the Land Divisional Secretariat under the Piyasa Teacher Committee conducted under the Piyasa Teacher (Nutrake) has been interrupted by the dance lecturer.A Development Officer has also presented with the complaints that the two of them threatened the police that they have tried to attack.
-
-...
-
-[Data](articles/6129cc9c.json)
-
-[Extended Data](ext_articles/6129cc9c.ext.json)
 
 ---

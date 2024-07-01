@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 19:19:43**
+As of **2024-07-01 19:34:57**
 
 ## Newspaper Stats
 
-*Scraped **33,136** Articles*
+*Scraped **33,139** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,69 +16,121 @@ islandlk | 1,846
 economynextcom | 1,940
 dailyftlk | 2,036
 adalk | 2,944
-adaderanalk | 3,776
-tamilmirrorlk | 3,921
+adaderanalk | 3,777
+tamilmirrorlk | 3,922
 dailymirrorlk | 4,733
 virakesarilk | 5,167
-adaderanasinhalalk | 5,480
+adaderanasinhalalk | 5,481
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,133 (100.0%) of 33,136 articles have been extended.
+33,136 (100.0%) of 33,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### ’உறவின் இணைப்பு பாலம்’’: ஹக்கீம் அனுதாபம்
+### Palestinian militants fire rockets into Israel, tanks advance in Gaza
+
+*2024-07-01 19:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100224/palestinian-militants-fire-rockets-into-israel-tanks-advance-in-gaza) · `en`
+
+The Palestinian militant group Islamic Jihad fired a barrage of rockets into Israel on Monday as fighting raged in Gaza and Israeli tanks advanced deeper in parts of the enclave, residents and officials said.
+
+The armed wing of Islamic Jihad, an Iranian-backed ally of Hamas, said its fighters fired rockets towards several Israeli communities near the fence with Gaza in response to “the crimes of the Zionist enemy against our Palestinian people”.
+
+The volley of around 20 rockets caused no casualties, the Israeli military said. But the attack showed militants still possess rocket capabilities almost nine months into an offensive that Israel says is aimed at neutralising threats against it.
+
+Violence also flared on Monday in the Israeli occupied West Bank, where the Palestinian health ministry said a woman and a boy were killed in the city of Tulkarm during an operation by Israeli forces. A day earlier, an Israeli strike in the same area killed an Islamic Jihad member.
+
+...
+
+[Data](articles/9a9459b1.json)
+
+---
+
+### කාසියේ වාසිය කැන්ඩි කණ්ඩායමට
+
+*2024-07-01 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198375) · `si`
+
+ලංකා ප්‍රිමියර් ලීග් 20යි 20 ක්‍රිකට් තරගාවලියේ පළමු තරගය පල්ලෙකැලේ ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී අද (01) පැවැත්වෙයි.
+
+එහි කාසියේ වාසිය දිනාගැනීමට කැන්ඩි ෆැල්කන්ස් කණ්ඩායම සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දු රැකීමටය.
+
+◼️
+
+[Data](articles/18b09b29.json)
+
+---
+
+### Hakeem sympathy
 
 *2024-07-01 19:01:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உறவின்-இணைப்பு-பாலம்-ஹக்கீம்-அனுதாபம்/175-339711) · `ta`
 
-தமிழ் சமூகத்துக்கும்  முஸ்லிம் சமூகத்துக்கும் இடையிலான உறவின் இணைப்பு பாலமாக விளங்கிய மூத்த அரசியல் ஆளுமை இரா. சம்பந்தன் அவர்களின் மறைவு தமிழ் பேசும் மக்கள் மத்தியில் அதிர்ச்சியையும் ஆழ்ந்த கவலையையும் ஏற்படுத்திருக்கிறது என்று  ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவரும் ,பாராளுமன்ற உறுப்பினருமான  ரவூப் ஹக்கீம் முதுபெரும் தமிழ் அரசியல் தலைவர் சம்பந்தன் அவர்களின்  மறைவையிட்டு  வெளியிட்டுள்ள அனுதாபச் செய்தியில் குறிப்பிட்டுள்ளார்.
+Rauf Hakeem Mudber, leader of the Sri Lanka Muslim Congress and MP, expressed deep concern over the passing of Tamil political leader Sampanthan, known for advocating for the Tamil and minority communities in Sri Lanka's ethnic conflict. Sampanthan, a key figure in the Tamil National Alliance (TNA), fought for a political solution to the Tamil issue, highlighting unmet promises by Southern leaders. Despite changing political circumstances, he remained committed to peace talks and ensuring Muslim compliance in the merger of Northern and Eastern Provinces. His contributions to resolving the ethnic problem and his efforts to minimize damage during negotiations are remembered fondly. Hakeem extends his sympathies to Sampanthan's family, the TNA, and the SLMC.
 
-முஸ்லிம் காங்கிரஸ் தலைவர் ஹக்கீம் தனது அனுதாபச் செய்தியில்  மேலும் தெரிவித்திருப்பதாவது ;
+🟩
 
-இலங்கையில்  புரையோடிப் போயுள்ள தேசிய இனப் பிரச்சினையில் குறிப்பாக தமிழ் மக்களுக்கும் பொதுவாக சிறுபான்மைச் சமூகங்களுக்கும் உச்சபட்ச அரசியல்  தீர்வை பெற்றுக் கொடுப்பதற்காக  தனது வாழ்நாள் பூராவும்  அயராது பாடுபட்ட அரசியல் ஆளுமையான சம்பந்தன் ஐயாவின் மறைவுச் செய்தி கேட்டு ஆழ்ந்த கவலை அடைந்தேன்.
+Senior political personality who has been a link to the relationship between the Tamil community and the Muslim community. Sri Lanka Muslim Congress leader and Member of Parliament Rauf Hakeem Mudber, a Tamil political leader Sampanthan, said in a statement issued by Sampanthan.
+
+Muslim Congress leader Hakeem further stated in his sympathy message:
+
+I was deeply concerned about the news of the demise of political personality Sampanthan Sir, who had been tirelessly for his life to find a maximum political solution to the Tamil people and the minority communities in the national ethnic problem in Sri Lanka.
+
+The father of the father Selva has grown up in the political affairs of the Father Selva, entered the Parliament through the Tamil National Alliance (TNA), representing Trincomalee on different occasions, and has been the leader of the Tamil National Alliance (TNA) from 2001 to recent, and has been the governing person since its origin.
 
 ...
 
 [Data](articles/ee1e1484.json)
 
+[Extended Data](ext_articles/ee1e1484.ext.json)
+
 ---
 
-### අඩු කළ බස් ගාස්තු ලැයිස්තුව මෙන්න
+### Here is the listing of the reduced bus fare
 
 *2024-07-01 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198374) · `si`
 
-අද (01) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි බස් ගාස්තු අඩු කිරීමට ජාතික ගමනාගමන කොමිෂන් සභාව පියවර ගෙන තිබේ.
+The National Transport Commission (NTC) has reduced bus fares effective from midnight, aligning with annual revisions based on 12 criteria. This year, there's a 5.07% decrease in the minimum fare, benefiting passengers across all types of buses, including expressways.
 
-ජාතික බස් ගාස්තු ප්‍රතිපත්තිය අනුව නිර්ණායක 12ක් සැලකිල්ලට ගනිමින් සෑම වසරකම ජුලි මස පළමු වනදා බස් ගාස්තු සංශෝධනය සිදු කෙරෙයි.
+🟩
 
-මෙවර ගාස්තු සංශෝධනයේ දී සියයට 5.07කින් බස් ගාස්තු අඩු කරන අතර රුපියල් 30ක්ව පවතින අවම බස් ගාස්තුව රුපියල් 28ක් දක්වා රුපියල් දෙකකින් අඩුවෙයි.
+The National Transport Commission (NTC) has taken steps to reduce the bus fares to operate from midnight today.
 
-ඒ අනුව, අධිවේගී මාර්ග ඇතුළු සියලුම බස් රථවලට අදාළ නව ගාස්තු ජාතික ගමනා ගමන කොමිෂන් සභාව මේ වනවිට ප්‍රකාශ කර තිබේ.
+The bus fare revision is made on the first month every year, taking 12 criteria by the national bus fare policy.
+
+The minimum bus fare will be reduced by 5.07 per cent in this year's fare and the minimum bus fare at Rs.
+
+Accordingly, all buses including expressways and the National Transport Commission have already stated the National Transport Commission.
 
 ◼️
 
 [Data](articles/15d18be0.json)
 
+[Extended Data](ext_articles/15d18be0.ext.json)
+
 ---
 
-### ”கட்டணத்தை குறைக்க முடியாது”
+### “Can't reduce fees”
 
 *2024-07-01 18:53:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டணத்தை-குறைக்க-முடியாது/175-339710) · `ta`
 
-பெற்றோல் விலை குறைக்கப்பட்டாலும் முச்சக்கரவண்டி கட்டணத்தை குறைக்க முடியாது எனவும், மாதம் ஒருமுறை எரிபொருள் விலையை திருத்தும் போது கட்டணத்தை குறைக்க முடியாது எனவும் அகில இலங்கை முச்சக்கர வண்டி சாரதிகள் சங்கத்தின் தலைவர்  லலித் தர்மசேகர தெரிவித்தார்.
+Despite fuel price reductions, three-wheeler fares and repair tariffs remain unchanged due to lack of a benefit distribution system for users.
 
-மக்களை ஏற்றிச் செல்லும் இரண்டு இலட்சம் முச்சக்கர வண்டிகளில் கூட இதுவரை கட்டண மீற்றர் பொருத்தப்படவில்லை எனவும், ஓரிரு ரூபாய்க்களில் மக்களுக்கு நிவாரணம் கிடைக்காது எனவும் அவர் தெரிவித்துள்ளார்.
+🟩
 
-அரசாங்கம் எரிபொருளின் விலையை குறைத்துள்ள போதிலும், முச்சக்கர வண்டிகளை பயன்படுத்தும் மக்களுக்கு அதன் பலனை வழங்குவதற்கான முறைமையை அரசாங்கம் தயாரிக்கவில்லை எனவும்  தர்மசேகர மேலும் குறிப்பிட்டுள்ளார்.
+The President of the All Ceylon Three -wheeler Drivers Association, Lalith Dharmasekara, said that even if the price of petrol is reduced, the three -wheeler fare cannot be reduced and the tariff cannot be reduced when repairing fuel prices once a month.
+
+He said that even two hundred thousand three -wheelers carrying people have not yet been installed.
+
+Dharmasekera added that although the government has reduced the price of fuel, the government has not prepared a system of providing its benefits to the people who use three -wheelers.
 
 ◼️
 
 [Data](articles/812161c3.json)
+
+[Extended Data](ext_articles/812161c3.ext.json)
 
 ---
 
@@ -2311,53 +2363,5 @@ Three people have fled the shot by three people in the helmets.
 [Data](articles/204cde35.json)
 
 [Extended Data](ext_articles/204cde35.ext.json)
-
----
-
-### Sri Lanka President hoping for a quick finish to ISB holder talks: President
-
-*2024-07-01 09:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-hoping-for-a-quick-finish-to-isb-holder-talks-president-170304/) · `en`
-
-ECONOMYNEXT – Sri Lanka is in discussions with sovereign bondholders hoping for a quick deal as early as next week, President Ranil Wickremesinghe has told a public rally.
-
-“Actually after we signed this (bilateral MOUs), the bondholders representatives started talking to us,” President Wickremesinghe told a rally in Matara on June 30.
-
-“I thought this may take a month. Up to now we have been discussing effectively. I expect by next week we will be able to successfully complete this.”
-
-“Then will have that agreement as well. So I told Harsha de Silva the chairman of Committee on Public Finance, let’s take all three agreements.”
-
-Wickremesinghe said he may not be able to full details of the Paris Club and China debt deals to the Parliament this week.
-
-“If we disclose two, then it will be a problem for private creditors,” he said.
-
-...
-
-[Data](articles/4988fd70.json)
-
-[Extended Data](ext_articles/4988fd70.ext.json)
-
----
-
-### Sri Lanka President hopes for quick finish to ISB holder talks
-
-*2024-07-01 09:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-hopes-for-quick-finish-to-isb-holder-talks-170304/) · `en`
-
-ECONOMYNEXT – Sri Lanka is in discussions with sovereign bondholders hoping for a quick deal as early as next week, President Ranil Wickremesinghe has told a public rally.
-
-“Actually after we signed this (bilateral MOUs), the bondholders representatives started talking to us,” President Wickremesinghe told a rally in Matara on June 30.
-
-“I thought this may take a month. Up to now we have been discussing effectively. I expect by next week we will be able to successfully complete this.”
-
-“Then will have that agreement as well. So I told Harsha de Silva the chairman of Committee on Public Finance, let’s take all three agreements.”
-
-Wickremesinghe said he may not be able to full details of the Paris Club and China debt deals to the Parliament this week.
-
-“If we disclose two, then it will be a problem for private creditors,” he said.
-
-...
-
-[Data](articles/7eb5d9c1.json)
-
-[Extended Data](ext_articles/7eb5d9c1.ext.json)
 
 ---

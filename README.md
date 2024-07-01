@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 11:05:27**
+As of **2024-07-01 11:19:36**
 
 ## Newspaper Stats
 
-*Scraped **33,041** Articles*
+*Scraped **33,051** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,32 +15,66 @@ newsfirstlk | 363
 islandlk | 1,845
 economynextcom | 1,929
 dailyftlk | 2,036
-adalk | 2,936
+adalk | 2,937
 adaderanalk | 3,766
-tamilmirrorlk | 3,909
+tamilmirrorlk | 3,911
 dailymirrorlk | 4,733
-virakesarilk | 5,139
+virakesarilk | 5,146
 adaderanasinhalalk | 5,458
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,038 (100.0%) of 33,041 articles have been extended.
+33,041 (100.0%) of 33,051 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### පාරින්ද රණසිංහ වැඩබලන නීතිපති ධුරයේ දිවුරුම් දෙයි
+### சம்பந்தனின் மறைவிற்கு இந்தியப் பிரதமர் மோடி இரங்கல்
+
+*2024-07-01 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/187360) · `ta`
+
+இலங்கைத் தமிழரசுக்கட்சியின் சிரேஷ்ட தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இராஜவரோதயம் சம்பந்தனின் மறைவிற்கு இந்திய பிரதமர் நரேந்தி மோடி இரங்கல் தெரிவித்துள்ளார்.
+
+தமிழ்த் தேசியக் கூட்டமைப்பின் மூத்த தலைவர் ஆர்.சம்பந்தனின் குடும்பத்தினருக்கும் நண்பர்களுக்கும் எனது ஆழ்ந்த அனுதாபங்கள். அவருடனான சந்திப்புகளின் இனிய நினைவுகள் எப்போதும் போற்றத்தக்கது. இலங்கையில் வாழும் தமிழர்களுக்கு அமைதி, பாதுகாப்பு, சமத்துவம், நீதி மற்றும் கண்ணியம் போன்ற வாழ்க்கையை அவர் இடைவிடாமல் பின் தொடர்ந்தார். இலங்கையிலும் இந்தியாவிலும் உள்ள அவரது நண்பர்கள் மற்றும் அவரை பின்பற்றுபவர்களுக்கு இது ஒரு பெரும் இழப்பு என பதிவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/6376d605.json)
+
+---
+
+### யாழில் விபத்தில் சிக்கிய வைத்தியர் படுகாயம்!
+
+*2024-07-01 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/187356) · `ta`
+
+யாழ்ப்பாணம், சாவகச்சேரி பொலிஸ் பிரிவிற்குட்பட்ட ஏ-9 வீதியில் இன்று திங்கட்கிழமை (01) காலை இடம்பெற்ற விபத்தில் வைத்தியர் ஒருவரும், மோட்டார் சைக்கிளில் பயணித்த நபர் ஒருவரும் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+இதன்போது, இருவரும் படுகாயம் அடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றனர்.
+
+◼️
+
+[Data](articles/f4b370e6.json)
+
+---
+
+### Master Ranasinghe sworn in as Acting Attorney General
 
 *2024-07-01 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198351) · `si`
 
-ජ්‍යේෂ්ඨ නියෝජ්‍ය සොලිසිටර් ජනරාල් පාරින්ද රණසිංහ මහතා වැඩබලන නීතිපතිවරයා ලෙස දිවුරුම්දී තිබේ.
+Massantha Ranasinghe, Senior Deputy Solicitor General, has been sworn in as the Acting Attorney General.
+
+🟩
+
+Senior Deputy Solicitor General's Massantha Ranasinghe has been sworn in as Acting Attorney General.
 
 ◼️
 
 [Data](articles/cd70329a.json)
+
+[Extended Data](ext_articles/cd70329a.ext.json)
 
 ---
 
@@ -63,6 +97,60 @@ Accordingly, Senior Additional Solicitor General Parinda Ranasinghe, who is the 
 ◼️
 
 [Data](articles/ea230e98.json)
+
+[Extended Data](ext_articles/ea230e98.ext.json)
+
+---
+
+### 25 தமிழக மீனவர்கள் கைது
+
+*2024-07-01 10:39:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/25-தமிழக-மீனவர்கள்-கைது/175-339687) · `ta`
+
+இலங்கை கடற்பரப்பில் அத்துமீறி நுழைந்து மீன் பிடித்த குற்றச்சாட்டில் 25 தமிழக கடற்தொழிலாளர்கள்  திங்கட்கிழமை (01) அதிகாலை கைது செய்யப்பட்டுள்ளனர்.
+
+யாழ்ப்பாணம் நெடுந்தீவு கடற்பரப்பில் மீன்பிடித்துக் கொண்டிருந்த வேளையே அவர்கள் கைது செய்யப்பட்டதுடன் , அவர்களின் 4 படகுகளையும் கடற்படையினர் கைப்பற்றியுள்ளனர்.
+
+கைதான கடற்தொழிலாளர்கள் மயிலிட்டி மீன்பிடி துறைமுகத்திற்கு அழைத்துச் சொல்லப்பட்டுள்ள நிலையில் விசாரணைகளின் பின்னர் கடற்றொழில் நீரியல்வளத்துறை திணைக்களத்தினரினர் ஊடாக ஊர்காவற்றுறை நீதிமன்றத்தில் முற்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/6d83a3d5.json)
+
+---
+
+### பேருந்து விபத்தில் 20 பேர் காயம்
+
+*2024-07-01 10:32:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பேருந்து-விபத்தில்-20-பேர்-காயம்/76-339685) · `ta`
+
+கொழும்பு - கண்டி வீதியில் , வெவெல்தெனிய தேவாலயத்திற்கு அருகிலுள்ள வளைவில், இ . போ. சபைக்கு சொந்தமான பேருந்து மற்றும் தனியார் பேருந்தொன்று நேருக்கு நேர் மோதி விபத்துக்குள்ளானதில் இருபதுக்கும் மேற்பட்டோர் காயமடைந்த நிலையில் வட்டுபிட்டிவல மற்றும் வரக்காபொல வைத்தியசாலைகளில் அனுமதிக்கப்பட்டுள்ளதாக தங்கொவிட்ட பொலிஸார் தெரிவிக்கின்றனர்.
+
+பாணந்துறையில் இருந்து கண்டி நோக்கி பயணித்த உடஹமுல்ல டிப்போவிற்கு சொந்தமான பேருந்து ஒன்றும், கலென்பிந்துனுவெவயில் இருந்து கொழும்பு நோக்கி பயணித்த தனியார் பெருந்தொன்றுமே இவ்வாறு விபத்துக்குள்ளாகியது .
+
+இரண்டு பேரூந்துகளின் சாரதிகளும் காயமடைந்துள்ளதாக தெரியவந்துள்ளதுடன், விபத்தின் பின்னர் சாரதி ஒருவர் தப்பி ஓடியதாக கிடைக்கப்பெற்ற தகவல் தொடர்பில் விசாரணைகளை மேற்கொண்டு வருவதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்த விபத்து காரணமாக கொழும்பு - கண்டி பிரதான வீதியில் சுமார் ஒரு மணித்தியாலம் வரை போக்குவரத்து தடைப்பட்டிருந்தமை குறிப்பிடத்தக்கது .
+
+◼️
+
+[Data](articles/0fe40e3f.json)
+
+---
+
+### சம்பந்தனின் மறைவுக்கு அரசியல்வாதிகள், பிரமுகர்கள் இரங்கல் !
+
+*2024-07-01 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187353) · `ta`
+
+இலங்கைத் தமிழரசுக்கட்சியின் சிரேஷ்ட தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இராஜவரோதயம் சம்பந்தன் 30 ஆம் திகதி ஞாயிற்றுக்கிழமை தனது 91 ஆவது வயதில் காலமானார்.
+
+உடல்நலம் பாதிக்கப்பட்ட நிலையில் கொழும்பில் உள்ள தனியார் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்றுவந்த நிலையில், அவர் உயிரிழந்ததாக குடும்பத்தினர் உறுதிப்படுத்தினர்.
+
+1933ஆம் ஆண்டு பெப்ரவரி மாதம் 5 ஆம் திகதி பிறந்த சம்பந்தன் இயற்கை எய்தும் போது  அவருக்கு 91வயதாகும்.
+
+இந்நிலையில், மூத்த அரசியல்வாதியான இரா. சம்பந்தனின் மறைவுக்கு அரசியல்வாதிகள், பிரமுகர்கள் உள்ளிட்ட பலர் இரங்கல் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/74490b12.json)
 
 ---
 
@@ -87,6 +175,34 @@ Around 100 people were celebrating at Eden Palace when the gunmen arrived at the
 [Data](articles/0741cc9b.json)
 
 [Extended Data](ext_articles/0741cc9b.ext.json)
+
+---
+
+### தெமட்டகொடையில் ரயில் மீது கல்வீச்சு !
+
+*2024-07-01 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/187352) · `ta`
+
+கொழும்பு கோட்டை ரயில் நிலையத்தில் இருந்து நேற்று ஞாயிற்றுக்கிழமை (30) மாலை  6.40  மணியளவில் ரம்புக்கனை  நோக்கி பயணித்த  ரயிலின்  மீது தெமட்டகொடை பகுதியில் வைத்து கல் வீச்சுத் தாக்குதல் இடம்பெற்றுள்ளது.
+
+ரயிலில் அதிக பயணிகள் பயணித்துக் கொண்டிருந்ததோடு, கல் வீச்சுத் தாக்குதலினால் ரயிலின் யன்னல் மற்றும் கதவு சேதமடைந்துள்ளன.
+
+◼️
+
+[Data](articles/7a5be03f.json)
+
+---
+
+### වේවැල්දෙණිය ප්‍රදේශයේ බස් රථ අනතුරක්
+
+*2024-07-01 10:14:52* · [`adalk`](https://www.ada.lk/breaking_news/වේවැල්දෙණිය-ප්‍රදේශයේ-බස්-රථ-අනතුරක්/11-410537) · `si`
+
+කොළඹ - නුවර ප්‍රධාන මාර්ගයේ වේවැල්දෙණිය ප්‍රදේශයේ දී ලංගම බස් රථයක් සහ පෞද්ගලික බස් රථයක් එකිනෙක ගැටී පුද්ගලයින් 15 දෙනෙකු තුවාල ලබා ඇති බව පොලීසිය පවසයි.
+
+අනතුරින් තුවාල ලැබූ පුද්ගලයින් මේ වනවිට වතුපිටිවල සහ වරකාපොළ රෝහල්වලට ප්‍රතිකාර සඳහා ඇතුළත් කර තිබේ.
+
+◼️
+
+[Data](articles/f3cc1392.json)
 
 ---
 
@@ -326,6 +442,22 @@ The injured individuals have been admitted to Wathupitiwala and Warakapola hospi
 
 ---
 
+### களுத்துறையில் வேன் - கார் மோதி விபத்து ; தாய், தந்தை மற்றும் 6 மாத குழந்தை காயம்
+
+*2024-07-01 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/187351) · `ta`
+
+களுத்துறை - பண்டாரகம வீதியின் கோனடுவ பகுதியில் வேன் ஒன்றும் கார் ஒன்றும் மோதி நேற்று ஞாயிற்றுக்கிழமை (30) விபத்துக்குள்ளாகியுள்ளன.
+
+இந்த விபத்தில் வேனில் பயணித்த தாய், தந்தை மற்றும் 6 மாத குழந்தை காயமடைந்துள்ளனர்.
+
+விபத்தினை அடுத்து கார் சாரதி தப்பியோடியுள்ள நிலையில் மேலதிக விசாரணைகளை பொலிஸார் முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/019d5e46.json)
+
+---
+
 ### Met. Dept. issues ‘red alert’ for strong winds and rough seas
 
 *2024-07-01 08:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100208/met-dept-issues-red-alert-for-strong-winds-and-rough-seas) · `en`
@@ -388,6 +520,28 @@ Strong winds of about 40-50kmph can be expected at times over the Western slopes
 
 ---
 
+### பிரான்சில் தேர்தல் முடிவுகளை தொடர்ந்து வன்முறை – வர்த்தக நிலையங்கள் வாகனங்கள் தீக்கிரை
+
+*2024-07-01 08:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187350) · `ta`
+
+பிரான்ஸ் நாடாளுமன்ற தேர்தலில் தீவிரவலதுசாரி கட்சி முன்னிலை பெற்றதை தொடர்ந்து அதனை எதிர்க்கும் தரப்பினர் தலைநகர் பரிசில் கடும் ஆர்ப்பாட்டங்களில் ஈடுபட்;டுள்ளனர்.
+
+பிரான்ஸ் நாடாளுமன்ற தேர்தலில் தீவிரவலதுசாரிகள் முன்னிலைபெற்றுள்ள அதேவேளை தற்போதைய ஜனாதிபதி இமானுவேல் மக்ரோனின் கட்சி மூன்றாவது இடத்திற்கு தள்ளப்பட்டுள்ளது.
+
+குடியேற்றவாசிகளிற்கு எதிரான ஆர்என் கட்சி 33 வீத வாக்குகளை பெற்றுள்ள அதேவேளை இடதுசாரிகூட்டணி 28 வீத வாக்குகளை பெற்றுள்ளது.
+
+ஜனாதிபதி இமானுவேல் மக்ரோனின் கூட்டணிக்கு 21 வீத வாக்குகள் கிடைத்துள்ளதாக பிரான்ஸ் ஊடகங்கள் தெரிவிக்கின்றன.
+
+பிரான்ஸ் மக்கள் வாக்களித்தால் நான்; அனைத்துபிரான்ஸ் மக்களினதும் பிரதமராக தயார் என ஆர்என் கட்சி தலைவர் ஜோர்டன் பர்டெல்லா தெரிவித்துள்ளார்.
+
+பிரான்ஸ் நாடாளுமன்ற தேர்தலின் முதல் சுற்றில் தீவிரவலதுசாரிகள் வெற்றிபெற்றுள்ளமை அதன் வரலாற்றில் இதுவே முதல்தடவை என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/6baacc52.json)
+
+---
+
 ### Fatal Accidents
 
 *2024-07-01 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198345) · `si`
@@ -403,6 +557,26 @@ Five people have lost their lives in several accidents yesterday (30).
 [Data](articles/95a1cc83.json)
 
 [Extended Data](ext_articles/95a1cc83.ext.json)
+
+---
+
+### பிரான்ஸ் நாடாளுமன்ற தேர்தல் - தீவிரவலதுசாரிகள் முன்னிலையில்
+
+*2024-07-01 08:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/187349) · `ta`
+
+பிரான்ஸ் நாடாளுமன்ற தேர்தலில் தீவிரவலதுசாரிகள் முன்னிலைபெற்றுள்ள அதேவேளை தற்போதைய ஜனாதிபதி இமானுவேல் மக்ரோனின் கட்சி மூன்றாவது இடத்திற்கு தள்ளப்பட்டுள்ளது.
+
+குடியேற்றவாசிகளிற்கு எதிரான ஆர்என் கட்சி 33 வீத வாக்குகளை பெற்றுள்ள அதேவேளை இடதுசாரிகூட்டணி 28 வீத வாக்குகளை பெற்றுள்ளது.
+
+ஜனாதிபதி இமானுவேல் மக்ரோனின் கூட்டணிக்கு 21 வீத வாக்குகள் கிடைத்துள்ளதாக பிரான்ஸ் ஊடகங்கள் தெரிவிக்கின்றன.
+
+பிரான்ஸ் மக்கள் வாக்களித்தால் நான்; அனைத்துபிரான்ஸ் மக்களினதும் பிரதமராக தயார் என ஆர்என் கட்சி தலைவர் ஜோர்டன் பர்டெல்லா தெரிவித்துள்ளார்.
+
+பிரான்ஸ் நாடாளுமன்ற தேர்தலின் முதல் சுற்றில் தீவிரவலதுசாரிகள் வெற்றிபெற்றுள்ளமை அதன் வரலாற்றில் இதுவே முதல்தடவை என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/e36bb197.json)
 
 ---
 
@@ -880,27 +1054,33 @@ Although the circumstances of her disappearance and discovery are still under in
 
 ---
 
-### ආර්. සම්බන්ධන්: දිවියට සමුදුන් ශ්‍රී ලංකාවේ දෙවන දෙමළ විපක්ෂ නායකයා ගැන දත් නොදත් තොරතුරු
+### R. Sampanthan: Information about Sri Lanka's second opposition leader in Sri Lanka
 
 *2024-07-01 04:23:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c035z19dezno) · `si`
 
-ආර්. සම්බන්ධන්: දිවියට සමුදුන් ශ්‍රී ලංකාවේ දෙවන දෙමළ විපක්ෂ නායකයා ගැන දත් නොදත් තොරතුරු
+R. Sampanthan, a prominent Tamil politician in Sri Lanka, passed away at 91. Born on February 5, 1933, he served as the second Tamil Opposition Leader in Sri Lanka's Parliament. His political career spanned decades, including roles in the Tamil United Liberation Front and the Tamil National Alliance. Despite facing challenges and accusations, Sampanthan was known for advocating peace, reconciliation, and justice for the Tamil community.
 
-ශ්‍රී ලංකාවේ දේශපාලන ක්ෂේත්‍රයෙහි සුවිශේෂී චරිතයක් වූ ජ්‍යෙෂ්ඨ දේශපාලනඥයෙකු සහ හිටපු විපක්ෂ නායකවරයෙකු වූ ආර්. සම්බන්ධන් ජූනි 30 වන දා රාත්‍රියේ අභාවප්‍රාප්ත විය.
+🟩
 
-ඔහුගේ පවුලේ සාමාජිකයින් දැනුම් දුන්නේ, සෞඛ්‍ය හේතු මත ඔහු කොළඹ පිහිටි පෞද්ගලික රෝහලකට ඇතුළත් කිරීමෙන් පසුව අභාවප්‍රාප්ත වූ බව ය.
+R. Sampanthan: Information about Sri Lanka's second opposition leader in Sri Lanka
 
-1933 වසරේ පෙබරවාරි 05 වන දා උපත ලැබූ රාජවරෝදියම් සම්බන්ධන් අභාවප්‍රාප්ත වන විට 91 වන වියේ පසු විය.
+A senior politician and former opposition leader of Sri Lanka is a unique figure in Sri Lanka.. Located on June 30th night.
 
-ගල්ඔය ව්‍යාපෘතියේ සේවය කළ ගබඩා භාරකරුවෙකු බව කියන ඒ. රාජවරෝදියම්ගේ පුත්‍රයෙකු වූ ආර්. සම්බන්ධන්, යාපනය ශාන්ත පැට්‍රික්, කුරුණෑගල ශාන්ත ආනා, ත්‍රිකුණාමලය ශාන්ත ජෝසෆ් සහ මොරටුව ශාන්ත සෙබෙස්තියන් යන විද්‍යාලවලින් ඉගෙනුම ලබා තිබේ.
+His family were informed that he passed away after he was admitted to a private hospital in Colombo on health reasons.
 
-පසුව ශ්‍රී ලංකා නීති විද්‍යාලයට ඇතුළත් වූ ඔහු, නීතිඥයෙකු බවට පත් විය.
+The 91 year old was the 91 year old as Rajawarageda, born on February 5, 1933.
 
-නීතිඥවරයෙකු ලෙස දිවුරුම් දීමෙන් පසු ආර්. සම්බන්ධන් ත්‍රිකුණාමලයේ සේවය කළේ ය.
+It is said that a stock custodian was served in the Galoya project. The son of Rajarogium. Sampanthan, Jaffna St. Patrick, Kurunegala has been studying at St. Joseph, Trincomalee and St. Sebressitan College, Moratuwa.
+
+He later admitted to the Sri Lanka Law College, he became a lawyer.
+
+After being sworn in as a lawyer. Connectors worked in Trincomalee.
 
 ...
 
 [Data](articles/b10a069f.json)
+
+[Extended Data](ext_articles/b10a069f.ext.json)
 
 ---
 
@@ -1955,253 +2135,5 @@ The robbery has been recovered at the pawn shops in Kandy, Kurunegala, Katugasto
 [Data](articles/9b65c398.json)
 
 [Extended Data](ext_articles/9b65c398.ext.json)
-
----
-
-### The drunk train driver's train runs off
-
-*2024-06-30 19:53:30* · [`adalk`](https://www.ada.lk/breaking_news/බීමත්-දුම්රිය-රියදුරු-දුම්රිය-නවතා-දිව-යයි/11-410528) · `si`
-
-A train driver, charged for causing a derailment during a protest, was released without arrest by the Railway Security but later produced at the Kandy National Hospital for medical evaluation.
-
-🟩
-
-The train driver who had been charged from the Colombo railway train to Kandy has been charged due to the protest of the train, police said.
-
-However, as the police department has not been arrested by the Railway Security for the Kandy Headquarters and the Police Department was produced before the Kandy Headquarters and was submitted to the Kandy Headquarters.A police officer said.
-
-Accordingly, the driver was produced before the Kandy National Hospital after obtaining medical reports and will be taken by the Department of Railways.
-
-◼️
-
-[Data](articles/6513f65b.json)
-
-[Extended Data](ext_articles/6513f65b.ext.json)
-
----
-
-### Veteran Sri Lankan Tamil Political  leader   Rajavarothayam Sampanthan passes away in Colombo at the age of 91. He  dedicated his political life to pursuing a just solution to Sri Lanka’s Tamil question
-
-*2024-06-30 19:41:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84303) · `en`
-
-Veteran Sri Lankan Tamil leader Rajavarothiam Sampanthan, who dedicated his political life to pursuing a just solution to the island nation’s Tamil question, passed away in Colombo late on Sunday. He was 91.
-
-Mr. Sampanthan, of the Ilankai Tamil Arasu Katchi (ITAK), was a sitting MP from the eastern Trincomalee district, and led the Tamil National Alliance,
-
-the main grouping representing Tamils of Sri Lanka’s war-hit north and east. He was Leader of the Opposition between 2015 and 2018.
-
-A parliamentarian for nearly half a century, Mr. Sampanthan was a bold and relentless voice in the House. Since the end of the civil war in 2009, he tirelessly demanded equal rights for Tamils, within a ‘united, undivided, indivisible’ country.
-
-Trained as a lawyer, he based his arguments for a political solution on Sri Lanka’s constitutional history and the many promises that the southern Sinhalese establishment made in the past but failed to keep.
-
-◼️
-
-[Data](articles/4d79b1e1.json)
-
-[Extended Data](ext_articles/4d79b1e1.ext.json)
-
----
-
-### Bribery Commission investigates Diana
-
-*2024-06-30 19:38:20* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාට-එරෙහිව-අල්ලස්-කොමිෂමෙන්-විමර්ශනයක්/11-410527) · `si`
-
-The Bribery Commission in Sri Lanka has launched an investigation into allegations of corruption against former State Minister Diana Gamage. The probe focuses on her actions during her tenure as a government minister, involving misuse of public funds and properties. The investigation was initiated based on a complaint lodged by the Chairman of the Organization Industry Thathra, highlighting issues related to the Bribery Act and Government Finance.
-
-🟩
-
-Investigation Commission has commenced investigations against former State Minister Diyanama Gamage against former state minister Diana Gamage about four years as a government minister and state minister in Sri Lanka.
-
-Former State Minister Diana Gamage was a complaint lodged by a complaint that the corruption of the Bribal of Bribery Act, the Government Finance and Property.
-
-Citizenship of Bribervala Corruption and Citizenship of Bribery Asked as a citizen of Sri Lanka and a state minister Diyanama Gamage as an inquiry of state money and property.The Bribery Commission has commenced this investigation into a complaint lodged by the Chairman of the Organization Industry Thathra.
-
-Mrs. Diana Gamage was a national list of national lists in August 2020, he said that she was a member of the State Ministers and her seat was abolished as a parliamentary privilege as a Member of Parliament and the State Minister.Mentioned that it was enjoyed.
-
-...
-
-[Data](articles/9068722a.json)
-
-[Extended Data](ext_articles/9068722a.ext.json)
-
----
-
-### President receives the highest number of deeds
-
-*2024-06-30 19:32:02* · [`adalk`](https://www.ada.lk/breaking_news/වැඩිම-ඔප්පු-ප්‍රමාණයක්-දෙන-ප්‍රාදේශීය-ලේකම්-කාර්යාලයට-ජනපතිගෙන්-ලැබෙන-දේ/11-410526) · `si`
-
-President Ranil Wickremesinghe announced plans to develop the Moneragala District, including granting land ownership rights to farmers, enhancing agricultural productivity, and establishing investment zones. He emphasized the importance of modernization and export-oriented agriculture in the region, aiming to create a significant agricultural zone in the Dry Zone. The initiative is part of a broader strategy to ensure food security globally and stimulate economic growth in the region.
-
-🟩
-
-President Ranil Wickremesinghe said that he will provide Rs.
-
-The President said that these programs were the farmer community in the country to improve the country to develop the country.
-
-President Ranil Wickremesinghe said this was at the Mahinda Rajapaksa International Conference Hall today (30) with the "Heritage" National Program of the Moneragala DistrictAddressing the event.
-
-Speaking further President. Even though the province has not been developed under various governments, the President has shown that the President has not received land ownership to the country and is happy to be fulfilled under the present government.
-
-President Ranil Wickremesinghe said that the dry zone is expected to be developed in Udawalawe, Moneragala, Ampara and Mahaweli C region.
-
-The President joined the people inherited for the people of the Moneragala district and went to the people and engaged in a friendly talk.
-
-Minister Ranil Wickremesinghe further added:
-
-...
-
-[Data](articles/c084094c.json)
-
-[Extended Data](ext_articles/c084094c.ext.json)
-
----
-
-### Sri Lanka hoping to reach agreement with private bondholders next week, says President
-
-*2024-06-30 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100201/sri-lanka-hoping-to-reach-agreement-with-private-bondholders-next-week-says-president) · `en`
-
-President Ranil Wickremesinghe said the Sri Lankan government is expecting to conclude discussions and reach an agreement with private bondholders on restructuring the country’s debt next week.
-
-He stated this while addressing the “Ekwa Jayagamu” public rally in Matara on Sunday (30).
-
-In what it termed a significant milestone, Sri Lanka this week sealed a deal with the Official Creditor Committee [OCC], to restructure the debt owed to its bilateral lenders including India, and signed a separate agreement with China for debt treatment.
-
-Wickremesinghe said that since signing the agreements with bilateral creditors, the representatives of private bondholders have also already started speaking with the government.
-
-“As of now, we have successfully achieved progress on both sides. We are expecting to successfully conclude this by next week,” he said.
-
-...
-
-[Data](articles/bb0b8309.json)
-
-[Extended Data](ext_articles/bb0b8309.ext.json)
-
----
-
-### What will happen to the change of bus fare?
-
-*2024-06-30 19:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198333) · `si`
-
-Bus fares may decrease by 5% as per SLTH, but the final decision rests with the Transport Commission, which plans to announce revisions soon.
-
-🟩
-
-The Lanka Private Bus Owners Association (SLTH) says that the bus fares will be reduced by 5% tomorrow (01).
-
-The Chairman of Gemunu Wijeratne said that the Transport Commission is planning to revise the bus fares to be considered today.
-
-Meanwhile, the Chairman of the National Transport Commission Shashi Welgama said that the tariff revision will be announced tomorrow (01).
-
-The Annual Bus fare revision should be published every year and will be awarded the statement at 1.00 pm, Mr. Shashi Welgama said.
-
-◼️
-
-[Data](articles/a9ddd367.json)
-
-[Extended Data](ext_articles/a9ddd367.ext.json)
-
----
-
-### Acting Athand is the Minister of Attorney General
-
-*2024-06-30 19:20:57* · [`adalk`](https://www.ada.lk/breaking_news/වැඩබලන-නීතීපති-පාරින්ද-රණසිංහ-/11-410525) · `si`
-
-Mr. Ranasinghe, the Senior Additional Solicitor General, has been assigned to prosecute Sanjaya Rajaratnam. Despite retiring twice from the Legislative Council to extend his service, he continues to serve. Meanwhile, it's reported that another lawyer, Massesasinghe, fills the vacancy left by Mr. Ranasinghe.
-
-🟩
-
-Senior Additional Solicitor General's High Court Solicitor General's High Court, reports say.
-
-Senior Additional Solicitor General Aduriser General of Solicitor General, Mr. Ranasinghe, has been appointed to the prosecution of Sanjaya Rajaratnam.
-
-Sanjaya Rajaratnam had to retire twice due to the Legislative Council to the Legislative Council to further a service extension.
-
-It is reported that Senior Additional Solicitor General's Massesasinghe has been appointed to the vacant lawyers.
-
-◼️
-
-[Data](articles/a4c10038.json)
-
-[Extended Data](ext_articles/a4c10038.ext.json)
-
----
-
-### Ministers and MPs in Pohoth joins Ranil's Matara rally
-
-*2024-06-30 18:55:17* · [`adalk`](https://www.ada.lk/picture_story/රනිල්ගේ-මාතර-රැළියට-පොහොට්ටුවේ-මැති-ඇමතිවරු-එක්වෙති/10-410523) · `si`
-
-In Pohoth, ministers and MPs joined a UNP rally led by Ranil Wickremesinghe ahead of the presidential election. Organized by Kanchana Wijesekara, Lakshman Yapa Abeywardena, and Sagala Ratnayake, it saw participation from various party members and local politicians. Key figures like Prasanna Ranatunga, Ali Sabri, Harin Fernando, and Manusha Nanayakkara supported the event, with Kanchana Wijesekara endorsing Wickremesinghe as the ideal presidential candidate. The gathering also included MPs Mahindananda Aluthgamage and Douglas Devananda, highlighting its significance.
-
-🟩
-
-The rally rally rally in the country was held at Mahinda Wijesekera playwright before the presidential election.
-
-Minister of Power and Energy Minister Kanchana Wijesara, Southern Provincial Councils Lakshman Yapa Abeywardena and Presidential Chief of Staff Sagala Ratnayake organized the rally.
-
-A large number of party members including local politicians representing the United National Party (UNP) and the Sri Lanka Freedom Party were present.
-
-Ministers Prasanna Ranatunga, Ali Sabri, Harin Fernando, Harin Fernando, Manusha Nanayakkara, Southern Province Lakshman Yapa Abeywardena, Southern Province Lakshman Yapa Abeywardena.
-
-Power and Energy Minister Kanchana Wijesekara said that the present President Ranil Wickremesinghe is the ideal candidate for the presidential election.
-
-He invited President Ranil Wickremesinghe to contest the rally of the public rally to the presidential election.
-
-...
-
-[Data](articles/bb04dec8.json)
-
-[Extended Data](ext_articles/bb04dec8.ext.json)
-
----
-
-### New two persons to England Test team
-
-*2024-06-30 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198332) · `si`
-
-Jamie Smith and Dylan Burton join England's Test squad against the West Indies, replacing Ben Fox and Johnny Beaston. The series starts at Lord's on July 10.
-
-🟩
-
-The English squad of the 14 players have been named for the Test series with the West Indies team with the West Indies.
-
-Two new players have been called for this squad. It was a wicket-raised Jamie Smith and Fast Bowel Dylangton.
-
-Ben Fox and Johnny Beasto, who was players in England's team, has not been named for the squad.
-
-The English squad is:
-
-West Indies team and England will be the first Test match that begins on the Lord's Led page on July 10.
-
-◼️
-
-[Data](articles/05d32986.json)
-
-[Extended Data](ext_articles/05d32986.ext.json)
-
----
-
-### 41,960 land guarantees for the people of Moneragala district under the "Urumaya" program
-
-*2024-06-30 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/187335) · `ta`
-
-President Ranil Wickremesinghe announced 41,960 land guarantees for Moneragala district under the "Urumaya" program, allocating 25 million rupees for pond rehabilitation. He emphasized the importance of these initiatives for national development and thanked farmers for their contributions. The President highlighted the historical significance of the area and its potential for agricultural growth, aiming to transform it into a significant agricultural zone. He urged quick implementation of the program and expressed optimism about the future of the region.
-
-🟩
-
-President Ranil Wickremesinghe said that 25 million rupees will be given to the rehabilitation of ponds at the Divisional Secretariat in the Moneragala District under the Urumaya Telephone Program issuing full -fledged land guarantees.
-
-The President said that the farmers of the country would be successful with these two programs, and that the aim was to take the country to the development of the country.
-
-Under the National Program of Rs.
-
-Speaking on the occasion, the President noted that Wellesa, who provided rice to the Kandyan Kingdom, was destroyed after the 1818 war.
-
-Subsequently, despite the development of various governments, the President pointed out that the people were not getting a land right, and that he was happy to be able to fulfill the responsibility under the current government thanks to the farmers who gave rice to the country.
-
-...
-
-[Data](articles/6ca44b37.json)
-
-[Extended Data](ext_articles/6ca44b37.ext.json)
 
 ---

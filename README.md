@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 06:40:15**
+As of **2024-07-01 07:19:46**
 
 ## Newspaper Stats
 
-*Scraped **32,996** Articles*
+*Scraped **33,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,155 @@ bbccomsinhala | 321
 newsfirstlk | 363
 islandlk | 1,838
 economynextcom | 1,929
-dailyftlk | 2,028
+dailyftlk | 2,035
 adalk | 2,931
 adaderanalk | 3,759
-tamilmirrorlk | 3,903
+tamilmirrorlk | 3,904
 dailymirrorlk | 4,733
 virakesarilk | 5,139
-adaderanasinhalalk | 5,448
+adaderanasinhalalk | 5,450
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,992 (100.0%) of 32,996 articles have been extended.
+32,996 (100.0%) of 33,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
+
+### සයිනොපෙක් ඉන්ධන මිලේ වෙනසක්
+
+*2024-07-01 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198342) · `si`
+
+අද (01) සිට ක්‍රියාත්මක වන පරිදි සයිනොපෙක් සමාගමද සිය ඉන්ධන මිල ගණන් සංශෝධනය කර තිබේ.
+
+◼️
+
+[Data](articles/1e8c762a.json)
+
+---
+
+### ඉදිරි පැය 24 ගැන රතු නිවේදනයක්
+
+*2024-07-01 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198340) · `si`
+
+තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍ය දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+ඒ අනුව අරාබි මුහුද ප්‍රදේශයේ ක්‍රියා කරන බහුදින ධීවර සහ නාවික ප්‍රජාවට සැලකිලිමත් වන ලෙස එම දෙපාර්තමේන්තුව දැනුම්දෙයි.
+
+සක්‍රීය නිරිතදිග මෝසම් කාලගුණය නිසා අරාබි මුහුද ප්‍රදේශය ඉතා රළු විය හැකිය.
+
+මේ අතර බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සිහින් වැසිවාර කිහිපයක් ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකිබව කාලගුණ අනාවැකි නිවේදනයේ සඳහන් වේ.
+
+◼️
+
+[Data](articles/ae18f982.json)
+
+---
+
+### How should Sri Lanka leverage a new era in the UK?
+
+*2024-07-01 05:50:08* · [`dailyftlk`](https://www.ft.lk/columns/How-should-Sri-Lanka-leverage-a-new-era-in-the-UK/4-763705) · `en`
+
+Sri Lanka should advocate for genuine and impactful change from the next UK government while also striving for systemic change within its own country
+
+The anticipated victory of the Labour Party in the forthcoming general election in the United Kingdom presents a pivotal opportunity for political activists campaigning for a fairer and more sustainable Sri Lanka. This potential shift in power offers a chance to press for significant changes in the global economic order. For Sri Lanka to overcome its external debt crisis and economic difficulties, Labour’s commitment to strengthening and reforming multilateral institutions, tackling corruption and illicit money flows, and supporting the recovery of stolen assets is crucial.
+
+...
+
+[Data](articles/fcf1f2d7.json)
+
+---
+
+### Yes, it is $ 26 b in just 5 years
+
+*2024-07-01 05:47:27* · [`dailyftlk`](https://www.ft.lk/columns/Yes-it-is-26-b-in-just-5-years/4-763704) · `en`
+
+The table illustrates the accumulated foreign currency inflow gap for Sri Lanka over the past five years compared to 2018, the year before the COVID-19 pandemic and the Easter Sunday attacks. To emerge from the current crisis, it is crucial to strengthen and expand these verticals. According to the table, Sri Lanka has experienced a loss of about $ 26 billion over the past five years, compared to if it had maintained the same inflow numbers as in 2018 each year.
+
+The impact from tourism over the past five years amounts to approximately $ 13.9 billion. During this period, the industry was severely affected due to a global tourism slowdown. Consequently, we failed to maintain hotel standards even at their previous levels. This has resulted in poor conditions of the facilities, pressing room rates down compared to regional competitors.
+
+...
+
+[Data](articles/dfd23394.json)
+
+---
+
+### Will wind power projects mortgage our future?
+
+*2024-07-01 05:44:22* · [`dailyftlk`](https://www.ft.lk/columns/Will-wind-power-projects-mortgage-our-future/4-763703) · `en`
+
+Saudi Arabia aims to utilise her vast arid lands to harvest renewable energy resources and to increase her share of renewables to around 50% by the year 2030. This is similar to Sri Lanka’s stated goal of 70% renewable energy usage by 2030. However, sadly this is where the similarity ends.
+
+...
+
+[Data](articles/262ec755.json)
+
+---
+
+### Taking the dread, apprehension and suspicion out of Performance Reviews
+
+*2024-07-01 05:41:27* · [`dailyftlk`](https://www.ft.lk/columns/Taking-the-dread-apprehension-and-suspicion-out-of-Performance-Reviews/4-763702) · `en`
+
+Employees must believe that PRs are fora where they can openly discuss their needs and concerns
+
+A pulse check of corporate Sri Lanka reveals that there are mixed feelings about the appropriateness and effectiveness of Performance Reviews (PRs). While there are some who swear on the positive role which PRs play through their focus on goal setting, performance monitoring and employee development under an overarching umbrella of performance management, there are others who believe that PRs do more harm than good because they are not conducted methodically, transparently and/or democratically and because they are too focused on the past, time-wasting, one-sided, inaccurate, unfair, pre-meditated and biased.
+
+...
+
+[Data](articles/1d44a38a.json)
+
+---
+
+### Sri Lanka’s Rule of Men should end to give way for Rule of (Fair) Law
+
+*2024-07-01 05:37:24* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-Rule-of-Men-should-end-to-give-way-for-Rule-of-Fair-Law/4-763701) · `en`
+
+Twelve years ago, ex-Foreign Secretary, H.M.G.S. Palihakkara, chairing the late H.L. de Silva memorial events in Colombo opined that what was prevailing in Sri Lanka was not the cherished Rule of Law but a system that could be branded as the Rule of Men in power. I analysed his bold contention and interested readers can access it at https://www.colombotelegraph.com/index.php/rule-of-law-or-rule-of-men-what-will-usher-prosperity-and-development/.
+
+...
+
+[Data](articles/90bd0f52.json)
+
+---
+
+### Rock, paper, scissors: Sri Lanka’s mineral merry-go-round
+
+*2024-07-01 05:31:53* · [`dailyftlk`](https://www.ft.lk/opinion/Rock-paper-scissors-Sri-Lanka-s-mineral-merry-go-round/14-763700) · `en`
+
+We can achieve little in isolation in this modern milieu, and this rings true even in the muddy business of minerals and mining
+
+Sri Lanka’s mineral resources were once again in the spotlight recently, when news broke that India had shown interest in acquiring mines in Sri Lanka. As detailed in a study by the Institute of Policy Studies earlier this year, the local graphite industry must reposition itself with adequate international partnerships to take maximum advantage of the resource. Sri Lanka has about 1.5 million tonnes of graphite, which is inadequate to meet serious international demand, but the quality of the deposit promises a high price.
+
+German investment via Bogala Graphite Ltd. over the past two decades have seen significant value addition and enhanced operating standards, and despite a 70% decline in operating profits last year due to global exigencies the sector has grown well with foreign participation.
+
+...
+
+[Data](articles/fb8ca2b7.json)
+
+---
+
+### Imputed Rental Income Tax is an additional burden
+
+*2024-07-01 05:30:31* · [`dailyftlk`](https://www.ft.lk/opinion/Imputed-Rental-Income-Tax-is-an-additional-burden/14-763699) · `en`
+
+Many owners of houses (that are somewhat small) located in Colombo have given these on rent and have moved to more spacious houses in the suburbs.
+
+This they are compelled to do when family members increase when their children get married. The rent received from these houses is not enough to pay the rent for the relatively bigger house. Inevitably they have to pocket out an extra sum of money to bridge the difference.
+
+With the proposed imputed rental income to be implemented in mid-next year, this will become an additional burden for the home owners who have given their houses for a smaller rent and paying a bigger amount for the occupation of a larger house. Hope the President will rescind the move to impose the “Imputed Rental Income” for the above reason.
+
+◼️
+
+[Data](articles/418d3b25.json)
+
+---
 
 ### ‘Women mean Business: A Coalition for Action’ debuts
 
@@ -420,6 +552,24 @@ What happened to our children. We want international justice. Although the offic
 
 ---
 
+### ’இந்த வருடமும் அடுத்த வருடமும் தேர்தல்கள்’
+
+*2024-07-01 02:11:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-வருடமும்-அடுத்த-வருடமும்-தேர்தல்கள்/175-339675) · `ta`
+
+ஜனாதிபதி தேர்தல், பொதுத் தேர்தல் மற்றும் மாகாணசபை தேர்தல்கள் இந்த ஆண்டு மற்றும் அடுத்த ஆண்டில் நடத்தப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+அத்துடன், தனிநபர் மற்றும் கட்சி சார்பின்றி நாட்டை முதன்மைப்படுத்தி அனைவரும் பொதுவான இணக்கப்பாட்டுடன் முன்னோக்கிச் செல்ல வேண்டுமெனவும் அவர் வலியுறுத்தியுள்ளார்.
+
+தற்போதைய அரசாங்கத்தின் வேலைத் திட்டம் மற்றும் முன்நோக்கி செல்லும் வழிகள் குறித்து மக்களைத் தெளிவுபடுத்தும் வகையில் நேற்று மாத்தறை கோட்டை விளையாட்டரங்கில் நடைபெற்ற பொதுக் கூட்டத்தில் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+
+“ஒன்றாக வெல்வோம் – நாம் மாத்தறை ” என்ற தொனிப்பொருளில் மின்சக்தி மற்றும் வலுசக்தி அமைச்சர் கஞ்சன விஜேசேகரவினால் ஏற்பாடு செய்யப்பட்ட இந்த பொதுக் கூட்டத்தில் மாத்தறை மாவட்டத்தைச் சேர்ந்த பெருந்திரளான மக்கள் கலந்துகொண்டனர். (a)
+
+◼️
+
+[Data](articles/1827335f.json)
+
+---
+
 ### Two Days Special Session
 
 *2024-07-01 01:59:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-தினங்கள்-விசேட-அமர்வு/175-339674) · `ta`
@@ -606,6 +756,8 @@ As the school approaches its 100th anniversary, it was in dire need of refurbish
 
 [Data](articles/db1749d3.json)
 
+[Extended Data](ext_articles/db1749d3.ext.json)
+
 ---
 
 ### Young Sri Lankan journalists embark on journey in entrepreneurship
@@ -621,6 +773,8 @@ The program was presented by the International Labor organization, ILO and the C
 ...
 
 [Data](articles/8f1d698e.json)
+
+[Extended Data](ext_articles/8f1d698e.ext.json)
 
 ---
 
@@ -641,6 +795,8 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/c041f3f1.json)
+
+[Extended Data](ext_articles/c041f3f1.ext.json)
 
 ---
 
@@ -2027,251 +2183,5 @@ The president was proud to describe the Kenyan people's struggle as it was a cul
 [Data](articles/db0449de.json)
 
 [Extended Data](ext_articles/db0449de.ext.json)
-
----
-
-### Israel has no future in the Middle East
-
-*2024-06-30 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/187296) · `ta`
-
-Israel faces challenges due to its creation based on land seizures from Palestinians, leading to ongoing disputes over rights and resources. Many Israelis are descendants of post-war immigrants, complicating efforts towards peace and coexistence in the region.
-
-🟩
-
-Israel is a kind of theological -based communalist. It was created by stealing the Palestinian earth, homes, livelihoods and lives. The support and permission for abusing the rights of the Palestinian natives. Now more Jews are claiming these assets. But the fact is that most Israelis are the post -war people.
-
-◼️
-
-[Data](articles/6ff554ef.json)
-
-[Extended Data](ext_articles/6ff554ef.ext.json)
-
----
-
-### Eelon Musk to save Earth
-
-*2024-06-30 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198321) · `si`
-
-Elon Musk's SpaceX is set to assist NASA in safely removing the International Space Station (ISS), marking the end of its 24-year mission. Launched in 1998, the ISS, a collaboration between the U.S., Russia, Japan, the EU, and Canada, has hosted over 3,300 scientific experiments. With its retirement planned for 2030, NASA aims to deorbit the 430-ton station without causing harm to Earth. The project, costing $843 million, is expected to set a precedent for managing other space debris.
-
-🟩
-
-NASA has announced the plan to remove the plan to remove it safely with the end of the International Space Station that contributes to more than 20 years.
-
-Accordingly, it is due to be used for this rice operation, Ecomy Musk's Space X Company.
-
-The establishment of the International Space Station was first started in 1998 with the objective of making experiments under micro gravity and space environment.
-
-It is united in American, Russian, Japan, EU and Canadian Space Agencies.
-
-The center was elapsed with the purpose of conducting the Mor Space Station, which was held in the Soviet Union.
-
-The International Space Station (UPFA) operated in 2000 under two aspects of US and Russian.
-
-More than 3,300 research from the International Space Station has conducted more than 3,300 scientific and commercial visits.
-
-...
-
-[Data](articles/64b41c92.json)
-
-[Extended Data](ext_articles/64b41c92.ext.json)
-
----
-
-### The president and the drama and the politics
-
-*2024-06-30 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/187306) · `ta`
-
-In President Ranil's address, he subtly addressed political issues without directly mentioning them, indirectly listening to public sentiment through his speech.
-
-🟩
-
-President Ranil's speech in the speech of the people, even if politics is not spoken or not voting- indirectly listening to the people ,,,,,,,,,,,,,,,,,,,
-
-◼️
-
-[Data](articles/0dbd3c4c.json)
-
-[Extended Data](ext_articles/0dbd3c4c.ext.json)
-
----
-
-### Acting Attorney General's sworn in tomorrow
-
-*2024-06-30 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198320) · `si`
-
-Massajee Ranasinghe, Senior Deputy Solicitor General, will be sworn in as the Acting Attorney General tomorrow. This follows the end of Sanjay Rajaratnam's term as Attorney General. The President has recommended Ranasinghe for the permanent position, pending approval from the Constitutional Council.
-
-🟩
-
-Senior Deputy Solicitor General's Massajee Ranasinghe is scheduled to be sworn in as the Acting Attorney tomorrow (01).
-
-Adjournment, Ada Derana said he was sworn in as the Attorney General before the Chief Justice.
-
-The term of office of Sanjay Rajaratnam was the end of the 26th due to the end of the time of the Attorney General.
-
-The President has taken steps to appoint senior Deputy Solicitor General's Massenha Ranasinghe as Acting Attorney General.
-
-The President's recommendation is to be sent to the Constitutional Council to appoint him as the Attorney General.
-
-Mr. Mawatha, Ranasinghe, a former Chief Justice. it. Mr. Mass and Ranasinghe.
-
-◼️
-
-[Data](articles/d61ad09d.json)
-
-[Extended Data](ext_articles/d61ad09d.ext.json)
-
----
-
-### '' Devon 5 '' The number of fishermen who died of toxication up to 5
-
-*2024-06-30 13:09:07* · [`adalk`](https://www.ada.lk/breaking_news/’’ඩෙවොන්-5’’-විෂ-ශරීරගත-වීමෙන්-මියගිය-ධීවරයින්-සංඛ්‍යාව-5ක්-දක්වා-ඉහලට/11-410519) · `si`
-
-The Department of Fisheries confirmed six more deaths from a toxic substance found in bottles at sea, bringing the total to five. Two of the "Devon 5," crew members of a Singhore trade ship, were rescued but tragically, one has passed away. Additionally, the body of a sailor from the Sri Lanka Naval Ship, now under the Singapore flag, will be returned later today.
-
-🟩
-
-The Department of Fisheries and Aquatic Resources has confirmed that another six fishermen were killed in a bottle floating in the sea.
-
-Accordingly, 5 fishermen have been killed and two of the Devon 5, a Singhore trade ship was rescued today (30).The Director General of the Fisheries Department Susantha Kahawatte said that one of them had died.
-
-Meanwhile, the body of the Sri Lanka Naval Ship, who has been brought under the Vijaya Vijayabahu, which was brought under the Singapore Flag yesterday, is due to be handed over at 6.00 pm.
-
-◼️
-
-[Data](articles/b5f26dda.json)
-
-[Extended Data](ext_articles/b5f26dda.ext.json)
-
----
-
-### A woman driven a woman on the bay, two injured
-
-*2024-06-30 13:00:10* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවක්-ධාවනය-කල-මොටර්-රථයක්-බොක්කුවත්-මතට-පෙරලෙයි--දෙදෙනෙකුට-තුවාල/11-410518) · `si`
-
-In a tragic accident near Dasyasirigama, a novice driver lost control of her car, colliding with a tractor. Both were rushed to Bacid Hospital. The incident, investigated by Norwood police, highlights the dangers of inexperienced driving.
-
-🟩
-
-Norwood police said that a motor vehicle and another person was admitted to the Bacid Hospital by a mortar vehicle to Hatton.
-
-The accident occurred in the Dasyasirigama area on the Dasiyirigama main road around 4 pm yesterday (29).
-
-The Nortwood police said that the motor was driven by a new driver's license and suspected that the road was driven by the lack of the woman's control.
-
-The mortgage vehicle has damaged severe losses and the Norwood police are conducting investigations into the accident.
-
-◼️
-
-[Data](articles/2856fa5f.json)
-
-[Extended Data](ext_articles/2856fa5f.ext.json)
-
----
-
-### Adani Company is the most valuable resource in Sri Lanka's navy
-
-*2024-06-30 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187307) · `ta`
-
-The Adani Group, collaborating with Taiwan's Umigor, plans to mine Cobalt in Sri Lanka, leveraging India's naval rights post-settlement of a dispute. Sri Lanka aims to exploit its maritime resources, extending its continental shelf beyond 200 nautical miles as per UN law. Despite India's request for additional maritime rights and applications to explore Cobalt-rich areas, the International Navy Authority denied India's claims over disputed seas, citing Sri Lanka's sovereignty. This sets the stage for diplomatic resolution between the two countries regarding their maritime boundaries and resource exploration rights.
-
-🟩
-
-The Adani Group of India, which is involved in the West Center Development of the Colombo Port and the Mannar Wind Power Plant, will be involved in the excavation of minerals in Sri Lanka.
-
-An official in talks said that the Adani Group will work in collaboration with Taiwan's Umigor Company in the process of excavating Cobalt minerals.
-
-Sri Lanka intends to have the benefits of alliance with India to find the valuable benefits of the depths of the Indian Ocean after seeing a solution to the naval rights issue between the two countries.
-
-According to the United Nations Maritime Agreement, Sri Lanka has extended its continent from 200 nations.
-
-Currently, Sri Lanka has a special right of 200 miles from the coast of Sri Lanka, which is due to the Pheromankanese rich in the Central Indian Ocean;The tops can be used for economic purposes.
-
-India has also demanded the right of 350 marines from its border.
-
-...
-
-[Data](articles/5d53d81d.json)
-
-[Extended Data](ext_articles/5d53d81d.ext.json)
-
----
-
-### Where the unvended Israeli girl met
-
-*2024-06-30 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198319) · `si`
-
-A 25-year-old Israeli woman went missing from her hotel in Trincomalee, Sri Lanka, after arriving on the 22nd. The Uppuweli Police, along with the Special Task Force and the Eastern Provincial Tourism Bureau, launched an investigation. She was found in the Nilaveli area but remains hospitalized without providing details about her disappearance.
-
-🟩
-
-Investigations have been recovered by the Israeli national girl in the Nilaveli area in Nilaveli.
-
-The Israeli national, 25-year-old Israeli woman, arrived in Sri Lanka on the 22nd.
-
-She had set up a hotel in Trincomalee in Trincomalee online to accommodate.
-
-However, she has disappeared on the 26th and the owner of the hotel informed the Uppuice Police regarding the incident.
-
-Accordingly, the Uppuweli Police, Police Special Task Force, and the Eastern Provincial Tourism Bureau were conducting further investigations.
-
-The girl was recovered following a camp in Nilaveli in Nilaveli.
-
-When contacted by the Uppuweli Police, "Ada Derana" said the girl said that the girl was amazing and guess that she had to go to the forest area.
-
-However, she still has no statement from the girl regarding the incident and she is currently receiving treatment at the Trincomalee Base Hospital.
-
-◼️
-
-[Data](articles/3eee1080.json)
-
-[Extended Data](ext_articles/3eee1080.ext.json)
-
----
-
-### Correction tonight in fuel prices
-
-*2024-06-30 12:32:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலையில்-இன்றிரவு-திருத்தம்/175-339643) · `ta`
-
-Tonight's fuel price revision will occur as per the monthly schedule. If diesel prices decrease, private bus fares may remain unchanged despite a 5% reduction in bus fares effective from Monday due to previous fuel price adjustments.
-
-🟩
-
-The Ministry of Power and Energy said that the fuel prices revision will take place tonight.
-
-According to a ministry official, the amendment will take place according to the monthly fuel amendment.
-
-However, if the diesel prices are reduced tonight, the private bus owners' association said it would not be revised at bus fares.
-
-Bus fare has been reduced by 5 percent according to the fuel price revision and it will come into effect on Monday (01). Minimum bus fare Rs.. Has been declared 28.
-
-◼️
-
-[Data](articles/1968ad22.json)
-
-[Extended Data](ext_articles/1968ad22.ext.json)
-
----
-
-### Sexual Abuse
-
-*2024-06-30 12:24:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலியல்-துஷ்பிரயோகம்-கோடீஸ்வர-வர்த்தகருக்கு-பயணத்-தடை/175-339642) · `ta`
-
-In a case involving allegations of sexual assault against businessman Sena Yadehake, Fort Magistrate Kosala has temporarily banned him from leaving Sri Lanka. This action follows a complaint filed by a young business analyst, claiming sexual abuse during a business meeting at a hotel in Kalupitiya. The Kaluppitti police initiated an investigation upon receiving the complaint and requested a travel ban on Yadehake. The magistrate has also instructed the police to update the court on the investigation's progress.
-
-🟩
-
-Fort Magistrate Kosala has banned the departure of a millionaire businessman Richard Peiris Group Chairman Sena Yadehake from leaving the country in connection with the alleged rape incident.
-
-The Kaluppitti police officers have issued a foreign ban on the request that the billionaire businessman has begun investigations on the complaint that he has been sexually assaulted when he went to explore business affairs at a star hotel in Kalupitiya.
-
-The Kaluppitti police officials informed the court the progress of the complaint made by the young business analyst and said that the Sena Yadehike, who was abroad for about a month, had called the complainant.. Richard Peiris is staying at a star hotel in Kaluppitti to investigate the business affairs of the Group.
-
-...
-
-[Data](articles/1a1174db.json)
-
-[Extended Data](ext_articles/1a1174db.ext.json)
 
 ---

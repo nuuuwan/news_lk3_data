@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 05:19:31**
+As of **2024-07-01 05:38:02**
 
 ## Newspaper Stats
 
-*Scraped **32,984** Articles*
+*Scraped **32,992** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 301
+dbsjeyarajcom | 302
 colombotelegraphcom | 302
 bbccomsinhala | 321
 newsfirstlk | 363
 islandlk | 1,834
 economynextcom | 1,929
-dailyftlk | 2,021
+dailyftlk | 2,028
 adalk | 2,931
 adaderanalk | 3,759
 tamilmirrorlk | 3,903
@@ -26,11 +26,99 @@ adaderanasinhalalk | 5,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,984 (100.0%) of 32,984 articles have been extended.
+32,984 (100.0%) of 32,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
+
+### ‘Women mean Business: A Coalition for Action’ debuts
+
+*2024-07-01 05:06:58* · [`dailyftlk`](https://www.ft.lk/business/Women-mean-Business-A-Coalition-for-Action-debuts/34-763681) · `en`
+
+Palmyrah Based Products Trainer and Producer Bapu Suthasini, Sandaliya Bimmal Owner Saman Kumara Senevirathne, Harshi Bathik Marketing Director Nugika Priyanthi Aluthge, Best Fashions Owner Venuraj Dhivya, Shani Apparel Owner Shanika Prashanthika, and Moderator Chrysalis Program Manager Grants and New Businesses K. Vinopavan at the panel
+
+SANASA International MD Samadani Kiriwandeniya, Regional Development Bank Assistant General Manager Prasad Handunhewa, Central Bank Regional Development Department Deputy Director Nilanka Chamindani, Commercial Bank Chief Manager Mohan Fernando, and Moderator Savithri Rodrigo at the panel
+
+Chrysalis together with UNDP and other key public and private sector stakeholders come together to empower women entrepreneurs and usher greater inclusive growth
+
+“Women mean Business: A Coalition for Action” was launched recently to address multiple issues faced by micro, small and medium women entrepreneurs and usher greater inclusive growth in Sri Lanka.
+
+...
+
+[Data](articles/82313318.json)
+
+---
+
+### ‘Sustainability in Packaging Asia 2024’ spotlights need for circular economy
+
+*2024-07-01 05:04:18* · [`dailyftlk`](https://www.ft.lk/business/Sustainability-in-Packaging-Asia-2024-spotlights-need-for-circular-economy/34-763680) · `en`
+
+The ‘Sustainability in Packaging Asia 2024’ conference was held in Singapore from 4 to 6 June. The high-profile conference showcased the latest sustainable packaging solutions from leading suppliers and other professionals in the industry while enabling packaging professionals to avail of an unparalleled mix of actionable insights, collaborative case studies, leading panel discussions, latest trends and emerging developments in the sustainable packaging marketplace.
+
+The conference was organised by Smithers, a multinational provider of testing, consulting, information and compliance services. This is an important annual event in the calendar of Asia and South Pacific countries on solutions to plastic waste problems and improving sustainability of packaging as a whole.
+
+...
+
+[Data](articles/5ec71098.json)
+
+---
+
+### SJB calls for immediate appointment of AG
+
+*2024-07-01 04:55:01* · [`dailyftlk`](https://www.ft.lk/news/SJB-calls-for-immediate-appointment-of-AG/56-763674) · `en`
+
+Samagi Jana Balawegaya (SJB) MP Chandima Weerakkody has called on President Ranil Wickremesinghe to take steps to appoint an Attorney General immediately.
+
+Addressing a press conference on the weekend, he urged the President to appoint a qualified senior official as the Acting Attorney General or Attorney General with immediate effect.
+
+Weerakkody accused the President of attempting to weaken the country’s judicial system and launch attacks against it.
+
+“He even accused the judiciary in Parliament without considering the potential damage to the country’s democracy,” he said.
+
+The MP also accused the President of neglecting duties assigned by the constitution.
+
+...
+
+[Data](articles/e2fd66c0.json)
+
+---
+
+### Senior ASG Parinda Ranasinghe to be appointed as Acting AG
+
+*2024-07-01 04:53:59* · [`dailyftlk`](https://www.ft.lk/news/Senior-ASG-Parinda-Ranasinghe-to-be-appointed-as-Acting-AG/56-763673) · `en`
+
+Senior Additional Solicitor General Parinda Ranasinghe, Jr. is set to be appointed as the Acting Attorney General of Sri Lanka. He is scheduled to take the oath of office before the Chief Justice today (1). According to Article 61E (b) of the Constitution, read in conjunction with Article 41C, his appointment will be effective from 1 July to 11 July.
+
+According to reports, Ranasinghe has been appointed Acting Attorney General, alongside his current responsibilities.
+
+Ranasinghe is the son of K.A. Parinda Ranasinghe a former Sri Lankan judge, who was also the 38th Chief Justice of the Supreme Court of Sri Lanka. Ranasinghe, Jr. is currently tipped to be appointed as the Attorney General.
+
+Recently, the Constitutional Council twice rejected President Ranil Wickremesinghe’s proposal to extend the tenure of former Attorney General Sanjay Rajaratnam PC for another six months.
+
+As a result, former Attorney General Rajaratnam PC retired on Wednesday (26).
+
+...
+
+[Data](articles/4dfa0ff6.json)
+
+---
+
+### Tiran offers SL police expertise to combat global security threats
+
+*2024-07-01 04:53:42* · [`dailyftlk`](https://www.ft.lk/news/Tiran-offers-SL-police-expertise-to-combat-global-security-threats/56-763672) · `en`
+
+Sri Lanka has pledged its commitment to bolstering global security efforts by offering the expertise of Sri Lankan police officers to combat rising security threats, announced Public Security Minister Tiran Alles at the United Nations Chiefs of Police Summit (UNCOPS 2024) held at the UN Headquarters in New York yesterday.
+
+Representing Sri Lanka at the conference themed “Prevention of Conflict and Violence and Maintenance of Peace,” Minister Tiran Alles underscored the increasingly complex nature of global security challenges. These challenges, he noted, include the escalation of violent conflicts, the humanitarian crisis in conflict zones affecting civilians, and the emergence of unconventional threats such as cybercrime and weaponised technology.
+
+Minister Alles also highlighted the detrimental impact of organised crime and gang violence on international peace and stability.
+
+...
+
+[Data](articles/a1cb70c4.json)
+
+---
 
 ### Complaint filed against SIS over COVID-19 forced cremations
 
@@ -67,6 +155,38 @@ In a press release, ADIC noted that while the ministries assert that their prima
 [Data](articles/6935e708.json)
 
 [Extended Data](ext_articles/6935e708.ext.json)
+
+---
+
+### NSBM receives Gold Award at Presidential Environment Awards 2024
+
+*2024-07-01 04:52:15* · [`dailyftlk`](https://www.ft.lk/business/NSBM-receives-Gold-Award-at-Presidential-Environment-Awards-2024/34-763669) · `en`
+
+NSBM Green University has been honoured with the Gold Award as the “Best Government Institution that Contributes to the Environment” at the Presidential Environment Awards Ceremony 2024 by President Ranil Wickremesinghe.
+
+The award was received at the grand ceremony held on 28 June at BMICH under the distinguished patronage of President Wickremesinghe.
+
+The Presidential Environment Awards, organised annually by the Central Environmental Authority (CEA) under the guidance of the Ministry of Environment, is recognised as the most prestigious recognition in the field of environmental conservation and sustainability in Sri Lanka. The ceremony awards state honours to industries, organisations and individuals who have uniquely contributed to sustainable development through environmental conservation and protection.
+
+...
+
+[Data](articles/f84e810a.json)
+
+---
+
+### Keerthi Gunawardane re-appointed as FCCISL President
+
+*2024-07-01 04:50:45* · [`dailyftlk`](https://www.ft.lk/business/Keerthi-Gunawardane-re-appointed-as-FCCISL-President/34-763668) · `en`
+
+Keerthi Gunawardane was re-appointed as the President of the Federation of Chambers of Commerce and Industry Sri Lanka (FCCISL) during the Annual General Meeting held at the Organisation of Professional Associations of Sri Lanka (OPA) recently.
+
+FCCISL in a statement said his exemplary leadership and dedication to the organisation have been recognised and honoured with this re-appointment.
+
+Gunawardane’s presidency marks a continued era of dynamic leadership at FCCISL. Under his guidance, the Federation has successfully launched and led numerous initiatives aimed at uplifting the Micro, Small, and Medium Enterprises (MSMEs) sector in Sri Lanka. Notably, his collaborative efforts with the Skills for Inclusive Growth (S4IG) program, supported by Australian Aid, have significantly boosted the small hotels and home stay sectors, driving sustainable growth and development.
+
+...
+
+[Data](articles/0da718ed.json)
 
 ---
 
@@ -931,6 +1051,26 @@ Accordingly, the driver was produced before the Kandy National Hospital after ob
 [Data](articles/6513f65b.json)
 
 [Extended Data](ext_articles/6513f65b.ext.json)
+
+---
+
+### Veteran Sri Lankan Tamil Political  leader   Rajavarothayam Sampanthan passes away in Colombo at the age of 91. He  dedicated his political life to pursuing a just solution to Sri Lanka’s Tamil question
+
+*2024-06-30 19:41:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84303) · `en`
+
+Veteran Sri Lankan Tamil leader Rajavarothiam Sampanthan, who dedicated his political life to pursuing a just solution to the island nation’s Tamil question, passed away in Colombo late on Sunday. He was 91.
+
+Mr. Sampanthan, of the Ilankai Tamil Arasu Katchi (ITAK), was a sitting MP from the eastern Trincomalee district, and led the Tamil National Alliance,
+
+the main grouping representing Tamils of Sri Lanka’s war-hit north and east. He was Leader of the Opposition between 2015 and 2018.
+
+A parliamentarian for nearly half a century, Mr. Sampanthan was a bold and relentless voice in the House. Since the end of the civil war in 2009, he tirelessly demanded equal rights for Tamils, within a ‘united, undivided, indivisible’ country.
+
+Trained as a lawyer, he based his arguments for a political solution on Sri Lanka’s constitutional history and the many promises that the southern Sinhalese establishment made in the past but failed to keep.
+
+◼️
+
+[Data](articles/4d79b1e1.json)
 
 ---
 
@@ -2129,213 +2269,5 @@ I am looking forward to taking that resolution. In the present context, the cons
 [Data](articles/d9f4b3a2.json)
 
 [Extended Data](ext_articles/d9f4b3a2.ext.json)
-
----
-
-### President Ranil again order to hand over the grazing grounds of peacock farmers
-
-*2024-06-30 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/187293) · `ta`
-
-President Ranil Wickremesinghe has directed officials to return grazing lands to peacock farmers, expressing interest in personally meeting them during his visit to Batticaloa in early July. This decision follows discussions with local government and forestry officials, aimed at resolving farmers' concerns over land use. Authorities have assured that farming activities will cease on these pastures, marking an end to the dispute.
-
-🟩
-
-President Ranil Wickremesinghe has once again ordered the relevant state officials to hand over the grazing grounds of peacock farmers. President Ranil has said that he is also interested in meeting the farmers in person at the moment of visiting Batticaloa for the second week of July.
-
-President Ranil Wickremesinghe met with the Batticaloa Government Agent, the Mahaweli Authority officials and the Forest Department officials at the Presidential Secretariat on Saturday (29).
-
-At this time, the focus was on the struggle of peacock farmers to ensure their grazing grounds.
-
-Farmers were also concerned about the demand issued by the farmers. He has also questioned the authorities about the implementation of the implementation of the farmers' demands, and that he has been asked to take steps to provide a solution to the matter.
-
-...
-
-[Data](articles/5eab480b.json)
-
-[Extended Data](ext_articles/5eab480b.ext.json)
-
----
-
-### Death toll after fishermen drink from bottle found in sea climbs to 05
-
-*2024-06-30 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100195/death-toll-after-fishermen-drink-from-bottle-found-in-sea-climbs-to-05) · `en`
-
-The Director General of the Department of Fisheries & Aquatic Resources, Susantha Kahawatta, stated that one of the two Sri Lankan fishermen taken onboard the Singaporean merchant vessel for emergency treatment has been reported dead, raising the total deaths to five among the 6-member crew.
-
-It was reported this morning (30) that the death toll following the incident where the crew of a fishing vessel had consumed the contents of a bottle they found floating in the sea, assuming it was liquor, had increased to four while two others are in critical condition.
-
-The two fishermen who were critically ill had been taken aboard a Singaporean merchant vessel and were provided with emergency treatment.
-
-The Singaporean vessel is expected to transfer the two fishermen to SLNS Vijayabahu at sea.
-
-However, one of the two fishermen has also passed away leaving just one survivor from the six-man crew of the fishing trawler.
-
-...
-
-[Data](articles/c5d8d63b.json)
-
-[Extended Data](ext_articles/c5d8d63b.ext.json)
-
----
-
-### President
-
-*2024-06-30 11:51:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜனாதிபதிக்கு-மண்டை-ஓடு-சூனியம்-2-அமைச்சர்கள்-கைது/50-339641) · `ta`
-
-Two ministers in the Maldives, Fatimath Shamnas and Adam Rameez, were arrested for allegedly practicing witchcraft against President Mohammed Muiz, leading to widespread debate. This follows a history of "Billy magic" incidents, including a murder linked to witchcraft accusations and political unrest. Despite being legal, belief in witchcraft significantly impacts society, with potential penalties under Islamic law.
-
-🟩
-
-Strict action has been taken against two ministers on charges of conspiracy to conspire to the president with a skull.
-
-The arrest of two ministers of the country for allegedly bringing Billy to Maldivian President Mohammed Muizu has caused great debate.
-
-The presidential election was held in the country. In this election, Mohammed Muiz was elected as the new president. He was close to China and hated India. This resulted in the most talk about the Maldives in India.
-
-In this case, now the name of President Mohammed Muiz is on another issue. The police have arrested two ministers, Fatimad Shamnas and another minister, Adam Rameez, for allegedly witchcraft to Muiz.
-
-Fatimath Shamnas was the Minister of Environment, Climate Change and Energy of the Maldives. Both have been suspended from the post of Minister.
-
-...
-
-[Data](articles/7617bb0c.json)
-
-[Extended Data](ext_articles/7617bb0c.ext.json)
-
----
-
-### The Negombo is becoming a cyber criminal hub
-
-*2024-06-30 11:51:45* · [`adalk`](https://www.ada.lk/breaking_news/මිගමුව-සයිබර්-අපරාධ-කේන්ද්‍රයක්-බවට-පත්වෙමින්-යයි/11-410517) · `si`
-
-Negombo is emerging as a cybercrime hotspot, with 31 suspects arrested from a hotel. The police suspect involvement in the White Twenty20 World Cup. They've seized 30 computers and numerous mobile phones, arresting nearly 150 suspects from four hotels. Suspects include nationals from Pakistan, Nigeria, Nepal, Malaysia, India, Bangladesh, and China. The operation targeted an area known for harboring online criminals, disrupting their activities.
-
-🟩
-
-Another hotel in the small loss in the small loss in the small loss in the small loss in the Factory Criminal Investigations Department officials arrested 31 of the suspects. There were not their travels.
-
-The police suspect that the Village was conducted with the White Twenty20 World Cup.
-
-Police have also briefed 30 computers and more mobile phones were briefed and the police said.
-
-Nearly 15 0 forecasts have been arrested on suspects on the raids at four Negoasi hotels in the four hotels in Neuasi.
-
-The police say that Pakistan, Nigeria, Nepalese, Malaysia, Indian, Bangladeshi and Chinese are also present.
-
-The police also had a large number of electronic devices with mobile phones in their possession.
-
-The number of arrests of online criminals have been identified as an area where Negombo has been safely kept secretary.
-
-The criminals have been allowed to launch the criminals in deliberate residents of the housing owners.
-
-◼️
-
-[Data](articles/0153dfa7.json)
-
-[Extended Data](ext_articles/0153dfa7.ext.json)
-
----
-
-### Top of fisheries death
-
-*2024-06-30 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198318) · `si`
-
-Six fishermen died after being trapped in a drifting bottle off the coast. Two survivors from the Devon 5 incident were rescued; however, one passed away.
-
-🟩
-
-The Department of Fisheries and Aquatic Resources has confirmed that another six fishermen were killed in a bottle floating in the sea.
-
-Two signs of the Devon 5 were saved today (30).
-
-Director General of the Fisheries Department Susantha Kahawatta said that one of them had died.
-
-◼️
-
-[Data](articles/2cf8e058.json)
-
-[Extended Data](ext_articles/2cf8e058.ext.json)
-
----
-
-### UN to establish special police units. To take action - Tran Ales
-
-*2024-06-30 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/187290) · `ta`
-
-Tran Ales, Public Security Minister of Sri Lanka, proposes the UN create specialized police units to combat global security threats like cybercrime and gang violence, emphasizing Sri Lanka's readiness to assist and share expertise.
-
-🟩
-
-Public Security Minister Tran Ales has said that the UN should take steps to establish special police units to fight internationally increasing security threats and Sri Lanka is ready to provide full cooperation.
-
-The recently held UN. He said this while addressing the meeting of the Police Principals.
-
-Increasing international security challenges, including the emergence of traditional threats such as cybercrime and armed technology, has caused complexity to all countries in the conflict of violent conflicts.
-
-In particular, the violence of organized crimes and gangs is increasing. This situation is an impact on international peace.
-
-Sri Lanka's commitment to international security will continue and the Sri Lanka Police Division is currently ready. The Sri Lanka Police Division is found in grade three, ensuring credibility.
-
-The United Nations should consider establishing and establishing special police units to deal with the increasing threat of organized crimes and gang violence.
-
-...
-
-[Data](articles/dd39962e.json)
-
-[Extended Data](ext_articles/dd39962e.ext.json)
-
----
-
-### Intelligence moves golden racketeers and makes Mumbai airport
-
-*2024-06-30 11:37:58* · [`adalk`](https://www.ada.lk/breaking_news/බුද්ධි-තොරතුර-රන්-ජාවාරම්කරුවන්-අතටම-ගිහිල්ලා-මුම්බායි-ගුවන්-තොටුපොල-දෙවනත්-කරයි/11-410516) · `si`
-
-Intelligence thwarted a smuggling attempt at Katunayake airport involving 18 Indian passengers trying to smuggle gold. The operation was delayed, and the suspects reached Bandaranaike International Airport instead. Indian authorities, anticipating their arrival, prepared for their arrest but learned they had already left. The group consisted of 16 men and 2 women. Their flight from Mumbai to Katunayake was scheduled for 6:00 pm, but they arrived two hours late. Customs officers inspected the plane and found nothing, suspecting involvement of the LTTE.
-
-🟩
-
-The aircraft has come to know that the Katunayake airport has made information about 18 Indian passengers to bring about bodies of Rs.In the meantime, the gold was to be delayed and given to other individuals, and then they had come to the Bandaranaike International Airport without any of the two hours.
-
-Indian Airport Intelligence Intelligence Intelligence Service, Katunayake Airport was due to arrive at the Katunayake airport at 06/200 pmAn intelligence was provided.
-
-Accordingly, 20 more customs officers with the Director of the Katunayaka Airport and were prepared to be arrested on this plane.
-
-The flight had taken place after this flight was heard by these Indian.
-
-The Indian racketeers included 16 Indian men and two women.
-
-The airline is due to leave the airport on January at 12.25 pm on January at 12.25 in Mumbai, India.
-
-In the meantime, they had been substanded to give them the gold from their bodies.
-
-...
-
-[Data](articles/a09c1aef.json)
-
-[Extended Data](ext_articles/a09c1aef.ext.json)
-
----
-
-### 18 killed, 42 injured in series of suicide attacks in Nigeria
-
-*2024-06-30 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100194/18-killed-42-injured-in-series-of-suicide-attacks-in-nigeria) · `en`
-
-At least 18 people were killed and 19 seriously wounded in a string of suicide attacks in northeastern Nigeria on Saturday, emergency services said.
-
-In one of three blasts in the town of Gwoza, a female attacker with a baby strapped to her back detonated explosives in the middle of a wedding ceremony, according to a police spokesman.
-
-The other attacks in the border town across from Cameroon targeted a hospital and a funeral for victims of the earlier wedding blast, authorities said.
-
-At least 18 people were killed and 42 others injured in the attacks, according to the Borno State Emergency Management Agency (SEMA).
-
-“So far, 18 deaths comprising children, men, females and pregnant women” have been reported, said Barkindo Saidu, the head of the agency, in a report seen by AFP.
-
-Nineteen “seriously injured” people were taken to the regional capital Maiduguri, while 23 others were awaiting evacuation, Saidu said in the report.
-
-...
-
-[Data](articles/570bdfaa.json)
-
-[Extended Data](ext_articles/570bdfaa.ext.json)
 
 ---

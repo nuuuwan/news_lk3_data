@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 18:15:04**
+As of **2024-07-01 18:27:12**
 
 ## Newspaper Stats
 
-*Scraped **33,125** Articles*
+*Scraped **33,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ colombotelegraphcom | 303
 bbccomsinhala | 324
 newsfirstlk | 363
 islandlk | 1,846
-economynextcom | 1,935
+economynextcom | 1,940
 dailyftlk | 2,036
 adalk | 2,944
-adaderanalk | 3,775
+adaderanalk | 3,776
 tamilmirrorlk | 3,919
 dailymirrorlk | 4,733
 virakesarilk | 5,167
@@ -26,43 +26,91 @@ adaderanasinhalalk | 5,478
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,123 (100.0%) of 33,125 articles have been extended.
+33,125 (100.0%) of 33,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### කෙහෙළියගේ ඇප ඉල්ලීම පිළිබඳ පෙත්සම සලකාබලයි
+### Sri Lanka extends gratitude to US for assistance in bilateral debt restructuring
+
+*2024-07-01 18:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100223/sri-lanka-extends-gratitude-to-us-for-assistance-in-bilateral-debt-restructuring) · `en`
+
+Sri Lanka’s State Minister of Finance Shehan Semasinge has reaffirmed the government’s commitment to keeping economic and other reforms on track, during a meeting with the US Treasury’s Deputy Assistant Secretary for Asia Robert Kaproth at the Ministry of Finance in Colombo.
+
+Posting on ‘X’ (formerly Twitter), Semasinge stated that on behalf of the government and people of Sri Lanka, he extended sincere gratitude and appreciation to the government and people of the US for their support and cooperation in helping Sri Lanka recover economically and conclude bilateral debt restructuring, help find a resolution to Sri Lanka’s debt crisis.
+
+“It was great to note the USA’s continued support to Sri Lanka which is significant, reflecting the strong bilateral relationship between the two countries. The support on multiple sectors, and the partnership aims to foster stability, and mutual understanding, benefiting both nations”, he added on the post.
+
+...
+
+[Data](articles/209e763e.json)
+
+---
+
+### Sri Lanka to digitize motor traffic department operations despite complaints: Minister
+
+*2024-07-01 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-digitize-motor-traffic-department-operations-despite-complaints-minister-170396/) · `en`
+
+ECONOMYNEXT – Sri Lanka will commence digitalization of its Motor Traffic Department, including introducing an e-ticket system despite opposition, Minister of Transport Bandula Gunawardena has said.
+
+“We are trying to digitalize the Department of Motor Traffic,” Gunawardena told reporters on Monday. “We are also trying to digitalize the way in which fees are being calculated in the expressway by calling for tenders.”
+
+However, Gunawardena said that despite proposals for an e-ticketing system to combat theft by bus conductors, there has been opposition for transportation workers who take the matter to court.
+
+Sri Lanka state bus system looks to e-ticketing to combat revenue leaks
+
+“There are various obstacles and it is not just obstacles, they are going to court. Because of this, till the court judgment comes, we can’t do anything,” Gunawardena said. (Colombo/Jul1/2024)
+
+◼️
+
+[Data](articles/a4ad6fb5.json)
+
+---
+
+### Petition on Keheliya's bail application will be considered
 
 *2024-07-01 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198372) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ඉදිරිපත් කළ රිට් පෙත්සමේ වැඩිදුර කරුණු සලකා බැලීම හෙට (02) දින තෙක් කල් තැබුණි.
+A petition against former Health Minister Keheliya Rambukwella's bail application, related to substandard vaccines, was heard but postponed until tomorrow. The case involves allegations of drug misuse and is being reviewed by the Court of Appeal.
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් තමන්ව නඩු විභාගය අවසන් වනතුරු රක්ෂිත බන්ධනාගාරගත කිරීමට මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසින් දී ඇති නියෝගය බලරහිත කිරීමේ තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා මෙම රිට් පෙත්සම ගොනු කර තිබේ.
+🟩
 
-මෙම පෙත්සම අද (01) අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන විනිසුරු මඩුල්ල ඉදිරියේ සලකා බැලුණි.
+Several further matters of the Rit petition presented by former Minister of Health Keheliya Rambukwella was postponed until tomorrow.
 
-වැඩිදුරටත් කරුණු දැක්වූ නියෝජ්‍ය සොලිසිටර් ජනරාල්වරයා මතභේදයට තුඩුදී තිබෙන අදාළ ප්‍රතිදේහ එන්නත් ප්‍රමාණවත් තොග සෞඛ්‍ය අමාත්‍යාංශය සන්තකයේ තිබියදී එම ඖෂධවල හිඟයක් පවතින බවට නොමග යවන ආකාරයේ තොරතුරු හිටපු සෞඛ්‍ය අමාත්‍යවරයා විසින් අමාත්‍ය මණ්ඩලයට ඉදිරිපත් කර තිබෙන බව සඳහන් කළේය.
+The Rit petition has been filed by the Maligakanda Magistrate's Court to direct the decree in the courtship of the court until the prosecution of the substandard antibodies.
+
+The petition was considered in front of the judge of the Court of Appeal today (01).
+
+The Deputy Solicitor General further stated that there was a misuse of the drugs that the potatoes have been in the process of controversy.
 
 ◼️
 
 [Data](articles/d6bc8685.json)
 
+[Extended Data](ext_articles/d6bc8685.ext.json)
+
 ---
 
-### බීමත් පුද්ගලයෙක් පාරේ කළ දේ
+### What a drunk person did on the road
 
 *2024-07-01 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198371) · `si`
 
-කඩුවක් රැගෙන මාර්ගයට පැමිණි පුද්ගලයෙකු මහමඟ ගමන් ගන්නා පුද්ගලයන්ට පහරදීමේ සිද්ධියක් තලංගම ප්‍රදේශයෙන් වාර්තා විය.
+In Talangama, a drunk man caused chaos last night on Denzil Kobbekaduwa Mawatha, damaging four vehicles and attacking Provincial Council buildings with a sword.
 
-තලංගම ප්‍රදේශයේ ඩෙන්සිල් කොබ්බෑකඩුව මාවතේ ඊයේ රාත්‍රියේ මෙම සිද්ධිය ඇතිවී තිබුණි.
+🟩
 
-අදාළ පුද්ගලයා බීමතින් සිට ඇති අතර ඔහු සිදුකළ ප්‍රහාරවලින් වාහන 4කට සහ පළාත් සභා ගොඩනැගිල්ලට හානි සිදුවී ඇත.
+Talangama Regional incidents reported a person who travels a man who had taken a sword.
+
+The incident had occurred last night at Denzil Kobbekaduwa Mawatha in Talangama.
+
+The man had been drunk and 4 vehicles and the Provincial Councils were damaged by the attacks on him.
 
 ◼️
 
 [Data](articles/8ce6d29f.json)
+
+[Extended Data](ext_articles/8ce6d29f.ext.json)
 
 ---
 
@@ -113,6 +161,64 @@ Earlier, the Speaker of Parliament Mahinda Yapa Abeywardena informed all the Mem
 [Data](articles/112a036f.json)
 
 [Extended Data](ext_articles/112a036f.ext.json)
+
+---
+
+### Sri Lanka to renegotiate cancelled bilateral loan projects after debt restructuring deal
+
+*2024-07-01 16:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-renegotiate-cancelled-bilateral-loan-projects-after-debt-restructuring-deal-170381/) · `en`
+
+ECONOMYNEXT – Sri Lanka has appointed a committee to look into renegotiate all the cancelled projects with bilateral loans after the last week debt restructuring deal, Cabinet Spokesman Bandula Gunawardena said.
+
+The island nation reached US$10 billion debt restructuring deal with the members of Paris Club and China last week and President Ranil Wickremesinghe announced the success in the bilateral loans after the deal signed.
+
+A raft of infrastructure projects started with bilateral loans prior to Sri Lanka’s declaration of bankruptcy in April 2022 have been suspended as bilateral creditors stopped the funding due to the island nation’s sovereign debt default.
+
+“The government has appointed a separate committee to discuss these changes including financial experts and institutions. A single person cannot decide on this,” Gunawardena told reporters at a media briefing in Colombo on Monday (01).
+
+...
+
+[Data](articles/31e5cef3.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 304.80/305.00 to US dollar
+
+*2024-07-01 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-304-80-305-00-to-us-dollar-170382/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 304.80/305.00 to the US dollar on Monday, down from 306.00/20 to the US dollar on Friday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 10.85/11.00 percent, down from 10.95/11.15 percent.
+
+A bond maturing on 15.02.2028 closed at 11.90/12.00 percent, down from 11.90/98 percent.
+
+A bond maturing on 15.09.2029 closed at 12.10/20 percent, up from 12.20/30 percent.
+
+◼️
+
+[Data](articles/e375c856.json)
+
+---
+
+### Sri Lanka stocks close down, turnover lowest in a month
+
+*2024-07-01 16:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-lowest-in-a-month-170369/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
+
+The broader All Share Index closed down 0.56 percent, or 68.05 points, at 12,076; while the more liquid S&P SL20 Index closed down 0.63 percent, or 22.71 points, at 3,565.
+
+Most of this came from two crossings: John Keells Holdings and Plc (Rs107mn), share closed up at 204.00, and Hayleys Plc (Rs140mn), the share closed down at 105.00.
+
+“These were from local institutions,” Softlogic Stockbrokers said. “Market was very, very slow today. Buying and selling was low on all counters.”
+
+Banking stocks closed down or flat in the day. Commercial Bank of Ceylon Plc was down at 104.25, Sampath Bank Pc was down at 77.60, and Hatton National Bank Plc was down at 201.75.
+
+“Even the high net worth individuals and institutions are now hesitant after it was announced that the terms and agreements of the debt restructuring will  be out in a week. Even the bigger players now want to see how this plays out.”
+
+...
+
+[Data](articles/b8f27ff7.json)
 
 ---
 
@@ -197,6 +303,24 @@ The suspect was produced before the Hatton Magistrate's Court.
 [Data](articles/3e8d955e.json)
 
 [Extended Data](ext_articles/3e8d955e.ext.json)
+
+---
+
+### Sri Lanka reduces bus fares by 5.07-pct; public transport declared essential service
+
+*2024-07-01 16:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-reduces-bus-fares-by-5-07-pct-public-transport-declared-essential-service-170357/) · `en`
+
+ECONOMYNEXT – Bus fares will be reduced by 5.07 percent from midnight ‍July 1, Sri Lanka’s National Transport Commission announced.
+
+“We considered 12 factors for the revision including costs of tyres, tubes, battery and spare parts, interest rates, bus prices, to arrive at this percentage, and agreements with bus operator associations,” NTC Chairman Shashi Welgama told reporters.
+
+The island nation revises fuel prices every month. Last night state-run Ceylon Petroleum Corporation cut the price of standard petrol, super petrol and super diesel.
+
+A special gazette notification was also issued making public transport services an essential service. (Colombo/Jul1/2024)
+
+◼️
+
+[Data](articles/10c4cd72.json)
 
 ---
 
@@ -2251,141 +2375,5 @@ Additionally, they are requested to stay attentive to future forecasts issued by
 [Data](articles/62f8c25b.json)
 
 [Extended Data](ext_articles/62f8c25b.ext.json)
-
----
-
-### 15 injured in two buses collision
-
-*2024-07-01 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198346) · `si`
-
-In a collision between a SLTB bus and a private bus in Weweldeniya, 15 people were injured and hospitalized at Wathupitiwala and Warakapola hospitals.
-
-🟩
-
-A SLTB bus and a private bus collided in the Weweldeniya area on the Colombo-Kandy main road.
-
-15 people were injured in the accident, police said.
-
-The injured have been admitted to Wathupitiwala and Warakapola hospitals.
-
-◼️
-
-[Data](articles/5a16a011.json)
-
-[Extended Data](ext_articles/5a16a011.ext.json)
-
----
-
-### Several spells of light showers expected in parts of the island
-
-*2024-07-01 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100207/several-spells-of-light-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of light showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
-
-Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-◼️
-
-[Data](articles/b5b41d18.json)
-
-[Extended Data](ext_articles/b5b41d18.ext.json)
-
----
-
-### Violence following election results in France
-
-*2024-07-01 08:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187350) · `ta`
-
-In France's parliamentary elections, the far-right RN party leads with 33% of the vote, followed by the Left with 28%, and President Macron's coalition with 21%. The elections have sparked protests from opposition parties. This marks the first time a party leader, Jordan Bardella of the RN, has publicly expressed readiness to become prime minister.
-
-🟩
-
-Following the racist party in the French parliamentary elections, the opposition parties have been involved in heavy demonstrations in the capital.
-
-While the radicals are leading the French parliamentary elections, the current President Emanuel Macron's party has been relegated to third place.
-
-The RN party has received 33 percent of the vote against the immigrants and the Left has received 28 percent of the vote.
-
-French media reports that President Emanuel Macron's coalition received 21 percent of the vote.
-
-If the people of France vote;RN Party leader Jordan Bardella said he was ready to be the prime minister of all the people.
-
-It is the first time in the history of the French parliamentary elections.
-
-◼️
-
-[Data](articles/6baacc52.json)
-
-[Extended Data](ext_articles/6baacc52.ext.json)
-
----
-
-### Fatal Accidents
-
-*2024-07-01 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198345) · `si`
-
-Yesterday, five fatalities occurred due to various accidents.
-
-🟩
-
-Five people have lost their lives in several accidents yesterday (30).
-
-◼️
-
-[Data](articles/95a1cc83.json)
-
-[Extended Data](ext_articles/95a1cc83.ext.json)
-
----
-
-### French parliamentary election - in the presence of radicals
-
-*2024-07-01 08:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/187349) · `ta`
-
-In the French parliamentary elections, radicals lead with the RN party at 33%, followed by the Left at 28%. President Macron's coalition trails with 21%. This marks the first time a party leader, Jordan Bardella from the RN party, has expressed readiness to become prime minister, indicating a significant shift in French politics.
-
-🟩
-
-While the radicals are leading the French parliamentary elections, the current President Emanuel Macron's party has been relegated to third place.
-
-The RN party has received 33 percent of the vote against the immigrants and the Left has received 28 percent of the vote.
-
-French media reports that President Emanuel Macron's coalition received 21 percent of the vote.
-
-If the people of France vote;RN Party leader Jordan Bardella said he was ready to be the prime minister of all the people.
-
-It is the first time in the history of the French parliamentary elections.
-
-◼️
-
-[Data](articles/e36bb197.json)
-
-[Extended Data](ext_articles/e36bb197.ext.json)
-
----
-
-### A 17-year-old student drowns
-
-*2024-07-01 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198344) · `si`
-
-A 17-year-old boy from Mount Lavinia drowned, while three others fell ill due to diabetes after visiting the beach. Two Navy Coast Guards were rescued and taken to the hospital. The investigation continues.
-
-🟩
-
-Three people who were diagnosed with the Mount Lavinia beach yesterday evening have fallen into a diabetic.
-
-Two Navy Coast Guard were rescued by the Navy Coast Guard on the hospital at the time.
-
-The missing is 17-year-old Abeysekara Mawatha, a resident of Mount Lavinia.
-
-The Missing Mount Lavinia has conducted further investigations.
-
-◼️
-
-[Data](articles/3a380141.json)
-
-[Extended Data](ext_articles/3a380141.ext.json)
 
 ---

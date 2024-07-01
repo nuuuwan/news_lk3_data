@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 21:35:02**
+As of **2024-07-01 21:54:14**
 
 ## Newspaper Stats
 
-*Scraped **33,153** Articles*
+*Scraped **33,154** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,778
 tamilmirrorlk | 3,923
 dailymirrorlk | 4,733
 virakesarilk | 5,177
-adaderanasinhalalk | 5,483
+adaderanasinhalalk | 5,484
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,152 (100.0%) of 33,153 articles have been extended.
+33,153 (100.0%) of 33,154 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
+
+### මියගිය ධීවරයන් වෙනුවෙන් වන්දි ලබාදීමට සාකච්ඡා
+
+*2024-07-01 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198378) · `si`
+
+ඩෙවෝන් - 5 බහුදින ධීවර යාත්‍රාවේ ස්කිපර්වරයා ඇතුළු මියගිය ධීවරයින්ගේ පවුල්වල සාමාජිකයින් වෙත සුදුසු වන්දි මුදලක් ගෙවීම සඳහා කටයුතු කරමින් සිටින බව ධීවර අමාත්‍ය ඩග්ලස්  දේවානන්දා මහතා පවසයි.
+
+මුහුදේ පාවෙමින් තිබූ බෝතලයක තිබු ද්‍රාවණයක් පානය කිරීම නිසා මෙම අවාසනාවන්ත මරණයන් සිදුවූ බවට පැවසෙයි.
+
+මේ අතර ඩෙවෝන් - 5 යාත්‍රාවේ තිබු යාත්‍රා නිරීක්ෂණ ආපදා බොත්තම ක්‍රියාත්මක කර ආපදාව පිළිබඳව දැනුම්දීමට කටයුතු කර නොමැති වීමද කනගාටුදායක කරුණක් බව ධීවර අමාත්‍ය ඩග්ලස් දේවානන්දා මහතා පවසයි.
+
+ඒසේ දැනුම් දුන්නා නම් මීට වඩා කඩිනමින් මුදාගැනීමේ කටයුතු සිදුකිරීමේ අවස්ථාවක් තිබූ බවද අමාත්‍යවරයා පැවසීය.
+
+ඩොවෝන් - 5 යාත්‍රාව ගොඩබිම සිට නාවික සැතපුම් 360ක් එනම් 600kmකට අධික දුරකින් ගමන්කර තිබු අතර එවන් දුරක් වෙත ගුවන් හමුදාවේ හෙලිකොප්ටර් යානා මගින් ගමන් කිරීමට ඇති හැකියාව තමන් සොයාබැලු බවත් ධීවර අමාත්‍ය ඩග්ලස් දේවානන්දා මහතා සඳහන් කළේය.
+
+සාමාන්‍යයෙන් හෙලිකොප්ටර් යානයකට ගමන්කළ හැකි දුර මෙන් 04 ගුණයක් පමණ ඈතින් අදාළ යාත්‍රාව තිබූ බව අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/a1a0b37d.json)
+
+---
 
 ### US Supreme Court rules Trump has immunity for official, not private acts
 
@@ -45,6 +67,8 @@ The justices, in a 6-3 ruling written by Chief Justice John Roberts, threw out a
 ...
 
 [Data](articles/30f4be77.json)
+
+[Extended Data](ext_articles/30f4be77.ext.json)
 
 ---
 
@@ -2387,29 +2411,5 @@ Today, we express deep sympathy for Mr. Sambandan, who served Sri Lanka for more
 [Data](articles/74490b12.json)
 
 [Extended Data](ext_articles/74490b12.ext.json)
-
----
-
-### One dead after armed gunmen storm French wedding
-
-*2024-07-01 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100212/one-dead-after-armed-gunmen-storm-french-wedding) · `en`
-
-A man in his 30s has been killed and several others wounded in a shooting at a Turkish wedding in north-east France, police have said.
-
-French media report that three armed, hooded men arrived at the reception venue in Thionville late on Saturday night before opening fire on guests.
-
-Quoting police sources, Le Figaro newspaper says the attackers came at 01:15am local time to “settle scores between well-known gangs in Moselle”.
-
-A pregnant woman was among the wounded, police said, and three of the injured are reportedly in a critical condition at the Bel-Air hospital nearby.
-
-Around 100 people were celebrating at Eden Palace when the gunmen arrived at the event in a 4x4 car, according to French media, in the region of Lorraine near the borders of Germany and Luxembourg.
-
-“At a quarter past one in the morning, a group of people went outside to smoke in front of the hall, and then three heavily-armed men opened fire in their direction,” a police source was quoted by AFP.
-
-...
-
-[Data](articles/0741cc9b.json)
-
-[Extended Data](ext_articles/0741cc9b.ext.json)
 
 ---

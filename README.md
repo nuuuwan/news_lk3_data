@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 07:51:39**
+As of **2024-07-01 07:19:46**
 
 ## Newspaper Stats
 
-*Scraped **33,008** Articles*
+*Scraped **33,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,62 +17,28 @@ economynextcom | 1,929
 dailyftlk | 2,035
 adalk | 2,931
 adaderanalk | 3,759
-tamilmirrorlk | 3,905
+tamilmirrorlk | 3,904
 dailymirrorlk | 4,733
 virakesarilk | 5,139
-adaderanasinhalalk | 5,451
+adaderanasinhalalk | 5,450
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,996 (100.0%) of 33,008 articles have been extended.
+32,996 (100.0%) of 33,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### ග්‍රාම නිලධාරීන්ගේ ගැටලු ගැන තීරණාත්මක සාකච්ඡාවක් අද
-
-*2024-07-01 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198343) · `si`
-
-සේවා ව්‍යවස්ථාවක් ඇතුළු සිය ඉල්ලීම් සම්බන්ධයෙන් අද (01) දිනයේ තීරණාත්මක සාකච්ඡාවක් සිදුකිරීමට නියමිත බව රජයේ ග්‍රාම නිලධාරීන්ගේ සංගමය පවසයි.
-
-එහි ජාතික සංවිධායක සුමිත් කොඩිකාර මහතා පැවසුවේ, ජනාධිපති කාර්යය මණ්ඩල ප්‍රධානී සාගල රත්නායක මහතා සමඟ එම සාකච්ඡාවට පැවැත්වීමට නියමිත බවය.
-
-කෙසේවෙතත් අදාළ සාකච්ඡාවෙන් සිය ගැටලුවලට සාධාරණ විසඳුමක් නොලැබුණහොත් අඛණ්ඩ වර්ජන ක්‍රියාමාර්ගයකට එළැඹෙන බව ද සුමිත් කොඩිකාර මහතා සඳහන් කළේය.
-
-◼️
-
-[Data](articles/53a5450f.json)
-
----
-
-### IOC සහ සයිනොපෙක් ඉන්ධන මිලෙත් වෙනසක්
+### සයිනොපෙක් ඉන්ධන මිලේ වෙනසක්
 
 *2024-07-01 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198342) · `si`
 
 අද (01) සිට ක්‍රියාත්මක වන පරිදි සයිනොපෙක් සමාගමද සිය ඉන්ධන මිල ගණන් සංශෝධනය කර තිබේ.
 
-ඒ අනුව ඔක්ටේන් 92 වර්ගයේ පෙට්‍රල් ලීටරයක මිල රුපියල් 11කින් පහළ දැමීමට තීරණය කර ඇති අතර එහි නව මිල රුපියල් 344කි.
-
-ඔක්ටේන් 95 වර්ගයේ පෙට්‍රල් ලීටරයක් රුපියල්‍ 41කින් පහළ දමා ඇති අතර එහි නව රුපියල් 379කි.
-
-එසේම ඔටෝ ඩීසල් මිලෙහි කිසිදු වෙනසක් සිදුකර නොමැති අතර, එය රුපියල් 314ක්ව පවතී.
-
-සයිනොපෙක් සුපර් ඩීසල් මිල ද රුපියල් 22කින් පහළ දැමීමට පියවර ගෙන ඇති අතර එහි නව මිල රුපියල් 355කි.
-
-මේ අතර ඊයේ මධ්‍යම රාත්‍රියේ සිට බලපැවැත්වෙන පරිදි ඉන්ධන මිල ගණන් සංශෝධනය කිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවද පියවර ගෙන තිබුණි.
-
-ඒ අනුව ඔක්ටේන් 92 වර්ගයේ පෙට්‍රල් ලීටරයක් රුපියල් 11කින් පහත දමා ඇති අතර එහි නව මිල රුපියල් 344ක් වේ.
-
-ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක් ද රුපියල් 41කින් පහත දමා ඇති අතර එහි නව මිල රුපියල් 379ක් බව ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව පැවසුවේය.
-
-මීට අමතරව ලංකා සුපර් ඩීසල් ලීටරයක මිල ද රුපියල් 22කින් පහත දමා තිබේ.
-
-කෙසේවෙතත් ඔටෝ ඩීසල් සහ භූමිතෙල් මිලෙහි කිසිදු සංශෝධනයක් සිදුනොකළ බව ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව පැවසුවේය.
-
-...
+◼️
 
 [Data](articles/1e8c762a.json)
 
@@ -586,22 +552,6 @@ What happened to our children. We want international justice. Although the offic
 
 ---
 
-### ’41,960 காணி உறுதிகள் வழங்கப்பட்டன’
-
-*2024-07-01 02:55:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/41-960-காணி-உறுதிகள்-வழங்கப்பட்டன/175-339676) · `ta`
-
-முழு உரிமையுள்ள காணி உறுதிப் பத்திரங்கள் வழங்கும் ‘உறுமய’ வேலைத் திட்டத்தின் கீழ் மொனராகலை மாவட்டத்தில் அதிகளவு உறுதிகளை வழங்கும் பிரதேச செயலகத்தில் குளங்களைப் புனரமைப்பதற்கு 25 மில்லியன் ரூபா வழங்கப்படுமென ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
-
-20 லட்சம் காணி உறுதிகளை வழங்கும் ‘உறுமய’ தேசிய வேலைத்திட்டத்தின் கீழ், மொனராகலை மாவட்டத்தின் 11 பிரதேச செயலகப் பிரிவுகளில் தகுதியான 41,960 பயனாளிகளில், அடையாள ரீதியில் 600 பேருக்கு உறுதிப் பத்திரங்கள் வழங்கும் நிகழ்வு நேற்று வெல்லவாயவில் ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் நடைபெற்றது.
-
-மொனராகலை மாவட்ட மக்களுக்கு உறுமய காணி உறுதிப்பத்திரங்களை வழங்கும் நிகழ்வில் கலந்துகொண்ட ஜனாதிபதி, பின்னர் மக்கள் மத்தியில் சென்று அவர்களின் தகவல்களை கேட்டறிந்து சுமூகமான உரையாடலில் ஈடுபட்டார். (a)
-
-◼️
-
-[Data](articles/c6cca5cb.json)
-
----
-
 ### ’இந்த வருடமும் அடுத்த வருடமும் தேர்தல்கள்’
 
 *2024-07-01 02:11:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-வருடமும்-அடுத்த-வருடமும்-தேர்தல்கள்/175-339675) · `ta`
@@ -970,6 +920,26 @@ The fishermen have been drinking as a liquid in a bottle of a bottle floating in
 
 ---
 
+### Sri Lanka Presidential election date can be told after July 17: Commissioner Gen
+
+*2024-06-30 22:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-election-date-can-be-told-after-july-17-commissioner-gen-170284/) · `en`
+
+ECONOMYNEXT  – Sri Lanka’s Elections Commission will get powers under the Constitution to set a date for the next Presidential elections from July 17 onwards, Commissioner General Saman Sri Ratnayake has said.
+
+“According to the Constitution and the law, the Presidential Elections has be held in between one month before November 18 and two months after,” Ratnayake told reporters.
+
+“So if we work backwards, most likely about July 17 – that is the closest date – the Commission gets the power to make the announcement.”
+
+He said the electors list is now being finalized. (Colombo/June30/2024)
+
+◼️
+
+[Data](articles/56921db6.json)
+
+[Extended Data](ext_articles/56921db6.ext.json)
+
+---
+
 ### Fuel prices reduced
 
 *2024-06-30 21:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100203/fuel-prices-reduced) · `en`
@@ -1138,26 +1108,6 @@ When they were facing unexpected, the fishing vessel was sailing from 365 nautic
 
 ---
 
-### Sri Lanka budget deficit implodes 56-pct to April 2024, interest bill eases
-
-*2024-06-30 20:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-implodes-56-pct-to-april-2024-interest-bill-eases-170246/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s budget deficit has collapsed to 361 billion rupees up to April 2024 from 824.2 helped by higher tax revenues and a falling interest bill, official data show.
-
-Revenues surged 48 percent to 1,216 billion rupees to April 2024, ahead of the 35 percent annual growth projected in a budget, with higher value added and income tax rates as well as economic activity recovering close to previous levels.
-
-Sri Lanka is emerging from the worst case of ‘policy support’ deployed by macroeconomists since the central bank was set up in 1950 where the usual inflationary rate cuts which trigger currency crises and IMF programs, was also backed up tax cuts.
-
-Giving policy support and denying monetary stability has become mainstream in the age of inflation and ‘age of external defaults without a war’ due to so-called Saltwater-Cambridge doctrine, critics say.
-
-...
-
-[Data](articles/b06e40f9.json)
-
-[Extended Data](ext_articles/b06e40f9.ext.json)
-
----
-
 ### We will form a powerful alliance in the history of the country in a few days - Ranjith Mathuma Bandara
 
 *2024-06-30 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187338) · `ta`
@@ -1207,26 +1157,6 @@ Addressing the crowd, President Ranil Wickremesinghe further added:
 [Data](articles/cee71c52.json)
 
 [Extended Data](ext_articles/cee71c52.ext.json)
-
----
-
-### Sri Lanka Presidential election date can be told after July 17: Commissioner Gen
-
-*2024-06-30 20:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-election-date-can-be-told-after-july-17-commissioner-gen-170284/) · `en`
-
-ECONOMYNEXT  – Sri Lanka’s Elections Commission will get powers under the Constitution to set a date for the next Presidential elections from July 17 onwards, Commissioner General Saman Sri Ratnayake has said.
-
-“According to the Constitution and the law, the Presidential Elections has be held in between one month before November 18 and two months after,” Ratnayake told reporters.
-
-“So if we work backwards, most likely about July 17 – that is the closest date – the Commission gets the power to make the announcement.”
-
-He said the electors list is now being finalized. (Colombo/June30/2024)
-
-◼️
-
-[Data](articles/56921db6.json)
-
-[Extended Data](ext_articles/56921db6.ext.json)
 
 ---
 
@@ -2195,5 +2125,63 @@ The rest of the other items were found in the suspect's statements while the 50-
 [Data](articles/e2721b2b.json)
 
 [Extended Data](ext_articles/e2721b2b.ext.json)
+
+---
+
+### Inheritance to Moneragala
+
+*2024-06-30 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198322) · `si`
+
+In a ceremony at the Mahinda Rajapaksa Conference Hall, President Ranil Wickremesinghe announced that the Divisional Secretariat Division in Moneragala, part of the heritage program, would receive significant resources for tank reconstruction.
+
+🟩
+
+Among the 41,960 Divisional Secretariat Divisions in the Moneragala district of the "heritage" National Program of the "Heritage" National Program of the "Heritage" National Program of the Moneragala District of the Maundaratne District.
+
+At a function held at the Mahinda Rajapaksa Conference Hall under the patronage of President Ranil Wickremesinghe.
+
+The President said that the highest amount of goods in the Divisional Secretariat Division will be provided for the reconstruction of the tanks of the Divisional Secretariat Division.
+
+◼️
+
+[Data](articles/930b98cd.json)
+
+[Extended Data](ext_articles/930b98cd.ext.json)
+
+---
+
+### Chennai airport customs busts syndicate smuggling 267kg gold from Sri Lanka
+
+*2024-06-30 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100196/chennai-airport-customs-busts-syndicate-smuggling-267kg-gold-from-sri-lanka) · `en`
+
+In a dramatic turn of events, the Customs department at Chennai International Airport has successfully dismantled a smuggling syndicate involved in trafficking 267 kg of gold valued at INR 1,670 million from Sri Lanka over the past two months.
+
+The operation kicked off following a crucial intelligence tip-off, resulting in the arrest of a shop-owner and his staff, allegedly part of the criminal enterprise.
+
+According to Principal Commissioner R Srinivasa Naik, the investigation began when customs officials flagged a sales executive at the Airhub shop for suspicious behavior. Upon personal search, three bundles of gold concealed in his body were discovered, which he had reportedly received from a transit passenger.
+
+...
+
+[Data](articles/2b481dc8.json)
+
+[Extended Data](ext_articles/2b481dc8.ext.json)
+
+---
+
+### Struggle in Kenya against taxation
+
+*2024-06-30 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/187299) · `ta`
+
+Kenya faces a tough battle against high taxes, which the president labels as a heroic resistance akin to treason.
+
+🟩
+
+The president was proud to describe the Kenyan people's struggle as it was a culmination of treason.
+
+◼️
+
+[Data](articles/db0449de.json)
+
+[Extended Data](ext_articles/db0449de.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 20:19:37**
+As of **2024-07-01 20:35:15**
 
 ## Newspaper Stats
 
-*Scraped **33,139** Articles*
+*Scraped **33,141** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 1,940
 dailyftlk | 2,036
 adalk | 2,944
 adaderanalk | 3,777
-tamilmirrorlk | 3,922
+tamilmirrorlk | 3,923
 dailymirrorlk | 4,733
 virakesarilk | 5,167
-adaderanasinhalalk | 5,481
+adaderanasinhalalk | 5,482
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,139 (100.0%) of 33,139 articles have been extended.
+33,139 (100.0%) of 33,141 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
+
+### තවත් විදෙස් රැකියා ජාවාරමක් උකුස්සා හෙළිකරයි
+
+*2024-07-01 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198376) · `si`
+
+බලපත්‍රයක් නොමැතිව පුද්ගලයින් විදෙස්ගත කරවීම සඳහා මුදල් ලබාගන්නා නීතිවිරෝධි විදේශ සේවා නියෝජිතායතනයක් පසුගියදා නීතියේ රැහැනට හසු කරගැනුණි.
+
+කොට්ටාව මාකුඹුර ප්‍රදේශයේ බලපත්‍රයක් නොමැතිව නීතිවිරෝධි අයුරින් පවත්වාගෙන ගිය විදේශ සේවා නියෝජිතායතනයක් සම්බන්ධයෙන් ලැබුණු විශ්වසනීය තොරතුරක් මත විදේශ සේවා නියුක්ති කාර්යංශයේ වැටලීම් අංශයේ නිලධාරින් සමඟ "අද දෙරණ උකුස්සා" අදාළ ආයතනය පිහිටි ස්ථානය සොයා ගියේය.
+
+මෙම ආයතනය සම්බන්ධයෙන් සමාජ මාධ්‍ය ඔස්සේ ද පුළුල් ප්‍රචාරයක් ලබාදී තිබූ අතර අප එම ස්ථානයට ළඟා වූයේ ෆේස්බුක් ඔස්සේ අදාළ ආයතනය පිළිබඳ අප දැනගත් බව පවසමිනි.
+
+පසුව ඔහු ඉල්ලා සිටින ලද ජීව දත්ත පත්‍රිකාව ද සමඟ නැවත ඔහුව හමුවීමට එන බව පවසමින් අප එම ස්ථානයෙන් පිටව ගියේය.
+
+මද වේලාවකට පසු විදේශ සේවා නියුක්ති කාර්යංශයේ තවත් නිලධාරින් කණ්ඩායමක් සමග අප නැවත එම ස්ථානයට ගියේ අදාළ ජාවාරම නෛතිකව තහවුරු කරගැනීමේ අරමුණ ඇතිවය.
+
+සැකකරුගේ මෝටර් රථය තුළද ජාවාරමට අදාළ ලියකියවිලි ඇතැයි ලැබුණු තොරතුර මත වැටලීම් නිලධාරීන් හෝමාගම පොලීසිය දැනුවත් කළ අතර ඉන් පසුව පොලිස් කණ්ඩායමක් එම ස්ථානයට ගෙන්වා ගැනුණි.
+
+...
+
+[Data](articles/1c97854f.json)
+
+---
+
+### பொது மக்களுக்கு வாள் வெட்டு
+
+*2024-07-01 19:59:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-மக்களுக்கு-வாள்-வெட்டு/175-339713) · `ta`
+
+தலங்கம பிரதேசத்தில் நேற்று வாளுடன் வீதிக்குச் சென்ற நபரொருவர் வீதியில் பயணித்த பொதுமக்களை தாக்கியுள்ளதாக தலங்கம பொலிஸார் தெரிவித்தனர்.
+
+இவர் குடிபோதையில் இருந்துள்ளதாகவும் இதன்போது வீதியிலிருந்த 4 வாகனங்கள் சேதமடைந்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+இதனையடுத்து, இவர் பொலிஸாரால் கைது செய்யப்பட்டுள்ள நிலையில் நீதிமன்றில் ஆஜர்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.  R
+
+◼️
+
+[Data](articles/fc393b45.json)
+
+---
 
 ### Palestinian militants fire rockets into Israel, tanks advance in Gaza
 
@@ -2321,55 +2359,5 @@ He's an old friend. We have discussed many days of various things. His demise is
 [Data](articles/28d369ce.json)
 
 [Extended Data](ext_articles/28d369ce.ext.json)
-
----
-
-### Anganan's condolence
-
-*2024-07-01 09:41:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தன்-மறைவுக்கு-அங்கஜன்-இரங்கல்/175-339678) · `ta`
-
-R. Sampanthan, a key figure in Sri Lanka's Tamil National Alliance, passed away, leaving a significant void in Tamil politics. Known for his dedication to public service over a legal career, Sampanthan's diplomatic efforts were pivotal in the Tamil community's struggles. His loss is deeply felt, especially in the Trincomalee district, where he represented Tamil interests. A unifying force within the party system, his absence marks the end of an era in Tamil political history. Condolences pour in for his family, friends, and supporters, with prayers for his soul.
-
-🟩
-
-Former leader of the Sri Lanka Tamil National Alliance (TNA), Tamil National Alliance leader, former opposition leader and Trincomalee district parliamentarian R. Sampanthan's death. Parliamentarian
-
-The loss of Annar is a disaster for the Tamil national political area. He is a great man who sacrificed his legal career and engaged in people's politics.
-
-It must be remembered at this moment that he used his political sort of politicalism and experience as diplomacy on many occasions during the three kinds of struggle of the Tamils.
-
-His loss, which was the ultimate belief in the Tamil representation of the Trincomalee district, is not compensated.
-
-He is the only one who coordinated the historic party and the federation of parties that traveled in different currents, and in all his enabled times, his personality would not be shattered.
-
-Our race today has lost a long -term experience of the political history of Sri Lankan Tamils.
-
-...
-
-[Data](articles/d142c85e.json)
-
-[Extended Data](ext_articles/d142c85e.ext.json)
-
----
-
-### A shooting during a wedding ceremony of France
-
-*2024-07-01 09:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198348) · `si`
-
-During a Turkish wedding reception in France, a fatal shooting occurred, resulting in one death and several injuries, including three critically wounded. Three individuals wearing helmets fled the scene.
-
-🟩
-
-A person was killed in a shooting between a Turkish wedding feast in France.
-
-Several others were also injured and hospitalized was also injured and three of them were critical.
-
-Three people have fled the shot by three people in the helmets.
-
-◼️
-
-[Data](articles/204cde35.json)
-
-[Extended Data](ext_articles/204cde35.ext.json)
 
 ---

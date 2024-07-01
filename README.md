@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 22:07:49**
+As of **2024-07-01 22:19:57**
 
 ## Newspaper Stats
 
-*Scraped **33,157** Articles*
+*Scraped **33,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,846
 economynextcom | 1,940
 dailyftlk | 2,036
 adalk | 2,945
-adaderanalk | 3,778
+adaderanalk | 3,779
 tamilmirrorlk | 3,923
 dailymirrorlk | 4,733
 virakesarilk | 5,177
@@ -26,51 +26,87 @@ adaderanasinhalalk | 5,486
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,154 (100.0%) of 33,157 articles have been extended.
+33,157 (100.0%) of 33,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### දුම්රිය අතහැර පළාගිය බීමත් රියදුරාගේ වැඩ තහනම්
+### NPP will hand over power to modern youth from the corrupted elite – AKD
+
+*2024-07-01 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100226/npp-will-hand-over-power-to-modern-youth-from-the-corrupted-elite-akd) · `en`
+
+Leader of the National People’s Power (NPP) Anura Kumara Dissanayake stated that under the leadership of his party, the youth will be provided with new economic opportunities for small and medium businesses.
+
+Addressing Anuradhapura district’s youth conference of NPP held in Kekirawa, he further stated that his party will take over the power from the corrupted elite and hand it over to the modern youth generation.
+
+“We will create a mania of small and medium-scale businesses. Instead of getting a government job, the youth thinks how to become an entrepreneur. But, they don’t have the first essential thing to become an entrepreneur, which is the capital”, Dissanayake said.
+
+“Under the leadership of National People’s Power, we will build a new development bank, which will provide Initial capital without collateral. We will create new economic opportunities for the youth.”
+
+“For the longest time, the political authority in our country destructed the youth’s future”, he alleged.
+
+...
+
+[Data](articles/1f37e4df.json)
+
+---
+
+### Drunken driver's work suspended
 
 *2024-07-01 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198380) · `si`
 
-ප්‍රශ්නගත දුම්රිය රියදුරාගේ වැඩ තහනම් කර ඇති බව ශ්‍රී ලංකා දුම්රිය සේවය පවසයි.
+A Sri Lanka Railways bus driver has been suspended after being found intoxicated while driving from Colombo to Kandy. The incident occurred yesterday when the driver exhibited signs of excessive alcohol consumption. He was apprehended near Kandy and turned over to the Railway Security Division.
 
-ඊයේ (30) කොළඹ සිට මහනුවර බලා ධාවනය වූ දුම්රියේ රියදුරුගේ නොමනා ක්‍රියාකලාපය හේතුවෙන් දෙපාර්තමේන්තුව මට්ටමින් පරීක්ෂණයක් ආරම්භ කර ඇති බවද දැනුම්දෙයි.
+🟩
 
-කොළඹ සිට මහනුවර බලා ඊයේ පෙරවරු 10.40ට ධාවනය ආරම්භ වූ දුම්රියේ රියදුරා අධික ලෙස මත්පැන් පානය කර කලබලකාරී ලෙස හැසිරී ඇති බව වාර්තා විය.
+Sri Lanka Railways says that the bus driver has been suspended.
 
-ඔහු දුම්රිය මහනුවර නගරයට ආසන්න සුදුහුම්පොල ප්‍රදේශයේ ස්ථානයක නවතා දුම්රියෙන් බැස පළායද්දී දුම්රියේ සිටි මගීන් ඔහුව ලුහුබැඳ ගොස් අල්ලාගෙන සහායක රියදුරා යොදවා දුම්රිය නුවර දුම්රිය ස්ථානය තෙක් ධාවනය කර තිබුණි.
+The driver of the train traveling from Colombo from Colombo yesterday (30) has commenced an investigation at the department.
 
-පසුව එම බීමත් රියදුරාව දුම්රිය ප්‍රවාහන පරීක්ෂක නිලධාරියා මාර්ගයෙන් දුම්රිය ආරක්ෂක අංශයට භාරදීමට පියවර ගනු ලැබීය.
+The driver of the train who started running from Colombo to Kandy yesterday had behaved as excessive alcohol and treasure.
 
-මෙම දුම්රිය මහනුවරට ළඟාවීමට නියමිතව තිබුණේ ප.ව 1.40ටය.  එහෙත් දුම්රිය පැමිණියේ සවස 2.30ට බව මගීන් පැවසීය.
+He was pursued and used by the train, pursued him and seized him and deployed the assistant driver in the train near Kandy.
+
+The drunk driver was handed over to the Railway Security Division through the Railway Security Officer.
+
+The train was to reach Kandy to Kandy.  එහෙත් දුම්රිය පැමිණියේ සවස 2.30ට බව මගීන් පැවසීය.
 
 ◼️
 
 [Data](articles/47dfbf87.json)
 
+[Extended Data](ext_articles/47dfbf87.ext.json)
+
 ---
 
-### පියුමි හංසමාලිට නැවත එන්න වෙයි
+### Piyumi Hansalmali gets back
 
 *2024-07-01 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198379) · `si`
 
-අද (01) නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසය හමුවේ පෙනී සිටි ප්‍රසිද්ධ නිරූපන ශිල්පිනියක වන පියුමි හංසමාලිගෙන් ප්‍රකාශයක් සටහන් කරගැනීමක් සිදුකර නොමැත.
+Popular model Piyumi Hansalmali appears before the Illegal Asset Investigation Division regarding allegations of undisclosed assets worth Rs. 148 million, including a luxury property. The case was referred to the Magistrate's Court on June 04, Colombo North. She was questioned about her assets, and the division has set a new date for further investigation.
 
-ඒ අනුව එම කොට්ඨාසය ඇයට දැනුම්දී ඇත්තේ ඒ සඳහා වෙනත් දිනයක් ලබාදෙන බවය.
+🟩
 
-නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසය ප්‍රසිද්ධ නිරූපන ශිල්පිනියක් වන පියුමි හංසමාලිගේ වත්කම් පිළිබඳ විමර්ශනයක් ආරම්භ කර තිබුණේ මගෙන් රටට සංවිධානයේ සභාපති සංජය මහවත්ත කළ පැමිණිල්ලකට අනුවය.
+A public modeling artist appeared in the Illegal Asset Investigation Division this is not recorded by Piyumi Hansayamayaka.
 
-ඊට අදාළව ජුනි 18 වනදා කොළඹ අංක 04 මහෙස්ත්‍රාත් අධිකරණයට කරුණු දැක්වූ විමර්ශන නිලධාරින් කියා සිටියේ නිරූපන ශිල්පිනි පියුමි හංසමාලි රුපියල් ලක්ෂ 780ක් වැය කර හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා භාවිත කළ ජීප් රථය මිලදී ගෙන ඇති අතර තවත් රුපියල් මිලියන 148ක මුදලක් වැය කර කොළඹ 7, වෝඩ් පෙදෙසේ පිහිටි සුඛෝපභෝගී නිවාස සංකීර්ණයකින් නිවසක් මිලදී ගෙන ඇති බවය.
+Accordingly, the division has informed her that a different date will be given to it.
 
-ඒ අනුව පියුමි හංසමාලි මෙරට ප්‍රධාන පෙළේ බැංකු 08ක පවත්වාගෙන යන ගිණුම් 19ක වාර්තා කැඳවීමට කොළඹ අංක 04 මහ‍ෙස්ත්‍රාත් මංජුල තිලකරත්න මහතා නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසයට අවසර ලබාදුනි.
+The Illegal Asset Investigation Division, a popular model, Piyumi Hansaley's assets had begun as per the complaint lodged with the country.
 
-...
+Referred to the Magistrate's Court on June 04, Colombo North and Piyumiye Piyumi Hansayy was Rs. 148 million.A house has been purchased with a luxury housing complex located.
+
+Accordingly, Massegrader Manjula Tilakaratne, the Illegal Asset Investigation Division, granted permission to the illegal asset in Sri Lanka.
+
+Piyumi Hansalmi had informed Piyumi Hanamali to give a statement from the Illegal Asset Investigation Division in connection with the investigation into the investigation.
+
+Accordingly, she hinted that today's illegal assets to the Investigation Division and commented on the media.
+
+◼️
 
 [Data](articles/98a4fb16.json)
+
+[Extended Data](ext_articles/98a4fb16.ext.json)
 
 ---
 
@@ -732,17 +768,23 @@ Banking stocks closed down or flat in the day. Commercial Bank of Ceylon Plc was
 
 ---
 
-### ටුක් ටුක් ගාස්තු අඩු නොවෙයි
+### Tke Tke not at least reduced
 
 *2024-07-01 16:42:11* · [`adalk`](https://www.ada.lk/breaking_news/ටුක්-ටුක්-ගාස්තු-අඩු-නොවෙයි/11-410544) · `si`
 
-ඉන්ධන මිල අඩු වුවත් ත්‍රීරෝද රථ ගාස්තු අඩුවීමක් සිදු නොවන බව සමස්ත ලංකා ත්‍රීරෝද රථ රියදුරන්ගේ වෘත්තීය සමිතිය පවසනවා.
+Despite fuel price fluctuations, the All Island Three-Wheeler Drivers Association (SLALIA) insists on revising monthly fares based on monthly costs, as stated by Chairman Lalith Dharmasekera.
 
-මාසයෙන් මාසය මිල අඩු වන විට ත්‍රීරෝද රථ ගාස්තු සංශෝධනය කිරීමට හැකියාවක් නොමැති බවයි එහි සභාපති ලලිත් ධර්මසේකර සඳහන් කරයි.
+🟩
+
+The All Island Three-Wheeler Drivers Association (SLALIA) says that no matter the loss of fuel prices.
+
+The Chairman Lalith Dharmasekera states that the monthly prices can be revised by the price of month.
 
 ◼️
 
 [Data](articles/cbb643f1.json)
+
+[Extended Data](ext_articles/cbb643f1.ext.json)
 
 ---
 
@@ -2377,29 +2419,5 @@ Senior Deputy Solicitor General's Massantha Ranasinghe has been sworn in as Acti
 [Data](articles/cd70329a.json)
 
 [Extended Data](ext_articles/cd70329a.ext.json)
-
----
-
-### New Acting Attorney General takes oath
-
-*2024-07-01 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100213/new-acting-attorney-general-takes-oath) · `en`
-
-Senior Additional Solicitor General Parinda Ranasinghe took oaths as the Acting Attorney General before the Chief Justice, Ada Derana reporter said.
-
-Last week, it was reported that the proposal to extend incumbent Attorney General Sanjay Rajaratnam’s term by another 06 months was defeated for the second time at the Constitutional Council meeting.
-
-The proposal, which was submitted by President Ranil Wickremesinghe, was defeated with 05 votes against it while 03 members voted in favour.
-
-Rajaratnam’s current term is set to expire at the end of this month, and the President had proposed an extension for an additional six months.
-
-However, the proposal requires the approval of the Constitutional Council, which twice defeated it.
-
-Accordingly, Senior Additional Solicitor General Parinda Ranasinghe, who is the son of former Chief Justice K. A. Parinda Ranasinghe has been appointed as the Acting AG.
-
-◼️
-
-[Data](articles/ea230e98.json)
-
-[Extended Data](ext_articles/ea230e98.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 23:05:28**
+As of **2024-07-01 23:19:59**
 
 ## Newspaper Stats
 
-*Scraped **33,165** Articles*
+*Scraped **33,166** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 3,779
 tamilmirrorlk | 3,923
 dailymirrorlk | 4,733
 virakesarilk | 5,177
-adaderanasinhalalk | 5,486
+adaderanasinhalalk | 5,487
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,165 (100.0%) of 33,165 articles have been extended.
+33,165 (100.0%) of 33,166 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
+
+### පළමු ජය කැන්ඩි කණ්ඩායමට
+
+*2024-07-01 22:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198381) · `si`
+
+ලංකා ප්‍රිමියර් ලීග් 20යි 20 ක්‍රිකට් තරගාවලියේ අද (01) පැවැති පළමු තරගය ජයගැනීමට කැන්ඩි ෆැල්කන්ස් කණ්ඩායම සමත් විය.
+
+තරගයේ කාසියේ වාසිය දිනාගැනීමට කැන්ඩි ෆැල්කන්ස් කණ්ඩායම සමත්වූ අතර ඔවුන් පළමුවෙන් පන්දුවට පහරදීම සඳහා දඹුල්ල සික්සර්ස් කණ්ඩායමට ආරාධනා කළේය.
+
+එහිදී පළමුවෙන් පන්දුවට පහරදුන් දඹුල්ල සික්සර්ස් කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 06ක් දැවී ලකුණු 179ක් රැස්කළේය.
+
+එහිදී දඹුල්ල සික්සර්ස් කණ්ඩායම වෙනුවෙන් මාක් චැප්මන් නොදැවී ලකුණු 91ක් රැස්කළ අතර චමිඳු වික්‍රමසිංහ නොදැවී ලකුණු 62ක් රැස්කළේය.
+
+පන්දු යැවීමේදී කැන්ඩි ෆැල්කන්ස් කණ්ඩායම වෙනුවෙන් දසුන් ශානක කඩුලු 03ක් දවාගත්තේය.
+
+ඒ අනුව ලකුණු 180ක ජයග්‍රාහි ඉලක්කයක් හඹා යෑමට පිටියට පිවිසි කැන්ඩි ෆැල්කන්ස් කණ්ඩායම පන්දුවාර 17යි පන්දු 02ක් අවසානයේ ලකුණු 183ක් රැස්කරමින් ජයග්‍රහණය වාර්තාකළේය.
+
+කැන්ඩි ෆැල්කන්ස් කණ්ඩායම වෙනුවෙන් දිනේෂ් චන්දිමාල් ලකුණු 65ක් රැස්කළ අතර දසුන් ශානක නොදැවී ලකුණු 46ක් රැස්කළේය.
+
+◼️
+
+[Data](articles/f1c3d0ca.json)
+
+---
 
 ### Shamlan joined Walan World Records Book as the most memory child in the world
 
@@ -2413,33 +2437,5 @@ In addition, some passengers have been thrown into the glass and the train has c
 [Data](articles/47fbd577.json)
 
 [Extended Data](ext_articles/47fbd577.ext.json)
-
----
-
-### Father's attempting to lack suicide by assault
-
-*2024-07-01 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198353) · `si`
-
-A tragic incident occurred in the Ipalogama police division where a 66-year-old man from Hiripitiya was murdered outside his home. The investigation began after a report to the Police Emergency Unit. The victim's wife identified the suspect as her husband's killer, leading to the arrest of their 34-year-old son.
-
-🟩
-
-An unfortunate event was the assassination of a son in the Ipalogama police Division in the Ipalogama area.
-
-The murder was commenced on the evening and commenced investigations on a message to the Police Emergency Unit.
-
-The victim was dead in front of the house with bleeding injuries, police said.
-
-The victim is a 66 year old new road, a resident of Hiripitiya.
-
-Police have arrested the son of 34-year-old man in connection with the murder.
-
-The victim's wife has told the police that his father had been assassinated by the suspect's son and that the suspect had been at home and the deceased had been home.
-
-◼️
-
-[Data](articles/f036023a.json)
-
-[Extended Data](ext_articles/f036023a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 10:06:25**
+As of **2024-07-01 10:19:45**
 
 ## Newspaper Stats
 
-*Scraped **33,026** Articles*
+*Scraped **33,027** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,845
 economynextcom | 1,929
 dailyftlk | 2,035
 adalk | 2,933
-adaderanalk | 3,762
+adaderanalk | 3,763
 tamilmirrorlk | 3,905
 dailymirrorlk | 4,733
 virakesarilk | 5,139
@@ -26,37 +26,65 @@ adaderanasinhalalk | 5,456
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,024 (100.0%) of 33,026 articles have been extended.
+33,026 (100.0%) of 33,027 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### තවත් ඉන්දීය ධීවරයින් පිරිසක් නාවික හමුදා භාරයට
+### Grama Niladhari officers warns of continuous strike
+
+*2024-07-01 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100210/grama-niladhari-officers-warns-of-continuous-strike) · `en`
+
+The Sri Lanka Grama Niladhari Association will hold a decisive meeting today (01) regarding their demands for a service constitution.
+
+Chairman of the association Sumith Kodikara stated that the discussion will be held with the President’s Chief of Staff and National Security Advisor, Sagala Ratnayaka.
+
+Meanwhile, Kodikara warned that if their issues are not adequately addressed, the association will initiate a continuous strike.
+
+◼️
+
+[Data](articles/93892dc8.json)
+
+---
+
+### Sri Lanka Navy personnel
 
 *2024-07-01 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198349) · `si`
 
-නීතිවිරෝධී ලෙස මෙරට මුහුදු ප්‍රදේශයේ ධීවර කටයුතුවල නිරත වූ ඉන්දීය ධීවරයින් පිරිසක් නාවික හමුදාව විසින් අත්අඩංගුවට ගෙන තිබේ.
+The Sri Lanka Navy arrested a group of Indian fishermen for illegal fishing within its territorial waters.
+
+🟩
+
+Sri Lanka Navy has arrested a group of Indian fishermen who were illegally engaged in fishing in Sri Lanka.
 
 ◼️
 
 [Data](articles/ad08bfa6.json)
 
+[Extended Data](ext_articles/ad08bfa6.ext.json)
+
 ---
 
-### ප්‍රංශයේ විවාහ මංගල්‍ය උත්සවයක් අතරතුර වෙඩි තැබීමක්
+### A shooting during a wedding ceremony of France
 
 *2024-07-01 09:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198348) · `si`
 
-ප්‍රංශයේ තුර්කි විවාහ මංගල්‍යයක් අතරතුර සිදුවූ වෙඩි තැබීමකින් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+During a Turkish wedding reception in France, a fatal shooting occurred, resulting in one death and several injuries, including three critically wounded. Three individuals wearing helmets fled the scene.
 
-එහිදි තවත් පුද්ගලයින් කිහිපදෙනෙකු ද තුවාල ලබා රෝහල්ගත කර ඇති අතර ඔවුන්ගෙන් තිදෙනෙකුගේ තත්ත්වය බරපතළ බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-හිස් ආවරණ පැලදී පුද්ගලයින් තිදෙනෙකු විසින් වෙඩිතැබීම සිදුකර පළාගොස් තිබේ.
+A person was killed in a shooting between a Turkish wedding feast in France.
+
+Several others were also injured and hospitalized was also injured and three of them were critical.
+
+Three people have fled the shot by three people in the helmets.
 
 ◼️
 
 [Data](articles/204cde35.json)
+
+[Extended Data](ext_articles/204cde35.ext.json)
 
 ---
 
@@ -2131,27 +2159,5 @@ It is not surprising if President Ranil Wickremesinghe sought to use the Mannar 
 [Data](articles/f548a9ea.json)
 
 [Extended Data](ext_articles/f548a9ea.ext.json)
-
----
-
-### Ravindra goes off
-
-*2024-06-30 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198329) · `si`
-
-Ravindra Jadeja, aged 35, announces his international cricket retirement, highlighting his memorable contributions to the Indian team, especially in Test and ODI formats.
-
-🟩
-
-Ravindra Jadeja has announced his retirement from the International Grounds in the International Grounds.
-
-Jadeaja, who is 35, says that he is an unforgettable victory for the Indian team that he has played.
-
-He says that India is still represented in Test and ODIs.
-
-◼️
-
-[Data](articles/7c91ea28.json)
-
-[Extended Data](ext_articles/7c91ea28.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 11:35:09**
+As of **2024-07-01 11:54:58**
 
 ## Newspaper Stats
 
-*Scraped **33,053** Articles*
+*Scraped **33,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,40 +13,152 @@ colombotelegraphcom | 302
 bbccomsinhala | 323
 newsfirstlk | 363
 islandlk | 1,846
-economynextcom | 1,929
+economynextcom | 1,934
 dailyftlk | 2,036
 adalk | 2,937
-adaderanalk | 3,766
-tamilmirrorlk | 3,911
+adaderanalk | 3,768
+tamilmirrorlk | 3,913
 dailymirrorlk | 4,733
 virakesarilk | 5,146
-adaderanasinhalalk | 5,459
+adaderanasinhalalk | 5,461
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,051 (100.0%) of 33,053 articles have been extended.
+33,053 (100.0%) of 33,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### ප්‍රංශයේ අධිවේගයට කඩා වැටුණු ගුවන් යානය
+### කොස් ගෙඩියක් කඩාගත් මවට පුතාගෙන් දරුණු ප්‍රහාරයක්
+
+*2024-07-01 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198354) · `si`
+
+මොනරාගල, දොඹගහවෙල පොලිස් බලප්‍රදේශයට අයත් හෙරලි ගස්යාය ප්‍රදේශයේ දී ආහාරය සඳහා කොස් ගෙඩියක් කඩා ගත් මවට ඇගේ බාල පුත්‍රයා විසින් අමානුෂික ලෙස පහර දී තිබේ.
+
+පහරදීම හේතුවෙන් අධික ලෙස රුධිරය වහනය වීම හේතුවෙන් මේ වනවිට අදාළ මව ව සියඹලාණ්ඩුව මූලික රෝහලට ඇතුළත් කර ඇත.
+
+පහරදීම සිදුකළ සැකකාර පුත්‍රයා මේ වන විට ඔහුගේ බිරිඳ සහ දරුවාද සමඟින් ප්‍රදේශයෙන් පළා ගොස් ඇති අතර ඔහුට මව සහ පියා විසින් ඉදිකළ නිවස සහ ඉඩම ද ලබා දී තිබේ.
+
+රාත්‍රි ආහාරය වෙනුවෙන් ඉඩම ආසන්නයේ ඇති කොස් ගසකින් ගෙඩියක් කඩා ගැනීමට උරණ වූ මෙම පුත්‍රයා විසින් මවට විදුලි පන්දමකින් පහර දී  තිබේ.
+
+පහරකෑමට ලක්වූ මවට දරුවන් තිදෙනෙකු සිටින අතර පහරදුන් පුත්‍රයාට ද දරුවෙක් සිටින බව අප වාර්තාකරු පැවසීය.
+
+සැකකරු අත්අඩංගුවට ගැනීම සඳහා දොඹගහවෙල පොලිස් ස්ථානයේ නිලධාරීන් මේ වන විට විශේෂ විමර්ශනයක් ආරම්භ කර ඇත.
+
+◼️
+
+[Data](articles/cc1470ae.json)
+
+---
+
+### Three killed in light aircraft crash on motorway outside Paris
+
+*2024-07-01 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100214/three-killed-in-light-aircraft-crash-on-motorway-outside-paris) · `en`
+
+Three people were killed on Sunday when their light aircraft crashed onto a motorway east of Paris, the police and gendarmerie said.
+
+No car was hit in the crash of the plane onto the A4 motorway in Noisiel east of Paris which appeared to have been caused by the aircraft hitting an electric power cable, said a police source, asking not to be named, adding that the road had been blocked in both directions.
+
+◼️
+
+[Data](articles/88c69246.json)
+
+---
+
+### ரயில் மீது தாக்குதல்
+
+*2024-07-01 11:27:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-மீது-தாக்குதல்/175-339689) · `ta`
+
+கொழும்பு, கோட்டை ரயில் நிலையத்தில் இருந்து ஞாயிற்றுக்கிழமை (30) மாலை 6.40 மணியளவில் ரம்புக்கவ நோக்கி புறப்பட்ட ரயில் மீது தெமட்டகொட பிரதேசத்தில் வைத்து கல் வீசு தாக்குதல் ஏற்பட்டதில் ரயிலின் ஜன்னல் மற்றும் கதவு சேதமடைந்துள்ளது.
+
+குறித்த ரயில் அதிக பயணிகளுடன் பயணித்துக்கொண்டிருந்ததுடன் தாக்குதலில் , பயணிகளுக்கு எந்த பாதிப்பும் ஏற்படவில்லை எனவும் , பெரிய கல் ஒன்று கண்ணாடியை உடைத்துக்கொண்டு பயணி ஒருவரின் கால்களுக்கு முன்னால் நின்றதாகவும் தெரிவிக்கப்பட்டுள்ளது .
+
+மேலும் , சில பயணிகள் மீது கண்ணாடி துண்டுகள் வீசுப்பட்டுள்ளதுடன் குறித்த தாக்குதலையும் மீறி ரயில் தொடர்ந்து பயணித்துள்ளது .
+
+◼️
+
+[Data](articles/47fbd577.json)
+
+---
+
+### පුත්‍රයාගේ පහරදීමෙන් පියාට දිවි අහිමිවෙයි
+
+*2024-07-01 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198353) · `si`
+
+ඉපලෝගම පොලිස් වසමේ, හිරිපිටියාගම ප්‍රදේශයේ දී පුත්‍රයෙකුගේ පහරදීමෙන් පියෙක් ඝාතනය වීමේ අවාසනාවන්ත සිදුවීමක් වාර්තා වේ.
+
+ඊයේ (30) සවස් කාලයේදී මෙම ඝාතනය සිදුකර ඇති අතර පොලිස් හදිසි ඇමතුම් ඒකකයට ලද පණිවුඩයක් මත විමර්ශන ආරම්භ කර ඇත.
+
+මරණකරු හිසේ ලේ ගලන තුවාල සහිතව නිවස ඉදිරිපිට බිම වැටී මියගොස් සිටි බව පොලීසිය පවසයි.
+
+මෙලෙස මිය ගොස් ඇත්තේ, 66 හැවිරිදි අලුත් පාර, හිරිපිටියාගම ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+ඝාතනය සම්බන්ධයෙන් 34 හැවිරිදි මියගිය පුද්ගලයාගේ පුතා පොලීසිය විසින් සැකපිට අත්අඩංගුවට ගෙන ඇත.
+
+සැකකාර පුත්‍රයා විසින් ඝාතනයට ලක්වූ සිය පියාට නිතර පහරදීම් සිදුකර ඇති බවත්, ඝාතනය සිදුවන අවස්ථාවේ සැකකරු හා මරණකරු පමණක් නිවසේ සිට ඇති බවත් මරණකරුගේ බිරිඳ විසින් පොලීසියට පවසා තිබේ.
+
+◼️
+
+[Data](articles/f036023a.json)
+
+---
+
+### சம்பந்தனின் மறைவுக்கு ​இந்திய பிரதமர் இரங்கல்
+
+*2024-07-01 11:17:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனின்-மறைவுக்கு-இந்திய-பிரதமர்-இரங்கல்/175-339688) · `ta`
+
+தமிழ்த் தேசியக் கூட்டமைப்பின் முன்னாள் தலைவரும் பாராளுமன்ற உறுப்பினருமான இரா.சம்பந்தனின் மறைவுக்கு இந்தியப் பிரதமர் நரேந்திர மோடி இரங்கல் தெரிவித்துள்ளார்.
+
+தன்னுடைய X தளத்தில் பதிவொன்றை இட்டுள்ள இந்தியப் பிரதமர் நரேந்திர மோடி,  ​​“தமிழ்த் தேசியக் கூட்டமைப்பின் மூத்த தலைவர் இரா. சம்பந்தனின் குடும்பத்தினருக்கும் நண்பர்களுக்கும் எனது ஆழ்ந்த அனுதாபங்கள். அவருடனான சந்திப்புகளின் இனிய நினைவுகளை எப்போதும் போற்றுவார். இலங்கையின் தமிழ் தேசங்களுக்கு அமைதி, பாதுகாப்பு, சமத்துவம், நீதி மற்றும் கண்ணியம் நிறைந்த வாழ்க்கையை அவர் இடைவிடாமல் பின்பற்றினார். இலங்கையிலும் இந்தியாவிலும் உள்ள அவரது நண்பர்கள் மற்றும் பின்பற்றுபவர்களால் அவர் இழக்கப்படுவார் என்றும் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/35ce63a7.json)
+
+---
+
+### Aircraft collapsed on France
 
 *2024-07-01 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198352) · `si`
 
-ප්‍රංශයේ අධිවේගී මාර්ගයකට සැහැල්ලු ගුවන් යානයක් කඩා වැටීමෙන් පුද්ගලයින් තිදෙනෙකු මියගොස් තිබේ.
+In France, a light plane crash near Paris resulted in three fatalities. The aircraft plummeted onto a highway, approximately 30 miles away from the city. Despite the incident, the wreckage has yet to be found, as per foreign media updates.
 
-ප්‍රංශයේ පැරිස් නුවර සිට කිලෝමීටර් 30ක පමණ දුරින් යුත් ප්‍රදේශයකට එම ගුවන් යානය කඩා වැටී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-ගුවන් යානය කඩා වැටීමත් සමග අදාළ අධිවේගී මාර්ගයේ වාහන ගමනාගමන කටයුතු ද ඇණහිට ඇති බව සඳහන් වේ.
+Three people were killed after a light plane collapsed on a highway in France.
 
-කෙසේවෙතත් ගුවන් යානය කුමන හේතුවක් මත කඩා වැටී ඇත් ද යන්න සම්බන්ධයෙන් මෙතෙක් තොරතුරු වාර්තා වී නොමැති බව විදෙස් මාධ්‍ය වැඩිදුරටත් පවසයි.
+Foreign media reports that the aircraft crashed into a distance of about 30 miles [30 km] from Paris, France.
+
+The plane collapsed, the airway has been relocated.
+
+However, the airplane has not been reported so far, according to foreign media reports.
 
 ◼️
 
 [Data](articles/9042572c.json)
+
+[Extended Data](ext_articles/9042572c.ext.json)
+
+---
+
+### Gevorg Sargsyan new World Bank Group Country Manager for Sri Lanka
+
+*2024-07-01 11:10:00* · [`economynextcom`](https://economynext.com/gevorg-sargsyan-new-world-bank-group-country-manager-for-sri-lanka-170333/) · `en`
+
+ECONOMYNEXT – Gevorg Sargsyan has been appointed the World Bank Group Country Manager for Sri Lanka, with effect from July 1.
+
+This newly created position will provide a single point of contact for access to the full breadth of World Bank Group products and services, the Washington-based lender said in a statement.
+
+“My priority is to strengthen the dynamic collaboration among the Bank Group institutions in Sri Lanka, to improve our speed and make us a better partner to the government, the private sector, and the Sri Lankan people to support in overcoming the current challenges and building a prosperous and resilient country,” Sargsyan said.
+
+“Sri Lanka is navigating a unique set of challenges, marked by its journey towards economic recovery, heightened poverty and the impacts of climate change, all of which necessitate substantial reforms to protect its economy and people.”
+
+...
+
+[Data](articles/b8ad931a.json)
 
 ---
 
@@ -324,6 +436,46 @@ The June 28 presidential election marked the lowest voter turnout in the history
 
 ---
 
+### Sri Lanka Treasury cash balance of Rs542.3bn by end April
+
+*2024-07-01 10:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-cash-balance-of-rs542-3bn-by-end-april-170321/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Finance Ministry has maintained a positive cash balance of 542.3 billion rupees by end April 2024, only slightly down from 599.5 billion at the end of December, official data showed.
+
+The Finance Ministry had received revenues of 1,205.1 billion from taxes, fees and other revenues, 7.9 percent above target, while total cash outflows was 1,420.5 billion rupees,  was less than expected coming in at 93.5 percent of the target.
+
+Capital payments were slightly higher than target at 188 billion rupees.
+
+The cash deficit to be financed was 403.4 billion rupees, less than the 603.7 billion rupees planned.
+
+The deficit was financed with 796.5 billion rupees of gross borrowings, down from 959.9 billion rupees last year, and debt repayments were 444.4 billion rupees, higher than expected.
+
+Net borrowings at 352.1 billion rupees was less than 690 billion expected.
+
+The government ended up with 542.3 billion rupees cash surplus by April.
+
+...
+
+[Data](articles/45f7f9e4.json)
+
+---
+
+### Grama Niladhari officers warn of continuous strike
+
+*2024-07-01 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100210/grama-niladhari-officers-warn-of-continuous-strike) · `en`
+
+The Sri Lanka Grama Niladhari Association will hold a decisive meeting today (01) regarding their demands for a service constitution.
+
+Chairman of the association Sumith Kodikara stated that the discussion will be held with the President’s Chief of Staff and National Security Advisor, Sagala Ratnayaka.
+
+Meanwhile, Kodikara warned that if their issues are not adequately addressed, the association will initiate a continuous strike.
+
+◼️
+
+[Data](articles/652b00fc.json)
+
+---
+
 ### Grama Niladhari officers warns of continuous strike
 
 *2024-07-01 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100210/grama-niladhari-officers-warns-of-continuous-strike) · `en`
@@ -499,6 +651,48 @@ Three people have fled the shot by three people in the helmets.
 [Data](articles/204cde35.json)
 
 [Extended Data](ext_articles/204cde35.ext.json)
+
+---
+
+### Sri Lanka President hoping for a quick finish to ISB holder talks: President
+
+*2024-07-01 09:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-hoping-for-a-quick-finish-to-isb-holder-talks-president-170304/) · `en`
+
+ECONOMYNEXT – Sri Lanka is in discussions with sovereign bondholders hoping for a quick deal as early as next week, President Ranil Wickremesinghe has told a public rally.
+
+“Actually after we signed this (bilateral MOUs), the bondholders representatives started talking to us,” President Wickremesinghe told a rally in Matara on June 30.
+
+“I thought this may take a month. Up to now we have been discussing effectively. I expect by next week we will be able to successfully complete this.”
+
+“Then will have that agreement as well. So I told Harsha de Silva the chairman of Committee on Public Finance, let’s take all three agreements.”
+
+Wickremesinghe said he may not be able to full details of the Paris Club and China debt deals to the Parliament this week.
+
+“If we disclose two, then it will be a problem for private creditors,” he said.
+
+...
+
+[Data](articles/4988fd70.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 305.95/306.25 to US dollar
+
+*2024-07-01 09:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-305-95-306-25-to-us-dollar-170306/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 305.95/306.25 to the US dollar on Monday, while bond yields were down, and stocks opened 0.07 percent up, dealers said.
+
+In equities, Colombo’s All Share Price Index opened 7.90 points higher at 12,152, while the S&P SL20 of more liquid stocks opened up at 0.17 percent or 6.25 points to 3,594.
+
+A bond maturing on 15.12.2026 was quoted at 10.90/11.00 percent, down from 10.95/11.15 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.85/12.00 percent, up from 11.90/98 percent.
+
+A bond maturing on 15.09.2029 was quoted at 11.85/12.00 percent, down from 12.20/30 percent. (Colombo/July1/2024)
+
+◼️
+
+[Data](articles/553cc4a0.json)
 
 ---
 
@@ -1728,6 +1922,20 @@ He passed away while receiving treatment at a private hospital in Colombo.
 
 ---
 
+### Sri Lanka cuts petrol price by Rs11, premiums fuels more
+
+*2024-06-30 23:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-cuts-petrol-price-by-rs11-premiums-fuels-more-170291/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Petroleum Corporation said it has cut the price of standard petrol, super petrol and super diesel.
+
+Kerosene, an expensive fuel similar to Jet fuel was also kept at 202 rupees a litre.
+
+◼️
+
+[Data](articles/b70a0561.json)
+
+---
+
 ### Here is the good news of the good news that everyone was watching about fuel prices
 
 *2024-06-30 23:40:18* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-ගැන-හැමෝම-බලාගෙන-සිටි-සුබ-ආරංචිය-මෙන්න/11-410534) · `si`
@@ -1911,277 +2119,5 @@ Sipette fuel prices have been amended today (30).
 [Data](articles/1d284c89.json)
 
 [Extended Data](ext_articles/1d284c89.ext.json)
-
----
-
-### Bus fare is not announced but it cannot be implemented - Sri Lanka Private Bus Owners Association
-
-*2024-06-30 21:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/187339) · `ta`
-
-The Sri Lanka Private Bus Owners Association plans to reduce fares by 5% starting Monday, despite no official announcement. The Transport Commission aims to adjust fares due to rising fuel costs, with details expected on Monday.
-
-🟩
-
-The Sri Lanka Private Bus Owners Association has said that the bus fare will be reduced by 5 percent from Monday 01st.
-
-The Transport Commission is planning to revise the bus fare in view of the fuel prices to be held today, its leader Gemunu Wijeratne said.
-
-Meanwhile, Shashi Welgama, Chairman of the National Transport Commission, said that the tariff amendment will be announced on Monday, the 01st of the National Bus Tax Policy.
-
-Sashi Welgama said that the annual bus fare revision should be announced on the 1st of July every year and the announcement will be made at a media briefing at 1.00 pm tomorrow.
-
-◼️
-
-[Data](articles/2a512674.json)
-
-[Extended Data](ext_articles/2a512674.ext.json)
-
----
-
-### Will Thashi's loss of Olympics?
-
-*2024-06-30 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198336) · `si`
-
-Harin Fernando announced an inquiry into the National Athletic Championship in Diyagama after Tharushi Karunaratne won the 600m race. She qualified for the Paris Olympics Women's 800m event, needing to be among the top 45 athletes competing under the "Wild Card". The Sports Minister mentioned an Ombudsman and a national sports council would judge the situation further.
-
-🟩
-
-Minister of Sports Harin Fernando today revealed that the organizers were conducting an inquiry into the event in the National Athletic Championship Tournament in Diyagama.
-
-Tharushi recently joined the National Athletic Championship held in Diyagama, Diyagama recently held the National Athletic Championship in Diyagama.
-
-Several final choice matches for players who are in such a background were held in Diyagama, Tharushi Karunaratne.
-
-She joined the 600m long and scored the first place in the event.
-
-48 athletes will be eligible for the 800mmary of the Paris Olympics Women's Meter Events.
-
-Although 48 players will attend the Olympic event, but they should be among the 45 first athletes as they participate under the "Will Card".
-
-Sports Minister Harin Fernando said the organizers of the National Athletic Championship Tournament held in the Diyagama.
-
-...
-
-[Data](articles/aa0c9bc3.json)
-
-[Extended Data](ext_articles/aa0c9bc3.ext.json)
-
----
-
-### The fishermen of the life at a time when unexpected
-
-*2024-06-30 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198335) · `si`
-
-Six fishermen from Tangalle Fisheries Harbor fell ill during a voyage; five died. The surviving one is being transferred to the Sri Lanka Navy. The group was sailing 365 nautical miles south of Deonadara when tragedy struck.
-
-🟩
-
-The fisherman who is suffering from the deeper sea is due to be handed over to the Sri Lanka Navy Vijayabahu on the night of the 30th.
-
-Navy Spokesperson Capithan Gayan Wickremasturiya said that the sick fisherman and the deceased fisherman is due to the Singapore vessel to Vijayabahu.
-
-The six fishermen who were on the Tangalle Fisheries Harbor, the Tangalle Fisheries Harbor, were sick and five of them have died.
-
-Navy Media Spokesperson Capithan Gayan Wickremasturiya, who is said to have further illustrate the fisherman of the island.
-
-"There is still alive, save us. We give priority to the currently alive, save quickly without any trouble. What we can see after that. "
-
-The victim was 42-year-old wishes of the vessel, Dilshan, 32-year-old Sujith Sanjeewa, 33 fishermen.
-
-When they were facing unexpected, the fishing vessel was sailing from 365 nautical miles from the south of the Deonadara Troops.
-
-◼️
-
-[Data](articles/bdcb2412.json)
-
-[Extended Data](ext_articles/bdcb2412.ext.json)
-
----
-
-### Sri Lanka budget deficit implodes 56-pct to April 2024, interest bill eases
-
-*2024-06-30 20:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-implodes-56-pct-to-april-2024-interest-bill-eases-170246/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s budget deficit has collapsed to 361 billion rupees up to April 2024 from 824.2 helped by higher tax revenues and a falling interest bill, official data show.
-
-Revenues surged 48 percent to 1,216 billion rupees to April 2024, ahead of the 35 percent annual growth projected in a budget, with higher value added and income tax rates as well as economic activity recovering close to previous levels.
-
-Sri Lanka is emerging from the worst case of ‘policy support’ deployed by macroeconomists since the central bank was set up in 1950 where the usual inflationary rate cuts which trigger currency crises and IMF programs, was also backed up tax cuts.
-
-Giving policy support and denying monetary stability has become mainstream in the age of inflation and ‘age of external defaults without a war’ due to so-called Saltwater-Cambridge doctrine, critics say.
-
-...
-
-[Data](articles/b06e40f9.json)
-
-[Extended Data](ext_articles/b06e40f9.ext.json)
-
----
-
-### Bus fares today decrease today?
-
-*2024-06-30 20:47:38* · [`adalk`](https://www.ada.lk/breaking_news/අද-බස්-ගාස්තු-අඩුවෙයි-/11-410533) · `si`
-
-Today marks a reduction in bus fares due to an annual review. The decision was reached after discussions between the CSE Chairman and bus unions on the 28th. The new rates, effective from today, aim to lower the minimum fare as agreed upon by both bus associations and the National Transport Commission.
-
-🟩
-
-According to the annual bus fare revision, the new bus fare will be held today (01st).
-
-The Chairman of the Commission (Vishi Welgama) stated that the Chairman of the Commission (CSE) has been discussed with the bus unions on the 28th.
-
-The new fare will be included in the issuance of tickets after being published today (01) and the fee is implemented today.
-
-It is reported that the minimum bus fare between the bus associations and the National Transport Commission officials has decided to reduce Rs.
-
-The Sri Lankan Private Bus Owners Association states that the bus associations have agreed to discuss this fee and reduce the minimum bus fare.
-
-◼️
-
-[Data](articles/1e0ca69b.json)
-
-[Extended Data](ext_articles/1e0ca69b.ext.json)
-
----
-
-### We will form a powerful alliance in the history of the country in a few days - Ranjith Mathuma Bandara
-
-*2024-06-30 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187338) · `ta`
-
-Ranjith Mathuma Bandara, Secretary of the United People's Power and MP, announced a significant political alliance involving his party, the Muslim Congress, Tamil parties, and 12 members of the Rishad Bathiudeen Party. This alliance aims to form a historic coalition in the country. Despite initial claims of 20 government officials joining the United People's Power, only 11 have done so, with promises of 12 more in the coming weeks. The party is also preparing for the upcoming presidential election, aiming to incorporate 2 million members to secure victory against competitors like Sajith Premadasa and Anura Kumara Dissanayake. Bandara emphasized the need for the presidential election to be held between September and October, asserting that the Election Commission has the necessary authority and that no one can prevent it.
-
-🟩
-
-No one has ever joined the United People's Power. But within two weeks, 12 people with the government will join the United People's Power, said United People's Power Secretary and Member of Parliament, Ranjith Mathuma Bandara.
-
-He was speaking to the media after an event on Sunday 30th.
-
-The government has announced a year ago that 20 people will join the United People's Power. But from our side Harin and man, no one has ever gone. But 11 people in the government have joined us. In the next two weeks, there will be 12 more people joining us.
-
-At the same time, the Muslim Congress, Tamil parties and 12 members of the Rishad Bathiudeen Party are forming an alliance with us. We will set up a strong coalition in the history of the country in a few more days. While the government is trying to write with us, we are joining the government with us.
-
-...
-
-[Data](articles/53eb2161.json)
-
-[Extended Data](ext_articles/53eb2161.ext.json)
-
----
-
-### Ice cream in Sri Lanka's first chilli
-
-*2024-06-30 20:27:33* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-පළමුවරට-මිරිස්වලින්-අයිස්-ක්‍රීම්-හදයි/11-410532) · `si`
-
-Sri Lanka introduces its first chili-flavored ice cream, produced with the support of the Ministry of Agriculture and Plantation Industries. Utilizing dry chili-bark byproducts, this unique ice cream also comes in honey flavor. Aimed at both children and adults, it marks a culinary innovation in the country.
-
-🟩
-
-Ven.
-
-The production has been launched under the technical and financial contribution of the agricultural and financial support implemented under the Ministry of Agriculture and Plantation Industries.
-
-This ice cream species will be prepared using the dry chilli-bark used to get seeds as a byproduct. The manufacturer points out that the ice cream can enjoy the ice cream with a honey and tasting.
-
-Speaking further Mr. Lankathilaka said that 2 production specials have been introduced to children and the adults.
-
-◼️
-
-[Data](articles/467eb803.json)
-
-[Extended Data](ext_articles/467eb803.ext.json)
-
----
-
-### Learn the country's building lesson
-
-*2024-06-30 20:12:55* · [`adalk`](https://www.ada.lk/breaking_news/රට-ගොඩනැඟීමේ-පාඩම-මගෙන්-ඉගෙන-ගන්න/11-410530) · `si`
-
-President Ranil Wickremesinghe emphasized unity and collective action over individualism, highlighting significant achievements in the past two years despite challenges. He spoke of a new political journey starting from Matara, focusing on learning from the country and its people to build a better future. The President also addressed the nation's economic stabilization efforts, including tax reforms and relief programs, aiming to secure the country's financial future and encourage unity across political divides.
-
-🟩
-
-President Ranil Wickremesinghe stressed that today, not individualism or birdism, but alliance and all in common agreement.
-
-The President said that all the work was silent in the past two years and had done a wide range of work for the country.
-
-President Ranil Wickremesinghe made this statement addressing the public meeting held at the Fort Stadium today (30) to educate the public program and the public.
-
-"Jointly Joint - Matara and Energy Minister Kanchana Wijesekera was organized by the people of the Matara district.
-
-President Ranil Wickremesinghe said that the beginning of a new political journey has been marked from Matara today. The country said that the President would learn how the President would be able to learn the country with the country, as well as the President to build the country with this program.
-
-Addressing the crowd, President Ranil Wickremesinghe further added:
-
-...
-
-[Data](articles/cee71c52.json)
-
-[Extended Data](ext_articles/cee71c52.ext.json)
-
----
-
-### Sri Lanka Presidential election date can be told after July 17: Commissioner Gen
-
-*2024-06-30 20:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-election-date-can-be-told-after-july-17-commissioner-gen-170284/) · `en`
-
-ECONOMYNEXT  – Sri Lanka’s Elections Commission will get powers under the Constitution to set a date for the next Presidential elections from July 17 onwards, Commissioner General Saman Sri Ratnayake has said.
-
-“According to the Constitution and the law, the Presidential Elections has be held in between one month before November 18 and two months after,” Ratnayake told reporters.
-
-“So if we work backwards, most likely about July 17 – that is the closest date – the Commission gets the power to make the announcement.”
-
-He said the electors list is now being finalized. (Colombo/June30/2024)
-
-◼️
-
-[Data](articles/56921db6.json)
-
-[Extended Data](ext_articles/56921db6.ext.json)
-
----
-
-### In response to the appointment of Attorney General
-
-*2024-06-30 20:04:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-சட்டமா-அதிபர்-நியமனம்/175-339663) · `ta`
-
-Parinda Ranasinghe is now the Attorney General, replacing Sanjay Rajaratnam, who moves to be the Senior Additional Solicitor General.
-
-🟩
-
-Senior Additional Solicitor General Parinda Ranasinghe has been appointed as the Attorney General. Attorney Sanjay Rajaratnam, who served as Attorney General, has been appointed Senior Additional Solicitor General
-
-◼️
-
-[Data](articles/83b1b5b8.json)
-
-[Extended Data](ext_articles/83b1b5b8.ext.json)
-
----
-
-### The ship received by the President
-
-*2024-06-30 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198334) · `si`
-
-President Ranil Wickremesinghe addressed a rally in Matara, discussing future plans and the capabilities of local councils. He emphasized the importance of unity and support from various political parties, including the Sri Lanka General Front. The President also highlighted the need for financial stability and asked for public support in overcoming challenges.
-
-🟩
-
-President Ranil Wickremesinghe says that several of this year and several years will be held.
-
-However, the Presidentials Forecasts further stated that the pradeshiya sabha is not capable and the financial support is not necessary.
-
-He was speaking at a "consequent joining the 'rally in Matara today (30).
-
-Speaking further, the President said that he had been secured safely and restored to a captain to a captain that escaped.Or will it be taken on this way?He is inquired from the people to go.
-
-"Jayawanw. 'and President Ranil Wickremesinghe assured the support of President Ranil Wickremesinghe at the meeting with the Sri Lanka General Front MPs and several other parties.
-
-Minister of Power and Energy Kanchana Wijesekara said that President Ranil Wickremesinghe should be able to support the Sri Lanka General Front after the presidential election.
-
-◼️
-
-[Data](articles/44991fdc.json)
-
-[Extended Data](ext_articles/44991fdc.ext.json)
 
 ---

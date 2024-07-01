@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 11:54:58**
+As of **2024-07-01 12:08:46**
 
 ## Newspaper Stats
 
-*Scraped **33,064** Articles*
+*Scraped **33,065** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,846
 economynextcom | 1,934
 dailyftlk | 2,036
 adalk | 2,937
-adaderanalk | 3,768
+adaderanalk | 3,769
 tamilmirrorlk | 3,913
 dailymirrorlk | 4,733
 virakesarilk | 5,146
@@ -26,31 +26,55 @@ adaderanasinhalalk | 5,461
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,053 (100.0%) of 33,064 articles have been extended.
+33,064 (100.0%) of 33,065 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### කොස් ගෙඩියක් කඩාගත් මවට පුතාගෙන් දරුණු ප්‍රහාරයක්
+### Piyumi Hansamali questioned by CID; asserts legitimacy of wealth
+
+*2024-07-01 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100215/piyumi-hansamali-questioned-by-cid-asserts-legitimacy-of-wealth) · `en`
+
+Actress Piyumi Hansamali has appeared before the Illegal Assets Investigations Division of the Criminal Investigation Department (CID) this morning (01), to record a statement regarding an investigation into the alleged suspicious acquisition of property.
+
+Hansamali, emphasizing confidence in her innocence, stated to the reporters: “I have not done anything wrong, so there is no need to be afraid. We were actually summoned last week, but I only received the letter on Saturday. There are many documents that we need to get prepared…”
+
+Additionally, she explained the legitimacy of her business, stating that her income comes from selling cosmetics products.
+
+“People can see that one pack of my cream costs about Rs. 35,000 and I have sold 25,000 packs so far. They can do the math and see where I got the money from. We have carried out all related transactions through the banking system and are documented. Bank statements are in 5 bags. We did everything through the bank”, she added.
+
+...
+
+[Data](articles/b12d2819.json)
+
+---
+
+### Mother demolished the mother to attack the mother
 
 *2024-07-01 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198354) · `si`
 
-මොනරාගල, දොඹගහවෙල පොලිස් බලප්‍රදේශයට අයත් හෙරලි ගස්යාය ප්‍රදේශයේ දී ආහාරය සඳහා කොස් ගෙඩියක් කඩා ගත් මවට ඇගේ බාල පුත්‍රයා විසින් අමානුෂික ලෙස පහර දී තිබේ.
+A mother was severely injured by her own son, leading to hospitalization. The attacker, along with his family, left the area with property belonging to the victim. Authorities are investigating the case.
 
-පහරදීම හේතුවෙන් අධික ලෙස රුධිරය වහනය වීම හේතුවෙන් මේ වනවිට අදාළ මව ව සියඹලාණ්ඩුව මූලික රෝහලට ඇතුළත් කර ඇත.
+🟩
 
-පහරදීම සිදුකළ සැකකාර පුත්‍රයා මේ වන විට ඔහුගේ බිරිඳ සහ දරුවාද සමඟින් ප්‍රදේශයෙන් පළා ගොස් ඇති අතර ඔහුට මව සහ පියා විසින් ඉදිකළ නිවස සහ ඉඩම ද ලබා දී තිබේ.
+Her youngest son has been brutally assaulted by her youngest son.
 
-රාත්‍රි ආහාරය වෙනුවෙන් ඉඩම ආසන්නයේ ඇති කොස් ගසකින් ගෙඩියක් කඩා ගැනීමට උරණ වූ මෙම පුත්‍රයා විසින් මවට විදුලි පන්දමකින් පහර දී  තිබේ.
+The mother has been admitted to the Siyambalanduwa Base Hospital due to heavy blood cutting due to the attack.
 
-පහරකෑමට ලක්වූ මවට දරුවන් තිදෙනෙකු සිටින අතර පහරදුන් පුත්‍රයාට ද දරුවෙක් සිටින බව අප වාර්තාකරු පැවසීය.
+The suspect, who had committed the attack, fled the area with his wife and child, and he had given him the home and the land built by mother and father.
 
-සැකකරු අත්අඩංගුවට ගැනීම සඳහා දොඹගහවෙල පොලිස් ස්ථානයේ නිලධාරීන් මේ වන විට විශේෂ විමර්ශනයක් ආරම්භ කර ඇත.
+The son, who was a tumor near the land for the land, has been attacked by a triple.
+
+Our correspondent said that the mother had been assaulted and had three children and the son of attacked the assault.
+
+Officers of the Dombagahawela Police Station has launched a special investigation to arrest the suspect.
 
 ◼️
 
 [Data](articles/cc1470ae.json)
+
+[Extended Data](ext_articles/cc1470ae.ext.json)
 
 ---
 
@@ -66,57 +90,77 @@ No car was hit in the crash of the plane onto the A4 motorway in Noisiel east of
 
 [Data](articles/88c69246.json)
 
+[Extended Data](ext_articles/88c69246.ext.json)
+
 ---
 
-### ரயில் மீது தாக்குதல்
+### Attack on the train
 
 *2024-07-01 11:27:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-மீது-தாக்குதல்/175-339689) · `ta`
 
-கொழும்பு, கோட்டை ரயில் நிலையத்தில் இருந்து ஞாயிற்றுக்கிழமை (30) மாலை 6.40 மணியளவில் ரம்புக்கவ நோக்கி புறப்பட்ட ரயில் மீது தெமட்டகொட பிரதேசத்தில் வைத்து கல் வீசு தாக்குதல் ஏற்பட்டதில் ரயிலின் ஜன்னல் மற்றும் கதவு சேதமடைந்துள்ளது.
+A train window and door were damaged in an attack near the Dematagoda area on Sunday evening, while en route from Fort Railway Station in Colombo. The incident occurred as the train was carrying many passengers, but the attack did not deter the train's journey. Passengers were thrown into the glass, yet the train continued moving despite the assault.
 
-குறித்த ரயில் அதிக பயணிகளுடன் பயணித்துக்கொண்டிருந்ததுடன் தாக்குதலில் , பயணிகளுக்கு எந்த பாதிப்பும் ஏற்படவில்லை எனவும் , பெரிய கல் ஒன்று கண்ணாடியை உடைத்துக்கொண்டு பயணி ஒருவரின் கால்களுக்கு முன்னால் நின்றதாகவும் தெரிவிக்கப்பட்டுள்ளது .
+🟩
 
-மேலும் , சில பயணிகள் மீது கண்ணாடி துண்டுகள் வீசுப்பட்டுள்ளதுடன் குறித்த தாக்குதலையும் மீறி ரயில் தொடர்ந்து பயணித்துள்ளது .
+The train's window and door has been damaged in the Dematagoda area on Sunday (30) at 6.40 pm from Fort Railway Station in Colombo.
+
+It was reported that the train was traveling with more passengers and the attack had not been affected by the passengers.
+
+In addition, some passengers have been thrown into the glass and the train has continued to travel despite the attack.
 
 ◼️
 
 [Data](articles/47fbd577.json)
 
+[Extended Data](ext_articles/47fbd577.ext.json)
+
 ---
 
-### පුත්‍රයාගේ පහරදීමෙන් පියාට දිවි අහිමිවෙයි
+### Father's attempting to lack suicide by assault
 
 *2024-07-01 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198353) · `si`
 
-ඉපලෝගම පොලිස් වසමේ, හිරිපිටියාගම ප්‍රදේශයේ දී පුත්‍රයෙකුගේ පහරදීමෙන් පියෙක් ඝාතනය වීමේ අවාසනාවන්ත සිදුවීමක් වාර්තා වේ.
+A tragic incident occurred in the Ipalogama police division where a 66-year-old man from Hiripitiya was murdered outside his home. The investigation began after a report to the Police Emergency Unit. The victim's wife identified the suspect as her husband's killer, leading to the arrest of their 34-year-old son.
 
-ඊයේ (30) සවස් කාලයේදී මෙම ඝාතනය සිදුකර ඇති අතර පොලිස් හදිසි ඇමතුම් ඒකකයට ලද පණිවුඩයක් මත විමර්ශන ආරම්භ කර ඇත.
+🟩
 
-මරණකරු හිසේ ලේ ගලන තුවාල සහිතව නිවස ඉදිරිපිට බිම වැටී මියගොස් සිටි බව පොලීසිය පවසයි.
+An unfortunate event was the assassination of a son in the Ipalogama police Division in the Ipalogama area.
 
-මෙලෙස මිය ගොස් ඇත්තේ, 66 හැවිරිදි අලුත් පාර, හිරිපිටියාගම ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The murder was commenced on the evening and commenced investigations on a message to the Police Emergency Unit.
 
-ඝාතනය සම්බන්ධයෙන් 34 හැවිරිදි මියගිය පුද්ගලයාගේ පුතා පොලීසිය විසින් සැකපිට අත්අඩංගුවට ගෙන ඇත.
+The victim was dead in front of the house with bleeding injuries, police said.
 
-සැකකාර පුත්‍රයා විසින් ඝාතනයට ලක්වූ සිය පියාට නිතර පහරදීම් සිදුකර ඇති බවත්, ඝාතනය සිදුවන අවස්ථාවේ සැකකරු හා මරණකරු පමණක් නිවසේ සිට ඇති බවත් මරණකරුගේ බිරිඳ විසින් පොලීසියට පවසා තිබේ.
+The victim is a 66 year old new road, a resident of Hiripitiya.
+
+Police have arrested the son of 34-year-old man in connection with the murder.
+
+The victim's wife has told the police that his father had been assassinated by the suspect's son and that the suspect had been at home and the deceased had been home.
 
 ◼️
 
 [Data](articles/f036023a.json)
 
+[Extended Data](ext_articles/f036023a.ext.json)
+
 ---
 
-### சம்பந்தனின் மறைவுக்கு ​இந்திய பிரதமர் இரங்கல்
+### Indian Prime Minister condoles the demise of Sambandan
 
 *2024-07-01 11:17:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனின்-மறைவுக்கு-இந்திய-பிரதமர்-இரங்கல்/175-339688) · `ta`
 
-தமிழ்த் தேசியக் கூட்டமைப்பின் முன்னாள் தலைவரும் பாராளுமன்ற உறுப்பினருமான இரா.சம்பந்தனின் மறைவுக்கு இந்தியப் பிரதமர் நரேந்திர மோடி இரங்கல் தெரிவித்துள்ளார்.
+Indian PM Narendra Modi condoles the passing of former TNA leader R. Sampanthan, expressing deep sympathy to his family and friends. Modi recalls fond memories from their interactions and praises Sampanthan's dedication to peace, security, equality, justice, and dignity for Sri Lanka's Tamil community.
 
-தன்னுடைய X தளத்தில் பதிவொன்றை இட்டுள்ள இந்தியப் பிரதமர் நரேந்திர மோடி,  ​​“தமிழ்த் தேசியக் கூட்டமைப்பின் மூத்த தலைவர் இரா. சம்பந்தனின் குடும்பத்தினருக்கும் நண்பர்களுக்கும் எனது ஆழ்ந்த அனுதாபங்கள். அவருடனான சந்திப்புகளின் இனிய நினைவுகளை எப்போதும் போற்றுவார். இலங்கையின் தமிழ் தேசங்களுக்கு அமைதி, பாதுகாப்பு, சமத்துவம், நீதி மற்றும் கண்ணியம் நிறைந்த வாழ்க்கையை அவர் இடைவிடாமல் பின்பற்றினார். இலங்கையிலும் இந்தியாவிலும் உள்ள அவரது நண்பர்கள் மற்றும் பின்பற்றுபவர்களால் அவர் இழக்கப்படுவார் என்றும் குறிப்பிட்டுள்ளார்.
+🟩
+
+Indian Prime Minister Narendra Modi has condoled the death of former Tamil National Alliance (TNA) leader and parliamentarian R. Sampanthan.
+
+Indian Prime Minister Narendra Modi, who posted a record on his site, said, “Senior leader of the Tamil National Alliance. My deepest sympathies to Sampanthan's family and friends. Will always admire the happy memories of meetings with him. He relentlessly followed the life of peace, security, equality, justice and dignity to the Tamil nations of Sri Lanka. He also said that he would be lost by his friends and followers in Sri Lanka and India.
 
 ◼️
 
 [Data](articles/35ce63a7.json)
+
+[Extended Data](ext_articles/35ce63a7.ext.json)
 
 ---
 
@@ -159,6 +203,8 @@ This newly created position will provide a single point of contact for access to
 ...
 
 [Data](articles/b8ad931a.json)
+
+[Extended Data](ext_articles/b8ad931a.ext.json)
 
 ---
 
@@ -458,6 +504,8 @@ The government ended up with 542.3 billion rupees cash surplus by April.
 
 [Data](articles/45f7f9e4.json)
 
+[Extended Data](ext_articles/45f7f9e4.ext.json)
+
 ---
 
 ### Grama Niladhari officers warn of continuous strike
@@ -473,6 +521,8 @@ Meanwhile, Kodikara warned that if their issues are not adequately addressed, th
 ◼️
 
 [Data](articles/652b00fc.json)
+
+[Extended Data](ext_articles/652b00fc.ext.json)
 
 ---
 
@@ -674,6 +724,8 @@ Wickremesinghe said he may not be able to full details of the Paris Club and Chi
 
 [Data](articles/4988fd70.json)
 
+[Extended Data](ext_articles/4988fd70.ext.json)
+
 ---
 
 ### Sri Lanka rupee opens stronger at 305.95/306.25 to US dollar
@@ -693,6 +745,8 @@ A bond maturing on 15.09.2029 was quoted at 11.85/12.00 percent, down from 12.20
 ◼️
 
 [Data](articles/553cc4a0.json)
+
+[Extended Data](ext_articles/553cc4a0.ext.json)
 
 ---
 
@@ -1934,6 +1988,8 @@ Kerosene, an expensive fuel similar to Jet fuel was also kept at 202 rupees a li
 
 [Data](articles/b70a0561.json)
 
+[Extended Data](ext_articles/b70a0561.ext.json)
+
 ---
 
 ### Here is the good news of the good news that everyone was watching about fuel prices
@@ -2101,23 +2157,5 @@ A total of five fishermen have died thus far after the crew of a fishing vessel 
 [Data](articles/4010b7b1.json)
 
 [Extended Data](ext_articles/4010b7b1.ext.json)
-
----
-
-### Fuel prices vary
-
-*2024-06-30 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198337) · `si`
-
-Sipette fuel prices were adjusted on March 30th.
-
-🟩
-
-Sipette fuel prices have been amended today (30).
-
-◼️
-
-[Data](articles/1d284c89.json)
-
-[Extended Data](ext_articles/1d284c89.ext.json)
 
 ---

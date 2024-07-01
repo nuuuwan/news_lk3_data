@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 13:54:52**
+As of **2024-07-01 14:06:54**
 
 ## Newspaper Stats
 
-*Scraped **33,083** Articles*
+*Scraped **33,086** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 302
-colombotelegraphcom | 302
+colombotelegraphcom | 303
 bbccomsinhala | 323
 newsfirstlk | 363
 islandlk | 1,846
@@ -20,33 +20,77 @@ adaderanalk | 3,771
 tamilmirrorlk | 3,914
 dailymirrorlk | 4,733
 virakesarilk | 5,153
-adaderanasinhalalk | 5,465
+adaderanasinhalalk | 5,467
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,081 (100.0%) of 33,083 articles have been extended.
+33,083 (100.0%) of 33,086 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### விபத்தில் பாலகியும், சிறுவனும் படுகாயம்: ஐவருக்கு காயம்
+### මැතිවරණයෙන් එමානුවෙල් මැක්‍රෝන්ට දැවැන්ත පසුබෑමක්
+
+*2024-07-01 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198360) · `si`
+
+ප්‍රංශ මහා මැතිවරණයේ පෙරමුණ ගැනීමට මරීන් ලා පෙන්ගේ අන්ත දක්ෂිණාංශික පක්ෂය සමත්ව තිබේ.
+
+එහිදී ජනාධිපති එමානුවෙල් මැක්‍රෝන්ගේ සන්ධාන පක්ෂය දැවැන්ත පසුබෑමක් ලබා තිබීම ද විශේෂත්වයකි.
+
+මේ අතර දක්ෂිණාංශික පක්ෂය ලැබූ ජයග්‍රහණයට එරෙහිව දහස් සංඛ්‍යාත පිරිසක් පැරිස් අගනුවර වෙත රැස්ව සිටී.
+
+ඔවුන් සහ කැරලි මර්දන නිලධාරීන් අතර ගැටුමක් ද හටගත්තේ තිබුණි.
+
+◼️
+
+[Data](articles/41d123fc.json)
+
+---
+
+### ගුරු - විදුහල්පති වෘත්තීය සමිති සන්ධානයෙන් අනතුරු ඇඟවීමක්
+
+*2024-07-01 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198359) · `si`
+
+සිය ඉල්ලීම්වලට හැකි ඉක්මණින් ප්‍රතිචාර ලබාදෙන්නැයි ඉල්ලා ගුරු - විදුහල්පති වෘත්තිය සමිති සන්ධානය හෙට (02) පාසල් ඉදිරිපිට විරෝධතා පැවැත්වීමට සැලසුම් කර ඇති බව ලංකා ගුරු සංගමය පවසයි.
+
+එළැඹෙන සිකුරාදා රාජ්‍ය අංශයේ සියලු වෘත්තිය සමිති රැස්කර, ගුරු විදුහල්පති සන්ධානය ලෙස ඒකාබද්ධ කිරීමට සූදානමින් සිටින බවත් ඔවුන් වැඩිදුරටත් අදහස් පළ කරමින් කියා සිටියේය.
+
+ගුරු විදුහල්පති වැටුප් විෂමතාව ඉවත් කිරීම ඇතුළු ඉල්ලීම් කිහිපයක් මුල්කරගනිමින් ගුරු - විදුහල්පති වෘත්තිය සමිති සන්ධානය අද (01) පාසල් ඉදිරිපිට කළු කොඩි සහ බැනර් ප්‍රදර්ශනය කරමින් විරෝධතාවක නිරත වේ.
+
+ලංකා ගුරු සංගමය සඳහන් කළේ, හෙට පාසල් වේලාවෙන් පසුව විරෝධතා පවත්වන බවය.
+
+‍ලංකා ගුරු සංගමයේ ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් අද පැවති මාධ්‍ය හමුවකට එක්වෙමින් සඳහන් කර සිටියේ, වෘත්තීය ක්‍රියාමාර්ග තිව්‍ර කිරීමට කටයුතු කරන බවත් දෙමාපියන් මෙම තත්ත්වය තේරුම් ගත යුතු බවත්ය.
+
+◼️
+
+[Data](articles/edfd3192.json)
+
+---
+
+### Balaki and boy injured in accident: Ivar hurt
 
 *2024-07-01 13:31:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-பாலகியும்-சிறுவனும்-படுகாயம்-ஐவருக்கு-காயம்/175-339695) · `ta`
 
-காரொன்றும் வேனொன்றும்  நேருக்கு நேர் மோதியதில் இரண்டு சிறுவர்கள் உட்பட 7 பேர் காயமடைந்துள்ளதாக பண்டாரகம பொலிஸார் தெரிவிக்கின்றனர்.
+In a tragic accident involving a car and a van, seven people including two children aged 8 months and 2 years were injured. The driver of the car, suspected of causing the collision, fled the scene but was later identified through a found driver's license. Authorities are still searching for him as the victims receive medical attention.
 
-ஒரு குழுவினரை ஏற்றிச் சென்ற வேனும், காரொன்றும் மோதி விபத்துக்குள்ளானது. காயமடைந்தவர்களில் 8 மாத குழந்தையும் 2 வயது ஆண் குழந்தையும் உள்ளடங்குவதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-விபத்தை ஏற்படுத்தியதாக கூறப்படும் காரின் சாரதி அங்கிருந்து தப்பியோடிவிட்டார். காரின் முன் இருக்கைக்கு அருகில் ஓட்டுநருக்கு சொந்தமானது என நம்பப்படும் ஓட்டுநர் உரிமம் அடங்கிய பணப்பையை பொலிஸார் மீட்டுள்ளனர்.
+Bandaragama police say seven people, including two boys, were injured when a car and a van collided head -on.
 
-தற்போது சந்தேக நபரை பொலிஸார் தேடி வருகின்றனர். காயமடைந்தவர்கள் சிகிச்சைக்காக மருத்துவமனைக்கு கொண்டு செல்லப்பட்டுள்ளனர்.
+The van and a car collided with a group. The injured include 8 months of child and a 2 -year -old boy, police said.
+
+The driver of the car alleged to have caused the accident fled from there. Police have recovered a driver's license, believed to be owned by the driver near the front seat of the car.
+
+Police are currently searching for the suspect. The injured have been taken to the hospital for treatment.
 
 ◼️
 
 [Data](articles/27d68665.json)
+
+[Extended Data](ext_articles/27d68665.ext.json)
 
 ---
 
@@ -216,15 +260,21 @@ A video recorded by a person found in the area where the incident took place on 
 
 ---
 
-### පියුමි හංසමාලි නීතිවිරෝධී වත්කම් විමර්ශන ඒකකයට කැදවයි
+### Piyumi Hansamali summoned illegal assets to the Investigation Unit
 
 *2024-07-01 12:12:38* · [`adalk`](https://www.ada.lk/breaking_news/පියුමි-හංසමාලි-නීතිවිරෝධී-වත්කම්-විමර්ශන-ඒකකයට-කැදවයි/11-410540) · `si`
 
-සැකසහිත ලෙස රුපියල් කෝටි ගණනක දේපොළ උපයාගෙන ඇතැයි ලද පැමිණිල්ලකට අනුව සිදුකරන විමර්ශනයකට අදාළව ප්‍රකාශයක් ලබාදීම සඳහා ප්‍රසිද්ධ නිරූපන ශිල්පිනයක් වන පියුමි හංසමාලී අද (01) දින උදෑසන අපරාධ පරීක්ෂණ දෙපාර්තුමේන්තුවේ නීතිවිරෝධී වත්කම් විමර්ශන ඒකකයට කැදවා තිබේ.
+Piyumi Hansamali, a prominent manufacturer, faces an inquiry over allegations involving billions of rupees.
+
+🟩
+
+Piyumi Hansalay, a public modern manufacturer, has been paid to an investigation into a complaint made by a complaint made by a complaint made by a complaint that has earned billions of rupees.
 
 ◼️
 
 [Data](articles/cb2a70e6.json)
+
+[Extended Data](ext_articles/cb2a70e6.ext.json)
 
 ---
 
@@ -1352,6 +1402,18 @@ The Missing Mount Lavinia has conducted further investigations.
 
 ---
 
+### Sri Lanka’s Rule Of Men Should End To Give Way For Rule Of (Fair) Law
+
+*2024-07-01 07:51:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-rule-of-men-should-end-to-give-way-for-rule-of-fair-law/) · `en`
+
+Twelve years ago, ex-Foreign Secretary, H.M.G.S. Palihakkara, chairing the late H.L. de Silva memorial events in Colombo opined that what was prevailing in Sri Lanka was not the cherished Rule of Law but a system that could be branded as the Rule of Men in power. I analysed his bold contention and interested readers can access it here.
+
+...
+
+[Data](articles/9cf3fa24.json)
+
+---
+
 ### Decisive discussion on the issues of Grama Niladhari
 
 *2024-07-01 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198343) · `si`
@@ -2129,83 +2191,5 @@ He also noted that those who stopped the queue, two fifty -foods, reduced the pr
 [Data](articles/55917ec4.json)
 
 [Extended Data](ext_articles/55917ec4.ext.json)
-
----
-
-### Come forward to increase daily pain
-
-*2024-07-01 01:41:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளாந்த-வேதனத்தை-அதிகரிக்க-முன்வரவும்/175-339670) · `ta`
-
-Vadivel Suresh urges plantation companies to improve daily conditions for workers, criticizing those who sue them. He mentions a delayed project and calls for honoring a May 21st Gazette to avoid future labor issues.
-
-🟩
-
-Vadivel Suresh, the General Secretary of the Sri Lanka National Plantation Workers Union, said that plantation companies should come forward to increase the day -to -day pain of plantation workers.
-
-The foundation stone laying ceremony was held on Saturday (29) for the rehabilitation work of the Kanavaralla 3 Tamil Maha Vidyalaya through the diversity of 2024.
-
-Plantation workers have been postponed until November.
-
-Shame on companies that have sued the workers who have profitable for five hereditary plantation companies.
-
-Moreover, the Gazette, which was issued on May 21, should be honored this month with the amount of arrears.
-
-Otherwise, he said many industrial disputes could cause problems within the plantations.
-
-◼️
-
-[Data](articles/ff0e5ace.json)
-
-[Extended Data](ext_articles/ff0e5ace.ext.json)
-
----
-
-### People are skeptical about elections
-
-*2024-07-01 01:36:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்கள்-தொடர்பில்-மக்களிடம்-பெரும்-சந்தேகம்/175-339669) · `ta`
-
-Public skepticism towards the presidential election in Sri Lanka is high, as indicated by Parliamentarian Professor GL Peiris at a conference. He highlighted issues including potential corruption, the importance of timely elections for democracy, and conflicts between the state and public opinion. The professor also mentioned concerns over the country's financial situation due to alleged fraud and corruption, particularly involving IMF representatives. Additionally, he discussed the submission of evidence against the Southern Provincial Governor for illegal activities and criticized the President's attempt to form a parliamentary committee to review court decisions, viewing it as a threat to judicial independence.
-
-🟩
-
-“The public is suspicious of the presidential election from September 16 to October 16,” said Parliamentarian Professor GL Peiris.
-
-He was speaking at a conference held in Colombo on Saturday (29).
-
-It seems that there is a war between the state and the public, distorting the consensus of the public.He said that holding elections at the right time is the basic aspect of democracy and no one will be allowed to destroy it.
-
-He said the main reason for the country's bankruptcy was fraudulent and corrupt IMF representatives have announced that the procurement process in Sri Lanka is very corrupt.
-
-He said the facts of the illegal activities of the Southern Provincial Governor, which would give political appointment to local government representatives, would be submitted to the Election Commissioner's Office.
-
-...
-
-[Data](articles/52f8fed1.json)
-
-[Extended Data](ext_articles/52f8fed1.ext.json)
-
----
-
-### Thinking of the model is laughable
-
-*2024-07-01 01:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நினைப்பது-நகைப்புக்குரியது/175-339668) · `ta`
-
-On her 80th birthday, former President Mrs. Chandrika Bandaranaike Kumaratunga reflects on her contributions to Sri Lanka, dismissing concerns about forgetting her actions as laughable. She emphasizes her enduring love for the country and its people, attributing her strength to their support despite criticism.
-
-🟩
-
-Former President Mrs. Chandrika Bandaranaike Kumaratunga has said that it is ludicrous to think that the people of the country will remember them even if I forget some of the things I have done for the country.
-
-Mrs. Bandaranaike posted her 80th birthday on June 29. He said the above.
-
-“Today I have reached the age of seventy -nine years on this earth. From the day I remember, I have done many things for my country, the people and their progress.
-
-I may have forgotten many things. If I forgot some of them, it is laughable to think that people remember them. But in the greetings of the whole day, the memories of some people who love me at home and abroad made me clear to me.
-
-...
-
-[Data](articles/846203b9.json)
-
-[Extended Data](ext_articles/846203b9.ext.json)
 
 ---

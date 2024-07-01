@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 07:19:46**
+As of **2024-07-01 08:15:20**
 
 ## Newspaper Stats
 
-*Scraped **33,006** Articles*
+*Scraped **33,017** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,57 +12,109 @@ dbsjeyarajcom | 302
 colombotelegraphcom | 302
 bbccomsinhala | 321
 newsfirstlk | 363
-islandlk | 1,838
+islandlk | 1,845
 economynextcom | 1,929
 dailyftlk | 2,035
-adalk | 2,931
+adalk | 2,932
 adaderanalk | 3,759
-tamilmirrorlk | 3,904
+tamilmirrorlk | 3,905
 dailymirrorlk | 4,733
 virakesarilk | 5,139
-adaderanasinhalalk | 5,450
+adaderanasinhalalk | 5,452
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,996 (100.0%) of 33,006 articles have been extended.
+33,008 (100.0%) of 33,017 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### සයිනොපෙක් ඉන්ධන මිලේ වෙනසක්
+### 17 හැවිරිදි සිසුවෙක් දියේ ගිලී අතුරුදන්
+
+*2024-07-01 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198344) · `si`
+
+ඊයේ (30) සවස ගල්කිස්ස වෙරළ තීරයේ දියනාමින් සිටි පුද්ගලයින් කිහිපදෙනෙකු අතරින් තිදෙනෙකු දියවැලකට හසු වී ගසාගෙන ගොස් ඇත.
+
+එම අවස්ථාවේ දී ජීවිතාරක්ෂක රාජකාරියේ යෙදී සිටි නාවික හමුදා වෙරළ ආරක්ෂක නිලධාරීන් විසින් දෙදෙනෙකුව බේරාගෙන තිබේ.
+
+අතුරුදන් වී ඇත්තේ 17 හැවිරිදි අබේසේකර මාවත, ගල්කිස්ස ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+අතුරුදන් වු සිසුවා සොයා මේ වන විට ‌මෙහෙයුමක් දියත් කර ඇති අතර ගල්කිස්ස පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/3a380141.json)
+
+---
+
+### Decisive discussion on the issues of Grama Niladhari
+
+*2024-07-01 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198343) · `si`
+
+The GS Association plans a crucial meeting to address grievances such as the need for a service minister. The National Organizer, Sumith Kodara, mentions a scheduled discussion with Sagala Ratnayake, the Presidential Chief of Staff. If no satisfactory solutions are found, the association threatens ongoing strikes.
+
+🟩
+
+The Government Grama Niladhari Association (GS) Association says that a significant discussion is to be held regarding the demands including a service minister.
+
+The National Organizer of the National Organizer Sumith Kodara said that the Presidential Chief of Staff is to be held with Sagala Ratnayake.
+
+However, the discussion will come to a continuous strike action, if he does not have a fair solution to his problems.
+
+◼️
+
+[Data](articles/53a5450f.json)
+
+[Extended Data](ext_articles/53a5450f.ext.json)
+
+---
+
+### Syhopec fuel prices change
 
 *2024-07-01 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198342) · `si`
 
-අද (01) සිට ක්‍රියාත්මක වන පරිදි සයිනොපෙක් සමාගමද සිය ඉන්ධන මිල ගණන් සංශෝධනය කර තිබේ.
+Sinopec adjusts fuel prices effective today, after operational changes.
+
+🟩
+
+Syinopec has also been amended to the company to operate from today.
 
 ◼️
 
 [Data](articles/1e8c762a.json)
 
+[Extended Data](ext_articles/1e8c762a.ext.json)
+
 ---
 
-### ඉදිරි පැය 24 ගැන රතු නිවේදනයක්
+### A red notice on the next 24 hours
 
 *2024-07-01 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198340) · `si`
 
-තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍ය දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+The Meteorological Department warns of strong winds and rough seas in the Arabian Sea, affecting the fishing and naval communities over the next 24 hours due to the active southwest monsoon. It also predicts showers or thundershowers in various regions, including the Western, Sabaragamuwa, North Western provinces, and specific districts like Ampara, Batticaloa, Trincomalee, Hambantota, and Moneragala, with wind speeds of 40-50 km/h.
 
-ඒ අනුව අරාබි මුහුද ප්‍රදේශයේ ක්‍රියා කරන බහුදින ධීවර සහ නාවික ප්‍රජාවට සැලකිලිමත් වන ලෙස එම දෙපාර්තමේන්තුව දැනුම්දෙයි.
+🟩
 
-සක්‍රීය නිරිතදිග මෝසම් කාලගුණය නිසා අරාබි මුහුද ප්‍රදේශය ඉතා රළු විය හැකිය.
+The Meteorological Department has issued a warning red announcement of the strong winds and sea.
 
-මේ අතර බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සිහින් වැසිවාර කිහිපයක් ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Accordingly, the department is informed to care for the multi-day fishing and naval community in the Arabian sea.
 
-ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+The active southwest monsoon weather may be very rough.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකිබව කාලගුණ අනාවැකි නිවේදනයේ සඳහන් වේ.
+Meanwhile, the Department of Meteorology states that several thin closed will occur in the Western, Sabaragamuwa and North Western provinces.
+
+Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The weather forecast statement contains 40-50 strong winds.
 
 ◼️
 
 [Data](articles/ae18f982.json)
+
+[Extended Data](ext_articles/ae18f982.ext.json)
 
 ---
 
@@ -78,6 +130,8 @@ The anticipated victory of the Labour Party in the forthcoming general election 
 
 [Data](articles/fcf1f2d7.json)
 
+[Extended Data](ext_articles/fcf1f2d7.ext.json)
+
 ---
 
 ### Yes, it is $ 26 b in just 5 years
@@ -92,6 +146,8 @@ The impact from tourism over the past five years amounts to approximately $ 13.9
 
 [Data](articles/dfd23394.json)
 
+[Extended Data](ext_articles/dfd23394.ext.json)
+
 ---
 
 ### Will wind power projects mortgage our future?
@@ -103,6 +159,8 @@ Saudi Arabia aims to utilise her vast arid lands to harvest renewable energy res
 ...
 
 [Data](articles/262ec755.json)
+
+[Extended Data](ext_articles/262ec755.ext.json)
 
 ---
 
@@ -118,6 +176,8 @@ A pulse check of corporate Sri Lanka reveals that there are mixed feelings about
 
 [Data](articles/1d44a38a.json)
 
+[Extended Data](ext_articles/1d44a38a.ext.json)
+
 ---
 
 ### Sri Lanka’s Rule of Men should end to give way for Rule of (Fair) Law
@@ -129,6 +189,8 @@ Twelve years ago, ex-Foreign Secretary, H.M.G.S. Palihakkara, chairing the late 
 ...
 
 [Data](articles/90bd0f52.json)
+
+[Extended Data](ext_articles/90bd0f52.ext.json)
 
 ---
 
@@ -146,6 +208,8 @@ German investment via Bogala Graphite Ltd. over the past two decades have seen s
 
 [Data](articles/fb8ca2b7.json)
 
+[Extended Data](ext_articles/fb8ca2b7.ext.json)
+
 ---
 
 ### Imputed Rental Income Tax is an additional burden
@@ -161,6 +225,8 @@ With the proposed imputed rental income to be implemented in mid-next year, this
 ◼️
 
 [Data](articles/418d3b25.json)
+
+[Extended Data](ext_articles/418d3b25.ext.json)
 
 ---
 
@@ -552,21 +618,49 @@ What happened to our children. We want international justice. Although the offic
 
 ---
 
-### ’இந்த வருடமும் அடுத்த வருடமும் தேர்தல்கள்’
+### Land confirmations were issued for 41, 960
+
+*2024-07-01 02:55:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/41-960-காணி-உறுதிகள்-வழங்கப்பட்டன/175-339676) · `ta`
+
+President Wickremesinghe announced a 25 million rupee fund for pond rehabilitation in Moneragala's Divisional Secretariat under the Urumaya Telephone Program, offering full land guarantees. He also presented Urumaya Land certificates to locals, engaging in discussions about their needs.
+
+🟩
+
+President Ranil Wickremesinghe said that 25 million rupees will be given to the rehabilitation of ponds at the Divisional Secretariat in the Moneragala District under the Urumaya Telephone Program issuing full -fledged land guarantees.
+
+Under the National Program of Rs.
+
+The President attended the Urumaya Land certificate to the people of Moneragala district, and then went to the people and heard about their information and engaged in a smooth conversation.. (A)
+
+◼️
+
+[Data](articles/c6cca5cb.json)
+
+[Extended Data](ext_articles/c6cca5cb.ext.json)
+
+---
+
+### Elections this year and next year
 
 *2024-07-01 02:11:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-வருடமும்-அடுத்த-வருடமும்-தேர்தல்கள்/175-339675) · `ta`
 
-ஜனாதிபதி தேர்தல், பொதுத் தேர்தல் மற்றும் மாகாணசபை தேர்தல்கள் இந்த ஆண்டு மற்றும் அடுத்த ஆண்டில் நடத்தப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+This year and next, Sri Lanka will hold presidential, general, and provincial council elections. President Ranil Wickremesinghe emphasized unity and cooperation over division, urging citizens to support the nation and party collectively. This call came during a public meeting in Matara, highlighting the government's agenda and goals.
 
-அத்துடன், தனிநபர் மற்றும் கட்சி சார்பின்றி நாட்டை முதன்மைப்படுத்தி அனைவரும் பொதுவான இணக்கப்பாட்டுடன் முன்னோக்கிச் செல்ல வேண்டுமெனவும் அவர் வலியுறுத்தியுள்ளார்.
+🟩
 
-தற்போதைய அரசாங்கத்தின் வேலைத் திட்டம் மற்றும் முன்நோக்கி செல்லும் வழிகள் குறித்து மக்களைத் தெளிவுபடுத்தும் வகையில் நேற்று மாத்தறை கோட்டை விளையாட்டரங்கில் நடைபெற்ற பொதுக் கூட்டத்தில் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+President Ranil Wickremesinghe says the presidential election, general election and provincial council elections will be held this year and next year.
 
-“ஒன்றாக வெல்வோம் – நாம் மாத்தறை ” என்ற தொனிப்பொருளில் மின்சக்தி மற்றும் வலுசக்தி அமைச்சர் கஞ்சன விஜேசேகரவினால் ஏற்பாடு செய்யப்பட்ட இந்த பொதுக் கூட்டத்தில் மாத்தறை மாவட்டத்தைச் சேர்ந்த பெருந்திரளான மக்கள் கலந்துகொண்டனர். (a)
+He also urged that everyone should move forward with a general compliance with the country and the party without the individual and the party.
+
+The President was speaking at a public meeting held at the Fort Stadium in Matara yesterday to clarify the current government's program and the way.
+
+The general meeting organized by the Minister of Power and Power and Power, Kanjana Wijeshekara, was attended by a large number of people from the Matara district.. (A)
 
 ◼️
 
 [Data](articles/1827335f.json)
+
+[Extended Data](ext_articles/1827335f.ext.json)
 
 ---
 
@@ -742,6 +836,36 @@ I may have forgotten many things. If I forgot some of them, it is laughable to t
 
 ---
 
+### AI Pazz, the first AI-powered legal research platform in Sri Lanka, transforms the legal industry
+
+*2024-07-01 00:58:00* · [`islandlk`](http://island.lk/ai-pazz-the-first-ai-powered-legal-research-platform-in-sri-lanka-transforms-the-legal-industry/) · `en`
+
+In a major transformation shift in the Sri Lankan legal industry, an artificial intelligence (AI) powered legal research platform has been introduced by RedBlocks AI (Pvt) Ltd, featuring the country’s largest legal database, addressing the critical pain points that have long hindered efficient legal research.
+
+At the recently concluded Sri Lanka Association for Software and Services Companies (SLASSCOM) Ingenuity Awards 2024, AI Pazz emerged as a major victor, securing 3rd Best start-up national award and Best Tech for Good national award.
+
+The team behind AI Pazz highlighted that the interest that is shown on the platform and the adaptability of the Sri Lankan legal industry is quite remarkable and encouraging, as many individuals, leading Law chambers and educational institutes have already onboarded within a short period of time.
+
+...
+
+[Data](articles/fb39b07b.json)
+
+---
+
+### Siyapatha Finance kicks off islandwide environmental cleaning project at 37 locations in one day
+
+*2024-07-01 00:57:00* · [`islandlk`](http://island.lk/siyapatha-finance-kicks-off-islandwide-environmental-cleaning-project-at-37-locations-in-one-day/) · `en`
+
+As part of its “Siyapathen Mihikathata” corporate social responsibility (CSR) programme, Siyapatha Finance PLC recently conducted a one-day cleaning project targeting religious places, public spaces and areas preserving important ecosystems. Organised ahead of World Environment Day that is commemorated on 05th June, the cleaning project was successfully carried out in 37 locations islandwide.
+
+In line with the company’s focus and commitment to infuse in the general public a sense of thoughtfulness and responsibility towards the environment, especially in the young, developing minds in the country, staff of Siyapatha teamed up in numbers to take the lead in fulfilling their shared CSR vision.
+
+...
+
+[Data](articles/26ef237e.json)
+
+---
+
 ### Asian Paints Causeway brings new life to Sangattikulama Sinhala Junior School
 
 *2024-07-01 00:57:00* · [`islandlk`](http://island.lk/asian-paints-causeway-brings-new-life-to-sangattikulama-sinhala-junior-school/) · `en`
@@ -800,6 +924,34 @@ Save my name, email, and website in this browser for the next time I comment.
 
 ---
 
+### HNB and UNIMO forge strategic partnership to revolutionize vehicle financing
+
+*2024-07-01 00:35:00* · [`islandlk`](http://island.lk/hnb-and-unimo-forge-strategic-partnership-to-revolutionize-vehicle-financing/) · `en`
+
+Sri Lanka’s leading private sector bank, HNB PLC, recently announced their partnership with UNIMO, the automotive arm of United Motors, to provide affordable financing options and exclusive perks for customers looking to purchase vehicles.
+
+The partnership offers customers looking to invest in automobiles with exclusive interest rates anchored to numerous benefits from both organisations. HNB Head of Retail Banking, Kanchana Karunagama, and UNIMO General Manager Shalain De Silva were present at a special ceremony held to sign the agreement.
+
+Commenting on the partnership, HNB Head of Retail Banking, Kanchana Karunagama said: “At HNB, we are committed to empowering our customers with innovative and affordable financing solutions. Our partnership with UNIMO further strengthens our ability to provide our mutual customers with unmatched benefits and incentives when purchasing vehicles. We hope many will make use of this unique opportunity to invest in a vehicle. “
+
+...
+
+[Data](articles/88fbfc69.json)
+
+---
+
+### The Women’s Movements of Sri Lanka: A public event by Everystory Sri Lanka
+
+*2024-07-01 00:34:00* · [`islandlk`](http://island.lk/the-womens-movements-of-sri-lanka-a-public-event-by-everystory-sri-lanka/) · `en`
+
+On Saturday, June 16th, 2024, at the Colombo Public Library, Everystory Sri Lanka hosted its first public event on the Women’s Movement of Sri Lanka. This unique trilingual event included public teach-outs, and a series of interactive learning opportunities on the topic facilitated through storytelling, sharing accessible resources, and creating spaces for dialogue. The event drew a crowd of over 300 eager to participate and learn.
+
+...
+
+[Data](articles/5bfabd24.json)
+
+---
+
 ### Former TNA leader R. Sampanthan passes away
 
 *2024-07-01 00:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100205/former-tna-leader-r-sampanthan-passes-away) · `en`
@@ -843,6 +995,26 @@ He passed away while receiving treatment at a private hospital in Colombo.
 [Data](articles/6984cc02.json)
 
 [Extended Data](ext_articles/6984cc02.ext.json)
+
+---
+
+### ඉන්ධන මිල ගැන හැමෝම බලාගෙන සිටි සුබ ආරංචිය මෙන්න
+
+*2024-06-30 23:40:18* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-ගැන-හැමෝම-බලාගෙන-සිටි-සුබ-ආරංචිය-මෙන්න/11-410534) · `si`
+
+පෙට්‍රල් සහ සුපිරි ඩීසල් මිල අද (30) මධ්‍යම රාත්‍රීයේ සිට පහළ දමන බවත් ලංකා සුදු ඩිසල් හා භූමිතෙල් මිල එසේම පවතින බවත් ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාව නිවේදනය කරයි.
+
+ඔක්ටේන් 92 පෙට්‍රල් ලීටරයක මිල රුපියල් 11 කින් පහළ දමා ඇති අතර නව මිල රුපියල් 344කි.
+
+ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක මිල රුපියල් 41 කින් පහළ දමා ඇති අතර නව මිල රුපියල් 379කි.
+
+සුපිරි ඩීසල් ලීටරයක මිල රුපියල් 22 කින් පහළ දමා ඇති අතර නව මිල රුපියල් 355කි.
+
+ලංකා දුසු ඩීසල් ලීටරයක මිල රුපියල් 317 ක් සහ භූමිතෙල් ලීටරයක මිල රුපියල් 202 ක් ලෙස තව දුරටත් පවතින බව ඛනංජ තෙල් සංස්ථාව වැඩි දුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/fbb0cfbc.json)
 
 ---
 
@@ -1999,189 +2171,5 @@ Customs officers are conducting further investigations to keep this air passenge
 [Data](articles/e224ab87.json)
 
 [Extended Data](ext_articles/e224ab87.ext.json)
-
----
-
-### Two of the necklaces on stolen motorcycle
-
-*2024-06-30 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198325) · `si`
-
-Two suspects arrested for stealing a Rs. 4 lakh motorcycle, including two gold necklaces and a Samurdhi Development Officer's pendant. They will be remanded until July 08th. The magistrate instructed the police to update on the investigation's progress.
-
-🟩
-
-Two suspects have been arrested by the motorcycle who had a motorcycle worth Rs. 4 lakhs from a young public official.
-
-The suspects were robbed a gold necklace and a peek of Samurdhi Development Officer.
-
-Galle Additional Magistrate's Additional Magistrate to be remanded till July 08. P. R. L. Ms. Vidanagamage ordered yesterday.
-
-The Magistrate also informed the police to investigate the progress of the suspects and submit its progress on the next case.
-
-◼️
-
-[Data](articles/9d9f71f9.json)
-
-[Extended Data](ext_articles/9d9f71f9.ext.json)
-
----
-
-### Two Navy arrested
-
-*2024-06-30 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198324) · `si`
-
-Two naval officers were arrested by the National Army, linked to large-scale drug trafficking, after a lengthy investigation by the Sri Lanka Navy Special Investigation Unit. They were part of the Navy intelligence. The suspects will be transferred to the Police Narcotics Bureau for legal proceedings.
-
-🟩
-
-Two naval officers have been arrested by the National Army Officers who were assisted and supported by a large scale drug trafficking.
-
-The arrest was made following a long internal investigation by the Sri Lanka Navy Special Investigation Unit.
-
-The two officers were attached to the Navy intelligence.
-
-The suspects will be handed over to the Police Narcotics Bureau for further legal matters.
-
-◼️
-
-[Data](articles/3e038967.json)
-
-[Extended Data](ext_articles/3e038967.ext.json)
-
----
-
-### Two navy intelligence personnel arrested over drug trafficking links
-
-*2024-06-30 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100197/two-navy-intelligence-personnel-arrested-over-drug-trafficking-links) · `en`
-
-Two Sri Lanka Navy personnel attached to the Intelligence Unit have been arrested by the SL Navy Special Investigation Unit over their alleged involvement in a large-scale drug smuggling racket.
-
-The two naval personnel from the Naval Intelligence were arrested today (30) following an extensive internal investigation by the Special Investigation Unit of the Sri Lanka Navy, a statement said.
-
-The two naval personnel, arrested on suspicion of aiding and abetting a large-scale drug smuggling racket, will be handed over to the Police Narcotic Bureau (PNB) for onward legal action, the navy said.
-
-◼️
-
-[Data](articles/37f29540.json)
-
-[Extended Data](ext_articles/37f29540.ext.json)
-
----
-
-### Sri Lanka coconut auction prices rise 10-pct over June
-
-*2024-06-30 14:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-rise-10-pct-over-june-170254/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s average coconut prices went up to 83,443 from 81,228 for 1,000 nuts at an auction on June 27, data from the Coconut Development Authority shows.
-
-Coconut auction prices rose 10 percent over June and are up 32 percent from the lows of 62,900 seen at the beginning of June.
-
-Coconut auction are near the historic highs seen in the first quarter of 2023.
-
-The highest price was 95,000 for 1000 nuts at the June 27 auction, up from 86,200 while the lowest was 77,000 up from 66,000 for 1000 nuts.
-
-A total of 337,179 coconuts were offered at the auction and 324,726 were sold.
-
-Wholesale prices were 95 to 110 rupees for large nuts and 85 to 90 rupees for small nuts in the week to June 20.
-
-Farmgate prices in Kurunegala were 75,000 – 80,000 per 1,000 nuts.
-
-Coconut shells were 30,000 – 31,000 rupees per metric ton. (Colombo/June30/2024)
-
-◼️
-
-[Data](articles/a37e41c6.json)
-
-[Extended Data](ext_articles/a37e41c6.ext.json)
-
----
-
-### Operational operation of Bureane in Ratmalana
-
-*2024-06-30 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198323) · `si`
-
-A suspect in Ratmalana was arrested for stealing gold items worth nearly Rs. The theft occurred over five days, with the suspect entering the house through a hidden key and stealing from a cupboard. Surveillance footage captured the suspect near the house. The suspect, aged 50, will face charges at the Mount Lavinia Magistrate's Court.
-
-🟩
-
-"Ratmalana" has been arrested in Ratmalana, who stored the gold items worth nearly Rs.
-
-Mount Lavinia Police said that the suspect was arrested in a period of five days.
-
-The suspect has been taken into custody with £ 11 1/2 runs with £ 11 1/2 heavy bodies.
-
-The eldest son was sleeping at home and left the house in front of the house when the woman and his husband had left the house on the 24th of last month.
-
-In the meantime, police investigations have revealed that the suspect had seen the hidden key and opened the front door and went into the house and stole the gold in the cupboard.
-
-The suspect was in front of the house and was moved in a CCTV camera that was mounted in front of the house.
-
-In question the suspect related to many aft, a stolen gold ring has been able to find a stolen gold ring in Ratmalana.
-
-The rest of the other items were found in the suspect's statements while the 50-year-old suspect, the 50-year-old suspect is to be produced before the Mount Lavinia Magistrate's Court.
-
-◼️
-
-[Data](articles/e2721b2b.json)
-
-[Extended Data](ext_articles/e2721b2b.ext.json)
-
----
-
-### Inheritance to Moneragala
-
-*2024-06-30 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198322) · `si`
-
-In a ceremony at the Mahinda Rajapaksa Conference Hall, President Ranil Wickremesinghe announced that the Divisional Secretariat Division in Moneragala, part of the heritage program, would receive significant resources for tank reconstruction.
-
-🟩
-
-Among the 41,960 Divisional Secretariat Divisions in the Moneragala district of the "heritage" National Program of the "Heritage" National Program of the "Heritage" National Program of the Moneragala District of the Maundaratne District.
-
-At a function held at the Mahinda Rajapaksa Conference Hall under the patronage of President Ranil Wickremesinghe.
-
-The President said that the highest amount of goods in the Divisional Secretariat Division will be provided for the reconstruction of the tanks of the Divisional Secretariat Division.
-
-◼️
-
-[Data](articles/930b98cd.json)
-
-[Extended Data](ext_articles/930b98cd.ext.json)
-
----
-
-### Chennai airport customs busts syndicate smuggling 267kg gold from Sri Lanka
-
-*2024-06-30 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100196/chennai-airport-customs-busts-syndicate-smuggling-267kg-gold-from-sri-lanka) · `en`
-
-In a dramatic turn of events, the Customs department at Chennai International Airport has successfully dismantled a smuggling syndicate involved in trafficking 267 kg of gold valued at INR 1,670 million from Sri Lanka over the past two months.
-
-The operation kicked off following a crucial intelligence tip-off, resulting in the arrest of a shop-owner and his staff, allegedly part of the criminal enterprise.
-
-According to Principal Commissioner R Srinivasa Naik, the investigation began when customs officials flagged a sales executive at the Airhub shop for suspicious behavior. Upon personal search, three bundles of gold concealed in his body were discovered, which he had reportedly received from a transit passenger.
-
-...
-
-[Data](articles/2b481dc8.json)
-
-[Extended Data](ext_articles/2b481dc8.ext.json)
-
----
-
-### Struggle in Kenya against taxation
-
-*2024-06-30 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/187299) · `ta`
-
-Kenya faces a tough battle against high taxes, which the president labels as a heroic resistance akin to treason.
-
-🟩
-
-The president was proud to describe the Kenyan people's struggle as it was a culmination of treason.
-
-◼️
-
-[Data](articles/db0449de.json)
-
-[Extended Data](ext_articles/db0449de.ext.json)
 
 ---

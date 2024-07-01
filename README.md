@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 14:06:54**
+As of **2024-07-01 14:19:26**
 
 ## Newspaper Stats
 
-*Scraped **33,086** Articles*
+*Scraped **33,090** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,54 +19,66 @@ adalk | 2,941
 adaderanalk | 3,771
 tamilmirrorlk | 3,914
 dailymirrorlk | 4,733
-virakesarilk | 5,153
+virakesarilk | 5,157
 adaderanasinhalalk | 5,467
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,083 (100.0%) of 33,086 articles have been extended.
+33,086 (100.0%) of 33,090 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### මැතිවරණයෙන් එමානුවෙල් මැක්‍රෝන්ට දැවැන්ත පසුබෑමක්
+### A massive recession for McCron in the election
 
 *2024-07-01 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198360) · `si`
 
-ප්‍රංශ මහා මැතිවරණයේ පෙරමුණ ගැනීමට මරීන් ලා පෙන්ගේ අන්ත දක්ෂිණාංශික පක්ෂය සමත්ව තිබේ.
+In the French general election, Murrows La Penn's Target Party won, while McCron's UPFA suffered a significant decline. Thousands protested in Paris against the right-wing victors, leading to clashes with authorities.
 
-එහිදී ජනාධිපති එමානුවෙල් මැක්‍රෝන්ගේ සන්ධාන පක්ෂය දැවැන්ත පසුබෑමක් ලබා තිබීම ද විශේෂත්වයකි.
+🟩
 
-මේ අතර දක්ෂිණාංශික පක්ෂය ලැබූ ජයග්‍රහණයට එරෙහිව දහස් සංඛ්‍යාත පිරිසක් පැරිස් අගනුවර වෙත රැස්ව සිටී.
+Murrows La Penn's Target Party has passed the French general election.
 
-ඔවුන් සහ කැරලි මර්දන නිලධාරීන් අතර ගැටුමක් ද හටගත්තේ තිබුණි.
+The UPFA, the UPFA, the UPFA party of the McCron party has taken a huge decline.
+
+Meanwhile, thousands of people gathered to the capital city of Paris against the victory of the right hostener party.
+
+A conflict between them and riot officials also occurred.
 
 ◼️
 
 [Data](articles/41d123fc.json)
 
+[Extended Data](ext_articles/41d123fc.ext.json)
+
 ---
 
-### ගුරු - විදුහල්පති වෘත්තීය සමිති සන්ධානයෙන් අනතුරු ඇඟවීමක්
+### Teacher-Principal alert from trade union alliance
 
 *2024-07-01 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198359) · `si`
 
-සිය ඉල්ලීම්වලට හැකි ඉක්මණින් ප්‍රතිචාර ලබාදෙන්නැයි ඉල්ලා ගුරු - විදුහල්පති වෘත්තිය සමිති සන්ධානය හෙට (02) පාසල් ඉදිරිපිට විරෝධතා පැවැත්වීමට සැලසුම් කර ඇති බව ලංකා ගුරු සංගමය පවසයි.
+The Teacher-Principal Trade Youth Alliance plans protests outside schools, aiming to merge the Guru Grade Ministry and address teacher salary anomalies. The Ceylon Teachers Union confirms post-school hour demonstrations, emphasizing regulatory actions for professional procedures.
 
-එළැඹෙන සිකුරාදා රාජ්‍ය අංශයේ සියලු වෘත්තිය සමිති රැස්කර, ගුරු විදුහල්පති සන්ධානය ලෙස ඒකාබද්ධ කිරීමට සූදානමින් සිටින බවත් ඔවුන් වැඩිදුරටත් අදහස් පළ කරමින් කියා සිටියේය.
+🟩
 
-ගුරු විදුහල්පති වැටුප් විෂමතාව ඉවත් කිරීම ඇතුළු ඉල්ලීම් කිහිපයක් මුල්කරගනිමින් ගුරු - විදුහල්පති වෘත්තිය සමිති සන්ධානය අද (01) පාසල් ඉදිරිපිට කළු කොඩි සහ බැනර් ප්‍රදර්ශනය කරමින් විරෝධතාවක නිරත වේ.
+The Teacher-Principal Trade Youth Alliance (SLPA) is planning to obtain protests in front of school tomorrow (02) as soon as possible.
 
-ලංකා ගුරු සංගමය සඳහන් කළේ, හෙට පාසල් වේලාවෙන් පසුව විරෝධතා පවත්වන බවය.
+They also gathered all the trade unions on Friday, and they are ready to merge the Guru Grade Ministry.
 
-‍ලංකා ගුරු සංගමයේ ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් අද පැවති මාධ්‍ය හමුවකට එක්වෙමින් සඳහන් කර සිටියේ, වෘත්තීය ක්‍රියාමාර්ග තිව්‍ර කිරීමට කටයුතු කරන බවත් දෙමාපියන් මෙම තත්ත්වය තේරුම් ගත යුතු බවත්ය.
+Teacher-Principal Vocational Vocational Regional Vocational Escillator, including the removal of the teacher's salary anomaly, is being protesting in front of schools today (01).
+
+The Ceylon Teachers Union said that the protests will be conducted after school hours.
+
+Addressing a media briefing held at a media briefing today, the General Secretary of the Ceylon Teachers Union stated that action will be taken to regulate the professional procedures.
 
 ◼️
 
 [Data](articles/edfd3192.json)
+
+[Extended Data](ext_articles/edfd3192.ext.json)
 
 ---
 
@@ -91,6 +103,60 @@ Police are currently searching for the suspect. The injured have been taken to t
 [Data](articles/27d68665.json)
 
 [Extended Data](ext_articles/27d68665.ext.json)
+
+---
+
+### சம்பந்தனின் மறைவுக்கு வட மாகாண ஆளுநர் இரங்கல்
+
+*2024-07-01 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/187384) · `ta`
+
+இலங்கை தமிழரசுக்கட்சியின் தலைவர் ஆர்.சம்பந்தனின் மறைவுக்கு வட மாகாண ஆளுநர் பி.எஸ்.எம்.சார்ள்ஸ் தனது இரங்கலைத்  தெரிவித்துள்ளார்.
+
+தமிழ்த் தேசியக் கூட்டமைப்பின் சிரேஷ்ட தலைவரும், பாராளுமன்ற உறுப்பினரும், இலங்கை ஜனநாயக சோசலிச குடியரசின் 14 ஆவது எதிர்க்கட்சித் தலைவரும், சிரேஷ்ட அரசியல்வாதியும், சட்டத்தரணியுமாகிய திருவாளர் இராஜவரோதயம் சம்பந்தனின் மறைவுச் செய்தி அறிந்து கவலை அடைகின்றேன்.
+
+சுமார் ஐந்து தசாப்த அரசியல் வரலாற்றில் மிக நீண்ட காலம் தமிழ் மக்களின் உரிமைக் குரலாக இலங்கை பாராளுமன்றத்தை பிரதிநிதித்துவம் செய்ததுடன், தமிழ் மக்களின் உரிமைக்காக சர்வதேச ரீதியிலும் செயற்பட்ட தலைவராக காலம் சென்ற இரா. சம்பந்தன் காணப்படுகின்றார்.
+
+இன ஐக்கியம், ஒருமைப்பாடு, நல்லிணக்கம் என்பவற்றின் அடிப்படையில் நாட்டு மக்களின் நன்மைக் கருதி அன்னார் செயற்பட்டார் என்றால் மிகையாகாது. இத்தகைய ஒரு பெரும் தலைவரின் இழப்பானது தமிழ் மக்களுக்கு அரசியல் ரீதியில் நிரப்ப முடியாத வெற்றிடத்தை ஏற்படுத்தியுள்ளது என்பதில் எவ்வித ஐயப்பாடும் இல்லை. அன்னாரின் மறைவானது இலங்கை வாழ் மக்களுக்கு பேரிழப்பாகும்.
+
+...
+
+[Data](articles/a936c27d.json)
+
+---
+
+### சம்பந்தனின் மறைவுக்கு தமிழக முதல்வர் இரங்கல்!
+
+*2024-07-01 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187380) · `ta`
+
+இலங்கைத் தமிழரசுக்கட்சியின் சிரேஷ்ட தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இராஜவரோதயம் சம்பந்தனின் மறைவிற்கு தமிழக முதல்வர் மு.க.ஸ்டாலின் இரங்கல் தெரிவித்துள்ளார்.
+
+இலங்கை தமிழர்களின் முதுபெரும் அரசியல் தலைவர் தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவர் இரா. சம்பந்தன் ஐயா அவர்கள் மறைந்த செய்தியறிந்து வேதனை அடைந்தேன். திரு. சம்பந்தன் அவர்களை இழந்து தவிக்கும் அவரது அமைப்பினருக்கு இலங்கைத் தமிழ் உறவுகளுக்கும் தமிழ்நாட்டு மக்களின் சார்பாக எனது ஆழ்ந்த இரங்கல் என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/4159fc5a.json)
+
+---
+
+### இலங்கை அரசியலில் சம்பந்தன் எனும் ஆளுமை !
+
+*2024-07-01 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/187374) · `ta`
+
+இலங்கைத் தமிழரசுக்கட்சியின் சிரேஷ்ட தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இராஜவரோதயம் சம்பந்தன் தனது 91 ஆவது வயதில் காலமானார்.
+
+உடல்நலம் பாதிக்கப்பட்ட நிலையில் கொழும்பில் உள்ள தனியார் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்றுவந்த நிலையில், அவர் 30 ஆம் திகதி ஞாயிற்றுக்கிழமை உயிரிழந்ததாக குடும்பத்தினர் உறுதிப்படுத்தினர்.
+
+1933ஆம் ஆண்டு பெப்ரவரி மாதம் 5 ஆம் திகதி பிறந்த சம்பந்தன் இயற்கை எய்தும் போது  அவருக்கு 91வயதாகும்.
+
+1956 ஆம் ஆண்டு இலங்கை தமிழ் அரசுக் கட்சியில் இணைந்தார். 1963 மற்றும் 1970 ஆம் ஆண்டுகளில் சம்பந்தனுக்கு தமிழரசு கட்சியின் தலைவர் எஸ்.ஜே. வி செல்வநாயகம் தேர்தலில் போட்டியிட வேட்பு மனு வழங்க முன்வந்தாலும் அவர் அதனை ஏற்கவில்லை.
+
+1977 ஆம் ஆண்டு பாராளுமன்ற தேர்தலில் தமிழர் விடுதலைக் கூட்டணியின் சார்பில் திருகோணமலைத் தொகுதியில் போட்டியிட்டு வெற்றி பெற்று பாராளுமன்ற உறுப்பினர் ஆனார்
+
+1983ஆம் ஆண்டு நடுப்பகுதியில் தமிழர் விடுதலைக் கூட்டணியின் பாராளுமன்ற உறுப்பினர்கள் அனைவரும் பாராளுமன்றத்தைப் புறக்கணித்தனர்.
+
+...
+
+[Data](articles/dad9c51f.json)
 
 ---
 
@@ -163,6 +229,26 @@ The National Transport Commission was speaking at a press conference to publish 
 [Data](articles/a48978ec.json)
 
 [Extended Data](ext_articles/a48978ec.ext.json)
+
+---
+
+### வெளிநாட்டு மாணவர்களிற்கான விசா கட்டணங்களை அதிகரித்தது அவுஸ்திரேலியா - புதிய கட்டுப்பாடுகளையும் வெளியிட்டது.
+
+*2024-07-01 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/187381) · `ta`
+
+அவுஸ்திரேலியாவிற்கு புலம்பெயர்பவர்கள் அதிகரித்துள்ளதால் வீடுகள் தொடர்பான வர்த்தகம் கடும் அழுத்தத்தை சந்தித்துள்ள நிலையில் புலம்பெயர்பவர்களின் எண்ணிக்கையை கட்டுப்படுத்தும் ஒரு முயற்சியாக அவுஸ்திரேலியா வெளிநாட்டு மாணவர்களிற்கான விசா கட்டணங்களை அதிகரித்துள்ளது.
+
+இன்று முதல்  வெளிநாட்டு மாணவர்களிற்கான விசா கட்டணங்கள் 710 அவுஸ்திரேலிய டொலர்களாக அதிகரிக்கப்பட்டுள்ளதாக அறிவிப்பு வெளியாகியுள்ளது.
+
+இதேவேளை விசிட்டர் விசாவை வைத்திருப்பவர்களும் தற்காலிக பட்டதாரி விசாக்களை வைத்திருப்பவர்களும் மாணவர் விசாவிற்கு விண்ணப்பிப்பதை அவுஸ்திரேலியா தடை செய்துள்ளது.
+
+இன்று நடைமுறைக்கு வரும் மாற்றங்கள் எங்களின் சர்வதேச கல்விமுறையின் ஒருமைப்பாட்டை மீட்டெடுக்க உதவும்  என தெரிவித்துள்ள அவுஸ்திரேலிய உள்துறை அமைச்சர் கிளார் ஓ நெய்ல் நியாயமான சிறிய சிறந்த குடியேற்ற முறையை உருவாக்க உதவும் எனவும் தெரிவித்துள்ளார்.
+
+மார்ச் மாதம் வெளியான புள்ளிவிபரங்கள் அவுஸ்திரேலியாவிற்கான குடிவரவு 60 வீதத்தினால் அதிகரித்துள்ளதை வெளிப்பபடுத்தியிருந்தன.
+
+...
+
+[Data](articles/5efcc756.json)
 
 ---
 
@@ -275,6 +361,26 @@ Piyumi Hansalay, a public modern manufacturer, has been paid to an investigation
 [Data](articles/cb2a70e6.json)
 
 [Extended Data](ext_articles/cb2a70e6.ext.json)
+
+---
+
+### Indian Prime Minister Modi condoles the demise of Sambandan
+
+*2024-07-01 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/187360) · `ta`
+
+Indian PM Modi mourns the passing of Sri Lankan Tamil leader Rajavarodayam Sambandan, expressing sympathy to his family and admiring his commitment to peace, security, and justice for Tamils in Sri Lanka.
+
+🟩
+
+Indian Prime Minister Narendi Modi has condoled the death of Senior Leader of the Sri Lankan Tamil party and Trincomalee district parliamentarian Rajavarodayam Sambandan.
+
+My deepest sympathies to the family and friends of R. Sampanthan, senior leader of the Tamil National Alliance. Happy memories of meetings with him are always admirable. He followed the life of peace, security, equality, justice and dignity for Tamils ​​living in Sri Lanka. This is a huge loss for his friends and his followers in Sri Lanka and India.
+
+◼️
+
+[Data](articles/6376d605.json)
+
+[Extended Data](ext_articles/6376d605.ext.json)
 
 ---
 
@@ -675,26 +781,6 @@ In a rational world, in any industry, the employer and the employee should arriv
 [Data](articles/f90ce7e6.json)
 
 [Extended Data](ext_articles/f90ce7e6.ext.json)
-
----
-
-### Indian Prime Minister Modi condoles the demise of Sambandan
-
-*2024-07-01 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/187360) · `ta`
-
-Indian PM Modi mourns the passing of Sri Lankan Tamil leader Rajavarodayam Sambandan, expressing sympathy to his family and admiring his commitment to peace, security, and justice for Tamils in Sri Lanka.
-
-🟩
-
-Indian Prime Minister Narendi Modi has condoled the death of Senior Leader of the Sri Lankan Tamil party and Trincomalee district parliamentarian Rajavarodayam Sambandan.
-
-My deepest sympathies to the family and friends of R. Sampanthan, senior leader of the Tamil National Alliance. Happy memories of meetings with him are always admirable. He followed the life of peace, security, equality, justice and dignity for Tamils ​​living in Sri Lanka. This is a huge loss for his friends and his followers in Sri Lanka and India.
-
-◼️
-
-[Data](articles/6376d605.json)
-
-[Extended Data](ext_articles/6376d605.ext.json)
 
 ---
 
@@ -1412,6 +1498,8 @@ Twelve years ago, ex-Foreign Secretary, H.M.G.S. Palihakkara, chairing the late 
 
 [Data](articles/9cf3fa24.json)
 
+[Extended Data](ext_articles/9cf3fa24.ext.json)
+
 ---
 
 ### Decisive discussion on the issues of Grama Niladhari
@@ -2097,99 +2185,5 @@ Clean Madi Maduskan Fernando has made his eyes, tongue, ear and hand.
 [Data](articles/59481858.json)
 
 [Extended Data](ext_articles/59481858.ext.json)
-
----
-
-### Two Days Special Session
-
-*2024-07-01 01:59:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-தினங்கள்-விசேட-அமர்வு/175-339674) · `ta`
-
-A special parliamentary session is scheduled for July 2-3 to discuss and implement proposals from the Foreign Loan Reform Agreement. The Committee for Parliamentary Affairs approved this session. President Ranil Wickremesinghe addressed Parliament on June 2, setting the stage for debates on foreign credit reconstruction agreements.
-
-🟩
-
-It has been decided to hold a special parliamentary session on July 2,3 to implement proposals for implementing the Foreign Loan Reform Agreement.
-
-The Committee for Parliamentary Affairs on Friday (21) has provided the recognition of the Special Parliamentary Session.
-
-President Ranil Wickremesinghe delivered a special speech on Tuesday (02) in Parliament and a debate on foreign credit reconstruction agreements will be held.
-
-◼️
-
-[Data](articles/1365c6fb.json)
-
-[Extended Data](ext_articles/1365c6fb.ext.json)
-
----
-
-### Four tabs?
-
-*2024-07-01 01:56:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நால்வர்-தாவுவர்/175-339673) · `ta`
-
-Two opposition members may back the government in parliament. Rajitha Senaratne and Sarath Fonseka plan to ally with it, supporting Ranil Wickremesinghe in the presidential election.
-
-🟩
-
-Reports have emerged that two of the four members of the opposition are ready to support the government while addressing the president's parliament on the 2nd.
-
-Meanwhile, Rajitha Senaratne and Field Marshal Sarath Fonseka are ready to form an alliance with the government and are ready to support Ranil Wickremesinghe in the upcoming presidential election.
-
-◼️
-
-[Data](articles/0413ff39.json)
-
-[Extended Data](ext_articles/0413ff39.ext.json)
-
----
-
-### 12 people join in two weeks
-
-*2024-07-01 01:52:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவாரங்களில்-12-பேர்-இணைவர்/175-339672) · `ta`
-
-Ranjith Mathumapandara announced that 12 MPs will join the United People's Power within two weeks, challenging the government's claim of MP defections. He also mentioned the possibility of postponing the presidential election with a two-thirds parliamentary vote, despite the current government's lack of such support.
-
-🟩
-
-United People's Power Secretary Ranjith Mathumapandara has said that 12 MPs will join them in the next two weeks.
-
-He told the media that the government has been saying for a year that MPs are coming to the government, but no one has joined the government.
-
-The president cannot postpone the presidential election. But the proposal can be put forward in Parliament, with a two -thirds majority, and the presidential election can be postponed.
-
-However, during the Bill of Parliament in the past, the government got 112 votes. This is not a two -thirds majority. The United People's Power will form a massive alliance with the Tamil and Muslim parties.
-
-For the past two years, many have been saying that many people from the United People's Power. However, that did not happen. However, in the next two weeks, 12 people will join us. He said that those who went from the United People's Power to the government.
-
-◼️
-
-[Data](articles/60a4c18a.json)
-
-[Extended Data](ext_articles/60a4c18a.ext.json)
-
----
-
-### Solitary candidate on the lotus bud
-
-*2024-07-01 01:46:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரை-மொட்டில்-தனி-வேட்பாளர்/175-339671) · `ta`
-
-Janaka Tissakuttiyarachchi, a Sri Lanka People's Front MP, predicts a suspension in the upcoming presidential election due to a separate candidate. He supports Kanchanala Shehan over Rohitha Abeygunawardena, criticizing the latter's lack of an economic policy and accusing him of laziness.
-
-🟩
-
-Sri Lanka People's Front Badulla District Parliamentarian Janaka Tissakuttiyarachchi said that a separate candidate would definitely be suspended in the upcoming presidential election.
-
-Tissa Kuttiyarachchi, who said that Ranil Wickremesinghe had brought to power to solve the problems at the time, said that Kanchanala Shehan would do the job even though Rohitha Abeygunawardena without Ranil Wickremesinghe.
-
-He said this while addressing the Sri Lankan PA's wideness at the constituency conference.
-
-He also noted that those who stopped the queue, two fifty -foods, reduced the price of a packet of milk, or killing one person.
-
-"When he tries to bring Namal, he says he is still lazy. I don't know where he is lazy," Tissa Kuttiyarachchi said, "There is no economic policy."
-
-◼️
-
-[Data](articles/55917ec4.json)
-
-[Extended Data](ext_articles/55917ec4.ext.json)
 
 ---

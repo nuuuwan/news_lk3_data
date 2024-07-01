@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 19:34:57**
+As of **2024-07-01 19:53:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,481
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,136 (100.0%) of 33,139 articles have been extended.
+33,139 (100.0%) of 33,139 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,19 +48,27 @@ Violence also flared on Monday in the Israeli occupied West Bank, where the Pale
 
 [Data](articles/9a9459b1.json)
 
+[Extended Data](ext_articles/9a9459b1.ext.json)
+
 ---
 
-### කාසියේ වාසිය කැන්ඩි කණ්ඩායමට
+### To the toss of coin candy group
 
 *2024-07-01 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198375) · `si`
 
-ලංකා ප්‍රිමියර් ලීග් 20යි 20 ක්‍රිකට් තරගාවලියේ පළමු තරගය පල්ලෙකැලේ ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී අද (01) පැවැත්වෙයි.
+In the inaugural Lanka Premier League match at Pallekele International Cricket Stadium, Candy Falcons, winning the toss, opted to field first.
 
-එහි කාසියේ වාසිය දිනාගැනීමට කැන්ඩි ෆැල්කන්ස් කණ්ඩායම සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දු රැකීමටය.
+🟩
+
+The first match of the Lanka Premier League will be held today at the Pallekele International Cricket Stadium today (01).
+
+Candy Falcons won the advantage of the coin, and they decided to bowl first.
 
 ◼️
 
 [Data](articles/18b09b29.json)
+
+[Extended Data](ext_articles/18b09b29.ext.json)
 
 ---
 

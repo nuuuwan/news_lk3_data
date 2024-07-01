@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 04:19:40**
+As of **2024-07-02 04:34:56**
 
 ## Newspaper Stats
 
-*Scraped **33,180** Articles*
+*Scraped **33,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 324
 newsfirstlk | 363
 islandlk | 1,846
 economynextcom | 1,940
-dailyftlk | 2,047
+dailyftlk | 2,054
 adalk | 2,952
 adaderanalk | 3,779
 tamilmirrorlk | 3,925
@@ -26,11 +26,129 @@ adaderanasinhalalk | 5,487
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,180 (100.0%) of 33,180 articles have been extended.
+33,180 (100.0%) of 33,187 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### Aragalaya activists raise election postponement conspiracy concerns with ECSL
+
+*2024-07-02 02:27:14* · [`dailyftlk`](https://www.ft.lk/news/Aragalaya-activists-raise-election-postponement-conspiracy-concerns-with-ECSL/56-763751) · `en`
+
+People’s Struggle Alliance’s Wasantha Mudalige accuses President Ranil Wickremesinghe of engaging in discussions to prolong his tenure in power through potential election delays
+
+Stresses Wickremesinghe nor SLPP has a mandate to unilaterally decide on election schedules
+
+Seeks assurance from ECSL on its preparedness to conduct elections in accordance with constitutional mandates
+
+Reaffirms commitment to defending democratic processes to safeguard SL’s electoral system against any threats
+
+Members of the People’s Struggle Alliance (PSA) yesterday held a discussion with the Election Commission of Sri Lanka (ECSL) to address growing apprehensions regarding potential efforts by the Government to postpone upcoming elections.
+
+...
+
+[Data](articles/509bf10b.json)
+
+---
+
+### Divorce between two UK  nationals recognised in Sri Lanka
+
+*2024-07-02 02:25:03* · [`dailyftlk`](https://www.ft.lk/news/Divorce-between-two-UK-nationals-recognised-in-Sri-Lanka/56-763750) · `en`
+
+An applicant preferred an application to the District Court of Colombo on the basis that a mutual divorce application had been preferred to the Family Courts in UK, where parties had voluntarily moved for the annulment of their marriage which had been entered in Sri Lanka.
+
+The Family Court in United Kingdom, the competent Court with jurisdiction to hear and determine matrimonial disputes had made the Final Order terminating the marriage entered in Sri Lanka.
+
+...
+
+[Data](articles/f8abad23.json)
+
+---
+
+### Shanmugam Kugathasan to replace R. Sampanthan in Parliament
+
+*2024-07-02 02:24:25* · [`dailyftlk`](https://www.ft.lk/news/Shanmugam-Kugathasan-to-replace-R-Sampanthan-in-Parliament/56-763749) · `en`
+
+Trincomalee district politician Kathiravelu Shanmugam Kugathasan is set to replace the late R. Sampanthan in Parliament.
+
+Kugathasan, who contested under the Tamil National Alliance (TNA) ticket, received 16,770 preferential votes in the last Parliamentary election, making him the first in line among the list of non-elected candidates.
+
+Kugathasan currently serves as the General Secretary of the Illankai Tamil Arasu Kachchi (ITAK). He was also a former Coordinator for Eastern Province Development Affairs under the National Policies, Economic Affairs and Resettlement Ministry.
+
+Kugathasan is also the Trincomalee District Welfare Association (TDWA) President. The TDWA is a non-profit organisation that aims to empower the people of Trincomalee and improve their socio-economic development.
+
+...
+
+[Data](articles/638ed785.json)
+
+---
+
+### Condolences pour in following demise of veteran Tamil leader R. Sampanthan
+
+*2024-07-02 02:22:32* · [`dailyftlk`](https://www.ft.lk/news/Condolences-pour-in-following-demise-of-veteran-Tamil-leader-R-Sampanthan/56-763748) · `en`
+
+Tamil National Alliance (TNA), veteran Tamil politician and former leader Rajavarothiam Sampanthan, passed away in the early hours of yesterday at the age of 91.
+
+Sampanthan who was born on 5 February 1933 was a lawyer by profession. He first entered Parliament in 1977 representing the Trincomalee district.
+
+The veteran politician was also the 14th opposition leader in the Sri Lanka Parliament and the second Tamil opposition leader in the country’s history. He was also the oldest serving Parliamentarian at the time of his demise. TNA MP M.A. Sumanthiran in a press release said information relating to the final rites of the MP will be informed in due course.
+
+Messages of condolence have also been pouring in from both local and international figures following the passing of R. Sampanthan.
+
+...
+
+[Data](articles/2804f9fd.json)
+
+---
+
+### New Acting Attorney General takes oath
+
+*2024-07-02 02:20:26* · [`dailyftlk`](https://www.ft.lk/news/New-Acting-Attorney-General-takes-oath/56-763747) · `en`
+
+Senior Additional Solicitor General Parinda Ranasinghe yesterday took oaths as the Acting Attorney General before the Chief Justice.
+
+The Acting Attorney General was appointed after the proposal to extend incumbent Attorney General Sanjay Rajaratnam’s term by another six months was defeated last week for the second time at the Constitutional Council meeting.
+
+The proposal, which was submitted by President Ranil Wickremesinghe, was defeated with five votes against it while three members voted in favour.
+
+Rajaratnam’s current term is set to expire at the end of this month and the President had proposed an extension for an additional six months. However, the proposal requires the approval of the Constitutional Council, which twice defeated it.
+
+◼️
+
+[Data](articles/83c816c5.json)
+
+---
+
+### Solar-ocean based Hydrogen fuel production venture to commence soon
+
+*2024-07-02 02:18:47* · [`dailyftlk`](https://www.ft.lk/business/Solar-ocean-based-Hydrogen-fuel-production-venture-to-commence-soon/34-763746) · `en`
+
+Ceylon Italy Blue Economy Association President Vittorio Coco (centre) with Confederation of MSME Industries President Nawaz Rajabdeen (right) and SAARC Chamber of Commerce and Industry Federation of Chambers of Commerce and Industry of Sri Lanka Past President Macky Hashim
+
+Sri Lanka-Italy join venture in the offing; feasibility study to cost $ 3 m
+
+Discussions between Ceylon Italy Blue Economy Association President Vittorio Coco and Confederation of MSME Industries President Nawaz Rajabdeen
+
+...
+
+[Data](articles/0eb7eccb.json)
+
+---
+
+### Colombo Dockyard makes history with three milestones in one day
+
+*2024-07-02 02:17:08* · [`dailyftlk`](https://www.ft.lk/business/Colombo-Dockyard-makes-history-with-three-milestones-in-one-day/34-763745) · `en`
+
+Colombo Dockyard PLC (CDPLC) made history on 28 June by achieving three important milestones in shipbuilding on the same day, in the construction of 5000DWT Eco Bulk Carriers for Misje Eco Bulk AS Norway.
+
+On this historic day, CDPLC laid the keel marking the commencement of construction of the 8th vessel, launched the 6th vessel, and delivered the 5th vessel of the Eco Bulk series, demonstrating its resilience and commitment to excellence despite economic and market challenges. The keel laying ceremony of the 8th vessel “Misje Lily” (Yard No. NC0260), launching of the 6th vessel “Misje Lotus” (Yard No. NC0255), and delivery of the 5th vessel “Misje Rose” (Yard No. NC0254) were celebrated in the presence of Owner Roald Misje, CFO Alina Printseva, Site Manager Thusitha Herath, and Site Superintendents Venura Wanasinghe and Prince Dharmaranjan.
+
+...
+
+[Data](articles/4ab44527.json)
+
+---
 
 ### EDB conducts seminar on ‘Smart Solutions for Agricultural and Aquacultural Exports’
 
@@ -2229,163 +2347,5 @@ Senator Fatima Payman of the Labor Party has stated that he has been deported fr
 [Data](articles/5efcc756.json)
 
 [Extended Data](ext_articles/5efcc756.ext.json)
-
----
-
-### A cynical cynical named who were killed in six years to be prised
-
-*2024-07-01 12:59:21* · [`adalk`](https://www.ada.lk/breaking_news/වසර-10ක්-සිරබත්-කා-නිදහස්-වීමට-ඇපදුන්-නැගණියගේ-දුව-දූෂණය-කලැයි-කියන-නරුමයෙක්/11-410542) · `si`
-
-A suspect, arrested by Nortonbridge Police, allegedly assaulted a 13-year-old girl from the same area. The man, identified as a businessman, was detained for questioning. The victim, a student, was hospitalized. The case is pending further investigation at the Hatton Magistrate's Court.
-
-🟩
-
-The Northern Bridge has been arrested by the Northern Bridge Police (30) after a 13 year old schoolgirl residing in the Nortonbridge.
-
-The suspect was arrested by the Nortonbridge Police, who was arrested as a businessman in Mawanella and produced the suspect for 10 years due to a nine-year-old school girl.The Chief Inspector Kapila Wijeratne said that the suspect released was a suspect.
-
-The suspect was arrested by the police on the occasion and the sister's daughter to the mother of the girl and had been arrested by the mother of Hatton Magistrate's Court on the morning of the 30th.
-
-The school girl who is being raped has been admitted to the Deyhya Basic Hospital.
-
-The suspected suspect was a resident of Nutronbridge, a resident of Nonbridge and the suspect will be produced before the Hatton Magistrate's Court.
-
-Northern Bureau's Women's Bureau's Women's Bureau's Women's Bureau's Women's Bureau in charge of the Nortenbridge Police (SLTB) has arrest the suspect. (I J)
-
-◼️
-
-[Data](articles/d655558d.json)
-
-[Extended Data](ext_articles/d655558d.ext.json)
-
----
-
-### Appeal from Hirunika
-
-*2024-07-01 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198356) · `si`
-
-Hirunika Premachandra, a former MP, has filed an appeal to be released from her three-year prison sentence. The petition, submitted to the Colombo High Court, seeks direction to the Court of Appeal. She requests bail, emphasizing the urgency of the matter before Judge Amal Ranaraja by April 4th.
-
-🟩
-
-Former MP Hirunika Premachandra has appealed to him to acquire and release him in jail for three years.
-
-The petition has been handed over to the Colombo High Court to direct this petition to the Court of Appeal.
-
-Hirunika Premachandra has requested him to be released on bail due to the bail of appealing to him.
-
-The request is due to be considered before the 4th of the Colombo High Court Judge Amal Ranaraja.
-
-◼️
-
-[Data](articles/2627f469.json)
-
-[Extended Data](ext_articles/2627f469.ext.json)
-
----
-
-### Hirunika submits appeal over prison sentence; seeks bail until consideration
-
-*2024-07-01 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100216/hirunika-submits-appeal-over-prison-sentence-seeks-bail-until-consideration) · `en`
-
-Former Member of Parliament Hirunika Premachandra has filed an appeal requesting to invalidate the recent verdict issued by the Colombo High Court sentencing her to three years rigorous imprisonment and seeking her acquittal from the case.
-
-The relevant appeal has been handed over to the Colombo High Court to forward it to the Court of Appeal, Ada Derana reporter said.
-
-Accordingly, Premachandra’s lawyers have also filed a bail application before the Colombo High Court requesting to release her on bail, since an appeal has been filed against the relevant verdict.
-
-The bail application has been fixed for consideration before the Colombo High Court judge Amal Ranaraja on July 04, 2024, according to Ada Derana reporter.
-
-The former SJB parliamentarian was sentenced after being found guilty of being involved in the abduction of a youth in the Dematagoda area on December 21, 2015 using a Defender and his wrongful detention.
-
-...
-
-[Data](articles/553173e8.json)
-
-[Extended Data](ext_articles/553173e8.ext.json)
-
----
-
-### He was conducting a serious fisherman in Hambantota at the Hambantota General Hospital
-
-*2024-07-01 12:52:30* · [`adalk`](https://www.ada.lk/breaking_news/බහුදින-ධීවර-යාත්‍රාවේ-අසාධ්‍ය--සිටි-ධීවරයා--හම්බන්තොට-මහ-රෝහලට/11-410541) · `si`
-
-A fisherman named Devo 5 was seriously injured and hospitalized in Hambantota after an incident involving the Colombo Marine Search and Rescue Coordination. Two other critically injured fishermen were transferred to the Sri Lanka Navy's Vijayabahu Ship for further assistance.
-
-🟩
-
-The 'Devo 5 "Fisherman was taken to the Hambantota General Hospital for treatment.
-
-Two fishermen who were in critical fishermen who were in critical fishermen from the Colombo Marine Search and Rescue Coordination of the Colombo Marine Search and Rescue Coordination."The Navy Headquarters said that the ship was killed in the ship.
-
-The other fishermen in critical condition have been handed over to the Sri Lanka Navy Vijayabahu Ship, Vijayabahu ship (about 31 km) at the Vijayabahu Sandali yesterday.
-
-◼️
-
-[Data](articles/1f9ef3fd.json)
-
-[Extended Data](ext_articles/1f9ef3fd.ext.json)
-
----
-
-### Trump-Biden Debate Saga: Vital Lessons On The Burden Of Gerontocracy!
-
-*2024-07-01 12:44:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/trump-biden-debate-saga-vital-lessons-on-the-burden-of-gerontocracy/) · `en`
-
-The world surely would have felt awkward, watching the recent Trump and Biden showdown on TV. Behind the scenes at the first debate between Joe Biden and Donald Trump, the buzzy atmosphere of the spin room descended into horror-struck silence within a first few minutes of Biden opening his mouth. Watching the exchanges between them, the debate looked akin to participating in elder abuse, pestering old men with incessant questions as if to deny them the dignity of their dotage. Biden from the moment he shuffled onstage and muttered his first answer in a hushed and wheezing monotone, made it clear that he will be too old for the job whether now, and surely for another four-year term.
-
-...
-
-[Data](articles/4aceb14b.json)
-
-[Extended Data](ext_articles/4aceb14b.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-07-01 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/187377) · `ta`
-
-On July 1st, the US dollar was valued at Rs 301.3772 for purchase and Rs 310.6444 for sale according to the Central Bank's rates.
-
-🟩
-
-The US dollar purchasing price was Rs 301.3772 and the sales price were 310.6444 based on the Central Bank's currency exchange rate on Monday (July 01).
-
-◼️
-
-[Data](articles/e0858b2a.json)
-
-[Extended Data](ext_articles/e0858b2a.ext.json)
-
----
-
-### Police shot dead 13 -year -old boy
-
-*2024-07-01 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187375) · `ta`
-
-In a tragic incident, US police shot and killed a 13-year-old boy wielding a toy gun in Utica, Manhattan. A video of the event, which has sparked outrage, shows the boy being pursued and shot by officers. It was later confirmed the weapon was fake. This incident has led to protests and calls for accountability.
-
-🟩
-
-A shocking video has been revealed by US police shooting a 13 -year -old boy who used a game gun.
-
-A video of New York police shooting a 13 -year -old boy who shown a game gun has shocked Americans.
-
-The incident took place following the police in Utika city from Manhatan to the police in connection with the robbery of two youths in connection with the robbery.
-
-A police officer has reported that they have to sit down to ensure that they have no weapons, and the boy named Nyamuwe flew away from the police.
-
-During the protest to arrest the boy, a police officer was shot dead.
-
-At first it was a handgun, and it was confirmed that it was then confirmed as a fake.
-
-A video recorded by a person found in the area where the incident took place on social media. The video shows the video that a police officer chased the boy and hit the ground, a police officer attacked him and the sound of a gun that was falling into the land.
-
-◼️
-
-[Data](articles/933f706e.json)
-
-[Extended Data](ext_articles/933f706e.ext.json)
 
 ---

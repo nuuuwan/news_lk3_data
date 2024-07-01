@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 17:55:48**
+As of **2024-07-01 18:15:04**
 
 ## Newspaper Stats
 
-*Scraped **33,123** Articles*
+*Scraped **33,125** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adaderanalk | 3,775
 tamilmirrorlk | 3,919
 dailymirrorlk | 4,733
 virakesarilk | 5,167
-adaderanasinhalalk | 5,476
+adaderanasinhalalk | 5,478
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,123 (100.0%) of 33,123 articles have been extended.
+33,123 (100.0%) of 33,125 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
+
+### කෙහෙළියගේ ඇප ඉල්ලීම පිළිබඳ පෙත්සම සලකාබලයි
+
+*2024-07-01 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198372) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ඉදිරිපත් කළ රිට් පෙත්සමේ වැඩිදුර කරුණු සලකා බැලීම හෙට (02) දින තෙක් කල් තැබුණි.
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් තමන්ව නඩු විභාගය අවසන් වනතුරු රක්ෂිත බන්ධනාගාරගත කිරීමට මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසින් දී ඇති නියෝගය බලරහිත කිරීමේ තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා මෙම රිට් පෙත්සම ගොනු කර තිබේ.
+
+මෙම පෙත්සම අද (01) අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන විනිසුරු මඩුල්ල ඉදිරියේ සලකා බැලුණි.
+
+වැඩිදුරටත් කරුණු දැක්වූ නියෝජ්‍ය සොලිසිටර් ජනරාල්වරයා මතභේදයට තුඩුදී තිබෙන අදාළ ප්‍රතිදේහ එන්නත් ප්‍රමාණවත් තොග සෞඛ්‍ය අමාත්‍යාංශය සන්තකයේ තිබියදී එම ඖෂධවල හිඟයක් පවතින බවට නොමග යවන ආකාරයේ තොරතුරු හිටපු සෞඛ්‍ය අමාත්‍යවරයා විසින් අමාත්‍ය මණ්ඩලයට ඉදිරිපත් කර තිබෙන බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/d6bc8685.json)
+
+---
+
+### බීමත් පුද්ගලයෙක් පාරේ කළ දේ
+
+*2024-07-01 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198371) · `si`
+
+කඩුවක් රැගෙන මාර්ගයට පැමිණි පුද්ගලයෙකු මහමඟ ගමන් ගන්නා පුද්ගලයන්ට පහරදීමේ සිද්ධියක් තලංගම ප්‍රදේශයෙන් වාර්තා විය.
+
+තලංගම ප්‍රදේශයේ ඩෙන්සිල් කොබ්බෑකඩුව මාවතේ ඊයේ රාත්‍රියේ මෙම සිද්ධිය ඇතිවී තිබුණි.
+
+අදාළ පුද්ගලයා බීමතින් සිට ඇති අතර ඔහු සිදුකළ ප්‍රහාරවලින් වාහන 4කට සහ පළාත් සභා ගොඩනැගිල්ලට හානි සිදුවී ඇත.
+
+◼️
+
+[Data](articles/8ce6d29f.json)
+
+---
 
 ### President Mahinda Rajapaksa tomorrow
 
@@ -2353,41 +2387,5 @@ The Missing Mount Lavinia has conducted further investigations.
 [Data](articles/3a380141.json)
 
 [Extended Data](ext_articles/3a380141.ext.json)
-
----
-
-### Sri Lanka’s Rule Of Men Should End To Give Way For Rule Of (Fair) Law
-
-*2024-07-01 07:51:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-rule-of-men-should-end-to-give-way-for-rule-of-fair-law/) · `en`
-
-Twelve years ago, ex-Foreign Secretary, H.M.G.S. Palihakkara, chairing the late H.L. de Silva memorial events in Colombo opined that what was prevailing in Sri Lanka was not the cherished Rule of Law but a system that could be branded as the Rule of Men in power. I analysed his bold contention and interested readers can access it here.
-
-...
-
-[Data](articles/9cf3fa24.json)
-
-[Extended Data](ext_articles/9cf3fa24.ext.json)
-
----
-
-### Decisive discussion on the issues of Grama Niladhari
-
-*2024-07-01 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198343) · `si`
-
-The GS Association plans a crucial meeting to address grievances such as the need for a service minister. The National Organizer, Sumith Kodara, mentions a scheduled discussion with Sagala Ratnayake, the Presidential Chief of Staff. If no satisfactory solutions are found, the association threatens ongoing strikes.
-
-🟩
-
-The Government Grama Niladhari Association (GS) Association says that a significant discussion is to be held regarding the demands including a service minister.
-
-The National Organizer of the National Organizer Sumith Kodara said that the Presidential Chief of Staff is to be held with Sagala Ratnayake.
-
-However, the discussion will come to a continuous strike action, if he does not have a fair solution to his problems.
-
-◼️
-
-[Data](articles/53a5450f.json)
-
-[Extended Data](ext_articles/53a5450f.ext.json)
 
 ---

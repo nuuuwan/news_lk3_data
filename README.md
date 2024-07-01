@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 13:19:26**
+As of **2024-07-01 13:35:09**
 
 ## Newspaper Stats
 
-*Scraped **33,078** Articles*
+*Scraped **33,081** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,97 @@ islandlk | 1,846
 economynextcom | 1,934
 dailyftlk | 2,036
 adalk | 2,940
-adaderanalk | 3,770
+adaderanalk | 3,771
 tamilmirrorlk | 3,913
 dailymirrorlk | 4,733
 virakesarilk | 5,153
-adaderanasinhalalk | 5,463
+adaderanasinhalalk | 5,465
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,076 (100.0%) of 33,078 articles have been extended.
+33,078 (100.0%) of 33,081 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### හිරුණිකාගෙන් අභියාචනයක්
+### අභාවප්‍රාප්ත සම්පන්දන්ගේ දේහය බොරැල්ලට
+
+*2024-07-01 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198358) · `si`
+
+අභාවප්‍රාප්ත හිටපු විපක්ෂ නායකවරයෙකු මෙන්ම දෙමළ ජාතික සන්ධානයේ නායක පාර්ලිමේන්තු මන්ත්‍රී ආර්. සම්පන්දන් මහතාගේ දේහය බොරැල්ලේ පිහිටි පෞද්ගලික මල්ශාලාවක් වෙත අද (01) උදෑසන රැගෙන ගියේය.
+
+කලක් රෝගාතුරව සිටි ඒ මහතා කොළඹ පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටියදී ඊයේ (30) රාත්‍රියේ අභාවප්‍රාප්ත විය.
+
+1933 පෙබරවාරි මස 05 වැනිදා උපත ලද රාජවරෝදියම් සම්පන්දන් මහතාව කවුරුත් හඳුනාගෙන සිටියේ ආර්. සම්පන්දන් ලෙසය.
+
+යාපනය ශාන්ත පැට්‍රික් විද්‍යාලයෙන් මූලික අධ්‍යාපනය හැදෑරූ ඔහු තවත් පාසල් කිහිපයකින්ම අධ්‍යාපනය හදාරා තිබුණි.
+
+වෘත්තියෙන් නීතීඥවරයකු වූ ඒ මහතා දෙමළ එක්සත් විමුක්ති පෙරමුණ නියෝජනය කරමින් 1977 වසරේ පැවති මහ මැතිවරණයෙන් ත්‍රිකුණාමලය දිස්ත්‍රික්කය නියෝජනය කරමින් පළමුවරට පාර්ලිමේන්තු වරම් දිනාගත්තේය.
+
+ඒ අනුව 1977 සිට 1983 දක්වාත් , 1997 සිට 2000 දක්වාත් , 2001 සිට මියෙනතුරුත් ඔහු පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස කටයුතු කළේය.
+
+යහපාලන ආණ්ඩුව පැවති සමයේ වසර 3ක කාලයක් ආර්. සම්පන්දන් මහතා මෙරට පාර්ලිමේන්තුවේ 14 වැනි විපක්ෂ නායකවරයා ලෙසද පත්ව සිටියේය.
+
+...
+
+[Data](articles/fc10e8a7.json)
+
+---
+
+### Bus fares reduced
+
+*2024-07-01 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100217/bus-fares-reduced) · `en`
+
+The bus fares will be reduced by 5.07 percent with effect from midnight today (July 01), the National Transport Commission (NTC) says.
+
+The NTC communicated this to the public in a special media briefing held this afternoon.
+
+◼️
+
+[Data](articles/ae6c5c10.json)
+
+---
+
+### අද මධ්‍යම රාත්‍රියේ සිට බස් ගාස්තු පහළට
+
+*2024-07-01 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198357) · `si`
+
+අද (01) මධ්‍යම රාත්‍රියේ සිට සැලසුම් කළ ආකාරයෙන් 5.07%කින් බස් ගාස්තු පහළ දැමීමට ජාතික ගමනාගමන මණ්ඩලය තීරණය කර තිබේ.
+
+ඒ අනුව අවම බස් ගාස්තුව රුපියල් දෙකකින් පහළ යන අතර එහි නව මිල රුපියල් 28කි.
+
+ජාතික බස් ගාස්තු ප්‍රතිපත්තිය අනුව බස් ගාස්තු සංශෝධනය සිදුවන ආකාරය ප්‍රකාශයට පත් කිරීම සඳහා ජාතික ගමනාගමන කොමිසම ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් එහි සභාපති ශෂී වෙල්ගම මහතා මේ බව පැවසීය.
+
+◼️
+
+[Data](articles/a48978ec.json)
+
+---
+
+### Appeal from Hirunika
 
 *2024-07-01 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198356) · `si`
 
-තමන්ට නියම වී ඇති වසර තුනක සිරදඬුවමින් තමන්ව නිදොස් කොට නිදහස් කරන ලෙස ඉල්ලා හිටපු පාර්ලිමේන්තු මන්ත්‍රීනි හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය විසින් අභියාචනයක් ඉදිරිපත් කර තිබේ.
+Hirunika Premachandra, a former MP, has filed an appeal to be released from her three-year prison sentence. The petition, submitted to the Colombo High Court, seeks direction to the Court of Appeal. She requests bail, emphasizing the urgency of the matter before Judge Amal Ranaraja by April 4th.
 
-මෙම පෙත්සම අභියාචනාධිකරණය වෙත යොමු කිරීම සඳහා කොළඹ මහාධිකරණයට භාරදී ඇති බව අප අධිකරණ වාර්තාකරු සඳහන් කළේය.
+🟩
 
-තමන්ට ලබාදුන් තීන්දුවට එරෙහිව අභියාචනයක් ඉදිරිපත් කර ඇති නිසා තමන්ව ඇප මත මුදාහරින ලෙසත් හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය විසින් කොළඹ මහාධිකරණය හමුවේ ඉල්ලීමක් කර තිබේ.
+Former MP Hirunika Premachandra has appealed to him to acquire and release him in jail for three years.
 
-අදාළ ඉල්ලීම ලබන 4 වනදා කොළඹ මහාධිකරණ විනිසුරු අමල් රණරාජා මහතා ඉදිරියේ සලකා බැලීමට නියමිතය.
+The petition has been handed over to the Colombo High Court to direct this petition to the Court of Appeal.
+
+Hirunika Premachandra has requested him to be released on bail due to the bail of appealing to him.
+
+The request is due to be considered before the 4th of the Colombo High Court Judge Amal Ranaraja.
 
 ◼️
 
 [Data](articles/2627f469.json)
+
+[Extended Data](ext_articles/2627f469.ext.json)
 
 ---
 
@@ -67,6 +127,8 @@ The former SJB parliamentarian was sentenced after being found guilty of being i
 ...
 
 [Data](articles/553173e8.json)
+
+[Extended Data](ext_articles/553173e8.ext.json)
 
 ---
 
@@ -2131,63 +2193,5 @@ In line with the company’s focus and commitment to infuse in the general publi
 [Data](articles/26ef237e.json)
 
 [Extended Data](ext_articles/26ef237e.ext.json)
-
----
-
-### Asian Paints Causeway brings new life to Sangattikulama Sinhala Junior School
-
-*2024-07-01 00:57:00* · [`islandlk`](http://island.lk/asian-paints-causeway-brings-new-life-to-sangattikulama-sinhala-junior-school/) · `en`
-
-With a heartfelt commitment to making a meaningful contribution to the community, Asian Paints Causeway has extended a helping hand to Sangattikulama Sinhala Junior School by completely renovating and painting the entire school, turning it into a dream location for its students.
-
-Anamaduwa Sangattikulama Sinhala Junior School serves as a cherished second home for numerous students from over 10 surrounding villages, most of whom come from underprivileged households. With a dedicated team of 13 teachers, the school provides a nurturing environment where the students’ dreams of a bright future take root.
-
-As the school approaches its 100th anniversary, it was in dire need of refurbishment, lacking even a name board. Asian Paints Causeway takes great pride in setting up a name board for the school and transforming it into a pleasant learning environment for the students by color washing the entire school for the first time in its 100 ears of history.
-
-...
-
-[Data](articles/db1749d3.json)
-
-[Extended Data](ext_articles/db1749d3.ext.json)
-
----
-
-### Young Sri Lankan journalists embark on journey in entrepreneurship
-
-*2024-07-01 00:51:00* · [`islandlk`](http://island.lk/young-sri-lankan-journalists-embark-on-journey-in-entrepreneurship/) · `en`
-
-Thirty (30) dynamic Sri Lankan journalists launched their journey into the exciting world of entrepreneurship, at a workshop on entrepreneurship for young journalists conducted on 13 and 14 June, 2024, at NH Collection Hotel, Colombo.
-
-The young journalists represented print, electronic and digital media. Some were influencers who owned their own media platforms. They had been selected out of a competitive application process. They were the lucky ones amongst the 212 young journalists who had applied.
-
-The program was presented by the International Labor organization, ILO and the Ceylon Chamber of Commerce, CCC, in collaboration with the Rainbow Institute of Communication.
-
-...
-
-[Data](articles/8f1d698e.json)
-
-[Extended Data](ext_articles/8f1d698e.ext.json)
-
----
-
-### Pan Asia Bank unveils State-of-the-Art Digital Zone in Gampaha
-
-*2024-07-01 00:37:00* · [`islandlk`](http://island.lk/pan-asia-bank-unveils-state-of-the-art-digital-zone-in-gampaha/) · `en`
-
-Pan Asia Bank, The Truly Sri Lankan Bank, is proud to announce the opening of its cutting-edge Digital Zone at the Gampaha branch, located at No 15, Rest House Road. This significant milestone marks yet another step in the bank’s ongoing commitment to providing innovative and convenient banking solutions to its valued customers.
-
-The new Digital Zone is designed to offer a seamless and efficient banking experience, enabling customers to perform a wide range of banking transactions with ease. Equipped with the latest technology, the Digital Zone provides various self-service facilities, round the clock.
-
-Asian Paints Causeway brings new life to Sangattikulama Sinhala Junior School
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/c041f3f1.json)
-
-[Extended Data](ext_articles/c041f3f1.ext.json)
 
 ---

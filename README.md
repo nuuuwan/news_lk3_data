@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 09:05:49**
+As of **2024-07-01 09:19:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,018 (100.0%) of 33,021 articles have been extended.
+33,021 (100.0%) of 33,021 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Additionally, they are requested to stay attentive to future forecasts issued by
 
 [Data](articles/62f8c25b.json)
 
+[Extended Data](ext_articles/62f8c25b.ext.json)
+
 ---
 
 ### Several spells of light showers expected in parts of the island
@@ -65,6 +67,8 @@ Strong winds of about 40-50kmph can be expected at times over the Western slopes
 ◼️
 
 [Data](articles/b5b41d18.json)
+
+[Extended Data](ext_articles/b5b41d18.ext.json)
 
 ---
 
@@ -724,21 +728,27 @@ The general meeting organized by the Minister of Power and Power and Power, Kanj
 
 ---
 
-### 'අපේ සංස්කෘතියත් එක්ක මේක ලංකාවට සැර වැඩියි.'
+### 'This is going to be rid of Sri Lanka with our culture.'
 
 *2024-07-01 02:07:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cqql3qg5pe3o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''දිව වෙනස් කරහම කතා කරන්න ටිකක් අපහසු වුණා. මාසයක් විතර ගියා මට කතා කරන එක පුහුණු වෙන්න.''
+The text discusses cultural transformation in Sri Lanka, focusing on changes in physical features like the tongue, eyes, ears, and hands. It mentions challenges in communication due to these changes but emphasizes the importance of preserving and promoting their unique culture.
 
-ශරීර අංග වෙනස් කිරීමේ කලාව (Body modification) ප්‍රිය කරන පිරිසක් ශ්‍රී ලංකාවේ ද දක්නට ලැබෙති. ඒ අතරින් දිවෙහි කොටසක් ඉවත් කර දිව දෙකක් ඇති බව පෙන්වීම කෙරෙහි විශේෂ අවධානයක් යොමු වේ.
+🟩
 
-ටැටූ කලා ශිල්පියෙකු වන පවිත්‍ර මධුසංඛ ප්‍රනාන්දු ඔහුගේ ඇස්, දිව, කණ සහ අතක වෙනස්කම් සිදු කර තිබේ.
+None contains none of this.heads header, "The tongue was a bit difficult to talk. About a month, to practice talking to me. "
 
-'දිව වෙනස් කරහම කතා කරන්න ටිකක් අපහසු වුණා. මාසයක් විතර ගියා මට කතා කරන එක පුහුණු වෙන්න. අපේ සංස්කෘතියත් එක්ක මේක ලංකාවට සැර වැඩියි.' යනුවෙන් පවිත්‍ර BBC සිංහල වෙත පැවසුවේය.
+Sri Lanka is also visible to the art of a body model of change of body features. Out of them, special emphasis on the touching of two tongues.
+
+Clean Madi Maduskan Fernando has made his eyes, tongue, ear and hand.
+
+'The tongue's change was a bit difficulty talking. About a month, you practice talking to me. This is going to be rid of Sri Lanka with our culture. 'Pure bbc told Sinhala.
 
 ◼️
 
 [Data](articles/59481858.json)
+
+[Extended Data](ext_articles/59481858.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 17:35:28**
+As of **2024-07-01 17:55:48**
 
 ## Newspaper Stats
 
@@ -26,31 +26,41 @@ adaderanasinhalalk | 5,476
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,122 (100.0%) of 33,123 articles have been extended.
+33,123 (100.0%) of 33,123 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### හෙට පාර්ලිමේන්තුවේදී ජනාධිපතිවරයාගෙන් විශේෂ ප්‍රකාශයක්
+### President Mahinda Rajapaksa tomorrow
 
 *2024-07-01 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198370) · `si`
 
-විදේශ ණය ප්‍රතිව්‍යුහගත කිරීමේ ගිවිසුම් ක්‍රියාත්මක කිරීම සම්බන්ධයෙන් හෙට (02) දිනයේ පාර්ලිමේන්තුවේදී ජනාධිපතිවරයා විශේෂ ප්‍රකාශයක් සිදු කිරීමට නියමිතය.
+Tomorrow, President Mahinda Rajapaksa will address Parliament about implementing foreign debt restructuring agreements. A parliamentary committee met yesterday under Speaker Mahinda Yapa Abeywardena. MP Lakshman Kiriella mentioned that one of three key agreements hasn't been signed yet, stating no debate can occur until all are signed. Following the President's speech, Parliament will adjourn without debate. Additionally, to honor late opposition leader R.ampandan, his body will be at Parliament from 2 pm to 4 pm on July 3rd.
 
-මේ අනුව හෙට දින පැවැත්වීමට නියමිතව තිබූ මීට අදාළ යෝජනා සම්මතය පිළිබඳ විවාදය හෝ ඡන්දය නොපැවැත්වීමටත් මෙහිදී තීරණය වී ඇත.
+🟩
 
-අද ( 01) පස්වරුවේ කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් සහ අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතාගේ සහභාගීත්වයෙන් පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාව පවත්වා තිබුණි.
+The President is to make a special statement in Parliament tomorrow (02) regarding the implementation of the agreements to restructuring foreign debt.
 
-මේ අතර රජය විසින් අත්සන් කරන ලද ගිවිසුම් හෙට පාර්ලිමේන්තුවට ඉදිරිපත් නොකරන බව අද පැවති පක්ෂ නායක රැස්විමේදී දැනුම්දුන් බව පාර්ලිමේන්තු මන්ත්‍රී ලක්ෂ්මන් කිරිඇල්ල මහතා පැවසීය.
+The proposal to be held tomorrow, the relevant proposal is due to be held on the standard or election vote.
 
-ඊට හේතුව ගිවිසුම් තුනෙන් එක ගිවිසුමක් තවමත් අත්සන් නොකර තිබීම බවද ඔහු පවසයි.
+The Committee on Parliamentary Affairs was held under the patronage of Speaker Mahinda Yapa Abeywardena today (01).
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ලක්ෂ්මන් කිරිඇල්ල මහතා සඳහන් කළේ, ගිවිසුම් තුනම අත්සන් නොකර විවාදයක් සිදුකර ඵලක් නොවන බවය.
+Meanwhile, MP Lakshman Kiriella said that the party leader was not given to the government today at the party leader meeting today.
+
+He said that one of the three covenants was still signed.
+
+Speaking further Mr. Lakshman Kiriella further stated that the three agreements will not be a debate without signing.
+
+"At the previous party leaders meeting said that these three agreements were placed on the Internet. Signed and said to the cabinet. He said the PC submit. Not to do so. "
+
+"After the President's speech tomorrow, Parliament postponed. No debate will be held "
 
 ...
 
 [Data](articles/8ba42af9.json)
+
+[Extended Data](ext_articles/8ba42af9.ext.json)
 
 ---
 

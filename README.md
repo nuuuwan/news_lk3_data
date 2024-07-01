@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 00:52:29**
+As of **2024-07-02 01:04:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,487
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,170 (100.0%) of 33,172 articles have been extended.
+33,172 (100.0%) of 33,172 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -123,6 +123,8 @@ Today, one of these countries has defaulted on its external debt and is undergoi
 ...
 
 [Data](articles/545de7e7.json)
+
+[Extended Data](ext_articles/545de7e7.ext.json)
 
 ---
 
@@ -485,6 +487,8 @@ The latest complaint is that the bilateral debt was postponed, not forgiven part
 ...
 
 [Data](articles/3f81c989.json)
+
+[Extended Data](ext_articles/3f81c989.ext.json)
 
 ---
 

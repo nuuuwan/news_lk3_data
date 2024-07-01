@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 15:54:25**
+As of **2024-07-01 16:08:16**
 
 ## Newspaper Stats
 
-*Scraped **33,099** Articles*
+*Scraped **33,102** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,83 @@ islandlk | 1,846
 economynextcom | 1,934
 dailyftlk | 2,036
 adalk | 2,942
-adaderanalk | 3,772
-tamilmirrorlk | 3,916
+adaderanalk | 3,773
+tamilmirrorlk | 3,917
 dailymirrorlk | 4,733
 virakesarilk | 5,157
-adaderanasinhalalk | 5,471
+adaderanasinhalalk | 5,472
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,098 (100.0%) of 33,099 articles have been extended.
+33,099 (100.0%) of 33,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### ත්‍රස්ත ප්‍රහාර අවදානමක් - අමෙරිකානු හමුදා කඳවුරු සීරුවෙන්
+### Modi condoles demise of veteran Sri Lankan Tamil leader Sampanthan
+
+*2024-07-01 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100220/modi-condoles-demise-of-veteran-sri-lankan-tamil-leader-sampanthan) · `en`
+
+Condoling the demise of veteran Sri Lankan Tamil leader R Sampanthan, Prime Minister Narendra Modi said on Monday that he “will always cherish fond memories of meetings” with him.
+
+Taking to social media platform X, PM Modi wrote, “My deepest condolences to the family and friends of veteran TNA leader R. Sampanthan. Will always cherish fond memories of meetings with him.”
+
+“He relentlessly pursued a life of peace, security, equality, justice, and dignity for the Tamil nationals of Sri Lanka. He will be deeply missed by his friends and followers in Sri Lanka and India,” PM Modi further said in his post.
+
+Sampanthan was a Sri Lankan Tamil politician, a lawyer, and also the leader of the Tamil National Alliance (TNA).
+
+Meanwhile, External Affairs Minister S Jaishankar also extended condolences to Sampanthan’s family and followers.
+
+...
+
+[Data](articles/bfa8050d.json)
+
+---
+
+### සුසිල් ප්‍රියන්ත ජයතුංග යළි රිමාන්ඩ් කිරීමට නියෝග
+
+*2024-07-01 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198365) · `si`
+
+මේ වනවිට නීතිඥ භාවය අත්හිටුවා තිබෙන සුසිල් ප්‍රියන්ත ජයතුංග යළි රක්ෂිත බන්ධනාගාරගත කරන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (07) නියෝග කළේය.
+
+නඩු විභාගයක් පැවැත්වෙන අවස්ථාවේදී ඉදිරිපත් කරනු ලැබූ කරුණුවලින් අධිකරණයට අපහාසයක් සිදු කළේ යැයි චෝදනා කොට රක්ෂිත බන්ධනාගාරගත කර සිටි සුසිල් ප්‍රියන්ත ජයතුංග පසුව ඇප මත මුදාහැරුණි.
+
+ඒ අනුව අද දිනයේ යළි රක්ෂිත බන්ධනාගාරගත කරන ලෙස නියෝග කර තිබුණි.
+
+සානුකම්පිත හේතුන් සැලකිල්ලට ගෙන වගඋත්තරකරු ඇපමත මුදාහැරීමට අධිකරණය තීන්දු කළ බවත් එහෙත් ඔහු ඇප කොන්දේසි කඩ කරමින් කටයුතු කිරීම නිසා ඔහුගේ ඇපය අවලංගු කොට රක්ෂිත බන්ධනාගාර ගත කරන බවත් නියෝගය ප්‍රකාශයට පත් කරමින් ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලේ සභාපති විනිසුරු විජිත් මලල්ගොඩ මහතා විවෘත අධිකරණයේදී ප්‍රකාශ කළේය.
+
+මෙම පැමිණිල්ල අද විජිත් මළල්ගොඩ, ශිරාන් ගුණරත්න සහ ජනක් ද සිල්වා යන මහත්වරුන්ගෙන් සමන්විත ත්‍රීපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුන් මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+...
+
+[Data](articles/6661defa.json)
+
+---
+
+### Terrorist attacks risk - US military camps
 
 *2024-07-01 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198364) · `si`
 
-යුරෝපයේ පිහිටුවා ඇති අමෙරිකානු හමුදා කඳවුරු කිහිපයක් සීරුවෙන් තැබීමට අමෙරිකාව පියවර ගෙන තිබේ.
+The U.S. has moved some military bases to Europe due to terror threats, issuing second-level warnings for potential attacks within the next decade. These bases include Army camps in Germany and the Aviano Air Force Base.
 
-එලෙස අනතුරු ඇඟවීම් නිකුත් කර ඇත්තේ ඒ වෙත ත්‍රස්ත ප්‍රහාරයක් එල්ල වීමට ඇති අවදානම සලකමිනි.
+🟩
 
-මේ අනුව ඒවාට දෙවැනි මට්ටමේ අනතුරු ඇඟවීම් නිකුත් කර ඇති අතර එලෙස අනතුරු අඟවා ඇත්තේ වසර 10කට පමණ පසුවය.
+The United States of America has taken steps to put some USA camps in Europe.
 
-මෙලෙස අනතුරු ඇඟවීම් නිකුත් කළ හමුදා කඳවුරු අතරට ජර්මනියේ ශ්ටුට්ගාට් කඳවුර මෙන්ම ඉතාලියේ අවියානෝ ගුවන් හමුදා කඳවුර ද අයත් බව වැඩිදුරටත් සඳහන් වේ.
+The warnings were issued by the risk of terrorist attack.
+
+Accordingly, the second level warnings have been issued and the warned about 10 years later.
+
+According to the military camps, Germany belongs to the Army camps in Germany as well as the Avano Air Force Base.
 
 ◼️
 
 [Data](articles/0a3c3664.json)
+
+[Extended Data](ext_articles/0a3c3664.ext.json)
 
 ---
 
@@ -151,6 +197,24 @@ The first phase of the rocket has failed due to a failure of the rocket and coll
 [Data](articles/1ab2eae5.json)
 
 [Extended Data](ext_articles/1ab2eae5.ext.json)
+
+---
+
+### ஹிருணிக்காவின் மேன்முறையீடுக்கு திகதி குறிப்பு
+
+*2024-07-01 14:19:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிக்காவின்-மேன்முறையீடுக்கு-திகதி-குறிப்பு/175-339697) · `ta`
+
+முன்னாள் கொழும்பு மாவட்ட பாராளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமச்சந்திரவின் சார்பில் தாக்கல் செய்யப்பட்ட பிணை மனு (மேன்முறையீட்டு நிலுவையில் உள்ளது) கொழும்பு மேல் நீதிமன்றத்தால்  ஜூலை 4ஆம் திகதிக்கு திங்கட்கிழமை (01) ஒத்திவைக்கப்பட்டுள்ளது.
+
+டிஃபென்டர் வாகனத்தை பயன்படுத்தி இளைஞரை கடத்திச் சென்ற வழக்கில் மூன்று ஆண்டுகள் சிறைத்தண்டனை விதிக்கப்பட்ட ஹிருணிகா பிரேமச்சந்திர, கொழும்பு மேல் நீதிமன்றத்தால் விதிக்கப்பட்ட  தண்டனையை சவாலுக்கு உட்படுத்தி மேன்முறையீட்டு நீதிமன்றத்தில் மேன்முறையீடு செய்துள்ளார்.
+
+இந்த பிணை மனு கொழும்பு மேல் நீதிமன்ற நீதிபதி அமல் ரணராஜா முன்னிலையில் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போது, ​​ஜூலை 4ஆம் திகதி நீதிமன்றில் ஆஜராகுமாறு சட்டமா அதிபருக்கு உத்தரவிட்டப்பட்டது.
+
+தெமட்டகொடையில் டிஃபென்டர் வாகனத்தை பயன்படுத்தி இளைஞரான அமில பிரியங்கரவை  கடத்தி, தாக்குதல் நடத்தியதுடன்  அச்சுறுத்தல், விடுக்கப்பட்டமை உள்ளிட்ட 18 குற்றச்சாட்டுகளில் ஹிருணிகா பிரேமச்சந்திர குற்றவாளியாக காணப்பட்டார்.
+
+...
+
+[Data](articles/123cfe20.json)
 
 ---
 
@@ -2151,71 +2215,5 @@ The MP proposed that workers should receive maximum benefits from their labour, 
 [Data](articles/6b3d8282.json)
 
 [Extended Data](ext_articles/6b3d8282.ext.json)
-
----
-
-### Former President Mahinda Rajapaksa was seen greeting Chinese President Xi Jinping at the conference commemorating the 70th anniversary
-
-*2024-07-01 04:40:25* · [`dailyftlk`](https://www.ft.lk/news/Former-President-Mahinda-Rajapaksa-was-seen-greeting-Chinese-President-Xi-Jinping-at-the-conference-commemorating-the-70th-anniversary/56-763665) · `en`
-
-Former President Mahinda Rajapaksa was seen greeting Chinese President Xi Jinping at the conference commemorating the 70th anniversary of the Five Principles of Peaceful Coexistence in Beijing, China yesterday. Rajapaksa is currently on a four-day visit to the country. China’s Vice Minister of Foreign Affairs Sun Weidong met with Rajapaksa over the weekend, reaffirming their strong partnership. Weidong, referring to Rajapaksa as an “old friend of China,” assured continued support for Sri Lanka’s economic and social development. Rajapaksa expressed gratitude for China’s unwavering support and sought ongoing cooperation for the future.
-
-◼️
-
-[Data](articles/e5021d68.json)
-
-[Extended Data](ext_articles/e5021d68.ext.json)
-
----
-
-### Missing Israeli tourist found safe after coordinated search
-
-*2024-07-01 04:39:05* · [`dailyftlk`](https://www.ft.lk/news/Missing-Israeli-tourist-found-safe-after-coordinated-search/56-763664) · `en`
-
-In a heartening development, 25-year-old Israeli tourist Tamar Amitai, who went missing last Wednesday, while travelling in Trincomalee in the Eastern Province was found by authorities.
-
-Eastern Province Governor Senthil Thondaman attributed the successful search as the result of a coordinated effort involving the Police, Army, Divisional Secretariat, Uppuvali Pradhya Sabha and the Tourism Bureau of the Eastern Province.
-
-Governor Thondaman reported that Amitai was located in Sallikovil, a few kilometres from her hostel, Rolex Guest House. Social media assistance along with a special operation led by the Governor’s Secretariat focused on monitoring and searching the region.
-
-Although the circumstances of her disappearance and discovery are still under investigation, officials have expressed gratitude for the teamwork that led to her safe recovery.
-
-“We are pleased to inform the public that Tamar Amitai has been found and is safe,” Governor Thondaman announced.
-
-...
-
-[Data](articles/11374738.json)
-
-[Extended Data](ext_articles/11374738.ext.json)
-
----
-
-### R. Sampanthan: Information about Sri Lanka's second opposition leader in Sri Lanka
-
-*2024-07-01 04:23:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c035z19dezno) · `si`
-
-R. Sampanthan, a prominent Tamil politician in Sri Lanka, passed away at 91. Born on February 5, 1933, he served as the second Tamil Opposition Leader in Sri Lanka's Parliament. His political career spanned decades, including roles in the Tamil United Liberation Front and the Tamil National Alliance. Despite facing challenges and accusations, Sampanthan was known for advocating peace, reconciliation, and justice for the Tamil community.
-
-🟩
-
-R. Sampanthan: Information about Sri Lanka's second opposition leader in Sri Lanka
-
-A senior politician and former opposition leader of Sri Lanka is a unique figure in Sri Lanka.. Located on June 30th night.
-
-His family were informed that he passed away after he was admitted to a private hospital in Colombo on health reasons.
-
-The 91 year old was the 91 year old as Rajawarageda, born on February 5, 1933.
-
-It is said that a stock custodian was served in the Galoya project. The son of Rajarogium. Sampanthan, Jaffna St. Patrick, Kurunegala has been studying at St. Joseph, Trincomalee and St. Sebressitan College, Moratuwa.
-
-He later admitted to the Sri Lanka Law College, he became a lawyer.
-
-After being sworn in as a lawyer. Connectors worked in Trincomalee.
-
-...
-
-[Data](articles/b10a069f.json)
-
-[Extended Data](ext_articles/b10a069f.ext.json)
 
 ---

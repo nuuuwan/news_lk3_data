@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 00:35:10**
+As of **2024-07-02 00:52:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,487
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,167 (100.0%) of 33,172 articles have been extended.
+33,170 (100.0%) of 33,172 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The Treasury is aware that the country is in a difficult place. But that difficu
 ...
 
 [Data](articles/1989fcf2.json)
+
+[Extended Data](ext_articles/1989fcf2.ext.json)
 
 ---
 
@@ -86,6 +88,8 @@ In reality, imputed rent is exactly what the Local Councils are already obtainin
 
 [Data](articles/1977bcb7.json)
 
+[Extended Data](ext_articles/1977bcb7.ext.json)
+
 ---
 
 ### Current status of construction contractors in time of crisis and implications on economy
@@ -99,6 +103,8 @@ As we navigate through these challenging times, it is crucial for policymakers, 
 ...
 
 [Data](articles/9c01519c.json)
+
+[Extended Data](ext_articles/9c01519c.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 03:53:22**
+As of **2024-07-02 04:05:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,487
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,179 (100.0%) of 33,180 articles have been extended.
+33,180 (100.0%) of 33,180 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -142,21 +142,27 @@ He was the President of the Asian Marketing Federation (AMF) from 2018 to 2020 a
 
 ---
 
-### இரா. சம்பந்தனின் மறைவிற்கு ஈழ மக்கள் புரட்சிகர விடுதலை முன்னணியின் ஆழ்ந்த இரங்கல்
+### Nonsense. The deepest condolences of the Eelam People's Revolutionary Liberation Front
 
 *2024-07-02 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/187436) · `ta`
 
-தமிழ் மக்களுக்காகக் குரல்கொடுத்த சம்பந்தன் ஐயாவின் குரல் மௌனித்தது இலங்கைத் தமிழரசுக் கட்சியின் முதுபெரும் தலைவரும் திருகோணமலை நாடாளுமன்ற உறுப்பினருமான ராஜவரோதயம் சம்பந்தன் அவர்களின் மறைவிற்கு ஈழ மக்கள் புரட்சிகர விடுதலை முன்னணி தனது ஆழ்ந்த இரங்கலைத் தெரிவித்துக்கொள்கிறது.
+The Eelam People's Revolutionary Liberation Front mourns the loss of Rajavarothayam Sampanthan, a key figure in the Tamil National Alliance advocating for Tamil rights in Sri Lanka. Sampanthan, known for his efforts towards establishing a dignified and secure life for Tamils, both through peaceful means and armed struggle, leaves behind a legacy of fighting for self-determination within a unified Sri Lanka. Despite criticism, his contributions to Tamil nationalism and human rights advocacy are undeniable.
 
-அன்னாரின் மறைவையொட்டி ஈழ மக்கள் புரட்சிகர விடுதலை முன்னணியின் தலைவர் சுரோஷ் பிரேமச்சந்திரன் விடுத்துள்ள ஊடக அறிக்கையின் முழு விபரம் வருமாறு:-
+🟩
 
-ஈழத் தமிழ் மக்களின் முதுபெரும் தலைவர் தமிழ் மக்களின் உரிமைகளுக்காக ஜனநாயக வழிமுறைகளில் இடைவிடாது போராடியவர் தமிழ் மக்கள் இந்த மண்ணில் சகல உரிமைகளையும் பெற்று கௌரவத்துடனும் பாதுகாப்புடனும் வாழவேண்டும் என்ற சிந்தனையைக் கொண்டிருந்த திருகோணமலை பாராளுமன்ற உறுப்பினர் ராஜவரோதயம் சம்பந்தன் தனது 91ஆவது வயதில் 30.06.2024அன்று காலமாகினார் என்னும் செய்தி தமிழ் மக்களுக்குக் கவலை அளிக்கும் செய்தியாகும்.
+The voice of Sampanthan Iyer, who voiced for the Tamil people, silenced the Eelam People's Revolutionary Liberation Front to express its deepest condolences to the demise of Rajavarothayam Sampanthan, a member of the Sri Lanka Tamil National Alliance (TNA) and Trincomalee.
 
-நீண்ட நெடிய ஒரு ஜனநாயகப் பாரம்பரியத்தில் வந்து ஆயுதப் போராட்டம் நடந்த காலகட்டத்தில் ஆயுதப் போராட்ட இயக்கங்களுடனும் கலந்துரையாடி ஒன்றிணைந்து செயற்பட்டவர்.
+The full details of the media report issued by Surosh Premachandran, the leader of the Eelam People's Revolutionary Liberation Front:-
+
+The news that the Tamil people of the Eelam Tamil people have been relentlessly for the rights of the Tamil people, who has been in the mood for the rights of the Tamil people to live with all the rights on this soil and live with dignity and security.
+
+He came together in a long -standing democratic heritage and worked with the armed struggle during the armed struggle.
 
 ...
 
 [Data](articles/078c13c0.json)
+
+[Extended Data](ext_articles/078c13c0.ext.json)
 
 ---
 

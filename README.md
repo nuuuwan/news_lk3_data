@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 22:19:57**
+As of **2024-07-01 22:35:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,486
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,157 (100.0%) of 33,158 articles have been extended.
+33,158 (100.0%) of 33,158 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Addressing Anuradhapura district’s youth conference of NPP held in Kekirawa, h
 ...
 
 [Data](articles/1f37e4df.json)
+
+[Extended Data](ext_articles/1f37e4df.ext.json)
 
 ---
 

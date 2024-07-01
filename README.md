@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 14:54:53**
+As of **2024-07-01 15:06:14**
 
 ## Newspaper Stats
 
-*Scraped **33,092** Articles*
+*Scraped **33,095** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ islandlk | 1,846
 economynextcom | 1,934
 dailyftlk | 2,036
 adalk | 2,942
-adaderanalk | 3,771
+adaderanalk | 3,772
 tamilmirrorlk | 3,915
 dailymirrorlk | 4,733
 virakesarilk | 5,157
-adaderanasinhalalk | 5,467
+adaderanasinhalalk | 5,469
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,091 (100.0%) of 33,092 articles have been extended.
+33,092 (100.0%) of 33,095 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
+
+### Teacher-principal trade unions to protest in front of schools tomorrow
+
+*2024-07-01 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100218/teacher-principal-trade-unions-to-protest-in-front-of-schools-tomorrow) · `en`
+
+The teacher-principal trade unions have planned to stage protests in front of schools tomorrow (02), demanding prompt solutions to their issues.
+
+Meanwhile, they also announced their intention to unite all public sector trade unions as the teacher-principal alliance next Friday.
+
+The teacher-principal trade unions are protesting today by displaying black flags and banners in front of schools over several demands, including the elimination of teacher-principal salary disparities.
+
+Meanwhile, the Ceylon Teachers’ Union confirmed that tomorrow’s protests will take place after school hours.
+
+The General Secretary of the Ceylon Teachers’ Union (CTU) Joseph Stalin emphasized the necessity of these trade union measures and urged parents to understand the situation, during a press conference today.
+
+◼️
+
+[Data](articles/1dcea87d.json)
+
+---
+
+### LPL තරගාවලිය අද ඇරඹේ
+
+*2024-07-01 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198362) · `si`
+
+ලංකා ප්‍රිමියර් ලීග් 20යි 20 ක්‍රිකට් තරගාවලියේ 5 වැනි අදියර අද (01) පල්ලෙකැලේ ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී ආරම්භ වෙයි.
+
+පළමු තරගයේදී දඹුල්ල සික්සර්ස් සහ කැන්ඩි ෆැල්කන්ස් කණ්ඩායම තරග බිමට පිවිසෙන අතර එම තරගය අද රාත්‍රී 7.30 ට ආරම්භ වීමට නියමිතය.
+
+මෙවර ලංකා ප්‍රිමියර් ලීග් 20යි 20 ක්‍රිකට් තරගාවලියේ සන්නාම තානාපතිවරයා ලෙසින් කටයුතු කරන ඔස්ට්‍රේලියා හිටපු නායක මයිකල් ක්ලාක්ද සහභාගී වෙයි.
+
+◼️
+
+[Data](articles/2a689843.json)
+
+---
+
+### චීනයේ රොකට්ටුවක් කඩා වැටෙයි
+
+*2024-07-01 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198361) · `si`
+
+රොකට්ටුවේ පළමු අදියරයේ අසාර්ථකවීමක් හේතුවෙන් එහි දියත් කිරීමේ මධ්‍යස්ථානයෙන් වෙන්වූ විගස කඩා වැටී ඇති වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/1ab2eae5.json)
+
+---
 
 ### Hirunika's Man's appeal
 
@@ -358,19 +406,25 @@ The former SJB parliamentarian was sentenced after being found guilty of being i
 
 ---
 
-### බහුදින ධීවර යාත්‍රාවේ අසාධ්‍ය  සිටි ධීවරයා  හම්බන්තොට මහ රෝහලට
+### He was conducting a serious fisherman in Hambantota at the Hambantota General Hospital
 
 *2024-07-01 12:52:30* · [`adalk`](https://www.ada.lk/breaking_news/බහුදින-ධීවර-යාත්‍රාවේ-අසාධ්‍ය--සිටි-ධීවරයා--හම්බන්තොට-මහ-රෝහලට/11-410541) · `si`
 
-"Devon 5" බහුදින ධීවර යාත්‍රාවේ අසාධ්‍ය  සිටි  ධීවරයා විජයබාහු නෞකාව මඟින් අද (01) හම්බන්තොට වරාය වෙත රැගෙන විත් ප්‍රතිකාර සඳහා හම්බන්තොට මහ රෝහල වෙත යොමු කරනු ලැබිණි.
+A fisherman named Devo 5 was seriously injured and hospitalized in Hambantota after an incident involving the Colombo Marine Search and Rescue Coordination. Two other critically injured fishermen were transferred to the Sri Lanka Navy's Vijayabahu Ship for further assistance.
 
-කොළඹ සමුද්‍රීය සෙවීම් හා මුදවා ගැනීම් සම්බන්ධීකරණ මධ්‍යස්ථානයේ සම්බන්ධීකරණයෙන් “Devon 5” බහුදින ධීවර යාත්‍රාවේ අසාධ්‍ය තත්ත්වයේ සිටි ධීවරයින් දෙදෙනෙක් ‘MV KOTA CAMIL’ නමැති වෙළඳ නෞකාවක් මඟින් පසුගිය 30 වන දින මුදවා ගැනීමට  කටයුතු කෙරුණු මෙම  ධීවරයින් ගොඩබිමට රැගෙන එන අතරතුර එක් ධීවරයෙකු  ‘MV KOTA CAMIL’ නෞකාව තුළදී ජීවිතක්ෂයට පත් වු බවද නාවික හමුදා මුලස්ථානය සදහන් කරයි.
+🟩
 
-අසාධ්‍ය තත්වයේ සිටි අනෙක් ධීවරයා ශ්‍රී ලංකා නාවික  හමුදාවේ විජයබාහු නෞකාව වෙත ඊයේ (30) වන දින  සන්ද්‍යාවේදී  දෙවුන්දර සිට නාවික සැතපුම් 170 ක් (කිලෝමීටර් 314 ක පමණ) දුරින් වූ ගැඹුරු මුහුදේදී ලබා භාර දි තිබේ.
+The 'Devo 5 "Fisherman was taken to the Hambantota General Hospital for treatment.
+
+Two fishermen who were in critical fishermen who were in critical fishermen from the Colombo Marine Search and Rescue Coordination of the Colombo Marine Search and Rescue Coordination."The Navy Headquarters said that the ship was killed in the ship.
+
+The other fishermen in critical condition have been handed over to the Sri Lanka Navy Vijayabahu Ship, Vijayabahu ship (about 31 km) at the Vijayabahu Sandali yesterday.
 
 ◼️
 
 [Data](articles/1f9ef3fd.json)
+
+[Extended Data](ext_articles/1f9ef3fd.ext.json)
 
 ---
 
@@ -2143,75 +2197,5 @@ Investigations by the police revealed that the accident had taken the accident a
 [Data](articles/484892d2.json)
 
 [Extended Data](ext_articles/484892d2.ext.json)
-
----
-
-### Five arrested, including a priest who tried to dig a treasure
-
-*2024-07-01 03:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/187343) · `ta`
-
-In Omanthai, Oman, five individuals, including a priest, were arrested for trying to dig for treasure during a surveillance operation based on tip-offs. The group, comprising locals from Kandy, Tawasikulam, and Omanthai, faces charges and will be presented in court for further investigation.
-
-🟩
-
-Five persons, including a priest, have been arrested in the Valathikulam area of ​​Omanthai, Omanthai police said on Sunday (30).
-
-Five persons have been arrested for attempting to excavate the treasure when they were engaged in a special surveillance process in Valathikkulam area on special information received by the Omanthai police in Vavuniya.
-
-Five persons from the Kandy area and four persons from the Tawasikulam and Omanthai areas of Vavuniya have been arrested.. Five persons have been taken to appear in the Vavuniya Court after further investigations, police said.
-
-◼️
-
-[Data](articles/0eaf2d68.json)
-
-[Extended Data](ext_articles/0eaf2d68.ext.json)
-
----
-
-### Missing Relations Demonstration in Vavuniya seeking international justice
-
-*2024-07-01 03:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/187342) · `ta`
-
-In Vavuniya, a protest march demanded international justice for the missing. Carrying signs, participants voiced against compensation and criticized government efforts to undermine their struggle through aid. Led by the Vavuniya District Missing Association, the call for justice resonates strongly amidst allegations of secret installations and attempts to pacify the community.
-
-🟩
-
-A protest march was launched in Vavuniya seeking international justice for the missing.
-
-A protest march was held in front of the old bus station on Tuesday, 30th of the Vavuniya District.
-
-The protesters were carrying the posts, carrying the words, "where we need international justice, where the children do not want the office, what is the death certificate for the children who gave us the death certificate, we did not seek compensation.
-
-Commenting on this, Vavuniya District Missing Association President Geneita
-
-What happened to our children. We want international justice. Although the office said we don't need it, they secretly installed it in our areas. The current President Ranil has carried out the work of the Grama Niladhari Media Office. They seek to blunt our struggle by providing livelihood assistance. The relationships of the missing in this regard should be alerted. We need justice. We will fight for justice for the life.
-
-◼️
-
-[Data](articles/b90c4901.json)
-
-[Extended Data](ext_articles/b90c4901.ext.json)
-
----
-
-### Land confirmations were issued for 41, 960
-
-*2024-07-01 02:55:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/41-960-காணி-உறுதிகள்-வழங்கப்பட்டன/175-339676) · `ta`
-
-President Wickremesinghe announced a 25 million rupee fund for pond rehabilitation in Moneragala's Divisional Secretariat under the Urumaya Telephone Program, offering full land guarantees. He also presented Urumaya Land certificates to locals, engaging in discussions about their needs.
-
-🟩
-
-President Ranil Wickremesinghe said that 25 million rupees will be given to the rehabilitation of ponds at the Divisional Secretariat in the Moneragala District under the Urumaya Telephone Program issuing full -fledged land guarantees.
-
-Under the National Program of Rs.
-
-The President attended the Urumaya Land certificate to the people of Moneragala district, and then went to the people and heard about their information and engaged in a smooth conversation.. (A)
-
-◼️
-
-[Data](articles/c6cca5cb.json)
-
-[Extended Data](ext_articles/c6cca5cb.ext.json)
 
 ---

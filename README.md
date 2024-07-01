@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 08:15:20**
+As of **2024-07-01 08:54:07**
 
 ## Newspaper Stats
 
-*Scraped **33,017** Articles*
+*Scraped **33,018** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,51 @@ adaderanalk | 3,759
 tamilmirrorlk | 3,905
 dailymirrorlk | 4,733
 virakesarilk | 5,139
-adaderanasinhalalk | 5,452
+adaderanasinhalalk | 5,453
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,008 (100.0%) of 33,017 articles have been extended.
+33,017 (100.0%) of 33,018 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### 17 හැවිරිදි සිසුවෙක් දියේ ගිලී අතුරුදන්
+### මාරක අනතුරු වැලක්
+
+*2024-07-01 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198345) · `si`
+
+ඊයේ (30) සිදුවූ රිය අනතුරු කිහිපයකින් පුද්ගලයින් 5 දෙනෙකුට දිවි අහිමි වී තිබේ.
+
+◼️
+
+[Data](articles/95a1cc83.json)
+
+---
+
+### A 17-year-old student drowns
 
 *2024-07-01 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198344) · `si`
 
-ඊයේ (30) සවස ගල්කිස්ස වෙරළ තීරයේ දියනාමින් සිටි පුද්ගලයින් කිහිපදෙනෙකු අතරින් තිදෙනෙකු දියවැලකට හසු වී ගසාගෙන ගොස් ඇත.
+A 17-year-old boy from Mount Lavinia drowned, while three others fell ill due to diabetes after visiting the beach. Two Navy Coast Guards were rescued and taken to the hospital. The investigation continues.
 
-එම අවස්ථාවේ දී ජීවිතාරක්ෂක රාජකාරියේ යෙදී සිටි නාවික හමුදා වෙරළ ආරක්ෂක නිලධාරීන් විසින් දෙදෙනෙකුව බේරාගෙන තිබේ.
+🟩
 
-අතුරුදන් වී ඇත්තේ 17 හැවිරිදි අබේසේකර මාවත, ගල්කිස්ස ප්‍රදේශයේ පදිංචිකරුවෙකි.
+Three people who were diagnosed with the Mount Lavinia beach yesterday evening have fallen into a diabetic.
 
-අතුරුදන් වු සිසුවා සොයා මේ වන විට ‌මෙහෙයුමක් දියත් කර ඇති අතර ගල්කිස්ස පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+Two Navy Coast Guard were rescued by the Navy Coast Guard on the hospital at the time.
+
+The missing is 17-year-old Abeysekara Mawatha, a resident of Mount Lavinia.
+
+The Missing Mount Lavinia has conducted further investigations.
 
 ◼️
 
 [Data](articles/3a380141.json)
+
+[Extended Data](ext_articles/3a380141.ext.json)
 
 ---
 
@@ -850,6 +868,8 @@ The team behind AI Pazz highlighted that the interest that is shown on the platf
 
 [Data](articles/fb39b07b.json)
 
+[Extended Data](ext_articles/fb39b07b.ext.json)
+
 ---
 
 ### Siyapatha Finance kicks off islandwide environmental cleaning project at 37 locations in one day
@@ -863,6 +883,8 @@ In line with the company’s focus and commitment to infuse in the general publi
 ...
 
 [Data](articles/26ef237e.json)
+
+[Extended Data](ext_articles/26ef237e.ext.json)
 
 ---
 
@@ -938,6 +960,8 @@ Commenting on the partnership, HNB Head of Retail Banking, Kanchana Karunagama s
 
 [Data](articles/88fbfc69.json)
 
+[Extended Data](ext_articles/88fbfc69.ext.json)
+
 ---
 
 ### The Women’s Movements of Sri Lanka: A public event by Everystory Sri Lanka
@@ -949,6 +973,8 @@ On Saturday, June 16th, 2024, at the Colombo Public Library, Everystory Sri Lank
 ...
 
 [Data](articles/5bfabd24.json)
+
+[Extended Data](ext_articles/5bfabd24.ext.json)
 
 ---
 
@@ -998,23 +1024,29 @@ He passed away while receiving treatment at a private hospital in Colombo.
 
 ---
 
-### ඉන්ධන මිල ගැන හැමෝම බලාගෙන සිටි සුබ ආරංචිය මෙන්න
+### Here is the good news of the good news that everyone was watching about fuel prices
 
 *2024-06-30 23:40:18* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-ගැන-හැමෝම-බලාගෙන-සිටි-සුබ-ආරංචිය-මෙන්න/11-410534) · `si`
 
-පෙට්‍රල් සහ සුපිරි ඩීසල් මිල අද (30) මධ්‍යම රාත්‍රීයේ සිට පහළ දමන බවත් ලංකා සුදු ඩිසල් හා භූමිතෙල් මිල එසේම පවතින බවත් ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාව නිවේදනය කරයි.
+Fuel prices have dropped significantly: Petrol (Octane 92) now costs Rs. 344 (down from Rs. 345), Super-Diesel is at Rs. 355 (down from Rs. 357), while Diesel remains at Rs. 317 and Kerosene Oil's price hasn't been mentioned.
 
-ඔක්ටේන් 92 පෙට්‍රල් ලීටරයක මිල රුපියල් 11 කින් පහළ දමා ඇති අතර නව මිල රුපියල් 344කි.
+🟩
 
-ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක මිල රුපියල් 41 කින් පහළ දමා ඇති අතර නව මිල රුපියල් 379කි.
+The Petroleum Corporation announced that the prices of petrol and super-diesel will be reduced from midnight today (30).
 
-සුපිරි ඩීසල් ලීටරයක මිල රුපියල් 22 කින් පහළ දමා ඇති අතර නව මිල රුපියල් 355කි.
+The price of an Octane 92 petrol has been reduced by Rs.1 and the new price is Rs. 344.
 
-ලංකා දුසු ඩීසල් ලීටරයක මිල රුපියල් 317 ක් සහ භූමිතෙල් ලීටරයක මිල රුපියල් 202 ක් ලෙස තව දුරටත් පවතින බව ඛනංජ තෙල් සංස්ථාව වැඩි දුරටත් සඳහන් කළේය.
+The price of a liter of octatoes has been reduced by Rs 41 per liter and the new price is Rs. 379.
+
+The price of a liter of super diesel has been reduced by Rs.2 and the new price is Rs. 355.
+
+The price of a liter of diesel was Rs. 317 and the price of a liter of kerosene oil and Rs.
 
 ◼️
 
 [Data](articles/fbb0cfbc.json)
+
+[Extended Data](ext_articles/fbb0cfbc.ext.json)
 
 ---
 
@@ -2139,37 +2171,5 @@ The ceremony took place at the Mahinda Rajapaksa Conference Hall in Wellawaya to
 [Data](articles/e46355c2.json)
 
 [Extended Data](ext_articles/e46355c2.ext.json)
-
----
-
-### Arrest in Katunayake
-
-*2024-06-30 15:54:21* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-කෝටි-දෙකක-ස්වර්ණාභරණ-තොගයක්-කටුනායක-දී-අත්-අඩංගුවට/11-410521) · `si`
-
-In Katunayake, a 47-year-old man from Jaffna was arrested for trying to smuggle jewelry worth two crores through the Green Channel at the airport. The jewelry included a necklace, a bracelet, and a ring. Passengers from countries like France, England, and Germany face less scrutiny than those from Katunayake. The arrest occurred around 6:30 pm yesterday, and customs officials are continuing their investigation.
-
-🟩
-
-A stock of jewelery worth about two crores, and the "Green Mawatha" of the "Green Mawatha"
-
-A passenger traumat man who attempted to be out of the airport through the Green Channel was arrested by the Customs Drug Administration Division.
-
-He is a 47 year old resident of Jaffna.
-
-Passengers from countries such as France, England, Germany, Russia are not very intensified from countries such as the Katunayake Airport.
-
-But on suspicion of suspicion, the jewelery has been recovered and arrested.
-
-He was told by Dhoha from Dhoha from 6.30 pm yesterday.
-
-He was arrested in attempting to leave the airport without proclaiming 995 grams and a manner and a ring manufacturers.
-
-Customs officers are conducting further investigations to keep this air passenger in managing.
-
-◼️
-
-[Data](articles/e224ab87.json)
-
-[Extended Data](ext_articles/e224ab87.ext.json)
 
 ---

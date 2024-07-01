@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 19:04:55**
+As of **2024-07-01 19:19:43**
 
 ## Newspaper Stats
 
-*Scraped **33,133** Articles*
+*Scraped **33,136** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 1,940
 dailyftlk | 2,036
 adalk | 2,944
 adaderanalk | 3,776
-tamilmirrorlk | 3,919
+tamilmirrorlk | 3,921
 dailymirrorlk | 4,733
 virakesarilk | 5,167
-adaderanasinhalalk | 5,479
+adaderanasinhalalk | 5,480
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,133 (100.0%) of 33,133 articles have been extended.
+33,133 (100.0%) of 33,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
+
+### ’உறவின் இணைப்பு பாலம்’’: ஹக்கீம் அனுதாபம்
+
+*2024-07-01 19:01:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உறவின்-இணைப்பு-பாலம்-ஹக்கீம்-அனுதாபம்/175-339711) · `ta`
+
+தமிழ் சமூகத்துக்கும்  முஸ்லிம் சமூகத்துக்கும் இடையிலான உறவின் இணைப்பு பாலமாக விளங்கிய மூத்த அரசியல் ஆளுமை இரா. சம்பந்தன் அவர்களின் மறைவு தமிழ் பேசும் மக்கள் மத்தியில் அதிர்ச்சியையும் ஆழ்ந்த கவலையையும் ஏற்படுத்திருக்கிறது என்று  ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவரும் ,பாராளுமன்ற உறுப்பினருமான  ரவூப் ஹக்கீம் முதுபெரும் தமிழ் அரசியல் தலைவர் சம்பந்தன் அவர்களின்  மறைவையிட்டு  வெளியிட்டுள்ள அனுதாபச் செய்தியில் குறிப்பிட்டுள்ளார்.
+
+முஸ்லிம் காங்கிரஸ் தலைவர் ஹக்கீம் தனது அனுதாபச் செய்தியில்  மேலும் தெரிவித்திருப்பதாவது ;
+
+இலங்கையில்  புரையோடிப் போயுள்ள தேசிய இனப் பிரச்சினையில் குறிப்பாக தமிழ் மக்களுக்கும் பொதுவாக சிறுபான்மைச் சமூகங்களுக்கும் உச்சபட்ச அரசியல்  தீர்வை பெற்றுக் கொடுப்பதற்காக  தனது வாழ்நாள் பூராவும்  அயராது பாடுபட்ட அரசியல் ஆளுமையான சம்பந்தன் ஐயாவின் மறைவுச் செய்தி கேட்டு ஆழ்ந்த கவலை அடைந்தேன்.
+
+...
+
+[Data](articles/ee1e1484.json)
+
+---
+
+### අඩු කළ බස් ගාස්තු ලැයිස්තුව මෙන්න
+
+*2024-07-01 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198374) · `si`
+
+අද (01) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි බස් ගාස්තු අඩු කිරීමට ජාතික ගමනාගමන කොමිෂන් සභාව පියවර ගෙන තිබේ.
+
+ජාතික බස් ගාස්තු ප්‍රතිපත්තිය අනුව නිර්ණායක 12ක් සැලකිල්ලට ගනිමින් සෑම වසරකම ජුලි මස පළමු වනදා බස් ගාස්තු සංශෝධනය සිදු කෙරෙයි.
+
+මෙවර ගාස්තු සංශෝධනයේ දී සියයට 5.07කින් බස් ගාස්තු අඩු කරන අතර රුපියල් 30ක්ව පවතින අවම බස් ගාස්තුව රුපියල් 28ක් දක්වා රුපියල් දෙකකින් අඩුවෙයි.
+
+ඒ අනුව, අධිවේගී මාර්ග ඇතුළු සියලුම බස් රථවලට අදාළ නව ගාස්තු ජාතික ගමනා ගමන කොමිෂන් සභාව මේ වනවිට ප්‍රකාශ කර තිබේ.
+
+◼️
+
+[Data](articles/15d18be0.json)
+
+---
+
+### ”கட்டணத்தை குறைக்க முடியாது”
+
+*2024-07-01 18:53:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டணத்தை-குறைக்க-முடியாது/175-339710) · `ta`
+
+பெற்றோல் விலை குறைக்கப்பட்டாலும் முச்சக்கரவண்டி கட்டணத்தை குறைக்க முடியாது எனவும், மாதம் ஒருமுறை எரிபொருள் விலையை திருத்தும் போது கட்டணத்தை குறைக்க முடியாது எனவும் அகில இலங்கை முச்சக்கர வண்டி சாரதிகள் சங்கத்தின் தலைவர்  லலித் தர்மசேகர தெரிவித்தார்.
+
+மக்களை ஏற்றிச் செல்லும் இரண்டு இலட்சம் முச்சக்கர வண்டிகளில் கூட இதுவரை கட்டண மீற்றர் பொருத்தப்படவில்லை எனவும், ஓரிரு ரூபாய்க்களில் மக்களுக்கு நிவாரணம் கிடைக்காது எனவும் அவர் தெரிவித்துள்ளார்.
+
+அரசாங்கம் எரிபொருளின் விலையை குறைத்துள்ள போதிலும், முச்சக்கர வண்டிகளை பயன்படுத்தும் மக்களுக்கு அதன் பலனை வழங்குவதற்கான முறைமையை அரசாங்கம் தயாரிக்கவில்லை எனவும்  தர்மசேகர மேலும் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/812161c3.json)
+
+---
 
 ### The Cash Committee granted approval for the Telecommunications Amendment Bill
 
@@ -2309,79 +2359,5 @@ Wickremesinghe said he may not be able to full details of the Paris Club and Chi
 [Data](articles/7eb5d9c1.json)
 
 [Extended Data](ext_articles/7eb5d9c1.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 305.95/306.25 to US dollar
-
-*2024-07-01 09:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-305-95-306-25-to-us-dollar-170306/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 305.95/306.25 to the US dollar on Monday, while bond yields were down, and stocks opened 0.07 percent up, dealers said.
-
-In equities, Colombo’s All Share Price Index opened 7.90 points higher at 12,152, while the S&P SL20 of more liquid stocks opened up at 0.17 percent or 6.25 points to 3,594.
-
-A bond maturing on 15.12.2026 was quoted at 10.90/11.00 percent, down from 10.95/11.15 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.85/12.00 percent, up from 11.90/98 percent.
-
-A bond maturing on 15.09.2029 was quoted at 11.85/12.00 percent, down from 12.20/30 percent. (Colombo/July1/2024)
-
-◼️
-
-[Data](articles/553cc4a0.json)
-
-[Extended Data](ext_articles/553cc4a0.ext.json)
-
----
-
-### 15 injured as two buses collide head-on
-
-*2024-07-01 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100209/15-injured-as-two-buses-collide-head-on) · `en`
-
-At least 15 individuals have been injured and hospitalised following a head-on collision involving a passenger bus attached to the Sri Lanka Transport Board (SLTB) and a private bus on the Colombo-Kandy main road this morning (July 01).
-
-The accident took place in the Weweldeniya area on the Colombo-Kandy main road, Ada Derana reporter said.
-
-The injured individuals have been admitted to Wathupitiwala and Warakapola hospitals for treatment.
-
-◼️
-
-[Data](articles/cf41a31f.json)
-
-[Extended Data](ext_articles/cf41a31f.ext.json)
-
----
-
-### Devon 5: The only fisherman who survived the vessel
-
-*2024-07-01 09:13:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp0812660v3o) · `si`
-
-In a tragic event, the Devon-5 fishing vessel lost five crew members due to unknown poisoning, leaving one survivor. The vessel, initially carrying 290 fishermen, encountered issues after consuming something from a floating bottle in the sea. The survivors were rescued by the Vijayabahu ship and brought to Hambantota port, where the injured were hospitalized. This incident highlights the dangers faced by fishermen at sea and the need for immediate medical attention and investigation into the cause of the poisoning.
-
-🟩
-
-Devon 5: The only fisherman who survived the vessel
-
-There is nothing here. Play video, "" I can't bring the crumbs. "Cannot bring Bodis' ''
-
-The Vijayabahu ship, who was currently alive, had come to the Hambantota port this morning (July 1).
-
-Navy Media Center for Captain Gayan Wickremasuriya told the BBC Sinhala service that the fisherman took necessary action to be taken to hospital.
-
-One of the body of one fisherman was brought to land by the Vijayabahu Ship.
-
-The Fisheries Director General has died after a large number of fishermen in the South Sea, which was in the South of Sea.Susantha Kahawatta declared to BBC.
-
-The Navy's media director of the Navy told the BBC to support the BBC Sinhala service to support the deewon-5 vessel in the Devon-5 vessel to land.
-
-Accordingly, two fishermen alive to the ship were 290 fishermen who were alive at the time of 290 yesterday (June 30).
-
-'But one fisherman informed that such a fisherman said.
-
-...
-
-[Data](articles/ef425536.json)
-
-[Extended Data](ext_articles/ef425536.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 05:38:02**
+As of **2024-07-01 06:05:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,984 (100.0%) of 32,992 articles have been extended.
+32,992 (100.0%) of 32,992 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Chrysalis together with UNDP and other key public and private sector stakeholder
 
 [Data](articles/82313318.json)
 
+[Extended Data](ext_articles/82313318.ext.json)
+
 ---
 
 ### ‘Sustainability in Packaging Asia 2024’ spotlights need for circular economy
@@ -61,6 +63,8 @@ The conference was organised by Smithers, a multinational provider of testing, c
 ...
 
 [Data](articles/5ec71098.json)
+
+[Extended Data](ext_articles/5ec71098.ext.json)
 
 ---
 
@@ -82,6 +86,8 @@ The MP also accused the President of neglecting duties assigned by the constitut
 
 [Data](articles/e2fd66c0.json)
 
+[Extended Data](ext_articles/e2fd66c0.ext.json)
+
 ---
 
 ### Senior ASG Parinda Ranasinghe to be appointed as Acting AG
@@ -102,6 +108,8 @@ As a result, former Attorney General Rajaratnam PC retired on Wednesday (26).
 
 [Data](articles/4dfa0ff6.json)
 
+[Extended Data](ext_articles/4dfa0ff6.ext.json)
+
 ---
 
 ### Tiran offers SL police expertise to combat global security threats
@@ -117,6 +125,8 @@ Minister Alles also highlighted the detrimental impact of organised crime and ga
 ...
 
 [Data](articles/a1cb70c4.json)
+
+[Extended Data](ext_articles/a1cb70c4.ext.json)
 
 ---
 
@@ -172,6 +182,8 @@ The Presidential Environment Awards, organised annually by the Central Environme
 
 [Data](articles/f84e810a.json)
 
+[Extended Data](ext_articles/f84e810a.ext.json)
+
 ---
 
 ### Keerthi Gunawardane re-appointed as FCCISL President
@@ -187,6 +199,8 @@ Gunawardane’s presidency marks a continued era of dynamic leadership at FCCISL
 ...
 
 [Data](articles/0da718ed.json)
+
+[Extended Data](ext_articles/0da718ed.ext.json)
 
 ---
 
@@ -1071,6 +1085,8 @@ Trained as a lawyer, he based his arguments for a political solution on Sri Lank
 ◼️
 
 [Data](articles/4d79b1e1.json)
+
+[Extended Data](ext_articles/4d79b1e1.ext.json)
 
 ---
 

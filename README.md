@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 15:19:47**
+As of **2024-07-01 15:35:08**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 5,470
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,095 (100.0%) of 33,098 articles have been extended.
+33,098 (100.0%) of 33,098 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### சம்பந்தனுக்கு ஜனாதிபதி இரங்கல்
+### President to condole in Sambandan
 
 *2024-07-01 14:56:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனுக்கு-ஜனாதிபதி-இரங்கல்/175-339700) · `ta`
 
-இரா.சம்பந்தனின் மறைவிற்கு எனது ஆழ்ந்த இரங்கலைத் தெரிவித்துக் கொள்கிறேன். ஒரு தேசியத் தலைவராக, நம் நாட்டில் ஏற்பட்ட பிளவுகளைக் குறைக்க அயராது பாடுபட்டார். அவரது இழப்பு நாடு முழுவதும் இரங்கல் தெரிவிக்கும். என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe expresses deep sorrow over the passing of Sampanthan, a tireless national leader who strived to unite the nation. His loss is mourned nationwide.
+
+🟩
+
+I express my deepest condolences to the death of Sampanthan. As a national leader, he worked tirelessly to reduce the divisions in our country. His loss will convey condolences across the country. President Ranil Wickremesinghe said.
 
 ◼️
 
 [Data](articles/af048fb6.json)
+
+[Extended Data](ext_articles/af048fb6.ext.json)
 
 ---
 
@@ -66,21 +72,27 @@ The General Secretary of the Ceylon Teachers’ Union (CTU) Joseph Stalin emphas
 
 ---
 
-### ඉඩම් දෙන්නේ නිකන් නෙමෙයි -ජනපති
+### Land is not just that - President
 
 *2024-07-01 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198363) · `si`
 
-"උරුමය" ජාතික වැඩසටහන යටතේ සින්නක්කර ඉඩම් ඔප්පු ලබාගන්නා සියලුදෙනා කෘෂිකර්ම නවීකරණ වැඩසටහන සමඟ එක් වියයුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe announced during a visit to the Moneragala district that land deeds from the Heritage National Program should align with the Agriculture Navinance Program. He emphasized the importance of agricultural modernization and support for farmers to transition towards an export economy, highlighting the region's potential despite current challenges.
 
-මොනරාගල දිස්ත්‍රික්කයේ පැවති "උරුමය" ජාතික වැඩසටහනේ අදියරක් සමග ඊයේ (30) එක්වෙමින් ජනාධිපතිවරයා මේ බව සඳහන් කළේය.
+🟩
 
-සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ "උරුමය" ජාතික වැඩසටහන යටතේ මොනරාගල දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 11ක සුදුසුකම්ලාභීන් 41,960ක් අතුරින් පුද්ගලයන් 600ක් වෙනුවෙන් සංකේතාත්මකව ඔප්පු ප්‍රදානය, ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් වැල්ලවාය මහින්ද රාජපක්ෂ සම්මන්ත්‍රණ ශාලාවේදී ඊයේ පැවැත්වුණි.
+President Ranil Wickremesinghe says that all the land deeds obtained from the "Heritage" National Program should be joined by the Agriculture Navinance Program.
 
-"මේ ඉඩම් දෙන්නේ නිකන් නෙමෙයි. සල්ලි ඉල්ලන්නේ නෑ. මේ හැම එක්කෙනාම අපේ කෘෂිකර්ම නවීකරණ වැඩසටහනට එකඟවෙන්න ඕනේ. ගොවිතැන් කරන අය. එතනට එන්න. අපි ආධාර උපකාර දෙන්නම් ආපහු මේ ප්‍රදේශය දියුණු කරන්න. අපනයන ආර්ථිකයකට යන්න. මොකද්ද අමාරුව. ළඟ තියෙනවා වරායක්. ළඟ තියෙනවා ගුවන් තොටුපොළක්. ඊළඟ අවුරුදු 30 - 40 දී ලෝකයේ ආහාර සැපයීම විශාල ගැටලුවක්. අපි ආහාර සපයන්න ඕනේ. ඒකෙන් මුදල් උපයාගන්න ඕනේ..."
+The President was speaking yesterday with a "heritage" phase in the Moneragala district yesterday.
+
+In the "Heritage National Program of 41,960 Divisional Secretariats in the Monaragala District of the Moneragala district, President Ranil Wickremesinghe was chaired by President Ranil Wickremesinghe.
+
+"These lands are not just. Doesn't ask for money. All of these people have to agree to our agricultural modernization program. Those who are farming. Come there. We'll help you develop this area again. Go to an export economy. What's trouble. There's a harbor. There's a airport. In the next 30-40 years, the world's food is a big problem. We need to provide food. It has to make money ... "
 
 ◼️
 
 [Data](articles/a0012b51.json)
+
+[Extended Data](ext_articles/a0012b51.ext.json)
 
 ---
 
@@ -1482,23 +1494,37 @@ The injured individuals have been admitted to Wathupitiwala and Warakapola hospi
 
 ---
 
-### ඩෙවොන් 5: යාත්‍රාවේ දිවි ගලවා ගත් එකම ධීවරයා ගොඩබිමට රැගෙන එයි
+### Devon 5: The only fisherman who survived the vessel
 
 *2024-07-01 09:13:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp0812660v3o) · `si`
 
-ඩෙවොන් 5: යාත්‍රාවේ දිවි ගලවා ගත් එකම ධීවරයා ගොඩබිමට රැගෙන එයි
+In a tragic event, the Devon-5 fishing vessel lost five crew members due to unknown poisoning, leaving one survivor. The vessel, initially carrying 290 fishermen, encountered issues after consuming something from a floating bottle in the sea. The survivors were rescued by the Vijayabahu ship and brought to Hambantota port, where the injured were hospitalized. This incident highlights the dangers faced by fishermen at sea and the need for immediate medical attention and investigation into the cause of the poisoning.
 
-මෙහි කිසිවක් අඩංගු නැත.Play video, "''කුඩු තියෙනවා කිවුවහම විනාඩි 10න් 20න් ගිහින් ගේන්න පුළුවන්නම් ඇයි බොඩිස් ගේන්න බැරි''", ධාවන කාලය 1,4701:47වීඩියෝ ශීර්ෂ වැකිය, ''කුඩු තියෙනවා කිවුවහම විනාඩි 10න් 20න් ගිහින් ගේන්න පුළුවන්නම් ඇයි බොඩිස් ගේන්න බැරි''
+🟩
 
-ශ්‍රී ලංකාවට ඔබ්බෙන් වූ දකුණු මුහුදේ  පාවෙමින් තිබු බෝතලයක තිබූ ද්‍රාවණයක් මත්පැන් යැයි සිතා පානය කළ සිදුවීමෙන් දැනට ජීවතුන් අතර සිටින එකම ධීවරයා රැගත් විජයබාහු නෞකාව අද (ජුලි මස 01 වෙනිදා) හම්බන්තොට වරායට පැමිණි  බව නාවික හමුදාව පවසයි.
+Devon 5: The only fisherman who survived the vessel
 
-නාවික හමුදා මාධ්‍ය අධ්‍යක්ෂක කැප්ටන් ගයාන් වික්‍රමසූරිය බීබීසී සිංහල සේවයට පැවසුවේ එම ධීවරයා රෝහල් ගත කිරීමට අවශ්‍ය පියවර ගත් බවය.
+There is nothing here. Play video, "" I can't bring the crumbs. "Cannot bring Bodis' ''
 
-එමෙන්ම මියගිය එක් ධීවරයෙකුගේ සිරුරක් ද විජයබාහු නෞකාව මගින් ගොඩබිමට රැගෙන ආ බව නාවික හමුදා මාධ්‍ය ප්‍රකාශකවරයා පැවසුවේය.
+The Vijayabahu ship, who was currently alive, had come to the Hambantota port this morning (July 1).
+
+Navy Media Center for Captain Gayan Wickremasuriya told the BBC Sinhala service that the fisherman took necessary action to be taken to hospital.
+
+One of the body of one fisherman was brought to land by the Vijayabahu Ship.
+
+The Fisheries Director General has died after a large number of fishermen in the South Sea, which was in the South of Sea.Susantha Kahawatta declared to BBC.
+
+The Navy's media director of the Navy told the BBC to support the BBC Sinhala service to support the deewon-5 vessel in the Devon-5 vessel to land.
+
+Accordingly, two fishermen alive to the ship were 290 fishermen who were alive at the time of 290 yesterday (June 30).
+
+'But one fisherman informed that such a fisherman said.
 
 ...
 
 [Data](articles/ef425536.json)
+
+[Extended Data](ext_articles/ef425536.ext.json)
 
 ---
 

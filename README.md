@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 16:08:16**
+As of **2024-07-01 16:19:45**
 
 ## Newspaper Stats
 
-*Scraped **33,102** Articles*
+*Scraped **33,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ islandlk | 1,846
 economynextcom | 1,934
 dailyftlk | 2,036
 adalk | 2,942
-adaderanalk | 3,773
-tamilmirrorlk | 3,917
+adaderanalk | 3,774
+tamilmirrorlk | 3,918
 dailymirrorlk | 4,733
 virakesarilk | 5,157
-adaderanasinhalalk | 5,472
+adaderanasinhalalk | 5,473
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,099 (100.0%) of 33,102 articles have been extended.
+33,102 (100.0%) of 33,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
+
+### பஸ் கட்டணம் குறைக்கப்படும்
+
+*2024-07-01 16:06:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டணம்-குறைக்கப்படும்/175-339703) · `ta`
+
+திங்கட்கிழமை (01) நள்ளிரவு முதல் பஸ் கட்டணம் 5.07 வீதத்தால் குறைக்கப்படும் என தேசிய போக்குவரத்து ஆணைக்குழுவின் தலைவர் ஷஷி வெல்கம தெரிவித்தார்.
+
+அரச தகவல் திணைக்களத்தில் தற்போது இடம்பெற்றுவரும் ஊடகவியலாளர் சந்திப்பிலேயே ஷஷி வெல்கம மேற்கண்டவாறு தெரிவித்தார்.
+
+அதற்கமைய 30 ரூபாவாக இருக்கும் குறைந்த பட்ச பஸ் கட்டணம் இரண்டு ரூபாவினால் குறைக்கப்படும் எனவும், இதன் பிரகாரம் குறைந்தபட்ச பஸ் கட்டணம் 28 ரூபாவாகும் எனவும் அவர் தெரிவித்தார்.
+
+தேசிய பஸ் கட்டண கொள்கைக்கு அமைய பஸ் கட்டணங்கள் திருத்தப்படும் எனவும் அவர் மேலும் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/6ee4ff50.json)
+
+---
+
+### Australia doubles foreign student visa fee in migration crackdown
+
+*2024-07-01 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100221/australia-doubles-foreign-student-visa-fee-in-migration-crackdown) · `en`
+
+Australia said on Monday it had more than doubled the visa fee for international students, the latest move by the government to rein in record migration that has intensified pressure on an already tight housing market.
+
+From July 1, the international student visa fee has risen to A$1,600 ($1,068) from A$710, while visitor visa holders and students with temporary graduate visas are banned from applying onshore for a student visa.
+
+“The changes coming into force today will help restore integrity to our international education system, and create a migration system which is fairer, smaller and better able to deliver for Australia,” Home Affairs Minister Clare O’Neil said in a statement.
+
+Official data released in March showed net immigration rose 60% to a record 548,800 people in the year to Sept. 30, 2023.
+
+...
+
+[Data](articles/fcf8f1d6.json)
+
+---
+
+### සැමියා වෙනුවෙන් බිරිඳක් නීතියේ පිහිට පතයි
+
+*2024-07-01 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198366) · `si`
+
+දෙදරු පියෙකු පොලිස් වෙඩි පහරින් මරණයට පත්වීමේ සිද්ධියට සම්බන්ධ සැකකාර පොලිස් නිලධාරීන්ට එරෙහිව චෝදනා ගොනු කිරීම සම්බන්ධයෙන් කරුණු අධ්‍යයනය කරන බව නීතිපතිවරයා අභියාචනාධිකරණයට දැනුම්දුනි.
+
+ඒ මත්ද්‍රව්‍ය පරීක්ෂා කරන බව සඳහන් කරමින් සිදු කරන ලද පරීක්ෂාවක් අතරතුරදී නාඋල ප්‍රදේශයේ පදිංචි අලුත් ගෙදර තුෂාර චන්ද්‍රරත්න පොලිස් වෙඩි පහරින් මරණයට පත්වීමේ සිද්ධිය සම්බන්ධයෙනි.
+
+මෙම සිද්ධියට වගකිවයුතු  නාඋල පොලීසියේ සේවය කළ ඩබ්ලිව්. එම්.විජේතුංග සහ ජනක රුවන් අමරසිංහ යන පොලිස් සැරයන්වරුන්ට එරෙහිව කෲර වධ හිංසනයට එරෙහි පනත යටතේ නඩු පවරන ලෙස  නීතිපතිවරයා වෙත නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා මියගිය තැනැත්තාගේ බිරිඳ වූ දිනූෂා කුමාරි මහත්මිය විසින් ඉදිරිපත් කළ රිට් පෙත්සමක් අද (01) කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි ජ්‍යේෂ්ඨ නියෝජ්‍ය සොලිසිටර් ජනරාල් දිලිප පිරිස් මහතා මෙම දැනුම්දීම සිදුකළේය.
+
+◼️
+
+[Data](articles/b0773068.json)
+
+---
 
 ### Modi condoles demise of veteran Sri Lankan Tamil leader Sampanthan
 
@@ -50,25 +102,43 @@ Meanwhile, External Affairs Minister S Jaishankar also extended condolences to S
 
 [Data](articles/bfa8050d.json)
 
+[Extended Data](ext_articles/bfa8050d.ext.json)
+
 ---
 
-### සුසිල් ප්‍රියන්ත ජයතුංග යළි රිමාන්ඩ් කිරීමට නියෝග
+### Court orders Susil Priyantha Jayatunga further remanded
 
 *2024-07-01 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198365) · `si`
 
-මේ වනවිට නීතිඥ භාවය අත්හිටුවා තිබෙන සුසිල් ප්‍රියන්ත ජයතුංග යළි රක්ෂිත බන්ධනාගාරගත කරන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (07) නියෝග කළේය.
+Susil Priyantha Jayatunga, former president of the prosecution, was ordered by the Supreme Court to be remanded after his release on bail. The case, involving accusations of violating lawyers' rights and insulting the judiciary, was heard by judges Vijith Malalgoda, Shiran Gunaratne, and Janaka de Silva. The accused requested a Sinhalese translation of the charges but was told the court isn't obligated to provide one. The next hearing is scheduled for January 27th.
 
-නඩු විභාගයක් පැවැත්වෙන අවස්ථාවේදී ඉදිරිපත් කරනු ලැබූ කරුණුවලින් අධිකරණයට අපහාසයක් සිදු කළේ යැයි චෝදනා කොට රක්ෂිත බන්ධනාගාරගත කර සිටි සුසිල් ප්‍රියන්ත ජයතුංග පසුව ඇප මත මුදාහැරුණි.
+🟩
 
-ඒ අනුව අද දිනයේ යළි රක්ෂිත බන්ධනාගාරගත කරන ලෙස නියෝග කර තිබුණි.
+The Supreme Court today ordered Susil Priyantha Jayatunga to remand the lawyer.
 
-සානුකම්පිත හේතුන් සැලකිල්ලට ගෙන වගඋත්තරකරු ඇපමත මුදාහැරීමට අධිකරණය තීන්දු කළ බවත් එහෙත් ඔහු ඇප කොන්දේසි කඩ කරමින් කටයුතු කිරීම නිසා ඔහුගේ ඇපය අවලංගු කොට රක්ෂිත බන්ධනාගාර ගත කරන බවත් නියෝගය ප්‍රකාශයට පත් කරමින් ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලේ සභාපති විනිසුරු විජිත් මලල්ගොඩ මහතා විවෘත අධිකරණයේදී ප්‍රකාශ කළේය.
+Susil Priyantha Jayatunga, who was president of the prosecution, was released on bail.
 
-මෙම පැමිණිල්ල අද විජිත් මළල්ගොඩ, ශිරාන් ගුණරත්න සහ ජනක් ද සිල්වා යන මහත්වරුන්ගෙන් සමන්විත ත්‍රීපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුන් මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+Accordingly, it was ordered to be remanded today.
+
+Tribuna, President of the Supreme Court Judge Vijith Malalgoda declared open courts with the release of the respondents.
+
+The complaint was called before Vijith Balalgoda, Shiran Gunaratne and Janaka de Silva.
+
+The accusations were filed against the accused separately against the accused of violation of lawyers and insulting the judiciary.
+
+The judge has informed the accused to give the charges not to punish the allegations.
+
+The accused also requested the court to provide a Sinhalese in this charge sheet to him.
+
+Judge Vijith Malalgoda responded that the court was not obliged to provide such transformation as the accusel the accused in Sinhala language.
+
+However, if there is a Sinhalese in the charge sheet, the judge ordered the registrar of court to look into the defendant.
 
 ...
 
 [Data](articles/6661defa.json)
+
+[Extended Data](ext_articles/6661defa.ext.json)
 
 ---
 
@@ -200,21 +270,29 @@ The first phase of the rocket has failed due to a failure of the rocket and coll
 
 ---
 
-### ஹிருணிக்காவின் மேன்முறையீடுக்கு திகதி குறிப்பு
+### Hirunika's appeal
 
 *2024-07-01 14:19:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிக்காவின்-மேன்முறையீடுக்கு-திகதி-குறிப்பு/175-339697) · `ta`
 
-முன்னாள் கொழும்பு மாவட்ட பாராளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமச்சந்திரவின் சார்பில் தாக்கல் செய்யப்பட்ட பிணை மனு (மேன்முறையீட்டு நிலுவையில் உள்ளது) கொழும்பு மேல் நீதிமன்றத்தால்  ஜூலை 4ஆம் திகதிக்கு திங்கட்கிழமை (01) ஒத்திவைக்கப்பட்டுள்ளது.
+Hirunika Premachandra's bail petition was postponed by the Colombo High Court. She appeals against her three-year prison sentence for kidnapping and assaulting a youth with a Defender vehicle. The Attorney General is ordered to appear on July 4. Found guilty of 18 charges, including abduction and assault, she claims innocence and seeks justice.
 
-டிஃபென்டர் வாகனத்தை பயன்படுத்தி இளைஞரை கடத்திச் சென்ற வழக்கில் மூன்று ஆண்டுகள் சிறைத்தண்டனை விதிக்கப்பட்ட ஹிருணிகா பிரேமச்சந்திர, கொழும்பு மேல் நீதிமன்றத்தால் விதிக்கப்பட்ட  தண்டனையை சவாலுக்கு உட்படுத்தி மேன்முறையீட்டு நீதிமன்றத்தில் மேன்முறையீடு செய்துள்ளார்.
+🟩
 
-இந்த பிணை மனு கொழும்பு மேல் நீதிமன்ற நீதிபதி அமல் ரணராஜா முன்னிலையில் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போது, ​​ஜூலை 4ஆம் திகதி நீதிமன்றில் ஆஜராகுமாறு சட்டமா அதிபருக்கு உத்தரவிட்டப்பட்டது.
+The bail petition filed on behalf of former Colombo district parliamentarian Hirunika Premachandra (Pending Pending) has been postponed by the Colombo High Court on Monday (01).
 
-தெமட்டகொடையில் டிஃபென்டர் வாகனத்தை பயன்படுத்தி இளைஞரான அமில பிரியங்கரவை  கடத்தி, தாக்குதல் நடத்தியதுடன்  அச்சுறுத்தல், விடுக்கப்பட்டமை உள்ளிட்ட 18 குற்றச்சாட்டுகளில் ஹிருணிகா பிரேமச்சந்திர குற்றவாளியாக காணப்பட்டார்.
+Hirunika Premachandra, who was sentenced to three years in prison for kidnapping the youth in the case of a Defender vehicle, has appealed to the Court of Appeal by challenging the sentence imposed by the Colombo High Court.
 
-...
+When the bail plea was taken up in the presence of Colombo High Court Judge Amal Ranarajah, the Attorney General was ordered to appear in court on July 4.
+
+Hirunika Premachandra was found guilty of 18 allegations, including abducting, attacking and attacking a young man with a Defender vehicle in Dematagoda.
+
+Hirunika Premachandra is the ninth culprit in the case, and she has filed a criminal case against her as she admits that she is innocent.. Hirunika Premachandra, who was found guilty of it, was sentenced to three years in prison and was sentenced to 20 thousand rupees each.
+
+◼️
 
 [Data](articles/123cfe20.json)
+
+[Extended Data](ext_articles/123cfe20.ext.json)
 
 ---
 
@@ -2153,67 +2231,5 @@ The Presidential Environment Awards, organised annually by the Central Environme
 [Data](articles/f84e810a.json)
 
 [Extended Data](ext_articles/f84e810a.ext.json)
-
----
-
-### Keerthi Gunawardane re-appointed as FCCISL President
-
-*2024-07-01 04:50:45* · [`dailyftlk`](https://www.ft.lk/business/Keerthi-Gunawardane-re-appointed-as-FCCISL-President/34-763668) · `en`
-
-Keerthi Gunawardane was re-appointed as the President of the Federation of Chambers of Commerce and Industry Sri Lanka (FCCISL) during the Annual General Meeting held at the Organisation of Professional Associations of Sri Lanka (OPA) recently.
-
-FCCISL in a statement said his exemplary leadership and dedication to the organisation have been recognised and honoured with this re-appointment.
-
-Gunawardane’s presidency marks a continued era of dynamic leadership at FCCISL. Under his guidance, the Federation has successfully launched and led numerous initiatives aimed at uplifting the Micro, Small, and Medium Enterprises (MSMEs) sector in Sri Lanka. Notably, his collaborative efforts with the Skills for Inclusive Growth (S4IG) program, supported by Australian Aid, have significantly boosted the small hotels and home stay sectors, driving sustainable growth and development.
-
-...
-
-[Data](articles/0da718ed.json)
-
-[Extended Data](ext_articles/0da718ed.ext.json)
-
----
-
-### Marikkar’s broadside on RW’s politically motivated debt restructuring
-
-*2024-07-01 04:41:47* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-s-broadside-on-RW-s-politically-motivated-debt-restructuring/56-763667) · `en`
-
-Reveals when President Ranil Wickremesinghe took office total debt was $ 83 b but has now increased to $ 100.2 b
-
-Claims Sri Lanka requested 28% reduction in face value from commercial creditors, but they have agreed to only 7% reduction
-
-Emphasises need for program to increase dollar income through boosting exports and attracting foreign direct investment
-
-Proposes transforming loss-making public institutions into profitable entities through public-private partnerships
-
-Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday criticised the Government for attempting to present the restructuring of $ 10 billion out of Sri Lanka’s whopping $ 100 billion debt as good news.
-
-Addressing a press conference in Colombo, Marikkar pointed out that according to the Central Bank, Sri Lanka’s debt as of March 2024 stands at $ 100.2 billion.
-
-...
-
-[Data](articles/dbeda20e.json)
-
-[Extended Data](ext_articles/dbeda20e.ext.json)
-
----
-
-### Sajith promised estate workers ownership of small estates under future SJB Govt.: TPA
-
-*2024-07-01 04:40:41* · [`dailyftlk`](https://www.ft.lk/news/Sajith-promised-estate-workers-ownership-of-small-estates-under-future-SJB-Govt-TPA/56-763666) · `en`
-
-The Tamil Progressive Alliance (TPA) MP M. Udhayakumar has said Samagi Jana Balawegaya (SJB) leader Sajith Premadasa has given written assurance to the TPA that in a future SJB Government, steps will be taken to enable estate workers to become owners of small estates.
-
-The MP made this claim while attending a political talk show on a private radio channel on Saturday.
-
-During the show, the MP emphasised that estate workers are weary from protesting for wages that meet their basic livelihood needs. He highlighted the cycle where increased wages lead to higher living costs, stressing the need to break this cycle.
-
-The MP proposed that workers should receive maximum benefits from their labour, suggesting a solution by dividing current plantation estates and making workers small estate owners, granting them management responsibilities.
-
-...
-
-[Data](articles/6b3d8282.json)
-
-[Extended Data](ext_articles/6b3d8282.ext.json)
 
 ---

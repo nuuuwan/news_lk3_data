@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 18:37:22**
+As of **2024-07-01 19:04:55**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,479
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,131 (100.0%) of 33,133 articles have been extended.
+33,133 (100.0%) of 33,133 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### විදුලි සංදේශ සංශෝධන පනත් කෙටුම්පතට මුදල් කාරක සභාවේ අනුමතිය
+### The Cash Committee granted approval for the Telecommunications Amendment Bill
 
 *2024-07-01 18:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198373) · `si`
 
-වසර 28කට පසුව ශ්‍රී ලංකා විදුලි සංදේශ පනත සංශෝධනය කිරීම සඳහා වන සංශෝධන පනත් කෙටුම්පතට මුදල් කාරක සභාවේ අනුමතිය හිමිවී තිබේ.
+The Cash Committee approved the Telecommunications Amendment Bill after a meeting chaired by Dr. Harsha de Silva on 25.06.2012. The bill aims to update the Sri Lanka Telecommunication Act, last amended 28 years ago. Officers from various departments, including the Attorney General's Department and the Ministry of Technology, participated. They will present the amendments to the Supreme Court and work on introducing new technologies to the telecom sector.
 
-පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතාගේ සභාපතීත්වයෙන් 2024.06.25 දින පාර්ලිමේන්තුවේදී රජයේ මුදල් පිළිබඳ කාරක සභාව රැස්වූ අවස්ථාවේ මෙම අනුමතිය ලබාදීම සිදුවිය.
+🟩
 
-නීතිපති දෙපාර්තමේන්තුව, තාක්ෂණ අමාත්‍යාංශය, විදුලි සංදේශ නියාමන කොමිෂන් සභාව ඇතුළු ආයතන නියෝජනය කරමින් නිලධාරීන් මෙම රැස්වීමට එක්වී තිබුණි.
+The Cash Committee shall be approved by the Cash Committee to amend the Sri Lanka Telecommunication Act 28 years later.
 
-ඒ අනුව රැස්වීමට පැමිණ සිටි නිලධාරීන් පවසා සිටියේ ශ්‍රේෂ්ඨාධිකරණ තීරණයට ගරු කරමින් අවශ්‍ය සියලු සංශෝධන පනත් කෙටුම්පතට ඉදිරිපත් කිරීමට කටයුතු කරන බවය.
+This approval was given when the Committee on Finance Purpose in Parliament met on 25.06.2012 was appointed as the Chairman of Parliament Dr. Harsha de Silva.
 
-විදුලි සංදේශ සංඛ්‍යාත ලබා දීමේදී තරගකාරි ක්‍රමවේදයක් යටතේ  යාන්ත්‍රණයක් හදුන්වාදීම, ඊට අදාළ රෙගුලාසි පාර්ලිමේන්තුව මගින් සම්පාදනය කිරීම, නව තාක්ෂණය පහසුවෙන් මෙරට විදුලි සංදේශ ක්ෂේත්‍රයට හදුන්වාදීමට අවස්ථාව උදාවීම මෙන්ම මෙම ව්‍යපාරය සිදුකරන ආයතන මනා ලෙස නියාමනය කිරීමට හැකි බව නිලධාරීන් වැඩිදුරටත් පෙන්වා දුනි.
+Officers representing the Attorney General's Department, Ministry of Technology, Telecommunication Registration Commission and other institutions had joined the meeting.
+
+Accordingly, the officers who attended the meeting were said to be presented to the Supreme Court decision and submit all necessary amendments to the Bill.
+
+The officials further stated that the introduction of a mechanism to introduce a mechanism to the telecommunication sector in the country, the introduction of the new technology is easy to provide the new technology to the telecommunications industry as well as to introduce the new technology.
 
 ◼️
 
 [Data](articles/310e3f18.json)
+
+[Extended Data](ext_articles/310e3f18.ext.json)
 
 ---
 
@@ -1307,6 +1313,8 @@ The world surely would have felt awkward, watching the recent Trump and Biden sh
 ...
 
 [Data](articles/4aceb14b.json)
+
+[Extended Data](ext_articles/4aceb14b.ext.json)
 
 ---
 

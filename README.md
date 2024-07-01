@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 18:27:12**
+As of **2024-07-01 18:37:22**
 
 ## Newspaper Stats
 
-*Scraped **33,131** Articles*
+*Scraped **33,133** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 302
-colombotelegraphcom | 303
+colombotelegraphcom | 304
 bbccomsinhala | 324
 newsfirstlk | 363
 islandlk | 1,846
@@ -20,17 +20,37 @@ adaderanalk | 3,776
 tamilmirrorlk | 3,919
 dailymirrorlk | 4,733
 virakesarilk | 5,167
-adaderanasinhalalk | 5,478
+adaderanasinhalalk | 5,479
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,125 (100.0%) of 33,131 articles have been extended.
+33,131 (100.0%) of 33,133 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
+
+### විදුලි සංදේශ සංශෝධන පනත් කෙටුම්පතට මුදල් කාරක සභාවේ අනුමතිය
+
+*2024-07-01 18:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198373) · `si`
+
+වසර 28කට පසුව ශ්‍රී ලංකා විදුලි සංදේශ පනත සංශෝධනය කිරීම සඳහා වන සංශෝධන පනත් කෙටුම්පතට මුදල් කාරක සභාවේ අනුමතිය හිමිවී තිබේ.
+
+පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතාගේ සභාපතීත්වයෙන් 2024.06.25 දින පාර්ලිමේන්තුවේදී රජයේ මුදල් පිළිබඳ කාරක සභාව රැස්වූ අවස්ථාවේ මෙම අනුමතිය ලබාදීම සිදුවිය.
+
+නීතිපති දෙපාර්තමේන්තුව, තාක්ෂණ අමාත්‍යාංශය, විදුලි සංදේශ නියාමන කොමිෂන් සභාව ඇතුළු ආයතන නියෝජනය කරමින් නිලධාරීන් මෙම රැස්වීමට එක්වී තිබුණි.
+
+ඒ අනුව රැස්වීමට පැමිණ සිටි නිලධාරීන් පවසා සිටියේ ශ්‍රේෂ්ඨාධිකරණ තීරණයට ගරු කරමින් අවශ්‍ය සියලු සංශෝධන පනත් කෙටුම්පතට ඉදිරිපත් කිරීමට කටයුතු කරන බවය.
+
+විදුලි සංදේශ සංඛ්‍යාත ලබා දීමේදී තරගකාරි ක්‍රමවේදයක් යටතේ  යාන්ත්‍රණයක් හදුන්වාදීම, ඊට අදාළ රෙගුලාසි පාර්ලිමේන්තුව මගින් සම්පාදනය කිරීම, නව තාක්ෂණය පහසුවෙන් මෙරට විදුලි සංදේශ ක්ෂේත්‍රයට හදුන්වාදීමට අවස්ථාව උදාවීම මෙන්ම මෙම ව්‍යපාරය සිදුකරන ආයතන මනා ලෙස නියාමනය කිරීමට හැකි බව නිලධාරීන් වැඩිදුරටත් පෙන්වා දුනි.
+
+◼️
+
+[Data](articles/310e3f18.json)
+
+---
 
 ### Sri Lanka extends gratitude to US for assistance in bilateral debt restructuring
 
@@ -45,6 +65,8 @@ Posting on ‘X’ (formerly Twitter), Semasinge stated that on behalf of the go
 ...
 
 [Data](articles/209e763e.json)
+
+[Extended Data](ext_articles/209e763e.ext.json)
 
 ---
 
@@ -65,6 +87,8 @@ Sri Lanka state bus system looks to e-ticketing to combat revenue leaks
 ◼️
 
 [Data](articles/a4ad6fb5.json)
+
+[Extended Data](ext_articles/a4ad6fb5.ext.json)
 
 ---
 
@@ -180,6 +204,8 @@ A raft of infrastructure projects started with bilateral loans prior to Sri Lank
 
 [Data](articles/31e5cef3.json)
 
+[Extended Data](ext_articles/31e5cef3.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes stronger at 304.80/305.00 to US dollar
@@ -197,6 +223,8 @@ A bond maturing on 15.09.2029 closed at 12.10/20 percent, up from 12.20/30 perce
 ◼️
 
 [Data](articles/e375c856.json)
+
+[Extended Data](ext_articles/e375c856.ext.json)
 
 ---
 
@@ -219,6 +247,8 @@ Banking stocks closed down or flat in the day. Commercial Bank of Ceylon Plc was
 ...
 
 [Data](articles/b8f27ff7.json)
+
+[Extended Data](ext_articles/b8f27ff7.ext.json)
 
 ---
 
@@ -321,6 +351,8 @@ A special gazette notification was also issued making public transport services 
 ◼️
 
 [Data](articles/10c4cd72.json)
+
+[Extended Data](ext_articles/10c4cd72.ext.json)
 
 ---
 
@@ -1263,6 +1295,18 @@ The other fishermen in critical condition have been handed over to the Sri Lanka
 [Data](articles/1f9ef3fd.json)
 
 [Extended Data](ext_articles/1f9ef3fd.ext.json)
+
+---
+
+### Trump-Biden Debate Saga: Vital Lessons On The Burden Of Gerontocracy!
+
+*2024-07-01 12:44:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/trump-biden-debate-saga-vital-lessons-on-the-burden-of-gerontocracy/) · `en`
+
+The world surely would have felt awkward, watching the recent Trump and Biden showdown on TV. Behind the scenes at the first debate between Joe Biden and Donald Trump, the buzzy atmosphere of the spin room descended into horror-struck silence within a first few minutes of Biden opening his mouth. Watching the exchanges between them, the debate looked akin to participating in elder abuse, pestering old men with incessant questions as if to deny them the dignity of their dotage. Biden from the moment he shuffled onstage and muttered his first answer in a hushed and wheezing monotone, made it clear that he will be too old for the job whether now, and surely for another four-year term.
+
+...
+
+[Data](articles/4aceb14b.json)
 
 ---
 
@@ -2331,49 +2375,5 @@ Accordingly, two fishermen alive to the ship were 290 fishermen who were alive a
 [Data](articles/ef425536.json)
 
 [Extended Data](ext_articles/ef425536.ext.json)
-
----
-
-### Van in Kalutara - Car collisionMother, father and 6 -month -old baby hurt
-
-*2024-07-01 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/187351) · `ta`
-
-In a crash near Kalutara-Bandaragama, a van collided with a car, injuring a family of three including a 6-month-old baby. The car's driver fled the scene, leading to ongoing police investigations.
-
-🟩
-
-A van and a car crashed into the Konaduwa area of ​​Kalutara - Bandaragama road on Sunday (30).
-
-The mother, father and 6 -month -old baby who was traveling in the van were injured in the accident.
-
-Further investigations are being carried out by the police as the driver of the car has fled after the accident.
-
-◼️
-
-[Data](articles/019d5e46.json)
-
-[Extended Data](ext_articles/019d5e46.ext.json)
-
----
-
-### Met. Dept. issues ‘red alert’ for strong winds and rough seas
-
-*2024-07-01 08:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100208/met-dept-issues-red-alert-for-strong-winds-and-rough-seas) · `en`
-
-The Department of Meteorology has issued a ‘Red’ alert for strong winds and rough seas for Naval and Multi-day Fisherman communities in the Arabian Sea.
-
-Very strong winds of 70-80kmph, and very rough seas are likely over Arabian Sea area (in sea areas bounded by (07N - 20N) and (55E – 68E)) due to the active south-west monsoonal condition, the department warned.
-
-Furthermore, the department advised the naval and fishing communities not to venture into the sea areas marked in red on the map until further notice.  Those already in these regions should return to the coast or move to safer areas immediately.
-
-The general public, along with the fishing and naval communities, are urged to take precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-Additionally, they are requested to stay attentive to future forecasts issued by the Department of Meteorology.
-
-◼️
-
-[Data](articles/62f8c25b.json)
-
-[Extended Data](ext_articles/62f8c25b.ext.json)
 
 ---

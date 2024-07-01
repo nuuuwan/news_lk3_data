@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 13:05:02**
+As of **2024-07-01 13:19:26**
 
 ## Newspaper Stats
 
-*Scraped **33,076** Articles*
+*Scraped **33,078** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 1,846
 economynextcom | 1,934
 dailyftlk | 2,036
 adalk | 2,940
-adaderanalk | 3,769
+adaderanalk | 3,770
 tamilmirrorlk | 3,913
 dailymirrorlk | 4,733
 virakesarilk | 5,153
-adaderanasinhalalk | 5,462
+adaderanasinhalalk | 5,463
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,076 (100.0%) of 33,076 articles have been extended.
+33,076 (100.0%) of 33,078 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
+
+### හිරුණිකාගෙන් අභියාචනයක්
+
+*2024-07-01 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198356) · `si`
+
+තමන්ට නියම වී ඇති වසර තුනක සිරදඬුවමින් තමන්ව නිදොස් කොට නිදහස් කරන ලෙස ඉල්ලා හිටපු පාර්ලිමේන්තු මන්ත්‍රීනි හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය විසින් අභියාචනයක් ඉදිරිපත් කර තිබේ.
+
+මෙම පෙත්සම අභියාචනාධිකරණය වෙත යොමු කිරීම සඳහා කොළඹ මහාධිකරණයට භාරදී ඇති බව අප අධිකරණ වාර්තාකරු සඳහන් කළේය.
+
+තමන්ට ලබාදුන් තීන්දුවට එරෙහිව අභියාචනයක් ඉදිරිපත් කර ඇති නිසා තමන්ව ඇප මත මුදාහරින ලෙසත් හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය විසින් කොළඹ මහාධිකරණය හමුවේ ඉල්ලීමක් කර තිබේ.
+
+අදාළ ඉල්ලීම ලබන 4 වනදා කොළඹ මහාධිකරණ විනිසුරු අමල් රණරාජා මහතා ඉදිරියේ සලකා බැලීමට නියමිතය.
+
+◼️
+
+[Data](articles/2627f469.json)
+
+---
+
+### Hirunika submits appeal over prison sentence; seeks bail until consideration
+
+*2024-07-01 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100216/hirunika-submits-appeal-over-prison-sentence-seeks-bail-until-consideration) · `en`
+
+Former Member of Parliament Hirunika Premachandra has filed an appeal requesting to invalidate the recent verdict issued by the Colombo High Court sentencing her to three years rigorous imprisonment and seeking her acquittal from the case.
+
+The relevant appeal has been handed over to the Colombo High Court to forward it to the Court of Appeal, Ada Derana reporter said.
+
+Accordingly, Premachandra’s lawyers have also filed a bail application before the Colombo High Court requesting to release her on bail, since an appeal has been filed against the relevant verdict.
+
+The bail application has been fixed for consideration before the Colombo High Court judge Amal Ranaraja on July 04, 2024, according to Ada Derana reporter.
+
+The former SJB parliamentarian was sentenced after being found guilty of being involved in the abduction of a youth in the Dematagoda area on December 21, 2015 using a Defender and his wrongful detention.
+
+...
+
+[Data](articles/553173e8.json)
+
+---
 
 ### Today's currency exchange rate
 
@@ -2151,37 +2189,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/c041f3f1.json)
 
 [Extended Data](ext_articles/c041f3f1.ext.json)
-
----
-
-### HNB and UNIMO forge strategic partnership to revolutionize vehicle financing
-
-*2024-07-01 00:35:00* · [`islandlk`](http://island.lk/hnb-and-unimo-forge-strategic-partnership-to-revolutionize-vehicle-financing/) · `en`
-
-Sri Lanka’s leading private sector bank, HNB PLC, recently announced their partnership with UNIMO, the automotive arm of United Motors, to provide affordable financing options and exclusive perks for customers looking to purchase vehicles.
-
-The partnership offers customers looking to invest in automobiles with exclusive interest rates anchored to numerous benefits from both organisations. HNB Head of Retail Banking, Kanchana Karunagama, and UNIMO General Manager Shalain De Silva were present at a special ceremony held to sign the agreement.
-
-Commenting on the partnership, HNB Head of Retail Banking, Kanchana Karunagama said: “At HNB, we are committed to empowering our customers with innovative and affordable financing solutions. Our partnership with UNIMO further strengthens our ability to provide our mutual customers with unmatched benefits and incentives when purchasing vehicles. We hope many will make use of this unique opportunity to invest in a vehicle. “
-
-...
-
-[Data](articles/88fbfc69.json)
-
-[Extended Data](ext_articles/88fbfc69.ext.json)
-
----
-
-### The Women’s Movements of Sri Lanka: A public event by Everystory Sri Lanka
-
-*2024-07-01 00:34:00* · [`islandlk`](http://island.lk/the-womens-movements-of-sri-lanka-a-public-event-by-everystory-sri-lanka/) · `en`
-
-On Saturday, June 16th, 2024, at the Colombo Public Library, Everystory Sri Lanka hosted its first public event on the Women’s Movement of Sri Lanka. This unique trilingual event included public teach-outs, and a series of interactive learning opportunities on the topic facilitated through storytelling, sharing accessible resources, and creating spaces for dialogue. The event drew a crowd of over 300 eager to participate and learn.
-
-...
-
-[Data](articles/5bfabd24.json)
-
-[Extended Data](ext_articles/5bfabd24.ext.json)
 
 ---

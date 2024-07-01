@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 06:05:13**
+As of **2024-07-01 06:40:15**
 
 ## Newspaper Stats
 
-*Scraped **32,992** Articles*
+*Scraped **32,996** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 302
 colombotelegraphcom | 302
 bbccomsinhala | 321
 newsfirstlk | 363
-islandlk | 1,834
+islandlk | 1,838
 economynextcom | 1,929
 dailyftlk | 2,028
 adalk | 2,931
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-32,992 (100.0%) of 32,992 articles have been extended.
+32,992 (100.0%) of 32,996 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -589,6 +589,58 @@ I may have forgotten many things. If I forgot some of them, it is laughable to t
 [Data](articles/846203b9.json)
 
 [Extended Data](ext_articles/846203b9.ext.json)
+
+---
+
+### Asian Paints Causeway brings new life to Sangattikulama Sinhala Junior School
+
+*2024-07-01 00:57:00* · [`islandlk`](http://island.lk/asian-paints-causeway-brings-new-life-to-sangattikulama-sinhala-junior-school/) · `en`
+
+With a heartfelt commitment to making a meaningful contribution to the community, Asian Paints Causeway has extended a helping hand to Sangattikulama Sinhala Junior School by completely renovating and painting the entire school, turning it into a dream location for its students.
+
+Anamaduwa Sangattikulama Sinhala Junior School serves as a cherished second home for numerous students from over 10 surrounding villages, most of whom come from underprivileged households. With a dedicated team of 13 teachers, the school provides a nurturing environment where the students’ dreams of a bright future take root.
+
+As the school approaches its 100th anniversary, it was in dire need of refurbishment, lacking even a name board. Asian Paints Causeway takes great pride in setting up a name board for the school and transforming it into a pleasant learning environment for the students by color washing the entire school for the first time in its 100 ears of history.
+
+...
+
+[Data](articles/db1749d3.json)
+
+---
+
+### Young Sri Lankan journalists embark on journey in entrepreneurship
+
+*2024-07-01 00:51:00* · [`islandlk`](http://island.lk/young-sri-lankan-journalists-embark-on-journey-in-entrepreneurship/) · `en`
+
+Thirty (30) dynamic Sri Lankan journalists launched their journey into the exciting world of entrepreneurship, at a workshop on entrepreneurship for young journalists conducted on 13 and 14 June, 2024, at NH Collection Hotel, Colombo.
+
+The young journalists represented print, electronic and digital media. Some were influencers who owned their own media platforms. They had been selected out of a competitive application process. They were the lucky ones amongst the 212 young journalists who had applied.
+
+The program was presented by the International Labor organization, ILO and the Ceylon Chamber of Commerce, CCC, in collaboration with the Rainbow Institute of Communication.
+
+...
+
+[Data](articles/8f1d698e.json)
+
+---
+
+### Pan Asia Bank unveils State-of-the-Art Digital Zone in Gampaha
+
+*2024-07-01 00:37:00* · [`islandlk`](http://island.lk/pan-asia-bank-unveils-state-of-the-art-digital-zone-in-gampaha/) · `en`
+
+Pan Asia Bank, The Truly Sri Lankan Bank, is proud to announce the opening of its cutting-edge Digital Zone at the Gampaha branch, located at No 15, Rest House Road. This significant milestone marks yet another step in the bank’s ongoing commitment to providing innovative and convenient banking solutions to its valued customers.
+
+The new Digital Zone is designed to offer a seamless and efficient banking experience, enabling customers to perform a wide range of banking transactions with ease. Equipped with the latest technology, the Digital Zone provides various self-service facilities, round the clock.
+
+Asian Paints Causeway brings new life to Sangattikulama Sinhala Junior School
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/c041f3f1.json)
 
 ---
 
@@ -2221,69 +2273,5 @@ The Kaluppitti police officials informed the court the progress of the complaint
 [Data](articles/1a1174db.json)
 
 [Extended Data](ext_articles/1a1174db.ext.json)
-
----
-
-### North, East Link: Muslim politicians who do not respond to Sambandan
-
-*2024-06-30 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187301) · `ta`
-
-Muslim politicians' silence towards Sambandan reflects broader historical tensions between Muslims and Tamil armed groups/political parties, leading to a reluctance to revisit past conflicts.
-
-🟩
-
-Although Muslims were also part of the provincial council, which was the chief minister of Varadaraja Perumal, the history of the Muslims had gained bitter experiences by Tamil armed groups and political parties at that time.. Muslims did not want to return to that time.
-
-◼️
-
-[Data](articles/23a2ee7e.json)
-
-[Extended Data](ext_articles/23a2ee7e.ext.json)
-
----
-
-### Is the new Cold War?
-
-*2024-06-30 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187303) · `ta`
-
-Despite the end of the Soviet Union in the '90s, tensions reminiscent of the Cold War persist as nations unite against U.S. resistance to Newton's rule of re-impact, indicating its continuation in a new form.
-
-🟩
-
-These countries are forced to gather together to deal with US opposition to Newton's rule of re -impact. Even if it is normal. Although the Cold War is thought to have ended with the breakup of the Soviet Union in the 90s, it is in a different way that it continues or forced to continue.
-
-◼️
-
-[Data](articles/0717a2a6.json)
-
-[Extended Data](ext_articles/0717a2a6.ext.json)
-
----
-
-### I am waiting for Peramuna's decision - tamarind
-
-*2024-06-30 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/187295) · `ta`
-
-Dhammika Perera, a businessman and MP, awaits the Sri Lanka People's Alliance (PA)'s decision on his potential candidacy for president. He's prepared to meet ten conditions set by the PA and is ready to contest the election, initially confident of securing 51% of the votes. With nomination filings due on August 20th, he expects a decision from the PA within the next 50 days.
-
-🟩
-
-Businessman and Member of Parliament Dhammika Perera said that he is waiting for the decision of the Sri Lanka PA as he is preparing to contest the presidential election.
-
-He added that all the activities to implement them have been initiated as I have imposed ten conditions before the presidential election.
-
-He said this while commenting on Weerakesari on the upcoming presidential election.
-
-I am ready to field the presidential election. Initially, I was sure to get 51 percent of the vote. At this juncture, the PA had imposed ten conditions before naming the presidential candidate. All the plans for implementing those conditions have begun.
-
-In addition, I am currently ready to field as the presidential candidate. In this context, the decision to name me as the Sri Lankan PA should take a decision.
-
-I am looking forward to taking that resolution. In the present context, the constitution has to file nominations on August 20.
-
-...
-
-[Data](articles/d9f4b3a2.json)
-
-[Extended Data](ext_articles/d9f4b3a2.ext.json)
 
 ---

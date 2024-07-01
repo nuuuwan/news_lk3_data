@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 02:19:45**
+As of **2024-07-02 02:35:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,487
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,173 (100.0%) of 33,179 articles have been extended.
+33,179 (100.0%) of 33,179 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The seminar emphasised the significance of adopting these advanced solutions and
 
 [Data](articles/a2bdf1b8.json)
 
+[Extended Data](ext_articles/a2bdf1b8.ext.json)
+
 ---
 
 ### Interim report on Colombo Intl. Financial City as top Fintech hub
@@ -61,6 +63,8 @@ FASL is an ecosystem partner of Dubai International Financial Centre (DIFC) Inno
 ...
 
 [Data](articles/1e01e121.json)
+
+[Extended Data](ext_articles/1e01e121.ext.json)
 
 ---
 
@@ -78,6 +82,8 @@ Speaking on the range of products and services on offer, Chairman/Managing Direc
 
 [Data](articles/e044b146.json)
 
+[Extended Data](ext_articles/e044b146.ext.json)
+
 ---
 
 ### Consulate General of Sri Lanka in Mumbai at Indian Merchants Chamber Business Connect 2024
@@ -93,6 +99,8 @@ The event’s theme, “Bridging Borders for Business Growth,” aimed to facili
 ...
 
 [Data](articles/2a234d94.json)
+
+[Extended Data](ext_articles/2a234d94.ext.json)
 
 ---
 
@@ -112,6 +120,8 @@ In efforts to strengthen the progress of the Colombo stock market, the committee
 
 [Data](articles/0a4c51bd.json)
 
+[Extended Data](ext_articles/0a4c51bd.ext.json)
+
 ---
 
 ### Rohan Somawansa joins ACL Plastics Board
@@ -127,6 +137,8 @@ He was the President of the Asian Marketing Federation (AMF) from 2018 to 2020 a
 ...
 
 [Data](articles/f6fc1fe0.json)
+
+[Extended Data](ext_articles/f6fc1fe0.ext.json)
 
 ---
 

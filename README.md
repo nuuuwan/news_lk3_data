@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 04:34:56**
+As of **2024-07-02 04:53:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,487
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,180 (100.0%) of 33,187 articles have been extended.
+33,187 (100.0%) of 33,187 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Members of the People’s Struggle Alliance (PSA) yesterday held a discussion wi
 
 [Data](articles/509bf10b.json)
 
+[Extended Data](ext_articles/509bf10b.ext.json)
+
 ---
 
 ### Divorce between two UK  nationals recognised in Sri Lanka
@@ -63,6 +65,8 @@ The Family Court in United Kingdom, the competent Court with jurisdiction to hea
 ...
 
 [Data](articles/f8abad23.json)
+
+[Extended Data](ext_articles/f8abad23.ext.json)
 
 ---
 
@@ -82,6 +86,8 @@ Kugathasan is also the Trincomalee District Welfare Association (TDWA) President
 
 [Data](articles/638ed785.json)
 
+[Extended Data](ext_articles/638ed785.ext.json)
+
 ---
 
 ### Condolences pour in following demise of veteran Tamil leader R. Sampanthan
@@ -99,6 +105,8 @@ Messages of condolence have also been pouring in from both local and internation
 ...
 
 [Data](articles/2804f9fd.json)
+
+[Extended Data](ext_articles/2804f9fd.ext.json)
 
 ---
 
@@ -118,6 +126,8 @@ Rajaratnam’s current term is set to expire at the end of this month and the Pr
 
 [Data](articles/83c816c5.json)
 
+[Extended Data](ext_articles/83c816c5.ext.json)
+
 ---
 
 ### Solar-ocean based Hydrogen fuel production venture to commence soon
@@ -134,6 +144,8 @@ Discussions between Ceylon Italy Blue Economy Association President Vittorio Coc
 
 [Data](articles/0eb7eccb.json)
 
+[Extended Data](ext_articles/0eb7eccb.ext.json)
+
 ---
 
 ### Colombo Dockyard makes history with three milestones in one day
@@ -147,6 +159,8 @@ On this historic day, CDPLC laid the keel marking the commencement of constructi
 ...
 
 [Data](articles/4ab44527.json)
+
+[Extended Data](ext_articles/4ab44527.ext.json)
 
 ---
 

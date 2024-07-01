@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 09:34:53**
+As of **2024-07-01 09:54:04**
 
 ## Newspaper Stats
 
-*Scraped **33,023** Articles*
+*Scraped **33,024** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,845
 economynextcom | 1,929
 dailyftlk | 2,035
 adalk | 2,933
-adaderanalk | 3,761
+adaderanalk | 3,762
 tamilmirrorlk | 3,905
 dailymirrorlk | 4,733
 virakesarilk | 5,139
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,454
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,021 (100.0%) of 33,023 articles have been extended.
+33,023 (100.0%) of 33,024 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
+
+### 15 injured as two buses collide head-on
+
+*2024-07-01 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100209/15-injured-as-two-buses-collide-head-on) · `en`
+
+At least 15 individuals have been injured and hospitalised following a head-on collision involving a passenger bus attached to the Sri Lanka Transport Board (SLTB) and a private bus on the Colombo-Kandy main road this morning (July 01).
+
+The accident took place in the Weweldeniya area on the Colombo-Kandy main road, Ada Derana reporter said.
+
+The injured individuals have been admitted to Wathupitiwala and Warakapola hospitals for treatment.
+
+◼️
+
+[Data](articles/cf41a31f.json)
+
+---
 
 ### Met. Dept. issues ‘red alert’ for strong winds and rough seas
 
@@ -54,19 +70,25 @@ Additionally, they are requested to stay attentive to future forecasts issued by
 
 ---
 
-### බස් දෙකක් එකිනෙක ගැටී 15කට තුවාල
+### 15 injured in two buses collision
 
 *2024-07-01 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198346) · `si`
 
-කොළඹ - නුවර ප්‍රධාන මාර්ගයේ වේවැල්දෙණිය ප්‍රදේශයේ දී ලංගම බස් රථයක් සහ පෞද්ගලික බස් රථයක් එකිනෙක ගැටී අනතුරක් සිදුව ඇත.
+In a collision between a SLTB bus and a private bus in Weweldeniya, 15 people were injured and hospitalized at Wathupitiwala and Warakapola hospitals.
 
-අනතුරින් පුද්ගලයින් 15 දෙනෙකු තුවාල ලබා ඇති බව පොලීසිය පවසයි.
+🟩
 
-තුවාලකරුවන් මේ වනවිට වතුපිටිවල සහ වරකාපොළ රෝහල්වලට ප්‍රතිකාර සඳහා ඇතුළත් කර තිබේ.
+A SLTB bus and a private bus collided in the Weweldeniya area on the Colombo-Kandy main road.
+
+15 people were injured in the accident, police said.
+
+The injured have been admitted to Wathupitiwala and Warakapola hospitals.
 
 ◼️
 
 [Data](articles/5a16a011.json)
+
+[Extended Data](ext_articles/5a16a011.ext.json)
 
 ---
 
@@ -1222,6 +1244,8 @@ The price of Super Diesel has also been slashed by Rs. 22 with the new price at 
 
 However, the prices of Auto Diesel and Kerosene remains unchanged, the Ceypetco said.
 
+Meanwhile Lanka IOC and Sinopec say they too will revise retail fuel prices in line with the Ceypetco prices.
+
 ◼️
 
 [Data](articles/500d5648.json)
@@ -1608,19 +1632,27 @@ Trained as a lawyer, he based his arguments for a political solution on Sri Lank
 
 ---
 
-### ඩයනාට එරෙහිව අල්ලස් කොමිෂමෙන් විමර්ශනයක්
+### Bribery Commission investigates Diana
 
 *2024-06-30 19:38:20* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාට-එරෙහිව-අල්ලස්-කොමිෂමෙන්-විමර්ශනයක්/11-410527) · `si`
 
-ශ්‍රී ලංකාවේ පුරවැසියකු නොවන බව දනිමින්ම පාර්ලිමෙන්තු මන්ත්‍රීවරියක හා රාජ්‍ය අමාත්‍යවරියක වශයෙන් වසර 04කට ආසන්න කාලයක් කටයුතු කිරීමෙන් රාජ්‍ය මුදල් හා දේපළ අවභාවිතා කිරීම සම්බන්ධයෙන් හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මියට එරෙහිව අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිසම විමර්ශන ආරම්භ කර ඇත.
+The Bribery Commission in Sri Lanka has launched an investigation into allegations of corruption against former State Minister Diana Gamage. The probe focuses on her actions during her tenure as a government minister, involving misuse of public funds and properties. The investigation was initiated based on a complaint lodged by the Chairman of the Organization Industry Thathra, highlighting issues related to the Bribery Act and Government Finance.
 
-හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය පාර්ලිමෙන්තු මන්ත්‍රීවරියක හා රාජ්‍ය අමාත්‍යවරියක වශයෙන් කටයුතු කරමින් රාජ්‍ය මුදල් හා දේපළ අවභාවිතා අල්ලස් පනතේ සඳහන් දුෂණය නමැති වරද කර ඇති බවට ලැබුණු පැමිණිල්ලකට අනුව අල්ලස් කොමිසම මෙම විමර්ශනය ආරම්භ කර ඇත.
+🟩
 
-ලංකාවේ පුරවැසියකු නොවන බව දනිමින්ම පාර්ලිමෙන්තු මන්ත්‍රීවරියක හා රාජ්‍ය අමාත්‍යවරියක වශයෙන් හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය කටයුතු කිරීමෙන් රාජ්‍ය මුදල් හා දේපළ අවභාවිතා කිරීම සම්බන්ධයෙන් විමර්ශනයක් කර ඇය අවභාවිතා කළ මුදල් ආපසු අයකරගන්නා ලෙසත් ඇයට එරෙහිව නඩු පවරන ලෙසත් ඉල්ලමින් ‘අල්ලස දූෂණය හා නාස්තියට එරෙහි පුරවැසි බලය’ සංවිධානයේ සභාපති කාමන්ත තුෂාර මහතා කළ පැමිණිල්ලකට අනුව අල්ලස් කොමිසම මෙම විමර්ශනය ආරම්භ කර ඇත.
+Investigation Commission has commenced investigations against former State Minister Diyanama Gamage against former state minister Diana Gamage about four years as a government minister and state minister in Sri Lanka.
+
+Former State Minister Diana Gamage was a complaint lodged by a complaint that the corruption of the Bribal of Bribery Act, the Government Finance and Property.
+
+Citizenship of Bribervala Corruption and Citizenship of Bribery Asked as a citizen of Sri Lanka and a state minister Diyanama Gamage as an inquiry of state money and property.The Bribery Commission has commenced this investigation into a complaint lodged by the Chairman of the Organization Industry Thathra.
+
+Mrs. Diana Gamage was a national list of national lists in August 2020, he said that she was a member of the State Ministers and her seat was abolished as a parliamentary privilege as a Member of Parliament and the State Minister.Mentioned that it was enjoyed.
 
 ...
 
 [Data](articles/9068722a.json)
+
+[Extended Data](ext_articles/9068722a.ext.json)
 
 ---
 
@@ -2135,37 +2167,5 @@ The rally is attended by Ministers Prasanna Ranatunga, Kanchana Wijesekera, Ali 
 [Data](articles/226b0adc.json)
 
 [Extended Data](ext_articles/226b0adc.ext.json)
-
----
-
-### Nakato arrested for public servants
-
-*2024-06-30 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198328) · `si`
-
-In Bandaragama, two individuals claiming to be dancers were allegedly assaulted by officials during a heritage program. The incident occurred at the Etagama Bamunumulla Services on the 27th, where a freehold deeds scheme was held. One of the victims is a dancer whose grandmother's land deed he holds. The other victim is his close friend. A development officer filed a complaint after witnessing the attack, which was captured on video.
-
-🟩
-
-The Bandaragama Police have received a complaint against two persons who claimed to be attacked by the officials in Bandaragama, Bamunumulla service.
-
-One of those person maintains a pelivery is a dancer. It is learned that the other person is his closest goal dancer.
-
-The grandmother's grandmother died about a year ago and had been named the younger brother, and the younger brother of the age of 18.
-
-After the death of the grandmother, the deed of the deed of the deed of the land was in the custody of the deed of the deed.
-
-Causes him to know that the whole land was planned to sell his dance for Rs.
-
-Under the heritage program, freehold deeds scheme was held on the Etagama Bamunumulla Services on the 27th.
-
-A development officer has lodged a complaint with the police that his disciple was blown with the dance to the site and claimed to be attacked and attacked.
-
-The videos shown by the two of them threatened the officers with the complaint with the police.
-
-◼️
-
-[Data](articles/f57f6ccf.json)
-
-[Extended Data](ext_articles/f57f6ccf.ext.json)
 
 ---

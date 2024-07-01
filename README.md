@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 10:19:45**
+As of **2024-07-01 10:35:09**
 
 ## Newspaper Stats
 
-*Scraped **33,027** Articles*
+*Scraped **33,034** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,55 @@ bbccomsinhala | 322
 newsfirstlk | 363
 islandlk | 1,845
 economynextcom | 1,929
-dailyftlk | 2,035
+dailyftlk | 2,036
 adalk | 2,933
-adaderanalk | 3,763
-tamilmirrorlk | 3,905
+adaderanalk | 3,764
+tamilmirrorlk | 3,909
 dailymirrorlk | 4,733
 virakesarilk | 5,139
-adaderanasinhalalk | 5,456
+adaderanasinhalalk | 5,457
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,026 (100.0%) of 33,027 articles have been extended.
+33,027 (100.0%) of 33,034 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
+
+### පියුමි හංසමාලි නීතිවිරෝධී වත්කම් විමර්ශන ඒකකයට
+
+*2024-07-01 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198350) · `si`
+
+ප්‍රසිද්ධ නිරූපන ශිල්පිනයක් වන පියුමි හංසමාලීව අද (01) උදෑසන අපරාධ පරීක්ෂණ දෙපාර්තුමේන්තුවේ නීතිවිරෝධී වත්කම් විමර්ශන ඒකකයට පැමිණ තිබේ.
+
+ඒ ඇය සැකසහිත ලෙස රුපියල් කෝටි ගණනක දේපොළ උපයාගෙන ඇතැයි කියමින් ලද පැමිණිල්ලකට අනුව සිදුකරන විමර්ශනයකට අදාළව ප්‍රකාශයක් ලබාදීම සඳහාය.
+
+◼️
+
+[Data](articles/42de251d.json)
+
+---
+
+### US says elections in Iran ‘not free and fair’, won’t change regime’s direction
+
+*2024-07-01 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100211/us-says-elections-in-iran-not-free-and-fair-wont-change-regimes-direction) · `en`
+
+Iran’s elections are not ‘free and fair,’ the US State Department told Iran International on Sunday, in its first comments on the results of Friday’s votes that led to a runoff between a moderate and a hardline candidate.
+
+The June 28 presidential election marked the lowest voter turnout in the history of the Islamic Republic, with only 39.92 percent participation. This breaks the previous record set during the last election, in which the late President Ebrahim Raisi won with a turnout of 48 percent.
+
+“The elections in Iran are not free and fair,” a State Department spokesperson said.
+
+“Unfortunately, we have no expectation that these elections, whatever the outcome, will lead to fundamental change in Iran’s direction or more respect by the Iranian regime for the human rights of Iran’s citizens,” the spokesperson added, as the Iranian government prepares for a runoff presidential election slated for July 5.
+
+...
+
+[Data](articles/8d9320e9.json)
+
+---
 
 ### Grama Niladhari officers warns of continuous strike
 
@@ -45,6 +77,28 @@ Meanwhile, Kodikara warned that if their issues are not adequately addressed, th
 ◼️
 
 [Data](articles/93892dc8.json)
+
+[Extended Data](ext_articles/93892dc8.ext.json)
+
+---
+
+### 24 மணி நேரத்திற்கு  சிவப்பு எச்சரிக்கை விடுக்கப்பட்டது
+
+*2024-07-01 09:56:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணி-நேரத்திற்கு-சிவப்பு-எச்சரிக்கை-விடுக்கப்பட்டது/175-339682) · `ta`
+
+பலத்த காற்று மற்றும் கடல் ​கொந்தளிப்புடன் காணப்படுவதால் அரபிக் கடல் பகுதியில் மீன்பிடி மற்றும் கடல்சார் சமூகத்தை அவதானமாக செயற்படுமாறு வளிமண்டலவியல் திணைக்களம் சிவப்பு எச்சரிக்கையை விடுத்துள்ளது.
+
+தென்மேற்கு பருவநிலை தீவிரமாக இருப்பதால் அரபிக் கடல் பகுதி மிகவும் கொந்தளிப்பாக இருக்கும்.
+
+இதேவேளை, மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சிறிதளவு மழை பெய்யும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+ஊவா மாகாணம், அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களில் மாலை அல்லது இரவு வேளைகளில் சில இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும், வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் காற்று இடைக்கிடையில் 40-50 கிலோ மீற்றர் வேகத்தில் காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் மேலும் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/29ed1974.json)
 
 ---
 
@@ -63,6 +117,62 @@ Sri Lanka Navy has arrested a group of Indian fishermen who were illegally engag
 [Data](articles/ad08bfa6.json)
 
 [Extended Data](ext_articles/ad08bfa6.ext.json)
+
+---
+
+### இறுதிக் கிரியை பற்றிய தகவல்
+
+*2024-07-01 09:52:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறுதிக்-கிரியை-பற்றிய-தகவல்/175-339680) · `ta`
+
+தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவரும் இலங்கைத் தமிழரசுக் கட்சியின் தலைவருமான திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினர் இராஜவரோதயம் சம்பந்தன் தமது 91ஆவது வயதில் நேற்று இரவு காலமானார்.
+
+உடல் நலக்குறைவினால் கொழும்பிலுள்ள தனியார் வைத்தியசாலை ஒன்றில் அனுமதிக்கப்பட்டிருந்த அவர், நேற்றிரவு 11 மணியளவில் காலமானதாக தெரிவிக்கப்படுகின்றது.
+
+அன்னாரின் பூதவுடல் அஞ்சலிக்காக கொழும்பில் மலர்சாலையில் வைக்கப்பட்டு அதன்பின்னர் அவரது பூதவுடல் பாராளுமன்றத்தில் அஞ்சலிக்காக வைக்கப்படவுள்ளது.
+
+அதன்பின்னர் அன்னாரின் பூதவுடல் இறுதிக் கிரியைகளுக்காக அவரின் சொந்த ஊரான திருகோணமலைக்குக் கொண்டு செல்லப்படும் என்றும் அறிவிக்கப்பட்டுள்ளது.
+
+இறுதிக் கிரியைகள் தொடர்பான விபரம் பின்னர் அறிவிக்கப்படும் என பாராளுமன்ற உறுப்பினர் எம்.ஏ. சுமந்திரன் அறிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/74708ad2.json)
+
+---
+
+### சம்பந்தனின் மறைவுக்கு மஹிந்த இரங்கல்
+
+*2024-07-01 09:45:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனின்-மறைவுக்கு-மஹிந்த-இரங்கல்/175-339679) · `ta`
+
+இலங்கை தமிழரசுக்கட்சியின் தலைவர் ஆர்.சம்பந்தனின் மறைவுக்கு மஹிந்த ராஜபக்ஷ டுவிட்டரில் தனது இரங்கலைத் தெரிவித்தார்.
+
+‘அவர் ஒரு பழைய நண்பர். நாங்கள் பல நாட்கள் பல்வேறு விடயங்களைப் பற்றி விவாதித்தோம். அவரது மறைவு இலங்கை அரசியல் சகோதரத்துவத்திற்கு ஒரு இழப்பு . அவரது குடும்பத்தினர் மற்றும் நண்பர்களுக்கு ஆறுதலை கூற விரும்புகிறேன்.’ என்று குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/28d369ce.json)
+
+---
+
+### சம்பந்தன் மறைவுக்கு அங்கஜன் இரங்கல்
+
+*2024-07-01 09:41:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தன்-மறைவுக்கு-அங்கஜன்-இரங்கல்/175-339678) · `ta`
+
+இலங்கை தமிழரசு கட்சியின் முன்னாள் தலைவரும், தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவரும், முன்னாள் எதிர்க்கட்சி தலைவரும், திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இரா.சம்பந்தன் மறைவுக்கு யாழ். மாவட்ட பாராளுமன்ற உறுப்பினர்
+
+அன்னாரின் இழப்பு தமிழ்த் தேசிய அரசியல் பரப்புக்கு பேரிழப்பாகும். தனது சட்டத் தொழிலை தியாகம் செய்து தன்னை மக்கள் அரசியலில் ஈடுபடுத்திய பெருமகனார் அவர்.
+
+தமிழர்களின் மூன்று வகையான போராட்ட காலங்களிலும் தனது அரசியல் சாணக்கியத்தையும், அனுபவத்தையும் பல சந்தர்ப்பங்களில் இராஜதந்திரங்களாக அவர் பயன்படுத்தியிருந்ததை இத்தருணத்தில் நினைவில் கொள்ள வேண்டும்.
+
+திருகோணமலை மாவட்டத்தின் தமிழர் பிரதிநிதித்துவத்தின் இறுதி நம்பிக்கையாக திகழ்ந்த அவரது இழப்பு ஈடுசெய்யப்பட முடியாதது.
+
+வரலாற்று பாரம்பரியம் மிக்க கட்சியையும், வேறுபட்ட நீரோட்டங்களில் பயணித்த கட்சிகளின் கூட்டமைப்பையும் தனது இயலுமைக்காலங்கள் அனைத்திலும் தன் ஆளுமையால் சிதைவடையாது காப்பாற்றியதில் அவருக்கு இணை அவர் மட்டுமே.
+
+இலங்கைத் தமிழர்களின் அரசியல் வரலாற்றின் நீண்டகால அனுபவப் பக்கமொன்றை எங்கள் இனம் இன்று இழந்துள்ளது.
+
+...
+
+[Data](articles/d142c85e.json)
 
 ---
 
@@ -351,6 +461,22 @@ Twelve years ago, ex-Foreign Secretary, H.M.G.S. Palihakkara, chairing the late 
 [Data](articles/90bd0f52.json)
 
 [Extended Data](ext_articles/90bd0f52.ext.json)
+
+---
+
+### Rock, paper, scissors: Sri Lanka’s mineral merry-go-round
+
+*2024-07-01 05:31:53* · [`dailyftlk`](https://www.ft.lk/columns/Rock-paper-scissors-Sri-Lanka-s-mineral-merry-go-round/4-763700) · `en`
+
+We can achieve little in isolation in this modern milieu, and this rings true even in the muddy business of minerals and mining
+
+Sri Lanka’s mineral resources were once again in the spotlight recently, when news broke that India had shown interest in acquiring mines in Sri Lanka. As detailed in a study by the Institute of Policy Studies earlier this year, the local graphite industry must reposition itself with adequate international partnerships to take maximum advantage of the resource. Sri Lanka has about 1.5 million tonnes of graphite, which is inadequate to meet serious international demand, but the quality of the deposit promises a high price.
+
+German investment via Bogala Graphite Ltd. over the past two decades have seen significant value addition and enhanced operating standards, and despite a 70% decline in operating profits last year due to global exigencies the sector has grown well with foreign participation.
+
+...
+
+[Data](articles/25fb60d1.json)
 
 ---
 
@@ -2019,145 +2145,5 @@ Former Governor of the Eastern Province Hizbullah took the problems when the gro
 [Data](articles/d139b998.json)
 
 [Extended Data](ext_articles/d139b998.ext.json)
-
----
-
-### New York Police shooting child who showed a toy pistol
-
-*2024-06-30 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198331) · `si`
-
-In Utica, NY, a 13-year-old boy was fatally shot by state police. The incident occurred as the boy, carrying a toy gun, fled from officers. Despite being unarmed, he was pursued and shot in the chest, leading to his death.
-
-🟩
-
-A 13-year-old child was killed by the New York State Police in the United States.
-
-Police say that a police officer shot dead to him.
-
-The previous few days in the area of ​​Utika, the police said that police officers were deployed.
-
-NYAH MWAY, when the child was walking along the road with his friend, Nyah Mway has escaped when the police are driving from them.
-
-The police officers followed him and held a child and a police officer in the ground.
-
-The bullet had hit the child's chest and the child died after hospitalization.
-
-◼️
-
-[Data](articles/f6bd5813.json)
-
-[Extended Data](ext_articles/f6bd5813.ext.json)
-
----
-
-### Is The News Really Good?
-
-*2024-06-30 18:06:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-the-news-really-good/) · `en`
-
-When a bankrupt country receives good news, it raises great expectations in the hearts of its people. Last week, the government gave extensive publicity to this so-called good news. Consequently, various opposition groups were very concerned about this trend. Some were worried if this was genuinely good news, while others were anxious to learn more details about it. Nevertheless, at first glance, being able to restructure bilateral debts and officially come out of bankruptcy should be good news for the people of a bankrupt country. This is particularly true for those who have suffered in long queues for oil and gas, and for the business community that had to stop operations due to the inability to open letters of credit. However, it seemed that this news was not very favorable for political groups hoping to seize state power in the near future.
-
-...
-
-[Data](articles/5e2e5464.json)
-
-[Extended Data](ext_articles/5e2e5464.ext.json)
-
----
-
-### Tamil politics
-
-*2024-06-30 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/187321) · `ta`
-
-The LTTE's main flaw was its lack of national unity, causing many to be excluded from the struggle. This led to the downfall of their later efforts. Today, what's needed isn't "tiger politics" but understanding and leadership that embraces all Tamils.
-
-🟩
-
-The biggest drawback in the politics of the Liberation Tigers of Tamil Eelam (LTTE) is not interested in mobilizing the nation. The result was a large number of people postponed outside the national struggle. This was the recession of the later struggle. In fact, what is currently needed is not a tiger politics. This fact is not ready to understand the leading. This leads to a continuing historical impairment.
-
-◼️
-
-[Data](articles/5f642e69.json)
-
-[Extended Data](ext_articles/5f642e69.ext.json)
-
----
-
-### Kituma Army Commander?
-
-*2024-06-30 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/187318) · `ta`
-
-Major General Rohitha Alagavara, despite being named chief minister of Prabhakaran's body, faces challenges reaching the Army Commander post due to his affiliation with the Vijayabha Brigade.
-
-🟩
-
-Although Major General Rohitha Alagavara has been appointed as the chief minister of Prabhakaran's body, it is difficult to achieve the high position of the Army Commander because he belongs to the Vijayabha Brigade.
-
-◼️
-
-[Data](articles/f44c8b82.json)
-
-[Extended Data](ext_articles/f44c8b82.ext.json)
-
----
-
-### Rohit who ate the grounds of the stadium
-
-*2024-06-30 17:27:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/மைதானத்தின்-மண்ணை-சாப்பிட்ட-ரோகித்/44-339658) · `ta`
-
-Under Rohit Sharma's leadership, India clinched the T20 World Cup after 17 years, defeating Australia in the final. The emotional moment saw Rohit eating soil from the Barbados Ground, a gesture that resonated with fans worldwide and went viral on social media.
-
-🟩
-
-Rohit Sharma-led Indian team won the Championship in the 9th T20 World Cup in the US and West Indies. Fans are excited about winning India's championship in the T20 World Cup 17 years later.
-
-Indian team led by Rohit Sharma. Test defeated in the finals of the Test Championship and the 50 -over World Cup series. Emotioned Rohit ate the soil of Barbados Ground to commemorate this victory. This video has gone viral on social networks.
-
-◼️
-
-[Data](articles/398d9202.json)
-
-[Extended Data](ext_articles/398d9202.ext.json)
-
----
-
-### The drunk driver stops the train and get the post
-
-*2024-06-30 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198330) · `si`
-
-A drunk driver caused chaos on a train journey from Colombo to Kandy, leading to his arrest by passengers before being handed over to the Railway Security Division. The incident delayed the train's arrival in Kandy, reaching at 10:30 PM instead of the scheduled 6:40 PM.
-
-🟩
-
-It is reported that the driver of the train who started traveling from Colombo to Kandy today (30) has opened the driver of the train.
-
-The passengers on the train had pursued him and seized him and was deployed to the train to the railway station.
-
-The drunk driver was handed over to the Railway Security Division through the Railway Security Officer.
-
-The trains were to reach Kandy to Kandy 1.40.  එහෙත් දුම්රිය පැමිණියේ සවස 2.30ට බව මගීන් පැවසීය.
-
-◼️
-
-[Data](articles/c8788e6d.json)
-
-[Extended Data](ext_articles/c8788e6d.ext.json)
-
----
-
-### Pastor
-
-*2024-06-30 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/187316) · `ta`
-
-President Ranil Wickremesinghe may have enlisted Mannar Bishop's help to resolve project disruptions in Mannar, which isn't unexpected.
-
-🟩
-
-It is not surprising if President Ranil Wickremesinghe sought to use the Mannar Bishop to eliminate the disruption of the projects in Mannar.
-
-◼️
-
-[Data](articles/f548a9ea.json)
-
-[Extended Data](ext_articles/f548a9ea.ext.json)
 
 ---

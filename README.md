@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 00:19:36**
+As of **2024-07-02 00:35:10**
 
 ## Newspaper Stats
 
-*Scraped **33,167** Articles*
+*Scraped **33,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 324
 newsfirstlk | 363
 islandlk | 1,846
 economynextcom | 1,940
-dailyftlk | 2,036
+dailyftlk | 2,041
 adalk | 2,952
 adaderanalk | 3,779
 tamilmirrorlk | 3,924
@@ -26,29 +26,97 @@ adaderanasinhalalk | 5,487
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,166 (100.0%) of 33,167 articles have been extended.
+33,167 (100.0%) of 33,172 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### அதிகாரிகளை பூட்டி வைத்துக் கொண்டு அச்சுறுத்திய நபர்
+### Debt-to-GDP ratio and foreign reserves, the measures of a country’s economic health
+
+*2024-07-01 23:29:28* · [`dailyftlk`](https://www.ft.lk/columns/Debt-to-GDP-ratio-and-foreign-reserves-the-measures-of-a-country-s-economic-health/4-763722) · `en`
+
+The Treasury is aware that the country is in a difficult place. But that difficulty is not visible on the surface. Fuel is available, electricity is available and public and private transportation is in place. It’s the mirage that seems to matter to most rather than reality
+
+“At the Treasury we are aware that the country is in a difficult place. But that difficulty is not visible on the surface. Fuel is available, electricity is available and public and private transportation is in place. As public servants, we got our salaries because the government didn’t impose pay cuts like in Greece during the bailout program of the International Monetary Fund. That’s a good thing. But we still pay the salaries with difficulty” – Mahinda Siriwardana, Secretary to the Treasury and the Ministry of Finance (https://island.lk/treasury-secretary-urges-public-to-have-a-pragmatic-view-of-economy-and-fiscal-discipline/)
+
+...
+
+[Data](articles/1989fcf2.json)
+
+---
+
+### The person who threatened the authorities
 
 *2024-07-01 23:26:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/அதிகாரிகளை-பூட்டி-வைத்துக்-கொண்டு-அச்சுறுத்திய-நபர்/71-339727) · `ta`
 
-யாழ்ப்பாணம் - இராமநாதன் வீதியில் கலட்டிச் சந்தியில் உள்ள  மருந்தகமொன்றை சோதனையிடச் சென்ற அரச உத்தியோகத்தர்கள் இருவரை பூட்டி வைத்த உரிமையாளரை பொலிஸார் இன்று கைது செய்தனர்.
+A pharmacy owner was arrested for locking out and threatening health ministry officials during a permit inspection. Charged with drug sales without permission and obstructing public duties, he faces investigation and court proceedings.
 
-சுகாதார அமைச்சகத்தின் உணவு கட்டுப்பாடு நிர்வாக பிரிவு உத்தியோகத்தர்கள் இருவர் மருந்தகத்தின் அனுமதி தொடர்பாக மருந்தகமொன்றை சோதனையிட சென்றனர்.
+🟩
 
-சோதனையில் அதிகாரிகள் ஈடுபட்டிருக்கும் போது அதிகாரிகளை கடை உரிமையாளர் மருந்தகத்திற்குள் வைத்து பூட்டி அச்சுறுத்தியுள்ளார். இது தொடர்பில் யாழ்ப்பாண மாவட்ட விசேட குற்றத்தடுப்பு பிரிவு பொலிஸாருக்கு அரச அதிகாரிகளால் முறைப்பாடு செய்யப்பட்டது.
+Police have arrested the owner of two state officials who locked up a pharmacy at Kalati Junction on Jaffna - Ramanathan Road.
 
-இதனையடுத்து சம்பவ இடத்திற்கு வந்த யாழ்ப்பாண மாவட்ட விசேட குற்றத்தடுப்பு பிரிவு பொலிஸார், அனுமதியின்றி மருந்து விற்பனையில் ஈடுபட்டமை மற்றும் அரச உத்தியோகத்தர்களின் கடமைக்கு இடையூறு விளைவித்தமை உள்ளிட்ட குற்றச்சாட்டின் கீழ் கடை உரிமையாளரை கைது செய்தனர்.
+Two officers of the Food Control Administration Division of the Ministry of Health went to check a pharmacy regarding the permission of the pharmacy.
 
-சந்தேகநபரை யாழ்ப்பாணம் பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணை நடத்தும் பொலிஸார், விசாரணைகளுக்கு பின்னர் சந்தேக நபரை யாழ்ப்பாணம் நீதிவான் நீதிமன்றத்தில் முற்படுத்த நடவடிக்கை எடுத்துள்ளனர். R
+The shop owner locked and threatened the authorities while the authorities were involved in the test. The Jaffna District Special Crime Division has lodged a complaint with the state officials.
+
+Subsequently, the Jaffna District Special Crime Division police arrested the shop owner on charges of selling drugs without permission and disrupting the duty of public officials.
+
+Police are investigating the suspect at the Jaffna Police Station and the suspect is taken to the Jaffna Magistrate's Court after investigations.. Remble
 
 ◼️
 
 [Data](articles/95f4516f.json)
+
+[Extended Data](ext_articles/95f4516f.ext.json)
+
+---
+
+### Imputed rental income tax: Gateway to corruption on a massive scale
+
+*2024-07-01 23:21:49* · [`dailyftlk`](https://www.ft.lk/columns/Imputed-rental-income-tax-Gateway-to-corruption-on-a-massive-scale/4-763721) · `en`
+
+This flawed system provides the assessor a great deal of authority and gives them the opportunity to pocket a buck for themselves
+
+By 1 April 2025 the Government proposes to implement a wealth tax by way of an “imputed rental income” on property as a precursor to a land tax. In simple terms the meaning of “imputed rental income” is the estimated rental income of a property if it were rented. The mere assumption of a rental income is very much subjective and cannot in any effect be a guide to govern taxes.
+
+In reality, imputed rent is exactly what the Local Councils are already obtaining from property owners by way of Municipality Rates. Hence the new “imputed rental income” is just a facade to re-tax the citizen who is already taxed twice over on the same income, first by the Municipality on the imputed rent and secondly by the Inland Revenue based on actual income of the same property.
+
+...
+
+[Data](articles/1977bcb7.json)
+
+---
+
+### Current status of construction contractors in time of crisis and implications on economy
+
+*2024-07-01 23:16:21* · [`dailyftlk`](https://www.ft.lk/opinion/Current-status-of-construction-contractors-in-time-of-crisis-and-implications-on-economy/14-763719) · `en`
+
+Construction contractors are the unsung heroes working tirelessly to build the nation’s infrastructure
+
+As we navigate through these challenging times, it is crucial for policymakers, financial institutions, and industry leaders to work together to ensure the resilience and sustainability of Sri Lanka’s construction sector. By investing and infusing funds through the construction contractors to stimulate in the sector’s recovery and growth, we can create jobs, stimulate economic activity, and build a brighter future for all Sri Lankans
+
+...
+
+[Data](articles/9c01519c.json)
+
+---
+
+### When one thing leads to nothing
+
+*2024-07-01 23:07:07* · [`dailyftlk`](https://www.ft.lk/columns/When-one-thing-leads-to-nothing/4-763718) · `en`
+
+In the late 1970s, during the rising tide of neoliberal globalisation, many countries in the Global South opened up their economies to foreign capital in order to build a so-called export-oriented economy. The ethos that drove such reforms can be divided into two camps:
+
+In China, pragmatism prevailed, with Chairman Deng Xiaoping stating, “To cross the river, feel for the stones.”
+
+In Sri Lanka, there was an ideological faith in markets and foreign capital, with then President J.R. Jayewardene stating, “Let the robber barons come.”
+
+Today, one of these countries has defaulted on its external debt and is undergoing its 17th IMF program. The other is the world’s factory, contributing to over 35% of global manufacturing value-added and expected to lead the next business cycle. No prizes for guessing which is which.
+
+...
+
+[Data](articles/545de7e7.json)
 
 ---
 
@@ -395,6 +463,22 @@ He said the benefits of introducing new technology to the agriculture sector are
 [Data](articles/8c0b0fad.json)
 
 [Extended Data](ext_articles/8c0b0fad.ext.json)
+
+---
+
+### Debt restructuring and taxes
+
+*2024-07-01 20:16:28* · [`dailyftlk`](https://www.ft.lk/columns/Debt-restructuring-and-taxes/4-763711) · `en`
+
+For debt restructuring to work, both sides must lose; both sides must gain
+
+As someone who has been trying for many years to get Sri Lankans to think more intelligently about the economy, these past days have been quite disappointing. The economic illiteracy of the masses can be understood. But what about the elites who are ranting about the
+
+The latest complaint is that the bilateral debt was postponed, not forgiven partially. Over the past two years, it was explained many times that debt restructuring can take many forms: a haircut (or the reduction of the principal due); adjustment of the payment period; and changes to the interest charged. In all cases, the creditor takes a hit. In all cases, the debtor does not get off scot-free. For debt restructuring to work, both sides must lose; both sides must gain.
+
+...
+
+[Data](articles/3f81c989.json)
 
 ---
 
@@ -2327,119 +2411,5 @@ The victim was 42-year-old wishes of the vessel, Dilshan, 32-year-old Sujith San
 [Data](articles/bb70cd11.json)
 
 [Extended Data](ext_articles/bb70cd11.ext.json)
-
----
-
-### Woman arrested for allegedly sending a young man abroad
-
-*2024-07-01 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/187370) · `ta`
-
-A woman was arrested for allegedly defrauding Rs 50 lakhs by promising to send a young man from Jaffna abroad. The victim complained after realizing the scam, leading to her arrest and interrogation by the police.
-
-🟩
-
-A woman has been arrested for allegedly defrauding Rs 50 lakhs for allegedly sending a young man from Jaffna.
-
-A woman from Manipayi area has received money from a young man claiming to be sent abroad.
-
-The young man lodged a complaint at the police station as he refused to give it to his money when the young man had not been sent abroad for a long time.
-
-According to the complaint, the police have been arrested and interrogating the woman on charges of fraud.
-
-◼️
-
-[Data](articles/4aea4ab0.json)
-
-[Extended Data](ext_articles/4aea4ab0.ext.json)
-
----
-
-### Piyumi Hansamali questioned by CID; asserts legitimacy of wealth
-
-*2024-07-01 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100215/piyumi-hansamali-questioned-by-cid-asserts-legitimacy-of-wealth) · `en`
-
-Actress Piyumi Hansamali has appeared before the Illegal Assets Investigations Division of the Criminal Investigation Department (CID) this morning (01), to record a statement regarding an investigation into the alleged suspicious acquisition of property.
-
-Hansamali, emphasizing confidence in her innocence, stated to the reporters: “I have not done anything wrong, so there is no need to be afraid. We were actually summoned last week, but I only received the letter on Saturday. There are many documents that we need to get prepared…”
-
-Additionally, she explained the legitimacy of her business, stating that her income comes from selling cosmetics products.
-
-“People can see that one pack of my cream costs about Rs. 35,000 and I have sold 25,000 packs so far. They can do the math and see where I got the money from. We have carried out all related transactions through the banking system and are documented. Bank statements are in 5 bags. We did everything through the bank”, she added.
-
-...
-
-[Data](articles/b12d2819.json)
-
-[Extended Data](ext_articles/b12d2819.ext.json)
-
----
-
-### Mother demolished the mother to attack the mother
-
-*2024-07-01 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198354) · `si`
-
-A mother was severely injured by her own son, leading to hospitalization. The attacker, along with his family, left the area with property belonging to the victim. Authorities are investigating the case.
-
-🟩
-
-Her youngest son has been brutally assaulted by her youngest son.
-
-The mother has been admitted to the Siyambalanduwa Base Hospital due to heavy blood cutting due to the attack.
-
-The suspect, who had committed the attack, fled the area with his wife and child, and he had given him the home and the land built by mother and father.
-
-The son, who was a tumor near the land for the land, has been attacked by a triple.
-
-Our correspondent said that the mother had been assaulted and had three children and the son of attacked the assault.
-
-Officers of the Dombagahawela Police Station has launched a special investigation to arrest the suspect.
-
-◼️
-
-[Data](articles/cc1470ae.json)
-
-[Extended Data](ext_articles/cc1470ae.ext.json)
-
----
-
-### Three killed in light aircraft crash on motorway outside Paris
-
-*2024-07-01 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100214/three-killed-in-light-aircraft-crash-on-motorway-outside-paris) · `en`
-
-Three people were killed on Sunday when their light aircraft crashed onto a motorway east of Paris, the police and gendarmerie said.
-
-No car was hit in the crash of the plane onto the A4 motorway in Noisiel east of Paris which appeared to have been caused by the aircraft hitting an electric power cable, said a police source, asking not to be named, adding that the road had been blocked in both directions.
-
-◼️
-
-[Data](articles/88c69246.json)
-
-[Extended Data](ext_articles/88c69246.ext.json)
-
----
-
-### Does Bitan withdraw from contesting the presidential election?Family protest
-
-*2024-07-01 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/187367) · `ta`
-
-Joe Biden's family urges him not to withdraw from the presidential race, emphasizing his potential to beat Donald Trump and serve another term. Reports suggest Biden's past controversies with Trump could be key factors in his decision.
-
-🟩
-
-American media reports that Joe Bidan should contest the US presidential election and his family has insisted that he should not quit.
-
-The information has been revealed as Jobitin's stumbling blocks during the directory with former President Donald Trump has been made.
-
-The New York Times Times said that family members said that it could prove to the American people of Baitan that it could be the US president for four more years.
-
-Knowing that he was behaving in a very weak man in the first reason, his family considers one person who can defeat Donald Trump as Baidane.
-
-Jobidan's wife and son Hunter have been insisting that the request to quit the competition should be ignored.
-
-◼️
-
-[Data](articles/5eb3e377.json)
-
-[Extended Data](ext_articles/5eb3e377.ext.json)
 
 ---

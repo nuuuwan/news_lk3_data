@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 13:35:09**
+As of **2024-07-01 13:54:52**
 
 ## Newspaper Stats
 
-*Scraped **33,081** Articles*
+*Scraped **33,083** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,846
 economynextcom | 1,934
 dailyftlk | 2,036
-adalk | 2,940
+adalk | 2,941
 adaderanalk | 3,771
-tamilmirrorlk | 3,913
+tamilmirrorlk | 3,914
 dailymirrorlk | 4,733
 virakesarilk | 5,153
 adaderanasinhalalk | 5,465
@@ -26,33 +26,61 @@ adaderanasinhalalk | 5,465
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,078 (100.0%) of 33,081 articles have been extended.
+33,081 (100.0%) of 33,083 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### අභාවප්‍රාප්ත සම්පන්දන්ගේ දේහය බොරැල්ලට
+### விபத்தில் பாலகியும், சிறுவனும் படுகாயம்: ஐவருக்கு காயம்
+
+*2024-07-01 13:31:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-பாலகியும்-சிறுவனும்-படுகாயம்-ஐவருக்கு-காயம்/175-339695) · `ta`
+
+காரொன்றும் வேனொன்றும்  நேருக்கு நேர் மோதியதில் இரண்டு சிறுவர்கள் உட்பட 7 பேர் காயமடைந்துள்ளதாக பண்டாரகம பொலிஸார் தெரிவிக்கின்றனர்.
+
+ஒரு குழுவினரை ஏற்றிச் சென்ற வேனும், காரொன்றும் மோதி விபத்துக்குள்ளானது. காயமடைந்தவர்களில் 8 மாத குழந்தையும் 2 வயது ஆண் குழந்தையும் உள்ளடங்குவதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+விபத்தை ஏற்படுத்தியதாக கூறப்படும் காரின் சாரதி அங்கிருந்து தப்பியோடிவிட்டார். காரின் முன் இருக்கைக்கு அருகில் ஓட்டுநருக்கு சொந்தமானது என நம்பப்படும் ஓட்டுநர் உரிமம் அடங்கிய பணப்பையை பொலிஸார் மீட்டுள்ளனர்.
+
+தற்போது சந்தேக நபரை பொலிஸார் தேடி வருகின்றனர். காயமடைந்தவர்கள் சிகிச்சைக்காக மருத்துவமனைக்கு கொண்டு செல்லப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/27d68665.json)
+
+---
+
+### The remains of the late Sampanthan to Borella
 
 *2024-07-01 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198358) · `si`
 
-අභාවප්‍රාප්ත හිටපු විපක්ෂ නායකවරයෙකු මෙන්ම දෙමළ ජාතික සන්ධානයේ නායක පාර්ලිමේන්තු මන්ත්‍රී ආර්. සම්පන්දන් මහතාගේ දේහය බොරැල්ලේ පිහිටි පෞද්ගලික මල්ශාලාවක් වෙත අද (01) උදෑසන රැගෙන ගියේය.
+Sampanthan, a prominent figure in Sri Lanka's Tamil political movement, passed away after a brief illness. Born on February 5, 1933, he began his political career in 1977, becoming a key advocate for Tamil rights. Serving as a Member of Parliament from 1977 to 1983 and again from 2001, he was also the 14th Opposition Leader. His contributions spanned over five decades, making him a significant figure in the fight for equality among all Sri Lankans. Leaders like Sajith Premadasa and Mahinda Rajapaksa have expressed their condolences, highlighting his impact on the nation's political landscape.
 
-කලක් රෝගාතුරව සිටි ඒ මහතා කොළඹ පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටියදී ඊයේ (30) රාත්‍රියේ අභාවප්‍රාප්ත විය.
+🟩
 
-1933 පෙබරවාරි මස 05 වැනිදා උපත ලද රාජවරෝදියම් සම්පන්දන් මහතාව කවුරුත් හඳුනාගෙන සිටියේ ආර්. සම්පන්දන් ලෙසය.
+Late Opposition Leader as well as the Leader of the TNA leader. Mr. Sampanthan's body was taken to a private fleeing in Borella today (01).
 
-යාපනය ශාන්ත පැට්‍රික් විද්‍යාලයෙන් මූලික අධ්‍යාපනය හැදෑරූ ඔහු තවත් පාසල් කිහිපයකින්ම අධ්‍යාපනය හදාරා තිබුණි.
+He passed away last night while he was admitted to a private hospital in Colombo.
 
-වෘත්තියෙන් නීතීඥවරයකු වූ ඒ මහතා දෙමළ එක්සත් විමුක්ති පෙරමුණ නියෝජනය කරමින් 1977 වසරේ පැවති මහ මැතිවරණයෙන් ත්‍රිකුණාමලය දිස්ත්‍රික්කය නියෝජනය කරමින් පළමුවරට පාර්ලිමේන්තු වරම් දිනාගත්තේය.
+Rather, born on February 5, 1933, everyone recognized. As pigments.
 
-ඒ අනුව 1977 සිට 1983 දක්වාත් , 1997 සිට 2000 දක්වාත් , 2001 සිට මියෙනතුරුත් ඔහු පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස කටයුතු කළේය.
+He studied the primary education at St. Patrick's College, Jaffna and studied in several other schools.
 
-යහපාලන ආණ්ඩුව පැවති සමයේ වසර 3ක කාලයක් ආර්. සම්පන්දන් මහතා මෙරට පාර්ලිමේන්තුවේ 14 වැනි විපක්ෂ නායකවරයා ලෙසද පත්ව සිටියේය.
+He was the first to win the Trincomalee District in the 1977 General Election representing the Tamil United Liberation Front.
+
+Accordingly, from 1977 to 1983 and since 2001, he was a Member of Parliament.
+
+Rather than 3 years during the good governance government. Mr. Sampanthan was also elected as the 14th Opposition Leader of the Parliament.
+
+Relevant vacons for the rights of the Tamil people. Sampanthan was a central and crucial factor in the Tamil political movement of the country.
+
+Meanwhile. Leader of the Opposition Leader Sajith Premadasa has expressed his condolences on the death of Mr. Sampanthan.
 
 ...
 
 [Data](articles/fc10e8a7.json)
+
+[Extended Data](ext_articles/fc10e8a7.ext.json)
 
 ---
 
@@ -68,21 +96,29 @@ The NTC communicated this to the public in a special media briefing held this af
 
 [Data](articles/ae6c5c10.json)
 
+[Extended Data](ext_articles/ae6c5c10.ext.json)
+
 ---
 
-### අද මධ්‍යම රාත්‍රියේ සිට බස් ගාස්තු පහළට
+### Bus fares down from midnight today
 
 *2024-07-01 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198357) · `si`
 
-අද (01) මධ්‍යම රාත්‍රියේ සිට සැලසුම් කළ ආකාරයෙන් 5.07%කින් බස් ගාස්තු පහළ දැමීමට ජාතික ගමනාගමන මණ්ඩලය තීරණය කර තිබේ.
+From midnight, the National Transport Board reduced bus fares by 5.07%, making it cheaper for passengers. The exact new fare amount was not specified but is expected to benefit commuters nationwide.
 
-ඒ අනුව අවම බස් ගාස්තුව රුපියල් දෙකකින් පහළ යන අතර එහි නව මිල රුපියල් 28කි.
+🟩
 
-ජාතික බස් ගාස්තු ප්‍රතිපත්තිය අනුව බස් ගාස්තු සංශෝධනය සිදුවන ආකාරය ප්‍රකාශයට පත් කිරීම සඳහා ජාතික ගමනාගමන කොමිසම ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් එහි සභාපති ශෂී වෙල්ගම මහතා මේ බව පැවසීය.
+The National Transport Board has decided to reduce the bus fare from 5.07% in the midnight today (01).
+
+Accordingly, the minimum bus fare will be down in rupees and its new price is Rs.
+
+The National Transport Commission was speaking at a press conference to publish how the bus fare policy is being revised.
 
 ◼️
 
 [Data](articles/a48978ec.json)
+
+[Extended Data](ext_articles/a48978ec.ext.json)
 
 ---
 
@@ -177,6 +213,18 @@ A video recorded by a person found in the area where the incident took place on 
 [Data](articles/933f706e.json)
 
 [Extended Data](ext_articles/933f706e.ext.json)
+
+---
+
+### පියුමි හංසමාලි නීතිවිරෝධී වත්කම් විමර්ශන ඒකකයට කැදවයි
+
+*2024-07-01 12:12:38* · [`adalk`](https://www.ada.lk/breaking_news/පියුමි-හංසමාලි-නීතිවිරෝධී-වත්කම්-විමර්ශන-ඒකකයට-කැදවයි/11-410540) · `si`
+
+සැකසහිත ලෙස රුපියල් කෝටි ගණනක දේපොළ උපයාගෙන ඇතැයි ලද පැමිණිල්ලකට අනුව සිදුකරන විමර්ශනයකට අදාළව ප්‍රකාශයක් ලබාදීම සඳහා ප්‍රසිද්ධ නිරූපන ශිල්පිනයක් වන පියුමි හංසමාලී අද (01) දින උදෑසන අපරාධ පරීක්ෂණ දෙපාර්තුමේන්තුවේ නීතිවිරෝධී වත්කම් විමර්ශන ඒකකයට කැදවා තිබේ.
+
+◼️
+
+[Data](articles/cb2a70e6.json)
 
 ---
 
@@ -2159,39 +2207,5 @@ I may have forgotten many things. If I forgot some of them, it is laughable to t
 [Data](articles/846203b9.json)
 
 [Extended Data](ext_articles/846203b9.ext.json)
-
----
-
-### AI Pazz, the first AI-powered legal research platform in Sri Lanka, transforms the legal industry
-
-*2024-07-01 00:58:00* · [`islandlk`](http://island.lk/ai-pazz-the-first-ai-powered-legal-research-platform-in-sri-lanka-transforms-the-legal-industry/) · `en`
-
-In a major transformation shift in the Sri Lankan legal industry, an artificial intelligence (AI) powered legal research platform has been introduced by RedBlocks AI (Pvt) Ltd, featuring the country’s largest legal database, addressing the critical pain points that have long hindered efficient legal research.
-
-At the recently concluded Sri Lanka Association for Software and Services Companies (SLASSCOM) Ingenuity Awards 2024, AI Pazz emerged as a major victor, securing 3rd Best start-up national award and Best Tech for Good national award.
-
-The team behind AI Pazz highlighted that the interest that is shown on the platform and the adaptability of the Sri Lankan legal industry is quite remarkable and encouraging, as many individuals, leading Law chambers and educational institutes have already onboarded within a short period of time.
-
-...
-
-[Data](articles/fb39b07b.json)
-
-[Extended Data](ext_articles/fb39b07b.ext.json)
-
----
-
-### Siyapatha Finance kicks off islandwide environmental cleaning project at 37 locations in one day
-
-*2024-07-01 00:57:00* · [`islandlk`](http://island.lk/siyapatha-finance-kicks-off-islandwide-environmental-cleaning-project-at-37-locations-in-one-day/) · `en`
-
-As part of its “Siyapathen Mihikathata” corporate social responsibility (CSR) programme, Siyapatha Finance PLC recently conducted a one-day cleaning project targeting religious places, public spaces and areas preserving important ecosystems. Organised ahead of World Environment Day that is commemorated on 05th June, the cleaning project was successfully carried out in 37 locations islandwide.
-
-In line with the company’s focus and commitment to infuse in the general public a sense of thoughtfulness and responsibility towards the environment, especially in the young, developing minds in the country, staff of Siyapatha teamed up in numbers to take the lead in fulfilling their shared CSR vision.
-
-...
-
-[Data](articles/26ef237e.json)
-
-[Extended Data](ext_articles/26ef237e.ext.json)
 
 ---

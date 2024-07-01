@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 08:54:07**
+As of **2024-07-01 09:05:49**
 
 ## Newspaper Stats
 
-*Scraped **33,018** Articles*
+*Scraped **33,021** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 302
 colombotelegraphcom | 302
-bbccomsinhala | 321
+bbccomsinhala | 322
 newsfirstlk | 363
 islandlk | 1,845
 economynextcom | 1,929
 dailyftlk | 2,035
 adalk | 2,932
-adaderanalk | 3,759
+adaderanalk | 3,761
 tamilmirrorlk | 3,905
 dailymirrorlk | 4,733
 virakesarilk | 5,139
@@ -26,21 +26,63 @@ adaderanasinhalalk | 5,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,017 (100.0%) of 33,018 articles have been extended.
+33,018 (100.0%) of 33,021 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### මාරක අනතුරු වැලක්
+### Met. Dept. issues ‘red alert’ for strong winds and rough seas
+
+*2024-07-01 08:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100208/met-dept-issues-red-alert-for-strong-winds-and-rough-seas) · `en`
+
+The Department of Meteorology has issued a ‘Red’ alert for strong winds and rough seas for Naval and Multi-day Fisherman communities in the Arabian Sea.
+
+Very strong winds of 70-80kmph, and very rough seas are likely over Arabian Sea area (in sea areas bounded by (07N - 20N) and (55E – 68E)) due to the active south-west monsoonal condition, the department warned.
+
+Furthermore, the department advised the naval and fishing communities not to venture into the sea areas marked in red on the map until further notice.  Those already in these regions should return to the coast or move to safer areas immediately.
+
+The general public, along with the fishing and naval communities, are urged to take precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Additionally, they are requested to stay attentive to future forecasts issued by the Department of Meteorology.
+
+◼️
+
+[Data](articles/62f8c25b.json)
+
+---
+
+### Several spells of light showers expected in parts of the island
+
+*2024-07-01 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100207/several-spells-of-light-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of light showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
+
+Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+◼️
+
+[Data](articles/b5b41d18.json)
+
+---
+
+### Fatal Accidents
 
 *2024-07-01 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198345) · `si`
 
-ඊයේ (30) සිදුවූ රිය අනතුරු කිහිපයකින් පුද්ගලයින් 5 දෙනෙකුට දිවි අහිමි වී තිබේ.
+Yesterday, five fatalities occurred due to various accidents.
+
+🟩
+
+Five people have lost their lives in several accidents yesterday (30).
 
 ◼️
 
 [Data](articles/95a1cc83.json)
+
+[Extended Data](ext_articles/95a1cc83.ext.json)
 
 ---
 
@@ -679,6 +721,24 @@ The general meeting organized by the Minister of Power and Power and Power, Kanj
 [Data](articles/1827335f.json)
 
 [Extended Data](ext_articles/1827335f.ext.json)
+
+---
+
+### 'අපේ සංස්කෘතියත් එක්ක මේක ලංකාවට සැර වැඩියි.'
+
+*2024-07-01 02:07:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cqql3qg5pe3o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''දිව වෙනස් කරහම කතා කරන්න ටිකක් අපහසු වුණා. මාසයක් විතර ගියා මට කතා කරන එක පුහුණු වෙන්න.''
+
+ශරීර අංග වෙනස් කිරීමේ කලාව (Body modification) ප්‍රිය කරන පිරිසක් ශ්‍රී ලංකාවේ ද දක්නට ලැබෙති. ඒ අතරින් දිවෙහි කොටසක් ඉවත් කර දිව දෙකක් ඇති බව පෙන්වීම කෙරෙහි විශේෂ අවධානයක් යොමු වේ.
+
+ටැටූ කලා ශිල්පියෙකු වන පවිත්‍ර මධුසංඛ ප්‍රනාන්දු ඔහුගේ ඇස්, දිව, කණ සහ අතක වෙනස්කම් සිදු කර තිබේ.
+
+'දිව වෙනස් කරහම කතා කරන්න ටිකක් අපහසු වුණා. මාසයක් විතර ගියා මට කතා කරන එක පුහුණු වෙන්න. අපේ සංස්කෘතියත් එක්ක මේක ලංකාවට සැර වැඩියි.' යනුවෙන් පවිත්‍ර BBC සිංහල වෙත පැවසුවේය.
+
+◼️
+
+[Data](articles/59481858.json)
 
 ---
 
@@ -2105,71 +2165,5 @@ The Land Dancer on the Gross Dancer on the 27th, the Land Unit of the Land Divis
 [Data](articles/6129cc9c.json)
 
 [Extended Data](ext_articles/6129cc9c.ext.json)
-
----
-
-### 267 kilograms of gold from Sri Lanka racket
-
-*2024-06-30 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198326) · `si`
-
-Customs officials at Chennai International Airport busted a gold smuggling ring involving 267 kg of gold smuggled from Sri Lanka over two months. The ringleaders and several employees have been identified and arrested, including a sales officer caught hiding gold in his body during inspection.
-
-🟩
-
-Customs officers at the Chennai International Airport have fled Sri Lanka to India.
-
-The PTI news service was reported that the racketeers had taken 267 kilograms of gold in Sri Lanka over Sri Lanka over the past two months.
-
-The racket was crashed at the airport, and according to intelligence, the owner and other employees of intelligence have been revealed.
-
-The authorities who inspected the conduct of a sales officer in the shop have been arrested by the authorities who had been arrested by a few pieces of gold he hidden in his body.
-
-Investigation revealed that the shop was hired by a group of Sri Lankans and employed eight employees.
-
-◼️
-
-[Data](articles/7b06ea0a.json)
-
-[Extended Data](ext_articles/7b06ea0a.ext.json)
-
----
-
-### ‘Urumaya’: Over 41, 000 land deeds granted to Monaragala District residents
-
-*2024-06-30 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100198/urumaya-over-41-000-land-deeds-granted-to-monaragala-district-residents-) · `en`
-
-President Ranil Wickremesinghe declared a Rs.25 million allocation for the restoration of tanks in the Divisional Secretariat Division, which issues the highest number of deeds under the “Urumaya” freehold land deeds program.
-
-He highlighted that these efforts are geared towards supporting farmers and advancing the country’s development, the President’s Media Division said.
-
-The President made these remarks while addressing the symbolic ceremony for the distribution of freehold land deeds to the beneficiaries in 11 divisional secretariat divisions of Monaragala district under the “Urumaya” national program, which provides 02 million freehold land deeds.
-
-The ceremony took place at the Mahinda Rajapaksa Conference Hall in Wellawaya today (30), where approximately 600 out of 41,960 beneficiaries received their deeds.
-
-...
-
-[Data](articles/1c48c496.json)
-
-[Extended Data](ext_articles/1c48c496.ext.json)
-
----
-
-### ‘Urumaya’: Over 41,000 land deeds granted to Monaragala District residents
-
-*2024-06-30 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100198/urumaya-over-41000-land-deeds-granted-to-monaragala-district-residents-) · `en`
-
-President Ranil Wickremesinghe declared a Rs.25 million allocation for the restoration of tanks in the Divisional Secretariat Division, which issues the highest number of deeds under the “Urumaya” freehold land deeds program.
-
-He highlighted that these efforts are geared towards supporting farmers and advancing the country’s development, the President’s Media Division said.
-
-The President made these remarks while addressing the symbolic ceremony for the distribution of freehold land deeds to the beneficiaries in 11 divisional secretariat divisions of Monaragala district under the “Urumaya” national program, which provides 02 million freehold land deeds.
-
-The ceremony took place at the Mahinda Rajapaksa Conference Hall in Wellawaya today (30), where approximately 600 out of 41,960 beneficiaries received their deeds.
-
-...
-
-[Data](articles/e46355c2.json)
-
-[Extended Data](ext_articles/e46355c2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 09:54:04**
+As of **2024-07-01 10:06:25**
 
 ## Newspaper Stats
 
-*Scraped **33,024** Articles*
+*Scraped **33,026** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ adaderanalk | 3,762
 tamilmirrorlk | 3,905
 dailymirrorlk | 4,733
 virakesarilk | 5,139
-adaderanasinhalalk | 5,454
+adaderanasinhalalk | 5,456
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,023 (100.0%) of 33,024 articles have been extended.
+33,024 (100.0%) of 33,026 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
+
+### තවත් ඉන්දීය ධීවරයින් පිරිසක් නාවික හමුදා භාරයට
+
+*2024-07-01 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198349) · `si`
+
+නීතිවිරෝධී ලෙස මෙරට මුහුදු ප්‍රදේශයේ ධීවර කටයුතුවල නිරත වූ ඉන්දීය ධීවරයින් පිරිසක් නාවික හමුදාව විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/ad08bfa6.json)
+
+---
+
+### ප්‍රංශයේ විවාහ මංගල්‍ය උත්සවයක් අතරතුර වෙඩි තැබීමක්
+
+*2024-07-01 09:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198348) · `si`
+
+ප්‍රංශයේ තුර්කි විවාහ මංගල්‍යයක් අතරතුර සිදුවූ වෙඩි තැබීමකින් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+එහිදි තවත් පුද්ගලයින් කිහිපදෙනෙකු ද තුවාල ලබා රෝහල්ගත කර ඇති අතර ඔවුන්ගෙන් තිදෙනෙකුගේ තත්ත්වය බරපතළ බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+හිස් ආවරණ පැලදී පුද්ගලයින් තිදෙනෙකු විසින් වෙඩිතැබීම සිදුකර පළාගොස් තිබේ.
+
+◼️
+
+[Data](articles/204cde35.json)
+
+---
 
 ### 15 injured as two buses collide head-on
 
@@ -45,6 +73,8 @@ The injured individuals have been admitted to Wathupitiwala and Warakapola hospi
 ◼️
 
 [Data](articles/cf41a31f.json)
+
+[Extended Data](ext_articles/cf41a31f.ext.json)
 
 ---
 
@@ -2123,49 +2153,5 @@ He says that India is still represented in Test and ODIs.
 [Data](articles/7c91ea28.json)
 
 [Extended Data](ext_articles/7c91ea28.ext.json)
-
----
-
-### Five people killed
-
-*2024-06-30 17:05:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிதந்த-போத்தலை-திறந்து-அருந்திய-ஐவர்-பலி/175-339657) · `ta`
-
-In an tragic incident at sea, five out of six fishermen aboard the "Devon 5" died after consuming alcohol from a floating bottle while fishing 675 km off Tangalle. The Navy, including a doctor, is attempting to save the remaining fisherman. The ship's captain died instantly, followed by the others. The Department of Fisheries alerted the Navy, which dispatched the Vijayabahu ship for rescue.
-
-🟩
-
-Navy spokesman Captain Gayan Wickramasuriya says that five of the 6 fishermen who were in critical condition in the international sea have died and the Navy team, including a navy doctor, is trying to save the other fisherman.
-
-On the 4th of last month, the fishing ship, "Devon 5", loaded 6 fishermen for fishing from the port of Tangalle on the 4th.
-
-Fishermen who have been fishing in the international deep sea, about 675 kilometers from the port of Tangalle, have drank a bottle of liquor floating in the sea.. It was only after that that they fell in danger.
-
-According to the Navy, the ship's captain died in a few minutes of drinking the liquid of the ship. The other four died afterwards.
-
-The Department of Fisheries and Aquatic Resources has sent a message to the Naval Headquarters through the Colombo Maritime Search and Rescue Coordination Center located at the Naval Headquarters.
-
-...
-
-[Data](articles/0d40716f.json)
-
-[Extended Data](ext_articles/0d40716f.ext.json)
-
----
-
-### President Ranil joins ‘Ekwa Jayagamu’ public rally in Matara
-
-*2024-06-30 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100199/president-ranil-joins-ekwa-jayagamu-public-rally-in-matara) · `en`
-
-President Ranil Wickremesinghe arrived at the “Ekwa Jayagamu” public rally in Matara, a short while ago.
-
-The United National Party (UNP) and a section of the Sri Lanka Podujana Peramuna (SLPP) have commenced the President’s election campaign island-wide starting from Matara today under the theme ‘Ekwa Jayagamu’ (Victory Through Unity).
-
-The rally is attended by Ministers Prasanna Ranatunga, Kanchana Wijesekera, Ali Sabry, Harin Fernando, Manusha Nanayakkara, Ramesh Pathirana, North Western Province Governor Lakshman Yapa Abeywardena and President’s Chief of Staff and Senior Advisor on National Security Sagala Ratnayake.
-
-◼️
-
-[Data](articles/226b0adc.json)
-
-[Extended Data](ext_articles/226b0adc.ext.json)
 
 ---

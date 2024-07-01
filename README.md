@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 14:35:17**
+As of **2024-07-01 14:54:53**
 
 ## Newspaper Stats
 
-*Scraped **33,091** Articles*
+*Scraped **33,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,846
 economynextcom | 1,934
 dailyftlk | 2,036
-adalk | 2,941
+adalk | 2,942
 adaderanalk | 3,771
 tamilmirrorlk | 3,915
 dailymirrorlk | 4,733
@@ -26,27 +26,35 @@ adaderanasinhalalk | 5,467
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,086 (100.0%) of 33,091 articles have been extended.
+33,091 (100.0%) of 33,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### ஹிருணிக்காவின் மேன் முறையீடுக்கு திகதி குறிப்பு
+### Hirunika's Man's appeal
 
 *2024-07-01 14:19:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிக்காவின்-மேன்-முறையீடுக்கு-திகதி-குறிப்பு/175-339697) · `ta`
 
-முன்னாள் கொழும்பு மாவட்ட பாராளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமச்சந்திரவின் சார்பில் தாக்கல் செய்யப்பட்ட பிணை மனு (மேன்முறையீட்டு நிலுவையில் உள்ளது) கொழும்பு மேல் நீதிமன்றத்தால்  ஜூலை 4ஆம் திகதிக்கு திங்கட்கிழமை (01) ஒத்திவைக்கப்பட்டுள்ளது.
+Hirunika Premachandra, a former Colombo District Parliamentarian, had her bail petition postponed by the Colombo High Court. She was sentenced to three years in prison for kidnapping and assaulting a young man but appeals this decision. The Attorney General is ordered to appear on July 4th regarding her bail plea. Found guilty of 18 charges, including abduction and assault, she claims innocence and is the ninth defendant in the case.
 
-டிஃபென்டர் வாகனத்தை பயன்படுத்தி இளைஞரை கடத்திச் சென்ற வழக்கில் மூன்று ஆண்டுகள் சிறைத்தண்டனை விதிக்கப்பட்ட ஹிருணிகா பிரேமச்சந்திர, கொழும்பு மேல் நீதிமன்றத்தால் விதிக்கப்பட்ட  தண்டனையை சவாலுக்கு உட்படுத்தி மேன்முறையீட்டு நீதிமன்றத்தில் மேன்முறையீடு செய்துள்ளார்.
+🟩
 
-இந்த பிணை மனு கொழும்பு மேல் நீதிமன்ற நீதிபதி அமல் ரணராஜா முன்னிலையில் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போது, ​​ஜூலை 4ஆம் திகதி நீதிமன்றில் ஆஜராகுமாறு சட்டமா அதிபருக்கு உத்தரவிட்டப்பட்டது.
+The bail petition filed on behalf of former Colombo District Parliamentarian Hirunika Premachandra (Pending Pending) has been postponed by the Colombo High Court on Monday (01).
 
-தெமட்டகொடையில் டிஃபென்டர் வாகனத்தை பயன்படுத்தி இளைஞரான அமில பிரியங்கரவை  கடத்தி, தாக்குதல் நடத்தியதுடன்  அச்சுறுத்தல், விடுக்கப்பட்டமை உள்ளிட்ட 18 குற்றச்சாட்டுகளில் ஹிருணிகா பிரேமச்சந்திர குற்றவாளியாக காணப்பட்டார்.
+Hirunika Premachandra, who was sentenced to three years in prison for kidnapping the youth in the case of a devotee vehicle, has appealed to the Court of Appeal by challenging the sentence imposed by the Colombo High Court.
 
-...
+When the bail plea was taken up in the presence of Colombo High Court Judge Amal Ranarajah, the Attorney General was ordered to appear in court on July 4.
+
+Hirunika Premachandra was found guilty of 18 allegations, including abducting, attacking and attacking a young man with a Defender vehicle in Dematagoda.
+
+Hirunika Premachandra is the ninth culprit in the case, and she has filed a criminal case against her as she admits that she is innocent.. Hirunika Premachandra, who was found guilty of it, was sentenced to three years in prison and was sentenced to 20 thousand rupees each.
+
+◼️
 
 [Data](articles/726df14d.json)
+
+[Extended Data](ext_articles/726df14d.ext.json)
 
 ---
 
@@ -124,57 +132,79 @@ Police are currently searching for the suspect. The injured have been taken to t
 
 ---
 
-### சம்பந்தனின் மறைவுக்கு வட மாகாண ஆளுநர் இரங்கல்
+### Governor of Northern Province
 
 *2024-07-01 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/187384) · `ta`
 
-இலங்கை தமிழரசுக்கட்சியின் தலைவர் ஆர்.சம்பந்தனின் மறைவுக்கு வட மாகாண ஆளுநர் பி.எஸ்.எம்.சார்ள்ஸ் தனது இரங்கலைத்  தெரிவித்துள்ளார்.
+BSM Charles, Governor of the Northern Province, mourns the passing of R. Sampanthan, a key figure in the Tamil National Alliance and Sri Lankan politics. He highlights Sampanthan's significant role in representing Tamil interests in parliament and advocating for ethnic unity and reconciliation. The loss is deeply felt among the Tamil community and the broader Sri Lankan society, marking a significant void in political leadership. Condolences are extended to Sampanthan's family and supporters.
 
-தமிழ்த் தேசியக் கூட்டமைப்பின் சிரேஷ்ட தலைவரும், பாராளுமன்ற உறுப்பினரும், இலங்கை ஜனநாயக சோசலிச குடியரசின் 14 ஆவது எதிர்க்கட்சித் தலைவரும், சிரேஷ்ட அரசியல்வாதியும், சட்டத்தரணியுமாகிய திருவாளர் இராஜவரோதயம் சம்பந்தனின் மறைவுச் செய்தி அறிந்து கவலை அடைகின்றேன்.
+🟩
 
-சுமார் ஐந்து தசாப்த அரசியல் வரலாற்றில் மிக நீண்ட காலம் தமிழ் மக்களின் உரிமைக் குரலாக இலங்கை பாராளுமன்றத்தை பிரதிநிதித்துவம் செய்ததுடன், தமிழ் மக்களின் உரிமைக்காக சர்வதேச ரீதியிலும் செயற்பட்ட தலைவராக காலம் சென்ற இரா. சம்பந்தன் காணப்படுகின்றார்.
+Governor of the Northern Province BSM Charles expresses his condolences to the demise of Sri Lanka Tamil National Party leader R. Sampanthan.
 
-இன ஐக்கியம், ஒருமைப்பாடு, நல்லிணக்கம் என்பவற்றின் அடிப்படையில் நாட்டு மக்களின் நன்மைக் கருதி அன்னார் செயற்பட்டார் என்றால் மிகையாகாது. இத்தகைய ஒரு பெரும் தலைவரின் இழப்பானது தமிழ் மக்களுக்கு அரசியல் ரீதியில் நிரப்ப முடியாத வெற்றிடத்தை ஏற்படுத்தியுள்ளது என்பதில் எவ்வித ஐயப்பாடும் இல்லை. அன்னாரின் மறைவானது இலங்கை வாழ் மக்களுக்கு பேரிழப்பாகும்.
+I am concerned about the news of the demise of the Tamil National Alliance (TNA) Senior Leader and Member of Parliament, the 14th Opposition Leader of the Democratic Socialist Republic of Sri Lanka, Senior Politician and Attorney -at -Law
+
+The Sri Lankan parliament has been represented as the voice of the Tamil people for a long time in about five decades of political history and has been the leader of the international community for the rights of the Tamil people.. Sambandan is seen.
+
+It is no exaggeration if Annar acted for the benefit of the people of the country on the basis of ethnic unity, integrity and reconciliation. There is no doubt that the loss of such a great leader has caused the Tamil people to be politically void. The death of Annar is a disaster for the people of Sri Lanka.
 
 ...
 
 [Data](articles/a936c27d.json)
 
+[Extended Data](ext_articles/a936c27d.ext.json)
+
 ---
 
-### சம்பந்தனின் மறைவுக்கு தமிழக முதல்வர் இரங்கல்!
+### Tamil Nadu Chief Minister condoles
 
 *2024-07-01 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187380) · `ta`
 
-இலங்கைத் தமிழரசுக்கட்சியின் சிரேஷ்ட தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இராஜவரோதயம் சம்பந்தனின் மறைவிற்கு தமிழக முதல்வர் மு.க.ஸ்டாலின் இரங்கல் தெரிவித்துள்ளார்.
+Tamil Nadu CM MK Stalin condoles the death of Sri Lankan Tamil party leader Rajavarothayam Sambandan, expressing deep sorrow and extending his condolences to the Tamil community in Sri Lanka.
 
-இலங்கை தமிழர்களின் முதுபெரும் அரசியல் தலைவர் தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவர் இரா. சம்பந்தன் ஐயா அவர்கள் மறைந்த செய்தியறிந்து வேதனை அடைந்தேன். திரு. சம்பந்தன் அவர்களை இழந்து தவிக்கும் அவரது அமைப்பினருக்கு இலங்கைத் தமிழ் உறவுகளுக்கும் தமிழ்நாட்டு மக்களின் சார்பாக எனது ஆழ்ந்த இரங்கல் என தெரிவித்துள்ளார்.
+🟩
+
+Tamil Nadu Chief Minister MK Stalin has condoled the death of Senior Leader of the Sri Lankan Tamil party and Trincomalee district parliamentarian Rajavarothayam Sambandan.
+
+Tamil National Alliance (TNA) leader of Sri Lankan Tamils. Sampanthan sir I was hurt and hurt. Mr.. Sampanthan said that my deepest condolences on behalf of the Tamil people of Sri Lanka for the Tamil relations of Sri Lankan Tamil relations.
 
 ◼️
 
 [Data](articles/4159fc5a.json)
 
+[Extended Data](ext_articles/4159fc5a.ext.json)
+
 ---
 
-### இலங்கை அரசியலில் சம்பந்தன் எனும் ஆளுமை !
+### Sampanthan in Sri Lankan politics!
 
 *2024-07-01 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/187374) · `ta`
 
-இலங்கைத் தமிழரசுக்கட்சியின் சிரேஷ்ட தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இராஜவரோதயம் சம்பந்தன் தனது 91 ஆவது வயதில் காலமானார்.
+Rajavarothayam Sampanthan, a key figure in Sri Lankan Tamil politics, passed away aged 91. Born on February 5, 1933, he joined the Sri Lankan Tamil State Party in 1956 and later represented the LTTE in Parliament. Despite boycotting Parliament in protest against the 1983 riots, he returned to politics, leading the Tamil National Alliance (TNA) and serving as Opposition Leader from 2015 to 2018. His contributions to Tamil rights and his leadership roles within the TNA marked him as a significant figure in Sri Lankan politics.
 
-உடல்நலம் பாதிக்கப்பட்ட நிலையில் கொழும்பில் உள்ள தனியார் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்றுவந்த நிலையில், அவர் 30 ஆம் திகதி ஞாயிற்றுக்கிழமை உயிரிழந்ததாக குடும்பத்தினர் உறுதிப்படுத்தினர்.
+🟩
 
-1933ஆம் ஆண்டு பெப்ரவரி மாதம் 5 ஆம் திகதி பிறந்த சம்பந்தன் இயற்கை எய்தும் போது  அவருக்கு 91வயதாகும்.
+Senior Leader of the Sri Lanka Tamil National Alliance and Trincomalee District Parliamentarian Rajavarodayam Sambandan passed away at the age of 91.
 
-1956 ஆம் ஆண்டு இலங்கை தமிழ் அரசுக் கட்சியில் இணைந்தார். 1963 மற்றும் 1970 ஆம் ஆண்டுகளில் சம்பந்தனுக்கு தமிழரசு கட்சியின் தலைவர் எஸ்.ஜே. வி செல்வநாயகம் தேர்தலில் போட்டியிட வேட்பு மனு வழங்க முன்வந்தாலும் அவர் அதனை ஏற்கவில்லை.
+The family confirmed that he died on Sunday 30th after being admitted to a private hospital in Colombo.
 
-1977 ஆம் ஆண்டு பாராளுமன்ற தேர்தலில் தமிழர் விடுதலைக் கூட்டணியின் சார்பில் திருகோணமலைத் தொகுதியில் போட்டியிட்டு வெற்றி பெற்று பாராளுமன்ற உறுப்பினர் ஆனார்
+Born on February 5, 1933, he was 91 years old when Sampanthan came to nature.
 
-1983ஆம் ஆண்டு நடுப்பகுதியில் தமிழர் விடுதலைக் கூட்டணியின் பாராளுமன்ற உறுப்பினர்கள் அனைவரும் பாராளுமன்றத்தைப் புறக்கணித்தனர்.
+In 1956 he joined the Sri Lankan Tamil State Party. In 1963 and 1970. Although Velvanayagam offered to contest the election, he did not accept it.
+
+He won the 1977 parliamentary election on behalf of the Liberation Tigers of Tamil Eelam (LTTE) in Trincomalee and became a Member of Parliament.
+
+In mid -1983, all members of the Liberation Tigers of Tamil Eelam (LTTE) boycotted parliament.
+
+Sampanthan lost his parliamentary post on September 7, 1983, as he boycotted more than three months in opposition to the July 1983 riots.
+
+Sambandan was also the Associate Treasurer, Vice President and General Secretary of the Liberation Tigers of Tamil Eelam (LTTE).
 
 ...
 
 [Data](articles/dad9c51f.json)
+
+[Extended Data](ext_articles/dad9c51f.ext.json)
 
 ---
 
@@ -250,23 +280,35 @@ The National Transport Commission was speaking at a press conference to publish 
 
 ---
 
-### வெளிநாட்டு மாணவர்களிற்கான விசா கட்டணங்களை அதிகரித்தது அவுஸ்திரேலியா - புதிய கட்டுப்பாடுகளையும் வெளியிட்டது.
+### Increasing visa charges for foreign students has also been released by Australia and new restrictions.
 
 *2024-07-01 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/187381) · `ta`
 
-அவுஸ்திரேலியாவிற்கு புலம்பெயர்பவர்கள் அதிகரித்துள்ளதால் வீடுகள் தொடர்பான வர்த்தகம் கடும் அழுத்தத்தை சந்தித்துள்ள நிலையில் புலம்பெயர்பவர்களின் எண்ணிக்கையை கட்டுப்படுத்தும் ஒரு முயற்சியாக அவுஸ்திரேலியா வெளிநாட்டு மாணவர்களிற்கான விசா கட்டணங்களை அதிகரித்துள்ளது.
+Australia has raised visa fees for foreign students to $710 and imposed new restrictions, including a ban on student visa applications and temporary graduate visa holders. This move aims to reduce immigration pressure on housing due to a 60% rise in migrants. The Australian Home Minister plans to establish a fairer settlement system to maintain the integrity of the international education sector. Critics argue that this increase makes studying in Australia more expensive compared to countries like Canada and America, while also addressing concerns about foreign students exploiting legal loopholes to remain in the country.
 
-இன்று முதல்  வெளிநாட்டு மாணவர்களிற்கான விசா கட்டணங்கள் 710 அவுஸ்திரேலிய டொலர்களாக அதிகரிக்கப்பட்டுள்ளதாக அறிவிப்பு வெளியாகியுள்ளது.
+🟩
 
-இதேவேளை விசிட்டர் விசாவை வைத்திருப்பவர்களும் தற்காலிக பட்டதாரி விசாக்களை வைத்திருப்பவர்களும் மாணவர் விசாவிற்கு விண்ணப்பிப்பதை அவுஸ்திரேலியா தடை செய்துள்ளது.
+Australia has increased visa charges for foreign students as an attempt to curb the number of immigrants as homes have been severely pressured as migrants have increased in Australia.
 
-இன்று நடைமுறைக்கு வரும் மாற்றங்கள் எங்களின் சர்வதேச கல்விமுறையின் ஒருமைப்பாட்டை மீட்டெடுக்க உதவும்  என தெரிவித்துள்ள அவுஸ்திரேலிய உள்துறை அமைச்சர் கிளார் ஓ நெய்ல் நியாயமான சிறிய சிறந்த குடியேற்ற முறையை உருவாக்க உதவும் எனவும் தெரிவித்துள்ளார்.
+Visa fees for foreign students have been increased to $ 710, it has been announced.
 
-மார்ச் மாதம் வெளியான புள்ளிவிபரங்கள் அவுஸ்திரேலியாவிற்கான குடிவரவு 60 வீதத்தினால் அதிகரித்துள்ளதை வெளிப்பபடுத்தியிருந்தன.
+Meanwhile, Australia has banned applying for a student visa and holders of temporary graduate visas.
+
+Australian Home Minister Crear O Niel will help create a fair small settlement system that will help restore the integrity of our international education system.
+
+Statistics released in March have revealed that Australia's immigration has increased by 60 percent.
+
+Due to the increase in visa fees, students will have to pay more than Canada America.
+
+The Australian government has said that foreign students are trying to comply with the loopholes of the law that allow for continuing to stay in Australia.
+
+Senator Fatima Payman of the Labor Party has stated that he has been deported from the Labor.
 
 ...
 
 [Data](articles/5efcc756.json)
+
+[Extended Data](ext_articles/5efcc756.ext.json)
 
 ---
 
@@ -313,6 +355,22 @@ The former SJB parliamentarian was sentenced after being found guilty of being i
 [Data](articles/553173e8.json)
 
 [Extended Data](ext_articles/553173e8.ext.json)
+
+---
+
+### බහුදින ධීවර යාත්‍රාවේ අසාධ්‍ය  සිටි ධීවරයා  හම්බන්තොට මහ රෝහලට
+
+*2024-07-01 12:52:30* · [`adalk`](https://www.ada.lk/breaking_news/බහුදින-ධීවර-යාත්‍රාවේ-අසාධ්‍ය--සිටි-ධීවරයා--හම්බන්තොට-මහ-රෝහලට/11-410541) · `si`
+
+"Devon 5" බහුදින ධීවර යාත්‍රාවේ අසාධ්‍ය  සිටි  ධීවරයා විජයබාහු නෞකාව මඟින් අද (01) හම්බන්තොට වරාය වෙත රැගෙන විත් ප්‍රතිකාර සඳහා හම්බන්තොට මහ රෝහල වෙත යොමු කරනු ලැබිණි.
+
+කොළඹ සමුද්‍රීය සෙවීම් හා මුදවා ගැනීම් සම්බන්ධීකරණ මධ්‍යස්ථානයේ සම්බන්ධීකරණයෙන් “Devon 5” බහුදින ධීවර යාත්‍රාවේ අසාධ්‍ය තත්ත්වයේ සිටි ධීවරයින් දෙදෙනෙක් ‘MV KOTA CAMIL’ නමැති වෙළඳ නෞකාවක් මඟින් පසුගිය 30 වන දින මුදවා ගැනීමට  කටයුතු කෙරුණු මෙම  ධීවරයින් ගොඩබිමට රැගෙන එන අතරතුර එක් ධීවරයෙකු  ‘MV KOTA CAMIL’ නෞකාව තුළදී ජීවිතක්ෂයට පත් වු බවද නාවික හමුදා මුලස්ථානය සදහන් කරයි.
+
+අසාධ්‍ය තත්වයේ සිටි අනෙක් ධීවරයා ශ්‍රී ලංකා නාවික  හමුදාවේ විජයබාහු නෞකාව වෙත ඊයේ (30) වන දින  සන්ද්‍යාවේදී  දෙවුන්දර සිට නාවික සැතපුම් 170 ක් (කිලෝමීටර් 314 ක පමණ) දුරින් වූ ගැඹුරු මුහුදේදී ලබා භාර දි තිබේ.
+
+◼️
+
+[Data](articles/1f9ef3fd.json)
 
 ---
 
@@ -2155,29 +2213,5 @@ The President attended the Urumaya Land certificate to the people of Moneragala 
 [Data](articles/c6cca5cb.json)
 
 [Extended Data](ext_articles/c6cca5cb.ext.json)
-
----
-
-### Elections this year and next year
-
-*2024-07-01 02:11:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-வருடமும்-அடுத்த-வருடமும்-தேர்தல்கள்/175-339675) · `ta`
-
-This year and next, Sri Lanka will hold presidential, general, and provincial council elections. President Ranil Wickremesinghe emphasized unity and cooperation over division, urging citizens to support the nation and party collectively. This call came during a public meeting in Matara, highlighting the government's agenda and goals.
-
-🟩
-
-President Ranil Wickremesinghe says the presidential election, general election and provincial council elections will be held this year and next year.
-
-He also urged that everyone should move forward with a general compliance with the country and the party without the individual and the party.
-
-The President was speaking at a public meeting held at the Fort Stadium in Matara yesterday to clarify the current government's program and the way.
-
-The general meeting organized by the Minister of Power and Power and Power, Kanjana Wijeshekara, was attended by a large number of people from the Matara district.. (A)
-
-◼️
-
-[Data](articles/1827335f.json)
-
-[Extended Data](ext_articles/1827335f.ext.json)
 
 ---

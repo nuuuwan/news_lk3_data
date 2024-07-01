@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 21:54:14**
+As of **2024-07-01 22:07:49**
 
 ## Newspaper Stats
 
-*Scraped **33,154** Articles*
+*Scraped **33,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,90 @@ newsfirstlk | 363
 islandlk | 1,846
 economynextcom | 1,940
 dailyftlk | 2,036
-adalk | 2,944
+adalk | 2,945
 adaderanalk | 3,778
 tamilmirrorlk | 3,923
 dailymirrorlk | 4,733
 virakesarilk | 5,177
-adaderanasinhalalk | 5,484
+adaderanasinhalalk | 5,486
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,153 (100.0%) of 33,154 articles have been extended.
+33,154 (100.0%) of 33,157 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### මියගිය ධීවරයන් වෙනුවෙන් වන්දි ලබාදීමට සාකච්ඡා
+### දුම්රිය අතහැර පළාගිය බීමත් රියදුරාගේ වැඩ තහනම්
+
+*2024-07-01 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198380) · `si`
+
+ප්‍රශ්නගත දුම්රිය රියදුරාගේ වැඩ තහනම් කර ඇති බව ශ්‍රී ලංකා දුම්රිය සේවය පවසයි.
+
+ඊයේ (30) කොළඹ සිට මහනුවර බලා ධාවනය වූ දුම්රියේ රියදුරුගේ නොමනා ක්‍රියාකලාපය හේතුවෙන් දෙපාර්තමේන්තුව මට්ටමින් පරීක්ෂණයක් ආරම්භ කර ඇති බවද දැනුම්දෙයි.
+
+කොළඹ සිට මහනුවර බලා ඊයේ පෙරවරු 10.40ට ධාවනය ආරම්භ වූ දුම්රියේ රියදුරා අධික ලෙස මත්පැන් පානය කර කලබලකාරී ලෙස හැසිරී ඇති බව වාර්තා විය.
+
+ඔහු දුම්රිය මහනුවර නගරයට ආසන්න සුදුහුම්පොල ප්‍රදේශයේ ස්ථානයක නවතා දුම්රියෙන් බැස පළායද්දී දුම්රියේ සිටි මගීන් ඔහුව ලුහුබැඳ ගොස් අල්ලාගෙන සහායක රියදුරා යොදවා දුම්රිය නුවර දුම්රිය ස්ථානය තෙක් ධාවනය කර තිබුණි.
+
+පසුව එම බීමත් රියදුරාව දුම්රිය ප්‍රවාහන පරීක්ෂක නිලධාරියා මාර්ගයෙන් දුම්රිය ආරක්ෂක අංශයට භාරදීමට පියවර ගනු ලැබීය.
+
+මෙම දුම්රිය මහනුවරට ළඟාවීමට නියමිතව තිබුණේ ප.ව 1.40ටය.  එහෙත් දුම්රිය පැමිණියේ සවස 2.30ට බව මගීන් පැවසීය.
+
+◼️
+
+[Data](articles/47dfbf87.json)
+
+---
+
+### පියුමි හංසමාලිට නැවත එන්න වෙයි
+
+*2024-07-01 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198379) · `si`
+
+අද (01) නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසය හමුවේ පෙනී සිටි ප්‍රසිද්ධ නිරූපන ශිල්පිනියක වන පියුමි හංසමාලිගෙන් ප්‍රකාශයක් සටහන් කරගැනීමක් සිදුකර නොමැත.
+
+ඒ අනුව එම කොට්ඨාසය ඇයට දැනුම්දී ඇත්තේ ඒ සඳහා වෙනත් දිනයක් ලබාදෙන බවය.
+
+නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසය ප්‍රසිද්ධ නිරූපන ශිල්පිනියක් වන පියුමි හංසමාලිගේ වත්කම් පිළිබඳ විමර්ශනයක් ආරම්භ කර තිබුණේ මගෙන් රටට සංවිධානයේ සභාපති සංජය මහවත්ත කළ පැමිණිල්ලකට අනුවය.
+
+ඊට අදාළව ජුනි 18 වනදා කොළඹ අංක 04 මහෙස්ත්‍රාත් අධිකරණයට කරුණු දැක්වූ විමර්ශන නිලධාරින් කියා සිටියේ නිරූපන ශිල්පිනි පියුමි හංසමාලි රුපියල් ලක්ෂ 780ක් වැය කර හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා භාවිත කළ ජීප් රථය මිලදී ගෙන ඇති අතර තවත් රුපියල් මිලියන 148ක මුදලක් වැය කර කොළඹ 7, වෝඩ් පෙදෙසේ පිහිටි සුඛෝපභෝගී නිවාස සංකීර්ණයකින් නිවසක් මිලදී ගෙන ඇති බවය.
+
+ඒ අනුව පියුමි හංසමාලි මෙරට ප්‍රධාන පෙළේ බැංකු 08ක පවත්වාගෙන යන ගිණුම් 19ක වාර්තා කැඳවීමට කොළඹ අංක 04 මහ‍ෙස්ත්‍රාත් මංජුල තිලකරත්න මහතා නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසයට අවසර ලබාදුනි.
+
+...
+
+[Data](articles/98a4fb16.json)
+
+---
+
+### Discussions to compensate for the dead fishermen
 
 *2024-07-01 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198378) · `si`
 
-ඩෙවෝන් - 5 බහුදින ධීවර යාත්‍රාවේ ස්කිපර්වරයා ඇතුළු මියගිය ධීවරයින්ගේ පවුල්වල සාමාජිකයින් වෙත සුදුසු වන්දි මුදලක් ගෙවීම සඳහා කටයුතු කරමින් සිටින බව ධීවර අමාත්‍ය ඩග්ලස්  දේවානන්දා මහතා පවසයි.
+Fishermen's deaths due to a floating object in their vessel were discussed by Fisheries Minister Douglas Devananda. He mentioned the possibility of rescue despite initial statements, highlighting the vessel's distance from land and the challenge of reaching it with a helicopter.
 
-මුහුදේ පාවෙමින් තිබූ බෝතලයක තිබු ද්‍රාවණයක් පානය කිරීම නිසා මෙම අවාසනාවන්ත මරණයන් සිදුවූ බවට පැවසෙයි.
+🟩
 
-මේ අතර ඩෙවෝන් - 5 යාත්‍රාවේ තිබු යාත්‍රා නිරීක්ෂණ ආපදා බොත්තම ක්‍රියාත්මක කර ආපදාව පිළිබඳව දැනුම්දීමට කටයුතු කර නොමැති වීමද කනගාටුදායක කරුණක් බව ධීවර අමාත්‍ය ඩග්ලස් දේවානන්දා මහතා පවසයි.
+DVONE - 5 Fisheries Minister Douglas Devananda says that the families of fishermen who have died in the multi-day fishing vessel.
 
-ඒසේ දැනුම් දුන්නා නම් මීට වඩා කඩිනමින් මුදාගැනීමේ කටයුතු සිදුකිරීමේ අවස්ථාවක් තිබූ බවද අමාත්‍යවරයා පැවසීය.
+This unfortunate death is said to have taken place because of a solution in a bottle floating in the sea.
 
-ඩොවෝන් - 5 යාත්‍රාව ගොඩබිම සිට නාවික සැතපුම් 360ක් එනම් 600kmකට අධික දුරකින් ගමන්කර තිබු අතර එවන් දුරක් වෙත ගුවන් හමුදාවේ හෙලිකොප්ටර් යානා මගින් ගමන් කිරීමට ඇති හැකියාව තමන් සොයාබැලු බවත් ධීවර අමාත්‍ය ඩග්ලස් දේවානන්දා මහතා සඳහන් කළේය.
+Fisheries Minister Douglas Devananda says that the Vessel Observatory in the Devil-5 vessel operated by the vessel.
 
-සාමාන්‍යයෙන් හෙලිකොප්ටර් යානයකට ගමන්කළ හැකි දුර මෙන් 04 ගුණයක් පමණ ඈතින් අදාළ යාත්‍රාව තිබූ බව අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
+The Minister said that although a statement had been made, there was a chance to rescue.
+
+Duville - 5 nautical miles from land is 360 nautical miles away from land,
+
+The Minister further stated that the vessel had been a vessel for about four times the distance to travel to a helicopter.
 
 ◼️
 
 [Data](articles/a1a0b37d.json)
+
+[Extended Data](ext_articles/a1a0b37d.ext.json)
 
 ---
 
@@ -681,6 +729,20 @@ Banking stocks closed down or flat in the day. Commercial Bank of Ceylon Plc was
 [Data](articles/b8f27ff7.json)
 
 [Extended Data](ext_articles/b8f27ff7.ext.json)
+
+---
+
+### ටුක් ටුක් ගාස්තු අඩු නොවෙයි
+
+*2024-07-01 16:42:11* · [`adalk`](https://www.ada.lk/breaking_news/ටුක්-ටුක්-ගාස්තු-අඩු-නොවෙයි/11-410544) · `si`
+
+ඉන්ධන මිල අඩු වුවත් ත්‍රීරෝද රථ ගාස්තු අඩුවීමක් සිදු නොවන බව සමස්ත ලංකා ත්‍රීරෝද රථ රියදුරන්ගේ වෘත්තීය සමිතිය පවසනවා.
+
+මාසයෙන් මාසය මිල අඩු වන විට ත්‍රීරෝද රථ ගාස්තු සංශෝධනය කිරීමට හැකියාවක් නොමැති බවයි එහි සභාපති ලලිත් ධර්මසේකර සඳහන් කරයි.
+
+◼️
+
+[Data](articles/cbb643f1.json)
 
 ---
 
@@ -2339,77 +2401,5 @@ Accordingly, Senior Additional Solicitor General Parinda Ranasinghe, who is the 
 [Data](articles/ea230e98.json)
 
 [Extended Data](ext_articles/ea230e98.ext.json)
-
----
-
-### 25 Tamil Nadu fishermen arrested
-
-*2024-07-01 10:39:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/25-தமிழக-மீனவர்கள்-கைது/175-339687) · `ta`
-
-25 Tamil Nadu fishermen were arrested early Monday for fishing in Sri Lankan waters near Jaffna Neduntivu Sea. Their 4 boats were seized. The Department of Fisheries and Aquatic Resources will represent them in court after investigation.
-
-🟩
-
-25 Tamil Nadu fishermen have been arrested in the early hours of Monday (01) on charges of fishing in the Sri Lankan waters.
-
-They were arrested while fishing in the Jaffna Neduntivu Sea and the Navy seized their 4 boats.
-
-Steps have been taken to appear at the Kayts Court by the Department of Fisheries and Aquatic Resources after investigations.
-
-◼️
-
-[Data](articles/6d83a3d5.json)
-
-[Extended Data](ext_articles/6d83a3d5.ext.json)
-
----
-
-### 20 people injured in bus accident
-
-*2024-07-01 10:32:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பேருந்து-விபத்தில்-20-பேர்-காயம்/76-339685) · `ta`
-
-In a tragic accident on the Colombo-Kandy Road near Weldeniya church, a bus and a private bus collided head-on, injuring over twenty passengers. The buses were traveling from Panadura to Kandy and Colonpindunuwei to Colombo respectively. Both drivers were hurt, and one allegedly fled the scene. Traffic was disrupted for an hour due to the incident.
-
-🟩
-
-On the ramp near the Weldeniya church on Colombo - Kandy Road,. Go on.More than twenty people have been admitted to Vadupitivala and Warakapola hospitals after a bus and private bus collided head -on.
-
-A bus belonging to the Udhamulla Depot, who was traveling from Panadura to Kandy, and a privately traveling from Colonpindunuwei to Colombo.
-
-The drivers of the two buses were reportedly injured and the police said they were investigating information that a driver had fled after the accident.
-
-Due to this accident, traffic was blocked for about an hour on the Colombo -Kandy main road.
-
-◼️
-
-[Data](articles/0fe40e3f.json)
-
-[Extended Data](ext_articles/0fe40e3f.ext.json)
-
----
-
-### Politicians and dignitaries condole the demise of Sambandan!
-
-*2024-07-01 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187353) · `ta`
-
-Rajavarodayam Sambandan, a senior leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian, passed away at 91. Politicians and dignitaries mourned his loss, highlighting his dedication to equality and democracy in Sri Lanka. His legacy of fair leadership and commitment to peace and harmony is remembered fondly.
-
-🟩
-
-Senior Leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian Rajavarodayam Sambandan passed away on Sunday, 30th, at the age of 91.
-
-The family confirmed that he died after being admitted to a private hospital in Colombo.
-
-Born on February 5, 1933, he was 91 years old when Sampanthan came to nature.
-
-In this case, the senior politician. Many politicians and dignitaries have condoled the demise of Sambandan.
-
-Today, we express deep sympathy for Mr. Sambandan, who served Sri Lanka for more than half a century. His commitment to grant equal rights to all Sri Lankans is the lighthouse of hope. His honest and fair leadership will continue to encourage me and others. In fact, opposition leader Sajith Premadasa said in a condolence message that this refers to the end of an era.
-
-...
-
-[Data](articles/74490b12.json)
-
-[Extended Data](ext_articles/74490b12.ext.json)
 
 ---

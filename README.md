@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 20:35:15**
+As of **2024-07-01 20:53:56**
 
 ## Newspaper Stats
 
@@ -26,47 +26,63 @@ adaderanasinhalalk | 5,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,139 (100.0%) of 33,141 articles have been extended.
+33,141 (100.0%) of 33,141 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
 
-### තවත් විදෙස් රැකියා ජාවාරමක් උකුස්සා හෙළිකරයි
+### Another foreign employment racket heels
 
 *2024-07-01 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198376) · `si`
 
-බලපත්‍රයක් නොමැතිව පුද්ගලයින් විදෙස්ගත කරවීම සඳහා මුදල් ලබාගන්නා නීතිවිරෝධි විදේශ සේවා නියෝජිතායතනයක් පසුගියදා නීතියේ රැහැනට හසු කරගැනුණි.
+An unlicensed foreign employment agency was busted for fraud, with over 50 passports and personal documents seized during a raid. The agency, operating without legal authorization, spread misinformation via social media before being caught. This incident highlights the dangers of engaging with illegal overseas job services, emphasizing the importance of legal channels for foreign employment.
 
-කොට්ටාව මාකුඹුර ප්‍රදේශයේ බලපත්‍රයක් නොමැතිව නීතිවිරෝධි අයුරින් පවත්වාගෙන ගිය විදේශ සේවා නියෝජිතායතනයක් සම්බන්ධයෙන් ලැබුණු විශ්වසනීය තොරතුරක් මත විදේශ සේවා නියුක්ති කාර්යංශයේ වැටලීම් අංශයේ නිලධාරින් සමඟ "අද දෙරණ උකුස්සා" අදාළ ආයතනය පිහිටි ස්ථානය සොයා ගියේය.
+🟩
 
-මෙම ආයතනය සම්බන්ධයෙන් සමාජ මාධ්‍ය ඔස්සේ ද පුළුල් ප්‍රචාරයක් ලබාදී තිබූ අතර අප එම ස්ථානයට ළඟා වූයේ ෆේස්බුක් ඔස්සේ අදාළ ආයතනය පිළිබඳ අප දැනගත් බව පවසමිනි.
+An illegal service agency who receives funds for the abroad without a license was recently taken into custody.
 
-පසුව ඔහු ඉල්ලා සිටින ලද ජීව දත්ත පත්‍රිකාව ද සමඟ නැවත ඔහුව හමුවීමට එන බව පවසමින් අප එම ස්ථානයෙන් පිටව ගියේය.
+The Department of Ada Derana Ukusa to find out the location of the Department of Foreign Employment Bureau on a reliable information regarding a foreign service agency in the Makumbura area without a license.
 
-මද වේලාවකට පසු විදේශ සේවා නියුක්ති කාර්යංශයේ තවත් නිලධාරින් කණ්ඩායමක් සමග අප නැවත එම ස්ථානයට ගියේ අදාළ ජාවාරම නෛතිකව තහවුරු කරගැනීමේ අරමුණ ඇතිවය.
+The company also gave a wide propagation through social media regarding the institute, saying that we were approached by Facebook.
 
-සැකකරුගේ මෝටර් රථය තුළද ජාවාරමට අදාළ ලියකියවිලි ඇතැයි ලැබුණු තොරතුර මත වැටලීම් නිලධාරීන් හෝමාගම පොලීසිය දැනුවත් කළ අතර ඉන් පසුව පොලිස් කණ්ඩායමක් එම ස්ථානයට ගෙන්වා ගැනුණි.
+Then we left the place, saying that he would meet him again with the biographical sheet.
+
+A little time, we returned with another group of other officials of the Foreign Employment Bureau.
+
+The raid officers informed the Homagama Police on the information that the manufacturers had the relevant documents in the suspect's car and the racket were later imported.
+
+Over 50 passports were found in his car, the number of other documents including bio data sheets.
+
+In addition, further interrogation from the racketeer was revealed that he had obtained about Rs.
 
 ...
 
 [Data](articles/1c97854f.json)
 
+[Extended Data](ext_articles/1c97854f.ext.json)
+
 ---
 
-### பொது மக்களுக்கு வாள் வெட்டு
+### Cut the sword to the public
 
 *2024-07-01 19:59:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-மக்களுக்கு-வாள்-வெட்டு/175-339713) · `ta`
 
-தலங்கம பிரதேசத்தில் நேற்று வாளுடன் வீதிக்குச் சென்ற நபரொருவர் வீதியில் பயணித்த பொதுமக்களை தாக்கியுள்ளதாக தலங்கம பொலிஸார் தெரிவித்தனர்.
+A drunk man wielding a sword in Thalangama caused chaos, damaging four vehicles and attacking civilians before his arrest by the police.
 
-இவர் குடிபோதையில் இருந்துள்ளதாகவும் இதன்போது வீதியிலிருந்த 4 வாகனங்கள் சேதமடைந்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இதனையடுத்து, இவர் பொலிஸாரால் கைது செய்யப்பட்டுள்ள நிலையில் நீதிமன்றில் ஆஜர்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.  R
+Talangama police said that a man who went to the street with a sword yesterday in Thalangama area had attacked civilians who were traveling on the street.
+
+He was drunk and 4 vehicles on the road were damaged, police said.
+
+Subsequently, the police said that he was arrested by the police.R
 
 ◼️
 
 [Data](articles/fc393b45.json)
+
+[Extended Data](ext_articles/fc393b45.ext.json)
 
 ---
 

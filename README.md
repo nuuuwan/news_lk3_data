@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 02:04:35**
+As of **2024-07-02 02:19:45**
 
 ## Newspaper Stats
 
-*Scraped **33,173** Articles*
+*Scraped **33,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 324
 newsfirstlk | 363
 islandlk | 1,846
 economynextcom | 1,940
-dailyftlk | 2,041
+dailyftlk | 2,047
 adalk | 2,952
 adaderanalk | 3,779
 tamilmirrorlk | 3,925
@@ -26,11 +26,109 @@ adaderanasinhalalk | 5,487
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,173 (100.0%) of 33,173 articles have been extended.
+33,173 (100.0%) of 33,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### EDB conducts seminar on ‘Smart Solutions for Agricultural and Aquacultural Exports’
+
+*2024-07-02 01:59:35* · [`dailyftlk`](https://www.ft.lk/business/EDB-conducts-seminar-on-Smart-Solutions-for-Agricultural-and-Aquacultural-Exports/34-763738) · `en`
+
+The Sri Lanka Export Development Board (EDB) recently hosted an insightful seminar titled ‘Smart Solutions for Agricultural and Aquacultural Exports’, together with smart solutions provider, E Gravity Solutions Ltd.
+
+This proactive initiative saw over 45 participants from the agriculture and aquaculture industries attending this interactive seminar. It was aimed at educating agriculture and aquaculture exporters on the numerous benefits of integrating with smart agriculture and aquaculture technologies.
+
+The seminar emphasised the significance of adopting these advanced solutions and provided valuable insights into a diverse range of devices and products designed to enhance productivity and sustainability in the agriculture and aquaculture sectors.
+
+...
+
+[Data](articles/a2bdf1b8.json)
+
+---
+
+### Interim report on Colombo Intl. Financial City as top Fintech hub
+
+*2024-07-02 01:58:28* · [`dailyftlk`](https://www.ft.lk/business/Interim-report-on-Colombo-Intl-Financial-City-as-top-Fintech-hub/34-763737) · `en`
+
+Colombo Port City Economic Commission Chairman Dinesh Weerakkody and Monetary Authority of Singapore (MAS) Fintech Chief Officer Sopnendu Mohanty received copies of interim report on “Enhancing Colombo International Financial City (Port City Colombo) as a leading Fintech Hub in South Asia” from Fintech Association of Sri Lanka (FASL) President and coordinator of the initiative Rajkumar Kanagasingam during the “DigiEcon Global Investment Summit” which was held recently at Hotel Cinnamon Grand Colombo.
+
+Kerry Holdings Professor in Law at the University of Hong Kong Professor Douglas Arner serves as the Chief Consultant of the initiative which is supported by a number fintech experts internationally.
+
+FASL is an ecosystem partner of Dubai International Financial Centre (DIFC) Innovation Hub and Elevandi, an independent organisation created by the Monetary Authority of Singapore (MAS).
+
+...
+
+[Data](articles/1e01e121.json)
+
+---
+
+### Eximius Power and Energy brings sustainable power solutions to Sri Lanka
+
+*2024-07-02 01:56:59* · [`dailyftlk`](https://www.ft.lk/business/Eximius-Power-and-Energy-brings-sustainable-power-solutions-to-Sri-Lanka/34-763736) · `en`
+
+Gold sponsor of the Construction, Power and Energy Expo 2024
+
+In an era where sustainable solutions are imperative for growing economies, protecting the environment and creating a better tomorrow for the next generation, Eximius Power and Energy (EPE), a pioneering Sri Lankan energy solutions company is introducing the latest and most technologically advanced power solutions to the local market. Partnering with the renowned Sineng Group in China, EPE brings state-of-the-art power electronics products and solutions.
+
+Speaking on the range of products and services on offer, Chairman/Managing Director Danuke Weerasinghe said, “Sineng Electric, being a Tier 1 Solar PV Inverter Manufacturer, is renowned for its advanced technology, high-quality products, and comprehensive after-sales service. Sineng’s inverters are widely used in residential, commercial and industrial, and utility-scale solar power projects worldwide, contributing to the transition towards clean and sustainable energy.”
+
+...
+
+[Data](articles/e044b146.json)
+
+---
+
+### Consulate General of Sri Lanka in Mumbai at Indian Merchants Chamber Business Connect 2024
+
+*2024-07-02 01:50:39* · [`dailyftlk`](https://www.ft.lk/business/Consulate-General-of-Sri-Lanka-in-Mumbai-at-Indian-Merchants-Chamber-Business-Connect-2024/34-763735) · `en`
+
+The Consul General of Sri Lanka in Mumbai, Dr. Valsan Vethody participated in the “Business Connect 2024” organised by the Indian Merchants Chamber of Commerce and Industry (IMC) in Mumbai.
+
+IMC, established in 1907, is a prestigious business association in Mumbai. It boasts over 5,000 members, including major business establishments and industrialists such as Reliance, Mahindra & Mahindra, Godrej, and Adani. The Chamber collaborates with more than 150 trade groups. In recognition of its contribution to nation-building, Mahatma Gandhi accepted honorary membership in 1931.
+
+The event’s theme, “Bridging Borders for Business Growth,” aimed to facilitate interaction between officials, committee members, IMC members, and diplomatic missions in Mumbai. The objective was to explore opportunities for expanding trade, investment, and tourism between the participating countries and the local business community of Maharashtra.
+
+...
+
+[Data](articles/2a234d94.json)
+
+---
+
+### Committee urges focus on entrepreneurship to combat economic crisis
+
+*2024-07-02 01:45:33* · [`dailyftlk`](https://www.ft.lk/business/Committee-urges-focus-on-entrepreneurship-to-combat-economic-crisis/34-763734) · `en`
+
+The Sectoral Oversight Committee on Alleviating the Impact of the Economic Crisis has emphasised the need to foster entrepreneurship and has instructed officials to organise awareness programs across all districts in Sri Lanka.
+
+This recommendation came during a recent committee meeting in Parliament, chaired by Member of Parliament Gamini Waleboda.
+
+The committee inquired about the current engagement of investors in the stock market. Officials reported that approximately 850,000 accounts are linked to stock market investments, with about 200,000 of these accounts being actively used.
+
+In efforts to strengthen the progress of the Colombo stock market, the committee discussed potential actions that the Securities and Exchange Commission of Sri Lanka could undertake.
+
+...
+
+[Data](articles/0a4c51bd.json)
+
+---
+
+### Rohan Somawansa joins ACL Plastics Board
+
+*2024-07-02 01:44:07* · [`dailyftlk`](https://www.ft.lk/business/Rohan-Somawansa-joins-ACL-Plastics-Board/34-763733) · `en`
+
+Top marketer Rohan Somawansa has been appointed as an Independent Non-Executive Director on the Board of ACL Plastics PLC.
+
+Rohan currently functions as a Director of Samson Compounds Ltd., and Head of Marketing and Corporate Communications of DSI Samson Group and is responsible for strategic management, manufacturing, Human Resources, Marketing and brand building.
+
+He was the President of the Asian Marketing Federation (AMF) from 2018 to 2020 and currently he holds the post of Advisor and Member of the AMF Foundation. He was the President of Sri Lanka Institute of Marketing (SLIM) in 2010/2011. In recognition for his services rendered to Marketing in Asia, he was conferred honorary fellow member status by the Marketing Institute of Singapore and Fellow status by the Institute of Marketing, Malaysia. He was selected as one of the top 50 marketing professionals by the World CMO Council in 2013.
+
+...
+
+[Data](articles/f6fc1fe0.json)
+
+---
 
 ### R.S.. President praises Jayasinghe's service
 
@@ -2271,147 +2369,5 @@ Piyumi Hansalay, a public modern manufacturer, has been paid to an investigation
 [Data](articles/cb2a70e6.json)
 
 [Extended Data](ext_articles/cb2a70e6.ext.json)
-
----
-
-### Indian Prime Minister Modi condoles the demise of Sambandan
-
-*2024-07-01 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/187360) · `ta`
-
-Indian PM Modi mourns the passing of Sri Lankan Tamil leader Rajavarodayam Sambandan, expressing sympathy to his family and admiring his commitment to peace, security, and justice for Tamils in Sri Lanka.
-
-🟩
-
-Indian Prime Minister Narendi Modi has condoled the death of Senior Leader of the Sri Lankan Tamil party and Trincomalee district parliamentarian Rajavarodayam Sambandan.
-
-My deepest sympathies to the family and friends of R. Sampanthan, senior leader of the Tamil National Alliance. Happy memories of meetings with him are always admirable. He followed the life of peace, security, equality, justice and dignity for Tamils ​​living in Sri Lanka. This is a huge loss for his friends and his followers in Sri Lanka and India.
-
-◼️
-
-[Data](articles/6376d605.json)
-
-[Extended Data](ext_articles/6376d605.ext.json)
-
----
-
-### EPDP organizer death of mysterious burns
-
-*2024-07-01 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/187357) · `ta`
-
-A burn victim from Vadamarachchi East passed away without clear cause. The individual, an EPDP organizer and ex-director of Vadamarachchi East Fisheries Cooperative Societies, was hospitalized but no arrests have been made regarding the incident.
-
-🟩
-
-A person who was suffering from burns in the Vadamarachchi East, Vadamarachchi East, died on Sunday night (30).
-
-On the night of June 20, a person was rescued by the public and was admitted to the Maruthankeni Divisional Hospital and taken to the Pedro Base Hospital for further treatment.
-
-During this time, a person who was admitted to the Jaffna Teaching Hospital for further treatment died last night without treatment.
-
-He was the organizer of the Eelam People's Democratic Party and the former director of the Vadamarachchi East Fisheries Co -operative Societies.
-
-No reason for the person, the cause of the burns, has not yet been discovered. No one involved in the incident has yet to be arrested and the body will be handed over to relatives after autopsy.
-
-◼️
-
-[Data](articles/f2e5c543.json)
-
-[Extended Data](ext_articles/f2e5c543.ext.json)
-
----
-
-### Relationships of the missing
-
-*2024-07-01 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/187372) · `ta`
-
-Protesters gathered in Jaffna, demanding rights for the North and East. They marched in front of the Jaffna District Secretariat, holding banners and chanting slogans.
-
-🟩
-
-A protest was launched in Jaffna in the arrangement of the North and East.
-
-The protest was carried out in front of the Jaffna District Secretariat at 10 am today (01). The protesters carried the posts and chanted.
-
-◼️
-
-[Data](articles/c00f450e.json)
-
-[Extended Data](ext_articles/c00f450e.ext.json)
-
----
-
-### Two of the three men who were beaten in the sea of ​​Kalkissa - one magic!
-
-*2024-07-01 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/187354) · `ta`
-
-Two out of three men who drowned off Kalkissa were rescued, but one remains missing. A 17-year-old from the area, Abeysekera Mawatha, is among the missing.
-
-🟩
-
-Two of the three men who were beaten to the sea were rescued on Sunday (30) and one person was missing.
-
-A 17 -year -old Abeysekera Mawatha, a man who lives in Kalkissa area, has disappeared, police said.
-
-Three of the persons who were drowned in the sea on Sunday (30) were suddenly swept away by the sea.
-
-◼️
-
-[Data](articles/1ff510a7.json)
-
-[Extended Data](ext_articles/1ff510a7.ext.json)
-
----
-
-### Amount of soil train for 6 months
-
-*2024-07-01 12:02:48* · [`adalk`](https://www.ada.lk/breaking_news/මාස-6ට-මෙතරම්-දුම්රිය-පීලිපැනීම්-ප්‍රමාණයක්/11-410539) · `si`
-
-In 2024, Udayan Railway Passengers faced significant issues with the Kandy-Colombo Fort and Upcountry Railway Line, experiencing delays and discomforts. They proposed improving the Kandyan Railway Line to avoid bus transfers and accommodate foreign tourists better. Passengers urged authorities to maintain the Upcountry Railway Line effectively to enhance service reliability.
-
-🟩
-
-The train passengers say that the train is about 11 jumps in the past six months in the year 2024, and the train has been arrested only four months last June alone.
-
-Udayan Railway Passengers are accused of intense difficulties and inconveniencedays due to the Kandy-Colombo Fort and is due to the inconveniences of the Upcountry Railway Line.Do.
-
-They say that if train trains are raised on the Kandyan Railway Light, they will have to go to the middle of buses and carrying their baggage and treasures.
-
-They also say that foreign tourists travel in Kandyan trains, they are inconvenienced due to the difficulties due to these foreigners.
-
-Train passengers point out that the train services are constantly removed by the upcountry railway line.
-
-Railway Passengers are also requested to take necessary steps to drive the railway passengers as the Upcountry Railway Line will be properly maintained. (I J)
-
-◼️
-
-[Data](articles/2302ba50.json)
-
-[Extended Data](ext_articles/2302ba50.ext.json)
-
----
-
-### Lieutenant Commander arrested for dealing with agitation
-
-*2024-07-01 11:54:57* · [`adalk`](https://www.ada.lk/breaking_news/කලහකාරී-ලෙස-හැසිරුනු-ලුතිනන්-කමාන්ඩර්-අත්අඩංගුවට/11-410538) · `si`
-
-A Lieutenant Commander from the Sri Lanka Navy was arrested after allegedly attacking a police officer and civilians at a concert near the Colombo Lotus Tower. The incident led to another police officer being hospitalized. The suspect, who was on duty at the navy headquarters, reportedly acted aggressively before his arrest.
-
-🟩
-
-The Lotus Tower was held in the Colombo Lotus Tower. Maradana Police say a Lieutenant command of Sri Lanka Navy who was attacked by a group of persons visiting a concert and a police officer and a Lieutenant command of the Sri Lanka Navy
-
-The police constable has been admitted to the Colombo National Hospital for treatment.
-
-The suspect is a duty to the Sri Lanka Navy headquarters.
-
-According to information that a person behaves aggressively acting aggressively, a police constable had been blamed for the arrest of a police constable, the police constable, the police constable.
-
-It has been revealed that he had arrested a sub-inspector of the vicinity of the vicinity.
-
-◼️
-
-[Data](articles/746859e8.json)
-
-[Extended Data](ext_articles/746859e8.ext.json)
 
 ---

@@ -1,36 +1,70 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-01 10:53:30**
+As of **2024-07-01 11:05:27**
 
 ## Newspaper Stats
 
-*Scraped **33,038** Articles*
+*Scraped **33,041** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 302
 colombotelegraphcom | 302
-bbccomsinhala | 322
+bbccomsinhala | 323
 newsfirstlk | 363
 islandlk | 1,845
 economynextcom | 1,929
 dailyftlk | 2,036
 adalk | 2,936
-adaderanalk | 3,765
+adaderanalk | 3,766
 tamilmirrorlk | 3,909
 dailymirrorlk | 4,733
 virakesarilk | 5,139
-adaderanasinhalalk | 5,457
+adaderanasinhalalk | 5,458
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,034 (100.0%) of 33,038 articles have been extended.
+33,038 (100.0%) of 33,041 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-01 (Monday)
+
+### පාරින්ද රණසිංහ වැඩබලන නීතිපති ධුරයේ දිවුරුම් දෙයි
+
+*2024-07-01 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198351) · `si`
+
+ජ්‍යේෂ්ඨ නියෝජ්‍ය සොලිසිටර් ජනරාල් පාරින්ද රණසිංහ මහතා වැඩබලන නීතිපතිවරයා ලෙස දිවුරුම්දී තිබේ.
+
+◼️
+
+[Data](articles/cd70329a.json)
+
+---
+
+### New Acting Attorney General takes oath
+
+*2024-07-01 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100213/new-acting-attorney-general-takes-oath) · `en`
+
+Senior Additional Solicitor General Parinda Ranasinghe took oaths as the Acting Attorney General before the Chief Justice, Ada Derana reporter said.
+
+Last week, it was reported that the proposal to extend incumbent Attorney General Sanjay Rajaratnam’s term by another 06 months was defeated for the second time at the Constitutional Council meeting.
+
+The proposal, which was submitted by President Ranil Wickremesinghe, was defeated with 05 votes against it while 03 members voted in favour.
+
+Rajaratnam’s current term is set to expire at the end of this month, and the President had proposed an extension for an additional six months.
+
+However, the proposal requires the approval of the Constitutional Council, which twice defeated it.
+
+Accordingly, Senior Additional Solicitor General Parinda Ranasinghe, who is the son of former Chief Justice K. A. Parinda Ranasinghe has been appointed as the Acting AG.
+
+◼️
+
+[Data](articles/ea230e98.json)
+
+---
 
 ### One dead after armed gunmen storm French wedding
 
@@ -51,6 +85,8 @@ Around 100 people were celebrating at Eden Palace when the gunmen arrived at the
 ...
 
 [Data](articles/0741cc9b.json)
+
+[Extended Data](ext_articles/0741cc9b.ext.json)
 
 ---
 
@@ -182,17 +218,23 @@ The Member of Parliament MA said that the details of the funeral will be announc
 
 ---
 
-### පාර්ලිමේන්තු මන්ත්‍රී ආර් සම්බන්ධන් දිවි ගමනට සමුදෙයි
+### MP Reanean assists
 
 *2024-07-01 09:50:20* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මන්ත්‍රී-ආර්-සම්බන්ධන්-දිවි-ගමනට-සමුදෙයි/11-410535) · `si`
 
-දෙමළ ජාතික සන්ධානයේ නායකයා ලෙස කටයුතු කල පාර්ලිමේන්තු මන්ත්‍රී ආර් සම්බන්ධන් මහතා අභාවප්‍රාප්ත වී තිබේ. ඒ වන විට ඔහු අනූ එක් වැයි වියේ පසු විය.
+MP Racan, leader of the TNA, has passed away during treatment in a Colombo hospital. His family will announce the funeral arrangements.
 
-කොළඹ පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටියදී ඒ මහතා අභාවප්‍රාප්ත වී ඇති බව වාර්තාවේ. අවසන් කටයුතු සම්බන්ධයෙන් පසුව දැනුම් දෙන බව පවුලේ ප්‍රකාශකයෙක් සඳහන් කලේය.
+🟩
+
+MP Racan has passed away as the Leader of the TNA. By that time he was once.
+
+He has passed away while receiving treatment at a private hospital in Colombo. A family spokesman said that he would inform the funeral.
 
 ◼️
 
 [Data](articles/995e2ef6.json)
+
+[Extended Data](ext_articles/995e2ef6.ext.json)
 
 ---
 
@@ -835,6 +877,30 @@ Although the circumstances of her disappearance and discovery are still under in
 [Data](articles/11374738.json)
 
 [Extended Data](ext_articles/11374738.ext.json)
+
+---
+
+### ආර්. සම්බන්ධන්: දිවියට සමුදුන් ශ්‍රී ලංකාවේ දෙවන දෙමළ විපක්ෂ නායකයා ගැන දත් නොදත් තොරතුරු
+
+*2024-07-01 04:23:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c035z19dezno) · `si`
+
+ආර්. සම්බන්ධන්: දිවියට සමුදුන් ශ්‍රී ලංකාවේ දෙවන දෙමළ විපක්ෂ නායකයා ගැන දත් නොදත් තොරතුරු
+
+ශ්‍රී ලංකාවේ දේශපාලන ක්ෂේත්‍රයෙහි සුවිශේෂී චරිතයක් වූ ජ්‍යෙෂ්ඨ දේශපාලනඥයෙකු සහ හිටපු විපක්ෂ නායකවරයෙකු වූ ආර්. සම්බන්ධන් ජූනි 30 වන දා රාත්‍රියේ අභාවප්‍රාප්ත විය.
+
+ඔහුගේ පවුලේ සාමාජිකයින් දැනුම් දුන්නේ, සෞඛ්‍ය හේතු මත ඔහු කොළඹ පිහිටි පෞද්ගලික රෝහලකට ඇතුළත් කිරීමෙන් පසුව අභාවප්‍රාප්ත වූ බව ය.
+
+1933 වසරේ පෙබරවාරි 05 වන දා උපත ලැබූ රාජවරෝදියම් සම්බන්ධන් අභාවප්‍රාප්ත වන විට 91 වන වියේ පසු විය.
+
+ගල්ඔය ව්‍යාපෘතියේ සේවය කළ ගබඩා භාරකරුවෙකු බව කියන ඒ. රාජවරෝදියම්ගේ පුත්‍රයෙකු වූ ආර්. සම්බන්ධන්, යාපනය ශාන්ත පැට්‍රික්, කුරුණෑගල ශාන්ත ආනා, ත්‍රිකුණාමලය ශාන්ත ජෝසෆ් සහ මොරටුව ශාන්ත සෙබෙස්තියන් යන විද්‍යාලවලින් ඉගෙනුම ලබා තිබේ.
+
+පසුව ශ්‍රී ලංකා නීති විද්‍යාලයට ඇතුළත් වූ ඔහු, නීතිඥයෙකු බවට පත් විය.
+
+නීතිඥවරයෙකු ලෙස දිවුරුම් දීමෙන් පසු ආර්. සම්බන්ධන් ත්‍රිකුණාමලයේ සේවය කළේ ය.
+
+...
+
+[Data](articles/b10a069f.json)
 
 ---
 
@@ -1676,23 +1742,29 @@ Giving policy support and denying monetary stability has become mainstream in th
 
 ---
 
-### අද බස් ගාස්තු අඩුවෙයි?
+### Bus fares today decrease today?
 
 *2024-06-30 20:47:38* · [`adalk`](https://www.ada.lk/breaking_news/අද-බස්-ගාස්තු-අඩුවෙයි-/11-410533) · `si`
 
-වාර්ෂික බස් ගාස්තු සංශෝධනයට අනුව නව බස් ගාස්තුව අද (01දා) දිනය තුළදීප්‍රකාශයට පත් කරන බව ජාතික ගමනාගමන කොමිෂන් සභාව සඳහන් කරයි.
+Today marks a reduction in bus fares due to an annual review. The decision was reached after discussions between the CSE Chairman and bus unions on the 28th. The new rates, effective from today, aim to lower the minimum fare as agreed upon by both bus associations and the National Transport Commission.
 
-බස් ගාස්තු සංශෝධනය සම්බන්ධයෙන් පසුගිය 28වන දින බස් සංගම් සමග සාකච්ඡා කළ බවත් මේ අනුව මාර්ග 350ක ප්‍රමාණයකට අදාළව ගාස්තු සකස් කිරීම් සිදුකරන බවද එම කොමිසමේ සභාපති ශෂී වෙල්ගම මහතා %අද^ කළ විමසීමකදී සඳහන් කළේය.
+🟩
 
-නව ගාස්තුව අද (01දා) ප්‍රකාශයට පත් කිරීමෙන් පසු ටිකට්පත් නිකුත් කරන යන්ත්‍රවලට නව ගාස්තුව ඇතුළත් කළ යුතු බවත් මේ අනුව අද ප්‍රකාශයට පත් කරන ගාස්තුව ඉදිරි දිනවල ක්‍රියාත්මක වන බවද පවසා සිටියේය.
+According to the annual bus fare revision, the new bus fare will be held today (01st).
 
-බස් සංගම් හා ජාතික ගමනාගමන කොමිෂන් සභාවේ නිලධාරීන් අතර පැවැති සාකච්ඡාවේදී රුපියල් 30ක් ලෙස පවතින අවම බස් ගාස්තුව රුපියල් 28ක් දක්වා අඩු කිරීමට හා එතැන් පටන් ගාස්තුව 5෴කින්අඩු කිරීමට තීරණය කර තිබෙන බවද වාර්තාවේ.
+The Chairman of the Commission (Vishi Welgama) stated that the Chairman of the Commission (CSE) has been discussed with the bus unions on the 28th.
 
-මෙම ගාස්තුව පිළිබඳව බස් සංගම් සමග සාකච්ඡා කළ බවත් මේ අනුව අවම බස් ගාස්තුව රුපියල් 28ක් ලෙස හා අනෙකුත් ගාස්තුව 5෴කින් අඩු කිරීමට බස් සංගම් එකඟ වූ බවද ලංකා පෞද්ගලික බස් හිමියන්ගේ සංගමය සඳහන් කරයි.
+The new fare will be included in the issuance of tickets after being published today (01) and the fee is implemented today.
+
+It is reported that the minimum bus fare between the bus associations and the National Transport Commission officials has decided to reduce Rs.
+
+The Sri Lankan Private Bus Owners Association states that the bus associations have agreed to discuss this fee and reduce the minimum bus fare.
 
 ◼️
 
 [Data](articles/1e0ca69b.json)
+
+[Extended Data](ext_articles/1e0ca69b.ext.json)
 
 ---
 
@@ -1720,21 +1792,27 @@ At the same time, the Muslim Congress, Tamil parties and 12 members of the Risha
 
 ---
 
-### ලංකාවේ පළමුවරට මිරිස්වලින් අයිස් ක්‍රීම් හදයි
+### Ice cream in Sri Lanka's first chilli
 
 *2024-06-30 20:27:33* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-පළමුවරට-මිරිස්වලින්-අයිස්-ක්‍රීම්-හදයි/11-410532) · `si`
 
-මෙරට පළමුවරට මිරිස්වලින් නිෂ්පාදනය කරන ලද අයිස්ක්‍රීම් විශේෂයක්  හඳුන්වා දීමට නව නිපැයුම්කරුවෙකු වන වැලිමඩ, දරගල පදිංචි ලසන්ත රුවන් ලංකාතිලක මහතා  කටයුතු කර තිබේ.
+Sri Lanka introduces its first chili-flavored ice cream, produced with the support of the Ministry of Agriculture and Plantation Industries. Utilizing dry chili-bark byproducts, this unique ice cream also comes in honey flavor. Aimed at both children and adults, it marks a culinary innovation in the country.
 
-කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශය යටතේ ක්‍රියාත්මක කෘෂි අංශ නවීකරණ වැඩ සටහනේ තාක්ෂණික හා මුල්‍ය දායකත්වය යටතේ මෙම නිෂ්පාදනය එළි දක්වා ඇති අතර ඌව විශ්ව විද්‍යාලයේ ආහාර විද්‍යා හා තාක්ෂණික පීඨයේ මාර්ගොපදේශකත්වය යටතේ ඒ  පිළිබඳ පර්යේෂණ සිදු කර ඇත.
+🟩
 
-මෙම අයිස්ක්‍රීම් විශේෂය අතුරු නිෂ්පාදනයක් ලෙස බීජ ලබා ගැනීමට යොදාගන්නා වියළි මිරිස්වල පොත්ත උපයෝගි කර ගනිමින් සකස් කරනු ලැබේ. එසේම පැණි රස හා මිරිස් සැර එකට එක්වූ නවමු රසයකින් මෙම අයිස්ක්‍රීම් රස විඳිය හැකි බව නිපැයුම්කරුවා පෙන්වා දෙයි.
+Ven.
 
-ඒ අනුව මේ පිළිබඳ වැඩිදුරටත් අදහස් දක්වමින් ලංකාතිලක මහතා සඳහන් කර සිටියේ දරුවන්ට හා වැඩිහිටියන්ට වශයෙන් නිෂ්පාදන විශේෂ 02ක් හඳුන්වා දී ඇති බවත්  ඉදිරියේ දී ඒවා වෙළෙඳපළට නිකුත් කිරීමට කටයුතු කරන බවත්ය.
+The production has been launched under the technical and financial contribution of the agricultural and financial support implemented under the Ministry of Agriculture and Plantation Industries.
+
+This ice cream species will be prepared using the dry chilli-bark used to get seeds as a byproduct. The manufacturer points out that the ice cream can enjoy the ice cream with a honey and tasting.
+
+Speaking further Mr. Lankathilaka said that 2 production specials have been introduced to children and the adults.
 
 ◼️
 
 [Data](articles/467eb803.json)
+
+[Extended Data](ext_articles/467eb803.ext.json)
 
 ---
 
@@ -2125,61 +2203,5 @@ Subsequently, despite the development of various governments, the President poin
 [Data](articles/6ca44b37.json)
 
 [Extended Data](ext_articles/6ca44b37.ext.json)
-
----
-
-### Seven killed in Kyrgyz mud slides
-
-*2024-06-30 18:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100200/seven-killed-in-kyrgyz-mud-slides) · `en`
-
-Five children and two adults have died in mudslides in Kyrgyzstan, a mountainous Central Asian country on the front line of climate change, the government said Saturday.
-
-“Seven people died in the Nookat district” of southern Kyrgyzstan,” said the Ministry of Emergency Situations, adding that five of the dead were minors born between 2008 and 2016.
-
-At least 1,300 people on holiday in the area have been evacuated since Friday evening, it added. Saturday’s tragedy comes just days after the death of a five-year-old child in a similar disaster.
-
-Central Asia, a region particularly sensitive to climate change, regularly suffers floods, earthquakes, landslides, avalanches and fires.
-
-But rising temperatures are leading to more frequent and intense droughts, natural disasters and unpredictable seasonal weather condition in Kyrgyzstan, as per UN.
-
-◼️
-
-[Data](articles/c3d100a8.json)
-
-[Extended Data](ext_articles/c3d100a8.ext.json)
-
----
-
-### Can A Country Swamped By Mythological Beliefs Prosper?
-
-*2024-06-30 18:20:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/can-a-country-swamped-by-mythological-beliefs-prosper/) · `en`
-
-Mythological practices are prevalent in many religions worldwide, ranging from visiting places of religious significance to ringing bells dangling on the testicles of a sage. This piece is not to entirely reject these practices, as some rituals have become traditions, but to highlight the absurd levels of indulgence in Sri Lanka, primarily driven by a segment of Buddhist monks.
-
-Almost every family adheres to traditions such as consulting horoscope readers and waiting for auspicious times for significant events. Indigenous chanting and dancing, like Bali Thovil, are commonly accepted customs. However, there is an over-dependence on newly found practices and beliefs, where authorities need to act before these characters turn the youth into blind followers.
-
-...
-
-[Data](articles/5ef153d8.json)
-
-[Extended Data](ext_articles/5ef153d8.ext.json)
-
----
-
-### North, East Rise: A View
-
-*2024-06-30 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187331) · `ta`
-
-The growth in Sri Lanka's North and East presents new opportunities for its people, including merchants, students, and overseas Sri Lankans. This favorable situation encourages them to invest and contribute to the region's development, benefiting both themselves and the community.
-
-🟩
-
-Growth of the North and East of Sri Lanka offers new opportunities to many. People, merchants, parents, students and all Sri Lankans from abroad should plan to take advantage of this favorable situation. With this, it will be an opportunity not only to improve their own life but also to contribute to the development of the Northeast of Sri Lanka.
-
-◼️
-
-[Data](articles/45ada313.json)
-
-[Extended Data](ext_articles/45ada313.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 01:04:49**
+As of **2024-07-02 01:19:37**
 
 ## Newspaper Stats
 
-*Scraped **33,172** Articles*
+*Scraped **33,173** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,940
 dailyftlk | 2,041
 adalk | 2,952
 adaderanalk | 3,779
-tamilmirrorlk | 3,924
+tamilmirrorlk | 3,925
 dailymirrorlk | 4,733
 virakesarilk | 5,177
 adaderanasinhalalk | 5,487
@@ -26,9 +26,29 @@ adaderanasinhalalk | 5,487
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,172 (100.0%) of 33,172 articles have been extended.
+33,172 (100.0%) of 33,173 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-07-02 (Tuesday)
+
+### ஆர்.எஸ். ஜயசிங்கவின் சேவைக்கு ஜனாதிபதி பாராட்டு
+
+*2024-07-02 00:52:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆர்-எஸ்-ஜயசிங்கவின்-சேவைக்கு-ஜனாதிபதி-பாராட்டு/175-339728) · `ta`
+
+இலங்கை ஜனநாயக சோசலிசக் குடியரசில் 60 வருட அரச சேவையை வெற்றிகரமாக நிறைவு செய்ததற்காக மூத்த மொழிப் பயிற்றுநர் ஆர்.எஸ். ஜயசிங்கவிற்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க பாராட்டுத் தெரிவித்துள்ளார்.
+
+இதன்படி ஜனாதிபதி ரணில் விக்கிரமசிங்க, மூத்த மொழிப் பயிற்றுநர் ஆர்.எஸ். ஜயசிங்கவின் சேவையைப் பாராட்டி கடிதம் வழங்கும் நிகழ்வு நேற்று பிற்பகல் ஜனாதிபதி அலுவலகத்தில் அமைச்சரவைக் கூட்டம் ஆரம்பமாவதற்கு முன்னதாக நடைபெற்றது.
+
+மூத்த மொழிப் பயிற்றுநர் ஆர்.எஸ். ஜயசிங்க, 1961 ஆம் ஆண்டு ஆகஸ்ட் 01 ஆம் திகதி நில அளவைத் திணைக்களத்தில் சேவையில் இணைந்தார். மேலும் 03 ஜூலை 1974 இல் அமைச்சரவை அலுவலகத்தில் மொழி பயிற்றுநராக நியமிக்கப்பட்டார்.
+
+அதன்படி, 2024 ஜூலை 3ஆம் திகதி, அவர் அமைச்சரவை அலுவலகத்தில் 50 ஆண்டுகள் சேவையை நிறைவு செய்துள்ளார். (a)
+
+◼️
+
+[Data](articles/bad4feaa.json)
+
+---
 
 ### 2024-07-01 (Monday)
 
@@ -2387,39 +2407,5 @@ It has been revealed that he had arrested a sub-inspector of the vicinity of the
 [Data](articles/746859e8.json)
 
 [Extended Data](ext_articles/746859e8.ext.json)
-
----
-
-### Daduwa fisherman to be brought to the island
-
-*2024-07-01 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198355) · `si`
-
-A fisherman was rescued by the Sri Lanka Navy after his boat, MV Kota Camil, capsized, resulting in one death. He was taken to Hambantota General Hospital. Another fisherman was saved and handed over to the navy. A group of six fishermen experienced illness and four deaths after sailing from Tangalle Fisheries Harbor.
-
-🟩
-
-The devi 5 "The Sri Lanka Navy's Vijayabahu ship was brought to the Hambantota port this morning.
-
-He was later admitted to the Hambantota General Hospital.
-
-Two fishermen who were in poor quality of unprotected fishermen from the Delivery of the Department of Delivery in the Marine Search and Rescue Coordination of the Colombo Marine Search and Rescue Center.
-
-One fisherman was killed during the 'MV Kota Camil' while the fishermen were brought to land.
-
-The other fisherman was handed over to Vijayabahu Sandew.
-
-The multi-day fishing vessel was sailed for fishing to the international maritime of the Tangalle Fisheries Harbor to fishing with six fishermen.
-
-They were engaged in fishing in the sea, a liquid in a bottle floating in the sea.
-
-The following were later sick and four fishermen were killed in that vessel.
-
-The victim was 42-year-old wishes of the vessel, Dilshan, 32-year-old Sujith Sanjeewa, 33 fishermen.
-
-◼️
-
-[Data](articles/bb70cd11.json)
-
-[Extended Data](ext_articles/bb70cd11.ext.json)
 
 ---

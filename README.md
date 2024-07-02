@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 11:19:37**
+As of **2024-07-02 11:35:14**
 
 ## Newspaper Stats
 
-*Scraped **33,237** Articles*
+*Scraped **33,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,856
 economynextcom | 1,943
 dailyftlk | 2,054
-adalk | 2,956
-adaderanalk | 3,786
-tamilmirrorlk | 3,935
+adalk | 2,958
+adaderanalk | 3,787
+tamilmirrorlk | 3,937
 dailymirrorlk | 4,733
 virakesarilk | 5,178
 adaderanasinhalalk | 5,500
@@ -26,11 +26,77 @@ adaderanasinhalalk | 5,500
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,234 (100.0%) of 33,237 articles have been extended.
+33,237 (100.0%) of 33,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### ‘குண்டு’ தகவலால், கண்டியில் பதற்றம்
+
+*2024-07-02 11:15:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குண்டு-தகவலால்-கண்டியில்-பதற்றம்/175-339749) · `ta`
+
+கண்டி நீதிமன்ற வளாகத்தில் வெடிகுண்டு இருப்பதாக பொலிஸ் அவசர அழைப்புப் பிரிவுக்கு (119) கிடைத்த தகவலுக்கு அமைய நீதிமன்ற வளாகத்தில் அனைத்து நடவடிக்கைகளையும் நிறுத்தி, அங்குள்ள மக்களை வெளியேற்றி விரிவான சோதனையில் ஈடுபடவுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+செவ்வாய்க்கிழமை  (02) காலை 10.00 மணியளவில் இந்த தொலைபேசி அழைப்பு கிடைக்கப்பெற்றதையடுத்து பொலிஸார் உடனடியாக விசேட அதிரடிப்படையின் வெடிகுண்டு செயலிழப்பு பிரிவினரை அழைத்து சம்பவ இடத்துக்கு அனுப்பிவைக்கப்பட்டுள்ளனர்.
+
+இந்த தொலைபேசி அழைப்பு யாரேனும் ஒருவரின் போலி தொலைபேசி அழைப்பு எனத் தெரியவந்தால், அளிக்கப்பட்ட தொலைபேசி எண் மூலம் விரிவான விசாரணை நடத்தப்பட்டு அவர் மீது கடுமையான சட்டம் அமுல்படுத்தப்படும் என்று பொலிஸ் உயர் அதிகாரியொருவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/44c0740f.json)
+
+---
+
+### லிட்ரோ எரிவாயு விலை குறைப்பு
+
+*2024-07-02 11:09:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-எரிவாயு-விலை-குறைப்பு/175-339748) · `ta`
+
+இன்று (02) நள்ளிரவு முதல் சமையல் எரிவாயு சிலிண்டரின் விலையை குறைக்க நடவடிக்கை எடுத்துள்ளதாக லிட்ரோ எரிவாயு நிறுவனம் அறிவித்துள்ளது.
+
+இதன்படி, 12.5 கிலோ கிராம் எரிவாயு சிலிண்டர்  100 ரூபாவினால் குறைக்கப்படவுள்ள நிலையில், அதன் புதிய விலை 3,690 ரூபாவாகும்.
+
+5 கிலோ கிராம் எடையுள்ள எரிவாயு சிலிண்டரின் விலை 40 ரூபாவால் குறைக்கப்படவுள்ளதுடன், அதன் புதிய விலை 1,482 ரூபாவாகும்.
+
+2.3 கிலோ கிராம் எடையுள்ள எரிவாயு சிலிண்டரின் விலை 18 ரூபாவால் குறைக்கப்படவுள்ளதுடன், அதன் புதிய விலை 694ரூபாவாகும்.
+
+◼️
+
+[Data](articles/ff2566de.json)
+
+---
+
+### ලංකාවේ සමස්ත විදෙස් ණය ප්‍රමාණය ඩොලර් බිලියන 37යි
+
+*2024-07-02 11:05:11* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සමස්ත-විදෙස්-ණය-ප්‍රමාණය-ඩොලර්-බිලියන-37යි/11-410559) · `si`
+
+ශ්‍රී ලංකාවේ සමස්ත විදේශ ණය  ප්‍රමාණය ඩොලර් බිලයන 37ක් බව ජනපති රනිල් වික්‍රමසිංහ මහතා පාර්ලිමේන්තුවට දැනුම් දුන්නේය. ණය  ප්‍රතිව්‍යුහගත කිරිමට අදාළව පාර්ලිමේන්තුවේදි විශේෂ ප්‍රකාශයක් කරමින් ඔහු මේ බව පැවැසීය.
+
+මෙම ණය ප්‍රමාණය අතර ඩොලර් බිලියන 10.6ක ද්විපාර්ශ්වීය ණය, ඩොලර් බිලියන 11.7ක බහුපාර්ශවීය ණය, ඩොලර් බිලියන 14.7ක වාණිජ ණය හා ඩොලර් බිලියන 12.5ක සෛවරිත්ව බැඳුම්කර ඇතුළත් බව ඔහු පැවැසීය.
+
+◼️
+
+[Data](articles/32b2447e.json)
+
+---
+
+### Bomb scare at Kandy Court complex
+
+*2024-07-02 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100234/bomb-scare-at-kandy-court-complex) · `en`
+
+A tense situation has arisen at the Kandy Court complex this morning (July 02), Ada Derana reporter said.
+
+Accordingly, the bomb disposal unit of Sri Lanka Army together with Sri Lanka Police, have commenced a special security operation within the court premises.
+
+Meanwhile, the court proceedings have been temporarily halted and the people have been removed from the court complex, according to Ada Derana reporter.
+
+UPDATE: All the cases that were scheduled to be heard and the delivering of verdicts fixed for today (02) at the Kandy Court complex have been postponed until July 16, 2024.
+
+◼️
+
+[Data](articles/4681eedb.json)
+
+---
 
 ### Dandavas broke - delay in arriving trains
 
@@ -482,6 +548,24 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 ---
 
+### මේ දවස්වල ලෝකයේ කවුරුවත් ලංකාවේ බැදුම්කර ගන්නේ නෑ
+
+*2024-07-02 08:46:44* · [`adalk`](https://www.ada.lk/breaking_news/මේ-දවස්වල-ලෝකයේ-කවුරුවත්-ලංකාවේ-බැදුම්කර-ගන්නේ-නෑ/11-410556) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ මෙහෙයවීම යටතේ ක්‍රියාත්මක වත්මන් ආණ්ඩුවේ ආර්ථික වැඩපිළිවෙළින් බැහැරව කිසිවකු හෝ ආණ්ඩුවක් පවත්වාගෙන යෑමට සිහින මවනවා නම් යළිත් මේ රට කඩාවැටීමට ලක්වීම වළක්වාගත නොහැකි බව ප්‍රවාහන, මහාමාර්ග හා ජනමාධ්‍ය අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා පැවසීය.
+
+එබැවින් මෙම ආර්ථික වැඩපිළිවෙළ අඛණ්ඩව ඉදිරියට ගෙන යෑමට මේ රටේ සියලු පුරවැසියන්ගේ සහාය අවශ්‍ය කාලය එළැඹ තිබෙන බව ද අමාත්‍යවරයා පෙන්වා දුන්නේය.
+
+ප්‍රවාහන, මහාමාර්ග සහ ජනමාධ්‍ය අමාත්‍ය බන්දුල ගුණවර්ධන මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (01) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ අමාත්‍ය බන්දුල ගුණවර්ධන මහතා මෙසේද පැවසීය,
+
+...
+
+[Data](articles/e113b17a.json)
+
+---
+
 ### Coastal line trains delayed
 
 *2024-07-02 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100227/coastal-line-trains-delayed) · `en`
@@ -573,6 +657,8 @@ When money is printed through reverse repo or standing facilities, regardless of
 ...
 
 [Data](articles/e8465555.json)
+
+[Extended Data](ext_articles/e8465555.ext.json)
 
 ---
 
@@ -1140,6 +1226,8 @@ Speaking to reporters outside parliament on Monday July 01, he said there would 
 
 [Data](articles/9f116412.json)
 
+[Extended Data](ext_articles/9f116412.ext.json)
+
 ---
 
 ### Debt-to-GDP ratio and foreign reserves, the measures of a country’s economic health
@@ -1173,6 +1261,8 @@ Both opposition leader Sajith Premadasa and leftist National People’s Power (N
 ...
 
 [Data](articles/684fc99c.json)
+
+[Extended Data](ext_articles/684fc99c.ext.json)
 
 ---
 
@@ -2137,127 +2227,5 @@ The man had been drunk and 4 vehicles and the Provincial Councils were damaged b
 [Data](articles/8ce6d29f.json)
 
 [Extended Data](ext_articles/8ce6d29f.ext.json)
-
----
-
-### A tribute to the late Sampanthan's boutique in Parliament on Wednesday
-
-*2024-07-01 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187418) · `ta`
-
-In memory of former Opposition Leader R. Sampanthan, a Parliamentary Affairs committee postponed its final tribute from Wednesday, March 3rd, due to a lack of quorum. This led to the cancellation of the parliamentary session for the day. The President will deliver a special address on the Foreign Loan Reform Agreement, without debate, on March 2nd. Sampanthan's funeral service will take place on March 3rd, from 2:00 pm to 4:00 pm, at the Parliament building.
-
-🟩
-
-A committee of Parliamentary Affairs has taken a decision to postpone the late former Opposition Leader R. Sampanthan for the final honor of the last honor of the Parliamentary Complex on Wednesday, 3rd to 4.00 pm.
-
-Due to this, a decision has been taken with the compliance of the ruling party opposition party to not hold a parliamentary session on the 3rd.
-
-A special speech of the President will be presented in Parliament tomorrow on the implementation of the Foreign Loan Reform Agreement.
-
-The decision has been taken not to hold a debate on the decision to be taken tomorrow (02).
-
-Former Opposition Leader and Leader of the Sri Lanka Tamil National Alliance (TNA) Member of Parliament, R. Sampanthan, for the final tribute to the Parliamentary Complex tomorrow (03), and the parliamentary session of the Parliamentary Committee held today (01) at the Parliamentary Committee of ParliamentSaid.
-
-...
-
-[Data](articles/fd34979d.json)
-
-[Extended Data](ext_articles/fd34979d.ext.json)
-
----
-
-### President Mahinda Rajapaksa tomorrow
-
-*2024-07-01 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198370) · `si`
-
-Tomorrow, President Mahinda Rajapaksa will address Parliament about implementing foreign debt restructuring agreements. A parliamentary committee met yesterday under Speaker Mahinda Yapa Abeywardena. MP Lakshman Kiriella mentioned that one of three key agreements hasn't been signed yet, stating no debate can occur until all are signed. Following the President's speech, Parliament will adjourn without debate. Additionally, to honor late opposition leader R.ampandan, his body will be at Parliament from 2 pm to 4 pm on July 3rd.
-
-🟩
-
-The President is to make a special statement in Parliament tomorrow (02) regarding the implementation of the agreements to restructuring foreign debt.
-
-The proposal to be held tomorrow, the relevant proposal is due to be held on the standard or election vote.
-
-The Committee on Parliamentary Affairs was held under the patronage of Speaker Mahinda Yapa Abeywardena today (01).
-
-Meanwhile, MP Lakshman Kiriella said that the party leader was not given to the government today at the party leader meeting today.
-
-He said that one of the three covenants was still signed.
-
-Speaking further Mr. Lakshman Kiriella further stated that the three agreements will not be a debate without signing.
-
-"At the previous party leaders meeting said that these three agreements were placed on the Internet. Signed and said to the cabinet. He said the PC submit. Not to do so. "
-
-"After the President's speech tomorrow, Parliament postponed. No debate will be held "
-
-...
-
-[Data](articles/8ba42af9.json)
-
-[Extended Data](ext_articles/8ba42af9.ext.json)
-
----
-
-### First Look release of 'Diligence' starring Ajith Kumar
-
-*2024-07-01 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/187413) · `ta`
-
-The first look of 'Diligence,' starring Ajith Kumar, Arjun, Trisha, Regina, and Arav, directed by Mahri Thirumeni, and featuring music by Anirudh Ravichander, has been released. Filming is wrapping up in Azerbaijan, and the team hopes to match the success of 'Good Bad Ugly's' second look poster, which garnered over 62 million views.
-
-🟩
-
-The first look of actor Ajith Kumar starrer 'Diligence' has been released.
-
-Ajith Kumar, Arjun, Trisha, Regina, Arav, starring director and actor Mahri Thirumeni, starring 'Virtyichi'. Anirudh Ravichander has composed the film, which is being recorded by Om Prakash. The film is being produced as Survival Excise Entertainment and is produced by producer Subhaskaran on behalf of Leica Productions.
-
-The final phase of the film is currently underway in Azerbaijan. The film crew has released videos to create the ongoing excuse scenes.
-
-Following this, the first look of the film has been released. The hero Ajith Kumar is stylish, and the 'perseverance' is a great welcome as the 'Dermis' and 'he in the path' and 'he in the path'.
-
-Meanwhile, more than 62 million people visited the new record of the second look poster of Ajith Kumar's film 'Good Bad Ugly', and the filmmakers are eagerly awaiting such a record for the first look of 'diligence'.
-
-◼️
-
-[Data](articles/e4c51d41.json)
-
-[Extended Data](ext_articles/e4c51d41.ext.json)
-
----
-
-### President to condole in Sambandan
-
-*2024-07-01 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/187414) · `ta`
-
-President Ranil Wickremesinghe expressed deep condolences over the passing of Sampanthan, a key figure in the Sri Lanka Tamil National Alliance (TNA), praising his efforts to unite the nation.
-
-🟩
-
-President Ranil Wickremesinghe has condoled the demise of Sampanthan, the senior leader of the Sri Lanka Tamil National Alliance (TNA).
-
-I express my deepest condolences to the death of Sampanthan. As a national leader, he worked tirelessly to reduce the divisions in our country. He said he would condole the country throughout the country.
-
-◼️
-
-[Data](articles/50f1c2b6.json)
-
-[Extended Data](ext_articles/50f1c2b6.ext.json)
-
----
-
-### President to deliver special statement in Parliament tomorrow
-
-*2024-07-01 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100222/president-to-deliver-special-statement-in-parliament-tomorrow) · `en`
-
-President Ranil Wickremesinghe is scheduled to make a special statement to the Parliament tomorrow (02) on the implementation of the debt restructuring agreements, the Parliamentary Communications Department said.
-
-Accordingly, the debate and vote on the agreements have been postponed, it added.
-
-Earlier, the Speaker of Parliament Mahinda Yapa Abeywardena informed all the Members of Parliament in writing to attend a special parliamentary sitting on July 2, 2024 at 9.30 a.m. The special parliamentary sitting had been called in pursuance of Standing Order No. 16 of the Standing Orders of the Parliament, as per a request made by the Prime Minister.
-
-◼️
-
-[Data](articles/112a036f.json)
-
-[Extended Data](ext_articles/112a036f.ext.json)
 
 ---

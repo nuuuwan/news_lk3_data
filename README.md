@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 04:53:12**
+As of **2024-07-03 05:04:40**
 
 ## Newspaper Stats
 
-*Scraped **33,378** Articles*
+*Scraped **33,384** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 327
 newsfirstlk | 363
 islandlk | 1,857
 economynextcom | 1,954
-dailyftlk | 2,054
+dailyftlk | 2,060
 adalk | 2,975
 adaderanalk | 3,807
 tamilmirrorlk | 3,951
@@ -26,11 +26,123 @@ adaderanasinhalalk | 5,528
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,378 (100.0%) of 33,378 articles have been extended.
+33,378 (100.0%) of 33,384 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### Simon Bittlestone is CIMA’s new global President
+
+*2024-07-03 04:53:35* · [`dailyftlk`](https://www.ft.lk/business/Simon-Bittlestone-is-CIMA-s-new-global-President/34-763775) · `en`
+
+Says world is ripe with opportunities for accounting and finance profession
+
+Sri Lanka’s Hasanji Ellawala and Ameena Ziauddin appointed to Middle East, South Asia and North Africa Regional Engagement Group which will provide insights into the continent’s profession and shape the Association’s global strategic plan
+
+The Chartered Institute of Management Accountants (CIMA) this week announced that it has appointed finance transformation business leader Simon Bittlestone as the 91st President of the Institute.
+
+He will also serve as 9th Chair of the Association of International Certified Professional Accountants (the Association), the world’s largest accounting membership body of public and management accountants.
+
+...
+
+[Data](articles/b267491a.json)
+
+---
+
+### SL to ink deal with Swiss Govt. for second phase of Global Textile and Apparel Program
+
+*2024-07-03 04:50:11* · [`dailyftlk`](https://www.ft.lk/business/SL-to-ink-deal-with-Swiss-Govt-for-second-phase-of-Global-Textile-and-Apparel-Program/34-763774) · `en`
+
+The Cabinet of Ministers on Monday approved a proposal to enter into a project agreement with the Swiss State Secretariat for Economic Affairs (SECO) to implement the second phase of the Global Textile and Apparel Program.
+
+The agreement, set to be signed by the Sri Lanka Export Development Board (EDB), will provide significant support from SECO’s Global Textiles and Apparels Program. This support is expected to drive the industry’s shift towards sustainable practices and enhance its competitive edge in the global market by integrating advanced digital technologies.
+
+“The initiative aims to support the transformation of Sri Lanka’s textile and apparel industry towards producing quality green products through the promotion of digitisation,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
+
+...
+
+[Data](articles/45c59cfb.json)
+
+---
+
+### Working committee to develop framework to establish National Quality Council
+
+*2024-07-03 04:49:37* · [`dailyftlk`](https://www.ft.lk/business/Working-committee-to-develop-framework-to-establish-National-Quality-Council/34-763773) · `en`
+
+The Cabinet of Ministers on Monday approved the formation of a working committee tasked with developing and implementing the framework to establish the National Quality Council.
+
+The committee will comprise representatives from relevant line ministries and national quality institutions.
+
+The decision follows recommendations outlined in the National Quality Policy presented in 2016, the National Quality Infrastructure Strategy 2018-2022, and the National Export Strategy 2018-2022.
+
+Currently, the National Quality Institute and various national quality regulatory agencies operate independently under different line ministries. The proposed National Quality Council seeks to integrate these entities, streamlining operations and improving the overall quality standards across industries.
+
+The establishment of the council is expected to boost Sri Lanka’s efforts to enhance product quality and ensure compliance with international standards and export capabilities.
+
+◼️
+
+[Data](articles/db34895b.json)
+
+---
+
+### Opposition raises concerns with EC over Govt.’s misuse of public funds ahead of polls
+
+*2024-07-03 04:48:19* · [`dailyftlk`](https://www.ft.lk/news/Opposition-raises-concerns-with-EC-over-Govt-s-misuse-of-public-funds-ahead-of-polls/56-763772) · `en`
+
+Opposition alleges Govt. is diverting public funds under pretext of regional development to benefit specific candidates and parties
+
+to President’s office for regional development initiatives is an attempt to sway voter sentiment
+
+Condemns Government-sponsored projects such as “Urumaya,” rice subsidies, and free fertilisers, arguing these are politically motivated efforts
+
+Opposition parties and alliances have united in a formal appeal to the Election Commission of Sri Lanka (ECSL), raising urgent concerns about perceived Government efforts to exploit public resources for electoral gain.
+
+In a detailed letter addressed to the Commission, the Opposition groups highlighted several grievances regarding the conduct of the current administration leading up to the forthcoming elections.
+
+The opposition noted that while a Presidential election is constitutionally due within a month, the Government is allegedly diverting public funds towards partisan purposes under the guise of regional development.
+
+...
+
+[Data](articles/6ec40a56.json)
+
+---
+
+### Govt. moves to boost women’s economic participation via Rs. 2 b special loan scheme
+
+*2024-07-03 04:46:35* · [`dailyftlk`](https://www.ft.lk/news/Govt-moves-to-boost-women-s-economic-participation-via-Rs-2-b-special-loan-scheme/56-763771) · `en`
+
+The Government has decided to allocate Rs. 2 billion of the Rs. 20 billion special loan scheme to eliminate financial barriers and empower women in the Micro, Small and Medium Enterprises (MSMEs).
+
+The move follows a Cabinet decision on 26 February, where the Government allocated Rs. 20 billion to reinvigorate the enterprise sector.
+
+The Cabinet of Ministers on Monday approved implementing the special loan scheme that is expected to provide much-needed support to women entrepreneurs, helping them overcome the barriers that have traditionally impeded their financial independence and economic contribution.
+
+“Despite Sri Lanka’s efforts to foster economic growth, women’s participation in the country’s economic activities remains lower compared to regional and Asian countries,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said.
+
+...
+
+[Data](articles/365c77a7.json)
+
+---
+
+### Next SL leader needs economic vision, not just debt management skills: Prof Charitha Herath
+
+*2024-07-03 04:45:17* · [`dailyftlk`](https://www.ft.lk/news/Next-SL-leader-needs-economic-vision-not-just-debt-management-skills-Prof-Charitha-Herath/56-763770) · `en`
+
+Freedom People’s Congress (FPC) member Prof. Charitha Herath has called for Sri Lanka to appoint a leader capable of managing the country’s economy, not merely its debt. Speaking at a press conference yesterday, Herath addressed the current economic situation and the forthcoming political changes.
+
+Herath highlighted that the broad economic crisis has now evolved into a debt crisis. He criticised the prevailing focus on debt management, which he believes has led to a misconception that the ideal Presidential candidate is one who excels in debt management.
+
+“This is wrong. No matter who is appointed, he must manage debt, but the reason for choosing a new President should not be his ability to manage debt. It should be someone with a broad vision to manage the economy,” Herath asserted.
+
+He warned that economic management has been overshadowed by an excessive focus on debt management.
+
+...
+
+[Data](articles/e4bc36f0.json)
+
+---
 
 ### Settle in 3 months
 
@@ -2221,123 +2333,5 @@ The proposal brought forth by MP Buddhika Pathirana today (02) has been unanimou
 [Data](articles/86b097ef.json)
 
 [Extended Data](ext_articles/86b097ef.ext.json)
-
----
-
-### A national government cannot
-
-*2024-07-02 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198401) · `si`
-
-A decision has been made against establishing a national government backed by the current President, with Parliamentarian Buddhika Pathirana opposing this idea.
-
-🟩
-
-The proposal has been decided that no proposal to establish a national government under the patronage of the present President.
-
-Parliamentarian Buddhika Pathirana was not supporting such a proposal.
-
-◼️
-
-[Data](articles/118d8af1.json)
-
-[Extended Data](ext_articles/118d8af1.ext.json)
-
----
-
-### An interim injunction of the decision to remove Dayasiri from the post of General Secretary
-
-*2024-07-02 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/187475) · `ta`
-
-An interim injunction suspends SLFP's decision to oust MP Dayasiri Jayasekara as General Secretary.
-
-🟩
-
-The interim injunction has been issued to suspend the party's decision to remove MP Dayasiri Jayasekara from the General Secretary of the Sri Lanka Freedom Party (SLFP).
-
-◼️
-
-[Data](articles/e00d5974.json)
-
-[Extended Data](ext_articles/e00d5974.ext.json)
-
----
-
-### Organised Crimes: An Escalating Security Threat To Sri Lanka’s Stability
-
-*2024-07-02 12:51:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/organised-crimes-an-escalating-security-threat-to-sri-lankas-stability/) · `en`
-
-As a developing island nation Sri Lanka is facing numerous security challenges. Organized crimes also can be identified as a pressing issue among them. Organized crimes such as drug trafficking, human trafficking, terrorist financing, pyramid scheming, Ponzi scheming, gun violence, trading illegal weapons, and money laundering have become a significant problem in Sri Lanka, especially by undermining the Rule of Law, democracy, peace, and stability of the country.
-
-According to the United Nations Office on Drugs and Crimes (UNODC), organized crime consists of planned and rational acts by groups of individuals, rather than random, unplanned individual criminal acts. Furthermore, it states that organized crimes are driven by the purpose of financial gain through criminal activities and are often supported by corruption. (United Nations Office on Drugs and Crime 2019).
-
-...
-
-[Data](articles/91f38880.json)
-
-[Extended Data](ext_articles/91f38880.ext.json)
-
----
-
-### An emergency operation on Jampata Street
-
-*2024-07-02 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198400) · `si`
-
-Coastal Police Division arrested 49 suspects, including 13 with drugs like heroin, ice, and cannabis, during a special operation near Kochchikade Church and Jampata Street. The operation involved 8 STF personnel and 30 police officers.
-
-🟩
-
-In a special operation conducted, 49 suspects were arrested in a special operation conducted by the Coastal Police Division.
-
-The police said that 13 persons arrested with heroin, ice and cannabis and two warrants were among them.
-
-The suspects were arrested at the Kochchikade Church, near the Kochchikade Church and Jumptay Wayiya Bodhi near the Kochchikade Church and the Jamphata Wayiya Bodhi near the Kochchikade Church.
-
-Eight STF personnel and 30 police officers and police officers were also present at the special operation.
-
-◼️
-
-[Data](articles/c6670d7b.json)
-
-[Extended Data](ext_articles/c6670d7b.ext.json)
-
----
-
-### Litro house prices down
-
-*2024-07-02 12:40:18* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෘහස්ථ-ගෑස්-මිල-බස්සයි/11-410563) · `si`
-
-Litro Gas reduced its gas prices; a 12.5 kg cylinder now costs Rs.694, down from Rs.709, effective today.
-
-🟩
-
-Litro Gas Chairman Priome, Litro Gas Chairman, said that Litro has reduced the price of gas prices.
-
-Accordingly, the price of a 12.5 kilogram of cylinder of 3090 kilograms of cylinder is Rs.694 was reduced to 694 and that the new price was operating today (2), he said.
-
-◼️
-
-[Data](articles/72916ec6.json)
-
-[Extended Data](ext_articles/72916ec6.ext.json)
-
----
-
-### Maximum retail price for medicines?
-
-*2024-07-02 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100237/maximum-retail-price-for-medicines) · `en`
-
-The National Medicines Regulatory Authority (NMRA) Act has been amended in order to introduce a price mechanism for determining the maximum retail price of medicines.
-
-This measure has been taken as per the instructions Minister of Health Ramesh Pathirana in view of ensuring the transparency and fairness in the pricing of pharmaceuticals.
-
-Accordingly, a method has been introduced for determining the maximum retail price of particular drug, considering their dosage form and strength.
-
-The gazette notification related to the matter has also been published to formalize these changes.
-
-◼️
-
-[Data](articles/b2a3d846.json)
-
-[Extended Data](ext_articles/b2a3d846.ext.json)
 
 ---

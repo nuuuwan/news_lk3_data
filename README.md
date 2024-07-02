@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 13:19:38**
+As of **2024-07-02 13:35:15**
 
 ## Newspaper Stats
 
-*Scraped **33,266** Articles*
+*Scraped **33,268** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,49 @@ islandlk | 1,856
 economynextcom | 1,943
 dailyftlk | 2,054
 adalk | 2,961
-adaderanalk | 3,790
+adaderanalk | 3,791
 tamilmirrorlk | 3,939
 dailymirrorlk | 4,733
 virakesarilk | 5,188
-adaderanasinhalalk | 5,505
+adaderanasinhalalk | 5,506
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,263 (100.0%) of 33,266 articles have been extended.
+33,266 (100.0%) of 33,268 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### SJB group decide not to support a national govt.
+
+*2024-07-02 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100238/sjb-group-decide-not-to-support-a-national-govt) · `en`
+
+A group of Samagi Jana Blawegaya (SJB) Parliamentarians has unanimously decided not to support the establishment of a national government under the incumbent President Ranil Wickremesinghe.
+
+The proposal brought forth by MP Buddhika Pathirana today (02) has been unanimously approved by the SJB Parliamentary group this way.
+
+◼️
+
+[Data](articles/396396c8.json)
+
+---
+
+### සජබය ජාතික ආණ්ඩුවකට බෑ කියයි
+
+*2024-07-02 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198401) · `si`
+
+වර්තමාන ජනාධිපතිවරයාගේ මූලිකත්වයෙන් ජාතික ආණ්ඩුවක් පිහිටුවීම සඳහා වන කිසිදු යෝජනාවකට සහයෝගය නොදිය යුතු බව සමගි ජන බලවේගය තීරණය කර තිබේ.
+
+එවැනි යෝජනාවකට සහයෝගය නොදිය යුතු බවට පාර්ලිමේන්තු මන්ත්‍රී බුද්ධික පතිරණ මහතා ගෙන ආ යෝජනාව සජබ මන්ත්‍රී කණ්ඩායම අද (02) ඒකමතිකව අනුමත කර තිබුණි.
+
+◼️
+
+[Data](articles/118d8af1.json)
+
+---
 
 ### An emergency operation on Jampata Street
 
@@ -56,17 +84,23 @@ Eight STF personnel and 30 police officers and police officers were also present
 
 ---
 
-### ලිට්‍රෝ ගෘහස්ථ ගෑස් මිල බස්සයි
+### Litro house prices down
 
 *2024-07-02 12:40:18* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෘහස්ථ-ගෑස්-මිල-බස්සයි/11-410563) · `si`
 
-ලිට්‍රෝ ගෘහස්ථ ගෑස් මිල  අඩු කළ බව ලිට්‍රො ගෑස් සමාගමේ සභාපති මුදිත පීරිස් මහතා පැවසීය.
+Litro Gas reduced its gas prices; a 12.5 kg cylinder now costs Rs.694, down from Rs.709, effective today.
 
-ඒ අනුව ලිට්‍රෝ කිලෝග්‍රෑම් 12.5 ක සිලින්ඩරයක මිල රුපියල් 100 කින් ද එහි නව මිල රුපියල්  3690 ක් ද, කිලෝග්‍රෑම් 5 ක සිලින්ඩරයක මිල රුපියල් 40 කින් ද එහි නව මිල රුපියල් 1482 ක් ද, කිලෝග්‍රෑම් 2.3 ක සිලින්ඩරයක මිල රුපියල් 18 කින් ද එහි නව මිල රුපියල් 694  ක් දක්වා අඩු වු  බවත් නව මිල අද (2) දින මාධ්‍යම රාත්‍රීයේ සිට ක්‍රියාත්මක වන බවත් මුදිත පිරිස් මහතා සඳහන් කළේය.
+🟩
+
+Litro Gas Chairman Priome, Litro Gas Chairman, said that Litro has reduced the price of gas prices.
+
+Accordingly, the price of a 12.5 kilogram of cylinder of 3090 kilograms of cylinder is Rs.694 was reduced to 694 and that the new price was operating today (2), he said.
 
 ◼️
 
 [Data](articles/72916ec6.json)
+
+[Extended Data](ext_articles/72916ec6.ext.json)
 
 ---
 
@@ -998,19 +1032,25 @@ President's speech and the late former opposition leader Ira. The Secretary Gene
 
 ---
 
-### අධ්‍යාපන පද්ධතියට තවත් 1875 ක් එක්වෙති
+### Another 1875 more to the education system
 
 *2024-07-02 09:23:24* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-පද්ධතියට-තවත්-1875-ක්-එක්වෙති/11-410557) · `si`
 
-අධ්‍යාපන පද්ධතියට නිලධාරීන් හා ගුරුවරුන් ලෙස   හෙට (3)සිට අලුතින්   1875 ක් එක්වෙයි.අධ්‍යාපන අමාත්‍යාංශය මගින් ලිඛිත විභාග  හා සම්මුඛ පරීක්ෂණ පවත්වා බඳවා ගත්  මොවුන් සඳහා  පත්වීම් ලිපි ප්‍රදානෝත්සවය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් හෙට  (03) පෙරවරුවේ අරලියගහ මන්දිරයේදී පැවැත්වේ.
+Tomorrow, 1875 new positions will be filled in the education sector, including 60 officers for the third grade of the Sri Lanka Education Administrative Service and 109 graduates hired as English teachers in national schools.
 
-මෙහිදී ශ්‍රී ලංකා අධ්‍යාපන  පරිපාලන සේවයේ තුන්වන ශ්‍රේණියට  සේවා පළපුරුද්ද හා කුසලතා පදනම මත බඳවා ගත් නිලධාරීන් 60 දෙනෙකුට පත්වීම් ලබා දීමට නියමිතය.
+🟩
 
-ඊට අමතරව   ජාතික පාසල්වල පවතින ඉංග්‍රීසි ගුරු පුරප්පාඩු සඳහා ගුරු සේවයට  බඳවාගත් ඉංග්‍රීසි ඩිප්ලෝමාධාරීන් 109 කටද ජාතික පාසල්වල උසස් පෙළ ගණිතය,විද්‍යාව,තාක්ෂණවේදය,විදේශ භාෂා ,ඉංග්‍රීසි සහ 13 වසරක අඛණ්ඩ  අධ්‍යාපනය සඳහාවූ විෂයන් ඉගැන්වීමට බඳවාගත් උපාධිධාරීන් 1706 කට ද මෙහිදී  පත්වීම් ප්‍රදානය කරන බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+The appointment of 1875 new appointments to the educational system will be held tomorrow.
+
+A total of 60 officers have been appointed to the third grade of Sri Lanka Education Administrative Service.
+
+In addition, the Ministry of Education will be awarded to 109 Graduates who were recruited to the English teacher vacancies existing in national schools.says.
 
 ◼️
 
 [Data](articles/d91cea18.json)
+
+[Extended Data](ext_articles/d91cea18.ext.json)
 
 ---
 
@@ -1345,6 +1385,8 @@ Ranil  Wickremesinghe was appointed Prime Minister on 12 May 2022 by the then pr
 ...
 
 [Data](articles/7940d96a.json)
+
+[Extended Data](ext_articles/7940d96a.ext.json)
 
 ---
 
@@ -2161,55 +2203,5 @@ Fisheries Minister Douglas Devananda said that 360 nautical miles from land to t
 [Data](articles/bd02c996.json)
 
 [Extended Data](ext_articles/bd02c996.ext.json)
-
----
-
-### NPP will hand over power to modern youth from the corrupted elite – AKD
-
-*2024-07-01 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100226/npp-will-hand-over-power-to-modern-youth-from-the-corrupted-elite-akd) · `en`
-
-Leader of the National People’s Power (NPP) Anura Kumara Dissanayake stated that under the leadership of his party, the youth will be provided with new economic opportunities for small and medium businesses.
-
-Addressing Anuradhapura district’s youth conference of NPP held in Kekirawa, he further stated that his party will take over the power from the corrupted elite and hand it over to the modern youth generation.
-
-“We will create a mania of small and medium-scale businesses. Instead of getting a government job, the youth thinks how to become an entrepreneur. But, they don’t have the first essential thing to become an entrepreneur, which is the capital”, Dissanayake said.
-
-“Under the leadership of National People’s Power, we will build a new development bank, which will provide Initial capital without collateral. We will create new economic opportunities for the youth.”
-
-“For the longest time, the political authority in our country destructed the youth’s future”, he alleged.
-
-...
-
-[Data](articles/1f37e4df.json)
-
-[Extended Data](ext_articles/1f37e4df.ext.json)
-
----
-
-### Drunken driver's work suspended
-
-*2024-07-01 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198380) · `si`
-
-A Sri Lanka Railways bus driver has been suspended after being found intoxicated while driving from Colombo to Kandy. The incident occurred yesterday when the driver exhibited signs of excessive alcohol consumption. He was apprehended near Kandy and turned over to the Railway Security Division.
-
-🟩
-
-Sri Lanka Railways says that the bus driver has been suspended.
-
-The driver of the train traveling from Colombo from Colombo yesterday (30) has commenced an investigation at the department.
-
-The driver of the train who started running from Colombo to Kandy yesterday had behaved as excessive alcohol and treasure.
-
-He was pursued and used by the train, pursued him and seized him and deployed the assistant driver in the train near Kandy.
-
-The drunk driver was handed over to the Railway Security Division through the Railway Security Officer.
-
-The train was to reach Kandy to Kandy.  එහෙත් දුම්රිය පැමිණියේ සවස 2.30ට බව මගීන් පැවසීය.
-
-◼️
-
-[Data](articles/47dfbf87.json)
-
-[Extended Data](ext_articles/47dfbf87.ext.json)
 
 ---

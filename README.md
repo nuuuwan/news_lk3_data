@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 09:35:16**
+As of **2024-07-02 09:54:18**
 
 ## Newspaper Stats
 
-*Scraped **33,212** Articles*
+*Scraped **33,216** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 303
+dbsjeyarajcom | 304
 colombotelegraphcom | 304
 bbccomsinhala | 325
 newsfirstlk | 363
@@ -17,7 +17,7 @@ economynextcom | 1,940
 dailyftlk | 2,054
 adalk | 2,954
 adaderanalk | 3,781
-tamilmirrorlk | 3,928
+tamilmirrorlk | 3,931
 dailymirrorlk | 4,733
 virakesarilk | 5,178
 adaderanasinhalalk | 5,493
@@ -26,41 +26,87 @@ adaderanasinhalalk | 5,493
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,210 (100.0%) of 33,212 articles have been extended.
+33,212 (100.0%) of 33,216 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### සාකච්ඡා සාර්ථකයි
+### மாலையில் அல்லது இரவில் மழைக்கு வாய்ப்பு
 
-*2024-07-02 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198388) · `si`
+*2024-07-02 09:29:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாலையில்-அல்லது-இரவில்-மழைக்கு-வாய்ப்பு/175-339735) · `ta`
 
-සිය ඉල්ලීම් සම්බන්ධයෙන් බලධාරීන් සමග පැවති සාකච්ඡා සාර්ථක වූ බව විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින් පවසයි.
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
 
-විශ්වවිද්‍යාල වෘත්තීය සමිති ඒකාබද්ධ කමිටුවේ සම සභාපති ධම්මික ප්‍රියන්ත මහතා සඳහන් කළේ සිය ගැටලුවලට විසඳුම් අද (02) හෝ හෙට (03) ලබාදීමට බලධාරීන් එකඟතාව පළකළ බවය.
+ஊவா மற்றும் கிழக்கு மாகாணங்களில் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
 
-"අපි පැහැදිලිව දැනුම්දුන්නා රාගවන් අමාත්‍යවරයා වෙත ලාබදී තිබෙන එකඟතාවයන්වලින් බැහැරව කටයුතු නොකර බව. මේ වෘත්තීය ක්‍රියාමර්ග අවසන් කිරීමට නම් අපගේ 2017 අනුමත මාසික හිලව් දීමනාව අපිට ඒ ආකාරයෙන් ලබාදිය යුතු බව ඒ අනුව ඔවුන් එකඟතාවයට එළඹුණා අමාත්‍ය මණ්ඩලයට මේ සම්බන්ධයෙන් කරුණු ඉදිරිපත්කර ඒ සඳහා ඉක්මනින් විසඳුම් ලබාදෙන බවට. අපි බලාපොරොත්තු වෙනවා අද දවසේ අපට ඉක්මනින් විසඳුමක් ලැබෙයි කියලා. අද හෝ හෙට කියලා එතුමා කිව්වේ. අපි බලාපොරොත්තු වෙනවා මේ වැඩවර්ජනයට සාධනීය විසඳුමක් ලැබෙයි කියලා. යම් විදිහකින් පාලන අධිකාරිය මේ සඳහා සාධනීය විසඳුමක් දීමට අපොහොත් වුණොත් අනිවාර්යෙන්ම වෘත්තීය ක්‍රියාමර්ගය අඛණ්ඩව ක්‍රියාත්මක වෙනවා."
+மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது. R
 
-...
+◼️
 
-[Data](articles/4fea7ba5.json)
+[Data](articles/190e4381.json)
 
 ---
 
-### අනතුරකින් ඊශ්‍රායෙල් ජාතිකයෙක් මරුට
+### எரிவாயு விலையில் மாற்றம்?
+
+*2024-07-02 09:28:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிவாயு-விலையில்-மாற்றம்/175-339734) · `ta`
+
+உலக சந்தையில் எரிவாயு விலையில் ஏற்பட்ட மாற்றத்திற்கு அமைய இலங்கையிலும் எரிவாயு விலையில் திருத்தம் அறிவிக்கப்படும் என லிட்ரோ நிறுவனத்தின் தலைவர் முதித பீரிஸ் தெரிவித்தார்.
+
+மாதாந்திர எரிவாயு விலை திருத்தத்தின்படி, ஜூன் 4 ஆம் திகதி இறுதியாக எரிவாயு விலை திருத்தம் செய்யப்பட்டமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/aaae5700.json)
+
+---
+
+### Discussions are successful
+
+*2024-07-02 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198388) · `si`
+
+Teachers' unions in Sri Lanka are protesting nationwide after their demands were allegedly ignored. They expect a resolution soon, as discussions with authorities have been productive, promising to address their concerns regarding allowances and other issues. The unions vow to continue their actions until their demands are met positively.
+
+🟩
+
+University alleged employees say that discussions with authorities were successful in their demands.
+
+Dhammika Priyantha stated that the authorities agreed to submit their problems today or tomorrow (03) or tomorrow.
+
+"We did not work out of agreements that were profitable to the Minister of Ragawan clearly notified. To end this trade forest, they agreed that our 2017 Monastery allowance should be made in that way to the Cabinet of the Cabinet with regard to this to the Cabinet. We hope we will get a solution soon today. He said today or tomorrow. We hope this strike will get a positive solution. If you have a positive solution to this, the professional action continues. "
+
+The teacher's trade unions say they are engaged in protest in opposing to all schools in the country today due to non-responding to their demands.
+
+Ceylon Teachers Union General Secretary Joseph Stalin said that the trade union action engages continuously until their demands.
+
+◼️
+
+[Data](articles/4fea7ba5.json)
+
+[Extended Data](ext_articles/4fea7ba5.ext.json)
+
+---
+
+### Israel killed in accident
 
 *2024-07-02 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198387) · `si`
 
-පොතුවිල් - අක්රපත්තුව මාර්ගයේ දී සිදුවූ රිය අනතුරකින් ඊශ්‍රායල් ජාතිකයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+An Israeli national died in a road accident near Pottuvil, where a motorbike collided with another vehicle. The motorcyclist, seriously hurt, passed away at Pottuvil Hospital.
 
-පොතුවිල් දෙසට ධාවනය වූ යතුරුපැදියක් එම දිසාවටම ධාවනය වූ අත්ට්‍රැක්ටරයක පසුපස ගැටී එම අනතුර සිදුව ඇත.
+🟩
 
-අනතුරින් බරපතළ තුවාල ලැබූ යතුරුපැදිකරු පොතුවිල් රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇත.
+Israeli national was killed in an accident on the pottuvil-Akplapu road.
+
+The accident had occurred when a motorbike traveled to Pottuvil collided with a handkerchief.
+
+The motorcyclist who was seriously injured in the accident has died after being admitted to the Pottuvil Hospital.
 
 ◼️
 
 [Data](articles/25343f68.json)
+
+[Extended Data](ext_articles/25343f68.ext.json)
 
 ---
 
@@ -496,6 +542,22 @@ He was the President of the Asian Marketing Federation (AMF) from 2018 to 2020 a
 
 ---
 
+### ’பொருளாதார வேலைத்திட்டத்தை தவிர்க்க முடியாது’
+
+*2024-07-02 01:25:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-வேலைத்திட்டத்தை-தவிர்க்க-முடியாது/175-339732) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தலைமையில் தற்போதைய அரசாங்கத்தின் பொருளாதார வேலைத்திட்டத்திற்குப் புறம்பாக செயற்பட எவரேனும் கனவு கண்டால், இந்த நாடு மீண்டும் வீழ்ச்சியடைவதைத் தடுக்க முடியாது என்று போக்குவரத்து, நெடுஞ்சாலைகள் மற்றும் வெகுசன ஊடக அமைச்சர் கலாநிதி பந்துல குணவர்தன தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் பந்துல குணவர்தன இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+ஒவ்வொரு வருடத்திற்கும் ஒரு முறையான திட்டத்தை நாங்கள் தயாரித்துள்ளோம். இவ்வாறானதொரு வேலைத்திட்டத்தை அரசாங்கம் அமுல்படுத்தும் அதேவேளை, ஜனாதிபதி வெளிநாடுகளுடன் உடன்படிக்கைகளை மேற்கொண்டு வருகின்றார். இதில் எந்தவொரு ஒப்பந்தமும் வேலைத்திட்டமும் மறைக்கப்பட்டதல்ல. ஜனாதிபதி சகல தகவல்களையும் பாராளுமன்றத்தில் சமர்ப்பித்துள்ளார்.
+
+...
+
+[Data](articles/3a8caa58.json)
+
+---
+
 ### Exchange paddy yields can be doubled
 
 *2024-07-02 01:17:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்-விளைச்சலை-இரட்டிப்பாக்க-முடியும்/175-339731) · `ta`
@@ -906,24 +968,6 @@ Talangama Police Conducts on instructions of Chief Inspector Chamindrek
 
 ---
 
-### “We can no longer afford to revert to old politics. The choices we make today profoundly impact our future.  Can we afford to return to the days of long queues and traditional politics? We must decisively choose our course.”- President Ranil Wickremesinghe in Matara.
-
-*2024-07-01 22:21:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84313) · `en`
-
-(Text of Address  Delivered by President Ranil Wickremesinghe at the “Victory through Unity” (Ekwa Jayagamu) Held at the Matara Fort Grounds on 30 June 2024)
-
-“I have safely brought the Titanic, entrusted to me, to port. While other captains fled from the iceberg, we faced a critical decision: sink or navigate to safety. Now that we’ve reached port, the question is what to do next with this ship. We must decide whether to refurbish it for the next 50-100 years or hand it over in its current state to a fleeing captain.
-
-When I arrived here today, memories of the hardships faced by the Matara people flooded back. I vividly recall spending the Sinhala New Year 2022 in Kamburupitiya, where a filling station near my hotel was constantly crowded with long queues of vehicles. Witnessing the people’s suffering and frustration, I resolved that such scenes must not recur in our country.
-
-...
-
-[Data](articles/80a6621e.json)
-
-[Extended Data](ext_articles/80a6621e.ext.json)
-
----
-
 ### Henry Pedris Phalawa to Isipathana College
 
 *2024-07-01 22:17:02* · [`adalk`](https://www.ada.lk/sports/හෙන්රි-පේද්‍රිස්-පිටිය-ඉසිපතන-විදුහලට/9-410548) · `si`
@@ -1129,6 +1173,40 @@ The justices, in a 6-3 ruling written by Chief Justice John Roberts, threw out a
 [Data](articles/30f4be77.json)
 
 [Extended Data](ext_articles/30f4be77.ext.json)
+
+---
+
+### “We can no longer afford to revert to old politics. The choices we make today profoundly impact our future.  Can we afford to return to the days of long queues and traditional politics? We must decisively choose our course.”- President Ranil Wickremesinghe in Matara.
+
+*2024-07-01 21:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84313) · `en`
+
+(Text of Address  Delivered by President Ranil Wickremesinghe at the “Victory through Unity” (Ekwa Jayagamu) Held at the Matara Fort Grounds on 30 June 2024)
+
+“I have safely brought the Titanic, entrusted to me, to port. While other captains fled from the iceberg, we faced a critical decision: sink or navigate to safety. Now that we’ve reached port, the question is what to do next with this ship. We must decide whether to refurbish it for the next 50-100 years or hand it over in its current state to a fleeing captain.
+
+When I arrived here today, memories of the hardships faced by the Matara people flooded back. I vividly recall spending the Sinhala New Year 2022 in Kamburupitiya, where a filling station near my hotel was constantly crowded with long queues of vehicles. Witnessing the people’s suffering and frustration, I resolved that such scenes must not recur in our country.
+
+...
+
+[Data](articles/80a6621e.json)
+
+[Extended Data](ext_articles/80a6621e.ext.json)
+
+---
+
+### Veteran Tamil Political Leader Rajavarothayam Sampanthan’s Funeral to be held  in Trincomalee on Sunday 7th July
+
+*2024-07-01 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84315) · `en`
+
+Funeral Arrangements of Hon. R. Sampanthan M.P. Tamil National Alliance (T.N.A) MP Hon. R. Sampanthan’s mortal remains will Lie at the A.F. Raymonds funeral parlour for viewing from 9.00 a.m. today (02nd July 2024) till noon tomorrow (03rd July 2024).
+
+Thereafter his mortal remains will Lie in State in Parliament from 2.00 pm – 4.00 pm on Wednesday (03rd July 2024)
+
+Mr. Sampanthan’s body will be kept for public viewing at his residence at post office road, Trincomalee from 9.00 a.m. on Friday the 05th of July 2024, Saturday the 06th of July 2024 till the funeral rites on Sunday the 07th of July 2024 in Trincomalee.
+
+◼️
+
+[Data](articles/f533fdad.json)
 
 ---
 
@@ -2177,123 +2255,5 @@ I pray that the soul of the Almighty Almighty is in the shade of Thiruvadi. ”
 [Data](articles/4a396b8a.json)
 
 [Extended Data](ext_articles/4a396b8a.ext.json)
-
----
-
-### Court orders Susil Priyantha Jayatunga further remanded
-
-*2024-07-01 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198365) · `si`
-
-Susil Priyantha Jayatunga, former president of the prosecution, was ordered by the Supreme Court to be remanded after his release on bail. The case, involving accusations of violating lawyers' rights and insulting the judiciary, was heard by judges Vijith Malalgoda, Shiran Gunaratne, and Janaka de Silva. The accused requested a Sinhalese translation of the charges but was told the court isn't obligated to provide one. The next hearing is scheduled for January 27th.
-
-🟩
-
-The Supreme Court today ordered Susil Priyantha Jayatunga to remand the lawyer.
-
-Susil Priyantha Jayatunga, who was president of the prosecution, was released on bail.
-
-Accordingly, it was ordered to be remanded today.
-
-Tribuna, President of the Supreme Court Judge Vijith Malalgoda declared open courts with the release of the respondents.
-
-The complaint was called before Vijith Balalgoda, Shiran Gunaratne and Janaka de Silva.
-
-The accusations were filed against the accused separately against the accused of violation of lawyers and insulting the judiciary.
-
-The judge has informed the accused to give the charges not to punish the allegations.
-
-The accused also requested the court to provide a Sinhalese in this charge sheet to him.
-
-Judge Vijith Malalgoda responded that the court was not obliged to provide such transformation as the accusel the accused in Sinhala language.
-
-However, if there is a Sinhalese in the charge sheet, the judge ordered the registrar of court to look into the defendant.
-
-...
-
-[Data](articles/6661defa.json)
-
-[Extended Data](ext_articles/6661defa.ext.json)
-
----
-
-### A young man arrested for stealing motorcycle in Jaffna
-
-*2024-07-01 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/187365) · `ta`
-
-In Jaffna, a young man was arrested for stealing a motorcycle from Meesala's eastern region. The bike was found hidden in a house in Allarai, leading to the suspect's arrest. Following an investigation, the Chavakachcheri Magistrate's Court ordered further questioning of the suspect.
-
-🟩
-
-The court has ordered that a young man who had been hiding in his home stole a motorcycle in Jaffna.
-
-The motorcycle of a man from the eastern part of Meesala was recently stolen. A complaint was lodged at the Chavakachcheri police station by the owner.
-
-According to the complaint, the police are conducting investigations, and it has been reported that a motorcycle has been hidden in a house in Allarai, about 2 km from the motorcycle theft.
-
-According to the information, the police rushed to the house and rescued the motorcycle hidden at home and arrested the youth in the house for allegedly stealing a motorcycle.
-
-After the investigation, the Chavakachcheri Magistrate's Court ordered the suspect to be interrogated.
-
-◼️
-
-[Data](articles/c9758048.json)
-
-[Extended Data](ext_articles/c9758048.ext.json)
-
----
-
-### Struggle to protect the sacred nature of the temple
-
-*2024-07-01 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187369) · `ta`
-
-A meeting was held to discuss the protection of the sacred nature of the Thirukoneswarar Temple in Trincomalee, following an attack on a municipal council employee. The event highlighted concerns about environmental preservation and the legality of nearby shops. It was emphasized that state officials need to intervene to safeguard the temple's sanctity and environment. The meeting, attended by various stakeholders, resulted in a letter to the Governor, expressing fears of future issues. Previous efforts to relocate shops were noted, but recent actions have raised new concerns about the impact on local businesses.
-
-🟩
-
-A notice of protecting the sacred character of the Thirukoneswarar Temple was held in front of the Trincomalee Tirukkoneswarar Temple Parliamentary Council on Monday (01).
-
-The Thirukoneeswara Temple Administrative Council, Volunteers and Saiva servants organized the attention.
-
-The Trincomalee Municipal Council employee was attacked by a man who was arrested for allegedly selling leaks in a nearby shop.
-
-The state department officials should come forward to protect the sacred nature.
-
-It is also condemned to defend the environment of the temple to protect the environment of the temple and the legal sealing of the shop is reprehensible.
-
-The meeting was attended by many as the chairman of the temple.
-
-In a letter to the Governor of the Eastern Province, a letter was handed over.
-
-It was stated to the relevant parties and political representatives through the Temple Council that it would face many troubles.
-
-...
-
-[Data](articles/e319f7d1.json)
-
-[Extended Data](ext_articles/e319f7d1.ext.json)
-
----
-
-### Terrorist attacks risk - US military camps
-
-*2024-07-01 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198364) · `si`
-
-The U.S. has moved some military bases to Europe due to terror threats, issuing second-level warnings for potential attacks within the next decade. These bases include Army camps in Germany and the Aviano Air Force Base.
-
-🟩
-
-The United States of America has taken steps to put some USA camps in Europe.
-
-The warnings were issued by the risk of terrorist attack.
-
-Accordingly, the second level warnings have been issued and the warned about 10 years later.
-
-According to the military camps, Germany belongs to the Army camps in Germany as well as the Avano Air Force Base.
-
-◼️
-
-[Data](articles/0a3c3664.json)
-
-[Extended Data](ext_articles/0a3c3664.ext.json)
 
 ---

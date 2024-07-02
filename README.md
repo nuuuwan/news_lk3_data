@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 05:04:40**
+As of **2024-07-03 05:19:48**
 
 ## Newspaper Stats
 
-*Scraped **33,384** Articles*
+*Scraped **33,388** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 327
 newsfirstlk | 363
 islandlk | 1,857
 economynextcom | 1,954
-dailyftlk | 2,060
+dailyftlk | 2,064
 adalk | 2,975
 adaderanalk | 3,807
 tamilmirrorlk | 3,951
@@ -26,11 +26,75 @@ adaderanasinhalalk | 5,528
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,378 (100.0%) of 33,384 articles have been extended.
+33,384 (100.0%) of 33,388 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### Cabinet clears to reassign $ 1.09 m grant of UNEP to e-mobility project
+
+*2024-07-03 05:00:06* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-clears-to-reassign-1-09-m-grant-of-UNEP-to-e-mobility-project/34-763779) · `en`
+
+The Cabinet of Ministers on Monday approved reassigning a $ 1.09 million grant from the United Nations Environment Program (UNEP), originally assigned to the Environment Ministry, to the Transport and Highways Ministry.
+
+The UNEP with support from the Green Environment Fund, awarded a $ 1.09 million grant to develop a sustainable and efficient electric mobility (e-mobility) system. Originally, the Environment Ministry was designated as the national entity for the project, however recognising the expertise and resources required to effectively manage such an initiative, the Transport and Highways Ministry was identified as the more suitable entity to spearhead the project.
+
+...
+
+[Data](articles/5128f026.json)
+
+---
+
+### CFA Society Sri Lanka presents course on ‘Understanding Key Economic Indicators for Business Success’ with Frontier Research
+
+*2024-07-03 04:57:46* · [`dailyftlk`](https://www.ft.lk/business/CFA-Society-Sri-Lanka-presents-course-on-Understanding-Key-Economic-Indicators-for-Business-Success-with-Frontier-Research/34-763778) · `en`
+
+CFA Society Sri Lanka is pleased to announce an exclusive course on “Understanding Key Economic Indicators for Business Success” presented by the CFA Society Sri Lanka in association with Frontier Research.
+
+This course, designed to empower professionals with critical economic insights, is tailored for managers, executives, and strategic planners, promising to provide participants with a comprehensive understanding of key economic indicators and their application in business contexts.
+
+Scheduled for Wednesday 17 July from 9 a.m. to 1 p.m. at GF 2 Hall, Galle Face Hotel, Colombo 3, the program will cover essential topics such as understanding key economic indicators (GDP, inflation, consumer credit, demand, consumption, etc.), exchange rates (USD/LKR), and interest rates. Participants will also learn how to apply these economic indicators in real business scenarios.
+
+...
+
+[Data](articles/ced9ee0a.json)
+
+---
+
+### Cabinet approves securing increased USAID grant for disaster resilience and economic prosperity program
+
+*2024-07-03 04:55:12* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-securing-increased-USAID-grant-for-disaster-resilience-and-economic-prosperity-program/34-763777) · `en`
+
+The Cabinet of Ministers approved a significant revision to the cooperative agreement with the US, increasing the grant amount to $ 52.835 million under the ‘Program for a Sri Lanka with Democracy, Prosperity and the Capability to Face Disasters’.The initial agreement, signed on 31 August 2022, allocated $ 9.069 million to support Sri Lanka in strengthening democratic governance, promoting economic prosperity, and enhancing disaster resilience. This amount was subsequently increased twice during the year, reaching $ 28.299 million.
+
+The latest revision, proposed by the United States Agency for International Development (USAID), further escalates the grant to $ 52.835 million.
+
+The proposal for this revision presented by President Ranil Wickremesinghe in his capacity as the Finance, Economic Stabilisation and National Policies Minister was approved by the Cabinet of Ministers.
+
+◼️
+
+[Data](articles/fb4186de.json)
+
+---
+
+### India-funded project facilitates 924 rainwater harvesting tanks for Jaffna
+
+*2024-07-03 04:54:59* · [`dailyftlk`](https://www.ft.lk/business/India-funded-project-facilitates-924-rainwater-harvesting-tanks-for-Jaffna/34-763776) · `en`
+
+The Cabinet of Ministers on Monday approved the establishment of 924 rainwater harvesting tanks in Jaffna using the remaining funds from an ongoing project supported by the Government of India.
+
+The project aims to provide clean drinking water for people in the Jaffna district.
+
+The original project, approved on 25 October 2016, involved the construction of 3,000 rainwater harvesting tanks, funded by the Government of India. The Memorandum of Understanding (MOU) was part of a broader effort to address the clean water needs of the Jaffna district, with the project initially scheduled for completion within three years.
+
+However, due to financial and technical challenges, the project timeline was extended. On 10 October 2022, the Cabinet approved an extension till June 2024, along with a change in the tank material from ferrocement to PVC.
+
+...
+
+[Data](articles/aadad731.json)
+
+---
 
 ### Simon Bittlestone is CIMA’s new global President
 
@@ -48,6 +112,8 @@ He will also serve as 9th Chair of the Association of International Certified Pr
 
 [Data](articles/b267491a.json)
 
+[Extended Data](ext_articles/b267491a.ext.json)
+
 ---
 
 ### SL to ink deal with Swiss Govt. for second phase of Global Textile and Apparel Program
@@ -63,6 +129,8 @@ The agreement, set to be signed by the Sri Lanka Export Development Board (EDB),
 ...
 
 [Data](articles/45c59cfb.json)
+
+[Extended Data](ext_articles/45c59cfb.ext.json)
 
 ---
 
@@ -83,6 +151,8 @@ The establishment of the council is expected to boost Sri Lanka’s efforts to e
 ◼️
 
 [Data](articles/db34895b.json)
+
+[Extended Data](ext_articles/db34895b.ext.json)
 
 ---
 
@@ -106,6 +176,8 @@ The opposition noted that while a Presidential election is constitutionally due 
 
 [Data](articles/6ec40a56.json)
 
+[Extended Data](ext_articles/6ec40a56.ext.json)
+
 ---
 
 ### Govt. moves to boost women’s economic participation via Rs. 2 b special loan scheme
@@ -124,6 +196,8 @@ The Cabinet of Ministers on Monday approved implementing the special loan scheme
 
 [Data](articles/365c77a7.json)
 
+[Extended Data](ext_articles/365c77a7.ext.json)
+
 ---
 
 ### Next SL leader needs economic vision, not just debt management skills: Prof Charitha Herath
@@ -141,6 +215,8 @@ He warned that economic management has been overshadowed by an excessive focus o
 ...
 
 [Data](articles/e4bc36f0.json)
+
+[Extended Data](ext_articles/e4bc36f0.ext.json)
 
 ---
 
@@ -2253,85 +2329,5 @@ All the cases scheduled to be heard today will be heard on the 16th of this mont
 [Data](articles/697f4a21.json)
 
 [Extended Data](ext_articles/697f4a21.ext.json)
-
----
-
-### Opposition leader Sajith paid tribute to Sambandan
-
-*2024-07-02 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187479) · `ta`
-
-Sajith Premadasa, the opposition leader, honored Rajavarothayam Sambandan, a senior leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian, at his funeral held on Tuesday at the Borella AF Reman Flower.
-
-🟩
-
-Senior Leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian Rajavarothayam Sambandan's funeral was held on Tuesday (02) for a public tribute to the public at the Borella AF Reman Flower.
-
-In this case, Opposition Leader Sajith Premadasa has paid his final honor to Sambandan's boutique.
-
-◼️
-
-[Data](articles/4d91d0d2.json)
-
-[Extended Data](ext_articles/4d91d0d2.ext.json)
-
----
-
-### Parliament is empty
-
-*2024-07-02 13:19:12* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවේ-මන්ත්‍රීධුරයක්-හිස්-වෙයි/11-410565) · `si`
-
-Due to the passing of Mr. Sampanthan, Parliament is adjourned. The Speaker announced his death, expressing Parliament's importance to the bereaved family. Condolences will be offered tomorrow from 12:00 to 4:00 PM near the main entrance. Additionally, the Speaker mentioned receiving a petition related to the Bill of Rights under Constitution 121 (1), filed on 01.07.2013.
-
-🟩
-
-R. Speaker informs that due to the death of Mr. Sampanthan's death
-
-The Hon.
-
-The Speaker, who told the Parliament, he told the Speaker of Parliament that the Speaker expressed the significance of the Parliament to the family.
-
-All parliament that the condolences will be presented to Parliament on the following day, the Speaker will be presented to Parliament on July 03 ,,00 to 4.00 pm in the ceremony near the main portal of parliament tomorrow.He also said that he kindly informed the MPs.
-
-Petitions relating to the Bill of Bill
-
-According to the Constitution 121 (1) of the Constitution, the Speaker informed Parliament that he had received a copy of a petition filed by the Supreme Court on 01.04.2012 on 01.07.2013.
-
-◼️
-
-[Data](articles/31184e59.json)
-
-[Extended Data](ext_articles/31184e59.ext.json)
-
----
-
-### SJB group decide not to support a national govt.
-
-*2024-07-02 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100238/sjb-group-decide-not-to-support-a-national-govt) · `en`
-
-A group of Samagi Jana Blawegaya (SJB) Parliamentarians has unanimously decided not to support the establishment of a national government under the incumbent President Ranil Wickremesinghe.
-
-The proposal brought forth by MP Buddhika Pathirana today (02) has been unanimously approved by the SJB Parliamentary group this way.
-
-◼️
-
-[Data](articles/396396c8.json)
-
-[Extended Data](ext_articles/396396c8.ext.json)
-
----
-
-### SJB MPs decide not to support a national govt.
-
-*2024-07-02 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100238/sjb-mps-decide-not-to-support-a-national-govt) · `en`
-
-The Samagi Jana Blawegaya (SJB) Parliamentarians have unanimously decided not to support the establishment of a national government under the incumbent President Ranil Wickremesinghe.
-
-The proposal brought forth by MP Buddhika Pathirana today (02) has been unanimously approved by the SJB Parliamentary group this way.
-
-◼️
-
-[Data](articles/86b097ef.json)
-
-[Extended Data](ext_articles/86b097ef.ext.json)
 
 ---

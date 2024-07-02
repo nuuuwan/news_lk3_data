@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 08:53:55**
+As of **2024-07-02 09:05:11**
 
 ## Newspaper Stats
 
-*Scraped **33,207** Articles*
+*Scraped **33,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,856
 economynextcom | 1,940
 dailyftlk | 2,054
-adalk | 2,953
-adaderanalk | 3,779
+adalk | 2,954
+adaderanalk | 3,781
 tamilmirrorlk | 3,928
 dailymirrorlk | 4,733
 virakesarilk | 5,178
@@ -26,27 +26,81 @@ adaderanasinhalalk | 5,491
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,203 (100.0%) of 33,207 articles have been extended.
+33,207 (100.0%) of 33,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### මුහුදුබඩ මාර්ගයේ දුම්රිය ධාවනයට බාධා
+### Several spells of showers expected in parts of the island
+
+*2024-07-02 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100228/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Showers or thundershowers may occur at several places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
+
+Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/7940479c.json)
+
+---
+
+### Coastal line trains delayed
+
+*2024-07-02 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100227/coastal-line-trains-delayed) · `en`
+
+Train services on the coastal line have been delayed due to damage to a rail track between Bambalapitiya and Wellawatte, the Railways Department announced.
+
+◼️
+
+[Data](articles/215ebd76.json)
+
+---
+
+### Interrupting train on coastal road
 
 *2024-07-02 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198386) · `si`
 
-මුහුදුබඩ දුම්රිය මාර්ගයේ පීල්ලක් කැඩී යාම හේතුවෙන් දුම්රිය ධාවනයට බාධා එල්ල වී තිබේ.
+A train disruption occurred on the coastal railway line due to congestion between Bambalapitiya and Wellawatte stations. The Deputy Railway General Manager announced that repairs are underway to restore service.
 
-නියෝජ්‍ය දුම්රිය සාමාන්‍යාධිකාරී එන්. ජේ ඉඳිපොළගේ මහතා සඳහන් කළේ බම්බලපිටිය සහ වැල්ලවත්ත දුම්රිය ස්ථාන අතර මාර්ගයේ පීල්ලක් මෙලෙස කැඩි ගොස් ඇති බවය.
+🟩
 
-ඒ හේතුවෙන් මුහුදුබඩ මාර්ගයේ දුම්රිය ධාවනය එක් මාර්ගයක පමණක් සිදුවන බැවින් දුම්රිය ප්‍රමාදයක් ඇතිව තිබේ.
+The train has been disrupted due to a busy railway line on the coastal railway line.
 
-එම මාර්ගයේ අලුත්වැඩියා කටයුතු ආරම්භ කිරීමට පියවර ගෙන ඇති බව දුම්රිය නියෝජ්‍ය සාමාන්‍යාධිකාරීවරයා සඳහන් කළේය.
+Deputy Railway General Manager N. J. Wanniage said that a poison between the railway stations between the Bambalapitiya and Wellawatte railway stations.
+
+As a result, the railway track on the coast will only occur at one road.
+
+The Deputy General Manager said that steps have been taken to commence the reconstruction work on the road.
 
 ◼️
 
 [Data](articles/5de13191.json)
+
+[Extended Data](ext_articles/5de13191.ext.json)
+
+---
+
+### රු. කෝටි ගණනක මුදල් හේතුවෙන් කතරගම දේවාලයේ කපු පරපුරු දෙකක් අතර ගැටුමක්
+
+*2024-07-02 07:39:42* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-ගණනක-මුදල්-හේතුවෙන්-කතරගම-දේවාලයේ-කපු-පරපුරු-දෙකක්-අතර-ගැටුමක්/11-410552) · `si`
+
+කතරගම ඇසළ මංගල්‍යය ආරම්භ වීමත් සමග පූජා වට්ටිවලින් ලැබෙන රුපියල් කෝටි ගණනක මුදල් සහ රන් ආභරණ වෙනුවෙන් රුහුණු කතරගම මහා දේවාලයේ කපු පරපුර දෙකක් අතර දේවාලයේදී පෙරේදා (30 වැනිදා) පස්වරුවේ ගැටුමක් ඇති වී  ඇත.
+
+දේවාලයේ තේවාව භාර රත්නායක කපු පරපුර හා ආරාපක්ෂ කපු පරපුර අතර මෙම ගැටුම ඇති වී තිබේ. මෙම මාසය බාර කපු මහතකු වන ගයාන් ආරාපක්ෂ පහරදුන් බව පවසා රත්නායක කපු පරපුරේ උපුල් රත්නායක යන අය ප්‍රතිකාර සඳහා කතරගම රෝහලට ඇතුළත් වී තිබේ.
+
+තවද මෙම පහරදීම සම්බන්ධයෙන් කතරගම පොලිසියට ලැබුණු පැමිණිල්ලක් මත පරීක්ෂණ ආරම්භ කරන ලදී. මේ සම්බන්ධව කතරගම පොලිසිය මගින් ගයාන් අරාපක්ෂ නමැති කපුවා ඊයේ (01 වැනිදා) පොලිසියට කැඳවා අත්අඩංගුවට ගෙන තිස්සමහාරාම මහෙස්ත්‍රාත්වරයා හමුවට ඉදිරිපත් කළ පසු රුපියල් ලක්ෂ පහක ශරීර ඇප මත මුදා හැර    ඇත.
+
+පෙරහර සමයේ මෙම පරම්පරා දෙක අතර ගැටුම පවතින බවත්, පෙරහර සමයේ පූජා වට්ටිවලට එකතුවන රුපියල් කෝටි හය හතක මුදල වෙනුවෙන් මෙම ගැටුම පවතින බවත් හෙළි වී ඇත.
+
+...
+
+[Data](articles/68493ba9.json)
 
 ---
 
@@ -256,27 +310,33 @@ On this historic day, CDPLC laid the keel marking the commencement of constructi
 
 ---
 
-### නව දූෂණ විරෝධී පනත: පවරන නඩු අසාර්ථක වන්නේ ඇයි ?
+### Anti-Corruption Act: Why is file failing?
 
 *2024-07-02 02:06:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6p231z2vrqo) · `si`
 
-අල්ලස හා දූෂණය තුරන් කිරීමේ අරමුණින් වත්මන් රජය විසින් 2023 අංක 09 දරන දූෂණ විරෝධී පනත පසුගිය වසරේ පාර්ලිමේන්තුවේදී සම්මත කර ගනු ලැබීය.
+The Anti-Corruption Act, passed in Parliament and effective since August 8, 2023, aimed to combat bribery and corruption by enhancing the powers of the Bribery Commission. However, legal challenges have arisen, particularly regarding the appointment of a Director General under the new Act before filing charges. This has led to the dismissal of cases against high-profile individuals like former Central Bank Governor Ajith Nivard Cabraal and others, not due to lack of evidence but due to procedural issues related to the Act's implementation.
 
-ඒ අනුව අදාළ පනත  2023 වසරේ අගෝස්තු 8 වැනිදා සිට  නීතියක් බවට බලාත්මක විය.
+🟩
 
-මෙම පනත ක්‍රියාවට නැංවීම සමඟම පැරැණි  අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභා පනත සම්පූර්ණයෙන්ම අහෝසි වීමද සිදුවිය.
+The anti-corruption act of the government was passed in Parliament last year with the objective of eliminating bribery and corruption.
 
-නව දූෂණ විරෝධී පනත  යටතේ අල්ලස් හෝ දූෂණ ක්‍රියාවන් මැඩ පැවැත්වීම සඳහා අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසමට පුළුල් නීතිමය බලතල ලබා දී තිබේ.
+The bill was implemented as a law from August 8, 2023.
 
-මේ හේතුවෙන් පෙර පැවති තත්ත්වයකට වඩා අල්ලස් හෝ දූෂණ චෝදනා සම්බන්ධයෙන් විමර්ශන කිරීමට කොමිසමට පුළුල් නීතිමය බලයක් මෙන්ම ආවරණයක් ලැබී තිබෙන බව නීතිවේදීහූ පෙන්වා දෙති.
+The Bribery Commission (Investigation Commission) Act was completely abolished with the implementation of the bill.
 
-එහෙත් නව පනත යටතේ අල්ලස් කොමිසම විසින්  පවරනු ලැබූ නඩු දෙකක් මුල් අවස්ථාවේදීම අසාර්ථක වීම සම්බන්ධයෙන් නීති ක්ෂේත්‍රය තුළ දැඩි කතාබහක් මතු වී තිබේ.
+Bribery or Corruption Commission has been given extensive legal authorities to suppress bribery or corruption under the Anti-Corruption Act.
 
-ග්‍රීක බැඳුම්කර සම්බන්ධයෙන් හිටපු මහ බැංකු අධිපති අජිත් නිවාඩ් කබ්රාල් ඇතුළු පිරිසකට එරෙහිව ගොනු කළ නඩුව
+The Commission points out that more than a previous situation, the Commission has received extensive legal power and cover to investigate bribery or corruption charges.
+
+However, under the new Act, two cases filed by the Bribery Commission have emerges in the legal area.
+
+Case filed against former Central Bank Governor Ajith Nivard Cabraal on Greek bonds
 
 ...
 
 [Data](articles/5b16a100.json)
+
+[Extended Data](ext_articles/5b16a100.ext.json)
 
 ---
 
@@ -390,19 +450,27 @@ He was the President of the Asian Marketing Federation (AMF) from 2018 to 2020 a
 
 ---
 
-### ’நெல் விளைச்சலை இரட்டிப்பாக்க முடியும்’
+### Exchange paddy yields can be doubled
 
 *2024-07-02 01:17:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்-விளைச்சலை-இரட்டிப்பாக்க-முடியும்/175-339731) · `ta`
 
-தற்பொழுது கிடைத்து வரும் நெல் அறுவடையின் அளவை எதிர்வரும் ஆறு போகங்களில் இரட்டிப்பாக்க வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க வழங்கியுள்ள இலக்கை அடைவதற்குத் தேவையான நடவடிக்கைகள் எடுக்கப்பட்டுள்ளதாக விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சின் செயலாளர் ஜானக தர்மகீர்த்தி தெரிவித்தார்.
+Janaka Dharmakirthi, Secretary of Sri Lanka's Ministry of Agriculture and Plantation Industries, announced plans to double the country's paddy yield within six years. This initiative, part of the Agricultural Modernization Program, includes utilizing previously abandoned fields for cultivation and diversifying crop usage on cultivated lands. The program aims to increase productivity and meet rising food demands, with initial successes already yielding 800,000 metric tonnes of rice.
 
-'இரண்டு வருட முன்னேற்றமும் எதிர்காலமும்' என்ற தொனிப்பொருளில் ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற செய்தியாளர் மாநாட்டில் கலந்து கொண்ட விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சின் செயலாளர் ஜானக தர்மகீர்த்தி இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-பாரம்பரிய விவசாயத்திற்கு அப்பால் சென்று வளர்ந்து வரும் உணவுத் தேவையைப் பூர்த்தி செய்வது விவசாய அமைச்சின் பொறுப்பாகும். தற்போது இதனை வெற்றிகரமாக நிர்வகித்து வருகிறோம். குறிப்பாக ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் எதிர்வரும் ஆறு போகங்களில் நெற்பயிர் அறுவடையின் அளவை இரட்டிப்பாக்க வேண்டும் என்ற இலக்கை அடையத் தேவையான நடவடிக்கைகளை முன்னெடுத்துள்ளோம்.
+Secretary to the Ministry of Agriculture and Plantation Industries Janaka Dharmakirthi said that the amount of paddy harvest available in the next six years should be doubled in the next six years.
+
+Secretary of the Ministry of Agriculture and Plantation Industries, Janaka Dharmakirthi, who attended a press conference held at the Presidential Media Center yesterday under the theme 'Two Years Progress and Future'. As he further stated,
+
+It is the responsibility of the Ministry of Agriculture to meet the growing food requirement beyond traditional agriculture. We are currently managing this successfully. In particular, President Ranil Wickremesinghe has taken steps to reach the goal of double the amount of paddy harvest in the next six years.
+
+For that we have introduced a technical pecure under the Agricultural Modernization Program. Also, all paddy fields, including abandoned fields, are allowed to be used for paddy training.
 
 ...
 
 [Data](articles/bbe26b3d.json)
+
+[Extended Data](ext_articles/bbe26b3d.ext.json)
 
 ---
 
@@ -805,6 +873,8 @@ When I arrived here today, memories of the hardships faced by the Matara people 
 ...
 
 [Data](articles/80a6621e.json)
+
+[Extended Data](ext_articles/80a6621e.ext.json)
 
 ---
 
@@ -2223,77 +2293,5 @@ I express my deepest condolences to the death of Sampanthan. As a national leade
 [Data](articles/af048fb6.json)
 
 [Extended Data](ext_articles/af048fb6.ext.json)
-
----
-
-### Teacher-principal trade unions to protest in front of schools tomorrow
-
-*2024-07-01 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100218/teacher-principal-trade-unions-to-protest-in-front-of-schools-tomorrow) · `en`
-
-The teacher-principal trade unions have planned to stage protests in front of schools tomorrow (02), demanding prompt solutions to their issues.
-
-Meanwhile, they also announced their intention to unite all public sector trade unions as the teacher-principal alliance next Friday.
-
-The teacher-principal trade unions are protesting today by displaying black flags and banners in front of schools over several demands, including the elimination of teacher-principal salary disparities.
-
-Meanwhile, the Ceylon Teachers’ Union confirmed that tomorrow’s protests will take place after school hours.
-
-The General Secretary of the Ceylon Teachers’ Union (CTU) Joseph Stalin emphasized the necessity of these trade union measures and urged parents to understand the situation, during a press conference today.
-
-◼️
-
-[Data](articles/1dcea87d.json)
-
-[Extended Data](ext_articles/1dcea87d.ext.json)
-
----
-
-### Land is not just that - President
-
-*2024-07-01 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198363) · `si`
-
-President Ranil Wickremesinghe announced during a visit to the Moneragala district that land deeds from the Heritage National Program should align with the Agriculture Navinance Program. He emphasized the importance of agricultural modernization and support for farmers to transition towards an export economy, highlighting the region's potential despite current challenges.
-
-🟩
-
-President Ranil Wickremesinghe says that all the land deeds obtained from the "Heritage" National Program should be joined by the Agriculture Navinance Program.
-
-The President was speaking yesterday with a "heritage" phase in the Moneragala district yesterday.
-
-In the "Heritage National Program of 41,960 Divisional Secretariats in the Monaragala District of the Moneragala district, President Ranil Wickremesinghe was chaired by President Ranil Wickremesinghe.
-
-"These lands are not just. Doesn't ask for money. All of these people have to agree to our agricultural modernization program. Those who are farming. Come there. We'll help you develop this area again. Go to an export economy. What's trouble. There's a harbor. There's a airport. In the next 30-40 years, the world's food is a big problem. We need to provide food. It has to make money ... "
-
-◼️
-
-[Data](articles/a0012b51.json)
-
-[Extended Data](ext_articles/a0012b51.ext.json)
-
----
-
-### Nuwara Eliya - Talawakelle Private Bus Drivers
-
-*2024-07-01 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/187386) · `ta`
-
-Clashes erupted between Nuwara Eliya Hatton Luxury Bus Drivers and private bus drivers in Nuwara Eliya Talawakelle, resulting in injuries and damage to two buses. The dispute, rooted in longstanding issues like scheduling and route permits, led to protests demanding the arrest of the attackers, causing inconvenience to students, teachers, staff, and the public.
-
-🟩
-
-A bus driver and Nuwara Eliya Hatton Luxury Bus Drivers have been involved in a clash between the two bus drivers and the private bus drivers in Nuwara Eliya Talawakelle, who has been injured in the Nuwara Eliya Talawakelle main road.
-
-In addition, two private buses operating on the Nuwara Eliya Talawakelle main road, which had been parked at the Talawakelle main bus parking lot on Sunday (30), were damaged.
-
-In this case, the Nuwara Eliya Talawakelle private bus workers are carrying out a protest protest, urging the attackers to be arrested.
-
-The contradictions, in particular, have a long -standing conflict regarding matters, including time schedule and route permits.
-
-This is why school students, teachers, staff and the public are facing great difficulties.
-
-◼️
-
-[Data](articles/055d37c3.json)
-
-[Extended Data](ext_articles/055d37c3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 23:35:13**
+As of **2024-07-02 23:54:39**
 
 ## Newspaper Stats
 
-*Scraped **33,357** Articles*
+*Scraped **33,363** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 307
 bbccomsinhala | 327
 newsfirstlk | 363
 islandlk | 1,857
-economynextcom | 1,948
+economynextcom | 1,954
 dailyftlk | 2,054
 adalk | 2,975
 adaderanalk | 3,807
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,527
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,357 (100.0%) of 33,357 articles have been extended.
+33,357 (100.0%) of 33,363 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -456,6 +456,24 @@ Senior leader of the Sri Lanka Tamil National Alliance (TNA) and former oppositi
 
 ---
 
+### EXPLAINER: Sri Lanka’s deal on debt restructuring with bilateral creditors
+
+*2024-07-02 18:34:00* · [`economynextcom`](https://economynext.com/explainer-sri-lankas-deal-on-debt-restructuring-with-bilateral-creditors-170620/) · `en`
+
+ECONOMYNEXT – Sri Lanka reached a deal with its bilateral creditors last week and President Ranil Wickremesinghe government’s supporters celebrated the milestone with fire crackers.
+
+The bilateral loans accounted for US$10 billion out of the total US$37 billion foreign loans, the government data show.
+
+The island nation is set to start the second round of negotiation with its commercials creditors and sovereign bond holders, government officials have said.
+
+Here are some questions (Q) and answers (A) over what Sri Lanka’s deal on bilateral debt restructuring mean:
+
+...
+
+[Data](articles/96e114db.json)
+
+---
+
 ### Dayasja prohibits the expel from the SLFP General Secretary
 
 *2024-07-02 18:31:54* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරිව-ශ්‍රීලනිප-මහ-ලේකම්-ධුරයෙන්-නෙරපීම-තහනම්-කරයි/11-410574) · `si`
@@ -802,6 +820,50 @@ The National Symposium was co-convened by the Ministry of Public Administration,
 
 ---
 
+### Sri Lanka’s bilateral debt restructuring deal concluded; admin issues remain: State FinMin
+
+*2024-07-02 17:11:00* · [`economynextcom`](https://economynext.com/sri-lankas-bilateral-debt-restructuring-deal-concluded-admin-issues-remain-state-finmin-170607/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s debt restructuring deal with its bilateral creditors is agreed and concluded, but there are some administrative issues still remaining including getting the signatures of all the creditors, State Finance Minister Shehan Semasimghe said.
+
+President Ranil Wickremesinghe’s government reached US$10 billion worth bilateral debt deal with the members of Paris Club and Official Creditors Committee (OCC) as well as China last week.
+
+However, the opposition has claimed that the debt restructuring negotiations are far from over.
+
+Semasinghe acknowledged that some of Sri Lanka’s bilateral creditors are yet to sign the deal though they all have agreed on the agreement, which is yet to be seen by public.
+
+“What happened is that the OCC and the Paris Club have agreed on what the debt restructuring process is going to be,” the State Finance Minister told reporters at a media briefing in Colombo on Tuesday (02).
+
+...
+
+[Data](articles/4a3768e6.json)
+
+---
+
+### Sri Lanka stocks close up due to foreign buying interest
+
+*2024-07-02 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-due-to-foreign-buying-interest-170603/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader All Share Index closed up 0.35 percent, or 41.80 points, at 12,118; while the more liquid S&P SL20 Index closed down 0.23 percent, or 8.18 points, at 3,574.
+
+Turnover was 1.8 billion. Most of this (Rs959mn) came from foreign buying.
+
+“Market had a slow start, but it picked up due to foreign activity,” Softlogic Stockbrokers said.
+
+There were three crossings, two of which saw foreign buying: Windforce Plc (Rs590mn), share closed up at 20.00, and Sampath Bank Plc (Rs434mn), the share closed down at 79.00.
+
+The other crossing was on Hemas Holdings Plc, (Rs255mn). The share closed down at 82.60. “Crossings made up 60 percent of the turnover.
+
+“The local retail segment is being very cautious because of all the election speculation, even though there is a lot of positive news, and many companies with good fundamentals.”
+
+...
+
+[Data](articles/db2ba2b4.json)
+
+---
+
 ### President hits out at misinformation spread about debt restructuring and related matters
 
 *2024-07-02 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100246/president-hits-out-at-misinformation-spread-about-debt-restructuring-and-related-matters) · `en`
@@ -845,6 +907,40 @@ When the arrested youth was presented to the Nuwara Eliya District Magistrate's 
 [Data](articles/894f9523.json)
 
 [Extended Data](ext_articles/894f9523.ext.json)
+
+---
+
+### Bilateral creditors never reduce principal, only offer deferments: Sri Lanka president
+
+*2024-07-02 16:47:00* · [`economynextcom`](https://economynext.com/bilateral-creditors-never-reduce-principal-only-offer-deferments-sri-lanka-president-170598/) · `en`
+
+ECONOMYNEXT — Seeking concessions on foreign loans without making any commitments is neither practical nor feasible, President Ranil Wickremesinghe said, noting that bilateral creditors never reduce the principal on a loan.
+
+“What we can obtain are concessions such as extended loan repayment periods, grace periods, and reduced interest rates,” Wickremesinghe said addressing parliament Tuesday July 02 morning.
+
+Claiming that there are untruths and half truths expressed inside and outside parliament on Sri Lanka’s debt restructuring programme, President Wickremesinghe said he wished to clarify the international practices and facts of debt restructuring at this time.
+
+“What constitutes this foreign loan? Where do lending countries get the money? They lend us the tax money and the savings of their citizens.”
+
+...
+
+[Data](articles/976f5ffb.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 303.10/30 to US dollar
+
+*2024-07-02 16:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-303-10-30-to-us-dollar-170601/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 303.10/30 percent to the US dollar on Tuesday, down from 304.80/305.00 to the US dollar on Monday, dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 closed stable at 10.85/11.00 percent.
+
+A bond maturing on 15.09.2029 closed stable at 12.10/20 percent.
+
+◼️
+
+[Data](articles/b568d7e6.json)
 
 ---
 
@@ -1207,6 +1303,26 @@ The Katunayake Airport of the Criminal Investigation Department is conducting fu
 [Data](articles/bf62fcbb.json)
 
 [Extended Data](ext_articles/bf62fcbb.ext.json)
+
+---
+
+### No ill-will between Sri Lanka president and ruling party, but views differ: Rajapaksa
+
+*2024-07-02 15:33:00* · [`economynextcom`](https://economynext.com/no-ill-will-between-sri-lanka-president-and-ruling-party-but-views-differ-rajapaksa-170585/) · `en`
+
+ECONOMYNEXT — There is no bad feeling between President Ranil Wickremesinghe and the Sri Lanka Podujana Peramuna (SLPP), but the president and the ruling party are of two different political positions, SLPP leader Mahinda Rajapaksa said.
+
+The former president told reporters Monday July 01 night at the Bandaranaike International Airport (BIA) in Colombo that the candidate the SLPP opts to back at the upcoming presidential election will have to be someone who can work with the party.
+
+“We’re democratic. We do something after discussing it with everyone,” he said.
+
+Rajapksa had just returned from Beijing, having concluded an “official” four-day visit. In Beijing, he attended the 70th anniversary of the Five Principles of Peaceful Coexistence where he was greeted by Chinese President Xi Jinping.
+
+Asked by reporters if there was bad feeling between the SLPP and President Wickremesinghe, Rajapaksa said: “There is no reason for bad feeling. Politically we’re of two different views.”
+
+...
+
+[Data](articles/69726612.json)
 
 ---
 
@@ -2205,139 +2321,5 @@ Subsequently, the funeral of R. Sampanthan will be taken to his hometown of Trin
 [Data](articles/17091d82.json)
 
 [Extended Data](ext_articles/17091d82.ext.json)
-
----
-
-### A tribute to Sampanthan's boutique
-
-*2024-07-02 11:31:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனின்-பூதவுடலுக்கு-பெருந்திரளானோர்-அஞ்சலி/175-339752) · `ta`
-
-R. Sampanthan, former TNA President, will be remembered fondly. His funeral, scheduled for Sunday in Trincomalee, marks the end of an era for the Tamil community.
-
-🟩
-
-Former President of the Tamil National Alliance (TNA)
-
-Subsequently, the funeral of R. Sampanthan will be taken to his hometown of Trincomalee and the funeral will be held.
-
-The Tamil National Alliance (TNA) media spokesman MA Sumanthiran says that the funeral is expected to be done on Sunday (07).
-
-◼️
-
-[Data](articles/b73c025d.json)
-
-[Extended Data](ext_articles/b73c025d.ext.json)
-
----
-
-### Did the students bathe in a house in Jaffna?- Investigate officials
-
-*2024-07-02 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187461) · `ta`
-
-Investigation underway after reports that students bathed in a house in Jaffna, equipped with CCTV for security. Officials visited the site due to complaints about camera deficiencies, focusing on ensuring safety and proper use of facilities.
-
-🟩
-
-Divisional Secretariat officials are conducting investigations as it was reported that students were bathing in a house where students were staying in Jaffna.
-
-The CCTV camera was fitted for the external protection of a place where female children in Jaffna stay.
-
-Officials have visited the residence of the area as it was reported to have lodged a complaint with the Divisional Secretariat of the area, pointing out some other shortcomings and other shortcomings in the cameras.. Officials are investigating the matter.
-
-◼️
-
-[Data](articles/133956f7.json)
-
-[Extended Data](ext_articles/133956f7.ext.json)
-
----
-
-### Youth killed in a cord to scare girlfriend
-
-*2024-07-02 11:22:30* · [`adalk`](https://www.ada.lk/breaking_news/පෙම්වතිය-බයකරන්න-බෙල්ලෙ-ලණුවක්-දමාගත්-තරුණයා-බෙල්ල-සිරවී-මරුට/11-410561) · `si`
-
-A 17-year-old boy from Bogaswewa died after being strangled during an argument with his girlfriend. The incident occurred on the 30th in the Nandimithigama area. Authorities suspect foul play and are investigating.
-
-🟩
-
-Mamaduwa Police said that the body was found in the Bogaswewa area in the Bogaswewa area in general area Nandimithigama.
-
-The deceased has revealed that the young man had a heated argument with his girlfriend on the 30th of the Nandimithigama area, as a result of his girlfriend, and to cover up the young woman, to shop and fall into the neck.
-
-The police suspect that the youth was found to be taken to the hospital by the youth at the same time.
-
-The victim is 17 year old resident of Bogaswewa and Mamaduwa Police and Bogaswewa Police are conducting further investigations.
-
-◼️
-
-[Data](articles/9999a4d8.json)
-
-[Extended Data](ext_articles/9999a4d8.ext.json)
-
----
-
-### Tension in Kandy
-
-*2024-07-02 11:15:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குண்டு-தகவலால்-கண்டியில்-பதற்றம்/175-339749) · `ta`
-
-A bomb threat was reported at Kandy Court on Tuesday morning, prompting police to dispatch the Special Task Force Bomb Disposal unit. The caller's identity is unknown, and any false reports will be investigated.
-
-🟩
-
-Police say that there is a bomb at the Kandy Court premises, according to information received by the Police Emergency Division (119).
-
-The phone call was received at 10.00 am on Tuesday (02) and the police were immediately sent to the Special Task Force Bomb Discallence.
-
-If anyone is found to be a fake phone call, a police officer said that a detailed investigation into the telephone number would be implemented.
-
-◼️
-
-[Data](articles/44c0740f.json)
-
-[Extended Data](ext_articles/44c0740f.ext.json)
-
----
-
-### Implementation of Foreign Loan Reorganization Agreement: President's Special Speech in Parliament - Live
-
-*2024-07-02 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/187443) · `ta`
-
-President Ranil Wickremesinghe addressed Parliament on the implementation of the Foreign Debt Relief Agreement, highlighting Sri Lanka's $37 billion foreign loan, including $10.6 billion in bilateral loans, $11.7 billion in multilateral debts, and $14.7 billion in trade loans. He emphasized the impossibility of obtaining foreign loans without sacrifices, addressing criticisms and clarifying the role of the International Monetary Fund (IMF) in debt restructuring. The President announced Sri Lanka's success in renegotiating its credit status, achieving a concessionary repayment period, and securing official bilateral credit from India, Japan, France, and China. He stressed the importance of economic stability and urged unity among opposition parties, concluding with a call for decisive action to address the country's economic challenges.
-
-🟩
-
-The President's special speech on the implementation of the Foreign Debt Relief Agreement is currently taking place in Parliament.
-
-President Ranil Wickremesinghe said that the Cabinet of Ministers had signed the agreements and agreements with the Cabinet of Ministers.
-
-The President pointed out in Parliament on how successful reflections have been reached by a four -point program, which was put forward in Parliament two years ago.
-
-Sri Lanka's foreign loan is US $ 37 billion and is $ 10.6 billion bilateral loans. $ 11.7 billion is multi -debts. $ 14.7 billion is trade loans. The President also pointed out in Parliament that $ 12.5 billion bail bonds.
-
-The President pointed out in Parliament that although various ideas have been expressed in Parliament and Outside, some of them are untrue.
-
-...
-
-[Data](articles/d9f7e984.json)
-
-[Extended Data](ext_articles/d9f7e984.ext.json)
-
----
-
-### Bombs in Kandy court
-
-*2024-07-02 11:13:30* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-අධිකරණයේ-බෝම්බ-බියක්/11-410560) · `si`
-
-A bomb in Kandy court led to the removal of all workboards. Investigations are underway after the disruption caused by the bomb in the court complex.
-
-🟩
-
-Due to a bomb in the Kandy court, it has been taken to remove all its workboards. The bombal disruption was called for the court complex, and they have commenced investigations.
-
-◼️
-
-[Data](articles/2bb8b3e6.json)
-
-[Extended Data](ext_articles/2bb8b3e6.ext.json)
 
 ---

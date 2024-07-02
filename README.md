@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 13:04:38**
+As of **2024-07-02 13:19:38**
 
 ## Newspaper Stats
 
-*Scraped **33,263** Articles*
+*Scraped **33,266** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 304
 colombotelegraphcom | 304
+dbsjeyarajcom | 305
 bbccomsinhala | 325
 newsfirstlk | 363
 islandlk | 1,856
 economynextcom | 1,943
 dailyftlk | 2,054
-adalk | 2,959
+adalk | 2,961
 adaderanalk | 3,790
 tamilmirrorlk | 3,939
 dailymirrorlk | 4,733
@@ -26,27 +26,47 @@ adaderanasinhalalk | 5,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,261 (100.0%) of 33,263 articles have been extended.
+33,263 (100.0%) of 33,266 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### ජම්පටා වීදියේ හදිසි මෙහෙයුමක්
+### An emergency operation on Jampata Street
 
 *2024-07-02 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198400) · `si`
 
-වෙරළබඩ පොලිස් වසමට අයත් ජම්පටා වීදිය ප්‍රදේශය ආවරණය වන පරිදි සිදුකළ ක්ෂණික විශේෂ මෙහෙයුමකදී සැකකරුවන් 34ක් ඇතුළු පුද්ගලයින් 49 දෙනෙකු අත්අඩංගුවට ගත් බව වෙරළබඩ පොලීසිය කියයි.
+Coastal Police Division arrested 49 suspects, including 13 with drugs like heroin, ice, and cannabis, during a special operation near Kochchikade Church and Jampata Street. The operation involved 8 STF personnel and 30 police officers.
 
-හෙරොයින්, අයිස් හා ගංජා ඇතුළු මත්ද්‍රව්‍ය සමග අත්අඩංගුවට ගත් පුද්ගලයින් 13ක් මෙන්ම වරෙන්තුකරුවන් දෙදෙනෙක් ද ඒ අතර වන බව පොලීසිය කීය.
+🟩
 
-යුක්තිය මෙහෙයුමට සමගාමීව අපරාධ වැළැක්වීමේ විශේෂ රාජකාරී යටතේ කොච්චිකඩේ පල්ලිය අසලින් සහ ජම්පටා විදිය බෝධිය අසලින් මාර්ගය වසා පැය 2කට ආසන්න කාලයක් සිදුකළ මෙහෙයුමේදී මෙම සැකකරුවන් අත්අඩංගුවට ගත් බව පොලීසිය පැවසීය.
+In a special operation conducted, 49 suspects were arrested in a special operation conducted by the Coastal Police Division.
 
-මෙම විශේෂ මෙහෙයුම සඳහා පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් අට දෙනෙකු සහ පොලිස් නිලධාරීන් තිස් දෙනෙකු මෙන්ම මත්ද්‍රව්‍ය  සම්බන්ධයෙන් විශේෂ පුහුණුවලත් පොලිස් නිල සුනඛයන්ද සහභාගී කර ගැනිණි .
+The police said that 13 persons arrested with heroin, ice and cannabis and two warrants were among them.
+
+The suspects were arrested at the Kochchikade Church, near the Kochchikade Church and Jumptay Wayiya Bodhi near the Kochchikade Church and the Jamphata Wayiya Bodhi near the Kochchikade Church.
+
+Eight STF personnel and 30 police officers and police officers were also present at the special operation.
 
 ◼️
 
 [Data](articles/c6670d7b.json)
+
+[Extended Data](ext_articles/c6670d7b.ext.json)
+
+---
+
+### ලිට්‍රෝ ගෘහස්ථ ගෑස් මිල බස්සයි
+
+*2024-07-02 12:40:18* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෘහස්ථ-ගෑස්-මිල-බස්සයි/11-410563) · `si`
+
+ලිට්‍රෝ ගෘහස්ථ ගෑස් මිල  අඩු කළ බව ලිට්‍රො ගෑස් සමාගමේ සභාපති මුදිත පීරිස් මහතා පැවසීය.
+
+ඒ අනුව ලිට්‍රෝ කිලෝග්‍රෑම් 12.5 ක සිලින්ඩරයක මිල රුපියල් 100 කින් ද එහි නව මිල රුපියල්  3690 ක් ද, කිලෝග්‍රෑම් 5 ක සිලින්ඩරයක මිල රුපියල් 40 කින් ද එහි නව මිල රුපියල් 1482 ක් ද, කිලෝග්‍රෑම් 2.3 ක සිලින්ඩරයක මිල රුපියල් 18 කින් ද එහි නව මිල රුපියල් 694  ක් දක්වා අඩු වු  බවත් නව මිල අද (2) දින මාධ්‍යම රාත්‍රීයේ සිට ක්‍රියාත්මක වන බවත් මුදිත පිරිස් මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/72916ec6.json)
 
 ---
 
@@ -65,6 +85,8 @@ The gazette notification related to the matter has also been published to formal
 ◼️
 
 [Data](articles/b2a3d846.json)
+
+[Extended Data](ext_articles/b2a3d846.ext.json)
 
 ---
 
@@ -976,6 +998,22 @@ President's speech and the late former opposition leader Ira. The Secretary Gene
 
 ---
 
+### අධ්‍යාපන පද්ධතියට තවත් 1875 ක් එක්වෙති
+
+*2024-07-02 09:23:24* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-පද්ධතියට-තවත්-1875-ක්-එක්වෙති/11-410557) · `si`
+
+අධ්‍යාපන පද්ධතියට නිලධාරීන් හා ගුරුවරුන් ලෙස   හෙට (3)සිට අලුතින්   1875 ක් එක්වෙයි.අධ්‍යාපන අමාත්‍යාංශය මගින් ලිඛිත විභාග  හා සම්මුඛ පරීක්ෂණ පවත්වා බඳවා ගත්  මොවුන් සඳහා  පත්වීම් ලිපි ප්‍රදානෝත්සවය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් හෙට  (03) පෙරවරුවේ අරලියගහ මන්දිරයේදී පැවැත්වේ.
+
+මෙහිදී ශ්‍රී ලංකා අධ්‍යාපන  පරිපාලන සේවයේ තුන්වන ශ්‍රේණියට  සේවා පළපුරුද්ද හා කුසලතා පදනම මත බඳවා ගත් නිලධාරීන් 60 දෙනෙකුට පත්වීම් ලබා දීමට නියමිතය.
+
+ඊට අමතරව   ජාතික පාසල්වල පවතින ඉංග්‍රීසි ගුරු පුරප්පාඩු සඳහා ගුරු සේවයට  බඳවාගත් ඉංග්‍රීසි ඩිප්ලෝමාධාරීන් 109 කටද ජාතික පාසල්වල උසස් පෙළ ගණිතය,විද්‍යාව,තාක්ෂණවේදය,විදේශ භාෂා ,ඉංග්‍රීසි සහ 13 වසරක අඛණ්ඩ  අධ්‍යාපනය සඳහාවූ විෂයන් ඉගැන්වීමට බඳවාගත් උපාධිධාරීන් 1706 කට ද මෙහිදී  පත්වීම් ප්‍රදානය කරන බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+◼️
+
+[Data](articles/d91cea18.json)
+
+---
+
 ### Discussions are successful
 
 *2024-07-02 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198388) · `si`
@@ -1295,6 +1333,18 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/294b64f7.json)
 
 [Extended Data](ext_articles/294b64f7.ext.json)
+
+---
+
+### Will the  Economic “Good News” From Paris and Beijing Help Ranil  Win the 2024 Presidential Poll  in Sri Lanka?
+
+*2024-07-02 03:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84319) · `en`
+
+Ranil  Wickremesinghe was appointed Prime Minister on 12 May 2022 by the then president Gotabaya Rajapaksa. Sri Lanka was in the grip of a debilitating economic crisis then. The “Aragalaya”(struggle) protest movement was raging. The new premier addressed the nation through a special statement on 16 May 2022. In that Wickremesinghe referred to Bertolt Brecht’s play “The Caucasian Chalk Circle”. This is what he said then –
+
+...
+
+[Data](articles/7940d96a.json)
 
 ---
 
@@ -2161,73 +2211,5 @@ The train was to reach Kandy to Kandy.  එහෙත් දුම්රිය �
 [Data](articles/47dfbf87.json)
 
 [Extended Data](ext_articles/47dfbf87.ext.json)
-
----
-
-### Dear train driver's work banned
-
-*2024-07-01 21:52:21* · [`adalk`](https://www.ada.lk/breaking_news/බිමත්-දුම්රිය-රියදුරුගේ-වැඩ-තහනම්/11-410546) · `si`
-
-The Railway Department has banned the train driver's work on the 1019 train from Colombo to Kandy.
-
-🟩
-
-The Railway Department announces that his work was banned from the 1019 train from Colombo to Kandy.
-
-◼️
-
-[Data](articles/f41f44fa.json)
-
-[Extended Data](ext_articles/f41f44fa.ext.json)
-
----
-
-### Good news to Korea to Sri Lanka
-
-*2024-07-01 21:47:40* · [`adalk`](https://www.ada.lk/breaking_news/කොරියාව-ලංකාවට-දෙන-සුබ-ආරංචිය/11-410545) · `si`
-
-South Korea eases travel advisory for Sri Lanka, upgrading its tourism alert status. This decision is based on improved health conditions, aiming to boost Korean tourist visits.
-
-🟩
-
-South Korea has taken steps to ease his circuit warning about Sri Lanka. Accordingly, the South Korean External Affairs Ministry has decided to reconstruct Sri Lanka's tourism alert to be operated from today (01 July).
-
-The South Korean External Affairs Ministry said that the tourist guidelines were relaxed due to the health and health conditions in Sri Lanka and attract more Korean tourists.
-
-◼️
-
-[Data](articles/dad54e38.json)
-
-[Extended Data](ext_articles/dad54e38.ext.json)
-
----
-
-### Piyumi Hansalmali gets back
-
-*2024-07-01 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198379) · `si`
-
-Popular model Piyumi Hansalmali appears before the Illegal Asset Investigation Division regarding allegations of undisclosed assets worth Rs. 148 million, including a luxury property. The case was referred to the Magistrate's Court on June 04, Colombo North. She was questioned about her assets, and the division has set a new date for further investigation.
-
-🟩
-
-A public modeling artist appeared in the Illegal Asset Investigation Division this is not recorded by Piyumi Hansayamayaka.
-
-Accordingly, the division has informed her that a different date will be given to it.
-
-The Illegal Asset Investigation Division, a popular model, Piyumi Hansaley's assets had begun as per the complaint lodged with the country.
-
-Referred to the Magistrate's Court on June 04, Colombo North and Piyumiye Piyumi Hansayy was Rs. 148 million.A house has been purchased with a luxury housing complex located.
-
-Accordingly, Massegrader Manjula Tilakaratne, the Illegal Asset Investigation Division, granted permission to the illegal asset in Sri Lanka.
-
-Piyumi Hansalmi had informed Piyumi Hanamali to give a statement from the Illegal Asset Investigation Division in connection with the investigation into the investigation.
-
-Accordingly, she hinted that today's illegal assets to the Investigation Division and commented on the media.
-
-◼️
-
-[Data](articles/98a4fb16.json)
-
-[Extended Data](ext_articles/98a4fb16.ext.json)
 
 ---

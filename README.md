@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 21:34:58**
+As of **2024-07-02 21:54:42**
 
 ## Newspaper Stats
 
-*Scraped **33,346** Articles*
+*Scraped **33,347** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,948
 dailyftlk | 2,054
 adalk | 2,973
 adaderanalk | 3,804
-tamilmirrorlk | 3,943
+tamilmirrorlk | 3,944
 dailymirrorlk | 4,733
 virakesarilk | 5,207
 adaderanasinhalalk | 5,525
@@ -26,11 +26,23 @@ adaderanasinhalalk | 5,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,346 (100.0%) of 33,346 articles have been extended.
+33,346 (100.0%) of 33,347 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### இலங்கையில் புதிய வகை பெற்றோல் அறிமுகம்
+
+*2024-07-02 21:31:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-புதிய-வகை-பெற்றோல்-அறிமுகம்/175-339767) · `ta`
+
+லங்கா ஐஓசி நிறுவனம் புதிதாக 100 ஒக்டேன் ரக பெற்றோலை  இன்று (02) சந்தைக்கு விநியோகிக்கவுள்ளதாக மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் கஞ்சன விஜேசேகர தெரிவித்தார்.
+
+◼️
+
+[Data](articles/f49ebf10.json)
+
+---
 
 ### No change in the price of Lafs Case
 
@@ -2331,27 +2343,5 @@ It is reported that the bomber and the army and the police are search operations
 [Data](articles/b771e235.json)
 
 [Extended Data](ext_articles/b771e235.ext.json)
-
----
-
-### President reveals foreign debt in Sri Lanka
-
-*2024-07-02 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198394) · `si`
-
-Sri Lanka's President Ranil Wickremesinghe disclosed in Parliament that the country's foreign debt stands at US $37 billion, comprising $10.6 billion in bilateral loans, $14.7 billion in multilateral loans, and $12.5 billion in sovereign bonds.
-
-🟩
-
-President Ranil Wickremesinghe today informed Parliament today regarding the foreign debt of Sri Lanka.
-
-He said that the total foreign debt was US $ 37 billion.
-
-Bilateral loans were $ 10.6 billion, multilateral loans, $ 14.7 billion, $ 14.7 billion and sovereign bonds were $ 12.5 billion.
-
-◼️
-
-[Data](articles/73777026.json)
-
-[Extended Data](ext_articles/73777026.ext.json)
 
 ---

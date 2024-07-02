@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 05:37:29**
+As of **2024-07-02 06:00:59**
 
 ## Newspaper Stats
 
-*Scraped **33,187** Articles*
+*Scraped **33,197** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 302
 colombotelegraphcom | 304
 bbccomsinhala | 324
 newsfirstlk | 363
-islandlk | 1,846
+islandlk | 1,856
 economynextcom | 1,940
 dailyftlk | 2,054
 adalk | 2,952
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,487
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,187 (100.0%) of 33,187 articles have been extended.
+33,187 (100.0%) of 33,197 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -447,6 +447,76 @@ Dinesh Chandimal scored 65 runs while Dinesh Chandimal scored 65 runs while View
 [Data](articles/f1c3d0ca.json)
 
 [Extended Data](ext_articles/f1c3d0ca.ext.json)
+
+---
+
+### Top tech entrepreneur Rotary Governor 2024/25
+
+*2024-07-01 22:43:00* · [`islandlk`](http://island.lk/top-tech-entrepreneur-rotary-governor-2024-25/) · `en`
+
+One of Sri Lanka’s top tech Entrepreneurs Sushena Ranatunga has been appointed as the Rotary Governor Sri Lanka & Maldives for the year 2024/25. The Co Founder/ Director of Creative Technology Solutions Pvt Ltd – a company that pioneered Sri Lanka’s software Industry way back in 2002, he is also the Director of the BOI based Healthcare software development company Cambio Software Engineering Pvt Limited. One of his landmark projects for Rotary was being the Project Chair of setting up of Sri Lanka’s first ever Human Heart Valve and Tissue Bank under the stewardship of the first Rotary Lady Governor Gowri Rajan.
+
+...
+
+[Data](articles/68b89b3a.json)
+
+---
+
+### 99x expands global footprint with high-profile roundtable in Colombo highlighting strategic growth
+
+*2024-07-01 22:42:00* · [`islandlk`](http://island.lk/99x-expands-global-footprint-with-high-profile-roundtable-in-colombo-highlighting-strategic-growth/) · `en`
+
+99x, a global product engineering company, hosted a high-profile roundtable discussion titled ‘Poised for Growth in Europe and Americas’ at their office premises in Colombo 03. The event brought together 99x’s industry leaders from Norway, Portugal, Brazil, and Sri Lanka to discuss 99x’s growth as a forward-thinking global technology leader.
+
+Local media representatives also attended the high-profile roundtable discussion with 99x’s global leadership team. The attendees included Odd-Sverre Ostlie – Group CEO of 99x Group Norway, Trygve Moe – Group CFO of 99x Group Norway, Carlos Coutinho Silva – CEO of Cleverti Portugal, Thiers Santos – CEO of Nextly Brazil, Eiliv Mæhle Liljevik – CEO of Seeds Consulting Norway and Hasith Yaggahavita – CEO of 99x Technology, which operates in Norway, Malaysia, Brazil, and Sri Lanka.
+
+Hasith Yaggahavita – CEO of 99x Technology, which operates in Norway, Malaysia, Brazil, and Sri Lanka
+
+...
+
+[Data](articles/5243f846.json)
+
+---
+
+### Heritance Aarah recognized by Forbes Magazine as Best Beachfront All-Inclusive Resort for Families
+
+*2024-07-01 22:39:00* · [`islandlk`](http://island.lk/heritance-aarah-recognized-by-forbes-magazine-as-best-beachfront-all-inclusive-resort-for-families/) · `en`
+
+Heritance Aarah, nestled in the pristine Raa Atoll of the Maldives, has been honoured with a prestigious accolade by the Forbes Magazine as the Best Beachfront All-Inclusive Resort for Families in 2024. This is the second consecutive year the resort has been awarded this recognition and places Heritance Aarah as the sole Maldivian resort featured in Forbes’ esteemed list of ‘The 20 Best All-Inclusive Resorts for Families’.
+
+...
+
+[Data](articles/ff4a2878.json)
+
+---
+
+### ComBank employees celebrate Poson with ‘Pahan Gee’
+
+*2024-07-01 22:37:00* · [`islandlk`](http://island.lk/combank-employees-celebrate-poson-with-pahan-gee-2/) · `en`
+
+A choral ensemble comprising of members of the staff of the Commercial Bank recently performed at a celebration of Poson with devotional songs. The Bank’s Chairman Sharhan Muhseen, Deputy Chairman Raja Senanayake, Managing Director/CEO Sanath Manatunge, directors and representatives of the senior and corporate management of the Bank graced the occasion at the Malalasekara Theatre at Nalanda College. Present and past employees of Commercial Bank and their families attended the celebration
+
+The guest artiste at the event was the popular musician T. M. Jayaratne, who was accompanied by the Commercial Bank choir on some of the songs. A notable feature of the performance was that many of the devotional songs sung were composed especially for the Bank. Pictured here is one of the performances at the event.
+
+99x expands global footprint with high-profile roundtable in Colombo highlighting strategic growth
+
+...
+
+[Data](articles/ef5822b6.json)
+
+---
+
+### Share market lapses into negativity as political uncertainty persists
+
+*2024-07-01 22:31:00* · [`islandlk`](http://island.lk/share-market-lapses-into-negativity-as-political-uncertainty-persists/) · `en`
+
+The stock market yesterday lapsed into negativity due to stubbornly persistent political uncertainty despite positive reactions from Sri Lanka’s external creditors on the debt restructuring front. Consequently, both indices moved downwards.
+
+The All Share Price Index went down by 68/05 points, while the S and P SL20 declined by 19.79 points. Turnover stood at Rs 686 million with two crossings. Those crossings were reported in JKH, which crossed 500,000 shares to the tune of Rs 102 million; its shares traded at Rs 204 and Hayleys 500,000 shares crossed for Rs 62.5 million; its shares traded at Rs 105.
+
+...
+
+[Data](articles/2d3f4a9f.json)
 
 ---
 
@@ -2225,141 +2295,5 @@ Tamil National Alliance (TNA) leader of Sri Lankan Tamils. Sampanthan sir I was 
 [Data](articles/4159fc5a.json)
 
 [Extended Data](ext_articles/4159fc5a.ext.json)
-
----
-
-### Sampanthan in Sri Lankan politics!
-
-*2024-07-01 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/187374) · `ta`
-
-Rajavarothayam Sampanthan, a key figure in Sri Lankan Tamil politics, passed away aged 91. Born on February 5, 1933, he joined the Sri Lankan Tamil State Party in 1956 and later represented the LTTE in Parliament. Despite boycotting Parliament in protest against the 1983 riots, he returned to politics, leading the Tamil National Alliance (TNA) and serving as Opposition Leader from 2015 to 2018. His contributions to Tamil rights and his leadership roles within the TNA marked him as a significant figure in Sri Lankan politics.
-
-🟩
-
-Senior Leader of the Sri Lanka Tamil National Alliance and Trincomalee District Parliamentarian Rajavarodayam Sambandan passed away at the age of 91.
-
-The family confirmed that he died on Sunday 30th after being admitted to a private hospital in Colombo.
-
-Born on February 5, 1933, he was 91 years old when Sampanthan came to nature.
-
-In 1956 he joined the Sri Lankan Tamil State Party. In 1963 and 1970. Although Velvanayagam offered to contest the election, he did not accept it.
-
-He won the 1977 parliamentary election on behalf of the Liberation Tigers of Tamil Eelam (LTTE) in Trincomalee and became a Member of Parliament.
-
-In mid -1983, all members of the Liberation Tigers of Tamil Eelam (LTTE) boycotted parliament.
-
-Sampanthan lost his parliamentary post on September 7, 1983, as he boycotted more than three months in opposition to the July 1983 riots.
-
-Sambandan was also the Associate Treasurer, Vice President and General Secretary of the Liberation Tigers of Tamil Eelam (LTTE).
-
-...
-
-[Data](articles/dad9c51f.json)
-
-[Extended Data](ext_articles/dad9c51f.ext.json)
-
----
-
-### The remains of the late Sampanthan to Borella
-
-*2024-07-01 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198358) · `si`
-
-Sampanthan, a prominent figure in Sri Lanka's Tamil political movement, passed away after a brief illness. Born on February 5, 1933, he began his political career in 1977, becoming a key advocate for Tamil rights. Serving as a Member of Parliament from 1977 to 1983 and again from 2001, he was also the 14th Opposition Leader. His contributions spanned over five decades, making him a significant figure in the fight for equality among all Sri Lankans. Leaders like Sajith Premadasa and Mahinda Rajapaksa have expressed their condolences, highlighting his impact on the nation's political landscape.
-
-🟩
-
-Late Opposition Leader as well as the Leader of the TNA leader. Mr. Sampanthan's body was taken to a private fleeing in Borella today (01).
-
-He passed away last night while he was admitted to a private hospital in Colombo.
-
-Rather, born on February 5, 1933, everyone recognized. As pigments.
-
-He studied the primary education at St. Patrick's College, Jaffna and studied in several other schools.
-
-He was the first to win the Trincomalee District in the 1977 General Election representing the Tamil United Liberation Front.
-
-Accordingly, from 1977 to 1983 and since 2001, he was a Member of Parliament.
-
-Rather than 3 years during the good governance government. Mr. Sampanthan was also elected as the 14th Opposition Leader of the Parliament.
-
-Relevant vacons for the rights of the Tamil people. Sampanthan was a central and crucial factor in the Tamil political movement of the country.
-
-Meanwhile. Leader of the Opposition Leader Sajith Premadasa has expressed his condolences on the death of Mr. Sampanthan.
-
-...
-
-[Data](articles/fc10e8a7.json)
-
-[Extended Data](ext_articles/fc10e8a7.ext.json)
-
----
-
-### Bus fares reduced
-
-*2024-07-01 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100217/bus-fares-reduced) · `en`
-
-The bus fares will be reduced by 5.07 percent with effect from midnight today (July 01), the National Transport Commission (NTC) says.
-
-The NTC communicated this to the public in a special media briefing held this afternoon.
-
-◼️
-
-[Data](articles/ae6c5c10.json)
-
-[Extended Data](ext_articles/ae6c5c10.ext.json)
-
----
-
-### Bus fares down from midnight today
-
-*2024-07-01 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198357) · `si`
-
-From midnight, the National Transport Board reduced bus fares by 5.07%, making it cheaper for passengers. The exact new fare amount was not specified but is expected to benefit commuters nationwide.
-
-🟩
-
-The National Transport Board has decided to reduce the bus fare from 5.07% in the midnight today (01).
-
-Accordingly, the minimum bus fare will be down in rupees and its new price is Rs.
-
-The National Transport Commission was speaking at a press conference to publish how the bus fare policy is being revised.
-
-◼️
-
-[Data](articles/a48978ec.json)
-
-[Extended Data](ext_articles/a48978ec.ext.json)
-
----
-
-### Increasing visa charges for foreign students has also been released by Australia and new restrictions.
-
-*2024-07-01 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/187381) · `ta`
-
-Australia has raised visa fees for foreign students to $710 and imposed new restrictions, including a ban on student visa applications and temporary graduate visa holders. This move aims to reduce immigration pressure on housing due to a 60% rise in migrants. The Australian Home Minister plans to establish a fairer settlement system to maintain the integrity of the international education sector. Critics argue that this increase makes studying in Australia more expensive compared to countries like Canada and America, while also addressing concerns about foreign students exploiting legal loopholes to remain in the country.
-
-🟩
-
-Australia has increased visa charges for foreign students as an attempt to curb the number of immigrants as homes have been severely pressured as migrants have increased in Australia.
-
-Visa fees for foreign students have been increased to $ 710, it has been announced.
-
-Meanwhile, Australia has banned applying for a student visa and holders of temporary graduate visas.
-
-Australian Home Minister Crear O Niel will help create a fair small settlement system that will help restore the integrity of our international education system.
-
-Statistics released in March have revealed that Australia's immigration has increased by 60 percent.
-
-Due to the increase in visa fees, students will have to pay more than Canada America.
-
-The Australian government has said that foreign students are trying to comply with the loopholes of the law that allow for continuing to stay in Australia.
-
-Senator Fatima Payman of the Labor Party has stated that he has been deported from the Labor.
-
-...
-
-[Data](articles/5efcc756.json)
-
-[Extended Data](ext_articles/5efcc756.ext.json)
 
 ---

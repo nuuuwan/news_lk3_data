@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 11:35:14**
+As of **2024-07-02 11:55:04**
 
 ## Newspaper Stats
 
-*Scraped **33,242** Articles*
+*Scraped **33,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,856
 economynextcom | 1,943
 dailyftlk | 2,054
-adalk | 2,958
+adalk | 2,959
 adaderanalk | 3,787
-tamilmirrorlk | 3,937
+tamilmirrorlk | 3,938
 dailymirrorlk | 4,733
 virakesarilk | 5,178
 adaderanasinhalalk | 5,500
@@ -26,57 +26,103 @@ adaderanasinhalalk | 5,500
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,237 (100.0%) of 33,242 articles have been extended.
+33,242 (100.0%) of 33,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### ‘குண்டு’ தகவலால், கண்டியில் பதற்றம்
+### சம்பந்தனின் பூதவுடலுக்கு பெருந்திரளானோர் அஞ்சலி
+
+*2024-07-02 11:31:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனின்-பூதவுடலுக்கு-பெருந்திரளானோர்-அஞ்சலி/175-339752) · `ta`
+
+தமிழ்த் தேசியக் கூட்டமைப்பின் முன்னாள் தலைவருமான மறைந்த இராஜவரோதயம் சம்பந்தனின் பூதவுடல் மக்கள் அஞ்சலிக்காக கொழும்பு – பொரள்ளை பகுதியிலுள்ள தனியார் மலர்சாலையில் செவ்வாய்க்கிழமை (02) வைக்கப்பட்டுள்ளது.
+
+அதன்பின்னர், இரா.சம்பந்தனின் பூதவுடல் அவரது சொந்த ஊரான திருகோணமலைக்கு கொண்டு செல்லப்பட்டு, இறுதிக் கிரியைகள் நடாத்தப்படவுள்ளன.
+
+இறுதி கிரியைகளை, எதிர்வரும் ஞாயிற்றுக்கிழமை (07) செய்ய எதிர்பார்த்துள்ளதாக தமிழ்த் தேசியக் கூட்டமைப்பின் ஊடகப் பேச்சாளர், பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவிக்கின்றார்.
+
+◼️
+
+[Data](articles/b73c025d.json)
+
+---
+
+### Tension in Kandy
 
 *2024-07-02 11:15:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குண்டு-தகவலால்-கண்டியில்-பதற்றம்/175-339749) · `ta`
 
-கண்டி நீதிமன்ற வளாகத்தில் வெடிகுண்டு இருப்பதாக பொலிஸ் அவசர அழைப்புப் பிரிவுக்கு (119) கிடைத்த தகவலுக்கு அமைய நீதிமன்ற வளாகத்தில் அனைத்து நடவடிக்கைகளையும் நிறுத்தி, அங்குள்ள மக்களை வெளியேற்றி விரிவான சோதனையில் ஈடுபடவுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+A bomb threat was reported at Kandy Court on Tuesday morning, prompting police to dispatch the Special Task Force Bomb Disposal unit. The caller's identity is unknown, and any false reports will be investigated.
 
-செவ்வாய்க்கிழமை  (02) காலை 10.00 மணியளவில் இந்த தொலைபேசி அழைப்பு கிடைக்கப்பெற்றதையடுத்து பொலிஸார் உடனடியாக விசேட அதிரடிப்படையின் வெடிகுண்டு செயலிழப்பு பிரிவினரை அழைத்து சம்பவ இடத்துக்கு அனுப்பிவைக்கப்பட்டுள்ளனர்.
+🟩
 
-இந்த தொலைபேசி அழைப்பு யாரேனும் ஒருவரின் போலி தொலைபேசி அழைப்பு எனத் தெரியவந்தால், அளிக்கப்பட்ட தொலைபேசி எண் மூலம் விரிவான விசாரணை நடத்தப்பட்டு அவர் மீது கடுமையான சட்டம் அமுல்படுத்தப்படும் என்று பொலிஸ் உயர் அதிகாரியொருவர் தெரிவித்தார்.
+Police say that there is a bomb at the Kandy Court premises, according to information received by the Police Emergency Division (119).
+
+The phone call was received at 10.00 am on Tuesday (02) and the police were immediately sent to the Special Task Force Bomb Discallence.
+
+If anyone is found to be a fake phone call, a police officer said that a detailed investigation into the telephone number would be implemented.
 
 ◼️
 
 [Data](articles/44c0740f.json)
 
+[Extended Data](ext_articles/44c0740f.ext.json)
+
 ---
 
-### லிட்ரோ எரிவாயு விலை குறைப்பு
+### මහනුවර අධිකරණයේ බෝම්බ බියක්
+
+*2024-07-02 11:13:30* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-අධිකරණයේ-බෝම්බ-බියක්/11-410560) · `si`
+
+මහනුවර අධිකරණයේ බෝම්බ බියක් හේතුවෙන් එහි සියලු කාර්‍ය මංඩල ඉවත් කිරිමට කටයුුතු කර තිබේ. අධිකරණ සංකීර්ණයට බෝම්බ නිශ්ක්‍රීය අංශය කැඳවා ඇති අතර ඔවුන් සෝදිසි කිරීම් ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/2bb8b3e6.json)
+
+---
+
+### Litro gas price reduction
 
 *2024-07-02 11:09:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-எரிவாயு-விலை-குறைப்பு/175-339748) · `ta`
 
-இன்று (02) நள்ளிரவு முதல் சமையல் எரிவாயு சிலிண்டரின் விலையை குறைக்க நடவடிக்கை எடுத்துள்ளதாக லிட்ரோ எரிவாயு நிறுவனம் அறிவித்துள்ளது.
+Litro Gas Company has reduced prices: 12.5 kg cylinder now Rs. 3,690 (down from Rs. 3,790), 5 kg cylinder Rs. 1,482 (down from Rs. 1,522), and 2.3 kg cylinder Rs. 694 (down from Rs. 712).
 
-இதன்படி, 12.5 கிலோ கிராம் எரிவாயு சிலிண்டர்  100 ரூபாவினால் குறைக்கப்படவுள்ள நிலையில், அதன் புதிய விலை 3,690 ரூபாவாகும்.
+🟩
 
-5 கிலோ கிராம் எடையுள்ள எரிவாயு சிலிண்டரின் விலை 40 ரூபாவால் குறைக்கப்படவுள்ளதுடன், அதன் புதிய விலை 1,482 ரூபாவாகும்.
+Litro Gas Company has announced that it has taken steps to reduce the price of cooking gas cylinder from midnight today.
 
-2.3 கிலோ கிராம் எடையுள்ள எரிவாயு சிலிண்டரின் விலை 18 ரூபாவால் குறைக்கப்படவுள்ளதுடன், அதன் புதிய விலை 694ரூபாவாகும்.
+Accordingly, the new price of 12.5 kg of gas cylinder will be reduced by 100 rupees, and its new price is 3,690 rupees.
+
+The price of a gas cylinder weighing 5 kg will be reduced by 40 rupees and its new price is 1,482 rupees.
+
+The price of a gas cylinder weighing 2.3 kg will be reduced by 18 rupees and its new price is 694 rupees.
 
 ◼️
 
 [Data](articles/ff2566de.json)
 
+[Extended Data](ext_articles/ff2566de.ext.json)
+
 ---
 
-### ලංකාවේ සමස්ත විදෙස් ණය ප්‍රමාණය ඩොලර් බිලියන 37යි
+### The total foreign debt in Sri Lanka is US $ 37 billion
 
 *2024-07-02 11:05:11* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සමස්ත-විදෙස්-ණය-ප්‍රමාණය-ඩොලර්-බිලියන-37යි/11-410559) · `si`
 
-ශ්‍රී ලංකාවේ සමස්ත විදේශ ණය  ප්‍රමාණය ඩොලර් බිලයන 37ක් බව ජනපති රනිල් වික්‍රමසිංහ මහතා පාර්ලිමේන්තුවට දැනුම් දුන්නේය. ණය  ප්‍රතිව්‍යුහගත කිරිමට අදාළව පාර්ලිමේන්තුවේදි විශේෂ ප්‍රකාශයක් කරමින් ඔහු මේ බව පැවැසීය.
+Sri Lanka's total foreign debt stands at US $37 billion, according to President Ranil Wickremesinghe. He discussed debt restructuring in Parliament, mentioning $10.6 billion in bilateral loans.
 
-මෙම ණය ප්‍රමාණය අතර ඩොලර් බිලියන 10.6ක ද්විපාර්ශ්වීය ණය, ඩොලර් බිලියන 11.7ක බහුපාර්ශවීය ණය, ඩොලර් බිලියන 14.7ක වාණිජ ණය හා ඩොලර් බිලියන 12.5ක සෛවරිත්ව බැඳුම්කර ඇතුළත් බව ඔහු පැවැසීය.
+🟩
+
+President Ranil Wickremesinghe informed Parliament that the total foreign debt was 37 dollars in Sri Lanka. He made this statement in Parliament in Parliament regarding the restructuring of debt.
+
+He added that between $ 10.6 billion bilateral loans of $
 
 ◼️
 
 [Data](articles/32b2447e.json)
+
+[Extended Data](ext_articles/32b2447e.ext.json)
 
 ---
 
@@ -95,6 +141,8 @@ UPDATE: All the cases that were scheduled to be heard and the delivering of ver
 ◼️
 
 [Data](articles/4681eedb.json)
+
+[Extended Data](ext_articles/4681eedb.ext.json)
 
 ---
 
@@ -548,21 +596,29 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 ---
 
-### මේ දවස්වල ලෝකයේ කවුරුවත් ලංකාවේ බැදුම්කර ගන්නේ නෑ
+### No one in the world will be bounded in Sri Lanka
 
 *2024-07-02 08:46:44* · [`adalk`](https://www.ada.lk/breaking_news/මේ-දවස්වල-ලෝකයේ-කවුරුවත්-ලංකාවේ-බැදුම්කර-ගන්නේ-නෑ/11-410556) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ මෙහෙයවීම යටතේ ක්‍රියාත්මක වත්මන් ආණ්ඩුවේ ආර්ථික වැඩපිළිවෙළින් බැහැරව කිසිවකු හෝ ආණ්ඩුවක් පවත්වාගෙන යෑමට සිහින මවනවා නම් යළිත් මේ රට කඩාවැටීමට ලක්වීම වළක්වාගත නොහැකි බව ප්‍රවාහන, මහාමාර්ග හා ජනමාධ්‍ය අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා පැවසීය.
+Dr. Bandula Gunawardena, Sri Lanka's Transport, Highways, and Mass Media Minister, emphasized the importance of continuing the current economic program under President Ranil Wickremesinghe. He highlighted the need for a special parliamentary debate on restructuring foreign loans due to financial challenges, including unpaid loan installments and shortages of oil and gas. The minister praised Wickremesinghe's efforts in securing loans from the IMF, which he argued were crucial for importing goods and maintaining the economy. He also mentioned upcoming financial support from the IMF, World Bank, and Asian Development Bank for the 2025 budget, stressing the necessity of these funds for public servant salaries, pensions, and subsidies. Gunawardena warned against opposing the economic program, labeling such actions as treasonous, and called for unity in implementing the agreed-upon plan to ensure the country's stability and development.
 
-එබැවින් මෙම ආර්ථික වැඩපිළිවෙළ අඛණ්ඩව ඉදිරියට ගෙන යෑමට මේ රටේ සියලු පුරවැසියන්ගේ සහාය අවශ්‍ය කාලය එළැඹ තිබෙන බව ද අමාත්‍යවරයා පෙන්වා දුන්නේය.
+🟩
 
-ප්‍රවාහන, මහාමාර්ග සහ ජනමාධ්‍ය අමාත්‍ය බන්දුල ගුණවර්ධන මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (01) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Transport, Highways and Mass Media Minister Dr. Bandula Gunawardena said that if the current government is being carried out under the direction of President Ranil Wickremesinghe.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ අමාත්‍ය බන්දුල ගුණවර්ධන මහතා මෙසේද පැවසීය,
+The Minister also pointed out that the time of all citizens of this country has come to continue this economic program.
+
+Minister of Transport, Highways and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media was held at a press conference held at the press conference held today (01).
+
+Speaking further Minister Bandula Gunawardena further said,
+
+Special debate on restructuring of foreign loans will be held in Parliament on July 02 and 03. The Treasury was not available in the Treasury. The country was unable to pay the loan installments. Oil Quech and gas queues. A struggled proceedings of the society became a hatred club that society became a hatred club.
 
 ...
 
 [Data](articles/e113b17a.json)
+
+[Extended Data](ext_articles/e113b17a.ext.json)
 
 ---
 
@@ -2181,51 +2237,5 @@ Sri Lanka state bus system looks to e-ticketing to combat revenue leaks
 [Data](articles/a4ad6fb5.json)
 
 [Extended Data](ext_articles/a4ad6fb5.ext.json)
-
----
-
-### Petition on Keheliya's bail application will be considered
-
-*2024-07-01 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198372) · `si`
-
-A petition against former Health Minister Keheliya Rambukwella's bail application, related to substandard vaccines, was heard but postponed until tomorrow. The case involves allegations of drug misuse and is being reviewed by the Court of Appeal.
-
-🟩
-
-Several further matters of the Rit petition presented by former Minister of Health Keheliya Rambukwella was postponed until tomorrow.
-
-The Rit petition has been filed by the Maligakanda Magistrate's Court to direct the decree in the courtship of the court until the prosecution of the substandard antibodies.
-
-The petition was considered in front of the judge of the Court of Appeal today (01).
-
-The Deputy Solicitor General further stated that there was a misuse of the drugs that the potatoes have been in the process of controversy.
-
-◼️
-
-[Data](articles/d6bc8685.json)
-
-[Extended Data](ext_articles/d6bc8685.ext.json)
-
----
-
-### What a drunk person did on the road
-
-*2024-07-01 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198371) · `si`
-
-In Talangama, a drunk man caused chaos last night on Denzil Kobbekaduwa Mawatha, damaging four vehicles and attacking Provincial Council buildings with a sword.
-
-🟩
-
-Talangama Regional incidents reported a person who travels a man who had taken a sword.
-
-The incident had occurred last night at Denzil Kobbekaduwa Mawatha in Talangama.
-
-The man had been drunk and 4 vehicles and the Provincial Councils were damaged by the attacks on him.
-
-◼️
-
-[Data](articles/8ce6d29f.json)
-
-[Extended Data](ext_articles/8ce6d29f.ext.json)
 
 ---

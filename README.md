@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 17:55:34**
+As of **2024-07-02 18:13:26**
 
 ## Newspaper Stats
 
-*Scraped **33,314** Articles*
+*Scraped **33,319** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,112 @@ newsfirstlk | 363
 islandlk | 1,857
 economynextcom | 1,948
 dailyftlk | 2,054
-adalk | 2,966
-adaderanalk | 3,799
+adalk | 2,968
+adaderanalk | 3,800
 tamilmirrorlk | 3,942
 dailymirrorlk | 4,733
 virakesarilk | 5,198
-adaderanasinhalalk | 5,518
+adaderanasinhalalk | 5,520
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,313 (100.0%) of 33,314 articles have been extended.
+33,319 (100.0%) of 33,319 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### ඡන්ද විමසීම ගැන මැතිවරණ කොමිෂන් සභාවෙන් විශේෂ නිවේදනයක්
+### The tragedy of a religious ceremony
+
+*2024-07-02 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198417) · `si`
+
+A tragic Hindu ceremony in Uttar Pradesh, India, resulted in 27 deaths, including 23 women and four children.
+
+🟩
+
+In northern India, 27 people were killed due to a religious ceremony.
+
+The incident had occurred during a Hindu religious ceremony in Uttar Pradesh.
+
+There are 23 women and four children have been among the deceased Indian media.
+
+◼️
+
+[Data](articles/8d595538.json)
+
+[Extended Data](ext_articles/8d595538.ext.json)
+
+---
+
+### Brand of the latest petrol coming to the market
+
+*2024-07-02 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198416) · `si`
+
+Lanka IOC releases Octane petrol to Sri Lankan market under Minister Kanchana Wijesekara's guidance. Discussions included lubricant markets, fuel prices, and a proposed Indian-Sri Lanka fuel pipeline.
+
+🟩
+
+The Minister of Power and Energy Kanchana Wijesekara says that the Lanka IOC will be released to the market of Octane petrol today (02).
+
+Meanwhile, the Minister said that the heads of Lanka IOC met with him.
+
+Communicated with the development of Lubricant Markets, Lubricant Market, Lubricant Market, Fuel Tank Complex, the Fuel Prices and the proposed Indian-Sri Lanka fuel pipeline.
+
+◼️
+
+[Data](articles/50c68ba2.json)
+
+[Extended Data](ext_articles/50c68ba2.ext.json)
+
+---
+
+### Elections for election commissions
 
 *2024-07-02 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198415) · `si`
 
-පළාත් පාලන ආයතන ඡන්ද විමසීම පැවැත්වීම කල් තබා ඇති බැවින් සහ එම ඡන්ද විමසීම පවත්වා අවසන් නොමැති බැවින් රට තුළ මැතිවරණ නීතිය තවමත් බලාත්මක පවතින බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+The Elections Commission emphasizes the ongoing enforcement of the election law, citing Constitutional Article 104 "A". It prohibits political promotion and misuse of state resources during elections. Violations are considered criminal offenses. The Commission urges adherence to its regulations for fair elections, referencing Gazette No. 20 of January 20, 2023.
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 104 "ඒ" වගන්තිය ප්‍රකාරව මෙම නීතිය බලාත්මකව පවතින බව එම කොමිෂන් සභාව සඳහන් කළේය.
+🟩
 
-මෙම තත්ත්වය තුළ පළාත් පාලන මැතිවරණ නීතිය බලපවත්වන කාලසීමාව තුළ කිසිදු දේශපාලන පක්ෂයක්, කණ්ඩායමක්, අපේක්ෂකයෙක්, ප්‍රවර්ධනය නොවන සේ කටයුතු කළ යුතු බව ද ඔවුන් පෙන්වාදෙයි.
+The Elections Commission says that the election law is still undergoing enforcement in the country as the local authority has held the election and the election has not been held.
 
-ඒ සඳහා කිසිදු රාජ්‍ය දේපලක් යොදා නොගත යුතු බවට සියලු රාජ්‍ය ආයතන ප්‍රධානීන් දැනුවත් කරමින් විශේෂ ගැසට් පත්‍රයක් හා චක්‍රලේඛයක් මඟින් දැනුවත් කර ඇති බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+The Commission states that the law is in effect as per the Constitution 104 "A" section.
 
-2313/32 දරණ ගැසට් පත්‍රය සහ 2023 ජනවාරි මස 05 වන දින නිකුත් කළ අංක 20 දරණ චක්‍රලේඛය ඒ අනුව තවදුරටත් බලාත්මකව පවතින බව ද නිවේදනයක් නිකුත් කරමින් මැතිවරණ කොමිෂන් සභාව පවසයි.
+They also show that no political party, a group and a candidate should be promoted during the period underway.
 
-ඒ අනුව මෙම කාලසීමාව තුළ දී මැතිවරණ නීති කඩවන ආකාරයෙන් කටයුතු කිරීම දඬුවම් ලැබිය හැකි වරදක් බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+The Elections Commission states that no state property should be used by a special gazette and a circular that all state institutions should be used.
+
+The Gazette of the Gazette, No. 20 of January 20, 2023, issue of No. 20 of January 20, 2023, the Election Commission says.
+
+According to the Elections Commission, the breach of election laws is a punitive offense.
+
+The Commission requests the provisions and the provisions issued by the Elections Commission and the Circulars issued by the Elections Commission for free and fair.
+
+◼️
+
+[Data](articles/8a6af2a2.json)
+
+[Extended Data](ext_articles/8a6af2a2.ext.json)
+
+---
+
+### UNDP’s local governance symposium recommendations handed over to Prime Minister
+
+*2024-07-02 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100247/-undps-local-governance-symposium-recommendations-handed-over-to-prime-minister) · `en`
+
+The Findings and Preliminary Recommendations Report from the recently concluded National Symposium on ‘Catalysing Change: Making Local Governance Future Fit’ carried out by the United Nations Development Programme (UNDP) has been handed over this morning (02) to Prime Minister Dinesh Gunawardena.
+
+The report was officially handed over by Ms. Azusa Kubota, Resident Representative, UNDP in Sri Lanka and Mr. Johann Hesse, Head of Cooperation at the European Union (EU) Delegation to Sri Lanka and the Maldives.
+
+The National Symposium was co-convened by the Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government, the European Union Delegation in Sri Lanka and the UNDP in Sri Lanka.
 
 ...
 
-[Data](articles/8a6af2a2.json)
+[Data](articles/83fce7d6.json)
+
+[Extended Data](ext_articles/83fce7d6.ext.json)
 
 ---
 
@@ -782,6 +852,34 @@ In this case, Opposition Leader Sajith Premadasa has paid his final honor to Sam
 
 ---
 
+### Parliament is empty
+
+*2024-07-02 13:19:12* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවේ-මන්ත්‍රීධුරයක්-හිස්-වෙයි/11-410565) · `si`
+
+Due to the passing of Mr. Sampanthan, Parliament is adjourned. The Speaker announced his death, expressing Parliament's importance to the bereaved family. Condolences will be offered tomorrow from 12:00 to 4:00 PM near the main entrance. Additionally, the Speaker mentioned receiving a petition related to the Bill of Rights under Constitution 121 (1), filed on 01.07.2013.
+
+🟩
+
+R. Speaker informs that due to the death of Mr. Sampanthan's death
+
+The Hon.
+
+The Speaker, who told the Parliament, he told the Speaker of Parliament that the Speaker expressed the significance of the Parliament to the family.
+
+All parliament that the condolences will be presented to Parliament on the following day, the Speaker will be presented to Parliament on July 03 ,,00 to 4.00 pm in the ceremony near the main portal of parliament tomorrow.He also said that he kindly informed the MPs.
+
+Petitions relating to the Bill of Bill
+
+According to the Constitution 121 (1) of the Constitution, the Speaker informed Parliament that he had received a copy of a petition filed by the Supreme Court on 01.04.2012 on 01.07.2013.
+
+◼️
+
+[Data](articles/31184e59.json)
+
+[Extended Data](ext_articles/31184e59.ext.json)
+
+---
+
 ### SJB group decide not to support a national govt.
 
 *2024-07-02 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100238/sjb-group-decide-not-to-support-a-national-govt) · `en`
@@ -1179,6 +1277,32 @@ Furthermore, the Speaker informed all the Members of Parliament that his remains
 [Data](articles/0dde2121.json)
 
 [Extended Data](ext_articles/0dde2121.ext.json)
+
+---
+
+### Computer criminal center raided in Kandy
+
+*2024-07-02 11:48:25* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දිය-තරුණයින්-පිිරිසක්-මහනුවර-පවත්වාගෙන-ගිය-පරිගණක-අපරාධ-මධ්‍යස්ථානයක්-වටලයි/11-410562) · `si`
+
+In Kandy, a raid on a computer crime center led to the arrest of several individuals suspected of running various cybercrimes from a rented home. The property was reportedly occupied by 30 Indian nationals paying a high monthly rent. Police discovered a significant amount of cash and equipment used for illicit activities, as well as evidence of involvement in an international online betting operation. Further inquiries are ongoing.
+
+🟩
+
+Police have arrested a large quantity of computer crimes suspected to run a large number of persons in a lonely home near the Halloluwa Bridge in the Halloluwa Bridge in Kandy.
+
+Further investigations are conducting further investigations into the Criminal Investigation Division of the Criminal Investigation Division of the Criminal Investigation Division of the Criminal Investigation Division of the Central Province Senior DIG Lalith Pathinayake.Has been handed over for.
+
+The police say that the house has been rented by the next 30 Indian youth, using a monthly rent of Rs. 30 lakhs.
+
+A broad investigation has been launched on an international online bet business movement or whether other computer crimes had been carried out at the site.
+
+The police say that they had also brought two cockets from India to cook their food.
+
+...
+
+[Data](articles/31d93ca3.json)
+
+[Extended Data](ext_articles/31d93ca3.ext.json)
 
 ---
 
@@ -2195,139 +2319,5 @@ The Deputy General Manager of the Railways Department, N. J Indipolage stated th
 [Data](articles/215ebd76.json)
 
 [Extended Data](ext_articles/215ebd76.ext.json)
-
----
-
-### Interrupting train on coastal road
-
-*2024-07-02 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198386) · `si`
-
-A train disruption occurred on the coastal railway line due to congestion between Bambalapitiya and Wellawatte stations. The Deputy Railway General Manager announced that repairs are underway to restore service.
-
-🟩
-
-The train has been disrupted due to a busy railway line on the coastal railway line.
-
-Deputy Railway General Manager N. J. Wanniage said that a poison between the railway stations between the Bambalapitiya and Wellawatte railway stations.
-
-As a result, the railway track on the coast will only occur at one road.
-
-The Deputy General Manager said that steps have been taken to commence the reconstruction work on the road.
-
-◼️
-
-[Data](articles/5de13191.json)
-
-[Extended Data](ext_articles/5de13191.ext.json)
-
----
-
-### A goal of giving up the harvest of six crops
-
-*2024-07-02 08:01:40* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-වගා-කන්න-හයක්-තුළ-වී-අස්වැන්න-දෙගුණ-කර-ගැනීමේ-ඉලක්කයක්/11-410555) · `si`
-
-To boost agriculture, Sri Lanka is investing in youth entrepreneurship, enhancing maize production through new practices, transforming animal farming into enterprises, and reducing harvest losses via railway service improvements. The government aims to double paddy harvesting, introduce new technologies, and allocate funds for non-traditional cultivation. Efforts include promoting exports, establishing cold storage, and implementing pilot projects to increase yields. Additionally, measures are underway to resolve the fertilizer crisis, support modern farming with tech, and update agricultural policies.
-
-🟩
-
-Youth entrepreneurship opportunities in agriculture is increasing
-
-Steps will be taken to use the railway service to reduce harvest losses - Ministry of Agriculture and Plantation Industries Janaka, Dharmakirhi.
-
-Fertilizer and agrochemical practices have been introduced to uplift maize production - Director General of the Department of Agriculture.
-
-An operation to transform the animal farm owners in enterprise - Director General of the Department of Animal Production and Health.
-
-Fertilizer common in the market - Commissioner of the Department of Agrarian Development (Services).
-
-The Agriculture Policy has been approved by the Ministry of Finance - Additional Secretary (Agriculture Technology).
-
-President Ranil Wickremesinghe has taken steps to achieve the target of the development of the paddy harvesting to double the amount of paddy harvesting, Mr. Janaka Dharmakirthi said.
-
-...
-
-[Data](articles/81162726.json)
-
-[Extended Data](ext_articles/81162726.ext.json)
-
----
-
-### LPL 2024: Who is Chamindu Wickremesinghe who scored a half-century in the first match?
-
-*2024-07-02 08:01:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxe2vv8r0ndo) · `si`
-
-Chamindu Wickremesinghe, a young talent from Sri Lanka, made headlines in the Lanka Premier League 2024 by scoring a half-century in the inaugural match for the Dambulla Sixers. Born on September 6, 2002, and educated at St. Anthony's College, Kandy, Wickremesinghe has shown exceptional promise since his early days, including scoring the fastest century by a schoolboy in 2021. His impressive performances in both school and club cricket, along with representing Sri Lanka's Under-19 team and scoring centuries in ODI matches, have drawn attention to his potential. In the LPL, partnering with Mark Chapman, he contributed significantly to his team's total, showcasing his batting skills and maturity beyond his years.
-
-🟩
-
-LPL 2024: Who is Chamindu Wickremesinghe who scored a half-century in the first match?
-
-This year, Lanka Premier League Cricket Tournament (July 01) commenced (July 01), Candy Folkins won the team between the Candy Folkins and Dambulla Sixers.
-
-But in the first match, many have been concerned about the skill of Chamindu Wickremesinghe, a new player who represented the Dambulla Sixers.
-
-Do you agree to reach the Skip Facebook PosFacebook content? This article contains content provided by Facebook. Since they use cookies and other technologies, we urgent your permission before they load. You may need to read Facebook cookie policy and privacy policy before it is permitted. Select 'acknowledged forward' to view this content. The content is not responsible for the content of the END.
-
-(July 1) The first wickets of the Dambulla Sixers were bowled out for 25 runs in the event.
-
-At that point, the number 6 handed over to the ground as a batsman, Chamindu Wickremasinghe and 62 off 42 balls.
-
-...
-
-[Data](articles/0d1d7bd0.json)
-
-[Extended Data](ext_articles/0d1d7bd0.ext.json)
-
----
-
-### Sri Lanka reports US$706mn current account surplus amid financial outflows
-
-*2024-07-02 08:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-reports-us706mn-current-account-surplus-amid-financial-outflows-170433/) · `en`
-
-ECONOMYNEXT – Sri Lanka has recorded a 706 million US dollar current account surplus in the first quarter of 2024 as the financial account recorded a deficit amid private and official debt repayments and reserve collections, data show.
-
-Sri Lanka has recorded current account surpluses, since the last quarter of 2022 when monetary stability was reached and capital inflows dried up.
-
-The current account is a mirror image of the financial and capital accounts, subject to errors and omissions.
-
-The way external accounting is calculated, only the balance of payments surplus and deficit (as defined) can be accurately measured.
-
-Whether there is a balance of payments deficit or surplus depends on the note-issue activities of the central bank.
-
-...
-
-[Data](articles/e8465555.json)
-
-[Extended Data](ext_articles/e8465555.ext.json)
-
----
-
-### A change in parliamentary affairs due to the demise of coordination
-
-*2024-07-02 07:45:52* · [`adalk`](https://www.ada.lk/breaking_news/සම්බන්ධනගේ-අභාවය-නිසා-පාර්ලිමේන්තු-කටයුතු-වල-වෙනසක්/11-410553) · `si`
-
-Following the death of opposition leader R.ampandan, his remains will be laid out from 2 to 4 PM, leading to the postponement of a party-opposition agreement scheduled for July 3. The President plans to address restructuring foreign debt, but the proposal set for tomorrow is canceled. The decision was made during a parliamentary committee meeting chaired by Speaker Mahinda Yapa Abeywardena and Prime Minister Dinesh Gunawardena.
-
-🟩
-
-Late Opposition Leader R.ampandan's remains will be deposited in Table 3 to 4 pm to 4 pm.
-
-Due to this, the party-opposition agreement is also not held on July 3
-
-President's statement to implement agreements to restructure foreign debt
-
-The proposal will not be held tomorrow (02) will not be held on the standard of the standard and a decision on the Committee on Parliamentary Affairs
-
-Late Opposition Leader and Ilanki Tamil Arasu Kachchi Kachchi Kachchi Kachchi (ITAK) Parliamentarian Hon.The Secretary General of Parliament Kushani Rohanadera said.
-
-The body is to be placed at the front porch of the parliamentary building for the end of 2 pm to 4 pm.
-
-Meanwhile, the General Secretary of the Committee on Affairs of Parliament today decided to submit only a special statement on the implementation of controlling agreements on the implementation of foreign debt today (02).. It has also been decided to not hold the debate on the date on which the relevant proposal was scheduled to be held today.
-
-...
-
-[Data](articles/2dad5343.json)
-
-[Extended Data](ext_articles/2dad5343.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 10:19:53**
+As of **2024-07-02 10:35:05**
 
 ## Newspaper Stats
 
-*Scraped **33,221** Articles*
+*Scraped **33,224** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,856
 economynextcom | 1,940
 dailyftlk | 2,054
 adalk | 2,955
-adaderanalk | 3,782
-tamilmirrorlk | 3,931
+adaderanalk | 3,783
+tamilmirrorlk | 3,933
 dailymirrorlk | 4,733
 virakesarilk | 5,178
 adaderanasinhalalk | 5,496
@@ -26,27 +26,61 @@ adaderanasinhalalk | 5,496
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,219 (100.0%) of 33,221 articles have been extended.
+33,221 (100.0%) of 33,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### පාලනයෙන් ගිලිහී ගිය මෝටර් රථය - 09ක් මරුට
+### ஜனாதிபதி பாராளுமன்றத்தில் விசேட உரை
+
+*2024-07-02 10:18:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-பாராளுமன்றத்தில்-விசேட-உரை/175-339741) · `ta`
+
+கடனை மீளச் செலுத்துவது தொடர்பில் நாட்டின் உத்தியோகபூர்வ கடன் வழங்குநர்களுடன் இணக்கப்பாட்டை எட்ட முடிந்துள்ளதாகவும் அமைச்சரவையினால் அங்கீகரிக்கப்பட்ட அதிகாரிகள் அந்த ஒப்பந்தங்களிலும் உடன்படிக்கைகளிலும் கைச்சாத்திட்டதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க செவ்வாய்க்கிழமை (02) அன்று பாராளுமன்றத்தில் ஆற்றிய விசேட உரையின் போது தெரிவித்தார்.
+
+◼️
+
+[Data](articles/1306207b.json)
+
+---
+
+### SC rules several clauses of Economic Transformation Bill are unconstitutional
+
+*2024-07-02 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100230/sc-rules-several-clauses-of-economic-transformation-bill-are-unconstitutional) · `en`
+
+The Supreme Court has determined that several clauses of the Economic Transformation Bill are inconsistent with the country’s Constitution.
+
+Consequently, these clauses require a special majority in parliament and, in some cases, approval by a referendum to be passed.
+
+However, if the contentious clauses are amended, they can be passed with a simple majority, the Speaker of Parliament announced today while delivering Supreme Court determination on the bill.
+
+◼️
+
+[Data](articles/aa7467cc.json)
+
+---
+
+### 09 dead due to control vehicle
 
 *2024-07-02 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198391) · `si`
 
-දකුණු කොරියාවේ සෝල් අගනුවරදී මෝටර් රථයක් පදිකයින් පිරිසකගේ ගැටී සිදුවූ අනතුරකින් පුද්ගලයින් 09 දෙනෙකු මියගොස් තිබේ.
+In Seoul, South Korea, nine died and four were injured in a car crash involving a self-driving vehicle. The car was traveling in the wrong direction, colliding with two other vehicles before hitting pedestrians. The driver, who was arrested, admitted to increasing the car's speed.
 
-අනතුරින් තවත් පුද්ගලයින් සිව්දෙනෙකු තුවාල ලබා ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-අදාළ මෝටර් රථය වැරදි දිශාවෙන් ධාවනය කර ඇති අතර පදිකයින්ගේ ගැටීමට පෙර එය තවත් වාහන 02ක ගැටී ඇති බව සඳහන්ය.
+Nine persons were killed in a crash of a car predictor in Seoul's Seoul in South Korea.
 
-අනතුර සිදුකළ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර ඔහු පවසා ඇත්තේ එකවරම මෝටර් රථයේ වේගය වැඩි වූ බවය.
+Four other people were injured in the accident, foreign media reports said.
+
+The car has been operated in the wrong direction and before the pedestrians clashed, it has collided with another 2 vehicles.
+
+The driver of the accident was arrested and he had said that the speed of the car was increased at the same time.
 
 ◼️
 
 [Data](articles/0f3529af.json)
+
+[Extended Data](ext_articles/0f3529af.ext.json)
 
 ---
 
@@ -65,6 +99,8 @@ Previously, the Speaker of Parliament Mahinda Yapa Abeywardena had informed all 
 ◼️
 
 [Data](articles/153a8864.json)
+
+[Extended Data](ext_articles/153a8864.ext.json)
 
 ---
 
@@ -853,6 +889,26 @@ Police are investigating the suspect at the Jaffna Police Station and the suspec
 [Data](articles/95f4516f.json)
 
 [Extended Data](ext_articles/95f4516f.ext.json)
+
+---
+
+### அதிகாரிகளை பூட்டி: அச்சுறுத்திய நபர்
+
+*2024-07-01 23:26:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/அதிகாரிகளை-பூட்டி-அச்சுறுத்திய-நபர்/71-339727) · `ta`
+
+யாழ்ப்பாணம் - இராமநாதன் வீதியில் கலட்டிச் சந்தியில் உள்ள  மருந்தகமொன்றை சோதனையிடச் சென்ற அரச உத்தியோகத்தர்கள் இருவரை பூட்டி வைத்த உரிமையாளரை பொலிஸார் இன்று கைது செய்தனர்.
+
+சுகாதார அமைச்சகத்தின் உணவு கட்டுப்பாடு நிர்வாக பிரிவு உத்தியோகத்தர்கள் இருவர் மருந்தகத்தின் அனுமதி தொடர்பாக மருந்தகமொன்றை சோதனையிட சென்றனர்.
+
+சோதனையில் அதிகாரிகள் ஈடுபட்டிருக்கும் போது அதிகாரிகளை கடை உரிமையாளர் மருந்தகத்திற்குள் வைத்து பூட்டி அச்சுறுத்தியுள்ளார். இது தொடர்பில் யாழ்ப்பாண மாவட்ட விசேட குற்றத்தடுப்பு பிரிவு பொலிஸாருக்கு அரச அதிகாரிகளால் முறைப்பாடு செய்யப்பட்டது.
+
+இதனையடுத்து சம்பவ இடத்திற்கு வந்த யாழ்ப்பாண மாவட்ட விசேட குற்றத்தடுப்பு பிரிவு பொலிஸார், அனுமதியின்றி மருந்து விற்பனையில் ஈடுபட்டமை மற்றும் அரச உத்தியோகத்தர்களின் கடமைக்கு இடையூறு விளைவித்தமை உள்ளிட்ட குற்றச்சாட்டின் கீழ் கடை உரிமையாளரை கைது செய்தனர்.
+
+சந்தேகநபரை யாழ்ப்பாணம் பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணை நடத்தும் பொலிஸார், விசாரணைகளுக்கு பின்னர் சந்தேக நபரை யாழ்ப்பாணம் நீதிவான் நீதிமன்றத்தில் முற்படுத்த நடவடிக்கை எடுத்துள்ளனர். R
+
+◼️
+
+[Data](articles/a6a56207.json)
 
 ---
 
@@ -2201,71 +2257,5 @@ The police have taken action to investigate the arrested person at the Kayts pol
 [Data](articles/bec410b3.json)
 
 [Extended Data](ext_articles/bec410b3.ext.json)
-
----
-
-### Bus fare will be reduced
-
-*2024-07-01 16:06:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டணம்-குறைக்கப்படும்/175-339703) · `ta`
-
-From midnight on Monday, bus fares will decrease by 5.07%, with the minimum fare dropping by two rupees, as per the National Bus Payment Policy announced by National Transport Commission Chairman Shashi Welgama.
-
-🟩
-
-National Transport Commission Chairman Shashi Welgama said the bus fare would be reduced by 5.07 percent from midnight on Monday (01).
-
-Shashi Welgama said this at a media briefing at the Government Information Department.
-
-He said the minimum bus fare would be reduced by two rupees, which would be Rs.
-
-He added that the bus fares will be revised according to the National Bus Payment Policy.
-
-◼️
-
-[Data](articles/6ee4ff50.json)
-
-[Extended Data](ext_articles/6ee4ff50.ext.json)
-
----
-
-### Australia doubles foreign student visa fee in migration crackdown
-
-*2024-07-01 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100221/australia-doubles-foreign-student-visa-fee-in-migration-crackdown) · `en`
-
-Australia said on Monday it had more than doubled the visa fee for international students, the latest move by the government to rein in record migration that has intensified pressure on an already tight housing market.
-
-From July 1, the international student visa fee has risen to A$1,600 ($1,068) from A$710, while visitor visa holders and students with temporary graduate visas are banned from applying onshore for a student visa.
-
-“The changes coming into force today will help restore integrity to our international education system, and create a migration system which is fairer, smaller and better able to deliver for Australia,” Home Affairs Minister Clare O’Neil said in a statement.
-
-Official data released in March showed net immigration rose 60% to a record 548,800 people in the year to Sept. 30, 2023.
-
-...
-
-[Data](articles/fcf8f1d6.json)
-
-[Extended Data](ext_articles/fcf8f1d6.ext.json)
-
----
-
-### A wife looks for the law for her husband
-
-*2024-07-01 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198366) · `si`
-
-The Attorney General plans to review charges against police officers implicated in a fatal incident involving New Thushara Chandraratne from Naula, where Senaka Ruwan Amarasinghe, the deceased's wife, seeks legal action.
-
-🟩
-
-The Attorney General has informed the Court of Appeal that he will study the charges against the suspects against police officers involved in the death of a father of police.
-
-New Thushara Chandraratne, a resident of Naula, a resident of Naula, a resident of Naula.
-
-Naula worked at Naula Police responsible for the incident. Senaka Ruwan Amarasinghe, the wife of the deceased, is called to the Attorney General's senior to the Attorney General.The Deputy Solicitor General Dilipa Peiris made this notice.
-
-◼️
-
-[Data](articles/b0773068.json)
-
-[Extended Data](ext_articles/b0773068.ext.json)
 
 ---

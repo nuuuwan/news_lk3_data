@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 07:01:06**
+As of **2024-07-02 07:25:24**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,488
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,194 (100.0%) of 33,199 articles have been extended.
+33,199 (100.0%) of 33,199 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### අද කාලගුණය
+### Weather today
 
 *2024-07-02 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198383) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (02) දිනයේ වැසිවාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Several closures expected in Western, Sabaragamuwa, and North Western provinces due to weather conditions. Showers predicted in Ampara and Batticaloa districts. Strong winds possible in North, North Central, and North Western provinces. Public advised to prepare for potential wind and lightning hazards.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරටයි.
+The Meteorology Department says that several closure will occur in the Western, Sabaragamuwa and North Western provinces.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The department states that there will be showers at several places in the Ampara and Batticaloa districts in Ampara or Batticaloa districts.
+
+At times, the North, North Central and North Western provinces are situated in the western slopes of the central hills, in the North, North-Central and North Western Provinces.. The Department of Meteorology announces that 40-50 could cause strong winds.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/294b64f7.json)
+
+[Extended Data](ext_articles/294b64f7.ext.json)
 
 ---
 
@@ -292,19 +298,25 @@ He was the President of the Asian Marketing Federation (AMF) from 2018 to 2020 a
 
 ---
 
-### மடு அன்னையின் ஆடிமாதத் திருவிழா இன்று
+### The Adimatha Festival of Madhu Mother
 
 *2024-07-02 01:03:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மடு-அன்னையின்-ஆடிமாதத்-திருவிழா-இன்று/175-339729) · `ta`
 
-இந்த நிலையில், மடு அன்னை அரசியாக முடிசூட்டப்பட்டதன் நூற்றாண்டு விழாவை முன்னிட்டு மடு அன்னையின் திருவுருவம் பொறிக்கப்பட்ட முத்திரை நேற்று வெளியிட்டு வைக்கப்பட்டுள்ளது.
+To celebrate the centenary of the Madhu Mother, a special stamp featuring her image was launched. The event, organized by Anthony Gnanaprakasam, saw the Archbishop of Mannar, Emmanuel Fernando, receive the stamp from Postmaster Chancellor Ruwan Satkumara.
 
-மடு திருத்தலத்தின் பரிபாலகர் அருட்தந்தை அன்ரனி ஞானப்பிரகாசத்தின் ஏற்பாட்டில் நேற்று முற்பகல் இந்த நிகழ்வு நடைபெற்றது.
+🟩
 
-தபால்மா அதிபர் ருவன் சத்குமாரவினால் விசேட முத்திரை மன்னார் மறைமாவட்ட ஆயர் கலாநிதி இம்மானுவேல் பெர்னாண்டோ ஆண்டகையிடம் வழங்கி வைக்கப்பட்டது. (a)
+In the meantime, the stamp of the Madhu Mother's image was released yesterday to mark the centenary of the Madhu Mother.
+
+The event was held yesterday morning under the arrangement of Anthony Gnanaprakasam, the author of the Madhu Thirutha.
+
+Special stamp was presented by Postmaster Chancellor Ruwan Satkumara to the Archbishop of Mannar, Emmanuel Fernando.. (A)
 
 ◼️
 
 [Data](articles/ab8abf27.json)
+
+[Extended Data](ext_articles/ab8abf27.ext.json)
 
 ---
 

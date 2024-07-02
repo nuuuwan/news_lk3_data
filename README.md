@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 15:35:12**
+As of **2024-07-02 15:53:59**
 
 ## Newspaper Stats
 
-*Scraped **33,293** Articles*
+*Scraped **33,294** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,856
 economynextcom | 1,943
 dailyftlk | 2,054
 adalk | 2,963
-adaderanalk | 3,794
+adaderanalk | 3,795
 tamilmirrorlk | 3,940
 dailymirrorlk | 4,733
 virakesarilk | 5,198
@@ -26,25 +26,51 @@ adaderanasinhalalk | 5,513
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,292 (100.0%) of 33,293 articles have been extended.
+33,293 (100.0%) of 33,294 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### කුඩු සමග කොටුවූ ධීවරයින් රිමාන්ඩ්
+### Japan confident Sri Lanka’s economy will continue to improve
+
+*2024-07-02 15:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100242/japan-confident-sri-lankas-economy-will-continue-to-improve-) · `en`
+
+Sri Lanka’s Minister of Foreign Affairs Ali Sabry PC has held discussions with former Foreign Minister and current Chief Cabinet Secretary of Japan Hayashi Yoshimasa on the vibrant Sri Lanka – Japan partnership.
+
+Sabry, who is on an official visit to Japan, has also shared views with Yoshimasa on way to further bolster the Sri Lanka – Japan engagement.
+
+The Sri Lankan Foreign Minister has provided an update of the latest economic situation and the progress of the debt restructuring process to Yoshimasa.
+
+Accordingly, Yoshimasa has expressed his confidence that Sri Lanka’s economy will continue to improve, as mentioned on a ‘X’ (formerly Twitter) post by Ali Sabry.
+
+“We also recalled Cabinet Secretary Hayashi’s visit to Sri Lanka in July 2023 and the warm & close association he has with Sri Lanka over the years”, he added.
+
+◼️
+
+[Data](articles/be1f63ef.json)
+
+---
+
+### Fishermen remanded with powder
 
 *2024-07-02 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198410) · `si`
 
-ගැඹුරු මුහුදේදී හෙරොයින් තොගයක් සමග පසුගියදා නාවික හමුදා භාරයට ගත් ධීවරයින් හය දෙනාව අද (02) අධිකරණයට ඉදිරිපත් කළේය.
+Six fishermen arrested with heroin at sea were remanded in court on February 2nd. Heroin found onboard was shown as evidence. They appeared before Colombo Magistrate No. 1 and were remanded until the 16th.
 
-එම ධීවර යාත්‍රාවේ තිබී සොයාගත් හෙරොයින් තොගය ද අධිකරණය ට ඉදිරිපත් කළ බව අප වාර්තාකරු පැවසීය.
+🟩
 
-එහිදී එම සැකකරුවන්ව කොළඹ මහෙස්ත්‍රාත් අංක 1 අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව එළඹෙන 16 වනදා රක්ෂිත බන්ධනාගාරගත කෙරිණි.
+The six fishermen taken into custody with a stock of heroin at the deep sea were produced in court today (02).
+
+Our correspondent said that the heroin found in the midsthip was presented to the court.
+
+The suspects were produced before the Colombo Magistrate No. 1 and remanded on the 16th.
 
 ◼️
 
 [Data](articles/7dea1748.json)
+
+[Extended Data](ext_articles/7dea1748.ext.json)
 
 ---
 
@@ -2259,23 +2285,5 @@ In efforts to strengthen the progress of the Colombo stock market, the committee
 [Data](articles/0a4c51bd.json)
 
 [Extended Data](ext_articles/0a4c51bd.ext.json)
-
----
-
-### Rohan Somawansa joins ACL Plastics Board
-
-*2024-07-02 01:44:07* · [`dailyftlk`](https://www.ft.lk/business/Rohan-Somawansa-joins-ACL-Plastics-Board/34-763733) · `en`
-
-Top marketer Rohan Somawansa has been appointed as an Independent Non-Executive Director on the Board of ACL Plastics PLC.
-
-Rohan currently functions as a Director of Samson Compounds Ltd., and Head of Marketing and Corporate Communications of DSI Samson Group and is responsible for strategic management, manufacturing, Human Resources, Marketing and brand building.
-
-He was the President of the Asian Marketing Federation (AMF) from 2018 to 2020 and currently he holds the post of Advisor and Member of the AMF Foundation. He was the President of Sri Lanka Institute of Marketing (SLIM) in 2010/2011. In recognition for his services rendered to Marketing in Asia, he was conferred honorary fellow member status by the Marketing Institute of Singapore and Fellow status by the Institute of Marketing, Malaysia. He was selected as one of the top 50 marketing professionals by the World CMO Council in 2013.
-
-...
-
-[Data](articles/f6fc1fe0.json)
-
-[Extended Data](ext_articles/f6fc1fe0.ext.json)
 
 ---

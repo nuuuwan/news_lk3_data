@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 14:35:09**
+As of **2024-07-02 14:53:49**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 5,510
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,283 (100.0%) of 33,289 articles have been extended.
+33,289 (100.0%) of 33,289 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### බෝක්කුවක් තුළ පුද්ගල මළ සිරුරක්
+### A dead body found in a culvert
 
 *2024-07-02 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198407) · `si`
 
-හැටන්, කොටගල රොසිටා නගරයේ බොක්කුවක් තුළ තිබී නාඳුනන පුද්ගලයෙකුගේ මළ සිරුරක් අද (02) සොයාගත් බව දිඹුල පතන පොලීසිය පැවසිය.
+A body was discovered in a bay near Kotagala, Hatton, possibly from an insecure bridge. The police are investigating, and a post-mortem examination will be conducted at the JVP Hospital.
 
-කොටගල නගරයේ ජලය ගලා බසින කාණු පද්ධතියක බොක්කුවක් තුළ අවුරුදු 70ක් පමණ වයසැති පුද්ගලයෙකුගේ මළ සිරුරක් ඇති බවට ප්‍රදේශවාසින් පොලීසියට කළ දැනුම් දීමෙන් පසු සිරුර සොයාගෙන තිබේ.
+🟩
 
-කොටගල නගරය හරහා ගමන් කළ පුද්ගලයෙකු අනාරක්ෂිත බොක්තුව තුළට වැටී මිය යන්නට ඇති බවට පොලීසිය සැක පළ කරයි.
+Dimbula Patana Police said that a body of a person was found in a bay in Kotagala, Hatton.
 
-සිරුර සම්බන්ධයෙන් හැටන් මහෙස්ත්‍රාත්වරයාගේ ස්ථාන පරීක්ෂාවෙන් පසු සිරුර පශ්චාත් මරණ පරීක්ෂණය සඳහා දික්ඔය මුලික රෝහලේ අධිකරණ වෛද්‍යවරයා වෙත යොමු කරන බව දිඹුල පතන පොලීසිය පැවසිය.
+The body was found after a 70-year-old person was in a bay of water in Kotagala town.
+
+Police suspect that a person who traveled through Kotagala town has died in the unsecured bicklets.
+
+The body of the Hatton Magistrate's location regarding the body is referred to the post mortem to the JVP Hospital for the Judicial Medical Officer of the Dikoya Hospital.
 
 ◼️
 
 [Data](articles/c6cb5a36.json)
 
+[Extended Data](ext_articles/c6cb5a36.ext.json)
+
 ---
 
-### சம்பந்தன் மறைவுக்கு ரெலோ இரங்கல்
+### Relo condolences to Sampanthan's demise
 
 *2024-07-02 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/187483) · `ta`
 
-தமிழ் மக்களால் தமிழ்த் தேசியப் பெருந்தலைவராகப் பார்க்கப்பட்ட தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவரும், இலங்கைத் தமிழரசுக் கட்சியின் முதுபெரும் தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இராஜவரோதயம் சம்பந்தனின் மறைவுக்கு தமிழ் ஈழ விடுதலை இயக்கம் ஆழ்ந்த அனுதாபங்களைத் தெரிவித்துக் கொள்கிறது.
+The Tamil Eelam Liberation Movement mourns the loss of Rajavarodhayam Sambandan, a key figure in the Tamil National Alliance (TNA) and advocate for Tamil political rights in Sri Lanka. His departure leaves a significant void in efforts towards achieving federal solutions for Tamils. Despite facing criticism and setbacks, including losing his parliamentary seat due to opposition to the 6th Amendment, Sambandan remained committed to Tamil causes, engaging internationally for recognition and rights. His contributions, especially after 2009, were pivotal in highlighting Tamil issues, despite challenges from both state leadership and within the Tamil community itself. Sambandan's legacy of fighting for Tamil political rights through democratic means will be remembered, marking a significant loss in the ongoing struggle for Tamil political autonomy in Sri Lanka.
 
-தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவரும், இலங்கைத் தமிழரசுக் கட்சியின் முதுபெரும் தலைவரும் திருகோணமலை பாராளுமன்ற உறுப்பினருமான  இராஜவரோதயம் சம்பந்தன் அவர்களின் மறைவு தமிழ் மக்களின் அரசியல் உரிமைப் பிரச்சினைத் தீர்வுக்கான பயணத்தில் பாரியதொரு இடைவெளியை ஏற்படுத்தியிருக்கிறது.
+🟩
 
-தந்தை செல்வநாயகத்தால் ஆரம்பிக்கப்பட்ட தமிழரசுக்கட்சியின் தலைவர்கள் வரிசையில் அமிர்தலிங்கம், சிவசிதம்பரம் போன்ற மறைந்த அரசியல்வாதிகள் வரிசையில் சம்பந்தனும் இணைந்துகொண்டுள்ளார்.
+The Tamil Eelam Liberation Movement expresses deepest sympathies to the demise of the Tamil National Alliance (TNA) leader of the Tamil National Alliance (TNA), the leader of the Sri Lanka Tamil National Alliance (TNA) and the Trincomalee district parliamentarian Rajavarodhayam Sambandan.
+
+The demise of the Tamil National Alliance (TNA) leader and the leader of the Sri Lanka Tamil National Alliance (TNA) and Trincomalee parliamentarian Rajavarodayam Sambandan has created a huge gap on the journey of the political rights issue of the Tamil people.
+
+Sampanthan has joined the line of late politicians such as Amirthalingam and Sivasidhambaram.
 
 ...
 
 [Data](articles/82d10369.json)
+
+[Extended Data](ext_articles/82d10369.ext.json)
 
 ---
 
@@ -456,35 +468,47 @@ Ranil Wickremesinghe was appointed Prime Minister by President Gotabhaya Rajapak
 
 ---
 
-### தமிழ் பேசும் மக்களுக்கிடையில் உண்மையான ஒற்றுமையை நிலைநாட்ட பற்றுறுதியுடன் செயற்பட்ட பெருந்தகை சம்பந்தன் - முன்னாள் அமைச்சர் ஹசன் அலி இரங்கல் செய்தி
+### Former Minister Hasan Ali
 
 *2024-07-02 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/187473) · `ta`
 
-தமிழ் பேசும் மக்களுக்கு இடையில் உண்மையான ஒற்றுமை நிலைநாட்டப்பட வேண்டும் என்பதில் என்றும் பற்றுறுதியுடன் செயற்பட்ட பெருந்தகை இரா. சம்பந்தன் என்று ஐக்கிய சமாதான கூட்டமைப்பின் செயலாளர் நாயகமும், சுகாதார துறை முன்னாள் இராஜாங்க அமைச்சருமான எம். ரி. ஹசன் அலி தெரிவித்தார்.
+Hasan Ali, a former Minister and President of the TNA, mourns the loss of Ira Sambandan, highlighting his significant contributions towards unity among Tamil-speaking people and his efforts to bridge gaps between Tamil and Muslim communities. Sambandan's death is seen as a major setback for the Tamil-speaking community, reflecting his deep impact on their aspirations and unity efforts.
 
-இவர் தமிழ் தேசிய கூட்டமைப்பின் தலைவர் இரா. சம்பந்தனின் மறைவையொட்டி வெளியிட்ட ஊடக அறிக்கை வருமாறு:
+🟩
 
-தமிழ் தேசிய கூட்டமைப்பின் தலைவர் இரா சம்பந்தனின் மறைவு தமிழ் மக்களுக்கு மாத்திரம் அல்ல, தமிழ் பேசும் மக்களுக்கு ஏற்பட்டுள்ள பேரிழப்பு ஆகும்.
+The real unity between the Tamil -speaking people should be established. Sampanthan is the Secretary General of the United Peace Federation and former Minister of Health Department. Ri. Hasan Ali said.
 
-ஏனென்றால் அவர் தமிழ் பேசும் மக்களுக்கு இடையில் உண்மையான நல்லிணக்கம் நிலைநாட்டப்பட வேண்டும் என்பதில் பற்றுறுதியுடன் செயற்பட்ட பெருந்தகை ஆவார்.
+He is the president of the TNA. The media report issued by Sampanthan's death is as follows:
 
-தமிழ் பேசும் சமூகங்களுக்கு இடையிலான நீடித்த ஒற்றுமை மூலமாகவே சிறுபான்மை மக்களின் பிரச்சினைகளுக்கான தீர்வை பெரும்பான்மை சமூகத்திடம் இருந்து பெற்று கொள்ள முடியும் என்று விசுவாசித்து தமிழ் - முஸ்லிம் இனங்களுக்கு இடையிலான ஒற்றுமையை கட்டியெழுப்புவதில் சொல்லுக்கும், செயலுக்கும் இடையில் இடைவெளி இல்லாமல் செயற்பட்ட கனவான் ஆவார்.
+The death of the Tamil National Alliance (TNA) leader Ira Sambandan is not the only Tamil people, but the disaster for the Tamil -speaking people.
+
+This is because he is a great man who has worked hard to establish true harmony between the Tamil -speaking people.
+
+He is a dreamer between the Tamil -Muslim communities, who believed that the solution to the problems of the minority through the Tamil -speaking communities could be obtained from the majority community, and the manner in which the Tamil -Muslim communities were working without a gap between the word and the deed.
 
 ...
 
 [Data](articles/17e74863.json)
 
+[Extended Data](ext_articles/17e74863.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-07-02 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/187470) · `ta`
 
-இன்று செவ்வாய்க்கிமை (ஜூலை 02) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 300.3979 ஆகவும்,  விற்பனை விலை ரூபா 309.6342 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+On July 2nd, the US dollar bought 300.3979 and sold for 309.6342 according to the Central Bank's rates.
+
+🟩
+
+Tuesday (July 02), the US dollar purchasing price was 300.3979 and the sales price were 309.6342 based on the Central Bank's currency exchange rate.
 
 ◼️
 
 [Data](articles/2ff9a6cf.json)
+
+[Extended Data](ext_articles/2ff9a6cf.ext.json)
 
 ---
 
@@ -528,23 +552,31 @@ He is to be placed at the Parliament complex tomorrow 2 to 4 afternoon to pay hi
 
 ---
 
-### இஸ்ரேலிய படையினரால் தடுத்துவைக்கப்பட்டிருந்த வேளை நாளாந்தம் சித்திரவதைகள் - விடுதலை செய்யப்பட்ட மருத்துவர்
+### Everyday torture was detained by Israeli soldiers - released physician
 
 *2024-07-02 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187468) · `ta`
 
-அல்ஷிபா மருத்துவமனையின் இயக்குநர் இஸ்ரேலிய படையினர் தன்னை பல மாதங்களாக தடுத்துவைத்திருந்தவேளை கடுமையான சித்திரவதைகளிற்குட்படுத்தினார்கள் என தெரிவித்துள்ளார்.
+Mohammed Abu Salmiya, a physician held captive by Israeli soldiers for seven months, revealed horrific conditions including daily torture, starvation, and even amputations among detainees.
 
-இஸ்ரேலிய படையினரால் ஏழுமாதகாலம்  தடுத்துவைக்கப்பட்டிருந்த நிலையில் விடுதலை செய்யப்பட்டுள்ள முகமட் அபு சல்மியா இஸ்ரேலிய படையினர் தன்னை மிக மோசமாக சித்திரவதை செய்தனர் என குறிப்பிட்டுள்ளார்.
+🟩
 
-திங்கட்கிழமை முகமட் அபு சல்மியா உட்பட பல பாலஸ்தீனியர்கள் இஸ்ரேலிய சிறைகளில் இருந்து விடுதலை செய்யப்பட்டுள்ளனர்.
+The director of the Alsiba Hospital, Israeli soldiers, have been detained for months, he said.
 
-மருத்துவமனையில் கடந்த நவம்பர் மாதம் கைதுசெய்யப்பட்டு குற்றச்சாட்டுகள் சுமத்தப்படாமல் தடுத்துவைக்கப்பட்டிருந்த மருத்துவர் எங்களை இஸ்ரேலிய படையினர் நாளாந்தம் சித்திரவதை செய்தனர் என தெரிவித்துள்ளார்.
+Mohammed Abu Salmiya, released by Israeli soldiers for seven months, has stated that the Israeli soldiers have been very badly tortured.
 
-தடியால் தாக்கினார்கள் நாய்களை கடிக்கவிட்டார்கள் மருந்துகள் உணவுகளை வழங்கமறுத்தார்கள் என தெரிவித்துள்ள மருத்துவர் உளவியல் உடல்ரீதியான சித்திரவதைகளை எதிர்கொண்டதாக தெரிவித்துள்ளார்.
+Many Palestinians, including Mohammed Abu Salmiya, have been released from Israeli jails on Monday.
 
-...
+The doctor who was arrested in the hospital last November and detained without charges, said the Israeli soldiers tortured us daily.
+
+The doctor said that the dogs were bitten and the dogs were not supplying food.
+
+The doctor said that many medical workers detained by Israeli soldiers have been forced to cut off their limbs due to inadequate medical care.
+
+◼️
 
 [Data](articles/ace81eb5.json)
+
+[Extended Data](ext_articles/ace81eb5.ext.json)
 
 ---
 
@@ -588,23 +620,29 @@ DIG in charge of Field Force Headquarters. I. D. R. Wijesinghe has been transfer
 
 ---
 
-### யாழில் 3 பிள்ளைகளின் தாய் கணவனின் கண்முன்னே தவறான முடிவெடுத்து உயிர்மாய்ப்பு !
+### Mother of 3 children in Jaffna
 
 *2024-07-02 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/187447) · `ta`
 
-யாழ்ப்பாணத்தில் குடும்பப் பெண் ஒருவர் கணவனின் கண்முன்னே தவறான முடிவெடுத்து உயிரை மாய்த்துள்ளார்.
+In Jaffna, a mother of three, aged 40, tragically took her own life during a video call with her husband living in Switzerland. This incident occurred after a dispute between them on the 24th. Neighbors alerted authorities, leading to her hospitalization at the Jaffna Teaching Hospital, where she passed away on Monday without receiving treatment. An autopsy was conducted by investigator A. Jayapalasingham before the body was released to her family.
 
-இதன்போது, கூழாவடி மேற்கு ஆனைக்கோட்டை பகுதியைச் சேர்ந்த 40 வயதுடைய 3 பெண் பிள்ளைகளின் தாயாரே இவ்வாறு உயிரிழந்துள்ளார்.
+🟩
 
-குறித்த பெண்ணின் கணவர் சுவிஸில் வசித்து வருகின்றார். அவருடன் கடந்த 24ஆம் திகதி வீடியோ அழைப்பில் கதைத்துக்கொண்டு இருந்தவேளை இருவருக்குமிடையே முரண்பாடு ஏற்பட்டுள்ளது. இந்நிலையில் குறித்த பெண் கணவனின் கண்முன்னே தற்கொலை செய்துள்ளார்.
+In Jaffna, a family woman has made a wrong decision in front of her husband's eyes.
 
-இதன்போது கணவன் அயல் வீட்டவருக்கு தொலைபேசி மூலம் தெரியப்படுத்தியதையடுத்து அயல் வீட்டார்கள் அவரை மீட்டு யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதித்தனர். அங்கு சிகிச்சை பெற்று வந்த பெண் சிகிச்சை பலனின்றி நேற்று திங்கட்கிழமை (01) உயிரிழந்துள்ளார்.
+The deceased was the mother of 3 girls aged 40, from Koozavadi West Anaikottai.
 
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+The woman's husband lives in Switzerland. There was a conflict between the two while he was talking to him on the video call on the 24th. In this case, the woman committed suicide in front of her husband's eyes.
+
+The neighbors informed the neighbor by telephone and rescued him and admitted him to the Jaffna Teaching Hospital.. The woman who was receiving treatment died on Monday (01) without treatment.
+
+A sudden death investigation officer A. Jayapalasingham. The body was handed over to relatives after anatomical examination.
 
 ◼️
 
 [Data](articles/d09783fa.json)
+
+[Extended Data](ext_articles/d09783fa.ext.json)
 
 ---
 

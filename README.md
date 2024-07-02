@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 17:19:51**
+As of **2024-07-02 17:35:12**
 
 ## Newspaper Stats
 
-*Scraped **33,312** Articles*
+*Scraped **33,313** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,857
 economynextcom | 1,948
 dailyftlk | 2,054
 adalk | 2,966
-adaderanalk | 3,798
+adaderanalk | 3,799
 tamilmirrorlk | 3,942
 dailymirrorlk | 4,733
 virakesarilk | 5,198
@@ -26,29 +26,53 @@ adaderanasinhalalk | 5,517
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,311 (100.0%) of 33,312 articles have been extended.
+33,312 (100.0%) of 33,313 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### கொரிய யுவதியிடம் சேஷ்டை புரிந்தவர் கைது
+### President hits out at misinformation spread about debt restructuring and related matters
+
+*2024-07-02 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100246/president-hits-out-at-misinformation-spread-about-debt-restructuring-and-related-matters) · `en`
+
+President Ranil Wickremesinghe highlighted today in Parliament that false propaganda regarding debt restructuring and related matters are being spread by various individuals both inside and outside the parliament.
+
+He emphasized that while the government pursues policies beneficial for the country, critics continue to fabricate different narratives solely for political gain.
+
+The President underscored that Sri Lanka has achieved a significant milestone among middle-income countries by successfully navigating the debt restructuring process, which he described as a notable accomplishment and good news for the nation.
+
+President Ranil Wickremesinghe made these remarks during a special statement in Parliament aimed at informing about the on-going debt restructuring efforts.
+
+...
+
+[Data](articles/705a5e7c.json)
+
+---
+
+### A man arrested for Korean Youth
 
 *2024-07-02 16:53:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கொரிய-யுவதியிடம்-சேஷ்டை-புரிந்தவர்-கைது/76-339763) · `ta`
 
-கொரியா நாட்டிலிருந்து இலங்கைக்குச் சுற்றுலாப் பயணத்தை மேற்கொண்டு நுவரெலியாவுக்கு சென்ற இளம் யுவதியிடம் தகாத வகையில் சேஷ்டை செய்த இயந்திர படகு ஓட்டுநர் ஒருவரை விளக்கமறியலில் வைக்குமாறு நுவரெலியா மாவட்ட நீதவான் நீதிமன்றம் திங்கட்கிழமை (01) உத்தரவு பிறப்பித்துள்ளது.
+A Korean tourist filed a complaint against a local boat driver in Nuwara Eliya, leading to his arrest. The incident occurred when the tourist tried to ride a boat in a pond, and the driver allegedly misbehaved. Following the complaint, the tourism police arrested the driver, who was later remanded for further investigation.
 
-குறித்த யுவதி கிறேகறி தெப்பக்குள பகுதிக்கு (30) மாலை அழகை ரசிக்க சென்று அங்குக் குளத்தில் இயந்திர படகில் சவாரி செய்ய முற்பட்டுள்ளார்.
+🟩
 
-இந்த சமயத்தில் குளத்தில் படகு சேவையில் ஈட்டுப்பட்டிருந்த இளைஞர் குறித்த யுவதியிடம் சேஷ்டையில் ஈடுபட்டுள்ளார்.
+The Nuwara Eliya District Magistrate's Court on Monday (01) issued an order to detention of a machine boat driver who was abused by a young girl who went to Nuwara Eliya from Korea to Sri Lanka.
 
-இதனையடுத்து, யுவதி நுவரெலியா பொலிஸ் நிலையத்திற்குச் சென்று தனக்கு நேர்ந்தது தொடர்பில் முறையிட்டதையடுத்து, சுற்றுலாத்துறையை பொறுப்பான பொலிஸ் பிரிவினர் கிறேகறி குளத்திற்குச் சென்று சேட்டையில் ஈடுபட்ட இளைஞரைக் கைது செய்துள்ளனர்.
+The young girl is trying to ride a boat in the pond to enjoy the beauty of the evening (30).
 
-இவ்வாறு கைது செய்யப்பட்ட இளைஞரை விசாரணைக்காக நுவரெலியா மாவட்ட நீதவான் நீதிமன்றத்தில் முன்னிலைப்படுத்தியபோது,  விசாரித்த நீதவான் பிரபுதிகா நாணயக்கார, சந்தேக நபரை எதிர்வரும் திங்கட்கிழமை (15) விளக்கமறியலில் வைக்க உத்தரவு பிறப்பித்துள்ளார்.
+During this time, the young man who was in the pond service was involved in the sake of the woman.
+
+Subsequently, the police department in charge of the tourism department went to the Nuwara Eliya Police Station and arrested the youth who went to the Kirakari pond.
+
+When the arrested youth was presented to the Nuwara Eliya District Magistrate's Court for interrogation, Magistrate Prabhudika Nanayakkara had ordered the suspect to be interrogated on Monday (15).
 
 ◼️
 
 [Data](articles/894f9523.json)
+
+[Extended Data](ext_articles/894f9523.ext.json)
 
 ---
 
@@ -2309,29 +2333,5 @@ The buses were taken away from the Basnayake Nilame's residence in the Kataragam
 [Data](articles/68493ba9.json)
 
 [Extended Data](ext_articles/68493ba9.ext.json)
-
----
-
-### Concluded by death
-
-*2024-07-02 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198385) · `si`
-
-In a tragic event, a 32-year-old man from Mudalendagala was murdered in his home by unknown assailants. The Kosgoda and Biyagama Police are investigating the case.
-
-🟩
-
-Kosgoda police officers arrested a 32-year-old officials of Kosgoda Police have arrested the murder a few days ago and the murder was arrested.
-
-The victim was a 32 year old resident of the Mudalendagala.
-
-A team of officers of the Biyagama Police Station was found while murdered in the residential home.
-
-Kosgoda and Biyagama Police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/c828eadb.json)
-
-[Extended Data](ext_articles/c828eadb.ext.json)
 
 ---

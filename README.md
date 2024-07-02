@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 11:05:18**
+As of **2024-07-02 11:19:37**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,500
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,225 (100.0%) of 33,237 articles have been extended.
+33,234 (100.0%) of 33,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### தண்டவாளம் உடைந்தது - ரயில்கள் வருவதில் தாமதம்
+### Dandavas broke - delay in arriving trains
 
 *2024-07-02 10:52:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டவாளம்-உடைந்தது-ரயில்கள்-வருவதில்-தாமதம்/175-339747) · `ta`
 
-பம்பலப்பிட்டி மற்றும் வெள்ளவத்தை ரயில் நிலையங்களுக்கு இடையிலான தண்டவாளம் உடைந்துள்ளதாக ரயில்வே பிரதி பொது முகாமையாளர்  என்.ஜே.இந்திபொலகே குறிப்பிட்டார்.
+A train track break between Bambalapitiya and Wellawatte stations caused delays due to disrupted service on the coastal route. The Railway's Deputy General Manager announced repair work has begun to resolve the issue.
 
-இதனால் கடலோர வழித்தடத்தில் ஒரு தண்டவாளத்தில் மட்டுமே ரயில்கள் இயக்கப்படுவதால் ரயில்கள் வருவதில் தாமதம் ஏற்பட்டுள்ளது.
+🟩
 
-குறித்த தண்டவாளப்பகுதியில் திருத்தப் பணிகளை ஆரம்பிக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாக ரயில்வே பிரதி பொது முகாமையாளர் குறிப்பிட்டுள்ளார். R
+Railway Deputy General Manager NJ Indibollake said that the railway line between Bambalapitiya and Wellawatte railway stations has been broken.
+
+This has resulted in a delay in the arrival of trains as trains run on a railway line on the coastal route.
+
+The Deputy General Manager of the Railway has stated that steps have been taken to commence the revision work on the railway. Remble
 
 ◼️
 
 [Data](articles/aee41a8f.json)
+
+[Extended Data](ext_articles/aee41a8f.ext.json)
 
 ---
 
@@ -72,6 +78,8 @@ Yonhap, South Korea’s news agency, reports that the man arrested was 68 years 
 
 [Data](articles/3c7a035b.json)
 
+[Extended Data](ext_articles/3c7a035b.ext.json)
+
 ---
 
 ### Sri Lanka among first middle-income countries to utilize new debt sustainability analysis framework - President
@@ -92,73 +100,105 @@ Wickremesinghe said that authorized Cabinet officials have signed these agreemen
 
 [Data](articles/a933b139.json)
 
+[Extended Data](ext_articles/a933b139.ext.json)
+
 ---
 
-### මහනුවර අධිකරණ සංකීර්ණයේ බෝම්බ බියක්
+### Bombing of the Kandy Court Complex
 
 *2024-07-02 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198395) · `si`
 
-මහනුවර අධිකරණ සංකීර්ණය තුළ බෝම්බයක් ඇති බවට ලද තොරතුරකට අනුව එහි විශේෂ ආරක්ෂක මෙහෙයුමක් ක්‍රියාත්මක වන බව අප වාර්තාකරු පැවසීය.
+A special security operation is underway at the Kandy Court Complex after a bombing incident. The trial has been halted, and individuals have been evacuated from the area. Search operations involving the military and police are ongoing to locate the bomber.
 
-එහි නඩු විභාග කිරීම නවතා දමා ජනතාව අධිකරණ සංකීර්ණයෙන් ඉවත් කොට තිබේ.
+🟩
 
-මේ වනවිට බෝම්බ නිෂ්ක්‍රිය අංශය, හමුදාව සහ පොලීසිය එහි සෝදිසි මෙහෙයුමක නිරතව සිටින බව වාර්තා වෙයි.
+According to the correspondent of the Kandy Court Complex, a special security operation is being operated.
+
+The people have stopped the trial and the people have been removed from the court complex.
+
+It is reported that the bomber and the army and the police are search operations in their search.
 
 ◼️
 
 [Data](articles/b771e235.json)
 
+[Extended Data](ext_articles/b771e235.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවේ විදෙස් ණය ප්‍රමාණය ජනපති හෙළිකරයි
+### President reveals foreign debt in Sri Lanka
 
 *2024-07-02 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198394) · `si`
 
-ශ්‍රී ලංකාවේ විදේශ ණය ප්‍රමාණය පිළිබඳව  ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (02) පාර්ලිමේන්තුවට දැනුම් දුන්නේය.
+Sri Lanka's President Ranil Wickremesinghe disclosed in Parliament that the country's foreign debt stands at US $37 billion, comprising $10.6 billion in bilateral loans, $14.7 billion in multilateral loans, and $12.5 billion in sovereign bonds.
 
-ඔහු පැවසුවේ සම්පූර්ණ විදෙස් ණය ප්‍රමාණය ඩොලර් බිලියන 37ක් බව ඔහු පැවසීය.
+🟩
 
-එයට ද්විපාර්ශ්වික ණය ඩොලර් බිලියන 10.6ක්, බහුපාර්ශ්වික ණය ඩොලර් බිලියන 11.7ක්, වාණිජ ණය ඩොලර් බිලියන 14.7ක් සහ ස්වෛරී බැඳුම්කර ඩොලර් බිලියන 12.5ක් බව ඔහු හෙළි කළේය.
+President Ranil Wickremesinghe today informed Parliament today regarding the foreign debt of Sri Lanka.
+
+He said that the total foreign debt was US $ 37 billion.
+
+Bilateral loans were $ 10.6 billion, multilateral loans, $ 14.7 billion, $ 14.7 billion and sovereign bonds were $ 12.5 billion.
 
 ◼️
 
 [Data](articles/73777026.json)
 
+[Extended Data](ext_articles/73777026.ext.json)
+
 ---
 
-### ඖෂධවලට උපරිම සිල්ලර මිලක්?
+### Maximum retail price for drugs?
 
 *2024-07-02 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198393) · `si`
 
-ඖෂධවලට උපරිම සිල්ලර මිලක් තීරණය කිරීම සඳහා මිල යාන්ත්‍රණයක් සකස් කිරීමට අදාළව ජාතික ඖෂධ නියාම අධිකාරී පනත සංශෝධනය කර තිබේ.
+The National Drug Authority Act was amended to set a maximum retail price for medicines, aiming for transparency and fairness. The Health Minister issued orders introducing pricing based on dosage and strength. This move ensures fair pricing for consumers and promotes justice in the pharmaceutical market.
 
-සෞඛ්‍ය අමාත්‍ය රමේෂ් පතිරණ මහතා විසින් ඊට අදාළ නියෝග නිකුත් කර ඇති බව වාර්තා වෙයි.
+🟩
 
-ඒ අනුව යම් නිශ්චිත ඖෂධයක, ඖෂධ මාත්‍රා ආකාරයට සහ ප්‍රබලතාවයට අදාළව උපරිම සිල්ලර මිලක් නිශ්චය කිරීම සඳහා වූ ක්‍රමවේදයක් හඳුන්වා දී තිබේ.
+The National Drug Authority Activity Act has been amended to formulate a price mechanism to determine a maximum retail price for medicines.
 
-විනිවිදභාවය සහ සාධාරණත්වය සහතික කිරීමේ අරමුණින් එම නියෝග නිකුත් කර ඇති බව වාර්තා වෙයි.
+It is reported that the relevant orders have been issued by Health Minister Ramesh Pathirana.
 
-ඒ අනුව වෙළෙඳපොළ තුළ අලෙවි කරනු ලබන ඖෂධවල උපරිම සිල්ලර මිල ගණන් නිර්ණය කිරීමට නියමිත අතර ඊට අදාළ ගැසට් නිවේදනය ද ප්‍රකාශයට පත්කර තිබේ.
+Accordingly, a specific drug has been introduced to determine a maximum retail price related to the medicine dosage and power.
+
+It is reported that the orders have been issued with the objective of ensuring transparency and justice.
+
+Accordingly, the maximum retail prices of the pharmaceuticals sold in the market are also declared and the relevant gazette notification has also been announced.
 
 ◼️
 
 [Data](articles/9910e8a6.json)
 
+[Extended Data](ext_articles/9910e8a6.ext.json)
+
 ---
 
-### ஐயாவுக்கு இரங்கல்
+### Sir
 
 *2024-07-02 10:38:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐயாவுக்கு-இரங்கல்/175-339744) · `ta`
 
-தி​ருகோணமலை பாராளுமன்ற உறுப்பினரும் தமிழ்த் தேசியக் கூட்டமைப்பின் முன்னாள் தலைவருமான மறைந்த இராஜவரோதயம் சம்பந்தனின் மறைவுக்கு அரசியல் தலைவர்கள், பாராளுமன்ற உறுப்பினர்கள், வெளிநாட்டு அரசியல் தலைவர்கள், சமூக பிரதிநிதிகள் உள்ளிட்டோர் தங்களுடைய இரங்கலை தெரிவித்துள்ளனர்.
+It appears you've shared a detailed passage expressing condolences and reflections on the life and legacy of R. Sampanthan, a prominent figure in Sri Lankan politics. This passage touches on various aspects of his contributions, the impact of his loss, and the sentiments of those who knew him or were influenced by his work.
 
-இலங்கை தமிழ் தலைவர்  இரா.சம்பந்தன் அவர்களின் மறைவுச் செய்தி அறிந்து ஆழ்ந்த துயரடைந்தேன் என இந்திய வெளிவிவகார அமைச்சர் கலாநிதி எஸ்.ஜெய்சங்கர் தனது இரங்கல் செய்தியில் தெரிவித்துள்ளார்.
 
-பல தசாப்தகாலமாக எனக்கும் அவருக்கும் இடையில் நடைபெற்ற பல்வேறு சந்திப்புகள் மற்றும் உரையாடல்களை இச்சந்தர்ப்பத்தில் நினைவில்கொள்கின்றேன். இலங்கையில் உள்ள தமிழ் மக்களின்  சமத்துவம், கௌரவம் மற்றும் நீதிக்கான போராட்டத்துக்காக அவர் தனது முழு வாழ்வையும் அர்ப்பணித்திருந்தார்.
+
+If you have any specific questions or need assistance related to this content, such as understanding historical context, analyzing the political implications, or drafting a response, please let me know how I can assist you further.
+
+🟩
+
+Political leaders, parliamentarians, foreign political leaders and community representatives have expressed their condolences over the death of the late Rajavarodhayam Sambandan, a former MP and former leader of the Tamil National Alliance.
+
+Indian External Affairs Minister Dr. S. Jaysankar said in his condolence message that he was deeply saddened by the news of the demise of Sri Lankan Tamil leader R. Sampanthan.
+
+On this occasion, I remember the various meetings and conversations between me and him for decades. He devoted his entire life to the struggle of equality, dignity and justice in Sri Lanka.
+
+Senior leader of the Tamil National Party, Ira Sambandan, is the eldest of us..  கொள்கை வேறு, கோட்டை வேறாக இருப்பினும்  அரசியல் தளத்தில் எம்முடனும் சம காலத்தில் பயணித்தவர், முரண்பாடுகள் இருப்பினும் காணும் பொழுதுகளில்  அரசியல் நிலைமைகள் குறித்து  கலந்துரையாடுவதுண்டு. Though he died of age, he has caused grief. I will console all who are grieving at his expense.
 
 ...
 
 [Data](articles/8d9e2e38.json)
+
+[Extended Data](ext_articles/8d9e2e38.ext.json)
 
 ---
 
@@ -177,6 +217,8 @@ The company stated that even though the global market prices are in the upward t
 ◼️
 
 [Data](articles/e7e0cadf.json)
+
+[Extended Data](ext_articles/e7e0cadf.ext.json)
 
 ---
 
@@ -482,27 +524,33 @@ The Deputy General Manager said that steps have been taken to commence the recon
 
 ---
 
-### ඉදිරි වගා කන්න හයක් තුළ වී අස්වැන්න දෙගුණ කර ගැනීමේ ඉලක්කයක්
+### A goal of giving up the harvest of six crops
 
 *2024-07-02 08:01:40* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-වගා-කන්න-හයක්-තුළ-වී-අස්වැන්න-දෙගුණ-කර-ගැනීමේ-ඉලක්කයක්/11-410555) · `si`
 
-තරුණ කෘෂි ව්‍යවසායකත්ව ව්‍යාපෘතිය හරහා කෘෂි ක්ෂේත්‍රයේ තරුණ ව්‍යවසායකත්ව අවස්ථා වැඩි වෙමින් තිබෙනවා
+To boost agriculture, Sri Lanka is investing in youth entrepreneurship, enhancing maize production through new practices, transforming animal farming into enterprises, and reducing harvest losses via railway service improvements. The government aims to double paddy harvesting, introduce new technologies, and allocate funds for non-traditional cultivation. Efforts include promoting exports, establishing cold storage, and implementing pilot projects to increase yields. Additionally, measures are underway to resolve the fertilizer crisis, support modern farming with tech, and update agricultural policies.
 
-ප්‍රවාහනයේදී සිදුවන අස්වනු හානිය අවම කර ගැනීම සඳහා දුම්රිය සේවය යොදා ගැනීමට කටයුතු කරනවා – කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශයේ ලේකම් ජානක ධර්මකීර්ති.
+🟩
 
-බඩඉරිඟු නිෂ්පාදනය නගා සිටුවීම සඳහා පොහොර සහ කෘෂි රසායනික භාවිතාවන් හඳුන්වා දී තිබෙනවා – කෘෂිකර්ම දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල්.
+Youth entrepreneurship opportunities in agriculture is increasing
 
-සත්ව ගොවිපළ හිමියන් ව්‍යවසායකින් බවට පත් කිරීමේ වැඩපිළිවෙලක් ක්‍රියාත්මකයි – සත්ව නිෂ්පාදන සහ සෞඛ්‍ය දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල්.
+Steps will be taken to use the railway service to reduce harvest losses - Ministry of Agriculture and Plantation Industries Janaka, Dharmakirhi.
 
-වෙළෙඳපොල තුළ පොහොර සුලභ කර තිබෙනවා – ගොවිජන සංවර්ධන දෙපාර්තමේන්තුවේ කොමසාරිස් (සේවා).
+Fertilizer and agrochemical practices have been introduced to uplift maize production - Director General of the Department of Agriculture.
 
-කෘෂිකර්ම ප්‍රතිපත්තිය මුදල් අමාත්‍යාංශයේ අනුමැතියට ඉදිරිපත් කර තිබෙනවා – අතිරේක ලේකම් (කෘෂි තාක්ෂණ).
+An operation to transform the animal farm owners in enterprise - Director General of the Department of Animal Production and Health.
 
-මේ වන විට ලබන වී අස්වනු ප්‍රමාණය දෙගුණ කර ගත යුතු බවට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ලබා දී ඇති ඉලක්කය ඉදිරි වගා කන්න හයක් තුළ සපුරා ගැනීමට අවශ්‍ය පියවර ගෙන ඇති බව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශයේ ලේකම් ජානක ධර්මකීර්ති මහතා පැවසීය.
+Fertilizer common in the market - Commissioner of the Department of Agrarian Development (Services).
+
+The Agriculture Policy has been approved by the Ministry of Finance - Additional Secretary (Agriculture Technology).
+
+President Ranil Wickremesinghe has taken steps to achieve the target of the development of the paddy harvesting to double the amount of paddy harvesting, Mr. Janaka Dharmakirthi said.
 
 ...
 
 [Data](articles/81162726.json)
+
+[Extended Data](ext_articles/81162726.ext.json)
 
 ---
 

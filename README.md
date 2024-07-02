@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 18:36:45**
+As of **2024-07-02 18:53:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,522
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,320 (100.0%) of 33,327 articles have been extended.
+33,326 (100.0%) of 33,327 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,21 +48,29 @@ The new prices of Litro domestic LP Gas cylinders are as follows;
 
 [Data](articles/ff339d11.json)
 
+[Extended Data](ext_articles/ff339d11.ext.json)
+
 ---
 
-### හෝමාගම පොලීසිය තුළ ගුටි කෙළියක් ?
+### Beat in Homagama Police?
 
 *2024-07-02 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198419) · `si`
 
-හෝමාගම පොලීසිය තුළදී ඇතිවී ඇතැයි පැවසෙන පහරදීමේ සිද්ධිය සම්බන්ධයෙන් පරීක්ෂණයක් පැවැත්වෙන බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති, නීතිඥ නිහාල් තල්දූව මහතා පවසයි.
+An inquiry will be held after an attack in Homagama, where several were injured and one arrested. The incident involved clashes between individuals and police, resulting in hospitalizations.
 
-ඊයේ (01) එම සිද්ධිය වාර්තා වූ අතර මේ වනවිට පොලිස් නිලධාරියෙක් ඇතුළු කිහිපදෙනෙක් රෝහල්ගත කර සිටිති.
+🟩
 
-"බීමත්ව අශෝභන ලෙස හැසුරුණු පුද්ගලයෙක් ව හෝමාගම නගරයේදී අත්අඩංගුවට ගෙන පොලිස් ස්ථානයට ගෙනැවිත් තිබුණා. ඔහුව බැලීමට තවත් පුද්ගලයින් 4 දෙනෙක් පොලීසියට ගිහින්. ඔවුන් සම්බන්ධයෙන් තමයි මේ පොලීසියේදී ගැටුමක් ඇතිවුණා කියලා කියන්නේ. ඔවුන් කියනවා පොලීසියේදී පහර දුන්නා කියලා රෝහල් ගත වෙලා. පොලිස් නිලධාරියෙකුත් රෝහල් ගත වෙලා..."
+Police Media Spokesperson DIG, Attorney-at-Law Nihal Talduuwa, an inquiry will be conducted regarding the attack on the attack.
+
+The incident was reported yesterday (01) and several others and several others were hospitalized.
+
+"A person was arrested in Homagama and brought to the police station. Four other people went to police to see him. It is about their clashes at the police. They say they were attacked at the police. A police officer was hospitalized ... "
 
 ◼️
 
 [Data](articles/ccfdee84.json)
+
+[Extended Data](ext_articles/ccfdee84.ext.json)
 
 ---
 
@@ -118,6 +126,8 @@ The election regulatory body further emphasized that the violation of these guid
 
 [Data](articles/404eb5b6.json)
 
+[Extended Data](ext_articles/404eb5b6.ext.json)
+
 ---
 
 ### The tragedy of a religious ceremony
@@ -142,21 +152,33 @@ There are 23 women and four children have been among the deceased Indian media.
 
 ---
 
-### නීතිය නැවීමට පොලිස් නිලධාරීන්ට හැකියාවක් නෑ
+### Police officers cannot open law
 
 *2024-07-02 17:43:23* · [`adalk`](https://www.ada.lk/breaking_news/නීතිය-නැවීමට-පොලිස්-නිලධාරීන්ට-හැකියාවක්-නෑ/11-410570) · `si`
 
-තමන්ට ඕනෑ ආකාරයට නීතිය නැවීමට හෝ වංගු දැමීමට නීතිය ක්‍රියාත්මක කරන්න පොලිස් නිලධාරීන්ට හැකියාවක් නැතැයි කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා අද (02) පැවසීය.
+In a case involving the seizure of 65 kg of narcotics and the arrest of over 200 fishermen, Colombo Chief Magistrate Thilina Gamage emphasized the importance of transparency from the Police Narcotics Bureau regarding drug importation and racketeering. The magistrate highlighted issues with the handling of evidence, including concerns about the production of at least two kilograms of drugs in court and the delay in reporting the progress of investigations. She urged for proper procedures to be followed, ensuring that suspects are promptly brought to court and that investigations maintain transparency.
 
-මත්ද්‍රව්‍ය කිලෝ 200කට අධික ප්‍රමාණයක් ආනයනය හා ජාවාරම් කිරීම සම්බන්ධයෙන් පොලිස් මත්ද්‍රව්‍ය කාර්යාංශය කරන විමර්ශන විනිවිද භාවයෙන් තොර බවට සාධාරණ සැකයක් මතුව ඇතැයි පෙන්වා දෙමින් එසේ කී ප්‍රධාන මහේස්ත්‍රාත්වරයා සිද්ධිය සම්බන්ධයෙන් සොයා බලා පූර්ණ වාර්තාවක් වහාම අධිකරණයට ඉදිරිපත් කිරීමට පොලිස මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ අධ්‍යක්ෂකවරයාට වැඩිදුරටත් නියම කළේය.
+🟩
 
-ගාල්ලට ඈත මුහුදේදී මත්ද්‍රව්‍ය කිලෝ 200ට අධික ප්‍රමාණයක් සමඟ පසුගිය ජුනි 15 වැනිදා අත්අඩංගුවට ගත් ධීවරයින් 06 දෙනෙකුට එරෙහි පැමිණිල්ල කැඳවූ අවස්ථාවේදී ඉදිරිපත් වු කරුණු සළකා බැලීමෙන් අනතතුරුව මහේස්ත්‍රාත්වරයා එලෙස නියම කළේය.
+Colombo Chief Magistrate Thilina Gamage said that the police officers will not be able to open or cover the law as they want.
 
-සිද්ධිය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් සැකකරුවන් 06 දෙනෙකු අධිකරණයට ඉදිරිපත් කරමින් පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ නිලධාරීන් කළ ඉල්ලීක් පිළිගනිමින් සැකකරුවන් ලබන 16 වැනිදා දක්වා රිමාන්ඩ් බාරයේ රඳවා තැබීමටද මහෙස්ත්‍රාත්වරයා වැඩිදුරටත් නියම කළේය.
+The Magistrate said that the chief magistrate was on the basis of the transparency of the Police Narcotics Bureau on import and racketeering of drugs.
+
+The accident had been submitted when he was taken up when extinguished 65 kilograms of narcotics and arrested over 200 fishermen.
+
+The Magistrate also welcomed six suspects who were arrested on suspicion of the incident in connection with the incident.
+
+Police Narcotics Bureau OIC Chief Inspector General Inspector of Police Narcotics. Mr. Jayaratne was summoned to the court.
+
+Accordingly, the OIC of the Police Narcotics Bureau when he appeared in court, he asked why the progress of the investigations were made yesterday (01).
+
+The Police Narcotics Bureau OIC Chief Inspector of Police. Mr. Jayaratne said that investigations into the matter and drugs will be produced in the courts at the time.
 
 ...
 
 [Data](articles/58c3987b.json)
+
+[Extended Data](ext_articles/58c3987b.ext.json)
 
 ---
 
@@ -1068,6 +1090,8 @@ According to the United Nations Office on Drugs and Crimes (UNODC), organized cr
 
 [Data](articles/91f38880.json)
 
+[Extended Data](ext_articles/91f38880.ext.json)
+
 ---
 
 ### An emergency operation on Jampata Street
@@ -1233,6 +1257,8 @@ With less than a month before presidential elections are called, President Ranil
 ...
 
 [Data](articles/14c919c2.json)
+
+[Extended Data](ext_articles/14c919c2.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 14:19:38**
+As of **2024-07-02 14:35:09**
 
 ## Newspaper Stats
 
-*Scraped **33,287** Articles*
+*Scraped **33,289** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,78 @@ adalk | 2,963
 adaderanalk | 3,794
 tamilmirrorlk | 3,939
 dailymirrorlk | 4,733
-virakesarilk | 5,197
-adaderanasinhalalk | 5,509
+virakesarilk | 5,198
+adaderanasinhalalk | 5,510
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,275 (100.0%) of 33,287 articles have been extended.
+33,283 (100.0%) of 33,289 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### ට්‍රම්ප් ගැන අපරාධ නඩු ගොනුකළ නොහැකි බවට උපරිමාධිකරණයෙන් තීන්දුවක්
+### බෝක්කුවක් තුළ පුද්ගල මළ සිරුරක්
 
-*2024-07-02 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198406) · `si`
+*2024-07-02 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198407) · `si`
 
-හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ඔහුගේ ධුරයේ සිටියදී සිදුකළ රාජකාරි කටයුතු සම්බන්ධයෙන් ඔහුට එරෙහිව අපරාධ නඩු ගොනුකළ නොහැකි බවට අමෙරිකානු උපරිමාධිකරණය තීන්දුකර තිබේ.
+හැටන්, කොටගල රොසිටා නගරයේ බොක්කුවක් තුළ තිබී නාඳුනන පුද්ගලයෙකුගේ මළ සිරුරක් අද (02) සොයාගත් බව දිඹුල පතන පොලීසිය පැවසිය.
 
-හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්ට එරෙහිව පාර්ශ්ව කිහිපයක් වරින්වර අපරාධ නඩු පැවරීමෙන් පසු තමන්ට ජනාධිපති විනිර්මුක්තියක් ඇතැයි නියෝගයක් ලබාදෙන ලෙස ඉල්ලමින් ට්‍රම්ප් ශ්‍රේෂ්ඨාධිකරණයේ පෙත්සමක් ගොනුකර තිබුණි.
+කොටගල නගරයේ ජලය ගලා බසින කාණු පද්ධතියක බොක්කුවක් තුළ අවුරුදු 70ක් පමණ වයසැති පුද්ගලයෙකුගේ මළ සිරුරක් ඇති බවට ප්‍රදේශවාසින් පොලීසියට කළ දැනුම් දීමෙන් පසු සිරුර සොයාගෙන තිබේ.
 
-හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ඔහුගේ ධුර කාලයේදී සිදුකළ නිල රාජකාරිවලට අදාළව ඔහුට එරෙහිව නඩු පැවරීමට නොහැකි බව එම තීන්දුවේ සඳහන්ය.
+කොටගල නගරය හරහා ගමන් කළ පුද්ගලයෙකු අනාරක්ෂිත බොක්තුව තුළට වැටී මිය යන්නට ඇති බවට පොලීසිය සැක පළ කරයි.
 
-ඒ අනුව අධිකරණයේ විනිසුරු මඩුල්ලේ 9දෙනාගෙන් 6දෙනෙකුගෙන් බහුතර තීන්දුව බවට පත්ව ඇත්තේ ධුරයේ සිටින ජනාධිපතිවරයාට ඔහුගේ රාජකාරී කටයුතුවලදී ජනාධිපති විනිර්මුක්තියක් ඇති බවටය.
+සිරුර සම්බන්ධයෙන් හැටන් මහෙස්ත්‍රාත්වරයාගේ ස්ථාන පරීක්ෂාවෙන් පසු සිරුර පශ්චාත් මරණ පරීක්ෂණය සඳහා දික්ඔය මුලික රෝහලේ අධිකරණ වෛද්‍යවරයා වෙත යොමු කරන බව දිඹුල පතන පොලීසිය පැවසිය.
 
-ඒ අනුව 2020 අමෙරිකානු ජනාධිපතිවරණයේ ප්‍රතිඵල වෙනස්කිරීමට උත්සාහ කළ බවට ට්‍රම්ප්ට එරෙහිව ෆෙඩරල් අධිකරණයක් හමුවේ ඇති නඩුවට ද මෙම තීන්දුව ප්‍රබල අභියෝගයක් වනු ඇති බව එරට වාර්තා සඳහන් කරයි.
+◼️
+
+[Data](articles/c6cb5a36.json)
+
+---
+
+### சம்பந்தன் மறைவுக்கு ரெலோ இரங்கல்
+
+*2024-07-02 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/187483) · `ta`
+
+தமிழ் மக்களால் தமிழ்த் தேசியப் பெருந்தலைவராகப் பார்க்கப்பட்ட தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவரும், இலங்கைத் தமிழரசுக் கட்சியின் முதுபெரும் தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இராஜவரோதயம் சம்பந்தனின் மறைவுக்கு தமிழ் ஈழ விடுதலை இயக்கம் ஆழ்ந்த அனுதாபங்களைத் தெரிவித்துக் கொள்கிறது.
+
+தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவரும், இலங்கைத் தமிழரசுக் கட்சியின் முதுபெரும் தலைவரும் திருகோணமலை பாராளுமன்ற உறுப்பினருமான  இராஜவரோதயம் சம்பந்தன் அவர்களின் மறைவு தமிழ் மக்களின் அரசியல் உரிமைப் பிரச்சினைத் தீர்வுக்கான பயணத்தில் பாரியதொரு இடைவெளியை ஏற்படுத்தியிருக்கிறது.
+
+தந்தை செல்வநாயகத்தால் ஆரம்பிக்கப்பட்ட தமிழரசுக்கட்சியின் தலைவர்கள் வரிசையில் அமிர்தலிங்கம், சிவசிதம்பரம் போன்ற மறைந்த அரசியல்வாதிகள் வரிசையில் சம்பந்தனும் இணைந்துகொண்டுள்ளார்.
 
 ...
 
+[Data](articles/82d10369.json)
+
+---
+
+### Superintendent of Criminal Cases on Trump
+
+*2024-07-02 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198406) · `si`
+
+The U.S. Supreme Court ruled that former President Donald Trump cannot face criminal charges related to his actions while in office. This decision, supported by six of the nine justices, prevents any prosecution over Trump's presidential duties. Critics, including President Joe Biden, argue this sets a dangerous precedent.
+
+🟩
+
+The United States Maurat has decided that the former American President Donald Trump cannot file criminal cases against him for his duties.
+
+The Trump Supreme Court had filed a petition in order to order a few overseas after the criminal criminal prosecution after the former President Donald Tram.
+
+Former US President Donald Trump cannot be prosecuted against the official duties carried out during his tenure.
+
+Accordingly, six of the nine judges of the judiciary have become the verdict of his duties as a president in his duties in his duties.
+
+According to reports, this decision will be a major challenge against Tram until the 2020 American presidential election.
+
+Today, however, President Joe Biden accuses the judgment of the rule of law and that it is a wrong precedent.
+
+◼️
+
 [Data](articles/0a20c3e7.json)
+
+[Extended Data](ext_articles/0a20c3e7.ext.json)
 
 ---
 
@@ -71,6 +113,8 @@ The alleged attacker boarded a bus after the incident and was arrested near a ho
 ...
 
 [Data](articles/eb1ad8af.json)
+
+[Extended Data](ext_articles/eb1ad8af.ext.json)
 
 ---
 
@@ -122,29 +166,43 @@ Moreover, he said that if necessary solutions are not provided, the strike actio
 
 ---
 
-### தேசிய வியாபாரத் தரச்சிறப்புவிருதுகள் நிகழ்வில் மிக உயர்ந்த விருதை வென்றுள்ள எயிற்கின் ஸ்பென்ஸ் கப்பற் சரக்குத் துறை
+### The Spence Shipping Department of the Eyrukh
 
 *2024-07-02 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187476) · `ta`
 
-எயிற்கின் ஸ்பென்ஸின் கப்பற் சரக்குச் சேவைத்துறை, 2024ஆம் ஆண்டின் தேசியவியாபாரத் தரச்சிறப்புவிருதுகள் (NBEA) நிகழ்வில் “கப்பற்றுறை மற்றும் தொடர்புடையசேவைகள்”பிரிவின் கீழ் முதலாவது இடத்தைப் பெற்றுள்ளது. வியாபாரத் துறையில் தரச்சிறப்பைஅங்கீகரித்துப் பாராட்டும் இந்த மதிப்பார்ந்த விருதுகள் நிகழ்வு 2024 ஜூன் 20ஆம் திகதி கொழும்பிலுள்ள ஷங்ரிலா ஹொட்டேலில்  இடம்பெற்றது.
+The Spence Shipping Department of Eyrukh won top honors at the 2024 National Business Standards Awards (NBEA) for excellence in shipping services. This prestigious event, held at the Shankrila Hotel in Colombo, celebrated the highest standards in Sri Lankan businesses across various sectors. Eyrukh's Spence Service, known for its speed and innovation, continues to lead the shipping industry despite global challenges. They've embraced ISO certifications for quality and environmental management, focusing on customer experience and global trade improvements. Their commitment to excellence and innovation sets them apart in the competitive shipping sector.
+
+🟩
+
+The Department of Spence of Eyy's Spence Service has been ranked first under the "Shipping and Related Services" section at the National Field Standards (NBEA) event of 2024.. This respected awards ceremony, which is commemorating the quality of business in the business sector, was held on June 20, 2024 at Shankrila Hotel, Colombo.
+
+National Business Standards Awards (NBEA). This event, which is the 19th year, is the peak of business achievements in Sri Lanka. Awards are presented in appreciation of the companies that have been the world's standards of the world. Award -winning companies are selected with the best achievements in the fields such as corporate, energy building, efficiency management, approach to domestic and foreign markets, corporate social responsibility, environmental welfare, business and financial results.. The aim is to provide a structure that will help improve the institutional efficiency that can contribute significantly to Sri Lanka's socio-economic development.
 
 ...
 
 [Data](articles/db5bce93.json)
 
+[Extended Data](ext_articles/db5bce93.ext.json)
+
 ---
 
-### சம்பந்தனுக்கு அஞ்சலி செலுத்தினார் மஹிந்த ராஜபக்ஷ
+### Mahinda Rajapaksa paid tribute to Sambandan
 
 *2024-07-02 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/187480) · `ta`
 
-இலங்கைத் தமிழரசுக்கட்சியின் சிரேஷ்ட தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இராஜவரோதயம் சம்பந்தனின் பூதவுடல் இன்று செவ்வாய்க்கிழமை (02)  பொரளை ஏ.எப்.ரேமன்ட் மலர்ச்சாலையில் பொதுமக்களின் அஞ்சலிக்காக வைக்கப்பட்டுள்ளது.
+Mahinda Rajapaksa honored Sambandan, a senior leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian, at his funeral. The event, held on Tuesday at the Borella AF Reman Flower, served as a public tribute.
 
-இந்நிலையில், அங்கு சென்று முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ, சம்பந்தனின் பூதவுடலுக்கு தனது இறுதி மரியாதையை செலுத்தியுள்ளார்.
+🟩
+
+Senior Leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian Rajavarothayam Sambandan's funeral was held on Tuesday (02) for a public tribute to the public at the Borella AF Reman Flower.
+
+In this case, former President Mahinda Rajapakse has paid his final honor to Sambandan's boutique.
 
 ◼️
 
 [Data](articles/bf9fe82c.json)
+
+[Extended Data](ext_articles/bf9fe82c.ext.json)
 
 ---
 
@@ -198,17 +256,23 @@ All the cases scheduled to be heard today will be heard on the 16th of this mont
 
 ---
 
-### சம்பந்தனுக்கு அஞ்சலி செலுத்தினார் எதிர்க்கட்சி தலைவர் சஜித்
+### Opposition leader Sajith paid tribute to Sambandan
 
 *2024-07-02 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187479) · `ta`
 
-இலங்கைத் தமிழரசுக்கட்சியின் சிரேஷ்ட தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இராஜவரோதயம் சம்பந்தனின் பூதவுடல் இன்று செவ்வாய்க்கிழமை (02)  பொரளை ஏ.எப்.ரேமன்ட் மலர்ச்சாலையில் பொதுமக்களின் அஞ்சலிக்காக வைக்கப்பட்டுள்ளது.
+Sajith Premadasa, the opposition leader, honored Rajavarothayam Sambandan, a senior leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian, at his funeral held on Tuesday at the Borella AF Reman Flower.
 
-இந்நிலையில், அங்கு சென்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, சம்பந்தனின் பூதவுடலுக்கு தனது இறுதி மரியாதையை செலுத்தியுள்ளார்.
+🟩
+
+Senior Leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian Rajavarothayam Sambandan's funeral was held on Tuesday (02) for a public tribute to the public at the Borella AF Reman Flower.
+
+In this case, Opposition Leader Sajith Premadasa has paid his final honor to Sambandan's boutique.
 
 ◼️
 
 [Data](articles/4d91d0d2.json)
+
+[Extended Data](ext_articles/4d91d0d2.ext.json)
 
 ---
 
@@ -240,6 +304,8 @@ The proposal brought forth by MP Buddhika Pathirana today (02) has been unanimou
 
 [Data](articles/86b097ef.json)
 
+[Extended Data](ext_articles/86b097ef.ext.json)
+
 ---
 
 ### A national government cannot
@@ -262,15 +328,21 @@ Parliamentarian Buddhika Pathirana was not supporting such a proposal.
 
 ---
 
-### தயாசிறியை சுதந்திரக் கட்சியின் பொதுச்செயலாளர் பதவியிலிருந்து நீக்கும் தீர்மானத்திற்கு இடைக்கால தடை
+### An interim injunction of the decision to remove Dayasiri from the post of General Secretary
 
 *2024-07-02 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/187475) · `ta`
 
-பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகரவை ஸ்ரீலங்கா சுதந்திரக்கட்சியின் பொதுச்செயலாளர்பதிவியில் இருந்தும், கட்சி உறுப்புரைமையில் இருந்து நீக்குவதற்கு கட்சி எடுத்துள்ள தீர்மானத்தை இடைநிறுத்த இடைக்கால தடையுத்தரவு  பிறப்பிக்கப்பட்டுள்ளது.
+An interim injunction suspends SLFP's decision to oust MP Dayasiri Jayasekara as General Secretary.
+
+🟩
+
+The interim injunction has been issued to suspend the party's decision to remove MP Dayasiri Jayasekara from the General Secretary of the Sri Lanka Freedom Party (SLFP).
 
 ◼️
 
 [Data](articles/e00d5974.json)
+
+[Extended Data](ext_articles/e00d5974.ext.json)
 
 ---
 
@@ -338,15 +410,49 @@ The gazette notification related to the matter has also been published to formal
 
 ---
 
-### பொருளாதார " நற்செய்தி " 2024 தேர்தலில் ரணிலுக்கு உதவுமா ?
+### Will Ranil help in the 2024 election?
 
 *2024-07-02 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/187471) · `ta`
 
-ரணில் விக்கிரமசிங்க 2022 மே 12 ஆம் திகதி அன்றைய ஜனாதிபதி கோட்டாபய ராஜபக்ஷவினால் பிரதமராக நியமிக்கப்பட்டார். அப்போது இலங்கை படுமோசமான பொருளாதார நெருக்கடியில் சிக்கியிருந்தது.' அரகலய ' போராட்டம் தீவிரமடைந்துகொண்டிருந்தது. புதிய பிரதமர் 2022 மே 16 ஆம் திகதி நாட்டு மக்களுக்கு விசேட உரையொன்றை ஆற்றினார். அந்த உரையில் விக்கிரமசிங்க  ஜேர்மன் நாடகாசிரியர் பேரொல்ற் பிறெற்றின் ' கோகேசியன் ஷோக் சேர்க்கிள் ' ( Caucasian Chalk Circle) என்ற நாடகம் பற்றி குறிப்பிட்டார்.
+Given the detailed context you've provided, it seems you're discussing the political and economic challenges faced by Sri Lanka, particularly focusing on the role of Ranil Wickremesinghe in navigating these issues. Your narrative touches upon significant events such as the signing of loan agreements with Paris and Beijing, the impact of these agreements on Sri Lanka's economic stability, and the upcoming presidential elections where Wickremesinghe is expected to run.
+
+
+
+To address the complexities involved in Ranil Wickremesinghe's potential candidacy and the challenges he faces, let's break down the key points:
+
+
+
+1. **Economic Recovery and Debt Restructuring**: The agreements with Paris and Beijing mark a crucial step in Sri Lanka's journey towards economic recovery. However, the road ahead is long, requiring careful management and implementation of the agreed terms. Wickremesinghe's experience and leadership during previous economic crises position him uniquely to navigate these challenges.
+
+
+
+2. **Presidential Election Dynamics**: The upcoming election is shaping up to be a contest of personalities and policies. Wickremesinghe's track record, especially in handling the current economic crisis, sets him apart from other contenders. His ability to lead during difficult times and his plans for economic revival are likely to be central themes in his campaign.
+
+
+
+3. **Public Perception and Support**: Wickremesinghe's success in the election hinges on his ability to connect with the populace, particularly the impoverished majority whose lives have been significantly impacted by the economic crisis. His campaign must focus on tangible improvements in their living conditions and clear communication of his vision for Sri Lanka's economic future.
+
+
+
+4. **Challenges and Criticisms**: While Wickremesinghe has demonstrated resilience and leadership, he must also address criticisms and challenges head-on. This includes ensuring that the benefits of the economic recovery plan trickle down to all segments of society, addressing the root causes of poverty, and managing expectations effectively.
+
+
+
+5. **Strategic Campaigning**: For Wickremesinghe to secure victory, his campaign must emphasize his experience, leadership qualities, and a clear roadmap for economic recovery. Leveraging his past successes and addressing the current economic challenges directly will be crucial. Additionally, highlighting his commitment to transparency, accountability, and inclusivity can help build trust with voters.
+
+
+
+In conclusion, Ranil Wickremesinghe's potential candidacy for the presidency of Sri Lanka is fraught with opportunities and challenges. His ability to steer the country through economic turmoil, coupled with a strategic campaign that addresses the needs and aspirations of the Sri Lankan people, will be pivotal in determining his electoral success.
+
+🟩
+
+Ranil Wickremesinghe was appointed Prime Minister by President Gotabhaya Rajapaksa on May 12, 2022. Sri Lanka was then in a serious economic crisis. 'The Arakalaya 'struggle was intensifying. The new Prime Minister delivered a special speech on May 16, 2022. In the speech, Wickremesinghe mentioned the play called 'Caucasian Chalk Circle' by German playwright Barol.
 
 ...
 
 [Data](articles/9276c4af.json)
+
+[Extended Data](ext_articles/9276c4af.ext.json)
 
 ---
 
@@ -2135,53 +2241,5 @@ Special stamp was presented by Postmaster Chancellor Ruwan Satkumara to the Arch
 [Data](articles/ab8abf27.json)
 
 [Extended Data](ext_articles/ab8abf27.ext.json)
-
----
-
-### Nonsense. The deepest condolences of the Eelam People's Revolutionary Liberation Front
-
-*2024-07-02 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/187436) · `ta`
-
-The Eelam People's Revolutionary Liberation Front mourns the loss of Rajavarothayam Sampanthan, a key figure in the Tamil National Alliance advocating for Tamil rights in Sri Lanka. Sampanthan, known for his efforts towards establishing a dignified and secure life for Tamils, both through peaceful means and armed struggle, leaves behind a legacy of fighting for self-determination within a unified Sri Lanka. Despite criticism, his contributions to Tamil nationalism and human rights advocacy are undeniable.
-
-🟩
-
-The voice of Sampanthan Iyer, who voiced for the Tamil people, silenced the Eelam People's Revolutionary Liberation Front to express its deepest condolences to the demise of Rajavarothayam Sampanthan, a member of the Sri Lanka Tamil National Alliance (TNA) and Trincomalee.
-
-The full details of the media report issued by Surosh Premachandran, the leader of the Eelam People's Revolutionary Liberation Front:-
-
-The news that the Tamil people of the Eelam Tamil people have been relentlessly for the rights of the Tamil people, who has been in the mood for the rights of the Tamil people to live with all the rights on this soil and live with dignity and security.
-
-He came together in a long -standing democratic heritage and worked with the armed struggle during the armed struggle.
-
-...
-
-[Data](articles/078c13c0.json)
-
-[Extended Data](ext_articles/078c13c0.ext.json)
-
----
-
-### R.S.. President praises Jayasinghe's service
-
-*2024-07-02 00:52:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆர்-எஸ்-ஜயசிங்கவின்-சேவைக்கு-ஜனாதிபதி-பாராட்டு/175-339728) · `ta`
-
-President Ranil Wickremesinghe praised Senior Language Instructor RS. Jayasinghe for his long service, commending him during an event at the Presidential Office. Jayasinghe, who joined the Service Department in 1961 and later served as a language instructor at the Cabinet Office from 1974, marked 50 years of service there on July 3, 2024.
-
-🟩
-
-Senior Language Instructor RS. President Ranil Wickremesinghe congratulates Jayasinghe.
-
-Accordingly, President Ranil Wickremesinghe, Senior Language Instructor RS. The event was held at the Presidential Office at the Presidential Office yesterday afternoon.
-
-Senior Language Instructor RS. Jayasinghe joined the Service Department on August 01, 1961. He was also appointed as a language instructor at the Cabinet Office on July 03, 1974.
-
-Accordingly, on July 3, 2024, he completed the service at the Cabinet Office for 50 years. (A)
-
-◼️
-
-[Data](articles/bad4feaa.json)
-
-[Extended Data](ext_articles/bad4feaa.ext.json)
 
 ---

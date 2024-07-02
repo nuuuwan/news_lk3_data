@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 23:19:28**
+As of **2024-07-02 23:35:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,527
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,356 (100.0%) of 33,357 articles have been extended.
+33,357 (100.0%) of 33,357 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ A boy and a girl of around 15 years have been reported dead after falling from t
 ◼️
 
 [Data](articles/223d8cdc.json)
+
+[Extended Data](ext_articles/223d8cdc.ext.json)
 
 ---
 

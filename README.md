@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 08:15:04**
+As of **2024-07-02 08:02:02**
 
 ## Newspaper Stats
 
-*Scraped **33,203** Articles*
+*Scraped **33,201** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,55 +20,17 @@ adaderanalk | 3,779
 tamilmirrorlk | 3,927
 dailymirrorlk | 4,733
 virakesarilk | 5,178
-adaderanasinhalalk | 5,490
+adaderanasinhalalk | 5,488
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,199 (100.0%) of 33,203 articles have been extended.
+33,199 (100.0%) of 33,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
-
-### අනියම් පෙම මරණයෙන් කෙළවර වෙයි
-
-*2024-07-02 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198385) · `si`
-
-දින කිහිපයකට පෙර මෙම ඝාතනය සිදුකර ඇති අතර ඝාතනය සිදුකළ බවට සැකකෙරෙන 32 හැවිරිදි අයෙක් කොස්ගොඩ පොලීසියේ නිලධාරීන් විසින් ඊයේ (01) අත්අඩංගුවට ගෙන තිබේ.
-
-මෙලෙස ඝාතනයට ලක්ව ඇත්තේ, නවඳගල ප්‍රදේශයේ පදිංචිව සිටි 32 හැවිරිදි කාන්තාවකි.
-
-සැකකරු පදිංචිව සිටි කුලී නිවස තුළ අනියම් බිරිඳව ඝාතනය කර සිටියදී බියගම පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායමක් විසින් සොයාගෙන ඇත.
-
-සිද්ධිය සම්බන්ධයෙන් කොස්ගොඩ හා බියගම  පොලිස් ස්ථාන වැඩිදුර විමර්ශන සිදුකරයි.
-
-◼️
-
-[Data](articles/c828eadb.json)
-
----
-
-### ගෑස් මිලේ වෙනසක් ?
-
-*2024-07-02 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198384) · `si`
-
-ගෑස් මිල සංශෝධනය අද (02) ප්‍රකාශයට පත්කරන බව ලිට්‍රෝ සමාගම පවසයි.
-
-එහි සභාපති මුදිත පීරිස් මහතා සඳහන් කළේ ලෝක වෙළෙඳපොළේ පවතින ගෑස් මිල ගණන්වලට අනුව එම මිල සංශෝධනය සිදුකිරීමට නියමිත බවය.
-
-මාසිකව සිදුකරන ගෑස් මිල සංශෝධනයට අනුව පසුගිය ජුනි මස 4 වන දින අවසන් වරට ගෑස් මිල සංශෝධනයක් කරනු ලැබීය.
-
-එහිදී කිලෝග්‍රෑම් 12.5 ගෘහස්ත ගෑස් සිලින්ඩරයක මිල රුපියල් 150කින් අඩුකිරීමට පියවර ගනු ලැබු අතර ඒ අනුව එහි වර්තමාන මිල රුපියල් 3,790ක් වේ.
-
-කිලෝග්‍රෑම් 5 ගෑස් සිලින්ඩරයක මිල රුපියල් 60කින් පහත දැමුණු අතර කිලෝග්‍රෑම් 2.3 ගෑස් සිලින්ඩරයක මිල රුපියල් 28කින් පහත දමනු ලැබීය.
-
-◼️
-
-[Data](articles/72224899.json)
-
----
 
 ### Weather today
 
@@ -2281,5 +2243,55 @@ Hirunika Premachandra is the ninth culprit in the case, and she has filed a crim
 [Data](articles/123cfe20.json)
 
 [Extended Data](ext_articles/123cfe20.ext.json)
+
+---
+
+### Hirunika's Man's appeal
+
+*2024-07-01 14:19:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிக்காவின்-மேன்-முறையீடுக்கு-திகதி-குறிப்பு/175-339697) · `ta`
+
+Hirunika Premachandra, a former Colombo District Parliamentarian, had her bail petition postponed by the Colombo High Court. She was sentenced to three years in prison for kidnapping and assaulting a young man but appeals this decision. The Attorney General is ordered to appear on July 4th regarding her bail plea. Found guilty of 18 charges, including abduction and assault, she claims innocence and is the ninth defendant in the case.
+
+🟩
+
+The bail petition filed on behalf of former Colombo District Parliamentarian Hirunika Premachandra (Pending Pending) has been postponed by the Colombo High Court on Monday (01).
+
+Hirunika Premachandra, who was sentenced to three years in prison for kidnapping the youth in the case of a devotee vehicle, has appealed to the Court of Appeal by challenging the sentence imposed by the Colombo High Court.
+
+When the bail plea was taken up in the presence of Colombo High Court Judge Amal Ranarajah, the Attorney General was ordered to appear in court on July 4.
+
+Hirunika Premachandra was found guilty of 18 allegations, including abducting, attacking and attacking a young man with a Defender vehicle in Dematagoda.
+
+Hirunika Premachandra is the ninth culprit in the case, and she has filed a criminal case against her as she admits that she is innocent.. Hirunika Premachandra, who was found guilty of it, was sentenced to three years in prison and was sentenced to 20 thousand rupees each.
+
+◼️
+
+[Data](articles/726df14d.json)
+
+[Extended Data](ext_articles/726df14d.ext.json)
+
+---
+
+### A massive recession for McCron in the election
+
+*2024-07-01 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198360) · `si`
+
+In the French general election, Murrows La Penn's Target Party won, while McCron's UPFA suffered a significant decline. Thousands protested in Paris against the right-wing victors, leading to clashes with authorities.
+
+🟩
+
+Murrows La Penn's Target Party has passed the French general election.
+
+The UPFA, the UPFA, the UPFA party of the McCron party has taken a huge decline.
+
+Meanwhile, thousands of people gathered to the capital city of Paris against the victory of the right hostener party.
+
+A conflict between them and riot officials also occurred.
+
+◼️
+
+[Data](articles/41d123fc.json)
+
+[Extended Data](ext_articles/41d123fc.ext.json)
 
 ---

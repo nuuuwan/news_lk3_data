@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 12:08:18**
+As of **2024-07-02 12:34:59**
 
 ## Newspaper Stats
 
-*Scraped **33,256** Articles*
+*Scraped **33,259** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,93 @@ islandlk | 1,856
 economynextcom | 1,943
 dailyftlk | 2,054
 adalk | 2,959
-adaderanalk | 3,787
+adaderanalk | 3,788
 tamilmirrorlk | 3,939
 dailymirrorlk | 4,733
 virakesarilk | 5,188
-adaderanasinhalalk | 5,501
+adaderanasinhalalk | 5,503
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,244 (100.0%) of 33,256 articles have been extended.
+33,245 (100.0%) of 33,259 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### ජනපතිවරයා පාර්ලිමේන්තුවේදී කළ ප්‍රකාශයේ සම්පූර්ණ විස්තරය
+### දයාසිරි ජයසේකර අධිකරණ නියෝගයක් ලබාගනී
+
+*2024-07-02 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198398) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සාමාජිකත්වයෙන් හා ලේකම් ධුරයෙන් ඉවත් කිරීමට එම පක්ෂය ගනු ලැබූ තීරණය අත්හිටුවමින් කොළඹ දිසා අධිකරණය විසින් අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+
+තමන්ව ශ්‍රී ලංකා නිදහස් පක්ෂයේ තනතුරුවලින් ඉවත් කිරීමට එරෙහිව දයාසිරි ජයසේකර මහතා මෛත්‍රීපාල සිරිසේන මහතා ඇතුළු පිරිසකට එරෙහිව ඉදිරිපත් කර තිබූ පෙත්සමක නියෝගය ප්‍රකාශයට පත් කරමින් දිසා අධිකරණය විසින් මෙම නියෝගය නිකුත් කර තිබුණි.
+
+◼️
+
+[Data](articles/7aa56fa5.json)
+
+---
+
+### පොලිස් ප්‍රධානීන් රැසකට හදිසියේ ස්ථාන මාරු
+
+*2024-07-02 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198397) · `si`
+
+නියෝජ්‍ය පොලිස්පතිවරු 6 දෙනෙක් ඇතුළු උසස් පොලිස් නිලධාරීන් 15 දෙනෙක් සඳහා ස්ථාන මාරු ලබාදී තිබේ.
+
+ක්ෂේත්‍ර බළකා මූලස්ථාන දිසාව භාර නියෝජ්‍ය පොලිස්පති ලෙස කටයුතු කළ ජී. අයි. ඩී. ආර්. විජේසිංහ මහතා නුවර එළිය දිසාව භාර නියොජ පොලිස්පති ලෙස ස්ථාන මාරුකර තිබේ.
+
+◼️
+
+[Data](articles/282d91e3.json)
+
+---
+
+### Speaker announces vacant MP seat in Parliament due to passing of R. Sampanthan
+
+*2024-07-02 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100235/speaker-announces-vacant-mp-seat-in-parliament-due-to-passing-of-r-sampanthan) · `en`
+
+The Speaker of the Parliament Mahinda Yapa Abeywardena announced to the Parliament today (02) that a vacancy in the Membership of the Parliament has occurred with effect from the 30 June 2024 in terms of the provisions of Article 66(a) of the Constitution due to the death of Trincomalee District MP Rajavarothiam Sampanthan.
+
+“It is with profound regret that I inform this Parliament of his passing away. On behalf of Parliament, I would like to convey that we are deeply saddened by his demise and I would like to express our heartfelt sympathies to the family of the Honourable Member,’’ the Speaker said.
+
+Furthermore, he mentioned that the vote of condolence in this regard will be presented to Parliament on a future date.
+
+Furthermore, the Speaker informed all the Members of Parliament that his remains will lie in the ceremonial hall near the main door of the Parliament on 03 July 2024 from 2.00 p.m. to 4.00 p.m. to pay final respects.
+
+...
+
+[Data](articles/0dde2121.json)
+
+---
+
+### Full description of the President's statement in Parliament
 
 *2024-07-02 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198396) · `si`
 
-විදේශ ණය ප්‍රතිව්‍යුහගත කිරීමේ ගිවිසුම් ක්‍රියාත්මක කිරීම සහ එහි අන්තර්ගතය පිළිබඳව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පාර්ලිමේන්තුවේදී විශේෂ ප්‍රකාශයක් සිදුකළේය.
+It seems like you've shared a detailed narrative involving discussions around foreign debt, economic challenges, and political commentary. How can I assist you with this information? Are you looking for analysis, clarification, or perhaps guidance on a specific aspect related to this content?
 
-"2022 වසරේ ණය ගෙවාගන්නට බැරිවුණු රටකට යළිත් ආර්ථික ශක්තිය ලබා දීමේ අභියෝගාත්මක ගමනේ තවත් වැදගත් සංධිස්ථානයකට අපට ගිය සතියේ එළැඹෙන්නට හැකි වුණා.
+🟩
 
-පසුගිය ජූනි 26 වැනිදා අපේ නිල ණය හිමියන් සමග ණය ආපසු ගෙවීම පිළිබඳව එකඟතාවයන්ට එළැඹීමට අපට පුළුවන් වුණා. කැබිනට් මණ්ඩලය විසින් බලය පවරන ලද නිලධාරීන් අපේ රට නියෝජනය කරමින් මෙම එකඟතාවන්ට සහ ගිවිසුම්වලට අත්සන් කළා. එදිනම රාත්‍රියේ මම විද්‍යුත් මාධ්‍ය ඔස්සේ මුළු මහත් ජාතියටම ඒ පිළිබඳ කරුණු පෙන්වා දුන්නා.
+President Ranil Wickremesinghe made a special statement in Parliament regarding the implementation of controlling contractual restructuring agreements and its contents.
 
-ආර්ථිකය යළි ගොඩනැංවීමේ අභියෝගාත්මක ගමන ආරම්භ වූ දවසේ පටන් මම විටින් විට පාර්ලිමේන්තුව හමුවේ කරුණු ඉදිරිපත් කළා. මුලින්ම අප අනුගමනය කරන සැලසුම් ගැන පාර්ලිමේන්තුව හමුවේ විස්තර කළා. ඉන් පසුව අප ලබා ඇති ප්‍රගතිය ගැන කරුණු පැහැදිලි කළා.
+"We were able to return to another important milestone in the challenging journey to a country that could not pay off the debt of 2022 year.
 
-ඒ අනුවම යමින් මම අද මේ සභාව හමුවේ වර්තමාන තත්වය පිළිබඳ තොරතුරු අනාවරණය කරන්නට කැමතියි.
+On June 26, we were able to reach agreements on debts with our official creditors. Officers authorized by the Cabinet signed these agreements and agreements representing our country. On the same night, I showed the whole nation to the entire nation on the same night.
+
+Since the beginning of the challenges of rebuilding the economy, I occasionally gave parliament. First explained the plans we follow. After that, we explained the progress we had made.
+
+In that sense, I would like to disclose the current status of the situation today.
+
+About two years ago, I left our four-important work plan before I handed over the challenge of redressing the economy of the country.
 
 ...
 
 [Data](articles/4cbe64ec.json)
+
+[Extended Data](ext_articles/4cbe64ec.ext.json)
 
 ---
 
@@ -2097,75 +2151,5 @@ Mr. Sampanthan’s body will be kept for public viewing at his residence at post
 [Data](articles/f533fdad.json)
 
 [Extended Data](ext_articles/f533fdad.ext.json)
-
----
-
-### Two suspects arrested
-
-*2024-07-01 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198377) · `si`
-
-Two prisoners, including one named Roshan Asakanka alias Awaitan, escaped from Kuruwita Prison and were later captured in the Moragahahena area. They had stolen a motorcycle and were hiding in a forest. Arrested by prison officials and the Test House in Warakapola, they were brought before the Tilhiriya Magistrate Court.
-
-🟩
-
-Two suspects who were imprisoned by the court were arrested by the prison officials and were hiding in the Moragahahena area.
-
-The suspects have fled the motorbike with a stolen motorcycle with a stolen motorcycle and the police were found in a jungle while he was hiding at a forest.
-
-The suspect was arrested for Roshan Asakanka alias Awaitan, Nava, "Suddha".
-
-The other Divisional Secretariat Investigation Division was arrested yesterday.
-
-He was arrested by the Test House in the Warakapola, Police area and were produced before the Tilhiriya Magistrate Court about the motorcycle vessels.
-
-The two inmates fled the prison officials when the two inmates were taken from the Kuruwita Prison in Kuruwita Magistrate's Court to restore the two inmates on the 28th.
-
-◼️
-
-[Data](articles/1f8f1dbf.json)
-
-[Extended Data](ext_articles/1f8f1dbf.ext.json)
-
----
-
-### The goal of doubling paddy yields in the next six boats - Janaka Dharmakirthi
-
-*2024-07-01 20:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/187433) · `ta`
-
-Janaka Dharmakirthi, Secretary to the Ministry of Agriculture and Plantation Industries, aims to double paddy yields within six years through technological advancements and efficient land use. The ministry has introduced a technical package and encourages farming in previously unused fields. Efforts include promoting youth involvement in agriculture, enhancing crop storage, and reducing post-harvest impacts. A significant investment of 2.5 billion rupees has been allocated to the Agricultural Modernization Program, supporting various initiatives like interest-free loans and vocational training. The strategy also focuses on increasing milk production and improving fertilizer availability, aiming for sustainable growth in the agricultural sector.
-
-🟩
-
-Secretary to the Ministry of Agriculture and Plantation Industries Janaka Dharmakirthi said that the amount of paddy harvest available in the next six years should be doubled in the next six years.
-
-He noted that a technical package (becage) has been introduced and the Ministry of Agriculture is successful in the responsibility of meeting the growing food demand beyond the traditional agricultural industry.
-
-The Secretary to the Ministry of Agriculture and Plantation Industries, Janaka Dharmakirthi, addressing a press conference held at the Presidential Media Center today (01) under the theme "Two Years Progress and Future".
-
-He said the benefits of introducing new technology to the agriculture sector are already underway.
-
-...
-
-[Data](articles/8c0b0fad.json)
-
-[Extended Data](ext_articles/8c0b0fad.ext.json)
-
----
-
-### Debt restructuring and taxes
-
-*2024-07-01 20:16:28* · [`dailyftlk`](https://www.ft.lk/columns/Debt-restructuring-and-taxes/4-763711) · `en`
-
-For debt restructuring to work, both sides must lose; both sides must gain
-
-As someone who has been trying for many years to get Sri Lankans to think more intelligently about the economy, these past days have been quite disappointing. The economic illiteracy of the masses can be understood. But what about the elites who are ranting about the
-
-The latest complaint is that the bilateral debt was postponed, not forgiven partially. Over the past two years, it was explained many times that debt restructuring can take many forms: a haircut (or the reduction of the principal due); adjustment of the payment period; and changes to the interest charged. In all cases, the creditor takes a hit. In all cases, the debtor does not get off scot-free. For debt restructuring to work, both sides must lose; both sides must gain.
-
-...
-
-[Data](articles/3f81c989.json)
-
-[Extended Data](ext_articles/3f81c989.ext.json)
 
 ---

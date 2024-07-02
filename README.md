@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 20:35:36**
+As of **2024-07-02 20:53:39**
 
 ## Newspaper Stats
 
-*Scraped **33,342** Articles*
+*Scraped **33,345** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,63 @@ islandlk | 1,857
 economynextcom | 1,948
 dailyftlk | 2,054
 adalk | 2,972
-adaderanalk | 3,803
-tamilmirrorlk | 3,942
+adaderanalk | 3,804
+tamilmirrorlk | 3,943
 dailymirrorlk | 4,733
 virakesarilk | 5,207
-adaderanasinhalalk | 5,524
+adaderanasinhalalk | 5,525
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,340 (100.0%) of 33,342 articles have been extended.
+33,340 (100.0%) of 33,345 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### லாஃப்ஸ் கேஸ் விலையில் மாற்றம் இல்லை
+
+*2024-07-02 20:33:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லாஃப்ஸ்-கேஸ்-விலையில்-மாற்றம்-இல்லை/175-339766) · `ta`
+
+லாஃப்ஸ் சமையல் எரிவாயுவின் விலையில் திருத்தம் மேற்கொள்ளப்படாது என அந்த நிறுவனம் அறிவித்துள்ளது.
+
+இதன்படி, 12.5 கிலோ கிராம் சமையல் எரிவாயு சிலிண்டரின் விலை 3,680 ரூபாவிற்கும், 5 கிலோ கிராம் சமையல் எரிவாயு சிலிண்டரின் விலை 1,477 ரூபாவிற்கும் 2 கிலோ கிராம் சமையல் எரிவாயு சிலின்டரின் விலை 591 ரூபாவிற்கும் தொடர்ந்து விற்பனை செய்யப்படும் என அந்த நிறுவனம் அறிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/7db12d92.json)
+
+---
+
+### Sri Lanka’s Tharushi and Dilhani qualify for Paris Olympics
+
+*2024-07-02 20:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100251/sri-lankas-tharushi-and-dilhani-qualify-for-paris-olympics) · `en`
+
+Sri Lankan athletes Tharushi Karunaratne and Dilhani Lekamge have qualified to compete at the 2024 Paris Olympic Games.
+
+Tharushi Karunaratne has qualified for the Women’s 800m event while Nadeesha Lekamge qualified for Women’s Javelin Throw events at the Paris Olympics.
+
+◼️
+
+[Data](articles/fb5b0c8a.json)
+
+---
+
+### තරුෂිට සහ දිල්හානිට ඔලිම්පික් වරම්
+
+*2024-07-02 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198422) · `si`
+
+ශ්‍රී ලංකා යොවුන් මලල ක්‍රීඩිකා තරුෂි කරුණාරත්න සහ ශ්‍රී ලංකා මලල ක්‍රීඩිකා දිල්හානි ලේකම්ගේ 2024 පැරිස් ඔලිම්පික් ක්‍රීඩා උළෙලට සුදුසුකම් ලබා තිබේ.
+
+තරුෂි කරුණාරත්න කාන්තා මීටර 800 ඉසව්ව නියෝජනය කිරීමට සුදුසුකම් ලබා ඇති අතර දිල්හානි ලේකම්ගේ කාන්තා හෙල්ල විසිකිරීමේ ඉසව්ව නියෝජනය කිරීමට සුදුසුකම් ලබා ඇත.
+
+◼️
+
+[Data](articles/f4bd14a7.json)
+
+---
 
 ### மிகவும் பரபரப்பான LPL போட்டியில் ஜெவ்னா கிங்ஸை கடைசிப் பந்தில் வெற்றிகொண்டது கோல் மார்வல்ஸ்
 
@@ -2281,81 +2323,5 @@ Accordingly, the maximum retail prices of the pharmaceuticals sold in the market
 [Data](articles/9910e8a6.json)
 
 [Extended Data](ext_articles/9910e8a6.ext.json)
-
----
-
-### Sir
-
-*2024-07-02 10:38:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐயாவுக்கு-இரங்கல்/175-339744) · `ta`
-
-It appears you've shared a detailed passage expressing condolences and reflections on the life and legacy of R. Sampanthan, a prominent figure in Sri Lankan politics. This passage touches on various aspects of his contributions, the impact of his loss, and the sentiments of those who knew him or were influenced by his work.
-
-
-
-If you have any specific questions or need assistance related to this content, such as understanding historical context, analyzing the political implications, or drafting a response, please let me know how I can assist you further.
-
-🟩
-
-Political leaders, parliamentarians, foreign political leaders and community representatives have expressed their condolences over the death of the late Rajavarodhayam Sambandan, a former MP and former leader of the Tamil National Alliance.
-
-Indian External Affairs Minister Dr. S. Jaysankar said in his condolence message that he was deeply saddened by the news of the demise of Sri Lankan Tamil leader R. Sampanthan.
-
-On this occasion, I remember the various meetings and conversations between me and him for decades. He devoted his entire life to the struggle of equality, dignity and justice in Sri Lanka.
-
-Senior leader of the Tamil National Party, Ira Sambandan, is the eldest of us..  கொள்கை வேறு, கோட்டை வேறாக இருப்பினும்  அரசியல் தளத்தில் எம்முடனும் சம காலத்தில் பயணித்தவர், முரண்பாடுகள் இருப்பினும் காணும் பொழுதுகளில்  அரசியல் நிலைமைகள் குறித்து  கலந்துரையாடுவதுண்டு. Though he died of age, he has caused grief. I will console all who are grieving at his expense.
-
-...
-
-[Data](articles/8d9e2e38.json)
-
-[Extended Data](ext_articles/8d9e2e38.ext.json)
-
----
-
-### Female assassination in a house in Biyagama;Suspect arrested
-
-*2024-07-02 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/187442) · `ta`
-
-A woman was killed in her Malwana home, part of the Biyagama police division. The 32-year-old suspect, arrested by Kosgoda police, had an improper relationship with the victim. Both lived in a rented house where the crime occurred. Further inquiries are ongoing by Kosgoda and Biyagama police.
-
-🟩
-
-A woman has been murdered in a house in Malwana, which belongs to the Biyagama police division, Biyagama police said.
-
-The murder has taken place a few days ago and the 32 -year -old suspect has been arrested by Kosgoda police on Monday (01), police said.
-
-Investigations revealed that the murder was involved in an inappropriate relationship with a woman who was murdered and the murder took place at a rented house where the two were living.
-
-Koskoda and Biyagama police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/8c52f9df.json)
-
-[Extended Data](ext_articles/8c52f9df.ext.json)
-
----
-
-### Sri Lanka to make US$5bn interest savings in bilateral debt deal: President
-
-*2024-07-02 10:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-make-us5bn-interest-savings-in-bilateral-debt-deal-president-170453/) · `en`
-
-ECONOMYNEXT – Sri Lanka will make interest savings of 5 billion dollars on the restructured bilateral debt, President Ranil Wickremesinghe said.
-
-The interest rates on loans will be 2.1 percent or below, he told parliament Tuesday.
-
-Sri Lanka has been given extra eight years to repay the loans till 2043 under the agreement.
-
-This will help improve the debt repaying capacity, in the future.
-
-Full disclosures will be made after a deal with bondholders are reached, he said.
-
-Though he wanted to disclose the agreements in parliament, there was a request from the official creditor committee to delay it till the new government is formed in France. (Colombo/June02/2024)
-
-◼️
-
-[Data](articles/a46f2c89.json)
-
-[Extended Data](ext_articles/a46f2c89.ext.json)
 
 ---

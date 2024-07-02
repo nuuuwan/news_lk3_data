@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 15:53:59**
+As of **2024-07-02 16:06:35**
 
 ## Newspaper Stats
 
-*Scraped **33,294** Articles*
+*Scraped **33,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,84 @@ dbsjeyarajcom | 305
 bbccomsinhala | 327
 newsfirstlk | 363
 islandlk | 1,856
-economynextcom | 1,943
+economynextcom | 1,948
 dailyftlk | 2,054
 adalk | 2,963
-adaderanalk | 3,795
+adaderanalk | 3,796
 tamilmirrorlk | 3,940
 dailymirrorlk | 4,733
 virakesarilk | 5,198
-adaderanasinhalalk | 5,513
+adaderanasinhalalk | 5,515
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,293 (100.0%) of 33,294 articles have been extended.
+33,294 (100.0%) of 33,302 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### Person arrested on suspicion after ‘bomb scare’ at Kandy Court complex
+
+*2024-07-02 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/100243/person-arrested-on-suspicion-after-bomb-scare-at-kandy-court-complex) · `en`
+
+The owner of the mobile phone number through which a false tip-off was provided to the ‘119’ Police Emergency Hotline regarding an impending bomb attack in the Kandy Court complex, has been arrested.
+
+Police said that the 53-year-old owner of the relevant SIM card was arrested this afternoon (02), based on information received by the Kandy Police through Ginigathhena Police.
+
+However, the OIC of Kandy Police stated that the suspect did not have a mobile phone in his possession at the time of the arrest, and that he told the police during interrogations that his phone was misplaced last evening (01).
+
+The arrested suspect has been identified as a conductor of a private passenger transport bus, according to police.
+
+◼️
+
+[Data](articles/28accc68.json)
+
+---
+
+### මහනුවර කැලඹූ බෝම්බ බිය - සැකකරුවෙක් අත්අඩංගුවට
+
+*2024-07-02 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198412) · `si`
+
+මහනුවර අධිකරණ සංකීර්ණය තුළ බෝම්බයක් ඇති බවට 119 පොලිස් හදිසි ඇමතුම් ඒකකයට ඇමතුමක් ලබාදුන් පුද්ගලයා අද (02) දහවල් ගිනිගත්හේන පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මහනුවර පොලීසිය විසින් ගිනිගත්හේන පොලීසියට ලබාදුන් තොරතුරක් මත අදාළ දුරකථන අංකයේ හිමිකරු වන ගිනිගත්හේන, කඩවල ප්‍රදේශයේ පදිංචි 53 හැවිරිදි පුද්ගලයෙක් එලෙස සැකපිට අත්අඩංගුවට ගෙන ඇත.
+
+සැකකරු අත්අඩංගුවට ගන්නා අවස්ථාවේ අදාළ දුරකථනය ඔහු සන්තකයේ නොතිබුණු බවත් එම දුරකථනය ඊයේ (01) දහවල් අස්ථානගත වූ බවත් සැකකරු පොලීසියට පවසා ඇත.
+
+අත්අඩංගුවට ගත් සැකකරු පෞද්ගලික බස් රථ කොන්දොස්තරවරයෙකු ලෙස සේවය කර ඇති බවත්, ඔහු සම්බන්ධයෙන් ඉදිරි විමර්ශන කටයුතු සිදුකරන බවත් ගිනිගත්හේන පොලීසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක විරාජ් විතානගේ මහතා පැවසිය.
+
+මහනුවර අධිකරණ සංකීර්ණය තුළ බෝම්බයක් ඇති බවට ලද අදාළ පණිවුඩය හේතුවෙන් එහි විශේෂ ආරක්ෂක මෙහෙයුමක් ක්‍රියාත්මක කෙරුණි.
+
+එමෙන්ම එහි නඩු විභාග කිරීම නවතා දමා ජනතාව අධිකරණ සංකීර්ණයෙන් ඉවත් කිරීමට ද ආරක්ෂක අංශ පියවර ගැණුනි.
+
+බෝම්බ නිෂ්ක්‍රිය අංශය, හමුදාව සහ පොලීසිය එක්ව අදාළ සෝදිසි මෙහෙයුම සිදුකළේය.
+
+...
+
+[Data](articles/65c5f109.json)
+
+---
+
+### හොර වැඩක් කරලා රටින් පනින්න හැදූ විදෙස් ජාතිකයා
+
+*2024-07-02 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198411) · `si`
+
+මූල්‍ය වංචාවකට සම්බන්ධ විදෙස් ජාතිකයෙකු කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය සඳහන් කළේ, ඉදිකිරීම් ව්‍යාපෘති කිහිපයක් සිදුකිරීම සඳහා පුද්ගලයෙකුගෙන් රුපියල් 63,818,452ක මුදලක් ලබාගෙන එම ඉදිකිරීම් කටයුතු සිදුනොකර මුදල් වංචා කිරීමේ චෝදනාව යටතේ සැකකරු අත්අඩංගුවට ගත් බවය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ කටුනායක ගුවන්තොටුපොළ ඒකකයේ නිලධාරීන් විසින් සිදුකරන ලද විමර්ශනයේ දී සැකකරු අත්අඩංගුවට ගෙන ඇති බව වාර්තා වෙයි.
+
+සිද්ධිය සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ කටුනායක ගුවන්තොටුපොළ ඒකකය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/bf62fcbb.json)
+
+---
 
 ### Japan confident Sri Lanka’s economy will continue to improve
 
@@ -49,6 +109,8 @@ Accordingly, Yoshimasa has expressed his confidence that Sri Lanka’s economy w
 ◼️
 
 [Data](articles/be1f63ef.json)
+
+[Extended Data](ext_articles/be1f63ef.ext.json)
 
 ---
 
@@ -198,6 +260,42 @@ Sampanthan has joined the line of late politicians such as Amirthalingam and Siv
 
 ---
 
+### Sri Lanka to get US$100mn from ADB on power reforms
+
+*2024-07-02 14:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-get-us100mn-from-adb-on-power-reforms-170579/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers have approved the borrowing of 100 million US dollar from the Asian Development Bank, a statement from the state information office said.
+
+The loan is the first part of a 300 million dollar program, the statement said.
+
+Sri Lanka has just passed an Electricity Law which was linked to budget support loans.
+
+Budget support loans are part of the International Monetary Fund backed reform and debt restructuring program. (Colombo/July02/2024)
+
+◼️
+
+[Data](articles/6bb6cfa2.json)
+
+---
+
+### President fact-checks viral social media post on Sri Lanka’s external debt
+
+*2024-07-02 14:06:00* · [`economynextcom`](https://economynext.com/president-fact-checks-viral-social-media-post-on-sri-lankas-external-debt-170577/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s total foreign debt is 37 billion US dollars and it did not increase from 71 billion to 100 billion over his incumbency as claimed by affiliates of opposition MP Anura Kumara Dissanayake, President Ranil Wickremesinghe said.
+
+Addressing parliament on Tuesday July 02, Wickremesinghe refuted a social media post attributed to an affiliate of Dissanayake, the leader of the leftist National People’s Power (NPP).
+
+“Some political groups are spreading false information about our foreign debt on social media.
+
+“We have debated with Dissanayake and confronted each other. But he had never hurled such low-bro insults at me. But some of your followers are working to even destroy you,” said Wickremesinghe addressing the opposition MP.
+
+...
+
+[Data](articles/29eea7e4.json)
+
+---
+
 ### Superintendent of Criminal Cases on Trump
 
 *2024-07-02 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198406) · `si`
@@ -295,6 +393,28 @@ Moreover, he said that if necessary solutions are not provided, the strike actio
 [Data](articles/16a2aa78.json)
 
 [Extended Data](ext_articles/16a2aa78.ext.json)
+
+---
+
+### Sri Lanka cabinet approves new feed-in tariffs for renewables
+
+*2024-07-02 13:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-new-feed-in-tariffs-for-renewables-170557/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has approved new feed-in tariffs for renewable power plants below 10 MegaWatts, Energy Minister Kanchana Wijesekera said.
+
+Roof top solar below 500 kiloWatts will be paid a flat rate of 27.06 a unit for 20 years.
+
+The plants will get a 20-year flat rate and not a falling Tiered rate.
+
+Sri Lanka’s feed-in tariffs for renewables, other than for bio mass plans which can be operated at any time of the day (dispatched) have been controversial due to administratively devised rates which are far above competitive rates in other jurisdictions.
+
+The tariffs compare with 4.88 cents for a 50MW wind plant in Mannar.
+
+Feed in tariffs were halted in favour of competitive bidding, but were brought back following heavy lobbying.  (Colombo/July02/2024)
+
+◼️
+
+[Data](articles/66e419b5.json)
 
 ---
 
@@ -1296,6 +1416,28 @@ Koskoda and Biyagama police are conducting further investigations into the incid
 
 ---
 
+### Sri Lanka to make US$5bn interest savings in bilateral debt deal: President
+
+*2024-07-02 10:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-make-us5bn-interest-savings-in-bilateral-debt-deal-president-170453/) · `en`
+
+ECONOMYNEXT – Sri Lanka will make interest savings of 5 billion dollars on the restructured bilateral debt, President Ranil Wickremesinghe said.
+
+The interest rates on loans will be 2.1 percent or below, he told parliament Tuesday.
+
+Sri Lanka has been given extra eight years to repay the loans till 2043 under the agreement.
+
+This will help improve the debt repaying capacity, in the future.
+
+Full disclosures will be made after a deal with bondholders are reached, he said.
+
+Though he wanted to disclose the agreements in parliament, there was a request from the official creditor committee to delay it till the new government is formed in France. (Colombo/June02/2024)
+
+◼️
+
+[Data](articles/a46f2c89.json)
+
+---
+
 ### Sampanthan's funeral was deposited in Colombo today
 
 *2024-07-02 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/187451) · `ta`
@@ -1393,6 +1535,26 @@ However, if the contentious clauses are amended, they can be passed with a simpl
 [Data](articles/aa7467cc.json)
 
 [Extended Data](ext_articles/aa7467cc.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 304.80/305.20 to US dollar
+
+*2024-07-02 10:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-304-80-305-20-to-us-dollar-170451/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 304.80/305.20 to the US dollar on Monday, while bond yields were broadly steady, and stocks opened 0.36 percent up, dealers said.
+
+In equities, Colombo’s All Share Price Index opened 42.93 points higher at 12,119, while the S&P SL20 of more liquid stocks opened up at 0.27 percent or 9.71 points to 3,575.
+
+A bond maturing on 15.12.2026 was quoted at 10.85/95 percent, up 10.85/11.00 percent.
+
+A bond maturing on 15.02.2028 was quoted stable at 11.90/12.00 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.15/20 percent, down from 12.10/20 percent. (Colombo/July2/2024)
+
+◼️
+
+[Data](articles/582819f0.json)
 
 ---
 
@@ -2125,165 +2287,5 @@ Rajaratnam’s current term is set to expire at the end of this month and the Pr
 [Data](articles/83c816c5.json)
 
 [Extended Data](ext_articles/83c816c5.ext.json)
-
----
-
-### Solar-ocean based Hydrogen fuel production venture to commence soon
-
-*2024-07-02 02:18:47* · [`dailyftlk`](https://www.ft.lk/business/Solar-ocean-based-Hydrogen-fuel-production-venture-to-commence-soon/34-763746) · `en`
-
-Ceylon Italy Blue Economy Association President Vittorio Coco (centre) with Confederation of MSME Industries President Nawaz Rajabdeen (right) and SAARC Chamber of Commerce and Industry Federation of Chambers of Commerce and Industry of Sri Lanka Past President Macky Hashim
-
-Sri Lanka-Italy join venture in the offing; feasibility study to cost $ 3 m
-
-Discussions between Ceylon Italy Blue Economy Association President Vittorio Coco and Confederation of MSME Industries President Nawaz Rajabdeen
-
-...
-
-[Data](articles/0eb7eccb.json)
-
-[Extended Data](ext_articles/0eb7eccb.ext.json)
-
----
-
-### Colombo Dockyard makes history with three milestones in one day
-
-*2024-07-02 02:17:08* · [`dailyftlk`](https://www.ft.lk/business/Colombo-Dockyard-makes-history-with-three-milestones-in-one-day/34-763745) · `en`
-
-Exchanging protocol of delivery during handing over of Misje Rose
-
-Ceremonial cutting of ribbon during handing over of Misje Rose
-
-Colombo Dockyard PLC (CDPLC) made history on 28 June by achieving three important milestones in shipbuilding on the same day, in the construction of 5000DWT Eco Bulk Carriers for Misje Eco Bulk AS Norway.
-
-On this historic day, CDPLC laid the keel marking the commencement of construction of the 8th vessel, launched the 6th vessel, and delivered the 5th vessel of the Eco Bulk series, demonstrating its resilience and commitment to excellence despite economic and market challenges. The keel laying ceremony of the 8th vessel “Misje Lily” (Yard No. NC0260), launching of the 6th vessel “Misje Lotus” (Yard No. NC0255), and delivery of the 5th vessel “Misje Rose” (Yard No. NC0254) were celebrated in the presence of Owner Roald Misje, CFO Alina Printseva, Site Manager Thusitha Herath, and Site Superintendents Venura Wanasinghe and Prince Dharmaranjan.
-
-...
-
-[Data](articles/4ab44527.json)
-
-[Extended Data](ext_articles/4ab44527.ext.json)
-
----
-
-### Anti-Corruption Act: Why is file failing?
-
-*2024-07-02 02:06:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6p231z2vrqo) · `si`
-
-The Anti-Corruption Act, passed in Parliament and effective since August 8, 2023, aimed to combat bribery and corruption by enhancing the powers of the Bribery Commission. However, legal challenges have arisen, particularly regarding the appointment of a Director General under the new Act before filing charges. This has led to the dismissal of cases against high-profile individuals like former Central Bank Governor Ajith Nivard Cabraal and others, not due to lack of evidence but due to procedural issues related to the Act's implementation.
-
-🟩
-
-The anti-corruption act of the government was passed in Parliament last year with the objective of eliminating bribery and corruption.
-
-The bill was implemented as a law from August 8, 2023.
-
-The Bribery Commission (Investigation Commission) Act was completely abolished with the implementation of the bill.
-
-Bribery or Corruption Commission has been given extensive legal authorities to suppress bribery or corruption under the Anti-Corruption Act.
-
-The Commission points out that more than a previous situation, the Commission has received extensive legal power and cover to investigate bribery or corruption charges.
-
-However, under the new Act, two cases filed by the Bribery Commission have emerges in the legal area.
-
-Case filed against former Central Bank Governor Ajith Nivard Cabraal on Greek bonds
-
-...
-
-[Data](articles/5b16a100.json)
-
-[Extended Data](ext_articles/5b16a100.ext.json)
-
----
-
-### EDB conducts seminar on ‘Smart Solutions for Agricultural and Aquacultural Exports’
-
-*2024-07-02 01:59:35* · [`dailyftlk`](https://www.ft.lk/business/EDB-conducts-seminar-on-Smart-Solutions-for-Agricultural-and-Aquacultural-Exports/34-763738) · `en`
-
-The Sri Lanka Export Development Board (EDB) recently hosted an insightful seminar titled ‘Smart Solutions for Agricultural and Aquacultural Exports’, together with smart solutions provider, E Gravity Solutions Ltd.
-
-This proactive initiative saw over 45 participants from the agriculture and aquaculture industries attending this interactive seminar. It was aimed at educating agriculture and aquaculture exporters on the numerous benefits of integrating with smart agriculture and aquaculture technologies.
-
-The seminar emphasised the significance of adopting these advanced solutions and provided valuable insights into a diverse range of devices and products designed to enhance productivity and sustainability in the agriculture and aquaculture sectors.
-
-...
-
-[Data](articles/a2bdf1b8.json)
-
-[Extended Data](ext_articles/a2bdf1b8.ext.json)
-
----
-
-### Interim report on Colombo Intl. Financial City as top Fintech hub
-
-*2024-07-02 01:58:28* · [`dailyftlk`](https://www.ft.lk/business/Interim-report-on-Colombo-Intl-Financial-City-as-top-Fintech-hub/34-763737) · `en`
-
-Colombo Port City Economic Commission Chairman Dinesh Weerakkody and Monetary Authority of Singapore (MAS) Fintech Chief Officer Sopnendu Mohanty received copies of interim report on “Enhancing Colombo International Financial City (Port City Colombo) as a leading Fintech Hub in South Asia” from Fintech Association of Sri Lanka (FASL) President and coordinator of the initiative Rajkumar Kanagasingam during the “DigiEcon Global Investment Summit” which was held recently at Hotel Cinnamon Grand Colombo.
-
-Kerry Holdings Professor in Law at the University of Hong Kong Professor Douglas Arner serves as the Chief Consultant of the initiative which is supported by a number fintech experts internationally.
-
-FASL is an ecosystem partner of Dubai International Financial Centre (DIFC) Innovation Hub and Elevandi, an independent organisation created by the Monetary Authority of Singapore (MAS).
-
-...
-
-[Data](articles/1e01e121.json)
-
-[Extended Data](ext_articles/1e01e121.ext.json)
-
----
-
-### Eximius Power and Energy brings sustainable power solutions to Sri Lanka
-
-*2024-07-02 01:56:59* · [`dailyftlk`](https://www.ft.lk/business/Eximius-Power-and-Energy-brings-sustainable-power-solutions-to-Sri-Lanka/34-763736) · `en`
-
-Gold sponsor of the Construction, Power and Energy Expo 2024
-
-In an era where sustainable solutions are imperative for growing economies, protecting the environment and creating a better tomorrow for the next generation, Eximius Power and Energy (EPE), a pioneering Sri Lankan energy solutions company is introducing the latest and most technologically advanced power solutions to the local market. Partnering with the renowned Sineng Group in China, EPE brings state-of-the-art power electronics products and solutions.
-
-Speaking on the range of products and services on offer, Chairman/Managing Director Danuke Weerasinghe said, “Sineng Electric, being a Tier 1 Solar PV Inverter Manufacturer, is renowned for its advanced technology, high-quality products, and comprehensive after-sales service. Sineng’s inverters are widely used in residential, commercial and industrial, and utility-scale solar power projects worldwide, contributing to the transition towards clean and sustainable energy.”
-
-...
-
-[Data](articles/e044b146.json)
-
-[Extended Data](ext_articles/e044b146.ext.json)
-
----
-
-### Consulate General of Sri Lanka in Mumbai at Indian Merchants Chamber Business Connect 2024
-
-*2024-07-02 01:50:39* · [`dailyftlk`](https://www.ft.lk/business/Consulate-General-of-Sri-Lanka-in-Mumbai-at-Indian-Merchants-Chamber-Business-Connect-2024/34-763735) · `en`
-
-The Consul General of Sri Lanka in Mumbai, Dr. Valsan Vethody participated in the “Business Connect 2024” organised by the Indian Merchants Chamber of Commerce and Industry (IMC) in Mumbai.
-
-IMC, established in 1907, is a prestigious business association in Mumbai. It boasts over 5,000 members, including major business establishments and industrialists such as Reliance, Mahindra & Mahindra, Godrej, and Adani. The Chamber collaborates with more than 150 trade groups. In recognition of its contribution to nation-building, Mahatma Gandhi accepted honorary membership in 1931.
-
-The event’s theme, “Bridging Borders for Business Growth,” aimed to facilitate interaction between officials, committee members, IMC members, and diplomatic missions in Mumbai. The objective was to explore opportunities for expanding trade, investment, and tourism between the participating countries and the local business community of Maharashtra.
-
-...
-
-[Data](articles/2a234d94.json)
-
-[Extended Data](ext_articles/2a234d94.ext.json)
-
----
-
-### Committee urges focus on entrepreneurship to combat economic crisis
-
-*2024-07-02 01:45:33* · [`dailyftlk`](https://www.ft.lk/business/Committee-urges-focus-on-entrepreneurship-to-combat-economic-crisis/34-763734) · `en`
-
-The Sectoral Oversight Committee on Alleviating the Impact of the Economic Crisis has emphasised the need to foster entrepreneurship and has instructed officials to organise awareness programs across all districts in Sri Lanka.
-
-This recommendation came during a recent committee meeting in Parliament, chaired by Member of Parliament Gamini Waleboda.
-
-The committee inquired about the current engagement of investors in the stock market. Officials reported that approximately 850,000 accounts are linked to stock market investments, with about 200,000 of these accounts being actively used.
-
-In efforts to strengthen the progress of the Colombo stock market, the committee discussed potential actions that the Securities and Exchange Commission of Sri Lanka could undertake.
-
-...
-
-[Data](articles/0a4c51bd.json)
-
-[Extended Data](ext_articles/0a4c51bd.ext.json)
 
 ---

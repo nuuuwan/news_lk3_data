@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 18:13:26**
+As of **2024-07-02 18:25:00**
 
 ## Newspaper Stats
 
-*Scraped **33,319** Articles*
+*Scraped **33,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ adaderanalk | 3,800
 tamilmirrorlk | 3,942
 dailymirrorlk | 4,733
 virakesarilk | 5,198
-adaderanasinhalalk | 5,520
+adaderanasinhalalk | 5,521
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,319 (100.0%) of 33,319 articles have been extended.
+33,319 (100.0%) of 33,320 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### ලාෆ්ස් ගෑස් මිල ගැන දැනුම්දීමක්
+
+*2024-07-02 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198418) · `si`
+
+තමන් ජූලි මාසය සඳහා ගෘහස්ත ගෑස් මිල සංශෝධනය නොකරන බව ලාෆ්ස් සමාගම පවසයි.
+
+මේ වනවිට එම සමාගම කිලෝග්‍රෑම් 12.5 ලාෆ්ස් ගෘහස්ථ ගෑස් සිලින්ඩරයක් රුපියල් 3,680කටත්, කිලෝග්‍රෑම් 5 ගෑස් සිලින්ඩරයක් රුපියල් 1,477කටත් අලෙවි කරනු ලබයි.
+
+මේ අතර අද මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ගෑස් මිල පහළ දැමීමට ලිට්‍රෝ සමාගම පියවර ගෙන තිබේ.
+
+ඒ අනුව කිලෝග්‍රෑම් 12.5 ලිට්‍රෝ ගෑස් සිලින්ඩරයක මිල රුපියල් 100 කින් පහළ දැමේ.
+
+ඒ අනුව අඛණ්ඩව අප්‍රෙල්, මැයි සහ ජුනි මාසවලට අමතරව මෙම මාසයේදීත් මෙලෙස ගෑස් මිල ගණන් අඩු කිරීමට ඔවුන් පියවර ගෙන ඇත.
+
+මාසිකව සිදුකෙරෙන මිල සංශෝධනයට අනුව ලිට්‍රෝ ගෑස් මිල පහළ දැමීමට එම සමාගම අද කටයුතු කළේය.
+
+ඒ අනුව ලිට්‍රෝ සමාගමෙහි කිලෝග්‍රෑම් 12.5 ගෘහස්ථ ගෑස් සිලින්ඩරයක මිල රුපියල් 100 කින් පහළ දැමුණු අතර එහි නව මිල රුපියල් 3,690කි.
+
+කිලෝග්‍රෑම් 5 ගෑස් සිලින්ඩරයක මිල රුපියල් 40කින් පහළ දැමුණු අතර එහි නව මිල රුපියල් 1,482කි.
+
+කිලෝග්‍රෑම් 2.3 ගෑස් සිලින්ඩරයක මිල රුපියල් 18 කින් පහළ දමා ඇති අතර එහි නව මිල වන්නේ රුපියල් 694කි.
+
+◼️
+
+[Data](articles/85a096c5.json)
+
+---
 
 ### The tragedy of a religious ceremony
 
@@ -2301,23 +2329,5 @@ Special debate on restructuring of foreign loans will be held in Parliament on J
 [Data](articles/e113b17a.json)
 
 [Extended Data](ext_articles/e113b17a.ext.json)
-
----
-
-### Coastal line trains delayed
-
-*2024-07-02 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100227/coastal-line-trains-delayed) · `en`
-
-Train services on the coastal line have been delayed due to damage to a rail track between Bambalapitiya and Wellawatte, the Railways Department announced.
-
-Accordingly, the train operations on the Coastal Line have been limited to a single track causing delays.
-
-The Deputy General Manager of the Railways Department, N. J Indipolage stated that the necessary steps have been taken to commence work related to restoring the rail track.
-
-◼️
-
-[Data](articles/215ebd76.json)
-
-[Extended Data](ext_articles/215ebd76.ext.json)
 
 ---

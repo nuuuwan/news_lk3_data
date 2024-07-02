@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 10:35:05**
+As of **2024-07-02 10:53:36**
 
 ## Newspaper Stats
 
-*Scraped **33,224** Articles*
+*Scraped **33,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,27 +20,51 @@ adaderanalk | 3,783
 tamilmirrorlk | 3,933
 dailymirrorlk | 4,733
 virakesarilk | 5,178
-adaderanasinhalalk | 5,496
+adaderanasinhalalk | 5,497
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,221 (100.0%) of 33,224 articles have been extended.
+33,224 (100.0%) of 33,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### ஜனாதிபதி பாராளுமன்றத்தில் விசேட உரை
+### ලිට්‍රෝ ගෑස් මිල අඩුකෙරේ
+
+*2024-07-02 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198392) · `si`
+
+ඒ අනුව කිලෝ 12.5ක ගෘහස්ත ගෑස් සිලින්ඩරයක මිල රුපියල් 100කින් අඩුකර ඇත.
+
+කිලෝ 5ක ගෘහස්ත ගෑස් සිලින්ඩරයක මිල රුපියල් 40කින් අඩුකර ඇති අතර එහි නව මිල රුපියල් 1,482කි.
+
+කිලෝ 2.3ක ගෘහස්ත ගෑස් සිලින්ඩරයක නව මිල රුපියල් 694ක් වන අතර එම සිලින්ඩරයක මිල රුපියක් 18කින් අඩුකර ඇත.
+
+මෙම මිල අඩුකිරීම අද මධ්‍යම රාතියේ සිට ක්‍රියාත්මක බව එම සමාගම පැවසීය.
+
+◼️
+
+[Data](articles/d10c8376.json)
+
+---
+
+### Special speech in the President's Parliament
 
 *2024-07-02 10:18:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-பாராளுமன்றத்தில்-விசேட-உரை/175-339741) · `ta`
 
-கடனை மீளச் செலுத்துவது தொடர்பில் நாட்டின் உத்தியோகபூர்வ கடன் வழங்குநர்களுடன் இணக்கப்பாட்டை எட்ட முடிந்துள்ளதாகவும் அமைச்சரவையினால் அங்கீகரிக்கப்பட்ட அதிகாரிகள் அந்த ஒப்பந்தங்களிலும் உடன்படிக்கைகளிலும் கைச்சாத்திட்டதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க செவ்வாய்க்கிழமை (02) அன்று பாராளுமன்றத்தில் ஆற்றிய விசேட உரையின் போது தெரிவித்தார்.
+In a special address, President Ranil Wickremesinghe announced that the Cabinet of Ministers had ratified agreements, emphasizing the importance of these accords.
+
+🟩
+
+President Ranil Wickremesinghe said in a special speech in Parliament on Tuesday (02) that the Cabinet of Ministers had signed the agreements and agreements on the agreement and agreements with the Cabinet.
 
 ◼️
 
 [Data](articles/1306207b.json)
+
+[Extended Data](ext_articles/1306207b.ext.json)
 
 ---
 
@@ -57,6 +81,8 @@ However, if the contentious clauses are amended, they can be passed with a simpl
 ◼️
 
 [Data](articles/aa7467cc.json)
+
+[Extended Data](ext_articles/aa7467cc.ext.json)
 
 ---
 
@@ -892,23 +918,29 @@ Police are investigating the suspect at the Jaffna Police Station and the suspec
 
 ---
 
-### அதிகாரிகளை பூட்டி: அச்சுறுத்திய நபர்
+### Locked the authorities: the person who threatened
 
 *2024-07-01 23:26:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/அதிகாரிகளை-பூட்டி-அச்சுறுத்திய-நபர்/71-339727) · `ta`
 
-யாழ்ப்பாணம் - இராமநாதன் வீதியில் கலட்டிச் சந்தியில் உள்ள  மருந்தகமொன்றை சோதனையிடச் சென்ற அரச உத்தியோகத்தர்கள் இருவரை பூட்டி வைத்த உரிமையாளரை பொலிஸார் இன்று கைது செய்தனர்.
+In Jaffna, two health ministry officials were locked out and threatened by a pharmacy owner during a permit inspection. The owner was arrested for selling drugs without permission and obstructing public servants. He faces charges and is under investigation.
 
-சுகாதார அமைச்சகத்தின் உணவு கட்டுப்பாடு நிர்வாக பிரிவு உத்தியோகத்தர்கள் இருவர் மருந்தகத்தின் அனுமதி தொடர்பாக மருந்தகமொன்றை சோதனையிட சென்றனர்.
+🟩
 
-சோதனையில் அதிகாரிகள் ஈடுபட்டிருக்கும் போது அதிகாரிகளை கடை உரிமையாளர் மருந்தகத்திற்குள் வைத்து பூட்டி அச்சுறுத்தியுள்ளார். இது தொடர்பில் யாழ்ப்பாண மாவட்ட விசேட குற்றத்தடுப்பு பிரிவு பொலிஸாருக்கு அரச அதிகாரிகளால் முறைப்பாடு செய்யப்பட்டது.
+Police have arrested the owner of two state officials who locked up a pharmacy at Kalati Junction on Jaffna - Ramanathan Road.
 
-இதனையடுத்து சம்பவ இடத்திற்கு வந்த யாழ்ப்பாண மாவட்ட விசேட குற்றத்தடுப்பு பிரிவு பொலிஸார், அனுமதியின்றி மருந்து விற்பனையில் ஈடுபட்டமை மற்றும் அரச உத்தியோகத்தர்களின் கடமைக்கு இடையூறு விளைவித்தமை உள்ளிட்ட குற்றச்சாட்டின் கீழ் கடை உரிமையாளரை கைது செய்தனர்.
+Two officers of the Food Control Administration Division of the Ministry of Health went to check a pharmacy regarding the permission of the pharmacy.
 
-சந்தேகநபரை யாழ்ப்பாணம் பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணை நடத்தும் பொலிஸார், விசாரணைகளுக்கு பின்னர் சந்தேக நபரை யாழ்ப்பாணம் நீதிவான் நீதிமன்றத்தில் முற்படுத்த நடவடிக்கை எடுத்துள்ளனர். R
+The shop owner locked and threatened the authorities while the authorities were involved in the test. The Jaffna District Special Crime Division has lodged a complaint with the state officials.
+
+Subsequently, the Jaffna District Special Crime Division police arrested the shop owner on charges of selling drugs without permission and disrupting the duty of public officials.
+
+Police are investigating the suspect at the Jaffna Police Station and the suspect is taken to the Jaffna Magistrate's Court after investigations.. Remble
 
 ◼️
 
 [Data](articles/a6a56207.json)
+
+[Extended Data](ext_articles/a6a56207.ext.json)
 
 ---
 
@@ -2231,31 +2263,5 @@ Through the political field, Shanmugam Kukadasan will be appointed as a Member o
 [Data](articles/5331a610.json)
 
 [Extended Data](ext_articles/5331a610.ext.json)
-
----
-
-### Sustainable Suspect Arrested at Nainadivu Ship Festival
-
-*2024-07-01 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/187391) · `ta`
-
-A youth was arrested for allegedly causing the death of another young man during the Nayanadivu Ship Festival. The victim was hospitalized after being found unconscious. Police quickly apprehended the suspect, who was later investigated at the Kayts police station and court.
-
-🟩
-
-A youth was arrested on Sunday (30) on charges of death of a young man during the Nayanadivu Nagabushani Amman Temple Ship Festival.
-
-During the ship's festival on June 22, another young man had fled the scene and fled the scene.
-
-The injured youth has been rescued and admitted to the Nainadivu Hospital for further treatment.
-
-Police rushed to the scene and arrested the suspect after reports were received that the attacker was carrying out investigations into the incident.
-
-The police have taken action to investigate the arrested person at the Kayts police station and take action at the Kayts Magistrate's Court.
-
-◼️
-
-[Data](articles/bec410b3.json)
-
-[Extended Data](ext_articles/bec410b3.ext.json)
 
 ---

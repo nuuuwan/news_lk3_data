@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 20:53:39**
+As of **2024-07-02 21:06:05**
 
 ## Newspaper Stats
 
-*Scraped **33,345** Articles*
+*Scraped **33,346** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,857
 economynextcom | 1,948
 dailyftlk | 2,054
-adalk | 2,972
+adalk | 2,973
 adaderanalk | 3,804
 tamilmirrorlk | 3,943
 dailymirrorlk | 4,733
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,340 (100.0%) of 33,345 articles have been extended.
+33,345 (100.0%) of 33,346 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### லாஃப்ஸ் கேஸ் விலையில் மாற்றம் இல்லை
+### No change in the price of Lafs Case
 
 *2024-07-02 20:33:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லாஃப்ஸ்-கேஸ்-விலையில்-மாற்றம்-இல்லை/175-339766) · `ta`
 
-லாஃப்ஸ் சமையல் எரிவாயுவின் விலையில் திருத்தம் மேற்கொள்ளப்படாது என அந்த நிறுவனம் அறிவித்துள்ளது.
+Lafs cooking gas prices unchanged: 12.5kg cylinder at Rs 3,680, 5kg at Rs 591, and 2kg also at Rs 591.
 
-இதன்படி, 12.5 கிலோ கிராம் சமையல் எரிவாயு சிலிண்டரின் விலை 3,680 ரூபாவிற்கும், 5 கிலோ கிராம் சமையல் எரிவாயு சிலிண்டரின் விலை 1,477 ரூபாவிற்கும் 2 கிலோ கிராம் சமையல் எரிவாயு சிலின்டரின் விலை 591 ரூபாவிற்கும் தொடர்ந்து விற்பனை செய்யப்படும் என அந்த நிறுவனம் அறிவித்துள்ளது. R
+🟩
+
+The company has announced that the prices of Lafs cooking gas will not be corrected.
+
+Accordingly, the price of 12.5 kg of cooking gas cylinder will be sold at Rs 3,680, 5 kg cooking gas cylinder and 2 kg of cooking gas will continue to be sold at Rs 591 for Rs 591.. Remble
 
 ◼️
 
 [Data](articles/7db12d92.json)
+
+[Extended Data](ext_articles/7db12d92.ext.json)
 
 ---
 
@@ -58,67 +64,93 @@ Tharushi Karunaratne has qualified for the Women’s 800m event while Nadeesha L
 
 [Data](articles/fb5b0c8a.json)
 
+[Extended Data](ext_articles/fb5b0c8a.ext.json)
+
 ---
 
-### තරුෂිට සහ දිල්හානිට ඔලිම්පික් වරම්
+### Olympic Champions
 
 *2024-07-02 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198422) · `si`
 
-ශ්‍රී ලංකා යොවුන් මලල ක්‍රීඩිකා තරුෂි කරුණාරත්න සහ ශ්‍රී ලංකා මලල ක්‍රීඩිකා දිල්හානි ලේකම්ගේ 2024 පැරිස් ඔලිම්පික් ක්‍රීඩා උළෙලට සුදුසුකම් ලබා තිබේ.
+Sri Lanka's Tharushi Karunaratne and Dilhani Secretary have qualified for the 2024 Paris Olympics. Karunaratne will compete in the 800 meters, while Secretary will participate in the women's spelling event.
 
-තරුෂි කරුණාරත්න කාන්තා මීටර 800 ඉසව්ව නියෝජනය කිරීමට සුදුසුකම් ලබා ඇති අතර දිල්හානි ලේකම්ගේ කාන්තා හෙල්ල විසිකිරීමේ ඉසව්ව නියෝජනය කිරීමට සුදුසුකම් ලබා ඇත.
+🟩
+
+Sri Lanka Youth Athletics Tharishi Athletic and Sri Lanka Athletic Dilhani Secretary's 2024 qualified for the 2024 Paris Olympic Games.
+
+Tharushi Karunaratne is eligible to represent the 800 meter event event and is eligible to represent Dilhani Secretary's women's spelling event.
 
 ◼️
 
 [Data](articles/f4bd14a7.json)
 
+[Extended Data](ext_articles/f4bd14a7.ext.json)
+
 ---
 
-### மிகவும் பரபரப்பான LPL போட்டியில் ஜெவ்னா கிங்ஸை கடைசிப் பந்தில் வெற்றிகொண்டது கோல் மார்வல்ஸ்
+### Cole Marwals won the last ball of Jevna Kings in the most exciting LPL
 
 *2024-07-02 19:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/187540) · `ta`
 
-கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் இன்றைய தினம் கடைசிப் பந்துவரை பரபரப்பை ஏற்படுத்திய ஜெவ்னா கிங்ஸ் அணிக்கும் கோல் மார்வல்ஸ் அணிக்கும் இடையிலான லங்கா பிறீமியர் லீக் போட்டியில் 5 விக்கெட்களால் கோல் மார்வல்ஸ் வெற்றி ஈட்டியது.
+In a thrilling Lanka Premier League match, Goal Marwal secured a 5-wicket victory over Jevna Kings, chasing down their target of 178 runs set at the Kandy Pallekel International Cricket Stadium. Key contributions came from Niroshan Dikwella and Alex Hales, who shared a 66-run partnership, followed by a 44-run stand between Hales and Tim Sefton. Despite losing five wickets, including notable scores from Panuka Rajapaksa and Janith Liyanage, Goal Marwal clinched victory in the final ball thanks to Sahan Arachchige and Dwan Pretorius. Jevna Kings, batting first, made 177 runs in 20 overs, with half-centuries from Betth, Nissanka, and Avishka Fernando, but fell short due to effective bowling from Zahur Khan, Dwan Pretorius, and Isuru Udana.
 
-178 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய கோல் மார்வல்ஸ் 20 ஓவர்களில் 5 விக்கெட்களை இழந்து 179 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+🟩
 
-அணித் தலைவர் நிரோஷன் திக்வெல்ல, இங்கிலாந்தின் முன்னாள் வீரர் அலெக்ஸ் ஹேல்ஸ் ஆகிய இருவரும் 43 பந்துகளில் 66 ஓட்டங்களைப் பகிர்ந்து சிறந்த ஆரம்பத்தை இட்டுக்கொடுத்தனர்.
+Goal Marwal won by 5 wickets in the Lanka Premier League match between Jevna Kings and Goal Marwal, who caused a stir at the last ball of the Kandy Pallekel International Cricket Stadium.
 
-திக்வெல்ல 47 ஓட்டங்களுடன் ஆட்டம் இழந்த பின்னர் அலெக்ஸ் ஹேல்ஸ், டிம் சீஃபேர்ட் ஆகிய இருவரும் 2ஆவது விக்கெட்டில் 44 ஓட்டங்களைப் பகிர்ந்து அணிக்கு மேலும் உற்சாகத்தைக் கொடுத்தனர்.
+In response to 178 runs, goal Marwals lost 5 wickets in 20 overs and scored 179 runs.
 
-சீஃபேர்ட் 10 ஓட்டங்களையும் அலெக்ஸ் ஹேல்ஸ் 47 பந்துகளில் 7 பவுண்டறிகள், 2 சிக்ஸ்களுடன் 65 ஓட்டங்களையும் பானுக்க ராஜபக்ஷ 13 ஓட்டங்களையும் ஜனித் லியனகே 25 ஓட்டங்களையும் பெற்று ஆட்டம் இழந்தனர். (173 - 5 விக்.)
+Team captain Niroshan Dikwella and former England player Alex Hales shared 66 runs off 43 balls.
+
+Alex Hales and Tim Sefward shared 44 runs in the 2nd wicket after Dikwella lost 47 runs.
+
+Sefird lost 10 runs and Alex Hales 47 balls with 7 pounds, 65 runs, Panuka Rajapaksa with 13 runs and Janith Liyanage scored 25 runs.. (173 - 5 wig.)
+
+However, Gole Marwals won the last ball to score 5 runs for the victory by Sahan Arachike and Dwan Predorius.
+
+Jevna Kings, who decided to bat first in the upting match, scored 177 runs for the loss of 7 wickets in 20 overs and lost 7 wickets in 20 overs.
+
+Kusal Mendis lost 4 runs, but Bett, Nissanka and Avishka Fernando played half -centuries and shared 81 runs in the 2nd wicket.
 
 ...
 
 [Data](articles/1bb5f02c.json)
 
+[Extended Data](ext_articles/1bb5f02c.ext.json)
+
 ---
 
-### පාසලක මේස පුටු විකුණන ජාවාරමක් උකුසු ඇසට
+### A racket selling table chairs in a school
 
 *2024-07-02 19:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198421) · `si`
 
-කැකිරාව ප්‍රදේශයේ ප්‍රධාන පෙලේ ජාතික පාසලක කලක පටන් සිදුකරගෙන ගිය මේස පුටු ජාවාරමක් පිළිබඳව "අද දෙරණ" උකුස්සාට තොරතුරු වාර්තා වුණි.
+In Kekirawa, a national school discovered a racket involving the sale of stolen furniture. A truck carrying school desks was intercepted near the school, leading to the arrest of the owner, known for dealing in scrap metal. The incident highlights the need for vigilance against such activities.
 
-ඒ අනුව උකුස්සා දින කිහිපයක් එම පාසලේ දරුවන්ගේ මව්පියන් පිරිසක් සමග ගවේෂණයක නිරතවුණි.
+🟩
 
-එහිදී උකුස්සාට දැකගත හැකිවුණේ, රාත්‍රී 10.30ට පමණ විදුලි ලාම්පු නිවා දැමූ ලොරි රථයක් අදාළ පාසලේ පසුපස ගේට්ටුවෙන් හොර රහසේ ඇතුළුවන ආකාරයයි.
+A major national school in Kekirawa was a timely national school in Kekirawa, Ada Derana.
 
-මද වේලාවකින් අනතුරුව අදාළ ලොරි රථය පාසල් භූමියෙන් පිටතට පැමිණියේද විදුලි ලාම්පු නිවාදමමිනි.
+Accordingly, a few days were explored with the parents of children of the school.
 
-එම අවස්ථාවේදී ක්‍රියාත්මක වූ පිරිසක් අදාළ ලොරි රථය නවත්වා පරීක්ෂා කළේය.
+The hawlsa was seen, a lorry extinguished at around 10.30 pm, a lorry that was extinguished by the trailing gate.
 
-එහිදී දැකගත හැකිවුණේ පාසලට අයත් මේස පුුටු තොගයක් අදාළ ලොරි රථය තුළ තිබෙන අයුරුය.
+The lorry came out of the school premises after a moment and the lorry came out of the school premises.
 
-"ඔයා යකඩ නේද එකතු කරන්නේ...? යකෝ මේවා ඉස්කෝලේ ඩෙස් පුටු. රු 15,000ක් දීලා පොඩි එකෙක් දාන්නේ."
+A group of people who were operating at that time ceestaly examined the relevant lorry.
 
-ලොරි රථය පදවාගෙන පැමිණි පුද්ගලයා පාසලට යාබද පරණ යකඩ බඩු එකතු කරන වෙළෙඳසැළේ හිමිකරු බවට හඳුනාගැනුණු අතර, ඒ අනුව ඔහු පොලිසිය වෙත භාරකෙරුණි.
+It was seen in the lorry a large quantity of school tables.
 
-ඉදිරියේදීත් මෙවැනි නීතිවිරෝධී ක්‍රියාවන් රට හමුවේ අනාවරණ කිරීමට අද දෙරණ උකුස්සා සීරුවෙනි.
+"You add iron, .... 15,000 will be given a kid. "
+
+The man who dropped the lorry was identified as the owner of the old iron goods adjoining the school, accordingly, he was reserved to the police.
+
+Ada Derana has a few people today to reveal such illegal acts in the future.
 
 ◼️
 
 [Data](articles/9542645a.json)
+
+[Extended Data](ext_articles/9542645a.ext.json)
 
 ---
 
@@ -209,6 +241,22 @@ Senior leader of the Sri Lanka Tamil National Alliance (TNA) and former oppositi
 [Data](articles/dd35ed30.json)
 
 [Extended Data](ext_articles/dd35ed30.ext.json)
+
+---
+
+### දයාසිරිව ශ්‍රීලනිප මහ ලේකම් ධුරයෙන් නෙරපීම තහනම් කරයි
+
+*2024-07-02 18:31:54* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරිව-ශ්‍රීලනිප-මහ-ලේකම්-ධුරයෙන්-නෙරපීම-තහනම්-කරයි/11-410574) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ  මහලේකම් ධුරයෙන් හා පක්ෂ සාමාජිකත්වයෙන් නෙරපීම තහනම් කරමින්   පක්ෂයේ හිටපු සභාපති මෛත්‍රීපාල සිරිසේන මහතාට හා නියෝජ්‍ය ලේකම්වරයාට අතුරු තහනම් නියෝගයක් කොළඹ අතිරේක දිසා විනිසුරු අනුර වික්‍රමසිංහ මහතා අද (02) නිකුත් කළේය.
+
+දයාසිරි ජයසේකර මහතා විසින් පක්‍ෂයේ හිටපු සභාපති මෙන්ම හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන සහ පක්ෂයේ නියෝජ්‍ය ලේකම් සරත් ඒකනායක මහත්වරුන් වගඋත්තරකරුවන් කරමින් පසුගිය සැප්තැම්බර් 08 වැනිදා පැවරූ පෙත්සමක් සලකා බැලීමෙන් අනතුරුව අදාළ අතුරු තහනම නිකුත් කළේය .
+
+පක්ෂයේ සභාපතිවරයා වශයෙන් මෛත්‍රිපාල සිරිසේන මහතා විසින් පක්ෂ ව්‍යවස්ථාවට අනුව පසුගිය සැප්තැම්බර් 05 වැනිදා තමා දැරූ පක්‍ෂයේ ලේකම් ධූරය අත්හිටුවෙමින් හාතමන්ට එරෙහිව විනය පරීක්ෂණයක් කැඳවමින් නිකුත් කළ ලිපිය සහ මැතිවරණ කොමසාරිස්වරයාට යැවූ ලිපිය බල රහිත කරන තීන්දුවක් ඉල්ලා මෙම නඩුව පවරා ඇත.
+
+...
+
+[Data](articles/f5159621.json)
 
 ---
 
@@ -2297,31 +2345,5 @@ Bilateral loans were $ 10.6 billion, multilateral loans, $ 14.7 billion, $ 14.7 
 [Data](articles/73777026.json)
 
 [Extended Data](ext_articles/73777026.ext.json)
-
----
-
-### Maximum retail price for drugs?
-
-*2024-07-02 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198393) · `si`
-
-The National Drug Authority Act was amended to set a maximum retail price for medicines, aiming for transparency and fairness. The Health Minister issued orders introducing pricing based on dosage and strength. This move ensures fair pricing for consumers and promotes justice in the pharmaceutical market.
-
-🟩
-
-The National Drug Authority Activity Act has been amended to formulate a price mechanism to determine a maximum retail price for medicines.
-
-It is reported that the relevant orders have been issued by Health Minister Ramesh Pathirana.
-
-Accordingly, a specific drug has been introduced to determine a maximum retail price related to the medicine dosage and power.
-
-It is reported that the orders have been issued with the objective of ensuring transparency and justice.
-
-Accordingly, the maximum retail prices of the pharmaceuticals sold in the market are also declared and the relevant gazette notification has also been announced.
-
-◼️
-
-[Data](articles/9910e8a6.json)
-
-[Extended Data](ext_articles/9910e8a6.ext.json)
 
 ---

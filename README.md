@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 09:19:35**
+As of **2024-07-02 09:35:16**
 
 ## Newspaper Stats
 
-*Scraped **33,210** Articles*
+*Scraped **33,212** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ adaderanalk | 3,781
 tamilmirrorlk | 3,928
 dailymirrorlk | 4,733
 virakesarilk | 5,178
-adaderanasinhalalk | 5,491
+adaderanasinhalalk | 5,493
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,210 (100.0%) of 33,210 articles have been extended.
+33,210 (100.0%) of 33,212 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### සාකච්ඡා සාර්ථකයි
+
+*2024-07-02 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198388) · `si`
+
+සිය ඉල්ලීම් සම්බන්ධයෙන් බලධාරීන් සමග පැවති සාකච්ඡා සාර්ථක වූ බව විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින් පවසයි.
+
+විශ්වවිද්‍යාල වෘත්තීය සමිති ඒකාබද්ධ කමිටුවේ සම සභාපති ධම්මික ප්‍රියන්ත මහතා සඳහන් කළේ සිය ගැටලුවලට විසඳුම් අද (02) හෝ හෙට (03) ලබාදීමට බලධාරීන් එකඟතාව පළකළ බවය.
+
+"අපි පැහැදිලිව දැනුම්දුන්නා රාගවන් අමාත්‍යවරයා වෙත ලාබදී තිබෙන එකඟතාවයන්වලින් බැහැරව කටයුතු නොකර බව. මේ වෘත්තීය ක්‍රියාමර්ග අවසන් කිරීමට නම් අපගේ 2017 අනුමත මාසික හිලව් දීමනාව අපිට ඒ ආකාරයෙන් ලබාදිය යුතු බව ඒ අනුව ඔවුන් එකඟතාවයට එළඹුණා අමාත්‍ය මණ්ඩලයට මේ සම්බන්ධයෙන් කරුණු ඉදිරිපත්කර ඒ සඳහා ඉක්මනින් විසඳුම් ලබාදෙන බවට. අපි බලාපොරොත්තු වෙනවා අද දවසේ අපට ඉක්මනින් විසඳුමක් ලැබෙයි කියලා. අද හෝ හෙට කියලා එතුමා කිව්වේ. අපි බලාපොරොත්තු වෙනවා මේ වැඩවර්ජනයට සාධනීය විසඳුමක් ලැබෙයි කියලා. යම් විදිහකින් පාලන අධිකාරිය මේ සඳහා සාධනීය විසඳුමක් දීමට අපොහොත් වුණොත් අනිවාර්යෙන්ම වෘත්තීය ක්‍රියාමර්ගය අඛණ්ඩව ක්‍රියාත්මක වෙනවා."
+
+...
+
+[Data](articles/4fea7ba5.json)
+
+---
+
+### අනතුරකින් ඊශ්‍රායෙල් ජාතිකයෙක් මරුට
+
+*2024-07-02 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198387) · `si`
+
+පොතුවිල් - අක්රපත්තුව මාර්ගයේ දී සිදුවූ රිය අනතුරකින් ඊශ්‍රායල් ජාතිකයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+පොතුවිල් දෙසට ධාවනය වූ යතුරුපැදියක් එම දිසාවටම ධාවනය වූ අත්ට්‍රැක්ටරයක පසුපස ගැටී එම අනතුර සිදුව ඇත.
+
+අනතුරින් බරපතළ තුවාල ලැබූ යතුරුපැදිකරු පොතුවිල් රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇත.
+
+◼️
+
+[Data](articles/25343f68.json)
+
+---
 
 ### Several spells of showers expected in parts of the island
 
@@ -2263,49 +2295,5 @@ According to the military camps, Germany belongs to the Army camps in Germany as
 [Data](articles/0a3c3664.json)
 
 [Extended Data](ext_articles/0a3c3664.ext.json)
-
----
-
-### Where is the investigation report of the uprising against the Muslims?
-
-*2024-07-01 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/187393) · `ta`
-
-Despite the passage of six years since the deadly attacks on Muslims in Sri Lanka's hill country, the investigation report remains undisclosed. Journalists and human rights activists have faced challenges in obtaining credible evidence and responses from authorities, highlighting systemic failures in delivering justice. The situation has drawn international scrutiny, with the United Nations expressing concerns and calling for transparency.
-
-🟩
-
-Six years have passed since the deadly attack on Muslims in the hill country, but it has been revealed that the authorities have not yet made the investigation report.
-
-A journalist who was looking for credible evidence of directly accused of torture by government security forces has not responded to the Sri Lanka Human Rights Commission a year ago.
-
-Shocking information about the failure to provide justice for the crime committed by the current president during the prime minister, the documentary released on the day of the day on the day of supporting journalist Bardiban Shanmuganathan's international torture.
-
-The documentary, '2018', a series of hate attacks targeting Muslims in early March 2018, including Digana and Teldeniya in Kandy, are investigating the 'riots against Muslims'.
-
-The small documentary, compiled by Selvamani Sridharan, presents the terrifying experiences of the victims, including permanent disabled and relatives of the attack.
-
-...
-
-[Data](articles/5cea59fa.json)
-
-[Extended Data](ext_articles/5cea59fa.ext.json)
-
----
-
-### President to condole in Sambandan
-
-*2024-07-01 14:56:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனுக்கு-ஜனாதிபதி-இரங்கல்/175-339700) · `ta`
-
-President Ranil Wickremesinghe expresses deep sorrow over the passing of Sampanthan, a tireless national leader who strived to unite the nation. His loss is mourned nationwide.
-
-🟩
-
-I express my deepest condolences to the death of Sampanthan. As a national leader, he worked tirelessly to reduce the divisions in our country. His loss will convey condolences across the country. President Ranil Wickremesinghe said.
-
-◼️
-
-[Data](articles/af048fb6.json)
-
-[Extended Data](ext_articles/af048fb6.ext.json)
 
 ---

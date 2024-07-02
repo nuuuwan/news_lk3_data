@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 01:35:01**
+As of **2024-07-03 01:53:53**
 
 ## Newspaper Stats
 
-*Scraped **33,373** Articles*
+*Scraped **33,374** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,954
 dailyftlk | 2,054
 adalk | 2,975
 adaderanalk | 3,807
-tamilmirrorlk | 3,946
+tamilmirrorlk | 3,947
 dailymirrorlk | 4,733
 virakesarilk | 5,217
 adaderanasinhalalk | 5,528
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,528
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,373 (100.0%) of 33,373 articles have been extended.
+33,373 (100.0%) of 33,374 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### ’சம்பந்தனுக்காக அல்ல மோசடிக்காக ஒத்திவைப்பு’
+
+*2024-07-03 00:25:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனுக்காக-அல்ல-மோசடிக்காக-ஒத்திவைப்பு/175-339783) · `ta`
+
+பாராளுமன்றத்தின் புதன்கிழமை அமர்வு இரா. சம்பந்தனுக்காக  ஒத்திவைக்கப்படவில்லை. கடன் மறு சீரமைப்பு தொடர்பான 3  உடன்படிக்கைகளில் இரண்டில் மாத்திரமே கைச்சாத்திடப்பட்டுள்ளன.
+
+மேலும் ஒரு உடன்படிக்கை கைச்சாத்திடப்படாத நிலையிலேயே அது பாராளுமன்றத்தின் நிகழ்ச்சி நிழலுக்குள் கொண்டுவரப்பட்டுள்ளது .இது பெரும் மோசடி. இது வெளிப்பட்டுள்ளதாலேயே  அமர்வை ஒத்திவைத்துள்ளனரென எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (02) எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச விசேட கூற்றொன்றை முன்வைத்து பேசுகையில்,
+
+கடன் மறு சீரமைப்பு தொடர்பான  இணக்கப்பாடு குறித்து பாராளுமன்றத்தில் செவ்வாய்க்கிழமை மற்றும் புதன்கிழமை ஆகிய இரு நாட்களும் விவாதம் நடத்துவதென கட்சித்தலைவர்கள் கூட்டத்தில் தீர்மானிக்கப்பட்டிருந்தது. இந்நிலையில் செவ்வாய்க்கிழமை ஜனாதிபதியின் உரை மட்டுமே இடம்பெறுமெனவும் புதன்கிழமை பாராளுமன்ற அமர்வு இடம்பெறாதெனவும் அதற்கு  வேறு காரணமும் (சம்பந்தனின் மறைவு ) கூறியுள்ளனர்
+
+...
+
+[Data](articles/f68d1395.json)
+
+---
 
 ### President's final tribute to Sambandan's body
 
@@ -2319,25 +2337,5 @@ With less than a month before presidential elections are called, President Ranil
 [Data](articles/14c919c2.json)
 
 [Extended Data](ext_articles/14c919c2.ext.json)
-
----
-
-### Interim order issued against Dayasiri’s expulsion from SLFP
-
-*2024-07-02 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100236/interim-order-issued-against-dayasiris-expulsion-from-slfp-) · `en`
-
-The Colombo District Court has issued an interim order against the Sri Lanka Freedom Party’s (SLFP) decision to expel MP Dayasiri Jayasekara from party membership and the post of General Secretary, Ada Derana reporter said.
-
-Jayasekara, who was the former General Secretary of the SLFP, had sought an order revoking the decisions taken by the party to oust him from the position he held within the party.
-
-Jayasekara had filed the complaint before the Colombo District Court, challenging the decision taken by the SLFP to expel him as the party’s General Secretary and a letter directed by the party’s then chairman Maithripala Sirisena which mentioned that a disciplinary inquiry would be conducted against Jayasekara and asked him to provide excuses to defend himself.
-
-On September 05, 2023, MP Dayasiri Jayasekara was ousted from the SLFP with immediate effect and he was stripped of his position as the party’s general secretary.
-
-...
-
-[Data](articles/5d41054a.json)
-
-[Extended Data](ext_articles/5d41054a.ext.json)
 
 ---

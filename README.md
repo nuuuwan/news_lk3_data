@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 08:02:02**
+As of **2024-07-02 08:22:13**
 
 ## Newspaper Stats
 
-*Scraped **33,201** Articles*
+*Scraped **33,203** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,67 @@ adaderanalk | 3,779
 tamilmirrorlk | 3,927
 dailymirrorlk | 4,733
 virakesarilk | 5,178
-adaderanasinhalalk | 5,488
+adaderanasinhalalk | 5,490
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,199 (100.0%) of 33,201 articles have been extended.
+33,203 (100.0%) of 33,203 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### Concluded by death
+
+*2024-07-02 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198385) · `si`
+
+In a tragic event, a 32-year-old man from Mudalendagala was murdered in his home by unknown assailants. The Kosgoda and Biyagama Police are investigating the case.
+
+🟩
+
+Kosgoda police officers arrested a 32-year-old officials of Kosgoda Police have arrested the murder a few days ago and the murder was arrested.
+
+The victim was a 32 year old resident of the Mudalendagala.
+
+A team of officers of the Biyagama Police Station was found while murdered in the residential home.
+
+Kosgoda and Biyagama Police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/c828eadb.json)
+
+[Extended Data](ext_articles/c828eadb.ext.json)
+
+---
+
+### Gas pricing change?
+
+*2024-07-02 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198384) · `si`
+
+Today, Litro announced a gas pricing amendment, likely influenced by global market changes. The last revision occurred on June 4th, with reductions in prices for various cylinder sizes.
+
+🟩
+
+Litro says that the Gas Pricing amendment will be announced today (02).
+
+The Chairman of the company said that the price is to be revised according to the gas prices in the world market.
+
+The monthly gas priced was revised last June on 4th June.
+
+The price of a 12.5 kilogram of domestic gas cylinder was reduced by Rs.
+
+The price of 5 kg gas cylinder was reduced by 60 rupees and the price of 2.3 kilograms was reduced by Rs.
+
+◼️
+
+[Data](articles/72224899.json)
+
+[Extended Data](ext_articles/72224899.ext.json)
+
+---
 
 ### Weather today
 
@@ -298,21 +348,27 @@ He was the President of the Asian Marketing Federation (AMF) from 2018 to 2020 a
 
 ---
 
-### கடன் மறுசீரமைப்புக்கு பின் மேலும் உதவும் அமெரிக்கா
+### America to help further after debt restoration
 
 *2024-07-02 01:10:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-மறுசீரமைப்புக்கு-பின்-மேலும்-உதவும்-அமெரிக்கா/175-339730) · `ta`
 
-கடன் மறுசீரமைப்பு நிறைவடைந்த பின்னர் இலங்கையின் பொருளாதார விவகாரங்களுக்கு மேலும் ஆதரவளிக்க தயாராக இருப்பதாக அமெரிக்கா உறுதியளித்துள்ளது.
+The US has pledged additional aid to Sri Lanka post-debt restructuring, with Deputy Secretary Robate Caproth affirming international support for Sri Lanka's economic recovery during a meeting with Finance Minister Shehan Semasinghe.
 
-நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்கவை நேற்று நிதியமைச்சில் சந்தித்து கலந்துரையாடிய போதே, திறைசேரியின் ஆசிய விவகாரங்களுக்கான பிரதி உதவிச் செயலாளர் றொபேட் கப்ரோத் இதனைக் குறிப்பிட்டுள்ளார்.
+🟩
 
-இலங்கையின் பொருளாதார ஸ்திரத்தன்மை சரியான திசையில் பயணிப்பதால், ஏனைய நாடுகள் கடன் மறுசீரமைப்பு தொடர்பில், தமது உடன்பாட்டை வெளிப்படுத்தியுள்ளன என அவர் தெரிவித்துள்ளார்.
+The US has promised to further support Sri Lanka's economic affairs after the debt restructuring is over.
 
-இதன்போது, நிதி இராஜாங்க அமைச்சர் கடன் மறுசீரமைப்பு செயல்முறைக்கு, அமெரிக்க அரசாங்கம் வழங்கிய ஆதரவிற்கு தமது நன்றியை வெளிப்படுத்தியுள்ளார். (a)
+Deputy Secretary of State for Asian Affairs Robate Caproth made this statement when he met with Finance Minister Shehan Semasinghe at the Finance Ministry yesterday.
+
+He said other countries have expressed their agreement on debt restructuring as Sri Lanka's economic stability is traveling in the right direction.
+
+Meanwhile, the Minister of Finance expressed his gratitude for the support of the US government for the debt restructuring process.. (A)
 
 ◼️
 
 [Data](articles/d6281bea.json)
+
+[Extended Data](ext_articles/d6281bea.ext.json)
 
 ---
 
@@ -578,21 +634,31 @@ The guest artiste at the event was the popular musician T. M. Jayaratne, who was
 
 ---
 
-### හියුමන් ඉමියුනොග්ලොබියුලින් එන්නත ගැන කෙහෙළිය ඇමති මණ්ඩලය නොමග යවලා
+### Keheliya candidates to mislead Human Emmoglobulin vaccine
 
 *2024-07-01 22:34:24* · [`adalk`](https://www.ada.lk/breaking_news/හියුමන්-ඉමියුනොග්ලොබියුලින්-එන්නත-ගැන-කෙහෙළිය-ඇමති-මණ්ඩලය-නොමග-යවලා/11-410551) · `si`
 
-ප්‍රමිතියෙන් තොර හියුමන් ඉමියුනොග්ලොබියුලින් නමැති ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධියේදී හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල  ආමාත්‍ය මණ්ඩලයට වැරදි තොරතුරු සපයා අමාත්‍ය මණ්ඩලය නොමඟ යවා ඇතැයි නීතිපතිවරයා අභියාචනාධිකරණයට අද (01) දැනුම් දුන්නේය.
+The Attorney General accused the Cabinet of misleading Health Minister Keheliya Rambukwella regarding financial details on the Human Immunulin vaccine's antibodies. The Court of Appeal is reviewing a petition against this, with the Deputy Solicitor General highlighting the lack of proper authorization for the Cabinet's actions. The case involves allegations of misinformation and improper handling of sensitive health information.
 
-ගබඩාවල ඖෂධ තිබියදී ඖෂධයක් හිඟ බව බොරුවට මවා පාමින් අමාත්‍ය මණ්ඩලයට කරුණු ඉදිරිපත් කර ඇතැයි නීතිපතිවරයා වෙනුවෙන් පෙන්වා දුන් නියෝජ්‍ය සොලිසිටර් ජෙනරාල් නිර්මලන් විග්නේෂ්වරන් මහතා මාලිගාකන්ද මහෙස්ත්‍රාත්වරිය සිය`ථ කරුණු සොයා බලා නිවැරදි නියෝගයක් දී ඇතැයිද කීය.
+🟩
 
-ප්‍රමිතියෙන් තොර හියුමන් ඉමියුනොග්ලොබියුලින් නමැති ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධියට අදාළ නඩු විභාගය අවසන් වන තෙක් තමන් රක්ෂිත බන්ධනාගාර ගත කිරීමට මාලිගාකන්ද මහේස්ත්‍රාත්වරිය දුන් නියෝගය බල රහිත කර තමන්ට ඇප නියම කරන්නැයි ඉල්ලා ගොනු කළ රිට් පෙත්සම විභාගය සඳහා කැඳවූ අවස්ථාවේදී මේ බව දැනුම් දුන්නේය.
+The Attorney General has informed the Court of Appeal today (01), the Cabinet of Ministers have misled the Cabinet of Health Minister Keheliya Rambukwella to provide financial information on the antibodies of the Atoglats of the antibodies of Human Immunulin.
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ගොනු කර ඇති මෙම පෙත්සමේ වගඋත්තරකකරුවන් වශයෙන් රහස් පොලිසියේ අධ්‍යක්‍ෂවරයා ඇතු`ථ පිරිසක් නම් කර ඇත.
+Deputy Solicitor General Nirmalan Wigneswaran, pointed out that the Cabinet has given the Cabinet of drugs, has given him a right order.
+
+The Rit petition filed by the injection of Human Immunulin, which was held to be remanded, was sent to the examination, was taken to the examination.
+
+The Director of the CID has been named as the respondents in the petition Minister Keheliya Rambukwella.
+
+The petition was considered by the Court of Appeal, Judge Nissanka Bandula Karunaratne and Justice Shashi Mahendran.
+
+The petitioner stated that the Deputy Solicitor General Nirmalan Wigneswaran, who appeared with the Attorney General, has taken a cabinet and has taken a cabinet to the Attorney General.
 
 ...
 
 [Data](articles/7ca8f548.json)
+
+[Extended Data](ext_articles/7ca8f548.ext.json)
 
 ---
 
@@ -2243,55 +2309,5 @@ Hirunika Premachandra is the ninth culprit in the case, and she has filed a crim
 [Data](articles/123cfe20.json)
 
 [Extended Data](ext_articles/123cfe20.ext.json)
-
----
-
-### Hirunika's Man's appeal
-
-*2024-07-01 14:19:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிக்காவின்-மேன்-முறையீடுக்கு-திகதி-குறிப்பு/175-339697) · `ta`
-
-Hirunika Premachandra, a former Colombo District Parliamentarian, had her bail petition postponed by the Colombo High Court. She was sentenced to three years in prison for kidnapping and assaulting a young man but appeals this decision. The Attorney General is ordered to appear on July 4th regarding her bail plea. Found guilty of 18 charges, including abduction and assault, she claims innocence and is the ninth defendant in the case.
-
-🟩
-
-The bail petition filed on behalf of former Colombo District Parliamentarian Hirunika Premachandra (Pending Pending) has been postponed by the Colombo High Court on Monday (01).
-
-Hirunika Premachandra, who was sentenced to three years in prison for kidnapping the youth in the case of a devotee vehicle, has appealed to the Court of Appeal by challenging the sentence imposed by the Colombo High Court.
-
-When the bail plea was taken up in the presence of Colombo High Court Judge Amal Ranarajah, the Attorney General was ordered to appear in court on July 4.
-
-Hirunika Premachandra was found guilty of 18 allegations, including abducting, attacking and attacking a young man with a Defender vehicle in Dematagoda.
-
-Hirunika Premachandra is the ninth culprit in the case, and she has filed a criminal case against her as she admits that she is innocent.. Hirunika Premachandra, who was found guilty of it, was sentenced to three years in prison and was sentenced to 20 thousand rupees each.
-
-◼️
-
-[Data](articles/726df14d.json)
-
-[Extended Data](ext_articles/726df14d.ext.json)
-
----
-
-### A massive recession for McCron in the election
-
-*2024-07-01 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198360) · `si`
-
-In the French general election, Murrows La Penn's Target Party won, while McCron's UPFA suffered a significant decline. Thousands protested in Paris against the right-wing victors, leading to clashes with authorities.
-
-🟩
-
-Murrows La Penn's Target Party has passed the French general election.
-
-The UPFA, the UPFA, the UPFA party of the McCron party has taken a huge decline.
-
-Meanwhile, thousands of people gathered to the capital city of Paris against the victory of the right hostener party.
-
-A conflict between them and riot officials also occurred.
-
-◼️
-
-[Data](articles/41d123fc.json)
-
-[Extended Data](ext_articles/41d123fc.ext.json)
 
 ---

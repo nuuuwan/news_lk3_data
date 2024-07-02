@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 12:53:21**
+As of **2024-07-02 13:04:38**
 
 ## Newspaper Stats
 
-*Scraped **33,261** Articles*
+*Scraped **33,263** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 1,856
 economynextcom | 1,943
 dailyftlk | 2,054
 adalk | 2,959
-adaderanalk | 3,789
+adaderanalk | 3,790
 tamilmirrorlk | 3,939
 dailymirrorlk | 4,733
 virakesarilk | 5,188
-adaderanasinhalalk | 5,504
+adaderanasinhalalk | 5,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,259 (100.0%) of 33,261 articles have been extended.
+33,261 (100.0%) of 33,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### ජම්පටා වීදියේ හදිසි මෙහෙයුමක්
+
+*2024-07-02 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198400) · `si`
+
+වෙරළබඩ පොලිස් වසමට අයත් ජම්පටා වීදිය ප්‍රදේශය ආවරණය වන පරිදි සිදුකළ ක්ෂණික විශේෂ මෙහෙයුමකදී සැකකරුවන් 34ක් ඇතුළු පුද්ගලයින් 49 දෙනෙකු අත්අඩංගුවට ගත් බව වෙරළබඩ පොලීසිය කියයි.
+
+හෙරොයින්, අයිස් හා ගංජා ඇතුළු මත්ද්‍රව්‍ය සමග අත්අඩංගුවට ගත් පුද්ගලයින් 13ක් මෙන්ම වරෙන්තුකරුවන් දෙදෙනෙක් ද ඒ අතර වන බව පොලීසිය කීය.
+
+යුක්තිය මෙහෙයුමට සමගාමීව අපරාධ වැළැක්වීමේ විශේෂ රාජකාරී යටතේ කොච්චිකඩේ පල්ලිය අසලින් සහ ජම්පටා විදිය බෝධිය අසලින් මාර්ගය වසා පැය 2කට ආසන්න කාලයක් සිදුකළ මෙහෙයුමේදී මෙම සැකකරුවන් අත්අඩංගුවට ගත් බව පොලීසිය පැවසීය.
+
+මෙම විශේෂ මෙහෙයුම සඳහා පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් අට දෙනෙකු සහ පොලිස් නිලධාරීන් තිස් දෙනෙකු මෙන්ම මත්ද්‍රව්‍ය  සම්බන්ධයෙන් විශේෂ පුහුණුවලත් පොලිස් නිල සුනඛයන්ද සහභාගී කර ගැනිණි .
+
+◼️
+
+[Data](articles/c6670d7b.json)
+
+---
+
+### Maximum retail price for medicines?
+
+*2024-07-02 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100237/maximum-retail-price-for-medicines) · `en`
+
+The National Medicines Regulatory Authority (NMRA) Act has been amended in order to introduce a price mechanism for determining the maximum retail price of medicines.
+
+This measure has been taken as per the instructions Minister of Health Ramesh Pathirana in view of ensuring the transparency and fairness in the pricing of pharmaceuticals.
+
+Accordingly, a method has been introduced for determining the maximum retail price of particular drug, considering their dosage form and strength.
+
+The gazette notification related to the matter has also been published to formalize these changes.
+
+◼️
+
+[Data](articles/b2a3d846.json)
+
+---
 
 ### Interim order issued against Dayasiri’s expulsion from SLFP
 
@@ -48,19 +84,27 @@ On September 05, 2023, MP Dayasiri Jayasekara was ousted from the SLFP with imme
 
 [Data](articles/5d41054a.json)
 
+[Extended Data](ext_articles/5d41054a.ext.json)
+
 ---
 
-### මන්ත්‍රී ධුරයක් හිස් වී ඇති බව කථානායක දැනුම්දෙයි
+### Speaker notifies that a seat was emptied
 
 *2024-07-02 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198399) · `si`
 
-ආර්. සම්පන්දන් මහතාගේ අභාවය හේතුවෙන් ජුනි 30 වනදා සිට පාර්ලිමේන්තුවේ මන්ත්‍රි ධුරයක පුරප්පාඩුවක් ඇතිවී තිබෙන බව කථානායක මහින්ද යාපා අබේවර්ධන මහතා දැනුම් දුන්නේය.
+Mr. Sampanthan's death has led to a parliamentary vacancy since June 30, as announced by Speaker Mahinda Yapa Abeywardena. The public is invited to pay their respects at the Parliament complex tomorrow between 2 and 4 PM.
 
-අවසන් ගෞරව දැක්වීම සඳහා ඒ මහතාගේ දේහය හෙට දහවල් 2 සිට 4 දක්වා පාර්ලිමේන්තු සංකීර්ණයේ තැන්පත් කිරීමට නියමිත බවද කථානායකවරයා පැවසීය.
+🟩
+
+R. Due to the death of Mr. Sampanthan, a vacancy in Parliament has been reported from June 30, Mr. Speaker Mahinda Yapa Abeywardena.
+
+He is to be placed at the Parliament complex tomorrow 2 to 4 afternoon to pay his last respects.
 
 ◼️
 
 [Data](articles/f2ae0392.json)
+
+[Extended Data](ext_articles/f2ae0392.ext.json)
 
 ---
 
@@ -2185,51 +2229,5 @@ Accordingly, she hinted that today's illegal assets to the Investigation Divisio
 [Data](articles/98a4fb16.json)
 
 [Extended Data](ext_articles/98a4fb16.ext.json)
-
----
-
-### Discussions to compensate for the dead fishermen
-
-*2024-07-01 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198378) · `si`
-
-Fishermen's deaths due to a floating object in their vessel were discussed by Fisheries Minister Douglas Devananda. He mentioned the possibility of rescue despite initial statements, highlighting the vessel's distance from land and the challenge of reaching it with a helicopter.
-
-🟩
-
-DVONE - 5 Fisheries Minister Douglas Devananda says that the families of fishermen who have died in the multi-day fishing vessel.
-
-This unfortunate death is said to have taken place because of a solution in a bottle floating in the sea.
-
-Fisheries Minister Douglas Devananda says that the Vessel Observatory in the Devil-5 vessel operated by the vessel.
-
-The Minister said that although a statement had been made, there was a chance to rescue.
-
-Duville - 5 nautical miles from land is 360 nautical miles away from land,
-
-The Minister further stated that the vessel had been a vessel for about four times the distance to travel to a helicopter.
-
-◼️
-
-[Data](articles/a1a0b37d.json)
-
-[Extended Data](ext_articles/a1a0b37d.ext.json)
-
----
-
-### US Supreme Court rules Trump has immunity for official, not private acts
-
-*2024-07-01 21:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100225/us-supreme-court-rules-trump-has-immunity-for-official-not-private-acts) · `en`
-
-The U.S. Supreme Court found on Monday that Donald Trump cannot be prosecuted for official actions taken as president, but can for private acts, in a landmark ruling recognizing for the first time any form of presidential immunity from prosecution.
-
-The justices, in a 6-3 ruling written by Chief Justice John Roberts, threw out a lower court’s decision rejecting Trump’s claim of immunity from criminal charges involving his efforts to undo his 2020 election loss to Joe Biden. The six conservative justices were in the majority. Its three liberals dissented.
-
-“We conclude that under our constitutional structure of separated powers, the nature of presidential power requires that former president have some immunity from criminal prosecution for official acts during his tenure in office,” Roberts wrote.
-
-...
-
-[Data](articles/30f4be77.json)
-
-[Extended Data](ext_articles/30f4be77.ext.json)
 
 ---

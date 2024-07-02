@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 20:05:04**
+As of **2024-07-02 20:19:48**
 
 ## Newspaper Stats
 
-*Scraped **33,339** Articles*
+*Scraped **33,340** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,857
 economynextcom | 1,948
 dailyftlk | 2,054
-adalk | 2,971
+adalk | 2,972
 adaderanalk | 3,803
 tamilmirrorlk | 3,942
 dailymirrorlk | 4,733
@@ -26,25 +26,33 @@ adaderanasinhalalk | 5,523
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,338 (100.0%) of 33,339 articles have been extended.
+33,339 (100.0%) of 33,340 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### අවු. 16ට අඩු දැරියන්ගේ අපයෝජන සිද්ධීන්වලින් සියයට 85ක්ම ප්‍රේම සබඳතා මතයි
+### Au. 85 percent of the abuse of girls under 16 are on romance
 
 *2024-07-02 19:36:22* · [`adalk`](https://www.ada.lk/breaking_news/අවු--16ට-අඩු-දැරියන්ගේ-අපයෝජන-සිද්ධීන්වලින්-සියයට-85ක්ම-ප්‍රේම-සබඳතා-මතයි/11-410580) · `si`
 
-අවුරුදු 16ට අඩු දැරියන්ගේ අපයෝජන සිද්ධීන් සැලකීමේදී  85%ක් පමණ සිදුව තිබෙන්නේ ප්‍රේමසම්බන්ධතා මත බවට නිරීක්ෂණය වී තිබෙන බවත්, වයස අවුරුදු 16 ට අඩු නිසා කැමැත්ත යන කාරණය නීතියේදී සලකා නොබලන බවත් පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන්  කරයි.
+In 2021, 85% of girl abuse cases under 16 went unreported. A suspect named Rajiv Ravina Jayatilleka was arrested for abusing and selling victims online. Despite insufficient evidence, the police urged reporting such incidents to ensure justice.
 
-2021 වසරේදි එක්තරා දැරියක් අපයෝජනයට  ලක් කර පසුව එම පුද්ගයා විසින් වෙනත් පුද්ගලයන්ට අන්තර්ජාලය හරහා විකිණිමේ කටයුතුවල නිරත වී තිබෙන බවද පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා සඳහන් කළේය.ඔහු වැඩි දුරටත් මෙසේ සඳහන් කළේය.
+🟩
 
-&ගල්කිස්ස ප්‍රදේශයේදි තමයි මේ සිද්ධිය සිදුවෙලා තියෙන්නේ. පසුව මෙම සැකකරු අත්අඩංගුවට ගත්තා.  ඉන්පසුව පානදුර මහධිකරණයේදි මෙම පුද්ගලයාට එරෙහිව නඩුවක් විභාග උනා. ඒ සැකකරුට පසුගිය සතියෙදි දඬුවම් ලබා දීලා තිබෙනවා. මොහුගේ නම රජිව් රවිනාත් ජයතිලක. මොහුට වසර තිස්පහක සිරදඬුවමක් ගරු අධිකරණය විසින් ලබා දීලා තියෙනවා.
+The police media division states that about 85% of the abuse of the abuse of girls under 16 years of age have not been considered and less than 16 years of age.
+
+According to the DIG Talduuwa, he said that the person had been abused in 2021 and then selling other people online. He added:
+
+The incident is the case in Mount Lavinia. The suspect was later arrested.The victim was heard against this person in Panadura Magistrate. The suspect has been punished last week. His name is Rajiv Ravina Jayatilleka. The court has been given by the court in prison.
+
+If there is insufficient evidence to make sure, the police can be able to work. Therefore, we urge the masses if there is no information about such incidents, give the police. The evidence is that the incident can be confirmed, and we have a great responsibility regarding. Therefore, action should be taken to prevent crimes against children.
 
 ...
 
 [Data](articles/823b29f7.json)
+
+[Extended Data](ext_articles/823b29f7.ext.json)
 
 ---
 
@@ -135,6 +143,22 @@ State Chief Minister Yogi Adityanath ordered an investigation into the incident.
 [Data](articles/5dcea2f8.json)
 
 [Extended Data](ext_articles/5dcea2f8.ext.json)
+
+---
+
+### චීන ජනපති අස්තානා නුවරට ළඟාවෙයි
+
+*2024-07-02 18:16:25* · [`adalk`](https://www.ada.lk/breaking_news/චීන-ජනපති-අස්තානා-නුවරට-ළඟාවෙයි/11-410573) · `si`
+
+චීන ජනාධිපති ෂී ජින්පිං මහතා කසක්ස්ථානයේ අස්තානා අගනුවරට පැමිණෙයි. හෙතෙම විශේෂ ගුවන් යානයකින් අද (02) දහවල් එහි ළඟාවිය. කසක්ස්ථාන ජනාධිපති Kassym-Jomart Tokayev මහතා ගුවන් තොටුපළේ දී ෂී ජින්පිං මහතා හරසරින් පිළිගත්තේය.
+
+චීන ජනාධිපතිවරයා කසක්ස්ථානයට පැමිණියේ ෂැංහයි සහයෝගිතා සංවිධානයේ සාමාජික රටවල කෘත්‍යාධිකාරි කවුන්සිලයේ 24 වැනි සැසියට සහභාගි වීම සහ එරට නිල සංචාරයක නිරත වීම සඳහා යි.
+
+කසක්ස්ථාන ගුවන් කලාපයට ඇතුළු වූ පසු ෂී ජින්පිං මහතා පැමිණි ගුවන් යානයේ ආරක්ෂාව සඳහා එරට හමුදා ගුවන් යානා 2 ක් යොදවා තිබිණ.
+
+◼️
+
+[Data](articles/d5c602bf.json)
 
 ---
 
@@ -2319,29 +2343,5 @@ The company stated that even though the global market prices are in the upward t
 [Data](articles/e7e0cadf.json)
 
 [Extended Data](ext_articles/e7e0cadf.ext.json)
-
----
-
-### Litro gas prices will be reduced
-
-*2024-07-02 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198392) · `si`
-
-Gas prices have decreased: a 12.5 kg cylinder now costs Rs. 100 less, a 5 kg one also saw a reduction, and a 2.3 kg cylinder is priced at Rs. 694, down from Rs. 712. These changes took effect at midnight.
-
-🟩
-
-Accordingly, the price of a 12.5 kilogram has been reduced by Rs. 100.
-
-The price of a 5 kghony gas cylinder has been reduced by Rs.
-
-The new price of a 2.3-kilo of domestic gas cylinder is Rs. 694 and a cylinder has been reduced by 18 rupees.
-
-The cost of reducing the price is currently inaugurated from midnight.
-
-◼️
-
-[Data](articles/d10c8376.json)
-
-[Extended Data](ext_articles/d10c8376.ext.json)
 
 ---

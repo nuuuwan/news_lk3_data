@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 14:53:49**
+As of **2024-07-02 15:05:48**
 
 ## Newspaper Stats
 
-*Scraped **33,289** Articles*
+*Scraped **33,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,794
 tamilmirrorlk | 3,939
 dailymirrorlk | 4,733
 virakesarilk | 5,198
-adaderanasinhalalk | 5,510
+adaderanasinhalalk | 5,511
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,289 (100.0%) of 33,289 articles have been extended.
+33,289 (100.0%) of 33,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### කෙහෙළියගේ පෙත්සමේ තීරණය අදත් කල්යයි
+
+*2024-07-02 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198408) · `si`
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් තමන්ව නඩු විභාගය අවසන් වන තෙක් රක්ෂිත බන්ධනාගාර ගත කිරීමට මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය දී ඇති නියෝගය බලරහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ඉදිරිපත් කළ පෙත්සම විභාගයට ගැනීමට අවසර දෙන්නේ ද? නැද්ද? යන තීරණය සහ ඔහු ඇප මත මුදා හරින ලෙස කර තිබෙන ඉල්ලීම පිළිබඳ නියෝගය ලබන අගෝස්තු මස 01 වනදා ප්‍රකාශයට පත් කරන බව අභියාචනාධිකරණය නියෝග කළේය.
+
+කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ඉදිරිපත් කළ පෙත්සමක් දීර්ඝ ලෙස කරුණු සලකා බැලීමෙන් අනතුරුව අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල විසින් එම නියෝගය ප්‍රකාශයට පත් කළහ.
+
+◼️
+
+[Data](articles/5f022246.json)
+
+---
 
 ### A dead body found in a culvert
 
@@ -1722,15 +1736,13 @@ At that point, the number 6 handed over to the ground as a batsman, Chamindu Wic
 
 ECONOMYNEXT – Sri Lanka has recorded a 706 million US dollar current account surplus in the first quarter of 2024 as the financial account recorded a deficit amid private and official debt repayments and reserve collections, data show.
 
-Sri Lanka has recorded current account surpluses, since the last quarter of 2022 when monetary stability is reached.
+Sri Lanka has recorded current account surpluses, since the last quarter of 2022 when monetary stability was reached and capital inflows dried up.
 
 The current account is a mirror image of the financial and capital accounts, subject to errors and omissions.
 
 The way external accounting is calculated, only the balance of payments surplus and deficit (as defined) can be accurately measured.
 
 Whether there is a balance of payments deficit or surplus depends on the note-issue activities of the central bank.
-
-When money is printed through reverse repo or standing facilities, regardless of a budget deficit or surplus, there are foreign exchange shortages, making it difficult to make foreign payments, especially in the capital account, leading to a run down of reserve and eventual default.
 
 ...
 
@@ -2257,27 +2269,5 @@ Meanwhile, the Minister of Finance expressed his gratitude for the support of th
 [Data](articles/d6281bea.json)
 
 [Extended Data](ext_articles/d6281bea.ext.json)
-
----
-
-### The Adimatha Festival of Madhu Mother
-
-*2024-07-02 01:03:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மடு-அன்னையின்-ஆடிமாதத்-திருவிழா-இன்று/175-339729) · `ta`
-
-To celebrate the centenary of the Madhu Mother, a special stamp featuring her image was launched. The event, organized by Anthony Gnanaprakasam, saw the Archbishop of Mannar, Emmanuel Fernando, receive the stamp from Postmaster Chancellor Ruwan Satkumara.
-
-🟩
-
-In the meantime, the stamp of the Madhu Mother's image was released yesterday to mark the centenary of the Madhu Mother.
-
-The event was held yesterday morning under the arrangement of Anthony Gnanaprakasam, the author of the Madhu Thirutha.
-
-Special stamp was presented by Postmaster Chancellor Ruwan Satkumara to the Archbishop of Mannar, Emmanuel Fernando.. (A)
-
-◼️
-
-[Data](articles/ab8abf27.json)
-
-[Extended Data](ext_articles/ab8abf27.ext.json)
 
 ---

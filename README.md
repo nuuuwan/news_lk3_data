@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 09:54:18**
+As of **2024-07-02 10:06:54**
 
 ## Newspaper Stats
 
-*Scraped **33,216** Articles*
+*Scraped **33,219** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,50 +15,96 @@ newsfirstlk | 363
 islandlk | 1,856
 economynextcom | 1,940
 dailyftlk | 2,054
-adalk | 2,954
+adalk | 2,955
 adaderanalk | 3,781
 tamilmirrorlk | 3,931
 dailymirrorlk | 4,733
 virakesarilk | 5,178
-adaderanasinhalalk | 5,493
+adaderanasinhalalk | 5,495
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,212 (100.0%) of 33,216 articles have been extended.
+33,216 (100.0%) of 33,219 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### மாலையில் அல்லது இரவில் மழைக்கு வாய்ப்பு
+### ජනපතිගෙන් විශේෂ ප්‍රකාශයක්
+
+*2024-07-02 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198390) · `si`
+
+විදේශ ණය ප්‍රතිව්‍යුහගත කිරීමේ ගිවිසුම් ක්‍රියාත්මක කිරීම පිළිබඳව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ වනවිට පාර්ලිමේන්තුවේදී විශේෂ ප්‍රකාශයක් සිදුකරමින් සිටියි.
+
+◼️
+
+[Data](articles/be2ab5fb.json)
+
+---
+
+### යතුරුපැදියේ ගිය මාරක ගමන
+
+*2024-07-02 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198389) · `si`
+
+ගලේවෙල පොලිස් වසමේ ඒ-06 මාර්ගයේ කුරුණෑගල දෙස සිය දඹුල්ල දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කරගත නොහැකිව මාර්ගයේ මංතීරු වෙන් කිරීමට යොදා ඇති කොටසක ගැටී සිදුවූ අනතුරකින් දෙදෙනකු මියගොස් තිබේ.
+
+එම අනතුරු සිදුවන අවස්ථාවේදී යතුරුපැදිවේ තිදෙනෙතු ගමන් කර ඇති බව පොලීසිය පවසයි.
+
+එක් පසු පැදිකරුවෙකු බරපතළ තුවාල ලබා දඹුල්ල රෝහලේ ප්‍රතිකාර ලබන බව පොලීසිය සඳහන් කළේය.
+
+අනතුරින් මියගොස් ඇත්තේ, ලග්ගල හා මාතලේ ප්‍රදේශවල පදිංචිව සිටි වයස අවුරුදු 29 හා 40ක් වූ පුද්ගලයින් දෙදෙනෙකි.
+
+මේ අතර කුරුණෑගල - පුත්තලම මාර්ගයේ කෙළිමුණේ ප්‍රදේශයේදී යතුරුපැදියක් හා ටිපර් රථයක් මුහුණට මුහුණ ගැටී සිදුවූ අනතුරකින් 24 හැවිරිදි තරුණයෙක් ජීවිත්කෂයට පත්ව තිබේ.
+
+අනතුර සම්බන්ධයෙන් ටිපර් රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර වාරියපොළ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/57e946a9.json)
+
+---
+
+### Chance for rain in the evening or at night
 
 *2024-07-02 09:29:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாலையில்-அல்லது-இரவில்-மழைக்கு-வாய்ப்பு/175-339735) · `ta`
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+Expect heavy rains in Western, Sabaragamuwa, North Western Provinces, along with Kandy, Nuwara Eliya, Galle, and Matara districts. Light showers possible in Uva and Eastern Provinces evenings/nights. Strong winds up to 40-50km/h in Central Highlands' western slopes, Northern, North Central, North Western Provinces, and Trincomalee, Hambantota, Moneragala districts.
 
-ஊவா மற்றும் கிழக்கு மாகாணங்களில் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+🟩
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது. R
+Heavy rains are expected in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
+
+In some places in the Uva and the Eastern Provinces, there is a possibility of rainfall or thunderstorms in the evening or at night.
+
+Heavy winds are likely to blow up to 40-50 km / h from time to time in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.. Remble
 
 ◼️
 
 [Data](articles/190e4381.json)
 
+[Extended Data](ext_articles/190e4381.ext.json)
+
 ---
 
-### எரிவாயு விலையில் மாற்றம்?
+### Change in gas prices?
 
 *2024-07-02 09:28:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிவாயு-விலையில்-மாற்றம்/175-339734) · `ta`
 
-உலக சந்தையில் எரிவாயு விலையில் ஏற்பட்ட மாற்றத்திற்கு அமைய இலங்கையிலும் எரிவாயு விலையில் திருத்தம் அறிவிக்கப்படும் என லிட்ரோ நிறுவனத்தின் தலைவர் முதித பீரிஸ் தெரிவித்தார்.
+Sri Lanka's Litro Company will announce gas price changes based on global market fluctuations. The last revision occurred on June 4th.
 
-மாதாந்திர எரிவாயு விலை திருத்தத்தின்படி, ஜூன் 4 ஆம் திகதி இறுதியாக எரிவாயு விலை திருத்தம் செய்யப்பட்டமை குறிப்பிடத்தக்கது. R
+🟩
+
+Litro Company Chairman Muditha Peiris said the amendment to the gas prices would be announced in Sri Lanka in accordance with the change in gas prices in the world market.
+
+According to the monthly gas prices, the gas prices were finally revised on June 4. Remble
 
 ◼️
 
 [Data](articles/aaae5700.json)
+
+[Extended Data](ext_articles/aaae5700.ext.json)
 
 ---
 
@@ -165,6 +211,26 @@ The Deputy General Manager said that steps have been taken to commence the recon
 [Data](articles/5de13191.json)
 
 [Extended Data](ext_articles/5de13191.ext.json)
+
+---
+
+### සම්බන්ධනගේ අභාවය නිසා පාර්ලිමේන්තු කටයුතු වල වෙනසක්
+
+*2024-07-02 07:45:52* · [`adalk`](https://www.ada.lk/breaking_news/සම්බන්ධනගේ-අභාවය-නිසා-පාර්ලිමේන්තු-කටයුතු-වල-වෙනසක්/11-410553) · `si`
+
+අභාවප්‍රාප්ත හිටපු විපක්ෂ නායක ආර්.සම්පන්දන් මහතාගේ දේහය, අවසන් ගෞරවය දැක්වීම පිණිස ජූලි 3 වැනි බදාදා ‍ප.ව 2.00 සිට ප.ව 4.00 දක්වා පාර්ලිමේන්තු සංකීර්ණයේ තැන්පත් කිරීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය කෙරේ...
+
+ඒ හේතුවෙන් ජූලි 03 වැනිදා පාර්ලිමේන්තු රැස්වීම් නොපැවැත්වීමටත් පක්ෂ-විපක්ෂ එකඟත්වය
+
+විදේශ ණය ප්‍රතිව්‍යුහගත කිරීමේ ගිවිසුම් ක්‍රියාත්මක කිරීම සම්බන්ධයෙන් ජනාධිපතිවරයාගේ ප්‍රකාශය අද පාර්ලිමේන්තුවට
+
+හෙට (02) දින පැවැත්වීමට නියමිතව තිබූ  මීට අදාළ යෝජනා සම්මතය පිළිබඳ විවාදය නොපැවැත්වීමටත් පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණයක්
+
+අභාවප්‍රාප්ත හිටපු විපක්ෂ නායක සහ ඉලංකෙයි තමිල් අරසු කච්චි (ITAK) පක්ෂයේ නායක පාර්ලිමේන්තු මන්ත්‍රී ගරු ආර්.සම්පන්දන් මහතාගේ දේහය අවසන් ගෞරවය දැක්වීම පිණිස ජූලි 03 වැනිදා පාර්ලිමේන්තු පරිශ්‍රයට රැගෙන ඒමටත් ඒ හේතුවෙන් එදින පාර්ලිමේන්තු රැස්වීම නොපැවැත්වීමටත් ඊයේ (01) පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී එකඟත්වය පළවූ බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
+
+...
+
+[Data](articles/2dad5343.json)
 
 ---
 
@@ -542,19 +608,27 @@ He was the President of the Asian Marketing Federation (AMF) from 2018 to 2020 a
 
 ---
 
-### ’பொருளாதார வேலைத்திட்டத்தை தவிர்க்க முடியாது’
+### The economic program cannot be avoided
 
 *2024-07-02 01:25:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-வேலைத்திட்டத்தை-தவிர்க்க-முடியாது/175-339732) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தலைமையில் தற்போதைய அரசாங்கத்தின் பொருளாதார வேலைத்திட்டத்திற்குப் புறம்பாக செயற்பட எவரேனும் கனவு கண்டால், இந்த நாடு மீண்டும் வீழ்ச்சியடைவதைத் தடுக்க முடியாது என்று போக்குவரத்து, நெடுஞ்சாலைகள் மற்றும் வெகுசன ஊடக அமைச்சர் கலாநிதி பந்துல குணவர்தன தெரிவித்தார்.
+Dr. Bandula Gunawardena emphasized that adhering to the current government's economic plan is crucial for Sri Lanka's stability. He highlighted the transparency of the government's operations, including its economic agreements with foreign nations, which are all disclosed in Parliament. He warned against attempts to bypass this plan, stating that doing so would lead to the country's downfall.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் பந்துல குணவர்தன இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-ஒவ்வொரு வருடத்திற்கும் ஒரு முறையான திட்டத்தை நாங்கள் தயாரித்துள்ளோம். இவ்வாறானதொரு வேலைத்திட்டத்தை அரசாங்கம் அமுல்படுத்தும் அதேவேளை, ஜனாதிபதி வெளிநாடுகளுடன் உடன்படிக்கைகளை மேற்கொண்டு வருகின்றார். இதில் எந்தவொரு ஒப்பந்தமும் வேலைத்திட்டமும் மறைக்கப்பட்டதல்ல. ஜனாதிபதி சகல தகவல்களையும் பாராளுமன்றத்தில் சமர்ப்பித்துள்ளார்.
+Transport, Highways and Media Minister Dr. Bandula Gunawardena said that if anyone dreams of acting as the economic program of the current government under the leadership of President Ranil Wickremesinghe, the country cannot prevent the fall.
 
-...
+Minister Bandula Gunawardena said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
+
+We have prepared a formal plan for each year. While the government is implementing such a program, the president is making agreements with foreign countries.. No contract or program is hidden in this. The President has submitted all the information in Parliament.
+
+Against that backdrop, no one can run the government except for this created economic plan. If someone dreamed that someone should rule out this economic plan, it should be said that the country cannot prevent the fall of the fall again.. (A)
+
+◼️
 
 [Data](articles/3a8caa58.json)
+
+[Extended Data](ext_articles/3a8caa58.ext.json)
 
 ---
 
@@ -1207,6 +1281,8 @@ Mr. Sampanthan’s body will be kept for public viewing at his residence at post
 ◼️
 
 [Data](articles/f533fdad.json)
+
+[Extended Data](ext_articles/f533fdad.ext.json)
 
 ---
 
@@ -2179,81 +2255,5 @@ The Jaffna District Fishermen's Co -operative Society has handed over a Mahajar 
 [Data](articles/22ce8113.json)
 
 [Extended Data](ext_articles/22ce8113.ext.json)
-
----
-
-### The flag of the Tamil party in Batticaloa
-
-*2024-07-01 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/187396) · `ta`
-
-The Tamil National Alliance (TNA) in Batticaloa mourned the loss of Sampanthan, flying its flag at half-staff and organizing a tribute event led by R. Sanakiyan. The TNA's action honors the legacy of the late Eelam Tamils' leaders, including Sampanthan, highlighting the collective grief within the Tamil nationalist community.
-
-🟩
-
-The Tamil National Alliance (TNA) Batticaloa district parliamentarian R. Sanakiyan said that the demise of Sampanthan has grieved all those in the Tamil nationalist area.
-
-The Tamil National Alliance (TNA) flag was flown in the Arakkam on Monday (01) in Batticaloa to pay tribute to the senior leaders of the late Eelam Tamils ​​and the leader of the Tamil National Alliance (TNA).
-
-The Batticaloa District Branch of the Batticaloa District was held at the office of Parliamentarian Chanakyan in Kaluwanchikudi.
-
-The tribute was held under the leadership of R. Sanakian, the leader of the Batticaloa District Branch of the Batticaloa District.
-
-The party flag was flew in half and a tribute banner was built. As well as Anjali.
-
-The news of the death of Chairman Sambandan Sir was received at around 11.30 pm on Sunday (30).
-
-◼️
-
-[Data](articles/45b8e2c1.json)
-
-[Extended Data](ext_articles/45b8e2c1.ext.json)
-
----
-
-### Modi condoles demise of veteran Sri Lankan Tamil leader Sampanthan
-
-*2024-07-01 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100220/modi-condoles-demise-of-veteran-sri-lankan-tamil-leader-sampanthan) · `en`
-
-Condoling the demise of veteran Sri Lankan Tamil leader R Sampanthan, Prime Minister Narendra Modi said on Monday that he “will always cherish fond memories of meetings” with him.
-
-Taking to social media platform X, PM Modi wrote, “My deepest condolences to the family and friends of veteran TNA leader R. Sampanthan. Will always cherish fond memories of meetings with him.”
-
-“He relentlessly pursued a life of peace, security, equality, justice, and dignity for the Tamil nationals of Sri Lanka. He will be deeply missed by his friends and followers in Sri Lanka and India,” PM Modi further said in his post.
-
-Sampanthan was a Sri Lankan Tamil politician, a lawyer, and also the leader of the Tamil National Alliance (TNA).
-
-Meanwhile, External Affairs Minister S Jaishankar also extended condolences to Sampanthan’s family and followers.
-
-...
-
-[Data](articles/bfa8050d.json)
-
-[Extended Data](ext_articles/bfa8050d.ext.json)
-
----
-
-### Edappadi Palanisamy, General Secretary of the AIADMK
-
-*2024-07-01 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/187400) · `ta`
-
-Edappadi Palanisamy, AIADMK's General Secretary, expressed condolences for the passing of Rajavarodayam Sambandan Iya, a significant figure in Sri Lankan Tamil politics. He highlighted Iya's contributions to the Eelam Tamil community and his foundational role in shaping future generations. Palanisamy prayed for Iya's soul to find peace under the divine protection of Lord Thiruvadi.
-
-🟩
-
-"I pray for the soul of the Sri Lankan Tamil party Rajavarodayam Sambandan Iya to rest in the shadow of Almighty Lord Thiruvadi," the AIADMK general secretary Edappadi Palanisamy said in a condolence message.
-
-In a condolence message issued by Edappadi K Palanisamy, the former chief minister of the AIADMK and the Leader of the Legislative Assembly.
-
-"Sri Lankan Tamil political history is the largest pillar of the Eelam Tamil community..
-
-His loss, the leader of the Tamil leader who has laid a perfect foundation to build the next generation of Sri Lankan Tamils, is seen as an irreplaceable in the history of Eelam Tamil
-
-I pray that the soul of the Almighty Almighty is in the shade of Thiruvadi. ”
-
-◼️
-
-[Data](articles/4a396b8a.json)
-
-[Extended Data](ext_articles/4a396b8a.ext.json)
 
 ---

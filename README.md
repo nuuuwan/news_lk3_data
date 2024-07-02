@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 18:53:55**
+As of **2024-07-02 19:04:38**
 
 ## Newspaper Stats
 
-*Scraped **33,327** Articles*
+*Scraped **33,329** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 1,857
 economynextcom | 1,948
 dailyftlk | 2,054
 adalk | 2,969
-adaderanalk | 3,802
+adaderanalk | 3,803
 tamilmirrorlk | 3,942
 dailymirrorlk | 4,733
 virakesarilk | 5,198
-adaderanasinhalalk | 5,522
+adaderanasinhalalk | 5,523
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,326 (100.0%) of 33,327 articles have been extended.
+33,327 (100.0%) of 33,329 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### ගෝල් කණ්ඩායමට තියුණු ජයක්
+
+*2024-07-02 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198420) · `si`
+
+ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ ජැෆ්නා කණ්ඩායම සහ ගෝල් අතර පැවති තරගය අවසාන පන්දුවේදී ජය ගැනීමට ගෝල් කණ්ඩායම සමත්විය.
+
+◼️
+
+[Data](articles/4817ba29.json)
+
+---
+
+### About 60 people feared dead in stampede at religious event in north India
+
+*2024-07-02 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100250/about-60-people-feared-dead-in-stampede-at-religious-event-in-north-india) · `en`
+
+About 60 people were feared dead in a stampede at a religious event in India’s northern state of Uttar Pradesh on Tuesday, authorities said.
+
+The stampede happened in a village in Hathras district, about 200 km (125 miles) southeast of national capital New Delhi.
+
+“I can’t give the exact toll at the moment, but it is approximately 60 ... There is a possibility that the toll may go up,” Manish Chikara, a district police spokesperson, told Reuters by phone.
+
+Unverified videos on social media showed bodies piled up on the ground outside a local hospital. Reuters could not immediately verify the videos.
+
+State Chief Minister Yogi Adityanath ordered an investigation into the incident.
+
+“Instructions have been given to the concerned officials to conduct relief and rescue operations on war footing and to provide proper treatment to the injured,” he wrote on X.
+
+◼️
+
+[Data](articles/5dcea2f8.json)
+
+---
 
 ### Laugfs gas prices to remain unchanged
 
@@ -2281,47 +2315,5 @@ Pricing Physical Regulatory Authority Act No. 05 of 2015
 [Data](articles/2b65b762.json)
 
 [Extended Data](ext_articles/2b65b762.ext.json)
-
----
-
-### Chance for rain in the evening or at night
-
-*2024-07-02 09:29:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாலையில்-அல்லது-இரவில்-மழைக்கு-வாய்ப்பு/175-339735) · `ta`
-
-Expect heavy rains in Western, Sabaragamuwa, North Western Provinces, along with Kandy, Nuwara Eliya, Galle, and Matara districts. Light showers possible in Uva and Eastern Provinces evenings/nights. Strong winds up to 40-50km/h in Central Highlands' western slopes, Northern, North Central, North Western Provinces, and Trincomalee, Hambantota, Moneragala districts.
-
-🟩
-
-Heavy rains are expected in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
-
-In some places in the Uva and the Eastern Provinces, there is a possibility of rainfall or thunderstorms in the evening or at night.
-
-Heavy winds are likely to blow up to 40-50 km / h from time to time in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.. Remble
-
-◼️
-
-[Data](articles/190e4381.json)
-
-[Extended Data](ext_articles/190e4381.ext.json)
-
----
-
-### Change in gas prices?
-
-*2024-07-02 09:28:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிவாயு-விலையில்-மாற்றம்/175-339734) · `ta`
-
-Sri Lanka's Litro Company will announce gas price changes based on global market fluctuations. The last revision occurred on June 4th.
-
-🟩
-
-Litro Company Chairman Muditha Peiris said the amendment to the gas prices would be announced in Sri Lanka in accordance with the change in gas prices in the world market.
-
-According to the monthly gas prices, the gas prices were finally revised on June 4. Remble
-
-◼️
-
-[Data](articles/aaae5700.json)
-
-[Extended Data](ext_articles/aaae5700.ext.json)
 
 ---

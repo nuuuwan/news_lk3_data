@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 21:06:05**
+As of **2024-07-02 21:19:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,345 (100.0%) of 33,346 articles have been extended.
+33,346 (100.0%) of 33,346 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -244,19 +244,27 @@ Senior leader of the Sri Lanka Tamil National Alliance (TNA) and former oppositi
 
 ---
 
-### දයාසිරිව ශ්‍රීලනිප මහ ලේකම් ධුරයෙන් නෙරපීම තහනම් කරයි
+### Dayasja prohibits the expel from the SLFP General Secretary
 
 *2024-07-02 18:31:54* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරිව-ශ්‍රීලනිප-මහ-ලේකම්-ධුරයෙන්-නෙරපීම-තහනම්-කරයි/11-410574) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ  මහලේකම් ධුරයෙන් හා පක්ෂ සාමාජිකත්වයෙන් නෙරපීම තහනම් කරමින්   පක්ෂයේ හිටපු සභාපති මෛත්‍රීපාල සිරිසේන මහතාට හා නියෝජ්‍ය ලේකම්වරයාට අතුරු තහනම් නියෝගයක් කොළඹ අතිරේක දිසා විනිසුරු අනුර වික්‍රමසිංහ මහතා අද (02) නිකුත් කළේය.
+Anura Wickremesinghe, Colombo Additional District Judge, issued an interim injunction against SLFP banning its Deputy Secretary Maithripala Sirisena and MP Dayasiri Jayasekera. This action came after the party's chairman, Maithripala Sirisena, received letters from the party's secretary and the Commissioner of Elections. Legal representatives argued the ban was illegal, leading to protests and counterarguments. The judge then ordered the implementation of the interim injunction based on the submissions.
 
-දයාසිරි ජයසේකර මහතා විසින් පක්‍ෂයේ හිටපු සභාපති මෙන්ම හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන සහ පක්ෂයේ නියෝජ්‍ය ලේකම් සරත් ඒකනායක මහත්වරුන් වගඋත්තරකරුවන් කරමින් පසුගිය සැප්තැම්බර් 08 වැනිදා පැවරූ පෙත්සමක් සලකා බැලීමෙන් අනතුරුව අදාළ අතුරු තහනම නිකුත් කළේය .
+🟩
 
-පක්ෂයේ සභාපතිවරයා වශයෙන් මෛත්‍රිපාල සිරිසේන මහතා විසින් පක්ෂ ව්‍යවස්ථාවට අනුව පසුගිය සැප්තැම්බර් 05 වැනිදා තමා දැරූ පක්‍ෂයේ ලේකම් ධූරය අත්හිටුවෙමින් හාතමන්ට එරෙහිව විනය පරීක්ෂණයක් කැඳවමින් නිකුත් කළ ලිපිය සහ මැතිවරණ කොමසාරිස්වරයාට යැවූ ලිපිය බල රහිත කරන තීන්දුවක් ඉල්ලා මෙම නඩුව පවරා ඇත.
+Colombo Additional District Judge Anura Wickremesinghe today issued an interim injury to the Deputy Secretary to the deputy secretary Maithripala Sirisena and the Deputy Secretary to ban MP Dayasiri Jayasekera.
+
+Dayasiri Jayasekera, the former Chairman of the party and former President Maithripala Sirisena and former President Maithripala Sirisena and the Deputy Secretary of the party Sarath Ekanayake made the interim ban on September 08.
+
+As the Chairman of the party, Maithripala Sirisena has been assigned the letter issued by the party's secretary to the party and the letter sent to the Commissioner of Elections on September 5.
+
+Legal SB of Petitiokara Dayasiri Jayasekara on behalf of the petitioner Dayasiri Jayasekara when he was summoned. The law issued by the Presidential Counsel Ecuky Eyckom Mohammed and Jagath Wickramanayaka, who appeared on the instructions of Dissanayake said the law issued the letter of power and illegal.
 
 ...
 
 [Data](articles/f5159621.json)
+
+[Extended Data](ext_articles/f5159621.ext.json)
 
 ---
 

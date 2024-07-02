@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 02:34:50**
+As of **2024-07-03 02:52:58**
 
 ## Newspaper Stats
 
-*Scraped **33,375** Articles*
+*Scraped **33,376** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,954
 dailyftlk | 2,054
 adalk | 2,975
 adaderanalk | 3,807
-tamilmirrorlk | 3,948
+tamilmirrorlk | 3,949
 dailymirrorlk | 4,733
 virakesarilk | 5,217
 adaderanasinhalalk | 5,528
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,528
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,375 (100.0%) of 33,375 articles have been extended.
+33,375 (100.0%) of 33,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### பாராளுமன்றில் இன்று அஞ்சலி
+
+*2024-07-03 00:57:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றில்-இன்று-அஞ்சலி/175-339785) · `ta`
+
+மறைந்த பாராளுமன்ற உறுப்பினர் இரா. சம்பந்தனின்   பூதவுடலுக்கு பாராளுமன்றத்தில் புதன்கிழமை (03)   இறுதி அஞ்சலி செலுத்தப்படவிருப்பதால், அதில் கலந்துகொள்ளுமாறு பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர சகல பாராளுமன்ற உறுப்பினர்களிடமும் கோரிக்கை விடுத்துள்ளார்.
+
+இரா. சம்பந்தன்   பூதவுடல் இறுதி அஞ்சலிக்காக இன்று புதன்கிழமை  பி.ப 2 மணி முதல் மாலை  4  மணிவரை பாராளுமன்ற கட்டடத்தின் முன்பக்கத்திலுள்ள ஒன்றுகூடல் மண்டபத்தில் வைக்கப்படும்.
+
+◼️
+
+[Data](articles/cfbb72db.json)
+
+---
 
 ### Enemies cannot bring down the muddy compass
 
@@ -2341,23 +2355,5 @@ He is a dreamer between the Tamil -Muslim communities, who believed that the sol
 [Data](articles/17e74863.json)
 
 [Extended Data](ext_articles/17e74863.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-07-02 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/187470) · `ta`
-
-On July 2nd, the US dollar bought 300.3979 and sold for 309.6342 according to the Central Bank's rates.
-
-🟩
-
-Tuesday (July 02), the US dollar purchasing price was 300.3979 and the sales price were 309.6342 based on the Central Bank's currency exchange rate.
-
-◼️
-
-[Data](articles/2ff9a6cf.json)
-
-[Extended Data](ext_articles/2ff9a6cf.ext.json)
 
 ---

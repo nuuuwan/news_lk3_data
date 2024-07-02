@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 03:04:54**
+As of **2024-07-03 03:19:39**
 
 ## Newspaper Stats
 
@@ -35,6 +35,10 @@ Extensions include translations and NER (Named Entity Recognition).
 ### Tribute to Parliament today
 
 *2024-07-03 00:57:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றில்-இன்று-அஞ்சலி/175-339785) · `ta`
+
+Kushani Rohanadeera, Secretary General of Parliament, has called for a tribute to Sambandan's boutique, scheduled for Wednesday between 2 pm and 4 pm at the Parliament's main hall.
+
+🟩
 
 The late Member of Parliament. The Secretary General of Parliament Kushani Rohanadeera has requested all the MPs to attend the final tribute to Sambandan's boutique in Parliament on Wednesday (03).
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 12:08:18**
+As of **2024-07-02 12:19:52**
 
 ## Newspaper Stats
 
-*Scraped **33,256** Articles*
+*Scraped **33,257** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,856
 economynextcom | 1,943
 dailyftlk | 2,054
 adalk | 2,959
-adaderanalk | 3,787
+adaderanalk | 3,788
 tamilmirrorlk | 3,939
 dailymirrorlk | 4,733
 virakesarilk | 5,188
@@ -26,11 +26,43 @@ adaderanasinhalalk | 5,501
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,244 (100.0%) of 33,256 articles have been extended.
+33,244 (100.0%) of 33,257 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### சர்வதேசம் மதிக்கத்தக்க இலங்கைத் தீவின் தலைவர்களில் ஒருவராக இருந்தவர் சம்பந்தன் - சமத்துவக் கட்சி
+
+*2024-07-02 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/187464) · `ta`
+
+இனவாதக் கொந்தளிப்பினால் அழிந்து கொண்டிருக்கும் இலங்கைத் தீவை மீட்டெடுப்பதற்கு சமாதானமும் நீதியான முறையில் பல்லின சமத்துவமும் நிலைநிறுத்தப்பட வேண்டும் என்பதை வலியுறுத்திச் செயலாற்றிய மூத்த அரசியல் தலைவர்  இரா. சம்பந்தனுடைய மறைவு நாட்டுக்குப் பேரிழப்பாகும்.
+
+இந்த வெற்றிடத்தை நிரப்புவது இன்றைய சூழ்நிலையில் மிகக் கடினமானதாகும். சம்பந்தனுடைய மறைவுநாட்டில் அமைதியையும் நீதியான தீர்வையும் எட்ட விரும்பும் அனைவருக்கும் ஏற்பட்டுள்ள பேரிழப்பாகும். இந்த இழப்பை ஆழமாகச் சமத்துவக் கட்சி உணர்ந்து கொண்டு, மறைந்த தலைவர்  சம்பந்தன் அவர்களுக்கு தன்னுடைய அஞ்சலியை செலுத்துகிறது என அந்தக் கட்சியின் தலைவர் முருகேசு சந்திரகுமார் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/3c2d2fa9.json)
+
+---
+
+### Speaker announces vacant MP seat in Parliament due to passing of R. Sampanthan
+
+*2024-07-02 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100235/speaker-announces-vacant-mp-seat-in-parliament-due-to-passing-of-r-sampanthan) · `en`
+
+The Speaker of the Parliament Mahinda Yapa Abeywardena announced to the Parliament today (02) that a vacancy in the Membership of the Parliament has occurred with effect from the 30 June 2024 in terms of the provisions of Article 66(a) of the Constitution due to the death of Trincomalee District MP Rajavarothiam Sampanthan.
+
+“It is with profound regret that I inform this Parliament of his passing away. On behalf of Parliament, I would like to convey that we are deeply saddened by his demise and I would like to express our heartfelt sympathies to the family of the Honourable Member,’’ the Speaker said.
+
+Furthermore, he mentioned that the vote of condolence in this regard will be presented to Parliament on a future date.
+
+Furthermore, the Speaker informed all the Members of Parliament that his remains will lie in the ceremonial hall near the main door of the Parliament on 03 July 2024 from 2.00 p.m. to 4.00 p.m. to pay final respects.
+
+...
+
+[Data](articles/0dde2121.json)
+
+---
 
 ### ජනපතිවරයා පාර්ලිමේන්තුවේදී කළ ප්‍රකාශයේ සම්පූර්ණ විස්තරය
 
@@ -49,22 +81,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/4cbe64ec.json)
-
----
-
-### சர்வதேசம் மதிக்கத்தக்க இலங்கைத் தீவின் தலைவர்களில் ஒருவராக இருந்தவர் சம்பந்தன் - சமத்துவக் கட்சி
-
-*2024-07-02 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/187464) · `ta`
-
-இனவாதக் கொந்தளிப்பினால் அழிந்து கொண்டிருக்கும் இலங்கைத் தீவை மீட்டெடுப்பதற்கு சமாதானமும் நீதியான முறையில் பல்லின சமத்துவமும் நிலைநிறுத்தப்பட வேண்டும் என்பதை வலியுறுத்திச் செயலாற்றிய மூத்த அரசியல் தலைவர்  இரா. சம்மந்தன் அவர்களுடைய மறைவு நாட்டுக்குப் பேரிழப்பாகும்.
-
-இந்த வெற்றிடத்தை நிரப்புவது இன்றைய சூழ்நிலையில் மிகக் கடினமானதாகும். சம்மந்தன் அவர்களுடைய மறைவுநாட்டில் அமைதியையும் நீதியான தீர்வையும் எட்ட விரும்பும் அனைவருக்கும் ஏற்பட்டுள்ள பேரிழப்பாகும். இந்த இழப்பை ஆழமாகச் சமத்துவக் கட்சி உணர்ந்து கொண்டு, மறைந்த தலைவர்  சம்மந்தன் அவர்களுக்கு தன்னுடைய அஞ்சலியை செலுத்துகிறது என அந்தக் கட்சியின் தலைவர் முருகேசு சந்திரகுமார் தெரிவித்துள்ளார்.
-
-சமந்தன் அவர்களின் மறைவுக்கு அவர் விடுத்துள்ள இரங்கற் செய்தியில் இனப்பிரச்சினைக்கு ஐக்கிய இலங்கைக்குள் நீதியான தீர்வொன்றை எட்ட வேண்டும் எனத் தன்னுடைய இறுதி மூச்சுவரையிலும் உறுதியாக இருந்தவர் சம்மந்தன் அவர்கள். இதற்காக அவர் தன்னுடைய கட்சிக்குள்ளும் வெளியிலும் கடுமையான எதிர்ப்புகள், விமர்சனங்கள், சர்ச்சைகளை எதிர்கொண்டிருந்தார். எனிலும்
-
-...
-
-[Data](articles/3c2d2fa9.json)
 
 ---
 
@@ -2149,23 +2165,5 @@ He said the benefits of introducing new technology to the agriculture sector are
 [Data](articles/8c0b0fad.json)
 
 [Extended Data](ext_articles/8c0b0fad.ext.json)
-
----
-
-### Debt restructuring and taxes
-
-*2024-07-01 20:16:28* · [`dailyftlk`](https://www.ft.lk/columns/Debt-restructuring-and-taxes/4-763711) · `en`
-
-For debt restructuring to work, both sides must lose; both sides must gain
-
-As someone who has been trying for many years to get Sri Lankans to think more intelligently about the economy, these past days have been quite disappointing. The economic illiteracy of the masses can be understood. But what about the elites who are ranting about the
-
-The latest complaint is that the bilateral debt was postponed, not forgiven partially. Over the past two years, it was explained many times that debt restructuring can take many forms: a haircut (or the reduction of the principal due); adjustment of the payment period; and changes to the interest charged. In all cases, the creditor takes a hit. In all cases, the debtor does not get off scot-free. For debt restructuring to work, both sides must lose; both sides must gain.
-
-...
-
-[Data](articles/3f81c989.json)
-
-[Extended Data](ext_articles/3f81c989.ext.json)
 
 ---

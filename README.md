@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 19:19:40**
+As of **2024-07-02 19:35:07**
 
 ## Newspaper Stats
 
-*Scraped **33,337** Articles*
+*Scraped **33,338** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,857
 economynextcom | 1,948
 dailyftlk | 2,054
-adalk | 2,969
+adalk | 2,970
 adaderanalk | 3,803
 tamilmirrorlk | 3,942
 dailymirrorlk | 4,733
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,523
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,329 (100.0%) of 33,337 articles have been extended.
+33,337 (100.0%) of 33,338 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### கடன் நிலைபேற்றுத்தன்மையை அடைவதில் இருந்த நிச்சயமற்ற தன்மை முடிவுக்கு வந்துவிட்டது - நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க
+### The uncertainty in achieving debt status has come to an end - Finance Minister Sehan Semasinghe
 
 *2024-07-02 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/187536) · `ta`
 
-இலங்கையில் கடன் நிலைபேற்றுத்தன்மையை அடைவதில் இருந்த அனைத்து நிச்சயமற்ற தன்மைகளும் தற்போது முடிவுக்கு வந்துவிட்டதாக நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+Sri Lanka's Finance Minister Xihan Semasinghe announced the resolution of uncertainties surrounding the country's debt restructuring, attributing confidence from the international community despite internal political obstacles. The minister highlighted successful negotiations with bilateral creditors and the China Exim Bank, securing crucial agreements for economic recovery. He emphasized the complexity of debt restructuring for middle-income countries like Sri Lanka, contrasting it with lower-income nations, and assured that the country is leading in this aspect among its peers. The minister also mentioned the reduction of inflation and interest rates as part of the economic management efforts.
 
-இலங்கையின் கடன் மறுசீரமைப்பு தொடர்பில் சர்வதேச சமூகம் நம்பிக்கையுடன் இருப்பதாகவும், ஆனால் இலங்கையில் உள்ள சில தரப்பினர் தமது அரசியல் இலக்குகளுக்கு அதனை நம்பிக்கையுடன் பார்க்க மறுத்துவிட்டதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் இன்று (02) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க இதனைத் தெரிவித்தார்.
+Finance Minister Xihan Semasinghe said that all the uncertainty in Sri Lanka's uncertainty in Sri Lanka has now ended.
 
-நாட்டின் பொருளாதாரத்தை மீளக் கட்டியெழுப்புவதற்கு அவசியமான கடன் மறுசீரமைப்பு தொடர்பான நற்செய்தி தற்போது கிடைத்துள்ளது. கடந்த ஜூன் மாதம் 26 ஆம் திகதி, உத்தியோகபூர்வ கடன் வழங்குநர்களாக இருதரப்பு கடன் வழங்குநர் குழு மற்றும் பெரிஸ் கழகத்தின் நாடுகளுடன் உடன்பாடுகள் மற்றும் ஒப்பந்தங்கள்  மேற்கொள்ளப்பட்டன.
+The Minister of State said that the international community is confident of Sri Lanka's debt restructuring, but some parties in Sri Lanka have refused to see it with their political goals.
+
+Finance Minister Xihan Semasinghe said this at a media briefing held at the Presidential Media Center today (02).
+
+The good news on the debt renovation that is necessary to rebuild the country's economy. On June 26, agreements and agreements were signed with the countries of the bilateral credit issuer and the countries of the Bilateral Credit Provincial Council as official credit providers.
 
 ...
 
 [Data](articles/db2a1346.json)
+
+[Extended Data](ext_articles/db2a1346.ext.json)
 
 ---
 
@@ -68,21 +74,27 @@ Goall won the Jire of Lanka Premier League and the match between the village.
 
 ---
 
-### சம்பந்தனின் பூதவுடலுக்கு ஜனாதிபதி, அரசியல் தலைவர்கள், பொதுமக்கள் அஞ்சலி!
+### President, political leaders, public tribute to Sambandan
 
 *2024-07-02 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/187512) · `ta`
 
-மறைந்த  இலங்கைத் தமிழரசுக்கட்சியின் சிரேஷ்ட தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இராஜவரோதயம் சம்பந்தனின் பூதவுடல் மக்களின் அஞ்சலிக்காக இன்று செவ்வாய்க்கிழமை (02) கொழும்பு - பொரளையிலுள்ள தனியார் மலர்ச்சாலையில் வைக்கப்பட்டுள்ளது.
+Rajavarothayam Sambandan, a senior leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian, was honored with a private floral tribute in Colombo. President Ranil Wickremesinghe, political dignitaries, civilians, and party members attended. His funeral, scheduled for the 7th, will take place at the Annara's residence in Trincomalee. Sambandan, aged 91, was also a key figure in the Sri Lanka Tamil National Alliance (TNA) and served as the former opposition leader.
 
-அவரின் பூதவுடலுக்கு  ஜனாதிபதி ரணில் விக்கிரமசிங்க, அரசியல் பிரமுகர்கள், பொதுமக்கள், கட்சி உறுப்பினர்கள் என பெருந்திரளானோர் அஞ்சலி செலுத்தினர்.
+🟩
 
-பின்னர் எதிர்வரும் வௌ்ளிக்கிழமையிலிருந்து திருகோணமலையிலுள்ள அன்னாரது இல்லத்தில் வைக்கப்பட்டு எதிர்வரும் 7ஆம் திகதி இறுதிக்கிரியைகள் முன்னெடுக்கப்படவுள்ளது.
+Senior Leader of the Late Sri Lanka Tamil National Party and Trincomalee District Parliamentarian Rajavarothayam Sambandan has been placed at a private flower in Colombo today (02) for the tribute to the people of the country.
 
-இலங்கை தமிழரசுக் கட்சியின் சிரேஷ்ட தலைவரும் முன்னாள் எதிர்க்கட்சி தலைவருமான இரா.சம்பந்தன் 91 ஆவது வயதில்  ஞாயிற்றுக்கிழமை (30) காலமானார்.
+President Ranil Wickremesinghe, political dignitaries, civilians and party members paid tribute to his funeral.
+
+The funeral will be carried out on the 7th of this month at the Annara's residence in Trincomalee.
+
+Senior leader of the Sri Lanka Tamil National Alliance (TNA) and former opposition leader, R. Sampanthan, passed away on Sunday (30) at the age of 91.
 
 ◼️
 
 [Data](articles/dd35ed30.json)
+
+[Extended Data](ext_articles/dd35ed30.ext.json)
 
 ---
 
@@ -127,6 +139,22 @@ The new prices of Litro domestic LP Gas cylinders are as follows;
 [Data](articles/ff339d11.json)
 
 [Extended Data](ext_articles/ff339d11.ext.json)
+
+---
+
+### ජපානය ලංකාව තුළ අත්හිටවූ සියලු ව්‍යාපෘති නැවත ආරඹයි
+
+*2024-07-02 18:05:25* · [`adalk`](https://www.ada.lk/breaking_news/ජපානය-ලංකාව-තුළ-අත්හිටවූ-සියලු-ව්‍යාපෘති-නැවත-ආරඹයි/11-410572) · `si`
+
+ආර්ථිකය ඉදිරියට යන අඩිතාලම යොදා ඇති බවත්යො  ආර්ථිකයට ආරක්ෂාවක් වූ සමූපකාරය අපි රැක ගත යුතු බවත් අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පවසයි. ජපානය ලංකාව තුළ අත්හිටවූ සියලු ව්‍යාපෘති නැවත ආරම්භ කරන්න ගිවිසුම් අත්සන් කළ බවත් ඔහු පැවැසීය.
+
+අග්‍රාමාත්‍යවරයා මේ බව සඳහන් කළේ,  චීන රජයේ ආධාර මත අග්‍රාමාත්‍ය කාර්යාලය වෙත ලද බිත්තර රැක්ක වීමේ යන්ත්‍ර  සහ විමධ්‍යගත  අරමුදලින් කඩුවෙල ආසනයේ සමිති සඳහා නෙස්කැෆේ මැෂින් බෙදාදීම සඳහා  අරංගල සණස ශාලාවේ පැවති උත්සව අවස්ථාවට එක්වෙමිනි.
+
+"රට මුහුණ දුන්නු  අර්බුදකාරී අවස්ථාවෙන් ගොඩ එම සඳහා ඔබ සැම විශාල කැපවීමක් කර තිබෙනවා. දෙවැනි යුද්ධ කාලේ මතක අය තවමත් ඉන්නවා. ඒ කාලේ ගැන අහලා තියෙනවා.  ජපන්නු බෝම්බ දානකොට බජිරි කාලා ජීවත් වෙච්ච මාස ගණනාවක් අපි ගතකලා. අපේ පාසල් නගරවලින් ඈත පළාත්වලට ගෙන ගියා. මේවා ඇත්තටම සිද්ධ වුණ කතා. ඒ තරම් අමාරු තත්ත්වයකින් ගොඩක් ආපු අපි යළිත් වරක් එවැනි තත්ත්වයකට මුහුණ දුන් නිසා  පසුගිය වසරේ රාජ්‍ය වියදම් සියයට අනුවකින් කපා හරින්න අපට සිද්ධ වුණා.
+
+...
+
+[Data](articles/ee576d37.json)
 
 ---
 
@@ -208,27 +236,37 @@ The election regulatory body further emphasized that the violation of these guid
 
 ---
 
-### 19 வயதின் கீழ் இளையோர் சர்வதேச ஒருநாள் கிரிக்கெட்: இலங்கையுடான தொடரை சமப்படுத்தியது இங்கிலாந்து
+### International ODI cricket under the age of 19: England balanced the series with Sri Lanka
 
 *2024-07-02 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/187522) · `ta`
 
-19 வயதுக்குட்பட்ட இலங்கை - இங்கிலாந்து அணிகளுக்கு இடையில் நடைபெற்றுவரும் 3 போட்டிகள் கொண்ட இளையோர் சர்வதேச ஒருநாள் கிரிக்கெட் தொடர் சமப்படுத்தப்பட்டுள்ளது.
+England leveled the U19 ODI series against Sri Lanka after losing the first match by 65 runs. In the second match, England won by 30 runs, thanks to Brady McCon's 174 runs and Luke Benkenstein's 4 wickets. Sri Lanka's top scorers were Pulpindu Perera with 64 and Gayana Weerasinghe with 57.
 
-செல்ஸ்போர்டில் நடைபெற்ற முதலாவது இளையோர் சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் 65 ஓட்டங்களால் வெற்றிபெற்ற  இலங்கை,  தொடரில் 1 - 0 என முன்னிலை அடைந்திருந்தது.
+🟩
 
-ஆனால், ஹோவ், கவுன்டி மைதானத்தில் திங்கட்கிழமை (01) நடைபெற்ற 2ஆவது பகலிரவு போட்டியில் 30 ஓட்டங்களால் வெற்றியீட்டிய இங்கிலாந்து தொடரை 1 - 1 என சம்படுத்தியுள்ளது.
+The three -match international ODI series has been balanced between Sri Lanka and England under the age of 19.
 
-ப்ரெடி மெக்கான் குவித்த அதிரடி சதம், லூக் பென்கென்ஸ்டீன் பதிவுசெய்த 4 விக்கெட் குவியல் என்பன இங்கிலாந்தை வெற்றிபெறச் செய்தன.
+Sri Lanka won by 65 runs in the first youth international ODI in Selport, leading 1 - 0 in the series.
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய 19 வயதுக்குட்பட்ட இங்கிலாந்து 50 ஓவர்களில் 7 விக்கெட்களை இழந்து 360 ஓட்டங்களைக் குவித்தது.
+However, the England series won by 30 runs in the 2nd day of the day (01) at the Howe Ground.
 
-இங்கிலாந்து இளையோர் அணியில் இடம்பெறும் இலங்கை வம்சாவளி கேஷன பொன்சேகா 9 ஓட்டங்களுடன் ஆட்டம் இழந்தார்.
+Brady McCon's Action Cattle and Luke Benkenstein's 4 wickets pile made England a win.
 
-ஆனால், மிகவும் திறமையாகத் துடுப்பெடுத்தாடிய ப்ரெடி மெக்கான் 139 பந்துகளில் 22 பவுண்டறிகள், 3 சிக்ஸ்களுடன் 174 ஓட்டங்களைக் குவித்து அசத்தினார்.
+Under the age of 19, England scored 360 runs for the loss of 7 wickets in 50 overs.
+
+Sri Lanka -born Casanna Fonseka, who is featured in the England youth team, lost the match with 9 runs.
+
+But Brady McCon, who was very efficient, scored 174 runs off 139 balls with 22 pounds and 3 sixes.
+
+McCon shared 127 runs with Nova Taine in the 2nd wicket and strengthened the England junior team in the 3rd wicket with Charlie Alison.
+
+Nova Taine scored 66 runs, Charlie Alison 46 and Dominic Kelly scored 32 runs.
 
 ...
 
 [Data](articles/7fac9b67.json)
+
+[Extended Data](ext_articles/7fac9b67.ext.json)
 
 ---
 
@@ -424,67 +462,99 @@ Later on the night of June 14, the vessel was brought to Galle Port, where a det
 
 ---
 
-### சர்வதேச நாணய நிதியத்தின் தொழில்நுட்ப அறிக்கைகள் இதுவரை சபைக்கு சமர்ப்பிக்கப்படவில்லை - சஜித்
+### The International Monetary Fund Technical Reports have not yet been submitted to the House - Sajith
 
 *2024-07-02 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/187513) · `ta`
 
-சர்வதேச நாணய நிதியம் தயாரித்த தொழில்நுட்ப மதிப்பீட்டு அறிக்கைகள் இன்றுவரை சபைக்கு சமர்ப்பிக்கவில்லை என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition leader Sajith Premadasa criticized the government for not submitting IMF technical reports to Parliament, highlighting the need for transparency. President Ranil Wickremesinghe responded, noting the absence of these reports despite requests from Basil Rajapaksa for the Finance Minister to act.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க செவ்வாய்க்கிழமை (02) பாராளுமன்றத்தில் ஆற்றிய உரைக்கு பதிலளிக்கும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-பசில் ராஜபக்ச நிதியமைச்சருக்கு விரலை நீட்டி அறிக்கைகளை வழங்குமாறு கோரிய போதும், இன்று ஜனாதிபதியே அந்த அறிக்கைகளை வழங்காதிருக்கிறார். எனவே அந்த அறிக்கைகள் சமர்ப்பிக்கப்பட வேண்டுமென எதிர்க்கட்சித் தலைவர் சுட்டிக்காட்டினார்.
+Opposition leader Sajith Premadasa said the technical assessment reports prepared by the International Monetary Fund have not been submitted to the House to date.
+
+President Ranil Wickremesinghe said this in response to a speech made in Parliament on Tuesday (02).
+
+Even though Basil Rajapaksa has asked the Finance Minister to stretch his finger, but today the president does not make those reports. The opposition leader pointed out that the reports should be submitted.
 
 ◼️
 
 [Data](articles/07e0bb18.json)
 
+[Extended Data](ext_articles/07e0bb18.ext.json)
+
 ---
 
-### அரசாங்கத்தின் பலவீனத்தால் கடனை திருப்பி செலுத்தும் காலத்தை நீட்டித்துக்கொள்ள முடியவில்லை - சஜித்
+### The weakness of the government could not extend the time of repayment of the loan - Sajith
 
 *2024-07-02 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/187505) · `ta`
 
-ஜனாதிபதி நாட்டு மக்களுக்கு உரையாற்றும் போது, 2028 ஆம் ஆண்டு வரை கடனை திருப்பிச் செலுத்துவதற்கான கால அவகாசம்  ஏற்படுத்திக் கொள்ளப்பட்டுள்ளதாகத் தெரிவித்தார். என்றாலும், மார்ச் 2023 இல் சர்வதேச நாணய நிதியம் கடன் திருப்பிச் செலுத்தும் காலத்தை 2033 வரை நீட்டித்தாலும், அந்த உடன்படிக்கைக்கு அரசாங்கத்தால் செல்ல முடியவில்லை. அரசாங்கம் முன்னெடுத்த பேச்சுவார்த்தைகளின் பலவீனம் காரணமாகவே இந்த நிலை ஏற்பட்டுள்ளதாக எதிர்க்கட்சித் தலைவர் இங்கு தெரிவித்தார்.
+Despite IMF extending loan repayments to 2033, the government failed to negotiate an agreement, citing its negotiation weaknesses. Opposition leader Sajith Premadasa criticized the government for not including details on China's loans during the debt restructuring discussion.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க செவ்வாய்க்கிழமை (02) பாராளுமன்றத்தில் ஆற்றிய உரைக்கு பதிலளிக்கும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-...
+Speaking to the people of the country, the time has been set up until 2028 to repay the loan.. However, even though the International Monetary Fund extended the refunds in March 2023 until 2033, the government could not go to that agreement. The opposition leader said that this was due to the weakness of the government's negotiations.
+
+Opposition Leader Sajith Premadasa said this while responding to his speech in Parliament on Tuesday (02).
+
+Although it is said that US $ 3.9 billion has been reassessed with China's Exim Bank, the Chinese government's $ 13.8 million loans and $ 538 million from the Chinese Development Bank are not mentioned.. The Leader of the Opposition said that some information was talking about the success of the debt restructuring process without publishing some information.
+
+◼️
 
 [Data](articles/29c5fe2f.json)
 
+[Extended Data](ext_articles/29c5fe2f.ext.json)
+
 ---
 
-### ஜனாதிபதி வெளிநாட்டுப் பயணங்களை மேற்கொண்டிருந்த போதிலும் கடன் சுமை குறையவில்லை - சஜித்
+### Despite the president's foreign trips, the debt burden has not diminished - Sajith
 
 *2024-07-02 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/187511) · `ta`
 
-கானாவின் நிதியமைச்சர் சர்வதேச பிணைமுறி பத்திரதாரர்களுடன் நேரடியாகப் பேச்சுவார்த்தை நடத்தி நாட்டின் கடனில் 37% தள்ளுபடியைச் செய்துள்ள போதிலும், பல வெளிநாட்டுப் பயணங்களை மேற்கொண்ட எமது நாட்டு ஜனாதிபதியால் அவ்வாறானதொன்றை செய்ய முடியாது போயிருக்கிறதென எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+Sajith Premadasa criticized the current president for failing to negotiate significant debt discounts during foreign trips, unlike Ghana's Finance Minister who secured a 37% reduction through negotiations. He highlighted the missed opportunity to secure better terms for Sri Lanka's debt, drawing parallels with Argentina's successful negotiation in 2023.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க செவ்வாய்க்கிழமை (02) பாராளுமன்றத்தில் ஆற்றிய உரைக்கு பதிலளிக்கும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-அர்ஜென்டினா நிதியமைச்சர் 2023 இல் சர்வதேச பிணைமுறி பத்திரதாரர்களுடன் நேரடியாகப் பேச்சுவார்த்தை நடத்தி அவர்களின் நம்பிக்கையை வென்றெடுத்து கடனில் தள்ளுபடியை ஏற்படுத்திக் கொண்டார்.
+Opposition Leader Sajith Premadasa said that the President of Ghana's Finance Minister has directly negotiated with international bailouts and has been waiting for a 37% discount on the country's debt, but the president of our country who made many foreign trips cannot do so.
 
-எனினும் எமது நாட்டின் ஜனாதிபதி நிதியமைச்சர் என்ற வகையில் வெளிநாட்டுப் பயணங்களில் ஈடுபடும் போது, சர்வதேச பிணைமுறி பத்திரதாரர்களுடன் கலந்துரையாடல்களை மேற்கொண்டிருக்க முடியும்.
+Opposition Leader Sajith Premadasa said this while responding to his speech in Parliament on Tuesday (02).
 
-...
+In 2023, the Argentina Finance Minister negotiated with the International Bailbreak Papermins and won their confidence and set a discount on debt.
+
+However, as the President of our country, as a finance minister, can have discussions with international bail -outs when engaged in foreign travels.
+
+However, despite the opportunity to reach the best agreement for our country, Sajith added that the president's inability could not be obtained.
+
+◼️
 
 [Data](articles/1f97345a.json)
 
+[Extended Data](ext_articles/1f97345a.ext.json)
+
 ---
 
-### கடன் மறுசீரமைப்பு உடன்படிக்கை முழுமையாக கைச்சாத்திடப்படாததாலே விவாதம் ஒத்திவைக்கப்பட்டுள்ளது  -  எதிர்க்கட்சித் தலைவர்
+### The debate has been postponed because the debt renovation agreement is not fully signed - the leader of the Opposition
 
 *2024-07-02 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187495) · `ta`
 
-பாராளுமன்றத்தின் புதன்கிழமை அமர்வு இரா. சம்பந்தனுக்காக  ஒத்திவைக்கப்படவில்லை. கடன் மறு சீரமைப்பு தொடர்பான 3  உடன்படிக்கைகளில் இரண்டில் மாத்திரமே கைச்சாத்திடப்பட்டுள்ளது.
+The Parliament session scheduled for Wednesday was postponed due to incomplete signing of a debt renovation agreement. The Opposition Leader highlighted that only two out of three necessary agreements were finalized, casting doubt over the proceedings. This decision was made during a meeting where it was initially planned to hold debates on debt reorganization on Tuesday and Wednesday, with the President's address set for Tuesday. However, the unsigned agreement led to the postponement of Wednesday's session.
 
-மேலும் ஒரு உடன்படிக்கை கைச்சாத்திடப்படாத நிலையிலேயே அது பாராளுமன்றத்தின் நிகழ்ச்சி நிழலுக்குள் கொண்டுவரப்பட்டுள்ளது .இது பெரும் மோசடி. இது வெளிப்பட்டுள்ளதாலேயே  அமர்வை ஒத்திவைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது என எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாச  தெரிவித்தார்.
+🟩
 
-கடன் மறு சீரமைப்பு தொடர்பான  இணக்கப்பாடு குறித்து பாராளுமன்றத்தில் செவ்வாய்க்கிழமை மற்றும் புதன்கிழமை ஆகிய இரு நாட்களும் விவாதம் நடத்துவதென கட்சித்தலைவர்கள் கூட்டத்தில் தீர்மானிக்கப்பட்டிருந்தது. இந்நிலையில் செவ்வாய்க்கிழமை ஜனாதிபதியின் உரை மட்டுமே இடம்பெறுமெனவும் புதன்கிழமை பாராளுமன்ற அமர்வு இடம்பெறாதெனவும் அதற்கு  வேறு காரணமும் கூறியுள்ளனர்
+Wednesday's session of Parliament. Not postponed for Sambandan. Only two of the 3 agreements on debt renovation have been signed.
+
+And when an agreement is not signed, it has been brought into the shadow of Parliament.. Opposition Leader Sajith Premadasa said that steps have been taken to postpone the session as this has emerged.
+
+At the meeting of the party leaders, it was decided that the two days of debate would be debated in Parliament on Tuesday and Wednesday in Parliament regarding debt reorganization.. In this case, the President's speech will only take place on Tuesday and that there is no parliamentary session on Wednesday.
+
+But it is not the case. Only two of the 3 agreements on credit restructuring have been signed and the event has been brought into the shadow of Parliament as a agreement has not been signed.. He said they decided to postpone the session on Wednesday because of this.
+
+Two agreements have been signed on the debt renovation and a further agreement is being held.
 
 ...
 
 [Data](articles/42780579.json)
+
+[Extended Data](ext_articles/42780579.ext.json)
 
 ---
 
@@ -748,21 +818,27 @@ The suspects were produced before the Colombo Magistrate No. 1 and remanded on t
 
 ---
 
-### உக்ரைனில் சதிப்புரட்சி திட்டம் முறியடிப்பு - கலகத்தை ஏற்படுத்தி நாடாளுமன்றத்தை கைப்பற்ற திட்டமிடப்பட்டதாக தகவல்
+### Conspiracy in Ukraine
 
 *2024-07-02 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/187493) · `ta`
 
-உக்ரைன் அரசாங்கத்தை பதவி கவிழ்ப்பதற்கான சதிப்புரட்சி முயற்சியொன்றை முறியடித்துள்ளதாக அந்த நாட்டின் பாதுகாப்பு அதிகாரிகள் தெரிவித்துள்ளனர்.
+A conspiracy to overthrow Ukraine's government was foiled, with plans to seize the capital and parliament on June 30. Security services identified and arrested suspects, seizing incriminating weapons. Private security personnel joined forces with the military to counter this threat.
 
-ஜூன் 30ம் திகதி உக்ரைன் தலைநகரில் கலவரமொன்றை  ஏற்படுத்தி அதனை பயன்படுத்தி உக்ரைன் நாடாளுமன்றத்தை கைப்பற்றுவதற்கும் இரணுவத்தையும்  அரசியல் தலைமைத்துவத்தையும் அதிகாரத்திலிருந்து அகற்றுவதற்கும் சதிபுரட்சி முயற்சி குழுவினர் திட்டமிட்டனர் என உக்ரைனின் பாதுகாப்பு சேவை தெரிவித்துள்ளது.
+🟩
 
-ஐந்து சந்தேகநபர்கள் அடையாளம் காணப்பட்டுள்ளனர் இருவர் கைதுசெய்யப்பட்டுள்ளனர் என இஸ்ரேலிய பாதுகாப்பு அதிகாரிகள் தெரிவித்துள்ளனர். குற்றமுயற்சியை உறுதிப்படுத்தும் பல பொருட்கள் ஆயுதங்கள் போன்றவற்றை  கைப்பற்றியுள்ளதாக அவர்கள் குறிப்பிட்டுள்ளனர்.
+The country's security officials have said that a conspiracy to topple the Ukraine government has been thwarted.
 
-சதிபுரட்சி குழுவின் தலைவர் 2000பேர் அமரக்கூடிய மண்டபம் ஒன்றை வாடகைக்கு  எடுத்து நாடாளுமன்றத்தை கைப்பற்றுவதற்காக  தனியார் பாதுகாப்பு நிறுவனங்களை சேர்ந்த பாதுகாப்பு உத்தியோகத்தர்கள்  இராணுவத்தினரை சேர்த்துக்கொண்டார் என உக்ரைன் அதிகாரிகள் தெரிவித்துள்ளனர்.
+Ukraine's security service said that the conspirators had planned to take over the Ukraine's capital on June 30 and use it to capture the parliament of Ukraine and remove the political leadership from power.
+
+Israeli security officials have said that five suspects have been identified and two have been arrested.. They noted that many of the items that confirm the crime have seized weapons.
+
+Ukraine officials have said that security officers from private security companies have joined the military to rent a hall where the chairman of the Conspiracy Committee has rented a 2000 seat.
 
 ◼️
 
 [Data](articles/5c36020f.json)
+
+[Extended Data](ext_articles/5c36020f.ext.json)
 
 ---
 
@@ -2263,23 +2339,5 @@ President Ranil Wickremesinghe said in a special speech in Parliament on Tuesday
 [Data](articles/1306207b.json)
 
 [Extended Data](ext_articles/1306207b.ext.json)
-
----
-
-### SC rules several clauses of Economic Transformation Bill are unconstitutional
-
-*2024-07-02 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100230/sc-rules-several-clauses-of-economic-transformation-bill-are-unconstitutional) · `en`
-
-The Supreme Court has determined that several clauses of the Economic Transformation Bill are inconsistent with the country’s Constitution.
-
-Consequently, these clauses require a special majority in parliament and, in some cases, approval by a referendum to be passed.
-
-However, if the contentious clauses are amended, they can be passed with a simple majority, the Speaker of Parliament announced today while delivering Supreme Court determination on the bill.
-
-◼️
-
-[Data](articles/aa7467cc.json)
-
-[Extended Data](ext_articles/aa7467cc.ext.json)
 
 ---

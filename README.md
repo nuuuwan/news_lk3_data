@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 16:19:45**
+As of **2024-07-02 16:35:04**
 
 ## Newspaper Stats
 
-*Scraped **33,303** Articles*
+*Scraped **33,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ adaderanalk | 3,796
 tamilmirrorlk | 3,940
 dailymirrorlk | 4,733
 virakesarilk | 5,198
-adaderanasinhalalk | 5,515
+adaderanasinhalalk | 5,517
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,302 (100.0%) of 33,303 articles have been extended.
+33,303 (100.0%) of 33,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### සම්බන්ධන්ගේ අතීත මකයන් ගැන ජනපති සංවේදී වෙයි
+
+*2024-07-02 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198414) · `si`
+
+‍දෙමළ ජාතික සන්ධානයේ නායක, අභාවප්‍රාප්ත පාර්ලිමේන්තු මන්ත්‍රී ආර්. සම්බන්ධන් මහතා සෑම අවස්ථාවකම ශ්‍රී ලංකාවේ භෞමික අඛණ්ඩතාව වෙනුවෙන් පෙනී සිටි බවත්, බලය බෙදිය යුතු ආකාරය පිළිබඳ ඔහුට ඔහුගේම වූ මතයක් තිබූ බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ඒ වෙනුවෙන් ඔහු ප්‍රමාණවත් වැඩ කොටසක් ඉටුකළ බව පෙන්වා දුන් ජනාධිපතිවරයා ආර්. සම්බන්ධන් මහතා වෙනුවෙන් අපට කළ හැකි ඉහළම කාර්යය වන්නේ ඒ වෙනුවෙන් වු වැඩකටයුතු සාර්ථකව අවසන් කිරීම බවද වැඩිදුරටත් සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේ, ආර්. සම්බන්ධන් මහතාගේ හදිසි අභාවය පිළිබඳ සිය ශෝකය පළ කරමින් පාර්ලිමේන්තුවේ දී විශේෂ ප්‍රකාශයක් සිදුකරමිනි.
+
+"මම මේ කතාව සිදුකරන අවස්ථාව වන විට එදා මා සමඟ පාර්ලිමේන්තුවට පැමිණි අයගෙන් ඉතිරිව සිටි සඟයෙකු වන සම්බන්ධන් මන්ත්‍රීතුමා තවදුරටත් අප අතර නැහැ. ඉතා දුෂ්කර කාලපරිච්ඡේදයන් තුළ එතුමා සමඟ එකට වැඩකිරීමට මට අවස්ථාව ලැබුණු අතර ඔහු එහිදී ලබාදුන් දායකත්වය මම කෘතවේදීව සිහිපත් කරනවා.
+
+...
+
+[Data](articles/210f2635.json)
+
+---
+
+### බයේ පැනලා ගිය එක සුබ ද අසුබ ද ?
+
+*2024-07-02 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198413) · `si`
+
+අස්වැසුම, උරුමය වැනි වැඩසටහන් ක්‍රියාත්මක කිරීමට මෙන්ම රට තුළ නව කර්මාන්ත ශාලා ආරම්භ කරමින් තරුණ තරුණියන්ට නව රැකියා අවස්ථා උදාකර දීමට රජය පියවර ගෙන ඇත්තේ මන්දපෝෂණය සහ දුප්පත්කම පිටුදැකීමට මෙන්ම විරැකියාව තුරන් කිරීමට බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ මන්දපෝෂණය, දුප්පත්කම සහ විරැකියාව සුබද? අසුබද? කියා පාර්ලිමේන්තුවේ දී අද (02) විපක්ෂ නායකවරයා නැඟු ප්‍රශ්නයට පිළිතුරු දෙමිනි.
+
+එසේම රටේ ආර්ථිකය කඩා වැටී ජනතාව හාමතේ සිටින විට අගමැතිකම බාර නොගෙන බියේ පළා යාම සුබද? අසුබද? කියා පෙරළා ප්‍රශ්න කළ ජනාධිපතිවරයා වැඩිදුරටත් මෙසේද පැවසිය.
+
+ළමුන් මන්දපෝෂණයෙන් පෙළෙන එක සුබද, අසුබද කියා විපක්ෂ නායකවරයා ප්‍රශ්න කළා.
+
+අප අස්වැසුම වැඩසටහන ක්‍රියාත්මක කළේ, අඩු ආදායම්ලාභී ජනතාවට මාස දෙකක් සහල් කිලෝ දහය බැගින් ලබා දුන්නෙත් ඒ නිසයි. පාසල් ළමුන්ට ආහාර ලබාදීමේ වැඩසටහන ආරම්භ කළේ ද ඒ නිසයි.
+
+ඒ නිසයි ලක්ෂ 20ක් ජනතාවට “උරුමය” ජාතික වැඩසටහන යටතේ සින්නක්කර ඉඩම් අයිතිය ලබා දෙන්නේ.
+
+මහල් නිවාසවල ජීවත්වන ලක්ෂ දෙක හමාරක ජනතාවට එම නිවාසවල අයිතිය ලබා දෙන්නේ ද ඒ නිසයි. තව මොනවද දිය යුත්තේ?
+
+...
+
+[Data](articles/972753e9.json)
+
+---
 
 ### Person arrested on suspicion after ‘bomb scare’ at Kandy Court complex
 
@@ -2273,45 +2315,5 @@ Kugathasan is also the Trincomalee District Welfare Association (TDWA) President
 [Data](articles/638ed785.json)
 
 [Extended Data](ext_articles/638ed785.ext.json)
-
----
-
-### Condolences pour in following demise of veteran Tamil leader R. Sampanthan
-
-*2024-07-02 02:22:32* · [`dailyftlk`](https://www.ft.lk/news/Condolences-pour-in-following-demise-of-veteran-Tamil-leader-R-Sampanthan/56-763748) · `en`
-
-Tamil National Alliance (TNA), veteran Tamil politician and former leader Rajavarothiam Sampanthan, passed away in the early hours of yesterday at the age of 91.
-
-Sampanthan who was born on 5 February 1933 was a lawyer by profession. He first entered Parliament in 1977 representing the Trincomalee district.
-
-The veteran politician was also the 14th opposition leader in the Sri Lanka Parliament and the second Tamil opposition leader in the country’s history. He was also the oldest serving Parliamentarian at the time of his demise. TNA MP M.A. Sumanthiran in a press release said information relating to the final rites of the MP will be informed in due course.
-
-Messages of condolence have also been pouring in from both local and international figures following the passing of R. Sampanthan.
-
-...
-
-[Data](articles/2804f9fd.json)
-
-[Extended Data](ext_articles/2804f9fd.ext.json)
-
----
-
-### New Acting Attorney General takes oath
-
-*2024-07-02 02:20:26* · [`dailyftlk`](https://www.ft.lk/news/New-Acting-Attorney-General-takes-oath/56-763747) · `en`
-
-Senior Additional Solicitor General Parinda Ranasinghe yesterday took oaths as the Acting Attorney General before the Chief Justice.
-
-The Acting Attorney General was appointed after the proposal to extend incumbent Attorney General Sanjay Rajaratnam’s term by another six months was defeated last week for the second time at the Constitutional Council meeting.
-
-The proposal, which was submitted by President Ranil Wickremesinghe, was defeated with five votes against it while three members voted in favour.
-
-Rajaratnam’s current term is set to expire at the end of this month and the President had proposed an extension for an additional six months. However, the proposal requires the approval of the Constitutional Council, which twice defeated it.
-
-◼️
-
-[Data](articles/83c816c5.json)
-
-[Extended Data](ext_articles/83c816c5.ext.json)
 
 ---

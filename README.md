@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 16:06:35**
+As of **2024-07-02 16:19:45**
 
 ## Newspaper Stats
 
-*Scraped **33,302** Articles*
+*Scraped **33,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 304
 dbsjeyarajcom | 305
 bbccomsinhala | 327
 newsfirstlk | 363
-islandlk | 1,856
+islandlk | 1,857
 economynextcom | 1,948
 dailyftlk | 2,054
 adalk | 2,963
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,515
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,294 (100.0%) of 33,302 articles have been extended.
+33,302 (100.0%) of 33,303 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,47 +48,63 @@ The arrested suspect has been identified as a conductor of a private passenger t
 
 [Data](articles/28accc68.json)
 
+[Extended Data](ext_articles/28accc68.ext.json)
+
 ---
 
-### මහනුවර කැලඹූ බෝම්බ බිය - සැකකරුවෙක් අත්අඩංගුවට
+### Toping bombings in Kandy - Suspect arrested
 
 *2024-07-02 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198412) · `si`
 
-මහනුවර අධිකරණ සංකීර්ණය තුළ බෝම්බයක් ඇති බවට 119 පොලිස් හදිසි ඇමතුම් ඒකකයට ඇමතුමක් ලබාදුන් පුද්ගලයා අද (02) දහවල් ගිනිගත්හේන පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+In Kandy, a bombing suspect, a 53-year-old former bus conductor, was arrested by the police. The suspect claimed he didn't possess another phone linked to the case. A bomb threat led to heightened security and evacuation at the Kandy Courts Complex, with troops from the Bomb Disposal Division involved. Investigations continue, and the case is postponed until July 16.
 
-මහනුවර පොලීසිය විසින් ගිනිගත්හේන පොලීසියට ලබාදුන් තොරතුරක් මත අදාළ දුරකථන අංකයේ හිමිකරු වන ගිනිගත්හේන, කඩවල ප්‍රදේශයේ පදිංචි 53 හැවිරිදි පුද්ගලයෙක් එලෙස සැකපිට අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-සැකකරු අත්අඩංගුවට ගන්නා අවස්ථාවේ අදාළ දුරකථනය ඔහු සන්තකයේ නොතිබුණු බවත් එම දුරකථනය ඊයේ (01) දහවල් අස්ථානගත වූ බවත් සැකකරු පොලීසියට පවසා ඇත.
+The 119 Police Emergency Department has been arrested by the Ginigathhena Police today (02).
 
-අත්අඩංගුවට ගත් සැකකරු පෞද්ගලික බස් රථ කොන්දොස්තරවරයෙකු ලෙස සේවය කර ඇති බවත්, ඔහු සම්බන්ධයෙන් ඉදිරි විමර්ශන කටයුතු සිදුකරන බවත් ගිනිගත්හේන පොලීසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක විරාජ් විතානගේ මහතා පැවසිය.
+The Kandy police have arrested a 53-year-old person from the Ginigathena, Kadawala, Kinigathena, Kinigathena, Kinigathena, the owner of the telephone number.
 
-මහනුවර අධිකරණ සංකීර්ණය තුළ බෝම්බයක් ඇති බවට ලද අදාළ පණිවුඩය හේතුවෙන් එහි විශේෂ ආරක්ෂක මෙහෙයුමක් ක්‍රියාත්මක කෙරුණි.
+The other phone has said that the phone was not in his possession at the time of his arrest.
 
-එමෙන්ම එහි නඩු විභාග කිරීම නවතා දමා ජනතාව අධිකරණ සංකීර්ණයෙන් ඉවත් කිරීමට ද ආරක්ෂක අංශ පියවර ගැණුනි.
+The suspect had served as a private bus conductor and further investigations into the incident.
 
-බෝම්බ නිෂ්ක්‍රිය අංශය, හමුදාව සහ පොලීසිය එක්ව අදාළ සෝදිසි මෙහෙයුම සිදුකළේය.
+A special security operation was implemented by the message that had a bomb in the Kandy Courts Complex.
 
-...
+The security forces were also taken to remove the trial and remove the people from the court complex.
+
+Troops conducting search operation conducted by the Bomb Inspiration Division, Army and Police.
+
+The case was postponed until July 16.
+
+◼️
 
 [Data](articles/65c5f109.json)
 
+[Extended Data](ext_articles/65c5f109.ext.json)
+
 ---
 
-### හොර වැඩක් කරලා රටින් පනින්න හැදූ විදෙස් ජාතිකයා
+### Foreign national who tried to jump in the country
 
 *2024-07-02 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198411) · `si`
 
-මූල්‍ය වංචාවකට සම්බන්ධ විදෙස් ජාතිකයෙකු කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබේ.
+A foreign national linked to financial fraud was detained at Katunayake International Airport. Arrested during an ongoing investigation by airport and CID officers, further inquiries are being conducted.
 
-පොලීසිය සඳහන් කළේ, ඉදිකිරීම් ව්‍යාපෘති කිහිපයක් සිදුකිරීම සඳහා පුද්ගලයෙකුගෙන් රුපියල් 63,818,452ක මුදලක් ලබාගෙන එම ඉදිකිරීම් කටයුතු සිදුනොකර මුදල් වංචා කිරීමේ චෝදනාව යටතේ සැකකරු අත්අඩංගුවට ගත් බවය.
+🟩
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ කටුනායක ගුවන්තොටුපොළ ඒකකයේ නිලධාරීන් විසින් සිදුකරන ලද විමර්ශනයේ දී සැකකරු අත්අඩංගුවට ගෙන ඇති බව වාර්තා වෙයි.
+A foreign national associated with financial fraud was arrested at the Katunayake International Airport.
 
-සිද්ධිය සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ කටුනායක ගුවන්තොටුපොළ ඒකකය වැඩිදුර විමර්ශන සිදුකරයි.
+Police said that the suspect was arrested by a person who was acquitted of the construction of Rs.
+
+The suspect has been arrested in the investigation by the officers of the Katunayaka Airport's Office, the Criminal Investigation Department.
+
+The Katunayake Airport of the Criminal Investigation Department is conducting further investigations.
 
 ◼️
 
 [Data](articles/bf62fcbb.json)
+
+[Extended Data](ext_articles/bf62fcbb.ext.json)
 
 ---
 
@@ -276,6 +292,8 @@ Budget support loans are part of the International Monetary Fund backed reform a
 
 [Data](articles/6bb6cfa2.json)
 
+[Extended Data](ext_articles/6bb6cfa2.ext.json)
+
 ---
 
 ### President fact-checks viral social media post on Sri Lanka’s external debt
@@ -293,6 +311,8 @@ Addressing parliament on Tuesday July 02, Wickremesinghe refuted a social media 
 ...
 
 [Data](articles/29eea7e4.json)
+
+[Extended Data](ext_articles/29eea7e4.ext.json)
 
 ---
 
@@ -415,6 +435,8 @@ Feed in tariffs were halted in favour of competitive bidding, but were brought b
 ◼️
 
 [Data](articles/66e419b5.json)
+
+[Extended Data](ext_articles/66e419b5.ext.json)
 
 ---
 
@@ -1436,6 +1458,8 @@ Though he wanted to disclose the agreements in parliament, there was a request f
 
 [Data](articles/a46f2c89.json)
 
+[Extended Data](ext_articles/a46f2c89.ext.json)
+
 ---
 
 ### Sampanthan's funeral was deposited in Colombo today
@@ -1555,6 +1579,8 @@ A bond maturing on 15.09.2029 was quoted at 12.15/20 percent, down from 12.10/20
 ◼️
 
 [Data](articles/582819f0.json)
+
+[Extended Data](ext_articles/582819f0.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 06:00:59**
+As of **2024-07-02 07:01:06**
 
 ## Newspaper Stats
 
-*Scraped **33,197** Articles*
+*Scraped **33,199** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 1,940
 dailyftlk | 2,054
 adalk | 2,952
 adaderanalk | 3,779
-tamilmirrorlk | 3,925
+tamilmirrorlk | 3,926
 dailymirrorlk | 4,733
 virakesarilk | 5,178
-adaderanasinhalalk | 5,487
+adaderanasinhalalk | 5,488
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,187 (100.0%) of 33,197 articles have been extended.
+33,194 (100.0%) of 33,199 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### අද කාලගුණය
+
+*2024-07-02 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198383) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (02) දිනයේ වැසිවාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරටයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/294b64f7.json)
+
+---
 
 ### Aragalaya activists raise election postponement conspiracy concerns with ECSL
 
@@ -274,6 +292,22 @@ He was the President of the Asian Marketing Federation (AMF) from 2018 to 2020 a
 
 ---
 
+### மடு அன்னையின் ஆடிமாதத் திருவிழா இன்று
+
+*2024-07-02 01:03:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மடு-அன்னையின்-ஆடிமாதத்-திருவிழா-இன்று/175-339729) · `ta`
+
+இந்த நிலையில், மடு அன்னை அரசியாக முடிசூட்டப்பட்டதன் நூற்றாண்டு விழாவை முன்னிட்டு மடு அன்னையின் திருவுருவம் பொறிக்கப்பட்ட முத்திரை நேற்று வெளியிட்டு வைக்கப்பட்டுள்ளது.
+
+மடு திருத்தலத்தின் பரிபாலகர் அருட்தந்தை அன்ரனி ஞானப்பிரகாசத்தின் ஏற்பாட்டில் நேற்று முற்பகல் இந்த நிகழ்வு நடைபெற்றது.
+
+தபால்மா அதிபர் ருவன் சத்குமாரவினால் விசேட முத்திரை மன்னார் மறைமாவட்ட ஆயர் கலாநிதி இம்மானுவேல் பெர்னாண்டோ ஆண்டகையிடம் வழங்கி வைக்கப்பட்டது. (a)
+
+◼️
+
+[Data](articles/ab8abf27.json)
+
+---
+
 ### Nonsense. The deepest condolences of the Eelam People's Revolutionary Liberation Front
 
 *2024-07-02 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/187436) · `ta`
@@ -460,6 +494,8 @@ One of Sri Lanka’s top tech Entrepreneurs Sushena Ranatunga has been appointed
 
 [Data](articles/68b89b3a.json)
 
+[Extended Data](ext_articles/68b89b3a.ext.json)
+
 ---
 
 ### 99x expands global footprint with high-profile roundtable in Colombo highlighting strategic growth
@@ -476,6 +512,8 @@ Hasith Yaggahavita – CEO of 99x Technology, which operates in Norway, Malaysia
 
 [Data](articles/5243f846.json)
 
+[Extended Data](ext_articles/5243f846.ext.json)
+
 ---
 
 ### Heritance Aarah recognized by Forbes Magazine as Best Beachfront All-Inclusive Resort for Families
@@ -487,6 +525,8 @@ Heritance Aarah, nestled in the pristine Raa Atoll of the Maldives, has been hon
 ...
 
 [Data](articles/ff4a2878.json)
+
+[Extended Data](ext_articles/ff4a2878.ext.json)
 
 ---
 
@@ -504,6 +544,8 @@ The guest artiste at the event was the popular musician T. M. Jayaratne, who was
 
 [Data](articles/ef5822b6.json)
 
+[Extended Data](ext_articles/ef5822b6.ext.json)
+
 ---
 
 ### Share market lapses into negativity as political uncertainty persists
@@ -517,6 +559,8 @@ The All Share Price Index went down by 68/05 points, while the S and P SL20 decl
 ...
 
 [Data](articles/2d3f4a9f.json)
+
+[Extended Data](ext_articles/2d3f4a9f.ext.json)
 
 ---
 
@@ -2251,49 +2295,5 @@ Police are currently searching for the suspect. The injured have been taken to t
 [Data](articles/27d68665.json)
 
 [Extended Data](ext_articles/27d68665.ext.json)
-
----
-
-### Governor of Northern Province
-
-*2024-07-01 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/187384) · `ta`
-
-BSM Charles, Governor of the Northern Province, mourns the passing of R. Sampanthan, a key figure in the Tamil National Alliance and Sri Lankan politics. He highlights Sampanthan's significant role in representing Tamil interests in parliament and advocating for ethnic unity and reconciliation. The loss is deeply felt among the Tamil community and the broader Sri Lankan society, marking a significant void in political leadership. Condolences are extended to Sampanthan's family and supporters.
-
-🟩
-
-Governor of the Northern Province BSM Charles expresses his condolences to the demise of Sri Lanka Tamil National Party leader R. Sampanthan.
-
-I am concerned about the news of the demise of the Tamil National Alliance (TNA) Senior Leader and Member of Parliament, the 14th Opposition Leader of the Democratic Socialist Republic of Sri Lanka, Senior Politician and Attorney -at -Law
-
-The Sri Lankan parliament has been represented as the voice of the Tamil people for a long time in about five decades of political history and has been the leader of the international community for the rights of the Tamil people.. Sambandan is seen.
-
-It is no exaggeration if Annar acted for the benefit of the people of the country on the basis of ethnic unity, integrity and reconciliation. There is no doubt that the loss of such a great leader has caused the Tamil people to be politically void. The death of Annar is a disaster for the people of Sri Lanka.
-
-...
-
-[Data](articles/a936c27d.json)
-
-[Extended Data](ext_articles/a936c27d.ext.json)
-
----
-
-### Tamil Nadu Chief Minister condoles
-
-*2024-07-01 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187380) · `ta`
-
-Tamil Nadu CM MK Stalin condoles the death of Sri Lankan Tamil party leader Rajavarothayam Sambandan, expressing deep sorrow and extending his condolences to the Tamil community in Sri Lanka.
-
-🟩
-
-Tamil Nadu Chief Minister MK Stalin has condoled the death of Senior Leader of the Sri Lankan Tamil party and Trincomalee district parliamentarian Rajavarothayam Sambandan.
-
-Tamil National Alliance (TNA) leader of Sri Lankan Tamils. Sampanthan sir I was hurt and hurt. Mr.. Sampanthan said that my deepest condolences on behalf of the Tamil people of Sri Lanka for the Tamil relations of Sri Lankan Tamil relations.
-
-◼️
-
-[Data](articles/4159fc5a.json)
-
-[Extended Data](ext_articles/4159fc5a.ext.json)
 
 ---

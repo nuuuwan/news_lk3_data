@@ -1,36 +1,54 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 08:35:07**
+As of **2024-07-02 08:53:55**
 
 ## Newspaper Stats
 
-*Scraped **33,203** Articles*
+*Scraped **33,207** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 302
+dbsjeyarajcom | 303
 colombotelegraphcom | 304
-bbccomsinhala | 324
+bbccomsinhala | 325
 newsfirstlk | 363
 islandlk | 1,856
 economynextcom | 1,940
 dailyftlk | 2,054
 adalk | 2,953
 adaderanalk | 3,779
-tamilmirrorlk | 3,927
+tamilmirrorlk | 3,928
 dailymirrorlk | 4,733
 virakesarilk | 5,178
-adaderanasinhalalk | 5,490
+adaderanasinhalalk | 5,491
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,203 (100.0%) of 33,203 articles have been extended.
+33,203 (100.0%) of 33,207 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### මුහුදුබඩ මාර්ගයේ දුම්රිය ධාවනයට බාධා
+
+*2024-07-02 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198386) · `si`
+
+මුහුදුබඩ දුම්රිය මාර්ගයේ පීල්ලක් කැඩී යාම හේතුවෙන් දුම්රිය ධාවනයට බාධා එල්ල වී තිබේ.
+
+නියෝජ්‍ය දුම්රිය සාමාන්‍යාධිකාරී එන්. ජේ ඉඳිපොළගේ මහතා සඳහන් කළේ බම්බලපිටිය සහ වැල්ලවත්ත දුම්රිය ස්ථාන අතර මාර්ගයේ පීල්ලක් මෙලෙස කැඩි ගොස් ඇති බවය.
+
+ඒ හේතුවෙන් මුහුදුබඩ මාර්ගයේ දුම්රිය ධාවනය එක් මාර්ගයක පමණක් සිදුවන බැවින් දුම්රිය ප්‍රමාදයක් ඇතිව තිබේ.
+
+එම මාර්ගයේ අලුත්වැඩියා කටයුතු ආරම්භ කිරීමට පියවර ගෙන ඇති බව දුම්රිය නියෝජ්‍ය සාමාන්‍යාධිකාරීවරයා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/5de13191.json)
+
+---
 
 ### Concluded by death
 
@@ -238,6 +256,30 @@ On this historic day, CDPLC laid the keel marking the commencement of constructi
 
 ---
 
+### නව දූෂණ විරෝධී පනත: පවරන නඩු අසාර්ථක වන්නේ ඇයි ?
+
+*2024-07-02 02:06:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6p231z2vrqo) · `si`
+
+අල්ලස හා දූෂණය තුරන් කිරීමේ අරමුණින් වත්මන් රජය විසින් 2023 අංක 09 දරන දූෂණ විරෝධී පනත පසුගිය වසරේ පාර්ලිමේන්තුවේදී සම්මත කර ගනු ලැබීය.
+
+ඒ අනුව අදාළ පනත  2023 වසරේ අගෝස්තු 8 වැනිදා සිට  නීතියක් බවට බලාත්මක විය.
+
+මෙම පනත ක්‍රියාවට නැංවීම සමඟම පැරැණි  අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභා පනත සම්පූර්ණයෙන්ම අහෝසි වීමද සිදුවිය.
+
+නව දූෂණ විරෝධී පනත  යටතේ අල්ලස් හෝ දූෂණ ක්‍රියාවන් මැඩ පැවැත්වීම සඳහා අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසමට පුළුල් නීතිමය බලතල ලබා දී තිබේ.
+
+මේ හේතුවෙන් පෙර පැවති තත්ත්වයකට වඩා අල්ලස් හෝ දූෂණ චෝදනා සම්බන්ධයෙන් විමර්ශන කිරීමට කොමිසමට පුළුල් නීතිමය බලයක් මෙන්ම ආවරණයක් ලැබී තිබෙන බව නීතිවේදීහූ පෙන්වා දෙති.
+
+එහෙත් නව පනත යටතේ අල්ලස් කොමිසම විසින්  පවරනු ලැබූ නඩු දෙකක් මුල් අවස්ථාවේදීම අසාර්ථක වීම සම්බන්ධයෙන් නීති ක්ෂේත්‍රය තුළ දැඩි කතාබහක් මතු වී තිබේ.
+
+ග්‍රීක බැඳුම්කර සම්බන්ධයෙන් හිටපු මහ බැංකු අධිපති අජිත් නිවාඩ් කබ්රාල් ඇතුළු පිරිසකට එරෙහිව ගොනු කළ නඩුව
+
+...
+
+[Data](articles/5b16a100.json)
+
+---
+
 ### EDB conducts seminar on ‘Smart Solutions for Agricultural and Aquacultural Exports’
 
 *2024-07-02 01:59:35* · [`dailyftlk`](https://www.ft.lk/business/EDB-conducts-seminar-on-Smart-Solutions-for-Agricultural-and-Aquacultural-Exports/34-763738) · `en`
@@ -345,6 +387,22 @@ He was the President of the Asian Marketing Federation (AMF) from 2018 to 2020 a
 [Data](articles/f6fc1fe0.json)
 
 [Extended Data](ext_articles/f6fc1fe0.ext.json)
+
+---
+
+### ’நெல் விளைச்சலை இரட்டிப்பாக்க முடியும்’
+
+*2024-07-02 01:17:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்-விளைச்சலை-இரட்டிப்பாக்க-முடியும்/175-339731) · `ta`
+
+தற்பொழுது கிடைத்து வரும் நெல் அறுவடையின் அளவை எதிர்வரும் ஆறு போகங்களில் இரட்டிப்பாக்க வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க வழங்கியுள்ள இலக்கை அடைவதற்குத் தேவையான நடவடிக்கைகள் எடுக்கப்பட்டுள்ளதாக விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சின் செயலாளர் ஜானக தர்மகீர்த்தி தெரிவித்தார்.
+
+'இரண்டு வருட முன்னேற்றமும் எதிர்காலமும்' என்ற தொனிப்பொருளில் ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற செய்தியாளர் மாநாட்டில் கலந்து கொண்ட விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சின் செயலாளர் ஜானக தர்மகீர்த்தி இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+
+பாரம்பரிய விவசாயத்திற்கு அப்பால் சென்று வளர்ந்து வரும் உணவுத் தேவையைப் பூர்த்தி செய்வது விவசாய அமைச்சின் பொறுப்பாகும். தற்போது இதனை வெற்றிகரமாக நிர்வகித்து வருகிறோம். குறிப்பாக ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் எதிர்வரும் ஆறு போகங்களில் நெற்பயிர் அறுவடையின் அளவை இரட்டிப்பாக்க வேண்டும் என்ற இலக்கை அடையத் தேவையான நடவடிக்கைகளை முன்னெடுத்துள்ளோம்.
+
+...
+
+[Data](articles/bbe26b3d.json)
 
 ---
 
@@ -731,6 +789,22 @@ Talangama Police Conducts on instructions of Chief Inspector Chamindrek
 [Data](articles/48c65840.json)
 
 [Extended Data](ext_articles/48c65840.ext.json)
+
+---
+
+### “We can no longer afford to revert to old politics. The choices we make today profoundly impact our future.  Can we afford to return to the days of long queues and traditional politics? We must decisively choose our course.”- President Ranil Wickremesinghe in Matara.
+
+*2024-07-01 22:21:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84313) · `en`
+
+(Text of Address  Delivered by President Ranil Wickremesinghe at the “Victory through Unity” (Ekwa Jayagamu) Held at the Matara Fort Grounds on 30 June 2024)
+
+“I have safely brought the Titanic, entrusted to me, to port. While other captains fled from the iceberg, we faced a critical decision: sink or navigate to safety. Now that we’ve reached port, the question is what to do next with this ship. We must decide whether to refurbish it for the next 50-100 years or hand it over in its current state to a fleeing captain.
+
+When I arrived here today, memories of the hardships faced by the Matara people flooded back. I vividly recall spending the Sinhala New Year 2022 in Kamburupitiya, where a filling station near my hotel was constantly crowded with long queues of vehicles. Witnessing the people’s suffering and frustration, I resolved that such scenes must not recur in our country.
+
+...
+
+[Data](articles/80a6621e.json)
 
 ---
 
@@ -2221,93 +2295,5 @@ This is why school students, teachers, staff and the public are facing great dif
 [Data](articles/055d37c3.json)
 
 [Extended Data](ext_articles/055d37c3.ext.json)
-
----
-
-### The LPL tournament begins today
-
-*2024-07-01 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198362) · `si`
-
-The Lanka Premier League's 5th phase starts today at the Pallekele International Cricket Stadium. The opening match between Dambulla Sixers and Candy Falcons is scheduled for 7:30 pm, with former leader Michael Clay attending as the league's brand ambassador.
-
-🟩
-
-The 5th phase of Lanka Premier League will commence at the Pallekele International Cricket Stadium today (01).
-
-Dambulla Sixers and Candy Falckens in the first match celebrate the match and the match will begin at 7.30 pm today.
-
-Former leader Michael Clay also attends the brand ambassador of the Lanka Premier League and the Brand Cricket Tournament.
-
-◼️
-
-[Data](articles/2a689843.json)
-
-[Extended Data](ext_articles/2a689843.ext.json)
-
----
-
-### A rocket of China collapses
-
-*2024-07-01 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198361) · `si`
-
-China's rocket failed during its first phase, collapsing shortly after launch.
-
-🟩
-
-The first phase of the rocket has failed due to a failure of the rocket and collapsed as soon as the launch center.
-
-◼️
-
-[Data](articles/1ab2eae5.json)
-
-[Extended Data](ext_articles/1ab2eae5.ext.json)
-
----
-
-### An accident in Jaffna
-
-*2024-07-01 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/187389) · `ta`
-
-In Jaffna, a fatal accident occurred when a motorcyclist collided with a tipper truck near a fuel station on the 25th of last month. Despite receiving medical attention, he succumbed to his injuries without treatment.
-
-🟩
-
-A motorcycle - tipper accident in Jaffna, Jaffna, has died without treatment.
-
-On the 25th of last month, a motorcycle was traveling in front of a fuel station and crashed into a tipper vehicle.
-
-He died without treatment after being treated at the hospital.
-
-◼️
-
-[Data](articles/191ce0cd.json)
-
-[Extended Data](ext_articles/191ce0cd.ext.json)
-
----
-
-### Hirunika's appeal
-
-*2024-07-01 14:19:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிக்காவின்-மேன்முறையீடுக்கு-திகதி-குறிப்பு/175-339697) · `ta`
-
-Hirunika Premachandra's bail petition was postponed by the Colombo High Court. She appeals against her three-year prison sentence for kidnapping and assaulting a youth with a Defender vehicle. The Attorney General is ordered to appear on July 4. Found guilty of 18 charges, including abduction and assault, she claims innocence and seeks justice.
-
-🟩
-
-The bail petition filed on behalf of former Colombo district parliamentarian Hirunika Premachandra (Pending Pending) has been postponed by the Colombo High Court on Monday (01).
-
-Hirunika Premachandra, who was sentenced to three years in prison for kidnapping the youth in the case of a Defender vehicle, has appealed to the Court of Appeal by challenging the sentence imposed by the Colombo High Court.
-
-When the bail plea was taken up in the presence of Colombo High Court Judge Amal Ranarajah, the Attorney General was ordered to appear in court on July 4.
-
-Hirunika Premachandra was found guilty of 18 allegations, including abducting, attacking and attacking a young man with a Defender vehicle in Dematagoda.
-
-Hirunika Premachandra is the ninth culprit in the case, and she has filed a criminal case against her as she admits that she is innocent.. Hirunika Premachandra, who was found guilty of it, was sentenced to three years in prison and was sentenced to 20 thousand rupees each.
-
-◼️
-
-[Data](articles/123cfe20.json)
-
-[Extended Data](ext_articles/123cfe20.ext.json)
 
 ---

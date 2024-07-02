@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 23:54:39**
+As of **2024-07-03 00:07:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,527
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,357 (100.0%) of 33,363 articles have been extended.
+33,363 (100.0%) of 33,363 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -472,6 +472,8 @@ Here are some questions (Q) and answers (A) over what Sri Lanka’s deal on bila
 
 [Data](articles/96e114db.json)
 
+[Extended Data](ext_articles/96e114db.ext.json)
+
 ---
 
 ### Dayasja prohibits the expel from the SLFP General Secretary
@@ -838,6 +840,8 @@ Semasinghe acknowledged that some of Sri Lanka’s bilateral creditors are yet t
 
 [Data](articles/4a3768e6.json)
 
+[Extended Data](ext_articles/4a3768e6.ext.json)
+
 ---
 
 ### Sri Lanka stocks close up due to foreign buying interest
@@ -861,6 +865,8 @@ The other crossing was on Hemas Holdings Plc, (Rs255mn). The share closed down a
 ...
 
 [Data](articles/db2ba2b4.json)
+
+[Extended Data](ext_articles/db2ba2b4.ext.json)
 
 ---
 
@@ -926,6 +932,8 @@ Claiming that there are untruths and half truths expressed inside and outside pa
 
 [Data](articles/976f5ffb.json)
 
+[Extended Data](ext_articles/976f5ffb.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes stronger at 303.10/30 to US dollar
@@ -941,6 +949,8 @@ A bond maturing on 15.09.2029 closed stable at 12.10/20 percent.
 ◼️
 
 [Data](articles/b568d7e6.json)
+
+[Extended Data](ext_articles/b568d7e6.ext.json)
 
 ---
 
@@ -1323,6 +1333,8 @@ Asked by reporters if there was bad feeling between the SLPP and President Wickr
 ...
 
 [Data](articles/69726612.json)
+
+[Extended Data](ext_articles/69726612.ext.json)
 
 ---
 

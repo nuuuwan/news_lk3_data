@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 16:51:54**
+As of **2024-07-02 17:04:52**
 
 ## Newspaper Stats
 
-*Scraped **33,305** Articles*
+*Scraped **33,311** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,857
 economynextcom | 1,948
 dailyftlk | 2,054
-adalk | 2,963
-adaderanalk | 3,796
-tamilmirrorlk | 3,940
+adalk | 2,966
+adaderanalk | 3,798
+tamilmirrorlk | 3,941
 dailymirrorlk | 4,733
 virakesarilk | 5,198
 adaderanasinhalalk | 5,517
@@ -26,11 +26,51 @@ adaderanasinhalalk | 5,517
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,305 (100.0%) of 33,305 articles have been extended.
+33,305 (100.0%) of 33,311 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### Six fishermen arrested with heroin haul off Galle further remanded
+
+*2024-07-02 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100245/six-fishermen-arrested-with-heroin-haul-off-galle-further-remanded) · `en`
+
+The six fishermen, who were apprehended aboard a local multi-day fishing trawler carrying 131kg of heroin in the seas off Galle, have been ordered to be further remanded until July 16.
+
+This order was issued when the suspects were produced before the Colombo Magistrate’s Court once again today (02).
+
+The stock of heroin seized within their fishing vessel has also been presented before the court during today’s hearing, Ada Derana reporter said.
+
+In a recent operation, the Sri Lanka Navy apprehended six suspects aboard a local multi-day fishing trawler carrying 131 kg of heroin, estimated to be valued at over Rs. 3,250 million. The interception took place on June 14 on the high seas off Galle.
+
+During the initial inspection, security forces have not found anything suspicious. However, further investigation had revealed several areas of the boat were suspiciously made with fiber.
+
+Later on the night of June 14, the vessel was brought to Galle Port, where a detailed scan was conducted.
+
+...
+
+[Data](articles/b459a641.json)
+
+---
+
+### Appeals Court decision on Keheliya’s petition fixed for Aug. 01
+
+*2024-07-02 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100244/appeals-court-decision-on-keheliyas-petition-fixed-for-aug-01) · `en`
+
+This order was issued by the two-member Appeals Court bench comprising President of the Court of Appeal Nissanka Bandula Karunaratne and Justice Shashi Mahendran following an extensive consideration of the facts presented related to the petition today (02).
+
+Accordingly, the judge bench also ordered the related parties to file written submissions related to the case, if any, before July 15, 2024.
+
+When this petition was taken up for consideration today, President’s Counsel Chandaka Jayasundara, who appeared for the Sri Lanka Bar Association (BASL), pointed out that the former Health Minister was involved from the beginning to the end of the process of purchasing the drugs in question, which is the basis of this case.
+
+The President’s Counsel further mentioned that it is not possible to purchase such medicines without the knowledge of the then health minister.
+
+...
+
+[Data](articles/56133f9f.json)
+
+---
 
 ### President to be sensitive to the past men's past men
 
@@ -88,6 +128,34 @@ That is why the ownership of the houses are given to these houses for two lakhu 
 
 ---
 
+### මෙරට ඔක්ටේන් 100 පෙට්‍රල් අළෙවිය අරම්භ කරයි
+
+*2024-07-02 16:08:54* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-ඔක්ටේන්-100-පෙට්‍රල්-අළෙවිය-අරම්භ-කරයි/11-410569) · `si`
+
+අද (2)දින පස්වරුවේ සිට ඉන්ධන පිරවුම්හල් කීපයක ඔක්ටේන් 100 පෙට්‍රල් අළෙවි කිරීම  ආරම්භ කරන බව එල්.අයි.ඕ.සී. සමාගම පවසයි.
+
+මෙම ඔක්ටේන් 100 පෙට්‍රල්  භාවිතා කිරීමෙන්  නවීණ වාහන සඳහා  වඩාත් , සුමට ධාවනයක්, වැඩි කිලෝමීටර සංඛ්‍යාවක් සහ ඉහළ එන්ජින් ධාරිතාවක් ලබාගත හැකි බවත්  මෙම පෙට්‍රල් ලීටරයක්  රුපියල් 793 කට අළෙවි කරන බවත් ඔක්ටේන් 100 පෙට්‍රල් භාවිතා කරන ලොව අටවැනි රට  ශ්‍රී ලංකාව බව එම සමාගම පවසයි.
+
+◼️
+
+[Data](articles/54751df8.json)
+
+---
+
+### මේ සූදානම කතරගම ඇසල පෙරහර මංගල්‍යයටයි
+
+*2024-07-02 16:05:54* · [`adalk`](https://www.ada.lk/breaking_news/මේ-සූදානම-කතරගම-ඇසල-පෙරහර-මංගල්‍යයටයි/11-410568) · `si`
+
+ජූලි 06 වෙනිදා සිට ජූලි 21 වෙනි දින දක්වා පැවැත්වෙන ඓතිහාසික රුහුණු කතරගම මහා දේවාලයේ ඇසල මංගල්‍යය උත්සවයට පුදබිම සූදානම්කිරීම මේ දිනවල සිදුකෙරේ.
+
+බස්නායක නිලමේ තැන්පත් ඩිෂාන් වික්‍රරත්න ගුණසේකර මහතාගේ උපදෙස් මත පුදබිමේ මාර්ග, වැලි අතුරා සකස්කිරීම දේවාලය ඇතුළු ගොඩනැඟිලි පින්තාරුකිරීම, පුදබිම පිරිසිදුකිරීම,  සනීපාරක්ෂක කටයුතු විධිමත්කිරීම මෙම වැඩසටහන යටතේ සිදුකෙරේ. ( I J)
+
+◼️
+
+[Data](articles/49f7d9fe.json)
+
+---
+
 ### Person arrested on suspicion after ‘bomb scare’ at Kandy Court complex
 
 *2024-07-02 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/100243/person-arrested-on-suspicion-after-bomb-scare-at-kandy-court-complex) · `en`
@@ -105,6 +173,24 @@ The arrested suspect has been identified as a conductor of a private passenger t
 [Data](articles/28accc68.json)
 
 [Extended Data](ext_articles/28accc68.ext.json)
+
+---
+
+### கண்டியில் குண்டு புரளி   வட்டவளை நபர் கைது
+
+*2024-07-02 15:49:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டியில்-குண்டு-புரளி-வட்டவளை-நபர்-கைது/175-339759) · `ta`
+
+கண்டி நீதிமன்ற வளாகத்துக்குள் வெடிகுண்டு இருப்பதாக அநாமதேய தொலைபேசி அழைப்பை விடுத்த வட்டவளை பிரதேசத்தைச் சேர்ந்த நபர் ஒருவரை கைது செய்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+வெடிகுண்டு மிரட்டல் காரணமாக செவ்வாய்க்கிழமை (02) விசாரணைக்கு எடுத்துக்கொள்ளப்படவிருந்த அனைத்து வழக்குகளும் ஜூலை 16ஆம் திகதிக்கு ஒத்திவைக்கப்பட்டுள்ளது.
+
+கண்டி நீதிமன்ற வளாகத்தில் வெடிகுண்டு இருப்பதாக செவ்வாய்க்கிழமை (02) காலை 10  மணியளவில் பொலிஸ் அவசர பிரிவுக்கு (119) தொலைபேசி அழைப்பு வந்ததையடுத்து பொலிஸார் உடனடியாக நடவடிக்கையில் இறங்கின​ர்.
+
+இராணுவ வெடிகுண்டு செயலிழப்பு பிரிவினரும் விசேட அதிரடிப்படையினரும் ஈடுபட்டனர். ஸ்தலத்துக்கு விரைந்த வெடிகுண்டு செயலிழப்பு பிரிவு நீதிமன்ற வளாகத்தில் இருந்த அனைவரையும் வெளியேற்றி தேடுதல் நடவடிக்கை மேற்கொள்ளப்பட்ட போதிலும் வெடிகுண்டு கண்டுப்பிடிக்கப்படவில்லை.
+
+◼️
+
+[Data](articles/cf7cd614.json)
 
 ---
 
@@ -1095,6 +1181,24 @@ Officials have visited the residence of the area as it was reported to have lodg
 [Data](articles/133956f7.json)
 
 [Extended Data](ext_articles/133956f7.ext.json)
+
+---
+
+### පෙම්වතිය බයකරන්න බෙල්ලෙ ලණුවක් දමාගත් තරුණයා බෙල්ල සිරවී මරුට
+
+*2024-07-02 11:22:30* · [`adalk`](https://www.ada.lk/breaking_news/පෙම්වතිය-බයකරන්න-බෙල්ලෙ-ලණුවක්-දමාගත්-තරුණයා-බෙල්ල-සිරවී-මරුට/11-410561) · `si`
+
+වව්නියාව බෝගස්වැව ප්‍රදේශයේ පදිංචි තරුණයෙකු නන්දිමිත්‍රගම ප්‍රදේශයේදී ගෙල සිරවීමෙන් මිය ගොස් සිටියදී සිරුර සොයාගත් බවට මාමඩුව පොලීසිය පැවසීය.
+
+මිය ගිය තරුණයා පසුගිය 30 වනදා නන්දිමිත්‍රගම ප්‍රදේශයේ පදිංචි ඔහුගේ පෙම්වතිය සමග ඇති වූ බහින්බස් වීමක් හේතුවෙන් පෙම්වතිය අමනාප වීම නිසා ඇය නැවත යහලු කරගැනීමට හා බිය කිරීම සඳහා අදාල තරුණය මිය යන බව පවසා ගෙලෙහි ලණුවක් ගැටගසා ගෙලවැලලාගන්නා ආකාරයට රඟ දක්වා ඇති බවට පොලීසියට අනාවරනවී ඇත.
+
+එහිදී තරුණයාගේ ගෙලෙහි වූ ලණුවේ ගැටය එකවරම සිරවීමෙන් තරුණයා මරණාසන්න වී ඇති බවට පොලීසිය සැක පල කරන අතර ප්‍රදේශවසී ජනතාව විසින් තරුණයා රෝහලගත කිරීමට පියවර ගත්තද ඒ වන විටත් මිය ගොස් ඇතැයි රේහල් වෛද්‍යවරුන් පැවසීය.
+
+මෙලෙස මිය ගොස් ඇත්තේ බෝගස්වැව ප්‍රදේශයේ පදිංචි 17 හැවිරිදි තරුණයෙකු වන අතර මාමඩුව පොලීසිය සහ බෝගස්වැව පොලීසිය වැඩිදුර පරික්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/9999a4d8.json)
 
 ---
 
@@ -2207,127 +2311,5 @@ The President states that Anura Kumara Dissanayake's follower was published in t
 [Data](articles/c0e5cdb0.json)
 
 [Extended Data](ext_articles/c0e5cdb0.ext.json)
-
----
-
-### Gas pricing change?
-
-*2024-07-02 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198384) · `si`
-
-Today, Litro announced a gas pricing amendment, likely influenced by global market changes. The last revision occurred on June 4th, with reductions in prices for various cylinder sizes.
-
-🟩
-
-Litro says that the Gas Pricing amendment will be announced today (02).
-
-The Chairman of the company said that the price is to be revised according to the gas prices in the world market.
-
-The monthly gas priced was revised last June on 4th June.
-
-The price of a 12.5 kilogram of domestic gas cylinder was reduced by Rs.
-
-The price of 5 kg gas cylinder was reduced by 60 rupees and the price of 2.3 kilograms was reduced by Rs.
-
-◼️
-
-[Data](articles/72224899.json)
-
-[Extended Data](ext_articles/72224899.ext.json)
-
----
-
-### Weather today
-
-*2024-07-02 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198383) · `si`
-
-Several closures expected in Western, Sabaragamuwa, and North Western provinces due to weather conditions. Showers predicted in Ampara and Batticaloa districts. Strong winds possible in North, North Central, and North Western provinces. Public advised to prepare for potential wind and lightning hazards.
-
-🟩
-
-The Meteorology Department says that several closure will occur in the Western, Sabaragamuwa and North Western provinces.
-
-The department states that there will be showers at several places in the Ampara and Batticaloa districts in Ampara or Batticaloa districts.
-
-At times, the North, North Central and North Western provinces are situated in the western slopes of the central hills, in the North, North-Central and North Western Provinces.. The Department of Meteorology announces that 40-50 could cause strong winds.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/294b64f7.json)
-
-[Extended Data](ext_articles/294b64f7.ext.json)
-
----
-
-### Will the  Economic “Good News” From Paris and Beijing Help Ranil  Win the 2024 Presidential Poll  in Sri Lanka?
-
-*2024-07-02 03:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84319) · `en`
-
-Ranil  Wickremesinghe was appointed Prime Minister on 12 May 2022 by the then president Gotabaya Rajapaksa. Sri Lanka was in the grip of a debilitating economic crisis then. The “Aragalaya”(struggle) protest movement was raging. The new premier addressed the nation through a special statement on 16 May 2022. In that Wickremesinghe referred to Bertolt Brecht’s play “The Caucasian Chalk Circle”. This is what he said then –
-
-...
-
-[Data](articles/7940d96a.json)
-
-[Extended Data](ext_articles/7940d96a.ext.json)
-
----
-
-### Aragalaya activists raise election postponement conspiracy concerns with ECSL
-
-*2024-07-02 02:27:14* · [`dailyftlk`](https://www.ft.lk/news/Aragalaya-activists-raise-election-postponement-conspiracy-concerns-with-ECSL/56-763751) · `en`
-
-People’s Struggle Alliance’s Wasantha Mudalige accuses President Ranil Wickremesinghe of engaging in discussions to prolong his tenure in power through potential election delays
-
-Stresses Wickremesinghe nor SLPP has a mandate to unilaterally decide on election schedules
-
-Seeks assurance from ECSL on its preparedness to conduct elections in accordance with constitutional mandates
-
-Reaffirms commitment to defending democratic processes to safeguard SL’s electoral system against any threats
-
-Members of the People’s Struggle Alliance (PSA) yesterday held a discussion with the Election Commission of Sri Lanka (ECSL) to address growing apprehensions regarding potential efforts by the Government to postpone upcoming elections.
-
-...
-
-[Data](articles/509bf10b.json)
-
-[Extended Data](ext_articles/509bf10b.ext.json)
-
----
-
-### Divorce between two UK  nationals recognised in Sri Lanka
-
-*2024-07-02 02:25:03* · [`dailyftlk`](https://www.ft.lk/news/Divorce-between-two-UK-nationals-recognised-in-Sri-Lanka/56-763750) · `en`
-
-An applicant preferred an application to the District Court of Colombo on the basis that a mutual divorce application had been preferred to the Family Courts in UK, where parties had voluntarily moved for the annulment of their marriage which had been entered in Sri Lanka.
-
-The Family Court in United Kingdom, the competent Court with jurisdiction to hear and determine matrimonial disputes had made the Final Order terminating the marriage entered in Sri Lanka.
-
-...
-
-[Data](articles/f8abad23.json)
-
-[Extended Data](ext_articles/f8abad23.ext.json)
-
----
-
-### Shanmugam Kugathasan to replace R. Sampanthan in Parliament
-
-*2024-07-02 02:24:25* · [`dailyftlk`](https://www.ft.lk/news/Shanmugam-Kugathasan-to-replace-R-Sampanthan-in-Parliament/56-763749) · `en`
-
-Trincomalee district politician Kathiravelu Shanmugam Kugathasan is set to replace the late R. Sampanthan in Parliament.
-
-Kugathasan, who contested under the Tamil National Alliance (TNA) ticket, received 16,770 preferential votes in the last Parliamentary election, making him the first in line among the list of non-elected candidates.
-
-Kugathasan currently serves as the General Secretary of the Illankai Tamil Arasu Kachchi (ITAK). He was also a former Coordinator for Eastern Province Development Affairs under the National Policies, Economic Affairs and Resettlement Ministry.
-
-Kugathasan is also the Trincomalee District Welfare Association (TDWA) President. The TDWA is a non-profit organisation that aims to empower the people of Trincomalee and improve their socio-economic development.
-
-...
-
-[Data](articles/638ed785.json)
-
-[Extended Data](ext_articles/638ed785.ext.json)
 
 ---

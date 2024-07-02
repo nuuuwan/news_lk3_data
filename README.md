@@ -1,54 +1,118 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 13:54:21**
+As of **2024-07-02 14:06:14**
 
 ## Newspaper Stats
 
-*Scraped **33,269** Articles*
+*Scraped **33,275** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 304
 dbsjeyarajcom | 305
-bbccomsinhala | 325
+bbccomsinhala | 327
 newsfirstlk | 363
 islandlk | 1,856
 economynextcom | 1,943
 dailyftlk | 2,054
-adalk | 2,961
-adaderanalk | 3,791
+adalk | 2,963
+adaderanalk | 3,792
 tamilmirrorlk | 3,939
 dailymirrorlk | 4,733
 virakesarilk | 5,188
-adaderanasinhalalk | 5,507
+adaderanasinhalalk | 5,508
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,268 (100.0%) of 33,269 articles have been extended.
+33,269 (100.0%) of 33,275 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### සිඩ්නි විශ්ව විද්‍යාලයේ පිහි ඇනුමක්
+### ඉන්දියාවෙන් යාපනයට ජල ටැංකි
+
+*2024-07-02 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198403) · `si`
+
+යාපනය දිස්ත්‍රික්කයේ ජනතාවට පානිය ජලය සපයා ගැනීම සඳහා වැසි ජලය රැස්කර ගැනීමේ ටැංකි ඉදිකිරීමට ඉන්දියාව ඉදිරිපත්වී තිබේ.
+
+වැසි ජලය රැස් කිරීමේ ටැංකි 3000ක් ඉදිකිරීමට ඉන්දීය රජය සමග අවබෝධතා ගිවිසුමක් අත්සන් කිරීම සඳහා 2016 - 10 - 25 වනදා අමාත්‍ය මණ්ඩල අනුමැතිය ලැබී තිබුණි.
+
+එම ව්‍යාපෘතිය වසර තුනකදී නිම කළ යුතුව තිබූ නමුත් මතුවූ මූල්‍යමය හා තාක්ෂණික ගැටලු හේතුවෙන් ව්‍යාපෘති කාලසීමාව 2024 ජුනි දක්වා දීර්ඝ කෙරිණි.
+
+ෆෙරෝ සිමෙන්ති ටැංකි වෙනුවට පීවීසී චැසි ජල ටැංකි 1831ක් ස්ථාපිත කිරීමටත් 2022 -10 -10 පැවති කැබිනට් මණ්ඩල රැස්වීමේදී අනුමැතිය ලබාදී තිබේ.
+
+එම ව්‍යාපෘතියේ ඉතිරිව ඇති මුදල් වලින් ටැංකි 934ක් ස්ථාපනය කිරීමට අමාත්‍ය විජයදාස රාජපක්ෂ මහතා ගෙන ආ යෝජනාවට කැබිනට් මණ්ඩල අනුමැතිය ලැබී ඇති බව සඳහන් ය.
+
+◼️
+
+[Data](articles/41ac5f34.json)
+
+---
+
+### Striking uni. non-academic staff reach agreement with authorities
+
+*2024-07-02 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100239/-striking-uni-non-academic-staff-reach-agreement-with-authorities) · `en`
+
+The university non-academic staff trade unions state that the discussions held with the authorities regarding their demands were successful.
+
+Co-chairman of the University Trade Union Joint Committee (UTUJC) Dhammika S. Priyantha said that the officials agreed to provide acceptable solutions to their issues within today (02) or tomorrow (03).
+
+Furthermore, he emphasized that it has been communicated to State Minister of Higher Education Suren Raghavan that they intend to uphold the agreements which have been made during the discussions.
+
+“The strike action will only be terminated if they provide our monthly allowance which was approved in 2017. Accordingly, an agreement was reached to bring this issue before the Cabinet of Ministers to find immediate solutions to the relevant matter”, said the UTUJC co-chairman.
+
+Moreover, he said that if necessary solutions are not provided, the strike action would be further continued.
+
+◼️
+
+[Data](articles/16a2aa78.json)
+
+---
+
+### Knives in the University of Sydney
 
 *2024-07-02 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198402) · `si`
 
-සිඩ්නි විශ්වවිද්‍යාලය තුළදී පිහි ඇනුමක් සිදුකර ඇති බව පොලීසිය පවසයි.
+At the University of Sydney, a knife attack occurred, leading to the arrest of suspects. Several buildings were closed as a precaution. A 22-year-old victim is improving from critical injuries. Authorities investigate the motive, including potential radicalism.
 
-ඊට සැකපිට 14 හැවිරිදි පිරිමි ළමයෙක්ව අත්අඩංගුවට ගෙන ඇති අතර එම සිදුවීමෙන් අනතුරුව විශ්වවිද්‍යාල ගොඩනැගිලි කිහිපයක් වසා දැමීමට බලධාරීන් කටයුතු කළේය.
+🟩
 
-පිහි ප්‍රහාරයට ලක්වූ 22 හැවිරිදි පුද්ගලයෙක්ට හදිසි ප්‍රතිකාර ලබාදී තිබුණි.
+Police say a knife has been made during the University of Sydney.
 
-අසාධ්‍ය තත්ත්වයෙන් සිටි එම පුද්ගලයා ගේ තත්ත්වය හොඳ අතට හැරෙමින් තිබෙන බව පොලීසිය පවසයි.
+The authorities have been arrested in suspicion and after that incident, the authorities acted to close several university buildings.
 
-එම පිහි ඇනුම සිදුකළ ළමයා, රැඩිකල් අදහස් වලින් යුක්ත අයෙක්ද යන්න සම්බන්ධයෙන් ද බලධාරීන් සොයාබලන බව වාර්තා වෙයි.
+A 22-year-old man was assaulted by knives.
+
+The situation of the person in critical condition is getting better, police said.
+
+It is reported that the authorities are also recovered regarding whether the knife's child is a radical comments.
 
 ◼️
 
 [Data](articles/3d370d4f.json)
+
+[Extended Data](ext_articles/3d370d4f.ext.json)
+
+---
+
+### මහනුවර අධිකරණ සංකීර්ණයේ ආරක්ෂාව තහවුරුයි
+
+*2024-07-02 13:25:29* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-අධිකරණ-සංකීර්ණයේ-ආරක්ෂාව-තහවුරුයි/11-410566) · `si`
+
+මහනුවර අධිකරණ සංකීර්ණය තුල බෝම්බයක් ඇති බවට ලද තොරතුරක් මත අධිකරණ කටයුතු නවතා දමා එහි සියලු කාර්‍ය මංඩල ඉවත් කර ආරක්ෂක අංශ මගින් විශේෂ පරික්ෂාවක් සිදුකරණු ලැබු බව මහනුවර පොලිසිය පවසයි.
+
+අධිකරණය තුල බෝම්බයක් ඇති බවට හදිසි ඇමතුම් ඒකකයට ලැබුණු පණිවිඩයක් මත මෙම පරික්ෂාව සිදුකල බව ආරක්ෂක අංශ පවසයි.
+
+මහනුවර පොලිසිය ,මහනුවර නගරසභා ගිනි නිවිම් ඒකකය, පොලිස් විශේෂ කාර්‍ය බලකා බෝම්බ නිශ්‍රක්‍රීය අංශය ඇතුලු සියලුම ආරක්ෂක අංශ විශේෂ පරික්ෂාවක් සිදු කළත් කිසිදු එවන් පිපිරිමක් කල හැකි යමක් හමු වි නොමැති බවද පොලිසිය පැවැසිය.
+
+අද දිනයේ විභාග කිරීමට නියමිතව තිබු සියලු නඩු කටයුතු මෙම මස 16 වෙනිදා විභාග කිරිමට නියමිත බවත් හෙට දිනයේ සාමාන්‍ය පරිදි අධිකරණ කටයතු සිදු කිරිමට නියමිත බවද අධිකරණ නිලධාරියෙක් පැවසිය. මහනුවර අධිකරණය තුළ පළාත්බද අධිකරණය,මහේස්ත්‍රාත් අධිකරණ ඇතුඵ අධිකරණ 11 ක් ක්‍රියාත්මක වේ.
+
+◼️
+
+[Data](articles/697f4a21.json)
 
 ---
 
@@ -998,6 +1062,26 @@ The small documentary, compiled by Selvamani Sridharan, presents the terrifying 
 
 ---
 
+### ඖෂධ මිල නියම කිරීමට සූත්‍රයක් එයි
+
+*2024-07-02 09:30:39* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-මිල-නියම-කිරීමට-සූත්‍රයක්-එයි/11-410558) · `si`
+
+ඖෂධ සඳහා උපරිම සිල්ලර  මිලක් නියම කිරීමට අදාලව ක්‍රමවේදයක්  හඳුන්වා දෙමින් සෞඛ්‍ය අමාත්‍ය රමේෂ් පතිරණ මහතා විසින් අති විශේෂ ගැසට් පත්‍රයක් නිකුත් කරයි.
+
+මේ අනුව යම් නිශ්චිත ඖෂධයක ඖෂධ මාත්‍රා ආකාරයට සහ ප්‍රබලතාවයට අදාලව විනිවිදබාවය සහ සාධාරණත්වය සහතික කිරීම  මෙම මිල නියම කිරීමේ ක්‍රමවේදයේ අරමුණ බව ගැසට් නිවේදනයේ සඳහන් වේ.
+
+ආකාර දෙකක් යටතේ හඳුන්වා දී ඇති  මෙම මිල නියම කිරීමේ ක්‍රමවේදයේදී  ඖෂධ පිළිබඳව  ජාත්‍යන්තර වශයෙන් හා   දේශීය වශයෙන් භාවිතා වන මිල ගණන් ,  තොරතුරු හා මූලාශ්‍ර භාවිතා කළ යුතු බවද ගැසට් නිවේදනය මගින් අමාත්‍යවරයා පනවා ඇති නියෝගවල සඳහන් වේ.
+
+මෙකී නියෝග කඩ කරන්නන්ට එරෙහිව අධිකරණය හමුවේ නඩු පැවරිය යුතුයැයිද ගැසට් නිවේදනයේ අමාත්‍යවරයාගේ නියෝග යටතේ  සඳහන් කර ඇත.
+
+ඖෂධවල මිල නියම කිරීමේ බලය   2015 අංක 05 දරණ ජාතික ඖෂධ නියාමන අධිකාරි පනත අනුව පිහිටුවන  ඖෂධවල  මිල නියම කිරීමේ කමිටුවට  පැවරේ.
+
+◼️
+
+[Data](articles/2b65b762.json)
+
+---
+
 ### Chance for rain in the evening or at night
 
 *2024-07-02 09:29:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாலையில்-அல்லது-இரவில்-மழைக்கு-வாய்ப்பு/175-339735) · `ta`
@@ -1248,6 +1332,24 @@ President Ranil Wickremesinghe has taken steps to achieve the target of the deve
 
 ---
 
+### LPL 2024 : පළමු තරගයේදීම අර්ධ ශතකයක් වාර්තා කළ චමිදු වික්‍රමසිංහ යනු කවුද?
+
+*2024-07-02 08:01:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxe2vv8r0ndo) · `si`
+
+LPL 2024 : පළමු තරගයේදීම අර්ධ ශතකයක් වාර්තා කළ චමිදු වික්‍රමසිංහ යනු කවුද?
+
+මෙවර ලංකා ප්‍රීමියර් ලීග් ක්‍රිකට් තරගාවලිය (ජුලි මස 01 වැනිදා) ආරම්භ වුයේ, කැන්ඩි ෆෝල්කන්ස් කණ්ඩායම සහ දඹුල්ල සික්සර්ස් කණ්ඩායම අතර තරගයෙන් කැන්ඩි ෆෝල්කන්ස් කණ්ඩායමට ජය හිමිකර දෙමිනි.
+
+එහෙත් පළමු තරගයේදී ම දඹුල්ල සික්සර්ස් කණ්ඩායම නියෝජනය කළ නවක ක්‍රීඩකයෙකු වන චමිදු වික්‍රමසිංහ දැක්වූ දක්ෂතාවය පිළිබඳ බොහෝ දෙනාගේ අවධානය යොමු වී තිබේ.
+
+Skip Facebook postFacebook අන්තර්ගතයට අවසරදීමට ඔබ එකඟ ද?මෙම ලිපියේ Facebook විසින් සපයන ලද අන්තර්ගතයන් අඩංගු වේ. ඔවුන් කුකීස් සහ වෙනත් තාක්ෂණයන් භාවිතා කරන නිසා, ඒ කිසිවක් පූරණය වීමට පෙර අපි ඔබගේ අවසරය ඉල්ලා සිටිමු. එයට අවසරදීමට පෙර ඔබට Facebook කුකී ප්‍රතිපත්තිය සහ රහස්‍යතා ප්‍රතිපත්තිය කියවීමට අවශ්‍ය විය හැකි ය. මෙම අන්තර්ගතය බැලීමට 'පිළිගෙන ඉදිරියට යන්න' තෝරන්න.Accept and continueඅනතුරු ඇඟවීමයි: බාහිර වෙබ් අඩවිවල අන්තර්ගතය සඳහා BBCය වගකියනු නොලැබේ.End of Facebook postමෙහි අන්තර්ගතය නැතවැඩිදුරටත් Facebook බලන්නබාහිර වෙබ් අඩවිවල අන්තර්ගතයට බීබීසී වගකියනු නොලැබේ.
+
+...
+
+[Data](articles/0d1d7bd0.json)
+
+---
+
 ### Sri Lanka reports US$706mn current account surplus amid financial outflows
 
 *2024-07-02 08:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-reports-us706mn-current-account-surplus-amid-financial-outflows-170433/) · `en`
@@ -1351,6 +1453,24 @@ Kosgoda and Biyagama Police are conducting further investigations into the incid
 [Data](articles/c828eadb.json)
 
 [Extended Data](ext_articles/c828eadb.ext.json)
+
+---
+
+### 'මම එංගලන්තයේ මහ බැංකුව කඩන්න ද?'
+
+*2024-07-02 07:36:32* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv2gpp73917o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, රටේ විදේශ ණය ඩොලර් බිලියන 37ක් බව ජනපති පාර්ලිමේන්තුවේ දී කියයි.
+
+ශ්‍රී ලංකාවේ සමස්ත විදේශ ණය ප්‍රමාණය ඩොලර් බිලියන 37ක් බවත් එය පසුගිය වසර දෙක තුළ බිලියන 100 දක්වා වැඩි වූ බව පැවසීම අසත්‍යක් බවත් ජනාධිපති රනිල් වික්‍රමසිංහ අද (ජූලි 02) පාර්ලිමේන්තුවේ දී සඳහන් කළේය.
+
+ණය පිළිබද දැනට ඇතිකරගෙන ඇති එකඟතා සහ ඒවායේ ප්‍රගතිය ගැන ජනාධිපතිවරයාට විශේෂ ප්‍රකාශයක් කිරීම සඳහා අද පාර්ලිමේන්තුව කැඳවා තිබිණි.
+
+එහිදී අනුර කුමාර දිසානායකගේ අනුගාමිකයෙකු සමාජ මධ්‍යයේ පළ කළ බව කියන ප්‍රකාශයක් පදනම් කරගෙන ජනාධිපතිවරයා මෙලෙස පැවසුවේය.
+
+...
+
+[Data](articles/c0e5cdb0.json)
 
 ---
 
@@ -1537,6 +1657,10 @@ Discussions between Ceylon Italy Blue Economy Association President Vittorio Coc
 ### Colombo Dockyard makes history with three milestones in one day
 
 *2024-07-02 02:17:08* · [`dailyftlk`](https://www.ft.lk/business/Colombo-Dockyard-makes-history-with-three-milestones-in-one-day/34-763745) · `en`
+
+Exchanging protocol of delivery during handing over of Misje Rose
+
+Ceremonial cutting of ribbon during handing over of Misje Rose
 
 Colombo Dockyard PLC (CDPLC) made history on 28 June by achieving three important milestones in shipbuilding on the same day, in the construction of 5000DWT Eco Bulk Carriers for Misje Eco Bulk AS Norway.
 
@@ -2069,143 +2193,5 @@ Heritance Aarah, nestled in the pristine Raa Atoll of the Maldives, has been hon
 [Data](articles/ff4a2878.json)
 
 [Extended Data](ext_articles/ff4a2878.ext.json)
-
----
-
-### ComBank employees celebrate Poson with ‘Pahan Gee’
-
-*2024-07-01 22:37:00* · [`islandlk`](http://island.lk/combank-employees-celebrate-poson-with-pahan-gee-2/) · `en`
-
-A choral ensemble comprising of members of the staff of the Commercial Bank recently performed at a celebration of Poson with devotional songs. The Bank’s Chairman Sharhan Muhseen, Deputy Chairman Raja Senanayake, Managing Director/CEO Sanath Manatunge, directors and representatives of the senior and corporate management of the Bank graced the occasion at the Malalasekara Theatre at Nalanda College. Present and past employees of Commercial Bank and their families attended the celebration
-
-The guest artiste at the event was the popular musician T. M. Jayaratne, who was accompanied by the Commercial Bank choir on some of the songs. A notable feature of the performance was that many of the devotional songs sung were composed especially for the Bank. Pictured here is one of the performances at the event.
-
-99x expands global footprint with high-profile roundtable in Colombo highlighting strategic growth
-
-...
-
-[Data](articles/ef5822b6.json)
-
-[Extended Data](ext_articles/ef5822b6.ext.json)
-
----
-
-### Keheliya candidates to mislead Human Emmoglobulin vaccine
-
-*2024-07-01 22:34:24* · [`adalk`](https://www.ada.lk/breaking_news/හියුමන්-ඉමියුනොග්ලොබියුලින්-එන්නත-ගැන-කෙහෙළිය-ඇමති-මණ්ඩලය-නොමග-යවලා/11-410551) · `si`
-
-The Attorney General accused the Cabinet of misleading Health Minister Keheliya Rambukwella regarding financial details on the Human Immunulin vaccine's antibodies. The Court of Appeal is reviewing a petition against this, with the Deputy Solicitor General highlighting the lack of proper authorization for the Cabinet's actions. The case involves allegations of misinformation and improper handling of sensitive health information.
-
-🟩
-
-The Attorney General has informed the Court of Appeal today (01), the Cabinet of Ministers have misled the Cabinet of Health Minister Keheliya Rambukwella to provide financial information on the antibodies of the Atoglats of the antibodies of Human Immunulin.
-
-Deputy Solicitor General Nirmalan Wigneswaran, pointed out that the Cabinet has given the Cabinet of drugs, has given him a right order.
-
-The Rit petition filed by the injection of Human Immunulin, which was held to be remanded, was sent to the examination, was taken to the examination.
-
-The Director of the CID has been named as the respondents in the petition Minister Keheliya Rambukwella.
-
-The petition was considered by the Court of Appeal, Judge Nissanka Bandula Karunaratne and Justice Shashi Mahendran.
-
-The petitioner stated that the Deputy Solicitor General Nirmalan Wigneswaran, who appeared with the Attorney General, has taken a cabinet and has taken a cabinet to the Attorney General.
-
-...
-
-[Data](articles/7ca8f548.json)
-
-[Extended Data](ext_articles/7ca8f548.ext.json)
-
----
-
-### Share market lapses into negativity as political uncertainty persists
-
-*2024-07-01 22:31:00* · [`islandlk`](http://island.lk/share-market-lapses-into-negativity-as-political-uncertainty-persists/) · `en`
-
-The stock market yesterday lapsed into negativity due to stubbornly persistent political uncertainty despite positive reactions from Sri Lanka’s external creditors on the debt restructuring front. Consequently, both indices moved downwards.
-
-The All Share Price Index went down by 68/05 points, while the S and P SL20 declined by 19.79 points. Turnover stood at Rs 686 million with two crossings. Those crossings were reported in JKH, which crossed 500,000 shares to the tune of Rs 102 million; its shares traded at Rs 204 and Hayleys 500,000 shares crossed for Rs 62.5 million; its shares traded at Rs 105.
-
-...
-
-[Data](articles/2d3f4a9f.json)
-
-[Extended Data](ext_articles/2d3f4a9f.ext.json)
-
----
-
-### Shamlan joined Walan World Records Book as the most memory child in the world
-
-*2024-07-01 22:29:34* · [`adalk`](https://www.ada.lk/picture_story/ලොව-ඉහළම-මතක-ශක්තියක්-ඇති-දරුවා-ලෙස-වෝලන්-ලෝක-වාර්තා-පොතට-එක්වූ-ෂම්ලාන්/10-410550) · `si`
-
-Mohammed Shamlan, a 3-year-old from Sri Lanka, has set two world records: identifying 1098 pictures featuring various subjects in just 35 seconds and recognizing 1000 objects within 90 seconds. These feats earned him recognition in the World Records Book, making him the youngest record holder globally.
-
-🟩
-
-The "Muhammad Shamlan" has joined the World Records book in the World Records, "the highest in the world," which is yet to be "the world of memory child".
-
-Atlani, a three-year-old resident of Wattala, Hunupitiya, Welegoda, and 1098 different pictures were identified by Mohammed Safan and Fatima Mawatha.
-
-There, flowers, flowers, inserts, Arabic, Arabic, Arabic, Arabic, Arabic, and well-known cricketers, world-famous cricketers, world-famous cricketers, world-famous cricketers, world-famous cricketers, world-famous cricketers, worldwide cricketers,It is significant that 1098 pictures, including national players, foodstuffs and domesticated materials is the case.
-
-Accordingly, at the age of 3, Muhammad Shamland has been named as the child of the world.
-
-Sri Lankan Branch Vice President of the Sri Lanka Branch of Sri Lanka Branch Chandramohan has been registered as a global report and a gold medal, a gold medal, a gold medal, and plaque.Awarded an identity card.
-
-...
-
-[Data](articles/db2c9513.json)
-
-[Extended Data](ext_articles/db2c9513.ext.json)
-
----
-
-### Man arrested for attacking households with a sharp instrument
-
-*2024-07-01 22:22:49* · [`adalk`](https://www.ada.lk/breaking_news/තියුණු-ආයුධයකින්-මහමග-ගමන්-කළ-වාහනවලට-පහරදුන්-පුද්ගලයෙක්-අල්ලයි/11-410549) · `si`
-
-A man was arrested after allegedly attacking houses and vehicles with a sharp object in Talangama. The incident involved a sword and occurred near the provincial council building. The suspect, identified as Denzil Kobbe Kobbab, was injured and hospitalized.
-
-🟩
-
-Talangama Police say that a person who is impulsively assouiated with a sharp weapon without etc.
-
-Police said that the assault was killed by motorbikes and three-wheelers and the provincial council building.
-
-Talangama Denzil Kobbe Kobbab beat Kobbe Sword and this person has been attacked by the vehicle
-
-According to the complaints received by the police, the suspect had taken immediate arrest
-
-The suspects were admitted to the Mulleriyawa Hospital with injuries and injured in a person's beaten.
-
-Talangama Batapotha resident of the Talangamuwa Talanga addict
-
-Talangama Police Conducts on instructions of Chief Inspector Chamindrek
-
-◼️
-
-[Data](articles/48c65840.json)
-
-[Extended Data](ext_articles/48c65840.ext.json)
-
----
-
-### Henry Pedris Phalawa to Isipathana College
-
-*2024-07-01 22:17:02* · [`adalk`](https://www.ada.lk/sports/හෙන්රි-පේද්‍රිස්-පිටිය-ඉසිපතන-විදුහලට/9-410548) · `si`
-
-Sports Minister Harin Fernando announced the cabinet's decision to transfer Isipathana Vidyalaya's management to Henry Pedris Phalawa. The stadium will now serve educational institutions near Isipathana College.
-
-🟩
-
-Sports Minister Harin Fernando says that the cabinet has decided to officially transfer the management of Isipathana Vidyalaya, Isipathana Vidyalaya.
-
-Accordingly, the stadium will be used to use this stadium for schools around the Isipathana College and Isipathana College.
-
-◼️
-
-[Data](articles/2efcf3c0.json)
-
-[Extended Data](ext_articles/2efcf3c0.ext.json)
 
 ---

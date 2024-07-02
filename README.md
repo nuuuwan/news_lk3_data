@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 21:54:42**
+As of **2024-07-02 22:08:15**
 
 ## Newspaper Stats
 
-*Scraped **33,347** Articles*
+*Scraped **33,350** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,32 +15,72 @@ newsfirstlk | 363
 islandlk | 1,857
 economynextcom | 1,948
 dailyftlk | 2,054
-adalk | 2,973
-adaderanalk | 3,804
+adalk | 2,974
+adaderanalk | 3,805
 tamilmirrorlk | 3,944
 dailymirrorlk | 4,733
 virakesarilk | 5,207
-adaderanasinhalalk | 5,525
+adaderanasinhalalk | 5,526
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,346 (100.0%) of 33,347 articles have been extended.
+33,347 (100.0%) of 33,350 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### இலங்கையில் புதிய வகை பெற்றோல் அறிமுகம்
+### ගුරු - විදුහල්පති වෘත්තීය සමිති රජයට කල්දෙයි
+
+*2024-07-02 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198423) · `si`
+
+තම ඉල්ලීම් ලැබෙන තුරු සටන අත්නොහරින බව ගුරු විදුහල්පති වෘත්තීය සමිති පවසයි.
+
+අද (02) දිනයේ පැවති උද්ඝෝෂණය පාසල් වේලාවෙන් පසුව පාසල් ඉදිරිපිට සිදුකළ ද තම ඉල්ලීම් සම්බන්ධයෙන් අවධානය යොමු නොකළහොත් පාසල් වේලාව තුළ උද්ඝෝෂණ සිදුකිරීමට කටයුතු කරන බව එම වෘත්තීය සමිති සඳහන් කළේය.
+
+ඒ අනුව එළැඹෙන සිකුරාදා දිනයේ සියලු වෘත්තීය සමිති කොළඹට කැඳවා ඉදිරි ක්‍රියාමාර්ග සම්බන්ධයෙන් සාකච්ඡා කිරීමට බලාපොරොත්තු වන බව ද ඔවුන් සඳහන් කළේය.
+
+වැටුප් විෂමතාව ඉවත් කරන ලෙස බලධාරීන්ට බලකරමින් ගුරුවිදුහල්පති වෘත්තීය සමිති පසුගිය දින කිහිපය පුරාම විවිධ වෘත්තීය සමිති ක්‍රියාමාර්ගවල නිරත වූ අතර ඔවුන් අද දිවයින පුරා පාසල් ඉදිරිපිට ‍උද්ඝෝෂණ ව්‍යාපාරයක ද නිරත වුණි.
+
+◼️
+
+[Data](articles/cddafba0.json)
+
+---
+
+### Lanka IOC launches 100 Octane premium petrol in Sri Lanka
+
+*2024-07-02 21:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100252/-lanka-ioc-launches-100-octane-premium-petrol-in-sri-lanka) · `en`
+
+The Minister of Power and Energy, Kanchana Wijesekera, stated that Lanka IOC will be launching a 100 Octane premium petrol to the market from today (02).
+
+In a post on ‘X’ (formerly Twitter), Wijesekera stated that he had a meeting and discussions with the Chairman and the Senior Management of Lanka IOC.
+
+“We discussed the development plans of the retail outlet network of LIOC, tank farm development, lubricant market, fuel pricing formula and the proposed oil pipeline between India and Sri Lanka,” he said.
+
+◼️
+
+[Data](articles/e934fb10.json)
+
+---
+
+### Introducing the new type of petrol in Sri Lanka
 
 *2024-07-02 21:31:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-புதிய-வகை-பெற்றோல்-அறிமுகம்/175-339767) · `ta`
 
-லங்கா ஐஓசி நிறுவனம் புதிதாக 100 ஒக்டேன் ரக பெற்றோலை  இன்று (02) சந்தைக்கு விநியோகிக்கவுள்ளதாக மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் கஞ்சன விஜேசேகர தெரிவித்தார்.
+Sri Lanka introduces 100 octane petrol distributed by Lanka IOC, aiming to improve fuel quality.
+
+🟩
+
+Minister of Power and Energy Kanjana Wijesekera said that Lanka IOC will distribute 100 octane parents to the market today (02).
 
 ◼️
 
 [Data](articles/f49ebf10.json)
+
+[Extended Data](ext_articles/f49ebf10.ext.json)
 
 ---
 
@@ -187,6 +227,22 @@ If there is insufficient evidence to make sure, the police can be able to work. 
 [Data](articles/823b29f7.json)
 
 [Extended Data](ext_articles/823b29f7.ext.json)
+
+---
+
+### ජනපති හා සජිත් අතර ‘සුබ අසුබ’ විවාදය
+
+*2024-07-02 19:04:11* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-සජිත්-අතර-‘සුබ-අසුබ’-විවාදය/11-410576) · `si`
+
+'සුබ -අසුබ' ගැන එකිනෙකාට ප්‍රශ්න කර ගනිමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා අතර අද (02දා) පාර්ලිමේන්තුවේදී විවාදයක් ඇති විය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඊයේ පාර්ලිමේන්තුවේදී විශේෂ ප්‍රකාශයක් කළ අතර ඊට විපක්ෂනායකවරයා ප්‍රතිචාර දැක්වීමත් සමග මෙම විවාදය ඇති විය.
+
+විපක්ෂනායක සජිත් ප්‍රේමදාස - ඔබතුමා කතාවක් කිව්වා සුබද අසුබද කියලා. මම අහන්න කැමතියි ජනාධිපතිතුමාගෙන් මන්දපෝෂණය වැඩිවීම සුබද අසුබද? රැකියා අහිමි වීම සුබද අසුබද ? රටේ උගතුන් රට හැරයාම සුබද අසුබද?  දුප්පත්කම වැඩිවීම සුබද අසුබද ? කුඩා මධ්‍ය කර්මාන්ත වැසී යාම සුබද අසුබද ? ව්‍යවසායකයන් ව්‍යාපාරවලින් ඉවත් වීම සුබද අසුබද , පාසල් පද්ධතිය තුළ දරුවෝ කලන්තේ දාලා වැටෙන එක සුබද අසුබද? ඉදිකිරීම් කර්මාන්තය කඩාගෙන වැටෙන එක සුබද අසුබද , ආහාර වේල් තුන කාපු අය වේල් තුන කනකොට, වේල් දෙක කාපු අය එකවේල කනකොට, එක වේලක් කාපු අය එකම වේලක්වත් ගන්නේ නැතිකොට ජනාධිපතිමා ඒක සුබද අසුබද?
+
+...
+
+[Data](articles/554bfee6.json)
 
 ---
 
@@ -2271,77 +2327,5 @@ The Deputy General Manager of the Railway has stated that steps have been taken 
 [Data](articles/aee41a8f.json)
 
 [Extended Data](ext_articles/aee41a8f.ext.json)
-
----
-
-### At least nine killed in Seoul as car ploughs into crowd
-
-*2024-07-02 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/100233/at-least-nine-killed-in-seoul-as-car-ploughs-into-crowd) · `en`
-
-A car has ploughed into a crowd of people killing at least nine in the South Korean capital Seoul, police say.
-
-The traffic accident took place at around 21:30 local time (13:30 BST), they added.
-
-As reported by Yonhap news agency, a man believed to be in his 60s drove the vehicle into pedestrians waiting at a traffic stop.
-
-Police say they are investigating the incident, but warn that casualty numbers might increase.
-
-According to local media, the car was driving in the wrong direction and crashed into two other vehicles before it made contact with pedestrians.
-
-Police said the accident took place at an intersection near Seoul city hall. The driver in question, who was arrested at the scene, reportedly told the police the car suddenly accelerated.
-
-Six people died at the scene, while three others died later of their injuries.
-
-Yonhap, South Korea’s news agency, reports that the man arrested was 68 years old.
-
-...
-
-[Data](articles/3c7a035b.json)
-
-[Extended Data](ext_articles/3c7a035b.ext.json)
-
----
-
-### Sri Lanka among first middle-income countries to utilize new debt sustainability analysis framework - President
-
-*2024-07-02 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100232/sri-lanka-among-first-middle-income-countries-to-utilize-new-debt-sustainability-analysis-framework-president) · `en`
-
-President Ranil Wickremesinghe announced that Sri Lanka is among the first middle-income countries to utilize the new debt sustainability analysis framework, introduced specifically for middle-income nations, to undertake debt restructuring.
-
-Delivering a special statement in Parliament today (02), the President further stated that Sri Lanka’s foreign debt totals USD 37 billion.
-
-He mentioned that this includes USD 10.6 billion in bilateral debt, USD 11.7 billion in multilateral debt, USD 14.7 billion in commercial debt and USD 12.5 billion in sovereign bonds.
-
-In his special statement, President Wickremesinghe also announced to the Parliament that that an agreement was reached on June 26th with Sri Lanka’s official creditors concerning debt repayment.
-
-Wickremesinghe said that authorized Cabinet officials have signed these agreements on behalf of Sri Lanka.
-
-...
-
-[Data](articles/a933b139.json)
-
-[Extended Data](ext_articles/a933b139.ext.json)
-
----
-
-### Bombing of the Kandy Court Complex
-
-*2024-07-02 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198395) · `si`
-
-A special security operation is underway at the Kandy Court Complex after a bombing incident. The trial has been halted, and individuals have been evacuated from the area. Search operations involving the military and police are ongoing to locate the bomber.
-
-🟩
-
-According to the correspondent of the Kandy Court Complex, a special security operation is being operated.
-
-The people have stopped the trial and the people have been removed from the court complex.
-
-It is reported that the bomber and the army and the police are search operations in their search.
-
-◼️
-
-[Data](articles/b771e235.json)
-
-[Extended Data](ext_articles/b771e235.ext.json)
 
 ---

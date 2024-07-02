@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 02:52:58**
+As of **2024-07-03 03:04:54**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ adaderanasinhalalk | 5,528
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,375 (100.0%) of 33,376 articles have been extended.
+33,376 (100.0%) of 33,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
-### பாராளுமன்றில் இன்று அஞ்சலி
+### Tribute to Parliament today
 
 *2024-07-03 00:57:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றில்-இன்று-அஞ்சலி/175-339785) · `ta`
 
-மறைந்த பாராளுமன்ற உறுப்பினர் இரா. சம்பந்தனின்   பூதவுடலுக்கு பாராளுமன்றத்தில் புதன்கிழமை (03)   இறுதி அஞ்சலி செலுத்தப்படவிருப்பதால், அதில் கலந்துகொள்ளுமாறு பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர சகல பாராளுமன்ற உறுப்பினர்களிடமும் கோரிக்கை விடுத்துள்ளார்.
+The late Member of Parliament. The Secretary General of Parliament Kushani Rohanadeera has requested all the MPs to attend the final tribute to Sambandan's boutique in Parliament on Wednesday (03).
 
-இரா. சம்பந்தன்   பூதவுடல் இறுதி அஞ்சலிக்காக இன்று புதன்கிழமை  பி.ப 2 மணி முதல் மாலை  4  மணிவரை பாராளுமன்ற கட்டடத்தின் முன்பக்கத்திலுள்ள ஒன்றுகூடல் மண்டபத்தில் வைக்கப்படும்.
+Nonsense. The final tribute will be held at the meeting hall at the front of the Parliament building from 2 pm to 4 pm on Wednesday.
 
 ◼️
 
 [Data](articles/cfbb72db.json)
+
+[Extended Data](ext_articles/cfbb72db.ext.json)
 
 ---
 

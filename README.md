@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 09:05:11**
+As of **2024-07-02 09:19:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,491
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,207 (100.0%) of 33,210 articles have been extended.
+33,210 (100.0%) of 33,210 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 [Data](articles/7940479c.json)
 
+[Extended Data](ext_articles/7940479c.ext.json)
+
 ---
 
 ### Coastal line trains delayed
@@ -59,6 +61,8 @@ Train services on the coastal line have been delayed due to damage to a rail tra
 ◼️
 
 [Data](articles/215ebd76.json)
+
+[Extended Data](ext_articles/215ebd76.ext.json)
 
 ---
 
@@ -86,21 +90,31 @@ The Deputy General Manager said that steps have been taken to commence the recon
 
 ---
 
-### රු. කෝටි ගණනක මුදල් හේතුවෙන් කතරගම දේවාලයේ කපු පරපුරු දෙකක් අතර ගැටුමක්
+### Rs. Between two crores, a clash between two cotton collapses at Kataragama
 
 *2024-07-02 07:39:42* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-ගණනක-මුදල්-හේතුවෙන්-කතරගම-දේවාලයේ-කපු-පරපුරු-දෙකක්-අතර-ගැටුමක්/11-410552) · `si`
 
-කතරගම ඇසළ මංගල්‍යය ආරම්භ වීමත් සමග පූජා වට්ටිවලින් ලැබෙන රුපියල් කෝටි ගණනක මුදල් සහ රන් ආභරණ වෙනුවෙන් රුහුණු කතරගම මහා දේවාලයේ කපු පරපුර දෙකක් අතර දේවාලයේදී පෙරේදා (30 වැනිදා) පස්වරුවේ ගැටුමක් ඇති වී  ඇත.
+During the Kataragama Esala Festival, a clash erupted between the Twarwa Kapura Regime and the Capital Given Devalaya, resulting in injuries and leading to investigations by the Kataragama Police. The incident involved disputes over financial matters, with allegations of assault and property damage. The situation escalated during the Perahera season, affecting the sacred revenue and causing tension among different generations within the community. The Sri Lanka Army was called in to maintain order.
 
-දේවාලයේ තේවාව භාර රත්නායක කපු පරපුර හා ආරාපක්ෂ කපු පරපුර අතර මෙම ගැටුම ඇති වී තිබේ. මෙම මාසය බාර කපු මහතකු වන ගයාන් ආරාපක්ෂ පහරදුන් බව පවසා රත්නායක කපු පරපුරේ උපුල් රත්නායක යන අය ප්‍රතිකාර සඳහා කතරගම රෝහලට ඇතුළත් වී තිබේ.
+🟩
 
-තවද මෙම පහරදීම සම්බන්ධයෙන් කතරගම පොලිසියට ලැබුණු පැමිණිල්ලක් මත පරීක්ෂණ ආරම්භ කරන ලදී. මේ සම්බන්ධව කතරගම පොලිසිය මගින් ගයාන් අරාපක්ෂ නමැති කපුවා ඊයේ (01 වැනිදා) පොලිසියට කැඳවා අත්අඩංගුවට ගෙන තිස්සමහාරාම මහෙස්ත්‍රාත්වරයා හමුවට ඉදිරිපත් කළ පසු රුපියල් ලක්ෂ පහක ශරීර ඇප මත මුදා හැර    ඇත.
+With the commencement of the Kataragama Esala Festival, a clash had taken place in the Devalaya (30) at the Devalaya (30).
 
-පෙරහර සමයේ මෙම පරම්පරා දෙක අතර ගැටුම පවතින බවත්, පෙරහර සමයේ පූජා වට්ටිවලට එකතුවන රුපියල් කෝටි හය හතක මුදල වෙනුවෙන් මෙම ගැටුම පවතින බවත් හෙළි වී ඇත.
+The clash has occurred among the Twarwa Kapura Regime and Capital Given the Devalaya. The Kataragama hospital has been admitted to the Kataragama hospital for treatment that Gayan was assaulted by Gayan, a cotton was assaulted by Gayan.
+
+Moreover, investigations were launched on a complaint received by the Kataragama Police regarding the attack. The Kataragama Police have taken the Karan Aravan police to the police yesterday (1st) and was released on bail of Rs.
+
+It is revealed that during Perahera season, there is a conflict between the two generations and that the clash is available for Rs.
+
+The total income of the sacred revenue is being taken. Basnayake Nilame Dilshan Gunasekera, Basnayake, Dilshan Gunasekera, says that when it is impossible to share.
+
+The buses were taken away from the Basnayake Nilame's residence in the Kataragama Devalaya.
 
 ...
 
 [Data](articles/68493ba9.json)
+
+[Extended Data](ext_articles/68493ba9.ext.json)
 
 ---
 

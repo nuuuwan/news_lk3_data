@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 10:53:36**
+As of **2024-07-02 11:05:18**
 
 ## Newspaper Stats
 
-*Scraped **33,225** Articles*
+*Scraped **33,237** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,40 +13,194 @@ colombotelegraphcom | 304
 bbccomsinhala | 325
 newsfirstlk | 363
 islandlk | 1,856
-economynextcom | 1,940
+economynextcom | 1,943
 dailyftlk | 2,054
-adalk | 2,955
-adaderanalk | 3,783
-tamilmirrorlk | 3,933
+adalk | 2,956
+adaderanalk | 3,786
+tamilmirrorlk | 3,935
 dailymirrorlk | 4,733
 virakesarilk | 5,178
-adaderanasinhalalk | 5,497
+adaderanasinhalalk | 5,500
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,224 (100.0%) of 33,225 articles have been extended.
+33,225 (100.0%) of 33,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### ලිට්‍රෝ ගෑස් මිල අඩුකෙරේ
+### தண்டவாளம் உடைந்தது - ரயில்கள் வருவதில் தாமதம்
+
+*2024-07-02 10:52:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டவாளம்-உடைந்தது-ரயில்கள்-வருவதில்-தாமதம்/175-339747) · `ta`
+
+பம்பலப்பிட்டி மற்றும் வெள்ளவத்தை ரயில் நிலையங்களுக்கு இடையிலான தண்டவாளம் உடைந்துள்ளதாக ரயில்வே பிரதி பொது முகாமையாளர்  என்.ஜே.இந்திபொலகே குறிப்பிட்டார்.
+
+இதனால் கடலோர வழித்தடத்தில் ஒரு தண்டவாளத்தில் மட்டுமே ரயில்கள் இயக்கப்படுவதால் ரயில்கள் வருவதில் தாமதம் ஏற்பட்டுள்ளது.
+
+குறித்த தண்டவாளப்பகுதியில் திருத்தப் பணிகளை ஆரம்பிக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாக ரயில்வே பிரதி பொது முகாமையாளர் குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/aee41a8f.json)
+
+---
+
+### At least nine killed in Seoul as car ploughs into crowd
+
+*2024-07-02 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/100233/at-least-nine-killed-in-seoul-as-car-ploughs-into-crowd) · `en`
+
+A car has ploughed into a crowd of people killing at least nine in the South Korean capital Seoul, police say.
+
+The traffic accident took place at around 21:30 local time (13:30 BST), they added.
+
+As reported by Yonhap news agency, a man believed to be in his 60s drove the vehicle into pedestrians waiting at a traffic stop.
+
+Police say they are investigating the incident, but warn that casualty numbers might increase.
+
+According to local media, the car was driving in the wrong direction and crashed into two other vehicles before it made contact with pedestrians.
+
+Police said the accident took place at an intersection near Seoul city hall. The driver in question, who was arrested at the scene, reportedly told the police the car suddenly accelerated.
+
+Six people died at the scene, while three others died later of their injuries.
+
+Yonhap, South Korea’s news agency, reports that the man arrested was 68 years old.
+
+...
+
+[Data](articles/3c7a035b.json)
+
+---
+
+### Sri Lanka among first middle-income countries to utilize new debt sustainability analysis framework - President
+
+*2024-07-02 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100232/sri-lanka-among-first-middle-income-countries-to-utilize-new-debt-sustainability-analysis-framework-president) · `en`
+
+President Ranil Wickremesinghe announced that Sri Lanka is among the first middle-income countries to utilize the new debt sustainability analysis framework, introduced specifically for middle-income nations, to undertake debt restructuring.
+
+Delivering a special statement in Parliament today (02), the President further stated that Sri Lanka’s foreign debt totals USD 37 billion.
+
+He mentioned that this includes USD 10.6 billion in bilateral debt, USD 11.7 billion in multilateral debt, USD 14.7 billion in commercial debt and USD 12.5 billion in sovereign bonds.
+
+In his special statement, President Wickremesinghe also announced to the Parliament that that an agreement was reached on June 26th with Sri Lanka’s official creditors concerning debt repayment.
+
+Wickremesinghe said that authorized Cabinet officials have signed these agreements on behalf of Sri Lanka.
+
+...
+
+[Data](articles/a933b139.json)
+
+---
+
+### මහනුවර අධිකරණ සංකීර්ණයේ බෝම්බ බියක්
+
+*2024-07-02 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198395) · `si`
+
+මහනුවර අධිකරණ සංකීර්ණය තුළ බෝම්බයක් ඇති බවට ලද තොරතුරකට අනුව එහි විශේෂ ආරක්ෂක මෙහෙයුමක් ක්‍රියාත්මක වන බව අප වාර්තාකරු පැවසීය.
+
+එහි නඩු විභාග කිරීම නවතා දමා ජනතාව අධිකරණ සංකීර්ණයෙන් ඉවත් කොට තිබේ.
+
+මේ වනවිට බෝම්බ නිෂ්ක්‍රිය අංශය, හමුදාව සහ පොලීසිය එහි සෝදිසි මෙහෙයුමක නිරතව සිටින බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/b771e235.json)
+
+---
+
+### ශ්‍රී ලංකාවේ විදෙස් ණය ප්‍රමාණය ජනපති හෙළිකරයි
+
+*2024-07-02 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198394) · `si`
+
+ශ්‍රී ලංකාවේ විදේශ ණය ප්‍රමාණය පිළිබඳව  ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (02) පාර්ලිමේන්තුවට දැනුම් දුන්නේය.
+
+ඔහු පැවසුවේ සම්පූර්ණ විදෙස් ණය ප්‍රමාණය ඩොලර් බිලියන 37ක් බව ඔහු පැවසීය.
+
+එයට ද්විපාර්ශ්වික ණය ඩොලර් බිලියන 10.6ක්, බහුපාර්ශ්වික ණය ඩොලර් බිලියන 11.7ක්, වාණිජ ණය ඩොලර් බිලියන 14.7ක් සහ ස්වෛරී බැඳුම්කර ඩොලර් බිලියන 12.5ක් බව ඔහු හෙළි කළේය.
+
+◼️
+
+[Data](articles/73777026.json)
+
+---
+
+### ඖෂධවලට උපරිම සිල්ලර මිලක්?
+
+*2024-07-02 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198393) · `si`
+
+ඖෂධවලට උපරිම සිල්ලර මිලක් තීරණය කිරීම සඳහා මිල යාන්ත්‍රණයක් සකස් කිරීමට අදාළව ජාතික ඖෂධ නියාම අධිකාරී පනත සංශෝධනය කර තිබේ.
+
+සෞඛ්‍ය අමාත්‍ය රමේෂ් පතිරණ මහතා විසින් ඊට අදාළ නියෝග නිකුත් කර ඇති බව වාර්තා වෙයි.
+
+ඒ අනුව යම් නිශ්චිත ඖෂධයක, ඖෂධ මාත්‍රා ආකාරයට සහ ප්‍රබලතාවයට අදාළව උපරිම සිල්ලර මිලක් නිශ්චය කිරීම සඳහා වූ ක්‍රමවේදයක් හඳුන්වා දී තිබේ.
+
+විනිවිදභාවය සහ සාධාරණත්වය සහතික කිරීමේ අරමුණින් එම නියෝග නිකුත් කර ඇති බව වාර්තා වෙයි.
+
+ඒ අනුව වෙළෙඳපොළ තුළ අලෙවි කරනු ලබන ඖෂධවල උපරිම සිල්ලර මිල ගණන් නිර්ණය කිරීමට නියමිත අතර ඊට අදාළ ගැසට් නිවේදනය ද ප්‍රකාශයට පත්කර තිබේ.
+
+◼️
+
+[Data](articles/9910e8a6.json)
+
+---
+
+### ஐயாவுக்கு இரங்கல்
+
+*2024-07-02 10:38:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐயாவுக்கு-இரங்கல்/175-339744) · `ta`
+
+தி​ருகோணமலை பாராளுமன்ற உறுப்பினரும் தமிழ்த் தேசியக் கூட்டமைப்பின் முன்னாள் தலைவருமான மறைந்த இராஜவரோதயம் சம்பந்தனின் மறைவுக்கு அரசியல் தலைவர்கள், பாராளுமன்ற உறுப்பினர்கள், வெளிநாட்டு அரசியல் தலைவர்கள், சமூக பிரதிநிதிகள் உள்ளிட்டோர் தங்களுடைய இரங்கலை தெரிவித்துள்ளனர்.
+
+இலங்கை தமிழ் தலைவர்  இரா.சம்பந்தன் அவர்களின் மறைவுச் செய்தி அறிந்து ஆழ்ந்த துயரடைந்தேன் என இந்திய வெளிவிவகார அமைச்சர் கலாநிதி எஸ்.ஜெய்சங்கர் தனது இரங்கல் செய்தியில் தெரிவித்துள்ளார்.
+
+பல தசாப்தகாலமாக எனக்கும் அவருக்கும் இடையில் நடைபெற்ற பல்வேறு சந்திப்புகள் மற்றும் உரையாடல்களை இச்சந்தர்ப்பத்தில் நினைவில்கொள்கின்றேன். இலங்கையில் உள்ள தமிழ் மக்களின்  சமத்துவம், கௌரவம் மற்றும் நீதிக்கான போராட்டத்துக்காக அவர் தனது முழு வாழ்வையும் அர்ப்பணித்திருந்தார்.
+
+...
+
+[Data](articles/8d9e2e38.json)
+
+---
+
+### Litro Gas reduces prices again
+
+*2024-07-02 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100231/litro-gas-reduces-prices-again) · `en`
+
+The price of Litro domestic LP gas cylinders has been reduced with effect from midnight today (02), according to the Chairman of Litro Gas Muditha Peiris.
+
+Accordingly, the price of the 12.5 kg cylinder has been reduced by Rs. 100 to Rs. 3,690.
+
+Meanwhile, the price of the 2.3 kg cylinder has been reduced by Rs. 18, bringing the new price to Rs. 694.
+
+The company stated that even though the global market prices are in the upward trend, the company decided to give relief to its consumers based on structural cost reduction initiatives and efficient stock management.
+
+◼️
+
+[Data](articles/e7e0cadf.json)
+
+---
+
+### Litro gas prices will be reduced
 
 *2024-07-02 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198392) · `si`
 
-ඒ අනුව කිලෝ 12.5ක ගෘහස්ත ගෑස් සිලින්ඩරයක මිල රුපියල් 100කින් අඩුකර ඇත.
+Gas prices have decreased: a 12.5 kg cylinder now costs Rs. 100 less, a 5 kg one also saw a reduction, and a 2.3 kg cylinder is priced at Rs. 694, down from Rs. 712. These changes took effect at midnight.
 
-කිලෝ 5ක ගෘහස්ත ගෑස් සිලින්ඩරයක මිල රුපියල් 40කින් අඩුකර ඇති අතර එහි නව මිල රුපියල් 1,482කි.
+🟩
 
-කිලෝ 2.3ක ගෘහස්ත ගෑස් සිලින්ඩරයක නව මිල රුපියල් 694ක් වන අතර එම සිලින්ඩරයක මිල රුපියක් 18කින් අඩුකර ඇත.
+Accordingly, the price of a 12.5 kilogram has been reduced by Rs. 100.
 
-මෙම මිල අඩුකිරීම අද මධ්‍යම රාතියේ සිට ක්‍රියාත්මක බව එම සමාගම පැවසීය.
+The price of a 5 kghony gas cylinder has been reduced by Rs.
+
+The new price of a 2.3-kilo of domestic gas cylinder is Rs. 694 and a cylinder has been reduced by 18 rupees.
+
+The cost of reducing the price is currently inaugurated from midnight.
 
 ◼️
 
 [Data](articles/d10c8376.json)
+
+[Extended Data](ext_articles/d10c8376.ext.json)
 
 ---
 
@@ -325,6 +479,52 @@ The Deputy General Manager said that steps have been taken to commence the recon
 [Data](articles/5de13191.json)
 
 [Extended Data](ext_articles/5de13191.ext.json)
+
+---
+
+### ඉදිරි වගා කන්න හයක් තුළ වී අස්වැන්න දෙගුණ කර ගැනීමේ ඉලක්කයක්
+
+*2024-07-02 08:01:40* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-වගා-කන්න-හයක්-තුළ-වී-අස්වැන්න-දෙගුණ-කර-ගැනීමේ-ඉලක්කයක්/11-410555) · `si`
+
+තරුණ කෘෂි ව්‍යවසායකත්ව ව්‍යාපෘතිය හරහා කෘෂි ක්ෂේත්‍රයේ තරුණ ව්‍යවසායකත්ව අවස්ථා වැඩි වෙමින් තිබෙනවා
+
+ප්‍රවාහනයේදී සිදුවන අස්වනු හානිය අවම කර ගැනීම සඳහා දුම්රිය සේවය යොදා ගැනීමට කටයුතු කරනවා – කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශයේ ලේකම් ජානක ධර්මකීර්ති.
+
+බඩඉරිඟු නිෂ්පාදනය නගා සිටුවීම සඳහා පොහොර සහ කෘෂි රසායනික භාවිතාවන් හඳුන්වා දී තිබෙනවා – කෘෂිකර්ම දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල්.
+
+සත්ව ගොවිපළ හිමියන් ව්‍යවසායකින් බවට පත් කිරීමේ වැඩපිළිවෙලක් ක්‍රියාත්මකයි – සත්ව නිෂ්පාදන සහ සෞඛ්‍ය දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල්.
+
+වෙළෙඳපොල තුළ පොහොර සුලභ කර තිබෙනවා – ගොවිජන සංවර්ධන දෙපාර්තමේන්තුවේ කොමසාරිස් (සේවා).
+
+කෘෂිකර්ම ප්‍රතිපත්තිය මුදල් අමාත්‍යාංශයේ අනුමැතියට ඉදිරිපත් කර තිබෙනවා – අතිරේක ලේකම් (කෘෂි තාක්ෂණ).
+
+මේ වන විට ලබන වී අස්වනු ප්‍රමාණය දෙගුණ කර ගත යුතු බවට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ලබා දී ඇති ඉලක්කය ඉදිරි වගා කන්න හයක් තුළ සපුරා ගැනීමට අවශ්‍ය පියවර ගෙන ඇති බව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශයේ ලේකම් ජානක ධර්මකීර්ති මහතා පැවසීය.
+
+...
+
+[Data](articles/81162726.json)
+
+---
+
+### Sri Lanka reports US$706mn current account surplus amid financial outflows
+
+*2024-07-02 08:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-reports-us706mn-current-account-surplus-amid-financial-outflows-170433/) · `en`
+
+ECONOMYNEXT – Sri Lanka has recorded a 706 million US dollar current account surplus in the first quarter of 2024 as the financial account recorded a deficit amid private and official debt repayments and reserve collections, data show.
+
+Sri Lanka has recorded current account surpluses, since the last quarter of 2022 when monetary stability is reached.
+
+The current account is a mirror image of the financial and capital accounts, subject to errors and omissions.
+
+The way external accounting is calculated, only the balance of payments surplus and deficit (as defined) can be accurately measured.
+
+Whether there is a balance of payments deficit or surplus depends on the note-issue activities of the central bank.
+
+When money is printed through reverse repo or standing facilities, regardless of a budget deficit or surplus, there are foreign exchange shortages, making it difficult to make foreign payments, especially in the capital account, leading to a run down of reserve and eventual default.
+
+...
+
+[Data](articles/e8465555.json)
 
 ---
 
@@ -876,6 +1076,24 @@ Accordingly, on July 3, 2024, he completed the service at the Cabinet Office for
 
 ### 2024-07-01 (Monday)
 
+### Opposition claims Sri Lanka has signed only two out of three debt agreements
+
+*2024-07-01 23:49:00* · [`economynextcom`](https://economynext.com/opposition-claims-sri-lanka-has-signed-only-two-out-of-three-debt-agreements-170351/) · `en`
+
+ECONOMYNEXT — Sri Lanka has signed only two out of three bilateral debt agreements, chief opposition whip Laksham Kiriella claimed.
+
+Speaking to reporters outside parliament on Monday July 01, he said there would be no point debating the agreement since it was incomplete. He was responding to questions on why a debate scheduled for Tuesday July 02 on the debt deal was postponed.
+
+“They said the agreements signed by the government would not be presented tomorrow. We noted that though the government said they had signed those agreements, they actually hadn’t. There are three agreements. Two of them have been signed. The third hasn’t been signed yet.
+
+“There is no point having a debate without the third agreement, beacause it is the third agreement that reveals the whole picture,” said Kiriella.
+
+...
+
+[Data](articles/9f116412.json)
+
+---
+
 ### Debt-to-GDP ratio and foreign reserves, the measures of a country’s economic health
 
 *2024-07-01 23:29:28* · [`dailyftlk`](https://www.ft.lk/columns/Debt-to-GDP-ratio-and-foreign-reserves-the-measures-of-a-country-s-economic-health/4-763722) · `en`
@@ -889,6 +1107,24 @@ The Treasury is aware that the country is in a difficult place. But that difficu
 [Data](articles/1989fcf2.json)
 
 [Extended Data](ext_articles/1989fcf2.ext.json)
+
+---
+
+### Sri Lanka cancels parliament debt debate amid criticism, leader’s death
+
+*2024-07-01 23:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-cancels-parliament-debt-debate-amid-criticism-leaders-death-170419/) · `en`
+
+ECONOMYNEXT – Sri Lanka government has cancelled a two-day parliament debate on the recently concluded bilateral debt restructuring after the opposition criticized that the restructuring deal are far from over and death of a former opposition leader.
+
+The debate was scheduled for Tuesday (02) and Wednesday (03) while a vote on the debt restructuring deal was to be held at the end of the debate on Wednesday.
+
+President Ranil Wickremesinghe’s government reached US$10 billion worth bilateral debt deal with the members of Paris Club as well as China last week.
+
+Both opposition leader Sajith Premadasa and leftist National People’s Power (NPP) leader Anura Kumara Dissanayake have dismissed the announcement of Sri Lanka’s debt deferment agreement with bilateral creditors, pointing instead to negotiations still ongoing with commercial creditors.
+
+...
+
+[Data](articles/684fc99c.json)
 
 ---
 
@@ -1975,293 +2211,5 @@ Earlier, the Speaker of Parliament Mahinda Yapa Abeywardena informed all the Mem
 [Data](articles/112a036f.json)
 
 [Extended Data](ext_articles/112a036f.ext.json)
-
----
-
-### Sri Lanka Teachers Service Association struggles tomorrow wearing black bars
-
-*2024-07-01 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/187416) · `ta`
-
-The Sri Lanka Teachers Service Association plans a protest tomorrow, wearing black bars in front of schools. They oppose the government's separatist stance in the North and East, criticizing its refusal to increase teacher salaries during a meeting with President Mahanayaka Thera.
-
-🟩
-
-The Sri Lanka Teachers Service Association has announced that there will be a struggle to wear black bark at 1.30 pm tomorrow in front of schools in protest of the president's opinion.
-
-Sri Lanka Teachers Service Association Jaffna Education Zone Secretary Liberal Prakash said this at a media briefing held in Jaffna today (01).
-
-The struggle will be carried out against the government's expression of separatist views in the North and East, condemning the separatist view of the government and that the salaries of teachers cannot be increased in a meeting with President Mahanayaka Thera.
-
-Sri Lanka's Chancellor Service Association Jaffna District Representative Durairasa Jeevanandan and Sri Lanka Teachers Service Association Valikamam Education Zone Representative Paramasivam Gajamukhan also commented.
-
-◼️
-
-[Data](articles/d08d5036.json)
-
-[Extended Data](ext_articles/d08d5036.ext.json)
-
----
-
-### Sri Lanka to renegotiate cancelled bilateral loan projects after debt restructuring deal
-
-*2024-07-01 16:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-renegotiate-cancelled-bilateral-loan-projects-after-debt-restructuring-deal-170381/) · `en`
-
-ECONOMYNEXT – Sri Lanka has appointed a committee to look into renegotiate all the cancelled projects with bilateral loans after the last week debt restructuring deal, Cabinet Spokesman Bandula Gunawardena said.
-
-The island nation reached US$10 billion debt restructuring deal with the members of Paris Club and China last week and President Ranil Wickremesinghe announced the success in the bilateral loans after the deal signed.
-
-A raft of infrastructure projects started with bilateral loans prior to Sri Lanka’s declaration of bankruptcy in April 2022 have been suspended as bilateral creditors stopped the funding due to the island nation’s sovereign debt default.
-
-“The government has appointed a separate committee to discuss these changes including financial experts and institutions. A single person cannot decide on this,” Gunawardena told reporters at a media briefing in Colombo on Monday (01).
-
-...
-
-[Data](articles/31e5cef3.json)
-
-[Extended Data](ext_articles/31e5cef3.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 304.80/305.00 to US dollar
-
-*2024-07-01 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-304-80-305-00-to-us-dollar-170382/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 304.80/305.00 to the US dollar on Monday, down from 306.00/20 to the US dollar on Friday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 10.85/11.00 percent, down from 10.95/11.15 percent.
-
-A bond maturing on 15.02.2028 closed at 11.90/12.00 percent, down from 11.90/98 percent.
-
-A bond maturing on 15.09.2029 closed at 12.10/20 percent, up from 12.20/30 percent.
-
-◼️
-
-[Data](articles/e375c856.json)
-
-[Extended Data](ext_articles/e375c856.ext.json)
-
----
-
-### Sri Lanka stocks close down, turnover lowest in a month
-
-*2024-07-01 16:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-lowest-in-a-month-170369/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
-
-The broader All Share Index closed down 0.56 percent, or 68.05 points, at 12,076; while the more liquid S&P SL20 Index closed down 0.63 percent, or 22.71 points, at 3,565.
-
-Most of this came from two crossings: John Keells Holdings and Plc (Rs107mn), share closed up at 204.00, and Hayleys Plc (Rs140mn), the share closed down at 105.00.
-
-“These were from local institutions,” Softlogic Stockbrokers said. “Market was very, very slow today. Buying and selling was low on all counters.”
-
-Banking stocks closed down or flat in the day. Commercial Bank of Ceylon Plc was down at 104.25, Sampath Bank Pc was down at 77.60, and Hatton National Bank Plc was down at 201.75.
-
-“Even the high net worth individuals and institutions are now hesitant after it was announced that the terms and agreements of the debt restructuring will  be out in a week. Even the bigger players now want to see how this plays out.”
-
-...
-
-[Data](articles/b8f27ff7.json)
-
-[Extended Data](ext_articles/b8f27ff7.ext.json)
-
----
-
-### Tke Tke not at least reduced
-
-*2024-07-01 16:42:11* · [`adalk`](https://www.ada.lk/breaking_news/ටුක්-ටුක්-ගාස්තු-අඩු-නොවෙයි/11-410544) · `si`
-
-Despite fuel price fluctuations, the All Island Three-Wheeler Drivers Association (SLALIA) insists on revising monthly fares based on monthly costs, as stated by Chairman Lalith Dharmasekera.
-
-🟩
-
-The All Island Three-Wheeler Drivers Association (SLALIA) says that no matter the loss of fuel prices.
-
-The Chairman Lalith Dharmasekera states that the monthly prices can be revised by the price of month.
-
-◼️
-
-[Data](articles/cbb643f1.json)
-
-[Extended Data](ext_articles/cbb643f1.ext.json)
-
----
-
-### An order pertaining to Carrom board case on 9th
-
-*2024-07-01 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198368) · `si`
-
-On September 9th, former Sports Minister Mahindananda Aluthgamage and current Minister Nalin Fernando were accused by the Bribery Commission, including members Amal Ranaraja, Pradeep Hettiarachchi, and Mahein Weeraman, of distributing nearly Rs. The case involves a Carrom board issue.
-
-🟩
-
-Former Sports Minister Mahindananda Aluthgamage and the former Chairman of the Avaveli Institute and the present Minister Nalin Fernando has been declared on the 9th.
-
-They have been accused of distributing nearly Rs.
-
-The case was being tabled by the Bribery Commission, Amal Ranaraja, Pradeep Hettiarachchi and Mahein Weeraman.
-
-◼️
-
-[Data](articles/2222e953.json)
-
-[Extended Data](ext_articles/2222e953.ext.json)
-
----
-
-### Government's efforts to postpone elections - Leading negotiations with election commissioner
-
-*2024-07-01 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/187412) · `ta`
-
-The People's Movement Front accuses the government of plotting to delay elections, citing discussions with the Election Commissioner and concerns over President Ranil Wickremesinghe's actions. They allege his attempts to maintain power without conducting elections and form alliances with southern parties, questioning his commitment to democracy.
-
-🟩
-
-The People's Movement Front has today held talks with the Commissioner of Elections on the government's conspiracies to postpone the elections
-
-Social political activist Rajkumar Rajeevkan said that the meeting was also investigated on the registration of the people's struggle and the preparation for elections.
-
-Ranil Wickremesinghe has continued to investigate the registration of the coalition and consistently made an attempt to continue as a people's ungodly president. We suspect that he was doing the full job of disregarding the elections and doing a democratic improper action.
-
-When there is a matter of fact that the president has come into parliament without a public order, he is acting in the hope that he should continue to hold power without holding any election.
-
-Not only that, but we have formed this alliance with three parties from the South.
-
-◼️
-
-[Data](articles/60d884ad.json)
-
-[Extended Data](ext_articles/60d884ad.ext.json)
-
----
-
-### Grandmother's abuse: toothbrush death
-
-*2024-07-01 16:38:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாட்டி-துஷ்பிரயோகம்-பல்-இறுகி-மரணம்/76-339704) · `ta`
-
-A woman attempted to harm her grandmother with a fake toothbrush, leading to her father's accidental death. A mysterious man named Asami intervened, silencing the grandmother and preventing further harm. He then disappeared after leaving the grandmother hanging. Her body was found on June 27th, revealing signs of sexual assault. Police are searching for Asami to bring him to justice.
-
-🟩
-
-When she tried to abuse her grandmother, a fake tooth set, a miserable death of the father's throat, was a tragic death of the father.
-
-Suddenly the mysterious Asami entered the grandmother's house. Somewhat unexpectedly, the neighbors shouted and tried to call the neighbors for help.
-
-However, the mysterious Asami shuts down the mouth of the grandmother to prevent the noise of the grandmother. At the time, the fake toothpaste from the gate went into the grandmother's throat.
-
-However, the grandmother hung in the hands of the mysterious Asami who tightened his neck. Somewhat unexpectedly, he left and went into hiding.
-
-The body of the grandmother was recovered on June 27. The autopsy was carried out on June 29, and there were traces of the attempt to sexually abuse grandmother.
-
-Balangoda police said that efforts have been made to arrest the person involved in the incident.
-
-◼️
-
-[Data](articles/e7fd2d56.json)
-
-[Extended Data](ext_articles/e7fd2d56.ext.json)
-
----
-
-### Dwi Wheel Achievement TDF Vasan - Actor Kishore joins
-
-*2024-07-01 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187409) · `ta`
-
-Kishore and DDF Vasan star in IPL, directed by Karunakaran, featuring a wheelchair adventure. Three banners showcase their emotional appeal against a highway backdrop, attracting fans.
-
-🟩
-
-The first vision banners of the film 'IPL' (Indian Penal La), which played the lead roles, has been released by DDF Vasan, who has a record-winning adventure in the wheelchair.
-
-Directed by director Karunakaran, Kishore, DDF Vasan, Abirami, Bose Venkat, Dileepan, Harish Peradi, 'Aadukalam' Narain, starring director Karunakaran.. Ashwin Vinayagamoorthy has composed the film, which is being recorded by Bichumani. The film was made on behalf of Radha Film International Film Company. R. Produced by Madan Krishnan.
-
-Three banners have been released as the first look banners of the film. The emotional appearance of Kishore and DTF Vasan, who has played the lead roles, is attracted to the fans as it is combined with the highway in its background.
-
-Meanwhile, DDF Vasan, the adventurer of the Diwi Wheeler, which has been well received by the Internet audience, has been waiting for his fans to be enthusiastically as he starred in "IPL".
-
-◼️
-
-[Data](articles/af99144f.json)
-
-[Extended Data](ext_articles/af99144f.ext.json)
-
----
-
-### Suspect arrested for raping 13 year old girl
-
-*2024-07-01 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198367) · `si`
-
-A suspect, who allegedly raped a 13-year-old girl from the Northern Polast area, was arrested by the Nortonbridge Police and later produced in court. The suspect, previously unknown, had been hiding in Mawanella for about 10 years. The arrest followed a complaint lodged by the victim's mother, leading to the suspect's surrender at Hatton Magistrate's Court. The victim, now hospitalized, is a schoolgirl whose identity remains undisclosed.
-
-🟩
-
-A suspect has been arrested for the incident that the 13-year-old schoolgirl residing in the Northern Polast area in the post of Nonbridge 04.
-
-The suspect was arrested by the Nortonbridge Police yesterday (30).
-
-The suspect is said that the suspect was a 9-year-old school girl and was hiding in Mawanella for about 10 years.
-
-The Northobridge Police say that the suspect was arrested and produced before courts after being produced before the court.
-
-The suspect had reached the police on an order at Hatton Magistrate's Court yesterday.
-
-The daughter of his sister then signed the suspect and fled the area after his sister signed the suspect.
-
-Accordingly, the suspect was arrested on the complaint lodged by the mother of the victim.
-
-The schoolgirl, which was raped, has been admitted to the Dickoya Base Hospital.
-
-The suspect was produced before the Hatton Magistrate's Court.
-
-◼️
-
-[Data](articles/3e8d955e.json)
-
-[Extended Data](ext_articles/3e8d955e.ext.json)
-
----
-
-### Sri Lanka reduces bus fares by 5.07-pct; public transport declared essential service
-
-*2024-07-01 16:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-reduces-bus-fares-by-5-07-pct-public-transport-declared-essential-service-170357/) · `en`
-
-ECONOMYNEXT – Bus fares will be reduced by 5.07 percent from midnight ‍July 1, Sri Lanka’s National Transport Commission announced.
-
-“We considered 12 factors for the revision including costs of tyres, tubes, battery and spare parts, interest rates, bus prices, to arrive at this percentage, and agreements with bus operator associations,” NTC Chairman Shashi Welgama told reporters.
-
-The island nation revises fuel prices every month. Last night state-run Ceylon Petroleum Corporation cut the price of standard petrol, super petrol and super diesel.
-
-A special gazette notification was also issued making public transport services an essential service. (Colombo/Jul1/2024)
-
-◼️
-
-[Data](articles/10c4cd72.json)
-
-[Extended Data](ext_articles/10c4cd72.ext.json)
-
----
-
-### S. Kukadasan as a Member of Parliament for Tirumalai District?
-
-*2024-07-01 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/187402) · `ta`
-
-Shanmugam Kukadasan, a leader from the Trincomalee District Branch of the Sri Lanka Tamil National Party (TNA), expresses grief over the death of R. Sampanthan, a Senior Leader and former Parliamentarian. Following Sampanthan's passing, Kukadasan is set to fill the parliamentary seat for the Trincomalee District, having received significant support during the 2020 elections.
-
-🟩
-
-Hon.. We are shocked and deeply concerned about the news of Sampanthan sir.
-
-District branch leader Shanmugam Kukadadhan has expressed his condolences and grief on behalf of the Trincomalee District Branch of the Sri Lanka Tamil National Party (TNA), including his wife, people, daughter -in -law and grandson.
-
-Meanwhile, Kadiravelu Shanmugam Kukadasan is expected to be appointed as a Member of Parliament for the Trincomalee District of the Sri Lankan Tamil State Party.
-
-Senior Leader of the Sri Lankan Tamil Government and Trincomalee District Parliamentarian R. Sampanthan passed away last night. Subsequently, the parliamentary membership of the Trincomalee district was dry.
-
-Through the political field, Shanmugam Kukadasan will be appointed as a Member of Parliament for the 2020 parliamentary elections on behalf of the Sri Lanka Tamil State Party and the second 16170 preferential votes.
-
-...
-
-[Data](articles/5331a610.json)
-
-[Extended Data](ext_articles/5331a610.ext.json)
 
 ---

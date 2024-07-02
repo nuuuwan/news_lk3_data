@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 15:05:48**
+As of **2024-07-02 15:19:36**
 
 ## Newspaper Stats
 
-*Scraped **33,290** Articles*
+*Scraped **33,292** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,82 @@ economynextcom | 1,943
 dailyftlk | 2,054
 adalk | 2,963
 adaderanalk | 3,794
-tamilmirrorlk | 3,939
+tamilmirrorlk | 3,940
 dailymirrorlk | 4,733
 virakesarilk | 5,198
-adaderanasinhalalk | 5,511
+adaderanasinhalalk | 5,512
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,289 (100.0%) of 33,290 articles have been extended.
+33,290 (100.0%) of 33,292 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### කෙහෙළියගේ පෙත්සමේ තීරණය අදත් කල්යයි
+### සමාජ මාධ්‍යයේ සංසරණය වන ව්‍යාජ ලිපියක් ගැන පොලීසියෙන් විශේෂ නිවේදනයක්
+
+*2024-07-02 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198409) · `si`
+
+සමාජ මාධ්‍යවල සංසරණය වන ව්‍යාජ ලිපියක් සම්බන්ධයෙන් පොලිස් මුලස්ථානය විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+
+ධර්මචක්‍රය සහිත නිල් පැහැති පොලිස් අත්ලාංඡනයක්, රබර් මුද්‍රාවක් හා පොලිස් නිල ලාංඡනයක් සහිතව කහ පැහැති පසුබිමේ අදාළ ලිපිය සකස් කර ඇතැයි පොලිස් මුලස්ථානය පවසයි.
+
+පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් 2024 ජූලි 1 වනදා නිකුත් කර කළ බවට හැඟවෙන ආකාරයෙන් ඉංග්‍රීසි භාෂාවෙන් අදාළ ලිපිය සමාජ මාධ්‍ය වෙත මුදාහැර තිබේ.
+
+මෙම ලිපිය හා එහි අන්තර්ගතය සම්පුර්ණයෙන්ම ව්‍යාජව සකස් කරන ලද ලිපියක් වන අතර, ශ්‍රී ලංකා පොලීසිය මඟින් හෝ ඊට අනුබද්ධ ආයතනයක් මඟින් මෙවැනි ලිපියක් නිකුත් කර නොමැති බවට හා ඒ සඳහා නොරැවටෙන ලෙස පොලීසිය මහජනතාවගෙන් ඉල්ලා සිටී.
+
+සකස් කරන ලද ව්‍යාජ ලිපිය සහ එම ලිපිය අන්තර්ජාලයට යොමු කිරීම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් මේ වනවිටත් විමර්ශනයක් ආරම්භ කර ඇති අතර, අදාළ සැකකරුවන්ට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගැනීමට කටයුතු කරන බව ද පොලීසිය පවසයි.
+
+අදාළ ව්‍යාජ ලිපියේ පිටපතක් ජනතාවගේ දැනගැනීම පිණිස පොලීසිය විසින් නිකුත් කර ඇති අතර, එය පහතින් දැක්වේ.
+
+◼️
+
+[Data](articles/d9616e0f.json)
+
+---
+
+### மறுத்த காதலனின் பிறப்புறுப்பை அறுத்த காதலி
+
+*2024-07-02 14:56:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மறுத்த-காதலனின்-பிறப்புறுப்பை-அறுத்த-காதலி/175-339757) · `ta`
+
+காதலியான பெண் மருத்துவர் ஒருவர் தனது காதலனின் அந்தரங்க உறுப்பை வெட்டிய சம்பவம் பீகார் மாநிலம் சரண் மாவட்டத்தில் பரபரப்பை ஏற்படுத்தியுள்ளது.
+
+இதையடுத்து அப்பெண்ணின் மீது கொலை முயற்சி ஆகிய பிரிவுகளின் கீழ் வழக்கு பதிவு செய்த பொலிஸார் அவரை கைது செய்துள்ளனர்.
+
+காதலன் சிகிச்சைக்காக பாட்னா மருத்துவக் கல்லூரி மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார். காதலன் மதுரா தொகுதியில் கவுன்சிலர் ஆவார்.
+
+கடந்த 5 ஆண்டுகளாக அந்த நபருடன் தனக்கு தொடர்பு இருப்பதாகவும் ஆனால் அவர் தன்னை திருமணம் செய்து கொள்ள மறுத்து வருவதாக குற்றம் சாட்டப்பட்டவர் கூறினார்.
+
+இதனால் நீதிமன்றத்தில் பதிவுத் திருமணத்திற்கு காதலன் சம்மதம் தெரிவித்துள்ளார். அதன்படி, காதலி திருமணத்திற்காக நீதிமன்றத்தை அணுகி ஏற்பாடுகளை செய்த போதும் காதலன் வரவில்லை.
+
+அதன் பிறகு, காதலனை தனது வீட்டிற்கு வரவழைத்த காதலி, அங்கு வைத்து அவரது அந்தரங்க உறுப்பை வெட்டியதாக தெரிகிறது.
+
+...
+
+[Data](articles/33513711.json)
+
+---
+
+### Keheliya's petition is in progress today
 
 *2024-07-02 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198408) · `si`
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් තමන්ව නඩු විභාගය අවසන් වන තෙක් රක්ෂිත බන්ධනාගාර ගත කිරීමට මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය දී ඇති නියෝගය බලරහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ඉදිරිපත් කළ පෙත්සම විභාගයට ගැනීමට අවසර දෙන්නේ ද? නැද්ද? යන තීරණය සහ ඔහු ඇප මත මුදා හරින ලෙස කර තිබෙන ඉල්ලීම පිළිබඳ නියෝගය ලබන අගෝස්තු මස 01 වනදා ප්‍රකාශයට පත් කරන බව අභියාචනාධිකරණය නියෝග කළේය.
+Keheliya Rambukwella's petition is being considered today. The Court of Appeal, led by Judges Nissanka Bandula Karunaratne and Shahi Mahendran, will decide whether to release him on bail regarding his case related to substandard antibodies.
 
-කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ඉදිරිපත් කළ පෙත්සමක් දීර්ඝ ලෙස කරුණු සලකා බැලීමෙන් අනතුරුව අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල විසින් එම නියෝගය ප්‍රකාශයට පත් කළහ.
+🟩
+
+Will former Minister of Health Minister Keheliya Rambukwella permit the exams to be taken to the examination to be executed to be remanded to be remanded in the court to be remanded until the end of the substandard antibodies.Not?The Court of Appeal ordered that he would declare the decision on the decision and the request to be released on bail.
+
+The Court of Appeal was made by the Court of Appeal of the Court of Appeal Judge Nissanka Bandula Karunaratne and Shahi Mahendran after considering a petition filed by Keheliya Rambukwella.
 
 ◼️
 
 [Data](articles/5f022246.json)
+
+[Extended Data](ext_articles/5f022246.ext.json)
 
 ---
 
@@ -2221,53 +2271,5 @@ Against that backdrop, no one can run the government except for this created eco
 [Data](articles/3a8caa58.json)
 
 [Extended Data](ext_articles/3a8caa58.ext.json)
-
----
-
-### Exchange paddy yields can be doubled
-
-*2024-07-02 01:17:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்-விளைச்சலை-இரட்டிப்பாக்க-முடியும்/175-339731) · `ta`
-
-Janaka Dharmakirthi, Secretary of Sri Lanka's Ministry of Agriculture and Plantation Industries, announced plans to double the country's paddy yield within six years. This initiative, part of the Agricultural Modernization Program, includes utilizing previously abandoned fields for cultivation and diversifying crop usage on cultivated lands. The program aims to increase productivity and meet rising food demands, with initial successes already yielding 800,000 metric tonnes of rice.
-
-🟩
-
-Secretary to the Ministry of Agriculture and Plantation Industries Janaka Dharmakirthi said that the amount of paddy harvest available in the next six years should be doubled in the next six years.
-
-Secretary of the Ministry of Agriculture and Plantation Industries, Janaka Dharmakirthi, who attended a press conference held at the Presidential Media Center yesterday under the theme 'Two Years Progress and Future'. As he further stated,
-
-It is the responsibility of the Ministry of Agriculture to meet the growing food requirement beyond traditional agriculture. We are currently managing this successfully. In particular, President Ranil Wickremesinghe has taken steps to reach the goal of double the amount of paddy harvest in the next six years.
-
-For that we have introduced a technical pecure under the Agricultural Modernization Program. Also, all paddy fields, including abandoned fields, are allowed to be used for paddy training.
-
-...
-
-[Data](articles/bbe26b3d.json)
-
-[Extended Data](ext_articles/bbe26b3d.ext.json)
-
----
-
-### America to help further after debt restoration
-
-*2024-07-02 01:10:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடன்-மறுசீரமைப்புக்கு-பின்-மேலும்-உதவும்-அமெரிக்கா/175-339730) · `ta`
-
-The US has pledged additional aid to Sri Lanka post-debt restructuring, with Deputy Secretary Robate Caproth affirming international support for Sri Lanka's economic recovery during a meeting with Finance Minister Shehan Semasinghe.
-
-🟩
-
-The US has promised to further support Sri Lanka's economic affairs after the debt restructuring is over.
-
-Deputy Secretary of State for Asian Affairs Robate Caproth made this statement when he met with Finance Minister Shehan Semasinghe at the Finance Ministry yesterday.
-
-He said other countries have expressed their agreement on debt restructuring as Sri Lanka's economic stability is traveling in the right direction.
-
-Meanwhile, the Minister of Finance expressed his gratitude for the support of the US government for the debt restructuring process.. (A)
-
-◼️
-
-[Data](articles/d6281bea.json)
-
-[Extended Data](ext_articles/d6281bea.ext.json)
 
 ---

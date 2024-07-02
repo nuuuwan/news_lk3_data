@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 22:53:12**
+As of **2024-07-02 23:04:57**
 
 ## Newspaper Stats
 
-*Scraped **33,354** Articles*
+*Scraped **33,356** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,857
 economynextcom | 1,948
 dailyftlk | 2,054
 adalk | 2,975
-adaderanalk | 3,805
-tamilmirrorlk | 3,944
+adaderanalk | 3,806
+tamilmirrorlk | 3,945
 dailymirrorlk | 4,733
 virakesarilk | 5,209
 adaderanasinhalalk | 5,527
@@ -26,11 +26,43 @@ adaderanasinhalalk | 5,527
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,353 (100.0%) of 33,354 articles have been extended.
+33,353 (100.0%) of 33,356 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### India stampede: About 116  killed at religious event in Hathras district
+
+*2024-07-02 22:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100253/india-stampede-about-116-killed-at-religious-event-in-hathras-district) · `en`
+
+At least 116 people, many of them women and children, were killed in a stampede at a Hindu religious gathering in north India on Tuesday, authorities said, in one of the country’s worst such tragedies in years.
+
+The stampede happened in a village in Hathras district, about 200 km (125 miles) southeast of the national capital New Delhi, where authorities said thousands had gathered in sweltering late afternoon temperatures.
+
+“The incident happened due to overcrowding at the time when people were trying to leave the venue,” Ashish Kumar, administrator of the Hathras district of Uttar Pradesh, India’s most populous state, told reporters.
+
+Chaitra V., another senior state official, told broadcaster India Today that people may have lost their footing as they sought water in the heat.
+
+“There was wet mud at one place where people may have slipped. Also because of the heat, people may have made their way to the spot where water was kept and that could have caused the incident as well,” she said.
+
+...
+
+[Data](articles/b7216118.json)
+
+---
+
+### மாணவனும் மாணவியும் மாடியில் இருந்து குதித்து பலி
+
+*2024-07-02 22:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவனும்-மாணவியும்-மாடியில்-இருந்து-குதித்து-பலி/175-339781) · `ta`
+
+கொழும்பு குருந்துவத்தையில் உள்ள சர்வதேச பாடசாலை ஒன்றில் கல்வி கற்கும் 15 வயதுடைய சிறுவனும் மாணவியும் கொம்பனி வீதியிலுள்ள சொகுசு குடியிருப்பு கட்டிடத்தின் 67வது மாடியில் இருந்து குதித்து தற்கொலை செய்து கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/1faade96.json)
+
+---
 
 ### Up to 116 deaths in thrust
 
@@ -2301,49 +2333,5 @@ The arrested person was 45 years old from Anuradhapura and he had taken steps to
 [Data](articles/eacbed96.json)
 
 [Extended Data](ext_articles/eacbed96.ext.json)
-
----
-
-### Litro gas price reduction
-
-*2024-07-02 11:09:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-எரிவாயு-விலை-குறைப்பு/175-339748) · `ta`
-
-Litro Gas Company has reduced prices: 12.5 kg cylinder now Rs. 3,690 (down from Rs. 3,790), 5 kg cylinder Rs. 1,482 (down from Rs. 1,522), and 2.3 kg cylinder Rs. 694 (down from Rs. 712).
-
-🟩
-
-Litro Gas Company has announced that it has taken steps to reduce the price of cooking gas cylinder from midnight today.
-
-Accordingly, the new price of 12.5 kg of gas cylinder will be reduced by 100 rupees, and its new price is 3,690 rupees.
-
-The price of a gas cylinder weighing 5 kg will be reduced by 40 rupees and its new price is 1,482 rupees.
-
-The price of a gas cylinder weighing 2.3 kg will be reduced by 18 rupees and its new price is 694 rupees.
-
-◼️
-
-[Data](articles/ff2566de.json)
-
-[Extended Data](ext_articles/ff2566de.ext.json)
-
----
-
-### The total foreign debt in Sri Lanka is US $ 37 billion
-
-*2024-07-02 11:05:11* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සමස්ත-විදෙස්-ණය-ප්‍රමාණය-ඩොලර්-බිලියන-37යි/11-410559) · `si`
-
-Sri Lanka's total foreign debt stands at US $37 billion, according to President Ranil Wickremesinghe. He discussed debt restructuring in Parliament, mentioning $10.6 billion in bilateral loans.
-
-🟩
-
-President Ranil Wickremesinghe informed Parliament that the total foreign debt was 37 dollars in Sri Lanka. He made this statement in Parliament in Parliament regarding the restructuring of debt.
-
-He added that between $ 10.6 billion bilateral loans of $
-
-◼️
-
-[Data](articles/32b2447e.json)
-
-[Extended Data](ext_articles/32b2447e.ext.json)
 
 ---

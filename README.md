@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 13:35:15**
+As of **2024-07-02 13:54:21**
 
 ## Newspaper Stats
 
-*Scraped **33,268** Articles*
+*Scraped **33,269** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,791
 tamilmirrorlk | 3,939
 dailymirrorlk | 4,733
 virakesarilk | 5,188
-adaderanasinhalalk | 5,506
+adaderanasinhalalk | 5,507
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,266 (100.0%) of 33,268 articles have been extended.
+33,268 (100.0%) of 33,269 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### සිඩ්නි විශ්ව විද්‍යාලයේ පිහි ඇනුමක්
+
+*2024-07-02 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198402) · `si`
+
+සිඩ්නි විශ්වවිද්‍යාලය තුළදී පිහි ඇනුමක් සිදුකර ඇති බව පොලීසිය පවසයි.
+
+ඊට සැකපිට 14 හැවිරිදි පිරිමි ළමයෙක්ව අත්අඩංගුවට ගෙන ඇති අතර එම සිදුවීමෙන් අනතුරුව විශ්වවිද්‍යාල ගොඩනැගිලි කිහිපයක් වසා දැමීමට බලධාරීන් කටයුතු කළේය.
+
+පිහි ප්‍රහාරයට ලක්වූ 22 හැවිරිදි පුද්ගලයෙක්ට හදිසි ප්‍රතිකාර ලබාදී තිබුණි.
+
+අසාධ්‍ය තත්ත්වයෙන් සිටි එම පුද්ගලයා ගේ තත්ත්වය හොඳ අතට හැරෙමින් තිබෙන බව පොලීසිය පවසයි.
+
+එම පිහි ඇනුම සිදුකළ ළමයා, රැඩිකල් අදහස් වලින් යුක්ත අයෙක්ද යන්න සම්බන්ධයෙන් ද බලධාරීන් සොයාබලන බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/3d370d4f.json)
+
+---
 
 ### SJB group decide not to support a national govt.
 
@@ -44,19 +64,27 @@ The proposal brought forth by MP Buddhika Pathirana today (02) has been unanimou
 
 [Data](articles/396396c8.json)
 
+[Extended Data](ext_articles/396396c8.ext.json)
+
 ---
 
-### සජබය ජාතික ආණ්ඩුවකට බෑ කියයි
+### A national government cannot
 
 *2024-07-02 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198401) · `si`
 
-වර්තමාන ජනාධිපතිවරයාගේ මූලිකත්වයෙන් ජාතික ආණ්ඩුවක් පිහිටුවීම සඳහා වන කිසිදු යෝජනාවකට සහයෝගය නොදිය යුතු බව සමගි ජන බලවේගය තීරණය කර තිබේ.
+A decision has been made against establishing a national government backed by the current President, with Parliamentarian Buddhika Pathirana opposing this idea.
 
-එවැනි යෝජනාවකට සහයෝගය නොදිය යුතු බවට පාර්ලිමේන්තු මන්ත්‍රී බුද්ධික පතිරණ මහතා ගෙන ආ යෝජනාව සජබ මන්ත්‍රී කණ්ඩායම අද (02) ඒකමතිකව අනුමත කර තිබුණි.
+🟩
+
+The proposal has been decided that no proposal to establish a national government under the patronage of the present President.
+
+Parliamentarian Buddhika Pathirana was not supporting such a proposal.
 
 ◼️
 
 [Data](articles/118d8af1.json)
+
+[Extended Data](ext_articles/118d8af1.ext.json)
 
 ---
 
@@ -2179,29 +2207,5 @@ Accordingly, the stadium will be used to use this stadium for schools around the
 [Data](articles/2efcf3c0.json)
 
 [Extended Data](ext_articles/2efcf3c0.ext.json)
-
----
-
-### Commonwealth Disaster button has not been implemented on the dead fishermen
-
-*2024-07-01 22:03:50* · [`adalk`](https://www.ada.lk/breaking_news/මිය-ගිය-ධීවරයින්ට-වන්දියක්----යාත්‍රාවේ-ආපදා-බොත්තම-ක්‍රියාත්මක-කර-නෑ/11-410547) · `si`
-
-Fishermen killed in a multi-vessel accident were not rescued due to the Commonwealth Disaster button's absence. Minister Douglas Devananda highlighted the tragedy of consuming a bottle solution found at sea. He mentioned that, despite being 360 nautical miles from land, Air Force helicopters could have reached them, but the vessel was too far away for rescue.
-
-🟩
-
-DVONE - 5 Fisheries Minister Douglas Devananda said that the members of the fishermen who were killed in the multi-tugged fishing vessel.
-
-Fisheries Minister Douglas Devananda also said that the drinking of a solution in a bottle floating in the sea was a tragedy.
-
-The Minister said that if such a similar restoration has been made to rescue.
-
-Fisheries Minister Douglas Devananda said that 360 nautical miles from land to the air forces to travel by the Air Force helicopters were the ability to travel by the Air Force helicopters.. The Minister further stated that the vessel had been a vessel for about four times the distance to travel to a helicopter.
-
-◼️
-
-[Data](articles/bd02c996.json)
-
-[Extended Data](ext_articles/bd02c996.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 03:36:26**
+As of **2024-07-03 03:53:15**
 
 ## Newspaper Stats
 
-*Scraped **33,376** Articles*
+*Scraped **33,378** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,954
 dailyftlk | 2,054
 adalk | 2,975
 adaderanalk | 3,807
-tamilmirrorlk | 3,949
+tamilmirrorlk | 3,951
 dailymirrorlk | 4,733
 virakesarilk | 5,217
 adaderanasinhalalk | 5,528
@@ -26,11 +26,45 @@ adaderanasinhalalk | 5,528
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,376 (100.0%) of 33,376 articles have been extended.
+33,376 (100.0%) of 33,378 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### ’3 மாதங்களில் தீர்த்து வைக்கவும்’
+
+*2024-07-03 01:05:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-மாதங்களில்-தீர்த்து-வைக்கவும்/175-339787) · `ta`
+
+சம்பந்தனின் ஆயுட் காலத்திலேயே தமிழ்த் தேசியப் பிரச்சினை தீர்க்கப்பட்டிருக்க வேண்டும் என்று இங்கு ஜனாதிபதி கூறினார்.  ஜனாதிபதியின் பதவிக்காலம் முடிவதற்கு இன்னும் 3 மாதங்கள் உள்ளநிலையில் அதாவது இந்த வருடம் ஒக்டோபர் முடிவதற்கு முன்னர் இந்தப் பிரச்சினையை ஜனாதிபதி தீர்த்து வைக்க வேண்டும்  என இலங்கை தமிழரசுக் கட்சியின் யாழ் மாவட்ட எம்.பி.யான எம்.ஏ.சுமந்திரன்  வேண்டுகோள் விடுத்தார்.
+
+பாராளுமன்றத்தில்   செவ்வாய்க்கிழமை (02)   பெருந்தலைவர்   சம்பந்தனின் மறைவு தொடர்பில் ஜனாதிபதி ரணில் விக்கிரமசிங்க ,எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாச ஆகியோர் அனுதாபம் தெரிவித்து   உரையாற்றிய பின்னரே  இவ்வாறு வேண்டுகோள் விடுத்த  சுமந்திரன் எம்.பி. மேலும் பேசுகையில்,
+
+சம்பந்தனின் மறைவு தொடர்பாக அனுதாபம் வெளியிட்டமைக்கு ஜனாதிபதி மற்றும் எதிர்க்கட்சித் தலைவர் ஆகியோருக்கு எனது நன்றியை தெரிவித்துக்கொள்கின்றேன்.
+
+...
+
+[Data](articles/b8f18521.json)
+
+---
+
+### தேசிய அரசாங்கத்தை புறக்கணிக்க முடிவு
+
+*2024-07-03 01:01:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-அரசாங்கத்தை-புறக்கணிக்க-முடிவு/175-339786) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் தேசிய அரசாங்கத்தை அமைப்பதற்கு முயற்சிக்கும் நிலையில், அதற்கு ஆதரவளிக்காதிருக்க எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையிலான ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்கள் குழு தீர்மானித்துள்ளது.
+
+பாராளுமன்ற வளாகத்தில் சஜித் பிரேமதாச தலைமையில் ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற குழு உறுப்பினர்கள் குழு   செவ்வாய்க்கிழமை (02)  கூடிய போதே இந்தத் தீர்மானம் எடுக்கப்பட்டுள்ளது.
+
+தேசிய அரசாங்கத்தை அமைக்கும் திட்டத்திற்கு ஆதரவளிக்கக் கூடாது என்ற நிலைப்பாட்டில் அனைவரும் இருக்க வேண்டும் என்ற யோசனை பாராளுமன்ற உறுப்பினர் புத்திக  முன்வைக்கப்பட்டுள்ளது. அதற்கு கூட்டத்தில் கலந்துகொண்டிருந்த அனைவரும் இணக்கம் வெளியிட்டுள்ளனர்.
+
+இதேவேளை கட்சியின் மத்திய செயற்குழு கூட்டத்தில் எடுத்துள்ள தீர்மானத்தை மீறாமல், அனைவரும் ஒரே கொள்கையில் பயணிக்க வேண்டும் என்றும், சஜித் பிரேமதாசவை பலப்படுத்தி கட்சியை முன்னால் கொண்டு செல்ல நடவடிக்கை எடுக்க வேண்டும் என்றும் இதன்போது தீர்மானம் எடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/e6d87cc7.json)
+
+---
 
 ### Tribute to Parliament today
 
@@ -2289,77 +2323,5 @@ The gazette notification related to the matter has also been published to formal
 [Data](articles/b2a3d846.json)
 
 [Extended Data](ext_articles/b2a3d846.ext.json)
-
----
-
-### Will Ranil help in the 2024 election?
-
-*2024-07-02 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/187471) · `ta`
-
-Given the detailed context you've provided, it seems you're discussing the political and economic challenges faced by Sri Lanka, particularly focusing on the role of Ranil Wickremesinghe in navigating these issues. Your narrative touches upon significant events such as the signing of loan agreements with Paris and Beijing, the impact of these agreements on Sri Lanka's economic stability, and the upcoming presidential elections where Wickremesinghe is expected to run.
-
-
-
-To address the complexities involved in Ranil Wickremesinghe's potential candidacy and the challenges he faces, let's break down the key points:
-
-
-
-1. **Economic Recovery and Debt Restructuring**: The agreements with Paris and Beijing mark a crucial step in Sri Lanka's journey towards economic recovery. However, the road ahead is long, requiring careful management and implementation of the agreed terms. Wickremesinghe's experience and leadership during previous economic crises position him uniquely to navigate these challenges.
-
-
-
-2. **Presidential Election Dynamics**: The upcoming election is shaping up to be a contest of personalities and policies. Wickremesinghe's track record, especially in handling the current economic crisis, sets him apart from other contenders. His ability to lead during difficult times and his plans for economic revival are likely to be central themes in his campaign.
-
-
-
-3. **Public Perception and Support**: Wickremesinghe's success in the election hinges on his ability to connect with the populace, particularly the impoverished majority whose lives have been significantly impacted by the economic crisis. His campaign must focus on tangible improvements in their living conditions and clear communication of his vision for Sri Lanka's economic future.
-
-
-
-4. **Challenges and Criticisms**: While Wickremesinghe has demonstrated resilience and leadership, he must also address criticisms and challenges head-on. This includes ensuring that the benefits of the economic recovery plan trickle down to all segments of society, addressing the root causes of poverty, and managing expectations effectively.
-
-
-
-5. **Strategic Campaigning**: For Wickremesinghe to secure victory, his campaign must emphasize his experience, leadership qualities, and a clear roadmap for economic recovery. Leveraging his past successes and addressing the current economic challenges directly will be crucial. Additionally, highlighting his commitment to transparency, accountability, and inclusivity can help build trust with voters.
-
-
-
-In conclusion, Ranil Wickremesinghe's potential candidacy for the presidency of Sri Lanka is fraught with opportunities and challenges. His ability to steer the country through economic turmoil, coupled with a strategic campaign that addresses the needs and aspirations of the Sri Lankan people, will be pivotal in determining his electoral success.
-
-🟩
-
-Ranil Wickremesinghe was appointed Prime Minister by President Gotabhaya Rajapaksa on May 12, 2022. Sri Lanka was then in a serious economic crisis. 'The Arakalaya 'struggle was intensifying. The new Prime Minister delivered a special speech on May 16, 2022. In the speech, Wickremesinghe mentioned the play called 'Caucasian Chalk Circle' by German playwright Barol.
-
-...
-
-[Data](articles/9276c4af.json)
-
-[Extended Data](ext_articles/9276c4af.ext.json)
-
----
-
-### Former Minister Hasan Ali
-
-*2024-07-02 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/187473) · `ta`
-
-Hasan Ali, a former Minister and President of the TNA, mourns the loss of Ira Sambandan, highlighting his significant contributions towards unity among Tamil-speaking people and his efforts to bridge gaps between Tamil and Muslim communities. Sambandan's death is seen as a major setback for the Tamil-speaking community, reflecting his deep impact on their aspirations and unity efforts.
-
-🟩
-
-The real unity between the Tamil -speaking people should be established. Sampanthan is the Secretary General of the United Peace Federation and former Minister of Health Department. Ri. Hasan Ali said.
-
-He is the president of the TNA. The media report issued by Sampanthan's death is as follows:
-
-The death of the Tamil National Alliance (TNA) leader Ira Sambandan is not the only Tamil people, but the disaster for the Tamil -speaking people.
-
-This is because he is a great man who has worked hard to establish true harmony between the Tamil -speaking people.
-
-He is a dreamer between the Tamil -Muslim communities, who believed that the solution to the problems of the minority through the Tamil -speaking communities could be obtained from the majority community, and the manner in which the Tamil -Muslim communities were working without a gap between the word and the deed.
-
-...
-
-[Data](articles/17e74863.json)
-
-[Extended Data](ext_articles/17e74863.ext.json)
 
 ---

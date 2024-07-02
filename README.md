@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 12:19:52**
+As of **2024-07-02 12:53:21**
 
 ## Newspaper Stats
 
-*Scraped **33,257** Articles*
+*Scraped **33,261** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,113 @@ islandlk | 1,856
 economynextcom | 1,943
 dailyftlk | 2,054
 adalk | 2,959
-adaderanalk | 3,788
+adaderanalk | 3,789
 tamilmirrorlk | 3,939
 dailymirrorlk | 4,733
 virakesarilk | 5,188
-adaderanasinhalalk | 5,501
+adaderanasinhalalk | 5,504
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,244 (100.0%) of 33,257 articles have been extended.
+33,259 (100.0%) of 33,261 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### சர்வதேசம் மதிக்கத்தக்க இலங்கைத் தீவின் தலைவர்களில் ஒருவராக இருந்தவர் சம்பந்தன் - சமத்துவக் கட்சி
+### Interim order issued against Dayasiri’s expulsion from SLFP
+
+*2024-07-02 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100236/interim-order-issued-against-dayasiris-expulsion-from-slfp-) · `en`
+
+The Colombo District Court has issued an interim order against the Sri Lanka Freedom Party’s (SLFP) decision to expel MP Dayasiri Jayasekara from party membership and the post of General Secretary, Ada Derana reporter said.
+
+Jayasekara, who was the former General Secretary of the SLFP, had sought an order revoking the decisions taken by the party to oust him from the position he held within the party.
+
+Jayasekara had filed the complaint before the Colombo District Court, challenging the decision taken by the SLFP to expel him as the party’s General Secretary and a letter directed by the party’s then chairman Maithripala Sirisena which mentioned that a disciplinary inquiry would be conducted against Jayasekara and asked him to provide excuses to defend himself.
+
+On September 05, 2023, MP Dayasiri Jayasekara was ousted from the SLFP with immediate effect and he was stripped of his position as the party’s general secretary.
+
+...
+
+[Data](articles/5d41054a.json)
+
+---
+
+### මන්ත්‍රී ධුරයක් හිස් වී ඇති බව කථානායක දැනුම්දෙයි
+
+*2024-07-02 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198399) · `si`
+
+ආර්. සම්පන්දන් මහතාගේ අභාවය හේතුවෙන් ජුනි 30 වනදා සිට පාර්ලිමේන්තුවේ මන්ත්‍රි ධුරයක පුරප්පාඩුවක් ඇතිවී තිබෙන බව කථානායක මහින්ද යාපා අබේවර්ධන මහතා දැනුම් දුන්නේය.
+
+අවසන් ගෞරව දැක්වීම සඳහා ඒ මහතාගේ දේහය හෙට දහවල් 2 සිට 4 දක්වා පාර්ලිමේන්තු සංකීර්ණයේ තැන්පත් කිරීමට නියමිත බවද කථානායකවරයා පැවසීය.
+
+◼️
+
+[Data](articles/f2ae0392.json)
+
+---
+
+### Dayasiri Jayasekara obtains a court order
+
+*2024-07-02 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198398) · `si`
+
+The Colombo District Court issued an interim injunction requiring MP Dayasiri Jayasekera to resign from the SLFP and its secretary position due to a petition filed against Maithripala Sirisena regarding the removal of the SLFP.
+
+🟩
+
+The Colombo District Court issued an interim injunction with the resignation of MP Dayasiri Jayasekera from the SLFP and the secretary of the Sri Lanka Freedom Party.
+
+The District Court had issued the order by Maithripala Sirisena, Maithripala Sirisena and a petition filed against Maithripala Sirisena against the removal of the SLFP.
+
+◼️
+
+[Data](articles/7aa56fa5.json)
+
+[Extended Data](ext_articles/7aa56fa5.ext.json)
+
+---
+
+### Sudden transfers to a number of police chiefs
+
+*2024-07-02 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198397) · `si`
+
+Several police chiefs were suddenly reassigned, with 15 being moved to Divisional Inspectors General (DIG) roles, including six now overseeing Field Force Headquarters. Notably, I.D.R. Wijesinghe was transferred to serve as the Inspector General of Police for the Nuwara Eliya district.
+
+🟩
+
+Transfers have been transferred to 15 DIGs, including 6 DIGs.
+
+DIG in charge of Field Force Headquarters. I. D. R. Wijesinghe has been transferred to the IGP of the Nuwara Eliya district.
+
+◼️
+
+[Data](articles/282d91e3.json)
+
+[Extended Data](ext_articles/282d91e3.ext.json)
+
+---
+
+### Sampanthan - Equality Party was one of the leaders of the island of Sri Lanka
 
 *2024-07-02 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/187464) · `ta`
 
-இனவாதக் கொந்தளிப்பினால் அழிந்து கொண்டிருக்கும் இலங்கைத் தீவை மீட்டெடுப்பதற்கு சமாதானமும் நீதியான முறையில் பல்லின சமத்துவமும் நிலைநிறுத்தப்பட வேண்டும் என்பதை வலியுறுத்திச் செயலாற்றிய மூத்த அரசியல் தலைவர்  இரா. சம்பந்தனுடைய மறைவு நாட்டுக்குப் பேரிழப்பாகும்.
+Sampanthan, a senior political leader from Sri Lanka's Equality Party, championed peace and equality amid racial turmoil, advocating for a fair resolution to the country's ethnic issues despite facing opposition. His death is mourned as a significant loss, highlighting the challenges in achieving peace and justice without him. Despite criticism and controversy, Sampanthan remained committed to peace and unity, emphasizing the importance of overcoming racism and radical nationalism. His legacy encourages the pursuit of equality and unity among all communities in Sri Lanka.
 
-இந்த வெற்றிடத்தை நிரப்புவது இன்றைய சூழ்நிலையில் மிகக் கடினமானதாகும். சம்பந்தனுடைய மறைவுநாட்டில் அமைதியையும் நீதியான தீர்வையும் எட்ட விரும்பும் அனைவருக்கும் ஏற்பட்டுள்ள பேரிழப்பாகும். இந்த இழப்பை ஆழமாகச் சமத்துவக் கட்சி உணர்ந்து கொண்டு, மறைந்த தலைவர்  சம்பந்தன் அவர்களுக்கு தன்னுடைய அஞ்சலியை செலுத்துகிறது என அந்தக் கட்சியின் தலைவர் முருகேசு சந்திரகுமார் தெரிவித்துள்ளார்.
+🟩
+
+Senior political leader who insisted that peace and righteous equality should be upheld to restore the Sri Lankan island, which is being destroyed by racist turmoil.. The demise of Sambandan is a disaster for the country.
+
+Filling this vacuum is the most difficult in today's environment. It is a disaster that all wants to reach peace and justice in the demise of Sambandan. The party leader Murukesu Chandrakumar said that the loss of the loss was deeply recognized by the Equality Party and paid his tribute to the late leader Sambandan.
+
+In his condolence message to Sampanthan's demise, he was firmly in his last breath that a fair solution to the ethnic problem should be reached in Sri Lanka. For this he faced fierce opposition, criticism and controversy within his party. Nevertheless, there was no interest in peace, unity and peace.. The Equality Party deeply recognizes the loss of the leader with such values ​​and pays his tribute to Sambandan.
 
 ...
 
 [Data](articles/3c2d2fa9.json)
+
+[Extended Data](ext_articles/3c2d2fa9.ext.json)
 
 ---
 
@@ -62,39 +142,55 @@ Furthermore, the Speaker informed all the Members of Parliament that his remains
 
 [Data](articles/0dde2121.json)
 
+[Extended Data](ext_articles/0dde2121.ext.json)
+
 ---
 
-### ජනපතිවරයා පාර්ලිමේන්තුවේදී කළ ප්‍රකාශයේ සම්පූර්ණ විස්තරය
+### Full description of the President's statement in Parliament
 
 *2024-07-02 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198396) · `si`
 
-විදේශ ණය ප්‍රතිව්‍යුහගත කිරීමේ ගිවිසුම් ක්‍රියාත්මක කිරීම සහ එහි අන්තර්ගතය පිළිබඳව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පාර්ලිමේන්තුවේදී විශේෂ ප්‍රකාශයක් සිදුකළේය.
+It seems like you've shared a detailed narrative or speech that touches on various topics including foreign debt, economic challenges, political commentary, and personal reflections on leadership and decision-making. How can I assist you further with this content? Are you looking for analysis, editing, or perhaps guidance on how to address specific points within this text? Please let me know how I can best support you
 
-"2022 වසරේ ණය ගෙවාගන්නට බැරිවුණු රටකට යළිත් ආර්ථික ශක්තිය ලබා දීමේ අභියෝගාත්මක ගමනේ තවත් වැදගත් සංධිස්ථානයකට අපට ගිය සතියේ එළැඹෙන්නට හැකි වුණා.
+🟩
 
-පසුගිය ජූනි 26 වැනිදා අපේ නිල ණය හිමියන් සමග ණය ආපසු ගෙවීම පිළිබඳව එකඟතාවයන්ට එළැඹීමට අපට පුළුවන් වුණා. කැබිනට් මණ්ඩලය විසින් බලය පවරන ලද නිලධාරීන් අපේ රට නියෝජනය කරමින් මෙම එකඟතාවන්ට සහ ගිවිසුම්වලට අත්සන් කළා. එදිනම රාත්‍රියේ මම විද්‍යුත් මාධ්‍ය ඔස්සේ මුළු මහත් ජාතියටම ඒ පිළිබඳ කරුණු පෙන්වා දුන්නා.
+President Ranil Wickremesinghe made a special statement in Parliament regarding the implementation of controlling contractual restructuring agreements and its contents.
 
-ආර්ථිකය යළි ගොඩනැංවීමේ අභියෝගාත්මක ගමන ආරම්භ වූ දවසේ පටන් මම විටින් විට පාර්ලිමේන්තුව හමුවේ කරුණු ඉදිරිපත් කළා. මුලින්ම අප අනුගමනය කරන සැලසුම් ගැන පාර්ලිමේන්තුව හමුවේ විස්තර කළා. ඉන් පසුව අප ලබා ඇති ප්‍රගතිය ගැන කරුණු පැහැදිලි කළා.
+"We were able to return to another important milestone in the challenging journey to a country that could not pay off the debt of 2022 year.
 
-ඒ අනුවම යමින් මම අද මේ සභාව හමුවේ වර්තමාන තත්වය පිළිබඳ තොරතුරු අනාවරණය කරන්නට කැමතියි.
+On June 26, we were able to reach agreements on debts with our official creditors. Officers authorized by the Cabinet signed these agreements and agreements representing our country. On the same night, I showed the whole nation to the entire nation on the same night.
+
+Since the beginning of the challenges of rebuilding the economy, I occasionally gave parliament. First explained the plans we follow. After that, we explained the progress we had made.
+
+In that sense, I would like to disclose the current status of the situation today.
+
+About two years ago, I left our four-important work plan before I handed over the challenge of redressing the economy of the country.
 
 ...
 
 [Data](articles/4cbe64ec.json)
 
+[Extended Data](ext_articles/4cbe64ec.ext.json)
+
 ---
 
-### ஐயாவின் பூதவுடலுக்கு அணிதிரண்டு அஞ்சலி
+### A tribute to Iya
 
 *2024-07-02 11:31:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐயாவின்-பூதவுடலுக்கு-அணிதிரண்டு-அஞ்சலி/175-339752) · `ta`
 
-தமிழ்த் தேசியக் கூட்டமைப்பின் முன்னாள் தலைவருமான மறைந்த இராஜவரோதயம் சம்பந்தனின் பூதவுடல் மக்கள் அஞ்சலிக்காக கொழும்பு – பொரள்ளை பகுதியிலுள்ள தனியார் மலர்சாலையில் செவ்வாய்க்கிழமை (02) வைக்கப்பட்டுள்ளது.
+R. Sampanthan, former TNA President, passed away. His funeral procession will travel from Colombo to his hometown, Trincomalee, for the final rites.
 
-அதன்பின்னர், இரா.சம்பந்தனின் பூதவுடல் அவரது சொந்த ஊரான திருகோணமலைக்கு கொண்டு செல்லப்பட்டு, இறுதிக் கிரியைகள் நடாத்தப்படவுள்ளன.
+🟩
+
+Former President of the Tamil National Alliance (TNA)
+
+Subsequently, the funeral of R. Sampanthan will be taken to his hometown of Trincomalee and the funeral will be held.
 
 ◼️
 
 [Data](articles/17091d82.json)
+
+[Extended Data](ext_articles/17091d82.ext.json)
 
 ---
 
@@ -120,19 +216,25 @@ The Tamil National Alliance (TNA) media spokesman MA Sumanthiran says that the f
 
 ---
 
-### யாழில் இல்லமொன்றில் மாணவிகள் குளிக்கும் காட்சிகள் பதிவானதா? - அதிகாரிகள் விசாரணை
+### Did the students bathe in a house in Jaffna?- Investigate officials
 
 *2024-07-02 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187461) · `ta`
 
-யாழ்ப்பாணத்தில் மாணவிகள் தங்கி இருந்த இல்லமொன்றில் மாணவிகள் குளிக்கும்  காட்சிகள் பதிவானதாக தகவல்கள் வெளியாகிய நிலையில் பிரதேச செயலக அதிகாரிகள் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+Investigation underway after reports that students bathed in a house in Jaffna, equipped with CCTV for security. Officials visited the site due to complaints about camera deficiencies, focusing on ensuring safety and proper use of facilities.
 
-யாழ்ப்பாணத்தில் உள்ள பெண் பிள்ளைகள் தங்கி இருக்கும் இடம் ஒன்றின் வெளிப்புறப் பாதுகாப்புக்காக சிசிடிவி கமரா பொருத்தப்பட்டிருந்தது.
+🟩
 
-குறித்த கமராக்களில் பெண் மாணவிகள் குளிக்கும் பகுதியின் சில பகுதிகள் பதிவாகியுள்ளமை தொடர்பிலும் வேறு சில குறைபாடுகளையும் சுட்டிக்காட்டி குறித்த பகுதிப் பிரதேச செயலகத்துக்கு முறைப்பாடு அனுப்பப்பட்டதாக தகவல்கள் வெளியாகிய நிலையில் அதிகாரிகள் குறித்த இல்லத்திற்கு நேரடியாக சென்று பார்வையிட்டுள்ளனர். அதிகாரிகள் இது தொடர்பில் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+Divisional Secretariat officials are conducting investigations as it was reported that students were bathing in a house where students were staying in Jaffna.
+
+The CCTV camera was fitted for the external protection of a place where female children in Jaffna stay.
+
+Officials have visited the residence of the area as it was reported to have lodged a complaint with the Divisional Secretariat of the area, pointing out some other shortcomings and other shortcomings in the cameras.. Officials are investigating the matter.
 
 ◼️
 
 [Data](articles/133956f7.json)
+
+[Extended Data](ext_articles/133956f7.ext.json)
 
 ---
 
@@ -158,21 +260,29 @@ If anyone is found to be a fake phone call, a police officer said that a detaile
 
 ---
 
-### வெளிநாட்டு கடன் மறுசீரமைப்பு உடன்படிக்கையை நடைமுறைப்படுத்துதல் : பாராளுமன்றில் ஜனாதிபதி விசேட உரை - நேரலை
+### Implementation of Foreign Loan Reorganization Agreement: President's Special Speech in Parliament - Live
 
 *2024-07-02 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/187443) · `ta`
 
-வெளிநாட்டு கடன் மறுசீரமைப்பு உடன்படிக்கையை நடைமுறைப்படுத்துவது தொடர்பில் ஜனாதிபதியின் விசேட உரை தற்போது பாராளுமன்றத்தில் இடம்பெற்றுவருகின்றது.
+President Ranil Wickremesinghe addressed Parliament on the implementation of the Foreign Debt Relief Agreement, highlighting Sri Lanka's $37 billion foreign loan, including $10.6 billion in bilateral loans, $11.7 billion in multilateral debts, and $14.7 billion in trade loans. He emphasized the impossibility of obtaining foreign loans without sacrifices, addressing criticisms and clarifying the role of the International Monetary Fund (IMF) in debt restructuring. The President announced Sri Lanka's success in renegotiating its credit status, achieving a concessionary repayment period, and securing official bilateral credit from India, Japan, France, and China. He stressed the importance of economic stability and urged unity among opposition parties, concluding with a call for decisive action to address the country's economic challenges.
 
-கடனை மீளச் செலுத்துவது தொடர்பில் நாட்டின் உத்தியோகபூர்வ கடன் வழங்குநர்களுடன் இணக்கப்பாட்டை எட்ட முடிந்துள்ளதாகவும்  அமைச்சரவையினால் அங்கீகரிக்கப்பட்ட அதிகாரிகள் அந்த ஒப்பந்தங்களிலும் உடன்படிக்கைகளிலும் கைச்சாத்திட்டதாகவும்  ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+🟩
 
-இரண்டு வருடங்களுக்கு முன்னர் பாராளுமன்றத்தில் முன்வைக்கப்பட்ட நான்கு அம்ச வேலைத் திட்டத்தின் மூலம் தொடர்ந்து பயணித்து,  தற்போது எவ்வாறு வெற்றிகரமான பிரதிபலன்கள் எட்டப்பட்டுள்ளன என்பதை  ஜனாதிபதி பாராளுமன்றத்தில் சுட்டிக்காட்டினார்.
+The President's special speech on the implementation of the Foreign Debt Relief Agreement is currently taking place in Parliament.
 
-இலங்கையின் வெளிநாட்டுக் கடனின் அளவு 37 பில்லியன் அமெரிக்க டொலர்கள் என்பதோடு  அதில் 10.6 பில்லியன் டொலர் இருதரப்புக் கடன்களகாகும். 11.7 பில்லியன் டொலர்கள் பல்தரப்புக் கடன்களாகும். 14.7 பில்லியன் டொலர்கள் வர்த்தகக் கடன்களாகும். அதில் 12.5 பில்லியன் டொலர்கள் பிணைமுறிப் பத்திரங்கள் என்றும் ஜனாதிபதி பாராளுமன்றத்தில் சுட்டிக்காட்டினார்.
+President Ranil Wickremesinghe said that the Cabinet of Ministers had signed the agreements and agreements with the Cabinet of Ministers.
+
+The President pointed out in Parliament on how successful reflections have been reached by a four -point program, which was put forward in Parliament two years ago.
+
+Sri Lanka's foreign loan is US $ 37 billion and is $ 10.6 billion bilateral loans. $ 11.7 billion is multi -debts. $ 14.7 billion is trade loans. The President also pointed out in Parliament that $ 12.5 billion bail bonds.
+
+The President pointed out in Parliament that although various ideas have been expressed in Parliament and Outside, some of them are untrue.
 
 ...
 
 [Data](articles/d9f7e984.json)
+
+[Extended Data](ext_articles/d9f7e984.ext.json)
 
 ---
 
@@ -194,19 +304,25 @@ Due to a bomb in the Kandy court, it has been taken to remove all its workboards
 
 ---
 
-### மட்டு சிறைச்சாலையில் ஜஸ்போதை பொருளுடன் உத்தியோகத்தர் ஒருவர் கைது!
+### An officer arrested in jail
 
 *2024-07-02 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/187445) · `ta`
 
-மட்டக்களப்பு சிறைச்சாலையில் 8 கிராம் ஜஸ்போதை பொருளுடன் சிறைச்சாலை உத்தியோகத்தர் ஒருவரை  நேற்று திங்கட்கிழமை (1) இரவு கைது செய்துள்ளதாக மட்டு தலைமையக பொலிசார் தெரிவித்தனர்.
+A 45-year-old prison officer from Anuradhapura was arrested for possessing 8 grams of Jaspodi at Batticaloa Prison. He turned himself in and will be produced in court.
 
-குறித்த சிறைச்சாலையில் நேற்று இரவு கடமையில் இருந்த சிறைச்சாலை உத்தியோகஸ்த்தரை சிறைக்காவலர் சோதனையிட்ட போது அவரிடமிருந்து 8 கிராம் ஜஸ்போதை பொருளை மீட்டதுடன், அவரை கைது செய்து பொலிஸாரிடம் ஒப்படைத்துள்ளார்.
+🟩
 
-இதில் கைது செய்யப்பட்டவர் அநுராதபுரத்தைச் சேர்ந்த 45 வயதுடையவர் எனவும் அவரை நீதிமன்றத்தில் ஆஜர்படுத்த நடவடிக்கை எடுத்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Police said that a prison officer was arrested on Monday night with an 8 grams of Jaspodi at the Batticaloa Prison, police said.
+
+The prison officer who was on duty at the prison last night recovered 8 grams of Jaspothi and handed him over to the police.
+
+The arrested person was 45 years old from Anuradhapura and he had taken steps to produce him in court.
 
 ◼️
 
 [Data](articles/eacbed96.json)
+
+[Extended Data](ext_articles/eacbed96.ext.json)
 
 ---
 
@@ -254,21 +370,27 @@ He added that between $ 10.6 billion bilateral loans of $
 
 ---
 
-### லிட்ரோ சமையல் எரிவாயுவின் விலை குறைப்பு
+### Litro cooking gas reduction
 
 *2024-07-02 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/187457) · `ta`
 
-லிட்ரோ சமையல் எரிவாயுவின் விலைகள் இன்று செவ்வாய்க்கிழமை (02) நள்ளிரவு முதல் குறைக்கப்படவுள்ளதாக லிட்ரோ நிறுவனத்தின் தலைவர் முதித பீரிஸ் தெரிவித்துள்ளார்.
+From midnight on Tuesday, Litro cooking gas prices will decrease. A 12.5kg cylinder's price drops to 3,690 rupees from 3,790, a 5kg cylinder to 1,482 rupees from 1,522, and a 2.3kg cylinder to 694 rupees from 712.
 
-அதன்படி 12.5 கிலோ கிராம் நிறையுடைய சமையல் எரிவாயு சிலிண்டரின் விலை 100 ரூபாவால் குறைக்கப்படவுள்ளதுடன், அதன் புதிய விலை 3,690 ரூபாவாகும்.
+🟩
 
-5 கிலோ கிராம் நிறையுடைய சமையல் எரிவாயு சிலிண்டரின் விலை 40 ரூபாவால் குறைக்கப்படவுள்ளதுடன், அதன் புதிய விலை 1,482 ரூபாவாகும்.
+The prices of Litro cooking gas will be reduced from midnight on Tuesday (02), Litro Company Chairman Muditha Peiris said.
 
-அதேவேளை, 2.3 கிலோ கிராம் நிறையுடைய சமையல் எரிவாயு சிலிண்டரின் விலை 18 ரூபாவால் குறைக்கப்படவுள்ளதுடன், அதன் புதிய விலை 694 ரூபாவாகும்.
+Accordingly, the price of a 12.5kg cooking gas cylinder will be reduced by 100 rupees and its new price is 3,690 rupees.
+
+The price of 5 kg of cooking gas cylinder will be reduced by 40 rupees and its new price is 1,482 rupees.
+
+Meanwhile, the price of the 2.3 kg of cooking gas cylinder will be reduced by 18 rupees and its new price is 694 rupees.
 
 ◼️
 
 [Data](articles/7a740555.json)
+
+[Extended Data](ext_articles/7a740555.ext.json)
 
 ---
 
@@ -292,21 +414,29 @@ UPDATE: All the cases that were scheduled to be heard and the delivering of ver
 
 ---
 
-### டிரம்பிற்கு விடுபாட்டுரிமை உள்ளதாக நீதிமன்றம் அறிவித்துள்ளமைக்கு பைடன் கடும் எதிர்ப்பு- டிரம்பிற்கு மீண்டும் அதிகாரத்தை வழங்கவேண்டுமா என்பதை மக்கள் தீர்மானிக்கவேண்டும் என வேண்டுகோள்
+### Baitan's strong opposition to the court's announcement that Trump has a right to release
 
 *2024-07-02 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187456) · `ta`
 
-அமெரிக்காவின் முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்பிற்கு விடுபாட்டுரிமை குறித்த நீதிமன்றத்தின் தீர்ப்பை கடுமையாக கண்டித்துள்ள ஜனாதிபதி ஜோ பைடன் இந்த தீர்ப்பு டிரம்பினை மேலும் துணிச்சல்மிக்கவராக மாற்றும் என தெரிவித்துள்ளார்.
+President Joe Biden criticized the Supreme Court's decision allowing former President Donald Trump to avoid legal consequences for his actions related to the 2020 election. He argued that this ruling undermines the rule of law and sets a dangerous precedent, emphasizing that the American people should decide Trump's future political roles through elections.
 
-2020 ஜனாதிபதி தேர்தல் முடிவுகளை மாற்றியமைக்க முற்பட்ட குற்றச்சாட்டுகள் தொடர்பில் முன்னாள் ஜனாதிபதி  டொனால்ட் டிரம்பிற்கு விடுபாட்டுரிமை உள்ளதாக அமெரிக்க உயர்நீதிமன்றம் தெரிவித்துள்ளதை  ஜோ பைடன் கடுமையாக கண்டித்துள்ளார்.
+🟩
 
-வெள்ளை மாளிகையில் ஆற்றிய ஐந்து நிமிட உரையில் நீதிபதிகள் 6- 3 என்ற அடிப்படையில் வழங்கியுள்ள தீர்ப்பு சட்டத்தின் ஆட்சிக்கு பாதிப்பை ஏற்படுத்துகின்றது என ஜோபைடன் தெரிவித்துள்ளார்.
+President Joe Biden, who strongly condemned the court's ruling on the right to give birth to former US President Donald Trump, said the verdict would make Trump more brave.
 
-இந்த தீர்ப்பின் காரணமாக  2021 ஜனவரி ஆறாம் திகதி அமெரிக்க நாடாளுமன்றத்தின் மீது தாக்குதலை மேற்கொள்ளுமாறு கும்பலொன்றை தூண்டிய குற்றத்திற்காக  டிரம்ப் சட்டபூர்வமாக பொறுப்பாளியாக மாட்டார் என  சுட்டிக்காட்டியுள்ள பைடன் இதனால் இந்த தீர்ப்பு அமெரிக்க மக்களை மிக மோசமாக அவமதித்துள்ளது எனவும் குறிப்பிட்டுள்ளார்.
+Joe Bidan has strongly condemned the US High Court's claim that former President Donald Trump has a right to release on charges of trying to change the 2020 presidential election results.
+
+In a five-minute speech at the White House, Jobs said that the verdict of the judges 6-3 is affecting the rule of the law.
+
+Pointing out that Trump would not be legally responsible for the crime of provoking a mob to attack the US parliament on January 2021, the verdict said the verdict was very insulting the American people.
+
+Joe Bidan said that it was the responsibility of the American people to decide whether Trump is worthy of re -entrusing the regime in the upcoming election.
 
 ...
 
 [Data](articles/f97b048d.json)
+
+[Extended Data](ext_articles/f97b048d.ext.json)
 
 ---
 
@@ -480,35 +610,47 @@ Senior leader of the Tamil National Party, Ira Sambandan, is the eldest of us.. 
 
 ---
 
-### பியகமவில் வீடொன்றில் பெண் படுகொலை ; சந்தேக நபர் கைது
+### Female assassination in a house in Biyagama;Suspect arrested
 
 *2024-07-02 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/187442) · `ta`
 
-பியகம பொலிஸ் பிரிவுக்கு உட்பட்ட மல்வான பகுதியில் உள்ள வீடொன்றில் பெண் ஒருவர் படுகொலை செய்யப்பட்டுள்ளதாக பியகம பொலிஸார் தெரிவித்துள்ளனர்.
+A woman was killed in her Malwana home, part of the Biyagama police division. The 32-year-old suspect, arrested by Kosgoda police, had an improper relationship with the victim. Both lived in a rented house where the crime occurred. Further inquiries are ongoing by Kosgoda and Biyagama police.
 
-இந்த கொலைச் சம்பவமானது, சில தினங்களுக்கு முன்னர் இடம்பெற்றுள்ளதாகவும், 32 வயதுடைய சந்தேக நபர் நேற்று திங்கட்கிழமை (01) கொஸ்கொட பொலிஸாரால் கைது செய்யப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-விசாரணையில், சந்தேக நபர் கொலை செய்யப்பட்ட பெண்ணுடன் தகாத உறவில் ஈடுபட்டிருந்துள்ளதாகவும், இருவரும் வசித்து வந்த வாடகை வீட்டில் வைத்து இந்த கொலை சம்பவம் இடம்பெற்றுள்ளதாகவும் தெரியவந்துள்ளது.
+A woman has been murdered in a house in Malwana, which belongs to the Biyagama police division, Biyagama police said.
 
-இந்த சம்பவம் தொடர்பாக மேலதிக விசாரணைகளை கொஸ்கொட மற்றும் பியகம பொலிஸார் மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
+The murder has taken place a few days ago and the 32 -year -old suspect has been arrested by Kosgoda police on Monday (01), police said.
+
+Investigations revealed that the murder was involved in an inappropriate relationship with a woman who was murdered and the murder took place at a rented house where the two were living.
+
+Koskoda and Biyagama police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/8c52f9df.json)
 
+[Extended Data](ext_articles/8c52f9df.ext.json)
+
 ---
 
-### கொழும்பில் இன்று சம்பந்தனின் பூதவுடல் அஞ்சலிக்காக வைப்பு
+### Sampanthan's funeral was deposited in Colombo today
 
 *2024-07-02 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/187451) · `ta`
 
-இலங்கைத் தமிழரசுக்கட்சியின் சிரேஷ்ட தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இராஜவரோதயம் சம்பந்தனின் பூதவுடல் இன்று செவ்வாய்க்கிழமை (02) காலை பொரளை ஏ.எப்.ரேமன்ட் மலர்ச்சாலையில் பொதுமக்களின் அஞ்சலிக்காக வைக்கப்பட்டுள்ளது.
+Rajavarothayam Sampanthan, a senior leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian, was laid to rest in Colombo on Tuesday. Political leaders including President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena, Speaker Mahinda Yapa Abeywardena, and Opposition Leader Sajith Premadasa will honor his memory in Parliament on Wednesday at 2 pm, with his body arriving there at 4 pm.
 
-நாளை புதன்கிழமை (03) பாராளுமன்றத்தில் 2 மணிக்கு சம்பந்தனிக் பூதவுடல் பாராளுமன்றத்தில் வைக்கப்பட்டு அவருக்கு ஜனாதிபதி ரணில் விக்ரமசிங்க, பிரதமர் தினேஷ் குணவர்தன, சபாநாயக்கர் மஹிந்த யாப்பா அபேவர்த்தன, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச உட்பட ஏனைய அரசியல் கட்சிகளின் தலைவர்கள்  மற்றும் உறுப்பினர்கள்  மரியாதை செலுத்தவுள்ளனர். அங்கு 4 மணிவரையில் அவரது பூதவுடல் வைக்கப்படவுள்ளது.
+🟩
+
+Senior Leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian Rajavarothayam Sambandan's funeral was held on Tuesday (02) at the Borella AF Reman Flower.
+
+Leaders and members of other political parties including President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena, Speaker Mahinda Yapa Abeywardena and Opposition Leader Sajith Premadasa will pay homage to Parliament tomorrow (03) at 2 pm. His body will be placed there at 4 pm.
 
 ◼️
 
 [Data](articles/11362533.json)
+
+[Extended Data](ext_articles/11362533.ext.json)
 
 ---
 
@@ -682,17 +824,23 @@ The Tipper driver has been arrested in connection with the accident and Wariyapo
 
 ---
 
-### கரையோர மார்க்கத்தில் ரயில் சேவை பாதிப்பு !
+### Rail service impacts on coastal route!
 
 *2024-07-02 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/187439) · `ta`
 
-பம்பலப்பிட்டி மற்றும்  வெள்ளவத்தைக்கு இடையிலான ரயில் மார்க்கத்தில் ரயில்  தண்டவாளம் உடைந்துள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+Due to a broken rail line between Bambalapitiya and Wellawatte, the Railway Department anticipates delays in the coastal route's train service.
 
-இதனால் கரையோர மார்க்கத்தில் ரயில் சேவையானது பாதிக்கப்பட்டுள்ளதால் சேவையில் தாமதம் ஏற்படக்கூடுமென  ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+🟩
+
+The Railway Department has said that the railway line has been broken at the railway line between Bambalapitiya and Wellawatte.
+
+The Railway Department said that the train service in the coastal route could be delayed due to the damage.
 
 ◼️
 
 [Data](articles/2aff43a1.json)
+
+[Extended Data](ext_articles/2aff43a1.ext.json)
 
 ---
 
@@ -764,17 +912,23 @@ According to the monthly gas prices, the gas prices were finally revised on June
 
 ---
 
-### இன்று விசேட பாராளுமன்ற அமர்வு
+### Special Parliament Session Today
 
 *2024-07-02 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187441) · `ta`
 
-பாராளுமன்றம் இன்று செவ்வாய்க்கிழமை (02) காலை 9.30 மணிக்கு விசேட அமர்வுக்காக கூடுகின்றது. இதன்போது ஜனாதிபதியின் விசேட உரை மாத்திரமே நடைபெறும் என்று அறிவிக்கப்பட்டுள்ளது.
+Today, Parliament holds a special session at 9:30 am. The focus is solely on the President's address, preceded by the late former opposition leader Ira Sampanthan's funeral procession to the Parliamentary Complex tomorrow.
 
-ஜனாதிபதியின் உரை மற்றும் மறைந்த முன்னாள் எதிர்க்கட்சித் தலைவர் இரா. சம்பந்தனின் பூதவுடலை இறுதி அஞ்சலிக்காக நாளை புதன்கிழமை (03) பாராளுமன்ற வளாகத்துக்கு எடுத்து வருவதற்கும் பாராளுமன்ற அலுவல்கள் பற்றிய குழுவில் தீர்மானிக்கப்பட்டுள்ளதாக பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர தெரிவித்தார்.
+🟩
+
+Parliament meets for a special session at 9.30 am on Tuesday (02). It has been announced that only the President's special speech will be held.
+
+President's speech and the late former opposition leader Ira. The Secretary General of Parliament Kushani Rohanadeera said that Sampanthan's funeral will be taken to the Parliamentary Complex tomorrow (03) to the Parliamentary Committee.
 
 ◼️
 
 [Data](articles/87fe1dc9.json)
+
+[Extended Data](ext_articles/87fe1dc9.ext.json)
 
 ---
 
@@ -2077,93 +2231,5 @@ The justices, in a 6-3 ruling written by Chief Justice John Roberts, threw out a
 [Data](articles/30f4be77.json)
 
 [Extended Data](ext_articles/30f4be77.ext.json)
-
----
-
-### “We can no longer afford to revert to old politics. The choices we make today profoundly impact our future.  Can we afford to return to the days of long queues and traditional politics? We must decisively choose our course.”- President Ranil Wickremesinghe in Matara.
-
-*2024-07-01 21:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84313) · `en`
-
-(Text of Address  Delivered by President Ranil Wickremesinghe at the “Victory through Unity” (Ekwa Jayagamu) Held at the Matara Fort Grounds on 30 June 2024)
-
-“I have safely brought the Titanic, entrusted to me, to port. While other captains fled from the iceberg, we faced a critical decision: sink or navigate to safety. Now that we’ve reached port, the question is what to do next with this ship. We must decide whether to refurbish it for the next 50-100 years or hand it over in its current state to a fleeing captain.
-
-When I arrived here today, memories of the hardships faced by the Matara people flooded back. I vividly recall spending the Sinhala New Year 2022 in Kamburupitiya, where a filling station near my hotel was constantly crowded with long queues of vehicles. Witnessing the people’s suffering and frustration, I resolved that such scenes must not recur in our country.
-
-...
-
-[Data](articles/80a6621e.json)
-
-[Extended Data](ext_articles/80a6621e.ext.json)
-
----
-
-### Veteran Tamil Political Leader Rajavarothayam Sampanthan’s Funeral to be held  in Trincomalee on Sunday 7th July
-
-*2024-07-01 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84315) · `en`
-
-Funeral Arrangements of Hon. R. Sampanthan M.P. Tamil National Alliance (T.N.A) MP Hon. R. Sampanthan’s mortal remains will Lie at the A.F. Raymonds funeral parlour for viewing from 9.00 a.m. today (02nd July 2024) till noon tomorrow (03rd July 2024).
-
-Thereafter his mortal remains will Lie in State in Parliament from 2.00 pm – 4.00 pm on Wednesday (03rd July 2024)
-
-Mr. Sampanthan’s body will be kept for public viewing at his residence at post office road, Trincomalee from 9.00 a.m. on Friday the 05th of July 2024, Saturday the 06th of July 2024 till the funeral rites on Sunday the 07th of July 2024 in Trincomalee.
-
-◼️
-
-[Data](articles/f533fdad.json)
-
-[Extended Data](ext_articles/f533fdad.ext.json)
-
----
-
-### Two suspects arrested
-
-*2024-07-01 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198377) · `si`
-
-Two prisoners, including one named Roshan Asakanka alias Awaitan, escaped from Kuruwita Prison and were later captured in the Moragahahena area. They had stolen a motorcycle and were hiding in a forest. Arrested by prison officials and the Test House in Warakapola, they were brought before the Tilhiriya Magistrate Court.
-
-🟩
-
-Two suspects who were imprisoned by the court were arrested by the prison officials and were hiding in the Moragahahena area.
-
-The suspects have fled the motorbike with a stolen motorcycle with a stolen motorcycle and the police were found in a jungle while he was hiding at a forest.
-
-The suspect was arrested for Roshan Asakanka alias Awaitan, Nava, "Suddha".
-
-The other Divisional Secretariat Investigation Division was arrested yesterday.
-
-He was arrested by the Test House in the Warakapola, Police area and were produced before the Tilhiriya Magistrate Court about the motorcycle vessels.
-
-The two inmates fled the prison officials when the two inmates were taken from the Kuruwita Prison in Kuruwita Magistrate's Court to restore the two inmates on the 28th.
-
-◼️
-
-[Data](articles/1f8f1dbf.json)
-
-[Extended Data](ext_articles/1f8f1dbf.ext.json)
-
----
-
-### The goal of doubling paddy yields in the next six boats - Janaka Dharmakirthi
-
-*2024-07-01 20:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/187433) · `ta`
-
-Janaka Dharmakirthi, Secretary to the Ministry of Agriculture and Plantation Industries, aims to double paddy yields within six years through technological advancements and efficient land use. The ministry has introduced a technical package and encourages farming in previously unused fields. Efforts include promoting youth involvement in agriculture, enhancing crop storage, and reducing post-harvest impacts. A significant investment of 2.5 billion rupees has been allocated to the Agricultural Modernization Program, supporting various initiatives like interest-free loans and vocational training. The strategy also focuses on increasing milk production and improving fertilizer availability, aiming for sustainable growth in the agricultural sector.
-
-🟩
-
-Secretary to the Ministry of Agriculture and Plantation Industries Janaka Dharmakirthi said that the amount of paddy harvest available in the next six years should be doubled in the next six years.
-
-He noted that a technical package (becage) has been introduced and the Ministry of Agriculture is successful in the responsibility of meeting the growing food demand beyond the traditional agricultural industry.
-
-The Secretary to the Ministry of Agriculture and Plantation Industries, Janaka Dharmakirthi, addressing a press conference held at the Presidential Media Center today (01) under the theme "Two Years Progress and Future".
-
-He said the benefits of introducing new technology to the agriculture sector are already underway.
-
-...
-
-[Data](articles/8c0b0fad.json)
-
-[Extended Data](ext_articles/8c0b0fad.ext.json)
 
 ---

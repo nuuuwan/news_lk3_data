@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 23:04:57**
+As of **2024-07-02 23:19:28**
 
 ## Newspaper Stats
 
-*Scraped **33,356** Articles*
+*Scraped **33,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,857
 economynextcom | 1,948
 dailyftlk | 2,054
 adalk | 2,975
-adaderanalk | 3,806
+adaderanalk | 3,807
 tamilmirrorlk | 3,945
 dailymirrorlk | 4,733
 virakesarilk | 5,209
@@ -26,11 +26,23 @@ adaderanasinhalalk | 5,527
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,353 (100.0%) of 33,356 articles have been extended.
+33,356 (100.0%) of 33,357 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### Two teens fall to death from apartment building in Slave Island
+
+*2024-07-02 22:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100254/two-teens-fall-to-death-from-apartment-building-in-slave-island) · `en`
+
+A boy and a girl of around 15 years have been reported dead after falling from the 67th floor of an apartment building in Slave Island, Colombo.
+
+◼️
+
+[Data](articles/223d8cdc.json)
+
+---
 
 ### India stampede: About 116  killed at religious event in Hathras district
 
@@ -50,17 +62,25 @@ Chaitra V., another senior state official, told broadcaster India Today that peo
 
 [Data](articles/b7216118.json)
 
+[Extended Data](ext_articles/b7216118.ext.json)
+
 ---
 
-### மாணவனும் மாணவியும் மாடியில் இருந்து குதித்து பலி
+### Student and student jumping off the floor
 
 *2024-07-02 22:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவனும்-மாணவியும்-மாடியில்-இருந்து-குதித்து-பலி/175-339781) · `ta`
 
-கொழும்பு குருந்துவத்தையில் உள்ள சர்வதேச பாடசாலை ஒன்றில் கல்வி கற்கும் 15 வயதுடைய சிறுவனும் மாணவியும் கொம்பனி வீதியிலுள்ள சொகுசு குடியிருப்பு கட்டிடத்தின் 67வது மாடியில் இருந்து குதித்து தற்கொலை செய்து கொண்டுள்ளனர்.
+A 15-year-old boy from Kurunduwa, Colombo, attending an international school, tragically ended his life by jumping from the 67th floor of a luxury residential building on Kombani Road.
+
+🟩
+
+A 15 -year -old boy and a student who is educated at an international school in Kurunduwa, Colombo has committed suicide by jumping from the 67th floor of the Luxury Residential Building on Kombani Road.
 
 ◼️
 
 [Data](articles/1faade96.json)
+
+[Extended Data](ext_articles/1faade96.ext.json)
 
 ---
 
@@ -322,21 +342,27 @@ If there is insufficient evidence to make sure, the police can be able to work. 
 
 ---
 
-### මහනුවර අධිකරණයේ බෝම්බ බිය ඇති කළ දුරකතන ඇමතුමේ දුරකතන හිමිකරු අල්ලයි
+### Telephone owner arrested on telephone call in Kandy court
 
 *2024-07-02 19:09:55* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-අධිකරණයේ-බෝම්බ-බිය-ඇති-කළ-දුරකතන-ඇමතුමේ-දුරකතන-හිමිකරු-අල්ලයි/11-410577) · `si`
 
-මහනුවර අධිකරණ සංකීර්ණයේ බෝම්බයක් ඇති බවටව්‍යාජ දුරකථන ඇමතුමක් දුන් පුද්ගලයාගිනිගත් හේන්න පොලිසිය මගින් අත්අඩංගුවට ගෙනඔහුගෙන් සිදු කළ ප්‍රශ්න කිරීම්වලදී ඔහු පවසා ඇත්තේ ඔහුගේ එමජංගම දුරකථනය ඊයේ (01) අස්ථානගත වූ බවයි.
+A 53-year-old man was arrested during a phone call in Kandy court after police found a bomb. The arrest was made based on information from the Kandy Headquarters Polonnaruwa, where it was reported that the suspect was involved in a bombing incident.
 
-මහනුවර මූලස්ථානපොලිසිය විසින්ලබා දී තිබූ ලිපිනයකට අනුවඑම පුද්ගලයා ගිනිගත් හේන පොලිසිය මගින් අත්අඩංගුවට ගෙන තිබුණි .
+🟩
 
-එසේ අත්අඩංගුවට ගත් පුද්ගලයා 53 හැවිරිදිපෞද්ගලික බස් රථයක කොන්දොස්තරවරයෙකු වශයෙන්සේවය කොට ඇති පුද්ගලයකු බවදපොලිසිය කියයි .
+He was arrested by the police who were arrested by the police who had a bomb with a bomb with a bomb of the court.
 
-කෙසේ නමුත් එම පුද්ගලයාගේ ජංගම දුරකථනයසැබෑ ලෙසම අස්ථානගත වූයේද එසේත් නොමැති නම්ඔහු ව්‍යාජ තොරතුරු පොලිසියටපවසන්නේ ද යන්න සම්බන්ධයෙන්ඔහුගේ දුරකථන දත්ත ඔස්සේපුළුල් විමර්ශනයක් ආරම්භ වී තිබේ .
+According to the address given by the Kandy Headquarters Polonnaruwa, the person was arrested by the fire and enjoying police.
+
+The arrested person is a 53-year-old bus.
+
+However, the person's mobile phone is unstable as well as if he is the case, he has begun to determine if he is going to exploit him.
 
 ◼️
 
 [Data](articles/e292c9aa.json)
+
+[Extended Data](ext_articles/e292c9aa.ext.json)
 
 ---
 
@@ -2311,27 +2337,5 @@ Due to a bomb in the Kandy court, it has been taken to remove all its workboards
 [Data](articles/2bb8b3e6.json)
 
 [Extended Data](ext_articles/2bb8b3e6.ext.json)
-
----
-
-### An officer arrested in jail
-
-*2024-07-02 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/187445) · `ta`
-
-A 45-year-old prison officer from Anuradhapura was arrested for possessing 8 grams of Jaspodi at Batticaloa Prison. He turned himself in and will be produced in court.
-
-🟩
-
-Police said that a prison officer was arrested on Monday night with an 8 grams of Jaspodi at the Batticaloa Prison, police said.
-
-The prison officer who was on duty at the prison last night recovered 8 grams of Jaspothi and handed him over to the police.
-
-The arrested person was 45 years old from Anuradhapura and he had taken steps to produce him in court.
-
-◼️
-
-[Data](articles/eacbed96.json)
-
-[Extended Data](ext_articles/eacbed96.ext.json)
 
 ---

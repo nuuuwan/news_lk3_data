@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 10:06:54**
+As of **2024-07-02 10:19:53**
 
 ## Newspaper Stats
 
-*Scraped **33,219** Articles*
+*Scraped **33,221** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,101 @@ islandlk | 1,856
 economynextcom | 1,940
 dailyftlk | 2,054
 adalk | 2,955
-adaderanalk | 3,781
+adaderanalk | 3,782
 tamilmirrorlk | 3,931
 dailymirrorlk | 4,733
 virakesarilk | 5,178
-adaderanasinhalalk | 5,495
+adaderanasinhalalk | 5,496
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,216 (100.0%) of 33,219 articles have been extended.
+33,219 (100.0%) of 33,221 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### ජනපතිගෙන් විශේෂ ප්‍රකාශයක්
+### පාලනයෙන් ගිලිහී ගිය මෝටර් රථය - 09ක් මරුට
+
+*2024-07-02 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198391) · `si`
+
+දකුණු කොරියාවේ සෝල් අගනුවරදී මෝටර් රථයක් පදිකයින් පිරිසකගේ ගැටී සිදුවූ අනතුරකින් පුද්ගලයින් 09 දෙනෙකු මියගොස් තිබේ.
+
+අනතුරින් තවත් පුද්ගලයින් සිව්දෙනෙකු තුවාල ලබා ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+අදාළ මෝටර් රථය වැරදි දිශාවෙන් ධාවනය කර ඇති අතර පදිකයින්ගේ ගැටීමට පෙර එය තවත් වාහන 02ක ගැටී ඇති බව සඳහන්ය.
+
+අනතුර සිදුකළ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර ඔහු පවසා ඇත්තේ එකවරම මෝටර් රථයේ වේගය වැඩි වූ බවය.
+
+◼️
+
+[Data](articles/0f3529af.json)
+
+---
+
+### President Ranil delivers special statement in Parliament
+
+*2024-07-02 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100229/president-ranil-delivers-special-statement-in-parliament) · `en`
+
+President Ranil Wickremesinghe arrived in Parliament this morning (02) shortly after the commencement of the parliamentary session.
+
+President Wickremesinghe is currently delivering a special statement in the Parliament on the implementation of the debt restructuring agreements.
+
+Meanwhile, the parliament debate and vote on the agreements which were scheduled for today and tomorrow have been postponed.
+
+Previously, the Speaker of Parliament Mahinda Yapa Abeywardena had informed all the Members of Parliament in writing to attend a special parliamentary sitting on July 2, 2024 at 9.30 a.m. The special parliamentary sitting had been called in pursuance of Standing Order No. 16 of the Standing Orders of the Parliament, as per a request made by the Prime Minister.
+
+◼️
+
+[Data](articles/153a8864.json)
+
+---
+
+### President a special statement from President
 
 *2024-07-02 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198390) · `si`
 
-විදේශ ණය ප්‍රතිව්‍යුහගත කිරීමේ ගිවිසුම් ක්‍රියාත්මක කිරීම පිළිබඳව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ වනවිට පාර්ලිමේන්තුවේදී විශේෂ ප්‍රකාශයක් සිදුකරමින් සිටියි.
+President Ranil Wickremesinghe leads the execution of contractual restructuring agreements.
+
+🟩
+
+President Ranil Wickremesinghe is currently in charge of the implementation of contractual restructuring agreements.
 
 ◼️
 
 [Data](articles/be2ab5fb.json)
 
+[Extended Data](ext_articles/be2ab5fb.ext.json)
+
 ---
 
-### යතුරුපැදියේ ගිය මාරක ගමන
+### The motorbike the deadline
 
 *2024-07-02 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198389) · `si`
 
-ගලේවෙල පොලිස් වසමේ ඒ-06 මාර්ගයේ කුරුණෑගල දෙස සිය දඹුල්ල දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කරගත නොහැකිව මාර්ගයේ මංතීරු වෙන් කිරීමට යොදා ඇති කොටසක ගැටී සිදුවූ අනතුරකින් දෙදෙනකු මියගොස් තිබේ.
+In Kurunegala, two died in a motorcycle crash involving a tipper truck. A third victim is hospitalized. The victims, aged 29 and 40 from Laggala and Matale, and a 24-year-old involved in another accident on the Kurunegala-Puttalam road, are being investigated by police.
 
-එම අනතුරු සිදුවන අවස්ථාවේදී යතුරුපැදිවේ තිදෙනෙතු ගමන් කර ඇති බව පොලීසිය පවසයි.
+🟩
 
-එක් පසු පැදිකරුවෙකු බරපතළ තුවාල ලබා දඹුල්ල රෝහලේ ප්‍රතිකාර ලබන බව පොලීසිය සඳහන් කළේය.
+Two were killed in a crash, which was used by a motorcycle to be controlled in Kurunegala at the Galewela Police Division.
 
-අනතුරින් මියගොස් ඇත්තේ, ලග්ගල හා මාතලේ ප්‍රදේශවල පදිංචිව සිටි වයස අවුරුදු 29 හා 40ක් වූ පුද්ගලයින් දෙදෙනෙකි.
+Police say that the three-rounddown in the accident.
 
-මේ අතර කුරුණෑගල - පුත්තලම මාර්ගයේ කෙළිමුණේ ප්‍රදේශයේදී යතුරුපැදියක් හා ටිපර් රථයක් මුහුණට මුහුණ ගැටී සිදුවූ අනතුරකින් 24 හැවිරිදි තරුණයෙක් ජීවිත්කෂයට පත්ව තිබේ.
+One follow-up deposit is being treated at the Dambulla Hospital, police said.
 
-අනතුර සම්බන්ධයෙන් ටිපර් රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර වාරියපොළ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The deceased have been identified as 29 and 40 years of age at Laggala and Matale.
+
+Meanwhile, a 24-year-old youth has been living in an accident in the Kurunegala-Puttalam road and a tipper.
+
+The Tipper driver has been arrested in connection with the accident and Wariyapola Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/57e946a9.json)
+
+[Extended Data](ext_articles/57e946a9.ext.json)
 
 ---
 
@@ -182,6 +230,10 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 Train services on the coastal line have been delayed due to damage to a rail track between Bambalapitiya and Wellawatte, the Railways Department announced.
 
+Accordingly, the train operations on the Coastal Line have been limited to a single track causing delays.
+
+The Deputy General Manager of the Railways Department, N. J Indipolage stated that the necessary steps have been taken to commence work related to restoring the rail track.
+
 ◼️
 
 [Data](articles/215ebd76.json)
@@ -214,23 +266,33 @@ The Deputy General Manager said that steps have been taken to commence the recon
 
 ---
 
-### සම්බන්ධනගේ අභාවය නිසා පාර්ලිමේන්තු කටයුතු වල වෙනසක්
+### A change in parliamentary affairs due to the demise of coordination
 
 *2024-07-02 07:45:52* · [`adalk`](https://www.ada.lk/breaking_news/සම්බන්ධනගේ-අභාවය-නිසා-පාර්ලිමේන්තු-කටයුතු-වල-වෙනසක්/11-410553) · `si`
 
-අභාවප්‍රාප්ත හිටපු විපක්ෂ නායක ආර්.සම්පන්දන් මහතාගේ දේහය, අවසන් ගෞරවය දැක්වීම පිණිස ජූලි 3 වැනි බදාදා ‍ප.ව 2.00 සිට ප.ව 4.00 දක්වා පාර්ලිමේන්තු සංකීර්ණයේ තැන්පත් කිරීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය කෙරේ...
+Following the death of opposition leader R.ampandan, his remains will be laid out from 2 to 4 PM, leading to the postponement of a party-opposition agreement scheduled for July 3. The President plans to address restructuring foreign debt, but the proposal set for tomorrow is canceled. The decision was made during a parliamentary committee meeting chaired by Speaker Mahinda Yapa Abeywardena and Prime Minister Dinesh Gunawardena.
 
-ඒ හේතුවෙන් ජූලි 03 වැනිදා පාර්ලිමේන්තු රැස්වීම් නොපැවැත්වීමටත් පක්ෂ-විපක්ෂ එකඟත්වය
+🟩
 
-විදේශ ණය ප්‍රතිව්‍යුහගත කිරීමේ ගිවිසුම් ක්‍රියාත්මක කිරීම සම්බන්ධයෙන් ජනාධිපතිවරයාගේ ප්‍රකාශය අද පාර්ලිමේන්තුවට
+Late Opposition Leader R.ampandan's remains will be deposited in Table 3 to 4 pm to 4 pm.
 
-හෙට (02) දින පැවැත්වීමට නියමිතව තිබූ  මීට අදාළ යෝජනා සම්මතය පිළිබඳ විවාදය නොපැවැත්වීමටත් පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණයක්
+Due to this, the party-opposition agreement is also not held on July 3
 
-අභාවප්‍රාප්ත හිටපු විපක්ෂ නායක සහ ඉලංකෙයි තමිල් අරසු කච්චි (ITAK) පක්ෂයේ නායක පාර්ලිමේන්තු මන්ත්‍රී ගරු ආර්.සම්පන්දන් මහතාගේ දේහය අවසන් ගෞරවය දැක්වීම පිණිස ජූලි 03 වැනිදා පාර්ලිමේන්තු පරිශ්‍රයට රැගෙන ඒමටත් ඒ හේතුවෙන් එදින පාර්ලිමේන්තු රැස්වීම නොපැවැත්වීමටත් ඊයේ (01) පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී එකඟත්වය පළවූ බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
+President's statement to implement agreements to restructure foreign debt
+
+The proposal will not be held tomorrow (02) will not be held on the standard of the standard and a decision on the Committee on Parliamentary Affairs
+
+Late Opposition Leader and Ilanki Tamil Arasu Kachchi Kachchi Kachchi Kachchi (ITAK) Parliamentarian Hon.The Secretary General of Parliament Kushani Rohanadera said.
+
+The body is to be placed at the front porch of the parliamentary building for the end of 2 pm to 4 pm.
+
+Meanwhile, the General Secretary of the Committee on Affairs of Parliament today decided to submit only a special statement on the implementation of controlling agreements on the implementation of foreign debt today (02).. It has also been decided to not hold the debate on the date on which the relevant proposal was scheduled to be held today.
 
 ...
 
 [Data](articles/2dad5343.json)
+
+[Extended Data](ext_articles/2dad5343.ext.json)
 
 ---
 
@@ -2205,55 +2267,5 @@ Naula worked at Naula Police responsible for the incident. Senaka Ruwan Amarasin
 [Data](articles/b0773068.json)
 
 [Extended Data](ext_articles/b0773068.ext.json)
-
----
-
-### New bus fares amended. If more bus fares charged in 1955
-
-*2024-07-01 15:52:09* · [`adalk`](https://www.ada.lk/breaking_news/සංශෝධනය-වූ-නව-බස්-ගාස්තු--වැඩියෙන්-බස්-ගාස්තු-අය-කරොත්-1955ට-අමතන්න/11-410543) · `si`
-
-In 2024, Sri Lanka revised bus fares, reducing them by the amount overcharged since 1955. The NTC warned of legal action against overcharging. New rates apply to both state-run and private buses.
-
-🟩
-
-The annual bus fare revision was reduced by the bus fares of all bus fares to transport passengers from midnight on the middle of 2024 -20 days.
-
-The National Transport Commission (NTC) stated that legal action will be taken to take legal action on the 1955 hotline.
-
-Accordingly, the new bus fares to be operated in Sri Lanka Transport Board and private buses are as follows.
-
-◼️
-
-[Data](articles/daaddfe3.json)
-
-[Extended Data](ext_articles/daaddfe3.ext.json)
-
----
-
-### Struggle to pay tribute to Indian fishermen
-
-*2024-07-01 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/187399) · `ta`
-
-In Jaffna, protests erupted against Indian fishermen after a naval officer's death during an attempted arrest for poaching in Sri Lankan waters. The Jaffna District Fishermen's Cooperative Society Federation led the march to the Indian consulate, handing over a memorandum. The Indian Embassy allowed only five representatives to discuss the issue, as protesters were stopped near the embassy. The incident highlights tensions between local fishermen and foreign poachers, with demands for intervention from both the Indian Central Government and Tamil Nadu's government.
-
-🟩
-
-A protest was launched in Jaffna, demanding the arrest of Indian fishermen, demanding the death of the naval person who died.
-
-The protest was launched from the Jaffna Maratha Junction to the Indian consulate by the Jaffna District Fishermen's Co -operative Society Federation on Monday (01).
-
-The Indian Embassy was handed over to the Indian Embassy, ​​following the permission of only five persons to meet the embassy officials, who intercepted the protesters near the embassy.
-
-A naval soldier has died due to the activities of fishermen when they sought to arrest Indian fishermen who were fishing in the Sri Lankan waters on June 24.
-
-Jaffna Fishermen have demanded that the Indian Central Government and the Government of Tamil Nadu take steps to prevent such action.
-
-The Jaffna District Fishermen's Co -operative Society has handed over a Mahajar to the Indian consultants.
-
-◼️
-
-[Data](articles/22ce8113.json)
-
-[Extended Data](ext_articles/22ce8113.ext.json)
 
 ---

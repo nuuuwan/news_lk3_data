@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 00:34:58**
+As of **2024-07-03 00:51:59**
 
 ## Newspaper Stats
 
@@ -26,37 +26,49 @@ adaderanasinhalalk | 5,528
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,363 (100.0%) of 33,365 articles have been extended.
+33,365 (100.0%) of 33,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
-### சம்பந்தனின் உடலுக்கு ஜனாதிபதி இறுதி அஞ்சலி
+### President's final tribute to Sambandan's body
 
 *2024-07-03 00:18:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனின்-உடலுக்கு-ஜனாதிபதி-இறுதி-அஞ்சலி/175-339782) · `ta`
 
-தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவரும் முன்னாள் பாராளுமன்ற உறுப்பினருமான ஆர்.சம்பந்தனின் உடலுக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க இறுதி அஞ்சலி செலுத்தினார்.
+President Ranil Wickremesinghe led tributes to R. Sampanthan, Tamil National Alliance leader and ex-parliamentarian, joined by his wife, Eastern Province Governor Senthil Thondaman, MP MA Sumanthiran, and S. Rasamanikam.
 
-அன்னாரின் உடல் அஞ்சலிக்கு வைக்கப்பட்டிருக்கும் தனியார் மலர் சாலைக்கு நேற்று பிற்பகல் சென்ற ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் பேராசிரியர் மைத்திரி விக்ரமசிங்க ஆகியோர் பூதவுடலுக்கு இறுதி அஞ்சலி செலுத்தியதோடு, அன்னாரின் குடும்பதினருக்கும் ஆறுதல் தெரிவித்தனர்.
+🟩
 
-கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான், பாராளுமன்ற உறுப்பினர் ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன், எஸ். ராசமாணிக்கம் ஆகியோரும் இறுதி அஞ்சலி செலுத்தினர். (a)
+President Ranil Wickremesinghe paid a final tribute to the body of R. Sampanthan, the leader of the Tamil National Alliance and former parliamentarian.
+
+President Ranil Wickremesinghe and Professor Maithri Wickremasinghe paid their funeral tribute to the families of Annar's family yesterday afternoon.
+
+Eastern Province Governor Senthil Thondaman, Parliamentarian President's Attorney MA Sumanthiran, S. Rasamanikam also paid tribute. (A)
 
 ◼️
 
 [Data](articles/8059c3ee.json)
 
+[Extended Data](ext_articles/8059c3ee.ext.json)
+
 ---
 
-### දරුවන් දෙදෙනෙක් තට්ටු නිවාස සංකීර්ණයකින් වැටී මරුට
+### Two children die from a shop complex
 
 *2024-07-03 00:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198425) · `si`
 
-වයස අවුරුදු 15ක් පමණ වන පිරිමි ළමයෙක් සහ ගැහැණු ළමයෙක් තට්ටු නිවාස ගොඩනැගිල්ලක 67 වන තට්ටුවෙන් වැටී මියගොස් තිබේ.
+Tragic incident: Two teenagers, a 15-year-old boy and girl, fatally fall from the 67th floor of a building.
+
+🟩
+
+A boy and a girl aged 15 and a girl fell off the 67th floor of a flat building.
 
 ◼️
 
 [Data](articles/b501d60e.json)
+
+[Extended Data](ext_articles/b501d60e.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 00:20:18**
+As of **2024-07-03 00:34:58**
 
 ## Newspaper Stats
 
-*Scraped **33,363** Articles*
+*Scraped **33,365** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,18 +17,48 @@ economynextcom | 1,954
 dailyftlk | 2,054
 adalk | 2,975
 adaderanalk | 3,807
-tamilmirrorlk | 3,945
+tamilmirrorlk | 3,946
 dailymirrorlk | 4,733
 virakesarilk | 5,209
-adaderanasinhalalk | 5,527
+adaderanasinhalalk | 5,528
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,363 (100.0%) of 33,363 articles have been extended.
+33,363 (100.0%) of 33,365 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-07-03 (Wednesday)
+
+### சம்பந்தனின் உடலுக்கு ஜனாதிபதி இறுதி அஞ்சலி
+
+*2024-07-03 00:18:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனின்-உடலுக்கு-ஜனாதிபதி-இறுதி-அஞ்சலி/175-339782) · `ta`
+
+தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவரும் முன்னாள் பாராளுமன்ற உறுப்பினருமான ஆர்.சம்பந்தனின் உடலுக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க இறுதி அஞ்சலி செலுத்தினார்.
+
+அன்னாரின் உடல் அஞ்சலிக்கு வைக்கப்பட்டிருக்கும் தனியார் மலர் சாலைக்கு நேற்று பிற்பகல் சென்ற ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் பேராசிரியர் மைத்திரி விக்ரமசிங்க ஆகியோர் பூதவுடலுக்கு இறுதி அஞ்சலி செலுத்தியதோடு, அன்னாரின் குடும்பதினருக்கும் ஆறுதல் தெரிவித்தனர்.
+
+கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான், பாராளுமன்ற உறுப்பினர் ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன், எஸ். ராசமாணிக்கம் ஆகியோரும் இறுதி அஞ்சலி செலுத்தினர். (a)
+
+◼️
+
+[Data](articles/8059c3ee.json)
+
+---
+
+### දරුවන් දෙදෙනෙක් තට්ටු නිවාස සංකීර්ණයකින් වැටී මරුට
+
+*2024-07-03 00:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198425) · `si`
+
+වයස අවුරුදු 15ක් පමණ වන පිරිමි ළමයෙක් සහ ගැහැණු ළමයෙක් තට්ටු නිවාස ගොඩනැගිල්ලක 67 වන තට්ටුවෙන් වැටී මියගොස් තිබේ.
+
+◼️
+
+[Data](articles/b501d60e.json)
+
+---
 
 ### 2024-07-02 (Tuesday)
 
@@ -2285,53 +2315,5 @@ The police say that they had also brought two cockets from India to cook their f
 [Data](articles/31d93ca3.json)
 
 [Extended Data](ext_articles/31d93ca3.ext.json)
-
----
-
-### Full description of the President's statement in Parliament
-
-*2024-07-02 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198396) · `si`
-
-It seems like you've shared a detailed narrative or speech that touches on various topics including foreign debt, economic challenges, political commentary, and personal reflections on leadership and decision-making. How can I assist you further with this content? Are you looking for analysis, editing, or perhaps guidance on how to address specific points within this text? Please let me know how I can best support you
-
-🟩
-
-President Ranil Wickremesinghe made a special statement in Parliament regarding the implementation of controlling contractual restructuring agreements and its contents.
-
-"We were able to return to another important milestone in the challenging journey to a country that could not pay off the debt of 2022 year.
-
-On June 26, we were able to reach agreements on debts with our official creditors. Officers authorized by the Cabinet signed these agreements and agreements representing our country. On the same night, I showed the whole nation to the entire nation on the same night.
-
-Since the beginning of the challenges of rebuilding the economy, I occasionally gave parliament. First explained the plans we follow. After that, we explained the progress we had made.
-
-In that sense, I would like to disclose the current status of the situation today.
-
-About two years ago, I left our four-important work plan before I handed over the challenge of redressing the economy of the country.
-
-...
-
-[Data](articles/4cbe64ec.json)
-
-[Extended Data](ext_articles/4cbe64ec.ext.json)
-
----
-
-### A tribute to Iya
-
-*2024-07-02 11:31:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐயாவின்-பூதவுடலுக்கு-அணிதிரண்டு-அஞ்சலி/175-339752) · `ta`
-
-R. Sampanthan, former TNA President, passed away. His funeral procession will travel from Colombo to his hometown, Trincomalee, for the final rites.
-
-🟩
-
-Former President of the Tamil National Alliance (TNA)
-
-Subsequently, the funeral of R. Sampanthan will be taken to his hometown of Trincomalee and the funeral will be held.
-
-◼️
-
-[Data](articles/17091d82.json)
-
-[Extended Data](ext_articles/17091d82.ext.json)
 
 ---

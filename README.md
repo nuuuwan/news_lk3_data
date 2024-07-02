@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 15:19:36**
+As of **2024-07-02 15:35:12**
 
 ## Newspaper Stats
 
-*Scraped **33,292** Articles*
+*Scraped **33,293** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,59 +20,89 @@ adaderanalk | 3,794
 tamilmirrorlk | 3,940
 dailymirrorlk | 4,733
 virakesarilk | 5,198
-adaderanasinhalalk | 5,512
+adaderanasinhalalk | 5,513
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,290 (100.0%) of 33,292 articles have been extended.
+33,292 (100.0%) of 33,293 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### සමාජ මාධ්‍යයේ සංසරණය වන ව්‍යාජ ලිපියක් ගැන පොලීසියෙන් විශේෂ නිවේදනයක්
+### කුඩු සමග කොටුවූ ධීවරයින් රිමාන්ඩ්
+
+*2024-07-02 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198410) · `si`
+
+ගැඹුරු මුහුදේදී හෙරොයින් තොගයක් සමග පසුගියදා නාවික හමුදා භාරයට ගත් ධීවරයින් හය දෙනාව අද (02) අධිකරණයට ඉදිරිපත් කළේය.
+
+එම ධීවර යාත්‍රාවේ තිබී සොයාගත් හෙරොයින් තොගය ද අධිකරණය ට ඉදිරිපත් කළ බව අප වාර්තාකරු පැවසීය.
+
+එහිදී එම සැකකරුවන්ව කොළඹ මහෙස්ත්‍රාත් අංක 1 අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව එළඹෙන 16 වනදා රක්ෂිත බන්ධනාගාරගත කෙරිණි.
+
+◼️
+
+[Data](articles/7dea1748.json)
+
+---
+
+### Police announce a special announcement in the circulation of social media
 
 *2024-07-02 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198409) · `si`
 
-සමාජ මාධ්‍යවල සංසරණය වන ව්‍යාජ ලිපියක් සම්බන්ධයෙන් පොලිස් මුලස්ථානය විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+Police warn against fake letter on social media, claiming it's not from them. The letter, featuring a blue police assault, rubber seal, and uniform with a logo, allegedly comes from IGP Deshabandu Tennakoon but is entirely false. The CID investigates this hoax, urging the public to verify information through official channels only.
 
-ධර්මචක්‍රය සහිත නිල් පැහැති පොලිස් අත්ලාංඡනයක්, රබර් මුද්‍රාවක් හා පොලිස් නිල ලාංඡනයක් සහිතව කහ පැහැති පසුබිමේ අදාළ ලිපිය සකස් කර ඇතැයි පොලිස් මුලස්ථානය පවසයි.
+🟩
 
-පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් 2024 ජූලි 1 වනදා නිකුත් කර කළ බවට හැඟවෙන ආකාරයෙන් ඉංග්‍රීසි භාෂාවෙන් අදාළ ලිපිය සමාජ මාධ්‍ය වෙත මුදාහැර තිබේ.
+The Police Headquarters has issued a special announcement regarding a fake letter circulating in social media.
 
-මෙම ලිපිය හා එහි අන්තර්ගතය සම්පුර්ණයෙන්ම ව්‍යාජව සකස් කරන ලද ලිපියක් වන අතර, ශ්‍රී ලංකා පොලීසිය මඟින් හෝ ඊට අනුබද්ධ ආයතනයක් මඟින් මෙවැනි ලිපියක් නිකුත් කර නොමැති බවට හා ඒ සඳහා නොරැවටෙන ලෙස පොලීසිය මහජනතාවගෙන් ඉල්ලා සිටී.
+The letter has been prepared in a blue police assault, with a rubber seal and a police uniform with a police official logo.
 
-සකස් කරන ලද ව්‍යාජ ලිපිය සහ එම ලිපිය අන්තර්ජාලයට යොමු කිරීම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් මේ වනවිටත් විමර්ශනයක් ආරම්භ කර ඇති අතර, අදාළ සැකකරුවන්ට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගැනීමට කටයුතු කරන බව ද පොලීසිය පවසයි.
+The letter of English has been released to the Social Media in a way that IGP is released by IGP, Deshaband Tennakoon.
 
-අදාළ ව්‍යාජ ලිපියේ පිටපතක් ජනතාවගේ දැනගැනීම පිණිස පොලීසිය විසින් නිකුත් කර ඇති අතර, එය පහතින් දැක්වේ.
+This article and its contents were completely falsely developed and the police have asked the public to be issued by the Sri Lankan Police or affiliated agency.
+
+The Criminal Investigations Department (CID) has already begun an investigation into the preceding false letter and the letter to the Internet.
+
+The following is the following a copy of the pseudo-letter.
 
 ◼️
 
 [Data](articles/d9616e0f.json)
 
+[Extended Data](ext_articles/d9616e0f.ext.json)
+
 ---
 
-### மறுத்த காதலனின் பிறப்புறுப்பை அறுத்த காதலி
+### Girlfriend
 
 *2024-07-02 14:56:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மறுத்த-காதலனின்-பிறப்புறுப்பை-அறுத்த-காதலி/175-339757) · `ta`
 
-காதலியான பெண் மருத்துவர் ஒருவர் தனது காதலனின் அந்தரங்க உறுப்பை வெட்டிய சம்பவம் பீகார் மாநிலம் சரண் மாவட்டத்தில் பரபரப்பை ஏற்படுத்தியுள்ளது.
+In Bihar's Saran district, a shocking incident occurred where a girlfriend allegedly severed her boyfriend's private organ. This act led to a murder attempt charge against her. The victim, a councilor from Mathura, had been in a relationship with the accused for five years but refused to marry her. Despite the severity of the crime, the accused claimed she wanted to marry him, leading to legal proceedings. Neighbors discovered the gruesome scene and alerted the police, resulting in the arrest of a 25-year-old trainee named Hajibur.
 
-இதையடுத்து அப்பெண்ணின் மீது கொலை முயற்சி ஆகிய பிரிவுகளின் கீழ் வழக்கு பதிவு செய்த பொலிஸார் அவரை கைது செய்துள்ளனர்.
+🟩
 
-காதலன் சிகிச்சைக்காக பாட்னா மருத்துவக் கல்லூரி மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார். காதலன் மதுரா தொகுதியில் கவுன்சிலர் ஆவார்.
+The incident of a girlfriend's girlfriend cut off her boyfriend's private organ has caused a stir in Saran district of Bihar.
 
-கடந்த 5 ஆண்டுகளாக அந்த நபருடன் தனக்கு தொடர்பு இருப்பதாகவும் ஆனால் அவர் தன்னை திருமணம் செய்து கொள்ள மறுத்து வருவதாக குற்றம் சாட்டப்பட்டவர் கூறினார்.
+Subsequently, the police have registered a case under the attempt to murder the woman.
 
-இதனால் நீதிமன்றத்தில் பதிவுத் திருமணத்திற்கு காதலன் சம்மதம் தெரிவித்துள்ளார். அதன்படி, காதலி திருமணத்திற்காக நீதிமன்றத்தை அணுகி ஏற்பாடுகளை செய்த போதும் காதலன் வரவில்லை.
+Patna Medical College Hospital. The boyfriend is a councilor in Mathura constituency.
 
-அதன் பிறகு, காதலனை தனது வீட்டிற்கு வரவழைத்த காதலி, அங்கு வைத்து அவரது அந்தரங்க உறுப்பை வெட்டியதாக தெரிகிறது.
+The accused said he had been involved with the man for the past 5 years but that he was refusing to marry him.
 
-...
+Thus the boyfriend has agreed to register in court. Accordingly, the girlfriend approached the court for the wedding and made arrangements.
+
+After that, the girlfriend who summoned the boyfriend to his house, it seems to have cut off her private organ.
+
+The neighbors who heard the screams of a painful boyfriend informed the police that they were lying in bed in a bloodbath.. The woman was subsequently arrested.The arrest is a 25 -year -old trainee from Hajibur.
+
+◼️
 
 [Data](articles/33513711.json)
+
+[Extended Data](ext_articles/33513711.ext.json)
 
 ---
 
@@ -2247,29 +2277,5 @@ He was the President of the Asian Marketing Federation (AMF) from 2018 to 2020 a
 [Data](articles/f6fc1fe0.json)
 
 [Extended Data](ext_articles/f6fc1fe0.ext.json)
-
----
-
-### The economic program cannot be avoided
-
-*2024-07-02 01:25:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-வேலைத்திட்டத்தை-தவிர்க்க-முடியாது/175-339732) · `ta`
-
-Dr. Bandula Gunawardena emphasized that adhering to the current government's economic plan is crucial for Sri Lanka's stability. He highlighted the transparency of the government's operations, including its economic agreements with foreign nations, which are all disclosed in Parliament. He warned against attempts to bypass this plan, stating that doing so would lead to the country's downfall.
-
-🟩
-
-Transport, Highways and Media Minister Dr. Bandula Gunawardena said that if anyone dreams of acting as the economic program of the current government under the leadership of President Ranil Wickremesinghe, the country cannot prevent the fall.
-
-Minister Bandula Gunawardena said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-We have prepared a formal plan for each year. While the government is implementing such a program, the president is making agreements with foreign countries.. No contract or program is hidden in this. The President has submitted all the information in Parliament.
-
-Against that backdrop, no one can run the government except for this created economic plan. If someone dreamed that someone should rule out this economic plan, it should be said that the country cannot prevent the fall of the fall again.. (A)
-
-◼️
-
-[Data](articles/3a8caa58.json)
-
-[Extended Data](ext_articles/3a8caa58.ext.json)
 
 ---

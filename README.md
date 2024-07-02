@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 01:04:43**
+As of **2024-07-03 01:19:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,528
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,365 (100.0%) of 33,373 articles have been extended.
+33,373 (100.0%) of 33,373 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -74,137 +74,197 @@ A boy and a girl aged 15 and a girl fell off the 67th floor of a flat building.
 
 ### 2024-07-02 (Tuesday)
 
-### நாட்டின் பொருளாதாரம் சரிவடைந்து மக்கள் சிரமப்படும் வேளையில், ​​பிரதமர் பதவியை ஏற்காமல், பயந்து ஓடுவது நற்செய்தியா? துயர் செய்தியா? - ஜனாதிபதி
+### When the economy of the country falls and the people are inconvenienced, is it the good news for the prime minister to take over and run away?Is it sad?- President
 
 *2024-07-02 23:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/187543) · `ta`
 
-போஷாக்கு குறைப்பாடு, வறுமை, வேலையின்மை உள்ளிட்ட பிரச்சினைகளை நிவர்த்திக்கவே இளைஞர்களுக்கு புதிய தொழில் வாய்ப்புகளை உருவாக்குவதற்கான தொழிற்சாலைகள் மற்றும் அஸ்வெசும, உறுமய போன்ற திட்டங்கள் செயற்படுத்தப்படுவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+In response to economic challenges and public inconvenience, President Ranil Wickremesinghe highlighted initiatives like Aswesuma and Urumaya aimed at creating jobs and addressing nutrition, poverty, and unemployment. He emphasized the importance of these projects in mitigating hardships, such as providing free rice and ensuring housing rights for apartment dwellers. The President also addressed concerns about the Prime Minister's role during tough times, stating that taking over and making necessary changes could be beneficial. Additionally, he mentioned ongoing negotiations for financial aid and the involvement of Clifford Chance, advising caution in revealing agreement details. The State Finance Committee, led by Harsha de Silva, is set to analyze these matters further.
 
-போஷாக்கு குறைபாடு, வறுமை, வேலையின்மை என்பன நாட்டுக்கு நற்செய்தியா? துயர் செய்தியா? என்று பாராளுமன்றத்தில் இன்று (02) எதிர்க்கட்சித் தலைவர் எழுப்பிய கேள்விக்கு பதிலளிக்கும் போதே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+🟩
 
-நாட்டின் பொருளாதாரம் சரிவடைந்து மக்கள் சிரமப்படும் வேளையில், பிரதமர் பதவியை ஏற்காமல், பயந்து ஓடுவது நற்செய்தியா? துயர் செய்தியா? என்று பதில் கேள்வி கேட்ட ஜனாதிபதி மேலும் கூறுகையில்,
+President Ranil Wickremesinghe has said that projects such as Aswesuma and Urumaya are being implemented to create new employment opportunities for young people to address the problems of nutrition, poverty and unemployment.
 
-போஷாக்கு குறைபாட்டினால் பிள்ளைகள் பாதிக்கப்படுவது நல்லதா கெட்டதா என எதிர்க்கட்சித் தலைவர் கேள்வி எழுப்பினார்.
+Is there a good news for the country?Is it sad?The President was responding to a question raised by the Opposition Leader in Parliament today (02).
 
-இது கெட்டதாகும். அதனால்தான், அஸ்வெசும திட்டத்தை செயல்படுத்தினோம். குறைந்த வருமானம் பெறும் மக்களுக்கு இரண்டு மாதங்களுக்கு பத்து கிலோ அரிசி இலவசமாக வழங்கப்பட்டது.  எனவேதான் பாடசாலை மாணவர்களுக்கு உணவு வழங்கும் திட்டம் ஆரம்பிக்கப்பட்டது.
+When the economy of the country falls and the people are inconvenienced, is it the good news for the prime minister to take over and run away?Is it sad?Asked the answer to the question, the president added,
+
+The opposition leader questioned whether it was good or bad for children to suffer from nutrition.
+
+This is bad. That is why we have implemented the Aswesa project.Ten kg of rice was provided free of charge for two months.This is why the program of providing food for school children was started.
 
 ...
 
 [Data](articles/51421698.json)
 
+[Extended Data](ext_articles/51421698.ext.json)
+
 ---
 
-### கால வரையறையற்ற வேலை நிறுத்தத்தில் ஈடுபட்டிருக்கும் ராமேஸ்வரம் மீனவர்கள்
+### Rameshwaram fishermen who are engaged in an indefinite strike
 
 *2024-07-02 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/187534) · `ta`
 
-இலங்கை கடற்படையினரால் சிறைபிடிக்கப்பட்ட பாரம்பரிய நாட்டுப் படகு மீனவர்களையும், படகுகளையும் விடுவிக்க கோரி ராமநாதபுரம் மாவட்ட நாட்டு படகு மீனவர்கள் இன்று முதல் காலவரையற்ற வேலை நிறுத்த போராட்டத்தில் ஈடுபட்டுள்ளனர்.
+Fishermen in Rameshwaram began an indefinite strike after 25 of their colleagues and four boats were seized by the Sri Lankan navy while fishing. Over 200 fishermen and civilians protested at the North Port of Pamban, calling for the immediate release of the detained and their vessels. This action follows the arrest of four boats and 25 fishermen by the Sri Lankan navy, leading to their imprisonment until July 15th, with one minor transferred to a juvenile home in Jaffna.
 
-ராமேஸ்வரம் பகுதியை சேர்ந்த மீனவர்கள் 300 நாட்டுப் படகுகளில், 1500 க்கும் மேற்பட்ட மீனவர்கள் கடலுக்குள் மீன் பிடிக்கச் சென்றனர். இவர்கள் கடந்த திங்கட்கிழமை அன்று அதிகாலையில் கச்சத்தீவு மற்றும் நெடுந்தீவுக்கு இடையே மீன் பிடித்துக் கொண்டிருந்தபோது அங்கு வருகை தந்த இலங்கை கடற்படையினர் நான்கு படகுகளையும், 25 மீனவர்களையும் கைது செய்து நெடுந்தீவு கடற்படை முகாமுக்கு அழைத்துச் சென்றனர்.
+🟩
 
-பின்னர் இவர்கள் காங்கேசன் துறை கடற்படை முகாமுக்கு அழைத்துச் செல்லப்பட்டனர். பிறகு அவர் ஊர்காவல்துறை நீதிமன்றத்தில் ஆஜர் படுத்தப்பட்டனர். பின்னர் மீனவர்களிடம் விசாரணை நடத்திய நீதிவான், அவர்களை ஜூலை 15 ஆம் தேதி வரை சிறையில் அடைக்க உத்தரவிட்டார். மீனவர்களில் ஒருவர் 18 வயதிற்கு குறைவானவர் என்பதால் அவரை யாழ்ப்பாணத்தில் உள்ள அன்பு இல்லத்தில் ஒப்படைக்கப்பட்டார்.
+Ramanathapuram district boat fishermen have been engaged in an indefinite strike since today demanding the release of traditional fishermen and boats captured by the Sri Lankan navy.
+
+Of the 300 fishermen from Rameswaram, more than 1500 fishermen went fishing in the sea. The Sri Lankan navy arrested four boats and 25 fishermen when they were fishing in the early hours of Monday in the morning.
+
+They were then taken to the Kankesan Department of Naval Camp. He was then produced before the Kayts Court. The judge then investigated the fishermen and ordered them to be jailed until July 15. He was handed over to a love house in Jaffna because one of the fishermen was less than 18 years old.
+
+Following this, more than 200 fishermen and civilians went into the sea at the North Port of Pamban, demanding the immediate release of the fishermen and the confiscated boats arrested by the Sri Lankan navy.
 
 ...
 
 [Data](articles/44db6edb.json)
 
+[Extended Data](ext_articles/44db6edb.ext.json)
+
 ---
 
-### ஷதாப் கான் ஹெட்-ட்ரிக், வெல்லாலகே 4 விக். குவியல்: கண்டி பெல்கன்ஸை இலகுவாக வென்றது கலம்போ ஸ்ட்ரைக்கர்ஸ்
+### Shadhab Khan Head-Trick, Vellalake 4 Wick. Pile: Kandy Belgons easily won the Kalambo Strikers
 
 *2024-07-02 23:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187542) · `ta`
 
-கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் செவ்வாய்க்கிழமை (02) நடைபெற்ற ஐந்தாவது லங்கா பிறீமியர் லீக் அத்தியாயத்தின் 3ஆவது போட்டியில் கண்டி பெல்கன்ஸை சந்தித்த  கலம்போ  ஸ்ட்ரைக்கர்ஸ் முழு ஆதிக்கம் செலுத்தி 51 ஓட்டங்களால் வெற்றியீட்டியது.
+In the 3rd match of the Fifth Lanka Premier League, Kalambo Strikers defeated Kandy Belgons by 51 runs. Shadab Khan and Tunit Vellalake each took 4 wickets. Kalambo Strikers batted first, scoring 198/7 in 20 overs, led by Sadheera Samarawickrama (48) and Disara Perera (38). In response, Kandy Belgons were bowled out for 147 in 15.5 overs, with top scorers being Dinesh Chandimal (38) and Wanindu Hasaranga (25).
 
-பாகிஸ்தானின் சகலதுறை வீரர் ஷதாப் கான் பதிவுசெய்த இந்த வருட LPLலுக்கான முதலாவது ஹெட் - ட்ரிக் அடங்கலான 4 விக்கெட் குவியல், துனித் வெல்லாலகேயின் 4 விக்கெட் குவியல் என்பன  கலம்போ  ஸ்ட்ரைக்ர்ஸை இலகுவாக வெற்றிபெறச் செய்தன.
+🟩
 
-இந்தப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட கலம்போ ஸ்ட்ரைக்ர்ஸ் 20 ஓவர்களில் 7 விக்கெட்களை இழந்து 198 ஓட்டங்களைக் குவித்தது.
+Kalambo Strikers, who met Kandy Belgons in the 3rd match of the Fifth Lanka Premier League chapter held on Tuesday (02) at the Pallekele International Cricket Stadium, Kandy, won by 51 runs.
 
-சதீர சமரவிக்ரம (48), அணித் தலைவர் திசர பெரேரா (38), முஹம்மத் வசீம் (32), சாமிக்க கருணாரட்ன (25 ஆ.இ.), ஷடாப் கான் (20) ஆகியோர் துடுப்பாட்டத்தில் தங்களாலான அதிகபட்ச பங்களிப்பை வழங்கினர்.
+Pakistan's all -rounder Shadab Khan's first head - Trick, 4 wickets pile for LPL, and Tunit Vellake's 4 wickets pile of 4 wickets for the Galambo Strikes.
 
-பந்துவீச்சில்  அணித் தலைவர்  வனிந்து ஹசரங்க 30 ஓட்டங்களுக்கு 2 விக்கெட்களையும் கசுன் ராஜித்த 56 ஓட்டங்களுக்கு 2 விக்கெட்களையும் கைப்பற்றினர்.
+Kalambo Strikers, who was first invited to bat in the match, scored 198 runs for the loss of 7 wickets in 20 overs.
+
+Sadheera Samarawickrama (48), team captain Disara Perera (38), Muhammad Wasim (32), Samika Karunaratne (25 AE) and Shadab Khan (20) made their own contribution.
+
+In the bowling, team captain Wanindu Hasaranga took 2 wickets for 30 runs while Kasun Rajitha took 2 wickets for 56 runs.
+
+In reply, Kandy Belgons lost all wickets in 15.5 overs and lost 147 runs.
+
+Dinesh Chandimal (38), Wanindu Hasaranga (25), Angelo Mathews (25) and Andre Flecher (24) received the double digit numbers.
 
 ...
 
 [Data](articles/c66da4e8.json)
 
+[Extended Data](ext_articles/c66da4e8.ext.json)
+
 ---
 
-### மதுவுக்கு அடிமையானவர்களின் வாழ்வியலை பேசும் 'போத்தல் ராதா' (பாட்டல் ராதா)
+### 'Bottal Radha' (Patal Radha) who speaks of the life of alcohol addicts
 
 *2024-07-02 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/187526) · `ta`
 
-சிறந்த குணச்சித்திர நடிகர் என்ற நற்பெயரை சம்பாதித்திருக்கும் நடிகர் குரு சோமசுந்தரம் கதையின் நாயகனாக நடித்திருக்கும் 'போத்தல் ராதா' (பாட்டில் ராதா) எனும் திரைப்படத்தின் டீசர் வெளியிடப்பட்டிருக்கிறது. இதனை தமிழ் திரையுலகின் முன்னணி நட்சத்திர நடிகர்களான சிலம்பரசன் மற்றும் ஆர்யா ஆகியோர் இணைந்து  வெளியிட்டுள்ளனர்.
+"Bottal Radha" is a film about an alcoholic's journey through rehab, featuring renowned actor Guru Somasundaram as the lead. Directed by Dinakaran Sivalingam, it also stars Silambarasan and Arya. The movie explores addiction and recovery, generating buzz among audiences.
 
-அறிமுக இயக்குநர் தினகரன் சிவலிங்கம் இயக்கத்தில் உருவாகி இருக்கும் 'போத்தல் ராதா' (பாட்டல் ராதா) எனும் திரைப்படத்தில் குரு சோமசுந்தரம், சஞ்சனா நடராஜன், ஜான் விஜய், மாறன், ஆண்டனி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ரூபேஷ் ஷாஜி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஷான் ரோல்டன் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை பலூன் பிக்சர்ஸ் மற்றும் நீலம் புரொடக்ஷன்ஸ் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் டி என் அருண்பாலாஜி மற்றும் பா. ரஞ்சித் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+🟩
+
+Actor Guru Somasundaram, who has earned the reputation of being the best character actor, has been released by the teaser of the film 'Bottal Radha' (Bottil Radha), who plays the hero of the story.. It has been released by the leading star actors of the Tamil film industry Silambarasan and Arya.
+
+Guru Somasundaram, Sanjana Natarajan, John Vijay, Maran, Antony and many others have starred in the film 'Bottal Radha' (Patal Radha) directed by debutant director Dinakaran Sivalingam.. Shawn Roldan has composed the film, which has been recorded by Rupesh Shaji. Producers DN Arunpalaji and Pa on behalf of Balloon Pictures and Neelam Productions. Ranjith has co -produced.
 
 ...
 
 [Data](articles/2da23271.json)
 
+[Extended Data](ext_articles/2da23271.ext.json)
+
 ---
 
-### உலகநாயகன்' கமல்ஹாசனின் 'இந்தியன் 2' பட பாடலுக்கான காணொளி வெளியீடு
+### Video release for the song 'Kamal Haasan' 'Indian 2'
 
 *2024-07-02 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/187525) · `ta`
 
-'உலகநாயகன்' கமல்ஹாசன் நடிப்பில் தயாராகி ஜூலை பன்னிரண்டாம் திகதியன்று உலகம் முழுவதும் படமாளிகையில் வெளியாகவிருக்கும் 'இந்தியன் 2' படத்தில் இடம்பெற்ற 'காலண்டர் சாங்..' எனும் பாடலின் காணொளி வெளியிடப்பட்டிருக்கிறது.‌
+"Song 'Calendar Sang..' from 'Indian 2' featuring Kamal Haasan releases July 12th. Directed by S. Shankar, it stars Siddharth, Kajal Agarwal, Rakul Preet Singh, among others. Anirudh's composition, shot by Ravi Varman, is promoted in India and Malaysia. The song, penned by Kapilan Vairamuthu, features background singers Swi and Aishwarya Suresh, and South African model Demi Lee Debo. It's praised for its lyrics, music, visuals, and background."
 
-பிரம்மாண்ட இயக்குநர் ஷங்கர் இயக்கத்தில் உருவாகி இருக்கும் 'இந்தியன் 2' திரைப்படத்தில் கமல்ஹாசன், சித்தார்த், காஜல் அகர்வால், ரகுல் ப்ரீத் சிங், எஸ். ஜே. சூர்யா, பாபி சிம்ஹா, பிரியா பவானி சங்கர், பிரம்மானந்தம், சமுத்திரக்கனி, காளிதாஸ் ஜெயராம் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ரவிவர்மன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அனிருத் இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை லைக்கா நிறுவனம் மற்றும் ரெட் ஜெயன்ட் மூவிஸ்  நிறுவனம் இணைந்து தயாரித்திருக்கிறது.
+🟩
+
+Video of the song 'Calendar Sang ..' which was featured in the film 'Indian 2', which will be released on July twelfth starring Kamal Haasan.
+
+Kamal Haasan, Siddharth, Kajal Agarwal, Rakul Preet Singh, S Shankar. J.. Surya, Bobby Simha, Priya Bhavani Shankar, Brahmanandam, Samudrakani, Kalidas Jayaram and many others have been cast. Anirudh has composed the film, which is being recorded by Ravi Varman. The film is being produced by Leica and Red Giant Movies.
 
 ...
 
 [Data](articles/cca6d930.json)
 
+[Extended Data](ext_articles/cca6d930.ext.json)
+
 ---
 
-### நடிகர் நிகில் சித்தார்த்தா நடிக்கும் 'தி இந்தியா ஹவுஸ்' படத்தின் படப்பிடிப்பு தொடக்கம்
+### Actor Nikhil Siddhartha starrer 'The India House'
 
 *2024-07-02 23:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/187528) · `ta`
 
-தெலுங்கின் முன்னணி நட்சத்திர நடிகரான நிகில் சித்தார்த்தா நடிப்பில் தயாராகும் பான் இந்திய திரைப்படமான 'தி இந்தியா ஹவுஸ்' எனும் திரைப்படத்தின் படப்பிடிப்பு தொடங்கி இருக்கிறது. இதற்கான அதிகாரப்பூர்வமான அறிவிப்பை படக்குழுவினர் வெளியிட்டுள்ளனர்.
+Nikhil Siddhartha stars in "The India House," a multi-language film directed by Ram Vamsi Krishna. Also featuring Sai Manjarekar and Anupam Carey, it's produced by Vikram Reddy and Abhishek Agarwal. The story, inspired by the 1905 revolution, will be shot in Tamil, Telugu, Malayalam, Kannada, and Hindi.
 
-இயக்குநர் ராம் வம்சி கிருஷ்ணா இயக்கத்தில் உருவாகும் ' தி இந்தியா ஹவுஸ்' எனும் திரைப்படத்தின் நிகில் சித்தார்த்தா, சாயீ மஞ்சரேக்கர், அனுபம் கேர் உள்ளிட்ட பலர் நடிக்கிறார்கள். கேமரோன் பிரைசன் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு 'பொன்னியின் செல்வன்' படத்திற்கு கலை இயக்கத்தை கவனித்த  விஷால் அம்பானி கலை இயக்குநராக பணியாற்றுகிறார். இந்தத் திரைப்படத்தை வி மெகா பிக்சர்ஸ் மற்றும் அபிஷேக் அகர்வால் ஆர்ட்ஸ் ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் விக்ரம் ரெட்டி மற்றும் அபிஷேக் அகர்வால் ஆகியோர் இணைந்து தயாரிக்கிறார்கள். இந்த திரைப்படத்தை 'குளோபல் ஸ்டார்' ராம்சரண் வழங்குகிறார்.
+🟩
 
-...
+Telugu star starring Nikhil Siddhartha starring Ban Indian film 'The India House'. The film crew has issued an official announcement.
+
+Directed by director Ram Vamsi Krishna, 'The India House' starring Nikhil Siddhartha, Sai Manjarekar, Anupam Carey. Vishal Ambani is working as an art director for the film 'Ponni Selvan' for the film 'Ponni Selvan'. The film is being produced by Vikram Reddy and Abhishek Agarwal on behalf of VE Mega Pictures and Abhishek Agarwal Arts.. The film is delivered by 'Global Star' Ramsaran.
+
+Speaking of the film, the director said, “The 'The India House' is being prepared as the 1905 work.. Revolution and love is a great creation and is also prepared in Tamil, Telugu, Malayalam, Kannada and Hindi. The first shooting of the film has begun today. ”
+
+◼️
 
 [Data](articles/0f843864.json)
 
+[Extended Data](ext_articles/0f843864.ext.json)
+
 ---
 
-### பிக் பொஸ்' பிரபலம் ராஜு நடிக்கும் 'பன் பட்டர் ஜாம்'
+### Big Boss' popular Raju starrer 'Ban Butter Jam'
 
 *2024-07-02 23:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/187527) · `ta`
 
-'பிக் பொஸ்' சீசன் 5 நிகழ்ச்சியில் பங்கு பற்றி பிரபலமான சின்னத்திரை நடிகர் ராஜு ஜெயமோகன் கதையின் நாயகனாக அறிமுகமாகும் 'பன் பட்டர் ஜாம்' எனும் திரைப்படம் - நிகழ்கால வாழ்க்கையை மகிழ்ச்சியாக அனுபவிக்க வேண்டும் என்பதை வலியுறுத்துவதாக படக்குழுவினர் தெரிவித்துள்ளனர்.
+"Ban Butter Jam," starring Raju Jayamohan, is a film about overcoming challenges to find happiness. Directed by Raghav Mirdhat, it features a cast including Adia Prasad, Pavya Tarika, Charlie, Saranya Ponvannan, and Devadarshini. The movie, produced by Suresh Subramanian under Rain of Auros Entertainment, emphasizes living happily despite obstacles.
 
-இயக்குநர் ராகவ் மிர்தத் இயக்கத்தில் உருவாகி இருக்கும் 'பன் பட்டர் ஜாம்' எனும் திரைப்படத்தில் ராஜு ஜெயமோகன், ஆதியா பிரசாத், பவ்யா தரிகா, சார்லி, சரண்யா பொன்வண்ணன், தேவதர்ஷினி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். பாபு குமார் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு நிவாஸ் கே. பிரசன்னா இசையமைத்திருக்கிறார். இந்தத் திரைப்படத்தை ரெய்ன் ஆஃப் ஆரோஸ் எண்டர்டெயின்மென்ட் பட நிறுவனம் சார்பில் சுரேஷ் சுப்பிரமணியன் தயாரிக்கிறார்.
+🟩
 
-...
+The film 'Ban Butter Jam' is the hero of the story of the famous film actor Raju Jayamohan, who is famous for his participation in the 'Big Poss' Season 5 show - the film crew has said that he should be happy to enjoy the present life.
+
+Raju Jayamohan, Adia Prasad, Pavya Tarika, Charlie, Saranya Ponvannan, Devadarshini, directed by director Raghav Mirdhat, directed by director Raghav Mirdhat.. Niwas K is the cinematography by Babu Kumar. Prasanna has composed music. The film is being produced by Suresh Subramanian on behalf of the Rain of Auros Entertainment film company.
+
+The director said that the final shooting of the film is currently underway and that in this film, we must face the problems with the character of the story and that we can live happily ever after.
+
+◼️
 
 [Data](articles/6515def5.json)
 
+[Extended Data](ext_articles/6515def5.ext.json)
+
 ---
 
-### கடன் மறுசீரமைப்பில் அரசாங்கம் இரட்டை  நிலைப்பாட்டை பின்பற்றுகிறது -  எதிர்க்கட்சித் தலைவர் சஜித் குற்றச்சாட்டு
+### Government follows dual stand in debt renovation - Opposition Leader Sajith accuses
 
 *2024-07-02 23:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187498) · `ta`
 
-வெளிப்படைத்தன்மையுடனும் சமநிலையுடனும் அழுத்தங்களைப் பகிர்ந்துகொள்வதாக ஜனாதிபதி கூறினாலும், அரசாங்கம் இரட்டைக் கொள்கையையே கடைப்பிடித்துள்ளது என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition leader Sajith Premadasa criticizes the government for adopting a dual policy on debt management, contrasting it with transparent practices seen in countries like Ghana, Argentina, and Ecuador. He highlights discrepancies in debt restructuring timelines and discounts achieved by these countries versus Sri Lanka, questioning the transparency and effectiveness of the government's approach.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க செவ்வாய்க்கிழமை (02) பாராளுமன்றத்தில் ஆற்றிய உரைக்கு பதிலளிக்கும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-வெளிப்படைத்தன்மையுடனும் சமநிலையுடனும் அழுத்தங்களைப் பகிர்ந்துகொள்வதாக ஜனாதிபதி கூறினாலும், அரசாங்கம் இரட்டைக் கொள்கையையே கடைப்பிடித்துள்ளது.
+Opposition leader Sajith Premadasa said the government has adopted a double policy, even though the president claims to share pressure with transparency and balance.
 
-சர்வதேச பிணைமுறி தாரர்கள் தொடர்பில் ஒரு கொள்கையும், இந்நாட்டு மக்களுக்கு வேறு கொள்கையும் நடைமுறைப்படுத்தப்பட்டுள்ளது.
+Opposition Leader Sajith Premadasa said this while responding to his speech in Parliament on Tuesday (02).
 
-கானா, ஜமைக்கா, ஈக்வடார் போன்ற நாடுகள், நாட்டுக்கும் மக்களுக்கும் நன்மை பயக்கும் வகையில் இணக்கப்பாடுகளை செய்து கொண்டாலும், எமது நாட்டு ஜனாதிபதியாலும், அரசாங்கத்தினாலும் அவ்வாறான இணக்கப்பாட்டை எட்ட முடியவில்லை.
+Although the president claims to share pressures with transparency and balance, the government has adopted dual policy.
 
-ஒரு கட்டத்தில் ஏனைய நாடுகளுடன் ஒப்பிடும் போது இலங்கை கடன் மறுசீரமைப்பை மிக விரைவாக செய்து முடித்துள்ளதாக கூறியிருந்தார்.
+A policy on international bailouts and a different policy for the people of this country have been implemented.
+
+Countries such as Ghana, Jamaica and Ecuador have been in harmony with the country and the people, but the president and the government of our country have not been able to achieve such compliance.
+
+At one point, he said that Sri Lanka's debt restructuring was completed very quickly compared to other countries.
+
+It lies. Countries such as Ghana, Argentina, Ecuador, Mongolia, Belize and Barize have implemented credit restructuring processes in a short time before our country.
 
 ...
 
 [Data](articles/209e0885.json)
+
+[Extended Data](ext_articles/209e0885.ext.json)
 
 ---
 

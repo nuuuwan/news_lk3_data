@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 19:35:07**
+As of **2024-07-02 19:52:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,523
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,337 (100.0%) of 33,338 articles have been extended.
+33,338 (100.0%) of 33,338 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -142,19 +142,25 @@ The new prices of Litro domestic LP Gas cylinders are as follows;
 
 ---
 
-### ජපානය ලංකාව තුළ අත්හිටවූ සියලු ව්‍යාපෘති නැවත ආරඹයි
+### All projects suspended in Sri Lanka
 
 *2024-07-02 18:05:25* · [`adalk`](https://www.ada.lk/breaking_news/ජපානය-ලංකාව-තුළ-අත්හිටවූ-සියලු-ව්‍යාපෘති-නැවත-ආරඹයි/11-410572) · `si`
 
-ආර්ථිකය ඉදිරියට යන අඩිතාලම යොදා ඇති බවත්යො  ආර්ථිකයට ආරක්ෂාවක් වූ සමූපකාරය අපි රැක ගත යුතු බවත් අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පවසයි. ජපානය ලංකාව තුළ අත්හිටවූ සියලු ව්‍යාපෘති නැවත ආරම්භ කරන්න ගිවිසුම් අත්සන් කළ බවත් ඔහු පැවැසීය.
+Sri Lanka's Prime Minister Dinesh Gunawardena emphasizes protecting the economy amidst challenges, highlighting Japan's commitment to resume suspended projects. He mentions the distribution of Nescaf machines, funded by the Chinese government, to aid the country's recovery. The PM addresses the hardships faced, including financial crises and the impact of wars, while emphasizing the importance of unity and international support. He discusses efforts to restore confidence in the banking system and allocate resources effectively, including special programs for the elderly and low-income individuals. The speech underscores the government's focus on rebuilding the economy with support from both domestic and international partners, particularly China and Japan.
 
-අග්‍රාමාත්‍යවරයා මේ බව සඳහන් කළේ,  චීන රජයේ ආධාර මත අග්‍රාමාත්‍ය කාර්යාලය වෙත ලද බිත්තර රැක්ක වීමේ යන්ත්‍ර  සහ විමධ්‍යගත  අරමුදලින් කඩුවෙල ආසනයේ සමිති සඳහා නෙස්කැෆේ මැෂින් බෙදාදීම සඳහා  අරංගල සණස ශාලාවේ පැවති උත්සව අවස්ථාවට එක්වෙමිනි.
+🟩
 
-"රට මුහුණ දුන්නු  අර්බුදකාරී අවස්ථාවෙන් ගොඩ එම සඳහා ඔබ සැම විශාල කැපවීමක් කර තිබෙනවා. දෙවැනි යුද්ධ කාලේ මතක අය තවමත් ඉන්නවා. ඒ කාලේ ගැන අහලා තියෙනවා.  ජපන්නු බෝම්බ දානකොට බජිරි කාලා ජීවත් වෙච්ච මාස ගණනාවක් අපි ගතකලා. අපේ පාසල් නගරවලින් ඈත පළාත්වලට ගෙන ගියා. මේවා ඇත්තටම සිද්ධ වුණ කතා. ඒ තරම් අමාරු තත්ත්වයකින් ගොඩක් ආපු අපි යළිත් වරක් එවැනි තත්ත්වයකට මුහුණ දුන් නිසා  පසුගිය වසරේ රාජ්‍ය වියදම් සියයට අනුවකින් කපා හරින්න අපට සිද්ධ වුණා.
+Prime Minister Dinesh Gunawardena says that we must protect the economy that has been used in the economy. He added that Japan has signed all agreements to be restored in Sri Lanka.
+
+The Prime Minister made this statement participating at the ceremony at the Arangala Sanashe hall to distribute Nescaf machines to the Prime Minister's Office on the assistance of Chinese government.
+
+"You have always made all of you living in the crisis faced by the country. There are still people in the second war. It was heard about the time.We have taken a month for months that the Japanese bombarded. He took our school cities to remote areas. These really happened. Since we were so difficult, we had faced such a situation once again.
 
 ...
 
 [Data](articles/ee576d37.json)
+
+[Extended Data](ext_articles/ee576d37.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 17:35:12**
+As of **2024-07-02 17:55:34**
 
 ## Newspaper Stats
 
-*Scraped **33,313** Articles*
+*Scraped **33,314** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,799
 tamilmirrorlk | 3,942
 dailymirrorlk | 4,733
 virakesarilk | 5,198
-adaderanasinhalalk | 5,517
+adaderanasinhalalk | 5,518
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,312 (100.0%) of 33,313 articles have been extended.
+33,313 (100.0%) of 33,314 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
+
+### ඡන්ද විමසීම ගැන මැතිවරණ කොමිෂන් සභාවෙන් විශේෂ නිවේදනයක්
+
+*2024-07-02 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198415) · `si`
+
+පළාත් පාලන ආයතන ඡන්ද විමසීම පැවැත්වීම කල් තබා ඇති බැවින් සහ එම ඡන්ද විමසීම පවත්වා අවසන් නොමැති බැවින් රට තුළ මැතිවරණ නීතිය තවමත් බලාත්මක පවතින බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 104 "ඒ" වගන්තිය ප්‍රකාරව මෙම නීතිය බලාත්මකව පවතින බව එම කොමිෂන් සභාව සඳහන් කළේය.
+
+මෙම තත්ත්වය තුළ පළාත් පාලන මැතිවරණ නීතිය බලපවත්වන කාලසීමාව තුළ කිසිදු දේශපාලන පක්ෂයක්, කණ්ඩායමක්, අපේක්ෂකයෙක්, ප්‍රවර්ධනය නොවන සේ කටයුතු කළ යුතු බව ද ඔවුන් පෙන්වාදෙයි.
+
+ඒ සඳහා කිසිදු රාජ්‍ය දේපලක් යොදා නොගත යුතු බවට සියලු රාජ්‍ය ආයතන ප්‍රධානීන් දැනුවත් කරමින් විශේෂ ගැසට් පත්‍රයක් හා චක්‍රලේඛයක් මඟින් දැනුවත් කර ඇති බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+
+2313/32 දරණ ගැසට් පත්‍රය සහ 2023 ජනවාරි මස 05 වන දින නිකුත් කළ අංක 20 දරණ චක්‍රලේඛය ඒ අනුව තවදුරටත් බලාත්මකව පවතින බව ද නිවේදනයක් නිකුත් කරමින් මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+ඒ අනුව මෙම කාලසීමාව තුළ දී මැතිවරණ නීති කඩවන ආකාරයෙන් කටයුතු කිරීම දඬුවම් ලැබිය හැකි වරදක් බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+
+...
+
+[Data](articles/8a6af2a2.json)
+
+---
 
 ### President hits out at misinformation spread about debt restructuring and related matters
 
@@ -47,6 +69,8 @@ President Ranil Wickremesinghe made these remarks during a special statement in 
 ...
 
 [Data](articles/705a5e7c.json)
+
+[Extended Data](ext_articles/705a5e7c.ext.json)
 
 ---
 
@@ -2305,33 +2329,5 @@ Meanwhile, the General Secretary of the Committee on Affairs of Parliament today
 [Data](articles/2dad5343.json)
 
 [Extended Data](ext_articles/2dad5343.ext.json)
-
----
-
-### Rs. Between two crores, a clash between two cotton collapses at Kataragama
-
-*2024-07-02 07:39:42* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-ගණනක-මුදල්-හේතුවෙන්-කතරගම-දේවාලයේ-කපු-පරපුරු-දෙකක්-අතර-ගැටුමක්/11-410552) · `si`
-
-During the Kataragama Esala Festival, a clash erupted between the Twarwa Kapura Regime and the Capital Given Devalaya, resulting in injuries and leading to investigations by the Kataragama Police. The incident involved disputes over financial matters, with allegations of assault and property damage. The situation escalated during the Perahera season, affecting the sacred revenue and causing tension among different generations within the community. The Sri Lanka Army was called in to maintain order.
-
-🟩
-
-With the commencement of the Kataragama Esala Festival, a clash had taken place in the Devalaya (30) at the Devalaya (30).
-
-The clash has occurred among the Twarwa Kapura Regime and Capital Given the Devalaya. The Kataragama hospital has been admitted to the Kataragama hospital for treatment that Gayan was assaulted by Gayan, a cotton was assaulted by Gayan.
-
-Moreover, investigations were launched on a complaint received by the Kataragama Police regarding the attack. The Kataragama Police have taken the Karan Aravan police to the police yesterday (1st) and was released on bail of Rs.
-
-It is revealed that during Perahera season, there is a conflict between the two generations and that the clash is available for Rs.
-
-The total income of the sacred revenue is being taken. Basnayake Nilame Dilshan Gunasekera, Basnayake, Dilshan Gunasekera, says that when it is impossible to share.
-
-The buses were taken away from the Basnayake Nilame's residence in the Kataragama Devalaya.
-
-...
-
-[Data](articles/68493ba9.json)
-
-[Extended Data](ext_articles/68493ba9.ext.json)
 
 ---

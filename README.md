@@ -1,62 +1,122 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 18:25:00**
+As of **2024-07-02 18:36:45**
 
 ## Newspaper Stats
 
-*Scraped **33,320** Articles*
+*Scraped **33,327** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 304
 dbsjeyarajcom | 305
+colombotelegraphcom | 307
 bbccomsinhala | 327
 newsfirstlk | 363
 islandlk | 1,857
 economynextcom | 1,948
 dailyftlk | 2,054
-adalk | 2,968
-adaderanalk | 3,800
+adalk | 2,969
+adaderanalk | 3,802
 tamilmirrorlk | 3,942
 dailymirrorlk | 4,733
 virakesarilk | 5,198
-adaderanasinhalalk | 5,521
+adaderanasinhalalk | 5,522
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,319 (100.0%) of 33,320 articles have been extended.
+33,320 (100.0%) of 33,327 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### ලාෆ්ස් ගෑස් මිල ගැන දැනුම්දීමක්
+### Laugfs gas prices to remain unchanged
+
+*2024-07-02 18:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100249/laugfs-gas-prices-to-remain-unchanged) · `en`
+
+The price of Laugfs domestic LP gas cylinders will remain unchanged, despite price reductions made by Litro Gas PLC today (02), the company announced.
+
+Accordingly, the current prices of Laugfs domestic LP gas cylinders are as follows;
+
+Earlier today, Litro Gas PLC slashed the prices of its domestic LP gas cylinders, citing that even though the global market prices are in the upward trend, the company decided to give relief to its consumers based on structural cost reduction initiatives and efficient stock management.
+
+The new prices of Litro domestic LP Gas cylinders are as follows;
+
+◼️
+
+[Data](articles/ff339d11.json)
+
+---
+
+### හෝමාගම පොලීසිය තුළ ගුටි කෙළියක් ?
+
+*2024-07-02 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198419) · `si`
+
+හෝමාගම පොලීසිය තුළදී ඇතිවී ඇතැයි පැවසෙන පහරදීමේ සිද්ධිය සම්බන්ධයෙන් පරීක්ෂණයක් පැවැත්වෙන බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති, නීතිඥ නිහාල් තල්දූව මහතා පවසයි.
+
+ඊයේ (01) එම සිද්ධිය වාර්තා වූ අතර මේ වනවිට පොලිස් නිලධාරියෙක් ඇතුළු කිහිපදෙනෙක් රෝහල්ගත කර සිටිති.
+
+"බීමත්ව අශෝභන ලෙස හැසුරුණු පුද්ගලයෙක් ව හෝමාගම නගරයේදී අත්අඩංගුවට ගෙන පොලිස් ස්ථානයට ගෙනැවිත් තිබුණා. ඔහුව බැලීමට තවත් පුද්ගලයින් 4 දෙනෙක් පොලීසියට ගිහින්. ඔවුන් සම්බන්ධයෙන් තමයි මේ පොලීසියේදී ගැටුමක් ඇතිවුණා කියලා කියන්නේ. ඔවුන් කියනවා පොලීසියේදී පහර දුන්නා කියලා රෝහල් ගත වෙලා. පොලිස් නිලධාරියෙකුත් රෝහල් ගත වෙලා..."
+
+◼️
+
+[Data](articles/ccfdee84.json)
+
+---
+
+### Notification of Laugfs gas prices
 
 *2024-07-02 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198418) · `si`
 
-තමන් ජූලි මාසය සඳහා ගෘහස්ත ගෑස් මිල සංශෝධනය නොකරන බව ලාෆ්ස් සමාගම පවසයි.
+LAUGFS keeps July gas prices unchanged while Litro reduces prices: A 12kg LAUGFS cylinder costs X, down from Y previously. Litro cuts its 12.5kg cylinder price by Z, continuing price reductions started in April, May, and June.
 
-මේ වනවිට එම සමාගම කිලෝග්‍රෑම් 12.5 ලාෆ්ස් ගෘහස්ථ ගෑස් සිලින්ඩරයක් රුපියල් 3,680කටත්, කිලෝග්‍රෑම් 5 ගෑස් සිලින්ඩරයක් රුපියල් 1,477කටත් අලෙවි කරනු ලබයි.
+🟩
 
-මේ අතර අද මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ගෑස් මිල පහළ දැමීමට ලිට්‍රෝ සමාගම පියවර ගෙන තිබේ.
+LAUGFS says he does not revise the domestic gas price for the month of July.
 
-ඒ අනුව කිලෝග්‍රෑම් 12.5 ලිට්‍රෝ ගෑස් සිලින්ඩරයක මිල රුපියල් 100 කින් පහළ දැමේ.
+At present, the company is selling a 12-kilogram LAUGFS household gas cylinder for Rs.
 
-ඒ අනුව අඛණ්ඩව අප්‍රෙල්, මැයි සහ ජුනි මාසවලට අමතරව මෙම මාසයේදීත් මෙලෙස ගෑස් මිල ගණන් අඩු කිරීමට ඔවුන් පියවර ගෙන ඇත.
+Meanwhile, Litro has taken steps to reduce the price of gas to operate from midnight today.
 
-මාසිකව සිදුකෙරෙන මිල සංශෝධනයට අනුව ලිට්‍රෝ ගෑස් මිල පහළ දැමීමට එම සමාගම අද කටයුතු කළේය.
+Accordingly, the price of a 12.5 kilogram litro gas cylinder has been reduced by Rs.
 
-ඒ අනුව ලිට්‍රෝ සමාගමෙහි කිලෝග්‍රෑම් 12.5 ගෘහස්ථ ගෑස් සිලින්ඩරයක මිල රුපියල් 100 කින් පහළ දැමුණු අතර එහි නව මිල රුපියල් 3,690කි.
+Accordingly, they have taken steps to reduce gas prices in addition to the continuous April, May and June.
 
-කිලෝග්‍රෑම් 5 ගෑස් සිලින්ඩරයක මිල රුපියල් 40කින් පහළ දැමුණු අතර එහි නව මිල රුපියල් 1,482කි.
+According to the monthly revision of the monthly amendment, the company was downloading the litro gas prices.
 
-කිලෝග්‍රෑම් 2.3 ගෑස් සිලින්ඩරයක මිල රුපියල් 18 කින් පහළ දමා ඇති අතර එහි නව මිල වන්නේ රුපියල් 694කි.
+Accordingly, the price of a 12.5 kg of household gas cylinder was reduced by Rs. 3,690.
+
+The price of a 5kg gas cylinder was reduced by Rs. 1,482 million.
+
+The price of a 2.3kg gas cylinder has been reduced by Rs. 18 is Rs. 694.
 
 ◼️
 
 [Data](articles/85a096c5.json)
+
+[Extended Data](ext_articles/85a096c5.ext.json)
+
+---
+
+### LG Election law still in effect; Commission warns against violations
+
+*2024-07-02 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100248/lg-election-law-still-in-effect-commission-warns-against-violations) · `en`
+
+The Election Commission states that despite the deferral of the 2023 Local Government (LG) elections, the local government election law remains in effect as the polls have not been completed.
+
+It highlighted that accordingly, the local government election law is still effective as per the Article 104 (a) of the Constitution.
+
+Thus, the Election Commission warned that during this period, it is not permitted for anybody to act in a way that promotes any specific political party, candidate, or political group.
+
+Furthermore, the commission has informed all the heads of public institutions through a circular and a gazette extraordinary that no state property shall be utilized for this purpose.
+
+The election regulatory body further emphasized that the violation of these guidelines during this period is a punishable offense.
+
+...
+
+[Data](articles/404eb5b6.json)
 
 ---
 
@@ -79,6 +139,24 @@ There are 23 women and four children have been among the deceased Indian media.
 [Data](articles/8d595538.json)
 
 [Extended Data](ext_articles/8d595538.ext.json)
+
+---
+
+### නීතිය නැවීමට පොලිස් නිලධාරීන්ට හැකියාවක් නෑ
+
+*2024-07-02 17:43:23* · [`adalk`](https://www.ada.lk/breaking_news/නීතිය-නැවීමට-පොලිස්-නිලධාරීන්ට-හැකියාවක්-නෑ/11-410570) · `si`
+
+තමන්ට ඕනෑ ආකාරයට නීතිය නැවීමට හෝ වංගු දැමීමට නීතිය ක්‍රියාත්මක කරන්න පොලිස් නිලධාරීන්ට හැකියාවක් නැතැයි කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා අද (02) පැවසීය.
+
+මත්ද්‍රව්‍ය කිලෝ 200කට අධික ප්‍රමාණයක් ආනයනය හා ජාවාරම් කිරීම සම්බන්ධයෙන් පොලිස් මත්ද්‍රව්‍ය කාර්යාංශය කරන විමර්ශන විනිවිද භාවයෙන් තොර බවට සාධාරණ සැකයක් මතුව ඇතැයි පෙන්වා දෙමින් එසේ කී ප්‍රධාන මහේස්ත්‍රාත්වරයා සිද්ධිය සම්බන්ධයෙන් සොයා බලා පූර්ණ වාර්තාවක් වහාම අධිකරණයට ඉදිරිපත් කිරීමට පොලිස මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ අධ්‍යක්ෂකවරයාට වැඩිදුරටත් නියම කළේය.
+
+ගාල්ලට ඈත මුහුදේදී මත්ද්‍රව්‍ය කිලෝ 200ට අධික ප්‍රමාණයක් සමඟ පසුගිය ජුනි 15 වැනිදා අත්අඩංගුවට ගත් ධීවරයින් 06 දෙනෙකුට එරෙහි පැමිණිල්ල කැඳවූ අවස්ථාවේදී ඉදිරිපත් වු කරුණු සළකා බැලීමෙන් අනතතුරුව මහේස්ත්‍රාත්වරයා එලෙස නියම කළේය.
+
+සිද්ධිය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් සැකකරුවන් 06 දෙනෙකු අධිකරණයට ඉදිරිපත් කරමින් පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ නිලධාරීන් කළ ඉල්ලීක් පිළිගනිමින් සැකකරුවන් ලබන 16 වැනිදා දක්වා රිමාන්ඩ් බාරයේ රඳවා තැබීමටද මහෙස්ත්‍රාත්වරයා වැඩිදුරටත් නියම කළේය.
+
+...
+
+[Data](articles/58c3987b.json)
 
 ---
 
@@ -978,6 +1056,20 @@ The interim injunction has been issued to suspend the party's decision to remove
 
 ---
 
+### Organised Crimes: An Escalating Security Threat To Sri Lanka’s Stability
+
+*2024-07-02 12:51:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/organised-crimes-an-escalating-security-threat-to-sri-lankas-stability/) · `en`
+
+As a developing island nation Sri Lanka is facing numerous security challenges. Organized crimes also can be identified as a pressing issue among them. Organized crimes such as drug trafficking, human trafficking, terrorist financing, pyramid scheming, Ponzi scheming, gun violence, trading illegal weapons, and money laundering have become a significant problem in Sri Lanka, especially by undermining the Rule of Law, democracy, peace, and stability of the country.
+
+According to the United Nations Office on Drugs and Crimes (UNODC), organized crime consists of planned and rational acts by groups of individuals, rather than random, unplanned individual criminal acts. Furthermore, it states that organized crimes are driven by the purpose of financial gain through criminal activities and are often supported by corruption. (United Nations Office on Drugs and Crime 2019).
+
+...
+
+[Data](articles/91f38880.json)
+
+---
+
 ### An emergency operation on Jampata Street
 
 *2024-07-02 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198400) · `si`
@@ -1129,6 +1221,18 @@ Tuesday (July 02), the US dollar purchasing price was 300.3979 and the sales pri
 [Data](articles/2ff9a6cf.json)
 
 [Extended Data](ext_articles/2ff9a6cf.ext.json)
+
+---
+
+### Debt Restructuring To Improve People’s Economic Lives
+
+*2024-07-02 12:28:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/debt-restructuring-to-improve-peoples-economic-lives/) · `en`
+
+With less than a month before presidential elections are called, President Ranil Wickremesinghe has highlighted the success of his presidency as rescuing Sri Lanka from its international bankruptcy status that prevents it from doing business with the rest of the world. The signing of the agreement on international debt restructuring for USD 5.8 billion with the Official Creditor Committee consisting of several foreign governments that have given bilateral loans to Sri Lanka was celebrated in numerous ways. The president himself made a speech to the nation and firework exhibitions took place in various towns to mark the occasion. The president made it clear that he was the architect of Sri Lanka’s economic recovery. This puts upon him a greater responsibility to engage with the people, listen to them and explain to them what it all means.
+
+...
+
+[Data](articles/14c919c2.json)
 
 ---
 
@@ -2193,141 +2297,5 @@ According to the monthly gas prices, the gas prices were finally revised on June
 [Data](articles/aaae5700.json)
 
 [Extended Data](ext_articles/aaae5700.ext.json)
-
----
-
-### Special Parliament Session Today
-
-*2024-07-02 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187441) · `ta`
-
-Today, Parliament holds a special session at 9:30 am. The focus is solely on the President's address, preceded by the late former opposition leader Ira Sampanthan's funeral procession to the Parliamentary Complex tomorrow.
-
-🟩
-
-Parliament meets for a special session at 9.30 am on Tuesday (02). It has been announced that only the President's special speech will be held.
-
-President's speech and the late former opposition leader Ira. The Secretary General of Parliament Kushani Rohanadeera said that Sampanthan's funeral will be taken to the Parliamentary Complex tomorrow (03) to the Parliamentary Committee.
-
-◼️
-
-[Data](articles/87fe1dc9.json)
-
-[Extended Data](ext_articles/87fe1dc9.ext.json)
-
----
-
-### Another 1875 more to the education system
-
-*2024-07-02 09:23:24* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-පද්ධතියට-තවත්-1875-ක්-එක්වෙති/11-410557) · `si`
-
-Tomorrow, 1875 new positions will be filled in the education sector, including 60 officers for the third grade of the Sri Lanka Education Administrative Service and 109 graduates hired as English teachers in national schools.
-
-🟩
-
-The appointment of 1875 new appointments to the educational system will be held tomorrow.
-
-A total of 60 officers have been appointed to the third grade of Sri Lanka Education Administrative Service.
-
-In addition, the Ministry of Education will be awarded to 109 Graduates who were recruited to the English teacher vacancies existing in national schools.says.
-
-◼️
-
-[Data](articles/d91cea18.json)
-
-[Extended Data](ext_articles/d91cea18.ext.json)
-
----
-
-### Discussions are successful
-
-*2024-07-02 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198388) · `si`
-
-Teachers' unions in Sri Lanka are protesting nationwide after their demands were allegedly ignored. They expect a resolution soon, as discussions with authorities have been productive, promising to address their concerns regarding allowances and other issues. The unions vow to continue their actions until their demands are met positively.
-
-🟩
-
-University alleged employees say that discussions with authorities were successful in their demands.
-
-Dhammika Priyantha stated that the authorities agreed to submit their problems today or tomorrow (03) or tomorrow.
-
-"We did not work out of agreements that were profitable to the Minister of Ragawan clearly notified. To end this trade forest, they agreed that our 2017 Monastery allowance should be made in that way to the Cabinet of the Cabinet with regard to this to the Cabinet. We hope we will get a solution soon today. He said today or tomorrow. We hope this strike will get a positive solution. If you have a positive solution to this, the professional action continues. "
-
-The teacher's trade unions say they are engaged in protest in opposing to all schools in the country today due to non-responding to their demands.
-
-Ceylon Teachers Union General Secretary Joseph Stalin said that the trade union action engages continuously until their demands.
-
-◼️
-
-[Data](articles/4fea7ba5.json)
-
-[Extended Data](ext_articles/4fea7ba5.ext.json)
-
----
-
-### Israel killed in accident
-
-*2024-07-02 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198387) · `si`
-
-An Israeli national died in a road accident near Pottuvil, where a motorbike collided with another vehicle. The motorcyclist, seriously hurt, passed away at Pottuvil Hospital.
-
-🟩
-
-Israeli national was killed in an accident on the pottuvil-Akplapu road.
-
-The accident had occurred when a motorbike traveled to Pottuvil collided with a handkerchief.
-
-The motorcyclist who was seriously injured in the accident has died after being admitted to the Pottuvil Hospital.
-
-◼️
-
-[Data](articles/25343f68.json)
-
-[Extended Data](ext_articles/25343f68.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2024-07-02 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100228/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Showers or thundershowers may occur at several places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
-
-Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/7940479c.json)
-
-[Extended Data](ext_articles/7940479c.ext.json)
-
----
-
-### No one in the world will be bounded in Sri Lanka
-
-*2024-07-02 08:46:44* · [`adalk`](https://www.ada.lk/breaking_news/මේ-දවස්වල-ලෝකයේ-කවුරුවත්-ලංකාවේ-බැදුම්කර-ගන්නේ-නෑ/11-410556) · `si`
-
-Dr. Bandula Gunawardena, Sri Lanka's Transport, Highways, and Mass Media Minister, emphasized the importance of continuing the current economic program under President Ranil Wickremesinghe. He highlighted the need for a special parliamentary debate on restructuring foreign loans due to financial challenges, including unpaid loan installments and shortages of oil and gas. The minister praised Wickremesinghe's efforts in securing loans from the IMF, which he argued were crucial for importing goods and maintaining the economy. He also mentioned upcoming financial support from the IMF, World Bank, and Asian Development Bank for the 2025 budget, stressing the necessity of these funds for public servant salaries, pensions, and subsidies. Gunawardena warned against opposing the economic program, labeling such actions as treasonous, and called for unity in implementing the agreed-upon plan to ensure the country's stability and development.
-
-🟩
-
-Transport, Highways and Mass Media Minister Dr. Bandula Gunawardena said that if the current government is being carried out under the direction of President Ranil Wickremesinghe.
-
-The Minister also pointed out that the time of all citizens of this country has come to continue this economic program.
-
-Minister of Transport, Highways and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media was held at a press conference held at the press conference held today (01).
-
-Speaking further Minister Bandula Gunawardena further said,
-
-Special debate on restructuring of foreign loans will be held in Parliament on July 02 and 03. The Treasury was not available in the Treasury. The country was unable to pay the loan installments. Oil Quech and gas queues. A struggled proceedings of the society became a hatred club that society became a hatred club.
-
-...
-
-[Data](articles/e113b17a.json)
-
-[Extended Data](ext_articles/e113b17a.ext.json)
 
 ---

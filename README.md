@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-02 16:35:04**
+As of **2024-07-02 16:51:54**
 
 ## Newspaper Stats
 
@@ -26,51 +26,65 @@ adaderanasinhalalk | 5,517
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,303 (100.0%) of 33,305 articles have been extended.
+33,305 (100.0%) of 33,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-02 (Tuesday)
 
-### සම්බන්ධන්ගේ අතීත මකයන් ගැන ජනපති සංවේදී වෙයි
+### President to be sensitive to the past men's past men
 
 *2024-07-02 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198414) · `si`
 
-‍දෙමළ ජාතික සන්ධානයේ නායක, අභාවප්‍රාප්ත පාර්ලිමේන්තු මන්ත්‍රී ආර්. සම්බන්ධන් මහතා සෑම අවස්ථාවකම ශ්‍රී ලංකාවේ භෞමික අඛණ්ඩතාව වෙනුවෙන් පෙනී සිටි බවත්, බලය බෙදිය යුතු ආකාරය පිළිබඳ ඔහුට ඔහුගේම වූ මතයක් තිබූ බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe praised late TNA leader Sampanthan for his commitment to Sri Lanka's territorial integrity, noting his unique views on power distribution. The President highlighted Sampanthan's significant contributions during challenging times and expressed his condolences in Parliament.
 
-ඒ වෙනුවෙන් ඔහු ප්‍රමාණවත් වැඩ කොටසක් ඉටුකළ බව පෙන්වා දුන් ජනාධිපතිවරයා ආර්. සම්බන්ධන් මහතා වෙනුවෙන් අපට කළ හැකි ඉහළම කාර්යය වන්නේ ඒ වෙනුවෙන් වු වැඩකටයුතු සාර්ථකව අවසන් කිරීම බවද වැඩිදුරටත් සඳහන් කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේ, ආර්. සම්බන්ධන් මහතාගේ හදිසි අභාවය පිළිබඳ සිය ශෝකය පළ කරමින් පාර්ලිමේන්තුවේ දී විශේෂ ප්‍රකාශයක් සිදුකරමිනි.
+TNA leader of the late Member of Parliament. President Ranil Wickremesinghe says that Mr. Sampanthan has always appeared for the territorial integrity of Sri Lanka and he had his own opinion on how to divide power.
 
-"මම මේ කතාව සිදුකරන අවස්ථාව වන විට එදා මා සමඟ පාර්ලිමේන්තුවට පැමිණි අයගෙන් ඉතිරිව සිටි සඟයෙකු වන සම්බන්ධන් මන්ත්‍රීතුමා තවදුරටත් අප අතර නැහැ. ඉතා දුෂ්කර කාලපරිච්ඡේදයන් තුළ එතුමා සමඟ එකට වැඩකිරීමට මට අවස්ථාව ලැබුණු අතර ඔහු එහිදී ලබාදුන් දායකත්වය මම කෘතවේදීව සිහිපත් කරනවා.
+The President pointed out that he had done enough work for it. He added that the highest function for Mr. Sampanthan is to end successfully completing it.
+
+President Ranil Wickremesinghe made this statement, R. A special statement was made in Parliament expressing his condolences on the demise of Mr. Sampanthan.
+
+"When I was in this story, MP is no longer among us, a hypocholana who is left to parliament with me in that day. I was able to work with him in very difficult times and I was reminded of the contribution made by him.
+
+He represented the Tamil United Liberation Front (TULF) and the TNA representing the TNA and always struggled for the territorial integrity of Sri Lanka.
 
 ...
 
 [Data](articles/210f2635.json)
 
+[Extended Data](ext_articles/210f2635.ext.json)
+
 ---
 
-### බයේ පැනලා ගිය එක සුබ ද අසුබ ද ?
+### Is it good for the fear of fear?
 
 *2024-07-02 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198413) · `si`
 
-අස්වැසුම, උරුමය වැනි වැඩසටහන් ක්‍රියාත්මක කිරීමට මෙන්ම රට තුළ නව කර්මාන්ත ශාලා ආරම්භ කරමින් තරුණ තරුණියන්ට නව රැකියා අවස්ථා උදාකර දීමට රජය පියවර ගෙන ඇත්තේ මන්දපෝෂණය සහ දුප්පත්කම පිටුදැකීමට මෙන්ම විරැකියාව තුරන් කිරීමට බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+In response to parliamentary questions, President Ranil Wickremesinghe outlined government efforts to combat poverty, malnutrition, and unemployment through initiatives like providing subsidized rice, housing grants, and promoting new factory investments. He defended economic policies and criticized opposition queries, emphasizing the need for unity and addressing concerns through reports from relevant committees.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ මන්දපෝෂණය, දුප්පත්කම සහ විරැකියාව සුබද? අසුබද? කියා පාර්ලිමේන්තුවේ දී අද (02) විපක්ෂ නායකවරයා නැඟු ප්‍රශ්නයට පිළිතුරු දෙමිනි.
+🟩
 
-එසේම රටේ ආර්ථිකය කඩා වැටී ජනතාව හාමතේ සිටින විට අගමැතිකම බාර නොගෙන බියේ පළා යාම සුබද? අසුබද? කියා පෙරළා ප්‍රශ්න කළ ජනාධිපතිවරයා වැඩිදුරටත් මෙසේද පැවසිය.
+President Ranil Wickremesinghe said that the government has taken measures to carry out new factories and poverty, including the inheritance and heritage in the country.
 
-ළමුන් මන්දපෝෂණයෙන් පෙළෙන එක සුබද, අසුබද කියා විපක්ෂ නායකවරයා ප්‍රශ්න කළා.
+The President was speaking to malnutrition, poverty, and unemployment??Responding to the question raised by the Opposition (02) in parliament today.
 
-අප අස්වැසුම වැඩසටහන ක්‍රියාත්මක කළේ, අඩු ආදායම්ලාභී ජනතාවට මාස දෙකක් සහල් කිලෝ දහය බැගින් ලබා දුන්නෙත් ඒ නිසයි. පාසල් ළමුන්ට ආහාර ලබාදීමේ වැඩසටහන ආරම්භ කළේ ද ඒ නිසයි.
+Also, do the economy of the country and the prime minister will not accept the prime minister when the people are humble??The President also said, "The President said," The President added:
 
-ඒ නිසයි ලක්ෂ 20ක් ජනතාවට “උරුමය” ජාතික වැඩසටහන යටතේ සින්නක්කර ඉඩම් අයිතිය ලබා දෙන්නේ.
+The Opposition Leader questioned the suffering from malnutrition.
 
-මහල් නිවාසවල ජීවත්වන ලක්ෂ දෙක හමාරක ජනතාවට එම නිවාසවල අයිතිය ලබා දෙන්නේ ද ඒ නිසයි. තව මොනවද දිය යුත්තේ?
+The reconciliation program was implemented, the low income people were given ten kilograms of rice for two months. That is why the food delivery program was started.
+
+That is why Rs.
+
+That is why the ownership of the houses are given to these houses for two lakhu and a half lakhs and the people living in apartments. What else should you give?
 
 ...
 
 [Data](articles/972753e9.json)
+
+[Extended Data](ext_articles/972753e9.ext.json)
 
 ---
 

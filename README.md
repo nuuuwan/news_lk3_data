@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 12:08:43**
+As of **2024-07-03 12:19:36**
 
 ## Newspaper Stats
 
-*Scraped **33,455** Articles*
+*Scraped **33,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,816
 tamilmirrorlk | 3,963
 dailymirrorlk | 4,733
 virakesarilk | 5,225
-adaderanasinhalalk | 5,542
+adaderanasinhalalk | 5,543
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,449 (100.0%) of 33,455 articles have been extended.
+33,455 (100.0%) of 33,456 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### ජනාධිපතිවරයාගේ ධුර කාලය සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක්
+
+*2024-07-03 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198442) · `si`
+
+වත්මන් ජනාධිපතිවරයාගේ ධුර කාලය ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව ශ්‍රේෂ්ඨාධිකරණය අර්ථකථනය කරන ලෙස ඉල්ලා පෙත්සමක් ඉදිරිපත් වී තිබේ.
+
+අදළා පෙත්සම ඉදිරිපත් කර ඇත්තේ, ව්‍යවසායකයෙකු වන සී.ඩී. ලෙනව මහතා විසිනි.
+
+පෙත්සමෙන් වැඩිදුරටත් ඉල්ලා ඇත්තේ, මීළඟ ජනාධිපතිවරණය පැවැත්වෙන දිනය අධිකරණය විසින් අර්ථකථනය කරන තුරු දැනට නියම කර තිබෙන කාලසීමාවේ ජනාධිපතිවරණය පැවැත්වීම වැළැක්වීමේ අතුරු නියෝගයක් නිකුත් කරන ලෙසය.
+
+◼️
+
+[Data](articles/eb9e72f5.json)
+
+---
 
 ### Teaching positions in national schools awarded to over 1,700 graduates
 
@@ -44,33 +60,47 @@ Additionally, teaching positions in national schools were awarded to 1,706 gradu
 
 [Data](articles/2330c925.json)
 
+[Extended Data](ext_articles/2330c925.ext.json)
+
 ---
 
-### ஐ.தே.கவில் இணைந்தார் கஹந்தவெல
+### Kahanthawela joined the UNP
 
 *2024-07-03 11:44:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-கவில்-இணைந்தார்-கஹந்தவெல/175-339812) · `ta`
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் கொழும்பு மாநகர சபை முன்னாள் உறுப்பினர் மஹிந்த கஹந்தவெல, ஐக்கிய தேசியக் கட்சியில் இணைந்து தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு தனது ஆதரவை உறுதியளித்துள்ளார்.
+Mahinda Kahanthawela, ex-Colombo Municipal Council member, joins the United National Party, backing President Ranil Wickremesinghe.
+
+🟩
+
+Mahinda Kahanthawela, a former member of the Sri Lanka PA's Colombo Municipal Council, has joined the United National Party and has pledged his support to the current President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/947ea6f3.json)
 
+[Extended Data](ext_articles/947ea6f3.ext.json)
+
 ---
 
-### ජනපති අතින් පත්වීම් ලැබූ අලුත්ම පිරිස
+### President's new appointments
 
 *2024-07-03 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198441) · `si`
 
-ශ්‍රී ලංකා අධ්‍යාපන පරිපාලන සේවයේ III ශ්‍රේණියේ සාමාන්‍ය සේවක තනතුරු සඳහා 60 දෙනෙකුට පත්වීම් ලබාදීමේ උත්සවය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පැවැත්විණි.
+President Ranil Wickremesinghe chaired a meeting where he announced new appointments, including 1,706 graduates and 453 English diploma holders as teachers. The event started at Temple Trees.
 
-මීට සුළු මොහොතකට පෙර අරලියගහ මන්දිරයේදී එම උත්සවය ආරම්භ වූ බව ජානාධිපති මාධ්‍ය ඒකකය සඳහන් කරයි.
+🟩
 
-මෙම පත්වීම්වලට අමතරව උපාධිධාරීන් 1,706 දෙනෙකුට සහ ඉංග්‍රීසි ඩිප්ලෝමාධාරීන් 453 දෙනෙකුට ජාතික පාසල්වල ගුරු පත්වීම් ලබාදී තිබේ.
+President Ranil Wickremesinghe was chaired by President Ranil Wickremesinghe.
+
+The General of the Meeting Unit said that the ceremony had begun at Temple Trees a short while ago.
+
+In addition to these appointments, 1,706 graduates and 453 English diploma holders have been given teachers' appointees.
 
 ◼️
 
 [Data](articles/caa6fcb2.json)
+
+[Extended Data](ext_articles/caa6fcb2.ext.json)
 
 ---
 
@@ -272,23 +302,29 @@ Intelligence on mortgage was revealed that the suspect named the suspect called 
 
 ---
 
-### உயிரை மாய்த்தது ரோபோ
+### The robot made life
 
 *2024-07-03 10:20:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உயிரை-மாய்த்தது-ரோபோ/50-339800) · `ta`
 
-உலகில் முதல்முறையாக ரோபோ ஒன்று உயிரை மாய்த்துக்கொண்டுள்ள சம்பவம் தென் கொரியாவில் பதிவாகியுள்ளது .
+In a groundbreaking event, South Korea became the first country to report a robot living among humans. The robot, serving as a civil servant in Kumi City, tragically ended its life by falling down the stairs while carrying documents. Residents mourned its loss, and city officials are investigating the incident, with some speculating it might be a suicide.
 
-தென் கொரியாவின் குமி நகர சபையில் அரசு ஊழியராக பணியாற்றிய ரோபோ தற்கொலை செய்து கொண்டதாக அந்நாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+🟩
 
-குறித்த நகர சபையின் ஆவணங்களை எடுத்துச் செல்லும் பணியில் ஈடுபட்டிருந்த, ரோபோவின் உடல் , கட்டிடத்தின் முதல் மற்றும் இரண்டாவது தளங்களுக்கு இடையே கிடந்ததாகவும், படிக்கட்டில் இருந்து கீழே விழும் முன் ரோபோ சுழன்றுள்ளதாகவும் குமி நகர அதிகாரிகள் தெரிவித்த்துள்ளனர்.
+South Korea has been reported in the world for the first time in the world to live a robot.
 
-குறித்த ரோபோவுக்கு குமியில் வசிப்பவர்கள் இரங்கல் தெரிவித்துள்ளதுடன் , விசாரணைகளுக்காக நகர அதிகாரிகள், ரோபோவின் உடலை எடுத்துச் சென்றுள்ளதாகவும் அந்நாட்டு ஊடகங்கள் தெரிவித்துள்ளது .
+The media has reported that the robot who served as a civil servant in South Korea's Kumi Urban Council has committed suicide.
 
-மேலும் நகரவாசிகள் இந்த விபத்தை தற்கொலை என்று கூறுவதாகவும் கொரிய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+Kumi city officials said that the body of the robot, who was in the process of carrying the documents of the city council, was lying between the first and second sites of the building and the robot had spinned before the stairs.
+
+Residents of Kumi have condoled the robot and city officials have taken the body of the robot for investigations, according to the media.
+
+The Korean media has reported that the city's residents are claiming the crash is suicide.
 
 ◼️
 
 [Data](articles/21cb6cd4.json)
+
+[Extended Data](ext_articles/21cb6cd4.ext.json)
 
 ---
 
@@ -1446,6 +1482,8 @@ According to a new Institute of Health Policy (IHP) poll, in May 2024, 80% of La
 
 [Data](articles/967f98cf.json)
 
+[Extended Data](ext_articles/967f98cf.ext.json)
+
 ---
 
 ### Decide to ignore the national government
@@ -2134,21 +2172,27 @@ Tharushi Karunaratne is eligible to represent the 800 meter event event and is e
 
 ---
 
-### රාජ්‍ය සේවයේ මූලික වැටුප රු. 20000කින් වැඩිකරන්නැයි ඉල්ලයි
+### Basic salary of the public service is Rs.. Demands to increase by 20000
 
 *2024-07-02 20:07:54* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයේ-මූලික-වැටුප-රු--20000කින්-වැඩිකරන්නැයි-ඉල්ලයි/11-410581) · `si`
 
-රාජ්‍ය සේවක මූලික වැටුප රුපියල් විසිදහසකින් ඉහළ දමන ලෙස ඉල්ලා මේ මස 08 හා 09වන දින සේවයෙන් ඉවත්ව සිටීමේ වෘත්තීය ක්‍රියාමාර්ගයක් සිදුකරන බව රාජ්‍ය සේවා වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
+The Public Service Trade Union Alliance demands a Rs. 20,000 increase in basic salary, citing discussions held on the 8th and 9th of this month. Despite previous salary hikes for service and executive staff, the union seeks dialogue with authorities before deciding on further action.
 
-පසුගිය කාලයේදීමහ බැංකු සේවකයන්ගේ හා විධායක නිලධාරීන්ගේ වැටුප් හා දීමනා වැඩි කළ බවත් එහෙත්රාජ්‍ය සේවයේ පහළ සේවාවන් සඳහා කිසිදු අයුරකින් වැටුප් හෝ දීමනාවක් ඉහළ දමා නොමැති බවද එම සන්ධානයේ සමකැඳවුම්කරු ධම්මික මුණසිංහ මහතා සඳහන් කළේය.
+🟩
 
-රාජ්‍ය සේවා වෘත්තීය සමිති සන්ධානය ලෙස මේ සම්බන්ධයෙන් පසුගිය කාලය පුරා අදාළ බලධාරීන් සමග සාකච්ඡා කිරීමට අවස්ථාවක් ලබා ගැනීමට උත්සාහකළ බවත් එහෙත් සාකච්ඡාවක් ලබා දීමටවත් බලධාරීන් කටයුතු නොකළ බවද පැවසීය.
+The Public Service Trade Union Alliance states that a proceedings of working on the 08th and 9th of this month will be departuring the basic salary of the state.
 
-මේ නිසා වැටුප් වැඩිවීමක් ඉල්ලා අකමැත්තෙන් වුවද වෘත්තීය ක්‍රියාමාර්ග ගැනීමට සිදුව තිබෙන බවත් මේ අනුව අදාළ ඉල්ලීම් මුල්කර ගනිමින් මෙම දින දෙක තුළදීසංවර්ධන නිලධාරීන්, කළමනාකරණ සේවා නිලධාරීන්, තැපැල් සේවකයන් හා කාර්යාල කාර්ය සහායක සේවාවල පිරිස් සේවයෙන් ඉවත්වන බවද සඳහන් කළේය.
+The Coalition of the Alliance Dr. Dhammika Munasinghe said that the salaries and executives of the service and executives were increased in the past service.
+
+However, the government service trade union alliance has attempted to have an opportunity to discuss the event with the relevant authorities over the recent past.
+
+Therefore, although it is reluctant to demand a salary increase, it has been reported that the General Associations, Management Services Officers, Postal Officers and Office Assistants have to take on the services of the two days.
 
 ◼️
 
 [Data](articles/3f84247a.json)
+
+[Extended Data](ext_articles/3f84247a.ext.json)
 
 ---
 
@@ -2239,31 +2283,5 @@ If there is insufficient evidence to make sure, the police can be able to work. 
 [Data](articles/823b29f7.json)
 
 [Extended Data](ext_articles/823b29f7.ext.json)
-
----
-
-### There is still no candidate from the quantity
-
-*2024-07-02 19:28:57* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවෙන්-තවමත්-අපේක්ෂකයෙක්-නෑ/11-410579) · `si`
-
-At a press conference in Beijing, former President Mahinda Rajapaksa mentioned that leaders emerge from the people, without confirming his candidacy for the upcoming Sri Lankan presidential election. He was there for the 70th anniversary celebrations of Sri Lanka-China relations, where he also met with China's Foreign Minister.
-
-🟩
-
-Former President Mahinda Rajapaksa said that the leaders were born among the people at the Katunayake airport.
-
-He was responding to a question that journalists asked if the journalists asked the next presidential election.
-
-The Civil Front has not yet selected a candidate to contest for the next presidential election.
-
-Mahinda Rajapaksa at Beijing in Beijing, China, was on the occasion of the 70th Anniversary of the 70th Anniversary of Sri Lanka.. The anniversary festival was held on the 28th of the 28th of last month.
-
-He further stated that President Mahinda Rajapaksa has discussed the Chinese President Xi Ginopin with the Foreign Minister of China and the Sri Lankan government.
-
-◼️
-
-[Data](articles/3c0ba648.json)
-
-[Extended Data](ext_articles/3c0ba648.ext.json)
 
 ---

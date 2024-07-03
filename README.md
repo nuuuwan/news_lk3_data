@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 17:35:16**
+As of **2024-07-03 17:55:54**
 
 ## Newspaper Stats
 
-*Scraped **33,506** Articles*
+*Scraped **33,508** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 1,867
 economynextcom | 1,962
 dailyftlk | 2,068
 adalk | 2,989
-adaderanalk | 3,823
+adaderanalk | 3,824
 tamilmirrorlk | 3,967
 dailymirrorlk | 4,733
-virakesarilk | 5,238
+virakesarilk | 5,239
 adaderanasinhalalk | 5,552
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,505 (100.0%) of 33,506 articles have been extended.
+33,506 (100.0%) of 33,508 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### New Dutch government sworn in over 220 days after elections
+
+*2024-07-03 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100273/-new-dutch-government-sworn-in-over-220-days-after-elections) · `en`
+
+The new Dutch government led by new Prime Minister Dick Schoof was officially sworn in on Tuesday at the Huis ten Bosch Palace in The Hague, more than 220 days after the general elections on November 22 last year.
+
+Following the honorable discharge of the former government, 16 new ministers and 13 state secretaries were sworn in.
+
+The new Dutch government consists of the far-right populist Party for Freedom (PVV), the center-right party New Social Contract (NSC), the rightist People’s Party for Freedom and Democracy (VVD) and the Farmer-Citizen Movement (BBB). These parties reached a coalition agreement on May 15.
+
+“I am very much looking forward to getting to work as prime minister,” Schoof wrote on X, formerly Twitter, under a picture of him signing decrees alongside the king.
+
+“For a safe and just Netherlands with social security for everyone. A grip on migration, dialogue, making choices and being clear about it. You can count on me,” he said.
+
+◼️
+
+[Data](articles/23ea2f14.json)
+
+---
+
+### இலங்கையை சர்வதேச நீதிமன்றத்தின் முன் பாரப்படுத்துவதற்கான பொறிமுறைகள் உள்ளதாக  தொழில்கட்சி கருதுகின்றது- தமிழர்களிற்கு  சுயநிர்ணய உரிமை மிகவும் அவசியமானது - பிரிட்டன் தேர்தலில் போட்டியிடும் பிரிட்டிஸ் தமிழர் டெவினா போல்
+
+*2024-07-03 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/187611) · `ta`
+
+இலங்கையை சர்வதேச நீதிமன்றத்தின் முன் பாரப்படுத்துவதற்கான பொறிமுறைகளும் மதிப்பிடும் வழிவகைகளும் காணப்படுகின்றன என பிரிட்டனின் தொழில்கட்சி கருதுகின்றது என அந்த கட்சியின் சார்பில் தேர்தலில் போட்டியிடும் பிரிட்டிஸ் தமிழரான டெவினா போல் தெரிவித்துள்ளார்.
+
+தமிழ் மக்களிற்கு சுயநிர்ணய உரிமை எவ்வளவு அவசியம் என்பதை நான் உணர்ந்துகொண்டிருக்கின்றேன் எனவும் அவர் தெரிவித்துள்ளார்
+
+தொழில் கட்சி  எப்போதும் சமாதானம் மற்றும் நீதி ஆகிய விடயங்களில் இலங்கை தமிழர்களுடன் தோளோடு தோள் நின்றுள்ளது.
+
+தொழில்கட்சியின் தலைவர் கெயர் ஸ்டாமெர், சபான் மக்டொனாக் ஸ்டீபன் டிம்ஸ்,எங்கள் எதிர்கால வெளிவிவகார அமைச்சர் டேவிட் லம்மி போன்றவர்களும் ஏனைய பலரும் இலங்கையில் யுத்தத்தின்போது இழைக்கப்பட்ட குற்றங்கள் மற்றும் தமிழர்கள் தொடர்ந்தும் அனுபவிக்கும் துயரங்களிற்கு போதிய நீதியும் பொறுப்புக்கூறலும் இல்லாமை குறித்து குரல்கொடுத்து வந்துள்ளனர்.
+
+...
+
+[Data](articles/d1fdbbb3.json)
+
+---
 
 ### A tendency to cause kidney disease from the skin chain
 
@@ -140,27 +178,35 @@ The parties should have a strong balance sheet and expertise, as there were the 
 
 ---
 
-### උදෑසන 7.30 සිට දහවල් 1.30 දක්වා කිසිවෙකුට පාසල් අධ්‍යාපනය කඩාකප්පල් කිරීමට දෙන්නේ නෑ
+### No one will sabotage school education from 7.30 am to 1.30 pm
 
 *2024-07-03 15:54:40* · [`adalk`](https://www.ada.lk/breaking_news/උදෑසන-7-30-සිට-දහවල්-1-30-දක්වා-කිසිවෙකුට-පාසල්-අධ්‍යාපනය-කඩාකප්පල්-කිරීමට-දෙන්නේ-නෑ/11-410591) · `si`
 
-ගුරු වෘත්තියට ඇතුළත් වන සියලුදෙනා අනාගත පරපුර වෙනුවෙන් තම සේවය කැප කළ යුතුයි
+Presidents Rajapaksa and Wickremesinghe emphasize the importance of uninterrupted school education, condemning any disruptions and calling for dedication to future generations. They discuss online systems for teacher transfers and promotions, ensuring fairness, and highlight the need for discipline in education. The presidents stress the role of educators in shaping the nation's future and the importance of maintaining educational standards across all sectors.
 
-උදෑසන 7.30 සිට දහවල් 1.30 දක්වා සෘජුව හෝ වක්‍රව කිසිවෙකුට පාසල් අධ්‍යාපනය කඩාකප්පල් කිරීමට ඉඩ දෙන්නේ නැහැ – ඒ වෙනුවෙන් ඉදිරියේ දී දැඩි ක්‍රියාමාර්ග.
+🟩
 
-මෙම කඩාකප්පල්කාරී ක්‍රියාවන්ට සහාය නොදෙන ලෙස ජනපති විපක්ෂයෙන් ද ඉල්ලයි.
+All who are in charge of the teaching should be sacrificed for future generations
 
-උසස්වීම් හෝ ගුරු මාරුවීම්වලදී කිසිවෙකුට අසාධාරණයක් වීමට ඉඩ දෙන්නේ නැහැ.
+From 7.30 am to 1.30 pm, no one will sabotage school education at 1.30 pm - heavy measures in the future.
 
-ඉදිරියේදී ගුරු මාරු සහ උසස්වීම් ක්‍රමවේදය මාර්ගගත තාක්ෂණය ඔස්සේ – 2159කට නව ගුරු පත්වීම් ප්‍රදානය කරමින් ජනපති පවසයි.
+President also requests opposition to not support these disruptive acts.
 
-ගුරු වෘත්තියට ඇතුළත් වන සියලුදෙනා අනාගත පරපුර වෙනුවෙන් තම සේවය කැප කළයුතු බවත් විනයක් නොමැතිව රටක අධ්‍යාපනය පවත්වාගෙන යා නොහැකි බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+No one will be treated unfairly in promotions or teacher shifts.
 
-උදෑසන 7.30 සිට දහවල් 1.30 දක්වා සෘජුව හෝ වක්‍රව කිසිවෙකුට පාසල් අධ්‍යාපනය කඩාකප්පල් කිරීමට ඉඩ නොතබන බවත්, ඒ පිළිබඳ අවශ්‍ය ඉදිරි ක්‍රියාමාර්ග සොයා බැලීමට තමා නීතිපතිවරයාට උපදෙස් දී තිබෙන බවත් ජනාධිපතිවරයා පැවසීය.
+President Mahinda Rajapaksa says the Teacher Transfer and Promoccess Appointment through online technology - 2159
+
+President Ranil Wickremesinghe emphasized all those in the teaching should be dedicated to future generations and education without discipline.
+
+The President said he would not allow school education directly or indirectly from 7.30 am to 1.30 pm and to investigate the future measures.
+
+President Ranil Wickremesinghe made this statement participating at a ceremony held at Temple Trees to grant appointments to the officials of the Education Administrative Service and Graduates and Diploma holders at Temple Trees.
 
 ...
 
 [Data](articles/afdc3b2d.json)
+
+[Extended Data](ext_articles/afdc3b2d.ext.json)
 
 ---
 
@@ -2285,51 +2331,5 @@ The agreement, set to be signed by the Sri Lanka Export Development Board (EDB),
 [Data](articles/45c59cfb.json)
 
 [Extended Data](ext_articles/45c59cfb.ext.json)
-
----
-
-### Working committee to develop framework to establish National Quality Council
-
-*2024-07-03 04:49:37* · [`dailyftlk`](https://www.ft.lk/business/Working-committee-to-develop-framework-to-establish-National-Quality-Council/34-763773) · `en`
-
-The Cabinet of Ministers on Monday approved the formation of a working committee tasked with developing and implementing the framework to establish the National Quality Council.
-
-The committee will comprise representatives from relevant line ministries and national quality institutions.
-
-The decision follows recommendations outlined in the National Quality Policy presented in 2016, the National Quality Infrastructure Strategy 2018-2022, and the National Export Strategy 2018-2022.
-
-Currently, the National Quality Institute and various national quality regulatory agencies operate independently under different line ministries. The proposed National Quality Council seeks to integrate these entities, streamlining operations and improving the overall quality standards across industries.
-
-The establishment of the council is expected to boost Sri Lanka’s efforts to enhance product quality and ensure compliance with international standards and export capabilities.
-
-◼️
-
-[Data](articles/db34895b.json)
-
-[Extended Data](ext_articles/db34895b.ext.json)
-
----
-
-### Opposition raises concerns with EC over Govt.’s misuse of public funds ahead of polls
-
-*2024-07-03 04:48:19* · [`dailyftlk`](https://www.ft.lk/news/Opposition-raises-concerns-with-EC-over-Govt-s-misuse-of-public-funds-ahead-of-polls/56-763772) · `en`
-
-Opposition alleges Govt. is diverting public funds under pretext of regional development to benefit specific candidates and parties
-
-to President’s office for regional development initiatives is an attempt to sway voter sentiment
-
-Condemns Government-sponsored projects such as “Urumaya,” rice subsidies, and free fertilisers, arguing these are politically motivated efforts
-
-Opposition parties and alliances have united in a formal appeal to the Election Commission of Sri Lanka (ECSL), raising urgent concerns about perceived Government efforts to exploit public resources for electoral gain.
-
-In a detailed letter addressed to the Commission, the Opposition groups highlighted several grievances regarding the conduct of the current administration leading up to the forthcoming elections.
-
-The opposition noted that while a Presidential election is constitutionally due within a month, the Government is allegedly diverting public funds towards partisan purposes under the guise of regional development.
-
-...
-
-[Data](articles/6ec40a56.json)
-
-[Extended Data](ext_articles/6ec40a56.ext.json)
 
 ---

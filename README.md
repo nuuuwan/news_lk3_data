@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 02:19:48**
+As of **2024-07-04 02:35:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,547 (100.0%) of 33,551 articles have been extended.
+33,551 (100.0%) of 33,551 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ People’s Bank Celebrated World Micro, Small, and Medium-sized Enterprises Day 
 ...
 
 [Data](articles/999f7b9c.json)
+
+[Extended Data](ext_articles/999f7b9c.ext.json)
 
 ---
 
@@ -62,6 +64,8 @@ The ‘Youth-Led Green and Inclusive Businesses’ project equipped young entrep
 
 [Data](articles/2ed1d158.json)
 
+[Extended Data](ext_articles/2ed1d158.ext.json)
+
 ---
 
 ### Ceylon Chamber launches SPARK 2024 Youth Entrepreneurship Competition
@@ -78,6 +82,8 @@ Participants in the competition will receive expert guidance, mentoring, and acc
 
 [Data](articles/49377361.json)
 
+[Extended Data](ext_articles/49377361.ext.json)
+
 ---
 
 ### Young Sri Lankan journalists embark on journey in entrepreneurship
@@ -93,6 +99,8 @@ The program was presented by the International Labour organisation, ILO and the 
 ...
 
 [Data](articles/555fed89.json)
+
+[Extended Data](ext_articles/555fed89.ext.json)
 
 ---
 

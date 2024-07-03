@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 08:53:58**
+As of **2024-07-03 09:04:56**
 
 ## Newspaper Stats
 
-*Scraped **33,416** Articles*
+*Scraped **33,419** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,866
 economynextcom | 1,954
 dailyftlk | 2,068
-adalk | 2,976
-adaderanalk | 3,807
+adalk | 2,977
+adaderanalk | 3,809
 tamilmirrorlk | 3,954
 dailymirrorlk | 4,733
 virakesarilk | 5,222
@@ -26,29 +26,71 @@ adaderanasinhalalk | 5,534
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,415 (100.0%) of 33,416 articles have been extended.
+33,416 (100.0%) of 33,419 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
-### සාගරගෙන් ආන්දෝලනාත්මක ප්‍රකාශයක්
+### Two dead in fire at estate houses in Yatiyanthota
+
+*2024-07-03 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100256/two-dead-in-fire-at-estate-houses-in-yatiyanthota) · `en`
+
+Two people have died in a fire that broke out in the early hours of today (03) in a row of estate houses in the Palallegama area of Yatiyanthota.
+
+According to the police, the victims were a 60-year-old man and a 50-year-old woman who were staying in the first estate house that was engulfed in flames.
+
+The fire has damaged three estate houses, and the cause of the fire is yet to be determined.
+
+◼️
+
+[Data](articles/efa84ef4.json)
+
+---
+
+### A controversial statement from the ocean
 
 *2024-07-03 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198432) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එක්සත් ජාතික පක්ෂයෙන් ඉවත් වී පොදුජන පෙරමුණේ පක්ෂ සාමාජිකත්වය ලබා ගන්නේ නම් ජනාධිපතිවරණ අපේක්ෂකත්වය ලබා දීම සම්බන්ධයෙන් සලකා බැලිය හැකි බව එම පක්ෂයේ මහ ලේකම් සාගර කාරියවසම් මන්ත්‍රිවරයා පවසයි.
+Savara Kariyawasam, UNP General Secretary, stated that President Ranil Wickremesinghe's leadership has led to his UNP membership but didn't confirm him as the common candidate for the upcoming presidential election. They discussed potential candidates without specifying individuals, indicating flexibility depending on future developments.
 
-පොදුජන පෙරමුණු පක්ෂ මූලස්ථානයේ  පැවති සාකච්ඡාවකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව සඳහන් කළේය.
+🟩
 
-"ඉදිරි ජනාධිපතිවරණයේ අපේක්ෂකත්වය සම්බන්ධයෙන් විශේෂයෙන්ම පුද්ගලයෙක් සම්බන්ධයෙන් අපි ඉදිරිපත් කළේ නෑ. ඕන අවස්ථාවේ දී නිසි පුද්ගලයා ඉදිරිපත් කරනවා. අපේ පක්ෂයෙන් පොහොට්ටුව ලකුණ යටතේ, අපේක්ෂකයෙක් ඉදිරිපත් කරනවා."
+UNP General Secretary Savara Kariyawasam says President Ranil Wickremesinghe has led to the UNP membership of the United National Party and the party membership of the President.
 
-ප්‍රශ්නය - ජනාධිපති රනිල් වික්‍රමසිංහ මහත්තයා පොදු අපේක්ෂකයා වෙන්නේ නැද්ද?
+He was speaking to the media after a discussion held at the Civil Front Party headquarters.
 
-"ශ්‍රී ලංකා පොදුජන පෙරමුණේ අපේක්ෂකයෙක් ඉදිරිපත් කරනවා පොහොට්ටුව ලකුණ යටතේ. එතුමාටත් පුළුවන් එක්සත් ජාතික පක්ෂයෙන් ඉවත් වෙලා පොහොට්ටු සාමාජිකත්වය අරන් එන්න. එහෙම වුණොත් අපි සලකා බලනවා."
+"We did not present regarding a person especially about the candidacy in the coming presidential election. The right person is presented at. Under the sign of our party, a candidate presents a candidate. "
+
+Q: Isn't the President Ranil Wickremesinghe become the common candidate?
+
+"A candidate on the Sri Lanka General Front is presented by the budget. He can also leave the UNP and bring the buds. If that happens, we will consider. "
 
 ◼️
 
 [Data](articles/d8477afa.json)
+
+[Extended Data](ext_articles/d8477afa.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-07-03 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100255/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers will occur at times in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Fairly heavy showers above 50mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts,it said.
+
+Showers or thundershowers may occur at several places in Uva province and in Ampara and Batticaloa districts in the evening or night.
+
+Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/40ebcf2b.json)
 
 ---
 
@@ -1522,6 +1564,22 @@ Goall won the Jire of Lanka Premier League and the match between the village.
 
 ---
 
+### ජාතික ආණ්ඩුවකට සහාය නොදෙන බවට සජබ යෝජනාවක් සම්මත කරයි
+
+*2024-07-02 18:44:50* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ආණ්ඩුවකට-සහාය-නොදෙන-බවට-සජබ-යෝජනාවක්-සම්මත-කරයි/11-410575) · `si`
+
+වර්තමාන ජනාධිපතිවරයාගේ මූලිකත්වයෙන් ජාතික ආණ්ඩුවක් පිහිටුවීම සඳහා වන කිසිදු යෝජනාවකට සමගි ජන බලවේගයේ කිසිදු ආකාරයකින් සහයෝගය නොදිය යුතු බවට යෝජනාවක් සමගි ජන බලවේගයේ මන්ත්‍රී කණ්ඩායම ඒකමතිකව අනුමත කර තිබේ.
+
+සමගි ජන බලවේගයේ නායක, විපක්ෂනායක සජිත් ප්රේ මදාස මහතාගේ ප්‍රධානත්වයෙන් අද (02දා) පාර්ලිමේන්තු සංකීර්ණයේදී මෙම රැස්වීම පැවති අතර, එහිදී සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී බුද්ධික පතිරණ මහතා විසින් එම යෝජනාව ගෙන ඒමට කටයුතු කර ඇත.
+
+මෙම යෝජනාව මීට පෙර පක්ෂ කෘත්‍යාධිකාරී මණ්ඩලයේදී අනුමත කර ගත් බවත්ඒ අනුව එම යෝජනාව නැවතත් ඒකමතිකව අනුමත කර ගත් බවත් සමගි ජන බලවේගයේ මහලේකම් පාර්ලිමේන්තු මන්ත්‍රී රංජිත් මද්දුමබණ්ඩාර මහත අද (02දා) පාර්ලිමේන්තු සංකීර්ණයේදී  සඳහන් කළේය.
+
+...
+
+[Data](articles/44f98902.json)
+
+---
+
 ### President, political leaders, public tribute to Sambandan
 
 *2024-07-02 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/187512) · `ta`
@@ -2207,81 +2265,5 @@ The President’s Counsel further mentioned that it is not possible to purchase 
 [Data](articles/56133f9f.json)
 
 [Extended Data](ext_articles/56133f9f.ext.json)
-
----
-
-### President to be sensitive to the past men's past men
-
-*2024-07-02 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198414) · `si`
-
-President Ranil Wickremesinghe praised late TNA leader Sampanthan for his commitment to Sri Lanka's territorial integrity, noting his unique views on power distribution. The President highlighted Sampanthan's significant contributions during challenging times and expressed his condolences in Parliament.
-
-🟩
-
-TNA leader of the late Member of Parliament. President Ranil Wickremesinghe says that Mr. Sampanthan has always appeared for the territorial integrity of Sri Lanka and he had his own opinion on how to divide power.
-
-The President pointed out that he had done enough work for it. He added that the highest function for Mr. Sampanthan is to end successfully completing it.
-
-President Ranil Wickremesinghe made this statement, R. A special statement was made in Parliament expressing his condolences on the demise of Mr. Sampanthan.
-
-"When I was in this story, MP is no longer among us, a hypocholana who is left to parliament with me in that day. I was able to work with him in very difficult times and I was reminded of the contribution made by him.
-
-He represented the Tamil United Liberation Front (TULF) and the TNA representing the TNA and always struggled for the territorial integrity of Sri Lanka.
-
-...
-
-[Data](articles/210f2635.json)
-
-[Extended Data](ext_articles/210f2635.ext.json)
-
----
-
-### Is it good for the fear of fear?
-
-*2024-07-02 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198413) · `si`
-
-In response to parliamentary questions, President Ranil Wickremesinghe outlined government efforts to combat poverty, malnutrition, and unemployment through initiatives like providing subsidized rice, housing grants, and promoting new factory investments. He defended economic policies and criticized opposition queries, emphasizing the need for unity and addressing concerns through reports from relevant committees.
-
-🟩
-
-President Ranil Wickremesinghe said that the government has taken measures to carry out new factories and poverty, including the inheritance and heritage in the country.
-
-The President was speaking to malnutrition, poverty, and unemployment??Responding to the question raised by the Opposition (02) in parliament today.
-
-Also, do the economy of the country and the prime minister will not accept the prime minister when the people are humble??The President also said, "The President said," The President added:
-
-The Opposition Leader questioned the suffering from malnutrition.
-
-The reconciliation program was implemented, the low income people were given ten kilograms of rice for two months. That is why the food delivery program was started.
-
-That is why Rs.
-
-That is why the ownership of the houses are given to these houses for two lakhu and a half lakhs and the people living in apartments. What else should you give?
-
-...
-
-[Data](articles/972753e9.json)
-
-[Extended Data](ext_articles/972753e9.ext.json)
-
----
-
-### Sri Lanka's 100 Octane 100 Octane opens
-
-*2024-07-02 16:08:54* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-ඔක්ටේන්-100-පෙට්‍රල්-අළෙවිය-අරම්භ-කරයි/11-410569) · `si`
-
-LIO starts selling 100 octane petrol today in select fuel stations, promising smoother drives and increased engine performance.
-
-🟩
-
-LIO this afternoon will commence marketing of 100 octators in several fuel stations.The company says.
-
-A smooth drive, a smooth drive, and higher engine capacity can be sold at Rs.
-
-◼️
-
-[Data](articles/54751df8.json)
-
-[Extended Data](ext_articles/54751df8.ext.json)
 
 ---

@@ -1,52 +1,100 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 11:55:06**
+As of **2024-07-03 12:08:43**
 
 ## Newspaper Stats
 
-*Scraped **33,449** Articles*
+*Scraped **33,455** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 305
+dbsjeyarajcom | 306
 colombotelegraphcom | 307
 bbccomsinhala | 327
 newsfirstlk | 363
 islandlk | 1,866
 economynextcom | 1,957
 dailyftlk | 2,068
-adalk | 2,981
-adaderanalk | 3,815
-tamilmirrorlk | 3,961
+adalk | 2,982
+adaderanalk | 3,816
+tamilmirrorlk | 3,963
 dailymirrorlk | 4,733
 virakesarilk | 5,225
-adaderanasinhalalk | 5,541
+adaderanasinhalalk | 5,542
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,440 (100.0%) of 33,449 articles have been extended.
+33,449 (100.0%) of 33,455 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
-### දැඩි ආරක්ෂාවක් මැද හරක් කටා අධිකරණයට
+### Teaching positions in national schools awarded to over 1,700 graduates
+
+*2024-07-03 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100264/teaching-positions-in-national-schools-awarded-to-over-1700-graduates) · `en`
+
+President Ranil Wickremesinghe presided over the appointment ceremony at Temple Trees a short while ago, where 60 individuals were appointed to Grade III general employee positions in the Sri Lanka Education Administration Service.
+
+Additionally, teaching positions in national schools were awarded to 1,706 graduates and 453 English diploma holders, according to the President’s Media Division (PMD).
+
+◼️
+
+[Data](articles/2330c925.json)
+
+---
+
+### ஐ.தே.கவில் இணைந்தார் கஹந்தவெல
+
+*2024-07-03 11:44:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-கவில்-இணைந்தார்-கஹந்தவெல/175-339812) · `ta`
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் கொழும்பு மாநகர சபை முன்னாள் உறுப்பினர் மஹிந்த கஹந்தவெல, ஐக்கிய தேசியக் கட்சியில் இணைந்து தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு தனது ஆதரவை உறுதியளித்துள்ளார்.
+
+◼️
+
+[Data](articles/947ea6f3.json)
+
+---
+
+### ජනපති අතින් පත්වීම් ලැබූ අලුත්ම පිරිස
+
+*2024-07-03 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198441) · `si`
+
+ශ්‍රී ලංකා අධ්‍යාපන පරිපාලන සේවයේ III ශ්‍රේණියේ සාමාන්‍ය සේවක තනතුරු සඳහා 60 දෙනෙකුට පත්වීම් ලබාදීමේ උත්සවය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පැවැත්විණි.
+
+මීට සුළු මොහොතකට පෙර අරලියගහ මන්දිරයේදී එම උත්සවය ආරම්භ වූ බව ජානාධිපති මාධ්‍ය ඒකකය සඳහන් කරයි.
+
+මෙම පත්වීම්වලට අමතරව උපාධිධාරීන් 1,706 දෙනෙකුට සහ ඉංග්‍රීසි ඩිප්ලෝමාධාරීන් 453 දෙනෙකුට ජාතික පාසල්වල ගුරු පත්වීම් ලබාදී තිබේ.
+
+◼️
+
+[Data](articles/caa6fcb2.json)
+
+---
+
+### In the middle of a heavy defense to beef court
 
 *2024-07-03 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198440) · `si`
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අත්අඩංගුවේ සිටියදී පළායාමට කුමන්ත්‍රණය කළේ යැයි චෝදනා එල්ල වී සිටින ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවකු බව පැවසෙන නඳුන් චින්තක වික්‍රමරත්න හෙවත් 'හරක් කටා' ඇතුළු විත්තිකරුවන් තුන් දෙනෙකුට එරෙහිව ගොනුකර තිබෙන නඩුව වැඩිදුර පූර්ව නඩු විභාග සම්මන්ත්‍රණය සඳහා ජුලි මස 29 වනදා කැඳවන ලෙස කොළඹ මහාධකරණය නියම කළේය.
+The Colombo High Court, under Judge Timith Thotawatte, charged three individuals as major drug dealers, based on a CID investigation. The trial, held amidst tight security, included a pre-trial conference on July 29th.
 
-එම නඩුව අද (03) කොළඹ මහාධිකරණ විනිසුරු දමිත් තොටවත්ත මහතා ඉදිරියේ කැඳවනු ලැබීය.
+🟩
 
-එම අවස්ථාවේදී විත්තිකාර හරක් කටා දැඩි ආරක්ෂක විධිවිධාන මැද අධිකරණයට ඉදිරිපත් කර තිබුණි.
+The Colombo High School was prescribed by the Criminal Investigation Department (CID) was a strong drug dealer, including Senior Drug Trafficking against three defendants. July 29, Colombo.
 
-ඉදිරිපත් වූ සියලු කරුණු සලකා බැලූ විනිසුරුවරයා එම නඩුවේ වැඩිදුර පූර්ව නඩු විභාග සම්මන්ත්‍රණය ජූලි මස 29 වනදා පැවැත්වීමටද දින නියම කළේය.
+The case was called before Colombo High Court Judge Timith Thotawatte.
+
+The beef has been produced in court in the middle of the heavy security measures.
+
+After considering all the facts that, the judge also prescribed the previous pre-trial conference on July 29.
 
 ◼️
 
 [Data](articles/b6ca1b3e.json)
+
+[Extended Data](ext_articles/b6ca1b3e.ext.json)
 
 ---
 
@@ -96,6 +144,8 @@ Kayts Police is conducting further investigations related to the incident.
 
 [Data](articles/62a2aa2a.json)
 
+[Extended Data](ext_articles/62a2aa2a.ext.json)
+
 ---
 
 ### Court order on Namal Karunaratne and others over planned protest
@@ -109,6 +159,8 @@ Accordingly, these locations named in the court order include the roads from Tec
 ◼️
 
 [Data](articles/1158878d.json)
+
+[Extended Data](ext_articles/1158878d.ext.json)
 
 ---
 
@@ -131,6 +183,8 @@ The document described a scene of utter chaos when the preacher at the congregat
 ...
 
 [Data](articles/3c24c8c9.json)
+
+[Extended Data](ext_articles/3c24c8c9.ext.json)
 
 ---
 
@@ -215,6 +269,26 @@ Intelligence on mortgage was revealed that the suspect named the suspect called 
 [Data](articles/fcfbd343.json)
 
 [Extended Data](ext_articles/fcfbd343.ext.json)
+
+---
+
+### உயிரை மாய்த்தது ரோபோ
+
+*2024-07-03 10:20:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உயிரை-மாய்த்தது-ரோபோ/50-339800) · `ta`
+
+உலகில் முதல்முறையாக ரோபோ ஒன்று உயிரை மாய்த்துக்கொண்டுள்ள சம்பவம் தென் கொரியாவில் பதிவாகியுள்ளது .
+
+தென் கொரியாவின் குமி நகர சபையில் அரசு ஊழியராக பணியாற்றிய ரோபோ தற்கொலை செய்து கொண்டதாக அந்நாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+குறித்த நகர சபையின் ஆவணங்களை எடுத்துச் செல்லும் பணியில் ஈடுபட்டிருந்த, ரோபோவின் உடல் , கட்டிடத்தின் முதல் மற்றும் இரண்டாவது தளங்களுக்கு இடையே கிடந்ததாகவும், படிக்கட்டில் இருந்து கீழே விழும் முன் ரோபோ சுழன்றுள்ளதாகவும் குமி நகர அதிகாரிகள் தெரிவித்த்துள்ளனர்.
+
+குறித்த ரோபோவுக்கு குமியில் வசிப்பவர்கள் இரங்கல் தெரிவித்துள்ளதுடன் , விசாரணைகளுக்காக நகர அதிகாரிகள், ரோபோவின் உடலை எடுத்துச் சென்றுள்ளதாகவும் அந்நாட்டு ஊடகங்கள் தெரிவித்துள்ளது .
+
+மேலும் நகரவாசிகள் இந்த விபத்தை தற்கொலை என்று கூறுவதாகவும் கொரிய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+◼️
+
+[Data](articles/21cb6cd4.json)
 
 ---
 
@@ -378,23 +452,29 @@ Kuhadasan nominated to fill Sampanthan’s MP seat by Adaderana Online on Scribd
 
 ---
 
-### අල්ටෙයාර් ගොඩනැගිල්ලෙන් පැන ජාත්‍යන්තර පාසලක සිදුවෙක් හා සිසුවියක් දිවි නසා ගනියි
+### A student and student commits suicide by jumping from the Ultar building
 
 *2024-07-03 09:39:45* · [`adalk`](https://www.ada.lk/breaking_news/අල්ටෙයාර්-ගොඩනැගිල්ලෙන්-පැන-ජාත්‍යන්තර-පාසලක-සිදුවෙක්-හා-සිසුවියක්-දිවි-නසා-ගනියි/11-410584) · `si`
 
-කොළඹ කුරුඳුවත්තේ ජාත්‍යන්තර පාසලක ඉගෙනුම ලබන  15 හැවිරිදි  සිසුවෙක් සහ සිසුවියක් කොම්පඤ්ඤවීදිය අල්ටෙයාර් සුඛෝභෝගී නිවාස සංකීර්ණයේ 67 මහලින්පැන සියදිවි නසාගෙන ඇතැයි කොම්පඤ්ඤවීදිය පොලිසිය කියයි.
+A tragic incident occurred at the Ultar building where two individuals, a 15-year-old and a 67-year-old, both students at the Cinnamon International School in Colombo, committed suicide by jumping. The victims were identified as students from Wellawatte and Kelaniya. Preliminary police investigations indicate that the victims were classmates and had attended a party together recently. The incident took place when they fell from the 67th floor of a luxury flat to the 3rd floor. The Slave Island Police OIC, Chief Inspector Kapila Vijayamamanna, is leading the investigation into this case.
 
-මෙලෙස මියගොස් ඇත්තේ වැල්ලවත්ත සහ කැලණිය පදිංචි සිසුවෙක් සහ සිසුවියක්ය.
+🟩
 
-මියගිය සිසුවිය සහ සිසුවා ජාත්‍යන්තර පාසලේ එකම පංතියක ඉගෙනුම ලබන අතර පාසල නිමවීමෙන් අනතුරුව ත්‍රීරෝද රථයක නැග පැමිණ ඇති බව පොලිස් විමර්ශන වලදී අනාවරණය වී ඇත.
+The Slave Island has committed suicide, a 15-year-old student and 67-year-old student at the Cinnamon International School in Colombo.
 
-පසුව ඔවුන් දෙදෙනා එහි පැවැති සාදයකට එක්ව තිබේ. එම සුඛෝභෝගී මහල් නිවාස සංකීර්ණයේ 67 වන මහලින් බිමට පැන ඇති ඔවුන් දෙදෙනා එහි 3 වන මහලට වැටී ඇති බව විමර්ශනවලදී අනාවරණය වී ඇත
+The deceased has been identified as a student of Wellawatte and Kelaniya and a student.
 
-කොම්පඤ්ඤ වීදිය පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක කපිල විජයමාන්න මහතාගේ උපදෙස් මත විමර්ශන සිදු කෙරේ
+Police investigations have revealed that the victim and the student was in the same class of the student.
+
+Later, they had together to a party. Investigations have revealed that the 67th floor of the luxury flats had fallen into the 3rd floor
+
+Investigations are conducted on the instructions of Slave Island Police OIC Chief Inspector Kapila Vijayamamanna
 
 ◼️
 
 [Data](articles/16a81415.json)
+
+[Extended Data](ext_articles/16a81415.ext.json)
 
 ---
 
@@ -524,6 +604,8 @@ In equities, Colombo’s All Share Price Index opened 3.56 points higher at 12,1
 
 [Data](articles/c1e84e78.json)
 
+[Extended Data](ext_articles/c1e84e78.ext.json)
+
 ---
 
 ### Fire at a series of apartments in Etiyantota;Two people die!
@@ -635,6 +717,8 @@ Sabry is currently in Tokyo, Japan where he met Foreign Minister of Japan Kamika
 ...
 
 [Data](articles/d220c26b.json)
+
+[Extended Data](ext_articles/d220c26b.ext.json)
 
 ---
 
@@ -797,6 +881,8 @@ The CPC had been directed in the past to take loans state banks and import oil w
 ...
 
 [Data](articles/1915a725.json)
+
+[Extended Data](ext_articles/1915a725.ext.json)
 
 ---
 
@@ -1345,6 +1431,20 @@ In this case, I repeatedly insist that the issue should be resolved before the e
 [Data](articles/b8f18521.json)
 
 [Extended Data](ext_articles/b8f18521.ext.json)
+
+---
+
+### Bhikku politics is a key causative factor of the national malaise and no system-change for the better is possible if political monks continue to propose and dispose.
+
+*2024-07-03 01:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84325) · `en`
+
+Sri Lanka always ranks low in the World Happiness Index; 128 out of 148 in 2024 (we rank 48 in Global Militarisation Index though, and possess the 17th largest military in the world). We are also a gloomy lot in terms of how we see the country’s future.
+
+According to a new Institute of Health Policy (IHP) poll, in May 2024, 80% of Lankan adults thought the country was heading in the wrong direction. Just 4% thought the country was on the right path; a slight improvement compared to February 2024 when 0% felt the country was on the correct track (https://ihp.lk/research-updates/number-sri-lankans-thinking-country-heading-wrong-direction-continues-increase).
+
+...
+
+[Data](articles/967f98cf.json)
 
 ---
 
@@ -2034,6 +2134,24 @@ Tharushi Karunaratne is eligible to represent the 800 meter event event and is e
 
 ---
 
+### රාජ්‍ය සේවයේ මූලික වැටුප රු. 20000කින් වැඩිකරන්නැයි ඉල්ලයි
+
+*2024-07-02 20:07:54* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයේ-මූලික-වැටුප-රු--20000කින්-වැඩිකරන්නැයි-ඉල්ලයි/11-410581) · `si`
+
+රාජ්‍ය සේවක මූලික වැටුප රුපියල් විසිදහසකින් ඉහළ දමන ලෙස ඉල්ලා මේ මස 08 හා 09වන දින සේවයෙන් ඉවත්ව සිටීමේ වෘත්තීය ක්‍රියාමාර්ගයක් සිදුකරන බව රාජ්‍ය සේවා වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
+
+පසුගිය කාලයේදීමහ බැංකු සේවකයන්ගේ හා විධායක නිලධාරීන්ගේ වැටුප් හා දීමනා වැඩි කළ බවත් එහෙත්රාජ්‍ය සේවයේ පහළ සේවාවන් සඳහා කිසිදු අයුරකින් වැටුප් හෝ දීමනාවක් ඉහළ දමා නොමැති බවද එම සන්ධානයේ සමකැඳවුම්කරු ධම්මික මුණසිංහ මහතා සඳහන් කළේය.
+
+රාජ්‍ය සේවා වෘත්තීය සමිති සන්ධානය ලෙස මේ සම්බන්ධයෙන් පසුගිය කාලය පුරා අදාළ බලධාරීන් සමග සාකච්ඡා කිරීමට අවස්ථාවක් ලබා ගැනීමට උත්සාහකළ බවත් එහෙත් සාකච්ඡාවක් ලබා දීමටවත් බලධාරීන් කටයුතු නොකළ බවද පැවසීය.
+
+මේ නිසා වැටුප් වැඩිවීමක් ඉල්ලා අකමැත්තෙන් වුවද වෘත්තීය ක්‍රියාමාර්ග ගැනීමට සිදුව තිබෙන බවත් මේ අනුව අදාළ ඉල්ලීම් මුල්කර ගනිමින් මෙම දින දෙක තුළදීසංවර්ධන නිලධාරීන්, කළමනාකරණ සේවා නිලධාරීන්, තැපැල් සේවකයන් හා කාර්යාල කාර්ය සහායක සේවාවල පිරිස් සේවයෙන් ඉවත්වන බවද සඳහන් කළේය.
+
+◼️
+
+[Data](articles/3f84247a.json)
+
+---
+
 ### Cole Marwals won the last ball of Jevna Kings in the most exciting LPL
 
 *2024-07-02 19:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/187540) · `ta`
@@ -2147,141 +2265,5 @@ He further stated that President Mahinda Rajapaksa has discussed the Chinese Pre
 [Data](articles/3c0ba648.json)
 
 [Extended Data](ext_articles/3c0ba648.ext.json)
-
----
-
-### A change of 15 highest chairs
-
-*2024-07-02 19:16:23* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසියේ-ඉහළම-පුටු-15ක-වෙනසක්/11-410578) · `si`
-
-Six DIGs and six SSPs have been transferred immediately due to police restructuring. Key moves include DIG G.R. Mr. Wijesinghe moving to Hambantota, DIG Sarath Kumara to the Field Force, and several others reassigned across various districts like Anuradhapura, Kalutara, Batticaloa, Kurunegala, and Badulla. These changes were ordered by the IGP as part of the National Police Commission's directives.
-
-🟩
-
-Six DIGs and six senior Superintendents of Police have been transferred with immediate effect.
-
-Accordingly, the Police Field Force Headquarto District DIG GID. R. Mr. Wijesinghe has been transferred to the DIG of Hambantota District, DIG Sarath Kumara to be transferred to the Field Force of the Field Force.
-
-Deputy Inspector General of Anuradhapura GSNL. Mr. Wijesena as DIG in the Kalutara District and DIG IP in Kalutara. BT. Mr. Sugathapala as DIG in charge of Anuradhapura and Batticaloa District Hon.. LBNP. Mr. Liyanage to perform duties of DIG in charge of the Kurunegala District and DIG in Kurunegala. SPC. Mr. Weddamul has been transferred to perform the duties of the DIG in Badulla District.
-
-The transfers have been made according to the orders of the IGP as per the National Police Commission.
-
-...
-
-[Data](articles/add77b75.json)
-
-[Extended Data](ext_articles/add77b75.ext.json)
-
----
-
-### Telephone owner arrested on telephone call in Kandy court
-
-*2024-07-02 19:09:55* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-අධිකරණයේ-බෝම්බ-බිය-ඇති-කළ-දුරකතන-ඇමතුමේ-දුරකතන-හිමිකරු-අල්ලයි/11-410577) · `si`
-
-A 53-year-old man was arrested during a phone call in Kandy court after police found a bomb. The arrest was made based on information from the Kandy Headquarters Polonnaruwa, where it was reported that the suspect was involved in a bombing incident.
-
-🟩
-
-He was arrested by the police who were arrested by the police who had a bomb with a bomb with a bomb of the court.
-
-According to the address given by the Kandy Headquarters Polonnaruwa, the person was arrested by the fire and enjoying police.
-
-The arrested person is a 53-year-old bus.
-
-However, the person's mobile phone is unstable as well as if he is the case, he has begun to determine if he is going to exploit him.
-
-◼️
-
-[Data](articles/e292c9aa.json)
-
-[Extended Data](ext_articles/e292c9aa.ext.json)
-
----
-
-### President and Sajith debate over
-
-*2024-07-02 19:04:11* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-සජිත්-අතර-‘සුබ-අසුබ’-විවාදය/11-410576) · `si`
-
-In a parliamentary debate, President Ranil Wickremesinghe and Opposition Leader Sajith Premadasa discussed issues including malnutrition, job losses, brain drain, rising poverty, support for small and medium industries, healthcare, and the state of entrepreneurship. Wickremesinghe defended his government's actions, such as providing subsidized rice and housing, and claimed efforts were being made to combat poverty and stimulate the economy.
-
-🟩
-
-President Ranil Wickremesinghe and Opposition Leader Sajith Premadasa had debate in parliament today (02).
-
-President Ranil Wickremesinghe made a special statement in Parliament yesterday, which had the debate with the Opposition Leader.
-
-Opposition Leader Sajith Premadasa - You told you a story good. I'd like to ask the malnutrition from the President happy?Is the loss of jobs good?Do the country's educated people leave the country?Is the rise of poverty?Small mid industries good good and the illness?Is it good for entrepreneurs to get out of business?When you eat the construction industry and falling, the dietary vesses eating the two wels, the President does not take the same time at the same time, and the president will not take the same time at the same time.
-
-...
-
-[Data](articles/554bfee6.json)
-
-[Extended Data](ext_articles/554bfee6.ext.json)
-
----
-
-### The uncertainty in achieving debt status has come to an end - Finance Minister Sehan Semasinghe
-
-*2024-07-02 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/187536) · `ta`
-
-Sri Lanka's Finance Minister Xihan Semasinghe announced the resolution of uncertainties surrounding the country's debt restructuring, attributing confidence from the international community despite internal political obstacles. The minister highlighted successful negotiations with bilateral creditors and the China Exim Bank, securing crucial agreements for economic recovery. He emphasized the complexity of debt restructuring for middle-income countries like Sri Lanka, contrasting it with lower-income nations, and assured that the country is leading in this aspect among its peers. The minister also mentioned the reduction of inflation and interest rates as part of the economic management efforts.
-
-🟩
-
-Finance Minister Xihan Semasinghe said that all the uncertainty in Sri Lanka's uncertainty in Sri Lanka has now ended.
-
-The Minister of State said that the international community is confident of Sri Lanka's debt restructuring, but some parties in Sri Lanka have refused to see it with their political goals.
-
-Finance Minister Xihan Semasinghe said this at a media briefing held at the Presidential Media Center today (02).
-
-The good news on the debt renovation that is necessary to rebuild the country's economy. On June 26, agreements and agreements were signed with the countries of the bilateral credit issuer and the countries of the Bilateral Credit Provincial Council as official credit providers.
-
-...
-
-[Data](articles/db2a1346.json)
-
-[Extended Data](ext_articles/db2a1346.ext.json)
-
----
-
-### The goal was a sharp win
-
-*2024-07-02 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198420) · `si`
-
-Goal won the Jire of Lanka Premier League, defeating the village team in a sharp victory.
-
-🟩
-
-Goall won the Jire of Lanka Premier League and the match between the village.
-
-◼️
-
-[Data](articles/4817ba29.json)
-
-[Extended Data](ext_articles/4817ba29.ext.json)
-
----
-
-### A proposal that a national government will not support a national government
-
-*2024-07-02 18:44:50* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ආණ්ඩුවකට-සහාය-නොදෙන-බවට-සජබ-යෝජනාවක්-සම්මත-කරයි/11-410575) · `si`
-
-A national government proposal was rejected by a department due to financial corruption allegations. The decision was made during a meeting chaired by Sajith Basasa at the Parliamentary Complex. This move comes after previous attempts to form a national government failed due to similar issues two years ago.
-
-🟩
-
-The department has unanimously approved a proposal to provide no proposal to any proposal to establish a national government under the patronage of the present President.
-
-The meeting was held at the Parliamentary Complex at the Parliamentary Complex today under the patronage of the Leader of the Agreement Leader Sajith Basasa.
-
-The General Secretary of the JVP MP Ranjith Madduma Bandara stated that the proposal was approved at the Working Working Committee before the Parliamentary Complex today (02).
-
-"Today we gathered the MP's member. I remember that 2 years ago to all parties to come to a national government. We decided that we were not going to a national government with the allegations of bankruptcy charges in bankruptcy to the unity power of the country.. We further assured our party working committee and the UNP group. Accordingly, we unanimously approved the suggestion that Buddhika Pathirana was brought. "
-
-◼️
-
-[Data](articles/44f98902.json)
-
-[Extended Data](ext_articles/44f98902.ext.json)
 
 ---

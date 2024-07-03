@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 13:35:08**
+As of **2024-07-03 13:54:48**
 
 ## Newspaper Stats
 
-*Scraped **33,470** Articles*
+*Scraped **33,471** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,818
 tamilmirrorlk | 3,965
 dailymirrorlk | 4,733
 virakesarilk | 5,229
-adaderanasinhalalk | 5,545
+adaderanasinhalalk | 5,546
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,470 (100.0%) of 33,470 articles have been extended.
+33,470 (100.0%) of 33,471 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### ගුරුවරුන් ට ජනපති සැරවෙයි
+
+*2024-07-03 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198445) · `si`
+
+පාසල් අධ්‍යයන කටයුතු පැවැත්වෙන කාලය තුළ සෘජුව හෝ වක්‍රව අධ්‍යාපනය කඩාකප්පල් කරන පිරිස්වලට එරෙහිව ගත යුතු පියවර සම්බන්ධයෙන් තමා නීතිපති උපදෙස් ඉල්ලු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+අද පෙරවරුවේ අරලියගහ මන්දිරයේ පැවති ගුරු පත්වීම් ලබාදීමේ උත්සවයක් අමතමින් ජනාධිපතිවරයා කියා සිටියේ කඩාකප්පල්කාරී ක්‍රියාවලට තමා ඉඩ නොතබන බවය.
+
+...
+
+[Data](articles/0b40fe43.json)
+
+---
 
 ### Tragedy of the Super Housing Complex - Testing through CCTV
 
@@ -1136,7 +1150,7 @@ R. Mr. Sampanthan's body will be taken tomorrow (04) and will be deposited for p
 
 ECONOMYNEXT – Sri Lanka’s state-run Ceylon Petroleum Corporation had spent 648.7 million US dollars in oil imports in the first four months of 2024, down from 828.4 million dollars with the entry of other players, a Finance Ministry report said.
 
-CPC’s turnover fell to 389.1 billion rupees up to April 2024 down 16.6 percent from 389.1 billion rupees.
+CPC’s turnover fell to 389.1 billion rupees up to April 2024 down 16.6 percent from 446.8 billion rupees a year ago.
 
 Cost of sales fell by 13.5 percent to 337.4 billion rupees from 390.1 billion rupees.
 
@@ -2275,23 +2289,5 @@ In a post on ‘X’ (formerly Twitter), Wijesekera stated that he had a meeting
 [Data](articles/e934fb10.json)
 
 [Extended Data](ext_articles/e934fb10.ext.json)
-
----
-
-### Introducing the new type of petrol in Sri Lanka
-
-*2024-07-02 21:31:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-புதிய-வகை-பெற்றோல்-அறிமுகம்/175-339767) · `ta`
-
-Sri Lanka introduces 100 octane petrol distributed by Lanka IOC, aiming to improve fuel quality.
-
-🟩
-
-Minister of Power and Energy Kanjana Wijesekera said that Lanka IOC will distribute 100 octane parents to the market today (02).
-
-◼️
-
-[Data](articles/f49ebf10.json)
-
-[Extended Data](ext_articles/f49ebf10.ext.json)
 
 ---

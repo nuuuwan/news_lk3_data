@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 03:35:20**
+As of **2024-07-04 03:53:41**
 
 ## Newspaper Stats
 
-*Scraped **33,555** Articles*
+*Scraped **33,559** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 330
 newsfirstlk | 363
 islandlk | 1,867
 economynextcom | 1,967
-dailyftlk | 2,075
+dailyftlk | 2,079
 adalk | 2,996
 adaderanalk | 3,829
 tamilmirrorlk | 3,969
@@ -26,11 +26,75 @@ adaderanasinhalalk | 5,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,555 (100.0%) of 33,555 articles have been extended.
+33,555 (100.0%) of 33,559 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### EDB partners with Swiss SECO to launch GTEX2 to boost apparel industry
+
+*2024-07-04 03:35:20* · [`dailyftlk`](https://www.ft.lk/business/EDB-partners-with-Swiss-SECO-to-launch-GTEX2-to-boost-apparel-industry/34-763833) · `en`
+
+The Export Development Board (EDB) yesterday entered into a strategic agreement with the State Secretariat for Economic Affairs of Switzerland (SECO) to implement the second phase of the Global Program on Textile and Clothing (GTEX2), aimed at enhancing the apparel sector.
+
+The five-year program, running from 2024 to 2027, is funded by the Swiss Government and organised in collaboration with the Swedish International Development Cooperation Agency (SIDCA) and the International Trade Centre (ITC), which provides technical assistance. A National Project Coordinator (NPC) has been appointed in Sri Lanka to oversee the project’s implementation.
+
+...
+
+[Data](articles/fe7440ed.json)
+
+---
+
+### Amunugama highlights apparel industry challenges amid opportunities for growth
+
+*2024-07-04 03:33:23* · [`dailyftlk`](https://www.ft.lk/business/Amunugama-highlights-apparel-industry-challenges-amid-opportunities-for-growth/34-763832) · `en`
+
+State Minister of Investment Promotion Dilum Amunugama yesterday said although Sri Lanka’s apparel and textile industry stands as a robust and ethical sector poised to meet global demands, it must navigate a complex landscape of challenges and opportunities.
+
+Speaking at the launch event of the second phase of the Global Program on Textile and Clothing (GTEX2), he outlined that strategic support and investment are essential to leverage the sector’s strengths and drive sustainable growth.
+
+He identified several significant challenges hindering the industry’s growth, including the adoption of new technologies such as automation and data analytics, shifting consumer demands towards just-in-time production and competition for labour with other sectors.
+
+...
+
+[Data](articles/9d10d9ca.json)
+
+---
+
+### Institute of Management of Sri Lanka holds AGM
+
+*2024-07-04 03:31:19* · [`dailyftlk`](https://www.ft.lk/business/Institute-of-Management-of-Sri-Lanka-holds-AGM/34-763831) · `en`
+
+Re-elects Senior Prof. Sarath S. Kodithuwakku as President and bestows Honorary Fellowships to the UGC Chairman and two Vice Chancellors
+
+University of Colombo Vice Chancellor Senior Prof H.D. Karunarathna FIM (SL)
+
+The Institute of Management of Sri Lanka (IMSL), the apex professional body of management in the country, recently held its annual general meeting, marking a significant event in the Sri Lankan management community.
+
+Incorporated by Act of Parliament No. 67 on 17 December 1988. IMSL is the sole management organisation in Sri Lanka that is recognised as a full Sri Lankan member of the Asian Management Organisations (AAMO).
+
+...
+
+[Data](articles/bdc5a703.json)
+
+---
+
+### BoardPAC awarded carbon neutral certification for second consecutive year
+
+*2024-07-04 03:23:47* · [`dailyftlk`](https://www.ft.lk/business/BoardPAC-awarded-carbon-neutral-certification-for-second-consecutive-year/34-763830) · `en`
+
+From left: SLCF Acting Chief Executive Officer Harshani Abeyrathna, BoardPAC Operations Manager Thusitha Jayanath, Former Environment Ministry Secretary and SLCF Chairman Dr. Anil Jasinghe, BoardPAC Operations and Systems Vice President Buddhika Abeygooneratne, BoardPAC Human Resources Director Sudeshi Salwathura, SLCF Verification Executive Wageesha Alankara, and SLCF Verification Executive Dilini Liyanage
+
+BoardPAC has proudly earned the Carbon Neutral Certificate for 2022 from the Sri Lanka Climate Fund (SLCF), an organisation operating under the Environment Ministry committed to fostering a low-carbon business economy and promoting sustainable lifestyle choices.
+
+This remarkable achievement underscores BoardPAC’s dedication to environmental responsibility and is a key milestone in its environmental, social, and governance (ESG) journey.
+
+...
+
+[Data](articles/4a78ebbf.json)
+
+---
 
 ### Five reasons why Ranil must be superseded in 100 days
 
@@ -776,7 +840,7 @@ Kusal Perera scored 102 runs for the Dambulla Team.
 
 ---
 
-### Sri Lanka port trade unions protest increase in female labor force
+### Sri Lanka port trade unions oppose increase in female gantry operators: Ministser
 
 *2024-07-03 18:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-trade-unions-protest-increase-in-female-labor-force-170719/) · `en`
 
@@ -2269,95 +2333,5 @@ After considering all the facts that, the judge also prescribed the previous pre
 [Data](articles/b6ca1b3e.json)
 
 [Extended Data](ext_articles/b6ca1b3e.ext.json)
-
----
-
-### Boat to Tangalle
-
-*2024-07-03 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198439) · `si`
-
-The bodies of the four fishermen from the "Dovon 05" were transported to Tangalle Fisheries Harbor on March 3rd. Following a magisterial inquiry, they will undergo a post-mortem examination at Tangalle Hospital.
-
-🟩
-
-The bodies of the four fishermen of the five "Dovon 05" fishermen were brought to the Tangalle Fisheries Harbor.
-
-The sailway carrying the bodies were brought to Tangalle Fisheries Harbor today (03).
-
-The vessel of the industrial fault has been brought to Tangalle Fisheries Harbor using another vessel.
-
-The body has been placed on the vessel until the magisterial inquiry into the magisterial inquiry into the bodies.
-
-The dead bodies will be taken to the Tangalle Hospital for the post mortem examination following the magisterial inquiry.
-
-◼️
-
-[Data](articles/95e9e7ff.json)
-
-[Extended Data](ext_articles/95e9e7ff.ext.json)
-
----
-
-### One dead, 3 hospitalised as boat capsizes off Kayts
-
-*2024-07-03 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100263/one-dead-3-hospitalised-as-boat-capsizes-off-kayts) · `en`
-
-One person has drowned while another 3 individuals have been hospitalised after a boat capsized last night (02) near the Kurikadduwan Jetty, in Kayts.
-
-Police stated that the incident had occurred when the boat capsized while transporting rocks to Nainathivu.
-
-A total of 4 persons were onboard the boat at the time of the incident and one of them had drowned, said the police.
-
-The other three persons were rescued by residents in the area and have been admitted to the hospital for treatment.
-
-The deceased is identified as a 42-year-old resident of the Punkudutivu area and, the body has been placed in the Jaffna Teaching Hospital for the post-mortem examination.
-
-Kayts Police is conducting further investigations related to the incident.
-
-◼️
-
-[Data](articles/62a2aa2a.json)
-
-[Extended Data](ext_articles/62a2aa2a.ext.json)
-
----
-
-### Court order on Namal Karunaratne and others over planned protest
-
-*2024-07-03 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100262/court-order-on-namal-karunaratne-and-others-over-planned-protest-) · `en`
-
-The Maligakanda Magistrate’s court has issued an order prohibiting Namal Karunaratne of the All Ceylon Agrarian Federation and others from conducting any protest demonstrations and marches while inconveniencing the public using the roads and pavements at several locations in Colombo.
-
-Accordingly, these locations named in the court order include the roads from Technical Junction, Deans Road, Ibbanwala Junction, and Gamini Hall Junction etc.
-
-◼️
-
-[Data](articles/1158878d.json)
-
-[Extended Data](ext_articles/1158878d.ext.json)
-
----
-
-### Death toll of stampede at Hindu congregation in India rises to 121
-
-*2024-07-03 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100260/death-toll-of-stampede-at-hindu-congregation-in-india-rises-to-121) · `en`
-
-The death toll from a stampede at a Hindu religious congregation in northern India has risen to 121, news agency ANI reported on Wednesday, where a police report said the number of people present was more than triple the permitted capacity.
-
-The stampede on Tuesday was at the religious event in a village in Hathras district of Uttar Pradesh state, about 200 km (125 miles) southeast of New Delhi, where police had given permission for 80,000 people to gather, according to the document, the first information report.
-
-Around 250,000 people attended the event, according to the police report reviewed by Reuters.
-
-At least 121 people were killed and 28 were injured, ANI news agency reported, citing local officials.
-
-The victims included 108 women and seven children, Manoj Kumar Singh, Uttar Pradesh state’s chief secretary, told reporters.
-
-The document described a scene of utter chaos when the preacher at the congregation, Surajpal, also known as ‘Bhole Baba’, was leaving in his car.
-
-...
-
-[Data](articles/3c24c8c9.json)
-
-[Extended Data](ext_articles/3c24c8c9.ext.json)
 
 ---

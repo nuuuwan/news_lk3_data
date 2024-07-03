@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 17:19:33**
+As of **2024-07-03 17:35:16**
 
 ## Newspaper Stats
 
-*Scraped **33,505** Articles*
+*Scraped **33,506** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,867
 economynextcom | 1,962
 dailyftlk | 2,068
-adalk | 2,988
+adalk | 2,989
 adaderanalk | 3,823
 tamilmirrorlk | 3,967
 dailymirrorlk | 4,733
@@ -26,25 +26,33 @@ adaderanasinhalalk | 5,552
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,504 (100.0%) of 33,505 articles have been extended.
+33,505 (100.0%) of 33,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
-### සම සුදුවෙන ක්‍රීම්වලින් වකුගඩු රෝග ඇතිවීමේ ප්‍රවණතාවයක්
+### A tendency to cause kidney disease from the skin chain
 
 *2024-07-03 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198451) · `si`
 
-සම සුදුවීම සඳහා භාවිත කරන විවිධ ක්‍රීම් වර්ග හේතුවෙන් පිළිකාවලට ගොදුරුවූ පුද්ගලයින්ට වඩා වකුගඩු රෝගවලට ගොදුරුවූ පුද්ගලයින්ගේ සංඛ්‍යාව ඉහළ ගොස් ඇති බව සෞඛ්‍ය අංශ සඳහන් කරයි.
+The increase in kidney disease cases exceeds the rise in skin cream users. A health official warns that unregulated creams may contain harmful levels of mercury, leading to kidney damage. Short-term effects like dark palms and nails indicate potential harm. The government plans to reduce mercury levels in cosmetics to zero, emphasizing the importance of responsible skincare products.
 
-අද (03) පෙරවරුවේ සෞඛ්‍ය ප්‍රවර්ධන කාර්යංශයේ පැවති මාධ්‍ය හමුවකට එක් වෙමින් ජාතික රෝහල් සම පිළිබඳ විශේෂඥ වෛද්‍ය ඉන්දිරා කහවිට මහත්මිය ඒ බව සඳහන් කළාය.
+🟩
 
-"ලෝක සෞඛ්‍ය සංවිධානය සහා ශ්‍රී ලංක සෞඛ්‍ය අමාත්‍යාංශය අතර වැඩපිළිවෙළක් යනවා රසදිය පාවිච්චිය සම්පූර්ණයෙන් නැති කරන්න. ඒ කියන්නේ රසදිය ප්‍රමාණය බිංදුව වෙන්නේ ඕනේ. දැන් මේවා පාවිච්චි කරන්නේ එක තැනකට නෙමෙයිනේ මුළු ඇඟේම. මුළු සිරුරෙම විශාල රසදිය ප්‍රමාණයක් අලේප කළාම ඒක සම හරහා රුධිරයට අවශෝෂණය වෙන්නේ නැහැ කියලා කිසිම වගකීමක් නැහැ. එතකොට එහෙම වුණාම ඇත්තටම රසදියවලින් පිලිකාවලට වඩා වෙන්න පුළුවන් දේ තමයි වකුගඩු අකර්මන්‍ය වීම. ශ්‍රී ලංකාව කියන්නේ හේතුවක් හඳුනා නොගත් වකුගඩු රෝග ඉතාම බහුලව තියෙන රටක්. ඒකට මේවයින් බලපෑමක් වෙනවාද කියන එක අපි කොහොමද පෙන්වන්නේ ?"
+The number of people who suffer from kidney disease has increased more than the people who are used by various cream for the skin.
+
+A press conference held at the Health Promotion Bureau this morning (03) was speaking at the National Hospital Specialist Dr. Indira Kahawita.
+
+"World Health Organization & Sri Lanka Health Ministry of Sri Lanka Is going to be fully damaged. That means the amount of mercury is to zero. Now they use to one place the whole. There is no responsibility that the whole body is not absorbed by the skin through the skin. When it was, what could be more than provides than inventions, the kidneys. Sri Lanka is a wide range of kidney disease who has not identified a cause. How do we show that it affects us? "
+
+"In 24 hours, there are approximately 60 clinics that I check. Six of the entire number of people named 10% of the broad creamy. These are not the long-term.. Most of the Stretch marks. "
 
 ...
 
 [Data](articles/d018290a.json)
+
+[Extended Data](ext_articles/d018290a.ext.json)
 
 ---
 
@@ -129,6 +137,30 @@ The parties should have a strong balance sheet and expertise, as there were the 
 [Data](articles/8a968759.json)
 
 [Extended Data](ext_articles/8a968759.ext.json)
+
+---
+
+### උදෑසන 7.30 සිට දහවල් 1.30 දක්වා කිසිවෙකුට පාසල් අධ්‍යාපනය කඩාකප්පල් කිරීමට දෙන්නේ නෑ
+
+*2024-07-03 15:54:40* · [`adalk`](https://www.ada.lk/breaking_news/උදෑසන-7-30-සිට-දහවල්-1-30-දක්වා-කිසිවෙකුට-පාසල්-අධ්‍යාපනය-කඩාකප්පල්-කිරීමට-දෙන්නේ-නෑ/11-410591) · `si`
+
+ගුරු වෘත්තියට ඇතුළත් වන සියලුදෙනා අනාගත පරපුර වෙනුවෙන් තම සේවය කැප කළ යුතුයි
+
+උදෑසන 7.30 සිට දහවල් 1.30 දක්වා සෘජුව හෝ වක්‍රව කිසිවෙකුට පාසල් අධ්‍යාපනය කඩාකප්පල් කිරීමට ඉඩ දෙන්නේ නැහැ – ඒ වෙනුවෙන් ඉදිරියේ දී දැඩි ක්‍රියාමාර්ග.
+
+මෙම කඩාකප්පල්කාරී ක්‍රියාවන්ට සහාය නොදෙන ලෙස ජනපති විපක්ෂයෙන් ද ඉල්ලයි.
+
+උසස්වීම් හෝ ගුරු මාරුවීම්වලදී කිසිවෙකුට අසාධාරණයක් වීමට ඉඩ දෙන්නේ නැහැ.
+
+ඉදිරියේදී ගුරු මාරු සහ උසස්වීම් ක්‍රමවේදය මාර්ගගත තාක්ෂණය ඔස්සේ – 2159කට නව ගුරු පත්වීම් ප්‍රදානය කරමින් ජනපති පවසයි.
+
+ගුරු වෘත්තියට ඇතුළත් වන සියලුදෙනා අනාගත පරපුර වෙනුවෙන් තම සේවය කැප කළයුතු බවත් විනයක් නොමැතිව රටක අධ්‍යාපනය පවත්වාගෙන යා නොහැකි බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+
+උදෑසන 7.30 සිට දහවල් 1.30 දක්වා සෘජුව හෝ වක්‍රව කිසිවෙකුට පාසල් අධ්‍යාපනය කඩාකප්පල් කිරීමට ඉඩ නොතබන බවත්, ඒ පිළිබඳ අවශ්‍ය ඉදිරි ක්‍රියාමාර්ග සොයා බැලීමට තමා නීතිපතිවරයාට උපදෙස් දී තිබෙන බවත් ජනාධිපතිවරයා පැවසීය.
+
+...
+
+[Data](articles/afdc3b2d.json)
 
 ---
 
@@ -2299,25 +2331,5 @@ The opposition noted that while a Presidential election is constitutionally due 
 [Data](articles/6ec40a56.json)
 
 [Extended Data](ext_articles/6ec40a56.ext.json)
-
----
-
-### Govt. moves to boost women’s economic participation via Rs. 2 b special loan scheme
-
-*2024-07-03 04:46:35* · [`dailyftlk`](https://www.ft.lk/news/Govt-moves-to-boost-women-s-economic-participation-via-Rs-2-b-special-loan-scheme/56-763771) · `en`
-
-The Government has decided to allocate Rs. 2 billion of the Rs. 20 billion special loan scheme to eliminate financial barriers and empower women in the Micro, Small and Medium Enterprises (MSMEs).
-
-The move follows a Cabinet decision on 26 February, where the Government allocated Rs. 20 billion to reinvigorate the enterprise sector.
-
-The Cabinet of Ministers on Monday approved implementing the special loan scheme that is expected to provide much-needed support to women entrepreneurs, helping them overcome the barriers that have traditionally impeded their financial independence and economic contribution.
-
-“Despite Sri Lanka’s efforts to foster economic growth, women’s participation in the country’s economic activities remains lower compared to regional and Asian countries,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said.
-
-...
-
-[Data](articles/365c77a7.json)
-
-[Extended Data](ext_articles/365c77a7.ext.json)
 
 ---

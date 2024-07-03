@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 06:01:22**
+As of **2024-07-03 07:01:21**
 
 ## Newspaper Stats
 
-*Scraped **33,406** Articles*
+*Scraped **33,407** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adaderanalk | 3,807
 tamilmirrorlk | 3,951
 dailymirrorlk | 4,733
 virakesarilk | 5,222
-adaderanasinhalalk | 5,528
+adaderanasinhalalk | 5,529
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,393 (100.0%) of 33,406 articles have been extended.
+33,395 (100.0%) of 33,407 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### අද කාලගුණය
+
+*2024-07-03 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198426) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/5a7ab50e.json)
+
+---
 
 ### Institutionalising corruption and nepotism: Office for International Trade
 
@@ -43,6 +55,8 @@ Sri Lanka’s world record for corruption, nepotism and bad governance is now be
 ...
 
 [Data](articles/c6361225.json)
+
+[Extended Data](ext_articles/c6361225.ext.json)
 
 ---
 
@@ -57,6 +71,8 @@ As stated last week, the United National Party (UNP) was down in the doldrums af
 ...
 
 [Data](articles/264b1543.json)
+
+[Extended Data](ext_articles/264b1543.ext.json)
 
 ---
 
@@ -2235,29 +2251,5 @@ The suspects were produced before the Colombo Magistrate No. 1 and remanded on t
 [Data](articles/7dea1748.json)
 
 [Extended Data](ext_articles/7dea1748.ext.json)
-
----
-
-### Conspiracy in Ukraine
-
-*2024-07-02 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/187493) · `ta`
-
-A conspiracy to overthrow Ukraine's government was foiled, with plans to seize the capital and parliament on June 30. Security services identified and arrested suspects, seizing incriminating weapons. Private security personnel joined forces with the military to counter this threat.
-
-🟩
-
-The country's security officials have said that a conspiracy to topple the Ukraine government has been thwarted.
-
-Ukraine's security service said that the conspirators had planned to take over the Ukraine's capital on June 30 and use it to capture the parliament of Ukraine and remove the political leadership from power.
-
-Israeli security officials have said that five suspects have been identified and two have been arrested.. They noted that many of the items that confirm the crime have seized weapons.
-
-Ukraine officials have said that security officers from private security companies have joined the military to rent a hall where the chairman of the Conspiracy Committee has rented a 2000 seat.
-
-◼️
-
-[Data](articles/5c36020f.json)
-
-[Extended Data](ext_articles/5c36020f.ext.json)
 
 ---

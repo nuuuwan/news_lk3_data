@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 09:04:56**
+As of **2024-07-03 09:19:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,534
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,416 (100.0%) of 33,419 articles have been extended.
+33,419 (100.0%) of 33,419 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The fire has damaged three estate houses, and the cause of the fire is yet to be
 ◼️
 
 [Data](articles/efa84ef4.json)
+
+[Extended Data](ext_articles/efa84ef4.ext.json)
 
 ---
 
@@ -91,6 +93,8 @@ General public is kindly requested to take adequate precautions to minimize dama
 ◼️
 
 [Data](articles/40ebcf2b.json)
+
+[Extended Data](ext_articles/40ebcf2b.ext.json)
 
 ---
 
@@ -1564,19 +1568,27 @@ Goall won the Jire of Lanka Premier League and the match between the village.
 
 ---
 
-### ජාතික ආණ්ඩුවකට සහාය නොදෙන බවට සජබ යෝජනාවක් සම්මත කරයි
+### A proposal that a national government will not support a national government
 
 *2024-07-02 18:44:50* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ආණ්ඩුවකට-සහාය-නොදෙන-බවට-සජබ-යෝජනාවක්-සම්මත-කරයි/11-410575) · `si`
 
-වර්තමාන ජනාධිපතිවරයාගේ මූලිකත්වයෙන් ජාතික ආණ්ඩුවක් පිහිටුවීම සඳහා වන කිසිදු යෝජනාවකට සමගි ජන බලවේගයේ කිසිදු ආකාරයකින් සහයෝගය නොදිය යුතු බවට යෝජනාවක් සමගි ජන බලවේගයේ මන්ත්‍රී කණ්ඩායම ඒකමතිකව අනුමත කර තිබේ.
+A national government proposal was rejected by a department due to financial corruption allegations. The decision was made during a meeting chaired by Sajith Basasa at the Parliamentary Complex. This move comes after previous attempts to form a national government failed due to similar issues two years ago.
 
-සමගි ජන බලවේගයේ නායක, විපක්ෂනායක සජිත් ප්රේ මදාස මහතාගේ ප්‍රධානත්වයෙන් අද (02දා) පාර්ලිමේන්තු සංකීර්ණයේදී මෙම රැස්වීම පැවති අතර, එහිදී සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී බුද්ධික පතිරණ මහතා විසින් එම යෝජනාව ගෙන ඒමට කටයුතු කර ඇත.
+🟩
 
-මෙම යෝජනාව මීට පෙර පක්ෂ කෘත්‍යාධිකාරී මණ්ඩලයේදී අනුමත කර ගත් බවත්ඒ අනුව එම යෝජනාව නැවතත් ඒකමතිකව අනුමත කර ගත් බවත් සමගි ජන බලවේගයේ මහලේකම් පාර්ලිමේන්තු මන්ත්‍රී රංජිත් මද්දුමබණ්ඩාර මහත අද (02දා) පාර්ලිමේන්තු සංකීර්ණයේදී  සඳහන් කළේය.
+The department has unanimously approved a proposal to provide no proposal to any proposal to establish a national government under the patronage of the present President.
 
-...
+The meeting was held at the Parliamentary Complex at the Parliamentary Complex today under the patronage of the Leader of the Agreement Leader Sajith Basasa.
+
+The General Secretary of the JVP MP Ranjith Madduma Bandara stated that the proposal was approved at the Working Working Committee before the Parliamentary Complex today (02).
+
+"Today we gathered the MP's member. I remember that 2 years ago to all parties to come to a national government. We decided that we were not going to a national government with the allegations of bankruptcy charges in bankruptcy to the unity power of the country.. We further assured our party working committee and the UNP group. Accordingly, we unanimously approved the suggestion that Buddhika Pathirana was brought. "
+
+◼️
 
 [Data](articles/44f98902.json)
+
+[Extended Data](ext_articles/44f98902.ext.json)
 
 ---
 

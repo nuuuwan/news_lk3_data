@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 10:05:59**
+As of **2024-07-03 10:19:45**
 
 ## Newspaper Stats
 
-*Scraped **33,425** Articles*
+*Scraped **33,426** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,954
 dailyftlk | 2,068
 adalk | 2,977
 adaderanalk | 3,811
-tamilmirrorlk | 3,956
+tamilmirrorlk | 3,957
 dailymirrorlk | 4,733
 virakesarilk | 5,222
 adaderanasinhalalk | 5,536
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,536
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,424 (100.0%) of 33,425 articles have been extended.
+33,425 (100.0%) of 33,426 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,8 @@ Kuhadasan nominated to fill Sampanthan’s MP seat by Adaderana Online on Scribd
 ◼️
 
 [Data](articles/d52aa447.json)
+
+[Extended Data](ext_articles/d52aa447.ext.json)
 
 ---
 
@@ -239,6 +241,22 @@ In addition, three houses were damaged in the fire and the cause of the fire was
 [Data](articles/568e3e5f.json)
 
 [Extended Data](ext_articles/568e3e5f.ext.json)
+
+---
+
+### லயன் குடியிருப்பில் தீ விபத்து ; இருவர் தீக்கிரை
+
+*2024-07-03 08:15:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/லயன்-குடியிருப்பில்-தீ-விபத்து-இருவர்-தீக்கிரை/76-339791) · `ta`
+
+எட்டியாந்தோட்டை, பனாவத்தை லயம் இலக்கம் 02 குடியிருப்பில் ஏற்பட்ட தீ விபத்தில் இருவர் உயிரிழந்துள்ள சம்பவம் செவ்வாய்க்கிழமை (03) அதிகாலை இடம்பெறுள்ளது.
+
+தீ விபத்தில் லயன் குடியிருப்பொன்றில் தங்கியிருந்த (தம்பதியினர் ) 60 வயதுடைய ஆண் ஒருவறும் 50 வயதுடைய பெண் ஒருவரும் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இதில் 03 வீடுகள் சேதமடைந்துள்ளடன் , தீ விபத்துக்கான காரணம் இதுவரையில் தெரியவரவில்லை என பொலிஸார் தெரிவித்தனர். மேலும் சம்பவம் தொடர்பிலான மேலதிக விசாரணைகள் பொலிஸாரால் மெற்கொள்ளப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c2fd303b.json)
 
 ---
 
@@ -2251,29 +2269,5 @@ A bond maturing on 15.09.2029 closed stable at 12.10/20 percent.
 [Data](articles/b568d7e6.json)
 
 [Extended Data](ext_articles/b568d7e6.ext.json)
-
----
-
-### Six fishermen arrested with heroin haul off Galle further remanded
-
-*2024-07-02 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100245/six-fishermen-arrested-with-heroin-haul-off-galle-further-remanded) · `en`
-
-The six fishermen, who were apprehended aboard a local multi-day fishing trawler carrying 131kg of heroin in the seas off Galle, have been ordered to be further remanded until July 16.
-
-This order was issued when the suspects were produced before the Colombo Magistrate’s Court once again today (02).
-
-The stock of heroin seized within their fishing vessel has also been presented before the court during today’s hearing, Ada Derana reporter said.
-
-In a recent operation, the Sri Lanka Navy apprehended six suspects aboard a local multi-day fishing trawler carrying 131 kg of heroin, estimated to be valued at over Rs. 3,250 million. The interception took place on June 14 on the high seas off Galle.
-
-During the initial inspection, security forces have not found anything suspicious. However, further investigation had revealed several areas of the boat were suspiciously made with fiber.
-
-Later on the night of June 14, the vessel was brought to Galle Port, where a detailed scan was conducted.
-
-...
-
-[Data](articles/b459a641.json)
-
-[Extended Data](ext_articles/b459a641.ext.json)
 
 ---

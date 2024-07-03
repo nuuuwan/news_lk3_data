@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 10:53:31**
+As of **2024-07-03 11:05:36**
 
 ## Newspaper Stats
 
-*Scraped **33,434** Articles*
+*Scraped **33,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,57 +20,87 @@ adaderanalk | 3,812
 tamilmirrorlk | 3,960
 dailymirrorlk | 4,733
 virakesarilk | 5,222
-adaderanasinhalalk | 5,538
+adaderanasinhalalk | 5,539
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,430 (100.0%) of 33,434 articles have been extended.
+33,434 (100.0%) of 33,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
-### කෝටි ගණනක ස්වර්ණාභරණ ජාවාරමක්
+### විරෝධතාකරුවන්ට එරෙහිව අධිකරණ දෙකකින් නියෝග
+
+*2024-07-03 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198437) · `si`
+
+නාමල් කරුණාරත්න මහතා ඇතුළු විරෝධතාකරුවන් පිරිසකට එරෙහිව අධිකරණ දෙකකින් නියෝගයක් නිකුත් කර තිබේ.
+
+අද (03) දින කොළඹ දී පැවැත්වීමට නියමිත උද්ඝෝෂණයකට අදාළව මෙම නියෝග නිකුත් කර ඇත්තේ කොටුව මහෙස්ත්‍රාත් අධිකරණය සහ මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසිනි.
+
+සමස්ථ ලංකා ගොවිජන සම්මේලනය ඇතුළු කිරිගොවින් සුරකිමේ මධ්‍යස්ථානය හා වෘත්තිය සමිති විසින් පැවැත්වීමට නියමිත උද්ඝෝෂණයකට අදාළ මෙම නියෝග නිකුත් කෙරුණි.
+
+ඒ අනුව නාමල් කරුණාරත්න, ටි.බි සරත්, සුසන්ත කුමාර, සුමිත් අත්තනායක, බණ්ඩාර රඹුක්වැල්ල, සොසිරි රණසිංහ, නිලන්ත සිල්වා, සමස්ථ ලංකා ගොවිජන සම්මේලනය ඇතුළු කිරි ගොවීන් සුරකිමේ සමස්ථ ලංකා ගොවිජන සම්මේලනයේ ප්‍රධාන ලේකම්, කිරි ගොවින් සුරකිමේ මධ්‍යස්ථානය ලේකම්, ශ්‍රී ලංකා නිදහස් සේවක සංගමයේ සභාපති, ශ්‍රී ලංකා පොදුජන සේවක සංගමයේ සභාපති, ස්වාධින සේවක සංගමයේ සභාපති සහ සමගි සේවක සංගමයේ සභාපති යන පිරිසට මාර්ග කිහිපයකට ඇතුළු වීම තහනම් කරමින් මෙම නියෝගය නිකුත් කර ඇත.
+
+...
+
+[Data](articles/5c3a2fb1.json)
+
+---
+
+### Billions of jewelery racket
 
 *2024-07-03 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198436) · `si`
 
-ව්‍යාජ රන්භාණ්ඩ උපයෝගී කරගනිමින් රුපියල් 19,670,000ක මුදලක් වංචා සහගත ලෙස ලබාගත් පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+In Badulla, a major jewelry fraud case has been busted by the local police. A suspect, accused of selling fake gold, has been arrested. Investigations led to the discovery of 41 pieces of counterfeit jewelry, including rings and necklaces. The suspect allegedly sold these items online, deceiving buyers who thought they were purchasing real gold. This case highlights the growing issue of fraud in the jewelry industry.
 
-බදුල්ලේ පෞද්ගලික මූල්‍ය ආයතනයක රන් භාණ්ඩ උකස් අංශයේ නිලධාරියෙක්ව මෙම ජාවාරම සම්බන්ධයෙන් බදුල්ල පොලිස් කොට්ඨාශ විශේෂ අපරාධ විමර්ශන අංශය විසින් අත්අඩංගුවට ගෙන තිබිණි.
+🟩
 
-එපෞද්ගලික මුල්‍ය ආයතනයේ කළමණාකරු විසින් සිදුකරන ලද පැමිණිල්ලකට අනුව පොලීසිය මේ පිළිබඳ විමර්ශන සිදුකර ඇත.
+A person has been arrested for a fraudulent person with fake gold.
 
-සැකකරුගේ ප්‍රකාශය මත සිදුකළ විමර්ශනවලදී මෙම වංචාව සඳහා යොදාගත් මාල, මුදු, වළලු, අත්පළදනා සහ පෙන්ඩන්ට්ස් යනාදී ව්‍යාජ ස්වර්ණාභරණ 41ක් සැකකරු සන්තකයේ තිබී සොයාගත් බවත් පොලීසිය සඳහන් කළේය.
+The racket was arrested by the Badulla Police Divisional Secretariat Division regarding the racket of the gold items sector in Badulla.
 
-විවිධ පුද්ගලයන් මෙම මූල්‍ය ආයතනය වෙත පැමිණ ස්වර්ණාභරණ උකස් කරන විට සැකකරු  ඒවා සඳහා ව්‍යාජ කූඨ ලේඛන නිකුත්කර ඇති බවත්, ඉන්පසු එම ස්වර්ණාභරණවලට සමාන (ඉමිටේෂන්) ස්වර්ණාභරණ  ඔන්ලයින් ක්‍රමයට ගෙන්වාගෙන ඒවා අදාළ කවරවලට දමා නියම රන් භාණ්ඩ උකස් කර මුදල් ලබාගෙන ඇති බවත් විමර්ශනවලදී අනාවරණය වූ බව පොලීසිය වැඩිදුරටත් පැවසීය.
+According to a complaint made by the manager of the private financial institution, the police have investigated.
 
-උකස් කළ ස්වර්භාරණවලට අදාළ පොලිය ඒවායේ අයිතිකරුවන් නමින් සැකකරු විසින්ම ගෙවා ඇතිබව ද අනාවරණය වී තිබේ.
+Investigations carried out on the suspect's statement have been found in possession of 41 pseudo-jewelery, the gathering, rings, rings, and pendents used for this fraud.
+
+Investigations have revealed that the suspect had released the jewelery to these as well as the jewelery had been issued to these jewelery, and the suspect had been released to them and boiled the Jewelry Online.Added.
+
+Intelligence on mortgage was revealed that the suspect named the suspect called their owners.
 
 ◼️
 
 [Data](articles/fcfbd343.json)
 
+[Extended Data](ext_articles/fcfbd343.ext.json)
+
 ---
 
-### உயிரை மாய்த்துக்கொண்ட ரோபோ
+### Life
 
 *2024-07-03 10:20:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உயிரை-மாய்த்துக்கொண்ட-ரோபோ/50-339800) · `ta`
 
-உலகில் முதல்முறையாக ரோபோ ஒன்று உயிரை மாய்த்துக்கொண்டுள்ள சம்பவம் தென் கொரியாவில் பதிவாகியுள்ளது .
+In a surprising turn of events, South Korea made history by becoming the first country to report a robot committing suicide. The incident occurred when a robot serving as a civil servant in Kumi City's Urban Council was found dead, apparently after falling down the stairs. Residents expressed condolences, and city officials are investigating the cause, with some speculating it could be a suicide. This unusual event has garnered global attention.
 
-தென் கொரியாவின் குமி நகர சபையில் அரசு ஊழியராக பணியாற்றிய ரோபோ தற்கொலை செய்து கொண்டதாக அந்நாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+🟩
 
-குறித்த நகர சபையின் ஆவணங்களை எடுத்துச் செல்லும் பணியில் ஈடுபட்டிருந்த, ரோபோவின் உடல் , கட்டிடத்தின் முதல் மற்றும் இரண்டாவது தளங்களுக்கு இடையே கிடந்ததாகவும், படிக்கட்டில் இருந்து கீழே விழும் முன் ரோபோ சுழன்றுள்ளதாகவும் குமி நகர அதிகாரிகள் தெரிவித்த்துள்ளனர்.
+South Korea has been reported in the world for the first time in the world to live a robot.
 
-குறித்த ரோபோவுக்கு குமியில் வசிப்பவர்கள் இரங்கல் தெரிவித்துள்ளதுடன் , விசாரணைகளுக்காக நகர அதிகாரிகள், ரோபோவின் உடலை எடுத்துச் சென்றுள்ளதாகவும் அந்நாட்டு ஊடகங்கள் தெரிவித்துள்ளது .
+The media has reported that the robot who served as a civil servant in South Korea's Kumi Urban Council has committed suicide.
 
-மேலும் நகரவாசிகள் இந்த விபத்தை தற்கொலை என்று கூறுவதாகவும் கொரிய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+Kumi city officials said that the body of the robot, who was in the process of carrying the documents of the city council, was lying between the first and second sites of the building and the robot had spinned before the stairs.
+
+Residents of Kumi have condoled the robot and city officials have taken the body of the robot for investigations, according to the media.
+
+The Korean media has reported that the city's residents are claiming the crash is suicide.
 
 ◼️
 
 [Data](articles/6a6f06f0.json)
+
+[Extended Data](ext_articles/6a6f06f0.ext.json)
 
 ---
 
@@ -94,37 +124,53 @@ When asked if Wickremesinghe could be the common candidate, Kariyawasam responde
 
 ---
 
-### பானி பூரிக்கு தடை
+### Banny Puri
 
 *2024-07-03 10:13:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பானி-பூரிக்கு-தடை/175-339798) · `ta`
 
-பானி பூரியின் தரத்தினை பரிசோதித்த போது, அதிலுள்ள செயற்கை நிறமிகள் புற்றுநோய்க்கு காரணமாக இருப்பது அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+In Karnataka, tests revealed that 41 out of 276 Pani Puri samples contained cancer-causing synthetic pigments. This led to the banning of certain candy brands for using harmful artificial colors. The Food Safety Commissioner highlighted the presence of dangerous chemicals in Pani Puri across various outlets, urging for bans on unsafe food items. The Health and Food Minister emphasized the government's commitment to ensuring safe food, promising strict actions against violators.
 
-கர்நாடகவில் சில மாதங்களுக்கு முன்பு கோபி மஞ்சூரியன், கபாப், பஞ்சு மிட்டாய் ஆகியவற்றில் உடலுக்கு தீங்கு விளைவிக்கும் செயற்கை வண்ணங்கள் கலப்பதற்கு தடைவிதிக்கப்பட்டது. இதைத் தொடர்ந்து பானி பூரியில் செயற்கை நிறமிகள், ரசாயனங்கள் கலக்கப்படுவதாக அம்மாநில உணவுத்துறைக்கு புகார்கள் வந்தன.
+🟩
 
-இதையடுத்து, உணவுத்துறை அதிகாரிகள் 276 கடைகளில் மாதிரிகளை சேகரித்து பரிசோதனை செய்தனர். இதில், 41 மாதிரிகளில் செயற்கை நிறமிகள், புற்றுநோயை ஏற்படுத்தும் ரசாயனங்கள் இருப்பது கண்டறியப்பட்டது. 18 பானி பூரி மாதிரிகள் (22%) மனிதர்கள் உண்பதற்கு தகுதியற்றவை என தெரியவந்தது. 52 சதவீத மாதிரிகளில் உடலுக்கு தீங்கு விளைவிக்கக் கூடிய ரசாயனங்கள் கலந்துள்ளது கண்டறியப்பட்டது.
+When testing the quality of Pani Puri, it is shocking that the artificial pigments are responsible for cancer.
+
+In Karnataka a few months ago, Gopi Manjurian, Kapab and Panchu Candy were banned from mixing artificial colors that harm the body. Following this, there were complaints from the state food industry that the artificial pigments and chemicals were mixed in Bani Puri.
+
+Subsequently, food officials collected samples in 276 stores. Of this, 41 samples were found to contain synthetic pigments, cancer -causing chemicals. 18 Pani Puri models (22%) revealed that humans are unworthy of eating. 52 percent of samples were found to be mixed with chemicals that can be harmful to the body.
+
+Food Safety Commissioner Aunivas said, “We used samples of Pani Puri, which is sold in stores from Street Store to Star Hostel for our test.. It was found to be mixed with chemicals in blue, green and orange. We have submitted a detailed report to the government. Why not ban foods that are not worth eating? ”
 
 ...
 
 [Data](articles/ac573bd6.json)
 
+[Extended Data](ext_articles/ac573bd6.ext.json)
+
 ---
 
-### சமய வைபவத்தில் நெரிசல்: 134 பேர் பலி
+### Religious congestion: 134 killed
 
 *2024-07-03 10:06:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமய-வைபவத்தில்-நெரிசல்-134-பேர்-பலி/175-339797) · `ta`
 
-உத்தரப்பிரதேசம் ஹாத்ரஸ் சம்பவத்தில் பலி எண்ணிக்கை 134 ஆக அதிகரிதுள்ளது. இதற்கு காரணமான போலே பாபா தலைமறைவாகி உள்ளார். அவரைப் பொலிஸார் தேடி வருகின்றனர்.
+In Uttar Pradesh's Hadrus district, a religious gathering turned tragic, resulting in 134 deaths due to overcrowding and stampede. The event, led by Saccar Narayan Sagar Vishwa Hari, lacked adequate security, with only 48 police officers present. Devotees, estimated at 12,500, were mainly responsible for crowd management. The incident occurred after the leader, known as Baba, departed, leading to chaos and suffocation among the attendees. Despite the efforts of nearby hospitals, the death toll rose rapidly, with many victims dying due to untreated injuries. The authorities are investigating the incident, but Baba remains at large.
 
-நாட்டையே உலுக்கிய துயரச் சம்பவம், உ.பி.யின் மேற்குப்பகுதியிலுள்ள ஹாத்ரஸ் மாவட்டத்தில் செவ்வாய்க்கிழமை (02)இடம்பெற்றுள்ளது.
+🟩
 
-ஹாத்ரஸ் மாவட்டத்தின் சிக்கந்தராராவ் தாலுகாவின் முகல்கடி கிராமத்தில் ஆன்மிகக் கூட்டம் நடைபெற்றது. இதை சாக்கார் நாராயண் சாகர் விஷ்வ ஹரி என்பவர் நடத்தி இருந்தார். ஆன்மிகக் கூட்டத்தில் நெரிசல் ஏற்பட்டு பலியானோர் எண்ணிக்கை 134 ஆக அதிகரித்துள்ள நிலையில் அந்த கோர விபத்து குறித்து மேலும் பல திடுக்கிடும் தகவல்கள் வெளியாகி உள்ளன.
+The number of casualties in Uttar Pradesh Hadrus has increased to 134. The reason for this is that Baba is in hiding. Police are searching for him.
 
-சிறிய அளவிலானக் கூட்டம் எனக் கூறி ஹாத்ரஸ் மாவட்ட அரசு நிர்வாகத்திடம் அனுமதி பெறப்பட்டுள்ளது. கூட்டத்துக்கு ஏற்ற வகையில் பாதுகாப்பு ஏற்பாடுகளும் முறையாக செய்யப்படவில்லை. உ.பி காவல்துறை தரப்பில் வெறும் 48 பொலிஸார் பாதுகாப்பு பணிக்கு அமர்த்தப்பட்டிருந்தனர்.
+The tragedy that rocked the country took place on Tuesday (02) in Hadrus district on the western part of UP.
+
+A spiritual meeting was held in Mughalkadi village of Sikandararao taluk of Hadrus district. It was conducted by Saccar Narayan Sagar Vishwa Hari. There have been many shocking reports about the accident, as the number of victims of congestion has increased to 134.
+
+Hadrus District Government Administration has been approved. Security arrangements have not been properly made to suit the meeting. Only 48 policemen were deployed on the UP police.
+
+Baba's disciples were taken in hand as the main administration of the crowd. About 12,500 of the Pole Baba disciples were involved in the security of the crowd. Even though it rained slightly, summer heat has not yet diminished. With moisture increased, the large ball of the crowd has been low.
 
 ...
 
 [Data](articles/d62e6242.json)
+
+[Extended Data](ext_articles/d62e6242.ext.json)
 
 ---
 
@@ -2261,27 +2307,5 @@ The Police Narcotics Bureau OIC Chief Inspector of Police. Mr. Jayaratne said th
 [Data](articles/58c3987b.json)
 
 [Extended Data](ext_articles/58c3987b.ext.json)
-
----
-
-### Brand of the latest petrol coming to the market
-
-*2024-07-02 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198416) · `si`
-
-Lanka IOC releases Octane petrol to Sri Lankan market under Minister Kanchana Wijesekara's guidance. Discussions included lubricant markets, fuel prices, and a proposed Indian-Sri Lanka fuel pipeline.
-
-🟩
-
-The Minister of Power and Energy Kanchana Wijesekara says that the Lanka IOC will be released to the market of Octane petrol today (02).
-
-Meanwhile, the Minister said that the heads of Lanka IOC met with him.
-
-Communicated with the development of Lubricant Markets, Lubricant Market, Lubricant Market, Fuel Tank Complex, the Fuel Prices and the proposed Indian-Sri Lanka fuel pipeline.
-
-◼️
-
-[Data](articles/50c68ba2.json)
-
-[Extended Data](ext_articles/50c68ba2.ext.json)
 
 ---

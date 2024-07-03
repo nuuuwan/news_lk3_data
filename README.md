@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 02:04:46**
+As of **2024-07-04 02:19:48**
 
 ## Newspaper Stats
 
-*Scraped **33,547** Articles*
+*Scraped **33,551** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 330
 newsfirstlk | 363
 islandlk | 1,867
 economynextcom | 1,967
-dailyftlk | 2,070
+dailyftlk | 2,074
 adalk | 2,996
 adaderanalk | 3,829
 tamilmirrorlk | 3,969
@@ -26,11 +26,75 @@ adaderanasinhalalk | 5,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,547 (100.0%) of 33,547 articles have been extended.
+33,547 (100.0%) of 33,551 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### People’s Bank conducts ‘People’s Spark’ event to commemorate World MSME Day
+
+*2024-07-04 01:55:33* · [`dailyftlk`](https://www.ft.lk/business/People-s-Bank-conducts-People-s-Spark-event-to-commemorate-World-MSME-Day/34-763816) · `en`
+
+People’s Bank Chairman Sujeewa Rajapakse presenting a People’s Spark loan. CEO/GM Clive Fonseka and Deputy General Manager-Enterprise Banking Wickrama Narayana look on
+
+People’s Bank Celebrated World Micro, Small, and Medium-sized Enterprises Day by launching the ‘People’s Spark’ loan scheme at a special event held at the People’s Bank Staff Training College auditorium in Colombo 5 recently.
+
+...
+
+[Data](articles/999f7b9c.json)
+
+---
+
+### British Council presents ‘Youth-Led Green and Inclusive Businesses’ at ‘Pathways to Sustainability: Entrepreneurs’ Showcase’ event
+
+*2024-07-04 01:47:14* · [`dailyftlk`](https://www.ft.lk/business/British-Council-presents-Youth-Led-Green-and-Inclusive-Businesses-at-Pathways-to-Sustainability-Entrepreneurs-Showcase-event/34-763815) · `en`
+
+A discussion on the role of youth to support sustainable and inclusive business strategy was moderated by Centre for Living Sustainability, University of Highlands and Islands, Scotland Dr. Lalith Welamedage and featured speakers veteran banker and impact investor Chandula Abeywickrema , Achala Samaradivakara (Good Market), Ministry of Industries Chaminda Pathiraja and Prestige Ceylon Export Ventures Ltd. Yasas Nanayakkara
+
+Sustainable Development Council Sri Lanka Director General Chamindry Saparamadu made the keynote address.
+
+The British Council Sri Lanka celebrated the successful pilot phase of the ‘Youth-Led Green and Inclusive Businesses’ project to commemorate the 2024 International Micro, Small and Medium-sized Enterprises (MSMEs) day.
+
+The ‘Youth-Led Green and Inclusive Businesses’ project equipped young entrepreneurs with knowledge, skills, resources, and networks, and aimed to transform existing businesses into greener and more inclusive models.
+
+...
+
+[Data](articles/2ed1d158.json)
+
+---
+
+### Ceylon Chamber launches SPARK 2024 Youth Entrepreneurship Competition
+
+*2024-07-04 01:42:37* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-launches-SPARK-2024-Youth-Entrepreneurship-Competition/34-763814) · `en`
+
+The Ceylon Chamber of Commerce has officially launched the SPARK Youth Entrepreneurship Competition – 2024, setting the stage for aspiring young entrepreneurs across the country to pitch their innovative business ideas and win big at the Grand Finale in September.
+
+Building on the success of its inaugural edition in 2023, which drew over 400 applications from across Sri Lanka, SPARK 2024 continues to foster an entrepreneurial spirit among the country’s youth, empowering youth aged 15-30 with the skills and resources to drive innovative solutions to societal challenges.
+
+Participants in the competition will receive expert guidance, mentoring, and access to resources, enhancing their entrepreneurial capabilities through workshops and boot camps. The competition culminates in a Grand Finale scheduled for September, where participants will pitch their business ideas and battle it out for the top prizes, including awards, trophies, and opportunities for international exposure.
+
+...
+
+[Data](articles/49377361.json)
+
+---
+
+### Young Sri Lankan journalists embark on journey in entrepreneurship
+
+*2024-07-04 01:40:45* · [`dailyftlk`](https://www.ft.lk/business/Young-Sri-Lankan-journalists-embark-on-journey-in-entrepreneurship/34-763813) · `en`
+
+Thirty (30) dynamic Sri Lankan journalists launched their journey into the exciting world of entrepreneurship, at a workshop on entrepreneurship for young journalists conducted on 13 and 14 July, 2024, at NH Collection Hotel, Colombo.
+
+The young journalists represented print, electronic and digital media. Some were influencers who owned their own media platforms. They had been selected out of a competitive application process. They were the lucky ones amongst the 212 young journalists who had applied.
+
+The program was presented by the International Labour organisation, ILO and the Ceylon Chamber of Commerce, CCC, in collaboration with the Rainbow Institute of Communication.
+
+...
+
+[Data](articles/555fed89.json)
+
+---
 
 ### Sampanthan, stature diminished by links to LTTE, is no more
 
@@ -2309,107 +2373,5 @@ A Sun' Pinnawala's father's Pinnawala Air Service at 08.30 pm on 08.30 pm
 [Data](articles/cb5a6005.json)
 
 [Extended Data](ext_articles/cb5a6005.ext.json)
-
----
-
-### Presidential Election: An inter-order to impose an interim order for the order of term, a fundamental rights petition for the Supreme Court
-
-*2024-07-03 10:25:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gdx3ydzv8o) · `si`
-
-In a fundamental rights petition to the Supreme Court, an entrepreneur from Moratuwa challenges the 19th Amendment's impact on the presidential term length, claiming ambiguity between five and six-year tenures. The petitioner, represented by Lev, seeks an interim order for the upcoming Presidential Election due to this constitutional uncertainty. The case involves the Elections Commission, its members, the Chairman, and the Attorney General as respondents.
-
-🟩
-
-Presidential Election: An inter-order to impose an interim order for the order of term, a fundamental rights petition for the Supreme Court
-
-The President has filed a fundamental rights petition in the Supreme Court to issue an interim order to issue an interim order for the Presidential Election to issue an interim order for the Presidential Election.
-
-CD, an entrepreneur, a resident of Moratuwa. The petition has been presented by the Lev.
-
-As the respondents, the Elections Commission, the members of the Elections Commission, the Chairman and the Attorney General have been named.
-
-The petitioner claims that the 19th Amendment to the Constitution has created a vagree with the end of the president's tenure.
-
-...
-
-[Data](articles/9277eccd.json)
-
-[Extended Data](ext_articles/9277eccd.ext.json)
-
----
-
-### 26 tourist attractions to be developed
-
-*2024-07-03 10:22:37* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරක-ආකර්ෂණීය-වෙරළ-කලාප-26ක්-සංවර්ධනය-කෙරේ/11-410585) · `si`
-
-This year, 26 coastal tourist attractions will be developed across Sri Lanka, focusing on areas like Venathawilluwa Rule, Kalugoda lagoon, and several locations in Dikwella, Tissamaharama, Potchini Bay, Kinniya, Trincomalee, Mullaitivu, and Jaffna. The initiative aims to boost the tourism sector by enhancing the coastal environment. Additionally, 14 emergency coastal security projects have been completed, along with 520 e-licenses for development work. The Coast Conservation and Coastal Resources Management Department has also conducted four coastal cleaning programs and four mangrove conservation efforts, all funded by a Rs. 300 million budget.
-
-🟩
-
-26 identified tourist attractions to be developed in this year. Urban Development and Housing Minister Prasanna Ranatunga says that the preparation of fundamental creations and structures to develop the 26 coastal zones.
-
-The Department of Urban Development Authority and the Coast Conservation and Coastal Resources Management Department implements it.
-
-The shore zones that have been identified are Venathawilluwa Rule, Kalugoda lagoon, Dikwella, Dikwella, Dikwella, DikwellaLunchy, Tissamaharama Kirinda Valley, Potchini Bay, Kinniya Lilivue, Trincomalee, Kotchial Lagoon, Mullaitivu Nandikadal Lagoon, Jaffna Sethnkkulam, JaffnaBeach, Jaffna Casineina.
-
-It is expected to advance the program to promote the tourism industry as the coastal environment.
-
-...
-
-[Data](articles/b0083931.json)
-
-[Extended Data](ext_articles/b0083931.ext.json)
-
----
-
-### The robot made life
-
-*2024-07-03 10:20:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உயிரை-மாய்த்தது-ரோபோ/50-339800) · `ta`
-
-In a groundbreaking event, South Korea became the first country to report a robot living among humans. The robot, serving as a civil servant in Kumi City, tragically ended its life by falling down the stairs while carrying documents. Residents mourned its loss, and city officials are investigating the incident, with some speculating it might be a suicide.
-
-🟩
-
-South Korea has been reported in the world for the first time in the world to live a robot.
-
-The media has reported that the robot who served as a civil servant in South Korea's Kumi Urban Council has committed suicide.
-
-Kumi city officials said that the body of the robot, who was in the process of carrying the documents of the city council, was lying between the first and second sites of the building and the robot had spinned before the stairs.
-
-Residents of Kumi have condoled the robot and city officials have taken the body of the robot for investigations, according to the media.
-
-The Korean media has reported that the city's residents are claiming the crash is suicide.
-
-◼️
-
-[Data](articles/21cb6cd4.json)
-
-[Extended Data](ext_articles/21cb6cd4.ext.json)
-
----
-
-### Life
-
-*2024-07-03 10:20:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உயிரை-மாய்த்துக்கொண்ட-ரோபோ/50-339800) · `ta`
-
-In a surprising turn of events, South Korea made history by becoming the first country to report a robot committing suicide. The incident occurred when a robot serving as a civil servant in Kumi City's Urban Council was found dead, apparently after falling down the stairs. Residents expressed condolences, and city officials are investigating the cause, with some speculating it could be a suicide. This unusual event has garnered global attention.
-
-🟩
-
-South Korea has been reported in the world for the first time in the world to live a robot.
-
-The media has reported that the robot who served as a civil servant in South Korea's Kumi Urban Council has committed suicide.
-
-Kumi city officials said that the body of the robot, who was in the process of carrying the documents of the city council, was lying between the first and second sites of the building and the robot had spinned before the stairs.
-
-Residents of Kumi have condoled the robot and city officials have taken the body of the robot for investigations, according to the media.
-
-The Korean media has reported that the city's residents are claiming the crash is suicide.
-
-◼️
-
-[Data](articles/6a6f06f0.json)
-
-[Extended Data](ext_articles/6a6f06f0.ext.json)
 
 ---

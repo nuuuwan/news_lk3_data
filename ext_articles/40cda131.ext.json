@@ -1,0 +1,19 @@
+{
+  "translated_text": {
+    "si": {
+      "title": "\u0d85\u0daf \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dc0\u0dd2\u0db1\u0dd2\u0db8\u0dba \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba",
+      "body_lines": [
+        "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0da9\u0ddc\u0dbd\u0dbb\u0dba\u0dda \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0da9\u0ddc\u0dbd\u0dbb\u0dba\u0dda \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0db8\u0dd2\u0dbd\u0daf\u0dd3 \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0db8\u0dd2\u0dbd \u0d85\u0d9f\u0dc4\u0dbb\u0dd4\u0dc0\u0dcf\u0daf\u0dcf (\u0da2\u0dd6\u0dbd\u0dd2 02), \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 298.7262 \u0d9a\u0dca \u0dc3\u0dc4 \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dd4\u0db8\u0dca \u0db8\u0dd2\u0dbd \u0dbb\u0dd4."
+      ]
+    },
+    "en": {
+      "title": "Today's currency exchange rate",
+      "body_lines": [
+        "Tuesday (July 02), the US purchasing price of the US dollar was recorded at Rs 298.7262 and the sales price at Rs."
+      ]
+    }
+  },
+  "summary_lines": [
+    "On July 2nd, the US dollar's buying rate was Rs 298.7262, while the selling rate was slightly lower."
+  ]
+}

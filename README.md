@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 11:05:36**
+As of **2024-07-03 11:19:49**
 
 ## Newspaper Stats
 
-*Scraped **33,435** Articles*
+*Scraped **33,438** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,42 @@ adalk | 2,979
 adaderanalk | 3,812
 tamilmirrorlk | 3,960
 dailymirrorlk | 4,733
-virakesarilk | 5,222
+virakesarilk | 5,225
 adaderanasinhalalk | 5,539
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,434 (100.0%) of 33,435 articles have been extended.
+33,435 (100.0%) of 33,438 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
-### විරෝධතාකරුවන්ට එරෙහිව අධිකරණ දෙකකින් නියෝග
+### Two court order ordered against protesters
 
 *2024-07-03 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198437) · `si`
 
-නාමල් කරුණාරත්න මහතා ඇතුළු විරෝධතාකරුවන් පිරිසකට එරෙහිව අධිකරණ දෙකකින් නියෝගයක් නිකුත් කර තිබේ.
+Court orders were issued against protesters in Colombo by the Fort Magistrate's Court and the Maligakanda Magistrate's Court, forbidding them from protesting near certain junctions and under Section 106(1) of the Criminal Procedure Code, preventing damage to public property. The orders were related to protests involving the Ceylon Agrarian Association and others, emphasizing the need for peaceful demonstrations without illegal actions.
 
-අද (03) දින කොළඹ දී පැවැත්වීමට නියමිත උද්ඝෝෂණයකට අදාළව මෙම නියෝග නිකුත් කර ඇත්තේ කොටුව මහෙස්ත්‍රාත් අධිකරණය සහ මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසිනි.
+🟩
 
-සමස්ථ ලංකා ගොවිජන සම්මේලනය ඇතුළු කිරිගොවින් සුරකිමේ මධ්‍යස්ථානය හා වෘත්තිය සමිති විසින් පැවැත්වීමට නියමිත උද්ඝෝෂණයකට අදාළ මෙම නියෝග නිකුත් කෙරුණි.
+Namal Karunaratne has issued an order against a group of protesters and a group of protesters.
 
-ඒ අනුව නාමල් කරුණාරත්න, ටි.බි සරත්, සුසන්ත කුමාර, සුමිත් අත්තනායක, බණ්ඩාර රඹුක්වැල්ල, සොසිරි රණසිංහ, නිලන්ත සිල්වා, සමස්ථ ලංකා ගොවිජන සම්මේලනය ඇතුළු කිරි ගොවීන් සුරකිමේ සමස්ථ ලංකා ගොවිජන සම්මේලනයේ ප්‍රධාන ලේකම්, කිරි ගොවින් සුරකිමේ මධ්‍යස්ථානය ලේකම්, ශ්‍රී ලංකා නිදහස් සේවක සංගමයේ සභාපති, ශ්‍රී ලංකා පොදුජන සේවක සංගමයේ සභාපති, ස්වාධින සේවක සංගමයේ සභාපති සහ සමගි සේවක සංගමයේ සභාපති යන පිරිසට මාර්ග කිහිපයකට ඇතුළු වීම තහනම් කරමින් මෙම නියෝගය නිකුත් කර ඇත.
+The Regulations issued by the Fort Magistrate's Court and the Maligakanda Magistrate's Court regarding a protest in Colombo today (03).
+
+These orders were issued with the protest of the Ceylon Agrarian Association including the Ceylon Agrarian Association.
+
+Accordingly, Namal Karunaratne, TB Sarath, Susantha Kumara, Sumith Attanayake, Sumith Attanayake, Summbuk and Susiri Ranasinghe, Chief Secretary, Sri Lanka Freedom Center, Sri Lanka Farmers' Conference.The order has been issued by the President of the Association, the Chairman of the Sri Lanka Public Office Association, Chairman of the Sri Lanka Public Office Association and the President of the Samagi Employees Union.
+
+Accordingly, the protesters have been informed from Teanm Junction to Ceramic Junction from Telestic Junction, from the NSA roundabout to the NSA roundabout from NSA roundabout.
 
 ...
 
 [Data](articles/5c3a2fb1.json)
+
+[Extended Data](ext_articles/5c3a2fb1.ext.json)
 
 ---
 
@@ -264,6 +272,24 @@ The victim was a 71 year old resident of Pamunugama and the lorry driver has bee
 
 ---
 
+### சண்முகம் குகதாசன் பாராளுமன்ற உறுப்பினராகிறார் ; வர்த்தமானி வெளியீடு
+
+*2024-07-03 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/187555) · `ta`
+
+தமிழ் தேசிய கூட்டமைப்பின் சிரேஷ்ட தலைவரும் பாராளுமன்ற உறுப்பினருமான அமரர்  இரா.சம்பந்தனின் மறைவினால் ஏற்பட்ட பாராளுமன்ற உறுப்பினர் வெற்றிடத்திற்கு சண்முகம் குகதாசனின் பெயர் வர்த்தமானியில் தற்போது வௌியிடப்பட்டுள்ளது.
+
+இலங்கை தமிழரசுக் கட்சியின் சார்பில் 2020 ஆம் ஆண்டு இடம்பெற்ற பாராளுமன்ற தேர்தலில் சண்முகம் குகதாசன் திருகோணமலை மாவட்டத்தில் போட்டியிட்டிருந்தார்.
+
+அந்த தேர்தலில் இலங்கை தமிழரசுக் கட்சியின் சிரேஷ்ட தலைவர் காலஞ்சென்ற பெருந்தலைவர் இராஜதவரோதயம் சம்பந்தனுக்கு பின்னர் அதிகூடிய வாக்குகளை அவர் பெற்றிருந்தார்.
+
+எதிர் வரும் ஓரிரு சில தினங்களில் இலங்கை பாராளுமன்றில் நாடாளுமன்ற உறுப்பினராக சண்முகம் குகதாசன் சத்தியப்பிரமானம் செய்து கொள்வார் என எதிர்பார்க்கப்படுகிறது.
+
+◼️
+
+[Data](articles/f96e2ba6.json)
+
+---
+
 ### Man dies after boat falls
 
 *2024-07-03 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198433) · `si`
@@ -320,6 +346,22 @@ According to the International Robotics Federation, one robot is employed in Sou
 
 ---
 
+### எட்டியாந்தோட்டையில் தொடர் குடியிருப்பில் தீ விபத்து ; இருவர் உயிரிழப்பு!
+
+*2024-07-03 09:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/187553) · `ta`
+
+எட்டியாந்தோட்டை பொலிஸ் பிரிவிற்குட்பட்ட பல்லேகம பகுதியில் தொடர் குடியிருப்பில் ஏற்பட்ட  தீ விபத்தில் இருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்த தீ விபத்தானது இன்று புதன்கிழமை (03) அதிகாலை ஏற்பட்டுள்ளதோடு, 03 தொடர் குடியிருப்புக்கள் சேதமடைந்துள்ளதாகவும் பொலிஸார்  தெரிவித்துள்ளனர்.
+
+தீ விபத்தில் 60 வயதுடைய ஆணொருவரும், 50 வயதுடைய பெண்ணொருவரும்  உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/4067f02d.json)
+
+---
+
 ### Excise revenue collection hits Rs. 105 billion so far this year
 
 *2024-07-03 09:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100257/excise-revenue-collection-hits-rs-105-billion-so-far-this-year) · `en`
@@ -363,6 +405,24 @@ Kompanitheeru police have launched an investigation into the incident and the po
 [Data](articles/f5dc6fe7.json)
 
 [Extended Data](ext_articles/f5dc6fe7.ext.json)
+
+---
+
+### சம்பந்தனுக்கு இலங்கை தமிழரசு கட்சி  யாழ்ப்பாண தலைமையகத்தில் அஞ்சலி
+
+*2024-07-03 08:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/187552) · `ta`
+
+இலங்கை தமிழரசு கட்சியின் சிரேஷ்ட தலைவரும் திருகோணமலை மாவட்ட  பாராளுமன்ற உறுப்பினருமான அமரர் இராஜவரோதயம்  சம்பந்தனுக்கு இலங்கை தமிழரசு கட்சி யாழ்ப்பாண தலைமையகத்தில் செவ்வாய்க்கிழமை (02) அஞ்சலி நிகழ்வுகள் இடம்பெற்றன.
+
+இலங்கை தமிழரசு கட்சியின் தலைவரும் முன்னாள் பாராளுமன்ற உறுப்பினருமான மாவை சேனாதிராஜா தலைமையில் இடம்பெற்ர நிகழ்வில் அன்னாரின் உருவபடத்திற்கு ஈகைசுடர் ஏற்றப்பட்டு மலர்மாலை அணிவிக்கப்பட்டது. தொடர்ந்து சிரேஷ்ட உறுபினர்களால் மலர் அஞ்சலி செலுத்தப்பட்டது.
+
+அன்னாரது மறைவை தொடர்ந்து கட்சிகொடி அரைக்கம்பத்தில் பறக் கவிடப்பட்டதுடன் கறுப்பு கொடி, பனர்கள் கட்டப்பட்டு துயரம் வெளிப்படுத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+இதேவேளை எதிர்வரும் வெள்ளிக்கிழமை (05) மாலை கட்சியின் தலைமை அலுவலகத்தில் யாழ்ப்பாண தொகுதி கிளையினரால் விசேட அஞ்சலி நிகழ்வுகள் நடாத்தப்படவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d31578f4.json)
 
 ---
 
@@ -2221,91 +2281,5 @@ The election regulatory body further emphasized that the violation of these guid
 [Data](articles/404eb5b6.json)
 
 [Extended Data](ext_articles/404eb5b6.ext.json)
-
----
-
-### International ODI cricket under the age of 19: England balanced the series with Sri Lanka
-
-*2024-07-02 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/187522) · `ta`
-
-England leveled the U19 ODI series against Sri Lanka after losing the first match by 65 runs. In the second match, England won by 30 runs, thanks to Brady McCon's 174 runs and Luke Benkenstein's 4 wickets. Sri Lanka's top scorers were Pulpindu Perera with 64 and Gayana Weerasinghe with 57.
-
-🟩
-
-The three -match international ODI series has been balanced between Sri Lanka and England under the age of 19.
-
-Sri Lanka won by 65 runs in the first youth international ODI in Selport, leading 1 - 0 in the series.
-
-However, the England series won by 30 runs in the 2nd day of the day (01) at the Howe Ground.
-
-Brady McCon's Action Cattle and Luke Benkenstein's 4 wickets pile made England a win.
-
-Under the age of 19, England scored 360 runs for the loss of 7 wickets in 50 overs.
-
-Sri Lanka -born Casanna Fonseka, who is featured in the England youth team, lost the match with 9 runs.
-
-But Brady McCon, who was very efficient, scored 174 runs off 139 balls with 22 pounds and 3 sixes.
-
-McCon shared 127 runs with Nova Taine in the 2nd wicket and strengthened the England junior team in the 3rd wicket with Charlie Alison.
-
-Nova Taine scored 66 runs, Charlie Alison 46 and Dominic Kelly scored 32 runs.
-
-...
-
-[Data](articles/7fac9b67.json)
-
-[Extended Data](ext_articles/7fac9b67.ext.json)
-
----
-
-### The tragedy of a religious ceremony
-
-*2024-07-02 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198417) · `si`
-
-A tragic Hindu ceremony in Uttar Pradesh, India, resulted in 27 deaths, including 23 women and four children.
-
-🟩
-
-In northern India, 27 people were killed due to a religious ceremony.
-
-The incident had occurred during a Hindu religious ceremony in Uttar Pradesh.
-
-There are 23 women and four children have been among the deceased Indian media.
-
-◼️
-
-[Data](articles/8d595538.json)
-
-[Extended Data](ext_articles/8d595538.ext.json)
-
----
-
-### Police officers cannot open law
-
-*2024-07-02 17:43:23* · [`adalk`](https://www.ada.lk/breaking_news/නීතිය-නැවීමට-පොලිස්-නිලධාරීන්ට-හැකියාවක්-නෑ/11-410570) · `si`
-
-In a case involving the seizure of 65 kg of narcotics and the arrest of over 200 fishermen, Colombo Chief Magistrate Thilina Gamage emphasized the importance of transparency from the Police Narcotics Bureau regarding drug importation and racketeering. The magistrate highlighted issues with the handling of evidence, including concerns about the production of at least two kilograms of drugs in court and the delay in reporting the progress of investigations. She urged for proper procedures to be followed, ensuring that suspects are promptly brought to court and that investigations maintain transparency.
-
-🟩
-
-Colombo Chief Magistrate Thilina Gamage said that the police officers will not be able to open or cover the law as they want.
-
-The Magistrate said that the chief magistrate was on the basis of the transparency of the Police Narcotics Bureau on import and racketeering of drugs.
-
-The accident had been submitted when he was taken up when extinguished 65 kilograms of narcotics and arrested over 200 fishermen.
-
-The Magistrate also welcomed six suspects who were arrested on suspicion of the incident in connection with the incident.
-
-Police Narcotics Bureau OIC Chief Inspector General Inspector of Police Narcotics. Mr. Jayaratne was summoned to the court.
-
-Accordingly, the OIC of the Police Narcotics Bureau when he appeared in court, he asked why the progress of the investigations were made yesterday (01).
-
-The Police Narcotics Bureau OIC Chief Inspector of Police. Mr. Jayaratne said that investigations into the matter and drugs will be produced in the courts at the time.
-
-...
-
-[Data](articles/58c3987b.json)
-
-[Extended Data](ext_articles/58c3987b.ext.json)
 
 ---

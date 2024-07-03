@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 21:35:23**
+As of **2024-07-03 21:54:40**
 
 ## Newspaper Stats
 
-*Scraped **33,527** Articles*
+*Scraped **33,529** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,867
 economynextcom | 1,967
 dailyftlk | 2,068
-adalk | 2,993
-adaderanalk | 3,826
+adalk | 2,994
+adaderanalk | 3,827
 tamilmirrorlk | 3,967
 dailymirrorlk | 4,733
 virakesarilk | 5,242
@@ -26,29 +26,75 @@ adaderanasinhalalk | 5,557
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,526 (100.0%) of 33,527 articles have been extended.
+33,527 (100.0%) of 33,529 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
-### පොලීසියේ කිහිපදෙනෙක් ගැන විමර්ශනයක්
+### Investigation into several policemen
 
 *2024-07-03 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198458) · `si`
 
-රත්ගම විදුර නමැති පාතාල කල්ලි නායකයා ලවා සිය බැංකු ගිණුම්වලට මුදල් බැර කරගත් බව කියන දකුණු පළාතේ පොලිස් නිලධාරීන් පිරිසක් ගැන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පොලිස්පති නියමයෙන් විමර්ශනයක් ආරම්භ කර තිබේ.
+The Criminal Investigation Department (CID) has initiated an inquiry into allegations involving several police officers, including a senior one, linked to underworld gangs in the Southern provinces. The probe focuses on financial transactions between these officers and the gangs, particularly the Ratgama Vidura. The investigation aims to uncover any misconduct and ensure transparency within the force.
 
-සැකකාර පොලිස් නිලධාරීන් අතර, මෑතකදී රත්නපුර දිස්ත්‍රික්කයේ පොලිස් කොට්ඨාසයකට ස්ථාන මාරුවීමක් ලැබූ උසස් පොලිස් නිලධාරියෙකුද සිටින බව පැවසෙයි.
+🟩
 
-මේ වනවිට විදේශගතව සැඟව සිටින දකුණේ ප්‍රබල පාතාල කල්ලි නායකයෙකු වන පුබුදුමුණී විදුර ලක්ෂාන් ද සොයිසා විජේසිංහ හෙවත් ‘රත්ගම විදුර’සමග දකුණු පළාතේ උසස් පොලිස් නිලධාරියෙකු ඇතුළු පොලිස් නිලධාරීන් කිහිපදෙනෙකු සමීප සබඳතා පවත්වන බවට පොලිස් මූලස්ථානයට තොරතුරක් ලැබී තිබුණි.
+The Criminal Investigation Department (IGP) has launched a group of police officers in the Southern provinces that the underworld gangs called Ratgama Vidura.
 
-රත්ගම විදුර අදාළ උසස් පොලිස් නිලධාරියාගේ පෞද්ගලික බැංකු ගිණුමට විශාල වශයෙන් මුදල් බැරකර ඇති බවත්, තවත් පොලිස් නිලධාරින් කිහිපදෙනෙකුට ද  මුදල් ලබාදී ඇති බවත් පැවසෙයි.
+Among the suspects, a senior police officer who was transferred to a police division in Ratnapura District was also present.
 
-ඒ අනුව මේ පිළිබඳව විමර්ශනය කරන ලෙස පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුට උපදෙස් ලබාදී ඇති බව පොලිස් ආරංචිමාර්ග පැවසීය.
+Pudukumbuwana Vidura Vidura, a strong underworld leader of the South, has received information that several police officers including a superior police officer in the Ratgama Vijaya Wijesinghe, Ratgama Viddeniya Southern Province.
+
+It is said that the private bank account of the Ratgama Vidura has borrowed the private bank account of the relevant high-ranking police.
+
+According to police sources, IGP Deshabandu Tennakoon has instructed the CID to investigate this.
+
+According to police sources, the superior police officer has been transferred to a police division in the Southern Province.
+
+Investigation is also an investigation into whether there are other police officers who have obtained money from Ratgama Vidura.
+
+◼️
+
+[Data](articles/fb6b47bd.json)
+
+[Extended Data](ext_articles/fb6b47bd.ext.json)
+
+---
+
+### Kamala Harris top choice to replace Joe Biden if he steps aside, sources say
+
+*2024-07-03 21:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100276/kamala-harris-top-choice-to-replace-joe-biden-if-he-steps-aside-sources-say) · `en`
+
+Vice President Kamala Harris is the top alternative to replace U.S. President Joe Biden if he decides not to continue his reelection campaign, according to seven senior sources at the Biden campaign, the White House and the Democratic National Committee with knowledge of current discussions on the topic.
+
+Biden’s fumbling, sometimes-incoherent and widely-panned first-debate performance against Republican rival Donald Trump last week set off a wave of panic within the Democratic party over concerns that he may not be fit enough to serve a second term, and prompted calls for top aides to resign.
+
+Some influential Democrats have floated alternatives to Biden besides Harris, including popular cabinet members and Democratic governors like Gavin Newsom from California, Gretchen Whitmer of Michigan and Josh Shapiro of Pennsylvania. But trying to sidestep Harris is wishful thinking and would be nearly impossible, these sources, who did not wish to be named, said.
 
 ...
 
-[Data](articles/fb6b47bd.json)
+[Data](articles/30b76b0b.json)
+
+---
+
+### ශ්‍රී ලංකන් විකුණන්නේ නැහැ
+
+*2024-07-03 20:32:45* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකන්-විකුණන්නේ-නැහැ/11-410595) · `si`
+
+ආජන්ටිනාව, ඉක්වදෝරය සහ ඝානාවේ 25%ක ණය කපා හැර තිබෙන්නේ ද්වීපාර්ශ්වික ණය සඳහා නොව වාණිජ ණය ( Commercial Loans) සඳහායි.
+
+ජපාන ව්‍යාපෘති නැවත ආරම්භ කිරීම පිළිබඳව JICA සමඟ ලබන සතියේ සාකච්ඡා කරනවා – වරාය,නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා.
+
+ශ්‍රී ලංකන් ගුවන් සමාගම කිසි සේත්ම විකිණීමට කටයුතු නොකරන බවත් සිදු කරන්නේ ප්‍රතිව්‍යුහගතරණය කිරීමක් පමණක් බවත් වරාය, නාවික හා ගුවන් සේවා අමාත්‍යනිමල් සිරිපාල ද සිල්වා මහතා සඳහන් කළේය.
+
+නීතිය අනුව පවා වෙනත් සමාගමකට ලබා දිය හැක්කේ ශ්‍රී ලංකන් ගුවන් සමාගමේ කොටස්වලින් 49% ක් පමණක් බවත් කෙසේ නමුත් මේ දක්වා ඊට සුදුසු ආයෝජකයකු ඉදිරිපත් වී නොමැති බවත් අමාත්‍යවරයා සඳහන් කළේය.
+
+වරාය, නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (03) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+...
+
+[Data](articles/cbf5951a.json)
 
 ---
 
@@ -2383,55 +2429,5 @@ Q: Isn't the President Ranil Wickremesinghe become the common candidate?
 [Data](articles/d8477afa.json)
 
 [Extended Data](ext_articles/d8477afa.ext.json)
-
----
-
-### Anti-Muslim Violence in Kandy: What happened to the investigation report?
-
-*2024-07-03 08:26:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clwyv7z8r5zo) · `si`
-
-The investigation report on anti-Muslim violence in Kandy remains unpublished, despite being completed over six years ago. This lack of transparency has sparked concerns among victims and human rights activists. The report details extremist attacks on Muslims in 2018, which led to calls for justice from international bodies like the UNHRC. Despite efforts to release the report, obstacles such as internal disagreements within the commission and the sensitivity of the issue have delayed its publication. The Sri Lanka Human Rights Commission has now announced plans to make the report public, addressing criticisms that its suppression hindered justice for victims.
-
-🟩
-
-It has been revealed that the human rights report on the series of extremist violence targeting the Muslims in the Kandy area has not been made public.
-
-This has been revealed by a documentary of the victims of a pair of Tamil journalists who explored victims' proofs of the attack on the security forces of the government.
-
-"The Mount The Upcountry Muslim Rebellion is about 6 years of justice, including Digana and Teldeniya, and the geological attacks in March 2018.
-
-From the direction of journalist Paritaban Shanmugagathan, the edition of the edition of Selvani Sridharan reports have not been answered today about the UNHRC.
-
-According to journalist Parithban Shanmuganathan, the short film released on July 18, 2023, had not received an answer until July 18, 2023.
-
-The Sri Lanka Human Rights Commission had acted on March 9, 2018 to the 12th to 12th May of this year.
-
-...
-
-[Data](articles/84864f87.json)
-
-[Extended Data](ext_articles/84864f87.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-07-03 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100255/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Fairly heavy showers above 50mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts,it said.
-
-Showers or thundershowers may occur at several places in Uva province and in Ampara and Batticaloa districts in the evening or night.
-
-Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/40ebcf2b.json)
-
-[Extended Data](ext_articles/40ebcf2b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 23:19:57**
+As of **2024-07-03 23:35:10**
 
 ## Newspaper Stats
 
-*Scraped **33,538** Articles*
+*Scraped **33,540** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,967
 dailyftlk | 2,068
 adalk | 2,994
 adaderanalk | 3,828
-tamilmirrorlk | 3,967
+tamilmirrorlk | 3,969
 dailymirrorlk | 4,733
 virakesarilk | 5,246
 adaderanasinhalalk | 5,559
@@ -26,11 +26,47 @@ adaderanasinhalalk | 5,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,537 (100.0%) of 33,538 articles have been extended.
+33,538 (100.0%) of 33,540 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### வெள்ளையாக்கும் க்ரீம்களால் அதிகரிக்கும் சிறுநீரக நோயாளர்கள்
+
+*2024-07-03 23:16:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளையாக்கும்-க்ரீம்களால்-அதிகரிக்கும்-சிறுநீரக-நோயாளர்கள்/175-339842) · `ta`
+
+சருமத்தை வெண்மையாக்க பயன்படுத்தப்படும் பல்வேறு வகையான க்ரீம்களால் புற்றுநோயால் பாதிக்கப்படுவோரின் எண்ணிக்கையை விட சிறுநீரக நோயால் பாதிக்கப்பட்டவர்களின் எண்ணிக்கை அதிகரித்துள்ளதாக சுகாதாரத்துறை தெரிவித்துள்ளது.
+
+சுகாதார மேம்பாட்டு பணியகத்தில் இன்று  நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்ட  தோல் சிகிச்சை நிபுணர் டாக்டர் இந்திரா கஹ்விட்ட இதனைத் தெரிவித்தார்.
+
+“உலக சுகாதார அமைப்புக்கும் இலங்கை சுகாதார அமைச்சுக்கும் இடையில் பாதரச பாவனையை முற்றிலுமாக ஒழிக்கும் வேலைத்திட்டம் ஒன்று நடந்து வருகிறது.
+
+அதாவது பாதரசத்தின் அளவு பூஜ்ஜியமாக இருக்க வேண்டும். இப்போது இவை ஒரே இடத்தில் அல்ல முழுமையிலும் பயன்படுத்தப்படுகின்றன. உடலில் அதிக அளவு பாதரசம் பயன்படுத்தப்படும்போது சிறுநீரக நோய்கள் அதிகரித்து வருகின்றன.
+
+“24 மணி நேரத்தில், நான் 40 கிளினிக்குகளில் இருந்து தோராயமாக 60 நோயாளிகளை பரிசோதித்தேன். மொத்தத்தில், 06 நோயாளிகள், அதாவது 10%, வெண்மையாக்கும் க்ரீம்களால் ஏற்படும் பிரச்சனைகளுடன் வருகை தருகின்றனர்.
+
+...
+
+[Data](articles/de6261cf.json)
+
+---
+
+### யாழில் முரல் மீன் குத்தி மீனவர் மரணம்
+
+*2024-07-03 23:04:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-முரல்-மீன்-குத்தி-மீனவர்-மரணம்/71-339841) · `ta`
+
+யாழ்ப்பாணம் - குருநகர் பகுதியில் இருந்து மீன் பிடிக்கச் சென்ற மீனவர் ஒருவர் முரல் மீன் குத்தி மரணமடைந்துள்ளார்.
+
+உயிரிழந்தவர் குருநகரைச் சேர்ந்த இரண்டு பிள்ளைகளின் தந்தையான 29 வயதான மைக்கேல் கொலின் டினோ என தெரியவருகின்றது.
+
+இச் சம்பவம் தொடர்பான மேலதிக விசாரணைகளை யாழ்ப்பாணம் பொலிஸார் மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/ec68bec3.json)
+
+---
 
 ### Teenage boy and girl ‘jumped’ to death from 67th floor of Altair?
 
@@ -585,6 +621,8 @@ In this case, the police are investigating the death of the two students in the 
 ...
 
 [Data](articles/fe6779eb.json)
+
+[Extended Data](ext_articles/fe6779eb.ext.json)
 
 ---
 
@@ -2393,55 +2431,5 @@ The victim was a 71 year old resident of Pamunugama and the lorry driver has bee
 [Data](articles/e81240af.json)
 
 [Extended Data](ext_articles/e81240af.ext.json)
-
----
-
-### Shanmugam Kukadasan is a Member of Parliament;Gazette release
-
-*2024-07-03 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/187555) · `ta`
-
-Shanmugam Kukadasan, a key figure in the Tamil National Alliance (TNA), is set to become a Member of Parliament in Sri Lanka. He won the highest vote in the Trincomalee district during the 2020 parliamentary elections, succeeding the late TNA leader. His swearing-in ceremony is anticipated in the coming days.
-
-🟩
-
-The name of Shanmugam Kukadasan, the Senior Leader of the Tamil National Alliance (TNA) and the Member of Parliament, Amarar R. Sampanthan, is now in the vicinity of Shanmugam Kukadasan.
-
-Shanmugam Kukadasan contested the Trincomalee district in the 2020 parliamentary election on behalf of the Sri Lanka Tamil National Alliance (TNA).
-
-In that election, he had received the highest number of votes after the late leader of the Sri Lanka Tamil National Alliance (TNA).
-
-Shanmugam Kukadasan is expected to swear as a Member of Parliament in the Parliament of Sri Lanka in the next few days.
-
-◼️
-
-[Data](articles/f96e2ba6.json)
-
-[Extended Data](ext_articles/f96e2ba6.ext.json)
-
----
-
-### Man dies after boat falls
-
-*2024-07-03 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198433) · `si`
-
-A man died when his boat capsized near the Kayts Kandattawan jetty while being transported to Nagadeepa Island. The four-person crew managed to rescue themselves and others nearby, but tragically, one passenger, a 42-year-old from Pankuddhav, did not survive. His body is now at Jaffna Hospital for examination.
-
-🟩
-
-One person was killed after a boat was near the Kayts Kandattawan jetty.
-
-Police said that the accident had occurred when the boat was transported to Nagadeepa Island.
-
-Four persons on the boat were traveling at the time of the accident and one of them died.
-
-The other three persons have rescued the locals and hospitalized.
-
-The deceased has been identified as a 42 year old resident of Pankuddhav, and the body has been placed at the Jaffna Hospital for postmortem examination.
-
-◼️
-
-[Data](articles/e4b3a0db.json)
-
-[Extended Data](ext_articles/e4b3a0db.ext.json)
 
 ---

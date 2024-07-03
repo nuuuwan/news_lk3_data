@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 09:35:06**
+As of **2024-07-03 09:54:25**
 
 ## Newspaper Stats
 
-*Scraped **33,422** Articles*
+*Scraped **33,424** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ adaderanalk | 3,810
 tamilmirrorlk | 3,956
 dailymirrorlk | 4,733
 virakesarilk | 5,222
-adaderanasinhalalk | 5,534
+adaderanasinhalalk | 5,536
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,420 (100.0%) of 33,422 articles have been extended.
+33,422 (100.0%) of 33,424 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### ජීවිත බිලිගත් මාරක අනතුරු
+
+*2024-07-03 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198434) · `si`
+
+දිවයිනේ ප්‍රදේශ කිහිපයක සිදුවූ රියඅනතුරුවලින් පුද්ගලයින් තිදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+පොලීසිය පැවසුවේ, කැබිතිගොල්ලෑව පදවිය මාර්ගයේදී යතුරුපැදියක් පැදිකරුට පාලනය කර ගැනීමට නොහැකි වීමෙන් මාර්ගයේ ඉවතට පැන ඇලකට පෙරලීමෙන් 57 හැවිරිදි ඇටවීරගොල්ලෑව ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු මියගොස් ඇති බවය.
+
+හෙට්ටිපොල මදුල්ල මාර්ගයේ රඹෑව ප්‍රදේශයේදී යතුරුපැදියක් විදුලි රැහැන් කණුව ගැටීමෙන් සිදුවූ අනතුරකින් තවත් පුද්ගලයෙකු මියගොස් තිබේ.
+
+මේ අතර මීගමුව උස්වැටකෙයියාව මාර්ගයේ දී ඇලෙන්එගොඩ ප්‍රදේශයේදී මාර්ගයේ ගමන් කරමින් සිටි පදික කාන්තාවක් ලොරි රථයක ගැටීමෙන් මියගොස් තිබේ.
+
+මියගොස් ඇත්තේ 71 හැවිරිදි පමුණුගම ප්‍රදේශයේ පදිංචිකාරියක් වන අතර අනතුර සම්බන්ධයෙන් ලොරි රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පැවසුවේය.
+
+◼️
+
+[Data](articles/e81240af.json)
+
+---
+
+### බෝට්ටුවක් පෙරළී පුද්ගලයෙක් මරුට
+
+*2024-07-03 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198433) · `si`
+
+කයිට්ස් කුරිකට්ටුවාන් ජැටිය ආසන්නයේදී බෝට්ටුවක් පෙරළීමෙන් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+පොලීසිය පැවසුවේ නාගදීප දුපත වෙත කළු ගල් දැමූ උර ප්‍රවාහනය කරමින් සිටියදී බෝට්ටුව පෙරළීමෙන්  එම අනතුර සිදුව ඇති බවය.
+
+එම අනතුර සිදුවන අවස්ථාවේදී බෝට්ටුවේ පුද්ගලයින් සිව්දෙනෙකු ගමන් කර ඇති අතර ඉන් එක් පුද්ගලයෙකු එලෙස මියගොස් තිබේ.
+
+අනෙක් පුද්ගලයින් තිදෙනා ප්‍රදේශවාසීන් විසින් බේරාගෙන රෝහල් ගත කර ඇත.
+
+අනතුරින් මියගොස් ඇත්තේ 42 හැවිරිදි පුංකුඩතිව් ප්‍රදේශයේ පදිංචිකරුවෙක් වන අතර මෘත ශරීරය පශ්චාත් මරණ පරීක්ෂණ සඳහා යාපනය රෝහලේ තැන්පත් කර තිබේ.
+
+◼️
+
+[Data](articles/e4b3a0db.json)
+
+---
 
 ### Excise revenue collection hits Rs. 105 billion so far this year
 
@@ -51,6 +91,8 @@ Gunasiri remarked that if not for these setbacks, they could have reached their 
 ...
 
 [Data](articles/1ae0672b.json)
+
+[Extended Data](ext_articles/1ae0672b.ext.json)
 
 ---
 
@@ -1128,15 +1170,21 @@ A 15 -year -old boy and a student who is educated at an international school in 
 
 ---
 
-### மாணவனும் மாணவியும் மாடியில் இருந்து குதித்து பலி
+### Student and student jumping off the floor
 
 *2024-07-02 22:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/மாணவனும்-மாணவியும்-மாடியில்-இருந்து-குதித்து-பலி/150-339781) · `ta`
 
-கொழும்பு குருந்துவத்தையில் உள்ள சர்வதேச பாடசாலை ஒன்றில் கல்வி கற்கும் 15 வயதுடைய சிறுவனும் மாணவியும் கொம்பனி வீதியிலுள்ள சொகுசு குடியிருப்பு கட்டிடத்தின் 67வது மாடியில் இருந்து குதித்து தற்கொலை செய்து கொண்டுள்ளனர்.
+A 15-year-old boy from Kurunduwa, Colombo, attending an international school, tragically ended his life by jumping from the 67th floor of a luxury residential building on Kombani Road.
+
+🟩
+
+A 15 -year -old boy and a student who is educated at an international school in Kurunduwa, Colombo has committed suicide by jumping from the 67th floor of the Luxury Residential Building on Kombani Road.
 
 ◼️
 
 [Data](articles/d930721b.json)
+
+[Extended Data](ext_articles/d930721b.ext.json)
 
 ---
 
@@ -2213,53 +2261,5 @@ Even though Basil Rajapaksa has asked the Finance Minister to stretch his finger
 [Data](articles/07e0bb18.json)
 
 [Extended Data](ext_articles/07e0bb18.ext.json)
-
----
-
-### The government has surrendered to international bailout journalists - Sajith
-
-*2024-07-02 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/187509) · `ta`
-
-The government is reportedly succumbing to international bailouts amidst its domestic and foreign debt restructuring efforts. Opposition Leader Sajith Premadasa criticizes the move, alleging that it prioritizes the wealthy over workers' pensions. President Ranil Wickremesinghe responded to these claims in Parliament, suggesting that the International Bailout Committee's statements indicate unsuccessful negotiations. This controversy was highlighted on January 31, 2024.
-
-🟩
-
-In the wake of the government's domestic debt restructuring process and the foreign debt restructuring process, it is revealed that international bail -outs are undergoing subordinate.
-
-Opposition Leader Sajith Premadasa said that when international bail -outs are trying to threaten, the domestic debt restructuring has been implemented by protecting the giant wealthy and pressing the pension funds of the working people.
-
-President Ranil Wickremesinghe made this statement in response to his speech in Parliament on Tuesday (02).
-
-If negotiations with international bailout journalists have been well carried out, the committee representing the International Bailbreak Papergirls would not have issued statements.
-
-The opposition leader pointed out that the government's lack of concern has been issued on January 31, 2024.
-
-◼️
-
-[Data](articles/2e76f533.json)
-
-[Extended Data](ext_articles/2e76f533.ext.json)
-
----
-
-### The weakness of the government could not extend the time of repayment of the loan - Sajith
-
-*2024-07-02 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/187505) · `ta`
-
-Despite IMF extending loan repayments to 2033, the government failed to negotiate an agreement, citing its negotiation weaknesses. Opposition leader Sajith Premadasa criticized the government for not including details on China's loans during the debt restructuring discussion.
-
-🟩
-
-Speaking to the people of the country, the time has been set up until 2028 to repay the loan.. However, even though the International Monetary Fund extended the refunds in March 2023 until 2033, the government could not go to that agreement. The opposition leader said that this was due to the weakness of the government's negotiations.
-
-Opposition Leader Sajith Premadasa said this while responding to his speech in Parliament on Tuesday (02).
-
-Although it is said that US $ 3.9 billion has been reassessed with China's Exim Bank, the Chinese government's $ 13.8 million loans and $ 538 million from the Chinese Development Bank are not mentioned.. The Leader of the Opposition said that some information was talking about the success of the debt restructuring process without publishing some information.
-
-◼️
-
-[Data](articles/29c5fe2f.json)
-
-[Extended Data](ext_articles/29c5fe2f.ext.json)
 
 ---

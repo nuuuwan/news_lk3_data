@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 09:54:25**
+As of **2024-07-03 10:05:59**
 
 ## Newspaper Stats
 
-*Scraped **33,424** Articles*
+*Scraped **33,425** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,866
 economynextcom | 1,954
 dailyftlk | 2,068
 adalk | 2,977
-adaderanalk | 3,810
+adaderanalk | 3,811
 tamilmirrorlk | 3,956
 dailymirrorlk | 4,733
 virakesarilk | 5,222
@@ -26,49 +26,85 @@ adaderanasinhalalk | 5,536
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,422 (100.0%) of 33,424 articles have been extended.
+33,424 (100.0%) of 33,425 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
-### ජීවිත බිලිගත් මාරක අනතුරු
+### Kuhadasan nominated to fill Sampanthan’s MP seat
+
+*2024-07-03 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100258/kuhadasan-nominated-to-fill-sampanthans-mp-seat) · `en`
+
+Kathiravelu Sanmugam Kuhadasan has been nominated to fill the parliamentary seat left vacant following the passing of former TNA leader Rajavarothiam Sampanthan.
+
+According to the Election Commission, Kuhadasan will represent the Trincomalee electoral division in the 9th Parliament.
+
+The relevant gazette notification has been issued confirming his appointment.
+
+Meanwhile, the remains of the late R. Sampanthan currently lie at a private funeral parlour in Colombo and will remain there until noon today (03).
+
+It will be transported to Parliament in the afternoon and placed there from 2:00 p.m. to 4:00 p.m. for public representatives and parliament staff to pay respects.
+
+The remains will then be moved to Trincomalee tomorrow (04), where it will be available for public to pay final respects until Sunday. The funeral is scheduled for Sunday.
+
+Kuhadasan nominated to fill Sampanthan’s MP seat by Adaderana Online on Scribd
+
+◼️
+
+[Data](articles/d52aa447.json)
+
+---
+
+### Fatal accidents that have been killed
 
 *2024-07-03 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198434) · `si`
 
-දිවයිනේ ප්‍රදේශ කිහිපයක සිදුවූ රියඅනතුරුවලින් පුද්ගලයින් තිදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+In separate incidents across the island, three fatalities occurred: two men aged 57 and 71 died in car and motorcycle crashes respectively, while a female pedestrian was hit by a lorry. The police have taken the lorry driver into custody.
 
-පොලීසිය පැවසුවේ, කැබිතිගොල්ලෑව පදවිය මාර්ගයේදී යතුරුපැදියක් පැදිකරුට පාලනය කර ගැනීමට නොහැකි වීමෙන් මාර්ගයේ ඉවතට පැන ඇලකට පෙරලීමෙන් 57 හැවිරිදි ඇටවීරගොල්ලෑව ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු මියගොස් ඇති බවය.
+🟩
 
-හෙට්ටිපොල මදුල්ල මාර්ගයේ රඹෑව ප්‍රදේශයේදී යතුරුපැදියක් විදුලි රැහැන් කණුව ගැටීමෙන් සිදුවූ අනතුරකින් තවත් පුද්ගලයෙකු මියගොස් තිබේ.
+Three people were killed in the accidents in several parts of the island.
 
-මේ අතර මීගමුව උස්වැටකෙයියාව මාර්ගයේ දී ඇලෙන්එගොඩ ප්‍රදේශයේදී මාර්ගයේ ගමන් කරමින් සිටි පදික කාන්තාවක් ලොරි රථයක ගැටීමෙන් මියගොස් තිබේ.
+Police said that the 57-year-old residents of the Boheweeragollegoda area have died after being removed from the cabinigollewa road.
 
-මියගොස් ඇත්තේ 71 හැවිරිදි පමුණුගම ප්‍රදේශයේ පදිංචිකාරියක් වන අතර අනතුර සම්බන්ධයෙන් ලොරි රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පැවසුවේය.
+Another person has been killed in a motorcycle collision in the Rambewa area on the Colombo road on the route of the Hettipola road.
+
+Meanwhile, a pavement woman who was traveling on the road in the Uzwewaia road in Negombo road has died of a lorry.
+
+The victim was a 71 year old resident of Pamunugama and the lorry driver has been arrested in connection with the accident.
 
 ◼️
 
 [Data](articles/e81240af.json)
 
+[Extended Data](ext_articles/e81240af.ext.json)
+
 ---
 
-### බෝට්ටුවක් පෙරළී පුද්ගලයෙක් මරුට
+### Man dies after boat falls
 
 *2024-07-03 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198433) · `si`
 
-කයිට්ස් කුරිකට්ටුවාන් ජැටිය ආසන්නයේදී බෝට්ටුවක් පෙරළීමෙන් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+A man died when his boat capsized near the Kayts Kandattawan jetty while being transported to Nagadeepa Island. The four-person crew managed to rescue themselves and others nearby, but tragically, one passenger, a 42-year-old from Pankuddhav, did not survive. His body is now at Jaffna Hospital for examination.
 
-පොලීසිය පැවසුවේ නාගදීප දුපත වෙත කළු ගල් දැමූ උර ප්‍රවාහනය කරමින් සිටියදී බෝට්ටුව පෙරළීමෙන්  එම අනතුර සිදුව ඇති බවය.
+🟩
 
-එම අනතුර සිදුවන අවස්ථාවේදී බෝට්ටුවේ පුද්ගලයින් සිව්දෙනෙකු ගමන් කර ඇති අතර ඉන් එක් පුද්ගලයෙකු එලෙස මියගොස් තිබේ.
+One person was killed after a boat was near the Kayts Kandattawan jetty.
 
-අනෙක් පුද්ගලයින් තිදෙනා ප්‍රදේශවාසීන් විසින් බේරාගෙන රෝහල් ගත කර ඇත.
+Police said that the accident had occurred when the boat was transported to Nagadeepa Island.
 
-අනතුරින් මියගොස් ඇත්තේ 42 හැවිරිදි පුංකුඩතිව් ප්‍රදේශයේ පදිංචිකරුවෙක් වන අතර මෘත ශරීරය පශ්චාත් මරණ පරීක්ෂණ සඳහා යාපනය රෝහලේ තැන්පත් කර තිබේ.
+Four persons on the boat were traveling at the time of the accident and one of them died.
+
+The other three persons have rescued the locals and hospitalized.
+
+The deceased has been identified as a 42 year old resident of Pankuddhav, and the body has been placed at the Jaffna Hospital for postmortem examination.
 
 ◼️
 
 [Data](articles/e4b3a0db.json)
+
+[Extended Data](ext_articles/e4b3a0db.ext.json)
 
 ---
 
@@ -2239,27 +2275,5 @@ Later on the night of June 14, the vessel was brought to Galle Port, where a det
 [Data](articles/b459a641.json)
 
 [Extended Data](ext_articles/b459a641.ext.json)
-
----
-
-### The International Monetary Fund Technical Reports have not yet been submitted to the House - Sajith
-
-*2024-07-02 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/187513) · `ta`
-
-Opposition leader Sajith Premadasa criticized the government for not submitting IMF technical reports to Parliament, highlighting the need for transparency. President Ranil Wickremesinghe responded, noting the absence of these reports despite requests from Basil Rajapaksa for the Finance Minister to act.
-
-🟩
-
-Opposition leader Sajith Premadasa said the technical assessment reports prepared by the International Monetary Fund have not been submitted to the House to date.
-
-President Ranil Wickremesinghe said this in response to a speech made in Parliament on Tuesday (02).
-
-Even though Basil Rajapaksa has asked the Finance Minister to stretch his finger, but today the president does not make those reports. The opposition leader pointed out that the reports should be submitted.
-
-◼️
-
-[Data](articles/07e0bb18.json)
-
-[Extended Data](ext_articles/07e0bb18.ext.json)
 
 ---

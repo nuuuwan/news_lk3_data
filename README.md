@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 13:04:55**
+As of **2024-07-03 13:19:29**
 
 ## Newspaper Stats
 
-*Scraped **33,466** Articles*
+*Scraped **33,468** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,74 @@ economynextcom | 1,957
 dailyftlk | 2,068
 adalk | 2,983
 adaderanalk | 3,818
-tamilmirrorlk | 3,963
+tamilmirrorlk | 3,964
 dailymirrorlk | 4,733
 virakesarilk | 5,229
-adaderanasinhalalk | 5,543
+adaderanasinhalalk | 5,544
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,460 (100.0%) of 33,466 articles have been extended.
+33,466 (100.0%) of 33,468 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
-### ஐ.தே.க வில் இணைந்தார் மஹிந்த கஹந்தவெல
+### ලොව පළමු රොබෝ සියදිවි හානිකර ගැනීම දකුණු කොරියාවෙන්
+
+*2024-07-03 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198443) · `si`
+
+දකුණු කොරියාවේ රාජ්‍ය සේවයේ නිරතව සිටි රොබෝ යන්ත්‍රයක් සියදිවි නසාගත් බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+මෙලෙස සියදිවි හානිකර ගෙන ඇත්තේ වසරක පමණ කාලයක් දකුණු කොරියාවේ ගුමී නගර සභාවේ සේවයේ නිරතව සිටි රොබෝ යන්ත්‍රයකි.
+
+මීටර 2ක පමණ උසින් යුතු පියගැට පෙළකින් වැටී සිටියදී අක්‍රීය වූ රොබෝ සේවකයා සොයා ගෙන තිබුණි.
+
+රොබෝ යන්ත්‍රය පඩිපෙලෙන් පහළට වැටීමට පෙර එක තැන කැරකී ඇති බවත්, පසුව පඩිපෙලෙන් පහළට වැටී ඇති බවත් ගුමි නගරයේ බලධාරීන් සඳහන් කර තිබේ.
+
+ගුමී නගරවාසීන් සියදිවි නසාගත් රොබෝවරයා වෙනුවෙන් ශෝකය පළ කර තිබුණි.
+
+දකුණු කොරියානු මාධ්‍ය මෙම සිදුවීම වාර්තා කර තිබුණේ එරට සිදුවූ පළමු රොබෝ සියදිවි නසාගැනීම ලෙසය.
+
+◼️
+
+[Data](articles/23af5462.json)
+
+---
+
+### ஜனாதிபதித் தேர்தலுக்கு தடை கோரி மனு
+
+*2024-07-03 12:54:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலுக்கு-தடை-கோரி-மனு/175-339814) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பதவி காலம் தொடர்பில் தெளிவூட்ட வேண்டுமெனக்  கோரி உயர்நீதிமன்றத்தில் புதன்கிழமை (03) மனுவொன்று தாக்கல் செய்யப்பட்டுள்ளது. அரசியலமைப்புக்கு அமைய ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பதவிக்காலத்தை தெளிவூட்டவேண்டுமென உயர்நீதிமன்றத்தில் தாக்கல் செய்யப்பட்டுள்ள மனுவின் ஊடாக கோரிக்கை விடுக்கப்பட்டுள்ளது.
+
+அரசியலமைப்பின் பிரகாரம் தற்போ​தைய ஜனாதிபதியின் பதவிக்காலம்  தொடர்பில் உயர்நீதிமன்றம் தெளிவூட்டும் வரை, அடுத்த ஜனாதிபதித் தேர்தலை நடாத்துவதற்கு இடைகால தடை விதிக்குமாறு மனுதாரர் கோரிக்கை விடுத்துள்ளார்.
+
+◼️
+
+[Data](articles/bda9dbb8.json)
+
+---
+
+### Mahinda Kahanthawela joined the UNP
 
 *2024-07-03 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/187577) · `ta`
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் கொழும்பு மாநகர சபை முன்னாள் உறுப்பினர் மஹிந்த கஹந்தவெல ஐக்கிய தேசியக் கட்சியில் இணைந்துள்ளார்.
+Mahinda Kahanthawela, ex-Colombo Municipal Council member, has joined the United National Party (UNP) as the organizer for Central Colombo. This move comes with President Ranil Wickremesinghe's backing.
 
-மத்திய கொழும்புத் தொகுதியின் வலய அமைப்பாளராக கஹந்தவெல நியமிக்கப்பட்டுள்ளார். இந்நிலையில், ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு தனது ஆதரவை உறுதியளித்துள்ளார்.
+🟩
+
+Former Colombo Municipal Council member Mahinda Kahanthawela has joined the United National Party (UNP).
+
+Kahanthawela has been appointed as the organizer of the Central Colombo constituency. In this case, President Ranil Wickremesinghe has promised his support.
 
 ◼️
 
 [Data](articles/44175e69.json)
+
+[Extended Data](ext_articles/44175e69.ext.json)
 
 ---
 
@@ -84,33 +126,47 @@ The petition requests that an interim order be issued to prevent the holding of 
 
 ---
 
-### வெளிநாட்டில் வசித்துவரும் ஒருவருக்குச் சொந்தமான காணி மோசடி - சந்தேகநபர் கைது!
+### Land scam belonging to someone living abroad
 
 *2024-07-03 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/187562) · `ta`
 
-வெளிநாட்டில் வசித்துவரும் ஒருவருக்குச் சொந்தமான காணியை, ஆள்மாறாட்டம் செய்து உரிமை மாற்றம் செய்த சகோதரி பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+In a land scam case, a man from Jaffna living abroad entrusted his land to his landlord. His sister, however, impersonated him to claim ownership, leading to her arrest along with another accomplice. The police, acting on a complaint, investigated the fraud, revealing the sister paid a Colombo-based woman to sign documents as her brother, who was allegedly ill. Both women were charged and remanded for further investigation.
 
-யாழ்ப்பாணத்தைச் சேர்ந்த நபரொருவர் புலம்பெயர்ந்து வெளிநாடொன்றில் வசித்து வருகின்றார். அவர் தனது காணிக்கான அற்றோனித்தத்துவ அதிகாரத்தை தனது ஒன்றுவிட்ட சகோதரிக்கு வழங்கியிருந்தார். இந்த நிலையில், காணி உரிமையாளரின் சொந்தச் சகோதரி பிறிதொரு தேவையைக் காரணம்காட்டி ஒன்றுவிட்ட சகோதரியிடமிருந்து உறுதியைப் பெற்றுச்சென்று மோசடியாக உரிமை மாற்றம் செய்துள்ளார்.
+🟩
 
-இது தொடர்பில் யாழ்ப்பாணம் மாவட்ட குற்ற விசாரணைப் பிரிவுப் பொறுப்பதிகாரி குணரோஜன் தலைமையிலான குழுவினரிடம் வழங்கப்பட்ட முறைப்பாட்டுக்கு அமைய விசாரணைகளை மேற்கொண்ட பொலிஸார், காணி மோசடி செய்த சகோதரியைக் கைது செய்தனர். அவர் ஆள்மாறாட்டம் செய்வதற்கு உதவிய பிறிதொரு பெண்ணும் கைது செய்யப்பட்டார்.
+The sister has been arrested by the police for impersonating and transformed into a land owned by a resident of a living abroad.
+
+A man from Jaffna migrates and lives abroad. He had given his land to his landlord. In this case, the land owner's own sister has defrauded the right to get the assurance from the one -sided sister.
+
+Police investigated a complaint lodged with a group led by Gunarojan, the Jaffna District Criminal Investigation Division.. Another woman was also arrested for helping her impersonation.
+
+When she was also tried in the Jaffna Magistrate's Court on Monday (01), Magistrate Anandarajah admitted that she was impersonating her for recalling for 10 thousand rupees.. Subsequently, the two of them have been placed in interrogation on a court order.
 
 ...
 
 [Data](articles/b16f83a6.json)
 
+[Extended Data](ext_articles/b16f83a6.ext.json)
+
 ---
 
-### ஒவ்வொரு வருடமும் தற்கொலைகளால் 3 ஆயிரத்திற்கும் மேற்பட்டவர்கள் உயிரிழப்பு
+### More than 3 thousand people die of suicide every year
 
 *2024-07-03 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/187571) · `ta`
 
-ஜூலை முதலாம் திகதி முதல் 5 ஆம் திகதி வரை அனுஷ்டிக்கப்படும் தேசிய காயம் தடுப்பு வாரத்தின் போது இந்த புள்ளிவிவரம் சுகாதார அமைச்சகத்தால் வெளியிடப்பட்டுள்ளது.
+Every year, over 3,000 people die by suicide, according to data released by the Ministry of Health during National Injury Prevention Week (July 1-5). Health officials stress the importance of enhanced mental health services, awareness campaigns, and suicide prevention tactics to combat this critical public health issue.
 
-இந்த ஆபத்தான போக்கை எதிர்த்துப் போராடுவதற்கு, மேம்பட்ட மனநல ஆதரவு சேவைகள், சமூக விழிப்புணர்வு திட்டங்கள் மற்றும் தற்கொலை தடுப்பு உத்திகள் ஆகியவற்றின் அவசரத் தேவையை வலியுறுத்தி, தற்கொலைகள் ஒரு குறிப்பிடத்தக்க பொது சுகாதார சவாலாக இருப்பதாக சுகாதார அதிகாரிகள் வலியுறுத்தியுள்ளனர்.
+🟩
+
+The statistics have been released by the Ministry of Health during the National Injury Prevention Week, which will be observed from July 1 to 5.
+
+Health officials have emphasized that suicides are a significant public health challenge, emphasizing the urgent need for advanced mental health support services, social awareness programs and suicide prevention strategies to fight this dangerous course.
 
 ◼️
 
 [Data](articles/434639ed.json)
+
+[Extended Data](ext_articles/434639ed.ext.json)
 
 ---
 
@@ -170,23 +226,29 @@ Mahinda Kahanthawela, a former member of the Sri Lanka PA's Colombo Municipal Co
 
 ---
 
-### ஆசிரியர் தாக்கியதால் பாடசாலை செல்ல மறுக்கும் மாணவன் ; முல்லைத்தீவில் சம்பவம்
+### A student who refuses to go to school due to the teacher attacked;The incident in Mullaithivu
 
 *2024-07-03 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/187572) · `ta`
 
-முல்லைத்தீவு  கல்வி வலயத்திற்கு உட்பட்ட பாடசாலை ஒன்றில் தரம் ஒன்பதில் கல்வி கற்கும் மாணவனின் தலையில் ஆசிரியர் தாக்கியதால் பாடசாலை செல்வதற்கு மாணவன் மறுப்புத் தெரிவித்து வருவதாக குற்றச்சாட்டு எழுந்துள்ளது.
+A student boycotted school after a teacher assaulted the head of another student in Mullaithivu. The teacher allegedly avoided discussing the incident with the police and parents, despite the victim being hospitalized.
 
-கடந்த 19 ஆம் திகதி குறித்த பாடசாலையில் கல்வி பயிலும் மாணவன் ஒருவர் மீது ஆசிரியர் தலையில் தாக்கியுள்ளார்.
+🟩
 
-இந்நிலையில்,  குறித்த மாணவன் பாடசாலை செல்வதற்கு மறுப்புத் தெரிவித்து வரும் நிலையில் சம்பவத்துடன் தொடர்பட்ட ஆசிரியருடன்  பெற்றோர் சந்திப்பதற்கு முயற்சிகள் மேற்கொள்ளப்பட்ட போதும் அதிபர் குறித்த ஆசிரியருடன் தாம் பேசுவதாக தெரிவித்ததாக பெற்றோர் தரப்பில் தெரிவிக்கப்பட்டது.
+It is alleged that the student was refusing to go to school as a teacher attacked the head of a quality student in a school under the Mullaitivu Educational Zone.
 
-எனினும் தமது பிள்ளைக்கு இடம்பெற்ற சம்பவம் தொடர்பில் குறித்த ஆசிரியர் தம்முடன் கலந்துரையாடாத நிலையில் குறித்த விடயம்  தொடர்பில் முல்லைத்தீவு பொலிஸாருக்கு தகவல் தெரியப்படுத்திய நிலையில் பொலிஸார் நேற்றைய தினம் செவ்வாய்க்கிழமை குறித்த மாணவனையும் பெற்றோரையும் பொலிஸ் நிலையம் அழைத்து விசாரித்துள்ளனர்.
+On the 19th, a school student was attacked by a teacher's head.
 
-இதன்போது குறித்த மாணவனை வைத்தியசாலையில் அனுமதிக்குமாறு பொலிஸார் அறிவுறுத்தல் வழங்கியதாக பெற்றோர் தரப்பில் தெரிவிக்கப்பட்டது.
+In this case, the parents were refused to go to school, but the parents were informed that they were talking to the teacher of the Chancellor, even though the parents were trying to meet with the teacher who was involved in the incident.
+
+However, the Mullaitivu police have informed the Mullaitivu police about the matter and the teacher did not discuss the incident.
+
+Parents were informed that the police had instructed the student to be admitted to the hospital.
 
 ◼️
 
 [Data](articles/f0a317fd.json)
+
+[Extended Data](ext_articles/f0a317fd.ext.json)
 
 ---
 
@@ -1632,6 +1694,8 @@ Therefore, I would like to present the information about the current situation t
 
 [Data](articles/d34ea441.json)
 
+[Extended Data](ext_articles/d34ea441.ext.json)
+
 ---
 
 ### Bhikku politics is a key causative factor of the national malaise and no system-change for the better is possible if political monks continue to propose and dispose.
@@ -2199,43 +2263,5 @@ Signature partners with Sri Lanka Hockey Federation as ‘Official Formal Wear P
 [Data](articles/30b693a7.json)
 
 [Extended Data](ext_articles/30b693a7.ext.json)
-
----
-
-### Hemas Holdings strengthens Board to drive growth
-
-*2024-07-02 20:52:00* · [`islandlk`](http://island.lk/hemas-holdings-strengthens-board-to-drive-growth/) · `en`
-
-Hemas Holdings PLC announced the appointment of Ajith Fernando and Supun Weerasinghe as Independent Non-Executive Directors, effective 1st July 2024. Additionally, Ajith Fernando will serve as a member of the Hemas Board’s Nomination and Governance Committee. These strategic appointments underscore Hemas’ commitment to enhancing governance and leveraging deep industry expertise as the Group continues its growth trajectory.
-
-Ajith Fernando is a seasoned veteran with over 35 years in the financial sector, specializing in capital markets. He is widely recognized for his role in founding the Capital Alliance Group, where he served as CEO until December 2023, driving the firm’s expansion into Bangladesh and solidifying its position as a leading investment bank in Sri Lanka.
-
-Sri Lanka’s largest digital marketing event returns with a bang
-
-Signature partners with Sri Lanka Hockey Federation as ‘Official Formal Wear Partner’ for Junior Men’s Asian Federation Hockey Cup
-
-...
-
-[Data](articles/e1237274.json)
-
-[Extended Data](ext_articles/e1237274.ext.json)
-
----
-
-### HSBC Sri Lanka celebrates 30 years of innovation and excellence in credit cards
-
-*2024-07-02 20:51:00* · [`islandlk`](http://island.lk/hsbc-sri-lanka-celebrates-30-years-of-innovation-and-excellence-in-credit-cards/) · `en`
-
-– Celebration to feature an exclusive campaign for customers with 30th Anniversary Gold sovereigns, LKR 30,000 in cash rebates and rewards and 30% savings for cardholders –
-
-HSBC Sri Lanka proudly marks a significant milestone, celebrating 30 years of delivering credit card services to its valued customers. Since the introduction of credit cards in 1994, HSBC has consistently led the market with innovative products, customer service and a commitment to deliver exceptional value.
-
-To commemorate the milestone, HSBC has launched a special 30th anniversary campaign throughout the month of July to reward its loyal cardholders with exclusive 30th Anniversary Gold sovereigns, LKR 30,000 in cash rebates and rewards, including a whopping 30% saving at over 30 fabulous hotels, restaurants, department stores, and more, so customers can shop and dine to their heart’s content.
-
-...
-
-[Data](articles/65a3f4ea.json)
-
-[Extended Data](ext_articles/65a3f4ea.ext.json)
 
 ---

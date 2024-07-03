@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 01:04:46**
+As of **2024-07-04 01:36:10**
 
 ## Newspaper Stats
 
-*Scraped **33,546** Articles*
+*Scraped **33,547** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 330
 newsfirstlk | 363
 islandlk | 1,867
 economynextcom | 1,967
-dailyftlk | 2,069
+dailyftlk | 2,070
 adalk | 2,996
 adaderanalk | 3,829
 tamilmirrorlk | 3,969
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,545 (100.0%) of 33,546 articles have been extended.
+33,546 (100.0%) of 33,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### Sampanthan, stature diminished by links to LTTE, is no more
+
+*2024-07-04 01:17:39* · [`dailyftlk`](https://www.ft.lk/opinion/Sampanthan-stature-diminished-by-links-to-LTTE-is-no-more/14-763808) · `en`
+
+Sampanthan could never overlook the ethnic divisions that have plagued Sri Lanka for decades – before, during and after the war
+
+Sampanthan, one among the few TNA leaders who Western diplomats in Colombo continued to respect despite his political predicament, tried to come on to his own after the LTTE was militarily crushed. Now minus the armed campaign to break up Sri Lanka, the TNA leader made some bold statements, making it clear that he wanted to be a part of the island nation. A section of the TNA, which fragmented over the years, sided with him. After the war, he played a major role in highlighting internationally the horrific price the ordinary Tamils had to pay in Sri Lanka simply for being at the wrong place at the wrong time
+
+...
+
+[Data](articles/02e40a46.json)
+
+---
 
 ### KPMG and Indo-Lanka collaboration
 
@@ -68,25 +82,35 @@ The deal marks the culmination of more than a year of difficult negotiations bet
 
 ### 2024-07-03 (Wednesday)
 
-### கலம்போ ஸ்ட்ரைக்கர்ஸின் கடும் சவாலை முறியடித்து 7 ஓட்டங்களால் பரபரப்பான வெற்றியை ஈட்டியது கோல் மார்வல்ஸ்
+### Cole Marwals broke the tough challenge of Kalambo Strikers
 
 *2024-07-03 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/187627) · `ta`
 
-கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் புதன்கிழமை (03) நடைபெற்ற ஐந்தாவது லங்கா பிறீமியர் லீக் அத்தியாயத்தின் 5ஆவது போட்டியில் கலம்போ ஸ்ட்ரைக்கர்ஸிடம் கடும் சவாலை எதிர்கொண்ட கோல் மார்வல்ஸ் 7 ஓட்டங்களால் மிகவும் பரபரப்பான வெற்றியை ஈட்டியது.
+In the 5th match of the Fifth Lanka Premier League, Cole Marwal's team secured a thrilling victory against Kalambo Strikers at the Pallekele International Cricket Stadium. Despite losing all wickets in 20 overs, Marwal's team managed to score 179 runs, thanks to impressive performances from Niroshan Dikwella and Alex Hales, who shared a 71-run partnership. Isuru Udana's crucial role in the last over sealed the win for Marwal's team, which now leads with 4 points after 2 victories. Kalambo Strikers, despite a strong fightback led by Dunit Wellalake and Samika Karunaratne, ultimately fell short, losing 9 wickets in 20 overs.
 
-ஆட்டத்தின் கடைசி பகுதியில் மத்திய வரிசை வீரர் துனித் வெல்லாலகே தனி ஒருவராக கலம்போ ஸ்ட்ரைக்கர்ஸின் வெற்றிக்காக போராடிய போதிலும் அது இறுதியில் கைகூடாமல் போனது.
+🟩
 
-இசுறு உதான கடைசி ஓவரை கட்டுப்பாட்டுடன் வீசி கோல் மார்வல்ஸ் அணியின் வெற்றியை உறுதிசெய்தார்.
+Goal Marwal's 7 runs won the most exciting victory in the 5th match of the Fifth Lanka Premier League chapter held at the Pallekele International Cricket Stadium in Kandy on Wednesday (03).
 
-இப் போட்டி முடிவுடன் கோல் மார்வல்ஸ் அணி மாத்திரமே தோல்வி அடையாத அணியாக இருப்பதுடன் 2 வெற்றிகளுடன் 4 புள்ளிகளைப் பெற்று அணிகள் நிலையில் முதலிடத்தில் இருக்கிறது.
+In the last part of the match, Middle Service Dunit Wellalake fought for the success of Kalambo Strikers as a lonely one, but it eventually left hand.
 
-இப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட கோல் மார்வல்ஸ் 20 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 179 ஓட்டங்களைப் பெற்றது.
+Isuru Udana threw control of the last over and confirmed the victory of the Cole Marwal team.
 
-நிரோஷன் திக்வெல்ல, அலெக்ஸ் ஹேல்ஸ் ஆகிய இருவரும் அதிரடியாகத் துடுப்பெடுத்தாடி 32 பந்துகளில் 71 ஓட்டங்களைப் பகிர்ந்து பலமான ஆரம்பத்தை இட்டுக்கொடுத்தனர்.
+With the end of the match, the goal Marwal team is the only team that has lost and topped the team with 4 points with 2 wins.
+
+Goal Marvels, who was first invited to bat in the match, lost all wickets in 20 overs and scored 179 runs.
+
+Niroshan Dikwella and Alex Hales played a stunning bats and shared 71 runs off 32 balls.
+
+In the Power Play, Goal Marvels lost one wicket and scored 72 runs.
+
+Hales, Dikwella, Panuka Rajapaksa (0), Janith Liyanage (2), Tim Sefird (12) and Twin Pritorius (5) were facing a major stagnation by 23 runs.
 
 ...
 
 [Data](articles/5b91f5d8.json)
+
+[Extended Data](ext_articles/5b91f5d8.ext.json)
 
 ---
 
@@ -2385,25 +2409,5 @@ The Korean media has reported that the city's residents are claiming the crash i
 [Data](articles/6a6f06f0.json)
 
 [Extended Data](ext_articles/6a6f06f0.ext.json)
-
----
-
-### SLPP’s condition to consider Ranil as presidential candidate
-
-*2024-07-03 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100259/slpps-condition-to-consider-ranil-as-presidential-candidate) · `en`
-
-SLPP General Secretary Sagara Kariyawasam says that if President Ranil Wickremesinghe resigns from the United National Party (UNP) and joins the Sri Lanka Podujana Peramuna (SLPP), the party may consider him for the presidential candidacy.
-
-He made this statement while speaking to the media following a discussion at the SLPP headquarters.
-
-Kariyawasam stated, “Regarding the next presidential election, we have not presented a specific candidate yet. We will nominate the right candidate at the appropriate time, who will contest under the ‘floewer bud’ symbol.”
-
-When asked if Wickremesinghe could be the common candidate, Kariyawasam responded, “A candidate of the SLPP will be put forward under the ‘flower bud’ symbol. If Wickremesinghe leaves the UNP and joins our party, we will consider his candidacy.”
-
-◼️
-
-[Data](articles/62216484.json)
-
-[Extended Data](ext_articles/62216484.ext.json)
 
 ---

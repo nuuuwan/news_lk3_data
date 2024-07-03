@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 20:35:09**
+As of **2024-07-03 20:53:55**
 
 ## Newspaper Stats
 
-*Scraped **33,525** Articles*
+*Scraped **33,526** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,867
 economynextcom | 1,967
 dailyftlk | 2,068
-adalk | 2,992
+adalk | 2,993
 adaderanalk | 3,826
 tamilmirrorlk | 3,967
 dailymirrorlk | 4,733
@@ -26,35 +26,43 @@ adaderanasinhalalk | 5,556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,523 (100.0%) of 33,525 articles have been extended.
+33,525 (100.0%) of 33,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
-### සිසුවා සහ සිසුවියට සිදුවූ දේ  CCTV ඔස්සේ සොයයි
+### What happened to the student and the student looking for CCTV
 
 *2024-07-03 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198456) · `si`
 
-කොම්පඤ්ඤ වීදියේ පිහිටි අල්ටෙයාර් සුඛෝපභෝගී මහල් නිවාස සංකීර්ණයේ 67 වැනි මහලෙන් ඇද වැටී 15 හැවිරිදි සිසුවකු සහ සිසුවියක ඊයේ (02) රාත්‍රියේ ජීවිතක්ෂයට පත්වුණි.
+Two 15-year-olds from different schools, both residents of Colombo, visited a bodybuilding center in a luxury apartment complex. Their bodies were later found on the third floor, having transferred from the 67th floor. They were in a romantic relationship, and police are investigating the cause of death, ruling out suicide or accident.
 
-මොවුන් දෙදෙනා කොළඹ 7 ජාත්‍යන්තර පාසලක 10 වැනි ශ්‍රේණියේ එකම පන්තියේ ඉගෙනුම ලබමින් සිට තිබුණි.
+🟩
 
-ඊයේ පාසල අවසන් වී සිසුවිය සහ සිසුවා සුඛෝපභෝගී මහල් නිවාස සංකීර්ණයේ පස්වන මහලේ පිහිටි කායවර්ධන මධ්‍යස්ථානයක් වෙත පැමිණ තිබුණි.
+A 15-year-old student and a 15-year-old girl was killed in a 15th floor of the Altable Luxury Apartment Complex at Slave Island.
 
-ඔවුන් එහිදී ඇඳුම් මාරුකර, පාවහන් ගලවා, ඔවුන්ගේ පාසල් බෑග්ද එම මධ්‍යස්ථානය තුළ තබා නිවාස සංකීර්ණයේ 67 වැනි මහලට ගොස්  ඇත්තේ  පිටතින් ඇති තරප්පු පෙළ භාවිත කරමින්.
+The two were in the same class of the 10th grade of the International School in Colombo 7.
 
-පසුව ඔවුන්ගේ සිරුරු හමුවුණේ මහල් නිවාස සංකීර්ණයේ 03 වන මහලේ වායුසමීකරණ යන්ත්‍ර සවිකර ඇති ස්ථානයේ තිබියදීය.
+The student and student had arrived at a Bodybuilding Center on the fifth floor of the luxury flag.
 
-මියගිය සිසුවා වැල්ලවත්ත ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර සිසුවිය කැලණිය ප්‍රදේශයේ පදිංචිකාරිනියකි.
+They transfer clothes, removed the shoes, and their school bags have gone to the 67th floor of the housing complex.
 
-පොලිස් පරීක්ෂණවලදී අනාවරණ වී ඇත්තේ ඔවුන් දෙදෙනා අතර ප්‍රේම සබඳතාවක්ද පැවති බවය.
+Later, their bodies found the air conditioners at the 3rd floor of the apartment complex.
 
-ජීවිතක්ෂයට පත් සිසුන්ගේ මව්පියන්ගෙන් අද කොම්පඤ්ඤ වීදීය පොලීසිය ප්‍රකාශ සටහන් කරගෙන තිබුණි.
+The victim was a resident of Wellawatte and the student is a resident of Kelaniya.
 
-...
+Police investigations revealed that they had also a romantic relationship.
+
+The parents of the students who died of the deceased have been recorded by Slaveland Street Police today.
+
+There is no suicide, or whether these deaths are suicide, or an accident regarding the incident.
+
+◼️
 
 [Data](articles/db55354c.json)
+
+[Extended Data](ext_articles/db55354c.ext.json)
 
 ---
 
@@ -334,6 +342,24 @@ In this case, the police are investigating the death of the two students in the 
 
 ---
 
+### ගිනිකූරු කොටයෙන් ආපු මාරයා
+
+*2024-07-03 17:16:27* · [`adalk`](https://www.ada.lk/breaking_news/ගිනිකූරු-කොටයෙන්-ආපු-මාරයා/11-410594) · `si`
+
+පානදුර මුහුදේ ගිනිකූරු කොටයක් සමග සෙල්ලම් කරම්න් විනෝදයට  දියනාමින් සිටී පුද්ගලයකු එම කොටයේ ගැටී මියගොස් තවත් අයෙකු තුවාල ලබා ඇති බව පානදුර දකුණ පොලිසිය පවසයි .
+
+මෙසේ මියගොස් ඇත්තේ ඉංගිරිය , ඉංගිරිය වත්ත ප්‍රදේශයේ පදිංචිව සිටී හෙවන හැන්නැදිගේ අශාන් දේවින්ද නමැති 27 හැවිරිදි  පුද්ගලයෙකු බව පොලිසිය කීය.
+
+මිතුරන් දෙදෙනා පානදුර වෙරලට පැමිණ මුහුදු වෙරලේ දියනාමින් සිට ගිනිකූරු කොටයක් සමග සෙල්ලම් කරමින් සිටියදී රළ පහරට  වේගයෙන්  ගසාගෙන ගිය කොටය මුහුනේ වැදී ඇති බව පරීක්ෂණ වලදී හෙලිව ඇති බව පොලිසිය කීය.
+
+මෘතදේහය පශ්චාත් මරණ පරීක්ෂණය සදහා පානදුර මූලික රෝහලේ තැන්පත් කර තිබේ.
+
+◼️
+
+[Data](articles/43dee0de.json)
+
+---
+
 ### Sri Lanka to go ahead with Russian firm to operate Mattala airport despite US advice
 
 *2024-07-03 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-go-ahead-with-russian-firm-to-operate-mattala-airport-despite-us-advice-170741/) · `en`
@@ -404,19 +430,27 @@ The Labor Party has a serious assurance that the issue should not be excluded fr
 
 ---
 
-### ජනපතිවරණය පැවැත්වීම වළකන්නැයි ඉල්ලමින් මූලික අයිතිවාසිකම් පෙත්සමක්
+### Fundamental rights petition demanding to prevent the presidential election
 
 *2024-07-03 17:01:43* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-පැවැත්වීම-වළකන්නැයි-ඉල්ලමින්-මූලික-අයිතිවාසිකම්-පෙත්සමක්/11-410593) · `si`
 
-ජනාධිපතිවරයාගේ ධූර කාලය අවසන් වන දිනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ අර්ථනිරූපනයක් දෙනතුරු  ජනාධිපතිවරණය පැවැත්වීමෙන් මැතිවරණ කොමිසම  වළකාලන අතුරු  නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ව්‍යවසායකයෙකු ශ්‍රේෂ්ඨාධිකරණයට මූලික අයිතිවාසිකම් පෙත්සමක් අද (03) ගොනු කළේය.
+An entrepreneur filed a Supreme Court petition seeking an interim order to halt the upcoming presidential election, arguing it violates the 19th Amendment by allowing the current president to run again without proper interpretation. The petitioner, CD Lenawa from Moratuwa, claims the election contradicts the constitutional amendment's intent and requests the court to intervene.
 
-19 වෙනි ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ ජනාධිපතිවරයාගේ ධුරකාලය කවරක්ද යන්න පිළිබඳව ශ්‍රේෂ්ඨාධිකරණ විසින් අර්ථකථනය කළ යුතු බවත් අර්ථනිරූපණයක් ලබා ගැනීමකින් තොරව ජනාධිපතිවරණය පැවැත්වීමෙන් ජනතාවගේ මූලික අයිතිවාසිකම් උල්ලංඝනය වන බවත් පෙන්වා දෙන පෙත්සම්කරු ජනාධිපතිවරයාගේ ධුරකාලය අවසන් වන දිනය සම්බන්ධයෙන් පැහැදිලි අර්ථකථනයක් දෙන තෙක් දැනට ප්‍රකාශ කර ඇති ජනාධිපතිවරණය පැවැත්වීමෙන් මැතිවරණ කොමිසම වළකාලන අතුරු නියෝගයක් නිකුත් කරන්නැයි ඉල්ලමින් පෙත්සම්කරු මෙම මූලික අයිතිවාසිකම් පෙත්සම ගොනුකර ඇත.
+🟩
 
-මොරටුවේ පදිංචි ව්‍යවසායකයකු බව කියන සී.ඩී. ලේනව මහතා  ගොනු කළ මෙම පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් මැතිවරණ කොමිසම ඇතුළු පිරිසන් නම් කර ඇත.
+An entrepreneur filed a fundamental rights petition for the Supreme Court today (03) asking for a interim order for the Presidential Elections for the end of the President's term of the presidential election.
+
+The petitioner should interpret the presidential election by the President's election and violated the Presidential election by the President's election by the President's election by the Presidential election without interpretation of the President of the President of the 19th Amendment.The petitioner has filed the fundamental rights petition, demanding to issue an order.
+
+CD in Moratuwa, a residential entrepreneur. The Elections Commission has been named as respondents in the petition filed by Mr. Lenawa.
+
+The petitioner pointed out that the term of the seventh constitutional amendment of the seven-year period has been revised from the 19th Amendment.
 
 ...
 
 [Data](articles/32823b24.json)
+
+[Extended Data](ext_articles/32823b24.ext.json)
 
 ---
 
@@ -2395,27 +2429,5 @@ In addition, three houses were damaged in the fire and the cause of the fire was
 [Data](articles/568e3e5f.json)
 
 [Extended Data](ext_articles/568e3e5f.ext.json)
-
----
-
-### Fire in Lion apartment;Biker
-
-*2024-07-03 08:15:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/லயன்-குடியிருப்பில்-தீ-விபத்து-இருவர்-தீக்கிரை/76-339791) · `ta`
-
-In the early hours of Tuesday, a fire in a Lion apartment resulted in the deaths of a 60-year-old man and a 50-year-old woman. Three houses were damaged, but the cause remains unknown. Police are investigating.
-
-🟩
-
-The incident took place in the early hours of Tuesday morning (03) in the early hours of Tuesday (03).
-
-A 60 -year -old man and a 50 -year -old woman died in a Lion's apartment in a fire, police said.
-
-Of these, three houses were damaged and the cause of the fire was not yet known, police said.. It is also worth noting that further investigations into the incident have been investigated by the police.
-
-◼️
-
-[Data](articles/c2fd303b.json)
-
-[Extended Data](ext_articles/c2fd303b.ext.json)
 
 ---

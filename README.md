@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 16:51:45**
+As of **2024-07-03 17:04:46**
 
 ## Newspaper Stats
 
-*Scraped **33,503** Articles*
+*Scraped **33,504** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,867
 economynextcom | 1,962
 dailyftlk | 2,068
-adalk | 2,987
+adalk | 2,988
 adaderanalk | 3,823
 tamilmirrorlk | 3,967
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,551
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,500 (100.0%) of 33,503 articles have been extended.
+33,500 (100.0%) of 33,504 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -109,6 +109,24 @@ The parties should have a strong balance sheet and expertise, as there were the 
 [Data](articles/8a968759.json)
 
 [Extended Data](ext_articles/8a968759.ext.json)
+
+---
+
+### දන්දී පින් ලැබූ තැනම මරණය අත්වූ 9හැවිරිදි දැරිය
+
+*2024-07-03 15:54:15* · [`adalk`](https://www.ada.lk/breaking_news/දන්දී-පින්-ලැබූ-තැනම-මරණය-අත්වූ-9හැවිරිදි-දැරිය/11-410590) · `si`
+
+පොසොන්  බත් දන්සලක කරවල හොදි කල්දේරමට   වැටී බරපතළ තුවාල ලබා ප්‍රතිකාර ලබමින් සිටි 9 හැවිරිදි පාසල් ශිෂ්‍යාවක  මියගොස් ඇති බව පානදුර දකුණ පොලිසිය පවසයි .
+
+මෙසේ මියගොස් ඇත්තේ පානදුර, බෙක්කේගම ප්‍රදේශයේ පදිංචිව සිටී ශයනි මෙතුම්සා නමැති දැරියක බව සදහන් වේ.
+
+පානදුර ප්‍රදේශයේ පොසොන් පොහොය නිමිත්තෙන් බත් දන්සලක් පවත්වා ඇති අතර , පසුගිය 23 දින දැරිය සිය මව සමග එහි රැදී සිටීයදී දැරිය කරවල හොදි කල්දේරමට වැටී ඇති බව පැවසේ.
+
+බරපතල තුවාල ලබා සිටි දැරිය පානදුර මූලික රෝහලට ඇතුළත් කිරීමෙන් පසු, ඇයගේ තත්වය බරපතල බැවින් කොළඹ රිජ්වේ ආර්යා  රෝහලට මාරු කර යවා සිටියදී මියගොස් ඇති බව රෝහල් ආරංචි මාර්ග සඳහන් කරයි.
+
+◼️
+
+[Data](articles/f9f65c43.json)
 
 ---
 
@@ -2289,35 +2307,5 @@ He warned that economic management has been overshadowed by an excessive focus o
 [Data](articles/e4bc36f0.json)
 
 [Extended Data](ext_articles/e4bc36f0.ext.json)
-
----
-
-### Maurice Stella, Valalla Ratnayake dominates the runbury series
-
-*2024-07-03 02:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/187544) · `ta`
-
-Maurice Stella College and Ratnayake Central College excelled in the Ritbury Schools Championship, each winning 3 gold medals. Notably, Maurice Stella College triumphed in the boys' under-14 and under-18 4x200m races, while Ratnayake Central College shone in the long-term combination for men under 18 and the women's under-18 4x800m race. Other highlights included St. Joseph Vaas' win in the men's under-16 category and Negombo Away Maria Monastery's victory in the girls' under-14 4x200m race.
-
-🟩
-
-Negombo Maurice Stella College and A. Ratnayake Central College dominated the first day of the Ritbury Schools Continued Championships at the Vincent Diaz Stadium in Badulla on Tuesday (02).
-
-Maurice Stella College 3 gold medals. Ratnayake Central College also won 4 gold medals.
-
-Maurice Stella teams who have completed 3 gold medals for boys under 14 X 200 meters in 1: 41.7 minutes and 4 x 200 meters for men under 18 years in 1: 30.2 minutes and 4 x 200 series for men under 20.
-
-St. Joseph Vaas won the gold medal for the men under the age of 16, which completed the 4 x 200m series of men under the age of 16.
-
-Long -term combination of men under 18Completed. Ratnayake Central College teams won 2 gold medals.
-
-As well as in the 4 x 800m series of women under the age of 18 (9: 58.4 n.). Ratnayake Central College teams won 2 gold medals.
-
-Negombo Away Maria Monastery won the gold medal in the 4 x 200 meters of race for girls under the age of 14.
-
-...
-
-[Data](articles/8d77bb8f.json)
-
-[Extended Data](ext_articles/8d77bb8f.ext.json)
 
 ---

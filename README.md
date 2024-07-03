@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 18:14:25**
+As of **2024-07-03 18:25:52**
 
 ## Newspaper Stats
 
-*Scraped **33,508** Articles*
+*Scraped **33,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,62 @@ colombotelegraphcom | 307
 bbccomsinhala | 330
 newsfirstlk | 363
 islandlk | 1,867
-economynextcom | 1,962
+economynextcom | 1,966
 dailyftlk | 2,068
-adalk | 2,989
+adalk | 2,990
 adaderanalk | 3,824
 tamilmirrorlk | 3,967
 dailymirrorlk | 4,733
-virakesarilk | 5,239
-adaderanasinhalalk | 5,552
+virakesarilk | 5,240
+adaderanasinhalalk | 5,553
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,508 (100.0%) of 33,508 articles have been extended.
+33,508 (100.0%) of 33,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### Sri Lanka’s teachers must be disciplined: President
+
+*2024-07-03 18:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-teachers-must-be-disciplined-president-170728/) · `en`
+
+ECONOMYNEXT – Strikes by teachers are detrimental and unjustified, and the Attorney General has been asked to propose counter-measures, Sri Lanka’s President Ranil Wickremesinghe has said.
+
+“No one, whether directly or indirectly, should disrupt school education from 7:30 am to 1:30 pm. I have requested the Attorney General to propose measures regarding this issue,” Wickremesinghe said at a ceremony at Temple Trees on Wednesday.
+
+“Moving forward, we will take stronger measures on this front, even if it may provoke dissent,” the president said while awarding appointments to officers of the Education Administrative Service, and teaching appointments to graduates and diploma holders.
+
+“It is imperative that the education of children is not hindered by school closures or strikes.”
+
+Some teacher and principal trade unions are demanding a revision and additional salary increases, “which is surprising considering teachers have already received two salary increments.”
+
+...
+
+[Data](articles/575ef883.json)
+
+---
+
+### මත්තල ගුවන්තොටුපොළ රුසියානු – ඉන්දියා හවුල් ව්‍යාපාරයකට
+
+*2024-07-03 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198453) · `si`
+
+අතිවිශාල පාඩුවක් ලබන මත්තල ගුවන්තොටුපොලේ කළමනාකාරීත්වය ඉදිරි සති කිහිපය තුළ රුසියානු – ඉන්දියා හවුල් ව්‍යාපාරයකට ලබාදීමට කටයුතු කරන බව වරාය, නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා පවසයි.
+
+ශ්‍රී ලංකන් ගුවන් සමාගම ප්‍රතිව්‍යුගතකරණය කිරීම මිස විකිණීමට කටයුතු නොකරන බවද අමාත්‍යවරයා පැවසීය.
+
+ඔහු මේ බව පැවසුවේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (03) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+"ශ්‍රී ලංකාවේ නීතියට අනුවත් වෙනත් සමාගමකට ලබාදිය හැකි වන්නේ ශ්‍රී ලංකන් ගුවන් සමාගමේ කොටස්වලින් 49%ක් පමණයි. නමුත් ඒ සඳහා ලෝකයේ පවතින උනන්දුව අවමයි. ඊට ඉදිරිපත් වූයේ 06 දෙනෙකු පමණයි. ඒ අතරින් සුදුස්සකු අපට හමු වුණේ නැහැ. ශ්‍රී ලාංකික ව්‍යවසායකයකු සඳහා එම අවස්ථාව ලබා දීමට හැකි වුවත් ඊට ඇති හැකියාව සනාථ කළ යුතු වෙනවා."
+
+...
+
+[Data](articles/50605a64.json)
+
+---
 
 ### New Dutch government sworn in over 220 days after elections
 
@@ -51,6 +89,66 @@ The new Dutch government consists of the far-right populist Party for Freedom (P
 [Data](articles/23ea2f14.json)
 
 [Extended Data](ext_articles/23ea2f14.ext.json)
+
+---
+
+### கொழும்பில் அடுக்குமாடி குடியிருப்பில் இருந்து குதித்து இரு மாணவர்கள் உயிரிழப்பு ;  சிசிரிவி காட்சிகளை  ஆராயும் பொலிஸார்
+
+*2024-07-03 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/187613) · `ta`
+
+கொழும்பில் அடுக்குமாடி குடியிருப்பின் 67ஆவது மாடியில் இருந்து இரு மாணவர்கள் குதித்து உயிரை மாய்த்து கொண்ட சம்பவம் தொடர்பில் சிசிரிவி காட்சிகளை பொலிஸார் ஆராய்ந்து வருகின்றனர்.
+
+நேற்று செவ்வாய்க்கிழமை கொழும்பு, கொம்பனி வீதியில் உள்ள அடுக்குமாடி குடியிருப்பின் 67ஆவது மாடியில் இருந்து குதித்து இரு மாணவர்கள்  உயிரை மாய்த்து கொண்டனர்.
+
+பொலிஸ் விசாரணைகளின்படி, உயிரிழந்தவர்கள் வெள்ளவத்தை மற்றும் களனி பிரதேசத்தைச் சேர்ந்தவர்கள் எனவும், இரு மாணவர்களும் சர்வதேச பாடசாலையில் 10 ஆம் தரத்தில் கல்வி பயின்று வந்ததாகவும் தெரியவந்துள்ளது.
+
+அடுக்குமாடி குடியிருப்பின் 67வது மாடியில் இருந்து இருவரும் குதித்து 3வது மாடியின் மேல்தளத்தில் விழுந்துள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது.
+
+இருவரும் பாடசாலை முடிந்து குறித்த அடுக்குமாடி குடியிருப்பில் 5 வது மாடியில் உள்ள உடற்பயிற்சி  கூடத்திற்கு சென்றுள்ளனர்.
+
+அவர்கள் உடற்பயிற்சி  கூடத்திற்கு வெளியே படிக்கட்டு வழியாக  67வது மாடியை அடைந்துள்ளதாக  பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/df1449ba.json)
+
+---
+
+### Sri Lanka to go ahead with Russian firm to operate Mattala airport despite US advice
+
+*2024-07-03 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-go-ahead-with-russian-firm-to-operate-mattala-airport-despite-us-advice-170741/) · `en`
+
+ECONOMYNEXT – Sri Lanka will hand over its Chinese-built airport operations to a consortium with Indian and Russian firms, despite the United States has informed about a US sanction on the key stakeholder of Moscow firm, the island’s Aviation Minister said.
+
+A joint venture between Shaurya Aeronautics Pvt Ltd of India and Airports of Regions Management Company of Russia has won the contract to manage Sri Lanka’s Mattala Rajapaksa International Airport for 30 years.
+
+However, officials from the United States have approached Sri Lankan government to inform that the key stakeholder of Russia’s Airports of Regions Management Company is sanctioned by the US treasury in 2018 for suspected meddling in the 2016 U.S. elections,.
+
+“That is not true and correct. We have checked that. It is only a rumour,” Aviation Minister Nimal Siripala de Silva told reporters at a media briefing in Colombo.
+
+“I asked them to give me evidence. Nobody was able to furnish evidence.”
+
+...
+
+[Data](articles/51d831e6.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 304.20/50 to US dollar
+
+*2024-07-03 17:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-304-20-50-to-us-dollar-170715/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 304.20/50 to the US dollar on Wednesday, down from 303.10/30 to the US dollar on Tuesday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 10.70/85 percent, down from 10.85/11.00 percent.
+
+A bond maturing on 15.09.2029 closed at 12.00/10 percent, down from 12.10/20 percent.
+
+A bond maturing on 01.12.2031 closed at 12.10/18 percent. (Colombo/Jul3/2024)
+
+◼️
+
+[Data](articles/671750c1.json)
 
 ---
 
@@ -121,6 +219,28 @@ Minister of Justice Wijeyadasa Rajapakshe had revealed this incident in the Parl
 [Data](articles/3015de00.json)
 
 [Extended Data](ext_articles/3015de00.ext.json)
+
+---
+
+### Sri Lanka stocks close down, Windforce sees foreign buying
+
+*2024-07-03 16:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-windforce-sees-foreign-buying-170709/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
+
+The broader All Share Index closed down 0.67 percent, or 81.15 points, at 12,037; while the more liquid S&P SL20 Index closed down 0.95 percent, or 33.96 points, at 3,540.
+
+Most of this came from Windforce Plc (Rs140mn), and the share closed up at 20.50. “There was foreign buying from a fund that was active when Sri Lanka was on a better footing,” Softlogic Stockbrokers said.
+
+Sampath Bank Plc was one of four crossings in the day. The local to local exchange contributed Rs268n to the day’s turnover. The share closed flat at 79.00.
+
+“Activity from retail segment is yet to be seen. Local investors are continuing with the same mindset.”
+
+At the treasury bill auction Wednesday yields were flat. “Maybe this might bring interest back in the market.”
+
+...
+
+[Data](articles/41a3720f.json)
 
 ---
 
@@ -1416,6 +1536,22 @@ The petitioner claims that the 19th Amendment to the Constitution has created a 
 
 ---
 
+### සංචාරක ආකර්ෂණීය වෙරළ කලාප 26ක් සංවර්ධනය කෙරේ
+
+*2024-07-03 10:22:37* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරක-ආකර්ෂණීය-වෙරළ-කලාප-26ක්-සංවර්ධනය-කෙරේ/11-410585) · `si`
+
+හදුනාගත් සංචාරක ආකර්ෂණීය වෙරළ කලාප 26ක් මේ වසර තුළ  සංවර්ධනය කෙරේ. එම වෙරළ කලාප 26 සංවර්ධනය කිරීම සඳහා වන මූලික නිර්මාණ හා ව්‍යුහ සැලසුම් සැකසීම මේ දිනවල සිදු කෙරෙන බව නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+
+නාගරික සංවර්ධන අධිකාරිය හා වෙරළ සංරක්ෂණ සහ වෙරළ සම්පත් කළමනාකරණ දෙපාර්තමේන්තුව එක්ව එය ක්‍රියාත්මක කරයි.
+
+මෙලෙස හදුනාගෙන ඇති වෙරළ කලාප වන්නේ, වනාතවිල්ලුව ගගේ වාඩිය, වනාතවිල්ලුව කලපු දූපත, කල්පිටිය කුඩාව, කල්පිටිය වයිකාල, මීගමු කලපුව, මීගමුව කපුන්ගොඩ, වත්තල ප්‍රීතිපුර, බෙන්තොට වෙරළ, හබරාදුව කොග්ගල කලපුව, දික්වැල්ල සීතාගාල්ල, තංගල්ල රැකව කලපුව, අම්බලන්තොට ලුනම කලපුව, හම්බන්තොට මලල ලේවාය, තිස්සමහාරාම කිරින්ද වැලි කන්ද, ලාහුගල කුණුක්කල වෙරළ, පොතුවිල් එළිපන්ට් රොක්, මඩකලපුව කෝරළයි පත්තු උතුර සල්ලතිව් දූපත, කින්නියා තඹලගමුව බොක්ක, ත්‍රිකුණාමලය ආණ්ඩුකාර කාර්යාල ප්‍රදේශය, ත්‍රිකුණාමලය උප්පුවේලි, ත්‍රිකුණාමලය සම්පල්තිව්, කුච්චිවේලි අරිසමලේ, මුලතිව් නයාරු කලපුව, මුලතිව් නන්දිකඩාල් කලපුව, යාපනය සෙන්තක්කුලම් වෙරළ, යාපනය කැසුරිනා වෙරළයි.
+
+...
+
+[Data](articles/b0083931.json)
+
+---
+
 ### The robot made life
 
 *2024-07-03 10:20:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உயிரை-மாய்த்தது-ரோபோ/50-339800) · `ta`
@@ -2211,137 +2347,5 @@ I was born in Sri Lanka, live in the US, and visit my home country often. The ve
 [Data](articles/a812e4b1.json)
 
 [Extended Data](ext_articles/a812e4b1.ext.json)
-
----
-
-### Paye Tax: Is scholars who want to the country lose a tax deprived of the country?
-
-*2024-07-03 05:11:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c28exrgjvw0o) · `si`
-
-Sri Lanka's Paye Tax, introduced in 2023, sparked controversy among professionals, affecting their decision to stay in the country. Critics argue it disproportionately burdens the middle class, potentially leading to a brain drain as skilled individuals consider leaving due to the tax's impact on their salaries. The tax system, aimed at generating revenue for public services and economic development, has instead caused widespread dissatisfaction, highlighting the need for a more equitable approach to taxation.
-
-🟩
-
-A tax policy is in place for the existence of a country in the world.
-
-There are two main types of direct and indirect taxes in a tax policy. Taxes are effective in any country, which is expected to be properly used to provide the necessary services to the general public using the taxes.
-
-The Wasantha Athukoragram of the University of Peradeniya explained that the funding of the services of the public.
-
-...
-
-[Data](articles/62fa00f7.json)
-
-[Extended Data](ext_articles/62fa00f7.ext.json)
-
----
-
-### Cabinet clears to reassign $ 1.09 m grant of UNEP to e-mobility project
-
-*2024-07-03 05:00:06* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-clears-to-reassign-1-09-m-grant-of-UNEP-to-e-mobility-project/34-763779) · `en`
-
-The Cabinet of Ministers on Monday approved reassigning a $ 1.09 million grant from the United Nations Environment Program (UNEP), originally assigned to the Environment Ministry, to the Transport and Highways Ministry.
-
-The UNEP with support from the Green Environment Fund, awarded a $ 1.09 million grant to develop a sustainable and efficient electric mobility (e-mobility) system. Originally, the Environment Ministry was designated as the national entity for the project, however recognising the expertise and resources required to effectively manage such an initiative, the Transport and Highways Ministry was identified as the more suitable entity to spearhead the project.
-
-...
-
-[Data](articles/5128f026.json)
-
-[Extended Data](ext_articles/5128f026.ext.json)
-
----
-
-### CFA Society Sri Lanka presents course on ‘Understanding Key Economic Indicators for Business Success’ with Frontier Research
-
-*2024-07-03 04:57:46* · [`dailyftlk`](https://www.ft.lk/business/CFA-Society-Sri-Lanka-presents-course-on-Understanding-Key-Economic-Indicators-for-Business-Success-with-Frontier-Research/34-763778) · `en`
-
-CFA Society Sri Lanka is pleased to announce an exclusive course on “Understanding Key Economic Indicators for Business Success” presented by the CFA Society Sri Lanka in association with Frontier Research.
-
-This course, designed to empower professionals with critical economic insights, is tailored for managers, executives, and strategic planners, promising to provide participants with a comprehensive understanding of key economic indicators and their application in business contexts.
-
-Scheduled for Wednesday 17 July from 9 a.m. to 1 p.m. at GF 2 Hall, Galle Face Hotel, Colombo 3, the program will cover essential topics such as understanding key economic indicators (GDP, inflation, consumer credit, demand, consumption, etc.), exchange rates (USD/LKR), and interest rates. Participants will also learn how to apply these economic indicators in real business scenarios.
-
-...
-
-[Data](articles/ced9ee0a.json)
-
-[Extended Data](ext_articles/ced9ee0a.ext.json)
-
----
-
-### Cabinet approves securing increased USAID grant for disaster resilience and economic prosperity program
-
-*2024-07-03 04:55:12* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-securing-increased-USAID-grant-for-disaster-resilience-and-economic-prosperity-program/34-763777) · `en`
-
-The Cabinet of Ministers approved a significant revision to the cooperative agreement with the US, increasing the grant amount to $ 52.835 million under the ‘Program for a Sri Lanka with Democracy, Prosperity and the Capability to Face Disasters’.The initial agreement, signed on 31 August 2022, allocated $ 9.069 million to support Sri Lanka in strengthening democratic governance, promoting economic prosperity, and enhancing disaster resilience. This amount was subsequently increased twice during the year, reaching $ 28.299 million.
-
-The latest revision, proposed by the United States Agency for International Development (USAID), further escalates the grant to $ 52.835 million.
-
-The proposal for this revision presented by President Ranil Wickremesinghe in his capacity as the Finance, Economic Stabilisation and National Policies Minister was approved by the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/fb4186de.json)
-
-[Extended Data](ext_articles/fb4186de.ext.json)
-
----
-
-### India-funded project facilitates 924 rainwater harvesting tanks for Jaffna
-
-*2024-07-03 04:54:59* · [`dailyftlk`](https://www.ft.lk/business/India-funded-project-facilitates-924-rainwater-harvesting-tanks-for-Jaffna/34-763776) · `en`
-
-The Cabinet of Ministers on Monday approved the establishment of 924 rainwater harvesting tanks in Jaffna using the remaining funds from an ongoing project supported by the Government of India.
-
-The project aims to provide clean drinking water for people in the Jaffna district.
-
-The original project, approved on 25 October 2016, involved the construction of 3,000 rainwater harvesting tanks, funded by the Government of India. The Memorandum of Understanding (MOU) was part of a broader effort to address the clean water needs of the Jaffna district, with the project initially scheduled for completion within three years.
-
-However, due to financial and technical challenges, the project timeline was extended. On 10 October 2022, the Cabinet approved an extension till June 2024, along with a change in the tank material from ferrocement to PVC.
-
-...
-
-[Data](articles/aadad731.json)
-
-[Extended Data](ext_articles/aadad731.ext.json)
-
----
-
-### Simon Bittlestone is CIMA’s new global President
-
-*2024-07-03 04:53:35* · [`dailyftlk`](https://www.ft.lk/business/Simon-Bittlestone-is-CIMA-s-new-global-President/34-763775) · `en`
-
-Says world is ripe with opportunities for accounting and finance profession
-
-Sri Lanka’s Hasanji Ellawala and Ameena Ziauddin appointed to Middle East, South Asia and North Africa Regional Engagement Group which will provide insights into the continent’s profession and shape the Association’s global strategic plan
-
-The Chartered Institute of Management Accountants (CIMA) this week announced that it has appointed finance transformation business leader Simon Bittlestone as the 91st President of the Institute.
-
-He will also serve as 9th Chair of the Association of International Certified Professional Accountants (the Association), the world’s largest accounting membership body of public and management accountants.
-
-...
-
-[Data](articles/b267491a.json)
-
-[Extended Data](ext_articles/b267491a.ext.json)
-
----
-
-### SL to ink deal with Swiss Govt. for second phase of Global Textile and Apparel Program
-
-*2024-07-03 04:50:11* · [`dailyftlk`](https://www.ft.lk/business/SL-to-ink-deal-with-Swiss-Govt-for-second-phase-of-Global-Textile-and-Apparel-Program/34-763774) · `en`
-
-The Cabinet of Ministers on Monday approved a proposal to enter into a project agreement with the Swiss State Secretariat for Economic Affairs (SECO) to implement the second phase of the Global Textile and Apparel Program.
-
-The agreement, set to be signed by the Sri Lanka Export Development Board (EDB), will provide significant support from SECO’s Global Textiles and Apparels Program. This support is expected to drive the industry’s shift towards sustainable practices and enhance its competitive edge in the global market by integrating advanced digital technologies.
-
-“The initiative aims to support the transformation of Sri Lanka’s textile and apparel industry towards producing quality green products through the promotion of digitisation,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
-
-...
-
-[Data](articles/45c59cfb.json)
-
-[Extended Data](ext_articles/45c59cfb.ext.json)
 
 ---

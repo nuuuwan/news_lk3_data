@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 05:19:48**
+As of **2024-07-03 05:37:26**
 
 ## Newspaper Stats
 
-*Scraped **33,388** Articles*
+*Scraped **33,393** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,975
 adaderanalk | 3,807
 tamilmirrorlk | 3,951
 dailymirrorlk | 4,733
-virakesarilk | 5,217
+virakesarilk | 5,222
 adaderanasinhalalk | 5,528
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,384 (100.0%) of 33,388 articles have been extended.
+33,388 (100.0%) of 33,393 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The UNEP with support from the Green Environment Fund, awarded a $ 1.09 million 
 
 [Data](articles/5128f026.json)
 
+[Extended Data](ext_articles/5128f026.ext.json)
+
 ---
 
 ### CFA Society Sri Lanka presents course on ‘Understanding Key Economic Indicators for Business Success’ with Frontier Research
@@ -60,6 +62,8 @@ Scheduled for Wednesday 17 July from 9 a.m. to 1 p.m. at GF 2 Hall, Galle Face H
 
 [Data](articles/ced9ee0a.json)
 
+[Extended Data](ext_articles/ced9ee0a.ext.json)
+
 ---
 
 ### Cabinet approves securing increased USAID grant for disaster resilience and economic prosperity program
@@ -75,6 +79,8 @@ The proposal for this revision presented by President Ranil Wickremesinghe in hi
 ◼️
 
 [Data](articles/fb4186de.json)
+
+[Extended Data](ext_articles/fb4186de.ext.json)
 
 ---
 
@@ -93,6 +99,8 @@ However, due to financial and technical challenges, the project timeline was ext
 ...
 
 [Data](articles/aadad731.json)
+
+[Extended Data](ext_articles/aadad731.ext.json)
 
 ---
 
@@ -217,6 +225,90 @@ He warned that economic management has been overshadowed by an excessive focus o
 [Data](articles/e4bc36f0.json)
 
 [Extended Data](ext_articles/e4bc36f0.ext.json)
+
+---
+
+### ரிட்ஸ்பறி தொடர் ஓட்டத்தில் மாரிஸ் ஸ்டெல்லா, வலல்ல ரட்நாயக்க ஆதிக்கம்
+
+*2024-07-03 02:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/187544) · `ta`
+
+பதுளை வின்சென்ட் டயஸ் விளையாட்டரங்கில் செவ்வாய்க்கிழமை (02) ஆரம்பமான ரிட்ஸ்பறி பாடசாலைகள் தொடர் ஓட்ட சாம்பியன்ஷிப்பில் முதலாம் நாளன்று நீர்கொழும்பு மாரிஸ் ஸ்டெல்லா கல்லூரியும் வலல்ல ஏ.ரட்நாயக்க மத்திய கல்லூரியும் ஆதிக்கம் செலுத்தின.
+
+மாரிஸ் ஸ்டெல்லா கல்லூரி 3 தங்கப் பதக்கங்களையும் வலல்ல ஏ. ரட்நாயக்க மத்திய கல்லூரி 4 தங்கப் பதக்கங்களையும் சுவீகரித்தன.
+
+14 வயதுக்குட்பட்ட சிறுவர்களுக்கான 4 x 200 மீற்றர் தொடர் ஓட்டப் போட்டியை 1:41.7  நிமிடங்களிலும்   18 வயதுக்குட்பட்ட ஆண்களுக்கான 4 x 200 மீற்றர் தொடர் ஓட்டப் போட்டியை 1:30.2 நிமிடங்களிலும் 20 வயதுக்குட்பட்ட ஆண்களுக்கான 4 x 200 தொடர் ஓட்டப் போட்டியை 1:28.3 நிமிடங்களிலும் நிறைவு  செய்த  மாரிஸ் ஸ்டெல்லா அணிகள் 3 தங்கப் பதக்கங்களை சுவீகரித்தன.
+
+16 வயதுக்குட்பட்ட ஆண்களுக்கான 4 x 200 மீற்றர் தொடர் ஓட்டப் போட்டியை 1:33.3 நிமிடங்களில் நிறைவு செய்த வென்னப்புவை புனித ஜோசப் வாஸ் தங்கப் பதக்கத்தை சுவீகரித்தது.
+
+...
+
+[Data](articles/8d77bb8f.json)
+
+---
+
+### மீள்புதிப்பிக்கத்தக்க வலுசக்திக் கொள்வனவுக் கட்டணத்தில் திருத்தம்
+
+*2024-07-03 02:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/187548) · `ta`
+
+உத்தரவாத மின்சாரக் கொள்வனவு ஒப்பந்தத்தின் கீழ் மீள்புதிப்பிக்கத்தக்க வலுசக்திக் கொள்வனவுக் கட்டணத்தைத் திருத்தம் செய்தற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+2009ஆம் ஆண்டின் 20ஆம் இலக்க இலங்கை மின்சாரச் சட்டத்தின் கீழும் குறித்த சட்டத்தில் பின்னர் மேற்கொள்ளப்பட்டுள்ள திருத்தங்களுக்கமைய, 10 மெகாவாற்று அல்லது அதற்குக் குறைவான கொள்ளளவு கொண்ட மீள்புதிப்பிக்கத்தக்க வலுசக்திக் கருத்திட்டங்களுக்குரிய தொழிநுட்பத்தை அடிப்படையாகக் கொண்ட, உத்தரவாதமளிக்கப்பட்ட சந்தை விலையை விடவும் உயர்ந்த விலைக் கட்டண முறையின் கீழ் உத்தரவாத மின்சாரக் கொள்வனவு ஒப்பந்தத்தை மேற்கொள்ள வேண்டியுள்ளது.
+
+அதற்கமைய, மீள்புதிப்பிக்கத்தக்க வலுசக்திக் கொள்வனவின் போது மாறுபடுகின்ற  கட்டண முறையை நடைமுறைப்படுத்துவதற்காக 2023.03.13 அன்று இடம்பெற்ற அமைச்சரவையில் அங்கீகாரம் வழங்கப்பட்டிருப்பினும், அபிவிருத்தியாளர்கள் ஒருசிலர் மாத்திரம் அதற்கான ஒப்பந்தத்தில் கையொப்பமிட்டுள்ளனர்.
+
+...
+
+[Data](articles/c8cd3554.json)
+
+---
+
+### இந்தியாவின் நிதியுதவியுடன் யாழில் மழை நீர் சேகரிப்புத் தாங்கிகள்
+
+*2024-07-03 02:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187547) · `ta`
+
+இந்திய அரசால் யாழ்ப்பாண மாவட்டத்தில் 934 மழை நீர் சேகரிப்புத் தாங்கிகள் நிர்மாணிக்கப்படவுள்ளன.
+
+யாழ்ப்பாண மாவட்டத்தில் தூய்மையான குடிநீரை விநியோகிப்பதற்காக இந்திய அரசால் வழங்கப்பட்டுள்ள நிதியைப் பயன்படுத்தி குறித்த மாவட்டத்தில் 3000 மழைநீர் சேகரிப்புத் தாங்கிகளை அமைப்பதற்கான புரிந்துணர்வு ஒப்பந்தத்தில் கையொப்பமிடுவதற்காக 2016.10.25 அன்று இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கபட்டுள்ளது.
+
+இக்கருத்திட்டம் 3 வருடகாலத்தில் பூர்த்தி செய்வதற்குத் திட்டமிடப்பட்டிருப்பினும், மேலெழுந்துள்ள நிதி மற்றும் தொழிநுட்ப ரீதியான பிரச்சினைகளால் 2024 ஜூன் மாதம் வரைக்கும் கருத்திட்டக் காலத்தை நீடிப்பதற்கும், பெரோ சீமெந்துத் தாங்கிகளுக்குப் பதிலாக 1,831 பீவீசி மழைநீர் சேகரிப்புத் தாங்கிகளை அமைப்பதற்கும் 2022.10.10 அன்று இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/3ad5006f.json)
+
+---
+
+### ஜுனில் பணவீக்கம் 1.7 சதவீதமாக உயர்வு; மே மாதத்துடன் ஒப்பிடுகையில் 0.8 சதவீத அதிகரிப்பு பதிவு
+
+*2024-07-03 02:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/187546) · `ta`
+
+கொழும்பு நுகர்வோர் விலைச்சுட்டெண் மதிப்பீட்டின் பிரகாரம் கடந்த மே மாதம் 0.9 சதவீதமாகப் பதிவாகியிருந்த பணவீக்கம், ஜுன் மாதம் 1.7 சதவீதமாக உயர்வடைந்துள்ளது.
+
+அதன்படி கடந்த மே மாதம் பூச்சியமாகப் பதிவான உணவுப்பணவீக்கம் ஜுனில் 1.4 சதவீதமாகவும், மே மாதம் 1.3 சதவீதமாகப் பதிவான உணவல்லாப்பணவீக்கம் ஜுனில் 1.8 சதவீதமாகவும் உயர்வடைந்தன.
+
+மேலும் கொழும்பு நுகர்வோர் விலைச்சுட்டெணின் மாதாந்த மாற்றம் ஜுனில் 0.77 சதவீதமாகப் பதிவாகியுள்ளது. இதற்கு உணவுப்பொருட்களின் விலைகள் மற்றும் உணவல்லாப்பொருட்கள், சேவைகளின் விலைகள், கட்டணங்களில் அவதானிக்கப்பட்ட அதிகரிப்பு காரணமாக அமைந்துள்ளது.
+
+பொருளாதாரத்தின் அடிப்படைப்பணவீக்கத்தைப் பிரதிபலிக்கின்ற மையப்பணவீக்கம் கடந்த மே மாதத்தில் பதிவான 3.5 சதவீதத்திலிருந்து ஜுன் மாதத்தில் 4.4 சதவீதமாக உயர்வடைந்துள்ளது.
+
+...
+
+[Data](articles/7dd240bc.json)
+
+---
+
+### நாளை நடைபெறவுள்ள பிரிட்டன் பொதுத்தேர்தலில் ஈழத்தமிழர்கள் அறுவர் போட்டி
+
+*2024-07-03 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/187545) · `ta`
+
+சர்வதேச மட்டத்தில் மிகுந்த எதிர்பார்ப்பை ஏற்படுத்தியிருக்கும் பிரிட்டன் பொதுத்தேர்தல் வியாழக்கிழமை (4) நடைபெறவுள்ள நிலையில், முன்னெப்போதையும் விட இம்முறை அதிக எண்ணிக்கையான பிரிட்டன்வாழ் ஈழத்தமிழர்கள் இத்தேர்தலில் போட்டியிடுகின்றனர்.
+
+அதன்படி இலங்கையைப் பூர்விகமாகக்கொண்ட அறுவர் பிரிட்டன் பாராளுமன்ற உறுப்பினராகத் தெரிவாகும் நோக்கில் இந்தத் தேர்தலில் களமிறங்கியுள்ளனர். தொழிற்கட்சியின் சார்பில் உமா குமாரன் மற்றும் டெவினா போல், கொன்சவேட்டிவ் கட்சியின் சார்பில் கெவின் ஹரன், த க்ரீன் கட்சியின் சார்பில் நாராணி ருத்ரா-ராஜன், லிபரல் டெமோகிரட்ஸ் கட்சியின் சார்பில் கமலா குகன் மற்றும் ரிஃபோர்ம் யு.கே கட்சியின் சார்பில் மயூரன் செந்தில்நாதன் ஆகியோரே வியாழக்கிழமை (4) நடைபெறவிருக்கும் பிரிட்டன் பொதுத்தேர்தலில் போட்டியிடவிருக்கும் இலங்கை பின்னணியைக்கொண்ட தமிழர்களாவர்.
+
+அவர்கள் ஈழத்தமிழர் விவகாரம் தொடர்பான தமது அணுகுமுறை மற்றும் போர்க்குற்றவாளிகளைப் பொறுப்புக்கூறச்செய்வதில் தாம் கொண்டிருக்கும் கடப்பாடு என்பன குறித்து வெளியிட்டிருக்கும் கருத்துக்கள் வருமாறு:
+
+...
+
+[Data](articles/8d70779d.json)
 
 ---
 
@@ -2215,119 +2307,5 @@ Moreover, he said that if necessary solutions are not provided, the strike actio
 [Data](articles/16a2aa78.json)
 
 [Extended Data](ext_articles/16a2aa78.ext.json)
-
----
-
-### Sri Lanka cabinet approves new feed-in tariffs for renewables
-
-*2024-07-02 13:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-new-feed-in-tariffs-for-renewables-170557/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet has approved new feed-in tariffs for renewable power plants below 10 MegaWatts, Energy Minister Kanchana Wijesekera said.
-
-Roof top solar below 500 kiloWatts will be paid a flat rate of 27.06 a unit for 20 years.
-
-The plants will get a 20-year flat rate and not a falling Tiered rate.
-
-Sri Lanka’s feed-in tariffs for renewables, other than for bio mass plans which can be operated at any time of the day (dispatched) have been controversial due to administratively devised rates which are far above competitive rates in other jurisdictions.
-
-The tariffs compare with 4.88 cents for a 50MW wind plant in Mannar.
-
-Feed in tariffs were halted in favour of competitive bidding, but were brought back following heavy lobbying.  (Colombo/July02/2024)
-
-◼️
-
-[Data](articles/66e419b5.json)
-
-[Extended Data](ext_articles/66e419b5.ext.json)
-
----
-
-### The Spence Shipping Department of the Eyrukh
-
-*2024-07-02 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187476) · `ta`
-
-The Spence Shipping Department of Eyrukh won top honors at the 2024 National Business Standards Awards (NBEA) for excellence in shipping services. This prestigious event, held at the Shankrila Hotel in Colombo, celebrated the highest standards in Sri Lankan businesses across various sectors. Eyrukh's Spence Service, known for its speed and innovation, continues to lead the shipping industry despite global challenges. They've embraced ISO certifications for quality and environmental management, focusing on customer experience and global trade improvements. Their commitment to excellence and innovation sets them apart in the competitive shipping sector.
-
-🟩
-
-The Department of Spence of Eyy's Spence Service has been ranked first under the "Shipping and Related Services" section at the National Field Standards (NBEA) event of 2024.. This respected awards ceremony, which is commemorating the quality of business in the business sector, was held on June 20, 2024 at Shankrila Hotel, Colombo.
-
-National Business Standards Awards (NBEA). This event, which is the 19th year, is the peak of business achievements in Sri Lanka. Awards are presented in appreciation of the companies that have been the world's standards of the world. Award -winning companies are selected with the best achievements in the fields such as corporate, energy building, efficiency management, approach to domestic and foreign markets, corporate social responsibility, environmental welfare, business and financial results.. The aim is to provide a structure that will help improve the institutional efficiency that can contribute significantly to Sri Lanka's socio-economic development.
-
-...
-
-[Data](articles/db5bce93.json)
-
-[Extended Data](ext_articles/db5bce93.ext.json)
-
----
-
-### Mahinda Rajapaksa paid tribute to Sambandan
-
-*2024-07-02 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/187480) · `ta`
-
-Mahinda Rajapaksa honored Sambandan, a senior leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian, at his funeral. The event, held on Tuesday at the Borella AF Reman Flower, served as a public tribute.
-
-🟩
-
-Senior Leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian Rajavarothayam Sambandan's funeral was held on Tuesday (02) for a public tribute to the public at the Borella AF Reman Flower.
-
-In this case, former President Mahinda Rajapakse has paid his final honor to Sambandan's boutique.
-
-◼️
-
-[Data](articles/bf9fe82c.json)
-
-[Extended Data](ext_articles/bf9fe82c.ext.json)
-
----
-
-### Knives in the University of Sydney
-
-*2024-07-02 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198402) · `si`
-
-At the University of Sydney, a knife attack occurred, leading to the arrest of suspects. Several buildings were closed as a precaution. A 22-year-old victim is improving from critical injuries. Authorities investigate the motive, including potential radicalism.
-
-🟩
-
-Police say a knife has been made during the University of Sydney.
-
-The authorities have been arrested in suspicion and after that incident, the authorities acted to close several university buildings.
-
-A 22-year-old man was assaulted by knives.
-
-The situation of the person in critical condition is getting better, police said.
-
-It is reported that the authorities are also recovered regarding whether the knife's child is a radical comments.
-
-◼️
-
-[Data](articles/3d370d4f.json)
-
-[Extended Data](ext_articles/3d370d4f.ext.json)
-
----
-
-### Security in Kandy complex confirmed
-
-*2024-07-02 13:25:29* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-අධිකරණ-සංකීර්ණයේ-ආරක්ෂාව-තහවුරුයි/11-410566) · `si`
-
-Following a bomb threat, judicial proceedings in the Kandy Court Complex have been postponed until the 16th of this month. Security forces, including the Police Special Task Bombs Unit, conducted thorough inspections but found no explosives.
-
-🟩
-
-The Kandy Police say that the judiciary has stopped the judicial affairs on information received due to a bomb in the Kandy Court Complex.
-
-According to the security forces, the monitorment was carried out by the Emergency Department that the court had a bomb in the court.
-
-Police said that although all the security forces exceeding a special inspection, including a special inspection including a special inspection of the Police in Kandy Municipal Council Unit, the Police Special Task Bombs Unit, police said.
-
-All the cases scheduled to be heard today will be heard on the 16th of this month.. The provincial judiciary, magistrate's Court in Kandy and 11 judiciary operates.
-
-◼️
-
-[Data](articles/697f4a21.json)
-
-[Extended Data](ext_articles/697f4a21.ext.json)
 
 ---

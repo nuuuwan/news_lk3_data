@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 12:35:06**
+As of **2024-07-03 12:52:39**
 
 ## Newspaper Stats
 
-*Scraped **33,459** Articles*
+*Scraped **33,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 306
 colombotelegraphcom | 307
 bbccomsinhala | 328
 newsfirstlk | 363
-islandlk | 1,866
+islandlk | 1,867
 economynextcom | 1,957
 dailyftlk | 2,068
 adalk | 2,982
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,543
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,456 (100.0%) of 33,459 articles have been extended.
+33,459 (100.0%) of 33,460 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ After considering all the facts presented, the judge fixed the case for further 
 
 [Data](articles/d0f4e005.json)
 
+[Extended Data](ext_articles/d0f4e005.ext.json)
+
 ---
 
 ### FR petition filed to prevent calling of Presidential Election
@@ -59,6 +61,8 @@ A businessman has filed a fundamental rights (FR) petition seeking an order prev
 ◼️
 
 [Data](articles/2ae9b37a.json)
+
+[Extended Data](ext_articles/2ae9b37a.ext.json)
 
 ---
 
@@ -1108,19 +1112,25 @@ I was born in Sri Lanka, live in the US, and visit my home country often. The ve
 
 ---
 
-### PAYE TAX: රටට අවශ්‍ය විද්වතුන් රටට අහිමි කරන බද්දක් ද?
+### Paye Tax: Is scholars who want to the country lose a tax deprived of the country?
 
 *2024-07-03 05:11:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c28exrgjvw0o) · `si`
 
-ලෝකයේ ඕනෑ ම රටක පැවැත්ම උදෙසා බදු ප්‍රතිපත්තියක් ක්‍රියාත්මක වේ.
+Sri Lanka's Paye Tax, introduced in 2023, sparked controversy among professionals, affecting their decision to stay in the country. Critics argue it disproportionately burdens the middle class, potentially leading to a brain drain as skilled individuals consider leaving due to the tax's impact on their salaries. The tax system, aimed at generating revenue for public services and economic development, has instead caused widespread dissatisfaction, highlighting the need for a more equitable approach to taxation.
 
-බදු ප්‍රතිපත්තියක් තුළ ඍජු සහ වක්‍ර බදු යනුවෙන් ප්‍රධාන වර්ග දෙකක් ක්‍රියාත්මක වෙයි. ලෝකයේ ඕනෑ ම රටක අඩුවැඩි වශයෙන් බදු ක්‍රියාත්මක වන අතර, එම බදු මුදල් නිසි පරිදි භාවිත කරමින් මහ ජනතාවට අවශ්‍ය සේවා නිසි පරිදි සැපයීම අපේක්ෂා කෙරේ.
+🟩
 
-මහ ජනතාවට අවශ්‍ය සේවා සැපයීම වෙනුවෙන් වැය වන මුදල් සපයා ගැනීම බදු අය කර ගැනීමේ මූලික අරමුණ බව පේරාදෙණිය විශ්වවිද්‍යාලයේ ආර්ථික විද්‍යාව පිළිබඳ මහාචාර්ය වසන්ත අතුකෝරළ පැහැදිලි කළේ ය.
+A tax policy is in place for the existence of a country in the world.
+
+There are two main types of direct and indirect taxes in a tax policy. Taxes are effective in any country, which is expected to be properly used to provide the necessary services to the general public using the taxes.
+
+The Wasantha Athukoragram of the University of Peradeniya explained that the funding of the services of the public.
 
 ...
 
 [Data](articles/62fa00f7.json)
+
+[Extended Data](ext_articles/62fa00f7.ext.json)
 
 ---
 

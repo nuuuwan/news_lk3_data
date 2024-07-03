@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 22:52:47**
+As of **2024-07-03 23:04:46**
 
 ## Newspaper Stats
 
-*Scraped **33,536** Articles*
+*Scraped **33,537** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 307
-colombotelegraphcom | 307
+colombotelegraphcom | 308
 bbccomsinhala | 330
 newsfirstlk | 363
 islandlk | 1,867
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,535 (100.0%) of 33,536 articles have been extended.
+33,536 (100.0%) of 33,537 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,8 @@ The deceased male student is a resident of Wellawatte and the female student is 
 ...
 
 [Data](articles/db4f4e82.json)
+
+[Extended Data](ext_articles/db4f4e82.ext.json)
 
 ---
 
@@ -573,6 +575,20 @@ In this case, the police are investigating the death of the two students in the 
 [Data](articles/df1449ba.json)
 
 [Extended Data](ext_articles/df1449ba.ext.json)
+
+---
+
+### GTF Pays Tribute To Tamil Elder Statesman Mr R Sampanthan On His passing
+
+*2024-07-03 17:19:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/gtf-pays-tribute-to-tamil-elder-statesman-mr-r-sampanthan-on-his-passing/) · `en`
+
+The Global Tamil Forum (GTF) is deeply saddened by the passing of the Tamil elder statesman Mr R Sampanthan on June 30, 2024. We express our heartfelt condolences to the family and friends of the departed leader and all those mourning the loss of Mr. Sampanthan.
+
+Mr. Sampanthan had a long and illustrious political career. He has been a Parliamentarian for nearly 50 years, the Leader of Opposition in the Sri Lankan Parliament between 2015 to 2018, and led the Tamil National Alliance for the last 23 years. Mr. Sampanthan was an ardent advocate for Tamil rights and dedicated his political life for pursuing a just solution for the Tamil national question.
+
+...
+
+[Data](articles/8281f2b4.json)
 
 ---
 
@@ -2445,29 +2461,5 @@ According to the International Robotics Federation, one robot is employed in Sou
 [Data](articles/982b48bd.json)
 
 [Extended Data](ext_articles/982b48bd.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 303.00/50 to US dollar
-
-*2024-07-03 09:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-303-00-50-to-us-dollar-170648/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 303.00/50 to the US dollar on Wednesday, while bond yields were broadly steady, and stocks opened 0.03 percent up, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.80/95 percent, up 10.85/11.00 percent.
-
-A bond maturing on 15.03.2028 was quoted at 11.90/12.00 percent.
-
-A bond maturing on 15.09.2029 was quoted stable at 12.10/20 percent.
-
-A bond maturing on 15.05.2030 was quoted at 12.15/40 percent.
-
-In equities, Colombo’s All Share Price Index opened 3.56 points higher at 12,121, while the S&P SL20 of more liquid stocks opened up at 0.17 percent or 6.02 points to 3,580.
-
-◼️
-
-[Data](articles/c1e84e78.json)
-
-[Extended Data](ext_articles/c1e84e78.ext.json)
 
 ---

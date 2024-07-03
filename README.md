@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 02:53:46**
+As of **2024-07-04 03:04:45**
 
 ## Newspaper Stats
 
-*Scraped **33,551** Articles*
+*Scraped **33,554** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,64 @@ adalk | 2,996
 adaderanalk | 3,829
 tamilmirrorlk | 3,969
 dailymirrorlk | 4,733
-virakesarilk | 5,247
+virakesarilk | 5,250
 adaderanasinhalalk | 5,559
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,551 (100.0%) of 33,551 articles have been extended.
+33,551 (100.0%) of 33,554 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### பருத்தித்துறையில் கஞ்சா மற்றும் போதை மாத்திரைகள் என்பன மீட்பு!
+
+*2024-07-04 02:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/187630) · `ta`
+
+03ஆம் திகதி புதன்கிழமை இராணுவ புலனாய்வு பிரிவினருக்கு கிடைத்த தகவலின் அடிப்படையில், பருத்தித்துறை - புலோலி காட்டுப் பகுதியில் மறைத்து வைத்திருந்த போதைப்பொருட்கள் ஒருதொகை மீட்கப்பட்டன.
+
+இதன்போது ஒரு கிலோ எடையுடைய கேரளக் கஞ்சா, 290 போதை மத்திரைகள் மற்றும் தராசு ஒன்று என்பன மீட்கப்பட்டன.
+
+இருப்பினும் சந்தேக நபர் எவரும் கைது செய்யப்படவில்லை. பருத்தித்துறை பொலிசார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/57703850.json)
+
+---
+
+### மகளிர் மற்றும் சிறுவர் இல்லங்களை மூடுவதற்கு வடக்கு மாகாண ஆளுநர் உத்தரவு
+
+*2024-07-04 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/187629) · `ta`
+
+யாழ்ப்பாணம் தெல்லிப்பளை பகுதியிலுள்ள மகளிர் மற்றும் சிறுவர் இல்லங்களை மூடுவதற்கு நடவடிக்கை எடுக்குமாறு வடக்கு மாகாண  ஆளுநர்  உத்தரவிட்டுள்ளார்.
+
+யாழ்ப்பாணம் தெல்லிப்பளை பகுதியில் இயங்கும் மகளிர் மற்றும் சிறுவர் இல்லங்கள் தொடர்பில்,  ஆளுநரின் நேரடி கண்காணிப்பின் கீழ் இயங்கும் அபயம் பிரிவிற்குக் கிடைத்த முறைப்பாட்டிற்கு அமைய, இரண்டு  இல்லங்களையும் உடனடியாக மூடுமாறு வடக்கு ஆளுநர் , நன்னடத்தை மற்றும் சிறுவர்  பராமரிப்பு திணைக்களத்தின் ஆணையாளருக்குப் பணிப்புரை விடுத்துள்ளார்.
+
+...
+
+[Data](articles/69cd83fd.json)
+
+---
+
+### யாழ்ப்பாணத்தில் குளவிக் கொட்டுக்கு இலக்காகி பெண்ணொருவர் உயிரிழப்பு!
+
+*2024-07-04 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/187628) · `ta`
+
+2ஆம் திகதி செவ்வாய்க்கிழமை குளவிக்கொட்டுக்கு இலக்காகிய பெண்ணொருவர் புதன்கிழமை (03) தெல்லிப்பளை வைத்தியசாலையில் உயிரிழந்துள்ளார். இதன்போது செட்டிக்குறிச்சி பண்டத்தரிப்பு பகுதியைச் சேர்ந்த குணசேகரம் வரதசுரோன்மணி (வயது 67) என்ற 3 பிள்ளைகளின் தாயே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த பெண் நேற்றையதினம் அவரது வீட்டுக்கு அருகேயுள்ள காணிக்குள் சென்று பனையோலை எடுத்தவேளை அதனுள் இருந்த கருங்குளவி அவர்மீது கொட்டியது. இந்நிலையில் அவர் சங்கானை வைத்தியசாலையில் சேர்க்கப்பட்டு, பின்னர் மேலதிக சிகிச்சைக்காக அங்கிருந்து தெல்லிப்பழை வைத்தியசாலைக்கு மாற்றப்பட்டார்.
+
+இந்நிலையில் சிகிச்சை பலனின்றி இன்றையதினம் உயிரிழந்துள்ளார். சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ. ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்றுப் பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/4729d289.json)
+
+---
 
 ### People’s Bank conducts ‘People’s Spark’ event to commemorate World MSME Day
 
@@ -2301,85 +2347,5 @@ Investigations have been carried out in the Chavakachcheri court after the court
 [Data](articles/de1a96cd.json)
 
 [Extended Data](ext_articles/de1a96cd.ext.json)
-
----
-
-### Two court order ordered against protesters
-
-*2024-07-03 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198437) · `si`
-
-Court orders were issued against protesters in Colombo by the Fort Magistrate's Court and the Maligakanda Magistrate's Court, forbidding them from protesting near certain junctions and under Section 106(1) of the Criminal Procedure Code, preventing damage to public property. The orders were related to protests involving the Ceylon Agrarian Association and others, emphasizing the need for peaceful demonstrations without illegal actions.
-
-🟩
-
-Namal Karunaratne has issued an order against a group of protesters and a group of protesters.
-
-The Regulations issued by the Fort Magistrate's Court and the Maligakanda Magistrate's Court regarding a protest in Colombo today (03).
-
-These orders were issued with the protest of the Ceylon Agrarian Association including the Ceylon Agrarian Association.
-
-Accordingly, Namal Karunaratne, TB Sarath, Susantha Kumara, Sumith Attanayake, Sumith Attanayake, Summbuk and Susiri Ranasinghe, Chief Secretary, Sri Lanka Freedom Center, Sri Lanka Farmers' Conference.The order has been issued by the President of the Association, the Chairman of the Sri Lanka Public Office Association, Chairman of the Sri Lanka Public Office Association and the President of the Samagi Employees Union.
-
-Accordingly, the protesters have been informed from Teanm Junction to Ceramic Junction from Telestic Junction, from the NSA roundabout to the NSA roundabout from NSA roundabout.
-
-...
-
-[Data](articles/5c3a2fb1.json)
-
-[Extended Data](ext_articles/5c3a2fb1.ext.json)
-
----
-
-### Billions of jewelery racket
-
-*2024-07-03 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198436) · `si`
-
-In Badulla, a major jewelry fraud case has been busted by the local police. A suspect, accused of selling fake gold, has been arrested. Investigations led to the discovery of 41 pieces of counterfeit jewelry, including rings and necklaces. The suspect allegedly sold these items online, deceiving buyers who thought they were purchasing real gold. This case highlights the growing issue of fraud in the jewelry industry.
-
-🟩
-
-A person has been arrested for a fraudulent person with fake gold.
-
-The racket was arrested by the Badulla Police Divisional Secretariat Division regarding the racket of the gold items sector in Badulla.
-
-According to a complaint made by the manager of the private financial institution, the police have investigated.
-
-Investigations carried out on the suspect's statement have been found in possession of 41 pseudo-jewelery, the gathering, rings, rings, and pendents used for this fraud.
-
-Investigations have revealed that the suspect had released the jewelery to these as well as the jewelery had been issued to these jewelery, and the suspect had been released to them and boiled the Jewelry Online.Added.
-
-Intelligence on mortgage was revealed that the suspect named the suspect called their owners.
-
-◼️
-
-[Data](articles/fcfbd343.json)
-
-[Extended Data](ext_articles/fcfbd343.ext.json)
-
----
-
-### Surveyed to Sri Lanka to make a gift from the gift to a noble gift
-
-*2024-07-03 10:32:00* · [`adalk`](https://www.ada.lk/picture_story/තෑග්ගෙන්-තෑග්ග-උතුම්-තෑග්ගක්-කිරිමට-ලංකාවට-ආපු-සනුහක්/10-410586) · `si`
-
-President Joe Biden visited Sri Lanka, bringing gifts including a significant cash prize for the country's poorest citizens and schoolchildren. The visit highlighted the U.S.'s support for Sri Lanka, particularly through the Dearing Foundation and Elevator projects. A notable aspect was the recognition of A Sun Pinnawala, whose parents are doctors in the U.S., for his contributions to helping the needy.
-
-🟩
-
-Sri Lankan moved to US visitors from President Joe Biden to the Government of Sri Lanka and the Dearing Warranty in Sri Lanka and Elevators, especially poor schoolchildren, arrived at the Katunayake Airport on 07/02.
-
-Sri Lanka's biggest cash prize to the poor, the largest cash prize to the devotees of Sri Lanka and especially poor school children who have received the participation of the 50-state competitors in the United States.Happened.
-
-US President Joe Biden has awarded a gold award for the help of the Pinnawala's help and care for the helpless people in the world.
-
-A Sun' Pinnawala's parents are working as doctors in the United States and have been residents of Malabe, Colombo.
-
-A Sun' Pinnawala's father's Pinnawala Air Service at 08.30 pm on 08.30 pm
-
-◼️
-
-[Data](articles/cb5a6005.json)
-
-[Extended Data](ext_articles/cb5a6005.ext.json)
 
 ---

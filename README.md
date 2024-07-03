@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 03:53:41**
+As of **2024-07-04 04:05:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,555 (100.0%) of 33,559 articles have been extended.
+33,559 (100.0%) of 33,559 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The five-year program, running from 2024 to 2027, is funded by the Swiss Governm
 
 [Data](articles/fe7440ed.json)
 
+[Extended Data](ext_articles/fe7440ed.ext.json)
+
 ---
 
 ### Amunugama highlights apparel industry challenges amid opportunities for growth
@@ -59,6 +61,8 @@ He identified several significant challenges hindering the industry’s growth, 
 ...
 
 [Data](articles/9d10d9ca.json)
+
+[Extended Data](ext_articles/9d10d9ca.ext.json)
 
 ---
 
@@ -78,6 +82,8 @@ Incorporated by Act of Parliament No. 67 on 17 December 1988. IMSL is the sole m
 
 [Data](articles/bdc5a703.json)
 
+[Extended Data](ext_articles/bdc5a703.ext.json)
+
 ---
 
 ### BoardPAC awarded carbon neutral certification for second consecutive year
@@ -93,6 +99,8 @@ This remarkable achievement underscores BoardPAC’s dedication to environmental
 ...
 
 [Data](articles/4a78ebbf.json)
+
+[Extended Data](ext_articles/4a78ebbf.ext.json)
 
 ---
 

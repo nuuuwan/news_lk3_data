@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 00:34:54**
+As of **2024-07-04 00:51:40**
 
 ## Newspaper Stats
 
-*Scraped **33,543** Articles*
+*Scraped **33,545** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,9 +14,9 @@ bbccomsinhala | 330
 newsfirstlk | 363
 islandlk | 1,867
 economynextcom | 1,967
-dailyftlk | 2,068
+dailyftlk | 2,069
 adalk | 2,996
-adaderanalk | 3,828
+adaderanalk | 3,829
 tamilmirrorlk | 3,969
 dailymirrorlk | 4,733
 virakesarilk | 5,246
@@ -26,9 +26,41 @@ adaderanasinhalalk | 5,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,543 (100.0%) of 33,543 articles have been extended.
+33,543 (100.0%) of 33,545 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-07-04 (Thursday)
+
+### KPMG and Indo-Lanka collaboration
+
+*2024-07-04 00:28:03* · [`dailyftlk`](https://www.ft.lk/business/KPMG-and-Indo-Lanka-collaboration/34-763805) · `en`
+
+President Ranil Wickremesinghe with a smile in conversation with KPMG India’s CEO Yezdi Nagporewalla (right) and KPMG Sri Lanka Managing Partner Priyanka Jayatilake at the inauguration of KPMG All India Partner’s Meet 2024 in Colombo recently
+
+KPMG in India hosted its 31st All India Partners Meet (AIPM) 2024 in Colombo recently, as over 600 partners attached to KPMG in India in the subcontinent enjoying scenic Sri Lanka. Addressing the gathering was the President of Sri Lanka Ranil Wickremesinghe, who stressed on the importance of a strong collaboration with India to achieve the country’s development goals as the country is progressing on its recovery journey.
+
+...
+
+[Data](articles/82a2fe90.json)
+
+---
+
+### Sri Lanka strikes restructuring agreement with bondholders - report
+
+*2024-07-04 00:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100278/sri-lanka-strikes-restructuring-agreement-with-bondholders-report) · `en`
+
+(Bloomberg) -- Sri Lanka and creditors reached agreement on the terms for a $12 billion bond restructuring, bringing the South Asian nation closer to completing its debt overhaul two years after it defaulted.
+
+Bondholders and the nation agreed to a framework for a deal that includes notes linked to economic performance and a governance-linked structure as part of plain vanilla instruments, according to a statement released Wednesday at the conclusion of the second round of restricted talks.
+
+The deal marks the culmination of more than a year of difficult negotiations between Sri Lanka and its bondholders as officials took steps to rehabilitate the nation’s fiscal health. It will help restore access to international capital markets after the island nation fell into a default in 2022, and help Sri Lanka tap further funding from the International Monetary Fund.
+
+...
+
+[Data](articles/832d1fcf.json)
+
+---
 
 ### 2024-07-03 (Wednesday)
 
@@ -2371,69 +2403,5 @@ Food Safety Commissioner Aunivas said, “We used samples of Pani Puri, which is
 [Data](articles/ac573bd6.json)
 
 [Extended Data](ext_articles/ac573bd6.ext.json)
-
----
-
-### Religious congestion: 134 killed
-
-*2024-07-03 10:06:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமய-வைபவத்தில்-நெரிசல்-134-பேர்-பலி/175-339797) · `ta`
-
-In Uttar Pradesh's Hadrus district, a religious gathering turned tragic, resulting in 134 deaths due to overcrowding and stampede. The event, led by Saccar Narayan Sagar Vishwa Hari, lacked adequate security, with only 48 police officers present. Devotees, estimated at 12,500, were mainly responsible for crowd management. The incident occurred after the leader, known as Baba, departed, leading to chaos and suffocation among the attendees. Despite the efforts of nearby hospitals, the death toll rose rapidly, with many victims dying due to untreated injuries. The authorities are investigating the incident, but Baba remains at large.
-
-🟩
-
-The number of casualties in Uttar Pradesh Hadrus has increased to 134. The reason for this is that Baba is in hiding. Police are searching for him.
-
-The tragedy that rocked the country took place on Tuesday (02) in Hadrus district on the western part of UP.
-
-A spiritual meeting was held in Mughalkadi village of Sikandararao taluk of Hadrus district. It was conducted by Saccar Narayan Sagar Vishwa Hari. There have been many shocking reports about the accident, as the number of victims of congestion has increased to 134.
-
-Hadrus District Government Administration has been approved. Security arrangements have not been properly made to suit the meeting. Only 48 policemen were deployed on the UP police.
-
-Baba's disciples were taken in hand as the main administration of the crowd. About 12,500 of the Pole Baba disciples were involved in the security of the crowd. Even though it rained slightly, summer heat has not yet diminished. With moisture increased, the large ball of the crowd has been low.
-
-...
-
-[Data](articles/d62e6242.json)
-
-[Extended Data](ext_articles/d62e6242.ext.json)
-
----
-
-### Here are the groups coming to the LPL
-
-*2024-07-03 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198435) · `si`
-
-Today's LPL matches feature the Dambulla Sixers vs Jaffna Kings and Colombo Strikers vs Galle Gladiators at Pallekele Stadium. Yesterday, Colombo Strikers lost to another team by 51 runs in the Ceylon Premier League. In the Lanka Premier League, Colombo Strikers won the toss and made 198 runs in 20 overs, led by Sadeera Samarawickrema with 38 runs. Kasun Rajitha bowled well, taking two wickets. However, Candy Falcons could only score 147 runs in 15 overs after losing Shadab Khan early.
-
-🟩
-
-The match between the Dambulla Sixers Troatch and Jarffna Kings team will be held today (03).
-
-Meanwhile, Colombo Strikers team and the Gall Malas Group is scheduled to start at 7.30 pm at Pallekele Stadium, Kandy.
-
-Meanwhile, Colombo Strikers were killed by 51 runs in the Ceylon Premier League cricket yesterday (02).
-
-The third match of the Lanka Premier League cricket series was held last night.
-
-The Colombo team invited the Colombo team to win the benefit of the coin.
-
-Accordingly, the first two wickets in the Colombo Streylyners team were in the tip of 20 runs.
-
-Sageera Samarawickrema and Muamaad Wasim Lawn a 78 runs for the Colombo team.
-
-The leader of Sadeera was a 38 runs in the 6th wicket with Shadob Khan.
-
-The relationship that the 7th wicket was built with Chamakika Karunaratne was 41 runs.
-
-Accordingly, the loss of 7 wickets in their allotted 20 overs have scored 198 runs.
-
-Kasun Rajitha took two wickets each for the bowling.
-
-...
-
-[Data](articles/8510f89f.json)
-
-[Extended Data](ext_articles/8510f89f.ext.json)
 
 ---

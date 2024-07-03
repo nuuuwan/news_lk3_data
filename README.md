@@ -1,36 +1,50 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 12:52:39**
+As of **2024-07-03 13:04:55**
 
 ## Newspaper Stats
 
-*Scraped **33,460** Articles*
+*Scraped **33,466** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 306
+dbsjeyarajcom | 307
 colombotelegraphcom | 307
 bbccomsinhala | 328
 newsfirstlk | 363
 islandlk | 1,867
 economynextcom | 1,957
 dailyftlk | 2,068
-adalk | 2,982
+adalk | 2,983
 adaderanalk | 3,818
 tamilmirrorlk | 3,963
 dailymirrorlk | 4,733
-virakesarilk | 5,225
+virakesarilk | 5,229
 adaderanasinhalalk | 5,543
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,459 (100.0%) of 33,460 articles have been extended.
+33,460 (100.0%) of 33,466 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### ஐ.தே.க வில் இணைந்தார் மஹிந்த கஹந்தவெல
+
+*2024-07-03 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/187577) · `ta`
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் கொழும்பு மாநகர சபை முன்னாள் உறுப்பினர் மஹிந்த கஹந்தவெல ஐக்கிய தேசியக் கட்சியில் இணைந்துள்ளார்.
+
+மத்திய கொழும்புத் தொகுதியின் வலய அமைப்பாளராக கஹந்தவெல நியமிக்கப்பட்டுள்ளார். இந்நிலையில், ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு தனது ஆதரவை உறுதியளித்துள்ளார்.
+
+◼️
+
+[Data](articles/44175e69.json)
+
+---
 
 ### ‘Harak Kata’ produced at Colombo HC amidst tight security
 
@@ -58,11 +72,45 @@ After considering all the facts presented, the judge fixed the case for further 
 
 A businessman has filed a fundamental rights (FR) petition seeking an order preventing the calling of a Presidential Election until the Supreme Court delivers its interpretation on the date of the presidential poll, Ada Derana reporter said.
 
+The petition was filed by an entrepreneur named C.D. Lenawa.
+
+The petition requests that an interim order be issued to prevent the holding of the presidential election within the currently scheduled period until the court delivers its interpretation on the date of the next presidential election.
+
 ◼️
 
 [Data](articles/2ae9b37a.json)
 
 [Extended Data](ext_articles/2ae9b37a.ext.json)
+
+---
+
+### வெளிநாட்டில் வசித்துவரும் ஒருவருக்குச் சொந்தமான காணி மோசடி - சந்தேகநபர் கைது!
+
+*2024-07-03 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/187562) · `ta`
+
+வெளிநாட்டில் வசித்துவரும் ஒருவருக்குச் சொந்தமான காணியை, ஆள்மாறாட்டம் செய்து உரிமை மாற்றம் செய்த சகோதரி பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+யாழ்ப்பாணத்தைச் சேர்ந்த நபரொருவர் புலம்பெயர்ந்து வெளிநாடொன்றில் வசித்து வருகின்றார். அவர் தனது காணிக்கான அற்றோனித்தத்துவ அதிகாரத்தை தனது ஒன்றுவிட்ட சகோதரிக்கு வழங்கியிருந்தார். இந்த நிலையில், காணி உரிமையாளரின் சொந்தச் சகோதரி பிறிதொரு தேவையைக் காரணம்காட்டி ஒன்றுவிட்ட சகோதரியிடமிருந்து உறுதியைப் பெற்றுச்சென்று மோசடியாக உரிமை மாற்றம் செய்துள்ளார்.
+
+இது தொடர்பில் யாழ்ப்பாணம் மாவட்ட குற்ற விசாரணைப் பிரிவுப் பொறுப்பதிகாரி குணரோஜன் தலைமையிலான குழுவினரிடம் வழங்கப்பட்ட முறைப்பாட்டுக்கு அமைய விசாரணைகளை மேற்கொண்ட பொலிஸார், காணி மோசடி செய்த சகோதரியைக் கைது செய்தனர். அவர் ஆள்மாறாட்டம் செய்வதற்கு உதவிய பிறிதொரு பெண்ணும் கைது செய்யப்பட்டார்.
+
+...
+
+[Data](articles/b16f83a6.json)
+
+---
+
+### ஒவ்வொரு வருடமும் தற்கொலைகளால் 3 ஆயிரத்திற்கும் மேற்பட்டவர்கள் உயிரிழப்பு
+
+*2024-07-03 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/187571) · `ta`
+
+ஜூலை முதலாம் திகதி முதல் 5 ஆம் திகதி வரை அனுஷ்டிக்கப்படும் தேசிய காயம் தடுப்பு வாரத்தின் போது இந்த புள்ளிவிவரம் சுகாதார அமைச்சகத்தால் வெளியிடப்பட்டுள்ளது.
+
+இந்த ஆபத்தான போக்கை எதிர்த்துப் போராடுவதற்கு, மேம்பட்ட மனநல ஆதரவு சேவைகள், சமூக விழிப்புணர்வு திட்டங்கள் மற்றும் தற்கொலை தடுப்பு உத்திகள் ஆகியவற்றின் அவசரத் தேவையை வலியுறுத்தி, தற்கொலைகள் ஒரு குறிப்பிடத்தக்க பொது சுகாதார சவாலாக இருப்பதாக சுகாதார அதிகாரிகள் வலியுறுத்தியுள்ளனர்.
+
+◼️
+
+[Data](articles/434639ed.json)
 
 ---
 
@@ -119,6 +167,26 @@ Mahinda Kahanthawela, a former member of the Sri Lanka PA's Colombo Municipal Co
 [Data](articles/947ea6f3.json)
 
 [Extended Data](ext_articles/947ea6f3.ext.json)
+
+---
+
+### ஆசிரியர் தாக்கியதால் பாடசாலை செல்ல மறுக்கும் மாணவன் ; முல்லைத்தீவில் சம்பவம்
+
+*2024-07-03 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/187572) · `ta`
+
+முல்லைத்தீவு  கல்வி வலயத்திற்கு உட்பட்ட பாடசாலை ஒன்றில் தரம் ஒன்பதில் கல்வி கற்கும் மாணவனின் தலையில் ஆசிரியர் தாக்கியதால் பாடசாலை செல்வதற்கு மாணவன் மறுப்புத் தெரிவித்து வருவதாக குற்றச்சாட்டு எழுந்துள்ளது.
+
+கடந்த 19 ஆம் திகதி குறித்த பாடசாலையில் கல்வி பயிலும் மாணவன் ஒருவர் மீது ஆசிரியர் தலையில் தாக்கியுள்ளார்.
+
+இந்நிலையில்,  குறித்த மாணவன் பாடசாலை செல்வதற்கு மறுப்புத் தெரிவித்து வரும் நிலையில் சம்பவத்துடன் தொடர்பட்ட ஆசிரியருடன்  பெற்றோர் சந்திப்பதற்கு முயற்சிகள் மேற்கொள்ளப்பட்ட போதும் அதிபர் குறித்த ஆசிரியருடன் தாம் பேசுவதாக தெரிவித்ததாக பெற்றோர் தரப்பில் தெரிவிக்கப்பட்டது.
+
+எனினும் தமது பிள்ளைக்கு இடம்பெற்ற சம்பவம் தொடர்பில் குறித்த ஆசிரியர் தம்முடன் கலந்துரையாடாத நிலையில் குறித்த விடயம்  தொடர்பில் முல்லைத்தீவு பொலிஸாருக்கு தகவல் தெரியப்படுத்திய நிலையில் பொலிஸார் நேற்றைய தினம் செவ்வாய்க்கிழமை குறித்த மாணவனையும் பெற்றோரையும் பொலிஸ் நிலையம் அழைத்து விசாரித்துள்ளனர்.
+
+இதன்போது குறித்த மாணவனை வைத்தியசாலையில் அனுமதிக்குமாறு பொலிஸார் அறிவுறுத்தல் வழங்கியதாக பெற்றோர் தரப்பில் தெரிவிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/f0a317fd.json)
 
 ---
 
@@ -1086,7 +1154,7 @@ As stated last week, the United National Party (UNP) was down in the doldrums af
 
 If the executive presidency is not abolished, if the PTA stays (or is replaced by something as bad or even worse), if militarisation is not rolled back, if political monks continue to dictate terms and conditions to the country, what would system-change look like?
 
-Sri Lanka always ranks low in the World Happiness Index; 128 out of 148 in 2024 (we rank 48 in Global Militarisation Index though, and possess the 17th largest military in the world). We are also a gloomy lot in terms of how we see the country’s future. According to a new Institute of Health Policy (IHP) poll, in May 2024, 80% of Lankan adults thought the country was heading in the wrong direction. Just 4% thought the country was on the right path; a slight improvement compared to February 2024 when 0% felt the country was on the correct track (https://ihp.lk/research-updates/number-sri-lankans-thinking-country-heading-wrong-direction-continues-increase).
+“The night is an open book. But the world beyond the night remains a mystery.” – Louise Gluck (Before the Storm)
 
 ...
 
@@ -1100,7 +1168,7 @@ Sri Lanka always ranks low in the World Happiness Index; 128 out of 148 in 2024 
 
 *2024-07-03 05:21:48* · [`dailyftlk`](https://www.ft.lk/columns/The-obstacle-course-I-ran-over-four-days-to-get-an-eVisa-to-Sri-Lanka/4-763786) · `en`
 
-An obstacle course that spanned three continents just to process something as simple as ordering dinner
+An obstacle course that spanned three continents just to process something as simple as ordering dinner from UberEats
 
 I was born in Sri Lanka, live in the US, and visit my home country often. The very idea of having to get a visa to a country I lived in for a greater part of my life is discomforting. Nevertheless, in order to comply, three weeks before I travelled, I went through the process. No different from thousands of others. However this time, it turned out to be a bizarre obstacle course set up by an Indian outfit masked behind a bunch of acronyms.
 
@@ -1506,6 +1574,20 @@ Shanmugam Kukadasan contested the 2020 parliamentary election on behalf of the S
 
 ---
 
+### Will the  Economic “Good News” From Paris and Beijing Help Ranil  Win the 2024 Presidential Poll  in Sri Lanka?
+
+*2024-07-03 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84319) · `en`
+
+Ranil  Wickremesinghe was appointed Prime Minister on 12 May 2022 by the then president Gotabaya Rajapaksa. Sri Lanka was in the grip of a debilitating economic crisis then. The “Aragalaya”(struggle) protest movement was raging. The new premier addressed the nation through a special statement on 16 May 2022. In that Wickremesinghe referred to Bertolt Brecht’s play “The Caucasian Chalk Circle”. This is what he said then –
+
+...
+
+[Data](articles/7940d96a.json)
+
+[Extended Data](ext_articles/7940d96a.ext.json)
+
+---
+
 ### Settle in 3 months
 
 *2024-07-03 01:05:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-மாதங்களில்-தீர்த்து-வைக்கவும்/175-339787) · `ta`
@@ -1529,6 +1611,26 @@ In this case, I repeatedly insist that the issue should be resolved before the e
 [Data](articles/b8f18521.json)
 
 [Extended Data](ext_articles/b8f18521.ext.json)
+
+---
+
+### “My decisions are not driven by political power or popularity. They are made solely for the country’s benefit. Every decision has been aimed at national progress, not personal gain”- President Ranil Wickremesinghe in Special Statement to Parliament
+
+*2024-07-03 01:05:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84329) · `en`
+
+Full Text of Special  statement delivered by President Ranil Wickremesinghe in Parliament on 2 July 2024)
+
+Last week, we were able to achieve another significant milestone in the challenging journey of restoring economic stability to a country that defaulted on its debts in 2022.
+
+On June 26, we reached an agreement with our official creditors regarding the repayment of the loan. Representing our country, officials authorized by the Cabinet signed these agreements and contracts. That same night, I addressed the nation through electronic media to share these developments.
+
+From the beginning of this arduous journey to rebuild the economy, I have consistently presented updates to Parliament. Initially, we outlined our plans before Parliament, and subsequently, we reported on the progress we have made.
+
+Therefore, I would like to present the information about the current situation to the Parliament today.
+
+...
+
+[Data](articles/d34ea441.json)
 
 ---
 
@@ -2135,125 +2237,5 @@ To commemorate the milestone, HSBC has launched a special 30th anniversary campa
 [Data](articles/65a3f4ea.json)
 
 [Extended Data](ext_articles/65a3f4ea.ext.json)
-
----
-
-### New feed-in tariff system for specified renewable power plants
-
-*2024-07-02 20:51:00* · [`islandlk`](http://island.lk/new-feed-in-tariff-system-for-specified-renewable-power-plants/) · `en`
-
-Power and Energy Minister Kanchana Wijesekera yesterday announced that the Cabinet has approved new feed-in tariffs for renewable power plants below 10 megawatts (MW).
-
-According to the new tariffs, rooftop solar installations below 500 kilowatts (KW) will receive a flat rate of Rs. 27.06 per unit for 20 years. Installations exceeding 500 kW will receive Rs. 23.18 per unit.
-
-The Ceylon Electricity Board (CEB) has also set tariffs for other renewable projects below 10 MW, accordingly:
-
-Solar: Rs. 25.48 per unit (equivalent to 8.35 US cents at an exchange rate of Rs. 305 to the US dollar)
-
-All these rates will remain fixed for 20 years without tiered reductions.
-
-However, energy experts have criticized Sri Lanka’s feed-in tariffs, except for biomass, for being administratively set much higher than competitive rates in other regions. For instance, a 50 MW wind plant in Mannar receives tariffs of only 4.88 US cents per kWh.
-
-...
-
-[Data](articles/a433abd9.json)
-
-[Extended Data](ext_articles/a433abd9.ext.json)
-
----
-
-### Cross-over fears hamper CSE’s bullish momentum
-
-*2024-07-02 20:49:00* · [`islandlk`](http://island.lk/cross-over-fears-hamper-cses-bullish-momentum/) · `en`
-
-Stock market activities were positive yesterday but not bullish because local and foreign investors are looking at strong political direction. As matters stand, political uncertainty prevails in the country due to possible crossovers. Amid those developments the market was dominated by arranged transactions or crossings, which contributed more than 60 percent to the turnover.
-
-Retail investor participation was slightly low but three major crossings, especially one relating to Windforce, dominated the market by contributing more than Rs 1 billion to the turnover. All Share Price Index went up by 44.25 points, while the S and P SL20 rose by 9.29 points. Turnover stood at Rs 1.83 billion with three crossings.
-
-...
-
-[Data](articles/f7ff9996.json)
-
-[Extended Data](ext_articles/f7ff9996.ext.json)
-
----
-
-### No change in the price of Lafs Case
-
-*2024-07-02 20:33:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லாஃப்ஸ்-கேஸ்-விலையில்-மாற்றம்-இல்லை/175-339766) · `ta`
-
-Lafs cooking gas prices unchanged: 12.5kg cylinder at Rs 3,680, 5kg at Rs 591, and 2kg also at Rs 591.
-
-🟩
-
-The company has announced that the prices of Lafs cooking gas will not be corrected.
-
-Accordingly, the price of 12.5 kg of cooking gas cylinder will be sold at Rs 3,680, 5 kg cooking gas cylinder and 2 kg of cooking gas will continue to be sold at Rs 591 for Rs 591.. Remble
-
-◼️
-
-[Data](articles/7db12d92.json)
-
-[Extended Data](ext_articles/7db12d92.ext.json)
-
----
-
-### Sri Lanka’s Tharushi and Dilhani qualify for Paris Olympics
-
-*2024-07-02 20:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100251/sri-lankas-tharushi-and-dilhani-qualify-for-paris-olympics) · `en`
-
-Sri Lankan athletes Tharushi Karunaratne and Dilhani Lekamge have qualified to compete at the 2024 Paris Olympic Games.
-
-Tharushi Karunaratne has qualified for the Women’s 800m event while Nadeesha Lekamge qualified for Women’s Javelin Throw events at the Paris Olympics.
-
-◼️
-
-[Data](articles/fb5b0c8a.json)
-
-[Extended Data](ext_articles/fb5b0c8a.ext.json)
-
----
-
-### Olympic Champions
-
-*2024-07-02 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198422) · `si`
-
-Sri Lanka's Tharushi Karunaratne and Dilhani Secretary have qualified for the 2024 Paris Olympics. Karunaratne will compete in the 800 meters, while Secretary will participate in the women's spelling event.
-
-🟩
-
-Sri Lanka Youth Athletics Tharishi Athletic and Sri Lanka Athletic Dilhani Secretary's 2024 qualified for the 2024 Paris Olympic Games.
-
-Tharushi Karunaratne is eligible to represent the 800 meter event event and is eligible to represent Dilhani Secretary's women's spelling event.
-
-◼️
-
-[Data](articles/f4bd14a7.json)
-
-[Extended Data](ext_articles/f4bd14a7.ext.json)
-
----
-
-### Basic salary of the public service is Rs.. Demands to increase by 20000
-
-*2024-07-02 20:07:54* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයේ-මූලික-වැටුප-රු--20000කින්-වැඩිකරන්නැයි-ඉල්ලයි/11-410581) · `si`
-
-The Public Service Trade Union Alliance demands a Rs. 20,000 increase in basic salary, citing discussions held on the 8th and 9th of this month. Despite previous salary hikes for service and executive staff, the union seeks dialogue with authorities before deciding on further action.
-
-🟩
-
-The Public Service Trade Union Alliance states that a proceedings of working on the 08th and 9th of this month will be departuring the basic salary of the state.
-
-The Coalition of the Alliance Dr. Dhammika Munasinghe said that the salaries and executives of the service and executives were increased in the past service.
-
-However, the government service trade union alliance has attempted to have an opportunity to discuss the event with the relevant authorities over the recent past.
-
-Therefore, although it is reluctant to demand a salary increase, it has been reported that the General Associations, Management Services Officers, Postal Officers and Office Assistants have to take on the services of the two days.
-
-◼️
-
-[Data](articles/3f84247a.json)
-
-[Extended Data](ext_articles/3f84247a.ext.json)
 
 ---

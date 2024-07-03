@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 17:04:46**
+As of **2024-07-03 17:19:33**
 
 ## Newspaper Stats
 
-*Scraped **33,504** Articles*
+*Scraped **33,505** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,23 +20,39 @@ adaderanalk | 3,823
 tamilmirrorlk | 3,967
 dailymirrorlk | 4,733
 virakesarilk | 5,238
-adaderanasinhalalk | 5,551
+adaderanasinhalalk | 5,552
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,500 (100.0%) of 33,504 articles have been extended.
+33,504 (100.0%) of 33,505 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
+### සම සුදුවෙන ක්‍රීම්වලින් වකුගඩු රෝග ඇතිවීමේ ප්‍රවණතාවයක්
+
+*2024-07-03 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198451) · `si`
+
+සම සුදුවීම සඳහා භාවිත කරන විවිධ ක්‍රීම් වර්ග හේතුවෙන් පිළිකාවලට ගොදුරුවූ පුද්ගලයින්ට වඩා වකුගඩු රෝගවලට ගොදුරුවූ පුද්ගලයින්ගේ සංඛ්‍යාව ඉහළ ගොස් ඇති බව සෞඛ්‍ය අංශ සඳහන් කරයි.
+
+අද (03) පෙරවරුවේ සෞඛ්‍ය ප්‍රවර්ධන කාර්යංශයේ පැවති මාධ්‍ය හමුවකට එක් වෙමින් ජාතික රෝහල් සම පිළිබඳ විශේෂඥ වෛද්‍ය ඉන්දිරා කහවිට මහත්මිය ඒ බව සඳහන් කළාය.
+
+"ලෝක සෞඛ්‍ය සංවිධානය සහා ශ්‍රී ලංක සෞඛ්‍ය අමාත්‍යාංශය අතර වැඩපිළිවෙළක් යනවා රසදිය පාවිච්චිය සම්පූර්ණයෙන් නැති කරන්න. ඒ කියන්නේ රසදිය ප්‍රමාණය බිංදුව වෙන්නේ ඕනේ. දැන් මේවා පාවිච්චි කරන්නේ එක තැනකට නෙමෙයිනේ මුළු ඇඟේම. මුළු සිරුරෙම විශාල රසදිය ප්‍රමාණයක් අලේප කළාම ඒක සම හරහා රුධිරයට අවශෝෂණය වෙන්නේ නැහැ කියලා කිසිම වගකීමක් නැහැ. එතකොට එහෙම වුණාම ඇත්තටම රසදියවලින් පිලිකාවලට වඩා වෙන්න පුළුවන් දේ තමයි වකුගඩු අකර්මන්‍ය වීම. ශ්‍රී ලංකාව කියන්නේ හේතුවක් හඳුනා නොගත් වකුගඩු රෝග ඉතාම බහුලව තියෙන රටක්. ඒකට මේවයින් බලපෑමක් වෙනවාද කියන එක අපි කොහොමද පෙන්වන්නේ ?"
+
+...
+
+[Data](articles/d018290a.json)
+
+---
+
 ### Ex-storekeeper arrested over theft of liquor bottles from Hulftsdorp Court
 
 *2024-07-03 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100271/ex-storekeeper-arrested-over-theft-of-liquor-bottles-from-hulftsdorp-court) · `en`
 
-A former storekeeper of the Hulftsdorp Court complex has been arrested by the Colombo Crimes Division (CCD) in connection with the disappearance of foreign liquor bottles worth around Rs. 20 million from the court store.
+A former storekeeper of the Hulftsdorp Court complex has been arrested by the Colombo Crimes Division (CCD) in connection with the disappearance of foreign liquor bottles worth around Rs. 20 million from the court’s storage facility.
 
 The individual has been remanded until July 16 by the Colombo Chief Magistrate, said Ada Derana reporter.
 
@@ -45,6 +61,8 @@ Minister of Justice Wijeyadasa Rajapakshe had revealed this incident in the Parl
 ◼️
 
 [Data](articles/3015de00.json)
+
+[Extended Data](ext_articles/3015de00.ext.json)
 
 ---
 
@@ -61,6 +79,8 @@ Accordingly, after considering the facts presented before the court, the Additio
 ◼️
 
 [Data](articles/bbee4cd1.json)
+
+[Extended Data](ext_articles/bbee4cd1.ext.json)
 
 ---
 
@@ -112,21 +132,27 @@ The parties should have a strong balance sheet and expertise, as there were the 
 
 ---
 
-### දන්දී පින් ලැබූ තැනම මරණය අත්වූ 9හැවිරිදි දැරිය
+### The 9-year-old girl who was informed of death
 
 *2024-07-03 15:54:15* · [`adalk`](https://www.ada.lk/breaking_news/දන්දී-පින්-ලැබූ-තැනම-මරණය-අත්වූ-9හැවිරිදි-දැරිය/11-410590) · `si`
 
-පොසොන්  බත් දන්සලක කරවල හොදි කල්දේරමට   වැටී බරපතළ තුවාල ලබා ප්‍රතිකාර ලබමින් සිටි 9 හැවිරිදි පාසල් ශිෂ්‍යාවක  මියගොස් ඇති බව පානදුර දකුණ පොලිසිය පවසයි .
+A 9-year-old girl named Siani Mehita from Panadura, Sri Lanka, tragically passed away during a religious event marking Poson Poya. She fell and suffered serious injuries, which led to her admission to the Panadura Base Hospital before being transferred to the Ridadway Hospital.
 
-මෙසේ මියගොස් ඇත්තේ පානදුර, බෙක්කේගම ප්‍රදේශයේ පදිංචිව සිටී ශයනි මෙතුම්සා නමැති දැරියක බව සදහන් වේ.
+🟩
 
-පානදුර ප්‍රදේශයේ පොසොන් පොහොය නිමිත්තෙන් බත් දන්සලක් පවත්වා ඇති අතර , පසුගිය 23 දින දැරිය සිය මව සමග එහි රැදී සිටීයදී දැරිය කරවල හොදි කල්දේරමට වැටී ඇති බව පැවසේ.
+The 9-year-old schoolgirl, Panadura, has died in a dead injurge in the gland of Poson Both Dansala.
 
-බරපතල තුවාල ලබා සිටි දැරිය පානදුර මූලික රෝහලට ඇතුළත් කිරීමෙන් පසු, ඇයගේ තත්වය බරපතල බැවින් කොළඹ රිජ්වේ ආර්යා  රෝහලට මාරු කර යවා සිටියදී මියගොස් ඇති බව රෝහල් ආරංචි මාර්ග සඳහන් කරයි.
+The deceased is that Siani Mehita, a resident of Bcakgama, Panadura, Panadura.
+
+It is said that a dansala has been conducted to mark the Poson Poya in Panadura and the girl has fallen before the girl with his mother.
+
+The girl who was seriously injured was admitted to the Panadura Base Hospital, hospital sources said that her condition was transferred to the Ridadway Hospital.
 
 ◼️
 
 [Data](articles/f9f65c43.json)
+
+[Extended Data](ext_articles/f9f65c43.ext.json)
 
 ---
 
@@ -1274,23 +1300,29 @@ A Sun' Pinnawala's father's Pinnawala Air Service at 08.30 pm on 08.30 pm
 
 ---
 
-### ජනාධිපතිවරණය:ධුර කාලය ගැන අර්ථ නිරූපණයක් ලබා දෙන තුරු ඡන්දය වැළක්වීමට  අතුරු නියෝගයක් ඉල්ලා  ශ්‍රේෂ්ඨාධිකරණයට  මූලික අයිතිවාසිකම් පෙත්සමක්
+### Presidential Election: An inter-order to impose an interim order for the order of term, a fundamental rights petition for the Supreme Court
 
 *2024-07-03 10:25:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gdx3ydzv8o) · `si`
 
-ජනාධිපතිවරණය:ධුර කාලය ගැන අර්ථ නිරූපණයක් ලබා දෙන තුරු ඡන්දය වැළක්වීමට  අතුරු නියෝගයක් ඉල්ලා  ශ්‍රේෂ්ඨාධිකරණයට  මූලික අයිතිවාසිකම් පෙත්සමක්
+In a fundamental rights petition to the Supreme Court, an entrepreneur from Moratuwa challenges the 19th Amendment's impact on the presidential term length, claiming ambiguity between five and six-year tenures. The petitioner, represented by Lev, seeks an interim order for the upcoming Presidential Election due to this constitutional uncertainty. The case involves the Elections Commission, its members, the Chairman, and the Attorney General as respondents.
 
-ජනාධිපතිවරයාගේ ධුර කාලය නිමා වන දින වකවානුව  සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණය විසින් අර්ථ නිරූපණයක් ලබා දෙන තුරු දැනට සැලසුම් කර තිබෙන පරිදි ජනාධිපතිවරණය පැවැත්වීම වැළැක්වීමේ අතුරු නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සමක් ගොනු කර තිබේ.
+🟩
 
-මොරටුව ප්‍රදේශයේ පදිංචි ව්‍යවසායකයෙකු වූ සී.ඩී. ලෙනව විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබේ.
+Presidential Election: An inter-order to impose an interim order for the order of term, a fundamental rights petition for the Supreme Court
 
-එහි වග උත්තරකරුවන් ලෙස මැතිවරණ කොමිසම, එහි සභාපතිවරයා ඇතුළු සාමාජිකයින්, නීතිපතිවරයා නම් කර ඇත.
+The President has filed a fundamental rights petition in the Supreme Court to issue an interim order to issue an interim order for the Presidential Election to issue an interim order for the Presidential Election.
 
-පෙත්සම්කරු කියා සිටින්නේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනය තුළින් ජනාධිපතිවරයාගේ ධුර කාලය සම්බන්ධයෙන් සිදුකළ සංශෝධනය හේතුවෙන් ජනාධිපතිවරයාගේ දුර කාලය අවසන් වන දිනවකවානු සම්බන්ධයෙන් අපැහැදිලිතාවයක් නිර්මාණය  වී තිබෙන බවයි.
+CD, an entrepreneur, a resident of Moratuwa. The petition has been presented by the Lev.
+
+As the respondents, the Elections Commission, the members of the Elections Commission, the Chairman and the Attorney General have been named.
+
+The petitioner claims that the 19th Amendment to the Constitution has created a vagree with the end of the president's tenure.
 
 ...
 
 [Data](articles/9277eccd.json)
+
+[Extended Data](ext_articles/9277eccd.ext.json)
 
 ---
 
@@ -2287,25 +2319,5 @@ The Cabinet of Ministers on Monday approved implementing the special loan scheme
 [Data](articles/365c77a7.json)
 
 [Extended Data](ext_articles/365c77a7.ext.json)
-
----
-
-### Next SL leader needs economic vision, not just debt management skills: Prof Charitha Herath
-
-*2024-07-03 04:45:17* · [`dailyftlk`](https://www.ft.lk/news/Next-SL-leader-needs-economic-vision-not-just-debt-management-skills-Prof-Charitha-Herath/56-763770) · `en`
-
-Freedom People’s Congress (FPC) member Prof. Charitha Herath has called for Sri Lanka to appoint a leader capable of managing the country’s economy, not merely its debt. Speaking at a press conference yesterday, Herath addressed the current economic situation and the forthcoming political changes.
-
-Herath highlighted that the broad economic crisis has now evolved into a debt crisis. He criticised the prevailing focus on debt management, which he believes has led to a misconception that the ideal Presidential candidate is one who excels in debt management.
-
-“This is wrong. No matter who is appointed, he must manage debt, but the reason for choosing a new President should not be his ability to manage debt. It should be someone with a broad vision to manage the economy,” Herath asserted.
-
-He warned that economic management has been overshadowed by an excessive focus on debt management.
-
-...
-
-[Data](articles/e4bc36f0.json)
-
-[Extended Data](ext_articles/e4bc36f0.ext.json)
 
 ---

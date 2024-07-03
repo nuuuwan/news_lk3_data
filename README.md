@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 20:53:55**
+As of **2024-07-03 21:04:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,525 (100.0%) of 33,526 articles have been extended.
+33,526 (100.0%) of 33,526 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -342,21 +342,27 @@ In this case, the police are investigating the death of the two students in the 
 
 ---
 
-### ගිනිකූරු කොටයෙන් ආපු මාරයා
+### The man of the soul
 
 *2024-07-03 17:16:27* · [`adalk`](https://www.ada.lk/breaking_news/ගිනිකූරු-කොටයෙන්-ආපු-මාරයා/11-410594) · `si`
 
-පානදුර මුහුදේ ගිනිකූරු කොටයක් සමග සෙල්ලම් කරම්න් විනෝදයට  දියනාමින් සිටී පුද්ගලයකු එම කොටයේ ගැටී මියගොස් තවත් අයෙකු තුවාල ලබා ඇති බව පානදුර දකුණ පොලිසිය පවසයි .
+A 27-year-old from Ingiriya died, along with one other killed and one injured, in a tragic incident at Panadura Sea. The victims' bodies are at Panadura Base Hospital awaiting post-mortem examination.
 
-මෙසේ මියගොස් ඇත්තේ ඉංගිරිය , ඉංගිරිය වත්ත ප්‍රදේශයේ පදිංචිව සිටී හෙවන හැන්නැදිගේ අශාන් දේවින්ද නමැති 27 හැවිරිදි  පුද්ගලයෙකු බව පොලිසිය කීය.
+🟩
 
-මිතුරන් දෙදෙනා පානදුර වෙරලට පැමිණ මුහුදු වෙරලේ දියනාමින් සිට ගිනිකූරු කොටයක් සමග සෙල්ලම් කරමින් සිටියදී රළ පහරට  වේගයෙන්  ගසාගෙන ගිය කොටය මුහුනේ වැදී ඇති බව පරීක්ෂණ වලදී හෙලිව ඇති බව පොලිසිය කීය.
+The deceased has been killed and another person was killed and another injured with a mature scheme of Panadura Sea.
 
-මෘතදේහය පශ්චාත් මරණ පරීක්ෂණය සදහා පානදුර මූලික රෝහලේ තැන්පත් කර තිබේ.
+The deceased has been identified as a 27 year old resident of Ingiriya and Ingiriya.
+
+The two friends had revealed that the waves were fast with a mature boast of the sea while he was fast-paced.
+
+The body has been placed at the Panadura Base Hospital for the post mortem.
 
 ◼️
 
 [Data](articles/43dee0de.json)
+
+[Extended Data](ext_articles/43dee0de.ext.json)
 
 ---
 

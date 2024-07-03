@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 01:36:10**
+As of **2024-07-04 01:53:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,546 (100.0%) of 33,547 articles have been extended.
+33,547 (100.0%) of 33,547 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Sampanthan, one among the few TNA leaders who Western diplomats in Colombo conti
 ...
 
 [Data](articles/02e40a46.json)
+
+[Extended Data](ext_articles/02e40a46.ext.json)
 
 ---
 

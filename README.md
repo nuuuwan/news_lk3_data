@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 18:25:52**
+As of **2024-07-03 18:37:44**
 
 ## Newspaper Stats
 
-*Scraped **33,515** Articles*
+*Scraped **33,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,867
 economynextcom | 1,966
 dailyftlk | 2,068
 adalk | 2,990
-adaderanalk | 3,824
+adaderanalk | 3,825
 tamilmirrorlk | 3,967
 dailymirrorlk | 4,733
 virakesarilk | 5,240
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,553
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,508 (100.0%) of 33,515 articles have been extended.
+33,515 (100.0%) of 33,516 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,53 @@ Some teacher and principal trade unions are demanding a revision and additional 
 
 [Data](articles/575ef883.json)
 
+[Extended Data](ext_articles/575ef883.ext.json)
+
 ---
 
-### මත්තල ගුවන්තොටුපොළ රුසියානු – ඉන්දියා හවුල් ව්‍යාපාරයකට
+### Russia-India consortium to take over management of Mattala Airport soon
+
+*2024-07-03 17:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/100274/russia-india-consortium-to-take-over-management-of-mattala-airport-soon) · `en`
+
+The management of the financially-burdened Mattala International Airport will soon be entrusted to a joint venture between an Indian and Russian firm within the next few weeks, says Sri Lanka’s Minister of Ports, Shipping and Aviation, Nimal Siripala de Silva.
+
+He also said that the development of the Kankesanthurai Port is progressing with assistance amounting to USD 69 million from India.
+
+Minister de Silva further affirmed that the national carrier, SriLankan Airlines, will undergo restructuring instead of being sold.
+
+He emphasized that according to existing regulations, only up to 49% of the airline’s shares can be transferred to another entity, yet no suitable investor has expressed interest thus far.
+
+Addressing the press briefing titled “Collective Path to a Stable Country” at the Presidential Media Centre (PMC) today (03), Minister Siripala de Silva further said:
+
+...
+
+[Data](articles/ab270ded.json)
+
+---
+
+### Mattala airport to Russian - India joint venture
 
 *2024-07-03 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198453) · `si`
 
-අතිවිශාල පාඩුවක් ලබන මත්තල ගුවන්තොටුපොලේ කළමනාකාරීත්වය ඉදිරි සති කිහිපය තුළ රුසියානු – ඉන්දියා හවුල් ව්‍යාපාරයකට ලබාදීමට කටයුතු කරන බව වරාය, නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා පවසයි.
+A Russian-Indian joint venture will manage Mattala airport within weeks, without affecting SriLankan Airlines' operations or sales. The Minister highlighted minimal global interest in the airline, except from six parties, none meeting the criteria for a Sri Lankan entrepreneur. Discussions on resuming JICA projects and Japanese companies' involvement in the airport project were mentioned, along with the development of Kankesanthura port at $69 million and plans for ferry services between Sri Lanka and India by Indian Foreign Minister S. Jeyashrkar.
 
-ශ්‍රී ලංකන් ගුවන් සමාගම ප්‍රතිව්‍යුගතකරණය කිරීම මිස විකිණීමට කටයුතු නොකරන බවද අමාත්‍යවරයා පැවසීය.
+🟩
 
-ඔහු මේ බව පැවසුවේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (03) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+The management of the Mattala airport will be given to a Russian-India joint venture in the next few weeks, he said.
 
-"ශ්‍රී ලංකාවේ නීතියට අනුවත් වෙනත් සමාගමකට ලබාදිය හැකි වන්නේ ශ්‍රී ලංකන් ගුවන් සමාගමේ කොටස්වලින් 49%ක් පමණයි. නමුත් ඒ සඳහා ලෝකයේ පවතින උනන්දුව අවමයි. ඊට ඉදිරිපත් වූයේ 06 දෙනෙකු පමණයි. ඒ අතරින් සුදුස්සකු අපට හමු වුණේ නැහැ. ශ්‍රී ලාංකික ව්‍යවසායකයකු සඳහා එම අවස්ථාව ලබා දීමට හැකි වුවත් ඊට ඇති හැකියාව සනාථ කළ යුතු වෙනවා."
+The Minister said that SriLankan Airlines would not be restructured and sales.
+
+He was speaking at a press conference held at the Presidential Media Center today (03).
+
+SriLankan Airlines Airlines can only be given to the law of Sri Lanka.. But the world's interest in it is minimal. It was only 6. We did not meet the desperate. The ability to provide the opportunity for a Sri Lankan entrepreneur, but it needs to be confirmed. "
+
+"In addition, the Japanese International Cooperation Agency (JICA) will be discussed on resumes their projects next week. This is also one of the benefits of credit restructuring. The Japanese companies should submit the contracts according to the Japan agreements with Japan, despite the company's companies have come forward for the airport project.
 
 ...
 
 [Data](articles/50605a64.json)
+
+[Extended Data](ext_articles/50605a64.ext.json)
 
 ---
 
@@ -92,25 +122,33 @@ The new Dutch government consists of the far-right populist Party for Freedom (P
 
 ---
 
-### கொழும்பில் அடுக்குமாடி குடியிருப்பில் இருந்து குதித்து இரு மாணவர்கள் உயிரிழப்பு ;  சிசிரிவி காட்சிகளை  ஆராயும் பொலிஸார்
+### Two students die from an apartment in ColomboThe police are investigating the Sisiri scenes
 
 *2024-07-03 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/187613) · `ta`
 
-கொழும்பில் அடுக்குமாடி குடியிருப்பின் 67ஆவது மாடியில் இருந்து இரு மாணவர்கள் குதித்து உயிரை மாய்த்து கொண்ட சம்பவம் தொடர்பில் சிசிரிவி காட்சிகளை பொலிஸார் ஆராய்ந்து வருகின்றனர்.
+Two students died after jumping from the 67th floor of an apartment in Colombo. Police are investigating how they reached such a high floor, possibly via stairs outside a gym on the 5th floor. The victims were from Wellawatte and Kelaniya, studying in grade 10 at the International School.
 
-நேற்று செவ்வாய்க்கிழமை கொழும்பு, கொம்பனி வீதியில் உள்ள அடுக்குமாடி குடியிருப்பின் 67ஆவது மாடியில் இருந்து குதித்து இரு மாணவர்கள்  உயிரை மாய்த்து கொண்டனர்.
+🟩
 
-பொலிஸ் விசாரணைகளின்படி, உயிரிழந்தவர்கள் வெள்ளவத்தை மற்றும் களனி பிரதேசத்தைச் சேர்ந்தவர்கள் எனவும், இரு மாணவர்களும் சர்வதேச பாடசாலையில் 10 ஆம் தரத்தில் கல்வி பயின்று வந்ததாகவும் தெரியவந்துள்ளது.
+Police are investigating Sisirvi scenes in connection with the incident of two students jumping from the 67th floor of the apartment in Colombo.
 
-அடுக்குமாடி குடியிருப்பின் 67வது மாடியில் இருந்து இருவரும் குதித்து 3வது மாடியின் மேல்தளத்தில் விழுந்துள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது.
+Two students jumped from the 67th floor of the apartment at Kombani Road, Colombo yesterday.
 
-இருவரும் பாடசாலை முடிந்து குறித்த அடுக்குமாடி குடியிருப்பில் 5 வது மாடியில் உள்ள உடற்பயிற்சி  கூடத்திற்கு சென்றுள்ளனர்.
+According to police investigations, the deceased were from Wellawatte and Kelaniya and two students were studying in grade 10 at the International School.
 
-அவர்கள் உடற்பயிற்சி  கூடத்திற்கு வெளியே படிக்கட்டு வழியாக  67வது மாடியை அடைந்துள்ளதாக  பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+Investigations have revealed that the two jumped from the 67th floor of the apartment and fell on the top floor of the 3rd floor.
 
-...
+The two have gone to the gym on the 5th floor of the apartment at the end of the school.
+
+Police investigations have revealed that they reached the 67th floor through the staircase outside the gym.
+
+In this case, the police are investigating the death of the two students in the apartment.
+
+◼️
 
 [Data](articles/df1449ba.json)
+
+[Extended Data](ext_articles/df1449ba.ext.json)
 
 ---
 
@@ -132,6 +170,8 @@ However, officials from the United States have approached Sri Lankan government 
 
 [Data](articles/51d831e6.json)
 
+[Extended Data](ext_articles/51d831e6.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes weaker at 304.20/50 to US dollar
@@ -149,6 +189,8 @@ A bond maturing on 01.12.2031 closed at 12.10/18 percent. (Colombo/Jul3/2024)
 ◼️
 
 [Data](articles/671750c1.json)
+
+[Extended Data](ext_articles/671750c1.ext.json)
 
 ---
 
@@ -241,6 +283,8 @@ At the treasury bill auction Wednesday yields were flat. “Maybe this might bri
 ...
 
 [Data](articles/41a3720f.json)
+
+[Extended Data](ext_articles/41a3720f.ext.json)
 
 ---
 
@@ -1536,19 +1580,27 @@ The petitioner claims that the 19th Amendment to the Constitution has created a 
 
 ---
 
-### සංචාරක ආකර්ෂණීය වෙරළ කලාප 26ක් සංවර්ධනය කෙරේ
+### 26 tourist attractions to be developed
 
 *2024-07-03 10:22:37* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරක-ආකර්ෂණීය-වෙරළ-කලාප-26ක්-සංවර්ධනය-කෙරේ/11-410585) · `si`
 
-හදුනාගත් සංචාරක ආකර්ෂණීය වෙරළ කලාප 26ක් මේ වසර තුළ  සංවර්ධනය කෙරේ. එම වෙරළ කලාප 26 සංවර්ධනය කිරීම සඳහා වන මූලික නිර්මාණ හා ව්‍යුහ සැලසුම් සැකසීම මේ දිනවල සිදු කෙරෙන බව නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+This year, 26 coastal tourist attractions will be developed across Sri Lanka, focusing on areas like Venathawilluwa Rule, Kalugoda lagoon, and several locations in Dikwella, Tissamaharama, Potchini Bay, Kinniya, Trincomalee, Mullaitivu, and Jaffna. The initiative aims to boost the tourism sector by enhancing the coastal environment. Additionally, 14 emergency coastal security projects have been completed, along with 520 e-licenses for development work. The Coast Conservation and Coastal Resources Management Department has also conducted four coastal cleaning programs and four mangrove conservation efforts, all funded by a Rs. 300 million budget.
 
-නාගරික සංවර්ධන අධිකාරිය හා වෙරළ සංරක්ෂණ සහ වෙරළ සම්පත් කළමනාකරණ දෙපාර්තමේන්තුව එක්ව එය ක්‍රියාත්මක කරයි.
+🟩
 
-මෙලෙස හදුනාගෙන ඇති වෙරළ කලාප වන්නේ, වනාතවිල්ලුව ගගේ වාඩිය, වනාතවිල්ලුව කලපු දූපත, කල්පිටිය කුඩාව, කල්පිටිය වයිකාල, මීගමු කලපුව, මීගමුව කපුන්ගොඩ, වත්තල ප්‍රීතිපුර, බෙන්තොට වෙරළ, හබරාදුව කොග්ගල කලපුව, දික්වැල්ල සීතාගාල්ල, තංගල්ල රැකව කලපුව, අම්බලන්තොට ලුනම කලපුව, හම්බන්තොට මලල ලේවාය, තිස්සමහාරාම කිරින්ද වැලි කන්ද, ලාහුගල කුණුක්කල වෙරළ, පොතුවිල් එළිපන්ට් රොක්, මඩකලපුව කෝරළයි පත්තු උතුර සල්ලතිව් දූපත, කින්නියා තඹලගමුව බොක්ක, ත්‍රිකුණාමලය ආණ්ඩුකාර කාර්යාල ප්‍රදේශය, ත්‍රිකුණාමලය උප්පුවේලි, ත්‍රිකුණාමලය සම්පල්තිව්, කුච්චිවේලි අරිසමලේ, මුලතිව් නයාරු කලපුව, මුලතිව් නන්දිකඩාල් කලපුව, යාපනය සෙන්තක්කුලම් වෙරළ, යාපනය කැසුරිනා වෙරළයි.
+26 identified tourist attractions to be developed in this year. Urban Development and Housing Minister Prasanna Ranatunga says that the preparation of fundamental creations and structures to develop the 26 coastal zones.
+
+The Department of Urban Development Authority and the Coast Conservation and Coastal Resources Management Department implements it.
+
+The shore zones that have been identified are Venathawilluwa Rule, Kalugoda lagoon, Dikwella, Dikwella, Dikwella, DikwellaLunchy, Tissamaharama Kirinda Valley, Potchini Bay, Kinniya Lilivue, Trincomalee, Kotchial Lagoon, Mullaitivu Nandikadal Lagoon, Jaffna Sethnkkulam, JaffnaBeach, Jaffna Casineina.
+
+It is expected to advance the program to promote the tourism industry as the coastal environment.
 
 ...
 
 [Data](articles/b0083931.json)
+
+[Extended Data](ext_articles/b0083931.ext.json)
 
 ---
 
@@ -2331,21 +2383,5 @@ If the executive presidency is not abolished, if the PTA stays (or is replaced b
 [Data](articles/60c218cb.json)
 
 [Extended Data](ext_articles/60c218cb.ext.json)
-
----
-
-### The obstacle course I ran over four days to get an eVisa to Sri Lanka
-
-*2024-07-03 05:21:48* · [`dailyftlk`](https://www.ft.lk/columns/The-obstacle-course-I-ran-over-four-days-to-get-an-eVisa-to-Sri-Lanka/4-763786) · `en`
-
-An obstacle course that spanned three continents just to process something as simple as ordering dinner from UberEats
-
-I was born in Sri Lanka, live in the US, and visit my home country often. The very idea of having to get a visa to a country I lived in for a greater part of my life is discomforting. Nevertheless, in order to comply, three weeks before I travelled, I went through the process. No different from thousands of others. However this time, it turned out to be a bizarre obstacle course set up by an Indian outfit masked behind a bunch of acronyms.
-
-...
-
-[Data](articles/a812e4b1.json)
-
-[Extended Data](ext_articles/a812e4b1.ext.json)
 
 ---

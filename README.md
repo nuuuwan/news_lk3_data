@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 00:06:31**
+As of **2024-07-04 00:19:40**
 
 ## Newspaper Stats
 
-*Scraped **33,541** Articles*
+*Scraped **33,543** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,867
 economynextcom | 1,967
 dailyftlk | 2,068
-adalk | 2,994
+adalk | 2,996
 adaderanalk | 3,828
 tamilmirrorlk | 3,969
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,541 (100.0%) of 33,541 articles have been extended.
+33,541 (100.0%) of 33,543 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -231,6 +231,36 @@ Some influential Democrats have floated alternatives to Biden besides Harris, in
 [Data](articles/30b76b0b.json)
 
 [Extended Data](ext_articles/30b76b0b.ext.json)
+
+---
+
+### නඩු භාණ්ඩ කාමරයේ තිබූ රු. කෝටි 2ක විස්කි බෝතල් හොරෙන් අරන් පාටි දාලා
+
+*2024-07-03 20:46:42* · [`adalk`](https://www.ada.lk/breaking_news/නඩු-භාණ්ඩ-කාමරයේ-තිබූ-රු--කෝටි-2ක-විස්කි-බෝතල්-හොරෙන්-අරන්-පාටි-දාලා/11-410597) · `si`
+
+කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයේ නඩු භාණ්ඩ කාමරයේ තිබූ රුපියල් කෝටි 02 කට අධික විස්කි බෝතල් තොගයක් අතුරුදන් විමේ සිද්ධියට අදාළව සැකපිට අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ එහි ගබඩා භාරකරු ලබන 16 වැනිදා තෙක් රිමාන්ඩ් බාරයේ රඳවා තැබීමට කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා අද (03) නියම කළේය.
+
+කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයේ නඩු භාණ්ඩ කාමරයේ තිබූ රුපියල් කෝටි 02 කට අධික විස්කි බෝතල් 1194 ක තොගයක් සොරකම් කර සැකකරු සාද පවත්වා ඇති බවට තොරතුරු ලැබී ඇතැයි කියමින් කොළඹ අපරාධ කොට්ඨාසය කළ ඉල්ලීමක් පිළිගනිමින් සැකකරු රිමාන්ඩ් බාරයට පත් කළ මහේස්ත්‍රාත්වරයා සාද පැවැත්වීමෙන් පසු ඉතිරි වු මත්පැන් බෝතල් වලට කුමක් කලේද? සහ මීට සම්බන්ධ වු අනෙක් අය කවුද? යන්න සම්බන්ධයෙන විමර්ශන කර වහාම අධිකරණයට වාර්තා කරන ලෙසට පොලීසියට නියම කළේය.
+
+සිද්ධිය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයේ නඩු භාණ්ඩ භාරකරු වශයෙන් කටයුතු කළ ගයාන් සම්පත් නමැත්තා මෙලෙස රිමාන්ඩ් බාරයට පත් කළේය.
+
+...
+
+[Data](articles/cd706286.json)
+
+---
+
+### අයවැයෙන් අනුමත ව්‍යාපෘති අගෝස්තු 31ට පෙර නිම කරන්න
+
+*2024-07-03 20:39:20* · [`adalk`](https://www.ada.lk/breaking_news/අයවැයෙන්-අනුමත-ව්‍යාපෘති-අගෝස්තු-31ට-පෙර-නිම-කරන්න/11-410596) · `si`
+
+2024 විමධ්‍යගත අයවැය වැඩසටහන යටතේ අනුමත කරන ලද සියලුම ව්‍යාපෘති 2024-08-31 දිනට පෙර අවසන් කිරීමට කටයුතු කරන ලෙස උපදෙස් ලබාදෙමින් චක්‍රලේඛයක් නිකුත් කර තිබේ.
+
+ඒ අනුව මුදල්, ආර්ථික ස්ථායීකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යාංශයේ ලේකම්වරයා 2024.07.03 දිනැති MF/02/2023-(iv) චක්‍රලේඛය ම‍ඟින් මෙම උපදෙස් ලබාදී ඇත.
+
+◼️
+
+[Data](articles/75e992ba.json)
 
 ---
 
@@ -2387,57 +2417,5 @@ Kasun Rajitha took two wickets each for the bowling.
 [Data](articles/8510f89f.json)
 
 [Extended Data](ext_articles/8510f89f.ext.json)
-
----
-
-### Kuhadasan nominated to fill Sampanthan’s MP seat
-
-*2024-07-03 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100258/kuhadasan-nominated-to-fill-sampanthans-mp-seat) · `en`
-
-Kathiravelu Sanmugam Kuhadasan has been nominated to fill the parliamentary seat left vacant following the passing of former TNA leader Rajavarothiam Sampanthan.
-
-According to the Election Commission, Kuhadasan will represent the Trincomalee electoral division in the 9th Parliament.
-
-The relevant gazette notification has been issued confirming his appointment.
-
-Meanwhile, the remains of the late R. Sampanthan currently lie at a private funeral parlour in Colombo and will remain there until noon today (03).
-
-It will be transported to Parliament in the afternoon and placed there from 2:00 p.m. to 4:00 p.m. for public representatives and parliament staff to pay respects.
-
-The remains will then be moved to Trincomalee tomorrow (04), where it will be available for public to pay final respects until Sunday. The funeral is scheduled for Sunday.
-
-Kuhadasan nominated to fill Sampanthan’s MP seat by Adaderana Online on Scribd
-
-◼️
-
-[Data](articles/d52aa447.json)
-
-[Extended Data](ext_articles/d52aa447.ext.json)
-
----
-
-### A student and student commits suicide by jumping from the Ultar building
-
-*2024-07-03 09:39:45* · [`adalk`](https://www.ada.lk/breaking_news/අල්ටෙයාර්-ගොඩනැගිල්ලෙන්-පැන-ජාත්‍යන්තර-පාසලක-සිදුවෙක්-හා-සිසුවියක්-දිවි-නසා-ගනියි/11-410584) · `si`
-
-A tragic incident occurred at the Ultar building where two individuals, a 15-year-old and a 67-year-old, both students at the Cinnamon International School in Colombo, committed suicide by jumping. The victims were identified as students from Wellawatte and Kelaniya. Preliminary police investigations indicate that the victims were classmates and had attended a party together recently. The incident took place when they fell from the 67th floor of a luxury flat to the 3rd floor. The Slave Island Police OIC, Chief Inspector Kapila Vijayamamanna, is leading the investigation into this case.
-
-🟩
-
-The Slave Island has committed suicide, a 15-year-old student and 67-year-old student at the Cinnamon International School in Colombo.
-
-The deceased has been identified as a student of Wellawatte and Kelaniya and a student.
-
-Police investigations have revealed that the victim and the student was in the same class of the student.
-
-Later, they had together to a party. Investigations have revealed that the 67th floor of the luxury flats had fallen into the 3rd floor
-
-Investigations are conducted on the instructions of Slave Island Police OIC Chief Inspector Kapila Vijayamamanna
-
-◼️
-
-[Data](articles/16a81415.json)
-
-[Extended Data](ext_articles/16a81415.ext.json)
 
 ---

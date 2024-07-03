@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 23:35:10**
+As of **2024-07-03 23:54:35**
 
 ## Newspaper Stats
 
-*Scraped **33,540** Articles*
+*Scraped **33,541** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 307
-colombotelegraphcom | 309
+colombotelegraphcom | 310
 bbccomsinhala | 330
 newsfirstlk | 363
 islandlk | 1,867
@@ -26,45 +26,59 @@ adaderanasinhalalk | 5,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,538 (100.0%) of 33,540 articles have been extended.
+33,540 (100.0%) of 33,541 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
-### வெள்ளையாக்கும் க்ரீம்களால் அதிகரிக்கும் சிறுநீரக நோயாளர்கள்
+### Kidney patients with whitening creams
 
 *2024-07-03 23:16:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளையாக்கும்-க்ரீம்களால்-அதிகரிக்கும்-சிறுநீரக-நோயாளர்கள்/175-339842) · `ta`
 
-சருமத்தை வெண்மையாக்க பயன்படுத்தப்படும் பல்வேறு வகையான க்ரீம்களால் புற்றுநோயால் பாதிக்கப்படுவோரின் எண்ணிக்கையை விட சிறுநீரக நோயால் பாதிக்கப்பட்டவர்களின் எண்ணிக்கை அதிகரித்துள்ளதாக சுகாதாரத்துறை தெரிவித்துள்ளது.
+The health department reports a rise in kidney disease cases linked to excessive use of skin-whitening creams, surpassing cancer incidence. Dr. Indira Kahwitta highlights a program aiming to eliminate mercury, a key ingredient in many creams, due to its harmful effects on kidneys. In her examination of 60 patients from 40 clinics, 10% presented issues related to these creams, showing symptoms like dark palms and discolored nails.
 
-சுகாதார மேம்பாட்டு பணியகத்தில் இன்று  நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்ட  தோல் சிகிச்சை நிபுணர் டாக்டர் இந்திரா கஹ்விட்ட இதனைத் தெரிவித்தார்.
+🟩
 
-“உலக சுகாதார அமைப்புக்கும் இலங்கை சுகாதார அமைச்சுக்கும் இடையில் பாதரச பாவனையை முற்றிலுமாக ஒழிக்கும் வேலைத்திட்டம் ஒன்று நடந்து வருகிறது.
+The health department said that the number of people with kidney disease has increased than the number of cancer -affected people with various types of creams used to whiten the skin.
 
-அதாவது பாதரசத்தின் அளவு பூஜ்ஜியமாக இருக்க வேண்டும். இப்போது இவை ஒரே இடத்தில் அல்ல முழுமையிலும் பயன்படுத்தப்படுகின்றன. உடலில் அதிக அளவு பாதரசம் பயன்படுத்தப்படும்போது சிறுநீரக நோய்கள் அதிகரித்து வருகின்றன.
+Dr. Indira Kahwitta, a leather therapist who attended a media briefing held at the Health Development Bureau today.
 
-“24 மணி நேரத்தில், நான் 40 கிளினிக்குகளில் இருந்து தோராயமாக 60 நோயாளிகளை பரிசோதித்தேன். மொத்தத்தில், 06 நோயாளிகள், அதாவது 10%, வெண்மையாக்கும் க்ரீம்களால் ஏற்படும் பிரச்சனைகளுடன் வருகை தருகின்றனர்.
+“There is a program to eradicate mercury use between the World Health Organization and the Ministry of Health of Sri Lanka.
 
-...
+Ie the amount of mercury should be zero. Now these are used in the same place not in the same place. Kidney diseases are increasing when excessive mercury is used in the body.
+
+“In 24 hours, I examined 60 patients from 40 clinics. Overall, 6 patients, ie 10%, come with problems with white creams.
+
+“Now I look at some things. For example, the palms of the palms become black. The most common factor for all of all white creams. Also, the nails turn brown, orange. This can cause casualties. ”. Remble
+
+◼️
 
 [Data](articles/de6261cf.json)
 
+[Extended Data](ext_articles/de6261cf.ext.json)
+
 ---
 
-### யாழில் முரல் மீன் குத்தி மீனவர் மரணம்
+### Fisherman's death in Jaffna
 
 *2024-07-03 23:04:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-முரல்-மீன்-குத்தி-மீனவர்-மரணம்/71-339841) · `ta`
 
-யாழ்ப்பாணம் - குருநகர் பகுதியில் இருந்து மீன் பிடிக்கச் சென்ற மீனவர் ஒருவர் முரல் மீன் குத்தி மரணமடைந்துள்ளார்.
+In Jaffna, a 29-year-old fisherman named Michael Colin Tino, father of two, tragically passed away while fishing near Gurunagar. The Jaffna police are investigating the cause of his death.
 
-உயிரிழந்தவர் குருநகரைச் சேர்ந்த இரண்டு பிள்ளைகளின் தந்தையான 29 வயதான மைக்கேல் கொலின் டினோ என தெரியவருகின்றது.
+🟩
 
-இச் சம்பவம் தொடர்பான மேலதிக விசாரணைகளை யாழ்ப்பாணம் பொலிஸார் மேற்கொண்டு வருகின்றனர். R
+A fisherman who was fishing from Jaffna - Gurunagar has died
+
+The 29 -year -old Michael Colin Tino, the father of two children from Kurunagar, is known as Colin Tino.
+
+Jaffna police are conducting further investigations into the incident.. Remble
 
 ◼️
 
 [Data](articles/ec68bec3.json)
+
+[Extended Data](ext_articles/ec68bec3.ext.json)
 
 ---
 
@@ -533,6 +547,24 @@ Addressing the press briefing titled “Collective Path to a Stable Country” a
 [Data](articles/ab270ded.json)
 
 [Extended Data](ext_articles/ab270ded.ext.json)
+
+---
+
+### Food Insecurity Prompting University Students Protests
+
+*2024-07-03 17:49:36* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/food-insecurity-prompting-university-students-protests/) · `en`
+
+Interactions between humans is the core of human mankind and when humans engage above interactions they interfere with some limitations and they always seek for security and stability. Human security was an important theme in the international context in the 1990s. It contains mainly seven components and food security is a main component among them, (World Food Summit, 1996.)  states that “Food security is defined when all people, at all times, have physical and economic access to sufficient safe and nutritious food that meets their dietary needs and food preferences for an active and healthy life.”
+
+According to the Word Bank Group there are four dimensions that should be secured to gain food security. They are;
+
+1. Physical availability of food – The food supply chain should function properly and there should be enough food stocks for consumption,
+
+2. Economic and physical access to food (affordability) – there should be affordability among customers to buy goods and services.
+
+...
+
+[Data](articles/fff58a66.json)
 
 ---
 
@@ -2405,31 +2437,5 @@ Investigations are conducted on the instructions of Slave Island Police OIC Chie
 [Data](articles/16a81415.json)
 
 [Extended Data](ext_articles/16a81415.ext.json)
-
----
-
-### Fatal accidents that have been killed
-
-*2024-07-03 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198434) · `si`
-
-In separate incidents across the island, three fatalities occurred: two men aged 57 and 71 died in car and motorcycle crashes respectively, while a female pedestrian was hit by a lorry. The police have taken the lorry driver into custody.
-
-🟩
-
-Three people were killed in the accidents in several parts of the island.
-
-Police said that the 57-year-old residents of the Boheweeragollegoda area have died after being removed from the cabinigollewa road.
-
-Another person has been killed in a motorcycle collision in the Rambewa area on the Colombo road on the route of the Hettipola road.
-
-Meanwhile, a pavement woman who was traveling on the road in the Uzwewaia road in Negombo road has died of a lorry.
-
-The victim was a 71 year old resident of Pamunugama and the lorry driver has been arrested in connection with the accident.
-
-◼️
-
-[Data](articles/e81240af.json)
-
-[Extended Data](ext_articles/e81240af.ext.json)
 
 ---

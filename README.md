@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 07:24:54**
+As of **2024-07-03 08:13:07**
 
 ## Newspaper Stats
 
-*Scraped **33,409** Articles*
+*Scraped **33,412** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,52 +17,86 @@ economynextcom | 1,954
 dailyftlk | 2,068
 adalk | 2,975
 adaderanalk | 3,807
-tamilmirrorlk | 3,951
+tamilmirrorlk | 3,953
 dailymirrorlk | 4,733
 virakesarilk | 5,222
-adaderanasinhalalk | 5,531
+adaderanasinhalalk | 5,532
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,398 (100.0%) of 33,409 articles have been extended.
+33,412 (100.0%) of 33,412 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
-### 67 වන මහලෙන් ඇදවැටී මියගිය දරුවන් ගැන තවත් තොරතුරු
+### Excise revenue increased by 17
+
+*2024-07-03 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198430) · `si`
+
+The Excise Department earned Rs. 105 billion by June 2024, a 17 billion increase from the previous year, despite natural disasters affecting operations. They aimed for Rs. 107 billion but fell short due to unforeseen circumstances, still achieving near 20% growth over last year.
+
+🟩
+
+The Excise Department has been able to earn Rs. 105 billion from Rs.
+
+Excise Commissioner. J. Mr. Gunasiri said this is a growth of 17 billion rupees compared to last year.
+
+"The Excise Department by 304 June 2024, we have found Rs. 105 billion. 88 billion at last year's time. We have achieved a growth of 17 billion rupees. We expected about 20 billion in this six months. Natural disasters caused by a number of questions in our main management. So we had about 3 billion rupees. Otherwise, we go to a target of Rs 107 billion as planned. Accordingly, a growth of nearly 20% has been acquired relative to last year. It is a distinctive achievement. "
+
+◼️
+
+[Data](articles/367b63ec.json)
+
+[Extended Data](ext_articles/367b63ec.ext.json)
+
+---
+
+### More information about the children who died from 67th floor
 
 *2024-07-03 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198428) · `si`
 
-කොම්පඤ්ඤවීදියේ සුඛෝපභෝගී නිවාස සංකීර්ණයක 67 වන මහලෙන් පැන 15 හැවිරිදි සිසුවෙකු සහ සිසුවියක සියදිවි නසාගෙන තිබුණි.
+Two students, aged 15, from Colombo International School and Kelaniya, committed suicide from the 67th floor of a luxury housing complex in Slave Island. They were classmates. Investigations are ongoing to determine the cause.
 
-කොම්පඤ්ඤවීදිය පොලීසිය පැවසුවේ, වැල්ලවත්ත සහ කැලණිය ප්‍රදේශයේ පදිංචිව සිටි සිසුවෙකු සහ සිසුවියක මෙලෙස මියගොස් ඇති බවය.
+🟩
 
-මියගිය සිසුවිය සහ සිසුවා කොළඹ ජාත්‍යන්තර පාසලක එකම පංතියක ඉගෙනුම ලබමින් සිටි දෙදෙනෙකු බවට ද අනාවරණය වී තිබේ.
+A 15-year-old student and a student had committed suicide from the 67th floor of a luxury housing complex in Slave Island.
 
-සිද්ධිය සම්බන්ධයෙන් කොම්පඤ්ඤ පොලීසිය මඟින් විමර්ශන ආරම්භ කර ඇති අතර සියදිවි හානි කර ගැනීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති බව පොලීසිය පැවසුවේය.
+Slave Island Police said that a student and a student of a resident of Kelaniya had died.
+
+It has also been revealed that the deceased and the student was in the same class in Colombo International School.
+
+Police said that the Slave has begun investigations into the incident and the cause of suicide has not been revealed yet.
 
 ◼️
 
 [Data](articles/6deea740.json)
 
+[Extended Data](ext_articles/6deea740.ext.json)
+
 ---
 
-### වතු නිවාස පේළියක ගින්නක් - දෙදෙනෙක් මරුට
+### Fire breaks into a row of estate houses - two killed
 
 *2024-07-03 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198427) · `si`
 
-යටියන්තොට පැලැල්ලේගම ප්‍රදේශයේ වතු නිවාස පේළිය ඇති වූ ගින්නකින් පුද්ගලයින් දෙදෙනෙකු මියගොස් තිබේ.
+In Palellagoda, Yatiyantota, a fire destroyed three houses, killing a 60-year-old man and a 50-year-old woman. The cause remains unknown.
 
-ගින්නෙන් පළමු වතු නිවාසයේ රැඳී සිටි 60 හැවිරිදි පිරිමි පුද්ගලයෙකු සහ 50 හැවිරිදි කාන්තාවක් මියගොස් ඇති බව පොලීසිය පවසයි.
+🟩
 
-ගින්නෙන් වතු නිවාස 03 කට හානි සිදුව ඇති ඇති අතර ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති බව සඳහන්ය.
+Two people have been killed in a fire caused to the plantation housing row in Palellagoda, Yatiyantota.
+
+A 60-year-old male and 50 year old woman who had been waiting in the first estate home was killed.
+
+Three houses have been damaged in fire and the cause of the fire has not been revealed yet.
 
 ◼️
 
 [Data](articles/76827322.json)
+
+[Extended Data](ext_articles/76827322.ext.json)
 
 ---
 
@@ -469,6 +503,54 @@ The comments they have expressed about their attitude towards the Eelam Tamil af
 [Data](articles/8d70779d.json)
 
 [Extended Data](ext_articles/8d70779d.ext.json)
+
+---
+
+### The uncertainty is over
+
+*2024-07-03 01:22:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிச்சயமற்ற-தன்மை-முடிந்துவிட்டது/175-339789) · `ta`
+
+Sri Lanka's Finance Minister Xihan Semasinghe announced the end of uncertainty regarding the country's economy, citing progress in debt restructuring and economic management. Agreements with bilateral creditors and Paris Association countries aim to reduce state loans to 95% of GDP by 2032, lower the financial requirement to 13%, and decrease foreign credit service to 4.5% between 2027 and 2032. These measures, along with successful inflation reduction from 70% to 1.7%, signal a positive outlook for Sri Lanka's economic future.
+
+🟩
+
+Finance Minister Xihan Semasinghe said that all the uncertainty in Sri Lanka's uncertainty in Sri Lanka has now ended.
+
+State Minister Sehan Semasinghe said this at a media briefing held at the Presidential Media Center yesterday.. As he further stated,
+
+The good news on the debt renovation that is necessary to rebuild the country's economy. On June 26, agreements and agreements were made with the bilateral credit issuers team and the countries of the Paris Association as official credit providers.
+
+Moreover, by 2032, state loans should be reduced to 95 percent of the total national production. Total financial requirement to be reduced to 13 percent over the period of 2027 and 2032. During the period of 2027-2032, foreign credit service should be reduced to 4.5 %.
+
+...
+
+[Data](articles/4c87e960.json)
+
+[Extended Data](ext_articles/4c87e960.ext.json)
+
+---
+
+### Shanmugam Kukadasan for Sambandan's vacuum
+
+*2024-07-03 01:16:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனின்-வெற்றிடத்திற்கு-சண்முகம்-குகதாசன்/175-339788) · `ta`
+
+Shanmugam Kukadasan, a Canadian-based Master's graduate in State Sciences and former head of the Sri Lanka Tamil National Party, has announced his candidacy for the Trincomalee District Parliamentary seat through the Sri Lanka Tamil National Alliance (TNA), following the vacancy left by the late Rajadavarodhayam Sambandan.
+
+🟩
+
+The Elections Commission has said that the Sri Lanka Tamil National Alliance (TNA) Shanmugam Kukadasan has taken steps to announce the name of the Gazette for the vacant Trincomalee District Parliamentary seat.
+
+Shanmugam Kukadasan, a native of Trincomalee, is a Masters Graduate in the State Sciences.
+
+Shanmugam Kukadasan, who has long lived in Canada, has been on duty on two occasions as the head of the Sri Lanka Tamil National Party since 2020.
+
+Shanmugam Kukadasan contested the 2020 parliamentary election on behalf of the Sri Lanka Tamil National Alliance (TNA). In that election, the senior leader of the Sri Lanka Tamil National Alliance (TNA) had received the highest number of votes after the late Rajadavarodhayam Sambandan. (A)
+
+◼️
+
+[Data](articles/b668d843.json)
+
+[Extended Data](ext_articles/b668d843.ext.json)
 
 ---
 
@@ -1010,6 +1092,8 @@ As the Official Formal Wear Partner for the Junior Men’s Asian Federation Hock
 
 [Data](articles/978c4563.json)
 
+[Extended Data](ext_articles/978c4563.ext.json)
+
 ---
 
 ### Sysco LABS triumphs at the 6th annual SLASSCOM Ingenuity Awards 2024
@@ -1025,6 +1109,8 @@ Signature partners with Sri Lanka Hockey Federation as ‘Official Formal Wear P
 ...
 
 [Data](articles/30b693a7.json)
+
+[Extended Data](ext_articles/30b693a7.ext.json)
 
 ---
 
@@ -1044,6 +1130,8 @@ Signature partners with Sri Lanka Hockey Federation as ‘Official Formal Wear P
 
 [Data](articles/e1237274.json)
 
+[Extended Data](ext_articles/e1237274.ext.json)
+
 ---
 
 ### HSBC Sri Lanka celebrates 30 years of innovation and excellence in credit cards
@@ -1059,6 +1147,8 @@ To commemorate the milestone, HSBC has launched a special 30th anniversary campa
 ...
 
 [Data](articles/65a3f4ea.json)
+
+[Extended Data](ext_articles/65a3f4ea.ext.json)
 
 ---
 
@@ -1082,6 +1172,8 @@ However, energy experts have criticized Sri Lanka’s feed-in tariffs, except fo
 
 [Data](articles/a433abd9.json)
 
+[Extended Data](ext_articles/a433abd9.ext.json)
+
 ---
 
 ### Cross-over fears hamper CSE’s bullish momentum
@@ -1095,6 +1187,8 @@ Retail investor participation was slightly low but three major crossings, especi
 ...
 
 [Data](articles/f7ff9996.json)
+
+[Extended Data](ext_articles/f7ff9996.ext.json)
 
 ---
 
@@ -2189,67 +2283,5 @@ The case was postponed until July 16.
 [Data](articles/65c5f109.json)
 
 [Extended Data](ext_articles/65c5f109.ext.json)
-
----
-
-### Foreign national who tried to jump in the country
-
-*2024-07-02 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198411) · `si`
-
-A foreign national linked to financial fraud was detained at Katunayake International Airport. Arrested during an ongoing investigation by airport and CID officers, further inquiries are being conducted.
-
-🟩
-
-A foreign national associated with financial fraud was arrested at the Katunayake International Airport.
-
-Police said that the suspect was arrested by a person who was acquitted of the construction of Rs.
-
-The suspect has been arrested in the investigation by the officers of the Katunayaka Airport's Office, the Criminal Investigation Department.
-
-The Katunayake Airport of the Criminal Investigation Department is conducting further investigations.
-
-◼️
-
-[Data](articles/bf62fcbb.json)
-
-[Extended Data](ext_articles/bf62fcbb.ext.json)
-
----
-
-### No ill-will between Sri Lanka president and ruling party, but views differ: Rajapaksa
-
-*2024-07-02 15:33:00* · [`economynextcom`](https://economynext.com/no-ill-will-between-sri-lanka-president-and-ruling-party-but-views-differ-rajapaksa-170585/) · `en`
-
-ECONOMYNEXT — There is no bad feeling between President Ranil Wickremesinghe and the Sri Lanka Podujana Peramuna (SLPP), but the president and the ruling party are of two different political positions, SLPP leader Mahinda Rajapaksa said.
-
-The former president told reporters Monday July 01 night at the Bandaranaike International Airport (BIA) in Colombo that the candidate the SLPP opts to back at the upcoming presidential election will have to be someone who can work with the party.
-
-“We’re democratic. We do something after discussing it with everyone,” he said.
-
-Rajapksa had just returned from Beijing, having concluded an “official” four-day visit. In Beijing, he attended the 70th anniversary of the Five Principles of Peaceful Coexistence where he was greeted by Chinese President Xi Jinping.
-
-Asked by reporters if there was bad feeling between the SLPP and President Wickremesinghe, Rajapaksa said: “There is no reason for bad feeling. Politically we’re of two different views.”
-
-...
-
-[Data](articles/69726612.json)
-
-[Extended Data](ext_articles/69726612.ext.json)
-
----
-
-### Cabinet nod to empower women in the Micro, Small and Medium Business sectors
-
-*2024-07-02 15:31:00* · [`islandlk`](http://island.lk/cabinet-nod-to-empower-women-in-the-micro-small-and-medium-business-sectors/) · `en`
-
-The Cabinet of Ministers approved the proposal presented by the President to implement a special loan scheme to remove obstacles for women to engage in economic activities by using two billion rupees out of the twenty billion allocated by the cabinet decision dated 26.02.2024 to implement an investment scheme to re-strengthen the enterprise sector.
-
-It is observed that women’s participation in Sri Lanka’s economic affairs is at a lower level than other regional and Asian countries. There are various reasons for this and according to the 2022 survey of Sri Lanka’s workforce, thirty-five percent of the economically active population are
-
-women. It shows a significant disparity in the gender contribution rates of economic participation.
-
-...
-
-[Data](articles/3649dc15.json)
 
 ---

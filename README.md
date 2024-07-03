@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 22:07:54**
+As of **2024-07-03 22:20:04**
 
 ## Newspaper Stats
 
-*Scraped **33,530** Articles*
+*Scraped **33,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,57 @@ adaderanalk | 3,827
 tamilmirrorlk | 3,967
 dailymirrorlk | 4,733
 virakesarilk | 5,242
-adaderanasinhalalk | 5,558
+adaderanasinhalalk | 5,559
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,529 (100.0%) of 33,530 articles have been extended.
+33,530 (100.0%) of 33,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
-### එක්දරු මවකගේ ගර්භාෂයේ කිලෝ 15ක් බර ගෙඩියක්
+### දෙමටගොඩ චමින්දගේ බිරිඳ රටින් පනී
+
+*2024-07-03 22:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198460) · `si`
+
+මරණ දඬුවම නියමවී සිටින පාතාල කල්ලි නායක දෙමටගොඩ චමින්දගේ බිරිඳ නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසය මගින් සිදුකරන විමර්ශනයකට අදාළව අත්අඩංගුවට ගැනීමට සූදානම්වීමේදී රටින් පළාගොස් තිබේ.
+
+එලෙස ඇයව අත්අඩංගුවට ගැනීමට සූදානම්වී ඇත්තේ, ඇය විසින් උකස් මධ්‍යස්ථානයකට රුපියල් ලක්ෂ 30ක පමණ රන් භාණ්ඩ තොගයක් උකස් කළ බවට තහවුරුවීමත් සමගය.
+
+ඒ අනුව ඇය දිවයිනට පැමිණීමේදී අත්අඩංගුවට ගන්නා ලෙස කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය අද ආගමන විගමන පාලකවරයා වෙත නියෝගයක් නිකුත් කළේය.
+
+මේ අතර, වාසනා දිල්රුක්ෂි නම් අදාළ කාන්තාවටත් දෙමටගොඩ චමින්දගේ සහෝදරයා වන දෙමටගොඩ රුවන්ගේ හා ඔහුගේ බිරියටත් අයත් දේපළ පිළිබඳව සිදුකරන විමර්ශනවලට අදාළ නීති කෘත්‍ය එළැඹෙන 25වනදා ත්‍රිපුද්ගල විනිසුරු මඬුල්ලක් ඉදිරියේදී ආරම්භවීමට නියමිතයි.
+
+ඔවුන්ට අයත් රුපියල් කෝටි 140ක පමණ දේපළ මේවන විටත් මහාධිකරණය මගින් ක්‍රියාවිරහිත කර තිබෙනවා.
+
+◼️
+
+[Data](articles/a9639c90.json)
+
+---
+
+### 15 kilograms of womb of a mother of a mother
 
 *2024-07-03 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198459) · `si`
 
-වීරකැටිය ප්‍රදේශයේ පදිංචි වයස අවුරුදු 38ක එක්දරු මවකගේ ගර්භාෂයේ තිබූ කිලෝග්‍රෑම් 15ක් පමණ වූ ගෙඩියක් සාර්ථක ලෙස සැත්කමක් මගින් අද (03) ඉවත් කර තිබේ.
+A 38-year-old woman from Weeraketiya had her womb removed weighing about 15 kg. The procedure was conducted by a team including the Hambantota General Hospital director and Dr. Samantha Samarawickrama. Post-surgery, she is reported to be in good health.
 
-ඒ, හම්බන්තොට මහ රෝහලේ ප්‍රසව හා නාරිවේද විශේෂඥ වෛද්‍ය සමන්ත සමරවික්‍රම මහතා ඇතුළු කණ්ඩායමක් විසිනි.
+🟩
 
-සැත්කමට භාජනය වූ මව යහපත් සෞඛ්‍ය තත්ත්වයකින් පසුවන බව රෝහල් ආරංචි මාර්ග සඳහන් කරයි.
+Around 15 kilograms of the womb of a 38-year-old resident of Weeraketiya area has been removed today (03).
+
+A team including Director at Hambantota General Hospital and Dr. Samantha Samarawickrama.
+
+Hospital sources say that the mother undermined the surgery is in good health, hospital sources said.
 
 ◼️
 
 [Data](articles/26b9c7b3.json)
+
+[Extended Data](ext_articles/26b9c7b3.ext.json)
 
 ---
 
@@ -2411,23 +2437,5 @@ Sabry is currently in Tokyo, Japan where he met Foreign Minister of Japan Kamika
 [Data](articles/d220c26b.json)
 
 [Extended Data](ext_articles/d220c26b.ext.json)
-
----
-
-### Two dead in fire at estate houses in Yatiyanthota
-
-*2024-07-03 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100256/two-dead-in-fire-at-estate-houses-in-yatiyanthota) · `en`
-
-Two people have died in a fire that broke out in the early hours of today (03) in a row of estate houses in the Palallegama area of Yatiyanthota.
-
-According to the police, the victims were a 60-year-old man and a 50-year-old woman who were staying in the first estate house that was engulfed in flames.
-
-The fire has damaged three estate houses, and the cause of the fire is yet to be determined.
-
-◼️
-
-[Data](articles/efa84ef4.json)
-
-[Extended Data](ext_articles/efa84ef4.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 18:54:10**
+As of **2024-07-03 19:04:56**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,554
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,516 (100.0%) of 33,518 articles have been extended.
+33,518 (100.0%) of 33,518 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
-### ජැෆ්නා සුපිරි ජයක් ලබයි
+### JAPNA wins super
 
 *2024-07-03 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198454) · `si`
 
-LPL ක්‍රිකට් තරගාවලියේ දඹුල්ල සික්ස්සර්ස් කණ්ඩායම සහ ජැෆ්නා කිංග්ස් කණ්ඩායම අතර අද (03) පැවැති තරගයෙන් කඩුලු 04ක ජයක් වාර්තා කිරීමට ජැෆ්නා කණ්ඩායම සමත් විය.
+Jaffna Kings, led by Kusal Perera's 102 runs, defeated Dambulla Vikings and Kings by 4 wickets after electing to bat first, scoring 197/6 in 20 overs, surpassing Dambulla's 191/7.
 
-තරගයේ කාසියේ වාසිය දිනු ජැෆ්නා කණ්ඩායම පළමුව පන්දුවට පහරදීමේ අවස්ථාව දඹුල්ල කණ්ඩායමට ලබාදුනි.
+🟩
 
-ඒ අනුව දඹුල්ල කණ්ඩායම නියමිත පන්දුවාර 20 තුළ කඩුලු 2ක් පමණක් දැවී ලකුණු 191ක් රැස් කළේය.
+The Dambulla Sikathers of the LPL cricket team and Jarffna beat the Dambulla Sikickers and Jarffna Kings by 4 wickets.
 
-පිළිතුරු ඉනිම ක්‍රීඩා කළ ජැෆ්නා කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 06ක් දැවී ලකුණු 197ක් ලබා සිය ජයග්‍රහණය වාර්තා කළේය.
+JAffna won the toss and elected to bat first.
 
-මෙහිදී දඹුල්ල කණ්ඩායම වෙනුවෙන් කුසල් පෙරේරා නොදැවී පන්දු 52ක් තුළ ලකුණු 102ක් රැස් කළේය.
+Accordingly, Dambulla team scored 191 runs for the loss of seven wickets in their 20 overs.
+
+In reply, Jaffa did scored 197 runs for the loss of 6 wickets at the end of 20 wickets.
+
+Kusal Perera scored 102 runs for the Dambulla Team.
 
 ◼️
 
 [Data](articles/7f30e103.json)
+
+[Extended Data](ext_articles/7f30e103.ext.json)
 
 ---
 
@@ -69,6 +75,8 @@ Sri Lanka port faces union opposition in increasing female workers: Minister
 ...
 
 [Data](articles/4b9fba61.json)
+
+[Extended Data](ext_articles/4b9fba61.ext.json)
 
 ---
 

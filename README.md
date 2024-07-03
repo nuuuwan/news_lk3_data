@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 00:51:40**
+As of **2024-07-04 01:04:46**
 
 ## Newspaper Stats
 
-*Scraped **33,545** Articles*
+*Scraped **33,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,996
 adaderanalk | 3,829
 tamilmirrorlk | 3,969
 dailymirrorlk | 4,733
-virakesarilk | 5,246
+virakesarilk | 5,247
 adaderanasinhalalk | 5,559
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,543 (100.0%) of 33,545 articles have been extended.
+33,545 (100.0%) of 33,546 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ KPMG in India hosted its 31st All India Partners Meet (AIPM) 2024 in Colombo rec
 
 [Data](articles/82a2fe90.json)
 
+[Extended Data](ext_articles/82a2fe90.ext.json)
+
 ---
 
 ### Sri Lanka strikes restructuring agreement with bondholders - report
@@ -60,9 +62,33 @@ The deal marks the culmination of more than a year of difficult negotiations bet
 
 [Data](articles/832d1fcf.json)
 
+[Extended Data](ext_articles/832d1fcf.ext.json)
+
 ---
 
 ### 2024-07-03 (Wednesday)
+
+### கலம்போ ஸ்ட்ரைக்கர்ஸின் கடும் சவாலை முறியடித்து 7 ஓட்டங்களால் பரபரப்பான வெற்றியை ஈட்டியது கோல் மார்வல்ஸ்
+
+*2024-07-03 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/187627) · `ta`
+
+கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் புதன்கிழமை (03) நடைபெற்ற ஐந்தாவது லங்கா பிறீமியர் லீக் அத்தியாயத்தின் 5ஆவது போட்டியில் கலம்போ ஸ்ட்ரைக்கர்ஸிடம் கடும் சவாலை எதிர்கொண்ட கோல் மார்வல்ஸ் 7 ஓட்டங்களால் மிகவும் பரபரப்பான வெற்றியை ஈட்டியது.
+
+ஆட்டத்தின் கடைசி பகுதியில் மத்திய வரிசை வீரர் துனித் வெல்லாலகே தனி ஒருவராக கலம்போ ஸ்ட்ரைக்கர்ஸின் வெற்றிக்காக போராடிய போதிலும் அது இறுதியில் கைகூடாமல் போனது.
+
+இசுறு உதான கடைசி ஓவரை கட்டுப்பாட்டுடன் வீசி கோல் மார்வல்ஸ் அணியின் வெற்றியை உறுதிசெய்தார்.
+
+இப் போட்டி முடிவுடன் கோல் மார்வல்ஸ் அணி மாத்திரமே தோல்வி அடையாத அணியாக இருப்பதுடன் 2 வெற்றிகளுடன் 4 புள்ளிகளைப் பெற்று அணிகள் நிலையில் முதலிடத்தில் இருக்கிறது.
+
+இப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட கோல் மார்வல்ஸ் 20 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 179 ஓட்டங்களைப் பெற்றது.
+
+நிரோஷன் திக்வெல்ல, அலெக்ஸ் ஹேல்ஸ் ஆகிய இருவரும் அதிரடியாகத் துடுப்பெடுத்தாடி 32 பந்துகளில் 71 ஓட்டங்களைப் பகிர்ந்து பலமான ஆரம்பத்தை இட்டுக்கொடுத்தனர்.
+
+...
+
+[Data](articles/5b91f5d8.json)
+
+---
 
 ### Kidney patients with whitening creams
 
@@ -2379,29 +2405,5 @@ When asked if Wickremesinghe could be the common candidate, Kariyawasam responde
 [Data](articles/62216484.json)
 
 [Extended Data](ext_articles/62216484.ext.json)
-
----
-
-### Banny Puri
-
-*2024-07-03 10:13:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பானி-பூரிக்கு-தடை/175-339798) · `ta`
-
-In Karnataka, tests revealed that 41 out of 276 Pani Puri samples contained cancer-causing synthetic pigments. This led to the banning of certain candy brands for using harmful artificial colors. The Food Safety Commissioner highlighted the presence of dangerous chemicals in Pani Puri across various outlets, urging for bans on unsafe food items. The Health and Food Minister emphasized the government's commitment to ensuring safe food, promising strict actions against violators.
-
-🟩
-
-When testing the quality of Pani Puri, it is shocking that the artificial pigments are responsible for cancer.
-
-In Karnataka a few months ago, Gopi Manjurian, Kapab and Panchu Candy were banned from mixing artificial colors that harm the body. Following this, there were complaints from the state food industry that the artificial pigments and chemicals were mixed in Bani Puri.
-
-Subsequently, food officials collected samples in 276 stores. Of this, 41 samples were found to contain synthetic pigments, cancer -causing chemicals. 18 Pani Puri models (22%) revealed that humans are unworthy of eating. 52 percent of samples were found to be mixed with chemicals that can be harmful to the body.
-
-Food Safety Commissioner Aunivas said, “We used samples of Pani Puri, which is sold in stores from Street Store to Star Hostel for our test.. It was found to be mixed with chemicals in blue, green and orange. We have submitted a detailed report to the government. Why not ban foods that are not worth eating? ”
-
-...
-
-[Data](articles/ac573bd6.json)
-
-[Extended Data](ext_articles/ac573bd6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 14:06:26**
+As of **2024-07-03 14:19:38**
 
 ## Newspaper Stats
 
-*Scraped **33,473** Articles*
+*Scraped **33,474** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,867
 economynextcom | 1,957
 dailyftlk | 2,068
-adalk | 2,983
+adalk | 2,984
 adaderanalk | 3,820
 tamilmirrorlk | 3,965
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,546
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,471 (100.0%) of 33,473 articles have been extended.
+33,471 (100.0%) of 33,474 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -591,6 +591,24 @@ Intelligence on mortgage was revealed that the suspect named the suspect called 
 [Data](articles/fcfbd343.json)
 
 [Extended Data](ext_articles/fcfbd343.ext.json)
+
+---
+
+### තෑග්ගෙන් තෑග්ග උතුම් තෑග්ගක් කිරිමට ලංකාවට ආපු සනුහක්
+
+*2024-07-03 10:32:00* · [`adalk`](https://www.ada.lk/picture_story/තෑග්ගෙන්-තෑග්ග-උතුම්-තෑග්ගක්-කිරිමට-ලංකාවට-ආපු-සනුහක්/10-410586) · `si`
+
+ශ්‍රී ලංකාවෙන් ඇමෙරිකාවේ පදිංචියට ගොස් එරට ජනාධිපති ජෝ බයිඩන් මහතාගෙන් සමාජ සේවා රන් සම්මාන දිනා ගත් එකොළොස් හැවිරිදි වොරන්ට් සනුහක් පින්නවලගේ ශ්‍රී ලංකාවේ දිළිඳු ජනයාට සහ විශේෂයෙන්ම දුප්පත් පාසැල් සිසුන්ට අවශ්‍ය උපකරණ ලබා දීම සදහා 07/02 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය .
+
+ඇමෙරිකා එක්සත් ජනපදයේ ප්‍රාන්ත 50 තරගකරුවන් සහභාගීත්වයෙන් පැවති  කරුණාව හේතු කොට ගෙන අදහස් ප්‍රකාශ කිරීමේ තරගාවලියට සහභාගී වී එයින් ප්‍රථම ස්ථානය දිනා ගත් සනුහක් පින්නවලගේ , එයින් තමාට ලැබුණු විශාල මුදල් ත්‍යාගය ශ්‍රී ලංකාවේ දිළිදු ජනතාවට සහ විශේෂයෙන් දුප්පත් පාසැල් සිසුන් සදහා අවශ්‍ය පාසැල් උපකරණ පරිත්‍යාග කිරීම සදහා යෙදවීමට පැමිණ තිබුණි .
+
+ලෝකයේ මෙතෙක් පැවති යුද්ධ වල දී අසරණ වී සිටින ජනතාවට සනුහක් පින්නවලගේ සිදු කළ උදව් උපකාර සහ සත්කාර අගය කිරීම සදහා ඇමෙරිකානු ජනාධිපති ජෝ බයිඩන් මහතා සනුහක් පින්නවලගේ වෙත රන් සම්මානයක් ප්‍රදානය කර තිබේ .
+
+සනුහක් පින්නවලගේ දෙමාපියන් ඇමෙරිකාවේ වෛද්‍යවරුන් ලෙස සේවය කරමින් සිටින අතර ඔවුන් මීට පෙර කොළඹ , මාළඹේ ප්‍රදේශයේ පදිංචිකරුවන් වී සිට තිබේ .
+
+...
+
+[Data](articles/cb5a6005.json)
 
 ---
 
@@ -2263,33 +2281,5 @@ Foreign media reports that the injured are still being hospitalized.
 [Data](articles/ba310f23.json)
 
 [Extended Data](ext_articles/ba310f23.ext.json)
-
----
-
-### Olympic qualifications Tarushi, Dilhani
-
-*2024-07-02 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/187541) · `ta`
-
-Sri Lankans Tarushi Karunaratne and Dilhani Lakemke have secured spots in the Paris 2024 Olympic Games, qualifying through the World Athletic Rankings. Tarushi placed 45th in the women's 800m, while Dilhani secured 26th in the women's javelin throw. Additionally, athletes Yuppun Abeykoon and Yodasinghe are awaiting confirmation for the men's 100m, and Aruna Darshana is poised to compete, currently ranked 51st in the 'Paris Path' rankings.
-
-🟩
-
-Sri Lankan players Tarushi Karunaratne and Dilhani Lakemke have qualified for the Paris 2024 Olympic Games Athletic Championships.
-
-The two were eligible for the World Athletic Rankings at 8.00 pm today.
-
-Tarushi Karunaratne qualified for the Olympics by reaching 45th place in the World Rankings for the women's 800m race.
-
-Meanwhile, Dilhani Lakemke is eligible to go to the Olympics by securing 26th place in the 'Paris Path Path' ranking for the women's spear throwing competition.
-
-Meanwhile, one of the two men, Yuppun Abeykoon and Yodasinghe, are expected to get a chance to go Olympic in the 100 -meter race for men.. However, the final decision will be available on July 7, Sri Lanka Athletics said.
-
-Also, Aruna Darshana is expected to get a chance to participate in the Olympics.. He is currently ranked 51st in the 'Paris Path' rankings.
-
-◼️
-
-[Data](articles/8dbb1bd7.json)
-
-[Extended Data](ext_articles/8dbb1bd7.ext.json)
 
 ---

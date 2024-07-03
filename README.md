@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 13:19:29**
+As of **2024-07-03 13:35:08**
 
 ## Newspaper Stats
 
-*Scraped **33,468** Articles*
+*Scraped **33,470** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,54 +17,118 @@ economynextcom | 1,957
 dailyftlk | 2,068
 adalk | 2,983
 adaderanalk | 3,818
-tamilmirrorlk | 3,964
+tamilmirrorlk | 3,965
 dailymirrorlk | 4,733
 virakesarilk | 5,229
-adaderanasinhalalk | 5,544
+adaderanasinhalalk | 5,545
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,466 (100.0%) of 33,468 articles have been extended.
+33,470 (100.0%) of 33,470 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
-### ලොව පළමු රොබෝ සියදිවි හානිකර ගැනීම දකුණු කොරියාවෙන්
+### Tragedy of the Super Housing Complex - Testing through CCTV
+
+*2024-07-03 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198444) · `si`
+
+Two 10th-grade students from Colombo International School, a boy and a girl, tragically died on the 67th floor of the Altable Luxury Apartment Complex in Slave Island. They were discovered after leaving their belongings on the 5th floor, leading authorities to believe they jumped to their deaths. The victims, one from Wellawatte and the other from Kelaniya, had a romantic relationship.
+
+🟩
+
+A 15 year old girl and a boy are currently underway to die at the 67th floor of the Altable Luxury Apartment Complex in Slave Island.
+
+The two were in the same class of the 10th grade of Colombo International School.
+
+The police investigations revealed that they had a romantic relationship.
+
+The student and student arrived at the Bodyhouse Center at the fifth floor of the luxury apartment complex yesterday.
+
+They have changed clothes and removed their bags and left their bags in the center and left the 67th floor.
+
+The police then downgrade the police that they had passed away from the ground and had committed suicide.
+
+Their bodies found, the air conditioners on the 30 storied luxury flats were located at the place where the air conditioners were installed on the 3rd floor.
+
+The victim was a resident of Wellawatte and the student is a resident of Kelaniya.
+
+◼️
+
+[Data](articles/8fb287ef.json)
+
+[Extended Data](ext_articles/8fb287ef.ext.json)
+
+---
+
+### Handicrafts of the world's first robot victims from South Korea
 
 *2024-07-03 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198443) · `si`
 
-දකුණු කොරියාවේ රාජ්‍ය සේවයේ නිරතව සිටි රොබෝ යන්ත්‍රයක් සියදිවි නසාගත් බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+In a groundbreaking incident, a robot worker in South Korea reportedly "committed suicide" by falling down stairs, marking what could be the nation's first such case. The event occurred around a year ago in Gumi City, where the robot had been active. Local authorities stated the robot fell after tripping over its own robe, leading to widespread condemnation among residents. This unusual incident has sparked discussions about the ethical implications of robotics and artificial intelligence.
 
-මෙලෙස සියදිවි හානිකර ගෙන ඇත්තේ වසරක පමණ කාලයක් දකුණු කොරියාවේ ගුමී නගර සභාවේ සේවයේ නිරතව සිටි රොබෝ යන්ත්‍රයකි.
+🟩
 
-මීටර 2ක පමණ උසින් යුතු පියගැට පෙළකින් වැටී සිටියදී අක්‍රීය වූ රොබෝ සේවකයා සොයා ගෙන තිබුණි.
+Foreign media reports that a robot machine in South Korea has committed suicide.
 
-රොබෝ යන්ත්‍රය පඩිපෙලෙන් පහළට වැටීමට පෙර එක තැන කැරකී ඇති බවත්, පසුව පඩිපෙලෙන් පහළට වැටී ඇති බවත් ගුමි නගරයේ බලධාරීන් සඳහන් කර තිබේ.
+The suicide has been committed to about a year, a robot engaged in the Gummy Municipal Council of Korea for about a year.
 
-ගුමී නගරවාසීන් සියදිවි නසාගත් රොබෝවරයා වෙනුවෙන් ශෝකය පළ කර තිබුණි.
+The disabled robot worker was found while falling in a robe that was tall.
 
-දකුණු කොරියානු මාධ්‍ය මෙම සිදුවීම වාර්තා කර තිබුණේ එරට සිදුවූ පළමු රොබෝ සියදිවි නසාගැනීම ලෙසය.
+The city authorities have said that the robot had spinned before the stairs.
+
+Gomi's residents had condemned the sake of suicide.
+
+The South Korean media has reported this to the first robotic suicide in the country.
 
 ◼️
 
 [Data](articles/23af5462.json)
 
+[Extended Data](ext_articles/23af5462.ext.json)
+
 ---
 
-### ஜனாதிபதித் தேர்தலுக்கு தடை கோரி மனு
+### Petition
 
 *2024-07-03 12:54:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலுக்கு-தடை-கோரி-மனு/175-339814) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பதவி காலம் தொடர்பில் தெளிவூட்ட வேண்டுமெனக்  கோரி உயர்நீதிமன்றத்தில் புதன்கிழமை (03) மனுவொன்று தாக்கல் செய்யப்பட்டுள்ளது. அரசியலமைப்புக்கு அமைய ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பதவிக்காலத்தை தெளிவூட்டவேண்டுமென உயர்நீதிமன்றத்தில் தாக்கல் செய்யப்பட்டுள்ள மனுவின் ஊடாக கோரிக்கை விடுக்கப்பட்டுள்ளது.
+A petition filed in the Supreme Court seeks clarification on President Ranil Wickremesinghe's term under the Constitution. It requests an interim halt on the upcoming presidential election until the court defines his term.
 
-அரசியலமைப்பின் பிரகாரம் தற்போ​தைய ஜனாதிபதியின் பதவிக்காலம்  தொடர்பில் உயர்நீதிமன்றம் தெளிவூட்டும் வரை, அடுத்த ஜனாதிபதித் தேர்தலை நடாத்துவதற்கு இடைகால தடை விதிக்குமாறு மனுதாரர் கோரிக்கை விடுத்துள்ளார்.
+🟩
+
+A petition was filed in the Supreme Court on Wednesday (03) demanding clarification on President Ranil Wickremesinghe's tenure.. The petition filed by the Supreme Court has been asked to clarify the term of President Ranil Wickremesinghe in accordance with the Constitution.
+
+The petitioner has called for an interim ban on holding the next presidential election until the Supreme Court clarifies the current president's term.
 
 ◼️
 
 [Data](articles/bda9dbb8.json)
+
+[Extended Data](ext_articles/bda9dbb8.ext.json)
+
+---
+
+### Petition
+
+*2024-07-03 12:54:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஜனாதிபதித்-தேர்தலுக்கு-தடை-கோரி-மனு/150-339814) · `ta`
+
+A petition filed in the Supreme Court seeks clarification on President Ranil Wickremesinghe's term under the Constitution. It requests an interim halt on the upcoming presidential election until the court defines his term.
+
+🟩
+
+A petition was filed in the Supreme Court on Wednesday (03) demanding clarification on President Ranil Wickremesinghe's tenure.. The petition filed by the Supreme Court has been asked to clarify the term of President Ranil Wickremesinghe in accordance with the Constitution.
+
+The petitioner has called for an interim ban on holding the next presidential election until the Supreme Court clarifies the current president's term.
+
+◼️
+
+[Data](articles/f9a20ca8.json)
+
+[Extended Data](ext_articles/f9a20ca8.ext.json)
 
 ---
 
@@ -2229,39 +2293,5 @@ Minister of Power and Energy Kanjana Wijesekera said that Lanka IOC will distrib
 [Data](articles/f49ebf10.json)
 
 [Extended Data](ext_articles/f49ebf10.ext.json)
-
----
-
-### Signature partners with Sri Lanka Hockey Federation as ‘Official Formal Wear Partner’ for Junior Men’s Asian Federation Hockey Cup
-
-*2024-07-02 20:58:00* · [`islandlk`](http://island.lk/signature-partners-with-sri-lanka-hockey-federation-as-official-formal-wear-partner-for-junior-mens-asian-federation-hockey-cup/) · `en`
-
-Signature, Sri Lanka’s most admired menswear brand, partnered with the Sri Lanka Hockey Federation to sponsor the Junior Men’s Asian Federation Hockey (Cup) Tournament as the ‘Official Formal Wear Partner’. The prestigious tournament took place in Singapore from June 13th to June 23rd, bringing together the finest young hockey talents from across Asia.
-
-As the Official Formal Wear Partner for the Junior Men’s Asian Federation Hockey Tournament, Signature outfitted the Sri Lankan team with impeccable formal wear, showcasing the brand’s dedication to excellence and style. This partnership highlighted Signature’s role in the fashion industry and its commitment to supporting and nurturing young talent in the sporting arena, contributing to the development of hockey in Sri Lanka and beyond.
-
-...
-
-[Data](articles/978c4563.json)
-
-[Extended Data](ext_articles/978c4563.ext.json)
-
----
-
-### Sysco LABS triumphs at the 6th annual SLASSCOM Ingenuity Awards 2024
-
-*2024-07-02 20:55:00* · [`islandlk`](http://island.lk/sysco-labs-triumphs-at-the-6th-annual-slasscom-ingenuity-awards-2024/) · `en`
-
-Wins Provincial and National Awards in the ‘Best Innovation in Internal Process, Technology or Framework’ category for its ‘Excellence Hub’ solution.
-
-For the second consecutive year, Sysco LABS’ Delivery Excellence team won both provincial and national top honors in the ‘Best Innovation in Internal Process, Technology or Framework’ category at the SLASSCOM Ingenuity Awards. In addition, the ‘Patch 360’ tool developed by the Hybrid Cloud Operations team – part of the company’s Platform Services and Digital Infrastructure business unit – was awarded the 2nd Runner-up in the same category at the national level. The wins highlight the team’s relentless commitment to delivering continuous innovation and significant value to Sysco, the world’s largest foodservice provider.
-
-Signature partners with Sri Lanka Hockey Federation as ‘Official Formal Wear Partner’ for Junior Men’s Asian Federation Hockey Cup
-
-...
-
-[Data](articles/30b693a7.json)
-
-[Extended Data](ext_articles/30b693a7.ext.json)
 
 ---

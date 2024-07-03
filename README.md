@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 08:13:07**
+As of **2024-07-03 08:21:10**
 
 ## Newspaper Stats
 
-*Scraped **33,412** Articles*
+*Scraped **33,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,866
 economynextcom | 1,954
 dailyftlk | 2,068
-adalk | 2,975
+adalk | 2,976
 adaderanalk | 3,807
 tamilmirrorlk | 3,953
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,532
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,412 (100.0%) of 33,412 articles have been extended.
+33,412 (100.0%) of 33,413 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1338,6 +1338,26 @@ If there is insufficient evidence to make sure, the police can be able to work. 
 
 ---
 
+### පොහොට්ටුවෙන් තවමත් අපේක්ෂකයෙක් නෑ
+
+*2024-07-02 19:28:57* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවෙන්-තවමත්-අපේක්ෂකයෙක්-නෑ/11-410579) · `si`
+
+නායකයන් බිහි වන්නේ ජනතාව අතරින් බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා ඊයේ (01දා) රාත්‍රී කටුනායක ගුවන්තොටුපොළේදී පැවසීය.
+
+ඒ මහතා එසේ පැවසුවේ ඉදිරි ජනාධිපතිවරණය සඳහා පොදුජන පෙරමුණේ අපේක්ෂකයෙකු ඉදිරිපත් කරනවාද යන්න මාධ්‍යවේදීන් ඇසූ ප්‍රශ්නයකට පිළිතුරු වශයෙනි.
+
+එහිදී පොදුජන පෙරමුණ තවමත් ඉදිරි ජනාධිපතිවරණය සඳහා ඉදිරිපත් වීමට අපේක්ෂකයෙකු තෝරා ගෙන නොමැති බවද පැවසීය.
+
+මහින්ද රාජපක්ෂ මහතා චීනයේ බෙයිජිං නුවර පැවති ෙ'සාමකාමී සහජීවනය පිළිබඳ පස් වැදෑරුම් මූලධර්ම ප්‍රකාශයට පත් කිරීමේ 70වන සංවත්සරය උළෙලට' සහභාගී වීමෙන් අනතුරුව යළිත් ශ්‍රී ලංකාව බලා පැමිණෙමින් සිටියදී කටුනායක ගුවන්තොටුපොළේදීය. මෙම සංවත්සර උළෙල පසුගිය මස 28 දින චීනයේ බෙයිජිං නුවර මහජන ශාලාවේ පවත්වා තිබුණි.
+
+මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ මහින්ද රාජපක්ෂ මහතා චීන ජනාධිපති ෂී ජින්පින් මැතිතුමා මෙන්ම එරට විදේශ අමාත්‍ය වෑන් යී මැතිතුමා සමගද සාකච්ඡා කළ බවත් එම සාකච්ඡා සාර්ථක බවත් චීන රජය ශ්‍රී ලංකාව පිළිබඳ ඉදිරියටත් යහපත් ස්ථාවරයක පසු වන බවත් පැවසීය.
+
+◼️
+
+[Data](articles/3c0ba648.json)
+
+---
+
 ### Telephone owner arrested on telephone call in Kandy court
 
 *2024-07-02 19:09:55* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-අධිකරණයේ-බෝම්බ-බිය-ඇති-කළ-දුරකතන-ඇමතුමේ-දුරකතන-හිමිකරු-අල්ලයි/11-410577) · `si`
@@ -2251,37 +2271,5 @@ Military Bomb Facts and Special Task Force were involved. The bomb disorder unit
 [Data](articles/cf7cd614.json)
 
 [Extended Data](ext_articles/cf7cd614.ext.json)
-
----
-
-### Toping bombings in Kandy - Suspect arrested
-
-*2024-07-02 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198412) · `si`
-
-In Kandy, a bombing suspect, a 53-year-old former bus conductor, was arrested by the police. The suspect claimed he didn't possess another phone linked to the case. A bomb threat led to heightened security and evacuation at the Kandy Courts Complex, with troops from the Bomb Disposal Division involved. Investigations continue, and the case is postponed until July 16.
-
-🟩
-
-The 119 Police Emergency Department has been arrested by the Ginigathhena Police today (02).
-
-The Kandy police have arrested a 53-year-old person from the Ginigathena, Kadawala, Kinigathena, Kinigathena, Kinigathena, the owner of the telephone number.
-
-The other phone has said that the phone was not in his possession at the time of his arrest.
-
-The suspect had served as a private bus conductor and further investigations into the incident.
-
-A special security operation was implemented by the message that had a bomb in the Kandy Courts Complex.
-
-The security forces were also taken to remove the trial and remove the people from the court complex.
-
-Troops conducting search operation conducted by the Bomb Inspiration Division, Army and Police.
-
-The case was postponed until July 16.
-
-◼️
-
-[Data](articles/65c5f109.json)
-
-[Extended Data](ext_articles/65c5f109.ext.json)
 
 ---

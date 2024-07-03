@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 08:21:10**
+As of **2024-07-03 08:35:10**
 
 ## Newspaper Stats
 
-*Scraped **33,413** Articles*
+*Scraped **33,415** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 1,954
 dailyftlk | 2,068
 adalk | 2,976
 adaderanalk | 3,807
-tamilmirrorlk | 3,953
+tamilmirrorlk | 3,954
 dailymirrorlk | 4,733
 virakesarilk | 5,222
-adaderanasinhalalk | 5,532
+adaderanasinhalalk | 5,533
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,412 (100.0%) of 33,413 articles have been extended.
+33,413 (100.0%) of 33,415 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### தீ விபத்தில் இருவர் பலி
+
+*2024-07-03 08:15:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தீ-விபத்தில்-இருவர்-பலி/76-339791) · `ta`
+
+எட்டியாந்தோட்டை,  பனாவத்தை லயம் இலக்கம் 02 குடியிருப்பில் ஏற்பட்ட தீ விபத்தில் இருவர் உயிரிழந்துள்ள சம்பவம் செவ்வாய்க்கிழமை (03) அதிகாலை இடம்பெறுள்ளது.
+
+தீ விபத்தில் லயன் குடியிருப்பொன்றில் தங்கியிருந்த (தம்பதியினர் ) 60 வயதுடைய ஆண் ஒருவறும் 50 வயதுடைய பெண் ஒருவரும் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+மேலும், தீ விபத்தில் 03 வீடுகள் சேதமடைந்துள்ளடன் , தீ விபத்துக்கான காரணம் இதுவரையில் தெரியவரவில்லை என பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/568e3e5f.json)
+
+---
+
+### පුරප්පාඩු පාර්ලිමේන්තු මන්ත්‍රී ධුරයට කුගදාසන්
+
+*2024-07-03 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198431) · `si`
+
+ආර්. සම්බන්ධන් මහතාගේ අභාවයෙන් පුරප්පාඩු වූ පාර්ලිමේන්තු මන්ත්‍රී ධූරය සඳහා කදිරවේලු සම්මුගම් කුගදාසන් මහතා නම්කර තිබේ.
+
+ත්‍රිකුණාමලය මැතිවරණ කොට්ඨාසය සඳහා 9 වන පාර්ලිමේන්තුවේ මන්ත්‍රීවරයෙකු ලෙස කුගදාසන් මහතා තෝරාපත් කරගත් බව මැතිවරණ කොමිසන් සභාව පවසයි.
+
+මේ අතර අභාවප්‍රාප්ත ආර්. සම්බන්ධන් මහතාගේ දේශය මේ වන විට කොළඹ පෞද්ගලික මල්ශාලාවක තැම්පත් කර තිබේ.
+
+අද (03) දහවල් දක්වා එහි තැම්පත් කර තිබෙන සම්බන්ධන් මහතාගේ දේහය පස්වරුවේ පාර්ලිමේන්තුවට රැගෙන යාමට නියමිතය.
+
+අද පස්වරු 2.00 සිට පස්වරු 4.00 දක්වා ඒ මහතාගේ දේහය පාර්ලිමේන්තුවේ තැම්පත් කර තැබීමට නියමිතය.
+
+ආර්. සම්බන්ධන් මහතාගේ දේහය හෙට (04) දිනයේ ත්‍රිකුණාමලයට රැගෙන යාමට නියමිත අතර ඉරිදා දිනය දක්වා මහජන ගෞරවය සඳහා ඔහුගේ නිවසේ තැම්පත් කර තැබෙනු ඇත.
+
+◼️
+
+[Data](articles/1209a289.json)
+
+---
 
 ### Excise revenue increased by 17
 
@@ -1338,23 +1376,29 @@ If there is insufficient evidence to make sure, the police can be able to work. 
 
 ---
 
-### පොහොට්ටුවෙන් තවමත් අපේක්ෂකයෙක් නෑ
+### There is still no candidate from the quantity
 
 *2024-07-02 19:28:57* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවෙන්-තවමත්-අපේක්ෂකයෙක්-නෑ/11-410579) · `si`
 
-නායකයන් බිහි වන්නේ ජනතාව අතරින් බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා ඊයේ (01දා) රාත්‍රී කටුනායක ගුවන්තොටුපොළේදී පැවසීය.
+At a press conference in Beijing, former President Mahinda Rajapaksa mentioned that leaders emerge from the people, without confirming his candidacy for the upcoming Sri Lankan presidential election. He was there for the 70th anniversary celebrations of Sri Lanka-China relations, where he also met with China's Foreign Minister.
 
-ඒ මහතා එසේ පැවසුවේ ඉදිරි ජනාධිපතිවරණය සඳහා පොදුජන පෙරමුණේ අපේක්ෂකයෙකු ඉදිරිපත් කරනවාද යන්න මාධ්‍යවේදීන් ඇසූ ප්‍රශ්නයකට පිළිතුරු වශයෙනි.
+🟩
 
-එහිදී පොදුජන පෙරමුණ තවමත් ඉදිරි ජනාධිපතිවරණය සඳහා ඉදිරිපත් වීමට අපේක්ෂකයෙකු තෝරා ගෙන නොමැති බවද පැවසීය.
+Former President Mahinda Rajapaksa said that the leaders were born among the people at the Katunayake airport.
 
-මහින්ද රාජපක්ෂ මහතා චීනයේ බෙයිජිං නුවර පැවති ෙ'සාමකාමී සහජීවනය පිළිබඳ පස් වැදෑරුම් මූලධර්ම ප්‍රකාශයට පත් කිරීමේ 70වන සංවත්සරය උළෙලට' සහභාගී වීමෙන් අනතුරුව යළිත් ශ්‍රී ලංකාව බලා පැමිණෙමින් සිටියදී කටුනායක ගුවන්තොටුපොළේදීය. මෙම සංවත්සර උළෙල පසුගිය මස 28 දින චීනයේ බෙයිජිං නුවර මහජන ශාලාවේ පවත්වා තිබුණි.
+He was responding to a question that journalists asked if the journalists asked the next presidential election.
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ මහින්ද රාජපක්ෂ මහතා චීන ජනාධිපති ෂී ජින්පින් මැතිතුමා මෙන්ම එරට විදේශ අමාත්‍ය වෑන් යී මැතිතුමා සමගද සාකච්ඡා කළ බවත් එම සාකච්ඡා සාර්ථක බවත් චීන රජය ශ්‍රී ලංකාව පිළිබඳ ඉදිරියටත් යහපත් ස්ථාවරයක පසු වන බවත් පැවසීය.
+The Civil Front has not yet selected a candidate to contest for the next presidential election.
+
+Mahinda Rajapaksa at Beijing in Beijing, China, was on the occasion of the 70th Anniversary of the 70th Anniversary of Sri Lanka.. The anniversary festival was held on the 28th of the 28th of last month.
+
+He further stated that President Mahinda Rajapaksa has discussed the Chinese President Xi Ginopin with the Foreign Minister of China and the Sri Lankan government.
 
 ◼️
 
 [Data](articles/3c0ba648.json)
+
+[Extended Data](ext_articles/3c0ba648.ext.json)
 
 ---
 
@@ -2227,49 +2271,5 @@ On the instructions of Dr. Wickraratne Gunasekera of the Basnayake Nilame. (I J)
 [Data](articles/49f7d9fe.json)
 
 [Extended Data](ext_articles/49f7d9fe.ext.json)
-
----
-
-### Person arrested on suspicion after ‘bomb scare’ at Kandy Court complex
-
-*2024-07-02 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/100243/person-arrested-on-suspicion-after-bomb-scare-at-kandy-court-complex) · `en`
-
-The owner of the mobile phone number through which a false tip-off was provided to the ‘119’ Police Emergency Hotline regarding an impending bomb attack in the Kandy Court complex, has been arrested.
-
-Police said that the 53-year-old owner of the relevant SIM card was arrested this afternoon (02), based on information received by the Kandy Police through Ginigathhena Police.
-
-However, the OIC of Kandy Police stated that the suspect did not have a mobile phone in his possession at the time of the arrest, and that he told the police during interrogations that his phone was misplaced last evening (01).
-
-The arrested suspect has been identified as a conductor of a private passenger transport bus, according to police.
-
-◼️
-
-[Data](articles/28accc68.json)
-
-[Extended Data](ext_articles/28accc68.ext.json)
-
----
-
-### Bomb bomb arrest in Kandy
-
-*2024-07-02 15:49:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டியில்-குண்டு-புரளி-வட்டவளை-நபர்-கைது/175-339759) · `ta`
-
-In Kandy, a bomb scare led to the postponement of court hearings scheduled for Tuesday, after an anonymous call claimed a bomb was in the court complex. Police, military, and special forces responded but found no bomb, evacuating the premises as a precaution.
-
-🟩
-
-A man from Vattawala area has arrested an anonymous telephone call that there was a bomb inside the Kandy court complex, police said.
-
-All cases to be taken up for hearing on Tuesday (02) have been postponed to July 16 due to the bomb threat.
-
-The police immediately took action to the police emergency department (119) at 10 am on Tuesday (02).
-
-Military Bomb Facts and Special Task Force were involved. The bomb disorder unit rushed to the scene and evacuated all those in the court premises, but the bomb was not found.
-
-◼️
-
-[Data](articles/cf7cd614.json)
-
-[Extended Data](ext_articles/cf7cd614.ext.json)
 
 ---

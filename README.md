@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 14:35:18**
+As of **2024-07-03 14:53:47**
 
 ## Newspaper Stats
 
-*Scraped **33,474** Articles*
+*Scraped **33,475** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,867
 economynextcom | 1,957
 dailyftlk | 2,068
-adalk | 2,984
+adalk | 2,985
 adaderanalk | 3,820
 tamilmirrorlk | 3,965
 dailymirrorlk | 4,733
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,546
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,471 (100.0%) of 33,474 articles have been extended.
+33,474 (100.0%) of 33,475 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### ධීවර සිරුරු 4 හා ඩොවෝන් පුතා 5 යාත්‍රාව තංගල්ල වරායට රැගෙන එයි
+
+*2024-07-03 14:04:57* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-සිරුරු-4-හා-ඩොවෝන්-පුතා-5-යාත්‍රාව-තංගල්ල-වරායට-රැගෙන-එයි/11-410589) · `si`
+
+මුහුදේ පාවී ආ බෝතලයක තිබූ දියර වර්ගයක් පානය කිරීමෙන් ජීවිතක්ෂයට පත් ඩොවෝන් පුතා 5 ධීවර යාත්‍රාවේ ධීවරයින් හතර දෙනාගේ මෘතදේහයන් රැගත් බහුදින ධීවර යාත්‍රාව (3) උදේ 7.30 ට පමණ තංගල්ල ධීවර වරායට ලගාවිය.
+
+ඩෙවෝන් පුතා 3 ධීවර යාත්‍රාව මගින් මෘතදේහයන් තැන්පත් කර තිබූ ඩෙවෝන් පුතා 5 ධීවර යාත්‍රාව කඹයක ආධාරයෙන් ඇද ගෙන ආවේය .
+
+තංගල්ල මහේස්ත්‍රාත් ශාමලා භුතාවත්ත මහත්මිය (03) උදේ 11 ට පමණ තංගල්ල ධීවර වරායට පැමිණ ස්ථානීය මහේස්ත්‍රාත් පරීක්ෂණය සිදුකලාය.මහේස්ත්‍රාත්වරිය ඉදිරියේ බහුදින ධීවර යාත්‍රාවේ අධිශීතකරණය සහිත ටැංකියක තැන්පත් කර තිබූ ධීවරයින්ගේ දේහයන් ගොඩට ගත් පසු ධීවරයින්ගේ නෑදෑයින් විසින් මෘතදේහයන් හදුනා ගැනීම සිදුකලහ.
+
+ඉන්පසු  තංගල්ල මූලික රෝහලට රැගෙන ගොස් පශ්චාත් මරණ පරීක්ෂණ පවත්වා අධිකරණයට වාර්තා ඉදිරිපත් කරන ලෙසට මහේස්ත්‍රාත්වරිය තංගල්ල මූලස්ථාන පොලිසියට නියෝග කළාය.
+
+◼️
+
+[Data](articles/45aa1a35.json)
+
+---
 
 ### Pawning centre employee cheats over Rs. 19.6 million using imitation gold jewellery
 
@@ -50,6 +68,8 @@ The suspect had allegedly used these imitation items to issue fraudulent documen
 
 [Data](articles/51a886fb.json)
 
+[Extended Data](ext_articles/51a886fb.ext.json)
+
 ---
 
 ### Bodies of fishermen who died after drinking from bottle found in sea brought to Tangalle
@@ -67,6 +87,8 @@ Following the magistrate’s inquiry, the bodies will be transferred to Tangalle
 ◼️
 
 [Data](articles/8183d6f3.json)
+
+[Extended Data](ext_articles/8183d6f3.ext.json)
 
 ---
 
@@ -594,21 +616,29 @@ Intelligence on mortgage was revealed that the suspect named the suspect called 
 
 ---
 
-### තෑග්ගෙන් තෑග්ග උතුම් තෑග්ගක් කිරිමට ලංකාවට ආපු සනුහක්
+### Surveyed to Sri Lanka to make a gift from the gift to a noble gift
 
 *2024-07-03 10:32:00* · [`adalk`](https://www.ada.lk/picture_story/තෑග්ගෙන්-තෑග්ග-උතුම්-තෑග්ගක්-කිරිමට-ලංකාවට-ආපු-සනුහක්/10-410586) · `si`
 
-ශ්‍රී ලංකාවෙන් ඇමෙරිකාවේ පදිංචියට ගොස් එරට ජනාධිපති ජෝ බයිඩන් මහතාගෙන් සමාජ සේවා රන් සම්මාන දිනා ගත් එකොළොස් හැවිරිදි වොරන්ට් සනුහක් පින්නවලගේ ශ්‍රී ලංකාවේ දිළිඳු ජනයාට සහ විශේෂයෙන්ම දුප්පත් පාසැල් සිසුන්ට අවශ්‍ය උපකරණ ලබා දීම සදහා 07/02 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය .
+President Joe Biden visited Sri Lanka, bringing gifts including a significant cash prize for the country's poorest citizens and schoolchildren. The visit highlighted the U.S.'s support for Sri Lanka, particularly through the Dearing Foundation and Elevator projects. A notable aspect was the recognition of A Sun Pinnawala, whose parents are doctors in the U.S., for his contributions to helping the needy.
 
-ඇමෙරිකා එක්සත් ජනපදයේ ප්‍රාන්ත 50 තරගකරුවන් සහභාගීත්වයෙන් පැවති  කරුණාව හේතු කොට ගෙන අදහස් ප්‍රකාශ කිරීමේ තරගාවලියට සහභාගී වී එයින් ප්‍රථම ස්ථානය දිනා ගත් සනුහක් පින්නවලගේ , එයින් තමාට ලැබුණු විශාල මුදල් ත්‍යාගය ශ්‍රී ලංකාවේ දිළිදු ජනතාවට සහ විශේෂයෙන් දුප්පත් පාසැල් සිසුන් සදහා අවශ්‍ය පාසැල් උපකරණ පරිත්‍යාග කිරීම සදහා යෙදවීමට පැමිණ තිබුණි .
+🟩
 
-ලෝකයේ මෙතෙක් පැවති යුද්ධ වල දී අසරණ වී සිටින ජනතාවට සනුහක් පින්නවලගේ සිදු කළ උදව් උපකාර සහ සත්කාර අගය කිරීම සදහා ඇමෙරිකානු ජනාධිපති ජෝ බයිඩන් මහතා සනුහක් පින්නවලගේ වෙත රන් සම්මානයක් ප්‍රදානය කර තිබේ .
+Sri Lankan moved to US visitors from President Joe Biden to the Government of Sri Lanka and the Dearing Warranty in Sri Lanka and Elevators, especially poor schoolchildren, arrived at the Katunayake Airport on 07/02.
 
-සනුහක් පින්නවලගේ දෙමාපියන් ඇමෙරිකාවේ වෛද්‍යවරුන් ලෙස සේවය කරමින් සිටින අතර ඔවුන් මීට පෙර කොළඹ , මාළඹේ ප්‍රදේශයේ පදිංචිකරුවන් වී සිට තිබේ .
+Sri Lanka's biggest cash prize to the poor, the largest cash prize to the devotees of Sri Lanka and especially poor school children who have received the participation of the 50-state competitors in the United States.Happened.
 
-...
+US President Joe Biden has awarded a gold award for the help of the Pinnawala's help and care for the helpless people in the world.
+
+A Sun' Pinnawala's parents are working as doctors in the United States and have been residents of Malabe, Colombo.
+
+A Sun' Pinnawala's father's Pinnawala Air Service at 08.30 pm on 08.30 pm
+
+◼️
 
 [Data](articles/cb5a6005.json)
+
+[Extended Data](ext_articles/cb5a6005.ext.json)
 
 ---
 
@@ -2257,29 +2287,5 @@ A 15 -year -old boy and a student who is educated at an international school in 
 [Data](articles/d930721b.json)
 
 [Extended Data](ext_articles/d930721b.ext.json)
-
----
-
-### Up to 116 deaths in thrust
-
-*2024-07-02 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198424) · `si`
-
-During a Hindu ceremony in Uttar Pradesh, 116 deaths occurred due to overcrowding as attendees tried to leave. State Minister Athithnatath promised financial aid, and injured individuals continue to be hospitalized.
-
-🟩
-
-A Hindu religious ceremony has been increased to 116 during a Hindu religious ceremony in Uttar Pradesh.
-
-With the end of the religious ceremony, the number of congestion is in attempt to leave.
-
-However, the state minister, Mr. Athithnatath has said that he will give a number of Rs.
-
-Foreign media reports that the injured are still being hospitalized.
-
-◼️
-
-[Data](articles/ba310f23.json)
-
-[Extended Data](ext_articles/ba310f23.ext.json)
 
 ---

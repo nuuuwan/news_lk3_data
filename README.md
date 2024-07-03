@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 03:04:45**
+As of **2024-07-04 03:19:45**
 
 ## Newspaper Stats
 
-*Scraped **33,554** Articles*
+*Scraped **33,555** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 330
 newsfirstlk | 363
 islandlk | 1,867
 economynextcom | 1,967
-dailyftlk | 2,074
+dailyftlk | 2,075
 adalk | 2,996
 adaderanalk | 3,829
 tamilmirrorlk | 3,969
@@ -26,55 +26,95 @@ adaderanasinhalalk | 5,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,551 (100.0%) of 33,554 articles have been extended.
+33,554 (100.0%) of 33,555 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### பருத்தித்துறையில் கஞ்சா மற்றும் போதை மாத்திரைகள் என்பன மீட்பு!
+### Five reasons why Ranil must be superseded in 100 days
+
+*2024-07-04 02:50:07* · [`dailyftlk`](https://www.ft.lk/columns/Five-reasons-why-Ranil-must-be-superseded-in-100-days/4-763821) · `en`
+
+Whatever option you pick as your choice for President, the process of deliberation leading to that choice must entail the initial methodological step of ruling out.
+
+I argue that the candidate we should rule out as a preliminary step is the unelected incumbent President Ranil Wickremesinghe. As a political scientist I shall give five fundamental reasons why. But before that, here’s a personal note.
+
+I’m in my 60s. We are governed by someone in his 70s. Most of our leaders have been in their 60s or 70s. For the first time, those who seek to govern us are in their 50s. My gut-instinct is to help take leadership from the clutches of those a decade older than me and transfer it to the generation a decade younger than me. That’s political evolution, social progress.
+
+President Ranil Wickremesinghe claims that it is his economic diligence that has prevented the scenes from Nairobi, Kenya— dead bodies in the streets and parts of the Parliament ablaze-- from being re-enacted in Colombo.
+
+...
+
+[Data](articles/3e5be030.json)
+
+---
+
+### Recovery of cannabis and drug pills in Point Pedro!
 
 *2024-07-04 02:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/187630) · `ta`
 
-03ஆம் திகதி புதன்கிழமை இராணுவ புலனாய்வு பிரிவினருக்கு கிடைத்த தகவலின் அடிப்படையில், பருத்தித்துறை - புலோலி காட்டுப் பகுதியில் மறைத்து வைத்திருந்த போதைப்பொருட்கள் ஒருதொகை மீட்கப்பட்டன.
+In Point Pedro, 1kg of Kerala cannabis, 290 drugs, and a scale were seized from the Puloli forest area. No arrests have been made yet; police continue investigating.
 
-இதன்போது ஒரு கிலோ எடையுடைய கேரளக் கஞ்சா, 290 போதை மத்திரைகள் மற்றும் தராசு ஒன்று என்பன மீட்கப்பட்டன.
+🟩
 
-இருப்பினும் சந்தேக நபர் எவரும் கைது செய்யப்படவில்லை. பருத்தித்துறை பொலிசார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+Based on the information received by the Army Intelligence Unit on Wednesday, the drug was recovered in the Point Pedro - Puloli forest area.
+
+One kilogram of Kerala cannabis, 290 drugs and a scales were recovered.
+
+However no suspect has been arrested. Point Pedro Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/57703850.json)
 
+[Extended Data](ext_articles/57703850.ext.json)
+
 ---
 
-### மகளிர் மற்றும் சிறுவர் இல்லங்களை மூடுவதற்கு வடக்கு மாகாண ஆளுநர் உத்தரவு
+### Governor of the Northern Province to close women and children's homes
 
 *2024-07-04 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/187629) · `ta`
 
-யாழ்ப்பாணம் தெல்லிப்பளை பகுதியிலுள்ள மகளிர் மற்றும் சிறுவர் இல்லங்களை மூடுவதற்கு நடவடிக்கை எடுக்குமாறு வடக்கு மாகாண  ஆளுநர்  உத்தரவிட்டுள்ளார்.
+The Governor of the Northern Province has ordered the closure of two women and children's homes in the Tellippalai area due to complaints about CCRV cameras and an unregistered home. The Governor has directed the Department of Probation and Child Maintenance to close these facilities under his supervision. Additionally, the Commissioner of this department is required to submit a report within a week on all children's homes in the province, advising the closure of any unregistered ones. This action aims to ensure the safety and well-being of children in the region.
 
-யாழ்ப்பாணம் தெல்லிப்பளை பகுதியில் இயங்கும் மகளிர் மற்றும் சிறுவர் இல்லங்கள் தொடர்பில்,  ஆளுநரின் நேரடி கண்காணிப்பின் கீழ் இயங்கும் அபயம் பிரிவிற்குக் கிடைத்த முறைப்பாட்டிற்கு அமைய, இரண்டு  இல்லங்களையும் உடனடியாக மூடுமாறு வடக்கு ஆளுநர் , நன்னடத்தை மற்றும் சிறுவர்  பராமரிப்பு திணைக்களத்தின் ஆணையாளருக்குப் பணிப்புரை விடுத்துள்ளார்.
+🟩
+
+The Governor of the Northern Province has ordered the closure of women and children's homes in the Tellippalai area in Jaffna.
+
+The Northern Governor has issued a directive to the Commissioner of the Department of Probation and Child Maintenance to immediately close the two houses in accordance with the Governor's direct supervision of the Tellippalai area.
+
+A complaint was received about CCRV cameras and an unregistered children's home. The Governor of the Tellippalai Division. According to these reports, the Commissioner of the Department of Probation and Child Care has been issued to the closure of the two houses operating in Tellippalai area and the next steps on the subject.
+
+Meanwhile, the Commissioner of the Department of Probation and Child Care has been issued to submit a report within a week and submit a report on children's homes within the Northern Province.. It is also advised to close all children's homes that are not registered.
 
 ...
 
 [Data](articles/69cd83fd.json)
 
+[Extended Data](ext_articles/69cd83fd.ext.json)
+
 ---
 
-### யாழ்ப்பாணத்தில் குளவிக் கொட்டுக்கு இலக்காகி பெண்ணொருவர் உயிரிழப்பு!
+### Woman dies in Jaffna
 
 *2024-07-04 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/187628) · `ta`
 
-2ஆம் திகதி செவ்வாய்க்கிழமை குளவிக்கொட்டுக்கு இலக்காகிய பெண்ணொருவர் புதன்கிழமை (03) தெல்லிப்பளை வைத்தியசாலையில் உயிரிழந்துள்ளார். இதன்போது செட்டிக்குறிச்சி பண்டத்தரிப்பு பகுதியைச் சேர்ந்த குணசேகரம் வரதசுரோன்மணி (வயது 67) என்ற 3 பிள்ளைகளின் தாயே இவ்வாறு உயிரிழந்துள்ளார்.
+Gunasekaram Varadasurmani, a 67-year-old mother of three from Jaffna, died at Tellippalai Hospital after being attacked with a machete near her home. She succumbed to her injuries without receiving treatment. An investigation into her death is ongoing.
 
-குறித்த பெண் நேற்றையதினம் அவரது வீட்டுக்கு அருகேயுள்ள காணிக்குள் சென்று பனையோலை எடுத்தவேளை அதனுள் இருந்த கருங்குளவி அவர்மீது கொட்டியது. இந்நிலையில் அவர் சங்கானை வைத்தியசாலையில் சேர்க்கப்பட்டு, பின்னர் மேலதிக சிகிச்சைக்காக அங்கிருந்து தெல்லிப்பழை வைத்தியசாலைக்கு மாற்றப்பட்டார்.
+🟩
 
-இந்நிலையில் சிகிச்சை பலனின்றி இன்றையதினம் உயிரிழந்துள்ளார். சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ. ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்றுப் பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+A woman who was targeted for Kalavikotu on Tuesday 2nd died at Tellippalai Hospital on Wednesday (03). The mother of three children, Gunasekaram Varadasurmani (age 67), from Chettikurichi Pandathara area, died.
+
+The woman went into the land near her house yesterday and took the palm of the palm.. He was admitted to the hospital for further treatment.
+
+He died today without treatment. Death Investigation Officer. Jayapalasingham carried out. The body was handed over to relatives after anatomical examination.
 
 ◼️
 
 [Data](articles/4729d289.json)
+
+[Extended Data](ext_articles/4729d289.ext.json)
 
 ---
 
@@ -2317,35 +2357,5 @@ The document described a scene of utter chaos when the preacher at the congregat
 [Data](articles/3c24c8c9.json)
 
 [Extended Data](ext_articles/3c24c8c9.ext.json)
-
----
-
-### Divorce without: problem with female lawyer
-
-*2024-07-03 10:46:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/இல்லாமல்-விவாகரத்து-பெண்-சட்டத்தரணிக்கு-சிக்கல்/71-339804) · `ta`
-
-A couple living in Italy sought a divorce in Jaffna through a local female lawyer. The lawyer's office was later searched by police investigating potential irregularities in the divorce process.
-
-🟩
-
-Police were searching for the lawyer's office, accused of divorce in Jaffna in the name of a couple living abroad.
-
-Two people from Jaffna are married and live in Italy. Between them, a few years ago, the two were separated in Italy.
-
-The man has told his sister who lives in Chavakachcheri in Chavakachcheri to take steps to apply for a divorce in Jaffna and get a divorce.
-
-The sister then sought a female lawyer in Jaffna and asked for a divorce in Jaffna for a couple abroad.
-
-Subsequently, the lawyer has appointed two of his junior lawyers to appoint a husband and one to a wife, applied for the issue of the Chavakachcheri court, prosecuted the case, and divorced the two who are not in the country.
-
-After a divorce, the woman, who was living in Italy, had already been divorced when she had come to Jaffna and took up a court proceedings through another lawyer.
-
-Investigations have been carried out in the Chavakachcheri court after the court informed him how to divorce as he was not in the country.
-
-...
-
-[Data](articles/de1a96cd.json)
-
-[Extended Data](ext_articles/de1a96cd.ext.json)
 
 ---

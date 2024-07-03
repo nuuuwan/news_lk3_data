@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 00:19:40**
+As of **2024-07-04 00:34:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,541 (100.0%) of 33,543 articles have been extended.
+33,543 (100.0%) of 33,543 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -234,33 +234,51 @@ Some influential Democrats have floated alternatives to Biden besides Harris, in
 
 ---
 
-### නඩු භාණ්ඩ කාමරයේ තිබූ රු. කෝටි 2ක විස්කි බෝතල් හොරෙන් අරන් පාටි දාලා
+### Rs.. 2 crores whiskey bottles smuggled
 
 *2024-07-03 20:46:42* · [`adalk`](https://www.ada.lk/breaking_news/නඩු-භාණ්ඩ-කාමරයේ-තිබූ-රු--කෝටි-2ක-විස්කි-බෝතල්-හොරෙන්-අරන්-පාටි-දාලා/11-410597) · `si`
 
-කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයේ නඩු භාණ්ඩ කාමරයේ තිබූ රුපියල් කෝටි 02 කට අධික විස්කි බෝතල් තොගයක් අතුරුදන් විමේ සිද්ධියට අදාළව සැකපිට අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ එහි ගබඩා භාරකරු ලබන 16 වැනිදා තෙක් රිමාන්ඩ් බාරයේ රඳවා තැබීමට කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා අද (03) නියම කළේය.
+In a smuggling case involving Rs. 2 crore worth of whiskey, the Colombo Chief Magistrate's Court ordered custody for the accused, Gayan Sampanthan, appointing him as the custodian. The Colombo Criminal Investigation Division is investigating, with the suspect being arrested and charged. The court has directed immediate reporting to the police.
 
-කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයේ නඩු භාණ්ඩ කාමරයේ තිබූ රුපියල් කෝටි 02 කට අධික විස්කි බෝතල් 1194 ක තොගයක් සොරකම් කර සැකකරු සාද පවත්වා ඇති බවට තොරතුරු ලැබී ඇතැයි කියමින් කොළඹ අපරාධ කොට්ඨාසය කළ ඉල්ලීමක් පිළිගනිමින් සැකකරු රිමාන්ඩ් බාරයට පත් කළ මහේස්ත්‍රාත්වරයා සාද පැවැත්වීමෙන් පසු ඉතිරි වු මත්පැන් බෝතල් වලට කුමක් කලේද? සහ මීට සම්බන්ධ වු අනෙක් අය කවුද? යන්න සම්බන්ධයෙන විමර්ශන කර වහාම අධිකරණයට වාර්තා කරන ලෙසට පොලීසියට නියම කළේය.
+🟩
 
-සිද්ධිය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයේ නඩු භාණ්ඩ භාරකරු වශයෙන් කටයුතු කළ ගයාන් සම්පත් නමැත්තා මෙලෙස රිමාන්ඩ් බාරයට පත් කළේය.
+Colombo Chief Magistrate Thilina Gamage prescribed the custody of the Colombo Chief Magistrate's Court in the courts.
+
+An area of ​​Rs.Did you have done?And who are the others involved?He also set to the police immediately to report to court immediately.
+
+Gayan Sampanthan appointed the custodian of the Colombo Chief Magistrate's Court, who was arrested and produced before the suspect.
+
+The Colombo Criminal Investigation Division has commenced investigations into the incident.
+
+The Investigation Officer has informed the court that the suspect was arrested by the Colombo Chief Magazing and the court in the case of the Colombo Chief Magazing Court.
+
+The Investigations Petitions have been dismissed that the high court magistrate court order against the order of alcohol bottles of alcohol bottles and the Court of Appeal.
 
 ...
 
 [Data](articles/cd706286.json)
 
+[Extended Data](ext_articles/cd706286.ext.json)
+
 ---
 
-### අයවැයෙන් අනුමත ව්‍යාපෘති අගෝස්තු 31ට පෙර නිම කරන්න
+### Completion approved from the budget before August 31
 
 *2024-07-03 20:39:20* · [`adalk`](https://www.ada.lk/breaking_news/අයවැයෙන්-අනුමත-ව්‍යාපෘති-අගෝස්තු-31ට-පෙර-නිම-කරන්න/11-410596) · `si`
 
-2024 විමධ්‍යගත අයවැය වැඩසටහන යටතේ අනුමත කරන ලද සියලුම ව්‍යාපෘති 2024-08-31 දිනට පෙර අවසන් කිරීමට කටයුතු කරන ලෙස උපදෙස් ලබාදෙමින් චක්‍රලේඛයක් නිකුත් කර තිබේ.
+The 2024 decentralized budget program requires projects to complete by August 31, 2024. The Ministry of Finance, Economic Stability, and National Policy has been advised to ensure this deadline is met, starting from July 3, 2022.
 
-ඒ අනුව මුදල්, ආර්ථික ස්ථායීකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යාංශයේ ලේකම්වරයා 2024.07.03 දිනැති MF/02/2023-(iv) චක්‍රලේඛය ම‍ඟින් මෙම උපදෙස් ලබාදී ඇත.
+🟩
+
+The 2024 decentralized budget program has issued a circular to be instructed to finish the completion of 2024-08 to 2024-08-2011.
+
+Accordingly, the Secretary of the Ministry of Finance, Economic Stability and National Policy has been given this advice from 03.07.2012 (iv).
 
 ◼️
 
 [Data](articles/75e992ba.json)
+
+[Extended Data](ext_articles/75e992ba.ext.json)
 
 ---
 

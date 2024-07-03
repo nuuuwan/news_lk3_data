@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 11:35:06**
+As of **2024-07-03 11:55:06**
 
 ## Newspaper Stats
 
-*Scraped **33,440** Articles*
+*Scraped **33,449** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,60 +13,154 @@ colombotelegraphcom | 307
 bbccomsinhala | 327
 newsfirstlk | 363
 islandlk | 1,866
-economynextcom | 1,954
+economynextcom | 1,957
 dailyftlk | 2,068
-adalk | 2,979
-adaderanalk | 3,812
+adalk | 2,981
+adaderanalk | 3,815
 tamilmirrorlk | 3,961
 dailymirrorlk | 4,733
 virakesarilk | 5,225
-adaderanasinhalalk | 5,540
+adaderanasinhalalk | 5,541
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,438 (100.0%) of 33,440 articles have been extended.
+33,440 (100.0%) of 33,449 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
-### මියගිය ධීවරයින්ගේ සිරුරු රැගත් යාත්‍රාව තංගල්ලට
+### දැඩි ආරක්ෂාවක් මැද හරක් කටා අධිකරණයට
+
+*2024-07-03 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198440) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අත්අඩංගුවේ සිටියදී පළායාමට කුමන්ත්‍රණය කළේ යැයි චෝදනා එල්ල වී සිටින ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවකු බව පැවසෙන නඳුන් චින්තක වික්‍රමරත්න හෙවත් 'හරක් කටා' ඇතුළු විත්තිකරුවන් තුන් දෙනෙකුට එරෙහිව ගොනුකර තිබෙන නඩුව වැඩිදුර පූර්ව නඩු විභාග සම්මන්ත්‍රණය සඳහා ජුලි මස 29 වනදා කැඳවන ලෙස කොළඹ මහාධකරණය නියම කළේය.
+
+එම නඩුව අද (03) කොළඹ මහාධිකරණ විනිසුරු දමිත් තොටවත්ත මහතා ඉදිරියේ කැඳවනු ලැබීය.
+
+එම අවස්ථාවේදී විත්තිකාර හරක් කටා දැඩි ආරක්ෂක විධිවිධාන මැද අධිකරණයට ඉදිරිපත් කර තිබුණි.
+
+ඉදිරිපත් වූ සියලු කරුණු සලකා බැලූ විනිසුරුවරයා එම නඩුවේ වැඩිදුර පූර්ව නඩු විභාග සම්මන්ත්‍රණය ජූලි මස 29 වනදා පැවැත්වීමටද දින නියම කළේය.
+
+◼️
+
+[Data](articles/b6ca1b3e.json)
+
+---
+
+### Boat to Tangalle
 
 *2024-07-03 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198439) · `si`
 
-මුහුදේ පාවී ආ බෝතලයක තිබු දියර වර්ගයක් පානය කිරීමෙන් ජීවිතක්ෂයට පත්  "ඩොවොන් 05" ධීවර යාත්‍රාවේ ධීවරයින් 04 දෙනොගේ මළ සිරුරු තංගල්ල ධීවර වරායට රැගෙන විත් තිබේ.
+The bodies of the four fishermen from the "Dovon 05" were transported to Tangalle Fisheries Harbor on March 3rd. Following a magisterial inquiry, they will undergo a post-mortem examination at Tangalle Hospital.
 
-අද (03) උදෑසන අදාල මළ සිරුරු රැගත් යාත්‍රාව තංගල්ල ධීවර වරාය වෙත රැගෙන ආ බව "අද දෙරණ" වාර්තාකරු සඳහන් කළේය.
+🟩
 
-කාර්මික දෝෂයට ලක් ව තිබු එම යාත්‍රාව තවත් යාත්‍රාවක් යොදා ගනිමින් තංගල්ල ධීවර වරාය වෙත රැගෙන විත් තිබේ.
+The bodies of the four fishermen of the five "Dovon 05" fishermen were brought to the Tangalle Fisheries Harbor.
 
-මහෙස්ත්‍රාත්වරයා පැමිණ මළ සිරුරු සම්බන්ධයෙන් මහෙස්ත්‍රාත් පරීක්ෂණය පවත්වන තෙක් අදාළ මළ සිරුරු යාත්‍රාවේම තබා ඇති බව තංගල්ල පොලීසිය සඳහන් කළේය.
+The sailway carrying the bodies were brought to Tangalle Fisheries Harbor today (03).
 
-මහෙස්ත්‍රාත් පරීක්ෂණයෙන් අනතුරුව පශ්චාත් මරණ පරීක්ෂණය සඳහා අදාළ මළ සිරුරු තංගල්ල රෝහල වෙත රැගෙන යාමට නියමිතය.
+The vessel of the industrial fault has been brought to Tangalle Fisheries Harbor using another vessel.
+
+The body has been placed on the vessel until the magisterial inquiry into the magisterial inquiry into the bodies.
+
+The dead bodies will be taken to the Tangalle Hospital for the post mortem examination following the magisterial inquiry.
 
 ◼️
 
 [Data](articles/95e9e7ff.json)
 
+[Extended Data](ext_articles/95e9e7ff.ext.json)
+
 ---
 
-### இல்லாமல் விவாகரத்து: பெண் சட்டத்தரணிக்கு சிக்கல்
+### One dead, 3 hospitalised as boat capsizes off Kayts
+
+*2024-07-03 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100263/one-dead-3-hospitalised-as-boat-capsizes-off-kayts) · `en`
+
+One person has drowned while another 3 individuals have been hospitalised after a boat capsized last night (02) near the Kurikadduwan Jetty, in Kayts.
+
+Police stated that the incident had occurred when the boat capsized while transporting rocks to Nainathivu.
+
+A total of 4 persons were onboard the boat at the time of the incident and one of them had drowned, said the police.
+
+The other three persons were rescued by residents in the area and have been admitted to the hospital for treatment.
+
+The deceased is identified as a 42-year-old resident of the Punkudutivu area and, the body has been placed in the Jaffna Teaching Hospital for the post-mortem examination.
+
+Kayts Police is conducting further investigations related to the incident.
+
+◼️
+
+[Data](articles/62a2aa2a.json)
+
+---
+
+### Court order on Namal Karunaratne and others over planned protest
+
+*2024-07-03 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100262/court-order-on-namal-karunaratne-and-others-over-planned-protest-) · `en`
+
+The Maligakanda Magistrate’s court has issued an order prohibiting Namal Karunaratne of the All Ceylon Agrarian Federation and others from conducting any protest demonstrations and marches while inconveniencing the public using the roads and pavements at several locations in Colombo.
+
+Accordingly, these locations named in the court order include the roads from Technical Junction, Deans Road, Ibbanwala Junction, and Gamini Hall Junction etc.
+
+◼️
+
+[Data](articles/1158878d.json)
+
+---
+
+### Death toll of stampede at Hindu congregation in India rises to 121
+
+*2024-07-03 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100260/death-toll-of-stampede-at-hindu-congregation-in-india-rises-to-121) · `en`
+
+The death toll from a stampede at a Hindu religious congregation in northern India has risen to 121, news agency ANI reported on Wednesday, where a police report said the number of people present was more than triple the permitted capacity.
+
+The stampede on Tuesday was at the religious event in a village in Hathras district of Uttar Pradesh state, about 200 km (125 miles) southeast of New Delhi, where police had given permission for 80,000 people to gather, according to the document, the first information report.
+
+Around 250,000 people attended the event, according to the police report reviewed by Reuters.
+
+At least 121 people were killed and 28 were injured, ANI news agency reported, citing local officials.
+
+The victims included 108 women and seven children, Manoj Kumar Singh, Uttar Pradesh state’s chief secretary, told reporters.
+
+The document described a scene of utter chaos when the preacher at the congregation, Surajpal, also known as ‘Bhole Baba’, was leaving in his car.
+
+...
+
+[Data](articles/3c24c8c9.json)
+
+---
+
+### Divorce without: problem with female lawyer
 
 *2024-07-03 10:46:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/இல்லாமல்-விவாகரத்து-பெண்-சட்டத்தரணிக்கு-சிக்கல்/71-339804) · `ta`
 
-வெளிநாட்டில் வசிக்கும் தம்பதியினரின் பெயரில் யாழ்ப்பாணத்தில் விவாகரத்து பெற்றுக்கொடுத்தமை தொடர்பில்  குற்றம் சாட்டப்பட்டுள்ள சட்டத்தரணியின் அலுவலகத்தில் பொலிஸார் தேடுதல் நடவடிக்கையில் ஈடுபட்டிருந்தனர்.
+A couple living in Italy sought a divorce in Jaffna through a local female lawyer. The lawyer's office was later searched by police investigating potential irregularities in the divorce process.
 
-யாழ்ப்பாணத்தை சேர்ந்த இருவர் திருமணமாகி இத்தாலியில் வசித்து வருகின்றனர். அவர்களுக்கு இடையில், சில வருடங்களுக்கு முன்னர் மனஸ்தாபங்கள் ஏற்பட்டு இருவரும் இத்தாலியில் பிரிந்து வாழ்ந்துள்ளனர்.
+🟩
 
-அந்நிலையில்   தமக்கு யாழ்ப்பாணத்தில் திருமணம் நடைபெற்றமையால், யாழ்ப்பாணத்தில் விவாகரத்திற்கு விண்ணப்பித்து , விவாகரத்தை பெறுவதற்கு நடவடிக்கை எடுக்குமாறு சாவகச்சேரி பகுதியில் வசிக்கும் தனது சகோதரியிடம் அந்த நபர்  கூறியுள்ளார்.
+Police were searching for the lawyer's office, accused of divorce in Jaffna in the name of a couple living abroad.
 
-அதனை அடுத்து சகோதரி , யாழ்ப்பாணத்தில் உள்ள பெண் சட்டத்தரணி ஒருவரை நாடி , வெளிநாட்டில் உள்ள தம்பதியினருக்கு யாழ்ப்பாணத்தில் விவாகரத்து பெற்று தருமாறு கோரியுள்ளார்.
+Two people from Jaffna are married and live in Italy. Between them, a few years ago, the two were separated in Italy.
+
+The man has told his sister who lives in Chavakachcheri in Chavakachcheri to take steps to apply for a divorce in Jaffna and get a divorce.
+
+The sister then sought a female lawyer in Jaffna and asked for a divorce in Jaffna for a couple abroad.
+
+Subsequently, the lawyer has appointed two of his junior lawyers to appoint a husband and one to a wife, applied for the issue of the Chavakachcheri court, prosecuted the case, and divorced the two who are not in the country.
+
+After a divorce, the woman, who was living in Italy, had already been divorced when she had come to Jaffna and took up a court proceedings through another lawyer.
+
+Investigations have been carried out in the Chavakachcheri court after the court informed him how to divorce as he was not in the country.
 
 ...
 
 [Data](articles/de1a96cd.json)
+
+[Extended Data](ext_articles/de1a96cd.ext.json)
 
 ---
 
@@ -284,6 +378,26 @@ Kuhadasan nominated to fill Sampanthan’s MP seat by Adaderana Online on Scribd
 
 ---
 
+### අල්ටෙයාර් ගොඩනැගිල්ලෙන් පැන ජාත්‍යන්තර පාසලක සිදුවෙක් හා සිසුවියක් දිවි නසා ගනියි
+
+*2024-07-03 09:39:45* · [`adalk`](https://www.ada.lk/breaking_news/අල්ටෙයාර්-ගොඩනැගිල්ලෙන්-පැන-ජාත්‍යන්තර-පාසලක-සිදුවෙක්-හා-සිසුවියක්-දිවි-නසා-ගනියි/11-410584) · `si`
+
+කොළඹ කුරුඳුවත්තේ ජාත්‍යන්තර පාසලක ඉගෙනුම ලබන  15 හැවිරිදි  සිසුවෙක් සහ සිසුවියක් කොම්පඤ්ඤවීදිය අල්ටෙයාර් සුඛෝභෝගී නිවාස සංකීර්ණයේ 67 මහලින්පැන සියදිවි නසාගෙන ඇතැයි කොම්පඤ්ඤවීදිය පොලිසිය කියයි.
+
+මෙලෙස මියගොස් ඇත්තේ වැල්ලවත්ත සහ කැලණිය පදිංචි සිසුවෙක් සහ සිසුවියක්ය.
+
+මියගිය සිසුවිය සහ සිසුවා ජාත්‍යන්තර පාසලේ එකම පංතියක ඉගෙනුම ලබන අතර පාසල නිමවීමෙන් අනතුරුව ත්‍රීරෝද රථයක නැග පැමිණ ඇති බව පොලිස් විමර්ශන වලදී අනාවරණය වී ඇත.
+
+පසුව ඔවුන් දෙදෙනා එහි පැවැති සාදයකට එක්ව තිබේ. එම සුඛෝභෝගී මහල් නිවාස සංකීර්ණයේ 67 වන මහලින් බිමට පැන ඇති ඔවුන් දෙදෙනා එහි 3 වන මහලට වැටී ඇති බව විමර්ශනවලදී අනාවරණය වී ඇත
+
+කොම්පඤ්ඤ වීදිය පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක කපිල විජයමාන්න මහතාගේ උපදෙස් මත විමර්ශන සිදු කෙරේ
+
+◼️
+
+[Data](articles/16a81415.json)
+
+---
+
 ### Fatal accidents that have been killed
 
 *2024-07-03 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198434) · `si`
@@ -390,6 +504,28 @@ According to the International Robotics Federation, one robot is employed in Sou
 
 ---
 
+### Sri Lanka rupee opens stronger at 303.00/50 to US dollar
+
+*2024-07-03 09:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-303-00-50-to-us-dollar-170648/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 303.00/50 to the US dollar on Wednesday, while bond yields were broadly steady, and stocks opened 0.03 percent up, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.80/95 percent, up 10.85/11.00 percent.
+
+A bond maturing on 15.03.2028 was quoted at 11.90/12.00 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 12.10/20 percent.
+
+A bond maturing on 15.05.2030 was quoted at 12.15/40 percent.
+
+In equities, Colombo’s All Share Price Index opened 3.56 points higher at 12,121, while the S&P SL20 of more liquid stocks opened up at 0.17 percent or 6.02 points to 3,580.
+
+◼️
+
+[Data](articles/c1e84e78.json)
+
+---
+
 ### Fire at a series of apartments in Etiyantota;Two people die!
 
 *2024-07-03 09:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/187553) · `ta`
@@ -479,6 +615,26 @@ Meanwhile, a special tribute event will be held by the Jaffna constituency branc
 [Data](articles/d31578f4.json)
 
 [Extended Data](ext_articles/d31578f4.ext.json)
+
+---
+
+### Sri Lanka, Japan discuss resuming stalled projects under yen loans
+
+*2024-07-03 08:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-japan-discuss-resuming-stalled-projects-under-yen-loans-170641/) · `en`
+
+ECONOMYNEXT – Sri Lanka and Japan have discussed resuming suspended projects under yen loans, its foreign minister said.
+
+“We also addressed the resumption of suspended projects under yen loans, with a commitment to expedite the necessary formalities,” M U M Ali Sabry said on X (twitter).
+
+“Additionally, we discussed opportunities for increasing Japanese investment in Sri Lanka and expanding employment prospects for Sri Lankans in Japan across various sectors.”
+
+Sabry is currently in Tokyo, Japan where he met Foreign Minister of Japan Kamikawa Yoko to improve bilateral relations.
+
+“We explored various avenues to deepen cooperation across multiple dimensions and expressed our gratitude to Japan for its leadership as a co-chair of the OCC in facilitating the bilateral debt restructuring process.”
+
+...
+
+[Data](articles/d220c26b.json)
 
 ---
 
@@ -617,6 +773,30 @@ R. Mr. Sampanthan's body will be taken tomorrow (04) and will be deposited for p
 [Data](articles/1209a289.json)
 
 [Extended Data](ext_articles/1209a289.ext.json)
+
+---
+
+### Sri Lanka CPC oil imports, sales, fall with entry of new players
+
+*2024-07-03 07:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-cpc-oil-imports-sales-fall-with-entry-of-new-players-170638/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Petroleum Corporation had spent 648.7 million US dollars in oil imports in the first four months of 2024, down from 828.4 million dollars with the entry of other players, a Finance Ministry report said.
+
+CPC’s turnover fell to 389.1 billion rupees up to April 2024 down 16.6 percent from 389.1 billion rupees.
+
+Cost of sales fell by 13.5 percent to 337.4 billion rupees from 390.1 billion rupees.
+
+Crude prices had risen to around 89 dollars a barrel by end April 2024 from 77 dollars at end 2023.
+
+CPC had maintained profits making 13.6 billion rupees through a price formula, though down from 68.7 percent from 43.4 billion last year.
+
+Trade payables had fallen to 153 billion rupees from 181.2 billion rupees.
+
+The CPC had been directed in the past to take loans state banks and import oil whenever the central bank printed money to cut policy rates.
+
+...
+
+[Data](articles/1915a725.json)
 
 ---
 
@@ -2103,183 +2283,5 @@ The General Secretary of the JVP MP Ranjith Madduma Bandara stated that the prop
 [Data](articles/44f98902.json)
 
 [Extended Data](ext_articles/44f98902.ext.json)
-
----
-
-### President, political leaders, public tribute to Sambandan
-
-*2024-07-02 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/187512) · `ta`
-
-Rajavarothayam Sambandan, a senior leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian, was honored with a private floral tribute in Colombo. President Ranil Wickremesinghe, political dignitaries, civilians, and party members attended. His funeral, scheduled for the 7th, will take place at the Annara's residence in Trincomalee. Sambandan, aged 91, was also a key figure in the Sri Lanka Tamil National Alliance (TNA) and served as the former opposition leader.
-
-🟩
-
-Senior Leader of the Late Sri Lanka Tamil National Party and Trincomalee District Parliamentarian Rajavarothayam Sambandan has been placed at a private flower in Colombo today (02) for the tribute to the people of the country.
-
-President Ranil Wickremesinghe, political dignitaries, civilians and party members paid tribute to his funeral.
-
-The funeral will be carried out on the 7th of this month at the Annara's residence in Trincomalee.
-
-Senior leader of the Sri Lanka Tamil National Alliance (TNA) and former opposition leader, R. Sampanthan, passed away on Sunday (30) at the age of 91.
-
-◼️
-
-[Data](articles/dd35ed30.json)
-
-[Extended Data](ext_articles/dd35ed30.ext.json)
-
----
-
-### EXPLAINER: Sri Lanka’s deal on debt restructuring with bilateral creditors
-
-*2024-07-02 18:34:00* · [`economynextcom`](https://economynext.com/explainer-sri-lankas-deal-on-debt-restructuring-with-bilateral-creditors-170620/) · `en`
-
-ECONOMYNEXT – Sri Lanka reached a deal with its bilateral creditors last week and President Ranil Wickremesinghe government’s supporters celebrated the milestone with fire crackers.
-
-The bilateral loans accounted for US$10 billion out of the total US$37 billion foreign loans, the government data show.
-
-The island nation is set to start the second round of negotiation with its commercials creditors and sovereign bond holders, government officials have said.
-
-Here are some questions (Q) and answers (A) over what Sri Lanka’s deal on bilateral debt restructuring mean:
-
-...
-
-[Data](articles/96e114db.json)
-
-[Extended Data](ext_articles/96e114db.ext.json)
-
----
-
-### Dayasja prohibits the expel from the SLFP General Secretary
-
-*2024-07-02 18:31:54* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරිව-ශ්‍රීලනිප-මහ-ලේකම්-ධුරයෙන්-නෙරපීම-තහනම්-කරයි/11-410574) · `si`
-
-Anura Wickremesinghe, Colombo Additional District Judge, issued an interim injunction against SLFP banning its Deputy Secretary Maithripala Sirisena and MP Dayasiri Jayasekera. This action came after the party's chairman, Maithripala Sirisena, received letters from the party's secretary and the Commissioner of Elections. Legal representatives argued the ban was illegal, leading to protests and counterarguments. The judge then ordered the implementation of the interim injunction based on the submissions.
-
-🟩
-
-Colombo Additional District Judge Anura Wickremesinghe today issued an interim injury to the Deputy Secretary to the deputy secretary Maithripala Sirisena and the Deputy Secretary to ban MP Dayasiri Jayasekera.
-
-Dayasiri Jayasekera, the former Chairman of the party and former President Maithripala Sirisena and former President Maithripala Sirisena and the Deputy Secretary of the party Sarath Ekanayake made the interim ban on September 08.
-
-As the Chairman of the party, Maithripala Sirisena has been assigned the letter issued by the party's secretary to the party and the letter sent to the Commissioner of Elections on September 5.
-
-Legal SB of Petitiokara Dayasiri Jayasekara on behalf of the petitioner Dayasiri Jayasekara when he was summoned. The law issued by the Presidential Counsel Ecuky Eyckom Mohammed and Jagath Wickramanayaka, who appeared on the instructions of Dissanayake said the law issued the letter of power and illegal.
-
-...
-
-[Data](articles/f5159621.json)
-
-[Extended Data](ext_articles/f5159621.ext.json)
-
----
-
-### About 60 people feared dead in stampede at religious event in north India
-
-*2024-07-02 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100250/about-60-people-feared-dead-in-stampede-at-religious-event-in-north-india) · `en`
-
-About 60 people were feared dead in a stampede at a religious event in India’s northern state of Uttar Pradesh on Tuesday, authorities said.
-
-The stampede happened in a village in Hathras district, about 200 km (125 miles) southeast of national capital New Delhi.
-
-“I can’t give the exact toll at the moment, but it is approximately 60 ... There is a possibility that the toll may go up,” Manish Chikara, a district police spokesperson, told Reuters by phone.
-
-Unverified videos on social media showed bodies piled up on the ground outside a local hospital. Reuters could not immediately verify the videos.
-
-State Chief Minister Yogi Adityanath ordered an investigation into the incident.
-
-“Instructions have been given to the concerned officials to conduct relief and rescue operations on war footing and to provide proper treatment to the injured,” he wrote on X.
-
-◼️
-
-[Data](articles/5dcea2f8.json)
-
-[Extended Data](ext_articles/5dcea2f8.ext.json)
-
----
-
-### Chinese President arrives in Blackana
-
-*2024-07-02 18:16:25* · [`adalk`](https://www.ada.lk/breaking_news/චීන-ජනපති-අස්තානා-නුවරට-ළඟාවෙයි/11-410573) · `si`
-
-Chinese President Xi Jinping lands in Kazakhstan for the 24th Shanghai Cooperation Organization session, greeted by President Tokaev. His arrival includes two military planes for security.
-
-🟩
-
-Chinese President Xi Jinping arrives in the Black Kazi. He was reach out on a special plane today (02). Kazakoon President Kazim-Jomart Tookayev was welcomed at the airport at the airport.
-
-The Chinese President arrived at the Third Session 24, attending the 24th session of the members of the Shanghai Cooperation Organization.
-
-Upon entering the Kazakoon airspace, Shi Jinping had employed 2 military aircraft for the safety of the aircraft arrived.
-
-◼️
-
-[Data](articles/d5c602bf.json)
-
-[Extended Data](ext_articles/d5c602bf.ext.json)
-
----
-
-### Laugfs gas prices to remain unchanged
-
-*2024-07-02 18:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100249/laugfs-gas-prices-to-remain-unchanged) · `en`
-
-The price of Laugfs domestic LP gas cylinders will remain unchanged, despite price reductions made by Litro Gas PLC today (02), the company announced.
-
-Accordingly, the current prices of Laugfs domestic LP gas cylinders are as follows;
-
-Earlier today, Litro Gas PLC slashed the prices of its domestic LP gas cylinders, citing that even though the global market prices are in the upward trend, the company decided to give relief to its consumers based on structural cost reduction initiatives and efficient stock management.
-
-The new prices of Litro domestic LP Gas cylinders are as follows;
-
-◼️
-
-[Data](articles/ff339d11.json)
-
-[Extended Data](ext_articles/ff339d11.ext.json)
-
----
-
-### All projects suspended in Sri Lanka
-
-*2024-07-02 18:05:25* · [`adalk`](https://www.ada.lk/breaking_news/ජපානය-ලංකාව-තුළ-අත්හිටවූ-සියලු-ව්‍යාපෘති-නැවත-ආරඹයි/11-410572) · `si`
-
-Sri Lanka's Prime Minister Dinesh Gunawardena emphasizes protecting the economy amidst challenges, highlighting Japan's commitment to resume suspended projects. He mentions the distribution of Nescaf machines, funded by the Chinese government, to aid the country's recovery. The PM addresses the hardships faced, including financial crises and the impact of wars, while emphasizing the importance of unity and international support. He discusses efforts to restore confidence in the banking system and allocate resources effectively, including special programs for the elderly and low-income individuals. The speech underscores the government's focus on rebuilding the economy with support from both domestic and international partners, particularly China and Japan.
-
-🟩
-
-Prime Minister Dinesh Gunawardena says that we must protect the economy that has been used in the economy. He added that Japan has signed all agreements to be restored in Sri Lanka.
-
-The Prime Minister made this statement participating at the ceremony at the Arangala Sanashe hall to distribute Nescaf machines to the Prime Minister's Office on the assistance of Chinese government.
-
-"You have always made all of you living in the crisis faced by the country. There are still people in the second war. It was heard about the time.We have taken a month for months that the Japanese bombarded. He took our school cities to remote areas. These really happened. Since we were so difficult, we had faced such a situation once again.
-
-...
-
-[Data](articles/ee576d37.json)
-
-[Extended Data](ext_articles/ee576d37.ext.json)
-
----
-
-### Beat in Homagama Police?
-
-*2024-07-02 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198419) · `si`
-
-An inquiry will be held after an attack in Homagama, where several were injured and one arrested. The incident involved clashes between individuals and police, resulting in hospitalizations.
-
-🟩
-
-Police Media Spokesperson DIG, Attorney-at-Law Nihal Talduuwa, an inquiry will be conducted regarding the attack on the attack.
-
-The incident was reported yesterday (01) and several others and several others were hospitalized.
-
-"A person was arrested in Homagama and brought to the police station. Four other people went to police to see him. It is about their clashes at the police. They say they were attacked at the police. A police officer was hospitalized ... "
-
-◼️
-
-[Data](articles/ccfdee84.json)
-
-[Extended Data](ext_articles/ccfdee84.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 19:35:10**
+As of **2024-07-03 19:53:47**
 
 ## Newspaper Stats
 
-*Scraped **33,519** Articles*
+*Scraped **33,522** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,99 @@ islandlk | 1,867
 economynextcom | 1,967
 dailyftlk | 2,068
 adalk | 2,991
-adaderanalk | 3,825
+adaderanalk | 3,826
 tamilmirrorlk | 3,967
 dailymirrorlk | 4,733
-virakesarilk | 5,240
+virakesarilk | 5,242
 adaderanasinhalalk | 5,554
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,518 (100.0%) of 33,519 articles have been extended.
+33,522 (100.0%) of 33,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### Gusal Perera was in vain;Jevna Kings beat Dambulla Sixers with 4 wickets
+
+*2024-07-03 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/187622) · `ta`
+
+In the 4th match of the 5th Lanka Premier League, Jevna Kings defeated Dambulla Sixers by 4 wickets, despite Kusal Janith Perera scoring a century for Dambulla. Jevna Kings' win was secured through partnerships from Avishka Fernando and Sarit Asalanka, and Azmatullah Omarzai and Babar's late-game contributions. Mustafizur Rahman and Nuwan Dushara were key bowlers for Jevna Kings.
+
+🟩
+
+Former Champion Jevna Kings won the Sixers in the 4th match of the 5th Lanka Premier League held at the Pallekele International Cricket Stadium on Wednesday (03).
+
+Jevna Kings won the last ball in the up -the -up match.
+
+Although Kusal Janith Perera scored a century on behalf of Dambulla Sixers, half -centuries of Avishka Fernando and Sarit Asalananka was wasting it and helped Jevna Kings to win.
+
+Dambulla Sixers scored 191 runs for the loss of only 2 wickets in 20 overs.
+
+Through this, Gusal Perera is the pride of the first century in the Fifth Lanka Premier League Cricket Chapter.
+
+The total number of Dambulla Sixers was 18 runs when the opening player Dhanushka Gunathilaka lost 9 runs.
+
+However, Kusal Perera was struck by Nuwanidu Fernando and strengthened the team by sharing 108 runs in the 2nd wicket and 65 runs in the 3rd wicket that was not divided with Mark Sabman.
+
+Gusal Perera did not lose 52 balls with 102 pounds and 5 sixes.
+
+Nuwnidu Fernando scored 40 runs and Mark Sabman scored 33 runs.
+
+...
+
+[Data](articles/c57d6547.json)
+
+[Extended Data](ext_articles/c57d6547.ext.json)
+
+---
+
+### Three new appointments by the Governor of the Northern Province
+
+*2024-07-03 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/187621) · `ta`
+
+BSMM, Governor of the Northern Province, appointed K. Kanjana as Commissioner of the Northern Provincial Motor Transport Department and the Department of Children's Welfare, and Mrs. A. Ezhilarasi as Deputy Chief Secretary of the Northern Province Administration, effective from Wednesday (03).
+
+🟩
+
+Governor of the Northern Province BSMM has appointed new authorities for the post of Commissioner of two departments for the Northern Province and the Deputy Chief Secretary of the Provincial Council.. Charles presented on Wednesday (03).
+
+K. Kanjana has been appointed as the Commissioner of the Northern Provincial Motor Transport Department as the Commissioner of the Northern Province Department of Children's Welfare, and Mrs. A. Ezhilarasi has been appointed as the Deputy Chief Secretary of the Northern Province (Administration).
+
+The letters for them were presented at the Governor of the Northern Province on Wednesday (03).
+
+◼️
+
+[Data](articles/5a4edce4.json)
+
+[Extended Data](ext_articles/5a4edce4.ext.json)
+
+---
+
+### Japan welcomes Sri Lanka’s debt restructuring efforts
+
+*2024-07-03 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100275/japan-welcomes-sri-lankas-debt-restructuring-efforts) · `en`
+
+Japanese Foreign Minister Yoko Kamikawa on Tuesday praised Sri Lanka’s recent efforts to address its economic crisis and debt restructuring, following the South Asian country’s agreement with creditor nations, according to the Japanese government.
+
+Kamikawa met with her Sri Lankan counterpart, Ali Sabry, in Tokyo, and they agreed that their countries will further promote exchanges of human resources, according to the Japanese Foreign Ministry.
+
+Sri Lanka announced last week it had reached a debt restructuring deal covering about $5.8 billion with creditor countries, including China, its largest bilateral lender, and Japan.
+
+Sri Lanka defaulted on its foreign debt in 2022, triggering an economic crisis.
+
+Kamikawa and Sabry last held talks in May in Colombo, affirming their commitment to work together toward the “transparent” restructuring of the country’s debt.
+
+◼️
+
+[Data](articles/ed41843d.json)
+
+[Extended Data](ext_articles/ed41843d.ext.json)
+
+---
 
 ### JAPNA wins super
 
@@ -296,19 +374,27 @@ A press conference held at the Health Promotion Bureau this morning (03) was spe
 
 ---
 
-### එතෙර සුපිරි වෙළඳසැල්වල රැකියා පෙන්වා මුදල් ගැරූ දෙමටගොඩ ෂිෆ්නා අත්අඩංගුවට
+### Shuphna arrested for gateway to rape jobs in overseas supermarkets
 
 *2024-07-03 16:54:21* · [`adalk`](https://www.ada.lk/breaking_news/එතෙර-සුපිරි-වෙළඳසැල්වල-රැකියා-පෙන්වා-මුදල්-ගැරූ-දෙමටගොඩ-ෂිෆ්නා-අත්අඩංගුවට/11-410592) · `si`
 
-ඩුබායි හා කටාර් රාජ්‍යවල රැකියා ලබාදෙන බව පවසා මුදල් වංචාකළ කාන්තාවක් ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් ඊයේ දින (07/02) අත්අඩංගුවට ගෙන තිබේ.
+A woman from Dematagoda, Sri Lanka, was arrested for allegedly providing false employment opportunities in Dubai and Qatar supermarkets. The arrest followed complaints to the Sri Lanka Foreign Employment Bureau. The Bureau advises checking SLBFE or calling 1989 for verifying job agencies before seeking foreign employment.
 
-දෙමටගොඩ ප්‍රදේශයේ පදිංචි කාන්තාවක් විසින් ඩුබායි හා කටාර් යන රටවල සුපිරි වෙළඳසැල්වල රැකියා ලබාදෙන බව පවසා දෙමටගොඩ ප්‍රදේශයේම පදිංචි පුද්ගලයින් තිදෙනෙකුගෙන් රුපියල් ලක්ෂ 4, ලක්ෂ 2.5 හා ලක්ෂ 1.5 බැගින් මුදල් ලබාගෙන පොරොන්දු වූ පරිදි රැකියාව ලබා නොදුන් බවට කාර්යාංශයේ විශේෂ විමර්ශන අංශයට පැමිණිලි 3ක් ලැබී තිබේ.
+🟩
 
-ඒ අනුව, විමර්ශන නිළධාරීන් විසින් අදාළ කාන්තාව දෙමටගොඩ ප්‍රදේශයේදී අත්අඩංගුවට ගත් අතර, ඇයගෙන් වැඩිදුර ප්‍රශ්න කිරීම් සිදුකර ඊයේ රාත්‍රියේ තලංගම පොලිස් ස්ථානයේ රඳවා තබා අද දින (7/3) මාළිගාකන්ද මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතව ඇත.
+A woman was arrested by the Sri Lanka Foreign Employment Bureau yesterday (07) yesterday.
 
-...
+The Bureau's Special Investigation Division has received three complaints that a resident of Dematagoda has provided employment to the supermarkets of Dubai and Qatar.
+
+Accordingly, the woman was arrested in the Dematagoda area and was to be produced at the Talangama Police Station last night.
+
+WWW.SLBFE to find out if a company or a person has a valid job agency to recruit a foreign employment or a valid job agency to get a foreign employment for foreign employment.The Bureau urges foreign employment seekers to obtain information by visiting the LK website or addressing the 1989 instant call number.
+
+◼️
 
 [Data](articles/0ffbae75.json)
+
+[Extended Data](ext_articles/0ffbae75.ext.json)
 
 ---
 
@@ -2337,69 +2423,5 @@ Excise Commissioner. J. Mr. Gunasiri said this is a growth of 17 billion rupees 
 [Data](articles/367b63ec.json)
 
 [Extended Data](ext_articles/367b63ec.ext.json)
-
----
-
-### More information about the children who died from 67th floor
-
-*2024-07-03 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198428) · `si`
-
-Two students, aged 15, from Colombo International School and Kelaniya, committed suicide from the 67th floor of a luxury housing complex in Slave Island. They were classmates. Investigations are ongoing to determine the cause.
-
-🟩
-
-A 15-year-old student and a student had committed suicide from the 67th floor of a luxury housing complex in Slave Island.
-
-Slave Island Police said that a student and a student of a resident of Kelaniya had died.
-
-It has also been revealed that the deceased and the student was in the same class in Colombo International School.
-
-Police said that the Slave has begun investigations into the incident and the cause of suicide has not been revealed yet.
-
-◼️
-
-[Data](articles/6deea740.json)
-
-[Extended Data](ext_articles/6deea740.ext.json)
-
----
-
-### Fire breaks into a row of estate houses - two killed
-
-*2024-07-03 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198427) · `si`
-
-In Palellagoda, Yatiyantota, a fire destroyed three houses, killing a 60-year-old man and a 50-year-old woman. The cause remains unknown.
-
-🟩
-
-Two people have been killed in a fire caused to the plantation housing row in Palellagoda, Yatiyantota.
-
-A 60-year-old male and 50 year old woman who had been waiting in the first estate home was killed.
-
-Three houses have been damaged in fire and the cause of the fire has not been revealed yet.
-
-◼️
-
-[Data](articles/76827322.json)
-
-[Extended Data](ext_articles/76827322.ext.json)
-
----
-
-### Weather today
-
-*2024-07-03 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198426) · `si`
-
-Showers expected in Western, Sabaragamuwa Provinces; Kandy, Nuwara Elamuwa, Galle, Matara districts affected.
-
-🟩
-
-The Department of Meteorology announces that showers in the Western and Sabaragamuwa Provincial and Sabaragamuwa provinces can be held in the Kandy, Nuwara Elamuwa, Galle and Matara districts.
-
-◼️
-
-[Data](articles/5a7ab50e.json)
-
-[Extended Data](ext_articles/5a7ab50e.ext.json)
 
 ---

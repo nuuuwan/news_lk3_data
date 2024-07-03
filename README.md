@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 21:54:40**
+As of **2024-07-03 22:07:54**
 
 ## Newspaper Stats
 
-*Scraped **33,529** Articles*
+*Scraped **33,530** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,827
 tamilmirrorlk | 3,967
 dailymirrorlk | 4,733
 virakesarilk | 5,242
-adaderanasinhalalk | 5,557
+adaderanasinhalalk | 5,558
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,527 (100.0%) of 33,529 articles have been extended.
+33,529 (100.0%) of 33,530 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### එක්දරු මවකගේ ගර්භාෂයේ කිලෝ 15ක් බර ගෙඩියක්
+
+*2024-07-03 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198459) · `si`
+
+වීරකැටිය ප්‍රදේශයේ පදිංචි වයස අවුරුදු 38ක එක්දරු මවකගේ ගර්භාෂයේ තිබූ කිලෝග්‍රෑම් 15ක් පමණ වූ ගෙඩියක් සාර්ථක ලෙස සැත්කමක් මගින් අද (03) ඉවත් කර තිබේ.
+
+ඒ, හම්බන්තොට මහ රෝහලේ ප්‍රසව හා නාරිවේද විශේෂඥ වෛද්‍ය සමන්ත සමරවික්‍රම මහතා ඇතුළු කණ්ඩායමක් විසිනි.
+
+සැත්කමට භාජනය වූ මව යහපත් සෞඛ්‍ය තත්ත්වයකින් පසුවන බව රෝහල් ආරංචි මාර්ග සඳහන් කරයි.
+
+◼️
+
+[Data](articles/26b9c7b3.json)
+
+---
 
 ### Investigation into several policemen
 
@@ -76,25 +92,35 @@ Some influential Democrats have floated alternatives to Biden besides Harris, in
 
 [Data](articles/30b76b0b.json)
 
+[Extended Data](ext_articles/30b76b0b.ext.json)
+
 ---
 
-### ශ්‍රී ලංකන් විකුණන්නේ නැහැ
+### SriLankan's not selling
 
 *2024-07-03 20:32:45* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකන්-විකුණන්නේ-නැහැ/11-410595) · `si`
 
-ආජන්ටිනාව, ඉක්වදෝරය සහ ඝානාවේ 25%ක ණය කපා හැර තිබෙන්නේ ද්වීපාර්ශ්වික ණය සඳහා නොව වාණිජ ණය ( Commercial Loans) සඳහායි.
+SriLankan Airlines is not for sale; restructuring plans are underway. Credit lines to Argentina, Ecuador, and Ghana for bilateral loans are suspended. Negotiations with JICA on Japanese projects are scheduled. Minister Siripala de Silva emphasizes the importance of local investors for SriLankan Airlines. President Wickremesinghe discusses the country's economic progress and IMF-backed restructuring. Opposition Leader Premadasa highlights issues with commercial loan restructuring. The government is taking steps towards financial recovery and social security enhancements.
 
-ජපාන ව්‍යාපෘති නැවත ආරම්භ කිරීම පිළිබඳව JICA සමඟ ලබන සතියේ සාකච්ඡා කරනවා – වරාය,නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා.
+🟩
 
-ශ්‍රී ලංකන් ගුවන් සමාගම කිසි සේත්ම විකිණීමට කටයුතු නොකරන බවත් සිදු කරන්නේ ප්‍රතිව්‍යුහගතරණය කිරීමක් පමණක් බවත් වරාය, නාවික හා ගුවන් සේවා අමාත්‍යනිමල් සිරිපාල ද සිල්වා මහතා සඳහන් කළේය.
+Credit on Argentina, Ecuador and Ghana are cut off for bilateral loans, not bilateral loans (commercial).
 
-නීතිය අනුව පවා වෙනත් සමාගමකට ලබා දිය හැක්කේ ශ්‍රී ලංකන් ගුවන් සමාගමේ කොටස්වලින් 49% ක් පමණක් බවත් කෙසේ නමුත් මේ දක්වා ඊට සුදුසු ආයෝජකයකු ඉදිරිපත් වී නොමැති බවත් අමාත්‍යවරයා සඳහන් කළේය.
+Negotiating next week, JICA will be discussed with JICA on the resume of Japan projects - Nimal Siripala de Silva, Minister of Ports, Naval and Aviation.
 
-වරාය, නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (03) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Ports, Shipping and Aviation Minister Siripala de Silva said that SriLankan Airlines is not selling to sell and restructuring only a restructure.
+
+However, it is not only 49% of SriLankan Airlines, but it has not been a desirable investor.
+
+Minister Nimal Siripala de Silva, Minister of Ports, Naval and Aviation, was addressing a press conference held at the Presidential Media Center today (03).
+
+President Ranil Wickremesinghe explained the progress of the revenue restructuring of the country's economic advancement yesterday (02) in Parliament yesterday (02). If the opposition claims to be polite for political reasons, it should be said that it was a good message.
 
 ...
 
 [Data](articles/cbf5951a.json)
+
+[Extended Data](ext_articles/cbf5951a.ext.json)
 
 ---
 
@@ -2403,31 +2429,5 @@ The fire has damaged three estate houses, and the cause of the fire is yet to be
 [Data](articles/efa84ef4.json)
 
 [Extended Data](ext_articles/efa84ef4.ext.json)
-
----
-
-### A controversial statement from the ocean
-
-*2024-07-03 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198432) · `si`
-
-Savara Kariyawasam, UNP General Secretary, stated that President Ranil Wickremesinghe's leadership has led to his UNP membership but didn't confirm him as the common candidate for the upcoming presidential election. They discussed potential candidates without specifying individuals, indicating flexibility depending on future developments.
-
-🟩
-
-UNP General Secretary Savara Kariyawasam says President Ranil Wickremesinghe has led to the UNP membership of the United National Party and the party membership of the President.
-
-He was speaking to the media after a discussion held at the Civil Front Party headquarters.
-
-"We did not present regarding a person especially about the candidacy in the coming presidential election. The right person is presented at. Under the sign of our party, a candidate presents a candidate. "
-
-Q: Isn't the President Ranil Wickremesinghe become the common candidate?
-
-"A candidate on the Sri Lanka General Front is presented by the budget. He can also leave the UNP and bring the buds. If that happens, we will consider. "
-
-◼️
-
-[Data](articles/d8477afa.json)
-
-[Extended Data](ext_articles/d8477afa.ext.json)
 
 ---

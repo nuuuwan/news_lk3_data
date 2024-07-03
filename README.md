@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 07:01:21**
+As of **2024-07-03 07:24:54**
 
 ## Newspaper Stats
 
-*Scraped **33,407** Articles*
+*Scraped **33,409** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,27 +20,67 @@ adaderanalk | 3,807
 tamilmirrorlk | 3,951
 dailymirrorlk | 4,733
 virakesarilk | 5,222
-adaderanasinhalalk | 5,529
+adaderanasinhalalk | 5,531
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,395 (100.0%) of 33,407 articles have been extended.
+33,398 (100.0%) of 33,409 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
-### අද කාලගුණය
+### 67 වන මහලෙන් ඇදවැටී මියගිය දරුවන් ගැන තවත් තොරතුරු
+
+*2024-07-03 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198428) · `si`
+
+කොම්පඤ්ඤවීදියේ සුඛෝපභෝගී නිවාස සංකීර්ණයක 67 වන මහලෙන් පැන 15 හැවිරිදි සිසුවෙකු සහ සිසුවියක සියදිවි නසාගෙන තිබුණි.
+
+කොම්පඤ්ඤවීදිය පොලීසිය පැවසුවේ, වැල්ලවත්ත සහ කැලණිය ප්‍රදේශයේ පදිංචිව සිටි සිසුවෙකු සහ සිසුවියක මෙලෙස මියගොස් ඇති බවය.
+
+මියගිය සිසුවිය සහ සිසුවා කොළඹ ජාත්‍යන්තර පාසලක එකම පංතියක ඉගෙනුම ලබමින් සිටි දෙදෙනෙකු බවට ද අනාවරණය වී තිබේ.
+
+සිද්ධිය සම්බන්ධයෙන් කොම්පඤ්ඤ පොලීසිය මඟින් විමර්ශන ආරම්භ කර ඇති අතර සියදිවි හානි කර ගැනීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති බව පොලීසිය පැවසුවේය.
+
+◼️
+
+[Data](articles/6deea740.json)
+
+---
+
+### වතු නිවාස පේළියක ගින්නක් - දෙදෙනෙක් මරුට
+
+*2024-07-03 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198427) · `si`
+
+යටියන්තොට පැලැල්ලේගම ප්‍රදේශයේ වතු නිවාස පේළිය ඇති වූ ගින්නකින් පුද්ගලයින් දෙදෙනෙකු මියගොස් තිබේ.
+
+ගින්නෙන් පළමු වතු නිවාසයේ රැඳී සිටි 60 හැවිරිදි පිරිමි පුද්ගලයෙකු සහ 50 හැවිරිදි කාන්තාවක් මියගොස් ඇති බව පොලීසිය පවසයි.
+
+ගින්නෙන් වතු නිවාස 03 කට හානි සිදුව ඇති ඇති අතර ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති බව සඳහන්ය.
+
+◼️
+
+[Data](articles/76827322.json)
+
+---
+
+### Weather today
 
 *2024-07-03 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198426) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+Showers expected in Western, Sabaragamuwa Provinces; Kandy, Nuwara Elamuwa, Galle, Matara districts affected.
+
+🟩
+
+The Department of Meteorology announces that showers in the Western and Sabaragamuwa Provincial and Sabaragamuwa provinces can be held in the Kandy, Nuwara Elamuwa, Galle and Matara districts.
 
 ◼️
 
 [Data](articles/5a7ab50e.json)
+
+[Extended Data](ext_articles/5a7ab50e.ext.json)
 
 ---
 
@@ -88,6 +128,8 @@ Sri Lanka always ranks low in the World Happiness Index; 128 out of 148 in 2024 
 
 [Data](articles/60c218cb.json)
 
+[Extended Data](ext_articles/60c218cb.ext.json)
+
 ---
 
 ### The obstacle course I ran over four days to get an eVisa to Sri Lanka
@@ -101,6 +143,8 @@ I was born in Sri Lanka, live in the US, and visit my home country often. The ve
 ...
 
 [Data](articles/a812e4b1.json)
+
+[Extended Data](ext_articles/a812e4b1.ext.json)
 
 ---
 
@@ -2207,49 +2251,5 @@ women. It shows a significant disparity in the gender contribution rates of econ
 ...
 
 [Data](articles/3649dc15.json)
-
----
-
-### Japan confident Sri Lanka’s economy will continue to improve
-
-*2024-07-02 15:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100242/japan-confident-sri-lankas-economy-will-continue-to-improve-) · `en`
-
-Sri Lanka’s Minister of Foreign Affairs Ali Sabry PC has held discussions with former Foreign Minister and current Chief Cabinet Secretary of Japan Hayashi Yoshimasa on the vibrant Sri Lanka – Japan partnership.
-
-Sabry, who is on an official visit to Japan, has also shared views with Yoshimasa on way to further bolster the Sri Lanka – Japan engagement.
-
-The Sri Lankan Foreign Minister has provided an update of the latest economic situation and the progress of the debt restructuring process to Yoshimasa.
-
-Accordingly, Yoshimasa has expressed his confidence that Sri Lanka’s economy will continue to improve, as mentioned on a ‘X’ (formerly Twitter) post by Ali Sabry.
-
-“We also recalled Cabinet Secretary Hayashi’s visit to Sri Lanka in July 2023 and the warm & close association he has with Sri Lanka over the years”, he added.
-
-◼️
-
-[Data](articles/be1f63ef.json)
-
-[Extended Data](ext_articles/be1f63ef.ext.json)
-
----
-
-### Fishermen remanded with powder
-
-*2024-07-02 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198410) · `si`
-
-Six fishermen arrested with heroin at sea were remanded in court on February 2nd. Heroin found onboard was shown as evidence. They appeared before Colombo Magistrate No. 1 and were remanded until the 16th.
-
-🟩
-
-The six fishermen taken into custody with a stock of heroin at the deep sea were produced in court today (02).
-
-Our correspondent said that the heroin found in the midsthip was presented to the court.
-
-The suspects were produced before the Colombo Magistrate No. 1 and remanded on the 16th.
-
-◼️
-
-[Data](articles/7dea1748.json)
-
-[Extended Data](ext_articles/7dea1748.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 04:05:31**
+As of **2024-07-04 04:19:36**
 
 ## Newspaper Stats
 
-*Scraped **33,559** Articles*
+*Scraped **33,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 330
 newsfirstlk | 363
 islandlk | 1,867
 economynextcom | 1,967
-dailyftlk | 2,079
+dailyftlk | 2,083
 adalk | 2,996
 adaderanalk | 3,829
 tamilmirrorlk | 3,969
@@ -26,11 +26,81 @@ adaderanasinhalalk | 5,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,559 (100.0%) of 33,559 articles have been extended.
+33,559 (100.0%) of 33,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### Sri Lanka Ports Authority and Virginia Ports Authority, USA sign historic MOC
+
+*2024-07-04 03:44:52* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Ports-Authority-and-Virginia-Ports-Authority-USA-sign-historic-MOC/56-763837) · `en`
+
+Seated in front: SLPA Chairman Keith Bernard (left) and VPA General Council Sarah J. McCoy. Back row (from left): The Colombo Plan Program Assistant Tharushini Suriyaarachchi, The Colombo Plan Port of Colombo Capacity Building Project Lead Consultant Rohan Masakorala, Ministry of Ports Shipping and Aviation Sri Lanka Secretary K.D.S. Ruwanchandra, and VPA Director Federal Government Affairs Andrew M. Sinclair
+
+For the first time in history, the Sri Lanka Ports Authority (SLPA), signed a Memorandum of Cooperation (MOC) with Virginia Ports Authority (VPA) in the United States of America, where the two sides have agreed to enter into a cooperative agreement for the mutual exchange of expertise and technical collaboration between the two ports.
+
+...
+
+[Data](articles/60992632.json)
+
+---
+
+### AKD says Ranil has no chance of getting tenure extension
+
+*2024-07-04 03:40:38* · [`dailyftlk`](https://www.ft.lk/news/AKD-says-Ranil-has-no-chance-of-getting-tenure-extension/56-763836) · `en`
+
+National People’s Power (NPP) leader Anura Kumara Dissanayake yesterday said President Ranil Wickremesinghe has no chance of getting a one-year extension of his tenure as the Supreme Court has given a clear ruling in 2019 that the President’s tenure is five years.
+
+Dissanayake told the media in Colombo that the President and his group were trying to create confusion among the people about the Presidential election.
+
+“The Supreme Court has given a clear ruling in 2019 when the then President Maithripala Sirisena sought Supreme Court determination of the President’s tenure. The Supreme Court observed that the President’s tenure is restricted to five years as per the 19th Amendment to the Constitution,” he said.
+
+Dissanayake said the NPP never thinks that the President will get an extension of his term as per the ruling given by the Supreme Court in 2019.
+
+He said the NPP will defeat any conspiracies or tactics of the President and his group to secure power without facing the people.
+
+...
+
+[Data](articles/2ca42146.json)
+
+---
+
+### Supreme Court suspends criminal proceedings in X-Press Pearl case
+
+*2024-07-04 03:37:31* · [`dailyftlk`](https://www.ft.lk/news/Supreme-Court-suspends-criminal-proceedings-in-X-Press-Pearl-case/56-763835) · `en`
+
+The Supreme Court yesterday issued an interim order stating further proceedings relating to the indictment filed before the Colombo High Court against eight accused, including the Captain of the fire-ravaged container ship MV X-Press Pearl.
+
+The Supreme Court three-judge-bench comprising Justices A.H.M.D. Nawaz, Kumuduni Wickramasinghe and Priyantha Fernando issued this interim order pursuant to a special leave to appeal application filed by the accused-petitioners challenging the Court of Appeal decision to dismiss their revision applications. This interim order will be effective till 12 February next year.
+
+The Attorney General filed the indictment against eight accused before the Colombo High Court, charging them on eight counts in terms of Section 26(a) of the Marine Pollution Prevention Act No. 35 of 2008 for the destruction caused to the coastal areas of the country within the territorial waters of Sri Lanka.
+
+...
+
+[Data](articles/55e34197.json)
+
+---
+
+### HRCSL makes strong recommendations over prefects’ appointments at Royal College
+
+*2024-07-04 03:37:03* · [`dailyftlk`](https://www.ft.lk/news/HRCSL-makes-strong-recommendations-over-prefects-appointments-at-Royal-College/56-763834) · `en`
+
+The Human Rights Commission of Sri Lanka (HRCSL) has issued a set of recommendations to Royal College, Colombo 7, pertaining to alleged irregularities in the appointments of the Prefects Council for the year 2023/2024.
+
+In its recommendations, the HRCSL insists that Royal College appoint one of the complainant students, M.G. Jayawardena as a prefect as he has achieved a mark exceeding the cut-off of 27.
+
+The Commission also recommends that the Principal of Royal College investigates a complaint filed by one of the complainants, M. Pathberiya alleging mistreatment by members of the Prefects Council.
+
+Furthermore, the HRCSL suggests that the Royal College Principal discusses with the tutorial staff on the appointment of two prefects who do not meet the relevant criteria.
+
+The Commission is also awaiting the outcome of an investigation by the Education Ministry into the submission of false documents by Royal College to the Commission inquiry regarding the appointment of two prefects.
+
+...
+
+[Data](articles/8bb09636.json)
+
+---
 
 ### EDB partners with Swiss SECO to launch GTEX2 to boost apparel industry
 
@@ -2251,95 +2321,5 @@ The president, who requested that everyone prioritize children’s education, al
 [Data](articles/2330c925.json)
 
 [Extended Data](ext_articles/2330c925.ext.json)
-
----
-
-### Kahanthawela joined the UNP
-
-*2024-07-03 11:44:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-கவில்-இணைந்தார்-கஹந்தவெல/175-339812) · `ta`
-
-Mahinda Kahanthawela, ex-Colombo Municipal Council member, joins the United National Party, backing President Ranil Wickremesinghe.
-
-🟩
-
-Mahinda Kahanthawela, a former member of the Sri Lanka PA's Colombo Municipal Council, has joined the United National Party and has pledged his support to the current President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/947ea6f3.json)
-
-[Extended Data](ext_articles/947ea6f3.ext.json)
-
----
-
-### A student who refuses to go to school due to the teacher attacked;The incident in Mullaithivu
-
-*2024-07-03 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/187572) · `ta`
-
-A student boycotted school after a teacher assaulted the head of another student in Mullaithivu. The teacher allegedly avoided discussing the incident with the police and parents, despite the victim being hospitalized.
-
-🟩
-
-It is alleged that the student was refusing to go to school as a teacher attacked the head of a quality student in a school under the Mullaitivu Educational Zone.
-
-On the 19th, a school student was attacked by a teacher's head.
-
-In this case, the parents were refused to go to school, but the parents were informed that they were talking to the teacher of the Chancellor, even though the parents were trying to meet with the teacher who was involved in the incident.
-
-However, the Mullaitivu police have informed the Mullaitivu police about the matter and the teacher did not discuss the incident.
-
-Parents were informed that the police had instructed the student to be admitted to the hospital.
-
-◼️
-
-[Data](articles/f0a317fd.json)
-
-[Extended Data](ext_articles/f0a317fd.ext.json)
-
----
-
-### President's new appointments
-
-*2024-07-03 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198441) · `si`
-
-President Ranil Wickremesinghe chaired a meeting where he announced new appointments, including 1,706 graduates and 453 English diploma holders as teachers. The event started at Temple Trees.
-
-🟩
-
-President Ranil Wickremesinghe was chaired by President Ranil Wickremesinghe.
-
-The General of the Meeting Unit said that the ceremony had begun at Temple Trees a short while ago.
-
-In addition to these appointments, 1,706 graduates and 453 English diploma holders have been given teachers' appointees.
-
-◼️
-
-[Data](articles/caa6fcb2.json)
-
-[Extended Data](ext_articles/caa6fcb2.ext.json)
-
----
-
-### In the middle of a heavy defense to beef court
-
-*2024-07-03 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198440) · `si`
-
-The Colombo High Court, under Judge Timith Thotawatte, charged three individuals as major drug dealers, based on a CID investigation. The trial, held amidst tight security, included a pre-trial conference on July 29th.
-
-🟩
-
-The Colombo High School was prescribed by the Criminal Investigation Department (CID) was a strong drug dealer, including Senior Drug Trafficking against three defendants. July 29, Colombo.
-
-The case was called before Colombo High Court Judge Timith Thotawatte.
-
-The beef has been produced in court in the middle of the heavy security measures.
-
-After considering all the facts that, the judge also prescribed the previous pre-trial conference on July 29.
-
-◼️
-
-[Data](articles/b6ca1b3e.json)
-
-[Extended Data](ext_articles/b6ca1b3e.ext.json)
 
 ---

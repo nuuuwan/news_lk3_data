@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 18:37:44**
+As of **2024-07-03 18:54:10**
 
 ## Newspaper Stats
 
-*Scraped **33,516** Articles*
+*Scraped **33,518** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,64 @@ colombotelegraphcom | 307
 bbccomsinhala | 330
 newsfirstlk | 363
 islandlk | 1,867
-economynextcom | 1,966
+economynextcom | 1,967
 dailyftlk | 2,068
 adalk | 2,990
 adaderanalk | 3,825
 tamilmirrorlk | 3,967
 dailymirrorlk | 4,733
 virakesarilk | 5,240
-adaderanasinhalalk | 5,553
+adaderanasinhalalk | 5,554
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,515 (100.0%) of 33,516 articles have been extended.
+33,516 (100.0%) of 33,518 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### ජැෆ්නා සුපිරි ජයක් ලබයි
+
+*2024-07-03 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198454) · `si`
+
+LPL ක්‍රිකට් තරගාවලියේ දඹුල්ල සික්ස්සර්ස් කණ්ඩායම සහ ජැෆ්නා කිංග්ස් කණ්ඩායම අතර අද (03) පැවැති තරගයෙන් කඩුලු 04ක ජයක් වාර්තා කිරීමට ජැෆ්නා කණ්ඩායම සමත් විය.
+
+තරගයේ කාසියේ වාසිය දිනු ජැෆ්නා කණ්ඩායම පළමුව පන්දුවට පහරදීමේ අවස්ථාව දඹුල්ල කණ්ඩායමට ලබාදුනි.
+
+ඒ අනුව දඹුල්ල කණ්ඩායම නියමිත පන්දුවාර 20 තුළ කඩුලු 2ක් පමණක් දැවී ලකුණු 191ක් රැස් කළේය.
+
+පිළිතුරු ඉනිම ක්‍රීඩා කළ ජැෆ්නා කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 06ක් දැවී ලකුණු 197ක් ලබා සිය ජයග්‍රහණය වාර්තා කළේය.
+
+මෙහිදී දඹුල්ල කණ්ඩායම වෙනුවෙන් කුසල් පෙරේරා නොදැවී පන්දු 52ක් තුළ ලකුණු 102ක් රැස් කළේය.
+
+◼️
+
+[Data](articles/7f30e103.json)
+
+---
+
+### Sri Lanka port trade unions protest increase in female labor force
+
+*2024-07-03 18:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-trade-unions-protest-increase-in-female-labor-force-170719/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s port trade unions have protested the increase of female gantry crane operators despite the port employing only 10 females working in the role, Minister of Ports, Shipping and Aviation, Nimal Siripala De Silva said.
+
+“I want to recruit them but these people are saying there are other people who have been working in the harbor for a long time they must be upgraded without taking ladies,” De Silva told reporters on Wednesday.
+
+Sri Lanka currently has only 10 female gantry crane operators, however, the Ministry of Ports has been attempting to increase the female labor force among gantry workers at the insistence of the International Labor Organization, which suggested that Sri Lanka practice gender equality in its ports.
+
+Sri Lanka port faces union opposition in increasing female workers: Minister
+
+“These ladies are surviving [in this environment] and working. They are very perfect workers,” De Silva said.
+
+...
+
+[Data](articles/4b9fba61.json)
+
+---
 
 ### Sri Lanka’s teachers must be disciplined: President
 
@@ -71,6 +111,8 @@ Addressing the press briefing titled “Collective Path to a Stable Country” a
 ...
 
 [Data](articles/ab270ded.json)
+
+[Extended Data](ext_articles/ab270ded.ext.json)
 
 ---
 
@@ -2351,37 +2393,5 @@ Sri Lanka’s world record for corruption, nepotism and bad governance is now be
 [Data](articles/c6361225.json)
 
 [Extended Data](ext_articles/c6361225.ext.json)
-
----
-
-### Ranasinghe Premadasa: From subaltern status to pinnacle of power
-
-*2024-07-03 05:34:05* · [`dailyftlk`](https://www.ft.lk/columns/Ranasinghe-Premadasa-From-subaltern-status-to-pinnacle-of-power/4-763788) · `en`
-
-Ranasinghe Premadasa, Sri Lanka’s one and only non-Govigama Prime Minister and President is the focus of this two-part article commemorating his birth centenary. The first part published last week traced in brief the early phases of Premadasa’s political journey (https://www.ft.lk/columns/Sri-Lanka-s-solitary-non-Govigama-Prime-Minister-and-President/4-763469). This second and final part – written with the aid of earlier writings – will record the remarkable rise to power of Ranasinghe Premadasa.
-
-As stated last week, the United National Party (UNP) was down in the doldrums after the general elections of 1970. The party was in a state of disarray after the poll in which the UNP got only 17 seats in a Parliament of 157 MPs. The United Front (UF) Government headed by Prime Minister Sirimavo Bandaranaike had 116 seats.
-
-...
-
-[Data](articles/264b1543.json)
-
-[Extended Data](ext_articles/264b1543.ext.json)
-
----
-
-### Unvisited places
-
-*2024-07-03 05:27:20* · [`dailyftlk`](https://www.ft.lk/columns/Unvisited-places/4-763787) · `en`
-
-If the executive presidency is not abolished, if the PTA stays (or is replaced by something as bad or even worse), if militarisation is not rolled back, if political monks continue to dictate terms and conditions to the country, what would system-change look like?
-
-“The night is an open book. But the world beyond the night remains a mystery.” – Louise Gluck (Before the Storm)
-
-...
-
-[Data](articles/60c218cb.json)
-
-[Extended Data](ext_articles/60c218cb.ext.json)
 
 ---

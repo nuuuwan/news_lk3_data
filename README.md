@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 09:19:50**
+As of **2024-07-03 09:35:06**
 
 ## Newspaper Stats
 
-*Scraped **33,419** Articles*
+*Scraped **33,422** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,866
 economynextcom | 1,954
 dailyftlk | 2,068
 adalk | 2,977
-adaderanalk | 3,809
-tamilmirrorlk | 3,954
+adaderanalk | 3,810
+tamilmirrorlk | 3,956
 dailymirrorlk | 4,733
 virakesarilk | 5,222
 adaderanasinhalalk | 5,534
@@ -26,11 +26,55 @@ adaderanasinhalalk | 5,534
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,419 (100.0%) of 33,419 articles have been extended.
+33,420 (100.0%) of 33,422 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### Excise revenue collection hits Rs. 105 billion so far this year
+
+*2024-07-03 09:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100257/excise-revenue-collection-hits-rs-105-billion-so-far-this-year) · `en`
+
+The Excise Department has successfully collected Rs. 105 billion in revenue so far this year, marking a significant increase of Rs. 17 billion compared to the same period last year.
+
+Excise Commissioner M. J. Gunasiri stated that by June 30, the department had reached its revenue target.
+
+Gunasiri highlighted that, “We have collected Rs. 105 billion as planned by the Excise Department by June 30. By this time last year, we had collected Rs. 88 billion.” He emphasized that the department had achieved a notable increase of Rs. 17 billion in revenue collection.
+
+The department had initially anticipated a revenue growth of Rs. 20 billion within the first half of the year.
+
+However, due to natural disasters and issues at a major production plant, they incurred a shortfall of approximately Rs. 3 billion.
+
+Gunasiri remarked that if not for these setbacks, they could have reached their target of Rs. 107 billion.
+
+...
+
+[Data](articles/1ae0672b.json)
+
+---
+
+### The student and the student who fell off the 67th floor die
+
+*2024-07-03 08:58:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/67ஆவது-மாடியிலிருந்து-விழுந்த-மாணவனும்-மாணவியும்-மரணம்/175-339793) · `ta`
+
+Two students, both 15 years old and classmates at an international school in Colombo, died after falling from the 67th floor of a luxury apartment in Kompanideru. Police suspect suicide and are investigating.
+
+🟩
+
+A 15 -year -old student and student died from the 67th floor of the luxury apartment in Kompanideru.
+
+It is also reported that the deceased student and student are studying in the same class at an international school in Colombo.
+
+Kompanitheeru police have launched an investigation into the incident and the police suspect that the two may commit suicide.. Remble
+
+◼️
+
+[Data](articles/f5dc6fe7.json)
+
+[Extended Data](ext_articles/f5dc6fe7.ext.json)
+
+---
 
 ### Two dead in fire at estate houses in Yatiyanthota
 
@@ -1081,6 +1125,18 @@ A 15 -year -old boy and a student who is educated at an international school in 
 [Data](articles/1faade96.json)
 
 [Extended Data](ext_articles/1faade96.ext.json)
+
+---
+
+### மாணவனும் மாணவியும் மாடியில் இருந்து குதித்து பலி
+
+*2024-07-02 22:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/மாணவனும்-மாணவியும்-மாடியில்-இருந்து-குதித்து-பலி/150-339781) · `ta`
+
+கொழும்பு குருந்துவத்தையில் உள்ள சர்வதேச பாடசாலை ஒன்றில் கல்வி கற்கும் 15 வயதுடைய சிறுவனும் மாணவியும் கொம்பனி வீதியிலுள்ள சொகுசு குடியிருப்பு கட்டிடத்தின் 67வது மாடியில் இருந்து குதித்து தற்கொலை செய்து கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/d930721b.json)
 
 ---
 
@@ -2205,77 +2261,5 @@ Although it is said that US $ 3.9 billion has been reassessed with China's Exim 
 [Data](articles/29c5fe2f.json)
 
 [Extended Data](ext_articles/29c5fe2f.ext.json)
-
----
-
-### Despite the president's foreign trips, the debt burden has not diminished - Sajith
-
-*2024-07-02 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/187511) · `ta`
-
-Sajith Premadasa criticized the current president for failing to negotiate significant debt discounts during foreign trips, unlike Ghana's Finance Minister who secured a 37% reduction through negotiations. He highlighted the missed opportunity to secure better terms for Sri Lanka's debt, drawing parallels with Argentina's successful negotiation in 2023.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that the President of Ghana's Finance Minister has directly negotiated with international bailouts and has been waiting for a 37% discount on the country's debt, but the president of our country who made many foreign trips cannot do so.
-
-Opposition Leader Sajith Premadasa said this while responding to his speech in Parliament on Tuesday (02).
-
-In 2023, the Argentina Finance Minister negotiated with the International Bailbreak Papermins and won their confidence and set a discount on debt.
-
-However, as the President of our country, as a finance minister, can have discussions with international bail -outs when engaged in foreign travels.
-
-However, despite the opportunity to reach the best agreement for our country, Sajith added that the president's inability could not be obtained.
-
-◼️
-
-[Data](articles/1f97345a.json)
-
-[Extended Data](ext_articles/1f97345a.ext.json)
-
----
-
-### The debate has been postponed because the debt renovation agreement is not fully signed - the leader of the Opposition
-
-*2024-07-02 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187495) · `ta`
-
-The Parliament session scheduled for Wednesday was postponed due to incomplete signing of a debt renovation agreement. The Opposition Leader highlighted that only two out of three necessary agreements were finalized, casting doubt over the proceedings. This decision was made during a meeting where it was initially planned to hold debates on debt reorganization on Tuesday and Wednesday, with the President's address set for Tuesday. However, the unsigned agreement led to the postponement of Wednesday's session.
-
-🟩
-
-Wednesday's session of Parliament. Not postponed for Sambandan. Only two of the 3 agreements on debt renovation have been signed.
-
-And when an agreement is not signed, it has been brought into the shadow of Parliament.. Opposition Leader Sajith Premadasa said that steps have been taken to postpone the session as this has emerged.
-
-At the meeting of the party leaders, it was decided that the two days of debate would be debated in Parliament on Tuesday and Wednesday in Parliament regarding debt reorganization.. In this case, the President's speech will only take place on Tuesday and that there is no parliamentary session on Wednesday.
-
-But it is not the case. Only two of the 3 agreements on credit restructuring have been signed and the event has been brought into the shadow of Parliament as a agreement has not been signed.. He said they decided to postpone the session on Wednesday because of this.
-
-Two agreements have been signed on the debt renovation and a further agreement is being held.
-
-...
-
-[Data](articles/42780579.json)
-
-[Extended Data](ext_articles/42780579.ext.json)
-
----
-
-### Appeals Court decision on Keheliya’s petition fixed for Aug. 01
-
-*2024-07-02 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100244/appeals-court-decision-on-keheliyas-petition-fixed-for-aug-01) · `en`
-
-This order was issued by the two-member Appeals Court bench comprising President of the Court of Appeal Nissanka Bandula Karunaratne and Justice Shashi Mahendran following an extensive consideration of the facts presented related to the petition today (02).
-
-Accordingly, the judge bench also ordered the related parties to file written submissions related to the case, if any, before July 15, 2024.
-
-When this petition was taken up for consideration today, President’s Counsel Chandaka Jayasundara, who appeared for the Sri Lanka Bar Association (BASL), pointed out that the former Health Minister was involved from the beginning to the end of the process of purchasing the drugs in question, which is the basis of this case.
-
-The President’s Counsel further mentioned that it is not possible to purchase such medicines without the knowledge of the then health minister.
-
-...
-
-[Data](articles/56133f9f.json)
-
-[Extended Data](ext_articles/56133f9f.ext.json)
 
 ---

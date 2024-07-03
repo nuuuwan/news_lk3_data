@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 05:37:26**
+As of **2024-07-03 06:01:22**
 
 ## Newspaper Stats
 
-*Scraped **33,393** Articles*
+*Scraped **33,406** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ dbsjeyarajcom | 305
 colombotelegraphcom | 307
 bbccomsinhala | 327
 newsfirstlk | 363
-islandlk | 1,857
+islandlk | 1,866
 economynextcom | 1,954
-dailyftlk | 2,064
+dailyftlk | 2,068
 adalk | 2,975
 adaderanalk | 3,807
 tamilmirrorlk | 3,951
@@ -26,11 +26,67 @@ adaderanasinhalalk | 5,528
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,388 (100.0%) of 33,393 articles have been extended.
+33,393 (100.0%) of 33,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### Institutionalising corruption and nepotism: Office for International Trade
+
+*2024-07-03 05:40:21* · [`dailyftlk`](https://www.ft.lk/columns/Institutionalising-corruption-and-nepotism-Office-for-International-Trade/4-763789) · `en`
+
+The establishment of the OIT, as currently proposed, poses a serious threat to Sri Lanka’s domestic industries and economic stability
+
+Sri Lanka’s world record for corruption, nepotism and bad governance is now being elevated by the proposed setting up of an Office for International Trade (OIT) in the Economic Transformation Bill (Part (iv) Chapter XXII Clause 99 - 131. The transfer of State or National powers in the vital area of international trade to non-accountable politically appointed Board of private individuals in the OIT is indeed serious in that it has a pervasive effect on goods, services, employment, production, agriculture, phytosanitary and technical aspects health, investment, economic sovereignty, and a gamut of other factors affecting the day-to-day lives of the people.
+
+...
+
+[Data](articles/c6361225.json)
+
+---
+
+### Ranasinghe Premadasa: From subaltern status to pinnacle of power
+
+*2024-07-03 05:34:05* · [`dailyftlk`](https://www.ft.lk/columns/Ranasinghe-Premadasa-From-subaltern-status-to-pinnacle-of-power/4-763788) · `en`
+
+Ranasinghe Premadasa, Sri Lanka’s one and only non-Govigama Prime Minister and President is the focus of this two-part article commemorating his birth centenary. The first part published last week traced in brief the early phases of Premadasa’s political journey (https://www.ft.lk/columns/Sri-Lanka-s-solitary-non-Govigama-Prime-Minister-and-President/4-763469). This second and final part – written with the aid of earlier writings – will record the remarkable rise to power of Ranasinghe Premadasa.
+
+As stated last week, the United National Party (UNP) was down in the doldrums after the general elections of 1970. The party was in a state of disarray after the poll in which the UNP got only 17 seats in a Parliament of 157 MPs. The United Front (UF) Government headed by Prime Minister Sirimavo Bandaranaike had 116 seats.
+
+...
+
+[Data](articles/264b1543.json)
+
+---
+
+### Unvisited places
+
+*2024-07-03 05:27:20* · [`dailyftlk`](https://www.ft.lk/columns/Unvisited-places/4-763787) · `en`
+
+If the executive presidency is not abolished, if the PTA stays (or is replaced by something as bad or even worse), if militarisation is not rolled back, if political monks continue to dictate terms and conditions to the country, what would system-change look like?
+
+Sri Lanka always ranks low in the World Happiness Index; 128 out of 148 in 2024 (we rank 48 in Global Militarisation Index though, and possess the 17th largest military in the world). We are also a gloomy lot in terms of how we see the country’s future. According to a new Institute of Health Policy (IHP) poll, in May 2024, 80% of Lankan adults thought the country was heading in the wrong direction. Just 4% thought the country was on the right path; a slight improvement compared to February 2024 when 0% felt the country was on the correct track (https://ihp.lk/research-updates/number-sri-lankans-thinking-country-heading-wrong-direction-continues-increase).
+
+...
+
+[Data](articles/60c218cb.json)
+
+---
+
+### The obstacle course I ran over four days to get an eVisa to Sri Lanka
+
+*2024-07-03 05:21:48* · [`dailyftlk`](https://www.ft.lk/columns/The-obstacle-course-I-ran-over-four-days-to-get-an-eVisa-to-Sri-Lanka/4-763786) · `en`
+
+An obstacle course that spanned three continents just to process something as simple as ordering dinner
+
+I was born in Sri Lanka, live in the US, and visit my home country often. The very idea of having to get a visa to a country I lived in for a greater part of my life is discomforting. Nevertheless, in order to comply, three weeks before I travelled, I went through the process. No different from thousands of others. However this time, it turned out to be a bizarre obstacle course set up by an Indian outfit masked behind a bunch of acronyms.
+
+...
+
+[Data](articles/a812e4b1.json)
+
+---
 
 ### Cabinet clears to reassign $ 1.09 m grant of UNEP to e-mobility project
 
@@ -228,87 +284,131 @@ He warned that economic management has been overshadowed by an excessive focus o
 
 ---
 
-### ரிட்ஸ்பறி தொடர் ஓட்டத்தில் மாரிஸ் ஸ்டெல்லா, வலல்ல ரட்நாயக்க ஆதிக்கம்
+### Maurice Stella, Valalla Ratnayake dominates the runbury series
 
 *2024-07-03 02:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/187544) · `ta`
 
-பதுளை வின்சென்ட் டயஸ் விளையாட்டரங்கில் செவ்வாய்க்கிழமை (02) ஆரம்பமான ரிட்ஸ்பறி பாடசாலைகள் தொடர் ஓட்ட சாம்பியன்ஷிப்பில் முதலாம் நாளன்று நீர்கொழும்பு மாரிஸ் ஸ்டெல்லா கல்லூரியும் வலல்ல ஏ.ரட்நாயக்க மத்திய கல்லூரியும் ஆதிக்கம் செலுத்தின.
+Maurice Stella College and Ratnayake Central College excelled in the Ritbury Schools Championship, each winning 3 gold medals. Notably, Maurice Stella College triumphed in the boys' under-14 and under-18 4x200m races, while Ratnayake Central College shone in the long-term combination for men under 18 and the women's under-18 4x800m race. Other highlights included St. Joseph Vaas' win in the men's under-16 category and Negombo Away Maria Monastery's victory in the girls' under-14 4x200m race.
 
-மாரிஸ் ஸ்டெல்லா கல்லூரி 3 தங்கப் பதக்கங்களையும் வலல்ல ஏ. ரட்நாயக்க மத்திய கல்லூரி 4 தங்கப் பதக்கங்களையும் சுவீகரித்தன.
+🟩
 
-14 வயதுக்குட்பட்ட சிறுவர்களுக்கான 4 x 200 மீற்றர் தொடர் ஓட்டப் போட்டியை 1:41.7  நிமிடங்களிலும்   18 வயதுக்குட்பட்ட ஆண்களுக்கான 4 x 200 மீற்றர் தொடர் ஓட்டப் போட்டியை 1:30.2 நிமிடங்களிலும் 20 வயதுக்குட்பட்ட ஆண்களுக்கான 4 x 200 தொடர் ஓட்டப் போட்டியை 1:28.3 நிமிடங்களிலும் நிறைவு  செய்த  மாரிஸ் ஸ்டெல்லா அணிகள் 3 தங்கப் பதக்கங்களை சுவீகரித்தன.
+Negombo Maurice Stella College and A. Ratnayake Central College dominated the first day of the Ritbury Schools Continued Championships at the Vincent Diaz Stadium in Badulla on Tuesday (02).
 
-16 வயதுக்குட்பட்ட ஆண்களுக்கான 4 x 200 மீற்றர் தொடர் ஓட்டப் போட்டியை 1:33.3 நிமிடங்களில் நிறைவு செய்த வென்னப்புவை புனித ஜோசப் வாஸ் தங்கப் பதக்கத்தை சுவீகரித்தது.
+Maurice Stella College 3 gold medals. Ratnayake Central College also won 4 gold medals.
+
+Maurice Stella teams who have completed 3 gold medals for boys under 14 X 200 meters in 1: 41.7 minutes and 4 x 200 meters for men under 18 years in 1: 30.2 minutes and 4 x 200 series for men under 20.
+
+St. Joseph Vaas won the gold medal for the men under the age of 16, which completed the 4 x 200m series of men under the age of 16.
+
+Long -term combination of men under 18Completed. Ratnayake Central College teams won 2 gold medals.
+
+As well as in the 4 x 800m series of women under the age of 18 (9: 58.4 n.). Ratnayake Central College teams won 2 gold medals.
+
+Negombo Away Maria Monastery won the gold medal in the 4 x 200 meters of race for girls under the age of 14.
 
 ...
 
 [Data](articles/8d77bb8f.json)
 
+[Extended Data](ext_articles/8d77bb8f.ext.json)
+
 ---
 
-### மீள்புதிப்பிக்கத்தக்க வலுசக்திக் கொள்வனவுக் கட்டணத்தில் திருத்தம்
+### Revision of Rejuvenious Purchase Purchase Fee
 
 *2024-07-03 02:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/187548) · `ta`
 
-உத்தரவாத மின்சாரக் கொள்வனவு ஒப்பந்தத்தின் கீழ் மீள்புதிப்பிக்கத்தக்க வலுசக்திக் கொள்வனவுக் கட்டணத்தைத் திருத்தம் செய்தற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The Cabinet has revised the power purchase fee under the Guaranteed Electricity Purchase Agreement, affecting developers with renewable energy projects of 10 MW or less. This decision was made to adjust fees based on the type of renewable energy source procured. A committee involving several government entities was formed to negotiate better terms for these developers. The changes were approved by the Cabinet, aiming to balance the cost of electricity while supporting renewable energy development.
 
-2009ஆம் ஆண்டின் 20ஆம் இலக்க இலங்கை மின்சாரச் சட்டத்தின் கீழும் குறித்த சட்டத்தில் பின்னர் மேற்கொள்ளப்பட்டுள்ள திருத்தங்களுக்கமைய, 10 மெகாவாற்று அல்லது அதற்குக் குறைவான கொள்ளளவு கொண்ட மீள்புதிப்பிக்கத்தக்க வலுசக்திக் கருத்திட்டங்களுக்குரிய தொழிநுட்பத்தை அடிப்படையாகக் கொண்ட, உத்தரவாதமளிக்கப்பட்ட சந்தை விலையை விடவும் உயர்ந்த விலைக் கட்டண முறையின் கீழ் உத்தரவாத மின்சாரக் கொள்வனவு ஒப்பந்தத்தை மேற்கொள்ள வேண்டியுள்ளது.
+🟩
 
-அதற்கமைய, மீள்புதிப்பிக்கத்தக்க வலுசக்திக் கொள்வனவின் போது மாறுபடுகின்ற  கட்டண முறையை நடைமுறைப்படுத்துவதற்காக 2023.03.13 அன்று இடம்பெற்ற அமைச்சரவையில் அங்கீகாரம் வழங்கப்பட்டிருப்பினும், அபிவிருத்தியாளர்கள் ஒருசிலர் மாத்திரம் அதற்கான ஒப்பந்தத்தில் கையொப்பமிட்டுள்ளனர்.
+The Cabinet has approved the revision of the reinforced power purchasing fee under the Guaranteed Electricity Purchase Agreement.
 
-...
+Under the Ceylon Electricity Act No. 20 of the Ceylon Electricity Act, the Ceylon Electricity Agreement has to be made under the highest prices under the highest prices, based on the technical, based on the renewal of 10 MW or less.
+
+Accordingly, the Cabinet held on 2023.03.13 to implement the fee system that varies during the renewable strength procurement, but only a few of the Developers have signed the agreement.
+
+Therefore, a committee has been appointed with representatives of the Ministry of Power and Power, Economic Stability and National Electricity Board, Sri Lanka Standards Authority and Central Bank of Sri Lanka to obtain a representative of reinforced strength.
+
+The Cabinet has approved the proposal submitted by the Minister of Power and Power and Energy to accept the equivalent of the price calculation and implement the proposed fee amendments.
+
+◼️
 
 [Data](articles/c8cd3554.json)
 
+[Extended Data](ext_articles/c8cd3554.ext.json)
+
 ---
 
-### இந்தியாவின் நிதியுதவியுடன் யாழில் மழை நீர் சேகரிப்புத் தாங்கிகள்
+### Rain water collection tanks in Jaffna with India's funding
 
 *2024-07-03 02:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187547) · `ta`
 
-இந்திய அரசால் யாழ்ப்பாண மாவட்டத்தில் 934 மழை நீர் சேகரிப்புத் தாங்கிகள் நிர்மாணிக்கப்படவுள்ளன.
+India-funded rainwater collection tanks in Jaffna: 934 tanks to be built, part of a larger project to construct 3000 tanks for clean drinking water. Originally slated for completion in 3 years, extended to June 2024, with 1,831 Pewesi Rainwater Handicas replacing some cement tanks. The project aims to address water distribution issues in the region.
 
-யாழ்ப்பாண மாவட்டத்தில் தூய்மையான குடிநீரை விநியோகிப்பதற்காக இந்திய அரசால் வழங்கப்பட்டுள்ள நிதியைப் பயன்படுத்தி குறித்த மாவட்டத்தில் 3000 மழைநீர் சேகரிப்புத் தாங்கிகளை அமைப்பதற்கான புரிந்துணர்வு ஒப்பந்தத்தில் கையொப்பமிடுவதற்காக 2016.10.25 அன்று இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கபட்டுள்ளது.
+🟩
 
-இக்கருத்திட்டம் 3 வருடகாலத்தில் பூர்த்தி செய்வதற்குத் திட்டமிடப்பட்டிருப்பினும், மேலெழுந்துள்ள நிதி மற்றும் தொழிநுட்ப ரீதியான பிரச்சினைகளால் 2024 ஜூன் மாதம் வரைக்கும் கருத்திட்டக் காலத்தை நீடிப்பதற்கும், பெரோ சீமெந்துத் தாங்கிகளுக்குப் பதிலாக 1,831 பீவீசி மழைநீர் சேகரிப்புத் தாங்கிகளை அமைப்பதற்கும் 2022.10.10 அன்று இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+934 rainwater harvesting tanks will be constructed by the Government of India in the Jaffna district.
 
-...
+The Cabinet meeting held on 25.10.2016 has been approved by the Government of India to sign a Memorandum of Understanding (Memorandum) for the construction of 3000 rainwater harvesting tanks in the district using the funds provided by the Government of India to distribute clean drinking water in the Jaffna district.
+
+Although this comment is scheduled to be completed in 3 years, the Cabinet meeting held on 2022.10.10 to extend the project until June 2024 and to set up 1,831 Pewesi Rainwater Handicas instead of Pero Cement Tanks.
+
+The Cabinet has approved the proposal submitted by the Minister of Justice, Prison Affairs and Constitutional Reforms to set up 934 rainwater harvesting tanks using the remaining funds under this scheme.
+
+◼️
 
 [Data](articles/3ad5006f.json)
 
+[Extended Data](ext_articles/3ad5006f.ext.json)
+
 ---
 
-### ஜுனில் பணவீக்கம் 1.7 சதவீதமாக உயர்வு; மே மாதத்துடன் ஒப்பிடுகையில் 0.8 சதவீத அதிகரிப்பு பதிவு
+### Inflation in June rise to 1.7 percent;Record of an increase of 0.8 percent compared to May
 
 *2024-07-03 02:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/187546) · `ta`
 
-கொழும்பு நுகர்வோர் விலைச்சுட்டெண் மதிப்பீட்டின் பிரகாரம் கடந்த மே மாதம் 0.9 சதவீதமாகப் பதிவாகியிருந்த பணவீக்கம், ஜுன் மாதம் 1.7 சதவீதமாக உயர்வடைந்துள்ளது.
+Inflation rose from 0.9% in May to 1.7% in June, according to the Colombo Consumer Price Index. Food prices increased by 1.4%, contributing to a 0.77% monthly change. The unemployment rate also rose from 3.5% to 4.4%. The Central Bank aims to control inflation through policy measures, expecting stability within the medium term.
 
-அதன்படி கடந்த மே மாதம் பூச்சியமாகப் பதிவான உணவுப்பணவீக்கம் ஜுனில் 1.4 சதவீதமாகவும், மே மாதம் 1.3 சதவீதமாகப் பதிவான உணவல்லாப்பணவீக்கம் ஜுனில் 1.8 சதவீதமாகவும் உயர்வடைந்தன.
+🟩
 
-மேலும் கொழும்பு நுகர்வோர் விலைச்சுட்டெணின் மாதாந்த மாற்றம் ஜுனில் 0.77 சதவீதமாகப் பதிவாகியுள்ளது. இதற்கு உணவுப்பொருட்களின் விலைகள் மற்றும் உணவல்லாப்பொருட்கள், சேவைகளின் விலைகள், கட்டணங்களில் அவதானிக்கப்பட்ட அதிகரிப்பு காரணமாக அமைந்துள்ளது.
+Inflation, which was recorded by 0.9 per cent in May, rose to 1.7 per cent in June, according to the Colombo Consumer Price Price estimate.
 
-பொருளாதாரத்தின் அடிப்படைப்பணவீக்கத்தைப் பிரதிபலிக்கின்ற மையப்பணவீக்கம் கடந்த மே மாதத்தில் பதிவான 3.5 சதவீதத்திலிருந்து ஜுன் மாதத்தில் 4.4 சதவீதமாக உயர்வடைந்துள்ளது.
+Accordingly, the food money launched in June last year rose to 1.4 per cent in June and 1.8 per cent in June.
 
-...
+Moreover, the monthly change of the Colombo Consumer Price Code was recorded in June at 0.77 per cent. This is due to the increase in the prices of food and food, the prices of services, the prices of services.
+
+The central employment, reflecting the basic work of the economy, rose from 3.5 percent to 4.4 per cent in June last year.
+
+The Central Bank has announced that it will be supported by the appropriate policy mechanisms and firm inflation, and the inflation will reach the target of the future, and that in the middle of the medium period, the Central Bank expects.
+
+◼️
 
 [Data](articles/7dd240bc.json)
 
+[Extended Data](ext_articles/7dd240bc.ext.json)
+
 ---
 
-### நாளை நடைபெறவுள்ள பிரிட்டன் பொதுத்தேர்தலில் ஈழத்தமிழர்கள் அறுவர் போட்டி
+### Eelam Tamils ​​contest in the British general election tomorrow
 
 *2024-07-03 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/187545) · `ta`
 
-சர்வதேச மட்டத்தில் மிகுந்த எதிர்பார்ப்பை ஏற்படுத்தியிருக்கும் பிரிட்டன் பொதுத்தேர்தல் வியாழக்கிழமை (4) நடைபெறவுள்ள நிலையில், முன்னெப்போதையும் விட இம்முறை அதிக எண்ணிக்கையான பிரிட்டன்வாழ் ஈழத்தமிழர்கள் இத்தேர்தலில் போட்டியிடுகின்றனர்.
+In the upcoming British general election, several candidates of Eelam Tamil origin are vying for parliamentary seats, each expressing support for accountability and justice regarding the 2009 Sri Lankan war crimes. They pledge to work with international bodies like the UN Human Rights Council and NGOs to ensure justice for the victims.
 
-அதன்படி இலங்கையைப் பூர்விகமாகக்கொண்ட அறுவர் பிரிட்டன் பாராளுமன்ற உறுப்பினராகத் தெரிவாகும் நோக்கில் இந்தத் தேர்தலில் களமிறங்கியுள்ளனர். தொழிற்கட்சியின் சார்பில் உமா குமாரன் மற்றும் டெவினா போல், கொன்சவேட்டிவ் கட்சியின் சார்பில் கெவின் ஹரன், த க்ரீன் கட்சியின் சார்பில் நாராணி ருத்ரா-ராஜன், லிபரல் டெமோகிரட்ஸ் கட்சியின் சார்பில் கமலா குகன் மற்றும் ரிஃபோர்ம் யு.கே கட்சியின் சார்பில் மயூரன் செந்தில்நாதன் ஆகியோரே வியாழக்கிழமை (4) நடைபெறவிருக்கும் பிரிட்டன் பொதுத்தேர்தலில் போட்டியிடவிருக்கும் இலங்கை பின்னணியைக்கொண்ட தமிழர்களாவர்.
+🟩
 
-அவர்கள் ஈழத்தமிழர் விவகாரம் தொடர்பான தமது அணுகுமுறை மற்றும் போர்க்குற்றவாளிகளைப் பொறுப்புக்கூறச்செய்வதில் தாம் கொண்டிருக்கும் கடப்பாடு என்பன குறித்து வெளியிட்டிருக்கும் கருத்துக்கள் வருமாறு:
+The British general election, which is expected at the international level, is scheduled to be held on Thursday (4), and the British Eelam Tamils ​​are contesting the election this time.
+
+Accordingly, the native of Sri Lanka, the British parliamentarian has been selected as a Member of Parliament.. Uma Kumaran on behalf of the Labor Party and Devina, Kevin Haran on behalf of the Conservative Party, Narani Rudra-Rajan on behalf of The Green, Kamala Kugan on behalf of the Liberal Democrats and Mayuran Senthilnathan on behalf of the Reform UK party.
+
+The comments they have expressed about their attitude towards the Eelam Tamil affair and their obligation to take responsibility for war criminals:
 
 ...
 
 [Data](articles/8d70779d.json)
+
+[Extended Data](ext_articles/8d70779d.ext.json)
 
 ---
 
@@ -835,6 +935,106 @@ Minister of Power and Energy Kanjana Wijesekera said that Lanka IOC will distrib
 [Data](articles/f49ebf10.json)
 
 [Extended Data](ext_articles/f49ebf10.ext.json)
+
+---
+
+### Signature partners with Sri Lanka Hockey Federation as ‘Official Formal Wear Partner’ for Junior Men’s Asian Federation Hockey Cup
+
+*2024-07-02 20:58:00* · [`islandlk`](http://island.lk/signature-partners-with-sri-lanka-hockey-federation-as-official-formal-wear-partner-for-junior-mens-asian-federation-hockey-cup/) · `en`
+
+Signature, Sri Lanka’s most admired menswear brand, partnered with the Sri Lanka Hockey Federation to sponsor the Junior Men’s Asian Federation Hockey (Cup) Tournament as the ‘Official Formal Wear Partner’. The prestigious tournament took place in Singapore from June 13th to June 23rd, bringing together the finest young hockey talents from across Asia.
+
+As the Official Formal Wear Partner for the Junior Men’s Asian Federation Hockey Tournament, Signature outfitted the Sri Lankan team with impeccable formal wear, showcasing the brand’s dedication to excellence and style. This partnership highlighted Signature’s role in the fashion industry and its commitment to supporting and nurturing young talent in the sporting arena, contributing to the development of hockey in Sri Lanka and beyond.
+
+...
+
+[Data](articles/978c4563.json)
+
+---
+
+### Sysco LABS triumphs at the 6th annual SLASSCOM Ingenuity Awards 2024
+
+*2024-07-02 20:55:00* · [`islandlk`](http://island.lk/sysco-labs-triumphs-at-the-6th-annual-slasscom-ingenuity-awards-2024/) · `en`
+
+Wins Provincial and National Awards in the ‘Best Innovation in Internal Process, Technology or Framework’ category for its ‘Excellence Hub’ solution.
+
+For the second consecutive year, Sysco LABS’ Delivery Excellence team won both provincial and national top honors in the ‘Best Innovation in Internal Process, Technology or Framework’ category at the SLASSCOM Ingenuity Awards. In addition, the ‘Patch 360’ tool developed by the Hybrid Cloud Operations team – part of the company’s Platform Services and Digital Infrastructure business unit – was awarded the 2nd Runner-up in the same category at the national level. The wins highlight the team’s relentless commitment to delivering continuous innovation and significant value to Sysco, the world’s largest foodservice provider.
+
+Signature partners with Sri Lanka Hockey Federation as ‘Official Formal Wear Partner’ for Junior Men’s Asian Federation Hockey Cup
+
+...
+
+[Data](articles/30b693a7.json)
+
+---
+
+### Hemas Holdings strengthens Board to drive growth
+
+*2024-07-02 20:52:00* · [`islandlk`](http://island.lk/hemas-holdings-strengthens-board-to-drive-growth/) · `en`
+
+Hemas Holdings PLC announced the appointment of Ajith Fernando and Supun Weerasinghe as Independent Non-Executive Directors, effective 1st July 2024. Additionally, Ajith Fernando will serve as a member of the Hemas Board’s Nomination and Governance Committee. These strategic appointments underscore Hemas’ commitment to enhancing governance and leveraging deep industry expertise as the Group continues its growth trajectory.
+
+Ajith Fernando is a seasoned veteran with over 35 years in the financial sector, specializing in capital markets. He is widely recognized for his role in founding the Capital Alliance Group, where he served as CEO until December 2023, driving the firm’s expansion into Bangladesh and solidifying its position as a leading investment bank in Sri Lanka.
+
+Sri Lanka’s largest digital marketing event returns with a bang
+
+Signature partners with Sri Lanka Hockey Federation as ‘Official Formal Wear Partner’ for Junior Men’s Asian Federation Hockey Cup
+
+...
+
+[Data](articles/e1237274.json)
+
+---
+
+### HSBC Sri Lanka celebrates 30 years of innovation and excellence in credit cards
+
+*2024-07-02 20:51:00* · [`islandlk`](http://island.lk/hsbc-sri-lanka-celebrates-30-years-of-innovation-and-excellence-in-credit-cards/) · `en`
+
+– Celebration to feature an exclusive campaign for customers with 30th Anniversary Gold sovereigns, LKR 30,000 in cash rebates and rewards and 30% savings for cardholders –
+
+HSBC Sri Lanka proudly marks a significant milestone, celebrating 30 years of delivering credit card services to its valued customers. Since the introduction of credit cards in 1994, HSBC has consistently led the market with innovative products, customer service and a commitment to deliver exceptional value.
+
+To commemorate the milestone, HSBC has launched a special 30th anniversary campaign throughout the month of July to reward its loyal cardholders with exclusive 30th Anniversary Gold sovereigns, LKR 30,000 in cash rebates and rewards, including a whopping 30% saving at over 30 fabulous hotels, restaurants, department stores, and more, so customers can shop and dine to their heart’s content.
+
+...
+
+[Data](articles/65a3f4ea.json)
+
+---
+
+### New feed-in tariff system for specified renewable power plants
+
+*2024-07-02 20:51:00* · [`islandlk`](http://island.lk/new-feed-in-tariff-system-for-specified-renewable-power-plants/) · `en`
+
+Power and Energy Minister Kanchana Wijesekera yesterday announced that the Cabinet has approved new feed-in tariffs for renewable power plants below 10 megawatts (MW).
+
+According to the new tariffs, rooftop solar installations below 500 kilowatts (KW) will receive a flat rate of Rs. 27.06 per unit for 20 years. Installations exceeding 500 kW will receive Rs. 23.18 per unit.
+
+The Ceylon Electricity Board (CEB) has also set tariffs for other renewable projects below 10 MW, accordingly:
+
+Solar: Rs. 25.48 per unit (equivalent to 8.35 US cents at an exchange rate of Rs. 305 to the US dollar)
+
+All these rates will remain fixed for 20 years without tiered reductions.
+
+However, energy experts have criticized Sri Lanka’s feed-in tariffs, except for biomass, for being administratively set much higher than competitive rates in other regions. For instance, a 50 MW wind plant in Mannar receives tariffs of only 4.88 US cents per kWh.
+
+...
+
+[Data](articles/a433abd9.json)
+
+---
+
+### Cross-over fears hamper CSE’s bullish momentum
+
+*2024-07-02 20:49:00* · [`islandlk`](http://island.lk/cross-over-fears-hamper-cses-bullish-momentum/) · `en`
+
+Stock market activities were positive yesterday but not bullish because local and foreign investors are looking at strong political direction. As matters stand, political uncertainty prevails in the country due to possible crossovers. Amid those developments the market was dominated by arranged transactions or crossings, which contributed more than 60 percent to the turnover.
+
+Retail investor participation was slightly low but three major crossings, especially one relating to Windforce, dominated the market by contributing more than Rs 1 billion to the turnover. All Share Price Index went up by 44.25 points, while the S and P SL20 rose by 9.29 points. Turnover stood at Rs 1.83 billion with three crossings.
+
+...
+
+[Data](articles/f7ff9996.json)
 
 ---
 
@@ -1978,6 +2178,22 @@ Asked by reporters if there was bad feeling between the SLPP and President Wickr
 
 ---
 
+### Cabinet nod to empower women in the Micro, Small and Medium Business sectors
+
+*2024-07-02 15:31:00* · [`islandlk`](http://island.lk/cabinet-nod-to-empower-women-in-the-micro-small-and-medium-business-sectors/) · `en`
+
+The Cabinet of Ministers approved the proposal presented by the President to implement a special loan scheme to remove obstacles for women to engage in economic activities by using two billion rupees out of the twenty billion allocated by the cabinet decision dated 26.02.2024 to implement an investment scheme to re-strengthen the enterprise sector.
+
+It is observed that women’s participation in Sri Lanka’s economic affairs is at a lower level than other regional and Asian countries. There are various reasons for this and according to the 2022 survey of Sri Lanka’s workforce, thirty-five percent of the economically active population are
+
+women. It shows a significant disparity in the gender contribution rates of economic participation.
+
+...
+
+[Data](articles/3649dc15.json)
+
+---
+
 ### Japan confident Sri Lanka’s economy will continue to improve
 
 *2024-07-02 15:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100242/japan-confident-sri-lankas-economy-will-continue-to-improve-) · `en`
@@ -2043,269 +2259,5 @@ Ukraine officials have said that security officers from private security compani
 [Data](articles/5c36020f.json)
 
 [Extended Data](ext_articles/5c36020f.ext.json)
-
----
-
-### Police announce a special announcement in the circulation of social media
-
-*2024-07-02 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198409) · `si`
-
-Police warn against fake letter on social media, claiming it's not from them. The letter, featuring a blue police assault, rubber seal, and uniform with a logo, allegedly comes from IGP Deshabandu Tennakoon but is entirely false. The CID investigates this hoax, urging the public to verify information through official channels only.
-
-🟩
-
-The Police Headquarters has issued a special announcement regarding a fake letter circulating in social media.
-
-The letter has been prepared in a blue police assault, with a rubber seal and a police uniform with a police official logo.
-
-The letter of English has been released to the Social Media in a way that IGP is released by IGP, Deshaband Tennakoon.
-
-This article and its contents were completely falsely developed and the police have asked the public to be issued by the Sri Lankan Police or affiliated agency.
-
-The Criminal Investigations Department (CID) has already begun an investigation into the preceding false letter and the letter to the Internet.
-
-The following is the following a copy of the pseudo-letter.
-
-◼️
-
-[Data](articles/d9616e0f.json)
-
-[Extended Data](ext_articles/d9616e0f.ext.json)
-
----
-
-### Girlfriend
-
-*2024-07-02 14:56:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மறுத்த-காதலனின்-பிறப்புறுப்பை-அறுத்த-காதலி/175-339757) · `ta`
-
-In Bihar's Saran district, a shocking incident occurred where a girlfriend allegedly severed her boyfriend's private organ. This act led to a murder attempt charge against her. The victim, a councilor from Mathura, had been in a relationship with the accused for five years but refused to marry her. Despite the severity of the crime, the accused claimed she wanted to marry him, leading to legal proceedings. Neighbors discovered the gruesome scene and alerted the police, resulting in the arrest of a 25-year-old trainee named Hajibur.
-
-🟩
-
-The incident of a girlfriend's girlfriend cut off her boyfriend's private organ has caused a stir in Saran district of Bihar.
-
-Subsequently, the police have registered a case under the attempt to murder the woman.
-
-Patna Medical College Hospital. The boyfriend is a councilor in Mathura constituency.
-
-The accused said he had been involved with the man for the past 5 years but that he was refusing to marry him.
-
-Thus the boyfriend has agreed to register in court. Accordingly, the girlfriend approached the court for the wedding and made arrangements.
-
-After that, the girlfriend who summoned the boyfriend to his house, it seems to have cut off her private organ.
-
-The neighbors who heard the screams of a painful boyfriend informed the police that they were lying in bed in a bloodbath.. The woman was subsequently arrested.The arrest is a 25 -year -old trainee from Hajibur.
-
-◼️
-
-[Data](articles/33513711.json)
-
-[Extended Data](ext_articles/33513711.ext.json)
-
----
-
-### Keheliya's petition is in progress today
-
-*2024-07-02 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198408) · `si`
-
-Keheliya Rambukwella's petition is being considered today. The Court of Appeal, led by Judges Nissanka Bandula Karunaratne and Shahi Mahendran, will decide whether to release him on bail regarding his case related to substandard antibodies.
-
-🟩
-
-Will former Minister of Health Minister Keheliya Rambukwella permit the exams to be taken to the examination to be executed to be remanded to be remanded in the court to be remanded until the end of the substandard antibodies.Not?The Court of Appeal ordered that he would declare the decision on the decision and the request to be released on bail.
-
-The Court of Appeal was made by the Court of Appeal of the Court of Appeal Judge Nissanka Bandula Karunaratne and Shahi Mahendran after considering a petition filed by Keheliya Rambukwella.
-
-◼️
-
-[Data](articles/5f022246.json)
-
-[Extended Data](ext_articles/5f022246.ext.json)
-
----
-
-### A dead body found in a culvert
-
-*2024-07-02 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198407) · `si`
-
-A body was discovered in a bay near Kotagala, Hatton, possibly from an insecure bridge. The police are investigating, and a post-mortem examination will be conducted at the JVP Hospital.
-
-🟩
-
-Dimbula Patana Police said that a body of a person was found in a bay in Kotagala, Hatton.
-
-The body was found after a 70-year-old person was in a bay of water in Kotagala town.
-
-Police suspect that a person who traveled through Kotagala town has died in the unsecured bicklets.
-
-The body of the Hatton Magistrate's location regarding the body is referred to the post mortem to the JVP Hospital for the Judicial Medical Officer of the Dikoya Hospital.
-
-◼️
-
-[Data](articles/c6cb5a36.json)
-
-[Extended Data](ext_articles/c6cb5a36.ext.json)
-
----
-
-### Relo condolences to Sampanthan's demise
-
-*2024-07-02 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/187483) · `ta`
-
-The Tamil Eelam Liberation Movement mourns the loss of Rajavarodhayam Sambandan, a key figure in the Tamil National Alliance (TNA) and advocate for Tamil political rights in Sri Lanka. His departure leaves a significant void in efforts towards achieving federal solutions for Tamils. Despite facing criticism and setbacks, including losing his parliamentary seat due to opposition to the 6th Amendment, Sambandan remained committed to Tamil causes, engaging internationally for recognition and rights. His contributions, especially after 2009, were pivotal in highlighting Tamil issues, despite challenges from both state leadership and within the Tamil community itself. Sambandan's legacy of fighting for Tamil political rights through democratic means will be remembered, marking a significant loss in the ongoing struggle for Tamil political autonomy in Sri Lanka.
-
-🟩
-
-The Tamil Eelam Liberation Movement expresses deepest sympathies to the demise of the Tamil National Alliance (TNA) leader of the Tamil National Alliance (TNA), the leader of the Sri Lanka Tamil National Alliance (TNA) and the Trincomalee district parliamentarian Rajavarodhayam Sambandan.
-
-The demise of the Tamil National Alliance (TNA) leader and the leader of the Sri Lanka Tamil National Alliance (TNA) and Trincomalee parliamentarian Rajavarodayam Sambandan has created a huge gap on the journey of the political rights issue of the Tamil people.
-
-Sampanthan has joined the line of late politicians such as Amirthalingam and Sivasidhambaram.
-
-...
-
-[Data](articles/82d10369.json)
-
-[Extended Data](ext_articles/82d10369.ext.json)
-
----
-
-### Sri Lanka to get US$100mn from ADB on power reforms
-
-*2024-07-02 14:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-get-us100mn-from-adb-on-power-reforms-170579/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers have approved the borrowing of 100 million US dollar from the Asian Development Bank, a statement from the state information office said.
-
-The loan is the first part of a 300 million dollar program, the statement said.
-
-Sri Lanka has just passed an Electricity Law which was linked to budget support loans.
-
-Budget support loans are part of the International Monetary Fund backed reform and debt restructuring program. (Colombo/July02/2024)
-
-◼️
-
-[Data](articles/6bb6cfa2.json)
-
-[Extended Data](ext_articles/6bb6cfa2.ext.json)
-
----
-
-### President fact-checks viral social media post on Sri Lanka’s external debt
-
-*2024-07-02 14:06:00* · [`economynextcom`](https://economynext.com/president-fact-checks-viral-social-media-post-on-sri-lankas-external-debt-170577/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s total foreign debt is 37 billion US dollars and it did not increase from 71 billion to 100 billion over his incumbency as claimed by affiliates of opposition MP Anura Kumara Dissanayake, President Ranil Wickremesinghe said.
-
-Addressing parliament on Tuesday July 02, Wickremesinghe refuted a social media post attributed to an affiliate of Dissanayake, the leader of the leftist National People’s Power (NPP).
-
-“Some political groups are spreading false information about our foreign debt on social media.
-
-“We have debated with Dissanayake and confronted each other. But he had never hurled such low-bro insults at me. But some of your followers are working to even destroy you,” said Wickremesinghe addressing the opposition MP.
-
-...
-
-[Data](articles/29eea7e4.json)
-
-[Extended Data](ext_articles/29eea7e4.ext.json)
-
----
-
-### Superintendent of Criminal Cases on Trump
-
-*2024-07-02 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198406) · `si`
-
-The U.S. Supreme Court ruled that former President Donald Trump cannot face criminal charges related to his actions while in office. This decision, supported by six of the nine justices, prevents any prosecution over Trump's presidential duties. Critics, including President Joe Biden, argue this sets a dangerous precedent.
-
-🟩
-
-The United States Maurat has decided that the former American President Donald Trump cannot file criminal cases against him for his duties.
-
-The Trump Supreme Court had filed a petition in order to order a few overseas after the criminal criminal prosecution after the former President Donald Tram.
-
-Former US President Donald Trump cannot be prosecuted against the official duties carried out during his tenure.
-
-Accordingly, six of the nine judges of the judiciary have become the verdict of his duties as a president in his duties in his duties.
-
-According to reports, this decision will be a major challenge against Tram until the 2020 American presidential election.
-
-Today, however, President Joe Biden accuses the judgment of the rule of law and that it is a wrong precedent.
-
-◼️
-
-[Data](articles/0a20c3e7.json)
-
-[Extended Data](ext_articles/0a20c3e7.ext.json)
-
----
-
-### Australia police arrest teenage boy after stabbing at Sydney University
-
-*2024-07-02 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100240/australia-police-arrest-teenage-boy-after-stabbing-at-sydney-university) · `en`
-
-Australian police said it had arrested a 14-year-old boy after a stabbing at the University of Sydney on Tuesday morning, which triggered a lockdown of the university buildings.
-
-Emergency crews treated a 22-year-old man, who was taken to a hospital in a serious but stable condition, New South Wales state police said in a statement.
-
-New South Wales Police Assistant Commissioner of counter terrorism Mark Walton told a news conference the boy’s motive or ideology had not yet been determined, but expressed concern at increasing evidence young people were being radicalised online.
-
-“They are embracing violent extremist ideologies and moving towards violence,” he said.
-
-The attacker was known to police and government agencies, he added.
-
-The alleged attacker boarded a bus after the incident and was arrested near a hospital, police said. There is no ongoing risk to the community, and the victim and the alleged attacker were not known to each other.
-
-...
-
-[Data](articles/eb1ad8af.json)
-
-[Extended Data](ext_articles/eb1ad8af.ext.json)
-
----
-
-### Water tanks from India
-
-*2024-07-02 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198403) · `si`
-
-India will construct 3,000 rainwater tanks in Sri Lanka's Jaffna district under a MoU signed after cabinet approval. Originally set to finish by June 2024, the deadline was extended due to financial and technical issues. The project now includes 1831 PVC Chassis tanks, replacing Ferro cement ones, and plans for an additional 934 tanks.
-
-🟩
-
-India has come forward to construct rainwater tanks to facilitate the drinking water in the Jaffna district.
-
-Cabinet approval was approved by the Cabinet of Cabinet on 25-0 to sign a MoU with the Indian government to build 3,000 rainwater collection tanks.
-
-The project had to be completed three years, but it was extended to June 2024 to June 2024 due to financial and technical problems.
-
-Approval has been made to establish 1831 PVC Chassis water tanks instead of Ferro cement tanks and approved the approval of the Cabinet meeting.
-
-The proposal to establish 934 tanks from the rest of the project was to establish 934 tanks.
-
-◼️
-
-[Data](articles/41ac5f34.json)
-
-[Extended Data](ext_articles/41ac5f34.ext.json)
-
----
-
-### Striking uni. non-academic staff reach agreement with authorities
-
-*2024-07-02 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100239/-striking-uni-non-academic-staff-reach-agreement-with-authorities) · `en`
-
-The university non-academic staff trade unions state that the discussions held with the authorities regarding their demands were successful.
-
-Co-chairman of the University Trade Union Joint Committee (UTUJC) Dhammika S. Priyantha said that the officials agreed to provide acceptable solutions to their issues within today (02) or tomorrow (03).
-
-Furthermore, he emphasized that it has been communicated to State Minister of Higher Education Suren Raghavan that they intend to uphold the agreements which have been made during the discussions.
-
-“The strike action will only be terminated if they provide our monthly allowance which was approved in 2017. Accordingly, an agreement was reached to bring this issue before the Cabinet of Ministers to find immediate solutions to the relevant matter”, said the UTUJC co-chairman.
-
-Moreover, he said that if necessary solutions are not provided, the strike action would be further continued.
-
-◼️
-
-[Data](articles/16a2aa78.json)
-
-[Extended Data](ext_articles/16a2aa78.ext.json)
 
 ---

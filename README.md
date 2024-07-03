@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 16:35:01**
+As of **2024-07-03 16:51:45**
 
 ## Newspaper Stats
 
-*Scraped **33,500** Articles*
+*Scraped **33,503** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 307
 colombotelegraphcom | 307
-bbccomsinhala | 329
+bbccomsinhala | 330
 newsfirstlk | 363
 islandlk | 1,867
 economynextcom | 1,962
 dailyftlk | 2,068
 adalk | 2,987
-adaderanalk | 3,821
+adaderanalk | 3,823
 tamilmirrorlk | 3,967
 dailymirrorlk | 4,733
 virakesarilk | 5,238
@@ -26,11 +26,43 @@ adaderanasinhalalk | 5,551
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,500 (100.0%) of 33,500 articles have been extended.
+33,500 (100.0%) of 33,503 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### Ex-storekeeper arrested over theft of liquor bottles from Hulftsdorp Court
+
+*2024-07-03 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100271/ex-storekeeper-arrested-over-theft-of-liquor-bottles-from-hulftsdorp-court) · `en`
+
+A former storekeeper of the Hulftsdorp Court complex has been arrested by the Colombo Crimes Division (CCD) in connection with the disappearance of foreign liquor bottles worth around Rs. 20 million from the court store.
+
+The individual has been remanded until July 16 by the Colombo Chief Magistrate, said Ada Derana reporter.
+
+Minister of Justice Wijeyadasa Rajapakshe had revealed this incident in the Parliament recently where he further claimed that according to the forensic report, the door of the store room had been opened with the appropriate key before the theft was committed.
+
+◼️
+
+[Data](articles/3015de00.json)
+
+---
+
+### Viranjith Thambugala receiving death threats, court told
+
+*2024-07-03 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100270/viranjith-thambugala-receiving-death-threats-court-told-) · `en`
+
+The attorneys representing the Chairman of Aura Lanka Viranjith Thambugala, who was arrested and remanded over allegations of financial fraud, today (03) informed the Colombo Magistrate’s Court that the businessman and his family members have received death threats after giving a statement related to the investigations being carried out against him by the Criminal Investigations Department (CID).
+
+When the case was taken up before Colombo Additional Magistrate Pavitra Pathiraja today, the defence counsel also requested the court to issue a suitable order regarding the matter.
+
+Accordingly, after considering the facts presented before the court, the Additional Magistrate stated that an order shall be issued in this regard on August 10.
+
+◼️
+
+[Data](articles/bbee4cd1.json)
+
+---
 
 ### Interim order suspension of Express Pearl case
 
@@ -86,11 +118,13 @@ The parties should have a strong balance sheet and expertise, as there were the 
 
 President Ranil Wickremesinghe stressed the importance of those entering the teaching profession dedicating themselves to the future generation, noting that education in a country cannot thrive without discipline.
 
-He declared that no one would be permitted to disrupt school education between 7:30 am and 1:30 pm and he has directed the Attorney General to consider further measures to ensure this, President’s Media Devision reported.
+He declared that no one would be permitted to disrupt school education between 7:30 am and 1:30 pm and he has directed the Attorney General to consider further measures to ensure this, President’s Media Division reported.
 
-The President made these remarks while attending a ceremony at Temple Trees today (03), where appointments were awarded to officers of the Education Administrative Service, as well as teaching appointments to graduates and diploma holders.
+“No one, whether directly or indirectly, should disrupt school education from 7.30 am to 1.30 pm. I have requested the Attorney General to propose measures regarding this issue,” he said.
 
-The president, who requested that everyone prioritize children’s education, also asked the opposition not to support acts of sabotage.
+The President stated that it is imperative that the education of children is not hindered by school closures or strikes. “Our actions must be taken with future generations in mind.”
+
+The President said he also discussed with the Education Minister regarding the possibility of implementing a computerized teacher transfer system.
 
 ...
 
@@ -914,11 +948,17 @@ The National Shipwreck Database of Sri Lanka lists 114 shipwrecks, with the olde
 
 *2024-07-03 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100264/teaching-positions-in-national-schools-awarded-to-over-1700-graduates) · `en`
 
-President Ranil Wickremesinghe presided over the appointment ceremony at Temple Trees a short while ago, where 60 individuals were appointed to Grade III general employee positions in the Sri Lanka Education Administration Service.
+President Ranil Wickremesinghe presided over the appointment ceremony at Temple Trees this morning (03), where 60 individuals were appointed to Grade III general employee positions in the Sri Lanka Education Administration Service.
 
 Additionally, teaching positions in national schools were awarded to 1,706 graduates and 453 English diploma holders, according to the President’s Media Division (PMD).
 
-◼️
+Addressing the event, President Wickremesinghe stressed the importance of those entering the teaching profession dedicating themselves to the future generation, noting that education in a country cannot thrive without discipline.
+
+He declared that no one would be permitted to disrupt school education between 7.30 a.m. and 1.30 p.m. and that he has directed the Attorney General to consider further measures to ensure this.
+
+The president, who requested that everyone prioritize children’s education, also asked the opposition not to support acts of sabotage.
+
+...
 
 [Data](articles/2330c925.json)
 
@@ -1213,6 +1253,26 @@ A Sun' Pinnawala's father's Pinnawala Air Service at 08.30 pm on 08.30 pm
 [Data](articles/cb5a6005.json)
 
 [Extended Data](ext_articles/cb5a6005.ext.json)
+
+---
+
+### ජනාධිපතිවරණය:ධුර කාලය ගැන අර්ථ නිරූපණයක් ලබා දෙන තුරු ඡන්දය වැළක්වීමට  අතුරු නියෝගයක් ඉල්ලා  ශ්‍රේෂ්ඨාධිකරණයට  මූලික අයිතිවාසිකම් පෙත්සමක්
+
+*2024-07-03 10:25:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gdx3ydzv8o) · `si`
+
+ජනාධිපතිවරණය:ධුර කාලය ගැන අර්ථ නිරූපණයක් ලබා දෙන තුරු ඡන්දය වැළක්වීමට  අතුරු නියෝගයක් ඉල්ලා  ශ්‍රේෂ්ඨාධිකරණයට  මූලික අයිතිවාසිකම් පෙත්සමක්
+
+ජනාධිපතිවරයාගේ ධුර කාලය නිමා වන දින වකවානුව  සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණය විසින් අර්ථ නිරූපණයක් ලබා දෙන තුරු දැනට සැලසුම් කර තිබෙන පරිදි ජනාධිපතිවරණය පැවැත්වීම වැළැක්වීමේ අතුරු නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සමක් ගොනු කර තිබේ.
+
+මොරටුව ප්‍රදේශයේ පදිංචි ව්‍යවසායකයෙකු වූ සී.ඩී. ලෙනව විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබේ.
+
+එහි වග උත්තරකරුවන් ලෙස මැතිවරණ කොමිසම, එහි සභාපතිවරයා ඇතුළු සාමාජිකයින්, නීතිපතිවරයා නම් කර ඇත.
+
+පෙත්සම්කරු කියා සිටින්නේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනය තුළින් ජනාධිපතිවරයාගේ ධුර කාලය සම්බන්ධයෙන් සිදුකළ සංශෝධනය හේතුවෙන් ජනාධිපතිවරයාගේ දුර කාලය අවසන් වන දිනවකවානු සම්බන්ධයෙන් අපැහැදිලිතාවයක් නිර්මාණය  වී තිබෙන බවයි.
+
+...
+
+[Data](articles/9277eccd.json)
 
 ---
 
@@ -2259,81 +2319,5 @@ Negombo Away Maria Monastery won the gold medal in the 4 x 200 meters of race fo
 [Data](articles/8d77bb8f.json)
 
 [Extended Data](ext_articles/8d77bb8f.ext.json)
-
----
-
-### Revision of Rejuvenious Purchase Purchase Fee
-
-*2024-07-03 02:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/187548) · `ta`
-
-The Cabinet has revised the power purchase fee under the Guaranteed Electricity Purchase Agreement, affecting developers with renewable energy projects of 10 MW or less. This decision was made to adjust fees based on the type of renewable energy source procured. A committee involving several government entities was formed to negotiate better terms for these developers. The changes were approved by the Cabinet, aiming to balance the cost of electricity while supporting renewable energy development.
-
-🟩
-
-The Cabinet has approved the revision of the reinforced power purchasing fee under the Guaranteed Electricity Purchase Agreement.
-
-Under the Ceylon Electricity Act No. 20 of the Ceylon Electricity Act, the Ceylon Electricity Agreement has to be made under the highest prices under the highest prices, based on the technical, based on the renewal of 10 MW or less.
-
-Accordingly, the Cabinet held on 2023.03.13 to implement the fee system that varies during the renewable strength procurement, but only a few of the Developers have signed the agreement.
-
-Therefore, a committee has been appointed with representatives of the Ministry of Power and Power, Economic Stability and National Electricity Board, Sri Lanka Standards Authority and Central Bank of Sri Lanka to obtain a representative of reinforced strength.
-
-The Cabinet has approved the proposal submitted by the Minister of Power and Power and Energy to accept the equivalent of the price calculation and implement the proposed fee amendments.
-
-◼️
-
-[Data](articles/c8cd3554.json)
-
-[Extended Data](ext_articles/c8cd3554.ext.json)
-
----
-
-### Rain water collection tanks in Jaffna with India's funding
-
-*2024-07-03 02:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187547) · `ta`
-
-India-funded rainwater collection tanks in Jaffna: 934 tanks to be built, part of a larger project to construct 3000 tanks for clean drinking water. Originally slated for completion in 3 years, extended to June 2024, with 1,831 Pewesi Rainwater Handicas replacing some cement tanks. The project aims to address water distribution issues in the region.
-
-🟩
-
-934 rainwater harvesting tanks will be constructed by the Government of India in the Jaffna district.
-
-The Cabinet meeting held on 25.10.2016 has been approved by the Government of India to sign a Memorandum of Understanding (Memorandum) for the construction of 3000 rainwater harvesting tanks in the district using the funds provided by the Government of India to distribute clean drinking water in the Jaffna district.
-
-Although this comment is scheduled to be completed in 3 years, the Cabinet meeting held on 2022.10.10 to extend the project until June 2024 and to set up 1,831 Pewesi Rainwater Handicas instead of Pero Cement Tanks.
-
-The Cabinet has approved the proposal submitted by the Minister of Justice, Prison Affairs and Constitutional Reforms to set up 934 rainwater harvesting tanks using the remaining funds under this scheme.
-
-◼️
-
-[Data](articles/3ad5006f.json)
-
-[Extended Data](ext_articles/3ad5006f.ext.json)
-
----
-
-### Inflation in June rise to 1.7 percent;Record of an increase of 0.8 percent compared to May
-
-*2024-07-03 02:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/187546) · `ta`
-
-Inflation rose from 0.9% in May to 1.7% in June, according to the Colombo Consumer Price Index. Food prices increased by 1.4%, contributing to a 0.77% monthly change. The unemployment rate also rose from 3.5% to 4.4%. The Central Bank aims to control inflation through policy measures, expecting stability within the medium term.
-
-🟩
-
-Inflation, which was recorded by 0.9 per cent in May, rose to 1.7 per cent in June, according to the Colombo Consumer Price Price estimate.
-
-Accordingly, the food money launched in June last year rose to 1.4 per cent in June and 1.8 per cent in June.
-
-Moreover, the monthly change of the Colombo Consumer Price Code was recorded in June at 0.77 per cent. This is due to the increase in the prices of food and food, the prices of services, the prices of services.
-
-The central employment, reflecting the basic work of the economy, rose from 3.5 percent to 4.4 per cent in June last year.
-
-The Central Bank has announced that it will be supported by the appropriate policy mechanisms and firm inflation, and the inflation will reach the target of the future, and that in the middle of the medium period, the Central Bank expects.
-
-◼️
-
-[Data](articles/7dd240bc.json)
-
-[Extended Data](ext_articles/7dd240bc.ext.json)
 
 ---

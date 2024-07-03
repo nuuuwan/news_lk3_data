@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 16:07:34**
+As of **2024-07-03 16:19:41**
 
 ## Newspaper Stats
 
-*Scraped **33,496** Articles*
+*Scraped **33,500** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,64 @@ colombotelegraphcom | 307
 bbccomsinhala | 329
 newsfirstlk | 363
 islandlk | 1,867
-economynextcom | 1,960
+economynextcom | 1,962
 dailyftlk | 2,068
-adalk | 2,986
+adalk | 2,987
 adaderanalk | 3,821
 tamilmirrorlk | 3,967
 dailymirrorlk | 4,733
 virakesarilk | 5,238
-adaderanasinhalalk | 5,550
+adaderanasinhalalk | 5,551
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,492 (100.0%) of 33,496 articles have been extended.
+33,496 (100.0%) of 33,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### එක්ස්ප්‍රස් පර්ල් නඩුව විභාග කිරීම අත්හිටුවමින් අතුරු නියෝගයක්
+
+*2024-07-03 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198450) · `si`
+
+එක්ස්ප්‍රස් පර්ල් නෞකාව ගිනිගැනීමේ සිද්ධිය සම්බන්ධයෙන් එම නෞකාවේ කපිතාන්වරයා සහ දේශීය නියෝජිත සමාගමේ අධ්‍යක්ෂවරුන්ට එරෙහිව කොළඹ මහාධිකරණය හමුවේ ගොනුකර තිබෙන නඩුව විභාග කිරීම අත්හිටුවමින් ශ්‍රේෂ්ඨාධිකරණය විසින් අතුරු නියෝගයක් නිකුත් කර තිබේ.
+
+තමන්ට එරෙහිව මහාධිකරණය හමුවේ ගොනුකර තිබෙන චෝදනා නීතිවිරෝධී බව සඳහන් කරමින් එක්ස්ප්‍රස් පර්ල් නෞකාවේ දේශීය නියෝජිත සමාගම වූ සී කොන්සෝටියම් ලංකා සමාගමේ අධ්‍යක්ෂවරුන් විසින් ගොනුකළ අභියාචනා පෙත්සමක් විභාගයට ගැනීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය මෙම නියෝගය නිකුත් කර ඇත.
+
+මෙම අභියාචනා පෙත්සම ඒ.එච්.එම්.ඩී. නවාස්, කුමුදුනි වික්‍රමසිංහ සහ ප්‍රියන්ත ප්‍රනාන්දු යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ සලකා බැලුණි.
+
+එහිදී පෙත්සම්කාර සමාගම වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ සරත් ජයමාන්න ඇතුළු නීතිඥවරුන් අධිකරණය හමුවේ කරුණු දක්වා තිබුණේ මෙම නඩුවේ කපිතාන්වරයාට සහ දේශීය නියෝජිත සමාගමේ අධ්‍යක්ෂවරුන් එක්කොට චෝදනා ඉදිරිපත් කිරීම නීතියට පටහැනි බවය.
+
+ඉන් අනතුරුව අභියාචනා පෙත්සම් විභාගය පෙබරවාරි මස 17 වනදා තෙක් කල් තැබුණි.
+
+◼️
+
+[Data](articles/2e95d5dc.json)
+
+---
+
+### SriLankan Airlines bidders being further evaluated: Minister
+
+*2024-07-03 16:00:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-bidders-being-further-evaluated-minister-170702/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers have not yet approved a set of prequalified bidders for state-run SriLankan Airlines, Aviation Minister Nimal Siripala de Silva said.
+
+Six parties responded to an initial expression of interest called by Sri Lanka’s State Owned Enterprises Restructuring Unit to divest the airline.
+
+The bids are being “further evaluated,” he told reporters in Colombo Wednesday.
+
+Sri Lanka “would like to see a Sri Lankan entrepreneur or consortium” buying into the airline but there was no firm interest, he said.
+
+The parties should have a strong balance sheet and expertise, as there were the jobs of 6,000 people at stake, he said. (Colombo/July03/2024)
+
+◼️
+
+[Data](articles/8a968759.json)
+
+---
 
 ### Strict measures against disruption of school education – President
 
@@ -48,39 +88,53 @@ The president, who requested that everyone prioritize children’s education, al
 
 [Data](articles/38803acb.json)
 
+[Extended Data](ext_articles/38803acb.ext.json)
+
 ---
 
-### විස්කි ඉස්සූ සිද්ධියේ සැකකරු රිමාන්ඩ්
+### Suspect's suspect remanded
 
 *2024-07-03 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198449) · `si`
 
-කොළඹ මහෙස්ත්‍රාත් අධිකරණයේ නඩු භාණ්ඩ ලෙස තිබූ රුපියල් කෝටි 2ක විස්කි බෝතල් අතුරුදන්වූ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරු එළඹෙන 16 වනදා තෙක් රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+A suspect was arrested for missing money (Rs) incidents. The Justice Minister mentioned in Parliament that an analyst found the suspect had robbed from opened rooms.
 
-මෙම සිද්ධිය සම්බන්ධයෙන් පසුගියදා අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පාර්ලිමේන්තුවේදී අනාවරණයක් සිදු කළේය.
+🟩
 
-එහිදී ඔහු වැඩිදුරටත් සඳහන් කළේ නියමිත යතුරෙන් කාමරයේ දොර විවෘත කර මෙම සොරකම සිදුකර ඇති බවට රස පරීක්ෂක වාර්තාවෙන් අනාවරණය වී ඇති බවය.
+The suspect arrested in connection with the missing incidents of Rs.
+
+Recently, Justice Minister Wijayadasa Rajapaksa revealed in Parliament recently.
+
+He added that the Analyst has revealed that the role of the rooms were opened in the room and had done the robbery.
 
 ◼️
 
 [Data](articles/c4b0f50d.json)
 
+[Extended Data](ext_articles/c4b0f50d.ext.json)
+
 ---
 
-### විදෙස් රැකියා සිහින පෙන්වා මුදල් ගැරූ ෂිෆ්නා අත්අඩංගුවට
+### Shrifna arrested for allegedly visiting foreign employment dreams
 
 *2024-07-03 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198448) · `si`
 
-ඩුබායි හා කටාර් රාජ්‍යවල රැකියා ලබාදෙන බව පවසා මුදල් වංචාකළ කාන්තාවක් ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් දෙමටගොඩ ප්‍රදේශයේදී ඊයේ (02) දින අත්අඩංගුවට ගෙන තිබේ.
+Shifna, a Dematagoda resident, was arrested by SLBFE's Special Investigation Division for allegedly securing jobs in Dubai and Qatar without authorization. She will face charges at the Maligakanda Magistrate's Court after being detained at Talangama Police Station.
 
-දෙමටගොඩ ප්‍රදේශයේ පදිංචි ෂිෆ්නා නැමැති කාන්තාවක් විසින් ඩුබායි හා කටාර් යන රටවල සුපිරි වෙළෙඳසැල්වල රැකියා ලබාදෙන බව පවසා දෙමටගොඩ ප්‍රදේශයේම පදිංචි පුද්ගලයින් තිදෙනෙකුගෙන් රුපියල් ලක්ෂ 4, ලක්ෂ 2.5 හා ලක්ෂ 1.5 බැගින් මුදල් ලබාගෙන පොරොන්දු වූ පරිදි රැකියාව ලබා නොදුන් බවට කාර්යාංශයේ විශේෂ විමර්ශන අංශයට පැමිණිලි 3ක් ලැබී තිබුණි.
+🟩
 
-එම පැමිණිලිවලට අනුව මෙම කාන්තාව විමර්ශන නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+A woman was arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment (SLBFE) in Dematagoda yesterday.
 
-අත්අඩංගුවට ගත් සැකකාරිය ඊයේ (02) රාත්‍රියේ තලංගම පොලිස් ස්ථානයේ රඳවා තබා ගැනීමින් පසු වැඩිදුර ප්‍රශ්න කිරීම් සිදු කිරීමෙන් අනතුරුව අද දින (03) මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතව ඇත.
+Section Shifna, a woman named Shifna, a resident of Dematagoda, has been given jobs in the land of Dubai and Qatar..
+
+According to the complaints, the woman has been arrested by the investigating officers.
+
+The arrested suspect is due to be produced before the Maligakanda Magistrate's Court today (03) after being detention of the Talangama Police Station at night.
 
 ◼️
 
 [Data](articles/c9c9057b.json)
+
+[Extended Data](ext_articles/c9c9057b.ext.json)
 
 ---
 
@@ -129,6 +183,24 @@ The injured girl was admitted to the Panadura Resource Hospital and was transfer
 [Data](articles/f54b6662.json)
 
 [Extended Data](ext_articles/f54b6662.ext.json)
+
+---
+
+### Sri Lanka Treasuries yields steady across maturities
+
+*2024-07-03 15:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-steady-across-maturities-170695/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasuries yields were steady across maturities at Wednesday’s auction, with 175 billion rupees sold of the offered 190.
+
+The three-month yield was unchanged at 10.07 percent, with 65.3 billion rupees of bills sold after offering 50 billion.
+
+The six-month yield was unchanged at 10.19 percent, with 73.6 billion rupees raised after offering 90 billion.
+
+The 12-month yield was unchanged at 10.31 percent with 36.6 billion rupees of bills sold after offering 50 billion.
+
+◼️
+
+[Data](articles/14c98a16.json)
 
 ---
 
@@ -433,6 +505,22 @@ Addressing a ceremony to provide teacher appointments at Temple Trees this morni
 [Data](articles/0b40fe43.json)
 
 [Extended Data](ext_articles/0b40fe43.ext.json)
+
+---
+
+### සම්බන්දන් ගේ වියොවින් පුරප්පාඩු වූ මන්ත්‍රී ධුරයට කුහදාසන්
+
+*2024-07-03 13:26:48* · [`adalk`](https://www.ada.lk/breaking_news/සම්බන්දන්-ගේ-වියොවින්-පුරප්පාඩු-වූ-මන්ත්‍රී-ධුරයට-කුහදාසන්/11-410588) · `si`
+
+ත්‍රිකුණාමලය දිස්ත්‍රික් මැතිවරණ කොට්ටාසයේ  පාර්ලිමේන්තු මන්ත්‍රී  දෙමළ ජාතික සංධානයේ නායක ඉරාජවරෝදයම්  සම්බන්ධන් මහතාගේ අභාවය හේතුවෙන් නවවැනි පාර්ලිමේන්තුවේ  පුරප්පාඩු  වූ  පාර්ලිමේන්තු මන්ත්‍රී ධුරයට  කදිරවේලු සම්මුගම් කුහදාසන්  මහතා මැතිවරණ කොමිෂන් සභාව විසින් තෝරා  පත්කර ඇත.
+
+දෙමළ ජාතික සන්ධානයේ  ත්‍රිකුණාමල දිස්ත්‍රික් සංවිධානයේ සභාපති ලෙස කටයුතු කරන  කුහදාසන් මහතා 2020 පාර්ලිමේන්තු මැතිවරණට තරග කර දෙමළ ජාතික සන්ධාන  ලැයිස්තුවේ මනාප චන්ද 16770 ක් ගෙන මනාප ලැයිස්තුවේ දෙවැනි තැනට පත්වී සිටියේය.
+
+පාර්ලිමේන්තු මැතිවරණ පනතට අනුව   මැතිවරණ කොමිෂන් සභාව වෙත පැවරී ඇති බලතල අනුව මෙම පත්කිරීම සිදුකිරීමට අදාල ගැසට් නිවේදනය මැතිවරණ කොමිෂන් සභාව විසින්න් ඊයේ(2) දාතමින්  නිකුත් කෙරිණි .
+
+◼️
+
+[Data](articles/f0b2356c.json)
 
 ---
 
@@ -756,21 +844,27 @@ The petition further requested to issue an interim order in the presidential ele
 
 ---
 
-### ඉදිරි වසර තුනේදී ලංකාවට ඩොලර් බිලියන 5ක වාසියක්
+### $ 5 billion to Sri Lanka at next three years
 
 *2024-07-03 12:02:51* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-වසර-තුනේදී-ලංකාවට-ඩොලර්-බිලියන-5ක-වාසියක්/11-410587) · `si`
 
-ශ්‍රී ලංකාවේ ණය තිරසරභාවය ළඟාකර ගැනීම සඳහා පැවති අවිනිශ්චිතතාවයන් සියල්ල මේ වන විට ඉවත්ව ගොස් තිබෙන බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සඳහන් කළේය.
+Over the next three years, Sri Lanka will receive $5 billion in loans crucial for its reconstruction. This follows agreements with the Official Creditors Committee, Paris Club members, and the Chinese Exim Bank, marking significant steps towards debt restructuring. Despite international optimism regarding Sri Lanka's creditworthiness, some domestic political parties remain skeptical, viewing the restructuring process negatively for political gain. The government aims to reduce public debt to 95% of GDP by 2032, lower the gross finance requirement to 13%, and decrease foreign loan servicing to 4.5% from 2027 to 2032. These measures are part of efforts to ensure the country's financial stability and economic growth.
 
-ජාත්‍යන්තර ප්‍රජාවම ලංකාවේ ණය ප්‍රතිව්‍යුහගත කිරීම සම්බන්ධයෙන් සුබවාදීව දැක ඇති නමුත් මෙරට ඇතැම් පාර්ශ්ව දේශපාලන අරමුණු වෙනුවෙන් එය සුබවාදීව දැකීම ප්‍රතික්ෂේප කළ බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+State Minister Shehan Semasinghe said that all uncertainties had already left Sri Lanka's debt currency.
 
-රටේ ආර්ථිකය යළි ගොඩ නැගීම වෙනුවෙන් අත්‍යවශ්‍ය වූ ණය ප්‍රතිව්‍යුහගතකරණය සම්බන්ධයෙන් වන සුබ ආරංචිය මේ වන විට ලැබී තිබෙනවා. ඉකුත් ජූනි මස 26 වනදා පැරිසියේ දී ද්වී පාර්ශ්වික ණය හිමියන් ලෙස නිල ණය හිමියන්ගේ කමිටුව සහ පැරිස් සමාජයේ රටවල් සමඟ එකඟතාවන්ට පැමිණීම මෙන්ම ගිවිසුම්ගතවීම ද සිදු වුණා. ඒ වගේම එදිනම චීන එක්සිම් බැංකුව සමඟ ද එකඟතාවන්ට පැමිණ ගිවිසුම්ගතවීම සිදු වුණා. මේ අනුව ණය ප්‍රතිව්‍යුහගත කිරීම සම්බන්ධයෙන් අත්‍යවශ්‍ය ප්‍රධානම කාරණා දෙකක් අප විසින් සම්පූර්ණ කර තිබෙනවා.
+The international community has seen optimism in Sri Lanka's credit but refused to see it optimistic for political purposes, some of the parties in Sri Lanka.
+
+State Minister of State Shehan Semasinghe made this statement participating at a press conference held at the Presidential Media Center.
+
+The good news of the loans that are essential for the rebuilding of the country has already received. On June 26, the official creditors committee of the Official Creditors Committee and the countries of Paris society were in agreement as bilateral creditors in Paris on June 26. Also, the Chinese Exim Bank had also contracted the agreement. Thus, we have completed two major things that are essential for restructuring of debt.
 
 ...
 
 [Data](articles/0d467529.json)
+
+[Extended Data](ext_articles/0d467529.ext.json)
 
 ---
 
@@ -2225,89 +2319,5 @@ The Central Bank has announced that it will be supported by the appropriate poli
 [Data](articles/7dd240bc.json)
 
 [Extended Data](ext_articles/7dd240bc.ext.json)
-
----
-
-### Eelam Tamils ​​contest in the British general election tomorrow
-
-*2024-07-03 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/187545) · `ta`
-
-In the upcoming British general election, several candidates of Eelam Tamil origin are vying for parliamentary seats, each expressing support for accountability and justice regarding the 2009 Sri Lankan war crimes. They pledge to work with international bodies like the UN Human Rights Council and NGOs to ensure justice for the victims.
-
-🟩
-
-The British general election, which is expected at the international level, is scheduled to be held on Thursday (4), and the British Eelam Tamils ​​are contesting the election this time.
-
-Accordingly, the native of Sri Lanka, the British parliamentarian has been selected as a Member of Parliament.. Uma Kumaran on behalf of the Labor Party and Devina, Kevin Haran on behalf of the Conservative Party, Narani Rudra-Rajan on behalf of The Green, Kamala Kugan on behalf of the Liberal Democrats and Mayuran Senthilnathan on behalf of the Reform UK party.
-
-The comments they have expressed about their attitude towards the Eelam Tamil affair and their obligation to take responsibility for war criminals:
-
-...
-
-[Data](articles/8d70779d.json)
-
-[Extended Data](ext_articles/8d70779d.ext.json)
-
----
-
-### The uncertainty is over
-
-*2024-07-03 01:22:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிச்சயமற்ற-தன்மை-முடிந்துவிட்டது/175-339789) · `ta`
-
-Sri Lanka's Finance Minister Xihan Semasinghe announced the end of uncertainty regarding the country's economy, citing progress in debt restructuring and economic management. Agreements with bilateral creditors and Paris Association countries aim to reduce state loans to 95% of GDP by 2032, lower the financial requirement to 13%, and decrease foreign credit service to 4.5% between 2027 and 2032. These measures, along with successful inflation reduction from 70% to 1.7%, signal a positive outlook for Sri Lanka's economic future.
-
-🟩
-
-Finance Minister Xihan Semasinghe said that all the uncertainty in Sri Lanka's uncertainty in Sri Lanka has now ended.
-
-State Minister Sehan Semasinghe said this at a media briefing held at the Presidential Media Center yesterday.. As he further stated,
-
-The good news on the debt renovation that is necessary to rebuild the country's economy. On June 26, agreements and agreements were made with the bilateral credit issuers team and the countries of the Paris Association as official credit providers.
-
-Moreover, by 2032, state loans should be reduced to 95 percent of the total national production. Total financial requirement to be reduced to 13 percent over the period of 2027 and 2032. During the period of 2027-2032, foreign credit service should be reduced to 4.5 %.
-
-...
-
-[Data](articles/4c87e960.json)
-
-[Extended Data](ext_articles/4c87e960.ext.json)
-
----
-
-### Shanmugam Kukadasan for Sambandan's vacuum
-
-*2024-07-03 01:16:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனின்-வெற்றிடத்திற்கு-சண்முகம்-குகதாசன்/175-339788) · `ta`
-
-Shanmugam Kukadasan, a Canadian-based Master's graduate in State Sciences and former head of the Sri Lanka Tamil National Party, has announced his candidacy for the Trincomalee District Parliamentary seat through the Sri Lanka Tamil National Alliance (TNA), following the vacancy left by the late Rajadavarodhayam Sambandan.
-
-🟩
-
-The Elections Commission has said that the Sri Lanka Tamil National Alliance (TNA) Shanmugam Kukadasan has taken steps to announce the name of the Gazette for the vacant Trincomalee District Parliamentary seat.
-
-Shanmugam Kukadasan, a native of Trincomalee, is a Masters Graduate in the State Sciences.
-
-Shanmugam Kukadasan, who has long lived in Canada, has been on duty on two occasions as the head of the Sri Lanka Tamil National Party since 2020.
-
-Shanmugam Kukadasan contested the 2020 parliamentary election on behalf of the Sri Lanka Tamil National Alliance (TNA). In that election, the senior leader of the Sri Lanka Tamil National Alliance (TNA) had received the highest number of votes after the late Rajadavarodhayam Sambandan. (A)
-
-◼️
-
-[Data](articles/b668d843.json)
-
-[Extended Data](ext_articles/b668d843.ext.json)
-
----
-
-### Will the  Economic “Good News” From Paris and Beijing Help Ranil  Win the 2024 Presidential Poll  in Sri Lanka?
-
-*2024-07-03 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84319) · `en`
-
-Ranil  Wickremesinghe was appointed Prime Minister on 12 May 2022 by the then president Gotabaya Rajapaksa. Sri Lanka was in the grip of a debilitating economic crisis then. The “Aragalaya”(struggle) protest movement was raging. The new premier addressed the nation through a special statement on 16 May 2022. In that Wickremesinghe referred to Bertolt Brecht’s play “The Caucasian Chalk Circle”. This is what he said then –
-
-...
-
-[Data](articles/7940d96a.json)
-
-[Extended Data](ext_articles/7940d96a.ext.json)
 
 ---

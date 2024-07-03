@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 03:19:45**
+As of **2024-07-04 03:35:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,554 (100.0%) of 33,555 articles have been extended.
+33,555 (100.0%) of 33,555 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ President Ranil Wickremesinghe claims that it is his economic diligence that has
 ...
 
 [Data](articles/3e5be030.json)
+
+[Extended Data](ext_articles/3e5be030.ext.json)
 
 ---
 

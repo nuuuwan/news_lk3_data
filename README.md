@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 17:55:54**
+As of **2024-07-03 18:14:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,552
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,506 (100.0%) of 33,508 articles have been extended.
+33,508 (100.0%) of 33,508 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,35 @@ The new Dutch government consists of the far-right populist Party for Freedom (P
 
 [Data](articles/23ea2f14.json)
 
+[Extended Data](ext_articles/23ea2f14.ext.json)
+
 ---
 
-### இலங்கையை சர்வதேச நீதிமன்றத்தின் முன் பாரப்படுத்துவதற்கான பொறிமுறைகள் உள்ளதாக  தொழில்கட்சி கருதுகின்றது- தமிழர்களிற்கு  சுயநிர்ணய உரிமை மிகவும் அவசியமானது - பிரிட்டன் தேர்தலில் போட்டியிடும் பிரிட்டிஸ் தமிழர் டெவினா போல்
+### The Labor Party considers that Sri Lanka has mechanisms to proceed with the International Court of Justice - the right to self -determination for Tamils ​​is essential - Like British Tamil Devina contesting the British election
 
 *2024-07-03 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/187611) · `ta`
 
-இலங்கையை சர்வதேச நீதிமன்றத்தின் முன் பாரப்படுத்துவதற்கான பொறிமுறைகளும் மதிப்பிடும் வழிவகைகளும் காணப்படுகின்றன என பிரிட்டனின் தொழில்கட்சி கருதுகின்றது என அந்த கட்சியின் சார்பில் தேர்தலில் போட்டியிடும் பிரிட்டிஸ் தமிழரான டெவினா போல் தெரிவித்துள்ளார்.
+The British Labor Party supports Sri Lanka's engagement with the International Court of Justice, emphasizing the importance of self-determination for Tamils. The party, led by figures like Keir Starmer and David Lammy, vows to prioritize accountability and justice for the Tamil community, including recognizing the Tamil genocide and supporting mechanisms for war crime prosecution. They pledge to address the Tamil issue in government if elected, advocating for peace and justice for all Sri Lankans.
 
-தமிழ் மக்களிற்கு சுயநிர்ணய உரிமை எவ்வளவு அவசியம் என்பதை நான் உணர்ந்துகொண்டிருக்கின்றேன் எனவும் அவர் தெரிவித்துள்ளார்
+🟩
 
-தொழில் கட்சி  எப்போதும் சமாதானம் மற்றும் நீதி ஆகிய விடயங்களில் இலங்கை தமிழர்களுடன் தோளோடு தோள் நின்றுள்ளது.
+The British Labor Party, who is contesting the election on behalf of the party, said that there are mechanisms and evaluation of Sri Lanka to proceed with the International Court of Justice.
 
-தொழில்கட்சியின் தலைவர் கெயர் ஸ்டாமெர், சபான் மக்டொனாக் ஸ்டீபன் டிம்ஸ்,எங்கள் எதிர்கால வெளிவிவகார அமைச்சர் டேவிட் லம்மி போன்றவர்களும் ஏனைய பலரும் இலங்கையில் யுத்தத்தின்போது இழைக்கப்பட்ட குற்றங்கள் மற்றும் தமிழர்கள் தொடர்ந்தும் அனுபவிக்கும் துயரங்களிற்கு போதிய நீதியும் பொறுப்புக்கூறலும் இல்லாமை குறித்து குரல்கொடுத்து வந்துள்ளனர்.
+"I am realizing how much self -determination is necessary for the Tamil people," he said.
+
+The Labor Party has always been shoulder to shoulder with Sri Lankan Tamils ​​on peace and justice.
+
+Labor party leader Gyer Stamer, Saban Magdonak Stephen Timmy, our future Foreign Minister David Lummi and many others have been vocal on the lack of justice and responsibility for the crimes committed in Sri Lanka and the continuing tragedies.
+
+The Westering Parliament was confident in the parliament on behalf of Kair Starmer David Limmy that accountability was important in its foreign policy during the Tamil genocide last month.
+
+The Labor Party has a serious assurance that the issue should not be excluded from the agenda.
 
 ...
 
 [Data](articles/d1fdbbb3.json)
+
+[Extended Data](ext_articles/d1fdbbb3.ext.json)
 
 ---
 

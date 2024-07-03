@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 22:35:05**
+As of **2024-07-03 22:52:47**
 
 ## Newspaper Stats
 
-*Scraped **33,535** Articles*
+*Scraped **33,536** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,867
 economynextcom | 1,967
 dailyftlk | 2,068
 adalk | 2,994
-adaderanalk | 3,827
+adaderanalk | 3,828
 tamilmirrorlk | 3,967
 dailymirrorlk | 4,733
 virakesarilk | 5,246
@@ -26,11 +26,37 @@ adaderanasinhalalk | 5,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,531 (100.0%) of 33,535 articles have been extended.
+33,535 (100.0%) of 33,536 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### Teenage boy and girl ‘jumped’ to death from 67th floor of Altair?
+
+*2024-07-03 22:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100277/teenage-boy-and-girl-jumped-to-death-from-67th-floor-of-altair) · `en`
+
+A 15-year-old boy and a girl had died last night (02) after apparently falling from the 67th floor of the ‘Altair’ apartment building in Slave Island, Colombo.
+
+Police stated that the incident is suspected to be a case of double suicide.
+
+The deceased were Grade 10 students at an international school in Colombo 07.
+
+The teen girl and the boy had arrived at the gym located on the fifth floor of the luxury apartment complex after school yesterday.
+
+They had then changed their clothes and left their school bags at the gym, before going to the 67th floor of the building using the staircase outside.
+
+Later, their bodies were discovered where the outdoor units of the building’s air conditioning for the 3rd floor of the apartment complex are installed.
+
+It is reported that their bodies had sustained severe injuries from colliding with the A/C vent machines.
+
+The deceased male student is a resident of Wellawatte and the female student is a resident of Kelaniya.
+
+...
+
+[Data](articles/db4f4e82.json)
+
+---
 
 ### Dematagoda Chaminda's wife jumps from country
 
@@ -110,23 +136,31 @@ Investigation is also an investigation into whether there are other police offic
 
 ---
 
-### தமிழ்மக்களின் உரிமைகளை ஆதரிப்பது அவர்களிற்கு இழைக்கப்பட்ட அநீதிகளிற்கு  நீதியை உறுதி செய்வது குறித்து கென்சவேர்ட்டிவ் கட்சி உறுதி- பிரிட்டன் தேர்தலிற்கு முன்னர் கட்சியின் வேட்பாளர் எலியட் கொல்பேர்ன்
+### Kenzavertiv Party pledged to ensure justice for the injustices inflicted on Tamils
 
 *2024-07-03 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/187626) · `ta`
 
-தமிழ்மக்களின் உரிமைகளை ஆதரிப்பது மற்றும் வரலாற்று அநீதிகளிற்கு தீர்வை காண்பது குறித்த கென்சவேர்ட்டிவ் கட்சியின் அர்ப்பணிப்பு உறுதியாக உள்ளது  என கென்சவேர்ட்டிவ் கட்சியின் கார்சல்டன் மற்றும் வலிங்டன் வேட்பாளர் எலியட் கோல்பேர்ன் தெரிவித்துள்ளார்
+Kenzavertiv Party commits to rectifying injustices against Tamils, emphasizing support for Tamil rights and addressing historical wrongs. Candidate Eliot Golberan stresses the party's dedication to the Tamil community, urging voters to support them for continued efforts towards justice and reconciliation. Highlighting Britain's role in holding the UN accountable for Sri Lanka's Civil War atrocities, the party contrasts its actions with mere rhetoric, promising effective solutions. The party also acknowledges the significance of Tamil Memorial Day, joining in remembrance and determination to address the community's ongoing pain.
 
-பிரிட்டனின் நாடாளுமன்ற தேர்தலிற்கு முன்னதாக தமிழ் கார்டியனில் எழுதியுள்ள கட்டுரையில்  அவர் இதனை குறிப்பிட்டுள்ளார்.
+🟩
 
-தமிழ்சமூகத்தின் நீண்டகால சகா என்ற அடிப்படையில் தமிழ் சமூகத்தினை பிரதிநிதித்துவப்படுத்துவது குறித்தும் பகிர்ந்துகொள்ளப்பட்ட விழுமியங்கள் பரஸ்பர மதிப்பு நீதி மற்றும் செழிப்பு ஆகியவற்றிற்கான அர்ப்பணிப்பு ஆகியவற்றிற்காக போராடுவது குறித்தும் நான் மகிழ்ச்சியடைகின்றேன்.
+Kenzavertiv's commitment to support the rights of Tamils ​​and resolves historical injustices is firm, Kenzavertiv's Carselton and Valayangton candidate Eliot Golberan said
 
-நாங்கள் மிக முக்கியமான தேர்தலை நெருங்கும் இவ்வேளையில் நாங்கள் ஒன்றிணைந்து சாதித்த முன்னேற்றங்கள் குறித்தும்இமுன்னோக்கி பயணிப்பதற்கான பாதை குறித்தும்  தமிழ் சமூகம் சிந்திப்பது அவசியமாகும்.
+He made this statement in an article in Tamil Guardian ahead of Britain's parliamentary elections.
 
-தமிழ் மக்களிற்கான தொடர்ச்சியான அர்ப்பணிப்பை உள்நாட்டிலும் வெளிநாட்டிலும் வெளிப்படுத்திய கென்சவேர்ட்டிவ் கட்சிக்கு வாக்களிக்குமாறு நான் உங்களை கேட்டுக்கொள்கின்றேன்.
+I am happy to be representing the Tamil community on the basis of the long -standing colleague of the Tamil community and the values ​​shared and the mutual value of mutual value and prosperity.
+
+As we are approaching the most important elections, it is necessary to think about the progress we have achieved and the path to traveling.
+
+I urge you to vote for the Kensavertive Party, which has expressed continuous commitment to the Tamil people at home and abroad.
+
+Britain has led the United Nations accountable measures for events during the Civil War of Sri Lanka.
 
 ...
 
 [Data](articles/7518ae73.json)
+
+[Extended Data](ext_articles/7518ae73.ext.json)
 
 ---
 
@@ -176,21 +210,29 @@ President Ranil Wickremesinghe explained the progress of the revenue restructuri
 
 ---
 
-### சம்பந்தனின் பூதவுடலுக்கு யாழில் நாளை அஞ்சலி
+### Tomorrow's tribute to Sambandan
 
 *2024-07-03 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/187624) · `ta`
 
-மறைந்த இலங்கைத் தமிழரசுக்கட்சியின் சிரேஷ்ட தலைவரும், திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இரா.சம்பந்தனின் பூதவுடல் 04ஆம் திகதி வியாழக்கிழமை யாழில் பொதுமக்கள் அஞ்சலிக்காக வைக்கப்படவுள்ளது.
+A tribute to R. Sampanthan, a senior leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian, will take place in Jaffna on Thursday. The event, scheduled from 9 am to 4 pm at the Father Selva Auditorium, involves transporting a tribute from Colombo by plane for the funeral in Trincomalee. Additionally, a public tribute in Kilinochchi is planned to honor Sampanthan, recognized as a key political figure among the Tamil people of the North and East.
 
-யாழ்ப்பாணத்தில் உள்ள தந்தை செல்வா கேட்போர் கூடத்தில் காலை ஒன்பது மணி முதல் மாலை 4மணி வரையில் அன்னாரது பூதவுடல் அஞ்சலிக்காக வைக்கப்படவுள்ளது.
+🟩
 
-இதற்காக அன்னாரது பூதவுடல் விமானம் மூலம் கொழும்பில் இருந்து கொண்டுவரப்படவுள்ளதோடு இன்று மலையில் திருகோணமலையில் உள்ள அன்னாரது இல்லத்தில் இறுதிக்கிரியைகளுக்காக மீண்டும் விமானம் ஊடாக கொண்டு செல்லப்படவுள்ளது.
+Senior leader of the late Sri Lanka Tamil National Party and Trincomalee District Parliamentarian, R. Sampanthan, will be held in Jaffna on Thursday, 04.
 
-இதேவேளை, வடக்கு,கிழக்கு தமிழ் மக்களின் ஏகோபித்த அரசியல் தலைவரால் அடையாளம் காட்டப்பட்ட அரசியல் பெருந்தலைவரும், திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான அமரர் இரா.சம்பந்தனின் புகழுடலை கிளிநொச்சியில் மக்கள் அஞ்சலிக்காக வைப்பதற்கு நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளன.
+Father Selva Auditorium in Jaffna will be placed for the tribute from 9 am to 4 pm.
 
-...
+For this purpose, it will be brought from Colombo by plane and will be taken back by plane for the funeral at the Annara's residence in Trincomalee today.
+
+Meanwhile, steps have been taken to make a tribute to the public in Kilinochchi, a political leader and Trincomalee district parliamentarian Amarar R. Sampanthan, who was identified by the unanimous political leader of the Tamil people of the North and East.
+
+It is noteworthy that the MP Sridharan's media unit has announced that steps will be taken to make a public tribute at the Kilinochchi District Workshop of the Kilinochchi District of the Sri Lankan Tamil National Alliance (TNA).
+
+◼️
 
 [Data](articles/0ef37af5.json)
+
+[Extended Data](ext_articles/0ef37af5.ext.json)
 
 ---
 
@@ -228,23 +270,33 @@ There is no suicide, or whether these deaths are suicide, or an accident regardi
 
 ---
 
-### ரிட்ஸ்பறி தொடர் ஓட்ட சம்பியன்ஷிப்பில் ரட்நாயக்க அணியை அதிரவைத்து வெற்றியீட்டியது வங்கியகும்புர அணி
+### Ratnayake won the Ritbury Series Running Championship
 
 *2024-07-03 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/187623) · `ta`
 
-பதுளை, வின்சென்ட் டயஸ் விளையாட்டரங்கில் நடைபெற்றுவரும் இரண்டாவது ரிட்ஸ்பறி பாடசாலைகள் தொடர் ஓட்ட சம்பியன்ஷிப் போட்டி ஒன்றில் பலம்வாய்ந்த வலல்ல ஏ. ரட்நாயக்க தேசிய கல்லூரி அணியை அதிரவைத்து வெலிமடை வங்கியகும்புர தேசிய பாடசாலை அணி வெற்றியீட்டி வரலாறு படைத்தது.
+Ratnayake Central College dominated the Ritbury Series Running Championship, winning several events including the 4x800 meters for both men's categories under 16 and 18, and securing the overall lead with 7 gold medals after two days. Other notable winners include Banangagumbura National School for women under 18 and various schools for specific races, with Wattala Lyceum International School also performing well.
 
-18 வயதுக்குட்பட்ட பெண்களுக்கான 4 x 800 மீற்றர் தொடர் ஓட்டப் போட்டியை 10 நிமிடங்கள் 28.8 செக்கன்களில் நிறைவுசெய்த வங்கியகும்புர தேசிய பாடசாலை அணி தங்கப் பதக்கத்தை சுவீகரித்து அசத்தியது.
+🟩
 
-அப் போட்டியில் வெற்றி பெறும் என எதிர்பார்க்கப்பட்ட வலல்ல ஏ. ரட்நாயக்க மத்திய கல்லூரி (10:29.8 நி.) இரண்டாம் இடத்தையே பெற்றது.
+The second writbury schools in the Vincent Dias Stadium, Badulla. The Welimada Bankumbura National School team won the history of the Ratnayake National College team.
 
-எவ்வாறாயினும் முதலாம் நாளில் போன்றே இரண்டாம் நாளான இன்றைய தினமும் வலல்ல ஏ. ரட்நாயக்க மத்திய கல்லூரி தனது ஆதிக்கத்தை வெளிப்படுத்தத் தவறவில்லை.
+The Banangagumbura National School team won the gold medal for 10 minutes 28.8 seconds for women under the age of 18.
 
-முதல் நாளன்று 4 தங்கப் பதக்கங்களை சுவீரிகத்த ரட்நாயக்க மத்திய கல்லூரி, இரண்டாம் நாளான இன்று மேலும் 3 தங்கப் பதக்கங்களை வென்றெடுத்தது.
+Walla is expected to win the match. Ratnayake Central College (10: 29.8 n) finished second.
+
+However, the second day is the second day, just like the first day.. Ratnayake Central College has not failed to express its domination.
+
+On the first day, 4 gold medals were won by Ratnayake Central College, the second day.
+
+4 x 800 meters of race for men under 16 (8: 34.4 n.), 4 x 800 meters of men aged 18 years (8: 22.3 n.)Walala Ratnayake Central College has won 3 gold medals.
+
+Moratuwa Vinayanagi Nunnas Monastery and Negombo Ave Merna Monastery won gold medals in the 4 x 50m race for girls under the age of 12 (29.8 Seg).
 
 ...
 
 [Data](articles/97b09e68.json)
+
+[Extended Data](ext_articles/97b09e68.ext.json)
 
 ---
 
@@ -1188,23 +1240,33 @@ The music release of the film was a Guinness record attracted to everyone. In th
 
 ---
 
-### நாட்டின் பொருளாதார மீட்சியில் ஜப்பானுக்கு மிகமுக்கிய வகிபாகம் உண்டு  - அலி சப்ரி
+### Japan has the most important role in the country's economic recovery - Ali Sabri
 
 *2024-07-03 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/187595) · `ta`
 
-இலங்கையின் பொருளாதார மீட்சியில் ஜப்பான் பரஸ்பர நன்மையளிக்கக்கூடிய மிகமுக்கிய வகிபாகத்தைக் கொண்டிருப்பதாகவே தாம் கருதுவதாக வெளிவிவகார அமைச்சர் அலி சப்ரி தெரிவித்துள்ளார்.
+Ali Sabri, Sri Lanka's External Affairs Minister, highlights Japan's crucial role in his country's economic recovery during his visit there. He emphasizes the strong bilateral relationship based on mutual respect, democracy, and economic ties, thanking Japan for its financial support during Sri Lanka's economic crisis. Sabri encourages increased Japanese investment in sectors like electricity, ports, highways, green, and digital economies, calling Japan a vital development partner.
 
-ஜப்பானிய வெளிவிவகார அமைச்சர் யொகோ கமிகவாவின் அழைப்பின்பேரில் வெளிவிவகார அமைச்சர் அலி சப்ரி இம்மாதம் 1 - 7 ஆம் திகதி வரை ஜப்பானுக்கு உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டுள்ளார்.
+🟩
 
-அதன்படி நேற்று முன்தினம் செவ்வாய்கிழமை ஜப்பானிய வெளிவிவகார அமைச்சர் யொகோ கமிகவாவை சந்தித்துக் கலந்துரையாடிய அமைச்சர் அலி சப்ரி, அதனைத்தொடர்ந்து நடத்திய கூட்டு ஊடகவியலாளர் சந்திப்பில் கருத்து வெளியிடுகையிலேயே மேற்கண்டவாறு தெரிவித்தார்.
+External Affairs Minister Ali Sabri says he thinks Japan has a very important role in the economic recovery of Sri Lanka.
 
-எமது இரு நாடுகளும் பல்வேறு துறைகள் சார்ந்து இருதரப்பு நல்லுறவை மேலும் வலுப்படுத்துவதையும், விரிவுபடுத்துவதையும் முன்னிறுத்தி தொடர்ச்சியாக மிகநெருங்கிப் பணியாற்றி வந்திருக்கின்றன.
+At the invitation of Japanese Foreign Minister Yogo Kamikawa, Foreign Minister Ali Sabri made an official visit to Japan from 1st to 7th of this month.
 
-இரு நாடுகளுக்கும் இடையிலான பிணைப்பானது பரஸ்பர மரியாதை மற்றும் புரிந்துணர்வு ஆகியவற்றையே அடிப்படையாகக் கொண்டிருக்கின்றது.
+Minister Ali Sabri, who met Japanese Foreign Minister Yogo Kamikawa on Tuesday, said this while commenting at a joint media briefing held.
+
+Our two countries have been continuously working on further strengthening and expansion of bilateral harmony based on various sectors.
+
+The bond between the two countries is based on mutual respect and understanding.
+
+It has created a special bond between our two countries, such as democracy, human rights, open economic activities and relations between the people.. The Apostle is further strengthened by mutual high -level visits.
+
+Your visit to Sri Lanka last May and President Ranil Wickremesinghe's visit to Japan in May last year reveal the goodwill between Sri Lanka and Japan.
 
 ...
 
 [Data](articles/5c7763b1.json)
+
+[Extended Data](ext_articles/5c7763b1.ext.json)
 
 ---
 
@@ -2407,27 +2469,5 @@ In equities, Colombo’s All Share Price Index opened 3.56 points higher at 12,1
 [Data](articles/c1e84e78.json)
 
 [Extended Data](ext_articles/c1e84e78.ext.json)
-
----
-
-### Fire at a series of apartments in Etiyantota;Two people die!
-
-*2024-07-03 09:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/187553) · `ta`
-
-In Pallegama, near Etiyanthota, a fire killed two people and injured three others in the early hours of Wednesday.
-
-🟩
-
-Two persons were killed in a fire in a residential area of ​​Pallegama area, which belongs to the Etiyanthota police division, police said.
-
-The fire broke out in the early hours of Wednesday (03) and three persons have been damaged, police said.
-
-A 60 -year -old man and a 50 -year -old woman died in the fire, police said.
-
-◼️
-
-[Data](articles/4067f02d.json)
-
-[Extended Data](ext_articles/4067f02d.ext.json)
 
 ---

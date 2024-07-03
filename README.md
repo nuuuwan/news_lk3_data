@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 20:05:14**
+As of **2024-07-03 20:19:44**
 
 ## Newspaper Stats
 
-*Scraped **33,522** Articles*
+*Scraped **33,523** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,826
 tamilmirrorlk | 3,967
 dailymirrorlk | 4,733
 virakesarilk | 5,242
-adaderanasinhalalk | 5,554
+adaderanasinhalalk | 5,555
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,522 (100.0%) of 33,522 articles have been extended.
+33,522 (100.0%) of 33,523 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### ජනපතිගේ ධුර කාලය නිමා වෙන දිනය කවදා ද ?
+
+*2024-07-03 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198455) · `si`
+
+ජනාධිපතිවරයාගේ ධුර කාලය නිමාවන දින වකවානුව සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණය අර්ථ නිරූපණයක් ලබාදෙන තුරු දැනට සැලසුම් කර ඇති පරිදි ජනාධිපතිවරණය පැවැත්වීම වැළැක්වීමේ අතුරු නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ අද (03) මූලික අයිතිවාසිකම් පෙත්සමක් ගොනු කෙරුණි.
+
+ඒ, මොරටුව ප්‍රදේශයේ පදිංචි ව්‍යවසායකයෙකු වන සී.ඩී. ලෙනව මහතා විසිනි.
+
+ව්‍යවසායකයකු වන සී.ඩී. ලෙනව මහතා ශ්‍රේෂ්ඨාධිකරණය හමුවේ අද ගොනු කළ පෙත්සමෙන් දක්වා තිබුණේ 19 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය හේතුවෙන් ජනාධිපතිවරයාගේ ධුර කාලය සම්බන්ධයෙන් අපැහැදිලිතාවයක් නිර්මාණය වී ඇති බවය.
+
+2015දී බලයේ සිටින ජනාධිපතිවරයාගේ නිල කාලය වසර 05 ක් දක්වා අඩු කරන විට එය ජනමත විචාරණයකට යොමු කළ යුතු වුවත් එසේ සිදුවී නොමැති බව පෙත්සම්කරු පෙන්වා දෙයි.
+
+ඒ අනුව ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 82 වැනි ව්‍යවස්ථාව අනුව නිසිපරිදි ජනමත විචාරණයක් නොපැවැත්වීමෙන් 30(2) ව්‍යවස්ථාව නිසි පරිදි සම්මත වී නොමැති බවත්, එබැවින් ජනාධිපතිවරයාගේ නිල කාලය අවසන් වන්නේ අවුරුදු 05 කින්ද, නැතිනම් අවුරුදු 06 කින්ද යනුවෙන් ගැටලුවක් මතු වන බවත් පෙත්සමේ සඳහන් ය.
+
+...
+
+[Data](articles/3e15860c.json)
+
+---
 
 ### Gusal Perera was in vain;Jevna Kings beat Dambulla Sixers with 4 wickets
 
@@ -2401,27 +2421,5 @@ The CPC had been directed in the past to take loans state banks and import oil w
 [Data](articles/1915a725.json)
 
 [Extended Data](ext_articles/1915a725.ext.json)
-
----
-
-### Excise revenue increased by 17
-
-*2024-07-03 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198430) · `si`
-
-The Excise Department earned Rs. 105 billion by June 2024, a 17 billion increase from the previous year, despite natural disasters affecting operations. They aimed for Rs. 107 billion but fell short due to unforeseen circumstances, still achieving near 20% growth over last year.
-
-🟩
-
-The Excise Department has been able to earn Rs. 105 billion from Rs.
-
-Excise Commissioner. J. Mr. Gunasiri said this is a growth of 17 billion rupees compared to last year.
-
-"The Excise Department by 304 June 2024, we have found Rs. 105 billion. 88 billion at last year's time. We have achieved a growth of 17 billion rupees. We expected about 20 billion in this six months. Natural disasters caused by a number of questions in our main management. So we had about 3 billion rupees. Otherwise, we go to a target of Rs 107 billion as planned. Accordingly, a growth of nearly 20% has been acquired relative to last year. It is a distinctive achievement. "
-
-◼️
-
-[Data](articles/367b63ec.json)
-
-[Extended Data](ext_articles/367b63ec.ext.json)
 
 ---

@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 12:19:36**
+As of **2024-07-03 12:35:06**
 
 ## Newspaper Stats
 
-*Scraped **33,456** Articles*
+*Scraped **33,459** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 306
 colombotelegraphcom | 307
-bbccomsinhala | 327
+bbccomsinhala | 328
 newsfirstlk | 363
 islandlk | 1,866
 economynextcom | 1,957
 dailyftlk | 2,068
 adalk | 2,982
-adaderanalk | 3,816
+adaderanalk | 3,818
 tamilmirrorlk | 3,963
 dailymirrorlk | 4,733
 virakesarilk | 5,225
@@ -26,25 +26,61 @@ adaderanasinhalalk | 5,543
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,455 (100.0%) of 33,456 articles have been extended.
+33,456 (100.0%) of 33,459 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
-### ජනාධිපතිවරයාගේ ධුර කාලය සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක්
+### ‘Harak Kata’ produced at Colombo HC amidst tight security
+
+*2024-07-03 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100266/harak-kata-produced-at-colombo-hc-amidst-tight-security) · `en`
+
+The Colombo High Court has ordered for the case filed against three defendants, including the notorious criminal figure and drug trafficker Nadun Chinthaka alias ‘Harak Kata,’ over his failed escape attempt from the Criminal Investigation Department (CID), to be called for pre-trial conference on July 29.
+
+The case was taken up today (03) before Colombo High Court Judge Damith Thotawatta.
+
+At that time, the accused ‘Harak Kata’ was produced before the court amidst tight security.
+
+After considering all the facts presented, the judge fixed the case for further pre-trial conference on July 29.
+
+◼️
+
+[Data](articles/d0f4e005.json)
+
+---
+
+### FR petition filed to prevent calling of Presidential Election
+
+*2024-07-03 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100265/fr-petition-filed-to-prevent-calling-of-presidential-election-) · `en`
+
+A businessman has filed a fundamental rights (FR) petition seeking an order preventing the calling of a Presidential Election until the Supreme Court delivers its interpretation on the date of the presidential poll, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/2ae9b37a.json)
+
+---
+
+### Petition to the Supreme Court regarding the term of President
 
 *2024-07-03 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198442) · `si`
 
-වත්මන් ජනාධිපතිවරයාගේ ධුර කාලය ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව ශ්‍රේෂ්ඨාධිකරණය අර්ථකථනය කරන ලෙස ඉල්ලා පෙත්සමක් ඉදිරිපත් වී තිබේ.
+A petition has been filed by entrepreneur CD. Leena, asking the Supreme Court to clarify the constitutional interpretation of the current president's term. The petition requests an interim order in the ongoing presidential election until the court's decision on the term's duration.
 
-අදළා පෙත්සම ඉදිරිපත් කර ඇත්තේ, ව්‍යවසායකයෙකු වන සී.ඩී. ලෙනව මහතා විසිනි.
+🟩
 
-පෙත්සමෙන් වැඩිදුරටත් ඉල්ලා ඇත්තේ, මීළඟ ජනාධිපතිවරණය පැවැත්වෙන දිනය අධිකරණය විසින් අර්ථකථනය කරන තුරු දැනට නියම කර තිබෙන කාලසීමාවේ ජනාධිපතිවරණය පැවැත්වීම වැළැක්වීමේ අතුරු නියෝගයක් නිකුත් කරන ලෙසය.
+The term of office of the present president has come forward to interpret the Supreme Court as per the Constitution.
+
+The delegation petition has been submitted, a entrepreneur, CD. By Mr. Leena.
+
+The petition further requested to issue an interim order in the presidential election until the next presidential election is interpreted by the next Presidential Election.
 
 ◼️
 
 [Data](articles/eb9e72f5.json)
+
+[Extended Data](ext_articles/eb9e72f5.ext.json)
 
 ---
 
@@ -1069,6 +1105,22 @@ I was born in Sri Lanka, live in the US, and visit my home country often. The ve
 [Data](articles/a812e4b1.json)
 
 [Extended Data](ext_articles/a812e4b1.ext.json)
+
+---
+
+### PAYE TAX: රටට අවශ්‍ය විද්වතුන් රටට අහිමි කරන බද්දක් ද?
+
+*2024-07-03 05:11:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c28exrgjvw0o) · `si`
+
+ලෝකයේ ඕනෑ ම රටක පැවැත්ම උදෙසා බදු ප්‍රතිපත්තියක් ක්‍රියාත්මක වේ.
+
+බදු ප්‍රතිපත්තියක් තුළ ඍජු සහ වක්‍ර බදු යනුවෙන් ප්‍රධාන වර්ග දෙකක් ක්‍රියාත්මක වෙයි. ලෝකයේ ඕනෑ ම රටක අඩුවැඩි වශයෙන් බදු ක්‍රියාත්මක වන අතර, එම බදු මුදල් නිසි පරිදි භාවිත කරමින් මහ ජනතාවට අවශ්‍ය සේවා නිසි පරිදි සැපයීම අපේක්ෂා කෙරේ.
+
+මහ ජනතාවට අවශ්‍ය සේවා සැපයීම වෙනුවෙන් වැය වන මුදල් සපයා ගැනීම බදු අය කර ගැනීමේ මූලික අරමුණ බව පේරාදෙණිය විශ්වවිද්‍යාලයේ ආර්ථික විද්‍යාව පිළිබඳ මහාචාර්ය වසන්ත අතුකෝරළ පැහැදිලි කළේ ය.
+
+...
+
+[Data](articles/62fa00f7.json)
 
 ---
 
@@ -2193,95 +2245,5 @@ Therefore, although it is reluctant to demand a salary increase, it has been rep
 [Data](articles/3f84247a.json)
 
 [Extended Data](ext_articles/3f84247a.ext.json)
-
----
-
-### Cole Marwals won the last ball of Jevna Kings in the most exciting LPL
-
-*2024-07-02 19:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/187540) · `ta`
-
-In a thrilling Lanka Premier League match, Goal Marwal secured a 5-wicket victory over Jevna Kings, chasing down their target of 178 runs set at the Kandy Pallekel International Cricket Stadium. Key contributions came from Niroshan Dikwella and Alex Hales, who shared a 66-run partnership, followed by a 44-run stand between Hales and Tim Sefton. Despite losing five wickets, including notable scores from Panuka Rajapaksa and Janith Liyanage, Goal Marwal clinched victory in the final ball thanks to Sahan Arachchige and Dwan Pretorius. Jevna Kings, batting first, made 177 runs in 20 overs, with half-centuries from Betth, Nissanka, and Avishka Fernando, but fell short due to effective bowling from Zahur Khan, Dwan Pretorius, and Isuru Udana.
-
-🟩
-
-Goal Marwal won by 5 wickets in the Lanka Premier League match between Jevna Kings and Goal Marwal, who caused a stir at the last ball of the Kandy Pallekel International Cricket Stadium.
-
-In response to 178 runs, goal Marwals lost 5 wickets in 20 overs and scored 179 runs.
-
-Team captain Niroshan Dikwella and former England player Alex Hales shared 66 runs off 43 balls.
-
-Alex Hales and Tim Sefward shared 44 runs in the 2nd wicket after Dikwella lost 47 runs.
-
-Sefird lost 10 runs and Alex Hales 47 balls with 7 pounds, 65 runs, Panuka Rajapaksa with 13 runs and Janith Liyanage scored 25 runs.. (173 - 5 wig.)
-
-However, Gole Marwals won the last ball to score 5 runs for the victory by Sahan Arachike and Dwan Predorius.
-
-Jevna Kings, who decided to bat first in the upting match, scored 177 runs for the loss of 7 wickets in 20 overs and lost 7 wickets in 20 overs.
-
-Kusal Mendis lost 4 runs, but Bett, Nissanka and Avishka Fernando played half -centuries and shared 81 runs in the 2nd wicket.
-
-...
-
-[Data](articles/1bb5f02c.json)
-
-[Extended Data](ext_articles/1bb5f02c.ext.json)
-
----
-
-### A racket selling table chairs in a school
-
-*2024-07-02 19:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198421) · `si`
-
-In Kekirawa, a national school discovered a racket involving the sale of stolen furniture. A truck carrying school desks was intercepted near the school, leading to the arrest of the owner, known for dealing in scrap metal. The incident highlights the need for vigilance against such activities.
-
-🟩
-
-A major national school in Kekirawa was a timely national school in Kekirawa, Ada Derana.
-
-Accordingly, a few days were explored with the parents of children of the school.
-
-The hawlsa was seen, a lorry extinguished at around 10.30 pm, a lorry that was extinguished by the trailing gate.
-
-The lorry came out of the school premises after a moment and the lorry came out of the school premises.
-
-A group of people who were operating at that time ceestaly examined the relevant lorry.
-
-It was seen in the lorry a large quantity of school tables.
-
-"You add iron, .... 15,000 will be given a kid. "
-
-The man who dropped the lorry was identified as the owner of the old iron goods adjoining the school, accordingly, he was reserved to the police.
-
-Ada Derana has a few people today to reveal such illegal acts in the future.
-
-◼️
-
-[Data](articles/9542645a.json)
-
-[Extended Data](ext_articles/9542645a.ext.json)
-
----
-
-### Au. 85 percent of the abuse of girls under 16 are on romance
-
-*2024-07-02 19:36:22* · [`adalk`](https://www.ada.lk/breaking_news/අවු--16ට-අඩු-දැරියන්ගේ-අපයෝජන-සිද්ධීන්වලින්-සියයට-85ක්ම-ප්‍රේම-සබඳතා-මතයි/11-410580) · `si`
-
-In 2021, 85% of girl abuse cases under 16 went unreported. A suspect named Rajiv Ravina Jayatilleka was arrested for abusing and selling victims online. Despite insufficient evidence, the police urged reporting such incidents to ensure justice.
-
-🟩
-
-The police media division states that about 85% of the abuse of the abuse of girls under 16 years of age have not been considered and less than 16 years of age.
-
-According to the DIG Talduuwa, he said that the person had been abused in 2021 and then selling other people online. He added:
-
-The incident is the case in Mount Lavinia. The suspect was later arrested.The victim was heard against this person in Panadura Magistrate. The suspect has been punished last week. His name is Rajiv Ravina Jayatilleka. The court has been given by the court in prison.
-
-If there is insufficient evidence to make sure, the police can be able to work. Therefore, we urge the masses if there is no information about such incidents, give the police. The evidence is that the incident can be confirmed, and we have a great responsibility regarding. Therefore, action should be taken to prevent crimes against children.
-
-...
-
-[Data](articles/823b29f7.json)
-
-[Extended Data](ext_articles/823b29f7.ext.json)
 
 ---

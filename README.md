@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 19:19:53**
+As of **2024-07-03 19:35:10**
 
 ## Newspaper Stats
 
-*Scraped **33,518** Articles*
+*Scraped **33,519** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,867
 economynextcom | 1,967
 dailyftlk | 2,068
-adalk | 2,990
+adalk | 2,991
 adaderanalk | 3,825
 tamilmirrorlk | 3,967
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,554
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,518 (100.0%) of 33,518 articles have been extended.
+33,518 (100.0%) of 33,519 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -293,6 +293,22 @@ A press conference held at the Health Promotion Bureau this morning (03) was spe
 [Data](articles/d018290a.json)
 
 [Extended Data](ext_articles/d018290a.ext.json)
+
+---
+
+### එතෙර සුපිරි වෙළඳසැල්වල රැකියා පෙන්වා මුදල් ගැරූ දෙමටගොඩ ෂිෆ්නා අත්අඩංගුවට
+
+*2024-07-03 16:54:21* · [`adalk`](https://www.ada.lk/breaking_news/එතෙර-සුපිරි-වෙළඳසැල්වල-රැකියා-පෙන්වා-මුදල්-ගැරූ-දෙමටගොඩ-ෂිෆ්නා-අත්අඩංගුවට/11-410592) · `si`
+
+ඩුබායි හා කටාර් රාජ්‍යවල රැකියා ලබාදෙන බව පවසා මුදල් වංචාකළ කාන්තාවක් ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් ඊයේ දින (07/02) අත්අඩංගුවට ගෙන තිබේ.
+
+දෙමටගොඩ ප්‍රදේශයේ පදිංචි කාන්තාවක් විසින් ඩුබායි හා කටාර් යන රටවල සුපිරි වෙළඳසැල්වල රැකියා ලබාදෙන බව පවසා දෙමටගොඩ ප්‍රදේශයේම පදිංචි පුද්ගලයින් තිදෙනෙකුගෙන් රුපියල් ලක්ෂ 4, ලක්ෂ 2.5 හා ලක්ෂ 1.5 බැගින් මුදල් ලබාගෙන පොරොන්දු වූ පරිදි රැකියාව ලබා නොදුන් බවට කාර්යාංශයේ විශේෂ විමර්ශන අංශයට පැමිණිලි 3ක් ලැබී තිබේ.
+
+ඒ අනුව, විමර්ශන නිළධාරීන් විසින් අදාළ කාන්තාව දෙමටගොඩ ප්‍රදේශයේදී අත්අඩංගුවට ගත් අතර, ඇයගෙන් වැඩිදුර ප්‍රශ්න කිරීම් සිදුකර ඊයේ රාත්‍රියේ තලංගම පොලිස් ස්ථානයේ රඳවා තබා අද දින (7/3) මාළිගාකන්ද මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතව ඇත.
+
+...
+
+[Data](articles/0ffbae75.json)
 
 ---
 
@@ -2385,21 +2401,5 @@ The Department of Meteorology announces that showers in the Western and Sabaraga
 [Data](articles/5a7ab50e.json)
 
 [Extended Data](ext_articles/5a7ab50e.ext.json)
-
----
-
-### Institutionalising corruption and nepotism: Office for International Trade
-
-*2024-07-03 05:40:21* · [`dailyftlk`](https://www.ft.lk/columns/Institutionalising-corruption-and-nepotism-Office-for-International-Trade/4-763789) · `en`
-
-The establishment of the OIT, as currently proposed, poses a serious threat to Sri Lanka’s domestic industries and economic stability
-
-Sri Lanka’s world record for corruption, nepotism and bad governance is now being elevated by the proposed setting up of an Office for International Trade (OIT) in the Economic Transformation Bill (Part (iv) Chapter XXII Clause 99 - 131. The transfer of State or National powers in the vital area of international trade to non-accountable politically appointed Board of private individuals in the OIT is indeed serious in that it has a pervasive effect on goods, services, employment, production, agriculture, phytosanitary and technical aspects health, investment, economic sovereignty, and a gamut of other factors affecting the day-to-day lives of the people.
-
-...
-
-[Data](articles/c6361225.json)
-
-[Extended Data](ext_articles/c6361225.ext.json)
 
 ---

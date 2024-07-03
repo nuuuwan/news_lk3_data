@@ -1,36 +1,56 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 15:19:37**
+As of **2024-07-03 15:35:57**
 
 ## Newspaper Stats
 
-*Scraped **33,475** Articles*
+*Scraped **33,480** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 307
 colombotelegraphcom | 307
-bbccomsinhala | 328
+bbccomsinhala | 329
 newsfirstlk | 363
 islandlk | 1,867
-economynextcom | 1,957
+economynextcom | 1,960
 dailyftlk | 2,068
 adalk | 2,985
 adaderanalk | 3,820
 tamilmirrorlk | 3,965
 dailymirrorlk | 4,733
 virakesarilk | 5,229
-adaderanasinhalalk | 5,546
+adaderanasinhalalk | 5,547
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,475 (100.0%) of 33,475 articles have been extended.
+33,475 (100.0%) of 33,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### දන්සලේ හොදි කල්දේරමට වැටුණු දැරිය මරුට
+
+*2024-07-03 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198446) · `si`
+
+බත් දන්සලක වෑංජන කල්දේරමකට වැටී බරපතළ තුවාල ලබා දින 10ක් කොළඹ රිජ්වේ ආර්යා ළමා රෝහලේ ප්‍රතිකාර ලබමින් සිටි 9 හැවිරිදි පාසල් සිසුවියක් මියගොස් තිබේ.
+
+එසේ මියගොස් ඇත්තේ පානදුර, බෙක්කේගම ප්‍රදේශයේ පදිංචිව සිටී ශයනි මෙතුම්සා නමැති දැරියකි.
+
+පොසොන් පොහොය නිමිත්තෙන් පසුගිය 23 දා පානදුර ප්‍රදේශයේ බත් දන්සලක් පවත්වා තිබුණි.
+
+ඉන් බරපතළ තුවාල ලබා සිටි දැරිය පානදුර මූලික රෝහලට ඇතුළත් කිරීමෙන් පසු, ඇයගේ තත්ත්වය බරපතළ බැවින් කොළඹ රිජ්වේ ආර්යා ළමා රෝහලට මාරු කර යවා තිබුණි.
+
+දැරිය කොළඹ රිජ්වේ ආර්යා ළමා රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇති බව රෝහල් ආරංචි මාර්ග සඳහන් කරයි.
+
+◼️
+
+[Data](articles/3d6852fb.json)
+
+---
 
 ### 4 fishing bodies and 5 dowland son will be brought to Tangalle Port
 
@@ -238,6 +258,26 @@ Kahanthawela has been appointed as the organizer of the Central Colombo constitu
 
 ---
 
+### LIOC begins retailing 100 octane petrol in Sri Lanka
+
+*2024-07-03 12:34:00* · [`economynextcom`](https://economynext.com/lioc-begins-retailing-100-octane-petrol-in-sri-lanka-170679/) · `en`
+
+ECONOMYNEXT – Lanka Indian Oil Company began selling a 100 octane premium petrol product in the Sri Lanka market on Tuesday, the island nation’s Minister of Power and Energy said.
+
+Chairman of Lanka IOC and the senior management met the minister earlier this week.
+
+“We discussed the development plans of the retail outlet network of LIOC, tank farm development, lubricant market, fuel pricing formula and the proposed oil pipeline between India and Sri Lanka,” Kanchana Wijesekera said on X (twitter).
+
+After this month’s price revision, octane 92 petrol sells at 344 rupees a litre, and octane 95 petrol was at 379 rupees.
+
+Higher octane fuel is mostly used in high-performance engines. (Colombo/Jul3/2024)
+
+◼️
+
+[Data](articles/df66a404.json)
+
+---
+
 ### ‘Harak Kata’ produced at Colombo HC amidst tight security
 
 *2024-07-03 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100266/harak-kata-produced-at-colombo-hc-amidst-tight-security) · `en`
@@ -255,6 +295,26 @@ After considering all the facts presented, the judge fixed the case for further 
 [Data](articles/d0f4e005.json)
 
 [Extended Data](ext_articles/d0f4e005.ext.json)
+
+---
+
+### Sri Lanka’s election laws still in force as LG polls not finished: EC
+
+*2024-07-03 12:16:00* · [`economynextcom`](https://economynext.com/sri-lankas-election-laws-still-in-force-as-lg-polls-not-finished-ec-170667/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s election laws are still in force and all should abide the law, the island nation Election Commission (EC) said amid many political parties and their candidates in the run up to presidential poll have started distributing handouts to voters.
+
+The election laws came to in effect after the Election Commission declared Local Government (LG) polls in January last year.
+
+That election was postponed twice, but yet to be scheduled or cancelled.
+
+The EC said in statement that the election laws that have come to in effect are still in force as per to the country’s constitution because the LG polls have not been held yet.
+
+The EC warned the public not to promote or demote any political party or groups or candidate and not to misuse any state resources. It also reminded that two gazettes issued in January last year to the heads of state institutions on the misuse of and recruitment/promotion/transfer in state institutions.
+
+...
+
+[Data](articles/49acb869.json)
 
 ---
 
@@ -339,6 +399,30 @@ The petition further requested to issue an interim order in the presidential ele
 [Data](articles/eb9e72f5.json)
 
 [Extended Data](ext_articles/eb9e72f5.ext.json)
+
+---
+
+### Sri Lanka to enlist help of army, navy for deep-sea diving tourists
+
+*2024-07-03 11:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-enlist-help-of-army-navy-for-deep-sea-diving-tourists-170664/) · `en`
+
+ECONOMYNEXT – Sri Lanka is planning to enlist the help of the military to help boost deep-sea diving for tourists, Chairman of the Sri Lanka Tourism Promotion Bureau, Chalaka Gajabahu said.
+
+“We are talking to the associations in that area and we also plan on enlisting the help of the Army and Navy,” Gajabahu told EconomyNext on 2nd July.
+
+Tri forces (army, navy, air force) and police account for nearly 30 percent of the country’s total state sector employees. Sri Lanka had a large number of military personnel when it ended a 26-year civil war in 2009.
+
+“We plan on focusing on water sports such as surfing and diving.”
+
+Sri Lanka has several diving centres including in Unawatuna and Hikkaduwa.
+
+In addition to coral eco-systems near-shore, Sri Lanka has a large number of wrecks around the island, some dating back centuries.
+
+The National Shipwreck Database of Sri Lanka lists 114 shipwrecks, with the oldest dating back to 2nd century BCE.
+
+...
+
+[Data](articles/661c1572.json)
 
 ---
 
@@ -1145,6 +1229,24 @@ Q: Isn't the President Ranil Wickremesinghe become the common candidate?
 [Data](articles/d8477afa.json)
 
 [Extended Data](ext_articles/d8477afa.ext.json)
+
+---
+
+### මහනුවර මුස්ලිම් විරෝධී ප්‍රචණ්ඩ ක්‍රියා: විමර්ශන වාර්තාවට මොකද වුණේ?
+
+*2024-07-03 08:26:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clwyv7z8r5zo) · `si`
+
+සය වසරකට ඉහත දී  මහනුවර ප්‍රදේශයේ මුස්ලිම් ජනයා ඉලක්ක කර ගනිමින් එල්ල කරන ලද අන්තවාදී ප්‍රචණ්ඩ ක්‍රියා මාලාව සම්බන්ධයෙන් විමර්ශනය කරන ලද මානව හිමිකම් වාර්තාව මේතාක් ප්‍රසිද්ධියට පත් කර නැති බව අනාවරණය වී තිබේ.
+
+රජයේ ආරක්ෂක අංශවලට ද චෝදනා එල්ල වු එම ප්‍රහාරය සම්බන්ධව ගවේෂණය කළ දෙමළ මාධ්‍යවේදින් යුගලක් විසින් වින්දිතයින්ගේ සාක්ෂි ඇතුළත් කර සම්පාදනය කරන ලද වාර්තා චිත්‍රපටයකින් ඒ බව හෙළි කර ඇත.
+
+‘කන්ද උඩරට මුස්ලිම් විරෝධී කැරැල්ලට අවුරුදු 6 යි: යුක්තිය කෝ’ වාර්තා චිත්‍රපටයෙන් විමසා බැලෙන්නේ දිගන, තෙල්දෙණිය ඇතුළු මහනුවරට තදාසන්න ප්‍රදේශ කිහිපයක මුස්ලිම්වරුන් ඉලක්ක කර ගනිමින් 2018 මාර්තුවේ දි එල්ල වූ වෛරී සහගත ප්‍රහාර මාලාව පිළිබඳව ය.
+
+මාධ්‍යවේදී පාර්තීබන් ෂන්මුගනාදන්ගේ අධ්‍යක්ෂණයෙන්, සෙල්වමනි ශ්‍රීධරන්ගේ සංස්කරණයෙන් නිර්මාණය වී ඇති වාර්තා චිත්‍රපටයේ දැක්වෙන පරිදි ශ්‍රී ලංකාවේ මානව හිමිකම් කොමිසමෙන් ඔවුන්ගේ විමර්ශනය පිළිබඳව අවුරුද්දකට ඉහතදී කරන ලද විමසීමකට අදටත් පිළිතුරු ලැබී නැත.
+
+...
+
+[Data](articles/84864f87.json)
 
 ---
 
@@ -2191,107 +2293,5 @@ The director said that the final shooting of the film is currently underway and 
 [Data](articles/6515def5.json)
 
 [Extended Data](ext_articles/6515def5.ext.json)
-
----
-
-### Government follows dual stand in debt renovation - Opposition Leader Sajith accuses
-
-*2024-07-02 23:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187498) · `ta`
-
-Opposition leader Sajith Premadasa criticizes the government for adopting a dual policy on debt management, contrasting it with transparent practices seen in countries like Ghana, Argentina, and Ecuador. He highlights discrepancies in debt restructuring timelines and discounts achieved by these countries versus Sri Lanka, questioning the transparency and effectiveness of the government's approach.
-
-🟩
-
-Opposition leader Sajith Premadasa said the government has adopted a double policy, even though the president claims to share pressure with transparency and balance.
-
-Opposition Leader Sajith Premadasa said this while responding to his speech in Parliament on Tuesday (02).
-
-Although the president claims to share pressures with transparency and balance, the government has adopted dual policy.
-
-A policy on international bailouts and a different policy for the people of this country have been implemented.
-
-Countries such as Ghana, Jamaica and Ecuador have been in harmony with the country and the people, but the president and the government of our country have not been able to achieve such compliance.
-
-At one point, he said that Sri Lanka's debt restructuring was completed very quickly compared to other countries.
-
-It lies. Countries such as Ghana, Argentina, Ecuador, Mongolia, Belize and Barize have implemented credit restructuring processes in a short time before our country.
-
-...
-
-[Data](articles/209e0885.json)
-
-[Extended Data](ext_articles/209e0885.ext.json)
-
----
-
-### Two teens fall to death from apartment building in Slave Island
-
-*2024-07-02 22:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100254/two-teens-fall-to-death-from-apartment-building-in-slave-island) · `en`
-
-A boy and a girl of around 15 years have been reported dead after falling from the 67th floor of an apartment building in Slave Island, Colombo.
-
-◼️
-
-[Data](articles/223d8cdc.json)
-
-[Extended Data](ext_articles/223d8cdc.ext.json)
-
----
-
-### India stampede: About 116  killed at religious event in Hathras district
-
-*2024-07-02 22:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100253/india-stampede-about-116-killed-at-religious-event-in-hathras-district) · `en`
-
-At least 116 people, many of them women and children, were killed in a stampede at a Hindu religious gathering in north India on Tuesday, authorities said, in one of the country’s worst such tragedies in years.
-
-The stampede happened in a village in Hathras district, about 200 km (125 miles) southeast of the national capital New Delhi, where authorities said thousands had gathered in sweltering late afternoon temperatures.
-
-“The incident happened due to overcrowding at the time when people were trying to leave the venue,” Ashish Kumar, administrator of the Hathras district of Uttar Pradesh, India’s most populous state, told reporters.
-
-Chaitra V., another senior state official, told broadcaster India Today that people may have lost their footing as they sought water in the heat.
-
-“There was wet mud at one place where people may have slipped. Also because of the heat, people may have made their way to the spot where water was kept and that could have caused the incident as well,” she said.
-
-...
-
-[Data](articles/b7216118.json)
-
-[Extended Data](ext_articles/b7216118.ext.json)
-
----
-
-### Student and student jumping off the floor
-
-*2024-07-02 22:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவனும்-மாணவியும்-மாடியில்-இருந்து-குதித்து-பலி/175-339781) · `ta`
-
-A 15-year-old boy from Kurunduwa, Colombo, attending an international school, tragically ended his life by jumping from the 67th floor of a luxury residential building on Kombani Road.
-
-🟩
-
-A 15 -year -old boy and a student who is educated at an international school in Kurunduwa, Colombo has committed suicide by jumping from the 67th floor of the Luxury Residential Building on Kombani Road.
-
-◼️
-
-[Data](articles/1faade96.json)
-
-[Extended Data](ext_articles/1faade96.ext.json)
-
----
-
-### Student and student jumping off the floor
-
-*2024-07-02 22:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/மாணவனும்-மாணவியும்-மாடியில்-இருந்து-குதித்து-பலி/150-339781) · `ta`
-
-A 15-year-old boy from Kurunduwa, Colombo, attending an international school, tragically ended his life by jumping from the 67th floor of a luxury residential building on Kombani Road.
-
-🟩
-
-A 15 -year -old boy and a student who is educated at an international school in Kurunduwa, Colombo has committed suicide by jumping from the 67th floor of the Luxury Residential Building on Kombani Road.
-
-◼️
-
-[Data](articles/d930721b.json)
-
-[Extended Data](ext_articles/d930721b.ext.json)
 
 ---

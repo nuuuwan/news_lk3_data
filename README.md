@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 10:19:45**
+As of **2024-07-03 10:35:07**
 
 ## Newspaper Stats
 
-*Scraped **33,426** Articles*
+*Scraped **33,430** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,64 @@ newsfirstlk | 363
 islandlk | 1,866
 economynextcom | 1,954
 dailyftlk | 2,068
-adalk | 2,977
-adaderanalk | 3,811
+adalk | 2,979
+adaderanalk | 3,812
 tamilmirrorlk | 3,957
 dailymirrorlk | 4,733
 virakesarilk | 5,222
-adaderanasinhalalk | 5,536
+adaderanasinhalalk | 5,537
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,425 (100.0%) of 33,426 articles have been extended.
+33,426 (100.0%) of 33,430 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### SLPP’s condition to consider Ranil as presidential candidate
+
+*2024-07-03 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100259/slpps-condition-to-consider-ranil-as-presidential-candidate) · `en`
+
+SLPP General Secretary Sagara Kariyawasam says that if President Ranil Wickremesinghe resigns from the United National Party (UNP) and joins the Sri Lanka Podujana Peramuna (SLPP), the party may consider him for the presidential candidacy.
+
+He made this statement while speaking to the media following a discussion at the SLPP headquarters.
+
+Kariyawasam stated, “Regarding the next presidential election, we have not presented a specific candidate yet. We will nominate the right candidate at the appropriate time, who will contest under the ‘floewer bud’ symbol.”
+
+When asked if Wickremesinghe could be the common candidate, Kariyawasam responded, “A candidate of the SLPP will be put forward under the ‘flower bud’ symbol. If Wickremesinghe leaves the UNP and joins our party, we will consider his candidacy.”
+
+◼️
+
+[Data](articles/62216484.json)
+
+---
+
+### අද  LPL පිටියට එන කණ්ඩායම් මෙන්න
+
+*2024-07-03 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198435) · `si`
+
+ශ්‍රී ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ දඹුල්ල සික්සර්ස් කණඩායම සහ ජැෆ්නා කිංග්ස් කණ්ඩායම අතර තරගය අද (03) පැවැත්වීමට නියමිතව තිබේ.
+
+මේ අතර කලම්බූ ස්ටයිකර්ස් කණ්ඩායම සහ ගෝල් මාවලස් කණ්ඩායම තරගය ද මහනුවර පල්ලේකැලේ ක්‍රීඩාංගනයේදී රාත්‍රී 7.30ට ආරම්භ වීමට නියමිතව තිබේ.
+
+මේ අතර ෂඩාබ් ඛාන්ගේ සහ දුනිත් වෙල්ලාලගේ විශිෂ්ඨ පන්දු යැවීම හමුවේ ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ ඊයේ (02) රාත්‍රියේ පැවති තරගයකින් ලකුණු 51ක ජයක් වාර්තා කිරීමට කලම්බු ස්ට්‍රයිකර්ස් කණ්ඩායම සමත්විය.
+
+ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ තුන්වන තරගය ඊයේ රාත්‍රීයේ දී පැවැත්වුණේ කලම්බු ස්ට්‍රයිකර්ස් කණ්ඩායම සහ කැන්ඩි ෆැල්කන්ස් කණ්ඩායම් අතරය.
+
+එම තරගයේ කාසියේ වාසිය දිනු කැන්ඩි නායක වනිඳු හසරංග පළමුව පන්දුවට පහර දීමට කලම්බු කණ්ඩායමට ආරාධනා කළේය.
+
+ඒ අනුව පිටියට පිවිසි කලම්බු ස්ට්‍රියිකර්ස් කණ්ඩායමේ පළමු කඩුලු දෙක ලකුණු 20කදී දැවිගියේය.
+
+තුන්වන කඩුල්ලට සදීර සමරවික්‍රම සහ මුහමද් වසීම් ලකුණු 78ක සබඳතාවක් ගොඩ නැගුවේ කලම්බු කණ්ඩායමට ජීවයක් එක් කරමිනි.
+
+...
+
+[Data](articles/8510f89f.json)
+
+---
 
 ### Kuhadasan nominated to fill Sampanthan’s MP seat
 
@@ -107,6 +149,28 @@ The deceased has been identified as a 42 year old resident of Pankuddhav, and th
 [Data](articles/e4b3a0db.json)
 
 [Extended Data](ext_articles/e4b3a0db.ext.json)
+
+---
+
+### රොබෝවෙක් දිවි නසා ගනියි  - දකුණු කොරියාව හේතුව සොයයි
+
+*2024-07-03 09:32:36* · [`adalk`](https://www.ada.lk/technology/රොබෝවෙක්-දිවි-නසා-ගනියි----දකුණු-කොරියාව-හේතුව-සොයයි/5-410583) · `si`
+
+මධ්‍යම දකුණු කොරියාවේ නගර සභාවක කටයුතු සඳහා සහාය වූ රොබෝවරයකු දිවිනසාගෙන ඇතැයි දකුණු කොරියානු මාධ්‍ය වාර්තා කරයි. මේ අනුව අදාළ සිදුවීම සම්බන්ධයෙන් දකුණු කොරියාව පරික්ෂණයක්ද ආරම්භ කර තිබේ.
+
+දකුණු කොරියාවේ ගුමි නගරයේ නගර සභාවේ වසරක කාලයක පටන් සේවයේ යොදවා තිබූ මෙම රොබෝවරයා පසුගිය සතියේදී නගර සභාවේ ගොඩනැගිල්ලක පඩිපෙළක් පහළ අක්‍රිය වී තිබී ඇතැයි එම මාධ්‍ය වාර්තා පෙන්වා දෙයි.
+
+මෙම සිදුවීමට පෙර රොබෝවරයා යමක් වැරදී ඇති සේ කැරකෙමින් පඩිපෙලේ සිටිනු ඇසින් දුටු සාක්ෂිකරුවන් දුටු බවත්, සිද්ධියේ තත්වයන් අනාවරණය කර ගැනීම සඳහා පරීක්ෂණ සිදුවෙමින් පවතින බවත් එම නගර සභාවේ නිලධාරියෙක් පවසා තිබේ.
+
+“රොබෝවරයාගේ කොටස් එකතු කර ඇති අතර එය නිර්මාණය කළ සමාගම විසින් සිද්ධිය විශ්ලේෂණය කරනු ඇත” නිලධාරියා තවදුරටත් පැවසීය.
+
+කැලිෆෝනියාවේ Bear Robotics විසින් නිපදවන ලද රොබෝවරයා උදේ 9 සිට සවස 6 දක්වා මෙහි සේවය කර තිබේ.
+
+එක් මහලකට සීමා වූ අනෙකුත් රොබෝවරුන් මෙන් නොව,මෙම රොබෝවරයා සෝපානය අමතා මහල් අතර ගමන් කිරීමේ හැකියාවක්ද තිබී ඇත.
+
+...
+
+[Data](articles/982b48bd.json)
 
 ---
 
@@ -244,19 +308,25 @@ In addition, three houses were damaged in the fire and the cause of the fire was
 
 ---
 
-### லயன் குடியிருப்பில் தீ விபத்து ; இருவர் தீக்கிரை
+### Fire in Lion apartment;Biker
 
 *2024-07-03 08:15:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/லயன்-குடியிருப்பில்-தீ-விபத்து-இருவர்-தீக்கிரை/76-339791) · `ta`
 
-எட்டியாந்தோட்டை, பனாவத்தை லயம் இலக்கம் 02 குடியிருப்பில் ஏற்பட்ட தீ விபத்தில் இருவர் உயிரிழந்துள்ள சம்பவம் செவ்வாய்க்கிழமை (03) அதிகாலை இடம்பெறுள்ளது.
+In the early hours of Tuesday, a fire in a Lion apartment resulted in the deaths of a 60-year-old man and a 50-year-old woman. Three houses were damaged, but the cause remains unknown. Police are investigating.
 
-தீ விபத்தில் லயன் குடியிருப்பொன்றில் தங்கியிருந்த (தம்பதியினர் ) 60 வயதுடைய ஆண் ஒருவறும் 50 வயதுடைய பெண் ஒருவரும் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இதில் 03 வீடுகள் சேதமடைந்துள்ளடன் , தீ விபத்துக்கான காரணம் இதுவரையில் தெரியவரவில்லை என பொலிஸார் தெரிவித்தனர். மேலும் சம்பவம் தொடர்பிலான மேலதிக விசாரணைகள் பொலிஸாரால் மெற்கொள்ளப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+The incident took place in the early hours of Tuesday morning (03) in the early hours of Tuesday (03).
+
+A 60 -year -old man and a 50 -year -old woman died in a Lion's apartment in a fire, police said.
+
+Of these, three houses were damaged and the cause of the fire was not yet known, police said.. It is also worth noting that further investigations into the incident have been investigated by the police.
 
 ◼️
 
 [Data](articles/c2fd303b.json)
+
+[Extended Data](ext_articles/c2fd303b.ext.json)
 
 ---
 
@@ -1638,6 +1708,22 @@ He further stated that President Mahinda Rajapaksa has discussed the Chinese Pre
 
 ---
 
+### පොලීසියේ ඉහළම පුටු 15ක වෙනසක්
+
+*2024-07-02 19:16:23* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසියේ-ඉහළම-පුටු-15ක-වෙනසක්/11-410578) · `si`
+
+නියෝජ්‍ය පොලිස්පතිවරුන් 06දෙනෙකුට හා ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරුන් 06දෙනෙකුට පොලිස් අධිකාරීවරුන් තුන්දෙනෙකුට වහාම ක්‍රියාත්මක වන පරිදි ස්ථාන මාරු ලබා දී තිබේ.
+
+මේ අනුව පොලිස් ක්ෂේත්‍ර බළකා මූලස්ථාන දිසාව භාර නියෝජ්‍ය පොලිස්පති ජී.අයි.ඩී. ආර්. විජේසිංහ මහතා නුවරඑළිය දිසාව භාර නියෝජ්‍ය පොලිස්පති ලෙස ස්ථාන මාරු කර තිබෙන අතර, මාතර හම්බන්තොට දිසාව භාර නියෝජ්‍ය පොලිස්පති සරත් කුමාර මහතා ක්ෂේත්‍ර බළකා දිසාව භාර නියෝජ්‍ය පොලිස්පති ලෙස ස්ථාන මාරුවීම ලබා දී ඇත.
+
+අනුරාධපුර දිසාව භාර නියෝජ්‍ය පොලිස්පති ජී.ඒ.එන්.එල්. විජේසේන මහතා කළුතර දිසාව භාර නියෝජ්‍ය පොලිස්පති ලෙස හා කළුතර දිසාව භාර නියෝජ්‍ය පොලිස්පති අයි. බී.ටී. සුගතපාල මහතා අනුරාධපුර දිසාව භාර නියෝජ්‍ය පොලිස්පති ලෙස හා මඩකලපුව දිසාව භාර නියෝජ්‍ය පොලිස්පති ඒ. එල්.යූ.එන්.පී. ලියනගේ මහතා කුරුණෑගල දිසාව භාර නියෝජ්‍ය පොලිස්පති තනතුරේ රාජකාරි ඉටු කිරීමට හා කුරුණෑගල දිසාව භාර නියෝජ්‍ය පොලිස්පති ඒ. එස්.පී.සී. වෙදමුල් මහතා, බදුල්ල දිසාව භාර නියෝජ්‍ය පොලිස්පති තනතුරේ රාජකාරි ඉටු කිරීම සඳහා ස්ථාන මාරු කර ඇත.
+
+...
+
+[Data](articles/add77b75.json)
+
+---
+
 ### Telephone owner arrested on telephone call in Kandy court
 
 *2024-07-02 19:09:55* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-අධිකරණයේ-බෝම්බ-බිය-ඇති-කළ-දුරකතන-ඇමතුමේ-දුරකතන-හිමිකරු-අල්ලයි/11-410577) · `si`
@@ -2185,89 +2271,5 @@ The other crossing was on Hemas Holdings Plc, (Rs255mn). The share closed down a
 [Data](articles/db2ba2b4.json)
 
 [Extended Data](ext_articles/db2ba2b4.ext.json)
-
----
-
-### President hits out at misinformation spread about debt restructuring and related matters
-
-*2024-07-02 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100246/president-hits-out-at-misinformation-spread-about-debt-restructuring-and-related-matters) · `en`
-
-President Ranil Wickremesinghe highlighted today in Parliament that false propaganda regarding debt restructuring and related matters are being spread by various individuals both inside and outside the parliament.
-
-He emphasized that while the government pursues policies beneficial for the country, critics continue to fabricate different narratives solely for political gain.
-
-The President underscored that Sri Lanka has achieved a significant milestone among middle-income countries by successfully navigating the debt restructuring process, which he described as a notable accomplishment and good news for the nation.
-
-President Ranil Wickremesinghe made these remarks during a special statement in Parliament aimed at informing about the on-going debt restructuring efforts.
-
-...
-
-[Data](articles/705a5e7c.json)
-
-[Extended Data](ext_articles/705a5e7c.ext.json)
-
----
-
-### A man arrested for Korean Youth
-
-*2024-07-02 16:53:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கொரிய-யுவதியிடம்-சேஷ்டை-புரிந்தவர்-கைது/76-339763) · `ta`
-
-A Korean tourist filed a complaint against a local boat driver in Nuwara Eliya, leading to his arrest. The incident occurred when the tourist tried to ride a boat in a pond, and the driver allegedly misbehaved. Following the complaint, the tourism police arrested the driver, who was later remanded for further investigation.
-
-🟩
-
-The Nuwara Eliya District Magistrate's Court on Monday (01) issued an order to detention of a machine boat driver who was abused by a young girl who went to Nuwara Eliya from Korea to Sri Lanka.
-
-The young girl is trying to ride a boat in the pond to enjoy the beauty of the evening (30).
-
-During this time, the young man who was in the pond service was involved in the sake of the woman.
-
-Subsequently, the police department in charge of the tourism department went to the Nuwara Eliya Police Station and arrested the youth who went to the Kirakari pond.
-
-When the arrested youth was presented to the Nuwara Eliya District Magistrate's Court for interrogation, Magistrate Prabhudika Nanayakkara had ordered the suspect to be interrogated on Monday (15).
-
-◼️
-
-[Data](articles/894f9523.json)
-
-[Extended Data](ext_articles/894f9523.ext.json)
-
----
-
-### Bilateral creditors never reduce principal, only offer deferments: Sri Lanka president
-
-*2024-07-02 16:47:00* · [`economynextcom`](https://economynext.com/bilateral-creditors-never-reduce-principal-only-offer-deferments-sri-lanka-president-170598/) · `en`
-
-ECONOMYNEXT — Seeking concessions on foreign loans without making any commitments is neither practical nor feasible, President Ranil Wickremesinghe said, noting that bilateral creditors never reduce the principal on a loan.
-
-“What we can obtain are concessions such as extended loan repayment periods, grace periods, and reduced interest rates,” Wickremesinghe said addressing parliament Tuesday July 02 morning.
-
-Claiming that there are untruths and half truths expressed inside and outside parliament on Sri Lanka’s debt restructuring programme, President Wickremesinghe said he wished to clarify the international practices and facts of debt restructuring at this time.
-
-“What constitutes this foreign loan? Where do lending countries get the money? They lend us the tax money and the savings of their citizens.”
-
-...
-
-[Data](articles/976f5ffb.json)
-
-[Extended Data](ext_articles/976f5ffb.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 303.10/30 to US dollar
-
-*2024-07-02 16:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-303-10-30-to-us-dollar-170601/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 303.10/30 percent to the US dollar on Tuesday, down from 304.80/305.00 to the US dollar on Monday, dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 closed stable at 10.85/11.00 percent.
-
-A bond maturing on 15.09.2029 closed stable at 12.10/20 percent.
-
-◼️
-
-[Data](articles/b568d7e6.json)
-
-[Extended Data](ext_articles/b568d7e6.ext.json)
 
 ---

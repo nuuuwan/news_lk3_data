@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 04:19:36**
+As of **2024-07-04 04:35:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,559 (100.0%) of 33,563 articles have been extended.
+33,563 (100.0%) of 33,563 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ For the first time in history, the Sri Lanka Ports Authority (SLPA), signed a Me
 ...
 
 [Data](articles/60992632.json)
+
+[Extended Data](ext_articles/60992632.ext.json)
 
 ---
 
@@ -64,6 +66,8 @@ He said the NPP will defeat any conspiracies or tactics of the President and his
 
 [Data](articles/2ca42146.json)
 
+[Extended Data](ext_articles/2ca42146.ext.json)
+
 ---
 
 ### Supreme Court suspends criminal proceedings in X-Press Pearl case
@@ -79,6 +83,8 @@ The Attorney General filed the indictment against eight accused before the Colom
 ...
 
 [Data](articles/55e34197.json)
+
+[Extended Data](ext_articles/55e34197.ext.json)
 
 ---
 
@@ -99,6 +105,8 @@ The Commission is also awaiting the outcome of an investigation by the Education
 ...
 
 [Data](articles/8bb09636.json)
+
+[Extended Data](ext_articles/8bb09636.ext.json)
 
 ---
 

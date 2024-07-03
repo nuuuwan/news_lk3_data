@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 23:04:46**
+As of **2024-07-03 23:19:57**
 
 ## Newspaper Stats
 
-*Scraped **33,537** Articles*
+*Scraped **33,538** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 307
-colombotelegraphcom | 308
+colombotelegraphcom | 309
 bbccomsinhala | 330
 newsfirstlk | 363
 islandlk | 1,867
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,536 (100.0%) of 33,537 articles have been extended.
+33,537 (100.0%) of 33,538 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -578,6 +578,16 @@ In this case, the police are investigating the death of the two students in the 
 
 ---
 
+### ‘Odyssey Of War’, A Novel By Noel Nadesan
+
+*2024-07-03 17:26:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/odyssey-of-war-a-novel-by-noel-nadesan/) · `en`
+
+...
+
+[Data](articles/fe6779eb.json)
+
+---
+
 ### GTF Pays Tribute To Tamil Elder Statesman Mr R Sampanthan On His passing
 
 *2024-07-03 17:19:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/gtf-pays-tribute-to-tamil-elder-statesman-mr-r-sampanthan-on-his-passing/) · `en`
@@ -589,6 +599,8 @@ Mr. Sampanthan had a long and illustrious political career. He has been a Parlia
 ...
 
 [Data](articles/8281f2b4.json)
+
+[Extended Data](ext_articles/8281f2b4.ext.json)
 
 ---
 
@@ -2431,35 +2443,5 @@ The deceased has been identified as a 42 year old resident of Pankuddhav, and th
 [Data](articles/e4b3a0db.json)
 
 [Extended Data](ext_articles/e4b3a0db.ext.json)
-
----
-
-### Robbon commits suicide - South Korea looks for the cause
-
-*2024-07-03 09:32:36* · [`adalk`](https://www.ada.lk/technology/රොබෝවෙක්-දිවි-නසා-ගනියි----දකුණු-කොරියාව-හේතුව-සොයයි/5-410583) · `si`
-
-In South Korea, a robotic employee committed suicide, leading to investigations into its cause. The robot, used by Gumi's Urban Council, was found deceased recently. Authorities have collected its parts for analysis by its manufacturer, Bear Robotics. This incident highlights the increasing use of robots in daily life, with South Korea leading in robotics technology.
-
-🟩
-
-South Korean media reports that a robone who supported a central Korea Urban Council. South Korea has also launched an investigation into the incident.
-
-The robot, which was employed in a year in the city of Gumi's Urban Council, had been inclined in the countryside last week.
-
-The Municipal Council officer has said that the robot is going to be tested to disclose the circumstances of the robot before this incident.
-
-"The robot's parts were collected and the company that created it will analyze the event," said the officer added.
-
-The robot produced by the Bear Robotics of California from 9 am to 6 pm.
-
-Unlike one floor, the robot has addressed the elevator and has the ability to travel the floors.
-
-According to the International Robotics Federation, one robot is employed in South Korea and is considered as the world's top robot country in the world.
-
-◼️
-
-[Data](articles/982b48bd.json)
-
-[Extended Data](ext_articles/982b48bd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 10:35:07**
+As of **2024-07-03 10:53:31**
 
 ## Newspaper Stats
 
-*Scraped **33,430** Articles*
+*Scraped **33,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 1,954
 dailyftlk | 2,068
 adalk | 2,979
 adaderanalk | 3,812
-tamilmirrorlk | 3,957
+tamilmirrorlk | 3,960
 dailymirrorlk | 4,733
 virakesarilk | 5,222
-adaderanasinhalalk | 5,537
+adaderanasinhalalk | 5,538
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,426 (100.0%) of 33,430 articles have been extended.
+33,430 (100.0%) of 33,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### කෝටි ගණනක ස්වර්ණාභරණ ජාවාරමක්
+
+*2024-07-03 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198436) · `si`
+
+ව්‍යාජ රන්භාණ්ඩ උපයෝගී කරගනිමින් රුපියල් 19,670,000ක මුදලක් වංචා සහගත ලෙස ලබාගත් පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+බදුල්ලේ පෞද්ගලික මූල්‍ය ආයතනයක රන් භාණ්ඩ උකස් අංශයේ නිලධාරියෙක්ව මෙම ජාවාරම සම්බන්ධයෙන් බදුල්ල පොලිස් කොට්ඨාශ විශේෂ අපරාධ විමර්ශන අංශය විසින් අත්අඩංගුවට ගෙන තිබිණි.
+
+එපෞද්ගලික මුල්‍ය ආයතනයේ කළමණාකරු විසින් සිදුකරන ලද පැමිණිල්ලකට අනුව පොලීසිය මේ පිළිබඳ විමර්ශන සිදුකර ඇත.
+
+සැකකරුගේ ප්‍රකාශය මත සිදුකළ විමර්ශනවලදී මෙම වංචාව සඳහා යොදාගත් මාල, මුදු, වළලු, අත්පළදනා සහ පෙන්ඩන්ට්ස් යනාදී ව්‍යාජ ස්වර්ණාභරණ 41ක් සැකකරු සන්තකයේ තිබී සොයාගත් බවත් පොලීසිය සඳහන් කළේය.
+
+විවිධ පුද්ගලයන් මෙම මූල්‍ය ආයතනය වෙත පැමිණ ස්වර්ණාභරණ උකස් කරන විට සැකකරු  ඒවා සඳහා ව්‍යාජ කූඨ ලේඛන නිකුත්කර ඇති බවත්, ඉන්පසු එම ස්වර්ණාභරණවලට සමාන (ඉමිටේෂන්) ස්වර්ණාභරණ  ඔන්ලයින් ක්‍රමයට ගෙන්වාගෙන ඒවා අදාළ කවරවලට දමා නියම රන් භාණ්ඩ උකස් කර මුදල් ලබාගෙන ඇති බවත් විමර්ශනවලදී අනාවරණය වූ බව පොලීසිය වැඩිදුරටත් පැවසීය.
+
+උකස් කළ ස්වර්භාරණවලට අදාළ පොලිය ඒවායේ අයිතිකරුවන් නමින් සැකකරු විසින්ම ගෙවා ඇතිබව ද අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/fcfbd343.json)
+
+---
+
+### உயிரை மாய்த்துக்கொண்ட ரோபோ
+
+*2024-07-03 10:20:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உயிரை-மாய்த்துக்கொண்ட-ரோபோ/50-339800) · `ta`
+
+உலகில் முதல்முறையாக ரோபோ ஒன்று உயிரை மாய்த்துக்கொண்டுள்ள சம்பவம் தென் கொரியாவில் பதிவாகியுள்ளது .
+
+தென் கொரியாவின் குமி நகர சபையில் அரசு ஊழியராக பணியாற்றிய ரோபோ தற்கொலை செய்து கொண்டதாக அந்நாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+குறித்த நகர சபையின் ஆவணங்களை எடுத்துச் செல்லும் பணியில் ஈடுபட்டிருந்த, ரோபோவின் உடல் , கட்டிடத்தின் முதல் மற்றும் இரண்டாவது தளங்களுக்கு இடையே கிடந்ததாகவும், படிக்கட்டில் இருந்து கீழே விழும் முன் ரோபோ சுழன்றுள்ளதாகவும் குமி நகர அதிகாரிகள் தெரிவித்த்துள்ளனர்.
+
+குறித்த ரோபோவுக்கு குமியில் வசிப்பவர்கள் இரங்கல் தெரிவித்துள்ளதுடன் , விசாரணைகளுக்காக நகர அதிகாரிகள், ரோபோவின் உடலை எடுத்துச் சென்றுள்ளதாகவும் அந்நாட்டு ஊடகங்கள் தெரிவித்துள்ளது .
+
+மேலும் நகரவாசிகள் இந்த விபத்தை தற்கொலை என்று கூறுவதாகவும் கொரிய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+◼️
+
+[Data](articles/6a6f06f0.json)
+
+---
 
 ### SLPP’s condition to consider Ranil as presidential candidate
 
@@ -48,29 +90,79 @@ When asked if Wickremesinghe could be the common candidate, Kariyawasam responde
 
 [Data](articles/62216484.json)
 
+[Extended Data](ext_articles/62216484.ext.json)
+
 ---
 
-### අද  LPL පිටියට එන කණ්ඩායම් මෙන්න
+### பானி பூரிக்கு தடை
+
+*2024-07-03 10:13:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பானி-பூரிக்கு-தடை/175-339798) · `ta`
+
+பானி பூரியின் தரத்தினை பரிசோதித்த போது, அதிலுள்ள செயற்கை நிறமிகள் புற்றுநோய்க்கு காரணமாக இருப்பது அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+
+கர்நாடகவில் சில மாதங்களுக்கு முன்பு கோபி மஞ்சூரியன், கபாப், பஞ்சு மிட்டாய் ஆகியவற்றில் உடலுக்கு தீங்கு விளைவிக்கும் செயற்கை வண்ணங்கள் கலப்பதற்கு தடைவிதிக்கப்பட்டது. இதைத் தொடர்ந்து பானி பூரியில் செயற்கை நிறமிகள், ரசாயனங்கள் கலக்கப்படுவதாக அம்மாநில உணவுத்துறைக்கு புகார்கள் வந்தன.
+
+இதையடுத்து, உணவுத்துறை அதிகாரிகள் 276 கடைகளில் மாதிரிகளை சேகரித்து பரிசோதனை செய்தனர். இதில், 41 மாதிரிகளில் செயற்கை நிறமிகள், புற்றுநோயை ஏற்படுத்தும் ரசாயனங்கள் இருப்பது கண்டறியப்பட்டது. 18 பானி பூரி மாதிரிகள் (22%) மனிதர்கள் உண்பதற்கு தகுதியற்றவை என தெரியவந்தது. 52 சதவீத மாதிரிகளில் உடலுக்கு தீங்கு விளைவிக்கக் கூடிய ரசாயனங்கள் கலந்துள்ளது கண்டறியப்பட்டது.
+
+...
+
+[Data](articles/ac573bd6.json)
+
+---
+
+### சமய வைபவத்தில் நெரிசல்: 134 பேர் பலி
+
+*2024-07-03 10:06:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமய-வைபவத்தில்-நெரிசல்-134-பேர்-பலி/175-339797) · `ta`
+
+உத்தரப்பிரதேசம் ஹாத்ரஸ் சம்பவத்தில் பலி எண்ணிக்கை 134 ஆக அதிகரிதுள்ளது. இதற்கு காரணமான போலே பாபா தலைமறைவாகி உள்ளார். அவரைப் பொலிஸார் தேடி வருகின்றனர்.
+
+நாட்டையே உலுக்கிய துயரச் சம்பவம், உ.பி.யின் மேற்குப்பகுதியிலுள்ள ஹாத்ரஸ் மாவட்டத்தில் செவ்வாய்க்கிழமை (02)இடம்பெற்றுள்ளது.
+
+ஹாத்ரஸ் மாவட்டத்தின் சிக்கந்தராராவ் தாலுகாவின் முகல்கடி கிராமத்தில் ஆன்மிகக் கூட்டம் நடைபெற்றது. இதை சாக்கார் நாராயண் சாகர் விஷ்வ ஹரி என்பவர் நடத்தி இருந்தார். ஆன்மிகக் கூட்டத்தில் நெரிசல் ஏற்பட்டு பலியானோர் எண்ணிக்கை 134 ஆக அதிகரித்துள்ள நிலையில் அந்த கோர விபத்து குறித்து மேலும் பல திடுக்கிடும் தகவல்கள் வெளியாகி உள்ளன.
+
+சிறிய அளவிலானக் கூட்டம் எனக் கூறி ஹாத்ரஸ் மாவட்ட அரசு நிர்வாகத்திடம் அனுமதி பெறப்பட்டுள்ளது. கூட்டத்துக்கு ஏற்ற வகையில் பாதுகாப்பு ஏற்பாடுகளும் முறையாக செய்யப்படவில்லை. உ.பி காவல்துறை தரப்பில் வெறும் 48 பொலிஸார் பாதுகாப்பு பணிக்கு அமர்த்தப்பட்டிருந்தனர்.
+
+...
+
+[Data](articles/d62e6242.json)
+
+---
+
+### Here are the groups coming to the LPL
 
 *2024-07-03 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198435) · `si`
 
-ශ්‍රී ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ දඹුල්ල සික්සර්ස් කණඩායම සහ ජැෆ්නා කිංග්ස් කණ්ඩායම අතර තරගය අද (03) පැවැත්වීමට නියමිතව තිබේ.
+Today's LPL matches feature the Dambulla Sixers vs Jaffna Kings and Colombo Strikers vs Galle Gladiators at Pallekele Stadium. Yesterday, Colombo Strikers lost to another team by 51 runs in the Ceylon Premier League. In the Lanka Premier League, Colombo Strikers won the toss and made 198 runs in 20 overs, led by Sadeera Samarawickrema with 38 runs. Kasun Rajitha bowled well, taking two wickets. However, Candy Falcons could only score 147 runs in 15 overs after losing Shadab Khan early.
 
-මේ අතර කලම්බූ ස්ටයිකර්ස් කණ්ඩායම සහ ගෝල් මාවලස් කණ්ඩායම තරගය ද මහනුවර පල්ලේකැලේ ක්‍රීඩාංගනයේදී රාත්‍රී 7.30ට ආරම්භ වීමට නියමිතව තිබේ.
+🟩
 
-මේ අතර ෂඩාබ් ඛාන්ගේ සහ දුනිත් වෙල්ලාලගේ විශිෂ්ඨ පන්දු යැවීම හමුවේ ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ ඊයේ (02) රාත්‍රියේ පැවති තරගයකින් ලකුණු 51ක ජයක් වාර්තා කිරීමට කලම්බු ස්ට්‍රයිකර්ස් කණ්ඩායම සමත්විය.
+The match between the Dambulla Sixers Troatch and Jarffna Kings team will be held today (03).
 
-ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ තුන්වන තරගය ඊයේ රාත්‍රීයේ දී පැවැත්වුණේ කලම්බු ස්ට්‍රයිකර්ස් කණ්ඩායම සහ කැන්ඩි ෆැල්කන්ස් කණ්ඩායම් අතරය.
+Meanwhile, Colombo Strikers team and the Gall Malas Group is scheduled to start at 7.30 pm at Pallekele Stadium, Kandy.
 
-එම තරගයේ කාසියේ වාසිය දිනු කැන්ඩි නායක වනිඳු හසරංග පළමුව පන්දුවට පහර දීමට කලම්බු කණ්ඩායමට ආරාධනා කළේය.
+Meanwhile, Colombo Strikers were killed by 51 runs in the Ceylon Premier League cricket yesterday (02).
 
-ඒ අනුව පිටියට පිවිසි කලම්බු ස්ට්‍රියිකර්ස් කණ්ඩායමේ පළමු කඩුලු දෙක ලකුණු 20කදී දැවිගියේය.
+The third match of the Lanka Premier League cricket series was held last night.
 
-තුන්වන කඩුල්ලට සදීර සමරවික්‍රම සහ මුහමද් වසීම් ලකුණු 78ක සබඳතාවක් ගොඩ නැගුවේ කලම්බු කණ්ඩායමට ජීවයක් එක් කරමිනි.
+The Colombo team invited the Colombo team to win the benefit of the coin.
+
+Accordingly, the first two wickets in the Colombo Streylyners team were in the tip of 20 runs.
+
+Sageera Samarawickrema and Muamaad Wasim Lawn a 78 runs for the Colombo team.
+
+The leader of Sadeera was a 38 runs in the 6th wicket with Shadob Khan.
+
+The relationship that the 7th wicket was built with Chamakika Karunaratne was 41 runs.
+
+Accordingly, the loss of 7 wickets in their allotted 20 overs have scored 198 runs.
+
+Kasun Rajitha took two wickets each for the bowling.
 
 ...
 
 [Data](articles/8510f89f.json)
+
+[Extended Data](ext_articles/8510f89f.ext.json)
 
 ---
 
@@ -152,25 +244,33 @@ The deceased has been identified as a 42 year old resident of Pankuddhav, and th
 
 ---
 
-### රොබෝවෙක් දිවි නසා ගනියි  - දකුණු කොරියාව හේතුව සොයයි
+### Robbon commits suicide - South Korea looks for the cause
 
 *2024-07-03 09:32:36* · [`adalk`](https://www.ada.lk/technology/රොබෝවෙක්-දිවි-නසා-ගනියි----දකුණු-කොරියාව-හේතුව-සොයයි/5-410583) · `si`
 
-මධ්‍යම දකුණු කොරියාවේ නගර සභාවක කටයුතු සඳහා සහාය වූ රොබෝවරයකු දිවිනසාගෙන ඇතැයි දකුණු කොරියානු මාධ්‍ය වාර්තා කරයි. මේ අනුව අදාළ සිදුවීම සම්බන්ධයෙන් දකුණු කොරියාව පරික්ෂණයක්ද ආරම්භ කර තිබේ.
+In South Korea, a robotic employee committed suicide, leading to investigations into its cause. The robot, used by Gumi's Urban Council, was found deceased recently. Authorities have collected its parts for analysis by its manufacturer, Bear Robotics. This incident highlights the increasing use of robots in daily life, with South Korea leading in robotics technology.
 
-දකුණු කොරියාවේ ගුමි නගරයේ නගර සභාවේ වසරක කාලයක පටන් සේවයේ යොදවා තිබූ මෙම රොබෝවරයා පසුගිය සතියේදී නගර සභාවේ ගොඩනැගිල්ලක පඩිපෙළක් පහළ අක්‍රිය වී තිබී ඇතැයි එම මාධ්‍ය වාර්තා පෙන්වා දෙයි.
+🟩
 
-මෙම සිදුවීමට පෙර රොබෝවරයා යමක් වැරදී ඇති සේ කැරකෙමින් පඩිපෙලේ සිටිනු ඇසින් දුටු සාක්ෂිකරුවන් දුටු බවත්, සිද්ධියේ තත්වයන් අනාවරණය කර ගැනීම සඳහා පරීක්ෂණ සිදුවෙමින් පවතින බවත් එම නගර සභාවේ නිලධාරියෙක් පවසා තිබේ.
+South Korean media reports that a robone who supported a central Korea Urban Council. South Korea has also launched an investigation into the incident.
 
-“රොබෝවරයාගේ කොටස් එකතු කර ඇති අතර එය නිර්මාණය කළ සමාගම විසින් සිද්ධිය විශ්ලේෂණය කරනු ඇත” නිලධාරියා තවදුරටත් පැවසීය.
+The robot, which was employed in a year in the city of Gumi's Urban Council, had been inclined in the countryside last week.
 
-කැලිෆෝනියාවේ Bear Robotics විසින් නිපදවන ලද රොබෝවරයා උදේ 9 සිට සවස 6 දක්වා මෙහි සේවය කර තිබේ.
+The Municipal Council officer has said that the robot is going to be tested to disclose the circumstances of the robot before this incident.
 
-එක් මහලකට සීමා වූ අනෙකුත් රොබෝවරුන් මෙන් නොව,මෙම රොබෝවරයා සෝපානය අමතා මහල් අතර ගමන් කිරීමේ හැකියාවක්ද තිබී ඇත.
+"The robot's parts were collected and the company that created it will analyze the event," said the officer added.
 
-...
+The robot produced by the Bear Robotics of California from 9 am to 6 pm.
+
+Unlike one floor, the robot has addressed the elevator and has the ability to travel the floors.
+
+According to the International Robotics Federation, one robot is employed in South Korea and is considered as the world's top robot country in the world.
+
+◼️
 
 [Data](articles/982b48bd.json)
+
+[Extended Data](ext_articles/982b48bd.ext.json)
 
 ---
 
@@ -1708,19 +1808,27 @@ He further stated that President Mahinda Rajapaksa has discussed the Chinese Pre
 
 ---
 
-### පොලීසියේ ඉහළම පුටු 15ක වෙනසක්
+### A change of 15 highest chairs
 
 *2024-07-02 19:16:23* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසියේ-ඉහළම-පුටු-15ක-වෙනසක්/11-410578) · `si`
 
-නියෝජ්‍ය පොලිස්පතිවරුන් 06දෙනෙකුට හා ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරුන් 06දෙනෙකුට පොලිස් අධිකාරීවරුන් තුන්දෙනෙකුට වහාම ක්‍රියාත්මක වන පරිදි ස්ථාන මාරු ලබා දී තිබේ.
+Six DIGs and six SSPs have been transferred immediately due to police restructuring. Key moves include DIG G.R. Mr. Wijesinghe moving to Hambantota, DIG Sarath Kumara to the Field Force, and several others reassigned across various districts like Anuradhapura, Kalutara, Batticaloa, Kurunegala, and Badulla. These changes were ordered by the IGP as part of the National Police Commission's directives.
 
-මේ අනුව පොලිස් ක්ෂේත්‍ර බළකා මූලස්ථාන දිසාව භාර නියෝජ්‍ය පොලිස්පති ජී.අයි.ඩී. ආර්. විජේසිංහ මහතා නුවරඑළිය දිසාව භාර නියෝජ්‍ය පොලිස්පති ලෙස ස්ථාන මාරු කර තිබෙන අතර, මාතර හම්බන්තොට දිසාව භාර නියෝජ්‍ය පොලිස්පති සරත් කුමාර මහතා ක්ෂේත්‍ර බළකා දිසාව භාර නියෝජ්‍ය පොලිස්පති ලෙස ස්ථාන මාරුවීම ලබා දී ඇත.
+🟩
 
-අනුරාධපුර දිසාව භාර නියෝජ්‍ය පොලිස්පති ජී.ඒ.එන්.එල්. විජේසේන මහතා කළුතර දිසාව භාර නියෝජ්‍ය පොලිස්පති ලෙස හා කළුතර දිසාව භාර නියෝජ්‍ය පොලිස්පති අයි. බී.ටී. සුගතපාල මහතා අනුරාධපුර දිසාව භාර නියෝජ්‍ය පොලිස්පති ලෙස හා මඩකලපුව දිසාව භාර නියෝජ්‍ය පොලිස්පති ඒ. එල්.යූ.එන්.පී. ලියනගේ මහතා කුරුණෑගල දිසාව භාර නියෝජ්‍ය පොලිස්පති තනතුරේ රාජකාරි ඉටු කිරීමට හා කුරුණෑගල දිසාව භාර නියෝජ්‍ය පොලිස්පති ඒ. එස්.පී.සී. වෙදමුල් මහතා, බදුල්ල දිසාව භාර නියෝජ්‍ය පොලිස්පති තනතුරේ රාජකාරි ඉටු කිරීම සඳහා ස්ථාන මාරු කර ඇත.
+Six DIGs and six senior Superintendents of Police have been transferred with immediate effect.
+
+Accordingly, the Police Field Force Headquarto District DIG GID. R. Mr. Wijesinghe has been transferred to the DIG of Hambantota District, DIG Sarath Kumara to be transferred to the Field Force of the Field Force.
+
+Deputy Inspector General of Anuradhapura GSNL. Mr. Wijesena as DIG in the Kalutara District and DIG IP in Kalutara. BT. Mr. Sugathapala as DIG in charge of Anuradhapura and Batticaloa District Hon.. LBNP. Mr. Liyanage to perform duties of DIG in charge of the Kurunegala District and DIG in Kurunegala. SPC. Mr. Weddamul has been transferred to perform the duties of the DIG in Badulla District.
+
+The transfers have been made according to the orders of the IGP as per the National Police Commission.
 
 ...
 
 [Data](articles/add77b75.json)
+
+[Extended Data](ext_articles/add77b75.ext.json)
 
 ---
 
@@ -2175,101 +2283,5 @@ Communicated with the development of Lubricant Markets, Lubricant Market, Lubric
 [Data](articles/50c68ba2.json)
 
 [Extended Data](ext_articles/50c68ba2.ext.json)
-
----
-
-### Elections for election commissions
-
-*2024-07-02 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198415) · `si`
-
-The Elections Commission emphasizes the ongoing enforcement of the election law, citing Constitutional Article 104 "A". It prohibits political promotion and misuse of state resources during elections. Violations are considered criminal offenses. The Commission urges adherence to its regulations for fair elections, referencing Gazette No. 20 of January 20, 2023.
-
-🟩
-
-The Elections Commission says that the election law is still undergoing enforcement in the country as the local authority has held the election and the election has not been held.
-
-The Commission states that the law is in effect as per the Constitution 104 "A" section.
-
-They also show that no political party, a group and a candidate should be promoted during the period underway.
-
-The Elections Commission states that no state property should be used by a special gazette and a circular that all state institutions should be used.
-
-The Gazette of the Gazette, No. 20 of January 20, 2023, issue of No. 20 of January 20, 2023, the Election Commission says.
-
-According to the Elections Commission, the breach of election laws is a punitive offense.
-
-The Commission requests the provisions and the provisions issued by the Elections Commission and the Circulars issued by the Elections Commission for free and fair.
-
-◼️
-
-[Data](articles/8a6af2a2.json)
-
-[Extended Data](ext_articles/8a6af2a2.ext.json)
-
----
-
-### UNDP’s local governance symposium recommendations handed over to Prime Minister
-
-*2024-07-02 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100247/-undps-local-governance-symposium-recommendations-handed-over-to-prime-minister) · `en`
-
-The Findings and Preliminary Recommendations Report from the recently concluded National Symposium on ‘Catalysing Change: Making Local Governance Future Fit’ carried out by the United Nations Development Programme (UNDP) has been handed over this morning (02) to Prime Minister Dinesh Gunawardena.
-
-The report was officially handed over by Ms. Azusa Kubota, Resident Representative, UNDP in Sri Lanka and Mr. Johann Hesse, Head of Cooperation at the European Union (EU) Delegation to Sri Lanka and the Maldives.
-
-The National Symposium was co-convened by the Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government, the European Union Delegation in Sri Lanka and the UNDP in Sri Lanka.
-
-...
-
-[Data](articles/83fce7d6.json)
-
-[Extended Data](ext_articles/83fce7d6.ext.json)
-
----
-
-### Sri Lanka’s bilateral debt restructuring deal concluded; admin issues remain: State FinMin
-
-*2024-07-02 17:11:00* · [`economynextcom`](https://economynext.com/sri-lankas-bilateral-debt-restructuring-deal-concluded-admin-issues-remain-state-finmin-170607/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s debt restructuring deal with its bilateral creditors is agreed and concluded, but there are some administrative issues still remaining including getting the signatures of all the creditors, State Finance Minister Shehan Semasimghe said.
-
-President Ranil Wickremesinghe’s government reached US$10 billion worth bilateral debt deal with the members of Paris Club and Official Creditors Committee (OCC) as well as China last week.
-
-However, the opposition has claimed that the debt restructuring negotiations are far from over.
-
-Semasinghe acknowledged that some of Sri Lanka’s bilateral creditors are yet to sign the deal though they all have agreed on the agreement, which is yet to be seen by public.
-
-“What happened is that the OCC and the Paris Club have agreed on what the debt restructuring process is going to be,” the State Finance Minister told reporters at a media briefing in Colombo on Tuesday (02).
-
-...
-
-[Data](articles/4a3768e6.json)
-
-[Extended Data](ext_articles/4a3768e6.ext.json)
-
----
-
-### Sri Lanka stocks close up due to foreign buying interest
-
-*2024-07-02 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-due-to-foreign-buying-interest-170603/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The broader All Share Index closed up 0.35 percent, or 41.80 points, at 12,118; while the more liquid S&P SL20 Index closed down 0.23 percent, or 8.18 points, at 3,574.
-
-Turnover was 1.8 billion. Most of this (Rs959mn) came from foreign buying.
-
-“Market had a slow start, but it picked up due to foreign activity,” Softlogic Stockbrokers said.
-
-There were three crossings, two of which saw foreign buying: Windforce Plc (Rs590mn), share closed up at 20.00, and Sampath Bank Plc (Rs434mn), the share closed down at 79.00.
-
-The other crossing was on Hemas Holdings Plc, (Rs255mn). The share closed down at 82.60. “Crossings made up 60 percent of the turnover.
-
-“The local retail segment is being very cautious because of all the election speculation, even though there is a lot of positive news, and many companies with good fundamentals.”
-
-...
-
-[Data](articles/db2ba2b4.json)
-
-[Extended Data](ext_articles/db2ba2b4.ext.json)
 
 ---

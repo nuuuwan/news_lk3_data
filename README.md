@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 11:19:49**
+As of **2024-07-03 11:35:06**
 
 ## Newspaper Stats
 
-*Scraped **33,438** Articles*
+*Scraped **33,440** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 1,954
 dailyftlk | 2,068
 adalk | 2,979
 adaderanalk | 3,812
-tamilmirrorlk | 3,960
+tamilmirrorlk | 3,961
 dailymirrorlk | 4,733
 virakesarilk | 5,225
-adaderanasinhalalk | 5,539
+adaderanasinhalalk | 5,540
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,435 (100.0%) of 33,438 articles have been extended.
+33,438 (100.0%) of 33,440 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
+
+### මියගිය ධීවරයින්ගේ සිරුරු රැගත් යාත්‍රාව තංගල්ලට
+
+*2024-07-03 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198439) · `si`
+
+මුහුදේ පාවී ආ බෝතලයක තිබු දියර වර්ගයක් පානය කිරීමෙන් ජීවිතක්ෂයට පත්  "ඩොවොන් 05" ධීවර යාත්‍රාවේ ධීවරයින් 04 දෙනොගේ මළ සිරුරු තංගල්ල ධීවර වරායට රැගෙන විත් තිබේ.
+
+අද (03) උදෑසන අදාල මළ සිරුරු රැගත් යාත්‍රාව තංගල්ල ධීවර වරාය වෙත රැගෙන ආ බව "අද දෙරණ" වාර්තාකරු සඳහන් කළේය.
+
+කාර්මික දෝෂයට ලක් ව තිබු එම යාත්‍රාව තවත් යාත්‍රාවක් යොදා ගනිමින් තංගල්ල ධීවර වරාය වෙත රැගෙන විත් තිබේ.
+
+මහෙස්ත්‍රාත්වරයා පැමිණ මළ සිරුරු සම්බන්ධයෙන් මහෙස්ත්‍රාත් පරීක්ෂණය පවත්වන තෙක් අදාළ මළ සිරුරු යාත්‍රාවේම තබා ඇති බව තංගල්ල පොලීසිය සඳහන් කළේය.
+
+මහෙස්ත්‍රාත් පරීක්ෂණයෙන් අනතුරුව පශ්චාත් මරණ පරීක්ෂණය සඳහා අදාළ මළ සිරුරු තංගල්ල රෝහල වෙත රැගෙන යාමට නියමිතය.
+
+◼️
+
+[Data](articles/95e9e7ff.json)
+
+---
+
+### இல்லாமல் விவாகரத்து: பெண் சட்டத்தரணிக்கு சிக்கல்
+
+*2024-07-03 10:46:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/இல்லாமல்-விவாகரத்து-பெண்-சட்டத்தரணிக்கு-சிக்கல்/71-339804) · `ta`
+
+வெளிநாட்டில் வசிக்கும் தம்பதியினரின் பெயரில் யாழ்ப்பாணத்தில் விவாகரத்து பெற்றுக்கொடுத்தமை தொடர்பில்  குற்றம் சாட்டப்பட்டுள்ள சட்டத்தரணியின் அலுவலகத்தில் பொலிஸார் தேடுதல் நடவடிக்கையில் ஈடுபட்டிருந்தனர்.
+
+யாழ்ப்பாணத்தை சேர்ந்த இருவர் திருமணமாகி இத்தாலியில் வசித்து வருகின்றனர். அவர்களுக்கு இடையில், சில வருடங்களுக்கு முன்னர் மனஸ்தாபங்கள் ஏற்பட்டு இருவரும் இத்தாலியில் பிரிந்து வாழ்ந்துள்ளனர்.
+
+அந்நிலையில்   தமக்கு யாழ்ப்பாணத்தில் திருமணம் நடைபெற்றமையால், யாழ்ப்பாணத்தில் விவாகரத்திற்கு விண்ணப்பித்து , விவாகரத்தை பெறுவதற்கு நடவடிக்கை எடுக்குமாறு சாவகச்சேரி பகுதியில் வசிக்கும் தனது சகோதரியிடம் அந்த நபர்  கூறியுள்ளார்.
+
+அதனை அடுத்து சகோதரி , யாழ்ப்பாணத்தில் உள்ள பெண் சட்டத்தரணி ஒருவரை நாடி , வெளிநாட்டில் உள்ள தம்பதியினருக்கு யாழ்ப்பாணத்தில் விவாகரத்து பெற்று தருமாறு கோரியுள்ளார்.
+
+...
+
+[Data](articles/de1a96cd.json)
+
+---
 
 ### Two court order ordered against protesters
 
@@ -272,21 +310,27 @@ The victim was a 71 year old resident of Pamunugama and the lorry driver has bee
 
 ---
 
-### சண்முகம் குகதாசன் பாராளுமன்ற உறுப்பினராகிறார் ; வர்த்தமானி வெளியீடு
+### Shanmugam Kukadasan is a Member of Parliament;Gazette release
 
 *2024-07-03 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/187555) · `ta`
 
-தமிழ் தேசிய கூட்டமைப்பின் சிரேஷ்ட தலைவரும் பாராளுமன்ற உறுப்பினருமான அமரர்  இரா.சம்பந்தனின் மறைவினால் ஏற்பட்ட பாராளுமன்ற உறுப்பினர் வெற்றிடத்திற்கு சண்முகம் குகதாசனின் பெயர் வர்த்தமானியில் தற்போது வௌியிடப்பட்டுள்ளது.
+Shanmugam Kukadasan, a key figure in the Tamil National Alliance (TNA), is set to become a Member of Parliament in Sri Lanka. He won the highest vote in the Trincomalee district during the 2020 parliamentary elections, succeeding the late TNA leader. His swearing-in ceremony is anticipated in the coming days.
 
-இலங்கை தமிழரசுக் கட்சியின் சார்பில் 2020 ஆம் ஆண்டு இடம்பெற்ற பாராளுமன்ற தேர்தலில் சண்முகம் குகதாசன் திருகோணமலை மாவட்டத்தில் போட்டியிட்டிருந்தார்.
+🟩
 
-அந்த தேர்தலில் இலங்கை தமிழரசுக் கட்சியின் சிரேஷ்ட தலைவர் காலஞ்சென்ற பெருந்தலைவர் இராஜதவரோதயம் சம்பந்தனுக்கு பின்னர் அதிகூடிய வாக்குகளை அவர் பெற்றிருந்தார்.
+The name of Shanmugam Kukadasan, the Senior Leader of the Tamil National Alliance (TNA) and the Member of Parliament, Amarar R. Sampanthan, is now in the vicinity of Shanmugam Kukadasan.
 
-எதிர் வரும் ஓரிரு சில தினங்களில் இலங்கை பாராளுமன்றில் நாடாளுமன்ற உறுப்பினராக சண்முகம் குகதாசன் சத்தியப்பிரமானம் செய்து கொள்வார் என எதிர்பார்க்கப்படுகிறது.
+Shanmugam Kukadasan contested the Trincomalee district in the 2020 parliamentary election on behalf of the Sri Lanka Tamil National Alliance (TNA).
+
+In that election, he had received the highest number of votes after the late leader of the Sri Lanka Tamil National Alliance (TNA).
+
+Shanmugam Kukadasan is expected to swear as a Member of Parliament in the Parliament of Sri Lanka in the next few days.
 
 ◼️
 
 [Data](articles/f96e2ba6.json)
+
+[Extended Data](ext_articles/f96e2ba6.ext.json)
 
 ---
 
@@ -346,19 +390,25 @@ According to the International Robotics Federation, one robot is employed in Sou
 
 ---
 
-### எட்டியாந்தோட்டையில் தொடர் குடியிருப்பில் தீ விபத்து ; இருவர் உயிரிழப்பு!
+### Fire at a series of apartments in Etiyantota;Two people die!
 
 *2024-07-03 09:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/187553) · `ta`
 
-எட்டியாந்தோட்டை பொலிஸ் பிரிவிற்குட்பட்ட பல்லேகம பகுதியில் தொடர் குடியிருப்பில் ஏற்பட்ட  தீ விபத்தில் இருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+In Pallegama, near Etiyanthota, a fire killed two people and injured three others in the early hours of Wednesday.
 
-இந்த தீ விபத்தானது இன்று புதன்கிழமை (03) அதிகாலை ஏற்பட்டுள்ளதோடு, 03 தொடர் குடியிருப்புக்கள் சேதமடைந்துள்ளதாகவும் பொலிஸார்  தெரிவித்துள்ளனர்.
+🟩
 
-தீ விபத்தில் 60 வயதுடைய ஆணொருவரும், 50 வயதுடைய பெண்ணொருவரும்  உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Two persons were killed in a fire in a residential area of ​​Pallegama area, which belongs to the Etiyanthota police division, police said.
+
+The fire broke out in the early hours of Wednesday (03) and three persons have been damaged, police said.
+
+A 60 -year -old man and a 50 -year -old woman died in the fire, police said.
 
 ◼️
 
 [Data](articles/4067f02d.json)
+
+[Extended Data](ext_articles/4067f02d.ext.json)
 
 ---
 
@@ -408,21 +458,27 @@ Kompanitheeru police have launched an investigation into the incident and the po
 
 ---
 
-### சம்பந்தனுக்கு இலங்கை தமிழரசு கட்சி  யாழ்ப்பாண தலைமையகத்தில் அஞ்சலி
+### The Sri Lanka Tamil National Party (TNA) tributes to Sambandan at Jaffna headquarters
 
 *2024-07-03 08:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/187552) · `ta`
 
-இலங்கை தமிழரசு கட்சியின் சிரேஷ்ட தலைவரும் திருகோணமலை மாவட்ட  பாராளுமன்ற உறுப்பினருமான அமரர் இராஜவரோதயம்  சம்பந்தனுக்கு இலங்கை தமிழரசு கட்சி யாழ்ப்பாண தலைமையகத்தில் செவ்வாய்க்கிழமை (02) அஞ்சலி நிகழ்வுகள் இடம்பெற்றன.
+The Sri Lanka Tamil National Party paid tribute to Amara Raja Ravarodayam Sambandan, a TNA Senior Leader, at its Jaffna headquarters. The ceremony included lighting a portrait and offering flower tributes, followed by expressions of grief with black flags. A special tribute event is scheduled for Friday evening by the Jaffna constituency branch.
 
-இலங்கை தமிழரசு கட்சியின் தலைவரும் முன்னாள் பாராளுமன்ற உறுப்பினருமான மாவை சேனாதிராஜா தலைமையில் இடம்பெற்ர நிகழ்வில் அன்னாரின் உருவபடத்திற்கு ஈகைசுடர் ஏற்றப்பட்டு மலர்மாலை அணிவிக்கப்பட்டது. தொடர்ந்து சிரேஷ்ட உறுபினர்களால் மலர் அஞ்சலி செலுத்தப்பட்டது.
+🟩
 
-அன்னாரது மறைவை தொடர்ந்து கட்சிகொடி அரைக்கம்பத்தில் பறக் கவிடப்பட்டதுடன் கறுப்பு கொடி, பனர்கள் கட்டப்பட்டு துயரம் வெளிப்படுத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+Senior Leader of the Tamil National Alliance (TNA) and Trincomalee district parliamentarian Amara Raja Ravarodayam Sambandan was held on Tuesday (02) at the Jaffna Headquarters of the Sri Lanka Tamil National Party.
 
-இதேவேளை எதிர்வரும் வெள்ளிக்கிழமை (05) மாலை கட்சியின் தலைமை அலுவலகத்தில் யாழ்ப்பாண தொகுதி கிளையினரால் விசேட அஞ்சலி நிகழ்வுகள் நடாத்தப்படவுள்ளமை குறிப்பிடத்தக்கது.
+The leader of the Sri Lanka Tamil National Alliance (TNA) and former Member of Parliament, Mawai Senathirajah, was lit for the portrait of Annar. Flower tribute was followed by senior members.
+
+It is noteworthy that following the demise of the party, the black flag and the tragedy were expressed by the black flag and the panchayat.
+
+Meanwhile, a special tribute event will be held by the Jaffna constituency branch at the party's headquarters on Friday evening.
 
 ◼️
 
 [Data](articles/d31578f4.json)
+
+[Extended Data](ext_articles/d31578f4.ext.json)
 
 ---
 
@@ -2225,61 +2281,5 @@ The incident was reported yesterday (01) and several others and several others w
 [Data](articles/ccfdee84.json)
 
 [Extended Data](ext_articles/ccfdee84.ext.json)
-
----
-
-### Notification of Laugfs gas prices
-
-*2024-07-02 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198418) · `si`
-
-LAUGFS keeps July gas prices unchanged while Litro reduces prices: A 12kg LAUGFS cylinder costs X, down from Y previously. Litro cuts its 12.5kg cylinder price by Z, continuing price reductions started in April, May, and June.
-
-🟩
-
-LAUGFS says he does not revise the domestic gas price for the month of July.
-
-At present, the company is selling a 12-kilogram LAUGFS household gas cylinder for Rs.
-
-Meanwhile, Litro has taken steps to reduce the price of gas to operate from midnight today.
-
-Accordingly, the price of a 12.5 kilogram litro gas cylinder has been reduced by Rs.
-
-Accordingly, they have taken steps to reduce gas prices in addition to the continuous April, May and June.
-
-According to the monthly revision of the monthly amendment, the company was downloading the litro gas prices.
-
-Accordingly, the price of a 12.5 kg of household gas cylinder was reduced by Rs. 3,690.
-
-The price of a 5kg gas cylinder was reduced by Rs. 1,482 million.
-
-The price of a 2.3kg gas cylinder has been reduced by Rs. 18 is Rs. 694.
-
-◼️
-
-[Data](articles/85a096c5.json)
-
-[Extended Data](ext_articles/85a096c5.ext.json)
-
----
-
-### LG Election law still in effect; Commission warns against violations
-
-*2024-07-02 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100248/lg-election-law-still-in-effect-commission-warns-against-violations) · `en`
-
-The Election Commission states that despite the deferral of the 2023 Local Government (LG) elections, the local government election law remains in effect as the polls have not been completed.
-
-It highlighted that accordingly, the local government election law is still effective as per the Article 104 (a) of the Constitution.
-
-Thus, the Election Commission warned that during this period, it is not permitted for anybody to act in a way that promotes any specific political party, candidate, or political group.
-
-Furthermore, the commission has informed all the heads of public institutions through a circular and a gazette extraordinary that no state property shall be utilized for this purpose.
-
-The election regulatory body further emphasized that the violation of these guidelines during this period is a punishable offense.
-
-...
-
-[Data](articles/404eb5b6.json)
-
-[Extended Data](ext_articles/404eb5b6.ext.json)
 
 ---

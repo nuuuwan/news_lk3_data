@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-03 13:54:48**
+As of **2024-07-03 14:06:26**
 
 ## Newspaper Stats
 
-*Scraped **33,471** Articles*
+*Scraped **33,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,867
 economynextcom | 1,957
 dailyftlk | 2,068
 adalk | 2,983
-adaderanalk | 3,818
+adaderanalk | 3,820
 tamilmirrorlk | 3,965
 dailymirrorlk | 4,733
 virakesarilk | 5,229
@@ -26,23 +26,67 @@ adaderanasinhalalk | 5,546
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,470 (100.0%) of 33,471 articles have been extended.
+33,471 (100.0%) of 33,473 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-03 (Wednesday)
 
-### ගුරුවරුන් ට ජනපති සැරවෙයි
+### Pawning centre employee cheats over Rs. 19.6 million using imitation gold jewellery
+
+*2024-07-03 13:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100268/pawning-centre-employee-cheats-over-rs-196-million-using-imitation-gold-jewellery-) · `en`
+
+Police have apprehended an employee of the gold jewellery pawning section of a private financial institution in Badulla who is accused of cheating over Rs. 19.6 million by replacing real gold jewellery with imitation jewellery.
+
+Following an investigation carried out by the Special Crime Unit of the Badulla Police Division, the employee of the gold pawning section of a private financial institution in Badulla was arrested.
+
+Police have launched an investigation into the incident following a complaint lodged by the said financial institution’s manager.
+
+Police stated that following the interrogation of the suspect, officers recovered 41 imitation gold jewellery items including necklaces, rings, bracelets, and pendants which were found in the suspect’s possession.
+
+The suspect had allegedly used these imitation items to issue fraudulent documents when clients pawned genuine gold jewellery at the relevant financial institution.
+
+...
+
+[Data](articles/51a886fb.json)
+
+---
+
+### Bodies of fishermen who died after drinking from bottle found in sea brought to Tangalle
+
+*2024-07-03 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100267/bodies-of-fishermen-who-died-after-drinking-from-bottle-found-in-sea-brought-to-tangalle) · `en`
+
+The bodies of four fishermen, who died after consuming the contents of a bottle they found floating in the sea assuming it was liquor, were brought to the Tangalle fisheries harbour this morning (03).
+
+The fishing vessel “Devon 05,” which had also suffered a mechanical failure, was towed to the Tangalle Fisheries Harbour by another vessel.
+
+According to Tangalle police, the bodies were kept on the vessel pending the arrival of the magistrate for a magisterial inquest.
+
+Following the magistrate’s inquiry, the bodies will be transferred to Tangalle Hospital for the post-mortem examinations.
+
+◼️
+
+[Data](articles/8183d6f3.json)
+
+---
+
+### President to march at teachers
 
 *2024-07-03 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198445) · `si`
 
-පාසල් අධ්‍යයන කටයුතු පැවැත්වෙන කාලය තුළ සෘජුව හෝ වක්‍රව අධ්‍යාපනය කඩාකප්පල් කරන පිරිස්වලට එරෙහිව ගත යුතු පියවර සම්බන්ධයෙන් තමා නීතිපති උපදෙස් ඉල්ලු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe has sought legal advice on handling saboteurs of education, vowing not to tolerate disruptions. He emphasized the importance of discipline in education, criticizing past strikes as detrimental. Highlighting financial support for students and teachers, he urged for a disciplined approach to schooling, hinting at potential legal actions against those hindering educational progress.
 
-අද පෙරවරුවේ අරලියගහ මන්දිරයේ පැවති ගුරු පත්වීම් ලබාදීමේ උත්සවයක් අමතමින් ජනාධිපතිවරයා කියා සිටියේ කඩාකප්පල්කාරී ක්‍රියාවලට තමා ඉඩ නොතබන බවය.
+🟩
+
+President Ranil Wickremesinghe says he has requested the Attorney General's advice on the steps to be taken against people who directly or indirectly to sabotage their education during school studies.
+
+Addressing a ceremony to provide teacher appointments at Temple Trees this morning, the President said he would not allow sabotage.
 
 ...
 
 [Data](articles/0b40fe43.json)
+
+[Extended Data](ext_articles/0b40fe43.ext.json)
 
 ---
 
@@ -2247,47 +2291,5 @@ Also, Aruna Darshana is expected to get a chance to participate in the Olympics.
 [Data](articles/8dbb1bd7.json)
 
 [Extended Data](ext_articles/8dbb1bd7.ext.json)
-
----
-
-### Guru-Principal Trade Unions postponed to the government
-
-*2024-07-02 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198423) · `si`
-
-Guru Principal Trade Unions have postponed their protests but remain firm on their demands. They've called for a meeting in Colombo to discuss next steps, focusing on salary anomalies.
-
-🟩
-
-The Guru Principal Trade Unions says that the fight will not give up until their demands.
-
-The Trade Unions stated that if the demonstration was held today after school hours, the trade unions states that they will be taken into school hours.
-
-Accordingly, all the trade unions summoned to Colombo and discussing the future action will be called to Colombo on Friday.
-
-Teaching, the Trade Unions have engaged in various trade union action over the past few days, demanding the authorities to remove salary anomaly.
-
-◼️
-
-[Data](articles/cddafba0.json)
-
-[Extended Data](ext_articles/cddafba0.ext.json)
-
----
-
-### Lanka IOC launches 100 Octane premium petrol in Sri Lanka
-
-*2024-07-02 21:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100252/-lanka-ioc-launches-100-octane-premium-petrol-in-sri-lanka) · `en`
-
-The Minister of Power and Energy, Kanchana Wijesekera, stated that Lanka IOC will be launching a 100 Octane premium petrol to the market from today (02).
-
-In a post on ‘X’ (formerly Twitter), Wijesekera stated that he had a meeting and discussions with the Chairman and the Senior Management of Lanka IOC.
-
-“We discussed the development plans of the retail outlet network of LIOC, tank farm development, lubricant market, fuel pricing formula and the proposed oil pipeline between India and Sri Lanka,” he said.
-
-◼️
-
-[Data](articles/e934fb10.json)
-
-[Extended Data](ext_articles/e934fb10.ext.json)
 
 ---

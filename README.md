@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 18:36:07**
+As of **2024-07-04 18:54:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,584
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,683 (100.0%) of 33,684 articles have been extended.
+33,684 (100.0%) of 33,684 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1008,19 +1008,25 @@ One third of the Democratic Party (Democratic Party) has said that he should qui
 
 ---
 
-### හෙට මිලි මීටර් 50 ඉක්ම වූ වැසි
+### Showers over 50mm
 
 *2024-07-04 12:25:55* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-මිලි-මීටර්-50-ඉක්ම-වූ-වැසි/11-410608) · `si`
 
-බස්නාහිර, සබරගමුව හා වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+Heavy showers exceeding 50mm are forecasted for the Western, Sabaragamuwa, and North Western provinces, including Kandy, Nuwara Eliya, Galle, and Matara districts. Additionally, the Western and Sabaragamuwa provinces, along with Galle and Matara districts, are expected to receive more than 50mm of rain. Showers or thundershowers are also predicted for several locations in the Ampara and Batticaloa districts, potentially extending into the evenings.
 
-බස්නාහිර, සබරගමුව පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී. 50 ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව අද මධ්‍යාහ්න නිකුත් කළ නිවේදනයක දැක්වෙයි.
+🟩
 
-ඌව පළාතෙත් අම්පාර හා මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව පවසයි.
+Showers will occur at times in the Western, Sabaragamuwa and North Western provinces, in Kandy, Nuwara Eliya, Galle and Matara districts.
+
+MM in the Western, Sabaragamuwa provinces and in Galle and Matara districts. The department is expected to experience more than 50 times.
+
+Showers or thundershowers will occur at several places in the Ampara and Ampara and Batticaloa Districts, or even nights.
 
 ◼️
 
 [Data](articles/5f1ba3e4.json)
+
+[Extended Data](ext_articles/5f1ba3e4.ext.json)
 
 ---
 

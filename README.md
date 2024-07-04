@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 18:25:27**
+As of **2024-07-04 18:36:07**
 
 ## Newspaper Stats
 
-*Scraped **33,683** Articles*
+*Scraped **33,684** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,982
 dailyftlk | 2,084
-adalk | 3,011
+adalk | 3,012
 adaderanalk | 3,844
 tamilmirrorlk | 3,983
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,584
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,683 (100.0%) of 33,683 articles have been extended.
+33,683 (100.0%) of 33,684 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1005,6 +1005,22 @@ One third of the Democratic Party (Democratic Party) has said that he should qui
 [Data](articles/fa55ab29.json)
 
 [Extended Data](ext_articles/fa55ab29.ext.json)
+
+---
+
+### හෙට මිලි මීටර් 50 ඉක්ම වූ වැසි
+
+*2024-07-04 12:25:55* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-මිලි-මීටර්-50-ඉක්ම-වූ-වැසි/11-410608) · `si`
+
+බස්නාහිර, සබරගමුව හා වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+බස්නාහිර, සබරගමුව පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී. 50 ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව අද මධ්‍යාහ්න නිකුත් කළ නිවේදනයක දැක්වෙයි.
+
+ඌව පළාතෙත් අම්පාර හා මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/5f1ba3e4.json)
 
 ---
 
@@ -2293,21 +2309,5 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/4b81d34b.json)
 
 [Extended Data](ext_articles/4b81d34b.ext.json)
-
----
-
-### Sri Lanka Ports Authority and Virginia Ports Authority, USA sign historic MOC
-
-*2024-07-04 03:44:52* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Ports-Authority-and-Virginia-Ports-Authority-USA-sign-historic-MOC/56-763837) · `en`
-
-Seated in front: SLPA Chairman Keith Bernard (left) and VPA General Council Sarah J. McCoy. Back row (from left): The Colombo Plan Program Assistant Tharushini Suriyaarachchi, The Colombo Plan Port of Colombo Capacity Building Project Lead Consultant Rohan Masakorala, Ministry of Ports Shipping and Aviation Sri Lanka Secretary K.D.S. Ruwanchandra, and VPA Director Federal Government Affairs Andrew M. Sinclair
-
-For the first time in history, the Sri Lanka Ports Authority (SLPA), signed a Memorandum of Cooperation (MOC) with Virginia Ports Authority (VPA) in the United States of America, where the two sides have agreed to enter into a cooperative agreement for the mutual exchange of expertise and technical collaboration between the two ports.
-
-...
-
-[Data](articles/60992632.json)
-
-[Extended Data](ext_articles/60992632.ext.json)
 
 ---

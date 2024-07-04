@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 09:54:38**
+As of **2024-07-04 10:05:46**
 
 ## Newspaper Stats
 
-*Scraped **33,598** Articles*
+*Scraped **33,600** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,75 @@ islandlk | 1,880
 economynextcom | 1,967
 dailyftlk | 2,083
 adalk | 2,998
-adaderanalk | 3,833
+adaderanalk | 3,834
 tamilmirrorlk | 3,974
 dailymirrorlk | 4,733
 virakesarilk | 5,252
-adaderanasinhalalk | 5,567
+adaderanasinhalalk | 5,568
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,597 (100.0%) of 33,598 articles have been extended.
+33,598 (100.0%) of 33,600 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### ඉන්දියාවේ තවත් ඛේදවාචකයක්
+### මාරක බෝතලය සමග ගත් අවසන් සෙල්ෆිය
+
+*2024-07-04 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198470) · `si`
+
+"ඩෙවෝන් පුතා 5" බහුදින ධීවර යාත්‍රාවෙන් මුහුදු ගොස්  සිටියදී මුහුදේ පාවීආ බෝතලයක තිබූ දියර වර්ගයක් පානය කිරීමෙන් එම ධීවර යාත්‍රාවේ ස්කීපර්වරයා ඇතුළු 5 දෙනෙකු ජීවිතක්ෂයට පත්විය.
+
+එම දියරය පානය කිරීමට පෙර එම බෝතලය සමඟ ජීවිතක්ෂයට පත් වූ ධීවරයන් හා මේ වන විට අසාධ්‍ය තත්ත්වයට පත්ව රෝහල්ගතව සිටින ධීවරයා සෙල්ෆි ඡායාරූපයකට  පෙනී සිටි අයුරු.
+
+◼️
+
+[Data](articles/bf51a166.json)
+
+---
+
+### ‘Yukthiya’ operation to be launched with new vigour
+
+*2024-07-04 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100282/yukthiya-operation-to-be-launched-with-new-vigour) · `en`
+
+The ‘Yukthiya’ islandwide operation currently in force to eliminate all illegal activities will be launched with a new vigour from today (7), said the Sri Lanka Police.
+
+Police spokesman DIG Nihal Thalduwa stated that it is also expected to get the support of the Sri Lanka Army for the ‘Yukthiya’ operation.
+
+DIG Thalduwa, further stated that the operation has commenced in several areas around Colombo and it will be expanded, covering the island shortly.
+
+◼️
+
+[Data](articles/27e99c23.json)
+
+---
+
+### Another tragedy in India
 
 *2024-07-04 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198469) · `si`
 
-වායූ දුෂණය හේතුවෙන් සෑම වසරකම ඉන්දියාව තුළ මරණ 33,000ක් පමණ සිදුවන බවට අනාවරණය වී තිබේ.
+A shocking report reveals that annually, around 33,000 deaths in India are linked to pollution, surpassing WHO standards. The affected cities include Bangalore, Chennai, Delhi, Hyderabad, Kolkata, Mumbai, Pune, and others, highlighting a significant public health crisis.
 
-"Lancet Plenary Health" සඟරාවේ වාර්තාවක් මඟින් මෙය අනාවරණය වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-ඉන්දියාවේ නගර 10ක් තුළ වායූ දූෂණය හේතුවෙන් මරණ වාර්තාවීම් සිදුව තිබේ.
+It has been revealed that about 33,000 deaths were carried out every year due to the pollution of the pollution.
 
-අහමාදාබාද්, බැංග්ලෝර්, චෙන්නායි, දිල්ලි, හයිද්‍රාබාද්, කොල්කටා, මුම්බායි, පූණේ, ශිම්ලා සහ වරණාසි යන නගරවලින් එම මරණ වාර්තා වී ඇති බව සඳහන්ය.
+According to foreign media reports, this has been revealed by a report in the "LANCET CLEENARY HEALTH".
 
-ඉන්දියාවේ වාතයේ ගුණාත්මකභාවය ලෝක සෞඛ්‍ය සංවිධානයේ සම්මතයන් ඉක්මවා ගොස් ඇති බව ද අදාළ වාර්තාව මඟින් පෙන්වා දී තිබේ.
+Deaths have taken place due to 10 cities in India.
+
+The deaths were reported from Banglobad, Banglobad, Bangloryro, Chennai, Delhi, Hyderabad, Kolkata, Mumbai, Pune, Shimpala and Currency.
+
+The report also pointed out that the quality of the air quality of India has exceeded the standards of the World Health Organization.
 
 ◼️
 
 [Data](articles/a41ece52.json)
+
+[Extended Data](ext_articles/a41ece52.ext.json)
 
 ---
 
@@ -2259,53 +2295,5 @@ The funeral will be held on Sunday, the 07th, and the funeral will be taken to t
 [Data](articles/63594ed5.json)
 
 [Extended Data](ext_articles/63594ed5.ext.json)
-
----
-
-### Amass
-
-*2024-07-03 15:20:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆண்களை-தேடித்தேடி-கொட்டிய-குளவி/76-339821) · `ta`
-
-On Wednesday at 10 am, wasps attacked workers from the Bogawantalawa Gergaswold Estate Estate. The affected workers were hospitalized but have since been discharged.
-
-🟩
-
-The incident took place at 10 am on Wednesday (03) at the Bogawantalawa Hospital.
-
-Workers from the Bogawantalawa Gergaswold Estate Estate Estate were the target of the wasp.
-
-The workers have been admitted to the hospital and returned home, hospital sources said.
-
-◼️
-
-[Data](articles/bee5117d.json)
-
-[Extended Data](ext_articles/bee5117d.ext.json)
-
----
-
-### Any attempt to delay the presidential election should be stopped immediately - Sarath Fonseka's outrage
-
-*2024-07-03 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187602) · `ta`
-
-Sarath Fonseka, a former MP, opposes attempts to delay Sri Lanka's presidential election from September 17 to October 16, 2024. A businessman has petitioned the Supreme Court to interpret the president's term based on the constitution. Fonseka urges unity among Sri Lankans to protect their voting rights against any election delays.
-
-🟩
-
-Sarath Fonseka, a former Member of Parliament of the United People's Power, has strongly opposed the attempt to delay the presidential election.
-
-A businessman has filed a petition in the Supreme Court demanding that the president be explained on the basis of the constitution.
-
-In his petition, the court appealed to the court to clarify the president's term.
-
-He said that any attempt to delay the scheduled presidential election between September 17 2024 and October 16 should be stopped immediately.. He said that the people of Sri Lanka are enjoying the greats of the world.
-
-Sarath Fonseka has requested that all Sri Lankans abandon all the differences and come forward to fight for this injustice and come forward to fight for our right to vote.
-
-◼️
-
-[Data](articles/733ce862.json)
-
-[Extended Data](ext_articles/733ce862.ext.json)
 
 ---

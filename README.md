@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 03:04:49**
+As of **2024-07-05 03:19:41**
 
 ## Newspaper Stats
 
-*Scraped **33,723** Articles*
+*Scraped **33,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 332
 newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,985
-dailyftlk | 2,088
+dailyftlk | 2,089
 adalk | 3,018
 adaderanalk | 3,849
 tamilmirrorlk | 3,990
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,723 (100.0%) of 33,723 articles have been extended.
+33,723 (100.0%) of 33,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### Two new appointments to Board of Tea Smallholder Factories
+
+*2024-07-05 03:06:18* · [`dailyftlk`](https://www.ft.lk/business/Two-new-appointments-to-Board-of-Tea-Smallholder-Factories/34-763874) · `en`
+
+Tea Smallholder Factories PLC has announced the appointment of Priyan Edirisinghe and Farzana Jameel as Independent Non-Executive Directors of the Company.
+
+Priyan Edirisinghe is a Chartered Accountant with over 20 years of experience in the private sector and professional practice. He currently serves as the Managing Partner at Baker Tilly
+
+Edirisinghe & Co., one of the leading audit, tax, and consulting firms in Sri Lanka. Bakertilly Sri
+
+Lanka is a member of Bakertilly International, the 10th largest accounting network in the world.
+
+In this role, he has been instrumental in steering the firm’s strategic direction and driving growth initiatives. His leadership is marked by a focus on outward growth technology-driven initiatives focus and operational efficiency, and ethical practices.
+
+...
+
+[Data](articles/8d7017be.json)
+
+---
 
 ### Trying to postpone the election
 
@@ -2303,27 +2323,5 @@ He is said to have bribed the person to give money from the person to provide a 
 [Data](articles/8b8eebff.json)
 
 [Extended Data](ext_articles/8b8eebff.ext.json)
-
----
-
-### President's term of office is 5 years
-
-*2024-07-04 10:37:33* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-ධුර-කාලය-වසර-5යි/11-410606) · `si`
-
-In 2024, Sri Lanka faces a pivotal moment with the Supreme Court reviewing a petition by Chaminadra Dayan Legal regarding the presidential election timeline. The 19th Amendment to the Constitution mandates a 6-year presidential term, but the current focus is on holding elections within 5 years due to the amendment's revision. Despite this, the Election Commission's stance and President Ranil Wickremesinghe's position remain unclear, awaiting further developments from the Supreme Court.
-
-🟩
-
-In 2024, the government is focusing on the petition filed by Chaminadra Dayan Legal to the Supreme Court, preaching the presidential election in 2024.
-
-Section 3 of the 19th Amendment to the Constitution of the Constitution of the Democratic Socialist Republic of Sri Lanka, the Constitution of the Democratic Socialist Republic of Sri Lanka (Petitial Socialist Republic of Sri Lanka) has filed the petition.The next Presidential Election should be held in the year 2024, as the Presidential Election should be held for the next presidential election, considering that the Presidential Election should be held for the next presidential election, considering that the Presidential term was appointed as six years as a revised.The members of the Election Commission preclude to hold a presidential election.
-
-President Ranil Wickremesinghe has stated that the petitioner has not had any comments or advice on the petition before filing the petition before the Supreme Court.
-
-...
-
-[Data](articles/e48c17f6.json)
-
-[Extended Data](ext_articles/e48c17f6.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 18:14:02**
+As of **2024-07-04 18:25:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,584
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,681 (100.0%) of 33,683 articles have been extended.
+33,683 (100.0%) of 33,683 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -952,21 +952,29 @@ Today (July 04), the US purchasing price of the US dollar was recorded at Rs 299
 
 ---
 
-### ළමා අපයෝජකයා සිවුරු දරා සිටියදී අල්ලයි
+### Child abuser seizes robes
 
 *2024-07-04 12:31:47* · [`adalk`](https://www.ada.lk/breaking_news/ළමා-අපයෝජකයා-සිවුරු-දරා-සිටියදී-අල්ලයි/11-410609) · `si`
 
-බාල වයස් පිරිමි ළමුන් දෙදෙනෙකු බරපතල ලිංගික අපයෝජනයකට ලක් කර පලාගොස් සිටි සැකකරු සිවුරු දරා හිමිනමක ලෙස  සැඟව සිටියදී අනුරාධපුර පූජා භූමියකදී  අත්අඩංගුවට ගත් බව නිකවැරටිය මූලස්ථාන පොලීසිය සඳහන් කරයි.
+A child abuser, identified as a 48-year-old monk and former school guard, was arrested for sexually abusing two underage girls aged 14 and 16 in Nikaweratiya. The suspect, known for his role in a sacred area, will face charges in court.
 
-නිකවැරටිය පොලිස්  වසමේ පදිංචි වයස අවුරුදු 14  සහ 16  වයස් වල පසුවන බාල වයස්  පිරිමි ළමුන් දෙදෙනෙකු  රවටා⁣  ගෙන  ගොස් බරපතල ලිංගික අපයෝජනයකට ලක් කල සැකකරු මාස අටක පමණ කාලයක් මෙලෙස  සැඟවී සිටියදී ,අත්අඩංගුවට ගත් බවද පොලීසිය සඳහන් කරයි.
+🟩
 
-සැකකරු  චීවරධාරියෙකු  ලෙස ,අනුරාධපුර  පූජා භූමි පෙදෙසක සිටින බවට ලද තොරතුරක්  අනුව,ඉතා උපක්‍රමශීලී ලෙස  සැකකරු අත්අඩංගුවට ගැණීමට  පියවර ගත් බවද පොලීසිය තවදුරටත්  සඳහන් කරයි .
+Headquarters Police said that the suspect had been arrested as two younger sexually abuse and was arrested as a monk of the suspect in a sacred monk.
 
-සැකකරු නිකවැරටිය පොලිස්  වසමේ පදිංචි පාසැල් මුරකරුවෙකු මෙන්ම උපකාරක පංති ගුරුවරයෙකු ලෙසද කටයුතු කරමින් සිට ඇති බවට පරීක්ෂණ වලදී අනාවරණය වී ඇති අතර  සිද්ධියෙන් පසුව ප්‍රදේශයෙන් පලා ගොස් මාස අටක පමණ කාලයක් මෙලෙස සැඟව සිට ඇති බවද පොලීසිය සඳහන් කරයි .
+The suspect was arrested and arrested two-year-old rates from the age of 14 and 16 years of resident of Nikaweratiya police division.
 
-...
+The suspect is tacticled, according to information that the suspect is a member of a sacred area, police said.
+
+Investigations have revealed that the suspect had been a school guard in Nikaweratiya Police Division and a tuition class teacher.
+
+The suspect is a 48 year old age to be produced before the Nikaweratiya Magistrate's Court.
+
+◼️
 
 [Data](articles/5871bdee.json)
+
+[Extended Data](ext_articles/5871bdee.ext.json)
 
 ---
 
@@ -1062,7 +1070,7 @@ However, surveys show many voters simply want change, rather than fervently back
 
 ---
 
-### Sri Lanka bondholder deal, haircuts and implications examined
+### Sri Lanka bondholder deal: hair cuts, coupons, GDP-link, too much or too little?
 
 *2024-07-04 11:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-bondholder-deal-haircuts-and-implications-examined-170833/) · `en`
 
@@ -1470,17 +1478,29 @@ Purawara Udani was held for nine days at the Walkendha Harischandra Park. The Mu
 
 ---
 
-### ஜனாதிபதி தேர்தல்: ரணில் அதிரடி அறிவிப்பு
+### Presidential Election: Ranil Action Notice
 
 *2024-07-04 10:19:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தல்-ரணில்-அதிரடி-அறிவிப்பு/175-339853) · `ta`
 
-2024ஆம் ஆண்டு ஜனாதிபதித் தேர்தலை நடத்துவதற்கு தேர்தல்கள் ஆணைக்குழுவின் உறுப்பினர்களுக்கு இடைக்காலத் தடை உத்தரவு பிறப்பிக்குமாறு கோரி சமிந்திர தயான் லெனவ என்பவர் உயர் நீதிமன்றத்தில் தாக்கல் செய்துள்ள மனு குறித்து  அரசாங்கம் கவனம் செலுத்தியுள்ளது.
+A petition filed by Samindra Dayan Lenwa seeks an injunction against the Election Commission to halt preparations for the 2024 presidential election, citing constitutional articles. The petitioner argues this is necessary due to the upcoming election during President Ranil Wickremesinghe's term. However, Wickremesinghe states the petitioner didn't consult him or his legal team before filing, and acknowledges the Election Commission's efforts to proceed with the election within the presidential period.
 
-மேற்படி மனுவை தாக்கல் செய்வதன் மூலம், இலங்கை ஜனநாயக சோசலிச குடியரசின் அரசியலமைப்பின் பிரிவு 12(1), 82(6), 3, 4, 118 மற்றும் 125 ஆகிய பிரிவுடன் வாசிக்கப்பட வேண்டிய 126 இன் படி அரசியலமைப்பின் 19ஆவது திருத்தத்தின் 3ஆம் பிரிவின் ஊடாகத்  திருத்தப்பட்ட பிரிவு 30(2)ஐ வியாக்கியானம் செய்யக்கூடாது என குறித்த மனுவில் குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-...
+The government has focused on a petition filed by Samindra Dayan Lenwa in the Supreme Court demanding an interim injunction to members of the Election Commission to hold the 2024 presidential election.
+
+By filing the petition, Article 30 (2) of the Constitution of the Constitution is aimed at Article 126, 82 (6), 3, 4, 118 and 125 of the Constitution of the Constitution.The petition is noted not to do.
+
+The petitioner has requested the Election Commission to issue an interim injunction to prevent further work on holding the 2024 presidential election until the Supreme Court has announced that the next presidential election should be held in view of the presidential term.
+
+President Ranil Wickremesinghe has said that the petitioner did not consult or consult with his lawyers before filing the petition.
+
+President Ranil Wickremesinghe has announced that it is correct that the Election Commission has taken steps to hold the 2024 presidential election in the presidential period.
+
+◼️
 
 [Data](articles/7c3054f1.json)
+
+[Extended Data](ext_articles/7c3054f1.ext.json)
 
 ---
 

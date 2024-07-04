@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 14:35:17**
+As of **2024-07-04 14:54:30**
 
 ## Newspaper Stats
 
-*Scraped **33,648** Articles*
+*Scraped **33,649** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,880
 economynextcom | 1,972
 dailyftlk | 2,084
 adalk | 3,008
-adaderanalk | 3,839
+adaderanalk | 3,840
 tamilmirrorlk | 3,980
 dailymirrorlk | 4,733
 virakesarilk | 5,262
@@ -26,11 +26,23 @@ adaderanasinhalalk | 5,577
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,647 (100.0%) of 33,648 articles have been extended.
+33,648 (100.0%) of 33,649 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### Custom officers call off trade union action
+
+*2024-07-04 14:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100289/custom-officers-call-off-trade-union-action) · `en`
+
+Sri Lanka Customs trade unions have decided to call off their trade union action following discussions with the State Minister of Finance Ranjith Siyambalapitiya.
+
+◼️
+
+[Data](articles/fdc90b67.json)
+
+---
 
 ### Woman death in Jaffna
 
@@ -726,17 +738,23 @@ In equities, Colombo’s All Share Price Index opened 59.82 points higher at 12,
 
 ---
 
-### පොසොන් සැණකෙලියෙන් අපුර මහ නගර සභාවට වාර්තාගත ආදායමක්
+### Poson carnival record income
 
 *2024-07-04 10:25:26* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-සැණකෙලියෙන්-අපුර-මහ-නගර-සභාවට-වාර්තාගත-ආදායමක්/11-410605) · `si`
 
-ජාතික පොසොන් උත්සවය නිමිත්තෙන් අනුරාධපුර මහනගර සභාව සංවිධානය කළ  පුරවර උදානය පොසොන් සැණකෙළියෙන්  රුපියල් කෝටි අටහමාරක දළ ආදායමක් ලැබී ඇති බව නාගරික කොමසාරිස් රුවන් විජේසිංහ මහතා පැවසීය. මෙය මහනගර සභා ඉතිහාසයේ වැඩිම ආදායමක් ඉපැයූ ව්‍යාපෘතිය බව ඒ මහතා සදහන් කළේය. මෙම ආදායමෙන් ලැබූ දළ ලාභය රුපියල් කෝටි හතර හමාරක් පමණ බවද නාගරික කොමසාරිස්වරයා පැවසුවේය.
+The Poson Carnival in Anuradhapura, organized by the Municipal Council, generated the highest revenue in its history, surpassing previous records. The event, which took place over nine days at the Walkendha Harischandra Park, included various shows and attractions. Revenue was primarily derived from ticket sales, with additional income coming from shows, carnivals, and taxes.
 
-පුරවර උදානය දින නවයක කාලසීමාවක් අනුරාධපුර වලිසිංහ හරිශ්චන්ද්‍ර උද්‍යානයේ දී පැවැත්විණි. මහනගර සභාව මෙම ආදායම උපයාගනු ලැබුයේ සැණකෙළිය හා සංදර්ශන නැරැඹීම සඳහා එහි ගිය ජනතාවට ප්‍රවේශ පත්‍ර  අළෙවි කිරීම මගින් බව සදහන්වේ. එමෙන්ම ඒ සදහා  සංදර්ශන හා සැණකෙලි මගින් ලැබූ ආදායම් ද  වෙනත් ආදායම් බදු ද ඇතුළත් වී ඇති බව  නාගරික කොමසාරිස්වරයා සදහන් කළේය.
+🟩
+
+Municipal Commissioner Ruwan Wijesinghe said that the Udanagara The Poson Carnival organized by the Anuradhapura Municipal Council in view of the National Poson Festival, the Municipal Commissioner Raman Wijesinghe said. He said this was the highest income in the history of the Municipal Council. The gross profit from this income was about Rs.
+
+Purawara Udani was held for nine days at the Walkendha Harischandra Park. The Municipal Council earned this income by selling tickets to the visiting carnival and shows to cover the carnival and show.. The Municipal Commissioner said that the income received by shows and carnivals and other income taxes have also been included.
 
 ◼️
 
 [Data](articles/f9a7370d.json)
+
+[Extended Data](ext_articles/f9a7370d.ext.json)
 
 ---
 
@@ -2203,33 +2221,5 @@ Jaffna police are conducting further investigations into the incident.. Remble
 [Data](articles/ec68bec3.json)
 
 [Extended Data](ext_articles/ec68bec3.ext.json)
-
----
-
-### Teenage boy and girl ‘jumped’ to death from 67th floor of Altair?
-
-*2024-07-03 22:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100277/teenage-boy-and-girl-jumped-to-death-from-67th-floor-of-altair) · `en`
-
-A 15-year-old boy and a girl had died last night (02) after apparently falling from the 67th floor of the ‘Altair’ apartment building in Slave Island, Colombo.
-
-Police stated that the incident is suspected to be a case of double suicide.
-
-The deceased were Grade 10 students at an international school in Colombo 07.
-
-The teen girl and the boy had arrived at the gym located on the fifth floor of the luxury apartment complex after school yesterday.
-
-They had then changed their clothes and left their school bags at the gym, before going to the 67th floor of the building using the staircase outside.
-
-Later, their bodies were discovered where the outdoor units of the building’s air conditioning for the 3rd floor of the apartment complex are installed.
-
-It is reported that their bodies had sustained severe injuries from colliding with the A/C vent machines.
-
-The deceased male student is a resident of Wellawatte and the female student is a resident of Kelaniya.
-
-...
-
-[Data](articles/db4f4e82.json)
-
-[Extended Data](ext_articles/db4f4e82.ext.json)
 
 ---

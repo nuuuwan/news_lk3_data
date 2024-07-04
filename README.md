@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 08:22:58**
+As of **2024-07-04 08:35:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,564
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,584 (100.0%) of 33,586 articles have been extended.
+33,586 (100.0%) of 33,586 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -372,27 +372,33 @@ President Ranil Wickremesinghe claims that it is his economic diligence that has
 
 ---
 
-### ලෝක සර්ප නාමාවලියට එකතු වු ශ්‍රී ලංකාවේ තුඩුල්ලන් දෙදෙනා
+### Two tablets of Sri Lanka joined the World Serpent catalog
 
 *2024-07-04 02:10:03* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c9wvk3we41do) · `si`
 
-ලෝක සර්ප නමාවලියට ශ්‍රී ලංකාවෙන් තවත් සර්ප විශේෂ දෙකක් හඳුන්වා දීමට මෙරට පර්යේෂණ කණ්ඩායමක් සමත්ව තිබේ.
+A Sri Lankan research team added two snake species, Rhinophis martin and Rhinophis dinnarzarde, to the World Snake Catalogue. Found in the Rakwana mountains and western slopes, these species are part of the EuroPeltidae family, native to India and Sri Lanka. Named after local figures, these snakes live underground and are threatened by habitat loss due to climate change, deforestation, and urbanization.
 
-රයිනෝෆිස් මාටින් (Rhinophis martin) සහ රයිනෝෆිස් ඩිනර්සාර්ඩේ (Rhinophis dinarzardae) යන විශේෂ දෙක ශ්‍රී ලංකාවෙන් ලෝක සර්ප නාමාවලියට එක්වු බව උරග හා උභය ජිවි විශේෂඥ මෙන්ඩිස් වික්‍රමසිංහ බීබීසි සිංහල වෙත කියා සිටියේය.
+🟩
 
-රක්වාන කඳු වැටිය ආශ්‍රිතව රයිනෝෆිස් මාටින් විශේෂය සොයාගෙන ඇති අතර රයිනෝෆිස් ඩිනර්සාර්ඩේ හඳුනා ගැනීමට හැකිව ඇත්තේ නකලස් කඳුවල බටහිර බෑවුම් ආශ්‍රිතවයි.
+A Sri Lankan research team has been introduced to introduce another two snake species in World Snake Nayaka.
 
-මෙම සොයා ගැනීමත් සමගම ශ්‍රී ලංකාවෙන් හමුවූ තුඩුල්ලන් සංඛ්‍යාව 20 දක්වා ඉහළ ගොස් ඇති අතර මෙරට සිටින සර්ප විශේෂ සංඛ්‍යාව 111 දක්වා ඉහළ ගොස් තිබේ.
+Mendis Wickremasinghe told the Sinhalese, who joined Sri Lanka to the World Sergeter catalog from the World Sergeter catalog from Rhinophis Martin and Rhinophis Dinarzarda.
 
-ශ්‍රී ලංකාවේ වියළි කලාපයෙන් හමුවු හූනන් විශේෂ දෙක නුදුරේම ලොවෙන් තුරන් වී යයි ද ?
+The Rhinophishis Martin species have been found in the Rakwana mountain range and Rhinofis Dinarceard has been identified in the western slopes of the western slopes.
 
-‘මේ විශේෂ දෙකම ලංකාට ආවේණිකයි. මුං පොඩ්ඩක්වත් විස නැහැ. මේගොල්ලෝ ජීවත් වෙන්නේ පොළොව යට. හරිම සංවේදී සත්ත්ව කොටසක්.’ යැයි සර්ප විශේෂ ගැන විස්තර කරමින් මෙන්ඩිස් වික්‍රමසිංහ සඳහන් කළේය.
+The number of cases have increased to 20, with the discovery of this discovery.
 
-රයිනෝෆිස් සත්වයින් යුරොපෙල්ටිඩේ (Uropeltidae) කුලයට අයත් බව මෙන්ම ඔවුන් ඉන්දියාවට සහ ලංකාවට ආවේණික කුලයක් බව ද ඔහු පැවසීය.
+Do the geckoes found in the dry zone of Sri Lanka and the two species of the world endanth?
+
+"Both of these specials endanger to Lankanda. Nothing is pooling. They live under the earth. A very sensitive animal. 'Details of snake species, "said Mendis Wickremasinghe.
+
+He said that rhinophis belongs to EuroPeltidae caste and that they are entitled to India and to Sri Lanka.
 
 ...
 
 [Data](articles/b15a6ab4.json)
+
+[Extended Data](ext_articles/b15a6ab4.ext.json)
 
 ---
 
@@ -978,23 +984,29 @@ Some influential Democrats have floated alternatives to Biden besides Harris, in
 
 ---
 
-### චීන - කසක්ස්ථාන ජනපතිවරු අතර හමුවක්
+### President meets Chinese - Kazakoon
 
 *2024-07-03 20:53:25* · [`adalk`](https://www.ada.lk/breaking_news/චීන---කසක්ස්ථාන-ජනපතිවරු-අතර-හමුවක්/11-410598) · `si`
 
-චීන ජනාධිපති ෂී ජින්පිං මහතා කසක්ස්ථාන ජනාධිපති Kassym-Jomart Tokayev මහතා සමග සාකච්ඡාවක් පවත්වයි. අස්තානා අගනුවර ජනාධිපති මන්දිරයේ දී අද (03) පෙරවරුවේ එය පැවැත්විණ.
+Xi Jinping met with Kazakh President Tokayev, discussing bilateral ties and the Shanghai Cooperation Organization's role. They agreed on hosting a "Chinese Tourism Year" in Kazakhstan next year, emphasizing mutual support and cooperation.
 
-තම සංචාරයේ දී කසක්ස්ථානයේ අඛණ්ඩ සංවර්ධනය පිළිබඳව නිසි අවබෝධයක් ලබා ගත් බව ෂී ජින්පිං මහතා එහිදී කියා සිටියේය. Tokayev ජනාධිපතිවරයාගේ නායකත්වය යටතේ සෞභාග්‍යවත් ‘නව කසක්ස්ථානයක්’ ගොඩනැංවිය හැකි බවට චීන ජනාධිපතිවරයා විශ්වාස පළ කළේය.
+🟩
 
-එසේ ම, ‘චීන සංචාරක වසර’වැඩසටහන් මාලාව ලබන වසරේ කසක්ස්ථානයේ දී පැවැත්වීමට චීනයේ සහයෝගය ලබා දෙන බව ද ෂී ජින්පිං මහතා පැවසීය. කසක්ස්ථානය ශැංහයි සහයෝගිතා සංවිධානයේ වාරික සභාපතිත්වය දරමින් ඉටු කර ඇති කාර්යභාරය ඔහුගේ ඉහළ පැසසුමට ලක්විය.
+Chinese President Xi Jinping holds a meeting with President Kazim-Jomart Tokayev. It was held today (03) at the President's Palace today.
 
-තම රට එකම චීනය මූලධර්මය ස්ථිර ලෙස අනුගමනය කරන බව කසක්ස්ථාන ජනාධිපතිවරයා මෙහිදී පැවසීය. චීනය සමග එක්ව, ශැංහයි සහයෝගිතා සංවිධානය, එක්සත් ජාතීන්ගේ සංවිධානය ඇතුළු බහුපාර්ශ්වික යාන්ත්‍රණයන් හි සම්බන්ධීකරණයට සක්‍රිය අයුරින් සහභාගි වීම තම අපේක්ෂාව බව ද හෙතෙම පැවසීය.
+Shi Jinping said that he had a proper understanding of the continued development of the kitchen during his visit, he said. The President of the President believed that under the leadership of the President of Tokayev, a new statement of 'new statement' could be built.
 
-මේ අතර චීන ජනාධිපතිවරයා උස්බෙකිස්ථාන ජනාධිපති Shavkat Mirziyoyev මහතා සමග ද සාකච්ඡා පවත්වා තිබේ
+Sim Ginping said China supports China to hold the 'Chinese Tourism Year' 'Website next year at Kirdy next year.. His high praised the role of the installment of the installment of the Shanhai Cooperation Organization.
+
+The President said that his country would permanently follow the same China principle.. He said that the Shanhai Cooperation Organization is actively participating in coordination of the United Nations, including the United Nations, the United Nations.
+
+Meanwhile, the Chinese President has also held discussions with President Shavkat Mirziyev
 
 ◼️
 
 [Data](articles/d9324519.json)
+
+[Extended Data](ext_articles/d9324519.ext.json)
 
 ---
 

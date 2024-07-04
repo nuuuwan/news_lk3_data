@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 12:08:15**
+As of **2024-07-04 12:19:57**
 
 ## Newspaper Stats
 
-*Scraped **33,625** Articles*
+*Scraped **33,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,61 @@ islandlk | 1,880
 economynextcom | 1,972
 dailyftlk | 2,084
 adalk | 3,003
-adaderanalk | 3,835
+adaderanalk | 3,836
 tamilmirrorlk | 3,977
 dailymirrorlk | 4,733
 virakesarilk | 5,255
-adaderanasinhalalk | 5,574
+adaderanasinhalalk | 5,575
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,623 (100.0%) of 33,625 articles have been extended.
+33,625 (100.0%) of 33,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### PHI ඝාතන සැකකරු අත්අඩංගුවට
+### Labour predicted to rout Sunak’s Conservatives as Britain goes to polls
+
+*2024-07-04 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100284/labour-predicted-to-rout-sunaks-conservatives-as-britain-goes-to-polls) · `en`
+
+Britain looks set to elect Labour Party leader Keir Starmer as its next prime minister when voters go to the polls on Thursday, sweeping Rishi Sunak’s Conservatives out of office after 14 often turbulent years.
+
+Opinion polls put Starmer’s centre-left party on course for a landslide victory as voters turn their backs on the Conservatives following a period of infighting and turmoil that led to five prime ministers in eight years.
+
+However, surveys show many voters simply want change, rather than fervently backing Labour, meaning Starmer could enter office with one of the biggest to-do lists in British history but without a groundswell of support or the financial resources to tackle it.
+
+“Today, Britain can begin a new chapter,” Starmer told voters in a statement on Thursday. “We cannot afford five more years under the Conservatives. But change will only happen if you vote Labour.”
+
+...
+
+[Data](articles/254db8d2.json)
+
+---
+
+### PHI murder suspect arrested
 
 *2024-07-04 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198477) · `si`
 
-අල්පිටිය, පතිරාජ මාවතේ දී මහජන සෞඛ්‍ය පරීක්ෂකවරයෙක්ව ඝාතනය කිරීමේ සිදුවීමට අවශ්‍යව සිටි වෙඩික්කරු බවට සැක කෙරෙන පුද්ගලයාව අත්අඩංගුවට ගෙන තිබේ.
+A suspect in the murder of a Public Health Inspector in Sri Lanka was arrested in Mount Lavinia with two guns. The inspector, Treasurer Roshara, was killed on February 26th. Investigators discovered CCTV footage from a motorcycle involved in the case.
 
-පොලීසිය පැවසුවේ, ගිනිඅවි දෙකක් ද සමග ගල්කිස්ස ප්‍රදේශයේ දී එම පුද්ගලයාව අත්අඩංගුවට ගත් බවය.
+🟩
 
-ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරික රොෂන් කුමාර මහතා ඉකුත් පෙබරවාරි 26 වනදා උදෑසන වෙඩිතබා ඝාතනය කර සැකකරුවන් පළාගොස් තිබුණි.
+The person who was suspected of the shooter who wanted to kill a Public Health Inspector at Pathiraja Mawatha was arrested.
 
-වෙඩික්කරුවන් යතුරුපැදියකින් පළා යන අයුරු දැක්වෙන CCTV රූපරාමු පෙළක් ද විමර්ශකයින් පසුව සොයා ගත්තේය.
+Police said that the man was arrested in Mount Lavinia with two firearms.
+
+Treasurer Roshara of the Sri Lanka Public Health Inspectors Association was shot dead on the 26th of February.
+
+Investigators also found a CCTV footage in a motorcycle with a motorcycle.
 
 ◼️
 
 [Data](articles/ee689c08.json)
+
+[Extended Data](ext_articles/ee689c08.ext.json)
 
 ---
 
@@ -71,6 +95,26 @@ Accordingly, the High Court judge, who allowed the Attorney General to submit ob
 [Data](articles/85085449.json)
 
 [Extended Data](ext_articles/85085449.ext.json)
+
+---
+
+### රියදුරුගේ දස්කමින් මගී ජීවිත රැසක් බේරෙයි
+
+*2024-07-04 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198476) · `si`
+
+ඇල්ල - වැල්ලවාය ප්‍රධාන මාර්ගයේ රාවණා ඇල්ල ආසන්න ප්‍රදේශයේ දී සුඛෝපභෝගි බස් රථයක් මාර්ගයේ අසල ඇති කන්දක ගැටීමෙන් අනතුරක් සිදු වී තිබේ.
+
+අද (04) අලුයම බදුල්ල සිට මාකුඹුර දක්වා මගීන් සමග ධාවනය වෙමින් තිබූ බස් රථය අධික වංගු සහ ප්‍රපාතයක් ආසන්නයේ දී එක් වරම තිරිංග අක්‍රීය වී ඇත.
+
+පසුව සිදුවන්නට ගිය විශාල අනතුර ගැන වටහාගත් බස් රථයේ රියදුරු විසින් බස් රථය කන්දේ හැපීමට සලස්වා නවතා ගෙන තිබේ.
+
+එසේ සිදු නොකලානම් බස් රථය අධික ප්‍රපාතයකට පෙරළී ගොස් විශාල අනතුරක් සිදුවීමට ඉඩ තිබිණි.
+
+අනතුර හේතුවෙන් බස් රථයේ රියදුරු තුවාල ලබා බදුල්ල රෝහලට ඇතුළත් කර ඇති අතර, අනතුර සම්බන්ධයෙන් ඇල්ල පොලිස් ස්ථානයේ නිලධාරීන් විසින් ඉදිරි විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/51229e23.json)
 
 ---
 
@@ -2150,6 +2194,8 @@ Sri Lanka port faces union opposition in increasing female workers: Minister
 
 [Data](articles/4321eb56.json)
 
+[Extended Data](ext_articles/4321eb56.ext.json)
+
 ---
 
 ### Sri Lanka port trade unions oppose increase in female gantry operators: Minister
@@ -2235,53 +2281,5 @@ According to the Word Bank Group there are four dimensions that should be secure
 [Data](articles/fff58a66.json)
 
 [Extended Data](ext_articles/fff58a66.ext.json)
-
----
-
-### Mattala airport to Russian - India joint venture
-
-*2024-07-03 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198453) · `si`
-
-A Russian-Indian joint venture will manage Mattala airport within weeks, without affecting SriLankan Airlines' operations or sales. The Minister highlighted minimal global interest in the airline, except from six parties, none meeting the criteria for a Sri Lankan entrepreneur. Discussions on resuming JICA projects and Japanese companies' involvement in the airport project were mentioned, along with the development of Kankesanthura port at $69 million and plans for ferry services between Sri Lanka and India by Indian Foreign Minister S. Jeyashrkar.
-
-🟩
-
-The management of the Mattala airport will be given to a Russian-India joint venture in the next few weeks, he said.
-
-The Minister said that SriLankan Airlines would not be restructured and sales.
-
-He was speaking at a press conference held at the Presidential Media Center today (03).
-
-SriLankan Airlines Airlines can only be given to the law of Sri Lanka.. But the world's interest in it is minimal. It was only 6. We did not meet the desperate. The ability to provide the opportunity for a Sri Lankan entrepreneur, but it needs to be confirmed. "
-
-"In addition, the Japanese International Cooperation Agency (JICA) will be discussed on resumes their projects next week. This is also one of the benefits of credit restructuring. The Japanese companies should submit the contracts according to the Japan agreements with Japan, despite the company's companies have come forward for the airport project.
-
-...
-
-[Data](articles/50605a64.json)
-
-[Extended Data](ext_articles/50605a64.ext.json)
-
----
-
-### New Dutch government sworn in over 220 days after elections
-
-*2024-07-03 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100273/-new-dutch-government-sworn-in-over-220-days-after-elections) · `en`
-
-The new Dutch government led by new Prime Minister Dick Schoof was officially sworn in on Tuesday at the Huis ten Bosch Palace in The Hague, more than 220 days after the general elections on November 22 last year.
-
-Following the honorable discharge of the former government, 16 new ministers and 13 state secretaries were sworn in.
-
-The new Dutch government consists of the far-right populist Party for Freedom (PVV), the center-right party New Social Contract (NSC), the rightist People’s Party for Freedom and Democracy (VVD) and the Farmer-Citizen Movement (BBB). These parties reached a coalition agreement on May 15.
-
-“I am very much looking forward to getting to work as prime minister,” Schoof wrote on X, formerly Twitter, under a picture of him signing decrees alongside the king.
-
-“For a safe and just Netherlands with social security for everyone. A grip on migration, dialogue, making choices and being clear about it. You can count on me,” he said.
-
-◼️
-
-[Data](articles/23ea2f14.json)
-
-[Extended Data](ext_articles/23ea2f14.ext.json)
 
 ---

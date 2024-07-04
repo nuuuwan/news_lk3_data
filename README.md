@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 00:19:39**
+As of **2024-07-05 00:34:51**
 
 ## Newspaper Stats
 
-*Scraped **33,715** Articles*
+*Scraped **33,717** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 332
 newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,985
-dailyftlk | 2,084
+dailyftlk | 2,086
 adalk | 3,018
 adaderanalk | 3,849
 tamilmirrorlk | 3,986
@@ -26,11 +26,43 @@ adaderanasinhalalk | 5,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,712 (100.0%) of 33,715 articles have been extended.
+33,715 (100.0%) of 33,717 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### On a merry-go-round with “debt sustainability”
+
+*2024-07-04 22:56:49* · [`dailyftlk`](https://www.ft.lk/columns/On-a-merry-go-round-with-debt-sustainability/4-763849) · `en`
+
+SL people have been left totally out of the whole process of “debt restructuring” and in the dark on “conditions and measures” the Wickremesinghe Government has agreed to
+
+One major reason there is no transparency in any of the transactions President Wickremesinghe entered into with the IMF and in debt restructuring, is untold geo-political tie-ups. I doubt the President would ever be transparent and accountable to the people with numerous geo-political obligations that would have to remain out of public eye. But people have a right to know the conditions they are tied to in “deferring bi-lateral loan instalment payments”
+
+Sri Lanka signing agreements with bi-lateral lenders Japan, China and India to restructure external debts has received calculated praise from SJB leadership and from the IMF with expectations. Japan congratulated Sri Lanka for effectively “managing debt obligations”.
+
+...
+
+[Data](articles/4edd7fe3.json)
+
+---
+
+### Imputed Rental Income Tax: A poisoned chalice?
+
+*2024-07-04 22:26:47* · [`dailyftlk`](https://www.ft.lk/columns/Imputed-Rental-Income-Tax-A-poisoned-chalice/4-763847) · `en`
+
+While the IMF staff report offered a foundational framework for the proposed IRIT, recent pronouncements from the Government hint at potential divergences from the outlined plan
+
+While the IMF recommends a wider tax net with progressive rates, the current Income Tax system, with its narrow base and high rates, suggests that policymakers might prioritise other approaches. Additionally, the IMF criticises the “Net Annual Value” concept for its reliance on exemptions (such as exempting the primary residence) and the use of assessed values. This raises the question: “Is there a contradiction between the vision of the IMF with regard to the Tax Base pertaining to IRIT and the intention of the Government”?
+
+As per the recently published IMF Staff Level Report, it is expected that the Imputed Rental Income Tax (IRIT) would be implemented before the beginning of the tax year, April 2025.
+
+...
+
+[Data](articles/4527fdbb.json)
+
+---
 
 ### Israel sends delegation to negotiate hostage release deal with Hamas
 
@@ -498,6 +530,8 @@ Sri Lanka reached a deal with bilateral agreement last week while it has also ag
 
 [Data](articles/79065da9.json)
 
+[Extended Data](ext_articles/79065da9.ext.json)
+
 ---
 
 ### Cesarean surgery rises to 50 percent in Sri Lanka
@@ -589,6 +623,8 @@ It came into effect with the approval by the cabinet of ministers in Sri Lanka o
 ...
 
 [Data](articles/4edfdf4f.json)
+
+[Extended Data](ext_articles/4edfdf4f.ext.json)
 
 ---
 
@@ -1810,6 +1846,8 @@ Related Sri Lanka bondholders agree on 28-pct hair cut; GDP-gains capped at 15-p
 
 [Data](articles/eccde9eb.json)
 
+[Extended Data](ext_articles/eccde9eb.ext.json)
+
 ---
 
 ### PHI murder suspect arrested
@@ -2291,49 +2329,5 @@ Commenting on this, the President stated that neither he nor his lawyers were co
 [Data](articles/82fb8da8.json)
 
 [Extended Data](ext_articles/82fb8da8.ext.json)
-
----
-
-### President supports the decision of the Election Commission
-
-*2024-07-04 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198472) · `si`
-
-President Ranil Wickremesinghe backs the Election Commission's decision on the 2024 presidential election, affirming his belief in a five-year presidential term.
-
-🟩
-
-President Ranil Wickremesinghe has announced that President Ranil Wickremesinghe will support the decision of the Election Commission regarding the presidential election in 2024.
-
-President Ranil Wickremesinghe has strongly believes that the term of the president is five years.
-
-◼️
-
-[Data](articles/c1706a6c.json)
-
-[Extended Data](ext_articles/c1706a6c.ext.json)
-
----
-
-### Attorney General has objected to Hirunika's request?
-
-*2024-07-04 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198471) · `si`
-
-The Attorney General objected to Hirunika Premachandran's request, stating expectations of protests which should be filed in writing. The Colombo High Court allowed the AG to submit written protests, scheduling a summons for the 11th.
-
-🟩
-
-The Attorney General also informed the Colombo High Court today that the former MP Hirunika Premacharandra, who was sentenced to three years in prison.
-
-The request was considered before Colombo High Court Judge Amal Ranaraja.
-
-The State Counsel said that the Attorney General was expecting the protests and asked to file the protests in writing.
-
-Accordingly, the High Court judge who permitted the Attorney General to submit the protests ordered to be summoned on the 11th.
-
-◼️
-
-[Data](articles/b5468804.json)
-
-[Extended Data](ext_articles/b5468804.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 08:02:14**
+As of **2024-07-04 08:15:08**
 
 ## Newspaper Stats
 
-*Scraped **33,580** Articles*
+*Scraped **33,584** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 1,880
 economynextcom | 1,967
 dailyftlk | 2,083
 adalk | 2,996
-adaderanalk | 3,830
+adaderanalk | 3,832
 tamilmirrorlk | 3,969
 dailymirrorlk | 4,733
 virakesarilk | 5,250
-adaderanasinhalalk | 5,562
+adaderanasinhalalk | 5,564
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,580 (100.0%) of 33,580 articles have been extended.
+33,580 (100.0%) of 33,584 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### බ්‍රිතාන්‍යය මහ මැතිවරණය ඇරඹෙයි
+
+*2024-07-04 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198466) · `si`
+
+පෙරවරු 7.00ට ආරම්භ වන ඡන්ද විමසීම රාත්‍රී 10.00 දක්වා පැවැත්වීමට නියමිතය.
+
+මෙවර මිලියනකට වැඩි පිරිසක් ඡන්දය ප්‍රකාශ කිරිම සඳහා සුදුසුකම් ලබා ඇති බව වාර්තා වේ.
+
+පසුගිය මැයි 22 දින පාර්ලිමේන්තුව විසුරුවා හරිමින් අග්‍රාමාත්‍ය රිෂී සුනක් විසින් මහ මැතිවරණයක් පැවැත්වීම සඳහා අවස්ථාව ලබාදෙනු ලැබීය.
+
+මෙවර මැතිවරණය සඳහා බ්‍රිතාන්‍ය අග්‍රාමාත්‍ය රිෂි සුනක් නියෝජනය කරමින් කන්සර්වේටිව් පක්ෂය ද විපක්ෂ නායක කීර් ස්ටාමර් නියෝජනය කරමින් කම්කරු පක්ෂය ද මැතිවරණයට ඉදිරිපත් වී සිටී.
+
+◼️
+
+[Data](articles/c69375b2.json)
+
+---
+
+### Thalawa OIC injured in attack during raid
+
+*2024-07-04 07:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100280/thalawa-oic-injured-in-attack-during-raid) · `en`
+
+The Officer-in-Charge (OIC) of the Thalawa Police Station has been injured after he was attacked with a sharp object during a raid last night.
+
+The wounded Thalawa OIC has been admitted to the Anuradhapura Teaching Hospital for treatment.
+
+A suspect has been arrested in connection with the incident, police said.
+
+◼️
+
+[Data](articles/c70de108.json)
+
+---
 
 ### Several spells of showers expected in parts of the island
 
@@ -51,6 +85,26 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/77684d12.json)
 
 [Extended Data](ext_articles/77684d12.ext.json)
+
+---
+
+### රේගු නිලධාරීන් අද සහ හෙට ලෙඩ වෙයි
+
+*2024-07-04 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198465) · `si`
+
+සිය ඉල්ලීම්වලට බලධාරීන් නිසි විසඳුම් ලබානොදීමට විරෝධය පළ කරමින් අද (04) සහ හෙට (05) යන දෙදින තුළ අසනීප නිවාඩු වාර්තා කිරීමේ වෘත්තීය ක්‍රියාමාර්ගයක නිරත වීමට තීරණය කළ බව රේගු නිලධාරීන්ගේ සංගමය පවසයි.
+
+අත්තනෝමතික ලෙස ආදායම් අධිකාරී පනතක් ගෙන ඒමත් රේගු ආඥා පනතේ වගන්ති කිහිපයක් සං‍ශෝධනය කිරීමටත් බලධාරීන් පියවර ගැනීමට විරෝධය පළ කරමින් මෙම වෘත්තීය ක්‍රියාමාර්ගයේ නිරත වන බව එම සංගමයේ විධායක කමිටු සාමාජික තාරක කුමාරසිංහ මහතා පැවසුවේය.
+
+අවස්ථා කිහිපයකදී සිය ඉල්ලීම් සම්බන්ධයෙන් බලධාරීන් සමග සාකච්ඡා කළ ද ඒ සඳහා විසඳුමක් නොලැබීම හේතුවෙන් පසුගිය දින දෙක තුළ රේගු නිලධාරීන් අකුරට වැඩකිරීමේ වෘත්තීය ක්‍රියාමාර්ගයක නිරත වී සිටියේය.
+
+සිය ඉල්ලීම්වලට නිසි ප්‍රතිචාර නොලැබීම හේතුවෙන් අද සහ හෙට යන දෙදින අසනීප නිවාඩු වාර්තා කිරීමේ වෘත්තීය ක්‍රියාමාර්ගයකට එළඹීමට තීරණය කළ බව තාරක කුමාරසිංහ මහතා පැවසුවේය.
+
+කෙසේවෙතත් මේ මොහොතේ වර්ජනවල නිරත වීම කිසිසේත් අනුමත කළ නොහැකි බව අමාත්‍ය බන්දුල ගුණවර්ධන මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/c894e49f.json)
 
 ---
 
@@ -473,6 +527,24 @@ KPMG in India hosted its 31st All India Partners Meet (AIPM) 2024 in Colombo rec
 [Data](articles/82a2fe90.json)
 
 [Extended Data](ext_articles/82a2fe90.ext.json)
+
+---
+
+### Sri Lanka strikes restructuring agreement with bondholders
+
+*2024-07-04 00:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100278/sri-lanka-strikes-restructuring-agreement-with-bondholders) · `en`
+
+(Reuters) - Sri Lanka has secured a deal to move forward on restructuring about $12.5 billion of international bonds, the government said on Wednesday, a major step in the island nation’s fragile recovery from a severe financial crisis.
+
+The South Asian country defaulted for the first time on its foreign debt in May 2022 after its economy was driven to the brink by a slump in foreign exchange reserves.
+
+Restructuring international bonds was one of the key conditions set by the International Monetary Fund (IMF) under a $2.9 billion bailout programme that helped Sri Lanka tame inflation, stabilise its currency, and improve public finances.
+
+The deal with selected bondholders, who cover about 50% of Sri Lanka’s bonds, is contingent on confirmation by the Official Creditor Committee (OCC) made up of bilateral creditors and the IMF to ensure it is in line with the global lender’s debt sustainability analysis for the country.
+
+...
+
+[Data](articles/802ef3a2.json)
 
 ---
 
@@ -2233,93 +2305,5 @@ The victim was a resident of Wellawatte and the student is a resident of Kelaniy
 [Data](articles/8fb287ef.json)
 
 [Extended Data](ext_articles/8fb287ef.ext.json)
-
----
-
-### Handicrafts of the world's first robot victims from South Korea
-
-*2024-07-03 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198443) · `si`
-
-In a groundbreaking incident, a robot worker in South Korea reportedly "committed suicide" by falling down stairs, marking what could be the nation's first such case. The event occurred around a year ago in Gumi City, where the robot had been active. Local authorities stated the robot fell after tripping over its own robe, leading to widespread condemnation among residents. This unusual incident has sparked discussions about the ethical implications of robotics and artificial intelligence.
-
-🟩
-
-Foreign media reports that a robot machine in South Korea has committed suicide.
-
-The suicide has been committed to about a year, a robot engaged in the Gummy Municipal Council of Korea for about a year.
-
-The disabled robot worker was found while falling in a robe that was tall.
-
-The city authorities have said that the robot had spinned before the stairs.
-
-Gomi's residents had condemned the sake of suicide.
-
-The South Korean media has reported this to the first robotic suicide in the country.
-
-◼️
-
-[Data](articles/23af5462.json)
-
-[Extended Data](ext_articles/23af5462.ext.json)
-
----
-
-### Petition
-
-*2024-07-03 12:54:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலுக்கு-தடை-கோரி-மனு/175-339814) · `ta`
-
-A petition filed in the Supreme Court seeks clarification on President Ranil Wickremesinghe's term under the Constitution. It requests an interim halt on the upcoming presidential election until the court defines his term.
-
-🟩
-
-A petition was filed in the Supreme Court on Wednesday (03) demanding clarification on President Ranil Wickremesinghe's tenure.. The petition filed by the Supreme Court has been asked to clarify the term of President Ranil Wickremesinghe in accordance with the Constitution.
-
-The petitioner has called for an interim ban on holding the next presidential election until the Supreme Court clarifies the current president's term.
-
-◼️
-
-[Data](articles/bda9dbb8.json)
-
-[Extended Data](ext_articles/bda9dbb8.ext.json)
-
----
-
-### Petition
-
-*2024-07-03 12:54:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஜனாதிபதித்-தேர்தலுக்கு-தடை-கோரி-மனு/150-339814) · `ta`
-
-A petition filed in the Supreme Court seeks clarification on President Ranil Wickremesinghe's term under the Constitution. It requests an interim halt on the upcoming presidential election until the court defines his term.
-
-🟩
-
-A petition was filed in the Supreme Court on Wednesday (03) demanding clarification on President Ranil Wickremesinghe's tenure.. The petition filed by the Supreme Court has been asked to clarify the term of President Ranil Wickremesinghe in accordance with the Constitution.
-
-The petitioner has called for an interim ban on holding the next presidential election until the Supreme Court clarifies the current president's term.
-
-◼️
-
-[Data](articles/f9a20ca8.json)
-
-[Extended Data](ext_articles/f9a20ca8.ext.json)
-
----
-
-### Mahinda Kahanthawela joined the UNP
-
-*2024-07-03 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/187577) · `ta`
-
-Mahinda Kahanthawela, ex-Colombo Municipal Council member, has joined the United National Party (UNP) as the organizer for Central Colombo. This move comes with President Ranil Wickremesinghe's backing.
-
-🟩
-
-Former Colombo Municipal Council member Mahinda Kahanthawela has joined the United National Party (UNP).
-
-Kahanthawela has been appointed as the organizer of the Central Colombo constituency. In this case, President Ranil Wickremesinghe has promised his support.
-
-◼️
-
-[Data](articles/44175e69.json)
-
-[Extended Data](ext_articles/44175e69.ext.json)
 
 ---

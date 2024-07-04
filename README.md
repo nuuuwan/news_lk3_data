@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 11:54:58**
+As of **2024-07-04 12:08:15**
 
 ## Newspaper Stats
 
-*Scraped **33,624** Articles*
+*Scraped **33,625** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,57 @@ adaderanalk | 3,835
 tamilmirrorlk | 3,977
 dailymirrorlk | 4,733
 virakesarilk | 5,255
-adaderanasinhalalk | 5,573
+adaderanasinhalalk | 5,574
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,617 (100.0%) of 33,624 articles have been extended.
+33,623 (100.0%) of 33,625 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### ஹிருணிகாவின் கோரிக்கைக்கு சட்டமா அதிபர் எதிர்ப்பு?
+### PHI ඝාතන සැකකරු අත්අඩංගුවට
+
+*2024-07-04 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198477) · `si`
+
+අල්පිටිය, පතිරාජ මාවතේ දී මහජන සෞඛ්‍ය පරීක්ෂකවරයෙක්ව ඝාතනය කිරීමේ සිදුවීමට අවශ්‍යව සිටි වෙඩික්කරු බවට සැක කෙරෙන පුද්ගලයාව අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ, ගිනිඅවි දෙකක් ද සමග ගල්කිස්ස ප්‍රදේශයේ දී එම පුද්ගලයාව අත්අඩංගුවට ගත් බවය.
+
+ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරික රොෂන් කුමාර මහතා ඉකුත් පෙබරවාරි 26 වනදා උදෑසන වෙඩිතබා ඝාතනය කර සැකකරුවන් පළාගොස් තිබුණි.
+
+වෙඩික්කරුවන් යතුරුපැදියකින් පළා යන අයුරු දැක්වෙන CCTV රූපරාමු පෙළක් ද විමර්ශකයින් පසුව සොයා ගත්තේය.
+
+◼️
+
+[Data](articles/ee689c08.json)
+
+---
+
+### The Attorney General's opposition to Hirunika's request?
 
 *2024-07-04 11:38:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிகாவின்-கோரிக்கைக்கு-சட்டமா-அதிபர்-எதிர்ப்பு/175-339856) · `ta`
 
-மூன்று வருட கடூழியச் சிறைத்தண்டனை விதிக்கப்பட்டுள்ள முன்னாள் நாடாளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமச்சந்திரவை பிணையில் விடுவிக்குமாறு விடுக்கப்பட்ட கோரிக்கைக்கு ஆட்சேபனைகளை தாக்கல் செய்யவுள்ளதாக சட்டமா அதிபர் இன்று (04) கொழும்பு மேல் நீதிமன்றில் அறிவித்தார்.
+The Attorney General opposed Hirunika Premachandra's bail request in court, stating his intention to file objections. The case was adjourned until the 11th to allow him to do so.
 
-இந்த பிணை கோரிக்கை இன்று கொழும்பு மேல் நீதிமன்ற நீதிபதி அமல் ரணராஜா முன்னிலையில் பரிசீலிக்கப்பட்டது.
+🟩
 
-அங்கு, இந்த கோரிக்கை தொடர்பில் ஆட்சேபனைகளை சமர்ப்பிக்க சட்டமா அதிபர் எதிர்பார்ப்பதாக தெரிவித்த அரசாங்க சட்டத்தரணி, எழுத்து மூலம் ஆட்சேபனைகளை தாக்கல் செய்வதற்கு ஒத்திவைக்குமாறும் கோரினார்.
+The Attorney General today (04) announced in the Colombo High Court that he will file objections for the release of former parliamentarian Hirunika Premachandra, who has been sentenced to three years' rigorous imprisonment.
 
-இதன்படி, சட்டமா அதிபருக்கு ஆட்சேபனைகளை சமர்ப்பிக்க அனுமதித்த உயர் நீதிமன்ற நீதிபதி, பிணை கோரிக்கையை எதிர்வரும் 11ஆம் திகதி மீண்டும் விசாரணைக்கு எடுத்துக்கொள்ள உத்தரவிட்டார்.
+The bail request was considered today in the presence of Colombo High Court Judge Amal Ranarajah.
+
+There, the Attorney General, who said the Attorney General was expecting to submit objections to the request, demanded that it be postponed to file objections.
+
+Accordingly, the High Court judge, who allowed the Attorney General to submit objections, ordered the bail request to be taken up for hearing again on the 11th.
 
 ◼️
 
 [Data](articles/85085449.json)
+
+[Extended Data](ext_articles/85085449.ext.json)
 
 ---
 
@@ -150,6 +174,8 @@ The first phase, GTEX1, was carried out in Jordan, Egypt, Morocco, Tunisia, Kyry
 
 [Data](articles/55acbddd.json)
 
+[Extended Data](ext_articles/55acbddd.ext.json)
+
 ---
 
 ### The horrific bus - lorry accident
@@ -223,6 +249,8 @@ In equities, Colombo’s All Share Price Index opened 59.82 points higher at 12,
 ◼️
 
 [Data](articles/178cb855.json)
+
+[Extended Data](ext_articles/178cb855.ext.json)
 
 ---
 
@@ -798,6 +826,8 @@ To complete the terminal a new Japanese contractor has to be selected, he said. 
 
 [Data](articles/505d86fd.json)
 
+[Extended Data](ext_articles/505d86fd.ext.json)
+
 ---
 
 ### Thalawa OIC injured in attack during raid
@@ -1094,6 +1124,8 @@ The deal will have to be confirmed by the Secretariat of Sri Lanka’s Official 
 
 [Data](articles/4b0269f8.json)
 
+[Extended Data](ext_articles/4b0269f8.ext.json)
+
 ---
 
 ### BoardPAC awarded carbon neutral certification for second consecutive year
@@ -1173,6 +1205,8 @@ He said that rhinophis belongs to EuroPeltidae caste and that they are entitled 
 ...
 
 [Data](articles/4fca80c0.json)
+
+[Extended Data](ext_articles/4fca80c0.ext.json)
 
 ---
 
@@ -2249,35 +2283,5 @@ The new Dutch government consists of the far-right populist Party for Freedom (P
 [Data](articles/23ea2f14.json)
 
 [Extended Data](ext_articles/23ea2f14.ext.json)
-
----
-
-### Two students die from an apartment in ColomboThe police are investigating the Sisiri scenes
-
-*2024-07-03 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/187613) · `ta`
-
-Two students died after jumping from the 67th floor of an apartment in Colombo. Police are investigating how they reached such a high floor, possibly via stairs outside a gym on the 5th floor. The victims were from Wellawatte and Kelaniya, studying in grade 10 at the International School.
-
-🟩
-
-Police are investigating Sisirvi scenes in connection with the incident of two students jumping from the 67th floor of the apartment in Colombo.
-
-Two students jumped from the 67th floor of the apartment at Kombani Road, Colombo yesterday.
-
-According to police investigations, the deceased were from Wellawatte and Kelaniya and two students were studying in grade 10 at the International School.
-
-Investigations have revealed that the two jumped from the 67th floor of the apartment and fell on the top floor of the 3rd floor.
-
-The two have gone to the gym on the 5th floor of the apartment at the end of the school.
-
-Police investigations have revealed that they reached the 67th floor through the staircase outside the gym.
-
-In this case, the police are investigating the death of the two students in the apartment.
-
-◼️
-
-[Data](articles/df1449ba.json)
-
-[Extended Data](ext_articles/df1449ba.ext.json)
 
 ---

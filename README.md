@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 03:19:41**
+As of **2024-07-05 03:35:10**
 
 ## Newspaper Stats
 
-*Scraped **33,724** Articles*
+*Scraped **33,729** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 332
 newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,985
-dailyftlk | 2,089
+dailyftlk | 2,093
 adalk | 3,018
 adaderanalk | 3,849
-tamilmirrorlk | 3,990
+tamilmirrorlk | 3,991
 dailymirrorlk | 4,733
 virakesarilk | 5,278
 adaderanasinhalalk | 5,589
@@ -26,11 +26,75 @@ adaderanasinhalalk | 5,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,723 (100.0%) of 33,724 articles have been extended.
+33,724 (100.0%) of 33,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### CEAT tyres roll into Brazil, expanding brand’s export footprint
+
+*2024-07-05 03:21:13* · [`dailyftlk`](https://www.ft.lk/business/CEAT-tyres-roll-into-Brazil-expanding-brand-s-export-footprint/34-763879) · `en`
+
+Brazil, the country that gave the world natural rubber, has become the latest export market for CEAT tyres manufactured in Sri Lanka.
+
+CEAT Kelani Holdings recently despatched its first export consignment of tyres to Brazil, the second country in South America to join the Company’s international footprint, which covers 16 countries.
+
+The commencement of exports to Brazil was preceded by CEAT Kelani receiving the requisite INMETRO certification from the National Institute of Metrology, Standardisation and Industrial Quality, Brazil’s national standards body.
+
+INMETRO requires manufacturers and suppliers to undergo stringent product safety testing, factory inspection and assessment to ensure compliance with production process requirements, and analysis of technical documentation. On establishing compliance, INMETRO issues a certificate as well as authorisation for the use of INMETRO’s Compliance Identification Seal.
+
+...
+
+[Data](articles/275c587f.json)
+
+---
+
+### Newly appointed WB Country Director for Sri Lanka calls on President
+
+*2024-07-05 03:19:18* · [`dailyftlk`](https://www.ft.lk/business/Newly-appointed-WB-Country-Director-for-Sri-Lanka-calls-on-President/34-763878) · `en`
+
+The newly appointed World Bank Country Director for Sri Lanka, Nepal, and Maldives David Sislen,
+
+Called on President Ranil Wickremesinghe yesterday. The meeting served as an introduction for the new World Bank Country Director. The President had a cordial discussion with the World Bank team. Sislen succeeded Faris Hadad-Zervos, who is moving to a new assignment within the World Bank. Vice President for the South Asia Region Martin Raiser; out-going Country Manager for Maldives and Sri Lanka, South Asia, Chiyo Kanda; and Senior Advisor to the President on Economic Affairs, Dr. R.H. S. Samaratunga, also attended the meeting.
+
+◼️
+
+[Data](articles/c6421c3f.json)
+
+---
+
+### Top tech entrepreneur Sushena appointed Rotary Governor 2024/25
+
+*2024-07-05 03:12:38* · [`dailyftlk`](https://www.ft.lk/business/Top-tech-entrepreneur-Sushena-appointed-Rotary-Governor-2024-25/34-763876) · `en`
+
+One of Sri Lanka’s top tech entrepreneurs Sushena Ranatunga has been appointed as the Rotary Governor Sri Lanka and Maldives for the year 2024/25.
+
+The Co-Founder/Director of Creative Technology Solutions Ltd. – a company that pioneered Sri Lanka’s software industry way back in 2002, he is also the Director of the BOI based healthcare software development company Cambio Software Engineering Ltd. One of his landmark projects for Rotary was being the Project Chair of setting up Sri Lanka’s first ever Human Heart Valve and Tissue Bank under the stewardship of the first Rotary Lady Governor Gowri Rajan.
+
+...
+
+[Data](articles/d24e32de.json)
+
+---
+
+### Uninterrupted Power and Efficiency Summit 2024 concludes successfully
+
+*2024-07-05 03:09:31* · [`dailyftlk`](https://www.ft.lk/business/Uninterrupted-Power-and-Efficiency-Summit-2024-concludes-successfully/34-763875) · `en`
+
+Energynet Ltd., a subsidiary of Hayleys Fentons, and Riello Power Solutions (Italy), two well-known UPS giants locally and globally, successfully hosted “The Uninterrupted Power and Efficiency Summit 2024.”
+
+The event brought together industry leaders to discuss the future of uninterrupted power supply (UPS) technology, spotlighting key trends and insights shaping the sector.
+
+Distinguished speakers emphasised the growing importance of using modern UPS systems to improve energy savings and strengthen operational resilience against potential dangers. The summit and keynote presentations highlighted the critical importance of modern UPS systems and examined growing market dynamics and global innovations poised to reshape the industry landscape.
+
+Riello UPS ranks among the top 3 European UPS companies globally, with the Asia-Pacific market ranking in second place for regional sales.
+
+...
+
+[Data](articles/5563e74e.json)
+
+---
 
 ### Two new appointments to Board of Tea Smallholder Factories
 
@@ -49,6 +113,26 @@ In this role, he has been instrumental in steering the firm’s strategic direct
 ...
 
 [Data](articles/8d7017be.json)
+
+[Extended Data](ext_articles/8d7017be.ext.json)
+
+---
+
+### ஒன்றரை மணி நேரத்துக்கு ரூ.ஒரு கோடி செலவு
+
+*2024-07-05 02:20:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்றரை-மணி-நேரத்துக்கு-ரூ-ஒரு-கோடி-செலவு/175-339894) · `ta`
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (02) அவசரக் கூட்டத்தை நடத்துவதற்கு கிட்டத்தட்ட ஒரு கோடி ரூபாய் செலவிடப்பட்டுள்ளதாக பாராளுமன்ற வட்டாரங்கள் தெரிவிக்கின்றன.
+
+கடன் மறுசீரமைப்பு உடன்படிக்கைகள் தொடர்பில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின்  விசேட அறிக்கையொன்றை முன்வைப்பதற்காக பாராளுமன்றம் கூட்டப்பட்டது.
+
+ஜனாதிபதியின் உரையின் பின்னர் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ கருத்து வெளியிட்டதை அடுத்து பாராளுமன்றம் ஒத்திவைக்கப்பட்டது. இந்த அமர்வு  ஒன்றரை மணி நேரம் மட்டுமே நடைபெற்றது.
+
+சபை அமர்வு குறுகியதாக இருந்தாலும், பொதுவாக ஒரு பாராளுமன்றக் கூட்டத்தின் ஒரு நாளுக்குச் செலவிடப்படும் தொகையே குறுகிய கூட்டங்களுக்கும் செலவாகும் என்று பாராளுமன்ற பேச்சாளர் ஒருவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/085c3259.json)
 
 ---
 
@@ -2205,123 +2289,5 @@ The 64-year-old motorcyclist killed in the accident.
 [Data](articles/05d99c94.json)
 
 [Extended Data](ext_articles/05d99c94.ext.json)
-
----
-
-### Presidential election: President's position!The government focused on the petition on an interim order for the election
-
-*2024-07-04 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/187642) · `ta`
-
-Samindra Dayan Lenawa filed a petition in the Supreme Court seeking an interim injunction to halt preparations for the 2024 presidential election, citing constitutional articles. The government, however, asserts that the Election Commission has already initiated steps for the election during the president's term. President Ranil Wickremesinghe criticized the petitioner for not consulting him or his legal team before filing the petition.
-
-🟩
-
-The government has focused on the petition filed by Samindra Dayan Lenawa in the Supreme Court demanding an interim injunction to members of the Election Commission to hold the 2024 presidential election.
-
-By filing the petition, Article 30 (2) of the Constitution of the Constitution is aimed at Article 126, 82 (6), 3, 4, 118 and 125 of the Constitution of the Constitution.The petition is noted not to do.
-
-The petitioner has requested the Election Commission to issue an interim injunction to prevent further work on holding the 2024 presidential election until the Supreme Court has announced the decision to hold the next presidential election, considering the presidential term of six years.
-
-President Ranil Wickremesinghe has said that the petitioner did not consult or consult with his lawyers before filing the petition.
-
-President Ranil Wickremesinghe has announced that it is correct that the Election Commission has taken steps to hold the 2024 presidential election in the presidential period.
-
-◼️
-
-[Data](articles/1ac14e0f.json)
-
-[Extended Data](ext_articles/1ac14e0f.ext.json)
-
----
-
-### Switzerland’s GTEX2 phase II to boost Sri Lanka apparel SMEs
-
-*2024-07-04 10:51:00* · [`economynextcom`](https://economynext.com/switzerlands-gtex2-phase-ii-to-boost-sri-lanka-apparel-smes-170818/) · `en`
-
-ECONOMYNEXT – Sri Lanka has been included in the Swiss government-funded GTEX2 programme for 2024-2027, which seeks to improve the capabilities of the local apparel sector and increase its presence in the global market.
-
-Switzerland’s State Secretariat for Economic Affairs (SECO), the Swedish International Development Cooperation Agency (SIDCA), and the International Trade Center (ITC) fund and provide technical assistance in the second phase of its Global program on Textile and Clothing (GTEX2).
-
-The five-year program will support textile and clothing industry SMEs “to improve their operational capacities, including social norms and environmental sustainability, add value to existing products and services and expand exports to traditional and new markets,” the Sri Lanka Export Development Board said.
-
-The first phase, GTEX1, was carried out in Jordan, Egypt, Morocco, Tunisia, Kyryzstan and Tajikistan. The second phase will be carried out in Egypt, Morocco, Tunisia, Jordan and Sri Lanka.
-
-...
-
-[Data](articles/55acbddd.json)
-
-[Extended Data](ext_articles/55acbddd.ext.json)
-
----
-
-### The horrific bus - lorry accident
-
-*2024-07-04 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198473) · `si`
-
-In a tragic accident near Galahitiyawa, a SLTB bus and a lorry collided, injuring about 25 passengers who were taken to Chilaw General Hospital, including several in serious condition. The incident occurred during rainy weather when the bus was traveling from Devalaya junction to Colombo, and the lorry was transporting cement from Puttalam to Colombo.
-
-🟩
-
-A SLTB bus and a lorry collided in Galahitiyawa area on the Chilaw-Colombo-Colombo-Galahitiyawa area.
-
-About 25 people were injured in the accident have been admitted to the Chilaw General Hospital for treatment.
-
-According to hospital sources, several of those patients were serious.
-
-The SLTB bus traveling from the Devalaya junction to Colombo this morning, a Cement from Puttalam to Colombo was not able to control and collided with a lorry.
-
-According to our correspondent that there was rainy weather in the area at the time of the accident.
-
-◼️
-
-[Data](articles/a0fb21c7.json)
-
-[Extended Data](ext_articles/a0fb21c7.ext.json)
-
----
-
-### Young woman magic
-
-*2024-07-04 10:43:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/இளம்-யுவதி-மாயம்-கிணற்றை-தோண்ட-நடவடிக்கை/75-339854) · `ta`
-
-A young woman from Thanganagar, Nadeskumar Vinodhini, has gone missing, prompting a search involving the Seruvila and Muttur police divisions. The Muttur police, after arresting a suspect, have received court approval to excavate a well near Gilivetti village. This action follows reports that the girl's boyfriend sealed the well using a JCP machine before fleeing. Investigations continue.
-
-🟩
-
-A young woman from Thanganagar, which belongs to the Seruvila Police Division, has been reported missing at the police station.
-
-Nadeskumar Vinodhini, a 25 -year -old girl, has lodged a complaint at Seruvila and Muttur police stations that she has disappeared.
-
-The Muttur police, who are carrying out the case, have obtained court permission to dig a dilapidated well on the border of the Gilivetti village on the basis of the arrest of a suspect from Cleivetti on suspicion.
-
-In this case, the police officers have been deployed in the area since Wednesday (03), and the well will be dug in the presence of the Muttur Court Magistrate on Friday morning.
-
-It is reported that the well was closed by the girl's boyfriend with the help of the JCP machine and that the boyfriend was in hiding as suspicions were being released.. Muttur police are conducting further investigations. Remble
-
-◼️
-
-[Data](articles/e67a10db.json)
-
-[Extended Data](ext_articles/e67a10db.ext.json)
-
----
-
-### Bribery Police Inspector arrested
-
-*2024-07-04 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187636) · `ta`
-
-A bribery police inspector was arrested by the bribery commission for allegedly accepting a bribe to issue a cashless check.
-
-🟩
-
-A bribe police inspector has been arrested by the bribery commission officials.
-
-He is said to have bribed the person to give money from the person to provide a cashless check.
-
-◼️
-
-[Data](articles/8b8eebff.json)
-
-[Extended Data](ext_articles/8b8eebff.ext.json)
 
 ---

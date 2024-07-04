@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 08:35:18**
+As of **2024-07-04 08:54:12**
 
 ## Newspaper Stats
 
-*Scraped **33,586** Articles*
+*Scraped **33,588** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,47 @@ islandlk | 1,880
 economynextcom | 1,967
 dailyftlk | 2,083
 adalk | 2,997
-adaderanalk | 3,832
+adaderanalk | 3,833
 tamilmirrorlk | 3,969
 dailymirrorlk | 4,733
 virakesarilk | 5,250
-adaderanasinhalalk | 5,564
+adaderanasinhalalk | 5,565
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,586 (100.0%) of 33,586 articles have been extended.
+33,586 (100.0%) of 33,588 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### Police Inspector arrested on bribery charge
+
+*2024-07-04 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100281/police-inspector-arrested-on-bribery-charge) · `en`
+
+An Inspector of Police attached to the Mahabage Police Station has been arrested by Bribery Commission officials while accepting a bribe of Rs. 25,000.
+
+He had reportedly solicited the bribe on the promise of intervening to settle an amount from a bounced cheque in instalments.
+
+◼️
+
+[Data](articles/c6a41099.json)
+
+---
+
+### අල්ලස් ගත් පොලිස් නිලධාරියෙක් අත්අඩංගුවට
+
+*2024-07-04 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198467) · `si`
+
+මහබාගේ පොලීසියට අනුයුක්තව සේවය කරන පොලිස් පරීක්ෂකවරයෙක්  අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසම මඟින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/5a49b902.json)
+
+---
 
 ### Britain's general election begins
 
@@ -2277,47 +2303,5 @@ Following the magistrate’s inquiry, the bodies will be transferred to Tangalle
 [Data](articles/8183d6f3.json)
 
 [Extended Data](ext_articles/8183d6f3.ext.json)
-
----
-
-### President to march at teachers
-
-*2024-07-03 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198445) · `si`
-
-President Ranil Wickremesinghe has sought legal advice on handling saboteurs of education, vowing not to tolerate disruptions. He emphasized the importance of discipline in education, criticizing past strikes as detrimental. Highlighting financial support for students and teachers, he urged for a disciplined approach to schooling, hinting at potential legal actions against those hindering educational progress.
-
-🟩
-
-President Ranil Wickremesinghe says he has requested the Attorney General's advice on the steps to be taken against people who directly or indirectly to sabotage their education during school studies.
-
-Addressing a ceremony to provide teacher appointments at Temple Trees this morning, the President said he would not allow sabotage.
-
-...
-
-[Data](articles/0b40fe43.json)
-
-[Extended Data](ext_articles/0b40fe43.ext.json)
-
----
-
-### Kahadason for Vacant Member of Sambandan
-
-*2024-07-03 13:26:48* · [`adalk`](https://www.ada.lk/breaking_news/සම්බන්දන්-ගේ-වියොවින්-පුරප්පාඩු-වූ-මන්ත්‍රී-ධුරයට-කුහදාසන්/11-410588) · `si`
-
-Following the death of a Tamil National Alliance (TNA) parliamentarian, Khambadson, the TNA chairman, has been appointed to fill the vacant seat in the Northern Provincial Council (NPC). This decision was made under the Parliamentary Electoral Act, with the Elections Commission issuing a gazette notification for his appointment.
-
-🟩
-
-Due to the death of the Tamil National Alliance (Thilaya District Parliamentarian) as the death of the Tamil National Alliance (Thilar National Alliance) has been elected vacant parliamentary seat in the NIC.
-
-Khambadson, who serves as the Chairman of the TNA, serves 2020 preferential votes in the TNA.
-
-According to the Parliamentary Electoral Act, the Elections Commission issued the gazette notification for this appointment on the powers vested with the Elections Commission.
-
-◼️
-
-[Data](articles/f0b2356c.json)
-
-[Extended Data](ext_articles/f0b2356c.ext.json)
 
 ---

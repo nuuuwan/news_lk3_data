@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 13:05:02**
+As of **2024-07-04 13:19:47**
 
 ## Newspaper Stats
 
-*Scraped **33,638** Articles*
+*Scraped **33,641** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,127 @@ islandlk | 1,880
 economynextcom | 1,972
 dailyftlk | 2,084
 adalk | 3,004
-adaderanalk | 3,837
+adaderanalk | 3,838
 tamilmirrorlk | 3,979
 dailymirrorlk | 4,733
-virakesarilk | 5,260
+virakesarilk | 5,262
 adaderanasinhalalk | 5,576
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,637 (100.0%) of 33,638 articles have been extended.
+33,638 (100.0%) of 33,641 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### පාසල් ළමයෙකු ව අපයෝජනය කළ තිදෙනෙක් අත්අඩංගුවට
+### ஜே.ஆரின் பேரன் ஐக்கிய மக்கள் சக்தியோடு இணைந்தார் !
+
+*2024-07-04 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/187663) · `ta`
+
+இந்நாட்டின் முதலாவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி ஜே.ஆர் ஜயவர்தனவின் பேரனான பிரதீப் ஜயவர்தன எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவின் அரசியல் பயணத்திற்கு தனது ஆதரவை நல்கும் நோக்கில் ஐக்கிய மக்கள் சக்தியோடு இணைந்து கொண்டார்.
+
+ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்ட பிரதீப் ஜயவர்தனவை ஐக்கிய மக்கள் சக்தியின் கம்பஹா மாவட்ட அமைப்பாளராக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச நியமித்தார்.
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் கொழும்பு  கிழக்கு தேர்தல் தொகுதி அமைப்பாளராகவும், மத்திய குழு உறுப்பினராகவும் பணியாற்றியுள்ளார்.
+
+2015 ஆம் ஆண்டு ஸ்ரீலங்கா சுதந்திரக் கட்சி ஊடாக கம்பஹா மாவட்டத்தை பிரதிநிதித்துவப்படுத்தி அரசியலில் பிரவேசித்த இவர், 2017 இல் நடந்த உள்ளூராட்சி மன்றத் தேர்தலில் கொழும்பு மாநகர சபைக்குத் தெரிவானார்.
+
+இன்று வியாழக்கிழமை (03) எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் ஊடக சந்திப்பிலும் கலந்து கொண்டார்.
+
+◼️
+
+[Data](articles/a4638c6f.json)
+
+---
+
+### Yall. People pay tribute to Sampanthan's funeral
+
+*2024-07-04 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/187649) · `ta`
+
+Rajavarothayam Sampanthan, former TNA leader, was honored with a tribute ceremony in Jaffna after his death. His body was flown from Colombo to Jaffna, where mourners paid respects at the Father Selva Memorial from 10 AM to 4 PM.
+
+🟩
+
+The late Sri Lanka Tamil National Party (TNA) leader and Trincomalee district parliamentarian Rajavarothayam Sambandan was taken by plane from Colombo to Jaffna on Thursday (04).
+
+Sampanthan's funeral was taken to Jaffna Palali Airport at the headquarters of the Tamil National Party in Jaffna.
+
+It has been announced that the people will be able to pay tribute to the father of Sampanthan, who later disappeared from 10.00 am to 4.00 pm on Thursday (04) at the Father Selva Memorial in Jaffna.
+
+◼️
+
+[Data](articles/c66f525a.json)
+
+[Extended Data](ext_articles/c66f525a.ext.json)
+
+---
+
+### சருமத்தை வெண்மையாக்கும் கிறீம்களால் ஏற்படும் பிரச்சினைகள் அதிகரிப்பு
+
+*2024-07-04 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/187655) · `ta`
+
+சருமத்தை வெண்மையாக்கும் கிறீம்களை பயன்படுத்துவதால் புற்றுநோயால் பாதிக்கப்படுவோரின் எண்ணிக்கையை விட சிறுநீரக நோயால் பாதிக்கப்பட்டவர்களின் எண்ணிக்கை அதிகரித்துள்ளதாக சுகாதார அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+சுகாதார மேம்பாட்டு பணியகத்தில் புதன்கிழமை நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்ட தேசிய வைத்தியசாலையின் தோல் சிகிச்சை நிபுணர் வைத்தியர் இந்திரா கஹவிட்ட இதனைத் தெரிவித்தார்.
+
+உலக சுகாதார ஸ்தாபனமும் இலங்கை சுகாதார அமைச்சுக்கும் இடையில் முகத்தை வெண்மையாக்கும் கிறீம்களில் பாதரசத்தின் பயன்பாட்டை முற்றிலுமாக ஒழிப்பதை நோக்கமாகக் கொண்ட ஒரு கூட்டு வேலைத்திட்டம் ஆரம்பிக்கப்பட்டுள்ளது. இந்த திட்டத்தின் நோக்கம் பாதரசத்தின் பயன்பாட்டை முற்றிலும் ஒழிப்பதாகும்.
+
+பாதிப்பை ஏற்படுத்தும்  பாதரசம் கலந்த கிறீம்கள் உடல் முழுவதும் பயன்டுத்தப்படுகின்றன. இது ஆபத்தானது. பாதரச நச்சால் சிறுநீரக செயலிழப்பு ஏற்படும்.
+
+...
+
+[Data](articles/8859c4e0.json)
+
+---
+
+### 25 injured in lorry-bus collision on Chilaw-Colombo road
+
+*2024-07-04 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100286/25-injured-in-lorry-bus-collision-on-chilaw-colombo-road) · `en`
+
+At least twenty-five persons were left injured after an SLTB bus collided with lorry transporting cement in the Galahitiyawa area of Madampe on the Chilaw-Colombo main road this morning (4).
+
+The individuals injured in the accident have been admitted to the District General Hospital of Chilaw.
+
+According to hospital sources, several injured passengers are in critical condition.
+
+The accident occurred this morning as an SLTB bus travelling from Devala Junction to Colombo via Chilaw colliding with a lorry transporting cement travelling in the same direction from Puttalam to Colombo, due to the bus driver failing to control its speed.
+
+Both the bus and lorry have sustained major damages following the accident, which had occurred during rainy weather conditions in the area.
+
+◼️
+
+[Data](articles/8218fcf6.json)
+
+---
+
+### Three arrested for abuse of a child
 
 *2024-07-04 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198478) · `si`
 
-යුක්තිය 2 මෙහෙයුමට සමගාමීව සෝදිසි මෙහෙයුමක් අද (04) උදෑසන අම්බලන්ගොඩ ආඳාදොළ ප්‍රදේශයේදී සිදුකළේය.
+Three individuals were arrested today in Ambalangoda for abusing schoolchildren. Additionally, five others had arrest warrants executed against them during the same operation.
 
-එම මෙහෙයුමේදී පාසල් ශිෂ්‍යයෙක් අපහරණය කිරීම සම්බන්ධයෙන් සොයමින් සිටි සැකකරුවන් තිදෙනෙක් ද අත්අඩංගුවට ගැනීමට සමත්වී තිබේ.
+🟩
 
-ඊට අමතරව එම මෙහෙයුමේදී වරෙන්තුකරුවන් 5 දෙනෙක්ද අත්අඩංගුවට ගෙන තිබුණි.
+Scheme was conducted at the Ambalangoda Ataindadalpola this morning (04).
+
+Three suspects have been arrested in connection with the abuse of a schoolchildren at the operation.
+
+In addition, five warrants were arrested in the operation.
 
 ◼️
 
 [Data](articles/8793b386.json)
 
+[Extended Data](ext_articles/8793b386.ext.json)
+
 ---
 
 ### Today's currency exchange rate
 
-*2024-07-04 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/187657) · `ta`
+*2024-07-04 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187657) · `ta`
 
 On July 04, the US dollar's buying price was Rs 299.6873, and its selling price was Rs 308.9221 according to the Central Bank's rates.
 
@@ -249,28 +335,6 @@ Accordingly, the High Court judge, who allowed the Attorney General to submit ob
 [Data](articles/85085449.json)
 
 [Extended Data](ext_articles/85085449.ext.json)
-
----
-
-### Yall. People pay tribute to Sampanthan's funeral
-
-*2024-07-04 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/187649) · `ta`
-
-Rajavarothayam Sampanthan, former TNA leader, was honored with a tribute ceremony in Jaffna after his death. His body was flown from Colombo to Jaffna, where mourners paid respects at the Father Selva Memorial from 10 AM to 4 PM.
-
-🟩
-
-The late Sri Lanka Tamil National Party (TNA) leader and Trincomalee district parliamentarian Rajavarothayam Sambandan was taken by plane from Colombo to Jaffna on Thursday (04).
-
-Sampanthan's funeral was taken to Jaffna Palali Airport at the headquarters of the Tamil National Party in Jaffna.
-
-It has been announced that the people will be able to pay tribute to the father of Sampanthan, who later disappeared from 10.00 am to 4.00 pm on Thursday (04) at the Father Selva Memorial in Jaffna.
-
-◼️
-
-[Data](articles/c66f525a.json)
-
-[Extended Data](ext_articles/c66f525a.ext.json)
 
 ---
 
@@ -2173,79 +2237,5 @@ The Investigations Petitions have been dismissed that the high court magistrate 
 [Data](articles/cd706286.json)
 
 [Extended Data](ext_articles/cd706286.ext.json)
-
----
-
-### Completion approved from the budget before August 31
-
-*2024-07-03 20:39:20* · [`adalk`](https://www.ada.lk/breaking_news/අයවැයෙන්-අනුමත-ව්‍යාපෘති-අගෝස්තු-31ට-පෙර-නිම-කරන්න/11-410596) · `si`
-
-The 2024 decentralized budget program requires projects to complete by August 31, 2024. The Ministry of Finance, Economic Stability, and National Policy has been advised to ensure this deadline is met, starting from July 3, 2022.
-
-🟩
-
-The 2024 decentralized budget program has issued a circular to be instructed to finish the completion of 2024-08 to 2024-08-2011.
-
-Accordingly, the Secretary of the Ministry of Finance, Economic Stability and National Policy has been given this advice from 03.07.2012 (iv).
-
-◼️
-
-[Data](articles/75e992ba.json)
-
-[Extended Data](ext_articles/75e992ba.ext.json)
-
----
-
-### SriLankan's not selling
-
-*2024-07-03 20:32:45* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකන්-විකුණන්නේ-නැහැ/11-410595) · `si`
-
-SriLankan Airlines is not for sale; restructuring plans are underway. Credit lines to Argentina, Ecuador, and Ghana for bilateral loans are suspended. Negotiations with JICA on Japanese projects are scheduled. Minister Siripala de Silva emphasizes the importance of local investors for SriLankan Airlines. President Wickremesinghe discusses the country's economic progress and IMF-backed restructuring. Opposition Leader Premadasa highlights issues with commercial loan restructuring. The government is taking steps towards financial recovery and social security enhancements.
-
-🟩
-
-Credit on Argentina, Ecuador and Ghana are cut off for bilateral loans, not bilateral loans (commercial).
-
-Negotiating next week, JICA will be discussed with JICA on the resume of Japan projects - Nimal Siripala de Silva, Minister of Ports, Naval and Aviation.
-
-Ports, Shipping and Aviation Minister Siripala de Silva said that SriLankan Airlines is not selling to sell and restructuring only a restructure.
-
-However, it is not only 49% of SriLankan Airlines, but it has not been a desirable investor.
-
-Minister Nimal Siripala de Silva, Minister of Ports, Naval and Aviation, was addressing a press conference held at the Presidential Media Center today (03).
-
-President Ranil Wickremesinghe explained the progress of the revenue restructuring of the country's economic advancement yesterday (02) in Parliament yesterday (02). If the opposition claims to be polite for political reasons, it should be said that it was a good message.
-
-...
-
-[Data](articles/cbf5951a.json)
-
-[Extended Data](ext_articles/cbf5951a.ext.json)
-
----
-
-### Tomorrow's tribute to Sambandan
-
-*2024-07-03 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/187624) · `ta`
-
-A tribute to R. Sampanthan, a senior leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian, will take place in Jaffna on Thursday. The event, scheduled from 9 am to 4 pm at the Father Selva Auditorium, involves transporting a tribute from Colombo by plane for the funeral in Trincomalee. Additionally, a public tribute in Kilinochchi is planned to honor Sampanthan, recognized as a key political figure among the Tamil people of the North and East.
-
-🟩
-
-Senior leader of the late Sri Lanka Tamil National Party and Trincomalee District Parliamentarian, R. Sampanthan, will be held in Jaffna on Thursday, 04.
-
-Father Selva Auditorium in Jaffna will be placed for the tribute from 9 am to 4 pm.
-
-For this purpose, it will be brought from Colombo by plane and will be taken back by plane for the funeral at the Annara's residence in Trincomalee today.
-
-Meanwhile, steps have been taken to make a tribute to the public in Kilinochchi, a political leader and Trincomalee district parliamentarian Amarar R. Sampanthan, who was identified by the unanimous political leader of the Tamil people of the North and East.
-
-It is noteworthy that the MP Sridharan's media unit has announced that steps will be taken to make a public tribute at the Kilinochchi District Workshop of the Kilinochchi District of the Sri Lankan Tamil National Alliance (TNA).
-
-◼️
-
-[Data](articles/0ef37af5.json)
-
-[Extended Data](ext_articles/0ef37af5.ext.json)
 
 ---

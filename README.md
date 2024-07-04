@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 16:36:11**
+As of **2024-07-04 16:55:24**
 
 ## Newspaper Stats
 
-*Scraped **33,659** Articles*
+*Scraped **33,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,72 @@ adalk | 3,009
 adaderanalk | 3,842
 tamilmirrorlk | 3,981
 dailymirrorlk | 4,733
-virakesarilk | 5,264
-adaderanasinhalalk | 5,581
+virakesarilk | 5,269
+adaderanasinhalalk | 5,583
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,659 (100.0%) of 33,659 articles have been extended.
+33,659 (100.0%) of 33,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### වතු වැටුප් වැඩි කළ ගැසට්ටුවට අතුරු නියෝගයක්
+
+*2024-07-04 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198486) · `si`
+
+වතු කම්කරු වැටුප් වැඩි කරමින් කම්කරු අමාත්‍යවරයා විසින් නිකුත් කළ ගැසට් නිවේදනය ක්‍රියාත්මක කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය අතුරු නියෝගයක් නිකුත් කර තිබේ.
+
+අදාළ වැටුප් වැඩි කිරීමට එරෙහිව ආගරපතන වැවිලි සමාගම ඇතුළු වැවිලි සමාගම් විසින් ඉදිරිපත් කළ පෙත්සමක් විභාගයට ගැනීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය මෙම නියෝගය නිකුත් කර ඇත.
+
+◼️
+
+[Data](articles/a6b18dba.json)
+
+---
+
+### சுங்க அதிகாரிகளின் வேலை நிறுத்தம் கைவிடப்பட்டது
+
+*2024-07-04 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/187688) · `ta`
+
+நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டியவுடன் நடைபெற்ற கலந்துரையாடலை அடுத்து சுகயீன விடுமுறை அறிக்கை மூலம் ஆரம்பிக்கப்பட்ட தொழிற்சங்க நடவடிக்கையை உடனடியாக இடைநிறுத்துவதற்கு சுங்க ஒன்றிய சம்மேளனம் தீர்மானித்துள்ளது.
+
+◼️
+
+[Data](articles/0a7f2cd2.json)
+
+---
+
+### நவலோக்க வைத்தியசாலையில் 500 சிறுநீரக மாற்று அறுவை சிகிச்சைகளை வெற்றிகரமாக செய்து சாதனை
+
+*2024-07-04 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/187674) · `ta`
+
+மூன்றாம் நிலை சுகாதார சேவையில் இலங்கையின் முன்னணியிலுள்ள  நவலோக்க வைத்தியசாலை குழுமம், 500 சிறுநீரகமாற்று அறுவை சிகிச்சைகளை வெற்றிகரமாக முடித்துள்ளதாக அண்மையில் அறிவித்தது. சிறுநீரகமாற்று அறுவை சிகிச்சையில், ஒருநபரின் உயிரைக்காப்பாற்ற ஒருதனித்துவமான அறுவை சிகிச்சையாக இதனைக்கூறலாம். உயிருடன் அல்லது இறந்த நபரிடமிருந்து தானமாக பெறப்பட்ட ஆரோக்கியமான சிறுநீரகம், சிறுநீரகங்கள் சரியாக செயல்படாத ஒரு நோயாளிக்கு அறுவைச் சிகிச்சைமூலம் பொருத்தப்படுகிறது.
+
+...
+
+[Data](articles/03c83529.json)
+
+---
+
+### පාසල් දරුවන් 6ක් ඇතුළු 9ක් රෝහලට යැවූ ලොරි අනතුර
+
+*2024-07-04 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198485) · `si`
+
+මහනුවර දෙසට ධාවනය වූ ලොරි රථයක් මාර්ගයේ විරුද්ධ දිශාවට හැරවීමට යාමේදී නුගවෙල පාසල් හංදියේදී මාර්ගයේ ගමන්කරමින් සිටි පිරිසකගේ හැපී අනතුරක් සිදුවිය.
+
+අනතුරින් පාසල් සිසුවියන් සිව් දෙනෙක්, සිසුන් දෙදෙනෙක්, කාන්තාවන් දෙදෙනෙක් සහ පිරිමි පුද්ගලයෙක් තුවාල ලබා රෝහල්ගත කෙරුණි.
+
+ලොරි රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර අලදෙණිය පොලීසිය වැඩිදුර පරීක්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/bf43fc2f.json)
+
+---
 
 ### Inbow, infrated of uneducated milk
 
@@ -110,6 +164,24 @@ Due to this rain, inferior areas have been flooded in water.
 
 ---
 
+### நுவரெலியாவில் அரச வங்கி ஊழியர்கள் ஆர்ப்பாட்டம்
+
+*2024-07-04 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187675) · `ta`
+
+நுவரெலியாவில் அரச வங்கி ஊழியர்கள் ஒன்றிணைந்து சம்பள உயர்வைக் கோரி அடையாள கவனயீர்ப்பு ஆர்ப்பாட்டம் ஒன்றை முன்னெடுத்தனர்.
+
+குறித்த அடையாள கவனயீர்ப்பு ஆர்ப்பாட்டம் நுவரெலியா பிரதான தபால் நிலையத்திற்கு முன்பாக இன்று வியாழக்கிழமை (04) முன்னெடுக்கப்பட்டது.
+
+எமது நாட்டின் பொருளாதார நெருக்கடிக்கு மத்தியில் அரச வங்கி ஊழியர்களுக்கு வரிச்சுமைக்கு ஏற்ற சம்பளம் ஒன்றை உடன் பெற்றுத்தருக, ஏனைய அரச ஊழியர்கள் போல் எங்களுக்கு அனைத்து சலுகைகளும் பெற்று தாருங்கள் , அரச வங்கிகளின் சம்பள அதிகரிப்பை உடன் உயர்த்துங்கள் போன்ற வாசகங்கள் அடங்கிய பதாதைகளை ஏந்தியும், கோசங்களை எழுப்பியும் ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+எனவே அரசாங்கம் வங்கி ஊழியர்களின் கோரிக்கைகளுக்கு செவிசாய்க்க விட்டால் நாடு முழுவதும் சென்று பாரிய போராட்டங்களை நடத்த இருப்பதாகவும் போராட்டத்தில் கலந்துகொண்டவர்கள் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/5a5f4a36.json)
+
+---
+
 ### 8 years after the currency trapped in the bronchi ..!
 
 *2024-07-04 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/187672) · `ta`
@@ -158,6 +230,24 @@ To build a prosperous Sri Lanka, many social and political reforms are to be mad
 
 ---
 
+### சூட்சுமமான முறையில் ஹயஸ் வாகனத்தில் மரக்கடத்தல் - சாரதி கைது!
+
+*2024-07-04 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/187671) · `ta`
+
+சூட்சுமமான முறையில் ஹயஸ் ரக வாகனத்தில் மரக்கடத்தலில் ஈடுபட்ட போது வாகனம் விபத்திற்குள்ளாகிய சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
+
+முல்லைத்தீவு புதுக்குடியிருப்பு பொலிஸ் பிரிவிற்குட்பட்ட உடையார் கட்டுப்பகுதியில் தேக்கமரக்குற்றிகளை கடத்தி வேகமாக சென்ற ஹயஸ் வாகனம் ஒன்று புதுக்குடியிருப்பு - பரந்தன் வீதியில் நேற்றுமுன்தினம் செவ்வாய்க்கிழமை (02) மாலை நேர வகுப்பு முடிந்து வீதியால் சைக்கிளில் பயணித்த உயர்தர மாணவன் மீது மோதி விபத்தினை ஏற்படுத்தியுள்ளது
+
+இதன்போது ஹயஸ்ரக வாகனத்தில் சட்ட விரோதமான முறையில் மரங்கள் ஏற்றி செல்லப்பட்டுள்ளமை கண்டறியப்பட்டுள்ளது. வாகனத்திற்குள் தேக்க மரக்குற்றிகள் 9 காணப்பட்டுள்ளன. இது புதுக்குடியிருப்பு பிரதேசத்தில் இருந்து யாழ்ப்பாணத்திற்கு கடத்தி செல்லப்பட்ட மரக்குற்றிகள் என பொலிசாரின் விசாரணைகளில் தெரியவந்துள்ளது.
+
+வாகன விபத்தில் படுகாயமடைந்த உடையார் கட்டு தெற்கு பகுதியினை சேர்ந்த 17 அகவையுடைய மாணவன் முல்லைத்தீவு மாவட்ட மருத்துவமனையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைக்காக யாழ் வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/c9c0e0b3.json)
+
+---
+
 ### Warm welcome to world champions
 
 *2024-07-04 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198482) · `si`
@@ -189,6 +279,24 @@ The World Championship Bhayam Sharma, led by the World Championship, met Indian 
 [Data](articles/62709e61.json)
 
 [Extended Data](ext_articles/62709e61.ext.json)
+
+---
+
+### அரசியலமைப்பின் பிரகாரம் அரசாங்கம் தேர்தலை நடத்தும் : ரணிலிடம் நாட்டை ஒப்படையுங்கள் - அமைச்சர் பிரசன்ன ரணதுங்க
+
+*2024-07-04 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/187668) · `ta`
+
+ஜனாதிபதி தேர்தலையோ அல்லது வேறு எந்த தேர்தலையோ ஜனாதிபதியோ அல்லது அரசாங்கமோ ஒத்திவைக்க வேண்டிய அவசியமில்லை என ஆளும் கட்சியின் பிரதான அமைப்பாளர் அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+
+தேர்தலை சந்திக்க முதுகெலும்பில்லாத எதிர்க்கட்சிகள் தேர்தலை ஒத்திவைப்பது பற்றி பேசினாலும் அரசாங்கம் அரசியலமைப்பின் பிரகாரம் தேர்தலை நடத்தும் என அமைச்சர் வலியுறுத்தினார்.
+
+கம்பஹா, மினுவாங்கொடை பிரதேசத்தில் இன்று வியாழக்கிழமை (4) இடம்பெற்ற மக்கள் சந்திப்பில் கலந்து கொண்ட அமைச்சர் பிரசன்ன ரணதுங்க இதனைக் குறிப்பிட்டார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் நடைமுறைப்படுத்தப்பட்ட நிலையான பொருளாதாரக் கொள்கைகள் காரணமாகவே பாரிஸ் மாநாட்டில் நாட்டின் கடனை மறுசீரமைக்க தீர்மானிக்கப்பட்டது. மேலும், எதிர்காலத்தில் நாடும் மக்களும் எதிர்பார்க்கும் பொருளாதார, அரசியல், சமூக சீர்திருத்த நடவடிக்கைகளை தற்போதைய ஜனாதிபதியால் மட்டுமே மேற்கொள்ள முடியும். எனவே, அவரை மீண்டும் ஒருமுறை ஜனாதிபதியாக நியமிப்பதன் மூலம், அடுத்த ஐந்து வருடங்களுக்குள், உலகின் பலமான பொருளாதாரம் கொண்ட நாடாக இலங்கையை உருவாக்க முடியும்.
+
+...
+
+[Data](articles/5d58e5c9.json)
 
 ---
 
@@ -2137,119 +2245,5 @@ The program was presented by the International Labour organisation, ILO and the 
 [Data](articles/555fed89.json)
 
 [Extended Data](ext_articles/555fed89.ext.json)
-
----
-
-### Sampanthan, stature diminished by links to LTTE, is no more
-
-*2024-07-04 01:17:39* · [`dailyftlk`](https://www.ft.lk/columns/Sampanthan-stature-diminished-by-links-to-LTTE-is-no-more/4-763808) · `en`
-
-Sampanthan could never overlook the ethnic divisions that have plagued Sri Lanka for decades – before, during and after the war
-
-Sampanthan, one among the few TNA leaders who Western diplomats in Colombo continued to respect despite his political predicament, tried to come on to his own after the LTTE was militarily crushed. Now minus the armed campaign to break up Sri Lanka, the TNA leader made some bold statements, making it clear that he wanted to be a part of the island nation. A section of the TNA, which fragmented over the years, sided with him. After the war, he played a major role in highlighting internationally the horrific price the ordinary Tamils had to pay in Sri Lanka simply for being at the wrong place at the wrong time
-
-...
-
-[Data](articles/00040f2b.json)
-
-[Extended Data](ext_articles/00040f2b.ext.json)
-
----
-
-### Sampanthan, stature diminished by links to LTTE, is no more
-
-*2024-07-04 01:17:39* · [`dailyftlk`](https://www.ft.lk/opinion/Sampanthan-stature-diminished-by-links-to-LTTE-is-no-more/14-763808) · `en`
-
-Sampanthan could never overlook the ethnic divisions that have plagued Sri Lanka for decades – before, during and after the war
-
-Sampanthan, one among the few TNA leaders who Western diplomats in Colombo continued to respect despite his political predicament, tried to come on to his own after the LTTE was militarily crushed. Now minus the armed campaign to break up Sri Lanka, the TNA leader made some bold statements, making it clear that he wanted to be a part of the island nation. A section of the TNA, which fragmented over the years, sided with him. After the war, he played a major role in highlighting internationally the horrific price the ordinary Tamils had to pay in Sri Lanka simply for being at the wrong place at the wrong time
-
-...
-
-[Data](articles/02e40a46.json)
-
-[Extended Data](ext_articles/02e40a46.ext.json)
-
----
-
-### Will the  Economic “Good News” From Paris and Beijing Help Ranil  Win the 2024 Presidential Poll  in Sri Lanka?
-
-*2024-07-04 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84319) · `en`
-
-Ranil  Wickremesinghe was appointed Prime Minister on 12 May 2022 by the then president Gotabaya Rajapaksa. Sri Lanka was in the grip of a debilitating economic crisis then. The “Aragalaya”(struggle) protest movement was raging. The new premier addressed the nation through a special statement on 16 May 2022. In that Wickremesinghe referred to Bertolt Brecht’s play “The Caucasian Chalk Circle”. This is what he said then –
-
-...
-
-[Data](articles/7940d96a.json)
-
-[Extended Data](ext_articles/7940d96a.ext.json)
-
----
-
-### பொருளாதார ” நற்செய்தி ” 2024 தேர்தலில் ரணிலுக்கு உதவுமா?
-
-*2024-07-04 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84334) · `en`
-
-ரணில் விக்கிரமசிங்க 2022 மே 12 ஆம் திகதி அன்றைய ஜனாதிபதி கோட்டாபய ராஜபக்சவினால் பிரதமராக நியமிக்கப்பட்டார். அப்போது இலங்கை படுமோசமான பொருளாதார நெருக்கடியில் சிக்கியிருந்தது.’ அறகலய போராட்டம் தீவிரமடைந்து கொண்டிருந்தது. புதிய பிரதமர் 2022 மே 16 ஆம் திகதி நாட்டு மக்களுக்கு விசேட உரையொன்றை ஆற்றினார். அந்த உரையில் விக்கிரமசிங்க  ஜேர்மன் நாடகாசிரியர் பேரொல்ற் பிறெற்றின் ‘ கோகேசியன் ஷோக் சேர்க்கிள் ‘ ( Caucasian Chalk Circle) என்ற நாடகம் பற்றி குறிப்பிட்டார்.
-
-...
-
-[Data](articles/4fca80c0.json)
-
-[Extended Data](ext_articles/4fca80c0.ext.json)
-
----
-
-### KPMG and Indo-Lanka collaboration
-
-*2024-07-04 00:28:03* · [`dailyftlk`](https://www.ft.lk/business/KPMG-and-Indo-Lanka-collaboration/34-763805) · `en`
-
-President Ranil Wickremesinghe with a smile in conversation with KPMG India’s CEO Yezdi Nagporewalla (right) and KPMG Sri Lanka Managing Partner Priyanka Jayatilake at the inauguration of KPMG All India Partner’s Meet 2024 in Colombo recently
-
-KPMG in India hosted its 31st All India Partners Meet (AIPM) 2024 in Colombo recently, as over 600 partners attached to KPMG in India in the subcontinent enjoying scenic Sri Lanka. Addressing the gathering was the President of Sri Lanka Ranil Wickremesinghe, who stressed on the importance of a strong collaboration with India to achieve the country’s development goals as the country is progressing on its recovery journey.
-
-...
-
-[Data](articles/82a2fe90.json)
-
-[Extended Data](ext_articles/82a2fe90.ext.json)
-
----
-
-### Sri Lanka strikes restructuring agreement with bondholders
-
-*2024-07-04 00:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100278/sri-lanka-strikes-restructuring-agreement-with-bondholders) · `en`
-
-(Reuters) - Sri Lanka has secured a deal to move forward on restructuring about $12.5 billion of international bonds, the government said on Wednesday, a major step in the island nation’s fragile recovery from a severe financial crisis.
-
-The South Asian country defaulted for the first time on its foreign debt in May 2022 after its economy was driven to the brink by a slump in foreign exchange reserves.
-
-Restructuring international bonds was one of the key conditions set by the International Monetary Fund (IMF) under a $2.9 billion bailout programme that helped Sri Lanka tame inflation, stabilise its currency, and improve public finances.
-
-The deal with selected bondholders, who cover about 50% of Sri Lanka’s bonds, is contingent on confirmation by the Official Creditor Committee (OCC) made up of bilateral creditors and the IMF to ensure it is in line with the global lender’s debt sustainability analysis for the country.
-
-...
-
-[Data](articles/802ef3a2.json)
-
-[Extended Data](ext_articles/802ef3a2.ext.json)
-
----
-
-### Sri Lanka strikes restructuring agreement with bondholders - report
-
-*2024-07-04 00:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100278/sri-lanka-strikes-restructuring-agreement-with-bondholders-report) · `en`
-
-(Bloomberg) -- Sri Lanka and creditors reached agreement on the terms for a $12 billion bond restructuring, bringing the South Asian nation closer to completing its debt overhaul two years after it defaulted.
-
-Bondholders and the nation agreed to a framework for a deal that includes notes linked to economic performance and a governance-linked structure as part of plain vanilla instruments, according to a statement released Wednesday at the conclusion of the second round of restricted talks.
-
-The deal marks the culmination of more than a year of difficult negotiations between Sri Lanka and its bondholders as officials took steps to rehabilitate the nation’s fiscal health. It will help restore access to international capital markets after the island nation fell into a default in 2022, and help Sri Lanka tap further funding from the International Monetary Fund.
-
-...
-
-[Data](articles/832d1fcf.json)
-
-[Extended Data](ext_articles/832d1fcf.ext.json)
 
 ---

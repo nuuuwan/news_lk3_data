@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 14:54:30**
+As of **2024-07-04 15:05:06**
 
 ## Newspaper Stats
 
-*Scraped **33,649** Articles*
+*Scraped **33,652** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,972
 dailyftlk | 2,084
-adalk | 3,008
+adalk | 3,009
 adaderanalk | 3,840
 tamilmirrorlk | 3,980
 dailymirrorlk | 4,733
 virakesarilk | 5,262
-adaderanasinhalalk | 5,577
+adaderanasinhalalk | 5,579
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,648 (100.0%) of 33,649 articles have been extended.
+33,649 (100.0%) of 33,652 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### ලෝක ශූරයින්ට උණුසුම් පිළිගැනීමක්
+
+*2024-07-04 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198482) · `si`
+
+වසර 17කට පසු 20 -20 ලෝක කුසලානය දිනාගත් රෝහිත් ශර්මා ප්‍රමුඛ ලෝක ශූර ඉන්දීය කණ්ඩායම අද (04) උදෑසන නවදිල්ලිය වෙත පැමිණියේය.
+
+ලෝක ශූර ඉන්දීය කණ්ඩායම ඉන්පසු ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදිවද හමුවිය.
+
+ලෝක කුසලානය ජයග්‍රහණය වෙනුවෙන් පවත්වන සැමරුම ඉන්දියාවේ මුම්බායි නුවරදි අද පස්වරු 5ට පැවැත්වීමට නියමිත ය.
+
+අමෙරිකාවේ සහ බටහිර ඉන්දීය කොදෙව් දූපත්හි පැවති 2024 විස්සයි විස්ස ලෝක කුසලාන තරගාවලිය  දකුණු අප්‍රිකාව පරාජය කරමින් තමා සතු කරගැනීමට ඉන්දියාව පසුගිය සෙනසුරාදා සමත්වුණි.
+
+නමුත් කැරිබියානු කලාපයට බලපා තිබු සුළි කුණාටු සහ අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් ගුවන් ගමන් අත්හිටුවා තිබීම නිසා ලෝක ශූර ඉන්දීය කණ්ඩායමට සිය රටට පැමිණීමට නොහැකිව දින 3ක් පමණ බාබෙඩෝස් රැඳී සිටීමට සිදුවිය.
+
+ඉන්පසු එයාර් ඉන්දියා විශේෂ ගුවන් යානයක් ඊයේ දිනයේදී බාබෙඩෝස් වෙත ළඟා වූ අතර එම ගුවන් යානයෙන් ලෝක ශූර ඉන්දීය කණ්ඩායම අද උදෑසන 6ට පමණ දිල්ලිහි ඉන්දිරා ගාන්ධි ජාත්‍යන්තර ගුවන්තොටුපොළට පැමිණියේ පැමිණියේය.
+
+...
+
+[Data](articles/62709e61.json)
+
+---
+
+### රේගු වැඩවර්ජනය අත්හිටුවයි
+
+*2024-07-04 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198481) · `si`
+
+ශ්‍රී ලංකා රේගු වෘත්තීය සමිති වැඩවර්ජනය අත්හිටුවීමට තීරණය කර තිබේ.
+
+ඒ මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා සමග පැවති සාකච්ඡාවකින් අනතුරුවය.
+
+◼️
+
+[Data](articles/59fc71af.json)
+
+---
 
 ### Custom officers call off trade union action
 
@@ -38,9 +74,31 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Sri Lanka Customs trade unions have decided to call off their trade union action following discussions with the State Minister of Finance Ranjith Siyambalapitiya.
 
+The trade unions including the Customs Officers’ Union had decided to engage in trade union action by reporting ‘sick leave’ today (3) and tomorrow (4), in protest over the lack of a satisfactory response to their demands from the authorities.
+
+A spokesman for the union had said that the union’s members engaged in this trade union action to protest against the authorities’ arbitrary decision to introduce the Sri Lanka Revenue Authority (SLRA) Bill and make amendments to various sections of the Customs Ordinance.
+
+He added that customs officials have been engaging in a “work-to-rule” trade union action for the past two days because discussions with authorities on several occasions did not provide any necessary solutions to their demands.
+
 ◼️
 
 [Data](articles/fdc90b67.json)
+
+[Extended Data](ext_articles/fdc90b67.ext.json)
+
+---
+
+### PHI මහත්තයා ඝාතනයට සැකකාර වෙඩික්කරු අත්අඩංගුවට
+
+*2024-07-04 14:14:26* · [`adalk`](https://www.ada.lk/breaking_news/PHI-මහත්තයා-ඝාතනයට-සැකකාර-වෙඩික්කරු-අත්අඩංගුවට/11-410612) · `si`
+
+ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරික රොෂන් කුමාර මහතා ඝාතනය කිරීමේ සිදුවීමට අවශ්‍යව සිටි වෙඩික්කරු බවට සැක කෙරෙන පුද්ගලයා ගිනිඅවි දෙකක් ද සමග ගල්කිස්ස ප්‍රදේශයේ දී අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+රොෂන් කුමාර මහතා ඉකුත් පෙබරවාරි 26 වනදා උදෑසන වෙඩිතබා ඝාතනය කර සැකකරුවන් යතුරුපැදියකින් පළාගොස් තිබුණි.
+
+◼️
+
+[Data](articles/c9e0376c.json)
 
 ---
 
@@ -2153,73 +2211,5 @@ The event, titled ‘Pathways to Sustainability: Entrepreneur’s Showcase,’ m
 [Data](articles/362e93d1.json)
 
 [Extended Data](ext_articles/362e93d1.ext.json)
-
----
-
-### Substantial foreign purchasing of Windforce stocks exerts salutary impact on CSE
-
-*2024-07-03 23:23:00* · [`islandlk`](http://island.lk/substantial-foreign-purchasing-of-windforce-stocks-exerts-salutary-impact-on-cse/) · `en`
-
-Stock market activities were somewhat dull yesterday but indicated some substantial foreign purchasing in Windforce stocks. On the previous day, Tundra Sustainable Frontier Fund picked up 27.3 million shares of Windforce for Rs. 547 million, further increasing its stake.
-
-Overall, Windforce saw 29.5 million shares change hands for Rs. 590.7 million, accounting for 32 percent of the turnover on the previous day. The block of 27.36 million shares were done at Rs. 20 each via two crossings. The share gained by 20 cents.
-
-Tundra entered Windforce via the IPO and as at March 31, 2024 held 70.5 million shares or a 5.22 percent stake as the fourth largest shareholder. It is likely to have increased the stake to over 7% following yesterday’s purchase.
-
-...
-
-[Data](articles/57be6d49.json)
-
-[Extended Data](ext_articles/57be6d49.ext.json)
-
----
-
-### Kidney patients with whitening creams
-
-*2024-07-03 23:16:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளையாக்கும்-க்ரீம்களால்-அதிகரிக்கும்-சிறுநீரக-நோயாளர்கள்/175-339842) · `ta`
-
-The health department reports a rise in kidney disease cases linked to excessive use of skin-whitening creams, surpassing cancer incidence. Dr. Indira Kahwitta highlights a program aiming to eliminate mercury, a key ingredient in many creams, due to its harmful effects on kidneys. In her examination of 60 patients from 40 clinics, 10% presented issues related to these creams, showing symptoms like dark palms and discolored nails.
-
-🟩
-
-The health department said that the number of people with kidney disease has increased than the number of cancer -affected people with various types of creams used to whiten the skin.
-
-Dr. Indira Kahwitta, a leather therapist who attended a media briefing held at the Health Development Bureau today.
-
-“There is a program to eradicate mercury use between the World Health Organization and the Ministry of Health of Sri Lanka.
-
-Ie the amount of mercury should be zero. Now these are used in the same place not in the same place. Kidney diseases are increasing when excessive mercury is used in the body.
-
-“In 24 hours, I examined 60 patients from 40 clinics. Overall, 6 patients, ie 10%, come with problems with white creams.
-
-“Now I look at some things. For example, the palms of the palms become black. The most common factor for all of all white creams. Also, the nails turn brown, orange. This can cause casualties. ”. Remble
-
-◼️
-
-[Data](articles/de6261cf.json)
-
-[Extended Data](ext_articles/de6261cf.ext.json)
-
----
-
-### Fisherman's death in Jaffna
-
-*2024-07-03 23:04:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-முரல்-மீன்-குத்தி-மீனவர்-மரணம்/71-339841) · `ta`
-
-In Jaffna, a 29-year-old fisherman named Michael Colin Tino, father of two, tragically passed away while fishing near Gurunagar. The Jaffna police are investigating the cause of his death.
-
-🟩
-
-A fisherman who was fishing from Jaffna - Gurunagar has died
-
-The 29 -year -old Michael Colin Tino, the father of two children from Kurunagar, is known as Colin Tino.
-
-Jaffna police are conducting further investigations into the incident.. Remble
-
-◼️
-
-[Data](articles/ec68bec3.json)
-
-[Extended Data](ext_articles/ec68bec3.ext.json)
 
 ---

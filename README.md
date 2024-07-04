@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 12:53:33**
+As of **2024-07-04 13:05:02**
 
 ## Newspaper Stats
 
-*Scraped **33,637** Articles*
+*Scraped **33,638** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,47 +20,79 @@ adaderanalk | 3,837
 tamilmirrorlk | 3,979
 dailymirrorlk | 4,733
 virakesarilk | 5,260
-adaderanasinhalalk | 5,575
+adaderanasinhalalk | 5,576
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,631 (100.0%) of 33,637 articles have been extended.
+33,637 (100.0%) of 33,638 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### இன்றைய நாணய மாற்று விகிதம்
+### පාසල් ළමයෙකු ව අපයෝජනය කළ තිදෙනෙක් අත්අඩංගුවට
+
+*2024-07-04 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198478) · `si`
+
+යුක්තිය 2 මෙහෙයුමට සමගාමීව සෝදිසි මෙහෙයුමක් අද (04) උදෑසන අම්බලන්ගොඩ ආඳාදොළ ප්‍රදේශයේදී සිදුකළේය.
+
+එම මෙහෙයුමේදී පාසල් ශිෂ්‍යයෙක් අපහරණය කිරීම සම්බන්ධයෙන් සොයමින් සිටි සැකකරුවන් තිදෙනෙක් ද අත්අඩංගුවට ගැනීමට සමත්වී තිබේ.
+
+ඊට අමතරව එම මෙහෙයුමේදී වරෙන්තුකරුවන් 5 දෙනෙක්ද අත්අඩංගුවට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/8793b386.json)
+
+---
+
+### Today's currency exchange rate
 
 *2024-07-04 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/187657) · `ta`
 
-இன்று வியாழக்கிழமை (ஜூலை 04) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில்அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 299.6873 ஆகவும்,  விற்பனை விலை ரூபா 308.9221 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+On July 04, the US dollar's buying price was Rs 299.6873, and its selling price was Rs 308.9221 according to the Central Bank's rates.
+
+🟩
+
+Today (July 04), the US purchasing price of the US dollar was recorded at Rs 299.6873 and the sales price at Rs 308.9221, based on the Central Bank's currency exchange rate.
 
 ◼️
 
 [Data](articles/d7ebb3bc.json)
 
+[Extended Data](ext_articles/d7ebb3bc.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தலில் போட்டியிலிருந்து விலகப்போவதில்லை - பைடன் உறுதி
+### Not to quit the presidential election - Baidon confirmed
 
 *2024-07-04 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/187656) · `ta`
 
-ஜனாதிபதி தேர்தலில் போட்டியிடுவதிலிருந்து விலக வேண்டும் என  விடுக்கப்படும் வேண்டுகோள்களை ஏற்க மறுத்துள்ள அமெரிக்க ஜனாதிபதி ஜோ பைடன் தேர்தல் போட்டியை தொடரப்போவதாக குறிப்பிட்டுள்ளார்.
+Despite calls for him to withdraw from the presidential race, US President Joe Biden reaffirmed his commitment to continuing the election. This decision was announced during a meeting with Democratic Party governors. His campaign team emphasized that Biden intends to stay in the race until the end. However, a Reuters poll indicated that one-third of the Democratic Party believes Biden should step down due to his performance in the first debate against former President Donald Trump. Interestingly, 40% of registered voters still support Biden, showing no significant drop in support post-debate.
 
-ஜோ பைடன் தனது பிரச்சார குழுவினர் ஜனநாயக கட்சியின் நாடாளுமன்ற உறுப்பினர்கள் ஆளுநர்களுடனான சந்திப்பின்போது இதனை தெரிவித்துள்ளார்.
+🟩
 
-ஜோ பைடன் தான் போட்டியிலிருந்து விலகப்போவதில்லை என தெரிவித்தார் என இந்த விடயம் குறித்து நன்கறிந்த வட்டாரங்கள் தெரிவித்துள்ளன.
+US President Joe Bidan, who refused to accept the appeal to the presidential election, said he would continue the election.
 
-என்னை எவரும் வெளியே தள்ளவில்லை,நான் வெளியேறப்போவதில்லை இறுதிவரை தேர்தல் போட்டியில் நீடிப்பேன் என ஜோ பைடன் தெரிவித்தார் என அவரது பிரச்சார குழுவினர் தெரிவித்துள்ளனர்.
+Joe Bidan made this statement during a meeting with the governors of the Democratic Party.
 
-இதேவேளை ஜனாதிபதி ஜோபைடன் தேர்தல் போட்டியிலிருந்து விலகுவது குறித்து சிந்திக்கின்றாரா என்ற கேள்விக்கு பதிலளித்துள்ள வெள்ளை மாளிகையின் ஊடக செயலாளர்  நிச்சயமாக இல்லை என குறிப்பிட்டுள்ளார்.
+Joe Bidan said he would not quit the competition, sources in this regard.
+
+His propaganda team said that Joe Bidan said he would remain in the election match until the end.
+
+Responding to the question of whether President Jobitan is thinking of quitting the election, the White House media secretary has said that there is certainly not.
+
+The Reuters poll has revealed that one -third of the Democratic Party's conspiracy to quit US current president Joe Bidan from contesting as a Democratic presidential candidate.
+
+One third of the Democratic Party (Democratic Party) has said that he should quit his presidential election following Joe Bidan's stumbling block during the first direct debate with former President Donald Trump.
 
 ...
 
 [Data](articles/fa55ab29.json)
+
+[Extended Data](ext_articles/fa55ab29.ext.json)
 
 ---
 
@@ -150,21 +182,31 @@ Investigators also found a CCTV footage in a motorcycle with a motorcycle.
 
 ---
 
-### ஏன் பிரிட்டன் தமிழர்கள் லிபரல் ஜனநாயக கட்சியினருக்கு வாக்களிக்கவேண்டும் ?  கட்சி வேட்பாளர் பொபி டீன் விளக்கம்
+### Why should British Tamils ​​vote for the Liberal Democrats?Party candidate Bobby Dean Description
 
 *2024-07-04 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/187651) · `ta`
 
-இலங்கையின் பாதுகாப்பு படையின் பிரதானி சவேந்திரசில்வாவிற்கு எதிராகவும் அவரை போன்றவர்களிற்கு எதிராகவும்  கென்சவேர்ட்டிவ் கட்சியினர் மக்னிட்ஸ்கி பாணியிலான தடைகளை விதிக்கவேண்டும் என லிபரல் ஜனநாயக கட்சியினர் வேண்டுகோள் விடுத்துவந்துள்னர் என அந்த கட்சியின் கார்சல்டொன் வலிங்டன் வேட்பாளர் பொபி டீன் தெரிவித்துள்ளார்
+British Tamils should vote for the Liberal Democrats due to their strong support for the Tamil community, opposition to Sri Lankan security forces' abuses, calls for genocide recognition, and advocacy for individual rights against oppression. The party promises to impose sanctions, support arms sales restrictions, link financial aid to demilitarization efforts, and demand genuine reconciliation from the Sri Lankan government.
 
-லிபரல் ஜனநாயக கட்சியின் தலைவர் எட்டேவி தமிழ் சமூகத்தினை நீண்டகாலமாக ஆதரிப்பவர்.அவரது தலைமைத்துவத்தின் கீழ் கென்சவேர்ட்டிவ்கள் தமிழ் மக்களிற்கு எதிராக இழைக்கப்பட்ட குற்றங்களை இனப்படுகொலை என அங்கீகரிக்கவேண்டும்,குற்றங்களில் ஈடுபட்டவர்களை நீதிமன்றத்தில் நிறுத்தவேண்டும் என லிபரல் ஜனநாயக கட்சியினர் வலியுறுத்தி வந்துள்ளனர்.
+🟩
 
-நாங்கள் நீதிக்கான தேடலை நிறுத்த முடியாது என அவர் தெரிவித்துள்ளார் - அது மிகச்சரியானது.
+Liberal Democrats have appealed to the Kenzavertiv parties against Savendra Silva, the chief of the Sri Lankan security forces, and against him, the Liberal Democrats have called for the Liberal Democrats to impose obstacles.
 
-லிபரல் ஜனநாயக கட்சியினர் ஒடுக்குமுறைக்கு எதிரான தனிநபர்களின் உரிமைக்காக எப்போதும் குரல் கொடுத்துள்ளனர்.என்னை தெரிவு செய்தால் எனது தொகுதியிலும் நாடாளுமன்றத்திலும் தமிழ் சமூகத்திற்காக நான் பரப்புரை செய்வேன்.
+Liberal Democratic Party leader Etvevi has long supported the Tamil community. Under his leadership, Kenzhartis under his leadership has urged the Liberal Democratic Party to recognize the crimes committed against the Tamil people as genocide and to hold the crimes in court.
+
+He said we cannot stop the quest for justice - it is very good.
+
+The Liberal Democrats have always voiced the rights of individuals against oppression.
+
+It has been observed that the violence against Tamils ​​continues for the past five years - especially in the northeastern parts of Sri Lanka, where soldiers have been threatened.
+
+Sri Lanka's judicial department is defective. We have noticed that arbitrarily detention is continuing.
 
 ...
 
 [Data](articles/050f8343.json)
+
+[Extended Data](ext_articles/050f8343.ext.json)
 
 ---
 
@@ -210,19 +252,25 @@ Accordingly, the High Court judge, who allowed the Attorney General to submit ob
 
 ---
 
-### யாழ். கொண்டுசெல்லப்பட்ட சம்பந்தனின் பூதவுடலுக்கு மக்கள் அஞ்சலி
+### Yall. People pay tribute to Sampanthan's funeral
 
 *2024-07-04 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/187649) · `ta`
 
-மறைந்த  இலங்கைத் தமிழரசுக்கட்சியின் சிரேஷ்ட தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இராஜவரோதயம் சம்பந்தனின் பூதவுடல் மக்களின் அஞ்சலிக்காக இன்று வியாழக்கிழமை (04) கொழும்பிலிருந்து யாழ்ப்பாணத்திற்கு விமானம் மூலம் கொண்டு செல்லப்பட்டுள்ளது.
+Rajavarothayam Sampanthan, former TNA leader, was honored with a tribute ceremony in Jaffna after his death. His body was flown from Colombo to Jaffna, where mourners paid respects at the Father Selva Memorial from 10 AM to 4 PM.
 
-யாழ்ப்பாணம் பலாலி விமான நிலையத்திற்கு விமானம் மூலம் கொண்டு செல்லப்பட்ட சம்பந்தனின் பூதவுடல், யாழில் உள்ள தமிழரசுக் கட்சியின் தலைமையகத்தில் அஞ்சலிக்காக வைக்கப்பட்டது.
+🟩
 
-பின்னர் யாழ்ப்பாணத்தில் உள்ள தந்தை செல்வா நினைவிடத்தில் இன்று வியாழக்கிழமை (04) காலை 10.00 மணி முதல் மாலை 4.00 மணி வரை மறைந்த சம்பந்தனின் பூதவுடலுக்கு மக்கள் அஞ்சலி செலுத்த முடியும் என அறிவிக்கப்பட்டுள்ளது.
+The late Sri Lanka Tamil National Party (TNA) leader and Trincomalee district parliamentarian Rajavarothayam Sambandan was taken by plane from Colombo to Jaffna on Thursday (04).
+
+Sampanthan's funeral was taken to Jaffna Palali Airport at the headquarters of the Tamil National Party in Jaffna.
+
+It has been announced that the people will be able to pay tribute to the father of Sampanthan, who later disappeared from 10.00 am to 4.00 pm on Thursday (04) at the Father Selva Memorial in Jaffna.
 
 ◼️
 
 [Data](articles/c66f525a.json)
+
+[Extended Data](ext_articles/c66f525a.ext.json)
 
 ---
 
@@ -336,17 +384,29 @@ The 64-year-old motorcyclist killed in the accident.
 
 ---
 
-### ஜனாதிபதித் தேர்தல் : ஜனாதிபதியின் நிலைப்பாடு ! தேர்தலுக்கு இடைக்கால உத்தரவு குறித்த மனு மீது அரசாங்கம் கவனம்
+### Presidential election: President's position!The government focused on the petition on an interim order for the election
 
 *2024-07-04 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/187642) · `ta`
 
-2024ஆம் ஆண்டு ஜனாதிபதித் தேர்தலை நடத்துவதற்கு தேர்தல்கள் ஆணைக்குழுவின் உறுப்பினர்களுக்கு இடைக்கால தடை உத்தரவு பிறப்பிக்குமாறு கோரி சமிந்திர தயான் லெனவ என்பவர் உயர் நீதிமன்றத்தில் தாக்கல் செய்துள்ள மனு  குறித்து  அரசாங்கம் கவனம் செலுத்தியுள்ளது.
+Samindra Dayan Lenawa filed a petition in the Supreme Court seeking an interim injunction to halt preparations for the 2024 presidential election, citing constitutional articles. The government, however, asserts that the Election Commission has already initiated steps for the election during the president's term. President Ranil Wickremesinghe criticized the petitioner for not consulting him or his legal team before filing the petition.
 
-மேற்படி மனுவை தாக்கல் செய்வதன் மூலம், இலங்கை ஜனநாயக சோசலிச குடியரசின் அரசியலமைப்பின் பிரிவு 12(1), 82(6), 3, 4, 118 மற்றும் 125 ஆகிய பிரிவுடன் வாசிக்கப்பட வேண்டிய 126 இன் படி அரசியலமைப்பின் 19ஆவது திருத்தத்தின் 3ஆம் பிரிவின் ஊடாகத்  திருத்தப்பட்ட பிரிவு 30(2)ஐ வியாக்கியானம் செய்யக்கூடாது என குறித்த மனுவில் குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-...
+The government has focused on the petition filed by Samindra Dayan Lenawa in the Supreme Court demanding an interim injunction to members of the Election Commission to hold the 2024 presidential election.
+
+By filing the petition, Article 30 (2) of the Constitution of the Constitution is aimed at Article 126, 82 (6), 3, 4, 118 and 125 of the Constitution of the Constitution.The petition is noted not to do.
+
+The petitioner has requested the Election Commission to issue an interim injunction to prevent further work on holding the 2024 presidential election until the Supreme Court has announced the decision to hold the next presidential election, considering the presidential term of six years.
+
+President Ranil Wickremesinghe has said that the petitioner did not consult or consult with his lawyers before filing the petition.
+
+President Ranil Wickremesinghe has announced that it is correct that the Election Commission has taken steps to hold the 2024 presidential election in the presidential period.
+
+◼️
 
 [Data](articles/1ac14e0f.json)
+
+[Extended Data](ext_articles/1ac14e0f.ext.json)
 
 ---
 
@@ -1168,15 +1228,25 @@ The Secretary of the Ministry has issued this notification by issuing a circular
 
 ---
 
-### සුමනා ජයතිලක: 'හඳ නැන්දා' නිහඬ වෙයි
+### Sumana Jayatilleke: 'Aadata Aunt' silence
 
 *2024-07-04 06:25:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51yex3wg5do) · `si`
 
-"1963 වසර වෙද්දී වෙළෙඳ සේවයට ළමා වැඩසටහනක් තිබුණෙ නෑ. මේක අඩුවක් වගේ දැනුණා ඒ කාලෙ වෙළෙඳ සේවයේ අධ්‍යක්ෂ විදිහට වැඩ කරපු ලිවී ආර්. විජේමාන්න මහත්මයාට. එතුමා මට යෝජනා කළා ළමා වැඩසටහනක් කරන්න, 'ළමා පිටිය'ට වඩා වෙනස් විදිහට කියලා. ඒ අනුව මම යෝජනා කළා මේක සඟරාමය ස්වරූපයෙන් කරන්න ඕන කියලා. මේ වැඩසටහනට නිෂ්පාදකයා හැටියට වෙළෙඳ සේවයේ එවකට හිටිය ජ්‍යෙෂ්ඨතම වැඩසටහන් සම්පාදක කේ.ඒ.ඩබ්ලිව්. පෙරේරා මහත්මයාට මං ස්තුතිවන්ත වෙනවා, එතුමා තමයි අපි නම් කීපයක් යෝජනා කරනකොට "සුමනා නරක ද හඳමාමා කියල දැම්මොත්" කියලා. ඒක ඉතා ම හොඳ දෙයක්. මොක ද දරුවන්ගේ ඉතා ම ආදරණීය සංකේතයක් හඳමාමා. ඒ නිසා මමත් කැමති වෙලා ඒක හොඳයි කියලා ඒක පටන් ගත්තා," ලෝකයේ වැඩි ම කාලයක් අඛණ්ඩව විකාශය කළ ගුවන් විදුලි වැඩසටහන ලෙස ඇතැමුන් හදුන්වන හඳමාමා ගුවන් විදුලි වැඩසටහනේ ආරම්භය ගැන එහි ආරම්භ නිවේදිකා සුමනා ජයතිලක ආවර්ජණය කර තිබුණේ, එහි 50 වන සංවත්සරය නිමිත්තෙන් වෙළෙඳ සේවයේ විකාශය කෙරුණු වැඩසටහනකදී ය.
+Sumana Jayatilleke, known as 'Aadata Aunt,' revolutionized children's programming in Sri Lanka with the launch of the "Handunmata" program in 1963. Despite facing personal challenges, including a sudden illness that led to her death, she left a lasting impact on the broadcasting industry. Her legacy continues through the enduring popularity of the "Handunmata" program, which remains a cherished part of Sri Lankan culture.
+
+🟩
+
+"By 1963, the trade service had not had a children's program. This was no less felt like the Director of the Mercantile Director. For Mr. Wijemanne. He suggested me to make a childhood program, different from 'childhood'. Accordingly, I suggested that we wanted to do this in the form of. This program as the manufacturer in the market, KAW. I thank Mr. Perera, when he suggests a few of us, "Sumana is bad and the Handunmma. That's a very good thing. What is a very dear symbol of children. So I liked it was good, "Amenitian Sumana Jayatilleka has been able to mark the start of the 50th anniversary of the world,"In a program.
+
+The personality was silenced for more than six decades of suddenness, as a sudden sudden illness, as a sudden illness.
+
+"Mom was very strong in the last days. At the end of the end work. This happened in a week after suddenly ill. Mother said, "BBC, a lot of love, a loved one," said in a daughter of Sumana Jayatilleke, with BBC Sinhala service.
 
 ...
 
 [Data](articles/311cb5b0.json)
+
+[Extended Data](ext_articles/311cb5b0.ext.json)
 
 ---
 
@@ -2177,39 +2247,5 @@ It is noteworthy that the MP Sridharan's media unit has announced that steps wil
 [Data](articles/0ef37af5.json)
 
 [Extended Data](ext_articles/0ef37af5.ext.json)
-
----
-
-### What happened to the student and the student looking for CCTV
-
-*2024-07-03 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198456) · `si`
-
-Two 15-year-olds from different schools, both residents of Colombo, visited a bodybuilding center in a luxury apartment complex. Their bodies were later found on the third floor, having transferred from the 67th floor. They were in a romantic relationship, and police are investigating the cause of death, ruling out suicide or accident.
-
-🟩
-
-A 15-year-old student and a 15-year-old girl was killed in a 15th floor of the Altable Luxury Apartment Complex at Slave Island.
-
-The two were in the same class of the 10th grade of the International School in Colombo 7.
-
-The student and student had arrived at a Bodybuilding Center on the fifth floor of the luxury flag.
-
-They transfer clothes, removed the shoes, and their school bags have gone to the 67th floor of the housing complex.
-
-Later, their bodies found the air conditioners at the 3rd floor of the apartment complex.
-
-The victim was a resident of Wellawatte and the student is a resident of Kelaniya.
-
-Police investigations revealed that they had also a romantic relationship.
-
-The parents of the students who died of the deceased have been recorded by Slaveland Street Police today.
-
-There is no suicide, or whether these deaths are suicide, or an accident regarding the incident.
-
-◼️
-
-[Data](articles/db55354c.json)
-
-[Extended Data](ext_articles/db55354c.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 17:05:26**
+As of **2024-07-04 17:19:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,583
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,666 (100.0%) of 33,668 articles have been extended.
+33,668 (100.0%) of 33,668 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -38,9 +38,17 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The Supreme Court today issued an interim injunction order preventing the implementation of the Gazette notification issued by the Labour Minister increasing the daily wage of the plantation employee to Rs. 1,700.
 
-◼️
+A petition had been filed by plantation companies seeking an order invalidating the gazette notification issued by the Minister of Labor stipulating a minimum daily wage for plantation workers.
+
+The petition had been filed by 21 plantation companies including Agarapatana Plantations Ltd while the petitioners have named 52 individuals including Minister of Labor Manusha Nanayakkara and the Labor Commissioner as respondents of the case.
+
+The petitioning plantation companies point out that the Minister of Labor has issued a gazette notification setting the minimum daily wage of a plantation worker at Rs. 1,350, together with an allowance of Rs. 300 and another allowance of Rs. 80, as minimum wage.
+
+...
 
 [Data](articles/a220fe80.json)
+
+[Extended Data](ext_articles/a220fe80.ext.json)
 
 ---
 
@@ -1110,17 +1118,25 @@ He is said to have bribed the person to give money from the person to provide a 
 
 ---
 
-### ජනපතිගේ ධුර කාලය වසර 5යි
+### President's term of office is 5 years
 
 *2024-07-04 10:37:33* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-ධුර-කාලය-වසර-5යි/11-410606) · `si`
 
-2024 වසරේදී ජනාධිපතිවරණයක් පැවැත්වීම සඳහා ඉදිරි පියවර ගැනීම වළක්වාලමින් මැතිවරණ කොමිෂන් සභාවේ සාමාජිකයින් වෙත අතුරු තහනම් නියෝගයක් නිකුත් කරන ලෙස ඉල්ලමින් චමින්ද්‍ර දයාන් ලේනව යන අය විසින් ශ්‍රේෂ්ඨාධිකරණය වෙත ගොනු කර ඇති පෙත්සම පිළිබඳ රජයේ අවධානය යොමුව තිබේ.
+In 2024, Sri Lanka faces a pivotal moment with the Supreme Court reviewing a petition by Chaminadra Dayan Legal regarding the presidential election timeline. The 19th Amendment to the Constitution mandates a 6-year presidential term, but the current focus is on holding elections within 5 years due to the amendment's revision. Despite this, the Election Commission's stance and President Ranil Wickremesinghe's position remain unclear, awaiting further developments from the Supreme Court.
 
-අදාළ පෙත්සම ගොනු කරමින් පෙත්සම්කාර පාර්ශ්වය ඉල්ලා තිබෙන්නේ ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජයේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 12(1), 82(6), 3, 4, 118 සහ 125 වගන්ති සමඟ කියවිය යුතු 126 වැනි වගන්ති ප්‍රකාරව, ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනයෙහි 3 වන වගන්තිය මගින් සංශෝධනය කරන ලද 30(2) වැනි වගන්තිය අර්ථ නිරූපනය නොකළ යුතු බවට වන නියෝගයක් නිකුත් කරන ලෙසත්, ඒ අනුව ජනාධිපතිවරයාගේ ධුර කාලය වසර 6ක් බව සැලකිල්ලට ගනිමින් මැතිවරණ කොමිෂන් සභාව මීළඟ ජනාධිපතිවරණය පැවැත්විය යුතු බැවින් ශ්‍රේෂ්ඨාධිකරණය විසින් මේ පිළිබඳ අවසන් තීන්දුව ප්‍රකාශයට පත් කරන තුරු 2024 වසරේදී ජනාධිපතිවරණයක් පැවැත්වීම සඳහා ඉදිරි පියවර ගැනීම වළක්වාලමින් මැතිවරණ කොමිෂන් සභාවේ සාමාජිකයින් වෙත අතුරු තහනම් නියෝගයක් නිකුත් කරන ලෙසත් ය.
+🟩
+
+In 2024, the government is focusing on the petition filed by Chaminadra Dayan Legal to the Supreme Court, preaching the presidential election in 2024.
+
+Section 3 of the 19th Amendment to the Constitution of the Constitution of the Democratic Socialist Republic of Sri Lanka, the Constitution of the Democratic Socialist Republic of Sri Lanka (Petitial Socialist Republic of Sri Lanka) has filed the petition.The next Presidential Election should be held in the year 2024, as the Presidential Election should be held for the next presidential election, considering that the Presidential Election should be held for the next presidential election, considering that the Presidential term was appointed as six years as a revised.The members of the Election Commission preclude to hold a presidential election.
+
+President Ranil Wickremesinghe has stated that the petitioner has not had any comments or advice on the petition before filing the petition before the Supreme Court.
 
 ...
 
 [Data](articles/e48c17f6.json)
+
+[Extended Data](ext_articles/e48c17f6.ext.json)
 
 ---
 

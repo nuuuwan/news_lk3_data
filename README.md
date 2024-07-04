@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 09:35:10**
+As of **2024-07-04 09:54:38**
 
 ## Newspaper Stats
 
-*Scraped **33,597** Articles*
+*Scraped **33,598** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,833
 tamilmirrorlk | 3,974
 dailymirrorlk | 4,733
 virakesarilk | 5,252
-adaderanasinhalalk | 5,566
+adaderanasinhalalk | 5,567
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,597 (100.0%) of 33,597 articles have been extended.
+33,597 (100.0%) of 33,598 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### ඉන්දියාවේ තවත් ඛේදවාචකයක්
+
+*2024-07-04 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198469) · `si`
+
+වායූ දුෂණය හේතුවෙන් සෑම වසරකම ඉන්දියාව තුළ මරණ 33,000ක් පමණ සිදුවන බවට අනාවරණය වී තිබේ.
+
+"Lancet Plenary Health" සඟරාවේ වාර්තාවක් මඟින් මෙය අනාවරණය වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ඉන්දියාවේ නගර 10ක් තුළ වායූ දූෂණය හේතුවෙන් මරණ වාර්තාවීම් සිදුව තිබේ.
+
+අහමාදාබාද්, බැංග්ලෝර්, චෙන්නායි, දිල්ලි, හයිද්‍රාබාද්, කොල්කටා, මුම්බායි, පූණේ, ශිම්ලා සහ වරණාසි යන නගරවලින් එම මරණ වාර්තා වී ඇති බව සඳහන්ය.
+
+ඉන්දියාවේ වාතයේ ගුණාත්මකභාවය ලෝක සෞඛ්‍ය සංවිධානයේ සම්මතයන් ඉක්මවා ගොස් ඇති බව ද අදාළ වාර්තාව මඟින් පෙන්වා දී තිබේ.
+
+◼️
+
+[Data](articles/a41ece52.json)
+
+---
 
 ### Thirumalai Soil
 
@@ -2287,31 +2307,5 @@ Sarath Fonseka has requested that all Sri Lankans abandon all the differences an
 [Data](articles/733ce862.json)
 
 [Extended Data](ext_articles/733ce862.ext.json)
-
----
-
-### Girl killed in Dansale
-
-*2024-07-03 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198446) · `si`
-
-Siani Memond, a 9-year-old from Panadura, tragically passed away during treatment at Colombo's Lady Ridgeway Children's Hospital after being injured at a rice dansala event marking Poson Poya.
-
-🟩
-
-A 9-year-old schoolgirl, who was receiving treatment at the Ridgeway Hospital, Colombo has been receiving treatment at the Ridgeway Children's Hospital in Colombo.
-
-The deceased has been identified as Siani Memond, Panadura, Panadura.
-
-On Thursday, a rice dansala was held on Thursday to mark the Poson Poya.
-
-The girl who was seriously injured were admitted to the Panadura Base Hospital, she was transferred to the Lady Ridgeway Children's Hospital as her condition was serious.
-
-The girl had died while receiving treatment at the Lady Ridgeway Lady Children's Hospital in Colombo.
-
-◼️
-
-[Data](articles/3d6852fb.json)
-
-[Extended Data](ext_articles/3d6852fb.ext.json)
 
 ---

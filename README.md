@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 02:35:17**
+As of **2024-07-05 02:52:38**
 
 ## Newspaper Stats
 
-*Scraped **33,722** Articles*
+*Scraped **33,723** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,985
 dailyftlk | 2,088
 adalk | 3,018
 adaderanalk | 3,849
-tamilmirrorlk | 3,989
+tamilmirrorlk | 3,990
 dailymirrorlk | 4,733
 virakesarilk | 5,278
 adaderanasinhalalk | 5,589
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,722 (100.0%) of 33,722 articles have been extended.
+33,722 (100.0%) of 33,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### ’தேர்தலை ஒத்திவைக்க முயற்சி’
+
+*2024-07-05 02:17:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-ஒத்திவைக்க-முயற்சி/175-339893) · `ta`
+
+ஜனாதிபதியும் அவரது அடிமைகளும் தேர்தலை ஒத்திவைக்க முயற்சி செய்து வருகின்றனர் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ குற்றஞ்சாட்டியுள்ளார்.
+
+ஜனாதிபதியையும் அரசாங்கத்தையும் பிரதிநிதித்துவப்படுத்தும் அடிமைகளும், கையாட்களும், சகாக்களும் நாட்டுக்கு எதிர்மறையான செய்திகளை முன்வைத்து ஜனாதிபதி தேர்தலை நடத்துவது பொருத்தமற்றது என்ற கருத்தை கடந்த காலங்களில் உருவாக்கி வந்தனர்.
+
+பல சந்தர்ப்பங்களில் ஜனாதிபதித் தேர்தலை நடத்துவதற்கு இது சரியான தருணம் அல்ல என மக்களை நம்பவைக்கும் வகையில் அரசியல் செயற்திட்டமொன்றை முன்னெடுக்க ஜனாதிபதியும் அவருக்கு நெருக்கமான குழுக்களும் முயற்சித்ததாகவும் எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+இவ்வாறான நிலையில் இன்று சட்ட ரீதியாகவும் அரசியலமைப்பு ரீதியாகவும் நடத்தப்பட வேண்டிய ஜனாதிபதி தேர்தலை பறிக்க மேலும் பல முயற்சிகள் ஆரம்பிக்கப்பட்டுள்ளன. இவை அனைத்தும் அரசியலமைப்பை மீறும் சதிகளாகும் என்றார்.
+
+...
+
+[Data](articles/676f53fe.json)
+
+---
 
 ### Massive fire in the garden of peppermint
 
@@ -2299,29 +2317,5 @@ President Ranil Wickremesinghe has stated that the petitioner has not had any co
 [Data](articles/e48c17f6.json)
 
 [Extended Data](ext_articles/e48c17f6.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 304.50/70 to US dollar
-
-*2024-07-04 10:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-304-50-70-to-us-dollar-170810/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 304.50/70 to the US dollar on Thursday, while bond yields were broadly steady, and stocks opened 0.50 percent up, dealers said.
-
-The rupee closed at 304.20/50 to the greenback on Wednesday.
-
-A bond maturing on 15.12.2026 was quoted at 10.75/80 percent, down 10.70/85 percent.
-
-A bond maturing on 01.05.2028 was quoted at 11.85/90 percent.
-
-A bond maturing on 15.09.2029 was quoted at 11.95/12.05 percent, down from 12.10/20 percent.
-
-In equities, Colombo’s All Share Price Index opened 59.82 points higher at 12,096, while the S&P SL20 of more liquid stocks opened up at 0.90percent or 31.79 points to 3,575.
-
-◼️
-
-[Data](articles/178cb855.json)
-
-[Extended Data](ext_articles/178cb855.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 01:19:37**
+As of **2024-07-05 01:35:04**
 
 ## Newspaper Stats
 
-*Scraped **33,718** Articles*
+*Scraped **33,719** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 332
 newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,985
-dailyftlk | 2,087
+dailyftlk | 2,088
 adalk | 3,018
 adaderanalk | 3,849
 tamilmirrorlk | 3,986
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,717 (100.0%) of 33,718 articles have been extended.
+33,718 (100.0%) of 33,719 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### Why parate is so hot these days
+
+*2024-07-05 01:18:28* · [`dailyftlk`](https://www.ft.lk/opinion/Why-parate-is-so-hot-these-days/14-763851) · `en`
+
+Once the parate is abolished as proposed, the borrowers who are repaying satisfactorily will also, without thinking twice, refrain from repaying their loans
+
+As reported by Daily FT on 25 June, at an awareness conference organised by the Ceylon Federation of MSMEs on ‘Business debt and finance management’, Justice Minister Dr. Wijeyadasa Rajapakshe had proposed two solutions to balance the relationship between banks and industries. One was to abolish the parate law and the other was to provide opportunities for distressed customers to restructure their credit lines.
+
+Abolishing the parate right given to banks has come again to the platform after a couple of months. What is this parate right which is given only to the banks by our legislation?
+
+...
+
+[Data](articles/844df26a.json)
+
+---
 
 ### Finance Ministry on Sri Lanka’s International Sovereign Bond Restructuring
 
@@ -47,6 +63,8 @@ The baseline scenario results in a NPV effort of 40% at a discount rate of 11% w
 ...
 
 [Data](articles/24c9293b.json)
+
+[Extended Data](ext_articles/24c9293b.ext.json)
 
 ---
 
@@ -2307,31 +2325,5 @@ Five suspects have been arrested in connection with the assault. Talawa Police a
 [Data](articles/eb94aa1f.json)
 
 [Extended Data](ext_articles/eb94aa1f.ext.json)
-
----
-
-### Where the teacher's immunition will be stopped
-
-*2024-07-04 10:13:15* · [`adalk`](https://www.ada.lk/breaking_news/ගුරුවරියගේ-ඉමිටේෂන්-මාලයට-රැවටුන-මාල-හොරා-නැවතුන-තැන/11-410603) · `si`
-
-A youth was arrested after assaulting a teacher in Sri Lanka. The incident occurred when the teacher confronted the suspect over a stolen necklace. The victim was attacked with chili powder in his face. Neighbors intervened, leading to the arrest of a 31-year-old from Uvawalawatte and a 27-year-old from Colombo. Further investigations are being conducted by senior police officers.
-
-🟩
-
-The Hingiyakaduwa Police have arrested a youth who fled to the face of a teacher at a cost of Rs.
-
-The arrested were a 31 year old resident of Uvawalawatte, Uvapalwatta, police said.
-
-At a 27 year old resident of Colombo, a 27 year old resident of the Hingiyaaduwa area in the bus.The police said that the teacher had fled the necklace in chilli-face to the teacher.
-
-The teacher has shouted and the neighbors have been assaulted and subsequently laid by the village, police said.
-
-Senior Superintendent of Police of Badulla, Wasantha Kudasha Kudasara Police Superintendent of Police Dilip de Silva, Dilipaduwa Police Street Police, and other officials will be conducting further investigations.
-
-◼️
-
-[Data](articles/200cff59.json)
-
-[Extended Data](ext_articles/200cff59.ext.json)
 
 ---

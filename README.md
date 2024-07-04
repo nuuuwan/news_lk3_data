@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 07:47:49**
+As of **2024-07-04 08:02:14**
 
 ## Newspaper Stats
 
-*Scraped **33,579** Articles*
+*Scraped **33,580** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,880
 economynextcom | 1,967
 dailyftlk | 2,083
 adalk | 2,996
-adaderanalk | 3,829
+adaderanalk | 3,830
 tamilmirrorlk | 3,969
 dailymirrorlk | 4,733
 virakesarilk | 5,250
@@ -26,11 +26,33 @@ adaderanasinhalalk | 5,562
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,579 (100.0%) of 33,579 articles have been extended.
+33,580 (100.0%) of 33,580 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### Several spells of showers expected in parts of the island
+
+*2024-07-04 07:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100279/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers will occur at times in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Several spells of showers may occur in North-western province and in Kandy, Nuwara-Eliya districts.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night.
+
+Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/77684d12.json)
+
+[Extended Data](ext_articles/77684d12.ext.json)
+
+---
 
 ### OIC attacked with a sharp weapon
 
@@ -2299,27 +2321,5 @@ Kahanthawela has been appointed as the organizer of the Central Colombo constitu
 [Data](articles/44175e69.json)
 
 [Extended Data](ext_articles/44175e69.ext.json)
-
----
-
-### LIOC begins retailing 100 octane petrol in Sri Lanka
-
-*2024-07-03 12:34:00* · [`economynextcom`](https://economynext.com/lioc-begins-retailing-100-octane-petrol-in-sri-lanka-170679/) · `en`
-
-ECONOMYNEXT – Lanka Indian Oil Company began selling a 100 octane premium petrol product in the Sri Lanka market on Tuesday, the island nation’s Minister of Power and Energy said.
-
-Chairman of Lanka IOC and the senior management met the minister earlier this week.
-
-“We discussed the development plans of the retail outlet network of LIOC, tank farm development, lubricant market, fuel pricing formula and the proposed oil pipeline between India and Sri Lanka,” Kanchana Wijesekera said on X (twitter).
-
-After this month’s price revision, octane 92 petrol sells at 344 rupees a litre, and octane 95 petrol was at 379 rupees.
-
-Higher octane fuel is mostly used in high-performance engines. (Colombo/Jul3/2024)
-
-◼️
-
-[Data](articles/df66a404.json)
-
-[Extended Data](ext_articles/df66a404.ext.json)
 
 ---

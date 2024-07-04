@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 03:53:30**
+As of **2024-07-05 04:05:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,729 (100.0%) of 33,736 articles have been extended.
+33,736 (100.0%) of 33,736 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ The former Health Minister is currently held in remand custody over allegations 
 
 [Data](articles/e50ada61.json)
 
+[Extended Data](ext_articles/e50ada61.ext.json)
+
 ---
 
 ### Attorney General opposes bail for Hirunika in ongoing appeal
@@ -72,6 +74,8 @@ Premachandra was convicted on 18 charges, including conspiracy, aiding in the ab
 
 [Data](articles/94f5778e.json)
 
+[Extended Data](ext_articles/94f5778e.ext.json)
+
 ---
 
 ### Israel Ambassador calls on President
@@ -83,6 +87,8 @@ The Ambassador of Israel to India, Sri Lanka, and Bhutan Naor Gilon yesterday pa
 ◼️
 
 [Data](articles/d28454e5.json)
+
+[Extended Data](ext_articles/d28454e5.ext.json)
 
 ---
 
@@ -102,23 +108,31 @@ RIUNIT CEO Roshan Madawela said: “Thankfully the downward trend seen at the st
 
 [Data](articles/c2fdd53c.json)
 
+[Extended Data](ext_articles/c2fdd53c.ext.json)
+
 ---
 
-### ஒன்றரை மணி நேரத்துக்கு ரூ.ஒரு கோடி செலவு
+### Rs 1 crore per hour
 
 *2024-07-05 03:25:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்றரை-மணி-நேரத்துக்கு-ரூ-ஒரு-கோடி-செலவு/175-339895) · `ta`
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (02) அவசரக் கூட்டத்தை நடத்துவதற்கு கிட்டத்தட்ட ஒரு கோடி ரூபாய் செலவிடப்பட்டுள்ளதாக பாராளுமன்ற வட்டாரங்கள் தெரிவிக்கின்றன.
+A special report on debt agreements by President Ranil Wickremesinghe led to a brief Parliament session, cut short due to comments from opposition leader Sajith Premadasa. Despite its short duration, the cost of a day's parliamentary meeting remains high.
 
-கடன் மறுசீரமைப்பு உடன்படிக்கைகள் தொடர்பில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின்  விசேட அறிக்கையொன்றை முன்வைப்பதற்காக பாராளுமன்றம் கூட்டப்பட்டது.
+🟩
 
-ஜனாதிபதியின் உரையின் பின்னர் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ கருத்து வெளியிட்டதை அடுத்து பாராளுமன்றம் ஒத்திவைக்கப்பட்டது. இந்த அமர்வு  ஒன்றரை மணி நேரம் மட்டுமே நடைபெற்றது.
+Nearly Rs.
 
-சபை அமர்வு குறுகியதாக இருந்தாலும், பொதுவாக ஒரு பாராளுமன்றக் கூட்டத்தின் ஒரு நாளுக்குச் செலவிடப்படும் தொகையே குறுகிய கூட்டங்களுக்கும் செலவாகும் என்று பாராளுமன்ற பேச்சாளர் ஒருவர் தெரிவித்தார்.
+Parliament was convened to present a special report of President Ranil Wickremesinghe on the debt renovation agreements.
+
+Parliament was postponed after opposition leader Sajith Premadasa commented after the president's speech. The session was held for only one and a half hours.
+
+Although the session is short, a parliamentary spokesman said that the amount spent on a day of a parliamentary meeting would cost short meetings.
 
 ◼️
 
 [Data](articles/b6bafb0d.json)
+
+[Extended Data](ext_articles/b6bafb0d.ext.json)
 
 ---
 
@@ -142,6 +156,8 @@ Held under the theme “A Quest for Quality, Productivity, and Innovation,” th
 
 [Data](articles/4c8c9674.json)
 
+[Extended Data](ext_articles/4c8c9674.ext.json)
+
 ---
 
 ### CEAT tyres roll into Brazil, expanding brand’s export footprint
@@ -159,6 +175,8 @@ The commencement of exports to Brazil was preceded by CEAT Kelani receiving the 
 ...
 
 [Data](articles/c5daf9e1.json)
+
+[Extended Data](ext_articles/c5daf9e1.ext.json)
 
 ---
 

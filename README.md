@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 13:35:23**
+As of **2024-07-04 13:56:14**
 
 ## Newspaper Stats
 
-*Scraped **33,645** Articles*
+*Scraped **33,646** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,972
 dailyftlk | 2,084
 adalk | 3,006
 adaderanalk | 3,839
-tamilmirrorlk | 3,979
+tamilmirrorlk | 3,980
 dailymirrorlk | 4,733
 virakesarilk | 5,262
 adaderanasinhalalk | 5,577
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,577
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,641 (100.0%) of 33,645 articles have been extended.
+33,645 (100.0%) of 33,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### யாழில் குளவி கொட்டியதில் பெண் மரணம்
+
+*2024-07-04 13:36:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-குளவி-கொட்டியதில்-பெண்-மரணம்/175-339863) · `ta`
+
+குளவி கொட்டியதையடுத்து, குறித்த பெண் தெல்லிப்பளை வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்ட போதிலும், அங்கு அவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+செட்டிக்குறிச்சி பண்டத்தரிப்பு பகுதியைச் சேர்ந்த 67 வயதுடைய குணசேகரம் வரதாசிரோமணி என்ற பெண்ணே உயிரிழந்துள்ளார்.
+
+குறித்த பெண் தனது வீட்டிற்கு அருகில் உள்ள காணியில் பனை ஓலைகளை வெட்டிக் கொண்டிருந்த போது குளவி கொட்டியுள்ளது.
+
+◼️
+
+[Data](articles/44b00d08.json)
+
+---
 
 ### Gunman in killing of PHI in Elpitiya arrested
 
@@ -38,9 +54,19 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Police stated that the gunman involved in the killing of a Public Health Inspector (PHI) in Elpitiya in February this year was arrested by police along with the weapon he had allegedly used to commit the murder.
 
+The suspect was arrested with two firearms in the Mount Lavinia area, police said.
+
+Roshan Kumara Vithanage, who had been serving as the Public Health Inspector for the Karandeniya area, had been shot dead by a gunman who had arrived at his residence in Pathiraja Mawatha, Elpitiya on a motorcycle along with another suspect on February 26.
+
+The investigators later found CCTV footage showing two suspects fleeing on a motorcycle.
+
+Vithanage was also the Treasurer of the Sri Lanka Public Health Inspectors’ Union (PHIU).
+
 ◼️
 
 [Data](articles/e38ac3f7.json)
+
+[Extended Data](ext_articles/e38ac3f7.ext.json)
 
 ---
 
@@ -116,23 +142,29 @@ Herci -mixed creams are beneficial throughout the body. This is dangerous. Mercu
 
 ---
 
-### ඉන්දියාවේ Koo වසා දමයි
+### Koo shuts down in India
 
 *2024-07-04 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198479) · `si`
 
-X ජාලයට විකල්පයක් ලෙස ඉන්දියාව නිර්මාණය කළ Koo නම් ජාලය වසා දැමීමට තීරණය කිරීමත් සමගම එය භාවිත කළ ඉන්දියානුවන් මිලියන ගණනක් අපහසුතාවයට පත්ව ඇති බව විදෙස් මාධ්‍ය පවසයි.
+Koo, an Indian social media platform launched in 2020, has shut down due to high costs and technological challenges. Despite supporting 10 languages and gaining popularity among millions of users, including government ministers post-controversy, financial constraints led to its closure.
 
-එම සමාජ මාධ්‍ය වේදිකාවේ නිර්මාතෘවරු පවසන්නේ අවශ්‍ය තරම් අරමුදල් නොලැබීම සහ තාක්ෂණය සඳහා අධික මුදලක් වැය කිරීමට සිදුවීම හේතුවෙන් ඔවුන් එම තීරණය ගත් බවයි.
+🟩
 
-Koo, 2020 දී එළිදැක්වීය.  භාෂා 10කින් පණිවුඩ හුවමාරුකර ගැනීමට හැකියාව තිබේ.
+According to the network of the network of Koo, India's network, as an alternative to the network, millions of Indians have embarrassed the network.
 
-ඉන්දීය රජය සහ X ජාලය අතර 2021දී මතභේදයක් ඇතිවීමෙන් අනතුරුව රජයේ අමාත්‍යවරු කිහිපදෙනෙක් ම Koo ජාලය භාවිත කිරීමට පෙළඹුණි.
+The founders of that social media station say that they made the decision as they had to spend too much money and expenditure on technology.
 
-2021 වනවිට Koo මෙවලම මිලියන 20ක් පමණ පිරිසක් විසින් බාගත කරගෙන තිබුණි.
+Koo launched in 2020.  භාෂා 10කින් පණිවුඩ හුවමාරුකර ගැනීමට හැකියාව තිබේ.
+
+After a controversy in 2021, several government ministers were tempted to use the KOO network after a controversy between the Indian government and X.
+
+By 2021, about 20 million koo tool have been downloaded.
 
 ◼️
 
 [Data](articles/c3c7dabb.json)
+
+[Extended Data](ext_articles/c3c7dabb.ext.json)
 
 ---
 
@@ -158,19 +190,29 @@ Both the bus and lorry have sustained major damages following the accident, whic
 
 ---
 
-### තලාව පොලිස් ස්ථානාධිපති ඇතුලු නිළධාරීන් පිරිසකට පහරදීල
+### Talawa Police OIC beaten
 
 *2024-07-04 12:52:15* · [`adalk`](https://www.ada.lk/breaking_news/තලාව-පොලිස්-ස්ථානාධිපති-ඇතුලු-නිළධාරීන්-පිරිසකට-පහරදීල/11-410610) · `si`
 
-යුක්තිය මෙහෙයුම යටතේ තලාව සුමුදුගම ප්‍රදේශයේ  නීතී විරෝධී මත් පැන් වැටලීමක්ට විරෝධය පා  තලාව පොලිස් ස්ථානයේ ස්ථානාධිපතිවරයාට පිහියකින් පහරදී තුවාල සිදු කර තවත් පොලිස්  නිළධාරීන් පිරිසකට පහරදුන්  සිද්ධියට සම්බන්ධ පස් දෙනෙකු අත්අඩංගුවට ගෙන ඇත.
+The OIC of Thalawa Police Station was assaulted and arrested during an operation. Two female and four male suspects were detained, including two women and two men from the Middle Thalawa Regional Hospital Wards 02 and 03. The incident involved a large group of individuals, including police officers and residents of the area. Further investigation is ongoing.
 
-අදාළ සිද්ධියෙන් අතට  තලාව පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක එල්.එම්.එම්.කේ ලංසකාර මහතාට මන්නා පිහියකින් පහරදීමක් සිදු වී ඇති අතර, එම පහරදීමෙන් ඒ මහතාගේ වම් අතට කැපුම් තුවාලයක් සිදු වී ඇත.ඒ මහතා මේ වන විට අනුරාධපුර ශීක්ෂණ රෝහලේ ප්‍රථිකාර ලබයි.තවත් පොලිස් පරීක්ෂකවරයෙක් හා පොලිස් කොස්තාපල්වරුන් තිදෙනකුද තලාව රෝහලේ ප්‍රථිකාර ලබයි.
+🟩
 
-සිද්ධියට සම්බන්ධ කාන්තා සැකකරුවන් දෙදෙනකු හා පිරිමි සැකකරුවන් දෙදෙනකුද පොලිස් ආරක්ෂාව මැද තලාව ප්‍රා‌දේශීය රෝහලේ වාට්ටු අංක 02 හා වාට්ටු අංක 03 හි ප්‍රථිකාර ලබයි.
+The OIC of the Thalawa Police Station has been arrested by the Talawa Police Station, the OIC of the Talawa Sumudagama area under the operation of the Talawa.
+
+Talawa Police OIC Chief Inspector LMMK Bid Obey has been assaulted by a pause at the left hand of his hand.Talawa Hospital, police inspector and three police constables receives counsecular.
+
+Two female suspects and two men were trained in the Middle Thalawa Regional Hospital Ward 02 and Ward 03 of the Middle Talawa Ward 03.
+
+The officials of the householder and a group of relatives of the Talawa police station and a group of relatives and friends of the residents of the Talawa police station were raided at Sumudagama in Talawa due to the resident of Talawa.Talawa Police OIC Chief Inspector Mr. LMK Bid Order has been informed.
+
+Accordingly, the OIC of the OIC has been instantly attacked by a wip stab and the OIC of the OIC.Three other officers received were admitted to the Talawa Hospital.
 
 ...
 
 [Data](articles/3a68c56a.json)
+
+[Extended Data](ext_articles/3a68c56a.ext.json)
 
 ---
 
@@ -652,19 +694,25 @@ In equities, Colombo’s All Share Price Index opened 59.82 points higher at 12,
 
 ---
 
-### මත්පැන් වැටලිමට ගිය ඕ.අයි.සී. ට පහර දිලා
+### OIC who went down alcohol. Attacked
 
 *2024-07-04 10:18:11* · [`adalk`](https://www.ada.lk/breaking_news/මත්පැන්-වැටලිමට-ගිය-ඕ-අයි-සී--ට-පහර-දිලා/11-410604) · `si`
 
-මත්පැන් වැටලිමකට ගිය තලාව පොලිසියේ ස්ථානාධිපතිවරයාට  පිරිසක් විසින් පහර දී ඇතැයි පොලිස් මුලස්ථානය පවසයි.
+The OIC of Talawa Police Station was assaulted by a group of officers. The attack occurred at night, and the victim is now hospitalized. Five suspects are in custody as the investigation continues.
 
-පොලිස් ස්ථානාධිපතිවරයා ඊයේ (03) රාත්‍රි මත්පැන් වැටලිමකට ගිය අවස්ථාවේදී මෙම පහර දිම සිදුව ඇති බවත්, තුවාල ලැබු පොලිස් ස්ථානාධිපතිවරයා අනුරාධපුර රෝහලට ඇතුලත් කර ඇතැයි පොලිසිය කියයි.
+🟩
 
-පහරදිම සම්බන්ධව සැකකරුවන් පස්දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව පොලිසිය කියයි. සිද්ධිය සම්බන්ධව තලාව පොලිසිය වැඩිදුර විමර්ශණ සිදු කරයි.
+The OIC of the Talawa Police Station has been attacked by a group of Thalawa Police OIC.
+
+The police said that the OIC was racked at night and the OIC of the injured have been admitted to Anuradhapura Hospital.
+
+Five suspects have been arrested in connection with the assault. Talawa Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/eb94aa1f.json)
+
+[Extended Data](ext_articles/eb94aa1f.ext.json)
 
 ---
 
@@ -2185,35 +2233,5 @@ Hospital sources say that the mother undermined the surgery is in good health, h
 [Data](articles/26b9c7b3.json)
 
 [Extended Data](ext_articles/26b9c7b3.ext.json)
-
----
-
-### Investigation into several policemen
-
-*2024-07-03 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198458) · `si`
-
-The Criminal Investigation Department (CID) has initiated an inquiry into allegations involving several police officers, including a senior one, linked to underworld gangs in the Southern provinces. The probe focuses on financial transactions between these officers and the gangs, particularly the Ratgama Vidura. The investigation aims to uncover any misconduct and ensure transparency within the force.
-
-🟩
-
-The Criminal Investigation Department (IGP) has launched a group of police officers in the Southern provinces that the underworld gangs called Ratgama Vidura.
-
-Among the suspects, a senior police officer who was transferred to a police division in Ratnapura District was also present.
-
-Pudukumbuwana Vidura Vidura, a strong underworld leader of the South, has received information that several police officers including a superior police officer in the Ratgama Vijaya Wijesinghe, Ratgama Viddeniya Southern Province.
-
-It is said that the private bank account of the Ratgama Vidura has borrowed the private bank account of the relevant high-ranking police.
-
-According to police sources, IGP Deshabandu Tennakoon has instructed the CID to investigate this.
-
-According to police sources, the superior police officer has been transferred to a police division in the Southern Province.
-
-Investigation is also an investigation into whether there are other police officers who have obtained money from Ratgama Vidura.
-
-◼️
-
-[Data](articles/fb6b47bd.json)
-
-[Extended Data](ext_articles/fb6b47bd.ext.json)
 
 ---

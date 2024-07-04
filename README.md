@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 13:19:47**
+As of **2024-07-04 13:35:23**
 
 ## Newspaper Stats
 
-*Scraped **33,641** Articles*
+*Scraped **33,645** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,58 @@ newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,972
 dailyftlk | 2,084
-adalk | 3,004
-adaderanalk | 3,838
+adalk | 3,006
+adaderanalk | 3,839
 tamilmirrorlk | 3,979
 dailymirrorlk | 4,733
 virakesarilk | 5,262
-adaderanasinhalalk | 5,576
+adaderanasinhalalk | 5,577
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,638 (100.0%) of 33,641 articles have been extended.
+33,641 (100.0%) of 33,645 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### ஜே.ஆரின் பேரன் ஐக்கிய மக்கள் சக்தியோடு இணைந்தார் !
+### Gunman in killing of PHI in Elpitiya arrested
+
+*2024-07-04 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100287/gunman-in-killing-of-phi-in-elpitiya-arrested) · `en`
+
+Police stated that the gunman involved in the killing of a Public Health Inspector (PHI) in Elpitiya in February this year was arrested by police along with the weapon he had allegedly used to commit the murder.
+
+◼️
+
+[Data](articles/e38ac3f7.json)
+
+---
+
+### JR's grandson joined the United People's Power!
 
 *2024-07-04 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/187663) · `ta`
 
-இந்நாட்டின் முதலாவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி ஜே.ஆர் ஜயவர்தனவின் பேரனான பிரதீப் ஜயவர்தன எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவின் அரசியல் பயணத்திற்கு தனது ஆதரவை நல்கும் நோக்கில் ஐக்கிய மக்கள் சக்தியோடு இணைந்து கொண்டார்.
+Pradeep Jayawardene, grandson of former President JR Jayawardene, has joined the United People's Power party to back Opposition Leader Sajith Premadasa. He's been named the Gampaha District Organizer for the party, having previously worked with the SLFP and representing them in various elections.
 
-ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்ட பிரதீப் ஜயவர்தனவை ஐக்கிய மக்கள் சக்தியின் கம்பஹா மாவட்ட அமைப்பாளராக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச நியமித்தார்.
+🟩
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் கொழும்பு  கிழக்கு தேர்தல் தொகுதி அமைப்பாளராகவும், மத்திய குழு உறுப்பினராகவும் பணியாற்றியுள்ளார்.
+Pradeep Jayawardena, the grandson of President JR Jayawardene, has joined the United People's Power in order to support the political journey of Opposition Leader Sajith Premadasa.
 
-2015 ஆம் ஆண்டு ஸ்ரீலங்கா சுதந்திரக் கட்சி ஊடாக கம்பஹா மாவட்டத்தை பிரதிநிதித்துவப்படுத்தி அரசியலில் பிரவேசித்த இவர், 2017 இல் நடந்த உள்ளூராட்சி மன்றத் தேர்தலில் கொழும்பு மாநகர சபைக்குத் தெரிவானார்.
+Opposition Leader Sajith Premadasa has appointed Pradeep Jayawardene, who joined the United People's Power as the United People's Power Gampaha District Organizer.
 
-இன்று வியாழக்கிழமை (03) எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் ஊடக சந்திப்பிலும் கலந்து கொண்டார்.
+He has served as the organizer of the Sri Lanka Freedom Party (SLFP) Colombo Eastern Election constituency and a member of the Central Committee.
+
+He represented the Gampaha district through the Sri Lanka Freedom Party (SLFP) in 2015 and was elected to the Colombo Municipal Council election in 2017.
+
+He also attended a media briefing at the Opposition Leader's office on Thursday (03).
 
 ◼️
 
 [Data](articles/a4638c6f.json)
+
+[Extended Data](ext_articles/a4638c6f.ext.json)
 
 ---
 
@@ -74,21 +92,47 @@ It has been announced that the people will be able to pay tribute to the father 
 
 ---
 
-### சருமத்தை வெண்மையாக்கும் கிறீம்களால் ஏற்படும் பிரச்சினைகள் அதிகரிப்பு
+### Increase in problems caused by creams that whiten skin
 
 *2024-07-04 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/187655) · `ta`
 
-சருமத்தை வெண்மையாக்கும் கிறீம்களை பயன்படுத்துவதால் புற்றுநோயால் பாதிக்கப்படுவோரின் எண்ணிக்கையை விட சிறுநீரக நோயால் பாதிக்கப்பட்டவர்களின் எண்ணிக்கை அதிகரித்துள்ளதாக சுகாதார அதிகாரிகள் தெரிவித்துள்ளனர்.
+Health officials report a rise in kidney diseases over cancer linked to skin-whitening creams. A joint initiative aims to ban mercury in such products, highlighting its harmful impact, including kidney failure and other health issues.
 
-சுகாதார மேம்பாட்டு பணியகத்தில் புதன்கிழமை நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்ட தேசிய வைத்தியசாலையின் தோல் சிகிச்சை நிபுணர் வைத்தியர் இந்திரா கஹவிட்ட இதனைத் தெரிவித்தார்.
+🟩
 
-உலக சுகாதார ஸ்தாபனமும் இலங்கை சுகாதார அமைச்சுக்கும் இடையில் முகத்தை வெண்மையாக்கும் கிறீம்களில் பாதரசத்தின் பயன்பாட்டை முற்றிலுமாக ஒழிப்பதை நோக்கமாகக் கொண்ட ஒரு கூட்டு வேலைத்திட்டம் ஆரம்பிக்கப்பட்டுள்ளது. இந்த திட்டத்தின் நோக்கம் பாதரசத்தின் பயன்பாட்டை முற்றிலும் ஒழிப்பதாகும்.
+Health officials said the number of people suffering from kidney disease has increased over the number of cancer cases due to the use of skin white creams.
 
-பாதிப்பை ஏற்படுத்தும்  பாதரசம் கலந்த கிறீம்கள் உடல் முழுவதும் பயன்டுத்தப்படுகின்றன. இது ஆபத்தானது. பாதரச நச்சால் சிறுநீரக செயலிழப்பு ஏற்படும்.
+Dr. Indira Kahawita, a dermatologist at the National Hospital, who attended a media briefing held at the Health Development Bureau on Wednesday.
+
+A joint program has been launched to eliminate the use of mercury in creams that whitewash the face of the World Health Organization and the Ministry of Health of Sri Lanka.The purpose of this project is to completely eliminate the use of mercury.
+
+Herci -mixed creams are beneficial throughout the body. This is dangerous. Mercury can cause kidney failure.
 
 ...
 
 [Data](articles/8859c4e0.json)
+
+[Extended Data](ext_articles/8859c4e0.ext.json)
+
+---
+
+### ඉන්දියාවේ Koo වසා දමයි
+
+*2024-07-04 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198479) · `si`
+
+X ජාලයට විකල්පයක් ලෙස ඉන්දියාව නිර්මාණය කළ Koo නම් ජාලය වසා දැමීමට තීරණය කිරීමත් සමගම එය භාවිත කළ ඉන්දියානුවන් මිලියන ගණනක් අපහසුතාවයට පත්ව ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+එම සමාජ මාධ්‍ය වේදිකාවේ නිර්මාතෘවරු පවසන්නේ අවශ්‍ය තරම් අරමුදල් නොලැබීම සහ තාක්ෂණය සඳහා අධික මුදලක් වැය කිරීමට සිදුවීම හේතුවෙන් ඔවුන් එම තීරණය ගත් බවයි.
+
+Koo, 2020 දී එළිදැක්වීය.  භාෂා 10කින් පණිවුඩ හුවමාරුකර ගැනීමට හැකියාව තිබේ.
+
+ඉන්දීය රජය සහ X ජාලය අතර 2021දී මතභේදයක් ඇතිවීමෙන් අනතුරුව රජයේ අමාත්‍යවරු කිහිපදෙනෙක් ම Koo ජාලය භාවිත කිරීමට පෙළඹුණි.
+
+2021 වනවිට Koo මෙවලම මිලියන 20ක් පමණ පිරිසක් විසින් බාගත කරගෙන තිබුණි.
+
+◼️
+
+[Data](articles/c3c7dabb.json)
 
 ---
 
@@ -109,6 +153,24 @@ Both the bus and lorry have sustained major damages following the accident, whic
 ◼️
 
 [Data](articles/8218fcf6.json)
+
+[Extended Data](ext_articles/8218fcf6.ext.json)
+
+---
+
+### තලාව පොලිස් ස්ථානාධිපති ඇතුලු නිළධාරීන් පිරිසකට පහරදීල
+
+*2024-07-04 12:52:15* · [`adalk`](https://www.ada.lk/breaking_news/තලාව-පොලිස්-ස්ථානාධිපති-ඇතුලු-නිළධාරීන්-පිරිසකට-පහරදීල/11-410610) · `si`
+
+යුක්තිය මෙහෙයුම යටතේ තලාව සුමුදුගම ප්‍රදේශයේ  නීතී විරෝධී මත් පැන් වැටලීමක්ට විරෝධය පා  තලාව පොලිස් ස්ථානයේ ස්ථානාධිපතිවරයාට පිහියකින් පහරදී තුවාල සිදු කර තවත් පොලිස්  නිළධාරීන් පිරිසකට පහරදුන්  සිද්ධියට සම්බන්ධ පස් දෙනෙකු අත්අඩංගුවට ගෙන ඇත.
+
+අදාළ සිද්ධියෙන් අතට  තලාව පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක එල්.එම්.එම්.කේ ලංසකාර මහතාට මන්නා පිහියකින් පහරදීමක් සිදු වී ඇති අතර, එම පහරදීමෙන් ඒ මහතාගේ වම් අතට කැපුම් තුවාලයක් සිදු වී ඇත.ඒ මහතා මේ වන විට අනුරාධපුර ශීක්ෂණ රෝහලේ ප්‍රථිකාර ලබයි.තවත් පොලිස් පරීක්ෂකවරයෙක් හා පොලිස් කොස්තාපල්වරුන් තිදෙනකුද තලාව රෝහලේ ප්‍රථිකාර ලබයි.
+
+සිද්ධියට සම්බන්ධ කාන්තා සැකකරුවන් දෙදෙනකු හා පිරිමි සැකකරුවන් දෙදෙනකුද පොලිස් ආරක්ෂාව මැද තලාව ප්‍රා‌දේශීය රෝහලේ වාට්ටු අංක 02 හා වාට්ටු අංක 03 හි ප්‍රථිකාර ලබයි.
+
+...
+
+[Data](articles/3a68c56a.json)
 
 ---
 
@@ -587,6 +649,22 @@ In equities, Colombo’s All Share Price Index opened 59.82 points higher at 12,
 [Data](articles/178cb855.json)
 
 [Extended Data](ext_articles/178cb855.ext.json)
+
+---
+
+### මත්පැන් වැටලිමට ගිය ඕ.අයි.සී. ට පහර දිලා
+
+*2024-07-04 10:18:11* · [`adalk`](https://www.ada.lk/breaking_news/මත්පැන්-වැටලිමට-ගිය-ඕ-අයි-සී--ට-පහර-දිලා/11-410604) · `si`
+
+මත්පැන් වැටලිමකට ගිය තලාව පොලිසියේ ස්ථානාධිපතිවරයාට  පිරිසක් විසින් පහර දී ඇතැයි පොලිස් මුලස්ථානය පවසයි.
+
+පොලිස් ස්ථානාධිපතිවරයා ඊයේ (03) රාත්‍රි මත්පැන් වැටලිමකට ගිය අවස්ථාවේදී මෙම පහර දිම සිදුව ඇති බවත්, තුවාල ලැබු පොලිස් ස්ථානාධිපතිවරයා අනුරාධපුර රෝහලට ඇතුලත් කර ඇතැයි පොලිසිය කියයි.
+
+පහරදිම සම්බන්ධව සැකකරුවන් පස්දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව පොලිසිය කියයි. සිද්ධිය සම්බන්ධව තලාව පොලිසිය වැඩිදුර විමර්ශණ සිදු කරයි.
+
+◼️
+
+[Data](articles/eb94aa1f.json)
 
 ---
 
@@ -2137,105 +2215,5 @@ Investigation is also an investigation into whether there are other police offic
 [Data](articles/fb6b47bd.json)
 
 [Extended Data](ext_articles/fb6b47bd.ext.json)
-
----
-
-### Kenzavertiv Party pledged to ensure justice for the injustices inflicted on Tamils
-
-*2024-07-03 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/187626) · `ta`
-
-Kenzavertiv Party commits to rectifying injustices against Tamils, emphasizing support for Tamil rights and addressing historical wrongs. Candidate Eliot Golberan stresses the party's dedication to the Tamil community, urging voters to support them for continued efforts towards justice and reconciliation. Highlighting Britain's role in holding the UN accountable for Sri Lanka's Civil War atrocities, the party contrasts its actions with mere rhetoric, promising effective solutions. The party also acknowledges the significance of Tamil Memorial Day, joining in remembrance and determination to address the community's ongoing pain.
-
-🟩
-
-Kenzavertiv's commitment to support the rights of Tamils ​​and resolves historical injustices is firm, Kenzavertiv's Carselton and Valayangton candidate Eliot Golberan said
-
-He made this statement in an article in Tamil Guardian ahead of Britain's parliamentary elections.
-
-I am happy to be representing the Tamil community on the basis of the long -standing colleague of the Tamil community and the values ​​shared and the mutual value of mutual value and prosperity.
-
-As we are approaching the most important elections, it is necessary to think about the progress we have achieved and the path to traveling.
-
-I urge you to vote for the Kensavertive Party, which has expressed continuous commitment to the Tamil people at home and abroad.
-
-Britain has led the United Nations accountable measures for events during the Civil War of Sri Lanka.
-
-...
-
-[Data](articles/7518ae73.json)
-
-[Extended Data](ext_articles/7518ae73.ext.json)
-
----
-
-### Kamala Harris top choice to replace Joe Biden if he steps aside, sources say
-
-*2024-07-03 21:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100276/kamala-harris-top-choice-to-replace-joe-biden-if-he-steps-aside-sources-say) · `en`
-
-Vice President Kamala Harris is the top alternative to replace U.S. President Joe Biden if he decides not to continue his reelection campaign, according to seven senior sources at the Biden campaign, the White House and the Democratic National Committee with knowledge of current discussions on the topic.
-
-Biden’s fumbling, sometimes-incoherent and widely-panned first-debate performance against Republican rival Donald Trump last week set off a wave of panic within the Democratic party over concerns that he may not be fit enough to serve a second term, and prompted calls for top aides to resign.
-
-Some influential Democrats have floated alternatives to Biden besides Harris, including popular cabinet members and Democratic governors like Gavin Newsom from California, Gretchen Whitmer of Michigan and Josh Shapiro of Pennsylvania. But trying to sidestep Harris is wishful thinking and would be nearly impossible, these sources, who did not wish to be named, said.
-
-...
-
-[Data](articles/30b76b0b.json)
-
-[Extended Data](ext_articles/30b76b0b.ext.json)
-
----
-
-### President meets Chinese - Kazakoon
-
-*2024-07-03 20:53:25* · [`adalk`](https://www.ada.lk/breaking_news/චීන---කසක්ස්ථාන-ජනපතිවරු-අතර-හමුවක්/11-410598) · `si`
-
-Xi Jinping met with Kazakh President Tokayev, discussing bilateral ties and the Shanghai Cooperation Organization's role. They agreed on hosting a "Chinese Tourism Year" in Kazakhstan next year, emphasizing mutual support and cooperation.
-
-🟩
-
-Chinese President Xi Jinping holds a meeting with President Kazim-Jomart Tokayev. It was held today (03) at the President's Palace today.
-
-Shi Jinping said that he had a proper understanding of the continued development of the kitchen during his visit, he said. The President of the President believed that under the leadership of the President of Tokayev, a new statement of 'new statement' could be built.
-
-Sim Ginping said China supports China to hold the 'Chinese Tourism Year' 'Website next year at Kirdy next year.. His high praised the role of the installment of the installment of the Shanhai Cooperation Organization.
-
-The President said that his country would permanently follow the same China principle.. He said that the Shanhai Cooperation Organization is actively participating in coordination of the United Nations, including the United Nations, the United Nations.
-
-Meanwhile, the Chinese President has also held discussions with President Shavkat Mirziyev
-
-◼️
-
-[Data](articles/d9324519.json)
-
-[Extended Data](ext_articles/d9324519.ext.json)
-
----
-
-### Rs.. 2 crores whiskey bottles smuggled
-
-*2024-07-03 20:46:42* · [`adalk`](https://www.ada.lk/breaking_news/නඩු-භාණ්ඩ-කාමරයේ-තිබූ-රු--කෝටි-2ක-විස්කි-බෝතල්-හොරෙන්-අරන්-පාටි-දාලා/11-410597) · `si`
-
-In a smuggling case involving Rs. 2 crore worth of whiskey, the Colombo Chief Magistrate's Court ordered custody for the accused, Gayan Sampanthan, appointing him as the custodian. The Colombo Criminal Investigation Division is investigating, with the suspect being arrested and charged. The court has directed immediate reporting to the police.
-
-🟩
-
-Colombo Chief Magistrate Thilina Gamage prescribed the custody of the Colombo Chief Magistrate's Court in the courts.
-
-An area of ​​Rs.Did you have done?And who are the others involved?He also set to the police immediately to report to court immediately.
-
-Gayan Sampanthan appointed the custodian of the Colombo Chief Magistrate's Court, who was arrested and produced before the suspect.
-
-The Colombo Criminal Investigation Division has commenced investigations into the incident.
-
-The Investigation Officer has informed the court that the suspect was arrested by the Colombo Chief Magazing and the court in the case of the Colombo Chief Magazing Court.
-
-The Investigations Petitions have been dismissed that the high court magistrate court order against the order of alcohol bottles of alcohol bottles and the Court of Appeal.
-
-...
-
-[Data](articles/cd706286.json)
-
-[Extended Data](ext_articles/cd706286.ext.json)
 
 ---

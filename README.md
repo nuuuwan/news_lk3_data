@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 16:36:11**
+As of **2024-07-04 17:05:26**
 
 ## Newspaper Stats
 
-*Scraped **33,659** Articles*
+*Scraped **33,668** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,114 @@ newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,972
 dailyftlk | 2,084
-adalk | 3,009
-adaderanalk | 3,842
+adalk | 3,010
+adaderanalk | 3,843
 tamilmirrorlk | 3,981
 dailymirrorlk | 4,733
-virakesarilk | 5,264
-adaderanasinhalalk | 5,581
+virakesarilk | 5,269
+adaderanasinhalalk | 5,583
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,659 (100.0%) of 33,659 articles have been extended.
+33,666 (100.0%) of 33,668 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### Stay order issued on Gazette increasing daily wage of plantation workers
+
+*2024-07-04 16:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/100291/stay-order-issued-on-gazette-increasing-daily-wage-of-plantation-workers) · `en`
+
+The Supreme Court today issued an interim injunction order preventing the implementation of the Gazette notification issued by the Labour Minister increasing the daily wage of the plantation employee to Rs. 1,700.
+
+◼️
+
+[Data](articles/a220fe80.json)
+
+---
+
+### Interim order to the gazette of estate wage
+
+*2024-07-04 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198486) · `si`
+
+The Supreme Court has temporarily halted a government order to raise wages for estate workers, pending a review of a petition filed by plantation companies challenging the increase.
+
+🟩
+
+The Supreme Court has issued an interim order from preventing the implementation of the gazette notification issued by the Labora's Assalysis by increasing the estate workers' salaries.
+
+The Supreme Court has issued the Supreme Court in charge of permission to hear a petition filed by Agarian Plantation and the plantation companies against increasing the salaries.
+
+◼️
+
+[Data](articles/a6b18dba.json)
+
+[Extended Data](ext_articles/a6b18dba.ext.json)
+
+---
+
+### Customs' strike abandoned
+
+*2024-07-04 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/187688) · `ta`
+
+The Customs Union Federation called off its trade union action after talks with Finance Minister Ranjith Siyambalapitiya, responding to the Health Holidays report.
+
+🟩
+
+The Customs Union Federation has decided to immediately suspend the trade union action initiated by the Health Holidays report following a discussion with Finance Minister Ranjith Siyambalapitiya.
+
+◼️
+
+[Data](articles/0a7f2cd2.json)
+
+[Extended Data](ext_articles/0a7f2cd2.ext.json)
+
+---
+
+### 500 kidney transplants successfully performed at Navaloka Hospital
+
+*2024-07-04 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/187674) · `ta`
+
+Navaloka Hospital in Sri Lanka has achieved a significant milestone by successfully performing 500 kidney transplants, marking a historic achievement in the country's healthcare sector. This feat underscores the hospital's commitment to excellence, offering life-saving surgeries through the dedication of its skilled medical team and adherence to stringent health protocols. Beyond surgical expertise, Navaloka Hospital emphasizes holistic patient care, including mental health support, ensuring a comprehensive approach to recovery.
+
+🟩
+
+The Navaloka Hospital Group in Sri Lanka's leading health service has recently announced that 500 kidney surgeries have been successfully completed.. In kidney surgery, this may be a person's life -saving surgery. A healthy kidney, which is donated from a alive or dead person, is fitted with surgery for a patient who does not function properly.
+
+The success of 500 surgery is a great achievement in Sri Lanka's health history.. The Navaloka Hospital's kidney treatment unit has an intensive care unit with special facilities and trained nurses and health professionals, thereby providing polygamy to kidney donations and unforgettable patients.
+
+...
+
+[Data](articles/03c83529.json)
+
+[Extended Data](ext_articles/03c83529.ext.json)
+
+---
+
+### Lori accident sent to hospital including six school children
+
+*2024-07-04 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198485) · `si`
+
+In Kandy, a lorry accident involving six schoolchildren and four others resulted in injuries. The driver was arrested, and further investigation is ongoing by the Aladeniya Police.
+
+🟩
+
+A group of people traveled at Nugawela School Junction while attempting to reverse a lorry direction in Kandy.
+
+Four students, two students, two women, and a man were injured in the accident.
+
+The driver of the lorry has been arrested and the Aladeniya Police are conducting further investigations.
+
+◼️
+
+[Data](articles/bf43fc2f.json)
+
+[Extended Data](ext_articles/bf43fc2f.ext.json)
+
+---
 
 ### Inbow, infrated of uneducated milk
 
@@ -110,6 +202,30 @@ Due to this rain, inferior areas have been flooded in water.
 
 ---
 
+### State Bank Employees Demonstration in Nuwara Eliya
+
+*2024-07-04 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187675) · `ta`
+
+Nuwara Eliya saw a protest by state bank employees demanding higher salaries and tax relief, akin to other civil servants. The demonstration, held outside the main post office, highlighted the economic strain faced by these workers. The protest organizers warned of nationwide demonstrations if their demands were not met.
+
+🟩
+
+In Nuwara Eliya, state bank employees united and launched a protest demonstration demanding salary increases.
+
+The identification demonstration was held in front of the Nuwara Eliya main post office on Thursday (04).
+
+In the midst of the economic crisis of our country, the state bank employees have been able to get a salary of tax burden, carry out all the concessions like other civil servants, and raise the salary of state banks.
+
+The protesters said that if the government listens to the demands of bank employees, there would be massive protests across the country.
+
+◼️
+
+[Data](articles/5a5f4a36.json)
+
+[Extended Data](ext_articles/5a5f4a36.ext.json)
+
+---
+
 ### 8 years after the currency trapped in the bronchi ..!
 
 *2024-07-04 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/187672) · `ta`
@@ -158,6 +274,32 @@ To build a prosperous Sri Lanka, many social and political reforms are to be mad
 
 ---
 
+### Hayas vehicle
+
+*2024-07-04 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/187671) · `ta`
+
+In a bizarre incident, a Hayas vehicle, previously seized by the Mullaitivu Pudukkudiyiruppu police, collided with a cyclist on Paradhan Road. The crash involved the illegal transport of 9 trees from Pudukkudiyiruppu to Jaffna. A 17-year-old cyclist was hospitalized and later transferred to Jaffna Hospital. The driver of the Hayas vehicle was arrested.
+
+🟩
+
+There was an incident where a vehicle crashed when a Hayas vehicle was involved in a carriage.
+
+A Hayas vehicle, which was abducted by the Mullaitivu Pudukkudiyiruppu police division, has been hit by a high -quality student who was riding a bicycle on Tuesday (02) at Paradhan Road
+
+It has been found that the Hayasraha vehicle has been illegally transported by trees. 9 stagnant saplings found in the vehicle. Investigations by the police revealed that it was the trees smuggled from Pudukkudiyiruppu to Jaffna.
+
+A 17 -year -old student from the southern part of the Vaidyaru Kathakkal area was admitted to the Mullaitivu District Hospital and has been transferred to the Jaffna Hospital for further treatment.
+
+The driver of the Hayas vehicle from the Jaffna Hayas, who was involved in the incident, was arrested by the Pudukkudiyiruppu police on Wednesday (03) at the Mullaitivu District Magistrate's Court.
+
+◼️
+
+[Data](articles/c9c0e0b3.json)
+
+[Extended Data](ext_articles/c9c0e0b3.ext.json)
+
+---
+
 ### Warm welcome to world champions
 
 *2024-07-04 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198482) · `si`
@@ -189,6 +331,30 @@ The World Championship Bhayam Sharma, led by the World Championship, met Indian 
 [Data](articles/62709e61.json)
 
 [Extended Data](ext_articles/62709e61.ext.json)
+
+---
+
+### The government will hold elections according to the Constitution: Handing over the country to Ranil - Minister Prasanna Ranatunga
+
+*2024-07-04 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/187668) · `ta`
+
+Minister Prasanna Ranatunga assures that elections will proceed as per the Constitution, dismissing calls for postponement from opposition parties. He highlights the economic recovery under President Ranil Wickremesinghe, citing successful debt restructuring and optimism for transforming Sri Lanka into a powerful economy within five years. Despite challenges, including a severe economic crisis and political opposition, Wickremesinghe's leadership is praised for steering the country towards progress. The government remains committed to holding elections promptly and emphasizes its readiness to face any challenges, including criticism from opposition groups.
+
+🟩
+
+The chief organizer of the ruling party Prasanna Ranatunga has said that there is no need to postpone the presidential election or any other election.
+
+The minister stressed that the government would hold elections in accordance with the constitution, even if the opposition parties that were not backing the election were talking about the postponement of the election.
+
+Minister Prasanna Ranatunga, who was present at a public meeting held in Minuwangoda, Gampaha, today (4).
+
+Due to the sustainable economic policies implemented by President Ranil Wickremesinghe, it was decided to restructure the country's debt at the Paris conference. Moreover, the current president can only carry out the economic, political and social reform activities that the country and the people in the future are expecting. Therefore, by re -appointing him as president, Sri Lanka can be made as the world's most powerful economy within the next five years.
+
+...
+
+[Data](articles/5d58e5c9.json)
+
+[Extended Data](ext_articles/5d58e5c9.ext.json)
 
 ---
 
@@ -941,6 +1107,20 @@ He is said to have bribed the person to give money from the person to provide a 
 [Data](articles/8b8eebff.json)
 
 [Extended Data](ext_articles/8b8eebff.ext.json)
+
+---
+
+### ජනපතිගේ ධුර කාලය වසර 5යි
+
+*2024-07-04 10:37:33* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-ධුර-කාලය-වසර-5යි/11-410606) · `si`
+
+2024 වසරේදී ජනාධිපතිවරණයක් පැවැත්වීම සඳහා ඉදිරි පියවර ගැනීම වළක්වාලමින් මැතිවරණ කොමිෂන් සභාවේ සාමාජිකයින් වෙත අතුරු තහනම් නියෝගයක් නිකුත් කරන ලෙස ඉල්ලමින් චමින්ද්‍ර දයාන් ලේනව යන අය විසින් ශ්‍රේෂ්ඨාධිකරණය වෙත ගොනු කර ඇති පෙත්සම පිළිබඳ රජයේ අවධානය යොමුව තිබේ.
+
+අදාළ පෙත්සම ගොනු කරමින් පෙත්සම්කාර පාර්ශ්වය ඉල්ලා තිබෙන්නේ ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජයේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 12(1), 82(6), 3, 4, 118 සහ 125 වගන්ති සමඟ කියවිය යුතු 126 වැනි වගන්ති ප්‍රකාරව, ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනයෙහි 3 වන වගන්තිය මගින් සංශෝධනය කරන ලද 30(2) වැනි වගන්තිය අර්ථ නිරූපනය නොකළ යුතු බවට වන නියෝගයක් නිකුත් කරන ලෙසත්, ඒ අනුව ජනාධිපතිවරයාගේ ධුර කාලය වසර 6ක් බව සැලකිල්ලට ගනිමින් මැතිවරණ කොමිෂන් සභාව මීළඟ ජනාධිපතිවරණය පැවැත්විය යුතු බැවින් ශ්‍රේෂ්ඨාධිකරණය විසින් මේ පිළිබඳ අවසන් තීන්දුව ප්‍රකාශයට පත් කරන තුරු 2024 වසරේදී ජනාධිපතිවරණයක් පැවැත්වීම සඳහා ඉදිරි පියවර ගැනීම වළක්වාලමින් මැතිවරණ කොමිෂන් සභාවේ සාමාජිකයින් වෙත අතුරු තහනම් නියෝගයක් නිකුත් කරන ලෙසත් ය.
+
+...
+
+[Data](articles/e48c17f6.json)
 
 ---
 
@@ -2101,155 +2281,5 @@ The ‘Youth-Led Green and Inclusive Businesses’ project equipped young entrep
 [Data](articles/2ed1d158.json)
 
 [Extended Data](ext_articles/2ed1d158.ext.json)
-
----
-
-### Ceylon Chamber launches SPARK 2024 Youth Entrepreneurship Competition
-
-*2024-07-04 01:42:37* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-launches-SPARK-2024-Youth-Entrepreneurship-Competition/34-763814) · `en`
-
-The Ceylon Chamber of Commerce has officially launched the SPARK Youth Entrepreneurship Competition – 2024, setting the stage for aspiring young entrepreneurs across the country to pitch their innovative business ideas and win big at the Grand Finale in September.
-
-Building on the success of its inaugural edition in 2023, which drew over 400 applications from across Sri Lanka, SPARK 2024 continues to foster an entrepreneurial spirit among the country’s youth, empowering youth aged 15-30 with the skills and resources to drive innovative solutions to societal challenges.
-
-Participants in the competition will receive expert guidance, mentoring, and access to resources, enhancing their entrepreneurial capabilities through workshops and boot camps. The competition culminates in a Grand Finale scheduled for September, where participants will pitch their business ideas and battle it out for the top prizes, including awards, trophies, and opportunities for international exposure.
-
-...
-
-[Data](articles/49377361.json)
-
-[Extended Data](ext_articles/49377361.ext.json)
-
----
-
-### Young Sri Lankan journalists embark on journey in entrepreneurship
-
-*2024-07-04 01:40:45* · [`dailyftlk`](https://www.ft.lk/business/Young-Sri-Lankan-journalists-embark-on-journey-in-entrepreneurship/34-763813) · `en`
-
-Thirty (30) dynamic Sri Lankan journalists launched their journey into the exciting world of entrepreneurship, at a workshop on entrepreneurship for young journalists conducted on 13 and 14 July, 2024, at NH Collection Hotel, Colombo.
-
-The young journalists represented print, electronic and digital media. Some were influencers who owned their own media platforms. They had been selected out of a competitive application process. They were the lucky ones amongst the 212 young journalists who had applied.
-
-The program was presented by the International Labour organisation, ILO and the Ceylon Chamber of Commerce, CCC, in collaboration with the Rainbow Institute of Communication.
-
-...
-
-[Data](articles/555fed89.json)
-
-[Extended Data](ext_articles/555fed89.ext.json)
-
----
-
-### Sampanthan, stature diminished by links to LTTE, is no more
-
-*2024-07-04 01:17:39* · [`dailyftlk`](https://www.ft.lk/columns/Sampanthan-stature-diminished-by-links-to-LTTE-is-no-more/4-763808) · `en`
-
-Sampanthan could never overlook the ethnic divisions that have plagued Sri Lanka for decades – before, during and after the war
-
-Sampanthan, one among the few TNA leaders who Western diplomats in Colombo continued to respect despite his political predicament, tried to come on to his own after the LTTE was militarily crushed. Now minus the armed campaign to break up Sri Lanka, the TNA leader made some bold statements, making it clear that he wanted to be a part of the island nation. A section of the TNA, which fragmented over the years, sided with him. After the war, he played a major role in highlighting internationally the horrific price the ordinary Tamils had to pay in Sri Lanka simply for being at the wrong place at the wrong time
-
-...
-
-[Data](articles/00040f2b.json)
-
-[Extended Data](ext_articles/00040f2b.ext.json)
-
----
-
-### Sampanthan, stature diminished by links to LTTE, is no more
-
-*2024-07-04 01:17:39* · [`dailyftlk`](https://www.ft.lk/opinion/Sampanthan-stature-diminished-by-links-to-LTTE-is-no-more/14-763808) · `en`
-
-Sampanthan could never overlook the ethnic divisions that have plagued Sri Lanka for decades – before, during and after the war
-
-Sampanthan, one among the few TNA leaders who Western diplomats in Colombo continued to respect despite his political predicament, tried to come on to his own after the LTTE was militarily crushed. Now minus the armed campaign to break up Sri Lanka, the TNA leader made some bold statements, making it clear that he wanted to be a part of the island nation. A section of the TNA, which fragmented over the years, sided with him. After the war, he played a major role in highlighting internationally the horrific price the ordinary Tamils had to pay in Sri Lanka simply for being at the wrong place at the wrong time
-
-...
-
-[Data](articles/02e40a46.json)
-
-[Extended Data](ext_articles/02e40a46.ext.json)
-
----
-
-### Will the  Economic “Good News” From Paris and Beijing Help Ranil  Win the 2024 Presidential Poll  in Sri Lanka?
-
-*2024-07-04 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84319) · `en`
-
-Ranil  Wickremesinghe was appointed Prime Minister on 12 May 2022 by the then president Gotabaya Rajapaksa. Sri Lanka was in the grip of a debilitating economic crisis then. The “Aragalaya”(struggle) protest movement was raging. The new premier addressed the nation through a special statement on 16 May 2022. In that Wickremesinghe referred to Bertolt Brecht’s play “The Caucasian Chalk Circle”. This is what he said then –
-
-...
-
-[Data](articles/7940d96a.json)
-
-[Extended Data](ext_articles/7940d96a.ext.json)
-
----
-
-### பொருளாதார ” நற்செய்தி ” 2024 தேர்தலில் ரணிலுக்கு உதவுமா?
-
-*2024-07-04 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84334) · `en`
-
-ரணில் விக்கிரமசிங்க 2022 மே 12 ஆம் திகதி அன்றைய ஜனாதிபதி கோட்டாபய ராஜபக்சவினால் பிரதமராக நியமிக்கப்பட்டார். அப்போது இலங்கை படுமோசமான பொருளாதார நெருக்கடியில் சிக்கியிருந்தது.’ அறகலய போராட்டம் தீவிரமடைந்து கொண்டிருந்தது. புதிய பிரதமர் 2022 மே 16 ஆம் திகதி நாட்டு மக்களுக்கு விசேட உரையொன்றை ஆற்றினார். அந்த உரையில் விக்கிரமசிங்க  ஜேர்மன் நாடகாசிரியர் பேரொல்ற் பிறெற்றின் ‘ கோகேசியன் ஷோக் சேர்க்கிள் ‘ ( Caucasian Chalk Circle) என்ற நாடகம் பற்றி குறிப்பிட்டார்.
-
-...
-
-[Data](articles/4fca80c0.json)
-
-[Extended Data](ext_articles/4fca80c0.ext.json)
-
----
-
-### KPMG and Indo-Lanka collaboration
-
-*2024-07-04 00:28:03* · [`dailyftlk`](https://www.ft.lk/business/KPMG-and-Indo-Lanka-collaboration/34-763805) · `en`
-
-President Ranil Wickremesinghe with a smile in conversation with KPMG India’s CEO Yezdi Nagporewalla (right) and KPMG Sri Lanka Managing Partner Priyanka Jayatilake at the inauguration of KPMG All India Partner’s Meet 2024 in Colombo recently
-
-KPMG in India hosted its 31st All India Partners Meet (AIPM) 2024 in Colombo recently, as over 600 partners attached to KPMG in India in the subcontinent enjoying scenic Sri Lanka. Addressing the gathering was the President of Sri Lanka Ranil Wickremesinghe, who stressed on the importance of a strong collaboration with India to achieve the country’s development goals as the country is progressing on its recovery journey.
-
-...
-
-[Data](articles/82a2fe90.json)
-
-[Extended Data](ext_articles/82a2fe90.ext.json)
-
----
-
-### Sri Lanka strikes restructuring agreement with bondholders
-
-*2024-07-04 00:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100278/sri-lanka-strikes-restructuring-agreement-with-bondholders) · `en`
-
-(Reuters) - Sri Lanka has secured a deal to move forward on restructuring about $12.5 billion of international bonds, the government said on Wednesday, a major step in the island nation’s fragile recovery from a severe financial crisis.
-
-The South Asian country defaulted for the first time on its foreign debt in May 2022 after its economy was driven to the brink by a slump in foreign exchange reserves.
-
-Restructuring international bonds was one of the key conditions set by the International Monetary Fund (IMF) under a $2.9 billion bailout programme that helped Sri Lanka tame inflation, stabilise its currency, and improve public finances.
-
-The deal with selected bondholders, who cover about 50% of Sri Lanka’s bonds, is contingent on confirmation by the Official Creditor Committee (OCC) made up of bilateral creditors and the IMF to ensure it is in line with the global lender’s debt sustainability analysis for the country.
-
-...
-
-[Data](articles/802ef3a2.json)
-
-[Extended Data](ext_articles/802ef3a2.ext.json)
-
----
-
-### Sri Lanka strikes restructuring agreement with bondholders - report
-
-*2024-07-04 00:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100278/sri-lanka-strikes-restructuring-agreement-with-bondholders-report) · `en`
-
-(Bloomberg) -- Sri Lanka and creditors reached agreement on the terms for a $12 billion bond restructuring, bringing the South Asian nation closer to completing its debt overhaul two years after it defaulted.
-
-Bondholders and the nation agreed to a framework for a deal that includes notes linked to economic performance and a governance-linked structure as part of plain vanilla instruments, according to a statement released Wednesday at the conclusion of the second round of restricted talks.
-
-The deal marks the culmination of more than a year of difficult negotiations between Sri Lanka and its bondholders as officials took steps to rehabilitate the nation’s fiscal health. It will help restore access to international capital markets after the island nation fell into a default in 2022, and help Sri Lanka tap further funding from the International Monetary Fund.
-
-...
-
-[Data](articles/832d1fcf.json)
-
-[Extended Data](ext_articles/832d1fcf.ext.json)
 
 ---

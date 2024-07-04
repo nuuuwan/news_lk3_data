@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 00:07:20**
+As of **2024-07-05 00:19:39**
 
 ## Newspaper Stats
 
-*Scraped **33,712** Articles*
+*Scraped **33,715** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 310
 bbccomsinhala | 332
 newsfirstlk | 363
 islandlk | 1,880
-economynextcom | 1,982
+economynextcom | 1,985
 dailyftlk | 2,084
 adalk | 3,018
 adaderanalk | 3,849
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,712 (100.0%) of 33,712 articles have been extended.
+33,712 (100.0%) of 33,715 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -480,6 +480,26 @@ After taking the petition, the appearance petition was imposed on February 18, n
 
 ---
 
+### Majority of Sri Lanka’s ruling coalition backs Wickremesinghe for presidency: legislator
+
+*2024-07-04 18:31:00* · [`economynextcom`](https://economynext.com/majority-of-sri-lankas-ruling-coalition-backs-wickremesinghe-for-presidency-legislator-170974/) · `en`
+
+ECONOMYNEXT – Majority members of ruling Sri Lanka Podujana Peramuna (SLPP) is backing current President Ranil Wickremesinghe at the upcoming presidential poll, State Urban Development and Housing Minister Arundika Fernando said.
+
+Analysts expect an imminent split in the SLPP if its leaders do not support Wickremesinghe after his success in the economic recovery with IMF-led reforms following an unprecedented economic crisis.
+
+Most SLPP members voted in Wickremesinghe as the president through a parliament vote after his predecessor Gotabaya Rajapaksa fled the country in the face of mass protests and resigned.
+
+Wickremesinghe later appointed most SLPP legislators into his cabinet and some others as state ministers to run the bankrupt nation.
+
+Sri Lanka reached a deal with bilateral agreement last week while it has also agreed on a settlement for sovereign bond holders, which has to be endorsed by the IMF and the Official Credit Committee (OCC).
+
+...
+
+[Data](articles/79065da9.json)
+
+---
+
 ### Cesarean surgery rises to 50 percent in Sri Lanka
 
 *2024-07-04 18:07:32* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-සාමාන්‍ය-දරු-උපත්-පහළට-සිසේරියන්-සැත්කම්-සියයට-50-කින්-ඉහළට/11-410614) · `si`
@@ -549,6 +569,26 @@ Risi Tsunac Sunac, who warned the Labor Party today, on the day of election voti
 [Data](articles/9c0e1608.json)
 
 [Extended Data](ext_articles/9c0e1608.ext.json)
+
+---
+
+### Sri Lanka’s Colombo Port, US Virginia Port to collaborate
+
+*2024-07-04 17:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-colombo-port-us-virginia-port-to-collaborate-170953/) · `en`
+
+ECONOMYNEXT – The Sri Lanka Ports Authority (SLPA) and the Virginia Ports Authority (VPA) in the United States of America, have agreed to exchange expertise and technical collaboration between the Colombo and Virginia ports.
+
+The Port of Virginia is a major international gateway for US trade and runs an automated SMART port.
+
+The agreement covers 10 articles; information and knowledge sharing, exchange visits, sharing best practices, cooperation on general logistics, exchange of technical expertise, supporting initiatives in maritime security, liaising between parties, dispute settlement and entry into force, validity and renewal, and termination.
+
+The memorandum of cooperation (MOC) was agreed upon on May 15 in Portsmouth, VA when an SLPA delegation visited the United States on a study tour through The Colombo Plan.
+
+It came into effect with the approval by the cabinet of ministers in Sri Lanka on June 19, and has a validity period of five years.
+
+...
+
+[Data](articles/4edfdf4f.json)
 
 ---
 
@@ -1754,6 +1794,24 @@ Related Sri Lanka bondholders agree on 28-pct hair cut; GDP-gains capped at 15-p
 
 ---
 
+### Sri Lanka bondholder deal: hair cuts, coupons, GDP-link, too much or too little?
+
+*2024-07-04 11:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-bondholder-deal-hair-cuts-coupons-gdp-link-too-much-or-too-little-170833/) · `en`
+
+ECONOMYNEXT – Sri Lanka has reached a deal with bondholders involving hair cuts of 28 percent on bonds and 11 percent on interest arrears with the principal on some securities called macro-linked bonds to 15 percent if GDP grows at higher speeds.
+
+Sri Lanka could exchange 12.550 billion dollars of bonds into new instruments with a hair cut of 28 percent or 9.036 billion dollars maturing from 2029 to 2038. Two bond tranches maturing in 2034 and 2035 would be standard bonds with a coupon. Some of its could be made into bonds where improving governance would lead to a fall in coupons.
+
+Such bonds called Environmental Social Governance (ESG) have been issued in different contexts by governments in the past. Sri Lanka’s Verete Research the proposal to bondholders.
+
+Related Sri Lanka bondholders agree on 28-pct hair cut; GDP-gains capped at 15-pct
+
+...
+
+[Data](articles/eccde9eb.json)
+
+---
+
 ### PHI murder suspect arrested
 
 *2024-07-04 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198477) · `si`
@@ -2277,69 +2335,5 @@ Accordingly, the High Court judge who permitted the Attorney General to submit t
 [Data](articles/b5468804.json)
 
 [Extended Data](ext_articles/b5468804.ext.json)
-
----
-
-### Strategic action initiated with new projects
-
-*2024-07-04 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/187637) · `ta`
-
-A strategic initiative involving new projects will commence this Thursday, led by the Sri Lankan military with nationwide implementation planned for the upcoming years.
-
-🟩
-
-The police said that the strategy will be launched with new projects from Thursday (04).
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said that the Sri Lankan military is expected to get the support of the strategy.
-
-Nihal Talduwa also said that the entire country will be implemented in the coming years.
-
-◼️
-
-[Data](articles/3fbcac49.json)
-
-[Extended Data](ext_articles/3fbcac49.ext.json)
-
----
-
-### From today's new form
-
-*2024-07-04 09:47:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-புதிய-வடிவில்-யுக்திய/175-339850) · `ta`
-
-Starting today, police launch a new strategy backed by the military, initially in Colombo areas but planned nationwide coverage.
-
-🟩
-
-Police say that a new form of strategy will be launched from today (04).
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said that the action is expected to be supported by the military.
-
-Talduwa said the program was launched in many areas around Colombo and that it would be implemented in the future to cover the entire country.
-
-◼️
-
-[Data](articles/4142cd8b.json)
-
-[Extended Data](ext_articles/4142cd8b.ext.json)
-
----
-
-### The last celfium taken with the fatal bottle
-
-*2024-07-04 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198470) · `si`
-
-A fisherman named Celphium died after consuming a lethal substance from a bottle while at sea. Before his death, photos surfaced showing him and other fishermen who had also consumed the substance, some of whom were already hospitalized.
-
-🟩
-
-The Skyf, including the fishing vessel, was killed by drinking a liquid in a bottle of a bottle in the sea while he was in the sea.
-
-Before he was drinking the liquid, the fishermen and the fishermen who had died with the bottle and the fisherman who had already been hospitalized have appeared at a photo.
-
-◼️
-
-[Data](articles/bf51a166.json)
-
-[Extended Data](ext_articles/bf51a166.ext.json)
 
 ---

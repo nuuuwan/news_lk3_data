@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 17:35:26**
+As of **2024-07-04 17:56:01**
 
 ## Newspaper Stats
 
-*Scraped **33,680** Articles*
+*Scraped **33,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,844
 tamilmirrorlk | 3,982
 dailymirrorlk | 4,733
 virakesarilk | 5,269
-adaderanasinhalalk | 5,583
+adaderanasinhalalk | 5,584
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,668 (100.0%) of 33,680 articles have been extended.
+33,680 (100.0%) of 33,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### අද රාත්‍රී 9 සිට පැය 18ක ජල කප්පාදුවක්
+
+*2024-07-04 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198487) · `si`
+
+අද (04) රාත්‍රී 9 සිට පැය 18ක ජල කප්පාදුවක් සිදුකෙරෙන බව ජාතික ජලසම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
+
+ඒ අනුව කොළොන්නාව නගර සභා බල සීමාව, කඩුවෙල මහ නගර සභා බල ප්‍රදේශය, මුල්ලේරියාව සහ කොටිකාවත්ත ප්‍රාදේශීය සභා බල ප්‍රදේශවලට පැය 18ක කාලයක් ජල සැපයුම අත්හිටුවන බව දැනුම්දෙයි.
+
+අද (04) රාත්‍රී 9 සිට හෙට (05) පස්වරු 3 දක්වා මෙලෙස ජල කප්පාදුව සිදු කෙරෙයි.
+
+අඹතලේ ජල පවිත්‍රාගාරයේ සිට ජලය සැපයෙන ජල නලයක හදිසි නඩත්තු කටයුත්තක් මීට හේතුවී තිබේ.
+
+◼️
+
+[Data](articles/abe5a7fe.json)
+
+---
 
 ### 18-hour water cut in several areas
 
@@ -45,6 +63,8 @@ The water supply to the aforementioned areas is being temporarily suspended due 
 ◼️
 
 [Data](articles/bf3d6393.json)
+
+[Extended Data](ext_articles/bf3d6393.ext.json)
 
 ---
 
@@ -66,21 +86,29 @@ However, the strike by Customs trade unions was called off on Thursday following
 
 [Data](articles/d63ce3de.json)
 
+[Extended Data](ext_articles/d63ce3de.ext.json)
+
 ---
 
-### 3 பொருட்களின் விலைகள் குறைப்பு
+### Reduce the prices of 3 goods
 
 *2024-07-04 17:07:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-பொருட்களின்-விலைகள்-குறைப்பு/175-339870) · `ta`
 
-மூன்று அத்தியாவசிய பொருட்களின் விலைகளை குறைத்துள்ளதாகவும், புதிய விலைகள் வியாழக்கிழமை (4) முதல் அமுலுக்கு வரும் எனவும் சதொச அறிவித்துள்ளது.
+Sathosa reduces prices: Potatoes now 215 rupees/kg, red pulses 282 rupees/kg, white chin 269 rupees/kg, effective Thursday.
 
-இதன்படி, சீனாவில் இருந்து இறக்குமதி செய்யப்படும் உருளைக்கிழங்கின் ஒரு கிலோ கிராம் 15 ரூபாவினாலும், சிவப்பு பருப்பு கிலோ கிராம் ஒன்றின் விலை 14 ரூபாவினாலும், ஒரு கிலோ கிராம் வெள்ளை சீனியின் விலை 6 ரூபாவினாலும் குறைக்கப்பட்டுள்ளது.
+🟩
 
-ஒரு கிலோ கிராம் உருளைக்கிழங்கின் புதிய விலை 215 ரூபாவாகவும், சிவப்பு பருப்பு ஒரு கிலோ கிராமின் புதிய விலை 282 ரூபாவாகவும், ஒரு கிலோ கிராம் வெள்ளை சீனியின் புதிய விலை 269 ரூபாவாகும்.
+Sathosa has announced that the prices of three essential commodities have been reduced and the new prices will come into effect on Thursday (4).
+
+Accordingly, the price of a kilogram of potatoes imported from China has been reduced by 15 rupees, a kilogram of red pulses is 14 rupees and a kilogram of white chin.
+
+The new price of a kilogram of potatoes is 215 rupees, the new price of red pulses is 282 rupees and the new price of a kilogram of white chin is 269 rupees.
 
 ◼️
 
 [Data](articles/59f977fd.json)
+
+[Extended Data](ext_articles/59f977fd.ext.json)
 
 ---
 
@@ -99,6 +127,8 @@ A bond maturing on 01.10.2032 closed at 12.15/25 percent. (Colombo/Jul4/2024)
 ◼️
 
 [Data](articles/39114a54.json)
+
+[Extended Data](ext_articles/39114a54.ext.json)
 
 ---
 
@@ -121,6 +151,8 @@ Sampath Bank Plc, one of five crossings in the day, also saw foreign buying inte
 ...
 
 [Data](articles/3321bff9.json)
+
+[Extended Data](ext_articles/3321bff9.ext.json)
 
 ---
 
@@ -320,6 +352,8 @@ Cable Solutions aims to raise 109,999,500 rupees from the public through a subsc
 
 [Data](articles/e2d63ce8.json)
 
+[Extended Data](ext_articles/e2d63ce8.ext.json)
+
 ---
 
 ### State Bank Employees Demonstration in Nuwara Eliya
@@ -359,6 +393,8 @@ President Ranil Wickremesinghe’s United National Party (UNP)’s position also
 ...
 
 [Data](articles/ae698b05.json)
+
+[Extended Data](ext_articles/ae698b05.ext.json)
 
 ---
 
@@ -592,6 +628,8 @@ Q: Who will benefit if the Supreme Court rules a stay order?
 
 [Data](articles/efd3692c.json)
 
+[Extended Data](ext_articles/efd3692c.ext.json)
+
 ---
 
 ### Woman death in Jaffna
@@ -630,6 +668,8 @@ ECONOMYNEXT — Sri Lanka President Ranil Wickremesinghe has said he believes th
 
 [Data](articles/6a709adf.json)
 
+[Extended Data](ext_articles/6a709adf.ext.json)
+
 ---
 
 ### China minister discusses cooperation with Customs, increasing exports
@@ -649,6 +689,8 @@ Amaraweera said Sri Lanka’s agricultural exports to China in 2023 was 3.3 bill
 ...
 
 [Data](articles/85be4abf.json)
+
+[Extended Data](ext_articles/85be4abf.ext.json)
 
 ---
 
@@ -715,6 +757,8 @@ The Sri Lanka Opinion Tracker Survey (SLOTS) carried out by the Institute for He
 ...
 
 [Data](articles/cffaeaef.json)
+
+[Extended Data](ext_articles/cffaeaef.ext.json)
 
 ---
 
@@ -1007,6 +1051,8 @@ Related Sri Lanka bondholders agree on 28-pct hair cut; GDP-gains capped at 15-p
 ...
 
 [Data](articles/def75ba0.json)
+
+[Extended Data](ext_articles/def75ba0.ext.json)
 
 ---
 
@@ -2243,27 +2289,5 @@ The Attorney General filed the indictment against eight accused before the Colom
 [Data](articles/55e34197.json)
 
 [Extended Data](ext_articles/55e34197.ext.json)
-
----
-
-### HRCSL makes strong recommendations over prefects’ appointments at Royal College
-
-*2024-07-04 03:37:03* · [`dailyftlk`](https://www.ft.lk/news/HRCSL-makes-strong-recommendations-over-prefects-appointments-at-Royal-College/56-763834) · `en`
-
-The Human Rights Commission of Sri Lanka (HRCSL) has issued a set of recommendations to Royal College, Colombo 7, pertaining to alleged irregularities in the appointments of the Prefects Council for the year 2023/2024.
-
-In its recommendations, the HRCSL insists that Royal College appoint one of the complainant students, M.G. Jayawardena as a prefect as he has achieved a mark exceeding the cut-off of 27.
-
-The Commission also recommends that the Principal of Royal College investigates a complaint filed by one of the complainants, M. Pathberiya alleging mistreatment by members of the Prefects Council.
-
-Furthermore, the HRCSL suggests that the Royal College Principal discusses with the tutorial staff on the appointment of two prefects who do not meet the relevant criteria.
-
-The Commission is also awaiting the outcome of an investigation by the Education Ministry into the submission of false documents by Royal College to the Commission inquiry regarding the appointment of two prefects.
-
-...
-
-[Data](articles/8bb09636.json)
-
-[Extended Data](ext_articles/8bb09636.ext.json)
 
 ---

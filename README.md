@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 22:53:07**
+As of **2024-07-04 23:04:50**
 
 ## Newspaper Stats
 
-*Scraped **33,711** Articles*
+*Scraped **33,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,018
 adaderanalk | 3,849
 tamilmirrorlk | 3,986
 dailymirrorlk | 4,733
-virakesarilk | 5,277
+virakesarilk | 5,278
 adaderanasinhalalk | 5,589
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,711 (100.0%) of 33,711 articles have been extended.
+33,711 (100.0%) of 33,712 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -97,6 +97,20 @@ State Minister Indika Anuruddha conveyed these updates during a media briefing a
 [Data](articles/e5ecb503.json)
 
 [Extended Data](ext_articles/e5ecb503.ext.json)
+
+---
+
+### இலங்கை - ஜப்பானுக்கு இடையில் பொருளாதாரத்தொடர்புகளை விரிவுபடுத்துதல்; குறித்து உயர்மட்டக்குழுவினருடன் வெளிவிவகார அமைச்சர் அலி சப்ரி பேச்சுவார்த்தை
+
+*2024-07-04 21:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/187704) · `ta`
+
+ஜப்பானுக்கு உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டிருக்கும் வெளிவிவகார அமைச்சர் அலி சப்ரி, இருநாடுகளுக்கும் இடையிலான பொருளாதாரத் தொடர்புகளை மேலும் வலுப்படுத்துவது குறித்தும், இலங்கையில் ஜப்பானின் புதிய முதலீடுகளை ஊக்குவிப்பது குறித்தும் பல்வேறு உயர்மட்டப்பிரதிநிதிகள் குழுவினருடன் பரந்துபட்ட பேச்சுவார்த்தைகளை முன்னெடுத்துள்ளார்.
+
+ஜப்பானிய வெளிவிவகார அமைச்சரின் அழைப்பின்பேரில் வெளிவிவகார அமைச்சர் அலி சப்ரி இம்மாதம் 1 - 7 ஆம் திகதி வரை ஜப்பானுக்கு உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டுள்ளார். இவ்விஜயத்தின்போது ஜப்பானிய வெளிவிவகார அமைச்சர் யொகோ கமிகவா, சிரேஷ்ட அமைச்சரவை செயலாளர் ஹயாஷி யொஷிமஸா, நீதியமைச்சர் யுச்சி கொய்ஸுமி ஆகியோர் உள்ளடங்கலாக பல்வேறு உயர்மட்டத்தரப்பினரைச் சந்தித்து கலந்துரையாடல்களை முன்னெடுத்திருந்தார்.
+
+...
+
+[Data](articles/7ece1a97.json)
 
 ---
 
@@ -2319,23 +2333,5 @@ Before he was drinking the liquid, the fishermen and the fishermen who had died 
 [Data](articles/bf51a166.json)
 
 [Extended Data](ext_articles/bf51a166.ext.json)
-
----
-
-### ‘Yukthiya’ operation to be launched with new vigour
-
-*2024-07-04 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100282/yukthiya-operation-to-be-launched-with-new-vigour) · `en`
-
-The ‘Yukthiya’ islandwide operation currently in force to eliminate all illegal activities will be launched with a new vigour from today (7), said the Sri Lanka Police.
-
-Police spokesman DIG Nihal Thalduwa stated that it is also expected to get the support of the Sri Lanka Army for the ‘Yukthiya’ operation.
-
-DIG Thalduwa, further stated that the operation has commenced in several areas around Colombo and it will be expanded, covering the island shortly.
-
-◼️
-
-[Data](articles/27e99c23.json)
-
-[Extended Data](ext_articles/27e99c23.ext.json)
 
 ---

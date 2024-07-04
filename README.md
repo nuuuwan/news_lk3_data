@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 10:35:07**
+As of **2024-07-04 10:53:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,602 (100.0%) of 33,608 articles have been extended.
+33,608 (100.0%) of 33,608 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ President Ranil Wickremesinghe says he firmly believes that the President’s te
 ◼️
 
 [Data](articles/82fb8da8.json)
+
+[Extended Data](ext_articles/82fb8da8.ext.json)
 
 ---
 
@@ -88,35 +90,47 @@ Accordingly, the High Court judge who permitted the Attorney General to submit t
 
 ---
 
-### புதிய திட்டங்களுடன் ஆரம்பிக்கப்படும் யுக்திய நடவடிக்கை
+### Strategic action initiated with new projects
 
 *2024-07-04 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/187637) · `ta`
 
-யுக்திய நடவடிக்கையானது இன்று வியாழக்கிழமை  (04) முதல்  புதிய திட்டங்களுடன் ஆரம்பிக்கப்படவுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A strategic initiative involving new projects will commence this Thursday, led by the Sri Lankan military with nationwide implementation planned for the upcoming years.
 
-யுக்திய நடவடிக்கைக்கு இலங்கை இராணுவத்தின் ஆதரவு கிடைக்கும் என எதிர்பார்க்கப்படுவதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதிப் பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+🟩
 
-மேலும், எதிர்வரும் காலங்களில் முழு நாட்டையும் உள்ளடக்கும் வகையில்  நடைமுறைப்படுத்தப்படும் எனவும் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+The police said that the strategy will be launched with new projects from Thursday (04).
+
+Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said that the Sri Lankan military is expected to get the support of the strategy.
+
+Nihal Talduwa also said that the entire country will be implemented in the coming years.
 
 ◼️
 
 [Data](articles/3fbcac49.json)
 
+[Extended Data](ext_articles/3fbcac49.ext.json)
+
 ---
 
-### இன்று முதல் புதிய  வடிவில் ’யுக்திய’
+### From today's new form
 
 *2024-07-04 09:47:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-புதிய-வடிவில்-யுக்திய/175-339850) · `ta`
 
-இன்று (04) முதல் புதிய வடிவில் யுக்திய நடவடிக்கை ஆரம்பிக்கப்படவுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Starting today, police launch a new strategy backed by the military, initially in Colombo areas but planned nationwide coverage.
 
-இந்த நடவடிக்கைக்கு இராணுவத்தினரின் ஆதரவு கிடைக்கும் என எதிர்பார்க்கப்படுவதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதிப் பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்தார்.
+🟩
 
-கொழும்பை சுற்றியுள்ள பல பிரதேசங்களில் இந்த வேலைத்திட்டம் ஆரம்பிக்கப்பட்டதாகவும், எதிர்காலத்தில் முழு நாட்டையும் உள்ளடக்கும் வகையில் இது நடைமுறைப்படுத்தப்படும் எனவும் தல்துவ குறிப்பிட்டார்.
+Police say that a new form of strategy will be launched from today (04).
+
+Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said that the action is expected to be supported by the military.
+
+Talduwa said the program was launched in many areas around Colombo and that it would be implemented in the future to cover the entire country.
 
 ◼️
 
 [Data](articles/4142cd8b.json)
+
+[Extended Data](ext_articles/4142cd8b.ext.json)
 
 ---
 
@@ -158,31 +172,45 @@ DIG Thalduwa, further stated that the operation has commenced in several areas a
 
 ---
 
-### உலகின் முதல் சர்வதேச ஒட்டிப் பிறந்த இரட்டையர்கள் மாநாட்டை சவூதி அரேபியா நடத்த தீர்மானம்
+### Saudi Arabia resolves the world's first internationally born twin conference
 
 *2024-07-04 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/187634) · `ta`
 
-2024 ஆம் ஆண்டு நவம்பர் 24 ஆம் திகதியை 'உலக ஒட்டிப் பிறந்த இரட்டையர்கள் தினம்' ஆக ஐக்கிய நாடுகள் சபை அறிவித்துள்ளது. ஒட்டிப் பிறந்த இரட்டையர்களின் நிலையைப் பற்றி வலியுறுத்தவும், அவர்களின் சிகிச்சை, பராமரிப்பு மற்றும் நல்வாழ்வு உட்பட சமூகத்தில் அவர்களுக்கான அங்கீகாரத்தை மேம்படுத்தவும் இந்நாள் முக்கியப்படுத்தப்பட்டுள்ளது.
+Saudi Arabia, along with Bahrain, Morocco, Qatar, and Yemen, has initiated a groundbreaking project since 1990, focusing on twin separation surgeries. Led by King Salman and renowned surgeon Dr. Abdullah Alrafih, the country has performed successful operations on 61 pairs of twins from 26 nations. This effort culminated in the United Nations declaring November 24 as 'World Birthday Tuesday Day,' recognizing Saudi Arabia's leadership in improving the lives of twins globally. The inaugural international conference on this topic will take place in Riyadh on November 24-25, emphasizing the project's significance and impact.
 
-பஹ்ரைன், மொராக்கோ, கத்தார் மற்றும் ஏமன் ஆகிய நாடுகளுடன் இணைந்து இந்த முயற்சியை சவூதி அரேபியா முன்மொழிந்தமை குறிப்பிடத்தக்கது.
+🟩
+
+The United Nations has announced the 24th of November 2024 to be 'World Birthday Tuesday Day'. Today, it is important to emphasize the status of the twins and improve their recognition in the community, including their treatment, care and well -being.
+
+Saudi Arabia has proposed this initiative with Bahrain, Morocco, Qatar and Yemen.
+
+Since the project was launched in 1990, Saudi Arabia has been the leading country in the world.. Saudi Arabia has reviewed 139 twins from 26 countries and has successfully divided 61 pair of twins. King Salman is the adviser to the Saudi Arabian Court and King Salman is the Supervisor General of the Ksrelief and the renowned child surgeon, Dr. Abdullah Alrafih, the Chairman of the Saudi Arabian doubles program.
 
 ...
 
 [Data](articles/53ba44fc.json)
 
+[Extended Data](ext_articles/53ba44fc.ext.json)
+
 ---
 
-### இலஞ்சம் பெற்ற பொலிஸ் பரிசோதகர் கைது
+### Bribery Police Inspector arrested
 
 *2024-07-04 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/187636) · `ta`
 
-இலஞ்சம் பெற்ற பொலிஸ் பரிசோதகர் ஒருவர் இலஞ்சம் ஆணைக்குழு அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
+A bribery police inspector was arrested by the bribery commission for allegedly accepting a bribe to issue a cashless check.
 
-பணம் இல்லாத காசோலையை வழங்கி நபரிடம் இருந்து தவணை முறையில் பணத்தை பெற்று தருவதாக கூறி அவர் இலஞ்சம் பெற்றதாக தெரிவிக்கப்படுகிறது.
+🟩
+
+A bribe police inspector has been arrested by the bribery commission officials.
+
+He is said to have bribed the person to give money from the person to provide a cashless check.
 
 ◼️
 
 [Data](articles/8b8eebff.json)
+
+[Extended Data](ext_articles/8b8eebff.ext.json)
 
 ---
 
@@ -254,23 +282,29 @@ For this purpose, the district branch of the Sri Lanka Tamil State Party, includ
 
 ---
 
-### විදුලි ගාස්තු සංශෙෘ්ධන ගැන කොමිසමේ තීරණය ජුලි 09දා
+### Commission's decision on Amendment
 
 *2024-07-04 08:57:40* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෙෘ්ධන-ගැන-කොමිසමේ-තීරණය-ජුලි-09දා/11-410600) · `si`
 
-ලංකා විදුලි බල මණ්ඩලය මගින් මේ  වසරේ දෙවන වතාවට  සිදු කිරීමට යෝජිත  විදුලි ගාස්තු සංශෝධනයට අදාලව මහජනයාගේ වාචික අදහස් ලබා ගැනීම ජූලි 09 දා කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේදී සිදු කරන බව  ශ්‍රී ලංකා මහජන උපයෝගීතා කොමිෂන් සභාව පවසයි.
+The Public Utilities Commission of Sri Lanka (PUCSL) announced that it accepted public oral comments until July 9th and would review written proposals regarding a proposed reduction in electricity tariffs. The final decision on tariff revisions, considering public feedback, was scheduled for July 15th.
 
-ඒ අනුව   මෙම විදුලි ගාස්තු සංශෝධනය  පිළිබඳව උනන්දුවක් දක්වන්නන්ට ජූලි 07 දාට පෙර මේ සඳහා කොමිසමේ  ලියා පදිංචිවී  09 දා   පෙරවරු 8.30 සිට පස්වරු 4.30 දක්වා පැමිණ එහිදී  තම අදහස් දැක්වීමට   අවස්ථාව සලසා ඇතැයි   මහජන උපයෝගීතා කොමිෂන් සභාව දැනුම් දෙයි .
+🟩
 
-මෙම  යෝජනාව පිළිබඳ  මහජනයාගේ ලිඛිත අදහස් මෙම 08 දා දක්වා තව දුරටත්  ලබා ගන්නා බවද  මහජන උපයෝගීතා කොමිෂන් සභාව සඳහන් කරයි.
+The Public Utilities Commission of Sri Lanka (PUCSL) says that the public's oral comments are carried out on July 9th this year.
 
-පවතින විදුලි ගාස්තු පහල දැමීම සඳහා විදුලි බල මන්ඩලය මගින් කොමිසම වෙත ඉදිරිපත් කර ඇති   මෙම ගාස්තු  සංශෝධන යෝජනාව  මේ වන විට සමාලෝචනයට ලක් කරමින් සිටින බවද මහජන උපයෝගීතා කොමිෂන් සභාව සඳහන් කරයි.
+Accordingly, the Public Utilities Commission has informed that the Commission has been given the opportunity to comment on the Commission to the Commission before July 07 to 4.30 am from 8.30 am to 4.30 am to 4.30 am.
 
-මෙම  ගාස්තු සංශෝධනයට අදාල කොමිෂන් සභාවේ  අවසන් තීරණය   මහජන අදහස් විමසීමෙන් පසුව ජූලි 15 දා ලබාදෙන බව ශ්‍රී ලංකා මහජන උපයෝගීතා කොමිෂන් සභාව වැඩිදුරටත් පැවසීය.
+The Public Utilities Commission states that the written comments of the proposal will be obtained up to this month.
+
+The Public Underlying Commission states that the amendment proposal has been reviewed by the Commission to the Commission to reduce the existing electricity tariffs.
+
+The final decision of the Commission Revision of these tariffs will be given public views on July 15, "the Public Utilities Commission of Sri Lanka added.
 
 ◼️
 
 [Data](articles/b22b4e4c.json)
+
+[Extended Data](ext_articles/b22b4e4c.ext.json)
 
 ---
 

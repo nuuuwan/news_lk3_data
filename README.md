@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 13:56:14**
+As of **2024-07-04 14:06:39**
 
 ## Newspaper Stats
 
-*Scraped **33,646** Articles*
+*Scraped **33,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,972
 dailyftlk | 2,084
-adalk | 3,006
+adalk | 3,007
 adaderanalk | 3,839
 tamilmirrorlk | 3,980
 dailymirrorlk | 4,733
@@ -26,25 +26,51 @@ adaderanasinhalalk | 5,577
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,645 (100.0%) of 33,646 articles have been extended.
+33,646 (100.0%) of 33,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### யாழில் குளவி கொட்டியதில் பெண் மரணம்
+### Woman death in Jaffna
 
 *2024-07-04 13:36:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-குளவி-கொட்டியதில்-பெண்-மரணம்/175-339863) · `ta`
 
-குளவி கொட்டியதையடுத்து, குறித்த பெண் தெல்லிப்பளை வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்ட போதிலும், அங்கு அவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+A 67-year-old woman from Chettikurichi, Gunasekaram Varadasiramani, died after being stung by wasps while cutting palm tiles near her home. She was treated at Tellippalai Hospital but passed away there.
 
-செட்டிக்குறிச்சி பண்டத்தரிப்பு பகுதியைச் சேர்ந்த 67 வயதுடைய குணசேகரம் வரதாசிரோமணி என்ற பெண்ணே உயிரிழந்துள்ளார்.
+🟩
 
-குறித்த பெண் தனது வீட்டிற்கு அருகில் உள்ள காணியில் பனை ஓலைகளை வெட்டிக் கொண்டிருந்த போது குளவி கொட்டியுள்ளது.
+The woman was admitted to the Tellippalai Hospital for treatment after the wasp shed, but she died there, police said.
+
+Gunasekaram Varadasiramani, a 67 -year -old woman from Chettikurichi, has died.
+
+The woman was wasps when she was cutting palm tiles in a land near her home.
 
 ◼️
 
 [Data](articles/44b00d08.json)
+
+[Extended Data](ext_articles/44b00d08.ext.json)
+
+---
+
+### අකුණුසැර වැදීමෙන් ගොවි මහතෙකු මියයයි
+
+*2024-07-04 13:14:14* · [`adalk`](https://www.ada.lk/breaking_news/අකුණුසැර-වැදීමෙන්-ගොවි-මහතෙකු-මියයයි/11-410611) · `si`
+
+ඇතිමලේ පොලිස් වසමට අයත් සඳගනාව කුඹුරු යායක වැඩකරමින් සිටි ගොවි මහතෙකු ඊයේ (03)දින වෙනිදා සවස අකුණුසැර වැදීමෙන් මියගොස් ඇතැයි ඇතිමලේ පොලීසිය පවසයි.
+
+මෙලෙස මියගොස් ඇත්තේ ඇතිමලේ වැව ගොවිපොළපාර පදිංචි ඒ.එම් ප්‍රේමරත්න (50) නැමති සිව්දරු පියෙකි.
+
+හෙතෙම තවත් තිදෙනෙකු සමඟ කුඹුරේ වැඩකරමින් සිට ඇති අතර ඒ අවස්ථාවේ ඇදහැලුණු වැස්ස නිසා ඔහු සහ තවත් අයෙකු කුඹුර අසල පිහිටි   ගසක් යටට ගොස් ඇත.
+
+එවිට අකුණුසැර වැදීමෙන් ඔහු බිම වැටී ඇති අතර ඇතිමලේ ප්‍රාදේශීය රෝහලට ගෙන යන අතරමඟදී මියගොස් තිබේ.
+
+සෙසු අයට අනතුරෙන් හානි සිදුවී නැත. ඇතිමලේ පොලීසිය පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/aed5bc1d.json)
 
 ---
 
@@ -2211,27 +2237,5 @@ The High Court has already deactivated Rs. 140 crores belonging to them.
 [Data](articles/a9639c90.json)
 
 [Extended Data](ext_articles/a9639c90.ext.json)
-
----
-
-### 15 kilograms of womb of a mother of a mother
-
-*2024-07-03 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198459) · `si`
-
-A 38-year-old woman from Weeraketiya had her womb removed weighing about 15 kg. The procedure was conducted by a team including the Hambantota General Hospital director and Dr. Samantha Samarawickrama. Post-surgery, she is reported to be in good health.
-
-🟩
-
-Around 15 kilograms of the womb of a 38-year-old resident of Weeraketiya area has been removed today (03).
-
-A team including Director at Hambantota General Hospital and Dr. Samantha Samarawickrama.
-
-Hospital sources say that the mother undermined the surgery is in good health, hospital sources said.
-
-◼️
-
-[Data](articles/26b9c7b3.json)
-
-[Extended Data](ext_articles/26b9c7b3.ext.json)
 
 ---

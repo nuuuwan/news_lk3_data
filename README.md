@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 10:05:46**
+As of **2024-07-04 10:19:43**
 
 ## Newspaper Stats
 
-*Scraped **33,600** Articles*
+*Scraped **33,602** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,67 @@ adaderanalk | 3,834
 tamilmirrorlk | 3,974
 dailymirrorlk | 4,733
 virakesarilk | 5,252
-adaderanasinhalalk | 5,568
+adaderanasinhalalk | 5,570
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,598 (100.0%) of 33,600 articles have been extended.
+33,600 (100.0%) of 33,602 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### මාරක බෝතලය සමග ගත් අවසන් සෙල්ෆිය
+### මැතිවරණ කොමිසමේ තීරණයට ජනපතිගේ සහාය
+
+*2024-07-04 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198472) · `si`
+
+2024 දී ජනාධිපතිවරණය පැවැත්වීමට අදාළව මැතිවරණ කොමිසමේ තීරණයට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහාය පළ කරන බව ජනාධිපති මාධ්‍ය ඒකකය නිවේදනය කරයි.
+
+එමෙන්ම ජනාධිපතිවරයාගේ ධුර කාලය වසර 5ක් බවට ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා තරයේ විශ්වාස කරන බව එම නිවේදනයේ වැඩිදුරටත් දැක්වේ.
+
+◼️
+
+[Data](articles/c1706a6c.json)
+
+---
+
+### හිරුණිකාගේ ඉල්ලීමට නීතිපති ගෙන් විරෝධය ?
+
+*2024-07-04 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198471) · `si`
+
+බරපතළ වැඩසහිතව වසර තුනක සිර දඬුවම් නියමවී සිටින හිටපු පාර්ලිමේන්තු මන්ත්‍රීනි හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය ඇප මත මුදාහරින ලෙස කර තිබෙන ඉල්ලීමට අදාළව විරෝධතා ගොනු කරන බව නීතිපතිවරයා අද (04) කොළඹ මහාධිකරණය හමුවේ දැනුම් දුන්නේය.
+
+මෙම ඇප ඉල්ලීම අද කොළඹ මහාධිකරණ විනිසුරු අමල් රණරාජා මහතා ඉදිරියේ සලකා බැලීය.
+
+එහිදී රජයේ නීතිඥවරයා සඳහන් කළේ මෙම ඉල්ලීමට අදාළව විරෝධතා ඉදිරිපත් කිරීමට නීතිපතිවරයා අපේක්ෂා කරන බවත් එම විරෝධතා ලිඛිතව ගොනු කිරීම සඳහා කල්ලබා දෙන ලෙසත් ඉල්ලා සිටියේය.
+
+ඒ අනුව විරෝධතා ඉදිරිපත් කිරීමට නීතිපතිවරයාට අවසර දුන් මහාධිකරණ විනිසුරුවරයා මෙම ඇප ඉල්ලීම යළි ලබන 11 වනදා කැඳවන ලෙසත් නියෝග කළේය.
+
+◼️
+
+[Data](articles/b5468804.json)
+
+---
+
+### The last celfium taken with the fatal bottle
 
 *2024-07-04 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198470) · `si`
 
-"ඩෙවෝන් පුතා 5" බහුදින ධීවර යාත්‍රාවෙන් මුහුදු ගොස්  සිටියදී මුහුදේ පාවීආ බෝතලයක තිබූ දියර වර්ගයක් පානය කිරීමෙන් එම ධීවර යාත්‍රාවේ ස්කීපර්වරයා ඇතුළු 5 දෙනෙකු ජීවිතක්ෂයට පත්විය.
+A fisherman named Celphium died after consuming a lethal substance from a bottle while at sea. Before his death, photos surfaced showing him and other fishermen who had also consumed the substance, some of whom were already hospitalized.
 
-එම දියරය පානය කිරීමට පෙර එම බෝතලය සමඟ ජීවිතක්ෂයට පත් වූ ධීවරයන් හා මේ වන විට අසාධ්‍ය තත්ත්වයට පත්ව රෝහල්ගතව සිටින ධීවරයා සෙල්ෆි ඡායාරූපයකට  පෙනී සිටි අයුරු.
+🟩
+
+The Skyf, including the fishing vessel, was killed by drinking a liquid in a bottle of a bottle in the sea while he was in the sea.
+
+Before he was drinking the liquid, the fishermen and the fishermen who had died with the bottle and the fisherman who had already been hospitalized have appeared at a photo.
 
 ◼️
 
 [Data](articles/bf51a166.json)
+
+[Extended Data](ext_articles/bf51a166.ext.json)
 
 ---
 
@@ -59,6 +97,8 @@ DIG Thalduwa, further stated that the operation has commenced in several areas a
 ◼️
 
 [Data](articles/27e99c23.json)
+
+[Extended Data](ext_articles/27e99c23.ext.json)
 
 ---
 
@@ -2245,55 +2285,5 @@ The injured girl was admitted to the Panadura Resource Hospital and was transfer
 [Data](articles/f54b6662.json)
 
 [Extended Data](ext_articles/f54b6662.ext.json)
-
----
-
-### Sri Lanka Treasuries yields steady across maturities
-
-*2024-07-03 15:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-steady-across-maturities-170695/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasuries yields were steady across maturities at Wednesday’s auction, with 175 billion rupees sold of the offered 190.
-
-The three-month yield was unchanged at 10.07 percent, with 65.3 billion rupees of bills sold after offering 50 billion.
-
-The six-month yield was unchanged at 10.19 percent, with 73.6 billion rupees raised after offering 90 billion.
-
-The 12-month yield was unchanged at 10.31 percent with 36.6 billion rupees of bills sold after offering 50 billion.
-
-◼️
-
-[Data](articles/14c98a16.json)
-
-[Extended Data](ext_articles/14c98a16.ext.json)
-
----
-
-### Thirumalai on the 7th of Sampanthan's funeral: Many tribute to Parliament today
-
-*2024-07-03 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187594) · `ta`
-
-Rajavarothayam Sambandan, a senior leader of the Sri Lanka Tamil National Party, passed away and his funeral was held with tributes from various dignitaries, including politicians and embassy officials. His funeral procession included stops at significant locations related to his life, including his alma mater in Jaffna and the Hindu Cemetery in Trincomalee, concluding with a final tribute on Sunday, the 7th.
-
-🟩
-
-Senior Leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian Rajavarothayam Sambandan will be held at the Hindu Cemetery on Sunday, the 07th of this month.
-
-Meanwhile, Sampanthan's funeral has been placed in the Borella AF Remant Flower at Borella from Tuesday (02) morning (3) afternoon.
-
-The public, including ministers, parliamentarians, politicians and embassy officials, paid tribute to the Annaru Buddha.
-
-Meanwhile, Jaffna is one of the schools where Sampanthan studied. The Colombo Branch of St. Patriarch's College's Alumni Association paid tribute to Annar's funeral.
-
-In this case, the funeral will be taken to Trincomalee on Thursday evening.
-
-From Friday (5) to Sunday (7), people will be placed for a tribute.
-
-The funeral will be held on Sunday, the 07th, and the funeral will be taken to the Hindu Cemetery at 4.00 pm.
-
-◼️
-
-[Data](articles/63594ed5.json)
-
-[Extended Data](ext_articles/63594ed5.ext.json)
 
 ---

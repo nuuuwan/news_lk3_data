@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 16:19:52**
+As of **2024-07-04 16:36:11**
 
 ## Newspaper Stats
 
@@ -26,35 +26,43 @@ adaderanasinhalalk | 5,581
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,657 (100.0%) of 33,659 articles have been extended.
+33,659 (100.0%) of 33,659 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### රෝහලින් භාර නොගත් කිරි සිරවූ බිළිඳා මිය යයි
+### Inbow, infrated of uneducated milk
 
 *2024-07-04 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198484) · `si`
 
-මාස 2ක බිළිඳෙකුට කිරි හිරවීම නිසා රෝහලට රැගෙන ඒමෙන් පසු අදාළ රෝහල බිළිඳාව භාර නොගැනීම හේතුවෙන් වෙනත් රෝහලකට රැගෙන යන අතරතුර බිළිඳා මියයෑමේ සිද්ධියක් වාර්තා විය.
+An infant, one of twin siblings aged 2 and 27 days, died after being transferred between hospitals due to a milk shortage issue. The twins were initially taken to a hospital but were moved to the Matara District New Hospital. However, due to administrative delays, they were later transported to the Matara General Hospital. The cause of death, according to the autopsy, was related to milk issues.
 
-මාතර දිස්ත්‍රික් නව රෝහලට රැගෙන ආ බිළිඳාව එලෙස භාරගෙන නොතිබුණු බව වාර්තා විය.
+🟩
 
-මෙලෙස ජීවිතක්ෂයට පත්වී ඇත්තේ මාතර කඹුරුගමුව ප‍්‍රදේශයේ පදිංචි ඔසඳ ආකිෂ් නමැති මාස 2යි දින 27ක් වයසැති නිවුන් දරුවන් දෙදෙනාගේ වැඩිමහල් බිළිඳාය.
+After the milk was brought to the hospital due to milk border, the relevant hospital was reported to be taken to another hospital due to the lack of handing over the bulk.
 
-ඊයේ (03) අලුයම් කාලයේදී මෙම දරුවාට කිරි ලබාදී ඇති අතර එහිදී කිරි සිරවීමක් සිදුවී ඇත.
+It was reported that the infant was taken to the Matara District New Hospital.
 
-දෙමව්පියන් විසින් ත්‍රීරෝද රථයකින් බිළිඳාව වහාම මාතර කොටවිල ප‍්‍රදේශයේ පිහිටා ඇති මාතර දිස්ත්‍රික් නව රෝහල වෙත රැගෙන ගොස් තිබුණි.
+The deceased was the elder infant of the two twin children, two and 27 days 27 days 27 days 27 days in Matara.
 
-මව්පියන් පවසන පරිදි, එහිදී ආරක්ෂක නිලධාරීන් පවසා ඇත්තේ රෝගියා භාර ගැනීමට නොහැකි බවත් ඒ මොහොතේ හදිසි ප‍්‍රතිකාර ඒකකය ක්‍රියාත්මක නොවන බවත් ය.
+The child has provided milk during yesterday (03).
 
-පසුව ගිලන් රථයකින් හෝ වෙනත් රෝහලක් වෙත දරුවා රැගෙන යාම සඳහා රෝහලට ඇතුළුවීමට ඉඩ දෙන ලෙස දෙමව්පියන් පවසා ඇති අතර එයද රෝහල් ආරක්ෂක අංශය වළක්වා තිබේ.
+The infant had been taken to the Matara District New Hospital in the Kotawila area in Matara.
 
-පසුව ඔවුන් කිලෝමීටර් 10ක් පමණ දුර ගෙවා මාතර මහා රෝහල වෙත බිළිඳා රැගෙන ගොස් ඇත.
+According to the parents, the security personnel have said that the patient cannot accept that the patient cannot be taken up at the moment.
+
+The parents have told the parents to allow the hospital to take the hospital in ambulance or other hospital.
+
+Later, they paid about 10 miles [10 km] and the baby was taken to the Matara General Hospital.
+
+The doctors have said that the baby has been brought about 30 minutes ago, that the baby had been brought back to 30 minutes ago.
 
 ...
 
 [Data](articles/7fc4fbde.json)
+
+[Extended Data](ext_articles/7fc4fbde.ext.json)
 
 ---
 
@@ -1189,6 +1197,8 @@ Operation 'Yukthiya' - Second Phase (Police  Press Release) by Adaderana Online 
 ◼️
 
 [Data](articles/5eca2cfd.json)
+
+[Extended Data](ext_articles/5eca2cfd.ext.json)
 
 ---
 

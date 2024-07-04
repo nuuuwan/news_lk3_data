@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 06:21:29**
+As of **2024-07-04 07:01:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,563 (100.0%) of 33,576 articles have been extended.
+33,571 (100.0%) of 33,576 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -452,6 +452,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/cf378231.json)
 
+[Extended Data](ext_articles/cf378231.ext.json)
+
 ---
 
 ### Fun-filled outing
@@ -476,6 +478,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/bd596855.json)
 
+[Extended Data](ext_articles/bd596855.ext.json)
+
 ---
 
 ### Boardpac awarded Carbon Neutral Certification
@@ -487,6 +491,8 @@ BoardPAC has proudly earned the Carbon Neutral Certificate for 2022 from The Sri
 ...
 
 [Data](articles/a5466115.json)
+
+[Extended Data](ext_articles/a5466115.ext.json)
 
 ---
 
@@ -502,6 +508,8 @@ We can see many cases where students from affected families face problems in the
 
 [Data](articles/059c575c.json)
 
+[Extended Data](ext_articles/059c575c.ext.json)
+
 ---
 
 ### Introducing world’s first 2024 GMC Hummer EV in right-hand drive
@@ -516,6 +524,8 @@ The 2024 GMC Hummer EV SUV, in the exclusive Moonshot Green Edition 1, is not ju
 
 [Data](articles/3ab3b4c1.json)
 
+[Extended Data](ext_articles/3ab3b4c1.ext.json)
+
 ---
 
 ### British Council presents ‘Youth-Led Green and Inclusive Businesses’ at ‘Pathways to Sustainability: Entrepreneurs’ Showcase’ event
@@ -529,6 +539,8 @@ The event, titled ‘Pathways to Sustainability: Entrepreneur’s Showcase,’ m
 ...
 
 [Data](articles/362e93d1.json)
+
+[Extended Data](ext_articles/362e93d1.ext.json)
 
 ---
 
@@ -545,6 +557,8 @@ Tundra entered Windforce via the IPO and as at March 31, 2024 held 70.5 million 
 ...
 
 [Data](articles/57be6d49.json)
+
+[Extended Data](ext_articles/57be6d49.ext.json)
 
 ---
 

@@ -1,36 +1,78 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 08:02:14**
+As of **2024-07-04 08:22:58**
 
 ## Newspaper Stats
 
-*Scraped **33,580** Articles*
+*Scraped **33,586** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 307
 colombotelegraphcom | 310
-bbccomsinhala | 330
+bbccomsinhala | 331
 newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,967
 dailyftlk | 2,083
-adalk | 2,996
-adaderanalk | 3,830
+adalk | 2,997
+adaderanalk | 3,832
 tamilmirrorlk | 3,969
 dailymirrorlk | 4,733
 virakesarilk | 5,250
-adaderanasinhalalk | 5,562
+adaderanasinhalalk | 5,564
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,580 (100.0%) of 33,580 articles have been extended.
+33,584 (100.0%) of 33,586 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### Britain's general election begins
+
+*2024-07-04 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198466) · `si`
+
+Britain's general election starts today, from 7:00 am to 10:00 am, with over a million eligible voters. The election was called by Prime Minister Rishi Sunak on May 22, facing opposition from the Workers Party (LB).
+
+🟩
+
+The vote at 7:00 am will be held until 10am.
+
+More than million people have qualified to vote this year.
+
+On May 22, the Prime Minister Rishi Suneake was given the opportunity to hold a general election.
+
+The Workers Party (LB) has also presented the Concerway Party representing the British Prime Minister Rishi, representing the British Prime Minister Rishi.
+
+◼️
+
+[Data](articles/c69375b2.json)
+
+[Extended Data](ext_articles/c69375b2.ext.json)
+
+---
+
+### Thalawa OIC injured in attack during raid
+
+*2024-07-04 07:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100280/thalawa-oic-injured-in-attack-during-raid) · `en`
+
+The Officer-in-Charge (OIC) of the Thalawa Police Station has been injured after he was attacked with a sharp object during a raid last night.
+
+The wounded Thalawa OIC has been admitted to the Anuradhapura Teaching Hospital for treatment.
+
+A suspect has been arrested in connection with the incident, police said.
+
+◼️
+
+[Data](articles/c70de108.json)
+
+[Extended Data](ext_articles/c70de108.ext.json)
+
+---
 
 ### Several spells of showers expected in parts of the island
 
@@ -51,6 +93,32 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/77684d12.json)
 
 [Extended Data](ext_articles/77684d12.ext.json)
+
+---
+
+### Customs officers become sick today and tomorrow
+
+*2024-07-04 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198465) · `si`
+
+Customs officers will be on sick leave today and tomorrow due to ongoing issues with the customs ordinance. The SLTB union plans this as part of a protest against the authorities' lack of resolution. Despite this, Minister Bandula Gunawardena has stated that strikes are not currently authorized.
+
+🟩
+
+The Customs Association (SLTB) union has decided to engage in a professional procedure to report sick leave today and tomorrow (04) and tomorrow.
+
+The executive committee member Tharaka Kumarasinghe said that the trade union action is being taken to amend the action of the customs Ordinance and protesting the action of the authorities.
+
+The Customs Officers were in a professional program in the last two days due to the absence of solution to the authority on several occasions.
+
+Tharaka Kumarasinghe said that he had decided to report on two days today and tomorrow.
+
+However, Minister Bandula Gunawardena stated that strike at the moment is no longer approved.
+
+◼️
+
+[Data](articles/c894e49f.json)
+
+[Extended Data](ext_articles/c894e49f.ext.json)
 
 ---
 
@@ -304,6 +372,30 @@ President Ranil Wickremesinghe claims that it is his economic diligence that has
 
 ---
 
+### ලෝක සර්ප නාමාවලියට එකතු වු ශ්‍රී ලංකාවේ තුඩුල්ලන් දෙදෙනා
+
+*2024-07-04 02:10:03* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c9wvk3we41do) · `si`
+
+ලෝක සර්ප නමාවලියට ශ්‍රී ලංකාවෙන් තවත් සර්ප විශේෂ දෙකක් හඳුන්වා දීමට මෙරට පර්යේෂණ කණ්ඩායමක් සමත්ව තිබේ.
+
+රයිනෝෆිස් මාටින් (Rhinophis martin) සහ රයිනෝෆිස් ඩිනර්සාර්ඩේ (Rhinophis dinarzardae) යන විශේෂ දෙක ශ්‍රී ලංකාවෙන් ලෝක සර්ප නාමාවලියට එක්වු බව උරග හා උභය ජිවි විශේෂඥ මෙන්ඩිස් වික්‍රමසිංහ බීබීසි සිංහල වෙත කියා සිටියේය.
+
+රක්වාන කඳු වැටිය ආශ්‍රිතව රයිනෝෆිස් මාටින් විශේෂය සොයාගෙන ඇති අතර රයිනෝෆිස් ඩිනර්සාර්ඩේ හඳුනා ගැනීමට හැකිව ඇත්තේ නකලස් කඳුවල බටහිර බෑවුම් ආශ්‍රිතවයි.
+
+මෙම සොයා ගැනීමත් සමගම ශ්‍රී ලංකාවෙන් හමුවූ තුඩුල්ලන් සංඛ්‍යාව 20 දක්වා ඉහළ ගොස් ඇති අතර මෙරට සිටින සර්ප විශේෂ සංඛ්‍යාව 111 දක්වා ඉහළ ගොස් තිබේ.
+
+ශ්‍රී ලංකාවේ වියළි කලාපයෙන් හමුවු හූනන් විශේෂ දෙක නුදුරේම ලොවෙන් තුරන් වී යයි ද ?
+
+‘මේ විශේෂ දෙකම ලංකාට ආවේණිකයි. මුං පොඩ්ඩක්වත් විස නැහැ. මේගොල්ලෝ ජීවත් වෙන්නේ පොළොව යට. හරිම සංවේදී සත්ත්ව කොටසක්.’ යැයි සර්ප විශේෂ ගැන විස්තර කරමින් මෙන්ඩිස් වික්‍රමසිංහ සඳහන් කළේය.
+
+රයිනෝෆිස් සත්වයින් යුරොපෙල්ටිඩේ (Uropeltidae) කුලයට අයත් බව මෙන්ම ඔවුන් ඉන්දියාවට සහ ලංකාවට ආවේණික කුලයක් බව ද ඔහු පැවසීය.
+
+...
+
+[Data](articles/b15a6ab4.json)
+
+---
+
 ### Recovery of cannabis and drug pills in Point Pedro!
 
 *2024-07-04 02:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/187630) · `ta`
@@ -473,6 +565,26 @@ KPMG in India hosted its 31st All India Partners Meet (AIPM) 2024 in Colombo rec
 [Data](articles/82a2fe90.json)
 
 [Extended Data](ext_articles/82a2fe90.ext.json)
+
+---
+
+### Sri Lanka strikes restructuring agreement with bondholders
+
+*2024-07-04 00:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100278/sri-lanka-strikes-restructuring-agreement-with-bondholders) · `en`
+
+(Reuters) - Sri Lanka has secured a deal to move forward on restructuring about $12.5 billion of international bonds, the government said on Wednesday, a major step in the island nation’s fragile recovery from a severe financial crisis.
+
+The South Asian country defaulted for the first time on its foreign debt in May 2022 after its economy was driven to the brink by a slump in foreign exchange reserves.
+
+Restructuring international bonds was one of the key conditions set by the International Monetary Fund (IMF) under a $2.9 billion bailout programme that helped Sri Lanka tame inflation, stabilise its currency, and improve public finances.
+
+The deal with selected bondholders, who cover about 50% of Sri Lanka’s bonds, is contingent on confirmation by the Official Creditor Committee (OCC) made up of bilateral creditors and the IMF to ensure it is in line with the global lender’s debt sustainability analysis for the country.
+
+...
+
+[Data](articles/802ef3a2.json)
+
+[Extended Data](ext_articles/802ef3a2.ext.json)
 
 ---
 
@@ -863,6 +975,26 @@ Some influential Democrats have floated alternatives to Biden besides Harris, in
 [Data](articles/30b76b0b.json)
 
 [Extended Data](ext_articles/30b76b0b.ext.json)
+
+---
+
+### චීන - කසක්ස්ථාන ජනපතිවරු අතර හමුවක්
+
+*2024-07-03 20:53:25* · [`adalk`](https://www.ada.lk/breaking_news/චීන---කසක්ස්ථාන-ජනපතිවරු-අතර-හමුවක්/11-410598) · `si`
+
+චීන ජනාධිපති ෂී ජින්පිං මහතා කසක්ස්ථාන ජනාධිපති Kassym-Jomart Tokayev මහතා සමග සාකච්ඡාවක් පවත්වයි. අස්තානා අගනුවර ජනාධිපති මන්දිරයේ දී අද (03) පෙරවරුවේ එය පැවැත්විණ.
+
+තම සංචාරයේ දී කසක්ස්ථානයේ අඛණ්ඩ සංවර්ධනය පිළිබඳව නිසි අවබෝධයක් ලබා ගත් බව ෂී ජින්පිං මහතා එහිදී කියා සිටියේය. Tokayev ජනාධිපතිවරයාගේ නායකත්වය යටතේ සෞභාග්‍යවත් ‘නව කසක්ස්ථානයක්’ ගොඩනැංවිය හැකි බවට චීන ජනාධිපතිවරයා විශ්වාස පළ කළේය.
+
+එසේ ම, ‘චීන සංචාරක වසර’වැඩසටහන් මාලාව ලබන වසරේ කසක්ස්ථානයේ දී පැවැත්වීමට චීනයේ සහයෝගය ලබා දෙන බව ද ෂී ජින්පිං මහතා පැවසීය. කසක්ස්ථානය ශැංහයි සහයෝගිතා සංවිධානයේ වාරික සභාපතිත්වය දරමින් ඉටු කර ඇති කාර්යභාරය ඔහුගේ ඉහළ පැසසුමට ලක්විය.
+
+තම රට එකම චීනය මූලධර්මය ස්ථිර ලෙස අනුගමනය කරන බව කසක්ස්ථාන ජනාධිපතිවරයා මෙහිදී පැවසීය. චීනය සමග එක්ව, ශැංහයි සහයෝගිතා සංවිධානය, එක්සත් ජාතීන්ගේ සංවිධානය ඇතුළු බහුපාර්ශ්වික යාන්ත්‍රණයන් හි සම්බන්ධීකරණයට සක්‍රිය අයුරින් සහභාගි වීම තම අපේක්ෂාව බව ද හෙතෙම පැවසීය.
+
+මේ අතර චීන ජනාධිපතිවරයා උස්බෙකිස්ථාන ජනාධිපති Shavkat Mirziyoyev මහතා සමග ද සාකච්ඡා පවත්වා තිබේ
+
+◼️
+
+[Data](articles/d9324519.json)
 
 ---
 
@@ -2175,151 +2307,5 @@ According to the Parliamentary Electoral Act, the Elections Commission issued th
 [Data](articles/f0b2356c.json)
 
 [Extended Data](ext_articles/f0b2356c.ext.json)
-
----
-
-### Deputy Assistant Secretary of Asia to Asia, US Treasury
-
-*2024-07-03 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187584) · `ta`
-
-US Treasury's Deputy Assistant Secretary of Asia, Robert Caprooth, and Ambassador Julie Chang, met with Sri Lankan economic, political leaders, and government officials including Finance Minister Sehan Semasinghe, Power Minister Kanjana Wijesekera, and Central Bank Governor Dr. Nandalal Weerasinghe. Discussions focused on the IMF project's progress and the importance of economic reforms for transparency and accountability, emphasizing US support for Sri Lanka's economic strengthening.
-
-🟩
-
-The US Treasury Assistant Secretary of Asia, Robert Caprooth and US Ambassador Julie Chang, have met with economic, political leaders and government officials in the country this week.
-
-Accordingly, Finance Minister Sehan Semasinghe, Power and Power Minister Kanjana Wijesekera, Central Bank Governor Dr. Nandalal Weerasinghe and government officials have met with government officials.
-
-Economic, political leaders and government officials in Sri Lanka met with the Deputy Assistant Secretary of Asia of the US Treasury this week.
-
-During this time, they discussed the continuous progress of implementing the International Monetary Fund project.
-
-He said the economic reforms that would increase transparency and accountability and all shareholders are essential, as countries like the United States work closely with Sri Lanka to strengthen the economy and take the country on a healthy and sustainable path.
-
-◼️
-
-[Data](articles/4ca9ec51.json)
-
-[Extended Data](ext_articles/4ca9ec51.ext.json)
-
----
-
-### Tragedy of the Super Housing Complex - Testing through CCTV
-
-*2024-07-03 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198444) · `si`
-
-Two 10th-grade students from Colombo International School, a boy and a girl, tragically died on the 67th floor of the Altable Luxury Apartment Complex in Slave Island. They were discovered after leaving their belongings on the 5th floor, leading authorities to believe they jumped to their deaths. The victims, one from Wellawatte and the other from Kelaniya, had a romantic relationship.
-
-🟩
-
-A 15 year old girl and a boy are currently underway to die at the 67th floor of the Altable Luxury Apartment Complex in Slave Island.
-
-The two were in the same class of the 10th grade of Colombo International School.
-
-The police investigations revealed that they had a romantic relationship.
-
-The student and student arrived at the Bodyhouse Center at the fifth floor of the luxury apartment complex yesterday.
-
-They have changed clothes and removed their bags and left their bags in the center and left the 67th floor.
-
-The police then downgrade the police that they had passed away from the ground and had committed suicide.
-
-Their bodies found, the air conditioners on the 30 storied luxury flats were located at the place where the air conditioners were installed on the 3rd floor.
-
-The victim was a resident of Wellawatte and the student is a resident of Kelaniya.
-
-◼️
-
-[Data](articles/8fb287ef.json)
-
-[Extended Data](ext_articles/8fb287ef.ext.json)
-
----
-
-### Handicrafts of the world's first robot victims from South Korea
-
-*2024-07-03 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198443) · `si`
-
-In a groundbreaking incident, a robot worker in South Korea reportedly "committed suicide" by falling down stairs, marking what could be the nation's first such case. The event occurred around a year ago in Gumi City, where the robot had been active. Local authorities stated the robot fell after tripping over its own robe, leading to widespread condemnation among residents. This unusual incident has sparked discussions about the ethical implications of robotics and artificial intelligence.
-
-🟩
-
-Foreign media reports that a robot machine in South Korea has committed suicide.
-
-The suicide has been committed to about a year, a robot engaged in the Gummy Municipal Council of Korea for about a year.
-
-The disabled robot worker was found while falling in a robe that was tall.
-
-The city authorities have said that the robot had spinned before the stairs.
-
-Gomi's residents had condemned the sake of suicide.
-
-The South Korean media has reported this to the first robotic suicide in the country.
-
-◼️
-
-[Data](articles/23af5462.json)
-
-[Extended Data](ext_articles/23af5462.ext.json)
-
----
-
-### Petition
-
-*2024-07-03 12:54:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலுக்கு-தடை-கோரி-மனு/175-339814) · `ta`
-
-A petition filed in the Supreme Court seeks clarification on President Ranil Wickremesinghe's term under the Constitution. It requests an interim halt on the upcoming presidential election until the court defines his term.
-
-🟩
-
-A petition was filed in the Supreme Court on Wednesday (03) demanding clarification on President Ranil Wickremesinghe's tenure.. The petition filed by the Supreme Court has been asked to clarify the term of President Ranil Wickremesinghe in accordance with the Constitution.
-
-The petitioner has called for an interim ban on holding the next presidential election until the Supreme Court clarifies the current president's term.
-
-◼️
-
-[Data](articles/bda9dbb8.json)
-
-[Extended Data](ext_articles/bda9dbb8.ext.json)
-
----
-
-### Petition
-
-*2024-07-03 12:54:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஜனாதிபதித்-தேர்தலுக்கு-தடை-கோரி-மனு/150-339814) · `ta`
-
-A petition filed in the Supreme Court seeks clarification on President Ranil Wickremesinghe's term under the Constitution. It requests an interim halt on the upcoming presidential election until the court defines his term.
-
-🟩
-
-A petition was filed in the Supreme Court on Wednesday (03) demanding clarification on President Ranil Wickremesinghe's tenure.. The petition filed by the Supreme Court has been asked to clarify the term of President Ranil Wickremesinghe in accordance with the Constitution.
-
-The petitioner has called for an interim ban on holding the next presidential election until the Supreme Court clarifies the current president's term.
-
-◼️
-
-[Data](articles/f9a20ca8.json)
-
-[Extended Data](ext_articles/f9a20ca8.ext.json)
-
----
-
-### Mahinda Kahanthawela joined the UNP
-
-*2024-07-03 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/187577) · `ta`
-
-Mahinda Kahanthawela, ex-Colombo Municipal Council member, has joined the United National Party (UNP) as the organizer for Central Colombo. This move comes with President Ranil Wickremesinghe's backing.
-
-🟩
-
-Former Colombo Municipal Council member Mahinda Kahanthawela has joined the United National Party (UNP).
-
-Kahanthawela has been appointed as the organizer of the Central Colombo constituency. In this case, President Ranil Wickremesinghe has promised his support.
-
-◼️
-
-[Data](articles/44175e69.json)
-
-[Extended Data](ext_articles/44175e69.ext.json)
 
 ---

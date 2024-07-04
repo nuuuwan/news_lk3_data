@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 01:35:04**
+As of **2024-07-05 01:53:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,718 (100.0%) of 33,719 articles have been extended.
+33,719 (100.0%) of 33,719 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Abolishing the parate right given to banks has come again to the platform after 
 ...
 
 [Data](articles/844df26a.json)
+
+[Extended Data](ext_articles/844df26a.ext.json)
 
 ---
 

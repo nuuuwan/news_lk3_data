@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 15:53:48**
+As of **2024-07-04 16:05:40**
 
 ## Newspaper Stats
 
-*Scraped **33,656** Articles*
+*Scraped **33,657** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,880
 economynextcom | 1,972
 dailyftlk | 2,084
 adalk | 3,009
-adaderanalk | 3,840
+adaderanalk | 3,841
 tamilmirrorlk | 3,981
 dailymirrorlk | 4,733
 virakesarilk | 5,264
@@ -26,27 +26,51 @@ adaderanasinhalalk | 5,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,655 (100.0%) of 33,656 articles have been extended.
+33,656 (100.0%) of 33,657 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### යටවූ ගාල්ල
+### ‘I’m running’, Biden says, as pressure to drop out grows
+
+*2024-07-04 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100290/im-running-biden-says-as-pressure-to-drop-out-grows) · `en`
+
+US President Joe Biden worked to calm senior Democrats and staff on his campaign on Wednesday, as reports suggested he was weighing his future after his disastrous debate with Donald Trump last week.
+
+Mr Biden held a closed-door lunch with Vice-President Kamala Harris at the White House as speculation mounted over whether she would replace him as the party’s candidate in November’s election.
+
+The pair then joined a call with the broader Democratic campaign where Mr Biden made clear he would remain in the race and Ms Harris reiterated her support. “I’m the nominee of the Democratic Party. No one’s pushing me out. I’m not leaving,” he told the call, a source told BBC News.
+
+That same phrase was repeated in a fundraising email sent out a few hours later by the Biden-Harris campaign. “Let me say this as clearly and simply as I can: I’m running,” Mr Biden said in the email, adding that he was “in this race until the end”.
+
+...
+
+[Data](articles/484219ee.json)
+
+---
+
+### Galle The Galle
 
 *2024-07-04 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198483) · `si`
 
-ඊයේ (03) රාත්‍රියේ සිට ඇද හැලෙන ධාරාණිපාත මහ වර්ෂාව හේතුවෙන් ගාල්ල නගරයේ පහත් බිම් සහ මාර්ග කිහිපයක් ජලයෙන් යටවී ඇති බව අප වාර්තාකරු පවසයි.
+Heavy rains in Galle caused flooding on several lands and roads, disrupting traffic and affecting areas like Galle-Baddegama, Beligaha, and Kahaduwa.
 
-ගාල්ල - වක්වැල්ල  ප්‍රධාන මාර්ගය ගාල්ල පොලිසිය ඉදිරිපිටින් ජලයෙන් යටවීම නිසා ගමනාගමනයට බාධා එල්ල විය.
+🟩
 
-ගාල්ල - බද්දේගම ප්‍රධාන මාර්ගය ගාල්ල තලාපිටිය සහ බෙලිගහ, කහදුව වත්ත යන ප්‍රදේශවලින් ජලයෙන් යටවීම නිසා ගමනාගමනයට බාධා එල්ල වී තිබුණි.
+A few lands and roads in Galle have been flooded due to the heavy rains of the heavy rains that fall from last night.
 
-මෙම වර්ෂාව හේතුවෙන් තවත් ප්‍රදේශ රැසක පහත්බිම් ජලයෙන් යටවී තිබේ.
+Traffic was interrupted due to watering the Galle Police in front of the Galle Police in front of the Galle Police.
+
+Traffic was disrupted due to watering from Galle - Baddegama main road in Galle and Beligaha, Kahaduwa and Kahaduwa.
+
+Due to this rain, inferior areas have been flooded in water.
 
 ◼️
 
 [Data](articles/3ae571c1.json)
+
+[Extended Data](ext_articles/3ae571c1.ext.json)
 
 ---
 
@@ -2235,31 +2259,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/cf378231.json)
 
 [Extended Data](ext_articles/cf378231.ext.json)
-
----
-
-### Fun-filled outing
-
-*2024-07-03 23:46:00* · [`islandlk`](http://island.lk/fun-filled-outing/) · `en`
-
-I guess the older folks would remember the good ole days, when we had ‘The Young Ones,’ ‘Teen Page,’ etc.
-
-Well, three stalwarts, from that era, are planning a day’s outing in order to meet and greet some of the older folks, as well as the present day young ones.
-
-Dilanth De Silva, Mazeeha Halaj and Dayanthi Senanayake, popular figures on social media (Facebook), say that the outing will be to a resort in Negombo and will include lunch, afternoon tea, snacks, etc., plus fun games, with prizes to be won.
-
-The date mentioned is Saturday, 27th July, but they need confirmation from those wanting to be a part of this fun-filled package by 20th July.
-
-You are required to call Dilanth (0772364301), Mazeeha (0775199807) or Dayanthi (0773541254) for more details, and the cost.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/bd596855.json)
-
-[Extended Data](ext_articles/bd596855.ext.json)
 
 ---

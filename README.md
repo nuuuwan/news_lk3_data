@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 02:06:03**
+As of **2024-07-05 02:19:51**
 
 ## Newspaper Stats
 
-*Scraped **33,721** Articles*
+*Scraped **33,722** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,985
 dailyftlk | 2,088
 adalk | 3,018
 adaderanalk | 3,849
-tamilmirrorlk | 3,988
+tamilmirrorlk | 3,989
 dailymirrorlk | 4,733
 virakesarilk | 5,278
 adaderanasinhalalk | 5,589
@@ -26,45 +26,73 @@ adaderanasinhalalk | 5,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,719 (100.0%) of 33,721 articles have been extended.
+33,721 (100.0%) of 33,722 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### காதலனின் வாக்குமூலத்தால் கிணற்றுக்கு பாதுகாப்பு
+### மிளகுசேனை தோட்டத்தில் பாரிய தீ
+
+*2024-07-05 01:57:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மிளகுசேனை-தோட்டத்தில்-பாரிய-தீ/76-339892) · `ta`
+
+தலவாக்கலை பெரிய மிளகுசேனை தோட்டத்தில் பாரிய தீ பரவல் சம்பவம் இன்று (4)இரவு 8 மணியளவில் இடம்பெற்றுள்ளது.
+
+மின்னொழுங்கினம் காரணமாகவே இந்த தீ விபத்து ஏற்பட்டுள்ளதாக ஆரம்ப கட்ட விசாரணைகள் மூலம் தெரிய வந்துள்ளது.
+
+லயன் இலக்கம் ஒன்றிலேயே இந்த அனர்த்தம் ஏற்பட்டுள்ளது இதன் போது 3 வீடுகள் முழுமையாகவும் மேலும் சில வீடுகள் பகுதியளவிலும் சேதமடைந்துள்ளது
+
+◼️
+
+[Data](articles/2939309a.json)
+
+---
+
+### Security to the well by the lover's confession
 
 *2024-07-05 01:41:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலனின்-வாக்குமூலத்தால்-கிணற்றுக்கு-பாதுகாப்பு/175-339891) · `ta`
 
-காணாமல்போன யுவதியின் காதலன் என சந்தேகிக்கப்படும் இளைஞன் வழங்கிய வாக்குமூலத்தை அடுத்து, பாலடைந்த கிணற்றுக்கு பாதுகாப்பு வழங்கப்பட்டுள்ளதுடன், அந்த கிணற்றை வௌ்ளிக்கிழமை (05) தோண்டுவதற்கு நீதிமன்றம் அனுமதியளித்துள்ளது.
+A young woman, Nadeskumar Vinodhini, from Thanganagar, has been missing since May. Her boyfriend, Udayakumar Vishnukant, is suspected and arrested. Based on his confession, the police obtained court permission to search a well near the village. Security around the well is heightened as it prepares to be excavated on Friday, potentially uncovering clues to Vinodhini's whereabouts.
 
-திருகோணமலை,சேருவில பொலிஸ் பிரிவுக்கு உட்பட்ட தங்கநகர் பகுதியைச் சேர்ந்த இளம் யுவதியான நடேஸ்குமார் வினோதினி (வயது 25 ) என்பவர்  காணாமல் போயுள்ளதாக, அவரது குடும்பத்தினரால், சேருவில மற்றும் மூதூர் பொலிஸ் நிலையங்களில் முறைப்பாடுகள் செய்யப்பட்டுள்ளன.
+🟩
 
-இது தொடர்பான விசாரணையை முன்னெடுத்துவரும் மூதூர் பொலிஸார் சந்தேகத்தின்பேரில் கிளிவெட்டியைச் சேர்ந்த நபர் ஒருவரை கைது செய்து விசாரணை மேற்கொண்டனர்.
+Following the affidavit made by the young man suspected of being a lover of the missing woman, the court has granted protection to the well and the court has granted permission to dig the well on Valli (05).
 
-அவர் வழங்கிய தகவலின் அடிப்படையில்  கிளிவெட்டி கிராமத்தின் எல்லைப் புறத்தில் உள்ள பாழடைந்த கிணற்றை தோண்டுவதற்கு நீதிமன்ற அனுமதியை பொலிஸார் பெற்றுள்ளனர்.
+Nadeskumar Vinodhini (age 25), a young woman from Thanganagar, who belongs to the Seruvila Police Division in Trincomalee, has been missing.
 
-இந்நிலையில் குறித்த கிணற்றடியில் புதன்கிழமை(03) முதல் பொலிஸ் பாதுகாப்பு போடப்பட்டுள்ளது. இக்கிணறானது மூதூர் நீதிமன்ற நீதவான் முன்னிலையில் வெள்ளிக்கிழமை (05)  தோண்டப்படவுள்ளதாக மூதூர் பொலிஸார் கூறினர்.
+Muttur police, who are carrying out an investigation into the matter, arrested a man from Clewetti on suspicion.
+
+Based on the information he provided, the police have obtained court permission to dig a dilapidated well on the border of the village.
+
+In this case, police security has been put in place on Wednesday (03). The Muttur police said that this will be dug on Friday (05) in the presence of the Muttur Court Magistrate.
 
 ...
 
 [Data](articles/66903f04.json)
 
+[Extended Data](ext_articles/66903f04.ext.json)
+
 ---
 
-### இலஞ்சம் வாங்கிய ஐ.பி. கைது
+### Bribed IP. Arrest
 
 *2024-07-05 01:35:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-வாங்கிய-ஐ-பி-கைது/175-339890) · `ta`
 
-சட்டத்தை அமுல்படுத்துவதை தவிர்ப்பதற்காக ஒருவரிடமிருந்து 25,000 ரூபாவை இலஞ்சமாக பெற்றுக்கொண்ட குற்றச்சாட்டில் கைது செய்யப்பட்ட மஹாபாகே பொலிஸ் பரிசோதகரை விளக்கமறியலில் வைக்குமாறு கொழும்பு பிரதான நீதவான் திலின கமகே, வியாழக்கிழமை (04) உத்தரவிட்டுள்ளார்.
+Colombo Chief Magistrate Thilina Kamage ordered the arrest of a Mahabake Police Inspector accused of accepting a bribe. The inspector will be investigated for bribery or corruption based on a complaint from Wattala Palliyawatte.
 
-சந்தேக நபரை நீதிமன்றத்தில் ஆஜர்படுத்திய போது இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு.  தெரிவித்த கருத்துகளை பரிசீலித்த பின்னரே சந்தேக நபர் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+🟩
 
-வத்தளை பள்ளியாவத்தை பிரதேசத்தை சேர்ந்த ஒருவர் செய்த முறைப்பாட்டின் அடிப்படையில் சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
+Colombo Chief Magistrate Thilina Kamage on Thursday (04) has ordered the Mahabake Police Inspector, who was arrested on charges of receiving a bribe of Rs.
+
+Commission to investigate bribery or corruption when the suspect appeared in court.The suspect has been placed on interrogation only after considering the comments made.
+
+The suspect has been arrested on the basis of a complaint lodged by a person from the Wattala Palliyawatte area.
 
 ◼️
 
 [Data](articles/d39684cc.json)
+
+[Extended Data](ext_articles/d39684cc.ext.json)
 
 ---
 
@@ -2289,25 +2317,5 @@ In equities, Colombo’s All Share Price Index opened 59.82 points higher at 12,
 [Data](articles/178cb855.json)
 
 [Extended Data](ext_articles/178cb855.ext.json)
-
----
-
-### Poson carnival record income
-
-*2024-07-04 10:25:26* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-සැණකෙලියෙන්-අපුර-මහ-නගර-සභාවට-වාර්තාගත-ආදායමක්/11-410605) · `si`
-
-The Poson Carnival in Anuradhapura, organized by the Municipal Council, generated the highest revenue in its history, surpassing previous records. The event, which took place over nine days at the Walkendha Harischandra Park, included various shows and attractions. Revenue was primarily derived from ticket sales, with additional income coming from shows, carnivals, and taxes.
-
-🟩
-
-Municipal Commissioner Ruwan Wijesinghe said that the Udanagara The Poson Carnival organized by the Anuradhapura Municipal Council in view of the National Poson Festival, the Municipal Commissioner Raman Wijesinghe said. He said this was the highest income in the history of the Municipal Council. The gross profit from this income was about Rs.
-
-Purawara Udani was held for nine days at the Walkendha Harischandra Park. The Municipal Council earned this income by selling tickets to the visiting carnival and shows to cover the carnival and show.. The Municipal Commissioner said that the income received by shows and carnivals and other income taxes have also been included.
-
-◼️
-
-[Data](articles/f9a7370d.json)
-
-[Extended Data](ext_articles/f9a7370d.ext.json)
 
 ---

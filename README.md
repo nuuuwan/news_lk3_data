@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 02:52:38**
+As of **2024-07-05 03:04:49**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 5,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,722 (100.0%) of 33,723 articles have been extended.
+33,723 (100.0%) of 33,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### ’தேர்தலை ஒத்திவைக்க முயற்சி’
+### Trying to postpone the election
 
 *2024-07-05 02:17:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-ஒத்திவைக்க-முயற்சி/175-339893) · `ta`
 
-ஜனாதிபதியும் அவரது அடிமைகளும் தேர்தலை ஒத்திவைக்க முயற்சி செய்து வருகின்றனர் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ குற்றஞ்சாட்டியுள்ளார்.
+Opposition leader Sajith Premadasa accuses the president and allies of attempting to delay the election, citing previous instances where negative national news influenced decisions against holding elections. He argues that despite constitutional requirements for the election to occur between September 17 and October 16, certain groups aim to obstruct the public's right to vote. Premadasa calls for the protection of voting rights and urges the Election Commission to ensure a fair and democratic election, emphasizing the readiness of the United People's Power and the United People's Alliance to combat any electoral conspiracies.
 
-ஜனாதிபதியையும் அரசாங்கத்தையும் பிரதிநிதித்துவப்படுத்தும் அடிமைகளும், கையாட்களும், சகாக்களும் நாட்டுக்கு எதிர்மறையான செய்திகளை முன்வைத்து ஜனாதிபதி தேர்தலை நடத்துவது பொருத்தமற்றது என்ற கருத்தை கடந்த காலங்களில் உருவாக்கி வந்தனர்.
+🟩
 
-பல சந்தர்ப்பங்களில் ஜனாதிபதித் தேர்தலை நடத்துவதற்கு இது சரியான தருணம் அல்ல என மக்களை நம்பவைக்கும் வகையில் அரசியல் செயற்திட்டமொன்றை முன்னெடுக்க ஜனாதிபதியும் அவருக்கு நெருக்கமான குழுக்களும் முயற்சித்ததாகவும் எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+Opposition leader Sajith Premadasa has accused the president and his slaves of trying to postpone the election.
 
-இவ்வாறான நிலையில் இன்று சட்ட ரீதியாகவும் அரசியலமைப்பு ரீதியாகவும் நடத்தப்பட வேண்டிய ஜனாதிபதி தேர்தலை பறிக்க மேலும் பல முயற்சிகள் ஆரம்பிக்கப்பட்டுள்ளன. இவை அனைத்தும் அரசியலமைப்பை மீறும் சதிகளாகும் என்றார்.
+In the past, slaves, manipulations and colleagues who represent the president and the government have made the idea that it is inappropriate to hold the presidential election with negative news to the country.
+
+The Opposition Leader said that this was not the right time to hold the presidential election on several occasions, the president and the groups close to him were trying to carry out a political agenda.
+
+In this context, there have been many attempts to snatch the presidential election that is legally and constitutionally held today.. He said all of these were conspiracies that violate the constitution.
+
+Opposition Leader Sajith Premadasa said that although the Constitution clearly stated that the presidential election should be held from September 17 to October 16, some groups are working to disrupt the right to the people of the country to elect a new president.
 
 ...
 
 [Data](articles/676f53fe.json)
+
+[Extended Data](ext_articles/676f53fe.ext.json)
 
 ---
 

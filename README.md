@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 21:04:45**
+As of **2024-07-04 21:19:39**
 
 ## Newspaper Stats
 
-*Scraped **33,703** Articles*
+*Scraped **33,705** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,982
 dailyftlk | 2,084
 adalk | 3,017
 adaderanalk | 3,846
-tamilmirrorlk | 3,984
+tamilmirrorlk | 3,986
 dailymirrorlk | 4,733
 virakesarilk | 5,277
 adaderanasinhalalk | 5,587
@@ -26,33 +26,75 @@ adaderanasinhalalk | 5,587
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,701 (100.0%) of 33,703 articles have been extended.
+33,703 (100.0%) of 33,705 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### කොළඹ අල්ටෙයාර් ඛේදවාචකය ගැන තවත් තොරතුරු රැසක්
+### More information about Colombo Altair tragedy
 
 *2024-07-04 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198492) · `si`
 
-කොම්පඤ්ඤ වීදියේ පිහිටි අල්ටෙයාර් සුඛෝපභෝගී මහල් නිවාස සංකීර්ණයේ 67 වැනි මහලෙන් ඇද වැටී 15 හැවිරිදි සිසුවෙකු සහ සිසුවියක ජීවිතක්ෂයට පත්වීමේ සිද්ධිය සම්බන්ධයෙන් තවත් තොරතුරු රැසක් අනාවරණ වී තිබේ.
+In the Colombo Altair tragedy, two students fell from the 67th floor while taking photos, suspected due to a heated argument. Their bodies were found on the 3rd floor, severely damaged. The police suspect they were frequent visitors to the luxury apartments without informing their parents. Further investigations are ongoing.
 
-පොලීසිය පැවසුවේ, ඊයේ පැවති පශ්චාත් මරණ පරීක්ෂණවලින් අනතුරුව විවෘත තීන්දුවක් දෙමින් ඔවුන්ගේ දේහ ඥාතීන් වෙත භාරදී ඇති බවය.
+🟩
 
-මෙලෙස ජීවිතක්ෂයට පත්වී තිබුණේ කොළඹ ජාත්‍යන්තර පාසලක 10 වැනි ශ්‍රෙණියේ ඉගෙනුම ලබමින් සිටි සිසුවෙක් සහ සිසුවියකි.
+The 15th floor of the Altable Luxury apartment complex at Slave Island has revealed more information about the 15-year-old student and a student.
 
-ඔවුන්ගේ සිරුරු මහල් නිවාස සංකීර්ණයේ 03 වන මහලේ වායුසමීකරණ යන්ත්‍ර සවිකර ඇති ස්ථානයේ තිබියදී සොයා ගැනුණු අතර, එම යන්ත්‍රවල ගැටීම හේතුවෙන් සිරුරුවලට බරපතළ හානි සිදුවී තිබුණි.
+Police said that after the post mortem examination held yesterday, he has been opened to their body and relatives.
 
-මෙම සිසුවා සහ සිසුවිය අතර දැඩි මිත්‍රත්වයක් තිබී ඇති බව පොලිස් විමර්ශනවලදී අනාවරණ වී ඇත.
+The deceased was a student and student of a large number of students in Colombo.
 
-එමෙන්ම අදාළ සිසුවිය උස් ස්ථානවලට ගොස් ඡායාරූප ගැනීමේ රුචිකත්වයකින් පසුවී ඇති අතර, ඇයගේ ජංගම දුරකථනයේ තිබී එවන් ඡායාරූප කිහිපයක්ම පොලීසිය සොයාගෙන තිබුණි.
+Their bodies were found at the location of the 3rd floor of their bodies, and the bodies were severely damaged due to the clashes of the machines.
 
-ඒ අනුව, එලෙස ඡායාරූප ගැනීමට උත්සාහ කිරීමේදී මොවුන් දෙදෙනාම 67 වැනි මහලින් බිමට වැටී ඇති බවටද පොලීසිය සැක පළ කරයි.
+Police investigations have revealed that the student and the student had a great friendship.
+
+The student had also found several photographs of photographs of the student and photographed.
+
+Accordingly, police suspect that both of them had fallen to the 67th floor when attempting to take photos.
+
+Investigators say that there is suspicion that there is a heated argument between the two before the accident occurred.
+
+They have allowed them to go into the luxury flats of the Altair.
 
 ...
 
 [Data](articles/e7141937.json)
+
+[Extended Data](ext_articles/e7141937.ext.json)
+
+---
+
+### ஜனாதிபதியின் பதவிக்காலம்: திங்கள் ஆராய்வு
+
+*2024-07-04 20:34:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-பதவிக்காலம்-திங்கள்-ஆராய்வு/175-339877) · `ta`
+
+தற்போதைய ஜனாதிபதியின் பதவி காலம் தொடர்பில் தெளிவூட்டுமாறு கோரி உயர் நீதிமன்றத்தில் தாக்கல் செய்யப்பட்ட அடிப்படை உரிமை மனுவை  திங்கட்கிழமை (08) ஆராய்வதற்கு உயர் நீதிமன்றம் வியாழக்கிழமை (04) தீர்மானித்தது.
+
+இந்த மனுவை ஆராய்வதற்கு  ஐந்து  நீதியரசர்கள் அடங்கிய குழாமை, பிரதம நீதியரசர் ஜயந்த ஜயசூரிய நியமித்துள்ளார்.
+
+தனது  தலைமையில் உயர் நீதிமன்ற நீதியரசர்களான விஜித் மலல்கொட, முர்து பெர்ணாண்டோ, பிரித்தீ பத்ம சூரசேன, எஸ். துரைராஜா ஆகியோரே  இந்த மனுவை ஆராயவுள்ளனர்
+
+◼️
+
+[Data](articles/70701c61.json)
+
+---
+
+### கொழும்பு வாழ் மக்களுக்கு அவசர அறிவிப்பு
+
+*2024-07-04 20:34:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/கொழும்பு-வாழ்-மக்களுக்கு-அவசர-அறிவிப்பு/95-339876) · `ta`
+
+கொழும்பில் இன்று (04) இரவு 9 மணி முதல் நாளை (05) பிற்பகல் 3 மணி வரை 18 மணிநேர நீர் வெட்டு அமுல்படுத்தப்படவுள்ளதாக தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+
+இதன்படி, கொலன்னாவ நகரசபை, கடுவெல நகரசபை, முல்லேரியா மற்றும் கொட்டிகாவத்தை பிரதேச சபைக்குட்பட்ட பகுதிகளுக்கு 18 மணித்தியாலங்களுக்கு நீர் வெட்டு அமுல்படுத்தப்படும் என தெரிவிக்கப்படுகின்றது.
+
+அம்பத்தலே நீர் சுத்திகரிப்பு நிலையத்தில் மேற்கொள்ளப்படவுள்ள அவசர பராமரிப்பு வேலை காரணமாக இந்த நீர் வெட்டு அமுல்படுத்தப்படும் என தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை மேலும் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/237196da.json)
 
 ---
 
@@ -228,23 +270,29 @@ Meanwhile, Tamil Nadu Chief Minister MK Stalin said that despite the possibility
 
 ---
 
-### වතු කම්කරු වැටුප් වැඩි කළ ගැසට් නිවේදනය ක්‍රියාත්මක කිරීම අත්හිටුවයි
+### Estate workers' salary wages have been suspended
 
 *2024-07-04 18:37:18* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරු-වැටුප්-වැඩි-කළ-ගැසට්-නිවේදනය-ක්‍රියාත්මක-කිරීම-අත්හිටුවයි/11-410615) · `si`
 
-වතු කම්කරුවන්ගේ වැටුප් වැඩි කිරීමට කම්කරු අමාත්‍ය මනුෂ නානායක්කාර මහතා නිකුත් කළ ගැසට් නිවේදනය ක්‍රියාත්මක කිරීම අත්හිටවමින් ශ්‍රේෂ්ඨාධිකරණය අතුරු තහනම් නියෝගයක් අද (04) නිකුත් කළේය.
+The Supreme Court temporarily halted a plan to raise plantation workers' salaries, citing a need to address concerns raised by the estate industry. This decision came after petitions were filed against the proposed wage increases, with the court ordering a hearing. The case involves multiple parties, including the Presidential Minister and representatives from 21 plantation companies, with the court setting a date for further proceedings.
 
-වතු කම්කරුවන්ගේ වැටුප් හදිසියේ වැඩි කිරීම තුළින් විශාල වශයෙන් රජයට බදු ගෙවන වතු කර්මාන්තය දැඩි අර්බුදයකට ලක් වන බවත් වතු කම්කරු වැටුප් වැඩි කිරීම තුළින් සමාගම් අපහසුතාවයට පත් විය හැකි බවත් සඳහන් කරමින් වතු සමාගම් 21ක් ගොනු කර ඇති පෙත්සම් විභාග කිරීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය මෙම අතුරු නියෝගය නිකුත් කළේය.
+🟩
 
-ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන ගාමිණි අමරසේකර, ජනක් ද සිල්වා  සහ කුමුදුනි වික්‍රමසිංහ යන මහත්ම මහත්මීන්ගෙන් සැදුම්ලත් විනිසුරු මඩුල්ලක් හමුවේ පෙත්සම සලකා බැලීණ.
+The Supreme Court suspended the implementation of the gazette notification issued by Labor Ranukakara to increase the salaries of plantation workers.
 
-වතු සමාගම් 21 විසින් ගොනුකොට ඇති මෙම අභියාචන පෙත්සමේ  වගඋත්තරකරුවන් වශයෙන් කම්කරු අමාත්‍යවරයා ඇතුළු පිරිසක් නම් කර ඇත.
+The Supreme Court issued a severe crisis to the government to hear the petitions filed by the estate industry and the estate workers' salaries of the plantation workers..
 
-පෙත්සම කැඳවු අවස්ථාවේ ඉදිරිපත් වු කරුණු සැළකිල්ලට ගැනීමෙන් අනතුරුව අභියාචන පෙත්සම ලබන වර්ෂයේ පෙබරවාරි 18 වැනිදා විභාග කිරීමට දින නියම කෙරිණි.
+The petition was considered in the face of Supreme Court Judge Gamini Amarasekera, Janakamuwa and Kumuduni Wickremasinghe.
+
+The Presidential Minister and several others have been named as respondents in the Petition filed by 21 plantation companies.
+
+After taking the petition, the appearance petition was imposed on February 18, next year.
 
 ◼️
 
 [Data](articles/7dee8617.json)
+
+[Extended Data](ext_articles/7dee8617.ext.json)
 
 ---
 
@@ -2259,53 +2307,5 @@ The suspect is to be produced before the Colombo Chief Magistrate's Court.
 [Data](articles/8e1da17c.json)
 
 [Extended Data](ext_articles/8e1da17c.ext.json)
-
----
-
-### Excellent principal and gurunes in the school system
-
-*2024-07-04 09:00:29* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-පද්ධතියේ-විශිෂ්ට-විදුහල්පති-හා-ගුරුන්-තෝරයි/11-410601) · `si`
-
-In celebration of World Teacher Day, from October 5 to 7, the Ministry of Education recognizes principals and teachers for their contributions. In 2023, schools can award scholarships based on subjects, leadership, and service. This includes those who've shown exceptional performance and dedication without any disciplinary issues. The event, scheduled for October 4, highlights the importance of educators in the education system.
-
-🟩
-
-Parallel to the World Teacher Day, 5 October, the school system is accepted by the Ministry of Education to be accepted until the 7th of this month.
-
-During the year 2023, schools are eligible to base the scholarships, subject management, leadership and teachers and teachers, teachers and teachers.The Ministry of Education states that it is selected.
-
-The Principals and Teachers Service Service and the Teachers Service Services, the Principals and Teachers Service, which have already been applied to the ministerial and teachers in government schools, which have not been interdependent of the disciplinary or criminal culpriters, which have not been paid free leave.The Ministry of Education further states that it will be held on 4th October at the level.
-
-◼️
-
-[Data](articles/5a279f79.json)
-
-[Extended Data](ext_articles/5a279f79.ext.json)
-
----
-
-### Commission's decision on Amendment
-
-*2024-07-04 08:57:40* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෙෘ්ධන-ගැන-කොමිසමේ-තීරණය-ජුලි-09දා/11-410600) · `si`
-
-The Public Utilities Commission of Sri Lanka (PUCSL) announced that it accepted public oral comments until July 9th and would review written proposals regarding a proposed reduction in electricity tariffs. The final decision on tariff revisions, considering public feedback, was scheduled for July 15th.
-
-🟩
-
-The Public Utilities Commission of Sri Lanka (PUCSL) says that the public's oral comments are carried out on July 9th this year.
-
-Accordingly, the Public Utilities Commission has informed that the Commission has been given the opportunity to comment on the Commission to the Commission before July 07 to 4.30 am from 8.30 am to 4.30 am to 4.30 am.
-
-The Public Utilities Commission states that the written comments of the proposal will be obtained up to this month.
-
-The Public Underlying Commission states that the amendment proposal has been reviewed by the Commission to the Commission to reduce the existing electricity tariffs.
-
-The final decision of the Commission Revision of these tariffs will be given public views on July 15, "the Public Utilities Commission of Sri Lanka added.
-
-◼️
-
-[Data](articles/b22b4e4c.json)
-
-[Extended Data](ext_articles/b22b4e4c.ext.json)
 
 ---

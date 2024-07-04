@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 11:19:55**
+As of **2024-07-04 11:35:17**
 
 ## Newspaper Stats
 
-*Scraped **33,612** Articles*
+*Scraped **33,617** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,967
 dailyftlk | 2,084
-adalk | 3,000
+adalk | 3,003
 adaderanalk | 3,835
 tamilmirrorlk | 3,976
 dailymirrorlk | 4,733
 virakesarilk | 5,255
-adaderanasinhalalk | 5,571
+adaderanasinhalalk | 5,573
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,610 (100.0%) of 33,612 articles have been extended.
+33,612 (100.0%) of 33,617 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### මාදම්පේ බිහිසුණු බස් - ලොරි අනතුරක්
+
+*2024-07-04 11:18:08* · [`adalk`](https://www.ada.lk/breaking_news/මාදම්පේ-බිහිසුණු-බස්---ලොරි-අනතුරක්/11-410607) · `si`
+
+මාදම්පේ ඉරට්ටකුලම ප්‍රදේශයේදී හලාවත ඩිපෝවට අයත් ලංගම බස් රථයක් සහ සිමෙන්ති පැටවූ ලොරි රථයක් එකිනෙක ගැටී බිහිසුණු අනතුරක් සිදු වු බව වාර්තා වේ.
+
+අනතුරින් පුද්ගලයින් 35 දෙනෙකු පමණ තුවාල ලබා ඇති බවත් කිහිපදෙනෙකුගේ තත්ත්වය බරපතළ බව රෝහල් ආරංචි මාර්ග සඳහන් කරයි.
+
+අද (04)දින උදෑසන දේවාල හංදියේ සිට හලාවත හරහා කොළඹ බලා ධාවනය වූ ලංගම බස්රථයකට වේගය පාලනය කරගැනීමට නොහැකිව , පුත්තලමේ සිට කොළඹ බලා එම දිශාවටම ධාවනය වූ සිමෙන්ති ලොරියක ගැටී තිබුණි.
+
+◼️
+
+[Data](articles/6cf6848e.json)
+
+---
+
+### මම යන්නේ නෑ - බයිඩන්
+
+*2024-07-04 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198475) · `si`
+
+පසුගියදා අමෙරිකානු ජනාධිපති ජෝ බයිඩන් සහ හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් අතර පැවති රූපවාහිනි විවාදයේදී ජනපති බයිඩන් කටයුතු කළ ආකාරය සම්බන්ධයෙන් ඩිමොක්‍රටික් පාක්ෂිකයෝ දැඩි ලෙස කලබල වී සිටිති.
+
+එහිදී ජනාධිපතිවරයා පැහැදිලි ලෙසම දුර්වල ලෙස ඊට සහභාගී වූ බව බහුතරයකගේ මතය වෙයි.
+
+එබැවින් එළැඹෙන නොවැම්බර් ජනාධිපතිවරණයට වෙනත් අපේක්ෂකයෙක් ඩිමොක්‍රටික් පක්ෂයෙන් ඉදිරිපත්කළ යුතු බවට විවිධ මත පළවෙයි.
+
+මේ අතර විදෙස් මාධ්‍ය වාර්තා කරන්නේ තම පක්ෂයේ ඉහළ පෙළේ සාමාජිකයින් සමග බයිඩන් සාකච්ඡාවක් පවත්වා ඇති බවයි.
+
+එහිදී තම සැලසුම් ගැන පැහැදිලිකර ඇති ජනපතිවරයා තමා ජනපතිවරණයට සහභාගීවන බව පවසා තිබුණි.
+
+එසේම උප ජනාධිපති කමලා හැරිස් සමග ද ජනාධිපති බයිඩන් පුද්ගලිකව සාකච්ඡා පවත්වා ඇති අතර ජනාධිපතිවරණය සඳහා ඇය ඉදිරිපත්වීම වඩාත් සුදුසු බවට ද අදහස් පළ වෙයි.
+
+◼️
+
+[Data](articles/f2a8c383.json)
+
+---
+
+### මාරක රිය අනතුරු කිහිපයක් - 5ක් මරුට
+
+*2024-07-04 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198474) · `si`
+
+ඊයේ (03) දිවයිනේ ප්‍රදේශ කිහිපයක සිදු වූ රියඅනතුරුවලින් පුද්ගලයින් 5 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+මුල්ලියාවේලි පොලිස් වසමේ මුලතිව් නෙදුන්කේනි මාර්ගයේ මාමුලේ ප්‍රදේශයේ දී මුලතිව් දෙස සිට නෙදුන්කේනි දෙසට ධාවනය වූ කාර් රථයක් මාර්ගය හරහා ගමන් කළ දැරියකගේ  ගැටී අනතුරක් සිදුව ඇත.
+
+අනතුරෙන් තුවාල ලැබූ දැරිය මාංචෝල රෝහලට ඇතුලත් කිරීමෙන් පසු මිය ගොස් තිබේ.
+
+මෙලෙස මිය ගොස් ඇත්තේ අවුරුදු 9ක් වයසැති මාමුලේ, මුල්ලියවේලි ප්‍රදේශයේ පදිංචි දැරියකි.
+
+මේ අතර බඩල්ලගම පොලිස් වසමේ රණවිරු පීරිස් මාවත ප්‍රදේශයේදී කෙහෙල්ඇල්ල දෙස සිට කෙහෙල්ඇල්ල මංසන්ධිය දෙසට ධාවනය වූ යතුරු පැදියක් පැදිකරුට පාලනය කරගත නොහැකි වීමෙන් මාර්ගයෙන් ඉවතට ගොස් දුරකථන රැහැන් කණුවක ගැටීමෙන් සිදු වූ අනතුරෙන් පුද්ගලයෙක් මිය ගොස් තිබේ.
+
+එලෙස අනතුරෙන් මිය ගොස් ඇත්තේ 19 හැවිරිදි කටුවැල්ලේගම ප්‍රදේශයේ පදිංචි තරුණයෙකි.
+
+...
+
+[Data](articles/05d99c94.json)
+
+---
 
 ### The horrific bus - lorry accident
 
@@ -58,21 +118,29 @@ According to our correspondent that there was rainy weather in the area at the t
 
 ---
 
-### இளம் யுவதி மாயம் - கிணற்றை தோண்ட நடவடிக்கை
+### Young woman magic
 
 *2024-07-04 10:43:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/இளம்-யுவதி-மாயம்-கிணற்றை-தோண்ட-நடவடிக்கை/75-339854) · `ta`
 
-சேருவில பொலிஸ் பிரிவுக்குட்பட்ட தங்கநகர் பகுதியைச் சேர்ந்த இளம் யுவதி ஒருவர் காணாமல் போயுள்ளதாக பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+A young woman from Thanganagar, Nadeskumar Vinodhini, has gone missing, prompting a search involving the Seruvila and Muttur police divisions. The Muttur police, after arresting a suspect, have received court approval to excavate a well near Gilivetti village. This action follows reports that the girl's boyfriend sealed the well using a JCP machine before fleeing. Investigations continue.
 
-நடேஸ்குமார் வினோதினி என்ற 25 வயதான இளம் பெண் ஒருவரே காணாமல் போயுள்ளதாக அவரது குடும்பத்தினர் சேருவில மற்றும் மூதூர் பொலிஸ் நிலையங்களில் முறைப்பாடு செய்துள்ளனர்.
+🟩
 
-இது தொடர்பான வழக்கு விசாரணையை முன்னெடுத்துவரும் மூதூர் பொலிஸார் சந்தேகத்தின்பேரில் கிளிவெட்டியைச் சேர்ந்த சந்தேக நபர் ஒருவரை கைது செய்து விசாரணை மேற்கொண்டதன் அடிப்படையில்  கிளிவெட்டி கிராமத்தின் எல்லைப் புறத்தில் பாழடைந்த இருக்கின்ற கிணறு ஒன்றை தோண்டுவதற்கு நீதிமன்ற அனுமதியை பெற்றுள்ளனர்.
+A young woman from Thanganagar, which belongs to the Seruvila Police Division, has been reported missing at the police station.
 
-இந்நிலையில் குறித்த பகுதியில் நேற்று (03) புதன்கிழமை முதல் பொலிஸ் உத்தியோகத்தர்கள் பாதுகாப்பு கடமையில் ஈடுபடுத்தப்பட்டுள்ளதுடன் குறித்த கிணறானது நாளையதினம் (5) வெள்ளிக்கிழமை காலை மூதூர் நீதிமன்ற நீதவான் முன்னிலையில் தோண்டப்படவுள்ளதாகவும் மூதூர் பொலிஸார் தெரிவித்தனர்.
+Nadeskumar Vinodhini, a 25 -year -old girl, has lodged a complaint at Seruvila and Muttur police stations that she has disappeared.
 
-...
+The Muttur police, who are carrying out the case, have obtained court permission to dig a dilapidated well on the border of the Gilivetti village on the basis of the arrest of a suspect from Cleivetti on suspicion.
+
+In this case, the police officers have been deployed in the area since Wednesday (03), and the well will be dug in the presence of the Muttur Court Magistrate on Friday morning.
+
+It is reported that the well was closed by the girl's boyfriend with the help of the JCP machine and that the boyfriend was in hiding as suspicions were being released.. Muttur police are conducting further investigations. Remble
+
+◼️
 
 [Data](articles/e67a10db.json)
+
+[Extended Data](ext_articles/e67a10db.ext.json)
 
 ---
 
@@ -81,6 +149,12 @@ According to our correspondent that there was rainy weather in the area at the t
 *2024-07-04 10:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100283/president-ranil-supports-election-commissions-decision-on-presidential-polls-) · `en`
 
 President Ranil Wickremesinghe says he firmly believes that the President’s term is 5 years and supports the Election Commission’s decision to hold the Presidential Election in 2024, the President’s Media Division reported.
+
+An entrepreneur named C.D. Lenaw had filed a fundamental rights (FR) petition yesterday (3) seeking an order preventing the calling of a Presidential Election until the Supreme Court delivers its interpretation on the presidential poll date.
+
+The petition has requested that an interim order be issued to prevent the holding of the presidential election within the currently scheduled period until the court delivers its interpretation on the date of the next presidential election.
+
+Commenting on this, the President stated that neither he nor his lawyers were consulted or informed about this petition before it was submitted.
 
 ◼️
 
@@ -326,19 +400,41 @@ For this purpose, the district branch of the Sri Lanka Tamil State Party, includ
 
 ---
 
-### පාසල් පද්ධතියේ විශිෂ්ට විදුහල්පති හා ගුරුන් තෝරයි
+### අයි පි අල්ලස් දැලේ
+
+*2024-07-04 09:04:11* · [`adalk`](https://www.ada.lk/breaking_news/අයි-පි-අල්ලස්-දැලේ/11-410602) · `si`
+
+පුද්ගලයකුගෙන් රුපියල් 25000/= අල්ලස් වශයෙන් ඉල්ලා ලබා ගැනීමේ චෝදනාව මත මහා භාගේ පොලිසියේ පොලිස් පරීක්ෂකවරයෙකු අත්අඩංගුවට ගත් බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව කියයි. වත්තල පල්ලියවත්ත ප්‍රදේශයේ පදිංචිකරුවකු විසින් කරන ලද පැමිණිල්ලක් අනුව සැකකරු අත්අඩංගුවට ගෙන ඇත.
+
+පැමිණිලිකරු විසින් ලබා දී ඇති අගුරු චෙක්පත් දෙකකට අදාලව මහා බාගේ පොලිසි ස්ථානයට කර ඇති පැමිණිල්ල විභාග කර. එම අගරු චෙක්පත්වලට අදාල ඉතිරි මුදල මාසික වාරික ගෙවීමට ඉඩ සලසා දීමට හා පැමිණිලිකරු අධිකරණය ඉදිරිපත් නොකර සිටීම සඳහා රුපියල් 25000/= අල්ලස් වශයෙන් ඉල්ලා ලබා ගැනීමේ චෝදනාව මත සැකකාර පොලිස් පරීක්ෂකවරයා වැලිසර ආර්ථික මධ්‍යස්ථානයට ගමන් කරන මාර්ගයේ දි  අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන්  සභාවේ නිලධාරීන් විසින්
+
+අත්අඩංගුවට ගත් සැකකරු කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතව ඇත.අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/8e1da17c.json)
+
+---
+
+### Excellent principal and gurunes in the school system
 
 *2024-07-04 09:00:29* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-පද්ධතියේ-විශිෂ්ට-විදුහල්පති-හා-ගුරුන්-තෝරයි/11-410601) · `si`
 
-ඔක්තෝම්බර් 05 දාට යෙදෙන ලෝක ගුරු දිනයට සමගාමීව  පාසල් පද්ධතියේ ඉහල කාර්ය සාධනයක් සහිත විදුහල්පතිවරුන් සහ ගුරුවරුන් තෝරා ඇගැයීමේ  වාර්ෂික   "ගුරු  ප්‍රතිභා ප්‍රභා 2024 " උළෙල සඳහා මෙම මස 07 දා දක්වා අයදුම්පත්  බාර ගන්නා බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+In celebration of World Teacher Day, from October 5 to 7, the Ministry of Education recognizes principals and teachers for their contributions. In 2023, schools can award scholarships based on subjects, leadership, and service. This includes those who've shown exceptional performance and dedication without any disciplinary issues. The event, scheduled for October 4, highlights the importance of educators in the education system.
 
-2023 වර්ෂය තුළදී පාසල්වල ශිෂ්‍ය සාධනය ,ඉගෙනුම් ඉගන්වීම් ක්‍රියාවලිය ,විෂය මාලා කළමනාකරණය ,විෂය සමගාමී කටයුතු,ගුරු සිසු සුබසාධනය,නායකත්වය හා කළමනාකරණය ,භෞතික සම්පත් කළමනාකරණය සහ පාසල් ප්‍රජාව යන විශිෂ්ට ව්‍යවහාර ක්ෂේත්‍ර ඔස්සේ විදුහල්පතිවරුන් සහ ගුරුවරුන් පෙන්වා ඇති කුසලතාවන් පදනම් කර ගනිමින් මේ සඳහා සුදුස්සන් තෝරා ගන්නා බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+🟩
 
-වැටුප් රහිත නිවාඩු ලබා නොමැති,විනය විමර්ශන නොමැති,විනය හෝ සාපරාධී වැරදිකරුවන් නොවූ  වසර තුනක අවම  සතුටුදායක සේවා කාලයක් ඇති අධ්‍යාපන පරිපාලන සේවය,විදුහල්පති සේවය හා ගුරු සේවයේ දැනට රජයේ  පාසල්වල සේවයේ නියුතු විදුහල්පති හා ගුරු දෙපාර්ශවයට මේ සඳහා ඉල්ලුම් කළ හැකිවේ.මෙම ඇගැයීම් උළෙල  ජාතික මට්ටමින් ඔක්තෝම්බර් 04 දින පැවැත්වෙන බවද අධ්‍යාපන අමාත්‍යාංශය වැඩි දුරටත් සඳහන් කරයි.
+Parallel to the World Teacher Day, 5 October, the school system is accepted by the Ministry of Education to be accepted until the 7th of this month.
+
+During the year 2023, schools are eligible to base the scholarships, subject management, leadership and teachers and teachers, teachers and teachers.The Ministry of Education states that it is selected.
+
+The Principals and Teachers Service Service and the Teachers Service Services, the Principals and Teachers Service, which have already been applied to the ministerial and teachers in government schools, which have not been interdependent of the disciplinary or criminal culpriters, which have not been paid free leave.The Ministry of Education further states that it will be held on 4th October at the level.
 
 ◼️
 
 [Data](articles/5a279f79.json)
+
+[Extended Data](ext_articles/5a279f79.ext.json)
 
 ---
 
@@ -2171,95 +2267,5 @@ The petitioner pointed out that the term of the seventh constitutional amendment
 [Data](articles/32823b24.json)
 
 [Extended Data](ext_articles/32823b24.ext.json)
-
----
-
-### A tendency to cause kidney disease from the skin chain
-
-*2024-07-03 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198451) · `si`
-
-The increase in kidney disease cases exceeds the rise in skin cream users. A health official warns that unregulated creams may contain harmful levels of mercury, leading to kidney damage. Short-term effects like dark palms and nails indicate potential harm. The government plans to reduce mercury levels in cosmetics to zero, emphasizing the importance of responsible skincare products.
-
-🟩
-
-The number of people who suffer from kidney disease has increased more than the people who are used by various cream for the skin.
-
-A press conference held at the Health Promotion Bureau this morning (03) was speaking at the National Hospital Specialist Dr. Indira Kahawita.
-
-"World Health Organization & Sri Lanka Health Ministry of Sri Lanka Is going to be fully damaged. That means the amount of mercury is to zero. Now they use to one place the whole. There is no responsibility that the whole body is not absorbed by the skin through the skin. When it was, what could be more than provides than inventions, the kidneys. Sri Lanka is a wide range of kidney disease who has not identified a cause. How do we show that it affects us? "
-
-"In 24 hours, there are approximately 60 clinics that I check. Six of the entire number of people named 10% of the broad creamy. These are not the long-term.. Most of the Stretch marks. "
-
-...
-
-[Data](articles/d018290a.json)
-
-[Extended Data](ext_articles/d018290a.ext.json)
-
----
-
-### Shuphna arrested for gateway to rape jobs in overseas supermarkets
-
-*2024-07-03 16:54:21* · [`adalk`](https://www.ada.lk/breaking_news/එතෙර-සුපිරි-වෙළඳසැල්වල-රැකියා-පෙන්වා-මුදල්-ගැරූ-දෙමටගොඩ-ෂිෆ්නා-අත්අඩංගුවට/11-410592) · `si`
-
-A woman from Dematagoda, Sri Lanka, was arrested for allegedly providing false employment opportunities in Dubai and Qatar supermarkets. The arrest followed complaints to the Sri Lanka Foreign Employment Bureau. The Bureau advises checking SLBFE or calling 1989 for verifying job agencies before seeking foreign employment.
-
-🟩
-
-A woman was arrested by the Sri Lanka Foreign Employment Bureau yesterday (07) yesterday.
-
-The Bureau's Special Investigation Division has received three complaints that a resident of Dematagoda has provided employment to the supermarkets of Dubai and Qatar.
-
-Accordingly, the woman was arrested in the Dematagoda area and was to be produced at the Talangama Police Station last night.
-
-WWW.SLBFE to find out if a company or a person has a valid job agency to recruit a foreign employment or a valid job agency to get a foreign employment for foreign employment.The Bureau urges foreign employment seekers to obtain information by visiting the LK website or addressing the 1989 instant call number.
-
-◼️
-
-[Data](articles/0ffbae75.json)
-
-[Extended Data](ext_articles/0ffbae75.ext.json)
-
----
-
-### Ex-storekeeper arrested over theft of liquor bottles from Hulftsdorp Court
-
-*2024-07-03 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100271/ex-storekeeper-arrested-over-theft-of-liquor-bottles-from-hulftsdorp-court) · `en`
-
-A former storekeeper of the Hulftsdorp Court complex has been arrested by the Colombo Crimes Division (CCD) in connection with the disappearance of foreign liquor bottles worth around Rs. 20 million from the court’s storage facility.
-
-The individual has been remanded until July 16 by the Colombo Chief Magistrate, said Ada Derana reporter.
-
-Minister of Justice Wijeyadasa Rajapakshe had revealed this incident in the Parliament recently where he further claimed that according to the forensic report, the door of the store room had been opened with the appropriate key before the theft was committed.
-
-◼️
-
-[Data](articles/3015de00.json)
-
-[Extended Data](ext_articles/3015de00.ext.json)
-
----
-
-### Sri Lanka stocks close down, Windforce sees foreign buying
-
-*2024-07-03 16:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-windforce-sees-foreign-buying-170709/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
-
-The broader All Share Index closed down 0.67 percent, or 81.15 points, at 12,037; while the more liquid S&P SL20 Index closed down 0.95 percent, or 33.96 points, at 3,540.
-
-Most of this came from Windforce Plc (Rs140mn), and the share closed up at 20.50. “There was foreign buying from a fund that was active when Sri Lanka was on a better footing,” Softlogic Stockbrokers said.
-
-Sampath Bank Plc was one of four crossings in the day. The local to local exchange contributed Rs268n to the day’s turnover. The share closed flat at 79.00.
-
-“Activity from retail segment is yet to be seen. Local investors are continuing with the same mindset.”
-
-At the treasury bill auction Wednesday yields were flat. “Maybe this might bring interest back in the market.”
-
-...
-
-[Data](articles/41a3720f.json)
-
-[Extended Data](ext_articles/41a3720f.ext.json)
 
 ---

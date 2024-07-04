@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 10:53:45**
+As of **2024-07-04 11:05:46**
 
 ## Newspaper Stats
 
-*Scraped **33,608** Articles*
+*Scraped **33,610** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,43 @@ bbccomsinhala | 331
 newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,967
-dailyftlk | 2,083
+dailyftlk | 2,084
 adalk | 2,999
 adaderanalk | 3,835
 tamilmirrorlk | 3,975
 dailymirrorlk | 4,733
 virakesarilk | 5,255
-adaderanasinhalalk | 5,570
+adaderanasinhalalk | 5,571
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,608 (100.0%) of 33,608 articles have been extended.
+33,608 (100.0%) of 33,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### බිහිසුණු බස් - ලොරි අනතුර
+
+*2024-07-04 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198473) · `si`
+
+හලාවත - කොළඹ මාර්ගයේ මාදම්පේ - ගලහිටියාව ප්‍රදේශයේදී ලංගම බස් රථයක් සහ සිමෙන්ති පැටවූ ලොරි රථයක් එකිනෙක ගැටී බිහිසුණු අනතුරක් සිදුව තිබේ.
+
+අනතුරින් පුද්ගලයින් 25 දෙනෙකු පමණ තුවාල ලබා මේ වනවිට ප්‍රතිකාර සඳහා හලාවත මහ රෝහලට ඇතුළත් කර ඇත.
+
+එම රෝගීන්ගෙන් කිහිපදෙනෙකුගේ තත්ත්වය බරපතළ බව රෝහල් ආරංචි මාර්ග සඳහන් කරයි.
+
+අද (04) උදෑසන දේවාල හංදියේ සිට හලාවත හරහා කොළඹ බලා ධාවනය වූ ලංගම බස්රථයකට වේගය පාලනය කරගැනීමට නොහැකිව, පුත්තලමේ සිට කොළඹ බලා එම දිශාවටම ධාවනය වූ සිමෙන්ති ලොරියක ගැටී තිබුණි.
+
+අනතුර සිදුවන අවස්ථාවේ දී එම ප්‍රදේශයේ වැසි සහිත කාලගුණික තත්ත්වයක් පැවති බව අප වාර්තාකරු පැවසීය.
+
+◼️
+
+[Data](articles/a0fb21c7.json)
+
+---
 
 ### President Ranil supports Election Commission’s decision on presidential polls
 
@@ -1019,6 +1039,20 @@ The program was presented by the International Labour organisation, ILO and the 
 [Data](articles/555fed89.json)
 
 [Extended Data](ext_articles/555fed89.ext.json)
+
+---
+
+### Sampanthan, stature diminished by links to LTTE, is no more
+
+*2024-07-04 01:17:39* · [`dailyftlk`](https://www.ft.lk/columns/Sampanthan-stature-diminished-by-links-to-LTTE-is-no-more/4-763808) · `en`
+
+Sampanthan could never overlook the ethnic divisions that have plagued Sri Lanka for decades – before, during and after the war
+
+Sampanthan, one among the few TNA leaders who Western diplomats in Colombo continued to respect despite his political predicament, tried to come on to his own after the LTTE was militarily crushed. Now minus the armed campaign to break up Sri Lanka, the TNA leader made some bold statements, making it clear that he wanted to be a part of the island nation. A section of the TNA, which fragmented over the years, sided with him. After the war, he played a major role in highlighting internationally the horrific price the ordinary Tamils had to pay in Sri Lanka simply for being at the wrong place at the wrong time
+
+...
+
+[Data](articles/00040f2b.json)
 
 ---
 
@@ -2229,59 +2263,5 @@ The appellate petition petition was postponed until February 17th.
 [Data](articles/2e95d5dc.json)
 
 [Extended Data](ext_articles/2e95d5dc.ext.json)
-
----
-
-### SriLankan Airlines bidders being further evaluated: Minister
-
-*2024-07-03 16:00:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-bidders-being-further-evaluated-minister-170702/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers have not yet approved a set of prequalified bidders for state-run SriLankan Airlines, Aviation Minister Nimal Siripala de Silva said.
-
-Six parties responded to an initial expression of interest called by Sri Lanka’s State Owned Enterprises Restructuring Unit to divest the airline.
-
-The bids are being “further evaluated,” he told reporters in Colombo Wednesday.
-
-Sri Lanka “would like to see a Sri Lankan entrepreneur or consortium” buying into the airline but there was no firm interest, he said.
-
-The parties should have a strong balance sheet and expertise, as there were the jobs of 6,000 people at stake, he said. (Colombo/July03/2024)
-
-◼️
-
-[Data](articles/8a968759.json)
-
-[Extended Data](ext_articles/8a968759.ext.json)
-
----
-
-### No one will sabotage school education from 7.30 am to 1.30 pm
-
-*2024-07-03 15:54:40* · [`adalk`](https://www.ada.lk/breaking_news/උදෑසන-7-30-සිට-දහවල්-1-30-දක්වා-කිසිවෙකුට-පාසල්-අධ්‍යාපනය-කඩාකප්පල්-කිරීමට-දෙන්නේ-නෑ/11-410591) · `si`
-
-Presidents Rajapaksa and Wickremesinghe emphasize the importance of uninterrupted school education, condemning any disruptions and calling for dedication to future generations. They discuss online systems for teacher transfers and promotions, ensuring fairness, and highlight the need for discipline in education. The presidents stress the role of educators in shaping the nation's future and the importance of maintaining educational standards across all sectors.
-
-🟩
-
-All who are in charge of the teaching should be sacrificed for future generations
-
-From 7.30 am to 1.30 pm, no one will sabotage school education at 1.30 pm - heavy measures in the future.
-
-President also requests opposition to not support these disruptive acts.
-
-No one will be treated unfairly in promotions or teacher shifts.
-
-President Mahinda Rajapaksa says the Teacher Transfer and Promoccess Appointment through online technology - 2159
-
-President Ranil Wickremesinghe emphasized all those in the teaching should be dedicated to future generations and education without discipline.
-
-The President said he would not allow school education directly or indirectly from 7.30 am to 1.30 pm and to investigate the future measures.
-
-President Ranil Wickremesinghe made this statement participating at a ceremony held at Temple Trees to grant appointments to the officials of the Education Administrative Service and Graduates and Diploma holders at Temple Trees.
-
-...
-
-[Data](articles/afdc3b2d.json)
-
-[Extended Data](ext_articles/afdc3b2d.ext.json)
 
 ---

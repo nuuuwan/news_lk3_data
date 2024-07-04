@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 10:19:43**
+As of **2024-07-04 10:35:07**
 
 ## Newspaper Stats
 
-*Scraped **33,602** Articles*
+*Scraped **33,608** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,52 +15,108 @@ newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,967
 dailyftlk | 2,083
-adalk | 2,998
-adaderanalk | 3,834
-tamilmirrorlk | 3,974
+adalk | 2,999
+adaderanalk | 3,835
+tamilmirrorlk | 3,975
 dailymirrorlk | 4,733
-virakesarilk | 5,252
+virakesarilk | 5,255
 adaderanasinhalalk | 5,570
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,600 (100.0%) of 33,602 articles have been extended.
+33,602 (100.0%) of 33,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### මැතිවරණ කොමිසමේ තීරණයට ජනපතිගේ සහාය
+### President Ranil supports Election Commission’s decision on presidential polls
+
+*2024-07-04 10:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100283/president-ranil-supports-election-commissions-decision-on-presidential-polls-) · `en`
+
+President Ranil Wickremesinghe says he firmly believes that the President’s term is 5 years and supports the Election Commission’s decision to hold the Presidential Election in 2024, the President’s Media Division reported.
+
+◼️
+
+[Data](articles/82fb8da8.json)
+
+---
+
+### President supports the decision of the Election Commission
 
 *2024-07-04 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198472) · `si`
 
-2024 දී ජනාධිපතිවරණය පැවැත්වීමට අදාළව මැතිවරණ කොමිසමේ තීරණයට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහාය පළ කරන බව ජනාධිපති මාධ්‍ය ඒකකය නිවේදනය කරයි.
+President Ranil Wickremesinghe backs the Election Commission's decision on the 2024 presidential election, affirming his belief in a five-year presidential term.
 
-එමෙන්ම ජනාධිපතිවරයාගේ ධුර කාලය වසර 5ක් බවට ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා තරයේ විශ්වාස කරන බව එම නිවේදනයේ වැඩිදුරටත් දැක්වේ.
+🟩
+
+President Ranil Wickremesinghe has announced that President Ranil Wickremesinghe will support the decision of the Election Commission regarding the presidential election in 2024.
+
+President Ranil Wickremesinghe has strongly believes that the term of the president is five years.
 
 ◼️
 
 [Data](articles/c1706a6c.json)
 
+[Extended Data](ext_articles/c1706a6c.ext.json)
+
 ---
 
-### හිරුණිකාගේ ඉල්ලීමට නීතිපති ගෙන් විරෝධය ?
+### Attorney General has objected to Hirunika's request?
 
 *2024-07-04 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198471) · `si`
 
-බරපතළ වැඩසහිතව වසර තුනක සිර දඬුවම් නියමවී සිටින හිටපු පාර්ලිමේන්තු මන්ත්‍රීනි හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය ඇප මත මුදාහරින ලෙස කර තිබෙන ඉල්ලීමට අදාළව විරෝධතා ගොනු කරන බව නීතිපතිවරයා අද (04) කොළඹ මහාධිකරණය හමුවේ දැනුම් දුන්නේය.
+The Attorney General objected to Hirunika Premachandran's request, stating expectations of protests which should be filed in writing. The Colombo High Court allowed the AG to submit written protests, scheduling a summons for the 11th.
 
-මෙම ඇප ඉල්ලීම අද කොළඹ මහාධිකරණ විනිසුරු අමල් රණරාජා මහතා ඉදිරියේ සලකා බැලීය.
+🟩
 
-එහිදී රජයේ නීතිඥවරයා සඳහන් කළේ මෙම ඉල්ලීමට අදාළව විරෝධතා ඉදිරිපත් කිරීමට නීතිපතිවරයා අපේක්ෂා කරන බවත් එම විරෝධතා ලිඛිතව ගොනු කිරීම සඳහා කල්ලබා දෙන ලෙසත් ඉල්ලා සිටියේය.
+The Attorney General also informed the Colombo High Court today that the former MP Hirunika Premacharandra, who was sentenced to three years in prison.
 
-ඒ අනුව විරෝධතා ඉදිරිපත් කිරීමට නීතිපතිවරයාට අවසර දුන් මහාධිකරණ විනිසුරුවරයා මෙම ඇප ඉල්ලීම යළි ලබන 11 වනදා කැඳවන ලෙසත් නියෝග කළේය.
+The request was considered before Colombo High Court Judge Amal Ranaraja.
+
+The State Counsel said that the Attorney General was expecting the protests and asked to file the protests in writing.
+
+Accordingly, the High Court judge who permitted the Attorney General to submit the protests ordered to be summoned on the 11th.
 
 ◼️
 
 [Data](articles/b5468804.json)
+
+[Extended Data](ext_articles/b5468804.ext.json)
+
+---
+
+### புதிய திட்டங்களுடன் ஆரம்பிக்கப்படும் யுக்திய நடவடிக்கை
+
+*2024-07-04 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/187637) · `ta`
+
+யுக்திய நடவடிக்கையானது இன்று வியாழக்கிழமை  (04) முதல்  புதிய திட்டங்களுடன் ஆரம்பிக்கப்படவுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+யுக்திய நடவடிக்கைக்கு இலங்கை இராணுவத்தின் ஆதரவு கிடைக்கும் என எதிர்பார்க்கப்படுவதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதிப் பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+
+மேலும், எதிர்வரும் காலங்களில் முழு நாட்டையும் உள்ளடக்கும் வகையில்  நடைமுறைப்படுத்தப்படும் எனவும் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/3fbcac49.json)
+
+---
+
+### இன்று முதல் புதிய  வடிவில் ’யுக்திய’
+
+*2024-07-04 09:47:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-புதிய-வடிவில்-யுக்திய/175-339850) · `ta`
+
+இன்று (04) முதல் புதிய வடிவில் யுக்திய நடவடிக்கை ஆரம்பிக்கப்படவுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+இந்த நடவடிக்கைக்கு இராணுவத்தினரின் ஆதரவு கிடைக்கும் என எதிர்பார்க்கப்படுவதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதிப் பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்தார்.
+
+கொழும்பை சுற்றியுள்ள பல பிரதேசங்களில் இந்த வேலைத்திட்டம் ஆரம்பிக்கப்பட்டதாகவும், எதிர்காலத்தில் முழு நாட்டையும் உள்ளடக்கும் வகையில் இது நடைமுறைப்படுத்தப்படும் எனவும் தல்துவ குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/4142cd8b.json)
 
 ---
 
@@ -102,6 +158,34 @@ DIG Thalduwa, further stated that the operation has commenced in several areas a
 
 ---
 
+### உலகின் முதல் சர்வதேச ஒட்டிப் பிறந்த இரட்டையர்கள் மாநாட்டை சவூதி அரேபியா நடத்த தீர்மானம்
+
+*2024-07-04 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/187634) · `ta`
+
+2024 ஆம் ஆண்டு நவம்பர் 24 ஆம் திகதியை 'உலக ஒட்டிப் பிறந்த இரட்டையர்கள் தினம்' ஆக ஐக்கிய நாடுகள் சபை அறிவித்துள்ளது. ஒட்டிப் பிறந்த இரட்டையர்களின் நிலையைப் பற்றி வலியுறுத்தவும், அவர்களின் சிகிச்சை, பராமரிப்பு மற்றும் நல்வாழ்வு உட்பட சமூகத்தில் அவர்களுக்கான அங்கீகாரத்தை மேம்படுத்தவும் இந்நாள் முக்கியப்படுத்தப்பட்டுள்ளது.
+
+பஹ்ரைன், மொராக்கோ, கத்தார் மற்றும் ஏமன் ஆகிய நாடுகளுடன் இணைந்து இந்த முயற்சியை சவூதி அரேபியா முன்மொழிந்தமை குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/53ba44fc.json)
+
+---
+
+### இலஞ்சம் பெற்ற பொலிஸ் பரிசோதகர் கைது
+
+*2024-07-04 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/187636) · `ta`
+
+இலஞ்சம் பெற்ற பொலிஸ் பரிசோதகர் ஒருவர் இலஞ்சம் ஆணைக்குழு அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
+
+பணம் இல்லாத காசோலையை வழங்கி நபரிடம் இருந்து தவணை முறையில் பணத்தை பெற்று தருவதாக கூறி அவர் இலஞ்சம் பெற்றதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/8b8eebff.json)
+
+---
+
 ### Another tragedy in India
 
 *2024-07-04 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198469) · `si`
@@ -128,6 +212,26 @@ The report also pointed out that the quality of the air quality of India has exc
 
 ---
 
+### Attack on the Talawa Police Station
+
+*2024-07-04 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/187635) · `ta`
+
+On Wednesday night, a Superintendent of Police at the Talawa station was attacked with a sharp weapon. The officer, now hospitalized at the Anuradhapura Teaching Hospital, is under treatment.
+
+🟩
+
+A sharp weapon was attacked by the Superintendent of Police at the Talawa Police Station on Wednesday night (03).
+
+It is reported that the police officer in charge of the attack has been admitted to the Anuradhapura Teaching Hospital for treatment.
+
+◼️
+
+[Data](articles/6dd04b33.json)
+
+[Extended Data](ext_articles/6dd04b33.ext.json)
+
+---
+
 ### Thirumalai Soil
 
 *2024-07-04 09:05:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/இறுதி-கிரியைகளுக்கு-தயாராகும்-திருமலை-மண்/75-339849) · `ta`
@@ -150,23 +254,23 @@ For this purpose, the district branch of the Sri Lanka Tamil State Party, includ
 
 ---
 
-### Attack on the Talawa Police Station
+### විදුලි ගාස්තු සංශෙෘ්ධන ගැන කොමිසමේ තීරණය ජුලි 09දා
 
-*2024-07-04 09:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/187635) · `ta`
+*2024-07-04 08:57:40* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෙෘ්ධන-ගැන-කොමිසමේ-තීරණය-ජුලි-09දා/11-410600) · `si`
 
-On Wednesday night, a Superintendent of Police at the Talawa station was attacked with a sharp weapon. The officer, now hospitalized at the Anuradhapura Teaching Hospital, is under treatment.
+ලංකා විදුලි බල මණ්ඩලය මගින් මේ  වසරේ දෙවන වතාවට  සිදු කිරීමට යෝජිත  විදුලි ගාස්තු සංශෝධනයට අදාලව මහජනයාගේ වාචික අදහස් ලබා ගැනීම ජූලි 09 දා කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේදී සිදු කරන බව  ශ්‍රී ලංකා මහජන උපයෝගීතා කොමිෂන් සභාව පවසයි.
 
-🟩
+ඒ අනුව   මෙම විදුලි ගාස්තු සංශෝධනය  පිළිබඳව උනන්දුවක් දක්වන්නන්ට ජූලි 07 දාට පෙර මේ සඳහා කොමිසමේ  ලියා පදිංචිවී  09 දා   පෙරවරු 8.30 සිට පස්වරු 4.30 දක්වා පැමිණ එහිදී  තම අදහස් දැක්වීමට   අවස්ථාව සලසා ඇතැයි   මහජන උපයෝගීතා කොමිෂන් සභාව දැනුම් දෙයි .
 
-A sharp weapon was attacked by the Superintendent of Police at the Talawa Police Station on Wednesday night (03).
+මෙම  යෝජනාව පිළිබඳ  මහජනයාගේ ලිඛිත අදහස් මෙම 08 දා දක්වා තව දුරටත්  ලබා ගන්නා බවද  මහජන උපයෝගීතා කොමිෂන් සභාව සඳහන් කරයි.
 
-It is reported that the police officer in charge of the attack has been admitted to the Anuradhapura Teaching Hospital for treatment.
+පවතින විදුලි ගාස්තු පහල දැමීම සඳහා විදුලි බල මන්ඩලය මගින් කොමිසම වෙත ඉදිරිපත් කර ඇති   මෙම ගාස්තු  සංශෝධන යෝජනාව  මේ වන විට සමාලෝචනයට ලක් කරමින් සිටින බවද මහජන උපයෝගීතා කොමිෂන් සභාව සඳහන් කරයි.
+
+මෙම  ගාස්තු සංශෝධනයට අදාල කොමිෂන් සභාවේ  අවසන් තීරණය   මහජන අදහස් විමසීමෙන් පසුව ජූලි 15 දා ලබාදෙන බව ශ්‍රී ලංකා මහජන උපයෝගීතා කොමිෂන් සභාව වැඩිදුරටත් පැවසීය.
 
 ◼️
 
-[Data](articles/6dd04b33.json)
-
-[Extended Data](ext_articles/6dd04b33.ext.json)
+[Data](articles/b22b4e4c.json)
 
 ---
 
@@ -1650,7 +1754,7 @@ Kusal Perera scored 102 runs for the Dambulla Team.
 
 ---
 
-### Sri Lanka port trade unions oppose increase in female gantry operators: Ministser
+### Sri Lanka port trade unions oppose increase in female gantry operators: Minister
 
 *2024-07-03 18:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-trade-unions-protest-increase-in-female-labor-force-170719/) · `en`
 
@@ -2145,145 +2249,5 @@ President Ranil Wickremesinghe made this statement participating at a ceremony h
 [Data](articles/afdc3b2d.json)
 
 [Extended Data](ext_articles/afdc3b2d.ext.json)
-
----
-
-### The 9-year-old girl who was informed of death
-
-*2024-07-03 15:54:15* · [`adalk`](https://www.ada.lk/breaking_news/දන්දී-පින්-ලැබූ-තැනම-මරණය-අත්වූ-9හැවිරිදි-දැරිය/11-410590) · `si`
-
-A 9-year-old girl named Siani Mehita from Panadura, Sri Lanka, tragically passed away during a religious event marking Poson Poya. She fell and suffered serious injuries, which led to her admission to the Panadura Base Hospital before being transferred to the Ridadway Hospital.
-
-🟩
-
-The 9-year-old schoolgirl, Panadura, has died in a dead injurge in the gland of Poson Both Dansala.
-
-The deceased is that Siani Mehita, a resident of Bcakgama, Panadura, Panadura.
-
-It is said that a dansala has been conducted to mark the Poson Poya in Panadura and the girl has fallen before the girl with his mother.
-
-The girl who was seriously injured was admitted to the Panadura Base Hospital, hospital sources said that her condition was transferred to the Ridadway Hospital.
-
-◼️
-
-[Data](articles/f9f65c43.json)
-
-[Extended Data](ext_articles/f9f65c43.ext.json)
-
----
-
-### Strict measures against disruption of school education – President
-
-*2024-07-03 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100269/strict-measures-against-disruption-of-school-education-president) · `en`
-
-President Ranil Wickremesinghe stressed the importance of those entering the teaching profession dedicating themselves to the future generation, noting that education in a country cannot thrive without discipline.
-
-He declared that no one would be permitted to disrupt school education between 7:30 am and 1:30 pm and he has directed the Attorney General to consider further measures to ensure this, President’s Media Division reported.
-
-“No one, whether directly or indirectly, should disrupt school education from 7.30 am to 1.30 pm. I have requested the Attorney General to propose measures regarding this issue,” he said.
-
-The President stated that it is imperative that the education of children is not hindered by school closures or strikes. “Our actions must be taken with future generations in mind.”
-
-The President said he also discussed with the Education Minister regarding the possibility of implementing a computerized teacher transfer system.
-
-...
-
-[Data](articles/38803acb.json)
-
-[Extended Data](ext_articles/38803acb.ext.json)
-
----
-
-### Suspect's suspect remanded
-
-*2024-07-03 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198449) · `si`
-
-A suspect was arrested for missing money (Rs) incidents. The Justice Minister mentioned in Parliament that an analyst found the suspect had robbed from opened rooms.
-
-🟩
-
-The suspect arrested in connection with the missing incidents of Rs.
-
-Recently, Justice Minister Wijayadasa Rajapaksa revealed in Parliament recently.
-
-He added that the Analyst has revealed that the role of the rooms were opened in the room and had done the robbery.
-
-◼️
-
-[Data](articles/c4b0f50d.json)
-
-[Extended Data](ext_articles/c4b0f50d.ext.json)
-
----
-
-### Shrifna arrested for allegedly visiting foreign employment dreams
-
-*2024-07-03 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198448) · `si`
-
-Shifna, a Dematagoda resident, was arrested by SLBFE's Special Investigation Division for allegedly securing jobs in Dubai and Qatar without authorization. She will face charges at the Maligakanda Magistrate's Court after being detained at Talangama Police Station.
-
-🟩
-
-A woman was arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment (SLBFE) in Dematagoda yesterday.
-
-Section Shifna, a woman named Shifna, a resident of Dematagoda, has been given jobs in the land of Dubai and Qatar..
-
-According to the complaints, the woman has been arrested by the investigating officers.
-
-The arrested suspect is due to be produced before the Maligakanda Magistrate's Court today (03) after being detention of the Talangama Police Station at night.
-
-◼️
-
-[Data](articles/c9c9057b.json)
-
-[Extended Data](ext_articles/c9c9057b.ext.json)
-
----
-
-### Wirakingi demands threatened
-
-*2024-07-03 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198447) · `si`
-
-Wirakingi's lawyers claim he and his family were threatened with death by CID officials. The case was presented to Colombo Additional Magistrate Pavithra Pathiraja, who will issue an order on the 10th after consideration.
-
-🟩
-
-His lawyers have informed the Magistrate's Court today that the Criminal Investigations Department (CID and his family members) have been threatened with death.
-
-The complaint was called before Colombo Additional Magistrate Pavithra Pavithra Pavithra Pathiraja.
-
-The court also asked the court to issue appropriate order in this regard.
-
-After considering the following, the magistrate said he would issue an order on the 10th.
-
-◼️
-
-[Data](articles/13b6099f.json)
-
-[Extended Data](ext_articles/13b6099f.ext.json)
-
----
-
-### Death
-
-*2024-07-03 15:24:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கருவாடு-சொதியில்-விழுந்த-சிறுமி-மரணம்/175-339823) · `ta`
-
-Shayani Medumsa, a 9-year-old from Panadura, Bekkagama, tragically passed away after falling into a well and being hospitalized. She initially received treatment at the Panadura Resource Hospital before being transferred to Lady Ridgeway Hospital due to her deteriorating condition, but unfortunately, she succumbed to her injuries.
-
-🟩
-
-Panadura Southern Police said that the schoolgirl (09) died after being treated after being treated for the role of the karuwadu property.
-
-The deceased is Shayani Medumsa, a resident of Panadura, Bekkagama.
-
-On the 23rd of this month, the girl fell into the role of the girl while staying there with her mother.
-
-The injured girl was admitted to the Panadura Resource Hospital and was transferred to the Lady Ridgeway Hospital in Colombo as her condition was worrisome.. However, he died without treatment.
-
-◼️
-
-[Data](articles/f54b6662.json)
-
-[Extended Data](ext_articles/f54b6662.ext.json)
 
 ---

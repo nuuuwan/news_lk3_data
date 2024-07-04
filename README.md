@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 00:34:51**
+As of **2024-07-05 00:51:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,715 (100.0%) of 33,717 articles have been extended.
+33,717 (100.0%) of 33,717 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Sri Lanka signing agreements with bi-lateral lenders Japan, China and India to r
 
 [Data](articles/4edd7fe3.json)
 
+[Extended Data](ext_articles/4edd7fe3.ext.json)
+
 ---
 
 ### Imputed Rental Income Tax: A poisoned chalice?
@@ -61,6 +63,8 @@ As per the recently published IMF Staff Level Report, it is expected that the Im
 ...
 
 [Data](articles/4527fdbb.json)
+
+[Extended Data](ext_articles/4527fdbb.ext.json)
 
 ---
 

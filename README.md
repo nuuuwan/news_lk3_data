@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 18:54:16**
+As of **2024-07-04 19:04:57**
 
 ## Newspaper Stats
 
-*Scraped **33,684** Articles*
+*Scraped **33,685** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,982
 dailyftlk | 2,084
-adalk | 3,012
+adalk | 3,013
 adaderanalk | 3,844
 tamilmirrorlk | 3,983
 dailymirrorlk | 4,733
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,584
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,684 (100.0%) of 33,684 articles have been extended.
+33,684 (100.0%) of 33,685 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### සතොස භාණ්ඩ වර්ග තුනක මිල අඩු කරයි
+
+*2024-07-04 17:59:56* · [`adalk`](https://www.ada.lk/breaking_news/සතොස-භාණ්ඩ-වර්ග-තුනක-මිල-අඩු-කරයි/11-410613) · `si`
+
+ලංකා සතොස අත්‍යවශ්‍ය භාණ්ඩ තුනක මිල අඩු කළ කිරීමට කටයුතු කර ඇති අතර අඩු කළ නව මිල ගණන් අද (4) සිට ක්‍රියාත්මක වන බවත් සතොස නිවේදනය කරයි.
+
+චීනයෙන් ආනයන කළ අර්තාපල් කිලෝවක මිල රුපියල් 15 කින් අඩුකර ඇති අතර නව මිල රු 215කි.
+
+රතු පරිප්පු කිලෝවක මිල රුපියල් 14 කින් අඩුකර ඇති අතර නව මිල රු 282කි.
+
+සුදු සීනි කිලෝවක මිල රුපියල් 6 කින් අඩුකර ඇති අතර නව මිල රු 269කි.
+
+◼️
+
+[Data](articles/d70930ae.json)
+
+---
 
 ### 18 hours of water cut from 9 pm
 
@@ -2289,31 +2307,5 @@ The personality was silenced for more than six decades of suddenness, as a sudde
 [Data](articles/311cb5b0.json)
 
 [Extended Data](ext_articles/311cb5b0.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-07-04 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198461) · `si`
-
-The Department of Meteorology warns of showers in Western, Sabaragamuwa provinces, Galle, Matara districts, and closures in North Western, Kandy, Nuwara Eliya districts. Showers/thunderstorms expected in Ampara, Batticaloa districts, and 40-50 km/h winds from central hills' western slopes to Trincomalee, Hambantota, Monaragala districts. The public is advised to prepare for possible wind and lightning hazards.
-
-🟩
-
-The Department of Meteorology announces that showers will occur in the Western and Sabaragamuwa provinces and in the Galle and Matara districts.
-
-Several closes in the North Western Province and in the Kandy and Nuwara Eliya districts.
-
-Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee, Hambantota and Monaragala Districts, Trincomalee, Hambantota and Monaragala Districts. There are about 40-50 strong winds.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/4b81d34b.json)
-
-[Extended Data](ext_articles/4b81d34b.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 09:19:45**
+As of **2024-07-04 09:35:10**
 
 ## Newspaper Stats
 
@@ -26,75 +26,107 @@ adaderanasinhalalk | 5,566
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,589 (100.0%) of 33,597 articles have been extended.
+33,597 (100.0%) of 33,597 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### இறுதி கிரியைகளுக்கு தயாராகும் திருமலை மண்
+### Thirumalai Soil
 
 *2024-07-04 09:05:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/இறுதி-கிரியைகளுக்கு-தயாராகும்-திருமலை-மண்/75-339849) · `ta`
 
-காலம் சென்ற  தமிழ் தேசிய கூட்டமைப்பின் பெருந்தலைவரும் முன்னாள் பாராளுமன்ற உறுப்பினருமான அமரர் இரா.சம்பந்தன் அவர்களின் இறுதி கிரிகைகள் தற்போது திருகோணமலையில் உள்ள அவரது இல்லத்தில் இடம் பெறவுள்ளது.
+Amarar R. Sampanthan's funeral is underway at his Trincomalee home, organized by the Sri Lanka Tamil State Party and Trincomalee District Journalists Association under Kathiravelu Shanmugam Kukadasan's leadership.
 
-இந்த நிலையில் இதற்கான ஏற்பாடுகள் இடம் பெற்று வருகின்றன. அன்னாருக்காக அஞ்சலி நிகழ்வும் இடம் பெற்று வருகின்றன.
+🟩
 
-இதற்காக திருகோணமலை மாவட்ட ஊடகவியலாளர் சங்கம் உட்பட இலங்கை தமிழ் அரசு கட்சியின் மாவட்ட கிளை கதிரவேலு சண்முகம் குகதாசன் தலைமையில் இதற்கான ஏற்பாடுகளை செய்து வருகின்றனர்.. R
+The funeral of the late Tamil National Alliance (TNA) leader and former parliamentarian Amarar R. Sampanthan is currently being held at his residence in Trincomalee.
+
+Arrangements are being made in this situation. Anjali is also taking place for Annar.
+
+For this purpose, the district branch of the Sri Lanka Tamil State Party, including the Trincomalee District Journalists Association, is making arrangements under the leadership of Kathiravelu Shanmugam Kukadasan.. Remble
 
 ◼️
 
 [Data](articles/278b38da.json)
 
+[Extended Data](ext_articles/278b38da.ext.json)
+
 ---
 
-### சுற்றிவளைப்பின் போது தலாவ பொலிஸ் நிலைய பொறுப்பதிகாரி மீது தாக்குதல்
+### Attack on the Talawa Police Station
 
 *2024-07-04 09:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/187635) · `ta`
 
-சுற்றிவளைப்பு நடவடிக்கையின் போது நேற்று புதன்கிழமை (03) இரவு தலாவ பொலிஸ் நிலைய பொறுப்பதிகாரி மீது கூரிய ஆயுதத்தால் தாக்குல் நடத்தப்பட்டுள்ளது.
+On Wednesday night, a Superintendent of Police at the Talawa station was attacked with a sharp weapon. The officer, now hospitalized at the Anuradhapura Teaching Hospital, is under treatment.
 
-தாக்குதலில் காயமடைந்த பொலிஸ் நிலைய பொறுப்பதிகாரி சிகிச்சைக்காக அநுராதபுரம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+🟩
+
+A sharp weapon was attacked by the Superintendent of Police at the Talawa Police Station on Wednesday night (03).
+
+It is reported that the police officer in charge of the attack has been admitted to the Anuradhapura Teaching Hospital for treatment.
 
 ◼️
 
 [Data](articles/6dd04b33.json)
 
+[Extended Data](ext_articles/6dd04b33.ext.json)
+
 ---
 
-### வடக்கில் அனைத்து சிறுவர் இல்லங்களையும் உடனடியாக மூடுவதற்கு உத்தரவு
+### Order to immediately close all children's homes in the north
 
 *2024-07-04 08:45:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வடக்கில்-அனைத்து-சிறுவர்-இல்லங்களையும்-உடனடியாக-மூடுவதற்கு-உத்தரவு/71-339848) · `ta`
 
-யாழ்ப்பாணம் - தெல்லிப்பழை பகுதியில் ஆட்கள் தங்குவதற்கு உகந்த இடமல்லாத இடத்தில் சிறுவர் இல்லங்கள் நடத்தி வந்தமை விசாரணைகளில் தெரிய வந்துள்ளது.
+Investigations reveal poor conditions in unregistered children's homes in the Jaffna-Tellippalai area, including overcrowding, lack of basic amenities, and potential illegal operations. The Northern Province Governor is advised to close these homes immediately, emphasizing the need for proper registration and living conditions for children in the region.
 
-கடந்த தை மாதம் 03 மலையக மாணவர்களுடன் ஆரம்பமான ஒரு சிறுவர் இல்லம் கடந்த மே மாதம் மேலும் 03 மலையக மாணவர்கள் இணைக்கப்பட்டு 06 மாணவர்களுடன் ஒரு சிறுவர் இல்லம் நடத்தி செல்லப்பட்டுள்ளது.
+🟩
 
-குறித்த சிறுவர் இல்லம் நடத்தி செல்லப்பட்ட வீடு பாழடைந்த நிலையில் காணப்படுவதுடன் , ஜன்னல்களுக்கு கதவுகள் அற்ற நிலையில், மாணவர்கள் கட்டில் வசதிகள் இன்றி நிலத்திலையே படுத்து தூங்கி எழும்பும் நிலை காணப்பட்டுள்ளது.
+Investigations have revealed that children's homes were running in a place where people were not for the sake of staying in the Jaffna - Tellippalai area.
 
-அத்துடன் மலசல கூட வசதிகள் மற்றும் குளியல் என்பவற்றுக்கு மாணவர்கள் , குறித்த வீட்டில் இருந்து சற்று தொலைவில் பிறிதொரு காணிக்கே செல்ல வேண்டிய நிலை காணப்பட்டுள்ளது.
+A children's home, which started with 03 upcountry students last month, has been attached to a more than 03 hill country students.
 
-அதேவேளை தெல்லிப்பளை யூனியன் கல்லூரிக்கு அருகில் , யூனியன் கல்லூரிக்கு சொந்தமான வீடொன்றில் கடந்த ஜூன் மாதம் தொடக்கம் 12 மலையக மாணவர்களுடன் ஒரு சிறுவர் இல்லம் நடத்தி செல்லப்பட்டுள்ளது.
+The house where the children's home is ruled is dilapidated, and when there are no doors for the windows, students are sleeping on the ground without bed facilities.
+
+Students have to go to another land for a short distance from the house for the facilities and baths.
+
+Meanwhile, a house belonging to the Union College, near the Tellippalai Union College, has been running a children's home with 12 upcountry students since last June.
+
+The 12 upcountry students who have been housed in the house and the union college student hostel are filled with applications for applying for students.
 
 ...
 
 [Data](articles/46f8a640.json)
 
+[Extended Data](ext_articles/46f8a640.ext.json)
+
 ---
 
-### இரத்தினபுரி பகுதியில் முச்சக்கர வண்டி, மோட்டார் சைக்கிளை திருடிய இருவர் கைது!
+### Two persons arrested for stealing a motorcycle and motorcycle in Ratnapura
 
 *2024-07-04 08:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/187633) · `ta`
 
-இரத்தினபுரி பகுதியில் முச்சக்கர வண்டி, மோட்டார் சைக்கிளை திருடிய இருவரை கைது செய்துள்ளதாக ஹிங்குருகடுவ பொலிஸார் தெரிவித்தனர்.
+Two individuals, aged 28 and 29, from the military, were arrested in Ratnapura for stealing a three-wheeler and a motorcycle. The suspects were caught after a chase, during which they failed to produce necessary documents like a driver's license and ID card. A video later showed one suspect driving the stolen three-wheeler while the other followed on a stolen motorcycle. Both vehicles were eventually recovered. Preliminary investigations suggest the duo may be linked to 14 other crimes involving drugs, theft, and pharmacies. They are now facing charges and will appear before a magistrate.
 
-கைது செய்யப்பட்ட சந்தேக நபர்கள் 28,29 வயதுடைய பலாங்கொடை பகுதியைச் சேர்ந்த இராணுவத்தில் இருந்து இடைநடுவில் நின்றவர்கள் என பொலிஸார் தெரிவித்தனர்.
+🟩
 
-சந்தேகத்திற்கிடமான முறையில் ஹிங்குருகடுவ பொலிஸ் நிலையத்திற்கு முன்பாக சென்ற முச்சக்கர வண்டியை நிறுத்தி சோதனைக்கு உட்படுத்திய போது சாரதி அனுமதிப்பத்திரம் இன்றியும் அவர்களின் ஆள் அடையாளத்தை உறுதிப்படுத்த தேவையான தேசிய அடையாள அட்டை, காப்புறுதி அட்டை, வாகன வருமான வரி பத்திரம் ஆகியவை இன்றி குறித்த முச்சக்கர வண்டியை செலுத்தியமையினால் சந்தேகம் கொண்ட ஹிங்குருகடுவ பொலிஸ் நிலைய பொறுப்பதிகாரி உள்ளிட்ட குழுவினர் முச்சக்கர வண்டியையும் முச்சக்கர வண்டியில் சென்றவர்களையும் ஹிங்குருகடுவ பொலிஸ் நிலையத்திற்கு கொண்டு சென்று அவர்களிடம் விசாரணைகளை மேற்கொண்ட போது இரத்தினபுரி கல்லெல்ல எனும் பகுதியில் திருடப்பட்ட முச்சக்கர வண்டி என தெரிய வந்ததாக பொலிஸார் தெரிவித்தனர்.
+Hingurukaduwa police said that two persons have been arrested for stealing a three -wheeler and motorcycle in Ratnapura.
+
+The arrested suspects were from the army from the 28,29 -year -old area, police said.
+
+The driver of the Hingurukaduwa police station, when the driver was suspected of the driver's license, without the driver's license, the National Identity Card, Insurance Card and Auto Income Tax SecurrentThe police said that they were taken to the Hingurukaduwa police station and were investigating them.
+
+The Hingurukaduwa Police Station has then informed the authorities that a complaint has been lodged with the disappearance of the three -wheeler at the Ratnapura police station.
+
+Subsequently, the Hingurukkaduwa Police Station in charge of the Velvavatta police officers, the Sisirvi video of the three -wheeler was stolen, and investigating the suspects.
+
+In the video, one of the two suspects was driving a three -wheeler and the other suspect on a motorcycle behind the three -wheeler.
 
 ...
 
 [Data](articles/582c0ae2.json)
+
+[Extended Data](ext_articles/582c0ae2.ext.json)
 
 ---
 
@@ -120,49 +152,67 @@ The program was commenced in several parts of Colombo today and is still being c
 
 ---
 
-### லஞ்சம் வாங்கிய பொலிஸ் அதிகாரி கைது
+### Arrested by police officer for bribery
 
 *2024-07-04 08:39:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லஞ்சம்-வாங்கிய-பொலிஸ்-அதிகாரி-கைது/175-339847) · `ta`
 
-லஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுக்கள் தொடர்பிலான விசாரணை ஆணைக்குழுவினால் இவர் கைது செய்யப்பட்டதாக தெரிவிக்கப்படுகின்றது. R
+A man was arrested by the Inquiry Commission on charges of bribery or corruption.
+
+🟩
+
+It is reported that he was arrested by the Inquiry Commission on Bribery or Corruption. Remble
 
 ◼️
 
 [Data](articles/c4536717.json)
 
+[Extended Data](ext_articles/c4536717.ext.json)
+
 ---
 
-### OIC மீது கொலைவெறி தாக்குதல்
+### Assassinating on Oic
 
 *2024-07-04 08:36:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/OIC-மீது-கொலைவெறி-தாக்குதல்/175-339845) · `ta`
 
-மதுபான விற்பனை நிலையம் ஒன்றை நேற்று (03) சோதனை செய்த போது, தலவா பொலிஸ் நிலைய பொறுப்பதிகாரிதாக்கப்பட்டு அனுராதபுரம் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+In a liquor store raid, a suspect attacked a police officer with a sharp weapon. The incident occurred near the Talawa Police Station and resulted in five arrests, including the suspect.
 
-குறித்த மது விங்பனை நிலையத்தில் இருந்த நபர் ஒருவர் கூரிய ஆயுதத்தால் அதிகாரியை தாக்கியதாக தெரிவிக்கப்படுகிறது.
+🟩
 
-தாக்குதல் நடத்திய சந்தேகநபர் உட்பட ஐந்து பேர் இதுவரை கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+When a liquor store was raided yesterday (03), the Talawa Police Station was taken to the Anuradhapura Hospital.
+
+It is reported that a person at the wine station attacked the officer with a sharp weapon.
+
+Five people, including the suspect, have been arrested so far, police said.
 
 ◼️
 
 [Data](articles/8b89bf56.json)
 
+[Extended Data](ext_articles/8b89bf56.ext.json)
+
 ---
 
-### பல மாவட்டங்களில் பல தடவைகள் மழை பெய்யும்
+### It is raining several times in many districts
 
 *2024-07-04 08:25:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-மாவட்டங்களில்-பல-தடவைகள்-மழை-பெய்யும்/175-339844) · `ta`
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+Heavy rains and strong winds are forecasted across various provinces, including Western, Sabaragamuwa, North Western, Kandy, Nuwara Eliya, Galle, and Matara. Thunderstorms are also expected in the Uva Province, Ampara, and Batticaloa districts, along with potential lightning strikes. Winds could reach 40-50 km/h in certain areas. The public is urged to prepare for these conditions.
 
-ஊவா மாகாணத்திலும் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களிலும் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+🟩
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Heavy rains are expected in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+It is possible to experience rain or thunderstorms in the evening or in some places in the Uva Province and Ampara and Batticaloa districts.
+
+Strong winds are likely to blow up to 40-50 km / h from time to time in the western slopes of the Central Highlands, North, North Central and North Western Provinces and Trincomalee and Hambantota districts.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
 
 ◼️
 
 [Data](articles/5e99e957.json)
+
+[Extended Data](ext_articles/5e99e957.ext.json)
 
 ---
 
@@ -200,21 +250,31 @@ A Inspector of Inspector attached to Mahabage Police has been arrested by the Co
 
 ---
 
-### රේගු නිලධාරින් ලෙඩ වෙති
+### Customs officers are sick
 
 *2024-07-04 07:58:20* · [`adalk`](https://www.ada.lk/breaking_news/රේගු-නිලධාරින්-ලෙඩ-වෙති/11-410599) · `si`
 
-ප්‍රධාන ඉල්ලීම් දෙකක් මුල් කර ගනිමින් රේගු දෙපාර්තමේන්තු නිලධාරීන් අද හා හෙට දින දෙක තුළ ලෙඩ නිවාඩු වාර්තා කිරීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගයකට එළඹෙන බව රේගු වෘත්තීය සමිති සන්ධානයේ ප්‍රකාශකවරයෙකු වන ගීතාංජන මඩපාත මහතා ප්‍රකාශ කර සිටියේ‍ෙ.
+Customs officers plan a sick leave protest, excluding key ports. They seek revisions in finance ministry laws and oppose tax collection transfers to other departments. The Regional Union Alliance supports these actions, with protests starting April 4th.
 
-එහෙත් මෙම වෘත්තීය සමිති විරෝධතා ක්‍රියාමාර්ගය මහජනතාවට ඍජුව සේවා සපයන කටුනායක ජාත්‍යන්තර ගුවන් තොටුපොළ , කොළඹ වරාය, ගාල්ල වරාය වැනි ආයතන තුළ ක්‍රියාත්මක නොකරන බව ගීතාංජන මඩපාත මහතා පැවසීය .
+🟩
 
-ශ්‍රී ලංකා රේගුවෙන් විශේෂඥ අදහස් නොවිමසා ,මුදල් අමාත්‍යාංශයේ අදූරදර්ශී නිලධාරීන් කීප දෙනෙකුගේ මූලිකත්වයෙන්  රේගු ආඥා පනතේ වගන්ති කීපයක් සංශෝධන කිරීමට රජය පියවර ගනිමින් සිටීම මෙම රේගු නිලධාරීන්ගේ පළමු ඉල්ලීම වී තිබේ .
+Customs Tra University Officers, a trade union action, said that the Customs Department officials take a trade union action to report sick leave in two days today.
 
-එම නිලධාරීන්ගේ දෙවන ඉල්ලීම  වන්නේ රේගු දෙපාර්තමේන්තුව , දේශීය ආදායම් දෙපාර්තමේන්තුව සහ සුරාබදු දෙපාර්තමේන්තුව මගින් මෙතෙක් සිදු කර ගෙන යමින් සිටින ශ්‍රී ලංකාවේ බදු එකතු කිරීමේ ක්‍රියාවලිය ශ්‍රී ලංකා ආදායම් අධිකාරිය නැමැති පෞද්ගලික ආයතනයකට පැවරීමේ රජයේ  උත්සාහය පරාජය කිරීම වේ .
+However, Geethanja Madapatha said that the trade union protesting program would not be implemented in institutions such as the Colombo Port and Galle Harbor.
 
-...
+The first request of the Customs Officers have been taken to take measures to revise several sections of the Religion of the Finance Ministry without commenting the Sri Lanka Customs.
+
+The second request of those officers is to defeat the Government's efforts to transfer the tax collection of the Customs Department and the Department of Inland Revenue Department and the Excise Department.
+
+The Regional Union Alliance said that the officers of the Ministry of Finance have been rooted to establish this new authority.
+
+The Trade Union Protection Program will commence from 08.04 am on 04th and will be held on 07/05
+
+◼️
 
 [Data](articles/3d23f318.json)
+
+[Extended Data](ext_articles/3d23f318.ext.json)
 
 ---
 

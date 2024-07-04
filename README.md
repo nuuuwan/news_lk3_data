@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 19:04:57**
+As of **2024-07-04 19:19:38**
 
 ## Newspaper Stats
 
-*Scraped **33,685** Articles*
+*Scraped **33,687** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,880
 economynextcom | 1,982
 dailyftlk | 2,084
 adalk | 3,013
-adaderanalk | 3,844
-tamilmirrorlk | 3,983
+adaderanalk | 3,845
+tamilmirrorlk | 3,984
 dailymirrorlk | 4,733
 virakesarilk | 5,269
 adaderanasinhalalk | 5,584
@@ -26,27 +26,65 @@ adaderanasinhalalk | 5,584
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,684 (100.0%) of 33,685 articles have been extended.
+33,685 (100.0%) of 33,687 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### සතොස භාණ්ඩ වර්ග තුනක මිල අඩු කරයි
+### Foreign Minister Sabry urges Japan to invest in infrastructure and IT
+
+*2024-07-04 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100293/foreign-minister-sabry-urges-japan-to-invest-in-infrastructure-and-it) · `en`
+
+Sri Lanka, strengthened by the recent agreement reached with international creditors for the restructuring of 5,6 billion dollars of debt, urges Japan to make further investments in the country, contributing to the revival of the Sri Lankan economy and guaranteeing Colombo a further point of diplomatic reference as well as India and China.
+
+Sri Lankan Foreign Minister Ali Sabry declared this in an interview with the Japanese newspaper “Nikkei”.
+
+“We expect Japan-financed projects to start any time now” thanks to the debt restructuring deal, the minister said, referring to a series of projects financed in recent years by the Japan International Cooperation Agency (Jica) but never started, including the construction of a light railway in Colombo and the expansion of the international airport serving the capital.
+
+...
+
+[Data](articles/4ff5437a.json)
+
+---
+
+### ஐயாவின் இறுதி நிகழ்வில் அண்ணாமலை
+
+*2024-07-04 19:05:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐயாவின்-இறுதி-நிகழ்வில்-அண்ணாமலை/175-339875) · `ta`
+
+தமிழ்த்தேசியக் கூட்டமைப்பின் பெருந்தலைவரும், பாராளுமன்ற உறுப்பினருமான இரா.சம்பந்தனின் இறுதி நிகழ்வுகள் எதிர்வரும் ஞாயிற்றுக்கிழமை (07), திருகோணமலையில் நடைபெறவுள்ளது.
+
+அவரது இறுதி அஞ்சலி நிகழ்வுகளில் பாரதிய ஜனதா கட்சியின் தமிழகத் தலைவர் அண்ணாமலை  கலந்துகொள்ளவுள்ளார் என்பதை அவரே தன்னிடம் தொலைபேசி மூலம் உறுதிசெய்துள்ளதாக பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் தெரிவித்துள்ளார்.
+
+அதேவேளை தமிழக முதல்வர் மு.க.ஸ்டாலின், இறுதி அஞ்சலி நிகழ்வில் பங்கேற்கும் வாய்ப்புகள் உள்ளபோதும், அதுதொடர்பில் இதுவரை உறுதிசெய்யப்படவில்லை எனவும் சிறீதரன் மேலும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/2c4ac6e8.json)
+
+---
+
+### SECS reduces three types of goods
 
 *2024-07-04 17:59:56* · [`adalk`](https://www.ada.lk/breaking_news/සතොස-භාණ්ඩ-වර්ග-තුනක-මිල-අඩු-කරයි/11-410613) · `si`
 
-ලංකා සතොස අත්‍යවශ්‍ය භාණ්ඩ තුනක මිල අඩු කළ කිරීමට කටයුතු කර ඇති අතර අඩු කළ නව මිල ගණන් අද (4) සිට ක්‍රියාත්මක වන බවත් සතොස නිවේදනය කරයි.
+Ceylon Sathosa slashes prices: Potatoes down Rs. 215/kg, red dhal by Rs. 282/kg, white sugar by Rs. 269/kg, effective today.
 
-චීනයෙන් ආනයන කළ අර්තාපල් කිලෝවක මිල රුපියල් 15 කින් අඩුකර ඇති අතර නව මිල රු 215කි.
+🟩
 
-රතු පරිප්පු කිලෝවක මිල රුපියල් 14 කින් අඩුකර ඇති අතර නව මිල රු 282කි.
+Ceylon Sathosa has been reduced to the price of a three essential commodities and the reduced new prices will be implemented today (4).
 
-සුදු සීනි කිලෝවක මිල රුපියල් 6 කින් අඩුකර ඇති අතර නව මිල රු 269කි.
+The price of a kilo of potatoes imported from China has been reduced by Rs. 215.
+
+The price of a kilo of red dhal has been reduced by Rs. 282 is Rs. 282.
+
+The price of a kilo of white sugar has been reduced by Rs. 269.
 
 ◼️
 
 [Data](articles/d70930ae.json)
+
+[Extended Data](ext_articles/d70930ae.ext.json)
 
 ---
 
@@ -2251,61 +2289,5 @@ The OIC, who was injured, have been admitted to the Anuradhapura Teaching Hospit
 [Data](articles/cfc5cae0.json)
 
 [Extended Data](ext_articles/cfc5cae0.ext.json)
-
----
-
-### Restructuring of international bonds
-
-*2024-07-04 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198463) · `si`
-
-Sri Lanka and its international creditors have finalized a deal to restructure $12.5 billion worth of bonds, agreeing to a 28% nominal reduction. This move aligns with the IMF's requirements and follows agreements with bilateral creditors. The Ministry of Finance has also announced approval for all projects under the 2024 decentralized budget program.
-
-🟩
-
-Sri Lanka and international creditors have agreed on the conditions for the restructuring of bonds.
-
-Reuters pointed out that the agreement had reached yesterday (03).
-
-According to an agreement on the restructuring of international bonds of $ 12.5 billion US $ 12.5 billion.
-
-It is reported that after more than a year, the agreement was reported.
-
-Accordingly, the creditors have agreed to reduce the 28 percent nominal reduction in international bonds.
-
-Restructuring International Bonds is a major condition that has been provided by the International Monetary Fund.
-
-Sri Lanka has already signed agreements for the restructuring process with bilateral creditors.
-
-Meanwhile, the Ministry of Finance says all projects approved under the 2024 decentralized budget program.
-
-The Secretary of the Ministry has issued this notification by issuing a circular.
-
-◼️
-
-[Data](articles/51bf2f34.json)
-
-[Extended Data](ext_articles/51bf2f34.ext.json)
-
----
-
-### Sumana Jayatilleke: 'Aadata Aunt' silence
-
-*2024-07-04 06:25:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51yex3wg5do) · `si`
-
-Sumana Jayatilleke, known as 'Aadata Aunt,' revolutionized children's programming in Sri Lanka with the launch of the "Handunmata" program in 1963. Despite facing personal challenges, including a sudden illness that led to her death, she left a lasting impact on the broadcasting industry. Her legacy continues through the enduring popularity of the "Handunmata" program, which remains a cherished part of Sri Lankan culture.
-
-🟩
-
-"By 1963, the trade service had not had a children's program. This was no less felt like the Director of the Mercantile Director. For Mr. Wijemanne. He suggested me to make a childhood program, different from 'childhood'. Accordingly, I suggested that we wanted to do this in the form of. This program as the manufacturer in the market, KAW. I thank Mr. Perera, when he suggests a few of us, "Sumana is bad and the Handunmma. That's a very good thing. What is a very dear symbol of children. So I liked it was good, "Amenitian Sumana Jayatilleka has been able to mark the start of the 50th anniversary of the world,"In a program.
-
-The personality was silenced for more than six decades of suddenness, as a sudden sudden illness, as a sudden illness.
-
-"Mom was very strong in the last days. At the end of the end work. This happened in a week after suddenly ill. Mother said, "BBC, a lot of love, a loved one," said in a daughter of Sumana Jayatilleke, with BBC Sinhala service.
-
-...
-
-[Data](articles/311cb5b0.json)
-
-[Extended Data](ext_articles/311cb5b0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 01:05:05**
+As of **2024-07-05 01:19:37**
 
 ## Newspaper Stats
 
-*Scraped **33,717** Articles*
+*Scraped **33,718** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 332
 newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,985
-dailyftlk | 2,086
+dailyftlk | 2,087
 adalk | 3,018
 adaderanalk | 3,849
 tamilmirrorlk | 3,986
@@ -26,9 +26,29 @@ adaderanasinhalalk | 5,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,717 (100.0%) of 33,717 articles have been extended.
+33,717 (100.0%) of 33,718 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-07-05 (Friday)
+
+### Finance Ministry on Sri Lanka’s International Sovereign Bond Restructuring
+
+*2024-07-05 00:58:39* · [`dailyftlk`](https://www.ft.lk/opinion/Finance-Ministry-on-Sri-Lanka-s-International-Sovereign-Bond-Restructuring/14-763850) · `en`
+
+The negotiated Joint Working Framework enables a fair sharing of upside or downside between creditors and Sri Lanka in case of an economic over-performance or under-performance by Sri Lanka
+
+Any upside payouts would only occur in a manner that does not compromise Sri Lanka’s longer term debt sustainability
+
+The risk of higher payouts being triggered whilst capacity to pay is weak is mitigated by the inclusion of a control variable. Therefore, any increased payments would be to a great extent be balanced by enhanced capacity to pay
+
+The baseline scenario results in a NPV effort of 40% at a discount rate of 11% whilst the scenario with the highest payments by Sri Lanka (resulting from the most significant economic over-performance) would result in a NPV effort of 27% at a discount rate of 11%
+
+...
+
+[Data](articles/24c9293b.json)
+
+---
 
 ### 2024-07-04 (Thursday)
 
@@ -2313,25 +2333,5 @@ Senior Superintendent of Police of Badulla, Wasantha Kudasha Kudasara Police Sup
 [Data](articles/200cff59.json)
 
 [Extended Data](ext_articles/200cff59.ext.json)
-
----
-
-### President Ranil supports Election Commission’s decision on presidential polls
-
-*2024-07-04 10:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100283/president-ranil-supports-election-commissions-decision-on-presidential-polls-) · `en`
-
-President Ranil Wickremesinghe says he firmly believes that the President’s term is 5 years and supports the Election Commission’s decision to hold the Presidential Election in 2024, the President’s Media Division reported.
-
-An entrepreneur named C.D. Lenaw had filed a fundamental rights (FR) petition yesterday (3) seeking an order preventing the calling of a Presidential Election until the Supreme Court delivers its interpretation on the presidential poll date.
-
-The petition has requested that an interim order be issued to prevent the holding of the presidential election within the currently scheduled period until the court delivers its interpretation on the date of the next presidential election.
-
-Commenting on this, the President stated that neither he nor his lawyers were consulted or informed about this petition before it was submitted.
-
-...
-
-[Data](articles/82fb8da8.json)
-
-[Extended Data](ext_articles/82fb8da8.ext.json)
 
 ---

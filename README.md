@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 11:35:17**
+As of **2024-07-04 11:54:58**
 
 ## Newspaper Stats
 
-*Scraped **33,617** Articles*
+*Scraped **33,624** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 307
+dbsjeyarajcom | 308
 colombotelegraphcom | 310
 bbccomsinhala | 331
 newsfirstlk | 363
 islandlk | 1,880
-economynextcom | 1,967
+economynextcom | 1,972
 dailyftlk | 2,084
 adalk | 3,003
 adaderanalk | 3,835
-tamilmirrorlk | 3,976
+tamilmirrorlk | 3,977
 dailymirrorlk | 4,733
 virakesarilk | 5,255
 adaderanasinhalalk | 5,573
@@ -26,69 +26,129 @@ adaderanasinhalalk | 5,573
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,612 (100.0%) of 33,617 articles have been extended.
+33,617 (100.0%) of 33,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### මාදම්පේ බිහිසුණු බස් - ලොරි අනතුරක්
+### ஹிருணிகாவின் கோரிக்கைக்கு சட்டமா அதிபர் எதிர்ப்பு?
+
+*2024-07-04 11:38:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிகாவின்-கோரிக்கைக்கு-சட்டமா-அதிபர்-எதிர்ப்பு/175-339856) · `ta`
+
+மூன்று வருட கடூழியச் சிறைத்தண்டனை விதிக்கப்பட்டுள்ள முன்னாள் நாடாளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமச்சந்திரவை பிணையில் விடுவிக்குமாறு விடுக்கப்பட்ட கோரிக்கைக்கு ஆட்சேபனைகளை தாக்கல் செய்யவுள்ளதாக சட்டமா அதிபர் இன்று (04) கொழும்பு மேல் நீதிமன்றில் அறிவித்தார்.
+
+இந்த பிணை கோரிக்கை இன்று கொழும்பு மேல் நீதிமன்ற நீதிபதி அமல் ரணராஜா முன்னிலையில் பரிசீலிக்கப்பட்டது.
+
+அங்கு, இந்த கோரிக்கை தொடர்பில் ஆட்சேபனைகளை சமர்ப்பிக்க சட்டமா அதிபர் எதிர்பார்ப்பதாக தெரிவித்த அரசாங்க சட்டத்தரணி, எழுத்து மூலம் ஆட்சேபனைகளை தாக்கல் செய்வதற்கு ஒத்திவைக்குமாறும் கோரினார்.
+
+இதன்படி, சட்டமா அதிபருக்கு ஆட்சேபனைகளை சமர்ப்பிக்க அனுமதித்த உயர் நீதிமன்ற நீதிபதி, பிணை கோரிக்கையை எதிர்வரும் 11ஆம் திகதி மீண்டும் விசாரணைக்கு எடுத்துக்கொள்ள உத்தரவிட்டார்.
+
+◼️
+
+[Data](articles/85085449.json)
+
+---
+
+### Madampe is a terrible bus - a lorry accident
 
 *2024-07-04 11:18:08* · [`adalk`](https://www.ada.lk/breaking_news/මාදම්පේ-බිහිසුණු-බස්---ලොරි-අනතුරක්/11-410607) · `si`
 
-මාදම්පේ ඉරට්ටකුලම ප්‍රදේශයේදී හලාවත ඩිපෝවට අයත් ලංගම බස් රථයක් සහ සිමෙන්ති පැටවූ ලොරි රථයක් එකිනෙක ගැටී බිහිසුණු අනතුරක් සිදු වු බව වාර්තා වේ.
+A horrific accident involving a SLTB bus from Moneragala to Colombo resulted in 35 injuries, including several serious cases, after colliding with a lorry near Madampe's Chilaw depot.
 
-අනතුරින් පුද්ගලයින් 35 දෙනෙකු පමණ තුවාල ලබා ඇති බවත් කිහිපදෙනෙකුගේ තත්ත්වය බරපතළ බව රෝහල් ආරංචි මාර්ග සඳහන් කරයි.
+🟩
 
-අද (04)දින උදෑසන දේවාල හංදියේ සිට හලාවත හරහා කොළඹ බලා ධාවනය වූ ලංගම බස්රථයකට වේගය පාලනය කරගැනීමට නොහැකිව , පුත්තලමේ සිට කොළඹ බලා එම දිශාවටම ධාවනය වූ සිමෙන්ති ලොරියක ගැටී තිබුණි.
+It is reported that a horrific injury belonging to the Chilaw depot in Madampe was reportedly confronted with a lorry.
+
+According to hospital sources, about 35 people were injured in the accident and the condition of several people is serious.
+
+The SLTB bus traveling from the temples from Moneragala to Colombo this morning (04) was not able to control Colombo from Puttalam to Colombo to Colombo.
 
 ◼️
 
 [Data](articles/6cf6848e.json)
 
+[Extended Data](ext_articles/6cf6848e.ext.json)
+
 ---
 
-### මම යන්නේ නෑ - බයිඩන්
+### I'm not going - bidain
 
 *2024-07-04 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198475) · `si`
 
-පසුගියදා අමෙරිකානු ජනාධිපති ජෝ බයිඩන් සහ හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් අතර පැවති රූපවාහිනි විවාදයේදී ජනපති බයිඩන් කටයුතු කළ ආකාරය සම්බන්ධයෙන් ඩිමොක්‍රටික් පාක්ෂිකයෝ දැඩි ලෙස කලබල වී සිටිති.
+The Democratic Party is upset over President Biden's performance in a TV debate against Trump, considering it a major setback. There's talk about replacing him in the upcoming election due to his poor showing. Reports suggest Biden met with party leaders to discuss this issue. Despite this, Biden claims he will run again, having also consulted with Vice President Mahinda Rajapaksa.
 
-එහිදී ජනාධිපතිවරයා පැහැදිලි ලෙසම දුර්වල ලෙස ඊට සහභාගී වූ බව බහුතරයකගේ මතය වෙයි.
+🟩
 
-එබැවින් එළැඹෙන නොවැම්බර් ජනාධිපතිවරණයට වෙනත් අපේක්ෂකයෙක් ඩිමොක්‍රටික් පක්ෂයෙන් ඉදිරිපත්කළ යුතු බවට විවිධ මත පළවෙයි.
+The Democratic Parties have been severely disturbed by President Bidesman in the television debate between US President Joe Biday and former President Donald Trump.
 
-මේ අතර විදෙස් මාධ්‍ය වාර්තා කරන්නේ තම පක්ෂයේ ඉහළ පෙළේ සාමාජිකයින් සමග බයිඩන් සාකච්ඡාවක් පවත්වා ඇති බවයි.
+The majority of the majority of the majority of the people are clearly involved in it.
 
-එහිදී තම සැලසුම් ගැන පැහැදිලිකර ඇති ජනපතිවරයා තමා ජනපතිවරණයට සහභාගීවන බව පවසා තිබුණි.
+Therefore, there is a variety that the President's election should be submitted from the Democratic Party.
 
-එසේම උප ජනාධිපති කමලා හැරිස් සමග ද ජනාධිපති බයිඩන් පුද්ගලිකව සාකච්ඡා පවත්වා ඇති අතර ජනාධිපතිවරණය සඳහා ඇය ඉදිරිපත්වීම වඩාත් සුදුසු බවට ද අදහස් පළ වෙයි.
+The foreign media reports that a bidon discussed with top members of the party.
+
+The President has said that he was present at the Presidential election.
+
+Also, President Bidain has also held talks with Vice President Mahinda Rajapaksa and President Bidesman has been well-known for the presidential election.
 
 ◼️
 
 [Data](articles/f2a8c383.json)
 
+[Extended Data](ext_articles/f2a8c383.ext.json)
+
 ---
 
-### මාරක රිය අනතුරු කිහිපයක් - 5ක් මරුට
+### Several fatal accidents - 5 dead
 
 *2024-07-04 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198474) · `si`
 
-ඊයේ (03) දිවයිනේ ප්‍රදේශ කිහිපයක සිදු වූ රියඅනතුරුවලින් පුද්ගලයින් 5 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Yesterday, five fatalities were reported across various incidents on the island. A car crash in Mullaitivu resulted in the death of a 9-year-old girl, while another accident involving a motorcycle led to the demise of a 19-year-old boy. In Kuliyapitiya, a 64-year-old motorcyclist died after colliding with a lorry. Additionally, a pedestrian woman was hit by a speeding motorbike in Thambuththegama, and a woman was injured in an accident on the Panadura-Ratnapura road.
 
-මුල්ලියාවේලි පොලිස් වසමේ මුලතිව් නෙදුන්කේනි මාර්ගයේ මාමුලේ ප්‍රදේශයේ දී මුලතිව් දෙස සිට නෙදුන්කේනි දෙසට ධාවනය වූ කාර් රථයක් මාර්ගය හරහා ගමන් කළ දැරියකගේ  ගැටී අනතුරක් සිදුව ඇත.
+🟩
 
-අනතුරෙන් තුවාල ලැබූ දැරිය මාංචෝල රෝහලට ඇතුලත් කිරීමෙන් පසු මිය ගොස් තිබේ.
+Five people have been killed in the accidents that occurred in several parts of the island yesterday.
 
-මෙලෙස මිය ගොස් ඇත්තේ අවුරුදු 9ක් වයසැති මාමුලේ, මුල්ලියවේලි ප්‍රදේශයේ පදිංචි දැරියකි.
+Mullaiththivi police division, Mullaitivu, a car traveled by a car traveled from the Mullaitivu Nedunkendi, towards the Nedun and Road.
 
-මේ අතර බඩල්ලගම පොලිස් වසමේ රණවිරු පීරිස් මාවත ප්‍රදේශයේදී කෙහෙල්ඇල්ල දෙස සිට කෙහෙල්ඇල්ල මංසන්ධිය දෙසට ධාවනය වූ යතුරු පැදියක් පැදිකරුට පාලනය කරගත නොහැකි වීමෙන් මාර්ගයෙන් ඉවතට ගොස් දුරකථන රැහැන් කණුවක ගැටීමෙන් සිදු වූ අනතුරෙන් පුද්ගලයෙක් මිය ගොස් තිබේ.
+The injured girl has been admitted to the Munchangala Hospital.
 
-එලෙස අනතුරෙන් මිය ගොස් ඇත්තේ 19 හැවිරිදි කටුවැල්ලේගම ප්‍රදේශයේ පදිංචි තරුණයෙකි.
+The deceased has been identified as 9 year old Mamula, Mulliyadi area.
+
+Meanwhile, a motorcycle driven by Kehella's junction from Kehellaka in the Kandahawa police division, a motorcycle was killed in a crash accident.
+
+The victim was a 19 year old resident of Katuwellagama.
+
+Meanwhile, a lorry shoot was parked near the Grama Niladhari office at Narangoda Wadugedara road in Kuliyapitiya area.
+
+At the same point, a lorry that was driven towards Narangalla to Narangalla to Narangalla has been a crash of the motorcycle pushing the motorcycle while driving backwards.
+
+The 64-year-old motorcyclist killed in the accident.
 
 ...
 
 [Data](articles/05d99c94.json)
+
+[Extended Data](ext_articles/05d99c94.ext.json)
+
+---
+
+### Switzerland’s GTEX2 phase II to boost Sri Lanka apparel SMEs
+
+*2024-07-04 10:51:00* · [`economynextcom`](https://economynext.com/switzerlands-gtex2-phase-ii-to-boost-sri-lanka-apparel-smes-170818/) · `en`
+
+ECONOMYNEXT – Sri Lanka has been included in the Swiss government-funded GTEX2 programme for 2024-2027, which seeks to improve the capabilities of the local apparel sector and increase its presence in the global market.
+
+Switzerland’s State Secretariat for Economic Affairs (SECO), the Swedish International Development Cooperation Agency (SIDCA), and the International Trade Center (ITC) fund and provide technical assistance in the second phase of its Global program on Textile and Clothing (GTEX2).
+
+The five-year program will support textile and clothing industry SMEs “to improve their operational capacities, including social norms and environmental sustainability, add value to existing products and services and expand exports to traditional and new markets,” the Sri Lanka Export Development Board said.
+
+The first phase, GTEX1, was carried out in Jordan, Egypt, Morocco, Tunisia, Kyryzstan and Tajikistan. The second phase will be carried out in Egypt, Morocco, Tunisia, Jordan and Sri Lanka.
+
+...
+
+[Data](articles/55acbddd.json)
 
 ---
 
@@ -141,6 +201,28 @@ It is reported that the well was closed by the girl's boyfriend with the help of
 [Data](articles/e67a10db.json)
 
 [Extended Data](ext_articles/e67a10db.ext.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 304.50/70 to US dollar
+
+*2024-07-04 10:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-304-50-70-to-us-dollar-170810/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 304.50/70 to the US dollar on Thursday, while bond yields were broadly steady, and stocks opened 0.50 percent up, dealers said.
+
+The rupee closed at 304.20/50 to the greenback on Wednesday.
+
+A bond maturing on 15.12.2026 was quoted at 10.75/80 percent, down 10.70/85 percent.
+
+A bond maturing on 01.05.2028 was quoted at 11.85/90 percent.
+
+A bond maturing on 15.09.2029 was quoted at 11.95/12.05 percent, down from 12.10/20 percent.
+
+In equities, Colombo’s All Share Price Index opened 59.82 points higher at 12,096, while the S&P SL20 of more liquid stocks opened up at 0.90percent or 31.79 points to 3,575.
+
+◼️
+
+[Data](articles/178cb855.json)
 
 ---
 
@@ -400,19 +482,25 @@ For this purpose, the district branch of the Sri Lanka Tamil State Party, includ
 
 ---
 
-### අයි පි අල්ලස් දැලේ
+### I'm bribed
 
 *2024-07-04 09:04:11* · [`adalk`](https://www.ada.lk/breaking_news/අයි-පි-අල්ලස්-දැලේ/11-410602) · `si`
 
-පුද්ගලයකුගෙන් රුපියල් 25000/= අල්ලස් වශයෙන් ඉල්ලා ලබා ගැනීමේ චෝදනාව මත මහා භාගේ පොලිසියේ පොලිස් පරීක්ෂකවරයෙකු අත්අඩංගුවට ගත් බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව කියයි. වත්තල පල්ලියවත්ත ප්‍රදේශයේ පදිංචිකරුවකු විසින් කරන ලද පැමිණිල්ලක් අනුව සැකකරු අත්අඩංගුවට ගෙන ඇත.
+A police inspector was arrested for accepting a bribe of Rs. 25,000, based on a complaint from a resident of Palliyawatta, Wattala. The inspector was caught attempting to collect the rest of the monthly premium at the Welisara Economic Center. He will be presented before the Colombo Chief Magistrate's Court.
 
-පැමිණිලිකරු විසින් ලබා දී ඇති අගුරු චෙක්පත් දෙකකට අදාලව මහා බාගේ පොලිසි ස්ථානයට කර ඇති පැමිණිල්ල විභාග කර. එම අගරු චෙක්පත්වලට අදාල ඉතිරි මුදල මාසික වාරික ගෙවීමට ඉඩ සලසා දීමට හා පැමිණිලිකරු අධිකරණය ඉදිරිපත් නොකර සිටීම සඳහා රුපියල් 25000/= අල්ලස් වශයෙන් ඉල්ලා ලබා ගැනීමේ චෝදනාව මත සැකකාර පොලිස් පරීක්ෂකවරයා වැලිසර ආර්ථික මධ්‍යස්ථානයට ගමන් කරන මාර්ගයේ දි  අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන්  සභාවේ නිලධාරීන් විසින්
+🟩
 
-අත්අඩංගුවට ගත් සැකකරු කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතව ඇත.අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව පරීක්ෂණ පවත්වයි.
+Bribery and Corruption Commission says he was arrested on charges of the police inspector on charges of claiming Rs. 25,000 / =. The suspect has been arrested following a complaint lodged by a resident of Palliyawatta, Wattala.
+
+Complaint carried out by the plaintiff checks provided by the complainant. The suspects were taken to pay the remaining amount to pay the remaining monthly premium and obtaining the corresponding to the Welisara Economic Center.
+
+The suspect is to be produced before the Colombo Chief Magistrate's Court.
 
 ◼️
 
 [Data](articles/8e1da17c.json)
+
+[Extended Data](ext_articles/8e1da17c.ext.json)
 
 ---
 
@@ -689,6 +777,26 @@ The Workers Party (LB) has also presented the Concerway Party representing the B
 [Data](articles/c69375b2.json)
 
 [Extended Data](ext_articles/c69375b2.ext.json)
+
+---
+
+### Talks on resuming Japan funded Sri Lanka airport terminal next week: Minister
+
+*2024-07-04 07:39:00* · [`economynextcom`](https://economynext.com/talks-on-resuming-japan-funded-sri-lanka-airport-terminal-next-week-minister-170805/) · `en`
+
+ECONOMYNEXT – Sri Lanka will meet representatives of the Japan International Cooperation Agency (JICA) to start talks on resuming work on an airport terminal that was halted after reaching a deal with official creditors, Aviation Minister Nimal Siripala de Silva said.
+
+Japan halted loans to Sri Lanka after sovereign default was declared on April 2022.
+
+“Next week the JICA is coming to see me,” Minister de Silva told reporters in Colombo. “That is the benefit of restructuring.
+
+“They have agreed to give additional finances necessary for the escalation of prices also.”
+
+To complete the terminal a new Japanese contractor has to be selected, he said. (Colombo/July04/2024)
+
+◼️
+
+[Data](articles/505d86fd.json)
 
 ---
 
@@ -970,6 +1078,24 @@ Incorporated by Act of Parliament No. 67 on 17 December 1988. IMSL is the sole m
 
 ---
 
+### Sri Lanka bondholders agree on 28-pct hair cut; GDP-gains capped at 15-pct
+
+*2024-07-04 03:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-bondholders-agree-on-28-pct-hair-cut-gdp-gains-capped-at-15-pct-170753/) · `en`
+
+ECONOMYNEXT – Sri Lanka and sovereign bond holders have reached a deal to exchange 14.43 billion dollars in defaulted bonds and overdue interest for new instruments linked to future gross domestic product growth, governance and also standard fixed interest bonds.
+
+Bondholders have also agreed to an 11 percent haircut on 1.889 billion dollars of past due interest, compared to an earlier proposal, according to a London Stock Exchange filing.
+
+Sri Lanka will exchange 12.55 billion dollars for bonds with an initial hair cut of 28 percent, which include bonds with a state contingent factor (macro-linked bonds) involving future dollar gross domestic product.
+
+The deal will have to be confirmed by the Secretariat of Sri Lanka’s Official Creditor Committee to ensure comparability with their restructure terms and IMF staff on compliance with a debt sustainability analysis, the government said.
+
+...
+
+[Data](articles/4b0269f8.json)
+
+---
+
 ### BoardPAC awarded carbon neutral certification for second consecutive year
 
 *2024-07-04 03:23:47* · [`dailyftlk`](https://www.ft.lk/business/BoardPAC-awarded-carbon-neutral-certification-for-second-consecutive-year/34-763830) · `en`
@@ -1035,6 +1161,18 @@ He said that rhinophis belongs to EuroPeltidae caste and that they are entitled 
 [Data](articles/b15a6ab4.json)
 
 [Extended Data](ext_articles/b15a6ab4.ext.json)
+
+---
+
+### 
+
+*2024-07-04 02:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84334) · `en`
+
+ரணில் விக்கிரமசிங்க 2022 மே 12 ஆம் திகதி அன்றைய ஜனாதிபதி கோட்டாபய ராஜபக்சவினால் பிரதமராக நியமிக்கப்பட்டார். அப்போது இலங்கை படுமோசமான பொருளாதார நெருக்கடியில் சிக்கியிருந்தது.’ அறகலய ‘ போராட்டம்தீவிரமடைந்துகொண்டிருந்தது. புதிய பிரதமர் 2022 மே 16 ஆம் திகதி நாட்டு மக்களுக்கு விசேட உரையொன்றை ஆற்றினார். அந்த உரையில் விக்கிரமசிங்க  ஜேர்மன் நாடகாசிரியர் பேரொல்ற் பிறெற்றின் ‘ கோகேசியன் ஷோக் சேர்க்கிள் ‘ ( Caucasian Chalk Circle) என்ற நாடகம் பற்றி குறிப்பிட்டார்.
+
+...
+
+[Data](articles/4fca80c0.json)
 
 ---
 
@@ -1962,6 +2100,26 @@ Kusal Perera scored 102 runs for the Dambulla Team.
 
 ### Sri Lanka port trade unions oppose increase in female gantry operators: Minister
 
+*2024-07-03 18:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-trade-unions-oppose-increase-in-female-gantry-operators-minister-170719/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s port trade unions have protested the increase of female gantry crane operators despite the port employing only 10 females working in the role, Minister of Ports, Shipping and Aviation, Nimal Siripala De Silva said.
+
+“I want to recruit them but these people are saying there are other people who have been working in the harbor for a long time they must be upgraded without taking ladies,” De Silva told reporters on Wednesday.
+
+Sri Lanka currently has only 10 female gantry crane operators, however, the Ministry of Ports has been attempting to increase the female labor force among gantry workers at the insistence of the International Labor Organization, which suggested that Sri Lanka practice gender equality in its ports.
+
+Sri Lanka port faces union opposition in increasing female workers: Minister
+
+“These ladies are surviving [in this environment] and working. They are very perfect workers,” De Silva said.
+
+...
+
+[Data](articles/4321eb56.json)
+
+---
+
+### Sri Lanka port trade unions oppose increase in female gantry operators: Minister
+
 *2024-07-03 18:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-trade-unions-protest-increase-in-female-labor-force-170719/) · `en`
 
 ECONOMYNEXT – Sri Lanka’s port trade unions have protested the increase of female gantry crane operators despite the port employing only 10 females working in the role, Minister of Ports, Shipping and Aviation, Nimal Siripala De Silva said.
@@ -2121,151 +2279,5 @@ In this case, the police are investigating the death of the two students in the 
 [Data](articles/df1449ba.json)
 
 [Extended Data](ext_articles/df1449ba.ext.json)
-
----
-
-### ‘Odyssey Of War’, A Novel By Noel Nadesan
-
-*2024-07-03 17:26:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/odyssey-of-war-a-novel-by-noel-nadesan/) · `en`
-
-...
-
-[Data](articles/fe6779eb.json)
-
-[Extended Data](ext_articles/fe6779eb.ext.json)
-
----
-
-### GTF Pays Tribute To Tamil Elder Statesman Mr R Sampanthan On His passing
-
-*2024-07-03 17:19:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/gtf-pays-tribute-to-tamil-elder-statesman-mr-r-sampanthan-on-his-passing/) · `en`
-
-The Global Tamil Forum (GTF) is deeply saddened by the passing of the Tamil elder statesman Mr R Sampanthan on June 30, 2024. We express our heartfelt condolences to the family and friends of the departed leader and all those mourning the loss of Mr. Sampanthan.
-
-Mr. Sampanthan had a long and illustrious political career. He has been a Parliamentarian for nearly 50 years, the Leader of Opposition in the Sri Lankan Parliament between 2015 to 2018, and led the Tamil National Alliance for the last 23 years. Mr. Sampanthan was an ardent advocate for Tamil rights and dedicated his political life for pursuing a just solution for the Tamil national question.
-
-...
-
-[Data](articles/8281f2b4.json)
-
-[Extended Data](ext_articles/8281f2b4.ext.json)
-
----
-
-### The man of the soul
-
-*2024-07-03 17:16:27* · [`adalk`](https://www.ada.lk/breaking_news/ගිනිකූරු-කොටයෙන්-ආපු-මාරයා/11-410594) · `si`
-
-A 27-year-old from Ingiriya died, along with one other killed and one injured, in a tragic incident at Panadura Sea. The victims' bodies are at Panadura Base Hospital awaiting post-mortem examination.
-
-🟩
-
-The deceased has been killed and another person was killed and another injured with a mature scheme of Panadura Sea.
-
-The deceased has been identified as a 27 year old resident of Ingiriya and Ingiriya.
-
-The two friends had revealed that the waves were fast with a mature boast of the sea while he was fast-paced.
-
-The body has been placed at the Panadura Base Hospital for the post mortem.
-
-◼️
-
-[Data](articles/43dee0de.json)
-
-[Extended Data](ext_articles/43dee0de.ext.json)
-
----
-
-### Sri Lanka to go ahead with Russian firm to operate Mattala airport despite US advice
-
-*2024-07-03 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-go-ahead-with-russian-firm-to-operate-mattala-airport-despite-us-advice-170741/) · `en`
-
-ECONOMYNEXT – Sri Lanka will hand over its Chinese-built airport operations to a consortium with Indian and Russian firms, despite the United States has informed about a US sanction on the key stakeholder of Moscow firm, the island’s Aviation Minister said.
-
-A joint venture between Shaurya Aeronautics Pvt Ltd of India and Airports of Regions Management Company of Russia has won the contract to manage Sri Lanka’s Mattala Rajapaksa International Airport for 30 years.
-
-However, officials from the United States have approached Sri Lankan government to inform that the key stakeholder of Russia’s Airports of Regions Management Company is sanctioned by the US treasury in 2018 for suspected meddling in the 2016 U.S. elections,.
-
-“That is not true and correct. We have checked that. It is only a rumour,” Aviation Minister Nimal Siripala de Silva told reporters at a media briefing in Colombo.
-
-“I asked them to give me evidence. Nobody was able to furnish evidence.”
-
-...
-
-[Data](articles/51d831e6.json)
-
-[Extended Data](ext_articles/51d831e6.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 304.20/50 to US dollar
-
-*2024-07-03 17:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-304-20-50-to-us-dollar-170715/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 304.20/50 to the US dollar on Wednesday, down from 303.10/30 to the US dollar on Tuesday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 10.70/85 percent, down from 10.85/11.00 percent.
-
-A bond maturing on 15.09.2029 closed at 12.00/10 percent, down from 12.10/20 percent.
-
-A bond maturing on 01.12.2031 closed at 12.10/18 percent. (Colombo/Jul3/2024)
-
-◼️
-
-[Data](articles/671750c1.json)
-
-[Extended Data](ext_articles/671750c1.ext.json)
-
----
-
-### The Labor Party considers that Sri Lanka has mechanisms to proceed with the International Court of Justice - the right to self -determination for Tamils ​​is essential - Like British Tamil Devina contesting the British election
-
-*2024-07-03 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/187611) · `ta`
-
-The British Labor Party supports Sri Lanka's engagement with the International Court of Justice, emphasizing the importance of self-determination for Tamils. The party, led by figures like Keir Starmer and David Lammy, vows to prioritize accountability and justice for the Tamil community, including recognizing the Tamil genocide and supporting mechanisms for war crime prosecution. They pledge to address the Tamil issue in government if elected, advocating for peace and justice for all Sri Lankans.
-
-🟩
-
-The British Labor Party, who is contesting the election on behalf of the party, said that there are mechanisms and evaluation of Sri Lanka to proceed with the International Court of Justice.
-
-"I am realizing how much self -determination is necessary for the Tamil people," he said.
-
-The Labor Party has always been shoulder to shoulder with Sri Lankan Tamils ​​on peace and justice.
-
-Labor party leader Gyer Stamer, Saban Magdonak Stephen Timmy, our future Foreign Minister David Lummi and many others have been vocal on the lack of justice and responsibility for the crimes committed in Sri Lanka and the continuing tragedies.
-
-The Westering Parliament was confident in the parliament on behalf of Kair Starmer David Limmy that accountability was important in its foreign policy during the Tamil genocide last month.
-
-The Labor Party has a serious assurance that the issue should not be excluded from the agenda.
-
-...
-
-[Data](articles/d1fdbbb3.json)
-
-[Extended Data](ext_articles/d1fdbbb3.ext.json)
-
----
-
-### Fundamental rights petition demanding to prevent the presidential election
-
-*2024-07-03 17:01:43* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-පැවැත්වීම-වළකන්නැයි-ඉල්ලමින්-මූලික-අයිතිවාසිකම්-පෙත්සමක්/11-410593) · `si`
-
-An entrepreneur filed a Supreme Court petition seeking an interim order to halt the upcoming presidential election, arguing it violates the 19th Amendment by allowing the current president to run again without proper interpretation. The petitioner, CD Lenawa from Moratuwa, claims the election contradicts the constitutional amendment's intent and requests the court to intervene.
-
-🟩
-
-An entrepreneur filed a fundamental rights petition for the Supreme Court today (03) asking for a interim order for the Presidential Elections for the end of the President's term of the presidential election.
-
-The petitioner should interpret the presidential election by the President's election and violated the Presidential election by the President's election by the President's election by the Presidential election without interpretation of the President of the President of the 19th Amendment.The petitioner has filed the fundamental rights petition, demanding to issue an order.
-
-CD in Moratuwa, a residential entrepreneur. The Elections Commission has been named as respondents in the petition filed by Mr. Lenawa.
-
-The petitioner pointed out that the term of the seventh constitutional amendment of the seven-year period has been revised from the 19th Amendment.
-
-...
-
-[Data](articles/32823b24.json)
-
-[Extended Data](ext_articles/32823b24.ext.json)
 
 ---

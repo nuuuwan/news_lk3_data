@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 15:35:12**
+As of **2024-07-04 15:53:48**
 
 ## Newspaper Stats
 
-*Scraped **33,655** Articles*
+*Scraped **33,656** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,840
 tamilmirrorlk | 3,981
 dailymirrorlk | 4,733
 virakesarilk | 5,264
-adaderanasinhalalk | 5,579
+adaderanasinhalalk | 5,580
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,654 (100.0%) of 33,655 articles have been extended.
+33,655 (100.0%) of 33,656 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### යටවූ ගාල්ල
+
+*2024-07-04 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198483) · `si`
+
+ඊයේ (03) රාත්‍රියේ සිට ඇද හැලෙන ධාරාණිපාත මහ වර්ෂාව හේතුවෙන් ගාල්ල නගරයේ පහත් බිම් සහ මාර්ග කිහිපයක් ජලයෙන් යටවී ඇති බව අප වාර්තාකරු පවසයි.
+
+ගාල්ල - වක්වැල්ල  ප්‍රධාන මාර්ගය ගාල්ල පොලිසිය ඉදිරිපිටින් ජලයෙන් යටවීම නිසා ගමනාගමනයට බාධා එල්ල විය.
+
+ගාල්ල - බද්දේගම ප්‍රධාන මාර්ගය ගාල්ල තලාපිටිය සහ බෙලිගහ, කහදුව වත්ත යන ප්‍රදේශවලින් ජලයෙන් යටවීම නිසා ගමනාගමනයට බාධා එල්ල වී තිබුණි.
+
+මෙම වර්ෂාව හේතුවෙන් තවත් ප්‍රදේශ රැසක පහත්බිම් ජලයෙන් යටවී තිබේ.
+
+◼️
+
+[Data](articles/3ae571c1.json)
+
+---
 
 ### 8 years after the currency trapped in the bronchi ..!
 
@@ -56,19 +74,27 @@ Professors of the Banaras Hindu University Siddharth Lakodia and SK Mathur have 
 
 ---
 
-### வெற்றி வேட்பாளர் எங்களிடம் இருக்கிறார்: பிரசன்ன
+### We have the winning candidate: Prasanna
 
 *2024-07-04 15:01:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெற்றி-வேட்பாளர்-எங்களிடம்-இருக்கிறார்-பிரசன்ன/175-339867) · `ta`
 
-மொட்டுக் கட்சி ஒரு ஜனரஞ்சகக் கட்சி. நாட்டை ஒருங்கிணைத்த ஜனரஞ்சகத் தலைவர் மஹிந்த ராஜபக்ச, எமது ஜனாதிபதி வேட்பாளர் யார் என்பதை சரியான நேரத்தில் நாட்டுக்குத் தெரிவிப்பார் என ஆளும் கட்சியின் பிரதான அமைப்பாளர் அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+Prasanna Ranatunga, the chief organizer of the ruling party, announced Prasanna as the winning candidate. He emphasized the need for social, political, and economic reforms to build a prosperous Sri Lanka, highlighting Ranil Wickremesinghe's leadership qualities.
 
-எங்களிடம் ஒரு வெற்றி வேட்பாளர் இருக்கிறார். நாங்கள் வெற்றிப் பக்கம் இருக்கிறோம். என்று தெரிவித்துள்ள அவர், “நான்தான் மொட்டின் வேட்பாளர்” என்று சந்திகளிலும், வீதியோரங்களிலும் தம்பட்டம் அடித்துக் கொள்வதைக் கணக்கெடுக்காதீர்கள் என்றும் கேட்டுக்கொண்டுள்ளார்.
+🟩
 
-கம்பஹா, மினுவாங்கொடை பிரதேசத்தில் வியாழக்கிழமை (4) இடம்பெற்ற மக்கள் சந்திப்பில் கலந்து கொண்ட அமைச்சர் பிரசன்ன ரணதுங்க இதனைக் குறிப்பிட்டார். அமைச்சர் பிரசன்ன ரணதுங்க கூறியதாவது:
+The bark party is a populist party. Prasanna Ranatunga, the chief organizer of the ruling party, has said that the leader of the country, Mahinda Rajapaksa, who will coordinate the country, will tell the country timely.
 
-...
+We have a winning candidate. We are the success page. He said, "I am the candidate of the bud," he said.
+
+Minister Prasanna Ranatunga, who attended a public meeting held on Thursday (4) in Minuwangoda, Gampaha.. Minister Prasanna Ranatunga said:
+
+To build a prosperous Sri Lanka, many social and political reforms are to be made parallel to economic growth. The people of our country expect massive political reform. Ranil Wickremesinghe is the only leader who has worked with the country that he can do his own things. That is why the villagers say that Ranil is now the man. .
+
+◼️
 
 [Data](articles/67ab2a3f.json)
+
+[Extended Data](ext_articles/67ab2a3f.ext.json)
 
 ---
 
@@ -478,7 +504,7 @@ One third of the Democratic Party (Democratic Party) has said that he should qui
 
 *2024-07-04 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100285/-custom-officers-launch-sick-leave-trade-union-action) · `en`
 
-The Customs Officers’ Union says they have decided to engage in trade union action by reporting ‘sick leave’ today (3) and tomorrow (4), in protest over the lack of a satisfactory response to their demands from the authorities.
+The Customs Officers’ Union says they have decided to engage in trade union action by reporting ‘sick leave’ today (4) and tomorrow (5), in protest over the lack of a satisfactory response to their demands from the authorities.
 
 A member of the union’s executive committee, Tharaka Kumarasinghe stated that the union’s members are engaging in this trade union action to protest against the authorities’ arbitrary decision to introduce the Sri Lanka Revenue Authority (SLRA) Bill and make amendments to various sections of the Customs Ordinance.
 
@@ -2235,19 +2261,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/bd596855.json)
 
 [Extended Data](ext_articles/bd596855.ext.json)
-
----
-
-### Boardpac awarded Carbon Neutral Certification
-
-*2024-07-03 23:31:00* · [`islandlk`](http://island.lk/boardpac-awarded-carbon-neutral-certification/) · `en`
-
-BoardPAC has proudly earned the Carbon Neutral Certificate for 2022 from The Sri Lanka Climate Fund (SLCF), an organization operating under the Ministry of Environment committed to fostering a low-carbon business economy and promoting sustainable lifestyle choices. This remarkable achievement underscores BoardPAC’s dedication to environmental responsibility and is a key milestone in its Environment, Social, and Governance (ESG) journey.
-
-...
-
-[Data](articles/a5466115.json)
-
-[Extended Data](ext_articles/a5466115.ext.json)
 
 ---

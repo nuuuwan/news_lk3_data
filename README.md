@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 22:07:20**
+As of **2024-07-04 22:19:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,706 (100.0%) of 33,709 articles have been extended.
+33,709 (100.0%) of 33,709 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ State Minister Indika Anuruddha conveyed these updates during a media briefing a
 ...
 
 [Data](articles/e5ecb503.json)
+
+[Extended Data](ext_articles/e5ecb503.ext.json)
 
 ---
 
@@ -101,6 +103,8 @@ The flight then set course normally, climbing to flight level FL380 (38,000 feet
 ...
 
 [Data](articles/29120763.json)
+
+[Extended Data](ext_articles/29120763.ext.json)
 
 ---
 
@@ -354,17 +358,27 @@ Meanwhile, Tamil Nadu Chief Minister MK Stalin said that despite the possibility
 
 ---
 
-### රටම බලා සිටින පෙත්සම 08දා සලකා බලයි
+### The petition waiting for the country will be considered on 8th
 
 *2024-07-04 18:43:29* · [`adalk`](https://www.ada.lk/breaking_news/රටම-බලා-සිටින-පෙත්සම-08දා-සලකා-බලයි/11-410616) · `si`
 
-ජනාධිපතිවරයාගේ ධූර කාලය අවසන් වන දිනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ අර්ථනිරූපනයක් දෙනතුරු ජනාධිපතිවරණය පැවැත්වීමෙන් මැතිවරණ කොමිසම වළකාලන අතුරු නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ව්‍යවසායකයෙකු ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම පංච පුද්ගල විනිසුරු මඩුල්ලක් හමුවේ ලබන 08 වැනිදා සළකා බැලීමට ශ්‍රේෂ්ඨාධිකරණයට අද (04) තීරණය කළේය.
+The Supreme Court has scheduled a hearing for the 8th, appointing a five-judge panel to review a case involving the presidential election. The case, filed by a petitioner from CD, Moratuwa, challenges the interpretation of the 19th Amendment regarding the President's powers. The petitioner demands an order against the Election Commission, arguing that the presidential election does not define the President's duties and funds.
 
-අගවිනිසුරු ජයන්ත ජයසුරිය මහතාගේ ප්‍රධානත්වයෙන් යුත් මෙම පංච පුද්ගල විනිසුරු මඩුල්ලේ සාමාජික විනිසුරුවරුන් වශයෙන් ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන විජිත් මලල්ගොඩ, මුර්දු ප්‍රනාන්දු, ප්‍රීතී පද්මන් සුරසේන සහ එස්. තුරේරාජා මහත්වරු පත් කර ඇත.
+🟩
+
+The Supreme Court today decided to hold a five-member panel of judges to hold an offensive judiciary in order to issue an interimedity panel of an entrepreneur in the presidential election.
+
+Supreme Court judges Vijith Malalgoda, Murdu Fernando, Preethi Paddan Surutsena and S.. Turaralaja have been appointed.
+
+The petitioner should interpret the presidential election by the President's election and violated the Presidential election by the President's election by the President's election by the Presidential election without interpretation of the President of the President of the 19th Amendment.The petitioner has filed the fundamental rights petition, demanding to issue an order.
+
+CD in Moratuwa, a residential entrepreneur. The Elections Commission has been named as respondents in the petition filed by Mr. Lenawa.
 
 ...
 
 [Data](articles/70014584.json)
+
+[Extended Data](ext_articles/70014584.ext.json)
 
 ---
 

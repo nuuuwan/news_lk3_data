@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 01:53:39**
+As of **2024-07-05 02:06:03**
 
 ## Newspaper Stats
 
-*Scraped **33,719** Articles*
+*Scraped **33,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,985
 dailyftlk | 2,088
 adalk | 3,018
 adaderanalk | 3,849
-tamilmirrorlk | 3,986
+tamilmirrorlk | 3,988
 dailymirrorlk | 4,733
 virakesarilk | 5,278
 adaderanasinhalalk | 5,589
@@ -26,21 +26,55 @@ adaderanasinhalalk | 5,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,719 (100.0%) of 33,719 articles have been extended.
+33,719 (100.0%) of 33,721 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
+### காதலனின் வாக்குமூலத்தால் கிணற்றுக்கு பாதுகாப்பு
+
+*2024-07-05 01:41:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலனின்-வாக்குமூலத்தால்-கிணற்றுக்கு-பாதுகாப்பு/175-339891) · `ta`
+
+காணாமல்போன யுவதியின் காதலன் என சந்தேகிக்கப்படும் இளைஞன் வழங்கிய வாக்குமூலத்தை அடுத்து, பாலடைந்த கிணற்றுக்கு பாதுகாப்பு வழங்கப்பட்டுள்ளதுடன், அந்த கிணற்றை வௌ்ளிக்கிழமை (05) தோண்டுவதற்கு நீதிமன்றம் அனுமதியளித்துள்ளது.
+
+திருகோணமலை,சேருவில பொலிஸ் பிரிவுக்கு உட்பட்ட தங்கநகர் பகுதியைச் சேர்ந்த இளம் யுவதியான நடேஸ்குமார் வினோதினி (வயது 25 ) என்பவர்  காணாமல் போயுள்ளதாக, அவரது குடும்பத்தினரால், சேருவில மற்றும் மூதூர் பொலிஸ் நிலையங்களில் முறைப்பாடுகள் செய்யப்பட்டுள்ளன.
+
+இது தொடர்பான விசாரணையை முன்னெடுத்துவரும் மூதூர் பொலிஸார் சந்தேகத்தின்பேரில் கிளிவெட்டியைச் சேர்ந்த நபர் ஒருவரை கைது செய்து விசாரணை மேற்கொண்டனர்.
+
+அவர் வழங்கிய தகவலின் அடிப்படையில்  கிளிவெட்டி கிராமத்தின் எல்லைப் புறத்தில் உள்ள பாழடைந்த கிணற்றை தோண்டுவதற்கு நீதிமன்ற அனுமதியை பொலிஸார் பெற்றுள்ளனர்.
+
+இந்நிலையில் குறித்த கிணற்றடியில் புதன்கிழமை(03) முதல் பொலிஸ் பாதுகாப்பு போடப்பட்டுள்ளது. இக்கிணறானது மூதூர் நீதிமன்ற நீதவான் முன்னிலையில் வெள்ளிக்கிழமை (05)  தோண்டப்படவுள்ளதாக மூதூர் பொலிஸார் கூறினர்.
+
+...
+
+[Data](articles/66903f04.json)
+
+---
+
+### இலஞ்சம் வாங்கிய ஐ.பி. கைது
+
+*2024-07-05 01:35:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-வாங்கிய-ஐ-பி-கைது/175-339890) · `ta`
+
+சட்டத்தை அமுல்படுத்துவதை தவிர்ப்பதற்காக ஒருவரிடமிருந்து 25,000 ரூபாவை இலஞ்சமாக பெற்றுக்கொண்ட குற்றச்சாட்டில் கைது செய்யப்பட்ட மஹாபாகே பொலிஸ் பரிசோதகரை விளக்கமறியலில் வைக்குமாறு கொழும்பு பிரதான நீதவான் திலின கமகே, வியாழக்கிழமை (04) உத்தரவிட்டுள்ளார்.
+
+சந்தேக நபரை நீதிமன்றத்தில் ஆஜர்படுத்திய போது இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு.  தெரிவித்த கருத்துகளை பரிசீலித்த பின்னரே சந்தேக நபர் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+வத்தளை பள்ளியாவத்தை பிரதேசத்தை சேர்ந்த ஒருவர் செய்த முறைப்பாட்டின் அடிப்படையில் சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/d39684cc.json)
+
+---
+
 ### Why parate is so hot these days
 
 *2024-07-05 01:18:28* · [`dailyftlk`](https://www.ft.lk/opinion/Why-parate-is-so-hot-these-days/14-763851) · `en`
 
+The Parate is not that draconian as most of the people see it. Firstly it applies only for loans of which the capital is Rs. 5 million or above. In practice, no bank will exercise the Parate Right until a borrower fails to repay 7/8 instalments or more. The bank as much as possible negotiates with the borrower and carefully listens to the reasons of the borrower’s failure. Banks will in the first instance endeavour to understand whether the default is due to the own negligence of the borrower or due to something beyond his control. Even in the case of own negligence the bank will warn the borrower and try to correct him, leaving aside the Parate. When the default is beyond the control of the borrower, banks give them sound concessions based on case by case
+
 Once the parate is abolished as proposed, the borrowers who are repaying satisfactorily will also, without thinking twice, refrain from repaying their loans
-
-As reported by Daily FT on 25 June, at an awareness conference organised by the Ceylon Federation of MSMEs on ‘Business debt and finance management’, Justice Minister Dr. Wijeyadasa Rajapakshe had proposed two solutions to balance the relationship between banks and industries. One was to abolish the parate law and the other was to provide opportunities for distressed customers to restructure their credit lines.
-
-Abolishing the parate right given to banks has come again to the platform after a couple of months. What is this parate right which is given only to the banks by our legislation?
 
 ...
 
@@ -54,13 +88,9 @@ Abolishing the parate right given to banks has come again to the platform after 
 
 *2024-07-05 00:58:39* · [`dailyftlk`](https://www.ft.lk/opinion/Finance-Ministry-on-Sri-Lanka-s-International-Sovereign-Bond-Restructuring/14-763850) · `en`
 
+The Joint Working Framework negotiated with the AHG provides a fair balance of risk sharing and sufficiently addresses the concerns of Sri Lanka and the requirements of bondholders. The MLB structure, following the adjustments made through the evolution of the proposed instrument, enables the appropriate sharing of upside between creditors and the debtor, whilst also ensuring that in this process, the debt sustainability of the debtor sovereign is not compromised. These terms require formal confirmation by the Secretariat of the Official Creditor Committee and the IMF staff in order to confirm conformity with comparability of treatment requirements and compliance with Sri Lanka’s IMF program debt sustainability targets
+
 The negotiated Joint Working Framework enables a fair sharing of upside or downside between creditors and Sri Lanka in case of an economic over-performance or under-performance by Sri Lanka
-
-Any upside payouts would only occur in a manner that does not compromise Sri Lanka’s longer term debt sustainability
-
-The risk of higher payouts being triggered whilst capacity to pay is weak is mitigated by the inclusion of a control variable. Therefore, any increased payments would be to a great extent be balanced by enhanced capacity to pay
-
-The baseline scenario results in a NPV effort of 40% at a discount rate of 11% whilst the scenario with the highest payments by Sri Lanka (resulting from the most significant economic over-performance) would result in a NPV effort of 27% at a discount rate of 11%
 
 ...
 
@@ -2279,53 +2309,5 @@ Purawara Udani was held for nine days at the Walkendha Harischandra Park. The Mu
 [Data](articles/f9a7370d.json)
 
 [Extended Data](ext_articles/f9a7370d.ext.json)
-
----
-
-### Presidential Election: Ranil Action Notice
-
-*2024-07-04 10:19:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தல்-ரணில்-அதிரடி-அறிவிப்பு/175-339853) · `ta`
-
-A petition filed by Samindra Dayan Lenwa seeks an injunction against the Election Commission to halt preparations for the 2024 presidential election, citing constitutional articles. The petitioner argues this is necessary due to the upcoming election during President Ranil Wickremesinghe's term. However, Wickremesinghe states the petitioner didn't consult him or his legal team before filing, and acknowledges the Election Commission's efforts to proceed with the election within the presidential period.
-
-🟩
-
-The government has focused on a petition filed by Samindra Dayan Lenwa in the Supreme Court demanding an interim injunction to members of the Election Commission to hold the 2024 presidential election.
-
-By filing the petition, Article 30 (2) of the Constitution of the Constitution is aimed at Article 126, 82 (6), 3, 4, 118 and 125 of the Constitution of the Constitution.The petition is noted not to do.
-
-The petitioner has requested the Election Commission to issue an interim injunction to prevent further work on holding the 2024 presidential election until the Supreme Court has announced that the next presidential election should be held in view of the presidential term.
-
-President Ranil Wickremesinghe has said that the petitioner did not consult or consult with his lawyers before filing the petition.
-
-President Ranil Wickremesinghe has announced that it is correct that the Election Commission has taken steps to hold the 2024 presidential election in the presidential period.
-
-◼️
-
-[Data](articles/7c3054f1.json)
-
-[Extended Data](ext_articles/7c3054f1.ext.json)
-
----
-
-### OIC who went down alcohol. Attacked
-
-*2024-07-04 10:18:11* · [`adalk`](https://www.ada.lk/breaking_news/මත්පැන්-වැටලිමට-ගිය-ඕ-අයි-සී--ට-පහර-දිලා/11-410604) · `si`
-
-The OIC of Talawa Police Station was assaulted by a group of officers. The attack occurred at night, and the victim is now hospitalized. Five suspects are in custody as the investigation continues.
-
-🟩
-
-The OIC of the Talawa Police Station has been attacked by a group of Thalawa Police OIC.
-
-The police said that the OIC was racked at night and the OIC of the injured have been admitted to Anuradhapura Hospital.
-
-Five suspects have been arrested in connection with the assault. Talawa Police are conducting further investigations.
-
-◼️
-
-[Data](articles/eb94aa1f.json)
-
-[Extended Data](ext_articles/eb94aa1f.ext.json)
 
 ---

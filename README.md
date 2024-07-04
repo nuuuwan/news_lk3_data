@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 08:54:12**
+As of **2024-07-04 09:06:08**
 
 ## Newspaper Stats
 
-*Scraped **33,588** Articles*
+*Scraped **33,589** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,833
 tamilmirrorlk | 3,969
 dailymirrorlk | 4,733
 virakesarilk | 5,250
-adaderanasinhalalk | 5,565
+adaderanasinhalalk | 5,566
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,586 (100.0%) of 33,588 articles have been extended.
+33,588 (100.0%) of 33,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### යුක්තිය මෙහෙයුමට අද සිට අලුත් මුහුණුවරක්
+
+*2024-07-04 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198468) · `si`
+
+අද (04) සිට යුක්තිය මෙහෙයුම නව මුහුණුවරකින් ආරම්භ කරන බව පොලීසිය පවසයි.
+
+මෙම මෙහෙයුම සඳහා ශ්‍රී ලංකා යුද හමුදාවේ ද සහාය ලබාගැනීමට අපේක්ෂා කරන බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසුවේය.
+
+අද දිනයේ කොළඹ ආශ්‍රීත ප්‍රදේශ කිහිපයක මෙම වැඩසටහන ආරම්භ කෙරුණු අතර ඉදිරියේ දී මුළු දිවයිනම ආවරණය වන පරිදි එය ක්‍රියාත්මක කෙරෙන බව නිහාල් තල්දූව මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/ef0b2f84.json)
+
+---
 
 ### Police Inspector arrested on bribery charge
 
@@ -44,17 +60,25 @@ He had reportedly solicited the bribe on the promise of intervening to settle an
 
 [Data](articles/c6a41099.json)
 
+[Extended Data](ext_articles/c6a41099.ext.json)
+
 ---
 
-### අල්ලස් ගත් පොලිස් නිලධාරියෙක් අත්අඩංගුවට
+### A police officer arrested
 
 *2024-07-04 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198467) · `si`
 
-මහබාගේ පොලීසියට අනුයුක්තව සේවය කරන පොලිස් පරීක්ෂකවරයෙක්  අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසම මඟින් අත්අඩංගුවට ගෙන තිබේ.
+An Inspector from the Mahabage Police was arrested by Sri Lanka's Commission to Investigate Allegations of Bribery or Corruption.
+
+🟩
+
+A Inspector of Inspector attached to Mahabage Police has been arrested by the Commission to Investigate Allegations of Bribery or Corruption.
 
 ◼️
 
 [Data](articles/5a49b902.json)
+
+[Extended Data](ext_articles/5a49b902.ext.json)
 
 ---
 
@@ -2283,25 +2307,5 @@ The suspect had allegedly used these imitation items to issue fraudulent documen
 [Data](articles/51a886fb.json)
 
 [Extended Data](ext_articles/51a886fb.ext.json)
-
----
-
-### Bodies of fishermen who died after drinking from bottle found in sea brought to Tangalle
-
-*2024-07-03 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100267/bodies-of-fishermen-who-died-after-drinking-from-bottle-found-in-sea-brought-to-tangalle) · `en`
-
-The bodies of four fishermen, who died after consuming the contents of a bottle they found floating in the sea assuming it was liquor, were brought to the Tangalle fisheries harbour this morning (03).
-
-The fishing vessel “Devon 05,” which had also suffered a mechanical failure, was towed to the Tangalle Fisheries Harbour by another vessel.
-
-According to Tangalle police, the bodies were kept on the vessel pending the arrival of the magistrate for a magisterial inquest.
-
-Following the magistrate’s inquiry, the bodies will be transferred to Tangalle Hospital for the post-mortem examinations.
-
-◼️
-
-[Data](articles/8183d6f3.json)
-
-[Extended Data](ext_articles/8183d6f3.ext.json)
 
 ---

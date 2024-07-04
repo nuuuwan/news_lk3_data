@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 14:06:39**
+As of **2024-07-04 14:19:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,577
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,646 (100.0%) of 33,647 articles have been extended.
+33,647 (100.0%) of 33,647 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,23 +54,29 @@ The woman was wasps when she was cutting palm tiles in a land near her home.
 
 ---
 
-### අකුණුසැර වැදීමෙන් ගොවි මහතෙකු මියයයි
+### Farmers dies after lightning
 
 *2024-07-04 13:14:14* · [`adalk`](https://www.ada.lk/breaking_news/අකුණුසැර-වැදීමෙන්-ගොවි-මහතෙකු-මියයයි/11-410611) · `si`
 
-ඇතිමලේ පොලිස් වසමට අයත් සඳගනාව කුඹුරු යායක වැඩකරමින් සිටි ගොවි මහතෙකු ඊයේ (03)දින වෙනිදා සවස අකුණුසැර වැදීමෙන් මියගොස් ඇතැයි ඇතිමලේ පොලීසිය පවසයි.
+A farmer named AM Premaratne (50) was tragically killed by lightning while working in a paddy field near the Etimamale Police Division. He was under a tree with three others when the incident occurred. Despite efforts to save him, he succumbed to his injuries on the way to the hospital. The police are investigating the cause of the accident.
 
-මෙලෙස මියගොස් ඇත්තේ ඇතිමලේ වැව ගොවිපොළපාර පදිංචි ඒ.එම් ප්‍රේමරත්න (50) නැමති සිව්දරු පියෙකි.
+🟩
 
-හෙතෙම තවත් තිදෙනෙකු සමඟ කුඹුරේ වැඩකරමින් සිට ඇති අතර ඒ අවස්ථාවේ ඇදහැලුණු වැස්ස නිසා ඔහු සහ තවත් අයෙකු කුඹුර අසල පිහිටි   ගසක් යටට ගොස් ඇත.
+Athimale police said that a farmer who was working on the paddy field belonging to the Etimamale Police Division was killed in lightning yesterday morning.
 
-එවිට අකුණුසැර වැදීමෙන් ඔහු බිම වැටී ඇති අතර ඇතිමලේ ප්‍රාදේශීය රෝහලට ගෙන යන අතරමඟදී මියගොස් තිබේ.
+The deceased has been identified as AM Premaratne (50), a father of four residents.
 
-සෙසු අයට අනතුරෙන් හානි සිදුවී නැත. ඇතිමලේ පොලීසිය පරීක්ෂණ පවත්වයි.
+He has been working with three more and caused him under a tree near the Kumbura.
+
+He had fallen to lightning and died on the road to the Etimala Divisional Hospital.
+
+Fellows have not been damaged in danger. The Etimala police are conducting further investigations.
 
 ◼️
 
 [Data](articles/aed5bc1d.json)
+
+[Extended Data](ext_articles/aed5bc1d.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 05:37:12**
+As of **2024-07-04 06:00:43**
 
 ## Newspaper Stats
 
-*Scraped **33,563** Articles*
+*Scraped **33,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 307
 colombotelegraphcom | 310
 bbccomsinhala | 330
 newsfirstlk | 363
-islandlk | 1,867
+islandlk | 1,880
 economynextcom | 1,967
 dailyftlk | 2,083
 adalk | 2,996
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,563 (100.0%) of 33,563 articles have been extended.
+33,563 (100.0%) of 33,576 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -423,6 +423,128 @@ Hales, Dikwella, Panuka Rajapaksa (0), Janith Liyanage (2), Tim Sefird (12) and 
 [Data](articles/5b91f5d8.json)
 
 [Extended Data](ext_articles/5b91f5d8.ext.json)
+
+---
+
+### More Potatoes…
+
+*2024-07-03 23:52:00* · [`islandlk`](http://island.lk/more-potatoes/) · `en`
+
+Wow! My potato beauty tips last week was a hit with many and I had quite a few appreciative comments coming my way.
+
+You will need the juice of half potato and the egg white of one egg.
+
+Mix the potato juice with the egg white and apply the mixture on your face and neck.
+
+You will need 01 small potato, 01 tablespoon honey, and 01 tablespoon almond oil.
+
+Grate the potato and mix it with the honey and almond oil and make a paste and apply it on your face.
+
+You will need ½ grated potato, and 02 tablespoons plain yoghurt.
+
+Mix the two ingredients and apply the pack on your face. Avoid contact with the eyes.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/cf378231.json)
+
+---
+
+### Fun-filled outing
+
+*2024-07-03 23:46:00* · [`islandlk`](http://island.lk/fun-filled-outing/) · `en`
+
+I guess the older folks would remember the good ole days, when we had ‘The Young Ones,’ ‘Teen Page,’ etc.
+
+Well, three stalwarts, from that era, are planning a day’s outing in order to meet and greet some of the older folks, as well as the present day young ones.
+
+Dilanth De Silva, Mazeeha Halaj and Dayanthi Senanayake, popular figures on social media (Facebook), say that the outing will be to a resort in Negombo and will include lunch, afternoon tea, snacks, etc., plus fun games, with prizes to be won.
+
+The date mentioned is Saturday, 27th July, but they need confirmation from those wanting to be a part of this fun-filled package by 20th July.
+
+You are required to call Dilanth (0772364301), Mazeeha (0775199807) or Dayanthi (0773541254) for more details, and the cost.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/bd596855.json)
+
+---
+
+### Boardpac awarded Carbon Neutral Certification
+
+*2024-07-03 23:31:00* · [`islandlk`](http://island.lk/boardpac-awarded-carbon-neutral-certification/) · `en`
+
+BoardPAC has proudly earned the Carbon Neutral Certificate for 2022 from The Sri Lanka Climate Fund (SLCF), an organization operating under the Ministry of Environment committed to fostering a low-carbon business economy and promoting sustainable lifestyle choices. This remarkable achievement underscores BoardPAC’s dedication to environmental responsibility and is a key milestone in its Environment, Social, and Governance (ESG) journey.
+
+...
+
+[Data](articles/a5466115.json)
+
+---
+
+### Fadna Vernolac Prospective Scholarship Program commences
+
+*2024-07-03 23:29:00* · [`islandlk`](http://island.lk/fadna-vernolac-prospective-scholarship-program-commences/) · `en`
+
+Cancer has become a significant health problem in today’s world. Currently, more than 30,000 new cases are reported annually in Sri Lanka, worsening the situation. This rapidly growing cancer has become a source of financial and mental stress not only for the patients but also for their family members.
+
+We can see many cases where students from affected families face problems in their educational journey due to psychological distress, increased responsibilities at home, and economic difficulties. Accordingly, Fadna Institute has committed to using the profit from its Vernolac product to brighten the future of these students by encouraging them to take the A-level examination, which is a valuable milestone in their lives.
+
+...
+
+[Data](articles/059c575c.json)
+
+---
+
+### Introducing world’s first 2024 GMC Hummer EV in right-hand drive
+
+*2024-07-03 23:27:00* · [`islandlk`](http://island.lk/introducing-worlds-first-2024-gmc-hummer-ev-in-right-hand-drive/) · `en`
+
+The automotive industry is abuzz with excitement as they proudly introduce the world’s first 2024 GMC Hummer EV in right-hand drive. This revolutionary vehicle marks a significant milestone in their commitment to delivering unparalleled innovation and luxury in the electric SUV market.
+
+The 2024 GMC Hummer EV SUV, in the exclusive Moonshot Green Edition 1, is not just an electric vehicle; it’s a game-changer. With a powerful 3-motor setup, this beast delivers an astonishing 830 horsepower and a mind-blowing 11,500 lb-ft of torque. Engineered for the ultimate off-road experience, it features the groundbreaking CrabWalk capability, allowing for diagonal movement to navigate tight trails and rugged terrains with ease.
+
+...
+
+[Data](articles/3ab3b4c1.json)
+
+---
+
+### British Council presents ‘Youth-Led Green and Inclusive Businesses’ at ‘Pathways to Sustainability: Entrepreneurs’ Showcase’ event
+
+*2024-07-03 23:26:00* · [`islandlk`](http://island.lk/british-council-presents-youth-led-green-and-inclusive-businesses-at-pathways-to-sustainability-entrepreneurs-showcase-event/) · `en`
+
+The British Council Sri Lanka celebrated the successful pilot phase of the ‘Youth-Led Green and Inclusive Businesses’ project to commemorate the 2024 International Micro, Small and Medium-sized Enterprises (MSMEs) Day. The ‘Youth-Led Green and Inclusive Businesses’ project equipped young entrepreneurs with knowledge, skills, resources, and networks, and aimed to transform existing businesses into greener and more inclusive models.
+
+The event, titled ‘Pathways to Sustainability: Entrepreneur’s Showcase,’ marked the culmination of the project. Thirty young business leaders from Sri Lanka had the opportunity to present progressive steps undertaken by them towards making their businesses greener and more inclusive with innovative solutions as well as network with key stakeholders and advocate for common causes. The British Council collaborated with two local organisations, the Green Movement of Sri Lanka and Lanka Social Ventures to implement this project.
+
+...
+
+[Data](articles/362e93d1.json)
+
+---
+
+### Substantial foreign purchasing of Windforce stocks exerts salutary impact on CSE
+
+*2024-07-03 23:23:00* · [`islandlk`](http://island.lk/substantial-foreign-purchasing-of-windforce-stocks-exerts-salutary-impact-on-cse/) · `en`
+
+Stock market activities were somewhat dull yesterday but indicated some substantial foreign purchasing in Windforce stocks. On the previous day, Tundra Sustainable Frontier Fund picked up 27.3 million shares of Windforce for Rs. 547 million, further increasing its stake.
+
+Overall, Windforce saw 29.5 million shares change hands for Rs. 590.7 million, accounting for 32 percent of the turnover on the previous day. The block of 27.36 million shares were done at Rs. 20 each via two crossings. The share gained by 20 cents.
+
+Tundra entered Windforce via the IPO and as at March 31, 2024 held 70.5 million shares or a 5.22 percent stake as the fourth largest shareholder. It is likely to have increased the stake to over 7% following yesterday’s purchase.
+
+...
+
+[Data](articles/57be6d49.json)
 
 ---
 
@@ -2173,161 +2295,5 @@ The EC warned the public not to promote or demote any political party or groups 
 [Data](articles/49acb869.json)
 
 [Extended Data](ext_articles/49acb869.ext.json)
-
----
-
-### FR petition filed to prevent calling of Presidential Election
-
-*2024-07-03 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100265/fr-petition-filed-to-prevent-calling-of-presidential-election-) · `en`
-
-A businessman has filed a fundamental rights (FR) petition seeking an order preventing the calling of a Presidential Election until the Supreme Court delivers its interpretation on the date of the presidential poll, Ada Derana reporter said.
-
-The petition was filed by an entrepreneur named C.D. Lenawa.
-
-The petition requests that an interim order be issued to prevent the holding of the presidential election within the currently scheduled period until the court delivers its interpretation on the date of the next presidential election.
-
-◼️
-
-[Data](articles/2ae9b37a.json)
-
-[Extended Data](ext_articles/2ae9b37a.ext.json)
-
----
-
-### Land scam belonging to someone living abroad
-
-*2024-07-03 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/187562) · `ta`
-
-In a land scam case, a man from Jaffna living abroad entrusted his land to his landlord. His sister, however, impersonated him to claim ownership, leading to her arrest along with another accomplice. The police, acting on a complaint, investigated the fraud, revealing the sister paid a Colombo-based woman to sign documents as her brother, who was allegedly ill. Both women were charged and remanded for further investigation.
-
-🟩
-
-The sister has been arrested by the police for impersonating and transformed into a land owned by a resident of a living abroad.
-
-A man from Jaffna migrates and lives abroad. He had given his land to his landlord. In this case, the land owner's own sister has defrauded the right to get the assurance from the one -sided sister.
-
-Police investigated a complaint lodged with a group led by Gunarojan, the Jaffna District Criminal Investigation Division.. Another woman was also arrested for helping her impersonation.
-
-When she was also tried in the Jaffna Magistrate's Court on Monday (01), Magistrate Anandarajah admitted that she was impersonating her for recalling for 10 thousand rupees.. Subsequently, the two of them have been placed in interrogation on a court order.
-
-...
-
-[Data](articles/b16f83a6.json)
-
-[Extended Data](ext_articles/b16f83a6.ext.json)
-
----
-
-### More than 3 thousand people die of suicide every year
-
-*2024-07-03 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/187571) · `ta`
-
-Every year, over 3,000 people die by suicide, according to data released by the Ministry of Health during National Injury Prevention Week (July 1-5). Health officials stress the importance of enhanced mental health services, awareness campaigns, and suicide prevention tactics to combat this critical public health issue.
-
-🟩
-
-The statistics have been released by the Ministry of Health during the National Injury Prevention Week, which will be observed from July 1 to 5.
-
-Health officials have emphasized that suicides are a significant public health challenge, emphasizing the urgent need for advanced mental health support services, social awareness programs and suicide prevention strategies to fight this dangerous course.
-
-◼️
-
-[Data](articles/434639ed.json)
-
-[Extended Data](ext_articles/434639ed.ext.json)
-
----
-
-### Petition to the Supreme Court regarding the term of President
-
-*2024-07-03 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198442) · `si`
-
-A petition has been filed by entrepreneur CD. Leena, asking the Supreme Court to clarify the constitutional interpretation of the current president's term. The petition requests an interim order in the ongoing presidential election until the court's decision on the term's duration.
-
-🟩
-
-The term of office of the present president has come forward to interpret the Supreme Court as per the Constitution.
-
-The delegation petition has been submitted, a entrepreneur, CD. By Mr. Leena.
-
-The petition further requested to issue an interim order in the presidential election until the next presidential election is interpreted by the next Presidential Election.
-
-◼️
-
-[Data](articles/eb9e72f5.json)
-
-[Extended Data](ext_articles/eb9e72f5.ext.json)
-
----
-
-### $ 5 billion to Sri Lanka at next three years
-
-*2024-07-03 12:02:51* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-වසර-තුනේදී-ලංකාවට-ඩොලර්-බිලියන-5ක-වාසියක්/11-410587) · `si`
-
-Over the next three years, Sri Lanka will receive $5 billion in loans crucial for its reconstruction. This follows agreements with the Official Creditors Committee, Paris Club members, and the Chinese Exim Bank, marking significant steps towards debt restructuring. Despite international optimism regarding Sri Lanka's creditworthiness, some domestic political parties remain skeptical, viewing the restructuring process negatively for political gain. The government aims to reduce public debt to 95% of GDP by 2032, lower the gross finance requirement to 13%, and decrease foreign loan servicing to 4.5% from 2027 to 2032. These measures are part of efforts to ensure the country's financial stability and economic growth.
-
-🟩
-
-State Minister Shehan Semasinghe said that all uncertainties had already left Sri Lanka's debt currency.
-
-The international community has seen optimism in Sri Lanka's credit but refused to see it optimistic for political purposes, some of the parties in Sri Lanka.
-
-State Minister of State Shehan Semasinghe made this statement participating at a press conference held at the Presidential Media Center.
-
-The good news of the loans that are essential for the rebuilding of the country has already received. On June 26, the official creditors committee of the Official Creditors Committee and the countries of Paris society were in agreement as bilateral creditors in Paris on June 26. Also, the Chinese Exim Bank had also contracted the agreement. Thus, we have completed two major things that are essential for restructuring of debt.
-
-...
-
-[Data](articles/0d467529.json)
-
-[Extended Data](ext_articles/0d467529.ext.json)
-
----
-
-### Sri Lanka to enlist help of army, navy for deep-sea diving tourists
-
-*2024-07-03 11:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-enlist-help-of-army-navy-for-deep-sea-diving-tourists-170664/) · `en`
-
-ECONOMYNEXT – Sri Lanka is planning to enlist the help of the military to help boost deep-sea diving for tourists, Chairman of the Sri Lanka Tourism Promotion Bureau, Chalaka Gajabahu said.
-
-“We are talking to the associations in that area and we also plan on enlisting the help of the Army and Navy,” Gajabahu told EconomyNext on 2nd July.
-
-Tri forces (army, navy, air force) and police account for nearly 30 percent of the country’s total state sector employees. Sri Lanka had a large number of military personnel when it ended a 26-year civil war in 2009.
-
-“We plan on focusing on water sports such as surfing and diving.”
-
-Sri Lanka has several diving centres including in Unawatuna and Hikkaduwa.
-
-In addition to coral eco-systems near-shore, Sri Lanka has a large number of wrecks around the island, some dating back centuries.
-
-The National Shipwreck Database of Sri Lanka lists 114 shipwrecks, with the oldest dating back to 2nd century BCE.
-
-...
-
-[Data](articles/661c1572.json)
-
-[Extended Data](ext_articles/661c1572.ext.json)
-
----
-
-### Teaching positions in national schools awarded to over 1,700 graduates
-
-*2024-07-03 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100264/teaching-positions-in-national-schools-awarded-to-over-1700-graduates) · `en`
-
-President Ranil Wickremesinghe presided over the appointment ceremony at Temple Trees this morning (03), where 60 individuals were appointed to Grade III general employee positions in the Sri Lanka Education Administration Service.
-
-Additionally, teaching positions in national schools were awarded to 1,706 graduates and 453 English diploma holders, according to the President’s Media Division (PMD).
-
-Addressing the event, President Wickremesinghe stressed the importance of those entering the teaching profession dedicating themselves to the future generation, noting that education in a country cannot thrive without discipline.
-
-He declared that no one would be permitted to disrupt school education between 7.30 a.m. and 1.30 p.m. and that he has directed the Attorney General to consider further measures to ensure this.
-
-The president, who requested that everyone prioritize children’s education, also asked the opposition not to support acts of sabotage.
-
-...
-
-[Data](articles/2330c925.json)
-
-[Extended Data](ext_articles/2330c925.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 22:35:06**
+As of **2024-07-04 22:53:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,709 (100.0%) of 33,711 articles have been extended.
+33,711 (100.0%) of 33,711 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,27 +50,35 @@ Prior efforts to end the nearly nine-month conflict were mediated by Egypt and Q
 
 [Data](articles/e086a9d7.json)
 
+[Extended Data](ext_articles/e086a9d7.ext.json)
+
 ---
 
-### දැවිතෙල් සොරා ගන්නා ජාවාරමක් හසුවෙයි
+### The racket of stolen furnace
 
 *2024-07-04 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198494) · `si`
 
-කෙරවලපිටිය - යුගදනවි බලාගාරයේ විදුලි උත්පාදනය සඳහා ගෙන යන දැවිතෙල් සොරකම් කර ඒවා වෙනත් ආයතනවලට විකුණන ජාවාරමක් වැටලීමට කොළොන්නාව ඛනිජ තෙල් තොග ගබඩා පර්යන්තයේ විමර්ශන අංශය අද (04) සමත් වුණි.
+A racket involving the theft and resale of fuel oil was busted at the Kolonnawa Petroleum Investigation Terminal, impacting the Kerawalapitiya-Udumaya power plant. Authorities arrested 6 individuals and confiscated 33,000 liters of furnace oil. This operation targeted a network distributing stolen fuel oil, primarily sourced from the Bopitiya area, affecting the country's second-largest thermal power plant.
 
-මෙම වැටලීමේදී, සොරකම් කරන ලද දැවිතෙල් ලීටර් 33,000ක් සමග බවුසර් රථයක් සහ පුද්ගලයින් 5 දෙනෙකු අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-ශ්‍රී ලංකාවේ ඉදිකර ඇති දෙවැනි විශාලතම තාප විදුලි බලාගාරය වන කෙරවළපිටිය යුගදනවි බලාගාරය මගින් මෙගාවොට් 300ක ධාරිතාවක් ජාතික පද්ධතියට සම්ප්‍රේෂණය කරයි.
+Kolonnawa Petroleum Investigation Terminal (Petroleum Consignment Terminal) (Petroleum Store Terminal was appointed to raise a racket to the Kerawalapitiya - Udumaya power plant.
 
-මෙම බලාගාරයේ විදුලි උත්පාදනය සඳහා භාවිත කෙරෙන දැවිතෙල් සොරාගන්නා ජාවාරමක් පිළිබඳ වත්තල, බෝපිටිය ප්‍රදේශයෙන් තොරතුරු අනාවරණය විය.
+In this raid, a bowsers and 5 people have been arrested along with 33,000 liters of furnacers.
 
-ඒ අනුව හෙළිවී ඇත්තේ, යුගදනවි බලාගාරයට රැගෙන යන දැවිතෙල් වත්තල, බෝපිටිය ප්‍රදේශයේ බවුසර් රථ අංගනයකදී සුක්ෂම අයුරින් සොරකම් කර වෙනත් ආයතනවලට විකුණන බවය.
+The second largest thermal power plant built in Sri Lanka transmitted a capacity of 300 MW to the national grid.
 
-ලද තොරතුරු මත ක්‍රියාත්මක වූ කොළොන්නාව තොග ගබඩා පර්යන්තයේ විමර්ශන අංශයේ නිලධාරීන් කණ්ඩායමක් අද පස්වරුවේ එම ස්ථානය වැටලීමට කටයුතු කළේය.
+Details of a racket used for electricity generation in the power generation of electricity generation revealed information from the Bopitiya area in Wattala.
+
+Accordingly, the burning of the Javelles, Wattala, the Bopitiya area in the Bopitiya area, stolen in the Bopitiya, and sells other institutions.
+
+A group of officers in the Investigation Department of the Kolonnawa who was operating on information was carried out this afternoon.
 
 ◼️
 
 [Data](articles/8b0674f7.json)
+
+[Extended Data](ext_articles/8b0674f7.ext.json)
 
 ---
 

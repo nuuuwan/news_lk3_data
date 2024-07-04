@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 05:04:41**
+As of **2024-07-05 05:19:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,745 (100.0%) of 33,746 articles have been extended.
+33,746 (100.0%) of 33,746 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -652,17 +652,25 @@ The negotiated Joint Working Framework enables a fair sharing of upside or downs
 
 ---
 
-### நடிகர் தமன் குமார் நடிக்கும் 'பார்க்' படத்தின் பர்ஸ்ட் லுக் வெளியீடு
+### Actor Taman Kumar starrer Burst Look release of 'Park'
 
 *2024-07-05 00:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/187689) · `ta`
 
-' அயோத்தி ', 'ஒரு நொடி' ஆகிய படங்களின் மூலம் தமிழ் ரசிகர்களிடத்தில் பிரபலமான நடிகர் தமன் குமார் கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'பார்க்' எனும் திரைப்படத்தின் பர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது. இதனை இசையமைப்பாளரும், நடிகருமான ஜீ. வி. பிரகாஷ் வெளியிட்டு, படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+Taman Kumar stars in "Burst Look," directed by D.K., known for thrillers mixed with suspense, horror, and comedy. The film, produced by Akshaya Movie Makers, features a cast including Swetha Torathi, Yogi Ram, and others. Composer V. Prakash congratulates the team. Set in a park, the story unfolds with humor and scares, aiming for a release in August.
 
-இயக்குநர் ஈ. கே. முருகன் இயக்கத்தில் உருவாகி இருக்கும் ”பார்க்” எனும் திரைப்படத்தில் தமன் குமார், ஸ்வேதா டோரத்தி, யோகி ராம், லயன் ஈ. நடராஜ், பிளாக் பாண்டி, ரஞ்சனா நாச்சியார், கராத்தே ராஜா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.‌ பாண்டியன் குப்பன் ஒளிப்பதிவு செய்திருக்கும் இந்தத் திரைப்படத்திற்கு சி வி ஹமாரா இசையமைத்திருக்கிறார். ஹாரர் திரில்லராக தயாராகி இருக்கும் இந்த திரைப்படத்தை அக்ஷயா மூவி மேக்கர்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர் லயன் ஈ. நடராஜ் தயாரித்திருக்கிறார்.
+🟩
 
-...
+Burst Look of 'Park', which plays the lead role in the story of actor Taman Kumar, who is famous for his Tamil fans through 'Ayodhya' and 'Odi Nadi'.. This is a composer and actor.. V.. Prakash has released and congratulated the film crew.
+
+Director d. K. Taman Kumar, Swetha Torathi, Yogi Ram, Lion E.. Nataraj, Black Pandi, Ranjana Nachiyar, Karate Raja and many others have been composed by CV Hamara.. Akshaya Movie Makers Film Company. Nataraj has produced.
+
+Commenting on the film, the director said, “The story of the film is being created as a story in a park. The screenplay is set as a thriller mixed with suspense+ horror+ comedy+. Ghost and fear in the first half of jokes and the second half. The shooting of the film is now over and the post -shooting technical work is underway. We are planning to release at the filmmaker in August. ”
+
+◼️
 
 [Data](articles/9fa397a4.json)
+
+[Extended Data](ext_articles/9fa397a4.ext.json)
 
 ---
 

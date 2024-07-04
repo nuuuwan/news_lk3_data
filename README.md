@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 16:05:40**
+As of **2024-07-04 16:19:52**
 
 ## Newspaper Stats
 
-*Scraped **33,657** Articles*
+*Scraped **33,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,47 @@ islandlk | 1,880
 economynextcom | 1,972
 dailyftlk | 2,084
 adalk | 3,009
-adaderanalk | 3,841
+adaderanalk | 3,842
 tamilmirrorlk | 3,981
 dailymirrorlk | 4,733
 virakesarilk | 5,264
-adaderanasinhalalk | 5,580
+adaderanasinhalalk | 5,581
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,656 (100.0%) of 33,657 articles have been extended.
+33,657 (100.0%) of 33,659 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### රෝහලින් භාර නොගත් කිරි සිරවූ බිළිඳා මිය යයි
+
+*2024-07-04 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198484) · `si`
+
+මාස 2ක බිළිඳෙකුට කිරි හිරවීම නිසා රෝහලට රැගෙන ඒමෙන් පසු අදාළ රෝහල බිළිඳාව භාර නොගැනීම හේතුවෙන් වෙනත් රෝහලකට රැගෙන යන අතරතුර බිළිඳා මියයෑමේ සිද්ධියක් වාර්තා විය.
+
+මාතර දිස්ත්‍රික් නව රෝහලට රැගෙන ආ බිළිඳාව එලෙස භාරගෙන නොතිබුණු බව වාර්තා විය.
+
+මෙලෙස ජීවිතක්ෂයට පත්වී ඇත්තේ මාතර කඹුරුගමුව ප‍්‍රදේශයේ පදිංචි ඔසඳ ආකිෂ් නමැති මාස 2යි දින 27ක් වයසැති නිවුන් දරුවන් දෙදෙනාගේ වැඩිමහල් බිළිඳාය.
+
+ඊයේ (03) අලුයම් කාලයේදී මෙම දරුවාට කිරි ලබාදී ඇති අතර එහිදී කිරි සිරවීමක් සිදුවී ඇත.
+
+දෙමව්පියන් විසින් ත්‍රීරෝද රථයකින් බිළිඳාව වහාම මාතර කොටවිල ප‍්‍රදේශයේ පිහිටා ඇති මාතර දිස්ත්‍රික් නව රෝහල වෙත රැගෙන ගොස් තිබුණි.
+
+මව්පියන් පවසන පරිදි, එහිදී ආරක්ෂක නිලධාරීන් පවසා ඇත්තේ රෝගියා භාර ගැනීමට නොහැකි බවත් ඒ මොහොතේ හදිසි ප‍්‍රතිකාර ඒකකය ක්‍රියාත්මක නොවන බවත් ය.
+
+පසුව ගිලන් රථයකින් හෝ වෙනත් රෝහලක් වෙත දරුවා රැගෙන යාම සඳහා රෝහලට ඇතුළුවීමට ඉඩ දෙන ලෙස දෙමව්පියන් පවසා ඇති අතර එයද රෝහල් ආරක්ෂක අංශය වළක්වා තිබේ.
+
+පසුව ඔවුන් කිලෝමීටර් 10ක් පමණ දුර ගෙවා මාතර මහා රෝහල වෙත බිළිඳා රැගෙන ගොස් ඇත.
+
+...
+
+[Data](articles/7fc4fbde.json)
+
+---
 
 ### ‘I’m running’, Biden says, as pressure to drop out grows
 
@@ -47,6 +73,8 @@ That same phrase was repeated in a fundraising email sent out a few hours later 
 ...
 
 [Data](articles/484219ee.json)
+
+[Extended Data](ext_articles/484219ee.ext.json)
 
 ---
 
@@ -1146,6 +1174,24 @@ DIG Thalduwa, further stated that the operation has commenced in several areas a
 
 ---
 
+### Sri Lanka Police launch second phase of operation ‘Yukthiya’
+
+*2024-07-04 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100282/sri-lanka-police-launch-second-phase-of-operation-yukthiya-) · `en`
+
+The ‘Yukthiya’ islandwide operation currently in force to eliminate all illegal activities will be launched with a new vigour from today (7), said the Sri Lanka Police.
+
+Police spokesman DIG Nihal Thalduwa stated that it is also expected to get the support of the Sri Lanka Army for the ‘Yukthiya’ operation.
+
+DIG Thalduwa, further stated that the second phase of the operation has commenced in several areas around Colombo and it will be expanded, covering the island shortly.
+
+Operation 'Yukthiya' - Second Phase (Police  Press Release) by Adaderana Online on Scribd
+
+◼️
+
+[Data](articles/5eca2cfd.json)
+
+---
+
 ### Saudi Arabia resolves the world's first internationally born twin conference
 
 *2024-07-04 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/187634) · `ta`
@@ -2195,69 +2241,5 @@ The deal marks the culmination of more than a year of difficult negotiations bet
 [Data](articles/832d1fcf.json)
 
 [Extended Data](ext_articles/832d1fcf.ext.json)
-
----
-
-### 2024-07-03 (Wednesday)
-
-### Cole Marwals broke the tough challenge of Kalambo Strikers
-
-*2024-07-03 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/187627) · `ta`
-
-In the 5th match of the Fifth Lanka Premier League, Cole Marwal's team secured a thrilling victory against Kalambo Strikers at the Pallekele International Cricket Stadium. Despite losing all wickets in 20 overs, Marwal's team managed to score 179 runs, thanks to impressive performances from Niroshan Dikwella and Alex Hales, who shared a 71-run partnership. Isuru Udana's crucial role in the last over sealed the win for Marwal's team, which now leads with 4 points after 2 victories. Kalambo Strikers, despite a strong fightback led by Dunit Wellalake and Samika Karunaratne, ultimately fell short, losing 9 wickets in 20 overs.
-
-🟩
-
-Goal Marwal's 7 runs won the most exciting victory in the 5th match of the Fifth Lanka Premier League chapter held at the Pallekele International Cricket Stadium in Kandy on Wednesday (03).
-
-In the last part of the match, Middle Service Dunit Wellalake fought for the success of Kalambo Strikers as a lonely one, but it eventually left hand.
-
-Isuru Udana threw control of the last over and confirmed the victory of the Cole Marwal team.
-
-With the end of the match, the goal Marwal team is the only team that has lost and topped the team with 4 points with 2 wins.
-
-Goal Marvels, who was first invited to bat in the match, lost all wickets in 20 overs and scored 179 runs.
-
-Niroshan Dikwella and Alex Hales played a stunning bats and shared 71 runs off 32 balls.
-
-In the Power Play, Goal Marvels lost one wicket and scored 72 runs.
-
-Hales, Dikwella, Panuka Rajapaksa (0), Janith Liyanage (2), Tim Sefird (12) and Twin Pritorius (5) were facing a major stagnation by 23 runs.
-
-...
-
-[Data](articles/5b91f5d8.json)
-
-[Extended Data](ext_articles/5b91f5d8.ext.json)
-
----
-
-### More Potatoes…
-
-*2024-07-03 23:52:00* · [`islandlk`](http://island.lk/more-potatoes/) · `en`
-
-Wow! My potato beauty tips last week was a hit with many and I had quite a few appreciative comments coming my way.
-
-You will need the juice of half potato and the egg white of one egg.
-
-Mix the potato juice with the egg white and apply the mixture on your face and neck.
-
-You will need 01 small potato, 01 tablespoon honey, and 01 tablespoon almond oil.
-
-Grate the potato and mix it with the honey and almond oil and make a paste and apply it on your face.
-
-You will need ½ grated potato, and 02 tablespoons plain yoghurt.
-
-Mix the two ingredients and apply the pack on your face. Avoid contact with the eyes.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/cf378231.json)
-
-[Extended Data](ext_articles/cf378231.ext.json)
 
 ---

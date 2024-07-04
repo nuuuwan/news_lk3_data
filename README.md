@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 07:01:03**
+As of **2024-07-04 07:25:33**
 
 ## Newspaper Stats
 
-*Scraped **33,576** Articles*
+*Scraped **33,579** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,77 @@ adaderanalk | 3,829
 tamilmirrorlk | 3,969
 dailymirrorlk | 4,733
 virakesarilk | 5,250
-adaderanasinhalalk | 5,559
+adaderanasinhalalk | 5,562
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,571 (100.0%) of 33,576 articles have been extended.
+33,576 (100.0%) of 33,579 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### වැටලීමකට ගිය OIC ට තියුණු ආයුධකින් පහරදීලා
+
+*2024-07-04 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198464) · `si`
+
+ඊයේ (03) රාත්‍රියේ වැටලීමකට ගිය තලාව ⁣පොලිස් ස්ථානාධිපතිවරයාට කිසියම් පුද්ගලයකු විසින් තියුණු ආයුධයකින් පහරදී ඇත.
+
+පහරදීමෙන් තුවාල ලැබූ ස්ථානාධිපතිවරයා මේ වන විට ප්‍රතිකාර සඳහා අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කර ඇතැයි වාර්තා වේ.
+
+◼️
+
+[Data](articles/cfc5cae0.json)
+
+---
+
+### ජාත්‍යන්තර බැඳුම්කර ප්‍රතිව්‍යුහගත කිරීමත් සාර්ථක වෙයි
+
+*2024-07-04 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198463) · `si`
+
+ශ්‍රී ලංකාව සහ ජාත්‍යන්තර ණයහිමියන් අතර බැඳුම්කර ප්‍රතිව්‍යුහගත කිරීම සඳහා වන කොන්දේසි සම්බන්ධයෙන් එකඟතාවයකට පැමිණ තිබේ.
+
+රොයිටර් පුවත් සේවය පෙන්වා දෙන්නේ ඊයේ (03) දිනයේ දී අදාළ එකඟතාවයකට පැමිණ ඇති බවය.
+
+ඒ අනුව අමෙරිකානු ඩොලර් බිලියන 12.5ක ජාත්‍යන්තර බැඳුම්කර ප්‍රතිව්‍යුහගත කිරීම සම්බන්ධයෙන් වන එකඟතාවයකට පැමිණ ඇති බව සඳහන්ය.
+
+වසරකට වැඩි කාලයක් පැවති සාකච්ඡාවලින් අනතුරුව මෙම එකඟතාවට පැමිණ ඇති බව වාර්තා වේ.
+
+ඒ අනූව ජාත්‍යන්තර බැඳුම්කරවල සියයට 28ක නාමික අඩුකිරීමකට ණයහිමියන් එකඟ වී ඇති බව සඳහන් ය.
+
+ජාත්‍යන්තර බැඳුම්කර ප්‍රතිව්‍යුහගතකිරීම ජාත්‍යන්තර මුල්‍ය අරමුදල විසින් ශ්‍රී ලංකාවට ලබා දී ඇති ප්‍රධාන කොන්දේසියක් වේ.
+
+ශ්‍රී ලංකාව ද්වීපාර්ශවීය ණයහිමියන් සමග ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලිය සඳහා මේ වන විටත් ගිවිසුම් අත්සන් කර තිබේ.
+
+මේ අතර 2024 විමධ්‍යගත අයවැය වැඩසටහන යටතේ අනුමත කරන ලද සියලුම ව්‍යාපෘති අගෝස්තු 31 වන දිනට පෙර අවසන් කළ යුතු බව  මුදල් ආර්ථික, ස්ථායිකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යාංශය පවසයි.
+
+...
+
+[Data](articles/51bf2f34.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-07-04 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198461) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+වයඹ පළාතේත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසිවාර කිහිපයක් ඇතිවිය හැකිය.
+
+ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොණරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇති වේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/4b81d34b.json)
+
+---
 
 ### Sri Lanka Ports Authority and Virginia Ports Authority, USA sign historic MOC
 
@@ -2241,73 +2301,5 @@ Higher octane fuel is mostly used in high-performance engines. (Colombo/Jul3/202
 [Data](articles/df66a404.json)
 
 [Extended Data](ext_articles/df66a404.ext.json)
-
----
-
-### Japan praises Sri Lanka's initiatives in completing debt
-
-*2024-07-03 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187570) · `ta`
-
-Japan's Foreign Minister Yogo Kamikawa commended Sri Lanka's efforts in managing its economic crisis and debt repayment during a meeting with Sri Lankan Foreign Minister Ali Sabri. The discussion included enhancing bilateral ties and mutual cooperation, particularly in human resource development and reviving suspended projects funded by Japan.
-
-🟩
-
-Japanese Foreign Minister Yogo Kamikawa has praised the measures taken in Sri Lanka in the process of dealing with the economic crisis and fulfilling the debt processing process.
-
-Foreign Minister Ali Sabri made an official visit to Japan on Monday (1) at the invitation of Japanese Foreign Minister Yogo Kamikawa.
-
-Accordingly, a bilateral meeting with Japanese Foreign Minister Yogo Kamika was held in Tokyo on Tuesday (02).
-
-During the meeting, the Japanese Foreign Minister has expressed his appreciation for the recent actions taken by Sri Lanka in the process of dealing with the economic crisis and fulfilling the debt processing process.
-
-It has also been discussed to further expand the bilateral connection between the two countries and the opportunity to improve mutual cooperation, including strengthening human resources.
-
-...
-
-[Data](articles/173d922b.json)
-
-[Extended Data](ext_articles/173d922b.ext.json)
-
----
-
-### ‘Harak Kata’ produced at Colombo HC amidst tight security
-
-*2024-07-03 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100266/harak-kata-produced-at-colombo-hc-amidst-tight-security) · `en`
-
-The Colombo High Court has ordered for the case filed against three defendants, including the notorious criminal figure and drug trafficker Nadun Chinthaka alias ‘Harak Kata,’ over his failed escape attempt from the Criminal Investigation Department (CID), to be called for pre-trial conference on July 29.
-
-The case was taken up today (03) before Colombo High Court Judge Damith Thotawatta.
-
-At that time, the accused ‘Harak Kata’ was produced before the court amidst tight security.
-
-After considering all the facts presented, the judge fixed the case for further pre-trial conference on July 29.
-
-◼️
-
-[Data](articles/d0f4e005.json)
-
-[Extended Data](ext_articles/d0f4e005.ext.json)
-
----
-
-### Sri Lanka’s election laws still in force as LG polls not finished: EC
-
-*2024-07-03 12:16:00* · [`economynextcom`](https://economynext.com/sri-lankas-election-laws-still-in-force-as-lg-polls-not-finished-ec-170667/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s election laws are still in force and all should abide the law, the island nation Election Commission (EC) said amid many political parties and their candidates in the run up to presidential poll have started distributing handouts to voters.
-
-The election laws came to in effect after the Election Commission declared Local Government (LG) polls in January last year.
-
-That election was postponed twice, but yet to be scheduled or cancelled.
-
-The EC said in statement that the election laws that have come to in effect are still in force as per to the country’s constitution because the LG polls have not been held yet.
-
-The EC warned the public not to promote or demote any political party or groups or candidate and not to misuse any state resources. It also reminded that two gazettes issued in January last year to the heads of state institutions on the misuse of and recruitment/promotion/transfer in state institutions.
-
-...
-
-[Data](articles/49acb869.json)
-
-[Extended Data](ext_articles/49acb869.ext.json)
 
 ---

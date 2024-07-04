@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 17:19:59**
+As of **2024-07-04 17:35:26**
 
 ## Newspaper Stats
 
-*Scraped **33,668** Articles*
+*Scraped **33,680** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ colombotelegraphcom | 310
 bbccomsinhala | 332
 newsfirstlk | 363
 islandlk | 1,880
-economynextcom | 1,972
+economynextcom | 1,982
 dailyftlk | 2,084
 adalk | 3,010
-adaderanalk | 3,843
-tamilmirrorlk | 3,981
+adaderanalk | 3,844
+tamilmirrorlk | 3,982
 dailymirrorlk | 4,733
 virakesarilk | 5,269
 adaderanasinhalalk | 5,583
@@ -26,11 +26,103 @@ adaderanasinhalalk | 5,583
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,668 (100.0%) of 33,668 articles have been extended.
+33,668 (100.0%) of 33,680 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### 18-hour water cut in several areas
+
+*2024-07-04 17:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100292/18-hour-water-cut-in-several-areas) · `en`
+
+The National Water Supply and Drainage Board (NWS&DB) announced that an 18-hour water cut will be imposed from 9.00 p.m. today (4) in several areas due to urgent repairs on a transmission pipeline.
+
+Accordingly, the Water Board said that the water supply to Kolonnawa Urban Council and Kaduwela Municipal Council areas and the Kotikawatta-Mulleriyawa Pradeshiya Sabha area will be interrupted from 9.00 p.m. today to 3.00 p.m. tomorrow (05).
+
+The water supply to the aforementioned areas is being temporarily suspended due to urgent repairs on a leak in the transmission pipeline from the Ambatale Water Treatment Plant, according to the NWS&DB.
+
+◼️
+
+[Data](articles/bf3d6393.json)
+
+---
+
+### Sri Lanka Customs strike will affect SMEs mostly: JAAFSL, SLSC
+
+*2024-07-04 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-strike-will-affect-smes-mostly-jaafsl-slsc-170931/) · `en`
+
+ECONOMYNEXT – The Sri Lanka Shippers’ Council (SLSC) and the apparel sector have said the Sri Lanka Customs strike, which has now been called off, would have an impact on the SME sector.
+
+“The cargo that is stuck is mainly LCL cargo [less than a container load] and that will affect the SMEs,” Secretary General of the Joint Apparel Association Forum Sri Lanka (JAAFSL) Yohan Lawrence told reporters on Thursday.
+
+“The factories that get hit first are the small SME factories,” he said speaking on the impact of the Sri Lanka Customs strike on local consumers, at a forum organised by the Ceylon Chamber of Commerce in Colombo.
+
+The Sri Lanka Customs strike was scheduled to happen on July 4 and 5, with more than 900 Customs staff prepared to call in sick.
+
+However, the strike by Customs trade unions was called off on Thursday following discussions with State Minister of Finance Ranjith Siyambalapitiya.
+
+...
+
+[Data](articles/d63ce3de.json)
+
+---
+
+### 3 பொருட்களின் விலைகள் குறைப்பு
+
+*2024-07-04 17:07:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-பொருட்களின்-விலைகள்-குறைப்பு/175-339870) · `ta`
+
+மூன்று அத்தியாவசிய பொருட்களின் விலைகளை குறைத்துள்ளதாகவும், புதிய விலைகள் வியாழக்கிழமை (4) முதல் அமுலுக்கு வரும் எனவும் சதொச அறிவித்துள்ளது.
+
+இதன்படி, சீனாவில் இருந்து இறக்குமதி செய்யப்படும் உருளைக்கிழங்கின் ஒரு கிலோ கிராம் 15 ரூபாவினாலும், சிவப்பு பருப்பு கிலோ கிராம் ஒன்றின் விலை 14 ரூபாவினாலும், ஒரு கிலோ கிராம் வெள்ளை சீனியின் விலை 6 ரூபாவினாலும் குறைக்கப்பட்டுள்ளது.
+
+ஒரு கிலோ கிராம் உருளைக்கிழங்கின் புதிய விலை 215 ரூபாவாகவும், சிவப்பு பருப்பு ஒரு கிலோ கிராமின் புதிய விலை 282 ரூபாவாகவும், ஒரு கிலோ கிராம் வெள்ளை சீனியின் புதிய விலை 269 ரூபாவாகும்.
+
+◼️
+
+[Data](articles/59f977fd.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 304.60/80 to US dollar
+
+*2024-07-04 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-304-60-80-to-us-dollar-170927/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 304.60/80 to the US dollar on Thursday, down from 304.20/50 to the US dollar on Wednesday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed stable at 10.70/85 percent.
+
+A bond maturing on 15.09.2029 closed at 11.95/12.05 percent, down from 12.00/10 percent.
+
+A bond maturing on 01.10.2032 closed at 12.15/25 percent. (Colombo/Jul4/2024)
+
+◼️
+
+[Data](articles/39114a54.json)
+
+---
+
+### Sri Lanka stocks close down, foreign inflows account for 50-pct of turnover
+
+*2024-07-04 16:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-foreign-inflows-account-for-50-pct-of-turnover-170914/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
+
+The broader All Share Index closed down 0.92 percent, or 110.55 points, at 11,926; while the more liquid S&P SL20 Index closed down 1.08 percent, or 38.39 points, at 3,505.
+
+Turnover was 1.9 million. A large part of this was from foreign buying. There was a net foreign inflow of 972 million.
+
+“Foreign interest in stable companies is continuing,” Softlogic Stockbrokers said. “With the positive news from the IMF, OCC and the ISBs, and a possible rating revision, we see that foreign investors are taking active positions on companies with solid fundamentals.”
+
+Foreign interest was especially seen on John Keells Holdings Plc Rs679mn (closed flat at 203.00).
+
+Sampath Bank Plc, one of five crossings in the day, also saw foreign buying interest. The share closed down at 78.00.
+
+...
+
+[Data](articles/3321bff9.json)
+
+---
 
 ### Stay order issued on Gazette increasing daily wage of plantation workers
 
@@ -210,6 +302,26 @@ Due to this rain, inferior areas have been flooded in water.
 
 ---
 
+### Sri Lanka’s Cable Solutions IPO offers 80mn voting shares
+
+*2024-07-04 15:35:00* · [`economynextcom`](https://economynext.com/sri-lankas-cable-solutions-ipo-offers-80mn-voting-shares-170900/) · `en`
+
+ECONOMYNEXT – Sri Lanka cable manufacturer Cable Solutions Limited will make an initial public offering of ordinary voting shares to be listed on the Diri Savi Board of the Colombo Stock Exchange.
+
+The subsidiary of the ACL Group will offer 80,786,600 ordinary voting shares at 7.50 rupees a share, through a combination of an offer for subscription of 14,666,600 new ordinary voting shares and an offer for sale of 66,120,000 existing ordinary voting shares.
+
+Cable Solutions aims to raise 109,999,500 rupees from the public through a subscription offer for 14,666,600 shares, the company said in a statement.
+
+81.8 percent of the proceeds will be allocated for capital expenditure for new machinery and production line upgrades.
+
+18.2 percent of the funds will be used to strengthen its working capital position.
+
+...
+
+[Data](articles/e2d63ce8.json)
+
+---
+
 ### State Bank Employees Demonstration in Nuwara Eliya
 
 *2024-07-04 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187675) · `ta`
@@ -231,6 +343,22 @@ The protesters said that if the government listens to the demands of bank employ
 [Data](articles/5a5f4a36.json)
 
 [Extended Data](ext_articles/5a5f4a36.ext.json)
+
+---
+
+### Sri Lanka opposition parties maintained notable lead in opinion survey for May
+
+*2024-07-04 15:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-parties-maintained-notable-lead-in-opinion-survey-for-may-170899/) · `en`
+
+ECONOMYNEXT — Opposition parties the Samagi Jana Balawegaya (SJB) and National People’s Power (NPP) maintained a strong lead in a Sri Lanka parliamentary election voting-intent poll for May conducted by an independent research institute.
+
+The Sri Lanka Opinion Tracker Survey (SLOTS) carried out by the Institute for Health Policy (IHP) found little changes in voting intention amongst all adults surveyed in May 2024. Support for the SJB remained unchanged at 34 percent while support for the NPP dipped by 1 percentage point to 34 percent as well.
+
+President Ranil Wickremesinghe’s United National Party (UNP)’s position also remained unchanged at 6 percent, somewhat behind the ruling Sri Lanka Podujana Peramuna (SLPP) which enjoyed 13 percent support (dropping just one point) in May.
+
+...
+
+[Data](articles/ae698b05.json)
 
 ---
 
@@ -448,6 +576,24 @@ Mr. Rosha Kumara had shot dead on the morning of February 26 and fled the motorc
 
 ---
 
+### EXPLAINER: FR petition to prevent calling presidential poll in Sri Lanka
+
+*2024-07-04 13:38:00* · [`economynextcom`](https://economynext.com/explainer-fr-petition-to-prevent-calling-presidential-poll-in-sri-lanka-170864/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has said that neither he nor his lawyers were consulted when a businessman on Wednesday filed a fundamental rights (FR) petition in the Supreme Court asking for an interpretation on the tenure of the presidency as per the island nation’s constitution.
+
+Though the FR case is advantageous for President Wickremesinghe to extend his tenure by another year, he quickly dissociated from the Supreme Court filing, citing that he “is firmly of the opinion that the term of the President is 5 years, and the Election Commission is correct in taking steps to hold the Presidential Election in 2024”.
+
+However, the move has raised some concerns amid uncertainty over the presidential poll. Here are some questions (Q) and answers (A) about the FR petition and what it means in Sri Lanka’s current context:
+
+Q: Who will benefit if the Supreme Court rules a stay order?
+
+...
+
+[Data](articles/efd3692c.json)
+
+---
+
 ### Woman death in Jaffna
 
 *2024-07-04 13:36:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-குளவி-கொட்டியதில்-பெண்-மரணம்/175-339863) · `ta`
@@ -467,6 +613,42 @@ The woman was wasps when she was cutting palm tiles in a land near her home.
 [Data](articles/44b00d08.json)
 
 [Extended Data](ext_articles/44b00d08.ext.json)
+
+---
+
+### Wickremesinghe disavows Supreme Court case seeking verdict on Sri Lanka president’s term
+
+*2024-07-04 13:35:00* · [`economynextcom`](https://economynext.com/wickremesinghe-disavows-supreme-court-case-seeking-verdict-on-sri-lanka-presidents-term-170865/) · `en`
+
+ECONOMYNEXT — Sri Lanka President Ranil Wickremesinghe has said he believes the president’s term is five years, expressing his support for holding the presidential election in 2024 and disavowing a case filed in the Supreme Court seeking a verdict stating that a president’s term is six years.
+
+“It has come to my attention that Chamindra Dayan Lenawa has filed an application in the Supreme Court, arguing that Article 30(2) should not be considered amended by Section 3 of the 19th Amendment. He requests the Court to declare that the President’s term is six years and to issue an interim order stopping the Election Commission from conducting the Presidential Election in 2024 until a decision is made. Lenawa did not consult me or my lawyers before filing,” Wickremesinghe said in a tweet Thursday July 04 afternoon.
+
+“I firmly believe that the President’s term is five years, and I support the Election Commission’s steps to hold the Presidential Election in 2024,” he said.
+
+...
+
+[Data](articles/6a709adf.json)
+
+---
+
+### China minister discusses cooperation with Customs, increasing exports
+
+*2024-07-04 13:34:00* · [`economynextcom`](https://economynext.com/china-minister-discusses-cooperation-with-customs-increasing-exports-170850/) · `en`
+
+ECONOMYNEXT – China’s Vice Minister of General Administration of Customs Wang Lingjun has met Sri Lankan officials to discuss cooperation with Sri Lanka Customs and the export of agricultural crops.
+
+“We noted China’s readiness to cooperate with the Sri Lanka Customs Department in developing enhanced security and cooperation measures,” State Minister of Finance Shehan Semasinghe said on X (twitter) after meeting Lingjun at the Sri Lanka Customs Headquarters in Colombo.
+
+Lingjun also met Minister of Agriculture and Plantation Industries Mahinda Amaraweera to discuss expanding exports of tea, coconut, pineapple and spices, as well as fisheries products.
+
+The Chinese minister “stated that the Chinese government is ready to further expand the existing opportunities for importing agricultural crops produced in Sri Lanka to the Chinese market”, Amaraweera said on Meta (Facebook).
+
+Amaraweera said Sri Lanka’s agricultural exports to China in 2023 was 3.3 billion dollars.
+
+...
+
+[Data](articles/85be4abf.json)
 
 ---
 
@@ -519,6 +701,20 @@ Fellows have not been damaged in danger. The Etimala police are conducting furth
 [Data](articles/aed5bc1d.json)
 
 [Extended Data](ext_articles/aed5bc1d.ext.json)
+
+---
+
+### Support for Sri Lanka president grew in May but remained far behind rivals: poll
+
+*2024-07-04 13:12:00* · [`economynextcom`](https://economynext.com/support-for-sri-lanka-president-grew-in-may-but-remained-far-behind-rivals-poll-170849/) · `en`
+
+ECONOMYNEXT — Support for President Ranil Wickremesinghe increased to 15 percent in May, though support for his two main rivals remained significantly higher at just under 40 percent for each in an independent voting-intent survey.
+
+The Sri Lanka Opinion Tracker Survey (SLOTS) carried out by the Institute for Health Policy (IHP) found that 39 percent of the adults surveyed had expressed support for leftist National People’s Power (NPP) leader Anura Kumara Dissanayake at the upcoming presidential election. This was a drop of two percentage points from April. Support for opposition leader Sajith Premadasa remained unchanged at 38 percent. President Wickremesinghe gained three percentage points, with support for him increasing to 15 percent. Meanwhile, support for a generic candidate from the ruling Sri Lanka Podujana Peramuna (SLPP) was found to be 7 percent.
+
+...
+
+[Data](articles/cffaeaef.json)
 
 ---
 
@@ -793,6 +989,24 @@ However, surveys show many voters simply want change, rather than fervently back
 [Data](articles/254db8d2.json)
 
 [Extended Data](ext_articles/254db8d2.ext.json)
+
+---
+
+### Sri Lanka bondholder deal, haircuts and implications examined
+
+*2024-07-04 11:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-bondholder-deal-haircuts-and-implications-examined-170833/) · `en`
+
+ECONOMYNEXT – Sri Lanka has reached a deal with bondholders involving hair cuts of 28 percent on bonds and 11 percent on interest arrears with the principal on some securities called macro-linked bonds to 15 percent if GDP grows at higher speeds.
+
+Sri Lanka could exchange 12.550 billion dollars of bonds into new instruments with a hair cut of 28 percent or 9.036 billion dollars maturing from 2029 to 2038. Two bond tranches maturing in 2034 and 2035 would be standard bonds with a coupon. Some of its could be made into bonds where improving governance would lead to a fall in coupons.
+
+Such bonds called Environmental Social Governance (ESG) have been issued in different contexts by governments in the past. Sri Lanka’s Verete Research the proposal to bondholders.
+
+Related Sri Lanka bondholders agree on 28-pct hair cut; GDP-gains capped at 15-pct
+
+...
+
+[Data](articles/def75ba0.json)
 
 ---
 
@@ -2051,251 +2265,5 @@ The Commission is also awaiting the outcome of an investigation by the Education
 [Data](articles/8bb09636.json)
 
 [Extended Data](ext_articles/8bb09636.ext.json)
-
----
-
-### EDB partners with Swiss SECO to launch GTEX2 to boost apparel industry
-
-*2024-07-04 03:35:20* · [`dailyftlk`](https://www.ft.lk/business/EDB-partners-with-Swiss-SECO-to-launch-GTEX2-to-boost-apparel-industry/34-763833) · `en`
-
-The Export Development Board (EDB) yesterday entered into a strategic agreement with the State Secretariat for Economic Affairs of Switzerland (SECO) to implement the second phase of the Global Program on Textile and Clothing (GTEX2), aimed at enhancing the apparel sector.
-
-The five-year program, running from 2024 to 2027, is funded by the Swiss Government and organised in collaboration with the Swedish International Development Cooperation Agency (SIDCA) and the International Trade Centre (ITC), which provides technical assistance. A National Project Coordinator (NPC) has been appointed in Sri Lanka to oversee the project’s implementation.
-
-...
-
-[Data](articles/fe7440ed.json)
-
-[Extended Data](ext_articles/fe7440ed.ext.json)
-
----
-
-### Amunugama highlights apparel industry challenges amid opportunities for growth
-
-*2024-07-04 03:33:23* · [`dailyftlk`](https://www.ft.lk/business/Amunugama-highlights-apparel-industry-challenges-amid-opportunities-for-growth/34-763832) · `en`
-
-State Minister of Investment Promotion Dilum Amunugama yesterday said although Sri Lanka’s apparel and textile industry stands as a robust and ethical sector poised to meet global demands, it must navigate a complex landscape of challenges and opportunities.
-
-Speaking at the launch event of the second phase of the Global Program on Textile and Clothing (GTEX2), he outlined that strategic support and investment are essential to leverage the sector’s strengths and drive sustainable growth.
-
-He identified several significant challenges hindering the industry’s growth, including the adoption of new technologies such as automation and data analytics, shifting consumer demands towards just-in-time production and competition for labour with other sectors.
-
-...
-
-[Data](articles/9d10d9ca.json)
-
-[Extended Data](ext_articles/9d10d9ca.ext.json)
-
----
-
-### Institute of Management of Sri Lanka holds AGM
-
-*2024-07-04 03:31:19* · [`dailyftlk`](https://www.ft.lk/business/Institute-of-Management-of-Sri-Lanka-holds-AGM/34-763831) · `en`
-
-Re-elects Senior Prof. Sarath S. Kodithuwakku as President and bestows Honorary Fellowships to the UGC Chairman and two Vice Chancellors
-
-University of Colombo Vice Chancellor Senior Prof H.D. Karunarathna FIM (SL)
-
-The Institute of Management of Sri Lanka (IMSL), the apex professional body of management in the country, recently held its annual general meeting, marking a significant event in the Sri Lankan management community.
-
-Incorporated by Act of Parliament No. 67 on 17 December 1988. IMSL is the sole management organisation in Sri Lanka that is recognised as a full Sri Lankan member of the Asian Management Organisations (AAMO).
-
-...
-
-[Data](articles/bdc5a703.json)
-
-[Extended Data](ext_articles/bdc5a703.ext.json)
-
----
-
-### Sri Lanka bondholders agree on 28-pct hair cut; GDP-gains capped at 15-pct
-
-*2024-07-04 03:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-bondholders-agree-on-28-pct-hair-cut-gdp-gains-capped-at-15-pct-170753/) · `en`
-
-ECONOMYNEXT – Sri Lanka and sovereign bond holders have reached a deal to exchange 14.43 billion dollars in defaulted bonds and overdue interest for new instruments linked to future gross domestic product growth, governance and also standard fixed interest bonds.
-
-Bondholders have also agreed to an 11 percent haircut on 1.889 billion dollars of past due interest, compared to an earlier proposal, according to a London Stock Exchange filing.
-
-Sri Lanka will exchange 12.55 billion dollars for bonds with an initial hair cut of 28 percent, which include bonds with a state contingent factor (macro-linked bonds) involving future dollar gross domestic product.
-
-The deal will have to be confirmed by the Secretariat of Sri Lanka’s Official Creditor Committee to ensure comparability with their restructure terms and IMF staff on compliance with a debt sustainability analysis, the government said.
-
-...
-
-[Data](articles/4b0269f8.json)
-
-[Extended Data](ext_articles/4b0269f8.ext.json)
-
----
-
-### BoardPAC awarded carbon neutral certification for second consecutive year
-
-*2024-07-04 03:23:47* · [`dailyftlk`](https://www.ft.lk/business/BoardPAC-awarded-carbon-neutral-certification-for-second-consecutive-year/34-763830) · `en`
-
-From left: SLCF Acting Chief Executive Officer Harshani Abeyrathna, BoardPAC Operations Manager Thusitha Jayanath, Former Environment Ministry Secretary and SLCF Chairman Dr. Anil Jasinghe, BoardPAC Operations and Systems Vice President Buddhika Abeygooneratne, BoardPAC Human Resources Director Sudeshi Salwathura, SLCF Verification Executive Wageesha Alankara, and SLCF Verification Executive Dilini Liyanage
-
-BoardPAC has proudly earned the Carbon Neutral Certificate for 2022 from the Sri Lanka Climate Fund (SLCF), an organisation operating under the Environment Ministry committed to fostering a low-carbon business economy and promoting sustainable lifestyle choices.
-
-This remarkable achievement underscores BoardPAC’s dedication to environmental responsibility and is a key milestone in its environmental, social, and governance (ESG) journey.
-
-...
-
-[Data](articles/4a78ebbf.json)
-
-[Extended Data](ext_articles/4a78ebbf.ext.json)
-
----
-
-### Five reasons why Ranil must be superseded in 100 days
-
-*2024-07-04 02:50:07* · [`dailyftlk`](https://www.ft.lk/columns/Five-reasons-why-Ranil-must-be-superseded-in-100-days/4-763821) · `en`
-
-Whatever option you pick as your choice for President, the process of deliberation leading to that choice must entail the initial methodological step of ruling out.
-
-I argue that the candidate we should rule out as a preliminary step is the unelected incumbent President Ranil Wickremesinghe. As a political scientist I shall give five fundamental reasons why. But before that, here’s a personal note.
-
-I’m in my 60s. We are governed by someone in his 70s. Most of our leaders have been in their 60s or 70s. For the first time, those who seek to govern us are in their 50s. My gut-instinct is to help take leadership from the clutches of those a decade older than me and transfer it to the generation a decade younger than me. That’s political evolution, social progress.
-
-President Ranil Wickremesinghe claims that it is his economic diligence that has prevented the scenes from Nairobi, Kenya— dead bodies in the streets and parts of the Parliament ablaze-- from being re-enacted in Colombo.
-
-...
-
-[Data](articles/3e5be030.json)
-
-[Extended Data](ext_articles/3e5be030.ext.json)
-
----
-
-### Two tablets of Sri Lanka joined the World Serpent catalog
-
-*2024-07-04 02:10:03* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c9wvk3we41do) · `si`
-
-A Sri Lankan research team added two snake species, Rhinophis martin and Rhinophis dinnarzarde, to the World Snake Catalogue. Found in the Rakwana mountains and western slopes, these species are part of the EuroPeltidae family, native to India and Sri Lanka. Named after local figures, these snakes live underground and are threatened by habitat loss due to climate change, deforestation, and urbanization.
-
-🟩
-
-A Sri Lankan research team has been introduced to introduce another two snake species in World Snake Nayaka.
-
-Mendis Wickremasinghe told the Sinhalese, who joined Sri Lanka to the World Sergeter catalog from the World Sergeter catalog from Rhinophis Martin and Rhinophis Dinarzarda.
-
-The Rhinophishis Martin species have been found in the Rakwana mountain range and Rhinofis Dinarceard has been identified in the western slopes of the western slopes.
-
-The number of cases have increased to 20, with the discovery of this discovery.
-
-Do the geckoes found in the dry zone of Sri Lanka and the two species of the world endanth?
-
-"Both of these specials endanger to Lankanda. Nothing is pooling. They live under the earth. A very sensitive animal. 'Details of snake species, "said Mendis Wickremasinghe.
-
-He said that rhinophis belongs to EuroPeltidae caste and that they are entitled to India and to Sri Lanka.
-
-...
-
-[Data](articles/b15a6ab4.json)
-
-[Extended Data](ext_articles/b15a6ab4.ext.json)
-
----
-
-### Recovery of cannabis and drug pills in Point Pedro!
-
-*2024-07-04 02:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/187630) · `ta`
-
-In Point Pedro, 1kg of Kerala cannabis, 290 drugs, and a scale were seized from the Puloli forest area. No arrests have been made yet; police continue investigating.
-
-🟩
-
-Based on the information received by the Army Intelligence Unit on Wednesday, the drug was recovered in the Point Pedro - Puloli forest area.
-
-One kilogram of Kerala cannabis, 290 drugs and a scales were recovered.
-
-However no suspect has been arrested. Point Pedro Police are conducting further investigations.
-
-◼️
-
-[Data](articles/57703850.json)
-
-[Extended Data](ext_articles/57703850.ext.json)
-
----
-
-### Governor of the Northern Province to close women and children's homes
-
-*2024-07-04 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/187629) · `ta`
-
-The Governor of the Northern Province has ordered the closure of two women and children's homes in the Tellippalai area due to complaints about CCRV cameras and an unregistered home. The Governor has directed the Department of Probation and Child Maintenance to close these facilities under his supervision. Additionally, the Commissioner of this department is required to submit a report within a week on all children's homes in the province, advising the closure of any unregistered ones. This action aims to ensure the safety and well-being of children in the region.
-
-🟩
-
-The Governor of the Northern Province has ordered the closure of women and children's homes in the Tellippalai area in Jaffna.
-
-The Northern Governor has issued a directive to the Commissioner of the Department of Probation and Child Maintenance to immediately close the two houses in accordance with the Governor's direct supervision of the Tellippalai area.
-
-A complaint was received about CCRV cameras and an unregistered children's home. The Governor of the Tellippalai Division. According to these reports, the Commissioner of the Department of Probation and Child Care has been issued to the closure of the two houses operating in Tellippalai area and the next steps on the subject.
-
-Meanwhile, the Commissioner of the Department of Probation and Child Care has been issued to submit a report within a week and submit a report on children's homes within the Northern Province.. It is also advised to close all children's homes that are not registered.
-
-...
-
-[Data](articles/69cd83fd.json)
-
-[Extended Data](ext_articles/69cd83fd.ext.json)
-
----
-
-### Woman dies in Jaffna
-
-*2024-07-04 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/187628) · `ta`
-
-Gunasekaram Varadasurmani, a 67-year-old mother of three from Jaffna, died at Tellippalai Hospital after being attacked with a machete near her home. She succumbed to her injuries without receiving treatment. An investigation into her death is ongoing.
-
-🟩
-
-A woman who was targeted for Kalavikotu on Tuesday 2nd died at Tellippalai Hospital on Wednesday (03). The mother of three children, Gunasekaram Varadasurmani (age 67), from Chettikurichi Pandathara area, died.
-
-The woman went into the land near her house yesterday and took the palm of the palm.. He was admitted to the hospital for further treatment.
-
-He died today without treatment. Death Investigation Officer. Jayapalasingham carried out. The body was handed over to relatives after anatomical examination.
-
-◼️
-
-[Data](articles/4729d289.json)
-
-[Extended Data](ext_articles/4729d289.ext.json)
-
----
-
-### People’s Bank conducts ‘People’s Spark’ event to commemorate World MSME Day
-
-*2024-07-04 01:55:33* · [`dailyftlk`](https://www.ft.lk/business/People-s-Bank-conducts-People-s-Spark-event-to-commemorate-World-MSME-Day/34-763816) · `en`
-
-People’s Bank Chairman Sujeewa Rajapakse presenting a People’s Spark loan. CEO/GM Clive Fonseka and Deputy General Manager-Enterprise Banking Wickrama Narayana look on
-
-People’s Bank Celebrated World Micro, Small, and Medium-sized Enterprises Day by launching the ‘People’s Spark’ loan scheme at a special event held at the People’s Bank Staff Training College auditorium in Colombo 5 recently.
-
-...
-
-[Data](articles/999f7b9c.json)
-
-[Extended Data](ext_articles/999f7b9c.ext.json)
-
----
-
-### British Council presents ‘Youth-Led Green and Inclusive Businesses’ at ‘Pathways to Sustainability: Entrepreneurs’ Showcase’ event
-
-*2024-07-04 01:47:14* · [`dailyftlk`](https://www.ft.lk/business/British-Council-presents-Youth-Led-Green-and-Inclusive-Businesses-at-Pathways-to-Sustainability-Entrepreneurs-Showcase-event/34-763815) · `en`
-
-A discussion on the role of youth to support sustainable and inclusive business strategy was moderated by Centre for Living Sustainability, University of Highlands and Islands, Scotland Dr. Lalith Welamedage and featured speakers veteran banker and impact investor Chandula Abeywickrema , Achala Samaradivakara (Good Market), Ministry of Industries Chaminda Pathiraja and Prestige Ceylon Export Ventures Ltd. Yasas Nanayakkara
-
-Sustainable Development Council Sri Lanka Director General Chamindry Saparamadu made the keynote address.
-
-The British Council Sri Lanka celebrated the successful pilot phase of the ‘Youth-Led Green and Inclusive Businesses’ project to commemorate the 2024 International Micro, Small and Medium-sized Enterprises (MSMEs) day.
-
-The ‘Youth-Led Green and Inclusive Businesses’ project equipped young entrepreneurs with knowledge, skills, resources, and networks, and aimed to transform existing businesses into greener and more inclusive models.
-
-...
-
-[Data](articles/2ed1d158.json)
-
-[Extended Data](ext_articles/2ed1d158.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 23:04:50**
+As of **2024-07-04 23:19:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,711 (100.0%) of 33,712 articles have been extended.
+33,712 (100.0%) of 33,712 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -100,17 +100,25 @@ State Minister Indika Anuruddha conveyed these updates during a media briefing a
 
 ---
 
-### இலங்கை - ஜப்பானுக்கு இடையில் பொருளாதாரத்தொடர்புகளை விரிவுபடுத்துதல்; குறித்து உயர்மட்டக்குழுவினருடன் வெளிவிவகார அமைச்சர் அலி சப்ரி பேச்சுவார்த்தை
+### Expanding economic relations between Sri Lanka and Japan;Foreign Minister Ali Sabri talks with high -level committee
 
 *2024-07-04 21:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/187704) · `ta`
 
-ஜப்பானுக்கு உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டிருக்கும் வெளிவிவகார அமைச்சர் அலி சப்ரி, இருநாடுகளுக்கும் இடையிலான பொருளாதாரத் தொடர்புகளை மேலும் வலுப்படுத்துவது குறித்தும், இலங்கையில் ஜப்பானின் புதிய முதலீடுகளை ஊக்குவிப்பது குறித்தும் பல்வேறு உயர்மட்டப்பிரதிநிதிகள் குழுவினருடன் பரந்துபட்ட பேச்சுவார்த்தைகளை முன்னெடுத்துள்ளார்.
+Sri Lanka's Foreign Minister Ali Sabri, on a visit to Japan, discussed enhancing economic ties and attracting Japanese investments. Meetings with Japanese officials focused on reviving suspended development projects and exploring new investment opportunities in Sri Lanka.
 
-ஜப்பானிய வெளிவிவகார அமைச்சரின் அழைப்பின்பேரில் வெளிவிவகார அமைச்சர் அலி சப்ரி இம்மாதம் 1 - 7 ஆம் திகதி வரை ஜப்பானுக்கு உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டுள்ளார். இவ்விஜயத்தின்போது ஜப்பானிய வெளிவிவகார அமைச்சர் யொகோ கமிகவா, சிரேஷ்ட அமைச்சரவை செயலாளர் ஹயாஷி யொஷிமஸா, நீதியமைச்சர் யுச்சி கொய்ஸுமி ஆகியோர் உள்ளடங்கலாக பல்வேறு உயர்மட்டத்தரப்பினரைச் சந்தித்து கலந்துரையாடல்களை முன்னெடுத்திருந்தார்.
+🟩
+
+External Affairs Minister Ali Sabri, who has made an official visit to Japan, has launched a wide range of talks with various top governments teams on further strengthening economic ties between the two countries and promoting Japan's new investments in Sri Lanka.
+
+Foreign Minister Ali Sabri made an official visit to Japan from 1st 7th of this month at the invitation of the Japanese Foreign Minister. During the issue, Japanese Foreign Minister Yogo Kamikawa, Senior Cabinet Secretary Hayashi Yoshimasa and Justice Minister Yuchi Koisumi met with various top levels.
+
+As a result, a meeting between the Senior Administrative Officers of the Japanese International Cooperation Agency (Zaqa), which is making major investments in Sri Lanka, was held yesterday.. During the meeting, it was extensively discussed in detail on the immediate recovery of the development projects suspended in the past.
 
 ...
 
 [Data](articles/7ece1a97.json)
+
+[Extended Data](ext_articles/7ece1a97.ext.json)
 
 ---
 

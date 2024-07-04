@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 12:19:57**
+As of **2024-07-04 12:35:14**
 
 ## Newspaper Stats
 
-*Scraped **33,627** Articles*
+*Scraped **33,631** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,972
 dailyftlk | 2,084
-adalk | 3,003
-adaderanalk | 3,836
-tamilmirrorlk | 3,977
+adalk | 3,004
+adaderanalk | 3,837
+tamilmirrorlk | 3,979
 dailymirrorlk | 4,733
 virakesarilk | 5,255
 adaderanasinhalalk | 5,575
@@ -26,11 +26,45 @@ adaderanasinhalalk | 5,575
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,625 (100.0%) of 33,627 articles have been extended.
+33,627 (100.0%) of 33,631 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### Custom officers launch ‘sick leave’ trade union action
+
+*2024-07-04 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100285/-custom-officers-launch-sick-leave-trade-union-action) · `en`
+
+The Customs Officers’ Union says they have decided to engage in trade union action by reporting ‘sick leave’ today (3) and tomorrow (4), in protest over the lack of a satisfactory response to their demands from the authorities.
+
+A member of the union’s executive committee, Tharaka Kumarasinghe stated that the union’s members are engaging in this trade union action to protest against the authorities’ arbitrary decision to introduce the Sri Lanka Revenue Authority (SLRA) Bill and make amendments to various sections of the Customs Ordinance.
+
+He added that customs officials have been engaging in a “work-to-rule” trade union action for the past two days because discussions with authorities on several occasions did not provide any necessary solutions to their demands.
+
+Therefore, Kumarasinghe further stated that as they did not receive necessary responses over their demands, the Customs Officers’ Union decided to engage in trade union action by reporting ‘sick’ for two days.
+
+...
+
+[Data](articles/6885338a.json)
+
+---
+
+### ஸாஹிராவில் 70 மாணவிகளின் பெறுபேறுகள் வெளியாகின
+
+*2024-07-04 12:01:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸாஹிராவில்-70-மாணவிகளின்-பெறுபேறுகள்-வெளியாகின/175-339858) · `ta`
+
+இடைநிறுத்தி வைக்கப்பட்டிருந்த, திருகோணமலை ஸாஹிரா கல்லூரி மாணவிகள் 70 பேரின்,க.பொ.த.உயர்தரப்பரீட்சைப் பெறுபேறுகள் புதன்கிழமை (3) வெளியிடப்பட்டது.
+
+திருகோணமலை ஸாஹிரா கல்லூரியின் 70 இற்கும் மேற்பட்ட மாணவிகளின் உயர்தர பெறுபேறுகள் பரீட்சைகள் திணைக்களத்தால் இடைநிறுத்தப்பட்டிருந்தது.இது குறித்து கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானிடம் மாணவர்கள் கடந்த மாதம் முறைப்பாடு செய்திருந்தனர்.
+
+மாணவர்களின் கோரிக்கைகளை ஏற்றுக்கொண்ட ஆளுநர் செந்தில் தொண்டமான், அவர்களின் பிரச்சினைகள் குறித்து பரீட்சைகள் திணைக்களத்துடன் கலந்துரையாடல் மேற்கொண்டு அவர்களுடைய பெறுபேறுகளை வெளியிட தேவையான நடவடிக்கைகளை மேற்கொண்டிருந்தார்..
+
+◼️
+
+[Data](articles/55818570.json)
+
+---
 
 ### Labour predicted to rout Sunak’s Conservatives as Britain goes to polls
 
@@ -47,6 +81,8 @@ However, surveys show many voters simply want change, rather than fervently back
 ...
 
 [Data](articles/254db8d2.json)
+
+[Extended Data](ext_articles/254db8d2.ext.json)
 
 ---
 
@@ -74,6 +110,18 @@ Investigators also found a CCTV footage in a motorcycle with a motorcycle.
 
 ---
 
+### பாரிய விபத்தில் 35 பேர் படுகாயம்
+
+*2024-07-04 11:44:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரிய-விபத்தில்-35-பேர்-படுகாயம்/175-339857) · `ta`
+
+சிலாபம் டிப்போவுக்குச் சொந்தமான  பஸ்ஸும், சீமெந்து ஏற்றிச் சென்ற லொறியும் நேருக்கு நேர் மோதிய விபத்தில் 35 பேர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக மாதம்பை பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/5aeb2b78.json)
+
+---
+
 ### The Attorney General's opposition to Hirunika's request?
 
 *2024-07-04 11:38:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிகாவின்-கோரிக்கைக்கு-சட்டமா-அதிபர்-எதிர்ப்பு/175-339856) · `ta`
@@ -98,23 +146,29 @@ Accordingly, the High Court judge, who allowed the Attorney General to submit ob
 
 ---
 
-### රියදුරුගේ දස්කමින් මගී ජීවිත රැසක් බේරෙයි
+### Driver's grief survivors survive
 
 *2024-07-04 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198476) · `si`
 
-ඇල්ල - වැල්ලවාය ප්‍රධාන මාර්ගයේ රාවණා ඇල්ල ආසන්න ප්‍රදේශයේ දී සුඛෝපභෝගි බස් රථයක් මාර්ගයේ අසල ඇති කන්දක ගැටීමෙන් අනතුරක් සිදු වී තිබේ.
+In a tragic accident on the Ella-Wellawaya road, two luxury buses collided, causing one to brake and stop on a precipice. The driver recognized the imminent danger and parked the bus safely, preventing it from falling off the cliff. The other bus continued down the road. The incident resulted in injuries to the bus driver, who was taken to the Badulla hospital. The Ella Police Station is investigating the cause of the crash.
 
-අද (04) අලුයම බදුල්ල සිට මාකුඹුර දක්වා මගීන් සමග ධාවනය වෙමින් තිබූ බස් රථය අධික වංගු සහ ප්‍රපාතයක් ආසන්නයේ දී එක් වරම තිරිංග අක්‍රීය වී ඇත.
+🟩
 
-පසුව සිදුවන්නට ගිය විශාල අනතුර ගැන වටහාගත් බස් රථයේ රියදුරු විසින් බස් රථය කන්දේ හැපීමට සලස්වා නවතා ගෙන තිබේ.
+A luxury bus collided with a luxury bus in the Ravana Fallen on the Ella-Wellawaya main road.
 
-එසේ සිදු නොකලානම් බස් රථය අධික ප්‍රපාතයකට පෙරළී ගොස් විශාල අනතුරක් සිදුවීමට ඉඩ තිබිණි.
+The bus carrying with passengers from Badulla to Makumbura today (04) has been brake at all over the precipice.
 
-අනතුර හේතුවෙන් බස් රථයේ රියදුරු තුවාල ලබා බදුල්ල රෝහලට ඇතුළත් කර ඇති අතර, අනතුර සම්බන්ධයෙන් ඇල්ල පොලිස් ස්ථානයේ නිලධාරීන් විසින් ඉදිරි විමර්ශන සිදුකරයි.
+The driver of the bus has been parked by the driver of the bus, which understood the largest danger.
+
+Otherwise, the bus could have fell into a great danger.
+
+Due to the accident, the bus driver was injured and rushed to the Badulla hospital and the Ella Police Station is conducting further investigations into the accident.
 
 ◼️
 
 [Data](articles/51229e23.json)
+
+[Extended Data](ext_articles/51229e23.ext.json)
 
 ---
 
@@ -295,6 +349,22 @@ In equities, Colombo’s All Share Price Index opened 59.82 points higher at 12,
 [Data](articles/178cb855.json)
 
 [Extended Data](ext_articles/178cb855.ext.json)
+
+---
+
+### ගුරුවරියගේ ඉමිටේෂන් මාලයට රැවටුන මාල හොරා නැවතුන තැන
+
+*2024-07-04 10:13:15* · [`adalk`](https://www.ada.lk/breaking_news/ගුරුවරියගේ-ඉමිටේෂන්-මාලයට-රැවටුන-මාල-හොරා-නැවතුන-තැන/11-410603) · `si`
+
+රන්මාලක් යැයි සිතා හිගුරුකඩුව කොටමුදුන පාලම අසදී ගුරුවරියකගේ මුහුණට මිරිස් කුඩු ගසා ගෙළබැදි රුපියල් 500ක් පමණ වටිනා ඉමිටේශන් මාළයක් කොල්ලකා පලාගිය තරුණයකු අත්අඩංගුවට ගත් බව  හිගුරුකඩුව පොලිසිය පවසයි .
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ ඌවපැල්වත්ත  6 කනුව ප්‍රදේශයේ පදිංචි 31 හැවිරිදි තරුණයකු යැයි පොලිසිය කීය .
+
+හිගුරුකඩුව කොටමුදුන ප්‍රදේශයේ පදිංචි 27 හැවිරිදි  පස්සර නගරයේ පාසලක සේවය කරන මෙම ගුරුවරිය පාසල නිමවී සවස පස්සර වැල්ලවාය බස්‍ රථයකින් හිගුරුකඩුව  කොටමුදුනට පැමිණ අතුරුමාර්ගයක් ඔස්සේ පාගමනින් නිවස කරා යමින් සිටියදී එම බස් රථයේම පැමිණි සැකකරු ගුරුවරිය පසුකර ඉදිරියට ගොස් මුවආවරනයක් පැලද ගුරුවරිය ඉදිරියට යලි පැමිණ පාලම අසල  පාලු ස්ථානයකදී එක්වරම ගුරුවරියගේ මුහුණට මිරිස් කුඩු ගසා ගෙලබැදි මාලය.රන්මාළයක් යැයි සිතා කොල්ලකා පළාගොස් ඇතැයි පොලිසිය සදහන් කළේය .
+
+...
+
+[Data](articles/200cff59.json)
 
 ---
 
@@ -2195,91 +2265,5 @@ Sri Lanka port faces union opposition in increasing female workers: Minister
 [Data](articles/4321eb56.json)
 
 [Extended Data](ext_articles/4321eb56.ext.json)
-
----
-
-### Sri Lanka port trade unions oppose increase in female gantry operators: Minister
-
-*2024-07-03 18:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-trade-unions-protest-increase-in-female-labor-force-170719/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s port trade unions have protested the increase of female gantry crane operators despite the port employing only 10 females working in the role, Minister of Ports, Shipping and Aviation, Nimal Siripala De Silva said.
-
-“I want to recruit them but these people are saying there are other people who have been working in the harbor for a long time they must be upgraded without taking ladies,” De Silva told reporters on Wednesday.
-
-Sri Lanka currently has only 10 female gantry crane operators, however, the Ministry of Ports has been attempting to increase the female labor force among gantry workers at the insistence of the International Labor Organization, which suggested that Sri Lanka practice gender equality in its ports.
-
-Sri Lanka port faces union opposition in increasing female workers: Minister
-
-“These ladies are surviving [in this environment] and working. They are very perfect workers,” De Silva said.
-
-...
-
-[Data](articles/4b9fba61.json)
-
-[Extended Data](ext_articles/4b9fba61.ext.json)
-
----
-
-### Sri Lanka’s teachers must be disciplined: President
-
-*2024-07-03 18:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-teachers-must-be-disciplined-president-170728/) · `en`
-
-ECONOMYNEXT – Strikes by teachers are detrimental and unjustified, and the Attorney General has been asked to propose counter-measures, Sri Lanka’s President Ranil Wickremesinghe has said.
-
-“No one, whether directly or indirectly, should disrupt school education from 7:30 am to 1:30 pm. I have requested the Attorney General to propose measures regarding this issue,” Wickremesinghe said at a ceremony at Temple Trees on Wednesday.
-
-“Moving forward, we will take stronger measures on this front, even if it may provoke dissent,” the president said while awarding appointments to officers of the Education Administrative Service, and teaching appointments to graduates and diploma holders.
-
-“It is imperative that the education of children is not hindered by school closures or strikes.”
-
-Some teacher and principal trade unions are demanding a revision and additional salary increases, “which is surprising considering teachers have already received two salary increments.”
-
-...
-
-[Data](articles/575ef883.json)
-
-[Extended Data](ext_articles/575ef883.ext.json)
-
----
-
-### Russia-India consortium to take over management of Mattala Airport soon
-
-*2024-07-03 17:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/100274/russia-india-consortium-to-take-over-management-of-mattala-airport-soon) · `en`
-
-The management of the financially-burdened Mattala International Airport will soon be entrusted to a joint venture between an Indian and Russian firm within the next few weeks, says Sri Lanka’s Minister of Ports, Shipping and Aviation, Nimal Siripala de Silva.
-
-He also said that the development of the Kankesanthurai Port is progressing with assistance amounting to USD 69 million from India.
-
-Minister de Silva further affirmed that the national carrier, SriLankan Airlines, will undergo restructuring instead of being sold.
-
-He emphasized that according to existing regulations, only up to 49% of the airline’s shares can be transferred to another entity, yet no suitable investor has expressed interest thus far.
-
-Addressing the press briefing titled “Collective Path to a Stable Country” at the Presidential Media Centre (PMC) today (03), Minister Siripala de Silva further said:
-
-...
-
-[Data](articles/ab270ded.json)
-
-[Extended Data](ext_articles/ab270ded.ext.json)
-
----
-
-### Food Insecurity Prompting University Students Protests
-
-*2024-07-03 17:49:36* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/food-insecurity-prompting-university-students-protests/) · `en`
-
-Interactions between humans is the core of human mankind and when humans engage above interactions they interfere with some limitations and they always seek for security and stability. Human security was an important theme in the international context in the 1990s. It contains mainly seven components and food security is a main component among them, (World Food Summit, 1996.)  states that “Food security is defined when all people, at all times, have physical and economic access to sufficient safe and nutritious food that meets their dietary needs and food preferences for an active and healthy life.”
-
-According to the Word Bank Group there are four dimensions that should be secured to gain food security. They are;
-
-1. Physical availability of food – The food supply chain should function properly and there should be enough food stocks for consumption,
-
-2. Economic and physical access to food (affordability) – there should be affordability among customers to buy goods and services.
-
-...
-
-[Data](articles/fff58a66.json)
-
-[Extended Data](ext_articles/fff58a66.ext.json)
 
 ---

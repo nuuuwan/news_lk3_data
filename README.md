@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 22:19:44**
+As of **2024-07-04 22:35:06**
 
 ## Newspaper Stats
 
-*Scraped **33,709** Articles*
+*Scraped **33,711** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,63 @@ islandlk | 1,880
 economynextcom | 1,982
 dailyftlk | 2,084
 adalk | 3,018
-adaderanalk | 3,848
+adaderanalk | 3,849
 tamilmirrorlk | 3,986
 dailymirrorlk | 4,733
 virakesarilk | 5,277
-adaderanasinhalalk | 5,588
+adaderanasinhalalk | 5,589
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,709 (100.0%) of 33,709 articles have been extended.
+33,709 (100.0%) of 33,711 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### Israel sends delegation to negotiate hostage release deal with Hamas
+
+*2024-07-04 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100297/israel-sends-delegation-to-negotiate-hostage-release-deal-with-hamas) · `en`
+
+Israel has dispatched a delegation to negotiate a hostage release deal with Hamas, a government official said on Thursday, as Prime Minister Benjamin Netanyahu prepared to convene his security cabinet to discuss new Hamas positions on an accord.
+
+Before the cabinet meets on Thursday evening, Netanyahu will have consultations with his ceasefire negotiations team, a source in his office said. U.S.
+
+President Joe Biden, who has sought for months to broker a truce, will also speak with Netanyahu on Thursday, a source familiar with the matter said.
+
+“Prime Minister Netanyahu reiterated that the war will end only after all its objectives have been achieved and not a moment before,” said the official, who did not specify where the delegation had been sent.
+
+Prior efforts to end the nearly nine-month conflict were mediated by Egypt and Qatar, with talks held in both locations.
+
+...
+
+[Data](articles/e086a9d7.json)
+
+---
+
+### දැවිතෙල් සොරා ගන්නා ජාවාරමක් හසුවෙයි
+
+*2024-07-04 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198494) · `si`
+
+කෙරවලපිටිය - යුගදනවි බලාගාරයේ විදුලි උත්පාදනය සඳහා ගෙන යන දැවිතෙල් සොරකම් කර ඒවා වෙනත් ආයතනවලට විකුණන ජාවාරමක් වැටලීමට කොළොන්නාව ඛනිජ තෙල් තොග ගබඩා පර්යන්තයේ විමර්ශන අංශය අද (04) සමත් වුණි.
+
+මෙම වැටලීමේදී, සොරකම් කරන ලද දැවිතෙල් ලීටර් 33,000ක් සමග බවුසර් රථයක් සහ පුද්ගලයින් 5 දෙනෙකු අත්අඩංගුවට ගෙන ඇත.
+
+ශ්‍රී ලංකාවේ ඉදිකර ඇති දෙවැනි විශාලතම තාප විදුලි බලාගාරය වන කෙරවළපිටිය යුගදනවි බලාගාරය මගින් මෙගාවොට් 300ක ධාරිතාවක් ජාතික පද්ධතියට සම්ප්‍රේෂණය කරයි.
+
+මෙම බලාගාරයේ විදුලි උත්පාදනය සඳහා භාවිත කෙරෙන දැවිතෙල් සොරාගන්නා ජාවාරමක් පිළිබඳ වත්තල, බෝපිටිය ප්‍රදේශයෙන් තොරතුරු අනාවරණය විය.
+
+ඒ අනුව හෙළිවී ඇත්තේ, යුගදනවි බලාගාරයට රැගෙන යන දැවිතෙල් වත්තල, බෝපිටිය ප්‍රදේශයේ බවුසර් රථ අංගනයකදී සුක්ෂම අයුරින් සොරකම් කර වෙනත් ආයතනවලට විකුණන බවය.
+
+ලද තොරතුරු මත ක්‍රියාත්මක වූ කොළොන්නාව තොග ගබඩා පර්යන්තයේ විමර්ශන අංශයේ නිලධාරීන් කණ්ඩායමක් අද පස්වරුවේ එම ස්ථානය වැටලීමට කටයුතු කළේය.
+
+◼️
+
+[Data](articles/8b0674f7.json)
+
+---
 
 ### Some opposition parties sabotaging govt’s development program - state minister
 
@@ -2287,47 +2329,5 @@ DIG Thalduwa, further stated that the operation has commenced in several areas a
 [Data](articles/27e99c23.json)
 
 [Extended Data](ext_articles/27e99c23.ext.json)
-
----
-
-### Sri Lanka Police launch second phase of operation ‘Yukthiya’
-
-*2024-07-04 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100282/sri-lanka-police-launch-second-phase-of-operation-yukthiya-) · `en`
-
-The ‘Yukthiya’ islandwide operation currently in force to eliminate all illegal activities will be launched with a new vigour from today (7), said the Sri Lanka Police.
-
-Police spokesman DIG Nihal Thalduwa stated that it is also expected to get the support of the Sri Lanka Army for the ‘Yukthiya’ operation.
-
-DIG Thalduwa, further stated that the second phase of the operation has commenced in several areas around Colombo and it will be expanded, covering the island shortly.
-
-Operation 'Yukthiya' - Second Phase (Police  Press Release) by Adaderana Online on Scribd
-
-◼️
-
-[Data](articles/5eca2cfd.json)
-
-[Extended Data](ext_articles/5eca2cfd.ext.json)
-
----
-
-### Saudi Arabia resolves the world's first internationally born twin conference
-
-*2024-07-04 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/187634) · `ta`
-
-Saudi Arabia, along with Bahrain, Morocco, Qatar, and Yemen, has initiated a groundbreaking project since 1990, focusing on twin separation surgeries. Led by King Salman and renowned surgeon Dr. Abdullah Alrafih, the country has performed successful operations on 61 pairs of twins from 26 nations. This effort culminated in the United Nations declaring November 24 as 'World Birthday Tuesday Day,' recognizing Saudi Arabia's leadership in improving the lives of twins globally. The inaugural international conference on this topic will take place in Riyadh on November 24-25, emphasizing the project's significance and impact.
-
-🟩
-
-The United Nations has announced the 24th of November 2024 to be 'World Birthday Tuesday Day'. Today, it is important to emphasize the status of the twins and improve their recognition in the community, including their treatment, care and well -being.
-
-Saudi Arabia has proposed this initiative with Bahrain, Morocco, Qatar and Yemen.
-
-Since the project was launched in 1990, Saudi Arabia has been the leading country in the world.. Saudi Arabia has reviewed 139 twins from 26 countries and has successfully divided 61 pair of twins. King Salman is the adviser to the Saudi Arabian Court and King Salman is the Supervisor General of the Ksrelief and the renowned child surgeon, Dr. Abdullah Alrafih, the Chairman of the Saudi Arabian doubles program.
-
-...
-
-[Data](articles/53ba44fc.json)
-
-[Extended Data](ext_articles/53ba44fc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 20:05:19**
+As of **2024-07-04 20:19:51**
 
 ## Newspaper Stats
 
-*Scraped **33,699** Articles*
+*Scraped **33,700** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,880
 economynextcom | 1,982
 dailyftlk | 2,084
 adalk | 3,016
-adaderanalk | 3,845
+adaderanalk | 3,846
 tamilmirrorlk | 3,984
 dailymirrorlk | 4,733
 virakesarilk | 5,277
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,585
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,698 (100.0%) of 33,699 articles have been extended.
+33,699 (100.0%) of 33,700 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### SC to hear petition seeking to delay Presidential Election on Monday
+
+*2024-07-04 19:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100294/sc-to-hear-petition-seeking-to-delay-presidential-election-on-monday-) · `en`
+
+A five-judge bench of the Supreme Court, headed by the Chief Justice, is set to hear the Fundamental Rights (FR) petition filed by businessman C.D. Lenawa, seeking to delay the announcement of the presidential election, on Monday (08).
+
+The petition requests that an interim order be issued to prevent the calling of the presidential election within the currently scheduled period, until the Supreme Court provides its interpretation on the date of the poll.
+
+◼️
+
+[Data](articles/b04c00d5.json)
+
+---
 
 ### Tonight Tonight 9.00 am to 8 hours of water cut
 
@@ -102,17 +116,25 @@ According to the compliance, the reorganization of the international bans worth 
 
 ---
 
-### දෙවැනි ලෝක යුද්ධයේදී විනාශ වූ නැවක් බලන්න නාවික හමුදාපති හා හිටපු නාවික හමුදාපති කිමිදෙයි
+### Navy Commander dives to see a destroyed ark in World War II
 
 *2024-07-04 19:10:07* · [`adalk`](https://www.ada.lk/picture_story/දෙවැනි-ලෝක-යුද්ධයේදී-විනාශ වූ-නැවක්-බලන්න-නාවික-හමුදාපති-හා-හිටපු-නාවික-හමුදාපති-කිමිදෙයි/10-410618) · `si`
 
-දෙවන ලෝක යුද සමයේදී ජපන් ගුවන් ප්‍රහාර හමුවේ මඩකලපුව ප්‍රදේශයට ඔබ්බෙන් වූ නැගෙනනහිර මුහුදේ ගිලී ඇති රාජකීය නාවික හමුදාවට අයත් ‘HMS Hermes’ නමැති ගුවන් යානා ප්‍රවාහන නෞකාව හා ඒ ආශ්‍රිත මුහුදු ප්‍රදේශයේ විශේෂ ගවේෂණාත්මක කිමිදුම් අභ්‍යාසයක් නාවික හමුදා කිමිදුම් අංශය මඟින් 2024 ජුනි මස 30 වන  දින සාර්ථකව සිදුකෙරුණු අතර, ඒ සඳහා සහභාගී වූ නාවික හමුදාධිපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා සහ හිටපු නාවික හමුදාධිපති අද්මිරාල් පියල් ද සිල්වා (විශ්‍රාමික) විසින්  ‘HMS Hermes’ නෞකාව මුහුදුබත් වීමෙන් ජීවිතක්ෂයට පත් එම නෞකාවේ අණදෙන නිලධාරි ඇතුළු කාර්ය මණ්ඩලය සිහිපත් කරමින් පොපි මල් කළඹක් තබා ඔවුන් වෙත උපහාර පුද කෙරිණි.
+In July 2023, Sri Lanka's Navy conducted a deep-sea dive in the Eastern Sea, led by Vice Admiral Priyantha Perera, to explore the wreckage of the HMS Hermes, sunk by Japanese bombs in 1942. This expedition marked the first joint effort by naval divers to document the shipwreck, aiming to boost local diving tourism and preserve maritime history.
 
-දෙවන ලෝක යුද සමයේදී ජපන් ජාතිකයන් විසින් 1942 වර්ෂයේ අප්‍රේල් මස 05 වන දින කොළඹට බෝම්බ හෙලීමෙන් අනතුරුව, ත්‍රිකුණාමලය දකුණු මුහුදු ප්‍රදේශයේ තිබූ බ්‍රිතාන්‍යය රාජකීය නාවික හමුදාවට අයත් HMS Hermes සහ ඇයගේ පරිවාර නෞකාව ලෙස පැමිණි HMAS Vampire නෞකාවන් වෙත 1942 වර්ෂයේ අප්‍රේල් මස 09 වන දින ගුවනින් බෝම්බ හෙළා ගිල්වා ඇත.
+🟩
+
+The Navy Diving Extension (Navy Diver) has successfully drowned in the Eastern Sea of ​​Sri Lanka and a special explorant diving exercise in the Eastern Sea, which is located in the Eastern Sea, which is located in the Eastern Sea.Commander of the Navy Vice Admiral Priyantha Perera and former Commander of the ship, Admiral Piyal de SilvaSaunched.
+
+July Second of 1942 by Japanese bombardment in Colombo on April 5, 1942, the British Royal NavyHas been condemned.
+
+The Diver Commander of the HMS Hermes, which have been mired from 55 meters of depths, is organized on the instructions of the Navy Expept to the Crafts of the Navy Diving Plan, and HMS Hermes Ship and AThe first time a former Navy and a former Navy personivist was the first time a former Navy personnel had been conducting an exploration diving exercise at once.
 
 ...
 
 [Data](articles/b7fb19e4.json)
+
+[Extended Data](ext_articles/b7fb19e4.ext.json)
 
 ---
 
@@ -2293,23 +2315,5 @@ The program was commenced in several parts of Colombo today and is still being c
 [Data](articles/ef0b2f84.json)
 
 [Extended Data](ext_articles/ef0b2f84.ext.json)
-
----
-
-### Arrested by police officer for bribery
-
-*2024-07-04 08:39:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லஞ்சம்-வாங்கிய-பொலிஸ்-அதிகாரி-கைது/175-339847) · `ta`
-
-A man was arrested by the Inquiry Commission on charges of bribery or corruption.
-
-🟩
-
-It is reported that he was arrested by the Inquiry Commission on Bribery or Corruption. Remble
-
-◼️
-
-[Data](articles/c4536717.json)
-
-[Extended Data](ext_articles/c4536717.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 21:54:24**
+As of **2024-07-04 22:07:20**
 
 ## Newspaper Stats
 
-*Scraped **33,706** Articles*
+*Scraped **33,709** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,982
 dailyftlk | 2,084
-adalk | 3,017
-adaderanalk | 3,846
+adalk | 3,018
+adaderanalk | 3,848
 tamilmirrorlk | 3,986
 dailymirrorlk | 4,733
 virakesarilk | 5,277
@@ -26,31 +26,81 @@ adaderanasinhalalk | 5,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,705 (100.0%) of 33,706 articles have been extended.
+33,706 (100.0%) of 33,709 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### බැඳුම්කර එකඟතා ගැන පැහැදිලි කරයි
+### Some opposition parties sabotaging govt’s development program - state minister
+
+*2024-07-04 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100296/some-opposition-parties-sabotaging-govts-development-program-state-minister) · `en`
+
+State Minister for Power and Energy Indika Anuruddha, stated that due to the success of the debt restructuring activities, the projects related to the energy sector, which were stalled during the last crisis, will be re-implemented and it will be of great help in solving the power crisis.
+
+The Minister of State also pointed out that some parties in the opposition are engaged in sabotage to weaken the program launched by the government to develop the country.
+
+State Minister Indika Anuruddha conveyed these updates during a media briefing at the Presidential Media Centre (PMC) held today (04) under the theme “Collective Path to a Stable Country”.
+
+...
+
+[Data](articles/e5ecb503.json)
+
+---
+
+### Bonds explain agreements
 
 *2024-07-04 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198493) · `si`
 
-ජාත්‍යන්තර බැඳුම්කර ණය ප්‍රතිව්‍යුහගතකරණය සඳහා ශ්‍රී ලංකාව සහ ණයහිමියන් ඊයේ (03) එකඟතාවකට පැමිණ තිබේ.
+Sri Lanka and its creditors have agreed to restructure $12.5 billion in international bonds, aiming for economic growth to aid debt repayment. This follows the completion of restructuring foreign and local debts. The total credit in Sri Lanka stands at $100 billion, with $37 billion abroad. Bilateral and multilateral loans, along with international bonds, make up this figure. A previous agreement focused on restructuring $10 billion in bilateral loans. The IMF predicts Sri Lanka's GDP will reach $88.6 billion by 2027, potentially reducing debt relief limits based on economic performance. State Minister Shehan Semasinghe expects these agreements to support sustainable development goals.
 
-ඒ යටතේ අමෙරිකානු ඩොලර් බිලියන 12.5 ක බැඳුම්කර ප්‍රතිව්‍යුහගතකරණය කිරීමට නියමිතය.
+🟩
 
-විදෙස් ද්වීපාර්ශ්වික ණය සහ දේශීය ණය දැනටමත් ප්‍රතිව්‍යුහගතකරණය අවසන් කර ඇති අතර බැඳුම්කර ණය සම්බන්ධව ශ්‍රී ලංකාව සහ ණයහිමියන් ඊයේ එකඟතාවකට පැමිණියේ ණය ප්‍රතිව්‍යුහගතකරණයේ අවසන් අදියර ද සාර්ථක කරගනිමිනි.
+Sri Lanka and creditors have agreed to restructuring international bond debt yesterday (03).
 
-ශ්‍රී ලංකාවේ මුළු ණය අමෙරිකානු ඩොලර් බිලියන 100 ක් වන අතර ඊට ඩොලර් බිලියන 57ක දේශීය ණය, ඩොලර් බිලියන 37ක විදෙස් ණය සහ ඩොලර් බිලියන 6ක ඇපකර ඇතුළත් ය.
+Under this, US $ 12.5 billion bonds are to be restructured.
 
-විදෙස් ණය ඩොලර් බිලියන 37 තුළ ද්වීපාර්ශ්වික ණය ඩොලර් බිලියන 10.6ක්, බහු පාර්ශ්වීය ණය ඩොලර් බිලියන 11.7ක් සහ ජාත්‍යන්තර බැඳුම්කර අමෙරිකානු ඩොලර් බිලියන 14.7ක් අන්තර්ගතය.
+Foreign debt and local debt have already been completed and the creditors of bond debt have agreed to a successful final part of debt restructuring.
 
-බහු පාර්ශ්විකය ණය ප්‍රතිව්‍යුහගත නොකෙරන අතර ද්විපාර්ශ්වික ණයවලින් ඩොලර් බිලියන 10ක් ප්‍රතිව්‍යුහගතකරණය කිරීමේ ගිවිසුමට පසුගිය සතියේ අත්සන් තැබුණි.
+The total number of credit in Sri Lanka is US $ 100 billion and $ 57 billion, US $ 37 billion abroad and $ 6 billion.
+
+Bilateral loans have $ 106 billion in $ 37 billion, multilateral loans and $ 11.7 billion and $ 14.7 billion worth of international bonds.
+
+The multi-party is not restructured and the agreement was signed last week to restructure $ 10 billion in bilateral loans.
+
+In order to restructure US $ 12.5 billion in international bonds, Sri Lanka and creditors have agreed to a success of credit restructuring.
+
+In these discussions, the bond owners stand in this discussion that the economy of Sri Lanka will grow in the coming years.
 
 ...
 
 [Data](articles/693322e5.json)
+
+[Extended Data](ext_articles/693322e5.ext.json)
+
+---
+
+### SriLankan Airlines flight makes emergency landing in Jakarta
+
+*2024-07-04 21:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100295/srilankan-airlines-flight-makes-emergency-landing-in-jakarta) · `en`
+
+A SriLankan Airlines flight operating from Melbourne to Colombo declared an emergency and diverted earlier today due to a medical problem on board.
+
+SriLankan Airlines flight UL605, an Airbus A330-300 operating from Melbourne Airport (MEL) was en route to Colombo Bandaranaike International Airport (CMB).
+
+The flight was at cruising level to the south of Indonesia when flight crew declared a general emergency with transponder code 7700.
+
+Flight crew then elected to divert north from their position to Jakarta Soekarno–Hatta International Airport (CGK).
+
+The flight subsequently landed at the diversion airport in Jakarta at 20:56 local time.
+
+Flight data shows that Sri Lankan flight UL605 made a delayed departure out of Melbourne Airport (MEL) at 17:16 local time today. Scheduled departure time for the service was listed as 1635 local time.
+
+The flight then set course normally, climbing to flight level FL380 (38,000 feet) for the trans-Indian Ocean service to Colombo.
+
+...
+
+[Data](articles/29120763.json)
 
 ---
 
@@ -301,6 +351,20 @@ Meanwhile, Tamil Nadu Chief Minister MK Stalin said that despite the possibility
 [Data](articles/2c4ac6e8.json)
 
 [Extended Data](ext_articles/2c4ac6e8.ext.json)
+
+---
+
+### රටම බලා සිටින පෙත්සම 08දා සලකා බලයි
+
+*2024-07-04 18:43:29* · [`adalk`](https://www.ada.lk/breaking_news/රටම-බලා-සිටින-පෙත්සම-08දා-සලකා-බලයි/11-410616) · `si`
+
+ජනාධිපතිවරයාගේ ධූර කාලය අවසන් වන දිනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ අර්ථනිරූපනයක් දෙනතුරු ජනාධිපතිවරණය පැවැත්වීමෙන් මැතිවරණ කොමිසම වළකාලන අතුරු නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ව්‍යවසායකයෙකු ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම පංච පුද්ගල විනිසුරු මඩුල්ලක් හමුවේ ලබන 08 වැනිදා සළකා බැලීමට ශ්‍රේෂ්ඨාධිකරණයට අද (04) තීරණය කළේය.
+
+අගවිනිසුරු ජයන්ත ජයසුරිය මහතාගේ ප්‍රධානත්වයෙන් යුත් මෙම පංච පුද්ගල විනිසුරු මඩුල්ලේ සාමාජික විනිසුරුවරුන් වශයෙන් ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන විජිත් මලල්ගොඩ, මුර්දු ප්‍රනාන්දු, ප්‍රීතී පද්මන් සුරසේන සහ එස්. තුරේරාජා මහත්වරු පත් කර ඇත.
+
+...
+
+[Data](articles/70014584.json)
 
 ---
 
@@ -2251,73 +2315,5 @@ Since the project was launched in 1990, Saudi Arabia has been the leading countr
 [Data](articles/53ba44fc.json)
 
 [Extended Data](ext_articles/53ba44fc.ext.json)
-
----
-
-### Another tragedy in India
-
-*2024-07-04 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198469) · `si`
-
-A shocking report reveals that annually, around 33,000 deaths in India are linked to pollution, surpassing WHO standards. The affected cities include Bangalore, Chennai, Delhi, Hyderabad, Kolkata, Mumbai, Pune, and others, highlighting a significant public health crisis.
-
-🟩
-
-It has been revealed that about 33,000 deaths were carried out every year due to the pollution of the pollution.
-
-According to foreign media reports, this has been revealed by a report in the "LANCET CLEENARY HEALTH".
-
-Deaths have taken place due to 10 cities in India.
-
-The deaths were reported from Banglobad, Banglobad, Bangloryro, Chennai, Delhi, Hyderabad, Kolkata, Mumbai, Pune, Shimpala and Currency.
-
-The report also pointed out that the quality of the air quality of India has exceeded the standards of the World Health Organization.
-
-◼️
-
-[Data](articles/a41ece52.json)
-
-[Extended Data](ext_articles/a41ece52.ext.json)
-
----
-
-### Attack on the Talawa Police Station
-
-*2024-07-04 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/187635) · `ta`
-
-On Wednesday night, a Superintendent of Police at the Talawa station was attacked with a sharp weapon. The officer, now hospitalized at the Anuradhapura Teaching Hospital, is under treatment.
-
-🟩
-
-A sharp weapon was attacked by the Superintendent of Police at the Talawa Police Station on Wednesday night (03).
-
-It is reported that the police officer in charge of the attack has been admitted to the Anuradhapura Teaching Hospital for treatment.
-
-◼️
-
-[Data](articles/6dd04b33.json)
-
-[Extended Data](ext_articles/6dd04b33.ext.json)
-
----
-
-### Thirumalai Soil
-
-*2024-07-04 09:05:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/இறுதி-கிரியைகளுக்கு-தயாராகும்-திருமலை-மண்/75-339849) · `ta`
-
-Amarar R. Sampanthan's funeral is underway at his Trincomalee home, organized by the Sri Lanka Tamil State Party and Trincomalee District Journalists Association under Kathiravelu Shanmugam Kukadasan's leadership.
-
-🟩
-
-The funeral of the late Tamil National Alliance (TNA) leader and former parliamentarian Amarar R. Sampanthan is currently being held at his residence in Trincomalee.
-
-Arrangements are being made in this situation. Anjali is also taking place for Annar.
-
-For this purpose, the district branch of the Sri Lanka Tamil State Party, including the Trincomalee District Journalists Association, is making arrangements under the leadership of Kathiravelu Shanmugam Kukadasan.. Remble
-
-◼️
-
-[Data](articles/278b38da.json)
-
-[Extended Data](ext_articles/278b38da.ext.json)
 
 ---

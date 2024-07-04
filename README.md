@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 02:19:51**
+As of **2024-07-05 02:35:17**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,721 (100.0%) of 33,722 articles have been extended.
+33,722 (100.0%) of 33,722 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### மிளகுசேனை தோட்டத்தில் பாரிய தீ
+### Massive fire in the garden of peppermint
 
 *2024-07-05 01:57:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மிளகுசேனை-தோட்டத்தில்-பாரிய-தீ/76-339892) · `ta`
 
-தலவாக்கலை பெரிய மிளகுசேனை தோட்டத்தில் பாரிய தீ பரவல் சம்பவம் இன்று (4)இரவு 8 மணியளவில் இடம்பெற்றுள்ளது.
+A massive fire erupted at Talawakelle's peppermint garden at 8 pm due to a power outage, causing significant damage to several houses.
 
-மின்னொழுங்கினம் காரணமாகவே இந்த தீ விபத்து ஏற்பட்டுள்ளதாக ஆரம்ப கட்ட விசாரணைகள் மூலம் தெரிய வந்துள்ளது.
+🟩
 
-லயன் இலக்கம் ஒன்றிலேயே இந்த அனர்த்தம் ஏற்பட்டுள்ளது இதன் போது 3 வீடுகள் முழுமையாகவும் மேலும் சில வீடுகள் பகுதியளவிலும் சேதமடைந்துள்ளது
+The massive fire broke out at the Talawakelle big peppermint garden at 8 pm today.
+
+Preliminary investigations have revealed that the fire was caused by the power outage.
+
+The disaster occurred in a Lion number and 3 houses were completely damaged and some of the houses were partially damaged.
 
 ◼️
 
 [Data](articles/2939309a.json)
+
+[Extended Data](ext_articles/2939309a.ext.json)
 
 ---
 

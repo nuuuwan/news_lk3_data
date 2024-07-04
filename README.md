@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 12:35:14**
+As of **2024-07-04 12:53:33**
 
 ## Newspaper Stats
 
-*Scraped **33,631** Articles*
+*Scraped **33,637** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 308
 colombotelegraphcom | 310
-bbccomsinhala | 331
+bbccomsinhala | 332
 newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,972
@@ -19,18 +19,50 @@ adalk | 3,004
 adaderanalk | 3,837
 tamilmirrorlk | 3,979
 dailymirrorlk | 4,733
-virakesarilk | 5,255
+virakesarilk | 5,260
 adaderanasinhalalk | 5,575
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,627 (100.0%) of 33,631 articles have been extended.
+33,631 (100.0%) of 33,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-07-04 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/187657) · `ta`
+
+இன்று வியாழக்கிழமை (ஜூலை 04) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில்அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 299.6873 ஆகவும்,  விற்பனை விலை ரூபா 308.9221 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d7ebb3bc.json)
+
+---
+
+### ஜனாதிபதி தேர்தலில் போட்டியிலிருந்து விலகப்போவதில்லை - பைடன் உறுதி
+
+*2024-07-04 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/187656) · `ta`
+
+ஜனாதிபதி தேர்தலில் போட்டியிடுவதிலிருந்து விலக வேண்டும் என  விடுக்கப்படும் வேண்டுகோள்களை ஏற்க மறுத்துள்ள அமெரிக்க ஜனாதிபதி ஜோ பைடன் தேர்தல் போட்டியை தொடரப்போவதாக குறிப்பிட்டுள்ளார்.
+
+ஜோ பைடன் தனது பிரச்சார குழுவினர் ஜனநாயக கட்சியின் நாடாளுமன்ற உறுப்பினர்கள் ஆளுநர்களுடனான சந்திப்பின்போது இதனை தெரிவித்துள்ளார்.
+
+ஜோ பைடன் தான் போட்டியிலிருந்து விலகப்போவதில்லை என தெரிவித்தார் என இந்த விடயம் குறித்து நன்கறிந்த வட்டாரங்கள் தெரிவித்துள்ளன.
+
+என்னை எவரும் வெளியே தள்ளவில்லை,நான் வெளியேறப்போவதில்லை இறுதிவரை தேர்தல் போட்டியில் நீடிப்பேன் என ஜோ பைடன் தெரிவித்தார் என அவரது பிரச்சார குழுவினர் தெரிவித்துள்ளனர்.
+
+இதேவேளை ஜனாதிபதி ஜோபைடன் தேர்தல் போட்டியிலிருந்து விலகுவது குறித்து சிந்திக்கின்றாரா என்ற கேள்விக்கு பதிலளித்துள்ள வெள்ளை மாளிகையின் ஊடக செயலாளர்  நிச்சயமாக இல்லை என குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/fa55ab29.json)
+
+---
 
 ### Custom officers launch ‘sick leave’ trade union action
 
@@ -48,21 +80,29 @@ Therefore, Kumarasinghe further stated that as they did not receive necessary re
 
 [Data](articles/6885338a.json)
 
+[Extended Data](ext_articles/6885338a.ext.json)
+
 ---
 
-### ஸாஹிராவில் 70 மாணவிகளின் பெறுபேறுகள் வெளியாகின
+### The results of 70 students were released in Zahira
 
 *2024-07-04 12:01:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸாஹிராவில்-70-மாணவிகளின்-பெறுபேறுகள்-வெளியாகின/175-339858) · `ta`
 
-இடைநிறுத்தி வைக்கப்பட்டிருந்த, திருகோணமலை ஸாஹிரா கல்லூரி மாணவிகள் 70 பேரின்,க.பொ.த.உயர்தரப்பரீட்சைப் பெறுபேறுகள் புதன்கிழமை (3) வெளியிடப்பட்டது.
+The GCE A/L exam results of 70 Zahira College, Trincomalee students were released after discussions between Governor Senthil Thondaman and the Department of Examinations, addressing student concerns.
 
-திருகோணமலை ஸாஹிரா கல்லூரியின் 70 இற்கும் மேற்பட்ட மாணவிகளின் உயர்தர பெறுபேறுகள் பரீட்சைகள் திணைக்களத்தால் இடைநிறுத்தப்பட்டிருந்தது.இது குறித்து கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானிடம் மாணவர்கள் கடந்த மாதம் முறைப்பாடு செய்திருந்தனர்.
+🟩
 
-மாணவர்களின் கோரிக்கைகளை ஏற்றுக்கொண்ட ஆளுநர் செந்தில் தொண்டமான், அவர்களின் பிரச்சினைகள் குறித்து பரீட்சைகள் திணைக்களத்துடன் கலந்துரையாடல் மேற்கொண்டு அவர்களுடைய பெறுபேறுகளை வெளியிட தேவையான நடவடிக்கைகளை மேற்கொண்டிருந்தார்..
+The results of the GCE Advanced Level Examination of 70 students of the Zahira College, Trincomalee, were released on Wednesday (3).
+
+The high quality results of the Zahira College, Trincomalee have been suspended by the Department of Examinations.
+
+Governor Senthil Thondaman, who accepted the demands of the students, had discussed with the Department of Examinations on their issues and took steps to release their results.
 
 ◼️
 
 [Data](articles/55818570.json)
+
+[Extended Data](ext_articles/55818570.ext.json)
 
 ---
 
@@ -110,15 +150,39 @@ Investigators also found a CCTV footage in a motorcycle with a motorcycle.
 
 ---
 
-### பாரிய விபத்தில் 35 பேர் படுகாயம்
+### ஏன் பிரிட்டன் தமிழர்கள் லிபரல் ஜனநாயக கட்சியினருக்கு வாக்களிக்கவேண்டும் ?  கட்சி வேட்பாளர் பொபி டீன் விளக்கம்
+
+*2024-07-04 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/187651) · `ta`
+
+இலங்கையின் பாதுகாப்பு படையின் பிரதானி சவேந்திரசில்வாவிற்கு எதிராகவும் அவரை போன்றவர்களிற்கு எதிராகவும்  கென்சவேர்ட்டிவ் கட்சியினர் மக்னிட்ஸ்கி பாணியிலான தடைகளை விதிக்கவேண்டும் என லிபரல் ஜனநாயக கட்சியினர் வேண்டுகோள் விடுத்துவந்துள்னர் என அந்த கட்சியின் கார்சல்டொன் வலிங்டன் வேட்பாளர் பொபி டீன் தெரிவித்துள்ளார்
+
+லிபரல் ஜனநாயக கட்சியின் தலைவர் எட்டேவி தமிழ் சமூகத்தினை நீண்டகாலமாக ஆதரிப்பவர்.அவரது தலைமைத்துவத்தின் கீழ் கென்சவேர்ட்டிவ்கள் தமிழ் மக்களிற்கு எதிராக இழைக்கப்பட்ட குற்றங்களை இனப்படுகொலை என அங்கீகரிக்கவேண்டும்,குற்றங்களில் ஈடுபட்டவர்களை நீதிமன்றத்தில் நிறுத்தவேண்டும் என லிபரல் ஜனநாயக கட்சியினர் வலியுறுத்தி வந்துள்ளனர்.
+
+நாங்கள் நீதிக்கான தேடலை நிறுத்த முடியாது என அவர் தெரிவித்துள்ளார் - அது மிகச்சரியானது.
+
+லிபரல் ஜனநாயக கட்சியினர் ஒடுக்குமுறைக்கு எதிரான தனிநபர்களின் உரிமைக்காக எப்போதும் குரல் கொடுத்துள்ளனர்.என்னை தெரிவு செய்தால் எனது தொகுதியிலும் நாடாளுமன்றத்திலும் தமிழ் சமூகத்திற்காக நான் பரப்புரை செய்வேன்.
+
+...
+
+[Data](articles/050f8343.json)
+
+---
+
+### 35 people injured in a massive accident
 
 *2024-07-04 11:44:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரிய-விபத்தில்-35-பேர்-படுகாயம்/175-339857) · `ta`
 
-சிலாபம் டிப்போவுக்குச் சொந்தமான  பஸ்ஸும், சீமெந்து ஏற்றிச் சென்ற லொறியும் நேருக்கு நேர் மோதிய விபத்தில் 35 பேர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக மாதம்பை பொலிஸார் தெரிவித்தனர்.
+In a tragic accident involving a bus from Chilaw Depot and a cement-laden lorry, 35 individuals suffered injuries and were hospitalized. The incident occurred due to a head-on collision, as reported by the Madambai police.
+
+🟩
+
+A bus belonging to the Chilaw Depot and a lorry carrying a cement -carrying lorry collided head -on, 35 people were injured and admitted to the hospital, Madambai police said.
 
 ◼️
 
 [Data](articles/5aeb2b78.json)
+
+[Extended Data](ext_articles/5aeb2b78.ext.json)
 
 ---
 
@@ -143,6 +207,22 @@ Accordingly, the High Court judge, who allowed the Attorney General to submit ob
 [Data](articles/85085449.json)
 
 [Extended Data](ext_articles/85085449.ext.json)
+
+---
+
+### யாழ். கொண்டுசெல்லப்பட்ட சம்பந்தனின் பூதவுடலுக்கு மக்கள் அஞ்சலி
+
+*2024-07-04 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/187649) · `ta`
+
+மறைந்த  இலங்கைத் தமிழரசுக்கட்சியின் சிரேஷ்ட தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இராஜவரோதயம் சம்பந்தனின் பூதவுடல் மக்களின் அஞ்சலிக்காக இன்று வியாழக்கிழமை (04) கொழும்பிலிருந்து யாழ்ப்பாணத்திற்கு விமானம் மூலம் கொண்டு செல்லப்பட்டுள்ளது.
+
+யாழ்ப்பாணம் பலாலி விமான நிலையத்திற்கு விமானம் மூலம் கொண்டு செல்லப்பட்ட சம்பந்தனின் பூதவுடல், யாழில் உள்ள தமிழரசுக் கட்சியின் தலைமையகத்தில் அஞ்சலிக்காக வைக்கப்பட்டது.
+
+பின்னர் யாழ்ப்பாணத்தில் உள்ள தந்தை செல்வா நினைவிடத்தில் இன்று வியாழக்கிழமை (04) காலை 10.00 மணி முதல் மாலை 4.00 மணி வரை மறைந்த சம்பந்தனின் பூதவுடலுக்கு மக்கள் அஞ்சலி செலுத்த முடியும் என அறிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/c66f525a.json)
 
 ---
 
@@ -256,6 +336,20 @@ The 64-year-old motorcyclist killed in the accident.
 
 ---
 
+### ஜனாதிபதித் தேர்தல் : ஜனாதிபதியின் நிலைப்பாடு ! தேர்தலுக்கு இடைக்கால உத்தரவு குறித்த மனு மீது அரசாங்கம் கவனம்
+
+*2024-07-04 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/187642) · `ta`
+
+2024ஆம் ஆண்டு ஜனாதிபதித் தேர்தலை நடத்துவதற்கு தேர்தல்கள் ஆணைக்குழுவின் உறுப்பினர்களுக்கு இடைக்கால தடை உத்தரவு பிறப்பிக்குமாறு கோரி சமிந்திர தயான் லெனவ என்பவர் உயர் நீதிமன்றத்தில் தாக்கல் செய்துள்ள மனு  குறித்து  அரசாங்கம் கவனம் செலுத்தியுள்ளது.
+
+மேற்படி மனுவை தாக்கல் செய்வதன் மூலம், இலங்கை ஜனநாயக சோசலிச குடியரசின் அரசியலமைப்பின் பிரிவு 12(1), 82(6), 3, 4, 118 மற்றும் 125 ஆகிய பிரிவுடன் வாசிக்கப்பட வேண்டிய 126 இன் படி அரசியலமைப்பின் 19ஆவது திருத்தத்தின் 3ஆம் பிரிவின் ஊடாகத்  திருத்தப்பட்ட பிரிவு 30(2)ஐ வியாக்கியானம் செய்யக்கூடாது என குறித்த மனுவில் குறிப்பிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/1ac14e0f.json)
+
+---
+
 ### Switzerland’s GTEX2 phase II to boost Sri Lanka apparel SMEs
 
 *2024-07-04 10:51:00* · [`economynextcom`](https://economynext.com/switzerlands-gtex2-phase-ii-to-boost-sri-lanka-apparel-smes-170818/) · `en`
@@ -328,6 +422,26 @@ It is reported that the well was closed by the girl's boyfriend with the help of
 
 ---
 
+### Bribery Police Inspector arrested
+
+*2024-07-04 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187636) · `ta`
+
+A bribery police inspector was arrested by the bribery commission for allegedly accepting a bribe to issue a cashless check.
+
+🟩
+
+A bribe police inspector has been arrested by the bribery commission officials.
+
+He is said to have bribed the person to give money from the person to provide a cashless check.
+
+◼️
+
+[Data](articles/8b8eebff.json)
+
+[Extended Data](ext_articles/8b8eebff.ext.json)
+
+---
+
 ### Sri Lanka rupee opens weaker at 304.50/70 to US dollar
 
 *2024-07-04 10:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-304-50-70-to-us-dollar-170810/) · `en`
@@ -352,19 +466,29 @@ In equities, Colombo’s All Share Price Index opened 59.82 points higher at 12,
 
 ---
 
-### ගුරුවරියගේ ඉමිටේෂන් මාලයට රැවටුන මාල හොරා නැවතුන තැන
+### Where the teacher's immunition will be stopped
 
 *2024-07-04 10:13:15* · [`adalk`](https://www.ada.lk/breaking_news/ගුරුවරියගේ-ඉමිටේෂන්-මාලයට-රැවටුන-මාල-හොරා-නැවතුන-තැන/11-410603) · `si`
 
-රන්මාලක් යැයි සිතා හිගුරුකඩුව කොටමුදුන පාලම අසදී ගුරුවරියකගේ මුහුණට මිරිස් කුඩු ගසා ගෙළබැදි රුපියල් 500ක් පමණ වටිනා ඉමිටේශන් මාළයක් කොල්ලකා පලාගිය තරුණයකු අත්අඩංගුවට ගත් බව  හිගුරුකඩුව පොලිසිය පවසයි .
+A youth was arrested after assaulting a teacher in Sri Lanka. The incident occurred when the teacher confronted the suspect over a stolen necklace. The victim was attacked with chili powder in his face. Neighbors intervened, leading to the arrest of a 31-year-old from Uvawalawatte and a 27-year-old from Colombo. Further investigations are being conducted by senior police officers.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ ඌවපැල්වත්ත  6 කනුව ප්‍රදේශයේ පදිංචි 31 හැවිරිදි තරුණයකු යැයි පොලිසිය කීය .
+🟩
 
-හිගුරුකඩුව කොටමුදුන ප්‍රදේශයේ පදිංචි 27 හැවිරිදි  පස්සර නගරයේ පාසලක සේවය කරන මෙම ගුරුවරිය පාසල නිමවී සවස පස්සර වැල්ලවාය බස්‍ රථයකින් හිගුරුකඩුව  කොටමුදුනට පැමිණ අතුරුමාර්ගයක් ඔස්සේ පාගමනින් නිවස කරා යමින් සිටියදී එම බස් රථයේම පැමිණි සැකකරු ගුරුවරිය පසුකර ඉදිරියට ගොස් මුවආවරනයක් පැලද ගුරුවරිය ඉදිරියට යලි පැමිණ පාලම අසල  පාලු ස්ථානයකදී එක්වරම ගුරුවරියගේ මුහුණට මිරිස් කුඩු ගසා ගෙලබැදි මාලය.රන්මාළයක් යැයි සිතා කොල්ලකා පළාගොස් ඇතැයි පොලිසිය සදහන් කළේය .
+The Hingiyakaduwa Police have arrested a youth who fled to the face of a teacher at a cost of Rs.
 
-...
+The arrested were a 31 year old resident of Uvawalawatte, Uvapalwatta, police said.
+
+At a 27 year old resident of Colombo, a 27 year old resident of the Hingiyaaduwa area in the bus.The police said that the teacher had fled the necklace in chilli-face to the teacher.
+
+The teacher has shouted and the neighbors have been assaulted and subsequently laid by the village, police said.
+
+Senior Superintendent of Police of Badulla, Wasantha Kudasha Kudasara Police Superintendent of Police Dilip de Silva, Dilipaduwa Police Street Police, and other officials will be conducting further investigations.
+
+◼️
 
 [Data](articles/200cff59.json)
+
+[Extended Data](ext_articles/200cff59.ext.json)
 
 ---
 
@@ -380,7 +504,7 @@ The petition has requested that an interim order be issued to prevent the holdin
 
 Commenting on this, the President stated that neither he nor his lawyers were consulted or informed about this petition before it was submitted.
 
-◼️
+...
 
 [Data](articles/82fb8da8.json)
 
@@ -533,26 +657,6 @@ Since the project was launched in 1990, Saudi Arabia has been the leading countr
 [Data](articles/53ba44fc.json)
 
 [Extended Data](ext_articles/53ba44fc.ext.json)
-
----
-
-### Bribery Police Inspector arrested
-
-*2024-07-04 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/187636) · `ta`
-
-A bribery police inspector was arrested by the bribery commission for allegedly accepting a bribe to issue a cashless check.
-
-🟩
-
-A bribe police inspector has been arrested by the bribery commission officials.
-
-He is said to have bribed the person to give money from the person to provide a cashless check.
-
-◼️
-
-[Data](articles/8b8eebff.json)
-
-[Extended Data](ext_articles/8b8eebff.ext.json)
 
 ---
 
@@ -1064,6 +1168,18 @@ The Secretary of the Ministry has issued this notification by issuing a circular
 
 ---
 
+### සුමනා ජයතිලක: 'හඳ නැන්දා' නිහඬ වෙයි
+
+*2024-07-04 06:25:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51yex3wg5do) · `si`
+
+"1963 වසර වෙද්දී වෙළෙඳ සේවයට ළමා වැඩසටහනක් තිබුණෙ නෑ. මේක අඩුවක් වගේ දැනුණා ඒ කාලෙ වෙළෙඳ සේවයේ අධ්‍යක්ෂ විදිහට වැඩ කරපු ලිවී ආර්. විජේමාන්න මහත්මයාට. එතුමා මට යෝජනා කළා ළමා වැඩසටහනක් කරන්න, 'ළමා පිටිය'ට වඩා වෙනස් විදිහට කියලා. ඒ අනුව මම යෝජනා කළා මේක සඟරාමය ස්වරූපයෙන් කරන්න ඕන කියලා. මේ වැඩසටහනට නිෂ්පාදකයා හැටියට වෙළෙඳ සේවයේ එවකට හිටිය ජ්‍යෙෂ්ඨතම වැඩසටහන් සම්පාදක කේ.ඒ.ඩබ්ලිව්. පෙරේරා මහත්මයාට මං ස්තුතිවන්ත වෙනවා, එතුමා තමයි අපි නම් කීපයක් යෝජනා කරනකොට "සුමනා නරක ද හඳමාමා කියල දැම්මොත්" කියලා. ඒක ඉතා ම හොඳ දෙයක්. මොක ද දරුවන්ගේ ඉතා ම ආදරණීය සංකේතයක් හඳමාමා. ඒ නිසා මමත් කැමති වෙලා ඒක හොඳයි කියලා ඒක පටන් ගත්තා," ලෝකයේ වැඩි ම කාලයක් අඛණ්ඩව විකාශය කළ ගුවන් විදුලි වැඩසටහන ලෙස ඇතැමුන් හදුන්වන හඳමාමා ගුවන් විදුලි වැඩසටහනේ ආරම්භය ගැන එහි ආරම්භ නිවේදිකා සුමනා ජයතිලක ආවර්ජණය කර තිබුණේ, එහි 50 වන සංවත්සරය නිමිත්තෙන් වෙළෙඳ සේවයේ විකාශය කෙරුණු වැඩසටහනකදී ය.
+
+...
+
+[Data](articles/311cb5b0.json)
+
+---
+
 ### Showers in several areas
 
 *2024-07-04 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198461) · `si`
@@ -1310,20 +1426,6 @@ He said that rhinophis belongs to EuroPeltidae caste and that they are entitled 
 
 ---
 
-### 
-
-*2024-07-04 02:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84334) · `en`
-
-ரணில் விக்கிரமசிங்க 2022 மே 12 ஆம் திகதி அன்றைய ஜனாதிபதி கோட்டாபய ராஜபக்சவினால் பிரதமராக நியமிக்கப்பட்டார். அப்போது இலங்கை படுமோசமான பொருளாதார நெருக்கடியில் சிக்கியிருந்தது.’ அறகலய ‘ போராட்டம்தீவிரமடைந்துகொண்டிருந்தது. புதிய பிரதமர் 2022 மே 16 ஆம் திகதி நாட்டு மக்களுக்கு விசேட உரையொன்றை ஆற்றினார். அந்த உரையில் விக்கிரமசிங்க  ஜேர்மன் நாடகாசிரியர் பேரொல்ற் பிறெற்றின் ‘ கோகேசியன் ஷோக் சேர்க்கிள் ‘ ( Caucasian Chalk Circle) என்ற நாடகம் பற்றி குறிப்பிட்டார்.
-
-...
-
-[Data](articles/4fca80c0.json)
-
-[Extended Data](ext_articles/4fca80c0.ext.json)
-
----
-
 ### Recovery of cannabis and drug pills in Point Pedro!
 
 *2024-07-04 02:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/187630) · `ta`
@@ -1493,6 +1595,34 @@ Sampanthan, one among the few TNA leaders who Western diplomats in Colombo conti
 [Data](articles/02e40a46.json)
 
 [Extended Data](ext_articles/02e40a46.ext.json)
+
+---
+
+### Will the  Economic “Good News” From Paris and Beijing Help Ranil  Win the 2024 Presidential Poll  in Sri Lanka?
+
+*2024-07-04 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84319) · `en`
+
+Ranil  Wickremesinghe was appointed Prime Minister on 12 May 2022 by the then president Gotabaya Rajapaksa. Sri Lanka was in the grip of a debilitating economic crisis then. The “Aragalaya”(struggle) protest movement was raging. The new premier addressed the nation through a special statement on 16 May 2022. In that Wickremesinghe referred to Bertolt Brecht’s play “The Caucasian Chalk Circle”. This is what he said then –
+
+...
+
+[Data](articles/7940d96a.json)
+
+[Extended Data](ext_articles/7940d96a.ext.json)
+
+---
+
+### பொருளாதார ” நற்செய்தி ” 2024 தேர்தலில் ரணிலுக்கு உதவுமா?
+
+*2024-07-04 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84334) · `en`
+
+ரணில் விக்கிரமசிங்க 2022 மே 12 ஆம் திகதி அன்றைய ஜனாதிபதி கோட்டாபய ராஜபக்சவினால் பிரதமராக நியமிக்கப்பட்டார். அப்போது இலங்கை படுமோசமான பொருளாதார நெருக்கடியில் சிக்கியிருந்தது.’ அறகலய போராட்டம் தீவிரமடைந்து கொண்டிருந்தது. புதிய பிரதமர் 2022 மே 16 ஆம் திகதி நாட்டு மக்களுக்கு விசேட உரையொன்றை ஆற்றினார். அந்த உரையில் விக்கிரமசிங்க  ஜேர்மன் நாடகாசிரியர் பேரொல்ற் பிறெற்றின் ‘ கோகேசியன் ஷோக் சேர்க்கிள் ‘ ( Caucasian Chalk Circle) என்ற நாடகம் பற்றி குறிப்பிட்டார்.
+
+...
+
+[Data](articles/4fca80c0.json)
+
+[Extended Data](ext_articles/4fca80c0.ext.json)
 
 ---
 
@@ -2081,189 +2211,5 @@ There is no suicide, or whether these deaths are suicide, or an accident regardi
 [Data](articles/db55354c.json)
 
 [Extended Data](ext_articles/db55354c.ext.json)
-
----
-
-### Ratnayake won the Ritbury Series Running Championship
-
-*2024-07-03 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/187623) · `ta`
-
-Ratnayake Central College dominated the Ritbury Series Running Championship, winning several events including the 4x800 meters for both men's categories under 16 and 18, and securing the overall lead with 7 gold medals after two days. Other notable winners include Banangagumbura National School for women under 18 and various schools for specific races, with Wattala Lyceum International School also performing well.
-
-🟩
-
-The second writbury schools in the Vincent Dias Stadium, Badulla. The Welimada Bankumbura National School team won the history of the Ratnayake National College team.
-
-The Banangagumbura National School team won the gold medal for 10 minutes 28.8 seconds for women under the age of 18.
-
-Walla is expected to win the match. Ratnayake Central College (10: 29.8 n) finished second.
-
-However, the second day is the second day, just like the first day.. Ratnayake Central College has not failed to express its domination.
-
-On the first day, 4 gold medals were won by Ratnayake Central College, the second day.
-
-4 x 800 meters of race for men under 16 (8: 34.4 n.), 4 x 800 meters of men aged 18 years (8: 22.3 n.)Walala Ratnayake Central College has won 3 gold medals.
-
-Moratuwa Vinayanagi Nunnas Monastery and Negombo Ave Merna Monastery won gold medals in the 4 x 50m race for girls under the age of 12 (29.8 Seg).
-
-...
-
-[Data](articles/97b09e68.json)
-
-[Extended Data](ext_articles/97b09e68.ext.json)
-
----
-
-### When will the President's term of office end?
-
-*2024-07-03 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198455) · `si`
-
-The Supreme Court has issued an interim order related to the presidential election, pending the President's decision on extending the term of office. This comes after a petition highlighted issues with the 19th Amendment, which reduced the presidential term to five years without a referendum, potentially violating constitutional provisions. The petitioner argues this could lead to confusion over whether the term ends in five or six years, creating a legal dilemma.
-
-🟩
-
-The Supreme Court has filed an interim order in the Supreme Court until the president is planning to issue an interim order for the presidential election.
-
-It is a entrepreneur of an entrepreneur resident in Moratuwa, CD. By Mr. Leena.
-
-CD, a entrepreneur. The petition filed by the Supreme Court in the Supreme Court today was the 19th Amendment that a vagree was created by the President's term of office due to the 19th Amendment.
-
-When the president's term of office is reduced to 5 years in 2015, the petitioner points out that it should not be a referendum.
-
-ඒ අනුව ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 82 වැනි ව්‍යවස්ථාව අනුව නිසිපරිදි ජනමත විචාරණයක් නොපැවැත්වීමෙන් 30(2) ව්‍යවස්ථාව නිසි පරිදි සම්මත වී නොමැති බවත්, එබැවින් ජනාධිපතිවරයාගේ නිල කාලය අවසන් වන්නේ අවුරුදු 05 කින්ද, නැතිනම් අවුරුදු 06 කින්ද යනුවෙන් ගැටලුවක් මතු වන බවත් පෙත්සමේ සඳහන් ය.
-
-The petitioner has asked for an interim order to issue a deterrent to the presidential election until the end of the presidential term of office.
-
-◼️
-
-[Data](articles/3e15860c.json)
-
-[Extended Data](ext_articles/3e15860c.ext.json)
-
----
-
-### Gusal Perera was in vain;Jevna Kings beat Dambulla Sixers with 4 wickets
-
-*2024-07-03 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/187622) · `ta`
-
-In the 4th match of the 5th Lanka Premier League, Jevna Kings defeated Dambulla Sixers by 4 wickets, despite Kusal Janith Perera scoring a century for Dambulla. Jevna Kings' win was secured through partnerships from Avishka Fernando and Sarit Asalanka, and Azmatullah Omarzai and Babar's late-game contributions. Mustafizur Rahman and Nuwan Dushara were key bowlers for Jevna Kings.
-
-🟩
-
-Former Champion Jevna Kings won the Sixers in the 4th match of the 5th Lanka Premier League held at the Pallekele International Cricket Stadium on Wednesday (03).
-
-Jevna Kings won the last ball in the up -the -up match.
-
-Although Kusal Janith Perera scored a century on behalf of Dambulla Sixers, half -centuries of Avishka Fernando and Sarit Asalananka was wasting it and helped Jevna Kings to win.
-
-Dambulla Sixers scored 191 runs for the loss of only 2 wickets in 20 overs.
-
-Through this, Gusal Perera is the pride of the first century in the Fifth Lanka Premier League Cricket Chapter.
-
-The total number of Dambulla Sixers was 18 runs when the opening player Dhanushka Gunathilaka lost 9 runs.
-
-However, Kusal Perera was struck by Nuwanidu Fernando and strengthened the team by sharing 108 runs in the 2nd wicket and 65 runs in the 3rd wicket that was not divided with Mark Sabman.
-
-Gusal Perera did not lose 52 balls with 102 pounds and 5 sixes.
-
-Nuwnidu Fernando scored 40 runs and Mark Sabman scored 33 runs.
-
-...
-
-[Data](articles/c57d6547.json)
-
-[Extended Data](ext_articles/c57d6547.ext.json)
-
----
-
-### Three new appointments by the Governor of the Northern Province
-
-*2024-07-03 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/187621) · `ta`
-
-BSMM, Governor of the Northern Province, appointed K. Kanjana as Commissioner of the Northern Provincial Motor Transport Department and the Department of Children's Welfare, and Mrs. A. Ezhilarasi as Deputy Chief Secretary of the Northern Province Administration, effective from Wednesday (03).
-
-🟩
-
-Governor of the Northern Province BSMM has appointed new authorities for the post of Commissioner of two departments for the Northern Province and the Deputy Chief Secretary of the Provincial Council.. Charles presented on Wednesday (03).
-
-K. Kanjana has been appointed as the Commissioner of the Northern Provincial Motor Transport Department as the Commissioner of the Northern Province Department of Children's Welfare, and Mrs. A. Ezhilarasi has been appointed as the Deputy Chief Secretary of the Northern Province (Administration).
-
-The letters for them were presented at the Governor of the Northern Province on Wednesday (03).
-
-◼️
-
-[Data](articles/5a4edce4.json)
-
-[Extended Data](ext_articles/5a4edce4.ext.json)
-
----
-
-### Japan welcomes Sri Lanka’s debt restructuring efforts
-
-*2024-07-03 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100275/japan-welcomes-sri-lankas-debt-restructuring-efforts) · `en`
-
-Japanese Foreign Minister Yoko Kamikawa on Tuesday praised Sri Lanka’s recent efforts to address its economic crisis and debt restructuring, following the South Asian country’s agreement with creditor nations, according to the Japanese government.
-
-Kamikawa met with her Sri Lankan counterpart, Ali Sabry, in Tokyo, and they agreed that their countries will further promote exchanges of human resources, according to the Japanese Foreign Ministry.
-
-Sri Lanka announced last week it had reached a debt restructuring deal covering about $5.8 billion with creditor countries, including China, its largest bilateral lender, and Japan.
-
-Sri Lanka defaulted on its foreign debt in 2022, triggering an economic crisis.
-
-Kamikawa and Sabry last held talks in May in Colombo, affirming their commitment to work together toward the “transparent” restructuring of the country’s debt.
-
-◼️
-
-[Data](articles/ed41843d.json)
-
-[Extended Data](ext_articles/ed41843d.ext.json)
-
----
-
-### JAPNA wins super
-
-*2024-07-03 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198454) · `si`
-
-Jaffna Kings, led by Kusal Perera's 102 runs, defeated Dambulla Vikings and Kings by 4 wickets after electing to bat first, scoring 197/6 in 20 overs, surpassing Dambulla's 191/7.
-
-🟩
-
-The Dambulla Sikathers of the LPL cricket team and Jarffna beat the Dambulla Sikickers and Jarffna Kings by 4 wickets.
-
-JAffna won the toss and elected to bat first.
-
-Accordingly, Dambulla team scored 191 runs for the loss of seven wickets in their 20 overs.
-
-In reply, Jaffa did scored 197 runs for the loss of 6 wickets at the end of 20 wickets.
-
-Kusal Perera scored 102 runs for the Dambulla Team.
-
-◼️
-
-[Data](articles/7f30e103.json)
-
-[Extended Data](ext_articles/7f30e103.ext.json)
-
----
-
-### Sri Lanka port trade unions oppose increase in female gantry operators: Minister
-
-*2024-07-03 18:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-trade-unions-oppose-increase-in-female-gantry-operators-minister-170719/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s port trade unions have protested the increase of female gantry crane operators despite the port employing only 10 females working in the role, Minister of Ports, Shipping and Aviation, Nimal Siripala De Silva said.
-
-“I want to recruit them but these people are saying there are other people who have been working in the harbor for a long time they must be upgraded without taking ladies,” De Silva told reporters on Wednesday.
-
-Sri Lanka currently has only 10 female gantry crane operators, however, the Ministry of Ports has been attempting to increase the female labor force among gantry workers at the insistence of the International Labor Organization, which suggested that Sri Lanka practice gender equality in its ports.
-
-Sri Lanka port faces union opposition in increasing female workers: Minister
-
-“These ladies are surviving [in this environment] and working. They are very perfect workers,” De Silva said.
-
-...
-
-[Data](articles/4321eb56.json)
-
-[Extended Data](ext_articles/4321eb56.ext.json)
 
 ---

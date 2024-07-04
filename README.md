@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 17:56:01**
+As of **2024-07-04 18:14:02**
 
 ## Newspaper Stats
 
-*Scraped **33,681** Articles*
+*Scraped **33,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,982
 dailyftlk | 2,084
-adalk | 3,010
+adalk | 3,011
 adaderanalk | 3,844
-tamilmirrorlk | 3,982
+tamilmirrorlk | 3,983
 dailymirrorlk | 4,733
 virakesarilk | 5,269
 adaderanasinhalalk | 5,584
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,584
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,680 (100.0%) of 33,681 articles have been extended.
+33,681 (100.0%) of 33,683 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### අද රාත්‍රී 9 සිට පැය 18ක ජල කප්පාදුවක්
+### 18 hours of water cut from 9 pm
 
 *2024-07-04 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198487) · `si`
 
-අද (04) රාත්‍රී 9 සිට පැය 18ක ජල කප්පාදුවක් සිදුකෙරෙන බව ජාතික ජලසම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
+Due to emergency maintenance at the Ambatale Water Treatment Plant, there will be a 12-hour water cut affecting Kolonnawa, Kaduwela, Mulleriyawa, and Kotikawatta areas from 9 pm to 3 am today.
 
-ඒ අනුව කොළොන්නාව නගර සභා බල සීමාව, කඩුවෙල මහ නගර සභා බල ප්‍රදේශය, මුල්ලේරියාව සහ කොටිකාවත්ත ප්‍රාදේශීය සභා බල ප්‍රදේශවලට පැය 18ක කාලයක් ජල සැපයුම අත්හිටුවන බව දැනුම්දෙයි.
+🟩
 
-අද (04) රාත්‍රී 9 සිට හෙට (05) පස්වරු 3 දක්වා මෙලෙස ජල කප්පාදුව සිදු කෙරෙයි.
+The National Water Supply and Drainage Board says that a 12-hour water cut will take place today (04).
 
-අඹතලේ ජල පවිත්‍රාගාරයේ සිට ජලය සැපයෙන ජල නලයක හදිසි නඩත්තු කටයුත්තක් මීට හේතුවී තිබේ.
+Accordingly, the water supply of water cut in Kolonnawa Municipal Council area, the Kaduwela Municipal Council, Mulleriyawa and Kotikawatta Pradeshiya Sabha areas
+
+The water cuts will be held from 9pm to 3 pm today (04).
+
+This has been due to an emergency maintenance in the Ambatale Water Treatment Plant.
 
 ◼️
 
 [Data](articles/abe5a7fe.json)
+
+[Extended Data](ext_articles/abe5a7fe.ext.json)
 
 ---
 
@@ -162,11 +168,13 @@ Sampath Bank Plc, one of five crossings in the day, also saw foreign buying inte
 
 The Supreme Court today issued an interim injunction order preventing the implementation of the Gazette notification issued by the Labour Minister increasing the daily wage of the plantation employee to Rs. 1,700.
 
+The Supreme Court issued this order while allowing the hearing of an appeal petition filed by plantation companies including Agarapathana Plantations Ltd, against the relevant Gazette imposing a minimum wage for plantation workers.
+
+The order was issued by a three-member Supreme Court bench consisting of Justices Gamini Amarasekara, Kumuduni Wickramasinghe and Janak de Silva.
+
+The judgment also states that this interim order will remain in force until the hearing of the petition is concluded. After that, it was decided to call the petition for further hearing on August 28.
+
 A petition had been filed by plantation companies seeking an order invalidating the gazette notification issued by the Minister of Labor stipulating a minimum daily wage for plantation workers.
-
-The petition had been filed by 21 plantation companies including Agarapatana Plantations Ltd while the petitioners have named 52 individuals including Minister of Labor Manusha Nanayakkara and the Labor Commissioner as respondents of the case.
-
-The petitioning plantation companies point out that the Minister of Labor has issued a gazette notification setting the minimum daily wage of a plantation worker at Rs. 1,350, together with an allowance of Rs. 300 and another allowance of Rs. 80, as minimum wage.
 
 ...
 
@@ -944,6 +952,24 @@ Today (July 04), the US purchasing price of the US dollar was recorded at Rs 299
 
 ---
 
+### ළමා අපයෝජකයා සිවුරු දරා සිටියදී අල්ලයි
+
+*2024-07-04 12:31:47* · [`adalk`](https://www.ada.lk/breaking_news/ළමා-අපයෝජකයා-සිවුරු-දරා-සිටියදී-අල්ලයි/11-410609) · `si`
+
+බාල වයස් පිරිමි ළමුන් දෙදෙනෙකු බරපතල ලිංගික අපයෝජනයකට ලක් කර පලාගොස් සිටි සැකකරු සිවුරු දරා හිමිනමක ලෙස  සැඟව සිටියදී අනුරාධපුර පූජා භූමියකදී  අත්අඩංගුවට ගත් බව නිකවැරටිය මූලස්ථාන පොලීසිය සඳහන් කරයි.
+
+නිකවැරටිය පොලිස්  වසමේ පදිංචි වයස අවුරුදු 14  සහ 16  වයස් වල පසුවන බාල වයස්  පිරිමි ළමුන් දෙදෙනෙකු  රවටා⁣  ගෙන  ගොස් බරපතල ලිංගික අපයෝජනයකට ලක් කල සැකකරු මාස අටක පමණ කාලයක් මෙලෙස  සැඟවී සිටියදී ,අත්අඩංගුවට ගත් බවද පොලීසිය සඳහන් කරයි.
+
+සැකකරු  චීවරධාරියෙකු  ලෙස ,අනුරාධපුර  පූජා භූමි පෙදෙසක සිටින බවට ලද තොරතුරක්  අනුව,ඉතා උපක්‍රමශීලී ලෙස  සැකකරු අත්අඩංගුවට ගැණීමට  පියවර ගත් බවද පොලීසිය තවදුරටත්  සඳහන් කරයි .
+
+සැකකරු නිකවැරටිය පොලිස්  වසමේ පදිංචි පාසැල් මුරකරුවෙකු මෙන්ම උපකාරක පංති ගුරුවරයෙකු ලෙසද කටයුතු කරමින් සිට ඇති බවට පරීක්ෂණ වලදී අනාවරණය වී ඇති අතර  සිද්ධියෙන් පසුව ප්‍රදේශයෙන් පලා ගොස් මාස අටක පමණ කාලයක් මෙලෙස සැඟව සිට ඇති බවද පොලීසිය සඳහන් කරයි .
+
+...
+
+[Data](articles/5871bdee.json)
+
+---
+
 ### Not to quit the presidential election - Baidon confirmed
 
 *2024-07-04 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/187656) · `ta`
@@ -1441,6 +1467,20 @@ Purawara Udani was held for nine days at the Walkendha Harischandra Park. The Mu
 [Data](articles/f9a7370d.json)
 
 [Extended Data](ext_articles/f9a7370d.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தல்: ரணில் அதிரடி அறிவிப்பு
+
+*2024-07-04 10:19:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தல்-ரணில்-அதிரடி-அறிவிப்பு/175-339853) · `ta`
+
+2024ஆம் ஆண்டு ஜனாதிபதித் தேர்தலை நடத்துவதற்கு தேர்தல்கள் ஆணைக்குழுவின் உறுப்பினர்களுக்கு இடைக்காலத் தடை உத்தரவு பிறப்பிக்குமாறு கோரி சமிந்திர தயான் லெனவ என்பவர் உயர் நீதிமன்றத்தில் தாக்கல் செய்துள்ள மனு குறித்து  அரசாங்கம் கவனம் செலுத்தியுள்ளது.
+
+மேற்படி மனுவை தாக்கல் செய்வதன் மூலம், இலங்கை ஜனநாயக சோசலிச குடியரசின் அரசியலமைப்பின் பிரிவு 12(1), 82(6), 3, 4, 118 மற்றும் 125 ஆகிய பிரிவுடன் வாசிக்கப்பட வேண்டிய 126 இன் படி அரசியலமைப்பின் 19ஆவது திருத்தத்தின் 3ஆம் பிரிவின் ஊடாகத்  திருத்தப்பட்ட பிரிவு 30(2)ஐ வியாக்கியானம் செய்யக்கூடாது என குறித்த மனுவில் குறிப்பிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/7c3054f1.json)
 
 ---
 
@@ -2249,45 +2289,5 @@ For the first time in history, the Sri Lanka Ports Authority (SLPA), signed a Me
 [Data](articles/60992632.json)
 
 [Extended Data](ext_articles/60992632.ext.json)
-
----
-
-### AKD says Ranil has no chance of getting tenure extension
-
-*2024-07-04 03:40:38* · [`dailyftlk`](https://www.ft.lk/news/AKD-says-Ranil-has-no-chance-of-getting-tenure-extension/56-763836) · `en`
-
-National People’s Power (NPP) leader Anura Kumara Dissanayake yesterday said President Ranil Wickremesinghe has no chance of getting a one-year extension of his tenure as the Supreme Court has given a clear ruling in 2019 that the President’s tenure is five years.
-
-Dissanayake told the media in Colombo that the President and his group were trying to create confusion among the people about the Presidential election.
-
-“The Supreme Court has given a clear ruling in 2019 when the then President Maithripala Sirisena sought Supreme Court determination of the President’s tenure. The Supreme Court observed that the President’s tenure is restricted to five years as per the 19th Amendment to the Constitution,” he said.
-
-Dissanayake said the NPP never thinks that the President will get an extension of his term as per the ruling given by the Supreme Court in 2019.
-
-He said the NPP will defeat any conspiracies or tactics of the President and his group to secure power without facing the people.
-
-...
-
-[Data](articles/2ca42146.json)
-
-[Extended Data](ext_articles/2ca42146.ext.json)
-
----
-
-### Supreme Court suspends criminal proceedings in X-Press Pearl case
-
-*2024-07-04 03:37:31* · [`dailyftlk`](https://www.ft.lk/news/Supreme-Court-suspends-criminal-proceedings-in-X-Press-Pearl-case/56-763835) · `en`
-
-The Supreme Court yesterday issued an interim order stating further proceedings relating to the indictment filed before the Colombo High Court against eight accused, including the Captain of the fire-ravaged container ship MV X-Press Pearl.
-
-The Supreme Court three-judge-bench comprising Justices A.H.M.D. Nawaz, Kumuduni Wickramasinghe and Priyantha Fernando issued this interim order pursuant to a special leave to appeal application filed by the accused-petitioners challenging the Court of Appeal decision to dismiss their revision applications. This interim order will be effective till 12 February next year.
-
-The Attorney General filed the indictment against eight accused before the Colombo High Court, charging them on eight counts in terms of Section 26(a) of the Marine Pollution Prevention Act No. 35 of 2008 for the destruction caused to the coastal areas of the country within the territorial waters of Sri Lanka.
-
-...
-
-[Data](articles/55e34197.json)
-
-[Extended Data](ext_articles/55e34197.ext.json)
 
 ---

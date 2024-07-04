@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 15:05:06**
+As of **2024-07-04 15:19:36**
 
 ## Newspaper Stats
 
-*Scraped **33,652** Articles*
+*Scraped **33,654** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,52 +19,104 @@ adalk | 3,009
 adaderanalk | 3,840
 tamilmirrorlk | 3,980
 dailymirrorlk | 4,733
-virakesarilk | 5,262
+virakesarilk | 5,264
 adaderanasinhalalk | 5,579
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,649 (100.0%) of 33,652 articles have been extended.
+33,652 (100.0%) of 33,654 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### ලෝක ශූරයින්ට උණුසුම් පිළිගැනීමක්
+### மூச்சுக்குழாயில் சிக்கிய நாணயக்குற்றி 8 ஆண்டுகளுக்கு பின் அகற்றம்..!
+
+*2024-07-04 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/187672) · `ta`
+
+இந்தியாவின் உத்தரப்பிரதேச மாநிலம் வாரணாசியில் உள்ள பனாரஸ் இந்து பல்கலைக்கழகத்தின் சர் சுந்தர்லால் வைத்தியசாலையில் கடந்த வாரம் 40 வயது மதிக்கத்தக்க ஒருவர் மூச்சுத்திணறல் காரணமாக அனுமதிக்கப்பட்டுள்ளார்.
+
+அவரை பரிசோதித்த வைத்தியர்கள், மூச்சுக்குழாயில் 25 சதம் நாணயக்குற்றி ஒன்று சிக்கி இருப்பதை கண்டுபிடித்தனர். இதையடுத்து  கடந்த 2ம் திகதி, கார்டியோ - தொராசிக் அறுவை சிகிச்சை மூலம், மூச்சுக்குழாயில் சிக்கியிருந்த நாணயத்தை வெற்றிகரமாக அகற்றியுள்ளனர்.
+
+பாதிக்கப்பட்ட அந்த நபர் தனது 32வது வயதில் நாணயத்தை வாயில் வைத்து உறங்கியபோது அதை விழுங்கி உள்ளார். அதன் காரணமாக அவருக்கு அவ்வப்போது மூச்சுத்திணறல் ஏற்பட்டுள்ளது. கடந்த வாரம் மூச்சுத்திணறல் அதிகரிக்கவே வைத்தியசாலைக்கு சென்றுள்ளார்.
+
+நாணயத்தை அகற்றிய பின்னர் அவர் நலமுடன் இருப்பதாக பனாரஸ் இந்து பல்கலைக்கழகத்தின் பேராசிரியர்கள் சித்தார்த் லகோடியா மற்றும் எஸ்.கே.மாத்தூர் ஆகியோர் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/738a591f.json)
+
+---
+
+### Warm welcome to world champions
 
 *2024-07-04 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198482) · `si`
 
-වසර 17කට පසු 20 -20 ලෝක කුසලානය දිනාගත් රෝහිත් ශර්මා ප්‍රමුඛ ලෝක ශූර ඉන්දීය කණ්ඩායම අද (04) උදෑසන නවදිල්ලිය වෙත පැමිණියේය.
+Bhameha Sharma's team, the world champions, arrived in New Delhi after winning the 2024 Twenty20 World Cup in the West Indies. Due to flight suspensions and weather, their stay was extended by three days. They were welcomed by a large crowd and met with Indian Prime Minister Narendra Modi before heading to Mumbai for a celebration at the Wankade Stadium.
 
-ලෝක ශූර ඉන්දීය කණ්ඩායම ඉන්පසු ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදිවද හමුවිය.
+🟩
 
-ලෝක කුසලානය ජයග්‍රහණය වෙනුවෙන් පවත්වන සැමරුම ඉන්දියාවේ මුම්බායි නුවරදි අද පස්වරු 5ට පැවැත්වීමට නියමිත ය.
+The World Championship Bhameha Sharma arrived at New Delhi this morning (04).
 
-අමෙරිකාවේ සහ බටහිර ඉන්දීය කොදෙව් දූපත්හි පැවති 2024 විස්සයි විස්ස ලෝක කුසලාන තරගාවලිය  දකුණු අප්‍රිකාව පරාජය කරමින් තමා සතු කරගැනීමට ඉන්දියාව පසුගිය සෙනසුරාදා සමත්වුණි.
+World Champions Indian team then met Indian Prime Minister Nare Modika.
 
-නමුත් කැරිබියානු කලාපයට බලපා තිබු සුළි කුණාටු සහ අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් ගුවන් ගමන් අත්හිටුවා තිබීම නිසා ලෝක ශූර ඉන්දීය කණ්ඩායමට සිය රටට පැමිණීමට නොහැකිව දින 3ක් පමණ බාබෙඩෝස් රැඳී සිටීමට සිදුවිය.
+Mumbai Fuddling of India is to commemorate the World Cup victory.
 
-ඉන්පසු එයාර් ඉන්දියා විශේෂ ගුවන් යානයක් ඊයේ දිනයේදී බාබෙඩෝස් වෙත ළඟා වූ අතර එම ගුවන් යානයෙන් ලෝක ශූර ඉන්දීය කණ්ඩායම අද උදෑසන 6ට පමණ දිල්ලිහි ඉන්දිරා ගාන්ධි ජාත්‍යන්තර ගුවන්තොටුපොළට පැමිණියේ පැමිණියේය.
+The 2024 Twenty20 World Cup in the West Indies and the West Indies were defeated by India.
+
+But due to the suspension of flights and bad weather faced due to the borrowing weather, the world champion was suspended for about 3 days to stay in his country.
+
+A special flight of Air India reached Barbudos yesterday this morning at Indira Gandhi, Indira Gandhi, Delhi at about 6 am this morning.
+
+However, as a result of flights, Several aircraft had come to Zimbabwe from West Indies to participate in Zimbabwe, the world championship team.
+
+A large number of sports fans have joined New Delhi town to welcome the world champion.
+
+The World Championship Bhayam Sharma, led by the World Championship, met Indian Prime Minister Narendra Modi.
 
 ...
 
 [Data](articles/62709e61.json)
 
+[Extended Data](ext_articles/62709e61.ext.json)
+
 ---
 
-### රේගු වැඩවර්ජනය අත්හිටුවයි
+### சம்பந்தனின் பூதவுடலுக்கு இலங்கை தமிழரசுக் கட்சியின் கொடி போர்த்தி மாவை அஞ்சலி !
+
+*2024-07-04 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/187669) · `ta`
+
+இலங்கைத் தமிழரசுக் கட்சியின் சிரேஷ்ட தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான அமரர் இராஜயவரோதயம் சம்பந்தனின் பூதவுடல் யாழ்ப்பாணத்தில் அஞ்சலிக்காக வைக்கப்பட்டுள்ளது.
+
+கொழும்பில் இருந்து விமானம் மூலம் யாழ்ப்பாணம் சர்வதேச விமான நிலையத்திற்கு கொண்டு வரப்பட்டு அங்கிருந்து இலங்கை தமிழரசுக் கட்சி தலைமையகமான மாட்டீன் வீதியில் அஞ்சலிக்காக வைக்கப்பட்டிருந்தது. அங்கு இலங்கை தமிழரசுக் கட்சியின் தலைவர் மாவை சேனாதிராசா பூதவுடலுக்கு கட்சிக் கொடி போர்த்தி மலர் மாலை அணிவித்து மலர் அஞ்சலி செலுத்தினார்.
+
+தொடர்ந்து கட்சியின் சிரேஷ்ட உறுப்பினர்கள் நிர்வாகிகள் அரசியல் தலைவர்கள் பொது மக்கள் அஞ்சலி செலுத்தினர் தொடர்ந்து தந்தை செல்வாவின் கலையரங்கத்தில் அஞ்சலிக்காக வைக்கப்பட்டு அஞ்சலி செலுத்தும் நிகழ்வு அரசியல் கட்சித் தலைவர்கள் மததத்தலைவர்கள், இந்திய துணை துதுவர், வடக்குமாகாண ஆளுநர் திருமதி சாள்ஸ், புனித பத்திரிசிரியார் கல்லூரியின் அதிபர் ஆசிரியர்கள் மாணவர்கள் பொதுமக்கள் எனப் பலர் அஞ்சலி செலுத்தி வருகின்றார்கள்.
+
+◼️
+
+[Data](articles/245013f4.json)
+
+---
+
+### Customs strike suspended
 
 *2024-07-04 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198481) · `si`
 
-ශ්‍රී ලංකා රේගු වෘත්තීය සමිති වැඩවර්ජනය අත්හිටුවීමට තීරණය කර තිබේ.
+Sri Lanka Customs Trade Union has called off its strike after discussions with State Minister Ranjith Siyambalapitiya.
 
-ඒ මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා සමග පැවති සාකච්ඡාවකින් අනතුරුවය.
+🟩
+
+The Sri Lanka Customs Trade Union has decided to suspend strike.
+
+The money was after a discussion with State Minister Ranjith Siyambalapitiya.
 
 ◼️
 
 [Data](articles/59fc71af.json)
+
+[Extended Data](ext_articles/59fc71af.ext.json)
 
 ---
 
@@ -74,7 +126,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Sri Lanka Customs trade unions have decided to call off their trade union action following discussions with the State Minister of Finance Ranjith Siyambalapitiya.
 
-The trade unions including the Customs Officers’ Union had decided to engage in trade union action by reporting ‘sick leave’ today (3) and tomorrow (4), in protest over the lack of a satisfactory response to their demands from the authorities.
+The trade unions including the Customs Officers’ Union had decided to engage in trade union action by reporting ‘sick leave’ today (4) and tomorrow (5), in protest over the lack of a satisfactory response to their demands from the authorities.
 
 A spokesman for the union had said that the union’s members engaged in this trade union action to protest against the authorities’ arbitrary decision to introduce the Sri Lanka Revenue Authority (SLRA) Bill and make amendments to various sections of the Customs Ordinance.
 
@@ -88,17 +140,23 @@ He added that customs officials have been engaging in a “work-to-rule” trade
 
 ---
 
-### PHI මහත්තයා ඝාතනයට සැකකාර වෙඩික්කරු අත්අඩංගුවට
+### Shoolegner arrested for murder
 
 *2024-07-04 14:14:26* · [`adalk`](https://www.ada.lk/breaking_news/PHI-මහත්තයා-ඝාතනයට-සැකකාර-වෙඩික්කරු-අත්අඩංගුවට/11-410612) · `si`
 
-ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරික රොෂන් කුමාර මහතා ඝාතනය කිරීමේ සිදුවීමට අවශ්‍යව සිටි වෙඩික්කරු බවට සැක කෙරෙන පුද්ගලයා ගිනිඅවි දෙකක් ද සමග ගල්කිස්ස ප්‍රදේශයේ දී අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+Shoolegner, suspected of murdering Treasurer Roshas of the Sri Lanka Public Health Inspectors Association, was arrested in Mount Lavinia with two firearms. Mr. Rosha Kumara was killed on February 26; the suspect fled the scene on a motorcycle.
 
-රොෂන් කුමාර මහතා ඉකුත් පෙබරවාරි 26 වනදා උදෑසන වෙඩිතබා ඝාතනය කර සැකකරුවන් යතුරුපැදියකින් පළාගොස් තිබුණි.
+🟩
+
+Police say that the shooter who was suspected to be held in Mount Lavinia was arrested in Mount Lavinia with two firearms to assassinate Treasurer Roshas of the Sri Lanka Public Health Inspectors Association.
+
+Mr. Rosha Kumara had shot dead on the morning of February 26 and fled the motorcycle.
 
 ◼️
 
 [Data](articles/c9e0376c.json)
+
+[Extended Data](ext_articles/c9e0376c.ext.json)
 
 ---
 
@@ -121,6 +179,32 @@ The woman was wasps when she was cutting palm tiles in a land near her home.
 [Data](articles/44b00d08.json)
 
 [Extended Data](ext_articles/44b00d08.ext.json)
+
+---
+
+### JR's grandson joined the United People's Power!
+
+*2024-07-04 13:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187663) · `ta`
+
+Pradeep Jayawardene, grandson of former President JR Jayawardene, has joined the United People's Power party to back Opposition Leader Sajith Premadasa. He's been named the Gampaha District Organizer for the party, having previously worked with the SLFP and representing them in various elections.
+
+🟩
+
+Pradeep Jayawardena, the grandson of President JR Jayawardene, has joined the United People's Power in order to support the political journey of Opposition Leader Sajith Premadasa.
+
+Opposition Leader Sajith Premadasa has appointed Pradeep Jayawardene, who joined the United People's Power as the United People's Power Gampaha District Organizer.
+
+He has served as the organizer of the Sri Lanka Freedom Party (SLFP) Colombo Eastern Election constituency and a member of the Central Committee.
+
+He represented the Gampaha district through the Sri Lanka Freedom Party (SLFP) in 2015 and was elected to the Colombo Municipal Council election in 2017.
+
+He also attended a media briefing at the Opposition Leader's office on Thursday (03).
+
+◼️
+
+[Data](articles/a4638c6f.json)
+
+[Extended Data](ext_articles/a4638c6f.ext.json)
 
 ---
 
@@ -169,32 +253,6 @@ Vithanage was also the Treasurer of the Sri Lanka Public Health Inspectors’ Un
 [Data](articles/e38ac3f7.json)
 
 [Extended Data](ext_articles/e38ac3f7.ext.json)
-
----
-
-### JR's grandson joined the United People's Power!
-
-*2024-07-04 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/187663) · `ta`
-
-Pradeep Jayawardene, grandson of former President JR Jayawardene, has joined the United People's Power party to back Opposition Leader Sajith Premadasa. He's been named the Gampaha District Organizer for the party, having previously worked with the SLFP and representing them in various elections.
-
-🟩
-
-Pradeep Jayawardena, the grandson of President JR Jayawardene, has joined the United People's Power in order to support the political journey of Opposition Leader Sajith Premadasa.
-
-Opposition Leader Sajith Premadasa has appointed Pradeep Jayawardene, who joined the United People's Power as the United People's Power Gampaha District Organizer.
-
-He has served as the organizer of the Sri Lanka Freedom Party (SLFP) Colombo Eastern Election constituency and a member of the Central Committee.
-
-He represented the Gampaha district through the Sri Lanka Freedom Party (SLFP) in 2015 and was elected to the Colombo Municipal Council election in 2017.
-
-He also attended a media briefing at the Opposition Leader's office on Thursday (03).
-
-◼️
-
-[Data](articles/a4638c6f.json)
-
-[Extended Data](ext_articles/a4638c6f.ext.json)
 
 ---
 
@@ -2179,37 +2237,5 @@ We can see many cases where students from affected families face problems in the
 [Data](articles/059c575c.json)
 
 [Extended Data](ext_articles/059c575c.ext.json)
-
----
-
-### Introducing world’s first 2024 GMC Hummer EV in right-hand drive
-
-*2024-07-03 23:27:00* · [`islandlk`](http://island.lk/introducing-worlds-first-2024-gmc-hummer-ev-in-right-hand-drive/) · `en`
-
-The automotive industry is abuzz with excitement as they proudly introduce the world’s first 2024 GMC Hummer EV in right-hand drive. This revolutionary vehicle marks a significant milestone in their commitment to delivering unparalleled innovation and luxury in the electric SUV market.
-
-The 2024 GMC Hummer EV SUV, in the exclusive Moonshot Green Edition 1, is not just an electric vehicle; it’s a game-changer. With a powerful 3-motor setup, this beast delivers an astonishing 830 horsepower and a mind-blowing 11,500 lb-ft of torque. Engineered for the ultimate off-road experience, it features the groundbreaking CrabWalk capability, allowing for diagonal movement to navigate tight trails and rugged terrains with ease.
-
-...
-
-[Data](articles/3ab3b4c1.json)
-
-[Extended Data](ext_articles/3ab3b4c1.ext.json)
-
----
-
-### British Council presents ‘Youth-Led Green and Inclusive Businesses’ at ‘Pathways to Sustainability: Entrepreneurs’ Showcase’ event
-
-*2024-07-03 23:26:00* · [`islandlk`](http://island.lk/british-council-presents-youth-led-green-and-inclusive-businesses-at-pathways-to-sustainability-entrepreneurs-showcase-event/) · `en`
-
-The British Council Sri Lanka celebrated the successful pilot phase of the ‘Youth-Led Green and Inclusive Businesses’ project to commemorate the 2024 International Micro, Small and Medium-sized Enterprises (MSMEs) Day. The ‘Youth-Led Green and Inclusive Businesses’ project equipped young entrepreneurs with knowledge, skills, resources, and networks, and aimed to transform existing businesses into greener and more inclusive models.
-
-The event, titled ‘Pathways to Sustainability: Entrepreneur’s Showcase,’ marked the culmination of the project. Thirty young business leaders from Sri Lanka had the opportunity to present progressive steps undertaken by them towards making their businesses greener and more inclusive with innovative solutions as well as network with key stakeholders and advocate for common causes. The British Council collaborated with two local organisations, the Green Movement of Sri Lanka and Lanka Social Ventures to implement this project.
-
-...
-
-[Data](articles/362e93d1.json)
-
-[Extended Data](ext_articles/362e93d1.ext.json)
 
 ---

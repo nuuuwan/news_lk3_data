@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 21:35:20**
+As of **2024-07-04 21:54:24**
 
 ## Newspaper Stats
 
-*Scraped **33,705** Articles*
+*Scraped **33,706** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,846
 tamilmirrorlk | 3,986
 dailymirrorlk | 4,733
 virakesarilk | 5,277
-adaderanasinhalalk | 5,587
+adaderanasinhalalk | 5,588
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,705 (100.0%) of 33,705 articles have been extended.
+33,705 (100.0%) of 33,706 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### බැඳුම්කර එකඟතා ගැන පැහැදිලි කරයි
+
+*2024-07-04 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198493) · `si`
+
+ජාත්‍යන්තර බැඳුම්කර ණය ප්‍රතිව්‍යුහගතකරණය සඳහා ශ්‍රී ලංකාව සහ ණයහිමියන් ඊයේ (03) එකඟතාවකට පැමිණ තිබේ.
+
+ඒ යටතේ අමෙරිකානු ඩොලර් බිලියන 12.5 ක බැඳුම්කර ප්‍රතිව්‍යුහගතකරණය කිරීමට නියමිතය.
+
+විදෙස් ද්වීපාර්ශ්වික ණය සහ දේශීය ණය දැනටමත් ප්‍රතිව්‍යුහගතකරණය අවසන් කර ඇති අතර බැඳුම්කර ණය සම්බන්ධව ශ්‍රී ලංකාව සහ ණයහිමියන් ඊයේ එකඟතාවකට පැමිණියේ ණය ප්‍රතිව්‍යුහගතකරණයේ අවසන් අදියර ද සාර්ථක කරගනිමිනි.
+
+ශ්‍රී ලංකාවේ මුළු ණය අමෙරිකානු ඩොලර් බිලියන 100 ක් වන අතර ඊට ඩොලර් බිලියන 57ක දේශීය ණය, ඩොලර් බිලියන 37ක විදෙස් ණය සහ ඩොලර් බිලියන 6ක ඇපකර ඇතුළත් ය.
+
+විදෙස් ණය ඩොලර් බිලියන 37 තුළ ද්වීපාර්ශ්වික ණය ඩොලර් බිලියන 10.6ක්, බහු පාර්ශ්වීය ණය ඩොලර් බිලියන 11.7ක් සහ ජාත්‍යන්තර බැඳුම්කර අමෙරිකානු ඩොලර් බිලියන 14.7ක් අන්තර්ගතය.
+
+බහු පාර්ශ්විකය ණය ප්‍රතිව්‍යුහගත නොකෙරන අතර ද්විපාර්ශ්වික ණයවලින් ඩොලර් බිලියන 10ක් ප්‍රතිව්‍යුහගතකරණය කිරීමේ ගිවිසුමට පසුගිය සතියේ අත්සන් තැබුණි.
+
+...
+
+[Data](articles/693322e5.json)
+
+---
 
 ### More information about Colombo Altair tragedy
 
@@ -2297,27 +2319,5 @@ For this purpose, the district branch of the Sri Lanka Tamil State Party, includ
 [Data](articles/278b38da.json)
 
 [Extended Data](ext_articles/278b38da.ext.json)
-
----
-
-### I'm bribed
-
-*2024-07-04 09:04:11* · [`adalk`](https://www.ada.lk/breaking_news/අයි-පි-අල්ලස්-දැලේ/11-410602) · `si`
-
-A police inspector was arrested for accepting a bribe of Rs. 25,000, based on a complaint from a resident of Palliyawatta, Wattala. The inspector was caught attempting to collect the rest of the monthly premium at the Welisara Economic Center. He will be presented before the Colombo Chief Magistrate's Court.
-
-🟩
-
-Bribery and Corruption Commission says he was arrested on charges of the police inspector on charges of claiming Rs. 25,000 / =. The suspect has been arrested following a complaint lodged by a resident of Palliyawatta, Wattala.
-
-Complaint carried out by the plaintiff checks provided by the complainant. The suspects were taken to pay the remaining amount to pay the remaining monthly premium and obtaining the corresponding to the Welisara Economic Center.
-
-The suspect is to be produced before the Colombo Chief Magistrate's Court.
-
-◼️
-
-[Data](articles/8e1da17c.json)
-
-[Extended Data](ext_articles/8e1da17c.ext.json)
 
 ---

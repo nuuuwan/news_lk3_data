@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 09:06:08**
+As of **2024-07-04 09:19:45**
 
 ## Newspaper Stats
 
-*Scraped **33,589** Articles*
+*Scraped **33,597** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,154 @@ newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,967
 dailyftlk | 2,083
-adalk | 2,997
+adalk | 2,998
 adaderanalk | 3,833
-tamilmirrorlk | 3,969
+tamilmirrorlk | 3,974
 dailymirrorlk | 4,733
-virakesarilk | 5,250
+virakesarilk | 5,252
 adaderanasinhalalk | 5,566
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,588 (100.0%) of 33,589 articles have been extended.
+33,589 (100.0%) of 33,597 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### යුක්තිය මෙහෙයුමට අද සිට අලුත් මුහුණුවරක්
+### இறுதி கிரியைகளுக்கு தயாராகும் திருமலை மண்
+
+*2024-07-04 09:05:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/இறுதி-கிரியைகளுக்கு-தயாராகும்-திருமலை-மண்/75-339849) · `ta`
+
+காலம் சென்ற  தமிழ் தேசிய கூட்டமைப்பின் பெருந்தலைவரும் முன்னாள் பாராளுமன்ற உறுப்பினருமான அமரர் இரா.சம்பந்தன் அவர்களின் இறுதி கிரிகைகள் தற்போது திருகோணமலையில் உள்ள அவரது இல்லத்தில் இடம் பெறவுள்ளது.
+
+இந்த நிலையில் இதற்கான ஏற்பாடுகள் இடம் பெற்று வருகின்றன. அன்னாருக்காக அஞ்சலி நிகழ்வும் இடம் பெற்று வருகின்றன.
+
+இதற்காக திருகோணமலை மாவட்ட ஊடகவியலாளர் சங்கம் உட்பட இலங்கை தமிழ் அரசு கட்சியின் மாவட்ட கிளை கதிரவேலு சண்முகம் குகதாசன் தலைமையில் இதற்கான ஏற்பாடுகளை செய்து வருகின்றனர்.. R
+
+◼️
+
+[Data](articles/278b38da.json)
+
+---
+
+### சுற்றிவளைப்பின் போது தலாவ பொலிஸ் நிலைய பொறுப்பதிகாரி மீது தாக்குதல்
+
+*2024-07-04 09:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/187635) · `ta`
+
+சுற்றிவளைப்பு நடவடிக்கையின் போது நேற்று புதன்கிழமை (03) இரவு தலாவ பொலிஸ் நிலைய பொறுப்பதிகாரி மீது கூரிய ஆயுதத்தால் தாக்குல் நடத்தப்பட்டுள்ளது.
+
+தாக்குதலில் காயமடைந்த பொலிஸ் நிலைய பொறுப்பதிகாரி சிகிச்சைக்காக அநுராதபுரம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/6dd04b33.json)
+
+---
+
+### வடக்கில் அனைத்து சிறுவர் இல்லங்களையும் உடனடியாக மூடுவதற்கு உத்தரவு
+
+*2024-07-04 08:45:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வடக்கில்-அனைத்து-சிறுவர்-இல்லங்களையும்-உடனடியாக-மூடுவதற்கு-உத்தரவு/71-339848) · `ta`
+
+யாழ்ப்பாணம் - தெல்லிப்பழை பகுதியில் ஆட்கள் தங்குவதற்கு உகந்த இடமல்லாத இடத்தில் சிறுவர் இல்லங்கள் நடத்தி வந்தமை விசாரணைகளில் தெரிய வந்துள்ளது.
+
+கடந்த தை மாதம் 03 மலையக மாணவர்களுடன் ஆரம்பமான ஒரு சிறுவர் இல்லம் கடந்த மே மாதம் மேலும் 03 மலையக மாணவர்கள் இணைக்கப்பட்டு 06 மாணவர்களுடன் ஒரு சிறுவர் இல்லம் நடத்தி செல்லப்பட்டுள்ளது.
+
+குறித்த சிறுவர் இல்லம் நடத்தி செல்லப்பட்ட வீடு பாழடைந்த நிலையில் காணப்படுவதுடன் , ஜன்னல்களுக்கு கதவுகள் அற்ற நிலையில், மாணவர்கள் கட்டில் வசதிகள் இன்றி நிலத்திலையே படுத்து தூங்கி எழும்பும் நிலை காணப்பட்டுள்ளது.
+
+அத்துடன் மலசல கூட வசதிகள் மற்றும் குளியல் என்பவற்றுக்கு மாணவர்கள் , குறித்த வீட்டில் இருந்து சற்று தொலைவில் பிறிதொரு காணிக்கே செல்ல வேண்டிய நிலை காணப்பட்டுள்ளது.
+
+அதேவேளை தெல்லிப்பளை யூனியன் கல்லூரிக்கு அருகில் , யூனியன் கல்லூரிக்கு சொந்தமான வீடொன்றில் கடந்த ஜூன் மாதம் தொடக்கம் 12 மலையக மாணவர்களுடன் ஒரு சிறுவர் இல்லம் நடத்தி செல்லப்பட்டுள்ளது.
+
+...
+
+[Data](articles/46f8a640.json)
+
+---
+
+### இரத்தினபுரி பகுதியில் முச்சக்கர வண்டி, மோட்டார் சைக்கிளை திருடிய இருவர் கைது!
+
+*2024-07-04 08:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/187633) · `ta`
+
+இரத்தினபுரி பகுதியில் முச்சக்கர வண்டி, மோட்டார் சைக்கிளை திருடிய இருவரை கைது செய்துள்ளதாக ஹிங்குருகடுவ பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்கள் 28,29 வயதுடைய பலாங்கொடை பகுதியைச் சேர்ந்த இராணுவத்தில் இருந்து இடைநடுவில் நின்றவர்கள் என பொலிஸார் தெரிவித்தனர்.
+
+சந்தேகத்திற்கிடமான முறையில் ஹிங்குருகடுவ பொலிஸ் நிலையத்திற்கு முன்பாக சென்ற முச்சக்கர வண்டியை நிறுத்தி சோதனைக்கு உட்படுத்திய போது சாரதி அனுமதிப்பத்திரம் இன்றியும் அவர்களின் ஆள் அடையாளத்தை உறுதிப்படுத்த தேவையான தேசிய அடையாள அட்டை, காப்புறுதி அட்டை, வாகன வருமான வரி பத்திரம் ஆகியவை இன்றி குறித்த முச்சக்கர வண்டியை செலுத்தியமையினால் சந்தேகம் கொண்ட ஹிங்குருகடுவ பொலிஸ் நிலைய பொறுப்பதிகாரி உள்ளிட்ட குழுவினர் முச்சக்கர வண்டியையும் முச்சக்கர வண்டியில் சென்றவர்களையும் ஹிங்குருகடுவ பொலிஸ் நிலையத்திற்கு கொண்டு சென்று அவர்களிடம் விசாரணைகளை மேற்கொண்ட போது இரத்தினபுரி கல்லெல்ல எனும் பகுதியில் திருடப்பட்ட முச்சக்கர வண்டி என தெரிய வந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/582c0ae2.json)
+
+---
+
+### Justice is a new face to
 
 *2024-07-04 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198468) · `si`
 
-අද (04) සිට යුක්තිය මෙහෙයුම නව මුහුණුවරකින් ආරම්භ කරන බව පොලීසිය පවසයි.
+A new justice operation launches today in Sri Lanka, covering the entire island after starting in Colombo. The Sri Lanka Army is involved, as stated by attorney Nihal Talduwa, the police spokesman.
 
-මෙම මෙහෙයුම සඳහා ශ්‍රී ලංකා යුද හමුදාවේ ද සහාය ලබාගැනීමට අපේක්ෂා කරන බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසුවේය.
+🟩
 
-අද දිනයේ කොළඹ ආශ්‍රීත ප්‍රදේශ කිහිපයක මෙම වැඩසටහන ආරම්භ කෙරුණු අතර ඉදිරියේ දී මුළු දිවයිනම ආවරණය වන පරිදි එය ක්‍රියාත්මක කෙරෙන බව නිහාල් තල්දූව මහතා සඳහන් කළේය.
+Police say that justice operation will be launched from today (04).
+
+Attorney at Law, police spokesman, Nihal Talduuwa, said that the Sri Lanka Army was also looking for this operation.
+
+The program was commenced in several parts of Colombo today and is still being covered with the entire island.
 
 ◼️
 
 [Data](articles/ef0b2f84.json)
+
+[Extended Data](ext_articles/ef0b2f84.ext.json)
+
+---
+
+### லஞ்சம் வாங்கிய பொலிஸ் அதிகாரி கைது
+
+*2024-07-04 08:39:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லஞ்சம்-வாங்கிய-பொலிஸ்-அதிகாரி-கைது/175-339847) · `ta`
+
+லஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுக்கள் தொடர்பிலான விசாரணை ஆணைக்குழுவினால் இவர் கைது செய்யப்பட்டதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/c4536717.json)
+
+---
+
+### OIC மீது கொலைவெறி தாக்குதல்
+
+*2024-07-04 08:36:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/OIC-மீது-கொலைவெறி-தாக்குதல்/175-339845) · `ta`
+
+மதுபான விற்பனை நிலையம் ஒன்றை நேற்று (03) சோதனை செய்த போது, தலவா பொலிஸ் நிலைய பொறுப்பதிகாரிதாக்கப்பட்டு அனுராதபுரம் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+குறித்த மது விங்பனை நிலையத்தில் இருந்த நபர் ஒருவர் கூரிய ஆயுதத்தால் அதிகாரியை தாக்கியதாக தெரிவிக்கப்படுகிறது.
+
+தாக்குதல் நடத்திய சந்தேகநபர் உட்பட ஐந்து பேர் இதுவரை கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/8b89bf56.json)
+
+---
+
+### பல மாவட்டங்களில் பல தடவைகள் மழை பெய்யும்
+
+*2024-07-04 08:25:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-மாவட்டங்களில்-பல-தடவைகள்-மழை-பெய்யும்/175-339844) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+ஊவா மாகாணத்திலும் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களிலும் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+
+◼️
+
+[Data](articles/5e99e957.json)
 
 ---
 
@@ -79,6 +197,24 @@ A Inspector of Inspector attached to Mahabage Police has been arrested by the Co
 [Data](articles/5a49b902.json)
 
 [Extended Data](ext_articles/5a49b902.ext.json)
+
+---
+
+### රේගු නිලධාරින් ලෙඩ වෙති
+
+*2024-07-04 07:58:20* · [`adalk`](https://www.ada.lk/breaking_news/රේගු-නිලධාරින්-ලෙඩ-වෙති/11-410599) · `si`
+
+ප්‍රධාන ඉල්ලීම් දෙකක් මුල් කර ගනිමින් රේගු දෙපාර්තමේන්තු නිලධාරීන් අද හා හෙට දින දෙක තුළ ලෙඩ නිවාඩු වාර්තා කිරීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගයකට එළඹෙන බව රේගු වෘත්තීය සමිති සන්ධානයේ ප්‍රකාශකවරයෙකු වන ගීතාංජන මඩපාත මහතා ප්‍රකාශ කර සිටියේ‍ෙ.
+
+එහෙත් මෙම වෘත්තීය සමිති විරෝධතා ක්‍රියාමාර්ගය මහජනතාවට ඍජුව සේවා සපයන කටුනායක ජාත්‍යන්තර ගුවන් තොටුපොළ , කොළඹ වරාය, ගාල්ල වරාය වැනි ආයතන තුළ ක්‍රියාත්මක නොකරන බව ගීතාංජන මඩපාත මහතා පැවසීය .
+
+ශ්‍රී ලංකා රේගුවෙන් විශේෂඥ අදහස් නොවිමසා ,මුදල් අමාත්‍යාංශයේ අදූරදර්ශී නිලධාරීන් කීප දෙනෙකුගේ මූලිකත්වයෙන්  රේගු ආඥා පනතේ වගන්ති කීපයක් සංශෝධන කිරීමට රජය පියවර ගනිමින් සිටීම මෙම රේගු නිලධාරීන්ගේ පළමු ඉල්ලීම වී තිබේ .
+
+එම නිලධාරීන්ගේ දෙවන ඉල්ලීම  වන්නේ රේගු දෙපාර්තමේන්තුව , දේශීය ආදායම් දෙපාර්තමේන්තුව සහ සුරාබදු දෙපාර්තමේන්තුව මගින් මෙතෙක් සිදු කර ගෙන යමින් සිටින ශ්‍රී ලංකාවේ බදු එකතු කිරීමේ ක්‍රියාවලිය ශ්‍රී ලංකා ආදායම් අධිකාරිය නැමැති පෞද්ගලික ආයතනයකට පැවරීමේ රජයේ  උත්සාහය පරාජය කිරීම වේ .
+
+...
+
+[Data](articles/3d23f318.json)
 
 ---
 
@@ -2117,195 +2253,5 @@ The girl had died while receiving treatment at the Lady Ridgeway Lady Children's
 [Data](articles/3d6852fb.json)
 
 [Extended Data](ext_articles/3d6852fb.ext.json)
-
----
-
-### Divorce in Jaffna in the name of couple living abroad
-
-*2024-07-03 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/187567) · `ta`
-
-A couple from Jaffna living in Italy sought a divorce in Jaffna through a local lawyer, leading to an investigation by the Attorney General's office. The lawyer involved faces scrutiny over the handling of the case, including the appointment of junior lawyers and the issuance of a divorce without the couple present in the country.
-
-🟩
-
-Police are searching for a lawyer's office at the Attorney General's office as the court is investigating the divorce in Jaffna in the name of a couple living abroad.
-
-Two people from Jaffna are married and live in Italy. Between them, a few years ago, the two were separated in Italy.
-
-In this case, the husband told her sister, who lives in Chavakachcheri, has asked her to take a divorce in Jaffna and get a divorce.
-
-The sister then sought a female lawyer in Jaffna and asked for a divorce in Jaffna for a couple abroad.
-
-Subsequently, the lawyer has appointed two of his junior lawyers to appoint a husband and one to a wife, applied for the issue of the Chavakachcheri court, prosecutes the case, and divorced the two who are not in the country.
-
-After a divorce, the woman, who lived in Italy, has already been divorced by the visit of Jaffna and taken to another lawyer through another lawyer.
-
-...
-
-[Data](articles/9c8c3cd6.json)
-
-[Extended Data](ext_articles/9c8c3cd6.ext.json)
-
----
-
-### The teaser release of 'Aryamala' starring actress Manisha
-
-*2024-07-03 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/187589) · `ta`
-
-"Aryamala" stars Manisha and R.S. Karthi, directed by James Yuvan, tells a story based on a real 1982 event in Tamil Nadu. It explores themes of love and folk art, produced by C.V. Kumar and co-produced by SBR Cinemas, Jana Jai Joy Movies, and Cable Shankar Entertainment. The teaser has garnered attention, highlighting the film's focus on the relationship between artists and their fans.
-
-🟩
-
-Actor r. S.. Karthi - Actress Manisha has been released as the hero and heroine of the film 'Aryamala'. This is the producer and director C. V.. Kumar has released and congratulated the film crew.
-
-Directed by director James Yuvan in the movie 'Aryamala'. S.. Karthi, Manisha and the late actor Marimuthu are playing the role.
-
-Jaishankar Ramalingam has composed the film for the film.. The film, which is being adapted for the actual incident in Tamil Nadu in 1982, has been co -produced by SBR Cinemas & Jana Jai ​​Joy Movies and Cable Shankar Entertainment.
-
-The teaser of the film has been released by all the tasks of the film and waiting for the release. The preview of the film, which is ready to focus on the love between the artist and the fan of the artist and the fan of the art of folk art in the streetcar, has been very popular among the fans.
-
-◼️
-
-[Data](articles/e281e359.json)
-
-[Extended Data](ext_articles/e281e359.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-07-03 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/187598) · `ta`
-
-On July 2nd, the US dollar's buying rate was Rs 298.7262, while the selling rate was slightly lower.
-
-🟩
-
-Tuesday (July 02), the US purchasing price of the US dollar was recorded at Rs 298.7262 and the sales price at Rs.
-
-◼️
-
-[Data](articles/40cda131.json)
-
-[Extended Data](ext_articles/40cda131.ext.json)
-
----
-
-### Nonsense. Publication Date of Parthiban's 'Teens'
-
-*2024-07-03 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/187597) · `ta`
-
-Parthiban's "Teens," directed by a National Award winner, features newcomers like Amruta, Azmita, and others. The film, focusing on adventure, is produced by Bioscopic USA and Akira Productions Pvt., with music by Iman. Its music release set a Guinness record. Despite the global release planned for the 12th of this month, commercial support for its release alongside "Indian 2" remains uncertain.
-
-🟩
-
-Ira not keeping the attention of the fans on the novelty. The release date of Parthiban's 'Teens' has been officially announced.
-
-National Award -winning Director. Amruta, Azmita, John Pasco, Deepan, Deepan, Frankstain, Krithika Iyer, Rachita, Rashita, Rishi Ratnavale, Roshi Ratnavel, Roshan, Silvenston and Vishrutha are the newcomers.
-
-Cvemic Are is a cinematography by T.. Iman has composed music. The film is being focused on the adventure and on behalf of the Bioscopic USA and Akira Productions Pvt.. Parthiban has co -produced.
-
-The music release of the film was a Guinness record attracted to everyone. In this case, the film crew has announced that the film will be released in the world on the 12th of this month.
-
-...
-
-[Data](articles/7568e024.json)
-
-[Extended Data](ext_articles/7568e024.ext.json)
-
----
-
-### Japan has the most important role in the country's economic recovery - Ali Sabri
-
-*2024-07-03 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/187595) · `ta`
-
-Ali Sabri, Sri Lanka's External Affairs Minister, highlights Japan's crucial role in his country's economic recovery during his visit there. He emphasizes the strong bilateral relationship based on mutual respect, democracy, and economic ties, thanking Japan for its financial support during Sri Lanka's economic crisis. Sabri encourages increased Japanese investment in sectors like electricity, ports, highways, green, and digital economies, calling Japan a vital development partner.
-
-🟩
-
-External Affairs Minister Ali Sabri says he thinks Japan has a very important role in the economic recovery of Sri Lanka.
-
-At the invitation of Japanese Foreign Minister Yogo Kamikawa, Foreign Minister Ali Sabri made an official visit to Japan from 1st to 7th of this month.
-
-Minister Ali Sabri, who met Japanese Foreign Minister Yogo Kamikawa on Tuesday, said this while commenting at a joint media briefing held.
-
-Our two countries have been continuously working on further strengthening and expansion of bilateral harmony based on various sectors.
-
-The bond between the two countries is based on mutual respect and understanding.
-
-It has created a special bond between our two countries, such as democracy, human rights, open economic activities and relations between the people.. The Apostle is further strengthened by mutual high -level visits.
-
-Your visit to Sri Lanka last May and President Ranil Wickremesinghe's visit to Japan in May last year reveal the goodwill between Sri Lanka and Japan.
-
-...
-
-[Data](articles/5c7763b1.json)
-
-[Extended Data](ext_articles/5c7763b1.ext.json)
-
----
-
-### Dr. Bellana also joined the UNP
-
-*2024-07-03 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/187590) · `ta`
-
-Dr. Rukshan Bellana, Deputy Director of Colombo National Hospital, has joined the United National Party and was appointed as the organizer for the Northern Colombo constituency on February 2nd.
-
-🟩
-
-Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellana has joined the United National Party.
-
-Dr. Rukshan Bellana has been appointed as the organizer of the Northern Colombo constituency on Tuesday (02).
-
-◼️
-
-[Data](articles/0e41b46f.json)
-
-[Extended Data](ext_articles/0e41b46f.ext.json)
-
----
-
-### 4 fishing bodies and 5 dowland son will be brought to Tangalle Port
-
-*2024-07-03 14:04:57* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-සිරුරු-4-හා-ඩොවෝන්-පුතා-5-යාත්‍රාව-තංගල්ල-වරායට-රැගෙන-එයි/11-410589) · `si`
-
-Four fishermen and five dolphins were transported to Tangalle Port. Two fishermen, who lost four colleagues in a boat accident, arrived at Tangalle Fisheries Harbor at 7:30 am. A dolphin was also retrieved from the sea. Tangalle Magistrate Shamula Atone visited the harbor, instructing the police to perform autopsies and submit findings to court.
-
-🟩
-
-The two fishermen whose four fishermen were killed in a bottle of a bottle of a bottle of the sea were enrolled at Tangalle Fisheries Harbor at around 7.30 am.
-
-The Devown Son 3 The demon son of the 5 deposit of the deposit of the deposits was drawn with a rope.
-
-Tangalle Magistrate Shamula Atone (03) was taken to the Tangalle Fisheries Harbor.
-
-The Magistrate ordered the Tangalle Police Heathana Police to conduct post mortem and submitting reports to court.
-
-◼️
-
-[Data](articles/45aa1a35.json)
-
-[Extended Data](ext_articles/45aa1a35.ext.json)
-
----
-
-### Pawning centre employee cheats over Rs. 19.6 million using imitation gold jewellery
-
-*2024-07-03 13:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100268/pawning-centre-employee-cheats-over-rs-196-million-using-imitation-gold-jewellery-) · `en`
-
-Police have apprehended an employee of the gold jewellery pawning section of a private financial institution in Badulla who is accused of cheating over Rs. 19.6 million by replacing real gold jewellery with imitation jewellery.
-
-Following an investigation carried out by the Special Crime Unit of the Badulla Police Division, the employee of the gold pawning section of a private financial institution in Badulla was arrested.
-
-Police have launched an investigation into the incident following a complaint lodged by the said financial institution’s manager.
-
-Police stated that following the interrogation of the suspect, officers recovered 41 imitation gold jewellery items including necklaces, rings, bracelets, and pendants which were found in the suspect’s possession.
-
-The suspect had allegedly used these imitation items to issue fraudulent documents when clients pawned genuine gold jewellery at the relevant financial institution.
-
-...
-
-[Data](articles/51a886fb.json)
-
-[Extended Data](ext_articles/51a886fb.ext.json)
 
 ---

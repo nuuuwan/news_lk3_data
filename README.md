@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 07:25:33**
+As of **2024-07-04 07:47:49**
 
 ## Newspaper Stats
 
@@ -26,69 +26,89 @@ adaderanasinhalalk | 5,562
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,576 (100.0%) of 33,579 articles have been extended.
+33,579 (100.0%) of 33,579 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### වැටලීමකට ගිය OIC ට තියුණු ආයුධකින් පහරදීලා
+### OIC attacked with a sharp weapon
 
 *2024-07-04 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198464) · `si`
 
-ඊයේ (03) රාත්‍රියේ වැටලීමකට ගිය තලාව ⁣පොලිස් ස්ථානාධිපතිවරයාට කිසියම් පුද්ගලයකු විසින් තියුණු ආයුධයකින් පහරදී ඇත.
+Last night, the OIC was attacked with a sharp weapon during a raid on the Talawa Ridow. Injured, they were hospitalized at the Anuradhapura Teaching Hospital.
 
-පහරදීමෙන් තුවාල ලැබූ ස්ථානාධිපතිවරයා මේ වන විට ප්‍රතිකාර සඳහා අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කර ඇතැයි වාර්තා වේ.
+🟩
+
+The Talawa Ridow to a raid last night has been attacked with a sharp object.
+
+The OIC, who was injured, have been admitted to the Anuradhapura Teaching Hospital for treatment.
 
 ◼️
 
 [Data](articles/cfc5cae0.json)
 
+[Extended Data](ext_articles/cfc5cae0.ext.json)
+
 ---
 
-### ජාත්‍යන්තර බැඳුම්කර ප්‍රතිව්‍යුහගත කිරීමත් සාර්ථක වෙයි
+### Restructuring of international bonds
 
 *2024-07-04 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198463) · `si`
 
-ශ්‍රී ලංකාව සහ ජාත්‍යන්තර ණයහිමියන් අතර බැඳුම්කර ප්‍රතිව්‍යුහගත කිරීම සඳහා වන කොන්දේසි සම්බන්ධයෙන් එකඟතාවයකට පැමිණ තිබේ.
+Sri Lanka and its international creditors have finalized a deal to restructure $12.5 billion worth of bonds, agreeing to a 28% nominal reduction. This move aligns with the IMF's requirements and follows agreements with bilateral creditors. The Ministry of Finance has also announced approval for all projects under the 2024 decentralized budget program.
 
-රොයිටර් පුවත් සේවය පෙන්වා දෙන්නේ ඊයේ (03) දිනයේ දී අදාළ එකඟතාවයකට පැමිණ ඇති බවය.
+🟩
 
-ඒ අනුව අමෙරිකානු ඩොලර් බිලියන 12.5ක ජාත්‍යන්තර බැඳුම්කර ප්‍රතිව්‍යුහගත කිරීම සම්බන්ධයෙන් වන එකඟතාවයකට පැමිණ ඇති බව සඳහන්ය.
+Sri Lanka and international creditors have agreed on the conditions for the restructuring of bonds.
 
-වසරකට වැඩි කාලයක් පැවති සාකච්ඡාවලින් අනතුරුව මෙම එකඟතාවට පැමිණ ඇති බව වාර්තා වේ.
+Reuters pointed out that the agreement had reached yesterday (03).
 
-ඒ අනූව ජාත්‍යන්තර බැඳුම්කරවල සියයට 28ක නාමික අඩුකිරීමකට ණයහිමියන් එකඟ වී ඇති බව සඳහන් ය.
+According to an agreement on the restructuring of international bonds of $ 12.5 billion US $ 12.5 billion.
 
-ජාත්‍යන්තර බැඳුම්කර ප්‍රතිව්‍යුහගතකිරීම ජාත්‍යන්තර මුල්‍ය අරමුදල විසින් ශ්‍රී ලංකාවට ලබා දී ඇති ප්‍රධාන කොන්දේසියක් වේ.
+It is reported that after more than a year, the agreement was reported.
 
-ශ්‍රී ලංකාව ද්වීපාර්ශවීය ණයහිමියන් සමග ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලිය සඳහා මේ වන විටත් ගිවිසුම් අත්සන් කර තිබේ.
+Accordingly, the creditors have agreed to reduce the 28 percent nominal reduction in international bonds.
 
-මේ අතර 2024 විමධ්‍යගත අයවැය වැඩසටහන යටතේ අනුමත කරන ලද සියලුම ව්‍යාපෘති අගෝස්තු 31 වන දිනට පෙර අවසන් කළ යුතු බව  මුදල් ආර්ථික, ස්ථායිකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යාංශය පවසයි.
+Restructuring International Bonds is a major condition that has been provided by the International Monetary Fund.
 
-...
+Sri Lanka has already signed agreements for the restructuring process with bilateral creditors.
+
+Meanwhile, the Ministry of Finance says all projects approved under the 2024 decentralized budget program.
+
+The Secretary of the Ministry has issued this notification by issuing a circular.
+
+◼️
 
 [Data](articles/51bf2f34.json)
 
+[Extended Data](ext_articles/51bf2f34.ext.json)
+
 ---
 
-### ප්‍රදේශ කිහිපයකට වැසි
+### Showers in several areas
 
 *2024-07-04 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198461) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology warns of showers in Western, Sabaragamuwa provinces, Galle, Matara districts, and closures in North Western, Kandy, Nuwara Eliya districts. Showers/thunderstorms expected in Ampara, Batticaloa districts, and 40-50 km/h winds from central hills' western slopes to Trincomalee, Hambantota, Monaragala districts. The public is advised to prepare for possible wind and lightning hazards.
 
-වයඹ පළාතේත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසිවාර කිහිපයක් ඇතිවිය හැකිය.
+🟩
 
-ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+The Department of Meteorology announces that showers will occur in the Western and Sabaragamuwa provinces and in the Galle and Matara districts.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොණරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇති වේ.
+Several closes in the North Western Province and in the Kandy and Nuwara Eliya districts.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee, Hambantota and Monaragala Districts, Trincomalee, Hambantota and Monaragala Districts. There are about 40-50 strong winds.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/4b81d34b.json)
+
+[Extended Data](ext_articles/4b81d34b.ext.json)
 
 ---
 

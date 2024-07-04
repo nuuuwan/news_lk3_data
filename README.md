@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 11:05:46**
+As of **2024-07-04 11:19:55**
 
 ## Newspaper Stats
 
-*Scraped **33,610** Articles*
+*Scraped **33,612** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,967
 dailyftlk | 2,084
-adalk | 2,999
+adalk | 3,000
 adaderanalk | 3,835
-tamilmirrorlk | 3,975
+tamilmirrorlk | 3,976
 dailymirrorlk | 4,733
 virakesarilk | 5,255
 adaderanasinhalalk | 5,571
@@ -26,29 +26,53 @@ adaderanasinhalalk | 5,571
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,608 (100.0%) of 33,610 articles have been extended.
+33,610 (100.0%) of 33,612 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### බිහිසුණු බස් - ලොරි අනතුර
+### The horrific bus - lorry accident
 
 *2024-07-04 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198473) · `si`
 
-හලාවත - කොළඹ මාර්ගයේ මාදම්පේ - ගලහිටියාව ප්‍රදේශයේදී ලංගම බස් රථයක් සහ සිමෙන්ති පැටවූ ලොරි රථයක් එකිනෙක ගැටී බිහිසුණු අනතුරක් සිදුව තිබේ.
+In a tragic accident near Galahitiyawa, a SLTB bus and a lorry collided, injuring about 25 passengers who were taken to Chilaw General Hospital, including several in serious condition. The incident occurred during rainy weather when the bus was traveling from Devalaya junction to Colombo, and the lorry was transporting cement from Puttalam to Colombo.
 
-අනතුරින් පුද්ගලයින් 25 දෙනෙකු පමණ තුවාල ලබා මේ වනවිට ප්‍රතිකාර සඳහා හලාවත මහ රෝහලට ඇතුළත් කර ඇත.
+🟩
 
-එම රෝගීන්ගෙන් කිහිපදෙනෙකුගේ තත්ත්වය බරපතළ බව රෝහල් ආරංචි මාර්ග සඳහන් කරයි.
+A SLTB bus and a lorry collided in Galahitiyawa area on the Chilaw-Colombo-Colombo-Galahitiyawa area.
 
-අද (04) උදෑසන දේවාල හංදියේ සිට හලාවත හරහා කොළඹ බලා ධාවනය වූ ලංගම බස්රථයකට වේගය පාලනය කරගැනීමට නොහැකිව, පුත්තලමේ සිට කොළඹ බලා එම දිශාවටම ධාවනය වූ සිමෙන්ති ලොරියක ගැටී තිබුණි.
+About 25 people were injured in the accident have been admitted to the Chilaw General Hospital for treatment.
 
-අනතුර සිදුවන අවස්ථාවේ දී එම ප්‍රදේශයේ වැසි සහිත කාලගුණික තත්ත්වයක් පැවති බව අප වාර්තාකරු පැවසීය.
+According to hospital sources, several of those patients were serious.
+
+The SLTB bus traveling from the Devalaya junction to Colombo this morning, a Cement from Puttalam to Colombo was not able to control and collided with a lorry.
+
+According to our correspondent that there was rainy weather in the area at the time of the accident.
 
 ◼️
 
 [Data](articles/a0fb21c7.json)
+
+[Extended Data](ext_articles/a0fb21c7.ext.json)
+
+---
+
+### இளம் யுவதி மாயம் - கிணற்றை தோண்ட நடவடிக்கை
+
+*2024-07-04 10:43:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/இளம்-யுவதி-மாயம்-கிணற்றை-தோண்ட-நடவடிக்கை/75-339854) · `ta`
+
+சேருவில பொலிஸ் பிரிவுக்குட்பட்ட தங்கநகர் பகுதியைச் சேர்ந்த இளம் யுவதி ஒருவர் காணாமல் போயுள்ளதாக பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+
+நடேஸ்குமார் வினோதினி என்ற 25 வயதான இளம் பெண் ஒருவரே காணாமல் போயுள்ளதாக அவரது குடும்பத்தினர் சேருவில மற்றும் மூதூர் பொலிஸ் நிலையங்களில் முறைப்பாடு செய்துள்ளனர்.
+
+இது தொடர்பான வழக்கு விசாரணையை முன்னெடுத்துவரும் மூதூர் பொலிஸார் சந்தேகத்தின்பேரில் கிளிவெட்டியைச் சேர்ந்த சந்தேக நபர் ஒருவரை கைது செய்து விசாரணை மேற்கொண்டதன் அடிப்படையில்  கிளிவெட்டி கிராமத்தின் எல்லைப் புறத்தில் பாழடைந்த இருக்கின்ற கிணறு ஒன்றை தோண்டுவதற்கு நீதிமன்ற அனுமதியை பெற்றுள்ளனர்.
+
+இந்நிலையில் குறித்த பகுதியில் நேற்று (03) புதன்கிழமை முதல் பொலிஸ் உத்தியோகத்தர்கள் பாதுகாப்பு கடமையில் ஈடுபடுத்தப்பட்டுள்ளதுடன் குறித்த கிணறானது நாளையதினம் (5) வெள்ளிக்கிழமை காலை மூதூர் நீதிமன்ற நீதவான் முன்னிலையில் தோண்டப்படவுள்ளதாகவும் மூதூர் பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/e67a10db.json)
 
 ---
 
@@ -299,6 +323,22 @@ For this purpose, the district branch of the Sri Lanka Tamil State Party, includ
 [Data](articles/278b38da.json)
 
 [Extended Data](ext_articles/278b38da.ext.json)
+
+---
+
+### පාසල් පද්ධතියේ විශිෂ්ට විදුහල්පති හා ගුරුන් තෝරයි
+
+*2024-07-04 09:00:29* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-පද්ධතියේ-විශිෂ්ට-විදුහල්පති-හා-ගුරුන්-තෝරයි/11-410601) · `si`
+
+ඔක්තෝම්බර් 05 දාට යෙදෙන ලෝක ගුරු දිනයට සමගාමීව  පාසල් පද්ධතියේ ඉහල කාර්ය සාධනයක් සහිත විදුහල්පතිවරුන් සහ ගුරුවරුන් තෝරා ඇගැයීමේ  වාර්ෂික   "ගුරු  ප්‍රතිභා ප්‍රභා 2024 " උළෙල සඳහා මෙම මස 07 දා දක්වා අයදුම්පත්  බාර ගන්නා බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+2023 වර්ෂය තුළදී පාසල්වල ශිෂ්‍ය සාධනය ,ඉගෙනුම් ඉගන්වීම් ක්‍රියාවලිය ,විෂය මාලා කළමනාකරණය ,විෂය සමගාමී කටයුතු,ගුරු සිසු සුබසාධනය,නායකත්වය හා කළමනාකරණය ,භෞතික සම්පත් කළමනාකරණය සහ පාසල් ප්‍රජාව යන විශිෂ්ට ව්‍යවහාර ක්ෂේත්‍ර ඔස්සේ විදුහල්පතිවරුන් සහ ගුරුවරුන් පෙන්වා ඇති කුසලතාවන් පදනම් කර ගනිමින් මේ සඳහා සුදුස්සන් තෝරා ගන්නා බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+වැටුප් රහිත නිවාඩු ලබා නොමැති,විනය විමර්ශන නොමැති,විනය හෝ සාපරාධී වැරදිකරුවන් නොවූ  වසර තුනක අවම  සතුටුදායක සේවා කාලයක් ඇති අධ්‍යාපන පරිපාලන සේවය,විදුහල්පති සේවය හා ගුරු සේවයේ දැනට රජයේ  පාසල්වල සේවයේ නියුතු විදුහල්පති හා ගුරු දෙපාර්ශවයට මේ සඳහා ඉල්ලුම් කළ හැකිවේ.මෙම ඇගැයීම් උළෙල  ජාතික මට්ටමින් ඔක්තෝම්බර් 04 දින පැවැත්වෙන බවද අධ්‍යාපන අමාත්‍යාංශය වැඩි දුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/5a279f79.json)
 
 ---
 
@@ -1053,6 +1093,8 @@ Sampanthan, one among the few TNA leaders who Western diplomats in Colombo conti
 ...
 
 [Data](articles/00040f2b.json)
+
+[Extended Data](ext_articles/00040f2b.ext.json)
 
 ---
 
@@ -2219,49 +2261,5 @@ At the treasury bill auction Wednesday yields were flat. “Maybe this might bri
 [Data](articles/41a3720f.json)
 
 [Extended Data](ext_articles/41a3720f.ext.json)
-
----
-
-### Viranjith Thambugala receiving death threats, court told
-
-*2024-07-03 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100270/viranjith-thambugala-receiving-death-threats-court-told-) · `en`
-
-The attorneys representing the Chairman of Aura Lanka Viranjith Thambugala, who was arrested and remanded over allegations of financial fraud, today (03) informed the Colombo Magistrate’s Court that the businessman and his family members have received death threats after giving a statement related to the investigations being carried out against him by the Criminal Investigations Department (CID).
-
-When the case was taken up before Colombo Additional Magistrate Pavitra Pathiraja today, the defence counsel also requested the court to issue a suitable order regarding the matter.
-
-Accordingly, after considering the facts presented before the court, the Additional Magistrate stated that an order shall be issued in this regard on August 10.
-
-◼️
-
-[Data](articles/bbee4cd1.json)
-
-[Extended Data](ext_articles/bbee4cd1.ext.json)
-
----
-
-### Interim order suspension of Express Pearl case
-
-*2024-07-03 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198450) · `si`
-
-The Supreme Court has temporarily suspended the operations of Express Pearl due to legal issues. An appeal filed by local agencies against the ship's captain and director will be heard by a three-judge bench, including Nawaz, Kumuduni Wickramasinghe, and Priyantha Fernando. The case has been adjourned until February 17th.
-
-🟩
-
-The Supreme Court has issued an interim order due to the Captain of the Ship and the Director of Express Pearlination in the Colombo High Court.
-
-The Supreme Court has issued a appeal to the Director of Express Pearl, which is illegal filed by the local agency of the Express Pearl and the local agency of the Express Pearl.
-
-This appeal petition is AHMD. The three-judge of Nawaz, Kumuduni Wickramasinghe and Priyantha Fernando considered the three-member Judge Bench.
-
-Attorneys, Sarath Jayamanne, who appeared for the petitioner, was reported in court against the captain and the directors of the local agent.
-
-The appellate petition petition was postponed until February 17th.
-
-◼️
-
-[Data](articles/2e95d5dc.json)
-
-[Extended Data](ext_articles/2e95d5dc.ext.json)
 
 ---

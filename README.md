@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 21:19:39**
+As of **2024-07-04 21:35:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,587
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,703 (100.0%) of 33,705 articles have been extended.
+33,705 (100.0%) of 33,705 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -66,35 +66,47 @@ They have allowed them to go into the luxury flats of the Altair.
 
 ---
 
-### ஜனாதிபதியின் பதவிக்காலம்: திங்கள் ஆராய்வு
+### President's tenure: Monday review
 
 *2024-07-04 20:34:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-பதவிக்காலம்-திங்கள்-ஆராய்வு/175-339877) · `ta`
 
-தற்போதைய ஜனாதிபதியின் பதவி காலம் தொடர்பில் தெளிவூட்டுமாறு கோரி உயர் நீதிமன்றத்தில் தாக்கல் செய்யப்பட்ட அடிப்படை உரிமை மனுவை  திங்கட்கிழமை (08) ஆராய்வதற்கு உயர் நீதிமன்றம் வியாழக்கிழமை (04) தீர்மானித்தது.
+Supreme Court to examine petition on President's tenure, appointing a panel of five judges led by Chief Justice Jayantha Jayasuriya.
 
-இந்த மனுவை ஆராய்வதற்கு  ஐந்து  நீதியரசர்கள் அடங்கிய குழாமை, பிரதம நீதியரசர் ஜயந்த ஜயசூரிய நியமித்துள்ளார்.
+🟩
 
-தனது  தலைமையில் உயர் நீதிமன்ற நீதியரசர்களான விஜித் மலல்கொட, முர்து பெர்ணாண்டோ, பிரித்தீ பத்ம சூரசேன, எஸ். துரைராஜா ஆகியோரே  இந்த மனுவை ஆராயவுள்ளனர்
+The Supreme Court on Thursday (04) decided to look into the fundamental rights petition filed in the Supreme Court seeking clarification on the current president's tenure.
+
+Chief Justice Jayantha Jayasuriya has appointed a panel of five judges to investigate the petition.
+
+Under the leadership of High Court Judges Vijith Malgoda, Murdu Fernando, Priti Padma Surasena, S. Durairaja will investigate the petition
 
 ◼️
 
 [Data](articles/70701c61.json)
 
+[Extended Data](ext_articles/70701c61.ext.json)
+
 ---
 
-### கொழும்பு வாழ் மக்களுக்கு அவசர அறிவிப்பு
+### Emergency Notice for the people of Colombo
 
 *2024-07-04 20:34:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/கொழும்பு-வாழ்-மக்களுக்கு-அவசர-அறிவிப்பு/95-339876) · `ta`
 
-கொழும்பில் இன்று (04) இரவு 9 மணி முதல் நாளை (05) பிற்பகல் 3 மணி வரை 18 மணிநேர நீர் வெட்டு அமுல்படுத்தப்படவுள்ளதாக தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+Colombo faces an 18-hour water cut from 9 pm today to 5 am tomorrow due to urgent maintenance at the Ambatale Water Plant. Affected areas include Kolonnawa, Kaduwela, Mulleriya, and Kotikawatte.
 
-இதன்படி, கொலன்னாவ நகரசபை, கடுவெல நகரசபை, முல்லேரியா மற்றும் கொட்டிகாவத்தை பிரதேச சபைக்குட்பட்ட பகுதிகளுக்கு 18 மணித்தியாலங்களுக்கு நீர் வெட்டு அமுல்படுத்தப்படும் என தெரிவிக்கப்படுகின்றது.
+🟩
 
-அம்பத்தலே நீர் சுத்திகரிப்பு நிலையத்தில் மேற்கொள்ளப்படவுள்ள அவசர பராமரிப்பு வேலை காரணமாக இந்த நீர் வெட்டு அமுல்படுத்தப்படும் என தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை மேலும் தெரிவித்துள்ளது. R
+The National Water Supply and Drainage Board said that 18 hours of water cut will be implemented in Colombo from 9 pm to 05 pm tomorrow (04).
+
+Accordingly, the Kolonnawa Municipal Council, Kaduwela Municipal Council, Mulleriya and Kotikawatte Pradeshiya Sabha areas will be implemented for 18 hours.
+
+The National Water Supply and Drainage Board further stated that the water cut will be implemented due to the emergency maintenance work to be carried out at the Ambatale Water Plantation Center.. Remble
 
 ◼️
 
 [Data](articles/237196da.json)
+
+[Extended Data](ext_articles/237196da.ext.json)
 
 ---
 
@@ -140,7 +152,7 @@ The petition requests that an interim order be issued to prevent the calling of 
 
 ### Tonight Tonight 9.00 am to 8 hours of water cut
 
-*2024-07-04 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/187703) · `ta`
+*2024-07-04 19:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/187703) · `ta`
 
 Water supply will be disrupted for 18 hours starting from 9 pm on Thursday, April 4th, affecting areas like Kolonnawa, Kaduwela, Mulleriya, and Kotikawatte due to emergency maintenance at the Ambathale Water Plant. The same areas will experience another water cut from 9 pm to 4 pm on Friday, April 5th.
 

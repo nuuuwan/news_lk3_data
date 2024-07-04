@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 14:19:47**
+As of **2024-07-04 14:35:17**
 
 ## Newspaper Stats
 
-*Scraped **33,647** Articles*
+*Scraped **33,648** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,972
 dailyftlk | 2,084
-adalk | 3,007
+adalk | 3,008
 adaderanalk | 3,839
 tamilmirrorlk | 3,980
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,577
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,647 (100.0%) of 33,647 articles have been extended.
+33,647 (100.0%) of 33,648 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -723,6 +723,20 @@ In equities, Colombo’s All Share Price Index opened 59.82 points higher at 12,
 [Data](articles/178cb855.json)
 
 [Extended Data](ext_articles/178cb855.ext.json)
+
+---
+
+### පොසොන් සැණකෙලියෙන් අපුර මහ නගර සභාවට වාර්තාගත ආදායමක්
+
+*2024-07-04 10:25:26* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-සැණකෙලියෙන්-අපුර-මහ-නගර-සභාවට-වාර්තාගත-ආදායමක්/11-410605) · `si`
+
+ජාතික පොසොන් උත්සවය නිමිත්තෙන් අනුරාධපුර මහනගර සභාව සංවිධානය කළ  පුරවර උදානය පොසොන් සැණකෙළියෙන්  රුපියල් කෝටි අටහමාරක දළ ආදායමක් ලැබී ඇති බව නාගරික කොමසාරිස් රුවන් විජේසිංහ මහතා පැවසීය. මෙය මහනගර සභා ඉතිහාසයේ වැඩිම ආදායමක් ඉපැයූ ව්‍යාපෘතිය බව ඒ මහතා සදහන් කළේය. මෙම ආදායමෙන් ලැබූ දළ ලාභය රුපියල් කෝටි හතර හමාරක් පමණ බවද නාගරික කොමසාරිස්වරයා පැවසුවේය.
+
+පුරවර උදානය දින නවයක කාලසීමාවක් අනුරාධපුර වලිසිංහ හරිශ්චන්ද්‍ර උද්‍යානයේ දී පැවැත්විණි. මහනගර සභාව මෙම ආදායම උපයාගනු ලැබුයේ සැණකෙළිය හා සංදර්ශන නැරැඹීම සඳහා එහි ගිය ජනතාවට ප්‍රවේශ පත්‍ර  අළෙවි කිරීම මගින් බව සදහන්වේ. එමෙන්ම ඒ සදහා  සංදර්ශන හා සැණකෙලි මගින් ලැබූ ආදායම් ද  වෙනත් ආදායම් බදු ද ඇතුළත් වී ඇති බව  නාගරික කොමසාරිස්වරයා සදහන් කළේය.
+
+◼️
+
+[Data](articles/f9a7370d.json)
 
 ---
 
@@ -2217,31 +2231,5 @@ The deceased male student is a resident of Wellawatte and the female student is 
 [Data](articles/db4f4e82.json)
 
 [Extended Data](ext_articles/db4f4e82.ext.json)
-
----
-
-### Dematagoda Chaminda's wife jumps from country
-
-*2024-07-03 22:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198460) · `si`
-
-Dematagoda Chaminda's wife has left the country to avoid arrest related to illegal asset division. The Colombo Chief Magistrate's Court ordered her detention upon arrival. Meanwhile, a High Court judge panel will review properties linked to Dematagoda Chaminda and his brother, with assets worth Rs. 140 crores already frozen.
-
-🟩
-
-The underworld leader leader, Dematagoda Chaminda's wife, has fled the country to arrest the illegal asset division of the Illegal Asset Division.
-
-She is preparing to arrest her as a mortgage station that was mortgaged about Rs.
-
-The Colombo Chief Magistrate's Court today issued an order to the Department of Immigration and Emigration to arrest her at the time of arriving in the island.
-
-Meanwhile, Vasana to begin with a three-member panel of judges on the 25th of the properties of the brother of Dematagoda Ruwan and his wife Dematagoda, Dematagoda.
-
-The High Court has already deactivated Rs. 140 crores belonging to them.
-
-◼️
-
-[Data](articles/a9639c90.json)
-
-[Extended Data](ext_articles/a9639c90.ext.json)
 
 ---

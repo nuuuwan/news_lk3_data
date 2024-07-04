@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 20:53:51**
+As of **2024-07-04 21:04:45**
 
 ## Newspaper Stats
 
-*Scraped **33,701** Articles*
+*Scraped **33,703** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,46 @@ newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,982
 dailyftlk | 2,084
-adalk | 3,016
+adalk | 3,017
 adaderanalk | 3,846
 tamilmirrorlk | 3,984
 dailymirrorlk | 4,733
 virakesarilk | 5,277
-adaderanasinhalalk | 5,586
+adaderanasinhalalk | 5,587
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,701 (100.0%) of 33,701 articles have been extended.
+33,701 (100.0%) of 33,703 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
+
+### කොළඹ අල්ටෙයාර් ඛේදවාචකය ගැන තවත් තොරතුරු රැසක්
+
+*2024-07-04 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198492) · `si`
+
+කොම්පඤ්ඤ වීදියේ පිහිටි අල්ටෙයාර් සුඛෝපභෝගී මහල් නිවාස සංකීර්ණයේ 67 වැනි මහලෙන් ඇද වැටී 15 හැවිරිදි සිසුවෙකු සහ සිසුවියක ජීවිතක්ෂයට පත්වීමේ සිද්ධිය සම්බන්ධයෙන් තවත් තොරතුරු රැසක් අනාවරණ වී තිබේ.
+
+පොලීසිය පැවසුවේ, ඊයේ පැවති පශ්චාත් මරණ පරීක්ෂණවලින් අනතුරුව විවෘත තීන්දුවක් දෙමින් ඔවුන්ගේ දේහ ඥාතීන් වෙත භාරදී ඇති බවය.
+
+මෙලෙස ජීවිතක්ෂයට පත්වී තිබුණේ කොළඹ ජාත්‍යන්තර පාසලක 10 වැනි ශ්‍රෙණියේ ඉගෙනුම ලබමින් සිටි සිසුවෙක් සහ සිසුවියකි.
+
+ඔවුන්ගේ සිරුරු මහල් නිවාස සංකීර්ණයේ 03 වන මහලේ වායුසමීකරණ යන්ත්‍ර සවිකර ඇති ස්ථානයේ තිබියදී සොයා ගැනුණු අතර, එම යන්ත්‍රවල ගැටීම හේතුවෙන් සිරුරුවලට බරපතළ හානි සිදුවී තිබුණි.
+
+මෙම සිසුවා සහ සිසුවිය අතර දැඩි මිත්‍රත්වයක් තිබී ඇති බව පොලිස් විමර්ශනවලදී අනාවරණ වී ඇත.
+
+එමෙන්ම අදාළ සිසුවිය උස් ස්ථානවලට ගොස් ඡායාරූප ගැනීමේ රුචිකත්වයකින් පසුවී ඇති අතර, ඇයගේ ජංගම දුරකථනයේ තිබී එවන් ඡායාරූප කිහිපයක්ම පොලීසිය සොයාගෙන තිබුණි.
+
+ඒ අනුව, එලෙස ඡායාරූප ගැනීමට උත්සාහ කිරීමේදී මොවුන් දෙදෙනාම 67 වැනි මහලින් බිමට වැටී ඇති බවටද පොලීසිය සැක පළ කරයි.
+
+...
+
+[Data](articles/e7141937.json)
+
+---
 
 ### 16 Fixed Deposits banned in Keheliya family
 
@@ -201,6 +225,26 @@ Meanwhile, Tamil Nadu Chief Minister MK Stalin said that despite the possibility
 [Data](articles/2c4ac6e8.json)
 
 [Extended Data](ext_articles/2c4ac6e8.ext.json)
+
+---
+
+### වතු කම්කරු වැටුප් වැඩි කළ ගැසට් නිවේදනය ක්‍රියාත්මක කිරීම අත්හිටුවයි
+
+*2024-07-04 18:37:18* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරු-වැටුප්-වැඩි-කළ-ගැසට්-නිවේදනය-ක්‍රියාත්මක-කිරීම-අත්හිටුවයි/11-410615) · `si`
+
+වතු කම්කරුවන්ගේ වැටුප් වැඩි කිරීමට කම්කරු අමාත්‍ය මනුෂ නානායක්කාර මහතා නිකුත් කළ ගැසට් නිවේදනය ක්‍රියාත්මක කිරීම අත්හිටවමින් ශ්‍රේෂ්ඨාධිකරණය අතුරු තහනම් නියෝගයක් අද (04) නිකුත් කළේය.
+
+වතු කම්කරුවන්ගේ වැටුප් හදිසියේ වැඩි කිරීම තුළින් විශාල වශයෙන් රජයට බදු ගෙවන වතු කර්මාන්තය දැඩි අර්බුදයකට ලක් වන බවත් වතු කම්කරු වැටුප් වැඩි කිරීම තුළින් සමාගම් අපහසුතාවයට පත් විය හැකි බවත් සඳහන් කරමින් වතු සමාගම් 21ක් ගොනු කර ඇති පෙත්සම් විභාග කිරීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය මෙම අතුරු නියෝගය නිකුත් කළේය.
+
+ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන ගාමිණි අමරසේකර, ජනක් ද සිල්වා  සහ කුමුදුනි වික්‍රමසිංහ යන මහත්ම මහත්මීන්ගෙන් සැදුම්ලත් විනිසුරු මඩුල්ලක් හමුවේ පෙත්සම සලකා බැලීණ.
+
+වතු සමාගම් 21 විසින් ගොනුකොට ඇති මෙම අභියාචන පෙත්සමේ  වගඋත්තරකරුවන් වශයෙන් කම්කරු අමාත්‍යවරයා ඇතුළු පිරිසක් නම් කර ඇත.
+
+පෙත්සම කැඳවු අවස්ථාවේ ඉදිරිපත් වු කරුණු සැළකිල්ලට ගැනීමෙන් අනතුරුව අභියාචන පෙත්සම ලබන වර්ෂයේ පෙබරවාරි 18 වැනිදා විභාග කිරීමට දින නියම කෙරිණි.
+
+◼️
+
+[Data](articles/7dee8617.json)
 
 ---
 
@@ -2263,61 +2307,5 @@ The final decision of the Commission Revision of these tariffs will be given pub
 [Data](articles/b22b4e4c.json)
 
 [Extended Data](ext_articles/b22b4e4c.ext.json)
-
----
-
-### Order to immediately close all children's homes in the north
-
-*2024-07-04 08:45:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வடக்கில்-அனைத்து-சிறுவர்-இல்லங்களையும்-உடனடியாக-மூடுவதற்கு-உத்தரவு/71-339848) · `ta`
-
-Investigations reveal poor conditions in unregistered children's homes in the Jaffna-Tellippalai area, including overcrowding, lack of basic amenities, and potential illegal operations. The Northern Province Governor is advised to close these homes immediately, emphasizing the need for proper registration and living conditions for children in the region.
-
-🟩
-
-Investigations have revealed that children's homes were running in a place where people were not for the sake of staying in the Jaffna - Tellippalai area.
-
-A children's home, which started with 03 upcountry students last month, has been attached to a more than 03 hill country students.
-
-The house where the children's home is ruled is dilapidated, and when there are no doors for the windows, students are sleeping on the ground without bed facilities.
-
-Students have to go to another land for a short distance from the house for the facilities and baths.
-
-Meanwhile, a house belonging to the Union College, near the Tellippalai Union College, has been running a children's home with 12 upcountry students since last June.
-
-The 12 upcountry students who have been housed in the house and the union college student hostel are filled with applications for applying for students.
-
-...
-
-[Data](articles/46f8a640.json)
-
-[Extended Data](ext_articles/46f8a640.ext.json)
-
----
-
-### Two persons arrested for stealing a motorcycle and motorcycle in Ratnapura
-
-*2024-07-04 08:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/187633) · `ta`
-
-Two individuals, aged 28 and 29, from the military, were arrested in Ratnapura for stealing a three-wheeler and a motorcycle. The suspects were caught after a chase, during which they failed to produce necessary documents like a driver's license and ID card. A video later showed one suspect driving the stolen three-wheeler while the other followed on a stolen motorcycle. Both vehicles were eventually recovered. Preliminary investigations suggest the duo may be linked to 14 other crimes involving drugs, theft, and pharmacies. They are now facing charges and will appear before a magistrate.
-
-🟩
-
-Hingurukaduwa police said that two persons have been arrested for stealing a three -wheeler and motorcycle in Ratnapura.
-
-The arrested suspects were from the army from the 28,29 -year -old area, police said.
-
-The driver of the Hingurukaduwa police station, when the driver was suspected of the driver's license, without the driver's license, the National Identity Card, Insurance Card and Auto Income Tax SecurrentThe police said that they were taken to the Hingurukaduwa police station and were investigating them.
-
-The Hingurukaduwa Police Station has then informed the authorities that a complaint has been lodged with the disappearance of the three -wheeler at the Ratnapura police station.
-
-Subsequently, the Hingurukkaduwa Police Station in charge of the Velvavatta police officers, the Sisirvi video of the three -wheeler was stolen, and investigating the suspects.
-
-In the video, one of the two suspects was driving a three -wheeler and the other suspect on a motorcycle behind the three -wheeler.
-
-...
-
-[Data](articles/582c0ae2.json)
-
-[Extended Data](ext_articles/582c0ae2.ext.json)
 
 ---

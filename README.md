@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 03:35:10**
+As of **2024-07-05 03:53:30**
 
 ## Newspaper Stats
 
-*Scraped **33,729** Articles*
+*Scraped **33,736** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 332
 newsfirstlk | 363
 islandlk | 1,880
 economynextcom | 1,985
-dailyftlk | 2,093
+dailyftlk | 2,099
 adalk | 3,018
 adaderanalk | 3,849
-tamilmirrorlk | 3,991
+tamilmirrorlk | 3,992
 dailymirrorlk | 4,733
 virakesarilk | 5,278
 adaderanasinhalalk | 5,589
@@ -26,11 +26,141 @@ adaderanasinhalalk | 5,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,724 (100.0%) of 33,729 articles have been extended.
+33,729 (100.0%) of 33,736 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### Court orders freezing of Keheliya Rambukwella’s family assets
+
+*2024-07-05 03:35:52* · [`dailyftlk`](https://www.ft.lk/news/Court-orders-freezing-of-Keheliya-Rambukwella-s-family-assets/56-763885) · `en`
+
+The Colombo High Court yesterday issued an order to freeze 16 fixed deposit accounts and three insurance policies belonging to the family members of former Health Minister Keheliya Rambukwella.
+
+The move comes following an application made by the Bribery Commission.
+
+The total value of the frozen assets is estimated at Rs. 93.125 million.
+
+The accounts and policies affected are under the names of Rambukwella’s spouse, three daughters and son-in-law and will remain frozen for a period of seven days.
+
+The former Health Minister is currently held in remand custody over allegations related to the purchase of substandard immunoglobulin injections. The Bribery Commission obtained this freezing order under Section 53(1) of the Anti-Corruption Act No. 09 of 2023, as part of an ongoing investigation conducted under Section 42 of the same Act. This section allows for scrutiny of the spouse, family members, or any other associated persons in corruption cases.
+
+◼️
+
+[Data](articles/e50ada61.json)
+
+---
+
+### Attorney General opposes bail for Hirunika in ongoing appeal
+
+*2024-07-05 03:34:02* · [`dailyftlk`](https://www.ft.lk/news/Attorney-General-opposes-bail-for-Hirunika-in-ongoing-appeal/56-763884) · `en`
+
+The Attorney General yesterday raised objections to granting bail to former Parliamentarian Hirunika Premachandra, who is seeking bail pending appeal.
+
+During a session before Colombo High Court Judge Amal Ranaraja, the Attorney General requested additional time to submit written arguments against the bail application.
+
+Consequently, the High Court has rescheduled the bail hearing for 11 July.
+
+Premachandra, a former Colombo District MP, was sentenced to three years in prison for her role in the abduction of a youth using a Defender vehicle.
+
+She has appealed to the Court of Appeal, challenging her conviction and the sentence handed down by the Colombo High Court.
+
+Premachandra was convicted on 18 charges, including conspiracy, aiding in the abduction, threatening, assaulting and intimidating the victim, Amila Priyankara, in Dematagoda.
+
+...
+
+[Data](articles/94f5778e.json)
+
+---
+
+### Israel Ambassador calls on President
+
+*2024-07-05 03:31:55* · [`dailyftlk`](https://www.ft.lk/news/Israel-Ambassador-calls-on-President/56-763883) · `en`
+
+The Ambassador of Israel to India, Sri Lanka, and Bhutan Naor Gilon yesterday paid a courtesy call on President Ranil Wickremesinghe. Senior Advisor to the President on National Security and Presidential Chief of Staff Sagala Ratnayaka, and Honourary Consul to Israel Dinesh Rodrigo, also attended the meeting
+
+◼️
+
+[Data](articles/d28454e5.json)
+
+---
+
+### Western Province land prices drop; RIUNIT signals market rebound
+
+*2024-07-05 03:30:08* · [`dailyftlk`](https://www.ft.lk/business/Western-Province-land-prices-drop-RIUNIT-signals-market-rebound/34-763882) · `en`
+
+The Research Intelligence Unit (RIUNIT), an international research and consulting firm (RIUNIT) has reported a notable dip in average land prices in the Western Province, marking the first decline in the 20 years it has tracked the market.
+
+Typically, land scarcity in island cities like Colombo creates constant upward pressure on land values. Even during Sri Lanka’s civil conflict, land prices in Colombo continued to rise.
+
+However, in the first quarter of 2024, land prices fell in many Western Province suburbs, alarming industry experts.
+
+RIUNIT CEO Roshan Madawela said: “Thankfully the downward trend seen at the start of the year has now turned and what we are now observing is a return to the long-term average property price increases that Colombo and the Western Province has traditionally enjoyed.”
+
+...
+
+[Data](articles/c2fdd53c.json)
+
+---
+
+### ஒன்றரை மணி நேரத்துக்கு ரூ.ஒரு கோடி செலவு
+
+*2024-07-05 03:25:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்றரை-மணி-நேரத்துக்கு-ரூ-ஒரு-கோடி-செலவு/175-339895) · `ta`
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (02) அவசரக் கூட்டத்தை நடத்துவதற்கு கிட்டத்தட்ட ஒரு கோடி ரூபாய் செலவிடப்பட்டுள்ளதாக பாராளுமன்ற வட்டாரங்கள் தெரிவிக்கின்றன.
+
+கடன் மறுசீரமைப்பு உடன்படிக்கைகள் தொடர்பில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின்  விசேட அறிக்கையொன்றை முன்வைப்பதற்காக பாராளுமன்றம் கூட்டப்பட்டது.
+
+ஜனாதிபதியின் உரையின் பின்னர் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ கருத்து வெளியிட்டதை அடுத்து பாராளுமன்றம் ஒத்திவைக்கப்பட்டது. இந்த அமர்வு  ஒன்றரை மணி நேரம் மட்டுமே நடைபெற்றது.
+
+சபை அமர்வு குறுகியதாக இருந்தாலும், பொதுவாக ஒரு பாராளுமன்றக் கூட்டத்தின் ஒரு நாளுக்குச் செலவிடப்படும் தொகையே குறுகிய கூட்டங்களுக்கும் செலவாகும் என்று பாராளுமன்ற பேச்சாளர் ஒருவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/b6bafb0d.json)
+
+---
+
+### NCQP 2024 celebrates excellence in quality, productivity, and innovation
+
+*2024-07-05 03:24:06* · [`dailyftlk`](https://www.ft.lk/business/NCQP-2024-celebrates-excellence-in-quality-productivity-and-innovation/34-763881) · `en`
+
+SLAAQP Secretary Dr. Karthika Kathuresan (fifth from left) along with SLAAQP President Dr. Surani Dias (centre) and QCFI CEO D.K. Srivastava (fifth from right) presenting awards at the NCQP 2024
+
+SLAAQP President Dr. Surani Dias and IDB Chairman Dr. Saranga Alahapperuma presenting awards.
+
+(From left): SLAAQP President Dr. Surani Dias, IDB Chairman Dr. Saranga Alahapperuma, SLAAQP Founder President Sunil Wijesinghe and NCQP 2024 Keynote Speaker Dr. Ranil Sugathadasa, along with other invitees at the convention
+
+MAS, CBL, Ansell, Uni Dil Packaging clinch Gold at NCQP 2024
+
+The National Convention on Quality and Productivity (NCQP) 2024, organised by the Sri Lanka Association for the Advancement of Quality and Productivity (SLAAQP), concluded successfully on 24 June at the Mount Lavinia Hotel, Colombo.
+
+Held under the theme “A Quest for Quality, Productivity, and Innovation,” the event highlighted Sri Lanka’s dedication to excellence across diverse sectors.
+
+...
+
+[Data](articles/4c8c9674.json)
+
+---
+
+### CEAT tyres roll into Brazil, expanding brand’s export footprint
+
+*2024-07-05 03:22:46* · [`dailyftlk`](https://www.ft.lk/business/CEAT-tyres-roll-into-Brazil-expanding-brand-s-export-footprint/34-763880) · `en`
+
+CEAT Kelani representatives at the despatch of the first consignment of tyres to Brazil
+
+Brazil, the country that gave the world natural rubber, has become the latest export market for CEAT tyres manufactured in Sri Lanka.
+
+CEAT Kelani Holdings recently despatched its first export consignment of tyres to Brazil, the second country in South America to join the Company’s international footprint, which covers 16 countries.
+
+The commencement of exports to Brazil was preceded by CEAT Kelani receiving the requisite INMETRO certification from the National Institute of Metrology, Standardisation and Industrial Quality, Brazil’s national standards body.
+
+...
+
+[Data](articles/c5daf9e1.json)
+
+---
 
 ### CEAT tyres roll into Brazil, expanding brand’s export footprint
 
@@ -48,6 +178,8 @@ INMETRO requires manufacturers and suppliers to undergo stringent product safety
 
 [Data](articles/275c587f.json)
 
+[Extended Data](ext_articles/275c587f.ext.json)
+
 ---
 
 ### Newly appointed WB Country Director for Sri Lanka calls on President
@@ -62,6 +194,8 @@ Called on President Ranil Wickremesinghe yesterday. The meeting served as an int
 
 [Data](articles/c6421c3f.json)
 
+[Extended Data](ext_articles/c6421c3f.ext.json)
+
 ---
 
 ### Top tech entrepreneur Sushena appointed Rotary Governor 2024/25
@@ -75,6 +209,8 @@ The Co-Founder/Director of Creative Technology Solutions Ltd. – a company that
 ...
 
 [Data](articles/d24e32de.json)
+
+[Extended Data](ext_articles/d24e32de.ext.json)
 
 ---
 
@@ -93,6 +229,8 @@ Riello UPS ranks among the top 3 European UPS companies globally, with the Asia-
 ...
 
 [Data](articles/5563e74e.json)
+
+[Extended Data](ext_articles/5563e74e.ext.json)
 
 ---
 
@@ -118,21 +256,27 @@ In this role, he has been instrumental in steering the firm’s strategic direct
 
 ---
 
-### ஒன்றரை மணி நேரத்துக்கு ரூ.ஒரு கோடி செலவு
+### Rs 1 crore per hour
 
 *2024-07-05 02:20:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்றரை-மணி-நேரத்துக்கு-ரூ-ஒரு-கோடி-செலவு/175-339894) · `ta`
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (02) அவசரக் கூட்டத்தை நடத்துவதற்கு கிட்டத்தட்ட ஒரு கோடி ரூபாய் செலவிடப்பட்டுள்ளதாக பாராளுமன்ற வட்டாரங்கள் தெரிவிக்கின்றன.
+An emergency Parliament meeting cost nearly Rs 1 crore, primarily for presenting President Ranil Wickremesinghe's debt agreement report. Despite being cut short due to opposition leader Sajith Premadasa's comment, the expense underscores the high cost of brief parliamentary sessions.
 
-கடன் மறுசீரமைப்பு உடன்படிக்கைகள் தொடர்பில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின்  விசேட அறிக்கையொன்றை முன்வைப்பதற்காக பாராளுமன்றம் கூட்டப்பட்டது.
+🟩
 
-ஜனாதிபதியின் உரையின் பின்னர் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ கருத்து வெளியிட்டதை அடுத்து பாராளுமன்றம் ஒத்திவைக்கப்பட்டது. இந்த அமர்வு  ஒன்றரை மணி நேரம் மட்டுமே நடைபெற்றது.
+According to parliamentary sources, nearly Rs 1 crore has been spent to hold an emergency meeting in Parliament on Tuesday (02).
 
-சபை அமர்வு குறுகியதாக இருந்தாலும், பொதுவாக ஒரு பாராளுமன்றக் கூட்டத்தின் ஒரு நாளுக்குச் செலவிடப்படும் தொகையே குறுகிய கூட்டங்களுக்கும் செலவாகும் என்று பாராளுமன்ற பேச்சாளர் ஒருவர் தெரிவித்தார்.
+Parliament was convened to present a special report of President Ranil Wickremesinghe on the debt renovation agreements.
+
+Parliament was postponed after opposition leader Sajith Premadasa commented after the president's speech. The session was held for only one and a half hours.
+
+Although the session is short, a parliamentary spokesman said that the amount spent on a day of a parliamentary meeting would cost short meetings.
 
 ◼️
 
 [Data](articles/085c3259.json)
+
+[Extended Data](ext_articles/085c3259.ext.json)
 
 ---
 
@@ -2109,185 +2253,5 @@ Investigators also found a CCTV footage in a motorcycle with a motorcycle.
 [Data](articles/ee689c08.json)
 
 [Extended Data](ext_articles/ee689c08.ext.json)
-
----
-
-### Why should British Tamils ​​vote for the Liberal Democrats?Party candidate Bobby Dean Description
-
-*2024-07-04 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/187651) · `ta`
-
-British Tamils should vote for the Liberal Democrats due to their strong support for the Tamil community, opposition to Sri Lankan security forces' abuses, calls for genocide recognition, and advocacy for individual rights against oppression. The party promises to impose sanctions, support arms sales restrictions, link financial aid to demilitarization efforts, and demand genuine reconciliation from the Sri Lankan government.
-
-🟩
-
-Liberal Democrats have appealed to the Kenzavertiv parties against Savendra Silva, the chief of the Sri Lankan security forces, and against him, the Liberal Democrats have called for the Liberal Democrats to impose obstacles.
-
-Liberal Democratic Party leader Etvevi has long supported the Tamil community. Under his leadership, Kenzhartis under his leadership has urged the Liberal Democratic Party to recognize the crimes committed against the Tamil people as genocide and to hold the crimes in court.
-
-He said we cannot stop the quest for justice - it is very good.
-
-The Liberal Democrats have always voiced the rights of individuals against oppression.
-
-It has been observed that the violence against Tamils ​​continues for the past five years - especially in the northeastern parts of Sri Lanka, where soldiers have been threatened.
-
-Sri Lanka's judicial department is defective. We have noticed that arbitrarily detention is continuing.
-
-...
-
-[Data](articles/050f8343.json)
-
-[Extended Data](ext_articles/050f8343.ext.json)
-
----
-
-### 35 people injured in a massive accident
-
-*2024-07-04 11:44:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரிய-விபத்தில்-35-பேர்-படுகாயம்/175-339857) · `ta`
-
-In a tragic accident involving a bus from Chilaw Depot and a cement-laden lorry, 35 individuals suffered injuries and were hospitalized. The incident occurred due to a head-on collision, as reported by the Madambai police.
-
-🟩
-
-A bus belonging to the Chilaw Depot and a lorry carrying a cement -carrying lorry collided head -on, 35 people were injured and admitted to the hospital, Madambai police said.
-
-◼️
-
-[Data](articles/5aeb2b78.json)
-
-[Extended Data](ext_articles/5aeb2b78.ext.json)
-
----
-
-### The Attorney General's opposition to Hirunika's request?
-
-*2024-07-04 11:38:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிகாவின்-கோரிக்கைக்கு-சட்டமா-அதிபர்-எதிர்ப்பு/175-339856) · `ta`
-
-The Attorney General opposed Hirunika Premachandra's bail request in court, stating his intention to file objections. The case was adjourned until the 11th to allow him to do so.
-
-🟩
-
-The Attorney General today (04) announced in the Colombo High Court that he will file objections for the release of former parliamentarian Hirunika Premachandra, who has been sentenced to three years' rigorous imprisonment.
-
-The bail request was considered today in the presence of Colombo High Court Judge Amal Ranarajah.
-
-There, the Attorney General, who said the Attorney General was expecting to submit objections to the request, demanded that it be postponed to file objections.
-
-Accordingly, the High Court judge, who allowed the Attorney General to submit objections, ordered the bail request to be taken up for hearing again on the 11th.
-
-◼️
-
-[Data](articles/85085449.json)
-
-[Extended Data](ext_articles/85085449.ext.json)
-
----
-
-### Driver's grief survivors survive
-
-*2024-07-04 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198476) · `si`
-
-In a tragic accident on the Ella-Wellawaya road, two luxury buses collided, causing one to brake and stop on a precipice. The driver recognized the imminent danger and parked the bus safely, preventing it from falling off the cliff. The other bus continued down the road. The incident resulted in injuries to the bus driver, who was taken to the Badulla hospital. The Ella Police Station is investigating the cause of the crash.
-
-🟩
-
-A luxury bus collided with a luxury bus in the Ravana Fallen on the Ella-Wellawaya main road.
-
-The bus carrying with passengers from Badulla to Makumbura today (04) has been brake at all over the precipice.
-
-The driver of the bus has been parked by the driver of the bus, which understood the largest danger.
-
-Otherwise, the bus could have fell into a great danger.
-
-Due to the accident, the bus driver was injured and rushed to the Badulla hospital and the Ella Police Station is conducting further investigations into the accident.
-
-◼️
-
-[Data](articles/51229e23.json)
-
-[Extended Data](ext_articles/51229e23.ext.json)
-
----
-
-### Madampe is a terrible bus - a lorry accident
-
-*2024-07-04 11:18:08* · [`adalk`](https://www.ada.lk/breaking_news/මාදම්පේ-බිහිසුණු-බස්---ලොරි-අනතුරක්/11-410607) · `si`
-
-A horrific accident involving a SLTB bus from Moneragala to Colombo resulted in 35 injuries, including several serious cases, after colliding with a lorry near Madampe's Chilaw depot.
-
-🟩
-
-It is reported that a horrific injury belonging to the Chilaw depot in Madampe was reportedly confronted with a lorry.
-
-According to hospital sources, about 35 people were injured in the accident and the condition of several people is serious.
-
-The SLTB bus traveling from the temples from Moneragala to Colombo this morning (04) was not able to control Colombo from Puttalam to Colombo to Colombo.
-
-◼️
-
-[Data](articles/6cf6848e.json)
-
-[Extended Data](ext_articles/6cf6848e.ext.json)
-
----
-
-### I'm not going - bidain
-
-*2024-07-04 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198475) · `si`
-
-The Democratic Party is upset over President Biden's performance in a TV debate against Trump, considering it a major setback. There's talk about replacing him in the upcoming election due to his poor showing. Reports suggest Biden met with party leaders to discuss this issue. Despite this, Biden claims he will run again, having also consulted with Vice President Mahinda Rajapaksa.
-
-🟩
-
-The Democratic Parties have been severely disturbed by President Bidesman in the television debate between US President Joe Biday and former President Donald Trump.
-
-The majority of the majority of the majority of the people are clearly involved in it.
-
-Therefore, there is a variety that the President's election should be submitted from the Democratic Party.
-
-The foreign media reports that a bidon discussed with top members of the party.
-
-The President has said that he was present at the Presidential election.
-
-Also, President Bidain has also held talks with Vice President Mahinda Rajapaksa and President Bidesman has been well-known for the presidential election.
-
-◼️
-
-[Data](articles/f2a8c383.json)
-
-[Extended Data](ext_articles/f2a8c383.ext.json)
-
----
-
-### Several fatal accidents - 5 dead
-
-*2024-07-04 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198474) · `si`
-
-Yesterday, five fatalities were reported across various incidents on the island. A car crash in Mullaitivu resulted in the death of a 9-year-old girl, while another accident involving a motorcycle led to the demise of a 19-year-old boy. In Kuliyapitiya, a 64-year-old motorcyclist died after colliding with a lorry. Additionally, a pedestrian woman was hit by a speeding motorbike in Thambuththegama, and a woman was injured in an accident on the Panadura-Ratnapura road.
-
-🟩
-
-Five people have been killed in the accidents that occurred in several parts of the island yesterday.
-
-Mullaiththivi police division, Mullaitivu, a car traveled by a car traveled from the Mullaitivu Nedunkendi, towards the Nedun and Road.
-
-The injured girl has been admitted to the Munchangala Hospital.
-
-The deceased has been identified as 9 year old Mamula, Mulliyadi area.
-
-Meanwhile, a motorcycle driven by Kehella's junction from Kehellaka in the Kandahawa police division, a motorcycle was killed in a crash accident.
-
-The victim was a 19 year old resident of Katuwellagama.
-
-Meanwhile, a lorry shoot was parked near the Grama Niladhari office at Narangoda Wadugedara road in Kuliyapitiya area.
-
-At the same point, a lorry that was driven towards Narangalla to Narangalla to Narangalla has been a crash of the motorcycle pushing the motorcycle while driving backwards.
-
-The 64-year-old motorcyclist killed in the accident.
-
-...
-
-[Data](articles/05d99c94.json)
-
-[Extended Data](ext_articles/05d99c94.ext.json)
 
 ---

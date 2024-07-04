@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-04 20:35:00**
+As of **2024-07-04 20:53:51**
 
 ## Newspaper Stats
 
@@ -26,29 +26,33 @@ adaderanasinhalalk | 5,586
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,700 (100.0%) of 33,701 articles have been extended.
+33,701 (100.0%) of 33,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-04 (Thursday)
 
-### කෙහෙළිය පවුලේ ස්ථාවර තැන්පතු 16ක් තහනම්
+### 16 Fixed Deposits banned in Keheliya family
 
 *2024-07-04 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198490) · `si`
 
-මාස 05ක කාලයක් තිස්සේ රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගේ පවුලේ සාමාජිකයන්ගේ ස්ථාවර තැන්පතු ගිණුම් හා ජීවිත රක්ෂණ ඔප්පු දින 7කට තහනම් කිරීමට අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව කටයුතු කර තිබේ.
+The Bribery or Corruption Acceleration Commission has banned 16 fixed deposit accounts and 3 life insurance policies linked to former Health Minister Keheliya Rambukwella for five months due to suspicious transactions. This action follows an investigation into his family members' financial activities, including deposits and insurance policies. The commission stated that this move is part of efforts to combat money laundering. Further investigations have been ordered, and Rambukwella remains in custody pending trial over allegations related to substandard antibody injections.
 
-සැක කටයුතු ගනුදෙනු සම්බන්ධයෙන් මෙලෙස තහනම් කර ඇත්තේ ස්ථාවර තැන්පතු 16ක් සහ රක්ෂණ ඔප්පු 3කි.
+🟩
 
-ඒ අනුව, පසුගිය ජුනි මස 27 වනදා සිට බලපැවැත්වෙන පරිදි හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගේ බිරිඳ, දියණියන් තිදෙනා සහ එක් දියණියකගේ සැමියාගේ පෞද්ගලික බැංකුවකට අයත් රුපියල් මිලියන 93.125ක වටිනාකමින් යුත් ස්ථාවර තැන්පත් ගිණුම් සහ ජීවිත රක්ෂණ ඔප්පු සම්බන්ධයෙන් වූ සැක කටයුතු ගණුදෙනු හේතුවෙන් දින 7ක් සඳහා තහනම් නියෝගයක් නිකුත් කෙරුණි.
+The Investigation Commission has taken the Bribery or Corruption Accelers to ban on the Fixed Deposit Accounts and Life Insurance policies of former Health Minister Keheliya Rambukwella for a period of five months.
 
-එම කොමිසම පැවසුවේ, මුදල් විශුද්ධිකරණ වරද යටතේ,  ස්ථාවර තැන්පතු 16ක් සහ රක්ෂණ ඔප්පු තුනක් තහනම් කිරීමට කටයුතු කළ බවය.
+There are banned on suspicious transactions, 16 fixed deposits and 3 insurance policies.
 
-ඒ අනුව, මහාධිකරණයට වාර්තා කිරීමෙන් අනතුරුව තහනම් නියෝගය දීර්ඝ කරගැනීමට සහ ඉදිරි විමර්ශන කටයුතු සිදුකිරීමට නියමිත බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව පැවසීය.
+Accordingly, for 7 days of suspicious deposits of the two daughters of Health, the wife of the two daughters of Health and the husband of one daughter of a private bank of the private bank of the private bank of the private bank of the private bank of the private bank of the private bank of the private bank of the private bank of the private bank of the private bank of the private.A prohibited order was issued.
+
+The commission said that 16 fixed deposits and three insurance policies were banned under the money laundering.
 
 ...
 
 [Data](articles/93901e8e.json)
+
+[Extended Data](ext_articles/93901e8e.ext.json)
 
 ---
 

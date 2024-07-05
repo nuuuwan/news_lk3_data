@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 07:01:18**
+As of **2024-07-05 07:24:58**
 
 ## Newspaper Stats
 
-*Scraped **33,756** Articles*
+*Scraped **33,757** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,59 @@ adaderanalk | 3,849
 tamilmirrorlk | 3,993
 dailymirrorlk | 4,733
 virakesarilk | 5,287
-adaderanasinhalalk | 5,590
+adaderanasinhalalk | 5,591
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,754 (100.0%) of 33,756 articles have been extended.
+33,756 (100.0%) of 33,757 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### ප්‍රදේශ කිහිපයකට වැසි
+### බ්‍රිතාන්‍යය ට නව අගමැතිවරයෙක්
+
+*2024-07-05 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198497) · `si`
+
+බ්‍රිතාන්‍යයේ ඊයේ (04) පැවති මහ මැතිවරණයේ ප්‍රතිඵල මේ වනවිට නිකුත්වෙමින් පවතියි.
+
+එබැවින් එම පක්ෂයේ Keir Starmer එරට අගමැති ලෙස පත්වීමට නියමිත බව විදෙස් මාධ්‍ය පවසයි.
+
+කම්කරු පක්ෂය ආසන 410 ක් සහ පාලන බලය හිමිකරගෙන සිටි කොන්සර්වෙටිව් පක්ෂය ආසන 131ක් ලබාගැනීමට ඉඩ ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/47c49749.json)
+
+---
+
+### Showers in several areas
 
 *2024-07-05 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198495) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමෙන්තුව පවසයි.
+The Department of Meteorology predicts showers across the Western, Sabaragamuwa, North Western provinces, and specific districts including Galle, Matara, Ampara, Batticaloa, and central hill slopes. Heavy rain exceeding 75mm is possible, along with gusty winds of 40-50km/h. The department advises caution against lightning and strong wind risks.
 
-බස්නාහිර, සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැක.
+🟩
 
-උතුරු සහ උතුර-මැද පළාත්වල වැසිවාර කිහිපයක් ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+The Department of Meteorology says that there will be showers in the Western, Sabaragamuwa and North Western provinces.
 
-ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+Some locations in the Western, Sabaragamuwa provinces and in Galle and Matara districts. Heavy rains can occur at more than 75.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැක.
+There are several closed in the North and North and the North.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමෙන්තුව ජනතාවට දැනුම් දී තිබේ.
+Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. 40-50 can cause strong winds.
+
+The Department of Meteorology has informed the people to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/c1e5b564.json)
+
+[Extended Data](ext_articles/c1e5b564.ext.json)
 
 ---
 
@@ -2241,21 +2263,5 @@ Fellows have not been damaged in danger. The Etimala police are conducting furth
 [Data](articles/aed5bc1d.json)
 
 [Extended Data](ext_articles/aed5bc1d.ext.json)
-
----
-
-### Support for Sri Lanka president grew in May but remained far behind rivals: poll
-
-*2024-07-04 13:12:00* · [`economynextcom`](https://economynext.com/support-for-sri-lanka-president-grew-in-may-but-remained-far-behind-rivals-poll-170849/) · `en`
-
-ECONOMYNEXT — Support for President Ranil Wickremesinghe increased to 15 percent in May, though support for his two main rivals remained significantly higher at just under 40 percent for each in an independent voting-intent survey.
-
-The Sri Lanka Opinion Tracker Survey (SLOTS) carried out by the Institute for Health Policy (IHP) found that 39 percent of the adults surveyed had expressed support for leftist National People’s Power (NPP) leader Anura Kumara Dissanayake at the upcoming presidential election. This was a drop of two percentage points from April. Support for opposition leader Sajith Premadasa remained unchanged at 38 percent. President Wickremesinghe gained three percentage points, with support for him increasing to 15 percent. Meanwhile, support for a generic candidate from the ruling Sri Lanka Podujana Peramuna (SLPP) was found to be 7 percent.
-
-...
-
-[Data](articles/cffaeaef.json)
-
-[Extended Data](ext_articles/cffaeaef.ext.json)
 
 ---

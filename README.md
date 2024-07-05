@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 22:19:45**
+As of **2024-07-05 22:35:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,615
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,864 (100.0%) of 33,866 articles have been extended.
+33,866 (100.0%) of 33,866 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The Foreign Minister is also scheduled to take part in the Reuters NEXT Asia-Pac
 ◼️
 
 [Data](articles/139eb86f.json)
+
+[Extended Data](ext_articles/139eb86f.ext.json)
 
 ---
 
@@ -65,6 +67,8 @@ During the visit, Most Venerable Makulewe Wimala Thero chanted ‘Seth Pirith’
 ...
 
 [Data](articles/1ef8d1ee.json)
+
+[Extended Data](ext_articles/1ef8d1ee.ext.json)
 
 ---
 

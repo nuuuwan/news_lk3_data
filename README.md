@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 14:35:07**
+As of **2024-07-05 14:54:12**
 
 ## Newspaper Stats
 
-*Scraped **33,816** Articles*
+*Scraped **33,817** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,49 @@ adaderanalk | 3,864
 tamilmirrorlk | 4,004
 dailymirrorlk | 4,733
 virakesarilk | 5,300
-adaderanasinhalalk | 5,603
+adaderanasinhalalk | 5,604
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,814 (100.0%) of 33,816 articles have been extended.
+33,816 (100.0%) of 33,817 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### பதுளையில் கோர விபத்து - 4 பேர் மரணம் ; பலர் படுகாயம்
+### යුක්තිය 2වන අදියරේ පළමු දි‍නයේ දී සැකකරුවන් 1,403ක් අත්අඩංගුවට
+
+*2024-07-05 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198510) · `si`
+
+යුක්තිය මෙහෙයුමේ 2වන අදියර ඊයේ (04) ආරම්භ කෙරුණු අතර එහිදී සැකකරුවන් 1,403 දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+මෙම මෙහෙයුමේදී හෙරොයින් කිලෝ 1යි ග්‍රෑම් 86ක්, අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 782.7ක්, ගංජා කිලෝග්‍රෑම් 3.74ක් පොලිස් භාරයට ගත් බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පැවසීය.
+
+◼️
+
+[Data](articles/a0dea746.json)
+
+---
+
+### Accident in Badulla - 4 deaths;Many people are injured
 
 *2024-07-05 14:06:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பதுளையில்-கோர-விபத்து-4-பேர்-மரணம்-பலர்-படுகாயம்/76-339913) · `ta`
 
-பதுளை - சொரணாதோட்டை வீதியின் வெலிஹிந்த பிரதேசத்தில் இன்று (05) மதியம் லொறியொன்று விபத்துக்குள்ளானதில் நான்கு பேர் உயிரிழந்துள்ளனர்.
+A crash involving a lorry in Badulla's Weliinda area resulted in four fatalities and numerous injuries. The victims were setting up buses on the street from Moneragala.
 
-மொனராகலையில் இருந்து வீதிகளில் பேருந்து தரிப்பிடங்களை அமைப்பதற்காக வந்தவர்களே இவ்வாறு விபத்தில் சிக்கியுள்ளனர்
+🟩
+
+Four people were killed when a lorry crashed in the Weliinda area of ​​Badulla - Soronadottai road this afternoon.
+
+Those who came to set up buses on the streets from Moneragala were involved in the accident.
 
 ◼️
 
 [Data](articles/b33b3d83.json)
+
+[Extended Data](ext_articles/b33b3d83.ext.json)
 
 ---
 
@@ -238,21 +258,27 @@ Judge Prabhudika Nanayakkara, who was investigating the case, ordered the suspec
 
 ---
 
-### படம் பிடித்த பொலிஸ் அதிகாரிக்கு விளக்கமறியல்
+### Explanation for the film's favorite police officer
 
 *2024-07-05 13:17:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/படம்-பிடித்த-பொலிஸ்-அதிகாரிக்கு-விளக்கமறியல்/76-339911) · `ta`
 
-பெண் பொலிஸார் தங்குமிட விடுதி குளியறையில் குளித்து கொண்டிருந்த பெண் பொலிஸ் அதிகாரியொருவரை மறைந்திருந்து படம் பிடித்த ஆண் பொலிஸ் உத்தியோகத்தோர்  ஒருவரை விளக்க மறியலில் வைக்குமாறு நுவரெலியா மாவட்ட நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+In Nuwara Eliya, a female police officer was shot by a male colleague while bathing at a hostel. The court has ordered her arrest, and the shooter remains under investigation.
 
-லிந்துலை பொலிஸ் நிலையத்தில் பெண் பொலிஸார் தங்குமிட  விடுதி குளியலறையில் குளித்து கொண்டிருந்த பெண் பொலிஸ்  உத்தியோகத்தோர் ஒருவரை அதே பொலிஸ் நிலையத்தில் பணிபுரியும் ஆண் பொலிஸ்  உத்தியோகத்தோர் ஒருவர் தனது ஸ்மார்ட் போனால் படம் பிடித்து வைத்திருந்துள்ளார்.
+🟩
 
-இந்த விடயம் ஏனைய பொலிஸாருக்கு தெரியவந்ததையடுத்து விசாரணைகள் தொடரப்பட்டு குறித்த பொலிஸ் உத்தியோகத்தோர் மீது நடவடிக்கை மேற்கொள்ளப்பட்டு  கைது செய்த லிந்துலை பொலிஸார் அவரை நுவரெலியா நீதவான் நீதிமன்றத்தில் ஆஜர் படுத்தியுள்ளனர்.
+The Nuwara Eliya District Magistrate's Court has ordered a female police officer who was bathing in a hostel in the hostel.
 
-இதன்போது இது தொடர்பான வழக்கை விசாரணைக்கு எடுத்து கொண்ட நீதிபதி பிரபுதிகா நாணயக்கார சந்தேக நபரான பொலிஸ் உத்தியோகத்தரை செவ்வாய்கிழமை (09) வரை விளக்க மறியலில் வைக்க உத்தரவு பிறப்பித்தார்.
+A female police officer who was bathing in the hostel bathroom at Lindulai police station, a male police officer who was working at the same police station, was shot in a smart.
+
+The police have arrested the Nuwara Eliya Magistrate's Court, who arrested the police officers and arrested the police officers.
+
+Judge Prabhudika Nanayakkara, who was investigated by the case, ordered the suspect to be interrogated by the police officer until Tuesday (09).
 
 ◼️
 
 [Data](articles/f833a890.json)
+
+[Extended Data](ext_articles/f833a890.ext.json)
 
 ---
 
@@ -2247,37 +2273,5 @@ As a result, a meeting between the Senior Administrative Officers of the Japanes
 [Data](articles/7ece1a97.json)
 
 [Extended Data](ext_articles/7ece1a97.ext.json)
-
----
-
-### Bonds explain agreements
-
-*2024-07-04 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198493) · `si`
-
-Sri Lanka and its creditors have agreed to restructure $12.5 billion in international bonds, aiming for economic growth to aid debt repayment. This follows the completion of restructuring foreign and local debts. The total credit in Sri Lanka stands at $100 billion, with $37 billion abroad. Bilateral and multilateral loans, along with international bonds, make up this figure. A previous agreement focused on restructuring $10 billion in bilateral loans. The IMF predicts Sri Lanka's GDP will reach $88.6 billion by 2027, potentially reducing debt relief limits based on economic performance. State Minister Shehan Semasinghe expects these agreements to support sustainable development goals.
-
-🟩
-
-Sri Lanka and creditors have agreed to restructuring international bond debt yesterday (03).
-
-Under this, US $ 12.5 billion bonds are to be restructured.
-
-Foreign debt and local debt have already been completed and the creditors of bond debt have agreed to a successful final part of debt restructuring.
-
-The total number of credit in Sri Lanka is US $ 100 billion and $ 57 billion, US $ 37 billion abroad and $ 6 billion.
-
-Bilateral loans have $ 106 billion in $ 37 billion, multilateral loans and $ 11.7 billion and $ 14.7 billion worth of international bonds.
-
-The multi-party is not restructured and the agreement was signed last week to restructure $ 10 billion in bilateral loans.
-
-In order to restructure US $ 12.5 billion in international bonds, Sri Lanka and creditors have agreed to a success of credit restructuring.
-
-In these discussions, the bond owners stand in this discussion that the economy of Sri Lanka will grow in the coming years.
-
-...
-
-[Data](articles/693322e5.json)
-
-[Extended Data](ext_articles/693322e5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 09:54:37**
+As of **2024-07-05 10:07:39**
 
 ## Newspaper Stats
 
-*Scraped **33,770** Articles*
+*Scraped **33,772** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 3,020
 adaderanalk | 3,853
 tamilmirrorlk | 3,995
 dailymirrorlk | 4,733
-virakesarilk | 5,287
+virakesarilk | 5,289
 adaderanasinhalalk | 5,594
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,765 (100.0%) of 33,770 articles have been extended.
+33,770 (100.0%) of 33,772 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### சம்பந்தனின் பூதவுடல் திருகோணமலைக்கு கொண்டு செல்லப்பட்டது
+
+*2024-07-05 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187719) · `ta`
+
+இலங்கை தமிழ் அரசுக் கட்சியின் மூத்த தலைவர் இராஜவரோதயம் சம்பந்தனது பூதவுடல் யாழ்ப்பாணத்தில் இருந்து இன்று வெள்ளிக்கிழமை (05) விமானம் மூலம் திருகோணமலைக்கு கொண்டுச் செல்லப்பட்டது.
+
+யாழ்ப்பாணத்தில் உள்ள தந்தை செல்வா கலையரங்கில் சம்பந்தனின் பூதவுடலுக்கு நேற்று வியாழக்கிழமை (04) பலரும் அஞ்சலி செலுத்திய நிலையில் அஞ்சலி நிறைவுக்கு வந்து பூதவுடல் அங்கேயே வைக்கப்பட்டது.
+
+தந்தை செல்வா கலையரங்கில் இருந்து இன்றைய தினம் காலை கார் மூலம் பலாலி விமான நிலையத்திற்கு கொண்டுச் செல்லப்பட்டு அங்கிருந்து திருகோணமலைக்கு விமானம் மூலம் கொண்டு செல்லப்பட்டது.
+
+திருகோணமலையில் இரண்டு தினங்கள் பொதுமக்கள் அஞ்சலிக்கு வைக்கப்பட்டு ஞாயிற்றுக்கிழமை இறுதிக்கிரியை நடைபெற்று தகனம் செய்யப்படவுள்ளது.
+
+◼️
+
+[Data](articles/8b624e50.json)
+
+---
 
 ### New WB Country Director meets Sri Lankan President vows to back revival of economy
 
@@ -48,21 +66,29 @@ In April 2022, the island nation declared its first-ever sovereign default since
 
 [Data](articles/2183409e.json)
 
+[Extended Data](ext_articles/2183409e.ext.json)
+
 ---
 
-### ශ්‍රීලනිප මූලස්ථානයේ ආරක්ෂාව තර කෙරේ
+### SLFP Headquarters will be strengthened
 
 *2024-07-05 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198500) · `si`
 
-කොළඹ ඩාලි පාරේ පිහිටි ශ්‍රී ලංකා නිදහස් පක්ෂ මූලස්ථානය ආසන්නයේ ආරක්ෂාව තර කිරීමට පොලීසිය කටයුතු කර තිබේ.
+Security measures are being enhanced at the SLFP headquarters in Colombo due to potential unrest. The General Secretary, Dayasiri Jayasekera, called for party members to gather there today.
 
-අද (05) උදෑසන තම පක්ෂ මූලස්ථානයට එන ලෙස ශ්‍රී ලංකා නිදහස් පක්ෂ සාමාජිකයින්ගෙන් එහි මහ ලේකම් දයාසිරි ජයසේකර මහතා ඉල්ලීමක් කර තිබුණි.
+🟩
 
-එම ස්ථානයේ කලබලකාරී තත්ත්වයක් ඇති වෙතැයි අනුමාන කර මෙම තීරණය ගෙන ඇතැයි ආරංචි මාර්ග සඳහන් කරයි.
+Police have taken measures to protect the security of the SLFP headquarters on Dali Freedom in Dali Road, Colombo.
+
+The General Secretary of Sri Lanka Dayasiri Jayasekera had requested the SLFP members to come to their party headquarters this morning.
+
+Sources said that the decision has been made to have an upset situation at the site, sources said.
 
 ◼️
 
 [Data](articles/d4b6be1a.json)
+
+[Extended Data](ext_articles/d4b6be1a.ext.json)
 
 ---
 
@@ -80,21 +106,47 @@ British Prime Minister Rishi Sunak acknowledged the defeat. That makes center-le
 
 [Data](articles/149baeb9.json)
 
+[Extended Data](ext_articles/149baeb9.ext.json)
+
 ---
 
-### අකුරණ විශාල ගින්නක් - ප්‍රධාන මාර්ගයක් තාවකාලිකව වසා දමයි
+### ஜகர்த்தாவில் அவசரமாக தரையிறக்கப்பட்ட இலங்கை விமானம்
+
+*2024-07-05 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187717) · `ta`
+
+இந்தோனேசியாவின் ஜகர்த்தா நகரில் இலங்கை விமானம் ஒன்று வியாழக்கிழமை (04) அவசர மருத்துவ காரணத்திற்காக தரையிறக்கப்பட்டுள்ளது.
+
+அவுஸ்திரேலியாவின் மெல்போர்ன் நகரிலிருந்து இருந்து கொழும்பு நோக்கி வந்த UL605 என்ற விமானம் இந்தோனேசியாவின் தெற்கே பயணித்தபோது விமானக் குழுவினர் பொது அவசரநிலையை அறிவித்தனர்.
+
+இந்நிலையில் விமானம் உள்ளூர் நேரப்படி 20:56 மணிக்கு ஜகார்த்தாவில் உள்ள விமான நிலையத்தில் தரையிறங்கியுள்ளது.
+
+எனினும், மருத்துவ காரணம் தொடர்பில் எந்த தகவலும் இதுவரை வெளியாகவில்லை என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/58e9cb5f.json)
+
+---
+
+### A large fire in Akurana - a main road is temporarily close
 
 *2024-07-05 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198499) · `si`
 
-අකුරණ නගරයේ අවන්හලක ඇති වූ ගින්නක් හේතුවෙන් මහනුවර - මාතලේ මාර්ගය තාවකාලිකව වසා දමා තිබේ.
+A massive fire in Akurana closed the Kandy-Matale road and forced several shops to shut down. Restaurant owners cited difficulty in controlling the blaze.
 
-ගින්න හේතුවෙන් තවත් වෙළඳසැල් කිහිපයකට ද පැතිර යාම හේතුවෙන් මෙ‌ලෙස මාර්ගය තාවකාලිකව වසා දැමීමට කටයුතු කර ඇති බව වාර්තා වේ.
+🟩
 
-පොලීසිය පැවසුවේ අවන්හල තුළ ගෑස් සිලින්ඩර 50ක් පමණ පවතින බවට එහි හිමිකරුවන් ප්‍රකාශ කර ඇති බැවින් ගින්න මැඩපැවැත්වීමට කටයුතු කිරීම අසීරු වී ඇති බවය.
+The Kandy-Matale road has been closed due to a fire in a restaurant in Akurana town.
+
+It is reported that several other stores have been temporarily closed due to the fire.
+
+The police said that the owners of the restaurants have stated that the owners of the restaurants have said that it is difficult to curb fire.
 
 ◼️
 
 [Data](articles/feb5a0cd.json)
+
+[Extended Data](ext_articles/feb5a0cd.ext.json)
 
 ---
 
@@ -286,25 +338,31 @@ But during first round of talks, private bondholders were said to have been not 
 
 ---
 
-### රටක පාලන බලය අතට දීමට සුදුසු වයසක් තිබේද?
+### Is there appropriate age to handle the control of a country?
 
 *2024-07-05 03:38:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce78501zdwjo) · `si`
 
-තරුණ තරුණියන් පෙරමුණ ගත් අරගලයකින් පළමුවරට ශ්‍රී ලංකා ඉතිහාසයේ විධායක ජනාධිපතිවරයෙකු පලවා හැරිමෙන්ම පසුව පත්වූ 75 හැවිරිදි අනුප්‍රාප්තික ජනාධිපතිවරයාගේ ධූර කාලයේ අවසානය ළං වෙත්ම ඉදිරි ජනාධිපතිවරණ සටනට අවතීර්ණ විය හැකි  විවිධ අපේක්ෂකයින්ගේ නම් කරලියට පැමිණ තිබේ.
+The text discusses the appropriateness of age in controlling a country, referencing historical and contemporary examples from Sri Lanka and globally. It highlights the constitutional requirements for presidential candidacy in Sri Lanka, emphasizing qualities such as political knowledge, honesty, and experience over age. It contrasts views between experts, noting the importance of maturity and fitness for leadership roles while acknowledging the potential of younger individuals. The piece concludes by reflecting on global trends where age ranges from the mid-30s to over 80 years for leaders, suggesting that both youth and experience have their merits in governance.
 
-දීර්ඝ දේශපාලන ඉතිහාසයක් හෝ දේශපාලන පරම්පරාවකින් පැවත එන හෝ ව්‍යවසායක හෝ ව්‍යාපාරික පසුබිමක් ඇති පුද්ගලයෝ ද ඒ අතර වෙති.
+🟩
 
-කෙසේ නමුත් රාජ්‍ය බලය ලබා ගැනීමට තරුණ නැගිටීම් හමුවේ කළ ආයුධ සන්නද්ධ කැරළි කිහිපයක්ම අසාර්ථක වු ඉතිහාසයක් ශ්‍රී ලංකාවට ඇත.
+As the end of the 75-year-old successive president, the end of the four-year-old successive president, the end of the Sri Lankan history, has reached the first time since the end of the four-year-old successive president.
 
-ලෝක තත්ත්වය අධ්‍යනය කිරීමේදී පෙනීයන්නේ  වියපත් නායකයින් මෙන්ම තරුණ නායකයින් ද සිය ශක්තිය යොදවා රටවල් මෙහෙයවා ඇති බවකි.
+Among them are a lengthy political history or political generation, or individually, or a business background.
 
-ජනාධිපතිවරණය:ධුර කාලය ගැන අර්ථ නිරූපණයක් ලබා දෙන තුරු ඡන්දය වැළක්වීමට අතුරු නියෝගයක් ඉල්ලා ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක්'මල් වට්ටි, පන්සල් දේශපාලනය' නොමැතිව ජනාධිපතිවරණය ජයගත නොහැකි ද?
+However, Sri Lanka has a history of failed several armed rebels, however, to acquire state power.
 
-බැලු බැල්මට තරුණ පාලනයක් හෝ වැඩිහිටි පාලනයක් සහිත රටවල පරිපාලන වෙනසක් හෝ ආර්ථිකමය වෙනසක් තිබේද යන්න වෙන් වෙන් වශයෙන් කීමට තරම් ප්‍රමාණවත් සාධක අප සතුව නැත.
+Studying the world situation show that the oldest leaders and young leaders have used their strength.
+
+Presidential Election: The Supreme Court not overcome a petition for an interim order for the interim order to vote until we have been given interim order until he is given interim order until it is given until the election is given.
+
+We do not have sufficient factors to say separately, whether there is a administrative change or economic change in young people or elderly rule.
 
 ...
 
 [Data](articles/ecab32ad.json)
+
+[Extended Data](ext_articles/ecab32ad.ext.json)
 
 ---
 
@@ -2199,53 +2257,5 @@ President Ranil Wickremesinghe’s United National Party (UNP)’s position also
 [Data](articles/ae698b05.json)
 
 [Extended Data](ext_articles/ae698b05.ext.json)
-
----
-
-### 8 years after the currency trapped in the bronchi ..!
-
-*2024-07-04 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/187672) · `ta`
-
-A 40-year-old man was hospitalized due to a coin lodged in his bronchi since he was 32. Doctors at Sir Sundarlal Hospital, Banaras Hindu University, successfully removed the coin through cardio-thoracic surgery, improving his breathing and overall health.
-
-🟩
-
-A 40 -year -old man has been admitted to the Sir Sundarlal Hospital of Banaras Hindu University in Varanasi, Uttar Pradesh, India.
-
-The doctors who examined him found that 25 percent of the bronchi was trapped. Subsequently, on the 2nd, with cardio -thoracic surgery, they have successfully removed the currency in the bronchi.
-
-The victim swallowed it when the person was 32 years old when she slept with the coin in his mouth. Because of that he has occasionally suffocated. He went to the hospital last week to increase breathing.
-
-Professors of the Banaras Hindu University Siddharth Lakodia and SK Mathur have said that he is in good health after the removal of the coin.
-
-◼️
-
-[Data](articles/738a591f.json)
-
-[Extended Data](ext_articles/738a591f.ext.json)
-
----
-
-### We have the winning candidate: Prasanna
-
-*2024-07-04 15:01:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெற்றி-வேட்பாளர்-எங்களிடம்-இருக்கிறார்-பிரசன்ன/175-339867) · `ta`
-
-Prasanna Ranatunga, the chief organizer of the ruling party, announced Prasanna as the winning candidate. He emphasized the need for social, political, and economic reforms to build a prosperous Sri Lanka, highlighting Ranil Wickremesinghe's leadership qualities.
-
-🟩
-
-The bark party is a populist party. Prasanna Ranatunga, the chief organizer of the ruling party, has said that the leader of the country, Mahinda Rajapaksa, who will coordinate the country, will tell the country timely.
-
-We have a winning candidate. We are the success page. He said, "I am the candidate of the bud," he said.
-
-Minister Prasanna Ranatunga, who attended a public meeting held on Thursday (4) in Minuwangoda, Gampaha.. Minister Prasanna Ranatunga said:
-
-To build a prosperous Sri Lanka, many social and political reforms are to be made parallel to economic growth. The people of our country expect massive political reform. Ranil Wickremesinghe is the only leader who has worked with the country that he can do his own things. That is why the villagers say that Ranil is now the man. .
-
-◼️
-
-[Data](articles/67ab2a3f.json)
-
-[Extended Data](ext_articles/67ab2a3f.ext.json)
 
 ---

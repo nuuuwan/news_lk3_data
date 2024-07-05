@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 00:19:51**
+As of **2024-07-06 00:34:57**
 
 ## Newspaper Stats
 
-*Scraped **33,871** Articles*
+*Scraped **33,872** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,997
 dailyftlk | 2,100
 adalk | 3,028
 adaderanalk | 3,875
-tamilmirrorlk | 4,008
+tamilmirrorlk | 4,009
 dailymirrorlk | 4,733
 virakesarilk | 5,310
 adaderanasinhalalk | 5,616
@@ -26,9 +26,25 @@ adaderanasinhalalk | 5,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,871 (100.0%) of 33,871 articles have been extended.
+33,871 (100.0%) of 33,872 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-07-06 (Saturday)
+
+### 1403 சந்தேக நபர்கள் கைது
+
+*2024-07-06 00:10:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1403-சந்தேக-நபர்கள்-கைது/175-339930) · `ta`
+
+யுக்திய விசேட சுற்றிவளைப்பு நடவடிக்கையின் இரண்டாம் கட்ட நடவடிக்கையின் போது 24 மணித்தியாலங்களுக்குள் 1403 சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+அவர்களில் 57 பேர் மேலதிக விசாரணைகளுக்காகத் தடுப்புக் காவலில் வைக்கப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் சிரேஷ்ட பிரதி காவல்துறைமா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/7d143b1c.json)
+
+---
 
 ### 2024-07-05 (Friday)
 
@@ -2315,23 +2331,5 @@ Sources said that the decision has been made to have an upset situation at the s
 [Data](articles/d4b6be1a.json)
 
 [Extended Data](ext_articles/d4b6be1a.ext.json)
-
----
-
-### Britain’s Labour on track for landslide victory, exit poll suggest
-
-*2024-07-05 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100300/britains-labour-on-track-for-landslide-victory-exit-poll-suggest) · `en`
-
-Britain’s Labour Party headed for a landslide victory Friday in a parliamentary election, an exit poll and partial returns indicated, as voters punished the governing Conservatives after 14 years of economic and political upheaval.
-
-British Prime Minister Rishi Sunak acknowledged the defeat. That makes center-left Labour’s leader Keir Starmer the country’s next prime minister. He will face a jaded electorate impatient for change against a gloomy backdrop of economic malaise, mounting distrust in institutions and a fraying social fabric.
-
-“Tonight people here and around the country have spoken, and they’re ready for change,” Starmer told supporters in his constituency in north London, as the official count showed he’d won his seat. “You have voted. It is now time for us to deliver.”
-
-...
-
-[Data](articles/149baeb9.json)
-
-[Extended Data](ext_articles/149baeb9.ext.json)
 
 ---

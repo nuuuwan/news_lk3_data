@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 10:07:39**
+As of **2024-07-05 10:19:49**
 
 ## Newspaper Stats
 
-*Scraped **33,772** Articles*
+*Scraped **33,774** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,63 @@ islandlk | 1,889
 economynextcom | 1,986
 dailyftlk | 2,099
 adalk | 3,020
-adaderanalk | 3,853
+adaderanalk | 3,854
 tamilmirrorlk | 3,995
 dailymirrorlk | 4,733
 virakesarilk | 5,289
-adaderanasinhalalk | 5,594
+adaderanasinhalalk | 5,595
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,770 (100.0%) of 33,772 articles have been extended.
+33,772 (100.0%) of 33,774 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### சம்பந்தனின் பூதவுடல் திருகோணமலைக்கு கொண்டு செல்லப்பட்டது
+### චීන විද්‍යුත් වාහනවලට පොල්ලක්
+
+*2024-07-05 09:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198501) · `si`
+
+චීන විද්‍යුත් වාහන සඳහා බදු ඉහළ දැමීමට යුරෝපා සංගමය පියවර ගෙන ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+එම තීරණය ගෙන ඇත්තේ එම කලාපයේ මෝටර් රථ නිෂ්පාදන ක්ෂේත්‍රය ආරක්ෂා කර ගැනීමේ අරමුණින් බව යුරෝපා සංගමය පවසයි.
+
+ඒ අනුව එක් එක් නිෂ්පාදකයාට 17.4% සිට 37.6% දක්වා බදු පනවා ඇත.
+
+එසේම චීනයෙන් ආනයනය කරන සියලුම විද්‍යුත් වාහන සඳහා ආනයන බද්දක් ලෙස පනවා ඇති 10%ක බද්ද නොවෙනස්ව පවතී.
+
+ඒ හේතුවෙන් යුරෝපා සංගමය තුළ චීන ව්ද්‍යුත් වාහන වල මිල සැලකිය යුතු ලෙස ඉහළ යා හැකි බව සඳහන් ය.
+
+◼️
+
+[Data](articles/f92188d6.json)
+
+---
+
+### Sampanthan's funeral was taken to Trincomalee
 
 *2024-07-05 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187719) · `ta`
 
-இலங்கை தமிழ் அரசுக் கட்சியின் மூத்த தலைவர் இராஜவரோதயம் சம்பந்தனது பூதவுடல் யாழ்ப்பாணத்தில் இருந்து இன்று வெள்ளிக்கிழமை (05) விமானம் மூலம் திருகோணமலைக்கு கொண்டுச் செல்லப்பட்டது.
+Rajavarothayam Sampanthan, senior leader of the Sri Lanka Tamil State Party, had his funeral procession moved from Jaffna to Trincomalee via plane on Friday. The public tribute will occur over two days, concluding on Sunday.
 
-யாழ்ப்பாணத்தில் உள்ள தந்தை செல்வா கலையரங்கில் சம்பந்தனின் பூதவுடலுக்கு நேற்று வியாழக்கிழமை (04) பலரும் அஞ்சலி செலுத்திய நிலையில் அஞ்சலி நிறைவுக்கு வந்து பூதவுடல் அங்கேயே வைக்கப்பட்டது.
+🟩
 
-தந்தை செல்வா கலையரங்கில் இருந்து இன்றைய தினம் காலை கார் மூலம் பலாலி விமான நிலையத்திற்கு கொண்டுச் செல்லப்பட்டு அங்கிருந்து திருகோணமலைக்கு விமானம் மூலம் கொண்டு செல்லப்பட்டது.
+Senior Leader of the Sri Lanka Tamil State Party Rajavarothayam Sampanthan's body was taken to Trincomalee by plane from Jaffna on Friday (05).
 
-திருகோணமலையில் இரண்டு தினங்கள் பொதுமக்கள் அஞ்சலிக்கு வைக்கப்பட்டு ஞாயிற்றுக்கிழமை இறுதிக்கிரியை நடைபெற்று தகனம் செய்யப்படவுள்ளது.
+Anjali was held at the father Selva Gallery in Jaffna on Thursday (04).
+
+Father Selva was taken by car this morning to Palali Airport and from there to Trincomalee.
+
+The public will be placed in tribute for two days in Trincomalee and will be held on Sunday.
 
 ◼️
 
 [Data](articles/8b624e50.json)
+
+[Extended Data](ext_articles/8b624e50.ext.json)
 
 ---
 
@@ -67,6 +93,24 @@ In April 2022, the island nation declared its first-ever sovereign default since
 [Data](articles/2183409e.json)
 
 [Extended Data](ext_articles/2183409e.ext.json)
+
+---
+
+### New WB Country Director meets President; vows to back revival of economy
+
+*2024-07-05 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100301/new-wb-country-director-meets-president-vows-to-back-revival-of-economy) · `en`
+
+The newly appointed World Bank Country Director for Sri Lanka, Nepal and Maldives David Sislen on Thursday called on President Rani Wickremesinghe and vowed to support the debt-trapped island nation’s journey towards prosperity.
+
+“WorldBank Vice President for the South Asia Region @MartinRaiser, Country Manager for Maldives and Sri Lanka, South Asia Chiyo Kanda and Senior Advisor to the President on Economic Affairs Dr R H S Samaratunga, also attended the meeting,” President’s Media Division said in a post on X.
+
+“Honored to have met President @RW_UNP. Impressed by Sri Lanka’s commitment to economic reforms. @WorldBank stands ready to support the nation’s journey towards prosperity,” Sislen posted on X.
+
+In April 2022, the island nation declared its first-ever sovereign default since gaining Independence from Britain in 1948. The unprecedented financial crisis led President Ranil Wickremesinghe’s predecessor Gotabaya Rajapaksa to quit office in 2022 amid civil unrest.
+
+...
+
+[Data](articles/61daed2c.json)
 
 ---
 
@@ -110,21 +154,27 @@ British Prime Minister Rishi Sunak acknowledged the defeat. That makes center-le
 
 ---
 
-### ஜகர்த்தாவில் அவசரமாக தரையிறக்கப்பட்ட இலங்கை விமானம்
+### Sri Lankan flight in a hurry land in Jakarta
 
 *2024-07-05 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187717) · `ta`
 
-இந்தோனேசியாவின் ஜகர்த்தா நகரில் இலங்கை விமானம் ஒன்று வியாழக்கிழமை (04) அவசர மருத்துவ காரணத்திற்காக தரையிறக்கப்பட்டுள்ளது.
+A Sri Lankan flight, UL605 from Melbourne to Colombo, urgently landed in Jakarta due to an unspecified medical emergency, touching down at 20:56 local time on Thursday.
 
-அவுஸ்திரேலியாவின் மெல்போர்ன் நகரிலிருந்து இருந்து கொழும்பு நோக்கி வந்த UL605 என்ற விமானம் இந்தோனேசியாவின் தெற்கே பயணித்தபோது விமானக் குழுவினர் பொது அவசரநிலையை அறிவித்தனர்.
+🟩
 
-இந்நிலையில் விமானம் உள்ளூர் நேரப்படி 20:56 மணிக்கு ஜகார்த்தாவில் உள்ள விமான நிலையத்தில் தரையிறங்கியுள்ளது.
+A Sri Lankan flight landed in Jakarta, Indonesia, landed on Thursday (04) for emergencies.
 
-எனினும், மருத்துவ காரணம் தொடர்பில் எந்த தகவலும் இதுவரை வெளியாகவில்லை என்பது குறிப்பிடத்தக்கது.
+The UL605 flight from Melbourne, Australia, was traveling to Colombo, when the flight team announced a public emergency as they boarded the south of Indonesia.
+
+The aircraft landed at the airport at Jakarta at 20:56 local time.
+
+However, it is noteworthy that no information has been released on the medical cause.
 
 ◼️
 
 [Data](articles/58e9cb5f.json)
+
+[Extended Data](ext_articles/58e9cb5f.ext.json)
 
 ---
 
@@ -2215,47 +2265,5 @@ Cable Solutions aims to raise 109,999,500 rupees from the public through a subsc
 [Data](articles/e2d63ce8.json)
 
 [Extended Data](ext_articles/e2d63ce8.ext.json)
-
----
-
-### State Bank Employees Demonstration in Nuwara Eliya
-
-*2024-07-04 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187675) · `ta`
-
-Nuwara Eliya saw a protest by state bank employees demanding higher salaries and tax relief, akin to other civil servants. The demonstration, held outside the main post office, highlighted the economic strain faced by these workers. The protest organizers warned of nationwide demonstrations if their demands were not met.
-
-🟩
-
-In Nuwara Eliya, state bank employees united and launched a protest demonstration demanding salary increases.
-
-The identification demonstration was held in front of the Nuwara Eliya main post office on Thursday (04).
-
-In the midst of the economic crisis of our country, the state bank employees have been able to get a salary of tax burden, carry out all the concessions like other civil servants, and raise the salary of state banks.
-
-The protesters said that if the government listens to the demands of bank employees, there would be massive protests across the country.
-
-◼️
-
-[Data](articles/5a5f4a36.json)
-
-[Extended Data](ext_articles/5a5f4a36.ext.json)
-
----
-
-### Sri Lanka opposition parties maintained notable lead in opinion survey for May
-
-*2024-07-04 15:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-parties-maintained-notable-lead-in-opinion-survey-for-may-170899/) · `en`
-
-ECONOMYNEXT — Opposition parties the Samagi Jana Balawegaya (SJB) and National People’s Power (NPP) maintained a strong lead in a Sri Lanka parliamentary election voting-intent poll for May conducted by an independent research institute.
-
-The Sri Lanka Opinion Tracker Survey (SLOTS) carried out by the Institute for Health Policy (IHP) found little changes in voting intention amongst all adults surveyed in May 2024. Support for the SJB remained unchanged at 34 percent while support for the NPP dipped by 1 percentage point to 34 percent as well.
-
-President Ranil Wickremesinghe’s United National Party (UNP)’s position also remained unchanged at 6 percent, somewhat behind the ruling Sri Lanka Podujana Peramuna (SLPP) which enjoyed 13 percent support (dropping just one point) in May.
-
-...
-
-[Data](articles/ae698b05.json)
-
-[Extended Data](ext_articles/ae698b05.ext.json)
 
 ---

@@ -1,36 +1,102 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 09:35:18**
+As of **2024-07-05 09:54:37**
 
 ## Newspaper Stats
 
-*Scraped **33,765** Articles*
+*Scraped **33,770** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 308
 colombotelegraphcom | 310
-bbccomsinhala | 332
+bbccomsinhala | 333
 newsfirstlk | 363
 islandlk | 1,889
 economynextcom | 1,986
 dailyftlk | 2,099
 adalk | 3,020
-adaderanalk | 3,851
+adaderanalk | 3,853
 tamilmirrorlk | 3,995
 dailymirrorlk | 4,733
 virakesarilk | 5,287
-adaderanasinhalalk | 5,592
+adaderanasinhalalk | 5,594
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,765 (100.0%) of 33,765 articles have been extended.
+33,765 (100.0%) of 33,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### New WB Country Director meets Sri Lankan President vows to back revival of economy
+
+*2024-07-05 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100301/new-wb-country-director-meets-sri-lankan-president-vows-to-back-revival-of-economy) · `en`
+
+The newly appointed World Bank Country Director for Sri Lanka, Nepal and Maldives David Sislen on Thursday called on President Rani Wickremesinghe and vowed to support the debt-trapped island nation’s journey towards prosperity.
+
+“WorldBank Vice President for the South Asia Region @MartinRaiser, Country Manager for Maldives and Sri Lanka, South Asia Chiyo Kanda and Senior Advisor to the President on Economic Affairs Dr R H S Samaratunga, also attended the meeting,” President’s Media Division said in a post on X.
+
+“Honored to have met President @RW_UNP. Impressed by Sri Lanka’s commitment to economic reforms. @WorldBank stands ready to support the nation’s journey towards prosperity,” Sislen posted on X.
+
+In April 2022, the island nation declared its first-ever sovereign default since gaining Independence from Britain in 1948. The unprecedented financial crisis led President Ranil Wickremesinghe’s predecessor Gotabaya Rajapaksa to quit office in 2022 amid civil unrest.
+
+...
+
+[Data](articles/2183409e.json)
+
+---
+
+### ශ්‍රීලනිප මූලස්ථානයේ ආරක්ෂාව තර කෙරේ
+
+*2024-07-05 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198500) · `si`
+
+කොළඹ ඩාලි පාරේ පිහිටි ශ්‍රී ලංකා නිදහස් පක්ෂ මූලස්ථානය ආසන්නයේ ආරක්ෂාව තර කිරීමට පොලීසිය කටයුතු කර තිබේ.
+
+අද (05) උදෑසන තම පක්ෂ මූලස්ථානයට එන ලෙස ශ්‍රී ලංකා නිදහස් පක්ෂ සාමාජිකයින්ගෙන් එහි මහ ලේකම් දයාසිරි ජයසේකර මහතා ඉල්ලීමක් කර තිබුණි.
+
+එම ස්ථානයේ කලබලකාරී තත්ත්වයක් ඇති වෙතැයි අනුමාන කර මෙම තීරණය ගෙන ඇතැයි ආරංචි මාර්ග සඳහන් කරයි.
+
+◼️
+
+[Data](articles/d4b6be1a.json)
+
+---
+
+### Britain’s Labour on track for landslide victory, exit poll suggest
+
+*2024-07-05 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100300/britains-labour-on-track-for-landslide-victory-exit-poll-suggest) · `en`
+
+Britain’s Labour Party headed for a landslide victory Friday in a parliamentary election, an exit poll and partial returns indicated, as voters punished the governing Conservatives after 14 years of economic and political upheaval.
+
+British Prime Minister Rishi Sunak acknowledged the defeat. That makes center-left Labour’s leader Keir Starmer the country’s next prime minister. He will face a jaded electorate impatient for change against a gloomy backdrop of economic malaise, mounting distrust in institutions and a fraying social fabric.
+
+“Tonight people here and around the country have spoken, and they’re ready for change,” Starmer told supporters in his constituency in north London, as the official count showed he’d won his seat. “You have voted. It is now time for us to deliver.”
+
+...
+
+[Data](articles/149baeb9.json)
+
+---
+
+### අකුරණ විශාල ගින්නක් - ප්‍රධාන මාර්ගයක් තාවකාලිකව වසා දමයි
+
+*2024-07-05 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198499) · `si`
+
+අකුරණ නගරයේ අවන්හලක ඇති වූ ගින්නක් හේතුවෙන් මහනුවර - මාතලේ මාර්ගය තාවකාලිකව වසා දමා තිබේ.
+
+ගින්න හේතුවෙන් තවත් වෙළඳසැල් කිහිපයකට ද පැතිර යාම හේතුවෙන් මෙ‌ලෙස මාර්ගය තාවකාලිකව වසා දැමීමට කටයුතු කර ඇති බව වාර්තා වේ.
+
+පොලීසිය පැවසුවේ අවන්හල තුළ ගෑස් සිලින්ඩර 50ක් පමණ පවතින බවට එහි හිමිකරුවන් ප්‍රකාශ කර ඇති බැවින් ගින්න මැඩපැවැත්වීමට කටයුතු කිරීම අසීරු වී ඇති බවය.
+
+◼️
+
+[Data](articles/feb5a0cd.json)
+
+---
 
 ### Kandy-Matale road temporarily closed at Akurana due to fire
 
@@ -217,6 +283,28 @@ But during first round of talks, private bondholders were said to have been not 
 [Data](articles/95b7a3de.json)
 
 [Extended Data](ext_articles/95b7a3de.ext.json)
+
+---
+
+### රටක පාලන බලය අතට දීමට සුදුසු වයසක් තිබේද?
+
+*2024-07-05 03:38:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce78501zdwjo) · `si`
+
+තරුණ තරුණියන් පෙරමුණ ගත් අරගලයකින් පළමුවරට ශ්‍රී ලංකා ඉතිහාසයේ විධායක ජනාධිපතිවරයෙකු පලවා හැරිමෙන්ම පසුව පත්වූ 75 හැවිරිදි අනුප්‍රාප්තික ජනාධිපතිවරයාගේ ධූර කාලයේ අවසානය ළං වෙත්ම ඉදිරි ජනාධිපතිවරණ සටනට අවතීර්ණ විය හැකි  විවිධ අපේක්ෂකයින්ගේ නම් කරලියට පැමිණ තිබේ.
+
+දීර්ඝ දේශපාලන ඉතිහාසයක් හෝ දේශපාලන පරම්පරාවකින් පැවත එන හෝ ව්‍යවසායක හෝ ව්‍යාපාරික පසුබිමක් ඇති පුද්ගලයෝ ද ඒ අතර වෙති.
+
+කෙසේ නමුත් රාජ්‍ය බලය ලබා ගැනීමට තරුණ නැගිටීම් හමුවේ කළ ආයුධ සන්නද්ධ කැරළි කිහිපයක්ම අසාර්ථක වු ඉතිහාසයක් ශ්‍රී ලංකාවට ඇත.
+
+ලෝක තත්ත්වය අධ්‍යනය කිරීමේදී පෙනීයන්නේ  වියපත් නායකයින් මෙන්ම තරුණ නායකයින් ද සිය ශක්තිය යොදවා රටවල් මෙහෙයවා ඇති බවකි.
+
+ජනාධිපතිවරණය:ධුර කාලය ගැන අර්ථ නිරූපණයක් ලබා දෙන තුරු ඡන්දය වැළක්වීමට අතුරු නියෝගයක් ඉල්ලා ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක්'මල් වට්ටි, පන්සල් දේශපාලනය' නොමැතිව ජනාධිපතිවරණය ජයගත නොහැකි ද?
+
+බැලු බැල්මට තරුණ පාලනයක් හෝ වැඩිහිටි පාලනයක් සහිත රටවල පරිපාලන වෙනසක් හෝ ආර්ථිකමය වෙනසක් තිබේද යන්න වෙන් වෙන් වශයෙන් කීමට තරම් ප්‍රමාණවත් සාධක අප සතුව නැත.
+
+...
+
+[Data](articles/ecab32ad.json)
 
 ---
 
@@ -2159,131 +2247,5 @@ To build a prosperous Sri Lanka, many social and political reforms are to be mad
 [Data](articles/67ab2a3f.json)
 
 [Extended Data](ext_articles/67ab2a3f.ext.json)
-
----
-
-### Hayas vehicle
-
-*2024-07-04 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/187671) · `ta`
-
-In a bizarre incident, a Hayas vehicle, previously seized by the Mullaitivu Pudukkudiyiruppu police, collided with a cyclist on Paradhan Road. The crash involved the illegal transport of 9 trees from Pudukkudiyiruppu to Jaffna. A 17-year-old cyclist was hospitalized and later transferred to Jaffna Hospital. The driver of the Hayas vehicle was arrested.
-
-🟩
-
-There was an incident where a vehicle crashed when a Hayas vehicle was involved in a carriage.
-
-A Hayas vehicle, which was abducted by the Mullaitivu Pudukkudiyiruppu police division, has been hit by a high -quality student who was riding a bicycle on Tuesday (02) at Paradhan Road
-
-It has been found that the Hayasraha vehicle has been illegally transported by trees. 9 stagnant saplings found in the vehicle. Investigations by the police revealed that it was the trees smuggled from Pudukkudiyiruppu to Jaffna.
-
-A 17 -year -old student from the southern part of the Vaidyaru Kathakkal area was admitted to the Mullaitivu District Hospital and has been transferred to the Jaffna Hospital for further treatment.
-
-The driver of the Hayas vehicle from the Jaffna Hayas, who was involved in the incident, was arrested by the Pudukkudiyiruppu police on Wednesday (03) at the Mullaitivu District Magistrate's Court.
-
-◼️
-
-[Data](articles/c9c0e0b3.json)
-
-[Extended Data](ext_articles/c9c0e0b3.ext.json)
-
----
-
-### Warm welcome to world champions
-
-*2024-07-04 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198482) · `si`
-
-Bhameha Sharma's team, the world champions, arrived in New Delhi after winning the 2024 Twenty20 World Cup in the West Indies. Due to flight suspensions and weather, their stay was extended by three days. They were welcomed by a large crowd and met with Indian Prime Minister Narendra Modi before heading to Mumbai for a celebration at the Wankade Stadium.
-
-🟩
-
-The World Championship Bhameha Sharma arrived at New Delhi this morning (04).
-
-World Champions Indian team then met Indian Prime Minister Nare Modika.
-
-Mumbai Fuddling of India is to commemorate the World Cup victory.
-
-The 2024 Twenty20 World Cup in the West Indies and the West Indies were defeated by India.
-
-But due to the suspension of flights and bad weather faced due to the borrowing weather, the world champion was suspended for about 3 days to stay in his country.
-
-A special flight of Air India reached Barbudos yesterday this morning at Indira Gandhi, Indira Gandhi, Delhi at about 6 am this morning.
-
-However, as a result of flights, Several aircraft had come to Zimbabwe from West Indies to participate in Zimbabwe, the world championship team.
-
-A large number of sports fans have joined New Delhi town to welcome the world champion.
-
-The World Championship Bhayam Sharma, led by the World Championship, met Indian Prime Minister Narendra Modi.
-
-...
-
-[Data](articles/62709e61.json)
-
-[Extended Data](ext_articles/62709e61.ext.json)
-
----
-
-### The government will hold elections according to the Constitution: Handing over the country to Ranil - Minister Prasanna Ranatunga
-
-*2024-07-04 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/187668) · `ta`
-
-Minister Prasanna Ranatunga assures that elections will proceed as per the Constitution, dismissing calls for postponement from opposition parties. He highlights the economic recovery under President Ranil Wickremesinghe, citing successful debt restructuring and optimism for transforming Sri Lanka into a powerful economy within five years. Despite challenges, including a severe economic crisis and political opposition, Wickremesinghe's leadership is praised for steering the country towards progress. The government remains committed to holding elections promptly and emphasizes its readiness to face any challenges, including criticism from opposition groups.
-
-🟩
-
-The chief organizer of the ruling party Prasanna Ranatunga has said that there is no need to postpone the presidential election or any other election.
-
-The minister stressed that the government would hold elections in accordance with the constitution, even if the opposition parties that were not backing the election were talking about the postponement of the election.
-
-Minister Prasanna Ranatunga, who was present at a public meeting held in Minuwangoda, Gampaha, today (4).
-
-Due to the sustainable economic policies implemented by President Ranil Wickremesinghe, it was decided to restructure the country's debt at the Paris conference. Moreover, the current president can only carry out the economic, political and social reform activities that the country and the people in the future are expecting. Therefore, by re -appointing him as president, Sri Lanka can be made as the world's most powerful economy within the next five years.
-
-...
-
-[Data](articles/5d58e5c9.json)
-
-[Extended Data](ext_articles/5d58e5c9.ext.json)
-
----
-
-### Sri Lanka Tamil National Party's flag
-
-*2024-07-04 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/187669) · `ta`
-
-Amara Rajayavarodayam Sambandan, a senior leader of the Sri Lanka Tamil National Alliance (TNA), passed away. His body was transported from Colombo to Jaffna, where it was received by the TNA's flag bearer, Mawai Senathirasa, at their headquarters. Senior party members, political leaders, and the public paid their respects, highlighting the significant loss within the Tamil community.
-
-🟩
-
-Senior Leader of the Sri Lanka Tamil National Alliance (TNA) and Trincomalee District Parliamentarian Amara Rajayavarodayam Sambandan's body has been placed in Jaffna.
-
-The plane from Colombo was brought to the Jaffna International Airport and then placed on the Mattin Road, the headquarters of the Sri Lanka Tamil National Party (TNA).. There, the leader of the Sri Lanka Tamil National Party, Mawai Senathirasa, wore a party flag and paid floral tributes.
-
-Senior members of the party, political leaders, political leaders, public and public paid tribute to Father Selva's Gallery.
-
-◼️
-
-[Data](articles/245013f4.json)
-
-[Extended Data](ext_articles/245013f4.ext.json)
-
----
-
-### Customs strike suspended
-
-*2024-07-04 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198481) · `si`
-
-Sri Lanka Customs Trade Union has called off its strike after discussions with State Minister Ranjith Siyambalapitiya.
-
-🟩
-
-The Sri Lanka Customs Trade Union has decided to suspend strike.
-
-The money was after a discussion with State Minister Ranjith Siyambalapitiya.
-
-◼️
-
-[Data](articles/59fc71af.json)
-
-[Extended Data](ext_articles/59fc71af.ext.json)
 
 ---

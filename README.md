@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 22:07:23**
+As of **2024-07-05 22:19:45**
 
 ## Newspaper Stats
 
-*Scraped **33,864** Articles*
+*Scraped **33,866** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,889
 economynextcom | 1,995
 dailyftlk | 2,100
 adalk | 3,028
-adaderanalk | 3,872
+adaderanalk | 3,874
 tamilmirrorlk | 4,007
 dailymirrorlk | 4,733
 virakesarilk | 5,310
@@ -26,11 +26,47 @@ adaderanasinhalalk | 5,615
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,864 (100.0%) of 33,864 articles have been extended.
+33,864 (100.0%) of 33,866 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### Foreign Minister Ali Sabry to visit Singapore
+
+*2024-07-05 22:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100323/foreign-minister-ali-sabry-to-visit-singapore) · `en`
+
+Sri Lanka’s Foreign Minister Ali Sabry is scheduled to undertake an official visit to Singapore from 07 to 08 July 2024, on an invitation extended by the Minister of Foreign Affairs of Singapore Dr. Vivian Balakrishnan.
+
+During the visit, Minister Ali Sabry will engage in bilateral discussions with his Singapore counterpart with a view to strengthening the multifaceted relations between the two countries, the Ministry of Foreign Affairs said.
+
+The Foreign Minister is also scheduled to take part in the Reuters NEXT Asia-Pacific Summit – 2024 that will take place on 09 July in Singapore.
+
+◼️
+
+[Data](articles/139eb86f.json)
+
+---
+
+### President says he notified Election Chief that poll must be held on scheduled date
+
+*2024-07-05 21:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100322/president-says-he-notified-election-chief-that-poll-must-be-held-on-scheduled-date) · `en`
+
+President Ranil Wickremesinghe has informed the Chief Prelate of Ramanna Maha Nikaya, Most Ven. Makulewe Wimala Nayaka Thero that he had notified the Election Commissioner on the need to hold the Presidential Election on the scheduled date.
+
+“I have officially notified the Election Commissioner that the election should proceed as scheduled,” he was quoted as saying by the President’s Media Division.
+
+Wickremesinghe also told the Chief Prelate that back in 2015, he had proposed reducing the President’s term in office from 6 years to 5 years.
+
+The President visited the Sri Lanka Ramanna Maha Nikaya headquarters this afternoon (05) in Alvitigala Mawatha, Narahenpita. There, he had a brief discussion with the Chief Prelate of the Ramanna Maha Nikaya, Most Ven. Makulewe Wimala Nayaka Thero, the PMD said.
+
+During the visit, Most Venerable Makulewe Wimala Thero chanted ‘Seth Pirith’, bestowed his blessings upon President Ranil Wickremesinghe and presented him with a commemorative gift.
+
+...
+
+[Data](articles/1ef8d1ee.json)
+
+---
 
 ### Mawbima Can Begin National Program
 
@@ -2303,59 +2339,5 @@ The public will be held in Trincomalee for two days and will be held on Sunday t
 [Data](articles/d34ea174.json)
 
 [Extended Data](ext_articles/d34ea174.ext.json)
-
----
-
-### Somewhat heavy rainfall recorded
-
-*2024-07-05 08:20:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓரளவு-பலத்த-மழைவீழ்ச்சி-பதிவாகும்/175-339897) · `ta`
-
-Heavy rainfall is predicted across several provinces, including Western, Sabaragamuwa, North Western, and specific districts like Kandy, Nuwara Eliya, Galle, and Matara. Strong winds up to 40-50 km/h are expected in various regions, posing risks from lightning strikes. The public is urged to stay alert and take safety measures.
-
-🟩
-
-The Department of Meteorology has forecast rainfall in the Western, Sabaragamuwa and North Western Provinces in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Heavy rainfall is expected in some places in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
-
-In the Uva Province, Ampara and Batticaloa districts, there is a possibility of rainfall or thundershowers in the evening or at night.
-
-Strong winds are likely to blow up to 40-50 km / h from time to time in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/9efcfa33.json)
-
-[Extended Data](ext_articles/9efcfa33.ext.json)
-
----
-
-### Secretary General I - Dayasiri
-
-*2024-07-05 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198498) · `si`
-
-Dayasiri Jayasekara, a parliamentarian and legal secretary of the Sri Lanka Freedom Party (SLFP), begins his term as Secretary General today. He is recognized by the party's Senior Vice President, Rohana Lakshman Piyadasa, who also announced a candidate for the upcoming presidential election. Despite this, Minister Mahinda Amaraweera believes the party's efforts will lead to victory.
-
-🟩
-
-Parliamentarian Dayasiri Jayasekara says that as the Secretary General of Sri Lanka Freedom Party (SLFP) will commence today (05).
-
-MP Dayasiri Jayasekera says he is still working as the legal secretary of the party.
-
-He further stated that the appointment of the respects will be held join.
-
-Senior Vice President of the party, Rohana Lakshman Piyadasa, said that Dayasiri Jayasekara was recognized as the SLFP General Secretary.
-
-He further stated that a Sri Lankan Freedom Party candidate will be presented to the next presidential election.
-
-However, Minister Mahinda Amaraweera said that the party's presidential election is a fruitless act and the supporting of the Sri Lanka Freedom Party will victorious.
-
-◼️
-
-[Data](articles/402534ca.json)
-
-[Extended Data](ext_articles/402534ca.ext.json)
 
 ---

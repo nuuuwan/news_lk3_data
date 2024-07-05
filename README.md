@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 07:24:58**
+As of **2024-07-05 07:47:24**
 
 ## Newspaper Stats
 
-*Scraped **33,757** Articles*
+*Scraped **33,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 310
 bbccomsinhala | 332
 newsfirstlk | 363
 islandlk | 1,889
-economynextcom | 1,985
+economynextcom | 1,986
 dailyftlk | 2,099
 adalk | 3,018
 adaderanalk | 3,849
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,591
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,756 (100.0%) of 33,757 articles have been extended.
+33,757 (100.0%) of 33,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### බ්‍රිතාන්‍යය ට නව අගමැතිවරයෙක්
+### New Prime Minister for Britain
 
 *2024-07-05 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198497) · `si`
 
-බ්‍රිතාන්‍යයේ ඊයේ (04) පැවති මහ මැතිවරණයේ ප්‍රතිඵල මේ වනවිට නිකුත්වෙමින් පවතියි.
+Keir Starmer from the Labour Party is expected to become Britain's new Prime Minister after winning the general election, securing 131 seats.
 
-එබැවින් එම පක්ෂයේ Keir Starmer එරට අගමැති ලෙස පත්වීමට නියමිත බව විදෙස් මාධ්‍ය පවසයි.
+🟩
 
-කම්කරු පක්ෂය ආසන 410 ක් සහ පාලන බලය හිමිකරගෙන සිටි කොන්සර්වෙටිව් පක්ෂය ආසන 131ක් ලබාගැනීමට ඉඩ ඇති බව වාර්තා වෙයි.
+The results of the general election held in Britain yesterday are being released.
+
+Therefore, the party's keir starmer is to be elected to the Prime Minister of the party, foreign media reports say.
+
+It is reported that the Workers Party (LKR) is likely to obtain 131 seats, which have won 410 seats and authorization.
 
 ◼️
 
 [Data](articles/47c49749.json)
+
+[Extended Data](ext_articles/47c49749.ext.json)
 
 ---
 
@@ -73,6 +79,24 @@ The Department of Meteorology has informed the people to take necessary steps to
 [Data](articles/c1e5b564.json)
 
 [Extended Data](ext_articles/c1e5b564.ext.json)
+
+---
+
+### IMF awaiting more information for final sign-off on Sri Lanka bondholder deal
+
+*2024-07-05 06:03:00* · [`economynextcom`](https://economynext.com/imf-awaiting-more-information-for-final-sign-off-on-sri-lanka-bondholder-deal-170978/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund is awaiting more details on Sri Lanka’s deal with sovereign bondholders to assess its compliance, Mission Chief Peter Breuer said.
+
+“We are currently awaiting additional information and will provide the authorities with an assessment of the agreed terms to ensure consistency with the parameters and debt sustainability objectives under the IMF-supported program,” he said.
+
+Advisors from both sides prepare deals on the belief that they are compliant with the IMF’s Debt Sustainability Analysis.
+
+But during first round of talks, private bondholders were said to have been not fully able to prepare a proposal in line with the DSA unlike Sri Lanka, requiring more information on exactly how the April proposal was deemed to be in line with analysis.
+
+◼️
+
+[Data](articles/95b7a3de.json)
 
 ---
 
@@ -2237,31 +2261,5 @@ He also attended a media briefing at the Opposition Leader's office on Thursday 
 [Data](articles/a4638c6f.json)
 
 [Extended Data](ext_articles/a4638c6f.ext.json)
-
----
-
-### Farmers dies after lightning
-
-*2024-07-04 13:14:14* · [`adalk`](https://www.ada.lk/breaking_news/අකුණුසැර-වැදීමෙන්-ගොවි-මහතෙකු-මියයයි/11-410611) · `si`
-
-A farmer named AM Premaratne (50) was tragically killed by lightning while working in a paddy field near the Etimamale Police Division. He was under a tree with three others when the incident occurred. Despite efforts to save him, he succumbed to his injuries on the way to the hospital. The police are investigating the cause of the accident.
-
-🟩
-
-Athimale police said that a farmer who was working on the paddy field belonging to the Etimamale Police Division was killed in lightning yesterday morning.
-
-The deceased has been identified as AM Premaratne (50), a father of four residents.
-
-He has been working with three more and caused him under a tree near the Kumbura.
-
-He had fallen to lightning and died on the road to the Etimala Divisional Hospital.
-
-Fellows have not been damaged in danger. The Etimala police are conducting further investigations.
-
-◼️
-
-[Data](articles/aed5bc1d.json)
-
-[Extended Data](ext_articles/aed5bc1d.ext.json)
 
 ---

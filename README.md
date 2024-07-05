@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 19:53:24**
+As of **2024-07-05 20:05:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,611
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,857 (100.0%) of 33,858 articles have been extended.
+33,858 (100.0%) of 33,858 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The additional flights will be served by the Boeing 787 aircraft, featuring 30 B
 ...
 
 [Data](articles/f3fd2503.json)
+
+[Extended Data](ext_articles/f3fd2503.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 11:55:07**
+As of **2024-07-05 12:09:02**
 
 ## Newspaper Stats
 
@@ -112,11 +112,13 @@ He further stated that a candidate from the SLFP will be nominated for the upcom
 
 The Colombo High Court has suspended fixed deposits and insurance policies to the tune of Rs. 97 million belonging to former Health Minister Keheliya Rambukwella and fiver of his close relatives for a period of 03 months, Ada Derana reporter said.
 
+This order was issued by Colombo High Court Judge Manjula Thilakaratne this morning (05), after taking into consideration the facts presented by the CIABOC.
+
+The CIABOC has also requested the court to suspend the aforementioned assets of Keheliya and his family members with regard to an ongoing investigation.
+
+Accordingly, the court ordered the relevant assets to be suspended until October 04, 2024, and ordered the CIABOC to report the progress of the investigations to the court on that date.
+
 The former Minister of Health is currently in remand custody in connection with his alleged complicity in the procurement of substandard human intravenous immunoglobulin (IVIG) vials.
-
-Against this backdrop, on June 19, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) said that it has initiated an investigation following a complaint received against Rambukwella.
-
-The investigation had been launched following a complaint filed by a civilian alleging that two vehicles belonging to the ministry provided to him during his tenure as the Health Minister have not been returned after he resigned from the ministerial position and have been misused.
 
 ...
 

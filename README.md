@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 04:53:26**
+As of **2024-07-06 05:04:51**
 
 ## Newspaper Stats
 
@@ -26,121 +26,175 @@ adaderanasinhalalk | 5,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,887 (100.0%) of 33,895 articles have been extended.
+33,894 (100.0%) of 33,895 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### நாட்டின் எதிர்காலத்துக்காக உடன்படிக்கைகளைச் செய்யும் அரசாங்கம் மக்களினதும் எதிரணியினதும் நம்பிக்கையை வென்றெடுக்க வேண்டும்
+### The government that makes agreements for the future of the country must win the confidence of the people and the opposition
 
 *2024-07-06 01:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/187795) · `ta`
 
-ஜனாதிபதி தேர்தல் தொடர்பான அறிவிப்பு வருவதற்கு முன்னதாக இன்னமும்  ஒரு மாதத்துக்கும் குறைவான காலப்பகுதியே இருக்கின்ற வேளையில்,ஜனாதிபதி ரணில் விக்கிரமசிங்க   இலங்கையை அதன் சர்வதேச வங்குரோத்து நிலையில் இருந்து மீட்டெடுத்த தனது ஆட்சியின் வெற்றியை முதன்மைப்படுத்தி பேசியிருக்கிறார். இலங்கைக்கு இருதரப்பு கடன்களை வழங்கிய பல்வேறு வெளிநாட்டு அரசாங்கங்களை உள்ளடக்கிய உத்தியோகபூர்வ கடன்வழங்குனர் குழுவுடன் (Official Creditor Committee) 580 கோடி அமெரிக்க டொலர்களுக்கான சர்வதேச கடன் மறுசீரமைப்பு தொடர்பில் கைச்சாத்தான உடன்படிக்கை பல்வேறு  வழகளில் கொண்டாடப்பட்டது.
+President Ranil Wickremesinghe's regime, facing criticism for its handling of Sri Lanka's economic crisis, has secured international debt relief totaling $580 million. Despite initial praise from key nations like the US, Japan, India, and the IMF, there's concern over transparency and equal treatment of all creditors, especially China. The government's strategy includes delaying bilateral loan repayments until 2028 and extending the repayment period until 2043. However, the public reception remains mixed, with no immediate economic benefits seen by ordinary citizens. The cost of living continues to rise, and despite promises to maintain social spending, actual reductions have occurred. The government's shift towards privatizing education has also sparked protests, highlighting broader discontent with the administration's economic policies and lack of engagement with public concerns.
 
-ஜனாதிபதி நாட்டு மக்களுக்கு விசேட உரையொன்றை ஆற்றினார். பல்வேறு நகரங்களில் பட்டாசு கொளுத்தி கொண்டாட்டங்கள் இடம்பெற்றன. இலங்கையின் பொருளாதார மீடசியின் சிற்பி தானே என்றும் ஜனாதிபதி பெருமையுடன் அறிவித்தார்.பொருளாதார மீட்சிக்காக முன்னெடுக்கப்பட்ட நடவடிக்கைகளை மக்களுக்கு விளக்கவேண்டிய பொறுப்பு அவருக்கு இருக்கிறது.
+🟩
+
+President Ranil Wickremesinghe has spoken to the victory of his regime that has rescued Sri Lanka from its international bankruptcy, while still less than a month before the presidential election.. The agreement signed by the Official Credit Committee Committee, which has given bilateral loans to Sri Lanka, has been celebrated in various ways on the International Debt Relief for US $ 580 crore.
+
+The President delivered a special speech to the nation. Fireworks celebrations were held in various cities. The president proudly declared that he was the sculptor of the Economic Recovery of Sri Lanka.
+
+"I believed in my energy to save our country and its people from the economic underworld. I had a profound explanation and detailed program of strategic strategies that other countries adopted to emit from a similar crisis. Moreover, I was confident that my well -planned policies and dedication could be revived the economy, ”President Wickremesinghe said.
 
 ...
 
 [Data](articles/b3da3cfc.json)
 
+[Extended Data](ext_articles/b3da3cfc.ext.json)
+
 ---
 
-### உரிய திகதியில் தேர்தல் நடத்தப்பட வேண்டும் என்று தேர்தல்கள் ஆணையாளரிடம் தெரிவித்துள்ளேன் - ஜனாதிபதி
+### I have informed the Elections Commissioner to hold elections on the appropriate date - the President
 
 *2024-07-06 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187794) · `ta`
 
-உரிய திகதியில் தேர்தலை நடத்த வேண்டும் எனவும், அதற்காக தேர்தல்கள் ஆணையாளருடன் இடம்பெற்ற கலந்துரையாடலில் விடயங்களை விளக்கியதாகவும், இலங்கை ராமன்ய நிகாயவின் மகாநாயக்க வண. மகுலேவே விமல நாயக்க தேரரிடம் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+The President of Sri Lanka has urged the Elections Commissioner to schedule elections promptly. The Mahanayaka of Sri Lanka Ramanya Nikaya supports this, having discussed it with the Commissioner. The President also met with religious leaders, including the Magulaway Wimala Nayaka Thera, and engaged in discussions. Regarding the economy, significant progress has been made in debt restructuring, reducing the debt by about $8 billion and extending loan repayment to 2043. This move aims to bolster Sri Lanka's export economy, drawing inspiration from Thailand's successful open economy model. Additionally, the government is exploring ways to alleviate the current economic crisis, including through legislative measures.
 
-நாரஹேன்பிட்டி, எல்விடிகல வீதியில் அமைந்துள்ள ஸ்ரீலங்கா ராமன்ய மகா நிகாயவின் தலைமையகத்திற்கு இன்று (05) பிற்பகல் விஜயம் செய்த ஜனாதிபதி, இலங்கை ராமன்ய மகா நிகாயவின் மகாநாயக்க வண. மகுலேவே விமல மகாநாயக்க தேரரைச் சந்தித்து நலன் விசாரித்ததுடன், சிறு  கலந்துரையாடிலும் ஈடுபட்டார்.
+🟩
 
-இதன்போது, பிரித் பாராயணம் செய்து ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு ஆசி வழங்கிய தேரர், ஜனாதிபதிக்கு நினைவுப் பரிசு ஒன்றையும் வழங்கி வைத்தார்.
+Mahanayaka of Sri Lanka Ramanya Nikaya has said that the election should be held on the appropriate date and the discussion with the Commissioner of Elections. President Ranil Wickremesinghe told Magulaway Wimala Nayaka Thera.
 
-கடன் மறுசீரமைப்பு செயல்முறை தொடர்பாக நாங்கள் இப்போது தனியார் கடன் வழங்குநர்கள் மற்றும் வர்த்தக கடன் வழங்குநர்களுடன் கலந்துரையாடலை முடித்துள்ளோம். நாங்கள் செலுத்த வேண்டிய கடனில் இருந்து சுமார் 08 பில்லியன் டொலர்களை குறைக்க முடிந்துள்ளது என்ற நற்செய்தியை உங்களுக்கு தெரிவிக்க விரும்புகிறேன்.
+President of Sri Lanka Ramanya Maha Nikaya, located at Elvitigala Road, Narahenpitiya, visited the headquarters of Sri Lanka Ramanya Maha Nikaya this afternoon. Makuleway met Wimala Mahanayaka Thera and inquired about the welfare and engaged in a short discussion.
+
+Thera, who recited the British and blessed President Ranil Wickremesinghe, presented a souvenir to the President.
+
+We have now completed a discussion with private credit providers and business credit providers regarding the debt reorganization process. I would like to convey the good news that we have been able to cut about $ 8 billion from the debt we have to pay.
 
 ...
 
 [Data](articles/5a24d96f.json)
 
+[Extended Data](ext_articles/5a24d96f.ext.json)
+
 ---
 
-### முல்லைத்தீவு கொக்குதொடுவாய் மனிதபுதைகுழி அகழ்வு பணியின் மூன்றாம் கட்டத்தின் இரண்டாம் நாள் அகழ்வு பணி இடம்பெற்றது
+### The second day of the third phase of the Human Paradise Excavation work took place
 
 *2024-07-06 01:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/187793) · `ta`
 
-முல்லைத்தீவு கொக்குதொடுவாய் மனிதபுதைகுழி அகழ்வு பணியின் மூன்றாம் கட்டத்தின் இரண்டாம் நாள் அகழ்வு பணியானது வெள்ளிக்கிழமை (5) இடம்பெற்றது.
+On the second day of the third phase of the Mullaitivu Kokkuttuwai Human Paradise Excavation, authorities including a judge, archaeologists, legal officers, human rights lawyers, and security forces participated. They uncovered human remains near the Kokkilai Mullaitivu main road. Green clothing was found, suggesting further discoveries might come from the ongoing excavation.
 
-வெள்ளிக்கிழமை (5) காலை 8.30 மணியளவில் ஆரம்பிக்கப்பட்ட குறித்த அகழ்வு பணியில் முல்லைத்தீவு மாவட்ட நீதிமன்ற நீதிபதி தர்மலிங்கம் பிரதீபன்,தொல்பொருள் சிரேஸ்ட பேராசிரியர் ராஜ் சோமதேவ, முல்லைத்தீவு மாவட்ட சட்ட வைத்திய அதிகாரி க.வாசுதேவ, தொல்லியல் திணைக்களத்தினர், காணாமல் போனோருக்கான அலுவலகத்தின் தலைவர் மகேஸ் கட்டுளந்த மற்றும் பணிப்பாளர் ஜெ.தற்பரன், வீதி அபிவிருத்தி அதிகாரசபையினர், மனித உரிமைகள் சட்டத்தரணிகளான ரணித்தா ஞானராசா, வி.கே.நிறஞ்சன், மற்றும் பொலிசார், விசேட அதிரடிப்படையினர் உள்ளிட்டவர்களும் பங்கேற்றிருந்தனர்.
+🟩
 
-குறித்த பகுதியில் கொக்கிளாய் முல்லைத்தீவு பிரதான வீதியில் காப்பற் இடப்பட்ட குறிப்பிட்ட ஒரு பகுதி அகழ்ந்து எடுக்கப்பட்டுள்ளதுடன் அதன் கீழ் மனித எச்சங்கள் இருப்பதாக தெரிவிக்கப்படுகிறது இந்த பகுதிக்கு மேலாக புதிதாக தகர கூடாரம் அமைக்கப்பட்டுள்ளது.
+The second day of the third phase of the Mullaitivu Kokkuttuwai Human Paradise Excavation work took place on Friday (5).
 
-...
+Mullaitivu District Court Judge Dharmalingam Pradeepan, Archaeological Senior Professor Raj Somadeva, Mullaitivu District Legal Officer K Vasudeva, Archeology DepartmentAuthorities, human rights lawyers Ranitha Gnanarasa, VK Nanganjan, and the police and Special Task Force were also present.
+
+A certain part of the Kokkilai Mullaitivu main road has been excavated and there are human remains under it.
+
+During today's excavation, green clothes were visible.. It is believed that push trunks will be fully taken during the day's pervasive. The third day of excavation will be held tomorrow morning.
+
+It is worth noting that the third phase of excavations began on Thursday (04) and the second day on Friday (5).
+
+◼️
 
 [Data](articles/57271619.json)
 
+[Extended Data](ext_articles/57271619.ext.json)
+
 ---
 
-### இளைஞர்களின் வாழ்க்கையை சீர்குலைக்காமல் பல்கலைக்கழக கல்விசாரா ஊழியர்கள் பணிக்குத் திரும்ப வேண்டும் - கலாநிதி சுரேன் ராகவன்
+### University non -academic staff should return to work without disrupting the lives of youth - Dr. Suren Raghavan
 
 *2024-07-06 01:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187792) · `ta`
 
-நாட்டின் எதிர்காலத்தைப் பொறுப்பேற்கவுள்ள இளைஞர்களின் வாழ்க்கையை மேலும் சீர்குலைக்காமல், அவர்களின் காலத்தை வீணடிக்காமல், அனைத்துப் பல்கலைக்கழகங்களின் கல்விசாரா ஊழியர்களையும் கடமைக்கு சமூகமளிக்குமாறு கேட்டுக்கொள்வதாக உயர்கல்வி இராஜாங்க அமைச்சர் கலாநிதி சுரேன் ராகவன் தெரிவித்தார்.
+Dr. Suren Raghavan, the Higher Education Minister, urges non-academic university staff to resume work, ensuring minimal disruption to students' futures. He promises additional pay and time off, prioritizing their demands for inclusion in the 2025 budget. This comes after a 65-day boycott affecting over 14,600 staff across 36 educational institutions, impacting 250,000 students. The minister emphasizes the importance of education and the need for universities to support, rather than hinder, student development.
 
-பல்கலைக்கழக கல்விசாரா ஊழியர்களின் இரண்டு மாத சம்பளம் மற்றும் ஏப்ரல் மாதத்திற்கான மேலதிக நேரக் கொடுப்பனவுகளை வழங்குவதற்கும், அவர்களின் கோரிக்கைகளுக்கு முன்னுரிமை அளித்து, அவற்றை உதய செனவிரத்ன குழுவிற்கு சமர்ப்பித்து, 2025 வரவு செலவுத் திட்டத்தில் உள்ளடக்குவதாகவும் இராஜாங்க அமைச்சர் உறுதியளித்தார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் வெள்ளிக்கிழமை (05) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே உயர்கல்வி இராஜாங்க அமைச்சர் சுரேன் ராகவன் இதனைத் தெரிவித்தார்.
+Higher Education Minister Dr. Suren Raghavan said he would ask for the non -academic staff of all universities to contribute to the duty of the youth who would be responsible for the future of the country.
+
+The Minister of State has promised to provide additional payments for the two -month salary of university non -academic staff and additional time for April, prioritize their demands and submit them to the Udaya Seneviratne Committee and cover the 2025 budget.
+
+Minister of Higher Education Suren Raghavan made this statement at a media briefing held at the Presidential Media Center on Friday.
+
+Over 14,600 non -academic staff of 17 universities and 19 united degree institutions in the country have been involved in the 65 -day boycott of the entire higher education sector.. The tragic reflection of the country's future is to disrupt the lives of 250,000 youths and waste their time.
 
 ...
 
 [Data](articles/6e7c0ca4.json)
 
+[Extended Data](ext_articles/6e7c0ca4.ext.json)
+
 ---
 
-### அரசாங்கத்தின் ஜனநாயக மீறல்களுக்கு தொடர்ந்தும் இடமளித்துக் கொண்டிருக்க முடியாது - பேராசிரியர் ஜீ.எல்.பீரிஸ்
+### The government's democratic violations cannot continue - Professor GL Peiris
 
 *2024-07-06 01:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187791) · `ta`
 
-மாகாணசபை மற்றும் உள்ளுராட்சிமன்றத் தேர்தல்கள் ஏற்கனவே காலம் தாழ்த்தப்பட்டு மக்களின் வாக்குரிமை அணு அணுவாக மீறப்பட்டுக் கொண்டிருக்கும் இந்த சந்தர்ப்பத்தில், ஜனாதிபதித் தேர்தலையும் நடத்தாமலிருப்பதற்கான மனு தாக்கல் செய்யப்பட்டுள்ளது. இவ்வாறான ஜனநாயக மீறல்களுக்கு இடமளிக்காத வகையில் ஐக்கிய மக்கள் சக்தி இடையீட்டு மனுவை தாக்கச் செய்துள்ளதாக பேராசிரியர் ஜீ.எல்.பீரிஸ் தெரிவித்தார்.
+Professor GL Peiris criticizes the government for delaying provincial and local government elections, calling it a violation of democracy. He mentions a petition filed by the United People's Power against these delays, highlighting the impact on the people's right to vote. Despite a court order against the Treasury Secretary regarding the delay, it wasn't enforced. The situation is seen as undemocratic, with concerns over human rights violations if the presidential election isn't held promptly. The case will be heard by a five-judge panel, emphasizing the importance of upholding citizens' rights under the constitution. The government's use of funds for election activities instead of development projects is also criticized, along with allegations of the ruling party abusing its majority and governors acting on party lines rather than representing the people.
 
-கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் வெள்ளிக்கிழமை (5) இடம்பெற்ற ஊடகவியாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-கடந்த சில வருடங்களாக மக்களின் வாக்குரிமை அணு அணுவாக மீறப்பட்டுக் கொண்டிருக்கிறது. இவ்வாறான நிலையிலேயே ஜனாதிபதித் தேர்தலையும் நடத்தாதிருக்குமாறு கோரி மனு தாக்கல் செய்யப்பட்டுள்ளது. உள்ளுராட்சிமன்றத் தேர்தல் காலம் தாழ்த்தப்படுகின்றமை தொடர்பில் நீதிமன்றத்தை நாடி, திறைசேரி செயலாளருக்கு எதிராக நீதிமன்ற உத்தரவைப் பெற்ற போதிலும், அவை நடைமுறைப்படுத்தப்படவில்லை.
+In this case, the provincial council and the local government elections have already been delayed and the people have been violated as a nuclear atom.. Professor GL Peiris said that the United People's Power has attacked a petition in a manner that does not accommodate such democratic violations.
+
+He further stated at a press conference held at the Opposition Leader's Office in Colombo on Friday (5).
+
+Over the past few years, people's vote has been violated as a nuclear atom. In this case, the petition has been filed demanding that the presidential election be held.. Although a court order was filed against the Treasury Secretary, seeking a court on the delay in the local government election period, but they were not implemented.
 
 ...
 
 [Data](articles/025bc62b.json)
 
+[Extended Data](ext_articles/025bc62b.ext.json)
+
 ---
 
-### தற்போதைய சூழ்நிலையில் ஜனாதிபதித்தேர்தலைப் பிற்போடுவதே சிறந்த தெரிவாக அமையும் - சி.வி.விக்னேஸ்வரன்
+### In the current situation, the best choice is to distrust the presidential election - CV Wigneswaran
 
 *2024-07-06 01:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/187790) · `ta`
 
-நாட்டின் பொருளாதாரம் படிப்படியாக மீட்சியடைந்துவரும் நிலையில், மீண்டும் ஸ்திரமற்ற நிலை தோன்றுவதற்கு வழிகோலும் நடவடிக்கைகளுக்கு இடமளிக்கக்கூடாது எனவும், ஆகவே ஜனாதிபதித்தேர்தல்களைப் பிற்போடுவதே தற்போதைய சூழ்நிலையில் சிறந்த தீர்மானமாக அமையும் எனவும் தமிழ் மக்கள் தேசிய கூட்டணியின் பாராளுமன்ற உறுப்பினர் சி.வி.விக்னேஸ்வரன் தெரிவித்துள்ளார்.
+CV Wigneswaran, a TNA parliamentarian, suggests distrusting the upcoming presidential election due to economic recovery concerns and potential instability. He supports a petition in the Supreme Court to delay the election, arguing that holding it now could lead to no clear winner and further destabilize the country's economy. Wigneswaran emphasizes the importance of prioritizing national welfare, economic stability, and public safety over adhering strictly to democratic processes under current circumstances.
 
-ஜனாதிபதித்தேர்தல் நடத்தப்படவேண்டிய தினம் தொடர்பில் நீதிமன்றத்தினால் வியாக்கியானம் வழங்கப்படும் வரை தற்போது திட்டமிடப்பட்டுள்ளவாறு ஜனாதிபதித்தேர்தல் நடத்தப்படுவதைத் தடுப்பதற்கான உத்தரவைப் பிறக்குமாறுகோரி தொழிலதிபர் சி.டி.லெனாவாவினால் உயர்நீதிமன்றத்தில் அடிப்படை உரிமைமீறல் மனுவொன்று தாக்கல் செய்யப்பட்டுள்ளது.
+🟩
 
-இதுகுறித்து பல்வேறு தரப்பினரும் எதிர்ப்பை வெளிப்படுத்திவரும் பின்னணியில், தமிழ்த்தேசிய கட்சிகளில் ஒன்றான தமிழ் மக்கள் தேசிய கூட்டணியின் பாராளுமன்ற உறுப்பினரும், முன்னாள் வடமாகாண முதலமைச்சருமான சி.வி.விக்னேஸ்வரன், ஜனாதிபதித்தேர்தலைப் பிற்போடுமாறு உயர்நீதிமன்றம் தீர்ப்பளித்தால் அது நாட்டுக்கு நன்மையளிப்பதாகவே அமையுமெனத் தெரிவித்துள்ளார்.
+The Tamil People's National Alliance parliamentarian CV Wigneswaran said that as the country's economy is gradually recovering, it should not be re -adopted to ensure that the presidential election will be the best decision to regain the presidential election.
+
+A fundamental violation petition has been filed in the Supreme Court by businessman CD Lnava seeking to prevent the presidential election as being planned until the presidential election is being issued on the day of the presidential election.
+
+In the wake of the opposition of various parties, CV Wigneswaran, a Member of Parliament of the Tamil People's National Alliance (TNA), one of the Tamil National Alliance (TNA), said that it would be beneficial to the country if the High Court ruled that the presidential election would be retaliated.
 
 ...
 
 [Data](articles/543e00a4.json)
 
+[Extended Data](ext_articles/543e00a4.ext.json)
+
 ---
 
-### சட்டவிரோத செயற்பாடுகள் தொடரபில் பிரதேச செயலாளர்கள், பிரதேச சபை செயலாளர்கள்  அவதானம் செலுத்தவேண்டும்  அமைச்சர் டக்ளஸ் தேவானந்தா
+### Divisional Secretaries and Pradeshiya Sabha Secretaries
 
 *2024-07-06 00:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/187789) · `ta`
 
-சட்டவிரோத செயற்பாடுகள் தொடரபில் பிரதேச செயலாளர்கள், பிரதேச சபை செயலாளர்கள் கூடிய அவதானம் செலுத்தவேண்டும் என யாழ்ப்பாண ஒருங்கிணைப்பு  குழுவின் இணைத்தலைவரும் கடற்தொழில் அமைச்சருமான டக்ளஸ் தேவானந்தா தெரிவித்தார்.
+Minister Douglas Devananda urged Divisional Secretaries and Pradeshiya Sabha Secretaries to tackle illegal activities, highlighting issues from illegal excavations during a meeting chaired by the Jaffna District Government Agent and the Northern Province Governor. The gathering included government officials and police academies, emphasizing the need for vigilance against such activities.
 
-யாழ் மாவட்ட பதில் அரசாங்க அதிபர் ம.பிரதிபன் யாழ் மாவட்ட ஒருங்கிணைப்பு குழு கூட்டம் மாவட்ட ஒருங்கிணைப்புக் குழுவின் இணைத்தலைவரும்  அமைச்சர் டக்ளஸ் தேவானந்தா மற்றும்  இணைத்தலைவரும் வடக்கின் ஆளுனருமான திருமதி சாள்ஸின் தலைமையில் வெள்ளிக்கிழமை (5) நடைபெற்ற போதே அவர் இதனை தெரிவித்தார்
+🟩
 
-கடந்த கூட்ட முன்னேற்ரம் தொடர்பில் கலந்துரையாடப்பட்ட வேளை  சட்டவிரோத நடவடிக்கைகளை கட்டுப்படுத்தலின் முன்னேற்றம் சுண்ணக்கல் அகழ்வு மற்றும் வெளி இடங்களுக்கு சட்டவிரோதமச்க கொண்டு செல்லல்தொடர்பில் ஆராயபட்ட போது குறித்த விடயத்தை தெரிவித்தார்.
+Douglas Devananda, Co -Chairman and Minister of Fisheries, said that the Divisional Secretaries and Pradeshiya Sabha Secretaries should pay attention to the illegal activities.
 
-...
+He was speaking on Friday (5) when he was held on Friday (5) when the Jaffna District Government Agent Mr. Pratipan was held on Friday (5) at the chairmanship of the District Coordinating Committee of the District Coordinating Committee and the Governor of the North, Mrs. Charles.
+
+When discussed in the last meeting, he said the matter was investigated when the progress of illegal activities was being carried out in illegal excavation and illegal relevance.
+
+Divisional Secretaries and Pradeshiya Sabha Secretaries should pay attention to the illegal activities.Said
+
+The meeting was attended by Additional Government Agent Srimohan, Pradeshiya Sabha Secretaries, Divisional Secretaries, Department Heads and Police Academies.
+
+◼️
 
 [Data](articles/3671a7ea.json)
+
+[Extended Data](ext_articles/3671a7ea.ext.json)
 
 ---
 

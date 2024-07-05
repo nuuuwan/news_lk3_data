@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 10:53:33**
+As of **2024-07-05 11:05:05**
 
 ## Newspaper Stats
 
-*Scraped **33,778** Articles*
+*Scraped **33,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,889
 economynextcom | 1,986
 dailyftlk | 2,099
 adalk | 3,020
-adaderanalk | 3,855
+adaderanalk | 3,857
 tamilmirrorlk | 3,996
 dailymirrorlk | 4,733
 virakesarilk | 5,289
@@ -26,41 +26,87 @@ adaderanasinhalalk | 5,597
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,775 (100.0%) of 33,778 articles have been extended.
+33,778 (100.0%) of 33,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### කෙහෙළිය පවුලේ බැංකු ගිණුම් සහ ජීවිත රක්ෂණ ඔප්පු ගැන අධිකරණ නියෝගයක්
+### Court suspends Keheliya and family’s assets worth Rs. 97 mn for 3 months
+
+*2024-07-05 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100304/court-suspends-keheliya-and-familys-assets-worth-rs-97-mn-for-3-months) · `en`
+
+The Colombo High Court has suspended fixed deposits and insurance policies to the tune of Rs. 97 million belonging to former Health Minister Keheliya Rambukwella and fiver of his close relatives for a period of 03 months, Ada Derana reporter said.
+
+The former Minister of Health is currently in remand custody in connection with his alleged complicity in the procurement of substandard human intravenous immunoglobulin (IVIG) vials.
+
+Against this backdrop, on June 19, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) said that it has initiated an investigation following a complaint received against Rambukwella.
+
+The investigation had been launched following a complaint filed by a civilian alleging that two vehicles belonging to the ministry provided to him during his tenure as the Health Minister have not been returned after he resigned from the ministerial position and have been misused.
+
+...
+
+[Data](articles/f7c51ec3.json)
+
+---
+
+### Police bolster security at SLFP Headquarters
+
+*2024-07-05 10:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100303/police-bolster-security-at-slfp-headquarters) · `en`
+
+Police have increased security near the Sri Lanka Freedom Party (SLFP) Headquarters located on Darley Road in Colombo.
+
+The heightened security measures follow a request from the party’s General Secretary, Dayasiri Jayasekara, for SLFP members to gather at the headquarters this morning (05).
+
+Sources indicate that the decision was based on concerns about the potential disturbances at the location.
+
+◼️
+
+[Data](articles/4b0e9e16.json)
+
+---
+
+### Keheliya family bank accounts and life insurance policies
 
 *2024-07-05 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198503) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගේ ඇතුළු පවුලේ 6කගේ ස්ථාවර තැන්පතු ගිණුම් සහ ජීවිත රක්ෂණ ඔප්පු මාස 3කට අත්හිටුවීමට අධිකරණය අද (05) නියෝග කළේය.
+The High Court has temporarily frozen six fixed deposits and financial policies worth Rs. 97 million linked to former Health Minister Keheliya Rambukwella and his family members, including his wife and three daughters.
 
-කොළඹ මහාධිකරණ විනිසුරු මංජුල තිලකරත්න මහතා විසින් අදාළ නියෝගය නිකුත්කළ බව අප අධිකරණ වාර්තාකරු පැවසීය.
+🟩
 
-එම ස්ථාවර තැන්පතු ගිණුම් සහ ජීවිත රක්ෂණ ඔප්පු වල වටිනාකම රුපියල් මිලියන 97කට අධික බව සඳහන් වෙයි.
+The court today (05) has been suspended for the suspension of 6 fixed deposits and financial policies of former Health Minister Keheliya Rambukwella.
 
-එම බැංකු ගිණුම් සහ ජීවිත රක්ෂණ ඔප්පු පවත්වාගෙන ගොස් ඇත්තේ කෙහෙළිය රඹුක්වැල්ල, ඔහුගේ බිරිඳ, දියණියන් තිදෙනා සහ එක් දියණියකගේ ස්වාමි පුරුෂයා නමිනි.
+The relevant order was issued by the High Court Judge Manjula Tilakaratne.
+
+It is said that the value of such fixed deposit accounts and life insurance policies is Rs. 97 million.
+
+The bank accounts and life insurance policies have been maintained by Keheliya Rambukwella, his wife, three daughters, and the husband of one daughter.
 
 ◼️
 
 [Data](articles/a2b348ef.json)
 
+[Extended Data](ext_articles/a2b348ef.ext.json)
+
 ---
 
-### அக்குரணையில் பாரிய தீ
+### Massive fire
 
 *2024-07-05 10:22:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அக்குரணையில்-பாரிய-தீ/76-339900) · `ta`
 
-அக்குரணை பகுதியிலுள்ள உணவகத்தில் இன்று காலை தீ பரவியுள்ளதாக தீயணைப்பு பிரிவு தெரிவிக்கின்றது.
+A massive fire erupted at a local restaurant this morning, disrupting transport on the Matale-Kandy road. Firefighters are on the scene.
 
-தீ பரவல் காரணமாக மாத்தளை – கண்டி பிரதான வீதியின் போக்குவரத்து நடவடிக்கைகள் பாதிக்கப்பட்டுள்ளன.
+🟩
+
+The fire broke out this morning at a restaurant in the area, the fire department said.
+
+Transport activities on Matale - Kandy main road have been affected due to fire.
 
 ◼️
 
 [Data](articles/71116cf1.json)
+
+[Extended Data](ext_articles/71116cf1.ext.json)
 
 ---
 
@@ -81,6 +127,8 @@ On a humiliating night for Sunak, the Conservatives have so far only won 70 and 
 ...
 
 [Data](articles/54b29ebb.json)
+
+[Extended Data](ext_articles/54b29ebb.ext.json)
 
 ---
 
@@ -2213,47 +2261,5 @@ The Customs Union Federation has decided to immediately suspend the trade union 
 [Data](articles/0a7f2cd2.json)
 
 [Extended Data](ext_articles/0a7f2cd2.ext.json)
-
----
-
-### 500 kidney transplants successfully performed at Navaloka Hospital
-
-*2024-07-04 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/187674) · `ta`
-
-Navaloka Hospital in Sri Lanka has achieved a significant milestone by successfully performing 500 kidney transplants, marking a historic achievement in the country's healthcare sector. This feat underscores the hospital's commitment to excellence, offering life-saving surgeries through the dedication of its skilled medical team and adherence to stringent health protocols. Beyond surgical expertise, Navaloka Hospital emphasizes holistic patient care, including mental health support, ensuring a comprehensive approach to recovery.
-
-🟩
-
-The Navaloka Hospital Group in Sri Lanka's leading health service has recently announced that 500 kidney surgeries have been successfully completed.. In kidney surgery, this may be a person's life -saving surgery. A healthy kidney, which is donated from a alive or dead person, is fitted with surgery for a patient who does not function properly.
-
-The success of 500 surgery is a great achievement in Sri Lanka's health history.. The Navaloka Hospital's kidney treatment unit has an intensive care unit with special facilities and trained nurses and health professionals, thereby providing polygamy to kidney donations and unforgettable patients.
-
-...
-
-[Data](articles/03c83529.json)
-
-[Extended Data](ext_articles/03c83529.ext.json)
-
----
-
-### Lori accident sent to hospital including six school children
-
-*2024-07-04 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198485) · `si`
-
-In Kandy, a lorry accident involving six schoolchildren and four others resulted in injuries. The driver was arrested, and further investigation is ongoing by the Aladeniya Police.
-
-🟩
-
-A group of people traveled at Nugawela School Junction while attempting to reverse a lorry direction in Kandy.
-
-Four students, two students, two women, and a man were injured in the accident.
-
-The driver of the lorry has been arrested and the Aladeniya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/bf43fc2f.json)
-
-[Extended Data](ext_articles/bf43fc2f.ext.json)
 
 ---

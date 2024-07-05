@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 20:35:15**
+As of **2024-07-05 20:54:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,612
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,859 (100.0%) of 33,860 articles have been extended.
+33,860 (100.0%) of 33,860 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -84,19 +84,25 @@ The additional flights will be served by the Boeing 787 aircraft, featuring 30 B
 
 ---
 
-### 2024 ලෝක කෘත්‍රිම බුද්ධි තාක්ෂණ සමුළුව චීනයේ ශැංහයි නුවර දී
+### 2024 World Arted Intelligence Technological Summit in Shanhai
 
 *2024-07-05 18:47:10* · [`adalk`](https://www.ada.lk/technology/2024-ලෝක-කෘත්‍රිම-බුද්ධි-තාක්ෂණ-සමුළුව-චීනයේ-ශැංහයි-නුවර-දී/5-410628) · `si`
 
-2024 ලෝක කෘත්‍රිම බුද්ධි සමුළුව සහ කෘත්‍රිම බුද්ධි තාක්ෂණයේ ගෝලීය පරිපාලනය පිළිබඳ උසස් මට්ටමේ සමුළුව ඇරඹේ. එම සමුළු ඊයේ (04) චීනයේ ශැංහයි නුවර දී ඇරඹිණ.
+The 2024 World Artel Intelligence Summit in Shanghai highlighted AI's global impact. Chinese PM Lee Chang stressed the importance of international cooperation for AI development, promising China's support for global progress. Notable attendees included Brazil's Supreme Court Chairman Liyis Roberto Barroso and former President Dilma Rousseff, among 1,000 participants.
 
-චීන අග්‍රාමාත්‍ය ලී ච්‍යං මහතා ඊට සහභාගි වෙමින් ‍අවධාරණය කළේ, කෘත්‍රිම බුද්ධි තාක්ෂණයේ සංවර්ධනය උදෙසා විවිධ රටවලට සංවාද පැවැත්වීම සඳහා අවස්ථා උදා කර දීම අත්‍යවශ්‍ය බවයි. එම සහයෝගිතා ඔස්සේ කෘත්‍රිම බුද්ධි තාක්ෂණ පහසුකම් පුළුල් කොට ගෝලීය සංවර්ධනය හා ජනතා සුබසෙත සහතික කිරීමට චීනය සූදානම් බව ද හෙතෙම පැවසීය.
+🟩
 
-බ්‍රසීලයේ ශ්‍රේෂ්ඨාධිකරණ සභාපති Luis Roberto Barroso මහතා සහ නව සංවර්ධන බැංකු අධිපතිනි Dilma Rousseff මහත්මිය ඇතුළු 1000 ක පමණ සම්භාවනීය පිරිසක් සමුළුවේ සමාරම්භක උළෙලට එක්ව සිටියහ.
+2024 World Artal Intelligence Conference and Accreditation Conference on Global Administration of Artificial Intelligence. The conferences began in Shanghai in Shanghai yesterday.
+
+Chinese Prime Minister Lee Chang, Mr. Lee Charing, emphasized that it is necessary to provide opportunities for various countries for the development of artificial intelligence technology. He added that China is ready to expand and ensure global development and welfare of the people through that collaboration.
+
+The Brazil's Supreme Court Chairman Liyis Roberto Barroso and the Supreme Development Banking Governor Dilma Rousseff and other 1,000 distinguished people participated in the conference.
 
 ◼️
 
 [Data](articles/da83d39b.json)
+
+[Extended Data](ext_articles/da83d39b.ext.json)
 
 ---
 

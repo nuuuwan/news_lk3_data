@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 21:19:50**
+As of **2024-07-05 21:35:19**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 5,614
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,860 (100.0%) of 33,862 articles have been extended.
+33,862 (100.0%) of 33,862 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### කොකේන් ගෙන්වූ කෝටිපති ව්‍යාපාරිකයා හසුවෙයි
+### Millionaire businessman who imports cocaine caught
 
 *2024-07-05 21:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198522) · `si`
 
-ගුවන් මගින් කුෂ් හා කොකේන් මෙරටට ආනායනය කළ කෝටිපති ව්‍යාපාරිකයෙකු පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය මගින් අත්අඩංගුවට ගෙන තිබේ.
+A millionaire businessman importing cocaine was arrested by the Police Narcotics Bureau after being found hiding in a luxury car in Nawala. The suspect, known for his eloquent speech, was under investigation for money laundering.
 
-සැකකරු සැඟව සිටියදී නාවලදී අත්අඩංගුවට ගත් අතර ඔහු කුලී පදනම මත රැඳී සිටි නිවසේ තිබී සුඛෝපභෝගී මෝටර් රථයක් සොයා ගැනුණි.
+🟩
 
-මේ දිනවල දැඩි කතාබහකට ලක්වී ඇති නිරූපන ශිල්පිනියකගේ නමින් එය ලියාපදිංචිවී ඇති බවද පොලීසිය පැවසීය.
+The Police Narcotics Bureau has been arrested by the Police Narcotics Bureau.
 
-රුපියල් කෝටියක මුදලක් ලබාදී ඔහු එය මිලදීගෙන ඇති අතර ඉතිරි මුදල ලබාදීමට නියමිත බවද සැකකරු විමර්ශන නිලධාරින්ට පවසා තිබේ.
+The suspect was arrested while hiding and was arrested in Nawala and found a luxury car from the house where the rented base.
+
+The police said that it is registered with a strong speech artist.
+
+The suspect had told the investigation into the investigation and the balance was to be purchased.
 
 ◼️
 
 [Data](articles/a1941f6e.json)
 
+[Extended Data](ext_articles/a1941f6e.ext.json)
+
 ---
 
-### කතරගම එන බැතිමතුන්ට පණිවුඩයක්
+### Message for Kataragama
 
 *2024-07-05 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198521) · `si`
 
-ඓතිහාසික කතරගම මහා දේවාලයේ පෙරහැරට පැමිණෙන බැතිමතුන්ගේ රථ වාහන ගාල් කිරීමේ ස්ථාන සම්බන්ධයෙන් දැනුවත් කරමින් පොලීසිය නිවේදනයක් නිකුත් කර තිබේ.
+Kataragama police issued a statement regarding the safety of pilgrims' vehicles at the historic Kataragama Maha Devalaya site.
+
+🟩
+
+Police have issued a statement informed of the vehicle of pilgrims in the historic Devalaya in Kataragama Maha Devalaya.
 
 ◼️
 
 [Data](articles/96e132b5.json)
+
+[Extended Data](ext_articles/96e132b5.ext.json)
 
 ---
 

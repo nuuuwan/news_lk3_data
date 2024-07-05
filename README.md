@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 16:35:14**
+As of **2024-07-05 16:51:40**
 
 ## Newspaper Stats
 
-*Scraped **33,831** Articles*
+*Scraped **33,832** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,868
 tamilmirrorlk | 4,005
 dailymirrorlk | 4,733
 virakesarilk | 5,303
-adaderanasinhalalk | 5,608
+adaderanasinhalalk | 5,609
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,827 (100.0%) of 33,831 articles have been extended.
+33,831 (100.0%) of 33,832 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### දැන් ජනතාවගේ ප්‍රශ්න විසඳීම ආරම්භ කළා - ජනපති
+
+*2024-07-05 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198516) · `si`
+
+ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලිය යටතේ ඩොලර් බිලියන 08ක සහනයක් ලැබෙන බව ජනාධිපතිවරයා පවසයි.
+
+ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලියට අදාළව ද්විපාර්ශ්වික ණයහිමියන් වෙතින් ඩොලර් බිලියන 05ක ණය පොලී සහනයක් සහ වාණිජ ණයහිමියන් එකඟවී ඇති ආකාරයට ඩොලර් බිලියන 03ක ණය කපා හැරීමක් සිදුවන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා තවදුරටත් පැවසීය.
+
+ඒ අනුව ගෙවීමට තිබූ ණය ප්‍රමාණයෙන් ඩොලර් බිලියන 08ක සහනයක් රටේ ජනතාවට ලබාදීමට හැකි වී තිබෙන බව ජනාධිපති පෙන්වා දෙයි.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කළේ, සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ “උරුමය” ජාතික වැඩසටහන යටතේ කුරුණෑගල දිස්ත්‍රික්කයේ සුදුසුකම්ලාභීන් 73,143ක් අතුරින් පුද්ගලයන් 463 දෙනෙකු වෙනුවෙන් සංකේතාත්මකව ඔප්පු ප්‍රදානය කිරීමට අද (05) පෙරවරුවේ කුරුණෑගල වයඹ පළාත් ශ්‍රවණාගාරයේ පැවති උත්සවය අමතමිනි.
+
+නව ආර්ථිකයක් සමඟ රට ඉදිරියට ගෙන යාමේ දී කුරණෑගල දිස්ත්‍රික්කය ද නව සංවර්ධන සැලැස්මක් යටතේ පුළුල් සංවර්ධනයකට ලක් වන බවත් ජනාධිපතිවරයා මෙහිදී සඳහන් කළේය.
+
+...
+
+[Data](articles/73170076.json)
+
+---
 
 ### Dates announced for O/L practical exams of aesthetic subjects
 
@@ -50,33 +70,51 @@ The applicants are advised to contact ‘1911’ – the hotline of the Examinat
 
 [Data](articles/d4e974fc.json)
 
+[Extended Data](ext_articles/d4e974fc.ext.json)
+
 ---
 
 ### Sri Lanka to receive total debt relief of USD 8 billion through restructuring
 
 *2024-07-05 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100314/sri-lanka-to-receive-total-debt-relief-of-usd-8-billion-through-restructuring-) · `en`
 
-President Ranil Wickremesinghe has announced that the debt restructuring process will include USD 5 billion in loan interest relief from bilateral creditors and a USD 3 billion debt write-off from commercial creditors providing the country with a total relief of USD 8 billion.
+President Ranil Wickremesinghe emphasized that true socialism lies in granting free land rights to the people, dismissing mere talk about socialism.
 
-Wickremesinghe revealed this while addressing the ‘Urumaya’ Freehold Land Deed Ceremony held in Kurunegala today (05), the President’s Media Division (PMD) said.
+He highlighted that his government, credited with rescuing the country from bankruptcy, is actively addressing public issues. He pointed out that an additional 200,000 individuals will benefit from the “Urumaya” freehold land title initiative.
 
-◼️
+The President underscored these initiatives, speaking at a ceremony held at the North Western Provincial Council Auditorium in Kurunegala, where symbolic deeds were presented to 463 recipients out of 73,143 eligible in the district under the “Urumaya” national program.
+
+Addressing the gathering, he noted that he assumed leadership during a period of governmental uncertainty. He emphasized that the nation is now recovering from economic turmoil due to effective economic management. He highlighted plans for inclusive development in Kurunegala district as part of advancing the country’s new economy.
+
+...
 
 [Data](articles/d22d2bff.json)
 
+[Extended Data](ext_articles/d22d2bff.ext.json)
+
 ---
 
-### මුළු ණය ප්‍රමාණය රුපියල් බිලියන 28343 යි
+### The total debt is Rs. 28343 billion
 
 *2024-07-05 16:04:43* · [`adalk`](https://www.ada.lk/breaking_news/මුළු-ණය-ප්‍රමාණය-රුපියල්-බිලියන-28343-යි/11-410625) · `si`
 
-"මේ රටේ ආර්ථික ස්ථාවර්තවය හා ජනතාවට ජීවත් වෙන්න පුලුවන් පහසු පරිසරයක් හදද්දී ජාත්‍යන්තර මූල්‍ය අරමුදල හා අනෙකුත් දේශීය හවුල්කරුවන් සමඟ ඒකරාශී වෙලා රනිල් වික්‍රමසිංහ මැතිතුමා හා රජය ඇති කරපු වැඩසටහන අද ප්‍රථිපල රටට අරගෙන ඇවිත් තියෙනවා" යැයි මුදල් රාජ්‍යය අමාත්‍යය ශෙහාන් සේමසිංහ මහතා පැවසීය.
+Sri Lanka's total debt stands at Rs. 28343 billion. The government, alongside IMF and local partners, aims to stabilize the economy without worsening conditions beyond 2022. Local debt is around Rs. 35,000 crore, with foreign loans rising to Rs. 347 billion. Despite complaints about increased borrowing costs, the government seeks to bridge its budget gap.
 
-ඒ මහතා මේ බව ප්‍රකාශ කර සිටියේ අනුරාධපුරයේදී විශේෂ මාධ්‍ය හමුවක් කැඳවමින්ය, මෙම මාධ්‍ය සාකච්ජාව සඳහා දේශීය මාධ්‍ය මෙන්ම සූම් තාක්ෂණය ඔස්සේ විදේශීය මාධ්‍යවේදීන්ද සම්බන්ධ වී සිටියහ.
+🟩
+
+"The Government and the Government Program has taken to the country today with the International Monetary Fund and other local partners when the economic frequenos of this country can live in the country."
+
+He was speaking at a special press conference in Anuradhapura to conclude foreign journalists through local media and zomculture.
+
+"Especially expressions of debt, Ranil Wickremesinghe and the Government's program has been brought to the country today.Don't take agreement with the International Monetary Fund, if the need to end a loan is not necessary to push the situation in our country a worse place than 2022.
+
+There was a large dialogue on the extent of Sri Lanka's debt, and the 17th International Association was done in our country until the 17th International Association was in our country.There was some question that was in the movement of the movement of the exchange rate about the lower size of this loan.
 
 ...
 
 [Data](articles/ce005ed3.json)
+
+[Extended Data](ext_articles/ce005ed3.ext.json)
 
 ---
 
@@ -412,21 +450,27 @@ Namal Rajapaksa was also present at the occasion.
 
 ---
 
-### බදුල්ලේ ලොරියක් පෙරළිමෙන් සිව් දෙනෙක් මරුට
+### Four people killed in a lorry in Badulla
 
 *2024-07-05 13:45:14* · [`adalk`](https://www.ada.lk/picture_story/බදුල්ලේ-ලොරියක්-පෙරළිමෙන්-සිව්-දෙනෙක්-මරුට/10-410624) · `si`
 
-බදුල්ල තැන්නපංගුව මාර්ගයේ සොරණාතොට  වැලිහිදවංගුව අසලදී අද (5)  දහවල්    ලොරියක් මාර්ගය හරහා පෙරලීයාමෙන් සිව්දෙනෙකු මියගොස් තිදෙනකු බරපතළ තුවාල ලබා බදුල්ල ශික්ෂණ රෝහලට ඇතුළත් කළ බව   බදුල්ල පොලිසිය පවසයි .
+In Badulla, four locals from Hulandda, Moneragala died when a lorry hit them near Dawanapitiya road. The victims were on their way to help construct a bus stand in Planiyawa.
 
-මෙසේ මියගොස් ඇත්තේ මොණරාගල  හුලංදාව ප්‍රදේශයේ පදිංචි සිව්දෙනෙකු යැයි පොලිසිය කීය
+🟩
 
-ඉදිකිරීම් සමාගමක සේවකයන් පිරිසක් බස්නැවතුමක් ඉදිකිරීමට තැන්නපංගුව ට ගොස්  ආපසු  තැන්නපංගුව ප්‍රදේශයේ සිට බදුල්ල බලා ලොරියෙන් ගමන් කරමින් සිටියදී මෙසේ ලොරිය සොරණාතොට වැලිහිදවංගුව අසලදී පෙරලී අනතුරට පත්ව ඇතැයි පොලිසිය සදහන් කළේය .
+According to the Badulla Police, four have been admitted to the Badulla Teaching Hospital with a lorry road near the Dawanapitiya road in Badulla Placeland, Planapanguwa.
 
-බදුල්ල ජේෂ්ඨ පොලිස් අධිකාරි වසන්ත කන්දේවත්ත පොලිස් අධිකාරි බුද්දික ගුණසේකර මූලස්ථාන ප්‍රධාන පොලිස් පරික්ෂක ටී එම් රත්නායක යන මහත්වරුන්ගේ උපදෙස් මත බදුල්ල රථ වාහන අංශයේ ස්ථානාධිපති උප පොලිස් පරික්ෂක ඒ .වී.අනුර ,පොලිස් සැරයන් 43056 වික්‍රමරත්න යන මහත්වරුන් ඇතුලු නිලධාරීන් වැඩිදුර පරික්ෂණ පවත්වති
+The deceased has been identified as four residents of Hulandda, Moneragala
+
+The police said that the lorry was in the area to the Planiyawa area to build a bus stand and traveling from the Plannapanguwa area.
+
+Officers of the OIC of the Venerable Tharanura, Police Officers of the Venerable Gunaturea, Headquarters of Headquarters of Headquarters of Headquarters of Headquarters (SLAF)
 
 ◼️
 
 [Data](articles/1dc5f85e.json)
+
+[Extended Data](ext_articles/1dc5f85e.ext.json)
 
 ---
 
@@ -2267,27 +2311,5 @@ So we will implement that law. Anurakumara Dissanayake and Sivanesathurai Chandi
 [Data](articles/b6c0509a.json)
 
 [Extended Data](ext_articles/b6c0509a.ext.json)
-
----
-
-### Massive fire in the garden of peppermint
-
-*2024-07-05 01:57:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மிளகுசேனை-தோட்டத்தில்-பாரிய-தீ/76-339892) · `ta`
-
-A massive fire erupted at Talawakelle's peppermint garden at 8 pm due to a power outage, causing significant damage to several houses.
-
-🟩
-
-The massive fire broke out at the Talawakelle big peppermint garden at 8 pm today.
-
-Preliminary investigations have revealed that the fire was caused by the power outage.
-
-The disaster occurred in a Lion number and 3 houses were completely damaged and some of the houses were partially damaged.
-
-◼️
-
-[Data](articles/2939309a.json)
-
-[Extended Data](ext_articles/2939309a.ext.json)
 
 ---

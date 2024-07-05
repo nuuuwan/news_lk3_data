@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 18:25:02**
+As of **2024-07-05 18:36:22**
 
 ## Newspaper Stats
 
-*Scraped **33,843** Articles*
+*Scraped **33,853** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ colombotelegraphcom | 310
 bbccomsinhala | 333
 newsfirstlk | 363
 islandlk | 1,889
-economynextcom | 1,986
+economynextcom | 1,995
 dailyftlk | 2,100
 adalk | 3,025
 adaderanalk | 3,870
-tamilmirrorlk | 4,006
+tamilmirrorlk | 4,007
 dailymirrorlk | 4,733
 virakesarilk | 5,309
 adaderanasinhalalk | 5,611
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,611
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,843 (100.0%) of 33,843 articles have been extended.
+33,843 (100.0%) of 33,853 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### பிரிட்டன் தேர்தலில் வெற்றிப் பெற்ற முதல் தமிழ் பெண்
+
+*2024-07-05 18:07:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரிட்டன்-தேர்தலில்-வெற்றிப்-பெற்ற-முதல்-தமிழ்-பெண்/50-339916) · `ta`
+
+பிரிட்டன் பாராளுமன்ற தேர்தலில் பிரதான எதிர்க்கட்சியான தொழிலாளர் கட்சி வெற்றி பெற்று ஆட்சியைப் பிடித்துள்ளது. மொத்தமுள்ள 650 இடங்களில் தொழிலாளர் கட்சி 410 இடங்களிலும், ரிஷி சுனக்கின் கன்சர்வேட்டிவ் கட்சி 119 தொகுதிகளிலும் வெற்றி பெற்றுள்ளது. பிற கட்சிகள் 112 இடங்களில் வெற்றி பெற்றுள்ளன.
+
+பிரிட்டன் பாராளுமன்ற தேர்தலில் உமா குமரன், கவின் ஹரன், மயூரன் செந்தில்நாதன், கமலா குகன், டெவினா பால், நரணி ருத்ரா ராஜன், கிரிஷ்ணி, ஜாஹிர் உசேன் என மொத்தம் 8 தமிழர்கள் வேட்பாளர்களாக போட்டியிட்டனர்.
+
+இந்நிலையில், பிரிட்டன் பாராளுமன்ற தேர்தலில் தொழிலாளர் கட்சி சார்பில் தமிழ் வம்சாவளியைச் சேர்ந்த உமா குமரன், லண்டன் ஸ்டராட்போர்டு தொகுதியில் போட்டியிட்டார்.
+
+இந்தத் தொகுதியில் 19,145 வாக்குகள் பெற்று வெற்றியைப் பதிவு செய்துள்ளார் உமா குமரன். அவரை எதிர்த்துப் போட்டியிட்ட கன்சர்வேட்டிவ் கட்சி வேட்பாளரான கேன் பிளாக்வெல் 3,144 வாக்குகள் மட்டும் பெற்று 4-வது இடம் பெற்றார்.
+
+...
+
+[Data](articles/e2d1f6df.json)
+
+---
 
 ### Ordinary Level Aesthetic Technologies August
 
@@ -79,6 +97,26 @@ Thus, the public organizations, welfare and civilians of the Thenmarachchi, who 
 [Data](articles/86f56688.json)
 
 [Extended Data](ext_articles/86f56688.ext.json)
+
+---
+
+### Sri Lanka foreign reserves rise to $5642mn June after IMF loan
+
+*2024-07-05 17:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-reserves-rise-to-5642mn-june-after-imf-loan-171100/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s forex reserves rose 221 million dollars to 5,642 million US dollars in June 2024 from a month earlier.
+
+In June the International Monetary Fund approved a review making available about 336 million dollars to Sri Lanka.
+
+There has been some volatility in the exchange rate in after earlier excess liquidity from dollar purchases.
+
+Sri Lanka operates a so-called flexible exchange rate, which is neither a clean float nor a hard peg and has anchor conflicts.
+
+Sri Lanka has a foreign reserve target set by the International Monetary Fund which requires reserve collection (a type of strong side pegging which has the same effect as a surrender rule on the exchange rate), but intervention in the other direction (weak side) is discouraged.
+
+...
+
+[Data](articles/dad66ac3.json)
 
 ---
 
@@ -152,6 +190,26 @@ The film crew said that the shooting of the film has been completed and the post
 
 ---
 
+### Global Environment Facility funds chemical disposal project in Sri Lanka
+
+*2024-07-05 17:06:00* · [`economynextcom`](https://economynext.com/global-environment-facility-funds-chemical-disposal-project-in-sri-lanka-171094/) · `en`
+
+ECONOMYNEXT – The Ministry of Environment has been granted 5 million dollars by the Global Environment Facility (GEF) for a chemical disposal project in Sri Lanka.
+
+A workshop was held to launch the project to dispose of POP pesticides in the agriculture sector and mercury and waste in the healthcare sector.
+
+Even though Sri Lanka does not manufacture products which contain POPs or mercury, many products containing these substances are imported to the country for various uses every year.
+
+“Though stringent regulations have been introduced, a lack of capacity in the application of these regulations results in the continued mismanagement of chemical imports to the country,” the UNDP said in a statement.
+
+The ‘Integrated Management and Environmentally Sound Disposal of POPs Pesticides in the Agricultural Sector and Mercury & Waste in the Healthcare Sector in Sri Lanka’ project is implemented by the Environment Ministry and the United Nations Development Programme.
+
+...
+
+[Data](articles/b4380cb0.json)
+
+---
+
 ### Sir Keir Starmer officially becomes UK’s prime minister
 
 *2024-07-05 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100318/sir-keir-starmer-officially-becomes-uks-prime-minister) · `en`
@@ -220,6 +278,32 @@ The Pakistani government has set a challenging revenue collection target to help
 
 ---
 
+### Sri Lanka stocks close up, turnover remains low
+
+*2024-07-05 16:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-remains-low-171080/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader All Share Index closed up 0.17 percent, or 20.84 points, at 11,947; while the more liquid S&P SL20 Index closed up 0.01 percent, or 0.39 points, at 3,505.
+
+Turnover was low at 472 million. This was the lowest since January.
+
+“People are trying to digest what the economic impact will be once the ISB restructure is put in place,” Softlogic Stockbrokers said.
+
+Activity levels on banking stocks was sidelined today after they took a beating yesterday as the sector is expected to be the most impacted, they said.
+
+Commercial Bank of Ceylon Plc closed flat at 103.50, Sampath Bank Pc was up at 78.20, and Hatton National Bank Plc was down at 198.25.
+
+There was one crossing, on John Keells Holdings Plc, which closed flat at 203.50.
+
+“Investors are being very selective, with selected counters seeing some activity. We think this will continue this way.”(Colombo/Jul5/2024)
+
+◼️
+
+[Data](articles/1d9d66f7.json)
+
+---
+
 ### Actor Vignesh is playing a double role 'Red Flower'
 
 *2024-07-05 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/187760) · `ta`
@@ -243,6 +327,26 @@ These twins are eager to join the army. Can they join the military?Or not?We hav
 [Data](articles/1b70966b.json)
 
 [Extended Data](ext_articles/1b70966b.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 304.45/75 to US dollar
+
+*2024-07-05 16:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-304-45-75-to-us-dollar-171084/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed slightly stronger at 304.45/75 to the US dollar on Friday, down from 304.60/80 to the US dollar on Thursday, dealers said, while bond yields were unchanged.
+
+A bond maturing on 15.12.2026 closed stable at 10.70/85 percent.
+
+A bond maturing on 15.03.2028 closed stable at 11.80/90 percent.
+
+A bond maturing on 15.09.2029 closed stable at 11.95/12.05 percent.
+
+A bond maturing on 01.12.2031 closed at 12.15/30 percent. (Colombo/Jul5/2024)
+
+◼️
+
+[Data](articles/aa4e7655.json)
 
 ---
 
@@ -500,6 +604,26 @@ He has been taken to his residence in Trincomalee and is currently being held fo
 
 ---
 
+### Sri Lanka invites Israel farmers to visit island and recruit workers
+
+*2024-07-05 15:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-invites-israel-farmers-to-visit-island-and-recruit-workers-171050/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Labour and Foreign Employment Minister says he discussed with the visiting Israeli ambassador the matter of farmers coming to Sri Lanka to vet and recruit workers for its agriculture sector.
+
+“There have been issues with the first batch of workers sent to Israel to work in its agriculture sector,” Manusha Nanayakkara said on Meta (Facebook).
+
+Nanayakkara met the Ambassador of Israel to India, Sri Lanka, and Bhutan Naor Gilon on Thursday to discuss the issues, he said.
+
+“There have been concerns about the behaviour of the Sri Lankan workers sent to Israel in the first batch. They have faced some issues regarding payments and lodging. But instead of discussing these problems, they have adopted trade union like actions and protested.
+
+“This has damaged the perceptions Israel farmers have about Sri Lankan workers and their productivity was questioned. Now they don’t want to hire Sri Lankans.”
+
+...
+
+[Data](articles/8ace7beb.json)
+
+---
+
 ### The restructuring of the loan is over
 
 *2024-07-05 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198512) · `si`
@@ -611,6 +735,26 @@ According to the police media spokesman's office, 37 m kilos of heroin in this o
 [Data](articles/a0dea746.json)
 
 [Extended Data](ext_articles/a0dea746.ext.json)
+
+---
+
+### Sri Lanka’s Dhammika Perera ready to enter presidential race but says SLPP must decide
+
+*2024-07-05 14:10:00* · [`economynextcom`](https://economynext.com/sri-lankas-dhammika-perera-ready-to-enter-presidential-race-but-says-slpp-must-decide-171048/) · `en`
+
+ECONOMYNEXT — Businessman Dhammika Perera has said it is up to the ruling Sri Lanka Podujana Peramuna (SLPP) to decide who its presidential candidate should be and, until such time, he would continue his campaigning.
+
+Speaking to reporters at an SLPP event, Perera said 44 percent of the country have yet to decide whom to vote for.
+
+“No matter how big anyone talks on stage, no one talks about  how to develop the economy. I’m ready for the presidential election, but Sri Lanka’s biggest political party should decide who the candidate should be. I’m watching and waiting. Until then I’m doing what needs to be done to win the election,” said Perera.
+
+“Besides that, the biggest thing I have to do is, if I get on stage, I have to talk about developing the economy. I’m formulating that programme now. It is up to the SLPP to decide who will contest,” he said.
+
+The business tycoon said that he has already finalised his programme for education reforms.
+
+...
+
+[Data](articles/4ed4c5ea.json)
 
 ---
 
@@ -945,6 +1089,28 @@ The fire has not been reported and the cause of the fire has not yet been reveal
 [Data](articles/ee5c2f7b.json)
 
 [Extended Data](ext_articles/ee5c2f7b.ext.json)
+
+---
+
+### Sri Lanka coconut prices down 4.6-pct at auction
+
+*2024-07-05 12:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-prices-down-4-6-pct-at-auction-171037/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s average coconut prices fell 4.6 percent to 79,599 from 83,443 for 1,000 nuts at an auction on July 04, ending seven weeks of gains, data from the Coconut Development Authority shows.
+
+The highest price was 94,000 for 1000 nuts at the July 4 auction, down from 95,000 while the lowest was 70,000 down from 77,000.
+
+A total of 822,889 coconuts were offered at the auction and 773,377 were sold.
+
+Wholesale prices were 95 to 110 rupees for large nuts and 85 to 90 rupees for small nuts in the week to June 20.
+
+Farmgate prices in Kurunegala were 75,000 – 80,000 per 1,000 nuts.
+
+Coconut shells were 30,000 – 31,000 rupees per metric ton. (Colombo/July05/2024)
+
+◼️
+
+[Data](articles/c6ce2b74.json)
 
 ---
 
@@ -1626,6 +1792,26 @@ As a result, the prices of the Chinese Wildly in the European Union can increase
 
 ---
 
+### Sri Lanka rupee opens weaker at 304.90/305.20 to US dollar
+
+*2024-07-05 09:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-304-90-305-20-to-us-dollar-171027/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 304.90/305.20 to the US dollar on Friday, while bond yields were broadly steady, and stocks opened 0.28 percent up, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.75/85 percent, from 10.70/85 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.80/85 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 11.95/12.05 percent.
+
+In equities, Colombo’s All Share Price Index opened 33.16 points higher at 11,959, while the S&P SL20 of more liquid stocks opened up at 0.60 percent or 21.05 points to 3,526.
+
+◼️
+
+[Data](articles/067680d5.json)
+
+---
+
 ### Sampanthan's funeral was taken to Trincomalee
 
 *2024-07-05 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/187719) · `ta`
@@ -1900,6 +2086,32 @@ However, Minister Mahinda Amaraweera said that the party's presidential election
 
 ---
 
+### Sri Lanka bondholder deal gives NPV benefit of 40-pct, 27-pct in upside: FinMin
+
+*2024-07-05 07:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-bondholder-deal-gives-npv-benefit-of-40-pct-27-pct-in-upside-finmin-171016/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s deal with bondholders gives a benefit of 27 percent in net present value terms even if gross domestic produce grows faster than projected in an International Monetary Fund program, the Finance Ministry said.
+
+Under the baseline scenario Sri Lanka would get an NPV benefit of 40 percent.
+
+If GDP grows faster than expected, and part of the hair cut is reversed, Sri Lanka would still get a benefit of 27 percent, the statement said.
+
+The negotiated Joint Working Framework enables a fair sharing of upside or downside between
+
+creditors and Sri Lanka in case of an economic over-performance or under-performance by Sri Lanka.
+
+• Any upside payouts would only occur in a manner that does not compromise Sri Lanka’s longer
+
+• The risk of higher payouts being triggered whilst capacity to pay is weak is mitigated by the
+
+inclusion of a control variable. Therefore, any increased payments would be to a great extent be
+
+...
+
+[Data](articles/ba6155fe.json)
+
+---
+
 ### New Prime Minister for Britain
 
 *2024-07-05 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198497) · `si`
@@ -2123,207 +2335,5 @@ Although the session is short, a parliamentary spokesman said that the amount sp
 [Data](articles/b6bafb0d.json)
 
 [Extended Data](ext_articles/b6bafb0d.ext.json)
-
----
-
-### NCQP 2024 celebrates excellence in quality, productivity, and innovation
-
-*2024-07-05 03:24:06* · [`dailyftlk`](https://www.ft.lk/business/NCQP-2024-celebrates-excellence-in-quality-productivity-and-innovation/34-763881) · `en`
-
-SLAAQP Secretary Dr. Karthika Kathuresan (fifth from left) along with SLAAQP President Dr. Surani Dias (centre) and QCFI CEO D.K. Srivastava (fifth from right) presenting awards at the NCQP 2024
-
-SLAAQP President Dr. Surani Dias and IDB Chairman Dr. Saranga Alahapperuma presenting awards.
-
-(From left): SLAAQP President Dr. Surani Dias, IDB Chairman Dr. Saranga Alahapperuma, SLAAQP Founder President Sunil Wijesinghe and NCQP 2024 Keynote Speaker Dr. Ranil Sugathadasa, along with other invitees at the convention
-
-MAS, CBL, Ansell, Uni Dil Packaging clinch Gold at NCQP 2024
-
-The National Convention on Quality and Productivity (NCQP) 2024, organised by the Sri Lanka Association for the Advancement of Quality and Productivity (SLAAQP), concluded successfully on 24 June at the Mount Lavinia Hotel, Colombo.
-
-Held under the theme “A Quest for Quality, Productivity, and Innovation,” the event highlighted Sri Lanka’s dedication to excellence across diverse sectors.
-
-...
-
-[Data](articles/4c8c9674.json)
-
-[Extended Data](ext_articles/4c8c9674.ext.json)
-
----
-
-### CEAT tyres roll into Brazil, expanding brand’s export footprint
-
-*2024-07-05 03:22:46* · [`dailyftlk`](https://www.ft.lk/business/CEAT-tyres-roll-into-Brazil-expanding-brand-s-export-footprint/34-763880) · `en`
-
-CEAT Kelani representatives at the despatch of the first consignment of tyres to Brazil
-
-Brazil, the country that gave the world natural rubber, has become the latest export market for CEAT tyres manufactured in Sri Lanka.
-
-CEAT Kelani Holdings recently despatched its first export consignment of tyres to Brazil, the second country in South America to join the Company’s international footprint, which covers 16 countries.
-
-The commencement of exports to Brazil was preceded by CEAT Kelani receiving the requisite INMETRO certification from the National Institute of Metrology, Standardisation and Industrial Quality, Brazil’s national standards body.
-
-...
-
-[Data](articles/c5daf9e1.json)
-
-[Extended Data](ext_articles/c5daf9e1.ext.json)
-
----
-
-### CEAT tyres roll into Brazil, expanding brand’s export footprint
-
-*2024-07-05 03:21:13* · [`dailyftlk`](https://www.ft.lk/business/CEAT-tyres-roll-into-Brazil-expanding-brand-s-export-footprint/34-763879) · `en`
-
-Brazil, the country that gave the world natural rubber, has become the latest export market for CEAT tyres manufactured in Sri Lanka.
-
-CEAT Kelani Holdings recently despatched its first export consignment of tyres to Brazil, the second country in South America to join the Company’s international footprint, which covers 16 countries.
-
-The commencement of exports to Brazil was preceded by CEAT Kelani receiving the requisite INMETRO certification from the National Institute of Metrology, Standardisation and Industrial Quality, Brazil’s national standards body.
-
-INMETRO requires manufacturers and suppliers to undergo stringent product safety testing, factory inspection and assessment to ensure compliance with production process requirements, and analysis of technical documentation. On establishing compliance, INMETRO issues a certificate as well as authorisation for the use of INMETRO’s Compliance Identification Seal.
-
-...
-
-[Data](articles/275c587f.json)
-
-[Extended Data](ext_articles/275c587f.ext.json)
-
----
-
-### Newly appointed WB Country Director for Sri Lanka calls on President
-
-*2024-07-05 03:19:18* · [`dailyftlk`](https://www.ft.lk/business/Newly-appointed-WB-Country-Director-for-Sri-Lanka-calls-on-President/34-763878) · `en`
-
-The newly appointed World Bank Country Director for Sri Lanka, Nepal, and Maldives David Sislen,
-
-Called on President Ranil Wickremesinghe yesterday. The meeting served as an introduction for the new World Bank Country Director. The President had a cordial discussion with the World Bank team. Sislen succeeded Faris Hadad-Zervos, who is moving to a new assignment within the World Bank. Vice President for the South Asia Region Martin Raiser; out-going Country Manager for Maldives and Sri Lanka, South Asia, Chiyo Kanda; and Senior Advisor to the President on Economic Affairs, Dr. R.H. S. Samaratunga, also attended the meeting.
-
-◼️
-
-[Data](articles/c6421c3f.json)
-
-[Extended Data](ext_articles/c6421c3f.ext.json)
-
----
-
-### Top tech entrepreneur Sushena appointed Rotary Governor 2024/25
-
-*2024-07-05 03:12:38* · [`dailyftlk`](https://www.ft.lk/business/Top-tech-entrepreneur-Sushena-appointed-Rotary-Governor-2024-25/34-763876) · `en`
-
-One of Sri Lanka’s top tech entrepreneurs Sushena Ranatunga has been appointed as the Rotary Governor Sri Lanka and Maldives for the year 2024/25.
-
-The Co-Founder/Director of Creative Technology Solutions Ltd. – a company that pioneered Sri Lanka’s software industry way back in 2002, he is also the Director of the BOI based healthcare software development company Cambio Software Engineering Ltd. One of his landmark projects for Rotary was being the Project Chair of setting up Sri Lanka’s first ever Human Heart Valve and Tissue Bank under the stewardship of the first Rotary Lady Governor Gowri Rajan.
-
-...
-
-[Data](articles/d24e32de.json)
-
-[Extended Data](ext_articles/d24e32de.ext.json)
-
----
-
-### Uninterrupted Power and Efficiency Summit 2024 concludes successfully
-
-*2024-07-05 03:09:31* · [`dailyftlk`](https://www.ft.lk/business/Uninterrupted-Power-and-Efficiency-Summit-2024-concludes-successfully/34-763875) · `en`
-
-Energynet Ltd., a subsidiary of Hayleys Fentons, and Riello Power Solutions (Italy), two well-known UPS giants locally and globally, successfully hosted “The Uninterrupted Power and Efficiency Summit 2024.”
-
-The event brought together industry leaders to discuss the future of uninterrupted power supply (UPS) technology, spotlighting key trends and insights shaping the sector.
-
-Distinguished speakers emphasised the growing importance of using modern UPS systems to improve energy savings and strengthen operational resilience against potential dangers. The summit and keynote presentations highlighted the critical importance of modern UPS systems and examined growing market dynamics and global innovations poised to reshape the industry landscape.
-
-Riello UPS ranks among the top 3 European UPS companies globally, with the Asia-Pacific market ranking in second place for regional sales.
-
-...
-
-[Data](articles/5563e74e.json)
-
-[Extended Data](ext_articles/5563e74e.ext.json)
-
----
-
-### Two new appointments to Board of Tea Smallholder Factories
-
-*2024-07-05 03:06:18* · [`dailyftlk`](https://www.ft.lk/business/Two-new-appointments-to-Board-of-Tea-Smallholder-Factories/34-763874) · `en`
-
-Tea Smallholder Factories PLC has announced the appointment of Priyan Edirisinghe and Farzana Jameel as Independent Non-Executive Directors of the Company.
-
-Priyan Edirisinghe is a Chartered Accountant with over 20 years of experience in the private sector and professional practice. He currently serves as the Managing Partner at Baker Tilly
-
-Edirisinghe & Co., one of the leading audit, tax, and consulting firms in Sri Lanka. Bakertilly Sri
-
-Lanka is a member of Bakertilly International, the 10th largest accounting network in the world.
-
-In this role, he has been instrumental in steering the firm’s strategic direction and driving growth initiatives. His leadership is marked by a focus on outward growth technology-driven initiatives focus and operational efficiency, and ethical practices.
-
-...
-
-[Data](articles/8d7017be.json)
-
-[Extended Data](ext_articles/8d7017be.ext.json)
-
----
-
-### 12 houses damage to mini hurricane with rain in Modu Vahari
-
-*2024-07-05 02:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/187712) · `ta`
-
-A mini hurricane caused significant damage to 12 houses in Modu Vahari, Vakarai, with heavy rain and wind. The roofs were severely damaged, but fortunately, there were no injuries reported.
-
-🟩
-
-Vakarai Divisional Secretary A. Arunan said that the roofs of the 12 houses have been damaged and the roofs of the 12 houses have been damaged and the people in the houses have been survived on Thursday (5 pm.
-
-The rains were suddenly raining at 5 pm on Thursday (4), and the mini -cyclone was blowing and many trees collapsed and the tiles were thrown into the houses and the tiles were thrown into the houses.
-
-He added that the mini -tornado had damaged 12 houses in the area and no one was injured.
-
-◼️
-
-[Data](articles/6d5607a6.json)
-
-[Extended Data](ext_articles/6d5607a6.ext.json)
-
----
-
-### IASL HR Conference 2024 set to reimagine resilience for a transformative future
-
-*2024-07-05 02:41:00* · [`islandlk`](http://island.lk/iasl-hr-conference-2024-set-to-reimagine-resilience-for-a-transformative-future/) · `en`
-
-The IASL HR Conference 2024, themed “Resilience Reimagined – Thriving Through Change,” is poised to be a transformative event for HR professionals in the insurance sector. This annual conference aims to equip practitioners with the knowledge and expertise to lead their operations successfully while fostering camaraderie and collaboration within the community. Attracting over 100 participants from various insurance companies each year, it has solidified its position as a must-attend event for the industry.
-
-The conference’s theme emphasizes the importance of adaptability and flexibility in navigating turbulent times. By reimagining resilience as an everyday tool, individuals and organisations can build a foundation of strength that serves them well in both calm and crisis. The conference will delve into strategies to foster resilience, create momentum for action, and deepen connections within the HR community.
-
-...
-
-[Data](articles/1ba2bd5c.json)
-
-[Extended Data](ext_articles/1ba2bd5c.ext.json)
-
----
-
-### Fire at Lion Apartments in Peppermint Garden
-
-*2024-07-05 02:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/187711) · `ta`
-
-A fire at Lion Apartments in Pepperintendent Garden, Lindula, destroyed one house but left all 41 residents safe. The blaze, suspected to be caused by a leak, occurred around 9 am on Thursday and is now under control. Investigations are ongoing.
-
-🟩
-
-A house in the Lion apartment in the Lion Apartments in the Pepperinar Garden in the Pepperintendent Garden in the Lindulai Police Division is reportedly destroyed by the fire.
-
-As a result, 41 people from 5 families who lived in five houses said that their relatives and friends were safely housed in their homes.
-
-The residents of the area further stated that there were no casualties and a few assets in the houses were only minor impacts.
-
-The incident took place at around 9am on Thursday (4) and is currently under control of the fireplace.. Lindula police are conducting investigations into the incident.
-
-An official said that the police suspect that the fire may have been caused by a leak.
-
-◼️
-
-[Data](articles/55da087c.json)
-
-[Extended Data](ext_articles/55da087c.ext.json)
 
 ---

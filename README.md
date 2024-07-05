@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 13:35:24**
+As of **2024-07-05 13:54:32**
 
 ## Newspaper Stats
 
-*Scraped **33,806** Articles*
+*Scraped **33,807** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,986
 dailyftlk | 2,100
 adalk | 3,021
 adaderanalk | 3,862
-tamilmirrorlk | 4,001
+tamilmirrorlk | 4,002
 dailymirrorlk | 4,733
 virakesarilk | 5,299
 adaderanasinhalalk | 5,601
@@ -26,27 +26,53 @@ adaderanasinhalalk | 5,601
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,804 (100.0%) of 33,806 articles have been extended.
+33,806 (100.0%) of 33,807 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### படம் பிடித்த பொலிஸ் அதிகாரி கைது
+### முதுகை படம் எடுத்தவர் சிக்கினார்
+
+*2024-07-05 13:19:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/முதுகை-படம்-எடுத்தவர்-சிக்கினார்/76-339912) · `ta`
+
+பெண் பொலிஸார் தங்குமிட விடுதி குளியறையில் குளித்து கொண்டிருந்த பெண் பொலிஸ் கான்ஸ்டபிள் ஒருவரை மறைந்திருந்து படம் பிடித்த ஆண் பொலிஸ்  கான்ஸ்டபிள் ஒருவரை விளக்க மறியலில் வைக்குமாறு நுவரெலியா மாவட்ட நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+இந்த உத்தரவை நுவரெலியா மாவட்ட நீதவான் பிரபுதிகா நாணயக்கார (04.07.2024) மாலை பிறப்பித்தார்.
+
+லிந்துலை பொலிஸ் நிலையத்தில் பெண் பொலிஸார் தங்குமிட  விடுதி குளியலறையில் குளித்து கொண்டிருந்த பெண் பொலிஸ் கான்ஸ்டபிள் ஒருவரை இதே பொலிஸ் நிலையத்தில் கான்ஸடபிள் பதவி வகிக்கும் ஆண் பொலிஸ் கான்ஸ்டபிள் தனது ஸ்மார்ட் போனால் படம் பிடித்து வைத்திருந்துள்ளார்.
+
+இந்த விடயம் ஏனைய பொலிஸாருக்கு தெரியவந்ததையடுத்து விசாரணைகள் தொடரப்பட்டு குறித்த பொலிஸ் கான்ஸ்டபிள் மீது நடவடிக்கை எடுத்து கைது செய்த லிந்துலை பொலிஸ் அவரை (04.07.2024) நுவரெலியா நீதவான் நீதிமன்றத்தில் ஆஜர் படுத்தியுள்ளனர்.
+
+இதன்போது இது தொடர்பான வழக்கை விசாரணைக்கு எடுத்து கொண்ட நீதிபதி பிரபுதிகா நாணயக்கார சந்தேக நபரான பொலிஸ் கான்ஸ்டபிள்ளை இம்மாதம் (09.07.2024) செவ்வாய்க் கிழமை வரை விளக்க மறியலில் வைக்க உத்தரவு பிறப்பித்தார்.
+
+◼️
+
+[Data](articles/4b57df6b.json)
+
+---
+
+### Arrested by the police officer of the film
 
 *2024-07-05 13:17:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/படம்-பிடித்த-பொலிஸ்-அதிகாரி-கைது/76-339911) · `ta`
 
-பெண் பொலிஸார் தங்குமிட விடுதி குளியறையில் குளித்து கொண்டிருந்த பெண் பொலிஸ் அதிகாரியொருவரை மறைந்திருந்து படம் பிடித்த ஆண் பொலிஸ் உத்தியோகத்தோர்  ஒருவரை விளக்க மறியலில் வைக்குமாறு நுவரெலியா மாவட்ட நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+In a film, a female police officer was arrested after shooting a male colleague during a bath at a hostel near the Lindulai police station. The Nuwara Eliya District Magistrate's Court ordered her detention, with further interrogation scheduled until Tuesday.
 
-லிந்துலை பொலிஸ் நிலையத்தில் பெண் பொலிஸார் தங்குமிட  விடுதி குளியலறையில் குளித்து கொண்டிருந்த பெண் பொலிஸ்  உத்தியோகத்தோர் ஒருவரை அதே பொலிஸ் நிலையத்தில் பணிபுரியும் ஆண் பொலிஸ்  உத்தியோகத்தோர் ஒருவர் தனது ஸ்மார்ட் போனால் படம் பிடித்து வைத்திருந்துள்ளார்.
+🟩
 
-இந்த விடயம் ஏனைய பொலிஸாருக்கு தெரியவந்ததையடுத்து விசாரணைகள் தொடரப்பட்டு குறித்த பொலிஸ் உத்தியோகத்தோர் மீது நடவடிக்கை மேற்கொள்ளப்பட்டு  கைது செய்த லிந்துலை பொலிஸார் அவரை நுவரெலியா நீதவான் நீதிமன்றத்தில் ஆஜர் படுத்தியுள்ளனர்.
+The Nuwara Eliya District Magistrate's Court has ordered a female police officer who was bathing in a hostel in the hostel.
 
-இதன்போது இது தொடர்பான வழக்கை விசாரணைக்கு எடுத்து கொண்ட நீதிபதி பிரபுதிகா நாணயக்கார சந்தேக நபரான பொலிஸ் உத்தியோகத்தரை செவ்வாய்கிழமை (09) வரை விளக்க மறியலில் வைக்க உத்தரவு பிறப்பித்தார்.
+A female police officer who was bathing in the hostel bathroom at Lindulai police station, a male police officer who was working at the same police station, was shot in a smart.
+
+The police have arrested the Nuwara Eliya Magistrate's Court, who arrested the police officers and arrested the police officers.
+
+Judge Prabhudika Nanayakkara, who was investigating the case, ordered the suspect to be interrogated by the police officer until Tuesday (09).
 
 ◼️
 
 [Data](articles/f4dc5b6b.json)
+
+[Extended Data](ext_articles/f4dc5b6b.ext.json)
 
 ---
 
@@ -56,9 +82,17 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Billionaire businessman and Member of Parliament Dhammika Perera says that he is ready to contest the upcoming Presidential Election if the Sri Lanka Podujana Peramuna (SLPP) takes a decision.
 
-◼️
+Perera made this remark while attending the inauguration of the SLPP’s centre for professionals, which was held this morning (05). The event was also attended by SLPP National Organiser MP Namal Rajapaksa.
+
+Commenting further, MP Perera said: “I am prepared to contest the Presidential Election, pending the decision of the biggest political party of Sri Lanka on their candidate. I await their decision while continuing to work towards my victory.”
+
+“My primary focus is on developing the economy… If I am to take the stage, I have to explain how I plan to develop the economy. Therefore, I am currently formulating an economic programme. The decision rests with SLPP.”
+
+...
 
 [Data](articles/e63671b2.json)
+
+[Extended Data](ext_articles/e63671b2.ext.json)
 
 ---
 
@@ -2255,27 +2289,5 @@ It is noteworthy that the situation was due to the emergency maintenance of the 
 [Data](articles/063dfb95.json)
 
 [Extended Data](ext_articles/063dfb95.ext.json)
-
----
-
-### President's term of office - a five-member Supreme Court Bench
-
-*2024-07-04 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198489) · `si`
-
-A five-judge Supreme Court panel will review a petition by Mr. Levy challenging the president's term limits. The court is considering issuing an injunction to halt the upcoming presidential election until the conclusion of the current president's term.
-
-🟩
-
-An entrepreneur is CD. The fundamental rights judge has been named to consider the fundamental rights petition filed by Mr. Levy.
-
-It is currently planning to issue a prevention of the presidential election to issue a prevention of the presidential election until the end of the president's term of office.
-
-The petition is due to be considered before the panel of judges.
-
-◼️
-
-[Data](articles/21449b6d.json)
-
-[Extended Data](ext_articles/21449b6d.ext.json)
 
 ---

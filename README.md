@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 14:06:07**
+As of **2024-07-05 14:19:42**
 
 ## Newspaper Stats
 
-*Scraped **33,809** Articles*
+*Scraped **33,814** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,52 +15,140 @@ newsfirstlk | 363
 islandlk | 1,889
 economynextcom | 1,986
 dailyftlk | 2,100
-adalk | 3,021
-adaderanalk | 3,862
+adalk | 3,023
+adaderanalk | 3,864
 tamilmirrorlk | 4,002
 dailymirrorlk | 4,733
-virakesarilk | 5,299
+virakesarilk | 5,300
 adaderanasinhalalk | 5,603
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,807 (100.0%) of 33,809 articles have been extended.
+33,809 (100.0%) of 33,814 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### මම ready - ධම්මික පෙරේරා
+### மலேசியாவில் கோலாலம்பூர் விமான நிலையத்தில் இரசாயனக் கசிவு ; 39 பேர் பாதிப்பு
+
+*2024-07-05 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/187742) · `ta`
+
+மலேசியாவில் கோலாலம்பூர் சர்வதேச விமான நிலையத்தில் வியாழக்கிழமை (04) விமான பராமரிப்பு பகுதியில் இரசாயனக் கசிவு ஏற்பட்டதில் 39 பேர் பாதிக்கப்பட்டுள்ளனர்.
+
+கோலாலம்பூர் சர்வதேச விமான நிலையத்திலுள்ள விமான பராமரிப்பு பகுதியில்  வியாழக்கிழமை அதிகாலை இரசாயனக் கசிவு ஏற்பட்டுள்ளது.
+
+பயணிகள் முனையத்தில் இருந்து தனித்தனியாக இருக்கும் விமான பராமரிப்பு பகுதியில் இயங்கும் மூன்று நிறுவனங்களில் பணிபுரிந்தவர்கள் இரசாயனக் கசிவால் பாதிக்கப்பட்டுள்ளார்கள்.
+
+39 பேருக்கு தலைச்சுற்றல் மற்றும் வாந்தி ஏற்பட்டுள்ளது. அதில் 14 பேர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+மெத்தில் மெர்காப்டன் என்ற இரசாயனமே கசிந்துள்ளதாக கண்டறியப்பட்டுள்ளது. இது திரவமாக்கப்பட்ட பெட்ரோலிய வாயுவில் வாசனைக்காக சேரக்கப்படுகிறது. விமான பராமரிப்பு பகுதியிலுள்ள பயன்படுத்தப்படாத தொட்டியில் இருந்து மெத்தில் மெர்காப்டன்  கசிந்துள்ளது.
+
+◼️
+
+[Data](articles/e61a759d.json)
+
+---
+
+### State Minister explains why some registered taxpayers are not required to pay tax
+
+*2024-07-05 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100311/state-minister-explains-why-some-registered-taxpayers-are-not-required-to-pay-tax) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya clarified that individuals with a monthly income of less than Rs. 100,000 are exempt from paying income taxes, even if they have registered and obtained a Taxpayer Identification Number (TIN).
+
+Siyambalapitiya said accordingly, they are not required to pay the taxes, even if the Inland Revenue Department (IRD) sends a reminder via text messages or letters.
+
+However, he pointed out that these individuals must inform the Inland Revenue Department in writing in order to confirm their exemption from paying the tax and that such individuals can inform he nearest IRD regional office in this regard.
+
+He further expressed that as of now, 2.3 million people have obtained a TIN, with 1.3 million registrations in June alone. He added that the government aims to increase the number of persons who have obtained a Taxpayer Identification Number to 7.3 million by the end of July.
+
+◼️
+
+[Data](articles/7ed767b0.json)
+
+---
+
+### I am Ready - Dhammika Perera
 
 *2024-07-05 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198509) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපතිවරණ අපේක්ෂකයා ලෙස තමන්ව ඉදිරිපත් කිරීමට එම පක්ෂය තීන්දු කරන්නේ නම් තමන් ඊට සූදානමින් පසුවන බව එම පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රි ව්‍යාපාරික ධම්මික පෙරේරා මහතා පවසයි.
+Dhammika Perera, UNP MP, suggested his party choose him as the Presidential candidate during the launch of the Sri Lanka General Front Tractors in Colombo, attended by Namal Rajapaksa.
 
-ඔහු මේ බව සඳහන් කළේ ශ්‍රී ලංකා පොදුජන පෙරමුණේ වෘත්තිකයින්ගේ මධ්‍යස්ථානය අද (05) පෙරවරුවේ කොළඹදී විවෘත කළ අවස්ථාවේදීය.
+🟩
 
-එම අවස්ථාවට පක්ෂයේ ජාතික සංවිධායක නාමල් රාජපක්ෂ මහතා ද එක්ව සිටියේය.
+UNP MP Dhammika Perera said that if the party would decide as the Presidential Electorate as the Presidential Electoral candidate.
+
+He was speaking at the opening of the Sri Lanka General Front Tractors in Colombo this morning.
+
+Namal Rajapaksa was also present at the occasion.
 
 ◼️
 
 [Data](articles/c0fbe195.json)
 
+[Extended Data](ext_articles/c0fbe195.ext.json)
+
 ---
 
-### බදුල්ලේ බිහිසුණු අනතුරක් - 4ක් මරුට
+### Four killed, 3 critical as lorry overturns in Badulla
+
+*2024-07-05 13:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100310/four-killed-3-critical-as-lorry-overturns-in-badulla) · `en`
+
+Four individuals have been killed, while three others were left critically injured after a lorry overturned  near Walihida area along the Badulla - Soranathota road, police said.
+
+Badulla Police said that the accident had occurred at around 12.00 noon today (05), when the lorry overturned on the main road.
+
+The group of persons who were travelling in the lorry at the time have been identified as workers from Monaragala on their way to install waiting shelters at bus stops.
+
+The three wounded individuals have been admitted to Badulla Hospital and sources said that their condition is critical.
+
+The bodies of the deceased have been placed in the mortuary of Badulla Hospital, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/5632fa00.json)
+
+---
+
+### Four dies in Badulla
 
 *2024-07-05 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198508) · `si`
 
-බදුල්ල-සොරණාතොට මාර්ගයේ වැලිහිඳ ප්‍රදේශයේදී  අද (05) දහවල් 12 ට පමණ ලොරි රථයක් මාර්ගය මැද පෙරළීමෙන් එහි ගමන්කළ පුද්ගලයන් 4 දෙනෙකු මියගොස් තිබේ.
+A fatal accident near Badulla resulted in four deaths when a lorry hit travelers on the Welimintenattota road around noon. Three more were seriously injured. The incident happened between Moneragala and Welimintenattota.
 
-එහි සිටි තවත් තිදෙනෙක්ට බරපතළ තුවාල සිදුව ඇතැයි බදුල්ල පොලීසිය පවසයි.
+🟩
 
-මෙසේ අනතුරට ලක්ව ඇත්තේ මාර්ගවල මගී ආවරණ සවි කිරීම සඳහා මොනරාගල සිට පැමිණි පිරිසකි
+Four persons who were traveling in the Welimintenattota road around 12 noon were killed by a lorry.
+
+The Badulla police say that three others have been seriously injured.
+
+The accident occurred from Moneragala to installing the passenger covering of the roads
 
 ◼️
 
 [Data](articles/5ff7bfcb.json)
+
+[Extended Data](ext_articles/5ff7bfcb.ext.json)
+
+---
+
+### ලක්ෂ 580කට පොලිසියට නව සුනඛයින් 35ක් නෙදර්ලන්තයෙන් ගෙන එයි
+
+*2024-07-05 13:33:03* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-580කට-පොලිසියට-නව-සුනඛයින්-35ක්-නෙදර්ලන්තයෙන්-ගෙන-එයි/11-410623) · `si`
+
+පොලිස් නිල සුනඛ අංශය සදහා රුපියල් පන් කෝටි අසූ ලක්ෂයක් වටිනා  සුනඛයන් 35 දෙනෙකු නෙදර්ලන්තයේ සිට කටුනායක ගුවන් තොටුපොළ වෙත 07/05 දින අලුයම රැගෙන විත් තිබේ .
+
+මෙම සුනඛයන් බෙල්ජියම් මැලිනොයිස් ( Belgiam Malinois ) වර්ගයේ සුනඛයන් 13 දෙනෙකු , ජර්මන් ෂෙපර්ඩ් ( German Shepherd ) වර්ගයේ  සුනඛයන්12 දෙනෙකු සහ ඉංග්ලිෂ් ස්පැනියෙල් ( English Spaniel ) වර්ගයේ සුනඛයන් 10 දෙනෙකු   සිටින අතර ඔවුන් නෙදර්ලන්තයේ K.- 10 Working Dog  නැමැති පෞද්ගලික සත්ව ගොවිපළකින් මිළදී ගෙන තිබේ .
+
+මෙසේ රැගෙන විත් තිබූ සුනඛයන් අතරින් 21 දෙනෙකු ගැහැණු සතුන් වන අතර ඉතිරි 14 දෙනා පිරිමි සතුන් වේ .මොවුන් අතරින් ඉංග්ලිෂ් ස්පෑනියෙල් වර්ගයේ ගැහැණු සතුන් දෙදෙනෙකු මේ වනවිටත් ගර්භණී තත්වයේ පසු වන අතර තවත් බෙල්ජියම් මැලිනොයිස් වර්ගයේ බැල්ලියක එම ගොවිපළේ සිටි ශක්තිමත් බල්ලෙකු හා අභිජනනය කර රැගෙන විත් තිබුණි .
+
+මීට පෙර 2018 වසරේ දී ද මේ ආකාරයට පොලිස් නිල සුනඛ කොට්ඨාසය සදහා සුනඛයන් විදේශයකින් ආනයනය කර තිබුණි .
+
+...
+
+[Data](articles/5ad92fe3.json)
 
 ---
 
@@ -241,6 +329,22 @@ Labor party after 14 years takes power in Britain. It is worth recalling that th
 [Data](articles/9b846a96.json)
 
 [Extended Data](ext_articles/9b846a96.ext.json)
+
+---
+
+### ණය ප්‍රතිව්‍යුහගත කිරීමේ සාර්ථකත්වය බලශක්තියට ශක්තියක්
+
+*2024-07-05 12:14:14* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීමේ-සාර්ථකත්වය-බලශක්තියට-ශක්තියක්/11-410622) · `si`
+
+ණය  ප්‍රතිව්‍යුහගත කිරීමේ කටයුතු සාර්ථක කර ගැනීම හේතුවෙන් පසුගිය අර්බුද සමයේ ඇනහිට තිබූ බලශක්ති ක්ෂේත්‍රයට සම්බන්ධ ව්‍යාපෘති යලි ක්‍රියාත්මක කිරීමට හැකි වන බවත් එය බල ශක්ති අර්බුදය විසඳාගැනීමට මහත් පිටුවහලක් වන බවත් විදුලිබල හා බලශක්ති රාජ්‍ය අමාත්‍ය ඉන්දික අනුරුද්ධ මහතා සඳහන් කළේය.
+
+රට සංවර්ධනය කිරීම සඳහා ආණ්ඩුව විසින් ක්‍රියාත්මක කර ඇති වැඩපිළිවෙළ අඩපණ කිරීමට විපක්ෂයේ ඇතැම් පාර්ශ්ව විසින් කඩාකප්පල්කාරී ක්‍රියාවන්වල නිරතව සිටින බව ද රාජ්‍ය අමාත්‍යවරයා පෙන්වා දුන්නේය.
+
+විදුලිබල හා බලශක්ති රාජ්‍ය අමාත්‍ය ඉන්දික අනුරුද්ධ මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+...
+
+[Data](articles/90747b71.json)
 
 ---
 
@@ -2173,113 +2277,5 @@ They have allowed them to go into the luxury flats of the Altair.
 [Data](articles/e7141937.json)
 
 [Extended Data](ext_articles/e7141937.ext.json)
-
----
-
-### President's tenure: Monday review
-
-*2024-07-04 20:34:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-பதவிக்காலம்-திங்கள்-ஆராய்வு/175-339877) · `ta`
-
-Supreme Court to examine petition on President's tenure, appointing a panel of five judges led by Chief Justice Jayantha Jayasuriya.
-
-🟩
-
-The Supreme Court on Thursday (04) decided to look into the fundamental rights petition filed in the Supreme Court seeking clarification on the current president's tenure.
-
-Chief Justice Jayantha Jayasuriya has appointed a panel of five judges to investigate the petition.
-
-Under the leadership of High Court Judges Vijith Malgoda, Murdu Fernando, Priti Padma Surasena, S. Durairaja will investigate the petition
-
-◼️
-
-[Data](articles/70701c61.json)
-
-[Extended Data](ext_articles/70701c61.ext.json)
-
----
-
-### Emergency Notice for the people of Colombo
-
-*2024-07-04 20:34:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/கொழும்பு-வாழ்-மக்களுக்கு-அவசர-அறிவிப்பு/95-339876) · `ta`
-
-Colombo faces an 18-hour water cut from 9 pm today to 5 am tomorrow due to urgent maintenance at the Ambatale Water Plant. Affected areas include Kolonnawa, Kaduwela, Mulleriya, and Kotikawatte.
-
-🟩
-
-The National Water Supply and Drainage Board said that 18 hours of water cut will be implemented in Colombo from 9 pm to 05 pm tomorrow (04).
-
-Accordingly, the Kolonnawa Municipal Council, Kaduwela Municipal Council, Mulleriya and Kotikawatte Pradeshiya Sabha areas will be implemented for 18 hours.
-
-The National Water Supply and Drainage Board further stated that the water cut will be implemented due to the emergency maintenance work to be carried out at the Ambatale Water Plantation Center.. Remble
-
-◼️
-
-[Data](articles/237196da.json)
-
-[Extended Data](ext_articles/237196da.ext.json)
-
----
-
-### 16 Fixed Deposits banned in Keheliya family
-
-*2024-07-04 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198490) · `si`
-
-The Bribery or Corruption Acceleration Commission has banned 16 fixed deposit accounts and 3 life insurance policies linked to former Health Minister Keheliya Rambukwella for five months due to suspicious transactions. This action follows an investigation into his family members' financial activities, including deposits and insurance policies. The commission stated that this move is part of efforts to combat money laundering. Further investigations have been ordered, and Rambukwella remains in custody pending trial over allegations related to substandard antibody injections.
-
-🟩
-
-The Investigation Commission has taken the Bribery or Corruption Accelers to ban on the Fixed Deposit Accounts and Life Insurance policies of former Health Minister Keheliya Rambukwella for a period of five months.
-
-There are banned on suspicious transactions, 16 fixed deposits and 3 insurance policies.
-
-Accordingly, for 7 days of suspicious deposits of the two daughters of Health, the wife of the two daughters of Health and the husband of one daughter of a private bank of the private bank of the private bank of the private bank of the private bank of the private bank of the private bank of the private bank of the private bank of the private bank of the private bank of the private.A prohibited order was issued.
-
-The commission said that 16 fixed deposits and three insurance policies were banned under the money laundering.
-
-...
-
-[Data](articles/93901e8e.json)
-
-[Extended Data](ext_articles/93901e8e.ext.json)
-
----
-
-### The intermediate season is going to plant
-
-*2024-07-04 19:43:08* · [`adalk`](https://www.ada.lk/breaking_news/අතරමැදි-කන්නයේ-මුං-ඇට-වගා-කිරීමට-යයි/11-410621) · `si`
-
-The government plans to start the Yala season immediately after its completion, focusing on cultivating 63,750 acres. This includes 40,000 acres for irrigation, 16,250 acres under Mahaweli, and 7,500 acres across inter-provinces. The Department of Agriculture aims to meet the national demand for green gram seeds, which stands at 20,000 metric tons annually, by utilizing land capable of covering 255,000 hectares.
-
-🟩
-
-The Government has decided to commence the Yala season as soon as the Yala season was completed and 63,750 acres.
-
-The 40,000 acres of irrigation and 16,250 acres of acres under Mahaweli and 7,500 acres under the Inter-provinces are planned to cultivate.
-
-Speaking further Mr. Mahinda Amaraweera has informed the Minister Mahinda Amaraweera by the leader of the Department of Agriculture, the farmers in charge of the green gram seeds.
-
-As the Department of Agriculture points out, the annual green gram requirement in the country is 20,000 metric tons and the size is capable of completing 255,000 hectares.
-
-◼️
-
-[Data](articles/ee15aabd.json)
-
-[Extended Data](ext_articles/ee15aabd.ext.json)
-
----
-
-### SC to hear petition seeking to delay Presidential Election on Monday
-
-*2024-07-04 19:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100294/sc-to-hear-petition-seeking-to-delay-presidential-election-on-monday-) · `en`
-
-A five-judge bench of the Supreme Court, headed by the Chief Justice, is set to hear the Fundamental Rights (FR) petition filed by businessman C.D. Lenawa, seeking to delay the announcement of the presidential election, on Monday (08).
-
-The petition requests that an interim order be issued to prevent the calling of the presidential election within the currently scheduled period, until the Supreme Court provides its interpretation on the date of the poll.
-
-◼️
-
-[Data](articles/b04c00d5.json)
-
-[Extended Data](ext_articles/b04c00d5.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 00:34:57**
+As of **2024-07-06 00:51:28**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,871 (100.0%) of 33,872 articles have been extended.
+33,872 (100.0%) of 33,872 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### 1403 சந்தேக நபர்கள் கைது
+### 1403 suspects arrested
 
 *2024-07-06 00:10:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1403-சந்தேக-நபர்கள்-கைது/175-339930) · `ta`
 
-யுக்திய விசேட சுற்றிவளைப்பு நடவடிக்கையின் இரண்டாம் கட்ட நடவடிக்கையின் போது 24 மணித்தியாலங்களுக்குள் 1403 சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+In the second phase of the Special Roundtable Survey, 1403 suspects were arrested within 24 hours, with 57 held for further investigation.
 
-அவர்களில் 57 பேர் மேலதிக விசாரணைகளுக்காகத் தடுப்புக் காவலில் வைக்கப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் சிரேஷ்ட பிரதி காவல்துறைமா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+🟩
+
+1403 suspects have been arrested within 24 hours during the second phase of the Special Roundtable Survey.
+
+Police Media Spokesperson Senior Deputy Inspector General of Police Nihal Talduwa said that 57 of them have been detained for further investigations.
 
 ◼️
 
 [Data](articles/7d143b1c.json)
+
+[Extended Data](ext_articles/7d143b1c.ext.json)
 
 ---
 

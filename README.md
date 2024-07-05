@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 15:53:50**
+As of **2024-07-05 16:06:44**
 
 ## Newspaper Stats
 
-*Scraped **33,825** Articles*
+*Scraped **33,827** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,889
 economynextcom | 1,986
 dailyftlk | 2,100
 adalk | 3,023
-adaderanalk | 3,865
-tamilmirrorlk | 4,004
+adaderanalk | 3,866
+tamilmirrorlk | 4,005
 dailymirrorlk | 4,733
 virakesarilk | 5,303
 adaderanasinhalalk | 5,608
@@ -26,47 +26,113 @@ adaderanasinhalalk | 5,608
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,823 (100.0%) of 33,825 articles have been extended.
+33,825 (100.0%) of 33,827 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### ජනාධිපතිවරණය කල් දමන්නයි ඉල්ලූ පෙත්සමට එරෙහිව අතරමැදි පෙත්සම් කිහිපයක්
+### Three intervening petitions filed against FR seeking to delay presidential poll
+
+*2024-07-05 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100313/three-intervening-petitions-filed-against-fr-seeking-to-delay-presidential-poll) · `en`
+
+Three petitions for intervention have been filed with regard to the Fundamental Rights (FR) petition recently filed by businessman C.D. Lenawa seeking to delay the announcement of the presidential election, until the Supreme Court delivers its interpretation on the date of the Presidential poll.
+
+The petitions for intervention were filed by the National People’s Power (NPP), Wasantha Mudalige of the Inter-University Students’ Federation (IUSF) and the Samagi Jana Balawegaya (SJB), Ada Derana reporter said.
+
+The NPP Parliamentarian Vijitha Herath, who is one of the petitioners, has sought a court order to dismiss the relevant petition without taking up for consideration.
+
+A five-judge bench of the Supreme Court, headed by the Chief Justice, is set to hear the FR petition filed by businessman C.D. Lenawa, seeking to delay the announcement of the presidential election, on Monday (08).
+
+...
+
+[Data](articles/0ca8d8f6.json)
+
+---
+
+### TIN நம்பர் கிடைத்தால் கட்டாயம் வரி செலுத்த வேண்டுமா?
+
+*2024-07-05 15:37:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/TIN-நம்பர்-கிடைத்தால்-கட்டாயம்-வரி-செலுத்த-வேண்டுமா/175-339914) · `ta`
+
+வரி செலுத்துவோர் அடையாள இலக்கம் (TIN) பெற்றுள்ளவர்கள் வரி செலுத்துமாறு உள்நாட்டு இறைவரித் திணைக்களத்திலிருந்த கடிதங்கள் அல்லது குறுஞ்செய்திகள் வந்தாலும், அவர்களின் மாத வருமானம் 100,000 ரூபாயை தாண்டவில்லை என்றால் அது தொடர்பாக ஒரு கடிதம் மூலமாக அறிவிப்பதன் மூலம் வரி செலுத்துவதைத் தவிர்க்க முடியும் என நிதி இராஜாங்க அமைச்சர் கலாநிதி ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்தார்.
+
+இது தொடர்பாக தேசிய இறைவரி திணைகளத்தின் அருகிலுள்ள கிளை அலுவலகத்துக்குத் தெரிவிக்கலாம் என்று அமைச்சர் கூறினார். R
+
+◼️
+
+[Data](articles/6885c258.json)
+
+---
+
+### Several intermediate petitions against petition demanding presidential election
 
 *2024-07-05 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198514) · `si`
 
-දැනට සැලසුම් කර තිබෙන පරිදි ජනාධිපතිවරණය පැවැත්වීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සම විභාගයට නොගෙන නිෂ්ප්‍රභ කරන ලෙස ඉල්ලා  ශ්‍රේෂ්ඨාධිකරණය හමුවේ අතරමැදි පෙත්සම් කිහිපයක් ඉදිරිපත් කර තිබේ.
+Several parties, including the Supreme Court and various unions, have filed intermediate petitions challenging a petition calling for a presidential election due to constitutional amendments reducing the presidential term from 6 to 5 years. They argue that the current president's term ends this year, necessitating an election. Petitioners accuse the opposing party of misleading the court and failing to justify their request, asking the Supreme Court to dismiss the petition. Additionally, an entrepreneur named Mr. Leena has called for a prevention order regarding the presidential election until the president's term officially ends.
 
-සමගි ජන බලවේගයේ මහලේකම් රංජිත් මද්දුමබණ්ඩාර,  ජාතික   ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන විජිත හේරත්, ආචාර්ය හරිනි අමරසූරිය සහ සමාජවාදී තරුණ සංගමයේ එරංග ගුණසේකර විසින් පෙත්සම් ඉදිරිපත් කර තිබුණි.
+🟩
 
-ඊට අමතරව අන්තර් විශ්වවිද්‍යාල ශිෂ්‍යබල මණ්ඩලයේ හිටපු කැඳවුම්කරු වසන්ත මුදලිගේ ඇතුළු පිරිසක් විසින් ද මෙම අතරමැදි පෙත්සමක් ඉදිරිපත් කර ඇත.
+The petition filed by the Supreme Court has submitted several intermediate petitions in the forest demanding the petition filed by the presidential election.
 
-අතරමැදි පෙත්සම්කරුවන් කියා සිටින්නේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනය 03 පරිච්ඡේදය තුළින් ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 30(2) ව්‍යවස්ථාව සංශෝධනය කර තිබෙන බවත් ඒ අනුව ජනාධිපතිවරයාගේ නිල කාලය වසර 06 සිට වසර 05 ක් දක්වා අඩු කර තිබෙන බවය.
+Petitions were presented by the General Secretary Ranjith Madduma Bandara, General Secretary of the Jathika Force, Dr. Weli Amarasuriya and the Socialist Youth Union, Erangin Gunasekera of the Socialist Youth Union.
 
-ඒ අනුව ආණ්ඩුක්‍රම ව්‍යවස්ථාව ප්‍රකාරව වත්මන් ජනාධිපතිවරයාගේ නිල කාලය මෙම වසරේ අවසන් වන බවත් මෙම වසරේ ජනාධිපතිවරණයක් පැවැත්වීම අත්‍යවශ්‍ය බවත් ඔවුන් පෙන්වාදී තිබේ.
+In addition, the former convener of the Inter University Accurate Board has presented an intermediate petition by Divantha Mudali.
+
+The intermediate petitioners claim that the Constitution of the 19th Amendment of the Constitution has been amended to the constitution of the Constitution, which has been reduced to 5 years to 5 years.
+
+According to the Constitution, the present president's term of present will end this year and is essential to conduct a presidential election this year.
+
+They have accused the petitioner had taken steps to mislead the petitioner in the court to submit the presidential election.
 
 ...
 
 [Data](articles/6a7a43cd.json)
 
+[Extended Data](ext_articles/6a7a43cd.ext.json)
+
 ---
 
-### නෙදර්ලන්තයෙන් රැගෙන ආ පොලිස් නිල සුනඛයින්
+### Official N officials of the police from the Netherlands
 
 *2024-07-05 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198513) · `si`
 
-පොලිස් නිල සුනඛ කොට්ඨාසය සඳහා ආනයනය කළ සුනඛයින් 35 දෙනෙකු අද (05) අලුයම නෙදර්ලන්තයේ සිට කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළ වෙත රැගෙන එනු ලැබීය.
+Thirty-five dogs, including Belgian Malinois, German Shepherds, and English Spaniels, were imported from the Netherlands to Sri Lanka's Katunayake International Airport today. These dogs, ranging from 8 to 12 months old, are part of a shipment from a private livestock farm.
 
-නෙදර්ලන්තයේ K10 Workingdogs නැමැති පෞද්ගලික සත්ත්ව ගොවිපළෙන් මෙම සුනඛයින් ආනයනය කර ඇති අතර ඒ සඳහා වැයකර ඇති මුදල් රුපියල් මිලියන 58කි.
+🟩
 
-මෙම සුනඛයින් අතර, බෙල්ජියම් මැලිනොයිස් (Belgian Malinois) වර්ගයේ සුනඛයන් 13 දෙනෙකු, ජර්මන් ෂෙපර්ඩ් (German Shepherd) වර්ගයේ සුනඛයන් 12 දෙනෙකු සහ ඉංග්ලිෂ් ස්පැනියෙල් (English Spaniel) වර්ගයේ සුනඛයන් 10 දෙනෙකු ඇතුළු සුනඛයින් 35 දෙනෙකු සිටියි.
+35 imported dogs were brought to the Katunayake International Airport this morning.
 
-මාස 8ත් 12ත් අතර වයස්වල පසුවන මෙම සුනඛයින් අතරින් 21 දෙනෙකු ගැහැණු සතුන් ය.‍
+These dogs have been imported from the private livestock farm, including the Netherlands K10s WorkingDogs.
+
+Among these dogs, 13 Belgian Malinois (Belgian Malinois) types of German Shepard (german shepperd) types of English Spaniel and English Spaniel (English Spaniel) include 10 dogs.
+
+Of these, 21 of these dogs, between 8 and 12 months are female.
 
 ◼️
 
 [Data](articles/5b388d0e.json)
+
+[Extended Data](ext_articles/5b388d0e.ext.json)
+
+---
+
+### Sampanthan's people in Trincomalee
+
+*2024-07-05 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/187753) · `ta`
+
+Rajavarothayam Sampanthan, a former parliamentarian from Trincomalee, arrived at the Chinese Airport in Trincomalee before being moved to his home for public tributes.
+
+🟩
+
+The late Trincomalee District Parliamentarian Rajavarothayam Sampanthan reached the Chinese Airport in Trincomalee.
+
+He has been taken to his residence in Trincomalee and is currently being held for public tribute.
+
+◼️
+
+[Data](articles/771ad956.json)
+
+[Extended Data](ext_articles/771ad956.ext.json)
 
 ---
 
@@ -93,26 +159,6 @@ Speaking further Mr. Dr. Nandalal Weerasinghe,
 [Data](articles/99cc66c8.json)
 
 [Extended Data](ext_articles/99cc66c8.ext.json)
-
----
-
-### Sampanthan's people in Trincomalee
-
-*2024-07-05 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/187753) · `ta`
-
-Rajavarothayam Sampanthan, a former parliamentarian from Trincomalee, arrived at the Chinese Airport in Trincomalee before being moved to his home for public tributes.
-
-🟩
-
-The late Trincomalee District Parliamentarian Rajavarothayam Sampanthan reached the Chinese Airport in Trincomalee.
-
-He has been taken to his residence in Trincomalee and is currently being held for public tribute.
-
-◼️
-
-[Data](articles/771ad956.json)
-
-[Extended Data](ext_articles/771ad956.ext.json)
 
 ---
 
@@ -2249,43 +2295,5 @@ Once the parate is abolished as proposed, the borrowers who are repaying satisfa
 [Data](articles/dc032694.json)
 
 [Extended Data](ext_articles/dc032694.ext.json)
-
----
-
-### Finance Ministry on Sri Lanka’s International Sovereign Bond Restructuring
-
-*2024-07-05 00:58:39* · [`dailyftlk`](https://www.ft.lk/opinion/Finance-Ministry-on-Sri-Lanka-s-International-Sovereign-Bond-Restructuring/14-763850) · `en`
-
-The Joint Working Framework negotiated with the AHG provides a fair balance of risk sharing and sufficiently addresses the concerns of Sri Lanka and the requirements of bondholders. The MLB structure, following the adjustments made through the evolution of the proposed instrument, enables the appropriate sharing of upside between creditors and the debtor, whilst also ensuring that in this process, the debt sustainability of the debtor sovereign is not compromised. These terms require formal confirmation by the Secretariat of the Official Creditor Committee and the IMF staff in order to confirm conformity with comparability of treatment requirements and compliance with Sri Lanka’s IMF program debt sustainability targets
-
-The negotiated Joint Working Framework enables a fair sharing of upside or downside between creditors and Sri Lanka in case of an economic over-performance or under-performance by Sri Lanka
-
-...
-
-[Data](articles/24c9293b.json)
-
-[Extended Data](ext_articles/24c9293b.ext.json)
-
----
-
-### Actor Taman Kumar starrer Burst Look release of 'Park'
-
-*2024-07-05 00:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/187689) · `ta`
-
-Taman Kumar stars in "Burst Look," directed by D.K., known for thrillers mixed with suspense, horror, and comedy. The film, produced by Akshaya Movie Makers, features a cast including Swetha Torathi, Yogi Ram, and others. Composer V. Prakash congratulates the team. Set in a park, the story unfolds with humor and scares, aiming for a release in August.
-
-🟩
-
-Burst Look of 'Park', which plays the lead role in the story of actor Taman Kumar, who is famous for his Tamil fans through 'Ayodhya' and 'Odi Nadi'.. This is a composer and actor.. V.. Prakash has released and congratulated the film crew.
-
-Director d. K. Taman Kumar, Swetha Torathi, Yogi Ram, Lion E.. Nataraj, Black Pandi, Ranjana Nachiyar, Karate Raja and many others have been composed by CV Hamara.. Akshaya Movie Makers Film Company. Nataraj has produced.
-
-Commenting on the film, the director said, “The story of the film is being created as a story in a park. The screenplay is set as a thriller mixed with suspense+ horror+ comedy+. Ghost and fear in the first half of jokes and the second half. The shooting of the film is now over and the post -shooting technical work is underway. We are planning to release at the filmmaker in August. ”
-
-◼️
-
-[Data](articles/9fa397a4.json)
-
-[Extended Data](ext_articles/9fa397a4.ext.json)
 
 ---

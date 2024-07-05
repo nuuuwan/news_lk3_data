@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 01:19:45**
+As of **2024-07-06 01:35:27**
 
 ## Newspaper Stats
 
-*Scraped **33,872** Articles*
+*Scraped **33,887** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 333
 newsfirstlk | 363
 islandlk | 1,889
 economynextcom | 1,997
-dailyftlk | 2,100
+dailyftlk | 2,115
 adalk | 3,028
 adaderanalk | 3,875
 tamilmirrorlk | 4,009
@@ -26,11 +26,73 @@ adaderanasinhalalk | 5,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,872 (100.0%) of 33,872 articles have been extended.
+33,872 (100.0%) of 33,887 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### Bogollagama calls upon Sri Lankan diaspora in UK to foster development through reconciliation
+
+*2024-07-06 00:40:18* · [`dailyftlk`](https://www.ft.lk/news/Bogollagama-calls-upon-Sri-Lankan-diaspora-in-UK-to-foster-development-through-reconciliation/56-763918) · `en`
+
+Sri Lanka High Commissioner to the United Kingdom, Rohitha Bogollagama joined “The Global Unity Dinner (GUD)”, an annual event spearheaded by Regent Group at The Dorchester Hotel on 3 July.
+
+The Global Unity Dinner serves as a focal point for encouraging unity, peace, and understanding across different nations and communities. The event was hosted by Regent Group CEO and Co-Founder Dr. Selva Pankaj, a diverse educational group based in London which offers education, skills and training development as well as consulting services to both the private and public sectors.
+
+...
+
+[Data](articles/e0da0b18.json)
+
+---
+
+### Madurika Joseph Weninger assumes duties as first Sri Lankan Ambassador to Romania
+
+*2024-07-06 00:39:38* · [`dailyftlk`](https://www.ft.lk/news/Madurika-Joseph-Weninger-assumes-duties-as-first-Sri-Lankan-Ambassador-to-Romania/56-763917) · `en`
+
+The First Resident Ambassador of Sri Lanka to Romania Mariez Enid Madurika Joseph Weninger assumed duties on 2 July 2024 at the Embassy of Sri Lanka in Bucharest. She was received on arrival at the Henri Coanda International Airport in Bucharest by a special representative from the Protocol Division of the Romanian Ministry of Foreign Affairs.
+
+Addressing the Embassy staff, Ambassador Weninger emphasised the importance of working as a team to advance national interests and the welfare of Sri Lankans, while also enhancing the friendly relations between Sri Lanka and Romania.
+
+Ambassador Madurika Weninger joined the Sri Lanka Foreign Service (SLFS) in 1998 and served as the Consul General of Sri Lanka in Frankfurt, Germany. Immediately prior to her appointment to Romania, she held the position of Additional Secretary, Ocean Affairs, Environment and Climate Change at the Ministry of Foreign Affairs of Sri Lanka.
+
+...
+
+[Data](articles/71aa18e1.json)
+
+---
+
+### High Commissioner to Maldives Ranga Goonawardena presents credentials
+
+*2024-07-06 00:38:32* · [`dailyftlk`](https://www.ft.lk/news/High-Commissioner-to-Maldives-Ranga-Goonawardena-presents-credentials/56-763916) · `en`
+
+The newly appointed High Commissioner of Sri Lanka to the Republic of Maldives Ranga Goonawardena presented his credentials to the President of Maldives Dr. Mohamed Muizzu on 1 July at the President’s Office in Malé.
+
+The Sri Lankan High Commissioner received a ceremonial welcome that included a guard of honour and a traditional cultural procession “Haiykolhu” performed by the Maldives National Defence Force (MNDF). The High Commissioner’s spouse Ishani Goonawardena and Minister Counsellor of the High Commission of Sri Lanka in Malé D. Amanulla were present during the presentation of credentials.
+
+Following the Credentials ceremony, High Commissioner Goonawardena had an audience with President Muizzu. During the discussion, the Maldivian President noted that this was the first occasion that he received credentials from a High Commissioner since assuming the Presidency. The President expressed his pleasure at receiving the first credentials from the Sri Lankan High Commissioner.
+
+...
+
+[Data](articles/37f641ea.json)
+
+---
+
+### Ministerial Consultative Committee approves Orders containing code of conduct for JPs
+
+*2024-07-06 00:37:54* · [`dailyftlk`](https://www.ft.lk/news/Ministerial-Consultative-Committee-approves-Orders-containing-code-of-conduct-for-JPs/56-763915) · `en`
+
+Regulations for the Justice of the Peace (appointments, suspensions, cancellation and code of conduct) by the Justice, Prisons Affairs and Constitutional Reforms Minister under the Judicature Act No. 2 of 1978 received the approval of the Ministerial Consultative Committee on Justice, Prisons Affairs and Constitutional Reforms.
+
+The said approval was granted at the Ministerial Consultative Committee on Justice, Prisons Affairs and Constitutional Reforms held recently in Parliament Chaired by Dr. Wijeyadasa Rajapakshe, PC.
+
+The purpose of the said Orders is to promote moral and ethical conduct among justices of the peace to effectively administer justice and eliminate opportunities for corrupt practices.
+
+...
+
+[Data](articles/a060e206.json)
+
+---
 
 ### 1403 suspects arrested
 
@@ -53,6 +115,174 @@ Police Media Spokesperson Senior Deputy Inspector General of Police Nihal Talduw
 ---
 
 ### 2024-07-05 (Friday)
+
+### EDB leads industry and academia collaboration to improve R&D for export market in construction, power and energy sectors
+
+*2024-07-05 23:27:53* · [`dailyftlk`](https://www.ft.lk/business/EDB-leads-industry-and-academia-collaboration-to-improve-R-D-for-export-market-in-construction-power-and-energy-sectors/34-763914) · `en`
+
+The Sri Lanka Export Development Board (EDB, in collaboration with the Engineering Faculty of the University of Moratuwa (UoM), has launched a new program to integrate the construction, power and energy industries with university research projects to address challenging research questions with real-world applications.
+
+This program is planned for two years commencing from 2024 till the end of 2025 with the participation of selected companies. The innovative solutions developed through this program will enable the companies to compete in the international markets. This program will also enhance the quality of construction related and power and energy services of Sri Lanka and will lead to generate more foreign exchange earnings to the country.
+
+...
+
+[Data](articles/8d165980.json)
+
+---
+
+### Ninth ‘Construction Power and Energy Expo 2024’ kicks off at BMICH
+
+*2024-07-05 23:27:16* · [`dailyftlk`](https://www.ft.lk/business/Ninth-Construction-Power-and-Energy-Expo-2024-kicks-off-at-BMICH/34-763913) · `en`
+
+Sri Lanka’s most focused construction, interior products, lighting, power and energy exhibition – ‘Construction Power and Energy Expo 2024’ kicked off yesterday at the BMICH. It will conclude On Sunday.
+
+Organiser Lanka Exhibition and Conference Services (LECS) said the ‘Construction Power and Energy Expo’ is Sri Lanka’s premier exhibition in the construction, interior products, power, and energy-related sectors. With its eighth successive year, the expo provides a comprehensive platform for industry stakeholders, service providers, and exhibitors to showcase their products and services, forge valuable connections, and drive industry innovation.
+
+...
+
+[Data](articles/1e93ed77.json)
+
+---
+
+### Hayley’s Kelani Valley Plantations represents Sri Lanka at 10th World Water Forum in Bali
+
+*2024-07-05 23:26:18* · [`dailyftlk`](https://www.ft.lk/business/Hayley-s-Kelani-Valley-Plantations-represents-Sri-Lanka-at-10th-World-Water-Forum-in-Bali/34-763912) · `en`
+
+Hayleys Plantations Sector Head Dr. Roshan Rajadurai (far right), speaking during the Executive Roundtable Dialogue at the 10th World Water Forum
+
+Hayleys Plantations Sector Head Dr. Roshan Rajadurai, speaking during the Executive Roundtable Dialogue at the 10th World Water Forum
+
+Hayleys Plantations Sector Head and Kelani Valley Plantations PLC (KVPL) Managing Director Dr. Roshan Rajadurai represented Sri Lanka at the recently concluded 10th World Water Forum held in Bali.
+
+During the esteemed Side Event – Executive Roundtable Dialogue titled ‘Flowing Forward Faster: Best Practices in Corporate Water Stewardship’, Dr. Rajadurai shared KVPL’s innovative strategies in water management and underscored its commitment to sustainable water use and preservation.
+
+His insights highlighted the essence of ‘The CEO Water Mandate’, to which Hayleys and Kelani Valley Plantations PLC are proud signatories.
+
+...
+
+[Data](articles/e1a36fe4.json)
+
+---
+
+### SLASSCOM and IIT Madras Pravartak forge strategic partnership to boost startup ecosystem in country
+
+*2024-07-05 23:25:17* · [`dailyftlk`](https://www.ft.lk/business/SLASSCOM-and-IIT-Madras-Pravartak-forge-strategic-partnership-to-boost-startup-ecosystem-in-country/34-763911) · `en`
+
+SLASSCOM and IIT Madras Pravartak have inked a landmark Memorandum of Understanding (MoU) aimed at enhancing collaboration and fostering innovation in Sri Lanka’s startup ecosystem.
+
+The agreement was facilitated by Dr. Shankar Raman from IIT Madras Pravartak and SLASSCOM Chairman Jehan Perinpanayagam, Rajendra Moortha and SLASSCOM Vice Chair Nishan Mendis.
+
+...
+
+[Data](articles/07bc2ffc.json)
+
+---
+
+### Lumala makes debut at International Industry Expo 2024
+
+*2024-07-05 23:24:24* · [`dailyftlk`](https://www.ft.lk/business/Lumala-makes-debut-at-International-Industry-Expo-2024/34-763910) · `en`
+
+In its pursuit to enhance environmental health and inspire an active lifestyle throughout the Sri Lankan community, City Cycle Industries Manufacturing Ltd., also known as Lumala, recently participated at the International Industry Expo 2024, organised by the Ministry of Industries (MOI) and the Industrial Development Board (IDB).
+
+One of the most sought after events in the country, the International Industry Expo 2024, held from 19 to 23 June at the BMICH, brought together tens of hundreds of exhibitors from diverse industry sectors, showcasing their products and innovations to visitors from over 20 countries.
+
+Lumala had a highly successful debut at the expo, making strides in bringing some of the most environmental-friendly, cost-efficient, smart mobility solutions as opposed to the conventional ones. For instance, their Voltage Edition e-bikes can go more than 100 km with pedal assistance on a single charge, and more than 60 km when fully charged and going at full power.
+
+...
+
+[Data](articles/f7d9e9b6.json)
+
+---
+
+### The Global South sees Five Principles of Peaceful Coexistence as relevant and important norm
+
+*2024-07-05 23:22:26* · [`dailyftlk`](https://www.ft.lk/columns/The-Global-South-sees-Five-Principles-of-Peaceful-Coexistence-as-relevant-and-important-norm/4-763909) · `en`
+
+Seven decades ago, the late Chinese Premier Zhou Enlai first put forward the Five Principles of Peaceful Coexistence namely mutual respect for sovereignty and territorial integrity, mutual nonaggression, mutual noninterference in each other’s internal affairs, equality and mutual benefit, and peaceful coexistence.
+
+On 28 June 2024, China proudly commemorated its 70th anniversary for successfully carrying forward these principles, which has been seen by the world as an inevitable historic development and milestone of the new world of international relations.
+
+Chinese President Xi Jinping delivered an important speech at the conference. During the address, President Xi said that “Five Principles of Peaceful Coexistence have become open, inclusive, and universally applicable basic norms for international relations and fundamental principles of international law. They have made indelible historic contributions to the cause of human progress.”
+
+...
+
+[Data](articles/5ed1285d.json)
+
+---
+
+### Sabry in Japan highlights Sri Lanka’s commitment to women’s participation across all societal levels
+
+*2024-07-05 23:20:28* · [`dailyftlk`](https://www.ft.lk/opinion/Sabry-in-Japan-highlights-Sri-Lanka-s-commitment-to-women-s-participation-across-all-societal-levels/14-763908) · `en`
+
+Expresses gratitude to Japan for important supportive role played in external debt restructuring process as a co-chair of Official Creditor Committee
+
+Foreign Affairs Minister Ali Sabry this week in Japan underscored the country’s commitment to enhancing women’s participation across all societal sectors.
+
+He made these remarks during his official visit to Japan from 1 to 7 July, when he asserted the importance of the Women, Peace, and Security (WPS) framework, highlighting its role in achieving sustainable international peace, security, and development.
+
+“I look forward to sharing perspectives with Minister Kamikawa on various mutual interests, particularly on disarmament, non-proliferation, ongoing conflicts, and rising tensions,” Sabry stated during a press briefing. He praised Japan’s support in developing Sri Lanka’s National Action Plan (NAP) on Women, Peace, and Security, launched in March 2023.
+
+...
+
+[Data](articles/8fd2c601.json)
+
+---
+
+### Was Sri Lanka’s COVID-19 response a success?
+
+*2024-07-05 23:10:51* · [`dailyftlk`](https://www.ft.lk/opinion/Was-Sri-Lanka-s-COVID-19-response-a-success/14-763902) · `en`
+
+The systemic stigmatisation of minority religious groups during a global health crisis not only violates medical ethics but also exacerbates societal divisions, especially in a country scarred by decades of civil war
+
+Sri Lanka initially stood out as a success story in South Asia during the early stages of the pandemic in 2020. However, this success wasn’t merely luck or a reflection of a robust health system. Instead, it was largely attributed to the impending parliamentary elections. These elections, originally slated for 25 April 2020, became a significant factor in the Government’s response to the crisis. With a new Executive President elected on 16 November 2019, and the dissolution of Parliament on 2 March 2020, the timing of the pandemic’s emergence and the subsequent actions taken by the Government were intricately tied to political considerations
+
+...
+
+[Data](articles/5252f0ab.json)
+
+---
+
+### Debt restructuring and current economic trends: Discussion with CB Governor and Treasury Secretary
+
+*2024-07-05 23:06:32* · [`dailyftlk`](https://www.ft.lk/opinion/Debt-restructuring-and-current-economic-trends-Discussion-with-CB-Governor-and-Treasury-Secretary/14-763901) · `en`
+
+Central Bank Governor Dr. Nandalal Weerasinghe gestures during the interview conducted by President’s Media Division Director General Dhanushka Ramanayake whilst Finance Ministry Secretary Mahinda Siriwardana looks on
+
+Following are excerpts of a special discussion on “Debt restructuring and current economic trends” with Central Bank Governor Dr. Nandalal Weerasinghe and Finance Ministry Secretary Mahinda Siriwardana, moderated by President’s Media Division Director General Dhanushka Ramanayake.
+
+Q:  President Ranil Wickremesinghe accepted this responsibility at a time when political leaders did not come forward to save the country from this crisis. Today, the economy has reached a certain trend. Even though debt restructuring has brought good news to Sri Lanka by stabilising the economy to a certain extent, it is believed that the expected results have not been achieved. As the Governor of the Central Bank, what is your opinion on this?
+
+...
+
+[Data](articles/9122e3a9.json)
+
+---
+
+### Beyond the floods and droughts: Sri Lanka’s journey to sustainability
+
+*2024-07-05 23:03:05* · [`dailyftlk`](https://www.ft.lk/columns/Beyond-the-floods-and-droughts-Sri-Lanka-s-journey-to-sustainability/4-763900) · `en`
+
+Sri Lanka is considered a hotspot for climate change impacts. Over the past 20 years, the country has experienced frequent natural disasters, predominantly floods and droughts. According to the Climate Risk Index 2021, which measures a country’s exposure and vulnerability to extreme weather events, Sri Lanka ranks 30th out of 180 countries in terms of vulnerability.
+
+...
+
+[Data](articles/21813e48.json)
+
+---
+
+### Transforming enterprise risk management for sustainable and climate-friendly businesses
+
+*2024-07-05 22:53:27* · [`dailyftlk`](https://www.ft.lk/columns/Transforming-enterprise-risk-management-for-sustainable-and-climate-friendly-businesses/4-763899) · `en`
+
+Entrepreneurs and businesses need to transform their risk management frameworks and proactively adapt to a changing climate
+
+In an increasingly complex and convoluted landscape of risks, entrepreneurs and businesses need to transform their risk management frameworks and proactively adapt to a changing climate. Especially in climate-vulnerable developing countries such as Sri Lanka, climate-smart enterprise risk management (ERM) is both a necessity and an opportunity. Building on traditional cultural heritage, rich natural resources, and new technologies, enterprises can turn sustainable, climate-friendly, and resilient business models into unique advantages and become part of emerging green or blue economies.
+
+...
+
+[Data](articles/1a9eed92.json)
+
+---
 
 ### The President should hold elections on the appropriate date - President
 
@@ -1993,349 +2223,5 @@ Our task is to renew this nation, the ideas that keep together, nationally renew
 [Data](articles/6e3d24c5.json)
 
 [Extended Data](ext_articles/6e3d24c5.ext.json)
-
----
-
-### Court suspends Keheliya and family’s assets worth Rs. 97 mn for 3 months
-
-*2024-07-05 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100304/court-suspends-keheliya-and-familys-assets-worth-rs-97-mn-for-3-months) · `en`
-
-The Colombo High Court has suspended fixed deposits and insurance policies to the tune of Rs. 97 million belonging to former Health Minister Keheliya Rambukwella and fiver of his close relatives for a period of 03 months, Ada Derana reporter said.
-
-This order was issued by Colombo High Court Judge Manjula Thilakaratne this morning (05), after taking into consideration the facts presented by the CIABOC.
-
-The CIABOC has also requested the court to suspend the aforementioned assets of Keheliya and his family members with regard to an ongoing investigation.
-
-Accordingly, the court ordered the relevant assets to be suspended until October 04, 2024, and ordered the CIABOC to report the progress of the investigations to the court on that date.
-
-The former Minister of Health is currently in remand custody in connection with his alleged complicity in the procurement of substandard human intravenous immunoglobulin (IVIG) vials.
-
-...
-
-[Data](articles/f7c51ec3.json)
-
-[Extended Data](ext_articles/f7c51ec3.ext.json)
-
----
-
-### 30 thousand rupees for sale in Jaffna
-
-*2024-07-05 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/187718) · `ta`
-
-A dairy product seller in Jaffna was fined 30,000 rupees after a health inspection found unsanitary conditions and improper storage of yogurt. The Public Health Inspector raided the facility, leading to the closure of the outlet pending health improvements.
-
-🟩
-
-The man who has been selling the dairy products in the neighboring area of ​​the Jaffna Nagar area has been imposed on the sale of yoghurt and the appropriate health practices, and the man who has operated the dairy products has been fined Rs 30 thousand.
-
-The milk manufacturing station was subjected to a sudden raid by the Public Health Inspector and a large amount of yogurt was kept for sale.
-
-In addition, it was also found that the sale of dairy products was not adopted at the outlet.
-
-A case was filed by the Public Health Inspector in the Jaffna Magistrate's Court.
-
-During the trial, the seller accepted the crime against him, and he was sentenced to 30 thousand rupees.
-
-It was also ordered to close the outlet and shut down the outlet until the health reduction in the stall was addressed.
-
-◼️
-
-[Data](articles/b133d9ed.json)
-
-[Extended Data](ext_articles/b133d9ed.ext.json)
-
----
-
-### Police bolster security at SLFP Headquarters
-
-*2024-07-05 10:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100303/police-bolster-security-at-slfp-headquarters) · `en`
-
-Police have increased security near the Sri Lanka Freedom Party (SLFP) Headquarters located on Darley Road in Colombo.
-
-The heightened security measures follow a request from the party’s General Secretary, Dayasiri Jayasekara, for SLFP members to gather at the headquarters this morning (05).
-
-Sources indicate that the decision was based on concerns about the potential disturbances at the location.
-
-◼️
-
-[Data](articles/4b0e9e16.json)
-
-[Extended Data](ext_articles/4b0e9e16.ext.json)
-
----
-
-### Keheliya family bank accounts and life insurance policies
-
-*2024-07-05 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198503) · `si`
-
-The High Court has temporarily frozen six fixed deposits and financial policies worth Rs. 97 million linked to former Health Minister Keheliya Rambukwella and his family members, including his wife and three daughters.
-
-🟩
-
-The court today (05) has been suspended for the suspension of 6 fixed deposits and financial policies of former Health Minister Keheliya Rambukwella.
-
-The relevant order was issued by the High Court Judge Manjula Tilakaratne.
-
-It is said that the value of such fixed deposit accounts and life insurance policies is Rs. 97 million.
-
-The bank accounts and life insurance policies have been maintained by Keheliya Rambukwella, his wife, three daughters, and the husband of one daughter.
-
-◼️
-
-[Data](articles/a2b348ef.json)
-
-[Extended Data](ext_articles/a2b348ef.ext.json)
-
----
-
-### Massive fire
-
-*2024-07-05 10:22:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அக்குரணையில்-பாரிய-தீ/76-339900) · `ta`
-
-A massive fire erupted at a local restaurant this morning, disrupting transport on the Matale-Kandy road. Firefighters are on the scene.
-
-🟩
-
-The fire broke out this morning at a restaurant in the area, the fire department said.
-
-Transport activities on Matale - Kandy main road have been affected due to fire.
-
-◼️
-
-[Data](articles/71116cf1.json)
-
-[Extended Data](ext_articles/71116cf1.ext.json)
-
----
-
-### UK’s Labour sweeps to power as Sunak concedes election
-
-*2024-07-05 10:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100302/uks-labour-sweeps-to-power-as-sunak-concedes-election) · `en`
-
-Keir Starmer will be Britain’s next prime minister with his centre left Labour Party expected to win a huge majority in a parliamentary election, ending 14 years of often tumultuous Conservative government by trouncing Rishi Sunak’s party.
-
-With many results still to be announced from Thursday’s vote, centre-left Labour has already won more than 326 of the 650 seats in parliament, with an exit poll suggesting it would capture about 410.
-
-On a humiliating night for Sunak, the Conservatives have so far only won 70 and were predicted to suffer the worst performance in the party’s long history with voters punishing them for a cost of living crisis, failing public services, and a series of scandals.
-
-“Tonight, people here and around the country have spoken and they’re ready for change, to end the politics of performance, a return to politics as public service,” Starmer said after winning his seat in London.
-
-“The change begins right here ... You have voted. It is now time for us to deliver.”
-
-...
-
-[Data](articles/54b29ebb.json)
-
-[Extended Data](ext_articles/54b29ebb.ext.json)
-
----
-
-### Acknowledges the defeat of Suneo
-
-*2024-07-05 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198502) · `si`
-
-Risshi accepts responsibility for the British Conservative Party's defeat in the national election, leading to Keir Starmer's appointment as Prime Minister. The Labour Party secures power, marking a significant shift in UK politics.
-
-🟩
-
-Risshi says he will accept the responsibility of the defeat of the British Constertive Party at the national election.
-
-Results of the Elections Soor
-
-Keir Starmer is due to be appointed as the British Prime Minister.
-
-It is noteworthy that the Labor Party had obtained the power of Britain.
-
-Addressing his support from London, Starmer, "the change is now on."
-
-◼️
-
-[Data](articles/419baee9.json)
-
-[Extended Data](ext_articles/419baee9.ext.json)
-
----
-
-### When the country burned about the country, the president is calling for the presidential election - Minister Sadasivam Jupiter
-
-*2024-07-05 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/187722) · `ta`
-
-State Minister Sadasivam Jupiter announced a mobile service launch in Batticaloa for land confirmation, part of the Land Reform Commission's efforts. This initiative comes ahead of the presidential election, where the President plans to address 20 lakh people. The event, attended by various officials including the Director General of the Land Reform Commission, marks progress in economic development and leadership roles during challenging times.
-
-🟩
-
-Prior to the upcoming presidential election, 20 lakh people are being carried out by the President. State Minister Sadasivam Jupiter has said that those who fled the country when they were burnt to the presidential election.
-
-The Mobile Service for the Eastern Province was launched in Batticaloa on Thursday (04) in order to provide a Urumana Land Confirmation program on the President's Special Workshop in the Eastern Province.
-
-The third mobile service of the National Program of the Land Reform Commission has been launched in Batticaloa, which resides in the land owned by the Land Reform Commission.
-
-The mobile service was held in accordance with the Land Reform Commission's Headquarters and Batticaloa District Office at the request of the Minister of State Sadasivam Jupiter.
-
-The inaugural event was held at the Devanayagam Hall, Batticaloa, Batticaloa and Trincomalee Districts, Batticaloa and Trincomalee Districts.
-
-...
-
-[Data](articles/867ba20f.json)
-
-[Extended Data](ext_articles/867ba20f.ext.json)
-
----
-
-### Grama Niladhari to release a teacher in Vavuniya
-
-*2024-07-05 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/187716) · `ta`
-
-A Grama Niladhari in Vavuniya, accused of deforestation and impersonation on social media, was arrested but later released on bail. The case involves allegations of phone threats and defamation, with investigations ongoing.
-
-🟩
-
-A Grama Niladhari who had been arrested on a fake face to a teacher in Vavuniya was arrested by a court on Thursday (04).
-
-A teacher at the Taranikkulam school in the Vavuniya Northern Education Zone has been exposed by the Rural Development Association in connection with the deforestation of the village officer in the support of the village officer.
-
-The victim has appealed to the President's Secretariat, the Ministry of Public Administration, the Ministry of Public Administration, the Ombudsman, the District Government Agent and the Divisional Secretary, and the Computer Utilization Unit has lodged a complaint with the Computer Utilities Division.
-
-The police investigated the complaint and found that the Facebook was of the Grama Niladhari.. In this case, the Vavuniya District Crime Prevention Unit has filed a case against the Grama Niladhari in connection with the threat of the telephone and the alleged slander in the fake face.
-
-...
-
-[Data](articles/ffd0119f.json)
-
-[Extended Data](ext_articles/ffd0119f.ext.json)
-
----
-
-### A stick to Chinese electronic vehicles
-
-*2024-07-05 09:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198501) · `si`
-
-The EU has increased taxes on Chinese electric vehicles to support local manufacturers, imposing rates between 17.4% and 37.6%. Import taxes remain at 10%, potentially raising Chinese EV prices in Europe significantly.
-
-🟩
-
-International media reports that the European Union has taken steps to increase tax on Chinese electrical vehicles.
-
-The decision was taken to protect the car manufacturer of the region with the objective of protecting the car manufacturer.
-
-Accordingly, each personage has been taxed to 17.4% to 37.6%.
-
-The 10% tax imposed as an import tax for all electronic vehicles imported from China remain unchanged.
-
-As a result, the prices of the Chinese Wildly in the European Union can increase significantly.
-
-◼️
-
-[Data](articles/f92188d6.json)
-
-[Extended Data](ext_articles/f92188d6.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 304.90/305.20 to US dollar
-
-*2024-07-05 09:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-304-90-305-20-to-us-dollar-171027/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 304.90/305.20 to the US dollar on Friday, while bond yields were broadly steady, and stocks opened 0.28 percent up, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.75/85 percent, from 10.70/85 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.80/85 percent.
-
-A bond maturing on 15.09.2029 was quoted stable at 11.95/12.05 percent.
-
-In equities, Colombo’s All Share Price Index opened 33.16 points higher at 11,959, while the S&P SL20 of more liquid stocks opened up at 0.60 percent or 21.05 points to 3,526.
-
-◼️
-
-[Data](articles/067680d5.json)
-
-[Extended Data](ext_articles/067680d5.ext.json)
-
----
-
-### Sampanthan's funeral was taken to Trincomalee
-
-*2024-07-05 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/187719) · `ta`
-
-Rajavarothayam Sampanthan, senior leader of the Sri Lanka Tamil State Party, had his funeral procession moved from Jaffna to Trincomalee via plane on Friday. The public tribute will occur over two days, concluding on Sunday.
-
-🟩
-
-Senior Leader of the Sri Lanka Tamil State Party Rajavarothayam Sampanthan's body was taken to Trincomalee by plane from Jaffna on Friday (05).
-
-Anjali was held at the father Selva Gallery in Jaffna on Thursday (04).
-
-Father Selva was taken by car this morning to Palali Airport and from there to Trincomalee.
-
-The public will be placed in tribute for two days in Trincomalee and will be held on Sunday.
-
-◼️
-
-[Data](articles/8b624e50.json)
-
-[Extended Data](ext_articles/8b624e50.ext.json)
-
----
-
-### New WB Country Director meets Sri Lankan President vows to back revival of economy
-
-*2024-07-05 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100301/new-wb-country-director-meets-sri-lankan-president-vows-to-back-revival-of-economy) · `en`
-
-The newly appointed World Bank Country Director for Sri Lanka, Nepal and Maldives David Sislen on Thursday called on President Rani Wickremesinghe and vowed to support the debt-trapped island nation’s journey towards prosperity.
-
-“WorldBank Vice President for the South Asia Region @MartinRaiser, Country Manager for Maldives and Sri Lanka, South Asia Chiyo Kanda and Senior Advisor to the President on Economic Affairs Dr R H S Samaratunga, also attended the meeting,” President’s Media Division said in a post on X.
-
-“Honored to have met President @RW_UNP. Impressed by Sri Lanka’s commitment to economic reforms. @WorldBank stands ready to support the nation’s journey towards prosperity,” Sislen posted on X.
-
-In April 2022, the island nation declared its first-ever sovereign default since gaining Independence from Britain in 1948. The unprecedented financial crisis led President Ranil Wickremesinghe’s predecessor Gotabaya Rajapaksa to quit office in 2022 amid civil unrest.
-
-...
-
-[Data](articles/2183409e.json)
-
-[Extended Data](ext_articles/2183409e.ext.json)
-
----
-
-### New WB Country Director meets President; vows to back revival of economy
-
-*2024-07-05 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100301/new-wb-country-director-meets-president-vows-to-back-revival-of-economy) · `en`
-
-The newly appointed World Bank Country Director for Sri Lanka, Nepal and Maldives David Sislen on Thursday called on President Rani Wickremesinghe and vowed to support the debt-trapped island nation’s journey towards prosperity.
-
-“WorldBank Vice President for the South Asia Region @MartinRaiser, Country Manager for Maldives and Sri Lanka, South Asia Chiyo Kanda and Senior Advisor to the President on Economic Affairs Dr R H S Samaratunga, also attended the meeting,” President’s Media Division said in a post on X.
-
-“Honored to have met President @RW_UNP. Impressed by Sri Lanka’s commitment to economic reforms. @WorldBank stands ready to support the nation’s journey towards prosperity,” Sislen posted on X.
-
-In April 2022, the island nation declared its first-ever sovereign default since gaining Independence from Britain in 1948. The unprecedented financial crisis led President Ranil Wickremesinghe’s predecessor Gotabaya Rajapaksa to quit office in 2022 amid civil unrest.
-
-...
-
-[Data](articles/61daed2c.json)
-
-[Extended Data](ext_articles/61daed2c.ext.json)
-
----
-
-### SLFP Headquarters will be strengthened
-
-*2024-07-05 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198500) · `si`
-
-Security measures are being enhanced at the SLFP headquarters in Colombo due to potential unrest. The General Secretary, Dayasiri Jayasekera, called for party members to gather there today.
-
-🟩
-
-Police have taken measures to protect the security of the SLFP headquarters on Dali Freedom in Dali Road, Colombo.
-
-The General Secretary of Sri Lanka Dayasiri Jayasekera had requested the SLFP members to come to their party headquarters this morning.
-
-Sources said that the decision has been made to have an upset situation at the site, sources said.
-
-◼️
-
-[Data](articles/d4b6be1a.json)
-
-[Extended Data](ext_articles/d4b6be1a.ext.json)
 
 ---

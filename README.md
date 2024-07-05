@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 02:19:52**
+As of **2024-07-06 02:04:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,885 (100.0%) of 33,887 articles have been extended.
+33,882 (100.0%) of 33,887 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -246,8 +246,6 @@ He made these remarks during his official visit to Japan from 1 to 7 July, when 
 
 [Data](articles/8fd2c601.json)
 
-[Extended Data](ext_articles/8fd2c601.ext.json)
-
 ---
 
 ### Was Sri Lanka’s COVID-19 response a success?
@@ -261,8 +259,6 @@ Sri Lanka initially stood out as a success story in South Asia during the early 
 ...
 
 [Data](articles/5252f0ab.json)
-
-[Extended Data](ext_articles/5252f0ab.ext.json)
 
 ---
 
@@ -279,8 +275,6 @@ Q:  President Ranil Wickremesinghe accepted this responsibility at a time when 
 ...
 
 [Data](articles/9122e3a9.json)
-
-[Extended Data](ext_articles/9122e3a9.ext.json)
 
 ---
 

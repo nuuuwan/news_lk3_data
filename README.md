@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 16:06:44**
+As of **2024-07-05 16:19:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,608
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,825 (100.0%) of 33,827 articles have been extended.
+33,827 (100.0%) of 33,827 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,19 +48,27 @@ A five-judge bench of the Supreme Court, headed by the Chief Justice, is set to 
 
 [Data](articles/0ca8d8f6.json)
 
+[Extended Data](ext_articles/0ca8d8f6.ext.json)
+
 ---
 
-### TIN நம்பர் கிடைத்தால் கட்டாயம் வரி செலுத்த வேண்டுமா?
+### Do you have to pay taxes if TIN Number is available?
 
 *2024-07-05 15:37:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/TIN-நம்பர்-கிடைத்தால்-கட்டாயம்-வரி-செலுத்த-வேண்டுமா/175-339914) · `ta`
 
-வரி செலுத்துவோர் அடையாள இலக்கம் (TIN) பெற்றுள்ளவர்கள் வரி செலுத்துமாறு உள்நாட்டு இறைவரித் திணைக்களத்திலிருந்த கடிதங்கள் அல்லது குறுஞ்செய்திகள் வந்தாலும், அவர்களின் மாத வருமானம் 100,000 ரூபாயை தாண்டவில்லை என்றால் அது தொடர்பாக ஒரு கடிதம் மூலமாக அறிவிப்பதன் மூலம் வரி செலுத்துவதைத் தவிர்க்க முடியும் என நிதி இராஜாங்க அமைச்சர் கலாநிதி ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்தார்.
+If you have a TIN, you can pay taxes via SMS from the Department of Internal Revenue. However, if your monthly income is under 100,000 rupees, you may not need to pay tax. For more details, visit your nearest National Prophet branch.
 
-இது தொடர்பாக தேசிய இறைவரி திணைகளத்தின் அருகிலுள்ள கிளை அலுவலகத்துக்குத் தெரிவிக்கலாம் என்று அமைச்சர் கூறினார். R
+🟩
+
+Finance Minister Ranjith Siyambalapitiya said that those who have received taxpayer identification number (TIN) can pay taxes or short messages from the Department of Internal Revenue, but if their monthly income does not exceed 100,000 rupees, it is possible to avoid paying tax.
+
+The Minister said that this can be informed to the nearby branch of the National Prophet. Remble
 
 ◼️
 
 [Data](articles/6885c258.json)
+
+[Extended Data](ext_articles/6885c258.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 15:04:51**
+As of **2024-07-05 15:19:53**
 
 ## Newspaper Stats
 
@@ -26,61 +26,79 @@ adaderanasinhalalk | 5,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,817 (100.0%) of 33,823 articles have been extended.
+33,823 (100.0%) of 33,823 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### ණය ප්‍රතිව්‍යුහගතකරණය අවසන් වෙන විදිය
+### The restructuring of the loan is over
 
 *2024-07-05 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198512) · `si`
 
-ශ්‍රී ලංකා රජය සහ ස්වෛරී බැඳුම්කරහිමියන් අතර පැමිණි එකඟතාවය ජාත්‍යන්තර මුල්‍ය අරමුදල සහ නිල ණයහිමි කමිටුව විසින් අනුමත කළහොත් මෙරට ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලිය අවසන් බව මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+The loan restructuring process has concluded successfully, with approval from the International Monetary Fund and the Official Borrower. Central Bank Governor Dr. Nandalal Weerasinghe announced this during a press conference, highlighting the government's agreement on Sovereign Bonds. The restructuring involves approximately 14 billion loans, with negotiations spanning several rounds. The plan aims to fully repay this debt within the next decade.
 
-ණය ප්‍රතිව්‍යුහගත කිරීම පිළිබඳ තොරතුරු දැනුම්දීම සඳහා රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ අද (05) පැවති ප්‍රවෘත්ති සාකච්ඡාව අමතමින් ඒ මහතා මේ බව පැවසීය.
+🟩
 
-එම මාධ්‍ය සාකච්ඡාවට අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා ද එක්වී සිටියේය.
+Central Bank Governor Dr. Nandalal Weerasinghe says that the agreement between the Government and Sovereign Bonds are approved by the International Monetary Fund and the Official Borrower.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා,
+He was speaking at the press conference today (05) at the Government Information Department today to inform the restructuring of credit.
 
-"ස්වෛරී බැඳුම්කරවලින් ගත්ත විශාල ණය ප්‍රමාණයක් තියෙනවා  බිලියන 14ක් පමණ. එකෙන් 12.5ක ණය ලබා දීපු අයත් එක්ක සාකච්ඡා වට කිහිපයක් පැවැත්වුවා. අපිට පුළුවන් වුණා යම්කිසි ආකාරයක අපි දෙගොල්ලන්ට එකඟ විය හැකි ස්ථානයකට ඇවිල්ලා... ඒ ප්‍රකාශය තමා අපි ඊයේ නිකුත් කළේ. හැකි ඉක්මනින් ඒ OCC වාර්තා සහ IMF එකේ විනිශ්චය ලබා දුන්නට පස්සේ ඒක සම්පූර්ණ කරන්න පුළුවන්. මේ ණය ප්‍රතිව්‍යූහගතකරණය කරාම සම්පූර්ණයෙන් දීර්ඝ කාලීනව ඊළඟ අවුරුදු 10 ක් 20ක් කාලය තුළ ණය තිරසර භාවය සාක්ෂාත් වෙනවා."
+Minister Dr. Bandula Gunawardena was also present at the media discussion.
+
+Speaking further Mr. Dr. Nandalal Weerasinghe,
+
+"There are about 14 billion loans taken from sovereign bonds. There were several rounds of discussions with those who granted the loans of 12.5 of one. We were able to visit a place where we could agree to both kind of kind.. That statement was issued yesterday. Once possible, you can complete that OCC records and the judgment of the IMF as soon as possible. This debt is fully achieved over the next 10 years of the next 10 years. "
 
 ◼️
 
 [Data](articles/99cc66c8.json)
 
+[Extended Data](ext_articles/99cc66c8.ext.json)
+
 ---
 
-### திருகோணமலையில் சம்பந்தனின் பூதவுடல் மக்கள் அஞ்சலி..!
+### Sampanthan's people in Trincomalee
 
 *2024-07-05 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/187753) · `ta`
 
-மறைந்த திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினர் இராஜவரோதயம் சம்பந்தனின் பூதவுடல் விமானம் மூலம் திருகோணமையில் அமைந்துள்ள சீனன்குடா விமான நிலையத்தை சென்றடைந்தது.
+Rajavarothayam Sampanthan, a former parliamentarian from Trincomalee, arrived at the Chinese Airport in Trincomalee before being moved to his home for public tributes.
 
-திருகோணமையில் அமைந்துள்ள அவரது இல்லத்திற்கு எடுத்துச் செல்லப்பட்டு தற்போது பொதுமக்கள் அஞ்சலிக்காக வைக்கப்பட்டுள்ளது.
+🟩
+
+The late Trincomalee District Parliamentarian Rajavarothayam Sampanthan reached the Chinese Airport in Trincomalee.
+
+He has been taken to his residence in Trincomalee and is currently being held for public tribute.
 
 ◼️
 
 [Data](articles/771ad956.json)
 
+[Extended Data](ext_articles/771ad956.ext.json)
+
 ---
 
-### அக்குறணை தீ கட்டுப்பாட்டுக்குள் ; மாத்தளை – கண்டி பிரதான வீதி வழமைக்கு திரும்பியது
+### Under the control of the fire;Matale - Kandy Main Street returned to us
 
 *2024-07-05 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/187744) · `ta`
 
-அக்குறணை நகரில் ஏற்பட்ட தீ விபத்தினால் போக்குவரத்து ஸ்தம்பிதம் அடைந்த மாத்தளை – கண்டி பிரதான வீதி வழமைக்கு திரும்பியுள்ளது.
+A fire in Akurana destroyed a 3-storey building, shutting down the Matale-Kandy main road. The Kandy Municipal Council intervened to prevent further damage.
 
-இன்று வெள்ளிக்கிழமை (06)  காலை அக்குறணை நகரிலுள்ள உணவ வெதுப்பகம் ஒன்றில் தீ விபத்து ஏற்பட்டது. இதனை அடுத்து தீ பரவி 3 மாடி கட்டடம் முற்றாகச் சேதமடைந்துள்ளது.
+🟩
 
-இதனையடுத்து இன்றையதினம் காலை 8.00 மணி மாத்தளை - கண்டி  பிரதான வீதியில் போக்குவரத்து முற்றாக ஸ்தம்பிதம் அடைந்தது.
+The Matale - Kandy main road has returned to normalcy due to a fire in Akurana.
 
-இந்நிலையில், கண்டி மாநகர சபை தீ அணைப்புப் பிரிவினரும் பொலிஸாரும், பிரதேச மக்களும் இணைந்து அருகில் உள்ள கட்டடங்களுக்கு தீ பரவுவதை கட்டுப்படுத்தி போக்குவரத்து வழமைக்கு திரும்பியுள்ளது.
+A fire broke out in a food vessel in Akurana town this morning (06). Following the fire, the 3 -storey building was completely damaged.
+
+Subsequently, the traffic on the main road of Matale - Kandy was completely shut down today.
+
+In this case, the Kandy Municipal Council has returned to us to control the spread of fire to nearby buildings.
 
 ◼️
 
 [Data](articles/2d61bdd8.json)
+
+[Extended Data](ext_articles/2d61bdd8.ext.json)
 
 ---
 
@@ -96,27 +114,35 @@ However, this includes proceeds from the swap with People’s Bank of China (PBo
 
 [Data](articles/070abf58.json)
 
+[Extended Data](ext_articles/070abf58.ext.json)
+
 ---
 
-### පොලිස් වැටලීමකදී සැකකරුවෙකුට වෙඩිතබයි
+### Suspect shot dead in a police raid
 
 *2024-07-05 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198511) · `si`
 
-පොලිස් අණ නොතකා මෝටර් රථයක් ධාවනය කළ පුද්ගලයෙකුට පොලීසිය වෙඩිතැබීමක් සිදුකර තිබේ.
+During a police raid in Athurugiriya, a suspect was killed after firing at officers from his car. The incident occurred when police attempted to stop him; he was later arrested but died from his injuries.
 
-මත්ද්‍රව්‍ය ජාවාරම්කරුවකු අත්අඩංගුවට ගැනීමට ගිය පොලිස් ත්‍රීරෝද රථයක් අනතුරට ලක් කර මෝටර් රථයකින් පළාගිය පුද්ගලයෙකුට මෙලෙස අතුරුගිරිය පොලීසිය විසින් වෙඩිතබා ඇත.
+🟩
 
-වෙඩිතැබීමෙන් අදාළ පුද්ගලයාගේ පාදයකට තුවාල සිදුවී ඇති අතර ඔහු රෝහල්ගතවීමට යෑමේදී අත්අඩංගුවට ගත් බව පොලීසිය පැවසීය.
+A person who operated a car regardless of police orders had shot dead.
 
-අතුරුගිරිය පොලීසියේ නිලධාරීන් කණ්ඩායමක් ඊයේ (04) රාත්‍රියේ මත්ද්‍රව්‍ය ජාවාරම්කරුවකු අත්අඩංගුවට ගැනීම සඳහා ත්‍රීරෝද රථයකින් පිළියන්දල ප්‍රදේශයට ගොස් ඇත.
+A police dealer was shocked by a police three-wheeler and fired a car in the Athurugiriya Police.
 
-පොලීසිය පැවසවේ එහිදී මත්ද්‍රව්‍ය රැගෙන මෝටර් රථයක පැමිණි බවට තොරතුරක් ලැබුණු පුද්ගලයෙකු අත්අඩංගුවට ගැනීමට යෑමේදී ඔහු පොලිස් නිලධාරීන් පැමිණි ත්‍රීරෝද රථය හප්පා එම ස්ථානයෙන් පළායෑමට උත්සාහ කර තිබූ බවය.
+The shooting has been injured in the man's base and was arrested while he was hospitalized.
 
-එම අවස්ථාවේදී ක්‍රියාත්මක වූ පොලිස් නිලධාරීන් සැකකරුට වෙඩි තබා තිබුණි.
+A Athurugiriya police personnel have gone to the Piliyandala area for the arrest of a drug dealer last night.
+
+He had tried to flee the three wheeler who had come to the three-wheeler when he was arrested by the police that he had come to a car with drugs.
+
+The police officers were shot dead at the time.
 
 ◼️
 
 [Data](articles/8d2e4c2a.json)
+
+[Extended Data](ext_articles/8d2e4c2a.ext.json)
 
 ---
 
@@ -140,15 +166,21 @@ According to the police media spokesman's office, 37 m kilos of heroin in this o
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-07-05 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/187746) · `ta`
 
-இன்று வெள்ளிக்கிழமை (ஜூலை 05) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 300.0612 ரூபாவாகவும், விற்பனை விலை 309.3025 ரூபாவாகவும் பதிவாகியுள்ளது.
+The US dollar's buying rate was 300.0612 rupees, while its selling rate was 309.3025 rupees as per the Central Bank's latest update on July 05.
+
+🟩
+
+The US dollar purchasing price was 300.0612 rupees and the sales price were 309.3025 rupees based on a currency exchange rate released by the Central Bank on Friday (July 05).
 
 ◼️
 
 [Data](articles/a5b0c201.json)
+
+[Extended Data](ext_articles/a5b0c201.ext.json)
 
 ---
 

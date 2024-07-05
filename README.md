@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 06:21:33**
+As of **2024-07-05 06:00:45**
 
 ## Newspaper Stats
 
-*Scraped **33,754** Articles*
+*Scraped **33,746** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 308
 colombotelegraphcom | 310
 bbccomsinhala | 332
 newsfirstlk | 363
-islandlk | 1,888
+islandlk | 1,880
 economynextcom | 1,985
 dailyftlk | 2,099
 adalk | 3,018
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,746 (100.0%) of 33,754 articles have been extended.
+33,746 (100.0%) of 33,746 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -320,20 +320,6 @@ He added that the mini -tornado had damaged 12 houses in the area and no one was
 
 ---
 
-### IASL HR Conference 2024 set to reimagine resilience for a transformative future
-
-*2024-07-05 02:41:00* · [`islandlk`](http://island.lk/iasl-hr-conference-2024-set-to-reimagine-resilience-for-a-transformative-future/) · `en`
-
-The IASL HR Conference 2024, themed “Resilience Reimagined – Thriving Through Change,” is poised to be a transformative event for HR professionals in the insurance sector. This annual conference aims to equip practitioners with the knowledge and expertise to lead their operations successfully while fostering camaraderie and collaboration within the community. Attracting over 100 participants from various insurance companies each year, it has solidified its position as a must-attend event for the industry.
-
-The conference’s theme emphasizes the importance of adaptability and flexibility in navigating turbulent times. By reimagining resilience as an everyday tool, individuals and organisations can build a foundation of strength that serves them well in both calm and crisis. The conference will delve into strategies to foster resilience, create momentum for action, and deepen connections within the HR community.
-
-...
-
-[Data](articles/1ba2bd5c.json)
-
----
-
 ### Fire at Lion Apartments in Peppermint Garden
 
 *2024-07-05 02:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/187711) · `ta`
@@ -425,32 +411,6 @@ Due to the extraordinary situation in Israel two years ago. However, the agraria
 [Data](articles/de924261.json)
 
 [Extended Data](ext_articles/de924261.ext.json)
-
----
-
-### Stock Market still wary of election vibes despite ‘good news’ from external debt restructuring
-
-*2024-07-05 02:21:00* · [`islandlk`](http://island.lk/stock-market-still-wary-of-election-vibes-despite-good-news-from-external-debt-restructuring/) · `en`
-
-The stock market kicked off on a positive stance at the outset due to the signing the agreement between the international bondholders and the Sri Lanka government on the debt restructuring exercise, but the market started declining nevertheless due to the political uncertainty arising from speculation on the upcoming Presidential elections.
-
-...
-
-[Data](articles/cc932095.json)
-
----
-
-### Qatar Airways to increase Colombo-Doha flight frequency from 10 July
-
-*2024-07-05 02:21:00* · [`islandlk`](http://island.lk/qatar-airways-to-increase-colombo-doha-flight-frequency-from-10-july/) · `en`
-
-Qatar Airways will be increasing its Sri Lanka-Doha flights from the current five-daily flights schedule to six-daily flights, starting 10 July 2024. The increase in flights further demonstrate the award-winning airline’s dedication to providing more choices and better connectivity for all passengers flying to and from Sri Lanka.
-
-The additional flights will be served by the Boeing 787 aircraft, featuring 30 Business Class seats and 281 Economy Class seats. With this network enhancement, Qatar Airways will operate a total of 42 weekly flights to and from Sri Lanka, connecting passengers to nearly 170 global destinations worldwide.
-
-...
-
-[Data](articles/eab91b96.json)
 
 ---
 
@@ -561,26 +521,6 @@ Opposition Leader Sajith Premadasa said that although the Constitution clearly s
 [Data](articles/676f53fe.json)
 
 [Extended Data](ext_articles/676f53fe.ext.json)
-
----
-
-### CEAT tyres roll into Brazil, expanding brand’s export footprint
-
-*2024-07-05 02:16:00* · [`islandlk`](http://island.lk/ceat-tyres-roll-into-brazil-expanding-brands-export-footprint/) · `en`
-
-Brazil, the country that gave the world natural rubber, has become the latest export market for CEAT tyres manufactured in Sri Lanka.CEAT Kelani Holdings recently despatched its first export consignment of tyres to Brazil, the second country in South America to join the Company’s international footprint, which covers 16 countries.
-
-The commencement of exports to Brazil was preceded by CEAT Kelani receiving the requisite INMETRO certification from the National Institute of Metrology, Standardization and Industrial Quality, Brazil’s national standards body.
-
-IASL HR Conference 2024 set to reimagine resilience for a transformative future
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/75f00dd8.json)
 
 ---
 
@@ -731,36 +671,6 @@ Commenting on the film, the director said, “The story of the film is being cre
 [Data](articles/9fa397a4.json)
 
 [Extended Data](ext_articles/9fa397a4.ext.json)
-
----
-
-### Siyapatha Finance PLC opens new branch in Nawalapitiya
-
-*2024-07-05 00:31:00* · [`islandlk`](http://island.lk/siyapatha-finance-plc-opens-new-branch-in-nawalapitiya/) · `en`
-
-Siyapatha Finance PLC recently unveiled its 49th branch at No. 54, Gampola Road, Nawalapitiya to its loyal customers. The newest addition to its islandwide network, the Nawalapitiya branch anticipates to play a prominent role in empowering the business community through its personalized and holistic financial solutions.
-
-The opening ceremony was graced by Siyapatha Finance PLC Managing Director Ananda Seneviratne, Chief Operating Officer Rajeev De Silva, Senior Management and staff as well as State representatives of Nawalapitiya, including Divisional Secretary J. M. Ramya Jayasundara, Urban Council Secretary Priyanka Chandani, OIC K. A. H. P. Kalugampitiya, PHI Nuwan Kekulandara, Grama Niladhari Jayalath Perera, Trade Union President Kithsiri Karunadasa, along with officials from government and private banks and insurance companies.
-
-...
-
-[Data](articles/9abd76b5.json)
-
----
-
-### Moratuwa Uni shines at Huawei ICT Competition 2023–2024 Global Finals
-
-*2024-07-05 00:30:00* · [`islandlk`](http://island.lk/moratuwa-uni-shines-at-huawei-ict-competition-2023-2024-global-finals/) · `en`
-
-The Sri Lankan team from Moratuwa University has made history by securing the Second Prize in the Practice Competition – Cloud Track 1 at the Huawei ICT Competition 2023–2024 Global Finals.This marks the first time a team from Sri Lanka has advanced from the National Level to the Regional Level in Indonesia, and finally to the Global Level in China.
-
-The team, consisting of three talented students from the IT Faculty at Moratuwa University, includes team leader Sasika Sankalana and members Varaki Vakeesan and Krishihan Raviendran. Their outstanding performance at the competition, held in China, marks a significant achievement for Sri Lanka on the global stage.
-
-The closing and awards ceremony of the Huawei ICT Competition 2023–2024 Global Final was held in Shenzhen.
-
-...
-
-[Data](articles/9c87222c.json)
 
 ---
 
@@ -2245,5 +2155,147 @@ Vithanage was also the Treasurer of the Sri Lanka Public Health Inspectors’ Un
 [Data](articles/e38ac3f7.json)
 
 [Extended Data](ext_articles/e38ac3f7.ext.json)
+
+---
+
+### Yall. People pay tribute to Sampanthan's funeral
+
+*2024-07-04 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/187649) · `ta`
+
+Rajavarothayam Sampanthan, former TNA leader, was honored with a tribute ceremony in Jaffna after his death. His body was flown from Colombo to Jaffna, where mourners paid respects at the Father Selva Memorial from 10 AM to 4 PM.
+
+🟩
+
+The late Sri Lanka Tamil National Party (TNA) leader and Trincomalee district parliamentarian Rajavarothayam Sambandan was taken by plane from Colombo to Jaffna on Thursday (04).
+
+Sampanthan's funeral was taken to Jaffna Palali Airport at the headquarters of the Tamil National Party in Jaffna.
+
+It has been announced that the people will be able to pay tribute to the father of Sampanthan, who later disappeared from 10.00 am to 4.00 pm on Thursday (04) at the Father Selva Memorial in Jaffna.
+
+◼️
+
+[Data](articles/c66f525a.json)
+
+[Extended Data](ext_articles/c66f525a.ext.json)
+
+---
+
+### Increase in problems caused by creams that whiten skin
+
+*2024-07-04 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/187655) · `ta`
+
+Health officials report a rise in kidney diseases over cancer linked to skin-whitening creams. A joint initiative aims to ban mercury in such products, highlighting its harmful impact, including kidney failure and other health issues.
+
+🟩
+
+Health officials said the number of people suffering from kidney disease has increased over the number of cancer cases due to the use of skin white creams.
+
+Dr. Indira Kahawita, a dermatologist at the National Hospital, who attended a media briefing held at the Health Development Bureau on Wednesday.
+
+A joint program has been launched to eliminate the use of mercury in creams that whitewash the face of the World Health Organization and the Ministry of Health of Sri Lanka.The purpose of this project is to completely eliminate the use of mercury.
+
+Herci -mixed creams are beneficial throughout the body. This is dangerous. Mercury can cause kidney failure.
+
+...
+
+[Data](articles/8859c4e0.json)
+
+[Extended Data](ext_articles/8859c4e0.ext.json)
+
+---
+
+### Koo shuts down in India
+
+*2024-07-04 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198479) · `si`
+
+Koo, an Indian social media platform launched in 2020, has shut down due to high costs and technological challenges. Despite supporting 10 languages and gaining popularity among millions of users, including government ministers post-controversy, financial constraints led to its closure.
+
+🟩
+
+According to the network of the network of Koo, India's network, as an alternative to the network, millions of Indians have embarrassed the network.
+
+The founders of that social media station say that they made the decision as they had to spend too much money and expenditure on technology.
+
+Koo launched in 2020.  භාෂා 10කින් පණිවුඩ හුවමාරුකර ගැනීමට හැකියාව තිබේ.
+
+After a controversy in 2021, several government ministers were tempted to use the KOO network after a controversy between the Indian government and X.
+
+By 2021, about 20 million koo tool have been downloaded.
+
+◼️
+
+[Data](articles/c3c7dabb.json)
+
+[Extended Data](ext_articles/c3c7dabb.ext.json)
+
+---
+
+### 25 injured in lorry-bus collision on Chilaw-Colombo road
+
+*2024-07-04 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100286/25-injured-in-lorry-bus-collision-on-chilaw-colombo-road) · `en`
+
+At least twenty-five persons were left injured after an SLTB bus collided with lorry transporting cement in the Galahitiyawa area of Madampe on the Chilaw-Colombo main road this morning (4).
+
+The individuals injured in the accident have been admitted to the District General Hospital of Chilaw.
+
+According to hospital sources, several injured passengers are in critical condition.
+
+The accident occurred this morning as an SLTB bus travelling from Devala Junction to Colombo via Chilaw colliding with a lorry transporting cement travelling in the same direction from Puttalam to Colombo, due to the bus driver failing to control its speed.
+
+Both the bus and lorry have sustained major damages following the accident, which had occurred during rainy weather conditions in the area.
+
+◼️
+
+[Data](articles/8218fcf6.json)
+
+[Extended Data](ext_articles/8218fcf6.ext.json)
+
+---
+
+### Talawa Police OIC beaten
+
+*2024-07-04 12:52:15* · [`adalk`](https://www.ada.lk/breaking_news/තලාව-පොලිස්-ස්ථානාධිපති-ඇතුලු-නිළධාරීන්-පිරිසකට-පහරදීල/11-410610) · `si`
+
+The OIC of Thalawa Police Station was assaulted and arrested during an operation. Two female and four male suspects were detained, including two women and two men from the Middle Thalawa Regional Hospital Wards 02 and 03. The incident involved a large group of individuals, including police officers and residents of the area. Further investigation is ongoing.
+
+🟩
+
+The OIC of the Thalawa Police Station has been arrested by the Talawa Police Station, the OIC of the Talawa Sumudagama area under the operation of the Talawa.
+
+Talawa Police OIC Chief Inspector LMMK Bid Obey has been assaulted by a pause at the left hand of his hand.Talawa Hospital, police inspector and three police constables receives counsecular.
+
+Two female suspects and two men were trained in the Middle Thalawa Regional Hospital Ward 02 and Ward 03 of the Middle Talawa Ward 03.
+
+The officials of the householder and a group of relatives of the Talawa police station and a group of relatives and friends of the residents of the Talawa police station were raided at Sumudagama in Talawa due to the resident of Talawa.Talawa Police OIC Chief Inspector Mr. LMK Bid Order has been informed.
+
+Accordingly, the OIC of the OIC has been instantly attacked by a wip stab and the OIC of the OIC.Three other officers received were admitted to the Talawa Hospital.
+
+...
+
+[Data](articles/3a68c56a.json)
+
+[Extended Data](ext_articles/3a68c56a.ext.json)
+
+---
+
+### Three arrested for abuse of a child
+
+*2024-07-04 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198478) · `si`
+
+Three individuals were arrested today in Ambalangoda for abusing schoolchildren. Additionally, five others had arrest warrants executed against them during the same operation.
+
+🟩
+
+Scheme was conducted at the Ambalangoda Ataindadalpola this morning (04).
+
+Three suspects have been arrested in connection with the abuse of a schoolchildren at the operation.
+
+In addition, five warrants were arrested in the operation.
+
+◼️
+
+[Data](articles/8793b386.json)
+
+[Extended Data](ext_articles/8793b386.ext.json)
 
 ---

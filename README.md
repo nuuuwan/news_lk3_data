@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 18:54:01**
+As of **2024-07-05 19:04:50**
 
 ## Newspaper Stats
 
-*Scraped **33,854** Articles*
+*Scraped **33,857** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,889
 economynextcom | 1,995
 dailyftlk | 2,100
-adalk | 3,025
-adaderanalk | 3,870
+adalk | 3,027
+adaderanalk | 3,871
 tamilmirrorlk | 4,007
 dailymirrorlk | 4,733
 virakesarilk | 5,309
@@ -26,11 +26,45 @@ adaderanasinhalalk | 5,611
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,853 (100.0%) of 33,854 articles have been extended.
+33,854 (100.0%) of 33,857 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### CCD Inspector and Constable arrested while accepting bribe
+
+*2024-07-05 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100320/ccd-inspector-and-constable-arrested-while-accepting-bribe) · `en`
+
+An Inspector of Police and a Constable attached to the Colombo Crimes Division (CCD) have been arrested by officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) while accepting a bribe of over Rs. 150,000.
+
+The Bribery Commission stated that the two suspects, who were apprehended inside the CCD premises in Dematagoda, had solicited a sum of Rs. 450,000 as a bribe and were apprehended while accepting the final payment of over Rs. 150,000 out of that.
+
+A resident of the Ibbagamuwa area of Kurunegala has lodged a complaint with the CCD in relation to a fraudulent money transfer through an online business of exchanging the electronic currency called ‘USDT’.
+
+The two suspected cops had allegedly stated to the complainant that two suspects connected to the incident were arrested and produced before the court. However, they have demanded a bribe of Rs. 454,200 to refrain from arresting the complainant as well.
+
+...
+
+[Data](articles/2a912b4e.json)
+
+---
+
+### පාසල් සිසුවෙකු නිරුවත් කර පහරදුන් පාසල් සිසුවෙක් ඇතුළු 3ක් අල්ලයි
+
+*2024-07-05 18:39:37* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුවෙකු-නිරුවත්-කර-පහරදුන්-පාසල්-සිසුවෙක්-ඇතුළු-3ක්-අල්ලයි/11-410627) · `si`
+
+පහළොස් හැවිරිදි පාසල් සිසුවෙකු නිවසකට පැහැරගෙන ගොස් නිරුවත් කර සොරකමක් සම්බන්ධයෙන් කැලෑ නීතියෙන් මට්ටු කිරීමට ගිය දහසය හැවිරිදි පාසල් සිසුවෙක් ඇතුලු තිදෙනෙක් ඊයේ (4) අම්බලන්ගොඩ මාදම්පේ වැල්ලබඩදී සැකපිට අත්අඩංගුවට ගත් බව අම්බලන්ගොඩ පොලීසිය කියයි.
+
+සැකකාර දහසය හැවිරිදි පාසල් සිසුවා මෙන්ම විසිහය හැවිරිදි හා තිස්හතර හැවිරිදි අනෙක් සැකකරුවන් දෙදෙනාම අම්බලන්ගොඩ මාදම්පේ වැල්ලබඩ පදිංචි අය බවද පොලීසිය කියයි.
+
+පහළොස් හැවිරිදි  පාසල් සිසුවා පාසල් නිමවී නිවසට පැමිණ එදින පස්වරුවේ බීම පැකැට්ටුවක් මිලදී ගැනීමට සිය නිවස ආසන්නයේ වෙළදැලට ගොස් සිටියදී සැකකාර දහසය හැවිරිදි පාසල් සිසුවා උපයෝගී කොට ගෙන වින්දිත සිසුවා ඒ ආසන්නයේ නිවසකට පැහැරගෙන ගොස් සිසුවාගේ සියලුම ඇදුම් ගලවා ජංගම දුරකතනයක් සොරකම් කිරීම සම්බන්ධයෙන් සැකකරුවන් ප්‍රශ්න කොට ඇති බවත් එයින් නොසෑහුණු සැකකරුවන් පහළොස් හැවිරිදි සිසුවා නිරුවස්තරයෙන්ම සිය නිවසට එවා ඇති බවත් අනාවරණයවූ බව ද පොලීසිය කියයි.
+
+...
+
+[Data](articles/fdab32cd.json)
+
+---
 
 ### The first Tamil woman to win the British election
 
@@ -439,6 +473,20 @@ The applicants are advised to contact ‘1911’ – the hotline of the Examinat
 [Data](articles/d4e974fc.json)
 
 [Extended Data](ext_articles/d4e974fc.ext.json)
+
+---
+
+### ‘මගෙන් රටට’ සංවිධානයේ සභාපති ඇප මත මුදාහරියි
+
+*2024-07-05 16:14:38* · [`adalk`](https://www.ada.lk/breaking_news/‘මගෙන්-රටට’-සංවිධානයේ-සභාපති-ඇප-මත-මුදාහරියි/11-410626) · `si`
+
+නීතිය ක්‍රියාත්මක කරන ජ්‍යෙෂ්ඨ පොලිස් නිලධාරීන් සම්බන්ධයෙන් මහජන අප්‍රසාදයක් ඇති වන පරිදි හා වෛරයක් ඇති වන පරිදි අසත්‍ය චෝදනා එල්ල කිරීම සම්බන්ධයෙන් චෝදනා එල්ලව ඇති, රක්ෂිත බන්ධනාගාරගත කර සිටි ‘මගෙන් රටට’ සංවිධානයේ සභාපති සංජය මහවත්ත අද දහවල් ඇපමත මුදාහැර තිබෙනවා.
+
+අසත්‍ය චෝදනා එල්ල  කිරීමට එරෙහි පසුගිය ජූනි 28 දා ඔහු අත්අඩංගුවට ගැනුණු අතර  අද (05) දිනය දක්වා රක්ෂිත බන්ධනාගාරගත තිබුණා.
+
+◼️
+
+[Data](articles/94e71685.json)
 
 ---
 
@@ -1083,6 +1131,8 @@ Commenting further, MP Perera said: “I am prepared to contest the Presidential
 ...
 
 [Data](articles/8559d01c.json)
+
+[Extended Data](ext_articles/8559d01c.ext.json)
 
 ---
 
@@ -2289,63 +2339,5 @@ Premachandra was convicted on 18 charges, including conspiracy, aiding in the ab
 [Data](articles/94f5778e.json)
 
 [Extended Data](ext_articles/94f5778e.ext.json)
-
----
-
-### Israel Ambassador calls on President
-
-*2024-07-05 03:31:55* · [`dailyftlk`](https://www.ft.lk/news/Israel-Ambassador-calls-on-President/56-763883) · `en`
-
-The Ambassador of Israel to India, Sri Lanka, and Bhutan Naor Gilon yesterday paid a courtesy call on President Ranil Wickremesinghe. Senior Advisor to the President on National Security and Presidential Chief of Staff Sagala Ratnayaka, and Honourary Consul to Israel Dinesh Rodrigo, also attended the meeting
-
-◼️
-
-[Data](articles/d28454e5.json)
-
-[Extended Data](ext_articles/d28454e5.ext.json)
-
----
-
-### Western Province land prices drop; RIUNIT signals market rebound
-
-*2024-07-05 03:30:08* · [`dailyftlk`](https://www.ft.lk/business/Western-Province-land-prices-drop-RIUNIT-signals-market-rebound/34-763882) · `en`
-
-The Research Intelligence Unit (RIUNIT), an international research and consulting firm (RIUNIT) has reported a notable dip in average land prices in the Western Province, marking the first decline in the 20 years it has tracked the market.
-
-Typically, land scarcity in island cities like Colombo creates constant upward pressure on land values. Even during Sri Lanka’s civil conflict, land prices in Colombo continued to rise.
-
-However, in the first quarter of 2024, land prices fell in many Western Province suburbs, alarming industry experts.
-
-RIUNIT CEO Roshan Madawela said: “Thankfully the downward trend seen at the start of the year has now turned and what we are now observing is a return to the long-term average property price increases that Colombo and the Western Province has traditionally enjoyed.”
-
-...
-
-[Data](articles/c2fdd53c.json)
-
-[Extended Data](ext_articles/c2fdd53c.ext.json)
-
----
-
-### Opposition parties have no backbone
-
-*2024-07-05 03:29:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சிகளுக்கு-முதுகெலும்பு-இல்லை/175-339896) · `ta`
-
-Prasanna Ranatunga, the chief organizer of the ruling party, asserts that elections will proceed as scheduled, despite opposition calls for postponement. He highlights the government's commitment to constitutional norms and its focus on economic recovery under President Ranil Wickremesinghe, aiming to transform Sri Lanka into a global powerhouse within five years.
-
-🟩
-
-The chief organizer of the ruling party Prasanna Ranatunga has said that there is no need to postpone the presidential election or any other election.
-
-The minister stressed that the government would hold elections in accordance with the constitution, even if the opposition parties that were not backing the election were talking about the postponement of the election.
-
-Minister Prasanna Ranatunga, who attended a public meeting held on Thursday (4) in Minuwangoda, Gampaha.. Minister Prasanna Ranatunga said:
-
-Due to the sustainable economic policies implemented by President Ranil Wickremesinghe, it was decided to restructure the country's debt at the Paris conference. Moreover, the current president can only carry out the economic, political and social reform activities that the country and the people in the future are expecting. Therefore, by re -appointing him as president, Sri Lanka can be made as the world's most powerful economy within the next five years.
-
-...
-
-[Data](articles/2073b3a9.json)
-
-[Extended Data](ext_articles/2073b3a9.ext.json)
 
 ---

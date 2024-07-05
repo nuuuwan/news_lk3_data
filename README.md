@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 15:35:16**
+As of **2024-07-05 15:53:50**
 
 ## Newspaper Stats
 
-*Scraped **33,823** Articles*
+*Scraped **33,825** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ adaderanalk | 3,865
 tamilmirrorlk | 4,004
 dailymirrorlk | 4,733
 virakesarilk | 5,303
-adaderanasinhalalk | 5,606
+adaderanasinhalalk | 5,608
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,823 (100.0%) of 33,823 articles have been extended.
+33,823 (100.0%) of 33,825 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### ජනාධිපතිවරණය කල් දමන්නයි ඉල්ලූ පෙත්සමට එරෙහිව අතරමැදි පෙත්සම් කිහිපයක්
+
+*2024-07-05 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198514) · `si`
+
+දැනට සැලසුම් කර තිබෙන පරිදි ජනාධිපතිවරණය පැවැත්වීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සම විභාගයට නොගෙන නිෂ්ප්‍රභ කරන ලෙස ඉල්ලා  ශ්‍රේෂ්ඨාධිකරණය හමුවේ අතරමැදි පෙත්සම් කිහිපයක් ඉදිරිපත් කර තිබේ.
+
+සමගි ජන බලවේගයේ මහලේකම් රංජිත් මද්දුමබණ්ඩාර,  ජාතික   ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන විජිත හේරත්, ආචාර්ය හරිනි අමරසූරිය සහ සමාජවාදී තරුණ සංගමයේ එරංග ගුණසේකර විසින් පෙත්සම් ඉදිරිපත් කර තිබුණි.
+
+ඊට අමතරව අන්තර් විශ්වවිද්‍යාල ශිෂ්‍යබල මණ්ඩලයේ හිටපු කැඳවුම්කරු වසන්ත මුදලිගේ ඇතුළු පිරිසක් විසින් ද මෙම අතරමැදි පෙත්සමක් ඉදිරිපත් කර ඇත.
+
+අතරමැදි පෙත්සම්කරුවන් කියා සිටින්නේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනය 03 පරිච්ඡේදය තුළින් ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 30(2) ව්‍යවස්ථාව සංශෝධනය කර තිබෙන බවත් ඒ අනුව ජනාධිපතිවරයාගේ නිල කාලය වසර 06 සිට වසර 05 ක් දක්වා අඩු කර තිබෙන බවය.
+
+ඒ අනුව ආණ්ඩුක්‍රම ව්‍යවස්ථාව ප්‍රකාරව වත්මන් ජනාධිපතිවරයාගේ නිල කාලය මෙම වසරේ අවසන් වන බවත් මෙම වසරේ ජනාධිපතිවරණයක් පැවැත්වීම අත්‍යවශ්‍ය බවත් ඔවුන් පෙන්වාදී තිබේ.
+
+...
+
+[Data](articles/6a7a43cd.json)
+
+---
+
+### නෙදර්ලන්තයෙන් රැගෙන ආ පොලිස් නිල සුනඛයින්
+
+*2024-07-05 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198513) · `si`
+
+පොලිස් නිල සුනඛ කොට්ඨාසය සඳහා ආනයනය කළ සුනඛයින් 35 දෙනෙකු අද (05) අලුයම නෙදර්ලන්තයේ සිට කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළ වෙත රැගෙන එනු ලැබීය.
+
+නෙදර්ලන්තයේ K10 Workingdogs නැමැති පෞද්ගලික සත්ත්ව ගොවිපළෙන් මෙම සුනඛයින් ආනයනය කර ඇති අතර ඒ සඳහා වැයකර ඇති මුදල් රුපියල් මිලියන 58කි.
+
+මෙම සුනඛයින් අතර, බෙල්ජියම් මැලිනොයිස් (Belgian Malinois) වර්ගයේ සුනඛයන් 13 දෙනෙකු, ජර්මන් ෂෙපර්ඩ් (German Shepherd) වර්ගයේ සුනඛයන් 12 දෙනෙකු සහ ඉංග්ලිෂ් ස්පැනියෙල් (English Spaniel) වර්ගයේ සුනඛයන් 10 දෙනෙකු ඇතුළු සුනඛයින් 35 දෙනෙකු සිටියි.
+
+මාස 8ත් 12ත් අතර වයස්වල පසුවන මෙම සුනඛයින් අතරින් 21 දෙනෙකු ගැහැණු සතුන් ය.‍
+
+◼️
+
+[Data](articles/5b388d0e.json)
+
+---
 
 ### The restructuring of the loan is over
 
@@ -2249,39 +2287,5 @@ Commenting on the film, the director said, “The story of the film is being cre
 [Data](articles/9fa397a4.json)
 
 [Extended Data](ext_articles/9fa397a4.ext.json)
-
----
-
-### Siyapatha Finance PLC opens new branch in Nawalapitiya
-
-*2024-07-05 00:31:00* · [`islandlk`](http://island.lk/siyapatha-finance-plc-opens-new-branch-in-nawalapitiya/) · `en`
-
-Siyapatha Finance PLC recently unveiled its 49th branch at No. 54, Gampola Road, Nawalapitiya to its loyal customers. The newest addition to its islandwide network, the Nawalapitiya branch anticipates to play a prominent role in empowering the business community through its personalized and holistic financial solutions.
-
-The opening ceremony was graced by Siyapatha Finance PLC Managing Director Ananda Seneviratne, Chief Operating Officer Rajeev De Silva, Senior Management and staff as well as State representatives of Nawalapitiya, including Divisional Secretary J. M. Ramya Jayasundara, Urban Council Secretary Priyanka Chandani, OIC K. A. H. P. Kalugampitiya, PHI Nuwan Kekulandara, Grama Niladhari Jayalath Perera, Trade Union President Kithsiri Karunadasa, along with officials from government and private banks and insurance companies.
-
-...
-
-[Data](articles/9abd76b5.json)
-
-[Extended Data](ext_articles/9abd76b5.ext.json)
-
----
-
-### Moratuwa Uni shines at Huawei ICT Competition 2023–2024 Global Finals
-
-*2024-07-05 00:30:00* · [`islandlk`](http://island.lk/moratuwa-uni-shines-at-huawei-ict-competition-2023-2024-global-finals/) · `en`
-
-The Sri Lankan team from Moratuwa University has made history by securing the Second Prize in the Practice Competition – Cloud Track 1 at the Huawei ICT Competition 2023–2024 Global Finals.This marks the first time a team from Sri Lanka has advanced from the National Level to the Regional Level in Indonesia, and finally to the Global Level in China.
-
-The team, consisting of three talented students from the IT Faculty at Moratuwa University, includes team leader Sasika Sankalana and members Varaki Vakeesan and Krishihan Raviendran. Their outstanding performance at the competition, held in China, marks a significant achievement for Sri Lanka on the global stage.
-
-The closing and awards ceremony of the Huawei ICT Competition 2023–2024 Global Final was held in Shenzhen.
-
-...
-
-[Data](articles/9c87222c.json)
-
-[Extended Data](ext_articles/9c87222c.ext.json)
 
 ---

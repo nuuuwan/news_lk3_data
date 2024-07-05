@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 09:19:52**
+As of **2024-07-05 09:35:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,592
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,762 (100.0%) of 33,765 articles have been extended.
+33,765 (100.0%) of 33,765 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -72,39 +72,53 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 ---
 
-### விமானம் மூலம் திருகோணமலைக்கு எடுத்து செல்லப்பட்டது சம்பந்தனின் பூதவுடல்
+### Sampanthan's body was taken to Trincomalee by plane
 
 *2024-07-05 08:27:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/விமானம்-மூலம்-திருகோணமலைக்கு-எடுத்து-செல்லப்பட்டது-சம்பந்தனின்-பூதவுடல்/75-339898) · `ta`
 
-இலங்கைத் தமிழரசுக் கட்சியின் மூத்த தலைவர் இராஜவரோதயம் சம்பந்தனது பூதவுடல் யாழ்ப்பாணத்தில் இருந்து இன்றையதினம் விமானம் மூலம் திருகோணமலைக்கு எடுத்துச் செல்லப்பட்டது.
+Rajavarothayam Sampanthan, senior leader of the Sri Lankan Tamil party, had his body transported by plane from Jaffna to Trincomalee. His funeral, named Anjali, took place in Jaffna, where many paid their respects. The procession then moved to Trincomalee, where it will remain for two days, concluding on the following Sunday.
 
-யாழ்ப்பாணத்தில் உள்ள தந்தை செல்வா கலையரங்கில் சம்பந்தனின் பூதவுடலுக்கு நேற்று பலரும் அஞ்சலி செலுத்திய நிலையில் அஞ்சலி நிறைவுக்கு வந்து பூதவுடல் அங்கேயே வைக்கப்பட்டது.
+🟩
 
-தந்தை செல்வா கலையரங்கில் இருந்து இன்று காலை கார் மூலம் பலாலி விமான நிலையத்திற்கு கொண்டு செல்லப்பட்டு அங்கிருந்து திருகோணமலைக்கு விமானம் மூலம் கொண்டு செல்லப்பட்டது.
+Senior leader of the Sri Lankan Tamil party Rajavarothayam Sampanthan's body was taken by plane from Jaffna to Trincomalee today.
 
-திருகோணமலையில் இரண்டு தினங்கள் பொதுமக்கள் அஞ்சலிக்கு வைக்கப்பட்டு நாளை மறுநாள் ஞாயிற்றுக்கிழமை இறுதிக்கிரியை நடைபெறவுள்ளது.   R
+Anjali was completed yesterday as many paid tribute to Sambandan's funeral at the father Selva Kalaiyar in Jaffna.
+
+Father Selva was taken by car this morning to Palali Airport and was taken by plane to Trincomalee.
+
+The public will be held in Trincomalee for two days and will be held on Sunday the next Sunday.R
 
 ◼️
 
 [Data](articles/d34ea174.json)
 
+[Extended Data](ext_articles/d34ea174.ext.json)
+
 ---
 
-### ஓரளவு பலத்த மழைவீழ்ச்சி பதிவாகும்
+### Somewhat heavy rainfall recorded
 
 *2024-07-05 08:20:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓரளவு-பலத்த-மழைவீழ்ச்சி-பதிவாகும்/175-339897) · `ta`
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+Heavy rainfall is predicted across several provinces, including Western, Sabaragamuwa, North Western, and specific districts like Kandy, Nuwara Eliya, Galle, and Matara. Strong winds up to 40-50 km/h are expected in various regions, posing risks from lightning strikes. The public is urged to stay alert and take safety measures.
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 75 மி.மீ க்கும் அதிகமான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+🟩
 
-ஊவா மாகாணத்திலும் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களிலும் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+The Department of Meteorology has forecast rainfall in the Western, Sabaragamuwa and North Western Provinces in Kandy, Nuwara Eliya, Galle and Matara districts.
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Heavy rainfall is expected in some places in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
 
-...
+In the Uva Province, Ampara and Batticaloa districts, there is a possibility of rainfall or thundershowers in the evening or at night.
+
+Strong winds are likely to blow up to 40-50 km / h from time to time in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
+
+◼️
 
 [Data](articles/9efcfa33.json)
+
+[Extended Data](ext_articles/9efcfa33.ext.json)
 
 ---
 
@@ -1408,25 +1422,33 @@ Meanwhile, Tamil Nadu Chief Minister MK Stalin said that despite the possibility
 
 ---
 
-### කෙහෙළියගේ හා පවුලේ අයගේ ස්ථාවර තැන්පතු හා රක්ෂණ ඔප්පුවලට තහනමක්
+### Fixed deposits and insurance policies of Keheliya and family
 
 *2024-07-04 19:00:02* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගේ-හා-පවුලේ-අයගේ-ස්ථාවර-තැන්පතු-හා-රක්ෂණ-ඔප්පුවලට-තහනමක්/11-410617) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතගේ හා පවුලේ සාමාජිකයන්ට අයත් ස්ථාවර තැන්පතු ගිණුම් මෙන්ම ජීවිත රක්ෂණ ඔප්පු කිහිපයක් තහනම් කිරීමට අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව කටයුතු කර තිබේ.
+The Bribery or Corruption Commission has banned former Health Minister Keheliya Rambukwella from accessing his fixed deposit accounts and insurance policies due to allegations of corruption. Under the Anti-Corruption New Act, six fixed deposits and three insurance policies linked to him and his family have been identified. The commission plans to report these findings to the High Court to extend an injunction order. This action is part of a broader effort to combat corruption, as outlined in the Anti-Corruption Announcement Stone, Section 53(1), No. 09 of 2023.
 
-මේ අනුව කෙහෙළිය රඹුක්වැල්ල මහතාගේ බිරිඳ, දියණියන් තිදෙනා හා එක් දියණියකගේ ස්වාමිපුරුෂයාගේ පෞද්ගලික බැංකුවකට අයත් රුපියල් මිලියන 93.125ක් වටිනාකමින් යුත් ස්ථාවර තැන්පතු ගිණුම් හා ජීවිත රක්ෂණ ඔප්පු සම්බන්ධයෙන් වූ සැක කටයුතු ගනුදෙනු හේතුවෙන් එම ගිණුම් හා ඔප්පු දින හතකට තහනම් කිරීමට අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව කටයුතු කර තිබේ.
+🟩
 
-දූෂණ විරෝධී නව පනත අනුව ස්ථාවර තැන්පතු 16ක් හා රක්ෂණ ඔප්පු තුනක් මෙසේ තහනම් කර තිබේ. මේ පිළිබඳව මහාධිකරණයට වාර්තා කර තහනම් නියෝගය දීර්ඝ කර ගැනීමටද අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව තීරණය කර තිබේ.
+The Commission of Bribery or Corruption has taken action to ban for the former Minister of Health Keheliya Rambukwella and Fixed Deposit Accounts and Fixed Deposits.
 
-වම් ම්බන්ධ්‍වයන් 2023 අංක 09 දරන දූෂණ විවරෝධී නවත්ත, 53 (1) වගන්ිය ප්‍රකාරව, මුදල්
+Accordingly Bribery or Corruption Commission to prohibit the bribe deposits of the Diyaner and the Daughters of Keheliya RambukwellaHave been done.
 
-විශුද්ිකරණ වරද යටවත්ත, ්ථාවර තැන් තු 16 ක් ෙ රක්ෂණ ඔප්පපු 03ක් තෙනම් කිරීමට වකාමිෂන්
+According to the Anti-Corruption New Act, there are six fixed deposits and three insurance deeds. The Commission to Investigate Allegations Commission has decided to report to the High Court and extend the injunction order.
 
-භාව විසින් කටයුතු කරන ලදී. ඒ අනුව, මොිකරණයට වාර්තා කිරීවමන් අනතුරුව තෙනම්
+In terms of corruption announcement stone, 53 (1) claiming, No. 09 of 2023 left
 
-...
+Vater Siddhartha to be replaced by three insurance policies under the infrastructure of the Siriarch Change
+
+Acted by being. Accordingly, after reporting to modern
+
+Investigations are to be investigated to extend the use of the use.
+
+◼️
 
 [Data](articles/dc398ef1.json)
+
+[Extended Data](ext_articles/dc398ef1.ext.json)
 
 ---
 

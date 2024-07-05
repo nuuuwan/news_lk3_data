@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 23:35:23**
+As of **2024-07-05 23:54:45**
 
 ## Newspaper Stats
 
-*Scraped **33,869** Articles*
+*Scraped **33,871** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 311
 bbccomsinhala | 333
 newsfirstlk | 363
 islandlk | 1,889
-economynextcom | 1,995
+economynextcom | 1,997
 dailyftlk | 2,100
 adalk | 3,028
 adaderanalk | 3,875
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,869 (100.0%) of 33,869 articles have been extended.
+33,869 (100.0%) of 33,871 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -234,6 +234,26 @@ The scenes of Andy Mare's most important tennis tournaments were broadcast in th
 
 ---
 
+### Sri Lanka SIS warned not to grant wage hike for protesting University staff: State Minister
+
+*2024-07-05 20:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-sis-warned-not-to-grant-wage-hike-for-protesting-university-staff-state-minister-171116/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s State Intelligence Service (SIS) has warned the government not to grant a salary hike to protesting non-academic staff at the island nation’s state universities as it is a part of a greater plot, State Higher Education Minister Suren Raghavan said.
+
+The State Minister’s revelation comes after more than two month of protest by the non-academic staff crippling the smooth operations in the island nation’s state universities.
+
+Raghavan, however, promised a wage hike in 2025 budget and urged non-academic staff across all universities to resume work promptly, emphasizing the importance of minimizing disruptions for the youth who are the future leaders of the nation.
+
+When asked if the protest has any political motive, the Minister said it was part of a greater plot though the demand is justifiable.
+
+“That is what the State Intelligence Services told us,” he told EconomyNext responding to a question at a media briefing in Colombo on Friday (05).
+
+...
+
+[Data](articles/b8de2737.json)
+
+---
+
 ### Refer to the suspect in the murder suspect
 
 *2024-07-05 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198520) · `si`
@@ -265,6 +285,24 @@ It is for investigations to assassinate the Elpitiya Public Health Inspector.
 [Data](articles/6ae4d8a0.json)
 
 [Extended Data](ext_articles/6ae4d8a0.ext.json)
+
+---
+
+### EXPLAINER: Impact of Labour-led UK government on Sri Lanka
+
+*2024-07-05 19:18:00* · [`economynextcom`](https://economynext.com/explainer-impact-of-labour-led-uk-government-on-sri-lanka-171111/) · `en`
+
+ECONOMYNEXT – The centre-left Labour Party won a massive majority in the 650-seat United Kingdom parliament while Prime Minister Rishi Sunak’s Conservative Party suffered the worst performance in the party’s long history as voters expressed their frustration over high cost of living crisis, failure in public services, and a series of scandals.
+
+So far Labour has won 412 seats, while the Conservatives have slumped to just 120 and centrist Liberal Democrats have taken 71.
+
+Labour’s Keir Starmer vowed to rebuild the UK as its next prime minister after his party on Friday surged to a landslide victory in a parliamentary election, ending 14 years of often tumultuous Conservative government.
+
+The Great Britain colonized Sri Lanka for 150 years and built most of the island nation’s infrastructure to transport the South Asian island’s products to be exported to the UK before granting independence in 1948.
+
+...
+
+[Data](articles/d3d15011.json)
 
 ---
 
@@ -2291,51 +2329,5 @@ British Prime Minister Rishi Sunak acknowledged the defeat. That makes center-le
 [Data](articles/149baeb9.json)
 
 [Extended Data](ext_articles/149baeb9.ext.json)
-
----
-
-### Sri Lankan flight in a hurry land in Jakarta
-
-*2024-07-05 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187717) · `ta`
-
-A Sri Lankan flight, UL605 from Melbourne to Colombo, urgently landed in Jakarta due to an unspecified medical emergency, touching down at 20:56 local time on Thursday.
-
-🟩
-
-A Sri Lankan flight landed in Jakarta, Indonesia, landed on Thursday (04) for emergencies.
-
-The UL605 flight from Melbourne, Australia, was traveling to Colombo, when the flight team announced a public emergency as they boarded the south of Indonesia.
-
-The aircraft landed at the airport at Jakarta at 20:56 local time.
-
-However, it is noteworthy that no information has been released on the medical cause.
-
-◼️
-
-[Data](articles/58e9cb5f.json)
-
-[Extended Data](ext_articles/58e9cb5f.ext.json)
-
----
-
-### A large fire in Akurana - a main road is temporarily close
-
-*2024-07-05 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198499) · `si`
-
-A massive fire in Akurana closed the Kandy-Matale road and forced several shops to shut down. Restaurant owners cited difficulty in controlling the blaze.
-
-🟩
-
-The Kandy-Matale road has been closed due to a fire in a restaurant in Akurana town.
-
-It is reported that several other stores have been temporarily closed due to the fire.
-
-The police said that the owners of the restaurants have stated that the owners of the restaurants have said that it is difficult to curb fire.
-
-◼️
-
-[Data](articles/feb5a0cd.json)
-
-[Extended Data](ext_articles/feb5a0cd.ext.json)
 
 ---

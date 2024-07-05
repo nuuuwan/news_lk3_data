@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 11:19:43**
+As of **2024-07-05 11:35:19**
 
 ## Newspaper Stats
 
-*Scraped **33,780** Articles*
+*Scraped **33,781** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,889
 economynextcom | 1,986
 dailyftlk | 2,099
 adalk | 3,020
-adaderanalk | 3,857
+adaderanalk | 3,858
 tamilmirrorlk | 3,996
 dailymirrorlk | 4,733
 virakesarilk | 5,289
@@ -26,11 +26,33 @@ adaderanasinhalalk | 5,597
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,780 (100.0%) of 33,780 articles have been extended.
+33,780 (100.0%) of 33,781 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### Tense situation at SLFP Headquarters as Dayasiri arrives
+
+*2024-07-05 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100305/tense-situation-at-slfp-headquarters-as-dayasiri-arrives-) · `en`
+
+A tense situation has been reported in front of the Sri Lanka Freedom Party’s Headquarters on Darley Road in Colombo 10, following the arrival of MP Dayasiri Jayasekara.
+
+However, MP Jayasekara had claimed that he will recommence duties in the post of General Secretary of the Sri Lanka Freedom Party (SLFP) this morning (05).
+
+Meanwhile, he also alleged that he is still the legitimate General Secretary of the party.
+
+Accordingly, Jayasekara had extended an open invitation to party members and supporters to participate in the event of his resumption of official duties.
+
+Against this backdrop, the SLFP’s Senior Vice Chairman Prof. Rohana Luxman Piyadasa had stated that they will accept MP Dayasiri Jayasekara as the SLFP’s General Secretary.
+
+He further stated that a candidate from the SLFP will be nominated for the upcoming Presidential Election.
+
+...
+
+[Data](articles/6ee3bd02.json)
+
+---
 
 ### Court suspends Keheliya and family’s assets worth Rs. 97 mn for 3 months
 
@@ -2247,23 +2269,5 @@ The Supreme Court has issued the Supreme Court in charge of permission to hear a
 [Data](articles/a6b18dba.json)
 
 [Extended Data](ext_articles/a6b18dba.ext.json)
-
----
-
-### Customs' strike abandoned
-
-*2024-07-04 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/187688) · `ta`
-
-The Customs Union Federation called off its trade union action after talks with Finance Minister Ranjith Siyambalapitiya, responding to the Health Holidays report.
-
-🟩
-
-The Customs Union Federation has decided to immediately suspend the trade union action initiated by the Health Holidays report following a discussion with Finance Minister Ranjith Siyambalapitiya.
-
-◼️
-
-[Data](articles/0a7f2cd2.json)
-
-[Extended Data](ext_articles/0a7f2cd2.ext.json)
 
 ---

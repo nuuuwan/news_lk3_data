@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 17:04:48**
+As of **2024-07-05 17:19:49**
 
 ## Newspaper Stats
 
-*Scraped **33,832** Articles*
+*Scraped **33,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,105 @@ islandlk | 1,889
 economynextcom | 1,986
 dailyftlk | 2,100
 adalk | 3,025
-adaderanalk | 3,868
+adaderanalk | 3,870
 tamilmirrorlk | 4,005
 dailymirrorlk | 4,733
 virakesarilk | 5,303
-adaderanasinhalalk | 5,609
+adaderanasinhalalk | 5,610
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,831 (100.0%) of 33,832 articles have been extended.
+33,832 (100.0%) of 33,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### දැන් ජනතාවගේ ප්‍රශ්න විසඳීම ආරම්භ කළා - ජනපති
+### Sir Keir Starmer officially becomes UK’s prime minister
+
+*2024-07-05 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100318/sir-keir-starmer-officially-becomes-uks-prime-minister) · `en`
+
+Sir Keir Starmer has officially become the UK’s new prime minister after a meeting with the King.
+
+The Labour leader had his meeting in Buckingham Palace after Rishi Sunak stepped down following the worst ever general election result for the Conservatives.
+
+Sir Keir now takes over as the first Labour prime minister in 14 years - and the seventh Labour prime minister ever.
+
+Much of the country was turned red overnight, with Mr Sunak conceding defeat just before 5am on Friday and Sir Keir claiming victory shortly after.
+
+Speaking on the steps of No 10, former prime minister Mr Sunak said he would not leave his role as Conservative Party leader immediately but would do so once a leadership race begins.
+
+“I would like to say, first and foremost, I am sorry. I have given this job my all,” he said.
+
+“But you have sent a clear signal that the government of the United Kingdom must change. And yours is the only judgement that matters.
+
+...
+
+[Data](articles/b8d83bfc.json)
+
+---
+
+### පාකිස්තානයේ ඉන්ධන අර්බුදයක්
+
+*2024-07-05 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198518) · `si`
+
+පාකිස්තාන ඛනිජ තෙල් අලෙවිකරුවන්ගේ සංගමය අද (05) සිට රටපුරා වැඩවර්ජනයක් ප්‍රකාශයට පත් කරන බව පවසා තිබේ.
+
+සිය ගැටළු සම්බන්ධයෙන් බලධාරීන් සමග පැවැති සාකච්ඡා විසඳුමකින් තොරව අවසන්වීම ඊට හේතුව බව වාර්තා වෙයි.
+
+වැඩවර්ජනයට සමගාමීව රට පුරා ඉන්ධන පිරවුම්හල් 13,000කට අධික සංඛ්‍යාවක මෙහෙයුම් නතර කෙරෙනු ඇත.
+
+විදෙස් මාධ්‍ය වාර්තා කරන්නේ අලුතින් හඳුන්වාදී තිබෙන බද්දක්  මුල් කරගෙන මෙම අර්බුදය හටගෙන ඇති බවය.
+
+◼️
+
+[Data](articles/e8176007.json)
+
+---
+
+### Pakistan fuel supply disrupted as dealers strike over new taxes
+
+*2024-07-05 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100317/pakistan-fuel-supply-disrupted-as-dealers-strike-over-new-taxes) · `en`
+
+A number of fuel stations were closed across Pakistan on Friday morning following a strike called by petroleum dealers against a new taxation measure introduced by the government to boost revenue and cover its financial shortfall.
+
+The Pakistani government has set a challenging revenue collection target to help clinch an International Monetary Fund bailout but faces public anger over new taxes, including taxes on dealers, which were introduced in the annual budget last month.
+
+“There is a nationwide strike by dealers and pumps are shut in every city except Islamabad and Rawalpindi,” Abdul Sami Khan, chairman of the Pakistan Petroleum Dealers Association (PPDA), told Reuters, adding that the strike is due to the government’s decision to impose a 0.5% tax on dealers’ turnover. Khan said it was too soon to give statistics on the number of pumps on strike.
+
+...
+
+[Data](articles/6d4d1de8.json)
+
+---
+
+### Now, the resolving the problems of the people has begun - President
 
 *2024-07-05 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198516) · `si`
 
-ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලිය යටතේ ඩොලර් බිලියන 08ක සහනයක් ලැබෙන බව ජනාධිපතිවරයා පවසයි.
+In a bid to alleviate economic hardships, President Ranil Wickremesinghe announced a debt restructuring plan, securing $8 billion through a combination of bilateral loans ($5 billion), domestic contributions ($3 billion), and reduced interest payments. This initiative aims to provide relief to the populace, with specific projects like a trade zone in Bingiriya and improvements in agriculture and education planned for the Kurunegala district.
 
-ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලියට අදාළව ද්විපාර්ශ්වික ණයහිමියන් වෙතින් ඩොලර් බිලියන 05ක ණය පොලී සහනයක් සහ වාණිජ ණයහිමියන් එකඟවී ඇති ආකාරයට ඩොලර් බිලියන 03ක ණය කපා හැරීමක් සිදුවන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා තවදුරටත් පැවසීය.
+🟩
 
-ඒ අනුව ගෙවීමට තිබූ ණය ප්‍රමාණයෙන් ඩොලර් බිලියන 08ක සහනයක් රටේ ජනතාවට ලබාදීමට හැකි වී තිබෙන බව ජනාධිපති පෙන්වා දෙයි.
+The President has relieved of $ 8 billion under the restructuring process of the debt.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කළේ, සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ “උරුමය” ජාතික වැඩසටහන යටතේ කුරුණෑගල දිස්ත්‍රික්කයේ සුදුසුකම්ලාභීන් 73,143ක් අතුරින් පුද්ගලයන් 463 දෙනෙකු වෙනුවෙන් සංකේතාත්මකව ඔප්පු ප්‍රදානය කිරීමට අද (05) පෙරවරුවේ කුරුණෑගල වයඹ පළාත් ශ්‍රවණාගාරයේ පැවති උත්සවය අමතමිනි.
+President Ranil Wickremesinghe added that the bilateral creditors of $ 5 billion, which has agreed to a loan of $ 3 billion in respect of the restructuring process.
 
-නව ආර්ථිකයක් සමඟ රට ඉදිරියට ගෙන යාමේ දී කුරණෑගල දිස්ත්‍රික්කය ද නව සංවර්ධන සැලැස්මක් යටතේ පුළුල් සංවර්ධනයකට ලක් වන බවත් ජනාධිපතිවරයා මෙහිදී සඳහන් කළේය.
+The President points out that the people of the country have been able to provide $ 8 billion to the people of the country.
+
+The President made these comments addressing the ceremony at the North Western Agency (05) of the 73,143 qualifications of the Kurunegala district.
+
+The President added that the Kurunegala district is widely developed under a new development plan with a new economy.
+
+"Now the resolving people's problems have been started. People gave up hope when the economy of the country crashed. Today I should thank the MPs in this area. They did not think about it, even if their home was burnt. They have been given relief to the people. "
 
 ...
 
 [Data](articles/73170076.json)
+
+[Extended Data](ext_articles/73170076.ext.json)
 
 ---
 
@@ -2237,79 +2303,5 @@ Under 14 - Champion: Maurice Stella 28 Points, 2nd Place: Colombo Royal 19 Point
 [Data](articles/45762ff6.json)
 
 [Extended Data](ext_articles/45762ff6.ext.json)
-
----
-
-### Trying to postpone the election
-
-*2024-07-05 02:17:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-ஒத்திவைக்க-முயற்சி/175-339893) · `ta`
-
-Opposition leader Sajith Premadasa accuses the president and allies of attempting to delay the election, citing previous instances where negative national news influenced decisions against holding elections. He argues that despite constitutional requirements for the election to occur between September 17 and October 16, certain groups aim to obstruct the public's right to vote. Premadasa calls for the protection of voting rights and urges the Election Commission to ensure a fair and democratic election, emphasizing the readiness of the United People's Power and the United People's Alliance to combat any electoral conspiracies.
-
-🟩
-
-Opposition leader Sajith Premadasa has accused the president and his slaves of trying to postpone the election.
-
-In the past, slaves, manipulations and colleagues who represent the president and the government have made the idea that it is inappropriate to hold the presidential election with negative news to the country.
-
-The Opposition Leader said that this was not the right time to hold the presidential election on several occasions, the president and the groups close to him were trying to carry out a political agenda.
-
-In this context, there have been many attempts to snatch the presidential election that is legally and constitutionally held today.. He said all of these were conspiracies that violate the constitution.
-
-Opposition Leader Sajith Premadasa said that although the Constitution clearly stated that the presidential election should be held from September 17 to October 16, some groups are working to disrupt the right to the people of the country to elect a new president.
-
-...
-
-[Data](articles/676f53fe.json)
-
-[Extended Data](ext_articles/676f53fe.ext.json)
-
----
-
-### CEAT tyres roll into Brazil, expanding brand’s export footprint
-
-*2024-07-05 02:16:00* · [`islandlk`](http://island.lk/ceat-tyres-roll-into-brazil-expanding-brands-export-footprint/) · `en`
-
-Brazil, the country that gave the world natural rubber, has become the latest export market for CEAT tyres manufactured in Sri Lanka.CEAT Kelani Holdings recently despatched its first export consignment of tyres to Brazil, the second country in South America to join the Company’s international footprint, which covers 16 countries.
-
-The commencement of exports to Brazil was preceded by CEAT Kelani receiving the requisite INMETRO certification from the National Institute of Metrology, Standardization and Industrial Quality, Brazil’s national standards body.
-
-IASL HR Conference 2024 set to reimagine resilience for a transformative future
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/75f00dd8.json)
-
-[Extended Data](ext_articles/75f00dd8.ext.json)
-
----
-
-### No matter who is in the election, my journey is not a barrier - Sajith Premadasa
-
-*2024-07-05 02:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/187705) · `ta`
-
-Sajith Premadasa emphasizes anyone's candidacy shouldn't obstruct his path, highlighting the democratic right to run for office. He criticizes unnamed individuals for weapon exchanges remarks, urging accountability but denies involvement in such discussions. He stresses adherence to electoral laws and fairness, ensuring civil authorities remain unarmed.
-
-🟩
-
-Any citizen has the right to field as a candidate. Opposition leader Sajith Premadasa said that the Tamil general candidate, who was in the election, would not be a hindrance to my journey.
-
-The Opposition Leader said that the two men who made comments in Batticaloa should be held in the media on the exchanging of weapons during the war.
-
-He further stated that he was speaking to the media on Thursday (04) in Batticaloa.
-
-Elections should be held in accordance with the law of the country. I hope that the EC will act with fairness. Civil authorities are prohibited from being armed. It is the law in the country.
-
-So we will implement that law. Anurakumara Dissanayake and Sivanesathurai Chandikanthan have talked about the exchanging of weapons?Tell us who gave a debate on TV on who gave and who bought it. That is not my responsibility.
-
-...
-
-[Data](articles/b6c0509a.json)
-
-[Extended Data](ext_articles/b6c0509a.ext.json)
 
 ---

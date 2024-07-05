@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 22:53:29**
+As of **2024-07-05 23:05:05**
 
 ## Newspaper Stats
 
-*Scraped **33,868** Articles*
+*Scraped **33,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,889
 economynextcom | 1,995
 dailyftlk | 2,100
 adalk | 3,028
-adaderanalk | 3,874
+adaderanalk | 3,875
 tamilmirrorlk | 4,008
 dailymirrorlk | 4,733
 virakesarilk | 5,310
@@ -26,39 +26,71 @@ adaderanasinhalalk | 5,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,866 (100.0%) of 33,868 articles have been extended.
+33,868 (100.0%) of 33,869 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### உரிய திகதியில் தேர்தலை நடத்த வேண்டு - ஜனாதிபதி
+### The President should hold elections on the appropriate date - President
 
 *2024-07-05 22:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரிய-திகதியில்-தேர்தலை-நடத்த-வேண்டு-ஜனாதிபதி/175-339929) · `ta`
 
-உரிய திகதியில் தேர்தலை நடத்த வேண்டும் எனவும், அதற்காக தேர்தல்கள் ஆணையாளருடன் இடம்பெற்ற கலந்துரையாடலில் விடயங்களை விளக்கியதாகவும், ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe urges for timely elections, discussing with the Election Commissioner. The President of Sri Lanka Ramanya Maha Nikaya visits headquarters, engages in discussions, and receives a souvenir.
 
-நாரஹேன்பிட்டி, எல்விடிகல வீதியில் அமைந்துள்ள ஸ்ரீலங்கா ராமன்ய மகா நிகாயவின் தலைமையகத்திற்கு இன்று (05) பிற்பகல் விஜயம் செய்த ஜனாதிபதி, இலங்கை ராமன்ய மகா நிகாயவின் மகாநாயக்க வண. மகுலேவே விமல மகாநாயக்க தேரரைச் சந்தித்து நலன் விசாரித்ததுடன், சிறு கலந்துரையாடிலும் ஈடுபட்டார்.
+🟩
 
-இதன்போது, பிரித் பாராயணம் செய்து ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு ஆசி வழங்கிய தேரர், ஜனாதிபதிக்கு நினைவுப் பரிசு ஒன்றையும் வழங்கி வைத்தார்.
+President Ranil Wickremesinghe said that the election should be held on the appropriate date and explained the matter with the Commissioner of Elections.
 
-உரிய திகதியில் தேர்தலை நடத்த வேண்டும் என்று தேர்தல்கள் ஆணையாளரிடம் தெரிவித்துள்ளேன். 2015ஆம் ஆண்டு ஜனாதிபதியின் பதவிக்காலத்தை 06 வருடங்களில் இருந்து 05 வருடங்களாக குறைக்க நான் தான் பரிந்துரைத்தேன் என்றும் நினைவுகூர்ந்தார். R
+President of Sri Lanka Ramanya Maha Nikaya, located at Elvitigala Road, Narahenpitiya, visited the headquarters of Sri Lanka Ramanya Maha Nikaya this afternoon. Makuleway met Wimala Mahanayaka Thera and inquired about the welfare and engaged in a short discussion.
+
+Thera, who recited the British and blessed President Ranil Wickremesinghe, presented a souvenir to the President.
+
+I have informed the Commissioner of Elections to hold elections on the appropriate date. He recalled that I had recommended the 2015 presidential term from six years to 05 years.. Remble
 
 ◼️
 
 [Data](articles/50938445.json)
 
+[Extended Data](ext_articles/50938445.ext.json)
+
 ---
 
-### දුම්රියක් පීලි පනී
+### Sri Lankan-origin Uma Kumaran elected to UK Parliament
+
+*2024-07-05 22:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100324/sri-lankan-origin-uma-kumaran-elected-to-uk-parliament) · `en`
+
+Uma Kumaran, daughter of a couple who sought refuge in the United Kingdom after having fled Sri Lanka at the height of the civil war, on Friday scripted history by becoming the first-ever Tamil woman to enter the British Parliament.
+
+Born and raised in London, Uma Kumaran is the first ever member of parliament for Stratford and Bow. Her parents hailed from Jaffna in the war-torn northern province of Sri Lanka and belong to a family that had deep connections with trade unions. They came to London in the 1980s.
+
+A member of the Labour Party, Uma Kumaran polled over 19,000 votes and defeated her nearest rival by over 12,000 votes.
+
+Working for NHS Professionals for 14 months, Uma Kumaran was a parliamentary researcher and caseworker for Labour MP Dawn Butler and worked with several lawmakers of the party before she contested the local body elections in 2010 but failed to get elected.
+
+She was also deputy director of Parliamentary Affairs for Labour Party leader Keir Starmer for over 18 months.
+
+...
+
+[Data](articles/46148f65.json)
+
+---
+
+### A train jumps derails
 
 *2024-07-05 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198524) · `si`
 
-බදුල්ල සිට කොළඹ කොටුව බලා ධාවනය වූ රාත්‍රී තැපැල් දුම්රිය පීලි පැනීමකට ලක්වී තිබේ.
+A train derailed near Badulla, disrupting the night postal service between Badulla and Colombo Fort.
+
+🟩
+
+Thereafter, the night postal trains traveling from Badulla to Colombo Fort.
 
 ◼️
 
 [Data](articles/d815dd9a.json)
+
+[Extended Data](ext_articles/d815dd9a.ext.json)
 
 ---
 
@@ -2303,27 +2335,5 @@ The police said that the owners of the restaurants have stated that the owners o
 [Data](articles/feb5a0cd.json)
 
 [Extended Data](ext_articles/feb5a0cd.ext.json)
-
----
-
-### Kandy-Matale road temporarily closed at Akurana due to fire
-
-*2024-07-05 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100299/kandy-matale-road-temporarily-closed-at-akurana-due-to-fire) · `en`
-
-UPDATE: The section of A9 road which was temporarily closed due to a fire which had broken out in a shop at Akurana, has now been reopened, the police said.
-
-The Kandy-Matale road (A9) has been temporarily closed at Akurana due to a fire that broke out in a shop at Akurana and has spread to several adjacent shops in the vicinity, according to police.
-
-Accordingly, motorists are kindly advised to use alternate routes to avoid inconveniences.
-
-It has been reported that the fire is still not under control.
-
-According to the police, the restaurant owners have stated that there are around 50 gas cylinders in the premises, complicating efforts to contain the blaze.
-
-◼️
-
-[Data](articles/334654b0.json)
-
-[Extended Data](ext_articles/334654b0.ext.json)
 
 ---

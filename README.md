@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 01:35:27**
+As of **2024-07-06 01:54:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,872 (100.0%) of 33,887 articles have been extended.
+33,882 (100.0%) of 33,887 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The Global Unity Dinner serves as a focal point for encouraging unity, peace, an
 
 [Data](articles/e0da0b18.json)
 
+[Extended Data](ext_articles/e0da0b18.ext.json)
+
 ---
 
 ### Madurika Joseph Weninger assumes duties as first Sri Lankan Ambassador to Romania
@@ -59,6 +61,8 @@ Ambassador Madurika Weninger joined the Sri Lanka Foreign Service (SLFS) in 1998
 ...
 
 [Data](articles/71aa18e1.json)
+
+[Extended Data](ext_articles/71aa18e1.ext.json)
 
 ---
 
@@ -76,6 +80,8 @@ Following the Credentials ceremony, High Commissioner Goonawardena had an audien
 
 [Data](articles/37f641ea.json)
 
+[Extended Data](ext_articles/37f641ea.ext.json)
+
 ---
 
 ### Ministerial Consultative Committee approves Orders containing code of conduct for JPs
@@ -91,6 +97,8 @@ The purpose of the said Orders is to promote moral and ethical conduct among jus
 ...
 
 [Data](articles/a060e206.json)
+
+[Extended Data](ext_articles/a060e206.ext.json)
 
 ---
 
@@ -128,6 +136,8 @@ This program is planned for two years commencing from 2024 till the end of 2025 
 
 [Data](articles/8d165980.json)
 
+[Extended Data](ext_articles/8d165980.ext.json)
+
 ---
 
 ### Ninth ‘Construction Power and Energy Expo 2024’ kicks off at BMICH
@@ -141,6 +151,8 @@ Organiser Lanka Exhibition and Conference Services (LECS) said the ‘Constructi
 ...
 
 [Data](articles/1e93ed77.json)
+
+[Extended Data](ext_articles/1e93ed77.ext.json)
 
 ---
 
@@ -162,6 +174,8 @@ His insights highlighted the essence of ‘The CEO Water Mandate’, to which Ha
 
 [Data](articles/e1a36fe4.json)
 
+[Extended Data](ext_articles/e1a36fe4.ext.json)
+
 ---
 
 ### SLASSCOM and IIT Madras Pravartak forge strategic partnership to boost startup ecosystem in country
@@ -175,6 +189,8 @@ The agreement was facilitated by Dr. Shankar Raman from IIT Madras Pravartak and
 ...
 
 [Data](articles/07bc2ffc.json)
+
+[Extended Data](ext_articles/07bc2ffc.ext.json)
 
 ---
 
@@ -192,6 +208,8 @@ Lumala had a highly successful debut at the expo, making strides in bringing som
 
 [Data](articles/f7d9e9b6.json)
 
+[Extended Data](ext_articles/f7d9e9b6.ext.json)
+
 ---
 
 ### The Global South sees Five Principles of Peaceful Coexistence as relevant and important norm
@@ -207,6 +225,8 @@ Chinese President Xi Jinping delivered an important speech at the conference. Du
 ...
 
 [Data](articles/5ed1285d.json)
+
+[Extended Data](ext_articles/5ed1285d.ext.json)
 
 ---
 

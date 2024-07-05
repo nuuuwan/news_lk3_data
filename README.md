@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 10:35:13**
+As of **2024-07-05 10:53:33**
 
 ## Newspaper Stats
 
-*Scraped **33,775** Articles*
+*Scraped **33,778** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,97 @@ islandlk | 1,889
 economynextcom | 1,986
 dailyftlk | 2,099
 adalk | 3,020
-adaderanalk | 3,854
-tamilmirrorlk | 3,995
+adaderanalk | 3,855
+tamilmirrorlk | 3,996
 dailymirrorlk | 4,733
 virakesarilk | 5,289
-adaderanasinhalalk | 5,596
+adaderanasinhalalk | 5,597
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,774 (100.0%) of 33,775 articles have been extended.
+33,775 (100.0%) of 33,778 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### සුනක් පරාජය පිළිගනී
+### කෙහෙළිය පවුලේ බැංකු ගිණුම් සහ ජීවිත රක්ෂණ ඔප්පු ගැන අධිකරණ නියෝගයක්
+
+*2024-07-05 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198503) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගේ ඇතුළු පවුලේ 6කගේ ස්ථාවර තැන්පතු ගිණුම් සහ ජීවිත රක්ෂණ ඔප්පු මාස 3කට අත්හිටුවීමට අධිකරණය අද (05) නියෝග කළේය.
+
+කොළඹ මහාධිකරණ විනිසුරු මංජුල තිලකරත්න මහතා විසින් අදාළ නියෝගය නිකුත්කළ බව අප අධිකරණ වාර්තාකරු පැවසීය.
+
+එම ස්ථාවර තැන්පතු ගිණුම් සහ ජීවිත රක්ෂණ ඔප්පු වල වටිනාකම රුපියල් මිලියන 97කට අධික බව සඳහන් වෙයි.
+
+එම බැංකු ගිණුම් සහ ජීවිත රක්ෂණ ඔප්පු පවත්වාගෙන ගොස් ඇත්තේ කෙහෙළිය රඹුක්වැල්ල, ඔහුගේ බිරිඳ, දියණියන් තිදෙනා සහ එක් දියණියකගේ ස්වාමි පුරුෂයා නමිනි.
+
+◼️
+
+[Data](articles/a2b348ef.json)
+
+---
+
+### அக்குரணையில் பாரிய தீ
+
+*2024-07-05 10:22:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அக்குரணையில்-பாரிய-தீ/76-339900) · `ta`
+
+அக்குரணை பகுதியிலுள்ள உணவகத்தில் இன்று காலை தீ பரவியுள்ளதாக தீயணைப்பு பிரிவு தெரிவிக்கின்றது.
+
+தீ பரவல் காரணமாக மாத்தளை – கண்டி பிரதான வீதியின் போக்குவரத்து நடவடிக்கைகள் பாதிக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/71116cf1.json)
+
+---
+
+### UK’s Labour sweeps to power as Sunak concedes election
+
+*2024-07-05 10:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100302/uks-labour-sweeps-to-power-as-sunak-concedes-election) · `en`
+
+Keir Starmer will be Britain’s next prime minister with his centre left Labour Party expected to win a huge majority in a parliamentary election, ending 14 years of often tumultuous Conservative government by trouncing Rishi Sunak’s party.
+
+With many results still to be announced from Thursday’s vote, centre-left Labour has already won more than 326 of the 650 seats in parliament, with an exit poll suggesting it would capture about 410.
+
+On a humiliating night for Sunak, the Conservatives have so far only won 70 and were predicted to suffer the worst performance in the party’s long history with voters punishing them for a cost of living crisis, failing public services, and a series of scandals.
+
+“Tonight, people here and around the country have spoken and they’re ready for change, to end the politics of performance, a return to politics as public service,” Starmer said after winning his seat in London.
+
+“The change begins right here ... You have voted. It is now time for us to deliver.”
+
+...
+
+[Data](articles/54b29ebb.json)
+
+---
+
+### Acknowledges the defeat of Suneo
 
 *2024-07-05 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198502) · `si`
 
-ජාතික මැතිවරණයේදී බ්‍රිතාන්‍ය කොන්සෙවටිව් පක්ෂය ලැබූ පරාජයේ වගකීම තමා භාරගන්නා බව රිෂි සුනක් පවසයි.
+Risshi accepts responsibility for the British Conservative Party's defeat in the national election, leading to Keir Starmer's appointment as Prime Minister. The Labour Party secures power, marking a significant shift in UK politics.
 
-මැතිවරණයේ මෙතෙක් නිකුත්කර ඇති ප්‍රතිඵල විශ්ලේෂණය කළ විචාරකයින් පවසන්නේ කම්කරු පක්ෂය ආසන 170ක පමණ බහුතරයකින් ජයගැනීමට ඉඩ ඇති බවයි.
+🟩
 
-ඒ අනුව Keir Starmer බ්‍රිතාන්‍ය අගමැති ධුරය සඳහා පත්වීමට නියමිතය.
+Risshi says he will accept the responsibility of the defeat of the British Constertive Party at the national election.
 
-කම්කරු පක්ෂය බ්‍රිතාන්‍යයේ බලය ලබාගෙන ඇත්තේ වසර 14කට පසුව වීම විශේෂත්වයකි.
+Results of the Elections Soor
 
-ලන්ඩනයේ සිට සිය පාක්ෂිකයින් අමතමින් Starmer පැවසුවේ "වෙනස දැන් ඇරඹෙනවා" යනුවෙනි.
+Keir Starmer is due to be appointed as the British Prime Minister.
+
+It is noteworthy that the Labor Party had obtained the power of Britain.
+
+Addressing his support from London, Starmer, "the change is now on."
 
 ◼️
 
 [Data](articles/419baee9.json)
+
+[Extended Data](ext_articles/419baee9.ext.json)
 
 ---
 
@@ -235,6 +293,10 @@ The police said that the owners of the restaurants have stated that the owners o
 The Kandy-Matale road (A9) has been temporarily closed at Akurana due to a fire that broke out in a shop at Akurana and has spread to several adjacent shops in the vicinity, according to police.
 
 Accordingly, motorists are kindly advised to use alternate routes to avoid inconveniences.
+
+It has been reported that the fire is still not under control.
+
+According to the police, the restaurant owners have stated that there are around 50 gas cylinders in the premises, complicating efforts to contain the blaze.
 
 ◼️
 
@@ -2193,83 +2255,5 @@ The driver of the lorry has been arrested and the Aladeniya Police are conductin
 [Data](articles/bf43fc2f.json)
 
 [Extended Data](ext_articles/bf43fc2f.ext.json)
-
----
-
-### Inbow, infrated of uneducated milk
-
-*2024-07-04 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198484) · `si`
-
-An infant, one of twin siblings aged 2 and 27 days, died after being transferred between hospitals due to a milk shortage issue. The twins were initially taken to a hospital but were moved to the Matara District New Hospital. However, due to administrative delays, they were later transported to the Matara General Hospital. The cause of death, according to the autopsy, was related to milk issues.
-
-🟩
-
-After the milk was brought to the hospital due to milk border, the relevant hospital was reported to be taken to another hospital due to the lack of handing over the bulk.
-
-It was reported that the infant was taken to the Matara District New Hospital.
-
-The deceased was the elder infant of the two twin children, two and 27 days 27 days 27 days 27 days in Matara.
-
-The child has provided milk during yesterday (03).
-
-The infant had been taken to the Matara District New Hospital in the Kotawila area in Matara.
-
-According to the parents, the security personnel have said that the patient cannot accept that the patient cannot be taken up at the moment.
-
-The parents have told the parents to allow the hospital to take the hospital in ambulance or other hospital.
-
-Later, they paid about 10 miles [10 km] and the baby was taken to the Matara General Hospital.
-
-The doctors have said that the baby has been brought about 30 minutes ago, that the baby had been brought back to 30 minutes ago.
-
-...
-
-[Data](articles/7fc4fbde.json)
-
-[Extended Data](ext_articles/7fc4fbde.ext.json)
-
----
-
-### ‘I’m running’, Biden says, as pressure to drop out grows
-
-*2024-07-04 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100290/im-running-biden-says-as-pressure-to-drop-out-grows) · `en`
-
-US President Joe Biden worked to calm senior Democrats and staff on his campaign on Wednesday, as reports suggested he was weighing his future after his disastrous debate with Donald Trump last week.
-
-Mr Biden held a closed-door lunch with Vice-President Kamala Harris at the White House as speculation mounted over whether she would replace him as the party’s candidate in November’s election.
-
-The pair then joined a call with the broader Democratic campaign where Mr Biden made clear he would remain in the race and Ms Harris reiterated her support. “I’m the nominee of the Democratic Party. No one’s pushing me out. I’m not leaving,” he told the call, a source told BBC News.
-
-That same phrase was repeated in a fundraising email sent out a few hours later by the Biden-Harris campaign. “Let me say this as clearly and simply as I can: I’m running,” Mr Biden said in the email, adding that he was “in this race until the end”.
-
-...
-
-[Data](articles/484219ee.json)
-
-[Extended Data](ext_articles/484219ee.ext.json)
-
----
-
-### Galle The Galle
-
-*2024-07-04 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198483) · `si`
-
-Heavy rains in Galle caused flooding on several lands and roads, disrupting traffic and affecting areas like Galle-Baddegama, Beligaha, and Kahaduwa.
-
-🟩
-
-A few lands and roads in Galle have been flooded due to the heavy rains of the heavy rains that fall from last night.
-
-Traffic was interrupted due to watering the Galle Police in front of the Galle Police in front of the Galle Police.
-
-Traffic was disrupted due to watering from Galle - Baddegama main road in Galle and Beligaha, Kahaduwa and Kahaduwa.
-
-Due to this rain, inferior areas have been flooded in water.
-
-◼️
-
-[Data](articles/3ae571c1.json)
-
-[Extended Data](ext_articles/3ae571c1.ext.json)
 
 ---

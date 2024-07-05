@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 14:54:12**
+As of **2024-07-05 15:04:51**
 
 ## Newspaper Stats
 
-*Scraped **33,817** Articles*
+*Scraped **33,823** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,139 @@ islandlk | 1,889
 economynextcom | 1,986
 dailyftlk | 2,100
 adalk | 3,023
-adaderanalk | 3,864
+adaderanalk | 3,865
 tamilmirrorlk | 4,004
 dailymirrorlk | 4,733
-virakesarilk | 5,300
-adaderanasinhalalk | 5,604
+virakesarilk | 5,303
+adaderanasinhalalk | 5,606
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,816 (100.0%) of 33,817 articles have been extended.
+33,817 (100.0%) of 33,823 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### යුක්තිය 2වන අදියරේ පළමු දි‍නයේ දී සැකකරුවන් 1,403ක් අත්අඩංගුවට
+### ණය ප්‍රතිව්‍යුහගතකරණය අවසන් වෙන විදිය
+
+*2024-07-05 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198512) · `si`
+
+ශ්‍රී ලංකා රජය සහ ස්වෛරී බැඳුම්කරහිමියන් අතර පැමිණි එකඟතාවය ජාත්‍යන්තර මුල්‍ය අරමුදල සහ නිල ණයහිමි කමිටුව විසින් අනුමත කළහොත් මෙරට ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලිය අවසන් බව මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+
+ණය ප්‍රතිව්‍යුහගත කිරීම පිළිබඳ තොරතුරු දැනුම්දීම සඳහා රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ අද (05) පැවති ප්‍රවෘත්ති සාකච්ඡාව අමතමින් ඒ මහතා මේ බව පැවසීය.
+
+එම මාධ්‍ය සාකච්ඡාවට අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා ද එක්වී සිටියේය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා,
+
+"ස්වෛරී බැඳුම්කරවලින් ගත්ත විශාල ණය ප්‍රමාණයක් තියෙනවා  බිලියන 14ක් පමණ. එකෙන් 12.5ක ණය ලබා දීපු අයත් එක්ක සාකච්ඡා වට කිහිපයක් පැවැත්වුවා. අපිට පුළුවන් වුණා යම්කිසි ආකාරයක අපි දෙගොල්ලන්ට එකඟ විය හැකි ස්ථානයකට ඇවිල්ලා... ඒ ප්‍රකාශය තමා අපි ඊයේ නිකුත් කළේ. හැකි ඉක්මනින් ඒ OCC වාර්තා සහ IMF එකේ විනිශ්චය ලබා දුන්නට පස්සේ ඒක සම්පූර්ණ කරන්න පුළුවන්. මේ ණය ප්‍රතිව්‍යූහගතකරණය කරාම සම්පූර්ණයෙන් දීර්ඝ කාලීනව ඊළඟ අවුරුදු 10 ක් 20ක් කාලය තුළ ණය තිරසර භාවය සාක්ෂාත් වෙනවා."
+
+◼️
+
+[Data](articles/99cc66c8.json)
+
+---
+
+### திருகோணமலையில் சம்பந்தனின் பூதவுடல் மக்கள் அஞ்சலி..!
+
+*2024-07-05 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/187753) · `ta`
+
+மறைந்த திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினர் இராஜவரோதயம் சம்பந்தனின் பூதவுடல் விமானம் மூலம் திருகோணமையில் அமைந்துள்ள சீனன்குடா விமான நிலையத்தை சென்றடைந்தது.
+
+திருகோணமையில் அமைந்துள்ள அவரது இல்லத்திற்கு எடுத்துச் செல்லப்பட்டு தற்போது பொதுமக்கள் அஞ்சலிக்காக வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/771ad956.json)
+
+---
+
+### அக்குறணை தீ கட்டுப்பாட்டுக்குள் ; மாத்தளை – கண்டி பிரதான வீதி வழமைக்கு திரும்பியது
+
+*2024-07-05 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/187744) · `ta`
+
+அக்குறணை நகரில் ஏற்பட்ட தீ விபத்தினால் போக்குவரத்து ஸ்தம்பிதம் அடைந்த மாத்தளை – கண்டி பிரதான வீதி வழமைக்கு திரும்பியுள்ளது.
+
+இன்று வெள்ளிக்கிழமை (06)  காலை அக்குறணை நகரிலுள்ள உணவ வெதுப்பகம் ஒன்றில் தீ விபத்து ஏற்பட்டது. இதனை அடுத்து தீ பரவி 3 மாடி கட்டடம் முற்றாகச் சேதமடைந்துள்ளது.
+
+இதனையடுத்து இன்றையதினம் காலை 8.00 மணி மாத்தளை - கண்டி  பிரதான வீதியில் போக்குவரத்து முற்றாக ஸ்தம்பிதம் அடைந்தது.
+
+இந்நிலையில், கண்டி மாநகர சபை தீ அணைப்புப் பிரிவினரும் பொலிஸாரும், பிரதேச மக்களும் இணைந்து அருகில் உள்ள கட்டடங்களுக்கு தீ பரவுவதை கட்டுப்படுத்தி போக்குவரத்து வழமைக்கு திரும்பியுள்ளது.
+
+◼️
+
+[Data](articles/2d61bdd8.json)
+
+---
+
+### Sri Lanka’s official reserves up by 4.3% in June
+
+*2024-07-05 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100312/sri-lankas-official-reserves-up-by-43-in-june) · `en`
+
+Sri Lanka’s official reserve assets increased by 4.3% to USD 5.64 billion in June 2024, compared to USD 5.41 billion in May 2024, according to the Central Bank of Sri Lanka (CBSL).
+
+However, this includes proceeds from the swap with People’s Bank of China (PBoC) equivalent to around USD 1.4 billion, which is subject to conditionalities on usability.
+
+◼️
+
+[Data](articles/070abf58.json)
+
+---
+
+### පොලිස් වැටලීමකදී සැකකරුවෙකුට වෙඩිතබයි
+
+*2024-07-05 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198511) · `si`
+
+පොලිස් අණ නොතකා මෝටර් රථයක් ධාවනය කළ පුද්ගලයෙකුට පොලීසිය වෙඩිතැබීමක් සිදුකර තිබේ.
+
+මත්ද්‍රව්‍ය ජාවාරම්කරුවකු අත්අඩංගුවට ගැනීමට ගිය පොලිස් ත්‍රීරෝද රථයක් අනතුරට ලක් කර මෝටර් රථයකින් පළාගිය පුද්ගලයෙකුට මෙලෙස අතුරුගිරිය පොලීසිය විසින් වෙඩිතබා ඇත.
+
+වෙඩිතැබීමෙන් අදාළ පුද්ගලයාගේ පාදයකට තුවාල සිදුවී ඇති අතර ඔහු රෝහල්ගතවීමට යෑමේදී අත්අඩංගුවට ගත් බව පොලීසිය පැවසීය.
+
+අතුරුගිරිය පොලීසියේ නිලධාරීන් කණ්ඩායමක් ඊයේ (04) රාත්‍රියේ මත්ද්‍රව්‍ය ජාවාරම්කරුවකු අත්අඩංගුවට ගැනීම සඳහා ත්‍රීරෝද රථයකින් පිළියන්දල ප්‍රදේශයට ගොස් ඇත.
+
+පොලීසිය පැවසවේ එහිදී මත්ද්‍රව්‍ය රැගෙන මෝටර් රථයක පැමිණි බවට තොරතුරක් ලැබුණු පුද්ගලයෙකු අත්අඩංගුවට ගැනීමට යෑමේදී ඔහු පොලිස් නිලධාරීන් පැමිණි ත්‍රීරෝද රථය හප්පා එම ස්ථානයෙන් පළායෑමට උත්සාහ කර තිබූ බවය.
+
+එම අවස්ථාවේදී ක්‍රියාත්මක වූ පොලිස් නිලධාරීන් සැකකරුට වෙඩි තබා තිබුණි.
+
+◼️
+
+[Data](articles/8d2e4c2a.json)
+
+---
+
+### 1,403 suspects arrested in Phase 2 of justice
 
 *2024-07-05 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198510) · `si`
 
-යුක්තිය මෙහෙයුමේ 2වන අදියර ඊයේ (04) ආරම්භ කෙරුණු අතර එහිදී සැකකරුවන් 1,403 දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+In Phase 2 of justice operations, 1,403 suspects were arrested, including 404 from the second stage alone. The operation resulted in the seizure of 37 million kilos of heroin and 3.74 kilograms of cannabis.
 
-මෙම මෙහෙයුමේදී හෙරොයින් කිලෝ 1යි ග්‍රෑම් 86ක්, අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 782.7ක්, ගංජා කිලෝග්‍රෑම් 3.74ක් පොලිස් භාරයට ගත් බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පැවසීය.
+🟩
+
+The 2nd stage of justice operations commenced yesterday (0403 suspects were arrested).
+
+According to the police media spokesman's office, 37 m kilos of heroin in this operation, police spokesman's office said that 3.74 kilograms of cannabis were taken into custody.
 
 ◼️
 
 [Data](articles/a0dea746.json)
+
+[Extended Data](ext_articles/a0dea746.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-07-05 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/187746) · `ta`
+
+இன்று வெள்ளிக்கிழமை (ஜூலை 05) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 300.0612 ரூபாவாகவும், விற்பனை விலை 309.3025 ரூபாவாகவும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/a5b0c201.json)
 
 ---
 
@@ -2145,133 +2251,5 @@ The closing and awards ceremony of the Huawei ICT Competition 2023–2024 Global
 [Data](articles/9c87222c.json)
 
 [Extended Data](ext_articles/9c87222c.ext.json)
-
----
-
-### 2024-07-04 (Thursday)
-
-### On a merry-go-round with “debt sustainability”
-
-*2024-07-04 22:56:49* · [`dailyftlk`](https://www.ft.lk/columns/On-a-merry-go-round-with-debt-sustainability/4-763849) · `en`
-
-SL people have been left totally out of the whole process of “debt restructuring” and in the dark on “conditions and measures” the Wickremesinghe Government has agreed to
-
-One major reason there is no transparency in any of the transactions President Wickremesinghe entered into with the IMF and in debt restructuring, is untold geo-political tie-ups. I doubt the President would ever be transparent and accountable to the people with numerous geo-political obligations that would have to remain out of public eye. But people have a right to know the conditions they are tied to in “deferring bi-lateral loan instalment payments”
-
-Sri Lanka signing agreements with bi-lateral lenders Japan, China and India to restructure external debts has received calculated praise from SJB leadership and from the IMF with expectations. Japan congratulated Sri Lanka for effectively “managing debt obligations”.
-
-...
-
-[Data](articles/4edd7fe3.json)
-
-[Extended Data](ext_articles/4edd7fe3.ext.json)
-
----
-
-### Imputed Rental Income Tax: A poisoned chalice?
-
-*2024-07-04 22:26:47* · [`dailyftlk`](https://www.ft.lk/columns/Imputed-Rental-Income-Tax-A-poisoned-chalice/4-763847) · `en`
-
-While the IMF staff report offered a foundational framework for the proposed IRIT, recent pronouncements from the Government hint at potential divergences from the outlined plan
-
-While the IMF recommends a wider tax net with progressive rates, the current Income Tax system, with its narrow base and high rates, suggests that policymakers might prioritise other approaches. Additionally, the IMF criticises the “Net Annual Value” concept for its reliance on exemptions (such as exempting the primary residence) and the use of assessed values. This raises the question: “Is there a contradiction between the vision of the IMF with regard to the Tax Base pertaining to IRIT and the intention of the Government”?
-
-As per the recently published IMF Staff Level Report, it is expected that the Imputed Rental Income Tax (IRIT) would be implemented before the beginning of the tax year, April 2025.
-
-...
-
-[Data](articles/4527fdbb.json)
-
-[Extended Data](ext_articles/4527fdbb.ext.json)
-
----
-
-### Israel sends delegation to negotiate hostage release deal with Hamas
-
-*2024-07-04 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100297/israel-sends-delegation-to-negotiate-hostage-release-deal-with-hamas) · `en`
-
-Israel has dispatched a delegation to negotiate a hostage release deal with Hamas, a government official said on Thursday, as Prime Minister Benjamin Netanyahu prepared to convene his security cabinet to discuss new Hamas positions on an accord.
-
-Before the cabinet meets on Thursday evening, Netanyahu will have consultations with his ceasefire negotiations team, a source in his office said. U.S.
-
-President Joe Biden, who has sought for months to broker a truce, will also speak with Netanyahu on Thursday, a source familiar with the matter said.
-
-“Prime Minister Netanyahu reiterated that the war will end only after all its objectives have been achieved and not a moment before,” said the official, who did not specify where the delegation had been sent.
-
-Prior efforts to end the nearly nine-month conflict were mediated by Egypt and Qatar, with talks held in both locations.
-
-...
-
-[Data](articles/e086a9d7.json)
-
-[Extended Data](ext_articles/e086a9d7.ext.json)
-
----
-
-### The racket of stolen furnace
-
-*2024-07-04 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198494) · `si`
-
-A racket involving the theft and resale of fuel oil was busted at the Kolonnawa Petroleum Investigation Terminal, impacting the Kerawalapitiya-Udumaya power plant. Authorities arrested 6 individuals and confiscated 33,000 liters of furnace oil. This operation targeted a network distributing stolen fuel oil, primarily sourced from the Bopitiya area, affecting the country's second-largest thermal power plant.
-
-🟩
-
-Kolonnawa Petroleum Investigation Terminal (Petroleum Consignment Terminal) (Petroleum Store Terminal was appointed to raise a racket to the Kerawalapitiya - Udumaya power plant.
-
-In this raid, a bowsers and 5 people have been arrested along with 33,000 liters of furnacers.
-
-The second largest thermal power plant built in Sri Lanka transmitted a capacity of 300 MW to the national grid.
-
-Details of a racket used for electricity generation in the power generation of electricity generation revealed information from the Bopitiya area in Wattala.
-
-Accordingly, the burning of the Javelles, Wattala, the Bopitiya area in the Bopitiya area, stolen in the Bopitiya, and sells other institutions.
-
-A group of officers in the Investigation Department of the Kolonnawa who was operating on information was carried out this afternoon.
-
-◼️
-
-[Data](articles/8b0674f7.json)
-
-[Extended Data](ext_articles/8b0674f7.ext.json)
-
----
-
-### Some opposition parties sabotaging govt’s development program - state minister
-
-*2024-07-04 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100296/some-opposition-parties-sabotaging-govts-development-program-state-minister) · `en`
-
-State Minister for Power and Energy Indika Anuruddha, stated that due to the success of the debt restructuring activities, the projects related to the energy sector, which were stalled during the last crisis, will be re-implemented and it will be of great help in solving the power crisis.
-
-The Minister of State also pointed out that some parties in the opposition are engaged in sabotage to weaken the program launched by the government to develop the country.
-
-State Minister Indika Anuruddha conveyed these updates during a media briefing at the Presidential Media Centre (PMC) held today (04) under the theme “Collective Path to a Stable Country”.
-
-...
-
-[Data](articles/e5ecb503.json)
-
-[Extended Data](ext_articles/e5ecb503.ext.json)
-
----
-
-### Expanding economic relations between Sri Lanka and Japan;Foreign Minister Ali Sabri talks with high -level committee
-
-*2024-07-04 21:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/187704) · `ta`
-
-Sri Lanka's Foreign Minister Ali Sabri, on a visit to Japan, discussed enhancing economic ties and attracting Japanese investments. Meetings with Japanese officials focused on reviving suspended development projects and exploring new investment opportunities in Sri Lanka.
-
-🟩
-
-External Affairs Minister Ali Sabri, who has made an official visit to Japan, has launched a wide range of talks with various top governments teams on further strengthening economic ties between the two countries and promoting Japan's new investments in Sri Lanka.
-
-Foreign Minister Ali Sabri made an official visit to Japan from 1st 7th of this month at the invitation of the Japanese Foreign Minister. During the issue, Japanese Foreign Minister Yogo Kamikawa, Senior Cabinet Secretary Hayashi Yoshimasa and Justice Minister Yuchi Koisumi met with various top levels.
-
-As a result, a meeting between the Senior Administrative Officers of the Japanese International Cooperation Agency (Zaqa), which is making major investments in Sri Lanka, was held yesterday.. During the meeting, it was extensively discussed in detail on the immediate recovery of the development projects suspended in the past.
-
-...
-
-[Data](articles/7ece1a97.json)
-
-[Extended Data](ext_articles/7ece1a97.ext.json)
 
 ---

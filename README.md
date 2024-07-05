@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 23:54:45**
+As of **2024-07-06 00:07:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,869 (100.0%) of 33,871 articles have been extended.
+33,871 (100.0%) of 33,871 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -252,6 +252,8 @@ When asked if the protest has any political motive, the Minister said it was par
 
 [Data](articles/b8de2737.json)
 
+[Extended Data](ext_articles/b8de2737.ext.json)
+
 ---
 
 ### Refer to the suspect in the murder suspect
@@ -303,6 +305,8 @@ The Great Britain colonized Sri Lanka for 150 years and built most of the island
 ...
 
 [Data](articles/d3d15011.json)
+
+[Extended Data](ext_articles/d3d15011.ext.json)
 
 ---
 

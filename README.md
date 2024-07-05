@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 08:01:25**
+As of **2024-07-05 08:13:42**
 
 ## Newspaper Stats
 
-*Scraped **33,758** Articles*
+*Scraped **33,759** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,889
 economynextcom | 1,986
 dailyftlk | 2,099
-adalk | 3,018
+adalk | 3,019
 adaderanalk | 3,849
 tamilmirrorlk | 3,993
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,591
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,757 (100.0%) of 33,758 articles have been extended.
+33,758 (100.0%) of 33,759 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -97,6 +97,8 @@ But during first round of talks, private bondholders were said to have been not 
 ◼️
 
 [Data](articles/95b7a3de.json)
+
+[Extended Data](ext_articles/95b7a3de.ext.json)
 
 ---
 
@@ -1145,6 +1147,22 @@ The petition requests that an interim order be issued to prevent the calling of 
 [Data](articles/b04c00d5.json)
 
 [Extended Data](ext_articles/b04c00d5.ext.json)
+
+---
+
+### ජනමත විමසුමකින් තොරව ජනපතිවරණය කල් දාන්න බෑ
+
+*2024-07-04 19:36:52* · [`adalk`](https://www.ada.lk/breaking_news/ජනමත-විමසුමකින්-තොරව-ජනපතිවරණය-කල්-දාන්න-බෑ/11-410620) · `si`
+
+ජනමත විචාරණයකින් තොරව එලඹෙන ජනපතිවරණය කල් දැමීමට හැකියාවක් නොමැති බව පිවිතුරු හෙළ උරුමය නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි. ඒ මහතා මේ බව සදහන් කර සිටියේ අද දින (04) පිටකෝට්ටේ පිවිතුරු හෙළ උරුමය පක්ෂ මූලස්ථානයේ පැවති එම පක්ෂයේ මාධ්‍ය හමුවකට එක් වෙමිනි.
+
+"ජනපතිවරණය පැවැත්විය යුතු දිනය පිළිබඳ ව්‍යවස්ථාවේ ව්‍යාකූලත්වයක් තිබෙන නිසා ඒ පිළිබඳ ශ්‍රේෂ්ඨාධිකරණය තීන්දුවක් දෙන තුරු ජනපතිවරණය පැවැත්වීම වලක්වන්න කියලා ව්‍යාපාරිකයෙක් උසාවි ගිහින්.  මේ නඩුවට කිසිම නීතිමය පදනමක් නැති නිසා බොහෝ දෙනෙක් මේක නොසලකා හරිවි.
+
+නමුත් අතීත අත්දැකීමක් නිසා අපි නම් මේකට දැඩි අවධානයක් යොමු කරනවා.  2023 පුංචි ඡන්දය ප්‍රකාශයට පත් කරපු වෙලාවේ එජාපයට සම්බන්ධ විශ්‍රාමික හමුදා නිලධාරියෙක් ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක් ගොනු කරලා කිව්වා, ආර්ථික අර්බූදය නිසා ආණ්ඩුවට සල්ලි නෑ.  ඒ නිසා ඡන්දය පවත්වන්න එපා කියලා.  හැමෝම ඒ නඩුවට හිනා වුණා.  නමුත් අන්තිමේ දී ආණ්ඩුවත් උසාවියට ඇවිත් ඉදිරිපත් කලේ ඒ තර්කයමයි.  කොහොම හරි දී පුංචි ඡන්දය අතුරුදහන් වුණා.  අදටත් සොයා ගන්න නෑ.
+
+...
+
+[Data](articles/420e774a.json)
 
 ---
 
@@ -2235,31 +2253,5 @@ Amaraweera said Sri Lanka’s agricultural exports to China in 2023 was 3.3 bill
 [Data](articles/85be4abf.json)
 
 [Extended Data](ext_articles/85be4abf.ext.json)
-
----
-
-### JR's grandson joined the United People's Power!
-
-*2024-07-04 13:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187663) · `ta`
-
-Pradeep Jayawardene, grandson of former President JR Jayawardene, has joined the United People's Power party to back Opposition Leader Sajith Premadasa. He's been named the Gampaha District Organizer for the party, having previously worked with the SLFP and representing them in various elections.
-
-🟩
-
-Pradeep Jayawardena, the grandson of President JR Jayawardene, has joined the United People's Power in order to support the political journey of Opposition Leader Sajith Premadasa.
-
-Opposition Leader Sajith Premadasa has appointed Pradeep Jayawardene, who joined the United People's Power as the United People's Power Gampaha District Organizer.
-
-He has served as the organizer of the Sri Lanka Freedom Party (SLFP) Colombo Eastern Election constituency and a member of the Central Committee.
-
-He represented the Gampaha district through the Sri Lanka Freedom Party (SLFP) in 2015 and was elected to the Colombo Municipal Council election in 2017.
-
-He also attended a media briefing at the Opposition Leader's office on Thursday (03).
-
-◼️
-
-[Data](articles/a4638c6f.json)
-
-[Extended Data](ext_articles/a4638c6f.ext.json)
 
 ---

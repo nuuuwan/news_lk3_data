@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 13:54:32**
+As of **2024-07-05 14:06:07**
 
 ## Newspaper Stats
 
-*Scraped **33,807** Articles*
+*Scraped **33,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,73 @@ adaderanalk | 3,862
 tamilmirrorlk | 4,002
 dailymirrorlk | 4,733
 virakesarilk | 5,299
-adaderanasinhalalk | 5,601
+adaderanasinhalalk | 5,603
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,806 (100.0%) of 33,807 articles have been extended.
+33,807 (100.0%) of 33,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### முதுகை படம் எடுத்தவர் சிக்கினார்
+### මම ready - ධම්මික පෙරේරා
+
+*2024-07-05 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198509) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපතිවරණ අපේක්ෂකයා ලෙස තමන්ව ඉදිරිපත් කිරීමට එම පක්ෂය තීන්දු කරන්නේ නම් තමන් ඊට සූදානමින් පසුවන බව එම පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රි ව්‍යාපාරික ධම්මික පෙරේරා මහතා පවසයි.
+
+ඔහු මේ බව සඳහන් කළේ ශ්‍රී ලංකා පොදුජන පෙරමුණේ වෘත්තිකයින්ගේ මධ්‍යස්ථානය අද (05) පෙරවරුවේ කොළඹදී විවෘත කළ අවස්ථාවේදීය.
+
+එම අවස්ථාවට පක්ෂයේ ජාතික සංවිධායක නාමල් රාජපක්ෂ මහතා ද එක්ව සිටියේය.
+
+◼️
+
+[Data](articles/c0fbe195.json)
+
+---
+
+### බදුල්ලේ බිහිසුණු අනතුරක් - 4ක් මරුට
+
+*2024-07-05 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198508) · `si`
+
+බදුල්ල-සොරණාතොට මාර්ගයේ වැලිහිඳ ප්‍රදේශයේදී  අද (05) දහවල් 12 ට පමණ ලොරි රථයක් මාර්ගය මැද පෙරළීමෙන් එහි ගමන්කළ පුද්ගලයන් 4 දෙනෙකු මියගොස් තිබේ.
+
+එහි සිටි තවත් තිදෙනෙක්ට බරපතළ තුවාල සිදුව ඇතැයි බදුල්ල පොලීසිය පවසයි.
+
+මෙසේ අනතුරට ලක්ව ඇත්තේ මාර්ගවල මගී ආවරණ සවි කිරීම සඳහා මොනරාගල සිට පැමිණි පිරිසකි
+
+◼️
+
+[Data](articles/5ff7bfcb.json)
+
+---
+
+### The man who picked up the back of the back was caught
 
 *2024-07-05 13:19:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/முதுகை-படம்-எடுத்தவர்-சிக்கினார்/76-339912) · `ta`
 
-பெண் பொலிஸார் தங்குமிட விடுதி குளியறையில் குளித்து கொண்டிருந்த பெண் பொலிஸ் கான்ஸ்டபிள் ஒருவரை மறைந்திருந்து படம் பிடித்த ஆண் பொலிஸ்  கான்ஸ்டபிள் ஒருவரை விளக்க மறியலில் வைக்குமாறு நுவரெலியா மாவட்ட நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+In Nuwara Eliya, a female police constable shot another officer while bathing. The magistrate ordered her arrest and interrogation.
 
-இந்த உத்தரவை நுவரெலியா மாவட்ட நீதவான் பிரபுதிகா நாணயக்கார (04.07.2024) மாலை பிறப்பித்தார்.
+🟩
 
-லிந்துலை பொலிஸ் நிலையத்தில் பெண் பொலிஸார் தங்குமிட  விடுதி குளியலறையில் குளித்து கொண்டிருந்த பெண் பொலிஸ் கான்ஸ்டபிள் ஒருவரை இதே பொலிஸ் நிலையத்தில் கான்ஸடபிள் பதவி வகிக்கும் ஆண் பொலிஸ் கான்ஸ்டபிள் தனது ஸ்மார்ட் போனால் படம் பிடித்து வைத்திருந்துள்ளார்.
+The Nuwara Eliya District Magistrate's Court has ordered that a female police constable hidden and a shotgun who was shot in a shower of female policemen.
 
-இந்த விடயம் ஏனைய பொலிஸாருக்கு தெரியவந்ததையடுத்து விசாரணைகள் தொடரப்பட்டு குறித்த பொலிஸ் கான்ஸ்டபிள் மீது நடவடிக்கை எடுத்து கைது செய்த லிந்துலை பொலிஸ் அவரை (04.07.2024) நுவரெலியா நீதவான் நீதிமன்றத்தில் ஆஜர் படுத்தியுள்ளனர்.
+Nuwara Eliya District Magistrate Prabhudika Nanayakkara (04.07.2024) issued this order.
 
-இதன்போது இது தொடர்பான வழக்கை விசாரணைக்கு எடுத்து கொண்ட நீதிபதி பிரபுதிகா நாணயக்கார சந்தேக நபரான பொலிஸ் கான்ஸ்டபிள்ளை இம்மாதம் (09.07.2024) செவ்வாய்க் கிழமை வரை விளக்க மறியலில் வைக்க உத்தரவு பிறப்பித்தார்.
+A female police constable, who is bathing in the hostel bathroom at Lindulai Police Station, has shot a police constable at the same police station at the same police station.
+
+Following the matter, the police have taken action against the police constable and arrested him at the Nuwara Eliya Magistrate's Court (04.07.2024).
+
+Judge Prabhudika Nanayakkara, who was investigating the case, ordered the suspect to be interrogated by the police constipation this month (09.07.2024).
 
 ◼️
 
 [Data](articles/4b57df6b.json)
+
+[Extended Data](ext_articles/4b57df6b.ext.json)
 
 ---
 
@@ -2243,51 +2281,5 @@ The petition requests that an interim order be issued to prevent the calling of 
 [Data](articles/b04c00d5.json)
 
 [Extended Data](ext_articles/b04c00d5.ext.json)
-
----
-
-### Presidential election cannot be postponed without a referendum
-
-*2024-07-04 19:36:52* · [`adalk`](https://www.ada.lk/breaking_news/ජනමත-විමසුමකින්-තොරව-ජනපතිවරණය-කල්-දාන්න-බෑ/11-410620) · `si`
-
-Postponing a presidential election requires a referendum due to constitutional amendments, specifically Article 83(b), which mandates public approval for extending a presidential term beyond six years. This rule stems from the 19th Amendment's foundational principles, emphasizing democratic processes and public consent for significant changes.
-
-🟩
-
-Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Communication without a referendum. He was speaking at a media briefing held at the JHU of Pureutte Plandewa today (04).
-
-"A businessman has gone to prevent the presence of the presidential decision and ignore the presidential decision.
-
-But because of the past, we pay close attention to this.2023 A retired Army officer involved in the UNP was a petition to the UNP when he was announced by the Little Vote. The government has no money for the UNP.So do not hold the vote.Everyone laughed the case.But at the end, the government came to court that argument.However, the little vote was disappeared.Still, don't even find.
-
-...
-
-[Data](articles/420e774a.json)
-
-[Extended Data](ext_articles/420e774a.ext.json)
-
----
-
-### Tonight Tonight 9.00 am to 8 hours of water cut
-
-*2024-07-04 19:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/187703) · `ta`
-
-Water supply will be disrupted for 18 hours starting from 9 pm on Thursday, April 4th, affecting areas like Kolonnawa, Kaduwela, Mulleriya, and Kotikawatte due to emergency maintenance at the Ambathale Water Plant. The same areas will experience another water cut from 9 pm to 4 pm on Friday, April 5th.
-
-🟩
-
-The National Water Supply and Drainage Board said the water cut would be implemented from 9 pm to 18 pm on Thursday, 04.
-
-Accordingly, water supply will be disrupted for 18 hours for the Kolonnawa Municipal Border, Kaduwela Municipal Border, Mulleriya and Kotikawatte Pradeshiya Sabha areas.
-
-The water cut will be implemented from 9 pm to 04 pm on Friday, 04 pm.
-
-It is noteworthy that the situation was due to the emergency maintenance of the water pipe supply from the Ambathale Water Plant.
-
-◼️
-
-[Data](articles/063dfb95.json)
-
-[Extended Data](ext_articles/063dfb95.ext.json)
 
 ---

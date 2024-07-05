@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 11:05:05**
+As of **2024-07-05 11:19:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,597
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,778 (100.0%) of 33,780 articles have been extended.
+33,780 (100.0%) of 33,780 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The investigation had been launched following a complaint filed by a civilian al
 
 [Data](articles/f7c51ec3.json)
 
+[Extended Data](ext_articles/f7c51ec3.ext.json)
+
 ---
 
 ### Police bolster security at SLFP Headquarters
@@ -63,6 +65,8 @@ Sources indicate that the decision was based on concerns about the potential dis
 ◼️
 
 [Data](articles/4b0e9e16.json)
+
+[Extended Data](ext_articles/4b0e9e16.ext.json)
 
 ---
 

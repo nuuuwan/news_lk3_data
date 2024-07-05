@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 02:19:52**
+As of **2024-07-06 02:36:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,885 (100.0%) of 33,887 articles have been extended.
+33,887 (100.0%) of 33,887 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -294,6 +294,8 @@ Sri Lanka is considered a hotspot for climate change impacts. Over the past 20 y
 
 [Data](articles/21813e48.json)
 
+[Extended Data](ext_articles/21813e48.ext.json)
+
 ---
 
 ### Transforming enterprise risk management for sustainable and climate-friendly businesses
@@ -307,6 +309,8 @@ In an increasingly complex and convoluted landscape of risks, entrepreneurs and 
 ...
 
 [Data](articles/1a9eed92.json)
+
+[Extended Data](ext_articles/1a9eed92.ext.json)
 
 ---
 

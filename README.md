@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 19:35:55**
+As of **2024-07-05 19:53:24**
 
 ## Newspaper Stats
 
-*Scraped **33,857** Articles*
+*Scraped **33,858** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,889
 economynextcom | 1,995
 dailyftlk | 2,100
 adalk | 3,027
-adaderanalk | 3,871
+adaderanalk | 3,872
 tamilmirrorlk | 4,007
 dailymirrorlk | 4,733
 virakesarilk | 5,309
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,611
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,857 (100.0%) of 33,857 articles have been extended.
+33,857 (100.0%) of 33,858 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### Qatar Airways to increase Colombo-Doha flight frequency
+
+*2024-07-05 19:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100321/qatar-airways-to-increase-colombo-doha-flight-frequency-) · `en`
+
+Qatar Airways will be increasing its Sri Lanka-Doha flights from the current five-daily flights schedule to six-daily flights, starting 10 July 2024.
+
+"The increase in flights further demonstrate the award-winning airline’s dedication to providing more choices and better connectivity for all passengers flying to and from Sri Lanka", a statement added.
+
+The additional flights will be served by the Boeing 787 aircraft, featuring 30 Business Class seats and 281 Economy Class seats. With this network enhancement, Qatar Airways will operate a total of 42 weekly flights to and from Sri Lanka, connecting passengers to nearly 170 global destinations worldwide.
+
+...
+
+[Data](articles/f3fd2503.json)
+
+---
 
 ### CCD Inspector and Constable arrested while accepting bribe
 
@@ -2333,29 +2349,5 @@ The former Health Minister is currently held in remand custody over allegations 
 [Data](articles/e50ada61.json)
 
 [Extended Data](ext_articles/e50ada61.ext.json)
-
----
-
-### Attorney General opposes bail for Hirunika in ongoing appeal
-
-*2024-07-05 03:34:02* · [`dailyftlk`](https://www.ft.lk/news/Attorney-General-opposes-bail-for-Hirunika-in-ongoing-appeal/56-763884) · `en`
-
-The Attorney General yesterday raised objections to granting bail to former Parliamentarian Hirunika Premachandra, who is seeking bail pending appeal.
-
-During a session before Colombo High Court Judge Amal Ranaraja, the Attorney General requested additional time to submit written arguments against the bail application.
-
-Consequently, the High Court has rescheduled the bail hearing for 11 July.
-
-Premachandra, a former Colombo District MP, was sentenced to three years in prison for her role in the abduction of a youth using a Defender vehicle.
-
-She has appealed to the Court of Appeal, challenging her conviction and the sentence handed down by the Colombo High Court.
-
-Premachandra was convicted on 18 charges, including conspiracy, aiding in the abduction, threatening, assaulting and intimidating the victim, Amila Priyankara, in Dematagoda.
-
-...
-
-[Data](articles/94f5778e.json)
-
-[Extended Data](ext_articles/94f5778e.ext.json)
 
 ---

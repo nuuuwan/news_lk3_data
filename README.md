@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 13:04:57**
+As of **2024-07-05 13:19:46**
 
 ## Newspaper Stats
 
-*Scraped **33,803** Articles*
+*Scraped **33,804** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ adaderanalk | 3,861
 tamilmirrorlk | 4,000
 dailymirrorlk | 4,733
 virakesarilk | 5,299
-adaderanasinhalalk | 5,600
+adaderanasinhalalk | 5,601
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,803 (100.0%) of 33,803 articles have been extended.
+33,803 (100.0%) of 33,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### හේතුවක් නැති අකුරණ ගින්න
+
+*2024-07-05 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198507) · `si`
+
+අකුරණ අවන්හලක ඇති වූ ගින්නක් හේතුවෙන් තාවකාලිකව වසා දැමුණු මහනුවර - මාතලේ මාර්ගය (A9) මේ වන විට යළි විවෘත කර ඇති බව පොලීසිය දැනුම් දී තිබේ.
+
+එම ගින්න හේතුවෙන් මහනුවර - මාතලේ මාර්ගය අද (05) පෙරවරුවේ තාවකාලිකව වසා දැමීමට කටයුතු කර තිබුණි.
+
+ගින්න තවත් වෙළඳසැල් කිහිපයකට ද පැතිරයාම හේතුවෙන් මෙ‌ලෙස මාර්ගය තාවකාලිකව වසාදැමීමට කටයුතු කළ බව පොලීසිය සඳහන් කළේය.
+
+අකුරණ නගරයේ පිහිටි මෙම අවන්හල තුළ ගින්න හටගෙන තිබුණේ අද උදෑසන 6.30ට පමණ ය.
+
+ඒ සමගම අවන්හලේ සේවය කරමින් සිටි සේවකයින් පිටතට පැමිණි අතර ගින්න වේගයෙන් එම ගොඩනැගිල්ල පුරා ව්‍යාප්ත විය.
+
+මේ අතරවාරයේ ප්‍රදේශවාසීන් කඩිනමින් මැදිහත්වී අවන්හල තුළ තිබූ ගෑස් සිලින්ඩර් 50ක් පමණ ඉන් පිටතට ගනු ලැබුවේ ඒවා පිපිරීමෙන් සිදුවිය හැකි මහා විනාශය වළක්වාගැනීම සඳහාය.
+
+ගින්න මැඩපැවැත්වීම සඳහා මහනුවර මහනගර සභාවේ ගිනි නිවීමේ ඒකකයේ රථ කැඳවා තිබුණි.
+
+දැඩි පරිශ්‍රමයකින් පසු උදෑසන 10ට පමණ ගින්න මැඩපැවැත්වීමට ඔවුන්ට හැකිවිය.
+
+කෙසේ වෙතත් ගිනිගත් අවන්හල අසල පිහිටි තීන්ත අලෙවිසැලක් ඇතුළු වෙළෙඳසැල් කිහිපයකට සහ ජාත්‍යන්තර පාසලකට ගින්නෙන් හානිවිය.
+
+...
+
+[Data](articles/ee5c2f7b.json)
+
+---
 
 ### Special Notice for Tax ID
 
@@ -293,6 +321,12 @@ Police Media Spokesman DIG Nihal Thalduwa stated that detention orders will be s
 Among the arrested individuals are 1,340 male suspects and 63 female suspect, according to Sri Lanka Police.
 
 Meanwhile, the authorities have seized 1.086 kg of heroin, 782.7g of ‘Ice’ (Crystal methamphetamine) and 3.74 kg of Cannabis during the operation.
+
+In addition to that, 17 others are being investigated for the possession of illegal assets, and 24 suspects were sent to rehabilitation, the Police Spokesman said.
+
+Among the 1,403 arrestees is one suspect who had open warrant against him for narcotics-related charges and 21 others who had open warrants against them for non-drug-related charges.
+
+Meanwhile, police have also arrested a suspect over juvenile crimes.
 
 ◼️
 
@@ -2251,23 +2285,5 @@ The Diver Commander of the HMS Hermes, which have been mired from 55 meters of d
 [Data](articles/b7fb19e4.json)
 
 [Extended Data](ext_articles/b7fb19e4.ext.json)
-
----
-
-### Foreign Minister Sabry urges Japan to invest in infrastructure and IT
-
-*2024-07-04 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100293/foreign-minister-sabry-urges-japan-to-invest-in-infrastructure-and-it) · `en`
-
-Sri Lanka, strengthened by the recent agreement reached with international creditors for the restructuring of 5,6 billion dollars of debt, urges Japan to make further investments in the country, contributing to the revival of the Sri Lankan economy and guaranteeing Colombo a further point of diplomatic reference as well as India and China.
-
-Sri Lankan Foreign Minister Ali Sabry declared this in an interview with the Japanese newspaper “Nikkei”.
-
-“We expect Japan-financed projects to start any time now” thanks to the debt restructuring deal, the minister said, referring to a series of projects financed in recent years by the Japan International Cooperation Agency (Jica) but never started, including the construction of a light railway in Colombo and the expansion of the international airport serving the capital.
-
-...
-
-[Data](articles/4ff5437a.json)
-
-[Extended Data](ext_articles/4ff5437a.ext.json)
 
 ---

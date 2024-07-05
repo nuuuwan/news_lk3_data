@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 18:36:22**
+As of **2024-07-05 18:54:01**
 
 ## Newspaper Stats
 
-*Scraped **33,853** Articles*
+*Scraped **33,854** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 308
-colombotelegraphcom | 310
+colombotelegraphcom | 311
 bbccomsinhala | 333
 newsfirstlk | 363
 islandlk | 1,889
@@ -26,27 +26,35 @@ adaderanasinhalalk | 5,611
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,843 (100.0%) of 33,853 articles have been extended.
+33,853 (100.0%) of 33,854 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### பிரிட்டன் தேர்தலில் வெற்றிப் பெற்ற முதல் தமிழ் பெண்
+### The first Tamil woman to win the British election
 
 *2024-07-05 18:07:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரிட்டன்-தேர்தலில்-வெற்றிப்-பெற்ற-முதல்-தமிழ்-பெண்/50-339916) · `ta`
 
-பிரிட்டன் பாராளுமன்ற தேர்தலில் பிரதான எதிர்க்கட்சியான தொழிலாளர் கட்சி வெற்றி பெற்று ஆட்சியைப் பிடித்துள்ளது. மொத்தமுள்ள 650 இடங்களில் தொழிலாளர் கட்சி 410 இடங்களிலும், ரிஷி சுனக்கின் கன்சர்வேட்டிவ் கட்சி 119 தொகுதிகளிலும் வெற்றி பெற்றுள்ளது. பிற கட்சிகள் 112 இடங்களில் வெற்றி பெற்றுள்ளன.
+Uma Kumaran, a Tamil-origin candidate from the Labour Party, made history as the first Tamil woman elected to the British Parliament. Contesting in the London Stanmore constituency, she secured 19,145 votes, defeating her closest rival, Kane Blackwell of the Conservative Party, who received 3,144 votes. This victory marks a significant milestone for the Tamil community in Britain.
 
-பிரிட்டன் பாராளுமன்ற தேர்தலில் உமா குமரன், கவின் ஹரன், மயூரன் செந்தில்நாதன், கமலா குகன், டெவினா பால், நரணி ருத்ரா ராஜன், கிரிஷ்ணி, ஜாஹிர் உசேன் என மொத்தம் 8 தமிழர்கள் வேட்பாளர்களாக போட்டியிட்டனர்.
+🟩
 
-இந்நிலையில், பிரிட்டன் பாராளுமன்ற தேர்தலில் தொழிலாளர் கட்சி சார்பில் தமிழ் வம்சாவளியைச் சேர்ந்த உமா குமரன், லண்டன் ஸ்டராட்போர்டு தொகுதியில் போட்டியிட்டார்.
+The main opposition party, the main opposition party, has won the British parliamentary election. The Labor Party has won 410 seats in 650 seats and Rishi Sunak's Conservative Party has won 119 seats. Other parties have won 112 seats.
 
-இந்தத் தொகுதியில் 19,145 வாக்குகள் பெற்று வெற்றியைப் பதிவு செய்துள்ளார் உமா குமரன். அவரை எதிர்த்துப் போட்டியிட்ட கன்சர்வேட்டிவ் கட்சி வேட்பாளரான கேன் பிளாக்வெல் 3,144 வாக்குகள் மட்டும் பெற்று 4-வது இடம் பெற்றார்.
+In the British parliamentary election, Uma Kumaran, Gavin Haran, Mayuran Senthilnathan, Kamala Kugan, Devina Paul, Narani Rudra Rajan, Krishni and Zahir Hussein contested a total of 8 Tamils.
 
-...
+In the meantime, Uma Kumaran, a Tamil origin, contested the London Standboard constituency on behalf of the Labor Party in the British parliamentary election.
+
+Uma Kumaran has registered the victory with 19,145 votes in this constituency. Conservative Party candidate Kane Blackwell, who contested against him, was ranked 4th with only 3,144 votes.
+
+Uma Kumaran, the Eelam Tamil woman, is the first Tamil MP in Britain's history. By. It is noteworthy that his family moved to England after the civil war in Sri Lanka. Remble
+
+◼️
 
 [Data](articles/e2d1f6df.json)
+
+[Extended Data](ext_articles/e2d1f6df.ext.json)
 
 ---
 
@@ -117,6 +125,8 @@ Sri Lanka has a foreign reserve target set by the International Monetary Fund wh
 ...
 
 [Data](articles/dad66ac3.json)
+
+[Extended Data](ext_articles/dad66ac3.ext.json)
 
 ---
 
@@ -207,6 +217,8 @@ The ‘Integrated Management and Environmentally Sound Disposal of POPs Pesticid
 ...
 
 [Data](articles/b4380cb0.json)
+
+[Extended Data](ext_articles/b4380cb0.ext.json)
 
 ---
 
@@ -302,6 +314,8 @@ There was one crossing, on John Keells Holdings Plc, which closed flat at 203.50
 
 [Data](articles/1d9d66f7.json)
 
+[Extended Data](ext_articles/1d9d66f7.ext.json)
+
 ---
 
 ### Actor Vignesh is playing a double role 'Red Flower'
@@ -347,6 +361,8 @@ A bond maturing on 01.12.2031 closed at 12.15/30 percent. (Colombo/Jul5/2024)
 ◼️
 
 [Data](articles/aa4e7655.json)
+
+[Extended Data](ext_articles/aa4e7655.ext.json)
 
 ---
 
@@ -622,6 +638,8 @@ Nanayakkara met the Ambassador of Israel to India, Sri Lanka, and Bhutan Naor Gi
 
 [Data](articles/8ace7beb.json)
 
+[Extended Data](ext_articles/8ace7beb.ext.json)
+
 ---
 
 ### The restructuring of the loan is over
@@ -755,6 +773,8 @@ The business tycoon said that he has already finalised his programme for educati
 ...
 
 [Data](articles/4ed4c5ea.json)
+
+[Extended Data](ext_articles/4ed4c5ea.ext.json)
 
 ---
 
@@ -1056,6 +1076,16 @@ Commenting further, MP Perera said: “I am prepared to contest the Presidential
 
 ---
 
+### Rationalization Of State Workers’ Salaries & Combatting Brain Drain & Greed
+
+*2024-07-05 12:57:24* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rationalization-of-state-workers-salaries-combatting-brain-drain-greed/) · `en`
+
+...
+
+[Data](articles/8559d01c.json)
+
+---
+
 ### Fire without cause
 
 *2024-07-05 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198507) · `si`
@@ -1111,6 +1141,8 @@ Coconut shells were 30,000 – 31,000 rupees per metric ton. (Colombo/July05/202
 ◼️
 
 [Data](articles/c6ce2b74.json)
+
+[Extended Data](ext_articles/c6ce2b74.ext.json)
 
 ---
 
@@ -1810,6 +1842,8 @@ In equities, Colombo’s All Share Price Index opened 33.16 points higher at 11,
 
 [Data](articles/067680d5.json)
 
+[Extended Data](ext_articles/067680d5.ext.json)
+
 ---
 
 ### Sampanthan's funeral was taken to Trincomalee
@@ -2110,6 +2144,8 @@ inclusion of a control variable. Therefore, any increased payments would be to a
 
 [Data](articles/ba6155fe.json)
 
+[Extended Data](ext_articles/ba6155fe.ext.json)
+
 ---
 
 ### New Prime Minister for Britain
@@ -2311,29 +2347,5 @@ Due to the sustainable economic policies implemented by President Ranil Wickreme
 [Data](articles/2073b3a9.json)
 
 [Extended Data](ext_articles/2073b3a9.ext.json)
-
----
-
-### Rs 1 crore per hour
-
-*2024-07-05 03:25:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்றரை-மணி-நேரத்துக்கு-ரூ-ஒரு-கோடி-செலவு/175-339895) · `ta`
-
-A special report on debt agreements by President Ranil Wickremesinghe led to a brief Parliament session, cut short due to comments from opposition leader Sajith Premadasa. Despite its short duration, the cost of a day's parliamentary meeting remains high.
-
-🟩
-
-Nearly Rs.
-
-Parliament was convened to present a special report of President Ranil Wickremesinghe on the debt renovation agreements.
-
-Parliament was postponed after opposition leader Sajith Premadasa commented after the president's speech. The session was held for only one and a half hours.
-
-Although the session is short, a parliamentary spokesman said that the amount spent on a day of a parliamentary meeting would cost short meetings.
-
-◼️
-
-[Data](articles/b6bafb0d.json)
-
-[Extended Data](ext_articles/b6bafb0d.ext.json)
 
 ---

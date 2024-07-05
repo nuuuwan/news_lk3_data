@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 08:13:42**
+As of **2024-07-05 08:21:22**
 
 ## Newspaper Stats
 
-*Scraped **33,759** Articles*
+*Scraped **33,760** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,849
 tamilmirrorlk | 3,993
 dailymirrorlk | 4,733
 virakesarilk | 5,287
-adaderanasinhalalk | 5,591
+adaderanasinhalalk | 5,592
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,758 (100.0%) of 33,759 articles have been extended.
+33,759 (100.0%) of 33,760 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### මහ ලේකම් මම - දයාසිරි
+
+*2024-07-05 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198498) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ මහ ලේකම්වරයා ලෙස අද (05) උදෑසන යළිත් ධුරයේ කටයුතු ආරම්භ කරන බව පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා පවසයි.
+
+පක්ෂයේ නීත්‍යානුකූල මහ ලේකම්වරයා ලෙස තවමත් කටයුතු කරන්නේ තමන් බව දයාසිරි ජයසේකර මන්ත්‍රීවරයා පවසයි.
+
+ඒ අනුව යළි ධුරයේ කටයුතු ආරම්භ කරන අවස්ථාවට සියලුදෙනාට එක්වන ලෙසට ආරාධනා කරන බව මන්ත්‍රීවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+එමෙන්ම, එම පක්ෂයේ ජ්‍යෙෂ්ඨ උප සභාපති රෝහණ ලක්ෂමන් පියදාස මහතා පැවසුවේ ශ්‍රී ලංකා නිදහස් පක්ෂයේ මහ ලේකම්වරයා ලෙස දයාසිරි ජයසේකර මහතා පිළිගන්නා බවයි.
+
+ඉදිරි ජනාධිපතිවරණයට ශ්‍රී ලංකා නිදහස් පක්ෂයේ අපේක්ෂකයෙකු ඉදිරිපත් කරන බවද ඔහු වැඩිදුරටත් ප්‍රකාශ කළේය.
+
+කෙසේවෙතත් අමාත්‍ය මහින්ද අමරවීර මහතා පැවසුවේ පක්ෂයෙන් ජනාධිපතිවරණය සඳහා අපේක්ෂකයෙකු ඉදිරිපත් කිරීම ඵල රහිත ක්‍රියාවක් බවත් ශ්‍රී ලංකා නිදහස් පක්ෂය සහාය දක්වන අපේක්ෂකයා අනිවාර්යයෙන්ම ජයග්‍රහණය කරන බවත්ය.
+
+◼️
+
+[Data](articles/402534ca.json)
+
+---
 
 ### New Prime Minister for Britain
 
@@ -1150,19 +1172,25 @@ The petition requests that an interim order be issued to prevent the calling of 
 
 ---
 
-### ජනමත විමසුමකින් තොරව ජනපතිවරණය කල් දාන්න බෑ
+### Presidential election cannot be postponed without a referendum
 
 *2024-07-04 19:36:52* · [`adalk`](https://www.ada.lk/breaking_news/ජනමත-විමසුමකින්-තොරව-ජනපතිවරණය-කල්-දාන්න-බෑ/11-410620) · `si`
 
-ජනමත විචාරණයකින් තොරව එලඹෙන ජනපතිවරණය කල් දැමීමට හැකියාවක් නොමැති බව පිවිතුරු හෙළ උරුමය නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි. ඒ මහතා මේ බව සදහන් කර සිටියේ අද දින (04) පිටකෝට්ටේ පිවිතුරු හෙළ උරුමය පක්ෂ මූලස්ථානයේ පැවති එම පක්ෂයේ මාධ්‍ය හමුවකට එක් වෙමිනි.
+Postponing a presidential election requires a referendum due to constitutional amendments, specifically Article 83(b), which mandates public approval for extending a presidential term beyond six years. This rule stems from the 19th Amendment's foundational principles, emphasizing democratic processes and public consent for significant changes.
 
-"ජනපතිවරණය පැවැත්විය යුතු දිනය පිළිබඳ ව්‍යවස්ථාවේ ව්‍යාකූලත්වයක් තිබෙන නිසා ඒ පිළිබඳ ශ්‍රේෂ්ඨාධිකරණය තීන්දුවක් දෙන තුරු ජනපතිවරණය පැවැත්වීම වලක්වන්න කියලා ව්‍යාපාරිකයෙක් උසාවි ගිහින්.  මේ නඩුවට කිසිම නීතිමය පදනමක් නැති නිසා බොහෝ දෙනෙක් මේක නොසලකා හරිවි.
+🟩
 
-නමුත් අතීත අත්දැකීමක් නිසා අපි නම් මේකට දැඩි අවධානයක් යොමු කරනවා.  2023 පුංචි ඡන්දය ප්‍රකාශයට පත් කරපු වෙලාවේ එජාපයට සම්බන්ධ විශ්‍රාමික හමුදා නිලධාරියෙක් ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක් ගොනු කරලා කිව්වා, ආර්ථික අර්බූදය නිසා ආණ්ඩුවට සල්ලි නෑ.  ඒ නිසා ඡන්දය පවත්වන්න එපා කියලා.  හැමෝම ඒ නඩුවට හිනා වුණා.  නමුත් අන්තිමේ දී ආණ්ඩුවත් උසාවියට ඇවිත් ඉදිරිපත් කලේ ඒ තර්කයමයි.  කොහොම හරි දී පුංචි ඡන්දය අතුරුදහන් වුණා.  අදටත් සොයා ගන්න නෑ.
+Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Communication without a referendum. He was speaking at a media briefing held at the JHU of Pureutte Plandewa today (04).
+
+"A businessman has gone to prevent the presence of the presidential decision and ignore the presidential decision.
+
+But because of the past, we pay close attention to this.2023 A retired Army officer involved in the UNP was a petition to the UNP when he was announced by the Little Vote. The government has no money for the UNP.So do not hold the vote.Everyone laughed the case.But at the end, the government came to court that argument.However, the little vote was disappeared.Still, don't even find.
 
 ...
 
 [Data](articles/420e774a.json)
+
+[Extended Data](ext_articles/420e774a.ext.json)
 
 ---
 
@@ -2231,27 +2259,5 @@ ECONOMYNEXT — Sri Lanka President Ranil Wickremesinghe has said he believes th
 [Data](articles/6a709adf.json)
 
 [Extended Data](ext_articles/6a709adf.ext.json)
-
----
-
-### China minister discusses cooperation with Customs, increasing exports
-
-*2024-07-04 13:34:00* · [`economynextcom`](https://economynext.com/china-minister-discusses-cooperation-with-customs-increasing-exports-170850/) · `en`
-
-ECONOMYNEXT – China’s Vice Minister of General Administration of Customs Wang Lingjun has met Sri Lankan officials to discuss cooperation with Sri Lanka Customs and the export of agricultural crops.
-
-“We noted China’s readiness to cooperate with the Sri Lanka Customs Department in developing enhanced security and cooperation measures,” State Minister of Finance Shehan Semasinghe said on X (twitter) after meeting Lingjun at the Sri Lanka Customs Headquarters in Colombo.
-
-Lingjun also met Minister of Agriculture and Plantation Industries Mahinda Amaraweera to discuss expanding exports of tea, coconut, pineapple and spices, as well as fisheries products.
-
-The Chinese minister “stated that the Chinese government is ready to further expand the existing opportunities for importing agricultural crops produced in Sri Lanka to the Chinese market”, Amaraweera said on Meta (Facebook).
-
-Amaraweera said Sri Lanka’s agricultural exports to China in 2023 was 3.3 billion dollars.
-
-...
-
-[Data](articles/85be4abf.json)
-
-[Extended Data](ext_articles/85be4abf.ext.json)
 
 ---

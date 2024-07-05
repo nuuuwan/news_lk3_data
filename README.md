@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 16:51:40**
+As of **2024-07-05 17:04:48**
 
 ## Newspaper Stats
 
@@ -78,13 +78,13 @@ The applicants are advised to contact ‘1911’ – the hotline of the Examinat
 
 *2024-07-05 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100314/sri-lanka-to-receive-total-debt-relief-of-usd-8-billion-through-restructuring-) · `en`
 
+President Ranil Wickremesinghe has announced that the debt restructuring process will include USD 5 billion in loan interest relief from bilateral creditors and a USD 3 billion debt write-off from commercial creditors providing the country with a total relief of USD 8 billion.
+
+Wickremesinghe revealed this while addressing the ‘Urumaya’ Freehold Land Deed Ceremony held in Kurunegala today (05), the President’s Media Division (PMD) said.
+
 President Ranil Wickremesinghe emphasized that true socialism lies in granting free land rights to the people, dismissing mere talk about socialism.
 
 He highlighted that his government, credited with rescuing the country from bankruptcy, is actively addressing public issues. He pointed out that an additional 200,000 individuals will benefit from the “Urumaya” freehold land title initiative.
-
-The President underscored these initiatives, speaking at a ceremony held at the North Western Provincial Council Auditorium in Kurunegala, where symbolic deeds were presented to 463 recipients out of 73,143 eligible in the district under the “Urumaya” national program.
-
-Addressing the gathering, he noted that he assumed leadership during a period of governmental uncertainty. He emphasized that the nation is now recovering from economic turmoil due to effective economic management. He highlighted plans for inclusive development in Kurunegala district as part of advancing the country’s new economy.
 
 ...
 

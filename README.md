@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 21:04:47**
+As of **2024-07-05 21:19:50**
 
 ## Newspaper Stats
 
-*Scraped **33,860** Articles*
+*Scraped **33,862** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ adaderanalk | 3,872
 tamilmirrorlk | 4,007
 dailymirrorlk | 4,733
 virakesarilk | 5,309
-adaderanasinhalalk | 5,612
+adaderanasinhalalk | 5,614
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,860 (100.0%) of 33,860 articles have been extended.
+33,860 (100.0%) of 33,862 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### කොකේන් ගෙන්වූ කෝටිපති ව්‍යාපාරිකයා හසුවෙයි
+
+*2024-07-05 21:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198522) · `si`
+
+ගුවන් මගින් කුෂ් හා කොකේන් මෙරටට ආනායනය කළ කෝටිපති ව්‍යාපාරිකයෙකු පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරු සැඟව සිටියදී නාවලදී අත්අඩංගුවට ගත් අතර ඔහු කුලී පදනම මත රැඳී සිටි නිවසේ තිබී සුඛෝපභෝගී මෝටර් රථයක් සොයා ගැනුණි.
+
+මේ දිනවල දැඩි කතාබහකට ලක්වී ඇති නිරූපන ශිල්පිනියකගේ නමින් එය ලියාපදිංචිවී ඇති බවද පොලීසිය පැවසීය.
+
+රුපියල් කෝටියක මුදලක් ලබාදී ඔහු එය මිලදීගෙන ඇති අතර ඉතිරි මුදල ලබාදීමට නියමිත බවද සැකකරු විමර්ශන නිලධාරින්ට පවසා තිබේ.
+
+◼️
+
+[Data](articles/a1941f6e.json)
+
+---
+
+### කතරගම එන බැතිමතුන්ට පණිවුඩයක්
+
+*2024-07-05 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198521) · `si`
+
+ඓතිහාසික කතරගම මහා දේවාලයේ පෙරහැරට පැමිණෙන බැතිමතුන්ගේ රථ වාහන ගාල් කිරීමේ ස්ථාන සම්බන්ධයෙන් දැනුවත් කරමින් පොලීසිය නිවේදනයක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/96e132b5.json)
+
+---
 
 ### Refer to the suspect in the murder suspect
 
@@ -2309,53 +2339,5 @@ It is reported that the Workers Party (LKR) is likely to obtain 131 seats, which
 [Data](articles/47c49749.json)
 
 [Extended Data](ext_articles/47c49749.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-07-05 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198495) · `si`
-
-The Department of Meteorology predicts showers across the Western, Sabaragamuwa, North Western provinces, and specific districts including Galle, Matara, Ampara, Batticaloa, and central hill slopes. Heavy rain exceeding 75mm is possible, along with gusty winds of 40-50km/h. The department advises caution against lightning and strong wind risks.
-
-🟩
-
-The Department of Meteorology says that there will be showers in the Western, Sabaragamuwa and North Western provinces.
-
-Some locations in the Western, Sabaragamuwa provinces and in Galle and Matara districts. Heavy rains can occur at more than 75.
-
-There are several closed in the North and North and the North.
-
-Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. 40-50 can cause strong winds.
-
-The Department of Meteorology has informed the people to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/c1e5b564.json)
-
-[Extended Data](ext_articles/c1e5b564.ext.json)
-
----
-
-### IMF awaiting more information for final sign-off on Sri Lanka bondholder deal
-
-*2024-07-05 06:03:00* · [`economynextcom`](https://economynext.com/imf-awaiting-more-information-for-final-sign-off-on-sri-lanka-bondholder-deal-170978/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund is awaiting more details on Sri Lanka’s deal with sovereign bondholders to assess its compliance, Mission Chief Peter Breuer said.
-
-“We are currently awaiting additional information and will provide the authorities with an assessment of the agreed terms to ensure consistency with the parameters and debt sustainability objectives under the IMF-supported program,” he said.
-
-Advisors from both sides prepare deals on the belief that they are compliant with the IMF’s Debt Sustainability Analysis.
-
-But during first round of talks, private bondholders were said to have been not fully able to prepare a proposal in line with the DSA unlike Sri Lanka, requiring more information on exactly how the April proposal was deemed to be in line with analysis.
-
-◼️
-
-[Data](articles/95b7a3de.json)
-
-[Extended Data](ext_articles/95b7a3de.ext.json)
 
 ---

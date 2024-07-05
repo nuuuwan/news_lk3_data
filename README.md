@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 22:35:04**
+As of **2024-07-05 22:53:29**
 
 ## Newspaper Stats
 
-*Scraped **33,866** Articles*
+*Scraped **33,868** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ economynextcom | 1,995
 dailyftlk | 2,100
 adalk | 3,028
 adaderanalk | 3,874
-tamilmirrorlk | 4,007
+tamilmirrorlk | 4,008
 dailymirrorlk | 4,733
 virakesarilk | 5,310
-adaderanasinhalalk | 5,615
+adaderanasinhalalk | 5,616
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,866 (100.0%) of 33,866 articles have been extended.
+33,866 (100.0%) of 33,868 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### உரிய திகதியில் தேர்தலை நடத்த வேண்டு - ஜனாதிபதி
+
+*2024-07-05 22:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரிய-திகதியில்-தேர்தலை-நடத்த-வேண்டு-ஜனாதிபதி/175-339929) · `ta`
+
+உரிய திகதியில் தேர்தலை நடத்த வேண்டும் எனவும், அதற்காக தேர்தல்கள் ஆணையாளருடன் இடம்பெற்ற கலந்துரையாடலில் விடயங்களை விளக்கியதாகவும், ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+நாரஹேன்பிட்டி, எல்விடிகல வீதியில் அமைந்துள்ள ஸ்ரீலங்கா ராமன்ய மகா நிகாயவின் தலைமையகத்திற்கு இன்று (05) பிற்பகல் விஜயம் செய்த ஜனாதிபதி, இலங்கை ராமன்ய மகா நிகாயவின் மகாநாயக்க வண. மகுலேவே விமல மகாநாயக்க தேரரைச் சந்தித்து நலன் விசாரித்ததுடன், சிறு கலந்துரையாடிலும் ஈடுபட்டார்.
+
+இதன்போது, பிரித் பாராயணம் செய்து ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு ஆசி வழங்கிய தேரர், ஜனாதிபதிக்கு நினைவுப் பரிசு ஒன்றையும் வழங்கி வைத்தார்.
+
+உரிய திகதியில் தேர்தலை நடத்த வேண்டும் என்று தேர்தல்கள் ஆணையாளரிடம் தெரிவித்துள்ளேன். 2015ஆம் ஆண்டு ஜனாதிபதியின் பதவிக்காலத்தை 06 வருடங்களில் இருந்து 05 வருடங்களாக குறைக்க நான் தான் பரிந்துரைத்தேன் என்றும் நினைவுகூர்ந்தார். R
+
+◼️
+
+[Data](articles/50938445.json)
+
+---
+
+### දුම්රියක් පීලි පනී
+
+*2024-07-05 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198524) · `si`
+
+බදුල්ල සිට කොළඹ කොටුව බලා ධාවනය වූ රාත්‍රී තැපැල් දුම්රිය පීලි පැනීමකට ලක්වී තිබේ.
+
+◼️
+
+[Data](articles/d815dd9a.json)
+
+---
 
 ### Foreign Minister Ali Sabry to visit Singapore
 
@@ -2295,53 +2325,5 @@ According to the police, the restaurant owners have stated that there are around
 [Data](articles/334654b0.json)
 
 [Extended Data](ext_articles/334654b0.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-07-05 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100298/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Several spells of showers may occur in Northern and North-central provinces.
-
-Showers or thundershowers will occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
-
-Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/56c54b27.json)
-
-[Extended Data](ext_articles/56c54b27.ext.json)
-
----
-
-### Sampanthan's body was taken to Trincomalee by plane
-
-*2024-07-05 08:27:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/விமானம்-மூலம்-திருகோணமலைக்கு-எடுத்து-செல்லப்பட்டது-சம்பந்தனின்-பூதவுடல்/75-339898) · `ta`
-
-Rajavarothayam Sampanthan, senior leader of the Sri Lankan Tamil party, had his body transported by plane from Jaffna to Trincomalee. His funeral, named Anjali, took place in Jaffna, where many paid their respects. The procession then moved to Trincomalee, where it will remain for two days, concluding on the following Sunday.
-
-🟩
-
-Senior leader of the Sri Lankan Tamil party Rajavarothayam Sampanthan's body was taken by plane from Jaffna to Trincomalee today.
-
-Anjali was completed yesterday as many paid tribute to Sambandan's funeral at the father Selva Kalaiyar in Jaffna.
-
-Father Selva was taken by car this morning to Palali Airport and was taken by plane to Trincomalee.
-
-The public will be held in Trincomalee for two days and will be held on Sunday the next Sunday.R
-
-◼️
-
-[Data](articles/d34ea174.json)
-
-[Extended Data](ext_articles/d34ea174.ext.json)
 
 ---

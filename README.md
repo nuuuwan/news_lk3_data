@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 13:19:46**
+As of **2024-07-05 13:35:24**
 
 ## Newspaper Stats
 
-*Scraped **33,804** Articles*
+*Scraped **33,806** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,889
 economynextcom | 1,986
 dailyftlk | 2,100
 adalk | 3,021
-adaderanalk | 3,861
-tamilmirrorlk | 4,000
+adaderanalk | 3,862
+tamilmirrorlk | 4,001
 dailymirrorlk | 4,733
 virakesarilk | 5,299
 adaderanasinhalalk | 5,601
@@ -26,37 +26,75 @@ adaderanasinhalalk | 5,601
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,803 (100.0%) of 33,804 articles have been extended.
+33,804 (100.0%) of 33,806 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### හේතුවක් නැති අකුරණ ගින්න
+### படம் பிடித்த பொலிஸ் அதிகாரி கைது
+
+*2024-07-05 13:17:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/படம்-பிடித்த-பொலிஸ்-அதிகாரி-கைது/76-339911) · `ta`
+
+பெண் பொலிஸார் தங்குமிட விடுதி குளியறையில் குளித்து கொண்டிருந்த பெண் பொலிஸ் அதிகாரியொருவரை மறைந்திருந்து படம் பிடித்த ஆண் பொலிஸ் உத்தியோகத்தோர்  ஒருவரை விளக்க மறியலில் வைக்குமாறு நுவரெலியா மாவட்ட நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+லிந்துலை பொலிஸ் நிலையத்தில் பெண் பொலிஸார் தங்குமிட  விடுதி குளியலறையில் குளித்து கொண்டிருந்த பெண் பொலிஸ்  உத்தியோகத்தோர் ஒருவரை அதே பொலிஸ் நிலையத்தில் பணிபுரியும் ஆண் பொலிஸ்  உத்தியோகத்தோர் ஒருவர் தனது ஸ்மார்ட் போனால் படம் பிடித்து வைத்திருந்துள்ளார்.
+
+இந்த விடயம் ஏனைய பொலிஸாருக்கு தெரியவந்ததையடுத்து விசாரணைகள் தொடரப்பட்டு குறித்த பொலிஸ் உத்தியோகத்தோர் மீது நடவடிக்கை மேற்கொள்ளப்பட்டு  கைது செய்த லிந்துலை பொலிஸார் அவரை நுவரெலியா நீதவான் நீதிமன்றத்தில் ஆஜர் படுத்தியுள்ளனர்.
+
+இதன்போது இது தொடர்பான வழக்கை விசாரணைக்கு எடுத்து கொண்ட நீதிபதி பிரபுதிகா நாணயக்கார சந்தேக நபரான பொலிஸ் உத்தியோகத்தரை செவ்வாய்கிழமை (09) வரை விளக்க மறியலில் வைக்க உத்தரவு பிறப்பித்தார்.
+
+◼️
+
+[Data](articles/f4dc5b6b.json)
+
+---
+
+### Dhammika Perera ready to contest Presidential Election if SLPP decides
+
+*2024-07-05 13:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/100309/dhammika-perera-ready-to-contest-presidential-election-if-slpp-decides-) · `en`
+
+Billionaire businessman and Member of Parliament Dhammika Perera says that he is ready to contest the upcoming Presidential Election if the Sri Lanka Podujana Peramuna (SLPP) takes a decision.
+
+◼️
+
+[Data](articles/e63671b2.json)
+
+---
+
+### Fire without cause
 
 *2024-07-05 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198507) · `si`
 
-අකුරණ අවන්හලක ඇති වූ ගින්නක් හේතුවෙන් තාවකාලිකව වසා දැමුණු මහනුවර - මාතලේ මාර්ගය (A9) මේ වන විට යළි විවෘත කර ඇති බව පොලීසිය දැනුම් දී තිබේ.
+A fire broke out in an Akurana restaurant early today, spreading to nearby shops. The blaze, which started around 6:30 AM, was brought under control by noon. Despite efforts to evacuate gas cylinders, one exploded, causing further damage. The cause remains unknown.
 
-එම ගින්න හේතුවෙන් මහනුවර - මාතලේ මාර්ගය අද (05) පෙරවරුවේ තාවකාලිකව වසා දැමීමට කටයුතු කර තිබුණි.
+🟩
 
-ගින්න තවත් වෙළඳසැල් කිහිපයකට ද පැතිරයාම හේතුවෙන් මෙ‌ලෙස මාර්ගය තාවකාලිකව වසාදැමීමට කටයුතු කළ බව පොලීසිය සඳහන් කළේය.
+The police have informed the Kandy-Matale Road (A9) which has been closed down due to a fire in Akurana restaurant.
 
-අකුරණ නගරයේ පිහිටි මෙම අවන්හල තුළ ගින්න හටගෙන තිබුණේ අද උදෑසන 6.30ට පමණ ය.
+The fire was temporarily closed due to the fire this morning (05).
 
-ඒ සමගම අවන්හලේ සේවය කරමින් සිටි සේවකයින් පිටතට පැමිණි අතර ගින්න වේගයෙන් එම ගොඩනැගිල්ල පුරා ව්‍යාප්ත විය.
+The fire was temporarily closed due to another several shops, police said.
 
-මේ අතරවාරයේ ප්‍රදේශවාසීන් කඩිනමින් මැදිහත්වී අවන්හල තුළ තිබූ ගෑස් සිලින්ඩර් 50ක් පමණ ඉන් පිටතට ගනු ලැබුවේ ඒවා පිපිරීමෙන් සිදුවිය හැකි මහා විනාශය වළක්වාගැනීම සඳහාය.
+The fire erupted at the restaurant in Akurana town around 6.30 this morning.
 
-ගින්න මැඩපැවැත්වීම සඳහා මහනුවර මහනගර සභාවේ ගිනි නිවීමේ ඒකකයේ රථ කැඳවා තිබුණි.
+At the same time, the employees who were serving in the restaurant were out and the fire spread throughout the building.
 
-දැඩි පරිශ්‍රමයකින් පසු උදෑසන 10ට පමණ ගින්න මැඩපැවැත්වීමට ඔවුන්ට හැකිවිය.
+In the meantime, about 50 gas cylinders in the restaurant was taken out of the restaurant.
 
-කෙසේ වෙතත් ගිනිගත් අවන්හල අසල පිහිටි තීන්ත අලෙවිසැලක් ඇතුළු වෙළෙඳසැල් කිහිපයකට සහ ජාත්‍යන්තර පාසලකට ගින්නෙන් හානිවිය.
+The fire delegation was summoned by the fire delegation of the Kandy Municipal Council to suppress the fire.
 
-...
+They were able to curb the fire at around 10 am after a severe effort.
+
+However, a fireplace and fire was reported from a painting outlet near the burning restaurant.
+
+The fire has not been reported and the cause of the fire has not yet been revealed.
+
+◼️
 
 [Data](articles/ee5c2f7b.json)
+
+[Extended Data](ext_articles/ee5c2f7b.ext.json)
 
 ---
 
@@ -2239,51 +2277,5 @@ The petition is due to be considered before the panel of judges.
 [Data](articles/21449b6d.json)
 
 [Extended Data](ext_articles/21449b6d.ext.json)
-
----
-
-### Compliance with international bailouts
-
-*2024-07-04 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/187702) · `ta`
-
-Sri Lanka has achieved compliance with international bailout terms, marking a significant step in its economic recovery. This milestone reflects the government's effective economic and regime reorganizations aligned with global standards. A debt restructuring agreement was reached with the International Bailor Group, focusing on stabilizing $37 billion in international debts, including a $12.5 billion reorganization. The approval from the International Monetary Fund and the International Bailor Committee is crucial for ensuring credit stability. This achievement is pivotal in Sri Lanka's journey toward economic stability and a brighter future.
-
-🟩
-
-Finance Minister Shehan Semasinghe has said that the debt -related compliance reached with international bailouts can be considered as a reflection of the efficient economic and regime reorganizations carried out by the government in accordance with the global accepted principles.
-
-A compromise on debt restructuring has been reached between Sri Lanka and the International Bailor Group in accordance with the International Monetary Fund's conditions on debt stability.
-
-Finance Minister Shehan Semasinghe has announced that he has reached a compliance with the International Bailor Committee on Debt Settlement and said, "I am happy to know that Sri Lanka has successfully ended talks with the group."
-
-According to the compliance, the reorganization of the international bans worth $ 12.5 billion will be restructured in the total international debts worth $ 37 billion, adding that the consensus is the most important move in the process of restructuring the country's debt stability.
-
-...
-
-[Data](articles/7a55ba10.json)
-
-[Extended Data](ext_articles/7a55ba10.ext.json)
-
----
-
-### Navy Commander dives to see a destroyed ark in World War II
-
-*2024-07-04 19:10:07* · [`adalk`](https://www.ada.lk/picture_story/දෙවැනි-ලෝක-යුද්ධයේදී-විනාශ වූ-නැවක්-බලන්න-නාවික-හමුදාපති-හා-හිටපු-නාවික-හමුදාපති-කිමිදෙයි/10-410618) · `si`
-
-In July 2023, Sri Lanka's Navy conducted a deep-sea dive in the Eastern Sea, led by Vice Admiral Priyantha Perera, to explore the wreckage of the HMS Hermes, sunk by Japanese bombs in 1942. This expedition marked the first joint effort by naval divers to document the shipwreck, aiming to boost local diving tourism and preserve maritime history.
-
-🟩
-
-The Navy Diving Extension (Navy Diver) has successfully drowned in the Eastern Sea of ​​Sri Lanka and a special explorant diving exercise in the Eastern Sea, which is located in the Eastern Sea, which is located in the Eastern Sea.Commander of the Navy Vice Admiral Priyantha Perera and former Commander of the ship, Admiral Piyal de SilvaSaunched.
-
-July Second of 1942 by Japanese bombardment in Colombo on April 5, 1942, the British Royal NavyHas been condemned.
-
-The Diver Commander of the HMS Hermes, which have been mired from 55 meters of depths, is organized on the instructions of the Navy Expept to the Crafts of the Navy Diving Plan, and HMS Hermes Ship and AThe first time a former Navy and a former Navy personivist was the first time a former Navy personnel had been conducting an exploration diving exercise at once.
-
-...
-
-[Data](articles/b7fb19e4.json)
-
-[Extended Data](ext_articles/b7fb19e4.ext.json)
 
 ---

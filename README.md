@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 10:19:49**
+As of **2024-07-05 10:35:13**
 
 ## Newspaper Stats
 
-*Scraped **33,774** Articles*
+*Scraped **33,775** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,61 @@ adaderanalk | 3,854
 tamilmirrorlk | 3,995
 dailymirrorlk | 4,733
 virakesarilk | 5,289
-adaderanasinhalalk | 5,595
+adaderanasinhalalk | 5,596
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,772 (100.0%) of 33,774 articles have been extended.
+33,774 (100.0%) of 33,775 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### චීන විද්‍යුත් වාහනවලට පොල්ලක්
+### සුනක් පරාජය පිළිගනී
+
+*2024-07-05 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198502) · `si`
+
+ජාතික මැතිවරණයේදී බ්‍රිතාන්‍ය කොන්සෙවටිව් පක්ෂය ලැබූ පරාජයේ වගකීම තමා භාරගන්නා බව රිෂි සුනක් පවසයි.
+
+මැතිවරණයේ මෙතෙක් නිකුත්කර ඇති ප්‍රතිඵල විශ්ලේෂණය කළ විචාරකයින් පවසන්නේ කම්කරු පක්ෂය ආසන 170ක පමණ බහුතරයකින් ජයගැනීමට ඉඩ ඇති බවයි.
+
+ඒ අනුව Keir Starmer බ්‍රිතාන්‍ය අගමැති ධුරය සඳහා පත්වීමට නියමිතය.
+
+කම්කරු පක්ෂය බ්‍රිතාන්‍යයේ බලය ලබාගෙන ඇත්තේ වසර 14කට පසුව වීම විශේෂත්වයකි.
+
+ලන්ඩනයේ සිට සිය පාක්ෂිකයින් අමතමින් Starmer පැවසුවේ "වෙනස දැන් ඇරඹෙනවා" යනුවෙනි.
+
+◼️
+
+[Data](articles/419baee9.json)
+
+---
+
+### A stick to Chinese electronic vehicles
 
 *2024-07-05 09:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198501) · `si`
 
-චීන විද්‍යුත් වාහන සඳහා බදු ඉහළ දැමීමට යුරෝපා සංගමය පියවර ගෙන ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+The EU has increased taxes on Chinese electric vehicles to support local manufacturers, imposing rates between 17.4% and 37.6%. Import taxes remain at 10%, potentially raising Chinese EV prices in Europe significantly.
 
-එම තීරණය ගෙන ඇත්තේ එම කලාපයේ මෝටර් රථ නිෂ්පාදන ක්ෂේත්‍රය ආරක්ෂා කර ගැනීමේ අරමුණින් බව යුරෝපා සංගමය පවසයි.
+🟩
 
-ඒ අනුව එක් එක් නිෂ්පාදකයාට 17.4% සිට 37.6% දක්වා බදු පනවා ඇත.
+International media reports that the European Union has taken steps to increase tax on Chinese electrical vehicles.
 
-එසේම චීනයෙන් ආනයනය කරන සියලුම විද්‍යුත් වාහන සඳහා ආනයන බද්දක් ලෙස පනවා ඇති 10%ක බද්ද නොවෙනස්ව පවතී.
+The decision was taken to protect the car manufacturer of the region with the objective of protecting the car manufacturer.
 
-ඒ හේතුවෙන් යුරෝපා සංගමය තුළ චීන ව්ද්‍යුත් වාහන වල මිල සැලකිය යුතු ලෙස ඉහළ යා හැකි බව සඳහන් ය.
+Accordingly, each personage has been taxed to 17.4% to 37.6%.
+
+The 10% tax imposed as an import tax for all electronic vehicles imported from China remain unchanged.
+
+As a result, the prices of the Chinese Wildly in the European Union can increase significantly.
 
 ◼️
 
 [Data](articles/f92188d6.json)
+
+[Extended Data](ext_articles/f92188d6.ext.json)
 
 ---
 
@@ -111,6 +137,8 @@ In April 2022, the island nation declared its first-ever sovereign default since
 ...
 
 [Data](articles/61daed2c.json)
+
+[Extended Data](ext_articles/61daed2c.ext.json)
 
 ---
 
@@ -2243,27 +2271,5 @@ Due to this rain, inferior areas have been flooded in water.
 [Data](articles/3ae571c1.json)
 
 [Extended Data](ext_articles/3ae571c1.ext.json)
-
----
-
-### Sri Lanka’s Cable Solutions IPO offers 80mn voting shares
-
-*2024-07-04 15:35:00* · [`economynextcom`](https://economynext.com/sri-lankas-cable-solutions-ipo-offers-80mn-voting-shares-170900/) · `en`
-
-ECONOMYNEXT – Sri Lanka cable manufacturer Cable Solutions Limited will make an initial public offering of ordinary voting shares to be listed on the Diri Savi Board of the Colombo Stock Exchange.
-
-The subsidiary of the ACL Group will offer 80,786,600 ordinary voting shares at 7.50 rupees a share, through a combination of an offer for subscription of 14,666,600 new ordinary voting shares and an offer for sale of 66,120,000 existing ordinary voting shares.
-
-Cable Solutions aims to raise 109,999,500 rupees from the public through a subscription offer for 14,666,600 shares, the company said in a statement.
-
-81.8 percent of the proceeds will be allocated for capital expenditure for new machinery and production line upgrades.
-
-18.2 percent of the funds will be used to strengthen its working capital position.
-
-...
-
-[Data](articles/e2d63ce8.json)
-
-[Extended Data](ext_articles/e2d63ce8.ext.json)
 
 ---

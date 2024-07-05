@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 12:09:02**
+As of **2024-07-05 12:19:52**
 
 ## Newspaper Stats
 
-*Scraped **33,784** Articles*
+*Scraped **33,785** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,859
 tamilmirrorlk | 3,996
 dailymirrorlk | 4,733
 virakesarilk | 5,289
-adaderanasinhalalk | 5,599
+adaderanasinhalalk | 5,600
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,781 (100.0%) of 33,784 articles have been extended.
+33,784 (100.0%) of 33,785 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### ජාත්‍යන්තර ගුවන්තොටුපොළක ගෑස් කාන්දුවක්
+
+*2024-07-05 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198506) · `si`
+
+මැලේසියාවේ ක්වාලා ලාම්පූර් ජාත්‍යන්තර ගුවන්තොටුපොළ තුළ ගෑස් කාන්දුවක් සිදුවී ඇති බව රොයිටර්ස් පුවත් සේවය වාර්තා කරයි.
+
+එම ගෑස් කාන්දුව ඊයේ (04) එම ගුවන්තොටුපොළෙ හි ස්ථාපනය කර ඇති ඉංජිනේරු පර්යන්තයක සිදුව ඇති අතර ඉන් ගුවන් ගමන් සඳහා බාධාවක් ඇති වී නොමැත.
+
+◼️
+
+[Data](articles/4292a482.json)
+
+---
 
 ### Over 1,400 drug suspects arrested as operation ‘Yukthiya’ 2nd phase continues
 
@@ -48,37 +62,51 @@ Meanwhile, the authorities have seized 1.086 kg of heroin, 782.7g of ‘Ice’ (
 
 [Data](articles/51a93acc.json)
 
+[Extended Data](ext_articles/51a93acc.ext.json)
+
 ---
 
-### පක්ෂ මුලස්ථානය ඉදිරිපිටදී දයාසිරි වැඩ භාරගනී
+### Dayasiri assumes duties in front of party headquarters
 
 *2024-07-05 11:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198505) · `si`
 
-තමා ශ්‍රී ලංකා නිදහස් පක්ෂයේ මහ ලේකම්වරයාගේ තනතුර හොබවන බව පවසමින් පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා එම පක්ෂ මුලස්ථානය ඉදිරිපිටදී වැඩ භාරගත්තේය.
+Dayasiri Jayasekera, assuming the role of SLFP General Secretary, was prevented from entering the party headquarters by police.
 
-පොලීසිය ඔහුට පක්ෂ මූලස්ථානයට ඇතුළුවීමට ඉඩ නොදුන් අතර ඔහු එම කටයුත්ත සිදුකළේ ඉන් අනතුරුව ය.
+🟩
+
+Parliamentarian Dayasiri Jayasekera assumed duties in front of the party headquarters, claiming that he is holding the post of the SLFP General Secretary.
+
+The police did not allow him to enter the party headquarters, and he was later done.
 
 ◼️
 
 [Data](articles/1c713d4f.json)
 
+[Extended Data](ext_articles/1c713d4f.ext.json)
+
 ---
 
-### TIN ගත් අයට රාජ්‍ය ඇමති කී දේ
+### State Minister said to those who were taken
 
 *2024-07-05 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198504) · `si`
 
-බදු ගෙවන්නන් හඳුනාගැනීමේ අංකයක් (TIN) ලබා ගත් පුද්ගලයන්ට බදු ගෙවන ලෙස දේශී‍ය ආදායම් දෙපාර්තමේන්තුව මගින් ලිපි හෝ කෙටි පණිවිඩ ලැබුණ ද තමන් මාසික ආදායම රුපියල් ලක්ෂයේ සීමාව ඉක්මවා නොමැති නම් ඒ බව ලිඛිතව දැනුම්දී, බදු ගෙවීමෙන් වැළකී සිටිය හැකි බව මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+Dr. Ranjith Siyambalapitiya, the Minister of Inland Revenue, announced that individuals must receive written notice regarding their monthly income from the Department. However, he did not disclose the department's monthly income figures. The Minister also mentioned that the Negombo Regional Office would be informed about this matter. He confirmed that TIN numbers have been issued and aimed to distribute 7.3 million TINs by the end of July.
 
-එමෙන්ම අමාත්‍යවරයා පැවසුවේ මේ සම්බන්ධයෙන් ළඟම පිහිටි දේශීය ආදායම් දෙපාර්තමේන්තු ප්‍රාදේශීය කාර්යාලයට දැනුම් දිය හැකි බවය.
+🟩
 
-මේ වන විට පුද්ගලයන් ලක්ෂ 23ක් TIN අංකය ලබා ගෙන ඇති බව සඳහන් වේ.
+Minister of Inland Revenue Dr. Ranjith Siyambalapitiya to be informed in writing and the monthly income of the Department of Inland Revenue could not be informed in writing and the monthly income to pay Rs.says.
 
-අමාත්‍යවරයා වැඩි දුරටත් සඳහන් කළේ, ජූලි මස අවසන් වන විට TIN අංක ලබා දුන් පුද්ගලයන් සංඛ්‍යාව ලක්ෂ 73ක් බවට පත් කිරීම අරමුණ බවය.
+The Minister also said that the Regional Office of the Negombo could be informed about this.
+
+The TIN number has been obtained by now.
+
+The Minister further stated that the objective of making TIN numbers 73 lakhs as the end of July.
 
 ◼️
 
 [Data](articles/7a2a10a7.json)
+
+[Extended Data](ext_articles/7a2a10a7.ext.json)
 
 ---
 
@@ -2233,31 +2261,5 @@ Sampath Bank Plc, one of five crossings in the day, also saw foreign buying inte
 [Data](articles/3321bff9.json)
 
 [Extended Data](ext_articles/3321bff9.ext.json)
-
----
-
-### 'Jama' is ready for the art of streetcar
-
-*2024-07-04 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187684) · `ta`
-
-"Jama," a film spotlighting street art and the lives of artists in Tamil Nadu, features debutante Barry Ilavalakan and a cast including Ammu Abirami and Music Gnani. Directed by Sai Devanand, it explores the challenges and transformations faced by male artists portraying female roles in street theater, offering a fresh perspective on this traditional cultural art form.
-
-🟩
-
-The film crew has said that the film 'Jama', which plays the hero of the story of debutant Barry Ilavalakan, talks about the street art and the life of artists who play the role of a female.
-
-Barry Ilavalakan, Ammu Abirami, Chetan, Sri Krishna Dayal, K.. V.. My. Manimegale, 'Kala' Kumar, Vasant Marimuthu, Siva Maran and many others have been cast. The film, which has been recorded by Gopala Krishna, has composed the music of 'Music Gnani'.
-
-Sai Devanand has produced the film 'Pullangal', which is a realistic work that focuses on the life of folk artists.
-
-The shooting of the film is nearing completion and the post -shooting technical work is underway.. The film crew has said that the film's Burst Look and Teaser will be released soon.
-
-Commenting on the film, the director said, “The story of the film is ready to focus on the art of streetcar, which is still influential in the northern part of Tamil Nadu.. The group of streetcar artists has named 'Jama' and we have the title of the film.
-
-...
-
-[Data](articles/cc06dc51.json)
-
-[Extended Data](ext_articles/cc06dc51.ext.json)
 
 ---

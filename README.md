@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 17:55:47**
+As of **2024-07-05 18:13:31**
 
 ## Newspaper Stats
 
@@ -26,61 +26,79 @@ adaderanasinhalalk | 5,611
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,836 (100.0%) of 33,843 articles have been extended.
+33,843 (100.0%) of 33,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### සා පෙළ සෞන්දර්ය ප්‍රායෝගික පරීක්ෂණ අගෝස්තු
+### Ordinary Level Aesthetic Technologies August
 
 *2024-07-05 17:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198519) · `si`
 
-2023 අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ සෞන්දර්ය විෂයට අදාළ ප්‍රායෝගික පරීක්ෂණ අගෝස්තු මස 9 වන දින සිට ආරම්භ වන බව විභාග දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Examinations Department announces that practical tests pertaining to the GCE Ordinary Level examination will commence from 9th August.
 
-අපේක්ෂකයින් 169,007 දෙනෙකු සඳහා එම ප්‍රායෝගික පරීක්ෂණ අගෝස්තු මස 19 වනදා දක්වා පැවැත්වෙන බව විභාග දෙපාර්තමේන්තුව සඳහන් කළේය.
+The Department of Examinations said that 169,007 candidates will be held on August 19.
 
-සෞන්දර්ය විෂයෙහි අවසන් ප්‍රතිඵල නිර්ණය කිරීම සඳහා ලිඛිත පරීක්ෂණ සහ ප්‍රායෝගික පරීක්ෂණ යන කොටස් දෙකෙහිම ලකුණු උපයෝගි කර ගන්නා බැවින් ඒ සඳහා පෙනී සිටීම අනිවාර්යය වන බව විභාග දෙපාර්තමේන්තුව වැඩිදුරටත් දැනුම්දී තිබේ.
+The Department of Examinations has further stated that it is utilized by both the written tests and practical tests to determine the final results of aesthetic subject.
 
-කොටස් දෙකටම පෙනී නොසිටින අපේක්ෂකයින් සඳහා එම විෂයට අදාළ ප්‍රතිඵල ලබාදීම සිදු නොකරන බවද විභාග දෙපාර්තමේන්තුව දැනුම්දී ඇත.
+The Department of Examinations has informed the issuance of the subject for the candidates who do not appear.
 
 ◼️
 
 [Data](articles/80d35de7.json)
 
+[Extended Data](ext_articles/80d35de7.ext.json)
+
 ---
 
-### யாழ். சாவகச்சேரி வைத்தியசாலை விவகாரம் ; முன்னாள் நகர சபை உறுப்பினர் கிஷோர் கைது
+### Yall. Chavakachcheri Hospital affair;Former city council member Kishore arrested
 
 *2024-07-05 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/187772) · `ta`
 
-யாழ்ப்பாணம் சாவகச்சேரி நகரசபையின் முன்னாள் உறுப்பினர் ஞா.கிஷோர் இன்று வெள்ளிக்கிழமை (05) சாவகச்சேரி வைத்தியசாலைக்கு முன்பாக மக்களை திரட்டி ஆர்ப்பாட்டத்தில் ஈடுபட முயன்றதாக சாவகச்சேரி பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்.
+Chavakachcheri Hospital saw protests over doctor-patient welfare issues, leading to arrests including former council member Kishore. Doctors' strike forced patient transfers, prompting public intervention and negotiations.
 
-அண்மையில் சாவகச்சேரி ஆதார வைத்தியசாலைக்கு புதிதாக வைத்திய அத்தியட்சகர்  ஒருவர் நியமிக்கப்பட்டதை தொடர்ந்து அவர் சில வைத்தியசாலைகளில் நோயாளிகளின் நலன் கருதி சில அதிரடி நடவடிக்கைகளை மேற்கொண்டிருந்தார்.
+🟩
 
-இதன் காரணமாக வைத்தியசாலை அத்தியட்சகருக்கும் வைத்தியசாலையில் பணிபுரிகின்ற வைத்தியர்களுக்கும் முரண்பாடுகள் தோன்றி இருந்தது.
+The Chavakachcheri police have been arrested by the Chavakachcheri police for allegedly attempting to mobilize people in front of the Chavakachcheri Hospital on Friday (05).
 
-இதனையடுத்து சாவகச்சேரி ஆதார வைத்தியசாலையின் பணிபுரியும் வைத்தியர்கள் நேற்று வியாழக்கிழமை தொடக்கம் தொழிற்சங்க போராட்டத்தில் ஈடுபட்டுள்ளனர். இதனால் நேற்றைய தினமும் இன்றைய தினமும் வைத்தியசாலைக்கு சிகிச்சை பெற செல்லுகின்ற நோயாளிகள் அனைவரும் திருப்பி அனுப்பப்படுகின்ற நிலை காணப்படுகின்றது.
+Following the appointment of a new Medical Superintendent to the Chavakachcheri Resource Hospital recently, he had taken some action in the welfare of patients in some hospitals.
+
+As a result, there were contradictions between the hospital superintendent and the doctors working in the hospital.
+
+The doctors working at the Chavakachcheri Resource Hospital have been engaged in a trade union protest since Thursday.. As a result, all the patients who go to the hospital today are being sent back.
+
+Thus, the public organizations, welfare and civilians of the Thenmarachchi, who had come to the Hospital in the early hours of this morning, met with the Provincial Health Director who had visited the hospital today and would immediately initiate treatment for patients to resolve administrative problems.
 
 ...
 
 [Data](articles/86f56688.json)
 
+[Extended Data](ext_articles/86f56688.ext.json)
+
 ---
 
-### 7 G  - விமர்சனம்
+### 7 g - Review
 
 *2024-07-05 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/187771) · `ta`
 
-நடிகர்கள் : சோனியா அகர்வால், ஸ்மிருதி வெங்கட், ரோஷன் பஷீர், சித்தார்த் விபின், சினேகா குப்தா, சுப்பிரமணியம் சிவா, கல்கி ராஜா மற்றும் பலர்.
+"7G," a ghost film directed by Haroon, revolves around IT professional Rajiv (Roshan Bashir) and his wife Varsha (Smriti Venkat), who move into a haunted apartment named '7G.' Unsettling occurrences begin when Rajiv's ex-girlfriend, Nisha (Sneha Gupta), performs black magic. The plot thickens with the revelation that the house belonged to Manjula (Sonia Agarwal), who died there under mysterious circumstances. Varsha aids Manjula's spirit, leading to its departure from the house. Despite initial intrigue, the film lacks novelty and tests the audience's patience with predictable ghostly elements. Performances, especially from the lead actors, are criticized for lacking depth.
 
-'வெப்' எனும் படத்தை இயக்கிய இயக்குநர் ஹாரூன் இயக்கத்தில் உருவாகி இருக்கும் '7 G ' எனும் இந்த பேய் படம் ரசிகர்களை பயமுறுத்தியதா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+🟩
 
-தகவல் தொழில்நுட்பத் துறையில் பணியாற்றும் ராஜீவ் ( ரோஷன் பஷீர்) தன் காதல் மனைவியான வர்ஷா( ஸ்மிருதி வெங்கட்) வுடன் அவருடைய நீண்ட நாள் ஆசையான சொந்த வீட்டில் வாழ வேண்டும் என்ற கனவை நனவாக்குவதற்காக சென்னையில் உள்ள அடுக்குமாடி குடியிருப்பில் '7 G' எனும் ஒரு வீட்டை சொந்தமாக வாங்குகிறார். அந்த வீட்டில் இந்த தம்பதியினர் தங்களுடைய ஒரே வாரிசுடன் மகிழ்ச்சியாக இல்லறத்தை தொடங்குகிறார்கள்.  இவர்களை வாழ்த்துவதற்காக வருகை தரும் ராஜீவின் முன்னாள் காதலியான நிஷா ( சினேகா குப்தா) அங்கு சில பிளாக் மேஜிக் எனும் அமானுஷ்யமான வேலைகளை செய்கிறார்.
+Actors: Sonia Agarwal, Smriti Venkat, Roshan Bashir, Siddharth Vipin, Sneha Gupta, Subramaniam Siva, Kalki Raja and many others.
+
+Did this ghost film '7G', directed by director Haroon, directed the film 'Web', scared the fans?Or not?We will continue to see.
+
+Rajiv (Roshan Bashir), who works in the field of information technology, owns a house called '7G' in an apartment in Chennai to make her dream of living with his loved wife, Varsha (Smriti Venkat).. In the house, the couple start a happy home with their only successor.Rajiv's ex -girlfriend, Nisha (Sneha Gupta), who comes to greeting them, is doing some of the paranormal work as Black Magic.
+
+This takes place some unpleasant events in the house. Shocked by this, Varsha was the house before?Why is this going on?Begins to inquire. It is also available that the house belongs to a woman named Manjula (Sonia Agarwal) and that she died prematurely in the house.. What happened after that?That is the brilliant screenplay of the film.
 
 ...
 
 [Data](articles/17dd62a0.json)
+
+[Extended Data](ext_articles/17dd62a0.ext.json)
 
 ---
 
@@ -108,19 +126,25 @@ The police said that when the police officers tried to arrest them, the police s
 
 ---
 
-### நடிகர் தர்ஷன் நடிக்கும் பெயரிடப்படாத படத்தின் படப்பிடிப்பு நிறைவு
+### The shooting of the untitled movie starring actor Darshan
 
 *2024-07-05 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/187765) · `ta`
 
-'கனா' படத்தின் மூலம் தமிழ் ரசிகர்களுக்கு அறிமுகமாகி, அஜித் குமாரின்  'துணிவு' படத்தின் மூலம் பிரபலமான நடிகர் தர்ஷன் கதையின் நாயகனாக நடித்திருக்கும் பெயரிடப்படாத திரைப்படத்தின் படப்பிடிப்பு நிறைவடைந்ததாக படக்குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு உற்சாகத்துடன் அறிவித்திருக்கிறார்கள்.
+The untitled movie featuring Darshan, directed by Ajith Kumar, has wrapped its shoot. Starring alongside Darshan are Arsha Baiju, Kalaiyarasan, Deena, and Vinodhini Vaidyanathan. Produced by Play Smith Studios and scored by Rajesh Murukesan, post-production begins soon.
 
-இயக்குநர் ராஜ்வேல் இயக்கத்தில் உருவாகி வரும் பெயரிடப்படாத திரைப்படத்தின் தர்ஷன், அர்ஷா பைஜூ , கலையரசன், தீனா, வினோதினி வைத்தியநாதன் உள்ளிட்ட பலர் நடிக்கிறார்கள். ராஜேஷ் முருகேசன் இசையமைக்கும் இந்த திரைப்படத்தை பிளே ஸ்மித் ஸ்டுடியோஸ் நிறுவனம் தயாரித்திருக்கிறது.
+🟩
 
-இந்தத் திரைப்படத்தின் படப்பிடிப்பு நிறைவடைந்திருப்பதாகவும், விரைவில் படப்பிடிப்புக்கு பிந்தைய தொழில்நுட்ப பணிகள் தொடங்க இருப்பதாகவும், அதன் பிறகு படத்தின் டைட்டில் மற்றும் ஃபர்ஸ்ட் லுக் வெளியிடப்படும் என்றும் படக்குழுவினர் தெரிவித்துள்ளனர்.
+The film crew has been enthusiastically announced that the shooting of the unnamed film, which is playing the hero of the famous actor Darshan's story through Ajith Kumar's 'Tharabi'.
+
+Darshan, Arsha Baiju, Kalaiyarasan, Deena, Vinodhini Vaidyanathan and many others star in the director's directorial director.. The film is being produced by Play Smith Studios, composed by Rajesh Murukesan.
+
+The film crew said that the shooting of the film has been completed and the post -shooting technical work will begin soon.
 
 ◼️
 
 [Data](articles/519ed724.json)
+
+[Extended Data](ext_articles/519ed724.ext.json)
 
 ---
 
@@ -192,19 +216,29 @@ The Pakistani government has set a challenging revenue collection target to help
 
 ---
 
-### நடிகர் விக்னேஷ் இரட்டை வேடத்தில் நடிக்கும் 'ரெட் பிளவர்'
+### Actor Vignesh is playing a double role 'Red Flower'
 
 *2024-07-05 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/187760) · `ta`
 
-'கிழக்கு சீமையிலே' படத்தின் மூலம் தமிழ் ரசிகர்களிடத்தில் பிரபலமான நடிகர் விக்னேஷ் இரட்டை வேடத்தில் நடித்திருக்கும் 'ரெட் பிளவர்' எனும் திரைப்படம் எதிர்வரும் செப்டம்பர் மாதம் பட மாளிகையில் வெளியாகும் என படக் குழுவினர் தெரிவித்துள்ளனர்.
+"Actor Vignesh stars in dual roles in 'Red Flower,' set for release in September at the film mansion. The film features a star-studded cast including Manisha Jashani, Nasser. G. Mahendran, and more, directed by K. Santosh Ram. Set in a post-World War III world, it follows twins Vicky and Michael's journey to join the army. The production is wrapping up post-shooting and aims for international standards."
 
-இயக்குநர் ஆண்ட்ரூ பாண்டியன் இயக்கத்தில் உருவாகி இருக்கும் 'ரெட் பிளவர்' எனும் திரைப்படத்தில் விக்னேஷ், மனிஷா ஜஷ்னானி, நாசர், வை. ஜி. மகேந்திரன், சுரேஷ் மேனன், ஜான் விஜய், அஜய் ரத்னம், லீலா சாம்சன், 'தலைவாசல்' விஜய், மோகன் ராம் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-கே. தேவ சூர்யா ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சந்தோஷ் ராம் இசையமைத்திருக்கிறார்.  எக்சன் திரில்லர் ஜேனரிலான இந்த திரைப்படத்தை ஸ்ரீ காளிகாம்பாள் பிக்சர்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர் கே. மாணிக்கம் தயாரித்திருக்கிறார்.
+The film 'Red Flower' will be released at the film mansion in September, starring actor Vignesh's double role in Tamil fans with 'East Seemele'.
+
+Vignesh, Manisha Jashani, Nasser. G. Mahendran, Suresh Menon, John Vijay, Ajay Ratnam, Leela Samson, 'Thalawasal' Vijay, Mohan Ram and many others have been cast.
+
+K. Santosh Ram has composed the film, which is being recorded by Deva Surya.Producer K.. He has made the gem.
+
+Commenting on the film, the director said, “The 'Red Flower' is being prepared as a exciting fictional story in the context of international changes after World War III. The screenplay is located around two characters, Vicky and Michael.
+
+These twins are eager to join the army. Can they join the military?Or not?We have described the exciting screenplay. At present, the shooting of the film is completely completed and we are actively involved in the post -shooting technology.
 
 ...
 
 [Data](articles/1b70966b.json)
+
+[Extended Data](ext_articles/1b70966b.ext.json)
 
 ---
 
@@ -236,21 +270,29 @@ The President added that the Kurunegala district is widely developed under a new
 
 ---
 
-### தமிழக பாஜக தலைவர் அண்ணாமலை மீது எடப்பாடி பழனிச்சாமி குற்றச்சாட்டு
+### Edappadi Palanisamy accuses Tamil Nadu BJP leader Annamalai
 
 *2024-07-05 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/187763) · `ta`
 
-''அண்ணாமலை வந்த பிறகுதான் பாஜக வளர்ந்துள்ளது போல் மாயத்தோற்றத்தை உருவாக்கி வருகிறார். அது உண்மை அல்ல. உண்மையில் பாஜகவின் வாக்கு சதவீதம் குறைந்து கொண்டு தான் வருகிறது'' என எடப்பாடி பழனிச்சாமி தமிழக பாஜக தலைவர் அண்ணாமலை மீது குற்றம்சாட்டியிருக்கிறார்.
+Edappadi Palanisamy criticizes Tamil Nadu BJP leader Annamalai, claiming the BJP's growth post-Annamalai's arrival is untrue as its vote percentage is actually declining. He accuses Annamalai of criticizing AIADMK without understanding politics, citing his poor performance in the Coimbatore constituency and the BJP's stagnant vote share.
 
-கோவை விமான நிலையத்தில் செய்தியாளர்களை சந்தித்த அதிமுகவின் பொதுச் செயலாளரும், தமிழக சட்டமன்ற எதிர்க்கட்சித் தலைவருமான எடப்பாடி கே. பழனிச்சாமி தெரிவித்ததாவது,
+🟩
 
-'' பாஜக மாநில தலைவர் அண்ணாமலை அதிமுக பற்றி சில விமர்சனங்களை தெரிவித்துள்ளார். அதிமுக விக்ரவாண்டி தொகுதிக்கான இடைத்தேர்தலை புறக்கணித்தது குறித்து ஏற்கனவே தெளிவாக விளக்கம் அளித்துள்ளோம். இருந்தும் அதிமுகவை குறை சொல்லி திட்டமிட்டு அண்ணாமலை பேசியுள்ளார்.
+“It is only after the arrival of Annamalai that the BJP has grown up. That is not true. In fact, the BJP's vote percentage is declining, ”Edappadi Palanisamy has accused Tamil Nadu BJP leader Annamalai.
 
-இந்தத் தேர்தலில் அதிமுக போட்டியிட்டால் அக்கட்சி மூன்று அல்லது நான்காம் இடத்திற்கு தான் வந்திருக்கும் என அவர் கூறியுள்ளார். அவர் மெத்தப் படித்தவர். மிகப்பெரிய அரசியல் ஞானி. அவர் கணிப்பு அப்படி உள்ளது.
+Edappadi K.. Palanisamy said,
+
+“BJP state president Annamalai has made some criticism of the AIADMK. We have already clarified the boycott of the by -election for the AIADMK Vikravandi constituency. However, Annamalai has spoken to the AIADMK.
+
+If the AIADMK contested this election, the party would have come to three or fourth, he said. He is a mattress educated. The biggest political wise man. He is like that.
+
+The AIADMK candidate in the Villupuram Lok Sabha constituency won only six thousand votes. The AIADMK is second in the constituency. We have stated many reasons for the Vikravandi by -election.
 
 ...
 
 [Data](articles/e442d076.json)
+
+[Extended Data](ext_articles/e442d076.ext.json)
 
 ---
 
@@ -320,19 +362,25 @@ There was a large dialogue on the extent of Sri Lanka's debt, and the 17th Inter
 
 ---
 
-### சர்வதேச விருதை வென்ற தனுஷின் 'கேப்டன் மில்லர்'
+### Dhanush's 'Captain Miller' won the International Award
 
 *2024-07-05 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/187759) · `ta`
 
-நடிகர் தனுஷ் கதையின் நாயகனாக நடித்து வெளியான 'கேப்டன் மில்லர்' எனும் திரைப்படம்-  இங்கிலாந்து நாட்டின் லண்டன் நேஷனல் ஃபிலிம் அகாடெமி சார்பில் வழங்கப்படும் சிறந்த வெளிநாட்டு திரைப்படங்களுக்கான விருதினை வென்றிருக்கிறது.
+"Captain Miller," starring Dhanush, won the Best Foreign Film Award at the London National Film Academy's International Film Awards. Directed by Arun Mateeswaran and produced by DG, Senthil, and Arjun Thiagarajan, it features Dhanush alongside Siva Rajkumar, Sandeep Kishan, Priyanka Arul Mohan, and Aditi Balan. Despite mixed reviews upon release, the film stood out in the competition."
 
-நேஷனல் ஃபிலிம் அகாடமி சார்பில்  பத்தாவது சர்வதேச திரைப்பட விருது வழங்கும் விழா லண்டனில் நடைபெற்றது. இதில் சிறந்த வெளிநாட்டு திரைப்படம் எனும் பிரிவில் இந்தியாவிலிருந்து பங்கு பற்றிய 'கேப்டன் மில்லர்' எனும் திரைப்படம் தெரிவு செய்யப்பட்டு, விருது வழங்கப்பட்டது.
+🟩
 
-சத்ய ஜோதி பிலிம்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் டி ஜி தியாகராஜன்+ செந்தில் தியாகராஜன்+ அர்ஜுன் தியாகராஜன் ஆகியோரின் தயாரிப்பில், இயக்குநர் அருண் மாதேஸ்வரன் இயக்கத்தில், தனுஷ், சிவ ராஜ்குமார், சந்தீப் கிஷன், பிரியங்கா அருள் மோகன், அதிதி பாலன் ஆகியோர் நடிப்பில் தயாரான 'கேப்டன் மில்லர்' திரைப்படம் இந்த ஆண்டு பொங்கல் திருவிழா தினத்தை முன்னிட்டு பட மாளிகையில் வெளியானது என்பதும், கலவையான விமர்சனங்களை பெற்றது என்பதும் குறிப்பிடத்தக்கது.
+The film 'Captain Miller', starring actor Dhanush, has won the Best Foreign Film Award on behalf of the London National Film Academy of England.
+
+The tenth International Film Awards ceremony was held in London on behalf of National Film Academy. The film 'Captain Miller' from India has been selected and awarded in the Best Foreign Film category.
+
+Dhanush, Siva Rajkumar, Sandeep Kishan, Priyanka Arul Mohan and Aditi Balan starred in the 'Captain Miller' on this year, directed by director Arun Mateeswaran, produced by DG Thiagarajan+ Senthil Thiagarajan+ Arjun Thiagarajan on behalf of Satya Jyoti Films Company.It is noteworthy that the film was released at the House and received mixed reviews.
 
 ◼️
 
 [Data](articles/99efa7f3.json)
+
+[Extended Data](ext_articles/99efa7f3.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 08:21:22**
+As of **2024-07-05 08:35:16**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 5,592
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,759 (100.0%) of 33,760 articles have been extended.
+33,760 (100.0%) of 33,760 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### මහ ලේකම් මම - දයාසිරි
+### Secretary General I - Dayasiri
 
 *2024-07-05 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198498) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ මහ ලේකම්වරයා ලෙස අද (05) උදෑසන යළිත් ධුරයේ කටයුතු ආරම්භ කරන බව පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා පවසයි.
+Dayasiri Jayasekara, a parliamentarian and legal secretary of the Sri Lanka Freedom Party (SLFP), begins his term as Secretary General today. He is recognized by the party's Senior Vice President, Rohana Lakshman Piyadasa, who also announced a candidate for the upcoming presidential election. Despite this, Minister Mahinda Amaraweera believes the party's efforts will lead to victory.
 
-පක්ෂයේ නීත්‍යානුකූල මහ ලේකම්වරයා ලෙස තවමත් කටයුතු කරන්නේ තමන් බව දයාසිරි ජයසේකර මන්ත්‍රීවරයා පවසයි.
+🟩
 
-ඒ අනුව යළි ධුරයේ කටයුතු ආරම්භ කරන අවස්ථාවට සියලුදෙනාට එක්වන ලෙසට ආරාධනා කරන බව මන්ත්‍රීවරයා වැඩිදුරටත් සඳහන් කළේය.
+Parliamentarian Dayasiri Jayasekara says that as the Secretary General of Sri Lanka Freedom Party (SLFP) will commence today (05).
 
-එමෙන්ම, එම පක්ෂයේ ජ්‍යෙෂ්ඨ උප සභාපති රෝහණ ලක්ෂමන් පියදාස මහතා පැවසුවේ ශ්‍රී ලංකා නිදහස් පක්ෂයේ මහ ලේකම්වරයා ලෙස දයාසිරි ජයසේකර මහතා පිළිගන්නා බවයි.
+MP Dayasiri Jayasekera says he is still working as the legal secretary of the party.
 
-ඉදිරි ජනාධිපතිවරණයට ශ්‍රී ලංකා නිදහස් පක්ෂයේ අපේක්ෂකයෙකු ඉදිරිපත් කරන බවද ඔහු වැඩිදුරටත් ප්‍රකාශ කළේය.
+He further stated that the appointment of the respects will be held join.
 
-කෙසේවෙතත් අමාත්‍ය මහින්ද අමරවීර මහතා පැවසුවේ පක්ෂයෙන් ජනාධිපතිවරණය සඳහා අපේක්ෂකයෙකු ඉදිරිපත් කිරීම ඵල රහිත ක්‍රියාවක් බවත් ශ්‍රී ලංකා නිදහස් පක්ෂය සහාය දක්වන අපේක්ෂකයා අනිවාර්යයෙන්ම ජයග්‍රහණය කරන බවත්ය.
+Senior Vice President of the party, Rohana Lakshman Piyadasa, said that Dayasiri Jayasekara was recognized as the SLFP General Secretary.
+
+He further stated that a Sri Lankan Freedom Party candidate will be presented to the next presidential election.
+
+However, Minister Mahinda Amaraweera said that the party's presidential election is a fruitless act and the supporting of the Sri Lanka Freedom Party will victorious.
 
 ◼️
 
 [Data](articles/402534ca.json)
+
+[Extended Data](ext_articles/402534ca.ext.json)
 
 ---
 

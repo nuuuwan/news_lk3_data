@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 16:19:38**
+As of **2024-07-05 16:35:14**
 
 ## Newspaper Stats
 
-*Scraped **33,827** Articles*
+*Scraped **33,831** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,889
 economynextcom | 1,986
 dailyftlk | 2,100
-adalk | 3,023
-adaderanalk | 3,866
+adalk | 3,025
+adaderanalk | 3,868
 tamilmirrorlk | 4,005
 dailymirrorlk | 4,733
 virakesarilk | 5,303
@@ -26,11 +26,59 @@ adaderanasinhalalk | 5,608
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,827 (100.0%) of 33,827 articles have been extended.
+33,827 (100.0%) of 33,831 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### Dates announced for O/L practical exams of aesthetic subjects
+
+*2024-07-05 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100315/dates-announced-for-ol-practical-exams-of-aesthetic-subjects) · `en`
+
+The Department of Examinations has announced the dates for the practical tests of aesthetic subjects of the 2023 (2024) G.C.E. Ordinary Level examination.
+
+Accordingly, the practical exams for Music, Dancing and, Drama and Theatre will be held from July 09 to July 19, 2024, Exams Commissioner General Amith Jayasundara said.
+
+However, the listening test for Western Music is scheduled to be held on July 14 (Sunday), according to Mr. Jayasundara.
+
+Meanwhile, the department mentioned that the admission cards of school and private applicants sitting for the practical tests would be delivered by post in the near future.
+
+The applicants are advised to contact ‘1911’ – the hotline of the Examinations Department or the contact numbers 011 2 784208, 011 2 784537 or 011 2 786616 for any further inquiries.
+
+◼️
+
+[Data](articles/d4e974fc.json)
+
+---
+
+### Sri Lanka to receive total debt relief of USD 8 billion through restructuring
+
+*2024-07-05 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100314/sri-lanka-to-receive-total-debt-relief-of-usd-8-billion-through-restructuring-) · `en`
+
+President Ranil Wickremesinghe has announced that the debt restructuring process will include USD 5 billion in loan interest relief from bilateral creditors and a USD 3 billion debt write-off from commercial creditors providing the country with a total relief of USD 8 billion.
+
+Wickremesinghe revealed this while addressing the ‘Urumaya’ Freehold Land Deed Ceremony held in Kurunegala today (05), the President’s Media Division (PMD) said.
+
+◼️
+
+[Data](articles/d22d2bff.json)
+
+---
+
+### මුළු ණය ප්‍රමාණය රුපියල් බිලියන 28343 යි
+
+*2024-07-05 16:04:43* · [`adalk`](https://www.ada.lk/breaking_news/මුළු-ණය-ප්‍රමාණය-රුපියල්-බිලියන-28343-යි/11-410625) · `si`
+
+"මේ රටේ ආර්ථික ස්ථාවර්තවය හා ජනතාවට ජීවත් වෙන්න පුලුවන් පහසු පරිසරයක් හදද්දී ජාත්‍යන්තර මූල්‍ය අරමුදල හා අනෙකුත් දේශීය හවුල්කරුවන් සමඟ ඒකරාශී වෙලා රනිල් වික්‍රමසිංහ මැතිතුමා හා රජය ඇති කරපු වැඩසටහන අද ප්‍රථිපල රටට අරගෙන ඇවිත් තියෙනවා" යැයි මුදල් රාජ්‍යය අමාත්‍යය ශෙහාන් සේමසිංහ මහතා පැවසීය.
+
+ඒ මහතා මේ බව ප්‍රකාශ කර සිටියේ අනුරාධපුරයේදී විශේෂ මාධ්‍ය හමුවක් කැඳවමින්ය, මෙම මාධ්‍ය සාකච්ජාව සඳහා දේශීය මාධ්‍ය මෙන්ම සූම් තාක්ෂණය ඔස්සේ විදේශීය මාධ්‍යවේදීන්ද සම්බන්ධ වී සිටියහ.
+
+...
+
+[Data](articles/ce005ed3.json)
+
+---
 
 ### Three intervening petitions filed against FR seeking to delay presidential poll
 
@@ -361,6 +409,24 @@ Namal Rajapaksa was also present at the occasion.
 [Data](articles/c0fbe195.json)
 
 [Extended Data](ext_articles/c0fbe195.ext.json)
+
+---
+
+### බදුල්ලේ ලොරියක් පෙරළිමෙන් සිව් දෙනෙක් මරුට
+
+*2024-07-05 13:45:14* · [`adalk`](https://www.ada.lk/picture_story/බදුල්ලේ-ලොරියක්-පෙරළිමෙන්-සිව්-දෙනෙක්-මරුට/10-410624) · `si`
+
+බදුල්ල තැන්නපංගුව මාර්ගයේ සොරණාතොට  වැලිහිදවංගුව අසලදී අද (5)  දහවල්    ලොරියක් මාර්ගය හරහා පෙරලීයාමෙන් සිව්දෙනෙකු මියගොස් තිදෙනකු බරපතළ තුවාල ලබා බදුල්ල ශික්ෂණ රෝහලට ඇතුළත් කළ බව   බදුල්ල පොලිසිය පවසයි .
+
+මෙසේ මියගොස් ඇත්තේ මොණරාගල  හුලංදාව ප්‍රදේශයේ පදිංචි සිව්දෙනෙකු යැයි පොලිසිය කීය
+
+ඉදිකිරීම් සමාගමක සේවකයන් පිරිසක් බස්නැවතුමක් ඉදිකිරීමට තැන්නපංගුව ට ගොස්  ආපසු  තැන්නපංගුව ප්‍රදේශයේ සිට බදුල්ල බලා ලොරියෙන් ගමන් කරමින් සිටියදී මෙසේ ලොරිය සොරණාතොට වැලිහිදවංගුව අසලදී පෙරලී අනතුරට පත්ව ඇතැයි පොලිසිය සදහන් කළේය .
+
+බදුල්ල ජේෂ්ඨ පොලිස් අධිකාරි වසන්ත කන්දේවත්ත පොලිස් අධිකාරි බුද්දික ගුණසේකර මූලස්ථාන ප්‍රධාන පොලිස් පරික්ෂක ටී එම් රත්නායක යන මහත්වරුන්ගේ උපදෙස් මත බදුල්ල රථ වාහන අංශයේ ස්ථානාධිපති උප පොලිස් පරික්ෂක ඒ .වී.අනුර ,පොලිස් සැරයන් 43056 වික්‍රමරත්න යන මහත්වරුන් ඇතුලු නිලධාරීන් වැඩිදුර පරික්ෂණ පවත්වති
+
+◼️
+
+[Data](articles/1dc5f85e.json)
 
 ---
 
@@ -2223,85 +2289,5 @@ The disaster occurred in a Lion number and 3 houses were completely damaged and 
 [Data](articles/2939309a.json)
 
 [Extended Data](ext_articles/2939309a.ext.json)
-
----
-
-### Security to the well by the lover's confession
-
-*2024-07-05 01:41:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலனின்-வாக்குமூலத்தால்-கிணற்றுக்கு-பாதுகாப்பு/175-339891) · `ta`
-
-A young woman, Nadeskumar Vinodhini, from Thanganagar, has been missing since May. Her boyfriend, Udayakumar Vishnukant, is suspected and arrested. Based on his confession, the police obtained court permission to search a well near the village. Security around the well is heightened as it prepares to be excavated on Friday, potentially uncovering clues to Vinodhini's whereabouts.
-
-🟩
-
-Following the affidavit made by the young man suspected of being a lover of the missing woman, the court has granted protection to the well and the court has granted permission to dig the well on Valli (05).
-
-Nadeskumar Vinodhini (age 25), a young woman from Thanganagar, who belongs to the Seruvila Police Division in Trincomalee, has been missing.
-
-Muttur police, who are carrying out an investigation into the matter, arrested a man from Clewetti on suspicion.
-
-Based on the information he provided, the police have obtained court permission to dig a dilapidated well on the border of the village.
-
-In this case, police security has been put in place on Wednesday (03). The Muttur police said that this will be dug on Friday (05) in the presence of the Muttur Court Magistrate.
-
-...
-
-[Data](articles/66903f04.json)
-
-[Extended Data](ext_articles/66903f04.ext.json)
-
----
-
-### Bribed IP. Arrest
-
-*2024-07-05 01:35:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-வாங்கிய-ஐ-பி-கைது/175-339890) · `ta`
-
-Colombo Chief Magistrate Thilina Kamage ordered the arrest of a Mahabake Police Inspector accused of accepting a bribe. The inspector will be investigated for bribery or corruption based on a complaint from Wattala Palliyawatte.
-
-🟩
-
-Colombo Chief Magistrate Thilina Kamage on Thursday (04) has ordered the Mahabake Police Inspector, who was arrested on charges of receiving a bribe of Rs.
-
-Commission to investigate bribery or corruption when the suspect appeared in court.The suspect has been placed on interrogation only after considering the comments made.
-
-The suspect has been arrested on the basis of a complaint lodged by a person from the Wattala Palliyawatte area.
-
-◼️
-
-[Data](articles/d39684cc.json)
-
-[Extended Data](ext_articles/d39684cc.ext.json)
-
----
-
-### Why parate is so hot these days
-
-*2024-07-05 01:18:28* · [`dailyftlk`](https://www.ft.lk/opinion/Why-parate-is-so-hot-these-days/14-763851) · `en`
-
-The Parate is not that draconian as most of the people see it. Firstly it applies only for loans of which the capital is Rs. 5 million or above. In practice, no bank will exercise the Parate Right until a borrower fails to repay 7/8 instalments or more. The bank as much as possible negotiates with the borrower and carefully listens to the reasons of the borrower’s failure. Banks will in the first instance endeavour to understand whether the default is due to the own negligence of the borrower or due to something beyond his control. Even in the case of own negligence the bank will warn the borrower and try to correct him, leaving aside the Parate. When the default is beyond the control of the borrower, banks give them sound concessions based on case by case
-
-Once the parate is abolished as proposed, the borrowers who are repaying satisfactorily will also, without thinking twice, refrain from repaying their loans
-
-...
-
-[Data](articles/844df26a.json)
-
-[Extended Data](ext_articles/844df26a.ext.json)
-
----
-
-### Why parate is so hot these days
-
-*2024-07-05 01:18:28* · [`dailyftlk`](https://www.ft.lk/columns/Why-parate-is-so-hot-these-days/4-763851) · `en`
-
-The Parate is not that draconian as most of the people see it. Firstly it applies only for loans of which the capital is Rs. 5 million or above. In practice, no bank will exercise the Parate Right until a borrower fails to repay 7/8 instalments or more. The bank as much as possible negotiates with the borrower and carefully listens to the reasons of the borrower’s failure. Banks will in the first instance endeavour to understand whether the default is due to the own negligence of the borrower or due to something beyond his control. Even in the case of own negligence the bank will warn the borrower and try to correct him, leaving aside the Parate. When the default is beyond the control of the borrower, banks give them sound concessions based on case by case
-
-Once the parate is abolished as proposed, the borrowers who are repaying satisfactorily will also, without thinking twice, refrain from repaying their loans
-
-...
-
-[Data](articles/dc032694.json)
-
-[Extended Data](ext_articles/dc032694.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 20:05:26**
+As of **2024-07-05 20:19:46**
 
 ## Newspaper Stats
 
-*Scraped **33,858** Articles*
+*Scraped **33,859** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 3,872
 tamilmirrorlk | 4,007
 dailymirrorlk | 4,733
 virakesarilk | 5,309
-adaderanasinhalalk | 5,611
+adaderanasinhalalk | 5,612
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,858 (100.0%) of 33,858 articles have been extended.
+33,858 (100.0%) of 33,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### PHI ඝාතන සැකකරුගෙන් එළියට ආ තොරතුරු
+
+*2024-07-05 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198520) · `si`
+
+ඇල්පිටිය පරිපාලන මහජන සෞඛ්‍ය පරීක්ෂකවරයාව ඝාතනය කර ඇත්තේ ඉලක්කය වැරදීමෙන් බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අනාවරණ කරගෙන තිබේ.
+
+වෙඩික්කරුගේ ඉලක්කය වී ඇත්තේ, ඝාතනය වූ මහජන සෞඛ්‍ය පරීක්ෂකවරයාගේ යාබද නිවසේ සිටින පොලිස් පරීක්ෂකවරයෙක් බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+ඇල්පිටිය මහජන සෞඛ්‍ය පරීක්ෂකවරයා ඝාතනය කළ වෙඩික්කරුගෙන් ගල්කිස්ස පොලීසිය සිදුකළ ප්‍රශ්න කිරීම්වලදී වැදගත් තොරතුරු රැසක් අනාවරණ වී තිබේ.
+
+එහිදී ඔහු පවසා ඇත්තේ ඇල්පිටිය නොවිසඳුණු අපරාධ විමර්ශන කොට්ඨාසයට අනුයුක්තව සේවය කර තාවකාලික වැඩතහනමකට ලක් ව සිටි පොලිස් පරීක්ෂක දැඩිමුණි බාලේන්ද්‍රසිංහ මහතා වෙඩි තබා ඝාතනය කළේද තමන් බවය.
+
+පසුගිය වසරේ ඔක්තෝබර් 09වනදා එම පොලිස් නිලධාරියාව ඝාතනය කර තිබුණේ නඩු කටයුත්තකට සහභාගී වී නැවත පැමිණෙමින් සිටියදීය.
+
+සැකකරුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී තවත් ඝාතන රැසක් පිළිබඳව පවසා ඇති බව පොලීසිය පැවසීය.
+
+එක් වරෙක රුපියල් 50,000ක මුදලකට කුඩා දරුවෙකු ඝාතනය කිරීමට ගොස් ඇති වෙඩික්කරු තම දරුවා සිහිවීම හේතුවෙන් එය සිදුකර නොමැති බවද පාපොච්ඡාරණය කර තිබේ.
+
+...
+
+[Data](articles/6ae4d8a0.json)
+
+---
 
 ### Qatar Airways to increase Colombo-Doha flight frequency
 
@@ -2329,27 +2353,5 @@ We do not have sufficient factors to say separately, whether there is a administ
 [Data](articles/ecab32ad.json)
 
 [Extended Data](ext_articles/ecab32ad.ext.json)
-
----
-
-### Court orders freezing of Keheliya Rambukwella’s family assets
-
-*2024-07-05 03:35:52* · [`dailyftlk`](https://www.ft.lk/news/Court-orders-freezing-of-Keheliya-Rambukwella-s-family-assets/56-763885) · `en`
-
-The Colombo High Court yesterday issued an order to freeze 16 fixed deposit accounts and three insurance policies belonging to the family members of former Health Minister Keheliya Rambukwella.
-
-The move comes following an application made by the Bribery Commission.
-
-The total value of the frozen assets is estimated at Rs. 93.125 million.
-
-The accounts and policies affected are under the names of Rambukwella’s spouse, three daughters and son-in-law and will remain frozen for a period of seven days.
-
-The former Health Minister is currently held in remand custody over allegations related to the purchase of substandard immunoglobulin injections. The Bribery Commission obtained this freezing order under Section 53(1) of the Anti-Corruption Act No. 09 of 2023, as part of an ongoing investigation conducted under Section 42 of the same Act. This section allows for scrutiny of the spouse, family members, or any other associated persons in corruption cases.
-
-◼️
-
-[Data](articles/e50ada61.json)
-
-[Extended Data](ext_articles/e50ada61.ext.json)
 
 ---

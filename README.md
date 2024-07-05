@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 17:19:49**
+As of **2024-07-05 17:35:30**
 
 ## Newspaper Stats
 
-*Scraped **33,835** Articles*
+*Scraped **33,836** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,986
 dailyftlk | 2,100
 adalk | 3,025
 adaderanalk | 3,870
-tamilmirrorlk | 4,005
+tamilmirrorlk | 4,006
 dailymirrorlk | 4,733
 virakesarilk | 5,303
 adaderanasinhalalk | 5,610
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,610
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,832 (100.0%) of 33,835 articles have been extended.
+33,835 (100.0%) of 33,836 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### தப்பிச் செல்ல முற்பட்ட நபர் மீது துப்பாக்கிச் சூடு
+
+*2024-07-05 17:08:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தப்பிச்-செல்ல-முற்பட்ட-நபர்-மீது-துப்பாக்கிச்-சூடு/175-339915) · `ta`
+
+போதைப்பொருள் வியாபாரி ஒருவரை கைது செய்வதற்காக சென்ற பொலிஸ் முச்சக்கரவண்டியை மோதி விபத்துக்குள்ளாக்கி விட்டு மோட்டார் வாகனமொன்றில் தப்பிச் செல்ல முற்பட்ட நபர் மீது அத்துருகிரிய பொலிஸார் துப்பாக்கிப் பிரயோகம் மேற்கொண்டுள்ளனர்.
+
+துப்பாக்கிச் சூட்டில் குறித்த நபரின் காலில் காயம் ஏற்பட்டுள்ள நிலையில், அவர் வைத்தியசாலையில் அனுமதிக்கப்படும் போது கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+போதைப்பொருள் வியாபாரி ஒருவரை கைது செய்வதற்காக அத்துருகிரி பொலிஸ் உத்தியோகத்தர்கள் குழுவொன்று நேற்று (04) இரவு முச்சக்கர வண்டியில் பிலியந்தலை பகுதிக்கு சென்றுள்ளது.
+
+இதன்போது, போதைப்பொருளுடன்  ஒருவர் அங்கு வந்துள்ளதாக தமக்கு கிடைத்த தகவலையடுத்து, பொலிஸ் உத்தியோகத்தர்கள் அவர்களை கைது செய்ய முற்பட்ட போது பொலிஸாரின் முச்சக்கரவண்டியை மோதிவிட்டு அங்கிருந்து தப்பிச் செல்ல முயன்றதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/46353398.json)
+
+---
 
 ### Sir Keir Starmer officially becomes UK’s prime minister
 
@@ -54,23 +72,31 @@ Speaking on the steps of No 10, former prime minister Mr Sunak said he would not
 
 [Data](articles/b8d83bfc.json)
 
+[Extended Data](ext_articles/b8d83bfc.ext.json)
+
 ---
 
-### පාකිස්තානයේ ඉන්ධන අර්බුදයක්
+### A fuel crisis in Pakistan
 
 *2024-07-05 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198518) · `si`
 
-පාකිස්තාන ඛනිජ තෙල් අලෙවිකරුවන්ගේ සංගමය අද (05) සිට රටපුරා වැඩවර්ජනයක් ප්‍රකාශයට පත් කරන බව පවසා තිබේ.
+Pakistan faces a fuel crisis due to a strike by the Pakistan Petroleum Sellers Association against a newly introduced tax. Over 13,000 filling stations nationwide will halt operations, affecting the country's fuel supply. The association is negotiating with authorities to resolve their issues.
 
-සිය ගැටළු සම්බන්ධයෙන් බලධාරීන් සමග පැවැති සාකච්ඡා විසඳුමකින් තොරව අවසන්වීම ඊට හේතුව බව වාර්තා වෙයි.
+🟩
 
-වැඩවර්ජනයට සමගාමීව රට පුරා ඉන්ධන පිරවුම්හල් 13,000කට අධික සංඛ්‍යාවක මෙහෙයුම් නතර කෙරෙනු ඇත.
+Pakistan Petroleum Sellen Association (Pakistala Petroleum Sellers) is said to publish a strike from the country to the country.
 
-විදෙස් මාධ්‍ය වාර්තා කරන්නේ අලුතින් හඳුන්වාදී තිබෙන බද්දක්  මුල් කරගෙන මෙම අර්බුදය හටගෙන ඇති බවය.
+It is reported that the reason for discussion with authorities over their issues is to be completed.
+
+In line with the strike, over 13,000 filling stations throughout the country will be stopped.
+
+The crisis has caused this crisis based on a newly introduced tax.
 
 ◼️
 
 [Data](articles/e8176007.json)
+
+[Extended Data](ext_articles/e8176007.ext.json)
 
 ---
 
@@ -87,6 +113,8 @@ The Pakistani government has set a challenging revenue collection target to help
 ...
 
 [Data](articles/6d4d1de8.json)
+
+[Extended Data](ext_articles/6d4d1de8.ext.json)
 
 ---
 
@@ -2271,37 +2299,5 @@ Although the session is short, a parliamentary spokesman said that the amount sp
 [Data](articles/085c3259.json)
 
 [Extended Data](ext_articles/085c3259.ext.json)
-
----
-
-### Ritbury Schools Series Running Championship: Maurice Stella
-
-*2024-07-05 02:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187707) · `ta`
-
-In the Ritbury Schools Series Running Championship, Maurice Stella College won the men's category with 87 points, followed by St. Joseph Vas College with 81 points. Wattala Lyesium International School dominated the women's category with 120 points. Age group winners included Maurice Stella for Under 14 and St. Joseph Vaz for Under 16. The event was graced by CPL. Puts International Porn Ltd Limited's Kusala Fernando and Ritbury Kettagari Campactor Aruna Liyanapatrana.
-
-🟩
-
-In the men's category of Ritbury Schools, which ended on Thursday (04) at the Vincent Diaz Stadium, Badulla, the Wattala Lyesium International School in the Wattala Lyesium International School in the Men's category and the Wattala Lyesium International School in Wattala.
-
-Maurice Stella College scored 87 points in a series of rival men and became the overall champion.
-
-St. Joseph Vas College, Wennapuwa, secured 2nd place with 81 points and St.
-
-In the women's category, the Wattala Lysium scored 120 points and became the overall champion by 26 points.
-
-Menikhinna, Valalla A. Ratnayake Central College finished 2nd with 94 points and Gampaha Tiruchiluwa College 3rd with 49 points.
-
-Champions were selected in each age group than the main prizes, the overall champions.
-
-Under 12 -Champion: 20 points, 2nd place: Panadura Sri Sumangala, Negombo 10 points each
-
-Under 14 - Champion: Maurice Stella 28 Points, 2nd Place: Colombo Royal 19 Points
-
-...
-
-[Data](articles/45762ff6.json)
-
-[Extended Data](ext_articles/45762ff6.ext.json)
 
 ---

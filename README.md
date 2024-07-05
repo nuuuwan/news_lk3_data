@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 08:54:03**
+As of **2024-07-05 09:05:17**
 
 ## Newspaper Stats
 
-*Scraped **33,760** Articles*
+*Scraped **33,762** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,889
 economynextcom | 1,986
 dailyftlk | 2,099
 adalk | 3,019
-adaderanalk | 3,849
+adaderanalk | 3,851
 tamilmirrorlk | 3,993
 dailymirrorlk | 4,733
 virakesarilk | 5,287
@@ -26,11 +26,47 @@ adaderanasinhalalk | 5,592
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,760 (100.0%) of 33,760 articles have been extended.
+33,760 (100.0%) of 33,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### Kandy-Matale road temporarily closed at Akurana due to fire
+
+*2024-07-05 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100299/kandy-matale-road-temporarily-closed-at-akurana-due-to-fire) · `en`
+
+The Kandy-Matale road (A9) has been temporarily closed at Akurana due to a fire that broke out in a shop at Akurana and has spread to several adjacent shops in the vicinity, according to police.
+
+Accordingly, motorists are kindly advised to use alternate routes to avoid inconveniences.
+
+◼️
+
+[Data](articles/334654b0.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-07-05 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100298/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Several spells of showers may occur in Northern and North-central provinces.
+
+Showers or thundershowers will occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
+
+Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/56c54b27.json)
+
+---
 
 ### Secretary General I - Dayasiri
 
@@ -2225,45 +2261,5 @@ Q: Who will benefit if the Supreme Court rules a stay order?
 [Data](articles/efd3692c.json)
 
 [Extended Data](ext_articles/efd3692c.ext.json)
-
----
-
-### Woman death in Jaffna
-
-*2024-07-04 13:36:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-குளவி-கொட்டியதில்-பெண்-மரணம்/175-339863) · `ta`
-
-A 67-year-old woman from Chettikurichi, Gunasekaram Varadasiramani, died after being stung by wasps while cutting palm tiles near her home. She was treated at Tellippalai Hospital but passed away there.
-
-🟩
-
-The woman was admitted to the Tellippalai Hospital for treatment after the wasp shed, but she died there, police said.
-
-Gunasekaram Varadasiramani, a 67 -year -old woman from Chettikurichi, has died.
-
-The woman was wasps when she was cutting palm tiles in a land near her home.
-
-◼️
-
-[Data](articles/44b00d08.json)
-
-[Extended Data](ext_articles/44b00d08.ext.json)
-
----
-
-### Wickremesinghe disavows Supreme Court case seeking verdict on Sri Lanka president’s term
-
-*2024-07-04 13:35:00* · [`economynextcom`](https://economynext.com/wickremesinghe-disavows-supreme-court-case-seeking-verdict-on-sri-lanka-presidents-term-170865/) · `en`
-
-ECONOMYNEXT — Sri Lanka President Ranil Wickremesinghe has said he believes the president’s term is five years, expressing his support for holding the presidential election in 2024 and disavowing a case filed in the Supreme Court seeking a verdict stating that a president’s term is six years.
-
-“It has come to my attention that Chamindra Dayan Lenawa has filed an application in the Supreme Court, arguing that Article 30(2) should not be considered amended by Section 3 of the 19th Amendment. He requests the Court to declare that the President’s term is six years and to issue an interim order stopping the Election Commission from conducting the Presidential Election in 2024 until a decision is made. Lenawa did not consult me or my lawyers before filing,” Wickremesinghe said in a tweet Thursday July 04 afternoon.
-
-“I firmly believe that the President’s term is five years, and I support the Election Commission’s steps to hold the Presidential Election in 2024,” he said.
-
-...
-
-[Data](articles/6a709adf.json)
-
-[Extended Data](ext_articles/6a709adf.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 14:19:42**
+As of **2024-07-05 14:35:07**
 
 ## Newspaper Stats
 
-*Scraped **33,814** Articles*
+*Scraped **33,816** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,986
 dailyftlk | 2,100
 adalk | 3,023
 adaderanalk | 3,864
-tamilmirrorlk | 4,002
+tamilmirrorlk | 4,004
 dailymirrorlk | 4,733
 virakesarilk | 5,300
 adaderanasinhalalk | 5,603
@@ -26,29 +26,49 @@ adaderanasinhalalk | 5,603
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,809 (100.0%) of 33,814 articles have been extended.
+33,814 (100.0%) of 33,816 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### மலேசியாவில் கோலாலம்பூர் விமான நிலையத்தில் இரசாயனக் கசிவு ; 39 பேர் பாதிப்பு
+### பதுளையில் கோர விபத்து - 4 பேர் மரணம் ; பலர் படுகாயம்
+
+*2024-07-05 14:06:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பதுளையில்-கோர-விபத்து-4-பேர்-மரணம்-பலர்-படுகாயம்/76-339913) · `ta`
+
+பதுளை - சொரணாதோட்டை வீதியின் வெலிஹிந்த பிரதேசத்தில் இன்று (05) மதியம் லொறியொன்று விபத்துக்குள்ளானதில் நான்கு பேர் உயிரிழந்துள்ளனர்.
+
+மொனராகலையில் இருந்து வீதிகளில் பேருந்து தரிப்பிடங்களை அமைப்பதற்காக வந்தவர்களே இவ்வாறு விபத்தில் சிக்கியுள்ளனர்
+
+◼️
+
+[Data](articles/b33b3d83.json)
+
+---
+
+### Chemical leaks at Kuala Lumpur airport in Malaysia;39 people vulnerable
 
 *2024-07-05 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/187742) · `ta`
 
-மலேசியாவில் கோலாலம்பூர் சர்வதேச விமான நிலையத்தில் வியாழக்கிழமை (04) விமான பராமரிப்பு பகுதியில் இரசாயனக் கசிவு ஏற்பட்டதில் 39 பேர் பாதிக்கப்பட்டுள்ளனர்.
+A chemical leak at Kuala Lumpur International Airport affected 39 people, causing dizziness and vomiting, with 14 hospitalized. The leak involved Methyl Mercapton, a component of liquid petroleum gas, originating from an unused tank in the air maintenance area.
 
-கோலாலம்பூர் சர்வதேச விமான நிலையத்திலுள்ள விமான பராமரிப்பு பகுதியில்  வியாழக்கிழமை அதிகாலை இரசாயனக் கசிவு ஏற்பட்டுள்ளது.
+🟩
 
-பயணிகள் முனையத்தில் இருந்து தனித்தனியாக இருக்கும் விமான பராமரிப்பு பகுதியில் இயங்கும் மூன்று நிறுவனங்களில் பணிபுரிந்தவர்கள் இரசாயனக் கசிவால் பாதிக்கப்பட்டுள்ளார்கள்.
+39 people have been affected by chemical leakage at Kuala Lumpur International Airport in Malaysia on Thursday (04).
 
-39 பேருக்கு தலைச்சுற்றல் மற்றும் வாந்தி ஏற்பட்டுள்ளது. அதில் 14 பேர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Chemical leaks occurred in the early hours of Thursday morning at the Kuala Lumpur International Airport.
 
-மெத்தில் மெர்காப்டன் என்ற இரசாயனமே கசிந்துள்ளதாக கண்டறியப்பட்டுள்ளது. இது திரவமாக்கப்பட்ட பெட்ரோலிய வாயுவில் வாசனைக்காக சேரக்கப்படுகிறது. விமான பராமரிப்பு பகுதியிலுள்ள பயன்படுத்தப்படாத தொட்டியில் இருந்து மெத்தில் மெர்காப்டன்  கசிந்துள்ளது.
+Three companies operating in the air maintenance area, which are separate from the passenger terminal, have been affected by chemical leaks.
+
+39 people have dizziness and vomiting. Of these, 14 have been admitted to the hospital.
+
+Methyl Mercapton has been found that the chemical leaked. It is added to the smell of liquidized petroleum gas. Methyl Mercapton is leaked from an unused tank in the air maintenance area.
 
 ◼️
 
 [Data](articles/e61a759d.json)
+
+[Extended Data](ext_articles/e61a759d.ext.json)
 
 ---
 
@@ -67,6 +87,8 @@ He further expressed that as of now, 2.3 million people have obtained a TIN, wit
 ◼️
 
 [Data](articles/7ed767b0.json)
+
+[Extended Data](ext_articles/7ed767b0.ext.json)
 
 ---
 
@@ -110,6 +132,8 @@ The bodies of the deceased have been placed in the mortuary of Badulla Hospital,
 
 [Data](articles/5632fa00.json)
 
+[Extended Data](ext_articles/5632fa00.ext.json)
+
 ---
 
 ### Four dies in Badulla
@@ -134,21 +158,33 @@ The accident occurred from Moneragala to installing the passenger covering of th
 
 ---
 
-### ලක්ෂ 580කට පොලිසියට නව සුනඛයින් 35ක් නෙදර්ලන්තයෙන් ගෙන එයි
+### Police bring 35 new dogs from the Netherlands to police for 580 lakhs
 
 *2024-07-05 13:33:03* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-580කට-පොලිසියට-නව-සුනඛයින්-35ක්-නෙදර්ලන්තයෙන්-ගෙන-එයි/11-410623) · `si`
 
-පොලිස් නිල සුනඛ අංශය සදහා රුපියල් පන් කෝටි අසූ ලක්ෂයක් වටිනා  සුනඛයන් 35 දෙනෙකු නෙදර්ලන්තයේ සිට කටුනායක ගුවන් තොටුපොළ වෙත 07/05 දින අලුයම රැගෙන විත් තිබේ .
+35 police dogs, including Belgian Malinois and German Shepherds, were imported from the Netherlands to Sri Lanka for 580 lakh rupees. These dogs, selected by police and veterinary officials, will join the police force after three months of training. They are expected to assist in drug detection in the Western and Southern provinces.
 
-මෙම සුනඛයන් බෙල්ජියම් මැලිනොයිස් ( Belgiam Malinois ) වර්ගයේ සුනඛයන් 13 දෙනෙකු , ජර්මන් ෂෙපර්ඩ් ( German Shepherd ) වර්ගයේ  සුනඛයන්12 දෙනෙකු සහ ඉංග්ලිෂ් ස්පැනියෙල් ( English Spaniel ) වර්ගයේ සුනඛයන් 10 දෙනෙකු   සිටින අතර ඔවුන් නෙදර්ලන්තයේ K.- 10 Working Dog  නැමැති පෞද්ගලික සත්ව ගොවිපළකින් මිළදී ගෙන තිබේ .
+🟩
 
-මෙසේ රැගෙන විත් තිබූ සුනඛයන් අතරින් 21 දෙනෙකු ගැහැණු සතුන් වන අතර ඉතිරි 14 දෙනා පිරිමි සතුන් වේ .මොවුන් අතරින් ඉංග්ලිෂ් ස්පෑනියෙල් වර්ගයේ ගැහැණු සතුන් දෙදෙනෙකු මේ වනවිටත් ගර්භණී තත්වයේ පසු වන අතර තවත් බෙල්ජියම් මැලිනොයිස් වර්ගයේ බැල්ලියක එම ගොවිපළේ සිටි ශක්තිමත් බල්ලෙකු හා අභිජනනය කර රැගෙන විත් තිබුණි .
+35 million dogs have been taken to the Katunayake airport from the Netherlands on 07/05 million for the police official dog sector.
 
-මීට පෙර 2018 වසරේ දී ද මේ ආකාරයට පොලිස් නිල සුනඛ කොට්ඨාසය සදහා සුනඛයන් විදේශයකින් ආනයනය කර තිබුණි .
+These dogs have 13 dogs in Belgium Malinois (Belgiam Malinois), the English Spaniel (German Shepherd) types of English Spaniel and English Spaniel..
+
+Of these, 21 were female and the remaining 14 were in the event..
+
+The official dog division of the police had been imported abroad in 2018 before 2018.
+
+These dogs were brought to Qatar to Qatar from the Netherlands, from then on the 662 flight, Katunayake Airport Periphery at 02/05 pm.
+
+Police Media Spokesperson, DIG DIG Nimael Talduuwa arrived at the Bandaranaike Institute to take over dogs.
+
+These dogs were taken to the Narrary Institute to the Air Force Terminal to the Narrary Institute from airport air cargo periphetic and subsequently handed over to the police.
 
 ...
 
 [Data](articles/5ad92fe3.json)
+
+[Extended Data](ext_articles/5ad92fe3.ext.json)
 
 ---
 
@@ -199,6 +235,24 @@ Judge Prabhudika Nanayakkara, who was investigating the case, ordered the suspec
 [Data](articles/f4dc5b6b.json)
 
 [Extended Data](ext_articles/f4dc5b6b.ext.json)
+
+---
+
+### படம் பிடித்த பொலிஸ் அதிகாரிக்கு விளக்கமறியல்
+
+*2024-07-05 13:17:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/படம்-பிடித்த-பொலிஸ்-அதிகாரிக்கு-விளக்கமறியல்/76-339911) · `ta`
+
+பெண் பொலிஸார் தங்குமிட விடுதி குளியறையில் குளித்து கொண்டிருந்த பெண் பொலிஸ் அதிகாரியொருவரை மறைந்திருந்து படம் பிடித்த ஆண் பொலிஸ் உத்தியோகத்தோர்  ஒருவரை விளக்க மறியலில் வைக்குமாறு நுவரெலியா மாவட்ட நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+லிந்துலை பொலிஸ் நிலையத்தில் பெண் பொலிஸார் தங்குமிட  விடுதி குளியலறையில் குளித்து கொண்டிருந்த பெண் பொலிஸ்  உத்தியோகத்தோர் ஒருவரை அதே பொலிஸ் நிலையத்தில் பணிபுரியும் ஆண் பொலிஸ்  உத்தியோகத்தோர் ஒருவர் தனது ஸ்மார்ட் போனால் படம் பிடித்து வைத்திருந்துள்ளார்.
+
+இந்த விடயம் ஏனைய பொலிஸாருக்கு தெரியவந்ததையடுத்து விசாரணைகள் தொடரப்பட்டு குறித்த பொலிஸ் உத்தியோகத்தோர் மீது நடவடிக்கை மேற்கொள்ளப்பட்டு  கைது செய்த லிந்துலை பொலிஸார் அவரை நுவரெலியா நீதவான் நீதிமன்றத்தில் ஆஜர் படுத்தியுள்ளனர்.
+
+இதன்போது இது தொடர்பான வழக்கை விசாரணைக்கு எடுத்து கொண்ட நீதிபதி பிரபுதிகா நாணயக்கார சந்தேக நபரான பொலிஸ் உத்தியோகத்தரை செவ்வாய்கிழமை (09) வரை விளக்க மறியலில் வைக்க உத்தரவு பிறப்பித்தார்.
+
+◼️
+
+[Data](articles/f833a890.json)
 
 ---
 
@@ -332,19 +386,27 @@ Labor party after 14 years takes power in Britain. It is worth recalling that th
 
 ---
 
-### ණය ප්‍රතිව්‍යුහගත කිරීමේ සාර්ථකත්වය බලශක්තියට ශක්තියක්
+### The success of the restructuring of debt is a strength to energy
 
 *2024-07-05 12:14:14* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීමේ-සාර්ථකත්වය-බලශක්තියට-ශක්තියක්/11-410622) · `si`
 
-ණය  ප්‍රතිව්‍යුහගත කිරීමේ කටයුතු සාර්ථක කර ගැනීම හේතුවෙන් පසුගිය අර්බුද සමයේ ඇනහිට තිබූ බලශක්ති ක්ෂේත්‍රයට සම්බන්ධ ව්‍යාපෘති යලි ක්‍රියාත්මක කිරීමට හැකි වන බවත් එය බල ශක්ති අර්බුදය විසඳාගැනීමට මහත් පිටුවහලක් වන බවත් විදුලිබල හා බලශක්ති රාජ්‍ය අමාත්‍ය ඉන්දික අනුරුද්ධ මහතා සඳහන් කළේය.
+Energy Minister Indika Anuvili highlighted the success of debt restructuring efforts in overcoming the energy crisis, attributing it to the resolution of stalled projects and the reduction of electricity production costs through solar panels. He criticized opposition parties for undermining the government's development efforts and spreading misinformation about power plant projects.
 
-රට සංවර්ධනය කිරීම සඳහා ආණ්ඩුව විසින් ක්‍රියාත්මක කර ඇති වැඩපිළිවෙළ අඩපණ කිරීමට විපක්ෂයේ ඇතැම් පාර්ශ්ව විසින් කඩාකප්පල්කාරී ක්‍රියාවන්වල නිරතව සිටින බව ද රාජ්‍ය අමාත්‍යවරයා පෙන්වා දුන්නේය.
+🟩
 
-විදුලිබල හා බලශක්ති රාජ්‍ය අමාත්‍ය ඉන්දික අනුරුද්ධ මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Power and Energy Minister Indika Anuvili said that projects in the energy sector in the past crisis due to the successful restructuring activities of the last crisis and that it helps to resolve the energy crisis.
+
+The State Minister pointed out that some parties of the opposition are engaged in disruptive acts to the development of the government to develop the country.
+
+Minister of Power and Energy Indika Anuruddha made this statement participating at a press conference held at the press conference at the Presidential Media Center.
+
+Stalitting many projects related to the energy sector during the last crisis. But now, the agreements have been signed up to understand and restructure the loans with bilateral borrower. Therefore, the legal status of the foreign countries has been launched after the lack of resume those projects.. Accordingly, it is a great contribution to solve the energy crisis in the country.
 
 ...
 
 [Data](articles/90747b71.json)
+
+[Extended Data](ext_articles/90747b71.ext.json)
 
 ---
 
@@ -2217,65 +2279,5 @@ In these discussions, the bond owners stand in this discussion that the economy 
 [Data](articles/693322e5.json)
 
 [Extended Data](ext_articles/693322e5.ext.json)
-
----
-
-### SriLankan Airlines flight makes emergency landing in Jakarta
-
-*2024-07-04 21:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100295/srilankan-airlines-flight-makes-emergency-landing-in-jakarta) · `en`
-
-A SriLankan Airlines flight operating from Melbourne to Colombo declared an emergency and diverted earlier today due to a medical problem on board.
-
-SriLankan Airlines flight UL605, an Airbus A330-300 operating from Melbourne Airport (MEL) was en route to Colombo Bandaranaike International Airport (CMB).
-
-The flight was at cruising level to the south of Indonesia when flight crew declared a general emergency with transponder code 7700.
-
-Flight crew then elected to divert north from their position to Jakarta Soekarno–Hatta International Airport (CGK).
-
-The flight subsequently landed at the diversion airport in Jakarta at 20:56 local time.
-
-Flight data shows that Sri Lankan flight UL605 made a delayed departure out of Melbourne Airport (MEL) at 17:16 local time today. Scheduled departure time for the service was listed as 1635 local time.
-
-The flight then set course normally, climbing to flight level FL380 (38,000 feet) for the trans-Indian Ocean service to Colombo.
-
-...
-
-[Data](articles/29120763.json)
-
-[Extended Data](ext_articles/29120763.ext.json)
-
----
-
-### More information about Colombo Altair tragedy
-
-*2024-07-04 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198492) · `si`
-
-In the Colombo Altair tragedy, two students fell from the 67th floor while taking photos, suspected due to a heated argument. Their bodies were found on the 3rd floor, severely damaged. The police suspect they were frequent visitors to the luxury apartments without informing their parents. Further investigations are ongoing.
-
-🟩
-
-The 15th floor of the Altable Luxury apartment complex at Slave Island has revealed more information about the 15-year-old student and a student.
-
-Police said that after the post mortem examination held yesterday, he has been opened to their body and relatives.
-
-The deceased was a student and student of a large number of students in Colombo.
-
-Their bodies were found at the location of the 3rd floor of their bodies, and the bodies were severely damaged due to the clashes of the machines.
-
-Police investigations have revealed that the student and the student had a great friendship.
-
-The student had also found several photographs of photographs of the student and photographed.
-
-Accordingly, police suspect that both of them had fallen to the 67th floor when attempting to take photos.
-
-Investigators say that there is suspicion that there is a heated argument between the two before the accident occurred.
-
-They have allowed them to go into the luxury flats of the Altair.
-
-...
-
-[Data](articles/e7141937.json)
-
-[Extended Data](ext_articles/e7141937.ext.json)
 
 ---

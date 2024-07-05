@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 18:13:31**
+As of **2024-07-05 18:25:02**
 
 ## Newspaper Stats
 
@@ -35,6 +35,10 @@ Extensions include translations and NER (Named Entity Recognition).
 ### Ordinary Level Aesthetic Technologies August
 
 *2024-07-05 17:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198519) · `si`
+
+Practical tests for GCE Ordinary Level exams start August 9, affecting 169,007 candidates. These tests, including written ones, decide the aesthetic subjects' final results. Candidates absenting themselves will receive their subjects.
+
+🟩
 
 The Examinations Department announces that practical tests pertaining to the GCE Ordinary Level examination will commence from 9th August.
 

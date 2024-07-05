@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 21:54:19**
+As of **2024-07-05 22:07:23**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,615
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,862 (100.0%) of 33,864 articles have been extended.
+33,864 (100.0%) of 33,864 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### මව්බිම පුළුවන් ජාතික වැඩසටහන ඇරඹෙයි
+### Mawbima Can Begin National Program
 
 *2024-07-05 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198523) · `si`
 
-රට වෙනුවෙන් මෙහෙවරක් සිදුනොකරන සියලු දෙනා, ආබාධ සහිතව වුවත් රට වෙනුවෙන් වැඩකරන ආබාධිත ප්‍රජාවගෙන් අභිප්‍රේරණය විය යුතු බව ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+Dilith Jayaweera, leader of the Mawbima People's Party, launches a national program aimed at motivating individuals with special needs, emphasizing the importance of contributing to the nation. He highlights the dedication of the disability community, urging others to learn from their example and actively participate in national development efforts.
 
-මව්බිම ජනතා පක්ෂයේ ව්‍යාපෘතියක් ලෙස ක්‍රියාත්මක කෙරෙන ''මව්බිම පුළුවන්'' විශේෂ අවශ්‍යතා සහිත පුද්ගලයින් අභිප්‍රේරණය කිරීමේ ජාතික වැඩසටහනට අද (05) පස්වරුවේ එක්වෙමින් ඔහු මෙම අදහස් පළ කළේය.
+🟩
 
-එය ආරම්භ කෙරුණේ මව්බිම ජනතා පක්ෂයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතාගේ ප්‍රධානත්වයෙනි.
+Entreimed Dilith Jayaweera says that everyone who does not take a service for the country, it should be motivated by the working community for the country.
 
-"මම දීර්ඝ කාලයක් ආබාධිත ප්‍රජාව සමඟ සමීපව වැඩ කරපු පුද්ගලයෙක්. මේ ප්‍රජාව ලංකාවටම ආදර්ශයක්. ඒ වැටහීම ඇතුවයි අපි 'මව්බිම පුළුවන්'' කියන සංවිධානය පටන් ගත්තේ.  අපිට ඕනේ මෙය දීර්ඝ කාලීන වැඩක් විදිහට ලංකාව තුළ දියත් කරන්න."
+He was speaking at the National Program to motivate people with special needs as a project of the motherland.
 
-"මේ ප්‍රජාවේ කිසිම කෙනෙක් ගෝල්ෆේස් ගියේ නැහැ... රස්සාවල් ඉල්ලගෙන. එහෙනම් ඒ සියල්ල තියාගෙන වැලලෙන්න හදන... නහයෙන් අඬන අය... සමාජ මාධ්‍යවල කොට කොට ඉන්න අය... මෙන්න මේ ආබාධිත ප්‍රජාවගෙන් ආදර්ශය ලබාගන්න."
+It was launched by the leader of the Mawbima People's Party leader Dilith Jayaweera.
+
+"A person who worked closely with disability community for a long time. This community is an example for Sri Lanka. It is the one who started the "Mawbima ',' Mawbima '.  අපිට ඕනේ මෙය දීර්ඝ කාලීන වැඩක් විදිහට ලංකාව තුළ දියත් කරන්න."
+
+"No one in this community did not go to Goalphase.. Asking for jobs. Then you're trying to get rid of it.. Those crying out of the nose ... People who are in the social media ... Get the example from this disabled community. "
 
 ◼️
 
 [Data](articles/245c0ff2.json)
+
+[Extended Data](ext_articles/245c0ff2.ext.json)
 
 ---
 
@@ -94,23 +100,33 @@ Police have issued a statement informed of the vehicle of pilgrims in the histor
 
 ---
 
-### இரட்டையர் தோல்வியுடன் அண்டி மறேயின் விம்பிள்டன் பிரியாவிடை ஆரம்பம்
+### Beginning with Anti Mare's Wimbledon Frequent
 
 *2024-07-05 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187787) · `ta`
 
-மூன்று தடவைகள் க்ராண்ட் ஸ்லாம் சம்பியன் பட்டத்தை சூடியவரும் 2 தங்கப் பதக்கங்கள் உட்பட 3 ஒலிம்பிக் பதக்கங்களை வென்றவருமான அண்டி மறேயின்  விம்பிள்டன்  பிரியாவிடை இரட்டையர் தோல்வியுடன் ஆரம்பமானது.
+Priya Wimbledon, a three-time Olympic medalist and Grand Slam Champion, began her farewell journey after a doubles loss. Despite the setback, she remains optimistic about her future contributions to tennis, especially in the mixed doubles match against Marco Arjolvo and Zung Shuai. Andy Mare, another prominent figure in tennis, announced his retirement ahead of the Paris 2024 Olympics, expressing his love for the sport and its teachings. Thousands of fans and family members witnessed these moments, marking the end of an era for both athletes.
 
-வியாழக்கிழமை இரவு நடைபெற்ற ஆடவர் இரட்டையர் போட்டியில் அவுஸ்திரேலிய ஜோடியினரான ஜோன் பியர்ஸ், ரின்கி ஹிஜிகட்டா ஆகியோரிடம் பிரித்தானியாவின் மறே சகோதரர்களான அண்டி மற்றும் ஜமி ஜோடியினர் 2 நேர் (6 - 7, 4 - 6) செட்களில் தோல்வி அடைந்தனர்.
+🟩
 
-இந்தத் தோல்வியுடன் உணர்ச்சிவசப்பட்டவராக கண்ணீர் சிந்தி தனது பிரியாவிடையை அண்டி மறே தொடங்கினார்.
+Wimbledon Priya, the winner of 3 Olympic medals, including the Grand Slam Champion title and 3 Olympic medals, began with a doubles defeat.
 
-கலப்பு இரட்டையருக்கான போட்டியில் எம்மா ரடுகானுவுடன் ஜோடி சேர்ந்து மார்சிலோ அரிவாலோ (எல் செல்வடோர்), ஸங் ஷுவாய் (சீனா) ஆகிய ஜோடியினரை அண்டி மறே எதிர்த்தாடவுள்ளார்.
+Australian pair John Pierce and Rinky Higigata lost 2 straights (6 - 7, 4 - 6) in the men's doubles match on Thursday night.
 
-கலப்பு இரட்டையர் போட்டியுடன் தொழில்முறை டென்னிஸ் போட்டிகளிலிருந்து முழுமையாக விடைபெறவுள்ள அண்டி மறே, இன்னும் சில வாரங்களில் ஆரம்பமாகவுள்ள பாரிஸ் 2024 ஒலிம்பிக் விளையாட்டு விழாவுடன் டென்னிஸ் விளையாட்டிலிருந்து முழுமையாக விடைபெறவுள்ளார்.
+With this failure, he shed tears and started his farewell.
+
+In the mixed double -to -match match, the pair with Emma Raduganu will oppose the pair of Marcilo Ariwalo (El Selvador) and Zung Shuwai (China).
+
+Andy Mare, who is fully favored from the professional tennis tournament with a mixed doubles competition, will say goodbye from the tennis game with the Paris 2024 Olympic Games, which will begin in a few weeks.
+
+The scenes of Andy Mare's most important tennis tournaments were broadcast in the widespread of the Central Tennis Stadium after the defeat of the Dare brothers in the doubles event on Thursday.
+
+'I want to play continuously. But, it's not light. There is no fitness for that. Now everything is hard. '
 
 ...
 
 [Data](articles/8c561bf9.json)
+
+[Extended Data](ext_articles/8c561bf9.ext.json)
 
 ---
 

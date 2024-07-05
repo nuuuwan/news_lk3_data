@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 11:35:19**
+As of **2024-07-05 11:55:07**
 
 ## Newspaper Stats
 
-*Scraped **33,781** Articles*
+*Scraped **33,784** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ islandlk | 1,889
 economynextcom | 1,986
 dailyftlk | 2,099
 adalk | 3,020
-adaderanalk | 3,858
+adaderanalk | 3,859
 tamilmirrorlk | 3,996
 dailymirrorlk | 4,733
 virakesarilk | 5,289
-adaderanasinhalalk | 5,597
+adaderanasinhalalk | 5,599
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,780 (100.0%) of 33,781 articles have been extended.
+33,781 (100.0%) of 33,784 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
+
+### Over 1,400 drug suspects arrested as operation ‘Yukthiya’ 2nd phase continues
+
+*2024-07-05 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100306/over-1400-drug-suspects-arrested-as-operation-yukthiya-2nd-phase-continues) · `en`
+
+A total of 1,403 suspects have been arrested within 24 hours during the second phase of the “Yukthiya” Operation, which commenced yesterday (June 04).
+
+Police Media Spokesman DIG Nihal Thalduwa stated that detention orders will be secured against 57 among them for further questioning.
+
+Among the arrested individuals are 1,340 male suspects and 63 female suspect, according to Sri Lanka Police.
+
+Meanwhile, the authorities have seized 1.086 kg of heroin, 782.7g of ‘Ice’ (Crystal methamphetamine) and 3.74 kg of Cannabis during the operation.
+
+◼️
+
+[Data](articles/51a93acc.json)
+
+---
+
+### පක්ෂ මුලස්ථානය ඉදිරිපිටදී දයාසිරි වැඩ භාරගනී
+
+*2024-07-05 11:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198505) · `si`
+
+තමා ශ්‍රී ලංකා නිදහස් පක්ෂයේ මහ ලේකම්වරයාගේ තනතුර හොබවන බව පවසමින් පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා එම පක්ෂ මුලස්ථානය ඉදිරිපිටදී වැඩ භාරගත්තේය.
+
+පොලීසිය ඔහුට පක්ෂ මූලස්ථානයට ඇතුළුවීමට ඉඩ නොදුන් අතර ඔහු එම කටයුත්ත සිදුකළේ ඉන් අනතුරුව ය.
+
+◼️
+
+[Data](articles/1c713d4f.json)
+
+---
+
+### TIN ගත් අයට රාජ්‍ය ඇමති කී දේ
+
+*2024-07-05 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198504) · `si`
+
+බදු ගෙවන්නන් හඳුනාගැනීමේ අංකයක් (TIN) ලබා ගත් පුද්ගලයන්ට බදු ගෙවන ලෙස දේශී‍ය ආදායම් දෙපාර්තමේන්තුව මගින් ලිපි හෝ කෙටි පණිවිඩ ලැබුණ ද තමන් මාසික ආදායම රුපියල් ලක්ෂයේ සීමාව ඉක්මවා නොමැති නම් ඒ බව ලිඛිතව දැනුම්දී, බදු ගෙවීමෙන් වැළකී සිටිය හැකි බව මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+එමෙන්ම අමාත්‍යවරයා පැවසුවේ මේ සම්බන්ධයෙන් ළඟම පිහිටි දේශීය ආදායම් දෙපාර්තමේන්තු ප්‍රාදේශීය කාර්යාලයට දැනුම් දිය හැකි බවය.
+
+මේ වන විට පුද්ගලයන් ලක්ෂ 23ක් TIN අංකය ලබා ගෙන ඇති බව සඳහන් වේ.
+
+අමාත්‍යවරයා වැඩි දුරටත් සඳහන් කළේ, ජූලි මස අවසන් වන විට TIN අංක ලබා දුන් පුද්ගලයන් සංඛ්‍යාව ලක්ෂ 73ක් බවට පත් කිරීම අරමුණ බවය.
+
+◼️
+
+[Data](articles/7a2a10a7.json)
+
+---
 
 ### Tense situation at SLFP Headquarters as Dayasiri arrives
 
@@ -51,6 +101,8 @@ He further stated that a candidate from the SLFP will be nominated for the upcom
 ...
 
 [Data](articles/6ee3bd02.json)
+
+[Extended Data](ext_articles/6ee3bd02.ext.json)
 
 ---
 
@@ -2205,69 +2257,5 @@ Commenting on the film, the director said, “The story of the film is ready to 
 [Data](articles/cc06dc51.json)
 
 [Extended Data](ext_articles/cc06dc51.ext.json)
-
----
-
-### Vijay Sethupathi, who is on the list of star stars 'Selvan'
-
-*2024-07-04 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187686) · `ta`
-
-Vijay Sethupathi, known for roles in "Selvan," "Maharaja," and "Vikram Veda," has cemented his place among Tamil cinema's top actors. His performance in "Maharaja" pushed him onto the list of Tamil film industry's highest-grossing stars, joining luminaries like Rajinikanth, Kamal Haasan, and others. Currently, he's in "Liberation - Part 2" and preparing for an upcoming project under director Pandiraj.
-
-🟩
-
-'Maharaja' starring Vijay Sethupathi in Tamil, Telugu and Malayalam. Vijay Sethupathi is the list of Tamil cinema's collections of star actors.
-
-Actor Vijay Sethupathi, who made his debut with the film 'Southwest Monsoon', has acted as the hero of the story in the films 'Sudu Kaavam' and 'Sudu Kaavum'.. Since then, he has maintained his star status in a number of films as the hero and the hero of the story.
-
-Through the film 'Vikram Veda', he established himself as an indispensable actor of Tamil cinema. He then shone as the hero of 'Chekachu Red Sky', 'Beta', 'Master', 'Vikram' and 'Jawan'.
-
-...
-
-[Data](articles/cfe5306f.json)
-
-[Extended Data](ext_articles/cfe5306f.ext.json)
-
----
-
-### Stay order issued on Gazette increasing daily wage of plantation workers
-
-*2024-07-04 16:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/100291/stay-order-issued-on-gazette-increasing-daily-wage-of-plantation-workers) · `en`
-
-The Supreme Court today issued an interim injunction order preventing the implementation of the Gazette notification issued by the Labour Minister increasing the daily wage of the plantation employee to Rs. 1,700.
-
-The Supreme Court issued this order while allowing the hearing of an appeal petition filed by plantation companies including Agarapathana Plantations Ltd, against the relevant Gazette imposing a minimum wage for plantation workers.
-
-The order was issued by a three-member Supreme Court bench consisting of Justices Gamini Amarasekara, Kumuduni Wickramasinghe and Janak de Silva.
-
-The judgment also states that this interim order will remain in force until the hearing of the petition is concluded. After that, it was decided to call the petition for further hearing on August 28.
-
-A petition had been filed by plantation companies seeking an order invalidating the gazette notification issued by the Minister of Labor stipulating a minimum daily wage for plantation workers.
-
-...
-
-[Data](articles/a220fe80.json)
-
-[Extended Data](ext_articles/a220fe80.ext.json)
-
----
-
-### Interim order to the gazette of estate wage
-
-*2024-07-04 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198486) · `si`
-
-The Supreme Court has temporarily halted a government order to raise wages for estate workers, pending a review of a petition filed by plantation companies challenging the increase.
-
-🟩
-
-The Supreme Court has issued an interim order from preventing the implementation of the gazette notification issued by the Labora's Assalysis by increasing the estate workers' salaries.
-
-The Supreme Court has issued the Supreme Court in charge of permission to hear a petition filed by Agarian Plantation and the plantation companies against increasing the salaries.
-
-◼️
-
-[Data](articles/a6b18dba.json)
-
-[Extended Data](ext_articles/a6b18dba.ext.json)
 
 ---

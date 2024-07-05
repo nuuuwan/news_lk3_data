@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 19:04:50**
+As of **2024-07-05 19:19:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,611
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,854 (100.0%) of 33,857 articles have been extended.
+33,857 (100.0%) of 33,857 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,21 +48,33 @@ The two suspected cops had allegedly stated to the complainant that two suspects
 
 [Data](articles/2a912b4e.json)
 
+[Extended Data](ext_articles/2a912b4e.ext.json)
+
 ---
 
-### පාසල් සිසුවෙකු නිරුවත් කර පහරදුන් පාසල් සිසුවෙක් ඇතුළු 3ක් අල්ලයි
+### Schoolgirl and 3 others arrested for assault
 
 *2024-07-05 18:39:37* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුවෙකු-නිරුවත්-කර-පහරදුන්-පාසල්-සිසුවෙක්-ඇතුළු-3ක්-අල්ලයි/11-410627) · `si`
 
-පහළොස් හැවිරිදි පාසල් සිසුවෙකු නිවසකට පැහැරගෙන ගොස් නිරුවත් කර සොරකමක් සම්බන්ධයෙන් කැලෑ නීතියෙන් මට්ටු කිරීමට ගිය දහසය හැවිරිදි පාසල් සිසුවෙක් ඇතුලු තිදෙනෙක් ඊයේ (4) අම්බලන්ගොඩ මාදම්පේ වැල්ලබඩදී සැකපිට අත්අඩංගුවට ගත් බව අම්බලන්ගොඩ පොලීසිය කියයි.
+In Ambalangoda, a fifteen-year-old schoolgirl was arrested after allegedly abducting and assaulting a sixteen-year-old girl. The incident involved three other individuals, including another sixteen-year-old girl and a thirty-year-old resident. The suspects reportedly stole a mobile phone and attempted to purchase a bus ticket with it. Following a complaint by the victim's father, all four suspects were apprehended and are under investigation by the Ambalangoda Child Women's Bureau.
 
-සැකකාර දහසය හැවිරිදි පාසල් සිසුවා මෙන්ම විසිහය හැවිරිදි හා තිස්හතර හැවිරිදි අනෙක් සැකකරුවන් දෙදෙනාම අම්බලන්ගොඩ මාදම්පේ වැල්ලබඩ පදිංචි අය බවද පොලීසිය කියයි.
+🟩
 
-පහළොස් හැවිරිදි  පාසල් සිසුවා පාසල් නිමවී නිවසට පැමිණ එදින පස්වරුවේ බීම පැකැට්ටුවක් මිලදී ගැනීමට සිය නිවස ආසන්නයේ වෙළදැලට ගොස් සිටියදී සැකකාර දහසය හැවිරිදි පාසල් සිසුවා උපයෝගී කොට ගෙන වින්දිත සිසුවා ඒ ආසන්නයේ නිවසකට පැහැරගෙන ගොස් සිසුවාගේ සියලුම ඇදුම් ගලවා ජංගම දුරකතනයක් සොරකම් කිරීම සම්බන්ධයෙන් සැකකරුවන් ප්‍රශ්න කොට ඇති බවත් එයින් නොසෑහුණු සැකකරුවන් පහළොස් හැවිරිදි සිසුවා නිරුවස්තරයෙන්ම සිය නිවසට එවා ඇති බවත් අනාවරණයවූ බව ද පොලීසිය කියයි.
+A fifteen-year-old schoolgirl has been arrested by a sixteen-year-old schoolgirl who had been abducted and fired from the jungle law, Ambalangoda, police said.
 
-...
+Both of the suspects were the sixteen year old schoolgirl, two-year-old schoolgirl, and thirty-year-old residents of Ambalangoda.
+
+The fifteenteen-year-old schoolgirl was using the sixteen year old schoolgirl and the suspects were questioned by the suspects to buy a bus packet and stolen a mobile cloud on that evening.The fifteen year old suspects have been sent to her home.
+
+The suspects were identified and arrested on a complaint lodged by the father that his child was abducted and sent to the house.
+
+OIC of the Ambalangoda Child Women's Bureau, Inspector General of Sub Inspection Renuka, Police Sergeant KW (16915) are conducting further investigations.
+
+◼️
 
 [Data](articles/fdab32cd.json)
+
+[Extended Data](ext_articles/fdab32cd.ext.json)
 
 ---
 
@@ -476,17 +488,23 @@ The applicants are advised to contact ‘1911’ – the hotline of the Examinat
 
 ---
 
-### ‘මගෙන් රටට’ සංවිධානයේ සභාපති ඇප මත මුදාහරියි
+### 'I'm released on bail from' me '
 
 *2024-07-05 16:14:38* · [`adalk`](https://www.ada.lk/breaking_news/‘මගෙන්-රටට’-සංවිධානයේ-සභාපති-ඇප-මත-මුදාහරියි/11-410626) · `si`
 
-නීතිය ක්‍රියාත්මක කරන ජ්‍යෙෂ්ඨ පොලිස් නිලධාරීන් සම්බන්ධයෙන් මහජන අප්‍රසාදයක් ඇති වන පරිදි හා වෛරයක් ඇති වන පරිදි අසත්‍ය චෝදනා එල්ල කිරීම සම්බන්ධයෙන් චෝදනා එල්ලව ඇති, රක්ෂිත බන්ධනාගාරගත කර සිටි ‘මගෙන් රටට’ සංවිධානයේ සභාපති සංජය මහවත්ත අද දහවල් ඇපමත මුදාහැර තිබෙනවා.
+Sanjaya, charged with public displeasure against law enforcement, was released on bail after being arrested on June 28 and remanded until July 5.
 
-අසත්‍ය චෝදනා එල්ල  කිරීමට එරෙහි පසුගිය ජූනි 28 දා ඔහු අත්අඩංගුවට ගැනුණු අතර  අද (05) දිනය දක්වා රක්ෂිත බන්ධනාගාරගත තිබුණා.
+🟩
+
+The Chairman of the Organization Sanjaya, who is charged with public displeasures and hatred of law enforcement senior police officers, has been released on bail this afternoon.
+
+He was arrested on June 28 and remanded until today (05).
 
 ◼️
 
 [Data](articles/94e71685.json)
+
+[Extended Data](ext_articles/94e71685.ext.json)
 
 ---
 

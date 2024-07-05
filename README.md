@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 20:19:46**
+As of **2024-07-05 20:35:15**
 
 ## Newspaper Stats
 
-*Scraped **33,859** Articles*
+*Scraped **33,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,889
 economynextcom | 1,995
 dailyftlk | 2,100
-adalk | 3,027
+adalk | 3,028
 adaderanalk | 3,872
 tamilmirrorlk | 4,007
 dailymirrorlk | 4,733
@@ -26,33 +26,43 @@ adaderanasinhalalk | 5,612
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,858 (100.0%) of 33,859 articles have been extended.
+33,859 (100.0%) of 33,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### PHI ඝාතන සැකකරුගෙන් එළියට ආ තොරතුරු
+### Refer to the suspect in the murder suspect
 
 *2024-07-05 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198520) · `si`
 
-ඇල්පිටිය පරිපාලන මහජන සෞඛ්‍ය පරීක්ෂකවරයාව ඝාතනය කර ඇත්තේ ඉලක්කය වැරදීමෙන් බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අනාවරණ කරගෙන තිබේ.
+The CID has identified the killer of the Elpitiya Public Health Inspector as someone targeting a police inspector next door. The suspect, known for his violent history including attempted murder for money, confessed to assaulting another inspector. He was arrested after being linked to a local heroin dealer. Further investigations are ongoing.
 
-වෙඩික්කරුගේ ඉලක්කය වී ඇත්තේ, ඝාතනය වූ මහජන සෞඛ්‍ය පරීක්ෂකවරයාගේ යාබද නිවසේ සිටින පොලිස් පරීක්ෂකවරයෙක් බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+🟩
 
-ඇල්පිටිය මහජන සෞඛ්‍ය පරීක්ෂකවරයා ඝාතනය කළ වෙඩික්කරුගෙන් ගල්කිස්ස පොලීසිය සිදුකළ ප්‍රශ්න කිරීම්වලදී වැදගත් තොරතුරු රැසක් අනාවරණ වී තිබේ.
+The CID has revealed that the Administrative Public Health Inspector of Elpitiya has been assassinated by the target.
 
-එහිදී ඔහු පවසා ඇත්තේ ඇල්පිටිය නොවිසඳුණු අපරාධ විමර්ශන කොට්ඨාසයට අනුයුක්තව සේවය කර තාවකාලික වැඩතහනමකට ලක් ව සිටි පොලිස් පරීක්ෂක දැඩිමුණි බාලේන්ද්‍රසිංහ මහතා වෙඩි තබා ඝාතනය කළේද තමන් බවය.
+The shooter's goal is a police inspector at the adjoining house adjoining public health inspector, who is murdered.
 
-පසුගිය වසරේ ඔක්තෝබර් 09වනදා එම පොලිස් නිලධාරියාව ඝාතනය කර තිබුණේ නඩු කටයුත්තකට සහභාගී වී නැවත පැමිණෙමින් සිටියදීය.
+The Mt.
 
-සැකකරුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී තවත් ඝාතන රැසක් පිළිබඳව පවසා ඇති බව පොලීසිය පැවසීය.
+He has said that he was assaulted by Inspector Dupimity Balandringman, who was attached to the unresolved criminal investigation division.
 
-එක් වරෙක රුපියල් 50,000ක මුදලකට කුඩා දරුවෙකු ඝාතනය කිරීමට ගොස් ඇති වෙඩික්කරු තම දරුවා සිහිවීම හේතුවෙන් එය සිදුකර නොමැති බවද පාපොච්ඡාරණය කර තිබේ.
+On October 9 last year, the police officer was killed while attending a case and returned.
+
+There have been many other murders in the interrogation by the suspect.
+
+One time the shooter who had gone to kill a young child for Rs. 50,000 has been condemned due to commemoration.
+
+Meanwhile, the murderer in custody is to be handed over to the criminal investigations for further investigations.
+
+It is for investigations to assassinate the Elpitiya Public Health Inspector.
 
 ...
 
 [Data](articles/6ae4d8a0.json)
+
+[Extended Data](ext_articles/6ae4d8a0.ext.json)
 
 ---
 
@@ -71,6 +81,22 @@ The additional flights will be served by the Boeing 787 aircraft, featuring 30 B
 [Data](articles/f3fd2503.json)
 
 [Extended Data](ext_articles/f3fd2503.ext.json)
+
+---
+
+### 2024 ලෝක කෘත්‍රිම බුද්ධි තාක්ෂණ සමුළුව චීනයේ ශැංහයි නුවර දී
+
+*2024-07-05 18:47:10* · [`adalk`](https://www.ada.lk/technology/2024-ලෝක-කෘත්‍රිම-බුද්ධි-තාක්ෂණ-සමුළුව-චීනයේ-ශැංහයි-නුවර-දී/5-410628) · `si`
+
+2024 ලෝක කෘත්‍රිම බුද්ධි සමුළුව සහ කෘත්‍රිම බුද්ධි තාක්ෂණයේ ගෝලීය පරිපාලනය පිළිබඳ උසස් මට්ටමේ සමුළුව ඇරඹේ. එම සමුළු ඊයේ (04) චීනයේ ශැංහයි නුවර දී ඇරඹිණ.
+
+චීන අග්‍රාමාත්‍ය ලී ච්‍යං මහතා ඊට සහභාගි වෙමින් ‍අවධාරණය කළේ, කෘත්‍රිම බුද්ධි තාක්ෂණයේ සංවර්ධනය උදෙසා විවිධ රටවලට සංවාද පැවැත්වීම සඳහා අවස්ථා උදා කර දීම අත්‍යවශ්‍ය බවයි. එම සහයෝගිතා ඔස්සේ කෘත්‍රිම බුද්ධි තාක්ෂණ පහසුකම් පුළුල් කොට ගෝලීය සංවර්ධනය හා ජනතා සුබසෙත සහතික කිරීමට චීනය සූදානම් බව ද හෙතෙම පැවසීය.
+
+බ්‍රසීලයේ ශ්‍රේෂ්ඨාධිකරණ සභාපති Luis Roberto Barroso මහතා සහ නව සංවර්ධන බැංකු අධිපතිනි Dilma Rousseff මහත්මිය ඇතුළු 1000 ක පමණ සම්භාවනීය පිරිසක් සමුළුවේ සමාරම්භක උළෙලට එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/da83d39b.json)
 
 ---
 
@@ -2325,33 +2351,5 @@ But during first round of talks, private bondholders were said to have been not 
 [Data](articles/95b7a3de.json)
 
 [Extended Data](ext_articles/95b7a3de.ext.json)
-
----
-
-### Is there appropriate age to handle the control of a country?
-
-*2024-07-05 03:38:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce78501zdwjo) · `si`
-
-The text discusses the appropriateness of age in controlling a country, referencing historical and contemporary examples from Sri Lanka and globally. It highlights the constitutional requirements for presidential candidacy in Sri Lanka, emphasizing qualities such as political knowledge, honesty, and experience over age. It contrasts views between experts, noting the importance of maturity and fitness for leadership roles while acknowledging the potential of younger individuals. The piece concludes by reflecting on global trends where age ranges from the mid-30s to over 80 years for leaders, suggesting that both youth and experience have their merits in governance.
-
-🟩
-
-As the end of the 75-year-old successive president, the end of the four-year-old successive president, the end of the Sri Lankan history, has reached the first time since the end of the four-year-old successive president.
-
-Among them are a lengthy political history or political generation, or individually, or a business background.
-
-However, Sri Lanka has a history of failed several armed rebels, however, to acquire state power.
-
-Studying the world situation show that the oldest leaders and young leaders have used their strength.
-
-Presidential Election: The Supreme Court not overcome a petition for an interim order for the interim order to vote until we have been given interim order until he is given interim order until it is given until the election is given.
-
-We do not have sufficient factors to say separately, whether there is a administrative change or economic change in young people or elderly rule.
-
-...
-
-[Data](articles/ecab32ad.json)
-
-[Extended Data](ext_articles/ecab32ad.ext.json)
 
 ---

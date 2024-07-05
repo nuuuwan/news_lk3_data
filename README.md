@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-05 12:19:52**
+As of **2024-07-05 12:35:00**
 
 ## Newspaper Stats
 
-*Scraped **33,785** Articles*
+*Scraped **33,787** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,889
 economynextcom | 1,986
 dailyftlk | 2,099
 adalk | 3,020
-adaderanalk | 3,859
+adaderanalk | 3,861
 tamilmirrorlk | 3,996
 dailymirrorlk | 4,733
 virakesarilk | 5,289
@@ -26,23 +26,67 @@ adaderanasinhalalk | 5,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,784 (100.0%) of 33,785 articles have been extended.
+33,785 (100.0%) of 33,787 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-05 (Friday)
 
-### ජාත්‍යන්තර ගුවන්තොටුපොළක ගෑස් කාන්දුවක්
+### Gas leak at Malaysia’s Kuala Lumpur airport affects 39 people
+
+*2024-07-05 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100308/gas-leak-at-malaysias-kuala-lumpur-airport-affects-39-people) · `en`
+
+Around 39 people at Malaysia’s Kuala Lumpur international airport fell ill on Thursday after a gas leak at an aircraft engineering facility, but no passengers were affected and there were no flight disruptions, the fire department said.
+
+The Selangor state fire department said it received an emergency call regarding a chemical leak at the Southern Support Zone Sepang Aircraft Engineering facility at 11.23 a.m. (0323 GMT) and dispatched its personnel along with a hazardous materials team.
+
+The engineering facility is separate to the passenger terminal and those affected by the gas worked for three companies operating there, the fire department said in a statement.
+
+Thirty nine people complained of dizziness and nausea, with 14 sent to the air disaster unit to receive treatment while one was hospitalised, the department said.
+
+The chemical was later identified as methyl mercaptan, added to liquefied petroleum gas as an odorant, coming from an unused tank at the facility, the department said.
+
+...
+
+[Data](articles/114cce8a.json)
+
+---
+
+### Dayasiri assumes duties as SLFP Gen. Sec. ‘outside’ party HQ
+
+*2024-07-05 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100307/dayasiri-assumes-duties-as-slfp-gen-sec-outside-party-hq) · `en`
+
+MP Dayasiri Jayasekara assumed duties as the General Secretary of the Sri Lanka Freedom Party (SLFP) in front of the party headquarters, claiming that he holds the post.
+
+Jayasekara assumed duties outside the headquarters as he was prevented from entering the building by police.
+
+Meanwhile, a tense situation was reported in front of the Sri Lanka Freedom Party’s Headquarters on Darley Road in Colombo 10, following the arrival of MP Dayasiri Jayasekara this morning (05).
+
+Jayasekara alleges that he is still the legitimate General Secretary of the party, as the Colombo District Court issued an interim order against the SLFP’s decision to expel MP Dayasiri Jayasekara from party membership and the post of General Secretary last week.
+
+◼️
+
+[Data](articles/6a4cec59.json)
+
+---
+
+### Gas leak at an international airport
 
 *2024-07-05 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198506) · `si`
 
-මැලේසියාවේ ක්වාලා ලාම්පූර් ජාත්‍යන්තර ගුවන්තොටුපොළ තුළ ගෑස් කාන්දුවක් සිදුවී ඇති බව රොයිටර්ස් පුවත් සේවය වාර්තා කරයි.
+A gas leak occurred at Kuala Lumpur International Airport's engineering terminal without causing disruptions, as reported by Reuters on April 4th.
 
-එම ගෑස් කාන්දුව ඊයේ (04) එම ගුවන්තොටුපොළෙ හි ස්ථාපනය කර ඇති ඉංජිනේරු පර්යන්තයක සිදුව ඇති අතර ඉන් ගුවන් ගමන් සඳහා බාධාවක් ඇති වී නොමැත.
+🟩
+
+The Kuala Lumpur International Airport, Malaysia has taken place at Reuters.
+
+The gas leak was held in an engineering terminal in the airport yesterday (04), with no hindrances.
 
 ◼️
 
 [Data](articles/4292a482.json)
+
+[Extended Data](ext_articles/4292a482.ext.json)
 
 ---
 
@@ -445,6 +489,8 @@ The police said that the owners of the restaurants have stated that the owners o
 ### Kandy-Matale road temporarily closed at Akurana due to fire
 
 *2024-07-05 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100299/kandy-matale-road-temporarily-closed-at-akurana-due-to-fire) · `en`
+
+UPDATE: The section of A9 road which was temporarily closed due to a fire which had broken out in a shop at Akurana, has now been reopened, the police said.
 
 The Kandy-Matale road (A9) has been temporarily closed at Akurana due to a fire that broke out in a shop at Akurana and has spread to several adjacent shops in the vicinity, according to police.
 
@@ -2217,49 +2263,5 @@ It also includes a daily budget concessionary allowance and. This amount in payi
 [Data](articles/de7591bc.json)
 
 [Extended Data](ext_articles/de7591bc.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 304.60/80 to US dollar
-
-*2024-07-04 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-304-60-80-to-us-dollar-170927/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 304.60/80 to the US dollar on Thursday, down from 304.20/50 to the US dollar on Wednesday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed stable at 10.70/85 percent.
-
-A bond maturing on 15.09.2029 closed at 11.95/12.05 percent, down from 12.00/10 percent.
-
-A bond maturing on 01.10.2032 closed at 12.15/25 percent. (Colombo/Jul4/2024)
-
-◼️
-
-[Data](articles/39114a54.json)
-
-[Extended Data](ext_articles/39114a54.ext.json)
-
----
-
-### Sri Lanka stocks close down, foreign inflows account for 50-pct of turnover
-
-*2024-07-04 16:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-foreign-inflows-account-for-50-pct-of-turnover-170914/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
-
-The broader All Share Index closed down 0.92 percent, or 110.55 points, at 11,926; while the more liquid S&P SL20 Index closed down 1.08 percent, or 38.39 points, at 3,505.
-
-Turnover was 1.9 million. A large part of this was from foreign buying. There was a net foreign inflow of 972 million.
-
-“Foreign interest in stable companies is continuing,” Softlogic Stockbrokers said. “With the positive news from the IMF, OCC and the ISBs, and a possible rating revision, we see that foreign investors are taking active positions on companies with solid fundamentals.”
-
-Foreign interest was especially seen on John Keells Holdings Plc Rs679mn (closed flat at 203.00).
-
-Sampath Bank Plc, one of five crossings in the day, also saw foreign buying interest. The share closed down at 78.00.
-
-...
-
-[Data](articles/3321bff9.json)
-
-[Extended Data](ext_articles/3321bff9.ext.json)
 
 ---

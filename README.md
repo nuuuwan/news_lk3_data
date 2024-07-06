@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 05:04:58**
+As of **2024-07-07 05:19:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,972 (100.0%) of 33,973 articles have been extended.
+33,973 (100.0%) of 33,973 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -331,6 +331,8 @@ The Kanthasashti Kavasam  composed by Balan Devaraya Swamigal  consist of devoti
 ...
 
 [Data](articles/251e8a55.json)
+
+[Extended Data](ext_articles/251e8a55.ext.json)
 
 ---
 

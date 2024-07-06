@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 08:54:18**
+As of **2024-07-06 09:05:38**
 
 ## Newspaper Stats
 
-*Scraped **33,914** Articles*
+*Scraped **33,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,897
 economynextcom | 1,999
 dailyftlk | 2,115
 adalk | 3,028
-adaderanalk | 3,875
-tamilmirrorlk | 4,014
+adaderanalk | 3,876
+tamilmirrorlk | 4,015
 dailymirrorlk | 4,733
 virakesarilk | 5,317
 adaderanasinhalalk | 5,620
@@ -26,11 +26,45 @@ adaderanasinhalalk | 5,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,914 (100.0%) of 33,914 articles have been extended.
+33,914 (100.0%) of 33,916 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### காணாமல் போன பெண் பாழடைந்த கிணற்றுக்குள் சடலமாக மீட்பு
+
+*2024-07-06 08:51:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/காணாமல்-போன-பெண்-பாழடைந்த-கிணற்றுக்குள்-சடலமாக-மீட்பு/75-339937) · `ta`
+
+மூதூர் பொலிஸ் பிரிவுக்குட்பட்ட கிளிவெட்டி கிராமத்தில் உள்ள பாழடைந்த கிணற்றில் இருந்து, காணாமல் போயிருந்ததாக முறைப்பாடு செய்யப்பட்டிருந்த, நடேஸ்குமார் வினோதினி என்ற 25 வயதான பெண்ணினுடையது என சந்தேகிக்கப்படும் சடலமும், அவரது கைப்பையும் நேற்று(5) பொலிஸாரால் மீட்கப்பட்டுள்ளது.
+
+மூதூர் பொலிஸ் நிலையத்தில் செய்யப்பட்டிருந்த முறைப்பாட்டிற்கு அமைய, பொலிஸார் சந்தேகத்திற்கிடமான கிணற்றை மூதூர் நீதிமன்ற நீதிபதி திருமதி எச்.எம் தஸ்னீம் பௌசான், திடீர் மரணவிசாரணை அதிகாரி உள்ளிட்டோர் முன்னிலையில் நேற்று(05)  தோண்டியபோதே, பெண்ணின் சடலம் மீட்கப்பட்டுள்ளது.
+
+சேருவில பொலிஸ் பிரிவுக்குட்பட்ட தங்கநகர் பகுதியைச் சேர்ந்த, நடேஸ்குமார் வினோதினி என்ற திருமணமாகி ஒரு குழந்தைக்கு தாயான, கணவரால் கைவிடப்பட்டிருந்த 25 வயதான பெண் காணாமல் போயிருந்தமை தொடர்பில், அவரது குடும்பத்தினரால்  மூதூர் பொலிஸ் நிலையத்தில் யூலை மாதம் 1ஆம் திகதி முறைப்பாடு செய்யப்பட்டிருந்தது.
+
+...
+
+[Data](articles/421fc2b0.json)
+
+---
+
+### Showers expected in several provinces and districts
+
+*2024-07-06 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100325/showers-expected-in-several-provinces-and-districts) · `en`
+
+The Meteorology Department says showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Showers or thundershowers will occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night.
+
+Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/82cc094f.json)
+
+---
 
 ### France is changing Ronaldo
 
@@ -2171,55 +2205,5 @@ These dogs were taken to the Narrary Institute to the Air Force Terminal to the 
 [Data](articles/5ad92fe3.json)
 
 [Extended Data](ext_articles/5ad92fe3.ext.json)
-
----
-
-### The man who picked up the back of the back was caught
-
-*2024-07-05 13:19:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/முதுகை-படம்-எடுத்தவர்-சிக்கினார்/76-339912) · `ta`
-
-In Nuwara Eliya, a female police constable shot another officer while bathing. The magistrate ordered her arrest and interrogation.
-
-🟩
-
-The Nuwara Eliya District Magistrate's Court has ordered that a female police constable hidden and a shotgun who was shot in a shower of female policemen.
-
-Nuwara Eliya District Magistrate Prabhudika Nanayakkara (04.07.2024) issued this order.
-
-A female police constable, who is bathing in the hostel bathroom at Lindulai Police Station, has shot a police constable at the same police station at the same police station.
-
-Following the matter, the police have taken action against the police constable and arrested him at the Nuwara Eliya Magistrate's Court (04.07.2024).
-
-Judge Prabhudika Nanayakkara, who was investigating the case, ordered the suspect to be interrogated by the police constipation this month (09.07.2024).
-
-◼️
-
-[Data](articles/4b57df6b.json)
-
-[Extended Data](ext_articles/4b57df6b.ext.json)
-
----
-
-### Arrested by the police officer of the film
-
-*2024-07-05 13:17:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/படம்-பிடித்த-பொலிஸ்-அதிகாரி-கைது/76-339911) · `ta`
-
-In a film, a female police officer was arrested after shooting a male colleague during a bath at a hostel near the Lindulai police station. The Nuwara Eliya District Magistrate's Court ordered her detention, with further interrogation scheduled until Tuesday.
-
-🟩
-
-The Nuwara Eliya District Magistrate's Court has ordered a female police officer who was bathing in a hostel in the hostel.
-
-A female police officer who was bathing in the hostel bathroom at Lindulai police station, a male police officer who was working at the same police station, was shot in a smart.
-
-The police have arrested the Nuwara Eliya Magistrate's Court, who arrested the police officers and arrested the police officers.
-
-Judge Prabhudika Nanayakkara, who was investigating the case, ordered the suspect to be interrogated by the police officer until Tuesday (09).
-
-◼️
-
-[Data](articles/f4dc5b6b.json)
-
-[Extended Data](ext_articles/f4dc5b6b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 11:35:08**
+As of **2024-07-06 11:54:37**
 
 ## Newspaper Stats
 
-*Scraped **33,922** Articles*
+*Scraped **33,923** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,897
 economynextcom | 2,000
 dailyftlk | 2,115
 adalk | 3,028
-adaderanalk | 3,879
+adaderanalk | 3,880
 tamilmirrorlk | 4,015
 dailymirrorlk | 4,733
 virakesarilk | 5,317
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,622
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,922 (100.0%) of 33,922 articles have been extended.
+33,922 (100.0%) of 33,923 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### ‘As long as country faces budget deficit, borrowing is necessary’ – CBSL Governor
+
+*2024-07-06 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100329/as-long-as-country-faces-budget-deficit-borrowing-is-necessary-cbsl-governor) · `en`
+
+In a recent interview, Governor of the Central Bank of Sri Lanka Dr Nandalal Weerasinghe addressed misconceptions regarding Sri Lanka’s total debt, clarifying that the increase from USD 96 billion in December 2023 to a projected USD 100 billion by March 2024 is largely due to exchange rate fluctuations rather than new borrowing.
+
+Joining an interview held at the Presidential Media Centre on Friday (05), the CBSL Governor said that despite a detailed explanation of this made by President Ranil Wickremesinghe in Parliament recently, some have mistakenly interpreted the rise as an increase from USD 70 billion to USD 100 billion.
+
+Commenting in this regard, Dr. Weerasinghe added: “The status of the debt as of March 2024 was outlined in the Debt Bulletin you referenced. The entire loan amount is denominated in US dollars, totaling USD 100 billion. As you know, our country manages both domestic and foreign debts, with foreign loans typically in dollars.
+
+...
+
+[Data](articles/36cef0b8.json)
+
+---
 
 ### Sri Lanka’s Aruna Darshana qualifies for Paris Olympics
 
@@ -2187,31 +2203,5 @@ Those who came to set up buses on the streets from Moneragala were involved in t
 [Data](articles/b33b3d83.json)
 
 [Extended Data](ext_articles/b33b3d83.ext.json)
-
----
-
-### Chemical leaks at Kuala Lumpur airport in Malaysia;39 people vulnerable
-
-*2024-07-05 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/187742) · `ta`
-
-A chemical leak at Kuala Lumpur International Airport affected 39 people, causing dizziness and vomiting, with 14 hospitalized. The leak involved Methyl Mercapton, a component of liquid petroleum gas, originating from an unused tank in the air maintenance area.
-
-🟩
-
-39 people have been affected by chemical leakage at Kuala Lumpur International Airport in Malaysia on Thursday (04).
-
-Chemical leaks occurred in the early hours of Thursday morning at the Kuala Lumpur International Airport.
-
-Three companies operating in the air maintenance area, which are separate from the passenger terminal, have been affected by chemical leaks.
-
-39 people have dizziness and vomiting. Of these, 14 have been admitted to the hospital.
-
-Methyl Mercapton has been found that the chemical leaked. It is added to the smell of liquidized petroleum gas. Methyl Mercapton is leaked from an unused tank in the air maintenance area.
-
-◼️
-
-[Data](articles/e61a759d.json)
-
-[Extended Data](ext_articles/e61a759d.ext.json)
 
 ---

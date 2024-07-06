@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 19:35:03**
+As of **2024-07-06 19:52:25**
 
 ## Newspaper Stats
 
-*Scraped **33,958** Articles*
+*Scraped **33,959** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 308
 colombotelegraphcom | 312
 bbccomsinhala | 333
 newsfirstlk | 363
-islandlk | 1,897
+islandlk | 1,898
 economynextcom | 2,002
 dailyftlk | 2,115
 adalk | 3,031
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,637
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,958 (100.0%) of 33,958 articles have been extended.
+33,958 (100.0%) of 33,959 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1262,6 +1262,26 @@ State Minister Indika Anuruddha conveyed these updates during a media briefing a
 
 ---
 
+### Cable Solutions Limited IPO presents ‘attractive’ entry point for investors seeking growth
+
+*2024-07-06 02:35:00* · [`islandlk`](http://island.lk/cable-solutions-limited-ipo-presents-attractive-entry-point-for-investors-seeking-growth/) · `en`
+
+Sri Lanka’s only specialized integrated cable manufacturer and subsidiary of the ACL Group, Cable Solutions Limited (CSLK), has announced its plans for its Initial Public Offering (IPO) and subsequent listing on the Diri Savi Board of the Colombo Stock Exchange.
+
+The IPO will comprise of a total of 80,786,600 ordinary voting shares of the company offered to the public, through a combination of an offer for subscription of 14,666,600 new ordinary voting shares and an offer for sale of 66,120,000 existing ordinary voting shares. The sale of existing shares of the company, by few non-majority shareholders, will be subject to the offer for subscription being fully subscribed.
+
+HNB driving forward its support to modernise the agriculture sector
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/6cf3527f.json)
+
+---
+
 ### Stock market buoyed by ComBank’s successful debenture issue
 
 *2024-07-06 02:34:00* · [`islandlk`](http://island.lk/stock-market-buoyed-by-combanks-successful-debenture-issue/) · `en`
@@ -2229,31 +2249,5 @@ The two suspected cops had allegedly stated to the complainant that two suspects
 [Data](articles/2a912b4e.json)
 
 [Extended Data](ext_articles/2a912b4e.ext.json)
-
----
-
-### Schoolgirl and 3 others arrested for assault
-
-*2024-07-05 18:39:37* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුවෙකු-නිරුවත්-කර-පහරදුන්-පාසල්-සිසුවෙක්-ඇතුළු-3ක්-අල්ලයි/11-410627) · `si`
-
-In Ambalangoda, a fifteen-year-old schoolgirl was arrested after allegedly abducting and assaulting a sixteen-year-old girl. The incident involved three other individuals, including another sixteen-year-old girl and a thirty-year-old resident. The suspects reportedly stole a mobile phone and attempted to purchase a bus ticket with it. Following a complaint by the victim's father, all four suspects were apprehended and are under investigation by the Ambalangoda Child Women's Bureau.
-
-🟩
-
-A fifteen-year-old schoolgirl has been arrested by a sixteen-year-old schoolgirl who had been abducted and fired from the jungle law, Ambalangoda, police said.
-
-Both of the suspects were the sixteen year old schoolgirl, two-year-old schoolgirl, and thirty-year-old residents of Ambalangoda.
-
-The fifteenteen-year-old schoolgirl was using the sixteen year old schoolgirl and the suspects were questioned by the suspects to buy a bus packet and stolen a mobile cloud on that evening.The fifteen year old suspects have been sent to her home.
-
-The suspects were identified and arrested on a complaint lodged by the father that his child was abducted and sent to the house.
-
-OIC of the Ambalangoda Child Women's Bureau, Inspector General of Sub Inspection Renuka, Police Sergeant KW (16915) are conducting further investigations.
-
-◼️
-
-[Data](articles/fdab32cd.json)
-
-[Extended Data](ext_articles/fdab32cd.ext.json)
 
 ---

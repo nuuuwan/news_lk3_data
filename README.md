@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 09:35:09**
+As of **2024-07-06 09:54:21**
 
 ## Newspaper Stats
 
-*Scraped **33,916** Articles*
+*Scraped **33,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,876
 tamilmirrorlk | 4,015
 dailymirrorlk | 4,733
 virakesarilk | 5,317
-adaderanasinhalalk | 5,620
+adaderanasinhalalk | 5,621
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,916 (100.0%) of 33,916 articles have been extended.
+33,916 (100.0%) of 33,917 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### පලස්තීන ජනතාවට සැනසිල්ලක්
+
+*2024-07-06 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198529) · `si`
+
+ඊශ්‍රායල - හමාස් යුද්ධයේ සටන් විරාමයකට එළඹීම සඳහා සාකච්ඡා ලබන සතියේ ආරම්භ කරන බව ඊශ්‍රායල අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහු පවසයි.
+
+විදෙස් වාර්තා සඳහන් කළේ සටන් විරාමයක් සහ ප්‍රාණ ඇපකරුවන් නිදහස් කිරීම සඳහා වූ ගිවිසුමක් සම්බන්ධයෙන් දෙපාර්ශවය මේ වන තෙක් එකඟතාවකට පැමිණ නොමැති බවය.
+
+හමාස් සංවිධානය පවසා ඇත්තේ ගාසා සටන් විරාමයක් සඳහා එක්සත් ජනපද සැලැස්ම යෝජනා කර ඇති අතර සංශෝධනවලට ඊශ්‍රායල ස්ථාවරය පැහැදිලි නැතත් ධනාත්මක ප්‍රතිචාරයක් ලැබී ඇති බවය.
+
+එක්සත් ජනපද ජනාධිපති ජෝ බයිඩන් මේ මාසයේ වොෂින්ටනයේ දී ඊශ්‍රායල අග්‍රාමාත්‍යවරයා හමුවීමට නියමිත බවය ධවල මන්දිරය නිවේදනය කර තිබේ.
+
+◼️
+
+[Data](articles/ac008cdc.json)
+
+---
 
 ### Missing woman recovered in a dilapidated well
 
@@ -2187,35 +2205,5 @@ The accident occurred from Moneragala to installing the passenger covering of th
 [Data](articles/5ff7bfcb.json)
 
 [Extended Data](ext_articles/5ff7bfcb.ext.json)
-
----
-
-### Police bring 35 new dogs from the Netherlands to police for 580 lakhs
-
-*2024-07-05 13:33:03* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-580කට-පොලිසියට-නව-සුනඛයින්-35ක්-නෙදර්ලන්තයෙන්-ගෙන-එයි/11-410623) · `si`
-
-35 police dogs, including Belgian Malinois and German Shepherds, were imported from the Netherlands to Sri Lanka for 580 lakh rupees. These dogs, selected by police and veterinary officials, will join the police force after three months of training. They are expected to assist in drug detection in the Western and Southern provinces.
-
-🟩
-
-35 million dogs have been taken to the Katunayake airport from the Netherlands on 07/05 million for the police official dog sector.
-
-These dogs have 13 dogs in Belgium Malinois (Belgiam Malinois), the English Spaniel (German Shepherd) types of English Spaniel and English Spaniel..
-
-Of these, 21 were female and the remaining 14 were in the event..
-
-The official dog division of the police had been imported abroad in 2018 before 2018.
-
-These dogs were brought to Qatar to Qatar from the Netherlands, from then on the 662 flight, Katunayake Airport Periphery at 02/05 pm.
-
-Police Media Spokesperson, DIG DIG Nimael Talduuwa arrived at the Bandaranaike Institute to take over dogs.
-
-These dogs were taken to the Narrary Institute to the Air Force Terminal to the Narrary Institute from airport air cargo periphetic and subsequently handed over to the police.
-
-...
-
-[Data](articles/5ad92fe3.json)
-
-[Extended Data](ext_articles/5ad92fe3.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 04:52:50**
+As of **2024-07-07 05:04:58**
 
 ## Newspaper Stats
 
-*Scraped **33,972** Articles*
+*Scraped **33,973** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 308
+dbsjeyarajcom | 309
 colombotelegraphcom | 312
 bbccomsinhala | 333
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,972 (100.0%) of 33,972 articles have been extended.
+33,972 (100.0%) of 33,973 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -317,6 +317,20 @@ The Secretary of the Government Medical Officers' Association Dr. Prabha Sugatha
 [Data](articles/53a6978f.json)
 
 [Extended Data](ext_articles/53a6978f.ext.json)
+
+---
+
+### Political Journey of  Tamil “Perunthalaiver” (Great Leader) Rajavarothayam Sampanthan.
+
+*2024-07-06 19:19:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84342) · `en`
+
+Veteran Tamil political leader  and senior Trincomalee district MP,Rajavarothayam Sampanthan passed away peacefully in Colombo on 30 June 2024. The nonagenarian Sampanthan who had been ailing for some time was listening after dinner  to an audio tape of “Kanthasashti Kavasam”verses sung by  the Soolaman Sisters Rajalakshmi and Jeyalakshmi when he collapsed  with a groan.  Sampanthan was immediately taken to   Lanka Hospital where he  breathed his last around 11 PM.
+
+The Kanthasashti Kavasam  composed by Balan Devaraya Swamigal  consist of devotional verses praising Lord Murugan or Skandha.  Muruga the second son of Lord Shiva and Parvathy is  regarded as the  “Thamizhkkadavul”  or God of Tamils. Passing away peacefully while listening to Kandha Sashti Kavasam verses is indeed a blessed death for devout hindus. Sampanthan was a deeply religious person whose family deity is  the Pathrakali Amman of Trincomalee.
+
+...
+
+[Data](articles/251e8a55.json)
 
 ---
 
@@ -2243,23 +2257,5 @@ She was also deputy director of Parliamentary Affairs for Labour Party leader Ke
 [Data](articles/46148f65.json)
 
 [Extended Data](ext_articles/46148f65.ext.json)
-
----
-
-### A train jumps derails
-
-*2024-07-05 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198524) · `si`
-
-A train derailed near Badulla, disrupting the night postal service between Badulla and Colombo Fort.
-
-🟩
-
-Thereafter, the night postal trains traveling from Badulla to Colombo Fort.
-
-◼️
-
-[Data](articles/d815dd9a.json)
-
-[Extended Data](ext_articles/d815dd9a.ext.json)
 
 ---

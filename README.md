@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 10:53:15**
+As of **2024-07-06 11:04:46**
 
 ## Newspaper Stats
 
-*Scraped **33,919** Articles*
+*Scraped **33,922** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 1,897
 economynextcom | 2,000
 dailyftlk | 2,115
 adalk | 3,028
-adaderanalk | 3,877
+adaderanalk | 3,879
 tamilmirrorlk | 4,015
 dailymirrorlk | 4,733
 virakesarilk | 5,317
-adaderanasinhalalk | 5,621
+adaderanasinhalalk | 5,622
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,918 (100.0%) of 33,919 articles have been extended.
+33,919 (100.0%) of 33,922 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### Sri Lanka’s Aruna Darshana qualifies for Paris Olympics
+
+*2024-07-06 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/100328/sri-lankas-aruna-darshana-qualifies-for-paris-olympics) · `en`
+
+Sri Lankan sprinter Aruna Darshana has qualified to compete at the 2024 Paris Olympics.
+
+Accordingly, he will represent Sri Lanka in the Men’s 400m event.
+
+Darshana joins the Sri Lankan athletics team for the Paris Olympics with Tharushi Karunaratne and Nadeesha Lekamge.
+
+Aruna Darshana recently showcased his exceptional speed and skill on the track achieving an impressive second-place finish in the 400-meter event at an international athletics tournament held in the Bahamas, clocking a personal best time of 45.90 seconds.
+
+He also managed to win the gold medal in the 400m event at the 2nd Belt and Road Invitational Athletics Championship held in China.
+
+He was tipped by many in the circles that he could follow in the footsteps of former veteran athlete Sugath Thilakaratne. He won the men’s 400m event during the 2018 National Athletics Championships by clocking at 46.16.
+
+◼️
+
+[Data](articles/157fc7b2.json)
+
+---
+
+### ශ්‍රී ලංකාවට ලැබුණු සහන ගැන පැහැදිලි කිරීමක්
+
+*2024-07-06 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198530) · `si`
+
+ද්වීපාර්ශ්වික ණයහිමි පාර්ශ්ව සියලුම රටවලට ණය ගෙවීමට ඇති කාලසීමාව දීර්ඝ කිරීම මගින් ලබාදෙන සහනය ශ්‍රී ලංකාවට ද ලබා දී ඇති බව මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+
+ණය ප්‍රතිව්‍යුහගත කිරීම සම්බන්ධයෙන් දැනුවත් කිරීම සඳහා පැවති සම්මුඛ සාකච්ඡාවකට එක්වෙමින් ඔහු මේ බව සඳහන් ක‍ළේය.
+
+විවිධ රටවලට ණය සහන ලබාදීම සම්බන්ධයෙන් ශ්‍රී ලංකාව සංසන්දනය කිරීම ද නිවැරදි තත්ත්වයක් නොවන බව මහ බැංකු අධිපතිවරයා වැඩිදුරටත් පැහැදිලි කළේය.
+
+"ද්වීපාර්ශ්වික ණයහිමියන් සමග එකඟතාවකට පැමිණෙන විට ණය සහන ලබාදෙන ක්‍රම කිහිපයක් තියෙනවා. අවුරුදු 10කින් ගෙවන්න තියෙන එකක් නම් අවුරුදු 20කට දික් කරලා මූලික ණය, ඒ කියන්නේ ඩොලර් 100ක් ගත්තා නම් 10කින් ගෙවනවා වෙනුවට 20කින් ගෙවලා ඉවර කරන්න. ඇත්ත වශයෙන් බැලුවාම අද රුපියල් 100ක් ණයට අරගෙන හෙට ගෙවන්න තියෙන එකයි අවුරුදු 10කින් 100 ගෙවන එකයි අතර රුපියල් 100 වටිනාකම වෙනස් වෙනවා නේ. එක තමා සහනය. ද්විපාර්ශ්වික ණයකරුවන් සියලුම රටවල් වලට මේ ක්‍රියාවලිය දෙන්නේ ඒ ණය ගෙවන්න තියෙන කාලය දීර්ඝ කිරීම තුළින් තමයි එක සහනයක් දෙන්නේ".
+
+...
+
+[Data](articles/fc5d2f40.json)
+
+---
+
+### FUTA ‘mafia’ behind strike by university non-academic staff, claims Raghavan
+
+*2024-07-06 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100327/futa-mafia-behind-strike-by-university-non-academic-staff-claims-raghavan) · `en`
+
+State Minister of Higher Education Dr. Suren Raghavan, urged non-academic staff across all universities to resume work promptly, emphasizing the importance of minimizing disruptions for the youth who are the future leaders of the nation.
+
+Speaking at the press briefing titled “Collective Path to a Stable Country” held at the Presidential Media Centre today (05), he committed to prioritizing the demands of university non-academic staff, including addressing overtime allowances for April.
+
+These concerns will be forwarded to the Udaya Seneviratne Committee and proposed for inclusion in the 2025 budget, he added.
+
+Fourteen thousand six hundred (14,600) non-academic employees from 17 universities and 19 joint post-graduate institutions have been on strike for 65 days, severely disrupting the higher education sector. This has adversely affected the lives of 250,000 young individuals, who are crucial to the future of the nation, by causing confusion and wasting their time.
+
+...
+
+[Data](articles/76a89cf2.json)
+
+---
 
 ### Electrical leak caused massive fire in Akurana?
 
@@ -47,6 +105,8 @@ However, the Akurana Police are conducting further investigations regarding the 
 ◼️
 
 [Data](articles/d822cc3f.json)
+
+[Extended Data](ext_articles/d822cc3f.ext.json)
 
 ---
 
@@ -2141,71 +2201,5 @@ Methyl Mercapton has been found that the chemical leaked. It is added to the sme
 [Data](articles/e61a759d.json)
 
 [Extended Data](ext_articles/e61a759d.ext.json)
-
----
-
-### State Minister explains why some registered taxpayers are not required to pay tax
-
-*2024-07-05 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100311/state-minister-explains-why-some-registered-taxpayers-are-not-required-to-pay-tax) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya clarified that individuals with a monthly income of less than Rs. 100,000 are exempt from paying income taxes, even if they have registered and obtained a Taxpayer Identification Number (TIN).
-
-Siyambalapitiya said accordingly, they are not required to pay the taxes, even if the Inland Revenue Department (IRD) sends a reminder via text messages or letters.
-
-However, he pointed out that these individuals must inform the Inland Revenue Department in writing in order to confirm their exemption from paying the tax and that such individuals can inform he nearest IRD regional office in this regard.
-
-He further expressed that as of now, 2.3 million people have obtained a TIN, with 1.3 million registrations in June alone. He added that the government aims to increase the number of persons who have obtained a Taxpayer Identification Number to 7.3 million by the end of July.
-
-◼️
-
-[Data](articles/7ed767b0.json)
-
-[Extended Data](ext_articles/7ed767b0.ext.json)
-
----
-
-### I am Ready - Dhammika Perera
-
-*2024-07-05 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198509) · `si`
-
-Dhammika Perera, UNP MP, suggested his party choose him as the Presidential candidate during the launch of the Sri Lanka General Front Tractors in Colombo, attended by Namal Rajapaksa.
-
-🟩
-
-UNP MP Dhammika Perera said that if the party would decide as the Presidential Electorate as the Presidential Electoral candidate.
-
-He was speaking at the opening of the Sri Lanka General Front Tractors in Colombo this morning.
-
-Namal Rajapaksa was also present at the occasion.
-
-◼️
-
-[Data](articles/c0fbe195.json)
-
-[Extended Data](ext_articles/c0fbe195.ext.json)
-
----
-
-### Four people killed in a lorry in Badulla
-
-*2024-07-05 13:45:14* · [`adalk`](https://www.ada.lk/picture_story/බදුල්ලේ-ලොරියක්-පෙරළිමෙන්-සිව්-දෙනෙක්-මරුට/10-410624) · `si`
-
-In Badulla, four locals from Hulandda, Moneragala died when a lorry hit them near Dawanapitiya road. The victims were on their way to help construct a bus stand in Planiyawa.
-
-🟩
-
-According to the Badulla Police, four have been admitted to the Badulla Teaching Hospital with a lorry road near the Dawanapitiya road in Badulla Placeland, Planapanguwa.
-
-The deceased has been identified as four residents of Hulandda, Moneragala
-
-The police said that the lorry was in the area to the Planiyawa area to build a bus stand and traveling from the Plannapanguwa area.
-
-Officers of the OIC of the Venerable Tharanura, Police Officers of the Venerable Gunaturea, Headquarters of Headquarters of Headquarters of Headquarters of Headquarters (SLAF)
-
-◼️
-
-[Data](articles/1dc5f85e.json)
-
-[Extended Data](ext_articles/1dc5f85e.ext.json)
 
 ---

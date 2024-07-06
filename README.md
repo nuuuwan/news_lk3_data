@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 08:10:49**
+As of **2024-07-06 08:20:31**
 
 ## Newspaper Stats
 
-*Scraped **33,906** Articles*
+*Scraped **33,908** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ adaderanalk | 3,875
 tamilmirrorlk | 4,011
 dailymirrorlk | 4,733
 virakesarilk | 5,317
-adaderanasinhalalk | 5,617
+adaderanasinhalalk | 5,619
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,906 (100.0%) of 33,906 articles have been extended.
+33,906 (100.0%) of 33,908 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### අන්තර්ජාල වංචා ඉහළට
+
+*2024-07-06 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198527) · `si`
+
+වසරේ ගතවූ මාස 5ක කාලසීමාව තුළ අන්තර්ජාල වංචා සම්බන්ධයෙන් පැමිණිලි 1,093 ක් වාර්තා වී ඇති බව පරිගණක හදිසි ප්‍රතිචාර සංසදය පවසයි.
+
+එහි ජ්‍යෙෂ්ඨ තොරතුරු ආරක්ෂණ ඉංජිනේරු චරුක දමුණුගල මහතා සඳහන් කළේ සමාජ මාධ්‍ය සම්බන්ධයෙන් පැමිණිලි 7,916 ක් වාර්තා වී ඇති බවය.
+
+ඒ පිළිබඳ තවදුරටත් පැහැදිලි කරමින් චරුක දමුණුගල මහතා සඳහන් කළේ මාස දෙකක් ඇතුළත ළමුන් සම්බන්ධයෙන් පැමිණිලි විශේෂයෙන් ළමා ලිංගික හිංසන 27 ලැබී ඇති බවය.
+
+එම පැමිණිලි ජාතික ළමා ආරක්ෂක අධිකාරියට යොමු කර ඇති බව ද ඒ මහතා වැඩිදුරටත් ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/baa502fa.json)
+
+---
+
+### අකුරණ ගින්නට හේතුව ?
+
+*2024-07-06 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198526) · `si`
+
+අකුරණ අවන්හලක ඇති වූ ගින්නට හේතුව එම ගොඩනැගිල්ලේ බේකරි නිෂ්පාදනාගායේ තිබූ විදුලි උඳුන්වලට විදුලිය සපයන පද්ධතියේ විදුලි කාන්දුවක් විය හැකි බවට පොලීසිය සැක පළ කරයි.
+
+ගින්න සම්බන්ධයෙන් අලවතුගොඩ පොලීසිය වැඩිදුර විමර්ශන සිදුකරන බව සඳහන් වේ.
+
+පොලීසිය පැවසුවේ එම අවන්හල අසල පිහිටි අලෙවිසැලක් ඇතුළු වෙළෙඳසැල් කිහිපයකට සහ ජාත්‍යන්තර පාසලකට ගින්නෙන් හානි වී ඇති බව.
+
+අකුරණ නගරයේ පිහිටි මෙම අවන්හල තුළ ගින්න හටගෙන තිබුණේ ඊයේ (05) උදෑසන 6.30ට පමණ ය.
+
+එම ගින්න හේතුවෙන් මහනුවර - මාතලේ (A9) මාර්ගය ද ඊයේ පෙරවරුවේ තාවකාලිකව වසා දැමීමට කටයුතු කළේය.
+
+දැඩි පරිශ්‍රමයකින් පසු උදෑසන 10ට පමණ ගින්න මැඩපැවැත්වීමට කටයුතු කර තිබුණි.
+
+◼️
+
+[Data](articles/888bddb8.json)
+
+---
 
 ### Showers and strong winds
 
@@ -2179,53 +2219,5 @@ The Minister expressed hope that by the end of July, the number of tin numbers c
 [Data](articles/1ffb4fbd.json)
 
 [Extended Data](ext_articles/1ffb4fbd.ext.json)
-
----
-
-### Yall. Six arrested
-
-*2024-07-05 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/187732) · `ta`
-
-In a surprise police raid in Vadamarachchi's eastern part, six individuals were arrested on charges including sword attacks and drug offenses. Led by the Maradankeni OIC, the operation took place in Kudana on Thursday.
-
-🟩
-
-Six persons have been arrested in a sudden raid carried out by police in the eastern part of Vadamarachchi in Jaffna.
-
-The police, led by the Maradankeni police station officer in charge, staged a raid on Thursday (04) in Kudana area.
-
-At the same time, six suspects have been arrested in connection with charges including sword cutting and leakage production.
-
-◼️
-
-[Data](articles/4ba5ad86.json)
-
-[Extended Data](ext_articles/4ba5ad86.ext.json)
-
----
-
-### Keer Starmer becomes the new prime minister of Britain
-
-*2024-07-05 12:16:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரித்தானியாவின்-புதிய-பிரதமராகிறார்-கீர்-ஸ்டார்மர்/50-339907) · `ta`
-
-Keer Starmer leads the Labour Party to victory in the British elections, securing over 326 seats and becoming the new Prime Minister. This marks the Labour Party's return to power after 14 years, following Britain's exit from the EU.
-
-🟩
-
-Elections for a total of 650 constituencies in the British Parliament were held yesterday. The ruling party, the Conservative Party, the main opposition party, and the Liberal Democrats Party, were candidates.
-
-When the voting is over, the number of voting has begun. The Geir Starmar -led Labor Party has been in the forefront since its inception.
-
-Labor Party won over 326 seats for the majority. Keer Starmer won his own constituency.
-
-Keer Starmar will take over as the new prime minister of Britain as the Labor Party has won more than the majority.
-
-Labor party after 14 years takes power in Britain. It is worth recalling that this is the first election held after Britain's release from the European Union (PRC). In the UK, the election was held in the ballot system. Remble
-
-◼️
-
-[Data](articles/9b846a96.json)
-
-[Extended Data](ext_articles/9b846a96.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 19:52:25**
+As of **2024-07-06 20:04:54**
 
 ## Newspaper Stats
 
-*Scraped **33,959** Articles*
+*Scraped **33,960** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,886
 tamilmirrorlk | 4,018
 dailymirrorlk | 4,733
 virakesarilk | 5,323
-adaderanasinhalalk | 5,637
+adaderanasinhalalk | 5,638
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,958 (100.0%) of 33,959 articles have been extended.
+33,959 (100.0%) of 33,960 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### සඳුදා වැඩවර්ජනයක්
+
+*2024-07-06 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198548) · `si`
+
+රාජ්‍ය මෙන්ම අර්ධ රාජ්‍ය වෘත්තීය සංගම් රැසක් එක්වී එළඹෙන සඳුදා (08) සහ අඟහරුවාදා (09) දෙදින දීප ව්‍යාප්ත වැඩ වර්ජනයක නියැලීමට තීරණය කර තිබේ.
+
+රාජ්‍ය සේවා වෘත්තීය සමිති සන්ධානය, ඒකාබද්ධ සෞඛ්‍ය සේවක සංගමය, ලංකා ගුරු සංගමය හා ලංකා ගුරු සේවා සංගමය ඇතුළු වෘත්තීය සංගම් රැසක් එම වැඩ වර්ජනයේ නිරතවන බව වාර්තා වෙයි.
+
+මේ අතර රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ නව නිලධාරී මණ්ඩලයේ සාමාජිකයින් කිහිපදෙනෙක් අද මහානායක හිමිවරුන් බැහැදැක තිබුණි.
+
+එහිදී රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ නව ලේකම් වෛද්‍ය ප්‍රභා සුගතදාස මහතා සඳහන් කර සිටියේ මෙරට සෞඛ්‍ය ක්ෂේත්‍රය පෞද්ගලීකරණය කිරීමේ යම් අරමුණු තිබේදැයි සැක පවතින බවය.
+
+◼️
+
+[Data](articles/53a6978f.json)
+
+---
 
 ### Two arrested for robbing house
 
@@ -1280,6 +1298,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/6cf3527f.json)
 
+[Extended Data](ext_articles/6cf3527f.ext.json)
+
 ---
 
 ### Stock market buoyed by ComBank’s successful debenture issue
@@ -2229,25 +2249,5 @@ The Brazil's Supreme Court Chairman Liyis Roberto Barroso and the Supreme Develo
 [Data](articles/da83d39b.json)
 
 [Extended Data](ext_articles/da83d39b.ext.json)
-
----
-
-### CCD Inspector and Constable arrested while accepting bribe
-
-*2024-07-05 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100320/ccd-inspector-and-constable-arrested-while-accepting-bribe) · `en`
-
-An Inspector of Police and a Constable attached to the Colombo Crimes Division (CCD) have been arrested by officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) while accepting a bribe of over Rs. 150,000.
-
-The Bribery Commission stated that the two suspects, who were apprehended inside the CCD premises in Dematagoda, had solicited a sum of Rs. 450,000 as a bribe and were apprehended while accepting the final payment of over Rs. 150,000 out of that.
-
-A resident of the Ibbagamuwa area of Kurunegala has lodged a complaint with the CCD in relation to a fraudulent money transfer through an online business of exchanging the electronic currency called ‘USDT’.
-
-The two suspected cops had allegedly stated to the complainant that two suspects connected to the incident were arrested and produced before the court. However, they have demanded a bribe of Rs. 454,200 to refrain from arresting the complainant as well.
-
-...
-
-[Data](articles/2a912b4e.json)
-
-[Extended Data](ext_articles/2a912b4e.ext.json)
 
 ---

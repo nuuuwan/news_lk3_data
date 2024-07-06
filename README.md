@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 01:19:38**
+As of **2024-07-07 01:35:17**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,970 (100.0%) of 33,971 articles have been extended.
+33,971 (100.0%) of 33,971 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### ’சர்வதேச ஆய்வுக் கப்பல்களுக்கு தடையில்லை’
+### No International Research Ships
 
 *2024-07-07 01:00:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-ஆய்வுக்-கப்பல்களுக்கு-தடையில்லை/175-339957) · `ta`
 
-இலங்கை கடற்பரப்பில் அடுத்த ஆண்டில் இருந்து சர்வதேச ஆய்வுக் கப்பல்களுக்கு தடைவிதிக்கப்படமாட்டாது என வெளிவிவகார அமைச்சர் அலி சப்ரி தெரிவித்துள்ளார்.
+Ali Sabri, External Affairs Minister of Sri Lanka, announced that international research ships won't be prohibited from its waters starting next year. This decision comes amid discussions about entry permissions. Additionally, Japan's Foreign Minister expressed gratitude for Sri Lanka allowing a ship equipped with Sonar technology to operate within its territorial waters.
 
-சீன ஆய்வுக் கப்பல் நாட்டின் கடற்பரப்பிற்குள் நுழைய அனுமதி வழங்கப்படாமை தொடர்பில் கருத்து வெளியிட்ட போதே அவர் மேற்கண்டவாறு கூறியுள்ளார்.
+🟩
 
-இதனிடையே, சோனார் தொழிநுட்பத்துடனான கப்பலொன்றை இலங்கைக்கு வழங்கியமை தொடர்பில் வெளியுறவு அமைச்சர் ஜப்பான் அரசாங்கத்திற்கு நன்றி தெரிவித்துள்ளார். (a)
+External Affairs Minister Ali Sabri said that international inspection ships will not be banned from next year in the Sri Lankan waters.
+
+He said this while commenting on the lack of permission to enter the country's waters.
+
+Meanwhile, Foreign Minister Japanese thanked the government of Sri Lanka for providing a ship with Sonar technology.. (A)
 
 ◼️
 
 [Data](articles/1b234b43.json)
+
+[Extended Data](ext_articles/1b234b43.ext.json)
 
 ---
 

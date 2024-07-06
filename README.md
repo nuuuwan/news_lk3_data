@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 22:19:33**
+As of **2024-07-06 22:34:52**
 
 ## Newspaper Stats
 
-*Scraped **33,965** Articles*
+*Scraped **33,968** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,898
 economynextcom | 2,002
 dailyftlk | 2,115
 adalk | 3,031
-adaderanalk | 3,887
-tamilmirrorlk | 4,019
+adaderanalk | 3,888
+tamilmirrorlk | 4,021
 dailymirrorlk | 4,733
 virakesarilk | 5,323
 adaderanasinhalalk | 5,641
@@ -26,29 +26,85 @@ adaderanasinhalalk | 5,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,964 (100.0%) of 33,965 articles have been extended.
+33,965 (100.0%) of 33,968 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### අලි සබ්රි නිල සංචාරයකට සිංගප්පුරුවට යන්න සැරසෙයි
+### Sri Lanka’s tourism earnings surpass USD 1.5Bn from in Q1
+
+*2024-07-06 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100337/sri-lankas-tourism-earnings-surpass-usd-15bn-from-in-q1) · `en`
+
+Sri Lanka’s earnings from tourism rose to over 1.5 billion US dollars in the first six months of 2024, a 77.9-per cent increase year on year, the Central Bank of Sri Lanka (CBSL) said in its latest weekly report.
+
+Tourist arrivals in the first half was 1.01 million, up 61.7 per cent from the same period in 2023.
+
+Tourism earnings in June hit 113.4 million dollars, compared to 100.3 million dollars one year ago, reports Xinhua.
+
+Meanwhile, workers’ remittances for the first six months of 2024 were 3.14 billion dollars, up from 2.82 billion dollars in the same period last year.
+
+Tourism and workers’ remittances are among the top foreign revenue generators for the South Asian nation.
+
+◼️
+
+[Data](articles/9c2dc3e0.json)
+
+---
+
+### Ali Sabri preparing to go to Singapore on official visit
 
 *2024-07-06 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198551) · `si`
 
-විදේශ අමාත්‍ය අලි සබ්රි මහතා නිල සංචාරයක් සඳහා සිංගප්පුරුව බලා පිටත්ව යාමට නියමිතව තිබේ.
+Foreign Minister Ali Sabri embarks on a two-day official visit to Singapore tomorrow, aiming to bolster diplomatic ties through bilateral discussions and participation in the '2024 Reuters Nextia Packet Conference'.
 
-ඒ අනුව, දෙදින නිල සංචාරයක් සඳහා හෙට (07) දිනයේ දී විදේශ අමාත්‍යවරයා සිංගප්පුරුව බලා යාමට නියමිතය.
+🟩
 
-සිංගප්පුරු විදේශ අමාත්‍ය ආචාර්ය විවියම් බාලක්‍රිෂ්ණන් මහතාගේ ආරාධනයකට අනුව විදේශ අමාත්‍ය අලි සබ්රි මහතා එම සංචාරයේ නිරත වෙයි.
+Foreign Minister Ali Sabri is due to leave for Singapore on an official visit.
 
-දෙරට අතර බහුවිධ සබඳතා ශක්තිමත් කරගැනීමේ අරමුණින් විදේශ අමාත්‍යවරයා එම සංචාරයේදී සිංගප්පුරු විදේශ අමාත්‍යවරයා අතර ද්විපාර්ශ්වික සාකච්ඡාවල නිරත වනු ඇත.
+Accordingly, the Foreign Minister to visit Singapore tomorrow (07) for a two-day official visit.
 
-හෙට සහ අනිද්දා යන දෙදෙන තුළ තවත් පාර්ශ්ව කිහිපයක් සමග සාකච්ඡා පවත්වන විදේශ අමාත්‍ය අලි සබ්රි මහතා ජුලි 09වනදා සිංගප්පුරුවේ දී පැවැත්වීමට නියමිත "2024 රොයිටර්ස් නෙක්ස්ට් ආසියා පැසිපික් සමුළුවට" සහභාගී වීමට නියමිතය.
+Foreign Minister Dr. Rendering Minister Dr. Paran Balakrishnan, Mr. Foreign Minister Ali Sabri calls on the invitation
+
+The Foreign Minister will hold bilateral discussions with the Foreign Minister among the Foreign Minister among the Foreign Minister in order to strengthen multiple relations between the two countries.
+
+Foreign Minister Ali Sabri, holding several parties in Singapore on July 9, will participate in the '2024 Reuters Nextia Packet Conference "in Singapore on July 9.
 
 ◼️
 
 [Data](articles/b2d6a62b.json)
+
+[Extended Data](ext_articles/b2d6a62b.ext.json)
+
+---
+
+### விபத்தில் குடும்பஸ்தர் மரணம்
+
+*2024-07-06 22:01:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/விபத்தில்-குடும்பஸ்தர்-மரணம்/72-339955) · `ta`
+
+கிளிநொச்சி - பரந்தன் பகுதியில் இருந்து பூநகரி நோக்கி பயணித்த மோட்டார் சைக்கிளும் யாழ்ப்பாணத்தில் இருந்து பரந்தன் நோக்கி பயணித்த கெப்ரக வாகனமும்  நேருக்கு நேர் மோதியதில் ஒருவர் உயிரிழந்த நிலையில், மூவர் படுகாயமடைந்துள்ளனர்.
+
+இன்று(06-07-2024) பகல்  இடம்பெற்ற குறித்த விபத்தில் கிளிநொச்சி கோனாவில் பகுதியைச் சேர்ந்த இரண்டு பிள்ளைகளின் தந்தையே பரிதாபகரமாக உயிரிழந்துள்ளதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/b0fcff52.json)
+
+---
+
+### யாழில் இளம் குடும்பப் பெண் கத்தியால் குத்தி கொலை
+
+*2024-07-06 21:53:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-இளம்-குடும்பப்-பெண்-கத்தியால்-குத்தி-கொலை/71-339954) · `ta`
+
+யாழ்ப்பாணம் - கொழும்புத்துறைப் பகுதியில் இரண்டு பிள்ளைகளின் தாயொருவர் கத்தியால் குத்தி கொலை செய்யப்பட்டுள்ளார்.
+
+கொழும்புத்துறை ஏவீ வீதி மூன்றாம் ஒழுங்கையில் உள்ள வீட்டிலேயே இன்று இந்த கொலைச் சம்பவம் இடம்பெற்றது.
+
+கொலைச் சம்பவம் தொடர்பாக யாழ்ப்பாணம் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/ea5a083c.json)
 
 ---
 
@@ -2187,75 +2243,5 @@ The suspect had told the investigation into the investigation and the balance wa
 [Data](articles/a1941f6e.json)
 
 [Extended Data](ext_articles/a1941f6e.ext.json)
-
----
-
-### Message for Kataragama
-
-*2024-07-05 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198521) · `si`
-
-Kataragama police issued a statement regarding the safety of pilgrims' vehicles at the historic Kataragama Maha Devalaya site.
-
-🟩
-
-Police have issued a statement informed of the vehicle of pilgrims in the historic Devalaya in Kataragama Maha Devalaya.
-
-◼️
-
-[Data](articles/96e132b5.json)
-
-[Extended Data](ext_articles/96e132b5.ext.json)
-
----
-
-### Beginning with Anti Mare's Wimbledon Frequent
-
-*2024-07-05 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187787) · `ta`
-
-Priya Wimbledon, a three-time Olympic medalist and Grand Slam Champion, began her farewell journey after a doubles loss. Despite the setback, she remains optimistic about her future contributions to tennis, especially in the mixed doubles match against Marco Arjolvo and Zung Shuai. Andy Mare, another prominent figure in tennis, announced his retirement ahead of the Paris 2024 Olympics, expressing his love for the sport and its teachings. Thousands of fans and family members witnessed these moments, marking the end of an era for both athletes.
-
-🟩
-
-Wimbledon Priya, the winner of 3 Olympic medals, including the Grand Slam Champion title and 3 Olympic medals, began with a doubles defeat.
-
-Australian pair John Pierce and Rinky Higigata lost 2 straights (6 - 7, 4 - 6) in the men's doubles match on Thursday night.
-
-With this failure, he shed tears and started his farewell.
-
-In the mixed double -to -match match, the pair with Emma Raduganu will oppose the pair of Marcilo Ariwalo (El Selvador) and Zung Shuwai (China).
-
-Andy Mare, who is fully favored from the professional tennis tournament with a mixed doubles competition, will say goodbye from the tennis game with the Paris 2024 Olympic Games, which will begin in a few weeks.
-
-The scenes of Andy Mare's most important tennis tournaments were broadcast in the widespread of the Central Tennis Stadium after the defeat of the Dare brothers in the doubles event on Thursday.
-
-'I want to play continuously. But, it's not light. There is no fitness for that. Now everything is hard. '
-
-...
-
-[Data](articles/8c561bf9.json)
-
-[Extended Data](ext_articles/8c561bf9.ext.json)
-
----
-
-### Sri Lanka SIS warned not to grant wage hike for protesting University staff: State Minister
-
-*2024-07-05 20:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-sis-warned-not-to-grant-wage-hike-for-protesting-university-staff-state-minister-171116/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s State Intelligence Service (SIS) has warned the government not to grant a salary hike to protesting non-academic staff at the island nation’s state universities as it is a part of a greater plot, State Higher Education Minister Suren Raghavan said.
-
-The State Minister’s revelation comes after more than two month of protest by the non-academic staff crippling the smooth operations in the island nation’s state universities.
-
-Raghavan, however, promised a wage hike in 2025 budget and urged non-academic staff across all universities to resume work promptly, emphasizing the importance of minimizing disruptions for the youth who are the future leaders of the nation.
-
-When asked if the protest has any political motive, the Minister said it was part of a greater plot though the demand is justifiable.
-
-“That is what the State Intelligence Services told us,” he told EconomyNext responding to a question at a media briefing in Colombo on Friday (05).
-
-...
-
-[Data](articles/b8de2737.json)
-
-[Extended Data](ext_articles/b8de2737.ext.json)
 
 ---

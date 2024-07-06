@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 07:22:32**
+As of **2024-07-06 07:46:40**
 
 ## Newspaper Stats
 
-*Scraped **33,905** Articles*
+*Scraped **33,906** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,997
 dailyftlk | 2,115
 adalk | 3,028
 adaderanalk | 3,875
-tamilmirrorlk | 4,010
+tamilmirrorlk | 4,011
 dailymirrorlk | 4,733
 virakesarilk | 5,317
 adaderanasinhalalk | 5,617
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,617
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,904 (100.0%) of 33,905 articles have been extended.
+33,906 (100.0%) of 33,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### ප්‍රදේශ කිහිපයකට වැසි සහ තද සුළං
+### Showers and strong winds
 
 *2024-07-06 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198525) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින්විට වැසි ඇති වන බව කාලගුණවිද්‍යා  දෙපාර්තමේන්තුව පවසයි.
+Expect showers across Western, Sabaragamuwa, North Western, and parts of Ampara, Batticaloa, Trincomalee, Hambantota, and Moneragala provinces. Strong winds of 40-50 km/h possible, with warnings about lightning risks.
 
-ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+🟩
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැක.
+The Meteorology Department says that there will be showers in the Western, Sabaragamuwa and North Western provinces.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා  දෙපාර්තමේන්තුව ජනතාවට දැණුම් දී තිබේ.
+Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. 40-50 can cause strong winds.
+
+The Department of Meteorology has made public aware of temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/b56545e7.json)
+
+[Extended Data](ext_articles/b56545e7.ext.json)
 
 ---
 
@@ -371,6 +377,30 @@ The purpose of the said Orders is to promote moral and ethical conduct among jus
 [Data](articles/a060e206.json)
 
 [Extended Data](ext_articles/a060e206.ext.json)
+
+---
+
+### Model Non -academic staff should come to work
+
+*2024-07-06 00:37:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்விசாரா-ஊழியர்கள்-பணிக்கு-வரவேண்டும்/175-339932) · `ta`
+
+Dr. Suren Raghavan, Higher Education Minister, urged non-academic staff across universities to return to work, emphasizing the importance of not disrupting the education of over 250,000 students. He highlighted the impact of ongoing strikes, which have already lasted 65 days, affecting 17 universities and 19 degree institutions. Despite previous struggles and crises, the minister stressed the need for non-academic staff to resume their duties to ensure the country's future is not compromised.
+
+🟩
+
+Higher Education Minister Dr. Suren Raghavan said, "I urge all the non -academic staff of all universities to do so without further disrupting the lives of the youth who are responsible for the future of the country."
+
+State Minister Suren Raghavan said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
+
+Over 14,600 non -academic staff of 17 universities and 19 united degree institutions in this country have been engaged in a total of 65 days.. The tragic reflection of the country's future is to disrupt the lives of 250,000 youths and waste their time.
+
+Even though these challenges were confronted by the agitating struggle in 2019, the economic crisis in 2020, and the struggle in 2021, even if they were included in the 18 % of the university's 18 percent of the university, it was a great tragedy that they would be disturbed by this workmanship struggle.. (A)
+
+◼️
+
+[Data](articles/c6f26c35.json)
+
+[Extended Data](ext_articles/c6f26c35.ext.json)
 
 ---
 
@@ -2197,29 +2227,5 @@ Labor party after 14 years takes power in Britain. It is worth recalling that th
 [Data](articles/9b846a96.json)
 
 [Extended Data](ext_articles/9b846a96.ext.json)
-
----
-
-### The success of the restructuring of debt is a strength to energy
-
-*2024-07-05 12:14:14* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීමේ-සාර්ථකත්වය-බලශක්තියට-ශක්තියක්/11-410622) · `si`
-
-Energy Minister Indika Anuvili highlighted the success of debt restructuring efforts in overcoming the energy crisis, attributing it to the resolution of stalled projects and the reduction of electricity production costs through solar panels. He criticized opposition parties for undermining the government's development efforts and spreading misinformation about power plant projects.
-
-🟩
-
-Power and Energy Minister Indika Anuvili said that projects in the energy sector in the past crisis due to the successful restructuring activities of the last crisis and that it helps to resolve the energy crisis.
-
-The State Minister pointed out that some parties of the opposition are engaged in disruptive acts to the development of the government to develop the country.
-
-Minister of Power and Energy Indika Anuruddha made this statement participating at a press conference held at the press conference at the Presidential Media Center.
-
-Stalitting many projects related to the energy sector during the last crisis. But now, the agreements have been signed up to understand and restructure the loans with bilateral borrower. Therefore, the legal status of the foreign countries has been launched after the lack of resume those projects.. Accordingly, it is a great contribution to solve the energy crisis in the country.
-
-...
-
-[Data](articles/90747b71.json)
-
-[Extended Data](ext_articles/90747b71.ext.json)
 
 ---

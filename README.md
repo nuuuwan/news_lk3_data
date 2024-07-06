@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 21:54:36**
+As of **2024-07-06 22:07:54**
 
 ## Newspaper Stats
 
-*Scraped **33,963** Articles*
+*Scraped **33,964** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,898
 economynextcom | 2,002
 dailyftlk | 2,115
 adalk | 3,031
-adaderanalk | 3,886
+adaderanalk | 3,887
 tamilmirrorlk | 4,019
 dailymirrorlk | 4,733
 virakesarilk | 5,323
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,640
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,963 (100.0%) of 33,963 articles have been extended.
+33,963 (100.0%) of 33,964 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### Govt. celebrates a temporary treatment to ‘self-inflicted’ problems - AKD
+
+*2024-07-06 21:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100336/govt-celebrates-a-temporary-treatment-to-self-inflicted-problems-akd) · `en`
+
+Leader of the National People’s Power (NPP), Anura Kumara Dissanayake claims that the government burdened Sri Lankans immensely while implementing the International Monetary Fund (IMF) program and restructuring Sri Lanka’s debt.
+
+While commending the government on getting Sri Lanka’s debt repayments postponed, the NPP leader went on to highlight however, that the government celebrated a temporary treatment to ‘self-inflicted’ problems.
+
+He made these remarks while addressing a meeting of medical professionals in Kurunegala district, organized by the National Intellectual Organization today (06).
+
+“It would have been impossible to implement the IMF programme without restructuring Sri Lanka’s debt. What did we do with the IMF? We came to an agreement with the IMF and we fulfilled a lot of the conditions outlined in that agreement”, Dissanayake said.
+
+“A lot of those conditions were fulfilled by burdening the general public immensely”, he added.
+
+...
+
+[Data](articles/9d986a53.json)
+
+---
 
 ### The 9th President of Iran Masood
 
@@ -2249,25 +2269,5 @@ It is for investigations to assassinate the Elpitiya Public Health Inspector.
 [Data](articles/6ae4d8a0.json)
 
 [Extended Data](ext_articles/6ae4d8a0.ext.json)
-
----
-
-### EXPLAINER: Impact of Labour-led UK government on Sri Lanka
-
-*2024-07-05 19:18:00* · [`economynextcom`](https://economynext.com/explainer-impact-of-labour-led-uk-government-on-sri-lanka-171111/) · `en`
-
-ECONOMYNEXT – The centre-left Labour Party won a massive majority in the 650-seat United Kingdom parliament while Prime Minister Rishi Sunak’s Conservative Party suffered the worst performance in the party’s long history as voters expressed their frustration over high cost of living crisis, failure in public services, and a series of scandals.
-
-So far Labour has won 412 seats, while the Conservatives have slumped to just 120 and centrist Liberal Democrats have taken 71.
-
-Labour’s Keir Starmer vowed to rebuild the UK as its next prime minister after his party on Friday surged to a landslide victory in a parliamentary election, ending 14 years of often tumultuous Conservative government.
-
-The Great Britain colonized Sri Lanka for 150 years and built most of the island nation’s infrastructure to transport the South Asian island’s products to be exported to the UK before granting independence in 1948.
-
-...
-
-[Data](articles/d3d15011.json)
-
-[Extended Data](ext_articles/d3d15011.ext.json)
 
 ---

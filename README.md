@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 05:37:32**
+As of **2024-07-06 06:00:15**
 
 ## Newspaper Stats
 
-*Scraped **33,895** Articles*
+*Scraped **33,903** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 308
 colombotelegraphcom | 312
 bbccomsinhala | 333
 newsfirstlk | 363
-islandlk | 1,889
+islandlk | 1,897
 economynextcom | 1,997
 dailyftlk | 2,115
 adalk | 3,028
@@ -26,11 +26,63 @@ adaderanasinhalalk | 5,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,895 (100.0%) of 33,895 articles have been extended.
+33,895 (100.0%) of 33,903 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### National tea sales averages June 2024: Cumulative variance records positive value
+
+*2024-07-06 02:44:00* · [`islandlk`](http://island.lk/national-tea-sales-averages-june-2024-cumulative-variance-records-positive-value/) · `en`
+
+Total Elevation Average declined by Rs. 23.11 in comparison to the previous month while cumulative variance recorded a positive Rs. 39.59 and USD 0.44 against January-June 2023.Cumulatively, High Growns showed a marginal negative variance, whilst the Medium Growns and Low Growns showed a positive variance in LKR terms. In USD terms, all elevations showed a positive variance in comparison to the corresponding period year-on-year.
+
+* National tea sales average for the month of June 2024 recorded Rs. 1,243.69 (USD 4.12), showing a decrease of Rs. 23.11 and of USD 0.13 in comparison with the May 2024 average of Rs. 1,266.80 (USD 4.25).
+
+* In comparison to the June 2023 average of Rs. 974.36 (USD 3.24), shows a positive variance of Rs. 269.33 and USD 0.88 YOY.
+
+* High Grown average for the month recorded a decrease of Rs. 29.31 and USD 0.15 month on month, whilst an increase of Rs. 284.43 and USD 0.93 is recorded YOY.
+
+...
+
+[Data](articles/1ce1efee.json)
+
+---
+
+### EDR success will lead to resumption of stalled energy projects: state minister
+
+*2024-07-06 02:38:00* · [`islandlk`](http://island.lk/edr-success-will-lead-to-resumption-of-stalled-energy-projects-state-minister/) · `en`
+
+‘Feasibility studies and environmental reports for Adani project are still in progress’
+
+State Minister for Power and Energy Indika Anuruddha stated that due to the success of the external debt restructuring (EDR), the projects related to the energy sector, which were stalled during the economic crisis would be re-implemented and it would be of great help in solving the power crisis.
+
+The Minister of State also pointed out that some parties in the opposition are engaged in sabotage to weaken the program launched by the government to develop the country.
+
+State Minister Indika Anuruddha conveyed these updates during a media briefing at the Presidential Media Centre (PMC) held on July 4 under the theme “Collective Path to a Stable Country”.
+
+...
+
+[Data](articles/322f4e04.json)
+
+---
+
+### Stock market buoyed by ComBank’s successful debenture issue
+
+*2024-07-06 02:34:00* · [`islandlk`](http://island.lk/stock-market-buoyed-by-combanks-successful-debenture-issue/) · `en`
+
+The Commercial Bank Sri Lanka’s largest ever debenture issue by a private bank closed after oversubscription on its opening day, this week, raising Rs. 20 billion for Sri Lanka’s biggest private sector bank, and demonstrating investor confidence in the institution.
+
+Announcing the oversubscription, the Bank said it had received applications for over three times the Rs. 10 billion initial issue amount, and has raised Rs. 20 billion by exercising all options.
+
+Commenting on the oversubscription of the issue, Commercial Bank Managing Director/CEO Sanath Manatunge said: “This is an extremely encouraging vote of confidence from institutional and individual investors. This significant achievement stands as a testament to their unwavering faith in our meticulously crafted strategic roadmap, underpinned by principles of robust governance and sustained financial performance, as the country’s leading private sector financial services
+
+...
+
+[Data](articles/922ec9fd.json)
+
+---
 
 ### The government that makes agreements for the future of the country must win the confidence of the people and the opposition
 
@@ -195,6 +247,32 @@ The meeting was attended by Additional Government Agent Srimohan, Pradeshiya Sab
 [Data](articles/3671a7ea.json)
 
 [Extended Data](ext_articles/3671a7ea.ext.json)
+
+---
+
+### Emirates announces exclusive fares for Sri Lankan travellers booking trips to Europe and USA
+
+*2024-07-06 00:51:00* · [`islandlk`](http://island.lk/emirates-announces-exclusive-fares-for-sri-lankan-travellers-booking-trips-to-europe-and-usa/) · `en`
+
+Emirates has announced special fares exclusive to Sri Lanka, enabling travellers from Colombo to enjoy journeys to Europe and North America while flying better.Inclusive of 20 popular destinations, the special fares allow Emirates customers to reap savings while enjoying the airline’s world-class services across all cabins.
+
+The limited-time only special rates enable passengers to save US$ 150 (Rs 45,750 at current rates of exchange) over the published fares for Business Class return tickets, and up to US$ 40 (Rs 12,200) on Economy Class return fares, the airline said. The all-inclusive fares in Rupees are subject to the rate of exchange on the day of purchase.
+
+...
+
+[Data](articles/245ee724.json)
+
+---
+
+### Cinnamon Hotels & Resorts to present highest concentration of Asian elephants in one location
+
+*2024-07-06 00:51:00* · [`islandlk`](http://island.lk/cinnamon-hotels-resorts-to-present-highest-concentration-of-asian-elephants-in-one-location/) · `en`
+
+Cinnamon Hotels & Resorts introduces ‘The Gathering of Giants,’ an immersive educative weekend from 9th – 11th August 2024 at Cinnamon Habarana Complex, a unique event aimed to transform the annual natural phenomenon of the world’s largest gathering of Asian elephants – the ‘Elephant Gathering’ into a celebrated and educational experience for all. This spectacular gathering, recognised as the highest concentration of Asian elephants in a single location, occurs at Minneriya National Park, where the Minneriya tank sustains more than 300 elephants during the dry season.
+
+...
+
+[Data](articles/654a12de.json)
 
 ---
 
@@ -2133,113 +2211,5 @@ As a result, the police were concentrated on the site.
 [Data](articles/95134406.json)
 
 [Extended Data](ext_articles/95134406.ext.json)
-
----
-
-### Dayasiri was sworn in in front of party headquarters
-
-*2024-07-05 12:08:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சியின்-தலைமையகத்துக்கு-முன்பாக-பதவியேற்ற-தயாசிறி/175-339905) · `ta`
-
-Dayasiri Jayasekera, a Parliamentarian, was sworn in as the General Secretary of the Sri Lanka Freedom Party at its headquarters. Despite police preventing his entry initially, he successfully assumed the position.
-
-🟩
-
-Parliamentarian Dayasiri Jayasekera took office in front of the party headquarters that he would hold the post of General Secretary of the Sri Lanka Freedom Party.
-
-He was sworn in as the police did not allow him to enter the party headquarters.
-
-◼️
-
-[Data](articles/723fcfc5.json)
-
-[Extended Data](ext_articles/723fcfc5.ext.json)
-
----
-
-### Dayasiri assumes duties as SLFP Gen. Sec. ‘outside’ party HQ
-
-*2024-07-05 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100307/dayasiri-assumes-duties-as-slfp-gen-sec-outside-party-hq) · `en`
-
-MP Dayasiri Jayasekara assumed duties as the General Secretary of the Sri Lanka Freedom Party (SLFP) in front of the party headquarters, claiming that he holds the post.
-
-Jayasekara assumed duties outside the headquarters as he was prevented from entering the building by police.
-
-Meanwhile, a tense situation was reported in front of the Sri Lanka Freedom Party’s Headquarters on Darley Road in Colombo 10, following the arrival of MP Dayasiri Jayasekara this morning (05).
-
-Jayasekara alleges that he is still the legitimate General Secretary of the party, as the Colombo District Court issued an interim order against the SLFP’s decision to expel MP Dayasiri Jayasekara from party membership and the post of General Secretary last week.
-
-◼️
-
-[Data](articles/6a4cec59.json)
-
-[Extended Data](ext_articles/6a4cec59.ext.json)
-
----
-
-### Ugumaran victory;The first Sri Lankan Tamil backward woman to be a member of the British Parliament
-
-*2024-07-05 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187738) · `ta`
-
-Ugumaran, a Sri Lankan Tamil woman from a disadvantaged background, made history by becoming the first of her community to join the British Parliament. She won the Strobord and Bowe seat with 19,145 votes for the Labour Party, defeating a Green Party candidate. During her campaign, she emphasized the need for international action against Sri Lanka at the ICC to address past injustices.
-
-🟩
-
-The election official has announced that he has been elected as a Member of Parliament by Strobord and Bowe.
-
-He contested on behalf of the Labor Party and received 19 thousand 145 votes. The candidate for the Greens Party in the area has received 7 thousand 511 votes.
-
-Through this victory, she is proud to be the first Eelam Tamil background woman to be a member of the British Parliament.
-
-During the election campaign, he said that the United Nations Security Council could only establish justice by composing Sri Lanka in the International Criminal Court.
-
-We must strengthen our requests for justice on the world stage- we will not forget the devastation, the death of the land and the loss of the land.
-
-◼️
-
-[Data](articles/e7e23e97.json)
-
-[Extended Data](ext_articles/e7e23e97.ext.json)
-
----
-
-### Gas leak at an international airport
-
-*2024-07-05 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198506) · `si`
-
-A gas leak occurred at Kuala Lumpur International Airport's engineering terminal without causing disruptions, as reported by Reuters on April 4th.
-
-🟩
-
-The Kuala Lumpur International Airport, Malaysia has taken place at Reuters.
-
-The gas leak was held in an engineering terminal in the airport yesterday (04), with no hindrances.
-
-◼️
-
-[Data](articles/4292a482.json)
-
-[Extended Data](ext_articles/4292a482.ext.json)
-
----
-
-### Interim prohibition on the property of Keheliya and his family
-
-*2024-07-05 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/187735) · `ta`
-
-Keheliya Rambukwella, former Health Minister, and his family face a three-month interim ban due to alleged corruption involving over 93.125 million rupees under the Corruption Prevention Act. The investigation, which began on June 19, focuses on accusations of purchasing non-standard immunoglobulin vaccines.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella and his family have been issued an interim injunction for three months on charges of financialization of the Corruption Prevention Act for more than 93.125 million rupees of Rs 93.125 million.
-
-Former Health Minister Keheliya is currently being interrogated on charges of buying non -standard immunoglobulin vaccine drugs.
-
-Against this backdrop, the Bribery and Corruption Investigation Commission said that on June 19, a complaint made against Rambukwella has begun.
-
-◼️
-
-[Data](articles/e7121dea.json)
-
-[Extended Data](ext_articles/e7121dea.ext.json)
 
 ---

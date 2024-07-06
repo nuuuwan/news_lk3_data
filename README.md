@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 02:04:52**
+As of **2024-07-07 02:19:58**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,971 (100.0%) of 33,972 articles have been extended.
+33,972 (100.0%) of 33,972 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -97,6 +97,8 @@ Tourism and workers’ remittances are among the top foreign revenue generators 
 ◼️
 
 [Data](articles/2c40216b.json)
+
+[Extended Data](ext_articles/2c40216b.ext.json)
 
 ---
 

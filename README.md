@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 23:35:10**
+As of **2024-07-06 23:54:25**
 
 ## Newspaper Stats
 
-*Scraped **33,968** Articles*
+*Scraped **33,969** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 312
 bbccomsinhala | 333
 newsfirstlk | 363
 islandlk | 1,898
-economynextcom | 2,002
+economynextcom | 2,003
 dailyftlk | 2,115
 adalk | 3,031
 adaderanalk | 3,888
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,968 (100.0%) of 33,968 articles have been extended.
+33,968 (100.0%) of 33,969 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -361,6 +361,28 @@ The driver of the tipper in the accident has not been harmed.
 [Data](articles/dab91bc4.json)
 
 [Extended Data](ext_articles/dab91bc4.ext.json)
+
+---
+
+### Foreign investment needed for Sri Lanka banks to thrive: President
+
+*2024-07-06 17:01:00* · [`economynextcom`](https://economynext.com/foreign-investment-needed-for-sri-lanka-banks-to-thrive-president-171145/) · `en`
+
+ECONOMYNEXT – Sri Lanka cannot safeguard its economy if it does not protect its banking system, the country’s president told bankers.
+
+“If we do not protect our banking system, we cannot safeguard our economy. A collapse in the banking system would lead to an economic collapse,” President Ranil Wickremesinghe said.
+
+“We need to progress from this point forward, and the banking system plays a crucial role here. How do we secure funding? Foreign investment is essential for the banks to thrive,” Wickremesinghe told a bankers’ forum at Galle Face Hotel, Colombo, on Friday (05).
+
+The event was organized by the National Bankers Association, and attended by various individuals from the banking sector.
+
+Wickremesinghe said efforts have been made to reduce the loan repayment by 8 billion dollars over a period of four years.
+
+“With the USD 8 billion in debt relief, we are now free to pursue a new economy. We have submitted the necessary legal framework to Parliament to create an export-oriented economy.”
+
+...
+
+[Data](articles/002627f2.json)
 
 ---
 
@@ -2233,29 +2255,5 @@ It was launched by the leader of the Mawbima People's Party leader Dilith Jayawe
 [Data](articles/245c0ff2.json)
 
 [Extended Data](ext_articles/245c0ff2.ext.json)
-
----
-
-### Millionaire businessman who imports cocaine caught
-
-*2024-07-05 21:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198522) · `si`
-
-A millionaire businessman importing cocaine was arrested by the Police Narcotics Bureau after being found hiding in a luxury car in Nawala. The suspect, known for his eloquent speech, was under investigation for money laundering.
-
-🟩
-
-The Police Narcotics Bureau has been arrested by the Police Narcotics Bureau.
-
-The suspect was arrested while hiding and was arrested in Nawala and found a luxury car from the house where the rented base.
-
-The police said that it is registered with a strong speech artist.
-
-The suspect had told the investigation into the investigation and the balance was to be purchased.
-
-◼️
-
-[Data](articles/a1941f6e.json)
-
-[Extended Data](ext_articles/a1941f6e.ext.json)
 
 ---

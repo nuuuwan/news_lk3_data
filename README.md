@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 16:35:46**
+As of **2024-07-06 16:51:30**
 
 ## Newspaper Stats
 
-*Scraped **33,948** Articles*
+*Scraped **33,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,104 @@ newsfirstlk | 363
 islandlk | 1,897
 economynextcom | 2,002
 dailyftlk | 2,115
-adalk | 3,029
-adaderanalk | 3,884
+adalk | 3,031
+adaderanalk | 3,885
 tamilmirrorlk | 4,018
 dailymirrorlk | 4,733
 virakesarilk | 5,323
-adaderanasinhalalk | 5,631
+adaderanasinhalalk | 5,632
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,945 (100.0%) of 33,948 articles have been extended.
+33,948 (100.0%) of 33,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### 78 හැවිරිදි කාන්තාවක් දූෂණය කිරීමේ සිද්ධියට 17 හැවිරිදි සිසුවෙක් අත්අඩංගුවට
+### ජනපති සොයන අලුත්ම කණ්ඩායම
 
-*2024-07-06 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198541) · `si`
+*2024-07-06 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198542) · `si`
 
-බලන්ගොඩ නගරය ආශ්‍රිතව ඇති දොරවෙල ඔය ප්‍රදේශයේදී ඉකුත් 27වනදා 78 හැවිරිදි විවාහක කාන්තාවක දුෂණය කර අභිරහස් ලෙස ඝාතනය කිරීමේ සිද්ධියක් සම්බන්ධයෙන් 17 හැවිරිදි පාසල් සිසුවෙකු සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+රට තුළ නව ආර්ථිකයක් ගොඩනඟන විට නව දේශපාලන ක්‍රමයක් ද නිර්මාණය විය යුතු බවත්, වගකීම් භාරගෙන කටයුතු කළ හැකි පිරිසක් මෙන්ම නොබියව සත්‍ය ප්‍රකාශ කරන පිරිසක් එම දේශපාලන ක්‍රමවේදය තුළ බිහිවිය යුතු බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
 
-සැකකාර සිසුවාව බලන්ගොඩ වැඩබලන මහෙස්ත්‍රාත් ඩී. එමී. චන්ද්‍රසේකර මහතා හමුවට ඉදිරිපත් කිරීමෙන් පසු ලබන 08වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර ඇත.
+ජනාධිපතිවරයා ඒ බව සඳහන් කර සිටියේ ජාතික බැංකුකරුවන්ගේ සංගමය විසින් ඊයේ (05) සංවිධානය කර තිබූ බැංකුකරුවන්ගේ සංසඳයට සහභාගී වෙමිනි.
 
-සැකකරු සම්බන්ධයෙන් කායික, මානසික සහ සමාජ රෝග පිළිබඳව වාර්තාවක් කැඳවන ලෙසත් සැකකරු DNA පරීක්ෂණකට යොමු කරන ලෙසත් නියෝග කර තිබේ.
+රට හමුවේ ඇති ආර්ථික අභියෝගය තමා ජනතාව හමුවේ නොබියව ප්‍රකාශ කළ බව මෙහිදී පැවසූ ජනාධිපතිවරයා රට එම අර්බුදයෙන් ගොඩගැනීමට හැකි නිවැරදි වැඩපිළිවෙළ ද මේ වනවිට පැහැදිළිව රටට ඉදිරිපත් කර තිබෙන බව සඳහන් කළේය.
 
-බලන්ගොඩ මුගුණමලේ ප්‍රදේශයේ පදිංචිව සිටි එමී.එල්. සිරියාවති  නැමති කාන්තාව ඉකුත් 27 වනදා දිය නැමට දොරවෙල ඔයට ගොස් ඇති අතර පසුව ඇයගේ සිරුර දොරවෙල ඔයේ තිබී සොයා ගැනුණි.
+එම වැඩපිළිවෙළ හැර වෙනත් වැඩපිළිවෙළක් රටට නොමැති බව පැවසූ ජනාධිපතිවරයා සිහින ලෝකවල කටයුතු නොකර රටට අවශ්‍ය වැඩපිළිවෙළ හඳුනාගෙන රටේ ආර්ථිකය ඉදිරියට ගෙන යාමට සහාය වීම සියලුදෙනාගේ වගකීම බවද පැවසීය.
 
-බලන්ගොඩ මූලික රෝහලේදී සිදු කළ මරණ පරීක්ෂණයේදී මතුවූ සැකය මත සිද්ධිය සම්බන්ධයෙන් විමර්ශන සිදුකර තිබුණි.
-
-පශ්චාත් මරණ පරීක්ෂණයෙන් තහවුරු වී ඇත්තේ මෙම කාන්තාව අවස්ථා කිහිපයකදීම ලිංගික අපයෝජනයට ලක් කර ගෙල සහ මුඛය  සිර කර ඝාතනය සිදුකර ඇති බවටය.
+සිංහල ජාතිය කිසිදා සිඟමන් යැදි ජාතියක් නොවන අතර ස්ව උත්සාහයෙන් නැඟී සිටින ජාතියක් බවද අවධාරණය කළේය.
 
 ...
 
-[Data](articles/7a96c545.json)
+[Data](articles/f1351ec3.json)
 
 ---
 
-### 17 நாட்கள் மூடப்படும் மதுபானசாலைகள்
+### President chairs first Community Police Committees’ empowerment session
+
+*2024-07-06 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100334/president-chairs-first-community-police-committees-empowerment-session-) · `en`
+
+President Ranil Wickremesinghe has chaired an inaugural event at the Wellawaya Public Stadium, marking the first empowerment session for Community Police Committees of Uva Province, the President’s Media Division (PMD) said.
+
+These committees were recognized for their significant contributions to the nationwide ‘Yukthiya Operation’ initiative led by the Sri Lanka Police Department, according to the PMD.
+
+◼️
+
+[Data](articles/dea07b11.json)
+
+---
+
+### A 17-year-old student arrested for raping 78-year-old woman
+
+*2024-07-06 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198541) · `si`
+
+A 17-year-old girl has been arrested for allegedly raping and killing a 78-year-old woman in Sri Lanka. The suspect, from Balangoda, was remanded pending further investigations and DNA testing. The victim, named Suriyakanthi, was found dead, and an autopsy confirmed sexual assault and strangulation as causes of death.
+
+🟩
+
+A 178-year-old schoolgirl has been arrested on suspicion of raping a 78-year-old married woman in the GDetara Oya near the town of Balangoda.
+
+The suspect, acting politically Magistrates D. Emmy. He was remanded until the 8th of this month after Chandrasekara.
+
+The suspect has also been sent to a DNA test to summon a report on physical, mental and social illnesses regarding the suspect.
+
+A resident of the Balangoda Module area. The woman named Syrian 'went to the Doawala, the body, and later found her body.
+
+Investigations were conducted on the suspicion at the death investigation at the Balangoda Balangoda Hospital.
+
+The post mortem has been confirmed that the woman had sexually abused and murdered the murder and murder.
+
+The son of the woman who faced the incident, "said:" It's here to see my mother. Mom left the teeth. The teeth trapped the throat when she was tightened. "
+
+◼️
+
+[Data](articles/7a96c545.json)
+
+[Extended Data](ext_articles/7a96c545.ext.json)
+
+---
+
+### 17 days closed liquor schools
 
 *2024-07-06 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/187833) · `ta`
 
-கதிர்காம கந்தன் ஆலய வருடாந்த மகோற்சவ விழா இன்று (06) கொடியேற்றத்துடன் வைபவ ரீதியாக ஆரம்பிக்கப்பட்டள்ளது.
+The Kadirgama Kandan Temple's annual festival begins today, leading to a 17-day closure of all liquor outlets in the Kadirgama Divisional Secretariat starting from the 22nd of this month.
 
-இந்நிலையில் கதிர்காம கந்தன் ஆலய மகோற்சவத்தை முன்னிட்டு கதிர்காம பிரதேச செயலகத்திற்கு உட்பட்ட அனைத்து மதுபான விற்பனை நிலையங்களும் இன்று 06ஆம் திகதி முதல் எதிர்வரும் 22 ஆம் திகதி வரை 17 நாட்களுக்கு முடக்கப்படும் என கலால் திணைக்களம் நடவடிக்கை எடுத்துள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+The annual festival of Kadirgama Kandan Temple has been launched today (06).
+
+In this backdrop, all liquor outlets belonging to the Kadirgama Divisional Secretariat will be disabled for 17 days from the 22nd of this month.
 
 ◼️
 
 [Data](articles/0925ef02.json)
+
+[Extended Data](ext_articles/0925ef02.ext.json)
 
 ---
 
@@ -85,6 +133,26 @@ He pointed out that while some have cited Argentina’s Martin Guzman as an exam
 ...
 
 [Data](articles/ebcb674e.json)
+
+[Extended Data](ext_articles/ebcb674e.ext.json)
+
+---
+
+### බදුල්ල කොළඹ දුම්රිය මාර්ගය යථා තත්වයට
+
+*2024-07-06 15:56:43* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ල-කොළඹ-දුම්රිය-මාර්ගය-යථා-තත්වයට/11-410632) · `si`
+
+බදුල්ල කොළඹ රාත්‍රි තැපැල් දුම්රිය බණ්ඩාරවෙල දියතලාව දුම්රිය ස්ථාන අතර දී පිලීපැනිමට ලක් වීමෙන් අඩාලව පැවති උඩරට දුම්රිය මාර්ගයේ බදුල්ල කොළඹ කොටුව දුම්රිය ධාවනය අද (6) පෙරවරුවේ සිට සාමාන්‍ය පරදි ධාවනය වන බව දුම්රිය දෙපාර්තමේන්තුව පවසයි .
+
+බදුල්ල සිට කොළඹ කොටුව බලා ධාවනය වෙමින් තිබූ අංක 1016 දරන රාත්‍රි තැපැල් දුම්රියේ එන්ජිම ඊයේ (5) රාත්‍රි බණ්ඩාරවෙල  දියතලාව දුම්රිය ස්ථාන අතර දුම්රිය මාර්ගයේ දී පිලීපැනිමට ලක් විය .
+
+මේ නිසාවෙන් කොළඹ කොටුව සිට බදුල්ල බලා ධාවනය වෙමින් තිබූ අංක  1007 දරන විශේෂ සීඝ්‍රග්‍රාමි දුම්රිය හපුතලේ දුම්රිය ස්ථානයේ නවතා තබා අද (6) උදෑසන බදුල්ල බලා ධාවනය වූ බවත් , පිලිපැනීමට ලක්ව තිබූ අංක 1016 දරන රාත්‍රි තැපැල් දුම්රිය බණ්ඩාරවෙල දුම්රිය ස්ථානයේ සිට අලුයම 5.50 ට කොළඹ කොටුව බලා ධාවනය වූ බව නාවලපිටිය දුම්රිය පාලක මැදිරිය සදහන් කළේය .
+
+බදුල්ල සිට කොළඹ කොටුව බලා අද (6) අලුයම 5.50ට උඩරට මැණිකේ දුම්රිය ගමන් ආරම්භ කළ බවද දුම්රිය දෙපාර්තමේන්තුව පැවසීය .
+
+◼️
+
+[Data](articles/8b4a955c.json)
 
 ---
 
@@ -239,6 +307,24 @@ Tourism earnings in June were estimated at $151.1 million, up from $122.9 millio
 [Data](articles/fed7a6c2.json)
 
 [Extended Data](ext_articles/fed7a6c2.ext.json)
+
+---
+
+### චන්ඩිගේ මරණයට හේතුව සොයා අද මරණ පරීක්ෂණයක්
+
+*2024-07-06 13:55:55* · [`adalk`](https://www.ada.lk/breaking_news/චන්ඩිගේ-මරණයට-හේතුව-සොයා-අද-මරණ-පරීක්ෂණයක්/11-410630) · `si`
+
+ගල්ගමුව ප්‍රදේශ‌යේ ජනතාව චන්ඩි නමින් හැඳින්වූ තනි දලයක් සහිත ඇතා ගල්ගමුව, ඇහැටුවැව කදුරුවැව ගම්මානයේ වැවේදී මියගොස් සිටියදී වනජීවී නිළධාරීන් සොයා ගෙන ඇත.
+
+කළක සිට විවිධ රෝගාබාධවලට ලක්ව සිටි මෙම තනි දළයක් සහිත ඇතාට අවස්ථා කීපයකදී වනජීවී නිළධාරීන් විසින් ප්‍රථිකාර සිදු කර තිබිණි.
+
+ගල්ගමුව ප්‍රදේශයෙන් මාඳුරු ඔයට සහ හොරොව්පතානට රැගෙන ගිය මෙම හස්තියා නැවත ගල්ගමුවට පැමිණීම නිසා ඒ පිළිබඳ බොහෝ දෙනෙකුගේ අවදානය යොමුවුණා.
+
+චන්ඩි නම් මෙම ඇතාගේ මරණයට හේතුව ‌සොයා අද පශ්චාත් මරණ පරීක්ෂණය සිදු කිරීමට නියමිය.තවත් ඇතෙකු සමඟ ඇති කර ගත් ගැටුමක් හේතුවෙන් ඇති වූ තුවාල නිසා මෙම ඇතා මිය යන්නට ඇතැයි සැක පළ කරයි.
+
+◼️
+
+[Data](articles/cf7a941e.json)
 
 ---
 
@@ -2149,99 +2235,5 @@ The police said that when the police officers tried to arrest them, the police s
 [Data](articles/46353398.json)
 
 [Extended Data](ext_articles/46353398.ext.json)
-
----
-
-### The shooting of the untitled movie starring actor Darshan
-
-*2024-07-05 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/187765) · `ta`
-
-The untitled movie featuring Darshan, directed by Ajith Kumar, has wrapped its shoot. Starring alongside Darshan are Arsha Baiju, Kalaiyarasan, Deena, and Vinodhini Vaidyanathan. Produced by Play Smith Studios and scored by Rajesh Murukesan, post-production begins soon.
-
-🟩
-
-The film crew has been enthusiastically announced that the shooting of the unnamed film, which is playing the hero of the famous actor Darshan's story through Ajith Kumar's 'Tharabi'.
-
-Darshan, Arsha Baiju, Kalaiyarasan, Deena, Vinodhini Vaidyanathan and many others star in the director's directorial director.. The film is being produced by Play Smith Studios, composed by Rajesh Murukesan.
-
-The film crew said that the shooting of the film has been completed and the post -shooting technical work will begin soon.
-
-◼️
-
-[Data](articles/519ed724.json)
-
-[Extended Data](ext_articles/519ed724.ext.json)
-
----
-
-### Global Environment Facility funds chemical disposal project in Sri Lanka
-
-*2024-07-05 17:06:00* · [`economynextcom`](https://economynext.com/global-environment-facility-funds-chemical-disposal-project-in-sri-lanka-171094/) · `en`
-
-ECONOMYNEXT – The Ministry of Environment has been granted 5 million dollars by the Global Environment Facility (GEF) for a chemical disposal project in Sri Lanka.
-
-A workshop was held to launch the project to dispose of POP pesticides in the agriculture sector and mercury and waste in the healthcare sector.
-
-Even though Sri Lanka does not manufacture products which contain POPs or mercury, many products containing these substances are imported to the country for various uses every year.
-
-“Though stringent regulations have been introduced, a lack of capacity in the application of these regulations results in the continued mismanagement of chemical imports to the country,” the UNDP said in a statement.
-
-The ‘Integrated Management and Environmentally Sound Disposal of POPs Pesticides in the Agricultural Sector and Mercury & Waste in the Healthcare Sector in Sri Lanka’ project is implemented by the Environment Ministry and the United Nations Development Programme.
-
-...
-
-[Data](articles/b4380cb0.json)
-
-[Extended Data](ext_articles/b4380cb0.ext.json)
-
----
-
-### Sir Keir Starmer officially becomes UK’s prime minister
-
-*2024-07-05 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100318/sir-keir-starmer-officially-becomes-uks-prime-minister) · `en`
-
-Sir Keir Starmer has officially become the UK’s new prime minister after a meeting with the King.
-
-The Labour leader had his meeting in Buckingham Palace after Rishi Sunak stepped down following the worst ever general election result for the Conservatives.
-
-Sir Keir now takes over as the first Labour prime minister in 14 years - and the seventh Labour prime minister ever.
-
-Much of the country was turned red overnight, with Mr Sunak conceding defeat just before 5am on Friday and Sir Keir claiming victory shortly after.
-
-Speaking on the steps of No 10, former prime minister Mr Sunak said he would not leave his role as Conservative Party leader immediately but would do so once a leadership race begins.
-
-“I would like to say, first and foremost, I am sorry. I have given this job my all,” he said.
-
-“But you have sent a clear signal that the government of the United Kingdom must change. And yours is the only judgement that matters.
-
-...
-
-[Data](articles/b8d83bfc.json)
-
-[Extended Data](ext_articles/b8d83bfc.ext.json)
-
----
-
-### A fuel crisis in Pakistan
-
-*2024-07-05 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198518) · `si`
-
-Pakistan faces a fuel crisis due to a strike by the Pakistan Petroleum Sellers Association against a newly introduced tax. Over 13,000 filling stations nationwide will halt operations, affecting the country's fuel supply. The association is negotiating with authorities to resolve their issues.
-
-🟩
-
-Pakistan Petroleum Sellen Association (Pakistala Petroleum Sellers) is said to publish a strike from the country to the country.
-
-It is reported that the reason for discussion with authorities over their issues is to be completed.
-
-In line with the strike, over 13,000 filling stations throughout the country will be stopped.
-
-The crisis has caused this crisis based on a newly introduced tax.
-
-◼️
-
-[Data](articles/e8176007.json)
-
-[Extended Data](ext_articles/e8176007.ext.json)
 
 ---

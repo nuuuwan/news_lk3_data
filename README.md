@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 08:36:07**
+As of **2024-07-06 08:54:18**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 5,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,908 (100.0%) of 33,914 articles have been extended.
+33,914 (100.0%) of 33,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### රොනාල්ඩෝ හඬවමින් ප්‍රංශය ඉදිරියට
+### France is changing Ronaldo
 
 *2024-07-06 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198528) · `si`
 
-2024 යුරෝපීය පාපන්දු තරගාවලියේ අවසන් පූර්ව වටයට සුදුසුකම් ලැබීමට ස්පාඤ්ඤය සහ ප්‍රංශය සමත් විය.
+France and Spain qualified for the Euro semis, but France didn't score against Portugal in their group stage matches. This was Ronaldo's last European Cup.
 
-මේ අතර ප්‍රංශය සහ පෘතුගාලය අතර පැවති තරගයේ නියමිත කාලයේ දී කණ්ඩායම් දෙකම ගෝල වාර්තා කිරීමට අසමත් විය.
+🟩
 
-මෙම තරගය සුපිරි ක්‍රීඩක ක්‍රිස්ටියනෝ රොනාල්ඩෝ ගේ අවසන් යුරෝපීය කුසලාන තරගය ලෙස සැළකේ.
+Spain and France managed to qualify for the semi-finals of the European football tournament.
+
+Meanwhile, both groups failed to record the goals during the due time of France and Portugal.
+
+The competition is considered to be the last European Cup match of Luxhika Cristiano Ronaldo.
 
 ◼️
 
 [Data](articles/716f8c14.json)
 
+[Extended Data](ext_articles/716f8c14.ext.json)
+
 ---
 
-### இன்று அவ்வப்போது மழை பெய்யும்
+### Today is the occasional rainfall
 
 *2024-07-06 08:04:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அவ்வப்போது-மழை-பெய்யும்/175-339936) · `ta`
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+Heavy rain expected in Western, Sabaragamuwa, North Western Provinces, and districts including Kandy, Nuwara Eliya, Galle, Matara. Rainfall possible in Uva Province, Ampara, Batticaloa districts evenings/nights. Strong winds up to 40-50km/h in Central Highlands' western slopes, Northern, North Central, North Western Provinces, Trincomalee, Hambantota, Moneragala districts. Thundershowers forecasted in upcoming areas; public urged to prepare for potential lightning strikes.
 
-ஊவா மாகாணத்திலும் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களிலும் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+🟩
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Heavy rains are expected in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+In the Uva Province, Ampara and Batticaloa districts, there is a possibility of rainfall or thundershowers in the evening or at night.
+
+Strong winds are likely to blow up to 40-50 km / h from time to time in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
 
 ◼️
 
 [Data](articles/9c652c29.json)
+
+[Extended Data](ext_articles/9c652c29.ext.json)
 
 ---
 
@@ -81,6 +93,8 @@ Siyambalapitiya said that even if the Inland Revenue Department sent letters or 
 ◼️
 
 [Data](articles/28ba5553.json)
+
+[Extended Data](ext_articles/28ba5553.ext.json)
 
 ---
 
@@ -153,6 +167,8 @@ The island nation has been trying to implement some drastic reforms in the educa
 ◼️
 
 [Data](articles/31e3a82e.json)
+
+[Extended Data](ext_articles/31e3a82e.ext.json)
 
 ---
 
@@ -434,17 +450,23 @@ Cinnamon Hotels & Resorts introduces ‘The Gathering of Giants,’ an immersive
 
 ---
 
-### மீனவரின் சடலம் கரையொதுங்கியது
+### The body of the fisherman was shore
 
 *2024-07-06 00:42:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவரின்-சடலம்-கரையொதுங்கியது/175-339933) · `ta`
 
-யாழ். வேலணை கடற்கரையில் மீனவர் ஒருவரின் சடலம் கரையொதுங்கியுள்ளது என்று பொலிஸார் தெரிவித்தனர்.
+A 46-year-old fisherman from Velanai, Thrissur, was discovered dead on Suruvil beach.
 
-வேலணை, துறையூர் பகுதியைச் சேர்ந்த 46 வயதான மீனவரே கடற்றொழிலுக்குச் சென்ற நிலையில் சுருவில் கடற்கரையில் நேற்று சடலமாகக் கரையொதுங்கியுள்ளார்.
+🟩
+
+Yall. Police said the body of a fisherman on the Velanai beach was on the shore.
+
+A 46 -year -old fisherman from Velanai, Thrissur, was found dead on the coast of Suruvil yesterday.
 
 ◼️
 
 [Data](articles/bc6c5942.json)
+
+[Extended Data](ext_articles/bc6c5942.ext.json)
 
 ---
 
@@ -794,21 +816,27 @@ In an increasingly complex and convoluted landscape of risks, entrepreneurs and 
 
 ---
 
-### உரிய திகதியில் தேர்தலை நடத்த வேண்டும்: ஜனாதிபதி
+### Elections should be held on the appropriate date: President
 
 *2024-07-05 22:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரிய-திகதியில்-தேர்தலை-நடத்த-வேண்டும்-ஜனாதிபதி/175-339929) · `ta`
 
-உரிய திகதியில் தேர்தலை நடத்த வேண்டும் எனவும், அதற்காக தேர்தல்கள் ஆணையாளருடன் இடம்பெற்ற கலந்துரையாடலில் விடயங்களை விளக்கியதாகவும், ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe emphasized the importance of holding elections on the correct date, discussing this with the Commissioner of Elections. The President of Sri Lanka Ramanya Maha Nikaya visited the headquarters for a brief meeting and received a souvenir after blessing him.
 
-நாரஹேன்பிட்டி, எல்விடிகல வீதியில் அமைந்துள்ள ஸ்ரீலங்கா ராமன்ய மகா நிகாயவின் தலைமையகத்திற்கு இன்று (05) பிற்பகல் விஜயம் செய்த ஜனாதிபதி, இலங்கை ராமன்ய மகா நிகாயவின் மகாநாயக்க வண. மகுலேவே விமல மகாநாயக்க தேரரைச் சந்தித்து நலன் விசாரித்ததுடன், சிறு கலந்துரையாடிலும் ஈடுபட்டார்.
+🟩
 
-இதன்போது, பிரித் பாராயணம் செய்து ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு ஆசி வழங்கிய தேரர், ஜனாதிபதிக்கு நினைவுப் பரிசு ஒன்றையும் வழங்கி வைத்தார்.
+President Ranil Wickremesinghe said that the election should be held on the appropriate date and explained the matter with the Commissioner of Elections.
 
-உரிய திகதியில் தேர்தலை நடத்த வேண்டும் என்று தேர்தல்கள் ஆணையாளரிடம் தெரிவித்துள்ளேன். 2015ஆம் ஆண்டு ஜனாதிபதியின் பதவிக்காலத்தை 06 வருடங்களில் இருந்து 05 வருடங்களாக குறைக்க நான் தான் பரிந்துரைத்தேன் என்றும் நினைவுகூர்ந்தார். R
+President of Sri Lanka Ramanya Maha Nikaya, located at Elvitigala Road, Narahenpitiya, visited the headquarters of Sri Lanka Ramanya Maha Nikaya this afternoon. Makuleway met Wimala Mahanayaka Thera and inquired about the welfare and engaged in a short discussion.
+
+Thera, who recited the British and blessed President Ranil Wickremesinghe, presented a souvenir to the President.
+
+I have informed the Commissioner of Elections to hold elections on the appropriate date. He recalled that I had recommended the 2015 presidential term from six years to 05 years.. Remble
 
 ◼️
 
 [Data](articles/1c924d6f.json)
+
+[Extended Data](ext_articles/1c924d6f.ext.json)
 
 ---
 

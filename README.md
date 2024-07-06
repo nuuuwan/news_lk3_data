@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 01:53:41**
+As of **2024-07-07 02:04:52**
 
 ## Newspaper Stats
 
-*Scraped **33,971** Articles*
+*Scraped **33,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,898
 economynextcom | 2,003
 dailyftlk | 2,115
 adalk | 3,031
-adaderanalk | 3,888
+adaderanalk | 3,889
 tamilmirrorlk | 4,023
 dailymirrorlk | 4,733
 virakesarilk | 5,323
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,971 (100.0%) of 33,971 articles have been extended.
+33,971 (100.0%) of 33,972 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,26 @@ Minister Jeevan Thondaman's media unit said that the protest will take place aga
 [Data](articles/b1489686.json)
 
 [Extended Data](ext_articles/b1489686.ext.json)
+
+---
+
+### Sri Lanka’s tourism earnings surpass USD 1.5Bn in first quarter
+
+*2024-07-06 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100337/sri-lankas-tourism-earnings-surpass-usd-15bn-in-first-quarter) · `en`
+
+Sri Lanka’s earnings from tourism rose to over 1.5 billion US dollars in the first six months of 2024, a 77.9-per cent increase year on year, the Central Bank of Sri Lanka (CBSL) said in its latest weekly report.
+
+Tourist arrivals in the first half was 1.01 million, up 61.7 per cent from the same period in 2023.
+
+Tourism earnings in June hit 113.4 million dollars, compared to 100.3 million dollars one year ago, reports Xinhua.
+
+Meanwhile, workers’ remittances for the first six months of 2024 were 3.14 billion dollars, up from 2.82 billion dollars in the same period last year.
+
+Tourism and workers’ remittances are among the top foreign revenue generators for the South Asian nation.
+
+◼️
+
+[Data](articles/2c40216b.json)
 
 ---
 
@@ -2239,23 +2259,5 @@ Thereafter, the night postal trains traveling from Badulla to Colombo Fort.
 [Data](articles/d815dd9a.json)
 
 [Extended Data](ext_articles/d815dd9a.ext.json)
-
----
-
-### Foreign Minister Ali Sabry to visit Singapore
-
-*2024-07-05 22:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100323/foreign-minister-ali-sabry-to-visit-singapore) · `en`
-
-Sri Lanka’s Foreign Minister Ali Sabry is scheduled to undertake an official visit to Singapore from 07 to 08 July 2024, on an invitation extended by the Minister of Foreign Affairs of Singapore Dr. Vivian Balakrishnan.
-
-During the visit, Minister Ali Sabry will engage in bilateral discussions with his Singapore counterpart with a view to strengthening the multifaceted relations between the two countries, the Ministry of Foreign Affairs said.
-
-The Foreign Minister is also scheduled to take part in the Reuters NEXT Asia-Pacific Summit – 2024 that will take place on 09 July in Singapore.
-
-◼️
-
-[Data](articles/139eb86f.json)
-
-[Extended Data](ext_articles/139eb86f.ext.json)
 
 ---

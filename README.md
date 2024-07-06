@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 14:06:03**
+As of **2024-07-06 14:19:37**
 
 ## Newspaper Stats
 
-*Scraped **33,934** Articles*
+*Scraped **33,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,70 @@ colombotelegraphcom | 312
 bbccomsinhala | 333
 newsfirstlk | 363
 islandlk | 1,897
-economynextcom | 2,000
+economynextcom | 2,002
 dailyftlk | 2,115
 adalk | 3,029
 adaderanalk | 3,883
 tamilmirrorlk | 4,017
 dailymirrorlk | 4,733
-virakesarilk | 5,317
-adaderanasinhalalk | 5,627
+virakesarilk | 5,321
+adaderanasinhalalk | 5,628
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,933 (100.0%) of 33,934 articles have been extended.
+33,934 (100.0%) of 33,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### පොලිස් වෙඩිල්ලෙන් ආබාධිත වූ හංසක සුව කරගන්න උදව් ඉල්ලයි
+
+*2024-07-06 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198536) · `si`
+
+මීට වසර එකහමාරකට පෙර පොලීසියේ වැරදීමකින් එල්ලවූ වෙඩි ප්‍රහාරයක් නිසා හිසට සිදුවූ බරපතළ තුවාල හේතුවෙන් මාතර නාවිමන ප්‍රදේශයේ සිසුවෙකු මේ වනවිට පූර්ණ ආබාධිත තත්ත්වයට පත්වී සිටී.
+
+ඔහුගේ මව්පියන් ඉල්ලා සිටින්නේ සිය දරුවා සුවපත් කරගැනීමට සහාය වෙන ලෙසය.
+
+උපතින්ම ආබාධිත නොවූ හරීෂ් හංසකට සිදුවූ අනතුර හේතුවෙන් මේ වනවිට කතා කිරීමට පවා නොහැකි තත්ත්වයක් උදාවී තිබේ.
+
+මීට වසර එකහමාරකට පෙර පොලිස් නිලධාරියෙකු අතින් වූ වැරදීමකින් හංසකගේ හිසට වෙඩි පහරක් එල්ල වූයේ ඔහු ආබාධිත තත්ත්වයට පත්කරමිනි.
+
+එම අනතුරට ඔහු මුහුණ පා තිබුණේ ගමේ පන්සලේ පැවැත්වෙන පෙරහැරට කාවඩි නැටීම සඳහා මොණර පිහාටු සෙවීමට මිතුරන් සමග ගිය අවස්ථාවේදීය.
+
+හංසක අද මෙලෙස හෝ ජීවත්වෙන්නේ, කරාපිටිය ශික්ෂණ රෝහලේ වෛද්‍යවරුන්ගේ දැඩි කැපවීම මතය.
+
+පස්දෙනෙකුගෙන් යුත් පවුලේ බඩ පිස්සා වු හංසක සුව කරගැනීම මව්පියන්ට මේ වනවිට අභියෝගයක් වී තිබේ.
+
+මේ දක්වා කළ ප්‍රතිකාර හේතුවෙන් ඇඳේ උඩුකුරුව සිටි හංසකට දැන් වාඩිවෙන්නට හැකියාව ලැබී තිබේ.
+
+තවදුරටත් ඔහුව සුවපත් කිරීමට දේශීය වෛද්‍යවරයෙකු කැමැත්ත පළකර තිබුණද ඒ සඳහා හංසකව යොමුකරවීමට මව්පියන්ට හැකියාවක් නොමැත.
+
+◼️
+
+[Data](articles/92c0a688.json)
+
+---
+
+### Sri Lanka’s 2024 first half tourism revenue surpasses $1.5 bn with 78-pct rise
+
+*2024-07-06 14:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-2024-first-half-tourism-revenue-surpasses-1-5-bn-with-78-pct-rise-171136/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s foreign exchange revenue from tourism rose to $1.56 billion in the first six months of 2024 with a 77.9 percent jump from the same period last year while the arrivals also gained 61.7 percent, the central bank said quoting tourism promotion authorities.
+
+Sri Lanka’s tourist arrivals rose to more than 1.01 million visitors in the first half of 2024.
+
+Tourism accounted for nearly 5 percent of Sri Lanka’s economy when the sector was at its peak in 2018. Since then it has hit by violent Easter Sunday suicide attack in 2019 and Covid-19 pandemic in 2020 followed by an unprecedented economic crisis.
+
+Tourism earnings in June were estimated at $151.1 million, up from $122.9 million in the same month a year ago.
+
+...
+
+[Data](articles/fed7a6c2.json)
+
+---
 
 ### Notice to the non-academic staff
 
@@ -59,6 +105,26 @@ However, these demands are to be considered in the next budget as these requests
 [Data](articles/108fc35b.json)
 
 [Extended Data](ext_articles/108fc35b.ext.json)
+
+---
+
+### போரா மாநாடு ; கொழும்பில் விசேட போக்குவரத்து திட்டம்
+
+*2024-07-06 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/187819) · `ta`
+
+போரா ஆன்மீக மாநாட்டை முன்னிட்டு கொழும்பில்  விசேட போக்குவரத்து திட்டம் அமுல்படுத்தப்படவுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் எஸ்.எஸ்.பி நிஹால் தல்துவ தெரிவித்துள்ளார்.
+
+போரா ஆன்மீக மாநாடு  07 ஆம் திகதி முதல்16 ஆம் திகதி வரை பம்பலப்பிட்டி போரா பள்ளிவாசல் மற்றும் இலங்கை கண்காட்சி மாநாட்டு மண்டபத்தில் நடைபெறவுள்ளது.
+
+இம்மாநாட்டுக்காக இந்தியா உள்ளிட்ட பல நாடுகளிலிருந்து சுமார் பதினைந்தாயிரம் போரா சமூகத்தினர் நாட்டுக்கு வரவுள்ளனர்.
+
+இந்நிலையில், போரா ஆன்மீக மாநாடு  நடைபெறும் 07 ஆம் திகதி முதல் 16 ஆம் திகதி வரை காலி வீதி, கொழும்பு கோட்டை மற்றும் பம்பலப்பிட்டியில் உள்ள மரைன் டிரைவிற்குள் நுழையும் பல வீதிகள் குறிப்பிட்ட சில மணிநேரங்கள் மூடப்படவுள்ளது.
+
+அதன்படி, குறித்த வீதிகள் காலை 8:00 மணி முதல் 11:00 மணி வரையும், பிற்பகல் 1:00 மணி முதல் பிற்பகல் 3:00 மணி வரையும் மற்றும் மாலை 5:00 மணி முதல் இரவு 10:00 மணி வரையும் வரை மூடப்படும் என பொலிஸ் ஊடகப் பேச்சாளர் எஸ்.எஸ்.பி நிஹால் தல்துவ தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/fd4312f6.json)
 
 ---
 
@@ -224,6 +290,22 @@ The initiative has been launched as per the request of Minister of Health Dr. Ra
 
 ---
 
+### சம்பந்தனின் இறுதிக்கிரியை தினத்தன்று கிழக்கில் வெள்ளைக்கொடி பறக்கவிட்டு துக்கதினமாக பிரகடனப்படுத்த மக்கள் முன்வரவேண்டும் : ஐ.ஏ. கலீலுர்ரஹ்மான்
+
+*2024-07-06 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/187814) · `ta`
+
+தமிழ் தேசிய கூட்டமைப்பின் தலைவரும், முன்னாள் எதிர்க்கட்சி தலைவருமான சிரேஷ்ட பாராளுமன்ற உறுப்பினர் அமரர் சட்டத்தரணி இரா. சம்பந்தனின் இறுதிக்கிரியைகள் நாளை ஞாயிற்றுக்கிழமை திருகோணமலையில் நடைபெறவுள்ளதுடன், அதில் இலங்கையின் அரசியல் பிரமுகர்களும், வெளிநாட்டு முக்கிய அரசியல்வாதிகளும் கலந்து கொள்ள உள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+
+அவரது இறுதிக்கிரியை நடைபெறும் நாளை ஞாயிற்றுக்கிழமை கிழக்கின் சகல பிரதேசங்களிலும் வெள்ளைக்கொடியை பறக்கவிட்டு அவருக்கு அஞ்சலி செலுத்த இலங்கையர்கள் அதிலும் குறிப்பாக கிழக்கு மாகாண மக்கள் முன்வர வேண்டும் என ஐக்கிய சமாதான கூட்டமைப்பின் பொருளாளரும், கொழும்பு மாநகர சபை முன்னாள் உறுப்பினருமான ஐ.ஏ. கலீலுர்ரஹ்மான் அறிக்கை யொன்றினூடாக கேட்டுக்கொண்டுள்ளார்.
+
+தமிழ் மக்களுக்கும் முஸ்லிம் மக்களுக்குமிடையிலான உறவின் இணைப்பு பாலமாக விளங்கிய மூத்த அரசியல் ஆளுமை இரா. சம்பந்தன் அவர்களின் மறைவு தமிழ் பேசும் மக்கள் மத்தியில் அதிர்ச்சியையும் ஆழ்ந்த கவலையையும் ஏற்படுத்தியுள்ளது.
+
+...
+
+[Data](articles/d4edb82e.json)
+
+---
+
 ### 9 hospitalized after another bus accident
 
 *2024-07-06 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198532) · `si`
@@ -350,6 +432,30 @@ Fourteen thousand six hundred (14,600) non-academic employees from 17 universiti
 
 ---
 
+### இலங்கைக்கான விமான சேவைகளை அதிகரிக்கும் கட்டார் ஏர்வேஸ்
+
+*2024-07-06 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/187807) · `ta`
+
+இலங்கையின் கொழும்பை நோக்கிப் பயணிக்கும் தனது விமான சேவைகளை 5 இலிருந்து 6ஆக அதிகரிப்பதாக கட்டார் ஏர்வேஸ் விமான சேவை அறிவித்துள்ளது.
+
+அதிகரிக்கப்படும் 6ஆவது விமான சேவையானது எதிர்வரும் 10 ஆம் திகதி முதல் ஆரம்பிக்கவுள்ளது.
+
+30 வணிக வகுப்பு இருக்கைகள் மற்றும் 281 சாதாரண வகுப்பு இருக்கைகள் கொண்ட  போயிங் 787 வகை விமானத்தை கொழும்புக்கான சேவைகளுக்கு கட்டார் ஏர்வேஸ் பயன்படுத்துகிறது.
+
+இந்த விமான சேவை உலகெங்கிலும் உள்ள 170  நாடுகளுக்கு பயணிகளை இணைக்கும் வகையில், கட்டார் ஏர்வேஸ் மொத்தம் 42 வாராந்திர விமானங்களை கொழும்புக்கு இயக்கும்.
+
+கட்டார் ஏர்வேஸ் சேவையின் இலங்கை மற்றும் மாலைதீவவிற்கான முகாமையாளர் ஜொனாதன் பெர்னாண்டோ கூறுகையில்,
+
+கொழும்புக்கும் கொழும்பிலிருந்தும் கட்டார் ஊடான தொடர்புகளை அதிகரிப்பதற்காக இந்த மேலதிக சேவையை வழங்குவதில் நாங்கள் மகிழ்ச்சியடைகிறோம்.
+
+இந்த விமான சேவை அதிகரிப்பானது பயணிகளுக்கு சிறந்த பயண அனுபவத்தை வழங்குவதில் எங்களின் அர்ப்பணிப்புக்கு ஒரு சான்றாகும்.
+
+...
+
+[Data](articles/f41e8da0.json)
+
+---
+
 ### Electrical leak caused massive fire in Akurana?
 
 *2024-07-06 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100326/electrical-leak-caused-massive-fire-in-akurana) · `en`
@@ -389,6 +495,44 @@ The island nation has been in the process of sending more migrant workers to bri
 [Data](articles/42ef322d.json)
 
 [Extended Data](ext_articles/42ef322d.ext.json)
+
+---
+
+### Sri Lanka 2024 first half remittances rise 11.4-pct, surpass $3.1 bn
+
+*2024-07-06 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-2024-first-half-remittances-rise-11-4-pct-surpass-3-1-bn-171133/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s remittances coming through official channels gained 11.4 percent to $3.14 billion in the first six months of 2024 compared to the same period last year, helped by more expatriates using the official banking channels.
+
+The remittances in June were $519.6 million, 9.2 percent up from the same month last year, the official data showed.
+
+The remittances have risen continuously after the central bank gave up a parallel exchange rate regime, which compelled most expatriates to switch informal Undiyal and Hawala money transfer methods.
+
+The island nation witnessed a 57 percent jump in remittances coming through formal banking channels to $5.97 billion in 2023, from $3.8 billion a year earlier, helped by elimination of parallel exchange rate.
+
+The island nation has been in the process of sending more migrant workers to bring in higher foreign exchange since the country declared bankruptcy in 2022.
+
+...
+
+[Data](articles/46aa01ad.json)
+
+---
+
+### ஈரான் ஜனாதிபதி தேர்தலில் சீர்திருத்தவாதி பெசெஷ்கியன்வெற்றி - பழமைவாத வேட்பாளரை தோற்கடித்தார்
+
+*2024-07-06 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/187802) · `ta`
+
+ஈரான்  ஜனாதிபதி தேர்தலில் சீர்திருத்தவாதி மசூத் பெசெஷ்கியன் வெற்றிபெற்றுள்ளார். தேர்தலின் இரண்டாம் சுற்றின் முடிவில் வாக்குகள் எண்ணபட்டுள்ள நிலையில்மசூத் பெசெஷ்கியானிற்கு 53வீத வாக்குகள் கிடைத்துள்ளனஅவரை எதிர்த்து போட்டியிட்ட தீவிரபழமைவாதியான சயீட் ஜலீலிற்கு 44 வீத வாக்குகள் கிடைத்துள்ளன.
+
+ஜூன் 28 ம் திகதி தேர்தலில் இரு வேட்பாளர்களும் 50 வீத வாக்குகளை பெறாததை தொடர்ந்து  இரண்டாம் சுற்று அவசியமாகியது.
+
+ஈரான்தலைநகரிலும் ஏனைய நகரங்களிலும் புதிய ஜனாதிபதியின் ஆதரவாளாகள் வெற்றிக்கொண்டாட்டங்களில் ஈடுபட்டு வருகின்றனர். புதிய ஜனாதிபதி தனது தேர்தல் பிரச்சாரத்தில் பயன்படுத்திய பச்சை கொடியுடன் இளைஞர்கள் வெற்றியை கொண்டாடுகின்றனர்.
+
+ஈரானில் ஒற்றுமையை நிலைநாட்டுவேன் சர்வதேச சமூகத்திலிருந்து ஈரான் தனிமைப்படுத்தப்பட்டுள்ள நிலையை மாற்றுவேன்என அவர் தேர்தல் பிரச்சாரத்தின் போது வாக்குறுதிவழங்கியிருந்தார்.
+
+◼️
+
+[Data](articles/230bc71e.json)
 
 ---
 
@@ -1566,23 +1710,31 @@ The additional flights will be served by the Boeing 787 aircraft, featuring 30 B
 
 ---
 
-### ජනපතිධුරයේ කාලය වසර 6 සිට 5කට අඩු කිරිමට යෝජනා කළේ මමයි
+### I was proposed to reduce the time of 6 to five years
 
 *2024-07-05 19:11:06* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිධුරයේ-කාලය-වසර-6-සිට-5කට-අඩු-කිරිමට-යෝජනා-කළේ-මමයි/11-410629) · `si`
 
-නියමිත දිනට මැතිවරණය පැවැත්විය යුතු බවත් ඒ සඳහා මැතිවරණ කොමසාරිස්වරයා සමඟ සාකච්ඡාවේදී  කරුණු පහදා දුන් බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ශ්‍රී ලංකා රාමඤ්ඤ මහා නිකායේ මහානායක අතිපූජ්‍ය මකුලෑවේ විමල ස්වාමීන් වහන්සේ හමුවේ ප්‍රකාශ කළේය.
+President Ranil Wickremesinghe discussed holding elections on schedule and met religious leaders, including the General Manager of the Ramanya Nikaya. He announced progress in debt restructuring, aiming to reduce $8 billion in debt and secure loan repayment until 2043, potentially boosting Sri Lanka's export economy. The proposal to shorten his presidential term from six to five years was mentioned, alongside efforts to alleviate economic hardships through public relief programs.
 
-ශ්‍රී ලංකා රාමඤ්ඤ මහා නිකායේ  මහා නායක අතිපූජ්‍ය මකුලෑවේ විමල ස්වාමීන් වහන්සේ වැඩ සිටින නාරාහේන්පිට, ඇල්විටිගල මාවතේ පිහිටි ශ්‍රී ලංකා රාමඤ්ඤ මහා නිකායේ  සංඝ මූලස්ථානය  වෙත අද (05) පස්වරුවේ  පැමිණි ජනාධිපතිවරයා මහානායක හිමිපාණන් වහන්සේ බැහැදැක සුව දුක් විමසා කෙටි පිළිසඳරක නිරත විය.
+🟩
 
-මෙහිදී සෙත් පිරිත් සජ්ජායනා කර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත ආශිර්වාද පළ කළ මහා නායක හිමිපාණන් වහන්සේ ජනාධිපතිවරයා වෙත සමරු තිළිණයක් ද පිළිගැන්වීය.
+President Ranil Wickremesinghe said that the election should be held on the due date and had explained the matter with the Commissioner of Elections and to the Commissioner of Elections.
 
-මෙහිදී අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් මෙසේද පැවසීය,
+The President visited the Mahanane Thera in Narahenpita, the General Manage of the Ramanya Nikaya, Narahenpita, the General Manage of the Ramanya Nikaya.
 
-ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලියට අදාළව  අප මේ වන විට පෞද්ගලික ණය හිමියන් සහ වාණිජ ණය හිමියන් සමඟ සාකච්ඡා අවසන් කර තිබෙනවා. අපට ගෙවීමට තිබු ණය ප්‍රමාණයෙන් ඩොලර් බිලියන 8ක් පමණ අඩු කර ගැනීමට හැකිවීමේ සුබ ආරංචිය ඔබවහන්සේට දැනුම් දෙන්න කැමතියි .
+The General Leader Thero presented a souvenir to the President of Seth and blessed President Ranil Wickremesinghe.
+
+President Ranil Wickremesinghe further said,
+
+We have already completed discussions with private creditors and commercial creditors in relation to the restructuring process. We would like to inform you the good news of reducing $ 8 billion in debt we have to pay.
+
+And we were able to get 4 years of relief for the payment of loans and to receive the full loan to 2043. Sri Lanka's export economy is expected to take advantage. The country can bring back to a standard of borrowing if planned for the next two years.
 
 ...
 
 [Data](articles/31893910.json)
+
+[Extended Data](ext_articles/31893910.ext.json)
 
 ---
 
@@ -2061,159 +2213,5 @@ The applicants are advised to contact ‘1911’ – the hotline of the Examinat
 [Data](articles/d4e974fc.json)
 
 [Extended Data](ext_articles/d4e974fc.ext.json)
-
----
-
-### 'I'm released on bail from' me '
-
-*2024-07-05 16:14:38* · [`adalk`](https://www.ada.lk/breaking_news/‘මගෙන්-රටට’-සංවිධානයේ-සභාපති-ඇප-මත-මුදාහරියි/11-410626) · `si`
-
-Sanjaya, charged with public displeasure against law enforcement, was released on bail after being arrested on June 28 and remanded until July 5.
-
-🟩
-
-The Chairman of the Organization Sanjaya, who is charged with public displeasures and hatred of law enforcement senior police officers, has been released on bail this afternoon.
-
-He was arrested on June 28 and remanded until today (05).
-
-◼️
-
-[Data](articles/94e71685.json)
-
-[Extended Data](ext_articles/94e71685.ext.json)
-
----
-
-### Sri Lanka to receive total debt relief of USD 8 billion through restructuring
-
-*2024-07-05 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100314/sri-lanka-to-receive-total-debt-relief-of-usd-8-billion-through-restructuring-) · `en`
-
-President Ranil Wickremesinghe has announced that the debt restructuring process will include USD 5 billion in loan interest relief from bilateral creditors and a USD 3 billion debt write-off from commercial creditors providing the country with a total relief of USD 8 billion.
-
-Wickremesinghe revealed this while addressing the ‘Urumaya’ Freehold Land Deed Ceremony held in Kurunegala today (05), the President’s Media Division (PMD) said.
-
-President Ranil Wickremesinghe emphasized that true socialism lies in granting free land rights to the people, dismissing mere talk about socialism.
-
-He highlighted that his government, credited with rescuing the country from bankruptcy, is actively addressing public issues. He pointed out that an additional 200,000 individuals will benefit from the “Urumaya” freehold land title initiative.
-
-...
-
-[Data](articles/d22d2bff.json)
-
-[Extended Data](ext_articles/d22d2bff.ext.json)
-
----
-
-### The total debt is Rs. 28343 billion
-
-*2024-07-05 16:04:43* · [`adalk`](https://www.ada.lk/breaking_news/මුළු-ණය-ප්‍රමාණය-රුපියල්-බිලියන-28343-යි/11-410625) · `si`
-
-Sri Lanka's total debt stands at Rs. 28343 billion. The government, alongside IMF and local partners, aims to stabilize the economy without worsening conditions beyond 2022. Local debt is around Rs. 35,000 crore, with foreign loans rising to Rs. 347 billion. Despite complaints about increased borrowing costs, the government seeks to bridge its budget gap.
-
-🟩
-
-"The Government and the Government Program has taken to the country today with the International Monetary Fund and other local partners when the economic frequenos of this country can live in the country."
-
-He was speaking at a special press conference in Anuradhapura to conclude foreign journalists through local media and zomculture.
-
-"Especially expressions of debt, Ranil Wickremesinghe and the Government's program has been brought to the country today.Don't take agreement with the International Monetary Fund, if the need to end a loan is not necessary to push the situation in our country a worse place than 2022.
-
-There was a large dialogue on the extent of Sri Lanka's debt, and the 17th International Association was done in our country until the 17th International Association was in our country.There was some question that was in the movement of the movement of the exchange rate about the lower size of this loan.
-
-...
-
-[Data](articles/ce005ed3.json)
-
-[Extended Data](ext_articles/ce005ed3.ext.json)
-
----
-
-### Dhanush's 'Captain Miller' won the International Award
-
-*2024-07-05 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/187759) · `ta`
-
-"Captain Miller," starring Dhanush, won the Best Foreign Film Award at the London National Film Academy's International Film Awards. Directed by Arun Mateeswaran and produced by DG, Senthil, and Arjun Thiagarajan, it features Dhanush alongside Siva Rajkumar, Sandeep Kishan, Priyanka Arul Mohan, and Aditi Balan. Despite mixed reviews upon release, the film stood out in the competition."
-
-🟩
-
-The film 'Captain Miller', starring actor Dhanush, has won the Best Foreign Film Award on behalf of the London National Film Academy of England.
-
-The tenth International Film Awards ceremony was held in London on behalf of National Film Academy. The film 'Captain Miller' from India has been selected and awarded in the Best Foreign Film category.
-
-Dhanush, Siva Rajkumar, Sandeep Kishan, Priyanka Arul Mohan and Aditi Balan starred in the 'Captain Miller' on this year, directed by director Arun Mateeswaran, produced by DG Thiagarajan+ Senthil Thiagarajan+ Arjun Thiagarajan on behalf of Satya Jyoti Films Company.It is noteworthy that the film was released at the House and received mixed reviews.
-
-◼️
-
-[Data](articles/99efa7f3.json)
-
-[Extended Data](ext_articles/99efa7f3.ext.json)
-
----
-
-### Three intervening petitions filed against FR seeking to delay presidential poll
-
-*2024-07-05 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100313/three-intervening-petitions-filed-against-fr-seeking-to-delay-presidential-poll) · `en`
-
-Three petitions for intervention have been filed with regard to the Fundamental Rights (FR) petition recently filed by businessman C.D. Lenawa seeking to delay the announcement of the presidential election, until the Supreme Court delivers its interpretation on the date of the Presidential poll.
-
-The petitions for intervention were filed by the National People’s Power (NPP), Wasantha Mudalige of the Inter-University Students’ Federation (IUSF) and the Samagi Jana Balawegaya (SJB), Ada Derana reporter said.
-
-The NPP Parliamentarian Vijitha Herath, who is one of the petitioners, has sought a court order to dismiss the relevant petition without taking up for consideration.
-
-A five-judge bench of the Supreme Court, headed by the Chief Justice, is set to hear the FR petition filed by businessman C.D. Lenawa, seeking to delay the announcement of the presidential election, on Monday (08).
-
-...
-
-[Data](articles/0ca8d8f6.json)
-
-[Extended Data](ext_articles/0ca8d8f6.ext.json)
-
----
-
-### Do you have to pay taxes if TIN Number is available?
-
-*2024-07-05 15:37:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/TIN-நம்பர்-கிடைத்தால்-கட்டாயம்-வரி-செலுத்த-வேண்டுமா/175-339914) · `ta`
-
-If you have a TIN, you can pay taxes via SMS from the Department of Internal Revenue. However, if your monthly income is under 100,000 rupees, you may not need to pay tax. For more details, visit your nearest National Prophet branch.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya said that those who have received taxpayer identification number (TIN) can pay taxes or short messages from the Department of Internal Revenue, but if their monthly income does not exceed 100,000 rupees, it is possible to avoid paying tax.
-
-The Minister said that this can be informed to the nearby branch of the National Prophet. Remble
-
-◼️
-
-[Data](articles/6885c258.json)
-
-[Extended Data](ext_articles/6885c258.ext.json)
-
----
-
-### Several intermediate petitions against petition demanding presidential election
-
-*2024-07-05 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198514) · `si`
-
-Several parties, including the Supreme Court and various unions, have filed intermediate petitions challenging a petition calling for a presidential election due to constitutional amendments reducing the presidential term from 6 to 5 years. They argue that the current president's term ends this year, necessitating an election. Petitioners accuse the opposing party of misleading the court and failing to justify their request, asking the Supreme Court to dismiss the petition. Additionally, an entrepreneur named Mr. Leena has called for a prevention order regarding the presidential election until the president's term officially ends.
-
-🟩
-
-The petition filed by the Supreme Court has submitted several intermediate petitions in the forest demanding the petition filed by the presidential election.
-
-Petitions were presented by the General Secretary Ranjith Madduma Bandara, General Secretary of the Jathika Force, Dr. Weli Amarasuriya and the Socialist Youth Union, Erangin Gunasekera of the Socialist Youth Union.
-
-In addition, the former convener of the Inter University Accurate Board has presented an intermediate petition by Divantha Mudali.
-
-The intermediate petitioners claim that the Constitution of the 19th Amendment of the Constitution has been amended to the constitution of the Constitution, which has been reduced to 5 years to 5 years.
-
-According to the Constitution, the present president's term of present will end this year and is essential to conduct a presidential election this year.
-
-They have accused the petitioner had taken steps to mislead the petitioner in the court to submit the presidential election.
-
-...
-
-[Data](articles/6a7a43cd.json)
-
-[Extended Data](ext_articles/6a7a43cd.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 16:51:30**
+As of **2024-07-06 17:05:00**
 
 ## Newspaper Stats
 
@@ -26,29 +26,39 @@ adaderanasinhalalk | 5,632
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,948 (100.0%) of 33,952 articles have been extended.
+33,952 (100.0%) of 33,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### ජනපති සොයන අලුත්ම කණ්ඩායම
+### The latest group looking for the President
 
 *2024-07-06 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198542) · `si`
 
-රට තුළ නව ආර්ථිකයක් ගොඩනඟන විට නව දේශපාලන ක්‍රමයක් ද නිර්මාණය විය යුතු බවත්, වගකීම් භාරගෙන කටයුතු කළ හැකි පිරිසක් මෙන්ම නොබියව සත්‍ය ප්‍රකාශ කරන පිරිසක් එම දේශපාලන ක්‍රමවේදය තුළ බිහිවිය යුතු බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe emphasizes the need for responsible individuals in Sri Lanka's political system to support its new economy. At a bankers' forum, he highlighted the importance of an export-driven development strategy and the role of the banking sector in achieving it. He criticized the previous administration for not addressing economic challenges adequately and urged all citizens to contribute to the nation's progress.
 
-ජනාධිපතිවරයා ඒ බව සඳහන් කර සිටියේ ජාතික බැංකුකරුවන්ගේ සංගමය විසින් ඊයේ (05) සංවිධානය කර තිබූ බැංකුකරුවන්ගේ සංසඳයට සහභාගී වෙමිනි.
+🟩
 
-රට හමුවේ ඇති ආර්ථික අභියෝගය තමා ජනතාව හමුවේ නොබියව ප්‍රකාශ කළ බව මෙහිදී පැවසූ ජනාධිපතිවරයා රට එම අර්බුදයෙන් ගොඩගැනීමට හැකි නිවැරදි වැඩපිළිවෙළ ද මේ වනවිට පැහැදිළිව රටට ඉදිරිපත් කර තිබෙන බව සඳහන් කළේය.
+President Ranil Wickremesinghe says that when a new economy is building a new economy in the country, a group of people who can take responsibilities and a truly expressing a truth should be created in the political system.
 
-එම වැඩපිළිවෙළ හැර වෙනත් වැඩපිළිවෙළක් රටට නොමැති බව පැවසූ ජනාධිපතිවරයා සිහින ලෝකවල කටයුතු නොකර රටට අවශ්‍ය වැඩපිළිවෙළ හඳුනාගෙන රටේ ආර්ථිකය ඉදිරියට ගෙන යාමට සහාය වීම සියලුදෙනාගේ වගකීම බවද පැවසීය.
+The President was referring to the bankers' forum, organized by the National Bankers Association yesterday.
 
-සිංහල ජාතිය කිසිදා සිඟමන් යැදි ජාතියක් නොවන අතර ස්ව උත්සාහයෙන් නැඟී සිටින ජාතියක් බවද අවධාරණය කළේය.
+The President also stated that he had stated the economic challenge in the country.
+
+It is the responsibility of everyone to help the country has no other program except the program but the country.
+
+He emphasized that the Sinhalese nation will never allow the nation.
+
+It was said that his purpose was to take the country to a rapid development of the country based on an export economy and that the legal system required to create an export economy was present and that the banking system would have a great responsibility to the banking system.
+
+Speaking further, President Ranil Wickremesinghe further said,
 
 ...
 
 [Data](articles/f1351ec3.json)
+
+[Extended Data](ext_articles/f1351ec3.ext.json)
 
 ---
 
@@ -63,6 +73,8 @@ These committees were recognized for their significant contributions to the nati
 ◼️
 
 [Data](articles/dea07b11.json)
+
+[Extended Data](ext_articles/dea07b11.ext.json)
 
 ---
 
@@ -138,21 +150,27 @@ He pointed out that while some have cited Argentina’s Martin Guzman as an exam
 
 ---
 
-### බදුල්ල කොළඹ දුම්රිය මාර්ගය යථා තත්වයට
+### Badulla Railway Line for Badulla
 
 *2024-07-06 15:56:43* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ල-කොළඹ-දුම්රිය-මාර්ගය-යථා-තත්වයට/11-410632) · `si`
 
-බදුල්ල කොළඹ රාත්‍රි තැපැල් දුම්රිය බණ්ඩාරවෙල දියතලාව දුම්රිය ස්ථාන අතර දී පිලීපැනිමට ලක් වීමෙන් අඩාලව පැවති උඩරට දුම්රිය මාර්ගයේ බදුල්ල කොළඹ කොටුව දුම්රිය ධාවනය අද (6) පෙරවරුවේ සිට සාමාන්‍ය පරදි ධාවනය වන බව දුම්රිය දෙපාර්තමේන්තුව පවසයි .
+A train from Colombo Fort to Badulla started its journey from Diyatalawa due to engine failure near Bandarawela. The incident occurred around 5:50 am at Haputale station, causing delays.
 
-බදුල්ල සිට කොළඹ කොටුව බලා ධාවනය වෙමින් තිබූ අංක 1016 දරන රාත්‍රි තැපැල් දුම්රියේ එන්ජිම ඊයේ (5) රාත්‍රි බණ්ඩාරවෙල  දියතලාව දුම්රිය ස්ථාන අතර දුම්රිය මාර්ගයේ දී පිලීපැනිමට ලක් විය .
+🟩
 
-මේ නිසාවෙන් කොළඹ කොටුව සිට බදුල්ල බලා ධාවනය වෙමින් තිබූ අංක  1007 දරන විශේෂ සීඝ්‍රග්‍රාමි දුම්රිය හපුතලේ දුම්රිය ස්ථානයේ නවතා තබා අද (6) උදෑසන බදුල්ල බලා ධාවනය වූ බවත් , පිලිපැනීමට ලක්ව තිබූ අංක 1016 දරන රාත්‍රි තැපැල් දුම්රිය බණ්ඩාරවෙල දුම්රිය ස්ථානයේ සිට අලුයම 5.50 ට කොළඹ කොටුව බලා ධාවනය වූ බව නාවලපිටිය දුම්රිය පාලක මැදිරිය සදහන් කළේය .
+The Colombo Fort Railway Railway Railway Railway Railway Railway Stations will be operated from Diyatalawa railway stations in Badulla.
 
-බදුල්ල සිට කොළඹ කොටුව බලා අද (6) අලුයම 5.50ට උඩරට මැණිකේ දුම්රිය ගමන් ආරම්භ කළ බවද දුම්රිය දෙපාර්තමේන්තුව පැවසීය .
+The engine of the night-train, which was traveling from Badulla to Colombo Fort, was fulfilled on the railway line between the Bandarawela Diyatalawa railway stations.
+
+This is due to the above mentioned night mail at the Haputale Railway Station at the Haputale Railway Station this morning at 5.50 am from Colombo Fort.Nawalapitiya Railway Control Room stated that he was running.
+
+The Railway Department said that the Railway Train was commenced at 5.50 am from Badulla to Colombo to Colombo Fort today (6).
 
 ◼️
 
 [Data](articles/8b4a955c.json)
+
+[Extended Data](ext_articles/8b4a955c.ext.json)
 
 ---
 
@@ -310,21 +328,27 @@ Tourism earnings in June were estimated at $151.1 million, up from $122.9 millio
 
 ---
 
-### චන්ඩිගේ මරණයට හේතුව සොයා අද මරණ පරීක්ෂණයක්
+### Appointment of the deaths today to find out the cause of Chandi's death
 
 *2024-07-06 13:55:55* · [`adalk`](https://www.ada.lk/breaking_news/චන්ඩිගේ-මරණයට-හේතුව-සොයා-අද-මරණ-පරීක්ෂණයක්/11-410630) · `si`
 
-ගල්ගමුව ප්‍රදේශ‌යේ ජනතාව චන්ඩි නමින් හැඳින්වූ තනි දලයක් සහිත ඇතා ගල්ගමුව, ඇහැටුවැව කදුරුවැව ගම්මානයේ වැවේදී මියගොස් සිටියදී වනජීවී නිළධාරීන් සොයා ගෙන ඇත.
+Wildlife officials discovered Chandi, an elephant, dead near a tank in Galgamuwa, suspecting disease or conflict as causes. Post-mortem examinations are underway to determine the exact cause of death.
 
-කළක සිට විවිධ රෝගාබාධවලට ලක්ව සිටි මෙම තනි දළයක් සහිත ඇතාට අවස්ථා කීපයකදී වනජීවී නිළධාරීන් විසින් ප්‍රථිකාර සිදු කර තිබිණි.
+🟩
 
-ගල්ගමුව ප්‍රදේශයෙන් මාඳුරු ඔයට සහ හොරොව්පතානට රැගෙන ගිය මෙම හස්තියා නැවත ගල්ගමුවට පැමිණීම නිසා ඒ පිළිබඳ බොහෝ දෙනෙකුගේ අවදානය යොමුවුණා.
+The wildlife officials found the dead at the tank at the Galgamuwa, Ehetuwewa Kaduruwewa village in the Galgamuwa, the death of a single door called Chandi.
 
-චන්ඩි නම් මෙම ඇතාගේ මරණයට හේතුව ‌සොයා අද පශ්චාත් මරණ පරීක්ෂණය සිදු කිරීමට නියමිය.තවත් ඇතෙකු සමඟ ඇති කර ගත් ගැටුමක් හේතුවෙන් ඇති වූ තුවාල නිසා මෙම ඇතා මිය යන්නට ඇතැයි සැක පළ කරයි.
+From the time, the wildlife officials were trained in a few occasions when the total approximately a single approximate to various diseases.
+
+The elephant was back to the Madagamuwa Oya and Horowpathana, so many people were taken up again.
+
+Chandi, finding the cause of this Aposta, the post mortem examination is suspicious that they have died due to a clash caused by a clash with a problem.
 
 ◼️
 
 [Data](articles/cf7a941e.json)
+
+[Extended Data](ext_articles/cf7a941e.ext.json)
 
 ---
 

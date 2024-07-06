@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 11:04:46**
+As of **2024-07-06 11:19:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,622
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,919 (100.0%) of 33,922 articles have been extended.
+33,922 (100.0%) of 33,922 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,23 +52,33 @@ He was tipped by many in the circles that he could follow in the footsteps of fo
 
 [Data](articles/157fc7b2.json)
 
+[Extended Data](ext_articles/157fc7b2.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවට ලැබුණු සහන ගැන පැහැදිලි කිරීමක්
+### Explanation of the relief received
 
 *2024-07-06 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198530) · `si`
 
-ද්වීපාර්ශ්වික ණයහිමි පාර්ශ්ව සියලුම රටවලට ණය ගෙවීමට ඇති කාලසීමාව දීර්ඝ කිරීම මගින් ලබාදෙන සහනය ශ්‍රී ලංකාවට ද ලබා දී ඇති බව මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+Dr. Nandalal Weerasinghe, Central Bank Governor of Sri Lanka, discussed the relief offered by bilateral debt restructurings, emphasizing that such relief is extended universally to all countries facing similar situations. He highlighted two main forms of relief: extending the repayment period and reducing interest rates, both aimed at easing the debt burden. Weerasinghe also addressed criticisms about unfair loan comparisons between countries, stating that the focus should be on each country's unique circumstances rather than direct comparisons. He clarified that the goal of seeking such relief is not to favor one country over another but to manage national debt effectively and ensure economic stability.
 
-ණය ප්‍රතිව්‍යුහගත කිරීම සම්බන්ධයෙන් දැනුවත් කිරීම සඳහා පැවති සම්මුඛ සාකච්ඡාවකට එක්වෙමින් ඔහු මේ බව සඳහන් ක‍ළේය.
+🟩
 
-විවිධ රටවලට ණය සහන ලබාදීම සම්බන්ධයෙන් ශ්‍රී ලංකාව සංසන්දනය කිරීම ද නිවැරදි තත්ත්වයක් නොවන බව මහ බැංකු අධිපතිවරයා වැඩිදුරටත් පැහැදිලි කළේය.
+Central Bank Governor Dr. Nandalal Weerasinghe says that the relief provided by bilateral debt borrowers has been given the relief to Sri Lanka.
 
-"ද්වීපාර්ශ්වික ණයහිමියන් සමග එකඟතාවකට පැමිණෙන විට ණය සහන ලබාදෙන ක්‍රම කිහිපයක් තියෙනවා. අවුරුදු 10කින් ගෙවන්න තියෙන එකක් නම් අවුරුදු 20කට දික් කරලා මූලික ණය, ඒ කියන්නේ ඩොලර් 100ක් ගත්තා නම් 10කින් ගෙවනවා වෙනුවට 20කින් ගෙවලා ඉවර කරන්න. ඇත්ත වශයෙන් බැලුවාම අද රුපියල් 100ක් ණයට අරගෙන හෙට ගෙවන්න තියෙන එකයි අවුරුදු 10කින් 100 ගෙවන එකයි අතර රුපියල් 100 වටිනාකම වෙනස් වෙනවා නේ. එක තමා සහනය. ද්විපාර්ශ්වික ණයකරුවන් සියලුම රටවල් වලට මේ ක්‍රියාවලිය දෙන්නේ ඒ ණය ගෙවන්න තියෙන කාලය දීර්ඝ කිරීම තුළින් තමයි එක සහනයක් දෙන්නේ".
+He was speaking at an interview to educate the restructuring of debt.
+
+The Central Bank Governor further explained that comparing Sri Lanka is not a right to provide credit relief to various countries.
+
+"There are several ways to provide credit relief when it comes to agree with bilateral creditors. If you have to pay in 10 years, the basic debt, get paid 20 in 20 if you bought $ 100. In fact, the 100 rupees will be borrowed today and will be able to pay for 10 years in 10 years.. One is the relief. Bilateral borrowers give this process to all countries by extending the time to pay the debt. "
+
+"The second relief is like 2% more than 3%, 4%, 5%, 5%, 6%. Decreases time to reduce interest rates. When the two adds, our debt is a significant amount of value. The end result, which is 30% less than 30%. "
 
 ...
 
 [Data](articles/fc5d2f40.json)
+
+[Extended Data](ext_articles/fc5d2f40.ext.json)
 
 ---
 
@@ -87,6 +97,8 @@ Fourteen thousand six hundred (14,600) non-academic employees from 17 universiti
 ...
 
 [Data](articles/76a89cf2.json)
+
+[Extended Data](ext_articles/76a89cf2.ext.json)
 
 ---
 

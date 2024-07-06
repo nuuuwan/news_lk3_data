@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 12:35:10**
+As of **2024-07-06 12:52:53**
 
 ## Newspaper Stats
 
-*Scraped **33,929** Articles*
+*Scraped **33,930** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,897
 economynextcom | 2,000
 dailyftlk | 2,115
 adalk | 3,028
-adaderanalk | 3,881
+adaderanalk | 3,882
 tamilmirrorlk | 4,017
 dailymirrorlk | 4,733
 virakesarilk | 5,317
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,625
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,929 (100.0%) of 33,929 articles have been extended.
+33,929 (100.0%) of 33,930 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### 9 injured in bus accident in Halpe
+
+*2024-07-06 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100331/9-injured-in-bus-accident-in-halpe) · `en`
+
+Nine individuals have been injured and hopitalised after a passenger bus belonging to the Sri Lanka Transport Board (SLTB) was involved in an accident in the Halpe area.
+
+The SLTB bus, traveling from Beddawela to Bandarawela, had veered off the road and collided with a nearby wall.
+
+Police suspect that the accident was caused by a technical fault in the bus.
+
+The injured individuals, including four females, have been admitted to the Demodara Hospital for treatment.
+
+◼️
+
+[Data](articles/b22c5654.json)
+
+---
 
 ### Beginning Today - 17 Days Lock for Liquor States
 
@@ -2189,29 +2207,5 @@ Speaking further Mr. Dr. Nandalal Weerasinghe,
 [Data](articles/99cc66c8.json)
 
 [Extended Data](ext_articles/99cc66c8.ext.json)
-
----
-
-### Under the control of the fire;Matale - Kandy Main Street returned to us
-
-*2024-07-05 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/187744) · `ta`
-
-A fire in Akurana destroyed a 3-storey building, shutting down the Matale-Kandy main road. The Kandy Municipal Council intervened to prevent further damage.
-
-🟩
-
-The Matale - Kandy main road has returned to normalcy due to a fire in Akurana.
-
-A fire broke out in a food vessel in Akurana town this morning (06). Following the fire, the 3 -storey building was completely damaged.
-
-Subsequently, the traffic on the main road of Matale - Kandy was completely shut down today.
-
-In this case, the Kandy Municipal Council has returned to us to control the spread of fire to nearby buildings.
-
-◼️
-
-[Data](articles/2d61bdd8.json)
-
-[Extended Data](ext_articles/2d61bdd8.ext.json)
 
 ---

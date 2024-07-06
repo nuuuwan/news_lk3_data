@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 22:07:54**
+As of **2024-07-06 22:19:33**
 
 ## Newspaper Stats
 
-*Scraped **33,964** Articles*
+*Scraped **33,965** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,887
 tamilmirrorlk | 4,019
 dailymirrorlk | 4,733
 virakesarilk | 5,323
-adaderanasinhalalk | 5,640
+adaderanasinhalalk | 5,641
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,963 (100.0%) of 33,964 articles have been extended.
+33,964 (100.0%) of 33,965 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### අලි සබ්රි නිල සංචාරයකට සිංගප්පුරුවට යන්න සැරසෙයි
+
+*2024-07-06 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198551) · `si`
+
+විදේශ අමාත්‍ය අලි සබ්රි මහතා නිල සංචාරයක් සඳහා සිංගප්පුරුව බලා පිටත්ව යාමට නියමිතව තිබේ.
+
+ඒ අනුව, දෙදින නිල සංචාරයක් සඳහා හෙට (07) දිනයේ දී විදේශ අමාත්‍යවරයා සිංගප්පුරුව බලා යාමට නියමිතය.
+
+සිංගප්පුරු විදේශ අමාත්‍ය ආචාර්ය විවියම් බාලක්‍රිෂ්ණන් මහතාගේ ආරාධනයකට අනුව විදේශ අමාත්‍ය අලි සබ්රි මහතා එම සංචාරයේ නිරත වෙයි.
+
+දෙරට අතර බහුවිධ සබඳතා ශක්තිමත් කරගැනීමේ අරමුණින් විදේශ අමාත්‍යවරයා එම සංචාරයේදී සිංගප්පුරු විදේශ අමාත්‍යවරයා අතර ද්විපාර්ශ්වික සාකච්ඡාවල නිරත වනු ඇත.
+
+හෙට සහ අනිද්දා යන දෙදෙන තුළ තවත් පාර්ශ්ව කිහිපයක් සමග සාකච්ඡා පවත්වන විදේශ අමාත්‍ය අලි සබ්රි මහතා ජුලි 09වනදා සිංගප්පුරුවේ දී පැවැත්වීමට නියමිත "2024 රොයිටර්ස් නෙක්ස්ට් ආසියා පැසිපික් සමුළුවට" සහභාගී වීමට නියමිතය.
+
+◼️
+
+[Data](articles/b2d6a62b.json)
+
+---
 
 ### Govt. celebrates a temporary treatment to ‘self-inflicted’ problems - AKD
 
@@ -49,6 +69,8 @@ He made these remarks while addressing a meeting of medical professionals in Kur
 ...
 
 [Data](articles/9d986a53.json)
+
+[Extended Data](ext_articles/9d986a53.ext.json)
 
 ---
 
@@ -2235,39 +2257,5 @@ When asked if the protest has any political motive, the Minister said it was par
 [Data](articles/b8de2737.json)
 
 [Extended Data](ext_articles/b8de2737.ext.json)
-
----
-
-### Refer to the suspect in the murder suspect
-
-*2024-07-05 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198520) · `si`
-
-The CID has identified the killer of the Elpitiya Public Health Inspector as someone targeting a police inspector next door. The suspect, known for his violent history including attempted murder for money, confessed to assaulting another inspector. He was arrested after being linked to a local heroin dealer. Further investigations are ongoing.
-
-🟩
-
-The CID has revealed that the Administrative Public Health Inspector of Elpitiya has been assassinated by the target.
-
-The shooter's goal is a police inspector at the adjoining house adjoining public health inspector, who is murdered.
-
-The Mt.
-
-He has said that he was assaulted by Inspector Dupimity Balandringman, who was attached to the unresolved criminal investigation division.
-
-On October 9 last year, the police officer was killed while attending a case and returned.
-
-There have been many other murders in the interrogation by the suspect.
-
-One time the shooter who had gone to kill a young child for Rs. 50,000 has been condemned due to commemoration.
-
-Meanwhile, the murderer in custody is to be handed over to the criminal investigations for further investigations.
-
-It is for investigations to assassinate the Elpitiya Public Health Inspector.
-
-...
-
-[Data](articles/6ae4d8a0.json)
-
-[Extended Data](ext_articles/6ae4d8a0.ext.json)
 
 ---

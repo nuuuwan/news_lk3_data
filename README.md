@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 19:20:14**
+As of **2024-07-06 19:35:03**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,637
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,956 (100.0%) of 33,958 articles have been extended.
+33,958 (100.0%) of 33,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### නිවසක් කොල්ලකෑ දෙදෙනෙක් අත්අඩංගුවට
+### Two arrested for robbing house
 
 *2024-07-06 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198547) · `si`
 
-පසුගියදා දෙහිඕවිට රංගේගම ප්‍රදේශයේ ව්‍යාපාරිකයෙකුගේ නිවසට ඇතුළුවී පවුම් 4ක පමණ රන් භාණ්ඩ සහ ලක්ෂ 4කට අධික මුදල්  සොරාගත් සොහොයුරන් දෙදෙනෙකු දෙහිඕවිට පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+In Dehiowita, two individuals have been arrested for robbing a house, confiscating £ 4 lakhs and 400,000 gold items worth millions.
 
-සැකකරුවන් සොරාගත් මුදල්වලින් දෙලක්ෂ අනූ අටදහසක මුදලක්ද පොලීසිය සිය භාරයට ගෙන තිබුණි.
+🟩
+
+Dehiowita has been arrested by Dehiowita police, including four £ 4 lakhs and 400,000 gold items in the Dehiowita area.
+
+The suspects were taken into custody by the money of the suspects.
 
 ◼️
 
 [Data](articles/2188fba6.json)
+
+[Extended Data](ext_articles/2188fba6.ext.json)
 
 ---
 
@@ -61,6 +67,8 @@ However, following an investigation carried out by the Sri Lankan Embassy in the
 ...
 
 [Data](articles/da9b3ad0.json)
+
+[Extended Data](ext_articles/da9b3ad0.ext.json)
 
 ---
 

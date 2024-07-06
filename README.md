@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 15:34:55**
+As of **2024-07-06 15:53:29**
 
 ## Newspaper Stats
 
-*Scraped **33,944** Articles*
+*Scraped **33,945** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,61 +20,87 @@ adaderanalk | 3,883
 tamilmirrorlk | 4,018
 dailymirrorlk | 4,733
 virakesarilk | 5,322
-adaderanasinhalalk | 5,629
+adaderanasinhalalk | 5,630
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,942 (100.0%) of 33,944 articles have been extended.
+33,944 (100.0%) of 33,945 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### மாத்தறையில் குழந்தை இறந்த சம்பவம் - விசாரணைகள் ஆரம்பம்
+### ඉන්දියාවේදී එල්ලවූ කඩු ප්‍රහාරය
+
+*2024-07-06 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198539) · `si`
+
+හින්දු පුරවැසියන්ගේ අයිතිවාසිකම් වෙනුවෙන් පෙනී සිටින පන්ජාබයේ ශිව් සේනා සංවිධානයේ නායකයාට ලූදියානාහි මහ මර්ගයකදී කඩු ප්‍රහාරයක් එල්ල කර තිබේ.
+
+සිදුවීම සම්බන්ධයෙන් පුද්ගලයන් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර ශිව් සේනා නායකයා තුවාල ලබා රෝහල්ගත කර ඇත.
+
+◼️
+
+[Data](articles/27faef92.json)
+
+---
+
+### Investigations in Matara
 
 *2024-07-06 15:10:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தறையில்-குழந்தை-இறந்த-சம்பவம்-விசாரணைகள்-ஆரம்பம்/175-339940) · `ta`
 
-மாத்தறை - கொடவில பகுதியில் உள்ள வைத்தியசாலையொன்றில் சிகிச்சை மறுக்கப்பட்டதால் 2 மாதக் குழந்தை ஒன்று உயிரிழந்த சம்பவம் தொடர்பில் சுகாதார அமைச்சு விசாரணைகளை ஆரம்பித்துள்ளது.
+The Health Ministry initiated an inquiry after a 2-month-old child died when denied treatment at a Matara hospital. The incident occurred on March 3rd, where the child was suffocating but was turned away from the emergency department. The parents claim the doctor stated the child could have been saved if brought in 30 minutes earlier.
 
-சுகாதார அமைச்சின் செயலாளரின் பணிப்புரைக்கு அமைய மாத்தறை மாவட்ட பொது வைத்தியசாலையினால் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-கடந்த 3ஆம் திகதி, மாத்தறை கொடவில பகுதியில் உள்ள வைத்தியசாலையில் மூச்சுத்திணறல் காரணமாகப் பாதிக்கப்பட்ட குழந்தைக்கு அவசரச் சிகிச்சைப் பிரிவில் அனுமதி மறுக்கப்பட்டதாகக் குற்றஞ்சாட்டப்படுகிறது.
+The Health Ministry has launched an investigation into the death of a 2 -month -old child after being refused treatment at a hospital in Matara - Kodawila area.
 
-மேலும் வேறு வைத்தியசாலைக்கு செல்ல அம்பியூலன்ஸ் தர வைத்தியசாலை நிர்வாகம் மறுப்பு தெரிவித்துள்ளாகவும் குறிப்பிடப்படுகின்றது.
+Investigations have been launched by the Matara District General Hospital on the directive of the Secretary of the Ministry of Health.
 
-இனால் சுமார் 10 கி.மீ பயணம் செய்து வேறு வைத்தியசாலை சென்றதாகவும், 30 நிமிடங்களுக்குமுன்பு குழந்தையை கொண்டுவந்திருந்தால் காப்பாற்றியிருக்கலாம் என அந்த வைத்தியசாலை வைத்தியர் கூறியதாகவும் பெற்றோர் தெரிவித்திருந்தனர். R
+On the 3rd of this month, a child who suffered from suffocation at a hospital in Matara, Kodawila, has been accused of being denied admission to the emergency department.
+
+The Ambulance Hospital administration has refused to go to another hospital.
+
+Parents said that the hospital doctor had said that he had traveled about 10 km and had gone to a different hospital and that the child had been saved if he had brought the baby 30 minutes ago.. Remble
 
 ◼️
 
 [Data](articles/6b60c0ac.json)
 
+[Extended Data](ext_articles/6b60c0ac.ext.json)
+
 ---
 
-### සර්වජන බලය උපාය මාර්ගික වැඩපිළිවෙළේ පළමු කෙටුම්පත එළිදක්වයි
+### The exangerative power launches the first draft of the strategic program
 
 *2024-07-06 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198538) · `si`
 
-සර්වජන බලය සන්ධානයේ උපාය මාර්ගික වැඩපිළිවෙළ යටතේ පළමු කෙටුම්පත ජනතාව හමුවේ එළිදැක්වීම අද (06) ශ්‍රී ජයවර්ධනපුර කෝට්ටේදී සිදුකෙරුණි.
+The first draft of the strategic program by the Exangerative Power aims to revamp various sectors including education, healthcare, public administration, security, and economy. It emphasizes establishing a dynamic education system rooted in Sri Lankan values, introducing tech-based healthcare policies, strengthening public administration with advanced technical approaches, enhancing national security through diplomacy and technology, fostering a globally competitive economy via entrepreneurship and innovation, promoting entrepreneurship to empower citizens, improving agricultural efficiency and farmer productivity, and initiating political reforms such as a new electoral system and proportional representation. The program seeks public feedback before finalizing the plan.
 
-අවසන් සැලැස්ම එළිදැක්වීම සිදු කරන්නේ මේ සඳහා ජනතා අදහස් එක්කර ගැනීමෙන් පසුවය.
+🟩
 
-සර්වජන බලය, උපාය මාර්ගික වැඩපිළිවෙළේ ජනතා සංවාදය උදෙසා ඉදිරිපත් කෙරෙන පළමු කෙටුම්පත එළිදැක්වීම මෙය වෙයි.
+The first draft was launched to the public under the public under the public under the masses under the Master of the Alliance TNA strategic program.
 
-මෙම අවස්ථාවට සර්වජන බලය නියෝජනය කරන සියලු දේශපාලන පක්ෂවල නායකයන් එක්විය.
+The final plan is launching after giving public views on this.
 
-සෑම ක්ෂේත්‍රයකම ක්‍රියාත්මක කිරීමට යෝජිත සංශෝධන මෙම උපායාමර්ගික වැඩපිළිවෙළ තුළ විස්තරාත්මකව ඇතුළත් කර තිබේ.
+This is the first draft offered to the People's Conversation for the People's Conversation of the Norgeon Power and Strategy.
 
-අධ්‍යාපන සැලැස්ම යටතේ සහජ ශ්‍රී ලාංකේය සාරධර්ම කෙරෙහි දැඩි අවධානයක් යොමු කරමින් ශක්තිමත්, ගතික සහ නව්‍ය අධ්‍යාපන ක්‍රමයක් ස්ථාපිත කිරීමට යෝජනා කර ඇත.
+Leaders of all political parties representing the authentic power have been joined.
 
-සෞඛ්‍ය සේවාව වෙනුවෙන් ජාත්‍යන්තර මට්ටමේ සෞඛ්‍ය රැකවරණයක් සහතික කෙරෙන ක්‍රියාශීලී කළමනාකරණය හා තාක්ෂණය මත පදනම් වූ සෞඛ්‍ය ආරක්ෂණ ප්‍රතිපත්ති සමූහයක් යෝජිතය.
+The proposed amendments to be implemented in every field have been included in detail in detail.
 
-සුහුරු පාලනය අනිවාර්ය අංගයක් බවට පත්වන උසස් තාක්ෂණික ප්‍රවේශයක් සමගින් ශක්තිමත් පරිපාලන පද්ධතියක් රාජ්‍ය පරිපාලනය ශක්තිමත් කිරීම සඳහා යෝජනා කර තිබේ.
+Under the Educational Plan, therefore, proposes to establish a strong, dynamic and innovative education system, focusing on congenital Sri Lankan values.
+
+A group of active management and technology based health care policies ensuring international health care for the health service is proposed.
+
+A strong administrative system has been proposed to strengthen the public administration with an advanced technical approach that becomes a compulsory component.
 
 ...
 
 [Data](articles/5cee3886.json)
+
+[Extended Data](ext_articles/5cee3886.ext.json)
 
 ---
 
@@ -2227,27 +2253,5 @@ These twins are eager to join the army. Can they join the military?Or not?We hav
 [Data](articles/1b70966b.json)
 
 [Extended Data](ext_articles/1b70966b.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 304.45/75 to US dollar
-
-*2024-07-05 16:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-304-45-75-to-us-dollar-171084/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed slightly stronger at 304.45/75 to the US dollar on Friday, down from 304.60/80 to the US dollar on Thursday, dealers said, while bond yields were unchanged.
-
-A bond maturing on 15.12.2026 closed stable at 10.70/85 percent.
-
-A bond maturing on 15.03.2028 closed stable at 11.80/90 percent.
-
-A bond maturing on 15.09.2029 closed stable at 11.95/12.05 percent.
-
-A bond maturing on 01.12.2031 closed at 12.15/30 percent. (Colombo/Jul5/2024)
-
-◼️
-
-[Data](articles/aa4e7655.json)
-
-[Extended Data](ext_articles/aa4e7655.ext.json)
 
 ---

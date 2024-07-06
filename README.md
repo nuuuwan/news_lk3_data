@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 09:05:38**
+As of **2024-07-06 09:19:41**
 
 ## Newspaper Stats
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 5,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,914 (100.0%) of 33,916 articles have been extended.
+33,916 (100.0%) of 33,916 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### காணாமல் போன பெண் பாழடைந்த கிணற்றுக்குள் சடலமாக மீட்பு
+### Missing woman recovered in a dilapidated well
 
 *2024-07-06 08:51:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/காணாமல்-போன-பெண்-பாழடைந்த-கிணற்றுக்குள்-சடலமாக-மீட்பு/75-339937) · `ta`
 
-மூதூர் பொலிஸ் பிரிவுக்குட்பட்ட கிளிவெட்டி கிராமத்தில் உள்ள பாழடைந்த கிணற்றில் இருந்து, காணாமல் போயிருந்ததாக முறைப்பாடு செய்யப்பட்டிருந்த, நடேஸ்குமார் வினோதினி என்ற 25 வயதான பெண்ணினுடையது என சந்தேகிக்கப்படும் சடலமும், அவரது கைப்பையும் நேற்று(5) பொலிஸாரால் மீட்கப்பட்டுள்ளது.
+A 25-year-old woman, Nadeskumar Vinodhini, missing since July 1, was found dead in a well in the Muttur police division. The recovery was made in the presence of a judge and a sudden death officer. Her husband and the boy she was engaged to are believed to be in hiding, possibly abroad. The magistrate has issued warrants for the arrest of several individuals involved in the incident.
 
-மூதூர் பொலிஸ் நிலையத்தில் செய்யப்பட்டிருந்த முறைப்பாட்டிற்கு அமைய, பொலிஸார் சந்தேகத்திற்கிடமான கிணற்றை மூதூர் நீதிமன்ற நீதிபதி திருமதி எச்.எம் தஸ்னீம் பௌசான், திடீர் மரணவிசாரணை அதிகாரி உள்ளிட்டோர் முன்னிலையில் நேற்று(05)  தோண்டியபோதே, பெண்ணின் சடலம் மீட்கப்பட்டுள்ளது.
+🟩
 
-சேருவில பொலிஸ் பிரிவுக்குட்பட்ட தங்கநகர் பகுதியைச் சேர்ந்த, நடேஸ்குமார் வினோதினி என்ற திருமணமாகி ஒரு குழந்தைக்கு தாயான, கணவரால் கைவிடப்பட்டிருந்த 25 வயதான பெண் காணாமல் போயிருந்தமை தொடர்பில், அவரது குடும்பத்தினரால்  மூதூர் பொலிஸ் நிலையத்தில் யூலை மாதம் 1ஆம் திகதி முறைப்பாடு செய்யப்பட்டிருந்தது.
+The body and her handbag of Nadeskumar Vinodhini, a 25 -year -old woman, who had been reported missing from a dilapidated well in the Muttur police division, was recovered by police yesterday (5).
 
-...
+The body of the woman was recovered yesterday (05) in the presence of Muttur Court Judge HM Dasneem Fausan and Sudden Death Officer.
+
+Nadeskumar Vinodhini, a mother of a child, who was married to a child from the Thanganagar area of ​​the Saruwila police division, was lodged at the Muttur police station on July 1 at the Muttur police station.
+
+The girl's boyfriend is currently in hiding. It is said that he may have fled abroad. At the same time, his family is also known to be hiding.
+
+The Muttur Magistrate has ordered the arrest of the land owner in the well where the body is currently found, the driver of the heavy driver who helped to cover the body of the well, and the man who closed it in the well. Remble
+
+◼️
 
 [Data](articles/421fc2b0.json)
+
+[Extended Data](ext_articles/421fc2b0.ext.json)
 
 ---
 
@@ -63,6 +73,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/82cc094f.json)
+
+[Extended Data](ext_articles/82cc094f.ext.json)
 
 ---
 

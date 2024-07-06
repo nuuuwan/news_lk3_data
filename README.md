@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 13:04:54**
+As of **2024-07-06 13:19:33**
 
 ## Newspaper Stats
 
-*Scraped **33,930** Articles*
+*Scraped **33,932** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 1,897
 economynextcom | 2,000
 dailyftlk | 2,115
 adalk | 3,028
-adaderanalk | 3,882
+adaderanalk | 3,883
 tamilmirrorlk | 4,017
 dailymirrorlk | 4,733
 virakesarilk | 5,317
-adaderanasinhalalk | 5,625
+adaderanasinhalalk | 5,626
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,930 (100.0%) of 33,930 articles have been extended.
+33,930 (100.0%) of 33,932 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### Reformist Pezeshkian wins Iran’s presidential runoff, besting hard-liner Jalili
+
+*2024-07-06 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100332/reformist-pezeshkian-wins-irans-presidential-runoff-besting-hard-liner-jalili) · `en`
+
+Reformist candidate Masoud Pezeshkian won Iran’s runoff presidential election Saturday, besting hard-liner Saeed Jalili by promising to reach out to the West and ease enforcement on the country’s mandatory headscarf law after years of sanctions and protests squeezing the Islamic Republic.
+
+Pezeshkian promised no radical changes to Iran’s Shiite theocracy in his campaign and long has held Supreme Leader Ayatollah Ali Khamenei as the final arbiter of all matters of state in the country. But even Pezeshkian’s modest aims will be challenged by an Iranian government still largely held by hard-liners, the ongoing Israel-Hamas war in the Gaza Strip, and Western fears over Tehran enriching uranium to near-weapons-grade levels.
+
+A vote count offered by authorities put Pezeshkian as the winner with 16.3 million votes to Jalili’s 13.5 million in Friday’s election. Overall, Iran’s Interior Ministry said 30 million people voted in an election held without internationally recognized monitors.
+
+...
+
+[Data](articles/b4006b37.json)
+
+---
+
+### ශ්‍රී ලාංකීක දෙමළ සම්භවයක් සහිත මන්ත්‍රීවරියක් බ්‍රිතාන්‍ය පාර්ලිමේන්තුවට
+
+*2024-07-06 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198534) · `si`
+
+මෙවර මැතිවරණයෙන් බ්‍රිතාන්‍ය ඉතිහාසයේ පළමුවරට ශ්‍රී ලාංකීක දෙමළ සම්භවයක් සහිත මන්ත්‍රීවරියක් පාර්ලිමේන්තුවට තේරී පත්වී තිබේ.
+
+කම්කරු පක්ෂය නියෝජනය කරමින් පාර්ලිමේන්තුවට පත්වූ උමා කුමරන් නම් ඇය සිවිල් යුද සමයේදී සරණාගතයින් ලෙස බ්‍රිතාන්‍යට පළාගිය දෙමළ ජාතික යුවළක දාව නැගෙනහිර ලන්ඩනයේදී උපත ලබා තිබේ.
+
+මේ අතර, ඓතිහාසික ජයක් වාර්තා කරමින් බ්‍රිතාන්‍යයේ 58වැනි අගමැති ධුරයට පත් කියර් ස්ටාමර් නව කැබිනට් මණ්ඩලය ප්‍රකාශයට පත්කර ඇත.
+
+ඒ අතරට කාන්තාවන් 11 දෙනෙකුද අයත් වන අතර කැබිනට් මණ්ඩලයේ ඉහළම ධුර ද්විත්වයක් වන උප අගමැති ධුරය සහ පාර්ලිමේන්තුවේ චාන්ස්ලර් ධුරයද හිමිව ඇත්තේ කාන්තාවන් දෙදෙනෙකුට වීම විශේෂත්වයකි.
+
+ඒ අනුව, 2015 වසරේදී කම්කරු පක්ෂයෙන් පාර්ලිමේන්තුවට තේරීපත්වූ ඇන්ජේලා රේනර් හට බ්‍රිතාන්‍ය උප අගමැති ධුරය හිමි විය.
+
+රේචල් රීව්ස්හට පාර්ලිමේන්තුවේ චාන්ස්ලර් ධුරය හිමිවූ අතර ඇය වාර්තා අතරට එක්වන්නේ එම ධුරයට පත් පළමු කාන්තාව ලෙසය.
+
+2000 වසරේදී බ්‍රිතාන්‍ය පාර්ලිමේන්තුවට තේරී පත්වූ ලාබාලතම පුද්ගලයා ලෙස වාර්තා අතරට එක්වූ ඩේවිඩ් ලැමී විදෙස් කටයුතු ලේකම්වරයා ලෙස පත්වී තිබේ.
+
+◼️
+
+[Data](articles/aab9645a.json)
+
+---
 
 ### 9 injured in bus accident in Halpe
 
@@ -2161,53 +2201,5 @@ He has been taken to his residence in Trincomalee and is currently being held fo
 [Data](articles/771ad956.json)
 
 [Extended Data](ext_articles/771ad956.ext.json)
-
----
-
-### Sri Lanka invites Israel farmers to visit island and recruit workers
-
-*2024-07-05 15:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-invites-israel-farmers-to-visit-island-and-recruit-workers-171050/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Labour and Foreign Employment Minister says he discussed with the visiting Israeli ambassador the matter of farmers coming to Sri Lanka to vet and recruit workers for its agriculture sector.
-
-“There have been issues with the first batch of workers sent to Israel to work in its agriculture sector,” Manusha Nanayakkara said on Meta (Facebook).
-
-Nanayakkara met the Ambassador of Israel to India, Sri Lanka, and Bhutan Naor Gilon on Thursday to discuss the issues, he said.
-
-“There have been concerns about the behaviour of the Sri Lankan workers sent to Israel in the first batch. They have faced some issues regarding payments and lodging. But instead of discussing these problems, they have adopted trade union like actions and protested.
-
-“This has damaged the perceptions Israel farmers have about Sri Lankan workers and their productivity was questioned. Now they don’t want to hire Sri Lankans.”
-
-...
-
-[Data](articles/8ace7beb.json)
-
-[Extended Data](ext_articles/8ace7beb.ext.json)
-
----
-
-### The restructuring of the loan is over
-
-*2024-07-05 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198512) · `si`
-
-The loan restructuring process has concluded successfully, with approval from the International Monetary Fund and the Official Borrower. Central Bank Governor Dr. Nandalal Weerasinghe announced this during a press conference, highlighting the government's agreement on Sovereign Bonds. The restructuring involves approximately 14 billion loans, with negotiations spanning several rounds. The plan aims to fully repay this debt within the next decade.
-
-🟩
-
-Central Bank Governor Dr. Nandalal Weerasinghe says that the agreement between the Government and Sovereign Bonds are approved by the International Monetary Fund and the Official Borrower.
-
-He was speaking at the press conference today (05) at the Government Information Department today to inform the restructuring of credit.
-
-Minister Dr. Bandula Gunawardena was also present at the media discussion.
-
-Speaking further Mr. Dr. Nandalal Weerasinghe,
-
-"There are about 14 billion loans taken from sovereign bonds. There were several rounds of discussions with those who granted the loans of 12.5 of one. We were able to visit a place where we could agree to both kind of kind.. That statement was issued yesterday. Once possible, you can complete that OCC records and the judgment of the IMF as soon as possible. This debt is fully achieved over the next 10 years of the next 10 years. "
-
-◼️
-
-[Data](articles/99cc66c8.json)
-
-[Extended Data](ext_articles/99cc66c8.ext.json)
 
 ---

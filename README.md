@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 20:04:54**
+As of **2024-07-06 20:19:44**
 
 ## Newspaper Stats
 
-*Scraped **33,960** Articles*
+*Scraped **33,961** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,002
 dailyftlk | 2,115
 adalk | 3,031
 adaderanalk | 3,886
-tamilmirrorlk | 4,018
+tamilmirrorlk | 4,019
 dailymirrorlk | 4,733
 virakesarilk | 5,323
 adaderanasinhalalk | 5,638
@@ -26,27 +26,49 @@ adaderanasinhalalk | 5,638
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,959 (100.0%) of 33,960 articles have been extended.
+33,960 (100.0%) of 33,961 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### සඳුදා වැඩවර්ජනයක්
+### இவ்வருடம் சம்பள அதிகரிப்பு இல்லை - ஜனாதிபதி
+
+*2024-07-06 19:50:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவ்வருடம்-சம்பள-அதிகரிப்பு-இல்லை-ஜனாதிபதி/175-339941) · `ta`
+
+அரசாங்க துறையில் மீண்டும் இவ்வருடம் சம்பளத்தை அதிகரிக்க முடியாது என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார்.
+
+இந்த வருடம் தேர்தல் காலம் நெருங்கி வருவதால் அதனை செய்ய முடியாது என ஜனாதிபதி குறிப்பிட்டுள்ளார்.
+
+மேலும் கருத்து தெரிவித்த ஜனாதிபதி, அடுத்த வருட வரவு செலவுத்திட்டத்தின் ஊடாகவே சம்பளத்தை அதிகரிக்க முடியும் என சுட்டிக்காட்டினார்.R
+
+◼️
+
+[Data](articles/134cd493.json)
+
+---
+
+### Monday strike
 
 *2024-07-06 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198548) · `si`
 
-රාජ්‍ය මෙන්ම අර්ධ රාජ්‍ය වෘත්තීය සංගම් රැසක් එක්වී එළඹෙන සඳුදා (08) සහ අඟහරුවාදා (09) දෙදින දීප ව්‍යාප්ත වැඩ වර්ජනයක නියැලීමට තීරණය කර තිබේ.
+On Monday and Tuesday, numerous state and semi-government trade unions went on strike, including the Public Service Trade Union Alliance and the Ceylon Teachers Unions. The Government Medical Officers Association also expressed opposition to any plans to privatize Sri Lanka's health sector.
 
-රාජ්‍ය සේවා වෘත්තීය සමිති සන්ධානය, ඒකාබද්ධ සෞඛ්‍ය සේවක සංගමය, ලංකා ගුරු සංගමය හා ලංකා ගුරු සේවා සංගමය ඇතුළු වෘත්තීය සංගම් රැසක් එම වැඩ වර්ජනයේ නිරතවන බව වාර්තා වෙයි.
+🟩
 
-මේ අතර රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ නව නිලධාරී මණ්ඩලයේ සාමාජිකයින් කිහිපදෙනෙක් අද මහානායක හිමිවරුන් බැහැදැක තිබුණි.
+A large number of state and semi-government trade unions have been joined in a wide strike on Monday (08) and Tuesday (09).
 
-එහිදී රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ නව ලේකම් වෛද්‍ය ප්‍රභා සුගතදාස මහතා සඳහන් කර සිටියේ මෙරට සෞඛ්‍ය ක්ෂේත්‍රය පෞද්ගලීකරණය කිරීමේ යම් අරමුණු තිබේදැයි සැක පවතින බවය.
+It is reported that many trade unions including the Public Service Trade Union Alliance, the Joint Health Employees Union, Ceylon Teachers Union and the Ceylon Teachers 'Service Union and the Ceylon Teachers' Service Union have participated.
+
+Meanwhile, several members of the new staff of the Government Medical Officers Association visited the Mahanayaka Thera today.
+
+The Secretary of the Government Medical Officers' Association Dr. Prabha Sugathadasa said that there were any objectives to privatize the health sector in Sri Lanka.
 
 ◼️
 
 [Data](articles/53a6978f.json)
+
+[Extended Data](ext_articles/53a6978f.ext.json)
 
 ---
 
@@ -2227,27 +2249,5 @@ And we were able to get 4 years of relief for the payment of loans and to receiv
 [Data](articles/31893910.json)
 
 [Extended Data](ext_articles/31893910.ext.json)
-
----
-
-### 2024 World Arted Intelligence Technological Summit in Shanhai
-
-*2024-07-05 18:47:10* · [`adalk`](https://www.ada.lk/technology/2024-ලෝක-කෘත්‍රිම-බුද්ධි-තාක්ෂණ-සමුළුව-චීනයේ-ශැංහයි-නුවර-දී/5-410628) · `si`
-
-The 2024 World Artel Intelligence Summit in Shanghai highlighted AI's global impact. Chinese PM Lee Chang stressed the importance of international cooperation for AI development, promising China's support for global progress. Notable attendees included Brazil's Supreme Court Chairman Liyis Roberto Barroso and former President Dilma Rousseff, among 1,000 participants.
-
-🟩
-
-2024 World Artal Intelligence Conference and Accreditation Conference on Global Administration of Artificial Intelligence. The conferences began in Shanghai in Shanghai yesterday.
-
-Chinese Prime Minister Lee Chang, Mr. Lee Charing, emphasized that it is necessary to provide opportunities for various countries for the development of artificial intelligence technology. He added that China is ready to expand and ensure global development and welfare of the people through that collaboration.
-
-The Brazil's Supreme Court Chairman Liyis Roberto Barroso and the Supreme Development Banking Governor Dilma Rousseff and other 1,000 distinguished people participated in the conference.
-
-◼️
-
-[Data](articles/da83d39b.json)
-
-[Extended Data](ext_articles/da83d39b.ext.json)
 
 ---

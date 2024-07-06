@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 18:24:01**
+As of **2024-07-06 18:35:31**
 
 ## Newspaper Stats
 
-*Scraped **33,955** Articles*
+*Scraped **33,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,885
 tamilmirrorlk | 4,018
 dailymirrorlk | 4,733
 virakesarilk | 5,323
-adaderanasinhalalk | 5,635
+adaderanasinhalalk | 5,636
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,955 (100.0%) of 33,955 articles have been extended.
+33,955 (100.0%) of 33,956 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### ශ්‍රී ලාංකිකයන් පිරිසක් එක්සත් අරාබි එමීර් රාජ්‍යයෙන් පිටුවහල් කරයි
+
+*2024-07-06 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198546) · `si`
+
+එක්සත් අරාබි එමීර් රාජ්‍ය තුළ සයිබර් අපරාධවල නියැලීම හේතුවෙන් එරටින් පිටුවහල් කල ශ්‍රී ලාංකිකයින් 11 දෙනෙකු දිවයිනට පැමිණ තිබේ.
+
+අද (06) උදෑසන ඔවුන් දිවයිනට පැමිණි බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය පැවසීය.
+
+පසුගිය ජූලි 01 වනදා කලීජ් ටයිම්ස් පුවත්පතේ පළවූ ලිපියක් මගින් එක්සත් අරාබි එමීර් රාජ්‍යයේ සයිබර් අපරාධවල නිරත වූ දකුණු ආසියාතිකයන් සහ අප්‍රිකානුවන් සිය ගණනක් එරට පොලීසිය මගින් අත්අඩංගුවට ගෙන ඇති බව සඳහන් කර තිබුණි.
+
+ඒ අනුව එරට ශ්‍රී ලංකා තානාපති කාර්යාලය මගින් සිදුකළ සොයා බැලීමේදී ශ්‍රී ලාංකිකයන් 37 දෙනෙකු ද සයිබර් ජාවාරමේ සහ ගණිකා ජාවාරමේ නිරත වීම ඇතුළු විවිධ චෝදනා මත පොලිස් අත්අඩංගුවට ගෙන තිබූ බව වාර්තා විය.
+
+ඉදිරි පොලිස් විමර්ශන කටයුතු අවසන් වීමෙන් පසු අනෙකුත් ශ්‍රී ලාංකික පිරිසද සති දෙකක් තුළ මෙරටට පිටුවහල් කිරීමට කටයුතු කරන බව තානාපති කාර්යාලය වැඩිදුරටත් සඳහන් කරයි.
+
+මෙම පිරිස දිවයිනට පැමිණීමෙන් පසු ඉදිරි විමර්ශන කටයුතු ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය විසින් සිදු කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/ae49a301.json)
+
+---
 
 ### No salary increase this year - President
 
@@ -2237,31 +2259,5 @@ The Department of Examinations has informed the issuance of the subject for the 
 [Data](articles/80d35de7.json)
 
 [Extended Data](ext_articles/80d35de7.ext.json)
-
----
-
-### Yall. Chavakachcheri Hospital affair;Former city council member Kishore arrested
-
-*2024-07-05 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/187772) · `ta`
-
-Chavakachcheri Hospital saw protests over doctor-patient welfare issues, leading to arrests including former council member Kishore. Doctors' strike forced patient transfers, prompting public intervention and negotiations.
-
-🟩
-
-The Chavakachcheri police have been arrested by the Chavakachcheri police for allegedly attempting to mobilize people in front of the Chavakachcheri Hospital on Friday (05).
-
-Following the appointment of a new Medical Superintendent to the Chavakachcheri Resource Hospital recently, he had taken some action in the welfare of patients in some hospitals.
-
-As a result, there were contradictions between the hospital superintendent and the doctors working in the hospital.
-
-The doctors working at the Chavakachcheri Resource Hospital have been engaged in a trade union protest since Thursday.. As a result, all the patients who go to the hospital today are being sent back.
-
-Thus, the public organizations, welfare and civilians of the Thenmarachchi, who had come to the Hospital in the early hours of this morning, met with the Provincial Health Director who had visited the hospital today and would immediately initiate treatment for patients to resolve administrative problems.
-
-...
-
-[Data](articles/86f56688.json)
-
-[Extended Data](ext_articles/86f56688.ext.json)
 
 ---

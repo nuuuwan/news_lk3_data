@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 01:04:44**
+As of **2024-07-07 01:19:38**
 
 ## Newspaper Stats
 
-*Scraped **33,970** Articles*
+*Scraped **33,971** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,003
 dailyftlk | 2,115
 adalk | 3,031
 adaderanalk | 3,888
-tamilmirrorlk | 4,022
+tamilmirrorlk | 4,023
 dailymirrorlk | 4,733
 virakesarilk | 5,323
 adaderanasinhalalk | 5,641
@@ -26,9 +26,27 @@ adaderanasinhalalk | 5,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,970 (100.0%) of 33,970 articles have been extended.
+33,970 (100.0%) of 33,971 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-07-07 (Sunday)
+
+### ’சர்வதேச ஆய்வுக் கப்பல்களுக்கு தடையில்லை’
+
+*2024-07-07 01:00:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-ஆய்வுக்-கப்பல்களுக்கு-தடையில்லை/175-339957) · `ta`
+
+இலங்கை கடற்பரப்பில் அடுத்த ஆண்டில் இருந்து சர்வதேச ஆய்வுக் கப்பல்களுக்கு தடைவிதிக்கப்படமாட்டாது என வெளிவிவகார அமைச்சர் அலி சப்ரி தெரிவித்துள்ளார்.
+
+சீன ஆய்வுக் கப்பல் நாட்டின் கடற்பரப்பிற்குள் நுழைய அனுமதி வழங்கப்படாமை தொடர்பில் கருத்து வெளியிட்ட போதே அவர் மேற்கண்டவாறு கூறியுள்ளார்.
+
+இதனிடையே, சோனார் தொழிநுட்பத்துடனான கப்பலொன்றை இலங்கைக்கு வழங்கியமை தொடர்பில் வெளியுறவு அமைச்சர் ஜப்பான் அரசாங்கத்திற்கு நன்றி தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/1b234b43.json)
+
+---
 
 ### 2024-07-06 (Saturday)
 
@@ -2233,27 +2251,5 @@ The Foreign Minister is also scheduled to take part in the Reuters NEXT Asia-Pac
 [Data](articles/139eb86f.json)
 
 [Extended Data](ext_articles/139eb86f.ext.json)
-
----
-
-### President says he notified Election Chief that poll must be held on scheduled date
-
-*2024-07-05 21:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100322/president-says-he-notified-election-chief-that-poll-must-be-held-on-scheduled-date) · `en`
-
-President Ranil Wickremesinghe has informed the Chief Prelate of Ramanna Maha Nikaya, Most Ven. Makulewe Wimala Nayaka Thero that he had notified the Election Commissioner on the need to hold the Presidential Election on the scheduled date.
-
-“I have officially notified the Election Commissioner that the election should proceed as scheduled,” he was quoted as saying by the President’s Media Division.
-
-Wickremesinghe also told the Chief Prelate that back in 2015, he had proposed reducing the President’s term in office from 6 years to 5 years.
-
-The President visited the Sri Lanka Ramanna Maha Nikaya headquarters this afternoon (05) in Alvitigala Mawatha, Narahenpita. There, he had a brief discussion with the Chief Prelate of the Ramanna Maha Nikaya, Most Ven. Makulewe Wimala Nayaka Thero, the PMD said.
-
-During the visit, Most Venerable Makulewe Wimala Thero chanted ‘Seth Pirith’, bestowed his blessings upon President Ranil Wickremesinghe and presented him with a commemorative gift.
-
-...
-
-[Data](articles/1ef8d1ee.json)
-
-[Extended Data](ext_articles/1ef8d1ee.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 20:53:52**
+As of **2024-07-06 21:04:39**
 
 ## Newspaper Stats
 
-*Scraped **33,962** Articles*
+*Scraped **33,963** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 3,886
 tamilmirrorlk | 4,019
 dailymirrorlk | 4,733
 virakesarilk | 5,323
-adaderanasinhalalk | 5,639
+adaderanasinhalalk | 5,640
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,962 (100.0%) of 33,962 articles have been extended.
+33,962 (100.0%) of 33,963 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### ඉරානයේ 9වන ජනාධිපතිවරයා මසූඩ්
+
+*2024-07-06 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198550) · `si`
+
+ඉරානයේ 9වන ජනාධිපතිවරයා ලෙස මධ්‍යස්ථ මතදාරී මසූඩ් පෙසෙෂ්කියන් තේරී පත්වී තිබේ.
+
+ඒ ඉරාන අධ්‍යාත්මික නායක අයතුල්ලා අල් කමේනිගේ පවා ප්‍රසාදය හිමිකරගත් සයිඩ් ජලීලි පරාජයට පත් කරමිනි.
+
+ඉරාන ජනාධිපතිවරණය 2025 ජුනි මාසයේදී පැවැත්වීමට නියමිතව පැවතියත් හදිසි ජනාධිපතිවරණයක් කැඳවීමට සිදුවුණේ හිටපු ජනාධිපති ඊබ්‍රාහිම් රයිසිගේ හදිසි මරණයත් සමගය.
+
+පසුගිය මැයි 28 වනදා ජනාධිපතිවරණය පැවතියත් එහිදී කිසිවෙකුටවත් සියයට 50 ඉක්මවූ ඡන්ද ප්‍රතිශතයක් දිනා ගැනීමට අපොහොසත් වීමෙන් දෙවැනි මත විමසුමක් සඳහා යොමුවීමට සිදුවිය.
+
+ඒ අනුව ඊයේ පැවති ඡන්ද විමසීමෙන් මනාප මිලියන 16.5ක් දිනා ගනිමින් ජනාධිපතිවරණ සටන ජය ගැනීමට 71ක් හැවිරිදි විශේෂඥ වෛද්‍යවරයෙකු වන මධ්‍යස්ථ මතදාරී මසූඩ් පෙසෙෂ්කියන් සමත්වුණි.
+
+ඒ ඉරාන අධ්‍යාත්මික නායක අයතුල්ලා අල් කමේනිගේ පවා ප්‍රසාදයට ලක්වූ දැඩි ඉස්ලාමීය මතදාරී සයිඩ් ජලීලි මනාප මිලියන 13.5කට සීමා කරමිනි.
+
+ඉරානයේ ටැබ්‍රිස් නගරය නියෝජනය කරමින් 2008 වසරේදී ඉරාන පාර්ලිමේන්තුවට තේරී පත්වූ මසූඩ් පෙසෙෂ්කියන් මොහොමඩ් කටාමි පාලනයේ ඉරාන සෞඛ්‍ය අමාත්‍යවරයා ලෙස කටයුතු කළේය.
+
+...
+
+[Data](articles/e9e315fd.json)
+
+---
 
 ### Indian team defeated
 
@@ -2237,23 +2261,5 @@ The Great Britain colonized Sri Lanka for 150 years and built most of the island
 [Data](articles/d3d15011.json)
 
 [Extended Data](ext_articles/d3d15011.ext.json)
-
----
-
-### Qatar Airways to increase Colombo-Doha flight frequency
-
-*2024-07-05 19:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100321/qatar-airways-to-increase-colombo-doha-flight-frequency-) · `en`
-
-Qatar Airways will be increasing its Sri Lanka-Doha flights from the current five-daily flights schedule to six-daily flights, starting 10 July 2024.
-
-"The increase in flights further demonstrate the award-winning airline’s dedication to providing more choices and better connectivity for all passengers flying to and from Sri Lanka", a statement added.
-
-The additional flights will be served by the Boeing 787 aircraft, featuring 30 Business Class seats and 281 Economy Class seats. With this network enhancement, Qatar Airways will operate a total of 42 weekly flights to and from Sri Lanka, connecting passengers to nearly 170 global destinations worldwide.
-
-...
-
-[Data](articles/f3fd2503.json)
-
-[Extended Data](ext_articles/f3fd2503.ext.json)
 
 ---

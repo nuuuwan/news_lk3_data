@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 17:35:18**
+As of **2024-07-06 17:55:39**
 
 ## Newspaper Stats
 
-*Scraped **33,954** Articles*
+*Scraped **33,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,55 @@ adaderanalk | 3,885
 tamilmirrorlk | 4,018
 dailymirrorlk | 4,733
 virakesarilk | 5,323
-adaderanasinhalalk | 5,634
+adaderanasinhalalk | 5,635
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,953 (100.0%) of 33,954 articles have been extended.
+33,954 (100.0%) of 33,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### කලු ගල් සමග ටිපර් රථයක් ගිය තැන
+### මේ වසරේ වැටුප් වැඩි කරන්න බැහැ - ජනපති
+
+*2024-07-06 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198545) · `si`
+
+රාජ්‍ය අංශයේ යළි වැටුප් වැඩි කිරීමක් මේ වසරේ සිදු කළ නොහැකි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+මෙම වර්ෂයේ මැතිවරණ කාලසීමාවක් එළඹෙන බැවින් එය සිදුකළ නොහැකි බව ජනපතිවරයා සඳහන් කළේය.
+
+ජනාධිපතිවරයා මේ බව කියා සිටියේ, ඌව පළාත් ප්‍රජා පොලිස් කමිටු සාමාජිකයන් බල ගැන්වීමේ උත්සවයට අද (06) වැල්ලවායේදී එක්වෙමිනි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපතිවරයා සඳහන් කළේ වැටුප් වැඩි කළ හැක්කේ ලබන වසරේ අයවැය හරහා බවය.
+
+◼️
+
+[Data](articles/061c1b9e.json)
+
+---
+
+### Where a tipper went with black stones
 
 *2024-07-06 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198544) · `si`
 
-පාදුක්ක මීපේ සිට කොළඹ වරාය බලා කලු ගල් ප්‍රවාහනය කරමින් තිබූ ටිපර් රථයක් අද (06) හංවැල්ල ඇඹුල්ගම මංසන්ධිය ආසන්නයේදී අනතුරකට මුහුණදී තිබේ.
+A tipper carrying black stones from Padukka Meepe to Colombo Harbor overturned near the Kelani River after breaking a bridge's fence. The incident occurred near Hanwella Junction on 06/xx/xxxx, but the driver was unhurt.
 
-අදාළ ටිපර් රථය පාලමක ආරක්ෂිත වැට කඩාගෙන කැලණි ගගේ අතු ඇලක් අසලට පෙරළී මෙම අනතුර සිදුවී ඇත.
+🟩
 
-අනතුරින් ටිපර් රථයේ ගමන් කළ රියදුරාට කිසිදු හානියක් සිදුවී නොමැත.
+A tipper transporting black stones from the Padukka Meepe to Colombo Harbor has been trained near the Ekunggama Junction today (06) at Hanwella Junction.
+
+The accident had taken place after the tipper broke the safe fence of a bridge and rolled near the Kelani River.
+
+The driver of the tipper in the accident has not been harmed.
 
 ◼️
 
 [Data](articles/dab91bc4.json)
+
+[Extended Data](ext_articles/dab91bc4.ext.json)
 
 ---
 
@@ -2229,27 +2253,5 @@ Thus, the public organizations, welfare and civilians of the Thenmarachchi, who 
 [Data](articles/86f56688.json)
 
 [Extended Data](ext_articles/86f56688.ext.json)
-
----
-
-### Sri Lanka foreign reserves rise to $5642mn June after IMF loan
-
-*2024-07-05 17:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-reserves-rise-to-5642mn-june-after-imf-loan-171100/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s forex reserves rose 221 million dollars to 5,642 million US dollars in June 2024 from a month earlier.
-
-In June the International Monetary Fund approved a review making available about 336 million dollars to Sri Lanka.
-
-There has been some volatility in the exchange rate in after earlier excess liquidity from dollar purchases.
-
-Sri Lanka operates a so-called flexible exchange rate, which is neither a clean float nor a hard peg and has anchor conflicts.
-
-Sri Lanka has a foreign reserve target set by the International Monetary Fund which requires reserve collection (a type of strong side pegging which has the same effect as a surrender rule on the exchange rate), but intervention in the other direction (weak side) is discouraged.
-
-...
-
-[Data](articles/dad66ac3.json)
-
-[Extended Data](ext_articles/dad66ac3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 17:05:00**
+As of **2024-07-06 17:19:49**
 
 ## Newspaper Stats
 
-*Scraped **33,952** Articles*
+*Scraped **33,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,885
 tamilmirrorlk | 4,018
 dailymirrorlk | 4,733
 virakesarilk | 5,323
-adaderanasinhalalk | 5,632
+adaderanasinhalalk | 5,633
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,952 (100.0%) of 33,952 articles have been extended.
+33,952 (100.0%) of 33,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### ඉම්රාන් ඛාන් උපවාසයකට සැරසෙයි
+
+*2024-07-06 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198543) · `si`
+
+පාකිස්තාන PTI දේශපාලන පක්ෂයට අදාළ නඩු විභාග කරන විනිසුරු මඩුල්ලෙන් ඉවත් වන ලෙස එම පක්ෂය පාකිස්තානයේ අගවිනිසුරු කාසි ෆාස් ඊසාගෙන් ඉල්ලා ඇති බව එරට මාධ්‍ය වාර්තා කරයි.
+
+PTI යනු පාකිස්තානයේ හිටපු අග්‍රාමාත්‍ය, දැනට සිරගත කර සිටින ඉම්රාන් ඛාන්ගේ පක්ෂයයි.
+
+එමෙන්ම තමන්ට යුක්තිය පසඳලීමට කටයුතු නොකළහොත් අඛණ්ඩ උපවාසයක් කිරීමට තමන් සූදානම් බවද ඉම්රාන් ඛාන් පවසා තිබේ.
+
+නඩුවකට අදාළව අධිකරණ කටයුතුවලට සහභාගී වීමෙන් පසු මාධ්‍යවේදීන් අමතමින් හිටපු පාකිස්තාන අගමැති ඉම්රාන් ඛාන් කියා සිටියේ නීතිය ඉදිරියේ සියලු පුරවැසියන් සමාන බවය.
+
+◼️
+
+[Data](articles/3a03c9d1.json)
+
+---
 
 ### The latest group looking for the President
 
@@ -2235,29 +2253,5 @@ This takes place some unpleasant events in the house. Shocked by this, Varsha wa
 [Data](articles/17dd62a0.json)
 
 [Extended Data](ext_articles/17dd62a0.ext.json)
-
----
-
-### Firing on the person who tried to escape
-
-*2024-07-05 17:08:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தப்பிச்-செல்ல-முற்பட்ட-நபர்-மீது-துப்பாக்கிச்-சூடு/175-339915) · `ta`
-
-During a drug raid in Piliyandala, a man attempted to flee in his car after crashing into police. He was shot and taken to the hospital, where he was arrested. The incident occurred when police arrived to apprehend a known drug dealer based on a tip-off.
-
-🟩
-
-The police have fired a man who tried to escape into a motor vehicle after colliding with a three -wheeler who went to arrest a drug dealer.
-
-Police said he was arrested when he was admitted to the hospital after being injured in the footage of the man in the shooting.
-
-A group of Athurugiri police officers went to the Piliyandala area last night (04) to arrest a drug dealer.
-
-The police said that when the police officers tried to arrest them, the police said that they had received a report that a person had come there with a drug.
-
-◼️
-
-[Data](articles/46353398.json)
-
-[Extended Data](ext_articles/46353398.ext.json)
 
 ---

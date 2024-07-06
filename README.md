@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 11:19:41**
+As of **2024-07-06 11:35:08**
 
 ## Newspaper Stats
 
@@ -88,7 +88,7 @@ The Central Bank Governor further explained that comparing Sri Lanka is not a ri
 
 State Minister of Higher Education Dr. Suren Raghavan, urged non-academic staff across all universities to resume work promptly, emphasizing the importance of minimizing disruptions for the youth who are the future leaders of the nation.
 
-Speaking at the press briefing titled “Collective Path to a Stable Country” held at the Presidential Media Centre today (05), he committed to prioritizing the demands of university non-academic staff, including addressing overtime allowances for April.
+Speaking at the press briefing titled “Collective Path to a Stable Country” held at the Presidential Media Centre yesterday (05), he committed to prioritizing the demands of university non-academic staff, including addressing overtime allowances for April.
 
 These concerns will be forwarded to the Udaya Seneviratne Committee and proposed for inclusion in the 2025 budget, he added.
 

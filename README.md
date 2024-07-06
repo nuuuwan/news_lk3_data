@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 15:19:50**
+As of **2024-07-06 15:34:55**
 
 ## Newspaper Stats
 
-*Scraped **33,942** Articles*
+*Scraped **33,944** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 2,002
 dailyftlk | 2,115
 adalk | 3,029
 adaderanalk | 3,883
-tamilmirrorlk | 4,017
+tamilmirrorlk | 4,018
 dailymirrorlk | 4,733
 virakesarilk | 5,322
-adaderanasinhalalk | 5,628
+adaderanasinhalalk | 5,629
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,942 (100.0%) of 33,942 articles have been extended.
+33,942 (100.0%) of 33,944 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### மாத்தறையில் குழந்தை இறந்த சம்பவம் - விசாரணைகள் ஆரம்பம்
+
+*2024-07-06 15:10:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தறையில்-குழந்தை-இறந்த-சம்பவம்-விசாரணைகள்-ஆரம்பம்/175-339940) · `ta`
+
+மாத்தறை - கொடவில பகுதியில் உள்ள வைத்தியசாலையொன்றில் சிகிச்சை மறுக்கப்பட்டதால் 2 மாதக் குழந்தை ஒன்று உயிரிழந்த சம்பவம் தொடர்பில் சுகாதார அமைச்சு விசாரணைகளை ஆரம்பித்துள்ளது.
+
+சுகாதார அமைச்சின் செயலாளரின் பணிப்புரைக்கு அமைய மாத்தறை மாவட்ட பொது வைத்தியசாலையினால் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.
+
+கடந்த 3ஆம் திகதி, மாத்தறை கொடவில பகுதியில் உள்ள வைத்தியசாலையில் மூச்சுத்திணறல் காரணமாகப் பாதிக்கப்பட்ட குழந்தைக்கு அவசரச் சிகிச்சைப் பிரிவில் அனுமதி மறுக்கப்பட்டதாகக் குற்றஞ்சாட்டப்படுகிறது.
+
+மேலும் வேறு வைத்தியசாலைக்கு செல்ல அம்பியூலன்ஸ் தர வைத்தியசாலை நிர்வாகம் மறுப்பு தெரிவித்துள்ளாகவும் குறிப்பிடப்படுகின்றது.
+
+இனால் சுமார் 10 கி.மீ பயணம் செய்து வேறு வைத்தியசாலை சென்றதாகவும், 30 நிமிடங்களுக்குமுன்பு குழந்தையை கொண்டுவந்திருந்தால் காப்பாற்றியிருக்கலாம் என அந்த வைத்தியசாலை வைத்தியர் கூறியதாகவும் பெற்றோர் தெரிவித்திருந்தனர். R
+
+◼️
+
+[Data](articles/6b60c0ac.json)
+
+---
+
+### සර්වජන බලය උපාය මාර්ගික වැඩපිළිවෙළේ පළමු කෙටුම්පත එළිදක්වයි
+
+*2024-07-06 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198538) · `si`
+
+සර්වජන බලය සන්ධානයේ උපාය මාර්ගික වැඩපිළිවෙළ යටතේ පළමු කෙටුම්පත ජනතාව හමුවේ එළිදැක්වීම අද (06) ශ්‍රී ජයවර්ධනපුර කෝට්ටේදී සිදුකෙරුණි.
+
+අවසන් සැලැස්ම එළිදැක්වීම සිදු කරන්නේ මේ සඳහා ජනතා අදහස් එක්කර ගැනීමෙන් පසුවය.
+
+සර්වජන බලය, උපාය මාර්ගික වැඩපිළිවෙළේ ජනතා සංවාදය උදෙසා ඉදිරිපත් කෙරෙන පළමු කෙටුම්පත එළිදැක්වීම මෙය වෙයි.
+
+මෙම අවස්ථාවට සර්වජන බලය නියෝජනය කරන සියලු දේශපාලන පක්ෂවල නායකයන් එක්විය.
+
+සෑම ක්ෂේත්‍රයකම ක්‍රියාත්මක කිරීමට යෝජිත සංශෝධන මෙම උපායාමර්ගික වැඩපිළිවෙළ තුළ විස්තරාත්මකව ඇතුළත් කර තිබේ.
+
+අධ්‍යාපන සැලැස්ම යටතේ සහජ ශ්‍රී ලාංකේය සාරධර්ම කෙරෙහි දැඩි අවධානයක් යොමු කරමින් ශක්තිමත්, ගතික සහ නව්‍ය අධ්‍යාපන ක්‍රමයක් ස්ථාපිත කිරීමට යෝජනා කර ඇත.
+
+සෞඛ්‍ය සේවාව වෙනුවෙන් ජාත්‍යන්තර මට්ටමේ සෞඛ්‍ය රැකවරණයක් සහතික කෙරෙන ක්‍රියාශීලී කළමනාකරණය හා තාක්ෂණය මත පදනම් වූ සෞඛ්‍ය ආරක්ෂණ ප්‍රතිපත්ති සමූහයක් යෝජිතය.
+
+සුහුරු පාලනය අනිවාර්ය අංගයක් බවට පත්වන උසස් තාක්ෂණික ප්‍රවේශයක් සමගින් ශක්තිමත් පරිපාලන පද්ධතියක් රාජ්‍ය පරිපාලනය ශක්තිමත් කිරීම සඳහා යෝජනා කර තිබේ.
+
+...
+
+[Data](articles/5cee3886.json)
+
+---
 
 ### Smart Classrooms and Deb at a cost of 300 billion for Southern Province School students!
 
@@ -2203,59 +2249,5 @@ A bond maturing on 01.12.2031 closed at 12.15/30 percent. (Colombo/Jul5/2024)
 [Data](articles/aa4e7655.json)
 
 [Extended Data](ext_articles/aa4e7655.ext.json)
-
----
-
-### Now, the resolving the problems of the people has begun - President
-
-*2024-07-05 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198516) · `si`
-
-In a bid to alleviate economic hardships, President Ranil Wickremesinghe announced a debt restructuring plan, securing $8 billion through a combination of bilateral loans ($5 billion), domestic contributions ($3 billion), and reduced interest payments. This initiative aims to provide relief to the populace, with specific projects like a trade zone in Bingiriya and improvements in agriculture and education planned for the Kurunegala district.
-
-🟩
-
-The President has relieved of $ 8 billion under the restructuring process of the debt.
-
-President Ranil Wickremesinghe added that the bilateral creditors of $ 5 billion, which has agreed to a loan of $ 3 billion in respect of the restructuring process.
-
-The President points out that the people of the country have been able to provide $ 8 billion to the people of the country.
-
-The President made these comments addressing the ceremony at the North Western Agency (05) of the 73,143 qualifications of the Kurunegala district.
-
-The President added that the Kurunegala district is widely developed under a new development plan with a new economy.
-
-"Now the resolving people's problems have been started. People gave up hope when the economy of the country crashed. Today I should thank the MPs in this area. They did not think about it, even if their home was burnt. They have been given relief to the people. "
-
-...
-
-[Data](articles/73170076.json)
-
-[Extended Data](ext_articles/73170076.ext.json)
-
----
-
-### Edappadi Palanisamy accuses Tamil Nadu BJP leader Annamalai
-
-*2024-07-05 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/187763) · `ta`
-
-Edappadi Palanisamy criticizes Tamil Nadu BJP leader Annamalai, claiming the BJP's growth post-Annamalai's arrival is untrue as its vote percentage is actually declining. He accuses Annamalai of criticizing AIADMK without understanding politics, citing his poor performance in the Coimbatore constituency and the BJP's stagnant vote share.
-
-🟩
-
-“It is only after the arrival of Annamalai that the BJP has grown up. That is not true. In fact, the BJP's vote percentage is declining, ”Edappadi Palanisamy has accused Tamil Nadu BJP leader Annamalai.
-
-Edappadi K.. Palanisamy said,
-
-“BJP state president Annamalai has made some criticism of the AIADMK. We have already clarified the boycott of the by -election for the AIADMK Vikravandi constituency. However, Annamalai has spoken to the AIADMK.
-
-If the AIADMK contested this election, the party would have come to three or fourth, he said. He is a mattress educated. The biggest political wise man. He is like that.
-
-The AIADMK candidate in the Villupuram Lok Sabha constituency won only six thousand votes. The AIADMK is second in the constituency. We have stated many reasons for the Vikravandi by -election.
-
-...
-
-[Data](articles/e442d076.json)
-
-[Extended Data](ext_articles/e442d076.ext.json)
 
 ---

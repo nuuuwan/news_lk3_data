@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 06:20:28**
+As of **2024-07-06 07:00:38**
 
 ## Newspaper Stats
 
-*Scraped **33,903** Articles*
+*Scraped **33,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,997
 dailyftlk | 2,115
 adalk | 3,028
 adaderanalk | 3,875
-tamilmirrorlk | 4,009
+tamilmirrorlk | 4,010
 dailymirrorlk | 4,733
 virakesarilk | 5,317
 adaderanasinhalalk | 5,616
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,895 (100.0%) of 33,903 articles have been extended.
+33,903 (100.0%) of 33,904 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Total Elevation Average declined by Rs. 23.11 in comparison to the previous mont
 
 [Data](articles/1ce1efee.json)
 
+[Extended Data](ext_articles/1ce1efee.ext.json)
+
 ---
 
 ### EDR success will lead to resumption of stalled energy projects: state minister
@@ -66,6 +68,8 @@ State Minister Indika Anuruddha conveyed these updates during a media briefing a
 
 [Data](articles/322f4e04.json)
 
+[Extended Data](ext_articles/322f4e04.ext.json)
+
 ---
 
 ### Stock market buoyed by ComBank’s successful debenture issue
@@ -81,6 +85,8 @@ Commenting on the oversubscription of the issue, Commercial Bank Managing Direct
 ...
 
 [Data](articles/922ec9fd.json)
+
+[Extended Data](ext_articles/922ec9fd.ext.json)
 
 ---
 
@@ -262,6 +268,8 @@ The limited-time only special rates enable passengers to save US$ 150 (Rs 45,750
 
 [Data](articles/245ee724.json)
 
+[Extended Data](ext_articles/245ee724.ext.json)
+
 ---
 
 ### Cinnamon Hotels & Resorts to present highest concentration of Asian elephants in one location
@@ -273,6 +281,8 @@ Cinnamon Hotels & Resorts introduces ‘The Gathering of Giants,’ an immersive
 ...
 
 [Data](articles/654a12de.json)
+
+[Extended Data](ext_articles/654a12de.ext.json)
 
 ---
 
@@ -343,6 +353,24 @@ The purpose of the said Orders is to promote moral and ethical conduct among jus
 [Data](articles/a060e206.json)
 
 [Extended Data](ext_articles/a060e206.ext.json)
+
+---
+
+### ’இலங்கைக்கு 8 பில்லியன் டொலர் நிவாரணம்’
+
+*2024-07-06 00:25:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-8-பில்லியன்-டொலர்-நிவாரணம்/175-339931) · `ta`
+
+கடன் மறுசீரமைப்புச் செயற்பாடுகளுடன் இணைந்ததாக இருதரப்புக் கடன் வழங்குநர்களிடமிருந்து 05 பில்லியன் டொலர் கடன் வட்டி நிவாரணம் கிடைக்க இருப்பதோடு வர்த்தகக் கடன் வழங்குநர்களின் இணக்கப்பாட்டின் பிரகாரம் 03 பில்லியன் டொலர் கடனை வெட்டிவிடப்படவுள்ளது எனவும் இதன் ஊடாக நாட்டு மக்களுக்கு 08 பில்லியன் டொலர் நிவாரணம் கிடைக்கின்றது என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+20 லட்சம் முழுமையான காணி உறுதிகளை வழங்குவதற்கான ‘உறுமய’ தேசிய வேலைத் திட்டத்தின் கீழ், குருணாகல் மாவட்டத்தில் 73,143 பேருக்கு காணி உறுதிகள் வழங்கப்படவுள்ளன.
+
+அதன்படி நேற்று முற்பகல் குருநாகல் வடமேல் மாகாண சபையின் கேட்போர் கூடத்தில் 463 பேருக்கு காணி உறுதிகளை அடையாள ரீதியாக வழங்கும் நிகழ்வில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி மேற்கண்டவாறு  தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+நாட்டின் பொருளாதாரம் வீழ்ச்சியடைந்த போது மக்கள் நம்பிக்கை இழந்திருந்தனர். இன்று இந்தப் பகுதி எம்.பி.க்களுக்கு நன்றி சொல்ல வேண்டும். தமது வீடுகள் தீயிடப்பட்டதை மறந்துவிட்டு மக்களுக்கு நன்மை செய்ய முன்வந்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/49348859.json)
 
 ---
 
@@ -2189,27 +2217,5 @@ The chemical was later identified as methyl mercaptan, added to liquefied petrol
 [Data](articles/114cce8a.json)
 
 [Extended Data](ext_articles/114cce8a.ext.json)
-
----
-
-### The police accumulate on Dolly Road
-
-*2024-07-05 12:11:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டாலி-வீதியில்-பொலிஸார்-குவிப்பு/175-339906) · `ta`
-
-In response to Dayasiri Jayasekara's call for SLFP members to gather at their headquarters on Dolly Road, Colombo, police have bolstered security there, leading to a significant police presence.
-
-🟩
-
-Police have strengthened the security of the Sri Lanka Freedom Party (SLFP) headquarters located on Dolly Road, Colombo.
-
-Dayasiri Jayasekara had requested the members of the Sri Lanka Freedom Party (SLFP) to come to his party headquarters this morning.
-
-As a result, the police were concentrated on the site.
-
-◼️
-
-[Data](articles/95134406.json)
-
-[Extended Data](ext_articles/95134406.ext.json)
 
 ---

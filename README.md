@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 17:55:39**
+As of **2024-07-06 18:12:26**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,954 (100.0%) of 33,955 articles have been extended.
+33,955 (100.0%) of 33,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### මේ වසරේ වැටුප් වැඩි කරන්න බැහැ - ජනපති
+### No salary increase this year - President
 
 *2024-07-06 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198545) · `si`
 
-රාජ්‍ය අංශයේ යළි වැටුප් වැඩි කිරීමක් මේ වසරේ සිදු කළ නොහැකි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe announced no salary increases for the public sector this year due to election constraints. He promised potential raises could come in next year's budget during a ceremony for Uva Provincial Command members in Wellawaya.
 
-මෙම වර්ෂයේ මැතිවරණ කාලසීමාවක් එළඹෙන බැවින් එය සිදුකළ නොහැකි බව ජනපතිවරයා සඳහන් කළේය.
+🟩
 
-ජනාධිපතිවරයා මේ බව කියා සිටියේ, ඌව පළාත් ප්‍රජා පොලිස් කමිටු සාමාජිකයන් බල ගැන්වීමේ උත්සවයට අද (06) වැල්ලවායේදී එක්වෙමිනි.
+President Ranil Wickremesinghe says that the public sector increase cannot be re-increasing this year.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපතිවරයා සඳහන් කළේ වැටුප් වැඩි කළ හැක්කේ ලබන වසරේ අයවැය හරහා බවය.
+The President said that a duration of an election duration of this year is impossible.
+
+The President was speaking at a ceremony to empower members of the Uva Provincial Command members at Wellawaya today (06).
+
+Speaking further the President said, the salaries can be increased by the next year's budget.
 
 ◼️
 
 [Data](articles/061c1b9e.json)
+
+[Extended Data](ext_articles/061c1b9e.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 15:04:47**
+As of **2024-07-06 15:19:50**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,628
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,941 (100.0%) of 33,942 articles have been extended.
+33,942 (100.0%) of 33,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### தென் மாகாண பாடசாலை மாணவர்களுக்கு 300 பில்லியன் செலவில் ஸ்மார்ட் வகுப்பறைகள் மற்றும் டெப்!
+### Smart Classrooms and Deb at a cost of 300 billion for Southern Province School students!
 
 *2024-07-06 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187826) · `ta`
 
-தென் மாகாண பாடசாலை மாணவர்களுக்கு 200 ஸ்மார்ட்  வகுப்பறைகள் மற்றும் 2,000  டெப்  கணினிகள் ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் வழங்கி வைக்கப்பட்டுள்ளது.
+President Ranil Wickremesinghe unveiled 200 smart classrooms and 2,000 Deb computers for Southern Province school students, costing $300 million. The initiative, requested by Minister Ramesh Pathirana, was launched at the Galle International Sports Complex.
 
-இந்நிகழ்வு  ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் காலி ஹோல் டி கோல் மண்டபத்தில் இன்று சனிக்கிழமை நடைபெற்றது.
+🟩
 
-கைத்தொழில் மற்றும் சுகாதார அமைச்சர் ரமேஷ் பதிரணவின் வேண்டுகோளுக்கு இணங்க இத்திட்டம் முன்னெடுக்கப்பட்டுள்ளது.
+200 smart classrooms and 2,000 Deb computers have been provided to the Southern Province school students by President Ranil Wickremesinghe.
+
+The event was held at the Galle Hol de Cole Hall headed by President Ranil Wickremesinghe on Saturday.
+
+The scheme has been carried out at the request of Minister of Industry and Health Ramesh Pathirana.
 
 ◼️
 
 [Data](articles/d0558366.json)
+
+[Extended Data](ext_articles/d0558366.ext.json)
 
 ---
 

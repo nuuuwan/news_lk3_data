@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 12:52:53**
+As of **2024-07-06 13:04:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,625
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,929 (100.0%) of 33,930 articles have been extended.
+33,930 (100.0%) of 33,930 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The injured individuals, including four females, have been admitted to the Demod
 ◼️
 
 [Data](articles/b22c5654.json)
+
+[Extended Data](ext_articles/b22c5654.ext.json)
 
 ---
 

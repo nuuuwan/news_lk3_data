@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 11:54:37**
+As of **2024-07-06 12:06:59**
 
 ## Newspaper Stats
 
-*Scraped **33,923** Articles*
+*Scraped **33,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ islandlk | 1,897
 economynextcom | 2,000
 dailyftlk | 2,115
 adalk | 3,028
-adaderanalk | 3,880
-tamilmirrorlk | 4,015
+adaderanalk | 3,881
+tamilmirrorlk | 4,016
 dailymirrorlk | 4,733
 virakesarilk | 5,317
-adaderanasinhalalk | 5,622
+adaderanasinhalalk | 5,625
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,922 (100.0%) of 33,923 articles have been extended.
+33,923 (100.0%) of 33,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### முன்னாள் போராளி மர்ம மரணம்
+
+*2024-07-06 11:51:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முன்னாள்-போராளி-மர்ம-மரணம்/72-339938) · `ta`
+
+மாந்தை மேற்கு பிரதேச செயலாளர் பிரிவில் உள்ள  அடம்பன்   பகுதியில் வசித்து வந்த முன்னாள் போராளி ஒருவர் நேற்று (5) மர்மமான முறையில் உயிரிழந்துள்ளார்.
+
+உயிரிழந்தவர் பல் துறை ஆளுமை மிக்க 'கம்பிகளின் மொழி பிறேம்' என அழைக்கப்படும் கோபாலகிருஷ்ணன் கோகுல் பிறேம் குமார்(வயது-42) என்ற குடும்பஸ்தரே மர்மமான முறையில் உயிரிழந்துள்ளார்.
+
+நேற்று இரவு  அடம்பன்  வீதியில் உள்ள தனது வீட்டிற்கு முன் நின்று தொலைபேசியில் உரையாடிக் கொண்டிருந்தார்.
+
+இதன் போது தன்னை வாகனத்தால் மோதி விட்டுச் சென்று விட்டனர் என சத்தம் போட்டுள்ளார்.
+
+இதன் போது குடும்பத்தினரின் உதவியுடன் உடனடியாக அடம்பன் வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு மேலதிக சிகிச்சைகளுக்காக மன்னார் மாவட்ட பொது வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+இந்நிலையில் அவர் சிகிச்சை பலனின்றி Rஉயிரிழந்துள்ளதாக தெரிய வருகிறது.சடலம் தற்போது மன்னார் பொது வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளது. சடல பரிசோதனையின் பின்னர் மரணத்திற்கான காரணம் தெரிய வரும் என தெரிவிக்கப்படுகின்றது.
+
+...
+
+[Data](articles/f007c47b.json)
+
+---
+
+### දකුණු පළාතට සුහුරු පන්ති කාමර 200ක් සහ ටැබ් 2000ක්
+
+*2024-07-06 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198533) · `si`
+
+දකුණු පළාත් සුහුරු පන්ති කාමර ව්‍යාපෘතිය යටතේ පාසල් ශිෂ්‍ය ශිෂ්‍යාවන් වෙත සුහුරු පංති කාමර 200ක් හා ටැබ් පරිගණක 2000ක් ලබාදීම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ගාල්ල හෝල් ඩි ගෝල් ශාලාවේදී අද (06) සිදු කෙරුණි.
+
+දකුණු පළාත් සුහුරු පන්ති කාමර ව්‍යාපෘතියට වැය කර ඇති මුදල රුපියල් මිලියන 300කි.
+
+කර්මාන්ත හා සෞඛ්‍ය අමාත්‍ය රමේෂ් පතිරණ මහතාගේ ඉල්ලීම මත ඉන්දීය සහයෝගිතාව ඇතිව ව්‍යාපෘතිය ක්‍රියාත්මක කෙරෙයි.
+
+◼️
+
+[Data](articles/da4a151f.json)
+
+---
+
+### 200 smart classrooms and 2,000 Tabs for Southern Province schools
+
+*2024-07-06 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100330/200-smart-classrooms-and-2000-tabs-for-southern-province-schools) · `en`
+
+President Ranil Wickremesinghe has presented 200 smart classrooms and 2,000 Tablet computers to students in the Southern Province schools, under the Southern Province Smart Classroom Project, at the Hall de Galle this morning (06).
+
+The President’s Media Division (PMD) said the project was carried out at a cost of Rs. 300 million.
+
+The initiative has been launched as per the request of Minister of Health Dr. Ramesh Pathirana, according to the PMD.
+
+◼️
+
+[Data](articles/469e8369.json)
+
+---
+
+### තවත් බස් අනතුරකින් 09ක් රෝහලේ
+
+*2024-07-06 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198532) · `si`
+
+බැද්දවෙල සිට බණ්ඩාරවෙල දක්වා ගමන් ගත් ලංකා ගමනාගමන මණ්ඩලයට අයත් බස් රථයක් හල්පේ ප්‍රදේශයේදී අනතුරට ලක්වී තිබේ.
+
+බස් රථයේ කාර්මික දෝෂයක් නිසා අනතුර සිදුවන්නට ඇති බවට සැක කෙරෙයි.
+
+◼️
+
+[Data](articles/3f848993.json)
+
+---
 
 ### ‘As long as country faces budget deficit, borrowing is necessary’ – CBSL Governor
 
@@ -45,6 +113,20 @@ Commenting in this regard, Dr. Weerasinghe added: “The status of the debt as o
 ...
 
 [Data](articles/36cef0b8.json)
+
+[Extended Data](ext_articles/36cef0b8.ext.json)
+
+---
+
+### අරුණ දර්ශන පැරිස් ඔලිම්පික් උළෙලට
+
+*2024-07-06 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198531) · `si`
+
+ශ්‍රී ලංකා මලල ක්‍රීඩක අරුණ දර්ශන මෙවර පැරිස් ඔලිම්පික් උළෙල සඳහා සුදුසුකම් ලබා තිබේ.
+
+◼️
+
+[Data](articles/97b56bda.json)
 
 ---
 
@@ -138,7 +220,7 @@ However, the Akurana Police are conducting further investigations regarding the 
 
 ---
 
-### Sri Lanka 2024 first half remittances rise 11.4-pct, surpasses $3.1 bn
+### Sri Lanka 2024 first half remittances rise 11.4-pct, surpass $3.1 bn
 
 *2024-07-06 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-2024-first-half-remittances-rise-11-4-pct-surpasses-3-1-bn-171133/) · `en`
 
@@ -2095,113 +2177,5 @@ However, this includes proceeds from the swap with People’s Bank of China (PBo
 [Data](articles/070abf58.json)
 
 [Extended Data](ext_articles/070abf58.ext.json)
-
----
-
-### Suspect shot dead in a police raid
-
-*2024-07-05 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198511) · `si`
-
-During a police raid in Athurugiriya, a suspect was killed after firing at officers from his car. The incident occurred when police attempted to stop him; he was later arrested but died from his injuries.
-
-🟩
-
-A person who operated a car regardless of police orders had shot dead.
-
-A police dealer was shocked by a police three-wheeler and fired a car in the Athurugiriya Police.
-
-The shooting has been injured in the man's base and was arrested while he was hospitalized.
-
-A Athurugiriya police personnel have gone to the Piliyandala area for the arrest of a drug dealer last night.
-
-He had tried to flee the three wheeler who had come to the three-wheeler when he was arrested by the police that he had come to a car with drugs.
-
-The police officers were shot dead at the time.
-
-◼️
-
-[Data](articles/8d2e4c2a.json)
-
-[Extended Data](ext_articles/8d2e4c2a.ext.json)
-
----
-
-### 1,403 suspects arrested in Phase 2 of justice
-
-*2024-07-05 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198510) · `si`
-
-In Phase 2 of justice operations, 1,403 suspects were arrested, including 404 from the second stage alone. The operation resulted in the seizure of 37 million kilos of heroin and 3.74 kilograms of cannabis.
-
-🟩
-
-The 2nd stage of justice operations commenced yesterday (0403 suspects were arrested).
-
-According to the police media spokesman's office, 37 m kilos of heroin in this operation, police spokesman's office said that 3.74 kilograms of cannabis were taken into custody.
-
-◼️
-
-[Data](articles/a0dea746.json)
-
-[Extended Data](ext_articles/a0dea746.ext.json)
-
----
-
-### Sri Lanka’s Dhammika Perera ready to enter presidential race but says SLPP must decide
-
-*2024-07-05 14:10:00* · [`economynextcom`](https://economynext.com/sri-lankas-dhammika-perera-ready-to-enter-presidential-race-but-says-slpp-must-decide-171048/) · `en`
-
-ECONOMYNEXT — Businessman Dhammika Perera has said it is up to the ruling Sri Lanka Podujana Peramuna (SLPP) to decide who its presidential candidate should be and, until such time, he would continue his campaigning.
-
-Speaking to reporters at an SLPP event, Perera said 44 percent of the country have yet to decide whom to vote for.
-
-“No matter how big anyone talks on stage, no one talks about  how to develop the economy. I’m ready for the presidential election, but Sri Lanka’s biggest political party should decide who the candidate should be. I’m watching and waiting. Until then I’m doing what needs to be done to win the election,” said Perera.
-
-“Besides that, the biggest thing I have to do is, if I get on stage, I have to talk about developing the economy. I’m formulating that programme now. It is up to the SLPP to decide who will contest,” he said.
-
-The business tycoon said that he has already finalised his programme for education reforms.
-
-...
-
-[Data](articles/4ed4c5ea.json)
-
-[Extended Data](ext_articles/4ed4c5ea.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-07-05 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/187746) · `ta`
-
-The US dollar's buying rate was 300.0612 rupees, while its selling rate was 309.3025 rupees as per the Central Bank's latest update on July 05.
-
-🟩
-
-The US dollar purchasing price was 300.0612 rupees and the sales price were 309.3025 rupees based on a currency exchange rate released by the Central Bank on Friday (July 05).
-
-◼️
-
-[Data](articles/a5b0c201.json)
-
-[Extended Data](ext_articles/a5b0c201.ext.json)
-
----
-
-### Accident in Badulla - 4 deaths;Many people are injured
-
-*2024-07-05 14:06:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பதுளையில்-கோர-விபத்து-4-பேர்-மரணம்-பலர்-படுகாயம்/76-339913) · `ta`
-
-A crash involving a lorry in Badulla's Weliinda area resulted in four fatalities and numerous injuries. The victims were setting up buses on the street from Moneragala.
-
-🟩
-
-Four people were killed when a lorry crashed in the Weliinda area of ​​Badulla - Soronadottai road this afternoon.
-
-Those who came to set up buses on the streets from Moneragala were involved in the accident.
-
-◼️
-
-[Data](articles/b33b3d83.json)
-
-[Extended Data](ext_articles/b33b3d83.ext.json)
 
 ---

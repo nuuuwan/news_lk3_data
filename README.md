@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 10:06:08**
+As of **2024-07-06 10:19:42**
 
 ## Newspaper Stats
 
-*Scraped **33,917** Articles*
+*Scraped **33,918** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 312
 bbccomsinhala | 333
 newsfirstlk | 363
 islandlk | 1,897
-economynextcom | 1,999
+economynextcom | 2,000
 dailyftlk | 2,115
 adalk | 3,028
 adaderanalk | 3,876
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,621
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,917 (100.0%) of 33,917 articles have been extended.
+33,917 (100.0%) of 33,918 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### Sri Lanka 2024 first half remittances rise 11.4-pct, surpasses $3.1 bn
+
+*2024-07-06 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-2024-first-half-remittances-rise-11-4-pct-surpasses-3-1-bn-171133/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s remittances coming through official channels gained 11.4 percent to $3.14 billion in the first six months of 2024 compared to the same period last year, helped by more expatriates using the official banking channels.
+
+The remittances in June were $519.6 million, 9.2 percent up from the same month last year, the official data showed.
+
+The remittances have risen continuously after the central bank gave up a parallel exchange rate regime, which compelled most expatriates to switch informal Undiyal and Hawala money transfer methods.
+
+The island nation witnessed a 57 percent jump in remittances coming through formal banking channels to $5.97 billion in 2023, from $3.8 billion a year earlier, helped by elimination of parallel exchange rate.
+
+The island nation has been in the process of sending more migrant workers to bring in higher foreign exchange since the country declared bankruptcy in 2022.
+
+...
+
+[Data](articles/42ef322d.json)
+
+---
 
 ### Comfort in the Palestinian people
 
@@ -2189,27 +2209,5 @@ The bodies of the deceased have been placed in the mortuary of Badulla Hospital,
 [Data](articles/5632fa00.json)
 
 [Extended Data](ext_articles/5632fa00.ext.json)
-
----
-
-### Four dies in Badulla
-
-*2024-07-05 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198508) · `si`
-
-A fatal accident near Badulla resulted in four deaths when a lorry hit travelers on the Welimintenattota road around noon. Three more were seriously injured. The incident happened between Moneragala and Welimintenattota.
-
-🟩
-
-Four persons who were traveling in the Welimintenattota road around 12 noon were killed by a lorry.
-
-The Badulla police say that three others have been seriously injured.
-
-The accident occurred from Moneragala to installing the passenger covering of the roads
-
-◼️
-
-[Data](articles/5ff7bfcb.json)
-
-[Extended Data](ext_articles/5ff7bfcb.ext.json)
 
 ---

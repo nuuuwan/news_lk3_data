@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 14:19:37**
+As of **2024-07-06 14:35:11**
 
 ## Newspaper Stats
 
@@ -26,37 +26,43 @@ adaderanasinhalalk | 5,628
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,934 (100.0%) of 33,941 articles have been extended.
+33,941 (100.0%) of 33,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### පොලිස් වෙඩිල්ලෙන් ආබාධිත වූ හංසක සුව කරගන්න උදව් ඉල්ලයි
+### Police request help to heal disabled swarm
 
 *2024-07-06 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198536) · `si`
 
-මීට වසර එකහමාරකට පෙර පොලීසියේ වැරදීමකින් එල්ලවූ වෙඩි ප්‍රහාරයක් නිසා හිසට සිදුවූ බරපතළ තුවාල හේතුවෙන් මාතර නාවිමන ප්‍රදේශයේ සිසුවෙකු මේ වනවිට පූර්ණ ආබාධිත තත්ත්වයට පත්වී සිටී.
+A student from Matara Navayana was paralyzed after being shot by police a year and a half ago. His parents seek medical aid to treat him. Despite challenges, including the absence of specific doctors, progress has been made, allowing him to sit. An indigenous doctor has offered help, but funding remains an issue.
 
-ඔහුගේ මව්පියන් ඉල්ලා සිටින්නේ සිය දරුවා සුවපත් කරගැනීමට සහාය වෙන ලෙසය.
+🟩
 
-උපතින්ම ආබාධිත නොවූ හරීෂ් හංසකට සිදුවූ අනතුර හේතුවෙන් මේ වනවිට කතා කිරීමට පවා නොහැකි තත්ත්වයක් උදාවී තිබේ.
+A student of the Matara Navayana area has been completely disabled due to serious injuries due to a shot of the police for a year and a half ago.
 
-මීට වසර එකහමාරකට පෙර පොලිස් නිලධාරියෙකු අතින් වූ වැරදීමකින් හංසකගේ හිසට වෙඩි පහරක් එල්ල වූයේ ඔහු ආබාධිත තත්ත්වයට පත්කරමිනි.
+His parents demand the help of healing their child.
 
-එම අනතුරට ඔහු මුහුණ පා තිබුණේ ගමේ පන්සලේ පැවැත්වෙන පෙරහැරට කාවඩි නැටීම සඳහා මොණර පිහාටු සෙවීමට මිතුරන් සමග ගිය අවස්ථාවේදීය.
+It is impossible to talk to the accident that happened to the danger of uncounted Haruns.
 
-හංසක අද මෙලෙස හෝ ජීවත්වෙන්නේ, කරාපිටිය ශික්ෂණ රෝහලේ වෛද්‍යවරුන්ගේ දැඩි කැපවීම මතය.
+One and a half ago, a police officer had been shot dead by a police officer and had been shot dead by his disability.
 
-පස්දෙනෙකුගෙන් යුත් පවුලේ බඩ පිස්සා වු හංසක සුව කරගැනීම මව්පියන්ට මේ වනවිට අභියෝගයක් වී තිබේ.
+He was facing the accident when he went with friends when he was held in the village temple.
 
-මේ දක්වා කළ ප්‍රතිකාර හේතුවෙන් ඇඳේ උඩුකුරුව සිටි හංසකට දැන් වාඩිවෙන්නට හැකියාව ලැබී තිබේ.
+Swanks are alive today on the lack of doctors of the Karapitiya Teaching Hospital.
 
-තවදුරටත් ඔහුව සුවපත් කිරීමට දේශීය වෛද්‍යවරයෙකු කැමැත්ත පළකර තිබුණද ඒ සඳහා හංසකව යොමුකරවීමට මව්පියන්ට හැකියාවක් නොමැත.
+Parents curing the Swan, the stomach of five people, has been a challenge.
+
+Due to the treatment, the were has now been able to sit the uplifting swan.
+
+Although an indigenous doctor has agreed to heal him, parents are not able to direct the sudhale.
 
 ◼️
 
 [Data](articles/92c0a688.json)
+
+[Extended Data](ext_articles/92c0a688.ext.json)
 
 ---
 
@@ -75,6 +81,8 @@ Tourism earnings in June were estimated at $151.1 million, up from $122.9 millio
 ...
 
 [Data](articles/fed7a6c2.json)
+
+[Extended Data](ext_articles/fed7a6c2.ext.json)
 
 ---
 
@@ -108,23 +116,31 @@ However, these demands are to be considered in the next budget as these requests
 
 ---
 
-### போரா மாநாடு ; கொழும்பில் விசேட போக்குவரத்து திட்டம்
+### Bora Conference;Special Transport Plan in Colombo
 
 *2024-07-06 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/187819) · `ta`
 
-போரா ஆன்மீக மாநாட்டை முன்னிட்டு கொழும்பில்  விசேட போக்குவரத்து திட்டம் அமுல்படுத்தப்படவுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் எஸ்.எஸ்.பி நிஹால் தல்துவ தெரிவித்துள்ளார்.
+Ahead of the Bora Spiritual Conference in Colombo (7th-16th), a special traffic plan will close several roads near Marine Drive, Colombo Fort, and Bambalapitiya during specific hours daily. This affects entry points due to the expected arrival of around 15,000 attendees from various countries, including India.
 
-போரா ஆன்மீக மாநாடு  07 ஆம் திகதி முதல்16 ஆம் திகதி வரை பம்பலப்பிட்டி போரா பள்ளிவாசல் மற்றும் இலங்கை கண்காட்சி மாநாட்டு மண்டபத்தில் நடைபெறவுள்ளது.
+🟩
 
-இம்மாநாட்டுக்காக இந்தியா உள்ளிட்ட பல நாடுகளிலிருந்து சுமார் பதினைந்தாயிரம் போரா சமூகத்தினர் நாட்டுக்கு வரவுள்ளனர்.
+Police Media Spokesperson SSP Nihal Talduwa said that a special traffic scheme will be implemented in Colombo ahead of the Bora Spiritual Conference.
 
-இந்நிலையில், போரா ஆன்மீக மாநாடு  நடைபெறும் 07 ஆம் திகதி முதல் 16 ஆம் திகதி வரை காலி வீதி, கொழும்பு கோட்டை மற்றும் பம்பலப்பிட்டியில் உள்ள மரைன் டிரைவிற்குள் நுழையும் பல வீதிகள் குறிப்பிட்ட சில மணிநேரங்கள் மூடப்படவுள்ளது.
+The Bora Spiritual Conference will be held from the 07th to the 16th at the Bambalapitiya Bora School and the Sri Lanka Exhibition Conference Hall.
 
-அதன்படி, குறித்த வீதிகள் காலை 8:00 மணி முதல் 11:00 மணி வரையும், பிற்பகல் 1:00 மணி முதல் பிற்பகல் 3:00 மணி வரையும் மற்றும் மாலை 5:00 மணி முதல் இரவு 10:00 மணி வரையும் வரை மூடப்படும் என பொலிஸ் ஊடகப் பேச்சாளர் எஸ்.எஸ்.பி நிஹால் தல்துவ தெரிவித்துள்ளார்.
+For this conference, about fifteen thousand bore community from many countries, including India, will come to the country.
 
-...
+In this context, many roads entering the Marine Drive in Galle Road, Colombo Fort and Bambalapitiya will be closed for a few hours from the 07th to the 16th of this month.
+
+Accordingly, the roads will be closed from 8:00 am to 11:00 pm, 1:00 pm to 3:00 pm and from 5:00 pm to 10:00 pm.PB Nihal Talduwa said.
+
+He also said that traffic restrictions will be imposed in the surrounding areas where the conference is held.
+
+◼️
 
 [Data](articles/fd4312f6.json)
+
+[Extended Data](ext_articles/fd4312f6.ext.json)
 
 ---
 
@@ -290,19 +306,27 @@ The initiative has been launched as per the request of Minister of Health Dr. Ra
 
 ---
 
-### சம்பந்தனின் இறுதிக்கிரியை தினத்தன்று கிழக்கில் வெள்ளைக்கொடி பறக்கவிட்டு துக்கதினமாக பிரகடனப்படுத்த மக்கள் முன்வரவேண்டும் : ஐ.ஏ. கலீலுர்ரஹ்மான்
+### People should come forward to proclaim the mourning of the white flag in the east on the day of Sambandan:. Khalilurrahman
 
 *2024-07-06 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/187814) · `ta`
 
-தமிழ் தேசிய கூட்டமைப்பின் தலைவரும், முன்னாள் எதிர்க்கட்சி தலைவருமான சிரேஷ்ட பாராளுமன்ற உறுப்பினர் அமரர் சட்டத்தரணி இரா. சம்பந்தனின் இறுதிக்கிரியைகள் நாளை ஞாயிற்றுக்கிழமை திருகோணமலையில் நடைபெறவுள்ளதுடன், அதில் இலங்கையின் அரசியல் பிரமுகர்களும், வெளிநாட்டு முக்கிய அரசியல்வாதிகளும் கலந்து கொள்ள உள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+Khalilurrahman calls for mourning the white flag in the East on Sambandan Day, honoring late Senior Parliamentarian Amarar Sampanthan. His funeral, attended by Sri Lankan and foreign politicians, will be held in Trincomalee. The Treasurer of the United Peace Alliance and former Colombo Municipal Council member urges the Eastern Province to pay respects. Sampanthan's loss shocks Tamils, highlighting his significant contributions to minority rights in Sri Lanka.
 
-அவரது இறுதிக்கிரியை நடைபெறும் நாளை ஞாயிற்றுக்கிழமை கிழக்கின் சகல பிரதேசங்களிலும் வெள்ளைக்கொடியை பறக்கவிட்டு அவருக்கு அஞ்சலி செலுத்த இலங்கையர்கள் அதிலும் குறிப்பாக கிழக்கு மாகாண மக்கள் முன்வர வேண்டும் என ஐக்கிய சமாதான கூட்டமைப்பின் பொருளாளரும், கொழும்பு மாநகர சபை முன்னாள் உறுப்பினருமான ஐ.ஏ. கலீலுர்ரஹ்மான் அறிக்கை யொன்றினூடாக கேட்டுக்கொண்டுள்ளார்.
+🟩
 
-தமிழ் மக்களுக்கும் முஸ்லிம் மக்களுக்குமிடையிலான உறவின் இணைப்பு பாலமாக விளங்கிய மூத்த அரசியல் ஆளுமை இரா. சம்பந்தன் அவர்களின் மறைவு தமிழ் பேசும் மக்கள் மத்தியில் அதிர்ச்சியையும் ஆழ்ந்த கவலையையும் ஏற்படுத்தியுள்ளது.
+Senior Parliamentarian Amarar, former leader of the Tamil National Alliance and former Opposition Leader. Sampanthan's funeral will be held in Trincomalee tomorrow, with Sri Lankan political figures and foreign major politicians to attend.
+
+The Treasurer of the United Peace Alliance and a former member of the Colombo Municipal Council (IA), the Sri Lankans, especially the people of the Eastern Province, should come forward to pay homage to the white flag in all areas of the East tomorrow.. Khalilurrahman has asked through a report.
+
+The senior political personality of the relationship between the Tamil people and the Muslim people. Sampanthan's demise has caused shock and deep concern among the Tamil -speaking people.
+
+We, Sri Lankans, are obliged to pay tribute to the political personality that has worked tirelessly for the minority communities to provide the highest political solution to the minority communities in Sri Lanka.
 
 ...
 
 [Data](articles/d4edb82e.json)
+
+[Extended Data](ext_articles/d4edb82e.ext.json)
 
 ---
 
@@ -432,27 +456,39 @@ Fourteen thousand six hundred (14,600) non-academic employees from 17 universiti
 
 ---
 
-### இலங்கைக்கான விமான சேவைகளை அதிகரிக்கும் கட்டார் ஏர்வேஸ்
+### Qatar Airways to Increase Airlines for Sri Lanka
 
 *2024-07-06 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/187807) · `ta`
 
-இலங்கையின் கொழும்பை நோக்கிப் பயணிக்கும் தனது விமான சேவைகளை 5 இலிருந்து 6ஆக அதிகரிப்பதாக கட்டார் ஏர்வேஸ் விமான சேவை அறிவித்துள்ளது.
+Qatar Airways will add a sixth flight to Colombo, Sri Lanka, starting from the 10th of next month, operating a Boeing 787 with 281 economy seats. This increases their total weekly flights to Colombo to 42, connecting passengers to 170 countries. The expansion aims to enhance connectivity through Qatar's Hamad International Airport, serving passengers from various regions including the Middle East, Europe, and Africa.
 
-அதிகரிக்கப்படும் 6ஆவது விமான சேவையானது எதிர்வரும் 10 ஆம் திகதி முதல் ஆரம்பிக்கவுள்ளது.
+🟩
 
-30 வணிக வகுப்பு இருக்கைகள் மற்றும் 281 சாதாரண வகுப்பு இருக்கைகள் கொண்ட  போயிங் 787 வகை விமானத்தை கொழும்புக்கான சேவைகளுக்கு கட்டார் ஏர்வேஸ் பயன்படுத்துகிறது.
+Qatar Airways Airlines has announced that its flights traveling to Colombo in Sri Lanka will increase from 5 to 6.
 
-இந்த விமான சேவை உலகெங்கிலும் உள்ள 170  நாடுகளுக்கு பயணிகளை இணைக்கும் வகையில், கட்டார் ஏர்வேஸ் மொத்தம் 42 வாராந்திர விமானங்களை கொழும்புக்கு இயக்கும்.
+The 6th Airlines will be increased from the 10th of this month.
 
-கட்டார் ஏர்வேஸ் சேவையின் இலங்கை மற்றும் மாலைதீவவிற்கான முகாமையாளர் ஜொனாதன் பெர்னாண்டோ கூறுகையில்,
+Qatar Airways uses a Boeing 787 aircraft with 30 commercial seats and 281 ordinary class seats for services to Colombo.
 
-கொழும்புக்கும் கொழும்பிலிருந்தும் கட்டார் ஊடான தொடர்புகளை அதிகரிப்பதற்காக இந்த மேலதிக சேவையை வழங்குவதில் நாங்கள் மகிழ்ச்சியடைகிறோம்.
+Qatar Airways operates a total of 42 weekly flights to Colombo to connect passengers to 170 countries around the world.
 
-இந்த விமான சேவை அதிகரிப்பானது பயணிகளுக்கு சிறந்த பயண அனுபவத்தை வழங்குவதில் எங்களின் அர்ப்பணிப்புக்கு ஒரு சான்றாகும்.
+Jonathan Fernando, Manager of Sri Lanka and Maldives of Qatar Airways Service, said,
 
-...
+We are happy to provide this further service to increase contacts through Qatar in Colombo and Colombo.
+
+The increase in airline service is a testament to our commitment to provide the best travel experience for passengers.
+
+The new airlines, the world's best airport, will provide facilities to many countries, including the Middle East, Europe and Africa, through Qatar's Hamat International Airport.
+
+Gir ௬௫௭ Sampath
+
+Kir ௬௫௬ Tooth
+
+◼️
 
 [Data](articles/f41e8da0.json)
+
+[Extended Data](ext_articles/f41e8da0.ext.json)
 
 ---
 
@@ -516,23 +552,31 @@ The island nation has been in the process of sending more migrant workers to bri
 
 [Data](articles/46aa01ad.json)
 
+[Extended Data](ext_articles/46aa01ad.ext.json)
+
 ---
 
-### ஈரான் ஜனாதிபதி தேர்தலில் சீர்திருத்தவாதி பெசெஷ்கியன்வெற்றி - பழமைவாத வேட்பாளரை தோற்கடித்தார்
+### Iranian presidential election
 
 *2024-07-06 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/187802) · `ta`
 
-ஈரான்  ஜனாதிபதி தேர்தலில் சீர்திருத்தவாதி மசூத் பெசெஷ்கியன் வெற்றிபெற்றுள்ளார். தேர்தலின் இரண்டாம் சுற்றின் முடிவில் வாக்குகள் எண்ணபட்டுள்ள நிலையில்மசூத் பெசெஷ்கியானிற்கு 53வீத வாக்குகள் கிடைத்துள்ளனஅவரை எதிர்த்து போட்டியிட்ட தீவிரபழமைவாதியான சயீட் ஜலீலிற்கு 44 வீத வாக்குகள் கிடைத்துள்ளன.
+Masood Besseskian won the Iranian presidential election with 53% of the votes in the second round, promising unity. Supporters celebrated with green flags, symbolizing hope and change.
 
-ஜூன் 28 ம் திகதி தேர்தலில் இரு வேட்பாளர்களும் 50 வீத வாக்குகளை பெறாததை தொடர்ந்து  இரண்டாம் சுற்று அவசியமாகியது.
+🟩
 
-ஈரான்தலைநகரிலும் ஏனைய நகரங்களிலும் புதிய ஜனாதிபதியின் ஆதரவாளாகள் வெற்றிக்கொண்டாட்டங்களில் ஈடுபட்டு வருகின்றனர். புதிய ஜனாதிபதி தனது தேர்தல் பிரச்சாரத்தில் பயன்படுத்திய பச்சை கொடியுடன் இளைஞர்கள் வெற்றியை கொண்டாடுகின்றனர்.
+Iranian presidential election. As the votes were expected at the end of the second round of the election, Masood Besseskian received 53 percent of the votes.
 
-ஈரானில் ஒற்றுமையை நிலைநாட்டுவேன் சர்வதேச சமூகத்திலிருந்து ஈரான் தனிமைப்படுத்தப்பட்டுள்ள நிலையை மாற்றுவேன்என அவர் தேர்தல் பிரச்சாரத்தின் போது வாக்குறுதிவழங்கியிருந்தார்.
+The second round was required after the two candidates did not receive 50 percent of the votes in the election on June 28.
+
+New President's supporters are engaged in success. Young people celebrate victory with the green flag used in his election campaign.
+
+He promised during the election campaign that Iran would maintain unity in Iran.
 
 ◼️
 
 [Data](articles/230bc71e.json)
+
+[Extended Data](ext_articles/230bc71e.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 23:54:25**
+As of **2024-07-07 00:06:00**
 
 ## Newspaper Stats
 
-*Scraped **33,969** Articles*
+*Scraped **33,970** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,003
 dailyftlk | 2,115
 adalk | 3,031
 adaderanalk | 3,888
-tamilmirrorlk | 4,021
+tamilmirrorlk | 4,022
 dailymirrorlk | 4,733
 virakesarilk | 5,323
 adaderanasinhalalk | 5,641
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,968 (100.0%) of 33,969 articles have been extended.
+33,969 (100.0%) of 33,970 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### மனோ கணேசனுக்கு எதிராக நாளை போராட்டம்
+
+*2024-07-06 23:44:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மனோ-கணேசனுக்கு-எதிராக-நாளை-போராட்டம்/76-339956) · `ta`
+
+தமிழ் முற்போக்கு கூட்டணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான மனோ கணேசன் எம்.பி க்கு எதிராக மலையகத்தில் ஐந்து இடங்களில் ஞாயிற்று கிழமை காலை போராட்டங்கள் நடத்த இலங்கை தொழிலாளர் காங்கிரஸ் தீர்மனித்துள்ளதாக அமைச்சர் ஜீவன் தொண்டமானின் ஊடகப்பிரிவு தெரிவித்தது.
+
+அந்த வகையில் நுவரெலியா மாவட்டத்தில்  கொட்டக்கலை நகரில் விநாயகர் ஆலயத்திற்கு முன் காலை 10 மணிக்கும் மற்றும் பொகவந்தலாவை நகரில் மாலை 02 மணிக்கும் இந்த எதிர்ப்பு போராட்டம் இடம்பெறவுள்ளது.
+
+சப்ரகமுவ மாகாணத்தில் இரத்தினபுரி காவத்தை நகரத்தில் காலை 10 மணிக்கும், கேகாலை தெஹியோவிட்ட நகரில் காலை 10 மணிக்கும் இந்த எதிர்ப்பு போராட்டம் இடம்பெறவுள்ளது.
+
+ஊவா மாகாணத்தில் பதுளை நகரத்திலும்,  மனோகணேஷன் எம்.பிக்கு எதிரான இந்த எதிர்ப்பு போராட்டம் இடம்பெறவுள்ளதாக அமைச்சர் ஜீவன் தொண்டமானின் ஊடக பிரிவு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/b1489686.json)
+
+---
 
 ### Sri Lanka’s tourism earnings surpass USD 1.5Bn from in Q1
 
@@ -383,6 +401,8 @@ Wickremesinghe said efforts have been made to reduce the loan repayment by 8 bil
 ...
 
 [Data](articles/002627f2.json)
+
+[Extended Data](ext_articles/002627f2.ext.json)
 
 ---
 
@@ -2229,31 +2249,5 @@ During the visit, Most Venerable Makulewe Wimala Thero chanted ‘Seth Pirith’
 [Data](articles/1ef8d1ee.json)
 
 [Extended Data](ext_articles/1ef8d1ee.ext.json)
-
----
-
-### Mawbima Can Begin National Program
-
-*2024-07-05 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198523) · `si`
-
-Dilith Jayaweera, leader of the Mawbima People's Party, launches a national program aimed at motivating individuals with special needs, emphasizing the importance of contributing to the nation. He highlights the dedication of the disability community, urging others to learn from their example and actively participate in national development efforts.
-
-🟩
-
-Entreimed Dilith Jayaweera says that everyone who does not take a service for the country, it should be motivated by the working community for the country.
-
-He was speaking at the National Program to motivate people with special needs as a project of the motherland.
-
-It was launched by the leader of the Mawbima People's Party leader Dilith Jayaweera.
-
-"A person who worked closely with disability community for a long time. This community is an example for Sri Lanka. It is the one who started the "Mawbima ',' Mawbima '.  අපිට ඕනේ මෙය දීර්ඝ කාලීන වැඩක් විදිහට ලංකාව තුළ දියත් කරන්න."
-
-"No one in this community did not go to Goalphase.. Asking for jobs. Then you're trying to get rid of it.. Those crying out of the nose ... People who are in the social media ... Get the example from this disabled community. "
-
-◼️
-
-[Data](articles/245c0ff2.json)
-
-[Extended Data](ext_articles/245c0ff2.ext.json)
 
 ---

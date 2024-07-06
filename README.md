@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 10:35:05**
+As of **2024-07-06 10:53:15**
 
 ## Newspaper Stats
 
-*Scraped **33,918** Articles*
+*Scraped **33,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,897
 economynextcom | 2,000
 dailyftlk | 2,115
 adalk | 3,028
-adaderanalk | 3,876
+adaderanalk | 3,877
 tamilmirrorlk | 4,015
 dailymirrorlk | 4,733
 virakesarilk | 5,317
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,621
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,918 (100.0%) of 33,918 articles have been extended.
+33,918 (100.0%) of 33,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### Electrical leak caused massive fire in Akurana?
+
+*2024-07-06 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100326/electrical-leak-caused-massive-fire-in-akurana) · `en`
+
+Police suspect that the cause of the fire that broke out at a restaurant in Akurana may have been an electrical leak in the system supplying electricity to the electric ovens in a bakery located in the building.
+
+The Kandy-Matale road (A9) was temporarily closed at Akurana yesterday morning (05) due to a fire that broke out in a shop and spread to several adjacent shops and an international school in the vicinity.
+
+The flames were brought under control by around 10:00 a.m. after much effort by firefighters and local residents.
+
+However, the Akurana Police are conducting further investigations regarding the incident.
+
+◼️
+
+[Data](articles/d822cc3f.json)
+
+---
 
 ### Sri Lanka 2024 first half remittances rise 11.4-pct, surpasses $3.1 bn
 
@@ -2189,27 +2207,5 @@ Officers of the OIC of the Venerable Tharanura, Police Officers of the Venerable
 [Data](articles/1dc5f85e.json)
 
 [Extended Data](ext_articles/1dc5f85e.ext.json)
-
----
-
-### Four killed, 3 critical as lorry overturns in Badulla
-
-*2024-07-05 13:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100310/four-killed-3-critical-as-lorry-overturns-in-badulla) · `en`
-
-Four individuals have been killed, while three others were left critically injured after a lorry overturned  near Walihida area along the Badulla - Soranathota road, police said.
-
-Badulla Police said that the accident had occurred at around 12.00 noon today (05), when the lorry overturned on the main road.
-
-The group of persons who were travelling in the lorry at the time have been identified as workers from Monaragala on their way to install waiting shelters at bus stops.
-
-The three wounded individuals have been admitted to Badulla Hospital and sources said that their condition is critical.
-
-The bodies of the deceased have been placed in the mortuary of Badulla Hospital, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/5632fa00.json)
-
-[Extended Data](ext_articles/5632fa00.ext.json)
 
 ---

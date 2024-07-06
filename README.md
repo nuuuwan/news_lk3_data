@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 17:19:49**
+As of **2024-07-06 17:35:18**
 
 ## Newspaper Stats
 
-*Scraped **33,953** Articles*
+*Scraped **33,954** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,55 @@ adaderanalk | 3,885
 tamilmirrorlk | 4,018
 dailymirrorlk | 4,733
 virakesarilk | 5,323
-adaderanasinhalalk | 5,633
+adaderanasinhalalk | 5,634
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,952 (100.0%) of 33,953 articles have been extended.
+33,953 (100.0%) of 33,954 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### ඉම්රාන් ඛාන් උපවාසයකට සැරසෙයි
+### කලු ගල් සමග ටිපර් රථයක් ගිය තැන
+
+*2024-07-06 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198544) · `si`
+
+පාදුක්ක මීපේ සිට කොළඹ වරාය බලා කලු ගල් ප්‍රවාහනය කරමින් තිබූ ටිපර් රථයක් අද (06) හංවැල්ල ඇඹුල්ගම මංසන්ධිය ආසන්නයේදී අනතුරකට මුහුණදී තිබේ.
+
+අදාළ ටිපර් රථය පාලමක ආරක්ෂිත වැට කඩාගෙන කැලණි ගගේ අතු ඇලක් අසලට පෙරළී මෙම අනතුර සිදුවී ඇත.
+
+අනතුරින් ටිපර් රථයේ ගමන් කළ රියදුරාට කිසිදු හානියක් සිදුවී නොමැත.
+
+◼️
+
+[Data](articles/dab91bc4.json)
+
+---
+
+### Imran Khan prepares a fast
 
 *2024-07-06 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198543) · `si`
 
-පාකිස්තාන PTI දේශපාලන පක්ෂයට අදාළ නඩු විභාග කරන විනිසුරු මඩුල්ලෙන් ඉවත් වන ලෙස එම පක්ෂය පාකිස්තානයේ අගවිනිසුරු කාසි ෆාස් ඊසාගෙන් ඉල්ලා ඇති බව එරට මාධ්‍ය වාර්තා කරයි.
+Imran Khan, former PM of Pakistan, has called for the removal of the current Chief Justice, accusing him of bias against his party, PTI. He threatened a hunger strike if justice wasn't served, highlighting tensions between political factions and the judiciary in Pakistan.
 
-PTI යනු පාකිස්තානයේ හිටපු අග්‍රාමාත්‍ය, දැනට සිරගත කර සිටින ඉම්රාන් ඛාන්ගේ පක්ෂයයි.
+🟩
 
-එමෙන්ම තමන්ට යුක්තිය පසඳලීමට කටයුතු නොකළහොත් අඛණ්ඩ උපවාසයක් කිරීමට තමන් සූදානම් බවද ඉම්රාන් ඛාන් පවසා තිබේ.
+The party has requested the Chief Justice of Pakistan to remove the pakistan's pakistan.
 
-නඩුවකට අදාළව අධිකරණ කටයුතුවලට සහභාගී වීමෙන් පසු මාධ්‍යවේදීන් අමතමින් හිටපු පාකිස්තාන අගමැති ඉම්රාන් ඛාන් කියා සිටියේ නීතිය ඉදිරියේ සියලු පුරවැසියන් සමාන බවය.
+PTI is the party of Pakistan, who is currently imprisoned by Imran Khan's party.
+
+Imran Khan has said that he was ready to take a continuous fast if he did not take justice.
+
+Former Pakistan, Prime Minister Imran Khan, addressing journalists, said that after participating in the judiciary.
 
 ◼️
 
 [Data](articles/3a03c9d1.json)
+
+[Extended Data](ext_articles/3a03c9d1.ext.json)
 
 ---
 
@@ -2229,29 +2251,5 @@ Sri Lanka has a foreign reserve target set by the International Monetary Fund wh
 [Data](articles/dad66ac3.json)
 
 [Extended Data](ext_articles/dad66ac3.ext.json)
-
----
-
-### 7 g - Review
-
-*2024-07-05 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/187771) · `ta`
-
-"7G," a ghost film directed by Haroon, revolves around IT professional Rajiv (Roshan Bashir) and his wife Varsha (Smriti Venkat), who move into a haunted apartment named '7G.' Unsettling occurrences begin when Rajiv's ex-girlfriend, Nisha (Sneha Gupta), performs black magic. The plot thickens with the revelation that the house belonged to Manjula (Sonia Agarwal), who died there under mysterious circumstances. Varsha aids Manjula's spirit, leading to its departure from the house. Despite initial intrigue, the film lacks novelty and tests the audience's patience with predictable ghostly elements. Performances, especially from the lead actors, are criticized for lacking depth.
-
-🟩
-
-Actors: Sonia Agarwal, Smriti Venkat, Roshan Bashir, Siddharth Vipin, Sneha Gupta, Subramaniam Siva, Kalki Raja and many others.
-
-Did this ghost film '7G', directed by director Haroon, directed the film 'Web', scared the fans?Or not?We will continue to see.
-
-Rajiv (Roshan Bashir), who works in the field of information technology, owns a house called '7G' in an apartment in Chennai to make her dream of living with his loved wife, Varsha (Smriti Venkat).. In the house, the couple start a happy home with their only successor.Rajiv's ex -girlfriend, Nisha (Sneha Gupta), who comes to greeting them, is doing some of the paranormal work as Black Magic.
-
-This takes place some unpleasant events in the house. Shocked by this, Varsha was the house before?Why is this going on?Begins to inquire. It is also available that the house belongs to a woman named Manjula (Sonia Agarwal) and that she died prematurely in the house.. What happened after that?That is the brilliant screenplay of the film.
-
-...
-
-[Data](articles/17dd62a0.json)
-
-[Extended Data](ext_articles/17dd62a0.ext.json)
 
 ---

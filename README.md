@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 21:04:39**
+As of **2024-07-06 21:19:49**
 
 ## Newspaper Stats
 
@@ -26,33 +26,41 @@ adaderanasinhalalk | 5,640
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,962 (100.0%) of 33,963 articles have been extended.
+33,963 (100.0%) of 33,963 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### ඉරානයේ 9වන ජනාධිපතිවරයා මසූඩ්
+### The 9th President of Iran Masood
 
 *2024-07-06 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198550) · `si`
 
-ඉරානයේ 9වන ජනාධිපතිවරයා ලෙස මධ්‍යස්ථ මතදාරී මසූඩ් පෙසෙෂ්කියන් තේරී පත්වී තිබේ.
+Masood Peshcan, a moderate cleric, has been elected as Iran's 9th President, defeating Ayatollah Sadeq Gelei. The election, initially set for June 2025, was brought forward due to the untimely death of former President Ebrahim. Peshcan secured 16.5 million votes, surpassing Ayatollah Ali Khamenei's 13.5 million. A veteran politician, Peshcan served in the parliament from 2008 and as the Health Minister of Tehran. He promises to lift economic sanctions against Iran, reform political systems, and ensure gender equality, including lifting restrictions on women.
 
-ඒ ඉරාන අධ්‍යාත්මික නායක අයතුල්ලා අල් කමේනිගේ පවා ප්‍රසාදය හිමිකරගත් සයිඩ් ජලීලි පරාජයට පත් කරමිනි.
+🟩
 
-ඉරාන ජනාධිපතිවරණය 2025 ජුනි මාසයේදී පැවැත්වීමට නියමිතව පැවතියත් හදිසි ජනාධිපතිවරණයක් කැඳවීමට සිදුවුණේ හිටපු ජනාධිපති ඊබ්‍රාහිම් රයිසිගේ හදිසි මරණයත් සමගය.
+The moderate Methari Masood Peshcan has been elected as Iran's 9th President.
 
-පසුගිය මැයි 28 වනදා ජනාධිපතිවරණය පැවතියත් එහිදී කිසිවෙකුටවත් සියයට 50 ඉක්මවූ ඡන්ද ප්‍රතිශතයක් දිනා ගැනීමට අපොහොසත් වීමෙන් දෙවැනි මත විමසුමක් සඳහා යොමුවීමට සිදුවිය.
+The Iranian spiritual leader of the Iranian leader, Side Gelei defeated.
 
-ඒ අනුව ඊයේ පැවති ඡන්ද විමසීමෙන් මනාප මිලියන 16.5ක් දිනා ගනිමින් ජනාධිපතිවරණ සටන ජය ගැනීමට 71ක් හැවිරිදි විශේෂඥ වෛද්‍යවරයෙකු වන මධ්‍යස්ථ මතදාරී මසූඩ් පෙසෙෂ්කියන් සමත්වුණි.
+Although the Iranian presidential election was scheduled to be held in June 2025, an emergency president had to be called with the emergency death of former President Ebrahim.
 
-ඒ ඉරාන අධ්‍යාත්මික නායක අයතුල්ලා අල් කමේනිගේ පවා ප්‍රසාදයට ලක්වූ දැඩි ඉස්ලාමීය මතදාරී සයිඩ් ජලීලි මනාප මිලියන 13.5කට සීමා කරමිනි.
+Although the presidential election was in the presidential election on May 28, he had to resort to a second on the second.
 
-ඉරානයේ ටැබ්‍රිස් නගරය නියෝජනය කරමින් 2008 වසරේදී ඉරාන පාර්ලිමේන්තුවට තේරී පත්වූ මසූඩ් පෙසෙෂ්කියන් මොහොමඩ් කටාමි පාලනයේ ඉරාන සෞඛ්‍ය අමාත්‍යවරයා ලෙස කටයුතු කළේය.
+Accordingly, a 71-year-old specialist Peshood Peshood Peshuad Peshcli had won 16.5 million preferential votes.
+
+The Iranian spiritual leader Ayatollah Al Qameni, even favored, is limited to 13.5 million preferential votes.
+
+He was elected to the Iranian parliament in Parliament representing Tabris, representing Tabris, representing Tabris town in 2008, was the Minister of Health of the Twarf.
+
+Pesaskian's promise is that Iran is removed and the economic sanctions on Iran are removed and opening the economy.
 
 ...
 
 [Data](articles/e9e315fd.json)
+
+[Extended Data](ext_articles/e9e315fd.ext.json)
 
 ---
 

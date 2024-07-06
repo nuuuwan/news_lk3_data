@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 15:53:29**
+As of **2024-07-06 16:05:21**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,630
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,944 (100.0%) of 33,945 articles have been extended.
+33,945 (100.0%) of 33,945 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### ඉන්දියාවේදී එල්ලවූ කඩු ප්‍රහාරය
+### Sword attack on India
 
 *2024-07-06 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198539) · `si`
 
-හින්දු පුරවැසියන්ගේ අයිතිවාසිකම් වෙනුවෙන් පෙනී සිටින පන්ජාබයේ ශිව් සේනා සංවිධානයේ නායකයාට ලූදියානාහි මහ මර්ගයකදී කඩු ප්‍රහාරයක් එල්ල කර තිබේ.
+In a recent incident in Liyanana, the Punnabe leader advocating for Hindu rights became a target of a sword attack. Two individuals were apprehended, and the Shiv Sena leader was wounded, requiring hospitalization.
 
-සිදුවීම සම්බන්ධයෙන් පුද්ගලයන් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර ශිව් සේනා නායකයා තුවාල ලබා රෝහල්ගත කර ඇත.
+🟩
+
+The Leader of the Punnabe, who appearing for the rights of Hindu citizens, has been a sword in Liyanana.
+
+Two persons have been arrested in connection with the incident and the Shiv Senene leader was injured and hospitalized.
 
 ◼️
 
 [Data](articles/27faef92.json)
+
+[Extended Data](ext_articles/27faef92.ext.json)
 
 ---
 

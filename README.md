@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 13:54:30**
+As of **2024-07-06 14:06:03**
 
 ## Newspaper Stats
 
-*Scraped **33,933** Articles*
+*Scraped **33,934** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,897
 economynextcom | 2,000
 dailyftlk | 2,115
-adalk | 3,028
+adalk | 3,029
 adaderanalk | 3,883
 tamilmirrorlk | 4,017
 dailymirrorlk | 4,733
@@ -26,31 +26,39 @@ adaderanasinhalalk | 5,627
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,932 (100.0%) of 33,933 articles have been extended.
+33,933 (100.0%) of 33,934 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### අනධ්‍යයන කාර්යමණ්ඩලයට දැනුම්දීමක්
+### Notice to the non-academic staff
 
 *2024-07-06 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198535) · `si`
 
-රටේ අනාගතය භාරගැනීමට සිටින තරුණ තරුණියන්ගේ ජීවිත තවදුරටත් ව්‍යාකූල නොකර, ඔවුන්ගේ කාලය උදුරා නොගෙන සේවයට වාර්තා කරන්නැයි සියලුම විශ්වවිද්‍යාලවල අනධ්‍යයන කාර්යමණ්ඩලයෙන් ඉල්ලා සිටින බව උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍ය ආචාර්ය සුරේන් රාඝවන් මහතා පවසයි.
+Dr. Suren Sanghavan, State Minister of Higher Education, acknowledges the challenges faced by young people and the non-academic staff of universities. He pledges to address their concerns, including salary anomalies and the introduction of a Hillawa allowance, in the upcoming Budget 2025. However, the ongoing strike by non-academic employees across 17 state universities since June 6th highlights their urgency. The Ministry of Education supports the strike, promising no punishment for participants, but notes that addressing these issues will be considered in future budgets due to current constraints.
 
-ඔහු පවසන්නේ විශ්වවිද්‍යා‍ල අනධ්‍යයන කාර්යමණ්ඩලයේ ඉල්ලීම් උදය සෙනවිරත්න කමිටුව හරහා 2025 අයවැයට ඇතුළත් කරන බවට තමා පොරොන්දු වෙන බවය.
+🟩
 
-කෙසේවෙතත් ඉල්ලීම් කිහිපයක් මුල්කරගනිමින් විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින් ආරම්භ කළ වර්ජනය අද (06) 67වන දිනටත් ක්‍රියාත්මක වෙයි.
+State Minister of Higher Education Dr. Suren Sanghavan says that although the country has further confused the lives of young people who are in charge of the country, he is asked to report their time to work.
 
-සිය මාසික හිලව් දීමනාව සහ 2016 වසරේ සිට පවතින වැටුප් විෂමතාවට විසඳුම් ඉල්ලා විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින් රාජ්‍ය විශ්වවිද්‍යාල 17ක වෘත්තීය ක්‍රියාමාර්ගයක නිරතව සිටී.
+He says he promises to include the demands of the University Alleviation Staff to the Budget 2025 through the Committee.
 
-මෙවන් පසුබිමක අධ්‍යාපන අමාත්‍යාංශයෙන් වර්ජනයේ නිරත විශ්වවිද්‍යාල අනධ්‍යන සේවකයින්ට ලිපියක් යොමු කර තිබේ.
+However, the strike commenced in the university non-academic employees on the 67th today (06).
 
-එහි දැක්වෙන්නේ මෙම වෘත්තිය සමිති ක්‍රියාමාර්ගයට පාදක වූ පරිදි මාසික හිලව් දීමනාව අනධ්‍යයන කාර්යමණ්ඩලයට ලබාදිය යුතු බවත් ඒ සඳහා විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව පෙනී සිටින බවත්ය.
+University non-academic workers are engaged in a trade union action of 17 state universities asking for their monthly Hillawa and salary anomalies from 2016.
+
+In this backdrop, the Ministry of Education has sent a letter to university allocation workers involved.
+
+It indicates that the monthly Hillawa allowance should be given to the non-academic staff as he was based on this trade union action.
+
+However, these demands are to be considered in the next budget as these requests are difficult at this time.
 
 ...
 
 [Data](articles/108fc35b.json)
+
+[Extended Data](ext_articles/108fc35b.ext.json)
 
 ---
 
@@ -1558,6 +1566,26 @@ The additional flights will be served by the Boeing 787 aircraft, featuring 30 B
 
 ---
 
+### ජනපතිධුරයේ කාලය වසර 6 සිට 5කට අඩු කිරිමට යෝජනා කළේ මමයි
+
+*2024-07-05 19:11:06* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිධුරයේ-කාලය-වසර-6-සිට-5කට-අඩු-කිරිමට-යෝජනා-කළේ-මමයි/11-410629) · `si`
+
+නියමිත දිනට මැතිවරණය පැවැත්විය යුතු බවත් ඒ සඳහා මැතිවරණ කොමසාරිස්වරයා සමඟ සාකච්ඡාවේදී  කරුණු පහදා දුන් බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ශ්‍රී ලංකා රාමඤ්ඤ මහා නිකායේ මහානායක අතිපූජ්‍ය මකුලෑවේ විමල ස්වාමීන් වහන්සේ හමුවේ ප්‍රකාශ කළේය.
+
+ශ්‍රී ලංකා රාමඤ්ඤ මහා නිකායේ  මහා නායක අතිපූජ්‍ය මකුලෑවේ විමල ස්වාමීන් වහන්සේ වැඩ සිටින නාරාහේන්පිට, ඇල්විටිගල මාවතේ පිහිටි ශ්‍රී ලංකා රාමඤ්ඤ මහා නිකායේ  සංඝ මූලස්ථානය  වෙත අද (05) පස්වරුවේ  පැමිණි ජනාධිපතිවරයා මහානායක හිමිපාණන් වහන්සේ බැහැදැක සුව දුක් විමසා කෙටි පිළිසඳරක නිරත විය.
+
+මෙහිදී සෙත් පිරිත් සජ්ජායනා කර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත ආශිර්වාද පළ කළ මහා නායක හිමිපාණන් වහන්සේ ජනාධිපතිවරයා වෙත සමරු තිළිණයක් ද පිළිගැන්වීය.
+
+මෙහිදී අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් මෙසේද පැවසීය,
+
+ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලියට අදාළව  අප මේ වන විට පෞද්ගලික ණය හිමියන් සහ වාණිජ ණය හිමියන් සමඟ සාකච්ඡා අවසන් කර තිබෙනවා. අපට ගෙවීමට තිබු ණය ප්‍රමාණයෙන් ඩොලර් බිලියන 8ක් පමණ අඩු කර ගැනීමට හැකිවීමේ සුබ ආරංචිය ඔබවහන්සේට දැනුම් දෙන්න කැමතියි .
+
+...
+
+[Data](articles/31893910.json)
+
+---
+
 ### 2024 World Arted Intelligence Technological Summit in Shanhai
 
 *2024-07-05 18:47:10* · [`adalk`](https://www.ada.lk/technology/2024-ලෝක-කෘත්‍රිම-බුද්ධි-තාක්ෂණ-සමුළුව-චීනයේ-ශැංහයි-නුවර-දී/5-410628) · `si`
@@ -2187,29 +2215,5 @@ They have accused the petitioner had taken steps to mislead the petitioner in th
 [Data](articles/6a7a43cd.json)
 
 [Extended Data](ext_articles/6a7a43cd.ext.json)
-
----
-
-### Official N officials of the police from the Netherlands
-
-*2024-07-05 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198513) · `si`
-
-Thirty-five dogs, including Belgian Malinois, German Shepherds, and English Spaniels, were imported from the Netherlands to Sri Lanka's Katunayake International Airport today. These dogs, ranging from 8 to 12 months old, are part of a shipment from a private livestock farm.
-
-🟩
-
-35 imported dogs were brought to the Katunayake International Airport this morning.
-
-These dogs have been imported from the private livestock farm, including the Netherlands K10s WorkingDogs.
-
-Among these dogs, 13 Belgian Malinois (Belgian Malinois) types of German Shepard (german shepperd) types of English Spaniel and English Spaniel (English Spaniel) include 10 dogs.
-
-Of these, 21 of these dogs, between 8 and 12 months are female.
-
-◼️
-
-[Data](articles/5b388d0e.json)
-
-[Extended Data](ext_articles/5b388d0e.ext.json)
 
 ---

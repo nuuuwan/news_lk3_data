@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 19:04:54**
+As of **2024-07-06 19:20:14**
 
 ## Newspaper Stats
 
-*Scraped **33,956** Articles*
+*Scraped **33,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 1,897
 economynextcom | 2,002
 dailyftlk | 2,115
 adalk | 3,031
-adaderanalk | 3,885
+adaderanalk | 3,886
 tamilmirrorlk | 4,018
 dailymirrorlk | 4,733
 virakesarilk | 5,323
-adaderanasinhalalk | 5,636
+adaderanasinhalalk | 5,637
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,956 (100.0%) of 33,956 articles have been extended.
+33,956 (100.0%) of 33,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### නිවසක් කොල්ලකෑ දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-07-06 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198547) · `si`
+
+පසුගියදා දෙහිඕවිට රංගේගම ප්‍රදේශයේ ව්‍යාපාරිකයෙකුගේ නිවසට ඇතුළුවී පවුම් 4ක පමණ රන් භාණ්ඩ සහ ලක්ෂ 4කට අධික මුදල්  සොරාගත් සොහොයුරන් දෙදෙනෙකු දෙහිඕවිට පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරුවන් සොරාගත් මුදල්වලින් දෙලක්ෂ අනූ අටදහසක මුදලක්ද පොලීසිය සිය භාරයට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/2188fba6.json)
+
+---
+
+### UAE deports Sri Lankans arrested over cybercrimes and prostitution
+
+*2024-07-06 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100335/uae-deports-sri-lankans-arrested-over-cybercrimes-and-prostitution) · `en`
+
+Eleven Sri Lankans deported from the United Arab Emirates (UAE) for engaging in cybercrimes have arrived in the island this morning (06), the Sri Lanka Bureau of Foreign Employment (SLBFE) said.
+
+On July 01, Khaleej Times reported that thousands of individuals, including many South Asians and Africans were entrapped during a crackdown conducted across locations in Dubai recently, with the largest raid at Rahaba Residences in Dubailand.
+
+The UAE authorities also dismantled major cybercrime syndicates in an all-night operation across the UAE, resulting in the arrest of hundreds of cybercriminals and the rescue of numerous individuals recently.
+
+However, following an investigation carried out by the Sri Lankan Embassy in the UAE, it has been revealed that among the arrestees were 37 Sri Lankans, detained on charges including cybercrimes and prostitution.
+
+...
+
+[Data](articles/da9b3ad0.json)
+
+---
 
 ### Sri Lankans deported from the United Arab Emirates
 
@@ -2215,55 +2247,5 @@ OIC of the Ambalangoda Child Women's Bureau, Inspector General of Sub Inspection
 [Data](articles/fdab32cd.json)
 
 [Extended Data](ext_articles/fdab32cd.ext.json)
-
----
-
-### The first Tamil woman to win the British election
-
-*2024-07-05 18:07:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரிட்டன்-தேர்தலில்-வெற்றிப்-பெற்ற-முதல்-தமிழ்-பெண்/50-339916) · `ta`
-
-Uma Kumaran, a Tamil-origin candidate from the Labour Party, made history as the first Tamil woman elected to the British Parliament. Contesting in the London Stanmore constituency, she secured 19,145 votes, defeating her closest rival, Kane Blackwell of the Conservative Party, who received 3,144 votes. This victory marks a significant milestone for the Tamil community in Britain.
-
-🟩
-
-The main opposition party, the main opposition party, has won the British parliamentary election. The Labor Party has won 410 seats in 650 seats and Rishi Sunak's Conservative Party has won 119 seats. Other parties have won 112 seats.
-
-In the British parliamentary election, Uma Kumaran, Gavin Haran, Mayuran Senthilnathan, Kamala Kugan, Devina Paul, Narani Rudra Rajan, Krishni and Zahir Hussein contested a total of 8 Tamils.
-
-In the meantime, Uma Kumaran, a Tamil origin, contested the London Standboard constituency on behalf of the Labor Party in the British parliamentary election.
-
-Uma Kumaran has registered the victory with 19,145 votes in this constituency. Conservative Party candidate Kane Blackwell, who contested against him, was ranked 4th with only 3,144 votes.
-
-Uma Kumaran, the Eelam Tamil woman, is the first Tamil MP in Britain's history. By. It is noteworthy that his family moved to England after the civil war in Sri Lanka. Remble
-
-◼️
-
-[Data](articles/e2d1f6df.json)
-
-[Extended Data](ext_articles/e2d1f6df.ext.json)
-
----
-
-### Ordinary Level Aesthetic Technologies August
-
-*2024-07-05 17:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198519) · `si`
-
-Practical tests for GCE Ordinary Level exams start August 9, affecting 169,007 candidates. These tests, including written ones, decide the aesthetic subjects' final results. Candidates absenting themselves will receive their subjects.
-
-🟩
-
-The Examinations Department announces that practical tests pertaining to the GCE Ordinary Level examination will commence from 9th August.
-
-The Department of Examinations said that 169,007 candidates will be held on August 19.
-
-The Department of Examinations has further stated that it is utilized by both the written tests and practical tests to determine the final results of aesthetic subject.
-
-The Department of Examinations has informed the issuance of the subject for the candidates who do not appear.
-
-◼️
-
-[Data](articles/80d35de7.json)
-
-[Extended Data](ext_articles/80d35de7.ext.json)
 
 ---

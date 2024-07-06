@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 07:00:38**
+As of **2024-07-06 07:22:32**
 
 ## Newspaper Stats
 
-*Scraped **33,904** Articles*
+*Scraped **33,905** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,875
 tamilmirrorlk | 4,010
 dailymirrorlk | 4,733
 virakesarilk | 5,317
-adaderanasinhalalk | 5,616
+adaderanasinhalalk | 5,617
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,903 (100.0%) of 33,904 articles have been extended.
+33,904 (100.0%) of 33,905 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### ප්‍රදේශ කිහිපයකට වැසි සහ තද සුළං
+
+*2024-07-06 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198525) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින්විට වැසි ඇති වන බව කාලගුණවිද්‍යා  දෙපාර්තමේන්තුව පවසයි.
+
+ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා  දෙපාර්තමේන්තුව ජනතාවට දැණුම් දී තිබේ.
+
+◼️
+
+[Data](articles/b56545e7.json)
+
+---
 
 ### National tea sales averages June 2024: Cumulative variance records positive value
 
@@ -356,21 +374,29 @@ The purpose of the said Orders is to promote moral and ethical conduct among jus
 
 ---
 
-### ’இலங்கைக்கு 8 பில்லியன் டொலர் நிவாரணம்’
+### 8 billion relief for Sri Lanka
 
 *2024-07-06 00:25:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-8-பில்லியன்-டொலர்-நிவாரணம்/175-339931) · `ta`
 
-கடன் மறுசீரமைப்புச் செயற்பாடுகளுடன் இணைந்ததாக இருதரப்புக் கடன் வழங்குநர்களிடமிருந்து 05 பில்லியன் டொலர் கடன் வட்டி நிவாரணம் கிடைக்க இருப்பதோடு வர்த்தகக் கடன் வழங்குநர்களின் இணக்கப்பாட்டின் பிரகாரம் 03 பில்லியன் டொலர் கடனை வெட்டிவிடப்படவுள்ளது எனவும் இதன் ஊடாக நாட்டு மக்களுக்கு 08 பில்லியன் டொலர் நிவாரணம் கிடைக்கின்றது என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+Sri Lanka's President Ranil Wickremesinghe announced a $5 billion loan from bilateral creditors, reducing the country's debt by $8 billion over two years without including aid from China and India. The funds will be used for development projects, with negotiations underway to reduce payments by another $3 billion. This move aims to stabilize the economy and provide relief to the citizens.
 
-20 லட்சம் முழுமையான காணி உறுதிகளை வழங்குவதற்கான ‘உறுமய’ தேசிய வேலைத் திட்டத்தின் கீழ், குருணாகல் மாவட்டத்தில் 73,143 பேருக்கு காணி உறுதிகள் வழங்கப்படவுள்ளன.
+🟩
 
-அதன்படி நேற்று முற்பகல் குருநாகல் வடமேல் மாகாண சபையின் கேட்போர் கூடத்தில் 463 பேருக்கு காணி உறுதிகளை அடையாள ரீதியாக வழங்கும் நிகழ்வில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி மேற்கண்டவாறு  தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+President Ranil Wickremesinghe said that the loan of $ 05 billion from bilateral credit providers will be received from bilateral credit issuers and will be cut off the $ 03 billion loan for the country's consensus.
 
-நாட்டின் பொருளாதாரம் வீழ்ச்சியடைந்த போது மக்கள் நம்பிக்கை இழந்திருந்தனர். இன்று இந்தப் பகுதி எம்.பி.க்களுக்கு நன்றி சொல்ல வேண்டும். தமது வீடுகள் தீயிடப்பட்டதை மறந்துவிட்டு மக்களுக்கு நன்மை செய்ய முன்வந்திருக்கிறார்கள்.
+Under the National Working National Program for Rs.
+
+Accordingly, the President said this while addressing 463 land guarantees at the auditorium of the North Western Provincial Council Kurunegala yesterday morning.. As he further stated,
+
+When the country's economy collapsed, people lost hope. Today this area should thank the MPs. They have forgotten that their homes have been on fire and have come forward to do good.
+
+Today the country is free from bankruptcy. We have 04 years of time to repay the loan. Also, the opportunity to pay off the loan with a moderate load for about 6 years. A sum has been cut off the interest payable. So $ 05 billion remains to the country.
 
 ...
 
 [Data](articles/49348859.json)
+
+[Extended Data](ext_articles/49348859.ext.json)
 
 ---
 
@@ -2195,27 +2221,5 @@ Stalitting many projects related to the energy sector during the last crisis. Bu
 [Data](articles/90747b71.json)
 
 [Extended Data](ext_articles/90747b71.ext.json)
-
----
-
-### Gas leak at Malaysia’s Kuala Lumpur airport affects 39 people
-
-*2024-07-05 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100308/gas-leak-at-malaysias-kuala-lumpur-airport-affects-39-people) · `en`
-
-Around 39 people at Malaysia’s Kuala Lumpur international airport fell ill on Thursday after a gas leak at an aircraft engineering facility, but no passengers were affected and there were no flight disruptions, the fire department said.
-
-The Selangor state fire department said it received an emergency call regarding a chemical leak at the Southern Support Zone Sepang Aircraft Engineering facility at 11.23 a.m. (0323 GMT) and dispatched its personnel along with a hazardous materials team.
-
-The engineering facility is separate to the passenger terminal and those affected by the gas worked for three companies operating there, the fire department said in a statement.
-
-Thirty nine people complained of dizziness and nausea, with 14 sent to the air disaster unit to receive treatment while one was hospitalised, the department said.
-
-The chemical was later identified as methyl mercaptan, added to liquefied petroleum gas as an odorant, coming from an unused tank at the facility, the department said.
-
-...
-
-[Data](articles/114cce8a.json)
-
-[Extended Data](ext_articles/114cce8a.ext.json)
 
 ---

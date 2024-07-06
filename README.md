@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 20:19:44**
+As of **2024-07-06 20:34:57**
 
 ## Newspaper Stats
 
-*Scraped **33,961** Articles*
+*Scraped **33,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,59 @@ adaderanalk | 3,886
 tamilmirrorlk | 4,019
 dailymirrorlk | 4,733
 virakesarilk | 5,323
-adaderanasinhalalk | 5,638
+adaderanasinhalalk | 5,639
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,960 (100.0%) of 33,961 articles have been extended.
+33,961 (100.0%) of 33,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### இவ்வருடம் சம்பள அதிகரிப்பு இல்லை - ஜனாதிபதி
+### ඉන්දීය කණ්ඩායමට පරාජයක්
+
+*2024-07-06 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198549) · `si`
+
+සංචාරක ඉන්දීය කණ්ඩායම සහ සිම්බාබ්වේ කණ්ඩායම අතර අද (06) පැවැති විස්සයි විස්ස ජාත්‍යන්තර තරගය ලකුණු 13නික් ජය ගැනීමට සිම්බාබ්වේ කණ්ඩායම සමත් විය.
+
+තරගයේ කාසියේ වාසීය දිනූ ඉන්දීය කණ්ඩායමේ නායක ශුබ්මන් ගිල් පළමුවෙන් පන්දුවට පහරදීම සඳහා සිම්බාබ්වේ කණ්ඩායමට ආරාධනා කළේය.
+
+ඒ අනුව පළමුවෙන් පන්දුවට පහරදුන් සිම්බාබ්වේ කණ්ඩායම නියමිත පන්වාර 20 අවසානයේ කඩුලු 09ක් දැවී ලකුණු 115ක් රැස් කළේය.
+
+සිම්බාබ්වේ කණ්ඩායම වෙනුවෙන් Clive Madande නොදැවී ලකුණු 29ක් රැස් කළ අතර Dion Myers ලකුණු 23ක් රැස් කළේය.
+
+ලකුණු 116ක ජයග්‍රාහි ඉලක්කයක් හඹා යෑමට පිටියට පිවිසි ඉන්දීය කණ්ඩායමට පන්දුවාර 19යි පන්දු 05ක් අවසානයේ සියලුදෙනා දැවී රැස්කර ගත හැකි වූයේ ලකුණු 102ක් පමණි.
+
+ඒ අනුව තරග 03කින් සමන්විත 20යි 20 තරගාවලිය 1 - 0ක් ලෙස පෙරමුණ ගැනීමට සිම්බාබ්වේ කණ්ඩායම සමත් විය.
+
+◼️
+
+[Data](articles/34645a3c.json)
+
+---
+
+### There is no salary increase this year - the president
 
 *2024-07-06 19:50:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவ்வருடம்-சம்பள-அதிகரிப்பு-இல்லை-ஜனாதிபதி/175-339941) · `ta`
 
-அரசாங்க துறையில் மீண்டும் இவ்வருடம் சம்பளத்தை அதிகரிக்க முடியாது என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார்.
+Due to upcoming elections, there will be no salary increases in the government sector this year, according to President Ranil Wickremesinghe. However, he suggests that pay hikes may be possible through the next year's budget.
 
-இந்த வருடம் தேர்தல் காலம் நெருங்கி வருவதால் அதனை செய்ய முடியாது என ஜனாதிபதி குறிப்பிட்டுள்ளார்.
+🟩
 
-மேலும் கருத்து தெரிவித்த ஜனாதிபதி, அடுத்த வருட வரவு செலவுத்திட்டத்தின் ஊடாகவே சம்பளத்தை அதிகரிக்க முடியும் என சுட்டிக்காட்டினார்.R
+President Ranil Wickremesinghe says the salary cannot be increased this year in the government sector.
+
+The president has stated that this year's election period is nearing and it cannot be done.
+
+The President also pointed out that the salary could be increased through the next year's budget.
 
 ◼️
 
 [Data](articles/134cd493.json)
+
+[Extended Data](ext_articles/134cd493.ext.json)
 
 ---
 
@@ -2221,33 +2249,5 @@ The additional flights will be served by the Boeing 787 aircraft, featuring 30 B
 [Data](articles/f3fd2503.json)
 
 [Extended Data](ext_articles/f3fd2503.ext.json)
-
----
-
-### I was proposed to reduce the time of 6 to five years
-
-*2024-07-05 19:11:06* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිධුරයේ-කාලය-වසර-6-සිට-5කට-අඩු-කිරිමට-යෝජනා-කළේ-මමයි/11-410629) · `si`
-
-President Ranil Wickremesinghe discussed holding elections on schedule and met religious leaders, including the General Manager of the Ramanya Nikaya. He announced progress in debt restructuring, aiming to reduce $8 billion in debt and secure loan repayment until 2043, potentially boosting Sri Lanka's export economy. The proposal to shorten his presidential term from six to five years was mentioned, alongside efforts to alleviate economic hardships through public relief programs.
-
-🟩
-
-President Ranil Wickremesinghe said that the election should be held on the due date and had explained the matter with the Commissioner of Elections and to the Commissioner of Elections.
-
-The President visited the Mahanane Thera in Narahenpita, the General Manage of the Ramanya Nikaya, Narahenpita, the General Manage of the Ramanya Nikaya.
-
-The General Leader Thero presented a souvenir to the President of Seth and blessed President Ranil Wickremesinghe.
-
-President Ranil Wickremesinghe further said,
-
-We have already completed discussions with private creditors and commercial creditors in relation to the restructuring process. We would like to inform you the good news of reducing $ 8 billion in debt we have to pay.
-
-And we were able to get 4 years of relief for the payment of loans and to receive the full loan to 2043. Sri Lanka's export economy is expected to take advantage. The country can bring back to a standard of borrowing if planned for the next two years.
-
-...
-
-[Data](articles/31893910.json)
-
-[Extended Data](ext_articles/31893910.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 08:20:31**
+As of **2024-07-06 08:36:07**
 
 ## Newspaper Stats
 
-*Scraped **33,908** Articles*
+*Scraped **33,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,62 +13,146 @@ colombotelegraphcom | 312
 bbccomsinhala | 333
 newsfirstlk | 363
 islandlk | 1,897
-economynextcom | 1,997
+economynextcom | 1,999
 dailyftlk | 2,115
 adalk | 3,028
 adaderanalk | 3,875
-tamilmirrorlk | 4,011
+tamilmirrorlk | 4,014
 dailymirrorlk | 4,733
 virakesarilk | 5,317
-adaderanasinhalalk | 5,619
+adaderanasinhalalk | 5,620
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,906 (100.0%) of 33,908 articles have been extended.
+33,908 (100.0%) of 33,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### අන්තර්ජාල වංචා ඉහළට
+### රොනාල්ඩෝ හඬවමින් ප්‍රංශය ඉදිරියට
+
+*2024-07-06 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198528) · `si`
+
+2024 යුරෝපීය පාපන්දු තරගාවලියේ අවසන් පූර්ව වටයට සුදුසුකම් ලැබීමට ස්පාඤ්ඤය සහ ප්‍රංශය සමත් විය.
+
+මේ අතර ප්‍රංශය සහ පෘතුගාලය අතර පැවති තරගයේ නියමිත කාලයේ දී කණ්ඩායම් දෙකම ගෝල වාර්තා කිරීමට අසමත් විය.
+
+මෙම තරගය සුපිරි ක්‍රීඩක ක්‍රිස්ටියනෝ රොනාල්ඩෝ ගේ අවසන් යුරෝපීය කුසලාන තරගය ලෙස සැළකේ.
+
+◼️
+
+[Data](articles/716f8c14.json)
+
+---
+
+### இன்று அவ்வப்போது மழை பெய்யும்
+
+*2024-07-06 08:04:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அவ்வப்போது-மழை-பெய்யும்/175-339936) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+ஊவா மாகாணத்திலும் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களிலும் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+
+◼️
+
+[Data](articles/9c652c29.json)
+
+---
+
+### Sri Lanka says 1.3mn register for tax number in June, targets 7.4mn
+
+*2024-07-06 08:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-says-1-3mn-register-for-tax-number-in-june-targets-7-4mn-171114/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s State Minister of Finance has said that 2.3 million people have got Taxpayer Identification Number (TIN) so far, with 1.3 million in June alone.
+
+The government’s aim was to increase the number of people who have been given TIN numbers to 7.3 million by the end of July, Ranjith Siyambalapitiya said.
+
+“If you are asked to pay tax but do not have income, do not pay tax,” he told TIN registrants.
+
+Siyambalapitiya said that even if the Inland Revenue Department sent letters or text messages asking people who have obtained a TIN to pay taxes, if their monthly income does not exceed the threshold limit of 100,000 rupees the local revenue department should be informed. (Colombo/Jul5/2024)
+
+◼️
+
+[Data](articles/28ba5553.json)
+
+---
+
+### Up Internet fraud
 
 *2024-07-06 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198527) · `si`
 
-වසරේ ගතවූ මාස 5ක කාලසීමාව තුළ අන්තර්ජාල වංචා සම්බන්ධයෙන් පැමිණිලි 1,093 ක් වාර්තා වී ඇති බව පරිගණක හදිසි ප්‍රතිචාර සංසදය පවසයි.
+In the last six months, there were 1,093 internet fraud reports, with 7,916 from social media, including 27 child sexual abuse cases reported in just two months, all forwarded to the National Child Protection Authority.
 
-එහි ජ්‍යෙෂ්ඨ තොරතුරු ආරක්ෂණ ඉංජිනේරු චරුක දමුණුගල මහතා සඳහන් කළේ සමාජ මාධ්‍ය සම්බන්ධයෙන් පැමිණිලි 7,916 ක් වාර්තා වී ඇති බවය.
+🟩
 
-ඒ පිළිබඳ තවදුරටත් පැහැදිලි කරමින් චරුක දමුණුගල මහතා සඳහන් කළේ මාස දෙකක් ඇතුළත ළමුන් සම්බන්ධයෙන් පැමිණිලි විශේෂයෙන් ළමා ලිංගික හිංසන 27 ලැබී ඇති බවය.
+The Computer Emergency Response Forum says that 1,093 complaints have been reported on internet fraud during the past five months.
 
-එම පැමිණිලි ජාතික ළමා ආරක්ෂක අධිකාරියට යොමු කර ඇති බව ද ඒ මහතා වැඩිදුරටත් ප්‍රකාශ කළේය.
+Senior Information Security Engineers Warrankamamunagala stated that 7,916 complaints have been reported on social media.
+
+Furthermore, Kuraluk Damunugala stated that complaints about children in two months, especially the 27 child sexual violence.
+
+He added that the complaints have been sent to the National Child Protection Authority.
 
 ◼️
 
 [Data](articles/baa502fa.json)
 
+[Extended Data](ext_articles/baa502fa.ext.json)
+
 ---
 
-### අකුරණ ගින්නට හේතුව ?
+### The cause of the Akurana fire?
 
 *2024-07-06 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198526) · `si`
 
-අකුරණ අවන්හලක ඇති වූ ගින්නට හේතුව එම ගොඩනැගිල්ලේ බේකරි නිෂ්පාදනාගායේ තිබූ විදුලි උඳුන්වලට විදුලිය සපයන පද්ධතියේ විදුලි කාන්දුවක් විය හැකි බවට පොලීසිය සැක පළ කරයි.
+Akurana restaurant fire suspected to be caused by electrical issues related to bakery equipment. The blaze affected nearby shops and an international school, leading to temporary closure of the Kandy-Matale road. Investigations ongoing by Alawatugoda Police.
 
-ගින්න සම්බන්ධයෙන් අලවතුගොඩ පොලීසිය වැඩිදුර විමර්ශන සිදුකරන බව සඳහන් වේ.
+🟩
 
-පොලීසිය පැවසුවේ එම අවන්හල අසල පිහිටි අලෙවිසැලක් ඇතුළු වෙළෙඳසැල් කිහිපයකට සහ ජාත්‍යන්තර පාසලකට ගින්නෙන් හානි වී ඇති බව.
+The police suspect that the building is due to the fire in Akurana restaurant, police suspect that the electricity supplier of the bakery products of the bakery facade.
 
-අකුරණ නගරයේ පිහිටි මෙම අවන්හල තුළ ගින්න හටගෙන තිබුණේ ඊයේ (05) උදෑසන 6.30ට පමණ ය.
+The Alawatugoda Police are conducting further investigations.
 
-එම ගින්න හේතුවෙන් මහනුවර - මාතලේ (A9) මාර්ගය ද ඊයේ පෙරවරුවේ තාවකාලිකව වසා දැමීමට කටයුතු කළේය.
+Police said that the fire was damaged by a shop and an international school.
 
-දැඩි පරිශ්‍රමයකින් පසු උදෑසන 10ට පමණ ගින්න මැඩපැවැත්වීමට කටයුතු කර තිබුණි.
+The fire erupted in the restaurant in Akurana last night (05).
+
+Due to the fire, the Kandy-Matale (A9) road was temporarily closed yesterday morning.
+
+After a severe effort, he had worked to curb the fire at around 10 am.
 
 ◼️
 
 [Data](articles/888bddb8.json)
+
+[Extended Data](ext_articles/888bddb8.ext.json)
+
+---
+
+### Sri Lanka in talks for US$25 mn German technical university: State Minister
+
+*2024-07-06 06:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-talks-for-us25-mn-german-technical-university-state-minister-171131/) · `en`
+
+ECONOMYNEXT – Sri Lanka is in the final stage of talks with a German investor for a Technical University to be established in the suburb of capital Colombo, State Higher Education Minister Suren Raghavan said.
+
+“We discussed about German Technical University. This is a US$25 million investment. They want to focus on agriculture, renewable energy, and food technology,” Raghavan told reporters at a media briefing in Colombo on Friday (05).
+
+However, the German University is expected to start operations after the Presidential election scheduled for later this year, he said.
+
+Sri Lanka has been in the process to attract more foreign investments into the country to prevent foreign exchange outflow and promote technical courses.
+
+The island nation has been trying to implement some drastic reforms in the education sector after it suffered an unprecedented economic crisis in 2022. (Colombo/July 06/2024)
+
+◼️
+
+[Data](articles/31e3a82e.json)
 
 ---
 
@@ -347,6 +431,20 @@ Cinnamon Hotels & Resorts introduces ‘The Gathering of Giants,’ an immersive
 [Data](articles/654a12de.json)
 
 [Extended Data](ext_articles/654a12de.ext.json)
+
+---
+
+### மீனவரின் சடலம் கரையொதுங்கியது
+
+*2024-07-06 00:42:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவரின்-சடலம்-கரையொதுங்கியது/175-339933) · `ta`
+
+யாழ். வேலணை கடற்கரையில் மீனவர் ஒருவரின் சடலம் கரையொதுங்கியுள்ளது என்று பொலிஸார் தெரிவித்தனர்.
+
+வேலணை, துறையூர் பகுதியைச் சேர்ந்த 46 வயதான மீனவரே கடற்றொழிலுக்குச் சென்ற நிலையில் சுருவில் கடற்கரையில் நேற்று சடலமாகக் கரையொதுங்கியுள்ளார்.
+
+◼️
+
+[Data](articles/bc6c5942.json)
 
 ---
 
@@ -693,6 +791,24 @@ In an increasingly complex and convoluted landscape of risks, entrepreneurs and 
 [Data](articles/1a9eed92.json)
 
 [Extended Data](ext_articles/1a9eed92.ext.json)
+
+---
+
+### உரிய திகதியில் தேர்தலை நடத்த வேண்டும்: ஜனாதிபதி
+
+*2024-07-05 22:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரிய-திகதியில்-தேர்தலை-நடத்த-வேண்டும்-ஜனாதிபதி/175-339929) · `ta`
+
+உரிய திகதியில் தேர்தலை நடத்த வேண்டும் எனவும், அதற்காக தேர்தல்கள் ஆணையாளருடன் இடம்பெற்ற கலந்துரையாடலில் விடயங்களை விளக்கியதாகவும், ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+நாரஹேன்பிட்டி, எல்விடிகல வீதியில் அமைந்துள்ள ஸ்ரீலங்கா ராமன்ய மகா நிகாயவின் தலைமையகத்திற்கு இன்று (05) பிற்பகல் விஜயம் செய்த ஜனாதிபதி, இலங்கை ராமன்ய மகா நிகாயவின் மகாநாயக்க வண. மகுலேவே விமல மகாநாயக்க தேரரைச் சந்தித்து நலன் விசாரித்ததுடன், சிறு கலந்துரையாடிலும் ஈடுபட்டார்.
+
+இதன்போது, பிரித் பாராயணம் செய்து ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு ஆசி வழங்கிய தேரர், ஜனாதிபதிக்கு நினைவுப் பரிசு ஒன்றையும் வழங்கி வைத்தார்.
+
+உரிய திகதியில் தேர்தலை நடத்த வேண்டும் என்று தேர்தல்கள் ஆணையாளரிடம் தெரிவித்துள்ளேன். 2015ஆம் ஆண்டு ஜனாதிபதியின் பதவிக்காலத்தை 06 வருடங்களில் இருந்து 05 வருடங்களாக குறைக்க நான் தான் பரிந்துரைத்தேன் என்றும் நினைவுகூர்ந்தார். R
+
+◼️
+
+[Data](articles/1c924d6f.json)
 
 ---
 
@@ -2077,147 +2193,5 @@ Judge Prabhudika Nanayakkara, who was investigating the case, ordered the suspec
 [Data](articles/f4dc5b6b.json)
 
 [Extended Data](ext_articles/f4dc5b6b.ext.json)
-
----
-
-### Explanation for the film's favorite police officer
-
-*2024-07-05 13:17:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/படம்-பிடித்த-பொலிஸ்-அதிகாரிக்கு-விளக்கமறியல்/76-339911) · `ta`
-
-In Nuwara Eliya, a female police officer was shot by a male colleague while bathing at a hostel. The court has ordered her arrest, and the shooter remains under investigation.
-
-🟩
-
-The Nuwara Eliya District Magistrate's Court has ordered a female police officer who was bathing in a hostel in the hostel.
-
-A female police officer who was bathing in the hostel bathroom at Lindulai police station, a male police officer who was working at the same police station, was shot in a smart.
-
-The police have arrested the Nuwara Eliya Magistrate's Court, who arrested the police officers and arrested the police officers.
-
-Judge Prabhudika Nanayakkara, who was investigated by the case, ordered the suspect to be interrogated by the police officer until Tuesday (09).
-
-◼️
-
-[Data](articles/f833a890.json)
-
-[Extended Data](ext_articles/f833a890.ext.json)
-
----
-
-### Dhammika Perera ready to contest Presidential Election if SLPP decides
-
-*2024-07-05 13:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/100309/dhammika-perera-ready-to-contest-presidential-election-if-slpp-decides-) · `en`
-
-Billionaire businessman and Member of Parliament Dhammika Perera says that he is ready to contest the upcoming Presidential Election if the Sri Lanka Podujana Peramuna (SLPP) takes a decision.
-
-Perera made this remark while attending the inauguration of the SLPP’s centre for professionals, which was held this morning (05). The event was also attended by SLPP National Organiser MP Namal Rajapaksa.
-
-Commenting further, MP Perera said: “I am prepared to contest the Presidential Election, pending the decision of the biggest political party of Sri Lanka on their candidate. I await their decision while continuing to work towards my victory.”
-
-“My primary focus is on developing the economy… If I am to take the stage, I have to explain how I plan to develop the economy. Therefore, I am currently formulating an economic programme. The decision rests with SLPP.”
-
-...
-
-[Data](articles/e63671b2.json)
-
-[Extended Data](ext_articles/e63671b2.ext.json)
-
----
-
-### Rationalization Of State Workers’ Salaries & Combatting Brain Drain & Greed
-
-*2024-07-05 12:57:24* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rationalization-of-state-workers-salaries-combatting-brain-drain-greed/) · `en`
-
-...
-
-[Data](articles/8559d01c.json)
-
-[Extended Data](ext_articles/8559d01c.ext.json)
-
----
-
-### Fire without cause
-
-*2024-07-05 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198507) · `si`
-
-A fire broke out in an Akurana restaurant early today, spreading to nearby shops. The blaze, which started around 6:30 AM, was brought under control by noon. Despite efforts to evacuate gas cylinders, one exploded, causing further damage. The cause remains unknown.
-
-🟩
-
-The police have informed the Kandy-Matale Road (A9) which has been closed down due to a fire in Akurana restaurant.
-
-The fire was temporarily closed due to the fire this morning (05).
-
-The fire was temporarily closed due to another several shops, police said.
-
-The fire erupted at the restaurant in Akurana town around 6.30 this morning.
-
-At the same time, the employees who were serving in the restaurant were out and the fire spread throughout the building.
-
-In the meantime, about 50 gas cylinders in the restaurant was taken out of the restaurant.
-
-The fire delegation was summoned by the fire delegation of the Kandy Municipal Council to suppress the fire.
-
-They were able to curb the fire at around 10 am after a severe effort.
-
-However, a fireplace and fire was reported from a painting outlet near the burning restaurant.
-
-The fire has not been reported and the cause of the fire has not yet been revealed.
-
-◼️
-
-[Data](articles/ee5c2f7b.json)
-
-[Extended Data](ext_articles/ee5c2f7b.ext.json)
-
----
-
-### Sri Lanka coconut prices down 4.6-pct at auction
-
-*2024-07-05 12:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-prices-down-4-6-pct-at-auction-171037/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s average coconut prices fell 4.6 percent to 79,599 from 83,443 for 1,000 nuts at an auction on July 04, ending seven weeks of gains, data from the Coconut Development Authority shows.
-
-The highest price was 94,000 for 1000 nuts at the July 4 auction, down from 95,000 while the lowest was 70,000 down from 77,000.
-
-A total of 822,889 coconuts were offered at the auction and 773,377 were sold.
-
-Wholesale prices were 95 to 110 rupees for large nuts and 85 to 90 rupees for small nuts in the week to June 20.
-
-Farmgate prices in Kurunegala were 75,000 – 80,000 per 1,000 nuts.
-
-Coconut shells were 30,000 – 31,000 rupees per metric ton. (Colombo/July05/2024)
-
-◼️
-
-[Data](articles/c6ce2b74.json)
-
-[Extended Data](ext_articles/c6ce2b74.ext.json)
-
----
-
-### Special Notice for Tax ID
-
-*2024-07-05 12:18:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-அடையாள-இலக்கம்-பெற்றவர்களுக்கான-விசேட-அறிவிப்பு/175-339908) · `ta`
-
-The Internal Revenue Department has sent letters about tax payments based on TINs. However, Finance Minister Ranjith Siyambalapitiya clarified that individuals earning less than one lakh per month don't need to pay taxes. They should inform their local Homeland Department office. So far, 23 lakhs have received TINs, with 13 lakhs issued in June alone. The Minister aims to increase this number to 73 lakhs by the end of July.
-
-🟩
-
-Letters or text messages have been sent from the Internal Revenue Department to pay taxes on taxpayer identification number (TIN).
-
-However, Finance Minister Ranjith Siyambalapitiya said that if their monthly income does not exceed one lakh, there is no need to pay taxes.
-
-The Minister said that this can be notified to the Regional Office of the nearby Homeland Department.
-
-So far, 23 lakhs have received TIN number and in June alone, 13 lakhs have been received.
-
-The Minister expressed hope that by the end of July, the number of tin numbers could be increased to 73 lakhs.
-
-◼️
-
-[Data](articles/1ffb4fbd.json)
-
-[Extended Data](ext_articles/1ffb4fbd.ext.json)
 
 ---

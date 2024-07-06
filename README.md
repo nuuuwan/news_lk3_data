@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 18:12:26**
+As of **2024-07-06 18:24:01**
 
 ## Newspaper Stats
 
@@ -628,13 +628,17 @@ The project will be implemented with the request of the Minister of Industry and
 
 *2024-07-06 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100330/200-smart-classrooms-and-2000-tabs-for-southern-province-schools) · `en`
 
-President Ranil Wickremesinghe has presented 200 smart classrooms and 2,000 Tablet computers to students in the Southern Province schools, under the Southern Province Smart Classroom Project, at the Hall de Galle this morning (06).
+President Ranil Wickremesinghe emphasized the necessity of an advanced education system combined with modern technology to move the country forward with a new economy. He noted that educational reforms are currently underway to achieve this goal.
 
-The President’s Media Division (PMD) said the project was carried out at a cost of Rs. 300 million.
+President Rani Wickremesinghe made these remarks today (06) during a ceremony at Hall De Galle in Galle. The event marked a significant step towards educational modernization, with the provision of 200 Smart Classrooms and 2000 Tabs to 200 schools in the Southern Province.
 
-The initiative has been launched as per the request of Minister of Health Dr. Ramesh Pathirana, according to the PMD.
+Following a request by the Minister of Health and Industry, Dr. Ramesh Pathirana, the Government of India allocated RS. 300 million to the Southern Provincial Council for this project.
 
-◼️
+Of the 200 schools selected schools, 150 are in the Galle district, while the remaining 50 schools are in the Hambantota and Matara districts.
+
+Additionally, 2000 Tabs were distributed, with each of the 200 classrooms receiving 10 tabs.
+
+...
 
 [Data](articles/469e8369.json)
 

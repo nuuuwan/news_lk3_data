@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 14:54:26**
+As of **2024-07-06 15:04:47**
 
 ## Newspaper Stats
 
-*Scraped **33,941** Articles*
+*Scraped **33,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 3,029
 adaderanalk | 3,883
 tamilmirrorlk | 4,017
 dailymirrorlk | 4,733
-virakesarilk | 5,321
+virakesarilk | 5,322
 adaderanasinhalalk | 5,628
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,941 (100.0%) of 33,941 articles have been extended.
+33,941 (100.0%) of 33,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### தென் மாகாண பாடசாலை மாணவர்களுக்கு 300 பில்லியன் செலவில் ஸ்மார்ட் வகுப்பறைகள் மற்றும் டெப்!
+
+*2024-07-06 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187826) · `ta`
+
+தென் மாகாண பாடசாலை மாணவர்களுக்கு 200 ஸ்மார்ட்  வகுப்பறைகள் மற்றும் 2,000  டெப்  கணினிகள் ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் வழங்கி வைக்கப்பட்டுள்ளது.
+
+இந்நிகழ்வு  ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் காலி ஹோல் டி கோல் மண்டபத்தில் இன்று சனிக்கிழமை நடைபெற்றது.
+
+கைத்தொழில் மற்றும் சுகாதார அமைச்சர் ரமேஷ் பதிரணவின் வேண்டுகோளுக்கு இணங்க இத்திட்டம் முன்னெடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/d0558366.json)
+
+---
 
 ### Police request help to heal disabled swarm
 
@@ -2235,27 +2251,5 @@ The AIADMK candidate in the Villupuram Lok Sabha constituency won only six thous
 [Data](articles/e442d076.json)
 
 [Extended Data](ext_articles/e442d076.ext.json)
-
----
-
-### Dates announced for O/L practical exams of aesthetic subjects
-
-*2024-07-05 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100315/dates-announced-for-ol-practical-exams-of-aesthetic-subjects) · `en`
-
-The Department of Examinations has announced the dates for the practical tests of aesthetic subjects of the 2023 (2024) G.C.E. Ordinary Level examination.
-
-Accordingly, the practical exams for Music, Dancing and, Drama and Theatre will be held from July 09 to July 19, 2024, Exams Commissioner General Amith Jayasundara said.
-
-However, the listening test for Western Music is scheduled to be held on July 14 (Sunday), according to Mr. Jayasundara.
-
-Meanwhile, the department mentioned that the admission cards of school and private applicants sitting for the practical tests would be delivered by post in the near future.
-
-The applicants are advised to contact ‘1911’ – the hotline of the Examinations Department or the contact numbers 011 2 784208, 011 2 784537 or 011 2 786616 for any further inquiries.
-
-◼️
-
-[Data](articles/d4e974fc.json)
-
-[Extended Data](ext_articles/d4e974fc.ext.json)
 
 ---

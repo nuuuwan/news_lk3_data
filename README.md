@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 09:54:21**
+As of **2024-07-06 10:06:08**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,621
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,916 (100.0%) of 33,917 articles have been extended.
+33,917 (100.0%) of 33,917 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
 
-### පලස්තීන ජනතාවට සැනසිල්ලක්
+### Comfort in the Palestinian people
 
 *2024-07-06 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198529) · `si`
 
-ඊශ්‍රායල - හමාස් යුද්ධයේ සටන් විරාමයකට එළඹීම සඳහා සාකච්ඡා ලබන සතියේ ආරම්භ කරන බව ඊශ්‍රායල අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහු පවසයි.
+Israeli PM Netanyahu plans talks for a ceasefire with Hamas, but no agreement yet. Hamas positively responds to a US-proposed ceasefire plan. President Biden to meet Netanyahu in Washington soon.
 
-විදෙස් වාර්තා සඳහන් කළේ සටන් විරාමයක් සහ ප්‍රාණ ඇපකරුවන් නිදහස් කිරීම සඳහා වූ ගිවිසුමක් සම්බන්ධයෙන් දෙපාර්ශවය මේ වන තෙක් එකඟතාවකට පැමිණ නොමැති බවය.
+🟩
 
-හමාස් සංවිධානය පවසා ඇත්තේ ගාසා සටන් විරාමයක් සඳහා එක්සත් ජනපද සැලැස්ම යෝජනා කර ඇති අතර සංශෝධනවලට ඊශ්‍රායල ස්ථාවරය පැහැදිලි නැතත් ධනාත්මක ප්‍රතිචාරයක් ලැබී ඇති බවය.
+Israeli Prime Minister Benjamin Netanyahuu says that it will be launched to talk to the ceasefire of the Hamas war.
 
-එක්සත් ජනපද ජනාධිපති ජෝ බයිඩන් මේ මාසයේ වොෂින්ටනයේ දී ඊශ්‍රායල අග්‍රාමාත්‍යවරයා හමුවීමට නියමිත බවය ධවල මන්දිරය නිවේදනය කර තිබේ.
+The two parties have not yet agreed on a covenant for the release of a ceasefire and hostage.
+
+The Hamas has said that the US plan has been proposed to a ceasefire and the amendment has become a positive response.
+
+US president Joe Biden is about to meet the Israeli Prime Minister in Washington this month, the White House announced.
 
 ◼️
 
 [Data](articles/ac008cdc.json)
+
+[Extended Data](ext_articles/ac008cdc.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 16:19:51**
+As of **2024-07-06 16:35:46**
 
 ## Newspaper Stats
 
-*Scraped **33,945** Articles*
+*Scraped **33,948** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ islandlk | 1,897
 economynextcom | 2,002
 dailyftlk | 2,115
 adalk | 3,029
-adaderanalk | 3,883
+adaderanalk | 3,884
 tamilmirrorlk | 4,018
 dailymirrorlk | 4,733
-virakesarilk | 5,322
-adaderanasinhalalk | 5,630
+virakesarilk | 5,323
+adaderanasinhalalk | 5,631
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,945 (100.0%) of 33,945 articles have been extended.
+33,945 (100.0%) of 33,948 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-06 (Saturday)
+
+### 78 හැවිරිදි කාන්තාවක් දූෂණය කිරීමේ සිද්ධියට 17 හැවිරිදි සිසුවෙක් අත්අඩංගුවට
+
+*2024-07-06 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198541) · `si`
+
+බලන්ගොඩ නගරය ආශ්‍රිතව ඇති දොරවෙල ඔය ප්‍රදේශයේදී ඉකුත් 27වනදා 78 හැවිරිදි විවාහක කාන්තාවක දුෂණය කර අභිරහස් ලෙස ඝාතනය කිරීමේ සිද්ධියක් සම්බන්ධයෙන් 17 හැවිරිදි පාසල් සිසුවෙකු සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකාර සිසුවාව බලන්ගොඩ වැඩබලන මහෙස්ත්‍රාත් ඩී. එමී. චන්ද්‍රසේකර මහතා හමුවට ඉදිරිපත් කිරීමෙන් පසු ලබන 08වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර ඇත.
+
+සැකකරු සම්බන්ධයෙන් කායික, මානසික සහ සමාජ රෝග පිළිබඳව වාර්තාවක් කැඳවන ලෙසත් සැකකරු DNA පරීක්ෂණකට යොමු කරන ලෙසත් නියෝග කර තිබේ.
+
+බලන්ගොඩ මුගුණමලේ ප්‍රදේශයේ පදිංචිව සිටි එමී.එල්. සිරියාවති  නැමති කාන්තාව ඉකුත් 27 වනදා දිය නැමට දොරවෙල ඔයට ගොස් ඇති අතර පසුව ඇයගේ සිරුර දොරවෙල ඔයේ තිබී සොයා ගැනුණි.
+
+බලන්ගොඩ මූලික රෝහලේදී සිදු කළ මරණ පරීක්ෂණයේදී මතුවූ සැකය මත සිද්ධිය සම්බන්ධයෙන් විමර්ශන සිදුකර තිබුණි.
+
+පශ්චාත් මරණ පරීක්ෂණයෙන් තහවුරු වී ඇත්තේ මෙම කාන්තාව අවස්ථා කිහිපයකදීම ලිංගික අපයෝජනයට ලක් කර ගෙල සහ මුඛය  සිර කර ඝාතනය සිදුකර ඇති බවටය.
+
+...
+
+[Data](articles/7a96c545.json)
+
+---
+
+### 17 நாட்கள் மூடப்படும் மதுபானசாலைகள்
+
+*2024-07-06 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/187833) · `ta`
+
+கதிர்காம கந்தன் ஆலய வருடாந்த மகோற்சவ விழா இன்று (06) கொடியேற்றத்துடன் வைபவ ரீதியாக ஆரம்பிக்கப்பட்டள்ளது.
+
+இந்நிலையில் கதிர்காம கந்தன் ஆலய மகோற்சவத்தை முன்னிட்டு கதிர்காம பிரதேச செயலகத்திற்கு உட்பட்ட அனைத்து மதுபான விற்பனை நிலையங்களும் இன்று 06ஆம் திகதி முதல் எதிர்வரும் 22 ஆம் திகதி வரை 17 நாட்களுக்கு முடக்கப்படும் என கலால் திணைக்களம் நடவடிக்கை எடுத்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0925ef02.json)
+
+---
+
+### Establishing fresh economic and political system is essential – President
+
+*2024-07-06 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100333/establishing-fresh-economic-and-political-system-is-essential-president) · `en`
+
+President Ranil Wickremesinghe recently emphasized that as the country builds a new economy, it is crucial to establish a new political system. This system must foster individuals who can take responsibility and speak the truth fearlessly.
+
+He made these remarks during the bankers’ forum organized by the National Bankers Association at Galle Face Hotel, Colombo, yesterday (05).
+
+The President stated that he has openly communicated the economic challenges facing the country to the people and has outlined a clear program to lead the nation out of the crisis.
+
+The President emphasized that there is no alternative program for the country and that it is everyone’s responsibility to identify and support the necessary program for the country’s economy, rather than living in dream worlds.
+
+He pointed out that while some have cited Argentina’s Martin Guzman as an example, he considers Guzman a failure.
+
+...
+
+[Data](articles/ebcb674e.json)
+
+---
 
 ### Sword attack on India
 
@@ -2187,77 +2243,5 @@ The crisis has caused this crisis based on a newly introduced tax.
 [Data](articles/e8176007.json)
 
 [Extended Data](ext_articles/e8176007.ext.json)
-
----
-
-### Pakistan fuel supply disrupted as dealers strike over new taxes
-
-*2024-07-05 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100317/pakistan-fuel-supply-disrupted-as-dealers-strike-over-new-taxes) · `en`
-
-A number of fuel stations were closed across Pakistan on Friday morning following a strike called by petroleum dealers against a new taxation measure introduced by the government to boost revenue and cover its financial shortfall.
-
-The Pakistani government has set a challenging revenue collection target to help clinch an International Monetary Fund bailout but faces public anger over new taxes, including taxes on dealers, which were introduced in the annual budget last month.
-
-“There is a nationwide strike by dealers and pumps are shut in every city except Islamabad and Rawalpindi,” Abdul Sami Khan, chairman of the Pakistan Petroleum Dealers Association (PPDA), told Reuters, adding that the strike is due to the government’s decision to impose a 0.5% tax on dealers’ turnover. Khan said it was too soon to give statistics on the number of pumps on strike.
-
-...
-
-[Data](articles/6d4d1de8.json)
-
-[Extended Data](ext_articles/6d4d1de8.ext.json)
-
----
-
-### Sri Lanka stocks close up, turnover remains low
-
-*2024-07-05 16:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-remains-low-171080/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
-
-The broader All Share Index closed up 0.17 percent, or 20.84 points, at 11,947; while the more liquid S&P SL20 Index closed up 0.01 percent, or 0.39 points, at 3,505.
-
-Turnover was low at 472 million. This was the lowest since January.
-
-“People are trying to digest what the economic impact will be once the ISB restructure is put in place,” Softlogic Stockbrokers said.
-
-Activity levels on banking stocks was sidelined today after they took a beating yesterday as the sector is expected to be the most impacted, they said.
-
-Commercial Bank of Ceylon Plc closed flat at 103.50, Sampath Bank Pc was up at 78.20, and Hatton National Bank Plc was down at 198.25.
-
-There was one crossing, on John Keells Holdings Plc, which closed flat at 203.50.
-
-“Investors are being very selective, with selected counters seeing some activity. We think this will continue this way.”(Colombo/Jul5/2024)
-
-◼️
-
-[Data](articles/1d9d66f7.json)
-
-[Extended Data](ext_articles/1d9d66f7.ext.json)
-
----
-
-### Actor Vignesh is playing a double role 'Red Flower'
-
-*2024-07-05 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/187760) · `ta`
-
-"Actor Vignesh stars in dual roles in 'Red Flower,' set for release in September at the film mansion. The film features a star-studded cast including Manisha Jashani, Nasser. G. Mahendran, and more, directed by K. Santosh Ram. Set in a post-World War III world, it follows twins Vicky and Michael's journey to join the army. The production is wrapping up post-shooting and aims for international standards."
-
-🟩
-
-The film 'Red Flower' will be released at the film mansion in September, starring actor Vignesh's double role in Tamil fans with 'East Seemele'.
-
-Vignesh, Manisha Jashani, Nasser. G. Mahendran, Suresh Menon, John Vijay, Ajay Ratnam, Leela Samson, 'Thalawasal' Vijay, Mohan Ram and many others have been cast.
-
-K. Santosh Ram has composed the film, which is being recorded by Deva Surya.Producer K.. He has made the gem.
-
-Commenting on the film, the director said, “The 'Red Flower' is being prepared as a exciting fictional story in the context of international changes after World War III. The screenplay is located around two characters, Vicky and Michael.
-
-These twins are eager to join the army. Can they join the military?Or not?We have described the exciting screenplay. At present, the shooting of the film is completely completed and we are actively involved in the post -shooting technology.
-
-...
-
-[Data](articles/1b70966b.json)
-
-[Extended Data](ext_articles/1b70966b.ext.json)
 
 ---

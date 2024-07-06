@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-06 22:34:52**
+As of **2024-07-06 22:52:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,965 (100.0%) of 33,968 articles have been extended.
+33,968 (100.0%) of 33,968 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Tourism and workers’ remittances are among the top foreign revenue generators 
 ◼️
 
 [Data](articles/9c2dc3e0.json)
+
+[Extended Data](ext_articles/9c2dc3e0.ext.json)
 
 ---
 
@@ -78,33 +80,45 @@ Foreign Minister Ali Sabri, holding several parties in Singapore on July 9, will
 
 ---
 
-### விபத்தில் குடும்பஸ்தர் மரணம்
+### Death in accident
 
 *2024-07-06 22:01:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/விபத்தில்-குடும்பஸ்தர்-மரணம்/72-339955) · `ta`
 
-கிளிநொச்சி - பரந்தன் பகுதியில் இருந்து பூநகரி நோக்கி பயணித்த மோட்டார் சைக்கிளும் யாழ்ப்பாணத்தில் இருந்து பரந்தன் நோக்கி பயணித்த கெப்ரக வாகனமும்  நேருக்கு நேர் மோதியதில் ஒருவர் உயிரிழந்த நிலையில், மூவர் படுகாயமடைந்துள்ளனர்.
+A tragic accident occurred near Kilinochchi, involving a motorcycle and a Kepara vehicle. The driver, a father of two from Kilinochchi, lost his life, while another person was injured.
 
-இன்று(06-07-2024) பகல்  இடம்பெற்ற குறித்த விபத்தில் கிளிநொச்சி கோனாவில் பகுதியைச் சேர்ந்த இரண்டு பிள்ளைகளின் தந்தையே பரிதாபகரமாக உயிரிழந்துள்ளதாக தெரிவிக்கப்படுகிறது.
+🟩
+
+One person was injured when a motorcycle traveling from Kilinochchi - Paradhan from Paradhan and a Kepara vehicle traveling from Jaffna to Paradhan from Jaffna collided head -on.
+
+The father of two children from Kilinochchi Kona, Kilinochchi, has died tragically.
 
 ◼️
 
 [Data](articles/b0fcff52.json)
 
+[Extended Data](ext_articles/b0fcff52.ext.json)
+
 ---
 
-### யாழில் இளம் குடும்பப் பெண் கத்தியால் குத்தி கொலை
+### Young family girl stabbed to death in Jaffna
 
 *2024-07-06 21:53:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-இளம்-குடும்பப்-பெண்-கத்தியால்-குத்தி-கொலை/71-339954) · `ta`
 
-யாழ்ப்பாணம் - கொழும்புத்துறைப் பகுதியில் இரண்டு பிள்ளைகளின் தாயொருவர் கத்தியால் குத்தி கொலை செய்யப்பட்டுள்ளார்.
+In Jaffna, a young mother was fatally stabbed. The incident occurred on AWE Road, Colombo. Police are investigating.
 
-கொழும்புத்துறை ஏவீ வீதி மூன்றாம் ஒழுங்கையில் உள்ள வீட்டிலேயே இன்று இந்த கொலைச் சம்பவம் இடம்பெற்றது.
+🟩
 
-கொலைச் சம்பவம் தொடர்பாக யாழ்ப்பாணம் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+A mother of two children has been stabbed to death with a knife.
+
+The murder took place today at the third order of the AWE Road, Colombo.
+
+Jaffna police are conducting further investigations into the murder. Remble
 
 ◼️
 
 [Data](articles/ea5a083c.json)
+
+[Extended Data](ext_articles/ea5a083c.ext.json)
 
 ---
 

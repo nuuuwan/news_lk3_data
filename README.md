@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 09:35:03**
+As of **2024-07-07 09:54:19**
 
 ## Newspaper Stats
 
-*Scraped **34,006** Articles*
+*Scraped **34,008** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,003
 dailyftlk | 2,115
-adalk | 3,031
+adalk | 3,033
 adaderanalk | 3,893
 tamilmirrorlk | 4,028
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,649
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,005 (100.0%) of 34,006 articles have been extended.
+34,006 (100.0%) of 34,008 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,28 @@ The BBC understands that up to 7,000 people were using the building as shelter.
 ...
 
 [Data](articles/cac91cab.json)
+
+[Extended Data](ext_articles/cac91cab.ext.json)
+
+---
+
+### ‍ලෝක ශූර ඉන්දියාව සිම්බාබ්වේ හමුවේ පසු බසියි
+
+*2024-07-07 09:05:55* · [`adalk`](https://www.ada.lk/sports/‍ලෝක-ශූර-ඉන්දියාව-සිම්බාබ්වේ-හමුවේ-පසු-බසියි/9-410633) · `si`
+
+ලෝක ශූර ඉන්දිය කණ්ඩායම ලකුණු 13කින් පරාජයට පත්කරමින් දෙරට අතර පැවැත්වෙන තරග තුනකින් සමන්විත විස්සයි20 ක්‍රිකට් තරගාවලිය 1-0ක් ලෙස පෙරමුණ ගැනිමට සත්කාරක සිම්බාබ්වේ කණ්ඩායම සමත්විය.
+
+තරගයේ මුලින්ම පන්දුවට පහරදුන් සිම්බාබ්වේ කණ්ඩායම ලකුණු 115/9 සීමා කිරිමට ඉන්දිය පන්දු යවන්නෝ සමත්වුහ. කෙසේ වෙතත් පිළිතුරු ඉනිම ක්‍රිඩා කළ ඉන්දිය කණ්ඩායමට සියලු දෙනා දැවි රැස් කර හැකි වූයේ ලකුණු 102ක් පමණි.
+
+නායක ශුබ්මන් ගිල් ලකුණු 31ක් රැස්කළ අතර එය ඉන්දිය කණ්ඩායමේ වාර්තා වූ ඉහළම ලකුනු සංඛ්‍යාව වෙයි. ඉන්දී්‍ය කණ්ඩායමක් සිම්බාබ්වේ කණ්ඩායමක් හමුවේ දැවී ගිය අවම ලකුණු ප්‍රමාණය මෙය වෙයි.
+
+මෙම තරගාවලිය වෙනුවෙන් ඉන්දියාව සිය දෙවැනි පෙළ කණ්ඩායමක් යොමුකර තිබේ. එසේම විරාත් කෝලි හා රෝහිත් ශර්මා විශ්‍රාම ගැනීමෙන් අනතුරුව ඉන්දිය කණ්ඩායම ක්‍රීඩා කළ පළමු විස්සයි20 තරගයද මෙය වෙයි.
+
+පන්දු 19කදී ලකුණු 17ක් හා ලකුණු 25ට කඩුලු 3ක් දවා ගත් සිම්බාබ්වේ ක්‍රිඩක සිකන්දර් රාසා තරගයේ වීරයා ලෙස සම්මාන ලැබිය.
+
+◼️
+
+[Data](articles/b095b8c1.json)
 
 ---
 
@@ -1270,6 +1292,22 @@ The Railway Department said that the Railway Train was commenced at 5.50 am from
 
 ---
 
+### මාතර, බිලිදා මිය යාම සම්බන්ධයෙන් විශේෂ විමර්ශනයක්
+
+*2024-07-06 15:52:37* · [`adalk`](https://www.ada.lk/breaking_news/මාතර--බිලිදා-මිය-යාම-සම්බන්ධයෙන්-විශේෂ-විමර්ශනයක්/11-410631) · `si`
+
+පසුගිය 3 වෙනිදා අළුයම් කාලයේ මාතර, කොටවිල, නව මාතෘ රෝහල වෙත ප්‍රතිකාර පිණිස රැගෙන ආ බිළිඳාව, එම රෝහල තුල හදිසි ප්‍රතිකාර ඒකකයක් නොමැති බැවින් මාතර දිස්ත්‍රික් මහ රෝහල වෙත ගෙනයන ලෙසට එහි සිටි නිලධාරීන් විසින් උපදෙස් දී ඇත. එම බිළිඳා මාතර මහ රෝහල වෙත රැගෙන යන විටද මියගොස් ඇති බව වෛද්‍යවරු දන්වා ඇත.
+
+මෙම සිදුවීම සම්බන්ධයෙන් මාතර දිස්ත්‍රික් මහ රෝහල් පාලනාධිකාරිය විසින් පරීක්ෂණයක් සිදුකරන අතර, සෞඛ්‍ය ලේකම්ගේ උපදෙස් පරිදි අමාත්‍යාංශයේ විමර්ශන අංශය විසින් පූර්ණ විමර්ශනයක් ආරම්භ කර ඇත.
+
+මෑතකදී විවෘත කරන ලද මාතර, කොටවිල, නව මාතෘ රෝහල තුළ ගරු සෞඛ්‍ය අමාත්‍ය රමේෂ් පතිරණ මහතාගේ උපදෙස් ද අනුව හදිසි ප්‍රතිකාර ඒකකයක් ස්ථාපිත කිරීමට අවශ්‍ය පියවර ගන්න බව සෞඛ්‍ය ලේකම් වෛද්‍ය පාලිත මහීපාල මහතා විසින් ප්‍රකාශ කරන ලදි.
+
+◼️
+
+[Data](articles/cbcdd32f.json)
+
+---
+
 ### Sword attack on India
 
 *2024-07-06 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198539) · `si`
@@ -2237,45 +2275,5 @@ State Minister Indika Anuruddha conveyed these updates during a media briefing a
 [Data](articles/322f4e04.json)
 
 [Extended Data](ext_articles/322f4e04.ext.json)
-
----
-
-### Cable Solutions Limited IPO presents ‘attractive’ entry point for investors seeking growth
-
-*2024-07-06 02:35:00* · [`islandlk`](http://island.lk/cable-solutions-limited-ipo-presents-attractive-entry-point-for-investors-seeking-growth/) · `en`
-
-Sri Lanka’s only specialized integrated cable manufacturer and subsidiary of the ACL Group, Cable Solutions Limited (CSLK), has announced its plans for its Initial Public Offering (IPO) and subsequent listing on the Diri Savi Board of the Colombo Stock Exchange.
-
-The IPO will comprise of a total of 80,786,600 ordinary voting shares of the company offered to the public, through a combination of an offer for subscription of 14,666,600 new ordinary voting shares and an offer for sale of 66,120,000 existing ordinary voting shares. The sale of existing shares of the company, by few non-majority shareholders, will be subject to the offer for subscription being fully subscribed.
-
-HNB driving forward its support to modernise the agriculture sector
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/6cf3527f.json)
-
-[Extended Data](ext_articles/6cf3527f.ext.json)
-
----
-
-### Stock market buoyed by ComBank’s successful debenture issue
-
-*2024-07-06 02:34:00* · [`islandlk`](http://island.lk/stock-market-buoyed-by-combanks-successful-debenture-issue/) · `en`
-
-The Commercial Bank Sri Lanka’s largest ever debenture issue by a private bank closed after oversubscription on its opening day, this week, raising Rs. 20 billion for Sri Lanka’s biggest private sector bank, and demonstrating investor confidence in the institution.
-
-Announcing the oversubscription, the Bank said it had received applications for over three times the Rs. 10 billion initial issue amount, and has raised Rs. 20 billion by exercising all options.
-
-Commenting on the oversubscription of the issue, Commercial Bank Managing Director/CEO Sanath Manatunge said: “This is an extremely encouraging vote of confidence from institutional and individual investors. This significant achievement stands as a testament to their unwavering faith in our meticulously crafted strategic roadmap, underpinned by principles of robust governance and sustained financial performance, as the country’s leading private sector financial services
-
-...
-
-[Data](articles/922ec9fd.json)
-
-[Extended Data](ext_articles/922ec9fd.ext.json)
 
 ---

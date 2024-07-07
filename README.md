@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 16:05:05**
+As of **2024-07-07 16:19:45**
 
 ## Newspaper Stats
 
-*Scraped **34,068** Articles*
+*Scraped **34,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,96 @@ newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,004
 dailyftlk | 2,115
-adalk | 3,041
-adaderanalk | 3,904
+adalk | 3,044
+adaderanalk | 3,905
 tamilmirrorlk | 4,039
 dailymirrorlk | 4,733
 virakesarilk | 5,336
-adaderanasinhalalk | 5,664
+adaderanasinhalalk | 5,666
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,068 (100.0%) of 34,068 articles have been extended.
+34,068 (100.0%) of 34,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### ජනාධිපති ශිෂ්‍යත්ව පිරිනැමීම ජූලි 12 වනදා සිට
+
+*2024-07-07 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198576) · `si`
+
+අ.පො.ස. (උ/පෙළ) සහ පළමු ශ්‍රේණියේ සිට 11 ශ්‍රේණිය දක්වා අධ්‍යාපනය ලබන අඩු ආදායම්ලාභී පවුල්වල සිසුන් වෙනුවෙන් ජනාධිපති අරමුදලින් පිරිනැමෙන ශිෂ්‍යත්ව ප්‍රදානය මෙම ජූලි 12 වනදා සිට දිස්ත්‍රික් මට්ටමින් ක්‍රියාත්මක කිරීමට කටයුතු සූදානම් කර ඇති බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කර තිබේ.
+
+ඒ අනුව දිස්ත්‍රික් ලේකම්වරුන්ගේ ප්‍රධානත්වයෙන්, සියලුම කලාප අධ්‍යාපන කාර්යාල සහ විදුහල්පතිවරුන්ගේ සම්බන්ධීකරණයෙන් මෙම ශිෂ්‍යත්ව ප්‍රදානය සිදු කෙරේ.
+
+එමෙන්ම එක් එක් දිස්ත්‍රික්කය සඳහා ශිෂ්‍යත්ව ප්‍රදානය කරනු ලබන දිනයන්, වේලාවන් සහ ස්ථානයන් මෙන්ම එම දිස්ත්‍රික්කයන් සඳහා මෙම ශිෂ්‍යත්ව වැඩසටහන් යටතේ තෝරාගන්නා ලද ශිෂ්‍යත්වලාභීන්ගේ නාම ලේඛනය ඉදිරි දින කිහිපය තුළ ජනාධිපති අරමුදලේ නිල Facebook පිටුවෙහි පළකිරීමට නියමිත බව එම නිවේදනයේ සඳහන් වේ.
+
+එක් එක් දිස්ත්‍රික්ක සඳහා අ.පො.ස (උ/පෙළ) හදාරන සිසුන් වෙනුවෙන් ලබාදෙන ශිෂ්‍යත්ව සඳහා තෝරාගන්නා ලද සිසුන්ගේ නාම ලේඛනය කලාප මට්ටමින් දැනටමත් ජනාධිපති අරමුදලේ නිල Facebook පිටුවේ සඳහන් කර තිබේ.
+
+...
+
+[Data](articles/d1d0e0a0.json)
+
+---
+
+### President claims some are attempting to disrupt country’s economic recovery
+
+*2024-07-07 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100354/president-claims-some-are-attempting-to-disrupt-countrys-economic-recovery) · `en`
+
+President Ranil Wickremesinghe emphasized that some individuals are attempting to disrupt the country’s economic progress.
+
+He announced that despite the economic crisis, the government has managed to implement salary increases for public servants this year and assured that necessary allocations will be made in the upcoming budget.
+
+During the last economic crisis, some suggested cutting 500,000 public service jobs due to an inability to pay government salaries. However, the President stated that he did not follow this advice and instead increased VAT to 18% to ensure salaries were paid on time. He also emphasized that the tax burden on the people cannot be increased any further.
+
+President Wickremesinghe made these remarks at the Uva Provincial Community Police Committee members’ empowerment workshop, held yesterday (06) at the Wellawaya Public Stadium under the theme “A Law-Abiding Country.”
+
+...
+
+[Data](articles/3067ff39.json)
+
+---
+
+### උසස් පෙළ සමතුන්ට පොලි රහිත ණය
+
+*2024-07-07 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198575) · `si`
+
+2022 උසස් පෙළ සමතුන්ට රාජ්‍ය නොවන උසස් අධ්‍යාපන ආයතනවල පාඨමාලා හැදෑරීම වෙනුවෙන් පොලී රහිත ණය ලබාදීමේ වැඩසටහන ක්‍රියාත්මක කිරීම සඳහා අවශ්‍ය කටයුතු සිදුකරමින් පවතින බව අධ්‍යාපන අමාත්‍යංශය පවසයි.
+
+රාජ්‍ය විශ්වවිද්‍යාලයකට ඇතුළත්වීමට වරම් නොලබන උසස් පෙළ සමත් සිසුන් සඳහා වන මෙම පොලී රහිත ශිෂ්‍ය ණය යෝජනා ක්‍රමය 2017 වර්ෂයේ අය-වැය යෝජනා අනුව ක්‍රියාත්මක කෙරෙන අතර මේ යටතේ ලක්ෂ 8ක උපරිමයකට යටත්ව පොලී රහිත ණයක් ලබාදීමට නියමිතය.
+
+මේ වන විට ශිෂ්‍ය කණ්ඩායම් හතක් යටතේ සිසු සිසුවියන් 17,313ක සංඛ්‍යාවකට අධ්‍යාපන අමාත්‍යාංශයේ අනුමත රාජ්‍ය නොවන උසස් අධ්‍යාපන ආයතන 17ක උපාධි පාඨමාලා 100ක් හැදෑරීමට ණය මුදල් සපයා ඇති බව අධ්‍යාපන අමාත්‍යංශය පෙන්වා දෙයි.
+
+2022 වර්ෂයේ උසස් පෙළ සමත් සිසු සිසුවියන් මෙම ණය යෝජනා ක්‍රමයේ අට වන කණ්ඩායම ලෙස බඳවාගැනීමට නියමිත අතර ඊට අදාළව රාජ්‍ය නොවන උසස් අධ්‍යාපන ආයතන වෙතින් ලබාදීමට යෝජිත පාඨමාලා සම්බන්ධ යෝජනා ද මේ වන විට කැඳවා ඇති බව අමාත්‍යංශය පැවසීය.
+
+◼️
+
+[Data](articles/d0cfa6f2.json)
+
+---
+
+### රේල් පාරේ කතා කර කර ගිය පාසල් ශිෂ්‍යයෙක් හා ශිෂ්‍යාවක් කෝච්චියේ ගැටෙයි
+
+*2024-07-07 15:15:19* · [`adalk`](https://www.ada.lk/breaking_news/රේල්-පාරේ-කතා-කර-කර-ගිය-පාසල්-ශිෂ්‍යයෙක්-හා-ශිෂ්‍යාවක්-කෝච්චියේ-ගැටෙයි/11-410647) · `si`
+
+මුහුදු බඩ දුම් රිය මාර්ගයේ අම්බලන්ගොඩ දුම්රිය මාර්ගයේ කතා කර කර යමින් සිටි පාසල් ශියාවක් සහ ශිෂයෙක් අද (7) දින පස්වරුවේදී දුම්රියේ ගැටී තුවාල ලබා රෝහල් ගත කළ බව අම්බලන්ගොඩ පොලීසිය කියයි.
+
+මෙසේ තුවාල ලබා ඇත්තේ අම්බලන්ගොඩ පධාන පාසල් දෙකක ඉගෙනුම ලබන දාහත් හැවිරිදි ශිෂයකු හා ශිෂයාවක් බවත් පවසන පොලීසිය ශිෂයා අම්බලන්ගොඩ හිරේවත්ත පදේශයේද ශිෂයාව අම්බලන්ගොඩ දෙල්දූව පදේශයේ පදිංචි අයවලුන් බවද පොලීසිය කියයි.
+
+මේ දෙදෙනගෙන් පාසල් ශිෂයාවට බරපතල තුවාල සිදුව ඇති බවත් ශිෂයාට සීරීම් තුවාල පමණක් සිදුව තිබෙන බවද පොලීසිය කියයි.
+
+දුම්රියේ ගැටී බරපතල තුවාල ලැබූ  පාසල් ශිෂයාවට රෝහලට රැගෙන යනවිටත් සිහිමූර්චාවී සිටි බවද පොලීසිය කියයි.
+
+මේ සිසුවා සහ සිසුවිය අම්බලන්ගොඩ නගරයේ අමතර පංතියකට සහභාගීවීමට යයි කියමින් සිය නිවෙස්වලින් පැමිණ සිටියදී මේ අනතුරට ලක්වී තිබෙන බවද පොලීසිය කියයි.
+
+◼️
+
+[Data](articles/613ae51b.json)
+
+---
 
 ### Attack on Refugee Camp in Gaza
 
@@ -203,6 +277,30 @@ Upul Rohana said that the attention of the authorities should be drawn soon.
 [Data](articles/1a2641de.json)
 
 [Extended Data](ext_articles/1a2641de.ext.json)
+
+---
+
+### වැටුප් වැඩිකළොත් දෙන්න සල්ලි නෑ
+
+*2024-07-07 13:33:36* · [`adalk`](https://www.ada.lk/breaking_news/වැටුප්-වැඩිකළොත්-දෙන්න-සල්ලි-නෑ/11-410646) · `si`
+
+රට ආර්ථික වශයෙන් ගොඩනැඟෙමින් තිබෙන අවස්ථාවේ එය කඩාකප්පල් කිරීමට ඇතැමුන් උත්සාහ කරනවා
+
+ආර්ථික අර්බුදය හමුවේ වුවද මෙම වසරේදි ලබා දිය හැකි වැටුප් වැඩිවීම් රාජ්‍ය සේවකයන්ට ලබා දුන්නා.
+
+ලබන වසරේ අයවැයෙන් ද ඒ වෙනුවෙන් අවශ්‍ය ප්‍රතිපාදන වෙන් කරනවා.
+
+ආර්ථික අර්බුදය හමුවේ රාජ්‍ය සේවය කප්පාදු කිරීමට ඇතැමුන් පැවසුවද මා එසේ කළේ නැහැ – රාජ්‍ය සේවක වැටුප් නියමිත වේලාවට ලබා දුන්නා.
+
+ආර්ථික තර්ජනයෙන් රට අත්මිදෙමින් තිබෙන අවස්ථාවේ මත්ද්‍රව්‍ය තර්ජනයෙන් ද රට බේරා ගැනීමට සියලුදෙනාගේ සහාය අවශ්‍යයි.
+
+මුහුදු මාර්ගය ඔස්සේ සිදුවන මත්ද්‍රව්‍ය ජාවාරම මැඩලීමේදී එක්ව කටයුතු කිරීමට කලාපීය නායකයන් තීරණය කර තිබෙනවා – ඌව පළාත් ප්‍රජා පොලිස් කමිටු සාමාජිකයන් බලගැන්වීමේ වැඩමුළුවට එක් වෙමින් ජනපති පවසයි.
+
+රට ආර්ථික වශයෙන් ගොඩනැඟෙමින් තිබෙන අවස්ථාවේ එය කඩාකප්පල් කිරීමට ඇතැමුන් උත්සාහ කරමින් සිටින බවත්, ආර්ථික අර්බුදය හමුවේ වුවද මෙම වසරේදී ලබා දිය හැකි වැටුප් වැඩිවීම් රාජ්‍ය සේවකයන්ට ලබා දුන් බවත්, ලබන අයවැයෙන් ද ඒ සඳහා අවශ්‍ය ප්‍රතිපාදන වෙන් කරන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+...
+
+[Data](articles/dacfd0f6.json)
 
 ---
 
@@ -439,6 +537,22 @@ Johnsina, who suddenly appeared in the Money in the Bank in Toronto, Canada, has
 [Data](articles/28876cc0.json)
 
 [Extended Data](ext_articles/28876cc0.ext.json)
+
+---
+
+### ජෝන් සිනා රෙස්ලින් පිටිියට සමුදෙයි
+
+*2024-07-07 12:37:57* · [`adalk`](https://www.ada.lk/breaking_news/ජෝන්-සිනා-රෙස්ලින්-පිටිියට-සමුදෙයි/11-410644) · `si`
+
+හොලිවුඩයේ නළුවෙකු මෙන්ම ලෝක රෙස්ලින් පිටියේ සුපිරි ක්‍රීඩකයෙක්ද වෙන ජෝන් සීනා රෙස්ලින් පිටියෙන් විශ්‍රාම ගැනීමට තීරණය කර තිබේ.
+
+ඒ අනුව ලබන වසරේදී තමන් රෙස්ලින් පිටියෙන් සමුගන්නා බව ඔහු ප්‍රකාශ කළේය. 47 හැවැරිදි ජෝන් සීනා ලෝක රෙස්ලින් පිටියේ ශූරතා 16ක් ජයග්‍රහණය කර තිබේ.
+
+2025 දී පැවැත්වෙන රෙස්ල්මේනියා තරගාවලිය සිය අවසන් රෙස්ලින් තරගාවලිය වෙනු ඇතැයි ජෝන් සීනා ප්‍රකාශ කරයි.
+
+◼️
+
+[Data](articles/10daf09b.json)
 
 ---
 
@@ -2093,155 +2207,5 @@ Tourism and workers’ remittances are among the top foreign revenue generators 
 [Data](articles/9c2dc3e0.json)
 
 [Extended Data](ext_articles/9c2dc3e0.ext.json)
-
----
-
-### Ali Sabri preparing to go to Singapore on official visit
-
-*2024-07-06 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198551) · `si`
-
-Foreign Minister Ali Sabri embarks on a two-day official visit to Singapore tomorrow, aiming to bolster diplomatic ties through bilateral discussions and participation in the '2024 Reuters Nextia Packet Conference'.
-
-🟩
-
-Foreign Minister Ali Sabri is due to leave for Singapore on an official visit.
-
-Accordingly, the Foreign Minister to visit Singapore tomorrow (07) for a two-day official visit.
-
-Foreign Minister Dr. Rendering Minister Dr. Paran Balakrishnan, Mr. Foreign Minister Ali Sabri calls on the invitation
-
-The Foreign Minister will hold bilateral discussions with the Foreign Minister among the Foreign Minister among the Foreign Minister in order to strengthen multiple relations between the two countries.
-
-Foreign Minister Ali Sabri, holding several parties in Singapore on July 9, will participate in the '2024 Reuters Nextia Packet Conference "in Singapore on July 9.
-
-◼️
-
-[Data](articles/b2d6a62b.json)
-
-[Extended Data](ext_articles/b2d6a62b.ext.json)
-
----
-
-### Death in accident
-
-*2024-07-06 22:01:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/விபத்தில்-குடும்பஸ்தர்-மரணம்/72-339955) · `ta`
-
-A tragic accident occurred near Kilinochchi, involving a motorcycle and a Kepara vehicle. The driver, a father of two from Kilinochchi, lost his life, while another person was injured.
-
-🟩
-
-One person was injured when a motorcycle traveling from Kilinochchi - Paradhan from Paradhan and a Kepara vehicle traveling from Jaffna to Paradhan from Jaffna collided head -on.
-
-The father of two children from Kilinochchi Kona, Kilinochchi, has died tragically.
-
-◼️
-
-[Data](articles/b0fcff52.json)
-
-[Extended Data](ext_articles/b0fcff52.ext.json)
-
----
-
-### Young family girl stabbed to death in Jaffna
-
-*2024-07-06 21:53:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-இளம்-குடும்பப்-பெண்-கத்தியால்-குத்தி-கொலை/71-339954) · `ta`
-
-In Jaffna, a young mother was fatally stabbed. The incident occurred on AWE Road, Colombo. Police are investigating.
-
-🟩
-
-A mother of two children has been stabbed to death with a knife.
-
-The murder took place today at the third order of the AWE Road, Colombo.
-
-Jaffna police are conducting further investigations into the murder. Remble
-
-◼️
-
-[Data](articles/ea5a083c.json)
-
-[Extended Data](ext_articles/ea5a083c.ext.json)
-
----
-
-### Govt. celebrates a temporary treatment to ‘self-inflicted’ problems - AKD
-
-*2024-07-06 21:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100336/govt-celebrates-a-temporary-treatment-to-self-inflicted-problems-akd) · `en`
-
-Leader of the National People’s Power (NPP), Anura Kumara Dissanayake claims that the government burdened Sri Lankans immensely while implementing the International Monetary Fund (IMF) program and restructuring Sri Lanka’s debt.
-
-While commending the government on getting Sri Lanka’s debt repayments postponed, the NPP leader went on to highlight however, that the government celebrated a temporary treatment to ‘self-inflicted’ problems.
-
-He made these remarks while addressing a meeting of medical professionals in Kurunegala district, organized by the National Intellectual Organization today (06).
-
-“It would have been impossible to implement the IMF programme without restructuring Sri Lanka’s debt. What did we do with the IMF? We came to an agreement with the IMF and we fulfilled a lot of the conditions outlined in that agreement”, Dissanayake said.
-
-“A lot of those conditions were fulfilled by burdening the general public immensely”, he added.
-
-...
-
-[Data](articles/9d986a53.json)
-
-[Extended Data](ext_articles/9d986a53.ext.json)
-
----
-
-### The 9th President of Iran Masood
-
-*2024-07-06 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198550) · `si`
-
-Masood Peshcan, a moderate cleric, has been elected as Iran's 9th President, defeating Ayatollah Sadeq Gelei. The election, initially set for June 2025, was brought forward due to the untimely death of former President Ebrahim. Peshcan secured 16.5 million votes, surpassing Ayatollah Ali Khamenei's 13.5 million. A veteran politician, Peshcan served in the parliament from 2008 and as the Health Minister of Tehran. He promises to lift economic sanctions against Iran, reform political systems, and ensure gender equality, including lifting restrictions on women.
-
-🟩
-
-The moderate Methari Masood Peshcan has been elected as Iran's 9th President.
-
-The Iranian spiritual leader of the Iranian leader, Side Gelei defeated.
-
-Although the Iranian presidential election was scheduled to be held in June 2025, an emergency president had to be called with the emergency death of former President Ebrahim.
-
-Although the presidential election was in the presidential election on May 28, he had to resort to a second on the second.
-
-Accordingly, a 71-year-old specialist Peshood Peshood Peshuad Peshcli had won 16.5 million preferential votes.
-
-The Iranian spiritual leader Ayatollah Al Qameni, even favored, is limited to 13.5 million preferential votes.
-
-He was elected to the Iranian parliament in Parliament representing Tabris, representing Tabris, representing Tabris town in 2008, was the Minister of Health of the Twarf.
-
-Pesaskian's promise is that Iran is removed and the economic sanctions on Iran are removed and opening the economy.
-
-...
-
-[Data](articles/e9e315fd.json)
-
-[Extended Data](ext_articles/e9e315fd.ext.json)
-
----
-
-### Indian team defeated
-
-*2024-07-06 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198549) · `si`
-
-In a Twenty20 match against Zimbabwe, India lost despite leading the series. Zimbabwe batted first, scoring 115/9, with CLIVE Madande making 29 not out. India chased down the target of 116, but Zimbabwe led by 20 runs.
-
-🟩
-
-Zimbabwe won 13 Twenty20 mark between Indians and Zimbabwe today (06).
-
-The Indian team's leader of the match won the team to bat first.
-
-Batting first, Zimbabwe scored 115 runs for the loss of 9 wickets at the end of the area.
-
-CLIVE Madande scored 29 not out.
-
-The Indian team was able to join 116 runs in a target of 116 runs.
-
-According to the Zimbabwe, Zimbabwe were in the forefront of 20 runs.
-
-◼️
-
-[Data](articles/34645a3c.json)
-
-[Extended Data](ext_articles/34645a3c.ext.json)
 
 ---

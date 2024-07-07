@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 12:54:02**
+As of **2024-07-07 13:04:53**
 
 ## Newspaper Stats
 
-*Scraped **34,043** Articles*
+*Scraped **34,048** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 3,038
 adaderanalk | 3,900
 tamilmirrorlk | 4,033
 dailymirrorlk | 4,733
-virakesarilk | 5,331
-adaderanasinhalalk | 5,657
+virakesarilk | 5,335
+adaderanasinhalalk | 5,658
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,040 (100.0%) of 34,043 articles have been extended.
+34,043 (100.0%) of 34,048 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### ජනාධිපතිවරණ දිනය ගැන හෙළිදරව්වක්
+
+*2024-07-07 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198568) · `si`
+
+ජූලි 17 වනදායින් පසු ජනාධිපතිවරණය පැවැත්වෙන දිනය ප්‍රකාශයට පත් කිරීමට කටයුතු කරන බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+එහි සභාපති ආර්. එම්. ඒ. එල්. රත්නායක මහතා සඳහන් කළේ ව්‍යවස්ථානුකූලව ජනාධිපතිවරණය පැවැත්වෙන දිනය ප්‍රකාශයට පත් කිරීමට ජුලි 17 වනදායින් පසු පසු කොමිෂන් සභාවට බලය හිමිවන බවය.
+
+එය සැප්තැම්බර් 17ත් ඔක්තෝබර් 16ත් අතර කාලය තුළ පවත්වන බව මැතිවරණ කොමිසම මීට පෙර නිවේදනය කර තිබුණි.
+
+ඒ අනුව, මැතිවරණ කොමිසම රැස්වී ජනාධිපතිවරණය පැවැත්වෙන නිශ්චිත දිනය තීරණය කරන බව  සභාපතිවරයා සඳහන් කළේය.
+
+මෙවර ජනාධිපතිවරණය සඳහා 2024 ඡන්ද හිමි නාමලේඛනය යොදාගැනීමට නියමිතව තිබේ.
+
+මැතිවරණ කොමිසන් සභාවේ ආර්.එම්.ඒ.එල් රත්නායක මහතා පැවසුවේ ඡන්ද හිමි නාමලේඛනයට අත්සන් කිරීමේ කටයුතු ඉදිරි දින කිහිපය තුළ සිදුකිරීමට නියමිත බවය.
+
+කෙසේවෙතත් ජනාධිපතිවරණය පැවැත්වීම කල්දමන ලෙස ඉල්ලා මේ වනවිට ශ්‍රේෂ්ඨාධිකරණයට මූලික අයිතිවාසිකම් පෙත්සමක් ඉදිරිපත් කර තිබේ.
+
+ව්‍යාපාරිකයෙකු විසින් ගොනුකර ඇති අදාළ පෙත්සම හෙට (08) දිනයේ අගවිනිසුරුවරයා ප්‍රමුඛ පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ සලකා බැලීමට නියමිතය.
+
+...
+
+[Data](articles/6f0c74ff.json)
+
+---
 
 ### Postal workers to launch 48-hour token strike
 
@@ -48,21 +74,77 @@ He further emphasised that they have launched this trade union action based on t
 
 [Data](articles/ffd4da52.json)
 
+[Extended Data](ext_articles/ffd4da52.ext.json)
+
 ---
 
-### ආදායම් වාර්තා තැබු චිත්‍රපට නිෂ්පාදකයා දිවියට සමුදෙයි
+### Film producer launched
 
 *2024-07-07 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198567) · `si`
 
-ලොව ආදායම් වාර්තා තැබූ ටයිටැනික් සහ අවටාර් යන චිත්‍රපට වල නිෂ්පාදකයා වූ ඔස්කාර් සම්මානලාභී ජොන් ලැන්ඩව් ජීවිතක්ෂයට පත්වී තිබේ.
+Film producer known for classics like Titanic and Avatar passed away after battling cancer for a year. His sister described him as the best brother anyone could have.
 
-ඔහු පසුගිය වසර පුරාවට පිළිකා රෝගයෙන් පීඩා විඳිමින් සිටි බව සඳහන් ය.
+🟩
 
-ඔහුගේ මරණය සම්බන්ධයෙන් සොයුරිය වන ටීනා පවසා ඇත්තේ "ගැහැණු ළමයෙකුට හිමිවිය යුතු හොඳම සහෝදරයා.." ඔහු බවයි.
+The manufacturer of films in the world, Titanic and Videors, Oscar, has been killed.
+
+It is said that he was suffering from cancer over the past year.
+
+The sister of his death, Tina has said, "The best brother to a girl," said. "He was.
 
 ◼️
 
 [Data](articles/7de95d45.json)
+
+[Extended Data](ext_articles/7de95d45.ext.json)
+
+---
+
+### கையை விரித்த ரஷ்யா
+
+*2024-07-07 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/187889) · `ta`
+
+465 பேர் ரஷ்யாவுக்கு போரிடச் சென்றிருப்பது அதிகாரபூர்வமாக உறுதிப்படுத்தப்பட்டுள்ளதோடு, 17 பேர் போரில் அங்கு மரணமானதும் உறுதியாகியுள்ளது. இலங்கையை ரஷ்யா தனது நண்பன் என்று கூறிக்கொள்கிறது. ஆனால் கூலிப்படையினர் விவகாரத்தில், அதன் உண்மையான நண்பனாக வெளிப்படைத்தன்மையுடன் அது நடந்துகொள்ளவில்லை...
+
+◼️
+
+[Data](articles/dd818e70.json)
+
+---
+
+### மறைக்கப்படும் உண்மைகள்
+
+*2024-07-07 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/187888) · `ta`
+
+“அரசாங்கம் இந்த கடன் மறுசீரமைப்பு விடயத்தில் உண்மைகளை பேசுவதாக கூறினாலும் பல உண்மைகளை மறைக்க முற்படுகிறது”
+
+◼️
+
+[Data](articles/847ae51a.json)
+
+---
+
+### ரணிலை விட்டுப் பிரியும் மஹிந்த?
+
+*2024-07-07 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/187887) · `ta`
+
+ஜனாதிபதி ரணில் நாட்டு மக்களுக்கு உரையாற்றிய தினத்துக்கு மறுநாள் சீனாவுக்கு உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டிருந்த மஹிந்த ராஜபக்ஷ ஒரு தீர்மானத்துடனேயே நாட்டுக்கு திரும்பியுள்ளார் என்றே கூறவேண்டியுள்ளது. அவர் சீனாவில்  இருந்த தருணத்திலேயே இங்கு தம்மிக்க பெரேரா, பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் என்றும் அதை மஹிந்த தனது வாயால் ஜுலை முதல் வாரமளவில் அறிவிப்பார் என்றும் ஊடக மாநாட்டில் கூறப்பட்டது.  மஹிந்தவின் அனுமதியின்றி இப்படியான அறிவிப்பை செய்திருக்க முடியாது.
+
+◼️
+
+[Data](articles/5a97445e.json)
+
+---
+
+### பிரித்தானியாவில் ஆட்சி மாற்றம் : தேர்தலில் ரிஷி சுனாக்கின் கன்சர்வேட்டிவ் கட்சி மண்ணை கவ்வியது ஏன்?
+
+*2024-07-07 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/187882) · `ta`
+
+இங்கிலாந்து, வேல்ஸ், ஸ்கொட்லாந்து, வட அயர்லாந்து ஆகியவற்றை உள்ளடக்கிய பிரித்தானிய பாராளுமன்றம். இரண்டு சபைகள் அடங்கிய பாராளுமன்றத்தின் கீழ்ச் சபையான மக்களவைக்கு (House of Commons)  பிரதிநிதிகளைத் தெரிவு செய்வதற்காக தேர்தல் நடைபெற்றது. இந்த மக்களவையில் 650 ஆசனங்கள் உள்ளதால், குறைந்தபட்சம் 376 ஆசனங்களைப் பெற்ற கட்சி அரசாங்கத்தை அமைக்கலாம். அந்த வகையில், தொழிற்கட்சி 14வருடகாலத்திற்குப் பின்னர், ஆட்சி அமைக்கும் வாய்ப்பைப் பெறுவதற்கான திசை நோக்கி நகர்கிறது.
+
+◼️
+
+[Data](articles/1bedd03f.json)
 
 ---
 
@@ -232,19 +314,25 @@ He said that more and more petitions were welcomed on the issue, he said.
 
 ---
 
-### වාද්දූව පෙරහරකත් ඇතෙක්ගේ පහරදීමක්
+### Wadduwa filter
 
 *2024-07-07 11:23:50* · [`adalk`](https://www.ada.lk/breaking_news/වාද්දූව-පෙරහරකත්-ඇතෙක්ගේ-පහරදීමක්/11-410638) · `si`
 
-වාද්දුව ප්‍රදේශයේ විහාරස්ථානයක ඊයේ (06දා) රාත්‍රි පැවැති පෙරහැරක ගමන්ගත් ඇතෙක් සහායක ඇත්ගොව්වෙකුට පහරදී රෝහල් ගතකර ඇති බව වාද්දුව පොලිසිය පවසයි .
+In Wadduwa, a man was attacked and seriously injured near a forest edge. He was traveling along the coastal road when the incident occurred. Authorities are investigating and taking measures to ensure safety.
 
-පෙරහැර විහාරස්ථානයෙන් පිටත්ව වෙරළ පාර ඔස්සේ ගාලුපාර දෙසට ගමන් කරන අතරතුර පහරදීම සිදුකර ඇති බව සදහන් වේ.
+🟩
 
-පරදිමෙන් පසු ඇතා පරිශ්‍රමයක් දරා පෙරහැරෙන් ඉවත් කිරිමට බළධාරින් පියවර ගෙන තිබේ.
+A forefront of a forefront of a forest at the Wadduwa area yesterday (06), a forefront of the night has been hospitalized and hospitalized.
+
+It is said that the attack has been assaulted while he was traveling from the coastal road.
+
+The authorities have taken steps to remove the effort after being defeated.
 
 ◼️
 
 [Data](articles/c7319874.json)
+
+[Extended Data](ext_articles/c7319874.ext.json)
 
 ---
 
@@ -2125,139 +2213,5 @@ Two persons have been arrested in connection with the incident and the Shiv Sene
 [Data](articles/27faef92.json)
 
 [Extended Data](ext_articles/27faef92.ext.json)
-
----
-
-### Investigations in Matara
-
-*2024-07-06 15:10:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தறையில்-குழந்தை-இறந்த-சம்பவம்-விசாரணைகள்-ஆரம்பம்/175-339940) · `ta`
-
-The Health Ministry initiated an inquiry after a 2-month-old child died when denied treatment at a Matara hospital. The incident occurred on March 3rd, where the child was suffocating but was turned away from the emergency department. The parents claim the doctor stated the child could have been saved if brought in 30 minutes earlier.
-
-🟩
-
-The Health Ministry has launched an investigation into the death of a 2 -month -old child after being refused treatment at a hospital in Matara - Kodawila area.
-
-Investigations have been launched by the Matara District General Hospital on the directive of the Secretary of the Ministry of Health.
-
-On the 3rd of this month, a child who suffered from suffocation at a hospital in Matara, Kodawila, has been accused of being denied admission to the emergency department.
-
-The Ambulance Hospital administration has refused to go to another hospital.
-
-Parents said that the hospital doctor had said that he had traveled about 10 km and had gone to a different hospital and that the child had been saved if he had brought the baby 30 minutes ago.. Remble
-
-◼️
-
-[Data](articles/6b60c0ac.json)
-
-[Extended Data](ext_articles/6b60c0ac.ext.json)
-
----
-
-### The exangerative power launches the first draft of the strategic program
-
-*2024-07-06 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198538) · `si`
-
-The first draft of the strategic program by the Exangerative Power aims to revamp various sectors including education, healthcare, public administration, security, and economy. It emphasizes establishing a dynamic education system rooted in Sri Lankan values, introducing tech-based healthcare policies, strengthening public administration with advanced technical approaches, enhancing national security through diplomacy and technology, fostering a globally competitive economy via entrepreneurship and innovation, promoting entrepreneurship to empower citizens, improving agricultural efficiency and farmer productivity, and initiating political reforms such as a new electoral system and proportional representation. The program seeks public feedback before finalizing the plan.
-
-🟩
-
-The first draft was launched to the public under the public under the public under the masses under the Master of the Alliance TNA strategic program.
-
-The final plan is launching after giving public views on this.
-
-This is the first draft offered to the People's Conversation for the People's Conversation of the Norgeon Power and Strategy.
-
-Leaders of all political parties representing the authentic power have been joined.
-
-The proposed amendments to be implemented in every field have been included in detail in detail.
-
-Under the Educational Plan, therefore, proposes to establish a strong, dynamic and innovative education system, focusing on congenital Sri Lankan values.
-
-A group of active management and technology based health care policies ensuring international health care for the health service is proposed.
-
-A strong administrative system has been proposed to strengthen the public administration with an advanced technical approach that becomes a compulsory component.
-
-...
-
-[Data](articles/5cee3886.json)
-
-[Extended Data](ext_articles/5cee3886.ext.json)
-
----
-
-### Smart Classrooms and Deb at a cost of 300 billion for Southern Province School students!
-
-*2024-07-06 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187826) · `ta`
-
-President Ranil Wickremesinghe unveiled 200 smart classrooms and 2,000 Deb computers for Southern Province school students, costing $300 million. The initiative, requested by Minister Ramesh Pathirana, was launched at the Galle International Sports Complex.
-
-🟩
-
-200 smart classrooms and 2,000 Deb computers have been provided to the Southern Province school students by President Ranil Wickremesinghe.
-
-The event was held at the Galle Hol de Cole Hall headed by President Ranil Wickremesinghe on Saturday.
-
-The scheme has been carried out at the request of Minister of Industry and Health Ramesh Pathirana.
-
-◼️
-
-[Data](articles/d0558366.json)
-
-[Extended Data](ext_articles/d0558366.ext.json)
-
----
-
-### Police request help to heal disabled swarm
-
-*2024-07-06 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198536) · `si`
-
-A student from Matara Navayana was paralyzed after being shot by police a year and a half ago. His parents seek medical aid to treat him. Despite challenges, including the absence of specific doctors, progress has been made, allowing him to sit. An indigenous doctor has offered help, but funding remains an issue.
-
-🟩
-
-A student of the Matara Navayana area has been completely disabled due to serious injuries due to a shot of the police for a year and a half ago.
-
-His parents demand the help of healing their child.
-
-It is impossible to talk to the accident that happened to the danger of uncounted Haruns.
-
-One and a half ago, a police officer had been shot dead by a police officer and had been shot dead by his disability.
-
-He was facing the accident when he went with friends when he was held in the village temple.
-
-Swanks are alive today on the lack of doctors of the Karapitiya Teaching Hospital.
-
-Parents curing the Swan, the stomach of five people, has been a challenge.
-
-Due to the treatment, the were has now been able to sit the uplifting swan.
-
-Although an indigenous doctor has agreed to heal him, parents are not able to direct the sudhale.
-
-◼️
-
-[Data](articles/92c0a688.json)
-
-[Extended Data](ext_articles/92c0a688.ext.json)
-
----
-
-### Sri Lanka’s 2024 first half tourism revenue surpasses $1.5 bn with 78-pct rise
-
-*2024-07-06 14:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-2024-first-half-tourism-revenue-surpasses-1-5-bn-with-78-pct-rise-171136/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s foreign exchange revenue from tourism rose to $1.56 billion in the first six months of 2024 with a 77.9 percent jump from the same period last year while the arrivals also gained 61.7 percent, the central bank said quoting tourism promotion authorities.
-
-Sri Lanka’s tourist arrivals rose to more than 1.01 million visitors in the first half of 2024.
-
-Tourism accounted for nearly 5 percent of Sri Lanka’s economy when the sector was at its peak in 2018. Since then it has hit by violent Easter Sunday suicide attack in 2019 and Covid-19 pandemic in 2020 followed by an unprecedented economic crisis.
-
-Tourism earnings in June were estimated at $151.1 million, up from $122.9 million in the same month a year ago.
-
-...
-
-[Data](articles/fed7a6c2.json)
-
-[Extended Data](ext_articles/fed7a6c2.ext.json)
 
 ---

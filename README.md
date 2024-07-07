@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 23:35:10**
+As of **2024-07-07 23:54:33**
 
 ## Newspaper Stats
 
-*Scraped **34,118** Articles*
+*Scraped **34,122** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,48 @@ colombotelegraphcom | 312
 bbccomsinhala | 334
 newsfirstlk | 363
 islandlk | 1,914
-economynextcom | 2,004
+economynextcom | 2,005
 dailyftlk | 2,115
 adalk | 3,052
 adaderanalk | 3,910
 tamilmirrorlk | 4,053
 dailymirrorlk | 4,733
-virakesarilk | 5,343
+virakesarilk | 5,346
 adaderanasinhalalk | 5,676
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,118 (100.0%) of 34,118 articles have been extended.
+34,118 (100.0%) of 34,122 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### ஸிம்பாப்வேயை பந்தாடி தொடரை சமப்படுத்தியது இந்தியா
+
+*2024-07-07 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187931) · `ta`
+
+இந்தியாவின் புதிய சகாப்தத்தை நோக்கிய முதல் முயற்சி ஹராரேயில் கடந்த சனிக்கிழமை (06) நடைபெற்ற ஸிம்பாபப்வேயுடனான தோல்வியுடன் ஆரம்பித்தது.
+
+ஆனால், அதே மைதானத்தில் ஞாயிற்றுக்கிழமை (07) நடைபெற்ற இரண்டாவது சர்வதேச ரி20 கிரிக்கெட் போட்டியில் ஸிம்பாப்வேக்கு பதிலடி கொடுத்த இந்தியா 100 ஓட்டங்களால் வெற்றியீட்டி தொடரை 1 - 1 என சமப்படுத்தியது.
+
+இந்தியாவின் எதிர்கால வீரர் என நம்பப்படும் அபிஷேக் ஷர்மா அபார சதம் குவித்து இந்தியாவின் வெற்றியை இலகுவாக்கினார்.
+
+இந்த வருட ஐபிஎல் போட்டியில் அசத்திய அபிஷேக் ஷர்மா, ருத்துராஜ் கய்க்வாட், ரின்கு சிங் ஆகிய மூவரும் இணைந்து 220 ஓட்டங்களுக்கு மேல் குவித்தனர்.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த இந்தியா 20 ஓவர்களில் 2 விக்கெட்களை இழந்து 234 ஓட்டங்களைக் குவித்தது.
+
+அணித் தலைவர் ஷுப்மான் கில் (2) இரண்டாவது ஓவரில் ஆட்டம் இழக்க இந்தியா சிறு தடுமாற்றம் அடைந்தது.
+
+ஆனால், அபிஷேக் ஷர்மா தனது 2ஆவது சர்வதேச ரி20 கிரிக்கெட் போட்டியில் அபாரமாகத் துடுப்பெடுத்தாடி கன்னிச் சதம் குவித்ததுடன் 2ஆவது விக்கெட்டில் ருத்துராஜ் கய்க்வாடுடன் 137 ஓட்டங்களைப் பகிர்ந்தார்.
+
+...
+
+[Data](articles/847d34a6.json)
+
+---
 
 ### Presidential Scholarship Awards to commence at district level from July 12
 
@@ -91,6 +115,50 @@ The injured Aruttanda died after being brought to the Mannar District General Ho
 [Data](articles/6fd91654.json)
 
 [Extended Data](ext_articles/6fd91654.ext.json)
+
+---
+
+### கண்டி பெல்கன்ஸை இலகுவாக வென்றது கோல் மார்வல்ஸ்
+
+*2024-07-07 21:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/187929) · `ta`
+
+கண்டி ஃபெல்கன்ஸ் அணிக்கு எதிரான ரங்கிரி, தம்புள்ள சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் இன்று  ஞாயிற்றுக்கிழமை (07) நடைபெற்ற பகல் இரவு லங்கா பிறீமியர் லீக் கிரிக்கெட் போட்டியில் கோல் மார்வல்ஸ் அணி 6 விக்கெட்களால் மிக இலகுவாக வெற்றிபெற்றது.
+
+இசுறு உதானவின் துல்லியமான பந்துவீச்சு, டிம் சீஃபேர்ட்டின் அதிரடி அரைச் சதம் என்பன கோல் மார்வல்ஸின் வெற்றியை இலகுவாக்கின.
+
+முதலில் துடுப்பெடுத்தாடிய கண்டி ஃபெல்கன்ஸ் 20 ஓவர்களில் 7 விக்கெட்களை இழந்து 175 ஓட்டங்களைப் பெற்றது.
+
+பவர் ப்ளே ஆட்டத்தில் 4 விக்கெட்களை இழந்ததால் கண்டி பெல்கன்ஸ் பெரும் நெருக்கடிக்குள்ளானது.
+
+இந் நிலையில் அண்ட்றே ப்ளெச்சர், ஏஞ்சலோ மெத்யூஸ் ஆகிய இருவரும் 5ஆவது விக்கெட்டில் 45 ஓட்டங்களைப் பகிர்ந்து அணியை வீழ்ச்சியிலிருந்து மீட்டனர்.
+
+ப்ளெச்சர் 50 ஓட்டங்களைப் பெற்று ஆட்டம் இழந்த பின்னர் வனிந்து ஹசரங்கவுடன் ஜோடி சேர்ந்து 6ஆவது விக்கெட்டில் மேலும் 58 ஓட்டங்களைப் பகிர்ந்த மெத்யூஸ் 25 ஓட்டங்களுடன் வெளியேறினார்.
+
+வனிந்து ஹசரங்க அதிரடியாகத் துடுப்பெடுத்தாடி 32 பந்துகளில் 7 பவுண்டறிகள், 3 சிக்ஸ்கள் உட்பட ஆட்டம் இழக்காமல் 65 ஓட்டங்களைக் குவித்தார்.
+
+...
+
+[Data](articles/02fa0ece.json)
+
+---
+
+### மாட்டை கடத்திச்சென்ற இருவர் பொதுமக்களால் நையப்புடைப்பு!
+
+*2024-07-07 21:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187930) · `ta`
+
+வவுனியா தாண்டிக்குளம் பகுதியில் மாட்டினை கடத்திச்சென்ற இருவரை மடக்கிப்பிடித்த இளைஞர்கள் அவர்களை நையப்புடைத்ததுடன் பொலிசாரிடம் ஒப்படைத்தனர்.
+
+வவுனியா பத்தினியார் மகிழங்குளம் பகுதியில் காணி ஒன்றில் கட்டிநின்ற மாட்டினை திருடிச்சென்ற இருவரை தாண்டிக்குளம் பகுதியில் வழிமறித்த இளைஞர்கள் அவர்களை கட்டிவைத்து நையப்புடைத்ததுடன் வவுனியா பொலிசாருக்கும் தகவல் வழங்கியிருந்தனர்.
+
+சம்பவ இடத்திற்குச் சென்ற பொலிசார் குறித்த விடயம் தொடர்பான விசாரணைகளை முன்னெடுத்தனர். இதன்போது குறித்த இருவர்மீதும் கடுமையான நடவடிக்கை எடுக்குமாறு அங்கு ஒன்று கூடிய பொதுமக்கள் பொலிசாருக்கு தெரிவித்தனர். இதனால் பொலிசாருக்கும் பொதுமக்களுக்கும் இடையில் சற்றுநேரம் முரண்பாடான நிலமை ஏற்பட்டிருந்தது.
+
+எனினும் குறித்த இருவரையும் கைதுசெய்து உரிய நடவடிக்கை எடுப்பதாக பொலிசார் பொதுமக்களிடத்தில் உறுதியளித்த நிலையில் நிலமை கட்டுப்பாட்டிற்குள் வந்தது.
+
+வவுனியாவில் கடந்த சில மாதங்களாக மாடுகள் திருடப்படும் சம்பவங்கள் அதிகரித்துச்செல்கின்றமை தொடர்பாகப் பொதுமக்களால் தொடர்ச்சியான முறைப்பாடுகள் வழங்கப்பட்டு வருகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8c885f83.json)
 
 ---
 
@@ -1135,6 +1203,30 @@ The victim and the student were present at their homes, police said.
 [Data](articles/613ae51b.json)
 
 [Extended Data](ext_articles/613ae51b.ext.json)
+
+---
+
+### Sri Lanka people cannot bear another VAT hike to increase state salaries twice: President
+
+*2024-07-07 15:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-people-cannot-bear-another-vat-hike-to-increase-state-salaries-twice-president-171169/) · `en`
+
+ECONOMYENEXT – Sri Lanka hiked value added tax to 18 percent to help pay state worker salaries and give the first increment this year, President Ranil Wickremesinghe said, as sections of state workers started strikes ahead of elections.
+
+During the last economic crisis, some suggested sending 500,000 state workers home on no pay leave until money could be found to pay their salaries.
+
+“I said at the time I cannot send anyone on leave,” President Wickremesinghe was quoted as saying at a ceremony in the Uva region.
+
+“I raised VAT to 18 percent and faced the criticism of the public to pay the salaries.”
+
+“Development officers, clerks are saying to raise the salaries. We cannot do that. To do that we will have to raise VAT again. The people cannot bear it.”
+
+Another salary increment will be announced in the budget for 2025, and a committee is looking into the matter, President said.
+
+Without cutting public service salaries, the current administration has frozen new hires.
+
+...
+
+[Data](articles/1d346d14.json)
 
 ---
 
@@ -2295,95 +2387,5 @@ The police informed the public to be careful when Kheulan is rich in the Gem Rul
 [Data](articles/f11abd28.json)
 
 [Extended Data](ext_articles/f11abd28.ext.json)
-
----
-
-### Britain's new government has announced that Risi Sunach's plan to send asylum seekers to Rwanda
-
-*2024-07-07 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/187879) · `ta`
-
-Britain's new PM Kair Stermer has scrapped the controversial plan to send asylum seekers to Rwanda, initiated by the previous government. Despite the legality concerns raised by the British High Court, the outgoing government had pushed through legislation to facilitate this. Critics, including human rights groups, condemned the policy, arguing against sending asylum seekers to a third country without proper investigation.
-
-🟩
-
-Britain's new Prime Minister Kair Stermer has said that his government will not continue the Risisunac government's plan to send asylum seekers to Rwanda.
-
-He said the Rwanda project had been buried before it began.
-
-He said that I am not prepared to continue any bogus measures to restrict the arrival of asylum seekers.
-
-Although the British High Court said that the Rwanda project was illegal on human rights, the government of the Ririsunac government passed a law to send refugees in parliament to Rwanda.
-
-Risisunac Rwanda has openly proposed the policy of residents from European countries, which have stopped the arrival of asylum seekers from the European countries.
-
-Human rights organizations, who said that sending them to a third country instead of investigating the demands of asylum seekers in the UK, had severely criticized the Risi Sunac government's policy.
-
-◼️
-
-[Data](articles/ab835bc7.json)
-
-[Extended Data](ext_articles/ab835bc7.ext.json)
-
----
-
-### We don't have to strike
-
-*2024-07-07 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198562) · `si`
-
-The All Ceylon Nurses Union won't join a planned strike, citing public embarrassment from previous strikes. Their general secretary, B. Mediawatte, emphasizes the importance of the health sector and criticizes the government for its handling of public issues.
-
-🟩
-
-They declare that the All Ceylon Nurses Union will not participate in the trade union action to be implemented tomorrow and tomorrow.
-
-Its general secretary. B. Mediawatte has stated that strike is caused by strikes that the people are embarrassed.
-
-He said that the health sector was in the health sector and that this is not a chance of strikes and that the government is doing it with the public.
-
-◼️
-
-[Data](articles/c513d243.json)
-
-[Extended Data](ext_articles/c513d243.ext.json)
-
----
-
-### Pilgrimage
-
-*2024-07-07 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187872) · `ta`
-
-Sinhalese leaders appointed a Tamil as Sri Lanka's national leader, symbolizing unity and leadership across ethnic lines.
-
-🟩
-
-Sinhalese leaders have done the job of being the leader of the Tamil people by making him the national leader of Sri Lanka.
-
-◼️
-
-[Data](articles/69565d8e.json)
-
-[Extended Data](ext_articles/69565d8e.ext.json)
-
----
-
-### Elephant in the Ezha Perahera
-
-*2024-07-07 10:18:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கதிர்காமம்-எசல-பெரஹெரவில்-குழம்பிய-யானை/175-339962) · `ta`
-
-During the Kadirgamam Esala Perahera festival, an elephant caused confusion but no serious injuries among the 13 people hurt due to ensuing tensions.
-
-🟩
-
-The first day of the Kadirgamam Esala Perahera festival was held yesterday. An elephant who participated in the Perahera procession is confused.
-
-Following this, 13 people were injured in the tension at the Perahera festival, police said.
-
-Hospital sources say that those who were admitted to the hospital have no serious damage. Remble
-
-◼️
-
-[Data](articles/48b9ecd5.json)
-
-[Extended Data](ext_articles/48b9ecd5.ext.json)
 
 ---

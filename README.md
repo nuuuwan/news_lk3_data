@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 08:15:59**
+As of **2024-07-07 08:24:59**
 
 ## Newspaper Stats
 
-*Scraped **33,996** Articles*
+*Scraped **33,999** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,83 @@ islandlk | 1,914
 economynextcom | 2,003
 dailyftlk | 2,115
 adalk | 3,031
-adaderanalk | 3,889
-tamilmirrorlk | 4,026
+adaderanalk | 3,890
+tamilmirrorlk | 4,027
 dailymirrorlk | 4,733
 virakesarilk | 5,323
-adaderanasinhalalk | 5,645
+adaderanasinhalalk | 5,646
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,994 (100.0%) of 33,996 articles have been extended.
+33,996 (100.0%) of 33,999 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### සෞඛ්‍ය ක්ෂේත්‍රය අඩපණ කිරීමේ කුමන්ත්‍රණක් ගැන හෙළිදරව්වක්
+### ජීවිතයක් අහිමි කළ පවුල් ආරවුල
+
+*2024-07-07 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198556) · `si`
+
+පවුල් ආරවුලක් දුරදිග යාම හේතුවෙන් තියුණු ආයුධයකින් පහරදී කාන්තාවක් ඝාතනය කර තිබේ.
+
+ඊයේ (06) සවස් කාලයේදී එම ඝාතනය සිදුකර තිබුණේ යාපනය පොලිස් වසමේ අරියාලයි ප්‍රදේශයේදීය.
+
+එලෙස ඝාතනයට ලක්ව ඇත්තේ, උඩයාර්කට්ටු, පුදුකුඩුඉරිප්පු ප්‍රදේශයේ පදිංචිව සිටි 29 හැවිරිදි කාන්තාවකි.
+
+මරණකාරිය, හා දෙවන විවාහයේ පුරුෂයා සමග ඇති වූ පවුල් ආරවුලක් දුරදිග යාමෙන් එම ඝාතනය සිදුකර ඇතැයි පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+ඝාතනයට සම්බන්ධ  34 හැවිරිදි සැකකරු අත්අඩංගුවට ගෙන ඇති අතර යාපනය පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/cd077800.json)
+
+---
+
+### Showery conditions expected to further enhance today
+
+*2024-07-07 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100338/showery-conditions-expected-to-further-enhance-today) · `en`
+
+A further enhancement of the prevailing showery conditions over the island is expected today, according to the Department of Meteorology.
+
+Showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
+
+Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provincesand in Trincomalee, Hambantota and Monaragala districts.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/8196bc34.json)
+
+---
+
+### A revelation of a conspiracy to reduce the health sector
 
 *2024-07-07 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198555) · `si`
 
-ඉදිරියේ දී සෞඛ්‍ය ක්ෂේත්‍රය අඩපණ කිරීමේ දේශපාලන කුමන්ත්‍රණයක් ක්‍රියාත්මක වන බව වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා පවසයි.
+Dr. Rukshan Bellana accuses a political conspiracy aiming to diminish the health sector, driven by economic hardships. He urges joining the United Health Trade Unions at Sirikotha. The Joint Health Employees Union's General Secretary, Tampitan, highlights the island-wide demands of junior staff.
 
-ඒ සඳහා ආර්ථික අපහසුතා සහිත සේවකයින් එක්කර ගැනීමට එම කණ්ඩායම් උත්සහ දරමින් සිටින බව ඔහු සඳහන් කළේය.
+🟩
 
-සිරිකොත පක්ෂ මූලස්ථානයේ පැවති එක්සත් ජාතික සෞඛ්‍ය වෘත්තීය සමිති සංගමය ආරම්භ කිරීමේ උත්සවයට එක්වෙමින් වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා ඒ බව පැවසීය.
+Dr. Rukshan Bellana says that a political conspiracy to reduce the health sector in the future.
 
-මේ අතර ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් අනිද්දා දින දිවයින පුරා රෝහල් කනිෂ්ඨ කාර්ය මණ්ඩලය වැඩ වර්ජනයක නිරත වන බව ඒකාබද්ධ සෞඛ්‍ය සේවක සංගමයේ ප්‍රධාන ලේකම් ටැම්පිටියේ සුගතානන්ද හිමි සඳහන් කළහ.
+He said that the teams are trying to bring the economic hard situations.
+
+Dr. Rukshan Bellana said that joining the United Health Trade Unions' Union at Sirikotha party headquarters.
+
+Meanwhile, the Joint Health Employees Union Sampananda, General Secretary Tampitan, the General Secretary Tampitan, the General Secretary Tampitan, the General Secretary of the Joint Sector Tampitan said that the junior staff of the island wide on several demands.
 
 ◼️
 
 [Data](articles/24f72fbe.json)
+
+[Extended Data](ext_articles/24f72fbe.ext.json)
 
 ---
 
@@ -244,6 +290,22 @@ In fact, polls after the debate found that 72% of all voters did not want Biden 
 
 ---
 
+### ’புதிய அரசியல், பொருளாதார கட்டமைப்பு வேண்டும்’
+
+*2024-07-07 01:24:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசியல்-பொருளாதார-கட்டமைப்பு-வேண்டும்/175-339960) · `ta`
+
+நாட்டில் புதிய அரசியல் மற்றும் பொருளாதார முறைமையொன்று உருவாக வேண்டும். அதற்கான பொறுப்பை ஏற்றுக்கொண்டு அச்சமின்றி உண்மையைப் பேசக்கூடிய தலைவர்கள் அரசியல் கட்டமைப்பில் உருவாக வேண்டுமென ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+தேசிய வங்கியாளர்கள் ஒன்றியத்தினால் நேற்று முன்தினம் காலிமுகத்திடல் ஹோட்டலில் ஏற்பாடு செய்யப்பட்ட வங்கியாளர் மாநாட்டில் உரையாற்றும்போதே ஜனாதிபதி இதனைத்   தெரிவித்தார்.
+
+அதனையடுத்து ஜனாதிபதி ரணில் விக்கிரமசிங்க, முன்னாள் நிதி அமைச்சர் ரவி கருணாநாயக்க மற்றும் ஜனாதிபதியின் பொருளாதார விவகாரங்களுக்கான சிரேஷ்ட ஆலோசகர் கலாநிதி ஆர்.எச்.எஸ். சமரதுங்க ஆகியோர் இடையேயான கலந்துரையாடல் அமர்வொன்றும் இடம்பெற்றது. (a)
+
+◼️
+
+[Data](articles/3b6bcbd4.json)
+
+---
+
 ### Navigating ourselves out
 
 *2024-07-07 01:21:00* · [`islandlk`](http://island.lk/navigating-ourselves-out/) · `en`
@@ -276,21 +338,27 @@ By providing specialized training and military aid, India aims to foster a close
 
 ---
 
-### கொழும்பில் விசேட போக்குவரத்து திட்டம்
+### Special Transport Plan in Colombo
 
 *2024-07-07 01:17:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-விசேட-போக்குவரத்து-திட்டம்/175-339959) · `ta`
 
-போரா ஆன்மீக மாநாட்டை முன்னிட்டு கொழும்பில் விசேட போக்குவரத்து திட்டம் அமுல்படுத்தப்படவுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் சிரேஷ்ட பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+Ahead of the Bora Spiritual Conference in Colombo, a special traffic plan will close several roads including those entering Galle Road, Colombo Fort, and Bambalapitiya Marine Drive for a few hours starting today. Traffic restrictions will also apply around the event venues.
 
-போரா ஆன்மீக மாநாடு இன்று முதல் 16 ஆம் திகதி வரை பம்பலப்பிட்டி போரா பள்ளிவாசல் மற்றும் இலங்கை கண்காட்சி மாநாட்டு மண்டபத்தில் நடைபெறவுள்ளது.
+🟩
 
-இந்த நிலையில், இன்று  முதல் 16 ஆம் திகதி வரை காலி வீதி, கொழும்பு கோட்டை மற்றும் பம்பலப்பிட்டி மரைன் டிரைவிற்குள் பிரவேசிக்கும் பல வீதிகள் சில மணிநேரங்கள் மூடப்படவுள்ளன.
+Police Media Spokesperson Senior Deputy Inspector General of Police Nihal Daladuwa said that a special traffic plan will be implemented in Colombo ahead of the Bora Spiritual Conference.
 
-அத்துடன், மாநாடு நடைபெறும் சுற்றுவட்டாரப் பகுதிகளில் போக்குவரத்துக் கட்டுப்பாடுகள் விதிக்கப்படும் எனவும் பொலிஸ் ஊடகப் பேச்சாளர் தெரிவித்துள்ளார். (a)
+The Bora Spiritual Conference will be held from today to the 16th at the Bambalapitiya Bora School and the Sri Lanka Exhibition Conference Hall.
+
+In this case, many roads that enter the Galle Road, Colombo Fort and Bambalapitiya Marine Drive will be closed for a few hours from today.
+
+In addition, traffic restrictions will be imposed in the surrounding areas where the conference is held, the police media spokesman said.. (A)
 
 ◼️
 
 [Data](articles/d9bdeeb3.json)
+
+[Extended Data](ext_articles/d9bdeeb3.ext.json)
 
 ---
 
@@ -2201,55 +2269,5 @@ The meeting was attended by Additional Government Agent Srimohan, Pradeshiya Sab
 [Data](articles/3671a7ea.json)
 
 [Extended Data](ext_articles/3671a7ea.ext.json)
-
----
-
-### Emirates announces exclusive fares for Sri Lankan travellers booking trips to Europe and USA
-
-*2024-07-06 00:51:00* · [`islandlk`](http://island.lk/emirates-announces-exclusive-fares-for-sri-lankan-travellers-booking-trips-to-europe-and-usa/) · `en`
-
-Emirates has announced special fares exclusive to Sri Lanka, enabling travellers from Colombo to enjoy journeys to Europe and North America while flying better.Inclusive of 20 popular destinations, the special fares allow Emirates customers to reap savings while enjoying the airline’s world-class services across all cabins.
-
-The limited-time only special rates enable passengers to save US$ 150 (Rs 45,750 at current rates of exchange) over the published fares for Business Class return tickets, and up to US$ 40 (Rs 12,200) on Economy Class return fares, the airline said. The all-inclusive fares in Rupees are subject to the rate of exchange on the day of purchase.
-
-...
-
-[Data](articles/245ee724.json)
-
-[Extended Data](ext_articles/245ee724.ext.json)
-
----
-
-### Cinnamon Hotels & Resorts to present highest concentration of Asian elephants in one location
-
-*2024-07-06 00:51:00* · [`islandlk`](http://island.lk/cinnamon-hotels-resorts-to-present-highest-concentration-of-asian-elephants-in-one-location/) · `en`
-
-Cinnamon Hotels & Resorts introduces ‘The Gathering of Giants,’ an immersive educative weekend from 9th – 11th August 2024 at Cinnamon Habarana Complex, a unique event aimed to transform the annual natural phenomenon of the world’s largest gathering of Asian elephants – the ‘Elephant Gathering’ into a celebrated and educational experience for all. This spectacular gathering, recognised as the highest concentration of Asian elephants in a single location, occurs at Minneriya National Park, where the Minneriya tank sustains more than 300 elephants during the dry season.
-
-...
-
-[Data](articles/654a12de.json)
-
-[Extended Data](ext_articles/654a12de.ext.json)
-
----
-
-### The body of the fisherman was shore
-
-*2024-07-06 00:42:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவரின்-சடலம்-கரையொதுங்கியது/175-339933) · `ta`
-
-A 46-year-old fisherman from Velanai, Thrissur, was discovered dead on Suruvil beach.
-
-🟩
-
-Yall. Police said the body of a fisherman on the Velanai beach was on the shore.
-
-A 46 -year -old fisherman from Velanai, Thrissur, was found dead on the coast of Suruvil yesterday.
-
-◼️
-
-[Data](articles/bc6c5942.json)
-
-[Extended Data](ext_articles/bc6c5942.ext.json)
 
 ---

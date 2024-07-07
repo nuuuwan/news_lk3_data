@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 14:36:08**
+As of **2024-07-07 14:53:55**
 
 ## Newspaper Stats
 
-*Scraped **34,061** Articles*
+*Scraped **34,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,004
 dailyftlk | 2,115
-adalk | 3,039
+adalk | 3,041
 adaderanalk | 3,902
 tamilmirrorlk | 4,037
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,061 (100.0%) of 34,061 articles have been extended.
+34,061 (100.0%) of 34,063 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -440,6 +440,22 @@ It is worth noting that Mahinda Rajapaksa, who made an official visit to China t
 
 ---
 
+### මිලි මීටර් 100 ඉක්මවූ තද වැසි
+
+*2024-07-07 12:11:45* · [`adalk`](https://www.ada.lk/breaking_news/මිලි-මීටර්-100-ඉක්මවූ-තද-වැසි/11-410643) · `si`
+
+බස්නාහිර, සබරගමුව පළාත් වලත් මහනුවර දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවලට මි.මී. 100 පමණ තද වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් හා අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනිමට අවශ්‍ය පියවර ගන්නා ලෙසද එම දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+
+අද පෙරවරු 11.45ට නිකුත් කර ඇති මෙම නිවේදනය ඉදිරි පැය 24ක් දක්වා වලංගු වෙයි.
+
+◼️
+
+[Data](articles/9348b6e8.json)
+
+---
+
 ### Britain's regime change
 
 *2024-07-07 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/187882) · `ta`
@@ -557,6 +573,24 @@ The Post Trade Union Fiance Chinthaka Bandara added that the trade union action 
 [Data](articles/09637b31.json)
 
 [Extended Data](ext_articles/09637b31.ext.json)
+
+---
+
+### සජිත් නිසා රජයට සිදුවූ රු. බිලියන 5.5ක පාඩුවක් ගැන හෙළිදරව්වක්
+
+*2024-07-07 11:45:47* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-නිසා-රජයට-සිදුවූ-රු--බිලියන-5-5ක-පාඩුවක්-ගැන-හෙළිදරව්වක්/11-410641) · `si`
+
+විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා නිවාස අමාත්‍යවරයා ලෙස කටයුතු කළ කාලය තුළ (2015 – 2019) අවිධිමත් ලෙස නිවාස ණය ලබා දීම හේතුවෙන් රජයට රුපියල් මිලියන 5,564කට අධික පාඩුවක් සිදුව ඇතැයි හෙළිවෙයි.
+
+මේ හේතුවෙන් සජිත් ප්‍රේමදාස මහතා එවකට නිවාස අමාත්‍යවරයාව සිටි කාලයේ දී අවිධිමත් ලෙස ලබා දුන් ප්‍රතිලාභීන් 53,709 දෙනෙකුගේ ණය සීමා කිරීමට සිදු වූ බව ජාතික නිවාස සංවර්ධන අධිකාරියේ සභාපති රජීව් සූරියාරච්චි මහතා පවසයි. ඉන් රජයට ඉතිරි වූ මුදල රුපියල් මිලියන 7,852කට අධිකයි.
+
+වත්මන් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා නිවාස අමාත්‍යවරයා ලෙස කටයුතු කළ 2015 – 2019 කාලය තුළ නිවාස ව්‍යාපෘති 07ක් ක්‍රියාත්මක කර තිබේ. ආදර්ශ ගම්මාන විසිරි ණය ආධාර, වකුගඩු ආධාර, විරු සුමිතුරු ආධාර, ග්‍රාම ශක්ති, විසිරි ආධාර හා ගංවතුර ආධාර එම නිවාස වැඩසටහන් හතයි.
+
+ජාතික නිවාස සංවර්ධන අධිකාරියේ සභාපති රජීව් සූරියාරච්චි මහතා පවසන්නේ මෙම අවිධිමත් නිවාස ණය ලබා දීම වැඩිවශයෙන් සිදුව ඇත්තේ 2018 හා 2019 වසර වල බවයි.
+
+...
+
+[Data](articles/0c6e9065.json)
 
 ---
 
@@ -2203,53 +2237,5 @@ The suspects were taken into custody by the money of the suspects.
 [Data](articles/2188fba6.json)
 
 [Extended Data](ext_articles/2188fba6.ext.json)
-
----
-
-### UAE deports Sri Lankans arrested over cybercrimes and prostitution
-
-*2024-07-06 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100335/uae-deports-sri-lankans-arrested-over-cybercrimes-and-prostitution) · `en`
-
-Eleven Sri Lankans deported from the United Arab Emirates (UAE) for engaging in cybercrimes have arrived in the island this morning (06), the Sri Lanka Bureau of Foreign Employment (SLBFE) said.
-
-On July 01, Khaleej Times reported that thousands of individuals, including many South Asians and Africans were entrapped during a crackdown conducted across locations in Dubai recently, with the largest raid at Rahaba Residences in Dubailand.
-
-The UAE authorities also dismantled major cybercrime syndicates in an all-night operation across the UAE, resulting in the arrest of hundreds of cybercriminals and the rescue of numerous individuals recently.
-
-However, following an investigation carried out by the Sri Lankan Embassy in the UAE, it has been revealed that among the arrestees were 37 Sri Lankans, detained on charges including cybercrimes and prostitution.
-
-...
-
-[Data](articles/da9b3ad0.json)
-
-[Extended Data](ext_articles/da9b3ad0.ext.json)
-
----
-
-### Sri Lankans deported from the United Arab Emirates
-
-*2024-07-06 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198546) · `si`
-
-11 Sri Lankans deported from UAE arrive in Sri Lanka after being arrested for various allegations, including cyber crimes and prostitution. The Sri Lanka Foreign Employment Bureau will oversee future deportations.
-
-🟩
-
-11 Sri Lankans deported in the United Arab Emirates have arrived in the island.
-
-The Sri Lanka Foreign Employment Bureau said that they arrived in the island this morning (06).
-
-In a letter from the Kallige Times, July 1, had been arrested by the police of South Asian and hundreds of Africans.
-
-According to the Sri Lankan Embassy in Sri Lanka, 37 Sri Lankans were arrested on various allegations, including a cyber racket and prostitution.
-
-After the completion of the police investigations, the Embassy further stated that other Sri Lankans will be deported to Sri Lanka within two weeks.
-
-The Future will be conducted by the Sri Lanka Bureau of Foreign Employment.
-
-◼️
-
-[Data](articles/ae49a301.json)
-
-[Extended Data](ext_articles/ae49a301.ext.json)
 
 ---

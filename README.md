@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 16:34:59**
+As of **2024-07-07 16:52:24**
 
 ## Newspaper Stats
 
-*Scraped **34,078** Articles*
+*Scraped **34,079** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,71 +20,113 @@ adaderanalk | 3,905
 tamilmirrorlk | 4,043
 dailymirrorlk | 4,733
 virakesarilk | 5,336
-adaderanasinhalalk | 5,666
+adaderanasinhalalk | 5,667
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,073 (100.0%) of 34,078 articles have been extended.
+34,078 (100.0%) of 34,079 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### மனோ கணேசனுக்கு எதிராக மலையகத்தில் போராட்டம்
+### බ්‍රිතාන්‍ය පාර්ලිමේන්තුවේ බේබි
+
+*2024-07-07 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198577) · `si`
+
+පසුගියදා නිමාවට පත්වූ බ්‍රිතාන්‍ය මහ මැතිවරණයෙන් 22 හැවිරිදි තරුණයෙක් පාර්ලිමේන්තුව සඳහා තේරී පත්වී තිබේ.
+
+විචාරකයින් පවසන්නේ කම්කරු පක්ෂය නියෝජනය කරමින් මැතිවරණය ජයග්‍රහණය කළ සෑම් කාර්ලින් "පාර්ලිමේන්තුවේ බේබි" ලෙස හැඳින්වීමට ඉඩ ඇති බවයි.
+
+ඔහු වයඹදිග කේම්බ්‍රිජ්ෂයර් කොට්ඨාසය නියෝජනය කරමින් වැඩි ඡන්ද 39කින් ජයග්‍රහණය කළේය.
+
+කේම්බ්‍රිජ් විශ්වවිද්‍යාලයේ උපාධිලාභියෙක් වන සෑම් අතින් පරාජයට පත්වූයේ වසර 22ක් පමණ කාලයක් මන්ත්‍රීවරයෙක් ලෙස කටයුතු කළ ශයිලෙෂ් වාරා ය.
+
+තම ජයග්‍රහණය "දේශපාලන භූමිකම්පාවක්"  බව පවසන සෑම්, දේශපාලනය සඳහා වැඩි වැඩියෙන් තරුණ පිරිස් පැමිණෙතැයි තමා අපේක්ෂා කරන බව පැවසීය.
+
+◼️
+
+[Data](articles/f65a24ac.json)
+
+---
+
+### Struggle in the hill country against Mano Ganesan
 
 *2024-07-07 16:14:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மனோ-கணேசனுக்கு-எதிராக-மலையகத்தில்-போராட்டம்/76-339985) · `ta`
 
-தமிழ் முற்போக்கு கூட்டணி தலைவரும், பாராளுமன்ற உறுப்பினருமான மணோகனேஷன் எம்.பி க்கு எதிராக மலையகத்தில் ஞாயிற்று கிழமை  போராட்டங்கள் நடத்தப்பட்டது.
+Tamil Progressive Alliance leader Mano Ganesan faced protests in the hill country over a government decision to increase plantation workers' salaries by Rs 1700. The government responded by filing a lawsuit in the High Court seeking an injunction against the salary hike. Protests were organized in several cities by the Ceylon Workers Congress, criticizing both the salary increase and the legal action.
 
-இதன்போது பாராளுமன்ற உறுப்பினர் மனோ கணேசனுக்கு எதிராக வாசகங்கள் பறித்த பதாதைகளை ஏந்தியும், கோஷங்களை எழுப்பியும் மக்கள் போராட்டத்தை முன்னெடுத்தனர்.
+🟩
 
-தோட்ட தொழிலாளர்களுக்கு 1700 ரூபாய் சம்பள உயர்வு விடயத்தில் அரசாங்கம் வெளியிட்ட வர்த்தமானிக்கு எதிராக பெருந் தோட்ட கம்பனிகள் இந்த வர்த்தமானி அறிவித்தலுக்கு இடைக்கால தடை விதிக்க கோரி உயர் நீதி மன்றத்தில் வழக்கு தொடர்ந்திருந்தது.
+The Tamil Progressive Alliance leader and Member of Parliament, Manohanashan MP, staged protests on Sunday in the hill country.
 
-இது குறித்து இலங்கை தொழிலாளர் காங்கிரஸ் பொது செயலாளரும் அமைச்சருமான ஜீவன் தொண்டமான் நீதிமன்ற வளாகத்தில் கடந்த (04) ஆம் திகதி ஊடகங்களுக்கு கருத்து தெரிவித்திருந்தார்.
+At this time, the masses carried out the protests by carrying the slogans and chanting slogans against MP Mano Ganesan.
+
+The government has filed a lawsuit in the High Court seeking an interim injunction against the gazette's announcement by the government issued by the government on a Rs 1700 salary increase for plantation workers.
+
+Jeevan Thondaman, General Secretary and Minister of the Ceylon Workers Congress, spoke to the media on the premises of the court on 04.
+
+In his opinion, Minister Jeevan had stated that the opposition parties did not celebrate the interim ban on the salary and not to celebrate the crackers and not to celebrate the milk.The CWC landed in the demonstration.
+
+Accordingly, the protest was carried out in the heads of the CWC leaders in charge of the respective area in five major cities in three districts.
 
 ...
 
 [Data](articles/125a4357.json)
 
+[Extended Data](ext_articles/125a4357.ext.json)
+
 ---
 
-### சாவகச்சேரி வைத்தியசாலைக்காக அங்கஜன் எடுத்துள்ள நடவடிக்கை
+### Anganjan's action for the Chavakachcheri Hospital
 
 *2024-07-07 16:07:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சாவகச்சேரி-வைத்தியசாலைக்காக-அங்கஜன்-எடுத்துள்ள-நடவடிக்கை/71-339984) · `ta`
 
-சாவகச்சேரி ஆதார வைத்தியசாலைக்கு தற்காலிக மின்பிறப்பாக்கியை பெற்றுத்தர தயார் என பாராளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதன் தெரிவித்துள்ளார்.
+Parliamentarian Anganjan Ramanathan announced that the Chavakachcheri Resource Hospital will soon receive a temporary power supply, addressing its long-standing power issues. This development comes after days of concern over the hospital's inability to function properly due to lack of power backups and email services. Ramanathan has been actively discussing solutions with stakeholders, leading to commitments from supporters to provide a temporary solution until permanent power facilities are established. This initiative aims to restore the hospital's surgical units and improve medical services efficiency. The parliamentarian is awaiting responses from relevant officials, including Dr. Ramanathan Archchuna, Dr. Ketheswaran Arumugam, VPSD Pathirana, and the GMOA.
 
-சாவகச்சேரி ஆதார வைத்தியசாலையில் அண்மைய நாட்களாக தொடரும் சிக்கல் நிலை தொடர்பில் தொடர்ச்சியாக கவனித்து வருகிறேன்.
+🟩
 
-வைத்தியசாலையின் விபத்து மற்றும் சத்திர சிகிச்சைகள் பிரிவு உள்ளிட்ட பிரிவுகள் மின்சார மாற்றீடுகள் (Power Backup) இல்லாததாலும், அதற்கான மின்பிறப்பாக்கிகள் வழங்கப்படாத நிலையாலும் மருத்துவ பயன்பாடுகள் அற்ற நிலையில் காணப்படுவதாக கடந்த நாட்களில் அறிய முடிந்தது.
+Parliamentarian Anganjan Ramanathan said that the Chavakachcheri Resource Hospital is ready to get a temporary power supply.
 
-இத்தகைய சூழலில் குறித்த பிரிவுகளை ஆரம்பிப்பதற்கு ஆட்சேபணை தெரிவித்து வைத்தியர்களினால் முன்னெடுக்கப்படும் பணிப்புறக்கணிப்பை முடிவுக்கு கொண்டுவருவதன் அவசியத்தையும் உணர்ந்து, இவ்விடயம் தொடர்பில் ஆர்வலர்களுடன் கலந்துரையாடல்களை மேற்கொண்டிருந்தேன்.
+I have been consistently looking at the problem of the ongoing problem at the Chavakachcheri Resource Hospital for recent days.
 
-அதன்படி, சாவகச்சேரி ஆதார வைத்தியசாலைக்கு அரசாங்கத்தால் போதிய மின்பிறப்பாக்கி வசதிகள் வழங்கப்படும்வரை,  சாவகச்சேரி ஆதார வைத்தியசாலைக்கான மின்பிறப்பாக்கிகளை தற்காலிக ஏற்பாட்டில் பெற்றுக் கொடுக்க அன்பர்கள் சிலர் முன்வந்துள்ளனர்.
+In the past days, the hospitals, including the hospital's accident and the surgery category, have been found to be in the absence of medical use, due to the lack of power backups and the lack of appropriate e -mail.
+
+Recognizing the need to end the workplace carried out by the doctors to obtain objections to the launch of the sections in this context, I have held discussions with the enthusiasts on this issue.
+
+Accordingly, some of the lovers have come forward to obtain the temporary arrangement for the Chavakachcheri Resource Hospital until the government is provided with adequate powerful facilities.
 
 ...
 
 [Data](articles/90ae0546.json)
 
+[Extended Data](ext_articles/90ae0546.ext.json)
+
 ---
 
-### களு கங்கையின் நீர்மட்டம் உயர்வு
+### Rise
 
 *2024-07-07 15:59:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களு-கங்கையின்-நீர்மட்டம்-உயர்வு/175-339983) · `ta`
 
-களு கங்கையின் நீர்மட்டம் உயர்வடைந்துள்ள நிலையில், மில்லக்கந்த பகுதிக்கு வௌ்ள அபாய எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+Due to rising water levels in the Kalu Ganga, a flood warning has been issued, affecting areas around Ratnapura and Kalutara. Landslide warnings have also been issued for several divisions within these districts. The Department of Meteorology forecasts increased rainfall in the southwest, suggesting worsening conditions ahead.
 
-இதேவேளை, இரத்தினபுரி, களுத்துறை மாவட்டங்களின் சில பிரதேச செயலக பிரிவுகளுக்கு மண்சரிவு அபாய எச்சரிக்கை நீடிக்கப்பட்டுள்ளது.
+🟩
 
-களுத்துறை மாவட்டத்தின் இங்கிரிய, மத்துகம, புளத்சிங்கள ஆகிய பிரதேச செயலக பிரிவுகளுக்கும் இரத்தினபுரி மாவட்டத்தின் அயகம, எஹெலியகொட, எலபாத்த, கிரிஎல்ல, குருவிட்ட, இரத்தினபுரி ஆகிய பிரதேச செயலக பிரிவுகளுக்கும் மண்சரிவு அபாய எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+As the water level of the Kalu Ganga has risen, the Valla hazard warning has been issued.
 
-நாட்டின் தென்மேற்கு பிராந்தியத்தில் எதிர்வரும் நாட்களில் மழையுடனான வானிலை அதிகரிக்கும் சாத்தியம் உள்ளதாக வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது. (a)
+Meanwhile, some of the Divisional Secretariats of the Ratnapura and Kalutara districts have been extended.
+
+A landslide hazard has been issued to the Divisional Secretariat Divisions of the Kalutara District and the Divisional Secretariat Divisions of the Ratnapura District, Ayagama, Eheliyagoda, Elepatha, Kirulla, Kuruvita and Ratnapura.
+
+The Department of Meteorology has predicted that rainfall is likely to increase in the country's southwestern region in the coming days. (A)
 
 ◼️
 
 [Data](articles/066b0d31.json)
+
+[Extended Data](ext_articles/066b0d31.ext.json)
 
 ---
 
@@ -118,19 +160,25 @@ The Scholarship Program will be implemented for a 12 month period each month cov
 
 ---
 
-### இரு தினங்களுக்கு அரச சேவைகள் முடங்கும் அபாயம்
+### The risk of paralysis of public services for two days
 
 *2024-07-07 15:57:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-தினங்களுக்கு-அரச-சேவைகள்-முடங்கும்-அபாயம்/175-339982) · `ta`
 
-கிராம சேவகர் உள்ளிட்ட 200க்கும் மேற்பட்ட அரச சேவை சங்கங்கள் சுகயீன விடுமுறையை அறிவித்து நாளை (08) மற்றும் நாளை மறுதினமும் (09) பணிக்கு சமூகமளிப்பதில்லை என  தீர்மானித்துள்ளன.
+Over 200 public service associations, including Grama Niladhari, have called off work for two days starting tomorrow due to unspecified reasons. Additionally, school principals and teachers have opted against taking sick leave on July 9th. The Joint Postal Trade Union Front has also announced a 48-hour strike beginning tomorrow, potentially impacting postal services.
 
-இதேவேளை, எதிர்வரும் ஜூலை மாதம் 09ஆம் திகதி சுகயீன விடுமுறையை அறிவித்து பணிக்கு சமூகமளிப்பதில்லை என அதிபர்கள் மற்றும் ஆசிரியர்கள் தீர்மானித்துள்ளனர்.
+🟩
 
-இதேவேளை, அஞ்சல் ஊழியர்கள் நாளை (08) மற்றும் நாளை மறுதினமும் (09) 48 மணிநேர அடையாள வேலைநிறுத்த போராட்டத்தில் ஈடுப்படவுள்ளதாக ஒன்றிணைந்த அஞ்சல் தொழிற்சங்க முன்னணியின் இணை அழைப்பாளர் சிந்தக பண்டார தெரிவித்திருந்தமை குறிப்பிடத்தக்கது. R
+More than 200 public service associations, including Grama Niladhari, have announced their vacation and will not be socialized tomorrow (08) and tomorrow (09).
+
+Meanwhile, principals and teachers have decided not to announce the sickness holiday on July 9.
+
+Meanwhile, the co -invitation of the Joint Postal Trade Union Front Sindha Bandara has stated that the postal workers will be engaged in a 48 -hour identity strike tomorrow (08) and tomorrow (09) (09) (09) (09) (09) and tomorrow (09).. Remble
 
 ◼️
 
 [Data](articles/5b285e1b.json)
+
+[Extended Data](ext_articles/5b285e1b.ext.json)
 
 ---
 
@@ -644,19 +692,25 @@ Johnsina, who suddenly appeared in the Money in the Bank in Toronto, Canada, has
 
 ---
 
-### ජෝන් සිනා රෙස්ලින් පිටිියට සමුදෙයි
+### John Laughter attends Recelin Ground
 
 *2024-07-07 12:37:57* · [`adalk`](https://www.ada.lk/breaking_news/ජෝන්-සිනා-රෙස්ලින්-පිටිියට-සමුදෙයි/11-410644) · `si`
 
-හොලිවුඩයේ නළුවෙකු මෙන්ම ලෝක රෙස්ලින් පිටියේ සුපිරි ක්‍රීඩකයෙක්ද වෙන ජෝන් සීනා රෙස්ලින් පිටියෙන් විශ්‍රාම ගැනීමට තීරණය කර තිබේ.
+John Laughter joins Recelin Ground while John Sena, after winning 16 championships, announces his retirement from RESLOW next year, including the 2025 Resolmenia tournament.
 
-ඒ අනුව ලබන වසරේදී තමන් රෙස්ලින් පිටියෙන් සමුගන්නා බව ඔහු ප්‍රකාශ කළේය. 47 හැවැරිදි ජෝන් සීනා ලෝක රෙස්ලින් පිටියේ ශූරතා 16ක් ජයග්‍රහණය කර තිබේ.
+🟩
 
-2025 දී පැවැත්වෙන රෙස්ල්මේනියා තරගාවලිය සිය අවසන් රෙස්ලින් තරගාවලිය වෙනු ඇතැයි ජෝන් සීනා ප්‍රකාශ කරයි.
+John Sena has decided to retire from the World Recelin Suzin Ground, a corner of Hollywood as well as the World Rest Ground.
+
+Accordingly, he declared that he retires from the resign from RESLOW next year. 47 The celebration of John Sene wins 16 championships in World Rest Ground.
+
+John Sena says the Resolmenia tournament in 2025
 
 ◼️
 
 [Data](articles/10daf09b.json)
+
+[Extended Data](ext_articles/10daf09b.ext.json)
 
 ---
 
@@ -2207,21 +2261,5 @@ Meanwhile, Foreign Minister Japanese thanked the government of Sri Lanka for pro
 [Data](articles/1b234b43.json)
 
 [Extended Data](ext_articles/1b234b43.ext.json)
-
----
-
-### Remembering our glorious Peradeniya days 65 years later
-
-*2024-07-07 00:59:00* · [`islandlk`](http://island.lk/remembering-our-glorious-peradeniya-days-65-years-later/) · `en`
-
-It was 65 years ago on June 29, 1959, that a batch of 378 students from all parts of Ceylon entered the portals of the world’s most beautiful campus of the time of the then University of Ceylon situated on a spectacular site in Peradeniya, just four miles from the historic city of Kandy. We had passed the University Entrance examination conducted by the university itself, to read for our different degrees in Arts, Oriental Languages, English, Law etc.
-
-Our batch of 1959 was special for two reasons. We were the last totally English medium batch to enter the university and the first where all students were admitted directly without a viva voce or interview. Previously, the students were selected both directly and some after facing a viva voce.
-
-...
-
-[Data](articles/5b3353fd.json)
-
-[Extended Data](ext_articles/5b3353fd.ext.json)
 
 ---

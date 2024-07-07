@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 20:36:06**
+As of **2024-07-07 20:53:44**
 
 ## Newspaper Stats
 
-*Scraped **34,108** Articles*
+*Scraped **34,109** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,908
 tamilmirrorlk | 4,049
 dailymirrorlk | 4,733
 virakesarilk | 5,343
-adaderanasinhalalk | 5,674
+adaderanasinhalalk | 5,675
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,107 (100.0%) of 34,108 articles have been extended.
+34,108 (100.0%) of 34,109 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### කෝණා සමග කුඩු සැඟවූ නෝනලා
+
+*2024-07-07 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198585) · `si`
+
+පොලීසියට ගිනි අවි පෙන්වා පළායෑමේදී වෙඩි ප්‍රහාරයකට ලක්වූ "කෝණා" නැමැත්තාගේ කුලී නිවසේ තිබී රුපියල් ලක්ෂ 50කට අධික වටිනාකමින් යුතු මත්ද්‍රව්‍ය තොගයක් සොයාගැනීමට පොලීසිය අද (09) සමත් විය.
+
+මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු ලෙස සැලකෙන අතුරුගිරියේ සහන් ධනංජය නොහොත් කෝණා නැමැත්තා කොට්ටාවේ සිට පිළියන්දල ප්‍රදේශයට මත්ද්‍රව්‍ය ප්‍රවාහනය කරන බවට අතුරුගිරිය පොලීසියට තොරතුරක් ලැබී තිබුණේ පසුගිය 4 වනදා රාත්‍රියේදීය.
+
+ඒ් අනුව ක්‍රියාත්මක වූ පොලීසිය, පිළියන්දල සිකුරාදා පොළ හන්දියේ දී විශේෂ රථවාහන පරීක්ෂාවක නිරතවිය.
+
+එහිදී පොලිස් අණ මත‍ නතර කළ මෝටර්රථයකින් බැස තිබූ පුද්ගලයෙකු පොලීසියට ගිනි අවියක් දිගුකර ඇති අතර පොලීසිය ඔහුට වෙඩි ප්‍රහාරයක් එල්ල කර තිබුණි.
+
+පොලිස් වෙඩි ප්‍රහාර මධ්‍යයේම ඔහු පළාගොස් ඇති අතර ඔහුගේ වෙඩිවැදුණු මෝටර් රථය කැස්බෑව ප්‍රදේශයේ දමාගොස් තිබියදී සොයා ගැනුණි.
+
+සැකකරු අත්අඩංගුවට ගැනුණේ පාදයට වෙඩි වැදී  කළුබෝවිල ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබමින් සිටියදීය.
+
+...
+
+[Data](articles/4579c812.json)
+
+---
 
 ### ‘Both of us were dedicated to an undivided Sri Lanka’ – President on the late R. Sampanthan
 
@@ -45,6 +67,8 @@ President Wickremesinghe made these remarks while attending Mr. R. Sampanthan’
 ...
 
 [Data](articles/ffe95ad1.json)
+
+[Extended Data](ext_articles/ffe95ad1.ext.json)
 
 ---
 
@@ -2329,31 +2353,5 @@ The BBC understands that up to 7,000 people were using the building as shelter.
 [Data](articles/cac91cab.json)
 
 [Extended Data](ext_articles/cac91cab.ext.json)
-
----
-
-### World Champion India After the Face of Zimbabwe
-
-*2024-07-07 09:05:55* · [`adalk`](https://www.ada.lk/sports/‍ලෝක-ශූර-ඉන්දියාව-සිම්බාබ්වේ-හමුවේ-පසු-බසියි/9-410633) · `si`
-
-In the World Championship, India lost to Zimbabwe by 13 runs, making Zimbabwe lead 1-0. Despite setting a target of 115/9, India could only manage 102 runs in response. Zimbabwe's top scorer was Gurbaz with 31 runs. This was India's first T20 match with their second-string team, including Virat Kohli and Rohit Sharma. Zimbabwe secured 3 runs off 19 balls with 3 wickets down.
-
-🟩
-
-The World Championship was defeated by 13 runs in the party, the Host Simbabwe were leading 1-0 as 1-0.
-
-Indian bowlers set up 115/9 runs in order to bat first. However, the reply to the Indian team all were collected only 102 runs.
-
-Leader Girbman Gil scored 31 runs while it was the highest number of marks. This is the minimum number of marks for a team of Zimbabwe.
-
-India has sent his second-line team for the tournament. It is also the first T20 match played by Virat Kohli and Rohit Sharma.
-
-Zimbabwe took 3 runs in 19 balls and 3 wickets.
-
-◼️
-
-[Data](articles/b095b8c1.json)
-
-[Extended Data](ext_articles/b095b8c1.ext.json)
 
 ---

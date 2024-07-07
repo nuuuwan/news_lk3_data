@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 17:05:08**
+As of **2024-07-07 17:19:57**
 
 ## Newspaper Stats
 
-*Scraped **34,083** Articles*
+*Scraped **34,084** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,914
 economynextcom | 2,004
 dailyftlk | 2,115
 adalk | 3,045
-adaderanalk | 3,905
+adaderanalk | 3,906
 tamilmirrorlk | 4,043
 dailymirrorlk | 4,733
 virakesarilk | 5,338
@@ -26,25 +26,51 @@ adaderanasinhalalk | 5,668
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,079 (100.0%) of 34,083 articles have been extended.
+34,083 (100.0%) of 34,084 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### හසරංග පිත්තෙන් වැඩ පෙන්වයි
+### MOE to extend interest-free loans to students who passed A/Ls
+
+*2024-07-07 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100356/moe-to-extend-interest-free-loans-to-students-who-passed-als-) · `en`
+
+The Ministry of Education (MOE) is actively progressing with the implementation of a programme to offer interest-free loans to students who passed the 2022 G.C.E. Advanced Level (A/L) Examination.
+
+This initiative, aligning with the 2017 budget proposals, aims support students who did not qualify for admission to state universities, in order to follow courses in private higher education institutions.
+
+Eligible students can avail themselves of interest-free loans up to a maximum of Rs. 800,000.
+
+According to the ministry, a total of 17,313 students across seven student groups have already received loans to pursue 100 degree courses offered by 17 approved non-government higher education institutions.
+
+The ministry has now invited proposals for courses from these institutions for the upcoming eighth batch of students who passed the A/L exam in 2022.
+
+◼️
+
+[Data](articles/cba1c9a2.json)
+
+---
+
+### The Hasaranga shows work
 
 *2024-07-07 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198578) · `si`
 
-ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ ගෝල් මාර්වල්ස් සහ කැන්ඩි ෆැල්කන්ස් අතර පැවැත්වෙන තරගයේ පළමුව පන්දුවට පහරදුන් කැන්ඩි ෆැල්කන්ස් කණ්ඩායම සිය පන්දු ඕවර 20 දී කඩුලු 7ක් දැවී ලකුණු 175ක් ලබාගත්තේය.
+In the Lanka Premier League, Candy Falcons chose to bat first after winning the toss against Goal Marvels. Opener Andre Fleurchari made 50 runs, and Nandu Hasaranga contributed with 65 runs off 32 balls. Key bowlers were Isuru Udana with 3 wickets for 30 runs and Serur Khan with 2 wickets for 29 runs.
 
-ආරම්භක පිතිකරු ඇන්ඩ්‍රෙ ෆ්ලෙචර් ලකුණු 50ක් ලබාගත් අතර නායක වනිඳු හසරංග පන්දු 32කට නොදැවී ලකුණු 65ක් ලබාගත්තේය.
+🟩
 
-පන්දු යැවීමේදී ඉසුරු උදාන ලකුණු 30කට කඩුලු 3ක් දවාගත් අතර සහූර් ඛාන් ලකුණු 29කට කඩුලු 2ක් දවාගත්තේය.
+Candy Falcons won the toss and elected to bat first in the winning match between Goal Marvels and Candy Falckens in the Lanka Premier League.
+
+Opener Andre Fleurchari scored 50 runs while Nandu Hasaranga scored 65 runs for 32 balls.
+
+The Isuru Udana took 3 wickets for 30 runs while Serur Khan took 2 wickets for 29 runs.
 
 ◼️
 
 [Data](articles/c9e7eae9.json)
+
+[Extended Data](ext_articles/c9e7eae9.ext.json)
 
 ---
 
@@ -128,17 +154,25 @@ Accordingly, some of the lovers have come forward to obtain the temporary arrang
 
 ---
 
-### மூன்று வருடங்களில் பத்தாயிரம் வீடுகள் சாத்தியமா? தகவல் அறியும் சட்டம் ஊடாக பெறப்பட்ட தகவல்கள்
+### Are ten thousand houses possible in three years?Information
 
 *2024-07-07 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/187909) · `ta`
 
-2017ஆம் ஆண்டு இந்­திய பிர­தமர்  நரேந்­திர மோடியால் வாக்­கு­று­தி­ய­ளிக்­கப்­பட்ட பெருந்­தோட்­டப்­ப­கு­தி­களில் பத்­தா­யிரம் குடியிருப்புகள் அமைக்கும் திட்­டத்தின் ஒப்­பந்­த­மா­னது 2023 நவம்பர் மாதம் 28ஆம் திகதி கைச்­சாத்­தா­னது.
+The ambitious plan to construct 10,000 houses in three years, announced by Indian PM Narendra Modi in 2017 and formalized in November 2023, faces delays. Despite the signing of contracts and the completion of the first 1300 houses by August 2023, the project's launch has been pushed back from June to July. The National Housing Development Authority and the State Engineering Corporation's Technology Corporation are involved but haven't fully commenced operations. Concerns about the timeline, selection of contractors, and land acquisition complicate the project's progress.
 
-முதற்­கட்­ட­மாக அமை­ய­வுள்ள 1300 வீடு­க­ளுக்­கான அடிக்­கற்கள் நாட்டும் நிகழ்வு பெப்­ர­வரி மாதம் 19 ஆம் திகதி ‘பாரத் லங்கா’ என்­ற­   பெ­ய­ருடன் இடம்­பெற்­றது. இதன் போது கருத்து வெளி­யிட்­டி­ருந்த அமைச்சர் ஜீவன்,   முதற்­கட்­ட­மாக 1300 வீடுகள்  இவ்­வ­ருடம் ஓகஸ்ட் மாதத்­துக்குள் பூர்த்தி செய்ய நட­வ­டிக்கை எடுக்­கப்­பட்­டுள்­ள­தாக தெரி­வித்­தி­ருந்­தமை முக்­கிய விடயம்.
+🟩
+
+The contract to set up ten thousand apartments in the plantation areas promised by Indian Prime Minister Narendra Modi in 2017 was signed on 28th November 2023.
+
+The first of the 1300 houses will be held on February 19 with the name of Bharat Lanka. The main point is that Minister Jeevan said that the first 1300 houses have been completed by August this year.
+
+The National Housing Development Authority and the Technology Corporation of the State Engineering Corporation, with the technical supervision of the two state agencies, have not yet been properly launched.. The two companies are the implementation agency of the project. The National Housing Development Authority has also confirmed that the housing scheme has not yet been initiated.
 
 ...
 
 [Data](articles/3e21e2df.json)
+
+[Extended Data](ext_articles/3e21e2df.ext.json)
 
 ---
 
@@ -238,15 +272,21 @@ President Wickremesinghe made these remarks at the Uva Provincial Community Poli
 
 ---
 
-### ஜனாதிபதியின் அரசியல் நகர்வில் மு.கா சிக்குமா?
+### Will the MU in the president's political move?
 
 *2024-07-07 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/187895) · `ta`
 
-ஒரு அரசியல் கட்சியின் பலம் என்பது அக்கட்சி பெற்றுக்கொள்கின்ற பாராளுமன்ற உறுப்பினர்களின் எண்ணிக்கையில் மாத்திரம் தங்கியிருக்கவில்லை. அக்கட்சியின் பாராளுமன்ற உறுப்பினர்கள் முதல் உள்ளுராட்சி சபைகளின் உறுப்பினர்கள் வரை அனைத்துத் தரப்பினரும் கட்சியின் கட்டுக்கோப்பை பாதுக்காக வேண்டும்.
+A political party's strength isn't just about MP numbers but includes all levels from parliament to local government, emphasizing unity and conflict resolution.
+
+🟩
+
+The strength of a political party does not only rely on the number of MPs that the party receives. From the party's parliamentarians to the members of the local government, all parties must protect the party's conflict.
 
 ◼️
 
 [Data](articles/83a4da0d.json)
+
+[Extended Data](ext_articles/83a4da0d.ext.json)
 
 ---
 
@@ -576,19 +616,27 @@ In addition, 15 people have been admitted to the hospital for treatment.. (A)
 
 ---
 
-### මහා පරිමාණ දැවිතෙල් ජාවාරමක තොරතුරු හෙළිවෙයි
+### Large-scale furnameral racket revealed
 
 *2024-07-07 13:10:09* · [`adalk`](https://www.ada.lk/breaking_news/මහා-පරිමාණ-දැවිතෙල්-ජාවාරමක-තොරතුරු-හෙළිවෙයි/11-410645) · `si`
 
-කොලොන්නාව ඛනිජ තෙල් පර්යන්ත නිමාවේ සිට කෙළවරපිටිය යුගදනවි විදුලි බලාගාරය වෙත බවුසර් මගින් රැගෙන එනු ලබන දැවී තෙල් මහා පරිමාණයෙන් සොරකම් කිරීමක් ඉකුත් 05 දා හසු කර ගැනීමට ඛනිජ තෙල් පර්යන්ත (CPSLT) විමර්ශන නිලධාරීන්ට හැකිව තිබේ.
+CPSLT officers seized a significant amount of furnace oil from the Kolonnawa Petroleum Terminal, destined for the Ella Petroleum Power Plant. This oil was intended for Sri Lanka's second-largest power station, but its transport was intercepted. Officials discovered irregularities during an investigation into the bowsers in Baladivel, Bopitiya, leading to arrests for theft. Further probes are ongoing.
 
-ලංකාවේ දෙවන විශාලතම විදුලි බලාගාරය වන යුගදනවි බලාගාරයේ ටර්බයින ක්‍රියා කරවීම සඳහා අවශ්‍ය දැවිතෙල් කොලොන්නාව තෙල් නිමාවේ සිට බවුසර් මගින් යුගදනවි බලාගාරය වෙත ප්‍රවාහනය කරනු ලබයි. මෙසේ රැගෙන එනු ලබන දැවි තෙල් සහිත බවුසරයක දැවිතෙල් ලීටර 16000 ක් අඩු බව නිරීක්ෂණ කල යුගදනවි පාලනාධිකාරිය ඒ පිළිබඳ තොරතුරු කොලොන්නාව තෙල් නිමාවේ නිලධාරීන් ට දන්වා තිබේ.
+🟩
 
-ඒ අනුව විමර්ශන ආරම්භ කල (CPSLT)  නිලධාරීන් බෝපිටිය ප්‍රදේශයේ ඇති පෞද්ගලික  රථ අංගනයක් තුළ දී දැවිතෙල් රැගෙන පැමිණෙන බවුසර් වල ඇති දැවිතෙල් වෙනත් බවුසර් වලට ඇද මෙම මහා පරිමාණ දැවිතෙල් සොරකමක සිදු කරන බව අනාවරණය කර ගෙන තිබේ.
+Investigation Officer (CPSLT) officers have been able to capture a large scale of burial oil from the Kolonnawa Petroleum Terminal to the Ella Petroleum Power Plant.
 
-...
+Sri Lanka's second largest electric power station is transported to the acquisition of the Sri Lankan power station towards the Bowser to the Vasani Power Plant. The Municipal administration has informed the Kolonnawa oil end of the Kolonnawa oil finishes.
+
+Accordingly, the CPSLT officials have detected the investigation into the bowsers in Baladivel in the Bopitiya, and the larger-scale furnace oil is being carried out in bowsers.
+
+According to that information, the officers who had come to the bowsers yard were arrested on the robbery. Petroleum Storage Terminals are conducting further investigations into the burdekere of the burdekera.
+
+◼️
 
 [Data](articles/76f97d41.json)
+
+[Extended Data](ext_articles/76f97d41.ext.json)
 
 ---
 
@@ -2229,29 +2277,5 @@ By providing specialized training and military aid, India aims to foster a close
 [Data](articles/e1a8b07b.json)
 
 [Extended Data](ext_articles/e1a8b07b.ext.json)
-
----
-
-### Special Transport Plan in Colombo
-
-*2024-07-07 01:17:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-விசேட-போக்குவரத்து-திட்டம்/175-339959) · `ta`
-
-Ahead of the Bora Spiritual Conference in Colombo, a special traffic plan will close several roads including those entering Galle Road, Colombo Fort, and Bambalapitiya Marine Drive for a few hours starting today. Traffic restrictions will also apply around the event venues.
-
-🟩
-
-Police Media Spokesperson Senior Deputy Inspector General of Police Nihal Daladuwa said that a special traffic plan will be implemented in Colombo ahead of the Bora Spiritual Conference.
-
-The Bora Spiritual Conference will be held from today to the 16th at the Bambalapitiya Bora School and the Sri Lanka Exhibition Conference Hall.
-
-In this case, many roads that enter the Galle Road, Colombo Fort and Bambalapitiya Marine Drive will be closed for a few hours from today.
-
-In addition, traffic restrictions will be imposed in the surrounding areas where the conference is held, the police media spokesman said.. (A)
-
-◼️
-
-[Data](articles/d9bdeeb3.json)
-
-[Extended Data](ext_articles/d9bdeeb3.ext.json)
 
 ---

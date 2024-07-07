@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 13:19:52**
+As of **2024-07-07 13:35:06**
 
 ## Newspaper Stats
 
-*Scraped **34,053** Articles*
+*Scraped **34,055** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,71 @@ adaderanalk | 3,902
 tamilmirrorlk | 4,036
 dailymirrorlk | 4,733
 virakesarilk | 5,335
-adaderanasinhalalk | 5,658
+adaderanasinhalalk | 5,660
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,048 (100.0%) of 34,053 articles have been extended.
+34,053 (100.0%) of 34,055 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### அஞ்சல் ஊழியர்களின் திடீர் தீர்மானம்
+### ජෝන් සීනා සමු ගනී
+
+*2024-07-07 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198570) · `si`
+
+ලොව ජනාදරයට පත් රෙස්ලිං තරුවක් වන ජෝන් සීනා රෙස්ලිං පිටියෙන් සමුගන්නා බව නිවේදනය කර තිබේ.
+
+සුප්‍රසිද්ධ හොලිවුඩ් නළුවකුද වන ජෝන් සීනා 47 හැවිරිදි වියේ පසුවෙයි.
+
+ජෝන් සීනා පවසා පවසා ඇත්තේ, එළැඹෙන රෙස්ල්මේනියා තරගාවලියේදී තම අවසන් රෙස්ලිං තරගය වන බවත් එයට මුහුණ දීමට තමන් බලාපොරොත්තුවෙන් සිටින බවත්ය.
+
+◼️
+
+[Data](articles/66345a5e.json)
+
+---
+
+### සනත් ජයසූරියට අලුත් වගකීමක්
+
+*2024-07-07 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198569) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ලෙස සනත් ජයසූරිය තාවකාලිකව පත් කර තිබේ.
+
+ප්‍රධාන පුහුණුකරු ලෙස කටයුතු කළ ක්‍රිස් සිල්වර්වුඩ් ගේ කොන්ත්‍රාත් කාලය පසුගිය 20යි 20 ලෝක කුසලාන තරගාවලියෙන් පසු නිමවිය.
+
+◼️
+
+[Data](articles/cedd472f.json)
+
+---
+
+### Sudden resolution of postal staff
 
 *2024-07-07 13:01:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஞ்சல்-ஊழியர்களின்-திடீர்-தீர்மானம்/175-339975) · `ta`
 
-அஞ்சல் ஊழியர்கள் நாளை (08) மற்றும் நாளை மறுதினமும் (09) 48 மணிநேர அடையாள வேலைநிறுத்த போராட்டத்தில் ஈடுப்படவுள்ளdர்.
+Postal workers in Sri Lanka have called off their planned 48-hour strike scheduled for August 8th and 9th. The decision was made by Sindha Bandara, co-secretary of the United Postal Trade Union Front, who announced the strike would start at the Central Postal Transfer Center at 4 pm on August 7th, expanding to all post offices by midnight. The strike was aimed at addressing three key demands, although specific details about these demands were not disclosed.
 
-ஒன்றிணைந்த அஞ்சல் தொழிற்சங்க முன்னணியின் இணை அழைப்பாளர் சிந்தக பண்டார இதை தெரிவித்தார்.
+🟩
 
-இன்று (07) மாலை 04 மணி முதல் மத்திய அஞ்சல் பரிமாற்ற நிலையத்தில் அடையாள வேலைநிறுத்தத்தை ஆரம்பிக்க தீர்மானிக்கப்பட்டுள்ளதாக தெரிவித்தார்.
+Postal workers will be engaged in a 48 -hour identity strike tomorrow (08) and tomorrow (09).
 
-ஏனைய அனைத்து அஞ்சல் நிலையங்களிலும் இன்று (07) நள்ளிரவு முதல் இந்த தொழிற்சங்க நடவடிக்கை ஆரம்பிக்கப்படவுள்ளதாக சிந்தக பண்டார குறிப்பிட்டார்.
+Sindha Bandara, the co -invitation of the united postal trade union Front, said this.
 
-மூன்று கோரிக்கைகளை முன்வைத்து இந்த தொழிற்சங்க நடவடிக்கை ஆரம்பிக்கப்படவுள்ளதாக அஞ்சல் தொழிற்சங்க முன்னணியின் இணை அழைப்பாளர் சிந்தக பண்டார மேலும் தெரிவித்தார். R
+He said that it has been decided to launch a identification strike at the Central Postal Transfer Center from 4 pm today (07).
+
+The union action will be launched at all other post offices from midnight today (07).
+
+The co -guest of the Postal Trade Union Front, Chintaka Bandara added that the trade union action will be launched with three demands. Remble
 
 ◼️
 
 [Data](articles/d89123ea.json)
+
+[Extended Data](ext_articles/d89123ea.ext.json)
 
 ---
 
@@ -66,19 +102,27 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 [Data](articles/e7696f51.json)
 
+[Extended Data](ext_articles/e7696f51.ext.json)
+
 ---
 
-### தேர்தலுக்கான திகதி 17 இற்கு பின்னர் அறிவிப்பு
+### Notice after 17 of the election date
 
 *2024-07-07 13:00:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலுக்கான-திகதி-17-இற்கு-பின்னர்-அறிவிப்பு/175-339974) · `ta`
 
-2024 ஆம் ஆண்டுக்கான வாக்காளர் பட்டியலைச் சான்றளிக்கும் பணி இன்னும் சில நாட்களில் நிறைவடையும் எனத் தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+The Elections Commission expects to finalize the voter list certification within days, aiming to announce the 2024 presidential election date post-July 17.
 
-இதன்படி ஜனாதிபதித் தேர்தலுக்கான திகதி எதிர்வரும் ஜூலை 17 ஆம் திகதிக்கு பின்னர் அறிவிக்கப்படும் எனத் தேர்தல்கள் ஆணைக்குழுவின் தலைவர் தெரிவித்துள்ளார். (a)
+🟩
+
+The Elections Commission said that the task of certifying the voter list for 2024 will be completed in a few days.
+
+According to the Chairman of the Elections Commission, the date of the presidential election will be announced after July 17.. (A)
 
 ◼️
 
 [Data](articles/20e3126f.json)
+
+[Extended Data](ext_articles/20e3126f.ext.json)
 
 ---
 
@@ -101,6 +145,8 @@ Sri Lanka’s immediate challenge is the home series against the newly crowned T
 ◼️
 
 [Data](articles/e8f1486a.json)
+
+[Extended Data](ext_articles/e8f1486a.ext.json)
 
 ---
 
@@ -136,21 +182,27 @@ The petition filed by the businessman is due to be considered before the Chief J
 
 ---
 
-### WWE செம்பியன் ஜோன்சீனாவின் அதிர்ச்சி அறிவிப்பு
+### WWE Sembian Johnsina's shocking announcement
 
 *2024-07-07 12:39:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/WWE-செம்பியன்-ஜோன்சீனாவின்-அதிர்ச்சி-அறிவிப்பு/50-339973) · `ta`
 
-WWE மல்யுத்த போட்டிகளிலிருந்து ஓய்வு பெறவுள்ளதாக பிரபல மல்யுத்த வீரர் ஜோன்சீனா அறிவித்துள்ளார்.
+Johnsina, a beloved WWE wrestler known for his unique style and 16 WWE Sembian titles, has shocked fans by announcing his retirement. His sudden decision to step away from the ring, especially after making a surprise appearance at the Money in the Bank event in Toronto, leaves a void in the hearts of 90s kids who grew up watching him.
 
-இவரின் பெயரை கேட்டாலே, 90-ஸ் கிட்ஸ் மனங்களில் மகிழ்ச்சி ஏற்படும் என்றே கூறலாம். அவர் களத்திற்குள் எண்ட்ரி கொடுக்கும் ஸ்டைல் மிகவும் பிரபலம் ஆகும்.
+🟩
 
-16 முறை WWE செம்பியன் பட்டம் வென்றுள்ள ஜோன்சீனா, WWE போட்டிகளில் இருந்து ஓய்வு பெறவுள்ளதாக அறிவித்துள்ளார்.
+Famous wrestler Johnsina has announced that he will retire from WWE wrestling matches.
 
-கனடா நாட்டின் டொரோண்டோவில் நடைபெற்ற 'மணி இன் தி பேங்க்' (Money in the Bank) போட்டியில் திடீரென தோன்றிய ஜோன்சீனா தனது ஓய்வு அறிவிப்பை வெளியிட்டுள்ளார்.
+Hearing his name, the 90s Kids will be happy in the minds. The style he gives into the field is very popular.
+
+Johnsina, who has won the WWE Sembian title 16 times, has announced that he will retire from the WWE matches.
+
+Johnsina, who suddenly appeared in the Money in the Bank in Toronto, Canada, has announced her retirement.
 
 ◼️
 
 [Data](articles/28876cc0.json)
+
+[Extended Data](ext_articles/28876cc0.ext.json)
 
 ---
 
@@ -2179,51 +2231,5 @@ Speaking further, President Ranil Wickremesinghe further said,
 [Data](articles/f1351ec3.json)
 
 [Extended Data](ext_articles/f1351ec3.ext.json)
-
----
-
-### President chairs first Community Police Committees’ empowerment session
-
-*2024-07-06 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100334/president-chairs-first-community-police-committees-empowerment-session-) · `en`
-
-President Ranil Wickremesinghe has chaired an inaugural event at the Wellawaya Public Stadium, marking the first empowerment session for Community Police Committees of Uva Province, the President’s Media Division (PMD) said.
-
-These committees were recognized for their significant contributions to the nationwide ‘Yukthiya Operation’ initiative led by the Sri Lanka Police Department, according to the PMD.
-
-◼️
-
-[Data](articles/dea07b11.json)
-
-[Extended Data](ext_articles/dea07b11.ext.json)
-
----
-
-### A 17-year-old student arrested for raping 78-year-old woman
-
-*2024-07-06 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198541) · `si`
-
-A 17-year-old girl has been arrested for allegedly raping and killing a 78-year-old woman in Sri Lanka. The suspect, from Balangoda, was remanded pending further investigations and DNA testing. The victim, named Suriyakanthi, was found dead, and an autopsy confirmed sexual assault and strangulation as causes of death.
-
-🟩
-
-A 178-year-old schoolgirl has been arrested on suspicion of raping a 78-year-old married woman in the GDetara Oya near the town of Balangoda.
-
-The suspect, acting politically Magistrates D. Emmy. He was remanded until the 8th of this month after Chandrasekara.
-
-The suspect has also been sent to a DNA test to summon a report on physical, mental and social illnesses regarding the suspect.
-
-A resident of the Balangoda Module area. The woman named Syrian 'went to the Doawala, the body, and later found her body.
-
-Investigations were conducted on the suspicion at the death investigation at the Balangoda Balangoda Hospital.
-
-The post mortem has been confirmed that the woman had sexually abused and murdered the murder and murder.
-
-The son of the woman who faced the incident, "said:" It's here to see my mother. Mom left the teeth. The teeth trapped the throat when she was tightened. "
-
-◼️
-
-[Data](articles/7a96c545.json)
-
-[Extended Data](ext_articles/7a96c545.ext.json)
 
 ---

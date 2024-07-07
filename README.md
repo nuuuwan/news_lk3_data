@@ -1,36 +1,74 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 09:54:19**
+As of **2024-07-07 10:05:28**
 
 ## Newspaper Stats
 
-*Scraped **34,008** Articles*
+*Scraped **34,011** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 309
 colombotelegraphcom | 312
-bbccomsinhala | 333
+bbccomsinhala | 334
 newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,003
 dailyftlk | 2,115
-adalk | 3,033
+adalk | 3,034
 adaderanalk | 3,893
 tamilmirrorlk | 4,028
 dailymirrorlk | 4,733
 virakesarilk | 5,323
-adaderanasinhalalk | 5,649
+adaderanasinhalalk | 5,650
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,006 (100.0%) of 34,008 articles have been extended.
+34,008 (100.0%) of 34,011 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### දරුවන් 7 දෙනා සිටින නිවසට ගිනිතැබූ නරුමයා
+
+*2024-07-07 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198560) · `si`
+
+ඔස්ට්‍රේලියාවේ සිඩ්නි නගරයේ නිවාසයක් ගිනි ගැනීමෙන් දරුවන් තිදෙනෙක් ජීවිතක්ෂයට පත්වී තිබේ.
+
+බටහිර සිඩ්නි හි ලැලෝර් පාර්ක් නම් ප්‍රදේශයේදී අද (07) පාන්දර 1ට පමණ එම ගිනි ගැනීම වාර්තා විය.
+
+එහිදී අවුරුදු දෙකක් සහ හතරක් වයසැති පිරිමි දරුවන් දෙදෙනෙක් බේරාගෙන ප්‍රතිකාර කරන අතරතුරදී මියගොස් ඇති අතර මාස 10ක් වයසැති ගැහැණු දරුවාගේ සිරුර ගින්න නිවීමෙන් පසුව සොයාගෙන තිබුණි.
+
+ගින්න පාලනයට බාධාකළ 28 හැවිරිදි පුද්ගලයෙක්ව එහිදී සැකපිට අත්අඩංගුවට ගෙන ගින්න නිසා ඇතිවූ තුවාල සඳහා ප්‍රතිකාර සඳහා පොලිස් ආරක්ෂාව යටතේ රෝහල්ගත කර ඇති බව සඳහන් ය.
+
+එම නිවසේ සිටි වයස අවුරුදු 6ත් 11ත් අතර වූ තවත් දරුවන් 4 දෙනෙක් සහ 28 හැවිරිදි මව ප්‍රතිකාර සඳහා රෝහල්ගත කෙරිණි.
+
+පොලීසිය සැකකරන්නේ ගෘහස්ත ආරවුලක් හේතුවෙන් මෙම සිද්ධිය සිදුවන්නට ඇති බවයි.
+
+◼️
+
+[Data](articles/dec539a0.json)
+
+---
+
+### කතරගම පෙරහැරේ අලි කලබලයකින් පුද්ගලයින් 13ට තුවාල
+
+*2024-07-07 09:35:08* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-පෙරහැරේ-අලි-කලබලයකින්-පුද්ගලයින්-13ට-තුවාල/11-410635) · `si`
+
+ඓතිහාසික රුහුණු මහා කතරගම දේවාලයේ ඇසළ පෙරහැර ආරම්භ වී සුළු මොහොතකට පසු පෙරහරේ ගමන් ගත් අලියෙකු කුලප්පු වීමෙන් ඇති වූ කලබලයේදී පෙරහැර නැරඹූ පුද්ගලයින් 13 දෙනෙකු පමණ තුවාල ලබා තිබේ.
+
+කතරගම පොලිසිය පැවසුවේ පෙරහැර ආරම්භ වීමෙන් පසු ඊයේ (6) රාත්‍රි 9.00ට මෙය සිදුව ඇත.  එම අවස්ථාවේ පෙරහර නරඹමින් සිටි පිරිස කලබල වී ඒ මේ අත දුවයාමෙන් මෙලෙස තුවාල ලබා තිබේ.
+
+තුවාලකරුවන් කතරගම රෝහලට ඇතුළත් කර ඇති අතර ඔවුන් අතර අසාධ්‍ය තත්ත්වයේ රෝගින් නොමැති බවට තොරතුරු ලැබී ඇත.
+
+◼️
+
+[Data](articles/daa21ef9.json)
+
+---
 
 ### Israeli air strike on Gaza school kills at least 16
 
@@ -58,23 +96,29 @@ The BBC understands that up to 7,000 people were using the building as shelter.
 
 ---
 
-### ‍ලෝක ශූර ඉන්දියාව සිම්බාබ්වේ හමුවේ පසු බසියි
+### World Champion India After the Face of Zimbabwe
 
 *2024-07-07 09:05:55* · [`adalk`](https://www.ada.lk/sports/‍ලෝක-ශූර-ඉන්දියාව-සිම්බාබ්වේ-හමුවේ-පසු-බසියි/9-410633) · `si`
 
-ලෝක ශූර ඉන්දිය කණ්ඩායම ලකුණු 13කින් පරාජයට පත්කරමින් දෙරට අතර පැවැත්වෙන තරග තුනකින් සමන්විත විස්සයි20 ක්‍රිකට් තරගාවලිය 1-0ක් ලෙස පෙරමුණ ගැනිමට සත්කාරක සිම්බාබ්වේ කණ්ඩායම සමත්විය.
+In the World Championship, India lost to Zimbabwe by 13 runs, making Zimbabwe lead 1-0. Despite setting a target of 115/9, India could only manage 102 runs in response. Zimbabwe's top scorer was Gurbaz with 31 runs. This was India's first T20 match with their second-string team, including Virat Kohli and Rohit Sharma. Zimbabwe secured 3 runs off 19 balls with 3 wickets down.
 
-තරගයේ මුලින්ම පන්දුවට පහරදුන් සිම්බාබ්වේ කණ්ඩායම ලකුණු 115/9 සීමා කිරිමට ඉන්දිය පන්දු යවන්නෝ සමත්වුහ. කෙසේ වෙතත් පිළිතුරු ඉනිම ක්‍රිඩා කළ ඉන්දිය කණ්ඩායමට සියලු දෙනා දැවි රැස් කර හැකි වූයේ ලකුණු 102ක් පමණි.
+🟩
 
-නායක ශුබ්මන් ගිල් ලකුණු 31ක් රැස්කළ අතර එය ඉන්දිය කණ්ඩායමේ වාර්තා වූ ඉහළම ලකුනු සංඛ්‍යාව වෙයි. ඉන්දී්‍ය කණ්ඩායමක් සිම්බාබ්වේ කණ්ඩායමක් හමුවේ දැවී ගිය අවම ලකුණු ප්‍රමාණය මෙය වෙයි.
+The World Championship was defeated by 13 runs in the party, the Host Simbabwe were leading 1-0 as 1-0.
 
-මෙම තරගාවලිය වෙනුවෙන් ඉන්දියාව සිය දෙවැනි පෙළ කණ්ඩායමක් යොමුකර තිබේ. එසේම විරාත් කෝලි හා රෝහිත් ශර්මා විශ්‍රාම ගැනීමෙන් අනතුරුව ඉන්දිය කණ්ඩායම ක්‍රීඩා කළ පළමු විස්සයි20 තරගයද මෙය වෙයි.
+Indian bowlers set up 115/9 runs in order to bat first. However, the reply to the Indian team all were collected only 102 runs.
 
-පන්දු 19කදී ලකුණු 17ක් හා ලකුණු 25ට කඩුලු 3ක් දවා ගත් සිම්බාබ්වේ ක්‍රිඩක සිකන්දර් රාසා තරගයේ වීරයා ලෙස සම්මාන ලැබිය.
+Leader Girbman Gil scored 31 runs while it was the highest number of marks. This is the minimum number of marks for a team of Zimbabwe.
+
+India has sent his second-line team for the tournament. It is also the first T20 match played by Virat Kohli and Rohit Sharma.
+
+Zimbabwe took 3 runs in 19 balls and 3 wickets.
 
 ◼️
 
 [Data](articles/b095b8c1.json)
+
+[Extended Data](ext_articles/b095b8c1.ext.json)
 
 ---
 
@@ -347,6 +391,30 @@ In 1990, when I was the Acting Director of the School of Hotel Management at Sch
 [Data](articles/95815563.json)
 
 [Extended Data](ext_articles/95815563.ext.json)
+
+---
+
+### ගාල්ලට නොදුරුව ඇති වැසි වනාන්තරයක් බලන්න යමුද?
+
+*2024-07-07 03:40:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clky9rxr7n9o) · `si`
+
+මුහුදුබඩ ප්‍රධාන නගරයක් ආසන්නයේ  පිහිටා ඇති සුවිශේෂී නිවර්තන තෙත් කලාපීය වැසි වනාන්තරයක් සොයා අපි ගාල්ල කොට්ටව වෙත ගියෙමු.
+
+ගාල්ල දිස්ත්‍රික්කයේ ගාල්ල නගරයට ආසන්නව පිහිටා ඇති මෙම රක්ෂිතය කොට්ටව සංරක්ෂණ වනාන්තරය යනුවෙන් හඳුන්වනු ලබයි.
+
+ගාල්ල නගරයේ සිට කිලෝමීටර් 13ක දුරින් පිහිටා ඇති මෙම තෙත් කලාපීය වනාන්තරය ශාක සහ සතුන් රැසකට නිවහනකි.
+
+ගාල්ල - උඩුගම ප්‍රධාන මාර්ගය ඔස්සේ ගොස් මෙම රක්ෂිතයට පහසුවෙන් ළඟාවිය හැක. මෙම මාර්ගය ඔස්සේ ගමන් ගන්නා ඕනෑම බස් රථයක ද ගොස් මෙම රක්ෂිතයට ප්‍රවේශ විය හැක.
+
+ගාල්ල - උඩුගම ප්‍රධාන මාර්ගයේ කිලෝමීටර් කිහිපයක් මෙම රක්ෂිතය හරහා වැටී ඇත. අප  රක්ෂිතයට ළඟා වෙන අවස්ථාවේ වැහිබර කාලගුණික තත්ත්වයක් පැවතුණි.
+
+වනෝද්‍යානය සෑම දිනකම පෙරවරු 8 සිට පස්වරු 4.30 දක්වා විවෘතව පවතියි. ප්‍රධාන මංපෙත පිහිටි කාර්යාලයෙන් ප්‍රවේශපත්‍රයක් ගෙන රක්ෂිතය තුළට ඇතුළු විය යුතුය.
+
+මේ වනාන්තරයට ඇතුළු වී මඳ දුරක් ගිය විට නොයෙකුත් දිසාවන්ට විහිදුණු මංපෙත් කිහිපයක් දැකිය හැකිය.
+
+...
+
+[Data](articles/017e48ac.json)
 
 ---
 
@@ -1292,19 +1360,25 @@ The Railway Department said that the Railway Train was commenced at 5.50 am from
 
 ---
 
-### මාතර, බිලිදා මිය යාම සම්බන්ධයෙන් විශේෂ විමර්ශනයක්
+### Special investigation into Milpaiya death
 
 *2024-07-06 15:52:37* · [`adalk`](https://www.ada.lk/breaking_news/මාතර--බිලිදා-මිය-යාම-සම්බන්ධයෙන්-විශේෂ-විමර්ශනයක්/11-410631) · `si`
 
-පසුගිය 3 වෙනිදා අළුයම් කාලයේ මාතර, කොටවිල, නව මාතෘ රෝහල වෙත ප්‍රතිකාර පිණිස රැගෙන ආ බිළිඳාව, එම රෝහල තුල හදිසි ප්‍රතිකාර ඒකකයක් නොමැති බැවින් මාතර දිස්ත්‍රික් මහ රෝහල වෙත ගෙනයන ලෙසට එහි සිටි නිලධාරීන් විසින් උපදෙස් දී ඇත. එම බිළිඳා මාතර මහ රෝහල වෙත රැගෙන යන විටද මියගොස් ඇති බව වෛද්‍යවරු දන්වා ඇත.
+Investigation underway into Milpaiya's death after doctors were killed during transfer from Kotila to Matara District General Hospital due to lack of an emergency unit. The Secretary General and Ministry's Investigation Division are involved.
 
-මෙම සිදුවීම සම්බන්ධයෙන් මාතර දිස්ත්‍රික් මහ රෝහල් පාලනාධිකාරිය විසින් පරීක්ෂණයක් සිදුකරන අතර, සෞඛ්‍ය ලේකම්ගේ උපදෙස් පරිදි අමාත්‍යාංශයේ විමර්ශන අංශය විසින් පූර්ණ විමර්ශනයක් ආරම්භ කර ඇත.
+🟩
 
-මෑතකදී විවෘත කරන ලද මාතර, කොටවිල, නව මාතෘ රෝහල තුළ ගරු සෞඛ්‍ය අමාත්‍ය රමේෂ් පතිරණ මහතාගේ උපදෙස් ද අනුව හදිසි ප්‍රතිකාර ඒකකයක් ස්ථාපිත කිරීමට අවශ්‍ය පියවර ගන්න බව සෞඛ්‍ය ලේකම් වෛද්‍ය පාලිත මහීපාල මහතා විසින් ප්‍රකාශ කරන ලදි.
+The borrowing hearing for treatment at Kotila, Matara, Kotila, Matara, has been instructed to move to Matara District General Hospital as there is no emergency unit in the hospital.. Doctors have also been killed when the baby was taken to the Matara General Hospital.
+
+The Secretary General of Matara District Secretarian is conducting an investigation and the Ministry's Investigation Division has launched a full investigation on the instructions of the Health Secretary.
+
+The Hon
 
 ◼️
 
 [Data](articles/cbcdd32f.json)
+
+[Extended Data](ext_articles/cbcdd32f.ext.json)
 
 ---
 
@@ -2215,65 +2289,5 @@ The Department of Meteorology has made public aware of temporary strong winds an
 [Data](articles/b56545e7.json)
 
 [Extended Data](ext_articles/b56545e7.ext.json)
-
----
-
-### National tea sales averages June 2024: Cumulative variance records positive value
-
-*2024-07-06 02:44:00* · [`islandlk`](http://island.lk/national-tea-sales-averages-june-2024-cumulative-variance-records-positive-value/) · `en`
-
-Total Elevation Average declined by Rs. 23.11 in comparison to the previous month while cumulative variance recorded a positive Rs. 39.59 and USD 0.44 against January-June 2023.Cumulatively, High Growns showed a marginal negative variance, whilst the Medium Growns and Low Growns showed a positive variance in LKR terms. In USD terms, all elevations showed a positive variance in comparison to the corresponding period year-on-year.
-
-* National tea sales average for the month of June 2024 recorded Rs. 1,243.69 (USD 4.12), showing a decrease of Rs. 23.11 and of USD 0.13 in comparison with the May 2024 average of Rs. 1,266.80 (USD 4.25).
-
-* In comparison to the June 2023 average of Rs. 974.36 (USD 3.24), shows a positive variance of Rs. 269.33 and USD 0.88 YOY.
-
-* High Grown average for the month recorded a decrease of Rs. 29.31 and USD 0.15 month on month, whilst an increase of Rs. 284.43 and USD 0.93 is recorded YOY.
-
-...
-
-[Data](articles/1ce1efee.json)
-
-[Extended Data](ext_articles/1ce1efee.ext.json)
-
----
-
-### SL facing the challenge of attracting ESG conscious foreign and local investors
-
-*2024-07-06 02:39:00* · [`islandlk`](http://island.lk/sl-facing-the-challenge-of-attracting-esg-conscious-foreign-and-local-investors/) · `en`
-
-Sri Lanka appears to be facing the challenge of attracting local and foreign investors towards Sustainable Bonds; the likes of Green Bonds and Blue Bonds, and other sustainable debt instruments that have a common goal to create a sustainable ecosystem, and are becoming an important part of global fixed income markets.
-
-This was made known during the course of a speech made by the Chairman of the Securities and Exchange Commission (SEC) Faizal Salieh, at a seminar centred on ‘Unlocking Opportunities through Sustainable Bonds: Towards a Greener Economy’.
-
-The event had been organized by the SEC, The Colombo Stock Exchange (CSE) in collaboration with the Asian Development Bank (ADB) at Shangri-La Colombo on July 3.
-
-“The challenge is how quickly can Sri Lanka socialize these bonds and attract ESG conscious foreign investors, whilst being mindful of Sri Lanka’s default sovereign rating hurdle. We also need to build an ESG conscious local investor base,” he said.
-
-...
-
-[Data](articles/e285ee64.json)
-
-[Extended Data](ext_articles/e285ee64.ext.json)
-
----
-
-### EDR success will lead to resumption of stalled energy projects: state minister
-
-*2024-07-06 02:38:00* · [`islandlk`](http://island.lk/edr-success-will-lead-to-resumption-of-stalled-energy-projects-state-minister/) · `en`
-
-‘Feasibility studies and environmental reports for Adani project are still in progress’
-
-State Minister for Power and Energy Indika Anuruddha stated that due to the success of the external debt restructuring (EDR), the projects related to the energy sector, which were stalled during the economic crisis would be re-implemented and it would be of great help in solving the power crisis.
-
-The Minister of State also pointed out that some parties in the opposition are engaged in sabotage to weaken the program launched by the government to develop the country.
-
-State Minister Indika Anuruddha conveyed these updates during a media briefing at the Presidential Media Centre (PMC) held on July 4 under the theme “Collective Path to a Stable Country”.
-
-...
-
-[Data](articles/322f4e04.json)
-
-[Extended Data](ext_articles/322f4e04.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 14:05:08**
+As of **2024-07-07 14:19:37**
 
 ## Newspaper Stats
 
-*Scraped **34,058** Articles*
+*Scraped **34,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,73 @@ adaderanalk | 3,902
 tamilmirrorlk | 4,037
 dailymirrorlk | 4,733
 virakesarilk | 5,336
-adaderanasinhalalk | 5,660
+adaderanasinhalalk | 5,663
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,058 (100.0%) of 34,058 articles have been extended.
+34,058 (100.0%) of 34,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### LPL පිටිය පුදුමකළ ආන්දෝලනාත්මක සිද්ධිය
+
+*2024-07-07 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198573) · `si`
+
+ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ තරග දෙකක් ඊයේ (06) දඹුල්ලේදී පැවැත්වුණි.
+
+එම තරගවලින් ජය වාර්තා කරන්නට කලම්බු ස්ට්‍රයිකර්ස් සහ ජැෆ්නා කිංග්ස් කණ්ඩායම් සමත් විය.
+
+ඉන් පළමු තරගය පැවැත්වුණේ කැන්ඩි ෆැල්කන්ස් සහ කලම්බු ස්ට්‍රයිකර්ස් කණ්ඩායම් අතර ය.
+
+එහිදී පළමුවෙන් පන්දුවට පහරදුන් කලම්බු ස්ට්‍රයිකර්ස් කණ්ඩායම නියමිත පන්දුවාර 20දී කඩුලු 9ක් දැවී ලකුණු 199ක් රැස් කළේය.
+
+ලකුණු හඹා යාමට පිටියට පිවිසි කැන්ඩි ෆැල්කන්ස් කණ්ඩායමේ හත්වැනි පන්දුවාරයේදී මොහොමඩ් හරිස් එල්ල කල පහරක් චාමික කරුණාරත්න විශිෂ්ට ලෙස රැක ගත් අතර නමුත් තෙවැනි විසිසුරු තීරණය කළේ එය දැවී යාමක් නොවන බවයි.
+
+කැන්ඩි ෆැල්කන්ස් කණ්ඩායමට අවසන් පන්දුවාරයේදී ජයග්‍රහණය සඳහා ලකුණු 20ක් අවශ්‍යව තිබූ අතර එහිදි පන්දු 3කට ලකුණූ 16ක් රැස් කරමින් ඇන්ජලෝ මැතිව්ස් කැන්ඩි පිලට ජයග්‍රහණයේ බලාපොරාත්තු රැගෙන ආවේය.
+
+ඒ අනුව අවසන් පන්දුවට ජයග්‍රහණය සඳහා ලකුණු 3ක් අවශ්‍යව තිබුණත් එම පන්දුවේදී මැතිව්ස් දුවද්දී දැවීගියේ කලම්බු ස්ට්‍රයිකර්ස් කණ්ඩායමට ලකුණු 2ක තියුණූ ජයක් හිමිකර කර දෙමිනි.
+
+...
+
+[Data](articles/13ca247d.json)
+
+---
+
+### බ්‍රිතාන්‍යයේ සිටින සරණාගතයින්ට සහනයක්
+
+*2024-07-07 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198572) · `si`
+
+පසුගිය බ්‍රිතාන්‍ය රජය විසින් ක්‍රියාවට නැංවූ "සරණාගතයින් රුවන්ඩාවට යැවීමේ" වැඩසටහන අත්හිටුවන බව බ්‍රිතාන්‍ය නව අගමැති කියා ස්ටාමර් පවසයි.
+
+ඔහු මේ බව පැවසුවේ මැතිවරණය ජය ගැනීමෙන් අනතුරුව සිය ප්‍රතිපත්ති ප්‍රකාශයට පත්කරමිනි.
+
+පසුගිය රජය 2022 වසරේදී නිවේදනය කළේ නීත්‍යානුකූල නොවන ලෙස එරටට පැමිණෙන සංක්‍රමණික පිරිස් රුවන්ඩාවට යවන බවයි.
+
+◼️
+
+[Data](articles/a49b1b54.json)
+
+---
+
+### සුදුවෙන්න ගාන ආලේපන ගැන බය හිතෙන කතාවක්
+
+*2024-07-07 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198571) · `si`
+
+රූපලාවන්‍ය ආලේපන හා විලවුන් සම්බන්ධයෙන් නිසි නියාමනයක් නොමැති වීම හේතුවෙන් ඉදිරියේ දී අවාසනාවන්ත තත්ත්වයන්ට මුහුණ දීමට සිදුවනු ඇති බව ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමය පවසයි.
+
+එහි සභාපති උපුල් රෝහණ මහතා සඳහන් කළේ ඇතැම් විට ඉදිරියේ දී ඒ හේතුවෙන් මරණ වාර්තා වීමේ හැකියාවක් ද පවතින බවය.
+
+කඩිනමින් මේ සම්බන්ධයෙන් බලධාරීන්ගේ අවධානය යොමු විය යුතු බව උපුල් රෝහණ මහතා පවසයි.
+
+◼️
+
+[Data](articles/1a2641de.json)
+
+---
 
 ### John Sena takes good
 
@@ -2175,71 +2231,5 @@ The Future will be conducted by the Sri Lanka Bureau of Foreign Employment.
 [Data](articles/ae49a301.json)
 
 [Extended Data](ext_articles/ae49a301.ext.json)
-
----
-
-### The decisions we make today will shape our future – President
-
-*2024-07-06 18:27:00* · [`islandlk`](http://island.lk/the-decisions-we-make-today-will-shape-our-future-president/) · `en`
-
-President Ranil Wickremesinghe recently emphasized that as the country builds a new economy, it is crucial to establish a new political system. This system must foster individuals who can take responsibility and speak the truth fearlessly.
-
-He made these remarks during the bankers’ forum organized by the National Bankers Association at Galle Face Hotel, Colombo, on Friday (05).
-
-The President stated that he has updated the people of the economic challenges faced by the country and has also outlined a clear program to lead the nation out of the crisis. He reiterated that there is no alternative program for the country and that it is everyone’s responsibility to identify and support the program rather than living in dream worlds.
-
-He pointed out that while some have cited Argentina’s Martin Guzman as an example, he considers Guzman a failure.
-
-...
-
-[Data](articles/fad19c8e.json)
-
-[Extended Data](ext_articles/fad19c8e.ext.json)
-
----
-
-### No salary increase this year - President
-
-*2024-07-06 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198545) · `si`
-
-President Ranil Wickremesinghe announced no salary increases for the public sector this year due to election constraints. He promised potential raises could come in next year's budget during a ceremony for Uva Provincial Command members in Wellawaya.
-
-🟩
-
-President Ranil Wickremesinghe says that the public sector increase cannot be re-increasing this year.
-
-The President said that a duration of an election duration of this year is impossible.
-
-The President was speaking at a ceremony to empower members of the Uva Provincial Command members at Wellawaya today (06).
-
-Speaking further the President said, the salaries can be increased by the next year's budget.
-
-◼️
-
-[Data](articles/061c1b9e.json)
-
-[Extended Data](ext_articles/061c1b9e.ext.json)
-
----
-
-### Where a tipper went with black stones
-
-*2024-07-06 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198544) · `si`
-
-A tipper carrying black stones from Padukka Meepe to Colombo Harbor overturned near the Kelani River after breaking a bridge's fence. The incident occurred near Hanwella Junction on 06/xx/xxxx, but the driver was unhurt.
-
-🟩
-
-A tipper transporting black stones from the Padukka Meepe to Colombo Harbor has been trained near the Ekunggama Junction today (06) at Hanwella Junction.
-
-The accident had taken place after the tipper broke the safe fence of a bridge and rolled near the Kelani River.
-
-The driver of the tipper in the accident has not been harmed.
-
-◼️
-
-[Data](articles/dab91bc4.json)
-
-[Extended Data](ext_articles/dab91bc4.ext.json)
 
 ---

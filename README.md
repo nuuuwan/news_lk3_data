@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 02:05:02**
+As of **2024-07-08 02:20:06**
 
 ## Newspaper Stats
 
-*Scraped **34,129** Articles*
+*Scraped **34,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 334
 newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,005
-dailyftlk | 2,120
+dailyftlk | 2,123
 adalk | 3,052
 adaderanalk | 3,910
 tamilmirrorlk | 4,053
@@ -26,11 +26,61 @@ adaderanasinhalalk | 5,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,128 (100.0%) of 34,129 articles have been extended.
+34,129 (100.0%) of 34,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### Nilrandha Fonseka and Ranura Perera crowned National Champions of prestigious AYDA Awards 2023/2024
+
+*2024-07-08 01:57:37* · [`dailyftlk`](https://www.ft.lk/business/Nilrandha-Fonseka-and-Ranura-Perera-crowned-National-Champions-of-prestigious-AYDA-Awards-2023-2024/34-763968) · `en`
+
+The AYDA Awards 2023/2024, brought to life by Nippon Paint, witnessed a remarkable showcase of talents nationwide. Nilrandha Fonseka and Ranura Perera emerged as the National Winners for their outstanding design projects, Bhumi and Artisan’s Shack under the categories of Architectural and Interior Design respectively.
+
+The winners captivated judges and audiences alike with their thoughtful approach to design, which seamlessly merged innovation with social consciousness. Their winning submission not only demonstrated creativity but also offered innovative solutions addressing real-life issues. Aligned with the theme – CONVERGE: Championing Purposeful Designs, the National Winners displayed passion in their designs with integrated solutions that are impactful to the society while advancing the field of design.
+
+...
+
+[Data](articles/07194e02.json)
+
+---
+
+### India funds 200 smart classrooms in Southern Province
+
+*2024-07-08 01:56:12* · [`dailyftlk`](https://www.ft.lk/news/India-funds-200-smart-classrooms-in-Southern-Province/56-763967) · `en`
+
+President Ranil Wickremesinghe and Indian High Commissioner Santosh Jha on Saturday handed over digital equipment to several schools in the Southern Province at an event in Galle.
+
+Various dignitaries including Education Minister Dr. Susil Premajayantha and Health and Industry Minister Dr. Ramesh Pathirana were also present.
+
+These digital equipment were distributed under a grant assistance project by the Government of India (GoI) for the establishment of 200 smart classrooms in the Southern Province. The project aims at equipping 200 schools in the province with necessary digital tools that would enable them to benefit from digital resources and materials across the globe.
+
+Speaking on the occasion, President Wickremesinghe thanked GoI and Prime Minister Shri Narendra Modi for the multi–pronged support to Sri Lanka in the education domain.
+
+...
+
+[Data](articles/57c905f0.json)
+
+---
+
+### Lionel Fernando no more
+
+*2024-07-08 01:53:59* · [`dailyftlk`](https://www.ft.lk/news/Lionel-Fernando-no-more/56-763966) · `en`
+
+Former top civil servant and diplomat Lionel Fernando passed away on Saturday.
+
+He has held the offices of Media, Tourism and Aviation Ministry Secretary, Foreign Ministry Secretary, Sri Lankan Ambassador to the Netherlands, France, Austria (and a few other countries), and North Eastern Province Governor.
+
+He was also the Organisation for the Prohibition of Chemical Weapons (OPCW) associated to the UNO Executive Council Chairman, and Ceylon Shipping Corporation and Sri Lanka Rupavahini Corporation Chairman among others. He was also a Federation of Chambers of Commerce and Industry adviser.
+
+His remains will lie at the Jayarathna Respect Home (VIP Parlour) from 9 a.m. today and cremation will be at 5:30 p.m. at the New Crematorium (Entrance Kitulwatta Road).
+
+◼️
+
+[Data](articles/10428994.json)
+
+---
 
 ### Ali Sabry in Singapore on official visit
 
@@ -45,6 +95,8 @@ The Minister is also scheduled to take part in the Reuters NEXT Asia-Pacific Sum
 ◼️
 
 [Data](articles/ae5907f7.json)
+
+[Extended Data](ext_articles/ae5907f7.ext.json)
 
 ---
 
@@ -2333,71 +2385,5 @@ The suspect, a 17 -year -old schoolgirl, was arrested by the suspect, who was ar
 [Data](articles/89afe0f1.json)
 
 [Extended Data](ext_articles/89afe0f1.ext.json)
-
----
-
-### 78 -year -old woman abuse;The student was arrested
-
-*2024-07-07 11:18:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/78-வயதுடைய-பெண்-துஷ்பிரயோகம்-மாணவன்-கைது/76-339967) · `ta`
-
-A 17-year-old girl is held until the 8th of this month for allegedly murdering a 78-year-old woman found dead in the Thorawala River in Balangoda. The victim, identified as Syria, was suspected to have drowned, but an autopsy revealed signs of physical abuse. The suspect was arrested by the Balangoda police and is awaiting trial.
-
-🟩
-
-A 17 -year -old schoolgirl has been remanded until the 8th of this month in connection with the murder of a 78 -year -old woman in Balangoda.
-
-ML from Mukunamalai, Balangoda. A woman named Syria was recovered from the Thorawala river that evening as she went to the Torawala River to bathe on the 27th.
-
-The post -mortem was conducted at the Balangoda Resource Hospital, suspected that the woman may have died in the water.
-
-In addition, the legal officer conducted the examination that he had been abused and murdered by his neck and mouth.
-
-The suspect, a 17 -year -old schoolgirl, was arrested by the suspect, who was arrested by the Balangoda police and was produced before Magistrate DM Chandrasekhara.The magistrate ordered the prison authorities to be involved.
-
-◼️
-
-[Data](articles/c31295fc.json)
-
-[Extended Data](ext_articles/c31295fc.ext.json)
-
----
-
-### Youth arrested trying to sell rare conch shell in Marawila
-
-*2024-07-07 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100345/youth-arrested-trying-to-sell-rare-conch-shell-in-marawila) · `en`
-
-During a raid conducted by the Special Task Force in Marawila, a 24-year-old youth has been arrested for attempting to sell a rare conch shell.
-
-The rare conch shell, weighing 01kg and 105g, and the arrested suspect have been handed over to Karuwalagaswewa Wildlife Office for onward action.
-
-◼️
-
-[Data](articles/0ca27a5e.json)
-
-[Extended Data](ext_articles/0ca27a5e.ext.json)
-
----
-
-### Abduction of police
-
-*2024-07-07 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198564) · `si`
-
-On June 29, a 55-year-old former police officer was abducted by a group from a car in Sevanagala. Two suspects, locals of Embilipitiya, were arrested on June 6, linked to the incident over a cash dispute.
-
-🟩
-
-Sevanagala Police have arrested two persons with suspicion of abduction of a person who had been police officers.
-
-A 55-year-old man had been abducted by a group of people who arrived in a car on June 29.
-
-Two suspects have been arrested in the Embilipitiya area yesterday (06).
-
-The suspects are residents of Embilipitiya and the police have revealed that the abduction had been made due to a cash dispute.
-
-◼️
-
-[Data](articles/78fd17a2.json)
-
-[Extended Data](ext_articles/78fd17a2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 13:35:06**
+As of **2024-07-07 13:54:08**
 
 ## Newspaper Stats
 
-*Scraped **34,055** Articles*
+*Scraped **34,058** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,50 +15,98 @@ newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,004
 dailyftlk | 2,115
-adalk | 3,038
+adalk | 3,039
 adaderanalk | 3,902
-tamilmirrorlk | 4,036
+tamilmirrorlk | 4,037
 dailymirrorlk | 4,733
-virakesarilk | 5,335
+virakesarilk | 5,336
 adaderanasinhalalk | 5,660
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,053 (100.0%) of 34,055 articles have been extended.
+34,055 (100.0%) of 34,058 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### ජෝන් සීනා සමු ගනී
+### John Sena takes good
 
 *2024-07-07 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198570) · `si`
 
-ලොව ජනාදරයට පත් රෙස්ලිං තරුවක් වන ජෝන් සීනා රෙස්ලිං පිටියෙන් සමුගන්නා බව නිවේදනය කර තිබේ.
+John Sena, a renowned figure, has announced his retirement from competitive gaming. The 47-year-old Hollywood actor expressed excitement about his last match in the relief tournament.
 
-සුප්‍රසිද්ධ හොලිවුඩ් නළුවකුද වන ජෝන් සීනා 47 හැවිරිදි වියේ පසුවෙයි.
+🟩
 
-ජෝන් සීනා පවසා පවසා ඇත්තේ, එළැඹෙන රෙස්ල්මේනියා තරගාවලියේදී තම අවසන් රෙස්ලිං තරගය වන බවත් එයට මුහුණ දීමට තමන් බලාපොරොත්තුවෙන් සිටින බවත්ය.
+John Sena, a resolution star that has been a resolution star, has announced his retrospective.
+
+John Pina, a famous Hollywood actor, is 47 years old.
+
+John Sena said his final resolving match in the relief tournament that he was looking forward to facing it.
 
 ◼️
 
 [Data](articles/66345a5e.json)
 
+[Extended Data](ext_articles/66345a5e.ext.json)
+
 ---
 
-### සනත් ජයසූරියට අලුත් වගකීමක්
+### ஆட்சியை கைப்பற்றுவார்களா தீவிரவலதுசாரிகள்? பிரான்சில்  தேர்தல் வாக்களிப்பு ஆரம்பம்
+
+*2024-07-07 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/187897) · `ta`
+
+தீவிரவலதுசாரிகள் வரலாற்று முக்கியத்துவம் வாய்ந்த வெற்றியை  எதிர்பார்க்கின்ற  தேர்தலில் பிரான்ஸ் மக்கள் வாக்களிக்க ஆரம்பித்துள்ளனர்.
+
+தீவிரவலதுசாரி கட்சியான ஆர்என் கட்சி  அதிகளவு ஆசனங்களை கைப்பற்றும் எனினும் கட்சிக்கு பெரும்பான்மை கிடைக்காது என கருத்துக்கணிப்புகள் தெரிவித்துள்ள சூழ்நிலையிலேயே வாக்களிப்பு ஆரம்பமாகியுள்ளது.
+
+தேர்தலில் எந்த கட்சிக்கும் பெரும்பான்மை கிடைக்காத நிலையேற்பட்டால் ஒலிம்பிக் போட்டிகளிற்கு முன்னதாக பிரான்சில் தொங்கு பாராளுமன்றம் உருவாகலாம்,ஜனாதிபதி இமானுவேல் மைக்ரோனின் அதிகாரம் பெருமளவிற்கு பாதிக்கப்படலாம்.
+
+கடந்த ஞாயிற்றுக்கிழமை இடம்பெற்ற முதற்சுற்று வாக்களிப்பில் மரைன் லெபென்னின் ஆர்எல் கட்சி வெற்றி பெற்றதை தொடர்ந்து இரண்டாம் உலக யுத்தத்தின் பின்னர் தீவிரவலதுசாரிகள் பிரான்சில் ஆட்சியமைப்பது குறித்த அச்சம் உருவாகியது.
+
+எனினும் இந்த நிலை ஏற்படுவதை தவிர்ப்பதற்காக இடதுசாரிகள் உட்பட அரசியல் கட்சிகள் கைகோர்த்துள்ளன.இதனை தொடர்ந்து நாடாளுமன்ற தேர்தலில் பெரும்பான்மை பெறுவது குறித்த  மரைன் லெபென்னின்  கனவுகளிற்கு பாதிப்பு ஏற்பட்டுள்ளது.
+
+...
+
+[Data](articles/f21c5c62.json)
+
+---
+
+### 6 மாடி கட்டடம் இடிந்து வீழ்ந்து 7 பேர் பலி
+
+*2024-07-07 13:11:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மாடி-கட்டடம்-இடிந்து-வீழ்ந்து-7-பேர்-பலி/175-339977) · `ta`
+
+இந்தியாவின் குஜராத் மாநிலம் சூரத் நகரில் நிலவும் சீரற்ற காலநிலையினை தொடர்ந்து சூரத் பகுதியில் 6 மாடி கட்டடம் ஒன்று இடிந்து வீழ்ந்துள்ளது.
+
+இந்த விபத்தில் 7 பேர் வரையில் உயிரிழந்துள்ளதாக இந்திய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+அத்துடன், 15 பேர் காயமடைந்த நிலையில் சிகிச்சைக்காக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/a0e15b2c.json)
+
+---
+
+### New responsibility to Sanath Jayasuriya
 
 *2024-07-07 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198569) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ලෙස සනත් ජයසූරිය තාවකාලිකව පත් කර තිබේ.
+Sanath Jayasuriya takes over as Sri Lanka's temporary head coach post Chris Silverwood's departure after the T20 World Cup.
 
-ප්‍රධාන පුහුණුකරු ලෙස කටයුතු කළ ක්‍රිස් සිල්වර්වුඩ් ගේ කොන්ත්‍රාත් කාලය පසුගිය 20යි 20 ලෝක කුසලාන තරගාවලියෙන් පසු නිමවිය.
+🟩
+
+Sanath Jayasuriya has been temporarily appointed as the head coach of the Sri Lankan cricket team.
+
+Chris Silverwood, who was the chief coach, was completed after the 20 World Cup.
 
 ◼️
 
 [Data](articles/cedd472f.json)
+
+[Extended Data](ext_articles/cedd472f.ext.json)
 
 ---
 
@@ -140,7 +188,7 @@ The interim appointment follows the resignations of head coach Chris Silverwood 
 
 Under the leadership of Wanindu Hasaranga, the team failed to advance to the Super 8 round, prompting a need for significant changes in the coaching staff.
 
-Sri Lanka’s immediate challenge is the home series against the newly crowned T20 World Cup champions, India. The series
+Sri Lanka’s immediate challenge is the home series against the newly crowned T20 World Cup champions, India. The series will feature three One Day Internationals (ODIs) and three Twenty20 Internationals (T20Is).
 
 ◼️
 
@@ -455,6 +503,26 @@ The dictatorial Saudi government has two faces. On the one hand, the deceit of M
 [Data](articles/3b4a03f3.json)
 
 [Extended Data](ext_articles/3b4a03f3.ext.json)
+
+---
+
+### එක්සත් අරාබි එමීර් රාජ්‍යයෙන් පිටුවහල් කල සයිබර් අපරාධකරුවන් දිවයිනට
+
+*2024-07-07 11:30:14* · [`adalk`](https://www.ada.lk/breaking_news/එක්සත්-අරාබි-එමීර්-රාජ්‍යයෙන්-පිටුවහල්-කල-සයිබර්-අපරාධකරුවන්-දිවයිනට/11-410639) · `si`
+
+එක්සත් අරාබි එමීර් රාජ්‍යයේ සයිබර් අපරාධවල නියැලීම හේතුවෙන්  පිටුවහල් කල ශ්‍රී ලාංකිකයින් 11දෙනකු ජූලි මස 06  සෙනසුරාදා  පෙරවරුවේ ගුවන්  මගින් දිවයිනට පැමිණි බැව් ශ්‍රී ලාංකා විදේශ සේවා නියුක්ති කාර්යාාංශය පවසයි
+
+.පසුගිය ජූලි පළමු වෙනිදා " කලීජ් ටයිම්ස් "  පුවත්පතේ පළවූ ලිපියක් මඟින් එක්සත් අරාබි එමීර් රාජ්‍යයේ සයිබර් අපරාධ වල නිරත වූ දකුණු ආසියාතිකයන් සහ අප්‍රිකානුවන් සිය ගණනක් එරට පොලිසිය මඟින් අත්අඩංගුවට ගෙන ඇති බව සඳහන් කර  තිබිණි.
+
+.ඒ අනුව එරට ශ්‍රි ලාංකා තානාපති කාර්යාලය මඟින් සිදු කල සොයා බැලීමේදී ශ්‍රී ලාංකිකයින් 37 දෙනෙකුද සයිබර් ජාවාරමේ සහ ගණිකා ජාවාරමේ නිරත වීම ඇතුළු විවිධ චෝදනා  මත පොලිස් අත් අඩංගුවට පත්වූ  බවට අනාවරණය කර ගෙන ඇත.
+
+ඉදිරි පොලිස් විමර්ශන කටයුතු අවසන් වීමෙන්  පසු අනෙකුත් ශ්‍රී ලාංකික පිරිස දෙසතියක්  තුළ මෙරටට පිටුවහල් කිරීමට කටයුතු කරන බැව් තානාපති  කාර්යාලය වැඩිදුරටත් සඳහන් කරයි.
+
+මෙම පිරිස දිවයිනට පැමිණීමෙන් පසු ඉදිරි විමර්ශන කටයුතු ශ්‍රී ලාංකා විදේශ සේවා නියුක්ත කාර්‍යාංශය විසින් සිදු කිරීමට නියමිත බවද එම කාර්යාංශය තොරතුරු අනාවරණය කරයි.
+
+◼️
+
+[Data](articles/55e1323e.json)
 
 ---
 
@@ -2153,83 +2221,5 @@ The driver of the tipper in the accident has not been harmed.
 [Data](articles/dab91bc4.json)
 
 [Extended Data](ext_articles/dab91bc4.ext.json)
-
----
-
-### Foreign investment needed for Sri Lanka banks to thrive: President
-
-*2024-07-06 17:01:00* · [`economynextcom`](https://economynext.com/foreign-investment-needed-for-sri-lanka-banks-to-thrive-president-171145/) · `en`
-
-ECONOMYNEXT – Sri Lanka cannot safeguard its economy if it does not protect its banking system, the country’s president told bankers.
-
-“If we do not protect our banking system, we cannot safeguard our economy. A collapse in the banking system would lead to an economic collapse,” President Ranil Wickremesinghe said.
-
-“We need to progress from this point forward, and the banking system plays a crucial role here. How do we secure funding? Foreign investment is essential for the banks to thrive,” Wickremesinghe told a bankers’ forum at Galle Face Hotel, Colombo, on Friday (05).
-
-The event was organized by the National Bankers Association, and attended by various individuals from the banking sector.
-
-Wickremesinghe said efforts have been made to reduce the loan repayment by 8 billion dollars over a period of four years.
-
-“With the USD 8 billion in debt relief, we are now free to pursue a new economy. We have submitted the necessary legal framework to Parliament to create an export-oriented economy.”
-
-...
-
-[Data](articles/002627f2.json)
-
-[Extended Data](ext_articles/002627f2.ext.json)
-
----
-
-### Imran Khan prepares a fast
-
-*2024-07-06 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198543) · `si`
-
-Imran Khan, former PM of Pakistan, has called for the removal of the current Chief Justice, accusing him of bias against his party, PTI. He threatened a hunger strike if justice wasn't served, highlighting tensions between political factions and the judiciary in Pakistan.
-
-🟩
-
-The party has requested the Chief Justice of Pakistan to remove the pakistan's pakistan.
-
-PTI is the party of Pakistan, who is currently imprisoned by Imran Khan's party.
-
-Imran Khan has said that he was ready to take a continuous fast if he did not take justice.
-
-Former Pakistan, Prime Minister Imran Khan, addressing journalists, said that after participating in the judiciary.
-
-◼️
-
-[Data](articles/3a03c9d1.json)
-
-[Extended Data](ext_articles/3a03c9d1.ext.json)
-
----
-
-### The latest group looking for the President
-
-*2024-07-06 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198542) · `si`
-
-President Ranil Wickremesinghe emphasizes the need for responsible individuals in Sri Lanka's political system to support its new economy. At a bankers' forum, he highlighted the importance of an export-driven development strategy and the role of the banking sector in achieving it. He criticized the previous administration for not addressing economic challenges adequately and urged all citizens to contribute to the nation's progress.
-
-🟩
-
-President Ranil Wickremesinghe says that when a new economy is building a new economy in the country, a group of people who can take responsibilities and a truly expressing a truth should be created in the political system.
-
-The President was referring to the bankers' forum, organized by the National Bankers Association yesterday.
-
-The President also stated that he had stated the economic challenge in the country.
-
-It is the responsibility of everyone to help the country has no other program except the program but the country.
-
-He emphasized that the Sinhalese nation will never allow the nation.
-
-It was said that his purpose was to take the country to a rapid development of the country based on an export economy and that the legal system required to create an export economy was present and that the banking system would have a great responsibility to the banking system.
-
-Speaking further, President Ranil Wickremesinghe further said,
-
-...
-
-[Data](articles/f1351ec3.json)
-
-[Extended Data](ext_articles/f1351ec3.ext.json)
 
 ---

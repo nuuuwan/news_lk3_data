@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 16:52:24**
+As of **2024-07-07 17:05:08**
 
 ## Newspaper Stats
 
-*Scraped **34,079** Articles*
+*Scraped **34,083** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,62 @@ newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,004
 dailyftlk | 2,115
-adalk | 3,044
+adalk | 3,045
 adaderanalk | 3,905
 tamilmirrorlk | 4,043
 dailymirrorlk | 4,733
-virakesarilk | 5,336
-adaderanasinhalalk | 5,667
+virakesarilk | 5,338
+adaderanasinhalalk | 5,668
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,078 (100.0%) of 34,079 articles have been extended.
+34,079 (100.0%) of 34,083 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### බ්‍රිතාන්‍ය පාර්ලිමේන්තුවේ බේබි
+### හසරංග පිත්තෙන් වැඩ පෙන්වයි
+
+*2024-07-07 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198578) · `si`
+
+ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ ගෝල් මාර්වල්ස් සහ කැන්ඩි ෆැල්කන්ස් අතර පැවැත්වෙන තරගයේ පළමුව පන්දුවට පහරදුන් කැන්ඩි ෆැල්කන්ස් කණ්ඩායම සිය පන්දු ඕවර 20 දී කඩුලු 7ක් දැවී ලකුණු 175ක් ලබාගත්තේය.
+
+ආරම්භක පිතිකරු ඇන්ඩ්‍රෙ ෆ්ලෙචර් ලකුණු 50ක් ලබාගත් අතර නායක වනිඳු හසරංග පන්දු 32කට නොදැවී ලකුණු 65ක් ලබාගත්තේය.
+
+පන්දු යැවීමේදී ඉසුරු උදාන ලකුණු 30කට කඩුලු 3ක් දවාගත් අතර සහූර් ඛාන් ලකුණු 29කට කඩුලු 2ක් දවාගත්තේය.
+
+◼️
+
+[Data](articles/c9e7eae9.json)
+
+---
+
+### Baby in British Parliament
 
 *2024-07-07 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198577) · `si`
 
-පසුගියදා නිමාවට පත්වූ බ්‍රිතාන්‍ය මහ මැතිවරණයෙන් 22 හැවිරිදි තරුණයෙක් පාර්ලිමේන්තුව සඳහා තේරී පත්වී තිබේ.
+Sam Carlin, aged 22, becomes youngest MP after winning a seat in the UK's Parliament with a 39-vote majority. Critics dub him "Baby in Parliament." He represents the Northwestern Cambridgeshire division for the Labour Party, marking a significant win as he anticipates more young people entering politics.
 
-විචාරකයින් පවසන්නේ කම්කරු පක්ෂය නියෝජනය කරමින් මැතිවරණය ජයග්‍රහණය කළ සෑම් කාර්ලින් "පාර්ලිමේන්තුවේ බේබි" ලෙස හැඳින්වීමට ඉඩ ඇති බවයි.
+🟩
 
-ඔහු වයඹදිග කේම්බ්‍රිජ්ෂයර් කොට්ඨාසය නියෝජනය කරමින් වැඩි ඡන්ද 39කින් ජයග්‍රහණය කළේය.
+A 22-year-old youth has been elected to Parliament recently.
 
-කේම්බ්‍රිජ් විශ්වවිද්‍යාලයේ උපාධිලාභියෙක් වන සෑම් අතින් පරාජයට පත්වූයේ වසර 22ක් පමණ කාලයක් මන්ත්‍රීවරයෙක් ලෙස කටයුතු කළ ශයිලෙෂ් වාරා ය.
+Critics say that Sam Carlin, who represented the Election of the Labor, is likely to be called "Baby 'in Parliament.
 
-තම ජයග්‍රහණය "දේශපාලන භූමිකම්පාවක්"  බව පවසන සෑම්, දේශපාලනය සඳහා වැඩි වැඩියෙන් තරුණ පිරිස් පැමිණෙතැයි තමා අපේක්ෂා කරන බව පැවසීය.
+He represented a majority of 39 votes representing the Northwestern Cambrishire division.
+
+Shaylez Warra, who was a Member of Rs.
+
+Sam, who claims that their victory is a "political earthquake," he said he expects more and more young people to come.
 
 ◼️
 
 [Data](articles/f65a24ac.json)
+
+[Extended Data](ext_articles/f65a24ac.ext.json)
 
 ---
 
@@ -103,6 +125,20 @@ Accordingly, some of the lovers have come forward to obtain the temporary arrang
 [Data](articles/90ae0546.json)
 
 [Extended Data](ext_articles/90ae0546.ext.json)
+
+---
+
+### மூன்று வருடங்களில் பத்தாயிரம் வீடுகள் சாத்தியமா? தகவல் அறியும் சட்டம் ஊடாக பெறப்பட்ட தகவல்கள்
+
+*2024-07-07 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/187909) · `ta`
+
+2017ஆம் ஆண்டு இந்­திய பிர­தமர்  நரேந்­திர மோடியால் வாக்­கு­று­தி­ய­ளிக்­கப்­பட்ட பெருந்­தோட்­டப்­ப­கு­தி­களில் பத்­தா­யிரம் குடியிருப்புகள் அமைக்கும் திட்­டத்தின் ஒப்­பந்­த­மா­னது 2023 நவம்பர் மாதம் 28ஆம் திகதி கைச்­சாத்­தா­னது.
+
+முதற்­கட்­ட­மாக அமை­ய­வுள்ள 1300 வீடு­க­ளுக்­கான அடிக்­கற்கள் நாட்டும் நிகழ்வு பெப்­ர­வரி மாதம் 19 ஆம் திகதி ‘பாரத் லங்கா’ என்­ற­   பெ­ய­ருடன் இடம்­பெற்­றது. இதன் போது கருத்து வெளி­யிட்­டி­ருந்த அமைச்சர் ஜீவன்,   முதற்­கட்­ட­மாக 1300 வீடுகள்  இவ்­வ­ருடம் ஓகஸ்ட் மாதத்­துக்குள் பூர்த்தி செய்ய நட­வ­டிக்கை எடுக்­கப்­பட்­டுள்­ள­தாக தெரி­வித்­தி­ருந்­தமை முக்­கிய விடயம்.
+
+...
+
+[Data](articles/3e21e2df.json)
 
 ---
 
@@ -199,6 +235,18 @@ President Wickremesinghe made these remarks at the Uva Provincial Community Poli
 [Data](articles/3067ff39.json)
 
 [Extended Data](ext_articles/3067ff39.ext.json)
+
+---
+
+### ஜனாதிபதியின் அரசியல் நகர்வில் மு.கா சிக்குமா?
+
+*2024-07-07 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/187895) · `ta`
+
+ஒரு அரசியல் கட்சியின் பலம் என்பது அக்கட்சி பெற்றுக்கொள்கின்ற பாராளுமன்ற உறுப்பினர்களின் எண்ணிக்கையில் மாத்திரம் தங்கியிருக்கவில்லை. அக்கட்சியின் பாராளுமன்ற உறுப்பினர்கள் முதல் உள்ளுராட்சி சபைகளின் உறுப்பினர்கள் வரை அனைத்துத் தரப்பினரும் கட்சியின் கட்டுக்கோப்பை பாதுக்காக வேண்டும்.
+
+◼️
+
+[Data](articles/83a4da0d.json)
 
 ---
 
@@ -525,6 +573,22 @@ In addition, 15 people have been admitted to the hospital for treatment.. (A)
 [Data](articles/a0e15b2c.json)
 
 [Extended Data](ext_articles/a0e15b2c.ext.json)
+
+---
+
+### මහා පරිමාණ දැවිතෙල් ජාවාරමක තොරතුරු හෙළිවෙයි
+
+*2024-07-07 13:10:09* · [`adalk`](https://www.ada.lk/breaking_news/මහා-පරිමාණ-දැවිතෙල්-ජාවාරමක-තොරතුරු-හෙළිවෙයි/11-410645) · `si`
+
+කොලොන්නාව ඛනිජ තෙල් පර්යන්ත නිමාවේ සිට කෙළවරපිටිය යුගදනවි විදුලි බලාගාරය වෙත බවුසර් මගින් රැගෙන එනු ලබන දැවී තෙල් මහා පරිමාණයෙන් සොරකම් කිරීමක් ඉකුත් 05 දා හසු කර ගැනීමට ඛනිජ තෙල් පර්යන්ත (CPSLT) විමර්ශන නිලධාරීන්ට හැකිව තිබේ.
+
+ලංකාවේ දෙවන විශාලතම විදුලි බලාගාරය වන යුගදනවි බලාගාරයේ ටර්බයින ක්‍රියා කරවීම සඳහා අවශ්‍ය දැවිතෙල් කොලොන්නාව තෙල් නිමාවේ සිට බවුසර් මගින් යුගදනවි බලාගාරය වෙත ප්‍රවාහනය කරනු ලබයි. මෙසේ රැගෙන එනු ලබන දැවි තෙල් සහිත බවුසරයක දැවිතෙල් ලීටර 16000 ක් අඩු බව නිරීක්ෂණ කල යුගදනවි පාලනාධිකාරිය ඒ පිළිබඳ තොරතුරු කොලොන්නාව තෙල් නිමාවේ නිලධාරීන් ට දන්වා තිබේ.
+
+ඒ අනුව විමර්ශන ආරම්භ කල (CPSLT)  නිලධාරීන් බෝපිටිය ප්‍රදේශයේ ඇති පෞද්ගලික  රථ අංගනයක් තුළ දී දැවිතෙල් රැගෙන පැමිණෙන බවුසර් වල ඇති දැවිතෙල් වෙනත් බවුසර් වලට ඇද මෙම මහා පරිමාණ දැවිතෙල් සොරකමක සිදු කරන බව අනාවරණය කර ගෙන තිබේ.
+
+...
+
+[Data](articles/76f97d41.json)
 
 ---
 
@@ -2189,77 +2253,5 @@ In addition, traffic restrictions will be imposed in the surrounding areas where
 [Data](articles/d9bdeeb3.json)
 
 [Extended Data](ext_articles/d9bdeeb3.ext.json)
-
----
-
-### Inside canal
-
-*2024-07-07 01:12:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால்வாய்க்குள்-பாய்ந்த-பாரவூர்தி/175-339958) · `ta`
-
-A traveler en route from Padukha to Colombo crashed near Hangwella Embulugama due to a bridge's security fence falling into the canal post losing control.
-
-🟩
-
-A traveler traveling from Padukha to Colombo has crashed near the Hangwella Embulugama junction.
-
-It is reported that the bridge's security fence crashed into the canal after the paradigm was lost.
-
-◼️
-
-[Data](articles/b7d3c332.json)
-
-[Extended Data](ext_articles/b7d3c332.ext.json)
-
----
-
-### Anita Desai – Indian Novelist
-
-*2024-07-07 01:09:00* · [`islandlk`](http://island.lk/anita-desai-indian-novelist/) · `en`
-
-I caught the infection of admiring almost anything Indian from my eldest brother – kind and pacifist like Gandhi; superb gentleman like Jawaharlal Nehru. His most prized possession was an autographed copy of  Discovery of India, given him by Nehru himself when he visited Ceylon in 1957 in celebration of the Buddha Jayanti. A cherished memory of his was seeing newly wed Nayantara, daughter of Vijayalakshmi Pandit, leave by train in the Delhi station with husband Sahgal on their honeymoon.
-
-They were surrounded by family. And what was Aiya doing over there? Intrepidly he had taken Mother on pilgrimage to Gaya and other places, all by himself in 1949, when pilgrimages were rare and fraught with risks.
-
-...
-
-[Data](articles/9e7bc71c.json)
-
-[Extended Data](ext_articles/9e7bc71c.ext.json)
-
----
-
-### On the verge of manhood
-
-*2024-07-07 01:06:00* · [`islandlk`](http://island.lk/on-the-verge-of-manhood/) · `en`
-
-Seniors’ ragging of ‘freshers’ was rampant on the Peradeniya campus. Marcus Fernando Hall, where I was a fresher, was notorious for ragging. A gang of nasty seniors woke us up at 4 am and forced us to crawl naked around the hall pond, pretending to be reptiles looking for water. Some seniors were lenient and wanted to have a good time with freshers. They asked us to sing, dance, or write letters promising to marry off sisters to their lordships – seniors. Once, I wrote a long letter promising to marry off my only sister to a senior. (I had only three brothers). He read the letter, thanked me for my generosity, and asked whether my sister was pretty. When I hesitated to reply, he told me he was uninterested in my sister.
-
-...
-
-[Data](articles/b427d4d9.json)
-
-[Extended Data](ext_articles/b427d4d9.ext.json)
-
----
-
-### No International Research Ships
-
-*2024-07-07 01:00:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-ஆய்வுக்-கப்பல்களுக்கு-தடையில்லை/175-339957) · `ta`
-
-Ali Sabri, External Affairs Minister of Sri Lanka, announced that international research ships won't be prohibited from its waters starting next year. This decision comes amid discussions about entry permissions. Additionally, Japan's Foreign Minister expressed gratitude for Sri Lanka allowing a ship equipped with Sonar technology to operate within its territorial waters.
-
-🟩
-
-External Affairs Minister Ali Sabri said that international inspection ships will not be banned from next year in the Sri Lankan waters.
-
-He said this while commenting on the lack of permission to enter the country's waters.
-
-Meanwhile, Foreign Minister Japanese thanked the government of Sri Lanka for providing a ship with Sonar technology.. (A)
-
-◼️
-
-[Data](articles/1b234b43.json)
-
-[Extended Data](ext_articles/1b234b43.ext.json)
 
 ---

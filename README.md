@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 02:20:06**
+As of **2024-07-08 02:35:12**
 
 ## Newspaper Stats
 
-*Scraped **34,132** Articles*
+*Scraped **34,133** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 334
 newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,005
-dailyftlk | 2,123
+dailyftlk | 2,124
 adalk | 3,052
 adaderanalk | 3,910
 tamilmirrorlk | 4,053
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,129 (100.0%) of 34,132 articles have been extended.
+34,132 (100.0%) of 34,133 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### Sri Lankan designs take on the globe after APAC success
+
+*2024-07-08 02:05:11* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-designs-take-on-the-globe-after-APAC-success/34-763969) · `en`
+
+Orient Design wins two Regional Awards; Five-Star winner enters global competition
+
+Sri Lanka made it big on the global interior design space, when Orient Design took home two awards at the prestigious Asia-Pacific Property Awards in Thailand. Winning a Five-Star award for Best Residential Interior Private Residence, Orient Design became the only Sri Lankan company to be nominated to the Global Awards. It also won the top award for Residential Interior in Apartments, for its design for the Cinnamon Life Penthouse.
+
+The private residence at Gower Street Colombo that won for Best Residential Interior combines nature and natural light into its design, and has been described by visitors as an Oasis nestled in the middle of the bustling city. Speaking to the Daily FT, Orient Design CEO Gihan Nanayakkara said the design was termed inspiring by many especially from the West, and that a city house could exude such natural and relaxing ambiances.
+
+...
+
+[Data](articles/f1dc01fc.json)
+
+---
 
 ### Nilrandha Fonseka and Ranura Perera crowned National Champions of prestigious AYDA Awards 2023/2024
 
@@ -43,6 +59,8 @@ The winners captivated judges and audiences alike with their thoughtful approach
 ...
 
 [Data](articles/07194e02.json)
+
+[Extended Data](ext_articles/07194e02.ext.json)
 
 ---
 
@@ -62,6 +80,8 @@ Speaking on the occasion, President Wickremesinghe thanked GoI and Prime Ministe
 
 [Data](articles/57c905f0.json)
 
+[Extended Data](ext_articles/57c905f0.ext.json)
+
 ---
 
 ### Lionel Fernando no more
@@ -79,6 +99,8 @@ His remains will lie at the Jayarathna Respect Home (VIP Parlour) from 9 a.m. to
 ◼️
 
 [Data](articles/10428994.json)
+
+[Extended Data](ext_articles/10428994.ext.json)
 
 ---
 
@@ -2359,31 +2381,5 @@ He further stated that despite existing issues in the health sector, this is not
 [Data](articles/8160c99a.json)
 
 [Extended Data](ext_articles/8160c99a.ext.json)
-
----
-
-### 78 -year -old woman abuse;The student was arrested
-
-*2024-07-07 11:18:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/78-வயதான-பெண்-துஷ்பிரயோகம்-மாணவன்-கைது/76-339967) · `ta`
-
-A 17-year-old girl was detained until the 8th of this month for allegedly murdering a 78-year-old woman in Balangoda. The victim, Syria, was found dead in the Thorawala River after going there to bathe on the 27th. An autopsy suggested she might have drowned and been raped. The girl was later arrested by the Balangoda police and remanded into custody.
-
-🟩
-
-A 17 -year -old schoolgirl has been kept in detention till the 8th of this month in connection with the murder of a 78 -year -old woman in Balangoda.
-
-ML from Mukunamalai, Balangoda. A woman named Syria was recovered from the Thorawala river that evening as she went to the Torawala River to bathe on the 27th.
-
-An autopsy has been conducted at the Balangoda Resource Hospital, suspected that the woman may have died in the water and has been raped on several occasions.
-
-In addition, the legal officer conducted the examination that he had been abused and murdered by his neck and mouth.
-
-The suspect, a 17 -year -old schoolgirl, was arrested by the suspect, who was arrested by the Balangoda police and was produced before Magistrate DM Chandrasekhara.The magistrate ordered the prison authorities to be involved.
-
-◼️
-
-[Data](articles/89afe0f1.json)
-
-[Extended Data](ext_articles/89afe0f1.ext.json)
 
 ---

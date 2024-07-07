@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 10:35:09**
+As of **2024-07-07 10:54:10**
 
 ## Newspaper Stats
 
-*Scraped **34,016** Articles*
+*Scraped **34,021** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,103 @@ islandlk | 1,914
 economynextcom | 2,003
 dailyftlk | 2,115
 adalk | 3,035
-adaderanalk | 3,894
-tamilmirrorlk | 4,028
+adaderanalk | 3,895
+tamilmirrorlk | 4,029
 dailymirrorlk | 4,733
-virakesarilk | 5,325
-adaderanasinhalalk | 5,651
+virakesarilk | 5,327
+adaderanasinhalalk | 5,652
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,014 (100.0%) of 34,016 articles have been extended.
+34,016 (100.0%) of 34,021 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### Basil pledges continued support for President Ranil
+
+*2024-07-07 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100343/basil-pledges-continued-support-for-president-ranil) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) founder former minister Basil Rajapaksa has declared their intention to continue supporting President Ranil Wickremesinghe with the country’s welfare in mind.
+
+He made this statement while attending a ceremony in Kalutara to mark the 27th anniversary of MP Rohitha Abeygunawardena’s political career.
+
+Rajapaksa emphasized that the SLPP’s support for Wickremesinghe was not motivated by fear, saying,    “President, whenever we work as part of the government in moving this party forward, we did not help you out of any fear. We state with great pride that we have no fear and no debt.”
+
+He further noted that the party collectively decided Wickremesinghe had the capability to save the country at a crucial time, and they had been supporting him sincerely since then.
+
+He assured that as long as the President continued to protect the country and its citizens, he would receive their full support.
+
+...
+
+[Data](articles/83a03d0a.json)
+
+---
+
+### புகலிடம் கோருபவர்களை ருவாண்டாவிற்கு அனுப்பும் ரிசி சுனாக்கின் திட்டம் - கைவிடப்போவதாக பிரிட்டனின் புதிய அரசாங்கம் தெரிவிப்பு
+
+*2024-07-07 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/187879) · `ta`
+
+புகலிடக்கோரிக்கையாளர்களை ருவாண்டாவிற்கு அனுப்பும் ரிசிசுனாக் அரசாங்கத்தின் திட்டத்தினை தனது அரசாங்கம் தொடராது என பிரிட்டனின் புதிய பிரதமர் கெய்ர் ஸ்டர்மெர் தெரிவித்துள்ளார்.
+
+ருவாண்டா திட்டம் அது ஆரம்பமாவதற்கு முன்னரே உயிரிழந்து புதைக்கப்பட்டுவிட்டது அது ஒருபோதும்  ஒரு தடுப்பு நடவடிக்கையில்லை என அவர் தெரிவித்துள்ளார்.
+
+குடியேற்றவாசிகள் புகலிடக்கோரிக்கையாளர்களின் வருகையை உண்மையில் கட்டுப்படுத்தா எந்த போலியான நடவடிக்கைகளையும் தொடர்வதற்கு நான் தயாரில்லை என அவர் தெரிவித்துள்ளார்.ருவாண்டா திட்டத்தினை நாங்கள் உள்வாங்கும் பிரச்சினை என அவர் விபரித்துள்ளார்.ருவாண்டா திட்டம் தோல்வியடையும் என்ற எதிர்பார்ப்பே பரவலாக காணப்பட்டது எனவும் அவர் தெரிவித்துள்ளார்.
+
+ருவாண்டா  திட்டம் மனித உரிமை அடிப்படையில் சட்டவிரோதமானது என பிரிட்டனின் உயர் நீதிமன்றம் தெரிவித்திருந்த போதிலும் ரிசிசுனாக் அரசாங்கத்தின் அரசாங்கம் நாடாளுமன்றத்தில் அகதிகள் குடியேற்றவாசிகளை ருவாண்டாவிற்கு அனுப்பும் சட்டமொன்றை நிறைவேற்றியிருந்தது.
+
+...
+
+[Data](articles/ab835bc7.json)
+
+---
+
+### වර්ජනයට අපි නෑ
+
+*2024-07-07 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198562) · `si`
+
+හෙට සහ අනිද්දා ක්‍රියාත්මක කිරීමට නියමිත රාජ්‍ය සේවක වෘත්තීය සමිති ක්‍රියාමාර්ගය සඳහා සමස්ත ලංකා හෙද සංගමය සහභාගී නොවන බව ඔවුන් ප්‍රකාශ කරයි.
+
+එහි ප්‍රධාන ලේකම් එස්. බී. මැදිවත්ත මහතා ප්‍රකාශ කර ඇත්තේ වැඩවර්ජන කිරීම හරහා සිදුවෙන්නේ රෝගීන් ජනතාවද අපහසුතාවට පත්වීම බවයි.
+
+ප්‍රශ්න ගැටලු සෞඛ්‍ය ක්ෂේත්‍රයේ තිබ්බත් මෙය වැඩවර්ජන සඳහා අවස්ථාවක් නොවන බවත් ආණ්ඩුව පළවා හැරීමට ලැබෙන ප්‍රථම අවස්ථාවේම ජනතාව සමඟ එය සිදුකරන බවත් ඔහු කියා සිටියේය.
+
+◼️
+
+[Data](articles/c513d243.json)
+
+---
+
+### வழி தவறிய பயணம்
+
+*2024-07-07 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187872) · `ta`
+
+இலங்கையின் தேசியத் தலைவராக சம்பந்தனை ஆக்கியதன் மூலம் அவரை தமிழ் மக்களின் தலைவர் என்ற நிலையில் இருந்து கீழிறக்கும் வேலையை கனகச்சிதமாக செய்து முடித்திருக்கிறார்கள் சிங்கள ஆட்சித் தலைவர்கள்....
+
+◼️
+
+[Data](articles/69565d8e.json)
+
+---
+
+### கதிர்காமம் எசல பெரஹெரவில் குழம்பிய யானை
+
+*2024-07-07 10:18:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கதிர்காமம்-எசல-பெரஹெரவில்-குழம்பிய-யானை/175-339962) · `ta`
+
+கதிர்காமம் எசல பெரஹெர உற்சவத்தின் முதல் நாள் உற்சவம் நேற்று நடைபெற்றது. இதில்  பெரஹெர ஊர்வலத்தில் பங்குபற்றிய யானை ஒன்று குழம்பியுள்ளது.
+
+இதையடுத்து, பெரஹெர உற்சவத்தில் ஏற்பட்ட பதற்றத்தில் 13 பேர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+வைத்தியசாலையில் அனுமதிக்கப்பட்டவர்களுக்கு பாரதூரமான பாதிப்புக்கள் இல்லை என வைத்தியசாலை தகவல்கள் தெரிவிக்கின்றன. R
+
+◼️
+
+[Data](articles/48b9ecd5.json)
+
+---
 
 ### Man murders wife over family dispute
 
@@ -45,6 +127,8 @@ The 34-year-old suspect who committed the murder has been arrested and the Jaffn
 ◼️
 
 [Data](articles/5babd787.json)
+
+[Extended Data](ext_articles/5babd787.ext.json)
 
 ---
 
@@ -156,25 +240,35 @@ The injured have been admitted to the Kataragama hospital and there is no inform
 
 ---
 
-### ණය ප්‍රතිව්‍යුහගතකරණයෙන් ඩොලර් බිලියන 08ක සහනයක්
+### Relief of $ 8 billion from restructuring of debt
 
 *2024-07-07 09:27:51* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගතකරණයෙන්-ඩොලර්-බිලියන-08ක-සහනයක්/11-410634) · `si`
 
-ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලිය යටතේ ඩොලර් බිලියන 08ක සහනයක් ලබා ගැනීමට හැකි වුණා
+In a speech at the North Western Amazing Hospital, President Ranil Wickremesinghe announced a $8 billion debt relief achieved through restructuring, including $5 billion from bilateral creditors and $3 billion from commercial creditors. He highlighted the government's efforts to address economic challenges, including providing free land ownership to farmers in the Kurunegala district through the Heritage Program, and reducing the debt repayment period with lower interest rates. The President emphasized the importance of accurate economic management and the government's commitment to solving the people's problems.
 
-මම ආණ්ඩුව භාර ගත්තේ ආණ්ඩුව භාර ගැනීමට නායකයන් සොයාගත නොහැකි වූ කාලයකයි.
+🟩
 
-රට බංකොලොත්භාවයෙන් මුදාගත් ආණ්ඩුව දැන් ජනතාවගේ ප්‍රශ්නවලට විසඳුම් ලබාදීම ආරම්භ කර තිබෙනවා.
+The loan was able to obtain relief $ 8 billion under the restructuring process
 
-ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලියට අදාළව ද්විපාර්ශ්වික ණය හිමියන් වෙතින් ඩොලර් බිලියන 05ක ණය පොලී සහනයක් සහ වාණිජ ණය හිමියන් එකඟ වී ඇති ආකාරයට ඩොලර් බිලියන 03ක ණය කපා හැරීමක් සිදුවන බවත් ඒ අනුව ගෙවීමට තිබූ ණය ප්‍රමාණයෙන් ඩොලර් බිලියන 08ක සහනයක් රටේ ජනතාවට ලබාදීමට හැකි වී තිබෙන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+I took over by the government during a time when leaders could not find the government.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ “උරුමය” ජාතික වැඩසටහන යටතේ කුරුණෑගල දිස්ත්‍රික්කයේ සුදුසුකම්ලාභීන් 73,143ක් අතුරින් පුද්ගලයන් 463ක් වෙනුවෙන් සංකේතාත්මකව ඔප්පු ප්‍රදානය කිරීම වෙනුවෙන් කුරුණෑගල වයඹ පළාත් ශ්‍රවණාගාරයේ පැවති උත්සවය අමතමිනි.
+The government who liberated the country is now setting solutions to the problems of the people.
 
-මෙහිදි අදහස් දැක්වූ ජනාධිපතිවරයා වැඩිදුරටත් සඳහන් කළේ ඇතැමුන් සමාජවාදය ගැන කථා කළද, නියම සමාජවාදය ජනතාවට සින්නක්කර ඉඩම් අයිතිය ලබාදීම බවයි.
+Bilateral creditors have agreed $ 5 billion as a loan and commercial creditors of bilateral creditors of the debt restructuring process.He said.
+
+The President was addressing the event at the North Western Amazing Hospital for 463 people in Kurunegala district.
+
+The President said that some people spoke of socialism, but the true socialism gives free land ownership to the people.
+
+The President also pointed out that the government who liberated the country is now resolved to solve the problems of the people.
+
+The President said that the President has taken over the economic crisis due to accurate economic management, the country is over the economic crisis in the economic crisis..
 
 ...
 
 [Data](articles/18f2f1d0.json)
+
+[Extended Data](ext_articles/18f2f1d0.ext.json)
 
 ---
 
@@ -2171,121 +2265,5 @@ He promised during the election campaign that Iran would maintain unity in Iran.
 [Data](articles/230bc71e.json)
 
 [Extended Data](ext_articles/230bc71e.ext.json)
-
----
-
-### Comfort in the Palestinian people
-
-*2024-07-06 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198529) · `si`
-
-Israeli PM Netanyahu plans talks for a ceasefire with Hamas, but no agreement yet. Hamas positively responds to a US-proposed ceasefire plan. President Biden to meet Netanyahu in Washington soon.
-
-🟩
-
-Israeli Prime Minister Benjamin Netanyahuu says that it will be launched to talk to the ceasefire of the Hamas war.
-
-The two parties have not yet agreed on a covenant for the release of a ceasefire and hostage.
-
-The Hamas has said that the US plan has been proposed to a ceasefire and the amendment has become a positive response.
-
-US president Joe Biden is about to meet the Israeli Prime Minister in Washington this month, the White House announced.
-
-◼️
-
-[Data](articles/ac008cdc.json)
-
-[Extended Data](ext_articles/ac008cdc.ext.json)
-
----
-
-### Missing woman recovered in a dilapidated well
-
-*2024-07-06 08:51:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/காணாமல்-போன-பெண்-பாழடைந்த-கிணற்றுக்குள்-சடலமாக-மீட்பு/75-339937) · `ta`
-
-A 25-year-old woman, Nadeskumar Vinodhini, missing since July 1, was found dead in a well in the Muttur police division. The recovery was made in the presence of a judge and a sudden death officer. Her husband and the boy she was engaged to are believed to be in hiding, possibly abroad. The magistrate has issued warrants for the arrest of several individuals involved in the incident.
-
-🟩
-
-The body and her handbag of Nadeskumar Vinodhini, a 25 -year -old woman, who had been reported missing from a dilapidated well in the Muttur police division, was recovered by police yesterday (5).
-
-The body of the woman was recovered yesterday (05) in the presence of Muttur Court Judge HM Dasneem Fausan and Sudden Death Officer.
-
-Nadeskumar Vinodhini, a mother of a child, who was married to a child from the Thanganagar area of ​​the Saruwila police division, was lodged at the Muttur police station on July 1 at the Muttur police station.
-
-The girl's boyfriend is currently in hiding. It is said that he may have fled abroad. At the same time, his family is also known to be hiding.
-
-The Muttur Magistrate has ordered the arrest of the land owner in the well where the body is currently found, the driver of the heavy driver who helped to cover the body of the well, and the man who closed it in the well. Remble
-
-◼️
-
-[Data](articles/421fc2b0.json)
-
-[Extended Data](ext_articles/421fc2b0.ext.json)
-
----
-
-### Showers expected in several provinces and districts
-
-*2024-07-06 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100325/showers-expected-in-several-provinces-and-districts) · `en`
-
-The Meteorology Department says showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Showers or thundershowers will occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night.
-
-Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/82cc094f.json)
-
-[Extended Data](ext_articles/82cc094f.ext.json)
-
----
-
-### France is changing Ronaldo
-
-*2024-07-06 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198528) · `si`
-
-France and Spain qualified for the Euro semis, but France didn't score against Portugal in their group stage matches. This was Ronaldo's last European Cup.
-
-🟩
-
-Spain and France managed to qualify for the semi-finals of the European football tournament.
-
-Meanwhile, both groups failed to record the goals during the due time of France and Portugal.
-
-The competition is considered to be the last European Cup match of Luxhika Cristiano Ronaldo.
-
-◼️
-
-[Data](articles/716f8c14.json)
-
-[Extended Data](ext_articles/716f8c14.ext.json)
-
----
-
-### Today is the occasional rainfall
-
-*2024-07-06 08:04:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அவ்வப்போது-மழை-பெய்யும்/175-339936) · `ta`
-
-Heavy rain expected in Western, Sabaragamuwa, North Western Provinces, and districts including Kandy, Nuwara Eliya, Galle, Matara. Rainfall possible in Uva Province, Ampara, Batticaloa districts evenings/nights. Strong winds up to 40-50km/h in Central Highlands' western slopes, Northern, North Central, North Western Provinces, Trincomalee, Hambantota, Moneragala districts. Thundershowers forecasted in upcoming areas; public urged to prepare for potential lightning strikes.
-
-🟩
-
-Heavy rains are expected in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
-
-In the Uva Province, Ampara and Batticaloa districts, there is a possibility of rainfall or thundershowers in the evening or at night.
-
-Strong winds are likely to blow up to 40-50 km / h from time to time in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces and Trincomalee, Hambantota and Moneragala districts.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/9c652c29.json)
-
-[Extended Data](ext_articles/9c652c29.ext.json)
 
 ---

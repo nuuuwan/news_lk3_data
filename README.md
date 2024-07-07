@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 09:06:58**
+As of **2024-07-07 08:54:19**
 
 ## Newspaper Stats
 
-*Scraped **34,004** Articles*
+*Scraped **34,000** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,77 +16,21 @@ islandlk | 1,914
 economynextcom | 2,003
 dailyftlk | 2,115
 adalk | 3,031
-adaderanalk | 3,891
-tamilmirrorlk | 4,028
+adaderanalk | 3,890
+tamilmirrorlk | 4,027
 dailymirrorlk | 4,733
 virakesarilk | 5,323
-adaderanasinhalalk | 5,649
+adaderanasinhalalk | 5,647
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,000 (100.0%) of 34,004 articles have been extended.
+34,000 (100.0%) of 34,000 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
-
-### ගාසා තීරයේ පාසලකට එල්ල වූ ගුවන් ප්‍රහාරයකින් 16ක් මරුට
-
-*2024-07-07 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198559) · `si`
-
-ගාසා තීරයේ පාසලකට එල්ල වූ ගුවන් ප්‍රහාරයකින් පුද්ගලයින් 16 දෙනෙකු මියගොස් තිබේ.
-
-එම ප්‍රහාරයෙන් විශාල පිරිසක් තුවාල ලබා ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-සරණාගත කඳවුරක් පිහිටි පාසලක් ඉලක්ක කර ගනිමින් එම ප්‍රහාරය එල්ල වී ඇති බව සඳහන්ය.
-
-එම පාසල තුළ පුද්ගලයින් 7,000ක් පමණ රැඳී සිට ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-කෙසේවෙතත් එම චෝදනා ප්‍රතික්ෂේප කරන ඊශ්‍රායල ආරක්ෂක අංශ පවසන්නේ ත්‍රස්තවාදී ක්‍රියාකාරකම් වැඩි වශයෙන් පවතින ප්‍රදේශයක් වෙත එම ගුවන් ප්‍රහාරය එල්ල කර ඇති බවය.
-
-◼️
-
-[Data](articles/a5ca4b7e.json)
-
----
-
-### Dr. Bellana warns of political conspiracy to undermine health sector
-
-*2024-07-07 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100339/dr-bellana-warns-of-political-conspiracy-to-undermine-health-sector) · `en`
-
-Dr. Rukshan Bellana has warned of a potential political conspiracy to undermine the country’s health sector in the future.
-
-He indicated that certain groups are attempting to recruit economically disadvantaged employees to support this agenda.
-
-Dr. Bellana made these remarks at the inauguration ceremony of the National Union of Healthcare Workers (NUHW) held at the United National Party (UNP) Headquarters, Sirikotha.
-
-Meanwhile, the General Secretary of the Joint Health Services Union, Ven. Tampitiye Sugathananda Thero, has announced that hospital junior staff will go on strike the day after tomorrow (9) to base on several demands.
-
-◼️
-
-[Data](articles/04abf3f8.json)
-
----
-
-### එංගලන්තය සහ නෙදර්ලන්තය අවසන් පූර්ව වටයට
-
-*2024-07-07 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198558) · `si`
-
-2024 යුරෝපීය කුසලාන පාපන්දු තරගාවලියේ අවසන් පූර්ව වටයට සුදුසුකම් ලැබීම සඳහා එංගලන්තය සහ නෙදර්ලන්තය සමත්විය.
-
-එහි නියමිත කාලය නිමාවන විට කණ්ඩායම් දෙකම ගෝල 1 බැගින් ලබා සිටියේය.
-
-එහිදී දඬුවම් පහර 5ට 3ක් ලෙස තරගය ජයගැනීමට එංගලන්ත කණ්ඩායම සමත්විය.
-
-ඒ අනුව එංගලන්තය සහ නෙදර්ලන්තය අතර අවසන් පූර්ව තරගය බදාදා පැවැත්වෙයි.
-
-◼️
-
-[Data](articles/de256927.json)
-
----
 
 ### 14 killed in Minibus accident
 
@@ -375,24 +319,6 @@ In fact, polls after the debate found that 72% of all voters did not want Biden 
 [Data](articles/0ee4dc1e.json)
 
 [Extended Data](ext_articles/0ee4dc1e.ext.json)
-
----
-
-### ’புதிய கல்வி முறையினை அறிமுகப்படுத்தப்படும்’
-
-*2024-07-07 01:35:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-கல்வி-முறையினை-அறிமுகப்படுத்தப்படும்/175-339961) · `ta`
-
-புதிய பொருளாதாரத்துடன் நாட்டை முன்னோக்கி கொண்டு செல்வதற்கு, நவீன தொழில்நுட்பத்துடன் கூடிய மேம்பட்ட கல்வி முறையும் அவசியமானது எனவும் அதற்கான கல்விச் சீர்திருத்தங்கள் தற்போது நாட்டில் முன்னெடுக்கப்பட்டு வருகின்றன என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
-
-காலி – ஹால் டி கோல் ஹோட்டலில் நேற்று நடைபெற்ற கல்வி நவீனமயமாக்கலின் புதிய அத்தியாயமாக தென் மாகாணத்தின் 200 பாடசாலைகளுக்கு 2,000 நவீன வகுப்பறைகள் மற்றும் 2,000 டெப் கணனிகள் வழங்கும் நிகழ்வில் கலந்து கொண்டு உரையாற்றும்போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
-
-சுகாதார மற்றும் கைத்தொழில் அமைச்சர் வைத்திர் ரமேஷ் பத்திரன இந்திய அரசாங்கத்திடம் விடுத்த கோரிக்கைக்கு அமைய தென் மாகாண சபைக்கு கிடைத்த 3,000 லட்சம் ரூபாய் (30 கோடி) நிதி ஒதுக்கீட்டின் கீழ் இத்திட்டம் நடைமுறைப்படுத்தப்பட்டது.
-
-இத்திட்டத்திற்காகத் தெரிவு செய்யப்பட்ட 200 பாடசாலைகளில் 150 பாடசாலைகள் காலி மாவட்டத்திலும் ஏனைய 50 பாடசாலைகள் ஹம்பாந்தோட்டை மற்றும் மாத்தறை மாவட்டங்களிலும் அமைந்துள்ளன.
-
-...
-
-[Data](articles/f7bd215f.json)
 
 ---
 
@@ -2261,5 +2187,99 @@ We have now completed a discussion with private credit providers and business cr
 [Data](articles/5a24d96f.json)
 
 [Extended Data](ext_articles/5a24d96f.ext.json)
+
+---
+
+### The second day of the third phase of the Human Paradise Excavation work took place
+
+*2024-07-06 01:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/187793) · `ta`
+
+On the second day of the third phase of the Mullaitivu Kokkuttuwai Human Paradise Excavation, authorities including a judge, archaeologists, legal officers, human rights lawyers, and security forces participated. They uncovered human remains near the Kokkilai Mullaitivu main road. Green clothing was found, suggesting further discoveries might come from the ongoing excavation.
+
+🟩
+
+The second day of the third phase of the Mullaitivu Kokkuttuwai Human Paradise Excavation work took place on Friday (5).
+
+Mullaitivu District Court Judge Dharmalingam Pradeepan, Archaeological Senior Professor Raj Somadeva, Mullaitivu District Legal Officer K Vasudeva, Archeology DepartmentAuthorities, human rights lawyers Ranitha Gnanarasa, VK Nanganjan, and the police and Special Task Force were also present.
+
+A certain part of the Kokkilai Mullaitivu main road has been excavated and there are human remains under it.
+
+During today's excavation, green clothes were visible.. It is believed that push trunks will be fully taken during the day's pervasive. The third day of excavation will be held tomorrow morning.
+
+It is worth noting that the third phase of excavations began on Thursday (04) and the second day on Friday (5).
+
+◼️
+
+[Data](articles/57271619.json)
+
+[Extended Data](ext_articles/57271619.ext.json)
+
+---
+
+### University non -academic staff should return to work without disrupting the lives of youth - Dr. Suren Raghavan
+
+*2024-07-06 01:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187792) · `ta`
+
+Dr. Suren Raghavan, the Higher Education Minister, urges non-academic university staff to resume work, ensuring minimal disruption to students' futures. He promises additional pay and time off, prioritizing their demands for inclusion in the 2025 budget. This comes after a 65-day boycott affecting over 14,600 staff across 36 educational institutions, impacting 250,000 students. The minister emphasizes the importance of education and the need for universities to support, rather than hinder, student development.
+
+🟩
+
+Higher Education Minister Dr. Suren Raghavan said he would ask for the non -academic staff of all universities to contribute to the duty of the youth who would be responsible for the future of the country.
+
+The Minister of State has promised to provide additional payments for the two -month salary of university non -academic staff and additional time for April, prioritize their demands and submit them to the Udaya Seneviratne Committee and cover the 2025 budget.
+
+Minister of Higher Education Suren Raghavan made this statement at a media briefing held at the Presidential Media Center on Friday.
+
+Over 14,600 non -academic staff of 17 universities and 19 united degree institutions in the country have been involved in the 65 -day boycott of the entire higher education sector.. The tragic reflection of the country's future is to disrupt the lives of 250,000 youths and waste their time.
+
+...
+
+[Data](articles/6e7c0ca4.json)
+
+[Extended Data](ext_articles/6e7c0ca4.ext.json)
+
+---
+
+### The government's democratic violations cannot continue - Professor GL Peiris
+
+*2024-07-06 01:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187791) · `ta`
+
+Professor GL Peiris criticizes the government for delaying provincial and local government elections, calling it a violation of democracy. He mentions a petition filed by the United People's Power against these delays, highlighting the impact on the people's right to vote. Despite a court order against the Treasury Secretary regarding the delay, it wasn't enforced. The situation is seen as undemocratic, with concerns over human rights violations if the presidential election isn't held promptly. The case will be heard by a five-judge panel, emphasizing the importance of upholding citizens' rights under the constitution. The government's use of funds for election activities instead of development projects is also criticized, along with allegations of the ruling party abusing its majority and governors acting on party lines rather than representing the people.
+
+🟩
+
+In this case, the provincial council and the local government elections have already been delayed and the people have been violated as a nuclear atom.. Professor GL Peiris said that the United People's Power has attacked a petition in a manner that does not accommodate such democratic violations.
+
+He further stated at a press conference held at the Opposition Leader's Office in Colombo on Friday (5).
+
+Over the past few years, people's vote has been violated as a nuclear atom. In this case, the petition has been filed demanding that the presidential election be held.. Although a court order was filed against the Treasury Secretary, seeking a court on the delay in the local government election period, but they were not implemented.
+
+...
+
+[Data](articles/025bc62b.json)
+
+[Extended Data](ext_articles/025bc62b.ext.json)
+
+---
+
+### In the current situation, the best choice is to distrust the presidential election - CV Wigneswaran
+
+*2024-07-06 01:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/187790) · `ta`
+
+CV Wigneswaran, a TNA parliamentarian, suggests distrusting the upcoming presidential election due to economic recovery concerns and potential instability. He supports a petition in the Supreme Court to delay the election, arguing that holding it now could lead to no clear winner and further destabilize the country's economy. Wigneswaran emphasizes the importance of prioritizing national welfare, economic stability, and public safety over adhering strictly to democratic processes under current circumstances.
+
+🟩
+
+The Tamil People's National Alliance parliamentarian CV Wigneswaran said that as the country's economy is gradually recovering, it should not be re -adopted to ensure that the presidential election will be the best decision to regain the presidential election.
+
+A fundamental violation petition has been filed in the Supreme Court by businessman CD Lnava seeking to prevent the presidential election as being planned until the presidential election is being issued on the day of the presidential election.
+
+In the wake of the opposition of various parties, CV Wigneswaran, a Member of Parliament of the Tamil People's National Alliance (TNA), one of the Tamil National Alliance (TNA), said that it would be beneficial to the country if the High Court ruled that the presidential election would be retaliated.
+
+...
+
+[Data](articles/543e00a4.json)
+
+[Extended Data](ext_articles/543e00a4.ext.json)
 
 ---

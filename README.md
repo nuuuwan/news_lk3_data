@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 04:35:04**
+As of **2024-07-08 04:53:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,139 (100.0%) of 34,141 articles have been extended.
+34,141 (100.0%) of 34,141 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -158,17 +158,25 @@ The private residence at Gower Street Colombo that won for Best Residential Inte
 
 ---
 
-### திருமலையில் அக்கினியுடன் சங்கமித்தது சம்பந்தனின் பூதவுடல்: உணர்வெழுச்சியுடன் பிரியாவிடை; ஜனாதிபதி ரணில், பா.ஜ.க.தலைவர் அண்ணாமலை உட்பட பல்வேறு தரப்பினரும் பங்கேற்பு
+### Sampanthan's funeral with fire in Tirumalai:Various parties including President Ranil, BJP leader Annamalai
 
 *2024-07-08 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/187934) · `ta`
 
-இலங்கைத் தமிழரசுக் கட்சியின் சிரேஷ்ட தலைவரும், திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இராஜவரோதயம் சம்பந்தனின் பூதவுடல் ஜனாதிபதி ரணில் விக்கிரமசிங்க, பா.ஜ.க.தலைவர் அண்ணாமலை உட்பட ஆயிரக்கணக்கானவர்களின் பங்கேற்புடன் உணர்வெழுச்சியுடன் இறுதிமரியாதை அளிக்கப்பட்டு அக்கினியுடன் சங்கமித்தது.
+Rajavarothayam Sambandan, a prominent figure from the Tamil National Alliance, was honored at his funeral, attended by thousands, including President Ranil Wickremesinghe and BJP leader Annamalai. The ceremony began at 10 am and concluded around 1 pm, followed by a procession through various roads, ending at the Hindu cemetery. A notable aspect was the setting of fire by Sambandan's eldest son, marking the end of the funeral rites.
 
-கடந்த ஞாயிற்றுக்கிழமை தனது 91வயதில் இயற்கை எய்திய இராஜவரோதயம் சம்பந்தனின் இறுதி சமயக்கிரியைகள், இலக்கம் 115, அஞ்சல் நிலைய வீதியிலுள்ள அன்னாரின் இல்லத்தில் நேற்றுக்காலை 10 மணிக்கு ஆரம்பமாகி பிற்பகல் ஒரு மணியளவில் நிறைவு பெற்றன.
+🟩
+
+The Senior Leader of the Tamil National Alliance (TNA) and the Trincomalee district parliamentarian Rajavarothayam Sambandan, with the participation of thousands of people, including President Ranil Wickremesinghe and BJP leader Annamalai, were felicitated.
+
+At the age of 91 at the age of 91, Natural Aidan Rajavarodaya Sampanthan started at 10 am at the Annar's residence on No. 115, at 10 am and completed around 1 pm.
+
+Then at two o'clock in the afternoon. President Ranil Wickremesinghe, President of Opposition Leader Lakshman Kiriella, Bharatiya Janata Party (BJP) state president K. Annamalai, Indian High Commissioner to Sri Lanka Santosh Jha, Muslim Congress leader Rauf Hakeem MP, Tamil Progressive Alliance leader Manohanesan MPArun Thambimuthu, President of the Liberation Tigers of Tamil Eelam (LTTE). The tribute speeches were completed at 3.30 pm and the funeral went on.
 
 ...
 
 [Data](articles/e3209000.json)
+
+[Extended Data](ext_articles/e3209000.ext.json)
 
 ---
 
@@ -272,23 +280,37 @@ The Minister is also scheduled to take part in the Reuters NEXT Asia-Pacific Sum
 
 ---
 
-### கலம்போ ஸ்ட்ரைக்கர்ஸை வீழ்த்தி முதலாவது வெற்றியை சுவைத்தது தம்புள்ள சிக்சர்ஸ்
+### Dambulla Sixers tasted the first victory by beating Kalambo Strikers
 
 *2024-07-08 01:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/187933) · `ta`
 
-ரங்கிரி, தம்புள்ள சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் இன்று ஞாயிற்றுக்கிழமை (07) நடைபெற்ற 5ஆவது லங்கா பிறீமியர் லீக் அத்தியாயத்தின் 10ஆவது போட்டியில் கலம்போ ஸ்ட்ரைக்கர்ஸ் அணியை எதிர்த்தாடிய தம்புள்ள சிக்சர்ஸ் அணி 8 விக்கெட்களால் அமோக வெற்றியீட்டியது.
+Dambulla Sixers secured their first win in the Lanka Premier League against Kalambo Strikers, achieving an 8-wicket victory in the 10th match. Key performers included Risa Hendrix and Kusal Perera, who contributed significantly with their batting. Despite losing early wickets, the team managed to chase down the target of 185 runs set by Kalambo Strikers, who had earlier posted a strong total thanks to contributions from Rahmanullah Gurbaz, Angelo Perera, and Glen Phillips.
 
-இந்த வருட லங்கா பிறீமியர் லீக் கிரிக்கெட்டில் தம்புள்ள சிக்சர்ஸ் ஈட்டிய முதலாவது வெற்றி இதுவாகும். முதல் 3 போட்டிகளில் தோல்வி அடைந்த தம்புள்ள சிக்சர்ஸுக்கு இந்த வெற்றி உற்சாகத்தைக் கொடுத்துள்ளது.
+🟩
 
-குசல் ஜனித் பெரேரா, ரீஸா ஹெண்ட்றிக்ஸ் ஆகியோர் அற்புதமாக துடுப்பெடுத்தாடி அரைச் சதங்கள் குவித்து தம்புள்ள சிக்சர்ஸ் அணியின் வெற்றியில் பெரும் பங்காற்றினர்.
+Dambulla Sixers won by 8 wickets in the 10th match of the 5th Lanka Premier League chapter held at the Dambulla International Cricket Stadium on Sunday (07).
 
-கலம்போ ஸ்ட்ரைக்கர்ஸ் அணியினால் நிர்ணயிக்கப்பட்ட 186 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய தம்புள்ள சிக்சர்ஸ் 17.5 ஓவர்களில் 2 விக்கெட் களை இழந்து 188 ஓட்டங்களைப் பெற்று அமோக வெற்றியீட்டியது.
+This is the first success of Sixers in Sri Lanka Premier League Cricket this year. The victory has been a source of excitement for Dambulla Sixers, who lost the first 3 matches.
 
-ஆரம்ப வீரர்காள ரீஸா ஹெண்ட்றிக்ஸ், குசல் பெரேரா ஆகிய இருவரும் அதிரடியாகத் துடுப்பெடுத்தாடி 88 பந்துகளில் 154 ஓட்டங்களைப் பகிர்ந்து வலுவான ஆரம்பத்தை இட்டுக்கொடுத்தனர்.
+Gusal Janith Perera and Risa Hendrix were a huge role in the victory of the Dambulla Sixers.
+
+Dambulla Sixers lost 2 wickets in 17.5 overs and scored 188 runs.
+
+The opening batsman Risa Hendrix and Kusal Perera were bowled out for 154 runs in 88 balls.
+
+Reisa Hendrix scored 54 off 39 balls, 54 runs with 3 sixes and Kusal Perera scored 80 off 50 balls with 8 pounds and 4 sixes.
+
+Subsequently, Mark Sabman and Lahiru Udhara gave the remaining 33 runs for the victory.
+
+Mark Sabman did not play with 23 runs and Lahiru Kumara 11 runs.
+
+Galambo Strikers, who was first invited to bat in the upting match, scored 185 runs for the loss of 6 wickets in 20 overs.
 
 ...
 
 [Data](articles/efe4f396.json)
+
+[Extended Data](ext_articles/efe4f396.ext.json)
 
 ---
 

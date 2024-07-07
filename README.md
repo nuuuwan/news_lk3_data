@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 01:53:23**
+As of **2024-07-08 02:05:02**
 
 ## Newspaper Stats
 
-*Scraped **34,128** Articles*
+*Scraped **34,129** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 334
 newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,005
-dailyftlk | 2,119
+dailyftlk | 2,120
 adalk | 3,052
 adaderanalk | 3,910
 tamilmirrorlk | 4,053
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,128 (100.0%) of 34,128 articles have been extended.
+34,128 (100.0%) of 34,129 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### Ali Sabry in Singapore on official visit
+
+*2024-07-08 01:49:22* · [`dailyftlk`](https://www.ft.lk/news/Ali-Sabry-in-Singapore-on-official-visit/56-763965) · `en`
+
+Foreign Affairs Minister Ali Sabry is in Singapore on an official visit to Singapore until 9 July on an invitation extended by the Singapore Foreign Affairs Minister Dr. Vivian Balakrishnan.
+
+During the visit, Sabry will engage in bilateral discussions with his Singapore counterpart with a view to strengthening the multifaceted relations between the two countries.
+
+The Minister is also scheduled to take part in the Reuters NEXT Asia-Pacific Summit – 2024 that will take place on 9 July in Singapore.
+
+◼️
+
+[Data](articles/ae5907f7.json)
+
+---
 
 ### Worsening external deficit to improve fiscal deficit: Jumping from frying pan into the fire
 
@@ -2383,23 +2399,5 @@ The suspects are residents of Embilipitiya and the police have revealed that the
 [Data](articles/78fd17a2.json)
 
 [Extended Data](ext_articles/78fd17a2.ext.json)
-
----
-
-### Buddhism that plucks myths - Part 02
-
-*2024-07-07 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/187875) · `ta`
-
-Buddhism's origins in the North and East are now considered myth due to lack of archaeological evidence, challenging its traditional historical accounts.
-
-🟩
-
-“All the areas that have been identified as archaeological areas in the North and East have become the historical myths of Buddhism and the occupation of Buddhism.”
-
-◼️
-
-[Data](articles/8b272349.json)
-
-[Extended Data](ext_articles/8b272349.ext.json)
 
 ---

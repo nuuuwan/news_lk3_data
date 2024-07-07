@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 17:55:41**
+As of **2024-07-07 18:12:37**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,669
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,086 (100.0%) of 34,088 articles have been extended.
+34,088 (100.0%) of 34,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### රුසියාවේ ප්‍රදේශ කිහිපයකට හදිසි තත්ත්වයක්
+### Emergency to several areas of Russia
 
 *2024-07-07 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198579) · `si`
 
-යුක්‍රේන ඩ්‍රෝන ප්‍රහාර හේතුවෙන් රුසියාවේ ප්‍රදේශ කිහිපයකට හදිසි තත්ත්වයක් ප්‍රකාශයට පත්කර තිබේ.
+In response to Ukrainian drone attacks, several regions in Russia have declared emergencies. The Russian security forces have shot down numerous drones, leading to a warehouse fire. Authorities are evacuating residents from high-risk zones.
 
-එරට වොරෝනෙෂ් කලාපය වෙත එල්ල කළ යුක්‍රේන ඩ්‍රෝන ප්‍රහාර හේතුවෙන් මෙම පියවර ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-රුසියානු ආරක්ෂක පද්ධතිය විසින් ඩ්‍රෝන රැසක් බිම හෙළා ඇති අතර ඉන් එක් ප්‍රහාරයක් හේතුවෙන් යුද්ධ උපකරණ ගබඩාවක ගින්නක් ද හටගෙන ඇත.
+A few areas in Russia have been announced due to Ukrainian drones.
 
-මෙම තත්ත්වය තුළ අවදානම් ප්‍රදේශවල සිටින ජනතාව තාවකාලිකව ඉවත් කිරීමට බලධාරීන් කටයුතු කර ඇති බව වාර්තා වේ.
+According to foreign media reports, the arrangements have been taken due to Ukrainian drone strikes on Warronch Zone.
+
+The Russian security system has condemned a number of drones and a fire has erupted in a warehouse.
+
+It is reported that authorities have taken steps to temporarily remove the people in risky areas in this situation.
 
 ◼️
 
 [Data](articles/08c9cbf9.json)
+
+[Extended Data](ext_articles/08c9cbf9.ext.json)
 
 ---
 
@@ -1048,27 +1054,35 @@ In addition, the police have taken steps to appear at the Jaffna Magistrate's Co
 
 ---
 
-### මම හිඟා කන මිනිහෙක් නෙවෙයි,  සිංහල ජාතිය හිඟා කන ජාතියක් නොවෙයි
+### I'm not a man who is a deficient man, but not the Sinhalese nation
 
 *2024-07-07 11:56:25* · [`adalk`](https://www.ada.lk/breaking_news/මම-හිඟා-කන-මිනිහෙක්-නෙවෙයි---සිංහල-ජාතිය-හිඟා-කන-ජාතියක්-නොවෙයි/11-410642) · `si`
 
-රට තුළ නව ආර්ථික ක්‍රමයක් මෙන්ම නව දේශපාලන ක්‍රමයක් ද නිර්මාණය විය යුතුයි
+The text emphasizes the need for Sri Lanka to overhaul its economic and political systems, highlighting the importance of responsible leadership and a focus on exports to boost the economy. It criticizes the current state of affairs, including the banking system's role and the lack of effective political leadership. The presidents discuss the challenges and propose solutions, emphasizing the need for honesty, responsibility, and a shift away from dependency on imports.
 
-වගකීම් භාරගත හැකි මෙන්ම සත්‍ය නොබියව ප්‍රකාශ කළ හැකි දේශපාලන නායකයන් රටට අවශ්‍යයි.
+🟩
 
-සිහින ලෝකවල කටයුතු නොකර රටට අවශ්‍ය වැඩපිළිවෙළ හඳුනාගෙන ඉදිරියට යමු.
+The country needs to create a new economic system as well as a new political system
 
-සිංහල ජාතිය කිසිදා සිඟමන් යැද්දේ නැහැ – අපනයන කේන්ද්‍රීය ආර්ථිකයක් තුළින් මෙරට ආර්ථිකය ඉහළට ඔසවා තබනවා.
+The country needs political leaders who can accept responsibilities and express truth.
 
-එම වැඩපිළිවෙළේදී බැංකු පද්ධතියට පුළුල් වගකීමක් පැවරෙනවා – බැංකුකරුවන්ගේ සංසඳයට එක් වෙමින් ජනපති පවසයි.
+Let us identify and advise the country's program without working in the dream world.
 
-රට තුළ නව ආර්ථිකයක් ගොඩනඟන විට නව දේශපාලන ක්‍රමයක් ද නිර්මාණය විය යුතු බවත්, වගකීම් භාරගෙන කටයුතු කළ හැකි පිරිසක් මෙන්ම නොබියව සත්‍ය ප්‍රකාශ කරන පිරිසක් එම දේශපාලන ක්‍රමවේදය තුළ බිහිවිය යුතු බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+Sinhalese Nation Never Signature - An Export Center is uplifted the economy of the country.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ ජාතික බැංකුකරුවන්ගේ සංගමය විසින් කොළඹ ගාලු මුවදොර හෝටලයේ ඊයේ (05) සංවිධානය කර තිබූ බැංකුකරුවන්ගේ සංසඳයට සහභාගී වෙමිනි.
+The program is a wider responsibility to the banking system - President Mahinda Rajapaksa says
+
+President Ranil Wickremesinghe said that a new political system should be created in the country and a group of people who could take responsibilities and a group of people who are undoubtedly acceptable and a truly proclaiming active act should be created in the political system.
+
+The President was speaking at the bankers 'forum, organized by the National bankers' union yesterday (05).
+
+The President said that he had stated the economic challenge in the country and stated that the country has already presented the country in the country.
 
 ...
 
 [Data](articles/b9dc53ae.json)
+
+[Extended Data](ext_articles/b9dc53ae.ext.json)
 
 ---
 

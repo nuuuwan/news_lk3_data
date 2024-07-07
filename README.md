@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 14:19:37**
+As of **2024-07-07 14:36:08**
 
 ## Newspaper Stats
 
@@ -26,65 +26,85 @@ adaderanasinhalalk | 5,663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,058 (100.0%) of 34,061 articles have been extended.
+34,061 (100.0%) of 34,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### LPL පිටිය පුදුමකළ ආන්දෝලනාත්මක සිද්ධිය
+### The controntal incident that surprised the LPL
 
 *2024-07-07 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198573) · `si`
 
-ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ තරග දෙකක් ඊයේ (06) දඹුල්ලේදී පැවැත්වුණි.
+In a surprising twist during the Lanka Premier League, Colombo Strikers clinched victory over Candy Falcons despite needing just 4 runs off the last three balls. Chamika Karunarathne played a crucial role, defeating Mohammad Karunaratne in the penultimate over, setting up a tense finish. Despite Candy Falcons' valiant effort, Colombo Strikers emerged victorious by two runs.
 
-එම තරගවලින් ජය වාර්තා කරන්නට කලම්බු ස්ට්‍රයිකර්ස් සහ ජැෆ්නා කිංග්ස් කණ්ඩායම් සමත් විය.
+🟩
 
-ඉන් පළමු තරගය පැවැත්වුණේ කැන්ඩි ෆැල්කන්ස් සහ කලම්බු ස්ට්‍රයිකර්ස් කණ්ඩායම් අතර ය.
+Two matches in the Lanka Premier League were held at Dambulla yesterday.
 
-එහිදී පළමුවෙන් පන්දුවට පහරදුන් කලම්බු ස්ට්‍රයිකර්ස් කණ්ඩායම නියමිත පන්දුවාර 20දී කඩුලු 9ක් දැවී ලකුණු 199ක් රැස් කළේය.
+Colombo Strikers and Jarfna Kings were able to report the win.
 
-ලකුණු හඹා යාමට පිටියට පිවිසි කැන්ඩි ෆැල්කන්ස් කණ්ඩායමේ හත්වැනි පන්දුවාරයේදී මොහොමඩ් හරිස් එල්ල කල පහරක් චාමික කරුණාරත්න විශිෂ්ට ලෙස රැක ගත් අතර නමුත් තෙවැනි විසිසුරු තීරණය කළේ එය දැවී යාමක් නොවන බවයි.
+The first match was held between Candy Falcons and Colombo Strikers.
 
-කැන්ඩි ෆැල්කන්ස් කණ්ඩායමට අවසන් පන්දුවාරයේදී ජයග්‍රහණය සඳහා ලකුණු 20ක් අවශ්‍යව තිබූ අතර එහිදි පන්දු 3කට ලකුණූ 16ක් රැස් කරමින් ඇන්ජලෝ මැතිව්ස් කැන්ඩි පිලට ජයග්‍රහණයේ බලාපොරාත්තු රැගෙන ආවේය.
+Batting first, Colombo Strikers scored 199 runs for the loss of 9 wickets in their allotted 20 overs.
 
-ඒ අනුව අවසන් පන්දුවට ජයග්‍රහණය සඳහා ලකුණු 3ක් අවශ්‍යව තිබුණත් එම පන්දුවේදී මැතිව්ස් දුවද්දී දැවීගියේ කලම්බු ස්ට්‍රයිකර්ස් කණ්ඩායමට ලකුණු 2ක තියුණූ ජයක් හිමිකර කර දෙමිනි.
+Chamika Karunarane defeated Mohammic Karunaratne in the seventh evening of Candy Falcation team to chase points.
 
-...
+Candy Falcation team needed 20 runs for winning the final and scored 16 runs off 3 balls.
+
+Accordingly, although 3 runs for the final ball, Mathews ran in the ball, he won the Colombo Strokers in 2 runs.
+
+Meanwhile, the refusal of candy leader Moaru Karunaratne has been rejected by Candy leader Moararatne while the match against the match.
+
+◼️
 
 [Data](articles/13ca247d.json)
 
+[Extended Data](ext_articles/13ca247d.ext.json)
+
 ---
 
-### බ්‍රිතාන්‍යයේ සිටින සරණාගතයින්ට සහනයක්
+### Relieved to the refugees in Britain
 
 *2024-07-07 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198572) · `si`
 
-පසුගිය බ්‍රිතාන්‍ය රජය විසින් ක්‍රියාවට නැංවූ "සරණාගතයින් රුවන්ඩාවට යැවීමේ" වැඩසටහන අත්හිටුවන බව බ්‍රිතාන්‍ය නව අගමැති කියා ස්ටාමර් පවසයි.
+The new British Prime Minister has suspended the refugee deal with Rwanda, reversing the policy announced by the previous government in 2022 to send migrants arriving in the UK to Rwanda. This decision comes shortly after the PM's election victory, signaling a shift in approach towards handling migrant issues.
 
-ඔහු මේ බව පැවසුවේ මැතිවරණය ජය ගැනීමෙන් අනතුරුව සිය ප්‍රතිපත්ති ප්‍රකාශයට පත්කරමිනි.
+🟩
 
-පසුගිය රජය 2022 වසරේදී නිවේදනය කළේ නීත්‍යානුකූල නොවන ලෙස එරටට පැමිණෙන සංක්‍රමණික පිරිස් රුවන්ඩාවට යවන බවයි.
+The British New Prime Minister says that the British new Prime Minister is suspending the "refugees' program to be implemented by the British government to Rwanda.
+
+He was speaking to his policies after winning the election.
+
+The last government has announced the year 2022 that migratory personnel who arrive in the country are not legally sent to Rwanda.
 
 ◼️
 
 [Data](articles/a49b1b54.json)
 
+[Extended Data](ext_articles/a49b1b54.ext.json)
+
 ---
 
-### සුදුවෙන්න ගාන ආලේපන ගැන බය හිතෙන කතාවක්
+### A Vish-to-Day story about whitewake
 
 *2024-07-07 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198571) · `si`
 
-රූපලාවන්‍ය ආලේපන හා විලවුන් සම්බන්ධයෙන් නිසි නියාමනයක් නොමැති වීම හේතුවෙන් ඉදිරියේ දී අවාසනාවන්ත තත්ත්වයන්ට මුහුණ දීමට සිදුවනු ඇති බව ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමය පවසයි.
+Lack of regulation in beauty cosmetics could lead to health issues and possibly deaths, warns the Sri Lanka Public Health Inspectors Association. Chairman Upul Rohana urges immediate action from authorities to prevent potential future tragedies.
 
-එහි සභාපති උපුල් රෝහණ මහතා සඳහන් කළේ ඇතැම් විට ඉදිරියේ දී ඒ හේතුවෙන් මරණ වාර්තා වීමේ හැකියාවක් ද පවතින බවය.
+🟩
 
-කඩිනමින් මේ සම්බන්ධයෙන් බලධාරීන්ගේ අවධානය යොමු විය යුතු බව උපුල් රෝහණ මහතා පවසයි.
+The lack of proper regulation on beauty cosmetics, the Sri Lanka Public Health Inspectors Association says that due to the lack of proper regulation.
+
+Chairman Upul Rohana stated that it is probably the possibility of reporting deaths in the future.
+
+Upul Rohana said that the attention of the authorities should be drawn soon.
 
 ◼️
 
 [Data](articles/1a2641de.json)
+
+[Extended Data](ext_articles/1a2641de.ext.json)
 
 ---
 

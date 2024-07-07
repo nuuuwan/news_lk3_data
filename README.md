@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 12:07:31**
+As of **2024-07-07 12:19:54**
 
 ## Newspaper Stats
 
-*Scraped **34,038** Articles*
+*Scraped **34,040** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 2,004
 dailyftlk | 2,115
 adalk | 3,037
 adaderanalk | 3,899
-tamilmirrorlk | 4,032
+tamilmirrorlk | 4,033
 dailymirrorlk | 4,733
 virakesarilk | 5,331
-adaderanasinhalalk | 5,655
+adaderanasinhalalk | 5,656
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,034 (100.0%) of 34,038 articles have been extended.
+34,034 (100.0%) of 34,040 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### ஆசையாக இருந்தது திருடினேன்
+
+*2024-07-07 11:58:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஆசையாக-இருந்தது-திருடினேன்/71-339972) · `ta`
+
+"மோட்டார் சைக்கிளை பார்க்க ஆசையாக இருந்தது. அதனால் அதனை திருடிச் சென்றேன்" என யாழில் மோட்டார் சைக்கிள் திருட்டு குற்றத்தில் கைதான இளைஞனொருவன் பொலிஸாரிடம் வாக்கு மூலம் அளித்துள்ளான்
+
+இதேவேளை குறித்த சந்தேகநபரிடம் இருந்து ஒரு கிராம் 30 மில்லிகிராம் ஹெரோயின் போதைப்பொருளையும் பொலிஸார் மீட்டுள்ளனர்
+
+கடந்த மாதம் 26ம் திகதி யாழ்ப்பாணம் நீதிவான் நீதிமன்றுக்கு அருகில் மோட்டார் சைக்கிள் திருடப்பட்டதாக யாழ்ப்பாணம் பொலிஸ் நிலையத்தில் முறைப்பாடொன்று பதிவு செய்யப்பட்டது.
+
+சம்பவம் தொடர்பாக விசாரணைகளை மேற்கொண்டதில்  24 வயதான சந்தேகநபரை சாவகச்சேரி பகுதியில் பொலிஸார் கைது செய்தனர்.
+
+சந்தேகநபரிடம் இருந்து திருடப்பட்ட மோட்டார் சைக்கிளும் 01 கிராம் 30 மில்லிகிராம் அளவான ஹெரோயினும் மீட்கப்பட்டது.
+
+யாழ்ப்பாண நீதிவான் நீதிமன்றத்தில் வழக்கொன்றுக்கு வருகை தந்தபோது "வெளியே நின்ற மோட்டார் சைக்கிளை பார்க்க ஆசையாக இருந்தது. அதனால் அதனை திருடிச் சென்றேன்" என  சந்தேக நபர் பொலிஸாரிடம் வாக்குமூலம்  அளித்துள்ளார்.
+
+...
+
+[Data](articles/6fd3de51.json)
+
+---
+
+### දිය වැලකට හසුවූ පිරිසක් බේරා ගැනේ
+
+*2024-07-07 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198566) · `si`
+
+නිලාවේලි මුහුදේ දිය නාමින් සිටි පුද්ගලයින් 06දෙනෙකු දිය වැලකට හසුවී ගසාගෙන යමින් සිටියදී බේරාගෙන තිබේ.
+
+ත්‍රිකුණාමලය පොලිස් ජීවිතාරක්ෂක ඒ්කකයේ හා වෙරළ ආරක්ෂක නිලධාරීන් විසින් එම පිරිස බේරාගත් බව පොලීසිය පවසයි.
+
+ඉන් එක් පුද්ගලයෙකු මූලික ප්‍රතිකාර සඳහා නිලාවේලි රෝහල ට ඇතුළු කර ඇත.
+
+ඊයේ (06) දහවල් කාලයේ එම පිරිස මුහුදේ දියනාමින් සිටින අවස්ථාවේදී මෙම අනතුරට මුහුණ දී තිබුණි.
+
+එලෙස මෙම අනතුරට පත්ව තිබුණේ පිළිමතලාව ප්‍රදේශයේ පදිංචි අවුරුදු 16ත් 28ත් අතර වයස්වල පසුවන පුද්ගලයින් තිදෙනෙක් බව පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/0d4e064b.json)
+
+---
 
 ### Sydney house fire kills three children, police suspect homicide
 
@@ -2213,53 +2255,5 @@ He also said that traffic restrictions will be imposed in the surrounding areas 
 [Data](articles/fd4312f6.json)
 
 [Extended Data](ext_articles/fd4312f6.ext.json)
-
----
-
-### Reformist Pezeshkian wins Iran’s presidential runoff, besting hard-liner Jalili
-
-*2024-07-06 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100332/reformist-pezeshkian-wins-irans-presidential-runoff-besting-hard-liner-jalili) · `en`
-
-Reformist candidate Masoud Pezeshkian won Iran’s runoff presidential election Saturday, besting hard-liner Saeed Jalili by promising to reach out to the West and ease enforcement on the country’s mandatory headscarf law after years of sanctions and protests squeezing the Islamic Republic.
-
-Pezeshkian promised no radical changes to Iran’s Shiite theocracy in his campaign and long has held Supreme Leader Ayatollah Ali Khamenei as the final arbiter of all matters of state in the country. But even Pezeshkian’s modest aims will be challenged by an Iranian government still largely held by hard-liners, the ongoing Israel-Hamas war in the Gaza Strip, and Western fears over Tehran enriching uranium to near-weapons-grade levels.
-
-A vote count offered by authorities put Pezeshkian as the winner with 16.3 million votes to Jalili’s 13.5 million in Friday’s election. Overall, Iran’s Interior Ministry said 30 million people voted in an election held without internationally recognized monitors.
-
-...
-
-[Data](articles/b4006b37.json)
-
-[Extended Data](ext_articles/b4006b37.ext.json)
-
----
-
-### A Sri Lankan Tamil Origin Parliament to be appointed to the British Parliament
-
-*2024-07-06 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198534) · `si`
-
-A Sri Lankan Tamil-origin MP has made history by becoming the first from her community to be elected to the British Parliament. Born in London to refugee parents, she represents the Labour Party. The new UK government includes 11 women, marking significant progress. Angela Rayner, elected in 2015, is now the Deputy Prime Minister, while Rachel Reeves becomes the Chancellor, the first woman in this role. David Lammy, the youngest MP elected in 2000, is appointed Secretary to the Foreign Secretary.
-
-🟩
-
-The first time in British history has been elected to Parliament for the first time in British history.
-
-She was born to parliament representing the Labor Party, she was born as refugees in the civilian civilian and was born in Egyptian London.
-
-Meanwhile, the new cabinet has been declared the new cabinet in Britain.
-
-In the meantime, there are 11 women, which belongs to two women, the first position of the Cabinet.
-
-Accordingly, Angela Rayner, who was elected to Parliament from the Labor in 2015, was appointed as the British Deputy Prime Minister.
-
-Rachel Revensha was the Chanceler post of parliament and she was the first woman appointed as the post.
-
-David Lami, who was elected to be the youngest person who was elected to the British Parliament in 2000, has been appointed as the Secretary to the Foreign Secretary.
-
-◼️
-
-[Data](articles/aab9645a.json)
-
-[Extended Data](ext_articles/aab9645a.ext.json)
 
 ---

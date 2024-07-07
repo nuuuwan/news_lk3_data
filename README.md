@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 20:53:44**
+As of **2024-07-07 21:04:47**
 
 ## Newspaper Stats
 
-*Scraped **34,109** Articles*
+*Scraped **34,110** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,004
 dailyftlk | 2,115
-adalk | 3,050
+adalk | 3,051
 adaderanalk | 3,908
 tamilmirrorlk | 4,049
 dailymirrorlk | 4,733
@@ -26,31 +26,47 @@ adaderanasinhalalk | 5,675
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,108 (100.0%) of 34,109 articles have been extended.
+34,109 (100.0%) of 34,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### කෝණා සමග කුඩු සැඟවූ නෝනලා
+### Kudu hid of powder with musk
 
 *2024-07-07 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198585) · `si`
 
-පොලීසියට ගිනි අවි පෙන්වා පළායෑමේදී වෙඩි ප්‍රහාරයකට ලක්වූ "කෝණා" නැමැත්තාගේ කුලී නිවසේ තිබී රුපියල් ලක්ෂ 50කට අධික වටිනාකමින් යුතු මත්ද්‍රව්‍ය තොගයක් සොයාගැනීමට පොලීසිය අද (09) සමත් විය.
+A drug dealer in Sri Lanka was arrested after a police chase, with his wife also taken into custody. The police found a significant amount of drugs, including cocaine, ice, and Kerala cannabis. The arrest followed a tip-off about the dealer's activities in the Piliyandala area, leading to a special traffic check and a shoot-out where the suspect escaped but was later caught at a hospital.
 
-මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු ලෙස සැලකෙන අතුරුගිරියේ සහන් ධනංජය නොහොත් කෝණා නැමැත්තා කොට්ටාවේ සිට පිළියන්දල ප්‍රදේශයට මත්ද්‍රව්‍ය ප්‍රවාහනය කරන බවට අතුරුගිරිය පොලීසියට තොරතුරක් ලැබී තිබුණේ පසුගිය 4 වනදා රාත්‍රියේදීය.
+🟩
 
-ඒ් අනුව ක්‍රියාත්මක වූ පොලීසිය, පිළියන්දල සිකුරාදා පොළ හන්දියේ දී විශේෂ රථවාහන පරීක්ෂාවක නිරතවිය.
+Police found a large haul of over Rs.
 
-එහිදී පොලිස් අණ මත‍ නතර කළ මෝටර්රථයකින් බැස තිබූ පුද්ගලයෙකු පොලීසියට ගිනි අවියක් දිගුකර ඇති අතර පොලීසිය ඔහුට වෙඩි ප්‍රහාරයක් එල්ල කර තිබුණි.
+The Athurugiriya Police had received information from the 4th to the Piliyandala, a drug dealer, to the Piliyandala area.
 
-පොලිස් වෙඩි ප්‍රහාර මධ්‍යයේම ඔහු පළාගොස් ඇති අතර ඔහුගේ වෙඩිවැදුණු මෝටර් රථය කැස්බෑව ප්‍රදේශයේ දමාගොස් තිබියදී සොයා ගැනුණි.
+The police, which was in accordance with, had a special traffic check at Friday junction.
 
-සැකකරු අත්අඩංගුවට ගැනුණේ පාදයට වෙඩි වැදී  කළුබෝවිල ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබමින් සිටියදීය.
+The police had set a firearm and the police had shot dead.
+
+He had fled in the center of the police shooting, while his shooting car was found in the Kesbewa area.
+
+The suspect was arrested while he was receiving treatment at the Kalubowila Teaching Hospital.
+
+His wife was also arrested along with musar, Polgasowita, Polgasowita, Polgasowita, Deported.
+
+The police were able to find the various drugs including cocaine, ice, Kerala cannabis in over Rs.
+
+The drug dealer was also present at the residence of the drug dealer.
+
+The house has been revealed in the interrogation of the Kuna's wife, a leading drug traffer in Kalubowila, "Kalubowila White Noon '.
+
+AID, the police were arrested today with almost 9 ice drugs.
 
 ...
 
 [Data](articles/4579c812.json)
+
+[Extended Data](ext_articles/4579c812.ext.json)
 
 ---
 
@@ -225,6 +241,30 @@ Sri Lanka Tamil National Alliance (TNA) leader Amara Sampanthan's funeral was pl
 [Data](articles/7d317067.json)
 
 [Extended Data](ext_articles/7d317067.ext.json)
+
+---
+
+### දෙමළ ජනතාවගේ ප්‍රශ්න විසඳීමට කැප වී කටයුතු කරනවා
+
+*2024-07-07 18:30:00* · [`adalk`](https://www.ada.lk/breaking_news/දෙමළ-ජනතාවගේ-ප්‍රශ්න-විසඳීමට-කැප-වී-කටයුතු-කරනවා/11-410652) · `si`
+
+ආර්. සම්බන්ධන් මහතා සහ මා සෑමවිටම නොබෙදුනු ශ්‍රී ලංකාවක් වෙනුවෙන් පෙනී සිටියා
+
+එකඟත්වයෙන් ඉදිරියට ගෙන ආ එම සාකච්ඡා සාර්ථකව අවසන් කිරීමට සියලුදෙනා එක් වෙමු.
+
+විපක්ෂ නායකයෙකු යනු විකල්ප අගමැතිවරයායි – ආර්. සම්බන්ධන් මහතා විපක්ෂ නායක භූමිකාව මැනවින් ඉටු කළ නායකයෙක්.
+
+ජාතික ඉඩම් කොමිසමේ කෙටුම්පත මේ වන විට සූදානම් – එය පාර්ලිමේන්තුවට ඉදිරිපත් කරනවා.
+
+කවුරු අධිකරණය හමුවට ගියද මෙම වසරේදී ජනාධිපතිවරණය පවත්වනවා – ආර්. සම්බන්ධන් මහතාගේ අවමංගල්‍ය උත්සවයට එක් වෙමින් ජනපති පවසයි.
+
+අභාවප්‍රාප්ත ආර්. සම්බන්ධන් මහතා ද්‍රවිඩ ජනතාවගේ අයිතිවාසිකම් වෙනුවෙන් පමණක් නොව සමස්ත ශ්‍රී ලාංකික ජනතාවගේ අයිතිවාසිකම් වෙනුවෙන් පෙනී සිටි නායකයෙක් බවත්, සම්බන්ධන් මහතා සහ තමා නිරතුරුවම නොබෙදුනු ශ්‍රී ලංකාවක් වෙනුවෙන් කැප වූ බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ආර්. සම්බන්ධන් මහතා සමඟ එකඟත්වයෙන් යුතුව ඉදිරියට ගෙන ආ එම සාකච්ඡා සාර්ථකව අවසන් කිරීමට සියලුදෙනා එක්විය යුතු බව ද ජනාධිපතිවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/d6bb3be1.json)
 
 ---
 
@@ -2327,31 +2367,5 @@ The President said that the President has taken over the economic crisis due to 
 [Data](articles/18f2f1d0.json)
 
 [Extended Data](ext_articles/18f2f1d0.ext.json)
-
----
-
-### Israeli air strike on Gaza school kills at least 16
-
-*2024-07-07 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100341/israeli-air-strike-on-gaza-school-kills-at-least-16) · `en`
-
-At least 16 people have been killed in an Israeli air strike on a school in the Gaza Strip, Palestinian officials have said. Dozens more have been injured.
-
-The building was sheltering thousands of displaced people at Nuseirat refugee camp in central Gaza, according to the Hamas-run health ministry.
-
-The Israel Defence Force (IDF) said it struck several “terrorists operating in structures located in the area of Al-Jaouni School”.
-
-Meanwhile, there have been reports that 10 people were killed in a separate airstrike on a house at the camp.
-
-Video from the scene of the Nuseirat school strike shows adults and children screaming in a smoke-filled street covered in dust and rubble, as they run to help the wounded.
-
-Eyewitnesses told the BBC that the attack targeted the upper floors of the school, which is located near a busy market.
-
-The BBC understands that up to 7,000 people were using the building as shelter.
-
-...
-
-[Data](articles/cac91cab.json)
-
-[Extended Data](ext_articles/cac91cab.ext.json)
 
 ---

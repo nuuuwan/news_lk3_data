@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 08:54:19**
+As of **2024-07-07 09:19:49**
 
 ## Newspaper Stats
 
-*Scraped **34,000** Articles*
+*Scraped **34,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,105 @@ islandlk | 1,914
 economynextcom | 2,003
 dailyftlk | 2,115
 adalk | 3,031
-adaderanalk | 3,890
-tamilmirrorlk | 4,027
+adaderanalk | 3,892
+tamilmirrorlk | 4,028
 dailymirrorlk | 4,733
 virakesarilk | 5,323
-adaderanasinhalalk | 5,647
+adaderanasinhalalk | 5,649
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,000 (100.0%) of 34,000 articles have been extended.
+34,004 (100.0%) of 34,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### Oil truck collides with minibus in western Ukraine, 14 dead
+
+*2024-07-07 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100340/oil-truck-collides-with-minibus-in-western-ukraine-14-dead) · `en`
+
+An oil truck collided with a minibus on Saturday in western Ukraine, killing 14 people, including a six-year-old child, and leaving a single survivor, Emergency Services said.
+
+The report, on the Telegram messaging app, was accompanied by pictures of an overturned vehicle in a cornfield in Rivne region. It said the survivor was in serious condition and being treated for her injuries.
+
+◼️
+
+[Data](articles/d16b6c7b.json)
+
+---
+
+### 16 killed in anger at Gaza
+
+*2024-07-07 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198559) · `si`
+
+In Gaza, an airstrike on a school killed 16, injuring many more. The school, housing around 7,000 refugees, was reportedly targeted. Israel denies accusations, claiming the strikes aimed at areas linked to terrorism.
+
+🟩
+
+16 people were killed in an air strike on a school in Gaza.
+
+A large number of injured in the attack was injured in foreign media.
+
+It is said that the attack was targeted at a school located in a refugee camp.
+
+According to foreign media reports, about 7,000 people have been staying in the school.
+
+However, the Israeli security forces that reject the allegations say that the air strikes have been launched to an area where terrorist activities have been exposed.
+
+◼️
+
+[Data](articles/a5ca4b7e.json)
+
+[Extended Data](ext_articles/a5ca4b7e.ext.json)
+
+---
+
+### Dr. Bellana warns of political conspiracy to undermine health sector
+
+*2024-07-07 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100339/dr-bellana-warns-of-political-conspiracy-to-undermine-health-sector) · `en`
+
+Dr. Rukshan Bellana has warned of a potential political conspiracy to undermine the country’s health sector in the future.
+
+He indicated that certain groups are attempting to recruit economically disadvantaged employees to support this agenda.
+
+Dr. Bellana made these remarks at the inauguration ceremony of the National Union of Healthcare Workers (NUHW) held at the United National Party (UNP) Headquarters, Sirikotha.
+
+Meanwhile, the General Secretary of the Joint Health Services Union, Ven. Tampitiye Sugathananda Thero, has announced that hospital junior staff will go on strike the day after tomorrow (9) to base on several demands.
+
+◼️
+
+[Data](articles/04abf3f8.json)
+
+[Extended Data](ext_articles/04abf3f8.ext.json)
+
+---
+
+### England and the Netherlands to the semi-round
+
+*2024-07-07 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198558) · `si`
+
+England and the Netherlands advanced to the Euro Cup semi-finals after drawing 1-1 in their group stage matches. England secured their spot with a penalty shootout victory, setting the stage for a highly anticipated clash on Wednesday.
+
+🟩
+
+England and Netherlands were able to qualify for the semi-finals of the European Cup Football Tournament.
+
+By the end of the time, both groups were given 1 goals.
+
+England won the match as 3 to 3 punishments.
+
+Accordingly, the semi-finals between England and the Netherlands will be held on Wednesday.
+
+◼️
+
+[Data](articles/de256927.json)
+
+[Extended Data](ext_articles/de256927.ext.json)
+
+---
 
 ### 14 killed in Minibus accident
 
@@ -319,6 +403,32 @@ In fact, polls after the debate found that 72% of all voters did not want Biden 
 [Data](articles/0ee4dc1e.json)
 
 [Extended Data](ext_articles/0ee4dc1e.ext.json)
+
+---
+
+### Introduced New Education System
+
+*2024-07-07 01:35:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-கல்வி-முறையினை-அறிமுகப்படுத்தப்படும்/175-339961) · `ta`
+
+President Ranil Wickremesinghe announced the introduction of a new education system focusing on modern technology to prepare the country for a new economy. This initiative, costing Rs 30 crore, aims to equip 200 schools in the Southern Province with 2,000 modern classrooms and 2,000 Deep computers. The project, part of broader educational reforms, benefits 150 schools in the Galle District and 50 in Hambantota and Matara districts, enhancing learning facilities through the integration of technology.
+
+🟩
+
+President Ranil Wickremesinghe said that the advanced education with modern technology is essential to bring the country to the new economy and that the educational reforms are currently underway in the country.
+
+The President said this while addressing the gathering of 2,000 modern classrooms and 2,000 Deb computers to 200 schools in the Southern Province as a new chapter of the modernization of the Education at Galle - Hall de Cole Hotel yesterday.
+
+The scheme was implemented under the allocation of Rs 3,000 lakh (30 crore) to the Southern Provincial Council on a request made by the Government of India, Vatir Ramesh, Minister of Health and Industry.
+
+Of the 200 schools selected for the project, 150 schools are located in the Galle District and 50 other schools in Hambantota and Matara districts.
+
+2,000 Deep computers to 200 classrooms as 10 Deep computers per classroom. President Ranil Wickremesinghe presented a souvenir to Indian High Commissioner Chandush Ja.. (A)
+
+◼️
+
+[Data](articles/f7bd215f.json)
+
+[Extended Data](ext_articles/f7bd215f.ext.json)
 
 ---
 
@@ -2163,123 +2273,5 @@ The President delivered a special speech to the nation. Fireworks celebrations w
 [Data](articles/b3da3cfc.json)
 
 [Extended Data](ext_articles/b3da3cfc.ext.json)
-
----
-
-### I have informed the Elections Commissioner to hold elections on the appropriate date - the President
-
-*2024-07-06 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187794) · `ta`
-
-The President of Sri Lanka has urged the Elections Commissioner to schedule elections promptly. The Mahanayaka of Sri Lanka Ramanya Nikaya supports this, having discussed it with the Commissioner. The President also met with religious leaders, including the Magulaway Wimala Nayaka Thera, and engaged in discussions. Regarding the economy, significant progress has been made in debt restructuring, reducing the debt by about $8 billion and extending loan repayment to 2043. This move aims to bolster Sri Lanka's export economy, drawing inspiration from Thailand's successful open economy model. Additionally, the government is exploring ways to alleviate the current economic crisis, including through legislative measures.
-
-🟩
-
-Mahanayaka of Sri Lanka Ramanya Nikaya has said that the election should be held on the appropriate date and the discussion with the Commissioner of Elections. President Ranil Wickremesinghe told Magulaway Wimala Nayaka Thera.
-
-President of Sri Lanka Ramanya Maha Nikaya, located at Elvitigala Road, Narahenpitiya, visited the headquarters of Sri Lanka Ramanya Maha Nikaya this afternoon. Makuleway met Wimala Mahanayaka Thera and inquired about the welfare and engaged in a short discussion.
-
-Thera, who recited the British and blessed President Ranil Wickremesinghe, presented a souvenir to the President.
-
-We have now completed a discussion with private credit providers and business credit providers regarding the debt reorganization process. I would like to convey the good news that we have been able to cut about $ 8 billion from the debt we have to pay.
-
-...
-
-[Data](articles/5a24d96f.json)
-
-[Extended Data](ext_articles/5a24d96f.ext.json)
-
----
-
-### The second day of the third phase of the Human Paradise Excavation work took place
-
-*2024-07-06 01:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/187793) · `ta`
-
-On the second day of the third phase of the Mullaitivu Kokkuttuwai Human Paradise Excavation, authorities including a judge, archaeologists, legal officers, human rights lawyers, and security forces participated. They uncovered human remains near the Kokkilai Mullaitivu main road. Green clothing was found, suggesting further discoveries might come from the ongoing excavation.
-
-🟩
-
-The second day of the third phase of the Mullaitivu Kokkuttuwai Human Paradise Excavation work took place on Friday (5).
-
-Mullaitivu District Court Judge Dharmalingam Pradeepan, Archaeological Senior Professor Raj Somadeva, Mullaitivu District Legal Officer K Vasudeva, Archeology DepartmentAuthorities, human rights lawyers Ranitha Gnanarasa, VK Nanganjan, and the police and Special Task Force were also present.
-
-A certain part of the Kokkilai Mullaitivu main road has been excavated and there are human remains under it.
-
-During today's excavation, green clothes were visible.. It is believed that push trunks will be fully taken during the day's pervasive. The third day of excavation will be held tomorrow morning.
-
-It is worth noting that the third phase of excavations began on Thursday (04) and the second day on Friday (5).
-
-◼️
-
-[Data](articles/57271619.json)
-
-[Extended Data](ext_articles/57271619.ext.json)
-
----
-
-### University non -academic staff should return to work without disrupting the lives of youth - Dr. Suren Raghavan
-
-*2024-07-06 01:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187792) · `ta`
-
-Dr. Suren Raghavan, the Higher Education Minister, urges non-academic university staff to resume work, ensuring minimal disruption to students' futures. He promises additional pay and time off, prioritizing their demands for inclusion in the 2025 budget. This comes after a 65-day boycott affecting over 14,600 staff across 36 educational institutions, impacting 250,000 students. The minister emphasizes the importance of education and the need for universities to support, rather than hinder, student development.
-
-🟩
-
-Higher Education Minister Dr. Suren Raghavan said he would ask for the non -academic staff of all universities to contribute to the duty of the youth who would be responsible for the future of the country.
-
-The Minister of State has promised to provide additional payments for the two -month salary of university non -academic staff and additional time for April, prioritize their demands and submit them to the Udaya Seneviratne Committee and cover the 2025 budget.
-
-Minister of Higher Education Suren Raghavan made this statement at a media briefing held at the Presidential Media Center on Friday.
-
-Over 14,600 non -academic staff of 17 universities and 19 united degree institutions in the country have been involved in the 65 -day boycott of the entire higher education sector.. The tragic reflection of the country's future is to disrupt the lives of 250,000 youths and waste their time.
-
-...
-
-[Data](articles/6e7c0ca4.json)
-
-[Extended Data](ext_articles/6e7c0ca4.ext.json)
-
----
-
-### The government's democratic violations cannot continue - Professor GL Peiris
-
-*2024-07-06 01:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/187791) · `ta`
-
-Professor GL Peiris criticizes the government for delaying provincial and local government elections, calling it a violation of democracy. He mentions a petition filed by the United People's Power against these delays, highlighting the impact on the people's right to vote. Despite a court order against the Treasury Secretary regarding the delay, it wasn't enforced. The situation is seen as undemocratic, with concerns over human rights violations if the presidential election isn't held promptly. The case will be heard by a five-judge panel, emphasizing the importance of upholding citizens' rights under the constitution. The government's use of funds for election activities instead of development projects is also criticized, along with allegations of the ruling party abusing its majority and governors acting on party lines rather than representing the people.
-
-🟩
-
-In this case, the provincial council and the local government elections have already been delayed and the people have been violated as a nuclear atom.. Professor GL Peiris said that the United People's Power has attacked a petition in a manner that does not accommodate such democratic violations.
-
-He further stated at a press conference held at the Opposition Leader's Office in Colombo on Friday (5).
-
-Over the past few years, people's vote has been violated as a nuclear atom. In this case, the petition has been filed demanding that the presidential election be held.. Although a court order was filed against the Treasury Secretary, seeking a court on the delay in the local government election period, but they were not implemented.
-
-...
-
-[Data](articles/025bc62b.json)
-
-[Extended Data](ext_articles/025bc62b.ext.json)
-
----
-
-### In the current situation, the best choice is to distrust the presidential election - CV Wigneswaran
-
-*2024-07-06 01:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/187790) · `ta`
-
-CV Wigneswaran, a TNA parliamentarian, suggests distrusting the upcoming presidential election due to economic recovery concerns and potential instability. He supports a petition in the Supreme Court to delay the election, arguing that holding it now could lead to no clear winner and further destabilize the country's economy. Wigneswaran emphasizes the importance of prioritizing national welfare, economic stability, and public safety over adhering strictly to democratic processes under current circumstances.
-
-🟩
-
-The Tamil People's National Alliance parliamentarian CV Wigneswaran said that as the country's economy is gradually recovering, it should not be re -adopted to ensure that the presidential election will be the best decision to regain the presidential election.
-
-A fundamental violation petition has been filed in the Supreme Court by businessman CD Lnava seeking to prevent the presidential election as being planned until the presidential election is being issued on the day of the presidential election.
-
-In the wake of the opposition of various parties, CV Wigneswaran, a Member of Parliament of the Tamil People's National Alliance (TNA), one of the Tamil National Alliance (TNA), said that it would be beneficial to the country if the High Court ruled that the presidential election would be retaliated.
-
-...
-
-[Data](articles/543e00a4.json)
-
-[Extended Data](ext_articles/543e00a4.ext.json)
 
 ---

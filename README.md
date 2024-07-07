@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 21:54:12**
+As of **2024-07-07 22:06:26**
 
 ## Newspaper Stats
 
-*Scraped **34,111** Articles*
+*Scraped **34,112** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,914
 economynextcom | 2,004
 dailyftlk | 2,115
 adalk | 3,051
-adaderanalk | 3,908
+adaderanalk | 3,909
 tamilmirrorlk | 4,049
 dailymirrorlk | 4,733
 virakesarilk | 5,343
@@ -26,33 +26,63 @@ adaderanasinhalalk | 5,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,110 (100.0%) of 34,111 articles have been extended.
+34,111 (100.0%) of 34,112 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### මෙම ලිපියට ඔබත් හසුවෙයි - කල්පනාවෙන්
+### Stock of drugs worth over Rs. 5 million found from house of suspect shot by cops
+
+*2024-07-07 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100359/stock-of-drugs-worth-over-rs-5-million-found-from-house-of-suspect-shot-by-cops) · `en`
+
+Police have today recovered a stock of drugs worth more than Rs. 5,000,000 from the rented house of drug trafficker Sahan Dhananjaya, alias “Kona,” who was shot while fleeing from police officers after pointing a firearm at them.
+
+Athurugiriya Police had received information that ‘Kona’, a known drug trafficker, was transporting drugs from Kottawa to the Piliyandala area on July 4.
+
+Acting on this intelligence, the police had conducted a special traffic inspection at the Friday ‘Pola’ (fair) junction in Piliyandala.
+
+During the inspection, a person had exited a car that had been stopped by police and brandished a firearm at the officers. In response, the police officers had opened fire at him.
+
+Despite the police firing at him, the individual had managed to flee, and his bullet-ridden car was later found abandoned in the Kesbewa area.
+
+The suspect was subsequently apprehended while receiving medical treatment at the Kalubowila Teaching Hospital for a gunshot wound in his leg.
+
+...
+
+[Data](articles/300cccd4.json)
+
+---
+
+### You too caught in this article - carefully
 
 *2024-07-07 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198586) · `si`
 
-පොලිස්පතිවරයා විසින් නිකුත් කර ඇති බව පවසමින් අන්තර්ජාලයේ සංසරණයවන ලිපියක් පිළිබඳව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් විමර්ශනයක් ආරම්භ කර තිබේ.
+CID investigates a suspicious letter claiming to be from the IGP, suspected of causing data theft. The letter, circulated via email and social media, bears a police seal and logo, leading to widespread concern. Authorities warn against opening links or logging in due to potential hacking threats. This follows previous cyberattacks in Bangladesh, emphasizing heightened vigilance over data security.
 
-ඒ අදාළ ලිපිය මගින් දැවැන්ත දත්ත කොල්ලයක් සිදුකිරීමට හැකියාවක් ඇති බවට ඇතිවූ සැකයක් හේතුවෙනි.
+🟩
 
-ධර්මචක්‍රය සහිත නිල් පැහැති පොලිස් අත් ලාංඡනයක්, රබර් මුද්‍රාවක් හා පොලිස් නිල ලාංඡනය සහිතව කහ පැහැති පසුබිමේ ඉංග්‍රීසි භාෂාවෙන් සටහන් වූ ව්‍යාජ ලිපියක් සමාජ මාධ්‍ය වල සංසරණය වූ අතර එය 2024 ජූලි 01 වනදා පොලිස්පති දේශබන්දු තෙන්කෝන් මහතා නිකුත් කළ බව හැඟවෙන අයුරින් සකසා ඇත.
+The CID has launched an investigation into a letter circulating letter saying that the IGP has been issued.
 
-අදාළ ව්‍යාජ ලිපිය සහ එම ලිපිය අන්තර්ජාලයට යොමු කළේ කවුරුන්ද යන්න සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශනයක් ආරම්භ කළේය.
+The letter caused a suspicion that the letter was able to perform a massive data plunder.
 
-ඒ අනුව අනාවරණ කරගැනුණේ මෙරට, ප්‍රමුඛ පෙළේ මර්මස්ථාන රැසකට මෙන්ම ඒවායේ ප්‍රධාන නිලධාරීන් රැසකට අදාළ ලිපිය ඒ වන විටත් ඊමේල් මගින් යොමුකර තිබූ බවය.
+The social media circulated in a blue police halt with a rubber seal, with a rubber seal with a rubber seal and the police official logo.
 
-මෙහි විශේෂත්වය වන්නේ එය මුද්‍රණය කරගැනීම, සඳහා අනිවාර්යයෙන්ම බාගත කරගත යුතුවීමය.
+The Criminal Investigations Department commenced investigation into the false letter and the letter to the Internet.
 
-එය බාගත කළ පසු එය යවන ලද පාර්ශ්වයට එහි ඇති මැල්වෙයා, වෛරස් ආරක්ෂණ පද්ධති තුළට ඇතුළු වී අදාළ පරිගණකවල ඇති දත්ත සොරාගත හැකි බව වාර්තා වේ.
+Accordingly, the article had already been forwarded by emails for many major centrals in the country and many of them.
+
+The specialty of this is to be downloaded, to print it, for printing it.
+
+Once it is downloaded, it is reported that the sentiment sent into the viral, virus protection systems and the data on relevant computers.
+
+According to the police, the article has directed a person or group of individuals with the objective of stealing data or inconvenience some parties.
 
 ...
 
 [Data](articles/2847b9cb.json)
+
+[Extended Data](ext_articles/2847b9cb.ext.json)
 
 ---
 
@@ -2345,27 +2375,5 @@ The incident had been suspected due to a housekeeping dispute.
 [Data](articles/dec539a0.json)
 
 [Extended Data](ext_articles/dec539a0.ext.json)
-
----
-
-### 13 injured in elephants in Kataragama Perahera
-
-*2024-07-07 09:35:08* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-පෙරහැරේ-අලි-කලබලයකින්-පුද්ගලයින්-13ට-තුවාල/11-410635) · `si`
-
-During the Esala Perahera at the Ruhuna Maha Kataragama Devalaya, 13 people were injured, including participants and spectators. The incident occurred around 9:00 pm on July 6th. All victims have been hospitalized, but none are critically injured.
-
-🟩
-
-At least 13 people were injured when the Esala Perahera of the Historic Ruhuna Maha Kataragama Devalaya.
-
-The Kataragama Police said this was held at 9.00 pm yesterday (6).The number of Perahera was also upset and suffered injuries due to the daughter.
-
-The injured have been admitted to the Kataragama hospital and there is no information that they have no critical condition.
-
-◼️
-
-[Data](articles/daa21ef9.json)
-
-[Extended Data](ext_articles/daa21ef9.ext.json)
 
 ---

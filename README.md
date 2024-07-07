@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 19:19:48**
+As of **2024-07-07 19:34:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,672
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,099 (100.0%) of 34,100 articles have been extended.
+34,100 (100.0%) of 34,100 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -244,23 +244,29 @@ It is reported that the forest cat has been sent to the Dehiwala Zoo and the Sri
 
 ---
 
-### අප්‍රිකානු කැළෑ බළලෙක් රුසියාවේ සිට ලංකාවට ගෙනල්ලා
+### A African wild cat brought to Sri Lanka from Russia
 
 *2024-07-07 18:07:20* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රිකානු-කැළෑ-බළලෙක්-රුසියාවේ-සිට-ලංකාවට-ගෙනල්ලා/11-410649) · `si`
 
-අප්‍රිකානු කැළෑ බළළෙකු (African Serval Cat) නිසි අවසරයකින් තොරව ඉකුත් 07/05 දින උදෑසන රුසියාවේ මොස්කව් නුවර සිට කටුනායක ගුවන් තොටුපොළ ගුවන් භාණ්ඩ පර්යන්තය වෙත ගෙනැවිත් තිබේ.
+An African Serval Cat, named S.i.t.e.S., was smuggled from Moscow to Sri Lanka without permission, resembling the native "introduced leopard." This rare event sparked international interest, especially in Europe and the Middle East, due to its unique status. The cat was transported to the Kandy area before being transferred to the Dehiwala Zoo. Authorities, including the Sri Lanka Customs and the Departments of Wildlife Conservation, are investigating this incident.
 
-සයිටෙස් ( S.I.T.E.S.) සම්මුතිය මගින් ආරක්ෂිත සත්වයෙකු ලෙස නම් කර ඇති මෙම කැළෑ බළළා , ශ්‍රී ලංකාවේ " හදුන් දිවියාට "  සමානකම් දක්වයි.
+🟩
 
-යුරෝපයේ සහ මැදපෙරදිග රටවල මෙම කැළෑ බළළ් විශේෂය සුරතලයට ඇති කරන අතර ඒ නිසා ජාත්‍යන්තර වශයෙන් මොවුන්ට විශාල ඉල්ලුම ඇති බව මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සිදු කරන රේගු නිලධාරීන් පවසති.
+AFrican Serval CAT has been brought from Moscow to Katunayake air cargo periphery on the morning without proper permission.
 
-මහනුවර ප්‍රදේශයේ පදිංචිකරුවෙකු විසින් මෙම අප්‍රිකානු කැළෑ බළළා මෙරටට රැගෙන විත් ඇති අතර එම බළළා 07/05 දින උදෑසන 09.30 ට රුසියාවේ මොස්කව් නුවර සිට එරොෆ්ලොට් ගුවන් සේවයේ එස්.යූ.- 288 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ ගුවන් භාණ්ඩ පර්යන්තය වෙත නීතිවිරෝධී ලෙස ගෙනැවිත් තිබේ.
+The forest cat, which has named S.i.t.e.S., similarly resemble the "introdugent leopard" in Sri Lanka.
 
-මේ වනවිට මෙම කැළෑ බළළා දෙහිවල සත්වෝද්‍යානය වෙත යවා ඇති අතර ශ්‍රී ලංකා රේගුවේ ජෛව විවිධත්ව ආරක්ෂණ , සංස්කෘතික හා ජාතික උරුමයන් සුරැකීමේ ඒකකය සහ වනජීවී දෙපාර්තමේන්තුව විසින් මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සිදු කරමින් සිටිති .
+In countries in Europe and the Middle East, the special investigations are being made to the peer, so the customs personnel who carry out internationally have the highest demand.
+
+The African wilds were taken to Sri Lanka by a resident of Kandy area.
+
+The forest cat has been sent to the Dehiwala Zoo and the National Heritage Protection of Sri Lanka Customs and the Department of Wildlife and Department of Wildlife Department is conducting further investigations.
 
 ◼️
 
 [Data](articles/01a543b3.json)
+
+[Extended Data](ext_articles/01a543b3.ext.json)
 
 ---
 

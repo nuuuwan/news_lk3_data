@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 11:19:37**
+As of **2024-07-07 11:35:09**
 
 ## Newspaper Stats
 
-*Scraped **34,026** Articles*
+*Scraped **34,028** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,914
 economynextcom | 2,003
 dailyftlk | 2,115
 adalk | 3,036
-adaderanalk | 3,896
-tamilmirrorlk | 4,030
+adaderanalk | 3,897
+tamilmirrorlk | 4,031
 dailymirrorlk | 4,733
 virakesarilk | 5,327
 adaderanasinhalalk | 5,654
@@ -26,61 +26,111 @@ adaderanasinhalalk | 5,654
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,021 (100.0%) of 34,026 articles have been extended.
+34,026 (100.0%) of 34,028 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### පොලිස් වෙසින් පැමිණ සිදුකළ පැහැරගැනීම
+### 78 வயதுடைய பெண் துஷ்பிரயோகம் ; மாணவன் கைது
+
+*2024-07-07 11:18:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/78-வயதுடைய-பெண்-துஷ்பிரயோகம்-மாணவன்-கைது/76-339967) · `ta`
+
+பலாங்கொடையில் 78 வயதுடைய பெண்ணொருவர் படுகொலை செய்யப்பட்ட சம்பவம் தொடர்பில் 17 வயதுடைய பாடசாலை மாணவர் ஒருவர் எதிர்வரும் 08ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+பலாங்கொடை முகுனமலை பிரதேசத்தை சேர்ந்த எம்.எல். சிரியாவதி என்ற பெண்ணொருவர் கடந்த 27ஆம் திகதி குளிப்பதற்காக தொரவெல ஆற்றிற்கு சென்றிருந்த  நிலையில் அன்றைய தினம் மாலை தொரவெல ஆற்றில் இருந்து சடலமாக மீட்கப்பட்டார் .
+
+குறித்த பெண் நீரில் மூழ்கி உயிரிழந்திருக்கலாம் என சந்தேகிக்கப்பட்டு, பலாங்கொடை ஆதார  வைத்தியசாலையில் பிரேத பரிசோதனை மேற்கொள்ளப்பட்டதுடான் அதன்போது குறித்த பெண் பல சந்தர்ப்பங்களில் பாலியல் வன்கொடுமைக்குள்ளாகியமை தெரியவந்துள்ளது .
+
+மேலும் , அவரது கழுத்தையும் வாயையும் கட்டிக்கொண்டு துஷ்பிரயோகம் செய்து கொலை செய்ததாகக் சட்ட வைத்திய அதிகாரி மேற்கொண்ட பிரதே பரிசோதனையில் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/c31295fc.json)
+
+---
+
+### Youth arrested trying to sell rare conch shell in Marawila
+
+*2024-07-07 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100345/youth-arrested-trying-to-sell-rare-conch-shell-in-marawila) · `en`
+
+During a raid conducted by the Special Task Force in Marawila, a 24-year-old youth has been arrested for attempting to sell a rare conch shell.
+
+The rare conch shell, weighing 01kg and 105g, and the arrested suspect have been handed over to Karuwalagaswewa Wildlife Office for onward action.
+
+◼️
+
+[Data](articles/0ca27a5e.json)
+
+---
+
+### Abduction of police
 
 *2024-07-07 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198564) · `si`
 
-‍පොලිස් නිලධාරීන් බව පවසා පුද්ගලයෙකු පැහැරගෙන යාමේ සිද්ධියක් සම්බන්ධයෙන් සැක පිට පුද්ගලයින් දෙදෙනෙකු සෙවනගල පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+On June 29, a 55-year-old former police officer was abducted by a group from a car in Sevanagala. Two suspects, locals of Embilipitiya, were arrested on June 6, linked to the incident over a cash dispute.
 
-ජූනි 29 වනදා මෝටර් රථයකින් පැමිණි පිරිසක් විසින් තමන් පොලිස් නිලධාරීන් බව පවසා 55 හැවිරිදි පුද්ගලයෙකුව පැහැරගෙන ගොස් තිබුණි.
+🟩
 
-සිද්ධිය සම්බන්ධයෙන් සෙවනගල පොලීසියට ලද පැමිණිල්ලක් මත සිදුකළ විමර්ශනයක දී ඊයේ (06) ඇඹිලිපිටිය ප්‍රදේශයේ දී සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Sevanagala Police have arrested two persons with suspicion of abduction of a person who had been police officers.
 
-සැකකරුවන් ඇඹිලිපිටිය ප්‍රදේශයේ පදිංචිකරුවන් වන අතර මුදල් ආරවුලක් හේතුවෙන් මෙම පැහැරගැනීම සිදුකර ඇති බවට පොලිසිය සිදුකළ විමර්ශනයේ දී අනාවරණය වී තිබේ.
+A 55-year-old man had been abducted by a group of people who arrived in a car on June 29.
+
+Two suspects have been arrested in the Embilipitiya area yesterday (06).
+
+The suspects are residents of Embilipitiya and the police have revealed that the abduction had been made due to a cash dispute.
 
 ◼️
 
 [Data](articles/78fd17a2.json)
 
+[Extended Data](ext_articles/78fd17a2.ext.json)
+
 ---
 
-### ஈரான் ஜனாதிபதியானார்  பெசஸ்கியான்
+### Iran became the president of Besuskian
 
 *2024-07-07 10:48:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரான்-ஜனாதிபதியானார்-பெசஸ்கியான்/50-339965) · `ta`
 
-ஈரானின் ஜனாதிபதி இப்ராகிம் ரைசி கடந்த ஜூன் 19ஆம் திகதி நடந்த ஹெலிகொப்டர் விபத்தில் உயிரிழந்தார். இதையடுத்து புதிய ஜனாதிபதியை தேர்வு செய்வதற்கான தேர்தல் கடந்த மாதம் 28ஆம் திகதி நடந்தது.
+Masood Bessevan won the Iranian presidency after securing 42.5% in the first round and 1.63 crore votes in the runoff against Syed Jaleeli, who got 38.6%. Despite not reaching the 50% threshold initially, the second phase saw Bessevan emerge victorious, set to assume office soon.
 
-இதில் முன்னாள் நிதி அமைச்சர் மசூத் பெசஸ்கியான் 42.5 சதவீத வாக்குகளும், 2ம் இடம் பெற்ற சையது ஜலீலி 38.6 சதவீத வாக்குகளும் பெற்றனர். ஆனாலும், ஈரான் அரசியலமைப்பு சட்டப்படி, வெற்றி வேட்பாளர் குறைந்தபட்சம் 50 சதவீத வாக்குகள் பெற வேண்டும். இதனால், முதல் 2 இடங்கள் பிடித்த பெசஸ்கியான் மற்றும் சையது ஜலீலி இடையே 2ஆம் கட்ட தேர்தல் கடந்த 5ஆம் திகதி நடந்தது.
+🟩
 
-இதில், பெசஸ்கியான் 1.63 கோடி வாக்குகளும், ஜலீலி 1.35 கோடி வாக்குகளும் பெற்றனர். இதன் மூலம், ஈரான் ஜனாதிபதியாக பெசஸ்கியான் வெற்றி பெற்றுள்ளார். இந்நிலையில், அவர் அடுத்த ஒருமாதத்திற்குள் பதவியேற்பார் என அறிவிக்கப்பட்டுள்ளது.S
+Iran's President Ibrahim Raisi died in a helicopter accident on June 19. The election to elect a new president was held on the 28th of last month.
+
+Former Finance Minister Masood Bessevan received 42.5 per cent votes and Syed Jaleeli 38.6 per cent.. However, according to the Iran Constitution, the winner must get at least 50 percent of the votes. As a result, the second phase of the election between Pessecian and Syed Jaleeli was held on the 5th.
+
+Of this, Bessecian received 1.63 crore votes and Jaleel 1.35 crore votes. With this, Besuskian has won the president of Iran. In this case, it has been announced that he will take office within the next month.
 
 ◼️
 
 [Data](articles/ac88cf34.json)
 
+[Extended Data](ext_articles/ac88cf34.ext.json)
+
 ---
 
-### කතරගම පෙරහැරේ අලි කලබල
+### Elephant in Kataragama Perahera
 
 *2024-07-07 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198563) · `si`
 
-ඓතිහාසික රුහුණු කතරගම මහා දේවාලයේ  ඇසළ පෙරහැරේ ගමන් කළ අලි පැටවෙක් කුලප්පුවී තිබේ.
+During the Esala Perahera at Ruhunu Kataragama Maha Devalaya, an elephant's charge resulted in 10 injuries among spectators. The incident occurred when the elephant, part of the procession, collided with a pillar, causing non-serious injuries to those nearby who were unhurt.
 
-ඒ හේතුවෙන් පුද්ගලයින් 10 දෙනෙකු සුළු තුවාල ලබා ඇති බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+🟩
 
-එම අලියා කුලප්පුවීමත් සමග පෙරහැර නැරඹීමට පැමිණි පුද්ගලයින් කලබලවීම හේතුවෙන් එම 10 දෙනා තුවාල ලබා ඇත.
+An elephant paval of the Esala Perahera of the Historic Ruhunu Kataragama Maha Devalaya.
 
-තුවාල ලැබූ අයගේ තත්ත්වය එතරම් බරපතළ නොවන බවත් ඔවුන් ඊයේ (06) රාත්‍රීයේ රෝහල්ගත කළ නමුත් මේ වනවිට රෝහලෙන් පිටව ගොස් ඇති බවත් වාර්තා වේ.
+Due to this, 10 persons have been injured, "Ada Derana reporter said.
+
+With the pillar of the elephant, the 10 people were injured as they were upset.
+
+It is reported that the condition of the injured are not serious and hospitalized yesterday.
 
 ◼️
 
 [Data](articles/c4e4a506.json)
+
+[Extended Data](ext_articles/c4e4a506.ext.json)
 
 ---
 
@@ -101,6 +151,8 @@ Kataragama Police are conducting further investigations related to the incident.
 ◼️
 
 [Data](articles/90d81f65.json)
+
+[Extended Data](ext_articles/90d81f65.ext.json)
 
 ---
 
@@ -216,21 +268,29 @@ Hospital sources say that those who were admitted to the hospital have no seriou
 
 ---
 
-### කූඨ ගමන් බලපත්‍රයකින් කැනඩාවට පනින්න ගිය තරුණයාට වැඩ වරදියි
+### The young man who visited Canada by a batch of license
 
 *2024-07-07 10:10:10* · [`adalk`](https://www.ada.lk/breaking_news/කූඨ-ගමන්-බලපත්‍රයකින්-කැනඩාවට-පනින්න-ගිය-තරුණයාට-වැඩ-වරදියි/11-410636) · `si`
 
-කූඨ ලෙස සකස් කළ ශ්‍රී ලාංකික ගමන් බලපත්‍රයක් උපයෝගී කර ගෙන කැනඩාව බලා පළා යාම සදහා 07/06 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටි ශ්‍රී ලාංකික තරුණයෙකු ආගමන විගමන දෙපාර්තමේන්තු දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ .
+A Sri Lankan youth, 27 from Jaffna, was arrested at Katunayaka airport for attempting to travel to Canada with a stolen passport. The passport belonged to another individual and was procured for Rs. 18 lakhs. He was detained during passport inspection and will be investigated further.
 
-මොහු යාපනය ප්‍රදේශයේ පදිංචි 27 හැවිරිදි ද්‍රවිඩ ජාතික තරුණයෙකි.  මොහු 07/06 දින රාත්‍රී 07.20 ට සෞදි අරාබියේ දමාම් නුවර බලා පිටත්ව යාමට නියමිත ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 263 දරන ගුවන් යානයට පිවිසීම සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි. ඔහු එතැන් සිට තවත් වෙනත් ගුවන් යානයකින් කැනඩාව බලා යාමට සැළසුම් කර තිබුණි .
+🟩
 
-ඔහු සිය ගුවන් සේවා නිශ්කාශන කටයුතු නිමා කර විගමන කටයුතු සදහා පැමිණෙමින් සිටියදී ආගමන විගමන දෙපාර්තමේන්තු දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරීන්ට මොහු පිළිබඳ ඇති වූ සැකය මත මොහු නවතා මොහුගේ ගමන් බලපත්‍රය ඇතුළු අනෙකුත් ලියකියවිලි පරීක්ෂා වට ලක් කර තිබේ .
+A Sri Lankan youth who had come to the Katunayakama Institute of Immigration and Emigration has been arrested by the Department of Immigration and Emigration.
 
-එහිදී එම ගමන් බලපත්‍රය කැනඩාවේ වීසා බලපත්‍ර හිමි වෙනත් ශ්‍රී ලාංකිකයෙකු සතු ගමන් බලපත්‍රයක් බවට කරුණු අනාවරණය වී තිබේ.
+He is a 27 year old resident of Jaffna.7.20 pm on 07/06 pm at Saudi Arabia to leave Sri Lankan Airlines UL. He was planning to go to Canada on another aircraft.
+
+He has been surrounded by the inspection of his passport, including his passport, and other documents to the officers of the Department of Immigration and Emigration.
+
+It has been revealed that the passport was a passport of another Sri Lankan to another Sri Lankan visa.
+
+He has made the Department of Immigration Department and the Department of Laboratory Surveillance Unit that the passport has been provided with the photograph of Rs. 18 lakhs.
 
 ...
 
 [Data](articles/a33e676a.json)
+
+[Extended Data](ext_articles/a33e676a.ext.json)
 
 ---
 
@@ -2215,51 +2275,5 @@ He was tipped by many in the circles that he could follow in the footsteps of fo
 [Data](articles/157fc7b2.json)
 
 [Extended Data](ext_articles/157fc7b2.ext.json)
-
----
-
-### Explanation of the relief received
-
-*2024-07-06 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198530) · `si`
-
-Dr. Nandalal Weerasinghe, Central Bank Governor of Sri Lanka, discussed the relief offered by bilateral debt restructurings, emphasizing that such relief is extended universally to all countries facing similar situations. He highlighted two main forms of relief: extending the repayment period and reducing interest rates, both aimed at easing the debt burden. Weerasinghe also addressed criticisms about unfair loan comparisons between countries, stating that the focus should be on each country's unique circumstances rather than direct comparisons. He clarified that the goal of seeking such relief is not to favor one country over another but to manage national debt effectively and ensure economic stability.
-
-🟩
-
-Central Bank Governor Dr. Nandalal Weerasinghe says that the relief provided by bilateral debt borrowers has been given the relief to Sri Lanka.
-
-He was speaking at an interview to educate the restructuring of debt.
-
-The Central Bank Governor further explained that comparing Sri Lanka is not a right to provide credit relief to various countries.
-
-"There are several ways to provide credit relief when it comes to agree with bilateral creditors. If you have to pay in 10 years, the basic debt, get paid 20 in 20 if you bought $ 100. In fact, the 100 rupees will be borrowed today and will be able to pay for 10 years in 10 years.. One is the relief. Bilateral borrowers give this process to all countries by extending the time to pay the debt. "
-
-"The second relief is like 2% more than 3%, 4%, 5%, 5%, 6%. Decreases time to reduce interest rates. When the two adds, our debt is a significant amount of value. The end result, which is 30% less than 30%. "
-
-...
-
-[Data](articles/fc5d2f40.json)
-
-[Extended Data](ext_articles/fc5d2f40.ext.json)
-
----
-
-### FUTA ‘mafia’ behind strike by university non-academic staff, claims Raghavan
-
-*2024-07-06 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100327/futa-mafia-behind-strike-by-university-non-academic-staff-claims-raghavan) · `en`
-
-State Minister of Higher Education Dr. Suren Raghavan, urged non-academic staff across all universities to resume work promptly, emphasizing the importance of minimizing disruptions for the youth who are the future leaders of the nation.
-
-Speaking at the press briefing titled “Collective Path to a Stable Country” held at the Presidential Media Centre yesterday (05), he committed to prioritizing the demands of university non-academic staff, including addressing overtime allowances for April.
-
-These concerns will be forwarded to the Udaya Seneviratne Committee and proposed for inclusion in the 2025 budget, he added.
-
-Fourteen thousand six hundred (14,600) non-academic employees from 17 universities and 19 joint post-graduate institutions have been on strike for 65 days, severely disrupting the higher education sector. This has adversely affected the lives of 250,000 young individuals, who are crucial to the future of the nation, by causing confusion and wasting their time.
-
-...
-
-[Data](articles/76a89cf2.json)
-
-[Extended Data](ext_articles/76a89cf2.ext.json)
 
 ---

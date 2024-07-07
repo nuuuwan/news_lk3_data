@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 06:40:29**
+As of **2024-07-07 07:18:47**
 
 ## Newspaper Stats
 
-*Scraped **33,989** Articles*
+*Scraped **33,990** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,003
 dailyftlk | 2,115
 adalk | 3,031
 adaderanalk | 3,889
-tamilmirrorlk | 4,024
+tamilmirrorlk | 4,025
 dailymirrorlk | 4,733
 virakesarilk | 5,323
 adaderanasinhalalk | 5,642
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,983 (100.0%) of 33,989 articles have been extended.
+33,985 (100.0%) of 33,990 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### පවතින වැසි තත්ත්වය තවදුරටත්
+### The prevailing rain condition is further
 
 *2024-07-07 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198552) · `si`
 
-දිවයිනේ නිරිත දිග කොටසේ පවතින වැසි තත්ත්වය තවදුරටත් බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rainfall expected across various regions including Western, Sabaragamuwa, Northwestern provinces, and specific districts like Kandy, Nuwara Eliya, Galle, Matara, Ampara, Batticaloa, Trincomalee, Hambantota, and Moneragala. Strong winds of 40-50 km/h possible. Public advised to prepare for potential wind and lightning hazards due to thunderstorms.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (07) දිනයේ විටින්විට වැසි ඇතිවිය හැකි බවය.
+🟩
 
-ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+The rainy section of the island can further expect the extent of the island.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The department states that showers will be possible in the Western, Sabaragamuwa and Northwestern provinces, in the Kandy, Nuwara Eliya, Galle and Matara districts.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The Department of Meteorology announces that 40-50 could cause strong winds.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/f4685341.json)
+
+[Extended Data](ext_articles/f4685341.ext.json)
 
 ---
 
@@ -190,6 +196,20 @@ By providing specialized training and military aid, India aims to foster a close
 
 ---
 
+### கால்வாய்க்குள் பாய்ந்த பாரவூர்தி
+
+*2024-07-07 01:12:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால்வாய்க்குள்-பாய்ந்த-பாரவூர்தி/175-339958) · `ta`
+
+பாதுக்கையில் இருந்து கொழும்பு துறைமுகத்தை நோக்கிப் பயணித்த பாரவூர்தியொன்று ஹங்வெல்ல எம்புலுகம சந்திக்கு அருகில் விபத்துக்குள்ளாகியுள்ளது.
+
+குறித்த பாரவூர்தி வேகக் கட்டுப்பாட்டை இழந்த நிலையில் பாலத்தின் பாதுகாப்பு வேலியில் மோதிக் கால்வாய்க்குள் கவிழ்ந்து விபத்துக்குள்ளாகியுள்ளானதாகத் தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/b7d3c332.json)
+
+---
+
 ### Anita Desai – Indian Novelist
 
 *2024-07-07 01:09:00* · [`islandlk`](http://island.lk/anita-desai-indian-novelist/) · `en`
@@ -253,6 +273,8 @@ Our batch of 1959 was special for two reasons. We were the last totally English 
 ...
 
 [Data](articles/5b3353fd.json)
+
+[Extended Data](ext_articles/5b3353fd.ext.json)
 
 ---
 
@@ -2207,31 +2229,5 @@ Even though these challenges were confronted by the agitating struggle in 2019, 
 [Data](articles/c6f26c35.json)
 
 [Extended Data](ext_articles/c6f26c35.ext.json)
-
----
-
-### 8 billion relief for Sri Lanka
-
-*2024-07-06 00:25:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-8-பில்லியன்-டொலர்-நிவாரணம்/175-339931) · `ta`
-
-Sri Lanka's President Ranil Wickremesinghe announced a $5 billion loan from bilateral creditors, reducing the country's debt by $8 billion over two years without including aid from China and India. The funds will be used for development projects, with negotiations underway to reduce payments by another $3 billion. This move aims to stabilize the economy and provide relief to the citizens.
-
-🟩
-
-President Ranil Wickremesinghe said that the loan of $ 05 billion from bilateral credit providers will be received from bilateral credit issuers and will be cut off the $ 03 billion loan for the country's consensus.
-
-Under the National Working National Program for Rs.
-
-Accordingly, the President said this while addressing 463 land guarantees at the auditorium of the North Western Provincial Council Kurunegala yesterday morning.. As he further stated,
-
-When the country's economy collapsed, people lost hope. Today this area should thank the MPs. They have forgotten that their homes have been on fire and have come forward to do good.
-
-Today the country is free from bankruptcy. We have 04 years of time to repay the loan. Also, the opportunity to pay off the loan with a moderate load for about 6 years. A sum has been cut off the interest payable. So $ 05 billion remains to the country.
-
-...
-
-[Data](articles/49348859.json)
-
-[Extended Data](ext_articles/49348859.ext.json)
 
 ---

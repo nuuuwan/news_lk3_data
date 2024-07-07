@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 11:35:09**
+As of **2024-07-07 11:54:48**
 
 ## Newspaper Stats
 
-*Scraped **34,028** Articles*
+*Scraped **34,034** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,40 +13,106 @@ colombotelegraphcom | 312
 bbccomsinhala | 334
 newsfirstlk | 363
 islandlk | 1,914
-economynextcom | 2,003
+economynextcom | 2,004
 dailyftlk | 2,115
 adalk | 3,036
-adaderanalk | 3,897
+adaderanalk | 3,898
 tamilmirrorlk | 4,031
 dailymirrorlk | 4,733
-virakesarilk | 5,327
+virakesarilk | 5,331
 adaderanasinhalalk | 5,654
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,026 (100.0%) of 34,028 articles have been extended.
+34,028 (100.0%) of 34,034 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### 78 வயதுடைய பெண் துஷ்பிரயோகம் ; மாணவன் கைது
+### சம்பந்தனுக்குப் பிறகான தமிழ் - முஸ்லிம் உறவு
 
-*2024-07-07 11:18:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/78-வயதுடைய-பெண்-துஷ்பிரயோகம்-மாணவன்-கைது/76-339967) · `ta`
+*2024-07-07 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187883) · `ta`
 
-பலாங்கொடையில் 78 வயதுடைய பெண்ணொருவர் படுகொலை செய்யப்பட்ட சம்பவம் தொடர்பில் 17 வயதுடைய பாடசாலை மாணவர் ஒருவர் எதிர்வரும் 08ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+மூத்த தமிழ்த் தலைவராக இருந்து எல்லா சமூகங்களாலும் மதிக்கப்பட்ட இராஜவரோதயம் சம்பந்தனின் மறைவு அப்படியான ஒரு வெற்றிடத்தை, தாக்கத்தை, மனக் கிடக்கையை ஏற்படுத்தியிருக்கிறது எனலாம். தமிழர்கள் மட்டுமன்றி, முஸ்லிம்கள், சிங்கள மக்களும் இதனை சொல்கின்றார்கள். அதற்கு காரணம் நாடு என்ற தேசியக் கண்ணோட்டத்தில் நின்று தமிழ் மக்களுக்காக கடைசி வரையும் அவர் செய்த பக்குவமான அரசியல் என்று கூறலாம்.
 
-பலாங்கொடை முகுனமலை பிரதேசத்தை சேர்ந்த எம்.எல். சிரியாவதி என்ற பெண்ணொருவர் கடந்த 27ஆம் திகதி குளிப்பதற்காக தொரவெல ஆற்றிற்கு சென்றிருந்த  நிலையில் அன்றைய தினம் மாலை தொரவெல ஆற்றில் இருந்து சடலமாக மீட்கப்பட்டார் .
+◼️
 
-குறித்த பெண் நீரில் மூழ்கி உயிரிழந்திருக்கலாம் என சந்தேகிக்கப்பட்டு, பலாங்கொடை ஆதார  வைத்தியசாலையில் பிரேத பரிசோதனை மேற்கொள்ளப்பட்டதுடான் அதன்போது குறித்த பெண் பல சந்தர்ப்பங்களில் பாலியல் வன்கொடுமைக்குள்ளாகியமை தெரியவந்துள்ளது .
+[Data](articles/77a94547.json)
 
-மேலும் , அவரது கழுத்தையும் வாயையும் கட்டிக்கொண்டு துஷ்பிரயோகம் செய்து கொலை செய்ததாகக் சட்ட வைத்திய அதிகாரி மேற்கொண்ட பிரதே பரிசோதனையில் தெரியவந்துள்ளது.
+---
+
+### முஸ்லிம்களின் வரலாற்றில் வெட்கக்கேடான அத்தியாயம்
+
+*2024-07-07 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/187877) · `ta`
+
+சர்வாதிகார சவூதி அரசுக்கு இரண்டு முகங்கள் இருக்கின்றன. ஒருபுறம் இஸ்லாத்தின் புனித இறை இல்லங்களின் காவலர்களாக தம்மை காட்டிக்கொண்டு முஸ்லிம்களை ஏமாற்றுவது. மற்றது, தனது அமெரிக்க ஐரோப்பிய மற்றும் இஸ்ரேலிய எஜமானர்களுக்கு பணிவிடை செய்வது. இதுவரை இஸ்லாத்தின் மரபுரிமை சின்னங்களாக மதிக்கப்படவேண்டிய வரலாற்று முக்கியம் வாய்ந்த இடங்களில் 90 சதவீதமான இடங்களை சவூதி அரேபியா அழித்துவிட்டது. இது இஸ்லாத்தின் மோசமான எதிரிகள் கூட செய்யத் தவறிய ஒரு காரியமாகும்.
+
+◼️
+
+[Data](articles/3b4a03f3.json)
+
+---
+
+### எனது சொந்த விருப்பத்தின் பேரிலேயே செயற்பட்டேன் - அரசியல் நோக்கம் எதுவுமில்லை-  ஜனாதிபதி தேர்தல் தொடர்பில் நீதிமன்றத்தில்  மனுதாக்கல் செய்த வர்த்தகர் கருத்து
+
+*2024-07-07 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/187885) · `ta`
+
+ஜனாதிபதியின் பதவிக்காலம் குறித்து நீதிமன்றம் தனது தீர்ப்பை வழங்கும்வரை ஜனாதிபதி தேர்தலிற்கு இடைக்கால உத்தரவை பிறப்பிக்கவேண்டும் என கோரும் மனுவை உயர்நீதிமன்றத்தில் தாக்கல் செய்துள்ள வர்த்தகர் சிடி லெனேவா  தான் தனது சொந்த விருப்பத்தின் பேரிலேயே செயற்பட்டதாக தெரிவித்துள்ளார்.
+
+அரசமைப்பின் 19 வது திருத்தம் உரிய முறையில் நிறைவேற்றப்படவில்லை என தான் கருதுவதாக தெரிவித்துள்ள அவர்  இந்த தவறு குறித்து தான் மக்களின் கவனத்தை ஈர்ப்பதற்கு தீர்மானித்ததாகவும் தெரிவித்துள்ளார்.
+
+இந்த விடயம்குறித்து நீதிமன்றத்திடமிருந்து தெளிவுபடுத்தல்களை பெறும் நோக்கத்துடன் நான் செயற்பட்டேன் என அவர் தெரிவித்துள்ளார்.
+
+எனக்கு பின்னால் எந்த அரசியல் சக்தியும் இல்லை எனக்கு அரசியல் நோக்கம் எதுவும் இல்லைஎனவும் அவர் தெரிவித்துள்ளார்.
 
 ...
 
+[Data](articles/7caba7a0.json)
+
+---
+
+### Nurses’ union decides not to join trade union action
+
+*2024-07-07 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100346/nurses-union-decides-not-to-join-trade-union-action-) · `en`
+
+The All Ceylon Nurses’ Union stated they will not be joining the public sector employees’ trade union action scheduled to be carried out tomorrow (08) and the day after (09).
+
+The General Secretary of the union H. M. S. B. Mediwatta has stated that implementing strikes would cause inconveniences to the patients and the people of the country.
+
+He further stated that despite existing issues in the health sector, this is not an appropriate time for strikes and also he warned that they would support the public at the earliest opportunity to help oust the government.
+
+◼️
+
+[Data](articles/8160c99a.json)
+
+---
+
+### 78 -year -old woman abuse;The student was arrested
+
+*2024-07-07 11:18:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/78-வயதுடைய-பெண்-துஷ்பிரயோகம்-மாணவன்-கைது/76-339967) · `ta`
+
+A 17-year-old girl is held until the 8th of this month for allegedly murdering a 78-year-old woman found dead in the Thorawala River in Balangoda. The victim, identified as Syria, was suspected to have drowned, but an autopsy revealed signs of physical abuse. The suspect was arrested by the Balangoda police and is awaiting trial.
+
+🟩
+
+A 17 -year -old schoolgirl has been remanded until the 8th of this month in connection with the murder of a 78 -year -old woman in Balangoda.
+
+ML from Mukunamalai, Balangoda. A woman named Syria was recovered from the Thorawala river that evening as she went to the Torawala River to bathe on the 27th.
+
+The post -mortem was conducted at the Balangoda Resource Hospital, suspected that the woman may have died in the water.
+
+In addition, the legal officer conducted the examination that he had been abused and murdered by his neck and mouth.
+
+The suspect, a 17 -year -old schoolgirl, was arrested by the suspect, who was arrested by the Balangoda police and was produced before Magistrate DM Chandrasekhara.The magistrate ordered the prison authorities to be involved.
+
+◼️
+
 [Data](articles/c31295fc.json)
+
+[Extended Data](ext_articles/c31295fc.ext.json)
 
 ---
 
@@ -61,6 +127,8 @@ The rare conch shell, weighing 01kg and 105g, and the arrested suspect have been
 ◼️
 
 [Data](articles/0ca27a5e.json)
+
+[Extended Data](ext_articles/0ca27a5e.ext.json)
 
 ---
 
@@ -85,6 +153,18 @@ The suspects are residents of Embilipitiya and the police have revealed that the
 [Data](articles/78fd17a2.json)
 
 [Extended Data](ext_articles/78fd17a2.ext.json)
+
+---
+
+### தொன்மங்களைப் பறிக்கும் பௌத்தம் -  பகுதி 02
+
+*2024-07-07 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/187875) · `ta`
+
+“வடக்கு, கிழக்கில் தொல்பொருளியல் பகுதிகளாக அடையாளம் காணப்பட்ட அனைத்துப் பகுதிகளும் பௌத்தத்தின் வரலாற்றுத் தொன்மங்களாக்கப்பட்டு ஆக்கிரமிக்கப்படும் துர்ப்பாக்கிய நிலை ஏற்பட்டுள்ளது...”
+
+◼️
+
+[Data](articles/8b272349.json)
 
 ---
 
@@ -611,6 +691,28 @@ Ukrainian authorities said that action is being taken to file a criminal case.
 [Data](articles/50a966cb.json)
 
 [Extended Data](ext_articles/50a966cb.ext.json)
+
+---
+
+### Sri Lanka engaging with local banks on sovereign bonds restructure
+
+*2024-07-07 08:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-engaging-with-local-banks-on-sovereign-bonds-restructure-171159/) · `en`
+
+ECONOMYNEXT – Sri Lanka is engaging with local banks on their sovereign bond holdings, State Minister for Finance Shehan Semasinghe said after a deal was struck with foreign investors to restructure bonds.
+
+Sri Lanka has now reached final or in-principle deals with most of the debt with domestic rupee debt completed, bilateral debt also final agreements also being reached as well as the latest deal with foreign investors holding sovereign bonds.
+
+However about 15 percent of the sovereign bonds outstanding are held with private local banks, who have their own advisors.
+
+“…It is important to pay attention to the balance figure, the central bank and our advisors and the ministry of finance will attend,” Minister Semansinghe said.
+
+The deal with foreign sovereign bond holders indicated a 28 percent initial hair-cut which will be reduced to 15 percent if GDP grows at a certain speed.
+
+Sri Lanka banks have provided for about 50 percent or more of the holdings, Fitch Ratings has reported.
+
+...
+
+[Data](articles/d0ed2259.json)
 
 ---
 
@@ -2149,131 +2251,5 @@ The project will be implemented with the request of the Minister of Industry and
 [Data](articles/da4a151f.json)
 
 [Extended Data](ext_articles/da4a151f.ext.json)
-
----
-
-### 200 smart classrooms and 2,000 Tabs for Southern Province schools
-
-*2024-07-06 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100330/200-smart-classrooms-and-2000-tabs-for-southern-province-schools) · `en`
-
-President Ranil Wickremesinghe emphasized the necessity of an advanced education system combined with modern technology to move the country forward with a new economy. He noted that educational reforms are currently underway to achieve this goal.
-
-President Rani Wickremesinghe made these remarks today (06) during a ceremony at Hall De Galle in Galle. The event marked a significant step towards educational modernization, with the provision of 200 Smart Classrooms and 2000 Tabs to 200 schools in the Southern Province.
-
-Following a request by the Minister of Health and Industry, Dr. Ramesh Pathirana, the Government of India allocated RS. 300 million to the Southern Provincial Council for this project.
-
-Of the 200 schools selected schools, 150 are in the Galle district, while the remaining 50 schools are in the Hambantota and Matara districts.
-
-Additionally, 2000 Tabs were distributed, with each of the 200 classrooms receiving 10 tabs.
-
-...
-
-[Data](articles/469e8369.json)
-
-[Extended Data](ext_articles/469e8369.ext.json)
-
----
-
-### People should come forward to proclaim the mourning of the white flag in the east on the day of Sambandan:. Khalilurrahman
-
-*2024-07-06 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/187814) · `ta`
-
-Khalilurrahman calls for mourning the white flag in the East on Sambandan Day, honoring late Senior Parliamentarian Amarar Sampanthan. His funeral, attended by Sri Lankan and foreign politicians, will be held in Trincomalee. The Treasurer of the United Peace Alliance and former Colombo Municipal Council member urges the Eastern Province to pay respects. Sampanthan's loss shocks Tamils, highlighting his significant contributions to minority rights in Sri Lanka.
-
-🟩
-
-Senior Parliamentarian Amarar, former leader of the Tamil National Alliance and former Opposition Leader. Sampanthan's funeral will be held in Trincomalee tomorrow, with Sri Lankan political figures and foreign major politicians to attend.
-
-The Treasurer of the United Peace Alliance and a former member of the Colombo Municipal Council (IA), the Sri Lankans, especially the people of the Eastern Province, should come forward to pay homage to the white flag in all areas of the East tomorrow.. Khalilurrahman has asked through a report.
-
-The senior political personality of the relationship between the Tamil people and the Muslim people. Sampanthan's demise has caused shock and deep concern among the Tamil -speaking people.
-
-We, Sri Lankans, are obliged to pay tribute to the political personality that has worked tirelessly for the minority communities to provide the highest political solution to the minority communities in Sri Lanka.
-
-...
-
-[Data](articles/d4edb82e.json)
-
-[Extended Data](ext_articles/d4edb82e.ext.json)
-
----
-
-### 9 hospitalized after another bus accident
-
-*2024-07-06 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198532) · `si`
-
-Nine people were hospitalized after a bus accident near Halpe, Sri Lanka. The bus, recently inaugurated and traveling from Badawela to Bandarawela, is under investigation for its involvement in the incident.
-
-🟩
-
-The bus belonging to the Sri Lanka Transport Board, who was traveling from Badawela to Bandarawela, has been inaugurated in Halpe.
-
-The bus is suspected of accident.
-
-◼️
-
-[Data](articles/3f848993.json)
-
-[Extended Data](ext_articles/3f848993.ext.json)
-
----
-
-### ‘As long as country faces budget deficit, borrowing is necessary’ – CBSL Governor
-
-*2024-07-06 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100329/as-long-as-country-faces-budget-deficit-borrowing-is-necessary-cbsl-governor) · `en`
-
-In a recent interview, Governor of the Central Bank of Sri Lanka Dr Nandalal Weerasinghe addressed misconceptions regarding Sri Lanka’s total debt, clarifying that the increase from USD 96 billion in December 2023 to a projected USD 100 billion by March 2024 is largely due to exchange rate fluctuations rather than new borrowing.
-
-Joining an interview held at the Presidential Media Centre on Friday (05), the CBSL Governor said that despite a detailed explanation of this made by President Ranil Wickremesinghe in Parliament recently, some have mistakenly interpreted the rise as an increase from USD 70 billion to USD 100 billion.
-
-Commenting in this regard, Dr. Weerasinghe added: “The status of the debt as of March 2024 was outlined in the Debt Bulletin you referenced. The entire loan amount is denominated in US dollars, totaling USD 100 billion. As you know, our country manages both domestic and foreign debts, with foreign loans typically in dollars.
-
-...
-
-[Data](articles/36cef0b8.json)
-
-[Extended Data](ext_articles/36cef0b8.ext.json)
-
----
-
-### Aruna scenes into Paris Olympics
-
-*2024-07-06 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198531) · `si`
-
-Sri Lanka's Aruna qualifies for Paris Olympics in athletics.
-
-🟩
-
-Sri Lanka Athletic Aruna scenes have been eligible for this year's Paris Olympics.
-
-◼️
-
-[Data](articles/97b56bda.json)
-
-[Extended Data](ext_articles/97b56bda.ext.json)
-
----
-
-### Sri Lanka’s Aruna Darshana qualifies for Paris Olympics
-
-*2024-07-06 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/100328/sri-lankas-aruna-darshana-qualifies-for-paris-olympics) · `en`
-
-Sri Lankan sprinter Aruna Darshana has qualified to compete at the 2024 Paris Olympics.
-
-Accordingly, he will represent Sri Lanka in the Men’s 400m event.
-
-Darshana joins the Sri Lankan athletics team for the Paris Olympics with Tharushi Karunaratne and Nadeesha Lekamge.
-
-Aruna Darshana recently showcased his exceptional speed and skill on the track achieving an impressive second-place finish in the 400-meter event at an international athletics tournament held in the Bahamas, clocking a personal best time of 45.90 seconds.
-
-He also managed to win the gold medal in the 400m event at the 2nd Belt and Road Invitational Athletics Championship held in China.
-
-He was tipped by many in the circles that he could follow in the footsteps of former veteran athlete Sugath Thilakaratne. He won the men’s 400m event during the 2018 National Athletics Championships by clocking at 46.16.
-
-◼️
-
-[Data](articles/157fc7b2.json)
-
-[Extended Data](ext_articles/157fc7b2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 12:36:05**
+As of **2024-07-07 12:54:02**
 
 ## Newspaper Stats
 
-*Scraped **34,040** Articles*
+*Scraped **34,043** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,004
 dailyftlk | 2,115
-adalk | 3,037
-adaderanalk | 3,899
+adalk | 3,038
+adaderanalk | 3,900
 tamilmirrorlk | 4,033
 dailymirrorlk | 4,733
 virakesarilk | 5,331
-adaderanasinhalalk | 5,656
+adaderanasinhalalk | 5,657
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,040 (100.0%) of 34,040 articles have been extended.
+34,040 (100.0%) of 34,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### Postal workers to launch 48-hour token strike
+
+*2024-07-07 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100348/postal-workers-to-launch-48-hour-token-strike-) · `en`
+
+The co-convener of the United Postal Trade Unions’ Front, Chinthaka Bandara says that they have decided to engage in a 48-hour token strike tomorrow (08) and the day after (09).
+
+Speaking at a press conference, he stated that the token strike would commence from 4.00 p.m. today (07) at the Central Mail Exchange in Colombo.
+
+However, this trade union action would be commenced across all other post offices from midnight today.
+
+He further emphasised that they have launched this trade union action based on three demands.
+
+◼️
+
+[Data](articles/ffd4da52.json)
+
+---
+
+### ආදායම් වාර්තා තැබු චිත්‍රපට නිෂ්පාදකයා දිවියට සමුදෙයි
+
+*2024-07-07 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198567) · `si`
+
+ලොව ආදායම් වාර්තා තැබූ ටයිටැනික් සහ අවටාර් යන චිත්‍රපට වල නිෂ්පාදකයා වූ ඔස්කාර් සම්මානලාභී ජොන් ලැන්ඩව් ජීවිතක්ෂයට පත්වී තිබේ.
+
+ඔහු පසුගිය වසර පුරාවට පිළිකා රෝගයෙන් පීඩා විඳිමින් සිටි බව සඳහන් ය.
+
+ඔහුගේ මරණය සම්බන්ධයෙන් සොයුරිය වන ටීනා පවසා ඇත්තේ "ගැහැණු ළමයෙකුට හිමිවිය යුතු හොඳම සහෝදරයා.." ඔහු බවයි.
+
+◼️
+
+[Data](articles/7de95d45.json)
+
+---
 
 ### The desire was stolen
 
@@ -195,6 +229,22 @@ He said that more and more petitions were welcomed on the issue, he said.
 [Data](articles/7caba7a0.json)
 
 [Extended Data](ext_articles/7caba7a0.ext.json)
+
+---
+
+### වාද්දූව පෙරහරකත් ඇතෙක්ගේ පහරදීමක්
+
+*2024-07-07 11:23:50* · [`adalk`](https://www.ada.lk/breaking_news/වාද්දූව-පෙරහරකත්-ඇතෙක්ගේ-පහරදීමක්/11-410638) · `si`
+
+වාද්දුව ප්‍රදේශයේ විහාරස්ථානයක ඊයේ (06දා) රාත්‍රි පැවැති පෙරහැරක ගමන්ගත් ඇතෙක් සහායක ඇත්ගොව්වෙකුට පහරදී රෝහල් ගතකර ඇති බව වාද්දුව පොලිසිය පවසයි .
+
+පෙරහැර විහාරස්ථානයෙන් පිටත්ව වෙරළ පාර ඔස්සේ ගාලුපාර දෙසට ගමන් කරන අතරතුර පහරදීම සිදුකර ඇති බව සදහන් වේ.
+
+පරදිමෙන් පසු ඇතා පරිශ්‍රමයක් දරා පෙරහැරෙන් ඉවත් කිරිමට බළධාරින් පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/c7319874.json)
 
 ---
 
@@ -2209,87 +2259,5 @@ Tourism earnings in June were estimated at $151.1 million, up from $122.9 millio
 [Data](articles/fed7a6c2.json)
 
 [Extended Data](ext_articles/fed7a6c2.ext.json)
-
----
-
-### Appointment of the deaths today to find out the cause of Chandi's death
-
-*2024-07-06 13:55:55* · [`adalk`](https://www.ada.lk/breaking_news/චන්ඩිගේ-මරණයට-හේතුව-සොයා-අද-මරණ-පරීක්ෂණයක්/11-410630) · `si`
-
-Wildlife officials discovered Chandi, an elephant, dead near a tank in Galgamuwa, suspecting disease or conflict as causes. Post-mortem examinations are underway to determine the exact cause of death.
-
-🟩
-
-The wildlife officials found the dead at the tank at the Galgamuwa, Ehetuwewa Kaduruwewa village in the Galgamuwa, the death of a single door called Chandi.
-
-From the time, the wildlife officials were trained in a few occasions when the total approximately a single approximate to various diseases.
-
-The elephant was back to the Madagamuwa Oya and Horowpathana, so many people were taken up again.
-
-Chandi, finding the cause of this Aposta, the post mortem examination is suspicious that they have died due to a clash caused by a clash with a problem.
-
-◼️
-
-[Data](articles/cf7a941e.json)
-
-[Extended Data](ext_articles/cf7a941e.ext.json)
-
----
-
-### Notice to the non-academic staff
-
-*2024-07-06 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198535) · `si`
-
-Dr. Suren Sanghavan, State Minister of Higher Education, acknowledges the challenges faced by young people and the non-academic staff of universities. He pledges to address their concerns, including salary anomalies and the introduction of a Hillawa allowance, in the upcoming Budget 2025. However, the ongoing strike by non-academic employees across 17 state universities since June 6th highlights their urgency. The Ministry of Education supports the strike, promising no punishment for participants, but notes that addressing these issues will be considered in future budgets due to current constraints.
-
-🟩
-
-State Minister of Higher Education Dr. Suren Sanghavan says that although the country has further confused the lives of young people who are in charge of the country, he is asked to report their time to work.
-
-He says he promises to include the demands of the University Alleviation Staff to the Budget 2025 through the Committee.
-
-However, the strike commenced in the university non-academic employees on the 67th today (06).
-
-University non-academic workers are engaged in a trade union action of 17 state universities asking for their monthly Hillawa and salary anomalies from 2016.
-
-In this backdrop, the Ministry of Education has sent a letter to university allocation workers involved.
-
-It indicates that the monthly Hillawa allowance should be given to the non-academic staff as he was based on this trade union action.
-
-However, these demands are to be considered in the next budget as these requests are difficult at this time.
-
-...
-
-[Data](articles/108fc35b.json)
-
-[Extended Data](ext_articles/108fc35b.ext.json)
-
----
-
-### Bora Conference;Special Transport Plan in Colombo
-
-*2024-07-06 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/187819) · `ta`
-
-Ahead of the Bora Spiritual Conference in Colombo (7th-16th), a special traffic plan will close several roads near Marine Drive, Colombo Fort, and Bambalapitiya during specific hours daily. This affects entry points due to the expected arrival of around 15,000 attendees from various countries, including India.
-
-🟩
-
-Police Media Spokesperson SSP Nihal Talduwa said that a special traffic scheme will be implemented in Colombo ahead of the Bora Spiritual Conference.
-
-The Bora Spiritual Conference will be held from the 07th to the 16th at the Bambalapitiya Bora School and the Sri Lanka Exhibition Conference Hall.
-
-For this conference, about fifteen thousand bore community from many countries, including India, will come to the country.
-
-In this context, many roads entering the Marine Drive in Galle Road, Colombo Fort and Bambalapitiya will be closed for a few hours from the 07th to the 16th of this month.
-
-Accordingly, the roads will be closed from 8:00 am to 11:00 pm, 1:00 pm to 3:00 pm and from 5:00 pm to 10:00 pm.PB Nihal Talduwa said.
-
-He also said that traffic restrictions will be imposed in the surrounding areas where the conference is held.
-
-◼️
-
-[Data](articles/fd4312f6.json)
-
-[Extended Data](ext_articles/fd4312f6.ext.json)
 
 ---

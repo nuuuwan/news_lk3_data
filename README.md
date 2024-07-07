@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 22:53:15**
+As of **2024-07-07 23:04:48**
 
 ## Newspaper Stats
 
@@ -38,7 +38,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 President’s Fund scholarship program for students from low-income families, spanning from grade 1 to grade 11 and G.C.E. (A/L), will be implemented at the district level starting from July 12, 2024.
 
-District secretaries, in collaboration with all zonal education offices and school principals, will oversee the scholarship distribution process.
+District secretaries, in collaboration with all zonal education offices and school principals, will oversee the scholarship distribution process, the PMD said.
 
 Details regarding the dates, times and venues for scholarship awards in each district, as well as the list of selected scholarship recipients, will be announced. This information will be published on the official Facebook page of the President’s Fund in the coming days.
 

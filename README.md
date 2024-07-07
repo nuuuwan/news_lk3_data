@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 18:35:42**
+As of **2024-07-07 18:54:03**
 
 ## Newspaper Stats
 
-*Scraped **34,095** Articles*
+*Scraped **34,097** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,77 +16,145 @@ islandlk | 1,914
 economynextcom | 2,004
 dailyftlk | 2,115
 adalk | 3,048
-adaderanalk | 3,906
+adaderanalk | 3,907
 tamilmirrorlk | 4,045
 dailymirrorlk | 4,733
 virakesarilk | 5,342
-adaderanasinhalalk | 5,670
+adaderanasinhalalk | 5,671
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,091 (100.0%) of 34,095 articles have been extended.
+34,095 (100.0%) of 34,097 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### முதலீடுகள், வட்டி வருமானம், வரி
+### Russia’s Voronezh region declares emergency after Ukraine drone attack
+
+*2024-07-07 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100357/russias-voronezh-region-declares-emergency-after-ukraine-drone-attack) · `en`
+
+A state of emergency was introduced in parts of Russia’s Voronezh region after a Ukrainian drone attack sparked a warehouse fire, the governor of the western region bordering Ukraine said on Sunday.
+
+“There were no casualties,” Alexander Gusev said on the Telegram messaging app, adding that some residents in the Podgorensky district of the region were being evacuated.
+
+Ukraine’s retalliatiatory strike comes in light of Russia launching an overnight drone attack across Ukraine on June 6, hitting an energy facility in the Sumy region in the northeast of the country, officials said.
+
+Hence, Ukrainian mobile drone hunter groups and air defence units shot down 24 of the 27 Russian drones fired on 12 regions, the air force said.
+
+Since March, Russian forces have intensified their bombardments of the Ukrainian power sector.
+
+◼️
+
+[Data](articles/a89b53cd.json)
+
+---
+
+### ගාල්ලෙන් නුවරට දැඩි ප්‍රහාරයක්
+
+*2024-07-07 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198581) · `si`
+
+ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ ගෝල් මාර්වල්ස් සහ කැන්ඩි ෆැල්කන්ස් අතර පැවති තරගය පහසුවෙන් ජය ගැනීමට ගෝල් මාර්වල්ස් කණ්ඩායම සමත් විය.
+
+දඹුල්ලේ පැවති මෙම තරගයේ පළමුව පන්දුවට පහරදුන් කැන්ඩි ෆැල්කන්ස් කණ්ඩායම සිය පන්දු ඕවර 20 දී කඩුලු 7ක් දැවී ලකුණු 175ක් ලබාගත්තේය.
+
+ආරම්භක පිතිකරු ඇන්ඩ්‍රෙ ෆ්ලෙචර් ලකුණු 50ක් ලබාගත් අතර නායක වනිඳු හසරංග පන්දු 32කට නොදැවී ලකුණු 65ක් ලබාගත්තේය.
+
+පන්දු යැවීමේදී ඉසුරු උදාන ලකුණු 30කට කඩුලු 3ක් දවාගත් අතර සහූර් ඛාන් ලකුණු 29කට කඩුලු 2ක් දවාගත්තේය.
+
+ඊට පිළිතුරු ලෙස ජයග්‍රහණයට අවශ්‍ය ලකුණු ගණන කඩුලු 4ක් පමණක් දැවී ලබාගැනීමට ගෝල් මාර්වල්ස් කණ්ඩායම සමත්විය.
+
+ඒ අනුව පන්දු ඕවර 17.1කදී ලකුණු 176ක් ලබාගැනීමට ගෝල් ක්‍රීඩකයෝ සමත්වූහ.
+
+◼️
+
+[Data](articles/22da0180.json)
+
+---
+
+### Investments, interest income, tax
 
 *2024-07-07 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187905) · `ta`
 
-கால மற்றும் தொழில்நுட்ப மாற்றத்தை உள்வாங்கி இன்று பல புதிய சேமிப்பு முறைகளை வர்த்தக வங்கிகளும், நிதி நிறுவனங்களும் மக்களுக்கு வழங்கி வருவதனை நாம் நடைமுறையில் பார்க்கக் கூடியதாக இருக்கின்றது. “மாற்றம் ஒன்றே மாறாது” என்ற வாசகத்திற்கிணங்க, மக்களுக்கு தங்கள் வருமானத்திற்கேற்ப சேமிக்கும் முறையை இந்த புதிய மாற்றம் ஏற்படுத்திக் கொடுத்துள்ளது என்பதை ஏற்றுக்கொண்டே தீரவேண்டும்.
+Commercial banks now offer innovative savings systems adapting to modern times. These changes allow individuals to save based on their income levels, emphasizing flexibility and adaptability in financial management.
+
+🟩
+
+It is possible to see that commercial banks and financial institutions are providing many new savings systems today to embrace the time and technology change.. According to the text, "change is not changed," must be acknowledged that this new change has made the people the savings of their income according to their income.
 
 ◼️
 
 [Data](articles/463220c0.json)
 
+[Extended Data](ext_articles/463220c0.ext.json)
+
 ---
 
-### பிரான்ஸிய தேசியவாத எழுச்சி
+### Francian nationalist rise
 
 *2024-07-07 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187907) · `ta`
 
-தேசிய பேரணியின் தலைவி மொரீன் லா பென் நாட்டின் பாராளுமன்றத்தை கைப்பற்றுவதற்கு 18கதிரைகள் மட்டுமே தேவை என்ற வகையில் நாடு பூராகவும் எழுச்சியை உருவாக்கும் வகையில் வெற்றிப்பாதையில் சென்று கொண்டிருக்கிறார். இந்நிலையில் பிரான்ஸின் தற்போதைய ஜனாதிபதி இமானுவல் மக்ரோன் தனது மறுமலர்ச்சிக் கட்சியின் பிரசார நடவடிக்கைகளை மிக வேகமாக அதிகரித்துள்ளார்.
+Maureen La Ben leads Francian nationalists, aiming to seize 18 parliamentary seats. This move follows President Emanuel Macron's intensified campaign for his Renaissance party.
+
+🟩
+
+The leader of the national rally, Maureen La Ben, is on the road to create a rise in the country, as there are only 18 rays to take over the country's parliament.. In this case, France's current President Emanuel Macron has rapidly increased his Renaissance party's campaign.
 
 ◼️
 
 [Data](articles/68850d16.json)
 
+[Extended Data](ext_articles/68850d16.ext.json)
+
 ---
 
-### ரணில் விக்ரமசிங்கவை ஆதரிக்க தீர்மானம்; கருணா
+### Resolution to support Ranil Wickremesinghe;Compassionate
 
 *2024-07-07 18:09:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-விக்ரமசிங்கவை-ஆதரிக்க-தீர்மானம்-கருணா/175-339989) · `ta`
 
-ஜனாதிபதியின் பதவி நீடிக்கப்படா விட்டாலும் இந்த நாட்டில் உள்ள பெரும்பான்மையான மக்கள் ரணில் விக்கிரமசிங்கவை ஆதரிக்க தீர்மானித்துள்ளனர் என தமிழர் ஐக்கிய சுதந்திர முன்னணியின் தலைவரும் முன்னாள் பிரதியமைச்சருமான விநாயகமூர்த்தி முரளிதரன் தெரிவித்துள்ளார்.
+Despite the non-extension of his presidency, Ranil Wickremesinghe enjoys widespread support across the nation, especially among Tamil Muslims in the Northeast. The Tamil United Freedom Alliance (UPFA) recently provided livelihood assistance in Batticaloa, highlighting Wickremesinghe's efforts to secure international aid. UPFA leaders emphasize Wickremesinghe's talent and contributions, noting his ability to address the country's challenges effectively. They also mourn the loss of Samanthan Sir, expressing sympathy and acknowledging his impact during his tenure in Parliament. UPFA aims to safeguard Tamil rights, inviting other parties to unite under its banner amidst internal shifts within the Tamil National Alliance.
 
-மட்டக்களப்பில் இன்று தமிழர் ஐக்கிய சுதந்திர முன்னணியின் ஏற்பாட்டில் முன்னாள் போராளிகளுக்கு வாழ்வாதார உதவிகள் வழங்கும் நிகழ்வு நடைபெற்றது.
+🟩
 
-இதன் போது மட்டக்களப்பு மாவட்டத்தில் தெரிவு செய்யப்பட்ட பயனாளிகளுக்கு இந்த வாழ்வாதார உதவி வழங்கி வைக்கப்பட்டன.
+The majority of the people in this country have decided to support Ranil Wickremesinghe, even though the president's post is not extended, said Vinayagamoorthy Muralitharan, the leader of the Tamil United Freedom Alliance and former Deputy Minister.
 
-தமிழர் ஐக்கிய சுதந்திர முன்னணியின் உபதலைவர் ஜெயா.சரவணன் தலைமையில் நடைபெற்ற இந்த நிகழ்வில் தமிழர் ஐக்கிய சுதந்திர முன்னணியின் தலைவரும் முன்னாள் பிரதியமைச்சருமான விநாயகமூர்த்தி முரளிதரன் பிரதம அதிதியாக கலந்துகொண்டார்.
+The Tamil United Freedom Alliance (UPFA) organized a livelihood assistance to ex -combatants in Batticaloa today.
 
-இதன்போது கலந்து கொண்டு  கருத்துத் தெரிவிக்கும் போதே அவர் இவ்வாறு குறிப்பிட்டார். அவர் அங்கு மேலும் தெரிவிக்கையில்,
+The livelihood assistance was provided to the selected beneficiaries in the Batticaloa district.
+
+Vinayagamoorthy Muralitharan, the leader of the Tamil United Freedom Alliance (UPFA), was the chief guest at the event, chaired by the Vice President of the Tamil United Freedom Alliance, Jaya Saravanan.
+
+He said this while participating in the event.. He said more,
+
+I see the president's demand for the issue in the politics to extend the president's term. Today's president is a talented man who brought it to us in a short time when there was a queue age in this country.
 
 ...
 
 [Data](articles/e9e6fbfc.json)
 
+[Extended Data](ext_articles/e9e6fbfc.ext.json)
+
 ---
 
-### இடைக்கால பயிற்றுவிப்பாளர் சனத் ஜயசூரிய
+### Interim Instructor Sanath Jayasuriya
 
 *2024-07-07 18:09:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடைக்கால-பயிற்றுவிப்பாளர்-சனத்-ஜயசூரிய/175-339988) · `ta`
 
-இந்தியா மற்றும் இங்கிலாந்து அணிகளுடனான கிரிக்கெட் தொடர்களுக்காக பயிற்றுவிப்பாளராக சனத் ஜயசூரிய நியமிக்கப்பட்டுள்ளார்.
+Sanath Jayasuriya takes over as coach for the upcoming cricket series against India and England, following Chris Silverwood's resignation from his position as the chief coach of the Sri Lankan team.
 
-இலங்கை அணியின் தலைமை பயிற்றுவிப்பாளராக இருந்த கிறிஸ் சில்வர்வூட் அண்மையில் இராஜினாமா செய்திருந்தார்.
+🟩
+
+Sanath Jayasuriya has been appointed as the coach for the cricket series with India and England.
+
+Chris Silverwood, the chief coach of the Sri Lankan team, recently resigned.
 
 ◼️
 
 [Data](articles/3b762457.json)
+
+[Extended Data](ext_articles/3b762457.ext.json)
 
 ---
 
@@ -2251,47 +2319,5 @@ Former President Mahinda Rajapaksa said that the people should take action with 
 [Data](articles/fe9003d1.json)
 
 [Extended Data](ext_articles/fe9003d1.ext.json)
-
----
-
-### The prevailing rain condition is further
-
-*2024-07-07 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198552) · `si`
-
-Heavy rainfall expected across various regions including Western, Sabaragamuwa, Northwestern provinces, and specific districts like Kandy, Nuwara Eliya, Galle, Matara, Ampara, Batticaloa, Trincomalee, Hambantota, and Moneragala. Strong winds of 40-50 km/h possible. Public advised to prepare for potential wind and lightning hazards due to thunderstorms.
-
-🟩
-
-The rainy section of the island can further expect the extent of the island.
-
-The department states that showers will be possible in the Western, Sabaragamuwa and Northwestern provinces, in the Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The Department of Meteorology announces that 40-50 could cause strong winds.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/f4685341.json)
-
-[Extended Data](ext_articles/f4685341.ext.json)
-
----
-
-### Teaching, Work, and Business in Europe
-
-*2024-07-07 03:57:00* · [`islandlk`](http://island.lk/teaching-work-and-business-in-europe/) · `en`
-
-In 1990, when I was the Acting Director of the School of Hotel Management at Schiller International University (SIU) and a doctoral student at the University of Surrey in the UK, my schedule was packed. One day, my boss, Dr. Richard Taylor, the Director of the London Campus of SIU, called me to his office.
-
-“Chandi,” he said, “I know you teach a full load of four courses to our MA and BBA students in the Hotel Management programs. We have an Associate Business Administration (ABA) program in International Tourism Management at another campus. To establish a clear pathway for those ABA students to join the BBA program in their third year, I would like you to become familiar with this program, its students, curricula, and campus. Can you teach two additional travel and tourism courses at the ‘Historic’ Wickham Court Study Centre?”
-
-...
-
-[Data](articles/95815563.json)
-
-[Extended Data](ext_articles/95815563.ext.json)
 
 ---

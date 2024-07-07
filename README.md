@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 04:19:29**
+As of **2024-07-08 04:35:04**
 
 ## Newspaper Stats
 
-*Scraped **34,139** Articles*
+*Scraped **34,141** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,052
 adaderanalk | 3,910
 tamilmirrorlk | 4,053
 dailymirrorlk | 4,733
-virakesarilk | 5,347
+virakesarilk | 5,349
 adaderanasinhalalk | 5,676
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,139 (100.0%) of 34,139 articles have been extended.
+34,139 (100.0%) of 34,141 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -158,6 +158,20 @@ The private residence at Gower Street Colombo that won for Best Residential Inte
 
 ---
 
+### திருமலையில் அக்கினியுடன் சங்கமித்தது சம்பந்தனின் பூதவுடல்: உணர்வெழுச்சியுடன் பிரியாவிடை; ஜனாதிபதி ரணில், பா.ஜ.க.தலைவர் அண்ணாமலை உட்பட பல்வேறு தரப்பினரும் பங்கேற்பு
+
+*2024-07-08 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/187934) · `ta`
+
+இலங்கைத் தமிழரசுக் கட்சியின் சிரேஷ்ட தலைவரும், திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இராஜவரோதயம் சம்பந்தனின் பூதவுடல் ஜனாதிபதி ரணில் விக்கிரமசிங்க, பா.ஜ.க.தலைவர் அண்ணாமலை உட்பட ஆயிரக்கணக்கானவர்களின் பங்கேற்புடன் உணர்வெழுச்சியுடன் இறுதிமரியாதை அளிக்கப்பட்டு அக்கினியுடன் சங்கமித்தது.
+
+கடந்த ஞாயிற்றுக்கிழமை தனது 91வயதில் இயற்கை எய்திய இராஜவரோதயம் சம்பந்தனின் இறுதி சமயக்கிரியைகள், இலக்கம் 115, அஞ்சல் நிலைய வீதியிலுள்ள அன்னாரின் இல்லத்தில் நேற்றுக்காலை 10 மணிக்கு ஆரம்பமாகி பிற்பகல் ஒரு மணியளவில் நிறைவு பெற்றன.
+
+...
+
+[Data](articles/e3209000.json)
+
+---
+
 ### Nilrandha Fonseka and Ranura Perera crowned National Champions of prestigious AYDA Awards 2023/2024
 
 *2024-07-08 01:57:37* · [`dailyftlk`](https://www.ft.lk/business/Nilrandha-Fonseka-and-Ranura-Perera-crowned-National-Champions-of-prestigious-AYDA-Awards-2023-2024/34-763968) · `en`
@@ -214,6 +228,32 @@ His remains will lie at the Jayarathna Respect Home (VIP Parlour) from 9 a.m. to
 
 ---
 
+### Tension at Chavakachcheri Hospital
+
+*2024-07-08 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/187932) · `ta`
+
+A dispute at Chavakachcheri Hospital led to attempts to remove its Medical Superintendent, Ramanathan Archana, due to alleged mismanagement. The Health Ministry issued a letter ordering her removal, but she refused to accept it outside office hours. This refusal escalated tensions, leading to police intervention. Ramanathan claimed responsibility for a patient's death under her care, complicating the situation further.
+
+🟩
+
+An attempt has been made to remove the medical superintendent in response to the Chavakachcheri Hospital.
+
+In response to the Chavakachcheri Resource Hospital, Ramanathan Archana, who is serving as the Medical Superintendent, has been given a letter of Health, which orders the relocation of the Health Ministry.
+
+When the medical superintendent Ramanathan tried to hand over the letter at 7 pm, the doctor who refused to accept it was not office time.
+
+Meanwhile, the Chavakachcheri police have been mobilized at the hospital to arrest the superintendent.
+
+Meanwhile, he told the police that he was responsible for the death of a hospital at the time if he was arrested and taken to the hospital.
+
+◼️
+
+[Data](articles/96194846.json)
+
+[Extended Data](ext_articles/96194846.ext.json)
+
+---
+
 ### Ali Sabry in Singapore on official visit
 
 *2024-07-08 01:49:22* · [`dailyftlk`](https://www.ft.lk/news/Ali-Sabry-in-Singapore-on-official-visit/56-763965) · `en`
@@ -229,6 +269,26 @@ The Minister is also scheduled to take part in the Reuters NEXT Asia-Pacific Sum
 [Data](articles/ae5907f7.json)
 
 [Extended Data](ext_articles/ae5907f7.ext.json)
+
+---
+
+### கலம்போ ஸ்ட்ரைக்கர்ஸை வீழ்த்தி முதலாவது வெற்றியை சுவைத்தது தம்புள்ள சிக்சர்ஸ்
+
+*2024-07-08 01:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/187933) · `ta`
+
+ரங்கிரி, தம்புள்ள சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் இன்று ஞாயிற்றுக்கிழமை (07) நடைபெற்ற 5ஆவது லங்கா பிறீமியர் லீக் அத்தியாயத்தின் 10ஆவது போட்டியில் கலம்போ ஸ்ட்ரைக்கர்ஸ் அணியை எதிர்த்தாடிய தம்புள்ள சிக்சர்ஸ் அணி 8 விக்கெட்களால் அமோக வெற்றியீட்டியது.
+
+இந்த வருட லங்கா பிறீமியர் லீக் கிரிக்கெட்டில் தம்புள்ள சிக்சர்ஸ் ஈட்டிய முதலாவது வெற்றி இதுவாகும். முதல் 3 போட்டிகளில் தோல்வி அடைந்த தம்புள்ள சிக்சர்ஸுக்கு இந்த வெற்றி உற்சாகத்தைக் கொடுத்துள்ளது.
+
+குசல் ஜனித் பெரேரா, ரீஸா ஹெண்ட்றிக்ஸ் ஆகியோர் அற்புதமாக துடுப்பெடுத்தாடி அரைச் சதங்கள் குவித்து தம்புள்ள சிக்சர்ஸ் அணியின் வெற்றியில் பெரும் பங்காற்றினர்.
+
+கலம்போ ஸ்ட்ரைக்கர்ஸ் அணியினால் நிர்ணயிக்கப்பட்ட 186 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய தம்புள்ள சிக்சர்ஸ் 17.5 ஓவர்களில் 2 விக்கெட் களை இழந்து 188 ஓட்டங்களைப் பெற்று அமோக வெற்றியீட்டியது.
+
+ஆரம்ப வீரர்காள ரீஸா ஹெண்ட்றிக்ஸ், குசல் பெரேரா ஆகிய இருவரும் அதிரடியாகத் துடுப்பெடுத்தாடி 88 பந்துகளில் 154 ஓட்டங்களைப் பகிர்ந்து வலுவான ஆரம்பத்தை இட்டுக்கொடுத்தனர்.
+
+...
+
+[Data](articles/efe4f396.json)
 
 ---
 
@@ -271,32 +331,6 @@ Environmentalists rallying against a renewable energy project is odd. As they sh
 [Data](articles/901003d6.json)
 
 [Extended Data](ext_articles/901003d6.ext.json)
-
----
-
-### Tension at Chavakachcheri Hospital
-
-*2024-07-08 00:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187932) · `ta`
-
-A dispute at Chavakachcheri Hospital led to attempts to remove its Medical Superintendent, Ramanathan Archana, due to alleged mismanagement. The Health Ministry issued a letter ordering her removal, but she refused to accept it outside office hours. This refusal escalated tensions, leading to police intervention. Ramanathan claimed responsibility for a patient's death under her care, complicating the situation further.
-
-🟩
-
-An attempt has been made to remove the medical superintendent in response to the Chavakachcheri Hospital.
-
-In response to the Chavakachcheri Resource Hospital, Ramanathan Archana, who is serving as the Medical Superintendent, has been given a letter of Health, which orders the relocation of the Health Ministry.
-
-When the medical superintendent Ramanathan tried to hand over the letter at 7 pm, the doctor who refused to accept it was not office time.
-
-Meanwhile, the Chavakachcheri police have been mobilized at the hospital to arrest the superintendent.
-
-Meanwhile, he told the police that he was responsible for the death of a hospital at the time if he was arrested and taken to the hospital.
-
-◼️
-
-[Data](articles/96194846.json)
-
-[Extended Data](ext_articles/96194846.ext.json)
 
 ---
 
@@ -2311,55 +2345,5 @@ The Post Trade Union Fiance Chinthaka Bandara added that the trade union action 
 [Data](articles/09637b31.json)
 
 [Extended Data](ext_articles/09637b31.ext.json)
-
----
-
-### Rs.. Revelation of 5.5 billion loss
-
-*2024-07-07 11:45:47* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-නිසා-රජයට-සිදුවූ-රු--බිලියන-5-5ක-පාඩුවක්-ගැන-හෙළිදරව්වක්/11-410641) · `si`
-
-The government incurred a loss of Rs. 5.5 billion due to the actions of the Minister of Opposition Leader, Sajith Premadasa, during his tenure as the Minister of Housing from 2013 to 2019. This loss is attributed to the failure to complete the construction of 107,932 houses, despite starting 341,510 constructions between 2015 and 2019. Additionally, 53,709 beneficiaries had their housing loans disqualified, leading to further financial implications. The current Chairman of the National Housing Development Authority (NHDA), Rajiv Suryarachchi, highlighted these issues, emphasizing the need for proper planning and execution in housing development projects.
-
-🟩
-
-It is revealed that the government had no loss of Rs. 5,564 million due to the Minister of Opposition Leader
-
-The Chairman of the National Housing Development Authority (NHD) Rajiv Surrayarachchi, Chairman of the National Housing Development Authority (NHDA) said that the loans of 53,709 beneficiary beneficiaries in the minister,. The government is over Rs. 7,852 million.
-
-Current opposition leader Sajith Premadasa served as the Minister of Housing 2013 - 2019. Sample Vollecy Aid, Kidney Floor, Relivery Flood, Rural Aid, Grama Seva and Flood Assistance
-
-The Chairman of the National Housing Development Authority (National Housing Development Authority) The President of the National Housing Development Authority (NSP) says that the introduction of this informal housing loans is increased and in 2019.
-
-...
-
-[Data](articles/0c6e9065.json)
-
-[Extended Data](ext_articles/0c6e9065.ext.json)
-
----
-
-### Constable's stealing revealed by fingermal mark
-
-*2024-07-07 11:38:06* · [`adalk`](https://www.ada.lk/breaking_news/ඇගිලි-සලකුණෙන්-හෙළිවූ-කොස්තාපල්ගේ-සොරකම/11-410640) · `si`
-
-A police constable's theft was uncovered through fingerprint analysis in Kosgama. Suspects were detained for 48 hours and referred to the Finger Notes Department for investigation. The constable was arrested and later presented before the Avissawella Magistrate's Court. SSP Senaka Weerasinghe, responsible for the constable's permits, faced disciplinary action.
-
-🟩
-
-Kosgama Police say that a police constable was compared to fingerprints in Kosgama.
-
-The suspects were obtained for 48 hours against the constable.
-
-The suspects were referred to the towering Department of the Finger Notes to Investigations on Investigation into InvestigationsPolice say he was arrested after comparing with the fingerprints.
-
-The suspect constable is submitted to the Avissawella Magistrate's Court to look into the incident.
-
-Senior Superintendent of Police Senior Superintendent of Police (S) SSP Senaka Weerasinghe has been banned due to the permits of the constable.
-
-◼️
-
-[Data](articles/f75cb679.json)
-
-[Extended Data](ext_articles/f75cb679.ext.json)
 
 ---

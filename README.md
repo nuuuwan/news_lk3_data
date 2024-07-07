@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 15:19:52**
+As of **2024-07-07 15:34:57**
 
 ## Newspaper Stats
 
-*Scraped **34,066** Articles*
+*Scraped **34,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,004
 dailyftlk | 2,115
 adalk | 3,041
 adaderanalk | 3,904
-tamilmirrorlk | 4,037
+tamilmirrorlk | 4,039
 dailymirrorlk | 4,733
 virakesarilk | 5,336
 adaderanasinhalalk | 5,664
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,664
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,066 (100.0%) of 34,066 articles have been extended.
+34,068 (100.0%) of 34,068 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### Attack on Refugee Camp in Gaza
+
+*2024-07-07 15:01:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசாவில்-அகதிகள்-முகாம்-மீது-தாக்குதல்/50-339981) · `ta`
+
+Israeli airstrikes on Nusirat refugee camp in Gaza resulted in casualties and injuries, according to foreign media reports.
+
+🟩
+
+Israeli air strikes on Nusirad refugee camp in Central Gaza have been killed.
+
+Foreign media reports that many people were injured in the attack. (A)
+
+◼️
+
+[Data](articles/089a5269.json)
+
+[Extended Data](ext_articles/089a5269.ext.json)
+
+---
 
 ### What is going to be to the public service tomorrow and tomorrow
 
@@ -49,6 +69,26 @@ Meanwhile, principals and teachers have decided to leave sick leave on July 9th.
 [Data](articles/43ade11d.json)
 
 [Extended Data](ext_articles/43ade11d.ext.json)
+
+---
+
+### Special Notice of Presidential Scholarship
+
+*2024-07-07 14:46:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-புலமைப்பரிசில்-குறித்து-விசேட-அறிவிப்பு/175-339979) · `ta`
+
+The Presidential Scholarship, funded by the GCE, supports students from low-income families in grades 1 through 11. To stay informed about this scholarship, it's recommended to follow the President's Finance Facebook page.
+
+🟩
+
+GCE.. Arrangements have been made to implement the scholarship scholarship provided by the Presidential Fund to students from low -income families from grade 1 to 11 to 11th grade.
+
+Accordingly, the President's Fund has requested the Follow/Like of the President's Finance Facebook page to obtain new information on this scholarship.
+
+◼️
+
+[Data](articles/47974f2d.json)
+
+[Extended Data](ext_articles/47974f2d.ext.json)
 
 ---
 
@@ -2203,49 +2243,5 @@ According to the Zimbabwe, Zimbabwe were in the forefront of 20 runs.
 [Data](articles/34645a3c.json)
 
 [Extended Data](ext_articles/34645a3c.ext.json)
-
----
-
-### There is no salary increase this year - the president
-
-*2024-07-06 19:50:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவ்வருடம்-சம்பள-அதிகரிப்பு-இல்லை-ஜனாதிபதி/175-339941) · `ta`
-
-Due to upcoming elections, there will be no salary increases in the government sector this year, according to President Ranil Wickremesinghe. However, he suggests that pay hikes may be possible through the next year's budget.
-
-🟩
-
-President Ranil Wickremesinghe says the salary cannot be increased this year in the government sector.
-
-The president has stated that this year's election period is nearing and it cannot be done.
-
-The President also pointed out that the salary could be increased through the next year's budget.
-
-◼️
-
-[Data](articles/134cd493.json)
-
-[Extended Data](ext_articles/134cd493.ext.json)
-
----
-
-### There is no salary increase this year - the president
-
-*2024-07-06 19:50:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/இவ்வருடம்-சம்பள-அதிகரிப்பு-இல்லை-ஜனாதிபதி/150-339941) · `ta`
-
-Due to upcoming elections, there will be no salary increases this year in Sri Lanka's government sector. The President suggests future hikes may occur through next year's budget.
-
-🟩
-
-President Ranil Wickremesinghe says the salary cannot be increased this year in the government sector.
-
-The president has stated that this year's election period is nearing and it cannot be done.
-
-The President also pointed out that the salary could be increased through the next year's budget.
-
-◼️
-
-[Data](articles/f85acd03.json)
-
-[Extended Data](ext_articles/f85acd03.ext.json)
 
 ---

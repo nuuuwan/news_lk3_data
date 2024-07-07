@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 07:18:47**
+As of **2024-07-07 07:44:32**
 
 ## Newspaper Stats
 
-*Scraped **33,990** Articles*
+*Scraped **33,994** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 309
 colombotelegraphcom | 312
 bbccomsinhala | 333
 newsfirstlk | 363
-islandlk | 1,912
+islandlk | 1,914
 economynextcom | 2,003
 dailyftlk | 2,115
 adalk | 3,031
@@ -20,17 +20,53 @@ adaderanalk | 3,889
 tamilmirrorlk | 4,025
 dailymirrorlk | 4,733
 virakesarilk | 5,323
-adaderanasinhalalk | 5,642
+adaderanasinhalalk | 5,644
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,985 (100.0%) of 33,990 articles have been extended.
+33,985 (100.0%) of 33,994 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### කිඹුල් ප්‍රහාරයකින් පුද්ගලයෙක් මරුට
+
+*2024-07-07 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198554) · `si`
+
+කතරගම පොලිස් වසමේ මැණික් ගඟේ දිය නාමින් සිටි පුද්ගලයෙකු කිඹුලෙකු විසින් ඩැහැගෙන ගොස් තිබේ.
+
+ඊයේ (06) උදෑසන කාලයේදී එම පුද්ගලයා මැණික් ගඟේ 02 පාලම ආසන්නයෙන් දිය නාමින් සිටි අවස්ථාවේ එම අනතුර සිදුව ඇති බව පොලීසිය සඳහන් කරයි.
+
+පොලිස් ජීවිතාරක්ෂක නිලධාරීන්ගේ හා වනජීවී නිලධාරීන්ගේ සහාය ඇතිව මෘත දේහය සොයාගෙන තිබේ.
+
+මරණකරුගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැති අතර ඔහු අවුරුදු 30ත් 35ත් අතර වයසේ පසුවන පුද්ගලයෙක් බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/2f63a2dd.json)
+
+---
+
+### ඉදිරියටත් රනිල්ට සහාය දෙන බවට බැසිල්ගෙන් ප්‍රකාශයක්
+
+*2024-07-07 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198553) · `si`
+
+රට ගැන සිතා ඉදිරියටත් රනිල් වික්‍රමසිංහ ජනාධිපතිවරයාට සහාය පළකරන බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ නිර්මාතෘ බැසිල් රාජපක්ෂ මහතා පවසයි.
+
+පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතාගේ දේශපාලන දිවියට වසර 27ක් පිරීම නිමිත්තෙන් කළුතර ප්‍රදේශයේ පැවති උත්සවයකට එක්වෙමින් ඔහු ඒ බව සඳහන් කළේය.
+
+"මේ පක්ෂට ඉදිරියට ගෙනයාමේදී රජයේ පාර්ශ්වයක් ලෙස අපි කටයුතුකරන හැම වේලාවෙම ජනාධිපතිතුමනි ඔබට අපි උදව් කළේ කිසියම් බයකටත් නෙමෙයි. ඒ වගේම අපි බයත් නෑ ණයත් නෑ  කියලා සඳහන් කරන්නේ ඉතාම ගෞවරයෙන්. අපේ පක්ෂයේ සියලුදෙනාම තීන්දුවක් අරගත්තා ඒ අවස්ථාවේ හැටියට මේ රට බේරා ගැනීමට හැකියාව තියෙන්නේ ඔබතුමාට කියලා. අන්න ඒ අවස්ථාවේදී අපි ඒ සහයෝගය අවංකව දුන්නා අද දක්වා. ඉදිරියටත් ඒ සහයෝගය දක්වනවා කියන එක අපි කියනවා. ඒ කරන්නේ රට වෙනුවෙන් හා මේ රටේ ජනතාව වෙනුවෙන් කියන එක ඒ රටත්, ජනතාවත් ආරක්ෂා කරන තාක්කල් ඔබතුමාට සියලු ශක්තිය ලබාදෙනවා කියලා ඔබතුමාට සඳහන් කරනවා."
+
+එම උත්සවයට එක්වූ හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පැවසුවේ අභියෝග බාර ගනිමින් රට ඉදිරියට ගෙනයන නායකත්වය සමග ජනතාව කටයුතු කළ යුතු බවය.
+
+◼️
+
+[Data](articles/fe9003d1.json)
+
+---
 
 ### The prevailing rain condition is further
 
@@ -175,6 +211,18 @@ In fact, polls after the debate found that 72% of all voters did not want Biden 
 [Data](articles/0ee4dc1e.json)
 
 [Extended Data](ext_articles/0ee4dc1e.ext.json)
+
+---
+
+### Navigating ourselves out
+
+*2024-07-07 01:21:00* · [`islandlk`](http://island.lk/navigating-ourselves-out/) · `en`
+
+This may be cynical posturing on my part, but recent announcements about Sri Lanka’s debt restructuring process reeks of a somewhat widespread tendency to credit everything to the political leadership at the cost of the suffering many. Legitimate concerns have been raised about whether Sri Lanka could have negotiated better; the debt haircut Ghana settled for, to give one example, is miles away from Sri Lanka’s figure. The extent of our haircut leaves us with very little breathing space. To stick to it, we need to engage in savage austerity, or more of what we have been inflicting on ourselves for the last two years.
+
+...
+
+[Data](articles/49bbc6fe.json)
 
 ---
 
@@ -2169,65 +2217,5 @@ Ambassador Madurika Weninger joined the Sri Lanka Foreign Service (SLFS) in 1998
 [Data](articles/71aa18e1.json)
 
 [Extended Data](ext_articles/71aa18e1.ext.json)
-
----
-
-### High Commissioner to Maldives Ranga Goonawardena presents credentials
-
-*2024-07-06 00:38:32* · [`dailyftlk`](https://www.ft.lk/news/High-Commissioner-to-Maldives-Ranga-Goonawardena-presents-credentials/56-763916) · `en`
-
-The newly appointed High Commissioner of Sri Lanka to the Republic of Maldives Ranga Goonawardena presented his credentials to the President of Maldives Dr. Mohamed Muizzu on 1 July at the President’s Office in Malé.
-
-The Sri Lankan High Commissioner received a ceremonial welcome that included a guard of honour and a traditional cultural procession “Haiykolhu” performed by the Maldives National Defence Force (MNDF). The High Commissioner’s spouse Ishani Goonawardena and Minister Counsellor of the High Commission of Sri Lanka in Malé D. Amanulla were present during the presentation of credentials.
-
-Following the Credentials ceremony, High Commissioner Goonawardena had an audience with President Muizzu. During the discussion, the Maldivian President noted that this was the first occasion that he received credentials from a High Commissioner since assuming the Presidency. The President expressed his pleasure at receiving the first credentials from the Sri Lankan High Commissioner.
-
-...
-
-[Data](articles/37f641ea.json)
-
-[Extended Data](ext_articles/37f641ea.ext.json)
-
----
-
-### Ministerial Consultative Committee approves Orders containing code of conduct for JPs
-
-*2024-07-06 00:37:54* · [`dailyftlk`](https://www.ft.lk/news/Ministerial-Consultative-Committee-approves-Orders-containing-code-of-conduct-for-JPs/56-763915) · `en`
-
-Regulations for the Justice of the Peace (appointments, suspensions, cancellation and code of conduct) by the Justice, Prisons Affairs and Constitutional Reforms Minister under the Judicature Act No. 2 of 1978 received the approval of the Ministerial Consultative Committee on Justice, Prisons Affairs and Constitutional Reforms.
-
-The said approval was granted at the Ministerial Consultative Committee on Justice, Prisons Affairs and Constitutional Reforms held recently in Parliament Chaired by Dr. Wijeyadasa Rajapakshe, PC.
-
-The purpose of the said Orders is to promote moral and ethical conduct among justices of the peace to effectively administer justice and eliminate opportunities for corrupt practices.
-
-...
-
-[Data](articles/a060e206.json)
-
-[Extended Data](ext_articles/a060e206.ext.json)
-
----
-
-### Model Non -academic staff should come to work
-
-*2024-07-06 00:37:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்விசாரா-ஊழியர்கள்-பணிக்கு-வரவேண்டும்/175-339932) · `ta`
-
-Dr. Suren Raghavan, Higher Education Minister, urged non-academic staff across universities to return to work, emphasizing the importance of not disrupting the education of over 250,000 students. He highlighted the impact of ongoing strikes, which have already lasted 65 days, affecting 17 universities and 19 degree institutions. Despite previous struggles and crises, the minister stressed the need for non-academic staff to resume their duties to ensure the country's future is not compromised.
-
-🟩
-
-Higher Education Minister Dr. Suren Raghavan said, "I urge all the non -academic staff of all universities to do so without further disrupting the lives of the youth who are responsible for the future of the country."
-
-State Minister Suren Raghavan said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-Over 14,600 non -academic staff of 17 universities and 19 united degree institutions in this country have been engaged in a total of 65 days.. The tragic reflection of the country's future is to disrupt the lives of 250,000 youths and waste their time.
-
-Even though these challenges were confronted by the agitating struggle in 2019, the economic crisis in 2020, and the struggle in 2021, even if they were included in the 18 % of the university's 18 percent of the university, it was a great tragedy that they would be disturbed by this workmanship struggle.. (A)
-
-◼️
-
-[Data](articles/c6f26c35.json)
-
-[Extended Data](ext_articles/c6f26c35.ext.json)
 
 ---

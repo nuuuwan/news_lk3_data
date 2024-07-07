@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 18:12:37**
+As of **2024-07-07 18:24:15**
 
 ## Newspaper Stats
 
-*Scraped **34,088** Articles*
+*Scraped **34,091** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,004
 dailyftlk | 2,115
-adalk | 3,046
+adalk | 3,048
 adaderanalk | 3,906
 tamilmirrorlk | 4,043
 dailymirrorlk | 4,733
 virakesarilk | 5,340
-adaderanasinhalalk | 5,669
+adaderanasinhalalk | 5,670
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,088 (100.0%) of 34,088 articles have been extended.
+34,088 (100.0%) of 34,091 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### රුසියාවෙන් ගෙන ආ කැලෑ බළලා
+
+*2024-07-07 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198580) · `si`
+
+නිසි අවසරයකින් තොරව මෙරටට ගෙනැවිත් ඇති බවට සැක කෙරෙන අප්‍රිකානු කැලෑ බළලෙකු කටුනායක ගුවන්තොටුපොළ ගුවන් භාණ්ඩ පර්යන්තයේදී බලධාරීන් විසින් ඔවුන්ගේ භාරයට ගෙන තිබේ.
+
+යුරෝපයේ සහ මැදපෙරදිග රටවල මෙම සත්ත්ව විශේෂය සුරතලයට ඇති කරන අතර එබැවින් ජාත්‍යන්තර වශයෙන් මොවුන්ට විශාල ඉල්ලුම ඇති බව මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සිදු කරන රේගු නිලධාරීන් පවසයි.
+
+බලධාරීන් පැවසුවේ මහනුවර ප්‍රදේශයේ පදිංචිකරුවෙකු විසින් මෙම සතාව ගෙනැවිත් ඇති බවයි.
+
+මෙම කැළෑ බළලා දෙහිවල සත්වෝද්‍යානය වෙත යවා ඇති බවට වාර්තාවන අතර ශ්‍රී ලංකා රේගුවේ ජෛව විවිධත්ව ආරක්ෂණ, සංස්කෘතික හා ජාතික උරුමයන් සුරැකීමේ ඒකකය සහ වනජීවී දෙපාර්තමේන්තුව විසින් මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සිදු කරමින් සිටියි.
+
+◼️
+
+[Data](articles/7cb1e0cf.json)
+
+---
 
 ### Emergency to several areas of Russia
 
@@ -111,6 +129,28 @@ Maithripala Sirisena has introduced a amendment to the president's term for 5 ye
 [Data](articles/9c1cbdcf.json)
 
 [Extended Data](ext_articles/9c1cbdcf.ext.json)
+
+---
+
+### කාන්තාවක ඝාතනය කොට දරු දෙදෙනකු ප්‍රාණ ඇපයට අරගෙන
+
+*2024-07-07 16:50:01* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවක-ඝාතනය-කොට-දරු-දෙදෙනකු-ප්‍රාණ-ඇපයට-අරගෙන/11-410648) · `si`
+
+සිය වයෝවෘද්ධ නැන්දනිය තියුණු ආයුධ ප්‍රහාරයකින් ඝාතනය කල ලේලියක තම බාල වයස්කාර දරු දෙදෙනො ප්‍රාණ ඇපයට ගෙන සිටියදී ගම්පොළ ඇත්ගාල පොලිස්  නිලධාරීන් පැය දෙකහමාරක උපක්‍රමශීලී මෙහෙයුමකින් පසු අද(07)අලුයම තුනයි තිහට පමණ ඇය අත්අඩංගුවට ගෙන තිබේ.
+
+ගම්පොළ උලපනේ ,උලපනේ වත්ත පදිංචි 78 හැවිරිදි එස්. ජෝති නැමැති පස් දරු මව සිය ලේලිය අතින් මෙසේ ඝාතනය වී තිබේ.
+
+ඝාතනයට ලක්වු කාන්තාවට හිමි නිවසේ තිස්දෙහැවිරිදි මෙම ලේලිය හා ඇගේ 7 හා 4 හැවිරිදි දියණියන් දෙදෙනා පමණක් සිට ඇති අතර ඊයේ මධ්‍යම රාත්‍රියේ දොළහට පමණ මෙම ඝාතනය සිදුවී ඇති බව පොලිසිය පවසයි.
+
+යාපනයේ පදිංචිකාරියක වන මෙම සැකකාරිය විවාහයෙන් පසු උලපනේ වත්තට පදිංචියට පැමිණ ඇති අතර ඇගේ සැමියා වන මණිවේල් ජෝශප් යන අය රැකියාව සඳහා යාපනයට ගොස් තිබුණි. ඝාතනය වූ මව මාසයක පමණ කාලයක් අසනීපව එක්තැන්ව සිට තිබේ.
+
+ඇගෙන් නිතරම කරදර බව පවසමින් ඇයට මෙම ලේලිය තර්ජනය කරමින් සිට ඇති බවට පොලිසියට තොරතුරු ලැබී තිබිණ.
+
+මෙම නිවසට යාබදව මියගිය කාන්තාවගේ එක් පුතෙකුද පදිංචිව සිටින අතර මහ රෑ ඇසුණ ශබ්දයකට ඔවුන් එම නිවස පරීක්ෂා කොට තිබේ.
+
+...
+
+[Data](articles/f7e55eb0.json)
 
 ---
 
@@ -1182,6 +1222,24 @@ The Chairman of the National Housing Development Authority (National Housing Dev
 
 ---
 
+### ඇගිලි සලකුණෙන් හෙළිවූ කොස්තාපල්ගේ සොරකම
+
+*2024-07-07 11:38:06* · [`adalk`](https://www.ada.lk/breaking_news/ඇගිලි-සලකුණෙන්-හෙළිවූ-කොස්තාපල්ගේ-සොරකම/11-410640) · `si`
+
+කොස්ගම ප්‍රදේශයේ නිවසක් බිඳ රුපියල් ලක්ෂ 10 කට ආසන්න මුදල් ඇතුළු දේපළ සොරා ගැනීම සම්බන්ධයෙන් පොලිස්  කොස්තාපල්වරයෙකු ඇඟිලි සලකුණු සමඟ සංසන්දනය වීම හේතුවෙන් අත්අඩංගුවට ගත් බව කොස්ගම පොලිසිය කියයි.
+
+සැකකාර එම කොස්තාපල්වරයාට එරෙහිව පැය 48 ක කාලයකට රැදයුම් නියෝග ලබාගත් බවද පොලිසිය සඳහන් කරයි.
+
+ඉකුත්  අප්‍රේල් මස 28 වෙනිදින  දින රාත්‍රී කාලයේදී සිදුවී තිබූ මෙම සොරකම්  කිරීමේ අපරාධය සම්බන්ධයෙන්  විමර්ශනය කිරීමේදී අනාවරණය කරගන්නා ලද කරුණු මත අපරාධ ස්ථානයේ තිබී සොයා ගන්නා ලද ඇඟිලි සලකුණු සමග සැකකාර බාහිර පුද්ගලයන් කීප දෙනෙකුගේ ඇඟිලි සටහන්ද විමර්ශන කටයුතු සඳහා ඇඟිලි සටහන් දෙපාර්තමේන්තුව වෙත යොමු කිරීමෙන් අනතුරුව සැකකාර කොස්තාපල්වරයාගේ ඇගිලි සටහන් සමග සංසන්දනය වීමෙන් අනතුරුව අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+
+සැකකාර කොස්තාපල්වරයා තවත් අපරාධවලට සම්බන්ධ දැයි සොයා බැලීම සඳහා අවිස්සාවේල්ල මහේස්ත්‍රාත්  අධිකරණය වෙත ඉදිරිපත් කර  එම රැඳවුම් නියෝගය ලබාගත් බව පොලිසිය කියයි.
+
+...
+
+[Data](articles/f75cb679.json)
+
+---
+
 ### Tamil - Muslim relationship
 
 *2024-07-07 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187883) · `ta`
@@ -2237,59 +2295,5 @@ Sanasa Life Insurance PLC has appointed Puvendran Gajendra as their new Chairman
 [Data](articles/5e03ce8f.json)
 
 [Extended Data](ext_articles/5e03ce8f.ext.json)
-
----
-
-### ISACA Honours Dialog for Technology Resilience at Digital Trust Awards 2024
-
-*2024-07-07 03:37:00* · [`islandlk`](http://island.lk/isaca-honours-dialog-for-technology-resilience-at-digital-trust-awards-2024/) · `en`
-
-Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, has been awarded the prestigious Technology Resilience Award by ISACA, the global leader in IS/IT governance, risk, audit, cybersecurity, and emerging technologies for over 50 years. The inaugural Digital Trust Awards held on 13th June 2024, gathered industry leaders, policymakers, cybersecurity professionals, and experts in governance, risk, compliance, and privacy to discuss emerging challenges, share best practices, and propose strategies to enhance digital trust across various sectors.
-
-“We are honoured to receive the Technology Resilience Award from ISACA, which validates our commitment to technological innovation and resilience. This accolade encourages us to continue our efforts in making digital platforms robust and secure for all our customers,” stated Supun Weerasinghe, Chief Executive of Dialog Axiata PLC.
-
-...
-
-[Data](articles/910bc041.json)
-
-[Extended Data](ext_articles/910bc041.ext.json)
-
----
-
-### Zenith Trading Private Limited wins entrepreneur of the year award at Business World International Awards
-
-*2024-07-07 03:37:00* · [`islandlk`](http://island.lk/zenith-trading-private-limited-wins-entrepreneur-of-the-year-award-at-business-world-international-awards/) · `en`
-
-Zenith Trading Private Limited, a subsidiary of the Zenith Group of Companies, has been honored with the prestigious Entrepreneur of the Year Award (Medium – Gold) in the Trading Business Category at the Business World International Awards. The award was received by R. Anton Keney Fernando, Managing Director of the Zenith Group of Companies.
-
-Founded in 2004 by Fernando and Joseph Peter, the Zenith Group of Companies began its journey with a modest retail shop named Zenith Traders. Renowned for its commitment to quality and reliability, the company expanded into wholesale and nationwide distribution in 2010. Zenith Trading specializes in importing, supplying, retailing, and wholesaling steel, engineering, construction, plumbing materials, and tools.
-
-CEAT Kelani wins double honours at National Business Excellence Awards 2024
-
-The decisions we make today will shape our future – President
-
-...
-
-[Data](articles/a3821ead.json)
-
-[Extended Data](ext_articles/a3821ead.ext.json)
-
----
-
-### Biden celebrates July 4 amid doubts about his political future
-
-*2024-07-07 01:39:00* · [`islandlk`](http://island.lk/biden-celebrates-july-4-amid-doubts-about-his-political-future/) · `en`
-
-Justice Sotomayor on SC Ruling on Presidential Immunity: With fear for our democracy, I dissent
-
-President Biden had a dismal debate night on Thursday, June 28. There is absolutely no gainsaying that fact. However rose-tinted the glasses we may wear, Biden did no favors to his chances of re-election in November. Highly respected journals like the New York Times and the Chicago Tribune, joined with this lowly columnist, an ardent supporter of the Democratic cause and a virulent Never Trumper, in sending a message, immediately after the debate, to the 81-year-old incumbent president to drop out of the fray, for the greater good of the nation.
-
-In fact, polls after the debate found that 72% of all voters did not want Biden running in November. Also, many of the mega donors of the Democratic Party are insisting that the party replaces Biden with a younger, more electable candidate – or else.
-
-...
-
-[Data](articles/0ee4dc1e.json)
-
-[Extended Data](ext_articles/0ee4dc1e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 21:35:07**
+As of **2024-07-07 21:54:12**
 
 ## Newspaper Stats
 
-*Scraped **34,110** Articles*
+*Scraped **34,111** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 3,908
 tamilmirrorlk | 4,049
 dailymirrorlk | 4,733
 virakesarilk | 5,343
-adaderanasinhalalk | 5,675
+adaderanasinhalalk | 5,676
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,110 (100.0%) of 34,110 articles have been extended.
+34,110 (100.0%) of 34,111 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### මෙම ලිපියට ඔබත් හසුවෙයි - කල්පනාවෙන්
+
+*2024-07-07 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198586) · `si`
+
+පොලිස්පතිවරයා විසින් නිකුත් කර ඇති බව පවසමින් අන්තර්ජාලයේ සංසරණයවන ලිපියක් පිළිබඳව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් විමර්ශනයක් ආරම්භ කර තිබේ.
+
+ඒ අදාළ ලිපිය මගින් දැවැන්ත දත්ත කොල්ලයක් සිදුකිරීමට හැකියාවක් ඇති බවට ඇතිවූ සැකයක් හේතුවෙනි.
+
+ධර්මචක්‍රය සහිත නිල් පැහැති පොලිස් අත් ලාංඡනයක්, රබර් මුද්‍රාවක් හා පොලිස් නිල ලාංඡනය සහිතව කහ පැහැති පසුබිමේ ඉංග්‍රීසි භාෂාවෙන් සටහන් වූ ව්‍යාජ ලිපියක් සමාජ මාධ්‍ය වල සංසරණය වූ අතර එය 2024 ජූලි 01 වනදා පොලිස්පති දේශබන්දු තෙන්කෝන් මහතා නිකුත් කළ බව හැඟවෙන අයුරින් සකසා ඇත.
+
+අදාළ ව්‍යාජ ලිපිය සහ එම ලිපිය අන්තර්ජාලයට යොමු කළේ කවුරුන්ද යන්න සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශනයක් ආරම්භ කළේය.
+
+ඒ අනුව අනාවරණ කරගැනුණේ මෙරට, ප්‍රමුඛ පෙළේ මර්මස්ථාන රැසකට මෙන්ම ඒවායේ ප්‍රධාන නිලධාරීන් රැසකට අදාළ ලිපිය ඒ වන විටත් ඊමේල් මගින් යොමුකර තිබූ බවය.
+
+මෙහි විශේෂත්වය වන්නේ එය මුද්‍රණය කරගැනීම, සඳහා අනිවාර්යයෙන්ම බාගත කරගත යුතුවීමය.
+
+එය බාගත කළ පසු එය යවන ලද පාර්ශ්වයට එහි ඇති මැල්වෙයා, වෛරස් ආරක්ෂණ පද්ධති තුළට ඇතුළු වී අදාළ පරිගණකවල ඇති දත්ත සොරාගත හැකි බව වාර්තා වේ.
+
+...
+
+[Data](articles/2847b9cb.json)
+
+---
 
 ### Kudu hid of powder with musk
 
@@ -2343,37 +2367,5 @@ The injured have been admitted to the Kataragama hospital and there is no inform
 [Data](articles/daa21ef9.json)
 
 [Extended Data](ext_articles/daa21ef9.ext.json)
-
----
-
-### Relief of $ 8 billion from restructuring of debt
-
-*2024-07-07 09:27:51* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගතකරණයෙන්-ඩොලර්-බිලියන-08ක-සහනයක්/11-410634) · `si`
-
-In a speech at the North Western Amazing Hospital, President Ranil Wickremesinghe announced a $8 billion debt relief achieved through restructuring, including $5 billion from bilateral creditors and $3 billion from commercial creditors. He highlighted the government's efforts to address economic challenges, including providing free land ownership to farmers in the Kurunegala district through the Heritage Program, and reducing the debt repayment period with lower interest rates. The President emphasized the importance of accurate economic management and the government's commitment to solving the people's problems.
-
-🟩
-
-The loan was able to obtain relief $ 8 billion under the restructuring process
-
-I took over by the government during a time when leaders could not find the government.
-
-The government who liberated the country is now setting solutions to the problems of the people.
-
-Bilateral creditors have agreed $ 5 billion as a loan and commercial creditors of bilateral creditors of the debt restructuring process.He said.
-
-The President was addressing the event at the North Western Amazing Hospital for 463 people in Kurunegala district.
-
-The President said that some people spoke of socialism, but the true socialism gives free land ownership to the people.
-
-The President also pointed out that the government who liberated the country is now resolved to solve the problems of the people.
-
-The President said that the President has taken over the economic crisis due to accurate economic management, the country is over the economic crisis in the economic crisis..
-
-...
-
-[Data](articles/18f2f1d0.json)
-
-[Extended Data](ext_articles/18f2f1d0.ext.json)
 
 ---

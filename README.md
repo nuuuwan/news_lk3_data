@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 00:51:08**
+As of **2024-07-08 01:04:47**
 
 ## Newspaper Stats
 
-*Scraped **34,126** Articles*
+*Scraped **34,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 334
 newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,005
-dailyftlk | 2,118
+dailyftlk | 2,119
 adalk | 3,052
 adaderanalk | 3,910
 tamilmirrorlk | 4,053
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,124 (100.0%) of 34,126 articles have been extended.
+34,126 (100.0%) of 34,127 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ The relative stability of the economy since mid-2022 was broadly due to the foll
 
 [Data](articles/879c5626.json)
 
+[Extended Data](ext_articles/879c5626.ext.json)
+
 ---
 
 ### Will environmentalists stall new 50MW Mannar wind power project?
@@ -65,6 +67,22 @@ Environmentalists rallying against a renewable energy project is odd. As they sh
 ...
 
 [Data](articles/901003d6.json)
+
+[Extended Data](ext_articles/901003d6.ext.json)
+
+---
+
+### A child’s guide to debt and restructuring: Country driven to economic collapse has not many options – Part I
+
+*2024-07-08 00:10:53* · [`dailyftlk`](https://www.ft.lk/columns/A-child-s-guide-to-debt-and-restructuring-Country-driven-to-economic-collapse-has-not-many-options-Part-I/4-763940) · `en`
+
+Throughout its post-independence history, Sri Lanka has been a big consumer and a bad saver
+
+The Central Bank alone had a foreign debt obligation of $ 6 billion, converting its foreign reserves to a net negative position of $ 2.5 billion. The country should repay all its foreign debt when it will become due, not merely the central government foreign debt. It would have been better had the President spoken of the total country foreign debt position as the Head of the State without confining himself to a small fraction of the central government debt
+
+...
+
+[Data](articles/397f0bb1.json)
 
 ---
 
@@ -2375,29 +2393,5 @@ Of this, Bessecian received 1.63 crore votes and Jaleel 1.35 crore votes. With t
 [Data](articles/ac88cf34.json)
 
 [Extended Data](ext_articles/ac88cf34.ext.json)
-
----
-
-### Elephant in Kataragama Perahera
-
-*2024-07-07 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198563) · `si`
-
-During the Esala Perahera at Ruhunu Kataragama Maha Devalaya, an elephant's charge resulted in 10 injuries among spectators. The incident occurred when the elephant, part of the procession, collided with a pillar, causing non-serious injuries to those nearby who were unhurt.
-
-🟩
-
-An elephant paval of the Esala Perahera of the Historic Ruhunu Kataragama Maha Devalaya.
-
-Due to this, 10 persons have been injured, "Ada Derana reporter said.
-
-With the pillar of the elephant, the 10 people were injured as they were upset.
-
-It is reported that the condition of the injured are not serious and hospitalized yesterday.
-
-◼️
-
-[Data](articles/c4e4a506.json)
-
-[Extended Data](ext_articles/c4e4a506.ext.json)
 
 ---

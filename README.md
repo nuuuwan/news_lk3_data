@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 10:05:28**
+As of **2024-07-07 10:19:40**
 
 ## Newspaper Stats
 
-*Scraped **34,011** Articles*
+*Scraped **34,014** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,54 +19,106 @@ adalk | 3,034
 adaderanalk | 3,893
 tamilmirrorlk | 4,028
 dailymirrorlk | 4,733
-virakesarilk | 5,323
-adaderanasinhalalk | 5,650
+virakesarilk | 5,325
+adaderanasinhalalk | 5,651
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,008 (100.0%) of 34,011 articles have been extended.
+34,011 (100.0%) of 34,014 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### දරුවන් 7 දෙනා සිටින නිවසට ගිනිතැබූ නරුමයා
+### ඉතා දුර්ලභ වාලම්පුරියක් අලෙවි කිරීමට සූදානම්ව සිටි පුද්ගලයා අත්අඩංගුවට
+
+*2024-07-07 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198561) · `si`
+
+මාරවිලදී විශේෂ කාර්ය බළකාය සිදුකළ වැටලීමකදී ඉතා දුර්ලභ වාලම්පුරියක් අලෙවි කිරීමට උත්සාහ කළ පුද්ගලයෙක් ව අත්අඩංගුවට ගෙන තිබේ.
+
+එම වාලම්පුරිය බරින් කිලෝ 01යි ග්‍රෑම් 105ක් වූ අතර අත්අඩංගුවට ගත් සැකකරු මාරවිල ප්‍රදේශයේ පදිංචි වයස අවුරුදු 24 ක පුද්ගලකි.
+
+ඔහුව වැඩිදුර විමර්ශන කටයුතු සඳහා කරුවලගස්වැව වනජීවී කාර්යාලය වෙත භාර දී ඇත.
+
+◼️
+
+[Data](articles/12aebff1.json)
+
+---
+
+### சம்பந்தன் விட்டுச் சென்ற பாடம்
+
+*2024-07-07 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/187865) · `ta`
+
+சம்பந்தன் மறைவுக்குப் பின்னர், தமிழ் தேசிய அரசியலை கையாளும் விடயத்தில் சிங்கள தலைமைகளும் சர்வதேச சமூகமும் எப்படி செயற்பட போகின்றன என்ற கேள்வி எழுந்திருக்கின்றது. ஜனாதிபதி ரணில் விக்கிரமசிங்கவோ அல்லது சம்பந்தனின் ஒன்றுபட்ட இலங்கைக்கான வேட்கையை பெருமையுடன் கூறுகின்ற சிங்களத் தலைவர்களோ,  தமிழ் மக்களுக்கு நியாயமான அரசியல் தீர்வை வழங்குவதற்கு அதிகாரப்பகிர்வுக்கு வழங்குவதற்கு தயாராக இல்லை
+
+◼️
+
+[Data](articles/f1e78a6a.json)
+
+---
+
+### சம்பந்தன் தோல்வியடைந்த தலைவரா?
+
+*2024-07-07 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/187868) · `ta`
+
+தமிழ்த் தேசியக் கூட்டமைப்பு அவரது கண்ணுக்கு முன்னாலேயே சிதைவடைந்தது. இந்த சோகம் காய்வதற்கு முன்னர் சொந்தக் கட்சியான தமிழரசுக் கட்சியும் சிதைவுற்றது. பெருந்தலைவராக இருந்தும் சொந்த கட்சி நீதிமன்ற படி ஏறுவதை இவரால் தடுக்க முடியவில்லை. அவர் பல தடவை மன்றாடிக் கேட்ட போதும் அவரால் வளர்க்கப்பட்ட சுமந்திரன் இறுதி வரையில் சமரசம் செய்வதற்கு தயாராக இல்லை.
+
+◼️
+
+[Data](articles/1ec258cc.json)
+
+---
+
+### The cynic of the house of the house of seven children
 
 *2024-07-07 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198560) · `si`
 
-ඔස්ට්‍රේලියාවේ සිඩ්නි නගරයේ නිවාසයක් ගිනි ගැනීමෙන් දරුවන් තිදෙනෙක් ජීවිතක්ෂයට පත්වී තිබේ.
+In Sydney, Australia, a tragic fire in the Lollor Parkinna area resulted in the deaths of three children: two boys aged two and four, and a ten-month-old girl. The incident, which occurred around 1 am, also involved a 28-year-old who was hospitalized after trying to extinguish the fire. The victims' ages ranged from six months to eleven years, and the cause of the fire is believed to be related to a domestic dispute.
 
-බටහිර සිඩ්නි හි ලැලෝර් පාර්ක් නම් ප්‍රදේශයේදී අද (07) පාන්දර 1ට පමණ එම ගිනි ගැනීම වාර්තා විය.
+🟩
 
-එහිදී අවුරුදු දෙකක් සහ හතරක් වයසැති පිරිමි දරුවන් දෙදෙනෙක් බේරාගෙන ප්‍රතිකාර කරන අතරතුරදී මියගොස් ඇති අතර මාස 10ක් වයසැති ගැහැණු දරුවාගේ සිරුර ගින්න නිවීමෙන් පසුව සොයාගෙන තිබුණි.
+Three children have killed 3 children in a house in Sydney, Australia.
 
-ගින්න පාලනයට බාධාකළ 28 හැවිරිදි පුද්ගලයෙක්ව එහිදී සැකපිට අත්අඩංගුවට ගෙන ගින්න නිසා ඇතිවූ තුවාල සඳහා ප්‍රතිකාර සඳහා පොලිස් ආරක්ෂාව යටතේ රෝහල්ගත කර ඇති බව සඳහන් ය.
+The fire was reported at the Lollor Parkinna area in West Sidney around 1 am today.
 
-එම නිවසේ සිටි වයස අවුරුදු 6ත් 11ත් අතර වූ තවත් දරුවන් 4 දෙනෙක් සහ 28 හැවිරිදි මව ප්‍රතිකාර සඳහා රෝහල්ගත කෙරිණි.
+Two and four-year-old boys were killed while he was diagnosed with the 10-month female body.
 
-පොලීසිය සැකකරන්නේ ගෘහස්ත ආරවුලක් හේතුවෙන් මෙම සිද්ධිය සිදුවන්නට ඇති බවයි.
+It is said that a 28-year-old person has interfered with the culmination of the fire and hospitalized that the fire had been hospitalized for treatment.
+
+The age of 6 and 11 were among the ages of 6 and 11 and the 28 year old mother was hospitalized for treatment.
+
+The incident had been suspected due to a housekeeping dispute.
 
 ◼️
 
 [Data](articles/dec539a0.json)
 
+[Extended Data](ext_articles/dec539a0.ext.json)
+
 ---
 
-### කතරගම පෙරහැරේ අලි කලබලයකින් පුද්ගලයින් 13ට තුවාල
+### 13 injured in elephants in Kataragama Perahera
 
 *2024-07-07 09:35:08* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-පෙරහැරේ-අලි-කලබලයකින්-පුද්ගලයින්-13ට-තුවාල/11-410635) · `si`
 
-ඓතිහාසික රුහුණු මහා කතරගම දේවාලයේ ඇසළ පෙරහැර ආරම්භ වී සුළු මොහොතකට පසු පෙරහරේ ගමන් ගත් අලියෙකු කුලප්පු වීමෙන් ඇති වූ කලබලයේදී පෙරහැර නැරඹූ පුද්ගලයින් 13 දෙනෙකු පමණ තුවාල ලබා තිබේ.
+During the Esala Perahera at the Ruhuna Maha Kataragama Devalaya, 13 people were injured, including participants and spectators. The incident occurred around 9:00 pm on July 6th. All victims have been hospitalized, but none are critically injured.
 
-කතරගම පොලිසිය පැවසුවේ පෙරහැර ආරම්භ වීමෙන් පසු ඊයේ (6) රාත්‍රි 9.00ට මෙය සිදුව ඇත.  එම අවස්ථාවේ පෙරහර නරඹමින් සිටි පිරිස කලබල වී ඒ මේ අත දුවයාමෙන් මෙලෙස තුවාල ලබා තිබේ.
+🟩
 
-තුවාලකරුවන් කතරගම රෝහලට ඇතුළත් කර ඇති අතර ඔවුන් අතර අසාධ්‍ය තත්ත්වයේ රෝගින් නොමැති බවට තොරතුරු ලැබී ඇත.
+At least 13 people were injured when the Esala Perahera of the Historic Ruhuna Maha Kataragama Devalaya.
+
+The Kataragama Police said this was held at 9.00 pm yesterday (6).The number of Perahera was also upset and suffered injuries due to the daughter.
+
+The injured have been admitted to the Kataragama hospital and there is no information that they have no critical condition.
 
 ◼️
 
 [Data](articles/daa21ef9.json)
+
+[Extended Data](ext_articles/daa21ef9.ext.json)
 
 ---
 
@@ -394,27 +446,35 @@ In 1990, when I was the Acting Director of the School of Hotel Management at Sch
 
 ---
 
-### ගාල්ලට නොදුරුව ඇති වැසි වනාන්තරයක් බලන්න යමුද?
+### Why does it see a rain forest that is not over to Galle?
 
 *2024-07-07 03:40:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clky9rxr7n9o) · `si`
 
-මුහුදුබඩ ප්‍රධාන නගරයක් ආසන්නයේ  පිහිටා ඇති සුවිශේෂී නිවර්තන තෙත් කලාපීය වැසි වනාන්තරයක් සොයා අපි ගාල්ල කොට්ටව වෙත ගියෙමු.
+The text describes the Kottawa Conservation Forest near Galle, Sri Lanka, highlighting its location, accessibility, biodiversity, and historical significance. It mentions the forest's proximity to Galle town, its conservation status, and the variety of plant and animal life it supports. The narrative also touches upon the forest's role in education and research, its geological features, and the impact of human activities on its preservation.
 
-ගාල්ල දිස්ත්‍රික්කයේ ගාල්ල නගරයට ආසන්නව පිහිටා ඇති මෙම රක්ෂිතය කොට්ටව සංරක්ෂණ වනාන්තරය යනුවෙන් හඳුන්වනු ලබයි.
+🟩
 
-ගාල්ල නගරයේ සිට කිලෝමීටර් 13ක දුරින් පිහිටා ඇති මෙම තෙත් කලාපීය වනාන්තරය ශාක සහ සතුන් රැසකට නිවහනකි.
+We went to Galle in search of a unique tropical rainforest located near a coastal city.
 
-ගාල්ල - උඩුගම ප්‍රධාන මාර්ගය ඔස්සේ ගොස් මෙම රක්ෂිතයට පහසුවෙන් ළඟාවිය හැක. මෙම මාර්ගය ඔස්සේ ගමන් ගන්නා ඕනෑම බස් රථයක ද ගොස් මෙම රක්ෂිතයට ප්‍රවේශ විය හැක.
+Located to Galle in Galle, the reserve is known as the Kottawa Conservation Forest.
 
-ගාල්ල - උඩුගම ප්‍රධාන මාර්ගයේ කිලෝමීටර් කිහිපයක් මෙම රක්ෂිතය හරහා වැටී ඇත. අප  රක්ෂිතයට ළඟා වෙන අවස්ථාවේ වැහිබර කාලගුණික තත්ත්වයක් පැවතුණි.
+The wet zone forest is a 13 km away from Galle town is home to many plants and animals.
 
-වනෝද්‍යානය සෑම දිනකම පෙරවරු 8 සිට පස්වරු 4.30 දක්වා විවෘතව පවතියි. ප්‍රධාන මංපෙත පිහිටි කාර්යාලයෙන් ප්‍රවේශපත්‍රයක් ගෙන රක්ෂිතය තුළට ඇතුළු විය යුතුය.
+Govoring the Galle-Udugama main road and reach this reserve. Any bus traveling along this route can also go to this reserve.
 
-මේ වනාන්තරයට ඇතුළු වී මඳ දුරක් ගිය විට නොයෙකුත් දිසාවන්ට විහිදුණු මංපෙත් කිහිපයක් දැකිය හැකිය.
+Several kilometers of Udugama main road has fallen through this reserve. When we reach the reserve, there was a weather weather.
+
+The national park is open from 8 am to 4.30 pm every day. The office at the main trainee should take a ticket and enter into the reserve.
+
+When you enter the forest and went a little, there are several trails spreading.
+
+One way is one of the most beautiful path towards the tongue beneath a beautiful fool. This is a wide path of the forest beauty. Another way is reserved for tea cultivation and the low country tea can travel to the road.
 
 ...
 
 [Data](articles/017e48ac.json)
+
+[Extended Data](ext_articles/017e48ac.ext.json)
 
 ---
 
@@ -2215,79 +2275,5 @@ He added that the complaints have been sent to the National Child Protection Aut
 [Data](articles/baa502fa.json)
 
 [Extended Data](ext_articles/baa502fa.ext.json)
-
----
-
-### The cause of the Akurana fire?
-
-*2024-07-06 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198526) · `si`
-
-Akurana restaurant fire suspected to be caused by electrical issues related to bakery equipment. The blaze affected nearby shops and an international school, leading to temporary closure of the Kandy-Matale road. Investigations ongoing by Alawatugoda Police.
-
-🟩
-
-The police suspect that the building is due to the fire in Akurana restaurant, police suspect that the electricity supplier of the bakery products of the bakery facade.
-
-The Alawatugoda Police are conducting further investigations.
-
-Police said that the fire was damaged by a shop and an international school.
-
-The fire erupted in the restaurant in Akurana last night (05).
-
-Due to the fire, the Kandy-Matale (A9) road was temporarily closed yesterday morning.
-
-After a severe effort, he had worked to curb the fire at around 10 am.
-
-◼️
-
-[Data](articles/888bddb8.json)
-
-[Extended Data](ext_articles/888bddb8.ext.json)
-
----
-
-### Sri Lanka in talks for US$25 mn German technical university: State Minister
-
-*2024-07-06 06:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-talks-for-us25-mn-german-technical-university-state-minister-171131/) · `en`
-
-ECONOMYNEXT – Sri Lanka is in the final stage of talks with a German investor for a Technical University to be established in the suburb of capital Colombo, State Higher Education Minister Suren Raghavan said.
-
-“We discussed about German Technical University. This is a US$25 million investment. They want to focus on agriculture, renewable energy, and food technology,” Raghavan told reporters at a media briefing in Colombo on Friday (05).
-
-However, the German University is expected to start operations after the Presidential election scheduled for later this year, he said.
-
-Sri Lanka has been in the process to attract more foreign investments into the country to prevent foreign exchange outflow and promote technical courses.
-
-The island nation has been trying to implement some drastic reforms in the education sector after it suffered an unprecedented economic crisis in 2022. (Colombo/July 06/2024)
-
-◼️
-
-[Data](articles/31e3a82e.json)
-
-[Extended Data](ext_articles/31e3a82e.ext.json)
-
----
-
-### Showers and strong winds
-
-*2024-07-06 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198525) · `si`
-
-Expect showers across Western, Sabaragamuwa, North Western, and parts of Ampara, Batticaloa, Trincomalee, Hambantota, and Moneragala provinces. Strong winds of 40-50 km/h possible, with warnings about lightning risks.
-
-🟩
-
-The Meteorology Department says that there will be showers in the Western, Sabaragamuwa and North Western provinces.
-
-Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. 40-50 can cause strong winds.
-
-The Department of Meteorology has made public aware of temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/b56545e7.json)
-
-[Extended Data](ext_articles/b56545e7.ext.json)
 
 ---

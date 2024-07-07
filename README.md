@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 19:34:51**
+As of **2024-07-07 19:52:40**
 
 ## Newspaper Stats
 
-*Scraped **34,100** Articles*
+*Scraped **34,101** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,907
 tamilmirrorlk | 4,046
 dailymirrorlk | 4,733
 virakesarilk | 5,342
-adaderanasinhalalk | 5,672
+adaderanasinhalalk | 5,673
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,100 (100.0%) of 34,100 articles have been extended.
+34,100 (100.0%) of 34,101 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### රාජ්‍ය සේවා වෘත්තීය සමිති දැඩි තීරණයක
+
+*2024-07-07 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198583) · `si`
+
+රාජ්‍ය සේවයේ වෘත්තීය සමිති 200කට අධික සංඛ්‍යාවක් හෙට (08) සහ අනිද්දා (09) යන දෙදින තුළ අසනීප නිවාඩු වාර්තා කිරීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරත වීමට සැලසුම් කර තිබේ.
+
+රාජ්‍ය හා පළාත් රාජ්‍ය සේවා වෘත්තීය සමිති එකමුතුව පැවසුවේ විධායක ශ්‍රේණියේ නිලධාරීන්ට පමණක් ලබාදී ඇති රුපියල් 25,000ක දීමනා ඉහළ නැංවීම සියලුම රාජ්‍ය සේවකයින්ට ලබාදෙන ලෙස ඉල්ලමින් මෙම ක්‍රියාමාර්ගය ගන්නා බවය.
+
+ග්‍රාම නිලධාරි, මිනින්දෝරු, සංවර්ධන නිලධාරි, තැපැල් ඇතුළු රාජ්‍ය සේවයේ වෘත්තීය සමිති රැසක් මෙම ක්‍රියාමාර්ගය සඳහා එක්වන බව රාජ්‍ය හා පළාත් රාජ්‍ය සේවා වෘත්තීය සමිති එකමුතුවේ සම කැඳවුම්කරු චන්දන සූරියආරච්චි මහතා සඳහන් කළේය.
+
+මෙම වෘත්තීය සමිති ක්‍රියාමාර්ගය සඳහා සහාය පළකරමින් අද (07) පස්වරු 4 සිට මධ්‍යම තැපැල් හුවමාරුවේ සේවකයින් වර්ජනයක නිරත වන බව ඒකාබද්ධ තැපැල් සේවා වෘත්තීය සමිති එකමුතුවේ කැඳවුම්කරු චින්තක බණ්ඩාර මහතා පැවසීය.
+
+...
+
+[Data](articles/f86736df.json)
+
+---
 
 ### TNA leader's funeral will be carried out
 
@@ -2313,27 +2331,5 @@ The 34-year-old suspect was arrested by the Jaffna Police are conducting further
 [Data](articles/cd077800.json)
 
 [Extended Data](ext_articles/cd077800.ext.json)
-
----
-
-### Showery conditions expected to further enhance today
-
-*2024-07-07 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100338/showery-conditions-expected-to-further-enhance-today) · `en`
-
-A further enhancement of the prevailing showery conditions over the island is expected today, according to the Department of Meteorology.
-
-Showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
-
-Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provincesand in Trincomalee, Hambantota and Monaragala districts.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/8196bc34.json)
-
-[Extended Data](ext_articles/8196bc34.ext.json)
 
 ---

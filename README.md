@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 20:05:07**
+As of **2024-07-07 20:19:56**
 
 ## Newspaper Stats
 
-*Scraped **34,106** Articles*
+*Scraped **34,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,54 @@ adalk | 3,050
 adaderanalk | 3,907
 tamilmirrorlk | 4,049
 dailymirrorlk | 4,733
-virakesarilk | 5,342
+virakesarilk | 5,343
 adaderanasinhalalk | 5,674
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,101 (100.0%) of 34,106 articles have been extended.
+34,106 (100.0%) of 34,107 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### ඉන්දියාව ට පහසු ජයක්
+### India be convenient to India
 
 *2024-07-07 19:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198584) · `si`
 
-ඉන්දියාව සහ සිම්බාබ්වේ අතර පැවති දෙවැනි 20යි 20 ජාත්‍යන්තර ක්‍රිකට් තරගය පහසුවෙන් ජයගැනීමට සංචාරක ඉන්දීය කණ්ඩායම සමත්විය.
+In a cricket match, India beat Zimbabwe in the second T20I, scoring 234/7 after batting first, while Zimbabwe made 134 runs.
 
-මෙම තරගයේ පළමුව පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම කඩුලු 234ක් රැස්කළ අතර සත්කාරක සිම්බාබ්වේ කණ්ඩායම සියලුදෙනා දැවී රැස්කළේ ලකුණු 134ක් පමණි.
+🟩
+
+Tourist by the Indian team won the second 20 20 and Zimbabwe.
+
+Batting first, the Indian team scored 234 wickets and the Host Zimbabwe scored 134 runs.
 
 ◼️
 
 [Data](articles/b18a1b68.json)
+
+[Extended Data](ext_articles/b18a1b68.ext.json)
+
+---
+
+### பிரிக்கப்படாத இலங்கைக்குள் தீர்வுகாண இரா. சம்பந்தனும் நானும் எப்போதும் பணியாற்றினோம் - ஜனாதிபதி
+
+*2024-07-07 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187928) · `ta`
+
+மறைந்த இரா. சம்பந்தன் தமிழ் மக்களின் உரிமைகளுக்காக மாத்திரமன்றி ஒட்டுமொத்த இலங்கை மக்களின் உரிமைகளுக்காகவும் முன் நின்ற தலைவர் என்றும் சம்பந்தனும் தானும் எப்போதும் பிரிக்கப்படாத இலங்கைக்காக தம்மை அர்ப்பணித்தவர்கள் என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+இரா. சம்பந்தனுடன் உடன்பாட்டுடன் முன்நோக்கி கொண்டு வந்த அந்தக் கலந்துரையாடல்களை வெற்றிகரமாக நிறைவு செய்ய அனைவரும் ஒன்றிணைய வேண்டும் என்றும் ஜனாதிபதி குறிப்பிட்டார்.
+
+திருகோணமலையில் அன்னாரது இல்லத்தில் ஞாயிற்றுக்கிழமை (07) பிற்பகல் நடைபெற்ற சம்பந்தனின் இறுதி கிரியையில் கலந்து கொண்ட போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+முன்னாள் எதிர்க்கட்சித் தலைவரும் தமிழ்த் தேசியக் கூட்டமைப்பின் முன்னாள் தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான மறைந்த இரா. இரா.சம்பந்தனின் இறுதிக் கிரியைகள், ஞாயிற்றுக்கிழமை  (07) பிற்பகல் ஆளுங்கட்சி மற்றும் எதிர்க்கட்சி அரசியல் தலைவர்கள், அமைச்சர்கள், பாராளுமன்ற உறுப்பினர்கள், கட்சித் தலைவர்கள் உட்பட பெருந்திரளான மக்களின் பங்கேற்புடன் இடம்பெற்றது.
+
+...
+
+[Data](articles/c99ab829.json)
 
 ---
 
@@ -100,21 +124,31 @@ President Ranil Wickremesinghe, President Ranil Wickremesinghe, the President an
 
 ---
 
-### சம்பந்தனின் பூதவுடல் அக்கியுடன் சங்கமம்
+### Sampanthan's boutique
 
 *2024-07-07 18:38:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/சம்பந்தனின்-பூதவுடல்-அக்கியுடன்-சங்கமம்/75-339990) · `ta`
 
-முன்னாள் எதிர்க்கட்சித் தலைவரும் தமிழ்த் தேசியக் கூட்டமைப்பின் சிரேஷ்ட தலைவரும் காலஞ் சென்ற பாராளுமன்ற உறுப்பினர் இராஜவரோதயம் சம்மந்தன் அவர்களின் இறுதி கிரியைகள் திருகோணமலையில் உள்ள இந்து மயானத்தில் இன்று(07) மாலை இடம்பெற்றது.
+Rajavarodayam Sammanthan, former TNA leader, was laid to rest in Trincomalee's Hindu Cemetery. Political heavyweights like President Ranil Wickremesinghe and BJP's Annamalai attended his funeral, honoring his contributions. His portrait now hangs in Amarar Ira, symbolizing his impact on Trincomalee. The ceremony began at his home before proceeding to the cemetery, reflecting his local significance.
 
-அரசியல் பிரமுகர்கள், பெருந்திரளான மக்கள் அன்னாரின் பூதவுடலுக்கு  அஞ்சலி செலித்தினர். இறுதி கிரியைக்காக ஜனாதிபதி ரணில் விக்ரமசிங்க , பாரதிய ஜனதா கட்சி தமிழக தலைவர் அண்ணாமலை உள்ளிட்ட கட்சியின் தலைவர்கள், பாராளுமன்ற உறுப்பினர்கள் என பலரும்  பங்கேற்றனர்.
+🟩
 
-பலத்த பாதுகாப்பும் பலப்படுத்தப்பட்டு திருகோணமலை நகர் முழுதும் ஆழ்ந்தல் இறங்கல் தெரிவித்து அமரர் இரா. சம்மந்தனின் உருவப்படம் தொங்கவிடப்பட்டுள்ளது.. இதில் தென்னிலங்கையை சேர்ந்த அரசியல் பிரமுகர்கள், வடகிழக்கு மலையகத்தை சேர்ந்த மக்கள் பிரதிநிதிகள் என பலரும் மேலும் கலந்து கொண்டனர்.
+Former Opposition Leader and Senior Leader of the Tamil National Alliance (TNA), Rajavarodayam Sammanthan's funeral took place at the Hindu Cemetery in Trincomalee this evening.
 
-கடந்த ஞாயிற்றுக்கிழமை உடல் நலக்குறைவு காரணமாக கொழும்பில் உள்ள தனியார் மருத்துவமனையில் அமரர் இரா. சம்பந்தன் இயற்கை எய்தினார் என்பதும் குறிப்பிடத்தக்கது.
+Political dignitaries and large people paid tribute to Annar's. President Ranil Wickremesinghe, Bharatiya Janata Party (BJP) leader Annamalai and many others participated in the event.
+
+Amarar Ira, who has expanded the entire city of Trincomalee. The portrait of Samanthan is hung.. Political dignitaries from South Sri Lanka and people from the Northeast of the Northeast were also present.
+
+Amarar Ira not in a private hospital in Colombo. It is also noteworthy that Sambandan was natural.
+
+Finally, the funeral was taken from the Annar's native house and cremated at the Hindu Cemetery in Trincomalee.
+
+Sri Lanka Tamil National Alliance (TNA) leader Amara Sampanthan's funeral was placed at the house of Annar and was taken to the Poothavadal cemetery at 4 pm.
 
 ...
 
 [Data](articles/341c9fe0.json)
+
+[Extended Data](ext_articles/341c9fe0.ext.json)
 
 ---
 
@@ -196,19 +230,31 @@ The ball players passed over 176 balls in 17.1 overs.
 
 ---
 
-### ජනාධිපති ශිෂ්‍යත්ව පිරිනැමීම ජූලි 12 වනදා සිට දිස්ත්‍රික් මට්ටමින්
+### Presentation of the Presidential Scholarships at district level from July 12th
 
 *2024-07-07 18:22:47* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-ශිෂ්‍යත්ව-පිරිනැමීම-ජූලි-12-වනදා-සිට-දිස්ත්‍රික්-මට්ටමින්/11-410651) · `si`
 
-අ.පො.ස. (උ/පෙළ) සහ පළමු ශ්‍රේණියේ සිට 11 ශ්‍රේණිය දක්වා අධ්‍යාපනය ලබන අඩු ආදායම්ලාභී පවුල්වල සිසුන් වෙනුවෙන් ජනාධිපති අරමුදලින් පිරිනැමෙන ශිෂ්‍යත්ව ප්‍රදානය මෙම ජූලි 12 වනදා සිට දිස්ත්‍රික් මට්ටමින් ක්‍රියාත්මක කිරීමට කටයුතු සූදානම් කර තිබේ.
+Since July 12, the Presidential Fund has awarded scholarships at the district level, coordinated by District Secretaries and Principals. The scholarships, ranging from Rs. 30,000 to Rs. 32,000 per month, are listed on the official Facebook page. Selected students receive financial aid for their GCE Advanced Level education, with some receiving additional support for the R/L examination.
 
-ඒ අනුව දිස්ත්‍රික් ලේකම්වරුන්ගේ ප්‍රධානත්වයෙන්, සියලු කලාප අධ්‍යාපන කාර්යාල සහ විදුහල්පතිවරුන්ගේ සම්බන්ධීකරණයෙන් මෙම ශිෂ්‍යත්ව ප්‍රදානය සිදු වන අතර එක් එක් දිස්ත්‍රික්කය සඳහා ශිෂ්‍යත්ව ප්‍රදානය කරනු ලබන දිනයන්, වේලාවන් සහ ස්ථානයන් මෙන්ම එම දිස්ත්‍රික්කයන් සඳහා මෙම ශිෂ්‍යත්ව වැඩසටහන් යටතේ තෝරාගන්නා ලද ශිෂ්‍යත්වලාභීන්ගේ නාම ලේඛනය ඉදිරි දින කිහිපය තුළ ජනාධිපති අරමුදලේ නිල Facebook පිටුවෙහි පළකිරීමට නියමිතය.
+🟩
 
-එක් එක් දිස්ත්‍රික්ක සඳහා අ.පො.ස (උ/පෙළ) හදාරන සිසුන් වෙනුවෙන් ලබාදෙනු ලබන ශිෂ්‍යත්ව සඳහා තෝරාගන්නා ලද සිසුන්ගේ නාම ලේඛනය කලාප මට්ටමින් දැනටමත් ජනාධිපති අරමුදලේ නිල Facebook පිටුවේ සඳහන් කර ඇත.
+GCE Advanced Level. Awarding scholarships from the Presidential Fund have been awarded from the district level since July 12.
+
+The scholarship will be coordinated by the District Secretaries and Principals who are presented with scholarships for each district, as well as the number of scholarship recipients of scholarships for each district.The fund is scheduled to be published in the official Facebook page.
+
+The list of students selected for students who are serving students for each district is already listed at the Product Facebook page at the Product Facebook page.
+
+GCE Advanced Level. Rs.
+
+30,000 / - scholarship grant by the scholarship grant from the next month along with money for these students.. (R / L) examination will also be given scholarships each month until Rs. 6000 / - per month.
+
+Rs. 32,000 / - per month, which is selected for students selected from 1 to 11 schools in the island, is Rs.- A sum of money will be awarded at the cerever and Rs. 3000 / - per month from next month.
 
 ...
 
 [Data](articles/3ae30bc7.json)
+
+[Extended Data](ext_articles/3ae30bc7.ext.json)
 
 ---
 
@@ -248,23 +294,31 @@ The leader of the national rally, Maureen La Ben, is on the road to create a ris
 
 ---
 
-### ரணிலை ஆதரிக்க தீர்மானம்; கருணா
+### Resolution to support Ranil;Compassionate
 
 *2024-07-07 18:09:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-ஆதரிக்க-தீர்மானம்-கருணா/175-339989) · `ta`
 
-ஜனாதிபதியின் பதவி நீடிக்கப்படா விட்டாலும் இந்த நாட்டில் உள்ள பெரும்பான்மையான மக்கள் ரணில் விக்கிரமசிங்கவை ஆதரிக்க தீர்மானித்துள்ளனர் என தமிழர் ஐக்கிய சுதந்திர முன்னணியின் தலைவரும் முன்னாள் பிரதியமைச்சருமான விநாயகமூர்த்தி முரளிதரன் தெரிவித்துள்ளார்.
+Despite the non-extension of his presidency, Ranil Wickremesinghe enjoys widespread support across the nation, especially among Tamil Muslims in the Northeast. The Tamil United Freedom Alliance (UPFA) recently provided livelihood assistance in Batticaloa, highlighting their commitment to supporting ex-combatants. UPFA's leader, Vinayagamoorthy Muralitharan, praised Wickremesinghe for his leadership and the international aid secured under his administration. The party also expressed condolences for the loss of Samanthan Sir, emphasizing their dedication to defending Tamil rights and inviting others to join them in this cause.
 
-மட்டக்களப்பில் இன்று தமிழர் ஐக்கிய சுதந்திர முன்னணியின் ஏற்பாட்டில் முன்னாள் போராளிகளுக்கு வாழ்வாதார உதவிகள் வழங்கும் நிகழ்வு நடைபெற்றது.
+🟩
 
-இதன் போது மட்டக்களப்பு மாவட்டத்தில் தெரிவு செய்யப்பட்ட பயனாளிகளுக்கு இந்த வாழ்வாதார உதவி வழங்கி வைக்கப்பட்டன.
+The majority of the people in this country have decided to support Ranil Wickremesinghe, even though the president's post is not extended, said Vinayagamoorthy Muralitharan, the leader of the Tamil United Freedom Alliance and former Deputy Minister.
 
-தமிழர் ஐக்கிய சுதந்திர முன்னணியின் உபதலைவர் ஜெயா.சரவணன் தலைமையில் நடைபெற்ற இந்த நிகழ்வில் தமிழர் ஐக்கிய சுதந்திர முன்னணியின் தலைவரும் முன்னாள் பிரதியமைச்சருமான விநாயகமூர்த்தி முரளிதரன் பிரதம அதிதியாக கலந்துகொண்டார்.
+The Tamil United Freedom Alliance (UPFA) organized a livelihood assistance to ex -combatants in Batticaloa today.
 
-இதன்போது கலந்து கொண்டு  கருத்துத் தெரிவிக்கும் போதே அவர் இவ்வாறு குறிப்பிட்டார். அவர் அங்கு மேலும் தெரிவிக்கையில்,
+The livelihood assistance was provided to the selected beneficiaries in the Batticaloa district.
+
+Vinayagamoorthy Muralitharan, the leader of the Tamil United Freedom Alliance (UPFA) and former Deputy Minister of the Tamil United Freedom Alliance (UPFA), was the chief guest at the event, chaired by the Vice President of the Tamil United Freedom Alliance.
+
+He said this while participating in the event.. He said more,
+
+I see the President's demand in the politics to extend the president's term. Today's President is a talented man who brought it to a short time when there was a queue age in this country.
 
 ...
 
 [Data](articles/136c1128.json)
+
+[Extended Data](ext_articles/136c1128.ext.json)
 
 ---
 
@@ -554,21 +608,31 @@ Accordingly, the protest was carried out in the heads of the CWC leaders in char
 
 ---
 
-### மனோவுக்கு எதிராக மலையகத்தில் போராட்டம்
+### Struggle in the hill country against psychic
 
 *2024-07-07 16:14:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மனோவுக்கு-எதிராக-மலையகத்தில்-போராட்டம்/76-339985) · `ta`
 
-தமிழ் முற்போக்கு கூட்டணி தலைவரும், பாராளுமன்ற உறுப்பினருமான மணோகனேஷன் எம்.பி க்கு எதிராக மலையகத்தில் ஞாயிற்று கிழமை  போராட்டங்கள் நடத்தப்பட்டது.
+Tamil Progressive Alliance leader Manohanashan MP faced protests in the hill country over a government-issued salary hike for plantation workers. The government sued for an injunction against the gazette announcement. Opposition parties, including the Ceylon Workers Congress (CWC), organized demonstrations in five cities across three districts, criticizing the MP and calling for an end to celebrations related to the salary increase.
 
-இதன்போது பாராளுமன்ற உறுப்பினர் மனோ கணேசனுக்கு எதிராக வாசகங்கள் பறித்த பதாதைகளை ஏந்தியும், கோஷங்களை எழுப்பியும் மக்கள் போராட்டத்தை முன்னெடுத்தனர்.
+🟩
 
-தோட்ட தொழிலாளர்களுக்கு 1700 ரூபாய் சம்பள உயர்வு விடயத்தில் அரசாங்கம் வெளியிட்ட வர்த்தமானிக்கு எதிராக பெருந் தோட்ட கம்பனிகள் இந்த வர்த்தமானி அறிவித்தலுக்கு இடைக்கால தடை விதிக்க கோரி உயர் நீதி மன்றத்தில் வழக்கு தொடர்ந்திருந்தது.
+The Tamil Progressive Alliance leader and Member of Parliament, Manohanashan MP, staged protests on Sunday in the hill country.
 
-இது குறித்து இலங்கை தொழிலாளர் காங்கிரஸ் பொது செயலாளரும் அமைச்சருமான ஜீவன் தொண்டமான் நீதிமன்ற வளாகத்தில் கடந்த (04) ஆம் திகதி ஊடகங்களுக்கு கருத்து தெரிவித்திருந்தார்.
+At this time, the masses carried out the protests by carrying the slogans and chanting slogans against MP Mano Ganesan.
+
+The government has filed a lawsuit in the High Court seeking an interim injunction against the gazette's announcement by the government issued by the government on a Rs 1700 salary increase for plantation workers.
+
+Jeevan Thondaman, General Secretary and Minister of the Ceylon Workers Congress, spoke to the media on the premises of the court on 04.
+
+In his opinion, Minister Jeevan had stated that the opposition parties did not celebrate the interim ban on the salary and not to celebrate the crackers and not to celebrate the milk.The CWC landed in the demonstration.
+
+Accordingly, the protest was carried out in the heads of the CWC leaders in charge of the respective area in five major cities in three districts.
 
 ...
 
 [Data](articles/a7c57dfb.json)
+
+[Extended Data](ext_articles/a7c57dfb.ext.json)
 
 ---
 
@@ -2283,31 +2347,5 @@ The report, on the Telegram messaging app, was accompanied by pictures of an ove
 [Data](articles/d16b6c7b.json)
 
 [Extended Data](ext_articles/d16b6c7b.ext.json)
-
----
-
-### 16 killed in anger at Gaza
-
-*2024-07-07 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198559) · `si`
-
-In Gaza, an airstrike on a school killed 16, injuring many more. The school, housing around 7,000 refugees, was reportedly targeted. Israel denies accusations, claiming the strikes aimed at areas linked to terrorism.
-
-🟩
-
-16 people were killed in an air strike on a school in Gaza.
-
-A large number of injured in the attack was injured in foreign media.
-
-It is said that the attack was targeted at a school located in a refugee camp.
-
-According to foreign media reports, about 7,000 people have been staying in the school.
-
-However, the Israeli security forces that reject the allegations say that the air strikes have been launched to an area where terrorist activities have been exposed.
-
-◼️
-
-[Data](articles/a5ca4b7e.json)
-
-[Extended Data](ext_articles/a5ca4b7e.ext.json)
 
 ---

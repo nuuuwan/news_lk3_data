@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 05:38:32**
+As of **2024-07-07 06:04:15**
 
 ## Newspaper Stats
 
-*Scraped **33,987** Articles*
+*Scraped **33,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,003
 dailyftlk | 2,115
 adalk | 3,031
 adaderanalk | 3,889
-tamilmirrorlk | 4,023
+tamilmirrorlk | 4,024
 dailymirrorlk | 4,733
 virakesarilk | 5,323
 adaderanasinhalalk | 5,641
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,973 (100.0%) of 33,987 articles have been extended.
+33,973 (100.0%) of 33,988 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -471,6 +471,22 @@ The President also pointed out that the salary could be increased through the ne
 [Data](articles/134cd493.json)
 
 [Extended Data](ext_articles/134cd493.ext.json)
+
+---
+
+### இவ்வருடம் சம்பள அதிகரிப்பு இல்லை - ஜனாதிபதி
+
+*2024-07-06 19:50:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/இவ்வருடம்-சம்பள-அதிகரிப்பு-இல்லை-ஜனாதிபதி/150-339941) · `ta`
+
+அரசாங்க துறையில் மீண்டும் இவ்வருடம் சம்பளத்தை அதிகரிக்க முடியாது என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார்.
+
+இந்த வருடம் தேர்தல் காலம் நெருங்கி வருவதால் அதனை செய்ய முடியாது என ஜனாதிபதி குறிப்பிட்டுள்ளார்.
+
+மேலும் கருத்து தெரிவித்த ஜனாதிபதி, அடுத்த வருட வரவு செலவுத்திட்டத்தின் ஊடாகவே சம்பளத்தை அதிகரிக்க முடியும் என சுட்டிக்காட்டினார்.R
+
+◼️
+
+[Data](articles/f85acd03.json)
 
 ---
 
@@ -2197,23 +2213,5 @@ Police Media Spokesperson Senior Deputy Inspector General of Police Nihal Talduw
 [Data](articles/7d143b1c.json)
 
 [Extended Data](ext_articles/7d143b1c.ext.json)
-
----
-
-### 2024-07-05 (Friday)
-
-### EDB leads industry and academia collaboration to improve R&D for export market in construction, power and energy sectors
-
-*2024-07-05 23:27:53* · [`dailyftlk`](https://www.ft.lk/business/EDB-leads-industry-and-academia-collaboration-to-improve-R-D-for-export-market-in-construction-power-and-energy-sectors/34-763914) · `en`
-
-The Sri Lanka Export Development Board (EDB, in collaboration with the Engineering Faculty of the University of Moratuwa (UoM), has launched a new program to integrate the construction, power and energy industries with university research projects to address challenging research questions with real-world applications.
-
-This program is planned for two years commencing from 2024 till the end of 2025 with the participation of selected companies. The innovative solutions developed through this program will enable the companies to compete in the international markets. This program will also enhance the quality of construction related and power and energy services of Sri Lanka and will lead to generate more foreign exchange earnings to the country.
-
-...
-
-[Data](articles/8d165980.json)
-
-[Extended Data](ext_articles/8d165980.ext.json)
 
 ---

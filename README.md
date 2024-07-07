@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 10:19:40**
+As of **2024-07-07 10:35:09**
 
 ## Newspaper Stats
 
-*Scraped **34,014** Articles*
+*Scraped **34,016** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,003
 dailyftlk | 2,115
-adalk | 3,034
-adaderanalk | 3,893
+adalk | 3,035
+adaderanalk | 3,894
 tamilmirrorlk | 4,028
 dailymirrorlk | 4,733
 virakesarilk | 5,325
@@ -26,49 +26,83 @@ adaderanasinhalalk | 5,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,011 (100.0%) of 34,014 articles have been extended.
+34,014 (100.0%) of 34,016 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### ඉතා දුර්ලභ වාලම්පුරියක් අලෙවි කිරීමට සූදානම්ව සිටි පුද්ගලයා අත්අඩංගුවට
+### Man murders wife over family dispute
+
+*2024-07-07 10:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/100342/man-murders-wife-over-family-dispute) · `en`
+
+A woman has been stabbed to death with a sharp weapon due to a family dispute in the Ariyalai area of the Jaffna police division.
+
+The police investigations have revealed that the murder was committed last evening (06) over a family dispute involving the deceased and her husband from her second marriage.
+
+The 34-year-old suspect who committed the murder has been arrested and the Jaffna Police are conducting further investigations related to the incident.
+
+◼️
+
+[Data](articles/5babd787.json)
+
+---
+
+### Man arrested for selling a Very rare garment
 
 *2024-07-07 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198561) · `si`
 
-මාරවිලදී විශේෂ කාර්ය බළකාය සිදුකළ වැටලීමකදී ඉතා දුර්ලභ වාලම්පුරියක් අලෙවි කිරීමට උත්සාහ කළ පුද්ගලයෙක් ව අත්අඩංගුවට ගෙන තිබේ.
+A man was arrested in Marawila for attempting to sell a rare garment known as Velampuri, weighing 1kg. He is from the local area and has been transferred to the Karuwalagaswewa Wildlife Office for investigation.
 
-එම වාලම්පුරිය බරින් කිලෝ 01යි ග්‍රෑම් 105ක් වූ අතර අත්අඩංගුවට ගත් සැකකරු මාරවිල ප්‍රදේශයේ පදිංචි වයස අවුරුදු 24 ක පුද්ගලකි.
+🟩
 
-ඔහුව වැඩිදුර විමර්ශන කටයුතු සඳහා කරුවලගස්වැව වනජීවී කාර්යාලය වෙත භාර දී ඇත.
+A person who was trying to sell a rare garment of a rare garment in Marawila in Marawila.
+
+The Velampuri was 1 kilograms of 1kk and 105 grams residents of the Marawila area.
+
+He has been handed over to Karuwalagaswewa, Wildlife Office for further investigations.
 
 ◼️
 
 [Data](articles/12aebff1.json)
 
+[Extended Data](ext_articles/12aebff1.ext.json)
+
 ---
 
-### சம்பந்தன் விட்டுச் சென்ற பாடம்
+### Lesson that Sambandan left
 
 *2024-07-07 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/187865) · `ta`
 
-சம்பந்தன் மறைவுக்குப் பின்னர், தமிழ் தேசிய அரசியலை கையாளும் விடயத்தில் சிங்கள தலைமைகளும் சர்வதேச சமூகமும் எப்படி செயற்பட போகின்றன என்ற கேள்வி எழுந்திருக்கின்றது. ஜனாதிபதி ரணில் விக்கிரமசிங்கவோ அல்லது சம்பந்தனின் ஒன்றுபட்ட இலங்கைக்கான வேட்கையை பெருமையுடன் கூறுகின்ற சிங்களத் தலைவர்களோ,  தமிழ் மக்களுக்கு நியாயமான அரசியல் தீர்வை வழங்குவதற்கு அதிகாரப்பகிர்வுக்கு வழங்குவதற்கு தயாராக இல்லை
+Following Sambandan's death, concerns arise about Sinhalese leaders and the international community addressing Tamil national politics. Despite expressing unity, neither President Ranil Wickremesinghe nor Sinhala leaders have offered a fair political solution for Tamils.
+
+🟩
+
+After the demise of Sambandan, the question arises as to how the Sinhalese leaders and the international community are going to work in the case of Tamil national politics.. Neither President Ranil Wickremesinghe nor Sinhala leaders who proudly express their desire for united Sri Lanka, are not ready to give the Tamil people a fair political solution to the Tamil people.
 
 ◼️
 
 [Data](articles/f1e78a6a.json)
 
+[Extended Data](ext_articles/f1e78a6a.ext.json)
+
 ---
 
-### சம்பந்தன் தோல்வியடைந்த தலைவரா?
+### Is Sambandan a failed leader?
 
 *2024-07-07 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/187868) · `ta`
 
-தமிழ்த் தேசியக் கூட்டமைப்பு அவரது கண்ணுக்கு முன்னாலேயே சிதைவடைந்தது. இந்த சோகம் காய்வதற்கு முன்னர் சொந்தக் கட்சியான தமிழரசுக் கட்சியும் சிதைவுற்றது. பெருந்தலைவராக இருந்தும் சொந்த கட்சி நீதிமன்ற படி ஏறுவதை இவரால் தடுக்க முடியவில்லை. அவர் பல தடவை மன்றாடிக் கேட்ட போதும் அவரால் வளர்க்கப்பட்ட சுமந்திரன் இறுதி வரையில் சமரசம் செய்வதற்கு தயாராக இல்லை.
+Sambandan faced corruption within the Tamil National Alliance, leading to its disintegration and internal conflicts, particularly with Sumanthiran, whom he could not persuade to compromise.
+
+🟩
+
+The Tamil National Alliance was corrupted in front of his eyes. Before the tragedy was dried, the native party, the TNA, was disintegrated. He was unable to prevent his own party from rising. Although he has repeatedly pleaded, Sumanthiran, who was raised by him, was not ready to compromise until the end.
 
 ◼️
 
 [Data](articles/1ec258cc.json)
+
+[Extended Data](ext_articles/1ec258cc.ext.json)
 
 ---
 
@@ -119,6 +153,28 @@ The injured have been admitted to the Kataragama hospital and there is no inform
 [Data](articles/daa21ef9.json)
 
 [Extended Data](ext_articles/daa21ef9.ext.json)
+
+---
+
+### ණය ප්‍රතිව්‍යුහගතකරණයෙන් ඩොලර් බිලියන 08ක සහනයක්
+
+*2024-07-07 09:27:51* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගතකරණයෙන්-ඩොලර්-බිලියන-08ක-සහනයක්/11-410634) · `si`
+
+ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලිය යටතේ ඩොලර් බිලියන 08ක සහනයක් ලබා ගැනීමට හැකි වුණා
+
+මම ආණ්ඩුව භාර ගත්තේ ආණ්ඩුව භාර ගැනීමට නායකයන් සොයාගත නොහැකි වූ කාලයකයි.
+
+රට බංකොලොත්භාවයෙන් මුදාගත් ආණ්ඩුව දැන් ජනතාවගේ ප්‍රශ්නවලට විසඳුම් ලබාදීම ආරම්භ කර තිබෙනවා.
+
+ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලියට අදාළව ද්විපාර්ශ්වික ණය හිමියන් වෙතින් ඩොලර් බිලියන 05ක ණය පොලී සහනයක් සහ වාණිජ ණය හිමියන් එකඟ වී ඇති ආකාරයට ඩොලර් බිලියන 03ක ණය කපා හැරීමක් සිදුවන බවත් ඒ අනුව ගෙවීමට තිබූ ණය ප්‍රමාණයෙන් ඩොලර් බිලියන 08ක සහනයක් රටේ ජනතාවට ලබාදීමට හැකි වී තිබෙන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ “උරුමය” ජාතික වැඩසටහන යටතේ කුරුණෑගල දිස්ත්‍රික්කයේ සුදුසුකම්ලාභීන් 73,143ක් අතුරින් පුද්ගලයන් 463ක් වෙනුවෙන් සංකේතාත්මකව ඔප්පු ප්‍රදානය කිරීම වෙනුවෙන් කුරුණෑගල වයඹ පළාත් ශ්‍රවණාගාරයේ පැවති උත්සවය අමතමිනි.
+
+මෙහිදි අදහස් දැක්වූ ජනාධිපතිවරයා වැඩිදුරටත් සඳහන් කළේ ඇතැමුන් සමාජවාදය ගැන කථා කළද, නියම සමාජවාදය ජනතාවට සින්නක්කර ඉඩම් අයිතිය ලබාදීම බවයි.
+
+...
+
+[Data](articles/18f2f1d0.json)
 
 ---
 
@@ -2231,49 +2287,5 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 [Data](articles/9c652c29.json)
 
 [Extended Data](ext_articles/9c652c29.ext.json)
-
----
-
-### Sri Lanka says 1.3mn register for tax number in June, targets 7.4mn
-
-*2024-07-06 08:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-says-1-3mn-register-for-tax-number-in-june-targets-7-4mn-171114/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s State Minister of Finance has said that 2.3 million people have got Taxpayer Identification Number (TIN) so far, with 1.3 million in June alone.
-
-The government’s aim was to increase the number of people who have been given TIN numbers to 7.3 million by the end of July, Ranjith Siyambalapitiya said.
-
-“If you are asked to pay tax but do not have income, do not pay tax,” he told TIN registrants.
-
-Siyambalapitiya said that even if the Inland Revenue Department sent letters or text messages asking people who have obtained a TIN to pay taxes, if their monthly income does not exceed the threshold limit of 100,000 rupees the local revenue department should be informed. (Colombo/Jul5/2024)
-
-◼️
-
-[Data](articles/28ba5553.json)
-
-[Extended Data](ext_articles/28ba5553.ext.json)
-
----
-
-### Up Internet fraud
-
-*2024-07-06 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198527) · `si`
-
-In the last six months, there were 1,093 internet fraud reports, with 7,916 from social media, including 27 child sexual abuse cases reported in just two months, all forwarded to the National Child Protection Authority.
-
-🟩
-
-The Computer Emergency Response Forum says that 1,093 complaints have been reported on internet fraud during the past five months.
-
-Senior Information Security Engineers Warrankamamunagala stated that 7,916 complaints have been reported on social media.
-
-Furthermore, Kuraluk Damunugala stated that complaints about children in two months, especially the 27 child sexual violence.
-
-He added that the complaints have been sent to the National Child Protection Authority.
-
-◼️
-
-[Data](articles/baa502fa.json)
-
-[Extended Data](ext_articles/baa502fa.ext.json)
 
 ---

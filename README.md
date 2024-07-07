@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 22:19:44**
+As of **2024-07-07 22:35:14**
 
 ## Newspaper Stats
 
-*Scraped **34,117** Articles*
+*Scraped **34,118** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,914
 economynextcom | 2,004
 dailyftlk | 2,115
 adalk | 3,052
-adaderanalk | 3,909
+adaderanalk | 3,910
 tamilmirrorlk | 4,053
 dailymirrorlk | 4,733
 virakesarilk | 5,343
@@ -26,59 +26,95 @@ adaderanasinhalalk | 5,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,111 (100.0%) of 34,117 articles have been extended.
+34,117 (100.0%) of 34,118 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### இரு தினங்கள் பாடசாலைகள் மூடப்படுமா? அவசர அறிவிப்பு
+### Presidential Scholarship Awards to commence at district level from July 12
+
+*2024-07-07 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100360/presidential-scholarship-awards-to-commence-at-district-level-from-july-12) · `en`
+
+President’s Fund scholarship program for students from low-income families, spanning from grade 1 to grade 11 and G.C.E. (A/L), will be implemented at the district level starting from July 12, 2024.
+
+District secretaries, in collaboration with all zonal education offices and school principals, will oversee the scholarship distribution process.
+
+Details regarding the dates, times and venues for scholarship awards in each district, as well as the list of selected scholarship recipients, will be announced. This information will be published on the official Facebook page of the President’s Fund in the coming days.
+
+...
+
+[Data](articles/6b161db1.json)
+
+---
+
+### Will schools close for two days?Emergency notice
 
 *2024-07-07 22:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-தினங்கள்-பாடசாலைகள்-மூடப்படுமா-அவசர-அறிவிப்பு/175-340008) · `ta`
 
-அரச சேவையில் பணியாற்றும் பல துறைகளைச் சேர்ந்த தொழிற்சங்க ஊழியர்கள் நாளை மற்றும் நாளை மறுதினம் 08, 09ஆம் திகதிகளில் சுகவீன விடுமுறை போராட்டம் ஒன்றை முன்னெடுக்க தீர்மானித்துள்ளனர்.
+Public service trade unions plan a two-day strike, including teachers, but the Ministry of Education insists schools remain open.
 
-இப்போராட்டத்தில் ஆசிரியர்கள் மற்றும் அதிபர்களும் இணைந்து கொள்ளவுள்ளதாக இலங்கை ஆசிரியர் சங்கத்தின் பொதுச் செயலாளர் ஜோசப் ஸ்டாலின் தெரிவித்துள்ளார்.
+🟩
 
-எனினும், பாடசாலைகள் வழமை போல் நடைபெறும் என்று கல்வி அமைச்சு அறிவித்துள்ளது. R
+Trade union employees from many departments in public service have decided to carry out a healthy holiday struggle tomorrow and tomorrow.
+
+Joseph Stalin, General Secretary of the Sri Lanka Teachers Union, said that teachers and principals will join the struggle.
+
+However, the Ministry of Education has announced that schools will be held as usual. Remble
 
 ◼️
 
 [Data](articles/9ec5aaa9.json)
 
+[Extended Data](ext_articles/9ec5aaa9.ext.json)
+
 ---
 
-### மன்னார் வீதியில் விபத்து: அருட்தந்தை பலி.
+### Accident on Mannar Road
 
 *2024-07-07 21:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-வீதியில்-விபத்து-அருட்தந்தை-பலி/175-340007) · `ta`
 
-மன்னார் - தலைமன்னார் பிரதான வீதியில் இன்று ஞாயிற்றுக் கிழமை (07) மாலை இடம்பெற்ற விபத்தில் மன்னார் மறைமாவட்ட அருட் பணியாளரும் மன்னார் மடு மாதா சிறிய குருமடத்தின் உதவி இயக்குனருமான அருட்தந்தை  கே.ஜொனார்த்தனன் அடிகளார் (வயது 31)  உயிரிழந்தார்.
+Aruttantha K. Jonarthanan Adikallar, 31, died after a motorcycle crash on Mannar-Talaimannar road near Kattakaran. He was riding from Mannar when the accident occurred at 6:50 pm and later succumbed to injuries at Mannar District General Hospital.
 
-தலைமன்னார் ஆலயத்தில் மாலை நேர திருப்பலியை ஒப்புக் கொடுத்த நிலையில் மீண்டும் தலை மன்னாரில் இருந்து மன்னார் நோக்கி மோட்டார் சைக்கிளில் பயணித்த போது மாலை 6.50 மணியளவில் கட்டுக்காரன் குடியிருப்பு பகுதியில் மோட்டார் சைக்கிள் விபத்திற்கு உள்ளாகியது.
+🟩
 
-இதன் போது படுகாயமடைந்த அருட்தந்தை மன்னார் மாவட்ட பொது வைத்தியசாலைக்கு கொண்டு வரப்பட்ட நிலையில் உயிரிழந்தார்.
+The Mannar Diocese of Arut and Assistant Director of the Mannar Madhu Mata Mata Mata, Aruttantha K. Jonarthanan Adikallar (age 31) died on Sunday evening on the Mannar - Talaimannar main road.
+
+A motorcycle crashed in the Kattakaran residential area at 6.50 pm while traveling from Mannar to Mannar to Mannar.
+
+The injured Aruttanda died after being brought to the Mannar District General Hospital.
 
 ◼️
 
 [Data](articles/6fd91654.json)
 
+[Extended Data](ext_articles/6fd91654.ext.json)
+
 ---
 
-### ’தீர்வுகாண்பதற்கு சம்பந்தனும் நானும் பணியாற்றினோம்’
+### Sampanthan and I worked for the solution
 
 *2024-07-07 21:52:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீர்வுகாண்பதற்கு-சம்பந்தனும்-நானும்-பணியாற்றினோம்/175-340004) · `ta`
 
-மறைந்த ஆர். சம்பந்தன் தமிழ் மக்களின் உரிமைகளுக்காக மாத்திரமன்றி ஒட்டுமொத்த இலங்கை மக்களின் உரிமைகளுக்காகவும் முன் நின்ற தலைவர் என்றும் சம்பந்தனும் தானும் எப்போதும் பிரிக்கப்படாத இலங்கைக்காக தம்மை அர்ப்பணித்தவர்கள் என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+At President Ranil Wickremesinghe's speech during Sampanthan's funeral, he highlighted Sampanthan's leadership for Tamil rights and dedication to Sri Lanka's unity. He urged unity to advance discussions aimed at resolving Tamil issues, including the National Land Commission draft. Wickremesinghe mourned Sampanthan's death as a loss of a long-time friend and praised his efforts towards solving Tamil problems and his role as a true opposition leader. Despite ongoing legal challenges, the President assured that presidential, parliamentary, and provincial council elections would proceed as planned.
 
-ஆர். சம்பந்தனுடன் உடன்பாட்டுடன் முன்நோக்கி கொண்டு வந்த அந்தக் கலந்துரையாடல்களை வெற்றிகரமாக நிறைவு செய்ய அனைவரும் ஒன்றிணைய வேண்டும் என்றும் ஜனாதிபதி குறிப்பிட்டார்.
+🟩
 
-திருகோணமலையில் அன்னாரது இல்லத்தில் இன்று (07) பிற்பகல் நடைபெற்ற சம்பந்தனின் இறுதி கிரியையில் கலந்து கொண்ட போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+The late r. President Ranil Wickremesinghe said that Sampanthan was the leader of the entire Sri Lankan people for the rights of the Tamil people and that Sampanthan was dedicated to Sri Lanka that he was always divided.
 
-முன்னாள் எதிர்க்கட்சித் தலைவரும் தமிழ்த் தேசியக் கூட்டமைப்பின் முன்னாள் தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான மறைந்த ஆர். இரா.சம்பந்தனின் இறுதிக் கிரியைகள், இன்று (07) பிற்பகல் ஆளுங்கட்சி மற்றும் எதிர்க்கட்சி அரசியல் தலைவர்கள், அமைச்சர்கள், பாராளுமன்ற உறுப்பினர்கள், கட்சித் தலைவர்கள் உட்பட பெருந்திரளான மக்களின் பங்கேற்புடன் இடம்பெற்றது.
+R. The President also stated that everyone should unite to successfully complete the discussions that have been brought forward with the agreement with Sambandan.
+
+President Ranil Wickremesinghe made this statement while attending the funeral of Sambandan at the Annaru residence in Trincomalee this afternoon.
+
+Former Opposition Leader and former TNA leader and Trincomalee district parliamentarian. The funeral of Sampanthan was held this afternoon with a large number of people, including the ruling and opposition political leaders, ministers, parliamentarians and party leaders.
+
+R. The President expressed his deepest condolences to Sampanthan's death and said that his death was a loss of a long -time friend.
 
 ...
 
 [Data](articles/4d702270.json)
+
+[Extended Data](ext_articles/4d702270.ext.json)
 
 ---
 
@@ -101,6 +137,8 @@ The suspect was subsequently apprehended while receiving medical treatment at th
 ...
 
 [Data](articles/300cccd4.json)
+
+[Extended Data](ext_articles/300cccd4.ext.json)
 
 ---
 
@@ -266,19 +304,25 @@ Meanwhile, the President of the All Ceylon Nursing Association SB. Mediawatta sa
 
 ---
 
-### විදුලිය ඉන්ධන හා ඛනිජ තෙල් අත්‍යාවශ්‍ය සේවා කරයි
+### Electricity and petroleum are essential
 
 *2024-07-07 19:25:27* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිය-ඉන්ධන-හා-ඛනිජ-තෙල්-අත්‍යාවශ්‍ය-සේවා-කරයි/11-410655) · `si`
 
-විදුලි බල සැපයීම සම්බන්ධ සියලු සේවා සහ ඛනිජ තෙල් නිෂ්පාදන හා ඉන්ධන සැපයීම හෝ බෙදාහැරීම ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අත්‍යවශ්‍ය සේවා බවට පත් කෙරේ.
+President Ranil Wickremesinghe declared electricity and petroleum as essential services, making their production, supply, and delivery public. This decision aims to ensure these critical resources remain accessible to all citizens, with no restrictions from any government department or local bodies.
 
-මෙකී සේවා අත්‍යවශ්‍ය සේවා බවට පත් කළ ගැසට් නිවේදනය ජනාධිපති ලේකම් ඊ.එම්.එස්.බී.ඒකනායක මහතා විසින් පසුගිය 04වෙනිදින නිකුත් කරනු ලැබීය.
+🟩
 
-මේ අනුව මෙම ගැසට් නිවේදනය මගින් ඕනෑම රාජ්‍යසංස්ථාවකින්,දෙපාර්තමේන්තුවකින්,පළාත් පාලන ආයතනයකින්,සමුපකාර සමිතියකින් හෝ ඒවායේ ශාඛාවකින් සපයනු ලබන මෙකී සේවාවන් සාමාන්‍ය ජන ජීවිතය පවත්වාගෙන යාමට අත්‍යවශ්‍ය සේවා බවට පත්කර තිබේ.
+All services and supply of petroleum production and supply of petroleum production and supply of petroleum production and delivery of petroleum production and delivery will be made public by President Ranil Wickremesinghe.
+
+The gazette notification that made these services essential services was issued by the President EMSBA.
+
+Accordingly, the gazette notification has made these services the essential services to the maintenance of the average people by any publicity, department, department, a local government body or branch.
 
 ◼️
 
 [Data](articles/9a49b87d.json)
+
+[Extended Data](ext_articles/9a49b87d.ext.json)
 
 ---
 
@@ -308,21 +352,31 @@ President Ranil Wickremesinghe, President Ranil Wickremesinghe, the President an
 
 ---
 
-### சம்பந்தனின் பூதவுடல் அக்கினியுடன் சங்கமம்
+### Sampanthan's funeral
 
 *2024-07-07 18:38:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/சம்பந்தனின்-பூதவுடல்-அக்கினியுடன்-சங்கமம்/75-339990) · `ta`
 
-முன்னாள் எதிர்க்கட்சித் தலைவரும் தமிழ்த் தேசியக் கூட்டமைப்பின் சிரேஷ்ட தலைவரும் காலஞ் சென்ற பாராளுமன்ற உறுப்பினர் இராஜவரோதயம் சம்பந்தன் அவர்களின் இறுதி கிரியைகள் திருகோணமலையில் உள்ள இந்து மயானத்தில் இன்று(07) மாலை இடம்பெற்றது.
+Rajavarodayam Sambandan, former Opposition Leader and TNA Senior Leader, was laid to rest at Trincomalee's Hindu Cemetery. Political figures like President Ranil Wickremesinghe, BJP leader Annamalai, and others attended his funeral, which began at his home before proceeding to the cemetery. The event saw a significant turnout, including participants from various regions of Sri Lanka.
 
-அரசியல் பிரமுகர்கள், பெருந்திரளான மக்கள் அன்னாரின் பூதவுடலுக்கு  அஞ்சலி செலுத்தினர். இறுதி கிரியைகளில் ஜனாதிபதி ரணில் விக்ரமசிங்க, பாரதிய ஜனதா கட்சி தமிழக தலைவர் அண்ணாமலை உள்ளிட்ட கட்சியின் தலைவர்கள், பாராளுமன்ற உறுப்பினர்கள் என பலரும்  பங்கேற்றனர்.
+🟩
 
-பாதுகாப்பு பலப்படுத்தப்பட்டு திருகோணமலை நகர் முழுதும் ஆழ்ந்த இறங்கல் தெரிவித்து அமரர் இரா. சம்பந்தனின் உருவப்படம் தொங்கவிடப்பட்டிருந்தது. இதில் தென்னிலங்கையை சேர்ந்த அரசியல் பிரமுகர்கள், வடகிழக்கு, மலையகத்தை சேர்ந்த மக்கள் பிரதிநிதிகள் என பலரும் கலந்து கொண்டனர்.
+Former Opposition Leader and Senior Leader of the Tamil National Alliance (TNA), Rajavarodayam Sambandan, who had gone to Kanjavan, took place at the Hindu Cemetery in Trincomalee this evening.
 
-கடந்த ஞாயிற்றுக்கிழமை உடல் நலக்குறைவு காரணமாக கொழும்பில் உள்ள தனியார் மருத்துவமனையில் அமரர் இரா. சம்பந்தன் இயற்கை எய்தினார் என்பதும் குறிப்பிடத்தக்கது.
+Political dignitaries and large people paid tribute to Annar's. President Ranil Wickremesinghe, Bharatiya Janata Party (BJP) leader Annamalai and many others participated in the event.
+
+Amara is not in a deep landing in Trincomalee. Sampanthan's portrait was hung. Political dignitaries from South Sri Lanka, people from the northeast and people from the hill country participated.
+
+Amarar Ira not in a private hospital in Colombo. It is also noteworthy that Sambandan was natural.
+
+Finally, the funeral was taken from the Annar's native house and cremated at the Hindu Cemetery in Trincomalee.
+
+The body of the Sri Lankan Tamil National Party (TNA) leader Amara Sampanthan was placed in the house of Annar and was taken to the Poothavadal cemetery at 4 pm.
 
 ...
 
 [Data](articles/2ec56eb3.json)
+
+[Extended Data](ext_articles/2ec56eb3.ext.json)
 
 ---
 
@@ -2329,31 +2383,5 @@ Hospital sources say that those who were admitted to the hospital have no seriou
 [Data](articles/48b9ecd5.json)
 
 [Extended Data](ext_articles/48b9ecd5.ext.json)
-
----
-
-### The young man who visited Canada by a batch of license
-
-*2024-07-07 10:10:10* · [`adalk`](https://www.ada.lk/breaking_news/කූඨ-ගමන්-බලපත්‍රයකින්-කැනඩාවට-පනින්න-ගිය-තරුණයාට-වැඩ-වරදියි/11-410636) · `si`
-
-A Sri Lankan youth, 27 from Jaffna, was arrested at Katunayaka airport for attempting to travel to Canada with a stolen passport. The passport belonged to another individual and was procured for Rs. 18 lakhs. He was detained during passport inspection and will be investigated further.
-
-🟩
-
-A Sri Lankan youth who had come to the Katunayakama Institute of Immigration and Emigration has been arrested by the Department of Immigration and Emigration.
-
-He is a 27 year old resident of Jaffna.7.20 pm on 07/06 pm at Saudi Arabia to leave Sri Lankan Airlines UL. He was planning to go to Canada on another aircraft.
-
-He has been surrounded by the inspection of his passport, including his passport, and other documents to the officers of the Department of Immigration and Emigration.
-
-It has been revealed that the passport was a passport of another Sri Lankan to another Sri Lankan visa.
-
-He has made the Department of Immigration Department and the Department of Laboratory Surveillance Unit that the passport has been provided with the photograph of Rs. 18 lakhs.
-
-...
-
-[Data](articles/a33e676a.json)
-
-[Extended Data](ext_articles/a33e676a.ext.json)
 
 ---

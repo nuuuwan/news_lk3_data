@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 19:52:40**
+As of **2024-07-07 20:05:07**
 
 ## Newspaper Stats
 
-*Scraped **34,101** Articles*
+*Scraped **34,106** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,62 @@ newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,004
 dailyftlk | 2,115
-adalk | 3,049
+adalk | 3,050
 adaderanalk | 3,907
-tamilmirrorlk | 4,046
+tamilmirrorlk | 4,049
 dailymirrorlk | 4,733
 virakesarilk | 5,342
-adaderanasinhalalk | 5,673
+adaderanasinhalalk | 5,674
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,100 (100.0%) of 34,101 articles have been extended.
+34,101 (100.0%) of 34,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### රාජ්‍ය සේවා වෘත්තීය සමිති දැඩි තීරණයක
+### ඉන්දියාව ට පහසු ජයක්
+
+*2024-07-07 19:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198584) · `si`
+
+ඉන්දියාව සහ සිම්බාබ්වේ අතර පැවති දෙවැනි 20යි 20 ජාත්‍යන්තර ක්‍රිකට් තරගය පහසුවෙන් ජයගැනීමට සංචාරක ඉන්දීය කණ්ඩායම සමත්විය.
+
+මෙම තරගයේ පළමුව පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම කඩුලු 234ක් රැස්කළ අතර සත්කාරක සිම්බාබ්වේ කණ්ඩායම සියලුදෙනා දැවී රැස්කළේ ලකුණු 134ක් පමණි.
+
+◼️
+
+[Data](articles/b18a1b68.json)
+
+---
+
+### Public Service Trade Unions in a strict decision
 
 *2024-07-07 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198583) · `si`
 
-රාජ්‍ය සේවයේ වෘත්තීය සමිති 200කට අධික සංඛ්‍යාවක් හෙට (08) සහ අනිද්දා (09) යන දෙදින තුළ අසනීප නිවාඩු වාර්තා කිරීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරත වීමට සැලසුම් කර තිබේ.
+Over 200 public service trade unions plan a sick leave protest, marking one of the largest such actions. The Ministry of Public Service supports this move, involving various sectors like Grama Niladhari, Survey, and Development Officers. However, the Government Medical Officers Association and the Health Sector Forum have opted out, indicating divisions within the public service unions over this action.
 
-රාජ්‍ය හා පළාත් රාජ්‍ය සේවා වෘත්තීය සමිති එකමුතුව පැවසුවේ විධායක ශ්‍රේණියේ නිලධාරීන්ට පමණක් ලබාදී ඇති රුපියල් 25,000ක දීමනා ඉහළ නැංවීම සියලුම රාජ්‍ය සේවකයින්ට ලබාදෙන ලෙස ඉල්ලමින් මෙම ක්‍රියාමාර්ගය ගන්නා බවය.
+🟩
 
-ග්‍රාම නිලධාරි, මිනින්දෝරු, සංවර්ධන නිලධාරි, තැපැල් ඇතුළු රාජ්‍ය සේවයේ වෘත්තීය සමිති රැසක් මෙම ක්‍රියාමාර්ගය සඳහා එක්වන බව රාජ්‍ය හා පළාත් රාජ්‍ය සේවා වෘත්තීය සමිති එකමුතුවේ සම කැඳවුම්කරු චන්දන සූරියආරච්චි මහතා සඳහන් කළේය.
+Over 200 trade unions in the public service, it is planned to engage in a trade union action to report sick leave at the day.
 
-මෙම වෘත්තීය සමිති ක්‍රියාමාර්ගය සඳහා සහාය පළකරමින් අද (07) පස්වරු 4 සිට මධ්‍යම තැපැල් හුවමාරුවේ සේවකයින් වර්ජනයක නිරත වන බව ඒකාබද්ධ තැපැල් සේවා වෘත්තීය සමිති එකමුතුවේ කැඳවුම්කරු චින්තක බණ්ඩාර මහතා පැවසීය.
+The Ministry of Public Service and Provincial Public Service Unions said that the implementation of Rs.
+
+The Co-convener of the Ministry of Public Service and Provincial Public Service Unions said that many public service, including Grama Niladhari, Survey, Development Officer, and other public service unions participate in this program.
+
+Convener of the Joint Postal Services Trade Union, the convener of the Joint Postal Services Trade Union, said that the employees of the trade union action will be held from 4 pm today (07).
+
+President of the Government Officer Federation Federation Sumith Kodikara said that the trade union action will be taken into strike in the country after the 1980 strike.
+
+Meanwhile, the President of the All Ceylon Nursing Association SB. Mediawatta said that even though public servants will support the trade union action implemented tomorrow.
 
 ...
 
 [Data](articles/f86736df.json)
+
+[Extended Data](ext_articles/f86736df.ext.json)
 
 ---
 
@@ -73,6 +97,24 @@ President Ranil Wickremesinghe, President Ranil Wickremesinghe, the President an
 [Data](articles/da7dee79.json)
 
 [Extended Data](ext_articles/da7dee79.ext.json)
+
+---
+
+### சம்பந்தனின் பூதவுடல் அக்கியுடன் சங்கமம்
+
+*2024-07-07 18:38:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/சம்பந்தனின்-பூதவுடல்-அக்கியுடன்-சங்கமம்/75-339990) · `ta`
+
+முன்னாள் எதிர்க்கட்சித் தலைவரும் தமிழ்த் தேசியக் கூட்டமைப்பின் சிரேஷ்ட தலைவரும் காலஞ் சென்ற பாராளுமன்ற உறுப்பினர் இராஜவரோதயம் சம்மந்தன் அவர்களின் இறுதி கிரியைகள் திருகோணமலையில் உள்ள இந்து மயானத்தில் இன்று(07) மாலை இடம்பெற்றது.
+
+அரசியல் பிரமுகர்கள், பெருந்திரளான மக்கள் அன்னாரின் பூதவுடலுக்கு  அஞ்சலி செலித்தினர். இறுதி கிரியைக்காக ஜனாதிபதி ரணில் விக்ரமசிங்க , பாரதிய ஜனதா கட்சி தமிழக தலைவர் அண்ணாமலை உள்ளிட்ட கட்சியின் தலைவர்கள், பாராளுமன்ற உறுப்பினர்கள் என பலரும்  பங்கேற்றனர்.
+
+பலத்த பாதுகாப்பும் பலப்படுத்தப்பட்டு திருகோணமலை நகர் முழுதும் ஆழ்ந்தல் இறங்கல் தெரிவித்து அமரர் இரா. சம்மந்தனின் உருவப்படம் தொங்கவிடப்பட்டுள்ளது.. இதில் தென்னிலங்கையை சேர்ந்த அரசியல் பிரமுகர்கள், வடகிழக்கு மலையகத்தை சேர்ந்த மக்கள் பிரதிநிதிகள் என பலரும் மேலும் கலந்து கொண்டனர்.
+
+கடந்த ஞாயிற்றுக்கிழமை உடல் நலக்குறைவு காரணமாக கொழும்பில் உள்ள தனியார் மருத்துவமனையில் அமரர் இரா. சம்பந்தன் இயற்கை எய்தினார் என்பதும் குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/341c9fe0.json)
 
 ---
 
@@ -154,6 +196,22 @@ The ball players passed over 176 balls in 17.1 overs.
 
 ---
 
+### ජනාධිපති ශිෂ්‍යත්ව පිරිනැමීම ජූලි 12 වනදා සිට දිස්ත්‍රික් මට්ටමින්
+
+*2024-07-07 18:22:47* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-ශිෂ්‍යත්ව-පිරිනැමීම-ජූලි-12-වනදා-සිට-දිස්ත්‍රික්-මට්ටමින්/11-410651) · `si`
+
+අ.පො.ස. (උ/පෙළ) සහ පළමු ශ්‍රේණියේ සිට 11 ශ්‍රේණිය දක්වා අධ්‍යාපනය ලබන අඩු ආදායම්ලාභී පවුල්වල සිසුන් වෙනුවෙන් ජනාධිපති අරමුදලින් පිරිනැමෙන ශිෂ්‍යත්ව ප්‍රදානය මෙම ජූලි 12 වනදා සිට දිස්ත්‍රික් මට්ටමින් ක්‍රියාත්මක කිරීමට කටයුතු සූදානම් කර තිබේ.
+
+ඒ අනුව දිස්ත්‍රික් ලේකම්වරුන්ගේ ප්‍රධානත්වයෙන්, සියලු කලාප අධ්‍යාපන කාර්යාල සහ විදුහල්පතිවරුන්ගේ සම්බන්ධීකරණයෙන් මෙම ශිෂ්‍යත්ව ප්‍රදානය සිදු වන අතර එක් එක් දිස්ත්‍රික්කය සඳහා ශිෂ්‍යත්ව ප්‍රදානය කරනු ලබන දිනයන්, වේලාවන් සහ ස්ථානයන් මෙන්ම එම දිස්ත්‍රික්කයන් සඳහා මෙම ශිෂ්‍යත්ව වැඩසටහන් යටතේ තෝරාගන්නා ලද ශිෂ්‍යත්වලාභීන්ගේ නාම ලේඛනය ඉදිරි දින කිහිපය තුළ ජනාධිපති අරමුදලේ නිල Facebook පිටුවෙහි පළකිරීමට නියමිතය.
+
+එක් එක් දිස්ත්‍රික්ක සඳහා අ.පො.ස (උ/පෙළ) හදාරන සිසුන් වෙනුවෙන් ලබාදෙනු ලබන ශිෂ්‍යත්ව සඳහා තෝරාගන්නා ලද සිසුන්ගේ නාම ලේඛනය කලාප මට්ටමින් දැනටමත් ජනාධිපති අරමුදලේ නිල Facebook පිටුවේ සඳහන් කර ඇත.
+
+...
+
+[Data](articles/3ae30bc7.json)
+
+---
+
 ### Investments, interest income, tax
 
 *2024-07-07 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187905) · `ta`
@@ -187,6 +245,26 @@ The leader of the national rally, Maureen La Ben, is on the road to create a ris
 [Data](articles/68850d16.json)
 
 [Extended Data](ext_articles/68850d16.ext.json)
+
+---
+
+### ரணிலை ஆதரிக்க தீர்மானம்; கருணா
+
+*2024-07-07 18:09:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-ஆதரிக்க-தீர்மானம்-கருணா/175-339989) · `ta`
+
+ஜனாதிபதியின் பதவி நீடிக்கப்படா விட்டாலும் இந்த நாட்டில் உள்ள பெரும்பான்மையான மக்கள் ரணில் விக்கிரமசிங்கவை ஆதரிக்க தீர்மானித்துள்ளனர் என தமிழர் ஐக்கிய சுதந்திர முன்னணியின் தலைவரும் முன்னாள் பிரதியமைச்சருமான விநாயகமூர்த்தி முரளிதரன் தெரிவித்துள்ளார்.
+
+மட்டக்களப்பில் இன்று தமிழர் ஐக்கிய சுதந்திர முன்னணியின் ஏற்பாட்டில் முன்னாள் போராளிகளுக்கு வாழ்வாதார உதவிகள் வழங்கும் நிகழ்வு நடைபெற்றது.
+
+இதன் போது மட்டக்களப்பு மாவட்டத்தில் தெரிவு செய்யப்பட்ட பயனாளிகளுக்கு இந்த வாழ்வாதார உதவி வழங்கி வைக்கப்பட்டன.
+
+தமிழர் ஐக்கிய சுதந்திர முன்னணியின் உபதலைவர் ஜெயா.சரவணன் தலைமையில் நடைபெற்ற இந்த நிகழ்வில் தமிழர் ஐக்கிய சுதந்திர முன்னணியின் தலைவரும் முன்னாள் பிரதியமைச்சருமான விநாயகமூர்த்தி முரளிதரன் பிரதம அதிதியாக கலந்துகொண்டார்.
+
+இதன்போது கலந்து கொண்டு  கருத்துத் தெரிவிக்கும் போதே அவர் இவ்வாறு குறிப்பிட்டார். அவர் அங்கு மேலும் தெரிவிக்கையில்,
+
+...
+
+[Data](articles/136c1128.json)
 
 ---
 
@@ -473,6 +551,24 @@ Accordingly, the protest was carried out in the heads of the CWC leaders in char
 [Data](articles/125a4357.json)
 
 [Extended Data](ext_articles/125a4357.ext.json)
+
+---
+
+### மனோவுக்கு எதிராக மலையகத்தில் போராட்டம்
+
+*2024-07-07 16:14:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மனோவுக்கு-எதிராக-மலையகத்தில்-போராட்டம்/76-339985) · `ta`
+
+தமிழ் முற்போக்கு கூட்டணி தலைவரும், பாராளுமன்ற உறுப்பினருமான மணோகனேஷன் எம்.பி க்கு எதிராக மலையகத்தில் ஞாயிற்று கிழமை  போராட்டங்கள் நடத்தப்பட்டது.
+
+இதன்போது பாராளுமன்ற உறுப்பினர் மனோ கணேசனுக்கு எதிராக வாசகங்கள் பறித்த பதாதைகளை ஏந்தியும், கோஷங்களை எழுப்பியும் மக்கள் போராட்டத்தை முன்னெடுத்தனர்.
+
+தோட்ட தொழிலாளர்களுக்கு 1700 ரூபாய் சம்பள உயர்வு விடயத்தில் அரசாங்கம் வெளியிட்ட வர்த்தமானிக்கு எதிராக பெருந் தோட்ட கம்பனிகள் இந்த வர்த்தமானி அறிவித்தலுக்கு இடைக்கால தடை விதிக்க கோரி உயர் நீதி மன்றத்தில் வழக்கு தொடர்ந்திருந்தது.
+
+இது குறித்து இலங்கை தொழிலாளர் காங்கிரஸ் பொது செயலாளரும் அமைச்சருமான ஜீவன் தொண்டமான் நீதிமன்ற வளாகத்தில் கடந்த (04) ஆம் திகதி ஊடகங்களுக்கு கருத்து தெரிவித்திருந்தார்.
+
+...
+
+[Data](articles/a7c57dfb.json)
 
 ---
 
@@ -2213,123 +2309,5 @@ However, the Israeli security forces that reject the allegations say that the ai
 [Data](articles/a5ca4b7e.json)
 
 [Extended Data](ext_articles/a5ca4b7e.ext.json)
-
----
-
-### Dr. Bellana warns of political conspiracy to undermine health sector
-
-*2024-07-07 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100339/dr-bellana-warns-of-political-conspiracy-to-undermine-health-sector) · `en`
-
-Dr. Rukshan Bellana has warned of a potential political conspiracy to undermine the country’s health sector in the future.
-
-He indicated that certain groups are attempting to recruit economically disadvantaged employees to support this agenda.
-
-Dr. Bellana made these remarks at the inauguration ceremony of the National Union of Healthcare Workers (NUHW) held at the United National Party (UNP) Headquarters, Sirikotha.
-
-Meanwhile, the General Secretary of the Joint Health Services Union, Ven. Tampitiye Sugathananda Thero, has announced that hospital junior staff will go on strike the day after tomorrow (9) to base on several demands.
-
-◼️
-
-[Data](articles/04abf3f8.json)
-
-[Extended Data](ext_articles/04abf3f8.ext.json)
-
----
-
-### England and the Netherlands to the semi-round
-
-*2024-07-07 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198558) · `si`
-
-England and the Netherlands advanced to the Euro Cup semi-finals after drawing 1-1 in their group stage matches. England secured their spot with a penalty shootout victory, setting the stage for a highly anticipated clash on Wednesday.
-
-🟩
-
-England and Netherlands were able to qualify for the semi-finals of the European Cup Football Tournament.
-
-By the end of the time, both groups were given 1 goals.
-
-England won the match as 3 to 3 punishments.
-
-Accordingly, the semi-finals between England and the Netherlands will be held on Wednesday.
-
-◼️
-
-[Data](articles/de256927.json)
-
-[Extended Data](ext_articles/de256927.ext.json)
-
----
-
-### 14 killed in Minibus accident
-
-*2024-07-07 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198557) · `si`
-
-In Western Ukraine, a minibus collision with a lorry resulted in the tragic deaths of 14 individuals, including both passengers and drivers. The incident was caused by the truck moving against traffic. Authorities are investigating and plan to file a criminal case.
-
-🟩
-
-A lorry and a grave in Western Ukraine and 14 people were killed.
-
-A senior official said the accident had occurred as a result of running the lorry towards an opposing vehicle.
-
-12 passengers and drivers were killed there.
-
-Ukrainian authorities said that action is being taken to file a criminal case.
-
-◼️
-
-[Data](articles/50a966cb.json)
-
-[Extended Data](ext_articles/50a966cb.ext.json)
-
----
-
-### Sri Lanka engaging with local banks on sovereign bonds restructure
-
-*2024-07-07 08:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-engaging-with-local-banks-on-sovereign-bonds-restructure-171159/) · `en`
-
-ECONOMYNEXT – Sri Lanka is engaging with local banks on their sovereign bond holdings, State Minister for Finance Shehan Semasinghe said after a deal was struck with foreign investors to restructure bonds.
-
-Sri Lanka has now reached final or in-principle deals with most of the debt with domestic rupee debt completed, bilateral debt also final agreements also being reached as well as the latest deal with foreign investors holding sovereign bonds.
-
-However about 15 percent of the sovereign bonds outstanding are held with private local banks, who have their own advisors.
-
-“…It is important to pay attention to the balance figure, the central bank and our advisors and the ministry of finance will attend,” Minister Semansinghe said.
-
-The deal with foreign sovereign bond holders indicated a 28 percent initial hair-cut which will be reduced to 15 percent if GDP grows at a certain speed.
-
-Sri Lanka banks have provided for about 50 percent or more of the holdings, Fitch Ratings has reported.
-
-...
-
-[Data](articles/d0ed2259.json)
-
-[Extended Data](ext_articles/d0ed2259.ext.json)
-
----
-
-### Family dispute that lost a life
-
-*2024-07-07 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198556) · `si`
-
-In a tragic incident, a 29-year-old woman was fatally assaulted with a sharp object during a family dispute over second marriages in the Batticaloa Police Division. The suspect, aged 34, was apprehended by the Jaffna Police, who continue investigating the case.
-
-🟩
-
-A woman has been assaulted by a sharp object due to a sharp object.
-
-The murder was held in the evening of the Batticaloa Police Division in the evening yesterday.
-
-The victim was a 29 year old resident of the Pudukuduirippu area in Pudukuduirippu.
-
-Police investigations have revealed that the murder was taken away from the deceased, and a family dispute with a family dispute with the second marriages.
-
-The 34-year-old suspect was arrested by the Jaffna Police are conducting further investigations.
-
-◼️
-
-[Data](articles/cd077800.json)
-
-[Extended Data](ext_articles/cd077800.ext.json)
 
 ---

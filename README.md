@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 02:35:12**
+As of **2024-07-08 02:53:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,132 (100.0%) of 34,133 articles have been extended.
+34,133 (100.0%) of 34,133 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The private residence at Gower Street Colombo that won for Best Residential Inte
 ...
 
 [Data](articles/f1dc01fc.json)
+
+[Extended Data](ext_articles/f1dc01fc.ext.json)
 
 ---
 

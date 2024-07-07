@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 17:19:57**
+As of **2024-07-07 17:35:18**
 
 ## Newspaper Stats
 
-*Scraped **34,084** Articles*
+*Scraped **34,086** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,30 @@ adalk | 3,045
 adaderanalk | 3,906
 tamilmirrorlk | 4,043
 dailymirrorlk | 4,733
-virakesarilk | 5,338
+virakesarilk | 5,340
 adaderanasinhalalk | 5,668
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,083 (100.0%) of 34,084 articles have been extended.
+34,084 (100.0%) of 34,086 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### பிரித்தானிய தேர்தலில் ஈழத்தமிழ் பெண்ணின் வெற்றி
+
+*2024-07-07 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/187901) · `ta`
+
+ரிஷி சுனக் ஆட்சியில் பல ஆண்டுகளில் இல்லாத அளவுக்கு மிகமோசமான பொருளாதார சூழல் நிலவியது. இதனால் அங்கே ஆளும் அரசு மீது மக்களிடையே மிகப் பெரிய கோபம் நிலவியது. அதுவே இப்போது ரிஷி சுனக்கிற்கு பெரும் தலைவலியாக மாறி, பாரிய படுதோல்வியை சந்தித்துள்ளார். இந்தப் பொதுத் தேர்தலில் ஆட்சியமைக்க தேவையான 326 இடங்களை தொழிலாளர் கட்சி கைப்பற்றிள்ளது.
+
+◼️
+
+[Data](articles/09b11e0a.json)
+
+---
 
 ### MOE to extend interest-free loans to students who passed A/Ls
 
@@ -49,6 +61,20 @@ The ministry has now invited proposals for courses from these institutions for t
 ◼️
 
 [Data](articles/cba1c9a2.json)
+
+[Extended Data](ext_articles/cba1c9a2.ext.json)
+
+---
+
+### தேர்தலைத் தடுக்க முனையும் சக்தி எது?
+
+*2024-07-07 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187899) · `ta`
+
+மைத்திரிபால சிறிசேன, ஜனாதிபதியின் பதவிக்காலத்தை 5 ஆண்டுகளாக குறைக்கும் சட்ட திருத்தத்தைக் கொண்டுவந்துவிட்டு, 2019ஆம் ஆண்டு தனது பதவிக்காலம் 5 ஆண்டுகளா, 6 ஆண்டுகளா என்று உயர்நீதிமன்றத்தை கேட்டபோதே, இனி ஜனாதிபதியின் பதவிக்காலம் 5 ஆண்டுகள்தான் என்று உயர் நீதிமன்றம்  திட்டவட்டமாக கூறிவிட்டது...”
+
+◼️
+
+[Data](articles/9c1cbdcf.json)
 
 ---
 
@@ -2245,37 +2271,5 @@ Subsequently President Ranil Wickremesinghe, former Finance Minister Ravi Karuna
 [Data](articles/3b6bcbd4.json)
 
 [Extended Data](ext_articles/3b6bcbd4.ext.json)
-
----
-
-### Navigating ourselves out
-
-*2024-07-07 01:21:00* · [`islandlk`](http://island.lk/navigating-ourselves-out/) · `en`
-
-This may be cynical posturing on my part, but recent announcements about Sri Lanka’s debt restructuring process reeks of a somewhat widespread tendency to credit everything to the political leadership at the cost of the suffering many. Legitimate concerns have been raised about whether Sri Lanka could have negotiated better; the debt haircut Ghana settled for, to give one example, is miles away from Sri Lanka’s figure. The extent of our haircut leaves us with very little breathing space. To stick to it, we need to engage in savage austerity, or more of what we have been inflicting on ourselves for the last two years.
-
-...
-
-[Data](articles/49bbc6fe.json)
-
-[Extended Data](ext_articles/49bbc6fe.ext.json)
-
----
-
-### Lanka’s defense cooperation with India: Strengthening ties or strategic dependence?
-
-*2024-07-07 01:21:00* · [`islandlk`](http://island.lk/lankas-defense-cooperation-with-india-strengthening-ties-or-strategic-dependence/) · `en`
-
-Exposing a large segment of your military officers to the thinking and training of a foreign power, especially one so near, can have significant consequences.
-
-Defense cooperation between Sri Lanka and India is growing. This is significant as India’s defense engagements with other countries in the region, such as the Maldives, for example, are reducing. This is a strategic move on India’s part to strengthen its influence in the Indian Ocean island at a time when the Chinese presence in the region has grown manifold.
-
-By providing specialized training and military aid, India aims to foster a closer relationship with Sri Lanka, akin to the historical precedent set by the United States through its military aid programs with developing countries since 1880.
-
-...
-
-[Data](articles/e1a8b07b.json)
-
-[Extended Data](ext_articles/e1a8b07b.ext.json)
 
 ---

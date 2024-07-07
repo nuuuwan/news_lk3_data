@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 20:19:56**
+As of **2024-07-07 20:36:06**
 
 ## Newspaper Stats
 
-*Scraped **34,107** Articles*
+*Scraped **34,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,914
 economynextcom | 2,004
 dailyftlk | 2,115
 adalk | 3,050
-adaderanalk | 3,907
+adaderanalk | 3,908
 tamilmirrorlk | 4,049
 dailymirrorlk | 4,733
 virakesarilk | 5,343
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,674
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,106 (100.0%) of 34,107 articles have been extended.
+34,107 (100.0%) of 34,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### ‘Both of us were dedicated to an undivided Sri Lanka’ – President on the late R. Sampanthan
+
+*2024-07-07 20:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/100358/both-of-us-were-dedicated-to-an-undivided-sri-lanka-president-on-the-late-r-sampanthan) · `en`
+
+President Ranil Wickremesinghe paid tribute to the late Mr. R. Sampanthan, acknowledging him as a leader who championed the rights not only of the Tamil people but also of all Sri Lankans.
+
+He emphasized that both Mr. Sampanthan and himself were committed to the cause of an undivided Sri Lanka. The President urged everyone to unite in successfully concluding the discussions initiated with Mr. Sampanthan.
+
+President Wickremesinghe made these remarks while attending Mr. R. Sampanthan’s funeral at his residence in Trincomalee this afternoon (07). The funeral ceremony, honouring the former Leader of the Opposition and the Tamil National Alliance (TNA), as well as the late Trincomalee District Member of Parliament, was attended by numerous political leaders, both from the Government and the opposition.
+
+...
+
+[Data](articles/ffe95ad1.json)
+
+---
 
 ### India be convenient to India
 
@@ -52,21 +68,29 @@ Batting first, the Indian team scored 234 wickets and the Host Zimbabwe scored 1
 
 ---
 
-### பிரிக்கப்படாத இலங்கைக்குள் தீர்வுகாண இரா. சம்பந்தனும் நானும் எப்போதும் பணியாற்றினோம் - ஜனாதிபதி
+### In Sri Lanka. Sampanthan and I have always worked - the President
 
 *2024-07-07 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187928) · `ta`
 
-மறைந்த இரா. சம்பந்தன் தமிழ் மக்களின் உரிமைகளுக்காக மாத்திரமன்றி ஒட்டுமொத்த இலங்கை மக்களின் உரிமைகளுக்காகவும் முன் நின்ற தலைவர் என்றும் சம்பந்தனும் தானும் எப்போதும் பிரிக்கப்படாத இலங்கைக்காக தம்மை அர்ப்பணித்தவர்கள் என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe honored the late Sampanthan, describing him as a leader for the Tamil people and a unifier for all Sri Lankans. He emphasized Sampanthan's dedication to resolving Tamil issues and uniting the nation. The President urged unity to finalize ongoing discussions aimed at addressing these concerns. Sampanthan's funeral was attended by a broad spectrum of Sri Lankan society, highlighting his widespread respect and influence.
 
-இரா. சம்பந்தனுடன் உடன்பாட்டுடன் முன்நோக்கி கொண்டு வந்த அந்தக் கலந்துரையாடல்களை வெற்றிகரமாக நிறைவு செய்ய அனைவரும் ஒன்றிணைய வேண்டும் என்றும் ஜனாதிபதி குறிப்பிட்டார்.
+🟩
 
-திருகோணமலையில் அன்னாரது இல்லத்தில் ஞாயிற்றுக்கிழமை (07) பிற்பகல் நடைபெற்ற சம்பந்தனின் இறுதி கிரியையில் கலந்து கொண்ட போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+Hidden. President Ranil Wickremesinghe said that Sampanthan was the leader of the entire Sri Lankan people for the rights of the Tamil people and that Sampanthan was dedicated to Sri Lanka that he was always divided.
 
-முன்னாள் எதிர்க்கட்சித் தலைவரும் தமிழ்த் தேசியக் கூட்டமைப்பின் முன்னாள் தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான மறைந்த இரா. இரா.சம்பந்தனின் இறுதிக் கிரியைகள், ஞாயிற்றுக்கிழமை  (07) பிற்பகல் ஆளுங்கட்சி மற்றும் எதிர்க்கட்சி அரசியல் தலைவர்கள், அமைச்சர்கள், பாராளுமன்ற உறுப்பினர்கள், கட்சித் தலைவர்கள் உட்பட பெருந்திரளான மக்களின் பங்கேற்புடன் இடம்பெற்றது.
+Nonsense. The President also stated that everyone should unite to successfully complete the discussions that have been brought forward with the agreement with Sambandan.
+
+President Ranil Wickremesinghe made this statement while attending the funeral of Sambandan held at the Annaru residence in Trincomalee on Sunday afternoon.
+
+Former Opposition Leader and former TNA leader and Trincomalee district parliamentarian. Sampanthan's funerals were held on Sunday afternoon (07) with the participation of a large number of people, including the ruling and opposition political leaders, ministers, parliamentarians and party leaders.
+
+Nonsense. The President expressed his deepest condolences to Sampanthan's death and said that his death was a loss of a long -time friend.
 
 ...
 
 [Data](articles/c99ab829.json)
+
+[Extended Data](ext_articles/c99ab829.ext.json)
 
 ---
 
@@ -2331,21 +2355,5 @@ Zimbabwe took 3 runs in 19 balls and 3 wickets.
 [Data](articles/b095b8c1.json)
 
 [Extended Data](ext_articles/b095b8c1.ext.json)
-
----
-
-### Oil truck collides with minibus in western Ukraine, 14 dead
-
-*2024-07-07 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100340/oil-truck-collides-with-minibus-in-western-ukraine-14-dead) · `en`
-
-An oil truck collided with a minibus on Saturday in western Ukraine, killing 14 people, including a six-year-old child, and leaving a single survivor, Emergency Services said.
-
-The report, on the Telegram messaging app, was accompanied by pictures of an overturned vehicle in a cornfield in Rivne region. It said the survivor was in serious condition and being treated for her injuries.
-
-◼️
-
-[Data](articles/d16b6c7b.json)
-
-[Extended Data](ext_articles/d16b6c7b.ext.json)
 
 ---

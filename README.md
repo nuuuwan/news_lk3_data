@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 01:35:09**
+As of **2024-07-08 01:53:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,127 (100.0%) of 34,128 articles have been extended.
+34,128 (100.0%) of 34,128 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -74,23 +74,29 @@ Environmentalists rallying against a renewable energy project is odd. As they sh
 
 ---
 
-### சாவகச்சேரி வைத்தியசாலையில் பதற்றம் : பதில் வைத்திய அத்தியட்சகரை இரவோடு இரவாக அங்கிருந்து அகற்ற முயற்சி!
+### Tension at Chavakachcheri Hospital
 
 *2024-07-08 00:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187932) · `ta`
 
-சாவகச்சேரி வைத்தியசாலை பதில் வைத்திய அத்தியட்சகரை இரவோடு இரவாக அங்கிருந்து அகற்றுவதற்கான முயற்சி எடுக்கப்பட்டுள்ளது.
+A dispute at Chavakachcheri Hospital led to attempts to remove its Medical Superintendent, Ramanathan Archana, due to alleged mismanagement. The Health Ministry issued a letter ordering her removal, but she refused to accept it outside office hours. This refusal escalated tensions, leading to police intervention. Ramanathan claimed responsibility for a patient's death under her care, complicating the situation further.
 
-சாவகச்சேரி ஆதார வைத்தியசாலையில் பதில் மருத்துவ அத்தியட்சகராகத் கடமையாற்றும் இராமநாதன் அர்ச்சுனாவை அங்கிருந்து இடமாற்றம் செய்ய உத்தரவிடும் சுகாதார அமைச்சகத்தின் கடிதம் வழங்கப்பட்டதாகத் தெரிகிறது.
+🟩
 
-இரவு 7 மணியளவில் குறித்த கடிதத்தை பதில் வைத்திய அத்தியட்சகர் இராமநாதன் அர்ச்சுனாவிடம் வழங்க முற்பட்டபோது அதனை ஏற்க மறுத்துள்ள வைத்திய அத்தியட்சகர், இது அலுவலக நேரம் அல்ல என தெரிவித்துள்ளார்.
+An attempt has been made to remove the medical superintendent in response to the Chavakachcheri Hospital.
 
-இதேவேளை வைத்தியசாலை பதில் அத்தியட்சகரை கைது செய்யும் வகையில் வைத்தியசாலையில் சாவகச்சேரி பொலிஸார் குவிக்கப்பட்டுள்ளனர்.
+In response to the Chavakachcheri Resource Hospital, Ramanathan Archana, who is serving as the Medical Superintendent, has been given a letter of Health, which orders the relocation of the Health Ministry.
 
-இதேவேளை தான் மட்டுமே வைத்தியசாலையில் கடமையில் நிற்பதால் தன்னை கைது செய்து அழைத்துச் சென்றால், அந்த சமயத்தில் வைத்தியசாலையில் எதாவது உயிரிழப்பு ஏற்பட்டால் தானே பொறுப்பு என பொலிஸாரிடம் தெரிவித்துள்ளார்.
+When the medical superintendent Ramanathan tried to hand over the letter at 7 pm, the doctor who refused to accept it was not office time.
+
+Meanwhile, the Chavakachcheri police have been mobilized at the hospital to arrest the superintendent.
+
+Meanwhile, he told the police that he was responsible for the death of a hospital at the time if he was arrested and taken to the hospital.
 
 ◼️
 
 [Data](articles/96194846.json)
+
+[Extended Data](ext_articles/96194846.ext.json)
 
 ---
 

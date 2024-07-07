@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 03:05:07**
+As of **2024-07-08 03:19:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,133 (100.0%) of 34,139 articles have been extended.
+34,139 (100.0%) of 34,139 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The Presidential election is scheduled to take place between 17 September and 16
 
 [Data](articles/9f0917d3.json)
 
+[Extended Data](ext_articles/9f0917d3.ext.json)
+
 ---
 
 ### Public sector trade unions threaten walk out
@@ -66,6 +68,8 @@ According to trade unions, due to the economic pressure caused by the increase i
 
 [Data](articles/954382a1.json)
 
+[Extended Data](ext_articles/954382a1.ext.json)
+
 ---
 
 ### Selvarajah Kajendran takes helm of TNPF
@@ -81,6 +85,8 @@ A party spokesperson said that while Ponnambalam is receiving treatment in Austr
 ...
 
 [Data](articles/d547e5a0.json)
+
+[Extended Data](ext_articles/d547e5a0.ext.json)
 
 ---
 
@@ -98,6 +104,8 @@ The delegation led by NCE Secretary General/CEO Shiham Marikar, comprised five p
 
 [Data](articles/1a8a7add.json)
 
+[Extended Data](ext_articles/1a8a7add.ext.json)
+
 ---
 
 ### China Tianying explores investment opportunities in SL
@@ -109,6 +117,8 @@ Top Executives of China Tianying Inc., engaged in renewable power generation and
 ◼️
 
 [Data](articles/400bf811.json)
+
+[Extended Data](ext_articles/400bf811.ext.json)
 
 ---
 
@@ -125,6 +135,8 @@ With the newly secured funding, Meiro plans to leverage the potential of the Sri
 ...
 
 [Data](articles/a54f8ef8.json)
+
+[Extended Data](ext_articles/a54f8ef8.ext.json)
 
 ---
 

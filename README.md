@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 08:35:18**
+As of **2024-07-07 08:54:19**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,647
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,999 (100.0%) of 34,000 articles have been extended.
+34,000 (100.0%) of 34,000 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### ලොරි - මිනිබස් අනතුරින් 14ක් මරුට
+### 14 killed in Minibus accident
 
 *2024-07-07 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198557) · `si`
 
-බටහිර යුක්‍රේනයේ ලොරියක් සහ මිනිබස් රථයක් මුහුණට මුහුණ ගැටීමෙන් 14 දෙනෙක් මියගොස් තිබේ.
+In Western Ukraine, a minibus collision with a lorry resulted in the tragic deaths of 14 individuals, including both passengers and drivers. The incident was caused by the truck moving against traffic. Authorities are investigating and plan to file a criminal case.
 
-උසස් නිලධාරියෙක් පැවසුවේ ප්‍රතිවිරුද්ධ දිසාවෙන් පැමිණෙන වාහන පෙළක් දෙසට ලොරි රථය ධාවනය කරවීම හේතුවෙන් මෙම අනතුර සිදුව ඇති බවයි.
+🟩
 
-මගීන් 12 දෙනෙක් සහ රථ දෙකෙහි රියදුරන් එහිදී ජීවිතක්ෂයට පත්විය.
+A lorry and a grave in Western Ukraine and 14 people were killed.
 
-අපරාධ නඩුවක් ගොනුකිරීම සඳහා කටයුතු සිදුකෙරෙමින් පවතින බව යුක්‍රේන බලධාරීන් පැවසීය.
+A senior official said the accident had occurred as a result of running the lorry towards an opposing vehicle.
+
+12 passengers and drivers were killed there.
+
+Ukrainian authorities said that action is being taken to file a criminal case.
 
 ◼️
 
 [Data](articles/50a966cb.json)
+
+[Extended Data](ext_articles/50a966cb.ext.json)
 
 ---
 

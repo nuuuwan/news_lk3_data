@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 01:04:47**
+As of **2024-07-08 01:19:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,126 (100.0%) of 34,127 articles have been extended.
+34,127 (100.0%) of 34,127 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,8 @@ The Central Bank alone had a foreign debt obligation of $ 6 billion, converting 
 ...
 
 [Data](articles/397f0bb1.json)
+
+[Extended Data](ext_articles/397f0bb1.ext.json)
 
 ---
 

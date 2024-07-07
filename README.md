@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 18:24:15**
+As of **2024-07-07 18:35:42**
 
 ## Newspaper Stats
 
-*Scraped **34,091** Articles*
+*Scraped **34,095** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,100 @@ economynextcom | 2,004
 dailyftlk | 2,115
 adalk | 3,048
 adaderanalk | 3,906
-tamilmirrorlk | 4,043
+tamilmirrorlk | 4,045
 dailymirrorlk | 4,733
-virakesarilk | 5,340
+virakesarilk | 5,342
 adaderanasinhalalk | 5,670
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,088 (100.0%) of 34,091 articles have been extended.
+34,091 (100.0%) of 34,095 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### රුසියාවෙන් ගෙන ආ කැලෑ බළලා
+### முதலீடுகள், வட்டி வருமானம், வரி
+
+*2024-07-07 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187905) · `ta`
+
+கால மற்றும் தொழில்நுட்ப மாற்றத்தை உள்வாங்கி இன்று பல புதிய சேமிப்பு முறைகளை வர்த்தக வங்கிகளும், நிதி நிறுவனங்களும் மக்களுக்கு வழங்கி வருவதனை நாம் நடைமுறையில் பார்க்கக் கூடியதாக இருக்கின்றது. “மாற்றம் ஒன்றே மாறாது” என்ற வாசகத்திற்கிணங்க, மக்களுக்கு தங்கள் வருமானத்திற்கேற்ப சேமிக்கும் முறையை இந்த புதிய மாற்றம் ஏற்படுத்திக் கொடுத்துள்ளது என்பதை ஏற்றுக்கொண்டே தீரவேண்டும்.
+
+◼️
+
+[Data](articles/463220c0.json)
+
+---
+
+### பிரான்ஸிய தேசியவாத எழுச்சி
+
+*2024-07-07 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187907) · `ta`
+
+தேசிய பேரணியின் தலைவி மொரீன் லா பென் நாட்டின் பாராளுமன்றத்தை கைப்பற்றுவதற்கு 18கதிரைகள் மட்டுமே தேவை என்ற வகையில் நாடு பூராகவும் எழுச்சியை உருவாக்கும் வகையில் வெற்றிப்பாதையில் சென்று கொண்டிருக்கிறார். இந்நிலையில் பிரான்ஸின் தற்போதைய ஜனாதிபதி இமானுவல் மக்ரோன் தனது மறுமலர்ச்சிக் கட்சியின் பிரசார நடவடிக்கைகளை மிக வேகமாக அதிகரித்துள்ளார்.
+
+◼️
+
+[Data](articles/68850d16.json)
+
+---
+
+### ரணில் விக்ரமசிங்கவை ஆதரிக்க தீர்மானம்; கருணா
+
+*2024-07-07 18:09:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-விக்ரமசிங்கவை-ஆதரிக்க-தீர்மானம்-கருணா/175-339989) · `ta`
+
+ஜனாதிபதியின் பதவி நீடிக்கப்படா விட்டாலும் இந்த நாட்டில் உள்ள பெரும்பான்மையான மக்கள் ரணில் விக்கிரமசிங்கவை ஆதரிக்க தீர்மானித்துள்ளனர் என தமிழர் ஐக்கிய சுதந்திர முன்னணியின் தலைவரும் முன்னாள் பிரதியமைச்சருமான விநாயகமூர்த்தி முரளிதரன் தெரிவித்துள்ளார்.
+
+மட்டக்களப்பில் இன்று தமிழர் ஐக்கிய சுதந்திர முன்னணியின் ஏற்பாட்டில் முன்னாள் போராளிகளுக்கு வாழ்வாதார உதவிகள் வழங்கும் நிகழ்வு நடைபெற்றது.
+
+இதன் போது மட்டக்களப்பு மாவட்டத்தில் தெரிவு செய்யப்பட்ட பயனாளிகளுக்கு இந்த வாழ்வாதார உதவி வழங்கி வைக்கப்பட்டன.
+
+தமிழர் ஐக்கிய சுதந்திர முன்னணியின் உபதலைவர் ஜெயா.சரவணன் தலைமையில் நடைபெற்ற இந்த நிகழ்வில் தமிழர் ஐக்கிய சுதந்திர முன்னணியின் தலைவரும் முன்னாள் பிரதியமைச்சருமான விநாயகமூர்த்தி முரளிதரன் பிரதம அதிதியாக கலந்துகொண்டார்.
+
+இதன்போது கலந்து கொண்டு  கருத்துத் தெரிவிக்கும் போதே அவர் இவ்வாறு குறிப்பிட்டார். அவர் அங்கு மேலும் தெரிவிக்கையில்,
+
+...
+
+[Data](articles/e9e6fbfc.json)
+
+---
+
+### இடைக்கால பயிற்றுவிப்பாளர் சனத் ஜயசூரிய
+
+*2024-07-07 18:09:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடைக்கால-பயிற்றுவிப்பாளர்-சனத்-ஜயசூரிய/175-339988) · `ta`
+
+இந்தியா மற்றும் இங்கிலாந்து அணிகளுடனான கிரிக்கெட் தொடர்களுக்காக பயிற்றுவிப்பாளராக சனத் ஜயசூரிய நியமிக்கப்பட்டுள்ளார்.
+
+இலங்கை அணியின் தலைமை பயிற்றுவிப்பாளராக இருந்த கிறிஸ் சில்வர்வூட் அண்மையில் இராஜினாமா செய்திருந்தார்.
+
+◼️
+
+[Data](articles/3b762457.json)
+
+---
+
+### The forest cat brought from Russia
 
 *2024-07-07 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198580) · `si`
 
-නිසි අවසරයකින් තොරව මෙරටට ගෙනැවිත් ඇති බවට සැක කෙරෙන අප්‍රිකානු කැලෑ බළලෙකු කටුනායක ගුවන්තොටුපොළ ගුවන් භාණ්ඩ පර්යන්තයේදී බලධාරීන් විසින් ඔවුන්ගේ භාරයට ගෙන තිබේ.
+An African forest cat was seized at Katunayake Airport due to a special investigation by European and Middle Eastern customs. Brought by a Kandy resident, it's now at the Dehiwala Zoo under scrutiny by Sri Lanka's Customs, Cultural and National Heritage Protection Unit, and the Department of Wildlife.
 
-යුරෝපයේ සහ මැදපෙරදිග රටවල මෙම සත්ත්ව විශේෂය සුරතලයට ඇති කරන අතර එබැවින් ජාත්‍යන්තර වශයෙන් මොවුන්ට විශාල ඉල්ලුම ඇති බව මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සිදු කරන රේගු නිලධාරීන් පවසයි.
+🟩
 
-බලධාරීන් පැවසුවේ මහනුවර ප්‍රදේශයේ පදිංචිකරුවෙකු විසින් මෙම සතාව ගෙනැවිත් ඇති බවයි.
+The African forest cat has been taken into custody at the Katunayake Airport Terminal at Katunayake air cargo terminal.
 
-මෙම කැළෑ බළලා දෙහිවල සත්වෝද්‍යානය වෙත යවා ඇති බවට වාර්තාවන අතර ශ්‍රී ලංකා රේගුවේ ජෛව විවිධත්ව ආරක්ෂණ, සංස්කෘතික හා ජාතික උරුමයන් සුරැකීමේ ඒකකය සහ වනජීවී දෙපාර්තමේන්තුව විසින් මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සිදු කරමින් සිටියි.
+In countries in Europe and the Middle East, the special investigation is so the customs who will conduct further investigations into the incident.
+
+The authorities said that the animal has been brought by a resident of Kandy.
+
+It is reported that the forest cat has been sent to the Dehiwala Zoo and the Sri Lanka Customs, Cultural and National Heritage Protection Unit and the Department of Wildlife Department are conducting further investigations.
 
 ◼️
 
 [Data](articles/7cb1e0cf.json)
+
+[Extended Data](ext_articles/7cb1e0cf.ext.json)
 
 ---
 
@@ -132,25 +196,33 @@ Maithripala Sirisena has introduced a amendment to the president's term for 5 ye
 
 ---
 
-### කාන්තාවක ඝාතනය කොට දරු දෙදෙනකු ප්‍රාණ ඇපයට අරගෙන
+### Two children were taken up and killed
 
 *2024-07-07 16:50:01* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවක-ඝාතනය-කොට-දරු-දෙදෙනකු-ප්‍රාණ-ඇපයට-අරගෙන/11-410648) · `si`
 
-සිය වයෝවෘද්ධ නැන්දනිය තියුණු ආයුධ ප්‍රහාරයකින් ඝාතනය කල ලේලියක තම බාල වයස්කාර දරු දෙදෙනො ප්‍රාණ ඇපයට ගෙන සිටියදී ගම්පොළ ඇත්ගාල පොලිස්  නිලධාරීන් පැය දෙකහමාරක උපක්‍රමශීලී මෙහෙයුමකින් පසු අද(07)අලුයම තුනයි තිහට පමණ ඇය අත්අඩංගුවට ගෙන තිබේ.
+In Ulapane, two children were killed, and their mother, a 78-year-old resident, was also found dead. The suspects, residents of Jaffna, were arrested after threatening the family. The victims included a two-year-old girl and her two sisters, aged 7 and 4. The mother had been ill for a month and was reportedly threatening her niece. Neighbors and one of the sons were questioned by the police, who found the suspects at the scene the next morning. The suspects were later arrested and charged with the murders.
 
-ගම්පොළ උලපනේ ,උලපනේ වත්ත පදිංචි 78 හැවිරිදි එස්. ජෝති නැමැති පස් දරු මව සිය ලේලිය අතින් මෙසේ ඝාතනය වී තිබේ.
+🟩
 
-ඝාතනයට ලක්වු කාන්තාවට හිමි නිවසේ තිස්දෙහැවිරිදි මෙම ලේලිය හා ඇගේ 7 හා 4 හැවිරිදි දියණියන් දෙදෙනා පමණක් සිට ඇති අතර ඊයේ මධ්‍යම රාත්‍රියේ දොළහට පමණ මෙම ඝාතනය සිදුවී ඇති බව පොලිසිය පවසයි.
+The police officers have been arrested for three and a half hours, two and a half hours after his juntatony was taken into custody by his juntability.
 
-යාපනයේ පදිංචිකාරියක වන මෙම සැකකාරිය විවාහයෙන් පසු උලපනේ වත්තට පදිංචියට පැමිණ ඇති අතර ඇගේ සැමියා වන මණිවේල් ජෝශප් යන අය රැකියාව සඳහා යාපනයට ගොස් තිබුණි. ඝාතනය වූ මව මාසයක පමණ කාලයක් අසනීපව එක්තැන්ව සිට තිබේ.
+78-year-old resident of Ulapane, Ulapane, Ulapane, Ulapane, Ulapane, Ulapane, Ulapane, Ulapane, Ulapane, Ulapane. The five-children mother of the five father, named Jothi has been killed.
 
-ඇගෙන් නිතරම කරදර බව පවසමින් ඇයට මෙම ලේලිය තර්ජනය කරමින් සිට ඇති බවට පොලිසියට තොරතුරු ලැබී තිබිණ.
+The victim was only the two-year-old daughter-in-law and two her 7th and 4-year-old daughters, police said.
 
-මෙම නිවසට යාබදව මියගිය කාන්තාවගේ එක් පුතෙකුද පදිංචිව සිටින අතර මහ රෑ ඇසුණ ශබ්දයකට ඔවුන් එම නිවස පරීක්ෂා කොට තිබේ.
+The suspect, a resident of Jaffna, has moved to Ulugne garden and her husband Muniale Joseph had gone to Jaffna for work. The murdered mother was sick for about a month.
+
+The police had received information that she was threatening this niece saying she was always worried.
+
+One son of the woman who died adjoining the house was resided and they have checked the house to a night.
+
+Her neighbors, including the son, have been admitted to the police and has been admitted to the police.
 
 ...
 
 [Data](articles/f7e55eb0.json)
+
+[Extended Data](ext_articles/f7e55eb0.ext.json)
 
 ---
 
@@ -1222,21 +1294,29 @@ The Chairman of the National Housing Development Authority (National Housing Dev
 
 ---
 
-### ඇගිලි සලකුණෙන් හෙළිවූ කොස්තාපල්ගේ සොරකම
+### Constable's stealing revealed by fingermal mark
 
 *2024-07-07 11:38:06* · [`adalk`](https://www.ada.lk/breaking_news/ඇගිලි-සලකුණෙන්-හෙළිවූ-කොස්තාපල්ගේ-සොරකම/11-410640) · `si`
 
-කොස්ගම ප්‍රදේශයේ නිවසක් බිඳ රුපියල් ලක්ෂ 10 කට ආසන්න මුදල් ඇතුළු දේපළ සොරා ගැනීම සම්බන්ධයෙන් පොලිස්  කොස්තාපල්වරයෙකු ඇඟිලි සලකුණු සමඟ සංසන්දනය වීම හේතුවෙන් අත්අඩංගුවට ගත් බව කොස්ගම පොලිසිය කියයි.
+A police constable's theft was uncovered through fingerprint analysis in Kosgama. Suspects were detained for 48 hours and referred to the Finger Notes Department for investigation. The constable was arrested and later presented before the Avissawella Magistrate's Court. SSP Senaka Weerasinghe, responsible for the constable's permits, faced disciplinary action.
 
-සැකකාර එම කොස්තාපල්වරයාට එරෙහිව පැය 48 ක කාලයකට රැදයුම් නියෝග ලබාගත් බවද පොලිසිය සඳහන් කරයි.
+🟩
 
-ඉකුත්  අප්‍රේල් මස 28 වෙනිදින  දින රාත්‍රී කාලයේදී සිදුවී තිබූ මෙම සොරකම්  කිරීමේ අපරාධය සම්බන්ධයෙන්  විමර්ශනය කිරීමේදී අනාවරණය කරගන්නා ලද කරුණු මත අපරාධ ස්ථානයේ තිබී සොයා ගන්නා ලද ඇඟිලි සලකුණු සමග සැකකාර බාහිර පුද්ගලයන් කීප දෙනෙකුගේ ඇඟිලි සටහන්ද විමර්ශන කටයුතු සඳහා ඇඟිලි සටහන් දෙපාර්තමේන්තුව වෙත යොමු කිරීමෙන් අනතුරුව සැකකාර කොස්තාපල්වරයාගේ ඇගිලි සටහන් සමග සංසන්දනය වීමෙන් අනතුරුව අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+Kosgama Police say that a police constable was compared to fingerprints in Kosgama.
 
-සැකකාර කොස්තාපල්වරයා තවත් අපරාධවලට සම්බන්ධ දැයි සොයා බැලීම සඳහා අවිස්සාවේල්ල මහේස්ත්‍රාත්  අධිකරණය වෙත ඉදිරිපත් කර  එම රැඳවුම් නියෝගය ලබාගත් බව පොලිසිය කියයි.
+The suspects were obtained for 48 hours against the constable.
 
-...
+The suspects were referred to the towering Department of the Finger Notes to Investigations on Investigation into InvestigationsPolice say he was arrested after comparing with the fingerprints.
+
+The suspect constable is submitted to the Avissawella Magistrate's Court to look into the incident.
+
+Senior Superintendent of Police Senior Superintendent of Police (S) SSP Senaka Weerasinghe has been banned due to the permits of the constable.
+
+◼️
 
 [Data](articles/f75cb679.json)
+
+[Extended Data](ext_articles/f75cb679.ext.json)
 
 ---
 
@@ -2213,87 +2293,5 @@ In 1990, when I was the Acting Director of the School of Hotel Management at Sch
 [Data](articles/95815563.json)
 
 [Extended Data](ext_articles/95815563.ext.json)
-
----
-
-### Why does it see a rain forest that is not over to Galle?
-
-*2024-07-07 03:40:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clky9rxr7n9o) · `si`
-
-The text describes the Kottawa Conservation Forest near Galle, Sri Lanka, highlighting its location, accessibility, biodiversity, and historical significance. It mentions the forest's proximity to Galle town, its conservation status, and the variety of plant and animal life it supports. The narrative also touches upon the forest's role in education and research, its geological features, and the impact of human activities on its preservation.
-
-🟩
-
-We went to Galle in search of a unique tropical rainforest located near a coastal city.
-
-Located to Galle in Galle, the reserve is known as the Kottawa Conservation Forest.
-
-The wet zone forest is a 13 km away from Galle town is home to many plants and animals.
-
-Govoring the Galle-Udugama main road and reach this reserve. Any bus traveling along this route can also go to this reserve.
-
-Several kilometers of Udugama main road has fallen through this reserve. When we reach the reserve, there was a weather weather.
-
-The national park is open from 8 am to 4.30 pm every day. The office at the main trainee should take a ticket and enter into the reserve.
-
-When you enter the forest and went a little, there are several trails spreading.
-
-One way is one of the most beautiful path towards the tongue beneath a beautiful fool. This is a wide path of the forest beauty. Another way is reserved for tea cultivation and the low country tea can travel to the road.
-
-...
-
-[Data](articles/017e48ac.json)
-
-[Extended Data](ext_articles/017e48ac.ext.json)
-
----
-
-### LB Finance PLC receives merit award at inaugural Digital Trust Awards Night 2024
-
-*2024-07-07 03:37:00* · [`islandlk`](http://island.lk/lb-finance-plc-receives-merit-award-at-inaugural-digital-trust-awards-night-2024/) · `en`
-
-LB Finance PLC has been honoured with a merit award at the inaugural Digital Trust Awards Night 2024, held at The Monarch Imperial in Thalawathugoda. The award was bestowed in the category of ‘Technology Resilient Company of the Year’.
-
-Organized by ISACA Sri Lanka, a local chapter of the global association of IS security and governance professionals, the Digital Trust Awards Night celebrates excellence in digital trust and security practices. ISACA, a worldwide association, focuses on assurance, security, and governance, offering globally recognized certifications such as CISA (Certified Information Systems Auditor), CISM (Certified Information Security Manager), and CGEIT (Certified in the Governance of Enterprise IT). Its members often serve as the primary practitioners of information systems auditing, security, and governance within their organizations.
-
-Vidma Engineering wins Best Entrepreneur Award at Asia Miracle Awards 2024
-
-...
-
-[Data](articles/30e11d89.json)
-
-[Extended Data](ext_articles/30e11d89.ext.json)
-
----
-
-### CEAT Kelani wins double honours at National Business Excellence Awards 2024
-
-*2024-07-07 03:37:00* · [`islandlk`](http://island.lk/ceat-kelani-wins-double-honours-at-national-business-excellence-awards-2024-2/) · `en`
-
-CEAT Kelani Holdings won prestigious double honours at the National Business Excellence Awards 2024 presented by the National Chamber of Commerce of Sri Lanka (NCCSL), reaffirming the company’s status as one of the country’s foremost manufacturing success stories.
-
-The manufacturer of half of Sri Lanka’s pneumatic tyre requirements, CEAT Kelani won the National Business Excellence Award (NBEA) in the ‘Manufacturing – Other’ category and was the winner of the Criteria Award for Excellence in Local Market Reach, in recognition of the company’s success in responding to the challenging conditions that prevailed in the period assessed for these awards.
-
-Notably, this was the fifth occasion that CEAT Kelani Holdings was recognized by the NCCSL for Business Excellence.
-
-...
-
-[Data](articles/3a7cf47f.json)
-
-[Extended Data](ext_articles/3a7cf47f.ext.json)
-
----
-
-### Puvendran Gajendra appointed Chairman of Sanasa Life Insurance PLC
-
-*2024-07-07 03:37:00* · [`islandlk`](http://island.lk/puvendran-gajendra-appointed-chairman-of-sanasa-life-insurance-plc/) · `en`
-
-Sanasa Life Insurance PLC has appointed Puvendran Gajendra as their new Chairman. Gajendra has been a board member and served as an independent Director since 2019. He is a Fellow Member of the Institute of Chartered Accountants of Sri Lanka (FCA), an Associate Member of the Association of Chartered Certified Accountants (ACCA UK), and a Fellow Member of the Institute of Certified Management Accountants of Sri Lanka (FCMA). Additionally, he holds the title of Fellow Member of the Institute of Chartered Professional Managers of Sri Lanka (FCPM) and possesses a Postgraduate Diploma in Business Administration from Sheffield Hallam University.
-
-...
-
-[Data](articles/5e03ce8f.json)
-
-[Extended Data](ext_articles/5e03ce8f.ext.json)
 
 ---

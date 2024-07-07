@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 08:24:59**
+As of **2024-07-07 08:35:18**
 
 ## Newspaper Stats
 
-*Scraped **33,999** Articles*
+*Scraped **34,000** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,59 @@ adaderanalk | 3,890
 tamilmirrorlk | 4,027
 dailymirrorlk | 4,733
 virakesarilk | 5,323
-adaderanasinhalalk | 5,646
+adaderanasinhalalk | 5,647
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,996 (100.0%) of 33,999 articles have been extended.
+33,999 (100.0%) of 34,000 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### ජීවිතයක් අහිමි කළ පවුල් ආරවුල
+### ලොරි - මිනිබස් අනතුරින් 14ක් මරුට
+
+*2024-07-07 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198557) · `si`
+
+බටහිර යුක්‍රේනයේ ලොරියක් සහ මිනිබස් රථයක් මුහුණට මුහුණ ගැටීමෙන් 14 දෙනෙක් මියගොස් තිබේ.
+
+උසස් නිලධාරියෙක් පැවසුවේ ප්‍රතිවිරුද්ධ දිසාවෙන් පැමිණෙන වාහන පෙළක් දෙසට ලොරි රථය ධාවනය කරවීම හේතුවෙන් මෙම අනතුර සිදුව ඇති බවයි.
+
+මගීන් 12 දෙනෙක් සහ රථ දෙකෙහි රියදුරන් එහිදී ජීවිතක්ෂයට පත්විය.
+
+අපරාධ නඩුවක් ගොනුකිරීම සඳහා කටයුතු සිදුකෙරෙමින් පවතින බව යුක්‍රේන බලධාරීන් පැවසීය.
+
+◼️
+
+[Data](articles/50a966cb.json)
+
+---
+
+### Family dispute that lost a life
 
 *2024-07-07 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198556) · `si`
 
-පවුල් ආරවුලක් දුරදිග යාම හේතුවෙන් තියුණු ආයුධයකින් පහරදී කාන්තාවක් ඝාතනය කර තිබේ.
+In a tragic incident, a 29-year-old woman was fatally assaulted with a sharp object during a family dispute over second marriages in the Batticaloa Police Division. The suspect, aged 34, was apprehended by the Jaffna Police, who continue investigating the case.
 
-ඊයේ (06) සවස් කාලයේදී එම ඝාතනය සිදුකර තිබුණේ යාපනය පොලිස් වසමේ අරියාලයි ප්‍රදේශයේදීය.
+🟩
 
-එලෙස ඝාතනයට ලක්ව ඇත්තේ, උඩයාර්කට්ටු, පුදුකුඩුඉරිප්පු ප්‍රදේශයේ පදිංචිව සිටි 29 හැවිරිදි කාන්තාවකි.
+A woman has been assaulted by a sharp object due to a sharp object.
 
-මරණකාරිය, හා දෙවන විවාහයේ පුරුෂයා සමග ඇති වූ පවුල් ආරවුලක් දුරදිග යාමෙන් එම ඝාතනය සිදුකර ඇතැයි පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+The murder was held in the evening of the Batticaloa Police Division in the evening yesterday.
 
-ඝාතනයට සම්බන්ධ  34 හැවිරිදි සැකකරු අත්අඩංගුවට ගෙන ඇති අතර යාපනය පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The victim was a 29 year old resident of the Pudukuduirippu area in Pudukuduirippu.
+
+Police investigations have revealed that the murder was taken away from the deceased, and a family dispute with a family dispute with the second marriages.
+
+The 34-year-old suspect was arrested by the Jaffna Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/cd077800.json)
+
+[Extended Data](ext_articles/cd077800.ext.json)
 
 ---
 
@@ -69,6 +93,8 @@ General public is kindly requested to take adequate precautions to minimize dama
 ◼️
 
 [Data](articles/8196bc34.json)
+
+[Extended Data](ext_articles/8196bc34.ext.json)
 
 ---
 
@@ -290,19 +316,25 @@ In fact, polls after the debate found that 72% of all voters did not want Biden 
 
 ---
 
-### ’புதிய அரசியல், பொருளாதார கட்டமைப்பு வேண்டும்’
+### New Political and Economic Structure
 
 *2024-07-07 01:24:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசியல்-பொருளாதார-கட்டமைப்பு-வேண்டும்/175-339960) · `ta`
 
-நாட்டில் புதிய அரசியல் மற்றும் பொருளாதார முறைமையொன்று உருவாக வேண்டும். அதற்கான பொறுப்பை ஏற்றுக்கொண்டு அச்சமின்றி உண்மையைப் பேசக்கூடிய தலைவர்கள் அரசியல் கட்டமைப்பில் உருவாக வேண்டுமென ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe emphasized the need for a new political and economic system, urging leaders to take responsibility and speak truthfully without fear. This call was made during a banking conference hosted by the National Bankers Union. The event also featured discussions involving Wickremesinghe, former Finance Minister Ravi Karunanayake, and Senior Advisor to the President's Economic Affairs, RHS. Samaratunga.
 
-தேசிய வங்கியாளர்கள் ஒன்றியத்தினால் நேற்று முன்தினம் காலிமுகத்திடல் ஹோட்டலில் ஏற்பாடு செய்யப்பட்ட வங்கியாளர் மாநாட்டில் உரையாற்றும்போதே ஜனாதிபதி இதனைத்   தெரிவித்தார்.
+🟩
 
-அதனையடுத்து ஜனாதிபதி ரணில் விக்கிரமசிங்க, முன்னாள் நிதி அமைச்சர் ரவி கருணாநாயக்க மற்றும் ஜனாதிபதியின் பொருளாதார விவகாரங்களுக்கான சிரேஷ்ட ஆலோசகர் கலாநிதி ஆர்.எச்.எஸ். சமரதுங்க ஆகியோர் இடையேயான கலந்துரையாடல் அமர்வொன்றும் இடம்பெற்றது. (a)
+To form a new political and economic system in the country. President Ranil Wickremesinghe said that the leaders who would accept the responsibility and speak the truth without fear should be formed in a political structure.
+
+The President made this statement while addressing the banking conference organized by the National Bankers Union yesterday at the Galle Falls Hotel.
+
+Subsequently President Ranil Wickremesinghe, former Finance Minister Ravi Karunanayake and Senior Advisor to the President's Economic Affairs, RHS. A discussion session between Samaratunga. (A)
 
 ◼️
 
 [Data](articles/3b6bcbd4.json)
+
+[Extended Data](ext_articles/3b6bcbd4.ext.json)
 
 ---
 
@@ -2243,31 +2275,5 @@ In the wake of the opposition of various parties, CV Wigneswaran, a Member of Pa
 [Data](articles/543e00a4.json)
 
 [Extended Data](ext_articles/543e00a4.ext.json)
-
----
-
-### Divisional Secretaries and Pradeshiya Sabha Secretaries
-
-*2024-07-06 00:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/187789) · `ta`
-
-Minister Douglas Devananda urged Divisional Secretaries and Pradeshiya Sabha Secretaries to tackle illegal activities, highlighting issues from illegal excavations during a meeting chaired by the Jaffna District Government Agent and the Northern Province Governor. The gathering included government officials and police academies, emphasizing the need for vigilance against such activities.
-
-🟩
-
-Douglas Devananda, Co -Chairman and Minister of Fisheries, said that the Divisional Secretaries and Pradeshiya Sabha Secretaries should pay attention to the illegal activities.
-
-He was speaking on Friday (5) when he was held on Friday (5) when the Jaffna District Government Agent Mr. Pratipan was held on Friday (5) at the chairmanship of the District Coordinating Committee of the District Coordinating Committee and the Governor of the North, Mrs. Charles.
-
-When discussed in the last meeting, he said the matter was investigated when the progress of illegal activities was being carried out in illegal excavation and illegal relevance.
-
-Divisional Secretaries and Pradeshiya Sabha Secretaries should pay attention to the illegal activities.Said
-
-The meeting was attended by Additional Government Agent Srimohan, Pradeshiya Sabha Secretaries, Divisional Secretaries, Department Heads and Police Academies.
-
-◼️
-
-[Data](articles/3671a7ea.json)
-
-[Extended Data](ext_articles/3671a7ea.ext.json)
 
 ---

@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 23:54:33**
+As of **2024-07-08 00:06:13**
 
 ## Newspaper Stats
 
-*Scraped **34,122** Articles*
+*Scraped **34,124** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 309
-colombotelegraphcom | 312
+colombotelegraphcom | 313
 bbccomsinhala | 334
 newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,005
-dailyftlk | 2,115
+dailyftlk | 2,116
 adalk | 3,052
 adaderanalk | 3,910
 tamilmirrorlk | 4,053
@@ -26,33 +26,43 @@ adaderanasinhalalk | 5,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,118 (100.0%) of 34,122 articles have been extended.
+34,122 (100.0%) of 34,124 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### ஸிம்பாப்வேயை பந்தாடி தொடரை சமப்படுத்தியது இந்தியா
+### India balances the series
 
 *2024-07-07 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187931) · `ta`
 
-இந்தியாவின் புதிய சகாப்தத்தை நோக்கிய முதல் முயற்சி ஹராரேயில் கடந்த சனிக்கிழமை (06) நடைபெற்ற ஸிம்பாபப்வேயுடனான தோல்வியுடன் ஆரம்பித்தது.
+India started its new era with a loss in Harare but clinched the T20 series against Zimbabwe with a 100-run win in the second match. Abhishek Sharma, a rising star, played a crucial role with a century in his second international T20 match, alongside Ruthuraj Gaikwad. India's total was 234/2, with key contributions from Shubman Gill, Abhishek Sharma, Ruthuraj Gaikwad, and Rinku Singh. Zimbabwe was bowled out for 134, with Wesley Madhevere leading their batting. Avesh Khan and Mukesh Kumar starred with the ball.
 
-ஆனால், அதே மைதானத்தில் ஞாயிற்றுக்கிழமை (07) நடைபெற்ற இரண்டாவது சர்வதேச ரி20 கிரிக்கெட் போட்டியில் ஸிம்பாப்வேக்கு பதிலடி கொடுத்த இந்தியா 100 ஓட்டங்களால் வெற்றியீட்டி தொடரை 1 - 1 என சமப்படுத்தியது.
+🟩
 
-இந்தியாவின் எதிர்கால வீரர் என நம்பப்படும் அபிஷேக் ஷர்மா அபார சதம் குவித்து இந்தியாவின் வெற்றியை இலகுவாக்கினார்.
+The first attempt towards India's new era began with a defeat in Harare last Saturday (06).
 
-இந்த வருட ஐபிஎல் போட்டியில் அசத்திய அபிஷேக் ஷர்மா, ருத்துராஜ் கய்க்வாட், ரின்கு சிங் ஆகிய மூவரும் இணைந்து 220 ஓட்டங்களுக்கு மேல் குவித்தனர்.
+However, India won the second international T20 cricket match on Sunday (07) at the same stadium and won the series by 100 runs.
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த இந்தியா 20 ஓவர்களில் 2 விக்கெட்களை இழந்து 234 ஓட்டங்களைக் குவித்தது.
+Abhishek Sharma, believed to be a future player in India, has made India's victory easier.
 
-அணித் தலைவர் ஷுப்மான் கில் (2) இரண்டாவது ஓவரில் ஆட்டம் இழக்க இந்தியா சிறு தடுமாற்றம் அடைந்தது.
+In this year's IPL, three of them, Abhishek Sharma, Ruthuraj Kaikwad and Rinku Singh, scored more than 220 runs.
 
-ஆனால், அபிஷேக் ஷர்மா தனது 2ஆவது சர்வதேச ரி20 கிரிக்கெட் போட்டியில் அபாரமாகத் துடுப்பெடுத்தாடி கன்னிச் சதம் குவித்ததுடன் 2ஆவது விக்கெட்டில் ருத்துராஜ் கய்க்வாடுடன் 137 ஓட்டங்களைப் பகிர்ந்தார்.
+India decided to bat first and scored 234 runs for the loss of 2 wickets in 20 overs.
+
+India's Shubman Gill (2) was a minor stumbling block in the second over.
+
+However, Abhishek Sharma scored a huge batsman in his 2nd international T20 cricket match and shared 137 runs with Rutraj Kaikwad in the 2nd wicket.
+
+Abhishek Sharma, who faced only 47 balls, scored 100 runs with 7 pounds and 8 sixes.
+
+Subsequently, Ruthuraj Gayakwad and Rinku Singh shared 87 runs in the 3rd wicket.
 
 ...
 
 [Data](articles/847d34a6.json)
+
+[Extended Data](ext_articles/847d34a6.ext.json)
 
 ---
 
@@ -118,47 +128,63 @@ The injured Aruttanda died after being brought to the Mannar District General Ho
 
 ---
 
-### கண்டி பெல்கன்ஸை இலகுவாக வென்றது கோல் மார்வல்ஸ்
+### Cole Marwals won the Kandy Belgons easily
 
 *2024-07-07 21:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/187929) · `ta`
 
-கண்டி ஃபெல்கன்ஸ் அணிக்கு எதிரான ரங்கிரி, தம்புள்ள சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் இன்று  ஞாயிற்றுக்கிழமை (07) நடைபெற்ற பகல் இரவு லங்கா பிறீமியர் லீக் கிரிக்கெட் போட்டியில் கோல் மார்வல்ஸ் அணி 6 விக்கெட்களால் மிக இலகுவாக வெற்றிபெற்றது.
+Goal Marwals triumphed over Kandy Belgons in a thrilling Sri Lanka Premier League match at Rangiri and Dambulla International Cricket Stadium. Key contributions came from Isuru Udana's precise bowling and Tim Seefert's half-century. Despite Kandy Belgons' initial struggle, losing four wickets early, Under Plecher and Angelo Mathews' partnership revived their innings. Wanindu Hasaranga's explosive batting, scoring 65 runs off 32 balls, and Isuru Udana's three-wicket haul were pivotal. Goal Marwals chased down 176 runs, thanks to Tim Seebird's unbeaten 82 runs and Alex Hales' 38 runs.
 
-இசுறு உதானவின் துல்லியமான பந்துவீச்சு, டிம் சீஃபேர்ட்டின் அதிரடி அரைச் சதம் என்பன கோல் மார்வல்ஸின் வெற்றியை இலகுவாக்கின.
+🟩
 
-முதலில் துடுப்பெடுத்தாடிய கண்டி ஃபெல்கன்ஸ் 20 ஓவர்களில் 7 விக்கெட்களை இழந்து 175 ஓட்டங்களைப் பெற்றது.
+Goal Marwals won the Sri Lanka Premier League cricket match at the Rangiri and Dambulla International Cricket Stadium on Sunday (07) at Rangiri and Dambulla.
 
-பவர் ப்ளே ஆட்டத்தில் 4 விக்கெட்களை இழந்ததால் கண்டி பெல்கன்ஸ் பெரும் நெருக்கடிக்குள்ளானது.
+The accurate bowling of Isuru Udana and the half -century of Tim Seefert, which made Goal Marwal's victory.
 
-இந் நிலையில் அண்ட்றே ப்ளெச்சர், ஏஞ்சலோ மெத்யூஸ் ஆகிய இருவரும் 5ஆவது விக்கெட்டில் 45 ஓட்டங்களைப் பகிர்ந்து அணியை வீழ்ச்சியிலிருந்து மீட்டனர்.
+Kandy Felcons scored 175 runs for the loss of 7 wickets in 20 overs.
 
-ப்ளெச்சர் 50 ஓட்டங்களைப் பெற்று ஆட்டம் இழந்த பின்னர் வனிந்து ஹசரங்கவுடன் ஜோடி சேர்ந்து 6ஆவது விக்கெட்டில் மேலும் 58 ஓட்டங்களைப் பகிர்ந்த மெத்யூஸ் 25 ஓட்டங்களுடன் வெளியேறினார்.
+Kandy Belgons was in great crisis as they lost 4 wickets in the Power Play match.
 
-வனிந்து ஹசரங்க அதிரடியாகத் துடுப்பெடுத்தாடி 32 பந்துகளில் 7 பவுண்டறிகள், 3 சிக்ஸ்கள் உட்பட ஆட்டம் இழக்காமல் 65 ஓட்டங்களைக் குவித்தார்.
+In this case, both Undre Plecher and Angelo Mathews shared 45 runs in the 5th wicket and rescued the team.
+
+After scoring 50 runs, Mathews, who shared 58 runs in the 6th wicket, got out with 25 runs.
+
+Wanindu Hasaranga hit a stunning batsman and scored 65 runs off 32 balls, including 7 pounds and 3 sixes.
+
+In the bowling, 36 -year -old Isuru Udana took 3 wickets for 30 runs while Shahur Khan took 2 wickets for 29 runs.
+
+The goal Marwals won the toss and elected to win 176 runs, losing 4 wickets in 17.1 overs and scoring 176 runs.
 
 ...
 
 [Data](articles/02fa0ece.json)
 
+[Extended Data](ext_articles/02fa0ece.ext.json)
+
 ---
 
-### மாட்டை கடத்திச்சென்ற இருவர் பொதுமக்களால் நையப்புடைப்பு!
+### Two people who smuggled the cow
 
 *2024-07-07 21:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187930) · `ta`
 
-வவுனியா தாண்டிக்குளம் பகுதியில் மாட்டினை கடத்திச்சென்ற இருவரை மடக்கிப்பிடித்த இளைஞர்கள் அவர்களை நையப்புடைத்ததுடன் பொலிசாரிடம் ஒப்படைத்தனர்.
+In Vavuniya, two individuals smuggling cows were apprehended after being turned in by locals. The incident sparked a brief clash between the police and the community, demanding stricter actions against such crimes. Despite initial tension, the situation was resolved with police assurances of further investigation and action. This follows a pattern of increasing cow thefts in the region, highlighting community concern and police commitment to address the issue.
 
-வவுனியா பத்தினியார் மகிழங்குளம் பகுதியில் காணி ஒன்றில் கட்டிநின்ற மாட்டினை திருடிச்சென்ற இருவரை தாண்டிக்குளம் பகுதியில் வழிமறித்த இளைஞர்கள் அவர்களை கட்டிவைத்து நையப்புடைத்ததுடன் வவுனியா பொலிசாருக்கும் தகவல் வழங்கியிருந்தனர்.
+🟩
 
-சம்பவ இடத்திற்குச் சென்ற பொலிசார் குறித்த விடயம் தொடர்பான விசாரணைகளை முன்னெடுத்தனர். இதன்போது குறித்த இருவர்மீதும் கடுமையான நடவடிக்கை எடுக்குமாறு அங்கு ஒன்று கூடிய பொதுமக்கள் பொலிசாருக்கு தெரிவித்தனர். இதனால் பொலிசாருக்கும் பொதுமக்களுக்கும் இடையில் சற்றுநேரம் முரண்பாடான நிலமை ஏற்பட்டிருந்தது.
+The youths who had been abducted in the Thandikkulam area in Vavuniya were handed over to the police and handed over them to the police.
 
-எனினும் குறித்த இருவரையும் கைதுசெய்து உரிய நடவடிக்கை எடுப்பதாக பொலிசார் பொதுமக்களிடத்தில் உறுதியளித்த நிலையில் நிலமை கட்டுப்பாட்டிற்குள் வந்தது.
+The youths who traveled in the Thandikulam area had tied them up and informed the Vavuniya police.
 
-வவுனியாவில் கடந்த சில மாதங்களாக மாடுகள் திருடப்படும் சம்பவங்கள் அதிகரித்துச்செல்கின்றமை தொடர்பாகப் பொதுமக்களால் தொடர்ச்சியான முறைப்பாடுகள் வழங்கப்பட்டு வருகின்றமை குறிப்பிடத்தக்கது.
+Police went to the scene and investigated the matter. The public told the police to take stern action on the two men.. This resulted in a slightly conflict between the police and the public.
+
+However, the situation came under control as the police assured the public that they would take appropriate action.
+
+It is noteworthy that the public has been making a series of complaints over the increase in incidents of stealing cows in Vavuniya over the past few months.
 
 ◼️
 
 [Data](articles/8c885f83.json)
+
+[Extended Data](ext_articles/8c885f83.ext.json)
 
 ---
 
@@ -649,6 +675,18 @@ The leader of the national rally, Maureen La Ben, is on the road to create a ris
 [Data](articles/68850d16.json)
 
 [Extended Data](ext_articles/68850d16.ext.json)
+
+---
+
+### The Politics & Implications Of The US Supreme Court’s Immunity Ruling
+
+*2024-07-07 18:10:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-politics-implications-of-the-us-supreme-courts-immunity-ruling/) · `en`
+
+In a split ruling last Monday, apparently for the ages, the conservative majority of the US Supreme Court gave Donald Trump a get-out-of-jail card and virtually iron clad protection from criminal prosecution. The majority ruling grants Trump and “all occupants of the Oval Office, regardless of politics, policy, or party,” absolute immunity for core constitutional acts, presumed immunity for all other official acts, and no immunity for unofficial acts. The latter immunity is arguably rendered more ostensible than real by the ruling’s rigid guidelines that forbid using facts from the sphere of official acts as evidence to prove criminality in unofficial acts. So much so, writing for the three liberal judges of the Court, Justice Sonia Sotomayor denounced the majority ruling and rejoindered: “With fear for our democracy, I dissent.”
+
+...
+
+[Data](articles/17b6046b.json)
 
 ---
 
@@ -1227,6 +1265,8 @@ Without cutting public service salaries, the current administration has frozen n
 ...
 
 [Data](articles/1d346d14.json)
+
+[Extended Data](ext_articles/1d346d14.ext.json)
 
 ---
 
@@ -2363,29 +2403,5 @@ He assured that as long as the President continued to protect the country and it
 [Data](articles/83a03d0a.json)
 
 [Extended Data](ext_articles/83a03d0a.ext.json)
-
----
-
-### Crocodile attack falls in Menik River
-
-*2024-07-07 10:29:08* · [`adalk`](https://www.ada.lk/breaking_news/මැණික්-ගඟේ-කිඹුලෝ-වැඩිවෙති---කිඹුල්-ප්‍රහාරයකින්-පුද්ගලයෙක්-මරුට/11-410637) · `si`
-
-A man was attacked by a crocodile near the Menik River, causing him to fall into the Detaya Gem River. He reported the incident to the police, who are investigating. His identity remains unknown as he is hospitalized in Debarawewa. The police advise caution due to increased crocodile activity in the area.
-
-🟩
-
-Kataragama Police say that a man named a crocodile was found to be shaken by a crocodile while he had been shaked by a crocodile while he was near the Detaya Gem River.
-
-The police said that after his reporting to the police station, his body was investigated with an investigation into the incident and the investigation into the incident.
-
-The identity of the deceased is yet to be held at Debarawewa hospitalized, police said.
-
-The police informed the public to be careful when Kheulan is rich in the Gem Rule these days.
-
-◼️
-
-[Data](articles/f11abd28.json)
-
-[Extended Data](ext_articles/f11abd28.ext.json)
 
 ---

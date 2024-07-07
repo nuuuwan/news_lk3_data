@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 11:06:10**
+As of **2024-07-07 11:19:37**
 
 ## Newspaper Stats
 
-*Scraped **34,021** Articles*
+*Scraped **34,026** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,94 @@ newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,003
 dailyftlk | 2,115
-adalk | 3,035
-adaderanalk | 3,895
-tamilmirrorlk | 4,029
+adalk | 3,036
+adaderanalk | 3,896
+tamilmirrorlk | 4,030
 dailymirrorlk | 4,733
 virakesarilk | 5,327
-adaderanasinhalalk | 5,652
+adaderanasinhalalk | 5,654
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,021 (100.0%) of 34,021 articles have been extended.
+34,021 (100.0%) of 34,026 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### පොලිස් වෙසින් පැමිණ සිදුකළ පැහැරගැනීම
+
+*2024-07-07 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198564) · `si`
+
+‍පොලිස් නිලධාරීන් බව පවසා පුද්ගලයෙකු පැහැරගෙන යාමේ සිද්ධියක් සම්බන්ධයෙන් සැක පිට පුද්ගලයින් දෙදෙනෙකු සෙවනගල පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+ජූනි 29 වනදා මෝටර් රථයකින් පැමිණි පිරිසක් විසින් තමන් පොලිස් නිලධාරීන් බව පවසා 55 හැවිරිදි පුද්ගලයෙකුව පැහැරගෙන ගොස් තිබුණි.
+
+සිද්ධිය සම්බන්ධයෙන් සෙවනගල පොලීසියට ලද පැමිණිල්ලක් මත සිදුකළ විමර්ශනයක දී ඊයේ (06) ඇඹිලිපිටිය ප්‍රදේශයේ දී සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරුවන් ඇඹිලිපිටිය ප්‍රදේශයේ පදිංචිකරුවන් වන අතර මුදල් ආරවුලක් හේතුවෙන් මෙම පැහැරගැනීම සිදුකර ඇති බවට පොලිසිය සිදුකළ විමර්ශනයේ දී අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/78fd17a2.json)
+
+---
+
+### ஈரான் ஜனாதிபதியானார்  பெசஸ்கியான்
+
+*2024-07-07 10:48:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரான்-ஜனாதிபதியானார்-பெசஸ்கியான்/50-339965) · `ta`
+
+ஈரானின் ஜனாதிபதி இப்ராகிம் ரைசி கடந்த ஜூன் 19ஆம் திகதி நடந்த ஹெலிகொப்டர் விபத்தில் உயிரிழந்தார். இதையடுத்து புதிய ஜனாதிபதியை தேர்வு செய்வதற்கான தேர்தல் கடந்த மாதம் 28ஆம் திகதி நடந்தது.
+
+இதில் முன்னாள் நிதி அமைச்சர் மசூத் பெசஸ்கியான் 42.5 சதவீத வாக்குகளும், 2ம் இடம் பெற்ற சையது ஜலீலி 38.6 சதவீத வாக்குகளும் பெற்றனர். ஆனாலும், ஈரான் அரசியலமைப்பு சட்டப்படி, வெற்றி வேட்பாளர் குறைந்தபட்சம் 50 சதவீத வாக்குகள் பெற வேண்டும். இதனால், முதல் 2 இடங்கள் பிடித்த பெசஸ்கியான் மற்றும் சையது ஜலீலி இடையே 2ஆம் கட்ட தேர்தல் கடந்த 5ஆம் திகதி நடந்தது.
+
+இதில், பெசஸ்கியான் 1.63 கோடி வாக்குகளும், ஜலீலி 1.35 கோடி வாக்குகளும் பெற்றனர். இதன் மூலம், ஈரான் ஜனாதிபதியாக பெசஸ்கியான் வெற்றி பெற்றுள்ளார். இந்நிலையில், அவர் அடுத்த ஒருமாதத்திற்குள் பதவியேற்பார் என அறிவிக்கப்பட்டுள்ளது.S
+
+◼️
+
+[Data](articles/ac88cf34.json)
+
+---
+
+### කතරගම පෙරහැරේ අලි කලබල
+
+*2024-07-07 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198563) · `si`
+
+ඓතිහාසික රුහුණු කතරගම මහා දේවාලයේ  ඇසළ පෙරහැරේ ගමන් කළ අලි පැටවෙක් කුලප්පුවී තිබේ.
+
+ඒ හේතුවෙන් පුද්ගලයින් 10 දෙනෙකු සුළු තුවාල ලබා ඇති බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+
+එම අලියා කුලප්පුවීමත් සමග පෙරහැර නැරඹීමට පැමිණි පුද්ගලයින් කලබලවීම හේතුවෙන් එම 10 දෙනා තුවාල ලබා ඇත.
+
+තුවාල ලැබූ අයගේ තත්ත්වය එතරම් බරපතළ නොවන බවත් ඔවුන් ඊයේ (06) රාත්‍රීයේ රෝහල්ගත කළ නමුත් මේ වනවිට රෝහලෙන් පිටව ගොස් ඇති බවත් වාර්තා වේ.
+
+◼️
+
+[Data](articles/c4e4a506.json)
+
+---
+
+### Man killed in crocodile attack in Kataragama
+
+*2024-07-07 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/100344/man-killed-in-crocodile-attack-in-kataragama) · `en`
+
+A man was snatched by a crocodile while he was bathing in the Menik Ganga in the Kataragama police division.
+
+Police stated that the incident had occurred last morning (06) when the victim was bathing near the second bridge of the Menik Ganga.
+
+The remains of the victim have been recovered with the assistance of Police lifeguards and wildlife officers.
+
+The identity of the deceased remains unconfirmed and the Police stated that he is believed to be between 30-35 years of age.
+
+Kataragama Police are conducting further investigations related to the incident.
+
+◼️
+
+[Data](articles/90d81f65.json)
+
+---
 
 ### Basil pledges continued support for President Ranil
 
@@ -141,6 +213,24 @@ Hospital sources say that those who were admitted to the hospital have no seriou
 [Data](articles/48b9ecd5.json)
 
 [Extended Data](ext_articles/48b9ecd5.ext.json)
+
+---
+
+### කූඨ ගමන් බලපත්‍රයකින් කැනඩාවට පනින්න ගිය තරුණයාට වැඩ වරදියි
+
+*2024-07-07 10:10:10* · [`adalk`](https://www.ada.lk/breaking_news/කූඨ-ගමන්-බලපත්‍රයකින්-කැනඩාවට-පනින්න-ගිය-තරුණයාට-වැඩ-වරදියි/11-410636) · `si`
+
+කූඨ ලෙස සකස් කළ ශ්‍රී ලාංකික ගමන් බලපත්‍රයක් උපයෝගී කර ගෙන කැනඩාව බලා පළා යාම සදහා 07/06 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටි ශ්‍රී ලාංකික තරුණයෙකු ආගමන විගමන දෙපාර්තමේන්තු දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ .
+
+මොහු යාපනය ප්‍රදේශයේ පදිංචි 27 හැවිරිදි ද්‍රවිඩ ජාතික තරුණයෙකි.  මොහු 07/06 දින රාත්‍රී 07.20 ට සෞදි අරාබියේ දමාම් නුවර බලා පිටත්ව යාමට නියමිත ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 263 දරන ගුවන් යානයට පිවිසීම සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි. ඔහු එතැන් සිට තවත් වෙනත් ගුවන් යානයකින් කැනඩාව බලා යාමට සැළසුම් කර තිබුණි .
+
+ඔහු සිය ගුවන් සේවා නිශ්කාශන කටයුතු නිමා කර විගමන කටයුතු සදහා පැමිණෙමින් සිටියදී ආගමන විගමන දෙපාර්තමේන්තු දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරීන්ට මොහු පිළිබඳ ඇති වූ සැකය මත මොහු නවතා මොහුගේ ගමන් බලපත්‍රය ඇතුළු අනෙකුත් ලියකියවිලි පරීක්ෂා වට ලක් කර තිබේ .
+
+එහිදී එම ගමන් බලපත්‍රය කැනඩාවේ වීසා බලපත්‍ර හිමි වෙනත් ශ්‍රී ලාංකිකයෙකු සතු ගමන් බලපත්‍රයක් බවට කරුණු අනාවරණය වී තිබේ.
+
+...
+
+[Data](articles/a33e676a.json)
 
 ---
 
@@ -2171,129 +2261,5 @@ Fourteen thousand six hundred (14,600) non-academic employees from 17 universiti
 [Data](articles/76a89cf2.json)
 
 [Extended Data](ext_articles/76a89cf2.ext.json)
-
----
-
-### Qatar Airways to Increase Airlines for Sri Lanka
-
-*2024-07-06 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/187807) · `ta`
-
-Qatar Airways will add a sixth flight to Colombo, Sri Lanka, starting from the 10th of next month, operating a Boeing 787 with 281 economy seats. This increases their total weekly flights to Colombo to 42, connecting passengers to 170 countries. The expansion aims to enhance connectivity through Qatar's Hamad International Airport, serving passengers from various regions including the Middle East, Europe, and Africa.
-
-🟩
-
-Qatar Airways Airlines has announced that its flights traveling to Colombo in Sri Lanka will increase from 5 to 6.
-
-The 6th Airlines will be increased from the 10th of this month.
-
-Qatar Airways uses a Boeing 787 aircraft with 30 commercial seats and 281 ordinary class seats for services to Colombo.
-
-Qatar Airways operates a total of 42 weekly flights to Colombo to connect passengers to 170 countries around the world.
-
-Jonathan Fernando, Manager of Sri Lanka and Maldives of Qatar Airways Service, said,
-
-We are happy to provide this further service to increase contacts through Qatar in Colombo and Colombo.
-
-The increase in airline service is a testament to our commitment to provide the best travel experience for passengers.
-
-The new airlines, the world's best airport, will provide facilities to many countries, including the Middle East, Europe and Africa, through Qatar's Hamat International Airport.
-
-Gir ௬௫௭ Sampath
-
-Kir ௬௫௬ Tooth
-
-◼️
-
-[Data](articles/f41e8da0.json)
-
-[Extended Data](ext_articles/f41e8da0.ext.json)
-
----
-
-### Electrical leak caused massive fire in Akurana?
-
-*2024-07-06 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100326/electrical-leak-caused-massive-fire-in-akurana) · `en`
-
-Police suspect that the cause of the fire that broke out at a restaurant in Akurana may have been an electrical leak in the system supplying electricity to the electric ovens in a bakery located in the building.
-
-The Kandy-Matale road (A9) was temporarily closed at Akurana yesterday morning (05) due to a fire that broke out in a shop and spread to several adjacent shops and an international school in the vicinity.
-
-The flames were brought under control by around 10:00 a.m. after much effort by firefighters and local residents.
-
-However, the Akurana Police are conducting further investigations regarding the incident.
-
-◼️
-
-[Data](articles/d822cc3f.json)
-
-[Extended Data](ext_articles/d822cc3f.ext.json)
-
----
-
-### Sri Lanka 2024 first half remittances rise 11.4-pct, surpass $3.1 bn
-
-*2024-07-06 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-2024-first-half-remittances-rise-11-4-pct-surpasses-3-1-bn-171133/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s remittances coming through official channels gained 11.4 percent to $3.14 billion in the first six months of 2024 compared to the same period last year, helped by more expatriates using the official banking channels.
-
-The remittances in June were $519.6 million, 9.2 percent up from the same month last year, the official data showed.
-
-The remittances have risen continuously after the central bank gave up a parallel exchange rate regime, which compelled most expatriates to switch informal Undiyal and Hawala money transfer methods.
-
-The island nation witnessed a 57 percent jump in remittances coming through formal banking channels to $5.97 billion in 2023, from $3.8 billion a year earlier, helped by elimination of parallel exchange rate.
-
-The island nation has been in the process of sending more migrant workers to bring in higher foreign exchange since the country declared bankruptcy in 2022.
-
-...
-
-[Data](articles/42ef322d.json)
-
-[Extended Data](ext_articles/42ef322d.ext.json)
-
----
-
-### Sri Lanka 2024 first half remittances rise 11.4-pct, surpass $3.1 bn
-
-*2024-07-06 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-2024-first-half-remittances-rise-11-4-pct-surpass-3-1-bn-171133/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s remittances coming through official channels gained 11.4 percent to $3.14 billion in the first six months of 2024 compared to the same period last year, helped by more expatriates using the official banking channels.
-
-The remittances in June were $519.6 million, 9.2 percent up from the same month last year, the official data showed.
-
-The remittances have risen continuously after the central bank gave up a parallel exchange rate regime, which compelled most expatriates to switch informal Undiyal and Hawala money transfer methods.
-
-The island nation witnessed a 57 percent jump in remittances coming through formal banking channels to $5.97 billion in 2023, from $3.8 billion a year earlier, helped by elimination of parallel exchange rate.
-
-The island nation has been in the process of sending more migrant workers to bring in higher foreign exchange since the country declared bankruptcy in 2022.
-
-...
-
-[Data](articles/46aa01ad.json)
-
-[Extended Data](ext_articles/46aa01ad.ext.json)
-
----
-
-### Iranian presidential election
-
-*2024-07-06 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/187802) · `ta`
-
-Masood Besseskian won the Iranian presidential election with 53% of the votes in the second round, promising unity. Supporters celebrated with green flags, symbolizing hope and change.
-
-🟩
-
-Iranian presidential election. As the votes were expected at the end of the second round of the election, Masood Besseskian received 53 percent of the votes.
-
-The second round was required after the two candidates did not receive 50 percent of the votes in the election on June 28.
-
-New President's supporters are engaged in success. Young people celebrate victory with the green flag used in his election campaign.
-
-He promised during the election campaign that Iran would maintain unity in Iran.
-
-◼️
-
-[Data](articles/230bc71e.json)
-
-[Extended Data](ext_articles/230bc71e.ext.json)
 
 ---

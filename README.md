@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 00:35:06**
+As of **2024-07-08 00:51:08**
 
 ## Newspaper Stats
 
-*Scraped **34,124** Articles*
+*Scraped **34,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 334
 newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,005
-dailyftlk | 2,116
+dailyftlk | 2,118
 adalk | 3,052
 adaderanalk | 3,910
 tamilmirrorlk | 4,053
@@ -26,9 +26,47 @@ adaderanasinhalalk | 5,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,124 (100.0%) of 34,124 articles have been extended.
+34,124 (100.0%) of 34,126 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-07-08 (Monday)
+
+### Worsening external deficit to improve fiscal deficit: Jumping from frying pan into the fire
+
+*2024-07-08 00:31:31* · [`dailyftlk`](https://www.ft.lk/columns/Worsening-external-deficit-to-improve-fiscal-deficit-Jumping-from-frying-pan-into-the-fire/4-763944) · `en`
+
+After a disastrous handling of the economy during and in the immediate aftermath of COVID-19 in 2020 and 2021, the then President was unceremoniously (and possibly justifiably) removed from office. But is the economy on the right track since then?
+
+The relative stability of the economy since mid-2022 was broadly due to the following:
+
+2. Increase in rainfall in mid-2022, which eased the power cuts. As the rainfall reduced towards the end of 2022, electricity tariff was increased sharply which reduced demand.
+
+3. Halt of service of foreign debt which decreased foreign currency outflows.
+
+4. Exorbitant increase in interest rates and depreciation of currency in mid-2022 which plummeted demand for imports and eased foreign currency outflows. While interest rates have fallen sharply in recent months, Rupee has also strengthened to an extent.
+
+...
+
+[Data](articles/879c5626.json)
+
+---
+
+### Will environmentalists stall new 50MW Mannar wind power project?
+
+*2024-07-08 00:24:19* · [`dailyftlk`](https://www.ft.lk/columns/Will-environmentalists-stall-new-50MW-Mannar-wind-power-project/4-763942) · `en`
+
+Instead of protesting against an RE project, which will contribute to Sri Lanka’s much needed energy security and take us a step forward towards freedom from fossil fuels, why aren’t these protestors doing some real environmental work on the ground?
+
+Recently a group of environmentalists and a religious leader approached the Supreme Court against a renewable energy project to come up in the country’s north.
+
+Environmentalists rallying against a renewable energy project is odd. As they should be against fossil fuel-based projects and push for a quicker energy transition for Sri Lanka to achieve its goal to become carbon neutral by 2050.
+
+...
+
+[Data](articles/901003d6.json)
+
+---
 
 ### 2024-07-07 (Sunday)
 
@@ -2361,49 +2399,5 @@ It is reported that the condition of the injured are not serious and hospitalize
 [Data](articles/c4e4a506.json)
 
 [Extended Data](ext_articles/c4e4a506.ext.json)
-
----
-
-### Man killed in crocodile attack in Kataragama
-
-*2024-07-07 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/100344/man-killed-in-crocodile-attack-in-kataragama) · `en`
-
-A man was snatched by a crocodile while he was bathing in the Menik Ganga in the Kataragama police division.
-
-Police stated that the incident had occurred last morning (06) when the victim was bathing near the second bridge of the Menik Ganga.
-
-The remains of the victim have been recovered with the assistance of Police lifeguards and wildlife officers.
-
-The identity of the deceased remains unconfirmed and the Police stated that he is believed to be between 30-35 years of age.
-
-Kataragama Police are conducting further investigations related to the incident.
-
-◼️
-
-[Data](articles/90d81f65.json)
-
-[Extended Data](ext_articles/90d81f65.ext.json)
-
----
-
-### Basil pledges continued support for President Ranil
-
-*2024-07-07 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100343/basil-pledges-continued-support-for-president-ranil) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) founder former minister Basil Rajapaksa has declared their intention to continue supporting President Ranil Wickremesinghe with the country’s welfare in mind.
-
-He made this statement while attending a ceremony in Kalutara to mark the 27th anniversary of MP Rohitha Abeygunawardena’s political career.
-
-Rajapaksa emphasized that the SLPP’s support for Wickremesinghe was not motivated by fear, saying,    “President, whenever we work as part of the government in moving this party forward, we did not help you out of any fear. We state with great pride that we have no fear and no debt.”
-
-He further noted that the party collectively decided Wickremesinghe had the capability to save the country at a crucial time, and they had been supporting him sincerely since then.
-
-He assured that as long as the President continued to protect the country and its citizens, he would receive their full support.
-
-...
-
-[Data](articles/83a03d0a.json)
-
-[Extended Data](ext_articles/83a03d0a.ext.json)
 
 ---

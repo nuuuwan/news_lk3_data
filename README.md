@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 14:53:55**
+As of **2024-07-07 15:04:59**
 
 ## Newspaper Stats
 
-*Scraped **34,063** Articles*
+*Scraped **34,066** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ islandlk | 1,914
 economynextcom | 2,004
 dailyftlk | 2,115
 adalk | 3,041
-adaderanalk | 3,902
+adaderanalk | 3,904
 tamilmirrorlk | 4,037
 dailymirrorlk | 4,733
 virakesarilk | 5,336
-adaderanasinhalalk | 5,663
+adaderanasinhalalk | 5,664
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,061 (100.0%) of 34,063 articles have been extended.
+34,063 (100.0%) of 34,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### හෙට සහ අනිද්දා රාජ්‍ය සේවයට වෙන්න යන දේ
+
+*2024-07-07 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198574) · `si`
+
+රාජ්‍ය සේවයේ වෘත්තීය සමිති 200කට අධික ප්‍රමාණයක් අසනීප නිවාඩු දමා හෙට (08) සහ අනිද්දා (09) සේවයට වාර්තා නොකිරීමට තීරණය කර තිබේ.
+
+මේ අතර විදුහල්පතිවරු සහ ගුරුවරු ජූලි 09 වනදා අසනීප නිවාඩු දමා සේවයට නොපැමිණීමට තීරණය කර ඇත.
+
+◼️
+
+[Data](articles/43ade11d.json)
+
+---
+
+### Over 200 trade unions to launch ‘sick leave’ campaign
+
+*2024-07-07 14:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100353/-over-200-trade-unions-to-launch-sick-leave-campaign-) · `en`
+
+Over 200 trade unions in the public sector, including Grama Niladhari officers and surveyors will resort to trade union action by reporting ‘sick’ on Monday (8) and Tuesday (9), according to the Trade Unions Collective.
+
+However, the teachers and the principals will be reporting sick only on Tuesday (09 July).
+
+◼️
+
+[Data](articles/5524b2b2.json)
+
+---
+
+### New UK leader Starmer declares Rwanda deportation plan ‘dead and buried’
+
+*2024-07-07 14:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100352/new-uk-leader-starmer-declares-rwanda-deportation-plan-dead-and-buried) · `en`
+
+Britain’s new Prime Minister Keir Starmer said on Saturday he would scrap a controversial plan to fly thousands of asylum seekers from Britain to Rwanda in his first major policy announcement since winning a landslide election victory.
+
+The previous Conservative government first announced the plan in 2022 to send migrants who arrived in Britain without permission to the East African nation, saying it would put an end to asylum seekers arriving on small boats.
+
+But no one was sent to Rwanda under the plan because of years of legal challenges.
+
+At his first press conference since becoming prime minister, Starmer said that the Rwanda policy would be scrapped because only about 1% of asylum seekers would have been removed and it would have failed to act as a deterrent.
+
+“The Rwanda scheme was dead and buried before it started. It’s never been a deterrent,” Starmer said. “I’m not prepared to continue with gimmicks that don’t act as a deterrent.”
+
+...
+
+[Data](articles/097d8dde.json)
+
+---
 
 ### The controntal incident that surprised the LPL
 
@@ -440,19 +488,25 @@ It is worth noting that Mahinda Rajapaksa, who made an official visit to China t
 
 ---
 
-### මිලි මීටර් 100 ඉක්මවූ තද වැසි
+### Heavy rains exceeding 100 mm
 
 *2024-07-07 12:11:45* · [`adalk`](https://www.ada.lk/breaking_news/මිලි-මීටර්-100-ඉක්මවූ-තද-වැසි/11-410643) · `si`
 
-බස්නාහිර, සබරගමුව පළාත් වලත් මහනුවර දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවලට මි.මී. 100 පමණ තද වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි
+Heavy rains exceeding 100mm hit Western, Sabaragamuwa provinces, and Kandy district. The public is advised to prepare for potential damage from strong winds and lightning due to thunderstorms. This alert was issued today at 11:45 AM and remains in effect for 24 hours.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් හා අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනිමට අවශ්‍ය පියවර ගන්නා ලෙසද එම දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+🟩
 
-අද පෙරවරු 11.45ට නිකුත් කර ඇති මෙම නිවේදනය ඉදිරි පැය 24ක් දක්වා වලංගු වෙයි.
+Mm in the Western, Sabaragamuwa provinces and the Kandy district. Heavy rains can occur around 100
+
+The Department also requests the public to take necessary steps to reduce the damages caused by temporary strong winds and lightning activities possible with thunderstorms.
+
+The announcement was issued at 11.45 this morning until 24 hours.
 
 ◼️
 
 [Data](articles/9348b6e8.json)
+
+[Extended Data](ext_articles/9348b6e8.ext.json)
 
 ---
 
@@ -576,21 +630,27 @@ The Post Trade Union Fiance Chinthaka Bandara added that the trade union action 
 
 ---
 
-### සජිත් නිසා රජයට සිදුවූ රු. බිලියන 5.5ක පාඩුවක් ගැන හෙළිදරව්වක්
+### Rs.. Revelation of 5.5 billion loss
 
 *2024-07-07 11:45:47* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-නිසා-රජයට-සිදුවූ-රු--බිලියන-5-5ක-පාඩුවක්-ගැන-හෙළිදරව්වක්/11-410641) · `si`
 
-විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා නිවාස අමාත්‍යවරයා ලෙස කටයුතු කළ කාලය තුළ (2015 – 2019) අවිධිමත් ලෙස නිවාස ණය ලබා දීම හේතුවෙන් රජයට රුපියල් මිලියන 5,564කට අධික පාඩුවක් සිදුව ඇතැයි හෙළිවෙයි.
+The government incurred a loss of Rs. 5.5 billion due to the actions of the Minister of Opposition Leader, Sajith Premadasa, during his tenure as the Minister of Housing from 2013 to 2019. This loss is attributed to the failure to complete the construction of 107,932 houses, despite starting 341,510 constructions between 2015 and 2019. Additionally, 53,709 beneficiaries had their housing loans disqualified, leading to further financial implications. The current Chairman of the National Housing Development Authority (NHDA), Rajiv Suryarachchi, highlighted these issues, emphasizing the need for proper planning and execution in housing development projects.
 
-මේ හේතුවෙන් සජිත් ප්‍රේමදාස මහතා එවකට නිවාස අමාත්‍යවරයාව සිටි කාලයේ දී අවිධිමත් ලෙස ලබා දුන් ප්‍රතිලාභීන් 53,709 දෙනෙකුගේ ණය සීමා කිරීමට සිදු වූ බව ජාතික නිවාස සංවර්ධන අධිකාරියේ සභාපති රජීව් සූරියාරච්චි මහතා පවසයි. ඉන් රජයට ඉතිරි වූ මුදල රුපියල් මිලියන 7,852කට අධිකයි.
+🟩
 
-වත්මන් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා නිවාස අමාත්‍යවරයා ලෙස කටයුතු කළ 2015 – 2019 කාලය තුළ නිවාස ව්‍යාපෘති 07ක් ක්‍රියාත්මක කර තිබේ. ආදර්ශ ගම්මාන විසිරි ණය ආධාර, වකුගඩු ආධාර, විරු සුමිතුරු ආධාර, ග්‍රාම ශක්ති, විසිරි ආධාර හා ගංවතුර ආධාර එම නිවාස වැඩසටහන් හතයි.
+It is revealed that the government had no loss of Rs. 5,564 million due to the Minister of Opposition Leader
 
-ජාතික නිවාස සංවර්ධන අධිකාරියේ සභාපති රජීව් සූරියාරච්චි මහතා පවසන්නේ මෙම අවිධිමත් නිවාස ණය ලබා දීම වැඩිවශයෙන් සිදුව ඇත්තේ 2018 හා 2019 වසර වල බවයි.
+The Chairman of the National Housing Development Authority (NHD) Rajiv Surrayarachchi, Chairman of the National Housing Development Authority (NHDA) said that the loans of 53,709 beneficiary beneficiaries in the minister,. The government is over Rs. 7,852 million.
+
+Current opposition leader Sajith Premadasa served as the Minister of Housing 2013 - 2019. Sample Vollecy Aid, Kidney Floor, Relivery Flood, Rural Aid, Grama Seva and Flood Assistance
+
+The Chairman of the National Housing Development Authority (National Housing Development Authority) The President of the National Housing Development Authority (NSP) says that the introduction of this informal housing loans is increased and in 2019.
 
 ...
 
 [Data](articles/0c6e9065.json)
+
+[Extended Data](ext_articles/0c6e9065.ext.json)
 
 ---
 
@@ -2177,65 +2237,5 @@ The President also pointed out that the salary could be increased through the ne
 [Data](articles/f85acd03.json)
 
 [Extended Data](ext_articles/f85acd03.ext.json)
-
----
-
-### Monday strike
-
-*2024-07-06 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198548) · `si`
-
-On Monday and Tuesday, numerous state and semi-government trade unions went on strike, including the Public Service Trade Union Alliance and the Ceylon Teachers Unions. The Government Medical Officers Association also expressed opposition to any plans to privatize Sri Lanka's health sector.
-
-🟩
-
-A large number of state and semi-government trade unions have been joined in a wide strike on Monday (08) and Tuesday (09).
-
-It is reported that many trade unions including the Public Service Trade Union Alliance, the Joint Health Employees Union, Ceylon Teachers Union and the Ceylon Teachers 'Service Union and the Ceylon Teachers' Service Union have participated.
-
-Meanwhile, several members of the new staff of the Government Medical Officers Association visited the Mahanayaka Thera today.
-
-The Secretary of the Government Medical Officers' Association Dr. Prabha Sugathadasa said that there were any objectives to privatize the health sector in Sri Lanka.
-
-◼️
-
-[Data](articles/53a6978f.json)
-
-[Extended Data](ext_articles/53a6978f.ext.json)
-
----
-
-### Political Journey of  Tamil “Perunthalaiver” (Great Leader) Rajavarothayam Sampanthan.
-
-*2024-07-06 19:19:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84342) · `en`
-
-Veteran Tamil political leader  and senior Trincomalee district MP,Rajavarothayam Sampanthan passed away peacefully in Colombo on 30 June 2024. The nonagenarian Sampanthan who had been ailing for some time was listening after dinner  to an audio tape of “Kanthasashti Kavasam”verses sung by  the Soolaman Sisters Rajalakshmi and Jeyalakshmi when he collapsed  with a groan.  Sampanthan was immediately taken to   Lanka Hospital where he  breathed his last around 11 PM.
-
-The Kanthasashti Kavasam  composed by Balan Devaraya Swamigal  consist of devotional verses praising Lord Murugan or Skandha.  Muruga the second son of Lord Shiva and Parvathy is  regarded as the  “Thamizhkkadavul”  or God of Tamils. Passing away peacefully while listening to Kandha Sashti Kavasam verses is indeed a blessed death for devout hindus. Sampanthan was a deeply religious person whose family deity is  the Pathrakali Amman of Trincomalee.
-
-...
-
-[Data](articles/251e8a55.json)
-
-[Extended Data](ext_articles/251e8a55.ext.json)
-
----
-
-### Two arrested for robbing house
-
-*2024-07-06 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198547) · `si`
-
-In Dehiowita, two individuals have been arrested for robbing a house, confiscating £ 4 lakhs and 400,000 gold items worth millions.
-
-🟩
-
-Dehiowita has been arrested by Dehiowita police, including four £ 4 lakhs and 400,000 gold items in the Dehiowita area.
-
-The suspects were taken into custody by the money of the suspects.
-
-◼️
-
-[Data](articles/2188fba6.json)
-
-[Extended Data](ext_articles/2188fba6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 05:19:39**
+As of **2024-07-07 05:38:32**
 
 ## Newspaper Stats
 
-*Scraped **33,973** Articles*
+*Scraped **33,987** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 309
 colombotelegraphcom | 312
 bbccomsinhala | 333
 newsfirstlk | 363
-islandlk | 1,898
+islandlk | 1,912
 economynextcom | 2,003
 dailyftlk | 2,115
 adalk | 3,031
@@ -26,11 +26,159 @@ adaderanasinhalalk | 5,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,973 (100.0%) of 33,973 articles have been extended.
+33,973 (100.0%) of 33,987 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### Teaching, Work, and Business in Europe
+
+*2024-07-07 03:57:00* · [`islandlk`](http://island.lk/teaching-work-and-business-in-europe/) · `en`
+
+In 1990, when I was the Acting Director of the School of Hotel Management at Schiller International University (SIU) and a doctoral student at the University of Surrey in the UK, my schedule was packed. One day, my boss, Dr. Richard Taylor, the Director of the London Campus of SIU, called me to his office.
+
+“Chandi,” he said, “I know you teach a full load of four courses to our MA and BBA students in the Hotel Management programs. We have an Associate Business Administration (ABA) program in International Tourism Management at another campus. To establish a clear pathway for those ABA students to join the BBA program in their third year, I would like you to become familiar with this program, its students, curricula, and campus. Can you teach two additional travel and tourism courses at the ‘Historic’ Wickham Court Study Centre?”
+
+...
+
+[Data](articles/95815563.json)
+
+---
+
+### LB Finance PLC receives merit award at inaugural Digital Trust Awards Night 2024
+
+*2024-07-07 03:37:00* · [`islandlk`](http://island.lk/lb-finance-plc-receives-merit-award-at-inaugural-digital-trust-awards-night-2024/) · `en`
+
+LB Finance PLC has been honoured with a merit award at the inaugural Digital Trust Awards Night 2024, held at The Monarch Imperial in Thalawathugoda. The award was bestowed in the category of ‘Technology Resilient Company of the Year’.
+
+Organized by ISACA Sri Lanka, a local chapter of the global association of IS security and governance professionals, the Digital Trust Awards Night celebrates excellence in digital trust and security practices. ISACA, a worldwide association, focuses on assurance, security, and governance, offering globally recognized certifications such as CISA (Certified Information Systems Auditor), CISM (Certified Information Security Manager), and CGEIT (Certified in the Governance of Enterprise IT). Its members often serve as the primary practitioners of information systems auditing, security, and governance within their organizations.
+
+Vidma Engineering wins Best Entrepreneur Award at Asia Miracle Awards 2024
+
+...
+
+[Data](articles/30e11d89.json)
+
+---
+
+### CEAT Kelani wins double honours at National Business Excellence Awards 2024
+
+*2024-07-07 03:37:00* · [`islandlk`](http://island.lk/ceat-kelani-wins-double-honours-at-national-business-excellence-awards-2024-2/) · `en`
+
+CEAT Kelani Holdings won prestigious double honours at the National Business Excellence Awards 2024 presented by the National Chamber of Commerce of Sri Lanka (NCCSL), reaffirming the company’s status as one of the country’s foremost manufacturing success stories.
+
+The manufacturer of half of Sri Lanka’s pneumatic tyre requirements, CEAT Kelani won the National Business Excellence Award (NBEA) in the ‘Manufacturing – Other’ category and was the winner of the Criteria Award for Excellence in Local Market Reach, in recognition of the company’s success in responding to the challenging conditions that prevailed in the period assessed for these awards.
+
+Notably, this was the fifth occasion that CEAT Kelani Holdings was recognized by the NCCSL for Business Excellence.
+
+...
+
+[Data](articles/3a7cf47f.json)
+
+---
+
+### Puvendran Gajendra appointed Chairman of Sanasa Life Insurance PLC
+
+*2024-07-07 03:37:00* · [`islandlk`](http://island.lk/puvendran-gajendra-appointed-chairman-of-sanasa-life-insurance-plc/) · `en`
+
+Sanasa Life Insurance PLC has appointed Puvendran Gajendra as their new Chairman. Gajendra has been a board member and served as an independent Director since 2019. He is a Fellow Member of the Institute of Chartered Accountants of Sri Lanka (FCA), an Associate Member of the Association of Chartered Certified Accountants (ACCA UK), and a Fellow Member of the Institute of Certified Management Accountants of Sri Lanka (FCMA). Additionally, he holds the title of Fellow Member of the Institute of Chartered Professional Managers of Sri Lanka (FCPM) and possesses a Postgraduate Diploma in Business Administration from Sheffield Hallam University.
+
+...
+
+[Data](articles/5e03ce8f.json)
+
+---
+
+### ISACA Honours Dialog for Technology Resilience at Digital Trust Awards 2024
+
+*2024-07-07 03:37:00* · [`islandlk`](http://island.lk/isaca-honours-dialog-for-technology-resilience-at-digital-trust-awards-2024/) · `en`
+
+Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, has been awarded the prestigious Technology Resilience Award by ISACA, the global leader in IS/IT governance, risk, audit, cybersecurity, and emerging technologies for over 50 years. The inaugural Digital Trust Awards held on 13th June 2024, gathered industry leaders, policymakers, cybersecurity professionals, and experts in governance, risk, compliance, and privacy to discuss emerging challenges, share best practices, and propose strategies to enhance digital trust across various sectors.
+
+“We are honoured to receive the Technology Resilience Award from ISACA, which validates our commitment to technological innovation and resilience. This accolade encourages us to continue our efforts in making digital platforms robust and secure for all our customers,” stated Supun Weerasinghe, Chief Executive of Dialog Axiata PLC.
+
+...
+
+[Data](articles/910bc041.json)
+
+---
+
+### Zenith Trading Private Limited wins entrepreneur of the year award at Business World International Awards
+
+*2024-07-07 03:37:00* · [`islandlk`](http://island.lk/zenith-trading-private-limited-wins-entrepreneur-of-the-year-award-at-business-world-international-awards/) · `en`
+
+Zenith Trading Private Limited, a subsidiary of the Zenith Group of Companies, has been honored with the prestigious Entrepreneur of the Year Award (Medium – Gold) in the Trading Business Category at the Business World International Awards. The award was received by R. Anton Keney Fernando, Managing Director of the Zenith Group of Companies.
+
+Founded in 2004 by Fernando and Joseph Peter, the Zenith Group of Companies began its journey with a modest retail shop named Zenith Traders. Renowned for its commitment to quality and reliability, the company expanded into wholesale and nationwide distribution in 2010. Zenith Trading specializes in importing, supplying, retailing, and wholesaling steel, engineering, construction, plumbing materials, and tools.
+
+CEAT Kelani wins double honours at National Business Excellence Awards 2024
+
+The decisions we make today will shape our future – President
+
+...
+
+[Data](articles/a3821ead.json)
+
+---
+
+### Biden celebrates July 4 amid doubts about his political future
+
+*2024-07-07 01:39:00* · [`islandlk`](http://island.lk/biden-celebrates-july-4-amid-doubts-about-his-political-future/) · `en`
+
+Justice Sotomayor on SC Ruling on Presidential Immunity: With fear for our democracy, I dissent
+
+President Biden had a dismal debate night on Thursday, June 28. There is absolutely no gainsaying that fact. However rose-tinted the glasses we may wear, Biden did no favors to his chances of re-election in November. Highly respected journals like the New York Times and the Chicago Tribune, joined with this lowly columnist, an ardent supporter of the Democratic cause and a virulent Never Trumper, in sending a message, immediately after the debate, to the 81-year-old incumbent president to drop out of the fray, for the greater good of the nation.
+
+In fact, polls after the debate found that 72% of all voters did not want Biden running in November. Also, many of the mega donors of the Democratic Party are insisting that the party replaces Biden with a younger, more electable candidate – or else.
+
+...
+
+[Data](articles/0ee4dc1e.json)
+
+---
+
+### Lanka’s defense cooperation with India: Strengthening ties or strategic dependence?
+
+*2024-07-07 01:21:00* · [`islandlk`](http://island.lk/lankas-defense-cooperation-with-india-strengthening-ties-or-strategic-dependence/) · `en`
+
+Exposing a large segment of your military officers to the thinking and training of a foreign power, especially one so near, can have significant consequences.
+
+Defense cooperation between Sri Lanka and India is growing. This is significant as India’s defense engagements with other countries in the region, such as the Maldives, for example, are reducing. This is a strategic move on India’s part to strengthen its influence in the Indian Ocean island at a time when the Chinese presence in the region has grown manifold.
+
+By providing specialized training and military aid, India aims to foster a closer relationship with Sri Lanka, akin to the historical precedent set by the United States through its military aid programs with developing countries since 1880.
+
+...
+
+[Data](articles/e1a8b07b.json)
+
+---
+
+### Anita Desai – Indian Novelist
+
+*2024-07-07 01:09:00* · [`islandlk`](http://island.lk/anita-desai-indian-novelist/) · `en`
+
+I caught the infection of admiring almost anything Indian from my eldest brother – kind and pacifist like Gandhi; superb gentleman like Jawaharlal Nehru. His most prized possession was an autographed copy of  Discovery of India, given him by Nehru himself when he visited Ceylon in 1957 in celebration of the Buddha Jayanti. A cherished memory of his was seeing newly wed Nayantara, daughter of Vijayalakshmi Pandit, leave by train in the Delhi station with husband Sahgal on their honeymoon.
+
+They were surrounded by family. And what was Aiya doing over there? Intrepidly he had taken Mother on pilgrimage to Gaya and other places, all by himself in 1949, when pilgrimages were rare and fraught with risks.
+
+...
+
+[Data](articles/9e7bc71c.json)
+
+---
+
+### On the verge of manhood
+
+*2024-07-07 01:06:00* · [`islandlk`](http://island.lk/on-the-verge-of-manhood/) · `en`
+
+Seniors’ ragging of ‘freshers’ was rampant on the Peradeniya campus. Marcus Fernando Hall, where I was a fresher, was notorious for ragging. A gang of nasty seniors woke us up at 4 am and forced us to crawl naked around the hall pond, pretending to be reptiles looking for water. Some seniors were lenient and wanted to have a good time with freshers. They asked us to sing, dance, or write letters promising to marry off sisters to their lordships – seniors. Once, I wrote a long letter promising to marry off my only sister to a senior. (I had only three brothers). He read the letter, thanked me for my generosity, and asked whether my sister was pretty. When I hesitated to reply, he told me he was uninterested in my sister.
+
+...
+
+[Data](articles/b427d4d9.json)
+
+---
 
 ### No International Research Ships
 
@@ -51,6 +199,36 @@ Meanwhile, Foreign Minister Japanese thanked the government of Sri Lanka for pro
 [Data](articles/1b234b43.json)
 
 [Extended Data](ext_articles/1b234b43.ext.json)
+
+---
+
+### Remembering our glorious Peradeniya days 65 years later
+
+*2024-07-07 00:59:00* · [`islandlk`](http://island.lk/remembering-our-glorious-peradeniya-days-65-years-later/) · `en`
+
+It was 65 years ago on June 29, 1959, that a batch of 378 students from all parts of Ceylon entered the portals of the world’s most beautiful campus of the time of the then University of Ceylon situated on a spectacular site in Peradeniya, just four miles from the historic city of Kandy. We had passed the University Entrance examination conducted by the university itself, to read for our different degrees in Arts, Oriental Languages, English, Law etc.
+
+Our batch of 1959 was special for two reasons. We were the last totally English medium batch to enter the university and the first where all students were admitted directly without a viva voce or interview. Previously, the students were selected both directly and some after facing a viva voce.
+
+...
+
+[Data](articles/5b3353fd.json)
+
+---
+
+### When the World’s Newsrooms Erupted in Laughter…
+
+*2024-07-07 00:59:00* · [`islandlk`](http://island.lk/when-the-worlds-newsrooms-erupted-in-laughter/) · `en`
+
+UNITED NATIONS | 27 June 2024 (IDN) — When British Prime Minister Rishi Sunak addressed reporters outside his official residence, 10 Downing Street, to announce the next general elections, he stood there in pelting rain with a heavily water-soaked suit because no one was shielding him from the weather while dozens of reporters were armed to the teeth—both with rain coats and umbrellas.
+
+The next morning the London newspapers had a field day. One of the tabloids ran with the headline: DROWNING STREET and another headline read: DROWN AND OUT. As for his chances of winning the upcoming elections, the Daily Telegraph had the headline: THINGS CAN ONLY GET WETTER.
+
+Meanwhile, in a bygone era, when a British Labour Party politician MICHAEL FOOT was elected to chair a committee to look into nuclear disarmament in Europe, the legendary headline in the London Times in 1986 read: FOOT HEADS ARMS BODY.
+
+...
+
+[Data](articles/964b301e.json)
 
 ---
 
@@ -401,6 +579,24 @@ The Future will be conducted by the Sri Lanka Bureau of Foreign Employment.
 [Data](articles/ae49a301.json)
 
 [Extended Data](ext_articles/ae49a301.ext.json)
+
+---
+
+### The decisions we make today will shape our future – President
+
+*2024-07-06 18:27:00* · [`islandlk`](http://island.lk/the-decisions-we-make-today-will-shape-our-future-president/) · `en`
+
+President Ranil Wickremesinghe recently emphasized that as the country builds a new economy, it is crucial to establish a new political system. This system must foster individuals who can take responsibility and speak the truth fearlessly.
+
+He made these remarks during the bankers’ forum organized by the National Bankers Association at Galle Face Hotel, Colombo, on Friday (05).
+
+The President stated that he has updated the people of the economic challenges faced by the country and has also outlined a clear program to lead the nation out of the crisis. He reiterated that there is no alternative program for the country and that it is everyone’s responsibility to identify and support the program rather than living in dream worlds.
+
+He pointed out that while some have cited Argentina’s Martin Guzman as an example, he considers Guzman a failure.
+
+...
+
+[Data](articles/fad19c8e.json)
 
 ---
 
@@ -1570,6 +1766,24 @@ Total Elevation Average declined by Rs. 23.11 in comparison to the previous mont
 
 ---
 
+### SL facing the challenge of attracting ESG conscious foreign and local investors
+
+*2024-07-06 02:39:00* · [`islandlk`](http://island.lk/sl-facing-the-challenge-of-attracting-esg-conscious-foreign-and-local-investors/) · `en`
+
+Sri Lanka appears to be facing the challenge of attracting local and foreign investors towards Sustainable Bonds; the likes of Green Bonds and Blue Bonds, and other sustainable debt instruments that have a common goal to create a sustainable ecosystem, and are becoming an important part of global fixed income markets.
+
+This was made known during the course of a speech made by the Chairman of the Securities and Exchange Commission (SEC) Faizal Salieh, at a seminar centred on ‘Unlocking Opportunities through Sustainable Bonds: Towards a Greener Economy’.
+
+The event had been organized by the SEC, The Colombo Stock Exchange (CSE) in collaboration with the Asian Development Bank (ADB) at Shangri-La Colombo on July 3.
+
+“The challenge is how quickly can Sri Lanka socialize these bonds and attract ESG conscious foreign investors, whilst being mindful of Sri Lanka’s default sovereign rating hurdle. We also need to build an ESG conscious local investor base,” he said.
+
+...
+
+[Data](articles/e285ee64.json)
+
+---
+
 ### EDR success will lead to resumption of stalled energy projects: state minister
 
 *2024-07-06 02:38:00* · [`islandlk`](http://island.lk/edr-success-will-lead-to-resumption-of-stalled-energy-projects-state-minister/) · `en`
@@ -2001,263 +2215,5 @@ This program is planned for two years commencing from 2024 till the end of 2025 
 [Data](articles/8d165980.json)
 
 [Extended Data](ext_articles/8d165980.ext.json)
-
----
-
-### Ninth ‘Construction Power and Energy Expo 2024’ kicks off at BMICH
-
-*2024-07-05 23:27:16* · [`dailyftlk`](https://www.ft.lk/business/Ninth-Construction-Power-and-Energy-Expo-2024-kicks-off-at-BMICH/34-763913) · `en`
-
-Sri Lanka’s most focused construction, interior products, lighting, power and energy exhibition – ‘Construction Power and Energy Expo 2024’ kicked off yesterday at the BMICH. It will conclude On Sunday.
-
-Organiser Lanka Exhibition and Conference Services (LECS) said the ‘Construction Power and Energy Expo’ is Sri Lanka’s premier exhibition in the construction, interior products, power, and energy-related sectors. With its eighth successive year, the expo provides a comprehensive platform for industry stakeholders, service providers, and exhibitors to showcase their products and services, forge valuable connections, and drive industry innovation.
-
-...
-
-[Data](articles/1e93ed77.json)
-
-[Extended Data](ext_articles/1e93ed77.ext.json)
-
----
-
-### Hayley’s Kelani Valley Plantations represents Sri Lanka at 10th World Water Forum in Bali
-
-*2024-07-05 23:26:18* · [`dailyftlk`](https://www.ft.lk/business/Hayley-s-Kelani-Valley-Plantations-represents-Sri-Lanka-at-10th-World-Water-Forum-in-Bali/34-763912) · `en`
-
-Hayleys Plantations Sector Head Dr. Roshan Rajadurai (far right), speaking during the Executive Roundtable Dialogue at the 10th World Water Forum
-
-Hayleys Plantations Sector Head Dr. Roshan Rajadurai, speaking during the Executive Roundtable Dialogue at the 10th World Water Forum
-
-Hayleys Plantations Sector Head and Kelani Valley Plantations PLC (KVPL) Managing Director Dr. Roshan Rajadurai represented Sri Lanka at the recently concluded 10th World Water Forum held in Bali.
-
-During the esteemed Side Event – Executive Roundtable Dialogue titled ‘Flowing Forward Faster: Best Practices in Corporate Water Stewardship’, Dr. Rajadurai shared KVPL’s innovative strategies in water management and underscored its commitment to sustainable water use and preservation.
-
-His insights highlighted the essence of ‘The CEO Water Mandate’, to which Hayleys and Kelani Valley Plantations PLC are proud signatories.
-
-...
-
-[Data](articles/e1a36fe4.json)
-
-[Extended Data](ext_articles/e1a36fe4.ext.json)
-
----
-
-### SLASSCOM and IIT Madras Pravartak forge strategic partnership to boost startup ecosystem in country
-
-*2024-07-05 23:25:17* · [`dailyftlk`](https://www.ft.lk/business/SLASSCOM-and-IIT-Madras-Pravartak-forge-strategic-partnership-to-boost-startup-ecosystem-in-country/34-763911) · `en`
-
-SLASSCOM and IIT Madras Pravartak have inked a landmark Memorandum of Understanding (MoU) aimed at enhancing collaboration and fostering innovation in Sri Lanka’s startup ecosystem.
-
-The agreement was facilitated by Dr. Shankar Raman from IIT Madras Pravartak and SLASSCOM Chairman Jehan Perinpanayagam, Rajendra Moortha and SLASSCOM Vice Chair Nishan Mendis.
-
-...
-
-[Data](articles/07bc2ffc.json)
-
-[Extended Data](ext_articles/07bc2ffc.ext.json)
-
----
-
-### Lumala makes debut at International Industry Expo 2024
-
-*2024-07-05 23:24:24* · [`dailyftlk`](https://www.ft.lk/business/Lumala-makes-debut-at-International-Industry-Expo-2024/34-763910) · `en`
-
-In its pursuit to enhance environmental health and inspire an active lifestyle throughout the Sri Lankan community, City Cycle Industries Manufacturing Ltd., also known as Lumala, recently participated at the International Industry Expo 2024, organised by the Ministry of Industries (MOI) and the Industrial Development Board (IDB).
-
-One of the most sought after events in the country, the International Industry Expo 2024, held from 19 to 23 June at the BMICH, brought together tens of hundreds of exhibitors from diverse industry sectors, showcasing their products and innovations to visitors from over 20 countries.
-
-Lumala had a highly successful debut at the expo, making strides in bringing some of the most environmental-friendly, cost-efficient, smart mobility solutions as opposed to the conventional ones. For instance, their Voltage Edition e-bikes can go more than 100 km with pedal assistance on a single charge, and more than 60 km when fully charged and going at full power.
-
-...
-
-[Data](articles/f7d9e9b6.json)
-
-[Extended Data](ext_articles/f7d9e9b6.ext.json)
-
----
-
-### The Global South sees Five Principles of Peaceful Coexistence as relevant and important norm
-
-*2024-07-05 23:22:26* · [`dailyftlk`](https://www.ft.lk/columns/The-Global-South-sees-Five-Principles-of-Peaceful-Coexistence-as-relevant-and-important-norm/4-763909) · `en`
-
-Seven decades ago, the late Chinese Premier Zhou Enlai first put forward the Five Principles of Peaceful Coexistence namely mutual respect for sovereignty and territorial integrity, mutual nonaggression, mutual noninterference in each other’s internal affairs, equality and mutual benefit, and peaceful coexistence.
-
-On 28 June 2024, China proudly commemorated its 70th anniversary for successfully carrying forward these principles, which has been seen by the world as an inevitable historic development and milestone of the new world of international relations.
-
-Chinese President Xi Jinping delivered an important speech at the conference. During the address, President Xi said that “Five Principles of Peaceful Coexistence have become open, inclusive, and universally applicable basic norms for international relations and fundamental principles of international law. They have made indelible historic contributions to the cause of human progress.”
-
-...
-
-[Data](articles/5ed1285d.json)
-
-[Extended Data](ext_articles/5ed1285d.ext.json)
-
----
-
-### Sabry in Japan highlights Sri Lanka’s commitment to women’s participation across all societal levels
-
-*2024-07-05 23:20:28* · [`dailyftlk`](https://www.ft.lk/opinion/Sabry-in-Japan-highlights-Sri-Lanka-s-commitment-to-women-s-participation-across-all-societal-levels/14-763908) · `en`
-
-Expresses gratitude to Japan for important supportive role played in external debt restructuring process as a co-chair of Official Creditor Committee
-
-Foreign Affairs Minister Ali Sabry this week in Japan underscored the country’s commitment to enhancing women’s participation across all societal sectors.
-
-He made these remarks during his official visit to Japan from 1 to 7 July, when he asserted the importance of the Women, Peace, and Security (WPS) framework, highlighting its role in achieving sustainable international peace, security, and development.
-
-“I look forward to sharing perspectives with Minister Kamikawa on various mutual interests, particularly on disarmament, non-proliferation, ongoing conflicts, and rising tensions,” Sabry stated during a press briefing. He praised Japan’s support in developing Sri Lanka’s National Action Plan (NAP) on Women, Peace, and Security, launched in March 2023.
-
-...
-
-[Data](articles/8fd2c601.json)
-
-[Extended Data](ext_articles/8fd2c601.ext.json)
-
----
-
-### Was Sri Lanka’s COVID-19 response a success?
-
-*2024-07-05 23:10:51* · [`dailyftlk`](https://www.ft.lk/opinion/Was-Sri-Lanka-s-COVID-19-response-a-success/14-763902) · `en`
-
-The systemic stigmatisation of minority religious groups during a global health crisis not only violates medical ethics but also exacerbates societal divisions, especially in a country scarred by decades of civil war
-
-Sri Lanka initially stood out as a success story in South Asia during the early stages of the pandemic in 2020. However, this success wasn’t merely luck or a reflection of a robust health system. Instead, it was largely attributed to the impending parliamentary elections. These elections, originally slated for 25 April 2020, became a significant factor in the Government’s response to the crisis. With a new Executive President elected on 16 November 2019, and the dissolution of Parliament on 2 March 2020, the timing of the pandemic’s emergence and the subsequent actions taken by the Government were intricately tied to political considerations
-
-...
-
-[Data](articles/5252f0ab.json)
-
-[Extended Data](ext_articles/5252f0ab.ext.json)
-
----
-
-### Debt restructuring and current economic trends: Discussion with CB Governor and Treasury Secretary
-
-*2024-07-05 23:06:32* · [`dailyftlk`](https://www.ft.lk/opinion/Debt-restructuring-and-current-economic-trends-Discussion-with-CB-Governor-and-Treasury-Secretary/14-763901) · `en`
-
-Central Bank Governor Dr. Nandalal Weerasinghe gestures during the interview conducted by President’s Media Division Director General Dhanushka Ramanayake whilst Finance Ministry Secretary Mahinda Siriwardana looks on
-
-Following are excerpts of a special discussion on “Debt restructuring and current economic trends” with Central Bank Governor Dr. Nandalal Weerasinghe and Finance Ministry Secretary Mahinda Siriwardana, moderated by President’s Media Division Director General Dhanushka Ramanayake.
-
-Q:  President Ranil Wickremesinghe accepted this responsibility at a time when political leaders did not come forward to save the country from this crisis. Today, the economy has reached a certain trend. Even though debt restructuring has brought good news to Sri Lanka by stabilising the economy to a certain extent, it is believed that the expected results have not been achieved. As the Governor of the Central Bank, what is your opinion on this?
-
-...
-
-[Data](articles/9122e3a9.json)
-
-[Extended Data](ext_articles/9122e3a9.ext.json)
-
----
-
-### Beyond the floods and droughts: Sri Lanka’s journey to sustainability
-
-*2024-07-05 23:03:05* · [`dailyftlk`](https://www.ft.lk/columns/Beyond-the-floods-and-droughts-Sri-Lanka-s-journey-to-sustainability/4-763900) · `en`
-
-Sri Lanka is considered a hotspot for climate change impacts. Over the past 20 years, the country has experienced frequent natural disasters, predominantly floods and droughts. According to the Climate Risk Index 2021, which measures a country’s exposure and vulnerability to extreme weather events, Sri Lanka ranks 30th out of 180 countries in terms of vulnerability.
-
-...
-
-[Data](articles/21813e48.json)
-
-[Extended Data](ext_articles/21813e48.ext.json)
-
----
-
-### Eliminating Political Corruption: The Key To Our Recovery
-
-*2024-07-05 23:01:12* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/eliminating-political-corruption-the-key-to-our-recovery/) · `en`
-
-Sri Lanka is grappling with a severe cost-of-living crisis rooted in pervasive political corruption. Political intermediaries profit at every stage, shifting the burden onto consumers. The economy has plummeted due to corrupt leaders using the government to further personal agendas and misusing public funds on unproductive projects while simultaneously selling national assets and depleting public reserves. Under such deceptive governance, our future hard work and increased taxes will be in vain, offering no relief to ordinary citizens as corrupt politicians continue to siphon off surplus funds.
-
-...
-
-[Data](articles/10896a69.json)
-
-[Extended Data](ext_articles/10896a69.ext.json)
-
----
-
-### Transforming enterprise risk management for sustainable and climate-friendly businesses
-
-*2024-07-05 22:53:27* · [`dailyftlk`](https://www.ft.lk/columns/Transforming-enterprise-risk-management-for-sustainable-and-climate-friendly-businesses/4-763899) · `en`
-
-Entrepreneurs and businesses need to transform their risk management frameworks and proactively adapt to a changing climate
-
-In an increasingly complex and convoluted landscape of risks, entrepreneurs and businesses need to transform their risk management frameworks and proactively adapt to a changing climate. Especially in climate-vulnerable developing countries such as Sri Lanka, climate-smart enterprise risk management (ERM) is both a necessity and an opportunity. Building on traditional cultural heritage, rich natural resources, and new technologies, enterprises can turn sustainable, climate-friendly, and resilient business models into unique advantages and become part of emerging green or blue economies.
-
-...
-
-[Data](articles/1a9eed92.json)
-
-[Extended Data](ext_articles/1a9eed92.ext.json)
-
----
-
-### Elections should be held on the appropriate date: President
-
-*2024-07-05 22:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரிய-திகதியில்-தேர்தலை-நடத்த-வேண்டும்-ஜனாதிபதி/175-339929) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of holding elections on the correct date, discussing this with the Commissioner of Elections. The President of Sri Lanka Ramanya Maha Nikaya visited the headquarters for a brief meeting and received a souvenir after blessing him.
-
-🟩
-
-President Ranil Wickremesinghe said that the election should be held on the appropriate date and explained the matter with the Commissioner of Elections.
-
-President of Sri Lanka Ramanya Maha Nikaya, located at Elvitigala Road, Narahenpitiya, visited the headquarters of Sri Lanka Ramanya Maha Nikaya this afternoon. Makuleway met Wimala Mahanayaka Thera and inquired about the welfare and engaged in a short discussion.
-
-Thera, who recited the British and blessed President Ranil Wickremesinghe, presented a souvenir to the President.
-
-I have informed the Commissioner of Elections to hold elections on the appropriate date. He recalled that I had recommended the 2015 presidential term from six years to 05 years.. Remble
-
-◼️
-
-[Data](articles/1c924d6f.json)
-
-[Extended Data](ext_articles/1c924d6f.ext.json)
-
----
-
-### The President should hold elections on the appropriate date - President
-
-*2024-07-05 22:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரிய-திகதியில்-தேர்தலை-நடத்த-வேண்டு-ஜனாதிபதி/175-339929) · `ta`
-
-President Ranil Wickremesinghe urges for timely elections, discussing with the Election Commissioner. The President of Sri Lanka Ramanya Maha Nikaya visits headquarters, engages in discussions, and receives a souvenir.
-
-🟩
-
-President Ranil Wickremesinghe said that the election should be held on the appropriate date and explained the matter with the Commissioner of Elections.
-
-President of Sri Lanka Ramanya Maha Nikaya, located at Elvitigala Road, Narahenpitiya, visited the headquarters of Sri Lanka Ramanya Maha Nikaya this afternoon. Makuleway met Wimala Mahanayaka Thera and inquired about the welfare and engaged in a short discussion.
-
-Thera, who recited the British and blessed President Ranil Wickremesinghe, presented a souvenir to the President.
-
-I have informed the Commissioner of Elections to hold elections on the appropriate date. He recalled that I had recommended the 2015 presidential term from six years to 05 years.. Remble
-
-◼️
-
-[Data](articles/50938445.json)
-
-[Extended Data](ext_articles/50938445.ext.json)
-
----
-
-### Sri Lankan-origin Uma Kumaran elected to UK Parliament
-
-*2024-07-05 22:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100324/sri-lankan-origin-uma-kumaran-elected-to-uk-parliament) · `en`
-
-Uma Kumaran, daughter of a couple who sought refuge in the United Kingdom after having fled Sri Lanka at the height of the civil war, on Friday scripted history by becoming the first-ever Tamil woman to enter the British Parliament.
-
-Born and raised in London, Uma Kumaran is the first ever member of parliament for Stratford and Bow. Her parents hailed from Jaffna in the war-torn northern province of Sri Lanka and belong to a family that had deep connections with trade unions. They came to London in the 1980s.
-
-A member of the Labour Party, Uma Kumaran polled over 19,000 votes and defeated her nearest rival by over 12,000 votes.
-
-Working for NHS Professionals for 14 months, Uma Kumaran was a parliamentary researcher and caseworker for Labour MP Dawn Butler and worked with several lawmakers of the party before she contested the local body elections in 2010 but failed to get elected.
-
-She was also deputy director of Parliamentary Affairs for Labour Party leader Keir Starmer for over 18 months.
-
-...
-
-[Data](articles/46148f65.json)
-
-[Extended Data](ext_articles/46148f65.ext.json)
 
 ---

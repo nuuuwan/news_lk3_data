@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 11:54:48**
+As of **2024-07-07 12:07:31**
 
 ## Newspaper Stats
 
-*Scraped **34,034** Articles*
+*Scraped **34,038** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,62 +15,122 @@ newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,004
 dailyftlk | 2,115
-adalk | 3,036
-adaderanalk | 3,898
-tamilmirrorlk | 4,031
+adalk | 3,037
+adaderanalk | 3,899
+tamilmirrorlk | 4,032
 dailymirrorlk | 4,733
 virakesarilk | 5,331
-adaderanasinhalalk | 5,654
+adaderanasinhalalk | 5,655
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,028 (100.0%) of 34,034 articles have been extended.
+34,034 (100.0%) of 34,038 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### சம்பந்தனுக்குப் பிறகான தமிழ் - முஸ்லிம் உறவு
+### Sydney house fire kills three children, police suspect homicide
+
+*2024-07-07 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100347/sydney-house-fire-kills-three-children-police-suspect-homicide) · `en`
+
+Three children, including a 10-month-old, were killed after fire ripped through a house in Sydney early on Sunday in an incident Australian police said they were treating as a homicide.
+
+Emergency services were called to the property in Lalor Park, about 35 km (20 miles) west of Sydney’s city centre, around 1 a.m. (1500 GMT on Saturday), police said in a statement.
+
+Two boys, aged two and four, were treated at the scene but died shortly after being taken to the hospital, while a 10-month-old girl was found dead after the fire was extinguished, police said.
+
+A 28-year-old man, who frustrated police attempts to get into the property, was arrested and was being treated for fire-related injuries at the hospital under police guard, it said.
+
+Homicide squad detectives have taken control of the investigation and are treating it as a “domestic-related homicide”, said Homicide Squad Commander Detective Superintendent Danny Doherty.
+
+...
+
+[Data](articles/b1954276.json)
+
+---
+
+### තැපැල් සේවකයින් දැඩි තීරණයක් ගනී
+
+*2024-07-07 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198565) · `si`
+
+තැපැල් සේවකයින් හෙට (08) සහ අනිද්දා (09) පැය 48ක සංකේත වැඩ වර්ජනයක් ආරම්භකරන බව ඒකාබද්ධ තැපැල් වෘත්තීය සමිති පෙරමුණේ සමකැඳවුම්කරු චින්තක බණ්ඩාර මහතා පවසයි.
+
+මාධ්‍ය හමුවකට එක්වෙමින් ඒ මහතා පවසා සිටියේ එම සංකේත වර්ජනය මධ්‍යම තැපැල් හුවමාරුවේ අද (07) සවස 04 සිට ආරම්භ කිරීමට තීරණය කළ බවය.
+
+එමෙන්ම අනෙකුත් සියලුම තැපැල් කාර්යාලවල අද (07) මධ්‍යම රාත්‍රියේ සිට මෙම වෘත්තීය ක්‍රියාමාර්ගය අරම්භ කරන බවද චින්තක බණ්ඩාර මහතා පැවසීය.
+
+ඉල්ලීම් තුනක් මුල්කරගනිමින් මෙම වෘත්තීය ක්‍රියාමාර්ගය ආරම්භ කරන බව තැපැල් වෘත්තීය සමිති පෙරමුණේ සම කැඳවුම්කරු චින්තක බණ්ඩාර මහතා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/09637b31.json)
+
+---
+
+### Tamil - Muslim relationship
 
 *2024-07-07 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187883) · `ta`
 
-மூத்த தமிழ்த் தலைவராக இருந்து எல்லா சமூகங்களாலும் மதிக்கப்பட்ட இராஜவரோதயம் சம்பந்தனின் மறைவு அப்படியான ஒரு வெற்றிடத்தை, தாக்கத்தை, மனக் கிடக்கையை ஏற்படுத்தியிருக்கிறது எனலாம். தமிழர்கள் மட்டுமன்றி, முஸ்லிம்கள், சிங்கள மக்களும் இதனை சொல்கின்றார்கள். அதற்கு காரணம் நாடு என்ற தேசியக் கண்ணோட்டத்தில் நின்று தமிழ் மக்களுக்காக கடைசி வரையும் அவர் செய்த பக்குவமான அரசியல் என்று கூறலாம்.
+Rajavarodhayam Sambandan's death has deeply impacted not just Tamils but also Muslims and Sinhalese due to his nationally recognized contributions to Tamil politics. His loss has left a significant void, highlighting his broad respect across communities.
+
+🟩
+
+The demise of Rajavarodhayam Sambandan, who was respected by all communities as a senior Tamil leader, has had such a void, impact and depression.. Not only Tamils ​​but also Muslims and Sinhalese say this. This is because he is the mature politics he has done for the Tamil people from the national point of view of the country.
 
 ◼️
 
 [Data](articles/77a94547.json)
 
+[Extended Data](ext_articles/77a94547.ext.json)
+
 ---
 
-### முஸ்லிம்களின் வரலாற்றில் வெட்கக்கேடான அத்தியாயம்
+### Shameless chapter in the history of Muslims
 
 *2024-07-07 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/187877) · `ta`
 
-சர்வாதிகார சவூதி அரசுக்கு இரண்டு முகங்கள் இருக்கின்றன. ஒருபுறம் இஸ்லாத்தின் புனித இறை இல்லங்களின் காவலர்களாக தம்மை காட்டிக்கொண்டு முஸ்லிம்களை ஏமாற்றுவது. மற்றது, தனது அமெரிக்க ஐரோப்பிய மற்றும் இஸ்ரேலிய எஜமானர்களுக்கு பணிவிடை செய்வது. இதுவரை இஸ்லாத்தின் மரபுரிமை சின்னங்களாக மதிக்கப்படவேண்டிய வரலாற்று முக்கியம் வாய்ந்த இடங்களில் 90 சதவீதமான இடங்களை சவூதி அரேபியா அழித்துவிட்டது. இது இஸ்லாத்தின் மோசமான எதிரிகள் கூட செய்யத் தவறிய ஒரு காரியமாகும்.
+Saudi Arabia, despite being the custodian of Islam's holy sites, has destroyed 90% of its historic Islamic landmarks, prioritizing Western alliances over preserving its own heritage.
+
+🟩
+
+The dictatorial Saudi government has two faces. On the one hand, the deceit of Muslims as the guards of the sacred homes of Islam. The other is to serve his American European and Israeli masters. Saudi Arabia has destroyed 90 percent of the historical places of historical importance to be treated as the legacy of Islam so far. This is a thing that even the worst enemies of Islam fail to do.
 
 ◼️
 
 [Data](articles/3b4a03f3.json)
 
+[Extended Data](ext_articles/3b4a03f3.ext.json)
+
 ---
 
-### எனது சொந்த விருப்பத்தின் பேரிலேயே செயற்பட்டேன் - அரசியல் நோக்கம் எதுவுமில்லை-  ஜனாதிபதி தேர்தல் தொடர்பில் நீதிமன்றத்தில்  மனுதாக்கல் செய்த வர்த்தகர் கருத்து
+### I acted on my own will - there is no political purpose - the trader who filed a petition in court on the presidential election
 
 *2024-07-07 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/187885) · `ta`
 
-ஜனாதிபதியின் பதவிக்காலம் குறித்து நீதிமன்றம் தனது தீர்ப்பை வழங்கும்வரை ஜனாதிபதி தேர்தலிற்கு இடைக்கால உத்தரவை பிறப்பிக்கவேண்டும் என கோரும் மனுவை உயர்நீதிமன்றத்தில் தாக்கல் செய்துள்ள வர்த்தகர் சிடி லெனேவா  தான் தனது சொந்த விருப்பத்தின் பேரிலேயே செயற்பட்டதாக தெரிவித்துள்ளார்.
+CD Lenaya, a trader, filed a petition in the High Court seeking an interim order on the presidential election, citing improper implementation of the 19th Amendment. He aims to clarify the constitutional term through legal action, emphasizing his lack of political motives. Despite being listed on the National Development Front's national list, he insists he's not politically aligned with the party and welcomes more petitions on the matter.
 
-அரசமைப்பின் 19 வது திருத்தம் உரிய முறையில் நிறைவேற்றப்படவில்லை என தான் கருதுவதாக தெரிவித்துள்ள அவர்  இந்த தவறு குறித்து தான் மக்களின் கவனத்தை ஈர்ப்பதற்கு தீர்மானித்ததாகவும் தெரிவித்துள்ளார்.
+🟩
 
-இந்த விடயம்குறித்து நீதிமன்றத்திடமிருந்து தெளிவுபடுத்தல்களை பெறும் நோக்கத்துடன் நான் செயற்பட்டேன் என அவர் தெரிவித்துள்ளார்.
+The trader, CD Lenaya, who has filed a petition in the High Court, has filed a petition demanding an interim order for the presidential election until the court gives his verdict on the presidential term.
 
-எனக்கு பின்னால் எந்த அரசியல் சக்தியும் இல்லை எனக்கு அரசியல் நோக்கம் எதுவும் இல்லைஎனவும் அவர் தெரிவித்துள்ளார்.
+He said he thought the 19th Amendment to the Constitution was not properly implemented and decided to attract the attention of the people.
 
-...
+"I have acted with the intention of getting clarity from the court on this issue," he said.
+
+I have no political power behind me, I have no political purpose, ”he said.
+
+Commenting on his name on the National Development Front's national list, he said that he was not involved in politics with the party.
+
+He said that more and more petitions were welcomed on the issue, he said.
+
+◼️
 
 [Data](articles/7caba7a0.json)
+
+[Extended Data](ext_articles/7caba7a0.ext.json)
 
 ---
 
@@ -87,6 +147,26 @@ He further stated that despite existing issues in the health sector, this is not
 ◼️
 
 [Data](articles/8160c99a.json)
+
+[Extended Data](ext_articles/8160c99a.ext.json)
+
+---
+
+### 78 வயதான பெண் துஷ்பிரயோகம் ; மாணவன் கைது
+
+*2024-07-07 11:18:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/78-வயதான-பெண்-துஷ்பிரயோகம்-மாணவன்-கைது/76-339967) · `ta`
+
+பலாங்கொடையில் 78 வயதுடைய பெண்ணொருவர் படுகொலை செய்யப்பட்ட சம்பவம் தொடர்பில் 17 வயதுடைய பாடசாலை மாணவர் ஒருவர் எதிர்வரும் 08ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+பலாங்கொடை முகுனமலை பிரதேசத்தை சேர்ந்த எம்.எல். சிரியாவதி என்ற பெண்ணொருவர் கடந்த 27ஆம் திகதி குளிப்பதற்காக தொரவெல ஆற்றிற்கு சென்றிருந்த  நிலையில் அன்றைய தினம் மாலை தொரவெல ஆற்றில் இருந்து சடலமாக மீட்கப்பட்டார் .
+
+குறித்த பெண் நீரில் மூழ்கி உயிரிழந்திருக்கலாம் என சந்தேகிக்கப்பட்டு, பலாங்கொடை ஆதார  வைத்தியசாலையில் பிரேத பரிசோதனை மேற்கொள்ளப்பட்டதுடன் அதன்போது குறித்த பெண் பல சந்தர்ப்பங்களில் பாலியல் வன்கொடுமைக்குள்ளாகியமை தெரியவந்துள்ளது .
+
+மேலும் , அவரது கழுத்தையும் வாயையும் கட்டிக்கொண்டு துஷ்பிரயோகம் செய்து கொலை செய்ததாகக் சட்ட வைத்திய அதிகாரி மேற்கொண்ட பிரதே பரிசோதனையில் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/89afe0f1.json)
 
 ---
 
@@ -156,15 +236,21 @@ The suspects are residents of Embilipitiya and the police have revealed that the
 
 ---
 
-### தொன்மங்களைப் பறிக்கும் பௌத்தம் -  பகுதி 02
+### Buddhism that plucks myths - Part 02
 
 *2024-07-07 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/187875) · `ta`
 
-“வடக்கு, கிழக்கில் தொல்பொருளியல் பகுதிகளாக அடையாளம் காணப்பட்ட அனைத்துப் பகுதிகளும் பௌத்தத்தின் வரலாற்றுத் தொன்மங்களாக்கப்பட்டு ஆக்கிரமிக்கப்படும் துர்ப்பாக்கிய நிலை ஏற்பட்டுள்ளது...”
+Buddhism's origins in the North and East are now considered myth due to lack of archaeological evidence, challenging its traditional historical accounts.
+
+🟩
+
+“All the areas that have been identified as archaeological areas in the North and East have become the historical myths of Buddhism and the occupation of Buddhism.”
 
 ◼️
 
 [Data](articles/8b272349.json)
+
+[Extended Data](ext_articles/8b272349.ext.json)
 
 ---
 
@@ -255,6 +341,24 @@ He assured that as long as the President continued to protect the country and it
 [Data](articles/83a03d0a.json)
 
 [Extended Data](ext_articles/83a03d0a.ext.json)
+
+---
+
+### මැණික් ගඟේ කිඹුලෝ වැඩිවෙති - කිඹුල් ප්‍රහාරයකින් පුද්ගලයෙක් මරුට
+
+*2024-07-07 10:29:08* · [`adalk`](https://www.ada.lk/breaking_news/මැණික්-ගඟේ-කිඹුලෝ-වැඩිවෙති---කිඹුල්-ප්‍රහාරයකින්-පුද්ගලයෙක්-මරුට/11-410637) · `si`
+
+කතරගම මැණික් ගඟේ  02 පාලම ආසන්නයේ දිය නාමින් සිටියදී  කිඹුලෙකු විසින් ඩැහැගෙන  ගොස් තිබූ බව කියන   පුද්ගලයෙකු ගේ මළ සිරුරක් සොයාගත් බව කතරගම පොලීසිය කියයි.
+
+මැණික් ගඟේ ඊයේ ( 6) දිය නෑ පුද්ගලයෙකු   කිඹුලෙකු විසින් ඩැහැගෙන ගිය බවට    පොලීසියට වාර්තා වීමෙන් පසු ඒ සම්බන්ධව ජීවිතාරක්ෂක නිලධාරීන් හා වනජීවී නිලධාරීන් විමර්ශනයක් සමග පරීක්ෂණ පවත්වා ඔහුගේ මළ  සිරුර සොයාගත් බව  පොලීසිය කියයි.
+
+මරණකරුගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැති අතර  වයස අවුරුදු 30ත් 35ත් අතර පුද්ගලෙයෙකුගේ  බව කිවහැකි මේ   මළ සිරුර  දෙබරවැව රෝහලේ තබා ඇති බව පොලීසිය පැවසීය.
+
+මැණික් ගගේ මේ දිනවල  කිඔුලන් බහුලව ගැවසෙන බැවින් මෙම කතරගම වන්දනා සමයේ දිය නෑමේ දී ප්‍රවේසම් වන ලෙස පොලීසිය මහජනතාවට දන්වා සිටී.
+
+◼️
+
+[Data](articles/f11abd28.json)
 
 ---
 
@@ -713,6 +817,8 @@ Sri Lanka banks have provided for about 50 percent or more of the holdings, Fitc
 ...
 
 [Data](articles/d0ed2259.json)
+
+[Extended Data](ext_articles/d0ed2259.ext.json)
 
 ---
 
@@ -2155,101 +2261,5 @@ David Lami, who was elected to be the youngest person who was elected to the Bri
 [Data](articles/aab9645a.json)
 
 [Extended Data](ext_articles/aab9645a.ext.json)
-
----
-
-### 9 injured in bus accident in Halpe
-
-*2024-07-06 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100331/9-injured-in-bus-accident-in-halpe) · `en`
-
-Nine individuals have been injured and hopitalised after a passenger bus belonging to the Sri Lanka Transport Board (SLTB) was involved in an accident in the Halpe area.
-
-The SLTB bus, traveling from Beddawela to Bandarawela, had veered off the road and collided with a nearby wall.
-
-Police suspect that the accident was caused by a technical fault in the bus.
-
-The injured individuals, including four females, have been admitted to the Demodara Hospital for treatment.
-
-◼️
-
-[Data](articles/b22c5654.json)
-
-[Extended Data](ext_articles/b22c5654.ext.json)
-
----
-
-### Beginning Today - 17 Days Lock for Liquor States
-
-*2024-07-06 12:03:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-ஆரம்பம்-மதுபானசாலைகளுக்கு-17-நாட்கள்-பூட்டு/175-339939) · `ta`
-
-To accommodate the annual Kadirgama Kandan Temple festival starting today, the government has initiated measures for attendees' welfare, including security, transport, and accommodation. In response, all liquor sales within the Kadirgama Divisional Secretariat area will be prohibited for 17 days, beginning tomorrow.
-
-🟩
-
-The annual festival of Kadirgama Kandan Temple has been launched today (06).
-
-It is customary for millions of devotees from many parts of the country to invade this annual festival.
-
-At the same time, the government is reportedly taking steps to the benefit of the servants who visit Kadirgama, including security, transport and shelter.
-
-In this backdrop, all liquor selling centers belonging to the Kadirgama Divisional Secretariat will be closed for 17 days from today (22) to the 22nd of this month.. Remble
-
-◼️
-
-[Data](articles/d63e4bab.json)
-
-[Extended Data](ext_articles/d63e4bab.ext.json)
-
----
-
-### The mysterious death of ex -militant
-
-*2024-07-06 11:51:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முன்னாள்-போராளி-மர்ம-மரணம்/72-339938) · `ta`
-
-Ex-militant Gopalakrishnan Gokul Prem Kumar, dubbed "The Language of Wires," died mysteriously last night near his home in Adampan. He was found making noises about leaving his vehicle before being rushed to hospital but passed away en route. His cause of death remains unknown pending autopsy.
-
-🟩
-
-A former militant living in Adampan area in the Manthai West Divisional Secretariat Division has died mysteriously yesterday.
-
-Gopalakrishnan Gokul Prem Kumar (age-42), known as the 'Language of Wires', is a mysterious death of the deceased.
-
-Last night he was standing in front of his house on Adampan Street and talking on the phone.
-
-He made a noise that he had left the vehicle.
-
-With the help of the family, he was immediately taken to Adampan Hospital and transferred to the Mannar District General Hospital for further treatment.
-
-It is reported that he died without treatment.. It is reported that the cause of the death will be revealed after the corpse examination.
-
-Gopalakrishnan Gokul Premkumar, also known as 'The language of wires', is a former fighter. It is also worth noting that he lost one leg and one hand. Remble
-
-◼️
-
-[Data](articles/f007c47b.json)
-
-[Extended Data](ext_articles/f007c47b.ext.json)
-
----
-
-### 200 keymates to the Southern Province and 2000 tabs
-
-*2024-07-06 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198533) · `si`
-
-President Ranil Wickremesinghe donated 1,000 laptops to the Southern Province Classroom Project, costing Rs. 300 million, under the patronage of Minister Ramesh Pathirana.
-
-🟩
-
-President Ranil Wickremesinghe was chaired by President Ranil Wickremesinghe today (06) under the patronage of 1000 tab computers to the Southern Province Classroom Project.
-
-The cost of the Southern Province classroom project is Rs. 300 million.
-
-The project will be implemented with the request of the Minister of Industry and Health, Ramesh Pathirana.
-
-◼️
-
-[Data](articles/da4a151f.json)
-
-[Extended Data](ext_articles/da4a151f.ext.json)
 
 ---

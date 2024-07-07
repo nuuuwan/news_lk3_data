@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 21:04:47**
+As of **2024-07-07 21:19:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,675
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,109 (100.0%) of 34,110 articles have been extended.
+34,110 (100.0%) of 34,110 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -244,27 +244,35 @@ Sri Lanka Tamil National Alliance (TNA) leader Amara Sampanthan's funeral was pl
 
 ---
 
-### දෙමළ ජනතාවගේ ප්‍රශ්න විසඳීමට කැප වී කටයුතු කරනවා
+### Devotees to solving the problems of the Tamil people
 
 *2024-07-07 18:30:00* · [`adalk`](https://www.ada.lk/breaking_news/දෙමළ-ජනතාවගේ-ප්‍රශ්න-විසඳීමට-කැප-වී-කටයුතු-කරනවා/11-410652) · `si`
 
-ආර්. සම්බන්ධන් මහතා සහ මා සෑමවිටම නොබෙදුනු ශ්‍රී ලංකාවක් වෙනුවෙන් පෙනී සිටියා
+R. Sampanthan, a prominent figure in Sri Lanka, was remembered for his dedication to addressing the challenges faced by the Tamil community. As an opposition leader and alternative prime minister, he played a crucial role in advocating for the rights of all Sri Lankans, not just the Tamil people. His efforts included supporting agreements aimed at resolving ethnic tensions and promoting unity within the nation. Despite his passing, his legacy continues to inspire calls for unity and progress towards resolving longstanding issues affecting the Tamil population.
 
-එකඟත්වයෙන් ඉදිරියට ගෙන ආ එම සාකච්ඡා සාර්ථකව අවසන් කිරීමට සියලුදෙනා එක් වෙමු.
+🟩
 
-විපක්ෂ නායකයෙකු යනු විකල්ප අගමැතිවරයායි – ආර්. සම්බන්ධන් මහතා විපක්ෂ නායක භූමිකාව මැනවින් ඉටු කළ නායකයෙක්.
+R. Mr. Sampanthan and I always stood for a Sri Lanka
 
-ජාතික ඉඩම් කොමිසමේ කෙටුම්පත මේ වන විට සූදානම් – එය පාර්ලිමේන්තුවට ඉදිරිපත් කරනවා.
+We all join the success of the agreement with the agreement.
 
-කවුරු අධිකරණය හමුවට ගියද මෙම වසරේදී ජනාධිපතිවරණය පවත්වනවා – ආර්. සම්බන්ධන් මහතාගේ අවමංගල්‍ය උත්සවයට එක් වෙමින් ජනපති පවසයි.
+One of the opposition leader is alternative Prime Minister - R. Mr. Sampanthan is a leader who fulfilled the role of the Leader of the Opposition.
 
-අභාවප්‍රාප්ත ආර්. සම්බන්ධන් මහතා ද්‍රවිඩ ජනතාවගේ අයිතිවාසිකම් වෙනුවෙන් පමණක් නොව සමස්ත ශ්‍රී ලාංකික ජනතාවගේ අයිතිවාසිකම් වෙනුවෙන් පෙනී සිටි නායකයෙක් බවත්, සම්බන්ධන් මහතා සහ තමා නිරතුරුවම නොබෙදුනු ශ්‍රී ලංකාවක් වෙනුවෙන් කැප වූ බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+The National Land Commission's draft is currently ready - it will be presented to Parliament.
 
-ආර්. සම්බන්ධන් මහතා සමඟ එකඟත්වයෙන් යුතුව ඉදිරියට ගෙන ආ එම සාකච්ඡා සාර්ථකව අවසන් කිරීමට සියලුදෙනා එක්විය යුතු බව ද ජනාධිපතිවරයා සඳහන් කළේය.
+Presidential election is being held this year. President Mahinda Rajapaksa says
+
+Latest R. President Ranil Wickremesinghe said that Mr. Sampanthan is a leader who is not only for the rights of the LTTE but also a leader of the entire Sri Lankan people.
+
+R. All should be joined to successfully complete the discussions with Mr. Sampanthan.
+
+President Ranil Wickremesinghe made this statement that R. At the residence of his house in Trincomalee, he was present at the residence in the house.
 
 ...
 
 [Data](articles/d6bb3be1.json)
+
+[Extended Data](ext_articles/d6bb3be1.ext.json)
 
 ---
 

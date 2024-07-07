@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 18:54:03**
+As of **2024-07-07 19:04:47**
 
 ## Newspaper Stats
 
-*Scraped **34,097** Articles*
+*Scraped **34,099** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 2,004
 dailyftlk | 2,115
 adalk | 3,048
 adaderanalk | 3,907
-tamilmirrorlk | 4,045
+tamilmirrorlk | 4,046
 dailymirrorlk | 4,733
 virakesarilk | 5,342
-adaderanasinhalalk | 5,671
+adaderanasinhalalk | 5,672
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,095 (100.0%) of 34,097 articles have been extended.
+34,097 (100.0%) of 34,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### ටීඑන්ඒ නායකයාගේ අවසන් කටයුතු සිදු කෙරේ
+
+*2024-07-07 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198582) · `si`
+
+අභාවප්‍රාප්ත දෙමළ ජාතික සන්ධානයේ නායක පාර්ලිමේන්තු මන්ත්‍රී ආර්. සම්බන්ධන් මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු අද (07) සිදුකළේය.
+
+ත්‍රිකුණාමලය, පොදු සුසාන භූමියේ දී සම්බන්ධන් මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු සිදුකළ බව "අද දෙරණ" වාර්තාකරු සඳහන් කළේය.
+
+කොළඹ පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටියදී පසුගිය ඉරිදා රාත්‍රියේ ආර්.සම්බන්ධන් මහතා අභාවප්‍රාප්ත විය.
+
+මිය යන විට 91 වැනි වියේ  පසුවූ ඒ මහතා  වසර ගණනාවක් පාර්ලිමේන්තුව නියෝජනය කළ අතර වරක් විපක්ෂ නායක ධුරය ද හොබවනු ලැබීය.
+
+අද පස්වරුවේ පැවති සම්බන්ධන් මහතාගේ අවමංගල්‍ය උත්සවය සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා, රජයේ මැති ඇමතිවරුන් ඇතුළු දේශපාලනඥයින් රැසක් සහභාගී වී තිබේ.
+
+◼️
+
+[Data](articles/da7dee79.json)
+
+---
+
+### அக்கினியுடன் சங்கமமானார் சம்பந்தன்
+
+*2024-07-07 18:38:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/அக்கினியுடன்-சங்கமமானார்-சம்பந்தன்/75-339990) · `ta`
+
+முன்னாள் எதிர்க்கட்சித் தலைவரும் தமிழ்த் தேசியக் கூட்டமைப்பின் சிரேஷ்ட தலைவரும் காலஞ் சென்ற பாராளுமன்ற உறுப்பினர் இராஜவரோதயம் சம்மந்தன் அவர்களின் இறுதி கிரியைகள் திருகோணமலையில் உள்ள இந்து மயானத்தில் இன்று(07) மாலை இடம்பெற்றது.
+
+அரசியல் பிரமுகர்கள், பெருந்திரளான மக்கள் அன்னாரின் பூதவுடலுக்கு  அஞ்சலி செலித்தினர். இறுதி கிரியைக்காக ஜனாதிபதி ரணில் விக்ரமசிங்க , பாரதிய ஜனதா கட்சி தமிழக தலைவர் அண்ணாமலை உள்ளிட்ட கட்சியின் தலைவர்கள், பாராளுமன்ற உறுப்பினர்கள் என பலரும்  பங்கேற்றனர்.
+
+பலத்த பாதுகாப்பும் பலப்படுத்தப்பட்டு திருகோணமலை நகர் முழுதும் ஆழ்ந்தல் இறங்கல் தெரிவித்து அமரர் இரா. சம்மந்தனின் உருவப்படம் தொங்கவிடப்பட்டுள்ளது.. இதில் தென்னிலங்கையை சேர்ந்த அரசியல் பிரமுகர்கள், வடகிழக்கு மலையகத்தை சேர்ந்த மக்கள் பிரதிநிதிகள் என பலரும் மேலும் கலந்து கொண்டனர்.
+
+கடந்த ஞாயிற்றுக்கிழமை உடல் நலக்குறைவு காரணமாக கொழும்பில் உள்ள தனியார் மருத்துவமனையில் அமரர் இரா. சம்பந்தன் இயற்கை எய்தினார் என்பதும் குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/7d317067.json)
+
+---
 
 ### Russia’s Voronezh region declares emergency after Ukraine drone attack
 
@@ -50,27 +88,35 @@ Since March, Russian forces have intensified their bombardments of the Ukrainian
 
 [Data](articles/a89b53cd.json)
 
+[Extended Data](ext_articles/a89b53cd.ext.json)
+
 ---
 
-### ගාල්ලෙන් නුවරට දැඩි ප්‍රහාරයක්
+### LTTE attack in Galle
 
 *2024-07-07 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198581) · `si`
 
-ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ ගෝල් මාර්වල්ස් සහ කැන්ඩි ෆැල්කන්ස් අතර පැවති තරගය පහසුවෙන් ජය ගැනීමට ගෝල් මාර්වල්ස් කණ්ඩායම සමත් විය.
+Goal Marvels won against Candy Falcons in the Lanka Premier League, scoring 176 runs in 17.1 overs. Opener Andre Fleurchari and Nandu Hasaranga contributed significantly with 50 and 65 runs respectively. The bowling side was led by Isuru Udana with 3 wickets for 30 runs and Surur Khan with 2 wickets for 29 runs.
 
-දඹුල්ලේ පැවති මෙම තරගයේ පළමුව පන්දුවට පහරදුන් කැන්ඩි ෆැල්කන්ස් කණ්ඩායම සිය පන්දු ඕවර 20 දී කඩුලු 7ක් දැවී ලකුණු 175ක් ලබාගත්තේය.
+🟩
 
-ආරම්භක පිතිකරු ඇන්ඩ්‍රෙ ෆ්ලෙචර් ලකුණු 50ක් ලබාගත් අතර නායක වනිඳු හසරංග පන්දු 32කට නොදැවී ලකුණු 65ක් ලබාගත්තේය.
+Goal Marvels was able to easily win the competition between Goal Marvels and Candy Falcons of the Lanka Premier League.
 
-පන්දු යැවීමේදී ඉසුරු උදාන ලකුණු 30කට කඩුලු 3ක් දවාගත් අතර සහූර් ඛාන් ලකුණු 29කට කඩුලු 2ක් දවාගත්තේය.
+Candy Falcation team scored 175 runs for the loss of 7 wickets in the loss of 7 overs.
 
-ඊට පිළිතුරු ලෙස ජයග්‍රහණයට අවශ්‍ය ලකුණු ගණන කඩුලු 4ක් පමණක් දැවී ලබාගැනීමට ගෝල් මාර්වල්ස් කණ්ඩායම සමත්විය.
+Opener Andre Fleurchari scored 50 runs while Nandu Hasaranga scored 65 runs for 32 balls.
 
-ඒ අනුව පන්දු ඕවර 17.1කදී ලකුණු 176ක් ලබාගැනීමට ගෝල් ක්‍රීඩකයෝ සමත්වූහ.
+The Isuru Udana took 3 wickets for 30 runs while Serur Khan took 2 wickets for 29 runs.
+
+In response, Gole Marvels was able to bow down to 4 wickets.
+
+The ball players passed over 176 balls in 17.1 overs.
 
 ◼️
 
 [Data](articles/22da0180.json)
+
+[Extended Data](ext_articles/22da0180.ext.json)
 
 ---
 
@@ -2271,53 +2317,5 @@ Meanwhile, the Joint Health Employees Union Sampananda, General Secretary Tampit
 [Data](articles/24f72fbe.json)
 
 [Extended Data](ext_articles/24f72fbe.ext.json)
-
----
-
-### Man killed in a crocodile attack
-
-*2024-07-07 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198554) · `si`
-
-A man, aged between 30 and 35, was attacked and killed by a crocodile in the Menik River near Kataragama. His body was recovered with help from police and wildlife officers, but his identity remains unknown.
-
-🟩
-
-A person who was measured in the gem River in the Kataragama police division has been thrown by a crocodile.
-
-The accident had occurred when the man was inundated at the Menik River two morning, police said.
-
-The body was found with the assistance of the Police and Wildlife Officers.
-
-The identity of the deceased has not yet been established and he is among 30 and 35 years old, police said.
-
-◼️
-
-[Data](articles/2f63a2dd.json)
-
-[Extended Data](ext_articles/2f63a2dd.ext.json)
-
----
-
-### Basil said that he would support Ranil forward
-
-*2024-07-07 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198553) · `si`
-
-Basil Rajapaksa supports Ranil Wickremesinghe, highlighting unity among parties to safeguard the nation. He spoke at a function marking Rohitha Abeygunawardena's 27th anniversary, emphasizing collective effort against external pressures. Former President Mahinda Rajapaksa also urged citizens to confront national challenges under strong leadership.
-
-🟩
-
-Basil Rajapaksa, the founder of the Sri Lanka General Wickremesinghe is contemplated with Ranil Wickremesinghe.
-
-He was speaking at a function in Kalutara in Kalutara to mark the 27-year-old Rohitha Abeygunawardena.
-
-"Whenever we work as a government party in advance, we are not afraid to help you. And we're not afraid of lenders. All our parties took a verdict as at the time of that time, you could save this country. That at that time we honestly gave that support to this day. We say that it will support. They tell you that as long as you protect the people on behalf of the country and the people of this country protects them. "
-
-Former President Mahinda Rajapaksa said that the people should take action with the leadership of the country taking over the challenges.
-
-◼️
-
-[Data](articles/fe9003d1.json)
-
-[Extended Data](ext_articles/fe9003d1.ext.json)
 
 ---

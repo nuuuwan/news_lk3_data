@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 09:19:49**
+As of **2024-07-07 09:35:03**
 
 ## Newspaper Stats
 
-*Scraped **34,005** Articles*
+*Scraped **34,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,914
 economynextcom | 2,003
 dailyftlk | 2,115
 adalk | 3,031
-adaderanalk | 3,892
+adaderanalk | 3,893
 tamilmirrorlk | 4,028
 dailymirrorlk | 4,733
 virakesarilk | 5,323
@@ -26,11 +26,35 @@ adaderanasinhalalk | 5,649
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,004 (100.0%) of 34,005 articles have been extended.
+34,005 (100.0%) of 34,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### Israeli air strike on Gaza school kills at least 16
+
+*2024-07-07 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100341/israeli-air-strike-on-gaza-school-kills-at-least-16) · `en`
+
+At least 16 people have been killed in an Israeli air strike on a school in the Gaza Strip, Palestinian officials have said. Dozens more have been injured.
+
+The building was sheltering thousands of displaced people at Nuseirat refugee camp in central Gaza, according to the Hamas-run health ministry.
+
+The Israel Defence Force (IDF) said it struck several “terrorists operating in structures located in the area of Al-Jaouni School”.
+
+Meanwhile, there have been reports that 10 people were killed in a separate airstrike on a house at the camp.
+
+Video from the scene of the Nuseirat school strike shows adults and children screaming in a smoke-filled street covered in dust and rubble, as they run to help the wounded.
+
+Eyewitnesses told the BBC that the attack targeted the upper floors of the school, which is located near a busy market.
+
+The BBC understands that up to 7,000 people were using the building as shelter.
+
+...
+
+[Data](articles/cac91cab.json)
+
+---
 
 ### Oil truck collides with minibus in western Ukraine, 14 dead
 
@@ -43,6 +67,8 @@ The report, on the Telegram messaging app, was accompanied by pictures of an ove
 ◼️
 
 [Data](articles/d16b6c7b.json)
+
+[Extended Data](ext_articles/d16b6c7b.ext.json)
 
 ---
 
@@ -2251,27 +2277,5 @@ Commenting on the oversubscription of the issue, Commercial Bank Managing Direct
 [Data](articles/922ec9fd.json)
 
 [Extended Data](ext_articles/922ec9fd.ext.json)
-
----
-
-### The government that makes agreements for the future of the country must win the confidence of the people and the opposition
-
-*2024-07-06 01:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/187795) · `ta`
-
-President Ranil Wickremesinghe's regime, facing criticism for its handling of Sri Lanka's economic crisis, has secured international debt relief totaling $580 million. Despite initial praise from key nations like the US, Japan, India, and the IMF, there's concern over transparency and equal treatment of all creditors, especially China. The government's strategy includes delaying bilateral loan repayments until 2028 and extending the repayment period until 2043. However, the public reception remains mixed, with no immediate economic benefits seen by ordinary citizens. The cost of living continues to rise, and despite promises to maintain social spending, actual reductions have occurred. The government's shift towards privatizing education has also sparked protests, highlighting broader discontent with the administration's economic policies and lack of engagement with public concerns.
-
-🟩
-
-President Ranil Wickremesinghe has spoken to the victory of his regime that has rescued Sri Lanka from its international bankruptcy, while still less than a month before the presidential election.. The agreement signed by the Official Credit Committee Committee, which has given bilateral loans to Sri Lanka, has been celebrated in various ways on the International Debt Relief for US $ 580 crore.
-
-The President delivered a special speech to the nation. Fireworks celebrations were held in various cities. The president proudly declared that he was the sculptor of the Economic Recovery of Sri Lanka.
-
-"I believed in my energy to save our country and its people from the economic underworld. I had a profound explanation and detailed program of strategic strategies that other countries adopted to emit from a similar crisis. Moreover, I was confident that my well -planned policies and dedication could be revived the economy, ”President Wickremesinghe said.
-
-...
-
-[Data](articles/b3da3cfc.json)
-
-[Extended Data](ext_articles/b3da3cfc.ext.json)
 
 ---

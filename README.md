@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 06:04:15**
+As of **2024-07-07 06:40:29**
 
 ## Newspaper Stats
 
-*Scraped **33,988** Articles*
+*Scraped **33,989** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,889
 tamilmirrorlk | 4,024
 dailymirrorlk | 4,733
 virakesarilk | 5,323
-adaderanasinhalalk | 5,641
+adaderanasinhalalk | 5,642
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-33,973 (100.0%) of 33,988 articles have been extended.
+33,983 (100.0%) of 33,989 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
+
+### පවතින වැසි තත්ත්වය තවදුරටත්
+
+*2024-07-07 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198552) · `si`
+
+දිවයිනේ නිරිත දිග කොටසේ පවතින වැසි තත්ත්වය තවදුරටත් බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (07) දිනයේ විටින්විට වැසි ඇතිවිය හැකි බවය.
+
+ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/f4685341.json)
+
+---
 
 ### Teaching, Work, and Business in Europe
 
@@ -43,6 +63,8 @@ In 1990, when I was the Acting Director of the School of Hotel Management at Sch
 ...
 
 [Data](articles/95815563.json)
+
+[Extended Data](ext_articles/95815563.ext.json)
 
 ---
 
@@ -60,6 +82,8 @@ Vidma Engineering wins Best Entrepreneur Award at Asia Miracle Awards 2024
 
 [Data](articles/30e11d89.json)
 
+[Extended Data](ext_articles/30e11d89.ext.json)
+
 ---
 
 ### CEAT Kelani wins double honours at National Business Excellence Awards 2024
@@ -76,6 +100,8 @@ Notably, this was the fifth occasion that CEAT Kelani Holdings was recognized by
 
 [Data](articles/3a7cf47f.json)
 
+[Extended Data](ext_articles/3a7cf47f.ext.json)
+
 ---
 
 ### Puvendran Gajendra appointed Chairman of Sanasa Life Insurance PLC
@@ -87,6 +113,8 @@ Sanasa Life Insurance PLC has appointed Puvendran Gajendra as their new Chairman
 ...
 
 [Data](articles/5e03ce8f.json)
+
+[Extended Data](ext_articles/5e03ce8f.ext.json)
 
 ---
 
@@ -101,6 +129,8 @@ Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, has been awarded the
 ...
 
 [Data](articles/910bc041.json)
+
+[Extended Data](ext_articles/910bc041.ext.json)
 
 ---
 
@@ -120,6 +150,8 @@ The decisions we make today will shape our future – President
 
 [Data](articles/a3821ead.json)
 
+[Extended Data](ext_articles/a3821ead.ext.json)
+
 ---
 
 ### Biden celebrates July 4 amid doubts about his political future
@@ -135,6 +167,8 @@ In fact, polls after the debate found that 72% of all voters did not want Biden 
 ...
 
 [Data](articles/0ee4dc1e.json)
+
+[Extended Data](ext_articles/0ee4dc1e.ext.json)
 
 ---
 
@@ -152,6 +186,8 @@ By providing specialized training and military aid, India aims to foster a close
 
 [Data](articles/e1a8b07b.json)
 
+[Extended Data](ext_articles/e1a8b07b.ext.json)
+
 ---
 
 ### Anita Desai – Indian Novelist
@@ -166,6 +202,8 @@ They were surrounded by family. And what was Aiya doing over there? Intrepidly h
 
 [Data](articles/9e7bc71c.json)
 
+[Extended Data](ext_articles/9e7bc71c.ext.json)
+
 ---
 
 ### On the verge of manhood
@@ -177,6 +215,8 @@ Seniors’ ragging of ‘freshers’ was rampant on the Peradeniya campus. Marcu
 ...
 
 [Data](articles/b427d4d9.json)
+
+[Extended Data](ext_articles/b427d4d9.ext.json)
 
 ---
 
@@ -2193,25 +2233,5 @@ Today the country is free from bankruptcy. We have 04 years of time to repay the
 [Data](articles/49348859.json)
 
 [Extended Data](ext_articles/49348859.ext.json)
-
----
-
-### 1403 suspects arrested
-
-*2024-07-06 00:10:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1403-சந்தேக-நபர்கள்-கைது/175-339930) · `ta`
-
-In the second phase of the Special Roundtable Survey, 1403 suspects were arrested within 24 hours, with 57 held for further investigation.
-
-🟩
-
-1403 suspects have been arrested within 24 hours during the second phase of the Special Roundtable Survey.
-
-Police Media Spokesperson Senior Deputy Inspector General of Police Nihal Talduwa said that 57 of them have been detained for further investigations.
-
-◼️
-
-[Data](articles/7d143b1c.json)
-
-[Extended Data](ext_articles/7d143b1c.ext.json)
 
 ---

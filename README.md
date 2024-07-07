@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 02:53:44**
+As of **2024-07-08 03:05:07**
 
 ## Newspaper Stats
 
-*Scraped **34,133** Articles*
+*Scraped **34,139** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 334
 newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,005
-dailyftlk | 2,124
+dailyftlk | 2,130
 adalk | 3,052
 adaderanalk | 3,910
 tamilmirrorlk | 4,053
@@ -26,11 +26,107 @@ adaderanasinhalalk | 5,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,133 (100.0%) of 34,133 articles have been extended.
+34,133 (100.0%) of 34,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### ECSL poised to declare election date unless Court issues injunction today
+
+*2024-07-08 02:33:58* · [`dailyftlk`](https://www.ft.lk/news/ECSL-poised-to-declare-election-date-unless-Court-issues-injunction-today/56-763981) · `en`
+
+Commissioner General of Elections Saman Sri Ratnayake has said if the Supreme Court issues a restraining order on the petition to prevent the holding of the Presidential election, the announcement of the election date will need to be suspended.
+
+He said that after 17 July the ECSL will be empowered to announce the date for calling nominations for the election. Accordingly thereafter the ECSL will be able to accept nominations 16-21 days following the announcement. He also noted polling will take place within 4-6 weeks from the date of calling for nominations.
+
+“If the Court does not issue an injunction order preventing the holding of elections, the Presidential elections can go ahead unabated,” he said.
+
+The Presidential election is scheduled to take place between 17 September and 16 October. Ratnayake further said that once the Election Commission assumes its authority, it will review the Constitution and determine suitable dates for accepting nominations and conducting the vote.
+
+...
+
+[Data](articles/9f0917d3.json)
+
+---
+
+### Public sector trade unions threaten walk out
+
+*2024-07-08 02:33:18* · [`dailyftlk`](https://www.ft.lk/news/Public-sector-trade-unions-threaten-walk-out/56-763980) · `en`
+
+Over 200 public sector trade unions, including Grama Niladhari officers and surveyors, will engage in a two-day strike by reporting ‘sick’ today and tomorrow.
+
+In addition, teachers and principals will join the strike by reporting ‘sick’ tomorrow.
+
+These trade unions are taking action based on several demands, including receiving a stipend of Rs. 25,000 regardless of service grade.
+
+According to trade unions, due to the economic pressure caused by the increase in the cost of living and the tax burden, the allowance has been increased to Rs. 25,000 but is currently limited to officers in the executive service of the public sector.
+
+◼️
+
+[Data](articles/954382a1.json)
+
+---
+
+### Selvarajah Kajendran takes helm of TNPF
+
+*2024-07-08 02:32:51* · [`dailyftlk`](https://www.ft.lk/news/Selvarajah-Kajendran-takes-helm-of-TNPF/56-763979) · `en`
+
+In a temporary leadership shift within the Tamil National People’s Front (TNPF), General Secretary Selvarajah Kajendran has assumed the leadership and administrative responsibilities of the political party headed by MP Gajendrakumar Ponnambalam. According to sources, this move follows the departure of Ponnambalam, who is currently undergoing medical treatment abroad.
+
+Due to a health concern, Ponnambalam has been unable to attend Parliamentary sessions in recent times. Consequently, he recently requested and was granted a three-month leave from parliamentary duties, starting 2 July, as proposed by chief Opposition whip Lakshman Kiriella.
+
+A party spokesperson said that while Ponnambalam is receiving treatment in Australia, the party’s political activities will continue undisturbed under the temporary leadership of Kajendran.
+
+...
+
+[Data](articles/d547e5a0.json)
+
+---
+
+### National Chamber of Exporters leads Lankan delegation to Korea Import Fair
+
+*2024-07-08 02:31:00* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Exporters-leads-Lankan-delegation-to-Korea-Import-Fair/34-763978) · `en`
+
+The National Chamber of Exporters of Sri Lanka (NCE) represented Sri Lanka at the Korea Import Fair (KIF 2024) from 4 to 6 July at the COEX Exhibition Centre in Seoul.
+
+This participation marks a significant milestone, being the NCE’s inaugural involvement in the esteemed fair, and underscores efforts to bolster Sri Lanka’s presence in the South Korean market.
+
+The delegation led by NCE Secretary General/CEO Shiham Marikar, comprised five prominent Sri Lankan companies, each renowned for their excellence in various sectors. The participating companies were: CoCo Green Ltd., Warna Exporters Ltd., Imperial Tea Exports Ltd., MA’s Tropical Food Processing Ltd., and Tropikal Life International Ltd.
+
+...
+
+[Data](articles/1a8a7add.json)
+
+---
+
+### China Tianying explores investment opportunities in SL
+
+*2024-07-08 02:27:09* · [`dailyftlk`](https://www.ft.lk/business/China-Tianying-explores-investment-opportunities-in-SL/34-763977) · `en`
+
+Top Executives of China Tianying Inc., engaged in renewable power generation and hydrogen energy centres met with the Sri Lankan Ambassador to China Majintha Jayesinghe, and Board of Investment of Sri Lanka and Colombo Port City Economic Commission Chairman Dinesh Weerakkody to discuss potential opportunities for investment in Sri Lanka. The meeting was held at the Sri Lankan Embassy in Beijing, China.
+
+◼️
+
+[Data](articles/400bf811.json)
+
+---
+
+### Meiro expands to Sri Lanka with $ 3 m pre-Series A funding
+
+*2024-07-08 02:25:34* · [`dailyftlk`](https://www.ft.lk/business/Meiro-expands-to-Sri-Lanka-with-3-m-pre-Series-A-funding/34-763976) · `en`
+
+Meiro, a leading customer data platform, has announced its strategic expansion into the Sri Lankan market following a successful $ 3 million pre-Series A funding round.
+
+This round was led by Southeast Asian venture capital firm Wavemaker Partners, with significant participation from angel investors at Singapore-based Angel Central.
+
+With the newly secured funding, Meiro plans to leverage the potential of the Sri Lankan market, aiming to hire skilled professionals locally to support its growth. The company’s expansion into Sri Lanka underscores its commitment to driving digital transformation and enhancing customer experience (CX) personalisation in the region.
+
+...
+
+[Data](articles/a54f8ef8.json)
+
+---
 
 ### Sri Lankan designs take on the globe after APAC success
 
@@ -2253,135 +2349,5 @@ Senior Superintendent of Police Senior Superintendent of Police (S) SSP Senaka W
 [Data](articles/f75cb679.json)
 
 [Extended Data](ext_articles/f75cb679.ext.json)
-
----
-
-### Tamil - Muslim relationship
-
-*2024-07-07 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/187883) · `ta`
-
-Rajavarodhayam Sambandan's death has deeply impacted not just Tamils but also Muslims and Sinhalese due to his nationally recognized contributions to Tamil politics. His loss has left a significant void, highlighting his broad respect across communities.
-
-🟩
-
-The demise of Rajavarodhayam Sambandan, who was respected by all communities as a senior Tamil leader, has had such a void, impact and depression.. Not only Tamils ​​but also Muslims and Sinhalese say this. This is because he is the mature politics he has done for the Tamil people from the national point of view of the country.
-
-◼️
-
-[Data](articles/77a94547.json)
-
-[Extended Data](ext_articles/77a94547.ext.json)
-
----
-
-### Shameless chapter in the history of Muslims
-
-*2024-07-07 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/187877) · `ta`
-
-Saudi Arabia, despite being the custodian of Islam's holy sites, has destroyed 90% of its historic Islamic landmarks, prioritizing Western alliances over preserving its own heritage.
-
-🟩
-
-The dictatorial Saudi government has two faces. On the one hand, the deceit of Muslims as the guards of the sacred homes of Islam. The other is to serve his American European and Israeli masters. Saudi Arabia has destroyed 90 percent of the historical places of historical importance to be treated as the legacy of Islam so far. This is a thing that even the worst enemies of Islam fail to do.
-
-◼️
-
-[Data](articles/3b4a03f3.json)
-
-[Extended Data](ext_articles/3b4a03f3.ext.json)
-
----
-
-### Sri Lanka's delegated cyber criminals to the island
-
-*2024-07-07 11:30:14* · [`adalk`](https://www.ada.lk/breaking_news/එක්සත්-අරාබි-එමීර්-රාජ්‍යයෙන්-පිටුවහල්-කල-සයිබර්-අපරාධකරුවන්-දිවයිනට/11-410639) · `si`
-
-Sri Lanka has deported citizens from the UAE following cybercrime arrests. The initial report by "Kalayage Times" mentioned 37 individuals detained for various offenses. Upon completion of police investigations, these individuals were repatriated to Sri Lanka by the Sri Lanka Bureau of Foreign Employment.
-
-🟩
-
-Sri Lanka Foreign Employment Carier (SL 11) has deported due to cyber crimes in the United Arab Emirates
-
-Principal, on the first letter to the "Kalayage Times" letter, the police have been arrested by the police in the United Arab Emirates.
-
-It is said that according to the Embassy embassy, ​​37 Sri Lankans and 37 Sri Lankans have been arrested on various allegations.
-
-The embassy further stated that after the completion of the police investigations, the embassy said.
-
-The Bureau of Sri Lanka is due to be conducted by the Sri Lanka Foreign Employees of the Sri Lanka Bureau since the arrival of these people arrived in the island.
-
-◼️
-
-[Data](articles/55e1323e.json)
-
-[Extended Data](ext_articles/55e1323e.ext.json)
-
----
-
-### I acted on my own will - there is no political purpose - the trader who filed a petition in court on the presidential election
-
-*2024-07-07 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/187885) · `ta`
-
-CD Lenaya, a trader, filed a petition in the High Court seeking an interim order on the presidential election, citing improper implementation of the 19th Amendment. He aims to clarify the constitutional term through legal action, emphasizing his lack of political motives. Despite being listed on the National Development Front's national list, he insists he's not politically aligned with the party and welcomes more petitions on the matter.
-
-🟩
-
-The trader, CD Lenaya, who has filed a petition in the High Court, has filed a petition demanding an interim order for the presidential election until the court gives his verdict on the presidential term.
-
-He said he thought the 19th Amendment to the Constitution was not properly implemented and decided to attract the attention of the people.
-
-"I have acted with the intention of getting clarity from the court on this issue," he said.
-
-I have no political power behind me, I have no political purpose, ”he said.
-
-Commenting on his name on the National Development Front's national list, he said that he was not involved in politics with the party.
-
-He said that more and more petitions were welcomed on the issue, he said.
-
-◼️
-
-[Data](articles/7caba7a0.json)
-
-[Extended Data](ext_articles/7caba7a0.ext.json)
-
----
-
-### Wadduwa filter
-
-*2024-07-07 11:23:50* · [`adalk`](https://www.ada.lk/breaking_news/වාද්දූව-පෙරහරකත්-ඇතෙක්ගේ-පහරදීමක්/11-410638) · `si`
-
-In Wadduwa, a man was attacked and seriously injured near a forest edge. He was traveling along the coastal road when the incident occurred. Authorities are investigating and taking measures to ensure safety.
-
-🟩
-
-A forefront of a forefront of a forest at the Wadduwa area yesterday (06), a forefront of the night has been hospitalized and hospitalized.
-
-It is said that the attack has been assaulted while he was traveling from the coastal road.
-
-The authorities have taken steps to remove the effort after being defeated.
-
-◼️
-
-[Data](articles/c7319874.json)
-
-[Extended Data](ext_articles/c7319874.ext.json)
-
----
-
-### Nurses’ union decides not to join trade union action
-
-*2024-07-07 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100346/nurses-union-decides-not-to-join-trade-union-action-) · `en`
-
-The All Ceylon Nurses’ Union stated they will not be joining the public sector employees’ trade union action scheduled to be carried out tomorrow (08) and the day after (09).
-
-The General Secretary of the union H. M. S. B. Mediwatta has stated that implementing strikes would cause inconveniences to the patients and the people of the country.
-
-He further stated that despite existing issues in the health sector, this is not an appropriate time for strikes and also he warned that they would support the public at the earliest opportunity to help oust the government.
-
-◼️
-
-[Data](articles/8160c99a.json)
-
-[Extended Data](ext_articles/8160c99a.ext.json)
 
 ---

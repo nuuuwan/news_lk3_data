@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 10:54:10**
+As of **2024-07-07 11:06:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,652
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,016 (100.0%) of 34,021 articles have been extended.
+34,021 (100.0%) of 34,021 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,67 +50,97 @@ He assured that as long as the President continued to protect the country and it
 
 [Data](articles/83a03d0a.json)
 
+[Extended Data](ext_articles/83a03d0a.ext.json)
+
 ---
 
-### புகலிடம் கோருபவர்களை ருவாண்டாவிற்கு அனுப்பும் ரிசி சுனாக்கின் திட்டம் - கைவிடப்போவதாக பிரிட்டனின் புதிய அரசாங்கம் தெரிவிப்பு
+### Britain's new government has announced that Risi Sunach's plan to send asylum seekers to Rwanda
 
 *2024-07-07 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/187879) · `ta`
 
-புகலிடக்கோரிக்கையாளர்களை ருவாண்டாவிற்கு அனுப்பும் ரிசிசுனாக் அரசாங்கத்தின் திட்டத்தினை தனது அரசாங்கம் தொடராது என பிரிட்டனின் புதிய பிரதமர் கெய்ர் ஸ்டர்மெர் தெரிவித்துள்ளார்.
+Britain's new PM Kair Stermer has scrapped the controversial plan to send asylum seekers to Rwanda, initiated by the previous government. Despite the legality concerns raised by the British High Court, the outgoing government had pushed through legislation to facilitate this. Critics, including human rights groups, condemned the policy, arguing against sending asylum seekers to a third country without proper investigation.
 
-ருவாண்டா திட்டம் அது ஆரம்பமாவதற்கு முன்னரே உயிரிழந்து புதைக்கப்பட்டுவிட்டது அது ஒருபோதும்  ஒரு தடுப்பு நடவடிக்கையில்லை என அவர் தெரிவித்துள்ளார்.
+🟩
 
-குடியேற்றவாசிகள் புகலிடக்கோரிக்கையாளர்களின் வருகையை உண்மையில் கட்டுப்படுத்தா எந்த போலியான நடவடிக்கைகளையும் தொடர்வதற்கு நான் தயாரில்லை என அவர் தெரிவித்துள்ளார்.ருவாண்டா திட்டத்தினை நாங்கள் உள்வாங்கும் பிரச்சினை என அவர் விபரித்துள்ளார்.ருவாண்டா திட்டம் தோல்வியடையும் என்ற எதிர்பார்ப்பே பரவலாக காணப்பட்டது எனவும் அவர் தெரிவித்துள்ளார்.
+Britain's new Prime Minister Kair Stermer has said that his government will not continue the Risisunac government's plan to send asylum seekers to Rwanda.
 
-ருவாண்டா  திட்டம் மனித உரிமை அடிப்படையில் சட்டவிரோதமானது என பிரிட்டனின் உயர் நீதிமன்றம் தெரிவித்திருந்த போதிலும் ரிசிசுனாக் அரசாங்கத்தின் அரசாங்கம் நாடாளுமன்றத்தில் அகதிகள் குடியேற்றவாசிகளை ருவாண்டாவிற்கு அனுப்பும் சட்டமொன்றை நிறைவேற்றியிருந்தது.
+He said the Rwanda project had been buried before it began.
 
-...
+He said that I am not prepared to continue any bogus measures to restrict the arrival of asylum seekers.
+
+Although the British High Court said that the Rwanda project was illegal on human rights, the government of the Ririsunac government passed a law to send refugees in parliament to Rwanda.
+
+Risisunac Rwanda has openly proposed the policy of residents from European countries, which have stopped the arrival of asylum seekers from the European countries.
+
+Human rights organizations, who said that sending them to a third country instead of investigating the demands of asylum seekers in the UK, had severely criticized the Risi Sunac government's policy.
+
+◼️
 
 [Data](articles/ab835bc7.json)
 
+[Extended Data](ext_articles/ab835bc7.ext.json)
+
 ---
 
-### වර්ජනයට අපි නෑ
+### We don't have to strike
 
 *2024-07-07 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198562) · `si`
 
-හෙට සහ අනිද්දා ක්‍රියාත්මක කිරීමට නියමිත රාජ්‍ය සේවක වෘත්තීය සමිති ක්‍රියාමාර්ගය සඳහා සමස්ත ලංකා හෙද සංගමය සහභාගී නොවන බව ඔවුන් ප්‍රකාශ කරයි.
+The All Ceylon Nurses Union won't join a planned strike, citing public embarrassment from previous strikes. Their general secretary, B. Mediawatte, emphasizes the importance of the health sector and criticizes the government for its handling of public issues.
 
-එහි ප්‍රධාන ලේකම් එස්. බී. මැදිවත්ත මහතා ප්‍රකාශ කර ඇත්තේ වැඩවර්ජන කිරීම හරහා සිදුවෙන්නේ රෝගීන් ජනතාවද අපහසුතාවට පත්වීම බවයි.
+🟩
 
-ප්‍රශ්න ගැටලු සෞඛ්‍ය ක්ෂේත්‍රයේ තිබ්බත් මෙය වැඩවර්ජන සඳහා අවස්ථාවක් නොවන බවත් ආණ්ඩුව පළවා හැරීමට ලැබෙන ප්‍රථම අවස්ථාවේම ජනතාව සමඟ එය සිදුකරන බවත් ඔහු කියා සිටියේය.
+They declare that the All Ceylon Nurses Union will not participate in the trade union action to be implemented tomorrow and tomorrow.
+
+Its general secretary. B. Mediawatte has stated that strike is caused by strikes that the people are embarrassed.
+
+He said that the health sector was in the health sector and that this is not a chance of strikes and that the government is doing it with the public.
 
 ◼️
 
 [Data](articles/c513d243.json)
 
+[Extended Data](ext_articles/c513d243.ext.json)
+
 ---
 
-### வழி தவறிய பயணம்
+### Pilgrimage
 
 *2024-07-07 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187872) · `ta`
 
-இலங்கையின் தேசியத் தலைவராக சம்பந்தனை ஆக்கியதன் மூலம் அவரை தமிழ் மக்களின் தலைவர் என்ற நிலையில் இருந்து கீழிறக்கும் வேலையை கனகச்சிதமாக செய்து முடித்திருக்கிறார்கள் சிங்கள ஆட்சித் தலைவர்கள்....
+Sinhalese leaders appointed a Tamil as Sri Lanka's national leader, symbolizing unity and leadership across ethnic lines.
+
+🟩
+
+Sinhalese leaders have done the job of being the leader of the Tamil people by making him the national leader of Sri Lanka.
 
 ◼️
 
 [Data](articles/69565d8e.json)
 
+[Extended Data](ext_articles/69565d8e.ext.json)
+
 ---
 
-### கதிர்காமம் எசல பெரஹெரவில் குழம்பிய யானை
+### Elephant in the Ezha Perahera
 
 *2024-07-07 10:18:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கதிர்காமம்-எசல-பெரஹெரவில்-குழம்பிய-யானை/175-339962) · `ta`
 
-கதிர்காமம் எசல பெரஹெர உற்சவத்தின் முதல் நாள் உற்சவம் நேற்று நடைபெற்றது. இதில்  பெரஹெர ஊர்வலத்தில் பங்குபற்றிய யானை ஒன்று குழம்பியுள்ளது.
+During the Kadirgamam Esala Perahera festival, an elephant caused confusion but no serious injuries among the 13 people hurt due to ensuing tensions.
 
-இதையடுத்து, பெரஹெர உற்சவத்தில் ஏற்பட்ட பதற்றத்தில் 13 பேர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-வைத்தியசாலையில் அனுமதிக்கப்பட்டவர்களுக்கு பாரதூரமான பாதிப்புக்கள் இல்லை என வைத்தியசாலை தகவல்கள் தெரிவிக்கின்றன. R
+The first day of the Kadirgamam Esala Perahera festival was held yesterday. An elephant who participated in the Perahera procession is confused.
+
+Following this, 13 people were injured in the tension at the Perahera festival, police said.
+
+Hospital sources say that those who were admitted to the hospital have no serious damage. Remble
 
 ◼️
 
 [Data](articles/48b9ecd5.json)
+
+[Extended Data](ext_articles/48b9ecd5.ext.json)
 
 ---
 

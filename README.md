@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 17:35:18**
+As of **2024-07-07 17:55:41**
 
 ## Newspaper Stats
 
-*Scraped **34,086** Articles*
+*Scraped **34,088** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,32 +15,56 @@ newsfirstlk | 363
 islandlk | 1,914
 economynextcom | 2,004
 dailyftlk | 2,115
-adalk | 3,045
+adalk | 3,046
 adaderanalk | 3,906
 tamilmirrorlk | 4,043
 dailymirrorlk | 4,733
 virakesarilk | 5,340
-adaderanasinhalalk | 5,668
+adaderanasinhalalk | 5,669
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,084 (100.0%) of 34,086 articles have been extended.
+34,086 (100.0%) of 34,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### பிரித்தானிய தேர்தலில் ஈழத்தமிழ் பெண்ணின் வெற்றி
+### රුසියාවේ ප්‍රදේශ කිහිපයකට හදිසි තත්ත්වයක්
+
+*2024-07-07 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198579) · `si`
+
+යුක්‍රේන ඩ්‍රෝන ප්‍රහාර හේතුවෙන් රුසියාවේ ප්‍රදේශ කිහිපයකට හදිසි තත්ත්වයක් ප්‍රකාශයට පත්කර තිබේ.
+
+එරට වොරෝනෙෂ් කලාපය වෙත එල්ල කළ යුක්‍රේන ඩ්‍රෝන ප්‍රහාර හේතුවෙන් මෙම පියවර ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+රුසියානු ආරක්ෂක පද්ධතිය විසින් ඩ්‍රෝන රැසක් බිම හෙළා ඇති අතර ඉන් එක් ප්‍රහාරයක් හේතුවෙන් යුද්ධ උපකරණ ගබඩාවක ගින්නක් ද හටගෙන ඇත.
+
+මෙම තත්ත්වය තුළ අවදානම් ප්‍රදේශවල සිටින ජනතාව තාවකාලිකව ඉවත් කිරීමට බලධාරීන් කටයුතු කර ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/08c9cbf9.json)
+
+---
+
+### Eelam Tamil woman victory in British election
 
 *2024-07-07 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/187901) · `ta`
 
-ரிஷி சுனக் ஆட்சியில் பல ஆண்டுகளில் இல்லாத அளவுக்கு மிகமோசமான பொருளாதார சூழல் நிலவியது. இதனால் அங்கே ஆளும் அரசு மீது மக்களிடையே மிகப் பெரிய கோபம் நிலவியது. அதுவே இப்போது ரிஷி சுனக்கிற்கு பெரும் தலைவலியாக மாறி, பாரிய படுதோல்வியை சந்தித்துள்ளார். இந்தப் பொதுத் தேர்தலில் ஆட்சியமைக்க தேவையான 326 இடங்களை தொழிலாளர் கட்சி கைப்பற்றிள்ளது.
+In a significant shift, the Labour Party secured 326 seats in the general election, marking a major defeat for the incumbent government under Rishi Sunak. This victory is attributed to widespread discontent among voters, signaling a change in leadership.
+
+🟩
+
+The Rishi Sunak regime has existed in many years that existed. This led to the biggest anger among the people on the ruling state. That is what Rishi has now become a headache for Sunak and has suffered a massive defeat. The Labor Party has won 326 seats to rule in this general election.
 
 ◼️
 
 [Data](articles/09b11e0a.json)
+
+[Extended Data](ext_articles/09b11e0a.ext.json)
 
 ---
 
@@ -66,15 +90,21 @@ The ministry has now invited proposals for courses from these institutions for t
 
 ---
 
-### தேர்தலைத் தடுக்க முனையும் சக்தி எது?
+### What is the power to stop the election?
 
 *2024-07-07 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187899) · `ta`
 
-மைத்திரிபால சிறிசேன, ஜனாதிபதியின் பதவிக்காலத்தை 5 ஆண்டுகளாக குறைக்கும் சட்ட திருத்தத்தைக் கொண்டுவந்துவிட்டு, 2019ஆம் ஆண்டு தனது பதவிக்காலம் 5 ஆண்டுகளா, 6 ஆண்டுகளா என்று உயர்நீதிமன்றத்தை கேட்டபோதே, இனி ஜனாதிபதியின் பதவிக்காலம் 5 ஆண்டுகள்தான் என்று உயர் நீதிமன்றம்  திட்டவட்டமாக கூறிவிட்டது...”
+Maithripala Sirisena proposed an amendment in 2019 to extend the Sri Lankan President's term to 5 years, challenging the traditional limit.
+
+🟩
+
+Maithripala Sirisena has introduced a amendment to the president's term for 5 years and asked the High Court for 5 years in 2019, and that the president's term is no longer 5 years. ”
 
 ◼️
 
 [Data](articles/9c1cbdcf.json)
+
+[Extended Data](ext_articles/9c1cbdcf.ext.json)
 
 ---
 
@@ -1015,6 +1045,30 @@ In addition, the police have taken steps to appear at the Jaffna Magistrate's Co
 [Data](articles/6fd3de51.json)
 
 [Extended Data](ext_articles/6fd3de51.ext.json)
+
+---
+
+### මම හිඟා කන මිනිහෙක් නෙවෙයි,  සිංහල ජාතිය හිඟා කන ජාතියක් නොවෙයි
+
+*2024-07-07 11:56:25* · [`adalk`](https://www.ada.lk/breaking_news/මම-හිඟා-කන-මිනිහෙක්-නෙවෙයි---සිංහල-ජාතිය-හිඟා-කන-ජාතියක්-නොවෙයි/11-410642) · `si`
+
+රට තුළ නව ආර්ථික ක්‍රමයක් මෙන්ම නව දේශපාලන ක්‍රමයක් ද නිර්මාණය විය යුතුයි
+
+වගකීම් භාරගත හැකි මෙන්ම සත්‍ය නොබියව ප්‍රකාශ කළ හැකි දේශපාලන නායකයන් රටට අවශ්‍යයි.
+
+සිහින ලෝකවල කටයුතු නොකර රටට අවශ්‍ය වැඩපිළිවෙළ හඳුනාගෙන ඉදිරියට යමු.
+
+සිංහල ජාතිය කිසිදා සිඟමන් යැද්දේ නැහැ – අපනයන කේන්ද්‍රීය ආර්ථිකයක් තුළින් මෙරට ආර්ථිකය ඉහළට ඔසවා තබනවා.
+
+එම වැඩපිළිවෙළේදී බැංකු පද්ධතියට පුළුල් වගකීමක් පැවරෙනවා – බැංකුකරුවන්ගේ සංසඳයට එක් වෙමින් ජනපති පවසයි.
+
+රට තුළ නව ආර්ථිකයක් ගොඩනඟන විට නව දේශපාලන ක්‍රමයක් ද නිර්මාණය විය යුතු බවත්, වගකීම් භාරගෙන කටයුතු කළ හැකි පිරිසක් මෙන්ම නොබියව සත්‍ය ප්‍රකාශ කරන පිරිසක් එම දේශපාලන ක්‍රමවේදය තුළ බිහිවිය යුතු බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ ජාතික බැංකුකරුවන්ගේ සංගමය විසින් කොළඹ ගාලු මුවදොර හෝටලයේ ඊයේ (05) සංවිධානය කර තිබූ බැංකුකරුවන්ගේ සංසඳයට සහභාගී වෙමිනි.
+
+...
+
+[Data](articles/b9dc53ae.json)
 
 ---
 
@@ -2223,53 +2277,5 @@ In fact, polls after the debate found that 72% of all voters did not want Biden 
 [Data](articles/0ee4dc1e.json)
 
 [Extended Data](ext_articles/0ee4dc1e.ext.json)
-
----
-
-### Introduced New Education System
-
-*2024-07-07 01:35:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-கல்வி-முறையினை-அறிமுகப்படுத்தப்படும்/175-339961) · `ta`
-
-President Ranil Wickremesinghe announced the introduction of a new education system focusing on modern technology to prepare the country for a new economy. This initiative, costing Rs 30 crore, aims to equip 200 schools in the Southern Province with 2,000 modern classrooms and 2,000 Deep computers. The project, part of broader educational reforms, benefits 150 schools in the Galle District and 50 in Hambantota and Matara districts, enhancing learning facilities through the integration of technology.
-
-🟩
-
-President Ranil Wickremesinghe said that the advanced education with modern technology is essential to bring the country to the new economy and that the educational reforms are currently underway in the country.
-
-The President said this while addressing the gathering of 2,000 modern classrooms and 2,000 Deb computers to 200 schools in the Southern Province as a new chapter of the modernization of the Education at Galle - Hall de Cole Hotel yesterday.
-
-The scheme was implemented under the allocation of Rs 3,000 lakh (30 crore) to the Southern Provincial Council on a request made by the Government of India, Vatir Ramesh, Minister of Health and Industry.
-
-Of the 200 schools selected for the project, 150 schools are located in the Galle District and 50 other schools in Hambantota and Matara districts.
-
-2,000 Deep computers to 200 classrooms as 10 Deep computers per classroom. President Ranil Wickremesinghe presented a souvenir to Indian High Commissioner Chandush Ja.. (A)
-
-◼️
-
-[Data](articles/f7bd215f.json)
-
-[Extended Data](ext_articles/f7bd215f.ext.json)
-
----
-
-### New Political and Economic Structure
-
-*2024-07-07 01:24:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசியல்-பொருளாதார-கட்டமைப்பு-வேண்டும்/175-339960) · `ta`
-
-President Ranil Wickremesinghe emphasized the need for a new political and economic system, urging leaders to take responsibility and speak truthfully without fear. This call was made during a banking conference hosted by the National Bankers Union. The event also featured discussions involving Wickremesinghe, former Finance Minister Ravi Karunanayake, and Senior Advisor to the President's Economic Affairs, RHS. Samaratunga.
-
-🟩
-
-To form a new political and economic system in the country. President Ranil Wickremesinghe said that the leaders who would accept the responsibility and speak the truth without fear should be formed in a political structure.
-
-The President made this statement while addressing the banking conference organized by the National Bankers Union yesterday at the Galle Falls Hotel.
-
-Subsequently President Ranil Wickremesinghe, former Finance Minister Ravi Karunanayake and Senior Advisor to the President's Economic Affairs, RHS. A discussion session between Samaratunga. (A)
-
-◼️
-
-[Data](articles/3b6bcbd4.json)
-
-[Extended Data](ext_articles/3b6bcbd4.ext.json)
 
 ---

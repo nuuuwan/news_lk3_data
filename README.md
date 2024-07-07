@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 13:04:53**
+As of **2024-07-07 13:19:52**
 
 ## Newspaper Stats
 
-*Scraped **34,048** Articles*
+*Scraped **34,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,914
 economynextcom | 2,004
 dailyftlk | 2,115
 adalk | 3,038
-adaderanalk | 3,900
-tamilmirrorlk | 4,033
+adaderanalk | 3,902
+tamilmirrorlk | 4,036
 dailymirrorlk | 4,733
 virakesarilk | 5,335
 adaderanasinhalalk | 5,658
@@ -26,35 +26,131 @@ adaderanasinhalalk | 5,658
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,043 (100.0%) of 34,048 articles have been extended.
+34,048 (100.0%) of 34,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### ජනාධිපතිවරණ දිනය ගැන හෙළිදරව්වක්
+### அஞ்சல் ஊழியர்களின் திடீர் தீர்மானம்
+
+*2024-07-07 13:01:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஞ்சல்-ஊழியர்களின்-திடீர்-தீர்மானம்/175-339975) · `ta`
+
+அஞ்சல் ஊழியர்கள் நாளை (08) மற்றும் நாளை மறுதினமும் (09) 48 மணிநேர அடையாள வேலைநிறுத்த போராட்டத்தில் ஈடுப்படவுள்ளdர்.
+
+ஒன்றிணைந்த அஞ்சல் தொழிற்சங்க முன்னணியின் இணை அழைப்பாளர் சிந்தக பண்டார இதை தெரிவித்தார்.
+
+இன்று (07) மாலை 04 மணி முதல் மத்திய அஞ்சல் பரிமாற்ற நிலையத்தில் அடையாள வேலைநிறுத்தத்தை ஆரம்பிக்க தீர்மானிக்கப்பட்டுள்ளதாக தெரிவித்தார்.
+
+ஏனைய அனைத்து அஞ்சல் நிலையங்களிலும் இன்று (07) நள்ளிரவு முதல் இந்த தொழிற்சங்க நடவடிக்கை ஆரம்பிக்கப்படவுள்ளதாக சிந்தக பண்டார குறிப்பிட்டார்.
+
+மூன்று கோரிக்கைகளை முன்வைத்து இந்த தொழிற்சங்க நடவடிக்கை ஆரம்பிக்கப்படவுள்ளதாக அஞ்சல் தொழிற்சங்க முன்னணியின் இணை அழைப்பாளர் சிந்தக பண்டார மேலும் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/d89123ea.json)
+
+---
+
+### Weather advisory issued for heavy rain
+
+*2024-07-07 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100351/weather-advisory-issued-for-heavy-rain) · `en`
+
+The Department of Meteorology has issued an ‘Amber’ advisory for heavy rain for Western and Sabaragamuwa provinces and in Kandy district.
+
+Heavy showers of about 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy district, it said.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/e7696f51.json)
+
+---
+
+### தேர்தலுக்கான திகதி 17 இற்கு பின்னர் அறிவிப்பு
+
+*2024-07-07 13:00:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலுக்கான-திகதி-17-இற்கு-பின்னர்-அறிவிப்பு/175-339974) · `ta`
+
+2024 ஆம் ஆண்டுக்கான வாக்காளர் பட்டியலைச் சான்றளிக்கும் பணி இன்னும் சில நாட்களில் நிறைவடையும் எனத் தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+இதன்படி ஜனாதிபதித் தேர்தலுக்கான திகதி எதிர்வரும் ஜூலை 17 ஆம் திகதிக்கு பின்னர் அறிவிக்கப்படும் எனத் தேர்தல்கள் ஆணைக்குழுவின் தலைவர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/20e3126f.json)
+
+---
+
+### Sanath Jayasuriya appointed Sri Lanka’s head coach?
+
+*2024-07-07 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100350/sanath-jayasuriya-appointed-sri-lankas-head-coach) · `en`
+
+Former Sri Lanka captain Sanath Jayasuriya has been temporarily appointed as the Head Coach of the men’s national team by Sri Lanka Cricket (SLC), sources told Ada Derana.
+
+Jayasuriya will reportedly serve as the interim head coach for the upcoming home series against India and the Test tour to England.
+
+This decision comes as SLC continues its search for a permanent replacement for former head coach Chris Silverwood.
+
+The interim appointment follows the resignations of head coach Chris Silverwood and consultant coach Mahela Jayawardene after Sri Lanka’s underwhelming performance in the T20 World Cup held in the USA and West Indies.
+
+Under the leadership of Wanindu Hasaranga, the team failed to advance to the Super 8 round, prompting a need for significant changes in the coaching staff.
+
+Sri Lanka’s immediate challenge is the home series against the newly crowned T20 World Cup champions, India. The series
+
+◼️
+
+[Data](articles/e8f1486a.json)
+
+---
+
+### A revelation of the Presidential Election Day
 
 *2024-07-07 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198568) · `si`
 
-ජූලි 17 වනදායින් පසු ජනාධිපතිවරණය පැවැත්වෙන දිනය ප්‍රකාශයට පත් කිරීමට කටයුතු කරන බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+The Elections Commission plans to announce the presidential election date after July 17, within a range of September 17 to October 16, using the 2024 electoral register. However, a pending Supreme Court review over a fundamental rights petition could delay this announcement.
 
-එහි සභාපති ආර්. එම්. ඒ. එල්. රත්නායක මහතා සඳහන් කළේ ව්‍යවස්ථානුකූලව ජනාධිපතිවරණය පැවැත්වෙන දිනය ප්‍රකාශයට පත් කිරීමට ජුලි 17 වනදායින් පසු පසු කොමිෂන් සභාවට බලය හිමිවන බවය.
+🟩
 
-එය සැප්තැම්බර් 17ත් ඔක්තෝබර් 16ත් අතර කාලය තුළ පවත්වන බව මැතිවරණ කොමිසම මීට පෙර නිවේදනය කර තිබුණි.
+The Elections Commission says he will declare the date of the presidential election after July 17th.
 
-ඒ අනුව, මැතිවරණ කොමිසම රැස්වී ජනාධිපතිවරණය පැවැත්වෙන නිශ්චිත දිනය තීරණය කරන බව  සභාපතිවරයා සඳහන් කළේය.
+Its Chairmans. M. it. L. Mr. Ratnayake said the Commission was authorized after July 17 to announce the date of the presidential election.
 
-මෙවර ජනාධිපතිවරණය සඳහා 2024 ඡන්ද හිමි නාමලේඛනය යොදාගැනීමට නියමිතව තිබේ.
+The Elections Commission had previously announced that it will be held between September 17 and 16th October.
 
-මැතිවරණ කොමිසන් සභාවේ ආර්.එම්.ඒ.එල් රත්නායක මහතා පැවසුවේ ඡන්ද හිමි නාමලේඛනයට අත්සන් කිරීමේ කටයුතු ඉදිරි දින කිහිපය තුළ සිදුකිරීමට නියමිත බවය.
+Accordingly, the Elections Commission will determine the exact date of the presidential election, the Chairman said.
 
-කෙසේවෙතත් ජනාධිපතිවරණය පැවැත්වීම කල්දමන ලෙස ඉල්ලා මේ වනවිට ශ්‍රේෂ්ඨාධිකරණයට මූලික අයිතිවාසිකම් පෙත්සමක් ඉදිරිපත් කර තිබේ.
+The 2024 electoral register is to be used for the presidential election.
 
-ව්‍යාපාරිකයෙකු විසින් ගොනුකර ඇති අදාළ පෙත්සම හෙට (08) දිනයේ අගවිනිසුරුවරයා ප්‍රමුඛ පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ සලකා බැලීමට නියමිතය.
+Elections Commission RMAL Ratnayake said that the number of electoral registration is due to be done in the next few days.
+
+However, the presidential election has been demanding a fundamental rights petition for the Supreme Court.
+
+The petition filed by the businessman is due to be considered before the Chief Justice, a five-member Supreme Court panel of Chief Justice.
 
 ...
 
 [Data](articles/6f0c74ff.json)
+
+[Extended Data](ext_articles/6f0c74ff.ext.json)
+
+---
+
+### WWE செம்பியன் ஜோன்சீனாவின் அதிர்ச்சி அறிவிப்பு
+
+*2024-07-07 12:39:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/WWE-செம்பியன்-ஜோன்சீனாவின்-அதிர்ச்சி-அறிவிப்பு/50-339973) · `ta`
+
+WWE மல்யுத்த போட்டிகளிலிருந்து ஓய்வு பெறவுள்ளதாக பிரபல மல்யுத்த வீரர் ஜோன்சீனா அறிவித்துள்ளார்.
+
+இவரின் பெயரை கேட்டாலே, 90-ஸ் கிட்ஸ் மனங்களில் மகிழ்ச்சி ஏற்படும் என்றே கூறலாம். அவர் களத்திற்குள் எண்ட்ரி கொடுக்கும் ஸ்டைல் மிகவும் பிரபலம் ஆகும்.
+
+16 முறை WWE செம்பியன் பட்டம் வென்றுள்ள ஜோன்சீனா, WWE போட்டிகளில் இருந்து ஓய்வு பெறவுள்ளதாக அறிவித்துள்ளார்.
+
+கனடா நாட்டின் டொரோண்டோவில் நடைபெற்ற 'மணி இன் தி பேங்க்' (Money in the Bank) போட்டியில் திடீரென தோன்றிய ஜோன்சீனா தனது ஓய்வு அறிவிப்பை வெளியிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/28876cc0.json)
 
 ---
 
@@ -100,51 +196,75 @@ The sister of his death, Tina has said, "The best brother to a girl," said. "He 
 
 ---
 
-### கையை விரித்த ரஷ்யா
+### Russia that expanded the hand
 
 *2024-07-07 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/187889) · `ta`
 
-465 பேர் ரஷ்யாவுக்கு போரிடச் சென்றிருப்பது அதிகாரபூர்வமாக உறுதிப்படுத்தப்பட்டுள்ளதோடு, 17 பேர் போரில் அங்கு மரணமானதும் உறுதியாகியுள்ளது. இலங்கையை ரஷ்யா தனது நண்பன் என்று கூறிக்கொள்கிறது. ஆனால் கூலிப்படையினர் விவகாரத்தில், அதன் உண்மையான நண்பனாக வெளிப்படைத்தன்மையுடன் அது நடந்துகொள்ளவில்லை...
+Officially, 465 individuals have traveled to Russia, with 17 casualties reported from the conflict. Despite Russia declaring Sri Lanka as an ally, concerns arise over transparency regarding mercenary involvement.
+
+🟩
+
+It has been officially confirmed that 465 people have gone to Russia and 17 have died in war.. Russia claims Sri Lanka as its friend. But in the case of mercenaries, it is not transparent as its true friend ...
 
 ◼️
 
 [Data](articles/dd818e70.json)
 
+[Extended Data](ext_articles/dd818e70.ext.json)
+
 ---
 
-### மறைக்கப்படும் உண்மைகள்
+### The facts that are hidden
 
 *2024-07-07 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/187888) · `ta`
 
-“அரசாங்கம் இந்த கடன் மறுசீரமைப்பு விடயத்தில் உண்மைகளை பேசுவதாக கூறினாலும் பல உண்மைகளை மறைக்க முற்படுகிறது”
+"The government claims transparency on debt issues, yet many truths remain undisclosed."
+
+🟩
+
+“The government says it is speaking the facts on the issue of debt, but it seeks to cover up many facts”
 
 ◼️
 
 [Data](articles/847ae51a.json)
 
+[Extended Data](ext_articles/847ae51a.ext.json)
+
 ---
 
-### ரணிலை விட்டுப் பிரியும் மஹிந்த?
+### Mahinda leaves Ranil?
 
 *2024-07-07 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/187887) · `ta`
 
-ஜனாதிபதி ரணில் நாட்டு மக்களுக்கு உரையாற்றிய தினத்துக்கு மறுநாள் சீனாவுக்கு உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டிருந்த மஹிந்த ராஜபக்ஷ ஒரு தீர்மானத்துடனேயே நாட்டுக்கு திரும்பியுள்ளார் என்றே கூறவேண்டியுள்ளது. அவர் சீனாவில்  இருந்த தருணத்திலேயே இங்கு தம்மிக்க பெரேரா, பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் என்றும் அதை மஹிந்த தனது வாயால் ஜுலை முதல் வாரமளவில் அறிவிப்பார் என்றும் ஊடக மாநாட்டில் கூறப்பட்டது.  மஹிந்தவின் அனுமதியின்றி இப்படியான அறிவிப்பை செய்திருக்க முடியாது.
+Mahinda Rajapaksa, after visiting China, returns with a resolution to run as the presidential candidate of the PA, likely announcing this in early July. This move suggests it wouldn't have been possible without his consent.
+
+🟩
+
+It is worth noting that Mahinda Rajapaksa, who made an official visit to China the day when President Ranil addressed the people, has returned to the country with a resolution.. At the press conference, he said that he was the presidential candidate of the PA, and that Mahinda would announce it by his mouth for the first week of July.. Such a notification could not be made without Mahinda's permission.
 
 ◼️
 
 [Data](articles/5a97445e.json)
 
+[Extended Data](ext_articles/5a97445e.ext.json)
+
 ---
 
-### பிரித்தானியாவில் ஆட்சி மாற்றம் : தேர்தலில் ரிஷி சுனாக்கின் கன்சர்வேட்டிவ் கட்சி மண்ணை கவ்வியது ஏன்?
+### Britain's regime change
 
 *2024-07-07 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/187882) · `ta`
 
-இங்கிலாந்து, வேல்ஸ், ஸ்கொட்லாந்து, வட அயர்லாந்து ஆகியவற்றை உள்ளடக்கிய பிரித்தானிய பாராளுமன்றம். இரண்டு சபைகள் அடங்கிய பாராளுமன்றத்தின் கீழ்ச் சபையான மக்களவைக்கு (House of Commons)  பிரதிநிதிகளைத் தெரிவு செய்வதற்காக தேர்தல் நடைபெற்றது. இந்த மக்களவையில் 650 ஆசனங்கள் உள்ளதால், குறைந்தபட்சம் 376 ஆசனங்களைப் பெற்ற கட்சி அரசாங்கத்தை அமைக்கலாம். அந்த வகையில், தொழிற்கட்சி 14வருடகாலத்திற்குப் பின்னர், ஆட்சி அமைக்கும் வாய்ப்பைப் பெறுவதற்கான திசை நோக்கி நகர்கிறது.
+In Britain, elections were held for the Parliament, consisting of the House of Commons and Lords, with 650 seats. The Labour Party aims to regain power after 14 years, needing at least 376 seats to form a government.
+
+🟩
+
+British Parliament, which includes England, Wales, Scotland and Northern Ireland. Elections were held to elect representatives of House of Commons under the Parliament of two House. Since there are 650 seats in this Lok Sabha, the party government can have at least 376 seats. In that respect, the Labor Party is moving in the direction to gain the opportunity to rule after 14 years.
 
 ◼️
 
 [Data](articles/1bedd03f.json)
+
+[Extended Data](ext_articles/1bedd03f.ext.json)
 
 ---
 
@@ -2105,113 +2225,5 @@ The son of the woman who faced the incident, "said:" It's here to see my mother.
 [Data](articles/7a96c545.json)
 
 [Extended Data](ext_articles/7a96c545.ext.json)
-
----
-
-### 17 days closed liquor schools
-
-*2024-07-06 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/187833) · `ta`
-
-The Kadirgama Kandan Temple's annual festival begins today, leading to a 17-day closure of all liquor outlets in the Kadirgama Divisional Secretariat starting from the 22nd of this month.
-
-🟩
-
-The annual festival of Kadirgama Kandan Temple has been launched today (06).
-
-In this backdrop, all liquor outlets belonging to the Kadirgama Divisional Secretariat will be disabled for 17 days from the 22nd of this month.
-
-◼️
-
-[Data](articles/0925ef02.json)
-
-[Extended Data](ext_articles/0925ef02.ext.json)
-
----
-
-### Establishing fresh economic and political system is essential – President
-
-*2024-07-06 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100333/establishing-fresh-economic-and-political-system-is-essential-president) · `en`
-
-President Ranil Wickremesinghe recently emphasized that as the country builds a new economy, it is crucial to establish a new political system. This system must foster individuals who can take responsibility and speak the truth fearlessly.
-
-He made these remarks during the bankers’ forum organized by the National Bankers Association at Galle Face Hotel, Colombo, yesterday (05).
-
-The President stated that he has openly communicated the economic challenges facing the country to the people and has outlined a clear program to lead the nation out of the crisis.
-
-The President emphasized that there is no alternative program for the country and that it is everyone’s responsibility to identify and support the necessary program for the country’s economy, rather than living in dream worlds.
-
-He pointed out that while some have cited Argentina’s Martin Guzman as an example, he considers Guzman a failure.
-
-...
-
-[Data](articles/ebcb674e.json)
-
-[Extended Data](ext_articles/ebcb674e.ext.json)
-
----
-
-### Badulla Railway Line for Badulla
-
-*2024-07-06 15:56:43* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ල-කොළඹ-දුම්රිය-මාර්ගය-යථා-තත්වයට/11-410632) · `si`
-
-A train from Colombo Fort to Badulla started its journey from Diyatalawa due to engine failure near Bandarawela. The incident occurred around 5:50 am at Haputale station, causing delays.
-
-🟩
-
-The Colombo Fort Railway Railway Railway Railway Railway Railway Stations will be operated from Diyatalawa railway stations in Badulla.
-
-The engine of the night-train, which was traveling from Badulla to Colombo Fort, was fulfilled on the railway line between the Bandarawela Diyatalawa railway stations.
-
-This is due to the above mentioned night mail at the Haputale Railway Station at the Haputale Railway Station this morning at 5.50 am from Colombo Fort.Nawalapitiya Railway Control Room stated that he was running.
-
-The Railway Department said that the Railway Train was commenced at 5.50 am from Badulla to Colombo to Colombo Fort today (6).
-
-◼️
-
-[Data](articles/8b4a955c.json)
-
-[Extended Data](ext_articles/8b4a955c.ext.json)
-
----
-
-### Special investigation into Milpaiya death
-
-*2024-07-06 15:52:37* · [`adalk`](https://www.ada.lk/breaking_news/මාතර--බිලිදා-මිය-යාම-සම්බන්ධයෙන්-විශේෂ-විමර්ශනයක්/11-410631) · `si`
-
-Investigation underway into Milpaiya's death after doctors were killed during transfer from Kotila to Matara District General Hospital due to lack of an emergency unit. The Secretary General and Ministry's Investigation Division are involved.
-
-🟩
-
-The borrowing hearing for treatment at Kotila, Matara, Kotila, Matara, has been instructed to move to Matara District General Hospital as there is no emergency unit in the hospital.. Doctors have also been killed when the baby was taken to the Matara General Hospital.
-
-The Secretary General of Matara District Secretarian is conducting an investigation and the Ministry's Investigation Division has launched a full investigation on the instructions of the Health Secretary.
-
-The Hon
-
-◼️
-
-[Data](articles/cbcdd32f.json)
-
-[Extended Data](ext_articles/cbcdd32f.ext.json)
-
----
-
-### Sword attack on India
-
-*2024-07-06 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198539) · `si`
-
-In a recent incident in Liyanana, the Punnabe leader advocating for Hindu rights became a target of a sword attack. Two individuals were apprehended, and the Shiv Sena leader was wounded, requiring hospitalization.
-
-🟩
-
-The Leader of the Punnabe, who appearing for the rights of Hindu citizens, has been a sword in Liyanana.
-
-Two persons have been arrested in connection with the incident and the Shiv Senene leader was injured and hospitalized.
-
-◼️
-
-[Data](articles/27faef92.json)
-
-[Extended Data](ext_articles/27faef92.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 01:19:50**
+As of **2024-07-08 01:35:09**
 
 ## Newspaper Stats
 
-*Scraped **34,127** Articles*
+*Scraped **34,128** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,052
 adaderanalk | 3,910
 tamilmirrorlk | 4,053
 dailymirrorlk | 4,733
-virakesarilk | 5,346
+virakesarilk | 5,347
 adaderanasinhalalk | 5,676
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,127 (100.0%) of 34,127 articles have been extended.
+34,127 (100.0%) of 34,128 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -35,6 +35,8 @@ Extensions include translations and NER (Named Entity Recognition).
 ### Worsening external deficit to improve fiscal deficit: Jumping from frying pan into the fire
 
 *2024-07-08 00:31:31* · [`dailyftlk`](https://www.ft.lk/columns/Worsening-external-deficit-to-improve-fiscal-deficit-Jumping-from-frying-pan-into-the-fire/4-763944) · `en`
+
+Are we taking the right measures to address the debt problem?
 
 After a disastrous handling of the economy during and in the immediate aftermath of COVID-19 in 2020 and 2021, the then President was unceremoniously (and possibly justifiably) removed from office. But is the economy on the right track since then?
 
@@ -69,6 +71,26 @@ Environmentalists rallying against a renewable energy project is odd. As they sh
 [Data](articles/901003d6.json)
 
 [Extended Data](ext_articles/901003d6.ext.json)
+
+---
+
+### சாவகச்சேரி வைத்தியசாலையில் பதற்றம் : பதில் வைத்திய அத்தியட்சகரை இரவோடு இரவாக அங்கிருந்து அகற்ற முயற்சி!
+
+*2024-07-08 00:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187932) · `ta`
+
+சாவகச்சேரி வைத்தியசாலை பதில் வைத்திய அத்தியட்சகரை இரவோடு இரவாக அங்கிருந்து அகற்றுவதற்கான முயற்சி எடுக்கப்பட்டுள்ளது.
+
+சாவகச்சேரி ஆதார வைத்தியசாலையில் பதில் மருத்துவ அத்தியட்சகராகத் கடமையாற்றும் இராமநாதன் அர்ச்சுனாவை அங்கிருந்து இடமாற்றம் செய்ய உத்தரவிடும் சுகாதார அமைச்சகத்தின் கடிதம் வழங்கப்பட்டதாகத் தெரிகிறது.
+
+இரவு 7 மணியளவில் குறித்த கடிதத்தை பதில் வைத்திய அத்தியட்சகர் இராமநாதன் அர்ச்சுனாவிடம் வழங்க முற்பட்டபோது அதனை ஏற்க மறுத்துள்ள வைத்திய அத்தியட்சகர், இது அலுவலக நேரம் அல்ல என தெரிவித்துள்ளார்.
+
+இதேவேளை வைத்தியசாலை பதில் அத்தியட்சகரை கைது செய்யும் வகையில் வைத்தியசாலையில் சாவகச்சேரி பொலிஸார் குவிக்கப்பட்டுள்ளனர்.
+
+இதேவேளை தான் மட்டுமே வைத்தியசாலையில் கடமையில் நிற்பதால் தன்னை கைது செய்து அழைத்துச் சென்றால், அந்த சமயத்தில் வைத்தியசாலையில் எதாவது உயிரிழப்பு ஏற்பட்டால் தானே பொறுப்பு என பொலிஸாரிடம் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/96194846.json)
 
 ---
 
@@ -2373,27 +2395,5 @@ Buddhism's origins in the North and East are now considered myth due to lack of 
 [Data](articles/8b272349.json)
 
 [Extended Data](ext_articles/8b272349.ext.json)
-
----
-
-### Iran became the president of Besuskian
-
-*2024-07-07 10:48:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரான்-ஜனாதிபதியானார்-பெசஸ்கியான்/50-339965) · `ta`
-
-Masood Bessevan won the Iranian presidency after securing 42.5% in the first round and 1.63 crore votes in the runoff against Syed Jaleeli, who got 38.6%. Despite not reaching the 50% threshold initially, the second phase saw Bessevan emerge victorious, set to assume office soon.
-
-🟩
-
-Iran's President Ibrahim Raisi died in a helicopter accident on June 19. The election to elect a new president was held on the 28th of last month.
-
-Former Finance Minister Masood Bessevan received 42.5 per cent votes and Syed Jaleeli 38.6 per cent.. However, according to the Iran Constitution, the winner must get at least 50 percent of the votes. As a result, the second phase of the election between Pessecian and Syed Jaleeli was held on the 5th.
-
-Of this, Bessecian received 1.63 crore votes and Jaleel 1.35 crore votes. With this, Besuskian has won the president of Iran. In this case, it has been announced that he will take office within the next month.
-
-◼️
-
-[Data](articles/ac88cf34.json)
-
-[Extended Data](ext_articles/ac88cf34.ext.json)
 
 ---

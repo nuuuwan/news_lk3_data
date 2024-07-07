@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-07 15:04:59**
+As of **2024-07-07 15:19:52**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,664
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,063 (100.0%) of 34,066 articles have been extended.
+34,066 (100.0%) of 34,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-07 (Sunday)
 
-### හෙට සහ අනිද්දා රාජ්‍ය සේවයට වෙන්න යන දේ
+### What is going to be to the public service tomorrow and tomorrow
 
 *2024-07-07 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198574) · `si`
 
-රාජ්‍ය සේවයේ වෘත්තීය සමිති 200කට අධික ප්‍රමාණයක් අසනීප නිවාඩු දමා හෙට (08) සහ අනිද්දා (09) සේවයට වාර්තා නොකිරීමට තීරණය කර තිබේ.
+Over 200 public service trade unions plan to strike on two consecutive days, with principals and teachers also taking sick leave, affecting services on July 9th.
 
-මේ අතර විදුහල්පතිවරු සහ ගුරුවරු ජූලි 09 වනදා අසනීප නිවාඩු දමා සේවයට නොපැමිණීමට තීරණය කර ඇත.
+🟩
+
+Over 200 trade unions in the public service, have decided not to report to work tomorrow (09) and tomorrow.
+
+Meanwhile, principals and teachers have decided to leave sick leave on July 9th.
 
 ◼️
 
 [Data](articles/43ade11d.json)
+
+[Extended Data](ext_articles/43ade11d.ext.json)
 
 ---
 
@@ -57,6 +63,8 @@ However, the teachers and the principals will be reporting sick only on Tuesday 
 ◼️
 
 [Data](articles/5524b2b2.json)
+
+[Extended Data](ext_articles/5524b2b2.ext.json)
 
 ---
 
@@ -77,6 +85,8 @@ At his first press conference since becoming prime minister, Starmer said that t
 ...
 
 [Data](articles/097d8dde.json)
+
+[Extended Data](ext_articles/097d8dde.ext.json)
 
 ---
 

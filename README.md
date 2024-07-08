@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 00:07:40**
+As of **2024-07-09 00:19:45**
 
 ## Newspaper Stats
 
-*Scraped **34,283** Articles*
+*Scraped **34,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,022
 dailyftlk | 2,130
 adalk | 3,077
 adaderanalk | 3,931
-tamilmirrorlk | 4,075
+tamilmirrorlk | 4,076
 dailymirrorlk | 4,733
 virakesarilk | 5,359
 adaderanasinhalalk | 5,704
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,281 (100.0%) of 34,283 articles have been extended.
+34,283 (100.0%) of 34,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### விஜய் தேவரகொண்டா இலங்கை வந்தார்
+
+*2024-07-08 23:58:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-தேவரகொண்டா-இலங்கை-வந்தார்/175-340065) · `ta`
+
+தென்னிந்திய பிரபல நடிகர் விஜய் தேவரகொண்டா படபிடிப்பிற்காக இன்று (08) இலங்கையை வந்தடைந்தார்.
+
+இந்த நிலையில், இலங்கை வந்த விஜய் தேவரகொண்டாவுக்கு பலத்த வரவேற்பு அளிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/6ff6c950.json)
+
+---
 
 ### Workers invading Colombo;Tomorrow's massive struggle
 
@@ -586,35 +600,49 @@ In the local government elections, they followed the same technique. The Secreta
 
 ---
 
-### உத்தேச உண்மை, ஒற்றுமை, நல்லிணக்க ஆணைக்குழு சட்டமூலம் தேர்தல்களுக்கு முன் பாராளுமன்றில் சமர்ப்பிக்கப்படும் சாத்தியம்
+### The proposed fact, unity and reconciliation commission bill is possible to be presented in Parliament before elections
 
 *2024-07-08 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187982) · `ta`
 
-உத்தேச உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலத்தை எதிர்வரும் ஓகஸ்ட் - செப்டெம்பர் மாதமளவில், தேர்தல்களுக்கு முன்பதாக பாராளுமன்றத்தில் சமர்ப்பிப்பதற்கு உண்மை மற்றும் நல்லிணக்கப் பொறிமுறையின் இடைக்கால செயலகம் உத்தேசித்திருப்பதாக நம்பத்தகுந்த வட்டாரங்கள் மூலம் அறியமுடிகிறது.
+The Interim Secretariat plans to present the Truth, Unity, and Reconciliation Commission Bill to Parliament in August-September, ahead of elections. Officials, including Dr. Asanga Gunawansa, have toured the country discussing the bill with intellectuals and affected communities. The bill aims to address issues faced by war victims and establish trust among affected parties.
 
-நாட்டில் உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழுவை ஸ்தாபிக்கும் பணிகள் அரசாங்கத்தினால் தீவிரமாக முன்னெடுக்கப்பட்டுவரும் நிலையில், அதற்குரிய பூர்வாங்க நடவடிக்கைகளை ஒருங்கிணைக்கும் விதமாக கலாநிதி அசங்க குணவன்ச தலைமையில் இயங்கிவரும் உண்மை மற்றும் நல்லிணக்கப் பொறிமுறையின் இடைக்கால செயலக அதிகாரிகள் கடந்த காலங்களில் வட, கிழக்கு உள்ளடங்கலாக நாட்டின் பல்வேறு பாகங்களுக்கும் விஜயம் மேற்கொண்டு பலதரப்பட்ட சந்திப்புக்களை நடத்தியிருந்தனர்.
+🟩
 
-அதுமாத்திரமன்றி தெற்கில், குறிப்பாக கொழும்பைத் தளமாகக் கொண்டு இயங்கி வரும் சிவில் சமூக அமைப்புக்களின் பிரதிநிதிகள் மற்றும் புத்திஜீவிகளை சந்தித்து உத்தேச உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலம் தொடர்பில் கலந்துரையாடல்களை முன்னெடுத்திருந்தனர்.
+It is reliable sources that the Interim Secretariat of the Truth and Reconciliation Mechanism is intended to submit the proposed fact, unity and reconciliation commission's Bill in the coming August -September, before elections.
+
+The interim secretariat officials of the Truth and Reconciliation Mechanism, headed by Dr. Asanga Gunawansa, have visited various parts of the country, including the North and East, as the government is actively carrying out the work of establishing the Truth, Unity and Reconciliation Commission in the country.
+
+In the South, in the South, especially in the Colombo -based civil society organizations, they met with the intellectuals and intellectuals and held discussions on the proposed Truth, Unity and Reconciliation Commission Bill.
 
 ...
 
 [Data](articles/91201cba.json)
 
+[Extended Data](ext_articles/91201cba.ext.json)
+
 ---
 
-### காணாமல்போனோர் பற்றிய அலுவலக செயற்பாடுகளை விரைவுபடுத்தும் நோக்கில் ஜனாதிபதி செயலாளர் தலைமையில் விசேட செயலணி
+### Special Secretariat headed by the Secretary of President
 
 *2024-07-08 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/187986) · `ta`
 
-காணாமல்போனோர் பற்றிய அலுவலகத்தின் செயற்பாடுகளை விரைவுபடுத்தவும், அதற்கு அவசியமான ஒத்துழைப்புக்களை வழங்கவுமென ஜனாதிபதி செயலாளர் தலைமையில் விசேட செயலணியொன்று ஸ்தாபிக்கப்பட்டுள்ளது.
+A special secretariat led by the President's Secretary aims to speed up the Office of the Disappeared's operations and collaborate with major institutions and NGOs like the International Red Cross. The CEO, Attorney-at-Law Jeganathan, outlines tasks including facilitating missing persons' identification, enhancing operational efficiency, and ensuring proper actions. Mahesh Katulanda, appointed as the Chairman for three years, and Ajith Thennakoon, a forensic expert, join the board. Funding allows for the resumption of excavation work, and direct meetings between the office's officers and families of the missing are planned to investigate potential matches between human remains and missing persons.
 
-இச்செயலணியில் முக்கிய அரச நிறுவனங்களும், சர்வதேச செஞ்சிலுவை சங்கம் உள்ளிட்ட அரச சார்பற்ற கட்டமைப்புக்களும் உள்ளடங்குவதாக காணாமல்போனோர் பற்றிய அலுவலகத்தின் பிரதம நிறைவேற்று அதிகாரி சட்டத்தரணி ஜெகநாதன் தற்பரன் தெரிவித்தார்.
+🟩
 
-காணாமல்போனோர் பற்றிய அலுவலகத்துக்கு அளிக்கப்பட்டுள்ள ஆணையை இலகுபடுத்தல், அதன் செயற்பாடுகளை விரைவுபடுத்தல் மற்றும் உரிய நடவடிக்கைகளை முன்னெடுப்பதற்கு அவசியமான ஒத்துழைப்புக்களை வழங்கல் உள்ளிட்ட பணிகளே இச்செயலணியின் ஊடாக மேற்கொள்ளப்படும் எனவும் அவர் விளக்கமளித்தார்.
+A special secretary has been established under the leadership of the President's Secretary to expedite the activities of the Office of the Disappeared and provide necessary cooperation.
+
+Attorney -at -Law Jeganathan, Chief Executive Officer of the Office of Missing Persons, said that the work includes major state institutions and NGOs including the International Red Cross.
+
+He also explained that the work will be carried out through the work, including the ease of the order of the missing persons, the expedition of its activities, and the necessary cooperation to carry out appropriate action.
+
+Meanwhile, Mahesh Katulanda, the Chairman of the Missing Persons, has come to an end, and has been appointed by the President as the Chairman of the Office of the Missing Persons for the next 3 years through the Constitutional Constituency.. Similarly, Ajith Thennakoon, a forensic expert, has been enrolled in the Board of Directors of the Eight Missing Persons.
 
 ...
 
 [Data](articles/eb9e4275.json)
+
+[Extended Data](ext_articles/eb9e4275.ext.json)
 
 ---
 
@@ -2263,31 +2291,5 @@ Commercial Bank voting shares were trading flat at 103.50, while non-voting shar
 [Data](articles/00bbc3ec.json)
 
 [Extended Data](ext_articles/00bbc3ec.ext.json)
-
----
-
-### Hamas chief killed
-
-*2024-07-08 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198594) · `si`
-
-Hamas's PHP killed in Israeli airstrike; 84 die in Gaza school attack. EJHB Al-Ghusssein, recently appointed to Hamas in Gaza & North Gaza, was a key figure. His death marks another loss in the ongoing conflict, where many Hamas officials have been targeted over the past 9 months.
-
-🟩
-
-International media reports that the Hamas's PHP has been killed in an air strike on the Israeli military.
-
-Israel had launched a school in Gaza, which was the eighty four who died there was EJHB AL-GHUSSEIN.
-
-He had been appointed to Hamas for three months for Hamas in Gaza and North Gaza.
-
-He said that the murder is not a cause of the humor, but he was considered an important person in Hamas administration.
-
-Over the past 9 months, a large number of Hamas administration has died due to Israeli attacks.
-
-◼️
-
-[Data](articles/efa2b545.json)
-
-[Extended Data](ext_articles/efa2b545.ext.json)
 
 ---

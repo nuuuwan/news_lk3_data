@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 17:56:12**
+As of **2024-07-08 18:14:06**
 
 ## Newspaper Stats
 
-*Scraped **34,234** Articles*
+*Scraped **34,236** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,81 @@ islandlk | 1,925
 economynextcom | 2,010
 dailyftlk | 2,130
 adalk | 3,067
-adaderanalk | 3,926
+adaderanalk | 3,927
 tamilmirrorlk | 4,069
 dailymirrorlk | 4,733
 virakesarilk | 5,351
-adaderanasinhalalk | 5,699
+adaderanasinhalalk | 5,700
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,233 (100.0%) of 34,234 articles have been extended.
+34,234 (100.0%) of 34,236 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### බදු ගහන අලුත්ම ක්ෂේත්‍ර 14 මෙන්න
+### Landslides kill 12 on Indonesia’s Sulawesi island, 18 missing
+
+*2024-07-08 17:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100377/-landslides-kill-12-on-indonesias-sulawesi-island-18-missing) · `en`
+
+At least 12 people died and 18 are missing after a torrential rain caused a landslide in an illegal gold mine over the weekend in Indonesia’s Sulawesi island, officials said on Monday.
+
+The landslide on Sunday morning in Suwawa district, Gorontalo province, killed miners and residents living near the illegal mine, said Heriyanto, head of the local rescue agency (Basarnas).
+
+Five survivors had been evacuated, he said, adding that a rescue team was searching for 18 missing people on Monday.
+
+“We have deployed 164 personnel, consisting of the national rescue team, police and military personnel, to search for the missing people,” Heriyanto said.
+
+However, rescuers must walk about 20 kms (12.43 miles) to reach the landslide site and were being hampered by thick mud over the road and continuing rain in the area, Heriyanto said.
+
+“We will try to use an excavator once it’s possible,” he said.
+
+Photos of the affected village shared by the agency showed some houses were flattened by the landslide.
+
+...
+
+[Data](articles/be732b62.json)
+
+---
+
+### ක්ලබ් වසන්තගේ අවසන් මතක සටහන
+
+*2024-07-08 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198611) · `si`
+
+අතුරුගිරිය නගරයේ සිදුවූ වෙඩි තැබීමකින් ප්‍රසිද්ධ ව්‍යාපාරිකයෙකු වන සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත සහ තවත් අයෙක් ජීවිතක්ෂයට පත්වුණි.
+
+අතුරුගිරිය නගරයේ ඔරලෝසු කනුව ආසන්නයේ රූපලාවන්‍ය ආයතනයක් විවෘත කිරීමේ උත්සවයක් අතරතුරදී වෙඩිතැබීම සිදුව තිබූ අතර, වෙඩිතැබීමට සුළු වේලාවකට පෙර ගත් ඡායාරූපයක එහි සිටි සියලුදෙනා මෙලෙස දැක්වුණි.
+
+◼️
+
+[Data](articles/e215e1d8.json)
+
+---
+
+### Here are 14 brand new fields
 
 *2024-07-08 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198610) · `si`
 
-මෙතෙක් කිසිදු සැලකිල්ලකට භාජන නොවූ ක්ෂේත්‍ර 14ක් පිළිබඳව අවධානය යොමු කර ඔවුන්ගෙන් බදු අයකර ගැනීමට කටයුතු කරන බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+State Minister Ranjith Siyambalapitiya announced plans to investigate 14 unpaid individuals, including those from various sectors like education and healthcare, following their registration for tax purposes over the past year.
 
-කෑගල්ලේ දී මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු කියා සිටියේ, ඒ ඔස්සේ ඉදිරියටත් විමර්ශන ආරම්භ කර ඇති බවය.
+🟩
 
-බදු ගෙවීම් පැහැර හැරීමට කිසිදු අයෙකුට අවස්ථාවක් ලබාදී නොමැති බවත් බදු ගෙවීම සම්බන්ධයෙන් විශේෂ අවධානයක් යොමුකළ මෙවැනි වකවානුවක් කිසිම දිනක නොමැති බව රාජ්‍ය අමාත්‍යවරයා පැවසීය.
+State Minister Ranjith Siyambalapitiya says that he will pay attention to 14 unimputers who have not been paid.
 
-"ගිය අවුරුද්දේ අපි ගේනවා ක්ෂේත්‍ර 14ක් අනිවාර්යෙන් බදු ගෙවීම ස﻿ඳහා ලියාපදිංචි විය යුතුයි කියලා. මහ පරිමාණ උපකාරක පංති, පෞද්ගලික පාසල්, පෞද්ගලික වෛද්‍ය සේවාවන් සැපැයීම, ඉංජිනේරු සේවාන්, මිනින්දොරු සේවාවන්  ඔය 14 තුළ තියෙනවා. ඒ නිසා ඒ 14 තුළින් ලියාපදිංචි වුණ සියලුදෙනාගේ ආදයම් පිළිබඳ පැහැදිලි විමර්ශනයක් දේශීය ආදයම් බදු දෙපාර්තමේන්තුව කරගෙන යනවා."
+Speaking to the media in Kegalle, he said that investigations have been started.
+
+No
+
+"In the last year, we bring in 14 fields to register for paying taxes. There are large-scale tuition classes, private schools, private medical services, Engineering Services, Survey Services in Oya 14. Therefore, the Local Income Tax department continues a clear investigation into the income of all those registered in the 14. "
 
 ◼️
 
 [Data](articles/660e118b.json)
+
+[Extended Data](ext_articles/660e118b.ext.json)
 
 ---
 
@@ -60,9 +104,9 @@ He further mentioned that a woman and a man were admitted to the Emergency Treat
 
 Dr. Bellana also said that although the wound on the woman’s leg is quite serious, her condition is now in a stable level.
 
-Popular singer K. Sujeewa and another male, who were injured in the shooting, are being treated at the Colombo National Hospital while another two wounded women are being treated at the Homagama Hospital.
+He stated that she was subjected to a three-hour-long surgery and is currently in the intensive care unit as her injury is somewhat serious.
 
-The shooting had occurred during the opening ceremony of a beauty salon near the Clock Tower in Athurugiriya. Six persons were rushed to hospital following the shooting.
+Popular singer K. Sujeewa and another male, who were injured in the shooting, are being treated at the Colombo National Hospital while another two wounded women are being treated at the Homagama Hospital.
 
 ...
 
@@ -2173,47 +2217,5 @@ Aseni: Grandpa, I have listened to the address of President Ranil Wickremesingh
 [Data](articles/3edfcc32.json)
 
 [Extended Data](ext_articles/3edfcc32.ext.json)
-
----
-
-### Worsening external deficit to improve fiscal deficit: Jumping from frying pan into the fire
-
-*2024-07-08 00:31:31* · [`dailyftlk`](https://www.ft.lk/columns/Worsening-external-deficit-to-improve-fiscal-deficit-Jumping-from-frying-pan-into-the-fire/4-763944) · `en`
-
-Are we taking the right measures to address the debt problem?
-
-After a disastrous handling of the economy during and in the immediate aftermath of COVID-19 in 2020 and 2021, the then President was unceremoniously (and possibly justifiably) removed from office. But is the economy on the right track since then?
-
-The relative stability of the economy since mid-2022 was broadly due to the following:
-
-2. Increase in rainfall in mid-2022, which eased the power cuts. As the rainfall reduced towards the end of 2022, electricity tariff was increased sharply which reduced demand.
-
-3. Halt of service of foreign debt which decreased foreign currency outflows.
-
-4. Exorbitant increase in interest rates and depreciation of currency in mid-2022 which plummeted demand for imports and eased foreign currency outflows. While interest rates have fallen sharply in recent months, Rupee has also strengthened to an extent.
-
-...
-
-[Data](articles/879c5626.json)
-
-[Extended Data](ext_articles/879c5626.ext.json)
-
----
-
-### Will environmentalists stall new 50MW Mannar wind power project?
-
-*2024-07-08 00:24:19* · [`dailyftlk`](https://www.ft.lk/columns/Will-environmentalists-stall-new-50MW-Mannar-wind-power-project/4-763942) · `en`
-
-Instead of protesting against an RE project, which will contribute to Sri Lanka’s much needed energy security and take us a step forward towards freedom from fossil fuels, why aren’t these protestors doing some real environmental work on the ground?
-
-Recently a group of environmentalists and a religious leader approached the Supreme Court against a renewable energy project to come up in the country’s north.
-
-Environmentalists rallying against a renewable energy project is odd. As they should be against fossil fuel-based projects and push for a quicker energy transition for Sri Lanka to achieve its goal to become carbon neutral by 2050.
-
-...
-
-[Data](articles/901003d6.json)
-
-[Extended Data](ext_articles/901003d6.ext.json)
 
 ---

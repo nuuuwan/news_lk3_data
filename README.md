@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 08:54:21**
+As of **2024-07-08 09:06:33**
 
 ## Newspaper Stats
 
-*Scraped **34,164** Articles*
+*Scraped **34,165** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,005
 dailyftlk | 2,130
 adalk | 3,054
 adaderanalk | 3,911
-tamilmirrorlk | 4,056
+tamilmirrorlk | 4,057
 dailymirrorlk | 4,733
 virakesarilk | 5,349
 adaderanasinhalalk | 5,679
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,162 (100.0%) of 34,164 articles have been extended.
+34,164 (100.0%) of 34,165 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,22 @@ General public is kindly requested to take adequate precautions to minimize dama
 ◼️
 
 [Data](articles/47af85a5.json)
+
+[Extended Data](ext_articles/47af85a5.ext.json)
+
+---
+
+### வைத்தியர் அர்ஜூனனுக்கு ஆதரவாக யாழில் போராட்டம் ஆரம்பம்
+
+*2024-07-08 08:22:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வைத்தியர்-அர்ஜூனனுக்கு-ஆதரவாக-யாழில்-போராட்டம்-ஆரம்பம்/71-340017) · `ta`
+
+சாவகச்சேரி வைத்தியசாலையின் முன்னேற்றத்தை வலியுறுத்தியும், வைத்திய பணிகளை உடன் வழமைக்கு திரும்ப வலியுறுத்தியும் இந்த போராட்டம் நடாத்தப்படுகின்றது.
+
+சாவகச்சேரி வைத்தியசாலையின் பதில் வைத்திய அத்தியட்சகரை பதவி நீக்கம் செய்து, கைது செய்ய முயற்சிப்பதாக நேற்றிரவு வெளியான தகவலை அடுத்து, பொதுமக்கள் வைத்தியசாலை வளாகத்தில் கூடிய நிலையில், நேற்று நள்ளிரவு அங்கு அமைதியின்மை ஏற்பட்டது.
+
+◼️
+
+[Data](articles/4221f482.json)
 
 ---
 
@@ -1258,6 +1274,8 @@ It was in the destiny of Hon. Sampanthan to be marked out for selection to high 
 
 [Data](articles/32d8a2cd.json)
 
+[Extended Data](ext_articles/32d8a2cd.ext.json)
+
 ---
 
 ### Devotees to solving the problems of the Tamil people
@@ -2287,29 +2305,5 @@ In addition, 15 people have been admitted to the hospital for treatment.. (A)
 [Data](articles/a0e15b2c.json)
 
 [Extended Data](ext_articles/a0e15b2c.ext.json)
-
----
-
-### Large-scale furnameral racket revealed
-
-*2024-07-07 13:10:09* · [`adalk`](https://www.ada.lk/breaking_news/මහා-පරිමාණ-දැවිතෙල්-ජාවාරමක-තොරතුරු-හෙළිවෙයි/11-410645) · `si`
-
-CPSLT officers seized a significant amount of furnace oil from the Kolonnawa Petroleum Terminal, destined for the Ella Petroleum Power Plant. This oil was intended for Sri Lanka's second-largest power station, but its transport was intercepted. Officials discovered irregularities during an investigation into the bowsers in Baladivel, Bopitiya, leading to arrests for theft. Further probes are ongoing.
-
-🟩
-
-Investigation Officer (CPSLT) officers have been able to capture a large scale of burial oil from the Kolonnawa Petroleum Terminal to the Ella Petroleum Power Plant.
-
-Sri Lanka's second largest electric power station is transported to the acquisition of the Sri Lankan power station towards the Bowser to the Vasani Power Plant. The Municipal administration has informed the Kolonnawa oil end of the Kolonnawa oil finishes.
-
-Accordingly, the CPSLT officials have detected the investigation into the bowsers in Baladivel in the Bopitiya, and the larger-scale furnace oil is being carried out in bowsers.
-
-According to that information, the officers who had come to the bowsers yard were arrested on the robbery. Petroleum Storage Terminals are conducting further investigations into the burdekere of the burdekera.
-
-◼️
-
-[Data](articles/76f97d41.json)
-
-[Extended Data](ext_articles/76f97d41.ext.json)
 
 ---

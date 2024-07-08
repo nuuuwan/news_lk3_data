@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 23:35:22**
+As of **2024-07-08 23:54:56**
 
 ## Newspaper Stats
 
-*Scraped **34,277** Articles*
+*Scraped **34,281** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 310
-colombotelegraphcom | 318
+colombotelegraphcom | 319
 bbccomsinhala | 335
 newsfirstlk | 363
 islandlk | 1,925
-economynextcom | 2,021
+economynextcom | 2,022
 dailyftlk | 2,130
 adalk | 3,077
 adaderanalk | 3,931
-tamilmirrorlk | 4,073
+tamilmirrorlk | 4,075
 dailymirrorlk | 4,733
 virakesarilk | 5,357
 adaderanasinhalalk | 5,704
@@ -26,11 +26,47 @@ adaderanasinhalalk | 5,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,277 (100.0%) of 34,277 articles have been extended.
+34,277 (100.0%) of 34,281 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### கொழும்புக்கு படையெடுக்கும் தொழிலாளர்கள் ; நாளை பாரிய போராட்டம்
+
+*2024-07-08 23:15:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கொழும்புக்கு-படையெடுக்கும்-தொழிலாளர்கள்-நாளை-பாரிய-போராட்டம்/76-340064) · `ta`
+
+1,700 ரூபாய் சம்பள உயர்வு கோரி கொழும்பு - பம்பலப்பிட்டி நோக்கி படையெடுக்கும் தோட்டத் தொழிலாளர்கள் பாரிய போராட்டம் ஒன்றை அங்கு நடத்தவுள்ளனர்.
+
+இந்த போராட்டம் பம்பலப்பிட்டியில் அமைந்துள்ள பெருந்தோட்ட துறைமார் சங்கத்தின் தலைமை காரியாலயத்திற்கு முன் செவ்வாய் கிழமை காலை 10 மணிக்கு இடம்பெறவுள்ளது.
+
+இதற்கான ஏற்பாடுகளை இலங்கை தொழிலாளர் காங்கிரஸ் ஒழுங்கு செய்துள்ளதாக காங்கிரஸின் தோட்ட கமிட்டி தலைவர்கள் தெரிவித்தனர்.
+
+அதேநேரத்தில் இந்த போராட்டம் 1,700 ரூபாய் சம்பள உயர்வு தொடர்பில் பெருந்தோட்ட துறைமார் சங்கத்திற்கு அழுத்தம் கொடுக்கும் வகையில் இடம்பெறவுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+அதே சமயத்தில் இந்த போராட்டத்தில் நுவரெலியா மாவட்டத்தை சேர்ந்த தோட்டத் தொழிலாளர்கள், தோட்ட கமிட்டிகள் என பலரும் கலந்து கொண்டு முன்னெடுக்கவுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/232c1df6.json)
+
+---
+
+### சாவகச்சேரி வைத்தியசாலை விவகாரம் ; டக்ளஸ் வெளியிட்ட செய்தி
+
+*2024-07-08 23:09:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சாவகச்சேரி-வைத்தியசாலை-விவகாரம்-டக்ளஸ்-வெளியிட்ட-செய்தி/71-340063) · `ta`
+
+சாவகச்சேரி வைத்தியசாலை விவகாரம் தொடர்பில் முன்னெடுக்கப்படும் நடவடிக்கைகள்,  மக்களின் எதிர்பார்ப்புகளை நிறைவேற்றும் வகையில் அமையும் என்று அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்துள்ளார்.
+
+குறித்த விடயம் தொடர்பாக சுகாதார அமைச்சர் ரமேஸ் பத்திரன மற்றும் வடக்கு மாகாண ஆளுநர் திருமதி பி.எம்.எஸ்.சார்ளஸ்  ஆகியோருடான கலந்துரையாடலில் இதனை வெளிப்படுத்தினார்.
+
+மேலும், சாவகச்சேரி ஆதார வைத்தியசாலையில் சுமூகமான சூழலை ஏற்படுத்துவதற்கு,  குறித்த வைத்தியசாலையின் பதில் வைத்திய அத்தியட்சகராக நியமிக்கப்பட்டுள்ள வைத்தியர் அர்ச்சுனா இராமநாதனுக்கு  விடுமுறையில் வழங்குவதுடன், பணிப் புறக்கணிப்பில் ஈடுபட்டுள்ள வைத்தியர்களை மீளவும் கடமைக்கு திரும்பச் செய்து வைத்தியசாலையின் செயற்பாடுகளை முதற் கட்டமாக ஆரம்பிக்கப்பட்டது.
+
+...
+
+[Data](articles/adebc555.json)
+
+---
 
 ### Information about the Athurugiriya shooting
 
@@ -490,6 +526,26 @@ The economy could be further affected by such a situation and the budget deficit
 
 ---
 
+### Sri Lanka cabinet nod for India-funded ID card project; proposal sent to Indian HC: State Min
+
+*2024-07-08 18:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-nod-for-india-funded-id-card-project-proposal-sent-to-indian-hc-state-min-171293/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has approved a revised India-funded Unique Identity Card project after several months of scrutiny and a proposal has been sent to Indian High Commission, State Technology Minister Kanaka Herath said.
+
+Technology Ministry which is handling the project has been long waiting for clearance from Public Security Ministry and the Cabinet to go ahead with the  dragged India-funded Unique ID card project.
+
+“There were some issues for the past five months and we were trying to get cabinet approval. Finally last month we got the cabinet approval and we have sent our proposal to Indian High Commission. So, we are waiting for their response,” Herath told reporters at a media briefing in Colombo on Monday (08).
+
+“I think we can go for tendering process within this month,” Herath said.
+
+An official at the Indian High Commission acknowledged that the government’s communication on the approval for revised project was received.
+
+...
+
+[Data](articles/8cf29dd2.json)
+
+---
+
 ### Attempts in democracy have been thwarted - Harshana Rajakaruna
 
 *2024-07-08 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/187969) · `ta`
@@ -655,6 +711,18 @@ No
 [Data](articles/660e118b.json)
 
 [Extended Data](ext_articles/660e118b.ext.json)
+
+---
+
+### Many Facets Of Madam Blavatsky: A Mystic? A Spy Or A Fraud?
+
+*2024-07-08 17:21:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/many-facets-of-madam-blavatsky-a-mystic-a-spy-or-a-fraud/) · `en`
+
+Madam Blavatsky’s name is not strange for Sri Lankans as one of the early stalwarts to aspire to the Buddhist resurgence in the late 19th century. In the backdrop of British-sponsored Missionary activities, her audacity to stand with the natives in a British colony illustrates her compassion for the Easterners who suffered under foreign subjugation. After the tragic end of the 1883 Kotahena riots, Blavatsky defended the Buddhists, when the colonial government tried to frame them to be the culprits. In an article she authored for “The Theosophist“, Blavatsky argued that the arrogant attitude of the Christian priests and their condescending remarks over Buddhism sparked the riots in 1883 and the following year she accompanied Col. Henry Olcott to London to report the grievances faced by the Sinhalese Buddhists to the Colonial Secretary.
+
+...
+
+[Data](articles/9cac620b.json)
 
 ---
 
@@ -2215,91 +2283,5 @@ Russia has had strong ties with India since the Cold War, and New Delhi’s impo
 [Data](articles/f21ebdb2.json)
 
 [Extended Data](ext_articles/f21ebdb2.ext.json)
-
----
-
-### 3-year-old dies after falling into fish tank
-
-*2024-07-08 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100364/3-year-old-dies-after-falling-into-fish-tank) · `en`
-
-A tragic accident has occurred in Wickrama Mawatha East, Middeniya, where a 3-year-old child has reportedly died after falling into a fish tank at home last evening (07).
-
-The child, a resident of Middeniya, had fallen into the fish tank built to raise ornamental fish in front of the house.
-
-◼️
-
-[Data](articles/4f6d448e.json)
-
-[Extended Data](ext_articles/4f6d448e.ext.json)
-
----
-
-### Sri Lanka rupee opens flat at 304.50/65 to US dollar
-
-*2024-07-08 09:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-304-50-65-to-us-dollar-171189/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened relatively flat at 304.50/65 to the US dollar on Monday, while bond yields were broadly steady, and stocks opened 0.15 percent up, dealers said.
-
-A bond maturing on 15.12.2026 was quoted stable at 10.75/85 percent.
-
-A bond maturing on 01.05.2028 was quoted at 11.85/95 percent.
-
-A bond maturing on 15.09.2029 was quoted stable at 11.95/12.05 percent.
-
-In equities, Colombo’s All Share Price Index opened 18.11 points higher at 11,965, while the S&P SL20 of more liquid stocks opened up at 0.33 percent or 11.52 points to 3,517.
-
-◼️
-
-[Data](articles/d25bfd4c.json)
-
-[Extended Data](ext_articles/d25bfd4c.ext.json)
-
----
-
-### An invitation of Putin's invitation admits
-
-*2024-07-08 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198592) · `si`
-
-Indian PM Narendra Modi is set to visit Russia for a two-day summit with President Putin, aiming to strengthen ties. Following the meeting, he'll travel to Austria.
-
-🟩
-
-Indian Prime Minister Narendra Modi is due to leave for Russia on a two-day official visit.
-
-He is due to join the 22nd Indo-Russia Annual Summit with Vladimir Putin in Moscow.
-
-It is reported that the tour will be continued to further enhance the traditional friendlyness between India and Russia.
-
-After completing the Annual Summit in Moscow, Modi is to leave for Austria, according to foreign reports.
-
-◼️
-
-[Data](articles/2d761fd4.json)
-
-[Extended Data](ext_articles/2d761fd4.ext.json)
-
----
-
-### I don't want to stay with this CID
-
-*2024-07-08 09:35:12* · [`adalk`](https://www.ada.lk/breaking_news/මට-මෙ-CID-එකෙන්-නම්-ඉන්න-දෙන්නෙම-නෑ/11-410660) · `si`
-
-Piyumi Hansuli, a model, claims her vehicle was sold a year ago and she doesn't own it anymore. She mentions issues with the Criminal Investigation Department (CID) and financial transactions involving her family and friends.
-
-🟩
-
-The Criminal Investigation Department will not be allowed to be free to be free. The famous modeling Piyumi Hansuli states that the vehicle had been sold about a year ago.
-
-"I sold in the vehicles and don't have to buy me to eat me. It 's it .It' s not .It is still my name.. Your vehicles are not sold in the middle of the kudo. I was rightly selling 100/1,000, who was right by selling 100/1,000.
-
-The Gottabaya has not been able to take a quarterly to the CID, no appa, the wife, I gave it to my older friend. I gave the money to slow down.People know.
-
-So they gave me the money to me twenty Rs. You are the truthful God. It's a catchment for a powder that has not made me unhappy. It is cursed for the hospitals to work .I '
-
-◼️
-
-[Data](articles/22067820.json)
-
-[Extended Data](ext_articles/22067820.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 17:05:00**
+As of **2024-07-08 17:20:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,698
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,228 (100.0%) of 34,231 articles have been extended.
+34,231 (100.0%) of 34,231 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -74,19 +74,27 @@ However, the 2025 Budget will consider revising public service salaries based on
 
 [Data](articles/e48d1edd.json)
 
+[Extended Data](ext_articles/e48d1edd.ext.json)
+
 ---
 
-### பொதுப் போக்குவரத்து பயணச் சீட்டுகள் கொள்வனவிற்கு இலத்திரனியல் விநியோகமுறை அறிமுகம் செய்ய நடவடிக்கை
+### Action to Introduce Electronic Distribution to Public Transport Tickets
 
 *2024-07-08 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187967) · `ta`
 
-ரயில் உள்ளிட்ட பொதுப் போக்குவரத்து  பயணச்சீட்டுகளை கொள்வனவு செய்வதற்கு இலத்திரனியல் விநியோகமுறையினை அறிமுகப்படுத்தவுள்ளதாக போக்குவரத்து மற்றும் அதிவேகவீதிகள் அமைச்சின் செயலாளர் ரஞ்சித் கங்கநாத் ரூபசிங்க தெரிவித்துள்ளார்.
+Ranjith Ganganath Rupasinghe announced the introduction of an electronic distribution system for purchasing public transport tickets, including trains, at a media briefing. This change aims to modernize ticketing processes, enhancing convenience for commuters.
 
-ஜனாதிபதி ஊடக மையத்தில் இன்று திங்கட்கிழமை  (08) இடம்பெற்ற ஊடக சந்திப்பில் கலந்துக் கொண்ட போதே அவர் இதனை தெரிவித்துள்ளார்.
+🟩
+
+Ranjith Ganganath Rupasinghe, Secretary to the Ministry of Transport and Express, said that the electronic distribution system will be introduced to purchase public transport ticket, including train.
+
+He was speaking at a media briefing held at the Presidential Media Center on Monday (08).
 
 ◼️
 
 [Data](articles/20f7c48a.json)
+
+[Extended Data](ext_articles/20f7c48a.ext.json)
 
 ---
 
@@ -158,15 +166,21 @@ Mr Zelensky, who is due to travel to the US for this week’s Nato summit in Was
 
 ---
 
-### වසන්තගේ වෙඩික්කරුවන් ආ වාහනය මහමග දමා යති
+### Wasantha's shotter's shotgungeon gone
 
 *2024-07-08 14:49:43* · [`adalk`](https://www.ada.lk/breaking_news/වසන්තගේ-වෙඩික්කරුවන්-ආ-වාහනය-මහමග-දමා-යති/11-410668) · `si`
 
-අතුරුගිරිය, ඔරුවල ප්‍රදේශයේ සිදුකළ වෙඩි වැදීමට පැමිණි බව කියන  මෝටර් රථය කොරතොට ප්‍රදේශයේ මාර්ගයක නවතා වෙඩික්කරුවන් ‌පලාගොස් ඇතිබව පොලීසිය පවසයි. වෙඩි තැබීමෙන් ක්ලබ් වසන්ත ඇතුළු දෙදෙනකු මියගොස් ඇති අතර තවත් හතර දෙනෙකු තුවාල ලබා ඇත. මෙවුන් පැමිණී වාහනය එම ස්ථානයේ දමා වෙනත් වාහනයකින් පලාගොස් ඇති බව පොලීසිය පවසයි.
+In Athurugiriya, a shooting incident occurred near the Ouwana area, where Wasantha's shooter's shotgun went off. Police intervened, stopping the shooters. Three individuals died, including Club Spring and two others, while four more were injured. The assailants escaped in a vehicle, leaving behind another one at the scene.
+
+🟩
+
+Police say that the shooting was taken to be shot from the Ouwana area in Athurugiriya stopped the shooters.. Club spring and two others were killed and four others were injured. The vehicle has fled the site and fled from another vehicle.
 
 ◼️
 
 [Data](articles/5ab68227.json)
+
+[Extended Data](ext_articles/5ab68227.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 10:35:33**
+As of **2024-07-08 10:54:06**
 
 ## Newspaper Stats
 
-*Scraped **34,178** Articles*
+*Scraped **34,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,55 +20,83 @@ adaderanalk | 3,915
 tamilmirrorlk | 4,059
 dailymirrorlk | 4,733
 virakesarilk | 5,349
-adaderanasinhalalk | 5,683
+adaderanasinhalalk | 5,684
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,174 (100.0%) of 34,178 articles have been extended.
+34,178 (100.0%) of 34,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### හමාස් ප්‍රධානියෙක් මරුට
+### ජනපතිගේ ධුර කාලය වසර 5ක් බව පැහැදිලියි - නීතිපති
+
+*2024-07-08 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198595) · `si`
+
+වත්මන් ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව ජනාධිපතිවරයාගේ නිල ධුර කාලය වසර 05 ක් බව පැහැදිලි යැයි නීතිපති ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දෙයි.
+
+ජනාධිපතිවරයාගේ නිල කාලය සම්බන්ධ පෙත්සම අද (08) කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරාල් කනිෂ්කා ද සිල්වා මහත්මිය මෙම දැනුම් දීම සිදු කළාය.
+
+අදාළ පෙත්සම නිෂ්ප්‍රභ කරන ලෙස ඉල්ලා මූලික විරෝධතා මතු කරන බවත් ඇය සඳහන් කළාය.
+
+◼️
+
+[Data](articles/c2654e67.json)
+
+---
+
+### Hamas chief killed
 
 *2024-07-08 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198594) · `si`
 
-හමාස් සංවිධානයේ ඡ්‍යේෂ්ඨ පරිපාලන නිලධාරියෙක්, ඊශ්‍රායල හමුදාව එල්ලකළ ගුවන් ප්‍රහාරයකින් ජීවිතක්ෂයට පත්ව ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+Hamas's PHP killed in Israeli airstrike; 84 die in Gaza school attack. EJHB Al-Ghusssein, recently appointed to Hamas in Gaza & North Gaza, was a key figure. His death marks another loss in the ongoing conflict, where many Hamas officials have been targeted over the past 9 months.
 
-ගාසා නගරයේ පිහිටි පාසලකට ඊශ්‍රායලය ගුවන් ප්‍රහාර එල්ලකර තිබූ අතර එහිදී මියගිය සිව් දෙනා අතර Ehab Al-Ghussein ද වූ බව සඳහන් ය.
+🟩
 
-ගාසා නගරයේ සහ උතුරු ගාසා ප්‍රදේශයේ හමාස් කටයුතු පාලනය සඳහා ඔහුව මීට මාස තුනකට පමණ පත්කර තිබුණි.
+International media reports that the Hamas's PHP has been killed in an air strike on the Israeli military.
 
-මෙම ඝාතනය හමාස් කටයුතු අඩපණ කිරීමට හේතුවක් නොවන බව පැවසෙන අතර නමුත් හමාස් පරිපාලනයේ වැදගත් පුද්ගලයෙක් ලෙස ඔහුව සැලකුණි.
+Israel had launched a school in Gaza, which was the eighty four who died there was EJHB AL-GHUSSEIN.
 
-පසුගිය මාස 9 ඇතුළත හමාස් පරිපාලනයේ විශාල පිරිසක් ඊශ්‍රායල ප්‍රහාර හේතුවෙන් මරණයට පත්වී තිබේ.
+He had been appointed to Hamas for three months for Hamas in Gaza and North Gaza.
+
+He said that the murder is not a cause of the humor, but he was considered an important person in Hamas administration.
+
+Over the past 9 months, a large number of Hamas administration has died due to Israeli attacks.
 
 ◼️
 
 [Data](articles/efa2b545.json)
 
+[Extended Data](ext_articles/efa2b545.ext.json)
+
 ---
 
-### මිත්තණියගේ ඝාතනය ට මුනුපුරාගේ තරුණ බිරිඳ අත්අඩංගුවට
+### Muturapura's youth wife arrested for graphics' murder
 
 *2024-07-08 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198593) · `si`
 
-ඇත්ගාල උලපනේ ප්‍රදේශයේදී මහලු රෝගී කාන්තාවකට තියුණු ආයුධයකින් පහර දී ඝාතනය කර තිබේ.
+In Muturapura, a young wife was arrested for allegedly murdering her husband through graphic means. Meanwhile, in Ulapa, an elderly woman was attacked with a sharp object. The victim, aged 78, lived with her grandson, his family, and faced a domestic dispute leading to her death. It was discovered that the suspect wasn't present during the incident.
 
-එලෙස ඝාතනය කර ඇත්තේ 78 හැවිරිදි උලපනේ ප්‍රදේශයේ ම පදිංචිව සිටි මහලු කාන්තාවකි.
+🟩
 
-මෙම ඝාතනයට ලක්වූ කාන්තාව ඇයගේ  මුනුපුරා, ඔහුගේ බිරිඳ සහ දරුවන් දෙදෙනා සමග එකම නිවසේ ජීවත්ව සිට තිබුණාය.
+An elderly woman was assaulted by a sharp object in Ulapa, Ulapa area.
 
-නිවසේ ඇති වූ ආරවුලක් හේතුවෙන් මුනුපුරාගේ බිරිඳ විසින් මෙම ඝාතනය සිදුකර ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+The 78-year-old was a 78-year-old old woman in Uluka.
 
-එම අවස්ථාවේ එම පුද්ගලයා නිවසේ සිට නොමැති බව පසුව අනාවරණය වී ඇත.
+The victim was living in the same house with her grandson, his wife and two children.
+
+Police investigations have revealed that the murder had committed the murder due to a dispute at home.
+
+It is later revealed that the man was not home at the time.
 
 ◼️
 
 [Data](articles/1ae095a1.json)
+
+[Extended Data](ext_articles/1ae095a1.ext.json)
 
 ---
 
@@ -85,6 +113,8 @@ Russia has had strong ties with India since the Cold War, and New Delhi’s impo
 ...
 
 [Data](articles/f21ebdb2.json)
+
+[Extended Data](ext_articles/f21ebdb2.ext.json)
 
 ---
 
@@ -1176,6 +1206,8 @@ According to the police, the article has directed a person or group of individua
 
 [Data](articles/90d9ed17.json)
 
+[Extended Data](ext_articles/90d9ed17.ext.json)
+
 ---
 
 ### Kudu hid of powder with musk
@@ -2249,31 +2281,5 @@ The students who passed the A / L students in the year 2022 will be recruited as
 [Data](articles/d0cfa6f2.json)
 
 [Extended Data](ext_articles/d0cfa6f2.ext.json)
-
----
-
-### A school student and a student who spoke on the railroad collides in train
-
-*2024-07-07 15:15:19* · [`adalk`](https://www.ada.lk/breaking_news/රේල්-පාරේ-කතා-කර-කර-ගිය-පාසල්-ශිෂ්‍යයෙක්-හා-ශිෂ්‍යාවක්-කෝච්චියේ-ගැටෙයි/11-410647) · `si`
-
-In a tragic accident, a school student and another student, who was operating the train, collided near a railway track. Both were severely injured and hospitalized. The incident involved students from two prominent schools in Ambalangoda, according to police reports.
-
-🟩
-
-A schoolcha and a student was conducting the train and hospitalized today (7) at the train, police said.
-
-The police said that the injured were a seventeen-year-old student and a student of two main schools in Ambalangoda main schools, police said.
-
-The police say that the two have been seriously injured in the school scholarship.
-
-The police said that the school was taken to the hospital along the train and was taken to the hospital.
-
-The victim and the student were present at their homes, police said.
-
-◼️
-
-[Data](articles/613ae51b.json)
-
-[Extended Data](ext_articles/613ae51b.ext.json)
 
 ---

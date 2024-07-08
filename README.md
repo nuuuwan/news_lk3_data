@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 17:35:34**
+As of **2024-07-08 17:56:12**
 
 ## Newspaper Stats
 
-*Scraped **34,233** Articles*
+*Scraped **34,234** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,926
 tamilmirrorlk | 4,069
 dailymirrorlk | 4,733
 virakesarilk | 5,351
-adaderanasinhalalk | 5,698
+adaderanasinhalalk | 5,699
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,231 (100.0%) of 34,233 articles have been extended.
+34,233 (100.0%) of 34,234 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### බදු ගහන අලුත්ම ක්ෂේත්‍ර 14 මෙන්න
+
+*2024-07-08 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198610) · `si`
+
+මෙතෙක් කිසිදු සැලකිල්ලකට භාජන නොවූ ක්ෂේත්‍ර 14ක් පිළිබඳව අවධානය යොමු කර ඔවුන්ගෙන් බදු අයකර ගැනීමට කටයුතු කරන බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+කෑගල්ලේ දී මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු කියා සිටියේ, ඒ ඔස්සේ ඉදිරියටත් විමර්ශන ආරම්භ කර ඇති බවය.
+
+බදු ගෙවීම් පැහැර හැරීමට කිසිදු අයෙකුට අවස්ථාවක් ලබාදී නොමැති බවත් බදු ගෙවීම සම්බන්ධයෙන් විශේෂ අවධානයක් යොමුකළ මෙවැනි වකවානුවක් කිසිම දිනක නොමැති බව රාජ්‍ය අමාත්‍යවරයා පැවසීය.
+
+"ගිය අවුරුද්දේ අපි ගේනවා ක්ෂේත්‍ර 14ක් අනිවාර්යෙන් බදු ගෙවීම ස﻿ඳහා ලියාපදිංචි විය යුතුයි කියලා. මහ පරිමාණ උපකාරක පංති, පෞද්ගලික පාසල්, පෞද්ගලික වෛද්‍ය සේවාවන් සැපැයීම, ඉංජිනේරු සේවාන්, මිනින්දොරු සේවාවන්  ඔය 14 තුළ තියෙනවා. ඒ නිසා ඒ 14 තුළින් ලියාපදිංචි වුණ සියලුදෙනාගේ ආදයම් පිළිබඳ පැහැදිලි විමර්ශනයක් දේශීය ආදයම් බදු දෙපාර්තමේන්තුව කරගෙන යනවා."
+
+◼️
+
+[Data](articles/660e118b.json)
+
+---
 
 ### K. Sujeewa’s condition is stable - National Hospital
 
@@ -49,6 +67,8 @@ The shooting had occurred during the opening ceremony of a beauty salon near the
 ...
 
 [Data](articles/1d1b0ac4.json)
+
+[Extended Data](ext_articles/1d1b0ac4.ext.json)
 
 ---
 
@@ -968,21 +988,27 @@ The telephone and devices have been handed over to the Prison Governor for furth
 
 ---
 
-### නොවැම්බර් 17දා වන විට පත්වන නව ජනපති අනුර කුමාරයි
+### New President Anura Kumaras appointed by November 17
 
 *2024-07-08 10:55:25* · [`adalk`](https://www.ada.lk/breaking_news/නොවැම්බර්-17දා-වන-විට-පත්වන-නව-ජනපති-අනුර-කුමාරයි/11-410663) · `si`
 
-මේ වසරේ නොවැම්බර් මස 17 දින වන විට රටේ නව ජනාධිපතිවරයෙක් පත් වන බවත්, එසේ තේරිපත් වන නව ජනාධිපතිවරයා ජාතික ජන බලවේගයේ නායක ජනාධිපති අපෙක්ෂක අනුර කුමාර දිසානායක මහතා බවට මේ රටේ ජනතාව විශ්වාස කරන බව ජාතික ජන බලවේගයේ පා.ම අචාර්ය හරිනි අමරසුරිය මහත්මිය පැවසිය.
+Anura Kumaras will be appointed as the new President of the National Power on November 17th. This decision follows a meeting where Ms. Harini Amarasuriya discussed the appointment with supporters in Nawalapitiya. The move comes despite criticism from both the government and opposition, who argue that the majority of the country does not support the national promotion.
 
-පා.ම අචාර්ය හරිනි අමරසුරිය මහත්මිය ඒ බැව් කියා සිටියේ (07) දින නාවලපිටිය මාවතුර නගරයේ පැවති බිදවැටුණු මව්බිම ගොඩනගන විසදුම යන මැයෙන් පැවැත් වු ජාතික ජන බලවේගයේ ආධාරකරුවන් සමග පැවති හමුවකදිය.
+🟩
 
-මෙහිදි වැඩිදුරටත් අදහස් දැක් වු පා.ම අචාර්ය හරිනි අමරසුරිය මහත්මිය කියා සිටියේ රටේ බහුතර ජනතාවක් ජාතින ජන බලවේගය සමග එක්රැස් වි සිටින බවත්, එම ජනතාවගේ නොමග යැවිම සදහා මේ වන විට රජය පාර්ශවයෙන් සහ විපක්ෂයෙන් විවිධ මත පල කරන බවයි.
+The National President of National Power will be appointed as the new President of the National June 17 this year.
 
-ජාතික ජන බලවේගය කරා එක්රැස් වි සිටින රටේ ජනතාව රජයෙන් සහ විපක්ෂයෙන් සිදු කරන අවලාද පිලිනොගන්නා බවත්, දිනෙන් දින ජාතික ජන බලවේගයට රටේ බහුතර ජනතාවක් එක්වෙමින් සිටින බවයි.
+Ms. Harini Amarasuriya was told by the meeting with supporters of the National Power town held in Nawalapitiya Maweli, Nawalapitiya Maweli.
+
+Speaking more
+
+The people of the country who gathered to the national folk force are not accepted by the government and opposition that the majority of the people in the country are participating in the national promo.
 
 ◼️
 
 [Data](articles/2c19a5d2.json)
+
+[Extended Data](ext_articles/2c19a5d2.ext.json)
 
 ---
 
@@ -2189,21 +2215,5 @@ Environmentalists rallying against a renewable energy project is odd. As they sh
 [Data](articles/901003d6.json)
 
 [Extended Data](ext_articles/901003d6.ext.json)
-
----
-
-### A child’s guide to debt and restructuring: Country driven to economic collapse has not many options – Part I
-
-*2024-07-08 00:10:53* · [`dailyftlk`](https://www.ft.lk/columns/A-child-s-guide-to-debt-and-restructuring-Country-driven-to-economic-collapse-has-not-many-options-Part-I/4-763940) · `en`
-
-Throughout its post-independence history, Sri Lanka has been a big consumer and a bad saver
-
-The Central Bank alone had a foreign debt obligation of $ 6 billion, converting its foreign reserves to a net negative position of $ 2.5 billion. The country should repay all its foreign debt when it will become due, not merely the central government foreign debt. It would have been better had the President spoken of the total country foreign debt position as the Head of the State without confining himself to a small fraction of the central government debt
-
-...
-
-[Data](articles/397f0bb1.json)
-
-[Extended Data](ext_articles/397f0bb1.ext.json)
 
 ---

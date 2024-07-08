@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 15:36:22**
+As of **2024-07-08 15:54:06**
 
 ## Newspaper Stats
 
-*Scraped **34,224** Articles*
+*Scraped **34,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,924
 tamilmirrorlk | 4,069
 dailymirrorlk | 4,733
 virakesarilk | 5,350
-adaderanasinhalalk | 5,695
+adaderanasinhalalk | 5,696
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,223 (100.0%) of 34,224 articles have been extended.
+34,223 (100.0%) of 34,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### කේ. සුජීවාගේ සෞඛ්‍ය තත්ත්වය ගැන අලුත්ම ආරංචිය
+
+*2024-07-08 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198607) · `si`
+
+අතුරුගිරියේ වෙඩි තැබීමෙන් පසුව කොළඹ ජාතික රෝහලට මාරු කර යැවූ දෙදෙනා මේ වනවිට දැඩි සත්කාර ඒ්කකයේ ප්‍රතිකාර ලබමින් සිටින බව කොළඹ ජාතික රෝහලේ නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය රුක්ෂාන් මහතා පවසයි.
+
+හදිසි අනතුරු අංශයට කාන්තාවක් හා පිරිමි අයෙකු ඇතුළත් කර තිබූ අතර ඔවුන් දෙදෙනාගේම ඉනෙන් පහළට තුවාල සිදුව ඇතැයි වෛද්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/056a31ea.json)
+
+---
 
 ### At least 20 dead in Russian attack on Ukraine cities
 
@@ -2223,37 +2237,5 @@ The suspect was subsequently apprehended while receiving medical treatment at th
 [Data](articles/300cccd4.json)
 
 [Extended Data](ext_articles/300cccd4.ext.json)
-
----
-
-### You too caught in this article - carefully
-
-*2024-07-07 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198586) · `si`
-
-CID investigates a suspicious letter claiming to be from the IGP, suspected of causing data theft. The letter, circulated via email and social media, bears a police seal and logo, leading to widespread concern. Authorities warn against opening links or logging in due to potential hacking threats. This follows previous cyberattacks in Bangladesh, emphasizing heightened vigilance over data security.
-
-🟩
-
-The CID has launched an investigation into a letter circulating letter saying that the IGP has been issued.
-
-The letter caused a suspicion that the letter was able to perform a massive data plunder.
-
-The social media circulated in a blue police halt with a rubber seal, with a rubber seal with a rubber seal and the police official logo.
-
-The Criminal Investigations Department commenced investigation into the false letter and the letter to the Internet.
-
-Accordingly, the article had already been forwarded by emails for many major centrals in the country and many of them.
-
-The specialty of this is to be downloaded, to print it, for printing it.
-
-Once it is downloaded, it is reported that the sentiment sent into the viral, virus protection systems and the data on relevant computers.
-
-According to the police, the article has directed a person or group of individuals with the objective of stealing data or inconvenience some parties.
-
-...
-
-[Data](articles/2847b9cb.json)
-
-[Extended Data](ext_articles/2847b9cb.ext.json)
 
 ---

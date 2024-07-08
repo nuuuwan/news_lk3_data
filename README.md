@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 06:24:05**
+As of **2024-07-08 05:37:44**
 
 ## Newspaper Stats
 
-*Scraped **34,152** Articles*
+*Scraped **34,150** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 309
 colombotelegraphcom | 313
 bbccomsinhala | 334
 newsfirstlk | 363
-islandlk | 1,925
+islandlk | 1,923
 economynextcom | 2,005
 dailyftlk | 2,130
 adalk | 3,052
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,149 (100.0%) of 34,152 articles have been extended.
+34,141 (100.0%) of 34,150 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,8 +43,6 @@ The Best Bank award was presented to Commercial Bank at the FinanceAsia Country 
 ...
 
 [Data](articles/66927415.json)
-
-[Extended Data](ext_articles/66927415.ext.json)
 
 ---
 
@@ -64,8 +62,6 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/739be08f.json)
 
-[Extended Data](ext_articles/739be08f.ext.json)
-
 ---
 
 ### Apollo Hospitals India announces 1305 Helpline in Sri Lanka
@@ -81,8 +77,6 @@ Co-Chief Guest Education Minister Dr. Susil Premajayantha stated at the event th
 ...
 
 [Data](articles/bdaa004a.json)
-
-[Extended Data](ext_articles/bdaa004a.ext.json)
 
 ---
 
@@ -100,22 +94,6 @@ The company’s core financial services include personal financial services, bus
 
 [Data](articles/16546ec3.json)
 
-[Extended Data](ext_articles/16546ec3.ext.json)
-
----
-
-### Clogard revives Mobile Dental Clinic programme for children in the North
-
-*2024-07-08 04:41:00* · [`islandlk`](http://island.lk/clogard-revives-mobile-dental-clinic-programme-for-children-in-the-north/) · `en`
-
-Clogard, one of the nation’s most trusted oral care brands from Hemas Consumer Brands have partnered with the Medical Officer of Health (MOH), on its continuous mission to educate school children about good oral hygiene to build a cavity-free nation. This programme has been conducted for over 10 years and it is a testament to Clogard’s unwavering commitment to providing children across Sri Lanka with access to good oral care, to ensure that they all have an opportunity to maintain a healthy smile.
-
-The programme consists of a robust curriculum on good oral hygiene practices, directory conducted by MOH doctors. The educational outreach is vital for instilling lifelong healthy habits in children. Additionally, the programme also offers free dental screenings for all primary school children. Those requiring further investigation are promptly referred to the MOH for additional care, ensuring that no child is left out.
-
-...
-
-[Data](articles/65d9e0f6.json)
-
 ---
 
 ### DIMO recognised for Environmental Stewardship at Presidential Environment Awards 2024
@@ -132,8 +110,6 @@ This facility generates power through the solar panels and established effluent 
 
 [Data](articles/938bfc5a.json)
 
-[Extended Data](ext_articles/938bfc5a.ext.json)
-
 ---
 
 ### Sanasa Life Insurance PLC appoints Puvendran Gajendra as new chairman
@@ -145,8 +121,6 @@ Sanasa Life Insurance PLC has appointed Puvendran Gajendra as their new Chairman
 ...
 
 [Data](articles/b0da8155.json)
-
-[Extended Data](ext_articles/b0da8155.ext.json)
 
 ---
 
@@ -163,8 +137,6 @@ The DPMC Workshop network, spread across the island, is dedicated to vehicle ser
 ...
 
 [Data](articles/f9fb8826.json)
-
-[Extended Data](ext_articles/f9fb8826.ext.json)
 
 ---
 
@@ -2311,5 +2283,23 @@ It has been officially confirmed that 465 people have gone to Russia and 17 have
 [Data](articles/847ae51a.json)
 
 [Extended Data](ext_articles/847ae51a.ext.json)
+
+---
+
+### Mahinda leaves Ranil?
+
+*2024-07-07 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/187887) · `ta`
+
+Mahinda Rajapaksa, after visiting China, returns with a resolution to run as the presidential candidate of the PA, likely announcing this in early July. This move suggests it wouldn't have been possible without his consent.
+
+🟩
+
+It is worth noting that Mahinda Rajapaksa, who made an official visit to China the day when President Ranil addressed the people, has returned to the country with a resolution.. At the press conference, he said that he was the presidential candidate of the PA, and that Mahinda would announce it by his mouth for the first week of July.. Such a notification could not be made without Mahinda's permission.
+
+◼️
+
+[Data](articles/5a97445e.json)
+
+[Extended Data](ext_articles/5a97445e.ext.json)
 
 ---

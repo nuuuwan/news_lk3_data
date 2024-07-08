@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 00:35:08**
+As of **2024-07-09 00:51:01**
 
 ## Newspaper Stats
 
@@ -26,45 +26,65 @@ adaderanasinhalalk | 5,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,284 (100.0%) of 34,286 articles have been extended.
+34,286 (100.0%) of 34,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### சாவகச்சேரி ஆதார வைத்தியசாலை விவகாரம் : மக்களின் எதிர்பார்ப்புகளை நிறைவேற்றும் வகையில் அமைய வேண்டும் - அமைச்சர் டக்ளஸ் தேவானந்தா
+### Chavakachcheri Resource Hospital issue: Minister Douglas Devananda
 
 *2024-07-09 00:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187994) · `ta`
 
-சாவகச்சேரி ஆதார வைத்தியசாலை விவகாரம் தொடர்பில் முன்னெடுக்கப்படும் நடவடிக்கைகள், மக்களின் எதிர்பார்ப்புகளை நிறைவேற்றும் வகையில் அமையும் என்று கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்துள்ளார்.
+Minister Douglas Devananda, along with Health Minister Rames Pathirana and Northern Province Governor Mrs. PMS Charles, discussed improvements for Chavakachcheri Base Hospital. They plan to address public expectations and investigate issues, including a work boycott by doctors. The hospital staff will receive a holiday to facilitate smoother operations.
 
-குறித்த விடயம் தொடர்பாக சுகாதார அமைச்சர் ரமேஸ் பத்திரன மற்றும் வடக்கு மாகாண ஆளுநர் திருமதி பி.எம்.எஸ்.சார்ளஸ் ஆகியோருடான கலந்துரையாடலில் இதனை வெளிப்படுத்தினார்.
+🟩
 
-மேலும், சாவகச்சேரி ஆதார வைத்தியசாலையில் சுமூகமான சூழலை ஏற்படுத்துவதற்கு, குறித்த வைத்தியசாலையின் பதில் வைத்திய அத்தியட்சகராக நியமிக்கப்பட்டுள்ள வைத்தியர் அர்ச்சுனா இராமநாதனுக்கு விடுமுறை வழங்குவதுடன், பணிப் புறக்கணிப்பில் ஈடுபட்டுள்ள வைத்தியர்களை மீளவும் கடமைக்கு திரும்பச் செய்து வைத்தியசாலையின் செயற்பாடுகளை முதற் கட்டமாக ஆரம்பிப்பது.
+Fisheries Minister Douglas Devananda has said that the steps to be carried out in the Chavakachcheri Base Hospital will be met with the expectations of the people.
 
-...
+He was speaking at a discussion with Health Minister Rames Pathirana and Governor of the Northern Province Mrs. PMS Charles.
+
+In addition, the hospital's response to the hospital's response to the hospital's response to the hospital is to be given a holiday to the hospital to create a smooth environment at the Chavakachcheri Resource Hospital and to return to the doctors who have been involved in the work boycott.
+
+Subsequently, Minister Douglas Devananda was informed that a detailed inquiry into the defects in the hospital, the reason for the long -term remedy of the hospital, and the allegations leveled at the doctor's archana.
+
+◼️
 
 [Data](articles/63b0cfd2.json)
 
+[Extended Data](ext_articles/63b0cfd2.ext.json)
+
 ---
 
-### நோயாளிகளை  விட்டு ஓடிய வைத்தியர்கள் தமது பிள்ளைக்கு என்றால் செல்வார்களா? - போராட்டத்தில் ஈடுபட்ட பெண் கேள்வி
+### Do the doctors who fled the patients go to their child?- The question of the woman involved in the struggle
 
 *2024-07-09 00:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187993) · `ta`
 
-சாவகச்சேரி ஆதார வைத்தியசாலையின் அவசர சிகிச்சை விடுதியில் அனுமதிக்கப்பட்ட நோயாளர்களை கருத்தில் கொள்ளாது தமது சுகபோகங்களை அனுபவிப்பதற்காக வைத்தியசாலையை விட்டு ஓடிச் சென்ற வைத்தியர்களை எவ்வாறு மக்கள் நம்புவது என போராட்டத்தில் ஈடுபட்ட பெண் ஒருவர் கேள்வி எழுப்பினார்.
+A woman protests doctors' absence at Chavakachcheri Resource Hospital, questioning their priorities and impact on patient care. She highlights the issue of doctors not consistently attending to their duties, affecting the trust and well-being of patients, especially in emergencies.
 
-திங்கட்கிழமை (08) சாவச்சேரி ஆதார  வைத்தியசாலையின் பொறுப்பு வைத்தியர் அர்ச்சுனாவை மாற்றக்கூடாது மற்றும் வைத்தியசாலையின் செயற்பாடுகளை மீள ஆரம்பிக்குமாறு கோரி கவனயீர்ப்பு போராட்டம் இடம்பெற்றது.
+🟩
 
-இந்த போராட்டத்தில் கலந்து கொண்ட பெண் ஒருவர், தமது சிறிய வயது காலத்தில் இருந்து இந்த வைத்தியசாலையை பயன்படுத்தி வருகிறோம்.
+A struggle woman questioned how people trust the doctors who had run away from the hospital to enjoy their pleasures without considering the patients admitted to the Emergency Hospital of Chavakachcheri Resource Hospital.
 
-இங்கு வைத்தியர்கள் சுமார் 20 க்கும் மேற்பட்டவர்கள் இருப்பது தற்போதைய வைத்தியர் அர்சுனா வெளிப்படுத்தியதன் மூலம் நாம் அறிந்து கொண்டோம்.
+On Monday (08), the responsible doctor of the Chavacherry Resource Hospital should not be replaced by Archana and demanding the resurgence of the hospital's activities.
 
-நாங்கள் சிகிச்சைக்கு வரும்போது வைத்தியர் இல்லை என பலமுறை திரும்பிச் சென்றிருக்கின்றோம் ஆனால் இங்கு இருபதுக்கும் மேற்பட்ட வைத்தியர்கள் இருக்கும் விடயம் தற்போது தான் எமது மக்களுக்கு தெரியவந்தது.
+A woman who participated in the protest has been using this hospital since her young age.
+
+We have learned that the doctors here are over 20 by the present Dr. Arsuna.
+
+We have gone back many times when we are being treated, but there are more than twenty doctors here.
+
+It has come to light that many doctors who work here do not come to the hospital.
+
+While some doctors who work at the hospital are serving the medical field for God, some people are confused and brought under their agenda.
+
+I know that doctors have gone to the hospital for the past three days.
 
 ...
 
 [Data](articles/3b1a5459.json)
+
+[Extended Data](ext_articles/3b1a5459.ext.json)
 
 ---
 

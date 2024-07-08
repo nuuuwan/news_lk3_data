@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 16:19:38**
+As of **2024-07-08 16:35:35**
 
 ## Newspaper Stats
 
-*Scraped **34,226** Articles*
+*Scraped **34,227** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,924
 tamilmirrorlk | 4,069
 dailymirrorlk | 4,733
 virakesarilk | 5,350
-adaderanasinhalalk | 5,696
+adaderanasinhalalk | 5,697
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,226 (100.0%) of 34,226 articles have been extended.
+34,226 (100.0%) of 34,227 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### රාජ්‍ය සේවක වැටුප් සංශෝධනය ගැන රජයෙන් තීරණයක්
+
+*2024-07-08 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198608) · `si`
+
+වර්ජනයේ නිරත රාජ්‍ය සේවකයින් ඉල්ලා සිටින වැටුප් වැඩිකිරීම ලබාදීමට කටයුතු කළහොත්, දැනට පනවා තිබෙන 18%ක්ව පවතින වැට් බද්ද 20% - 21%ත් අතර අගයකට ඉහළ නැංවීමට සිදුවනු ඇති බව භාණ්ඩාගාර ලේකම් මහින්ද සිරිවර්ධන මහතා පවසයි.
+
+එමෙන්ම මහජනතාව පීඩාවට පත් කරමින් එවැනි ඉල්ලීමක් සපුරාලීමට රජයට හැකියාවක් නොමැති බව ද ඒ මහතා කියා සිටියේය.
+
+රාජ්‍ය සේවයේ වෘත්තීය සමිති විසින් ඉදිරිපත් කර ඇති ඉල්ලීම් සම්බන්ධව ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ජනාධිපති කාර්යාලයේදී අද (08) පැවති සාකච්ඡාවේදී ඒ මහතා මේ බව සඳහන් කර තිබේ.
+
+පවතින අයවැය ප්‍රතිපාදන මත මෙම වසරේදී වැටුප් වැඩිකිරීමක් ලබාදීමේ හැකියාවක් නොමැති බවත්, රාජ්‍ය සේවයේ පවතින වැටුප් විෂමතාවන් පිළිබඳව සොයාබැලීම සඳහා පත් කළ විශේෂඥ කමිටුව මඟින් ඉදිරිපත් කරනු ලබන නිර්දේශ සැලකිල්ලට ගනිමින් 2025 වසර සඳහා ඉදිරිපත් කිරීමට නියමිත අයවැයෙන් රාජ්‍ය සේවයේ වැටුප් සංශෝධනයක් සිදුකිරීමට බලාපොරොත්තු වන බවත් භාණ්ඩාගාර ලේකම් මෙහිදී අවධාරණය කර ඇත.
+
+◼️
+
+[Data](articles/abca8f23.json)
+
+---
 
 ### K. The latest news about Sujeewa's health condition
 
@@ -2217,31 +2235,5 @@ It is noteworthy that the public has been making a series of complaints over the
 [Data](articles/8c885f83.json)
 
 [Extended Data](ext_articles/8c885f83.ext.json)
-
----
-
-### Sampanthan and I worked for the solution
-
-*2024-07-07 21:52:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீர்வுகாண்பதற்கு-சம்பந்தனும்-நானும்-பணியாற்றினோம்/175-340004) · `ta`
-
-At President Ranil Wickremesinghe's speech during Sampanthan's funeral, he highlighted Sampanthan's leadership for Tamil rights and dedication to Sri Lanka's unity. He urged unity to advance discussions aimed at resolving Tamil issues, including the National Land Commission draft. Wickremesinghe mourned Sampanthan's death as a loss of a long-time friend and praised his efforts towards solving Tamil problems and his role as a true opposition leader. Despite ongoing legal challenges, the President assured that presidential, parliamentary, and provincial council elections would proceed as planned.
-
-🟩
-
-The late r. President Ranil Wickremesinghe said that Sampanthan was the leader of the entire Sri Lankan people for the rights of the Tamil people and that Sampanthan was dedicated to Sri Lanka that he was always divided.
-
-R. The President also stated that everyone should unite to successfully complete the discussions that have been brought forward with the agreement with Sambandan.
-
-President Ranil Wickremesinghe made this statement while attending the funeral of Sambandan at the Annaru residence in Trincomalee this afternoon.
-
-Former Opposition Leader and former TNA leader and Trincomalee district parliamentarian. The funeral of Sampanthan was held this afternoon with a large number of people, including the ruling and opposition political leaders, ministers, parliamentarians and party leaders.
-
-R. The President expressed his deepest condolences to Sampanthan's death and said that his death was a loss of a long -time friend.
-
-...
-
-[Data](articles/4d702270.json)
-
-[Extended Data](ext_articles/4d702270.ext.json)
 
 ---

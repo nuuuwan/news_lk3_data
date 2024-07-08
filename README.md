@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 04:53:36**
+As of **2024-07-09 05:05:02**
 
 ## Newspaper Stats
 
-*Scraped **34,290** Articles*
+*Scraped **34,295** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 335
 newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,022
-dailyftlk | 2,130
+dailyftlk | 2,135
 adalk | 3,077
 adaderanalk | 3,931
 tamilmirrorlk | 4,076
@@ -26,11 +26,101 @@ adaderanasinhalalk | 5,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,290 (100.0%) of 34,290 articles have been extended.
+34,290 (100.0%) of 34,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### Foreign Affairs Ministry clarifies on Sri Lanka’s continental shelf submissions
+
+*2024-07-09 04:54:26* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Affairs-Ministry-clarifies-on-Sri-Lanka-s-continental-shelf-submissions/56-764004) · `en`
+
+Foreign Affairs Ministry yesterday said Sri Lanka’s continental shelf submission to the United Nations Commission on the Limits of the Continental Shelf (UNCLCS) in New York as well as to matters related to the International Seabed Authority (ISBA) in Jamaica on exploration of the cobalt-rich crust in the “Afanasy Nikitin Seamount” are both under process before the two respective global bodies.
+
+Following several media reports relating to Sri Lanka’s continental shelf submission to the UNCLCS in New York as well as to matters related to the ISBA in Jamaica on exploration of the cobalt-rich crust in the “Afanasy Nikitin Seamount” the Foreign Affairs Ministry issued the following statement.
+
+...
+
+[Data](articles/790dc723.json)
+
+---
+
+### Sri Lankan Ambassador to Saudi Arabia initiates felicitation of long-serving migrant workers
+
+*2024-07-09 04:54:01* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-Ambassador-to-Saudi-Arabia-initiates-felicitation-of-long-serving-migrant-workers/56-764003) · `en`
+
+Sri Lankan Ambassador to Saudi Arabia Ameer Ajwad has initiated a tradition of recognising and felicitating long-serving Sri Lankan migrant workers in the Kingdom of Saudi Arabia.
+
+Chandralal Senadhira, who has served as a senior manager at the Saudi Almarai multinational dairy company for more than 30 years and is leaving Saudi Arabia for good, was felicitated and presented a memento by Ambassador Ajwad during a brief event hosted by the Embassy of Sri Lanka in Riyadh.
+
+Speaking at the occasion, Ambassador Ajwad stated that Sri Lankan migrant workers form part of the bilateral relations between Sri Lanka and Saudi Arabia and that they make significant contributions in different fields to the development of the host country as well as to the economy of the home country by sending remittances. The Embassy has initiated this tradition to recognise their constructive contributions to the relations between the two countries.
+
+...
+
+[Data](articles/48cb67fb.json)
+
+---
+
+### Supreme Court dismisses petition to delay Presidential Election
+
+*2024-07-09 04:52:16* · [`dailyftlk`](https://www.ft.lk/news/Supreme-Court-dismisses-petition-to-delay-Presidential-Election/56-764002) · `en`
+
+SC affirms constitution clearly states a five-year presidential term, which the Attorney General emphasised during yesterday’s proceedings
+
+Counsel for intervening party MP Wimal Weerawansa argues that the 2019 gazette specifying President’s tenure as five years undermines petitioner’s claims
+
+Highlights that majority of voters in 2019 understood and accepted five-year Presidential term as per 19A
+
+SJB MP Mujibur Rahman praises court decision, suggesting it countered efforts by the President and Govt. to delay elections
+
+Sri Lanka’s Supreme Court dismissed a petition yesterday seeking to postpone the upcoming presidential election. The petitioner, entrepreneur C.D. Lenawa argued that the court needed to determine the President’s term length before the election could proceed.
+
+...
+
+[Data](articles/2f2dd9ba.json)
+
+---
+
+### Asgiriya Chief Prelate warns delaying polls could lead to national turmoil
+
+*2024-07-09 04:50:57* · [`dailyftlk`](https://www.ft.lk/news/Asgiriya-Chief-Prelate-warns-delaying-polls-could-lead-to-national-turmoil/56-764001) · `en`
+
+Mahanayake of the Asgiriya Chapter, Warak-agoda Sri Gnanarathana Thera, has warned that any attempt to change the election dates may lead to turmoil in the country.
+
+The Thera expressed these concerns during a conversation with Freedom People’s Congress (FPC) member and Parliamentarian Prof. G.L. Peiris, who visited the Asgiriya Vihara yesterday.
+
+He also emphasised that there is no need to postpone the elections.
+
+Peiris also pointed out to the Thera that according to the Constitution, the President’s term of office is unequivocally five years, a principle affirmed by the Supreme Court in two prior rulings.
+
+He also emphasised that the Government should allow the Election Commission to fulfil its role at this time.
+
+Speaking to those gathered, the Registrar of the Asgiriya chapter, Medagama Dhammananda Thera expressed concern that politicians frequently instigate multiple crises, causing people to endure immense pressure and live in despair.
+
+...
+
+[Data](articles/df9fa05f.json)
+
+---
+
+### Police confirm Club Wasantha was main target in Athurugiriya shooting
+
+*2024-07-09 04:45:16* · [`dailyftlk`](https://www.ft.lk/news/Police-confirm-Club-Wasantha-was-main-target-in-Athurugiriya-shooting/56-764000) · `en`
+
+Two gunmen open fire at tattoo and piercing studio opening killing Sunhill Group of Companies Chairperson Surendra Wasantha Perera and another, injuring 4 others
+
+Similar shooting had taken place at same location on 13 February 2017 killing underworld figure Tanil Bandara Dharmashri
+
+Sunhill Group of Companies Chairperson Surendra Wasantha Perera, better known as “Club Wasantha” was shot dead by two unidentified gunmen in Oruwala, Athurugiriya yesterday.
+
+According to the police, the incident resulted in the death of another male and left a male and three females, including the popular singer K. Sujeewa and Surendra Wasantha Perera’s wife Manik Wijesundara, seriously injured.
+
+...
+
+[Data](articles/08d9bd90.json)
+
+---
 
 ### The issues in the teachings of the Buddha are present in the world today as new ideas - the President
 
@@ -2195,115 +2285,5 @@ In recent times, President Sirisena granted two pardons – one within six month
 [Data](articles/3c14ff01.json)
 
 [Extended Data](ext_articles/3c14ff01.ext.json)
-
----
-
-### Club 'spring dies
-
-*2024-07-08 11:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198597) · `si`
-
-A shooting at Club Wasantha in Athurugiriya resulted in four injuries, including singer K. Sujeewa, and one fatality, leading them to Homagama Hospital.
-
-🟩
-
-Four injured were rushed to the Homagama Hospital with a shooting in the Athurugiriya.
-
-There "Club Wasantha" has died and a singer K. Sujeewa has been injured.
-
-◼️
-
-[Data](articles/46937784.json)
-
-[Extended Data](ext_articles/46937784.ext.json)
-
----
-
-### Telephone and accessories found from the Boossa High Security Prison
-
-*2024-07-08 11:04:21* · [`adalk`](https://www.ada.lk/breaking_news/බූස්ස-අධිආරක්ෂිත-බන්ධනාගාරයෙන්-සොයාගත්-දුරකථන-හා-උපාංග/11-410664) · `si`
-
-Three Special Task Force officials were arrested with three modern mobile phones and accessories hidden in cement and cymbals at the Boossa High Security Prison. The items have been turned over to the Prison Governor for investigation.
-
-🟩
-
-Special Task Force officials were arrested yesterday (7) with three modern mobile phones and telephone accessories in the Boossa High Security Prison.
-
-The Police Special Task Force says that the following three mobile phones and mobile phones were found in cement and cymbils in the surface of the prison.
-
-The telephone and devices have been handed over to the Prison Governor for further investigations.
-
-◼️
-
-[Data](articles/b7c61bb8.json)
-
-[Extended Data](ext_articles/b7c61bb8.ext.json)
-
----
-
-### New President Anura Kumaras appointed by November 17
-
-*2024-07-08 10:55:25* · [`adalk`](https://www.ada.lk/breaking_news/නොවැම්බර්-17දා-වන-විට-පත්වන-නව-ජනපති-අනුර-කුමාරයි/11-410663) · `si`
-
-Anura Kumaras will be appointed as the new President of the National Power on November 17th. This decision follows a meeting where Ms. Harini Amarasuriya discussed the appointment with supporters in Nawalapitiya. The move comes despite criticism from both the government and opposition, who argue that the majority of the country does not support the national promotion.
-
-🟩
-
-The National President of National Power will be appointed as the new President of the National June 17 this year.
-
-Ms. Harini Amarasuriya was told by the meeting with supporters of the National Power town held in Nawalapitiya Maweli, Nawalapitiya Maweli.
-
-Speaking more
-
-The people of the country who gathered to the national folk force are not accepted by the government and opposition that the majority of the people in the country are participating in the national promo.
-
-◼️
-
-[Data](articles/2c19a5d2.json)
-
-[Extended Data](ext_articles/2c19a5d2.ext.json)
-
----
-
-### Presidential Election - President
-
-*2024-07-08 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198596) · `si`
-
-President Ranil Wickremesinghe confirms the presidential election will proceed this year, regardless of any legal challenges. However, he states the Provincial Council elections will adhere to the old scheme. This announcement was made during his visit to the Trincomalee region.
-
-🟩
-
-President Ranil Wickremesinghe says the presidential election will be held in the first year.
-
-The President has said that the presidential election will be held this year even if anyone visits the court.
-
-However, the President said that the Provincial Council election will be held under the Old Scheme.
-
-Late Opposition Leader as well as the Leader of the TNA. President Ranil Wickremesinghe was speaking at the Trincomalee area and participating in the incident.
-
-◼️
-
-[Data](articles/f5137c52.json)
-
-[Extended Data](ext_articles/f5137c52.ext.json)
-
----
-
-### South Asian collective urges action on high levels of sexual violence in the region
-
-*2024-07-08 10:47:00* · [`economynextcom`](https://economynext.com/south-asian-collective-urges-action-on-high-levels-of-sexual-violence-in-the-region-171201/) · `en`
-
-ECONOMYNEXT – A coalition of civil society organisations comprising representatives from Bangladesh, India, the Maldives, Nepal, and Sri Lanka is are urging South Asian countries to take immediate action on high levels of sexual violence and low conviction rates.
-
-The South Asian Movement for Accessing Justice (SAMAJ) is advocating for “comprehensive legal reforms to close protection gaps in sexual violence laws, address flaws in criminal justice systems, and invest in holistic support services for survivors.”
-
-“These reforms are crucial to providing women and girls with better protection and ending widespread impunity for perpetrators,” SAMAJ said in a statement.
-
-“Many sexual violence laws in the region suffer from inadequate legal definitions that fail to encompass the full spectrum of sexual violence. Some penal codes contain provisions that discriminate against women and girls, and poor enforcement of laws further contributes to abuses going unpunished.”
-
-...
-
-[Data](articles/1bfac52b.json)
-
-[Extended Data](ext_articles/1bfac52b.ext.json)
 
 ---

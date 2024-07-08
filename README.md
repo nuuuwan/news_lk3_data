@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 05:37:44**
+As of **2024-07-08 07:01:31**
 
 ## Newspaper Stats
 
-*Scraped **34,150** Articles*
+*Scraped **34,153** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 309
 colombotelegraphcom | 313
 bbccomsinhala | 334
 newsfirstlk | 363
-islandlk | 1,923
+islandlk | 1,925
 economynextcom | 2,005
 dailyftlk | 2,130
 adalk | 3,052
@@ -20,17 +20,37 @@ adaderanalk | 3,910
 tamilmirrorlk | 4,053
 dailymirrorlk | 4,733
 virakesarilk | 5,349
-adaderanasinhalalk | 5,676
+adaderanasinhalalk | 5,677
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,141 (100.0%) of 34,150 articles have been extended.
+34,152 (100.0%) of 34,153 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### පවතින වැසි තත්ත්වය ඉදිරි දින කිහිපයෙත්
+
+*2024-07-08 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198587) · `si`
+
+දිවයිනේ නිරිත දිග කොටසේ පවතින වැසි තත්ත්වය ඉදිරි දින කිහිපයේ දී තවදුරටත් බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින්විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/30958940.json)
+
+---
 
 ### ComBank adjudged Best Bank in Sri Lanka for 13th year by FinanceAsia
 
@@ -43,6 +63,8 @@ The Best Bank award was presented to Commercial Bank at the FinanceAsia Country 
 ...
 
 [Data](articles/66927415.json)
+
+[Extended Data](ext_articles/66927415.ext.json)
 
 ---
 
@@ -62,6 +84,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/739be08f.json)
 
+[Extended Data](ext_articles/739be08f.ext.json)
+
 ---
 
 ### Apollo Hospitals India announces 1305 Helpline in Sri Lanka
@@ -77,6 +101,8 @@ Co-Chief Guest Education Minister Dr. Susil Premajayantha stated at the event th
 ...
 
 [Data](articles/bdaa004a.json)
+
+[Extended Data](ext_articles/bdaa004a.ext.json)
 
 ---
 
@@ -94,6 +120,24 @@ The company’s core financial services include personal financial services, bus
 
 [Data](articles/16546ec3.json)
 
+[Extended Data](ext_articles/16546ec3.ext.json)
+
+---
+
+### Clogard revives Mobile Dental Clinic programme for children in the North
+
+*2024-07-08 04:41:00* · [`islandlk`](http://island.lk/clogard-revives-mobile-dental-clinic-programme-for-children-in-the-north/) · `en`
+
+Clogard, one of the nation’s most trusted oral care brands from Hemas Consumer Brands have partnered with the Medical Officer of Health (MOH), on its continuous mission to educate school children about good oral hygiene to build a cavity-free nation. This programme has been conducted for over 10 years and it is a testament to Clogard’s unwavering commitment to providing children across Sri Lanka with access to good oral care, to ensure that they all have an opportunity to maintain a healthy smile.
+
+The programme consists of a robust curriculum on good oral hygiene practices, directory conducted by MOH doctors. The educational outreach is vital for instilling lifelong healthy habits in children. Additionally, the programme also offers free dental screenings for all primary school children. Those requiring further investigation are promptly referred to the MOH for additional care, ensuring that no child is left out.
+
+...
+
+[Data](articles/65d9e0f6.json)
+
+[Extended Data](ext_articles/65d9e0f6.ext.json)
+
 ---
 
 ### DIMO recognised for Environmental Stewardship at Presidential Environment Awards 2024
@@ -110,6 +154,8 @@ This facility generates power through the solar panels and established effluent 
 
 [Data](articles/938bfc5a.json)
 
+[Extended Data](ext_articles/938bfc5a.ext.json)
+
 ---
 
 ### Sanasa Life Insurance PLC appoints Puvendran Gajendra as new chairman
@@ -121,6 +167,8 @@ Sanasa Life Insurance PLC has appointed Puvendran Gajendra as their new Chairman
 ...
 
 [Data](articles/b0da8155.json)
+
+[Extended Data](ext_articles/b0da8155.ext.json)
 
 ---
 
@@ -137,6 +185,8 @@ The DPMC Workshop network, spread across the island, is dedicated to vehicle ser
 ...
 
 [Data](articles/f9fb8826.json)
+
+[Extended Data](ext_articles/f9fb8826.ext.json)
 
 ---
 
@@ -2265,41 +2315,5 @@ It has been officially confirmed that 465 people have gone to Russia and 17 have
 [Data](articles/dd818e70.json)
 
 [Extended Data](ext_articles/dd818e70.ext.json)
-
----
-
-### The facts that are hidden
-
-*2024-07-07 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/187888) · `ta`
-
-"The government claims transparency on debt issues, yet many truths remain undisclosed."
-
-🟩
-
-“The government says it is speaking the facts on the issue of debt, but it seeks to cover up many facts”
-
-◼️
-
-[Data](articles/847ae51a.json)
-
-[Extended Data](ext_articles/847ae51a.ext.json)
-
----
-
-### Mahinda leaves Ranil?
-
-*2024-07-07 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/187887) · `ta`
-
-Mahinda Rajapaksa, after visiting China, returns with a resolution to run as the presidential candidate of the PA, likely announcing this in early July. This move suggests it wouldn't have been possible without his consent.
-
-🟩
-
-It is worth noting that Mahinda Rajapaksa, who made an official visit to China the day when President Ranil addressed the people, has returned to the country with a resolution.. At the press conference, he said that he was the presidential candidate of the PA, and that Mahinda would announce it by his mouth for the first week of July.. Such a notification could not be made without Mahinda's permission.
-
-◼️
-
-[Data](articles/5a97445e.json)
-
-[Extended Data](ext_articles/5a97445e.ext.json)
 
 ---

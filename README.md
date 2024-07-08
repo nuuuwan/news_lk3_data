@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 20:54:09**
+As of **2024-07-08 21:05:01**
 
 ## Newspaper Stats
 
-*Scraped **34,263** Articles*
+*Scraped **34,266** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,021
 dailyftlk | 2,130
-adalk | 3,073
-adaderanalk | 3,928
-tamilmirrorlk | 4,071
+adalk | 3,074
+adaderanalk | 3,929
+tamilmirrorlk | 4,072
 dailymirrorlk | 4,733
 virakesarilk | 5,356
 adaderanasinhalalk | 5,702
@@ -26,21 +26,53 @@ adaderanasinhalalk | 5,702
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,262 (100.0%) of 34,263 articles have been extended.
+34,263 (100.0%) of 34,266 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### இலங்கைக்கு டிஜிட்டல் பயணச் சீட்டு
+### மக்களுக்கு நாளை மாலை வரை அவகாசம்
+
+*2024-07-08 20:35:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-நாளை-மாலை-வரை-அவகாசம்/175-340046) · `ta`
+
+2024ஆம் ஆண்டுக்கான இரண்டாம் உத்தேச மின் கட்டணத் திருத்தம் தொடர்பான மக்களின் வாய்மூல கருத்துக் கோரல்கள் நாளை (09) இடம்பெறவுள்ளத.
+
+நாளை முற்பகல் 9 மணி முதல் பிற்பகல் 4.30 வரை பண்டாரநாயக்க மாநாட்டு மண்டபத்தில் இந்தக் கருத்துக் கோரல்கள் ஏற்றுக் கொள்ளப்படவுள்ளதாக அந்த ஆணைக்குழு விடுத்துள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.  R
+
+◼️
+
+[Data](articles/0cdb70c5.json)
+
+---
+
+### Digital ticket to Sri Lanka
 
 *2024-07-08 20:28:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-டிஜிட்டல்-பயணச்-சீட்டு/175-340045) · `ta`
 
-இவ்வருட இறுதிக்குள் ரயில்வே உள்ளிட்ட பொதுப் போக்குவரத்து பயணச் சீட்டுகளுக்கான டிஜிட்டல் விநியோக முறையொன்று அறிமுகப்படுத்தப்படும் என போக்குவரத்து, நெடுஞ்சாலைகள் அமைச்சின் செயலாளர் ரஞ்சித் கங்கநாத் ரூபசிங்க தெரிவித்தார். R
+Sri Lanka plans to launch a digital ticketing system for public transport by year-end, aiming to modernize its railway and bus services.
+
+🟩
+
+Secretary of the Ministry of Transport and Highways Ranjith Ganganath Rupasinghe said that a digital distribution system for public transport tickets, including railways, will be introduced by the end of this year.. Remble
 
 ◼️
 
 [Data](articles/1a1c705e.json)
+
+[Extended Data](ext_articles/1a1c705e.ext.json)
+
+---
+
+### Pulse awarded ‘Social Media Channel of the Year’
+
+*2024-07-08 20:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100379/pulse-awarded-social-media-channel-of-the-year) · `en`
+
+Sri Lanka’s leading lifestyle platform ‘Pulse.lk’ has been presented with the award for the ‘Social Media Channel of the Year’ at the 5th New Generation Asia Awards 2024 organized by the National Youth Services Council (NYSC) and held in Colombo on Monday.
+
+◼️
+
+[Data](articles/160c330b.json)
 
 ---
 
@@ -195,6 +227,22 @@ He was speaking at a press conference held at the President's media centers.
 [Data](articles/ba0429fe.json)
 
 [Extended Data](ext_articles/ba0429fe.ext.json)
+
+---
+
+### රාජ්‍ය සේවක වැටුප රු. 20000කින් වැඩි කරන්න රු බිලියන 280ක් ඕන
+
+*2024-07-08 19:20:26* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවක-වැටුප-රු--20000කින්-වැඩි-කරන්න-රු-බිලියන-280ක්-ඕන/11-410674) · `si`
+
+වර්ජනයේ නිරත රාජ්‍ය සේවකයන් ඉල්ලා සිටින වැටුප් වැඩිකිරීම ලබාදීමට කටයුතු කළහොත්, දැනට පනවා තිබෙන 18%ක වැට් බද්ද 20% – 21%ත් අතර අගයකට ඉහළ නැංවීමට සිදුවනු ඇති බවත්, මහජනතාව පීඩාවට පත් කරමින් එවැනි ඉල්ලීමක් සපුරාලීමට රජයට හැකියාවක් නොමැති බවත් මහා භාණ්ඩාගාර ලේකම් මහින්ද සිරිවර්ධන මහතා පැවසීය.
+
+මහා භාණ්ඩාගාර ලේකම්වරයා මේ බව සඳහන් කර සිටියේ රාජ්‍ය සේවයේ වෘත්තීය සමිති විසින් ඉදිරිපත් කර ඇති ඉල්ලීම් සම්බන්ධව ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ජනාධිපති කාර්යාලයේ අද (08) පැවති සාකච්ඡාවට එක් වෙමිනි.
+
+මේ වන විට රාජ්‍ය සේවයට අදාළ වෘත්තීය සමිති කිහිපයක් විසින් ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් ක්‍රියාත්මක කර ඇති වෘත්තීය ක්‍රියාමාර්ගය සම්බන්ධයෙන් මෙම සාකච්ඡාවේදී ජනාධිපතිවරයාගේ අවධානය යොමු වූ අතර වෘත්තීය සමිති විසින් ඉදිරිපත් කර ඇති ඉල්ලීම් සඳහා ලබාදිය හැකි සාධනීය විසඳුම් සම්බන්ධයෙන් සාකච්ඡාවට ලක් කෙරිණ.
+
+...
+
+[Data](articles/afba6368.json)
 
 ---
 
@@ -2205,77 +2253,5 @@ Most of the departures are to currency board like regimes in the Middle East, wh
 [Data](articles/d84211fe.json)
 
 [Extended Data](ext_articles/d84211fe.ext.json)
-
----
-
-### Chavakachcheri incident;Northern Doctors Action Resolution
-
-*2024-07-08 07:50:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சாவகச்சேரி-சம்பவம்-வடமாகாண-வைத்தியர்கள்-அதிரடி-தீர்மானம்/71-340015) · `ta`
-
-In response to the Chavakachcheri incident, all state hospital doctors in Sri Lanka's Northern Province plan to boycott work except for emergency treatments from 8 AM to 8 PM. This action supports the newly appointed doctors at the Chavakachcheri Resource Hospital, protesting against inadequate protection.
-
-🟩
-
-All the state hospital doctors in the Northern Province are going to boycott a day's work.
-
-Jaffna of the Northern Province. The newly appointed doctors at the Chavakachcheri Resource Hospital in the district are against the protection of the doctors who are working there.
-
-All the state hospital doctors in the Northern Province are on behalf of the affected hospital doctors.
-
-Accordingly, the doctors will only be involved in the emergency treatment of doctors from 8 am to 8 am the next morning, according to the State Council Officers Association said.. Remble
-
-◼️
-
-[Data](articles/419dd5ce.json)
-
-[Extended Data](ext_articles/419dd5ce.ext.json)
-
----
-
-### Emergency Declaration in Russia
-
-*2024-07-08 07:43:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்யாவில்-அவசரநிலை-பிரகடனம்/50-340014) · `ta`
-
-Russia declares a state of emergency in the Voronezh region due to weapon fires caused by a Ukrainian drone attack. Authorities initiate temporary evacuations.
-
-🟩
-
-The state of emergency has been declared due to the burning of weapons in the Voronage region of Russia, with Ukraine's drone attack yesterday.
-
-In this case, it is reported that the authorities have taken steps to temporarily evacuate people in danger. (A)
-
-◼️
-
-[Data](articles/66a2560d.json)
-
-[Extended Data](ext_articles/66a2560d.ext.json)
-
----
-
-### The petition involved in the presence of the President's term is considering today
-
-*2024-07-08 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198590) · `si`
-
-A Supreme Court petition concerning the president's term will be discussed today by a five-judge panel, including Chief Justice Jayantha Jayasuriya and others. The case stems from a presidential election, where entrepreneur CD Levy presented the petition last Wednesday. PAFFREL's Rohana Hettiarachchi warns of legal action if the government proceeds with the election despite the petition.
-
-🟩
-
-The petition filed by the Supreme Court regarding the president's term of office is due to be conducted today (08).
-
-The petition will be considered in the face of a five judge bench.
-
-Chief Justice Jayantha Jayasuriya, Vijitha Jayantha Jayasuriya, Vijith Malalgoda, Murdu Fernando, Geetants, Surasena and S. Wathleirajah.
-
-The presidential election has been made to issue an order to issue a preventive order to issue a prevention order as a result of the President's term of office.
-
-CD, a entrepreneur. Mr. Levy presented the petition on Wednesday.
-
-Meanwhile, PAFFREL's executive director Rohana Hettiarachchi said that if the government was holding the election, he would take serious action in front of the law.
-
-◼️
-
-[Data](articles/27c31677.json)
-
-[Extended Data](ext_articles/27c31677.ext.json)
 
 ---

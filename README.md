@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 22:53:30**
+As of **2024-07-08 23:04:52**
 
 ## Newspaper Stats
 
-*Scraped **34,273** Articles*
+*Scraped **34,276** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 310
-colombotelegraphcom | 316
+colombotelegraphcom | 318
 bbccomsinhala | 335
 newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,021
 dailyftlk | 2,130
-adalk | 3,076
+adalk | 3,077
 adaderanalk | 3,931
 tamilmirrorlk | 4,072
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,273 (100.0%) of 34,273 articles have been extended.
+34,273 (100.0%) of 34,276 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -72,7 +72,19 @@ LPL organizers have also banned the slippers of players in the stadium until the
 
 A van believed to have been used by the suspects involved in the shooting incident at Athurugiriya this morning (08) has been recovered by police in the Bulathsinhala area.
 
-◼️
+Based an information received by ‘119’ police emergency hotline today (8) at around 6.15 p.m., the van was discovered in an abandoned property in the Ayagama area of Bulathsinhala.
+
+Reportedly, the van had been driven from Ayagama to Bulathsinhala.
+
+It has been reported that the van in question does not have both front and rear license plates and a copy of the revenue licence is also pasted in the windshield.
+
+The shooting incident was reported this morning (08) at Athurugiriya during an opening ceremony of a beauty salon.
+
+During the incident, 55-year-old Surendra Wasantha Perera, also known as “Club Wasantha”, and a 38-year-old male were killed while four others were injured and hospitalised.
+
+Two females including popular singer K. Sujeewa and another male were injured during the incident.
+
+...
 
 [Data](articles/f19d3635.json)
 
@@ -201,6 +213,26 @@ The State Minister further stated that last year they highlighted 14 sectors tha
 [Data](articles/4936492c.json)
 
 [Extended Data](ext_articles/4936492c.ext.json)
+
+---
+
+### චන්ද්‍රිකා තාක්ෂණය උපයෝගී කරගනිමින් අන්තර්ජාල පහසුකම්
+
+*2024-07-08 19:45:51* · [`adalk`](https://www.ada.lk/breaking_news/චන්ද්‍රිකා-තාක්ෂණය-උපයෝගී-කරගනිමින්-අන්තර්ජාල-පහසුකම්/11-410679) · `si`
+
+මැතිවරණයක් ආසන්නයේ අයුක්ති සහගත වැඩවර්ජන දියත් කිරීමෙන් දරුවන්ට අධ්‍යාපනය ලැබීමේ අවස්ථාව ද අහිමි කර තිබෙන බව තාක්ෂණ රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා පැවසීය.
+
+මෙම වර්ජන, උද්ඝෝෂණ මඟින් බලාපොරොත්තු වන්නේ ජනතාවට ලැබෙමින් තිබෙන සහනදායී ජීවන තත්ත්වය කඩාකප්පල් කිරීම ද යන්නට විපක්ෂය පිළිතුරු සැපයිය යුතු බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+තාක්ෂණ රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (08) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+2022 වර්ෂයේ සිට විශාල ප්‍රතිපත්ති සහ ප්‍රතිසංස්කරණ රාශියක් අප අමාත්‍යාංශය මඟින් ක්‍රියාත්මක කළා. පාර්ලිමේන්තුවට පනත් රැසක් ඉදිරිපත් කළා මෙන්ම තවත් පනත් කිහිපයක් ඉදිරිපත් කිරීමට ද බලාපොරොත්තුවෙන් සිටිනවා.
+
+ඒ වගේම ලෝක බැංකුවේ සහයෝගය ඇතිව 2020 – 2030 ඩිජිටල් ආර්ථික සැලැස්ම එළි දැක්වීම ද සිදුකළා. අද වන විට පවතින අමෙරිකානු ඩොලර් බිලියන 3ක ඩිජිටල් ආර්ථිකය 2030 වසර වන විට අමෙරිකානු ඩොලර් බිලියන 30 දක්වා වර්ධනය කිරීම අපගේ අරමුණ වී තිබෙනවා.
+
+...
+
+[Data](articles/8254f82f.json)
 
 ---
 
@@ -679,6 +711,34 @@ The song 'Once Up on A Time', which is featured in the film, has been released a
 [Data](articles/c0e5aed3.json)
 
 [Extended Data](ext_articles/c0e5aed3.ext.json)
+
+---
+
+### Appreciation For Lionel Fernando
+
+*2024-07-08 17:10:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/appreciation-for-lionel-fernando/) · `en`
+
+Lionel Fernando was more than a public servant; he was a beacon of humanity and national integration in Sri Lanka. As a top official who held numerous positions in public service, local government, and diplomacy, his career was a testament to his dedication to his country and its people. My admiration for Lionel began long before our personal encounters, rooted in his transformative tenure as the first Sinhala Government Agent in Jaffna during the 1970s. His service-oriented approach endeared him to the Tamil communities, illustrating his commitment to bridging ethnic divides and fostering unity.
+
+...
+
+[Data](articles/787cfea0.json)
+
+---
+
+### Paradise: Reading The Layered Symphony Of Politics & Passion
+
+*2024-07-08 17:03:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/paradise-reading-the-layered-symphony-of-politics-passion/) · `en`
+
+(the song played at the end of the film “Paradise” written by Anwar Ali, sung by Pavithra and music composition by K).
+
+Emerging from the shadowed theatre, they may step into the brilliance of newfound understanding. This light, a metaphor for the newly acquired wisdom casts brighter hue on the world around them. Anyone who leaves the screening of “Paradise” by Prasanna Vithanage will surely gaze upon the world with fresh, enlightened eyes.
+
+With “Paradise,” Prasanna has transcended the boundaries of national cinema, venturing into transnational and global cinema in terms of themes, production, distribution, and audience reception. He challenges traditional notions of national cinema by emphasizing the fluid and dynamic nature of cultural identities and storytelling across borders. This is an accomplishment worth celebrating.
+
+...
+
+[Data](articles/55b31161.json)
 
 ---
 
@@ -2223,75 +2283,5 @@ Subsequently, if information on them is available, it has been requested to info
 [Data](articles/d94d858b.json)
 
 [Extended Data](ext_articles/d94d858b.ext.json)
-
----
-
-### A petition on the presidency's tenure
-
-*2024-07-08 09:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-பதவிக்-காலம்-தொடர்பான-மனு-இன்று-பரிசீலனை/175-340018) · `ta`
-
-A petition filed by the High Court against the current presidential election schedule will be discussed today by five Supreme Court judges, including Chief Justice Jayantha Jayasuriya and others. The petition seeks to halt the upcoming presidential election.
-
-🟩
-
-The petition filed by the High Court on the president's tenure will be taken up for consideration today (08) in the presence of a session of five judges.
-
-The Supreme Court judges comprising five persons - Chief Justice Jayantha Jayasuriya, Vijith Malgoda, Murdu Fernando, Preity Padman Surasena and S. Thurairajah were recently named.
-
-A petition has been filed demanding the order of the presidential election to prevent the presidential election as it is currently scheduled.
-
-◼️
-
-[Data](articles/622408cc.json)
-
-[Extended Data](ext_articles/622408cc.ext.json)
-
----
-
-### Little son falls into pet fish tank
-
-*2024-07-08 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198591) · `si`
-
-In Middeniya, a 3-year-old fell into a water tank being installed outside his home.
-
-🟩
-
-A small boy in the East of Middeniya Wickrama Mawatha has fallen into a water tank.
-
-The victim was a 3-year-old child.
-
-Investigations have revealed that the child had fallen into the water tank to be built in front of the house.
-
-◼️
-
-[Data](articles/8968c3bc.json)
-
-[Extended Data](ext_articles/8968c3bc.ext.json)
-
----
-
-### Upcountry vegetable prices down
-
-*2024-07-08 09:19:20* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-එළවළු-මිල-පහළට/11-410659) · `si`
-
-Vegetable prices in Upcountry have decreased, according to the Keppetipola Economic Center. Last week's crop damage led to increased stocks, but current harvests are lowering prices. Traders report lower costs for tomatoes, leeks, and fish per kilogram.
-
-🟩
-
-Keppetipola is on the way to the price of upstairs compared to last week, says Keppetipola specialized economic center.
-
-Due to the destruction of vegetables, the stock of vegetables had risen last week with vegetable crops, due to the destruction of vegetable crops.
-
-The prices of vegetable harvesting in various parts of the island have been following the prices and the price of vegetables, including beans, have risen prices.
-
-The traders say that the stock of stock of tomatoes in a kilogram of Rs.
-
-Stock prices of a kilogram of leeks from Rs. 650 to Rs.A kilo of fish at Rs. 700 was Rs.
-
-◼️
-
-[Data](articles/e14bc8f9.json)
-
-[Extended Data](ext_articles/e14bc8f9.ext.json)
 
 ---

@@ -1,78 +1,36 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 08:03:23**
+As of **2024-07-08 07:48:40**
 
 ## Newspaper Stats
 
-*Scraped **34,158** Articles*
+*Scraped **34,154** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 309
-colombotelegraphcom | 315
+colombotelegraphcom | 314
 bbccomsinhala | 334
 newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,005
 dailyftlk | 2,130
-adalk | 3,053
+adalk | 3,052
 adaderanalk | 3,910
 tamilmirrorlk | 4,053
 dailymirrorlk | 4,733
 virakesarilk | 5,349
-adaderanasinhalalk | 5,679
+adaderanasinhalalk | 5,677
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,154 (100.0%) of 34,158 articles have been extended.
+34,154 (100.0%) of 34,154 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
-
-### ජනාධිපතිවරයාගේ නිල කාලය සම්බන්ධ පෙත්සම සලකාබැලීම අද
-
-*2024-07-08 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198590) · `si`
-
-ජනාධිපතිවරයාගේ නිල කාලය සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණයට ඉදිරිපත් වු පෙත්සම සලකා බැලීම අද (08) දිනයේ දී සිදුකිරීමට නියමිතය.
-
-පංච පුද්ගල විනිසුරු මඩුල්ලක් හමුවේ මෙම පෙත්සම සලකා බැලීම සිදු කෙරේ.
-
-පෙත්සම සලකා බැලීම සඳහා අගවිනිසුරු ජයන්ත ජයසූරිය, විජිත් මලල්ගොඩ, මුර්දු ප්‍රනාන්දු, ප්‍රීති පද්මන් සූරසේන සහ එස්.තුරෙයිරාජා යන මහත්ම මහත්මීන්ගෙන් සමන්විත පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් පසුගිය දා නම් කෙරුණි.
-
-ජනාධිපතිවරයාගේ ධුර කාලය අවසන් වන දින වකවානු සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණය විසින් අර්ථ නිරූපණයක් ලබා දෙනතුරු දැනට සැලසුම් කර ඇති පරිදි ජනාධිපතිවරණය පැවැත්වීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා පෙත්සමක් ඉදිරිපත් කර තිබේ.
-
-ව්‍යවසායකයෙකු වූ සී.ඩී. ලෙනව මහතා විසින් පසුගිය බදාදා මෙම පෙත්සම ඉදිරිපත් කළේය.
-
-මේ අතර පැෆ්රල් සංවිධානයේ විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා සඳහන් කළේ මැතිවරණය කල්දැමීම සඳහා ආණ්ඩුව උතසාහ දරන්නේ නම් ඊට එරෙහිව නීතිය ඉදිරියේ දැඩි ක්‍රියාමාර්ග ගැනීමට කටයුතු කරන බවය.
-
-◼️
-
-[Data](articles/27c31677.json)
-
----
-
-### ලෙඩ වෙන රාජ්‍ය සේවය
-
-*2024-07-08 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198589) · `si`
-
-රාජ්‍ය සේවය නියෝජනය කරමින් වෘත්තීය සමිති 200 කට අධික සංඛ්‍යාවක් අද (08) සහ හෙට (09)  දිනයන් හීදී අසනීප නිවාඩු දමා සංකේත වැඩ වර්ජනයක නිරතවන බව රාජ්‍ය සේවා වෘත්තීය සමිති සන්ධානය පවසයි.
-
-තැපැල්, මිනින්දෝරු,  ගොවි නියාමක,  ග්‍රාම නිලධාරීන්,  සංවර්ධන නිලධාරීන්,  සමෘද්ධි නිලධාරීන් ඇතුළු ක්ෂේත්‍ර කීපයක රාජ්‍ය නිලධාරින් අද දිනයේ වැඩ වර්ජනයේ නිරතවීමට නියමිතය.
-
-වැටුප් ඉහළ නැංවීම ඇතුළු ඉල්ලීම් කිහිපයක් මුල්කරගනිමින් මෙම වෘත්තීය සමිති ක්‍රියාමාර්ගයේ නිරත වන බව රාජ්‍ය හා පළාත් රාජ්‍ය කළමනාකරණ සංගමයේ සභාපති එන්.එම් විජේරත්න මහතා පැවසුවේය.
-
-මෙම වෘත්තීය සමිති ක්‍රියාමාර්ගය සඳහා සහාය පළ කරමින් ඊයේ (07) පස්වරු 4 සිට තැපැල් සේවකයින් ද වර්ජනයක නිරත වන බව ඒකාබද්ධ තැපැල් සේවා වෘත්තීය සමිති එකමුතුවේ කැඳවුම්කරු චින්තක බණ්ඩාර මහතා සඳහන් කළේය.
-
-එමෙන්ම ලංකා ගුරු සංගමයේ ප්‍රධාන ලේකම් ජෝසෆ් ස්ටාලින් මහතා පැවසුවේ ගුරු විදුහල්පති වෘත්තීය සමිති අද දිනයේ සේවයට වාර්තා කළ ද හෙට දිනයේ අසනීප නිවාඩු වාර්තා කිරීමට තීරණය කර ඇති බවය.
-
-...
-
-[Data](articles/ff3add6d.json)
-
----
 
 ### The prevailing rainycy in the next few days
 
@@ -520,20 +478,6 @@ Galambo Strikers, who was first invited to bat in the upting match, scored 185 r
 
 ---
 
-### A Child’s Guide To Debt & Restructuring: Country Driven To Economic Collapse Has Not Many Options
-
-*2024-07-08 01:41:32* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-childs-guide-to-debt-restructuring-country-driven-to-economic-collapse-has-not-many-options/) · `en`
-
-Aseni, the whiz kid has been alive to the debate over the debt situation of Sri Lanka. Despite her familiarity of the subject as a student of economics and finance, she says that she has not been able to comprehend many arguments presented by those who are pro or against the restructuring of the country’s debt. She turned to her Grandpa, Sarath Mahatthaya, a retired official of the Ministry of Finance, for help. The following is the interaction between the two on the issue.
-
-Aseni: Grandpa, I have listened to the address of President Ranil Wickremesinghe to the nation last month and to the Parliament early this month over the success of his Government in reaching an agreement with bilateral creditors to restructure Sri Lanka’s external debt. He tagged this as ‘Good News’ drawing on terminology used by Bible writers. But his message was unclear to me. What was it?
-
-...
-
-[Data](articles/3edfcc32.json)
-
----
-
 ### Worsening external deficit to improve fiscal deficit: Jumping from frying pan into the fire
 
 *2024-07-08 00:31:31* · [`dailyftlk`](https://www.ft.lk/columns/Worsening-external-deficit-to-improve-fiscal-deficit-Jumping-from-frying-pan-into-the-fire/4-763944) · `en`
@@ -931,22 +875,6 @@ Nonsense. The President expressed his deepest condolences to Sampanthan's death 
 [Data](articles/c99ab829.json)
 
 [Extended Data](ext_articles/c99ab829.ext.json)
-
----
-
-### උසස්පෙළ සමතුන්ට පොලී රහිත ණය
-
-*2024-07-07 19:41:42* · [`adalk`](https://www.ada.lk/breaking_news/උසස්පෙළ-සමතුන්ට-පොලී-රහිත-ණය/11-410657) · `si`
-
-2022 උසස් පෙළ සමතුන් සඳහා රාජ්‍ය නොවන උසස් අධ්‍යාපන ආයතනවල පාඨමාලා හැදෑරීමට පොලී රහිත ශිෂ්‍ය ණය ලබා දීමේ කටයුතු කඩිනමින් සිදු කිරීමට අවශ්‍ය කටයුතු සිදු වෙමින් පවතින බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
-
-2022 වර්ෂයේ උසස් පෙළ සමත් සිසු සිසුවියන් පොලී රහිත ශිෂ්‍ය ණය යෝජනා ක්‍රමයේ අටවන කණ්ඩායම ලෙස බඳවා ගැනීමට අදාළව රාජ්‍ය නොවන උසස් අධ්‍යාපන ආයතන වෙතින් ලබා දීමට යෝජිත පාඨමාලා සම්බන්ධ යෝජනාද මේ වන විට කැඳවා ඇති අතර, ඒ සම්බන්ධයෙන් අදාළ පාර්ශ්වයන් සමග සාකච්ඡාවක් ඉදිරි සතියේදී මුදල්, ආර්ථික ස්ථායිකරණ හා ජාතික ප්‍රතිපත්ති අමාත්‍යාංශයේදී පැවැත්වීමට නියමිතව ඇත.
-
-රාජ්‍ය විශ්වවිද්‍යාලයකට ඇතුළත් වීමට වරම් නොලබන උසස් පෙළ සමතුන්ට රාජ්‍ය නොවන උසස් අධ්‍යාපන ආයතනයක උපාධි පාඨමාලාවක් හැදෑරීම සඳහා අවස්ථාව සලසා දීමේ අරමුණින් 2017 වර්ෂයේ අයවැය යෝජනා අනුව පොලී රහිත ශිෂ්‍ය ණය යෝජනා ක්‍රමයක් ක්‍රියාත්මක කර ඇත. එම ණය යෝජනා ක්‍රමය යටතේ රුපියල්  800,000ක උපරිමයකට යටත්ව පොලී රහිත ණය මුදල් සිසුන්ට ලබා දේ.
-
-...
-
-[Data](articles/1ce84ad0.json)
 
 ---
 
@@ -2301,5 +2229,93 @@ The petition filed by the businessman is due to be considered before the Chief J
 [Data](articles/6f0c74ff.json)
 
 [Extended Data](ext_articles/6f0c74ff.ext.json)
+
+---
+
+### WWE Sembian Johnsina's shocking announcement
+
+*2024-07-07 12:39:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/WWE-செம்பியன்-ஜோன்சீனாவின்-அதிர்ச்சி-அறிவிப்பு/50-339973) · `ta`
+
+Johnsina, a beloved WWE wrestler known for his unique style and 16 WWE Sembian titles, has shocked fans by announcing his retirement. His sudden decision to step away from the ring, especially after making a surprise appearance at the Money in the Bank event in Toronto, leaves a void in the hearts of 90s kids who grew up watching him.
+
+🟩
+
+Famous wrestler Johnsina has announced that he will retire from WWE wrestling matches.
+
+Hearing his name, the 90s Kids will be happy in the minds. The style he gives into the field is very popular.
+
+Johnsina, who has won the WWE Sembian title 16 times, has announced that he will retire from the WWE matches.
+
+Johnsina, who suddenly appeared in the Money in the Bank in Toronto, Canada, has announced her retirement.
+
+◼️
+
+[Data](articles/28876cc0.json)
+
+[Extended Data](ext_articles/28876cc0.ext.json)
+
+---
+
+### John Laughter attends Recelin Ground
+
+*2024-07-07 12:37:57* · [`adalk`](https://www.ada.lk/breaking_news/ජෝන්-සිනා-රෙස්ලින්-පිටිියට-සමුදෙයි/11-410644) · `si`
+
+John Laughter joins Recelin Ground while John Sena, after winning 16 championships, announces his retirement from RESLOW next year, including the 2025 Resolmenia tournament.
+
+🟩
+
+John Sena has decided to retire from the World Recelin Suzin Ground, a corner of Hollywood as well as the World Rest Ground.
+
+Accordingly, he declared that he retires from the resign from RESLOW next year. 47 The celebration of John Sene wins 16 championships in World Rest Ground.
+
+John Sena says the Resolmenia tournament in 2025
+
+◼️
+
+[Data](articles/10daf09b.json)
+
+[Extended Data](ext_articles/10daf09b.ext.json)
+
+---
+
+### Postal workers to launch 48-hour token strike
+
+*2024-07-07 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100348/postal-workers-to-launch-48-hour-token-strike-) · `en`
+
+The co-convener of the United Postal Trade Unions’ Front, Chinthaka Bandara says that they have decided to engage in a 48-hour token strike tomorrow (08) and the day after (09).
+
+Speaking at a press conference, he stated that the token strike would commence from 4.00 p.m. today (07) at the Central Mail Exchange in Colombo.
+
+However, this trade union action would be commenced across all other post offices from midnight today.
+
+He further emphasised that they have launched this trade union action based on three demands.
+
+◼️
+
+[Data](articles/ffd4da52.json)
+
+[Extended Data](ext_articles/ffd4da52.ext.json)
+
+---
+
+### Film producer launched
+
+*2024-07-07 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198567) · `si`
+
+Film producer known for classics like Titanic and Avatar passed away after battling cancer for a year. His sister described him as the best brother anyone could have.
+
+🟩
+
+The manufacturer of films in the world, Titanic and Videors, Oscar, has been killed.
+
+It is said that he was suffering from cancer over the past year.
+
+The sister of his death, Tina has said, "The best brother to a girl," said. "He was.
+
+◼️
+
+[Data](articles/7de95d45.json)
+
+[Extended Data](ext_articles/7de95d45.ext.json)
 
 ---

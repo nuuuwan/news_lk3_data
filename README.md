@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 20:20:03**
+As of **2024-07-08 20:35:14**
 
 ## Newspaper Stats
 
-*Scraped **34,261** Articles*
+*Scraped **34,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adaderanalk | 3,928
 tamilmirrorlk | 4,070
 dailymirrorlk | 4,733
 virakesarilk | 5,356
-adaderanasinhalalk | 5,701
+adaderanasinhalalk | 5,702
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,259 (100.0%) of 34,261 articles have been extended.
+34,261 (100.0%) of 34,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### pulse සම්මානයෙන් පිදුම් ලබයි
+
+*2024-07-08 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198613) · `si`
+
+ඒ ජාතික තරුණ සේවා සභාව විසින් සංවිධානය කරන ලද පස්වෙනි "New Generation Asia Awards 2024" හි දීය.
+
+◼️
+
+[Data](articles/d857a15b.json)
+
+---
 
 ### Govt to impose taxes on 14 previously untaxed sectors
 
@@ -49,6 +61,8 @@ The State Minister further stated that last year they highlighted 14 sectors tha
 ◼️
 
 [Data](articles/4936492c.json)
+
+[Extended Data](ext_articles/4936492c.ext.json)
 
 ---
 
@@ -1146,19 +1160,25 @@ Hospital officials said the child died without treatment.
 
 ---
 
-### வைத்தியர் அர்ச்சுனாவுக்கு ஆதரவாக ஆர்ப்பாட்டம்
+### Demonstration in favor of doctor Archana
 
 *2024-07-08 12:00:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அர்ச்சுனாவுக்கு-ஆதரவாக-ஆர்ப்பாட்டம்/175-340030) · `ta`
 
-வைத்தியர் அர்ச்சுனாவை இடமாற்றம் செய்ய வேண்டாம் எனத் தெரிவித்து திங்கட்கிழமை (08)  சாவகச்சேரி ஆதார வைத்தியசாலைக்கு முன்பாக மாபெரும் மக்கள் போராட்டமொன்று முன்னெடுக்கப்பட்டு வருகின்றது.
+Protesters outside Chavakachcheri Resource Hospital demanded Dr. Archana not be transferred after authorities blocked her water supply due to illness. The demonstration turned violent until the doctor received water, leading to a temporary halt in protests.
 
-இந்நிலையில், குறித்த வைத்தியருக்கு தண்ணீர் கூட வழங்க விடாமல் அதிகாரிகள் தடுத்தனர். இந்நிலையில் அவரது உடல்நிலை சுகயீனமடைந்தது. அதன்பின்னர் போராட்டக்காரர்கள் மீண்டும் வீதியை மறித்து போராட்டத்தில் ஈடுபட்டுள்ளனர்.
+🟩
 
-வைத்தியருக்கு தண்ணீர் வழங்கப்பட்ட நிலையில் வீதி முடக்கல் போராட்டம் கைவிடப்பட்டதுடன், தொடர்ச்சியாக போராட்டம் முன்னெடுக்கப்பட்டு வருகின்றமை குறிப்பிடத்தக்கது
+A massive people struggle is being carried out in front of the Chavakachcheri Resource Hospital on Monday (08) demanding that the doctor not transfer Archana.
+
+In this case, the authorities prevented the doctor from supplying water. In this case his health was ill. Since then, the protesters have again crossed the street and engaged in a protest.
+
+It is noteworthy that the road shutdown has been abandoned as the doctor has been given water.
 
 ◼️
 
 [Data](articles/360cb434.json)
+
+[Extended Data](ext_articles/360cb434.ext.json)
 
 ---
 
@@ -2273,33 +2293,5 @@ Police Media Spokesperson DIG Nihal Thaltuwa said that the shooting was on the o
 [Data](articles/478945cc.json)
 
 [Extended Data](ext_articles/478945cc.ext.json)
-
----
-
-### Sick Public Service
-
-*2024-07-08 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198589) · `si`
-
-Over 200 trade unions in the public service plan strikes today and tomorrow in various sectors like Mail, Survey, Agriculture, and more, demanding pay raises. The action includes postal workers starting their strike from yesterday afternoon. However, not all unions, such as teachers and medical staff, have joined the strike, raising concerns about its impact on public services.
-
-🟩
-
-The Public Service Trade Union Alliance says that over 200 trade unions representing the public service will be held today and tomorrow (09) and will be launched.
-
-State officials will be strike on several sectors including Mail, Survey, Farmers Regulakes, Grama Niladharis, Development Officers and Samurdhi Officers today.
-
-The presidential and Provincial Public Management Association President NM Wijeratne said that the trade union action is being carried out on several demands, including increases.
-
-Convener of the Joint Postal Service Trade Union Convener, the convener of the Joint Postal Service Trade Union, said that he was working on strike from 4 pm yesterday (07), supporting the trade union action.
-
-The General Secretary of the Ceylon Teachers Union Joseph Stalin said that the teacher's trade unions have been reported to date today and have decided to report sick leave.
-
-Meanwhile, the Government Medical Officers' Association and Nurses are yet to support the strike.
-
-...
-
-[Data](articles/ff3add6d.json)
-
-[Extended Data](ext_articles/ff3add6d.ext.json)
 
 ---

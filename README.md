@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 19:35:22**
+As of **2024-07-08 19:53:45**
 
 ## Newspaper Stats
 
-*Scraped **34,253** Articles*
+*Scraped **34,256** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,021
 dailyftlk | 2,130
-adalk | 3,070
+adalk | 3,072
 adaderanalk | 3,927
 tamilmirrorlk | 4,069
 dailymirrorlk | 4,733
 virakesarilk | 5,354
-adaderanasinhalalk | 5,700
+adaderanasinhalalk | 5,701
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,253 (100.0%) of 34,253 articles have been extended.
+34,253 (100.0%) of 34,256 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### රටම කැලඹූ  අතුරුගිරියේ වෙඩි තැබීමේ තවත් තොරතුරු එළියට
+
+*2024-07-08 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198612) · `si`
+
+අතුරුගිරියේ ටැටූ මධ්‍යස්ථානයක් විවෘත කිරීමේ උත්සවයක් අතරතුර පිරිසක් අද (08) සිදුකළ වෙඩිතැබීමේ සිද්ධිය සංවිධානාත්මක අපරාධකරුවෙකු වන කංජිපානි ඉම්රාන්ගේ සම්බන්ධයක් ඇති බවට පොලීසිය සැක පළකරයි.
+
+අතුරුගිරිය නගර මංසන්ධියේ ඔරලෝසු කණුවේ සිට ඔරුවල පාරෙහි මීටර් 50ක පමණ දුරකින් පිහිටි එම ගොඩනැගිල්ලේ උඩුමහලේ, සමෙහි පච්ච කෙටීම සිදුකරන, එනම් ටැටූ ආයතනයක් විවෘත කෙරුණේ අද පෙරවරුවේය.
+
+ඊට ප්‍රධාන ආරාධිතයින් ලෙස, ප්‍රසිද්ධ ව්‍යාපාරිකයෙකු වන සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත සහ ඔහුගේ බිරිඳ මෙන්ම ජනප්‍රිය ගායන ශිල්පිණී කේ. සුජීවා යන මහත්ම මහත්මීන් ආරාධනා ලැබ තිබුණි.
+
+ඔරුවල පාර ඔස්සේ පෙරවරු 10.15ට පමණ පැමිණි සුදු පැහැති මෝටර් රථයක් ඔරලෝසු කණුව වටරවුමෙන් නැවත ඔරුවල පාරටම හරවා එම ගොඩනැගිල්ල අසල මාර්ගයේ නතර කරන අයුරු එහි සඳහන්ය.
+
+පසුව ගිනිඅවි අතැති දෙදෙනෙකු උඩු මහලේ ටැටූ මධ්‍යස්ථානයට ඇතුළු වී වෙඩිතබන ආකාරය CCTV කැමරාවලද සටහන්ව තිබුණි.
+
+මුව ආවරණ පැළඳ ටැටූ මධ්‍යස්ථානයට ඇතුළු වූ වෙඩික්කරුවන් එහි සිටි පිරිසට නොනවත්වා වෙඩි ප්‍රහාර එල්ල කරයි.
+
+...
+
+[Data](articles/6f87c245.json)
+
+---
+
+### රාජ්‍ය සේවක වැටුප රු. 20,000ක් වැඩි කරන්න වැට් බද්ද සියයට 22ක් කරන්න වෙනවා
+
+*2024-07-08 18:59:36* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවක-වැටුප-රු--20-000ක්-වැඩි-කරන්න-වැට්-බද්ද-සියයට-22ක්-කරන්න-වෙනවා/11-410672) · `si`
+
+ලක්ෂ 15ක් පමණ වන රාජ්‍ය සේවකයන් සඳහා රුපියල් 20,000ක වැඩි වීමක් සමග වැටුප් ගෙවීමට වාර්ෂිකව රුපියල් බිලියන 275ක මුදලක් අවශ්‍ය බවත් එය දළ දේශීය නිෂ්පාධිතයෙන් 1%ක් බවත් මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා කියයි. එම මුදල උපයා ගැනීම සඳහා දැනට පවතින වැට් බදු අනුපාතය 4 %කින්, එනම් බදු අනුපාතය 22% දක්වා ඉහළ නැංවිය යුතු බවයි අමාත්‍යවරයා පෙන්වා දෙන්නේ. මීට අමතරව ආයතනික බදු අනුපාතය 42% මට්ටමට පත් කළ යුතු බවයි අමාත්‍යවරයා සඳහන් කරන්නේ.
+
+කෙනේ එවැනි තත්ත්වයක් යටතේ ආර්ථිකය තවදුරටත් පීඩාවට පත් විය හැකි අතර අයවැය හිඟය වැඩි වීම සේම ණය ප්‍රතිව්‍යුහගත ආපසු හැරවීමේ පියවක් විය හැකි බව සේමසිංහ මහතා පවසයි. ජාත්‍යන්තර මූල්‍ය අරමුදලේ වැඩසටහන මේ හේතුවෙන් අභියෝගයට ලක් විය හැකි අතර රට යළිත් 2022 දී අත්විඳින ලද දරුණු ආර්ථික හා සමාජීය තත්ත්වයන් වෙත ගමන් කිරීම ද සිදු විය හැකි බවයි හෙතෙම පෙන්වා දෙන්නේ. ආර්ථිකය තිරසර වර්ධනය සඳහා  පුද්ගලයෙකුගේම සහ ආයතනයක සහයෝගීතාව අවශ්‍ය වන අතර ජනතාවගේ අඛණ්ඩ සහයෝගය ඇතිව මෙම අභියෝගවලට මුහුණ දෙමින් වඩාත් ශක්තිමත් ආර්ථිකයක් කරා ගමන් කළ හැකි බව සේමසිංහ මහතා වැඩි දුරටත් පවසයි.
+
+◼️
+
+[Data](articles/d3411507.json)
+
+---
+
+### අල්ටෙයාර් සංකීර්ණයෙන් පැන්න සිසුවාගේ හා සිසුවියගේ මරණය සැක සහිත බවට අධිකරණයට කියයි
+
+*2024-07-08 18:22:36* · [`adalk`](https://www.ada.lk/breaking_news/අල්ටෙයාර්-සංකීර්ණයෙන්-පැන්න-සිසුවාගේ-හා-සිසුවියගේ-මරණය-සැක-සහිත-බවට-අධිකරණයට-කියයි/11-410671) · `si`
+
+‘අල්ටෙයාර්’ තට්ටු නිවාස සංකීර්ණයේ 67 වැනි මහලෙන් වැටුණු සිසුවාගේ සහ සිසුවියගේ මරණ සැකසහිත බව මියගිය සිසුවාගේ පියා නීතිඥ අසංක දයාරත්න මහතා මාර්ගයෙන් කොටුව මහේස්ත්‍රාත් කෝසල සේනාධීර මහතාට අද (08) දැනුම් දුන්නේය.
+
+ප්‍රශ්චාත් මරණ පරික්‍ෂණයක් පැවැත්වෙන අවස්ථාවේදී පෞද්ගලික පැමිණිල්ලක් කිරීමට ඉඩදීම ප්‍රතික්‍ෂෙප කළ මහේස්ත්‍රාත්වරයා මේ සම්බන්ධයෙන් කොම්පඤ්ඤවීදිය පොලිසියට පැමිණිල්ලක් කරන ලෙස මියගිය සිසුවාගේ පියා වෙනුවෙන් පෙනී සිටි නීතීඥවරයාට දැනුම් දුන්නේය.
+
+‘අල්ටෙයාර්’ තට්ටු නිවාස සංකීර්ණයේ 67 වැනි මහලෙන් වැටුණු සිසුවාගේ පියා වෙනවෙන් පෙනී සිටි නීතිඥ අසංක දයාරත්න මහතා කරුණු දක්වමින් තම සේවාදායකයාගේ පුතා මෙම සිද්ධියෙන් මියගොස් ඇතැයිද පුතාගේ මියයෑම සම්බන්ධයෙන් තම සේවාදායකයාට සැකයක් මතුව ඇතැයිද කීය.
+
+එහෙයින් මෙම සිද්ධිය සම්බන්ධයෙන පෞද්ගලිකව පැමිණිල්ලක් කිරීමට තම සේවාදායකයාට අවස්ථාව සළසා දෙන්නැයි නීතිඥ අසංක දයාරත්න මහතා ඉල්ලා සිටියේය.
+
+...
+
+[Data](articles/f6845a40.json)
+
+---
 
 ### Hiranthi arrested
 
@@ -2205,57 +2259,5 @@ Co-Chief Guest Education Minister Dr. Susil Premajayantha stated at the event th
 [Data](articles/bdaa004a.json)
 
 [Extended Data](ext_articles/bdaa004a.ext.json)
-
----
-
-### Asia Miracle Awards names Dearo Investment as Best Development Finance Company of the Year
-
-*2024-07-08 04:41:00* · [`islandlk`](http://island.lk/asia-miracle-awards-names-dearo-investment-as-best-development-finance-company-of-the-year/) · `en`
-
-Dearo Investment Limited has been awarded the title of Best Development Finance Company of the Year 2024 at the Asia Miracle Awards. The award ceremony, organised by MUGP International Organisation, was held at the Water’s Edge Hotel in Battaramulla. During the event, Dearo Investment Director and Chief Executive Officer (CEO) Prasanna Sanjeewa received a honourary title for his contributions to Humanity and Social Development.
-
-Dearo Investment provides their services with a particular focus on developing the SME and MSME sectors. The company has strategically diversified its operations into several key economic growth sectors, including financial services, business and legal services, food and beverage, tourism, education services, software and IT, automobile, and agriculture and plantation.
-
-The company’s core financial services include personal financial services, business financial services, various categories of loans, and investment services.
-
-...
-
-[Data](articles/16546ec3.json)
-
-[Extended Data](ext_articles/16546ec3.ext.json)
-
----
-
-### Clogard revives Mobile Dental Clinic programme for children in the North
-
-*2024-07-08 04:41:00* · [`islandlk`](http://island.lk/clogard-revives-mobile-dental-clinic-programme-for-children-in-the-north/) · `en`
-
-Clogard, one of the nation’s most trusted oral care brands from Hemas Consumer Brands have partnered with the Medical Officer of Health (MOH), on its continuous mission to educate school children about good oral hygiene to build a cavity-free nation. This programme has been conducted for over 10 years and it is a testament to Clogard’s unwavering commitment to providing children across Sri Lanka with access to good oral care, to ensure that they all have an opportunity to maintain a healthy smile.
-
-The programme consists of a robust curriculum on good oral hygiene practices, directory conducted by MOH doctors. The educational outreach is vital for instilling lifelong healthy habits in children. Additionally, the programme also offers free dental screenings for all primary school children. Those requiring further investigation are promptly referred to the MOH for additional care, ensuring that no child is left out.
-
-...
-
-[Data](articles/65d9e0f6.json)
-
-[Extended Data](ext_articles/65d9e0f6.ext.json)
-
----
-
-### DIMO recognised for Environmental Stewardship at Presidential Environment Awards 2024
-
-*2024-07-08 04:41:00* · [`islandlk`](http://island.lk/dimo-recognised-for-environmental-stewardship-at-presidential-environment-awards-2024/) · `en`
-
-DIMO secured the Bronze Award in the Vehicle Servicing Centre category at the Presidential Environment Awards Ceremony 2024, held recently at BMICH. This marks the second consecutive year DIMO has been recognized at this prestigious event. The Bronze Award was the highest accolade presented in the vehicle servicing centre category, at the Presidential Environment Awards Ceremony 2024.
-
-DIMO’s state-of-the-art vehicle servicing facility, DIMO 800, catering to Mercedes-Benz vehicles, was recognized for its exceptional commitment to environmental conservation at this prestigious award ceremony.
-
-This facility generates power through the solar panels and established effluent water treatment plant and rainwater harvesting system to mitigate the water wastage. The building employs green technologies such as natural ventilation and lighting, while having an Environmental Management System certified to ISO 14001:2015.
-
-...
-
-[Data](articles/938bfc5a.json)
-
-[Extended Data](ext_articles/938bfc5a.ext.json)
 
 ---

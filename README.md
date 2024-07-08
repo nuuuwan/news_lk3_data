@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 12:36:11**
+As of **2024-07-08 12:53:43**
 
 ## Newspaper Stats
 
-*Scraped **34,203** Articles*
+*Scraped **34,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,010
 dailyftlk | 2,130
-adalk | 3,058
+adalk | 3,059
 adaderanalk | 3,920
-tamilmirrorlk | 4,064
+tamilmirrorlk | 4,066
 dailymirrorlk | 4,733
 virakesarilk | 5,350
 adaderanasinhalalk | 5,690
@@ -26,47 +26,71 @@ adaderanasinhalalk | 5,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,195 (100.0%) of 34,203 articles have been extended.
+34,203 (100.0%) of 34,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### අතුරුගිරියේ වෙඩි තැබීමේ තවත් අයෙක් මරුට
+### பாடசாலைகள் நாளை இயங்கும்
+
+*2024-07-08 12:33:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகள்-நாளை-இயங்கும்/175-340034) · `ta`
+
+வழமையைப் ​போன்று பாடசாலைகள் யாவும் நாளை (09) இயங்கும் என்று கல்வியமைச்சு அறிவித்துள்ளது. அதிபர் மற்றும் ஆசிரியர்கள், நாளை (09) செவ்வாய்க்கிழமை சுகயீன விடுமுறை போராட்டத்தில் குதிக்கவுள்ளனர். இந்நிலையிலேயே, கல்வியமைச்சு மேற்கண்டவாறு அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/caa4af52.json)
+
+---
+
+### Another killed in shooting in Athurugiriya
 
 *2024-07-08 12:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198601) · `si`
 
-අතුරුගිරිය නගරයේ සිදුවූ වෙඩි තැබීමෙන් තවත් අයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+A shooting in Athurugiriya resulted in the death of businessman Sorchandra Wasantha Perera, also known as Club Wasantha, and injuries to five others including a popular singer. The incident occurred near a beauty firm around 10 am, with six victims admitted to hospitals. Police suspect the shooters arrived in a vehicle.
 
-අද (08) පෙරවරු දහයට පමණ මෙම වෙඩි තැබීම සිදුව තිබූ අතර එහිදී ප්‍රසිද්ධ ව්‍යාපාරිකයෙකු වන සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත මිය ගියේය.
+🟩
 
-එම වෙඩි තැබීමෙන් තවත් පුද්ගලයින් පස් දෙනෙකු තුවාල ලබා රෝහල්ගත කර ඇති අතර ප්‍රසිද්ධ ගායන ශිල්පිනියක් වන කේ සූජීවාද ඒ අතර වේ.
+Another person was killed in a shooting in Athurugiriya.
 
-අතුරුගිරිය නගරයේ ඔරලෝසු කනුව ආසන්නයේ රූපලාවන්‍ය ආයතනයක් විවෘත කිරීමේ උත්සවයක් අතරතුර දී වෙඩිතැබීම සිදුව තිබේ.
+The shooting took place around 10 am today (08), where the famous businessman, Sorchandra Wasantha Perera, or Club Wasantha died.
 
-වෙඩි ප්‍රහාරයට ලක්ව තුවාල ලැබූ පුද්ගලයින් 6 දෙනෙකු වහාම හෝමාගම රෝහලට සහ කොළඹ ජාතික රෝහලට ඇතුළත් කර තිබුණි.
+Five more were injured in the shooting and was injured and a popular singer Kijeevisa.
 
-එහිදී ක්ලබ් වසන්ත ජීවිතක්ෂයට පත්වූ අතර, තුවාල ලැබූ තවත් අයෙක් මේ වනවිට මියගොස් ඇත.
+The shooting of a beauty agency is nearing a beauty firm near the clock stance in Athurugiriya.
 
-වෙඩිතැබීම සිදුකළ සැකකරුවන් පැමිණි වාහනය බව පැවසෙන වාහනය අසල CCTV කැමරාවක සටහන්ව තිබෙන බව පොලීසිය සඳහන් කළේය.
+Six persons were injured in the shooting were immediately admitted to the Homagama Hospital and the Colombo National Hospital.
+
+Club spring died, and another injured have died.
+
+The vehicle said that the suspects arrived in the vehicle, police said.
 
 ◼️
 
 [Data](articles/fb0fc312.json)
 
+[Extended Data](ext_articles/fb0fc312.ext.json)
+
 ---
 
-### ජනපති ධුර කාලය ගැන පෙත්සම සලකා බැලීමේ තීන්දුව සුළු වේලාවකින්
+### The decision to consider the presidency on the presidency in a short time
 
 *2024-07-08 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198600) · `si`
 
-ජනපති ධුර කාලය සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණයෙන් අර්ථනිරූපණයක් ලබාදෙන තුරු ජනාධිපතිවරණය පැවැත්වීම වැළැක්වීමේ අතුරු නියෝගයක් ඉල්ලා ඉදිරිපත් කළ පෙත්සම සහ එහි අතරමැදි පෙත්සම් මේ වනවිට සලකා බැලීම අවසන් කර තිබේ.
+The Supreme Court will announce its verdict on the presidential election today at 12:30 pm, concluding the series of petitions related to the election.
 
-ඒ පිළිබඳ ශ්‍රේෂ්ඨාධිකරණ තීන්දුව අද දහවල් 12.30ට ප්‍රකාශයට පත්කිරීමට නියමිතය.
+🟩
+
+The petition and its intermediate petitions have been completed by the Presidential election until the Presidential election is given a manifestation of the presidential election.
+
+The Supreme Court verdict will be announced today at 12.30 pm.
 
 ◼️
 
 [Data](articles/244c004e.json)
+
+[Extended Data](ext_articles/244c004e.ext.json)
 
 ---
 
@@ -84,73 +108,99 @@ Meanwhile, it is reported that teacher-principal trade unions are scheduled to e
 
 [Data](articles/ea8ab200.json)
 
+[Extended Data](ext_articles/ea8ab200.ext.json)
+
 ---
 
-### நீர்த் தொட்டியில் விழுந்து குழந்தை பலி
+### Child killed
 
 *2024-07-08 12:10:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்த்-தொட்டியில்-விழுந்து-குழந்தை-பலி/175-340032) · `ta`
 
-மீத்தெனிய பிரதேசத்தில் மூன்று வயதுடைய குழந்தையொன்று வீட்டின் நீர்த் தொட்டியில் விழுந்து உயிரிழந்துள்ளது.
+In the Methena area, a three-year-old child drowned in the family's water tank. The mother, with her two other children, ages nine and three, was present but couldn't save him. After searching, she found her missing three-year-old at the hospital, where he was pronounced dead upon arrival, indicating no medical intervention could have saved him.
 
-உயிரிழந்த குழந்தையின் தாய் தனது ஒன்பது வயது குழந்தையையும், உயிரிழந்த மூன்று வயது குழந்தையையும் குளிக்க வைப்பதற்காக வீட்டிற்கு வெளியே உள்ள நீர் தொட்டி இருக்கும் இடத்திற்கு அழைத்துச் சென்றுள்ளார் .
+🟩
 
-அங்கு ஒன்பது வயது குழந்தையை குளிக்க செய்துவிட்டு வீட்டினுள்ளே அழைத்து சென்ற தாய் மூன்று வயது குழந்தையை நீர் தொட்டிக்கு அருகில் அமர் வைத்து சென்றுள்ளார்.
+A three -year -old child died in the water tank of the house in the Methena area.
 
-வெளியே வந்த தாய் மூன்று வயது குழந்தையை தேடிய போது குழந்தை நீர் தொட்டிக்குள் விழுந்து கிடப்பதைக் பார்த்து மீத்தெனிய வைத்தியசாலைக்கு கொண்டு சென்றுள்ளார்.
+The mother of the deceased child has taken her nine -year -old child and a three -year -old child to the place where the water tank is outside the house.
 
-சிகிச்சை பெற்று வந்த குழந்தை சிகிச்சை பலனின்றி குழந்தை உயிரிழந்துள்ளதாக வைத்தியசாலை அதிகாரிகள் தெரிவித்துள்ளனர்.
+The mother who took a nine -year -old child after taking a bath and took a three -year -old child near the water tank.
+
+The mother who came out was taken to the Meethena Hospital when she searched for a three -year -old child.
+
+Hospital officials said the child died without treatment.
 
 ◼️
 
 [Data](articles/68b632ce.json)
 
+[Extended Data](ext_articles/68b632ce.ext.json)
+
 ---
 
-### வைத்தியர் அர்ச்சனாவுக்கு ஆதரவாக ஆர்ப்பாட்டம்
+### Demonstration in favor of doctor Archana
 
 *2024-07-08 12:00:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அர்ச்சனாவுக்கு-ஆதரவாக-ஆர்ப்பாட்டம்/175-340030) · `ta`
 
-வைத்தியர் அர்ச்சுனாவை இடமாற்றம் செய்ய வேண்டாம் எனத் தெரிவித்து திங்கட்கிழமை (08)  சாவகச்சேரி ஆதார வைத்தியசாலைக்கு முன்பாக மாபெரும் மக்கள் போராட்டமொன்று முன்னெடுக்கப்பட்டு வருகின்றது.
+Protesters outside Chavakachcheri Resource Hospital demanded Dr. Archana not be transferred after authorities blocked her water supply due to illness. The demonstration turned violent until the doctor received water, ending the road shutdown.
 
-இந்நிலையில், குறித்த வைத்தியருக்கு தண்ணீர் கூட வழங்க விடாமல் அதிகாரிகள் தடுத்தனர். இந்நிலையில் அவரது உடல்நிலை சுகயீனமடைந்தது. அதன்பின்னர் போராட்டக்காரர்கள் மீண்டும் வீதியை மறித்து போராட்டத்தில் ஈடுபட்டுள்ளனர்.
+🟩
 
-வைத்தியருக்கு தண்ணீர் வழங்கப்பட்ட நிலையில் வீதி முடக்கல் போராட்டம் கைவிடப்பட்டதுடன், தொடர்ச்சியாக போராட்டம் முன்னெடுக்கப்பட்டு வருகின்றமை குறிப்பிடத்தக்கது
+A massive mass struggle is being carried out in front of the Chavakachcheri Resource Hospital on Monday (08) demanding that the doctor not transfer Archana.
+
+In this case, the authorities prevented the doctor from supplying water. In this case his health was ill. Since then, the protesters have again crossed the street and engaged in a protest.
+
+It is noteworthy that the road shutdown has been abandoned as the doctor has been given water.
 
 ◼️
 
 [Data](articles/8d45f9cf.json)
 
+[Extended Data](ext_articles/8d45f9cf.ext.json)
+
 ---
 
-### හෙට පාසල් පැවැත්වීම ගැන අමාත්‍යාංශයෙන් නිවේදනයක්
+### Ministry announced tomorrow
 
 *2024-07-08 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198599) · `si`
 
-හෙට (09) පාසල් පැවැත්වීම සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යාංශයෙන් නිවේදනයක් නිකුත් කර තිබේ.
+The Ministry of Education has confirmed that all government schools will open as usual tomorrow (09).
 
-එම නිවේදනයේ සඳහන්ව ඇත්තේ හෙට දිනයේ සාමාන්‍ය පරිදි සියලුම රජයේ පාසල් පැවැත්වෙන බවය.
+🟩
+
+The Ministry of Education has issued a statement regarding the conducting schools tomorrow (09).
+
+The announcement states that all government schools will be held tomorrow.
 
 ◼️
 
 [Data](articles/1371d107.json)
 
+[Extended Data](ext_articles/1371d107.ext.json)
+
 ---
 
-### විමල්ගෙන් අතුරු පෙත්සමක්
+### Interim petition from Wimal
 
 *2024-07-08 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198598) · `si`
 
-"ජනාධිපතිවරණය කල්දමන්න" නියෝග කරන්නැයි ඉල්ලා ගොනුකර ඇති පෙත්සම නිෂ්ප්‍රභ කරන ලෙස ඉල්ලමින් ජාතික නිදහස් පෙරමුණේ නායක, පාර්ලිමේන්තු මන්ත්‍රී විමල් වීරවංශ මහතා අතුරු පෙත්සමක් ගොනුකර තිබේ.
+Wimal Weerawansa, leading the National Freedom Front, has filed an interim petition challenging the "Dupasthana" order for the presidential election, citing the 19th Amendment's intent to limit the President's term to five years. This petition echoes one filed by the JNP's leader, with attorneys-at-law Gamathu Karinasena, Shnali Dias, and Nimashi Fernando representing them in the Supreme Court against the election.
 
-19 වන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය සම්මත කළ අවස්ථාවේ පාර්ලිමේන්තුවේ අභිප්‍රාය වුයේ ජනාධිපතිවරයාගේ ධුර කාලය වසර 5කට සීමා කිරීම බව එහි සඳහන් ය.
+🟩
 
-එය ඇතුළු තවත් කරුණු සඳහන් කරමින් ජානිපෙ නායකවරයා විසින් මෙම අතුරු පෙත්සම ගොනුකර ඇත.
+The Leader of the National Freedom Front, MP Wimal Weerawansa has filed a interim petition demanding the defense of the "Dupasthana" ordered the presidential election.
 
-ජනාධිපතිවරණය කල් දැමීමේ පෙත්සම නිෂ්ප්‍රභ කරන ලෙස  ඉල්ලා විමල් වීරවංශ මහතා වෙනුවෙන් නීතිඥ නිශාන් ප්‍රමිතිරත්න,  නීතිඥ ගමිදු කරුණාසේන, ෂෙනාලි ඩයස්,  නිමාෂි ප්‍රනාන්දු ඇතුළු නීතිඥවරු පිරිසක් අද (08) ශ්‍රේෂ්ඨාධිකරණය හමුවේ මෙම අතුරු පෙත්සම ගොනු කරනු ලැබූහ.
+The 19th Amendment to the Constitution was the intention of the Parliament that the President's term was limited to five years.
+
+The JNP's leader has filed the same interim petition.
+
+Attorneys-at-Law Gamathu Karinasena, Shnali Dias, Nimashi Fernando and the Supreme Court was filed by the Supreme Court today to refute the presidential election.
 
 ◼️
 
 [Data](articles/36f1fbe4.json)
+
+[Extended Data](ext_articles/36f1fbe4.ext.json)
 
 ---
 
@@ -176,19 +226,25 @@ Accordingly, the landslide warning has been issued to the Ingiriya Pulathsingha,
 
 ---
 
-### 11 பிரதேச செயலக பிரிவுகளுக்கு மண்சரிவு எச்சரிக்கை
+### Landslide warning to 11 Divisional Secretariat Divisions
 
 *2024-07-08 11:32:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/11-பிரதேச-செயலக-பிரிவுகளுக்கு-மண்சரிவு-எச்சரிக்கை/175-340027) · `ta`
 
-களுத்துறை மற்றும் இரத்தினபுரி மாவட்டங்களில் உள்ள 11 பிரதேச செயலக பிரிவுகளுக்கு விடுக்கப்பட்ட மண்சரிவு எச்சரிக்கை திங்கட்கிழமை (08) பிற்பகல் வரை அமுலில் இருக்கும் என தேசிய கட்டட ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது.
+A landslide warning is issued for 11 Divisional Secretariat Divisions in Kalutara and Ratnapura districts due to heavy rains, effective from Monday afternoon. The areas affected include Ingiriya Pulathsingha, Matugama, Balindanuwara in Kalutara, and Ratnapura, Kuruvita, Kiriella, Ayyagama, Alabatha, and Ehaliyagoda in Ratnapura district.
 
-நாட்டின் சில பகுதிகளில் பெய்து வரும் கடும் மழை காரணமாக இந்த எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+🟩
 
-இதன்படி, களுத்துறை மாவட்டத்தின் இங்கிரிய புலத்சிங்கள, மத்துகம, பாலிந்தநுவர ஆகிய பிரதேச செயலகப் பிரிவுகளுக்கும் இரத்தினபுரி மாவட்டத்தின் இரத்தினபுரி, கலவான, குருவிட்ட, கிரியெல்ல, அயகம, அலபாத்த, எஹலியகொட ஆகிய பிரதேச செயலகப் பிரிவுகளுக்கும் மண்சரிவு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+The landslide warning issued to 11 Divisional Secretariats in Kalutara and Ratnapura districts will be in effect on Monday (08) afternoon, the National Building Research Institute said.
+
+The warning has been issued due to heavy rains in some parts of the country.
+
+Accordingly, the landslide warning has been issued to the Ingiriya Pulathsingha, Matugama and Balindanuwara Divisional Secretariat Divisions of the Kalutara District and the Divisional Secretariat of the Ratnapura District, Ratnapura, Kuruvita, Kiriella, Ayyagama, Alabatha and Ehaliyagoda.
 
 ◼️
 
 [Data](articles/77086d97.json)
+
+[Extended Data](ext_articles/77086d97.ext.json)
 
 ---
 
@@ -285,6 +341,22 @@ The shooting that took place in the city of Athurugiriya, including famous singe
 [Data](articles/3f92206c.json)
 
 [Extended Data](ext_articles/3f92206c.ext.json)
+
+---
+
+### 'கிளப் வசந்த' சுட்டுக்கொலை: பலர் படுகாயம்
+
+*2024-07-08 11:10:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-சுட்டுக்கொலை-பலர்-படுகாயம்/175-340025) · `ta`
+
+அத்துருகிரிய ஒருவல சந்தியில்  சற்றுமுன்னர் இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் 'கிளப் வசந்த' என அழைக்கப்படும் உரேந்திர வசந்த பெரேரா கொல்லப்பட்டதுடன் பாடகர் கே.சுஜீவா உட்பட பலர் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக அத்துருகிரிய  பொலிஸார் தெரிவித்தனர்.
+
+பாடகர் கே.சுஜீவா மற்றும் பலர் டாட்டூ ஸ்டுடியோ திறப்பு விழாவில் கலந்து கொண்ட போது துப்பாக்கிச்சூடு சம்பவம் நடந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+இதேவேளை, பாடகர் சுஜீவா மற்றும் மற்றுமொருவர் மேலதிக சிகிச்சைக்காக கொழும்பு தேசிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளதாக வைத்தியசாலை வட்டாரங்கள் தெரிவித்தன.
+
+◼️
+
+[Data](articles/c36ffbe5.json)
 
 ---
 
@@ -655,6 +727,24 @@ Investigations have revealed that the child had fallen into the water tank to be
 [Data](articles/8968c3bc.json)
 
 [Extended Data](ext_articles/8968c3bc.ext.json)
+
+---
+
+### උඩරට එළවළු මිල පහළට
+
+*2024-07-08 09:19:20* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-එළවළු-මිල-පහළට/11-410659) · `si`
+
+පසුගිය සතියට සාපේක්ෂව උඩරට එළවළු වර්ග රැසක මිල පහල යමින් පවතින බව කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ වෙළෙදුන් පවසති.
+
+පැවති වර්ෂා සහිත අයහපත් කාලගුණ තත්වයත් සමග එළවළු වගාවන් විනාශ විම හේතුවෙන් පසුගිය සතිය පුරා එළවළු කිලෝවක තොග මිල යම් මට්ටමකින් ඉහල ගොස් තිබු අතර එළවළු වර්ග රැසක මිල මේ වන විට යලි පහත වැටෙමින් තිබෙන බව කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ වෙළෙදුන් පවසති.
+
+දිවයිනේ විවිධ ප්‍රදේශ වල එළවළු අස්වනු ආර්ථික මධ්‍යස්ථාන වලට ලැබීම හේතුවෙන් මෙලෙස බොහොමයක් එළවළු වර්ග වල මිල ගනන් පහත යමින් පවතින බවත් බෝංචි ඇතුළු එළවළු වර්ග කිහිපයක පමනක් මිල ඉහල ගොස් ඇති බවත් වෙළෙදුන් පවසති.
+
+මේ වන විට පසුගිය දින වල රුපියල් හාරසිය පනහක මිලක පැවති තක්කාලි කිලෝවක තොග මිල රුපියල් එකසිය හැටක් දක්වා පහත වැටී ඇති බවත් වෙලෙදුන් පවසන අතර පහත සදහන් මිල ගනන් වලට කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ එළවළු තොග කිලෝවක මිල පවතින බවත් වෙළෙදුන් පැවසීය.
+
+...
+
+[Data](articles/e14bc8f9.json)
 
 ---
 
@@ -2137,75 +2227,5 @@ Since March, Russian forces have intensified their bombardments of the Ukrainian
 [Data](articles/a89b53cd.json)
 
 [Extended Data](ext_articles/a89b53cd.ext.json)
-
----
-
-### LTTE attack in Galle
-
-*2024-07-07 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198581) · `si`
-
-Goal Marvels won against Candy Falcons in the Lanka Premier League, scoring 176 runs in 17.1 overs. Opener Andre Fleurchari and Nandu Hasaranga contributed significantly with 50 and 65 runs respectively. The bowling side was led by Isuru Udana with 3 wickets for 30 runs and Surur Khan with 2 wickets for 29 runs.
-
-🟩
-
-Goal Marvels was able to easily win the competition between Goal Marvels and Candy Falcons of the Lanka Premier League.
-
-Candy Falcation team scored 175 runs for the loss of 7 wickets in the loss of 7 overs.
-
-Opener Andre Fleurchari scored 50 runs while Nandu Hasaranga scored 65 runs for 32 balls.
-
-The Isuru Udana took 3 wickets for 30 runs while Serur Khan took 2 wickets for 29 runs.
-
-In response, Gole Marvels was able to bow down to 4 wickets.
-
-The ball players passed over 176 balls in 17.1 overs.
-
-◼️
-
-[Data](articles/22da0180.json)
-
-[Extended Data](ext_articles/22da0180.ext.json)
-
----
-
-### The Master Of The Game
-
-*2024-07-07 18:26:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-master-of-the-game/) · `en`
-
-Dr. W A Wijewardena, a highly esteemed individual, has recently completed his 75th journey around the sun. Over those years he has accumulated a wealth of experience on the subject of Economics, which he has generously shared with the rest of us. One sees his contributions to the society, particularly in his capacity as an educator, garnering significant recognition on social media, particularly from his students. Although I was not a formal student of the master, I am deeply grateful for the knowledge I have gained from him in the field of Economics. Undoubtedly, he stands among the most exceptional teachers I have encountered thus far.
-
-...
-
-[Data](articles/b8aecf3c.json)
-
-[Extended Data](ext_articles/b8aecf3c.ext.json)
-
----
-
-### Presentation of the Presidential Scholarships at district level from July 12th
-
-*2024-07-07 18:22:47* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-ශිෂ්‍යත්ව-පිරිනැමීම-ජූලි-12-වනදා-සිට-දිස්ත්‍රික්-මට්ටමින්/11-410651) · `si`
-
-Since July 12, the Presidential Fund has awarded scholarships at the district level, coordinated by District Secretaries and Principals. The scholarships, ranging from Rs. 30,000 to Rs. 32,000 per month, are listed on the official Facebook page. Selected students receive financial aid for their GCE Advanced Level education, with some receiving additional support for the R/L examination.
-
-🟩
-
-GCE Advanced Level. Awarding scholarships from the Presidential Fund have been awarded from the district level since July 12.
-
-The scholarship will be coordinated by the District Secretaries and Principals who are presented with scholarships for each district, as well as the number of scholarship recipients of scholarships for each district.The fund is scheduled to be published in the official Facebook page.
-
-The list of students selected for students who are serving students for each district is already listed at the Product Facebook page at the Product Facebook page.
-
-GCE Advanced Level. Rs.
-
-30,000 / - scholarship grant by the scholarship grant from the next month along with money for these students.. (R / L) examination will also be given scholarships each month until Rs. 6000 / - per month.
-
-Rs. 32,000 / - per month, which is selected for students selected from 1 to 11 schools in the island, is Rs.- A sum of money will be awarded at the cerever and Rs. 3000 / - per month from next month.
-
-...
-
-[Data](articles/3ae30bc7.json)
-
-[Extended Data](ext_articles/3ae30bc7.ext.json)
 
 ---

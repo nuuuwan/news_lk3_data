@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 14:07:08**
+As of **2024-07-08 14:20:54**
 
 ## Newspaper Stats
 
-*Scraped **34,217** Articles*
+*Scraped **34,220** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ islandlk | 1,925
 economynextcom | 2,010
 dailyftlk | 2,130
 adalk | 3,062
-adaderanalk | 3,921
+adaderanalk | 3,923
 tamilmirrorlk | 4,069
 dailymirrorlk | 4,733
 virakesarilk | 5,350
-adaderanasinhalalk | 5,693
+adaderanasinhalalk | 5,694
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,215 (100.0%) of 34,217 articles have been extended.
+34,215 (100.0%) of 34,220 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### ලේ නෑකමට එයා ගිය සහෝදරත්වය
+
+*2024-07-08 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198605) · `si`
+
+ළිඳේ සිටි සුරතල් මසුන් ඇල්ලීමට ගොස් දියේ ගිලුණු පුංචි පුතෙකුව බේරාගැනීමට ඔහුගේ 15 හැවිරිදි පාසල් සිසුවෙකුට හැකිවූ පුවත් පුත්තලම, මහකුඹුක්කඩවල කිවුල් ගම්මානයෙන් වාර්තා වුණි.
+
+එලෙස ළිඳට වැටී තිබුණේ පුත්තලම, මහකුඹුක්කඩවල කිවුල අංක 4 ගම්මානයේ පදිංචි වයස අවුරුදු හතරක් වූ ආකාශ් නෙතුමිණ නම් පුංචි පුතාය.
+
+ළිඳේ ජලය කැලැත්තෙන අයුරු දැක, ඒ සමග සසිඳු නිම්සර නැමති පාසල් සිසුවා ළිඳට පැන දරුවා බේරාගෙන තිබේ.
+
+තමන් සමග සෙල්ලම් කරමින් සිට නිවසට යන බව පවසමින් පිටත්ව ඇති මෙම සිව් හැවිරිදි දරුවා මොහොතකින් නිවසට නොගිය බව දැන ගැනීමේන් පසු කඩිනමින් ළිඳ ළඟට දිවගොස් ඒ තුළට එබී බැලීමේ දී ජලය කැලතෙන අයුරු දැක ඇත.
+
+සසිඳුගේ වීර ක්‍රියාව නොවන්නට පුංචි පුතාගේ දිවි අහිමි වීමට පවා ඉඩ තිබුණු බව ගම්වාසීන් පවසයි.
+
+දරුවා වැටී ඇත්තේ අඩි 36කට වඩා වැඩි ගැඹුරකින් යුතු අනාරක්ෂිත ළිඳකට වන අතර එහි පැති බැම්ම වර්ෂාව සමග ළිඳ තුළට කඩා වැටී ඇත.
+
+දියේ ගිලුණු පුංචි පුතු නිරන්තරයෙන් සසිඳුගේ නිවසට යන එන අයෙකු වන බවත් ඔහු සසිඳුගේ නිවසේ රැඳෙමින් ආහාර පවා ගන්නා බවත් පැවසේ.
+
+ජීවිතයක් බේරාගත් සසිඳු තමන් සිදුකළ වීර ක්‍රියාව මෙලෙස පවසන්නට වුණි.
+
+...
+
+[Data](articles/7e61fa71.json)
+
+---
+
+### Car used in Athurugiriya shooting found in Kaduwela
+
+*2024-07-08 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100372/car-used-in-athurugiriya-shooting-found-in-kaduwela) · `en`
+
+The car used in the Athurugiriya shooting incident, which resulted in the deaths of two individuals including Surendra Wasantha Perera also known as ‘Club Wasantha’, has been found in the Koratota area in Kaduwela by the police.
+
+The shooting had occurred during the opening ceremony of a beauty salon near the Clock Tower in Athurugiriya. Six persons were rushed to hospital following the shooting.
+
+However, police later confirmed that well-known businessman 55-year-old Surendra Wasantha Perera, also known as “Club Wasantha,” and a 38-year-old male had succumbed to injuries on admission to the hospital.
+
+Additionally, four other individuals including the popular singer K. Sujeewa were injured and are currently receiving treatment at hospital. The four injured persons includes three females.
+
+An injured woman and a man are being treated at the Colombo National Hospital while the other women are being treated at the Homagama Hospital.
+
+...
+
+[Data](articles/3ef687f2.json)
+
+---
 
 ### වෙඩික්කරුවන් ආ මෝටර් රථය සොයාගනී
 
@@ -71,6 +117,24 @@ The Supreme Court has dismissed a petition filed by the Supreme Court seeking to
 [Data](articles/2f95e126.json)
 
 [Extended Data](ext_articles/2f95e126.ext.json)
+
+---
+
+### Supreme Court dismisses FR petition seeking to delay Presidential Election
+
+*2024-07-08 13:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100371/supreme-court-dismisses-fr-petition-seeking-to-delay-presidential-election) · `en`
+
+The fundamental rights (FR) petition filed by businessman C.D. Lenawa seeking an order preventing the calling of a Presidential Election until the Supreme Court delivers its interpretation on the date of the presidential poll, has been dismissed by a five-member Supreme Court judge bench headed by the Chief Justice.
+
+Earlier today, the Supreme Court concluded the hearing of the FR petition and the intervening petitions while the verdict in the case was announced by the Supreme Court at 12.30 p.m. today.
+
+The petition was filed by an entrepreneur named C.D. Lenawa last Wednesday (3).
+
+The petition requests that an interim order be issued to prevent the holding of the presidential election within the currently scheduled period until the court delivers its interpretation on the date of the next presidential election.
+
+...
+
+[Data](articles/eebdc1dd.json)
 
 ---
 
@@ -136,7 +200,13 @@ The hearing of the fundamental rights (FR) petition filed by businessman C.D. Le
 
 Accordingly, the verdict in the case will be announced by the Supreme Court at 12.30 p.m. today.
 
-◼️
+The petition was filed by an entrepreneur named C.D. Lenawa last Wednesday (3).
+
+The petition requests that an interim order be issued to prevent the holding of the presidential election within the currently scheduled period until the court delivers its interpretation on the date of the next presidential election.
+
+A five-member Supreme Court bench consisting of Chief Justice Jayantha Jayasuriya, Vijith Malalgoda, Murdu Fernando, Preethi Padman Surasena and S. Thurairaja was named to consider the petition today.
+
+...
 
 [Data](articles/a0178621.json)
 
@@ -514,21 +584,17 @@ The deceased has been identified as the individual known as “Club Wasantha” 
 
 *2024-07-08 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100367/club-wasantha-killed-in-shooting-singer-k-sujeewa-among-several-injured) · `en`
 
-UPDATE 12.22 p.m.: Another person injured in the shooting incident at Athurugiriya has succumbed to injuries increasing the death toll from the incident to 02.
+UPDATE: (1.45 p.m.) - The car used in the Athurugiriya shooting incident, which resulted in the deaths of two individuals including Surendra Wasantha Perera also known as “Club Wasantha”, has been found in the Koratota area in Kaduwela by the police.
 
-Additionally, four individuals, including singer K. Sujeewa, have been injured and are currently receiving treatment, according to the police.
+The shooting had occurred during the opening ceremony of a beauty salon near the Clock Tower in Athurugiriya. Six persons were rushed to hospital following the shooting.
 
-One person has been reported dead, while at least five others were left injured following a shooting incident at Oruwala in Athurugiriya.
+However, police later confirmed that well-known businessman 55-year-old Surendra Wasantha Perera, also known as “Club Wasantha”. and a 38-year-old male had succumbed to injuries on admission to the hospital.
 
-The injured individuals have been admitted to the Homagama Hospital, according to the police.
+Additionally, four other individuals including the popular singer K. Sujeewa were injured and are currently receiving treatment at hospital. The four injured persons includes three females.
 
-The deceased has been identified as Surendra Wasantha Perera also known as “Club Wasantha” while popular singer ‘K. Sujeewa’ is also among the injured from the shooting incident, police said.
+An injured woman and a man are being treated at the Colombo National Hospital while the other women are being treated at the Homagama Hospital.
 
-The shooting reportedly took place during the opening ceremony of a beauty salon near the Clock Tower in Athurugiriya.
-
-Police said that footage of the vehicle in which the suspects had arrived was recorded on a nearby CCTV camera.
-
-◼️
+...
 
 [Data](articles/c3b51083.json)
 
@@ -2076,6 +2142,22 @@ According to the police, the article has directed a person or group of individua
 
 ---
 
+### Political Journey of  Tamil “Perunthalaiver” (Great Leader) Rajavarothayam Sampanthan.
+
+*2024-07-07 21:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84342) · `en`
+
+Veteran Tamil political leader  and senior Trincomalee district MP,Rajavarothayam Sampanthan passed away peacefully in Colombo on 30 June 2024. The nonagenarian Sampanthan who had been ailing for some time was listening after dinner  to an audio tape of “Kanthasashti Kavasam”verses sung by  the Soolaman Sisters Rajalakshmi and Jeyalakshmi when he collapsed  with a groan.  Sampanthan was immediately taken to   Lanka Hospital where he  breathed his last around 11 PM.
+
+The Kanthasashti Kavasam  composed by Balan Devaraya Swamigal  consist of devotional verses praising Lord Murugan or Skandha.  Muruga the second son of Lord Shiva and Parvathy is  regarded as the  “Thamizhkkadavul”  or God of Tamils. Passing away peacefully while listening to Kandha Sashti Kavasam verses is indeed a blessed death for devout hindus. Sampanthan was a deeply religious person whose family deity is  the Pathrakali Amman of Trincomalee.
+
+...
+
+[Data](articles/251e8a55.json)
+
+[Extended Data](ext_articles/251e8a55.ext.json)
+
+---
+
 ### “பெருந்தலைவர்’ இராஜவரோதயம் சம்பந்தனின் அரசியல் பயணம்
 
 *2024-07-07 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84349) · `en`
@@ -2145,103 +2227,5 @@ President Wickremesinghe made these remarks while attending Mr. R. Sampanthan’
 [Data](articles/ffe95ad1.json)
 
 [Extended Data](ext_articles/ffe95ad1.ext.json)
-
----
-
-### India be convenient to India
-
-*2024-07-07 19:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198584) · `si`
-
-In a cricket match, India beat Zimbabwe in the second T20I, scoring 234/7 after batting first, while Zimbabwe made 134 runs.
-
-🟩
-
-Tourist by the Indian team won the second 20 20 and Zimbabwe.
-
-Batting first, the Indian team scored 234 wickets and the Host Zimbabwe scored 134 runs.
-
-◼️
-
-[Data](articles/b18a1b68.json)
-
-[Extended Data](ext_articles/b18a1b68.ext.json)
-
----
-
-### In Sri Lanka. Sampanthan and I have always worked - the President
-
-*2024-07-07 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187928) · `ta`
-
-President Ranil Wickremesinghe honored the late Sampanthan, describing him as a leader for the Tamil people and a unifier for all Sri Lankans. He emphasized Sampanthan's dedication to resolving Tamil issues and uniting the nation. The President urged unity to finalize ongoing discussions aimed at addressing these concerns. Sampanthan's funeral was attended by a broad spectrum of Sri Lankan society, highlighting his widespread respect and influence.
-
-🟩
-
-Hidden. President Ranil Wickremesinghe said that Sampanthan was the leader of the entire Sri Lankan people for the rights of the Tamil people and that Sampanthan was dedicated to Sri Lanka that he was always divided.
-
-Nonsense. The President also stated that everyone should unite to successfully complete the discussions that have been brought forward with the agreement with Sambandan.
-
-President Ranil Wickremesinghe made this statement while attending the funeral of Sambandan held at the Annaru residence in Trincomalee on Sunday afternoon.
-
-Former Opposition Leader and former TNA leader and Trincomalee district parliamentarian. Sampanthan's funerals were held on Sunday afternoon (07) with the participation of a large number of people, including the ruling and opposition political leaders, ministers, parliamentarians and party leaders.
-
-Nonsense. The President expressed his deepest condolences to Sampanthan's death and said that his death was a loss of a long -time friend.
-
-...
-
-[Data](articles/c99ab829.json)
-
-[Extended Data](ext_articles/c99ab829.ext.json)
-
----
-
-### Interestless loans for A / L
-
-*2024-07-07 19:41:42* · [`adalk`](https://www.ada.lk/breaking_news/උසස්පෙළ-සමතුන්ට-පොලී-රහිත-ණය/11-410657) · `si`
-
-The Ministry of Education is rapidly implementing interest-free loans for students through NGOs, targeting GCE Advanced Level graduates. This initiative is part of the Interest-Free Student Credit Scheme, aiming to support students' education without financial burden. The scheme has already benefited over 3,000 students across various stages, with plans to extend it further.
-
-🟩
-
-2022 Ministry of Education says that arrangements are being carried out expeditiously to follow courses in NGOs to study courses in NGOs.
-
-The proposed proposals proposed to be sent to the students who passed the GCE Advanced students as the eighth team of 2022 as the eighth team of interest free of the Interest-Free Student Credit Scheme.And National Policies are scheduled to be held at the Ministry of Policy.
-
-According to the budget proposals of the 2017 Budget proposal to provide a degree of an A / L students to be included in a state university, the Budget Proposal has been implemented in 2017.. In a maximum of Rs.
-
-...
-
-[Data](articles/1ce84ad0.json)
-
-[Extended Data](ext_articles/1ce84ad0.ext.json)
-
----
-
-### A great strike today
-
-*2024-07-07 19:31:54* · [`adalk`](https://www.ada.lk/breaking_news/අද-මහා-වර්ජනයක්/11-410656) · `si`
-
-Public service unions in Sri Lanka plan a strike, demanding pay raises and better conditions. Over 200 trade unions, including those representing lower-grade employees hit hardest by the economic crisis, are participating. The strike aims to pressure the government into increasing the minimum basic salary and providing additional allowances. Educational institutions are also affected, with proceedings ongoing.
-
-🟩
-
-The personnel and public service union groups of the Ministry of State Services and Public Service Union (UPFA) and the Public Service Trade Union Alliance (08) and tomorrow (08) will be taken away tomorrow (8).
-
-Trade unions states that the government has taken an allowance of Rs.
-
-Member of the Member of the Association of State Secretary Chandana Sooriyarachchi said that this program would connect to this program.
-
-Accordingly, the public officials who work in the strike and Colombo districts will be held in front of the Ministry of Public Administration and the public secretaries will be held in front of all District Secretaries tomorrow.
-
-He added that the minimum basic salary of the public service is Rs.
-
-He said that the government has asked the authorities to provide an allowance of Rs.
-
-However, more than five lakhs of primary and secondary services will be lifted from today (08th) and will not respond due to these measures today (October 8) and will be responding to these activities..
-
-...
-
-[Data](articles/d74d6e41.json)
-
-[Extended Data](ext_articles/d74d6e41.ext.json)
 
 ---

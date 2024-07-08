@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 00:51:01**
+As of **2024-07-09 01:04:50**
 
 ## Newspaper Stats
 
-*Scraped **34,286** Articles*
+*Scraped **34,287** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 310
-colombotelegraphcom | 319
+colombotelegraphcom | 320
 bbccomsinhala | 335
 newsfirstlk | 363
 islandlk | 1,925
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,286 (100.0%) of 34,286 articles have been extended.
+34,286 (100.0%) of 34,287 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -595,6 +595,18 @@ The General Treasury Secretary pointed out that the expenditure increased to Rs.
 [Data](articles/afba6368.json)
 
 [Extended Data](ext_articles/afba6368.ext.json)
+
+---
+
+### The Palestinians Have Exposed The Zionist Tentacles
+
+*2024-07-08 19:16:29* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-palestinians-have-exposed-the-zionist-tentacles/) · `en`
+
+“What we know about how these children are being treated is unacceptable, but what we don’t know could be even worse.” ~ Jason Lee, Save the Children
+
+...
+
+[Data](articles/2f4953c8.json)
 
 ---
 
@@ -2289,29 +2301,5 @@ The 32-year-old woman who committed the murder has been arrested and Athgala  P
 [Data](articles/60e94679.json)
 
 [Extended Data](ext_articles/60e94679.ext.json)
-
----
-
-### 78-year-old woman murdered by grandson’s wife
-
-*2024-07-08 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100366/78-year-old-woman-murdered-by-grandsons-wife) · `en`
-
-An elderly woman has reportedly been murdered after being attacked to death with sharp weapons in the Ulapane area of Athgala.
-
-Police stated that the murder had been committed last morning (7).
-
-The murdered woman was living in the same house with her grandson, his wife and two children.
-
-The police investigations have revealed that the murder was committed over a family dispute by the grandson’s wife.
-
-It was later revealed that the grandson was not at home at that time.
-
-The 32-year-old woman who committed the murder has been arrested and Athgala  Police are conducting further investigations related to the incident.
-
-◼️
-
-[Data](articles/9a6975fd.json)
-
-[Extended Data](ext_articles/9a6975fd.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 15:05:01**
+As of **2024-07-08 15:19:57**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,695
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,222 (100.0%) of 34,223 articles have been extended.
+34,223 (100.0%) of 34,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### අවුරුදු 3 වයසැති සිගිති දරැවා තම නිවසේ ජල ටැංකියට ඇඳ වැටී මිය යයි
+### The 3-year-old sigil falls and dies after falling into the water tank
 
 *2024-07-08 14:48:14* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-3-වයසැති-සිගිති-දරැවා-තම-නිවසේ-ජල-ටැංකියට-ඇඳ-වැටී-මිය-යයි/11-410667) · `si`
 
-අවුරුදු තුනක් වයසැති සිගිති දරුවෙකු ඊයේ (7)දින රාත්‍රි  8ට පමණ නිවසේ ජල ටැංකියට ඇද වැටී දියේ ගිලී මියගොස් ඇතැයි මිද්දෙනිය පොලිසිය පැවසීය.  මෙලෙස මියගොස් ඇත්තේ අංක 44/ සී 5 , වික්‍රම මාවත , නැගෙනහිර මිද්දෙනිය ලිපිනයේ පදිංචිව සිටි සමරකෝන් මුදියන්සේ ලාගේ අයෝන් කොවිජ නමැති දරු සිගිත්තාය.
+A tragic incident occurred last night where a three-year-old boy named Signeka, Samarakoon Mudiyanseee Lamanse from Eastern Middeniya fell into a hazardous water tank and died. His mother was called to the scene but arrived too late. The child was first taken to Middeniya Hospital, where he succumbed to his injuries. An investigation is ongoing, with the body being sent for a post-mortem examination at the Embilipitiya Base Hospital.
 
-දරුවාගේ මව සිය නව හැවිරිදි දරුවා සහ මියගිය තුන් හැවිරිදි දරුවා රාත්‍රි ආහාරය ගැනීමෙන් පසු ඔවුන්ගේ ඇග සෝදා නින්දට යැවීමට නිවස පිටත තනා ඇති ජල ටැංකිය වෙත කැදවා ගෙන ගොස් තිබේ. නව හැවිරිදි දරුවාගේ ඇග සේදූ මව කුඩා දරුවා ජල ටැංකිය අසල සිටියදී වැඩිමහල් දරුවා  සමග නිවස තුලට ගොස් තිබේ .
+🟩
 
-නැවත පැමිණ සොයා බැලීමේදී කුඩා දරුවා ජල ටැංකිය තුලට වැටී සිටිනු දැක ඔහු ගොඩට ගෙන මිද්දෙනිය රෝහලට ඇතුළත් කර තිබේ. මිද්දෙනිය රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී කුඩා දරුවා ජීවිතක්ෂයට පත්වූ බව රෝහල් ආරංචි මාර්ග පැවසීය .
+A three-year-old Siggle was killed last night (7) and died on the hazardous water tank at around 8 pm yesterday.The deceased has been identified as Signeka, Samarakoon Mudiyanseee Lamanse, a resident of No. 44 / C5, Wickrama Mawatha, Eastern Middeniya.
 
-අසල තිබූ බේසමක් මත නැගී දරුවා ජල ටැංකියට එබෙන්නට තැත් කිරීමේදී ඔහු එතුලට ඇද වැටෙන්නට ඇතැයි සැකකරන බව පොලිසිය පැවසීය .
+The mother of the child has been summoned to the water tank to wash their lives, to wash their limes, to wash their lives, to wash their lives, to wash their lives, to wash their lives, and to sleep. The mother of a nine-year-old child had gone to the house with the eldest child while near the water tank.
+
+Returning to come back and see the young child falls into the water tank and has been rushed to the Middeniya Hospital. Hospital sources said that the child was killed while receiving treatment at the Middeniya Hospital.
+
+The police said that when he states on a nearby sink and the child is trying to be hit by the water tank, police said.
 
 ...
 
 [Data](articles/a3b60ef0.json)
+
+[Extended Data](ext_articles/a3b60ef0.ext.json)
 
 ---
 

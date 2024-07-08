@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 15:54:06**
+As of **2024-07-08 16:07:14**
 
 ## Newspaper Stats
 
-*Scraped **34,225** Articles*
+*Scraped **34,226** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,010
 dailyftlk | 2,130
-adalk | 3,064
+adalk | 3,065
 adaderanalk | 3,924
 tamilmirrorlk | 4,069
 dailymirrorlk | 4,733
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,223 (100.0%) of 34,225 articles have been extended.
+34,225 (100.0%) of 34,226 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### කේ. සුජීවාගේ සෞඛ්‍ය තත්ත්වය ගැන අලුත්ම ආරංචිය
+### K. The latest news about Sujeewa's health condition
 
 *2024-07-08 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198607) · `si`
 
-අතුරුගිරියේ වෙඩි තැබීමෙන් පසුව කොළඹ ජාතික රෝහලට මාරු කර යැවූ දෙදෙනා මේ වනවිට දැඩි සත්කාර ඒ්කකයේ ප්‍රතිකාර ලබමින් සිටින බව කොළඹ ජාතික රෝහලේ නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය රුක්ෂාන් මහතා පවසයි.
+Dr. Rukshan, Deputy Director of Colombo National Hospital, was shot in Athurugiriya, seriously injuring him and another man involved in the incident.
 
-හදිසි අනතුරු අංශයට කාන්තාවක් හා පිරිමි අයෙකු ඇතුළත් කර තිබූ අතර ඔවුන් දෙදෙනාගේම ඉනෙන් පහළට තුවාල සිදුව ඇතැයි වෛද්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
+🟩
+
+Deputy Director of the Colombo National Hospital Dr. Rukshan has been admitted to the Colombo National Hospital after the shooting of the Athurugiriya.
+
+The doctor added that the accident had been included in the accident and a man, and the two had injured.
 
 ◼️
 
 [Data](articles/056a31ea.json)
+
+[Extended Data](ext_articles/056a31ea.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ Mr Zelensky, who is due to travel to the US for this week’s Nato summit in Was
 ...
 
 [Data](articles/a6aaab00.json)
+
+[Extended Data](ext_articles/a6aaab00.ext.json)
 
 ---
 
@@ -807,6 +815,22 @@ There "Club Wasantha" has died and a singer K. Sujeewa has been injured.
 [Data](articles/46937784.json)
 
 [Extended Data](ext_articles/46937784.ext.json)
+
+---
+
+### බූස්ස අධිආරක්ෂිත බන්ධනාගාරයෙන් සොයාගත් දුරකථන හා උපාංග
+
+*2024-07-08 11:04:21* · [`adalk`](https://www.ada.lk/breaking_news/බූස්ස-අධිආරක්ෂිත-බන්ධනාගාරයෙන්-සොයාගත්-දුරකථන-හා-උපාංග/11-410664) · `si`
+
+බූස්ස අධි ආරක්ෂිත බන්ධනාගාරයේ තිබී නවීන පන්නයේ ජංගම දුරකථන තුනක් සහ දුරකථන උපාංග තොගයක් විශේෂ කාර්ය බලකා නිලධාරීන් විසින් ඊයේ (7) අත් අඩංගුවට ගන්නා ලදි.
+
+එම බන්ධනාගරයේ රෝහල හා ඒ අවට සිදු කළ මෙහෙයුමේදී සිමෙන්ති  හා පොටි කොට්ට තුළ ඉතා සූක්ෂමව සගවා තිබූ ජංගම දුරකතන තුන සහ ජංගම දුරකතන උපාංග සොයාගත් බව පොලිස් විශේෂ කාර්ය බලකාය කියයි.
+
+වැඩිදුර විමර්ශන කටයුතු සඳහා දුරකතන හා උපාංග බන්ධනාගාර පාලනාධිකාරිය වෙත භාර දී ඇත.
+
+◼️
+
+[Data](articles/b7c61bb8.json)
 
 ---
 
@@ -2213,29 +2237,5 @@ R. The President expressed his deepest condolences to Sampanthan's death and sai
 [Data](articles/4d702270.json)
 
 [Extended Data](ext_articles/4d702270.ext.json)
-
----
-
-### Stock of drugs worth over Rs. 5 million found from house of suspect shot by cops
-
-*2024-07-07 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100359/stock-of-drugs-worth-over-rs-5-million-found-from-house-of-suspect-shot-by-cops) · `en`
-
-Police have today recovered a stock of drugs worth more than Rs. 5,000,000 from the rented house of drug trafficker Sahan Dhananjaya, alias “Kona,” who was shot while fleeing from police officers after pointing a firearm at them.
-
-Athurugiriya Police had received information that ‘Kona’, a known drug trafficker, was transporting drugs from Kottawa to the Piliyandala area on July 4.
-
-Acting on this intelligence, the police had conducted a special traffic inspection at the Friday ‘Pola’ (fair) junction in Piliyandala.
-
-During the inspection, a person had exited a car that had been stopped by police and brandished a firearm at the officers. In response, the police officers had opened fire at him.
-
-Despite the police firing at him, the individual had managed to flee, and his bullet-ridden car was later found abandoned in the Kesbewa area.
-
-The suspect was subsequently apprehended while receiving medical treatment at the Kalubowila Teaching Hospital for a gunshot wound in his leg.
-
-...
-
-[Data](articles/300cccd4.json)
-
-[Extended Data](ext_articles/300cccd4.ext.json)
 
 ---

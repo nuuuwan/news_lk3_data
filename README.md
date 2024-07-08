@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 03:35:22**
+As of **2024-07-09 03:53:45**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,289 (100.0%) of 34,290 articles have been extended.
+34,290 (100.0%) of 34,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### புத்தரின் போதனைகளில் உள்ள விடயங்கள் தான் இன்று  உலகில்  புதிய சிந்தனைகளாக முன்வைக்கப்படுகின்றன - ஜனாதிபதி
+### The issues in the teachings of the Buddha are present in the world today as new ideas - the President
 
 *2024-07-09 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187997) · `ta`
 
-பௌத்த மதத்திற்கும் நாம் தற்போது பயணித்துக்கொண்டிருக்கும் நவீன விஞ்ஞானம் மற்றும் தொழிநுட்ப உலகிற்கும் இடையில் பாரிய தொடர்பு இருப்பதாகவும், உலகம் எதிர்நோக்கும் எதிர்கால சவால்களை வெற்றிகொள்ளும் வழி புத்தரின் போதனைகளில் உள்ளடங்குவதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe highlighted the relevance of Buddha's teachings in today's world, emphasizing the connection between Buddhism and modern science and technology. He announced plans to revive the Anuradhapura Maha Vikarai, focusing on Buddhist philosophy, history, and the spread of Buddhism globally. The President also mentioned initiatives to explore the intersection of Buddhism and artificial intelligence, aiming to foster collaboration between the government, Maha Sangham, and the public.
 
-திரிபிடகம் உள்ளிட்ட பௌத்த தத்துவம், இலங்கை வரலாறு, நாகரிகம், உலகில் பௌத்தத்தின் பரவல் மற்றும் பாலி, கலாசாரம் மற்றும் பிற மொழிகள் பற்றிய அறிவை வளர்த்துக்கொள்ளக் கூடிய புதிய நிறுவனம் ஒன்றை இந்நாட்டில் நிறுவுவது குறித்து ஆலோசித்து வருவதாகக் குறிப்பிட்ட ஜனாதிபதி, வரலாற்றில் அநுராதபுரம் மகா விகாரை முன்னெடுத்த பணிகளை மீள ஆரம்பிப்பதே இதன் நோக்கமாகும். என்றும் தெரிவித்தார்.
+🟩
 
-சப்ரகமுவ மாகாண சபை கேட்போர் கூடத்தில் திங்கட்கிழமை (08) இடம்பெற்ற இலங்கை அமரபுர மகா நிகாயவின் அமரபுர தின நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe said that there is a huge connection between Buddhism and the modern science and technology world we are currently traveling, and that the teachings of the Buddha are in the teachings of the Buddha.
+
+The aim is to restart the work of the President of the Anuradhapura Maha Vikarai in the history of the Buddhist philosophy, Sri Lanka's history, civilization, the spread of Buddhism in the world and the establishment of a new institution that develops a new institution in the country.. He said.
+
+President Ranil Wickremesinghe made this statement while addressing the Amarapura Day ceremony of Sri Lanka's Amarapura Maha Nikaya held at the Sabaragamuwa Provincial Council auditorium on Monday (08).
 
 ...
 
 [Data](articles/a36b5ffe.json)
+
+[Extended Data](ext_articles/a36b5ffe.ext.json)
 
 ---
 

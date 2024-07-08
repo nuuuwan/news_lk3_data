@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 05:05:02**
+As of **2024-07-09 05:20:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,290 (100.0%) of 34,295 articles have been extended.
+34,295 (100.0%) of 34,295 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ Following several media reports relating to Sri Lanka’s continental shelf subm
 
 [Data](articles/790dc723.json)
 
+[Extended Data](ext_articles/790dc723.ext.json)
+
 ---
 
 ### Sri Lankan Ambassador to Saudi Arabia initiates felicitation of long-serving migrant workers
@@ -59,6 +61,8 @@ Speaking at the occasion, Ambassador Ajwad stated that Sri Lankan migrant worker
 ...
 
 [Data](articles/48cb67fb.json)
+
+[Extended Data](ext_articles/48cb67fb.ext.json)
 
 ---
 
@@ -79,6 +83,8 @@ Sri Lanka’s Supreme Court dismissed a petition yesterday seeking to postpone t
 ...
 
 [Data](articles/2f2dd9ba.json)
+
+[Extended Data](ext_articles/2f2dd9ba.ext.json)
 
 ---
 
@@ -102,6 +108,8 @@ Speaking to those gathered, the Registrar of the Asgiriya chapter, Medagama Dham
 
 [Data](articles/df9fa05f.json)
 
+[Extended Data](ext_articles/df9fa05f.ext.json)
+
 ---
 
 ### Police confirm Club Wasantha was main target in Athurugiriya shooting
@@ -119,6 +127,8 @@ According to the police, the incident resulted in the death of another male and 
 ...
 
 [Data](articles/08d9bd90.json)
+
+[Extended Data](ext_articles/08d9bd90.ext.json)
 
 ---
 

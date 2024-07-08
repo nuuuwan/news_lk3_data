@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 12:19:56**
+As of **2024-07-08 12:36:11**
 
 ## Newspaper Stats
 
-*Scraped **34,195** Articles*
+*Scraped **34,203** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,143 @@ islandlk | 1,925
 economynextcom | 2,010
 dailyftlk | 2,130
 adalk | 3,058
-adaderanalk | 3,919
-tamilmirrorlk | 4,061
+adaderanalk | 3,920
+tamilmirrorlk | 4,064
 dailymirrorlk | 4,733
 virakesarilk | 5,350
-adaderanasinhalalk | 5,686
+adaderanasinhalalk | 5,690
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,190 (100.0%) of 34,195 articles have been extended.
+34,195 (100.0%) of 34,203 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### අතුරුගිරියේ වෙඩි තැබීමේ තවත් අයෙක් මරුට
+
+*2024-07-08 12:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198601) · `si`
+
+අතුරුගිරිය නගරයේ සිදුවූ වෙඩි තැබීමෙන් තවත් අයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+අද (08) පෙරවරු දහයට පමණ මෙම වෙඩි තැබීම සිදුව තිබූ අතර එහිදී ප්‍රසිද්ධ ව්‍යාපාරිකයෙකු වන සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත මිය ගියේය.
+
+එම වෙඩි තැබීමෙන් තවත් පුද්ගලයින් පස් දෙනෙකු තුවාල ලබා රෝහල්ගත කර ඇති අතර ප්‍රසිද්ධ ගායන ශිල්පිනියක් වන කේ සූජීවාද ඒ අතර වේ.
+
+අතුරුගිරිය නගරයේ ඔරලෝසු කනුව ආසන්නයේ රූපලාවන්‍ය ආයතනයක් විවෘත කිරීමේ උත්සවයක් අතරතුර දී වෙඩිතැබීම සිදුව තිබේ.
+
+වෙඩි ප්‍රහාරයට ලක්ව තුවාල ලැබූ පුද්ගලයින් 6 දෙනෙකු වහාම හෝමාගම රෝහලට සහ කොළඹ ජාතික රෝහලට ඇතුළත් කර තිබුණි.
+
+එහිදී ක්ලබ් වසන්ත ජීවිතක්ෂයට පත්වූ අතර, තුවාල ලැබූ තවත් අයෙක් මේ වනවිට මියගොස් ඇත.
+
+වෙඩිතැබීම සිදුකළ සැකකරුවන් පැමිණි වාහනය බව පැවසෙන වාහනය අසල CCTV කැමරාවක සටහන්ව තිබෙන බව පොලීසිය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/fb0fc312.json)
+
+---
+
+### ජනපති ධුර කාලය ගැන පෙත්සම සලකා බැලීමේ තීන්දුව සුළු වේලාවකින්
+
+*2024-07-08 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198600) · `si`
+
+ජනපති ධුර කාලය සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණයෙන් අර්ථනිරූපණයක් ලබාදෙන තුරු ජනාධිපතිවරණය පැවැත්වීම වැළැක්වීමේ අතුරු නියෝගයක් ඉල්ලා ඉදිරිපත් කළ පෙත්සම සහ එහි අතරමැදි පෙත්සම් මේ වනවිට සලකා බැලීම අවසන් කර තිබේ.
+
+ඒ පිළිබඳ ශ්‍රේෂ්ඨාධිකරණ තීන්දුව අද දහවල් 12.30ට ප්‍රකාශයට පත්කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/244c004e.json)
+
+---
+
+### Notice issued on functioning of schools tomorrow
+
+*2024-07-08 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100369/notice-issued-on-functioning-of-schools-tomorrow) · `en`
+
+The Ministry of Education states that government schools across the island will function as usual tomorrow (9).
+
+This was communicated in a statement issued by the Ministry of Education today (8).
+
+Meanwhile, it is reported that teacher-principal trade unions are scheduled to engage in trade union action by reporting ‘sick’ tomorrow.
+
+◼️
+
+[Data](articles/ea8ab200.json)
+
+---
+
+### நீர்த் தொட்டியில் விழுந்து குழந்தை பலி
+
+*2024-07-08 12:10:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்த்-தொட்டியில்-விழுந்து-குழந்தை-பலி/175-340032) · `ta`
+
+மீத்தெனிய பிரதேசத்தில் மூன்று வயதுடைய குழந்தையொன்று வீட்டின் நீர்த் தொட்டியில் விழுந்து உயிரிழந்துள்ளது.
+
+உயிரிழந்த குழந்தையின் தாய் தனது ஒன்பது வயது குழந்தையையும், உயிரிழந்த மூன்று வயது குழந்தையையும் குளிக்க வைப்பதற்காக வீட்டிற்கு வெளியே உள்ள நீர் தொட்டி இருக்கும் இடத்திற்கு அழைத்துச் சென்றுள்ளார் .
+
+அங்கு ஒன்பது வயது குழந்தையை குளிக்க செய்துவிட்டு வீட்டினுள்ளே அழைத்து சென்ற தாய் மூன்று வயது குழந்தையை நீர் தொட்டிக்கு அருகில் அமர் வைத்து சென்றுள்ளார்.
+
+வெளியே வந்த தாய் மூன்று வயது குழந்தையை தேடிய போது குழந்தை நீர் தொட்டிக்குள் விழுந்து கிடப்பதைக் பார்த்து மீத்தெனிய வைத்தியசாலைக்கு கொண்டு சென்றுள்ளார்.
+
+சிகிச்சை பெற்று வந்த குழந்தை சிகிச்சை பலனின்றி குழந்தை உயிரிழந்துள்ளதாக வைத்தியசாலை அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/68b632ce.json)
+
+---
+
+### வைத்தியர் அர்ச்சனாவுக்கு ஆதரவாக ஆர்ப்பாட்டம்
+
+*2024-07-08 12:00:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அர்ச்சனாவுக்கு-ஆதரவாக-ஆர்ப்பாட்டம்/175-340030) · `ta`
+
+வைத்தியர் அர்ச்சுனாவை இடமாற்றம் செய்ய வேண்டாம் எனத் தெரிவித்து திங்கட்கிழமை (08)  சாவகச்சேரி ஆதார வைத்தியசாலைக்கு முன்பாக மாபெரும் மக்கள் போராட்டமொன்று முன்னெடுக்கப்பட்டு வருகின்றது.
+
+இந்நிலையில், குறித்த வைத்தியருக்கு தண்ணீர் கூட வழங்க விடாமல் அதிகாரிகள் தடுத்தனர். இந்நிலையில் அவரது உடல்நிலை சுகயீனமடைந்தது. அதன்பின்னர் போராட்டக்காரர்கள் மீண்டும் வீதியை மறித்து போராட்டத்தில் ஈடுபட்டுள்ளனர்.
+
+வைத்தியருக்கு தண்ணீர் வழங்கப்பட்ட நிலையில் வீதி முடக்கல் போராட்டம் கைவிடப்பட்டதுடன், தொடர்ச்சியாக போராட்டம் முன்னெடுக்கப்பட்டு வருகின்றமை குறிப்பிடத்தக்கது
+
+◼️
+
+[Data](articles/8d45f9cf.json)
+
+---
+
+### හෙට පාසල් පැවැත්වීම ගැන අමාත්‍යාංශයෙන් නිවේදනයක්
+
+*2024-07-08 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198599) · `si`
+
+හෙට (09) පාසල් පැවැත්වීම සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යාංශයෙන් නිවේදනයක් නිකුත් කර තිබේ.
+
+එම නිවේදනයේ සඳහන්ව ඇත්තේ හෙට දිනයේ සාමාන්‍ය පරිදි සියලුම රජයේ පාසල් පැවැත්වෙන බවය.
+
+◼️
+
+[Data](articles/1371d107.json)
+
+---
+
+### විමල්ගෙන් අතුරු පෙත්සමක්
+
+*2024-07-08 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198598) · `si`
+
+"ජනාධිපතිවරණය කල්දමන්න" නියෝග කරන්නැයි ඉල්ලා ගොනුකර ඇති පෙත්සම නිෂ්ප්‍රභ කරන ලෙස ඉල්ලමින් ජාතික නිදහස් පෙරමුණේ නායක, පාර්ලිමේන්තු මන්ත්‍රී විමල් වීරවංශ මහතා අතුරු පෙත්සමක් ගොනුකර තිබේ.
+
+19 වන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය සම්මත කළ අවස්ථාවේ පාර්ලිමේන්තුවේ අභිප්‍රාය වුයේ ජනාධිපතිවරයාගේ ධුර කාලය වසර 5කට සීමා කිරීම බව එහි සඳහන් ය.
+
+එය ඇතුළු තවත් කරුණු සඳහන් කරමින් ජානිපෙ නායකවරයා විසින් මෙම අතුරු පෙත්සම ගොනුකර ඇත.
+
+ජනාධිපතිවරණය කල් දැමීමේ පෙත්සම නිෂ්ප්‍රභ කරන ලෙස  ඉල්ලා විමල් වීරවංශ මහතා වෙනුවෙන් නීතිඥ නිශාන් ප්‍රමිතිරත්න,  නීතිඥ ගමිදු කරුණාසේන, ෂෙනාලි ඩයස්,  නිමාෂි ප්‍රනාන්දු ඇතුළු නීතිඥවරු පිරිසක් අද (08) ශ්‍රේෂ්ඨාධිකරණය හමුවේ මෙම අතුරු පෙත්සම ගොනු කරනු ලැබූහ.
+
+◼️
+
+[Data](articles/36f1fbe4.json)
+
+---
 
 ### 11 Divisional Secretariats
 
@@ -51,6 +173,22 @@ Accordingly, the landslide warning has been issued to the Ingiriya Pulathsingha,
 [Data](articles/75db2f9e.json)
 
 [Extended Data](ext_articles/75db2f9e.ext.json)
+
+---
+
+### 11 பிரதேச செயலக பிரிவுகளுக்கு மண்சரிவு எச்சரிக்கை
+
+*2024-07-08 11:32:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/11-பிரதேச-செயலக-பிரிவுகளுக்கு-மண்சரிவு-எச்சரிக்கை/175-340027) · `ta`
+
+களுத்துறை மற்றும் இரத்தினபுரி மாவட்டங்களில் உள்ள 11 பிரதேச செயலக பிரிவுகளுக்கு விடுக்கப்பட்ட மண்சரிவு எச்சரிக்கை திங்கட்கிழமை (08) பிற்பகல் வரை அமுலில் இருக்கும் என தேசிய கட்டட ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது.
+
+நாட்டின் சில பகுதிகளில் பெய்து வரும் கடும் மழை காரணமாக இந்த எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+இதன்படி, களுத்துறை மாவட்டத்தின் இங்கிரிய புலத்சிங்கள, மத்துகம, பாலிந்தநுவர ஆகிய பிரதேச செயலகப் பிரிவுகளுக்கும் இரத்தினபுரி மாவட்டத்தின் இரத்தினபுரி, கலவான, குருவிட்ட, கிரியெல்ல, அயகம, அலபாத்த, எஹலியகொட ஆகிய பிரதேச செயலகப் பிரிவுகளுக்கும் மண்சரிவு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/77086d97.json)
 
 ---
 
@@ -89,6 +227,8 @@ A left-wing alliance led by Jean-Luc Melenchon is projected to have secured 171-
 ...
 
 [Data](articles/a7c0dc52.json)
+
+[Extended Data](ext_articles/a7c0dc52.ext.json)
 
 ---
 
@@ -224,6 +364,8 @@ The South Asian Movement for Accessing Justice (SAMAJ) is advocating for “comp
 
 [Data](articles/1bfac52b.json)
 
+[Extended Data](ext_articles/1bfac52b.ext.json)
+
 ---
 
 ### 78-year-old woman murder by grandson’s wife
@@ -287,6 +429,8 @@ Commercial Bank voting shares were trading flat at 103.50, while non-voting shar
 ◼️
 
 [Data](articles/00bbc3ec.json)
+
+[Extended Data](ext_articles/00bbc3ec.ext.json)
 
 ---
 
@@ -393,6 +537,8 @@ In equities, Colombo’s All Share Price Index opened 18.11 points higher at 11,
 ◼️
 
 [Data](articles/d25bfd4c.json)
+
+[Extended Data](ext_articles/d25bfd4c.ext.json)
 
 ---
 
@@ -665,6 +811,8 @@ Most of the departures are to currency board like regimes in the Middle East, wh
 ...
 
 [Data](articles/d84211fe.json)
+
+[Extended Data](ext_articles/d84211fe.ext.json)
 
 ---
 
@@ -2059,181 +2207,5 @@ Rs. 32,000 / - per month, which is selected for students selected from 1 to 11 s
 [Data](articles/3ae30bc7.json)
 
 [Extended Data](ext_articles/3ae30bc7.ext.json)
-
----
-
-### Investments, interest income, tax
-
-*2024-07-07 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187905) · `ta`
-
-Commercial banks now offer innovative savings systems adapting to modern times. These changes allow individuals to save based on their income levels, emphasizing flexibility and adaptability in financial management.
-
-🟩
-
-It is possible to see that commercial banks and financial institutions are providing many new savings systems today to embrace the time and technology change.. According to the text, "change is not changed," must be acknowledged that this new change has made the people the savings of their income according to their income.
-
-◼️
-
-[Data](articles/463220c0.json)
-
-[Extended Data](ext_articles/463220c0.ext.json)
-
----
-
-### Francian nationalist rise
-
-*2024-07-07 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/187907) · `ta`
-
-Maureen La Ben leads Francian nationalists, aiming to seize 18 parliamentary seats. This move follows President Emanuel Macron's intensified campaign for his Renaissance party.
-
-🟩
-
-The leader of the national rally, Maureen La Ben, is on the road to create a rise in the country, as there are only 18 rays to take over the country's parliament.. In this case, France's current President Emanuel Macron has rapidly increased his Renaissance party's campaign.
-
-◼️
-
-[Data](articles/68850d16.json)
-
-[Extended Data](ext_articles/68850d16.ext.json)
-
----
-
-### The Politics & Implications Of The US Supreme Court’s Immunity Ruling
-
-*2024-07-07 18:10:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-politics-implications-of-the-us-supreme-courts-immunity-ruling/) · `en`
-
-In a split ruling last Monday, apparently for the ages, the conservative majority of the US Supreme Court gave Donald Trump a get-out-of-jail card and virtually iron clad protection from criminal prosecution. The majority ruling grants Trump and “all occupants of the Oval Office, regardless of politics, policy, or party,” absolute immunity for core constitutional acts, presumed immunity for all other official acts, and no immunity for unofficial acts. The latter immunity is arguably rendered more ostensible than real by the ruling’s rigid guidelines that forbid using facts from the sphere of official acts as evidence to prove criminality in unofficial acts. So much so, writing for the three liberal judges of the Court, Justice Sonia Sotomayor denounced the majority ruling and rejoindered: “With fear for our democracy, I dissent.”
-
-...
-
-[Data](articles/17b6046b.json)
-
-[Extended Data](ext_articles/17b6046b.ext.json)
-
----
-
-### Resolution to support Ranil;Compassionate
-
-*2024-07-07 18:09:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-ஆதரிக்க-தீர்மானம்-கருணா/175-339989) · `ta`
-
-Despite the non-extension of his presidency, Ranil Wickremesinghe enjoys widespread support across the nation, especially among Tamil Muslims in the Northeast. The Tamil United Freedom Alliance (UPFA) recently provided livelihood assistance in Batticaloa, highlighting their commitment to supporting ex-combatants. UPFA's leader, Vinayagamoorthy Muralitharan, praised Wickremesinghe for his leadership and the international aid secured under his administration. The party also expressed condolences for the loss of Samanthan Sir, emphasizing their dedication to defending Tamil rights and inviting others to join them in this cause.
-
-🟩
-
-The majority of the people in this country have decided to support Ranil Wickremesinghe, even though the president's post is not extended, said Vinayagamoorthy Muralitharan, the leader of the Tamil United Freedom Alliance and former Deputy Minister.
-
-The Tamil United Freedom Alliance (UPFA) organized a livelihood assistance to ex -combatants in Batticaloa today.
-
-The livelihood assistance was provided to the selected beneficiaries in the Batticaloa district.
-
-Vinayagamoorthy Muralitharan, the leader of the Tamil United Freedom Alliance (UPFA) and former Deputy Minister of the Tamil United Freedom Alliance (UPFA), was the chief guest at the event, chaired by the Vice President of the Tamil United Freedom Alliance.
-
-He said this while participating in the event.. He said more,
-
-I see the President's demand in the politics to extend the president's term. Today's President is a talented man who brought it to a short time when there was a queue age in this country.
-
-...
-
-[Data](articles/136c1128.json)
-
-[Extended Data](ext_articles/136c1128.ext.json)
-
----
-
-### Resolution to support Ranil Wickremesinghe;Compassionate
-
-*2024-07-07 18:09:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-விக்ரமசிங்கவை-ஆதரிக்க-தீர்மானம்-கருணா/175-339989) · `ta`
-
-Despite the non-extension of his presidency, Ranil Wickremesinghe enjoys widespread support across the nation, especially among Tamil Muslims in the Northeast. The Tamil United Freedom Alliance (UPFA) recently provided livelihood assistance in Batticaloa, highlighting Wickremesinghe's efforts to secure international aid. UPFA leaders emphasize Wickremesinghe's talent and contributions, noting his ability to address the country's challenges effectively. They also mourn the loss of Samanthan Sir, expressing sympathy and acknowledging his impact during his tenure in Parliament. UPFA aims to safeguard Tamil rights, inviting other parties to unite under its banner amidst internal shifts within the Tamil National Alliance.
-
-🟩
-
-The majority of the people in this country have decided to support Ranil Wickremesinghe, even though the president's post is not extended, said Vinayagamoorthy Muralitharan, the leader of the Tamil United Freedom Alliance and former Deputy Minister.
-
-The Tamil United Freedom Alliance (UPFA) organized a livelihood assistance to ex -combatants in Batticaloa today.
-
-The livelihood assistance was provided to the selected beneficiaries in the Batticaloa district.
-
-Vinayagamoorthy Muralitharan, the leader of the Tamil United Freedom Alliance (UPFA), was the chief guest at the event, chaired by the Vice President of the Tamil United Freedom Alliance, Jaya Saravanan.
-
-He said this while participating in the event.. He said more,
-
-I see the president's demand for the issue in the politics to extend the president's term. Today's president is a talented man who brought it to us in a short time when there was a queue age in this country.
-
-...
-
-[Data](articles/e9e6fbfc.json)
-
-[Extended Data](ext_articles/e9e6fbfc.ext.json)
-
----
-
-### Interim Instructor Sanath Jayasuriya
-
-*2024-07-07 18:09:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடைக்கால-பயிற்றுவிப்பாளர்-சனத்-ஜயசூரிய/175-339988) · `ta`
-
-Sanath Jayasuriya takes over as coach for the upcoming cricket series against India and England, following Chris Silverwood's resignation from his position as the chief coach of the Sri Lankan team.
-
-🟩
-
-Sanath Jayasuriya has been appointed as the coach for the cricket series with India and England.
-
-Chris Silverwood, the chief coach of the Sri Lankan team, recently resigned.
-
-◼️
-
-[Data](articles/3b762457.json)
-
-[Extended Data](ext_articles/3b762457.ext.json)
-
----
-
-### The forest cat brought from Russia
-
-*2024-07-07 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198580) · `si`
-
-An African forest cat was seized at Katunayake Airport due to a special investigation by European and Middle Eastern customs. Brought by a Kandy resident, it's now at the Dehiwala Zoo under scrutiny by Sri Lanka's Customs, Cultural and National Heritage Protection Unit, and the Department of Wildlife.
-
-🟩
-
-The African forest cat has been taken into custody at the Katunayake Airport Terminal at Katunayake air cargo terminal.
-
-In countries in Europe and the Middle East, the special investigation is so the customs who will conduct further investigations into the incident.
-
-The authorities said that the animal has been brought by a resident of Kandy.
-
-It is reported that the forest cat has been sent to the Dehiwala Zoo and the Sri Lanka Customs, Cultural and National Heritage Protection Unit and the Department of Wildlife Department are conducting further investigations.
-
-◼️
-
-[Data](articles/7cb1e0cf.json)
-
-[Extended Data](ext_articles/7cb1e0cf.ext.json)
-
----
-
-### A African wild cat brought to Sri Lanka from Russia
-
-*2024-07-07 18:07:20* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රිකානු-කැළෑ-බළලෙක්-රුසියාවේ-සිට-ලංකාවට-ගෙනල්ලා/11-410649) · `si`
-
-An African Serval Cat, named S.i.t.e.S., was smuggled from Moscow to Sri Lanka without permission, resembling the native "introduced leopard." This rare event sparked international interest, especially in Europe and the Middle East, due to its unique status. The cat was transported to the Kandy area before being transferred to the Dehiwala Zoo. Authorities, including the Sri Lanka Customs and the Departments of Wildlife Conservation, are investigating this incident.
-
-🟩
-
-AFrican Serval CAT has been brought from Moscow to Katunayake air cargo periphery on the morning without proper permission.
-
-The forest cat, which has named S.i.t.e.S., similarly resemble the "introdugent leopard" in Sri Lanka.
-
-In countries in Europe and the Middle East, the special investigations are being made to the peer, so the customs personnel who carry out internationally have the highest demand.
-
-The African wilds were taken to Sri Lanka by a resident of Kandy area.
-
-The forest cat has been sent to the Dehiwala Zoo and the National Heritage Protection of Sri Lanka Customs and the Department of Wildlife and Department of Wildlife Department is conducting further investigations.
-
-◼️
-
-[Data](articles/01a543b3.json)
-
-[Extended Data](ext_articles/01a543b3.ext.json)
 
 ---

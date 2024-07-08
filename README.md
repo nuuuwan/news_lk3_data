@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 09:54:45**
+As of **2024-07-08 10:07:01**
 
 ## Newspaper Stats
 
-*Scraped **34,169** Articles*
+*Scraped **34,170** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,55 @@ adaderanalk | 3,913
 tamilmirrorlk | 4,057
 dailymirrorlk | 4,733
 virakesarilk | 5,349
-adaderanasinhalalk | 5,680
+adaderanasinhalalk | 5,681
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,168 (100.0%) of 34,169 articles have been extended.
+34,169 (100.0%) of 34,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### පුංචි පුතා සුරතල් මත්ස්‍ය ටැංකියට බිලිවෙයි
+### පුටින්ගේ ආරාධනය මෝදි පිළිගනී
+
+*2024-07-08 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198592) · `si`
+
+‍ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි දෙදින නිල සංචාරයක් සඳහා රුසියාව බලා පිටත්ව යාමට නියමිතව තිබේ.
+
+ඔහු මොස්කව් නුවරදී ව්ලැදිමීර් පුටින් සමඟ 22 වැනි ඉන්දු-රුසියා වාර්ෂික සමුළුවට එක්වීමට නියමිතය.
+
+ඉන්දියාව හා රුසියාව අතර පවත්නා සාම්ප්‍රදායික මිත්‍රශීලීත්වය තවදුරටත් වර්ධනය කරගැනීමේ අරමුණෙන් මෙම සංචාරය සිදුකෙරෙන බව වාර්තා වේ.
+
+මොස්කව්හි වාර්ෂික සමුළුව අවසන් කිරීමෙන් පසු මෝදි, ඔස්ට්‍රියාව බලා පිටත්ව යාමට නියමිත බව විදෙස් වාර්තා පවසයි.
+
+◼️
+
+[Data](articles/2d761fd4.json)
+
+---
+
+### Little son falls into pet fish tank
 
 *2024-07-08 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198591) · `si`
 
-මිද්දෙනිය වික්‍රම මාවත නැගෙනහිර ප්‍රදේශයේ දී කුඩා පිරිමි දරුවෙකු මසුන් ඇතිකරන ජල ටැංකියකට වැටී මියගොස් තිබේ.
+In Middeniya, a 3-year-old fell into a water tank being installed outside his home.
 
-එලෙස මියගොස් ඇත්තේ අවුරුදු 03ක් වයසැති මිද්දෙනිය ප්‍රදේශයේම පදිංචිව සිටි දරුවෙකි.
+🟩
 
-නිවස ඉදිරිපිට සුරතල් මසුන් ඇති කිරීමට තනා තිබූ ජල ටැංකියට වැටී මෙම දරුවා මියගොස් ඇති බවට පොලීසිය කළ විමර්ශනයේ දී අනාවරණය වී තිබේ.
+A small boy in the East of Middeniya Wickrama Mawatha has fallen into a water tank.
+
+The victim was a 3-year-old child.
+
+Investigations have revealed that the child had fallen into the water tank to be built in front of the house.
 
 ◼️
 
 [Data](articles/8968c3bc.json)
+
+[Extended Data](ext_articles/8968c3bc.ext.json)
 
 ---
 
@@ -2269,27 +2293,5 @@ The last government has announced the year 2022 that migratory personnel who arr
 [Data](articles/a49b1b54.json)
 
 [Extended Data](ext_articles/a49b1b54.ext.json)
-
----
-
-### A Vish-to-Day story about whitewake
-
-*2024-07-07 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198571) · `si`
-
-Lack of regulation in beauty cosmetics could lead to health issues and possibly deaths, warns the Sri Lanka Public Health Inspectors Association. Chairman Upul Rohana urges immediate action from authorities to prevent potential future tragedies.
-
-🟩
-
-The lack of proper regulation on beauty cosmetics, the Sri Lanka Public Health Inspectors Association says that due to the lack of proper regulation.
-
-Chairman Upul Rohana stated that it is probably the possibility of reporting deaths in the future.
-
-Upul Rohana said that the attention of the authorities should be drawn soon.
-
-◼️
-
-[Data](articles/1a2641de.json)
-
-[Extended Data](ext_articles/1a2641de.ext.json)
 
 ---

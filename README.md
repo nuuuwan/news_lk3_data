@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 18:14:06**
+As of **2024-07-08 18:25:24**
 
 ## Newspaper Stats
 
-*Scraped **34,236** Articles*
+*Scraped **34,248** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ colombotelegraphcom | 316
 bbccomsinhala | 335
 newsfirstlk | 363
 islandlk | 1,925
-economynextcom | 2,010
+economynextcom | 2,021
 dailyftlk | 2,130
-adalk | 3,067
+adalk | 3,068
 adaderanalk | 3,927
 tamilmirrorlk | 4,069
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,700
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,234 (100.0%) of 34,236 articles have been extended.
+34,236 (100.0%) of 34,248 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,19 +54,27 @@ Photos of the affected village shared by the agency showed some houses were flat
 
 [Data](articles/be732b62.json)
 
+[Extended Data](ext_articles/be732b62.ext.json)
+
 ---
 
-### ක්ලබ් වසන්තගේ අවසන් මතක සටහන
+### Last Memology of Club Wasantha
 
 *2024-07-08 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198611) · `si`
 
-අතුරුගිරිය නගරයේ සිදුවූ වෙඩි තැබීමකින් ප්‍රසිද්ධ ව්‍යාපාරිකයෙකු වන සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත සහ තවත් අයෙක් ජීවිතක්ෂයට පත්වුණි.
+Sorchandra Wasantha Perera, known as Kubsantha, was fatally shot in Athurugiriya near a celebration venue linked to a beauty agency. The incident occurred just before a photo was taken, suggesting it might have been related to the event.
 
-අතුරුගිරිය නගරයේ ඔරලෝසු කනුව ආසන්නයේ රූපලාවන්‍ය ආයතනයක් විවෘත කිරීමේ උත්සවයක් අතරතුරදී වෙඩිතැබීම සිදුව තිබූ අතර, වෙඩිතැබීමට සුළු වේලාවකට පෙර ගත් ඡායාරූපයක එහි සිටි සියලුදෙනා මෙලෙස දැක්වුණි.
+🟩
+
+Sorchandra Wasantha Perera alias Kubsantha, or another, was killed in a shooting in Athurugiriya.
+
+Athurugiriya's clock pointing was nearing a celebration company at a cost of beauty agency, and the shooting was said in a photo taken shortly before the shooting.
 
 ◼️
 
 [Data](articles/e215e1d8.json)
+
+[Extended Data](ext_articles/e215e1d8.ext.json)
 
 ---
 
@@ -116,6 +124,64 @@ Popular singer K. Sujeewa and another male, who were injured in the shooting, ar
 
 ---
 
+### Sri Lanka govt to amend to TRC Act to accommodate Elon Musk’s Starlink
+
+*2024-07-08 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-govt-to-amend-to-trc-act-to-accommodate-elon-musks-starlink-171278/) · `en`
+
+ECONOMYNEXT – Sri Lanka is in the process of amending its Telecommunications Regulatory Commission (TRC) Act to accommodate Starlink satellite system found by billionaire head of SpaceX and Tesla.
+
+The island nation has already granted preliminary approval for Starlink to provide satellite-based internet services in the country, following a formal public consultation process. The move came after President Ranil Wickremesinghe met Musk in the sideline the 10th World Water Forum in Indonesia two months ago.
+
+However, Sri Lanka’s TRC law has no provision to grant licence for a third party to operate telecommunication services.
+
+The new amendment that will be presented in the parliament on Tuesday (09) will introduce infrastructure service licence, telecommunication service licence and cable landing station licence, State Technology Minister Kanaka Herath said.
+
+“Starlink comes under the telecommunication service licence,” he told reporters at a media briefing in Colombo on Monday (08).
+
+...
+
+[Data](articles/0e111f92.json)
+
+---
+
+### Sri Lanka public transport to get e-ticketing by end-2024: Official
+
+*2024-07-08 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-public-transport-to-get-e-ticketing-by-end-2024-official-171265/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s public transport fares will move to an e-ticket system by the end of this year, a senior transport official has said.
+
+“An electronic ticketing system for public transport services, including trains, will be introduced before the end of the year,” Secretary of the Ministry of Transport and Highways, RG Rubasinghe told reporters on Monday.
+
+Sri Lanka has been talking of moving to an e-ticketing for state buses to stop revenue theft by bus conductors.
+
+“Some conductors take a portion of the money home,” Minister of Transport Bandula Gunawardana told reporters earlier this year.
+
+“The take home amount is 10 million rupees daily, or 100 lakhs, which together becomes 3 billion a year.
+
+Gunawardana said that there was opposition from transportation workers with some of them taking the matter to court.
+
+...
+
+[Data](articles/d5087c03.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 304.35/50 to US dollar
+
+*2024-07-08 16:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-304-35-50-to-us-dollar-171274/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed slightly stronger at 304.35/50 to the US dollar on Monday, down from 304.45/75 to the US dollar on Friday, dealers said, while bond yields were unchanged.
+
+A bond maturing on 15.12.2026 closed stable at 10.70/85 percent.
+
+A bond maturing on 15.09.2029 closed at 11.98/12.08 percent from 11.95/12.05 percent. (Colombo/Jul8/2024)
+
+◼️
+
+[Data](articles/3a126486.json)
+
+---
+
 ### Gold mine tragedy - a loss of many lives
 
 *2024-07-08 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198609) · `si`
@@ -159,6 +225,28 @@ However, the 2025 Budget will consider revising public service salaries based on
 [Data](articles/e48d1edd.json)
 
 [Extended Data](ext_articles/e48d1edd.ext.json)
+
+---
+
+### Sri Lanka stocks close down, Hemas and Sampath push turnover
+
+*2024-07-08 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-hemas-and-sampath-push-turnover-171260/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
+
+The broader All Share Index closed down 0.56 percent, or 68.05 points, at 12,076; while the more liquid S&P SL20 Index closed down 0.63 percent, or 22.71 points, at 3,565.
+
+Most of this came from two crossings: Hemas Holdings Plc (Rs125mn), and the share closed up at 81.40. The other was Sampath Bank Plc, which closed down at 77.90.
+
+“A large part of this came from foreign buying interest,” Softlogic Stockbrokers said. “There is foreign interest around selected, good counters. And this is what is driving the market these days.”
+
+Most banking stocks closed down in the day. Commercial Bank of Ceylon Plc closed flat at 103.50, Hatton National Bank Plc was down at 195.50, and DFCC Bank Plc was down at 73.90.
+
+“With banks there is the concern about the haircut, and the write-backs being moderate. There could also be some profit taking.”
+
+...
+
+[Data](articles/03d6596f.json)
 
 ---
 
@@ -223,6 +311,24 @@ The doctor added that the accident had been included in the accident and a man, 
 [Data](articles/056a31ea.json)
 
 [Extended Data](ext_articles/056a31ea.ext.json)
+
+---
+
+### Eight parties qualify to bid for Sri Lanka’s Litro Gas
+
+*2024-07-08 15:14:00* · [`economynextcom`](https://economynext.com/eight-parties-qualify-to-bid-for-sri-lankas-litro-gas-171258/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s State-Owned Enterprises Restructuring Unit said eight parties were qualified to bid for Litro Gas Lanka and Litro Terminals (Pvt) Limited.
+
+A special Cabinet Appointed Negotiating Committee had approved the following bidders to progress to the requests for proposals stage.
+
+VIII. Infinity Holdings, Infinity Holdings Sidecar 1 and National Gas Company Saog
+
+An expression of interest for Litro Gas drew 14 bidders. (Colombo/July08/2024)
+
+◼️
+
+[Data](articles/91cda226.json)
 
 ---
 
@@ -372,6 +478,22 @@ An injured woman and a man are being treated at the Colombo National Hospital wh
 
 ---
 
+### Sri Lanka Supreme Court dismisses petition on presidential election: report
+
+*2024-07-08 13:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-supreme-court-dismisses-petition-on-presidential-election-report-171255/) · `en`
+
+ECONOMYNEXT — The petition filed in Sri Lanka’s Supreme Court seeking a determination on the term limit of the president has been dismissed by the apex court, media reports said.
+
+A five-judge bench delivered the verdict on the petition Monday July 08 afternoon. The bench was headed by Chief Justice Jayantha Jayasuriya.
+
+Last week, President Ranil Wickremesinghe said he believes the president’s term is five years, expressing his support for holding the presidential election in 2024 and disavowing the aforesaid case filed in the Supreme Court seeking a verdict stating that a president’s term is six years.
+
+...
+
+[Data](articles/a07dbab4.json)
+
+---
+
 ### The car is found the car
 
 *2024-07-08 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198604) · `si`
@@ -513,6 +635,40 @@ The vehicle said that the suspects arrived in the vehicle, police said.
 [Data](articles/e03ebfe6.json)
 
 [Extended Data](ext_articles/e03ebfe6.ext.json)
+
+---
+
+### Land, truth & reconciliation commission bills ready for parliament: president
+
+*2024-07-08 12:50:00* · [`economynextcom`](https://economynext.com/land-truth-reconciliation-commission-bills-ready-for-parliament-president-171240/) · `en`
+
+ECONOMYNEXT — Bills for the proposed Truth, Unity and Reconciliation Commission and National Land Commission are ready to be submitted to parliament and an agreement has also been reached on the proposed Jana Sabha system, President Ranil Wickremesinghe said.
+
+Speaking at the funeral of former opposition leader and leader of the Tamil National Alliance (TNA) R Sampanthan, Wickremesinghe said the government has newly proposed decentralising maximum power within the framework of the 13th amendment in the distribution of power, with the report of the Nawaz Commission also to be discussed.
+
+“There are issues among Sinhala, Tamil and Muslim communities with the Forest Department regarding the acquisition of their villages. I hope to empower this commission to resolve those issues by law,” Wickremesinghe said referring to the proposed land commission.
+
+...
+
+[Data](articles/a1069641.json)
+
+---
+
+### Sri Lanka Pediatricians urge caution on reporting traumatic incidents related to children
+
+*2024-07-08 12:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-pediatricians-urge-caution-on-reporting-traumatic-incidents-related-to-children-171244/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s collective of paediatricians point out that responsible media coverage should safeguard fundamental rights and privacy of children in the country.
+
+The Sri Lanka College of Paediatricians issued a statement underscoring the importance of protecting the rights, dignity, and privacy of children in the country, after the tragic deaths of two 15-year-olds.
+
+Ensuing media coverage of the incident included CCTV footage, photos and unsubstantiated stories about the two teens broadcasted.
+
+“We believe that responsible media coverage should safeguard fundamental rights,” SLCP said, and “contribute to raising awareness and ensuring the well-being of vulnerable individuals.” (Colombo/Jul8/2024)
+
+◼️
+
+[Data](articles/036bd8b7.json)
 
 ---
 
@@ -716,6 +872,42 @@ The announcement states that all government schools will be held tomorrow.
 
 ---
 
+### Sri Lanka presidential election will be held in 2024 despite legal challenges: president
+
+*2024-07-08 11:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-election-will-be-held-in-2024-despite-legal-challenges-president-171232/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s presidential election will be held in 2024 regardless of legal challenges, President Ranil Wickremesinghe said.
+
+The President’s Media Division (PMD) quoted Wickremesinghe as saying that parliamentary elections and provincial councils will follow the presidential poll.
+
+He made this remark at the funeral of former opposition leader and leader of the Tami National Alliance (TNA) R Sampanthan in Trincomalee on Sunday July 07.
+
+“It is declared necessary to hold provincial council elections. However, we have discussed and decided to hold the presidential election first. Regardless of any legal challenges, the presidential election will be held this year. Following that, parliamentary elections will be conducted, and then provincial council elections will be held,” the PMD quoted the president as saying.
+
+...
+
+[Data](articles/c62c4a54.json)
+
+---
+
+### Sri Lanka central bank extends deadline for updating depositor unique identification number
+
+*2024-07-08 11:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-extends-deadline-for-updating-depositor-unique-identification-number-171207/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has mandated all licensed banks and licensed finance companies to record unique identification numbers for depositors when opening or maintaining deposit accounts, and to update the unique identification numbers of existing depositors.
+
+This was initially announced from October 1, 2022. The deadline for updating the unique identification numbers of existing depositors has been extended to December 31, 2024.
+
+Depositors must now use the following mandatory unique identification numbers when opening or maintaining deposit accounts with licensed banks and licensed finance companies:
+
+Failure to record the specified unique identification number, or the use of alternative identification numbers, will cause delays and inconvenience for depositors when seeking compensation under the Sri Lanka Deposit Insurance Scheme if and when the licence of a bank or a finance company is cancelled, CBSL pointed out. (Colombo/Jul8/2024)
+
+◼️
+
+[Data](articles/eb761c23.json)
+
+---
+
 ### Club spring dies in a shooting
 
 *2024-07-08 11:42:08* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-තැබීමකින්-ක්ලබ්-වසන්ත-මිය-යයි-ගායන-ශිල්පිනි-කේ-සුජීවාට-බරපතල-තුවාල/11-410665) · `si`
@@ -849,6 +1041,24 @@ Accordingly, the landslide warning has been issued to the Ingiriya Pulathsingha,
 [Data](articles/77086d97.json)
 
 [Extended Data](ext_articles/77086d97.ext.json)
+
+---
+
+### Sri Lanka leader hands over India-funded smart classrooms ahead of election
+
+*2024-07-08 11:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-hands-over-india-funded-smart-classrooms-ahead-of-election-171211/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe, emulating the island nation’s opposition leader, handed over smart classrooms to Southern Provincial state schools as he is eyeing to contest in a grand independent coalition.
+
+Analysts see the move as a strategy to face a rising support for a similar project implemented by main opposition leader Sajith Premadasa who has been distributing smart classes and relevant equipment for schools across the country with funding he has not disclosed.
+
+President Wickremesinghe distributed the digital equipment under an Indian grant project worth 300 million Sri Lanka rupees ($1 million) for establishing 200 smart classrooms with 2200 smart tablets being provided to school students in Southern Province.
+
+The project aims at equipping 200 schools in the Province with necessary digital tools that would enable them to benefit from digital resources and materials across the globe, the Indian High Commission said in a statement.
+
+...
+
+[Data](articles/d07ef341.json)
 
 ---
 
@@ -1097,6 +1307,20 @@ The South Asian Movement for Accessing Justice (SAMAJ) is advocating for “comp
 [Data](articles/1bfac52b.json)
 
 [Extended Data](ext_articles/1bfac52b.ext.json)
+
+---
+
+### වන අලි පහරදීමෙන් දෙදෙනෙක් මරුට
+
+*2024-07-08 10:46:59* · [`adalk`](https://www.ada.lk/breaking_news/වන-අලි-පහරදීමෙන්-දෙදෙනෙක්-මරුට/11-410662) · `si`
+
+ඇතිමලේ පොලිස් වසමේ හත්ආර ප්‍රදේශයේදී සහ ගෝනගංආර කුඹුක්කන්ඔය අසලදී ඉකුත් (06) සහ (07) දින වලදී වනඅලීන් පහරදීමෙන් ගොවීන් දෙදෙනෙකු මියගොස් ඇතැයි පොලීසිය පවසයි.
+
+ඇතිමලේ හත්ආර රක්ෂිතය හරහා තම හේනට තවත් අයෙකු සමඟ යමින් සිටි දොඹගහවෙල මහායාය පදිංචි වසන්ත සුමනසේකර (42) නැමති දෙදරු පියෙකු සහ ගෝනගංආර පොලිස් වසමට අයත් කුඹුක්කන්ඔය ඉවුරේ දියනා ගොඩටආ 61 හැවිරිදි ඔක්කම්පිටිය මිණිපුරගම පදිංචි තිදරු පියෙකු වන පී.එච්.කේ ගුණරත්න යන දෙදෙනා වනඅලින් විසින් පහරදීමෙන් මෙලෙස මියගොස් ඇත.
+
+◼️
+
+[Data](articles/2493ac2f.json)
 
 ---
 
@@ -1977,245 +2201,5 @@ A party spokesperson said that while Ponnambalam is receiving treatment in Austr
 [Data](articles/d547e5a0.json)
 
 [Extended Data](ext_articles/d547e5a0.ext.json)
-
----
-
-### National Chamber of Exporters leads Lankan delegation to Korea Import Fair
-
-*2024-07-08 02:31:00* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Exporters-leads-Lankan-delegation-to-Korea-Import-Fair/34-763978) · `en`
-
-The National Chamber of Exporters of Sri Lanka (NCE) represented Sri Lanka at the Korea Import Fair (KIF 2024) from 4 to 6 July at the COEX Exhibition Centre in Seoul.
-
-This participation marks a significant milestone, being the NCE’s inaugural involvement in the esteemed fair, and underscores efforts to bolster Sri Lanka’s presence in the South Korean market.
-
-The delegation led by NCE Secretary General/CEO Shiham Marikar, comprised five prominent Sri Lankan companies, each renowned for their excellence in various sectors. The participating companies were: CoCo Green Ltd., Warna Exporters Ltd., Imperial Tea Exports Ltd., MA’s Tropical Food Processing Ltd., and Tropikal Life International Ltd.
-
-...
-
-[Data](articles/1a8a7add.json)
-
-[Extended Data](ext_articles/1a8a7add.ext.json)
-
----
-
-### China Tianying explores investment opportunities in SL
-
-*2024-07-08 02:27:09* · [`dailyftlk`](https://www.ft.lk/business/China-Tianying-explores-investment-opportunities-in-SL/34-763977) · `en`
-
-Top Executives of China Tianying Inc., engaged in renewable power generation and hydrogen energy centres met with the Sri Lankan Ambassador to China Majintha Jayesinghe, and Board of Investment of Sri Lanka and Colombo Port City Economic Commission Chairman Dinesh Weerakkody to discuss potential opportunities for investment in Sri Lanka. The meeting was held at the Sri Lankan Embassy in Beijing, China.
-
-◼️
-
-[Data](articles/400bf811.json)
-
-[Extended Data](ext_articles/400bf811.ext.json)
-
----
-
-### Meiro expands to Sri Lanka with $ 3 m pre-Series A funding
-
-*2024-07-08 02:25:34* · [`dailyftlk`](https://www.ft.lk/business/Meiro-expands-to-Sri-Lanka-with-3-m-pre-Series-A-funding/34-763976) · `en`
-
-Meiro, a leading customer data platform, has announced its strategic expansion into the Sri Lankan market following a successful $ 3 million pre-Series A funding round.
-
-This round was led by Southeast Asian venture capital firm Wavemaker Partners, with significant participation from angel investors at Singapore-based Angel Central.
-
-With the newly secured funding, Meiro plans to leverage the potential of the Sri Lankan market, aiming to hire skilled professionals locally to support its growth. The company’s expansion into Sri Lanka underscores its commitment to driving digital transformation and enhancing customer experience (CX) personalisation in the region.
-
-...
-
-[Data](articles/a54f8ef8.json)
-
-[Extended Data](ext_articles/a54f8ef8.ext.json)
-
----
-
-### Sri Lankan designs take on the globe after APAC success
-
-*2024-07-08 02:05:11* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-designs-take-on-the-globe-after-APAC-success/34-763969) · `en`
-
-Orient Design wins two Regional Awards; Five-Star winner enters global competition
-
-Sri Lanka made it big on the global interior design space, when Orient Design took home two awards at the prestigious Asia-Pacific Property Awards in Thailand. Winning a Five-Star award for Best Residential Interior Private Residence, Orient Design became the only Sri Lankan company to be nominated to the Global Awards. It also won the top award for Residential Interior in Apartments, for its design for the Cinnamon Life Penthouse.
-
-The private residence at Gower Street Colombo that won for Best Residential Interior combines nature and natural light into its design, and has been described by visitors as an Oasis nestled in the middle of the bustling city. Speaking to the Daily FT, Orient Design CEO Gihan Nanayakkara said the design was termed inspiring by many especially from the West, and that a city house could exude such natural and relaxing ambiances.
-
-...
-
-[Data](articles/f1dc01fc.json)
-
-[Extended Data](ext_articles/f1dc01fc.ext.json)
-
----
-
-### Sampanthan's funeral with fire in Tirumalai:Various parties including President Ranil, BJP leader Annamalai
-
-*2024-07-08 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/187934) · `ta`
-
-Rajavarothayam Sambandan, a prominent figure from the Tamil National Alliance, was honored at his funeral, attended by thousands, including President Ranil Wickremesinghe and BJP leader Annamalai. The ceremony began at 10 am and concluded around 1 pm, followed by a procession through various roads, ending at the Hindu cemetery. A notable aspect was the setting of fire by Sambandan's eldest son, marking the end of the funeral rites.
-
-🟩
-
-The Senior Leader of the Tamil National Alliance (TNA) and the Trincomalee district parliamentarian Rajavarothayam Sambandan, with the participation of thousands of people, including President Ranil Wickremesinghe and BJP leader Annamalai, were felicitated.
-
-At the age of 91 at the age of 91, Natural Aidan Rajavarodaya Sampanthan started at 10 am at the Annar's residence on No. 115, at 10 am and completed around 1 pm.
-
-Then at two o'clock in the afternoon. President Ranil Wickremesinghe, President of Opposition Leader Lakshman Kiriella, Bharatiya Janata Party (BJP) state president K. Annamalai, Indian High Commissioner to Sri Lanka Santosh Jha, Muslim Congress leader Rauf Hakeem MP, Tamil Progressive Alliance leader Manohanesan MPArun Thambimuthu, President of the Liberation Tigers of Tamil Eelam (LTTE). The tribute speeches were completed at 3.30 pm and the funeral went on.
-
-...
-
-[Data](articles/e3209000.json)
-
-[Extended Data](ext_articles/e3209000.ext.json)
-
----
-
-### Nilrandha Fonseka and Ranura Perera crowned National Champions of prestigious AYDA Awards 2023/2024
-
-*2024-07-08 01:57:37* · [`dailyftlk`](https://www.ft.lk/business/Nilrandha-Fonseka-and-Ranura-Perera-crowned-National-Champions-of-prestigious-AYDA-Awards-2023-2024/34-763968) · `en`
-
-The AYDA Awards 2023/2024, brought to life by Nippon Paint, witnessed a remarkable showcase of talents nationwide. Nilrandha Fonseka and Ranura Perera emerged as the National Winners for their outstanding design projects, Bhumi and Artisan’s Shack under the categories of Architectural and Interior Design respectively.
-
-The winners captivated judges and audiences alike with their thoughtful approach to design, which seamlessly merged innovation with social consciousness. Their winning submission not only demonstrated creativity but also offered innovative solutions addressing real-life issues. Aligned with the theme – CONVERGE: Championing Purposeful Designs, the National Winners displayed passion in their designs with integrated solutions that are impactful to the society while advancing the field of design.
-
-...
-
-[Data](articles/07194e02.json)
-
-[Extended Data](ext_articles/07194e02.ext.json)
-
----
-
-### India funds 200 smart classrooms in Southern Province
-
-*2024-07-08 01:56:12* · [`dailyftlk`](https://www.ft.lk/news/India-funds-200-smart-classrooms-in-Southern-Province/56-763967) · `en`
-
-President Ranil Wickremesinghe and Indian High Commissioner Santosh Jha on Saturday handed over digital equipment to several schools in the Southern Province at an event in Galle.
-
-Various dignitaries including Education Minister Dr. Susil Premajayantha and Health and Industry Minister Dr. Ramesh Pathirana were also present.
-
-These digital equipment were distributed under a grant assistance project by the Government of India (GoI) for the establishment of 200 smart classrooms in the Southern Province. The project aims at equipping 200 schools in the province with necessary digital tools that would enable them to benefit from digital resources and materials across the globe.
-
-Speaking on the occasion, President Wickremesinghe thanked GoI and Prime Minister Shri Narendra Modi for the multi–pronged support to Sri Lanka in the education domain.
-
-...
-
-[Data](articles/57c905f0.json)
-
-[Extended Data](ext_articles/57c905f0.ext.json)
-
----
-
-### Lionel Fernando no more
-
-*2024-07-08 01:53:59* · [`dailyftlk`](https://www.ft.lk/news/Lionel-Fernando-no-more/56-763966) · `en`
-
-Former top civil servant and diplomat Lionel Fernando passed away on Saturday.
-
-He has held the offices of Media, Tourism and Aviation Ministry Secretary, Foreign Ministry Secretary, Sri Lankan Ambassador to the Netherlands, France, Austria (and a few other countries), and North Eastern Province Governor.
-
-He was also the Organisation for the Prohibition of Chemical Weapons (OPCW) associated to the UNO Executive Council Chairman, and Ceylon Shipping Corporation and Sri Lanka Rupavahini Corporation Chairman among others. He was also a Federation of Chambers of Commerce and Industry adviser.
-
-His remains will lie at the Jayarathna Respect Home (VIP Parlour) from 9 a.m. today and cremation will be at 5:30 p.m. at the New Crematorium (Entrance Kitulwatta Road).
-
-◼️
-
-[Data](articles/10428994.json)
-
-[Extended Data](ext_articles/10428994.ext.json)
-
----
-
-### Tension at Chavakachcheri Hospital
-
-*2024-07-08 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/187932) · `ta`
-
-A dispute at Chavakachcheri Hospital led to attempts to remove its Medical Superintendent, Ramanathan Archana, due to alleged mismanagement. The Health Ministry issued a letter ordering her removal, but she refused to accept it outside office hours. This refusal escalated tensions, leading to police intervention. Ramanathan claimed responsibility for a patient's death under her care, complicating the situation further.
-
-🟩
-
-An attempt has been made to remove the medical superintendent in response to the Chavakachcheri Hospital.
-
-In response to the Chavakachcheri Resource Hospital, Ramanathan Archana, who is serving as the Medical Superintendent, has been given a letter of Health, which orders the relocation of the Health Ministry.
-
-When the medical superintendent Ramanathan tried to hand over the letter at 7 pm, the doctor who refused to accept it was not office time.
-
-Meanwhile, the Chavakachcheri police have been mobilized at the hospital to arrest the superintendent.
-
-Meanwhile, he told the police that he was responsible for the death of a hospital at the time if he was arrested and taken to the hospital.
-
-◼️
-
-[Data](articles/96194846.json)
-
-[Extended Data](ext_articles/96194846.ext.json)
-
----
-
-### Ali Sabry in Singapore on official visit
-
-*2024-07-08 01:49:22* · [`dailyftlk`](https://www.ft.lk/news/Ali-Sabry-in-Singapore-on-official-visit/56-763965) · `en`
-
-Foreign Affairs Minister Ali Sabry is in Singapore on an official visit to Singapore until 9 July on an invitation extended by the Singapore Foreign Affairs Minister Dr. Vivian Balakrishnan.
-
-During the visit, Sabry will engage in bilateral discussions with his Singapore counterpart with a view to strengthening the multifaceted relations between the two countries.
-
-The Minister is also scheduled to take part in the Reuters NEXT Asia-Pacific Summit – 2024 that will take place on 9 July in Singapore.
-
-◼️
-
-[Data](articles/ae5907f7.json)
-
-[Extended Data](ext_articles/ae5907f7.ext.json)
-
----
-
-### Dambulla Sixers tasted the first victory by beating Kalambo Strikers
-
-*2024-07-08 01:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/187933) · `ta`
-
-Dambulla Sixers secured their first win in the Lanka Premier League against Kalambo Strikers, achieving an 8-wicket victory in the 10th match. Key performers included Risa Hendrix and Kusal Perera, who contributed significantly with their batting. Despite losing early wickets, the team managed to chase down the target of 185 runs set by Kalambo Strikers, who had earlier posted a strong total thanks to contributions from Rahmanullah Gurbaz, Angelo Perera, and Glen Phillips.
-
-🟩
-
-Dambulla Sixers won by 8 wickets in the 10th match of the 5th Lanka Premier League chapter held at the Dambulla International Cricket Stadium on Sunday (07).
-
-This is the first success of Sixers in Sri Lanka Premier League Cricket this year. The victory has been a source of excitement for Dambulla Sixers, who lost the first 3 matches.
-
-Gusal Janith Perera and Risa Hendrix were a huge role in the victory of the Dambulla Sixers.
-
-Dambulla Sixers lost 2 wickets in 17.5 overs and scored 188 runs.
-
-The opening batsman Risa Hendrix and Kusal Perera were bowled out for 154 runs in 88 balls.
-
-Reisa Hendrix scored 54 off 39 balls, 54 runs with 3 sixes and Kusal Perera scored 80 off 50 balls with 8 pounds and 4 sixes.
-
-Subsequently, Mark Sabman and Lahiru Udhara gave the remaining 33 runs for the victory.
-
-Mark Sabman did not play with 23 runs and Lahiru Kumara 11 runs.
-
-Galambo Strikers, who was first invited to bat in the upting match, scored 185 runs for the loss of 6 wickets in 20 overs.
-
-...
-
-[Data](articles/efe4f396.json)
-
-[Extended Data](ext_articles/efe4f396.ext.json)
-
----
-
-### A Child’s Guide To Debt & Restructuring: Country Driven To Economic Collapse Has Not Many Options
-
-*2024-07-08 01:41:32* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-childs-guide-to-debt-restructuring-country-driven-to-economic-collapse-has-not-many-options/) · `en`
-
-Aseni, the whiz kid has been alive to the debate over the debt situation of Sri Lanka. Despite her familiarity of the subject as a student of economics and finance, she says that she has not been able to comprehend many arguments presented by those who are pro or against the restructuring of the country’s debt. She turned to her Grandpa, Sarath Mahatthaya, a retired official of the Ministry of Finance, for help. The following is the interaction between the two on the issue.
-
-Aseni: Grandpa, I have listened to the address of President Ranil Wickremesinghe to the nation last month and to the Parliament early this month over the success of his Government in reaching an agreement with bilateral creditors to restructure Sri Lanka’s external debt. He tagged this as ‘Good News’ drawing on terminology used by Bible writers. But his message was unclear to me. What was it?
-
-...
-
-[Data](articles/3edfcc32.json)
-
-[Extended Data](ext_articles/3edfcc32.ext.json)
 
 ---

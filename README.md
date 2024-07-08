@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 03:04:58**
+As of **2024-07-09 03:19:52**
 
 ## Newspaper Stats
 
@@ -26,43 +26,61 @@ adaderanasinhalalk | 5,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,287 (100.0%) of 34,289 articles have been extended.
+34,289 (100.0%) of 34,289 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### அநீதியான வகையில் முன்னெடுக்கப்படும் வேலைநிறுத்தங்களால் பிள்ளைகள் கல்வி கற்கும் வாய்ப்பை இழந்துள்ளனர் - கனக ஹேரத்
+### Due to unjust strikes, children have lost the opportunity to educate -Kanaka Herath
 
 *2024-07-09 02:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/187996) · `ta`
 
-தேர்தல் நெருங்கும் நேரத்தில் அநீதியான வகையில் வேலைநிறுத்தங்களை முன்னெடுப்பதன் மூலம் பிள்ளைகள் கல்வி கற்கும் வாய்ப்பை இழந்துள்ளனர் என தொழில்நுட்ப இராஜாங்க அமைச்சர் கனக ஹேரத் தெரிவித்தார்.
+Technology Minister Kanaka Herath criticized unjust strikes during elections, stating they've hindered children's education. He urged opposition parties to clarify if their actions aim to disrupt public peace. Highlighting achievements since 2022, including significant policies, reforms, and a Digital Economic Scheme backed by the World Bank aiming to boost the digital economy from $3 billion to $30 billion by 2030. Upcoming legislative changes aim to enhance consumer protection and foster fair competition among telecom companies, expand internet services, and establish a technology and innovation commission. The minister emphasized the need for opposition parties to address how they plan to cover the estimated annual cost of $280 million for these initiatives. He also touched on the IMF's recommendation to allocate 11 billion rupees for low-income individuals, questioning the opposition's intentions regarding public welfare.
 
-இந்த வேலைநிறுத்தங்கள் மற்றும் போராட்டங்கள் மூலம்  மக்களின்  நிம்மதியான வாழ்க்கை நிலையை சீர்குலைப்பது தான் நோக்கமா என்ற கேள்விக்கு எதிர்க்கட்சிகள் பதில் அளிக்க வேண்டும் என்றும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (08) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே தொழில்நுட்ப இராஜாங்க அமைச்சர் கனக ஹேரத் இதனைத் தெரிவித்தார்.
+Technology Minister Kanaka Herath said that children have lost the opportunity to educate the children by carrying out unjust strikes at the time of the election.
 
-2022 ஆம் ஆண்டிலிருந்து, நமது அமைச்சினால் பாரிய அளவில் பல்வேறு கொள்கைகள் மற்றும் சீர்திருத்தங்கள் செயல்படுத்தப்பட்டன. பாராளுமன்றத்தில் பல சட்டமூலங்கள் சமர்ப்பிக்கப்பட்டுள்ள துடன் மேலும் சில சட்டமூலங்களை முன்வைக்கவும் எதிர்பார்க்கப்படுகிறது.
+The Minister of State also stated that the opposition parties should respond to the question of whether it is aimed at disrupting the people's peace of life through these strikes and struggles.
+
+Minister of Technology Kanaka Herath made this statement at a media briefing held at the Presidential Media Center on Monday (08).
+
+Since 2022, we have implemented massive policies and reforms by our ministry. It is also expected to present a few more bills in Parliament.
+
+Also, with the support of the World Bank, the 2020-2030 Digital Economic Scheme was released. Our aim is to increase the current $ 3 billion digital economy to US $ 30 billion by 2030.
+
+It is also expected that the law is expected to amend the law in Parliament on Tuesday (09).
 
 ...
 
 [Data](articles/9b0794bc.json)
 
+[Extended Data](ext_articles/9b0794bc.ext.json)
+
 ---
 
-### வேலை நிறுத்தத்தில் ஈடுபட்டுள்ள அரச ஊழியர்கள் கோரும்  சம்பள உயர்வை வழங்க வேண்டுமாயின் வெட் வரியை மீண்டும் அதிகரிக்க நேரிடும் - மஹிந்த சிறிவர்தன
+### If the strike is to be paid a salary hike, the Wet tax will be increased again
 
 *2024-07-09 02:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/187995) · `ta`
 
-வேலை நிறுத்தத்தில் ஈடுபட்டுள்ள அரச ஊழியர்களின் சம்பள அதிகரிப்பு வழங்க வேண்டுமாயின், தற்போதைய 18%  வெட்  வரியை 20% - 21% ஆக அதிகரிக்க நேரிடும் எனவும், அரசாங்கத்தினால் அத்தகைய கோரிக்கையை நிறைவேற்ற முடியாது எனவும் திறைசேரி செயலாளர் மஹிந்த சிறிவர்தன தெரிவித்தார்.
+Treasury Secretary Mahinda Siriwardena announced that a proposed salary increase for striking workers would lead to a Wet tax rise from 18% to 20%-21%, stating the government couldn't afford such hikes. Despite union demands, a salary increase this year seems unlikely, but amendments to the 2025 budget may address salary reviews. The Treasury Secretary emphasized the financial strain of salary increases, suggesting a minimal tax hike and highlighting the impossibility of increasing the Wet tax beyond its current rate due to economic stabilization efforts. Senior Advisor Dr. RHS. Samaratunga noted the difficulty in increasing salaries this year but assured that allocations might be made in the next year's budget, with a special expert panel investigating salary issues.
 
-அரச சேவை தொழிற்சங்கங்கள் முன்வைத்த கோரிக்கைகள் தொடர்பில் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் இன்று (08) ஜனாதிபதி அலுவலகத்தில் நடைபெற்ற கலந்துரையாடலில் திறைசேரி செயலாளர் இதனைக் குறிப்பிட்டார்.
+🟩
 
-அரச சேவையுடன் தொடர்புடைய பல தொழிற்சங்கங்கள் பல கோரிக்கைகளை முன்வைத்து முன்னெடுத்துள்ள தொழில்சார் நடவடிக்கை தொடர்பில் இக்கலந்துரையாடலில் ஜனாதிபதியின் கவனத்திற்குக் கொண்டுவரப்பட்டதுடன் தொழிற்சங்கங்கள் முன்வைத்த கோரிக்கைகளுக்கு வழங்கக்கூடிய சாதகமான தீர்வுகள் குறித்தும் கலந்துரையாடப்பட்டது.
+The Treasury Secretary Mahinda Siriwardena said that if the strike is to be paid a salary increase, the current 18% Wet tax will increase to 20% - 21% and the government cannot meet such a demand.
+
+President Ranil Wickremesinghe, headed by President Ranil Wickremesinghe today (08) at the Presidential Secretariat, said this.
+
+Many of the unions related to the public service have been brought to the President's attention on the occupational activity, which has made several demands and discussed the favorable solutions to the demands made by the unions.
+
+It was pointed out that although there is no possibility of providing salary this year, it is expected that the budget for the 2025 budget is expected to be amended on the recommendations of the expert panel appointed to review the salary of civil servants.
 
 ...
 
 [Data](articles/5c4401f0.json)
+
+[Extended Data](ext_articles/5c4401f0.ext.json)
 
 ---
 

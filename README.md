@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 12:53:43**
+As of **2024-07-08 13:04:56**
 
 ## Newspaper Stats
 
-*Scraped **34,206** Articles*
+*Scraped **34,208** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,010
 dailyftlk | 2,130
-adalk | 3,059
-adaderanalk | 3,920
+adalk | 3,060
+adaderanalk | 3,921
 tamilmirrorlk | 4,066
 dailymirrorlk | 4,733
 virakesarilk | 5,350
@@ -26,21 +26,41 @@ adaderanasinhalalk | 5,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,203 (100.0%) of 34,206 articles have been extended.
+34,206 (100.0%) of 34,208 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### பாடசாலைகள் நாளை இயங்கும்
+### SC concludes hearing of petition seeking to delay Presidential Election
+
+*2024-07-08 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100370/sc-concludes-hearing-of-petition-seeking-to-delay-presidential-election-) · `en`
+
+The hearing of the fundamental rights (FR) petition filed by businessman C.D. Lenawa seeking an order preventing the calling of a Presidential election until the Supreme Court delivers its interpretation on the date of the Presidential poll, and the intervening petitions has been concluded.
+
+Accordingly, the verdict in the case will be announced by the Supreme Court at 12.30 p.m. today.
+
+◼️
+
+[Data](articles/a0178621.json)
+
+---
+
+### Schools running tomorrow
 
 *2024-07-08 12:33:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகள்-நாளை-இயங்கும்/175-340034) · `ta`
 
-வழமையைப் ​போன்று பாடசாலைகள் யாவும் நாளை (09) இயங்கும் என்று கல்வியமைச்சு அறிவித்துள்ளது. அதிபர் மற்றும் ஆசிரியர்கள், நாளை (09) செவ்வாய்க்கிழமை சுகயீன விடுமுறை போராட்டத்தில் குதிக்கவுள்ளனர். இந்நிலையிலேயே, கல்வியமைச்சு மேற்கண்டவாறு அறிவித்துள்ளது.
+All schools will operate normally tomorrow due to a sudden teacher shortage caused by illness. The Ministry of Education made this announcement.
+
+🟩
+
+The Ministry of Education has announced that all schools will run tomorrow (09) as usual. Chancellor and teachers will jump on a sick holiday struggle tomorrow (09). In this case, the Ministry of Education has announced the above.
 
 ◼️
 
 [Data](articles/caa4af52.json)
+
+[Extended Data](ext_articles/caa4af52.ext.json)
 
 ---
 
@@ -180,6 +200,24 @@ The announcement states that all government schools will be held tomorrow.
 
 ---
 
+### වෙඩිතැබීමකින් ක්ලබ් වසන්ත මියයි ගායන ශිල්පිනි කේ.සුජීවාට බරපතල තුවාල
+
+*2024-07-08 11:42:08* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩිතැබීමකින්-ක්ලබ්-වසන්ත-මියයි-ගායන-ශිල්පිනි-කේ-සුජීවාට-බරපතල-තුවාල/11-410665) · `si`
+
+අතුරුගිරිය, ඔරුවල ප්‍රදේශයේ සිදුකළ වෙඩිතැබීමකින් දෙදෙනෙකු මිය ගොස් හය දෙනෙකු තුවාල ලබා ඇතිබව පොලීසිය පවසයි.
+
+වෙඩි වැදීමට මුහුනදුන් අය අතර ප්‍රසිද්ධ ව්‍යාපාරිකයෙකු වන සුරේන්ද්‍ර වසන්ත නොහොත් ක්ලබ් වසන්ත  මිය ගොස් ඇති අතර ජනප්‍රිය ගායන ශිල්පිනියක් වන කේ. සුජීවා තවත් අයෙක් අසාධ්‍ය තත්වයෙන් ජතික් රෝහලට ඇතුලත් කල බව  පොලීසිය සඳහන් කරයි.
+
+මෙම වෙඩි තැබීම සිදුවී ඇත්තේ ව්‍යාපාරික ස්ථානයක් විවෘත කිරීමේ අවස්තාවකදී බවත්  වෙඩික්කරුවන් මෝටර් රථයකින් පැමිණ පලාගොස් ඇතිබවත් පොලීසිය සඳහන් කරයි.
+
+තුවාල ලැබූ දෙදෙනෙක් හෝමාගම රෝහලේ තව දුරටත් ප්‍රතිකාර ලබමින් සිටී
+
+◼️
+
+[Data](articles/39f26348.json)
+
+---
+
 ### Interim petition from Wimal
 
 *2024-07-08 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198598) · `si`
@@ -310,11 +348,19 @@ The deceased has been identified as the individual known as “Club Wasantha” 
 
 *2024-07-08 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100367/club-wasantha-killed-in-shooting-singer-k-sujeewa-among-several-injured) · `en`
 
+UPDATE 12.22 p.m.: Another person injured in the shooting incident at Athurugiriya has succumbed to injuries increasing the death toll from the incident to 02.
+
+Additionally, four individuals, including singer K. Sujeewa, have been injured and are currently receiving treatment, according to the police.
+
 One person has been reported dead, while at least five others were left injured following a shooting incident at Oruwala in Athurugiriya.
 
 The injured individuals have been admitted to the Homagama Hospital, according to the police.
 
 The deceased has been identified as Surendra Wasantha Perera also known as “Club Wasantha” while popular singer ‘K. Sujeewa’ is also among the injured from the shooting incident, police said.
+
+The shooting reportedly took place during the opening ceremony of a beauty salon near the Clock Tower in Athurugiriya.
+
+Police said that footage of the vehicle in which the suspects had arrived was recorded on a nearby CCTV camera.
 
 ◼️
 
@@ -344,19 +390,25 @@ The shooting that took place in the city of Athurugiriya, including famous singe
 
 ---
 
-### 'கிளப் வசந்த' சுட்டுக்கொலை: பலர் படுகாயம்
+### 'Club Vasantha' shot: Many many others
 
 *2024-07-08 11:10:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-சுட்டுக்கொலை-பலர்-படுகாயம்/175-340025) · `ta`
 
-அத்துருகிரிய ஒருவல சந்தியில்  சற்றுமுன்னர் இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் 'கிளப் வசந்த' என அழைக்கப்படும் உரேந்திர வசந்த பெரேரா கொல்லப்பட்டதுடன் பாடகர் கே.சுஜீவா உட்பட பலர் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக அத்துருகிரிய  பொலிஸார் தெரிவித்தனர்.
+"Urandra Vasantha Perera, known as 'Club Vasantha,' was fatally shot at Athurugiriya junction during a Tattoo studio opening. Singer K. Sujeeva and others were injured and hospitalized, with Sujeeva later transferred to Colombo National Hospital."
 
-பாடகர் கே.சுஜீவா மற்றும் பலர் டாட்டூ ஸ்டுடியோ திறப்பு விழாவில் கலந்து கொண்ட போது துப்பாக்கிச்சூடு சம்பவம் நடந்ததாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இதேவேளை, பாடகர் சுஜீவா மற்றும் மற்றுமொருவர் மேலதிக சிகிச்சைக்காக கொழும்பு தேசிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளதாக வைத்தியசாலை வட்டாரங்கள் தெரிவித்தன.
+Urandra Vasantha Perera, also known as 'Club Vasantha', was killed in a shooting incident at the Athurugiriya junction, and many others, including singer K. Sujeeva, have been admitted to the hospital, Athurugiriya police said.
+
+The shooting incident occurred during the opening of the Tattoo studio, police said.
+
+Meanwhile, hospital sources said that the singer Sujeeva and another have been transferred to the Colombo National Hospital for further treatment.
 
 ◼️
 
 [Data](articles/c36ffbe5.json)
+
+[Extended Data](ext_articles/c36ffbe5.ext.json)
 
 ---
 
@@ -730,21 +782,29 @@ Investigations have revealed that the child had fallen into the water tank to be
 
 ---
 
-### උඩරට එළවළු මිල පහළට
+### Upcountry vegetable prices down
 
 *2024-07-08 09:19:20* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-එළවළු-මිල-පහළට/11-410659) · `si`
 
-පසුගිය සතියට සාපේක්ෂව උඩරට එළවළු වර්ග රැසක මිල පහල යමින් පවතින බව කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ වෙළෙදුන් පවසති.
+Vegetable prices in Upcountry have decreased, according to the Keppetipola Economic Center. Last week's crop damage led to increased stocks, but current harvests are lowering prices. Traders report lower costs for tomatoes, leeks, and fish per kilogram.
 
-පැවති වර්ෂා සහිත අයහපත් කාලගුණ තත්වයත් සමග එළවළු වගාවන් විනාශ විම හේතුවෙන් පසුගිය සතිය පුරා එළවළු කිලෝවක තොග මිල යම් මට්ටමකින් ඉහල ගොස් තිබු අතර එළවළු වර්ග රැසක මිල මේ වන විට යලි පහත වැටෙමින් තිබෙන බව කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ වෙළෙදුන් පවසති.
+🟩
 
-දිවයිනේ විවිධ ප්‍රදේශ වල එළවළු අස්වනු ආර්ථික මධ්‍යස්ථාන වලට ලැබීම හේතුවෙන් මෙලෙස බොහොමයක් එළවළු වර්ග වල මිල ගනන් පහත යමින් පවතින බවත් බෝංචි ඇතුළු එළවළු වර්ග කිහිපයක පමනක් මිල ඉහල ගොස් ඇති බවත් වෙළෙදුන් පවසති.
+Keppetipola is on the way to the price of upstairs compared to last week, says Keppetipola specialized economic center.
 
-මේ වන විට පසුගිය දින වල රුපියල් හාරසිය පනහක මිලක පැවති තක්කාලි කිලෝවක තොග මිල රුපියල් එකසිය හැටක් දක්වා පහත වැටී ඇති බවත් වෙලෙදුන් පවසන අතර පහත සදහන් මිල ගනන් වලට කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ එළවළු තොග කිලෝවක මිල පවතින බවත් වෙළෙදුන් පැවසීය.
+Due to the destruction of vegetables, the stock of vegetables had risen last week with vegetable crops, due to the destruction of vegetable crops.
 
-...
+The prices of vegetable harvesting in various parts of the island have been following the prices and the price of vegetables, including beans, have risen prices.
+
+The traders say that the stock of stock of tomatoes in a kilogram of Rs.
+
+Stock prices of a kilogram of leeks from Rs. 650 to Rs.A kilo of fish at Rs. 700 was Rs.
+
+◼️
 
 [Data](articles/e14bc8f9.json)
+
+[Extended Data](ext_articles/e14bc8f9.ext.json)
 
 ---
 
@@ -2173,59 +2233,5 @@ It was in the destiny of Hon. Sampanthan to be marked out for selection to high 
 [Data](articles/32d8a2cd.json)
 
 [Extended Data](ext_articles/32d8a2cd.ext.json)
-
----
-
-### Devotees to solving the problems of the Tamil people
-
-*2024-07-07 18:30:00* · [`adalk`](https://www.ada.lk/breaking_news/දෙමළ-ජනතාවගේ-ප්‍රශ්න-විසඳීමට-කැප-වී-කටයුතු-කරනවා/11-410652) · `si`
-
-R. Sampanthan, a prominent figure in Sri Lanka, was remembered for his dedication to addressing the challenges faced by the Tamil community. As an opposition leader and alternative prime minister, he played a crucial role in advocating for the rights of all Sri Lankans, not just the Tamil people. His efforts included supporting agreements aimed at resolving ethnic tensions and promoting unity within the nation. Despite his passing, his legacy continues to inspire calls for unity and progress towards resolving longstanding issues affecting the Tamil population.
-
-🟩
-
-R. Mr. Sampanthan and I always stood for a Sri Lanka
-
-We all join the success of the agreement with the agreement.
-
-One of the opposition leader is alternative Prime Minister - R. Mr. Sampanthan is a leader who fulfilled the role of the Leader of the Opposition.
-
-The National Land Commission's draft is currently ready - it will be presented to Parliament.
-
-Presidential election is being held this year. President Mahinda Rajapaksa says
-
-Latest R. President Ranil Wickremesinghe said that Mr. Sampanthan is a leader who is not only for the rights of the LTTE but also a leader of the entire Sri Lankan people.
-
-R. All should be joined to successfully complete the discussions with Mr. Sampanthan.
-
-President Ranil Wickremesinghe made this statement that R. At the residence of his house in Trincomalee, he was present at the residence in the house.
-
-...
-
-[Data](articles/d6bb3be1.json)
-
-[Extended Data](ext_articles/d6bb3be1.ext.json)
-
----
-
-### Russia’s Voronezh region declares emergency after Ukraine drone attack
-
-*2024-07-07 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100357/russias-voronezh-region-declares-emergency-after-ukraine-drone-attack) · `en`
-
-A state of emergency was introduced in parts of Russia’s Voronezh region after a Ukrainian drone attack sparked a warehouse fire, the governor of the western region bordering Ukraine said on Sunday.
-
-“There were no casualties,” Alexander Gusev said on the Telegram messaging app, adding that some residents in the Podgorensky district of the region were being evacuated.
-
-Ukraine’s retalliatiatory strike comes in light of Russia launching an overnight drone attack across Ukraine on June 6, hitting an energy facility in the Sumy region in the northeast of the country, officials said.
-
-Hence, Ukrainian mobile drone hunter groups and air defence units shot down 24 of the 27 Russian drones fired on 12 regions, the air force said.
-
-Since March, Russian forces have intensified their bombardments of the Ukrainian power sector.
-
-◼️
-
-[Data](articles/a89b53cd.json)
-
-[Extended Data](ext_articles/a89b53cd.ext.json)
 
 ---

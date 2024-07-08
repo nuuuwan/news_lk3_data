@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 13:54:45**
+As of **2024-07-08 14:07:08**
 
 ## Newspaper Stats
 
-*Scraped **34,215** Articles*
+*Scraped **34,217** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,72 +17,114 @@ economynextcom | 2,010
 dailyftlk | 2,130
 adalk | 3,062
 adaderanalk | 3,921
-tamilmirrorlk | 4,068
+tamilmirrorlk | 4,069
 dailymirrorlk | 4,733
 virakesarilk | 5,350
-adaderanasinhalalk | 5,692
+adaderanasinhalalk | 5,693
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,210 (100.0%) of 34,215 articles have been extended.
+34,215 (100.0%) of 34,217 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### ஜனாதிபதியின் பதவிக்காலம்:மனு தள்ளுபடி
+### වෙඩික්කරුවන් ආ මෝටර් රථය සොයාගනී
+
+*2024-07-08 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198604) · `si`
+
+අතුරුගිරියේ වෙඩිතැබීමට පැමිණි බවට සැක කෙරෙන මෝටර් රථය කඩුවෙල, කොරතොට ප්‍රදේශයේ දමා ගොස් තිබිය දී සොයා ගෙන තිබේ.
+
+අද (08) උදැසන 10ට පමණ මෙම වෙඩිතැබීම සිදුකර තිබුණේ, අතුරුගිරිය නගරයේ ඔරලෝසු කනුව ආසන්නයේ රූපලාවන්‍ය ආයතනයක් විවෘත කිරීමේ උත්සවයක් අතරතුරදීය.
+
+වෙඩිතැබීමෙන් ප්‍රසිද්ධ ව්‍යාපාරිකයෙකු වන 55 හැවිරිදි සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත සහ 38 හැවිරිදි අයෙක් ජීවිතක්ෂයට පත්වුණි.
+
+මොවුන් කොළඹ 07 සහ අතුරුගිරිය යන ප්‍රදේශවල පදිංචිකරුවන් බව පොලීසිය සඳහන් කරයි.
+
+වෙඩිතැබීමෙන් ප්‍රසිද්ධ ගායන ශිල්පිනියක් වන කේ සූජීවා ද තුවාල ලැබූ අතර තවත් කාන්තාවන් දෙදෙනෙකු සහ පිරිමි පුද්ගලයෙකු තුවාල ලබා තිබේ.
+
+තුවාල ලැබූ කාන්තාවක් සහ පිරිමි පුද්ගලයෙකු කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබන අතර අනෙක් කාන්තාවන් දෙදනො හෝමාගම රෝහලේ ප්‍රතිකාර ලබයි.
+
+වෙඩික්කරුවන් මෝටර් රථයකින් පැමිණ ඇති බවට හා වෙඩිතැබීමට ටී 56 ගිනිඅවි දෙකක් භාවිත කර ඇති බව පොලීස් විමර්ශනවලදී අනාවරණය වුණි.
+
+◼️
+
+[Data](articles/479f3b4c.json)
+
+---
+
+### President's term: petition dismissed
 
 *2024-07-08 13:36:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-பதவிக்காலம்-மனு-தள்ளுபடி/175-340037) · `ta`
 
-ஜனாதிபதியின் பதவிக்காலம் முடிவடையும் திகதி தொடர்பில் விளக்கமளிக்கும் வரை, ஜனாதிபதித் தேர்தலில் நடத்துவதைத் தடுக்க உத்தரவிடுமாறு கோரி தாக்கல் செய்யப்பட்ட மனுவை உயர் நீதிமன்றம் தள்ளுபடி செய்துள்ளது.
+Supreme Court dismisses petition to halt presidential election, allowing it to proceed despite ongoing term.
+
+🟩
+
+The Supreme Court has dismissed a petition filed by the Supreme Court seeking to prevent the presidential election, until the president's term is over.
 
 ◼️
 
 [Data](articles/2f95e126.json)
 
+[Extended Data](ext_articles/2f95e126.ext.json)
+
 ---
 
-### ජනාධිපතිගේ නිල කාලය සම්බන්ධ පෙත්සම නිෂ්ප්‍රභ කෙරේ
+### Petition relating to the president's term of office is dismissed
 
 *2024-07-08 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198603) · `si`
 
-ජනාධිපතිවරයාගේ නිල කාලය සම්බන්ධයෙන් අර්ථ නිරූපණයක් ලබා දෙන තුරු ජනාධිපතිවරණය පැවැත්වීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර ඇති පෙත්සම විභාගයට නොගෙන රුපියල් ලක්ෂයක නඩු ගාස්තුවට යටත්ව නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේය.
+The Supreme Court dismissed a petition against the president's term, preventing any action against the election process. The petitioner, entrepreneur C.D. Mr. Levy, must appear in court within a month. This decision was made by Chief Justice Jayantha Jayasuriya.
 
-එම නඩු ගාස්තුව මසක් ඇතුළත අධිකරණයේ තැන්පත් කළ යුතු බවට ද පෙත්සම්කරුට නියම කර තිබේ.
+🟩
 
-අගවිනිසුරු ජයන්ත ජයසූරිය මහතා ප්‍රමුඛ පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම නියෝගය නිකුත් කළහ.
+The Supreme Court decided to dismiss the presidential election to issue an order to issue a prevention of the presidential election until the presidential election was given to the presidential election.
 
-ව්‍යවසායකයෙකු වන සී. ඩී. ලෙනව මහතා විසින් පෙත්සම ඉදිරිපත් කර තිබුණි.
+The petitioner has also been ordered to be placed in court within a month.
+
+The order issued the order by Chief Justice Jayantha Jayasuriya.
+
+An entrepreneur of C. D. Mr. Levy had presented the petition.
 
 ◼️
 
 [Data](articles/0cf6d2f3.json)
 
+[Extended Data](ext_articles/0cf6d2f3.ext.json)
+
 ---
 
-### අතුරුගිරිය වෙඩි තැබීමේ CCTV දර්ශන එළියට...
+### Athurugiriya shooting CCTV footage out
 
 *2024-07-08 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198602) · `si`
 
-අද (08) උදෑසන අතුරුගිරිය නගරයේ සිදුවූ වෙඩි තැබීමේ CCTV දර්ශන මේ වනවිට මාධ්‍යයට නිකුත් කර තිබේ.
+In Athurugiriya, a shooting incident at Club Wasantha resulted in the death of businessman Surestra Wasantha Perera and injuries to five others, including a famous singer. Six victims were rushed to Homagama and Colombo National Hospitals. The suspects fled the scene in a vehicle.
 
-අතුරුගිරිය නගරයේ සිදුවූ වෙඩි තැබීමකින් ප්‍රසිද්ධ ව්‍යාපාරිකයෙකු වන සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත මිය ගියේය.
+🟩
 
-එම වෙඩි තැබීමෙන් තවත් පුද්ගලයින් පස් දෙනෙකු තුවාල ලබා රෝහල්ගත කර තිබූ අතර ප්‍රසිද්ධ ගායන ශිල්පිනියක් වන කේ සූජීවාද ඒ අතර වේ.
+The shooting CCTV scen in Athurugiriya has been released to the media this morning.
 
-අතුරුගිරිය නගරයේ ඔරලෝසු කනුව ආසන්නයේ රූපලාවන්‍ය ආයතනයක් විවෘත කිරීමේ උත්සවයක් අතරතුරදී වෙඩි තැබීම සිදුව තිබුණි.
+Surestra Wasantha Perera, a famous businessman in Athurugiriya, died of Club Wasantha.
 
-වෙඩි ප්‍රහාරයට ලක්ව තුවාල ලැබූ පුද්ගලයින් 6 දෙනෙකු වහාම හෝමාගම රෝහලට සහ කොළඹ ජාතික රෝහලට ඇතුළත් කෙරුණි.
+Five others were injured in the shooting and was injured and a famous singer Kijeevisa.
 
-ක්ලබ් වසන්ත රෝහල් ගත කිරීමේ දී ජීවිතක්ෂයට පත්ව තිබූ අතර පසුව තවත් අයෙක් මියගියේය.
+Athurium Town of Athurugiriya
 
-වෙඩිතැබීම සිදුකළ සැකකරුවන් පැමිණි වාහනය බව පැවසෙන වාහනය අසල CCTV කැමරාවක සටහන්ව තිබෙන බව පොලීසිය සඳහන් කළේය.
+Six persons were injured in the shooting were immediately admitted to the Homagama Hospital and the Colombo National Hospital.
+
+Club was killed while another deceased after another.
+
+The vehicle said that the suspects arrived in the vehicle, police said.
 
 ◼️
 
 [Data](articles/e03ebfe6.json)
+
+[Extended Data](ext_articles/e03ebfe6.ext.json)
 
 ---
 
@@ -352,6 +394,20 @@ Attorneys-at-Law Gamathu Karinasena, Shnali Dias, Nimashi Fernando and the Supre
 
 ---
 
+### ஜனாதிபதி தேர்தல் மனு: மனுவை நிராகரிக்குமாறு மனு
+
+*2024-07-08 11:34:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தல்-மனு-மனுவை-நிராகரிக்குமாறு-மனு/175-340028) · `ta`
+
+2024 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலை நடத்துவதற்கு தேர்தல்கள் ஆணைக்குழுவைத் தடைசெய்யும் உத்தரவைக் கோரும் அடிப்படை உரிமைகள் மனுவுக்கு எதிராக ஆரம்ப ஆட்சேபனைகளை எழுப்பிய நிலையில், சட்டமா அதிபர் இந்த மனுவை (ஆரம்பத்திலேயே) நிராகரிக்குமாறு உயர் நீதிமன்றத்தில் இன்று மனுத்தாக்கல் செய்தார்.
+
+வர்த்தகர் சமிந்திர தயான் லெனவவினால் தாக்கல் செய்யப்பட்ட அடிப்படை உரிமை மீறல் மனு பிரதம நீதியரசர் ஜயந்த ஜயசூரிய தலைமையிலான ஐவரடங்கிய நீதியரசர்கள் குழாம் முன்னிலையில் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போதே தேர்தல்கள் ஆணைக்குழு சார்பில் ஆஜரான பிரதி சொலிசிட்டர் ஜெனரல் கனிஷ்க டி சில்வா இந்தக் கோரிக்கையை முன்வைத்தார்.
+
+◼️
+
+[Data](articles/e1ad3236.json)
+
+---
+
 ### 11 Divisional Secretariats
 
 *2024-07-08 11:32:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/11-பிரதேச-செயலகங்களுக்கு-மண்சரிவு-எச்சரிக்கை/175-340027) · `ta`
@@ -602,19 +658,31 @@ The South Asian Movement for Accessing Justice (SAMAJ) is advocating for “comp
 
 ---
 
-### රට ගොඩනැගිය හැකි එකම පුද්ගලයා මමයි
+### I am the only person who can build the country
 
 *2024-07-08 10:40:14* · [`adalk`](https://www.ada.lk/breaking_news/රට-ගොඩනැගිය-හැකි-එකම-පුද්ගලයා-මමයි/11-410661) · `si`
 
-රටේ ආර්ථිකයේ ගොඩනගන ක්‍රමය පිළිබඳව කිසිදු දේශපාලන පක්ෂයක් විසින් ජනතාවට ප්‍රකාශ නොකිරීම හේතුවෙන් සියයට 44% ක් දෙනෙකු ඡන්දය ප්‍රකාශ කිරීමට.මෙතෙක් තීරණය කර නොමැති බවත් සියලු පක්ෂ නායකයින්ගේ අදහස් ක්‍රියාත්මක සිස්ටම් එකක් අනුව රට ගොඩනැගිය හැකි එකම පුද්ගලයා තමන් බව ධම්මික පෙරේරා මහතා පවසයි.
+Dhammika Perera claims he alone can steer the country's economic development without favoring any political party. He advocates for a uniform education system to uplift Sri Lanka and cautions against spreading misinformation on social media. Speaking at a certificate award event, he highlighted his efforts towards national development, especially through the largest party, Povett. Interestingly, 44% of voters remain undecided about their economic preferences, suggesting a unique perspective among politicians.
 
-ශ්‍රී ලංකාව දියුණු කිරීම සඳහා වර්තමානයේ පවතින මෙරට අධ්‍යාපන ක්‍රමය වෙනුවට ජාත්‍යන්තරයේ පවතින අධ්‍යාපනයට සමාන අධ්‍යාපන ක්‍රමයක් මෙරට නිර්මාණය කල යුතු බව D.P.Education ආයතනයේ නිර්මාතෘ සහ එහි සභාපති ධම්මික පෙරේරා මහතා පැවසීය.
+🟩
 
-සමාජ මාධ්‍ය තුළ සිදු කරන වැරදි ක්‍රියාවන් සම්බන්ධයෙන් කිසිවිටෙක කලබල විය යුතු නැති බවත් ලෝකයේ අනෙකුත් රටවල දරුවන් සමග තරග කල හැකි දරු පරපුරක් නිර්මාණය කිරීම සඳහා කටයුතු කළ යුතු බවද ඒ මහතා කීය.
+Dhammika Perera said he was the only person who could not declare the people of any political party regarding the development of the country's economy.
+
+Dr. Dhammika Perera said that the country's creation and its chairman Dhammika Perera said that there should be a similar education system in the country to develop Sri Lanka today.
+
+He also said that the misconceptions in the social media should not be excited to create a generation of childhood in the world.
+
+Dhammika Perera was speaking at the Certificate of the Certificate of Certificate at the Anuradhapura District at the Salgadu Stadium on the 7th of September.
+
+He also emphasized that he had carried out actions as a woman, the largest party, the largest party Povett.
+
+It was stated that 44% of the party had not yet decided to vote by any party regarding the building of the economy and that 44% of the voting has not yet been decided.
 
 ...
 
 [Data](articles/4b1ad680.json)
+
+[Extended Data](ext_articles/4b1ad680.ext.json)
 
 ---
 
@@ -1164,27 +1232,37 @@ Meanwhile, PAFFREL's executive director Rohana Hettiarachchi said that if the go
 
 ---
 
-### සුරේන්ද්‍ර වසන්ත පෙරේරා: අතුරුගිරියේ වෙඩි තැබීමෙන් මිය ගිය ව්‍යාපාරිකයා කවුද?
+### Suresantra Wasantha Perera: Who was the businessman who died of the shooting of Athurugiriya?
 
 *2024-07-08 07:13:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crgrz19l04do) · `si`
 
-සුරේන්ද්‍ර වසන්ත පෙරේරා: අතුරුගිරියේ වෙඩි තැබීමෙන් මිය ගිය ව්‍යාපාරිකයා කවුද?
+Suresh Wasantha Perera, a prominent businessman, was killed in a shooting incident in Athurugiriya. The attack occurred during the opening of a business outlet and involved six victims, including a popular singer. Perera, known for his involvement in organized crime and owning several clubs, gained public attention after being arrested alongside Madushen Madushi in Dubai in 2019. Despite his arrest, he maintained a significant online presence, with over 600,000 followers on Facebook. He was 55 years old and left behind four children.
 
-අතුරුගිරිය, ඔරුවල ප්‍රදේශයේ දී අද (ජුලි 8 වැනිදා) සිදුවූ වෙඩිතැබීමකින් ප්‍රසිද්ධ ව්‍යාපාරිකයෙකු වන සුරේන්ද්‍ර වසන්ත නොහොත් 'ක්ලබ් වසන්ත' ඇතුළු තවත් පුද්ගලයෙකු මියගොස් තිබෙන බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පවසයි.
+🟩
 
-එම වෙඩි ප්‍රහාරයට ලක්වීමෙන් තවත් පුද්ගලයින් සිව්දෙනෙකුතුවාල ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය බීබීසී සිංහල වෙත පවසන ලදී.
+Suresantra Wasantha Perera: Who was the businessman who died of the shooting of Athurugiriya?
 
-තුවාල ලැබූවන් අතර ජනප්‍රිය ගායන ශිල්පිනියක් වන කේ. සුජීවා ද වන අතර ඇය කොළඹ ජාතික රෝහලට ඇතුළත් කර තිබේ.
+The police media spokesman's office said that the famous businessman is the famous businessman, a shooting of shooting in Athurugiriya today (July 8).
 
-ඒ සම්බන්ධයෙන් කළ විමසීමකදී රෝහල් ප්‍රකාශිකාවක් බීබීසී සිංහල වෙත පැවසුවේ ඇයගේ පාදයේ කලව ප්‍රදේශයට වෙඩි පහරක් එල්ලවී ඇති බව ය.
+The Police Media Spokesman office told the Sinhala that the shooting had four other people.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දුව පැවසුවේ ව්‍යාපාරික ස්ථානයක් විවෘත කිරීමේ උත්සවයක් සඳහා පැමිණ සිටි අවස්ථාවේදී මෙම වෙඩි ප්‍රහාරය එල්ල වී ඇති බව ය.
+A popular singer among the injured. Sujeewa is also admitted to the Colombo National Hospital.
 
-"අතුරුගිරිය හංදියේ ඉදල ඔරුවල ප්‍රදේශයට යන මාර්ගයේදී තමයි මේ සිදුවීම් වෙලා තියෙන්නේ."
+When inquired about it, a hospital spokesman told the Sinhala that she had been hit by a shot of her foot.
+
+Police Media Spokesperson DIG Nihal Thaltuwa said that the shooting was on the operation of opening a business station.
+
+"These incidents are the road to the Boundaging in Athurugiriya Junction."
+
+"When a car was attending the opening of a tatoty shop, the shotguns who had come to the crime have already received basic information."
+
+"The event is wounded 6. Among them, Suresra Wasra Wasantha, a singer, has been informed. "
 
 ...
 
 [Data](articles/478945cc.json)
+
+[Extended Data](ext_articles/478945cc.ext.json)
 
 ---
 
@@ -2165,55 +2243,5 @@ However, more than five lakhs of primary and secondary services will be lifted f
 [Data](articles/d74d6e41.json)
 
 [Extended Data](ext_articles/d74d6e41.ext.json)
-
----
-
-### Public Service Trade Unions in a strict decision
-
-*2024-07-07 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198583) · `si`
-
-Over 200 public service trade unions plan a sick leave protest, marking one of the largest such actions. The Ministry of Public Service supports this move, involving various sectors like Grama Niladhari, Survey, and Development Officers. However, the Government Medical Officers Association and the Health Sector Forum have opted out, indicating divisions within the public service unions over this action.
-
-🟩
-
-Over 200 trade unions in the public service, it is planned to engage in a trade union action to report sick leave at the day.
-
-The Ministry of Public Service and Provincial Public Service Unions said that the implementation of Rs.
-
-The Co-convener of the Ministry of Public Service and Provincial Public Service Unions said that many public service, including Grama Niladhari, Survey, Development Officer, and other public service unions participate in this program.
-
-Convener of the Joint Postal Services Trade Union, the convener of the Joint Postal Services Trade Union, said that the employees of the trade union action will be held from 4 pm today (07).
-
-President of the Government Officer Federation Federation Sumith Kodikara said that the trade union action will be taken into strike in the country after the 1980 strike.
-
-Meanwhile, the President of the All Ceylon Nursing Association SB. Mediawatta said that even though public servants will support the trade union action implemented tomorrow.
-
-...
-
-[Data](articles/f86736df.json)
-
-[Extended Data](ext_articles/f86736df.ext.json)
-
----
-
-### Electricity and petroleum are essential
-
-*2024-07-07 19:25:27* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිය-ඉන්ධන-හා-ඛනිජ-තෙල්-අත්‍යාවශ්‍ය-සේවා-කරයි/11-410655) · `si`
-
-President Ranil Wickremesinghe declared electricity and petroleum as essential services, making their production, supply, and delivery public. This decision aims to ensure these critical resources remain accessible to all citizens, with no restrictions from any government department or local bodies.
-
-🟩
-
-All services and supply of petroleum production and supply of petroleum production and supply of petroleum production and delivery of petroleum production and delivery will be made public by President Ranil Wickremesinghe.
-
-The gazette notification that made these services essential services was issued by the President EMSBA.
-
-Accordingly, the gazette notification has made these services the essential services to the maintenance of the average people by any publicity, department, department, a local government body or branch.
-
-◼️
-
-[Data](articles/9a49b87d.json)
-
-[Extended Data](ext_articles/9a49b87d.ext.json)
 
 ---

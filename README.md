@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 09:19:50**
+As of **2024-07-08 09:35:13**
 
 ## Newspaper Stats
 
-*Scraped **34,167** Articles*
+*Scraped **34,168** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,925
 economynextcom | 2,005
 dailyftlk | 2,130
 adalk | 3,055
-adaderanalk | 3,912
+adaderanalk | 3,913
 tamilmirrorlk | 4,057
 dailymirrorlk | 4,733
 virakesarilk | 5,349
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,165 (100.0%) of 34,167 articles have been extended.
+34,167 (100.0%) of 34,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### Over 200 trade unions launch ‘sick leave’ campaign today
+
+*2024-07-08 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100363/over-200-trade-unions-launch-sick-leave-campaign-today) · `en`
+
+Over 200 public sector trade unions, including Grama Niladhari officers and surveyors, will engage in a trade union action by taking ‘sick leave’ today (8) and tomorrow (9), according to the Trade Unions Collective.
+
+Government officials across several sectors, including postal workers, surveyors, agricultural regulators, Grama Niladhari officers, development officers, and prosperity officers, will participate in the strike starting today (8).
+
+NM Wijeratne, President of the State and Provincial Public Management Association, stated that these trade unions are protesting based on several demands, including a salary increase.
+
+Chinthaka Bandara, the co-convener of the United Postal Trade Unions’ Front, mentioned that postal workers began their strike at 4 p.m. yesterday (07) in support of this action.
+
+The General Secretary of the Ceylon Teachers’ Union (CTU), Joseph Stalin, said that although the CTU reported to work today, they have decided to take sick leave tomorrow (9).
+
+...
+
+[Data](articles/22a187ec.json)
+
+---
 
 ### SC to hear petition seeking to delay Presidential Election today
 
@@ -49,6 +69,8 @@ Meanwhile, Rohana Hettiarachchi, executive director of People’s Action for Fre
 ◼️
 
 [Data](articles/4b50002d.json)
+
+[Extended Data](ext_articles/4b50002d.ext.json)
 
 ---
 
@@ -1180,19 +1202,25 @@ Accordingly, the gazette notification has made these services the essential serv
 
 ---
 
-### පුහුණුකරු ධුරය තාවකාලිකව සනත්ට
+### Sanath temporarily
 
 *2024-07-07 18:49:38* · [`adalk`](https://www.ada.lk/sports/පුහුණුකරු-ධුරය-තාවකාලිකව-සනත්ට/9-410653) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ධුරය තාවකාලිකව හිටපු සුපිරි ක්‍රිකට් ක්‍රීඩක සනත් ජයසූරිය වෙත ලබා දීමට ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පියවර ගෙන ඇති බව Tha Sunday Times පුවත්පත වාර්තා කරයි.
+SLC has appointed former chief coach Chris Silverwood's replacement temporarily. Sanath Jayasuriya, a consultant coach and part of the High Performance Center team, has been promoted to the role of chief trainer. His first assignment includes three ODIs and T20s starting in July, followed by a Test series against England in August-September.
 
-ශ්‍රී ලංකා කණ්ඩායමේ හිටපු ප්‍රධාන පුහුණුකරු ක්‍රිස් සිල්වර්වුඩ් පසුගියදා ඉල්ලා අස්වීමෙන් පසු හිස්වූ මෙම තනතුරට ස්ථිර පුහුණුකරුවෙකු පත්කර ගන්නාතුරු මෙම පත්කිරීම සිදුකර ඇති බව වාර්තා වේ. සනත් පසුගිය වර්ෂය අවසානයේදී ශ්‍ර්‍රී ලංකා කණ්ඩායමේ උපදේශක පුහුණුකරුවකු ලෙස පත් වූ අතර ඔහු අධිදක්ෂතා කළමනාකරණ මධ්‍යස්ථානය (High performance center) භාරව කටයුතු කලේය. පසුව ඔහු මෙවර විස්සයි20 ලෝක කුසලානයේදී ශ්‍රී ලංකා කණ්ඩායමේ උපදේශක පුහුණුකරුවෙකු ලෙසින් එක්විය.
+🟩
 
-සනත් අතුරු ප්‍රධාන පුහුණුකරු ලෙස පලමු තරගාවලිය වන්නේ සංචාරක ඉන්දීය කණ්ඩායම සමගින් පැවැත්වෙන එක්දින තරග 3 කින් හා විස්සයි20 තරග තුනකින් යුත් තරගාවලියයි. එය මෙම ජූලි මසදී ආරම්භ වීමට නියමිතය. අනතුරුව එංගලන්තය සමගින් එලඹෙන අගෝස්තු-සැප්තැම්බර් මසදී පැවැත්වෙන ටෙස්ට් තරගාවලිය ඔහු පුහුණුකාරීත්වය දරණ පළමු විදෙස් තරග සංචාරය වනුඇත.
+The TIMES report that SLC has taken steps to provide the head coach of the Sri Lankan cricket team temporarily.
+
+Former Sri Lankan chief coach chris Silverwood recently resigned, it is reported that the appointment has been made by a permanent trainer to the post.. Sanath became a consultant coach of the team in the group of Group, which was in charge of the High Performance Center (HIGH PERFORMANCE CENTER).. He was later joined the Sri Lankan advisory coach at the T20 World Trophy this year.
+
+The first tournament as Sanath side Chief Trainer is three one-day and three-day series with three ODIs with T20. It is scheduled to start in this july. He is the Test series in August-September, which is coming with England.
 
 ◼️
 
 [Data](articles/c03ac600.json)
+
+[Extended Data](ext_articles/c03ac600.ext.json)
 
 ---
 
@@ -2275,27 +2303,5 @@ President Ranil Wickremesinghe said that the country was trying to sabotage the 
 [Data](articles/dacfd0f6.json)
 
 [Extended Data](ext_articles/dacfd0f6.ext.json)
-
----
-
-### John Sena takes good
-
-*2024-07-07 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198570) · `si`
-
-John Sena, a renowned figure, has announced his retirement from competitive gaming. The 47-year-old Hollywood actor expressed excitement about his last match in the relief tournament.
-
-🟩
-
-John Sena, a resolution star that has been a resolution star, has announced his retrospective.
-
-John Pina, a famous Hollywood actor, is 47 years old.
-
-John Sena said his final resolving match in the relief tournament that he was looking forward to facing it.
-
-◼️
-
-[Data](articles/66345a5e.json)
-
-[Extended Data](ext_articles/66345a5e.ext.json)
 
 ---

@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 08:35:07**
+As of **2024-07-08 08:54:21**
 
 ## Newspaper Stats
 
-*Scraped **34,162** Articles*
+*Scraped **34,164** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 309
-colombotelegraphcom | 315
+colombotelegraphcom | 316
 bbccomsinhala | 334
 newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,005
 dailyftlk | 2,130
 adalk | 3,054
-adaderanalk | 3,910
+adaderanalk | 3,911
 tamilmirrorlk | 4,056
 dailymirrorlk | 4,733
 virakesarilk | 5,349
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,162 (100.0%) of 34,162 articles have been extended.
+34,162 (100.0%) of 34,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### Prevailing showery conditions to continue in parts of the island
+
+*2024-07-08 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100361/prevailing-showery-conditions-to-continue-in-parts-of-the-island-) · `en`
+
+The Meteorology Department says the prevailing showery conditions are expected to continue today in the south-western part of the island.
+
+Showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
+
+Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/47af85a5.json)
+
+---
 
 ### The rain will continue in the coming days
 
@@ -1228,6 +1248,18 @@ Sri Lanka Tamil National Alliance (TNA) leader Amara Sampanthan's funeral was pl
 
 ---
 
+### Rajavarothiam Sampanthan – A Personality Like Few Other
+
+*2024-07-07 18:30:11* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rajavarothiam-sampanthan-a-personality-like-few-other/) · `en`
+
+It was in the destiny of Hon. Sampanthan to be marked out for selection to high office, though young in years. He had hit the radar as early as in 1965 and caught the eye of the Tamil political leader, SJV Chelvanayakam to be chosen for the Trincomalee seat. Being of tender age he was disinclined. When offered a second time in 1970, he declined again. When 1977 general elections were approaching, SJV decided the issue with cryptic words “I have taken no for an answer twice” and clinched the selection in his own favour.
+
+...
+
+[Data](articles/32d8a2cd.json)
+
+---
+
 ### Devotees to solving the problems of the Tamil people
 
 *2024-07-07 18:30:00* · [`adalk`](https://www.ada.lk/breaking_news/දෙමළ-ජනතාවගේ-ප්‍රශ්න-විසඳීමට-කැප-වී-කටයුතු-කරනවා/11-410652) · `si`
@@ -2279,51 +2311,5 @@ According to that information, the officers who had come to the bowsers yard wer
 [Data](articles/76f97d41.json)
 
 [Extended Data](ext_articles/76f97d41.ext.json)
-
----
-
-### New responsibility to Sanath Jayasuriya
-
-*2024-07-07 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198569) · `si`
-
-Sanath Jayasuriya takes over as Sri Lanka's temporary head coach post Chris Silverwood's departure after the T20 World Cup.
-
-🟩
-
-Sanath Jayasuriya has been temporarily appointed as the head coach of the Sri Lankan cricket team.
-
-Chris Silverwood, who was the chief coach, was completed after the 20 World Cup.
-
-◼️
-
-[Data](articles/cedd472f.json)
-
-[Extended Data](ext_articles/cedd472f.ext.json)
-
----
-
-### Sudden resolution of postal staff
-
-*2024-07-07 13:01:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஞ்சல்-ஊழியர்களின்-திடீர்-தீர்மானம்/175-339975) · `ta`
-
-Postal workers in Sri Lanka have called off their planned 48-hour strike scheduled for August 8th and 9th. The decision was made by Sindha Bandara, co-secretary of the United Postal Trade Union Front, who announced the strike would start at the Central Postal Transfer Center at 4 pm on August 7th, expanding to all post offices by midnight. The strike was aimed at addressing three key demands, although specific details about these demands were not disclosed.
-
-🟩
-
-Postal workers will be engaged in a 48 -hour identity strike tomorrow (08) and tomorrow (09).
-
-Sindha Bandara, the co -invitation of the united postal trade union Front, said this.
-
-He said that it has been decided to launch a identification strike at the Central Postal Transfer Center from 4 pm today (07).
-
-The union action will be launched at all other post offices from midnight today (07).
-
-The co -guest of the Postal Trade Union Front, Chintaka Bandara added that the trade union action will be launched with three demands. Remble
-
-◼️
-
-[Data](articles/d89123ea.json)
-
-[Extended Data](ext_articles/d89123ea.ext.json)
 
 ---

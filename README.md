@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 13:19:50**
+As of **2024-07-08 13:35:20**
 
 ## Newspaper Stats
 
-*Scraped **34,210** Articles*
+*Scraped **34,212** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ adaderanalk | 3,921
 tamilmirrorlk | 4,067
 dailymirrorlk | 4,733
 virakesarilk | 5,350
-adaderanasinhalalk | 5,690
+adaderanasinhalalk | 5,692
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,208 (100.0%) of 34,210 articles have been extended.
+34,210 (100.0%) of 34,212 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### ජනාධිපතිගේ නිල කාලය සම්බන්ධ පෙත්සම නිෂ්ප්‍රභ කෙරේ
+
+*2024-07-08 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198603) · `si`
+
+ජනාධිපතිවරයාගේ නිල කාලය සම්බන්ධයෙන් අර්ථ නිරූපණයක් ලබා දෙන තුරු ජනාධිපතිවරණය පැවැත්වීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර ඇති පෙත්සම විභාගයට නොගෙන රුපියල් ලක්ෂයක නඩු ගාස්තුවට යටත්ව නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේය.
+
+එම නඩු ගාස්තුව මසක් ඇතුළත අධිකරණයේ තැන්පත් කළ යුතු බවට ද පෙත්සම්කරුට නියම කර තිබේ.
+
+අගවිනිසුරු ජයන්ත ජයසූරිය මහතා ප්‍රමුඛ පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම නියෝගය නිකුත් කළහ.
+
+ව්‍යවසායකයෙකු වන සී. ඩී. ලෙනව මහතා විසින් පෙත්සම ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/0cf6d2f3.json)
+
+---
+
+### අතුරුගිරිය වෙඩි තැබීමේ CCTV දර්ශන එළියට...
+
+*2024-07-08 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198602) · `si`
+
+අද (08) උදෑසන අතුරුගිරිය නගරයේ සිදුවූ වෙඩි තැබීමේ CCTV  දර්ශන මේ වනවිට මාධ්‍යයට නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/e03ebfe6.json)
+
+---
 
 ### SC concludes hearing of petition seeking to delay Presidential Election
 
@@ -48,21 +78,27 @@ Accordingly, the verdict in the case will be announced by the Supreme Court at 1
 
 ---
 
-### “ ஐ.ம.ச எம்.பிக்கள் இருவர் தாவுவர்”
+### "Two IMPs
 
 *2024-07-08 12:40:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-எம்-பிக்கள்-இருவர்-தாவுவர்/175-340035) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் இரண்டு  எம்.பி.க்கள் டொலர்களில் வெகுமதிகளை பெற்று சிறிது நேரத்தில் கட்சியை விட்டு வெளியேறுவார்கள் என்று ஐக்கிய மக்கள் சக்தியின்  எம்.பி ஒருவர் இன்று (08)  தெரிவித்தார்.
+Two MPs from the United People's Power party are set to join the government, reportedly receiving cash rewards in US dollars. Harshana Rajakaruna criticized them as "political prostitutes," suggesting more might switch sides to the opposition.
 
-கம்பஹா மாவட்டத்தைச் சேர்ந்த எம்.பி ஒருவரும் களுத்துறை மாவட்டத்தைச் சேர்ந்த மற்றொருவரும் விரைவில் அரசாங்கத்துக்குச் செல்வார்கள் என ஐக்கிய மக்கள் சக்தியின்  பாராளுமன்ற உறுப்பினர் ஹர்ஷன ராஜகருணா   தெரிவித்தார்.
+🟩
 
-"இந்த அரசியல் விபச்சாரிகள் அமெரிக்க டொலர்களில் பண வெகுமதிகள் உட்பட சலுகைகளுக்கு வீழ்ந்துள்ளனர்" என்று பாராளுமன்ற உறுப்பினர் ராஜகருணா கூறினார்.
+A United People's Power MP said today (08) that the two MPs of the United People's Power will be rewarded on the dollars.
 
-"நாம் ஒரு சில எம்.பி.க்களை மட்டுமே இழக்கப் போகிறோம், ஆனால் பலர் தங்கள் பதவிகளை விட்டுக்கொடுத்து எதிர்க்கட்சிக்கு செல்ல தயாராக உள்ளனர்," என்று அவர் மேலும் கூறினார்.
+United People's Power MP Harshana Rajakaruna said that an MP from the Gampaha district and another from the Kalutara district will go to the government soon.
+
+“These political prostitutes have fallen on concessions, including cash rewards on US dollars,” said Parliamentarian Rajakaruna.
+
+"We are going to lose only a few MPs, but many are ready to give up their positions and go to the opposition," he added.
 
 ◼️
 
 [Data](articles/d37a2370.json)
+
+[Extended Data](ext_articles/d37a2370.ext.json)
 
 ---
 
@@ -220,21 +256,27 @@ The announcement states that all government schools will be held tomorrow.
 
 ---
 
-### වෙඩි තැබීමකින් ක්ලබ් වසන්ත මිය යයි ගායන ශිල්පිනි කේ.සුජීවාට බරපතල තුවාල
+### Club spring dies in a shooting
 
 *2024-07-08 11:42:08* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-තැබීමකින්-ක්ලබ්-වසන්ත-මිය-යයි-ගායන-ශිල්පිනි-කේ-සුජීවාට-බරපතල-තුවාල/11-410665) · `si`
 
-අතුරුගිරිය, ඔරුවල ප්‍රදේශයේ සිදුකළ වෙඩිතැබීමකින් දෙදෙනෙකු මිය ගොස් හය දෙනෙකු තුවාල ලබා ඇතිබව පොලීසිය පවසයි.
+In Athurugiriya, two were killed including famous businessman and singer Club Spring (real name Surendra Wasantha), while six others were injured during a shooting at a business opening. The shooters escaped in a car. Two victims remain hospitalized.
 
-වෙඩි වැදීමට මුහුනදුන් අය අතර ප්‍රසිද්ධ ව්‍යාපාරිකයෙකු වන සුරේන්ද්‍ර වසන්ත නොහොත් ක්ලබ් වසන්ත  මිය ගොස් ඇති අතර ජනප්‍රිය ගායන ශිල්පිනියක් වන කේ. සුජීවා තවත් අයෙක් අසාධ්‍ය තත්වයෙන් ජතික් රෝහලට ඇතුලත් කල බව  පොලීසිය සඳහන් කරයි.
+🟩
 
-මෙම වෙඩි තැබීම සිදුවී ඇත්තේ ව්‍යාපාරික ස්ථානයක් විවෘත කිරීමේ අවස්තාවකදී බවත්  වෙඩික්කරුවන් මෝටර් රථයකින් පැමිණ පලාගොස් ඇතිබවත් පොලීසිය සඳහන් කරයි.
+Two were killed and six injured in a shot of shooting in Athurugiriya, Athurugala.
 
-තුවාල ලැබූ දෙදෙනෙක් හෝමාගම රෝහලේ තව දුරටත් ප්‍රතිකාර ලබමින් සිටී
+Surendra Wasantha alias or Club spring died, a famous businessman who has faced shooting and is a popular singer K. Another person from the Jatick Hospital, police said.
+
+The shooting has taken place at the opening of a business station and the shotters had fled from a car.
+
+Two injured were still receiving treatment at Homagama Hospital
 
 ◼️
 
 [Data](articles/21b4fc68.json)
+
+[Extended Data](ext_articles/21b4fc68.ext.json)
 
 ---
 
@@ -2179,61 +2221,5 @@ President Ranil Wickremesinghe, President Ranil Wickremesinghe, the President an
 [Data](articles/da7dee79.json)
 
 [Extended Data](ext_articles/da7dee79.ext.json)
-
----
-
-### Sampanthan's funeral
-
-*2024-07-07 18:38:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/சம்பந்தனின்-பூதவுடல்-அக்கினியுடன்-சங்கமம்/75-339990) · `ta`
-
-Rajavarodayam Sambandan, former Opposition Leader and TNA Senior Leader, was laid to rest at Trincomalee's Hindu Cemetery. Political figures like President Ranil Wickremesinghe, BJP leader Annamalai, and others attended his funeral, which began at his home before proceeding to the cemetery. The event saw a significant turnout, including participants from various regions of Sri Lanka.
-
-🟩
-
-Former Opposition Leader and Senior Leader of the Tamil National Alliance (TNA), Rajavarodayam Sambandan, who had gone to Kanjavan, took place at the Hindu Cemetery in Trincomalee this evening.
-
-Political dignitaries and large people paid tribute to Annar's. President Ranil Wickremesinghe, Bharatiya Janata Party (BJP) leader Annamalai and many others participated in the event.
-
-Amara is not in a deep landing in Trincomalee. Sampanthan's portrait was hung. Political dignitaries from South Sri Lanka, people from the northeast and people from the hill country participated.
-
-Amarar Ira not in a private hospital in Colombo. It is also noteworthy that Sambandan was natural.
-
-Finally, the funeral was taken from the Annar's native house and cremated at the Hindu Cemetery in Trincomalee.
-
-The body of the Sri Lankan Tamil National Party (TNA) leader Amara Sampanthan was placed in the house of Annar and was taken to the Poothavadal cemetery at 4 pm.
-
-...
-
-[Data](articles/2ec56eb3.json)
-
-[Extended Data](ext_articles/2ec56eb3.ext.json)
-
----
-
-### Sampanthan's boutique
-
-*2024-07-07 18:38:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/சம்பந்தனின்-பூதவுடல்-அக்கியுடன்-சங்கமம்/75-339990) · `ta`
-
-Rajavarodayam Sammanthan, former TNA leader, was laid to rest in Trincomalee's Hindu Cemetery. Political heavyweights like President Ranil Wickremesinghe and BJP's Annamalai attended his funeral, honoring his contributions. His portrait now hangs in Amarar Ira, symbolizing his impact on Trincomalee. The ceremony began at his home before proceeding to the cemetery, reflecting his local significance.
-
-🟩
-
-Former Opposition Leader and Senior Leader of the Tamil National Alliance (TNA), Rajavarodayam Sammanthan's funeral took place at the Hindu Cemetery in Trincomalee this evening.
-
-Political dignitaries and large people paid tribute to Annar's. President Ranil Wickremesinghe, Bharatiya Janata Party (BJP) leader Annamalai and many others participated in the event.
-
-Amarar Ira, who has expanded the entire city of Trincomalee. The portrait of Samanthan is hung.. Political dignitaries from South Sri Lanka and people from the Northeast of the Northeast were also present.
-
-Amarar Ira not in a private hospital in Colombo. It is also noteworthy that Sambandan was natural.
-
-Finally, the funeral was taken from the Annar's native house and cremated at the Hindu Cemetery in Trincomalee.
-
-Sri Lanka Tamil National Alliance (TNA) leader Amara Sampanthan's funeral was placed at the house of Annar and was taken to the Poothavadal cemetery at 4 pm.
-
-...
-
-[Data](articles/341c9fe0.json)
-
-[Extended Data](ext_articles/341c9fe0.ext.json)
 
 ---

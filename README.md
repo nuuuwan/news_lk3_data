@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 14:35:16**
+As of **2024-07-08 14:54:15**
 
 ## Newspaper Stats
 
-*Scraped **34,221** Articles*
+*Scraped **34,222** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,010
 dailyftlk | 2,130
-adalk | 3,062
+adalk | 3,063
 adaderanalk | 3,923
 tamilmirrorlk | 4,069
 dailymirrorlk | 4,733
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,695
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,220 (100.0%) of 34,221 articles have been extended.
+34,221 (100.0%) of 34,222 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### නැපෝලියන් බොනපාට්ගේ පිස්තෝල 2ක් වාර්තාගත මිලකට වෙන්දේසි වෙයි
+### Napolian Bonaparte's pistols are auctioned at a record price
 
 *2024-07-08 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198606) · `si`
 
-ප්‍රංශ අධිරාජ්‍යයා වූ නැපෝලියන් බොනපාට් සතු වූ පිස්තෝල දෙකක් යුරෝ මිලියන 1.69කට වෙන්දේසි වී තිබේ.
+Napoleon Bonaparte's pistols sold for a record-breaking 1.69 million euros, despite being considered national treasures. The buyer, Louis-Maran Mashey, had initially expected a lower bid range. The French government now has 30 months to buy back the pistols, which were used in an alleged suicide attempt by Napoleon.
 
-වරක් ඔහු මෙම පිස්තෝල යොදාගෙන සියදිවි නසා ගැනීමට තැත් කළ බව සඳහන් වෙයි.
+🟩
 
-මෙම ගිනි අවි පැරිස් නගරයේ ජීවත් වූ ලුයිස්-මාරින් ගොසේ විසින් නිමවා තිබූ අතර ඒ සඳහා යුරෝ මිලියන 1.2ත් 1.5ත් අතර ලංසුවක් හිමිවෙතැයි අපේක්ෂා කෙරිණි.
+Two pistols owned by Emperor Napoleon Bonaparted have been auctioned for 1.69 million.
 
-මෙම පිස්තෝල වෙන්දේසි කර ඇත්තේ ප්‍රංශ සංස්කෘතික අමාත්‍යංශය විසින් ඒවා ජාතික වස්තූන් ලෙස නම්කර ඒවා අපනයනය තහනම් කිරීමේ පසුබිමකදීය.
+It is said that he tried to commit suicide using these pistols.
 
-ඒ අනුව නව හිමිකරුගෙන් එම පිස්තෝල මිලදී ගැනීම සඳහා ප්‍රංශ රජයට මාස 30ක කාලයක් හිමිවෙයි.
+Louis-Maran Mashey, who lived in Paris, was expected to receive a bid between 1.2 to 1.5 million euro.
+
+The pistol auction was in the background of the Ministry of French and prohibiting them as national objects.
+
+Accordingly, the French government receives 30 months to purchase those pistols from the new owner.
 
 ◼️
 
 [Data](articles/eaed17ed.json)
+
+[Extended Data](ext_articles/eaed17ed.ext.json)
 
 ---
 
@@ -151,6 +157,22 @@ The Supreme Court has dismissed a petition filed by the Supreme Court seeking to
 [Data](articles/2f95e126.json)
 
 [Extended Data](ext_articles/2f95e126.ext.json)
+
+---
+
+### ක්ලබ් වසන්ත ඇතුළු පිරිසට වෙඩි තියන්න ටි.56 ගිනි අවි දෙකක් යොදාගෙන
+
+*2024-07-08 13:31:11* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඇතුළු-පිරිසට-වෙඩි-තියන්න-ටි-56-ගිනි-අවි-දෙකක්-යොදාගෙන/11-410666) · `si`
+
+ව්‍යාපාරික ක්ලබ් වසන්ත ඇතුළු පිරිසට වෙඩි තැබිමට පැමිණි පුද්ගලයන් ඒ වෙනුවෙන් ටී. 56 ගිනි අවි දෙකක් භාවිත කර ඇති බවට පොලීසිය පවසයි. ඔවුන් මෝටර් රථයකින් පැමිණ වෙඩි තැබීම සිදුකර ඇති අතර පසුව එයින්ම පළාගෙස් තිබේ.
+
+මෙම වෙඩි තැබීමෙන් ක්ලබ් වසන්ත හා තවත් අයෙක් ජිවිතක්ෂයට පත්ව තිබේ. ගායන ශිල්පී කේ. සුජිවා හා තවත් පිරිමි පුද්ගලයෙක් කොළඹ ජාතික රෝහලට ඇතුළත් කර තිබේ.
+
+එසේම තුවාල ලැබූ තවත් කාන්තාවන් දෙදෙනෙක් හෝමාගම රෝහලට ඇතුළත් කර තිබේ.
+
+◼️
+
+[Data](articles/a052d7dc.json)
 
 ---
 
@@ -2213,43 +2235,5 @@ The Kanthasashti Kavasam  composed by Balan Devaraya Swamigal  consist of devoti
 [Data](articles/90d9ed17.json)
 
 [Extended Data](ext_articles/90d9ed17.ext.json)
-
----
-
-### Kudu hid of powder with musk
-
-*2024-07-07 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198585) · `si`
-
-A drug dealer in Sri Lanka was arrested after a police chase, with his wife also taken into custody. The police found a significant amount of drugs, including cocaine, ice, and Kerala cannabis. The arrest followed a tip-off about the dealer's activities in the Piliyandala area, leading to a special traffic check and a shoot-out where the suspect escaped but was later caught at a hospital.
-
-🟩
-
-Police found a large haul of over Rs.
-
-The Athurugiriya Police had received information from the 4th to the Piliyandala, a drug dealer, to the Piliyandala area.
-
-The police, which was in accordance with, had a special traffic check at Friday junction.
-
-The police had set a firearm and the police had shot dead.
-
-He had fled in the center of the police shooting, while his shooting car was found in the Kesbewa area.
-
-The suspect was arrested while he was receiving treatment at the Kalubowila Teaching Hospital.
-
-His wife was also arrested along with musar, Polgasowita, Polgasowita, Polgasowita, Deported.
-
-The police were able to find the various drugs including cocaine, ice, Kerala cannabis in over Rs.
-
-The drug dealer was also present at the residence of the drug dealer.
-
-The house has been revealed in the interrogation of the Kuna's wife, a leading drug traffer in Kalubowila, "Kalubowila White Noon '.
-
-AID, the police were arrested today with almost 9 ice drugs.
-
-...
-
-[Data](articles/4579c812.json)
-
-[Extended Data](ext_articles/4579c812.ext.json)
 
 ---

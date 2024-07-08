@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 10:54:06**
+As of **2024-07-08 11:06:14**
 
 ## Newspaper Stats
 
-*Scraped **34,179** Articles*
+*Scraped **34,181** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,60 @@ newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,005
 dailyftlk | 2,130
-adalk | 3,056
+adalk | 3,057
 adaderanalk | 3,915
 tamilmirrorlk | 4,059
 dailymirrorlk | 4,733
 virakesarilk | 5,349
-adaderanasinhalalk | 5,684
+adaderanasinhalalk | 5,685
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,178 (100.0%) of 34,179 articles have been extended.
+34,179 (100.0%) of 34,181 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### ජනපතිගේ ධුර කාලය වසර 5ක් බව පැහැදිලියි - නීතිපති
+### පළමුව ජනාධිපතිවරණය - ජනාධිපති
+
+*2024-07-08 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198596) · `si`
+
+පළාත් සභා මැතිවරණය පැවැත්වීම අවශ්‍ය වුවද මෙම වසරේ ප්‍රථමයෙන් ජනාධිපතිවරණය පැවැත්වීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+කවර පුද්ගලයෙකු අධිකරණයට ගියද මෙම වසරේ ජනාධිපතිවරණය පවත්වන බව ජනාධිපතිවරයා පවසයි.
+
+කෙසේවෙතත් පළාත් සභා මැතිවරණය පැරණි ක්‍රමය යටතේ පැවැත්වීමට කටයුතු කරන බවද ජනාධිපතිවරයා සඳහන් කළේය.
+
+අභාවප්‍රාප්ත හිටපු විපක්ෂ නායකවරයෙකු මෙන්ම දෙමළ ජාතික සන්ධානයේ නායක ආර්. සම්බන්ධන් මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු ත්‍රිකුණාමලය ප්‍රදේශයේ ඊයේ පැවති අතර එම අවස්ථාවට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/f5137c52.json)
+
+---
+
+### Attorney General's term of office is 5 years - President's term
 
 *2024-07-08 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198595) · `si`
 
-වත්මන් ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව ජනාධිපතිවරයාගේ නිල ධුර කාලය වසර 05 ක් බව පැහැදිලි යැයි නීතිපති ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දෙයි.
+The Attorney General confirmed the President's term is 5 years, as per the Constitution. Deputy Solicitor General Kanushka De Silva represented the AG in court, defending against objections raised in a petition.
 
-ජනාධිපතිවරයාගේ නිල කාලය සම්බන්ධ පෙත්සම අද (08) කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරාල් කනිෂ්කා ද සිල්වා මහත්මිය මෙම දැනුම් දීම සිදු කළාය.
+🟩
 
-අදාළ පෙත්සම නිෂ්ප්‍රභ කරන ලෙස ඉල්ලා මූලික විරෝධතා මතු කරන බවත් ඇය සඳහන් කළාය.
+According to the present Constitution, the Attorney General informs the Supreme Court that the President's official term is 5 years.
+
+The deputy Solicitor General Kanushka De Silva, appearing on behalf of the Attorney General was invited for the Attorney General's Court today.
+
+She added that the petition would raise basic objections to refute the petition.
 
 ◼️
 
 [Data](articles/c2654e67.json)
+
+[Extended Data](ext_articles/c2654e67.ext.json)
 
 ---
 
@@ -245,6 +269,24 @@ The General Secretary of the Ceylon Teachers’ Union (CTU), Joseph Stalin, said
 [Data](articles/22a187ec.json)
 
 [Extended Data](ext_articles/22a187ec.ext.json)
+
+---
+
+### ඉන්චියොන් යන්න ගිය ශ්‍රී ලන්කන් යානය පැය දෙකකට  පසු ආපසු එයි
+
+*2024-07-08 09:03:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්චියොන්-යන්න-ගිය-ශ්‍රී-ලන්කන්-යානය-පැය-දෙකකට--පසු-ආපසු-එයි/11-410658) · `si`
+
+දකුණු කොරියාවේ ඉන්චියොන් ජාත්‍යන්තර ගුවන් තොටුපොළ බලා පිටත්ව ගිය ශ්‍රී ලන්කන් ගුවන් යානය කාර්මික දෝශයකට ලක් වීම නිසා පැය දෙකක පමණ ගුවන් ගමනකින් පසුව යළිත් කටුනායක ගුවන් තොටුපොළ වෙත 07/07 දින රාත්‍රී  ගොඩ බැස්සවීමට කටයුතු කළ බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා පැවසීය .
+
+ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 470 දරන ගුවන් යානය 07/07 දින රාත්‍රී 06.20 ට කටුනායක ගුවන් තොටුපොළෙන් දකුණු කොරියාවේ ඉන්චියොන් ගුවන් තොටුපොළ බලා පිටත්ව ගොස් තිබේ .
+
+මෙම ගුවන් ගමන සදහා ඒ.- 330 - 300 එයාර් බස් වර්ගයේ ගුවන් යානයක් ශ්‍රී ලන්කන් ගුවන් සේවය යොදවා තිබූ අතර එහි ගුවන් මගීන් 144 දෙනෙකු සහ ගුවන් නියමුවන් ඇතුළු කාර්යය මණ්ඩලය 15 දෙනෙකු ද ගමන් කර තිබුණි .
+
+ඒ වනවිට ශ්‍රී ලංකා ගුවන් සීමාව පසු කිරීමට ආසන්නයෙන් ගමන් කරමින් තිබූ මෙම ගුවන් යානය කාර්මික දෝශයකට ලක් වීම නිසා ආපසු හරවා යළිත් රාත්‍රී 08.10 ට කටුනායක ගුවන් තොටුපොළ වෙත ගොඩ බස්සවා තිබුණි .
+
+...
+
+[Data](articles/cd2f967d.json)
 
 ---
 
@@ -2239,47 +2281,5 @@ President Wickremesinghe made these remarks at the Uva Provincial Community Poli
 [Data](articles/3067ff39.json)
 
 [Extended Data](ext_articles/3067ff39.ext.json)
-
----
-
-### Will the MU in the president's political move?
-
-*2024-07-07 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/187895) · `ta`
-
-A political party's strength isn't just about MP numbers but includes all levels from parliament to local government, emphasizing unity and conflict resolution.
-
-🟩
-
-The strength of a political party does not only rely on the number of MPs that the party receives. From the party's parliamentarians to the members of the local government, all parties must protect the party's conflict.
-
-◼️
-
-[Data](articles/83a4da0d.json)
-
-[Extended Data](ext_articles/83a4da0d.ext.json)
-
----
-
-### Creditless loans for A / L Small
-
-*2024-07-07 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198575) · `si`
-
-The Ministry of Education is launching an interest-free loan scheme for A/L students to pursue courses through NGOs. This initiative, part of the 2017 budget proposals, aims to support 17,313 students. The first batch of recipients, consisting of students who passed A/L in 2022, will begin their courses soon.
-
-🟩
-
-The Ministry of Education says that the A / L students have been implementing the implementation of interest-free loans program to follow courses in NGOs.
-
-The Interest-Free Students Loan Scheme will be implemented on the budget proposals in 2017, which will be implemented by the Budget Proposals in 2017.
-
-According to the Ministry of Education, the Ministry of Education polls have provided a total of 17,313 students under 17 students of the Ministry of Education.
-
-The students who passed the A / L students in the year 2022 will be recruited as the eightnd group of courses from the NGOs.
-
-◼️
-
-[Data](articles/d0cfa6f2.json)
-
-[Extended Data](ext_articles/d0cfa6f2.ext.json)
 
 ---

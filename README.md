@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 21:05:01**
+As of **2024-07-08 21:19:51**
 
 ## Newspaper Stats
 
-*Scraped **34,266** Articles*
+*Scraped **34,267** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,36 @@ adalk | 3,074
 adaderanalk | 3,929
 tamilmirrorlk | 4,072
 dailymirrorlk | 4,733
-virakesarilk | 5,356
+virakesarilk | 5,357
 adaderanasinhalalk | 5,702
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,263 (100.0%) of 34,266 articles have been extended.
+34,266 (100.0%) of 34,267 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### மக்களுக்கு நாளை மாலை வரை அவகாசம்
+### Time for people tomorrow evening
 
 *2024-07-08 20:35:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-நாளை-மாலை-வரை-அவகாசம்/175-340046) · `ta`
 
-2024ஆம் ஆண்டுக்கான இரண்டாம் உத்தேச மின் கட்டணத் திருத்தம் தொடர்பான மக்களின் வாய்மூல கருத்துக் கோரல்கள் நாளை (09) இடம்பெறவுள்ளத.
+Oral comments on the 2024 electricity tariff proposal will be accepted tomorrow (09) from 9 am to 4.30 pm at the Bandaranaike Conference Hall.
 
-நாளை முற்பகல் 9 மணி முதல் பிற்பகல் 4.30 வரை பண்டாரநாயக்க மாநாட்டு மண்டபத்தில் இந்தக் கருத்துக் கோரல்கள் ஏற்றுக் கொள்ளப்படவுள்ளதாக அந்த ஆணைக்குழு விடுத்துள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.  R
+🟩
+
+People's oral comments on the second proposed electricity tariff for 2024 will be held tomorrow (09).
+
+The Commission said in a statement that these comments will be accepted at the Bandaranaike Conference Hall from 9 am to 4.30 pm tomorrow.R
 
 ◼️
 
 [Data](articles/0cdb70c5.json)
+
+[Extended Data](ext_articles/0cdb70c5.ext.json)
 
 ---
 
@@ -73,6 +79,8 @@ Sri Lanka’s leading lifestyle platform ‘Pulse.lk’ has been presented with 
 ◼️
 
 [Data](articles/160c330b.json)
+
+[Extended Data](ext_articles/160c330b.ext.json)
 
 ---
 
@@ -230,19 +238,29 @@ He was speaking at a press conference held at the President's media centers.
 
 ---
 
-### රාජ්‍ය සේවක වැටුප රු. 20000කින් වැඩි කරන්න රු බිලියන 280ක් ඕන
+### Salary of Public Servants Rs. Increase in Rs. 280 billion
 
 *2024-07-08 19:20:26* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවක-වැටුප-රු--20000කින්-වැඩි-කරන්න-රු-බිලියන-280ක්-ඕන/11-410674) · `si`
 
-වර්ජනයේ නිරත රාජ්‍ය සේවකයන් ඉල්ලා සිටින වැටුප් වැඩිකිරීම ලබාදීමට කටයුතු කළහොත්, දැනට පනවා තිබෙන 18%ක වැට් බද්ද 20% – 21%ත් අතර අගයකට ඉහළ නැංවීමට සිදුවනු ඇති බවත්, මහජනතාව පීඩාවට පත් කරමින් එවැනි ඉල්ලීමක් සපුරාලීමට රජයට හැකියාවක් නොමැති බවත් මහා භාණ්ඩාගාර ලේකම් මහින්ද සිරිවර්ධන මහතා පැවසීය.
+Public servants' salaries may see a 20%-21% increase, totaling Rs. 280 billion, as proposed by General Treasury Secretary Mahinda Siriwardena. This decision follows discussions at the Presidential Secretariat, where various trade union demands were addressed. The move aims to address salary anomalies through recommendations from a specialist committee. However, the increase could strain the budget, potentially requiring tax hikes to fund the Rs. 1,000 salary boost. The government faces challenges in balancing economic stability and satisfying wage demands without exceeding a 3% VAT limit.
 
-මහා භාණ්ඩාගාර ලේකම්වරයා මේ බව සඳහන් කර සිටියේ රාජ්‍ය සේවයේ වෘත්තීය සමිති විසින් ඉදිරිපත් කර ඇති ඉල්ලීම් සම්බන්ධව ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ජනාධිපති කාර්යාලයේ අද (08) පැවති සාකච්ඡාවට එක් වෙමිනි.
+🟩
 
-මේ වන විට රාජ්‍ය සේවයට අදාළ වෘත්තීය සමිති කිහිපයක් විසින් ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් ක්‍රියාත්මක කර ඇති වෘත්තීය ක්‍රියාමාර්ගය සම්බන්ධයෙන් මෙම සාකච්ඡාවේදී ජනාධිපතිවරයාගේ අවධානය යොමු වූ අතර වෘත්තීය සමිති විසින් ඉදිරිපත් කර ඇති ඉල්ලීම් සඳහා ලබාදිය හැකි සාධනීය විසඳුම් සම්බන්ධයෙන් සාකච්ඡාවට ලක් කෙරිණ.
+General Treasury Secretary Mahinda Siriwardena that the proposal will be increased by 20% - 21% to the strike, if the public servants who request public servants.He said.
+
+The General Treasury secretary was speaking at the Presidential Secretariat today (08) under the patronage of President Ranil Wickremesinghe today.
+
+A few trade unions have taken on several demands on the public service, the President's attention was held at the discussion and discussed the positive solutions to be given to the trade unions.
+
+It was stated that the recommendations made by the specialist committee appointed to look into the salary anomalies that were appointed to look into the salary anomalies that were appointed to look into the salary anomalies of the public service are expected to revise the public service amendment.
+
+The General Treasury Secretary pointed out that the expenditure increased to Rs.
 
 ...
 
 [Data](articles/afba6368.json)
+
+[Extended Data](ext_articles/afba6368.ext.json)
 
 ---
 
@@ -263,6 +281,22 @@ The economy could be further affected by such a situation and the budget deficit
 [Data](articles/d3411507.json)
 
 [Extended Data](ext_articles/d3411507.ext.json)
+
+---
+
+### ஜனநாயகத்தில் கைவைக்க எடுக்கப்பட்ட முயற்சி முறியடிக்கப்பட்டுள்ளது - ஹர்ஷண ராஜகருணா
+
+*2024-07-08 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/187969) · `ta`
+
+ஜனநாயகத்தில் கைவைப்பதற்கு எடுக்கப்பட்ட முயற்சி முறியடிக்கப்பட்டுள்ளது. நீதிமன்றம் சிறந்த தீர்மானத்தை எடுத்துள்ளது. எனவே நேரத்தில் தேர்தலை நிச்சயம் நடத்த வேண்டிய நிர்பந்தம் அரசாங்கத்துக்கு ஏற்பட்டுள்ளதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஹர்ஷண ராஜகருணா தெரிவித்தார்.
+
+கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் திங்கட்கிழமை (08) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+தேர்தலை நடத்தாமலிருப்பதற்கே ஜனாதிபதி ரணில் விக்கிரமசிங்க முயற்சிக்கின்றார். ஐக்கிய தேசிய கட்சியின் பொதுச் செயலாளரும், தவிசாளரும் தொடர்ந்தும் இவ்வாறான கருத்துக்களை தெரிவித்து வந்தனர். ரணில் விக்கிரமசிங்க மாத்திரமே வேட்பாளர் என ஒரு சந்தர்ப்பத்தில் கூறிவந்தவர்கள், பின்னர் தேர்தல் நடத்தப்படக் கூடாது எனக் கூற ஆரம்பித்துவிட்டார்கள்.
+
+...
+
+[Data](articles/686bc7fa.json)
 
 ---
 
@@ -2229,29 +2263,5 @@ The Department of Meteorology also stated that there is a possibility of rain or
 [Data](articles/5c97b398.json)
 
 [Extended Data](ext_articles/5c97b398.ext.json)
-
----
-
-### Sri Lanka passport issues fall, labour migration still strong
-
-*2024-07-08 07:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-passport-issues-fall-labour-migration-still-strong-171182/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s monthly passport issues have declined in the first quarter of 2024 compared to a year earlier, but labour migration is still continuing at around the same pace, official data showed.
-
-Sri Lanka’s passport issue surged in from 2022 where the most severe currency crisis triggered by the central bank it is history hit the island while outmigration also picked up.
-
-From the last quarter of 2023, new passport issues started to ease.
-
-In the first quarter of 2024, 220,161 passports were issued, down from 282,625 a year earlier, data from the central bank showed.
-
-Departures for foreign work in the first quater was 85,175 persons, up from 76,024.
-
-Most of the departures are to currency board like regimes in the Middle East, where there is no bureaucratically decided policy rate and the countries have exceptional stability leading to the import of labour.
-
-...
-
-[Data](articles/d84211fe.json)
-
-[Extended Data](ext_articles/d84211fe.ext.json)
 
 ---

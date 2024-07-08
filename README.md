@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 21:54:46**
+As of **2024-07-08 22:07:59**
 
 ## Newspaper Stats
 
-*Scraped **34,271** Articles*
+*Scraped **34,272** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,021
 dailyftlk | 2,130
-adalk | 3,075
+adalk | 3,076
 adaderanalk | 3,931
 tamilmirrorlk | 4,072
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,703
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,270 (100.0%) of 34,271 articles have been extended.
+34,271 (100.0%) of 34,272 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ A van believed to have been used by the suspects involved in the shooting incide
 ◼️
 
 [Data](articles/f19d3635.json)
+
+[Extended Data](ext_articles/f19d3635.ext.json)
 
 ---
 
@@ -223,6 +225,28 @@ Despite the economic crisis facing the country, the government has paid 390 bill
 [Data](articles/116665d6.json)
 
 [Extended Data](ext_articles/116665d6.ext.json)
+
+---
+
+### අද අප සිටින්නේ විද්‍යාව සහ ධර්මය එකට මුණ ගැසෙන සංධිස්ථානයකයි
+
+*2024-07-08 19:33:26* · [`adalk`](https://www.ada.lk/breaking_news/අද-අප-සිටින්නේ-විද්‍යාව-සහ-ධර්මය-එකට-මුණ-ගැසෙන-සංධිස්ථානයකයි/11-410677) · `si`
+
+අද ලෝකය ඉදිරිපත් කරන අලුත් මත බුද්ධ දේශනාව තුළ අන්තර්ගත වී තිබෙනවා
+
+අද අප සිටින්නේ විද්‍යාව සහ ධර්මය එකට මුණ ගැසෙන සංධිස්ථානයකයි.
+
+බුද්ධ දේශනාව සහ විද්‍යාත්මක ලෝකය අතර තිබෙන සම්බන්ධතාව සොයා බැලීමට නව ආයතනයක් – අමරපුර දින ආදිකතෘ සැමරුම් උත්සවයට එක් වෙමින් ජනපති පවසයි.
+
+බුදු දහම සහ මේ වන විට අප ගමන් කරමින් සිටින නවීන විද්‍යාත්මක හා තාක්ෂණික ලෝකය අතර විශාල සම්බන්ධතාවක් ඇති බවත් ලෝකය හමුවේ ඇති ඉදිරි අභියෝග ජය ගැනිමේ මාර්ගය බුද්ධ දේශනාව තුළ ඇතුළත් බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ත්‍රිපිටකය ඇතුළු බෞද්ධ දර්ශනයත් මෙරට ඉතිහාසය, ශිෂ්ටාචාරය සහ බුදු දහම ලෝකයේ ව්‍යාප්ත වීම පිළිබඳව අධ්‍යයනය කළ හැකි සහ පාලි, සංස්කෘතික ඇතුළු භාෂා දැනුම වර්ධනය කර ගත හැකි නව ආයතනයක් මෙරට ස්ථාපිත කිරීමට සාකච්ඡා කරමින් සිටින බව පැවසූ ජනාධිපතිවරයා ඉතිහාසයේ අනුරාධපුර මහා විහාරය සිදු කළ වැඩකටයුතු නැවත ආරම්භ කිරීම එහි අරමුණ බවද කියා සිටියේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ සබරගමුව පළාත් සභා ශ්‍රවණාගාරයේ අද (08) පස්වරුවේ පැවති ශ්‍රී ලංකා අමරපුර මහා නිකායේ අමරපුර දින ආදිකතෘ සැමරුම් උත්සවයට එක් වෙමිනි.
+
+...
+
+[Data](articles/a7f77f60.json)
 
 ---
 
@@ -708,17 +732,13 @@ The bodies of 11 deceased have been recovered and the number of people who have 
 
 *2024-07-08 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100375/govt-says-salary-hike-for-public-servants-not-possible-this-year-vat-increase-required-) · `en`
 
-Sri Lanka’s Treasury Secretary Mahinda Siriwardana has stated that the current Value Added Tax (VAT) rate will need to be raised from 18% to 20-21% to meet the demands of the public servants who are on strike for a salary increase.
+The Secretary to the Treasury Mahinda Siriwardana stated that granting the salary increase demanded by striking public servants would necessitate raising the current Value Added Tax (VAT) rate from 18% to between 20% and 21%.
 
-He had made this observation during a meeting at the President’s Office today (08), held under the patronage of President Ranil Wickremesinghe, according to the President’s Media Division (PMD).
+He emphasized that the government cannot impose such a burden on the public. Mr. Siriwardana made these remarks during a discussion held today (08) at the Presidential Secretariat, chaired by President Ranil Wickremesinghe, concerning the demands of public service trade unions, according to the President’s Media Division (PMD).
 
-It further said that the government is not prepared to fulfill this demand as it would impose an additional burden on the public.
+The discussion addressed the trade union actions taken by several trade unions in the public service and explored potential positive solutions to their demands. It was noted that while a salary increase is not feasible this year, there is a plan to revise public service salaries in the 2025 Budget, based on recommendations from an expert committee investigating salary disparities, the statement said.
 
-At the discussion chaired by President Wickremesinghe at the President’s Office, to address the demands presented by the striking trade unions, it was emphasised that a salary increase this year is not possible.
-
-However, the 2025 Budget will consider revising public service salaries based on the expert committee’s recommendations on salary disparities, the PMD reported.
-
-◼️
+...
 
 [Data](articles/e48d1edd.json)
 
@@ -2253,31 +2273,5 @@ The General Secretary of the Ceylon Teachers’ Union (CTU), Joseph Stalin, said
 [Data](articles/22a187ec.json)
 
 [Extended Data](ext_articles/22a187ec.ext.json)
-
----
-
-### The SriLankan plane who went to Incheon returns back two hours after
-
-*2024-07-08 09:03:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්චියොන්-යන්න-ගිය-ශ්‍රී-ලන්කන්-යානය-පැය-දෙකකට--පසු-ආපසු-එයි/11-410658) · `si`
-
-A SriLankan Airlines flight destined for Incheon International Airport in South Korea returned to Katunayake Airport two hours after departure due to an incident involving an industrial vehicle. The Airbus A330/A340 planes carried 30 passengers and crew, including pilots and staff. The airline plans to send another aircraft to South Korea.
-
-🟩
-
-The Sri Lankan plane departed to the incheon International Airport in South Korea, the airport work officer said that the Katunayaka Airport has been landed on 07/07 days after an industrial vehicle.
-
-SriLankan Airlines has left for 470 at the Katunayake airport at the Bandaranaike International Airport at 06.20 pm on 07/07 pm.
-
-A. 330 and 300 Air bus plane was traveled by SriLankan Airlines and 15 passengers and 15 staff members including the pilots and 15 staff.
-
-The aircraft was nearing the operation to cross the Sri Lankan flights, the aircraft had been rebuilt and overlooking the Katunayake Airport at 08.10 pm.
-
-The Airporting Officer in charge of the Airport Officer added that SriLankan Airlines has been planning to take another aircraft to South Korea.
-
-◼️
-
-[Data](articles/cd2f967d.json)
-
-[Extended Data](ext_articles/cd2f967d.ext.json)
 
 ---

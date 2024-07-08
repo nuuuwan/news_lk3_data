@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 03:19:52**
+As of **2024-07-09 03:35:22**
 
 ## Newspaper Stats
 
-*Scraped **34,289** Articles*
+*Scraped **34,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,22 +19,62 @@ adalk | 3,077
 adaderanalk | 3,931
 tamilmirrorlk | 4,076
 dailymirrorlk | 4,733
-virakesarilk | 5,363
+virakesarilk | 5,364
 adaderanasinhalalk | 5,704
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,289 (100.0%) of 34,289 articles have been extended.
+34,289 (100.0%) of 34,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
+### புத்தரின் போதனைகளில் உள்ள விடயங்கள் தான் இன்று  உலகில்  புதிய சிந்தனைகளாக முன்வைக்கப்படுகின்றன - ஜனாதிபதி
+
+*2024-07-09 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187997) · `ta`
+
+பௌத்த மதத்திற்கும் நாம் தற்போது பயணித்துக்கொண்டிருக்கும் நவீன விஞ்ஞானம் மற்றும் தொழிநுட்ப உலகிற்கும் இடையில் பாரிய தொடர்பு இருப்பதாகவும், உலகம் எதிர்நோக்கும் எதிர்கால சவால்களை வெற்றிகொள்ளும் வழி புத்தரின் போதனைகளில் உள்ளடங்குவதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+திரிபிடகம் உள்ளிட்ட பௌத்த தத்துவம், இலங்கை வரலாறு, நாகரிகம், உலகில் பௌத்தத்தின் பரவல் மற்றும் பாலி, கலாசாரம் மற்றும் பிற மொழிகள் பற்றிய அறிவை வளர்த்துக்கொள்ளக் கூடிய புதிய நிறுவனம் ஒன்றை இந்நாட்டில் நிறுவுவது குறித்து ஆலோசித்து வருவதாகக் குறிப்பிட்ட ஜனாதிபதி, வரலாற்றில் அநுராதபுரம் மகா விகாரை முன்னெடுத்த பணிகளை மீள ஆரம்பிப்பதே இதன் நோக்கமாகும். என்றும் தெரிவித்தார்.
+
+சப்ரகமுவ மாகாண சபை கேட்போர் கூடத்தில் திங்கட்கிழமை (08) இடம்பெற்ற இலங்கை அமரபுர மகா நிகாயவின் அமரபுர தின நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/a36b5ffe.json)
+
+---
+
+### If the strike is to be paid a salary hike, the Wet tax will be increased again
+
+*2024-07-09 02:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/187995) · `ta`
+
+Treasury Secretary Mahinda Siriwardena announced that a proposed salary increase for striking workers would lead to a Wet tax rise from 18% to 20%-21%, stating the government couldn't afford such hikes. Despite union demands, a salary increase this year seems unlikely, but amendments to the 2025 budget may address salary reviews. The Treasury Secretary emphasized the financial strain of salary increases, suggesting a minimal tax hike and highlighting the impossibility of increasing the Wet tax beyond its current rate due to economic stabilization efforts. Senior Advisor Dr. RHS. Samaratunga noted the difficulty in increasing salaries this year but assured that allocations might be made in the next year's budget, with a special expert panel investigating salary issues.
+
+🟩
+
+The Treasury Secretary Mahinda Siriwardena said that if the strike is to be paid a salary increase, the current 18% Wet tax will increase to 20% - 21% and the government cannot meet such a demand.
+
+President Ranil Wickremesinghe, headed by President Ranil Wickremesinghe today (08) at the Presidential Secretariat, said this.
+
+Many of the unions related to the public service have been brought to the President's attention on the occupational activity, which has made several demands and discussed the favorable solutions to the demands made by the unions.
+
+It was pointed out that although there is no possibility of providing salary this year, it is expected that the budget for the 2025 budget is expected to be amended on the recommendations of the expert panel appointed to review the salary of civil servants.
+
+...
+
+[Data](articles/5c4401f0.json)
+
+[Extended Data](ext_articles/5c4401f0.ext.json)
+
+---
+
 ### Due to unjust strikes, children have lost the opportunity to educate -Kanaka Herath
 
-*2024-07-09 02:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/187996) · `ta`
+*2024-07-09 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/187996) · `ta`
 
 Technology Minister Kanaka Herath criticized unjust strikes during elections, stating they've hindered children's education. He urged opposition parties to clarify if their actions aim to disrupt public peace. Highlighting achievements since 2022, including significant policies, reforms, and a Digital Economic Scheme backed by the World Bank aiming to boost the digital economy from $3 billion to $30 billion by 2030. Upcoming legislative changes aim to enhance consumer protection and foster fair competition among telecom companies, expand internet services, and establish a technology and innovation commission. The minister emphasized the need for opposition parties to address how they plan to cover the estimated annual cost of $280 million for these initiatives. He also touched on the IMF's recommendation to allocate 11 billion rupees for low-income individuals, questioning the opposition's intentions regarding public welfare.
 
@@ -57,30 +97,6 @@ It is also expected that the law is expected to amend the law in Parliament on T
 [Data](articles/9b0794bc.json)
 
 [Extended Data](ext_articles/9b0794bc.ext.json)
-
----
-
-### If the strike is to be paid a salary hike, the Wet tax will be increased again
-
-*2024-07-09 02:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/187995) · `ta`
-
-Treasury Secretary Mahinda Siriwardena announced that a proposed salary increase for striking workers would lead to a Wet tax rise from 18% to 20%-21%, stating the government couldn't afford such hikes. Despite union demands, a salary increase this year seems unlikely, but amendments to the 2025 budget may address salary reviews. The Treasury Secretary emphasized the financial strain of salary increases, suggesting a minimal tax hike and highlighting the impossibility of increasing the Wet tax beyond its current rate due to economic stabilization efforts. Senior Advisor Dr. RHS. Samaratunga noted the difficulty in increasing salaries this year but assured that allocations might be made in the next year's budget, with a special expert panel investigating salary issues.
-
-🟩
-
-The Treasury Secretary Mahinda Siriwardena said that if the strike is to be paid a salary increase, the current 18% Wet tax will increase to 20% - 21% and the government cannot meet such a demand.
-
-President Ranil Wickremesinghe, headed by President Ranil Wickremesinghe today (08) at the Presidential Secretariat, said this.
-
-Many of the unions related to the public service have been brought to the President's attention on the occupational activity, which has made several demands and discussed the favorable solutions to the demands made by the unions.
-
-It was pointed out that although there is no possibility of providing salary this year, it is expected that the budget for the 2025 budget is expected to be amended on the recommendations of the expert panel appointed to review the salary of civil servants.
-
-...
-
-[Data](articles/5c4401f0.json)
-
-[Extended Data](ext_articles/5c4401f0.ext.json)
 
 ---
 
@@ -2283,25 +2299,5 @@ The South Asian Movement for Accessing Justice (SAMAJ) is advocating for “comp
 [Data](articles/1bfac52b.json)
 
 [Extended Data](ext_articles/1bfac52b.ext.json)
-
----
-
-### Two killed in elephant elephant
-
-*2024-07-08 10:46:59* · [`adalk`](https://www.ada.lk/breaking_news/වන-අලි-පහරදීමෙන්-දෙදෙනෙක්-මරුට/11-410662) · `si`
-
-Two farmers died in an elephant attack near Gonaganka Oya, owned by Kumbukore Police. The victims, both from Kumbukoya, included a 61-year-old man named PHK Gunaratne, a father of two.
-
-🟩
-
-Two farmers were killed after the attack on the Ven.
-
-PHK Gunaratne, a father of two residents of the Gonaganka Oya, Diyanagasaka, owned by Kumbukore Police, and the Kumbukoya Police Division of the Gonagangara Police Division is a 61 year old resident of the Kumbukoya PoliceThe deceased has been identified.
-
-◼️
-
-[Data](articles/2493ac2f.json)
-
-[Extended Data](ext_articles/2493ac2f.ext.json)
 
 ---

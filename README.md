@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 16:35:35**
+As of **2024-07-08 16:52:38**
 
 ## Newspaper Stats
 
-*Scraped **34,227** Articles*
+*Scraped **34,228** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,57 @@ adaderanalk | 3,924
 tamilmirrorlk | 4,069
 dailymirrorlk | 4,733
 virakesarilk | 5,350
-adaderanasinhalalk | 5,697
+adaderanasinhalalk | 5,698
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,226 (100.0%) of 34,227 articles have been extended.
+34,227 (100.0%) of 34,228 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### රාජ්‍ය සේවක වැටුප් සංශෝධනය ගැන රජයෙන් තීරණයක්
+### රන් පතලේ ඛේදවාචකය - ජීවිත රැසක් අහිමිවෙයි
+
+*2024-07-08 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198609) · `si`
+
+ඉන්දුනීසියාවේ රන් පතලක සිදුවූ නායයෑමකින් පුද්ගලයින් 11 දෙනෙකු මියගොස් තවත් 19 දෙනෙකු අතුරුදන්ව තිබේ.
+
+පවතින අධික වර්ෂාවත් සමග එරට සුළවිසි දූපත් ප්‍රදේශයේ පිහිටි රන් පතලක එම නායයෑම සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+නීතිවිරෝධී පතල් කැනීමේ නිරතව සිටි පුද්ගලයින් 35 දෙනෙකු නායයෑමට හසුව ඇති අතර ඉන් පුද්ගලයින් 5 දෙනෙකු දිවි බේරාගැනීමට සමත්ව තිබේ.
+
+මියගිය පුද්ගලයින් 11 දෙනෙකුගේ මළසිරුරු මේ වන විට සොයාගෙන ඇති අතර අතුරුදන් වූ 19 දෙනා සොයා සහන සේවකයින් විමර්ශන ආරම්භ කර ඇති බව සඳහන්ය.
+
+◼️
+
+[Data](articles/3f0d1916.json)
+
+---
+
+### Govt. Amendments to Public Servant Salaries
 
 *2024-07-08 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198608) · `si`
 
-වර්ජනයේ නිරත රාජ්‍ය සේවකයින් ඉල්ලා සිටින වැටුප් වැඩිකිරීම ලබාදීමට කටයුතු කළහොත්, දැනට පනවා තිබෙන 18%ක්ව පවතින වැට් බද්ද 20% - 21%ත් අතර අගයකට ඉහළ නැංවීමට සිදුවනු ඇති බව භාණ්ඩාගාර ලේකම් මහින්ද සිරිවර්ධන මහතා පවසයි.
+In a statement, Treasury Secretary Mahinda Siriwardena announced potential salary hikes from 18% to 21% for public servants requesting strikes, emphasizing the government's inability to suppress such demands. This announcement came during a discussion at the Presidential Secretariat, presided over by President Ranil Wickremesinghe. The revision of public service salaries for 2025 is anticipated, influenced by current budget allocations.
 
-එමෙන්ම මහජනතාව පීඩාවට පත් කරමින් එවැනි ඉල්ලීමක් සපුරාලීමට රජයට හැකියාවක් නොමැති බව ද ඒ මහතා කියා සිටියේය.
+🟩
 
-රාජ්‍ය සේවයේ වෘත්තීය සමිති විසින් ඉදිරිපත් කර ඇති ඉල්ලීම් සම්බන්ධව ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ජනාධිපති කාර්යාලයේදී අද (08) පැවති සාකච්ඡාවේදී ඒ මහතා මේ බව සඳහන් කර තිබේ.
+Treasury Secretary Mahinda Siriwardena says that if the public servants who request public servants on strike will increase the existing 18% to 21%.
 
-පවතින අයවැය ප්‍රතිපාදන මත මෙම වසරේදී වැටුප් වැඩිකිරීමක් ලබාදීමේ හැකියාවක් නොමැති බවත්, රාජ්‍ය සේවයේ පවතින වැටුප් විෂමතාවන් පිළිබඳව සොයාබැලීම සඳහා පත් කළ විශේෂඥ කමිටුව මඟින් ඉදිරිපත් කරනු ලබන නිර්දේශ සැලකිල්ලට ගනිමින් 2025 වසර සඳහා ඉදිරිපත් කිරීමට නියමිත අයවැයෙන් රාජ්‍ය සේවයේ වැටුප් සංශෝධනයක් සිදුකිරීමට බලාපොරොත්තු වන බවත් භාණ්ඩාගාර ලේකම් මෙහිදී අවධාරණය කර ඇත.
+He added that the government is not capable of achieving such a request by oppressing the public.
+
+He was speaking at a discussion held at the Presidential Secretariat under the patronage of President Ranil Wickremesinghe today (08) under the patronage of President Ranil Wickremesinghe.
+
+Secretary to the Treasury Secretary is expected to revise the public service for the year 2025 this year due to the present budgetary allocation.Have been emphasized.
 
 ◼️
 
 [Data](articles/abca8f23.json)
+
+[Extended Data](ext_articles/abca8f23.ext.json)
 
 ---
 
@@ -2209,31 +2233,5 @@ The goal Marwals won the toss and elected to win 176 runs, losing 4 wickets in 1
 [Data](articles/02fa0ece.json)
 
 [Extended Data](ext_articles/02fa0ece.ext.json)
-
----
-
-### Two people who smuggled the cow
-
-*2024-07-07 21:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187930) · `ta`
-
-In Vavuniya, two individuals smuggling cows were apprehended after being turned in by locals. The incident sparked a brief clash between the police and the community, demanding stricter actions against such crimes. Despite initial tension, the situation was resolved with police assurances of further investigation and action. This follows a pattern of increasing cow thefts in the region, highlighting community concern and police commitment to address the issue.
-
-🟩
-
-The youths who had been abducted in the Thandikkulam area in Vavuniya were handed over to the police and handed over them to the police.
-
-The youths who traveled in the Thandikulam area had tied them up and informed the Vavuniya police.
-
-Police went to the scene and investigated the matter. The public told the police to take stern action on the two men.. This resulted in a slightly conflict between the police and the public.
-
-However, the situation came under control as the police assured the public that they would take appropriate action.
-
-It is noteworthy that the public has been making a series of complaints over the increase in incidents of stealing cows in Vavuniya over the past few months.
-
-◼️
-
-[Data](articles/8c885f83.json)
-
-[Extended Data](ext_articles/8c885f83.ext.json)
 
 ---

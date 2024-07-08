@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 21:19:51**
+As of **2024-07-08 21:35:16**
 
 ## Newspaper Stats
 
-*Scraped **34,267** Articles*
+*Scraped **34,270** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,48 @@ newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,021
 dailyftlk | 2,130
-adalk | 3,074
-adaderanalk | 3,929
+adalk | 3,075
+adaderanalk | 3,930
 tamilmirrorlk | 4,072
 dailymirrorlk | 4,733
 virakesarilk | 5,357
-adaderanasinhalalk | 5,702
+adaderanasinhalalk | 5,703
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,266 (100.0%) of 34,267 articles have been extended.
+34,267 (100.0%) of 34,270 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### වෙඩික්කරුවන් පළාගිය වෑන් රථයක් හමුවෙයි
+
+*2024-07-08 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198614) · `si`
+
+අතුරුගිරියේ වෙඩිතැබීමේ සිද්ධියට පැමිණි වෙඩික්කරුවන් පළා යාම සඳහා යොදාගත් වෑන් රථයක් බුලත්සිංහල පොලිස් වසමේ තිබී හමුවී ඇත.
+
+අද (08) සවස 6.15ට පමණ 119 හදිසි දුරකථන අංකයට ලද තොරතුරකට අනුව බුලත්සිංහල, අයගම, දෙල්මැල්ල ප්‍රදේශයේ පාළු ඉඩමක තිබී එම වෑන් රථය සොයාගෙන තිබේ.
+
+එම වෑන් රථය අයගම දෙස සිට බුලත්සිංහල දෙසට පැමිණ ඇති බවට මේ වනවිට තොරතුරු වාර්තා වී ඇතැයි අප වාර්තාකරු පැවසීය.
+
+අදාළ වෑන් රථයේ ඉදිරිපස හා පසුපස අංක තහඩු නොමැති අතර ආදායම් බලපත්‍රයේ පිටපතක්ද ඉදිරිපස වීදුරුවේ අලවා ඇති බව වාර්තා වෙයි.
+
+අද (08) උදැසන 10ට පමණ මෙම වෙඩිතැබීම සිදුකර තිබුණේ, අතුරුගිරිය නගරයේ ඔරලෝසු කණුව ආසන්නයේ රූපලාවන්‍ය ආයතනයක් විවෘත කිරීමේ උත්සවයක් අතරතුරදීය.
+
+වෙඩිතැබීමෙන් ප්‍රසිද්ධ ව්‍යාපාරිකයෙකු වන 55 හැවිරිදි සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත සහ 38 හැවිරිදි අයෙක් ජීවිතක්ෂයට පත්වුණි.
+
+මොවුන් කොළඹ 07 සහ අතුරුගිරිය යන ප්‍රදේශවල පදිංචිකරුවන් බව පොලීසිය සඳහන් කරයි.
+
+වෙඩිතැබීමෙන් ප්‍රසිද්ධ ගායන ශිල්පිනියක් වන කේ සූජීවා ද තුවාල ලැබූ අතර තවත් කාන්තාවන් දෙදෙනෙකු සහ පිරිමි පුද්ගලයෙකු තුවාල ලබා තිබේ.
+
+◼️
+
+[Data](articles/de750f67.json)
+
+---
 
 ### Time for people tomorrow evening
 
@@ -214,6 +240,24 @@ Six people were injured in the attack and they were taken army.
 
 ---
 
+### සැහැල්ලු දුම්රිය ව්‍යාපෘතිය ගැන ජපානය සමග සාකච්ඡා අරඹයි
+
+*2024-07-08 19:30:02* · [`adalk`](https://www.ada.lk/breaking_news/සැහැල්ලු-දුම්රිය-ව්‍යාපෘතිය-ගැන-ජපානය-සමග-සාකච්ඡා-අරඹයි/11-410676) · `si`
+
+මෙම වසර අවසන් වීමට පෙර දුම්රිය ඇතුලු පොදු ප්‍රවාහන සේවා ප්‍රවේශ පත්‍ර නිකුත් කිරීම සඳහා විද්‍යුත් ක්‍රමවේදයක් හඳුන්වා දෙන බව ප්‍රවාහන හා මහාමාර්ග අමාත්‍යාංශයේ ලේකම් රංජිත් ගංගනාත් රූබසිංහ මහතා පැවසීය.
+
+ප්‍රවාහන හා මහාමාර්ග අමාත්‍යාංශයේ ලේකම් රංජිත් ගංගනාත් රූබසිංහ මහතා මේ බව සඳහන් කර සිටියේ ‘දෙවසරක ප්‍රගතිය සහ ඉදිරිය’ යන මැයෙන් අද (08 ) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+ආර්ථික අර්බුදය හමුවේ වුවද 2022 ට පෙර සිදු කළ මාර්ග සංවර්ධන ව්‍යාපෘතිවල ගෙවීම් කටයුතු සඳහා පසුගිය දෙවසර තුළ රජය විසින් රුපියල් බිලියන 390ක් ලබා දී ඇති අතර කොන්ත්‍රාත්කරුවන් සඳහා රුපියල් බිලියන 300ක්ද ණය ගෙවීම සඳහා රුපියල් බිලියන 90ක්ද වශයෙන් එම මුදල් වැය කර ඇති බවද ඒ මහතා වැඩිදුරටත් සඳහන් කළේය.
+
+මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ බව ප්‍රවාහන හා මහාමාර්ග අමාත්‍යාංශයේ ලේකම් රංජිත් ගංගනාත් රූබසිංහ මහතා මෙසේද පැවසීය.
+
+...
+
+[Data](articles/5559976b.json)
+
+---
+
 ### Slave Island opens new flyover this week
 
 *2024-07-08 19:25:51* · [`adalk`](https://www.ada.lk/breaking_news/කොම්පඤ්ඤවීදිය-නව-ගුවන්-පාලම-මේ-සතියේදී-ජනතා-අයිතියට/11-410675) · `si`
@@ -284,19 +328,27 @@ The economy could be further affected by such a situation and the budget deficit
 
 ---
 
-### ஜனநாயகத்தில் கைவைக்க எடுக்கப்பட்ட முயற்சி முறியடிக்கப்பட்டுள்ளது - ஹர்ஷண ராஜகருணா
+### Attempts in democracy have been thwarted - Harshana Rajakaruna
 
 *2024-07-08 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/187969) · `ta`
 
-ஜனநாயகத்தில் கைவைப்பதற்கு எடுக்கப்பட்ட முயற்சி முறியடிக்கப்பட்டுள்ளது. நீதிமன்றம் சிறந்த தீர்மானத்தை எடுத்துள்ளது. எனவே நேரத்தில் தேர்தலை நிச்சயம் நடத்த வேண்டிய நிர்பந்தம் அரசாங்கத்துக்கு ஏற்பட்டுள்ளதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஹர்ஷண ராஜகருணா தெரிவித்தார்.
+Harshana Rajakaruna, a United People's Power MP, criticized attempts to delay democracy, highlighting the government's urgency to hold elections despite President Ranil Wickremesinghe's resistance. The court's intervention ensured the process moved forward, ensuring democratic principles were upheld.
 
-கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் திங்கட்கிழமை (08) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-தேர்தலை நடத்தாமலிருப்பதற்கே ஜனாதிபதி ரணில் விக்கிரமசிங்க முயற்சிக்கின்றார். ஐக்கிய தேசிய கட்சியின் பொதுச் செயலாளரும், தவிசாளரும் தொடர்ந்தும் இவ்வாறான கருத்துக்களை தெரிவித்து வந்தனர். ரணில் விக்கிரமசிங்க மாத்திரமே வேட்பாளர் என ஒரு சந்தர்ப்பத்தில் கூறிவந்தவர்கள், பின்னர் தேர்தல் நடத்தப்படக் கூடாது எனக் கூற ஆரம்பித்துவிட்டார்கள்.
+Attempts to take up in democracy have been thwarted. The court has made the best decision. United People's Power MP Harshana Rajakaruna said the government was forced to hold elections in time.
+
+He further stated at a press conference held at the Opposition Leader's Office in Colombo on Monday (08).
+
+President Ranil Wickremesinghe is trying to not hold elections. The General Secretary and the General Secretary of the United National Party continued to make such comments. Those who claimed that Ranil Wickremesinghe was the only candidate, and began to say that the election should not be held.
+
+In the local government elections, they followed the same technique. The Secretary of the Ministry of Finance was ordered by the court to provide money for the election. But the court ruling has not taken care of the local government elections. The Election Commission will get the power to announce the presidential day in 10 days.
 
 ...
 
 [Data](articles/686bc7fa.json)
+
+[Extended Data](ext_articles/686bc7fa.ext.json)
 
 ---
 
@@ -1840,6 +1892,28 @@ The 32-year-old woman who committed the murder has been arrested and Athgala  P
 
 ---
 
+### 78-year-old woman murdered by grandson’s wife
+
+*2024-07-08 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100366/78-year-old-woman-murdered-by-grandsons-wife) · `en`
+
+An elderly woman has reportedly been murdered after being attacked to death with sharp weapons in the Ulapane area of Athgala.
+
+Police stated that the murder had been committed last morning (7).
+
+The murdered woman was living in the same house with her grandson, his wife and two children.
+
+The police investigations have revealed that the murder was committed over a family dispute by the grandson’s wife.
+
+It was later revealed that the grandson was not at home at that time.
+
+The 32-year-old woman who committed the murder has been arrested and Athgala  Police are conducting further investigations related to the incident.
+
+◼️
+
+[Data](articles/9a6975fd.json)
+
+---
+
 ### Attorney General's term of office is 5 years - President's term
 
 *2024-07-08 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198595) · `si`
@@ -2199,69 +2273,5 @@ Meanwhile, Rohana Hettiarachchi, executive director of People’s Action for Fre
 [Data](articles/4b50002d.json)
 
 [Extended Data](ext_articles/4b50002d.ext.json)
-
----
-
-### Prevailing showery conditions to continue in parts of the island
-
-*2024-07-08 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100361/prevailing-showery-conditions-to-continue-in-parts-of-the-island-) · `en`
-
-The Meteorology Department says the prevailing showery conditions are expected to continue today in the south-western part of the island.
-
-Showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
-
-Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/47af85a5.json)
-
-[Extended Data](ext_articles/47af85a5.ext.json)
-
----
-
-### Struggle in Jaffna begins in support of doctor Arjuna
-
-*2024-07-08 08:22:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வைத்தியர்-அர்ஜூனனுக்கு-ஆதரவாக-யாழில்-போராட்டம்-ஆரம்பம்/71-340017) · `ta`
-
-In Jaffna, a movement supports Dr. Arjuna, focusing on improving Chavakachcheri Hospital and reinstating medical services. Public unity was seen as the hospital's response to the dismissal and arrest of its medical superintendent was rejected.
-
-🟩
-
-The struggle is being carried out by emphasizing the progress of the Chavakachcheri Hospital and the return of the medical work.
-
-The public was united at the hospital premises last night following reports that the Chavakachcheri Hospital's reply to the dismissal of the medical superintendent was dismissed and arrested.
-
-◼️
-
-[Data](articles/4221f482.json)
-
-[Extended Data](ext_articles/4221f482.ext.json)
-
----
-
-### The rain will continue in the coming days
-
-*2024-07-08 07:54:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்வரும்-நாட்களில்-மழை-தொடரும்/175-340016) · `ta`
-
-The Department of Meteorology forecasts continued rainfall across the southwest of the country, including Kandy, Nuwara Eliya, Galle, and Matara districts. Expect rain or thundershowers in the evening or night in parts of Uva Province and Ampara and Batticaloa districts.
-
-🟩
-
-The Department of Meteorology has predicted that the current rainfall in the southwest of the country will continue in the coming days.
-
-Accordingly, rainfall is expected in the Kandy, Nuwara Eliya, Galle and Matara districts today.
-
-The Department of Meteorology also stated that there is a possibility of rain or thundershowers in the evening or night in some parts of the Uva Province and in some parts of Ampara and Batticaloa districts.. (A)
-
-◼️
-
-[Data](articles/5c97b398.json)
-
-[Extended Data](ext_articles/5c97b398.ext.json)
 
 ---

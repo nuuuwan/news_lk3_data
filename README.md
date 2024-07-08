@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 11:19:50**
+As of **2024-07-08 11:35:30**
 
 ## Newspaper Stats
 
-*Scraped **34,185** Articles*
+*Scraped **34,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,925
 economynextcom | 2,005
 dailyftlk | 2,130
 adalk | 3,058
-adaderanalk | 3,916
-tamilmirrorlk | 4,059
+adaderanalk | 3,917
+tamilmirrorlk | 4,060
 dailymirrorlk | 4,733
 virakesarilk | 5,350
 adaderanasinhalalk | 5,686
@@ -26,23 +26,59 @@ adaderanasinhalalk | 5,686
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,181 (100.0%) of 34,185 articles have been extended.
+34,185 (100.0%) of 34,187 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### අතුරුගිරියේ වෙඩිතැබීමක් - ක්ලබ් වසන්ත මරුට
+### One dead, popular singer among several injured in Athurugiriya shooting
+
+*2024-07-08 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100367/one-dead-popular-singer-among-several-injured-in-athurugiriya-shooting) · `en`
+
+One person has been reported dead, while at least three others were left injured following a shooting incident at Oruwala, Athurugiriya.
+
+The injured individuals have been admitted to the Homagama Hospital, according to the police.
+
+The deceased has been identified as the individual known as “Club Wasantha” while popular singer K. Sujeewa is also among the injured from the incident.
+
+◼️
+
+[Data](articles/2ef977c4.json)
+
+---
+
+### துப்பாக்கிச் சூட்டில் நால்வர் காயம்
+
+*2024-07-08 11:10:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டில்-நால்வர்-காயம்/175-340025) · `ta`
+
+அத்துருகிரிய ஒருவல  நகரில் சற்று முன்னர் இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் பிரபல பாடகி சுஜீவா உட்பட அறுவர் காயமடைந்துள்ளனர்.
+
+காயமடைந்தவர்களில் 'கிளப் வசந்த' என்ற நபர் ஒருவர் உயிரிழந்துள்ளார். துப்பாக்கிச்சூட்டில் காயமடைந்தோர் ஹோமாகம மற்றும் அத்துருகிரிய வைத்தியசாலைகளில் அனுமதிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3f92206c.json)
+
+---
+
+### Club 'spring dies
 
 *2024-07-08 11:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198597) · `si`
 
-අතුරුගිරියේ සිදුකළ වෙඩි තැබීමකින් තුවාල ලැබූ සිව් දෙනෙක් හෝමාගම රෝහලට ඇතුළත් කර ඇති බව වාර්තා වෙයි.
+A shooting at Club Wasantha in Athurugiriya resulted in four injuries, including singer K. Sujeewa, and one fatality, leading them to Homagama Hospital.
 
-එහිදී "ක්ලබ් වසන්ත" මියගොස් ඇති අතර ගායිකාවක් වන කේ. සුජීවා තුවාල ලබා තිබේ.
+🟩
+
+Four injured were rushed to the Homagama Hospital with a shooting in the Athurugiriya.
+
+There "Club Wasantha" has died and a singer K. Sujeewa has been injured.
 
 ◼️
 
 [Data](articles/46937784.json)
+
+[Extended Data](ext_articles/46937784.ext.json)
 
 ---
 
@@ -89,6 +125,8 @@ The 32-year-old woman who committed the murder has been arrested and Athgala  P
 ◼️
 
 [Data](articles/60e94679.json)
+
+[Extended Data](ext_articles/60e94679.ext.json)
 
 ---
 
@@ -224,19 +262,27 @@ After completing the Annual Summit in Moscow, Modi is to leave for Austria, acco
 
 ---
 
-### මට මෙ CID එකෙන් නම් ඉන්න දෙන්නෙම නෑ
+### I don't want to stay with this CID
 
 *2024-07-08 09:35:12* · [`adalk`](https://www.ada.lk/breaking_news/මට-මෙ-CID-එකෙන්-නම්-ඉන්න-දෙන්නෙම-නෑ/11-410660) · `si`
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවෙන් තමන්ට නිදහසේ සිටීමට ඉඩ නොදෙන බවත් මේ වන විට මතභේදයට තුඩු දි ඇති බි.එම්.ඩබ්ලිව්. රථය මීට වසරකට පමණ පෙර තමන් විකුණා ඇති බවත් ප්‍රකට නිරූපණ ශිල්පී පියුමි හංසමාලි සඳහන් කරයි.
+Piyumi Hansuli, a model, claims her vehicle was sold a year ago and she doesn't own it anymore. She mentions issues with the Criminal Investigation Department (CID) and financial transactions involving her family and friends.
 
-"මම වාහනෙ විකුනලා ඉවරයි අප්පා මාව අල්ලං කන්නම හදනවා මට තෙරෙන්නෙ නැ. ඔක විකනුලා දැං අවුරුදක් වෙනවා .එයාලා සල්ලි බාගයයි දුන්නෙ.ඉතිං තාම මගෙ නමට තියෙන්නෙ.ඔය වාහනෙ කුඩු ඇදලත් නැ . ඔය වාහනෙ කුඩුත් එක්ක අහු වෙලත් නැ.මම කුඩු විකුනලත් නැ.මෙ දැනුත් කියනවා 100/1000 ක් මම නිවැරදියි මාර වැඩක් උනානෙ දෙයියනෙ වාහනෙ විකුනන කොට උගෙ මුලු ජාතකෙම හොයලා වාහනෙ දෙන්න උනා.
+🟩
 
-ගොටාබය සර් පැද්ද එකක් අරංමට තාම කරදර මට මෙ CID එකෙන් නම් ඉන්න දෙන්නෙම නැ නෙ මොන කරැමයක් උනානෙ මානසික නිදහසක් නැතුව ගියා නෙ අප්පා මට.අත්අඩංලුවට ගත්ත පුද්ගලාගෙ බිරිදගෙ නමට ගත්තෙ බිරිද මගෙ පරනම මිතුරියක්.ඉතිං පස්සෙ හෙමිට සල්ලි දෙන්න කියලා මම දුන්නා.එ මගෙ හැටි දන්න අය දන්නවා.
+The Criminal Investigation Department will not be allowed to be free to be free. The famous modeling Piyumi Hansuli states that the vehicle had been sold about a year ago.
 
-...
+"I sold in the vehicles and don't have to buy me to eat me. It 's it .It' s not .It is still my name.. Your vehicles are not sold in the middle of the kudo. I was rightly selling 100/1,000, who was right by selling 100/1,000.
+
+The Gottabaya has not been able to take a quarterly to the CID, no appa, the wife, I gave it to my older friend. I gave the money to slow down.People know.
+
+So they gave me the money to me twenty Rs. You are the truthful God. It's a catchment for a powder that has not made me unhappy. It is cursed for the hospitals to work .I '
+
+◼️
 
 [Data](articles/22067820.json)
+
+[Extended Data](ext_articles/22067820.ext.json)
 
 ---
 
@@ -542,19 +588,25 @@ Meanwhile, the Government Medical Officers' Association and Nurses are yet to su
 
 ---
 
-### தீவிரவலதுசாரிகளின்ஆட்சியை கைப்பற்றும் கனவு கலைந்தது- பிரான்சில் இடதுசாரி கூட்டணி எதிர்பாராத வெற்றி
+### The dream of seizing the regime of the radicals was dissolved- the left-wing coalition in France unexpected victory
 
 *2024-07-08 06:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/187937) · `ta`
 
-தீவிரவலதுசாரி கட்சியானஆர்எல் அதிகளவு ஆசனங்களை கைப்பறக்கூடும் என எதிர்பார்ப்பு வெளியாகியிருந்த நிலையில் பிரான்சில் இடதுசாரி கூட்டணி அதிக ஆசனங்களை கைப்பற்றும் நிலையில் உள்ளதை தேர்தல் முடிவுகள் வெளிப்படுத்தியுள்ளன.
+In France, the Left Alliance is poised for a significant electoral win, potentially capturing more seats than the radical party, RRL, which initially led in the first round of elections held last Sunday. This outcome marks a historic moment post-WWII, raising concerns about extremist influence on the government.
 
-முதலாவது சுற்று தேர்தல் கடந்த ஞாயிற்றுக்கிழமை இடம்பெற்றதும் அதில் தீவிரவலதுசாரிகள் அதிக ஆசனங்களை கைப்பற்றியிருந்ததும் குறிப்பிடத்தக்கது.
+🟩
 
-இதன்காரணமாக பிரான்சில் இரண்டாம் உலக யுத்தத்தின் பின்னர் முதல்தடவையாக தீவிரவலதுசாரிகள் ஆட்சியை கைப்பற்றலாம் என்ற அச்சநிலை உருவானது.
+The election results have revealed that the Left Alliance in France is in a position to capture more seats as the radicalist party, RRL, is expected to capture more seats.
+
+It is noteworthy that the first round of elections took place last Sunday, and the extremists won more seats.
+
+This is why in France, after World War II, for the first time, the fear that the extremists could take over the regime.
 
 ◼️
 
 [Data](articles/4a5950bb.json)
+
+[Extended Data](ext_articles/4a5950bb.ext.json)
 
 ---
 
@@ -2219,53 +2271,5 @@ Accordingly, the protest was carried out in the heads of the CWC leaders in char
 [Data](articles/a7c57dfb.json)
 
 [Extended Data](ext_articles/a7c57dfb.ext.json)
-
----
-
-### Anganjan's action for the Chavakachcheri Hospital
-
-*2024-07-07 16:07:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சாவகச்சேரி-வைத்தியசாலைக்காக-அங்கஜன்-எடுத்துள்ள-நடவடிக்கை/71-339984) · `ta`
-
-Parliamentarian Anganjan Ramanathan announced that the Chavakachcheri Resource Hospital will soon receive a temporary power supply, addressing its long-standing power issues. This development comes after days of concern over the hospital's inability to function properly due to lack of power backups and email services. Ramanathan has been actively discussing solutions with stakeholders, leading to commitments from supporters to provide a temporary solution until permanent power facilities are established. This initiative aims to restore the hospital's surgical units and improve medical services efficiency. The parliamentarian is awaiting responses from relevant officials, including Dr. Ramanathan Archchuna, Dr. Ketheswaran Arumugam, VPSD Pathirana, and the GMOA.
-
-🟩
-
-Parliamentarian Anganjan Ramanathan said that the Chavakachcheri Resource Hospital is ready to get a temporary power supply.
-
-I have been consistently looking at the problem of the ongoing problem at the Chavakachcheri Resource Hospital for recent days.
-
-In the past days, the hospitals, including the hospital's accident and the surgery category, have been found to be in the absence of medical use, due to the lack of power backups and the lack of appropriate e -mail.
-
-Recognizing the need to end the workplace carried out by the doctors to obtain objections to the launch of the sections in this context, I have held discussions with the enthusiasts on this issue.
-
-Accordingly, some of the lovers have come forward to obtain the temporary arrangement for the Chavakachcheri Resource Hospital until the government is provided with adequate powerful facilities.
-
-...
-
-[Data](articles/90ae0546.json)
-
-[Extended Data](ext_articles/90ae0546.ext.json)
-
----
-
-### Are ten thousand houses possible in three years?Information
-
-*2024-07-07 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/187909) · `ta`
-
-The ambitious plan to construct 10,000 houses in three years, announced by Indian PM Narendra Modi in 2017 and formalized in November 2023, faces delays. Despite the signing of contracts and the completion of the first 1300 houses by August 2023, the project's launch has been pushed back from June to July. The National Housing Development Authority and the State Engineering Corporation's Technology Corporation are involved but haven't fully commenced operations. Concerns about the timeline, selection of contractors, and land acquisition complicate the project's progress.
-
-🟩
-
-The contract to set up ten thousand apartments in the plantation areas promised by Indian Prime Minister Narendra Modi in 2017 was signed on 28th November 2023.
-
-The first of the 1300 houses will be held on February 19 with the name of Bharat Lanka. The main point is that Minister Jeevan said that the first 1300 houses have been completed by August this year.
-
-The National Housing Development Authority and the Technology Corporation of the State Engineering Corporation, with the technical supervision of the two state agencies, have not yet been properly launched.. The two companies are the implementation agency of the project. The National Housing Development Authority has also confirmed that the housing scheme has not yet been initiated.
-
-...
-
-[Data](articles/3e21e2df.json)
-
-[Extended Data](ext_articles/3e21e2df.ext.json)
 
 ---

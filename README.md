@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 22:07:59**
+As of **2024-07-08 22:20:03**
 
 ## Newspaper Stats
 
-*Scraped **34,272** Articles*
+*Scraped **34,273** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 3,931
 tamilmirrorlk | 4,072
 dailymirrorlk | 4,733
 virakesarilk | 5,357
-adaderanasinhalalk | 5,703
+adaderanasinhalalk | 5,704
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,271 (100.0%) of 34,272 articles have been extended.
+34,272 (100.0%) of 34,273 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### LPL විනය නීති කඩ කළ වනිඳුට සහ බිනුරට දඩ
+
+*2024-07-08 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198615) · `si`
+
+ලංකා ප්‍රිමියර් ලීග් විනය නීති සංග්‍රහය උල්ලංඝණය කළ කැන්ඩි ෆැල්කන්ස් කණ්ඩායමේ නායක වනිඳු හසරංගට සහ කලම්බු ස්ට්‍රයිකර්ස් කණ්ඩායමේ බිනුර ප්‍රනාන්දුට දඩ පැනවීමට එල්පීඑල් තරග සංවිධායකයින් පියවර ගෙන තිබේ.
+
+ඒ අනුව, වනි﻿ඳුට තරග මුදලින් සියයට 25ක දඩයක් සහ බිනුරට තරග මුදලින් සියයට 20ක දඩයක් නියම කෙරුණි.
+
+ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියට එක් වන කණ්ඩායම්වල ක්‍රීඩකයින්ගේ විනය පිළිබඳ මෙවර දැඩි අවධානයක් යොමු කිරීමට LPL තරග සංවිධායකයින් කටයුතු කරයි.
+
+ඒ අනුව ක්‍රීඩකයින්ගේ ඇඳුම් පැළඳුම් හා ක්‍රීඩා උපකරණ පිළිබඳවද දැඩි අවධානයක් යොමු කිරීමට පියවර ගෙන ඇති අතර කැන්ඩි ෆැල්කන්ස් කණ්ඩායමට අයත් නොවන හෙල්මටයක් පැළඳ ක්‍රීඩා කිරීම හේතුවෙන් නායක වනිඳු හසරංගට තරග මුදලින් සියයට 25ක දඩයක් පැනවීමට පියවර ගැනුණි.
+
+ඒ ඇඳුම් පැළදුම් හා ක්‍රීඩා උපකරණ රෙගුලාසි උල්ලංඝණය කිරීමේ චෝදනාව යටතේය.
+
+අමෙරිකානු ඩොලර් 3600ක් වූ එම දඩ මුදලේ ශ්‍රී ලංකා රුපියල් වටිනාකම ලක්ෂ 11කට ආසන්නයි.
+
+එමෙන්ම කලම්බෝ ස්ට්‍රයිකර්ස් කණ්ඩායමේ වේගපන්දු යවන ක්‍රීඩක බිනුර ප්‍රනාන්දුටද එම නීතිය උල්ලංඝණය කිරීම හේතුවෙන් සියයට 20ක දඩයක් නියම කළේය.
+
+...
+
+[Data](articles/48e0f968.json)
+
+---
 
 ### Athurugiriya shooting: Another vehicle used by suspects found
 
@@ -228,25 +252,33 @@ Despite the economic crisis facing the country, the government has paid 390 bill
 
 ---
 
-### අද අප සිටින්නේ විද්‍යාව සහ ධර්මය එකට මුණ ගැසෙන සංධිස්ථානයකයි
+### Today we are in a milestone that science and Dhamma
 
 *2024-07-08 19:33:26* · [`adalk`](https://www.ada.lk/breaking_news/අද-අප-සිටින්නේ-විද්‍යාව-සහ-ධර්මය-එකට-මුණ-ගැසෙන-සංධිස්ථානයකයි/11-410677) · `si`
 
-අද ලෝකය ඉදිරිපත් කරන අලුත් මත බුද්ධ දේශනාව තුළ අන්තර්ගත වී තිබෙනවා
+In a significant development bridging science and spirituality, leaders in Sri Lanka are exploring the intersection of the Buddha's teachings with modern scientific advancements. This initiative aims to establish a new institution dedicated to studying the relevance of the Buddha's sermon within the contemporary scientific landscape. Presidents Mahinda Rajapaksa and Ranil Wickremesinghe emphasize the importance of understanding the relationship between Buddhism and technology, particularly in the era of artificial intelligence. They highlight the historical significance of the Amarapura Maha Sect and its contributions to shaping Sri Lanka's society and culture. The initiative also includes plans for archaeological excavations and the promotion of Buddhist studies, aiming to preserve and disseminate Buddhist philosophy and history for future generations.
 
-අද අප සිටින්නේ විද්‍යාව සහ ධර්මය එකට මුණ ගැසෙන සංධිස්ථානයකයි.
+🟩
 
-බුද්ධ දේශනාව සහ විද්‍යාත්මක ලෝකය අතර තිබෙන සම්බන්ධතාව සොයා බැලීමට නව ආයතනයක් – අමරපුර දින ආදිකතෘ සැමරුම් උත්සවයට එක් වෙමින් ජනපති පවසයි.
+The Buddha's sermon is included in the newness of the world today
 
-බුදු දහම සහ මේ වන විට අප ගමන් කරමින් සිටින නවීන විද්‍යාත්මක හා තාක්ෂණික ලෝකය අතර විශාල සම්බන්ධතාවක් ඇති බවත් ලෝකය හමුවේ ඇති ඉදිරි අභියෝග ජය ගැනිමේ මාර්ගය බුද්ධ දේශනාව තුළ ඇතුළත් බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+Today, we are in a milestone that science and Dhamma.
 
-ත්‍රිපිටකය ඇතුළු බෞද්ධ දර්ශනයත් මෙරට ඉතිහාසය, ශිෂ්ටාචාරය සහ බුදු දහම ලෝකයේ ව්‍යාප්ත වීම පිළිබඳව අධ්‍යයනය කළ හැකි සහ පාලි, සංස්කෘතික ඇතුළු භාෂා දැනුම වර්ධනය කර ගත හැකි නව ආයතනයක් මෙරට ස්ථාපිත කිරීමට සාකච්ඡා කරමින් සිටින බව පැවසූ ජනාධිපතිවරයා ඉතිහාසයේ අනුරාධපුර මහා විහාරය සිදු කළ වැඩකටයුතු නැවත ආරම්භ කිරීම එහි අරමුණ බවද කියා සිටියේය.
+A new institution is to look into the relationship between the Buddha's Sermon and Scientific World - President Mahinda Rajapaksa says.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ සබරගමුව පළාත් සභා ශ්‍රවණාගාරයේ අද (08) පස්වරුවේ පැවති ශ්‍රී ලංකා අමරපුර මහා නිකායේ අමරපුර දින ආදිකතෘ සැමරුම් උත්සවයට එක් වෙමිනි.
+President Ranil Wickremesinghe said that Buddhism and technology is a great relationship between the modern scientific and technology that we are traveling now and that we are traveling in the face of the future.
+
+The Buddhist philosophy, including the Tripitaka and the history of Sri Lanka, the world's history, and Buddhism is the reboot of the Anuradhapura Maha Viharaya in the history of the world.It also purpose was to say.
+
+President Ranil Wickremesinghe was speaking at the Sabaragamuwa Provincial Council Auditorium at the Sabaragamuwa Provincial Council Auditorium this afternoon.
+
+The Amarapura Maha Sect was established in 1802 after the huge sacrifice made by Ven. Welimaratissa Thera.. The bigge of the Great Commander led the Ven.
 
 ...
 
 [Data](articles/a7f77f60.json)
+
+[Extended Data](ext_articles/a7f77f60.ext.json)
 
 ---
 
@@ -2251,27 +2283,5 @@ Stock prices of a kilogram of leeks from Rs. 650 to Rs.A kilo of fish at Rs. 700
 [Data](articles/e14bc8f9.json)
 
 [Extended Data](ext_articles/e14bc8f9.ext.json)
-
----
-
-### Over 200 trade unions launch ‘sick leave’ campaign today
-
-*2024-07-08 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100363/over-200-trade-unions-launch-sick-leave-campaign-today) · `en`
-
-Over 200 public sector trade unions, including Grama Niladhari officers and surveyors, will engage in a trade union action by taking ‘sick leave’ today (8) and tomorrow (9), according to the Trade Unions Collective.
-
-Government officials across several sectors, including postal workers, surveyors, agricultural regulators, Grama Niladhari officers, development officers, and prosperity officers, will participate in the strike starting today (8).
-
-NM Wijeratne, President of the State and Provincial Public Management Association, stated that these trade unions are protesting based on several demands, including a salary increase.
-
-Chinthaka Bandara, the co-convener of the United Postal Trade Unions’ Front, mentioned that postal workers began their strike at 4 p.m. yesterday (07) in support of this action.
-
-The General Secretary of the Ceylon Teachers’ Union (CTU), Joseph Stalin, said that although the CTU reported to work today, they have decided to take sick leave tomorrow (9).
-
-...
-
-[Data](articles/22a187ec.json)
-
-[Extended Data](ext_articles/22a187ec.ext.json)
 
 ---

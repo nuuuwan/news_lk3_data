@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 02:53:47**
+As of **2024-07-09 03:04:58**
 
 ## Newspaper Stats
 
-*Scraped **34,287** Articles*
+*Scraped **34,289** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 3,077
 adaderanalk | 3,931
 tamilmirrorlk | 4,076
 dailymirrorlk | 4,733
-virakesarilk | 5,361
+virakesarilk | 5,363
 adaderanasinhalalk | 5,704
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,287 (100.0%) of 34,287 articles have been extended.
+34,287 (100.0%) of 34,289 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### அநீதியான வகையில் முன்னெடுக்கப்படும் வேலைநிறுத்தங்களால் பிள்ளைகள் கல்வி கற்கும் வாய்ப்பை இழந்துள்ளனர் - கனக ஹேரத்
+
+*2024-07-09 02:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/187996) · `ta`
+
+தேர்தல் நெருங்கும் நேரத்தில் அநீதியான வகையில் வேலைநிறுத்தங்களை முன்னெடுப்பதன் மூலம் பிள்ளைகள் கல்வி கற்கும் வாய்ப்பை இழந்துள்ளனர் என தொழில்நுட்ப இராஜாங்க அமைச்சர் கனக ஹேரத் தெரிவித்தார்.
+
+இந்த வேலைநிறுத்தங்கள் மற்றும் போராட்டங்கள் மூலம்  மக்களின்  நிம்மதியான வாழ்க்கை நிலையை சீர்குலைப்பது தான் நோக்கமா என்ற கேள்விக்கு எதிர்க்கட்சிகள் பதில் அளிக்க வேண்டும் என்றும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (08) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே தொழில்நுட்ப இராஜாங்க அமைச்சர் கனக ஹேரத் இதனைத் தெரிவித்தார்.
+
+2022 ஆம் ஆண்டிலிருந்து, நமது அமைச்சினால் பாரிய அளவில் பல்வேறு கொள்கைகள் மற்றும் சீர்திருத்தங்கள் செயல்படுத்தப்பட்டன. பாராளுமன்றத்தில் பல சட்டமூலங்கள் சமர்ப்பிக்கப்பட்டுள்ள துடன் மேலும் சில சட்டமூலங்களை முன்வைக்கவும் எதிர்பார்க்கப்படுகிறது.
+
+...
+
+[Data](articles/9b0794bc.json)
+
+---
+
+### வேலை நிறுத்தத்தில் ஈடுபட்டுள்ள அரச ஊழியர்கள் கோரும்  சம்பள உயர்வை வழங்க வேண்டுமாயின் வெட் வரியை மீண்டும் அதிகரிக்க நேரிடும் - மஹிந்த சிறிவர்தன
+
+*2024-07-09 02:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/187995) · `ta`
+
+வேலை நிறுத்தத்தில் ஈடுபட்டுள்ள அரச ஊழியர்களின் சம்பள அதிகரிப்பு வழங்க வேண்டுமாயின், தற்போதைய 18%  வெட்  வரியை 20% - 21% ஆக அதிகரிக்க நேரிடும் எனவும், அரசாங்கத்தினால் அத்தகைய கோரிக்கையை நிறைவேற்ற முடியாது எனவும் திறைசேரி செயலாளர் மஹிந்த சிறிவர்தன தெரிவித்தார்.
+
+அரச சேவை தொழிற்சங்கங்கள் முன்வைத்த கோரிக்கைகள் தொடர்பில் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் இன்று (08) ஜனாதிபதி அலுவலகத்தில் நடைபெற்ற கலந்துரையாடலில் திறைசேரி செயலாளர் இதனைக் குறிப்பிட்டார்.
+
+அரச சேவையுடன் தொடர்புடைய பல தொழிற்சங்கங்கள் பல கோரிக்கைகளை முன்வைத்து முன்னெடுத்துள்ள தொழில்சார் நடவடிக்கை தொடர்பில் இக்கலந்துரையாடலில் ஜனாதிபதியின் கவனத்திற்குக் கொண்டுவரப்பட்டதுடன் தொழிற்சங்கங்கள் முன்வைத்த கோரிக்கைகளுக்கு வழங்கக்கூடிய சாதகமான தீர்வுகள் குறித்தும் கலந்துரையாடப்பட்டது.
+
+...
+
+[Data](articles/5c4401f0.json)
+
+---
 
 ### Chavakachcheri Resource Hospital issue: Minister Douglas Devananda
 
@@ -2251,57 +2285,5 @@ PHK Gunaratne, a father of two residents of the Gonaganka Oya, Diyanagasaka, own
 [Data](articles/2493ac2f.json)
 
 [Extended Data](ext_articles/2493ac2f.ext.json)
-
----
-
-### I am the only person who can build the country
-
-*2024-07-08 10:40:14* · [`adalk`](https://www.ada.lk/breaking_news/රට-ගොඩනැගිය-හැකි-එකම-පුද්ගලයා-මමයි/11-410661) · `si`
-
-Dhammika Perera claims he alone can steer the country's economic development without favoring any political party. He advocates for a uniform education system to uplift Sri Lanka and cautions against spreading misinformation on social media. Speaking at a certificate award event, he highlighted his efforts towards national development, especially through the largest party, Povett. Interestingly, 44% of voters remain undecided about their economic preferences, suggesting a unique perspective among politicians.
-
-🟩
-
-Dhammika Perera said he was the only person who could not declare the people of any political party regarding the development of the country's economy.
-
-Dr. Dhammika Perera said that the country's creation and its chairman Dhammika Perera said that there should be a similar education system in the country to develop Sri Lanka today.
-
-He also said that the misconceptions in the social media should not be excited to create a generation of childhood in the world.
-
-Dhammika Perera was speaking at the Certificate of the Certificate of Certificate at the Anuradhapura District at the Salgadu Stadium on the 7th of September.
-
-He also emphasized that he had carried out actions as a woman, the largest party, the largest party Povett.
-
-It was stated that 44% of the party had not yet decided to vote by any party regarding the building of the economy and that 44% of the voting has not yet been decided.
-
-...
-
-[Data](articles/4b1ad680.json)
-
-[Extended Data](ext_articles/4b1ad680.ext.json)
-
----
-
-### 78-year-old woman murder by grandson’s wife
-
-*2024-07-08 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100366/78-year-old-woman-murder-by-grandsons-wife) · `en`
-
-An elderly woman has reportedly been murdered after being attacked to death with sharp weapons in the Ulapane area of Athgala.
-
-Police stated that the murder had been committed last morning (7).
-
-The murdered woman was living in the same house with her grandson, his wife and two children.
-
-The police investigations have revealed that the murder was committed over a family dispute by the grandson’s wife.
-
-It was later revealed that the grandson was not at home at that time.
-
-The 32-year-old woman who committed the murder has been arrested and Athgala  Police are conducting further investigations related to the incident.
-
-◼️
-
-[Data](articles/60e94679.json)
-
-[Extended Data](ext_articles/60e94679.ext.json)
 
 ---

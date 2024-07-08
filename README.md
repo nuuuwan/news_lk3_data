@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 17:20:02**
+As of **2024-07-08 17:35:34**
 
 ## Newspaper Stats
 
-*Scraped **34,231** Articles*
+*Scraped **34,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,010
 dailyftlk | 2,130
-adalk | 3,066
-adaderanalk | 3,925
+adalk | 3,067
+adaderanalk | 3,926
 tamilmirrorlk | 4,069
 dailymirrorlk | 4,733
 virakesarilk | 5,351
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,698
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,231 (100.0%) of 34,231 articles have been extended.
+34,231 (100.0%) of 34,233 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### K. Sujeewa’s condition is stable - National Hospital
+
+*2024-07-08 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100376/k-sujeewas-condition-is-stable-national-hospital) · `en`
+
+The two patients who were transferred to the Colombo National Hospital after being injured in the shooting at Athurugiriya are currently receiving treatment in the hospital’s Intensive Care Unit (ICU), according to Deputy Director of the Colombo National Hospital Dr. Rukshan Bellana.
+
+He further mentioned that a woman and a man were admitted to the Emergency Treatment Unit and both of them had sustained injuries from the waist down.
+
+Dr. Bellana also said that although the wound on the woman’s leg is quite serious, her condition is now in a stable level.
+
+Popular singer K. Sujeewa and another male, who were injured in the shooting, are being treated at the Colombo National Hospital while another two wounded women are being treated at the Homagama Hospital.
+
+The shooting had occurred during the opening ceremony of a beauty salon near the Clock Tower in Athurugiriya. Six persons were rushed to hospital following the shooting.
+
+...
+
+[Data](articles/1d1b0ac4.json)
+
+---
 
 ### Gold mine tragedy - a loss of many lives
 
@@ -945,6 +965,24 @@ The telephone and devices have been handed over to the Prison Governor for furth
 [Data](articles/b7c61bb8.json)
 
 [Extended Data](ext_articles/b7c61bb8.ext.json)
+
+---
+
+### නොවැම්බර් 17දා වන විට පත්වන නව ජනපති අනුර කුමාරයි
+
+*2024-07-08 10:55:25* · [`adalk`](https://www.ada.lk/breaking_news/නොවැම්බර්-17දා-වන-විට-පත්වන-නව-ජනපති-අනුර-කුමාරයි/11-410663) · `si`
+
+මේ වසරේ නොවැම්බර් මස 17 දින වන විට රටේ නව ජනාධිපතිවරයෙක් පත් වන බවත්, එසේ තේරිපත් වන නව ජනාධිපතිවරයා ජාතික ජන බලවේගයේ නායක ජනාධිපති අපෙක්ෂක අනුර කුමාර දිසානායක මහතා බවට මේ රටේ ජනතාව විශ්වාස කරන බව ජාතික ජන බලවේගයේ පා.ම අචාර්ය හරිනි අමරසුරිය මහත්මිය පැවසිය.
+
+පා.ම අචාර්ය හරිනි අමරසුරිය මහත්මිය ඒ බැව් කියා සිටියේ (07) දින නාවලපිටිය මාවතුර නගරයේ පැවති බිදවැටුණු මව්බිම ගොඩනගන විසදුම යන මැයෙන් පැවැත් වු ජාතික ජන බලවේගයේ ආධාරකරුවන් සමග පැවති හමුවකදිය.
+
+මෙහිදි වැඩිදුරටත් අදහස් දැක් වු පා.ම අචාර්ය හරිනි අමරසුරිය මහත්මිය කියා සිටියේ රටේ බහුතර ජනතාවක් ජාතින ජන බලවේගය සමග එක්රැස් වි සිටින බවත්, එම ජනතාවගේ නොමග යැවිම සදහා මේ වන විට රජය පාර්ශවයෙන් සහ විපක්ෂයෙන් විවිධ මත පල කරන බවයි.
+
+ජාතික ජන බලවේගය කරා එක්රැස් වි සිටින රටේ ජනතාව රජයෙන් සහ විපක්ෂයෙන් සිදු කරන අවලාද පිලිනොගන්නා බවත්, දිනෙන් දින ජාතික ජන බලවේගයට රටේ බහුතර ජනතාවක් එක්වෙමින් සිටින බවයි.
+
+◼️
+
+[Data](articles/2c19a5d2.json)
 
 ---
 
@@ -2167,59 +2205,5 @@ The Central Bank alone had a foreign debt obligation of $ 6 billion, converting 
 [Data](articles/397f0bb1.json)
 
 [Extended Data](ext_articles/397f0bb1.ext.json)
-
----
-
-### 2024-07-07 (Sunday)
-
-### India balances the series
-
-*2024-07-07 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187931) · `ta`
-
-India started its new era with a loss in Harare but clinched the T20 series against Zimbabwe with a 100-run win in the second match. Abhishek Sharma, a rising star, played a crucial role with a century in his second international T20 match, alongside Ruthuraj Gaikwad. India's total was 234/2, with key contributions from Shubman Gill, Abhishek Sharma, Ruthuraj Gaikwad, and Rinku Singh. Zimbabwe was bowled out for 134, with Wesley Madhevere leading their batting. Avesh Khan and Mukesh Kumar starred with the ball.
-
-🟩
-
-The first attempt towards India's new era began with a defeat in Harare last Saturday (06).
-
-However, India won the second international T20 cricket match on Sunday (07) at the same stadium and won the series by 100 runs.
-
-Abhishek Sharma, believed to be a future player in India, has made India's victory easier.
-
-In this year's IPL, three of them, Abhishek Sharma, Ruthuraj Kaikwad and Rinku Singh, scored more than 220 runs.
-
-India decided to bat first and scored 234 runs for the loss of 2 wickets in 20 overs.
-
-India's Shubman Gill (2) was a minor stumbling block in the second over.
-
-However, Abhishek Sharma scored a huge batsman in his 2nd international T20 cricket match and shared 137 runs with Rutraj Kaikwad in the 2nd wicket.
-
-Abhishek Sharma, who faced only 47 balls, scored 100 runs with 7 pounds and 8 sixes.
-
-Subsequently, Ruthuraj Gayakwad and Rinku Singh shared 87 runs in the 3rd wicket.
-
-...
-
-[Data](articles/847d34a6.json)
-
-[Extended Data](ext_articles/847d34a6.ext.json)
-
----
-
-### Presidential Scholarship Awards to commence at district level from July 12
-
-*2024-07-07 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100360/presidential-scholarship-awards-to-commence-at-district-level-from-july-12) · `en`
-
-President’s Fund scholarship program for students from low-income families, spanning from grade 1 to grade 11 and G.C.E. (A/L), will be implemented at the district level starting from July 12, 2024.
-
-District secretaries, in collaboration with all zonal education offices and school principals, will oversee the scholarship distribution process, the PMD said.
-
-Details regarding the dates, times and venues for scholarship awards in each district, as well as the list of selected scholarship recipients, will be announced. This information will be published on the official Facebook page of the President’s Fund in the coming days.
-
-...
-
-[Data](articles/6b161db1.json)
-
-[Extended Data](ext_articles/6b161db1.ext.json)
 
 ---

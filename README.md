@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 18:25:24**
+As of **2024-07-08 18:36:59**
 
 ## Newspaper Stats
 
-*Scraped **34,248** Articles*
+*Scraped **34,250** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,021
 dailyftlk | 2,130
-adalk | 3,068
+adalk | 3,070
 adaderanalk | 3,927
 tamilmirrorlk | 4,069
 dailymirrorlk | 4,733
@@ -26,11 +26,43 @@ adaderanasinhalalk | 5,700
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,236 (100.0%) of 34,248 articles have been extended.
+34,248 (100.0%) of 34,250 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### හිරන්ති අත්අඩංගුවට
+
+*2024-07-08 18:15:40* · [`adalk`](https://www.ada.lk/breaking_news/හිරන්ති-අත්අඩංගුවට/11-410670) · `si`
+
+ඇමරිකා එක්සත් ජනපදයේ රැකියා ලබාදෙන බව පවසමින් මුදල් වංචා කළ කාන්තාවක් ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් ඊයේ දින (7/7) වවුනියාව ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+සිය නැගණිය මාර්ගයෙන් ඇමරිකාවේ රැකියා ලබාදිය හැකි යැයි පවසා වවුනියාව, බෝගස්වැව ප්‍රදේශයේ පදිංචි කාන්තාවක් තමන්ගෙන් රුපියල් ලක්ෂ 10ක මුදලක් ලබාගෙන පොරොන්දු වූ පරිදි රැකියාව ලබානොදුන් බවට, ගම්පහ ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු විසින් පසුගියදා කාර්යාංශයේ විශේෂ විමර්ශන අංශයට පැමිණිල්ලක් ඉදිරිපත් කළේය. ඒ අනුව කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් අදාල කාන්තාවට එරෙහිව කොළඹ අලුත්කඩේ අධිකරණයට කරුණු වාර්තාකර නඩු පවරන ලදී.
+
+සැකකාරියට එරෙහිව පැමිණිලි 5ක් කාර්යාංශය වෙත ලැබී ඇති අතර, ඒ අනුව ක්‍රියාත්මක වූ විමර්ශන නිළධාරීන් විසින් මෙම කාන්තාවගේ නිවසට ගොස් අත්අඩංගුවට ගැනීම සිදුකර තිබේ. ඇයගෙන්  සිදුකළ ප්‍රශ්න කිරිමේදී ඇය දිවයිනේ ප්‍රසිද්ධ රක්ෂණ සමාගමක මැදවච්චිය ශාඛාවේ කළමනාකාරිනිය ලෙස සේවය කරන බව අනාවරණය විය.
+
+...
+
+[Data](articles/e9b67213.json)
+
+---
+
+### ජනපතිවරයාගේ ධුර කාලය අවුරුදු 5යි - ශ්‍රේෂ්ඨාධිකරණයෙන් තීන්දුවක්
+
+*2024-07-08 18:11:07* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරයාගේ-ධුර-කාලය-අවුරුදු-5යි---ශ්‍රේෂ්ඨාධිකරණයෙන්-තීන්දුවක්/11-410669) · `si`
+
+ව්‍යවස්ථාව අනුව ජනාධිපතිවරයාගේ ධුරකාලය වසර 05 ක් බව ස`ඳහන් කළ ශ්‍රේෂ්ඨාධිකරණය ජනාධිපතිවරයාගේ ධූර කාලය අවසන් වන දිනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ අර්ථ නිරූපනයක් දෙනතුරු ජනාධිපතිවරණය පැවැත්වීමෙන් මැතිවරණ කොමිසම වළකාලන නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ව්‍යවසායකයෙකු ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම විභාගයට නොගෙනම ඊයේ (08) නිශ්ප්‍රභ කළේය.
+
+ජනාධිපතිවරයාගේ ධුරකාලය සම්බන්ධයෙන් පැහැදිලි තීන්දුවක් දී තිබියදී අධිකරණය නොමග යන ආකාරයට කටයුතු කිරීම වැරදි සහගත ක්‍රියාවක් මෙන්ම අධිකරණයේ කාලය නාස්ති කිරීමක් බවද පෙන්වා දුන් ශ්‍රේෂ්ඨාධිකරණය ව්‍යවසායකයෙකු බව කියන චමින්ද්‍ර ලේනව මහතාගේ ක්‍රියා කලාපය  දැඩි  දෝෂ දර්ශනයට ලක් කරමින් රුපියල් ලක්ෂයක නඩු ගාස්තුවකට ඔහු යටත් කළේය.
+
+අගවිනිසුරු ජයන්ත ජයසුරිය ශ්‍රේෂ්ඨාධිකරණ විනිසුරුන් වන විජිත් මලල්ගොඩ, මුර්දු ප්‍රනාන්දු, ප්‍රීතී පද්මන් සුරසේන සහ එස්. තුරේරාජා මහත්වරුන් සැදුම්ලත් පංච පුද්ගල විනිසුරු මඩුල්ලක් හමුවේ පෙත්සම කැඳවනු ලැබීය.
+
+...
+
+[Data](articles/732127ad.json)
+
+---
 
 ### Landslides kill 12 on Indonesia’s Sulawesi island, 18 missing
 
@@ -142,6 +174,8 @@ The new amendment that will be presented in the parliament on Tuesday (09) will 
 
 [Data](articles/0e111f92.json)
 
+[Extended Data](ext_articles/0e111f92.ext.json)
+
 ---
 
 ### Sri Lanka public transport to get e-ticketing by end-2024: Official
@@ -164,6 +198,8 @@ Gunawardana said that there was opposition from transportation workers with some
 
 [Data](articles/d5087c03.json)
 
+[Extended Data](ext_articles/d5087c03.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes stronger at 304.35/50 to US dollar
@@ -179,6 +215,8 @@ A bond maturing on 15.09.2029 closed at 11.98/12.08 percent from 11.95/12.05 per
 ◼️
 
 [Data](articles/3a126486.json)
+
+[Extended Data](ext_articles/3a126486.ext.json)
 
 ---
 
@@ -247,6 +285,8 @@ Most banking stocks closed down in the day. Commercial Bank of Ceylon Plc closed
 ...
 
 [Data](articles/03d6596f.json)
+
+[Extended Data](ext_articles/03d6596f.ext.json)
 
 ---
 
@@ -329,6 +369,8 @@ An expression of interest for Litro Gas drew 14 bidders. (Colombo/July08/2024)
 ◼️
 
 [Data](articles/91cda226.json)
+
+[Extended Data](ext_articles/91cda226.ext.json)
 
 ---
 
@@ -492,6 +534,8 @@ Last week, President Ranil Wickremesinghe said he believes the president’s ter
 
 [Data](articles/a07dbab4.json)
 
+[Extended Data](ext_articles/a07dbab4.ext.json)
+
 ---
 
 ### The car is found the car
@@ -652,6 +696,8 @@ Speaking at the funeral of former opposition leader and leader of the Tamil Nati
 
 [Data](articles/a1069641.json)
 
+[Extended Data](ext_articles/a1069641.ext.json)
+
 ---
 
 ### Sri Lanka Pediatricians urge caution on reporting traumatic incidents related to children
@@ -669,6 +715,8 @@ Ensuing media coverage of the incident included CCTV footage, photos and unsubst
 ◼️
 
 [Data](articles/036bd8b7.json)
+
+[Extended Data](ext_articles/036bd8b7.ext.json)
 
 ---
 
@@ -888,6 +936,8 @@ He made this remark at the funeral of former opposition leader and leader of the
 
 [Data](articles/c62c4a54.json)
 
+[Extended Data](ext_articles/c62c4a54.ext.json)
+
 ---
 
 ### Sri Lanka central bank extends deadline for updating depositor unique identification number
@@ -905,6 +955,8 @@ Failure to record the specified unique identification number, or the use of alte
 ◼️
 
 [Data](articles/eb761c23.json)
+
+[Extended Data](ext_articles/eb761c23.ext.json)
 
 ---
 
@@ -1059,6 +1111,8 @@ The project aims at equipping 200 schools in the Province with necessary digital
 ...
 
 [Data](articles/d07ef341.json)
+
+[Extended Data](ext_articles/d07ef341.ext.json)
 
 ---
 
@@ -1310,17 +1364,23 @@ The South Asian Movement for Accessing Justice (SAMAJ) is advocating for “comp
 
 ---
 
-### වන අලි පහරදීමෙන් දෙදෙනෙක් මරුට
+### Two killed in elephant elephant
 
 *2024-07-08 10:46:59* · [`adalk`](https://www.ada.lk/breaking_news/වන-අලි-පහරදීමෙන්-දෙදෙනෙක්-මරුට/11-410662) · `si`
 
-ඇතිමලේ පොලිස් වසමේ හත්ආර ප්‍රදේශයේදී සහ ගෝනගංආර කුඹුක්කන්ඔය අසලදී ඉකුත් (06) සහ (07) දින වලදී වනඅලීන් පහරදීමෙන් ගොවීන් දෙදෙනෙකු මියගොස් ඇතැයි පොලීසිය පවසයි.
+Two farmers died in an elephant attack near Gonaganka Oya, owned by Kumbukore Police. The victims, both from Kumbukoya, included a 61-year-old man named PHK Gunaratne, a father of two.
 
-ඇතිමලේ හත්ආර රක්ෂිතය හරහා තම හේනට තවත් අයෙකු සමඟ යමින් සිටි දොඹගහවෙල මහායාය පදිංචි වසන්ත සුමනසේකර (42) නැමති දෙදරු පියෙකු සහ ගෝනගංආර පොලිස් වසමට අයත් කුඹුක්කන්ඔය ඉවුරේ දියනා ගොඩටආ 61 හැවිරිදි ඔක්කම්පිටිය මිණිපුරගම පදිංචි තිදරු පියෙකු වන පී.එච්.කේ ගුණරත්න යන දෙදෙනා වනඅලින් විසින් පහරදීමෙන් මෙලෙස මියගොස් ඇත.
+🟩
+
+Two farmers were killed after the attack on the Ven.
+
+PHK Gunaratne, a father of two residents of the Gonaganka Oya, Diyanagasaka, owned by Kumbukore Police, and the Kumbukoya Police Division of the Gonagangara Police Division is a 61 year old resident of the Kumbukoya PoliceThe deceased has been identified.
 
 ◼️
 
 [Data](articles/2493ac2f.json)
+
+[Extended Data](ext_articles/2493ac2f.ext.json)
 
 ---
 
@@ -2163,43 +2223,5 @@ The Presidential election is scheduled to take place between 17 September and 16
 [Data](articles/9f0917d3.json)
 
 [Extended Data](ext_articles/9f0917d3.ext.json)
-
----
-
-### Public sector trade unions threaten walk out
-
-*2024-07-08 02:33:18* · [`dailyftlk`](https://www.ft.lk/news/Public-sector-trade-unions-threaten-walk-out/56-763980) · `en`
-
-Over 200 public sector trade unions, including Grama Niladhari officers and surveyors, will engage in a two-day strike by reporting ‘sick’ today and tomorrow.
-
-In addition, teachers and principals will join the strike by reporting ‘sick’ tomorrow.
-
-These trade unions are taking action based on several demands, including receiving a stipend of Rs. 25,000 regardless of service grade.
-
-According to trade unions, due to the economic pressure caused by the increase in the cost of living and the tax burden, the allowance has been increased to Rs. 25,000 but is currently limited to officers in the executive service of the public sector.
-
-◼️
-
-[Data](articles/954382a1.json)
-
-[Extended Data](ext_articles/954382a1.ext.json)
-
----
-
-### Selvarajah Kajendran takes helm of TNPF
-
-*2024-07-08 02:32:51* · [`dailyftlk`](https://www.ft.lk/news/Selvarajah-Kajendran-takes-helm-of-TNPF/56-763979) · `en`
-
-In a temporary leadership shift within the Tamil National People’s Front (TNPF), General Secretary Selvarajah Kajendran has assumed the leadership and administrative responsibilities of the political party headed by MP Gajendrakumar Ponnambalam. According to sources, this move follows the departure of Ponnambalam, who is currently undergoing medical treatment abroad.
-
-Due to a health concern, Ponnambalam has been unable to attend Parliamentary sessions in recent times. Consequently, he recently requested and was granted a three-month leave from parliamentary duties, starting 2 July, as proposed by chief Opposition whip Lakshman Kiriella.
-
-A party spokesperson said that while Ponnambalam is receiving treatment in Australia, the party’s political activities will continue undisturbed under the temporary leadership of Kajendran.
-
-...
-
-[Data](articles/d547e5a0.json)
-
-[Extended Data](ext_articles/d547e5a0.ext.json)
 
 ---

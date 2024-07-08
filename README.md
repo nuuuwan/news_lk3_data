@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 23:54:56**
+As of **2024-07-09 00:07:40**
 
 ## Newspaper Stats
 
-*Scraped **34,281** Articles*
+*Scraped **34,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,52 +19,66 @@ adalk | 3,077
 adaderanalk | 3,931
 tamilmirrorlk | 4,075
 dailymirrorlk | 4,733
-virakesarilk | 5,357
+virakesarilk | 5,359
 adaderanasinhalalk | 5,704
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,277 (100.0%) of 34,281 articles have been extended.
+34,281 (100.0%) of 34,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### கொழும்புக்கு படையெடுக்கும் தொழிலாளர்கள் ; நாளை பாரிய போராட்டம்
+### Workers invading Colombo;Tomorrow's massive struggle
 
 *2024-07-08 23:15:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கொழும்புக்கு-படையெடுக்கும்-தொழிலாளர்கள்-நாளை-பாரிய-போராட்டம்/76-340064) · `ta`
 
-1,700 ரூபாய் சம்பள உயர்வு கோரி கொழும்பு - பம்பலப்பிட்டி நோக்கி படையெடுக்கும் தோட்டத் தொழிலாளர்கள் பாரிய போராட்டம் ஒன்றை அங்கு நடத்தவுள்ளனர்.
+Plantation workers plan a major protest in Colombo-Bambalapitiya tomorrow, demanding a Rs 1,700 salary hike. The event starts at 10 am near the Plantation Department's Association HQ, organized by the Ceylon Workers Congress. Expecting participation from various plantation workers and committees from the Nuwara Eliya district.
 
-இந்த போராட்டம் பம்பலப்பிட்டியில் அமைந்துள்ள பெருந்தோட்ட துறைமார் சங்கத்தின் தலைமை காரியாலயத்திற்கு முன் செவ்வாய் கிழமை காலை 10 மணிக்கு இடம்பெறவுள்ளது.
+🟩
 
-இதற்கான ஏற்பாடுகளை இலங்கை தொழிலாளர் காங்கிரஸ் ஒழுங்கு செய்துள்ளதாக காங்கிரஸின் தோட்ட கமிட்டி தலைவர்கள் தெரிவித்தனர்.
+The plantation workers invading the Colombo -Bambalapitiya will hold a massive protest demanding a salary increase of Rs 1,700.
 
-அதேநேரத்தில் இந்த போராட்டம் 1,700 ரூபாய் சம்பள உயர்வு தொடர்பில் பெருந்தோட்ட துறைமார் சங்கத்திற்கு அழுத்தம் கொடுக்கும் வகையில் இடம்பெறவுள்ளதாக தெரிவிக்கப்படுகிறது.
+The protest will take place at 10 am on Tuesday in front of the Plantation Department's Association headquarters in Bambalapitiya.
 
-அதே சமயத்தில் இந்த போராட்டத்தில் நுவரெலியா மாவட்டத்தை சேர்ந்த தோட்டத் தொழிலாளர்கள், தோட்ட கமிட்டிகள் என பலரும் கலந்து கொண்டு முன்னெடுக்கவுள்ளமை குறிப்பிடத்தக்கது. R
+The Congress plantation committee leaders said that the Ceylon Workers Congress had organized the arrangements.
+
+At the same time, the protest is expected to be pressed to the Plantation Sector Association regarding a salary increase of Rs 1,700.
+
+At the same time, the struggle will be carried out by many plantation workers and plantation committees from Nuwara Eliya district.. Remble
 
 ◼️
 
 [Data](articles/232c1df6.json)
 
+[Extended Data](ext_articles/232c1df6.ext.json)
+
 ---
 
-### சாவகச்சேரி வைத்தியசாலை விவகாரம் ; டக்ளஸ் வெளியிட்ட செய்தி
+### Chavakachcheri Hospital affair;Douglas published the news
 
 *2024-07-08 23:09:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சாவகச்சேரி-வைத்தியசாலை-விவகாரம்-டக்ளஸ்-வெளியிட்ட-செய்தி/71-340063) · `ta`
 
-சாவகச்சேரி வைத்தியசாலை விவகாரம் தொடர்பில் முன்னெடுக்கப்படும் நடவடிக்கைகள்,  மக்களின் எதிர்பார்ப்புகளை நிறைவேற்றும் வகையில் அமையும் என்று அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்துள்ளார்.
+Minister Douglas Devananda discussed the Chavakachcheri Hospital issue, emphasizing actions aligned with public expectations. He mentioned a committee's appointment to address hospital defects and allegations against Dr. Archana, alongside efforts to improve the hospital environment.
 
-குறித்த விடயம் தொடர்பாக சுகாதார அமைச்சர் ரமேஸ் பத்திரன மற்றும் வடக்கு மாகாண ஆளுநர் திருமதி பி.எம்.எஸ்.சார்ளஸ்  ஆகியோருடான கலந்துரையாடலில் இதனை வெளிப்படுத்தினார்.
+🟩
 
-மேலும், சாவகச்சேரி ஆதார வைத்தியசாலையில் சுமூகமான சூழலை ஏற்படுத்துவதற்கு,  குறித்த வைத்தியசாலையின் பதில் வைத்திய அத்தியட்சகராக நியமிக்கப்பட்டுள்ள வைத்தியர் அர்ச்சுனா இராமநாதனுக்கு  விடுமுறையில் வழங்குவதுடன், பணிப் புறக்கணிப்பில் ஈடுபட்டுள்ள வைத்தியர்களை மீளவும் கடமைக்கு திரும்பச் செய்து வைத்தியசாலையின் செயற்பாடுகளை முதற் கட்டமாக ஆரம்பிக்கப்பட்டது.
+Minister Douglas Devananda has said that steps to be taken on the Chavakachcheri Hospital issue will be met with the expectations of the people.
 
-...
+He was speaking at a discussion with Health Minister Rames Pathirana and Governor of the Northern Province Mrs. PMS Charles.
+
+In addition, the hospital's response to the hospital's response to the hospital's response to the hospital was given on vacation to create a smooth environment at the Chavakachcheri Resource Hospital and returned to the doctors who have been involved in the work boycott.
+
+Subsequently, Minister Douglas Devananda said that the appointment of a committee was appointed and the defects in the hospital, the reason why they were not rejected, and the allegations leveled at the doctor's archana.. Remble
+
+◼️
 
 [Data](articles/adebc555.json)
+
+[Extended Data](ext_articles/adebc555.ext.json)
 
 ---
 
@@ -544,6 +558,8 @@ An official at the Indian High Commission acknowledged that the government’s c
 
 [Data](articles/8cf29dd2.json)
 
+[Extended Data](ext_articles/8cf29dd2.ext.json)
+
 ---
 
 ### Attempts in democracy have been thwarted - Harshana Rajakaruna
@@ -567,6 +583,38 @@ In the local government elections, they followed the same technique. The Secreta
 [Data](articles/686bc7fa.json)
 
 [Extended Data](ext_articles/686bc7fa.ext.json)
+
+---
+
+### உத்தேச உண்மை, ஒற்றுமை, நல்லிணக்க ஆணைக்குழு சட்டமூலம் தேர்தல்களுக்கு முன் பாராளுமன்றில் சமர்ப்பிக்கப்படும் சாத்தியம்
+
+*2024-07-08 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187982) · `ta`
+
+உத்தேச உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலத்தை எதிர்வரும் ஓகஸ்ட் - செப்டெம்பர் மாதமளவில், தேர்தல்களுக்கு முன்பதாக பாராளுமன்றத்தில் சமர்ப்பிப்பதற்கு உண்மை மற்றும் நல்லிணக்கப் பொறிமுறையின் இடைக்கால செயலகம் உத்தேசித்திருப்பதாக நம்பத்தகுந்த வட்டாரங்கள் மூலம் அறியமுடிகிறது.
+
+நாட்டில் உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழுவை ஸ்தாபிக்கும் பணிகள் அரசாங்கத்தினால் தீவிரமாக முன்னெடுக்கப்பட்டுவரும் நிலையில், அதற்குரிய பூர்வாங்க நடவடிக்கைகளை ஒருங்கிணைக்கும் விதமாக கலாநிதி அசங்க குணவன்ச தலைமையில் இயங்கிவரும் உண்மை மற்றும் நல்லிணக்கப் பொறிமுறையின் இடைக்கால செயலக அதிகாரிகள் கடந்த காலங்களில் வட, கிழக்கு உள்ளடங்கலாக நாட்டின் பல்வேறு பாகங்களுக்கும் விஜயம் மேற்கொண்டு பலதரப்பட்ட சந்திப்புக்களை நடத்தியிருந்தனர்.
+
+அதுமாத்திரமன்றி தெற்கில், குறிப்பாக கொழும்பைத் தளமாகக் கொண்டு இயங்கி வரும் சிவில் சமூக அமைப்புக்களின் பிரதிநிதிகள் மற்றும் புத்திஜீவிகளை சந்தித்து உத்தேச உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலம் தொடர்பில் கலந்துரையாடல்களை முன்னெடுத்திருந்தனர்.
+
+...
+
+[Data](articles/91201cba.json)
+
+---
+
+### காணாமல்போனோர் பற்றிய அலுவலக செயற்பாடுகளை விரைவுபடுத்தும் நோக்கில் ஜனாதிபதி செயலாளர் தலைமையில் விசேட செயலணி
+
+*2024-07-08 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/187986) · `ta`
+
+காணாமல்போனோர் பற்றிய அலுவலகத்தின் செயற்பாடுகளை விரைவுபடுத்தவும், அதற்கு அவசியமான ஒத்துழைப்புக்களை வழங்கவுமென ஜனாதிபதி செயலாளர் தலைமையில் விசேட செயலணியொன்று ஸ்தாபிக்கப்பட்டுள்ளது.
+
+இச்செயலணியில் முக்கிய அரச நிறுவனங்களும், சர்வதேச செஞ்சிலுவை சங்கம் உள்ளிட்ட அரச சார்பற்ற கட்டமைப்புக்களும் உள்ளடங்குவதாக காணாமல்போனோர் பற்றிய அலுவலகத்தின் பிரதம நிறைவேற்று அதிகாரி சட்டத்தரணி ஜெகநாதன் தற்பரன் தெரிவித்தார்.
+
+காணாமல்போனோர் பற்றிய அலுவலகத்துக்கு அளிக்கப்பட்டுள்ள ஆணையை இலகுபடுத்தல், அதன் செயற்பாடுகளை விரைவுபடுத்தல் மற்றும் உரிய நடவடிக்கைகளை முன்னெடுப்பதற்கு அவசியமான ஒத்துழைப்புக்களை வழங்கல் உள்ளிட்ட பணிகளே இச்செயலணியின் ஊடாக மேற்கொள்ளப்படும் எனவும் அவர் விளக்கமளித்தார்.
+
+...
+
+[Data](articles/eb9e4275.json)
 
 ---
 
@@ -723,6 +771,8 @@ Madam Blavatsky’s name is not strange for Sri Lankans as one of the early stal
 ...
 
 [Data](articles/9cac620b.json)
+
+[Extended Data](ext_articles/9cac620b.ext.json)
 
 ---
 
@@ -2239,49 +2289,5 @@ Over the past 9 months, a large number of Hamas administration has died due to I
 [Data](articles/efa2b545.json)
 
 [Extended Data](ext_articles/efa2b545.ext.json)
-
----
-
-### Muturapura's youth wife arrested for graphics' murder
-
-*2024-07-08 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198593) · `si`
-
-In Muturapura, a young wife was arrested for allegedly murdering her husband through graphic means. Meanwhile, in Ulapa, an elderly woman was attacked with a sharp object. The victim, aged 78, lived with her grandson, his family, and faced a domestic dispute leading to her death. It was discovered that the suspect wasn't present during the incident.
-
-🟩
-
-An elderly woman was assaulted by a sharp object in Ulapa, Ulapa area.
-
-The 78-year-old was a 78-year-old old woman in Uluka.
-
-The victim was living in the same house with her grandson, his wife and two children.
-
-Police investigations have revealed that the murder had committed the murder due to a dispute at home.
-
-It is later revealed that the man was not home at the time.
-
-◼️
-
-[Data](articles/1ae095a1.json)
-
-[Extended Data](ext_articles/1ae095a1.ext.json)
-
----
-
-### Indian PM Modi makes first visit to ally Russia since start of Ukraine war
-
-*2024-07-08 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100365/indian-pm-modi-makes-first-visit-to-ally-russia-since-start-of-ukraine-war) · `en`
-
-India’s prime minister begins a two-day visit to Russia on Monday, his first since Moscow launched its invasion of Ukraine, a war that has complicated the relationship between the longtime allies and pushed Russia closer to India’s rival China.
-
-Prime Minister Narendra Modi’s visit will include a meeting with President Vladimir Putin, whom he last saw in Russia in 2019, in the far eastern port of Vladivostok. The two leaders also met in person in September 2022 in Uzbekistan, at a summit of the Shanghai Cooperation Organization bloc.
-
-Russia has had strong ties with India since the Cold War, and New Delhi’s importance as a key trading partner for Moscow has grown since the Kremlin sent troops into Ukraine in February 2022. China and India have become key buyers of Russian oil following sanctions imposed by the United States and its allies that shut most Western markets off to Russian exports.
-
-...
-
-[Data](articles/f21ebdb2.json)
-
-[Extended Data](ext_articles/f21ebdb2.ext.json)
 
 ---

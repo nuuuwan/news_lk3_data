@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 13:04:56**
+As of **2024-07-08 13:19:50**
 
 ## Newspaper Stats
 
-*Scraped **34,208** Articles*
+*Scraped **34,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,010
 dailyftlk | 2,130
-adalk | 3,060
+adalk | 3,061
 adaderanalk | 3,921
-tamilmirrorlk | 4,066
+tamilmirrorlk | 4,067
 dailymirrorlk | 4,733
 virakesarilk | 5,350
 adaderanasinhalalk | 5,690
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,206 (100.0%) of 34,208 articles have been extended.
+34,208 (100.0%) of 34,210 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,26 @@ Accordingly, the verdict in the case will be announced by the Supreme Court at 1
 ◼️
 
 [Data](articles/a0178621.json)
+
+[Extended Data](ext_articles/a0178621.ext.json)
+
+---
+
+### “ ஐ.ம.ச எம்.பிக்கள் இருவர் தாவுவர்”
+
+*2024-07-08 12:40:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-எம்-பிக்கள்-இருவர்-தாவுவர்/175-340035) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் இரண்டு  எம்.பி.க்கள் டொலர்களில் வெகுமதிகளை பெற்று சிறிது நேரத்தில் கட்சியை விட்டு வெளியேறுவார்கள் என்று ஐக்கிய மக்கள் சக்தியின்  எம்.பி ஒருவர் இன்று (08)  தெரிவித்தார்.
+
+கம்பஹா மாவட்டத்தைச் சேர்ந்த எம்.பி ஒருவரும் களுத்துறை மாவட்டத்தைச் சேர்ந்த மற்றொருவரும் விரைவில் அரசாங்கத்துக்குச் செல்வார்கள் என ஐக்கிய மக்கள் சக்தியின்  பாராளுமன்ற உறுப்பினர் ஹர்ஷன ராஜகருணா   தெரிவித்தார்.
+
+"இந்த அரசியல் விபச்சாரிகள் அமெரிக்க டொலர்களில் பண வெகுமதிகள் உட்பட சலுகைகளுக்கு வீழ்ந்துள்ளனர்" என்று பாராளுமன்ற உறுப்பினர் ராஜகருணா கூறினார்.
+
+"நாம் ஒரு சில எம்.பி.க்களை மட்டுமே இழக்கப் போகிறோம், ஆனால் பலர் தங்கள் பதவிகளை விட்டுக்கொடுத்து எதிர்க்கட்சிக்கு செல்ல தயாராக உள்ளனர்," என்று அவர் மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/d37a2370.json)
 
 ---
 
@@ -200,9 +220,9 @@ The announcement states that all government schools will be held tomorrow.
 
 ---
 
-### වෙඩිතැබීමකින් ක්ලබ් වසන්ත මියයි ගායන ශිල්පිනි කේ.සුජීවාට බරපතල තුවාල
+### වෙඩි තැබීමකින් ක්ලබ් වසන්ත මිය යයි ගායන ශිල්පිනි කේ.සුජීවාට බරපතල තුවාල
 
-*2024-07-08 11:42:08* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩිතැබීමකින්-ක්ලබ්-වසන්ත-මියයි-ගායන-ශිල්පිනි-කේ-සුජීවාට-බරපතල-තුවාල/11-410665) · `si`
+*2024-07-08 11:42:08* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-තැබීමකින්-ක්ලබ්-වසන්ත-මිය-යයි-ගායන-ශිල්පිනි-කේ-සුජීවාට-බරපතල-තුවාල/11-410665) · `si`
 
 අතුරුගිරිය, ඔරුවල ප්‍රදේශයේ සිදුකළ වෙඩිතැබීමකින් දෙදෙනෙකු මිය ගොස් හය දෙනෙකු තුවාල ලබා ඇතිබව පොලීසිය පවසයි.
 
@@ -214,7 +234,31 @@ The announcement states that all government schools will be held tomorrow.
 
 ◼️
 
+[Data](articles/21b4fc68.json)
+
+---
+
+### Club Wasantha Dissa Risha Arts
+
+*2024-07-08 11:42:08* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩිතැබීමකින්-ක්ලබ්-වසන්ත-මියයි-ගායන-ශිල්පිනි-කේ-සුජීවාට-බරපතල-තුවාල/11-410665) · `si`
+
+In Athurugiriya, two were fatally shot and six injured during an incident at a business opening. Victims include popular businessman and singer Surendra Wasantha, also known as Club Spring, and another individual treated at Jatick Hospital. The shooters escaped in a car; two victims remain hospitalized.
+
+🟩
+
+Two were killed and six injured in a shot of shooting in Athurugiriya, Athurugala.
+
+Surendra Wasantha alias or Club spring died, a famous businessman who has faced shooting and is a popular singer K. Another person from the Jatick Hospital, police said.
+
+The shooting has taken place at the opening of a business station and the shotters had fled from a car.
+
+Two injured were still receiving treatment at Homagama Hospital
+
+◼️
+
 [Data](articles/39f26348.json)
+
+[Extended Data](ext_articles/39f26348.ext.json)
 
 ---
 
@@ -2191,47 +2235,5 @@ Sri Lanka Tamil National Alliance (TNA) leader Amara Sampanthan's funeral was pl
 [Data](articles/341c9fe0.json)
 
 [Extended Data](ext_articles/341c9fe0.ext.json)
-
----
-
-### Sampanthan joined with fire
-
-*2024-07-07 18:38:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/அக்கினியுடன்-சங்கமமானார்-சம்பந்தன்/75-339990) · `ta`
-
-Rajavarodayam Sammanthan, former TNA leader, was laid to rest in Trincomalee's Hindu Cemetery. Political figures like President Ranil Wickremesinghe and BJP's Annamalai attended his funeral, honoring his legacy alongside local dignitaries and a large crowd.
-
-🟩
-
-Former Opposition Leader and Senior Leader of the Tamil National Alliance (TNA), Rajavarodayam Sammanthan's funeral took place at the Hindu Cemetery in Trincomalee this evening.
-
-Political dignitaries and large people paid tribute to Annar's. President Ranil Wickremesinghe, Bharatiya Janata Party (BJP) leader Annamalai and many others participated in the event.
-
-Amarar Ira, who has expanded the entire city of Trincomalee. The portrait of Samanthan is hung.. Political dignitaries from South Sri Lanka and people from the Northeast of the Northeast were also present.
-
-Arar Ira no. It is also noteworthy that Sambandan was natural.
-
-Finally, the funeral was taken from the Annar's native house and cremated at the Hindu Cemetery in Trincomalee.
-
-Sri Lanka Tamil National Alliance (TNA) leader Amara Sampanthan's funeral was placed at the house of Annar and was taken to the Poothavadal cemetery at 4 pm.
-
-...
-
-[Data](articles/7d317067.json)
-
-[Extended Data](ext_articles/7d317067.ext.json)
-
----
-
-### Rajavarothiam Sampanthan – A Personality Like Few Other
-
-*2024-07-07 18:30:11* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rajavarothiam-sampanthan-a-personality-like-few-other/) · `en`
-
-It was in the destiny of Hon. Sampanthan to be marked out for selection to high office, though young in years. He had hit the radar as early as in 1965 and caught the eye of the Tamil political leader, SJV Chelvanayakam to be chosen for the Trincomalee seat. Being of tender age he was disinclined. When offered a second time in 1970, he declined again. When 1977 general elections were approaching, SJV decided the issue with cryptic words “I have taken no for an answer twice” and clinched the selection in his own favour.
-
-...
-
-[Data](articles/32d8a2cd.json)
-
-[Extended Data](ext_articles/32d8a2cd.ext.json)
 
 ---

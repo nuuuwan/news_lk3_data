@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 09:06:33**
+As of **2024-07-08 09:19:50**
 
 ## Newspaper Stats
 
-*Scraped **34,165** Articles*
+*Scraped **34,167** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,005
 dailyftlk | 2,130
-adalk | 3,054
-adaderanalk | 3,911
+adalk | 3,055
+adaderanalk | 3,912
 tamilmirrorlk | 4,057
 dailymirrorlk | 4,733
 virakesarilk | 5,349
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,164 (100.0%) of 34,165 articles have been extended.
+34,165 (100.0%) of 34,167 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### SC to hear petition seeking to delay Presidential Election today
+
+*2024-07-08 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100362/sc-to-hear-petition-seeking-to-delay-presidential-election-today) · `en`
+
+The petition submitted to the Supreme Court regarding the official term of the President is scheduled to be taken up for consideration today (08).
+
+A five-member Supreme Court bench consisting of Chief Justice Jayantha Jayasuriya, Vijith Malalgoda, Murdu Fernando, Preethi Padman Surasena and S. Thurairaja was named recently to consider the petition.
+
+The petition requests that an interim order be issued to prevent the holding of the presidential election within the currently scheduled period until the court delivers its interpretation on the date of the next presidential election.
+
+The petition was filed by an entrepreneur named C.D. Lenawa last Wednesday (3).
+
+Meanwhile, Rohana Hettiarachchi, executive director of People’s Action for Free and Fair Elections (PAFRAL) organisation, said that if the government tries to postpone the election, strict action will be taken against it before the law.
+
+◼️
+
+[Data](articles/4b50002d.json)
+
+---
 
 ### Prevailing showery conditions to continue in parts of the island
 
@@ -54,17 +74,23 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 ---
 
-### வைத்தியர் அர்ஜூனனுக்கு ஆதரவாக யாழில் போராட்டம் ஆரம்பம்
+### Struggle in Jaffna begins in support of doctor Arjuna
 
 *2024-07-08 08:22:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வைத்தியர்-அர்ஜூனனுக்கு-ஆதரவாக-யாழில்-போராட்டம்-ஆரம்பம்/71-340017) · `ta`
 
-சாவகச்சேரி வைத்தியசாலையின் முன்னேற்றத்தை வலியுறுத்தியும், வைத்திய பணிகளை உடன் வழமைக்கு திரும்ப வலியுறுத்தியும் இந்த போராட்டம் நடாத்தப்படுகின்றது.
+In Jaffna, a movement supports Dr. Arjuna, focusing on improving Chavakachcheri Hospital and reinstating medical services. Public unity was seen as the hospital's response to the dismissal and arrest of its medical superintendent was rejected.
 
-சாவகச்சேரி வைத்தியசாலையின் பதில் வைத்திய அத்தியட்சகரை பதவி நீக்கம் செய்து, கைது செய்ய முயற்சிப்பதாக நேற்றிரவு வெளியான தகவலை அடுத்து, பொதுமக்கள் வைத்தியசாலை வளாகத்தில் கூடிய நிலையில், நேற்று நள்ளிரவு அங்கு அமைதியின்மை ஏற்பட்டது.
+🟩
+
+The struggle is being carried out by emphasizing the progress of the Chavakachcheri Hospital and the return of the medical work.
+
+The public was united at the hospital premises last night following reports that the Chavakachcheri Hospital's reply to the dismissal of the medical superintendent was dismissed and arrested.
 
 ◼️
 
 [Data](articles/4221f482.json)
+
+[Extended Data](ext_articles/4221f482.ext.json)
 
 ---
 
@@ -1151,6 +1177,22 @@ Accordingly, the gazette notification has made these services the essential serv
 [Data](articles/9a49b87d.json)
 
 [Extended Data](ext_articles/9a49b87d.ext.json)
+
+---
+
+### පුහුණුකරු ධුරය තාවකාලිකව සනත්ට
+
+*2024-07-07 18:49:38* · [`adalk`](https://www.ada.lk/sports/පුහුණුකරු-ධුරය-තාවකාලිකව-සනත්ට/9-410653) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ධුරය තාවකාලිකව හිටපු සුපිරි ක්‍රිකට් ක්‍රීඩක සනත් ජයසූරිය වෙත ලබා දීමට ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පියවර ගෙන ඇති බව Tha Sunday Times පුවත්පත වාර්තා කරයි.
+
+ශ්‍රී ලංකා කණ්ඩායමේ හිටපු ප්‍රධාන පුහුණුකරු ක්‍රිස් සිල්වර්වුඩ් පසුගියදා ඉල්ලා අස්වීමෙන් පසු හිස්වූ මෙම තනතුරට ස්ථිර පුහුණුකරුවෙකු පත්කර ගන්නාතුරු මෙම පත්කිරීම සිදුකර ඇති බව වාර්තා වේ. සනත් පසුගිය වර්ෂය අවසානයේදී ශ්‍ර්‍රී ලංකා කණ්ඩායමේ උපදේශක පුහුණුකරුවකු ලෙස පත් වූ අතර ඔහු අධිදක්ෂතා කළමනාකරණ මධ්‍යස්ථානය (High performance center) භාරව කටයුතු කලේය. පසුව ඔහු මෙවර විස්සයි20 ලෝක කුසලානයේදී ශ්‍රී ලංකා කණ්ඩායමේ උපදේශක පුහුණුකරුවෙකු ලෙසින් එක්විය.
+
+සනත් අතුරු ප්‍රධාන පුහුණුකරු ලෙස පලමු තරගාවලිය වන්නේ සංචාරක ඉන්දීය කණ්ඩායම සමගින් පැවැත්වෙන එක්දින තරග 3 කින් හා විස්සයි20 තරග තුනකින් යුත් තරගාවලියයි. එය මෙම ජූලි මසදී ආරම්භ වීමට නියමිතය. අනතුරුව එංගලන්තය සමගින් එලඹෙන අගෝස්තු-සැප්තැම්බර් මසදී පැවැත්වෙන ටෙස්ට් තරගාවලිය ඔහු පුහුණුකාරීත්වය දරණ පළමු විදෙස් තරග සංචාරය වනුඇත.
+
+◼️
+
+[Data](articles/c03ac600.json)
 
 ---
 
@@ -2255,55 +2297,5 @@ John Sena said his final resolving match in the relief tournament that he was lo
 [Data](articles/66345a5e.json)
 
 [Extended Data](ext_articles/66345a5e.ext.json)
-
----
-
-### Are the radicals to seize the regime?Election voting in France
-
-*2024-07-07 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/187897) · `ta`
-
-France's election sees high voter turnout, with the radical RN party expected to gain the most seats, potentially leading to a hung parliament and impacting President Macron's power. Despite concerns about extremist influence post-WWII, political unity aims to prevent such an outcome.
-
-🟩
-
-The people of France have begun voting in the election, which is expected to win a historic success.
-
-The voting has begun with polls that the party will not get a majority, but the radicalist party, the RN, will win the most seats.
-
-If no party has a majority in the election, the Hanging Parliament in France may be formed ahead of the Olympic Games, and the power of President Emanuel Micron may be greatly affected.
-
-Following the winning of Marine Leben's RL, after the winning vote last Sunday, there was fears of the ruling of extremists in France after World War II.
-
-However, political parties, including the Left, have joined hands to avoid this situation.
-
-Polls suggest that the extremists will capture more seats but 289 seats for the majority will not be available.
-
-◼️
-
-[Data](articles/f21c5c62.json)
-
-[Extended Data](ext_articles/f21c5c62.ext.json)
-
----
-
-### Seven people killed
-
-*2024-07-07 13:11:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மாடி-கட்டடம்-இடிந்து-வீழ்ந்து-7-பேர்-பலி/175-339977) · `ta`
-
-A six-story building in Surat, Gujarat, India, collapsed due to bad weather, killing seven and injuring 15 who are now hospitalized.
-
-🟩
-
-A 6 -storey building in Surat has collapsed following the inclement weather in Surat, Gujarat, India.
-
-Indian media reported that up to 7 people were killed in the accident.
-
-In addition, 15 people have been admitted to the hospital for treatment.. (A)
-
-◼️
-
-[Data](articles/a0e15b2c.json)
-
-[Extended Data](ext_articles/a0e15b2c.ext.json)
 
 ---

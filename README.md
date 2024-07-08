@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 07:27:26**
+As of **2024-07-08 07:48:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,677
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,153 (100.0%) of 34,154 articles have been extended.
+34,154 (100.0%) of 34,154 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1129,6 +1129,8 @@ Dr. W A Wijewardena, a highly esteemed individual, has recently completed his 75
 ...
 
 [Data](articles/b8aecf3c.json)
+
+[Extended Data](ext_articles/b8aecf3c.ext.json)
 
 ---
 

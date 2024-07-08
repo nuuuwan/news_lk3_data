@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 12:08:51**
+As of **2024-07-08 12:19:56**
 
 ## Newspaper Stats
 
-*Scraped **34,190** Articles*
+*Scraped **34,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 316
 bbccomsinhala | 334
 newsfirstlk | 363
 islandlk | 1,925
-economynextcom | 2,005
+economynextcom | 2,010
 dailyftlk | 2,130
 adalk | 3,058
 adaderanalk | 3,919
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,686
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,185 (100.0%) of 34,190 articles have been extended.
+34,190 (100.0%) of 34,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### 11 பிரதேச செயலகங்களுக்கு மண்சரிவு எச்சரிக்கை
+### 11 Divisional Secretariats
 
 *2024-07-08 11:32:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/11-பிரதேச-செயலகங்களுக்கு-மண்சரிவு-எச்சரிக்கை/175-340027) · `ta`
 
-களுத்துறை மற்றும் இரத்தினபுரி மாவட்டங்களில் உள்ள 11 பிரதேச செயலகங்களுக்கு விடுக்கப்பட்ட மண்சரிவு எச்சரிக்கை திங்கட்கிழமை (08) பிற்பகல் வரை அமுலில் இருக்கும் என தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது.
+A landslide warning for 11 Divisional Secretariats in Kalutara and Ratnapura districts will be active from Monday afternoon due to heavy rains. The areas affected include Ingiriya Pulathsingha, Matugama, Balindanuwara, Ratnapura, Kuruvita, Kiriella, Ayyagama, Alabatha, and Ehaliyagoda.
 
-நாட்டின் சில பகுதிகளில் பெய்து வரும் கடும் மழை காரணமாக இந்த எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+🟩
 
-இதன்படி, களுத்துறை மாவட்டத்தின் இங்கிரிய புலத்சிங்கள, மத்துகம, பாலிந்தநுவர ஆகிய பிரதேச செயலகப் பிரிவுகளுக்கும் இரத்தினபுரி மாவட்டத்தின் இரத்தினபுரி, கலவான, குருவிட்ட, கிரியெல்ல, அயகம, அலபாத்த, எஹலியகொட ஆகிய பிரதேச செயலகப் பிரிவுகளுக்கும் மண்சரிவு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+The landslide warning issued to 11 Divisional Secretariats in the Kalutara and Ratnapura districts will be in effect on Monday (08) afternoon, the National Building Research Institute said.
+
+The warning has been issued due to heavy rains in some parts of the country.
+
+Accordingly, the landslide warning has been issued to the Ingiriya Pulathsingha, Matugama and Balindanuwara Divisional Secretariat Divisions of the Kalutara District and the Divisional Secretariat of the Ratnapura District, Ratnapura, Kuruvita, Kiriella, Ayyagama, Alabatha and Ehaliyagoda.
 
 ◼️
 
 [Data](articles/75db2f9e.json)
+
+[Extended Data](ext_articles/75db2f9e.ext.json)
 
 ---
 
@@ -66,6 +72,24 @@ A five-member Supreme Court bench, comprising Chief Justice Jayantha Jayasuriya,
 
 [Data](articles/9c8d401b.json)
 
+[Extended Data](ext_articles/9c8d401b.ext.json)
+
+---
+
+### Surprise defeat for far-right in France in Macron’s snap election gambit
+
+*2024-07-08 11:25:00* · [`economynextcom`](https://economynext.com/surprise-defeat-for-far-right-in-france-in-macrons-snap-election-gambit-171206/) · `en`
+
+ECONOMYNEXT — President Emanuel Macron’s gamble in calling a snap poll somewhat paid off after a left-wing alliance secured the highest number of seats in the French parliament, effectively defeating an alliance led by the far-right National Rally.
+
+The Economist reported that Marine Le Pen’s National Rally (RN)-led bloc, which was widely anticipated to top the voting, will now end up in third place, securing 134 to 152 seats. However, this is still a major win for the once-fringe party which only held 88 seats in the outgoing parliament, indicating the mainstreaming of its hard-right ideology.
+
+A left-wing alliance led by Jean-Luc Melenchon is projected to have secured 171-187 seats after what CNN has called tactical voting in Sunday’s second round election. CNN noted that France will be left in political limbo after no party came close to winning an absolute majority.
+
+...
+
+[Data](articles/a7c0dc52.json)
+
 ---
 
 ### One dead, popular singer among several injured in Athurugiriya shooting
@@ -81,6 +105,8 @@ The deceased has been identified as the individual known as “Club Wasantha” 
 ◼️
 
 [Data](articles/2ef977c4.json)
+
+[Extended Data](ext_articles/2ef977c4.ext.json)
 
 ---
 
@@ -98,19 +124,27 @@ The deceased has been identified as Surendra Wasantha Perera also known as “Cl
 
 [Data](articles/c3b51083.json)
 
+[Extended Data](ext_articles/c3b51083.ext.json)
+
 ---
 
-### துப்பாக்கிச் சூட்டில் நால்வர் காயம்
+### Four people injured in shooting
 
 *2024-07-08 11:10:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டில்-நால்வர்-காயம்/175-340025) · `ta`
 
-அத்துருகிரிய ஒருவல  நகரில் சற்று முன்னர் இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் பிரபல பாடகி சுஜீவா உட்பட அறுவர் காயமடைந்துள்ளனர்.
+A shooting in Athurugiriya injured four, including singer Sujeeva and 'Club Vasantha', who later died. Victims were hospitalized in Homagama and Athurugiriya.
 
-காயமடைந்தவர்களில் 'கிளப் வசந்த' என்ற நபர் ஒருவர் உயிரிழந்துள்ளார். துப்பாக்கிச்சூட்டில் காயமடைந்தோர் ஹோமாகம மற்றும் அத்துருகிரிய வைத்தியசாலைகளில் அனுமதிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+The shooting that took place in the city of Athurugiriya, including famous singer Sujeeva, was injured in the shooting incident.
+
+'Club Vasantha' dies of the injured. It is noteworthy that the injured were admitted to the Homagama and Athurugiriya hospitals.
 
 ◼️
 
 [Data](articles/3f92206c.json)
+
+[Extended Data](ext_articles/3f92206c.ext.json)
 
 ---
 
@@ -174,6 +208,24 @@ Late Opposition Leader as well as the Leader of the TNA. President Ranil Wickrem
 
 ---
 
+### South Asian collective urges action on high levels of sexual violence in the region
+
+*2024-07-08 10:47:00* · [`economynextcom`](https://economynext.com/south-asian-collective-urges-action-on-high-levels-of-sexual-violence-in-the-region-171201/) · `en`
+
+ECONOMYNEXT – A coalition of civil society organisations comprising representatives from Bangladesh, India, the Maldives, Nepal, and Sri Lanka is are urging South Asian countries to take immediate action on high levels of sexual violence and low conviction rates.
+
+The South Asian Movement for Accessing Justice (SAMAJ) is advocating for “comprehensive legal reforms to close protection gaps in sexual violence laws, address flaws in criminal justice systems, and invest in holistic support services for survivors.”
+
+“These reforms are crucial to providing women and girls with better protection and ending widespread impunity for perpetrators,” SAMAJ said in a statement.
+
+“Many sexual violence laws in the region suffer from inadequate legal definitions that fail to encompass the full spectrum of sexual violence. Some penal codes contain provisions that discriminate against women and girls, and poor enforcement of laws further contributes to abuses going unpunished.”
+
+...
+
+[Data](articles/1bfac52b.json)
+
+---
+
 ### 78-year-old woman murder by grandson’s wife
 
 *2024-07-08 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100366/78-year-old-woman-murder-by-grandsons-wife) · `en`
@@ -217,6 +269,24 @@ She added that the petition would raise basic objections to refute the petition.
 [Data](articles/c2654e67.json)
 
 [Extended Data](ext_articles/c2654e67.ext.json)
+
+---
+
+### Sri Lanka’s Commercial Bank raises Rs35.9bn through debenture issue
+
+*2024-07-08 10:31:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-raises-rs35-9bn-through-debenture-issue-171195/) · `en`
+
+ECONOMYNEXT – Commercial Bank of Ceylon Plc issued 200 million, Basel III compliant – tier 2 listed rated unsecured subordinated redeemable debentures at 100 rupees each.
+
+The goal was to raise 10 billion rupees in an initial issue of 100 million debentures, with an option to issue a second tranche of 50 million debentures to raise a further 5 billion, and another 50 million debentures to raise a further 5 billion, at the bank’s discretion, in the event of an oversubscription, the bank said.
+
+The bank received 35,985,150,000 rupees in total, it said in a stock exchange filing.
+
+Commercial Bank voting shares were trading flat at 103.50, while non-voting shares were down at 85.00 in Monday mid-morning trade. (Colombo/Jul8/2024)
+
+◼️
+
+[Data](articles/00bbc3ec.json)
 
 ---
 
@@ -303,6 +373,26 @@ The child, a resident of Middeniya, had fallen into the fish tank built to raise
 [Data](articles/4f6d448e.json)
 
 [Extended Data](ext_articles/4f6d448e.ext.json)
+
+---
+
+### Sri Lanka rupee opens flat at 304.50/65 to US dollar
+
+*2024-07-08 09:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-304-50-65-to-us-dollar-171189/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened relatively flat at 304.50/65 to the US dollar on Monday, while bond yields were broadly steady, and stocks opened 0.15 percent up, dealers said.
+
+A bond maturing on 15.12.2026 was quoted stable at 10.75/85 percent.
+
+A bond maturing on 01.05.2028 was quoted at 11.85/95 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 11.95/12.05 percent.
+
+In equities, Colombo’s All Share Price Index opened 18.11 points higher at 11,965, while the S&P SL20 of more liquid stocks opened up at 0.33 percent or 11.52 points to 3,517.
+
+◼️
+
+[Data](articles/d25bfd4c.json)
 
 ---
 
@@ -553,6 +643,28 @@ The Department of Meteorology also stated that there is a possibility of rain or
 [Data](articles/5c97b398.json)
 
 [Extended Data](ext_articles/5c97b398.ext.json)
+
+---
+
+### Sri Lanka passport issues fall, labour migration still strong
+
+*2024-07-08 07:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-passport-issues-fall-labour-migration-still-strong-171182/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s monthly passport issues have declined in the first quarter of 2024 compared to a year earlier, but labour migration is still continuing at around the same pace, official data showed.
+
+Sri Lanka’s passport issue surged in from 2022 where the most severe currency crisis triggered by the central bank it is history hit the island while outmigration also picked up.
+
+From the last quarter of 2023, new passport issues started to ease.
+
+In the first quarter of 2024, 220,161 passports were issued, down from 282,625 a year earlier, data from the central bank showed.
+
+Departures for foreign work in the first quater was 85,175 persons, up from 76,024.
+
+Most of the departures are to currency board like regimes in the Middle East, where there is no bureaucratically decided policy rate and the countries have exceptional stability leading to the import of labour.
+
+...
+
+[Data](articles/d84211fe.json)
 
 ---
 
@@ -2123,117 +2235,5 @@ The forest cat has been sent to the Dehiwala Zoo and the National Heritage Prote
 [Data](articles/01a543b3.json)
 
 [Extended Data](ext_articles/01a543b3.ext.json)
-
----
-
-### Emergency to several areas of Russia
-
-*2024-07-07 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198579) · `si`
-
-In response to Ukrainian drone attacks, several regions in Russia have declared emergencies. The Russian security forces have shot down numerous drones, leading to a warehouse fire. Authorities are evacuating residents from high-risk zones.
-
-🟩
-
-A few areas in Russia have been announced due to Ukrainian drones.
-
-According to foreign media reports, the arrangements have been taken due to Ukrainian drone strikes on Warronch Zone.
-
-The Russian security system has condemned a number of drones and a fire has erupted in a warehouse.
-
-It is reported that authorities have taken steps to temporarily remove the people in risky areas in this situation.
-
-◼️
-
-[Data](articles/08c9cbf9.json)
-
-[Extended Data](ext_articles/08c9cbf9.ext.json)
-
----
-
-### Eelam Tamil woman victory in British election
-
-*2024-07-07 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/187901) · `ta`
-
-In a significant shift, the Labour Party secured 326 seats in the general election, marking a major defeat for the incumbent government under Rishi Sunak. This victory is attributed to widespread discontent among voters, signaling a change in leadership.
-
-🟩
-
-The Rishi Sunak regime has existed in many years that existed. This led to the biggest anger among the people on the ruling state. That is what Rishi has now become a headache for Sunak and has suffered a massive defeat. The Labor Party has won 326 seats to rule in this general election.
-
-◼️
-
-[Data](articles/09b11e0a.json)
-
-[Extended Data](ext_articles/09b11e0a.ext.json)
-
----
-
-### MOE to extend interest-free loans to students who passed A/Ls
-
-*2024-07-07 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100356/moe-to-extend-interest-free-loans-to-students-who-passed-als-) · `en`
-
-The Ministry of Education (MOE) is actively progressing with the implementation of a programme to offer interest-free loans to students who passed the 2022 G.C.E. Advanced Level (A/L) Examination.
-
-This initiative, aligning with the 2017 budget proposals, aims support students who did not qualify for admission to state universities, in order to follow courses in private higher education institutions.
-
-Eligible students can avail themselves of interest-free loans up to a maximum of Rs. 800,000.
-
-According to the ministry, a total of 17,313 students across seven student groups have already received loans to pursue 100 degree courses offered by 17 approved non-government higher education institutions.
-
-The ministry has now invited proposals for courses from these institutions for the upcoming eighth batch of students who passed the A/L exam in 2022.
-
-◼️
-
-[Data](articles/cba1c9a2.json)
-
-[Extended Data](ext_articles/cba1c9a2.ext.json)
-
----
-
-### What is the power to stop the election?
-
-*2024-07-07 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187899) · `ta`
-
-Maithripala Sirisena proposed an amendment in 2019 to extend the Sri Lankan President's term to 5 years, challenging the traditional limit.
-
-🟩
-
-Maithripala Sirisena has introduced a amendment to the president's term for 5 years and asked the High Court for 5 years in 2019, and that the president's term is no longer 5 years. ”
-
-◼️
-
-[Data](articles/9c1cbdcf.json)
-
-[Extended Data](ext_articles/9c1cbdcf.ext.json)
-
----
-
-### Two children were taken up and killed
-
-*2024-07-07 16:50:01* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවක-ඝාතනය-කොට-දරු-දෙදෙනකු-ප්‍රාණ-ඇපයට-අරගෙන/11-410648) · `si`
-
-In Ulapane, two children were killed, and their mother, a 78-year-old resident, was also found dead. The suspects, residents of Jaffna, were arrested after threatening the family. The victims included a two-year-old girl and her two sisters, aged 7 and 4. The mother had been ill for a month and was reportedly threatening her niece. Neighbors and one of the sons were questioned by the police, who found the suspects at the scene the next morning. The suspects were later arrested and charged with the murders.
-
-🟩
-
-The police officers have been arrested for three and a half hours, two and a half hours after his juntatony was taken into custody by his juntability.
-
-78-year-old resident of Ulapane, Ulapane, Ulapane, Ulapane, Ulapane, Ulapane, Ulapane, Ulapane, Ulapane, Ulapane. The five-children mother of the five father, named Jothi has been killed.
-
-The victim was only the two-year-old daughter-in-law and two her 7th and 4-year-old daughters, police said.
-
-The suspect, a resident of Jaffna, has moved to Ulugne garden and her husband Muniale Joseph had gone to Jaffna for work. The murdered mother was sick for about a month.
-
-The police had received information that she was threatening this niece saying she was always worried.
-
-One son of the woman who died adjoining the house was resided and they have checked the house to a night.
-
-Her neighbors, including the son, have been admitted to the police and has been admitted to the police.
-
-...
-
-[Data](articles/f7e55eb0.json)
-
-[Extended Data](ext_articles/f7e55eb0.ext.json)
 
 ---

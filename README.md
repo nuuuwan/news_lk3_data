@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 11:06:14**
+As of **2024-07-08 11:19:50**
 
 ## Newspaper Stats
 
-*Scraped **34,181** Articles*
+*Scraped **34,185** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,80 @@ newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,005
 dailyftlk | 2,130
-adalk | 3,057
-adaderanalk | 3,915
+adalk | 3,058
+adaderanalk | 3,916
 tamilmirrorlk | 4,059
 dailymirrorlk | 4,733
-virakesarilk | 5,349
-adaderanasinhalalk | 5,685
+virakesarilk | 5,350
+adaderanasinhalalk | 5,686
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,179 (100.0%) of 34,181 articles have been extended.
+34,181 (100.0%) of 34,185 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### පළමුව ජනාධිපතිවරණය - ජනාධිපති
+### අතුරුගිරියේ වෙඩිතැබීමක් - ක්ලබ් වසන්ත මරුට
+
+*2024-07-08 11:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198597) · `si`
+
+අතුරුගිරියේ සිදුකළ වෙඩි තැබීමකින් තුවාල ලැබූ සිව් දෙනෙක් හෝමාගම රෝහලට ඇතුළත් කර ඇති බව වාර්තා වෙයි.
+
+එහිදී "ක්ලබ් වසන්ත" මියගොස් ඇති අතර ගායිකාවක් වන කේ. සුජීවා තුවාල ලබා තිබේ.
+
+◼️
+
+[Data](articles/46937784.json)
+
+---
+
+### Presidential Election - President
 
 *2024-07-08 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198596) · `si`
 
-පළාත් සභා මැතිවරණය පැවැත්වීම අවශ්‍ය වුවද මෙම වසරේ ප්‍රථමයෙන් ජනාධිපතිවරණය පැවැත්වීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe confirms the presidential election will proceed this year, regardless of any legal challenges. However, he states the Provincial Council elections will adhere to the old scheme. This announcement was made during his visit to the Trincomalee region.
 
-කවර පුද්ගලයෙකු අධිකරණයට ගියද මෙම වසරේ ජනාධිපතිවරණය පවත්වන බව ජනාධිපතිවරයා පවසයි.
+🟩
 
-කෙසේවෙතත් පළාත් සභා මැතිවරණය පැරණි ක්‍රමය යටතේ පැවැත්වීමට කටයුතු කරන බවද ජනාධිපතිවරයා සඳහන් කළේය.
+President Ranil Wickremesinghe says the presidential election will be held in the first year.
 
-අභාවප්‍රාප්ත හිටපු විපක්ෂ නායකවරයෙකු මෙන්ම දෙමළ ජාතික සන්ධානයේ නායක ආර්. සම්බන්ධන් මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු ත්‍රිකුණාමලය ප්‍රදේශයේ ඊයේ පැවති අතර එම අවස්ථාවට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව ප්‍රකාශ කළේය.
+The President has said that the presidential election will be held this year even if anyone visits the court.
+
+However, the President said that the Provincial Council election will be held under the Old Scheme.
+
+Late Opposition Leader as well as the Leader of the TNA. President Ranil Wickremesinghe was speaking at the Trincomalee area and participating in the incident.
 
 ◼️
 
 [Data](articles/f5137c52.json)
+
+[Extended Data](ext_articles/f5137c52.ext.json)
+
+---
+
+### 78-year-old woman murder by grandson’s wife
+
+*2024-07-08 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100366/78-year-old-woman-murder-by-grandsons-wife) · `en`
+
+An elderly woman has reportedly been murdered after being attacked to death with sharp weapons in the Ulapane area of Athgala.
+
+Police stated that the murder had been committed last morning (7).
+
+The murdered woman was living in the same house with her grandson, his wife and two children.
+
+The police investigations have revealed that the murder was committed over a family dispute by the grandson’s wife.
+
+It was later revealed that the grandson was not at home at that time.
+
+The 32-year-old woman who committed the murder has been arrested and Athgala  Police are conducting further investigations related to the incident.
+
+◼️
+
+[Data](articles/60e94679.json)
 
 ---
 
@@ -182,6 +224,22 @@ After completing the Annual Summit in Moscow, Modi is to leave for Austria, acco
 
 ---
 
+### මට මෙ CID එකෙන් නම් ඉන්න දෙන්නෙම නෑ
+
+*2024-07-08 09:35:12* · [`adalk`](https://www.ada.lk/breaking_news/මට-මෙ-CID-එකෙන්-නම්-ඉන්න-දෙන්නෙම-නෑ/11-410660) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවෙන් තමන්ට නිදහසේ සිටීමට ඉඩ නොදෙන බවත් මේ වන විට මතභේදයට තුඩු දි ඇති බි.එම්.ඩබ්ලිව්. රථය මීට වසරකට පමණ පෙර තමන් විකුණා ඇති බවත් ප්‍රකට නිරූපණ ශිල්පී පියුමි හංසමාලි සඳහන් කරයි.
+
+"මම වාහනෙ විකුනලා ඉවරයි අප්පා මාව අල්ලං කන්නම හදනවා මට තෙරෙන්නෙ නැ. ඔක විකනුලා දැං අවුරුදක් වෙනවා .එයාලා සල්ලි බාගයයි දුන්නෙ.ඉතිං තාම මගෙ නමට තියෙන්නෙ.ඔය වාහනෙ කුඩු ඇදලත් නැ . ඔය වාහනෙ කුඩුත් එක්ක අහු වෙලත් නැ.මම කුඩු විකුනලත් නැ.මෙ දැනුත් කියනවා 100/1000 ක් මම නිවැරදියි මාර වැඩක් උනානෙ දෙයියනෙ වාහනෙ විකුනන කොට උගෙ මුලු ජාතකෙම හොයලා වාහනෙ දෙන්න උනා.
+
+ගොටාබය සර් පැද්ද එකක් අරංමට තාම කරදර මට මෙ CID එකෙන් නම් ඉන්න දෙන්නෙම නැ නෙ මොන කරැමයක් උනානෙ මානසික නිදහසක් නැතුව ගියා නෙ අප්පා මට.අත්අඩංලුවට ගත්ත පුද්ගලාගෙ බිරිදගෙ නමට ගත්තෙ බිරිද මගෙ පරනම මිතුරියක්.ඉතිං පස්සෙ හෙමිට සල්ලි දෙන්න කියලා මම දුන්නා.එ මගෙ හැටි දන්න අය දන්නවා.
+
+...
+
+[Data](articles/22067820.json)
+
+---
+
 ### If you find them ...
 
 *2024-07-08 09:34:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/இவர்களைக்-கண்டால்-உடன்-தகவல்-தாருங்கள்/72-340019) · `ta`
@@ -272,21 +330,29 @@ The General Secretary of the Ceylon Teachers’ Union (CTU), Joseph Stalin, said
 
 ---
 
-### ඉන්චියොන් යන්න ගිය ශ්‍රී ලන්කන් යානය පැය දෙකකට  පසු ආපසු එයි
+### The SriLankan plane who went to Incheon returns back two hours after
 
 *2024-07-08 09:03:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්චියොන්-යන්න-ගිය-ශ්‍රී-ලන්කන්-යානය-පැය-දෙකකට--පසු-ආපසු-එයි/11-410658) · `si`
 
-දකුණු කොරියාවේ ඉන්චියොන් ජාත්‍යන්තර ගුවන් තොටුපොළ බලා පිටත්ව ගිය ශ්‍රී ලන්කන් ගුවන් යානය කාර්මික දෝශයකට ලක් වීම නිසා පැය දෙකක පමණ ගුවන් ගමනකින් පසුව යළිත් කටුනායක ගුවන් තොටුපොළ වෙත 07/07 දින රාත්‍රී  ගොඩ බැස්සවීමට කටයුතු කළ බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා පැවසීය .
+A SriLankan Airlines flight destined for Incheon International Airport in South Korea returned to Katunayake Airport two hours after departure due to an incident involving an industrial vehicle. The Airbus A330/A340 planes carried 30 passengers and crew, including pilots and staff. The airline plans to send another aircraft to South Korea.
 
-ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 470 දරන ගුවන් යානය 07/07 දින රාත්‍රී 06.20 ට කටුනායක ගුවන් තොටුපොළෙන් දකුණු කොරියාවේ ඉන්චියොන් ගුවන් තොටුපොළ බලා පිටත්ව ගොස් තිබේ .
+🟩
 
-මෙම ගුවන් ගමන සදහා ඒ.- 330 - 300 එයාර් බස් වර්ගයේ ගුවන් යානයක් ශ්‍රී ලන්කන් ගුවන් සේවය යොදවා තිබූ අතර එහි ගුවන් මගීන් 144 දෙනෙකු සහ ගුවන් නියමුවන් ඇතුළු කාර්යය මණ්ඩලය 15 දෙනෙකු ද ගමන් කර තිබුණි .
+The Sri Lankan plane departed to the incheon International Airport in South Korea, the airport work officer said that the Katunayaka Airport has been landed on 07/07 days after an industrial vehicle.
 
-ඒ වනවිට ශ්‍රී ලංකා ගුවන් සීමාව පසු කිරීමට ආසන්නයෙන් ගමන් කරමින් තිබූ මෙම ගුවන් යානය කාර්මික දෝශයකට ලක් වීම නිසා ආපසු හරවා යළිත් රාත්‍රී 08.10 ට කටුනායක ගුවන් තොටුපොළ වෙත ගොඩ බස්සවා තිබුණි .
+SriLankan Airlines has left for 470 at the Katunayake airport at the Bandaranaike International Airport at 06.20 pm on 07/07 pm.
 
-...
+A. 330 and 300 Air bus plane was traveled by SriLankan Airlines and 15 passengers and 15 staff members including the pilots and 15 staff.
+
+The aircraft was nearing the operation to cross the Sri Lankan flights, the aircraft had been rebuilt and overlooking the Katunayake Airport at 08.10 pm.
+
+The Airporting Officer in charge of the Airport Officer added that SriLankan Airlines has been planning to take another aircraft to South Korea.
+
+◼️
 
 [Data](articles/cd2f967d.json)
+
+[Extended Data](ext_articles/cd2f967d.ext.json)
 
 ---
 
@@ -473,6 +539,22 @@ Meanwhile, the Government Medical Officers' Association and Nurses are yet to su
 [Data](articles/ff3add6d.json)
 
 [Extended Data](ext_articles/ff3add6d.ext.json)
+
+---
+
+### தீவிரவலதுசாரிகளின்ஆட்சியை கைப்பற்றும் கனவு கலைந்தது- பிரான்சில் இடதுசாரி கூட்டணி எதிர்பாராத வெற்றி
+
+*2024-07-08 06:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/187937) · `ta`
+
+தீவிரவலதுசாரி கட்சியானஆர்எல் அதிகளவு ஆசனங்களை கைப்பறக்கூடும் என எதிர்பார்ப்பு வெளியாகியிருந்த நிலையில் பிரான்சில் இடதுசாரி கூட்டணி அதிக ஆசனங்களை கைப்பற்றும் நிலையில் உள்ளதை தேர்தல் முடிவுகள் வெளிப்படுத்தியுள்ளன.
+
+முதலாவது சுற்று தேர்தல் கடந்த ஞாயிற்றுக்கிழமை இடம்பெற்றதும் அதில் தீவிரவலதுசாரிகள் அதிக ஆசனங்களை கைப்பற்றியிருந்ததும் குறிப்பிடத்தக்கது.
+
+இதன்காரணமாக பிரான்சில் இரண்டாம் உலக யுத்தத்தின் பின்னர் முதல்தடவையாக தீவிரவலதுசாரிகள் ஆட்சியை கைப்பற்றலாம் என்ற அச்சநிலை உருவானது.
+
+◼️
+
+[Data](articles/4a5950bb.json)
 
 ---
 
@@ -2185,101 +2267,5 @@ The National Housing Development Authority and the Technology Corporation of the
 [Data](articles/3e21e2df.json)
 
 [Extended Data](ext_articles/3e21e2df.ext.json)
-
----
-
-### Rise
-
-*2024-07-07 15:59:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களு-கங்கையின்-நீர்மட்டம்-உயர்வு/175-339983) · `ta`
-
-Due to rising water levels in the Kalu Ganga, a flood warning has been issued, affecting areas around Ratnapura and Kalutara. Landslide warnings have also been issued for several divisions within these districts. The Department of Meteorology forecasts increased rainfall in the southwest, suggesting worsening conditions ahead.
-
-🟩
-
-As the water level of the Kalu Ganga has risen, the Valla hazard warning has been issued.
-
-Meanwhile, some of the Divisional Secretariats of the Ratnapura and Kalutara districts have been extended.
-
-A landslide hazard has been issued to the Divisional Secretariat Divisions of the Kalutara District and the Divisional Secretariat Divisions of the Ratnapura District, Ayagama, Eheliyagoda, Elepatha, Kirulla, Kuruvita and Ratnapura.
-
-The Department of Meteorology has predicted that rainfall is likely to increase in the country's southwestern region in the coming days. (A)
-
-◼️
-
-[Data](articles/066b0d31.json)
-
-[Extended Data](ext_articles/066b0d31.ext.json)
-
----
-
-### Presentation of the Presidential Scholarships from July 12
-
-*2024-07-07 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198576) · `si`
-
-The Presidential Media Unit announced scholarships from the Presidential Fund starting July 12, coordinated with District Secretaries, Zonal Education Offices, and Principals. Details including the number of scholarships per district will be released soon. Selected students' names are posted on the Official Facebook page. Scholarships cover tuition fees for Grades 1 to 11 in 10,126 schools across the island for one year, amounting to Rs. 30,000 per student per month.
-
-🟩
-
-GCE Advanced Level. The Presidential Media Unit has announced that arrangements will be made to implement scholarships from the Presidential Fund from the 12th of this month.
-
-The scholarships will be coordinated with the chaining of the District Secretaries, all Zonal Education Offices and Principals.
-
-The Commission states that the number of scholarships and the number of scholarship recipients of scholarships for each district are to be published in the next few days.
-
-The list of students who are selected for students who are served for students who are serving students for each district have already been named at the Product Facebook page.
-
-GCE Advanced Level. Rs.
-
-30,000 / - scholarship grant from scholarship grant from the next month along with the currency of these students.. (A / L) has also been given scholarships per month until Rs.
-
-The Scholarship Program will be implemented for a 12 month period each month covered with 10,126 schools in the island to Grade 1 to Grade 11.
-
-...
-
-[Data](articles/d1d0e0a0.json)
-
-[Extended Data](ext_articles/d1d0e0a0.ext.json)
-
----
-
-### The risk of paralysis of public services for two days
-
-*2024-07-07 15:57:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-தினங்களுக்கு-அரச-சேவைகள்-முடங்கும்-அபாயம்/175-339982) · `ta`
-
-Over 200 public service associations, including Grama Niladhari, have called off work for two days starting tomorrow due to unspecified reasons. Additionally, school principals and teachers have opted against taking sick leave on July 9th. The Joint Postal Trade Union Front has also announced a 48-hour strike beginning tomorrow, potentially impacting postal services.
-
-🟩
-
-More than 200 public service associations, including Grama Niladhari, have announced their vacation and will not be socialized tomorrow (08) and tomorrow (09).
-
-Meanwhile, principals and teachers have decided not to announce the sickness holiday on July 9.
-
-Meanwhile, the co -invitation of the Joint Postal Trade Union Front Sindha Bandara has stated that the postal workers will be engaged in a 48 -hour identity strike tomorrow (08) and tomorrow (09) (09) (09) (09) (09) and tomorrow (09).. Remble
-
-◼️
-
-[Data](articles/5b285e1b.json)
-
-[Extended Data](ext_articles/5b285e1b.ext.json)
-
----
-
-### President claims some are attempting to disrupt country’s economic recovery
-
-*2024-07-07 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100354/president-claims-some-are-attempting-to-disrupt-countrys-economic-recovery) · `en`
-
-President Ranil Wickremesinghe emphasized that some individuals are attempting to disrupt the country’s economic progress.
-
-He announced that despite the economic crisis, the government has managed to implement salary increases for public servants this year and assured that necessary allocations will be made in the upcoming budget.
-
-During the last economic crisis, some suggested cutting 500,000 public service jobs due to an inability to pay government salaries. However, the President stated that he did not follow this advice and instead increased VAT to 18% to ensure salaries were paid on time. He also emphasized that the tax burden on the people cannot be increased any further.
-
-President Wickremesinghe made these remarks at the Uva Provincial Community Police Committee members’ empowerment workshop, held yesterday (06) at the Wellawaya Public Stadium under the theme “A Law-Abiding Country.”
-
-...
-
-[Data](articles/3067ff39.json)
-
-[Extended Data](ext_articles/3067ff39.ext.json)
 
 ---

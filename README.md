@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 16:52:38**
+As of **2024-07-08 17:05:00**
 
 ## Newspaper Stats
 
-*Scraped **34,228** Articles*
+*Scraped **34,231** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,78 @@ newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,010
 dailyftlk | 2,130
-adalk | 3,065
-adaderanalk | 3,924
+adalk | 3,066
+adaderanalk | 3,925
 tamilmirrorlk | 4,069
 dailymirrorlk | 4,733
-virakesarilk | 5,350
+virakesarilk | 5,351
 adaderanasinhalalk | 5,698
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,227 (100.0%) of 34,228 articles have been extended.
+34,228 (100.0%) of 34,231 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### රන් පතලේ ඛේදවාචකය - ජීවිත රැසක් අහිමිවෙයි
+### Gold mine tragedy - a loss of many lives
 
 *2024-07-08 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198609) · `si`
 
-ඉන්දුනීසියාවේ රන් පතලක සිදුවූ නායයෑමකින් පුද්ගලයින් 11 දෙනෙකු මියගොස් තවත් 19 දෙනෙකු අතුරුදන්ව තිබේ.
+In Indonesia, a landslide at a gold mine on Windson Island caused a disaster, killing 11 and leaving 19 missing amid heavy rains. Of 35 trapped, only 5 survived; rescue efforts are ongoing to locate the missing and recover bodies.
 
-පවතින අධික වර්ෂාවත් සමග එරට සුළවිසි දූපත් ප්‍රදේශයේ පිහිටි රන් පතලක එම නායයෑම සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-නීතිවිරෝධී පතල් කැනීමේ නිරතව සිටි පුද්ගලයින් 35 දෙනෙකු නායයෑමට හසුව ඇති අතර ඉන් පුද්ගලයින් 5 දෙනෙකු දිවි බේරාගැනීමට සමත්ව තිබේ.
+At least 11 people were killed and 19 others went missing in a landslide in Indonesia.
 
-මියගිය පුද්ගලයින් 11 දෙනෙකුගේ මළසිරුරු මේ වන විට සොයාගෙන ඇති අතර අතුරුදන් වූ 19 දෙනා සොයා සහන සේවකයින් විමර්ශන ආරම්භ කර ඇති බව සඳහන්ය.
+The landslide has taken place in a gold mine in the windsion island area with excessive heavy rains.
+
+A total of 35 persons have been laundering in landslides and five of them survived.
+
+The bodies of 11 deceased have been recovered and the number of people who have found the missing have started investigations.
 
 ◼️
 
 [Data](articles/3f0d1916.json)
+
+[Extended Data](ext_articles/3f0d1916.ext.json)
+
+---
+
+### Govt says salary hike for public servants not possible this year; VAT increase required
+
+*2024-07-08 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100375/govt-says-salary-hike-for-public-servants-not-possible-this-year-vat-increase-required-) · `en`
+
+Sri Lanka’s Treasury Secretary Mahinda Siriwardana has stated that the current Value Added Tax (VAT) rate will need to be raised from 18% to 20-21% to meet the demands of the public servants who are on strike for a salary increase.
+
+He had made this observation during a meeting at the President’s Office today (08), held under the patronage of President Ranil Wickremesinghe, according to the President’s Media Division (PMD).
+
+It further said that the government is not prepared to fulfill this demand as it would impose an additional burden on the public.
+
+At the discussion chaired by President Wickremesinghe at the President’s Office, to address the demands presented by the striking trade unions, it was emphasised that a salary increase this year is not possible.
+
+However, the 2025 Budget will consider revising public service salaries based on the expert committee’s recommendations on salary disparities, the PMD reported.
+
+◼️
+
+[Data](articles/e48d1edd.json)
+
+---
+
+### பொதுப் போக்குவரத்து பயணச் சீட்டுகள் கொள்வனவிற்கு இலத்திரனியல் விநியோகமுறை அறிமுகம் செய்ய நடவடிக்கை
+
+*2024-07-08 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187967) · `ta`
+
+ரயில் உள்ளிட்ட பொதுப் போக்குவரத்து  பயணச்சீட்டுகளை கொள்வனவு செய்வதற்கு இலத்திரனியல் விநியோகமுறையினை அறிமுகப்படுத்தவுள்ளதாக போக்குவரத்து மற்றும் அதிவேகவீதிகள் அமைச்சின் செயலாளர் ரஞ்சித் கங்கநாத் ரூபசிங்க தெரிவித்துள்ளார்.
+
+ஜனாதிபதி ஊடக மையத்தில் இன்று திங்கட்கிழமை  (08) இடம்பெற்ற ஊடக சந்திப்பில் கலந்துக் கொண்ட போதே அவர் இதனை தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/20f7c48a.json)
 
 ---
 
@@ -115,6 +155,18 @@ Mr Zelensky, who is due to travel to the US for this week’s Nato summit in Was
 [Data](articles/a6aaab00.json)
 
 [Extended Data](ext_articles/a6aaab00.ext.json)
+
+---
+
+### වසන්තගේ වෙඩික්කරුවන් ආ වාහනය මහමග දමා යති
+
+*2024-07-08 14:49:43* · [`adalk`](https://www.ada.lk/breaking_news/වසන්තගේ-වෙඩික්කරුවන්-ආ-වාහනය-මහමග-දමා-යති/11-410668) · `si`
+
+අතුරුගිරිය, ඔරුවල ප්‍රදේශයේ සිදුකළ වෙඩි වැදීමට පැමිණි බව කියන  මෝටර් රථය කොරතොට ප්‍රදේශයේ මාර්ගයක නවතා වෙඩික්කරුවන් ‌පලාගොස් ඇතිබව පොලීසිය පවසයි. වෙඩි තැබීමෙන් ක්ලබ් වසන්ත ඇතුළු දෙදෙනකු මියගොස් ඇති අතර තවත් හතර දෙනෙකු තුවාල ලබා ඇත. මෙවුන් පැමිණී වාහනය එම ස්ථානයේ දමා වෙනත් වාහනයකින් පලාගොස් ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/5ab68227.json)
 
 ---
 
@@ -2155,83 +2207,5 @@ Details regarding the dates, times and venues for scholarship awards in each dis
 [Data](articles/6b161db1.json)
 
 [Extended Data](ext_articles/6b161db1.ext.json)
-
----
-
-### Will schools close for two days?Emergency notice
-
-*2024-07-07 22:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-தினங்கள்-பாடசாலைகள்-மூடப்படுமா-அவசர-அறிவிப்பு/175-340008) · `ta`
-
-Public service trade unions plan a two-day strike, including teachers, but the Ministry of Education insists schools remain open.
-
-🟩
-
-Trade union employees from many departments in public service have decided to carry out a healthy holiday struggle tomorrow and tomorrow.
-
-Joseph Stalin, General Secretary of the Sri Lanka Teachers Union, said that teachers and principals will join the struggle.
-
-However, the Ministry of Education has announced that schools will be held as usual. Remble
-
-◼️
-
-[Data](articles/9ec5aaa9.json)
-
-[Extended Data](ext_articles/9ec5aaa9.ext.json)
-
----
-
-### Accident on Mannar Road
-
-*2024-07-07 21:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-வீதியில்-விபத்து-அருட்தந்தை-பலி/175-340007) · `ta`
-
-Aruttantha K. Jonarthanan Adikallar, 31, died after a motorcycle crash on Mannar-Talaimannar road near Kattakaran. He was riding from Mannar when the accident occurred at 6:50 pm and later succumbed to injuries at Mannar District General Hospital.
-
-🟩
-
-The Mannar Diocese of Arut and Assistant Director of the Mannar Madhu Mata Mata Mata, Aruttantha K. Jonarthanan Adikallar (age 31) died on Sunday evening on the Mannar - Talaimannar main road.
-
-A motorcycle crashed in the Kattakaran residential area at 6.50 pm while traveling from Mannar to Mannar to Mannar.
-
-The injured Aruttanda died after being brought to the Mannar District General Hospital.
-
-◼️
-
-[Data](articles/6fd91654.json)
-
-[Extended Data](ext_articles/6fd91654.ext.json)
-
----
-
-### Cole Marwals won the Kandy Belgons easily
-
-*2024-07-07 21:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/187929) · `ta`
-
-Goal Marwals triumphed over Kandy Belgons in a thrilling Sri Lanka Premier League match at Rangiri and Dambulla International Cricket Stadium. Key contributions came from Isuru Udana's precise bowling and Tim Seefert's half-century. Despite Kandy Belgons' initial struggle, losing four wickets early, Under Plecher and Angelo Mathews' partnership revived their innings. Wanindu Hasaranga's explosive batting, scoring 65 runs off 32 balls, and Isuru Udana's three-wicket haul were pivotal. Goal Marwals chased down 176 runs, thanks to Tim Seebird's unbeaten 82 runs and Alex Hales' 38 runs.
-
-🟩
-
-Goal Marwals won the Sri Lanka Premier League cricket match at the Rangiri and Dambulla International Cricket Stadium on Sunday (07) at Rangiri and Dambulla.
-
-The accurate bowling of Isuru Udana and the half -century of Tim Seefert, which made Goal Marwal's victory.
-
-Kandy Felcons scored 175 runs for the loss of 7 wickets in 20 overs.
-
-Kandy Belgons was in great crisis as they lost 4 wickets in the Power Play match.
-
-In this case, both Undre Plecher and Angelo Mathews shared 45 runs in the 5th wicket and rescued the team.
-
-After scoring 50 runs, Mathews, who shared 58 runs in the 6th wicket, got out with 25 runs.
-
-Wanindu Hasaranga hit a stunning batsman and scored 65 runs off 32 balls, including 7 pounds and 3 sixes.
-
-In the bowling, 36 -year -old Isuru Udana took 3 wickets for 30 runs while Shahur Khan took 2 wickets for 29 runs.
-
-The goal Marwals won the toss and elected to win 176 runs, losing 4 wickets in 17.1 overs and scoring 176 runs.
-
-...
-
-[Data](articles/02fa0ece.json)
-
-[Extended Data](ext_articles/02fa0ece.ext.json)
 
 ---

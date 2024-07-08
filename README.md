@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 05:19:50**
+As of **2024-07-08 05:37:44**
 
 ## Newspaper Stats
 
-*Scraped **34,141** Articles*
+*Scraped **34,150** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 309
 colombotelegraphcom | 313
 bbccomsinhala | 334
 newsfirstlk | 363
-islandlk | 1,914
+islandlk | 1,923
 economynextcom | 2,005
 dailyftlk | 2,130
 adalk | 3,052
@@ -26,11 +26,119 @@ adaderanasinhalalk | 5,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,141 (100.0%) of 34,141 articles have been extended.
+34,141 (100.0%) of 34,150 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### ComBank adjudged Best Bank in Sri Lanka for 13th year by FinanceAsia
+
+*2024-07-08 04:56:00* · [`islandlk`](http://island.lk/combank-adjudged-best-bank-in-sri-lanka-for-13th-year-by-financeasia/) · `en`
+
+The Commercial Bank of Ceylon has been reaffirmed the Best Bank among Sri Lanka’s domestic banks by FinanceAsia, one of the world’s foremost information sources on the Asian financial markets.Notably, this is the 13th year that Commercial Bank has been bestowed this prestigious title by FinanceAsia.
+
+The Best Bank award was presented to Commercial Bank at the FinanceAsia Country Awards gala at the Ritz Carlton in Hong Kong on 27th June. The Bank’s Chief Risk Officer Mr Kapila Hettihamu accepted the award on behalf of the Bank.
+
+...
+
+[Data](articles/66927415.json)
+
+---
+
+### Sri Lanka’s official reserves up by 4.3% in June 2024
+
+*2024-07-08 04:56:00* · [`islandlk`](http://island.lk/sri-lankas-official-reserves-up-by-4-3-in-june-2024/) · `en`
+
+Sri Lanka’s official reserve assets increased by 4.3% to USD 5.64 billion in June 2024, compared to USD 5.41 billion in May 2024, according to the Central Bank of Sri Lanka (CBSL).This includes proceeds from the swap with People’s Bank of China (PBoC) equivalent to around USD 1.4 billion, which is subject to conditionalities on usability.
+
+DIMO recognised for Environmental Stewardship at Presidential Environment Awards 2024
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/739be08f.json)
+
+---
+
+### Apollo Hospitals India announces 1305 Helpline in Sri Lanka
+
+*2024-07-08 04:56:00* · [`islandlk`](http://island.lk/apollo-hospitals-india-announces-1305-helpline-in-sri-lanka/) · `en`
+
+Afro-Asia’s largest private sector integrated healthcare provider, the Apollo Hospitals Group, announced a four-digit helpline number 1305 in Sri Lanka. The Helpline Number connects patients and physicians to Apollo representatives, providing convenient access to Apollo Hospitals’ vast pool of medical resources.
+
+Chief Guest of the event, Minister Nimal Siripala de Silva stated that Apollo Hospitals and Sri Lanka has had very close connections for a long period similar to ties between the two neighboring countries, India and Sri Lanka
+
+Co-Chief Guest Education Minister Dr. Susil Premajayantha stated at the event that collaborative efforts in healthcare are of the utmost importance, particularly in the light of escalating incidence of non-communicable diseases (NCDs) and the difficulties caused by the pandemic. The minister stated that Indian and Sri Lankan medical professionals should have more opportunities to collaborate and that the government would support such initiatives.
+
+...
+
+[Data](articles/bdaa004a.json)
+
+---
+
+### Asia Miracle Awards names Dearo Investment as Best Development Finance Company of the Year
+
+*2024-07-08 04:41:00* · [`islandlk`](http://island.lk/asia-miracle-awards-names-dearo-investment-as-best-development-finance-company-of-the-year/) · `en`
+
+Dearo Investment Limited has been awarded the title of Best Development Finance Company of the Year 2024 at the Asia Miracle Awards. The award ceremony, organised by MUGP International Organisation, was held at the Water’s Edge Hotel in Battaramulla. During the event, Dearo Investment Director and Chief Executive Officer (CEO) Prasanna Sanjeewa received a honourary title for his contributions to Humanity and Social Development.
+
+Dearo Investment provides their services with a particular focus on developing the SME and MSME sectors. The company has strategically diversified its operations into several key economic growth sectors, including financial services, business and legal services, food and beverage, tourism, education services, software and IT, automobile, and agriculture and plantation.
+
+The company’s core financial services include personal financial services, business financial services, various categories of loans, and investment services.
+
+...
+
+[Data](articles/16546ec3.json)
+
+---
+
+### DIMO recognised for Environmental Stewardship at Presidential Environment Awards 2024
+
+*2024-07-08 04:41:00* · [`islandlk`](http://island.lk/dimo-recognised-for-environmental-stewardship-at-presidential-environment-awards-2024/) · `en`
+
+DIMO secured the Bronze Award in the Vehicle Servicing Centre category at the Presidential Environment Awards Ceremony 2024, held recently at BMICH. This marks the second consecutive year DIMO has been recognized at this prestigious event. The Bronze Award was the highest accolade presented in the vehicle servicing centre category, at the Presidential Environment Awards Ceremony 2024.
+
+DIMO’s state-of-the-art vehicle servicing facility, DIMO 800, catering to Mercedes-Benz vehicles, was recognized for its exceptional commitment to environmental conservation at this prestigious award ceremony.
+
+This facility generates power through the solar panels and established effluent water treatment plant and rainwater harvesting system to mitigate the water wastage. The building employs green technologies such as natural ventilation and lighting, while having an Environmental Management System certified to ISO 14001:2015.
+
+...
+
+[Data](articles/938bfc5a.json)
+
+---
+
+### Sanasa Life Insurance PLC appoints Puvendran Gajendra as new chairman
+
+*2024-07-08 04:41:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-plc-appoints-puvendran-gajendra-as-new-chairman/) · `en`
+
+Sanasa Life Insurance PLC has appointed Puvendran Gajendra as their new Chairman, effective Wednesday, 19 June 2024. Mr. Gajendra has been a board member and functioned as an independent Director since 2019. His background is based on accountancy. A highly accomplished professional in his field Mr. Gajendra specializes in audits, financial accounting, taxation, and secretarial services. His specialization extends even further to include valuations, financial analysis, acquisitions, and mergers as well.
+
+...
+
+[Data](articles/b0da8155.json)
+
+---
+
+### DPMC Workshop Madapatha wins Presidential Environment Award
+
+*2024-07-08 04:41:00* · [`islandlk`](http://island.lk/dpmc-workshop-madapatha-wins-presidential-environment-award/) · `en`
+
+David Pieris Motor Company (Private) Limited’s DPMC Workshop Madapatha was honoured with the prestigious Presidential Environment Award (Merit) in the Vehicle Servicing Centre Category. The awards ceremony, organized by the Central Environmental Authority of the Ministry of Environment, was held at the BMICH and presided over by President Ranil Wickremesinghe.
+
+This award recognized DPMC Workshop Madapatha’s exceptional commitment to environmental sustainability and proactive initiatives in environmental preservation and protection.
+
+The DPMC Workshop network, spread across the island, is dedicated to vehicle servicing, repairing, and maintenance. Utilising advanced technology and equipment, the network provides personalised services aligned with the manufacturer’s specifications and guidelines.
+
+...
+
+[Data](articles/f9fb8826.json)
+
+---
 
 ### ECSL poised to declare election date unless Court issues injunction today
 
@@ -2193,179 +2301,5 @@ It is worth noting that Mahinda Rajapaksa, who made an official visit to China t
 [Data](articles/5a97445e.json)
 
 [Extended Data](ext_articles/5a97445e.ext.json)
-
----
-
-### Heavy rains exceeding 100 mm
-
-*2024-07-07 12:11:45* · [`adalk`](https://www.ada.lk/breaking_news/මිලි-මීටර්-100-ඉක්මවූ-තද-වැසි/11-410643) · `si`
-
-Heavy rains exceeding 100mm hit Western, Sabaragamuwa provinces, and Kandy district. The public is advised to prepare for potential damage from strong winds and lightning due to thunderstorms. This alert was issued today at 11:45 AM and remains in effect for 24 hours.
-
-🟩
-
-Mm in the Western, Sabaragamuwa provinces and the Kandy district. Heavy rains can occur around 100
-
-The Department also requests the public to take necessary steps to reduce the damages caused by temporary strong winds and lightning activities possible with thunderstorms.
-
-The announcement was issued at 11.45 this morning until 24 hours.
-
-◼️
-
-[Data](articles/9348b6e8.json)
-
-[Extended Data](ext_articles/9348b6e8.ext.json)
-
----
-
-### Britain's regime change
-
-*2024-07-07 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/187882) · `ta`
-
-In Britain, elections were held for the Parliament, consisting of the House of Commons and Lords, with 650 seats. The Labour Party aims to regain power after 14 years, needing at least 376 seats to form a government.
-
-🟩
-
-British Parliament, which includes England, Wales, Scotland and Northern Ireland. Elections were held to elect representatives of House of Commons under the Parliament of two House. Since there are 650 seats in this Lok Sabha, the party government can have at least 376 seats. In that respect, the Labor Party is moving in the direction to gain the opportunity to rule after 14 years.
-
-◼️
-
-[Data](articles/1bedd03f.json)
-
-[Extended Data](ext_articles/1bedd03f.ext.json)
-
----
-
-### The desire was stolen
-
-*2024-07-07 11:58:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஆசையாக-இருந்தது-திருடினேன்/71-339972) · `ta`
-
-A man stole a motorcycle near the Jaffna Magistrate's Court because he wanted to see it. He was later caught and found with 1 gram of heroin. The police have filed a complaint and will present him in court.
-
-🟩
-
-“Was the desire to see the motorcycle. So I stole it.
-
-Meanwhile, police have recovered 30 milligrams of heroin from the suspect
-
-A complaint was lodged at the Jaffna Police Station that a motorcycle was stolen near the Jaffna Magistrate's Court on the 26th of last month.
-
-Police have arrested a 24 -year -old suspect in the Chavakachcheri area after investigating the incident.
-
-A motorcycle stolen from the suspect and 01 grams of heroin was recovered.
-
-While visiting a Jaffna Magistrate's Court, he said, “Want to see a motorcycle standing outside. So I stole it. ”The suspect has confessed to the police.
-
-In addition, the police have taken steps to appear at the Jaffna Magistrate's Court after investigations.
-
-◼️
-
-[Data](articles/6fd3de51.json)
-
-[Extended Data](ext_articles/6fd3de51.ext.json)
-
----
-
-### I'm not a man who is a deficient man, but not the Sinhalese nation
-
-*2024-07-07 11:56:25* · [`adalk`](https://www.ada.lk/breaking_news/මම-හිඟා-කන-මිනිහෙක්-නෙවෙයි---සිංහල-ජාතිය-හිඟා-කන-ජාතියක්-නොවෙයි/11-410642) · `si`
-
-The text emphasizes the need for Sri Lanka to overhaul its economic and political systems, highlighting the importance of responsible leadership and a focus on exports to boost the economy. It criticizes the current state of affairs, including the banking system's role and the lack of effective political leadership. The presidents discuss the challenges and propose solutions, emphasizing the need for honesty, responsibility, and a shift away from dependency on imports.
-
-🟩
-
-The country needs to create a new economic system as well as a new political system
-
-The country needs political leaders who can accept responsibilities and express truth.
-
-Let us identify and advise the country's program without working in the dream world.
-
-Sinhalese Nation Never Signature - An Export Center is uplifted the economy of the country.
-
-The program is a wider responsibility to the banking system - President Mahinda Rajapaksa says
-
-President Ranil Wickremesinghe said that a new political system should be created in the country and a group of people who could take responsibilities and a group of people who are undoubtedly acceptable and a truly proclaiming active act should be created in the political system.
-
-The President was speaking at the bankers 'forum, organized by the National bankers' union yesterday (05).
-
-The President said that he had stated the economic challenge in the country and stated that the country has already presented the country in the country.
-
-...
-
-[Data](articles/b9dc53ae.json)
-
-[Extended Data](ext_articles/b9dc53ae.ext.json)
-
----
-
-### Rescued people with a break
-
-*2024-07-07 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198566) · `si`
-
-Six individuals were rescued from drowning in the Nilaveli sea; one is hospitalized. The Trincomalee Police Life and Coastal Guard intervened. The incident happened yesterday, involving victims aged 16 to 28.
-
-🟩
-
-Six people who were in the sea in Nilaveli sea were rescued while smugging.
-
-Police said that the suspects were rescued by the Trincomalee Police Life and Coastal Guard.
-
-One person has been admitted to the Nilaveli Hospital for basic treatment.
-
-The accident had occurred when they were drowning in the sea yesterday (06).
-
-The victim was three people aged between the ages of 16 to 28 years in Pilimatalawa area.
-
-◼️
-
-[Data](articles/0d4e064b.json)
-
-[Extended Data](ext_articles/0d4e064b.ext.json)
-
----
-
-### Sydney house fire kills three children, police suspect homicide
-
-*2024-07-07 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100347/sydney-house-fire-kills-three-children-police-suspect-homicide) · `en`
-
-Three children, including a 10-month-old, were killed after fire ripped through a house in Sydney early on Sunday in an incident Australian police said they were treating as a homicide.
-
-Emergency services were called to the property in Lalor Park, about 35 km (20 miles) west of Sydney’s city centre, around 1 a.m. (1500 GMT on Saturday), police said in a statement.
-
-Two boys, aged two and four, were treated at the scene but died shortly after being taken to the hospital, while a 10-month-old girl was found dead after the fire was extinguished, police said.
-
-A 28-year-old man, who frustrated police attempts to get into the property, was arrested and was being treated for fire-related injuries at the hospital under police guard, it said.
-
-Homicide squad detectives have taken control of the investigation and are treating it as a “domestic-related homicide”, said Homicide Squad Commander Detective Superintendent Danny Doherty.
-
-...
-
-[Data](articles/b1954276.json)
-
-[Extended Data](ext_articles/b1954276.ext.json)
-
----
-
-### Postal workers make a hard decision
-
-*2024-07-07 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198565) · `si`
-
-Postal workers in Sri Lanka are set to go on a 48-hour strike starting tomorrow, protesting over three undisclosed demands. The strike follows a boycott decision made earlier today, with actions beginning tonight.
-
-🟩
-
-The Combined Post Trade Unions Chinthaka Bandara says that the postal employees will commence a 48 hour token strike tomorrow (09).
-
-Addressing a media briefing, he said that the Symbols boycott decided to commence from 4 pm today.
-
-The trade union action will commence from midnight today (07) at midnight.
-
-The Post Trade Union Fiance Chinthaka Bandara added that the trade union action will be launched on three demands.
-
-◼️
-
-[Data](articles/09637b31.json)
-
-[Extended Data](ext_articles/09637b31.ext.json)
 
 ---

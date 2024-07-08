@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 10:07:01**
+As of **2024-07-08 10:19:54**
 
 ## Newspaper Stats
 
-*Scraped **34,170** Articles*
+*Scraped **34,174** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,005
 dailyftlk | 2,130
-adalk | 3,055
-adaderanalk | 3,913
-tamilmirrorlk | 4,057
+adalk | 3,056
+adaderanalk | 3,914
+tamilmirrorlk | 4,059
 dailymirrorlk | 4,733
 virakesarilk | 5,349
 adaderanasinhalalk | 5,681
@@ -26,27 +26,81 @@ adaderanasinhalalk | 5,681
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,169 (100.0%) of 34,170 articles have been extended.
+34,170 (100.0%) of 34,174 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### පුටින්ගේ ආරාධනය මෝදි පිළිගනී
+### 3-year-old dies after falling into fish tank
+
+*2024-07-08 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100364/3-year-old-dies-after-falling-into-fish-tank) · `en`
+
+A tragic accident has occurred in Wickrama Mawatha East, Middeniya, where a 3-year-old child has reportedly died after falling into a fish tank at home last evening (07).
+
+The child, a resident of Middeniya, had fallen into the fish tank built to raise ornamental fish in front of the house.
+
+◼️
+
+[Data](articles/4f6d448e.json)
+
+---
+
+### An invitation of Putin's invitation admits
 
 *2024-07-08 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198592) · `si`
 
-‍ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි දෙදින නිල සංචාරයක් සඳහා රුසියාව බලා පිටත්ව යාමට නියමිතව තිබේ.
+Indian PM Narendra Modi is set to visit Russia for a two-day summit with President Putin, aiming to strengthen ties. Following the meeting, he'll travel to Austria.
 
-ඔහු මොස්කව් නුවරදී ව්ලැදිමීර් පුටින් සමඟ 22 වැනි ඉන්දු-රුසියා වාර්ෂික සමුළුවට එක්වීමට නියමිතය.
+🟩
 
-ඉන්දියාව හා රුසියාව අතර පවත්නා සාම්ප්‍රදායික මිත්‍රශීලීත්වය තවදුරටත් වර්ධනය කරගැනීමේ අරමුණෙන් මෙම සංචාරය සිදුකෙරෙන බව වාර්තා වේ.
+Indian Prime Minister Narendra Modi is due to leave for Russia on a two-day official visit.
 
-මොස්කව්හි වාර්ෂික සමුළුව අවසන් කිරීමෙන් පසු මෝදි, ඔස්ට්‍රියාව බලා පිටත්ව යාමට නියමිත බව විදෙස් වාර්තා පවසයි.
+He is due to join the 22nd Indo-Russia Annual Summit with Vladimir Putin in Moscow.
+
+It is reported that the tour will be continued to further enhance the traditional friendlyness between India and Russia.
+
+After completing the Annual Summit in Moscow, Modi is to leave for Austria, according to foreign reports.
 
 ◼️
 
 [Data](articles/2d761fd4.json)
+
+[Extended Data](ext_articles/2d761fd4.ext.json)
+
+---
+
+### இவர்களைக் கண்டால் உடன் தகவல் தாருங்கள்...
+
+*2024-07-08 09:34:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/இவர்களைக்-கண்டால்-உடன்-தகவல்-தாருங்கள்/72-340019) · `ta`
+
+வவுனியா, கோவில்புதுக்குளம் பகுதியைச் சேர்ந்த பெண்ணும் அவரது இரு பிள்ளைகளையும் காணவில்லை என வவுனியா பொலிஸில் முறைப்பாடு ஒன்று பதிவு செய்யப்பட்டுள்ளது.
+
+வவுனியா, கோவில்புதுக்குளம் பகுதியில் வசித்து வந்த 32 வயதான அ.அபிராமி என்னும் பெயருடைய தனது மனைவி, பிள்ளைகளான கம்சனா (வயது 11), சன்சிகன் (வயது 8) ஆகிய இருவரையும் கடந்த வியாழக்கிழமை பாடசாலைக்கு அழைத்து சென்றுள்ளார்.
+
+எனினும், குறித்த இரு மாணவர்களும் பாடசாலைக்கு செல்லவில்லை என்றும், மனைவியும் வீடு திரும்பவில்லை என்றும், நானும், உறவினர்களும் பல இடங்களிலும் தேடிய நிலையில் அவர்கள் மூவரும் வீடு திரும்பவில்லை எனவும் கணவன் தெரிவித்துள்ளார்.
+
+இதனையடுத்து, இவகள் தொடர்பான தகவல் கிடைத்தால் 076-5273860 என்னும் தொலைபேசி இலக்கத்திற்கோ அல்லது வவுனியா பொலிஸாருக்கோ தெரியப்படுத்துமாறும் கோரப்பட்டுள்ளது.   R
+
+◼️
+
+[Data](articles/d94d858b.json)
+
+---
+
+### ஜனாதிபதி பதவிக் காலம் தொடர்பான மனு இன்று பரிசீலனை
+
+*2024-07-08 09:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-பதவிக்-காலம்-தொடர்பான-மனு-இன்று-பரிசீலனை/175-340018) · `ta`
+
+ஜனாதிபதியின் பதவிக் காலம் தொடர்பாக உயர் நீதிமன்றில் சமர்ப்பிக்கப்பட்டுள்ள மனு இன்று (08) ஐந்து நீதியரசர்கள் கொண்ட அமர்வு முன்னிலையில் பரிசீலனைக்கு எடுத்துக்கொள்ளப்படவுள்ளது.
+
+இந்த மனுவை பரிசீலிப்பதற்காக பிரதம நீதியரசர் ஜயந்த ஜயசூரிய, விஜித் மலல்கொட, முர்து பெர்னாண்டோ, பிரீத்தி பத்மன் சூரசேன மற்றும் எஸ்.துரைராஜா ஆகிய ஐந்து பேர் கொண்ட உயர் நீதிமன்ற நீதியரசர்கள் அமர்வு அண்மையில் பெயரிடப்பட்டது.
+
+ஜனாதிபதியின் பதவிக்காலம் முடிவடையும் திகதிகள் தொடர்பில் உயர் நீதிமன்றம் விளக்கமளிக்கும் வரை தற்போது திட்டமிடப்பட்டுள்ளவாறு ஜனாதிபதித் தேர்தலை நடத்துவதைத் தடுக்க உத்தரவிடுமாறு கோரி மனுவொன்று சமர்ப்பிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/622408cc.json)
 
 ---
 
@@ -1244,6 +1298,22 @@ Accordingly, the gazette notification has made these services the essential serv
 
 ---
 
+### ශ්‍රී ලන්කන් රුපියල් බිලියන 73.3ක පාඩුවක් ලබයි
+
+*2024-07-07 19:19:16* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-රුපියල්-බිලියන-73-3ක-පාඩුවක්-ලබයි/11-410654) · `si`
+
+ශ්‍රී ලංකන් ගුවන් සමාගම  2022/2023 මුල්‍ය වර්ෂයේ දී රුපියල් බිලියන 73.3ක පාඩුවක් ලබා ඇති බැව් මුදල් අමාත්‍යාංශය මගින් නිකුත් කොට ඇති අවසාන  අයවැය තත්ත්වය  පිළිබඳ වාර්තාවේ සඳහන් වේ.
+
+විනිමය අලාභය හා පොලී පිරිවැය  2022/2023 මූල්‍ය වර්ෂයේ දී  රුපියල් බිලියන 51.4 දක්වා 130.5෴කින් ඉහළ යාම හේතුවෙන්  මෙකී අලාභය  සිදුවී ඇති බවද මෙම වාර්තාවේ සඳහන් වේ.කෙසේ වුවද 2021/2022 මූල්‍ය වර්ෂයට සාපේක්ෂව මෙම මූල්‍ය වර්ෂයේ ශ්‍රී ලංකන් ගුවන් සමාගම ලබා ඇති පාඩුව 56෴කින් අඩුවී ඇත. 2022/2023 මූල්‍ය වර්ෂයෙහිදී  ශ්‍රී ලංකන් ගුවන් සමාගම  රුපියල් බිලියන 372.5ක ආදායමක් උපයා ඇත.සංචාරක කර්මාන්තයේ වර්ධනයත් සමග ගුවන් මගී ආදායම රුපියල් බිලියන 293.3 දක්වා  වැඩිවී තිබේ.
+
+ගුවන් සමාගම විසින් ලංකා ඛනිජතෙල් නීතිගත සංස්ථාවට ගෙවිය යුතු  රුපියල් බිලියන 102.5ක  හිඟ මුදල පියවීම සඳහා අමාත්‍ය මණ්ඩලයේ අනුමැතිය මත මහා භාණ්ඩාගාරයෙන් අවශ්‍ය ප්‍රතිපාදන ගුවන් සමාගම වෙත ලබා දී තිබුණි. ගුවන් සමාගමේ මුල්‍ය තිරසාරභාවය ඇති කිරීම සඳහා නව  ආයෝජක අරමුදල් සපයා ගැනීම වෙනුවෙන්  ගුවන් සමාගමේ අයිතිය බැහැර කිරීමට රජය  තීරණය කර ඇත.
+
+◼️
+
+[Data](articles/ad84fa69.json)
+
+---
+
 ### Sanath temporarily
 
 *2024-07-07 18:49:38* · [`adalk`](https://www.ada.lk/sports/පුහුණුකරු-ධුරය-තාවකාලිකව-සනත්ට/9-410653) · `si`
@@ -2201,97 +2271,5 @@ Accordingly, the President's Fund has requested the Follow/Like of the President
 [Data](articles/47974f2d.json)
 
 [Extended Data](ext_articles/47974f2d.ext.json)
-
----
-
-### Over 200 trade unions to launch ‘sick leave’ campaign
-
-*2024-07-07 14:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100353/-over-200-trade-unions-to-launch-sick-leave-campaign-) · `en`
-
-Over 200 trade unions in the public sector, including Grama Niladhari officers and surveyors will resort to trade union action by reporting ‘sick’ on Monday (8) and Tuesday (9), according to the Trade Unions Collective.
-
-However, the teachers and the principals will be reporting sick only on Tuesday (09 July).
-
-◼️
-
-[Data](articles/5524b2b2.json)
-
-[Extended Data](ext_articles/5524b2b2.ext.json)
-
----
-
-### New UK leader Starmer declares Rwanda deportation plan ‘dead and buried’
-
-*2024-07-07 14:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100352/new-uk-leader-starmer-declares-rwanda-deportation-plan-dead-and-buried) · `en`
-
-Britain’s new Prime Minister Keir Starmer said on Saturday he would scrap a controversial plan to fly thousands of asylum seekers from Britain to Rwanda in his first major policy announcement since winning a landslide election victory.
-
-The previous Conservative government first announced the plan in 2022 to send migrants who arrived in Britain without permission to the East African nation, saying it would put an end to asylum seekers arriving on small boats.
-
-But no one was sent to Rwanda under the plan because of years of legal challenges.
-
-At his first press conference since becoming prime minister, Starmer said that the Rwanda policy would be scrapped because only about 1% of asylum seekers would have been removed and it would have failed to act as a deterrent.
-
-“The Rwanda scheme was dead and buried before it started. It’s never been a deterrent,” Starmer said. “I’m not prepared to continue with gimmicks that don’t act as a deterrent.”
-
-...
-
-[Data](articles/097d8dde.json)
-
-[Extended Data](ext_articles/097d8dde.ext.json)
-
----
-
-### The controntal incident that surprised the LPL
-
-*2024-07-07 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198573) · `si`
-
-In a surprising twist during the Lanka Premier League, Colombo Strikers clinched victory over Candy Falcons despite needing just 4 runs off the last three balls. Chamika Karunarathne played a crucial role, defeating Mohammad Karunaratne in the penultimate over, setting up a tense finish. Despite Candy Falcons' valiant effort, Colombo Strikers emerged victorious by two runs.
-
-🟩
-
-Two matches in the Lanka Premier League were held at Dambulla yesterday.
-
-Colombo Strikers and Jarfna Kings were able to report the win.
-
-The first match was held between Candy Falcons and Colombo Strikers.
-
-Batting first, Colombo Strikers scored 199 runs for the loss of 9 wickets in their allotted 20 overs.
-
-Chamika Karunarane defeated Mohammic Karunaratne in the seventh evening of Candy Falcation team to chase points.
-
-Candy Falcation team needed 20 runs for winning the final and scored 16 runs off 3 balls.
-
-Accordingly, although 3 runs for the final ball, Mathews ran in the ball, he won the Colombo Strokers in 2 runs.
-
-Meanwhile, the refusal of candy leader Moaru Karunaratne has been rejected by Candy leader Moararatne while the match against the match.
-
-◼️
-
-[Data](articles/13ca247d.json)
-
-[Extended Data](ext_articles/13ca247d.ext.json)
-
----
-
-### Relieved to the refugees in Britain
-
-*2024-07-07 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198572) · `si`
-
-The new British Prime Minister has suspended the refugee deal with Rwanda, reversing the policy announced by the previous government in 2022 to send migrants arriving in the UK to Rwanda. This decision comes shortly after the PM's election victory, signaling a shift in approach towards handling migrant issues.
-
-🟩
-
-The British New Prime Minister says that the British new Prime Minister is suspending the "refugees' program to be implemented by the British government to Rwanda.
-
-He was speaking to his policies after winning the election.
-
-The last government has announced the year 2022 that migratory personnel who arrive in the country are not legally sent to Rwanda.
-
-◼️
-
-[Data](articles/a49b1b54.json)
-
-[Extended Data](ext_articles/a49b1b54.ext.json)
 
 ---

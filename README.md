@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 09:35:13**
+As of **2024-07-08 09:54:45**
 
 ## Newspaper Stats
 
-*Scraped **34,168** Articles*
+*Scraped **34,169** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,913
 tamilmirrorlk | 4,057
 dailymirrorlk | 4,733
 virakesarilk | 5,349
-adaderanasinhalalk | 5,679
+adaderanasinhalalk | 5,680
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,167 (100.0%) of 34,168 articles have been extended.
+34,168 (100.0%) of 34,169 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### පුංචි පුතා සුරතල් මත්ස්‍ය ටැංකියට බිලිවෙයි
+
+*2024-07-08 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198591) · `si`
+
+මිද්දෙනිය වික්‍රම මාවත නැගෙනහිර ප්‍රදේශයේ දී කුඩා පිරිමි දරුවෙකු මසුන් ඇතිකරන ජල ටැංකියකට වැටී මියගොස් තිබේ.
+
+එලෙස මියගොස් ඇත්තේ අවුරුදු 03ක් වයසැති මිද්දෙනිය ප්‍රදේශයේම පදිංචිව සිටි දරුවෙකි.
+
+නිවස ඉදිරිපිට සුරතල් මසුන් ඇති කිරීමට තනා තිබූ ජල ටැංකියට වැටී මෙම දරුවා මියගොස් ඇති බවට පොලීසිය කළ විමර්ශනයේ දී අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/8968c3bc.json)
+
+---
 
 ### Over 200 trade unions launch ‘sick leave’ campaign today
 
@@ -49,6 +65,8 @@ The General Secretary of the Ceylon Teachers’ Union (CTU), Joseph Stalin, said
 ...
 
 [Data](articles/22a187ec.json)
+
+[Extended Data](ext_articles/22a187ec.ext.json)
 
 ---
 
@@ -2273,35 +2291,5 @@ Upul Rohana said that the attention of the authorities should be drawn soon.
 [Data](articles/1a2641de.json)
 
 [Extended Data](ext_articles/1a2641de.ext.json)
-
----
-
-### No money to give salary increases
-
-*2024-07-07 13:33:36* · [`adalk`](https://www.ada.lk/breaking_news/වැටුප්-වැඩිකළොත්-දෙන්න-සල්ලි-නෑ/11-410646) · `si`
-
-Facing economic challenges, the government has prioritized maintaining public servant salaries over salary increases, despite criticism. Efforts against economic threats like drug trafficking are underway, with regional cooperation and community policing initiatives. The president emphasizes the importance of unity and law enforcement in overcoming these issues, highlighting the success of drug control programs and the need for continued vigilance.
-
-🟩
-
-Some try to sabotage the country when the country is being built economically
-
-Even in the face of the economic crisis, salary increments were given to public servants this year.
-
-The budget next year will also be allocated for this purpose.
-
-Some people say that they were slashed public service in the face of the economic crisis, but I did not - the salaries of the salaries were given on time.
-
-When the country is dating from economic threat, the country needs the support of all people to save the country.
-
-Regional leaders have decided to work together in the suppression of the narcotics racket on the sea. - President Mahinda Rajapaksa says
-
-President Ranil Wickremesinghe said that the country was trying to sabotage the country at the time of the economic crisis, but the budget has been given to public servants, "President Ranil Wickremesinghe said.
-
-...
-
-[Data](articles/dacfd0f6.json)
-
-[Extended Data](ext_articles/dacfd0f6.ext.json)
 
 ---

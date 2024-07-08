@@ -1,36 +1,158 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 07:48:40**
+As of **2024-07-08 08:24:15**
 
 ## Newspaper Stats
 
-*Scraped **34,154** Articles*
+*Scraped **34,162** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 309
-colombotelegraphcom | 314
+colombotelegraphcom | 315
 bbccomsinhala | 334
 newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,005
 dailyftlk | 2,130
-adalk | 3,052
+adalk | 3,054
 adaderanalk | 3,910
-tamilmirrorlk | 4,053
+tamilmirrorlk | 4,056
 dailymirrorlk | 4,733
 virakesarilk | 5,349
-adaderanasinhalalk | 5,677
+adaderanasinhalalk | 5,679
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,154 (100.0%) of 34,154 articles have been extended.
+34,162 (100.0%) of 34,162 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### The rain will continue in the coming days
+
+*2024-07-08 07:54:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்வரும்-நாட்களில்-மழை-தொடரும்/175-340016) · `ta`
+
+The Department of Meteorology forecasts continued rainfall across the southwest of the country, including Kandy, Nuwara Eliya, Galle, and Matara districts. Expect rain or thundershowers in the evening or night in parts of Uva Province and Ampara and Batticaloa districts.
+
+🟩
+
+The Department of Meteorology has predicted that the current rainfall in the southwest of the country will continue in the coming days.
+
+Accordingly, rainfall is expected in the Kandy, Nuwara Eliya, Galle and Matara districts today.
+
+The Department of Meteorology also stated that there is a possibility of rain or thundershowers in the evening or night in some parts of the Uva Province and in some parts of Ampara and Batticaloa districts.. (A)
+
+◼️
+
+[Data](articles/5c97b398.json)
+
+[Extended Data](ext_articles/5c97b398.ext.json)
+
+---
+
+### Chavakachcheri incident;Northern Doctors Action Resolution
+
+*2024-07-08 07:50:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சாவகச்சேரி-சம்பவம்-வடமாகாண-வைத்தியர்கள்-அதிரடி-தீர்மானம்/71-340015) · `ta`
+
+In response to the Chavakachcheri incident, all state hospital doctors in Sri Lanka's Northern Province plan to boycott work except for emergency treatments from 8 AM to 8 PM. This action supports the newly appointed doctors at the Chavakachcheri Resource Hospital, protesting against inadequate protection.
+
+🟩
+
+All the state hospital doctors in the Northern Province are going to boycott a day's work.
+
+Jaffna of the Northern Province. The newly appointed doctors at the Chavakachcheri Resource Hospital in the district are against the protection of the doctors who are working there.
+
+All the state hospital doctors in the Northern Province are on behalf of the affected hospital doctors.
+
+Accordingly, the doctors will only be involved in the emergency treatment of doctors from 8 am to 8 am the next morning, according to the State Council Officers Association said.. Remble
+
+◼️
+
+[Data](articles/419dd5ce.json)
+
+[Extended Data](ext_articles/419dd5ce.ext.json)
+
+---
+
+### Emergency Declaration in Russia
+
+*2024-07-08 07:43:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்யாவில்-அவசரநிலை-பிரகடனம்/50-340014) · `ta`
+
+Russia declares a state of emergency in the Voronezh region due to weapon fires caused by a Ukrainian drone attack. Authorities initiate temporary evacuations.
+
+🟩
+
+The state of emergency has been declared due to the burning of weapons in the Voronage region of Russia, with Ukraine's drone attack yesterday.
+
+In this case, it is reported that the authorities have taken steps to temporarily evacuate people in danger. (A)
+
+◼️
+
+[Data](articles/66a2560d.json)
+
+[Extended Data](ext_articles/66a2560d.ext.json)
+
+---
+
+### The petition involved in the presence of the President's term is considering today
+
+*2024-07-08 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198590) · `si`
+
+A Supreme Court petition concerning the president's term will be discussed today by a five-judge panel, including Chief Justice Jayantha Jayasuriya and others. The case stems from a presidential election, where entrepreneur CD Levy presented the petition last Wednesday. PAFFREL's Rohana Hettiarachchi warns of legal action if the government proceeds with the election despite the petition.
+
+🟩
+
+The petition filed by the Supreme Court regarding the president's term of office is due to be conducted today (08).
+
+The petition will be considered in the face of a five judge bench.
+
+Chief Justice Jayantha Jayasuriya, Vijitha Jayantha Jayasuriya, Vijith Malalgoda, Murdu Fernando, Geetants, Surasena and S. Wathleirajah.
+
+The presidential election has been made to issue an order to issue a preventive order to issue a prevention order as a result of the President's term of office.
+
+CD, a entrepreneur. Mr. Levy presented the petition on Wednesday.
+
+Meanwhile, PAFFREL's executive director Rohana Hettiarachchi said that if the government was holding the election, he would take serious action in front of the law.
+
+◼️
+
+[Data](articles/27c31677.json)
+
+[Extended Data](ext_articles/27c31677.ext.json)
+
+---
+
+### Sick Public Service
+
+*2024-07-08 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198589) · `si`
+
+Over 200 trade unions in the public service plan strikes today and tomorrow in various sectors like Mail, Survey, Agriculture, and more, demanding pay raises. The action includes postal workers starting their strike from yesterday afternoon. However, not all unions, such as teachers and medical staff, have joined the strike, raising concerns about its impact on public services.
+
+🟩
+
+The Public Service Trade Union Alliance says that over 200 trade unions representing the public service will be held today and tomorrow (09) and will be launched.
+
+State officials will be strike on several sectors including Mail, Survey, Farmers Regulakes, Grama Niladharis, Development Officers and Samurdhi Officers today.
+
+The presidential and Provincial Public Management Association President NM Wijeratne said that the trade union action is being carried out on several demands, including increases.
+
+Convener of the Joint Postal Service Trade Union Convener, the convener of the Joint Postal Service Trade Union, said that he was working on strike from 4 pm yesterday (07), supporting the trade union action.
+
+The General Secretary of the Ceylon Teachers Union Joseph Stalin said that the teacher's trade unions have been reported to date today and have decided to report sick leave.
+
+Meanwhile, the Government Medical Officers' Association and Nurses are yet to support the strike.
+
+...
+
+[Data](articles/ff3add6d.json)
+
+[Extended Data](ext_articles/ff3add6d.ext.json)
+
+---
 
 ### The prevailing rainycy in the next few days
 
@@ -478,6 +600,22 @@ Galambo Strikers, who was first invited to bat in the upting match, scored 185 r
 
 ---
 
+### A Child’s Guide To Debt & Restructuring: Country Driven To Economic Collapse Has Not Many Options
+
+*2024-07-08 01:41:32* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-childs-guide-to-debt-restructuring-country-driven-to-economic-collapse-has-not-many-options/) · `en`
+
+Aseni, the whiz kid has been alive to the debate over the debt situation of Sri Lanka. Despite her familiarity of the subject as a student of economics and finance, she says that she has not been able to comprehend many arguments presented by those who are pro or against the restructuring of the country’s debt. She turned to her Grandpa, Sarath Mahatthaya, a retired official of the Ministry of Finance, for help. The following is the interaction between the two on the issue.
+
+Aseni: Grandpa, I have listened to the address of President Ranil Wickremesinghe to the nation last month and to the Parliament early this month over the success of his Government in reaching an agreement with bilateral creditors to restructure Sri Lanka’s external debt. He tagged this as ‘Good News’ drawing on terminology used by Bible writers. But his message was unclear to me. What was it?
+
+...
+
+[Data](articles/3edfcc32.json)
+
+[Extended Data](ext_articles/3edfcc32.ext.json)
+
+---
+
 ### Worsening external deficit to improve fiscal deficit: Jumping from frying pan into the fire
 
 *2024-07-08 00:31:31* · [`dailyftlk`](https://www.ft.lk/columns/Worsening-external-deficit-to-improve-fiscal-deficit-Jumping-from-frying-pan-into-the-fire/4-763944) · `en`
@@ -875,6 +1013,58 @@ Nonsense. The President expressed his deepest condolences to Sampanthan's death 
 [Data](articles/c99ab829.json)
 
 [Extended Data](ext_articles/c99ab829.ext.json)
+
+---
+
+### Interestless loans for A / L
+
+*2024-07-07 19:41:42* · [`adalk`](https://www.ada.lk/breaking_news/උසස්පෙළ-සමතුන්ට-පොලී-රහිත-ණය/11-410657) · `si`
+
+The Ministry of Education is rapidly implementing interest-free loans for students through NGOs, targeting GCE Advanced Level graduates. This initiative is part of the Interest-Free Student Credit Scheme, aiming to support students' education without financial burden. The scheme has already benefited over 3,000 students across various stages, with plans to extend it further.
+
+🟩
+
+2022 Ministry of Education says that arrangements are being carried out expeditiously to follow courses in NGOs to study courses in NGOs.
+
+The proposed proposals proposed to be sent to the students who passed the GCE Advanced students as the eighth team of 2022 as the eighth team of interest free of the Interest-Free Student Credit Scheme.And National Policies are scheduled to be held at the Ministry of Policy.
+
+According to the budget proposals of the 2017 Budget proposal to provide a degree of an A / L students to be included in a state university, the Budget Proposal has been implemented in 2017.. In a maximum of Rs.
+
+...
+
+[Data](articles/1ce84ad0.json)
+
+[Extended Data](ext_articles/1ce84ad0.ext.json)
+
+---
+
+### A great strike today
+
+*2024-07-07 19:31:54* · [`adalk`](https://www.ada.lk/breaking_news/අද-මහා-වර්ජනයක්/11-410656) · `si`
+
+Public service unions in Sri Lanka plan a strike, demanding pay raises and better conditions. Over 200 trade unions, including those representing lower-grade employees hit hardest by the economic crisis, are participating. The strike aims to pressure the government into increasing the minimum basic salary and providing additional allowances. Educational institutions are also affected, with proceedings ongoing.
+
+🟩
+
+The personnel and public service union groups of the Ministry of State Services and Public Service Union (UPFA) and the Public Service Trade Union Alliance (08) and tomorrow (08) will be taken away tomorrow (8).
+
+Trade unions states that the government has taken an allowance of Rs.
+
+Member of the Member of the Association of State Secretary Chandana Sooriyarachchi said that this program would connect to this program.
+
+Accordingly, the public officials who work in the strike and Colombo districts will be held in front of the Ministry of Public Administration and the public secretaries will be held in front of all District Secretaries tomorrow.
+
+He added that the minimum basic salary of the public service is Rs.
+
+He said that the government has asked the authorities to provide an allowance of Rs.
+
+However, more than five lakhs of primary and secondary services will be lifted from today (08th) and will not respond due to these measures today (October 8) and will be responding to these activities..
+
+...
+
+[Data](articles/d74d6e41.json)
+
+[Extended Data](ext_articles/d74d6e41.ext.json)
 
 ---
 
@@ -2135,187 +2325,5 @@ The co -guest of the Postal Trade Union Front, Chintaka Bandara added that the t
 [Data](articles/d89123ea.json)
 
 [Extended Data](ext_articles/d89123ea.ext.json)
-
----
-
-### Weather advisory issued for heavy rain
-
-*2024-07-07 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100351/weather-advisory-issued-for-heavy-rain) · `en`
-
-The Department of Meteorology has issued an ‘Amber’ advisory for heavy rain for Western and Sabaragamuwa provinces and in Kandy district.
-
-Heavy showers of about 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy district, it said.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/e7696f51.json)
-
-[Extended Data](ext_articles/e7696f51.ext.json)
-
----
-
-### Notice after 17 of the election date
-
-*2024-07-07 13:00:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலுக்கான-திகதி-17-இற்கு-பின்னர்-அறிவிப்பு/175-339974) · `ta`
-
-The Elections Commission expects to finalize the voter list certification within days, aiming to announce the 2024 presidential election date post-July 17.
-
-🟩
-
-The Elections Commission said that the task of certifying the voter list for 2024 will be completed in a few days.
-
-According to the Chairman of the Elections Commission, the date of the presidential election will be announced after July 17.. (A)
-
-◼️
-
-[Data](articles/20e3126f.json)
-
-[Extended Data](ext_articles/20e3126f.ext.json)
-
----
-
-### Sanath Jayasuriya appointed Sri Lanka’s head coach?
-
-*2024-07-07 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100350/sanath-jayasuriya-appointed-sri-lankas-head-coach) · `en`
-
-Former Sri Lanka captain Sanath Jayasuriya has been temporarily appointed as the Head Coach of the men’s national team by Sri Lanka Cricket (SLC), sources told Ada Derana.
-
-Jayasuriya will reportedly serve as the interim head coach for the upcoming home series against India and the Test tour to England.
-
-This decision comes as SLC continues its search for a permanent replacement for former head coach Chris Silverwood.
-
-The interim appointment follows the resignations of head coach Chris Silverwood and consultant coach Mahela Jayawardene after Sri Lanka’s underwhelming performance in the T20 World Cup held in the USA and West Indies.
-
-Under the leadership of Wanindu Hasaranga, the team failed to advance to the Super 8 round, prompting a need for significant changes in the coaching staff.
-
-Sri Lanka’s immediate challenge is the home series against the newly crowned T20 World Cup champions, India. The series will feature three One Day Internationals (ODIs) and three Twenty20 Internationals (T20Is).
-
-◼️
-
-[Data](articles/e8f1486a.json)
-
-[Extended Data](ext_articles/e8f1486a.ext.json)
-
----
-
-### A revelation of the Presidential Election Day
-
-*2024-07-07 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198568) · `si`
-
-The Elections Commission plans to announce the presidential election date after July 17, within a range of September 17 to October 16, using the 2024 electoral register. However, a pending Supreme Court review over a fundamental rights petition could delay this announcement.
-
-🟩
-
-The Elections Commission says he will declare the date of the presidential election after July 17th.
-
-Its Chairmans. M. it. L. Mr. Ratnayake said the Commission was authorized after July 17 to announce the date of the presidential election.
-
-The Elections Commission had previously announced that it will be held between September 17 and 16th October.
-
-Accordingly, the Elections Commission will determine the exact date of the presidential election, the Chairman said.
-
-The 2024 electoral register is to be used for the presidential election.
-
-Elections Commission RMAL Ratnayake said that the number of electoral registration is due to be done in the next few days.
-
-However, the presidential election has been demanding a fundamental rights petition for the Supreme Court.
-
-The petition filed by the businessman is due to be considered before the Chief Justice, a five-member Supreme Court panel of Chief Justice.
-
-...
-
-[Data](articles/6f0c74ff.json)
-
-[Extended Data](ext_articles/6f0c74ff.ext.json)
-
----
-
-### WWE Sembian Johnsina's shocking announcement
-
-*2024-07-07 12:39:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/WWE-செம்பியன்-ஜோன்சீனாவின்-அதிர்ச்சி-அறிவிப்பு/50-339973) · `ta`
-
-Johnsina, a beloved WWE wrestler known for his unique style and 16 WWE Sembian titles, has shocked fans by announcing his retirement. His sudden decision to step away from the ring, especially after making a surprise appearance at the Money in the Bank event in Toronto, leaves a void in the hearts of 90s kids who grew up watching him.
-
-🟩
-
-Famous wrestler Johnsina has announced that he will retire from WWE wrestling matches.
-
-Hearing his name, the 90s Kids will be happy in the minds. The style he gives into the field is very popular.
-
-Johnsina, who has won the WWE Sembian title 16 times, has announced that he will retire from the WWE matches.
-
-Johnsina, who suddenly appeared in the Money in the Bank in Toronto, Canada, has announced her retirement.
-
-◼️
-
-[Data](articles/28876cc0.json)
-
-[Extended Data](ext_articles/28876cc0.ext.json)
-
----
-
-### John Laughter attends Recelin Ground
-
-*2024-07-07 12:37:57* · [`adalk`](https://www.ada.lk/breaking_news/ජෝන්-සිනා-රෙස්ලින්-පිටිියට-සමුදෙයි/11-410644) · `si`
-
-John Laughter joins Recelin Ground while John Sena, after winning 16 championships, announces his retirement from RESLOW next year, including the 2025 Resolmenia tournament.
-
-🟩
-
-John Sena has decided to retire from the World Recelin Suzin Ground, a corner of Hollywood as well as the World Rest Ground.
-
-Accordingly, he declared that he retires from the resign from RESLOW next year. 47 The celebration of John Sene wins 16 championships in World Rest Ground.
-
-John Sena says the Resolmenia tournament in 2025
-
-◼️
-
-[Data](articles/10daf09b.json)
-
-[Extended Data](ext_articles/10daf09b.ext.json)
-
----
-
-### Postal workers to launch 48-hour token strike
-
-*2024-07-07 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100348/postal-workers-to-launch-48-hour-token-strike-) · `en`
-
-The co-convener of the United Postal Trade Unions’ Front, Chinthaka Bandara says that they have decided to engage in a 48-hour token strike tomorrow (08) and the day after (09).
-
-Speaking at a press conference, he stated that the token strike would commence from 4.00 p.m. today (07) at the Central Mail Exchange in Colombo.
-
-However, this trade union action would be commenced across all other post offices from midnight today.
-
-He further emphasised that they have launched this trade union action based on three demands.
-
-◼️
-
-[Data](articles/ffd4da52.json)
-
-[Extended Data](ext_articles/ffd4da52.ext.json)
-
----
-
-### Film producer launched
-
-*2024-07-07 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198567) · `si`
-
-Film producer known for classics like Titanic and Avatar passed away after battling cancer for a year. His sister described him as the best brother anyone could have.
-
-🟩
-
-The manufacturer of films in the world, Titanic and Videors, Oscar, has been killed.
-
-It is said that he was suffering from cancer over the past year.
-
-The sister of his death, Tina has said, "The best brother to a girl," said. "He was.
-
-◼️
-
-[Data](articles/7de95d45.json)
-
-[Extended Data](ext_articles/7de95d45.ext.json)
 
 ---

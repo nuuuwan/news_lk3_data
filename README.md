@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 18:36:59**
+As of **2024-07-08 18:54:31**
 
 ## Newspaper Stats
 
-*Scraped **34,250** Articles*
+*Scraped **34,253** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,48 +19,62 @@ adalk | 3,070
 adaderanalk | 3,927
 tamilmirrorlk | 4,069
 dailymirrorlk | 4,733
-virakesarilk | 5,351
+virakesarilk | 5,354
 adaderanasinhalalk | 5,700
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,248 (100.0%) of 34,250 articles have been extended.
+34,250 (100.0%) of 34,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### හිරන්ති අත්අඩංගුවට
+### Hiranthi arrested
 
 *2024-07-08 18:15:40* · [`adalk`](https://www.ada.lk/breaking_news/හිරන්ති-අත්අඩංගුවට/11-410670) · `si`
 
-ඇමරිකා එක්සත් ජනපදයේ රැකියා ලබාදෙන බව පවසමින් මුදල් වංචා කළ කාන්තාවක් ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් ඊයේ දින (7/7) වවුනියාව ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+A woman accused of fraudulently collecting money for U.S. jobs in Sri Lanka was arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment. She faces five complaints and was remanded until July 12th. The case highlights the importance of verifying job agencies through official channels like slbfe.lk.
 
-සිය නැගණිය මාර්ගයෙන් ඇමරිකාවේ රැකියා ලබාදිය හැකි යැයි පවසා වවුනියාව, බෝගස්වැව ප්‍රදේශයේ පදිංචි කාන්තාවක් තමන්ගෙන් රුපියල් ලක්ෂ 10ක මුදලක් ලබාගෙන පොරොන්දු වූ පරිදි රැකියාව ලබානොදුන් බවට, ගම්පහ ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු විසින් පසුගියදා කාර්යාංශයේ විශේෂ විමර්ශන අංශයට පැමිණිල්ලක් ඉදිරිපත් කළේය. ඒ අනුව කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් අදාල කාන්තාවට එරෙහිව කොළඹ අලුත්කඩේ අධිකරණයට කරුණු වාර්තාකර නඩු පවරන ලදී.
+🟩
 
-සැකකාරියට එරෙහිව පැමිණිලි 5ක් කාර්යාංශය වෙත ලැබී ඇති අතර, ඒ අනුව ක්‍රියාත්මක වූ විමර්ශන නිළධාරීන් විසින් මෙම කාන්තාවගේ නිවසට ගොස් අත්අඩංගුවට ගැනීම සිදුකර තිබේ. ඇයගෙන්  සිදුකළ ප්‍රශ්න කිරිමේදී ඇය දිවයිනේ ප්‍රසිද්ධ රක්ෂණ සමාගමක මැදවච්චිය ශාඛාවේ කළමනාකාරිනිය ලෙස සේවය කරන බව අනාවරණය විය.
+A woman who has been expedited money in the United States is arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment (Special Investigation) at Vavuniya yesterday (7/7).
+
+A resident of Bogaswewa said he could offer jobs in the US that had been provided with Rs.. Accordingly, officials of the Bureau of Special Investigation Division of the Special Investigation Division of the Bureau were reported to the Malkade Court of Colombo against the respective woman.
+
+The Bureau has received 5 complaints against the suspect and the investigators have been arrested by the investigating officials and arrested the woman to the hospital. It was revealed that she served as manager of the Medawachchiya Branch of the island at the time of interrogation.
+
+The suspect was produced before the Vavuniya Magistrate's Court yesterday (7/7) and remanded until July 12, and the suspect is to be produced before the new shop Magistrate's Court on July 12.
 
 ...
 
 [Data](articles/e9b67213.json)
 
+[Extended Data](ext_articles/e9b67213.ext.json)
+
 ---
 
-### ජනපතිවරයාගේ ධුර කාලය අවුරුදු 5යි - ශ්‍රේෂ්ඨාධිකරණයෙන් තීන්දුවක්
+### The term of the President's tenure is 5 years old - Supreme Court rules
 
 *2024-07-08 18:11:07* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරයාගේ-ධුර-කාලය-අවුරුදු-5යි---ශ්‍රේෂ්ඨාධිකරණයෙන්-තීන්දුවක්/11-410669) · `si`
 
-ව්‍යවස්ථාව අනුව ජනාධිපතිවරයාගේ ධුරකාලය වසර 05 ක් බව ස`ඳහන් කළ ශ්‍රේෂ්ඨාධිකරණය ජනාධිපතිවරයාගේ ධූර කාලය අවසන් වන දිනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ අර්ථ නිරූපනයක් දෙනතුරු ජනාධිපතිවරණය පැවැත්වීමෙන් මැතිවරණ කොමිසම වළකාලන නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ව්‍යවසායකයෙකු ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම විභාගයට නොගෙනම ඊයේ (08) නිශ්ප්‍රභ කළේය.
+The Supreme Court ruled on the interpretation of the President's term length, affecting the upcoming presidential election. A petition filed by an entrepreneur led to the court's intervention, highlighting concerns over the judiciary's role and the constitutionality of the situation. Organizations and legal representatives debated the case, with the Elections Commission and its members being central figures. The court's decision was based on the 19th Amendment to the Constitution, emphasizing the legality of the President's term.
 
-ජනාධිපතිවරයාගේ ධුරකාලය සම්බන්ධයෙන් පැහැදිලි තීන්දුවක් දී තිබියදී අධිකරණය නොමග යන ආකාරයට කටයුතු කිරීම වැරදි සහගත ක්‍රියාවක් මෙන්ම අධිකරණයේ කාලය නාස්ති කිරීමක් බවද පෙන්වා දුන් ශ්‍රේෂ්ඨාධිකරණය ව්‍යවසායකයෙකු බව කියන චමින්ද්‍ර ලේනව මහතාගේ ක්‍රියා කලාපය  දැඩි  දෝෂ දර්ශනයට ලක් කරමින් රුපියල් ලක්ෂයක නඩු ගාස්තුවකට ඔහු යටත් කළේය.
+🟩
 
-අගවිනිසුරු ජයන්ත ජයසුරිය ශ්‍රේෂ්ඨාධිකරණ විනිසුරුන් වන විජිත් මලල්ගොඩ, මුර්දු ප්‍රනාන්දු, ප්‍රීතී පද්මන් සුරසේන සහ එස්. තුරේරාජා මහත්වරුන් සැදුම්ලත් පංච පුද්ගල විනිසුරු මඩුල්ලක් හමුවේ පෙත්සම කැඳවනු ලැබීය.
+According to the Constitution, the Supreme Court to be interpreted to the President's term of the President's term to avert the presidential election by holding the presidential election by holding the presidential election by holding the presidential election, the Fundamental Rights Petition filed by an entrepreneur was imposed yesterday (08).
+
+The Supreme Court who pointed out that the judiciary was a clear decision regarding the realization of the President, the Supreme Court was a lack of an entrepreneur and subordinated herself to a liturbis.
+
+Chief Justice Jayantha Jayasuriya Supreme Court Justice Judge Vijith Malalgoda, Mustru Fernando, Preethi Paddan Surutsena and S. The petition was summoned before the Turaralaja.
 
 ...
 
 [Data](articles/732127ad.json)
+
+[Extended Data](ext_articles/732127ad.ext.json)
 
 ---
 
@@ -134,6 +148,42 @@ No
 
 ---
 
+### மட்டு. குருக்கள்மடம் கடற்கரையிலிருந்து பெண் ஒருவரின் சடலம் மீட்பு.
+
+*2024-07-08 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187977) · `ta`
+
+மட்டக்களப்பு மாவட்டம் களுவாஞ்சிகுடி பொலிஸ் பிரிவுக்குட்பட்ட குருக்கள்மடம் கடற்கரையிலிருந்து பெண் ஒருவரின் சடலம் திங்கட்கிழமை (08) மீட்கப்பட்டுள்ளதாக களுவாஞ்சிகுடி பொலிஸார் தெரிவித்தனர்.
+
+குருக்கள்மடம் கடற்கரையில் பெண் ஒருவரின் சடலம் கரை ஒதுங்கியுள்ளதாக பொலிஸாருக்குக் கிடைத்த தகவலையடுத்து அங்கு விரைந்த பொலிஸார் சடலத்தை பார்வையிட்டு மீட்டுள்ளனர்.
+
+சடலமாக மீட்கப்பட்டவர் சுமார் 40 வயது மதிக்கத்தக்க பெண் எனவும், குறித்த நபர் இதுவரையில் அடையாளம் காணப்படவில்லை எனவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+மேலும்,நீதிமன்ற உத்தரவைப் பெற்று சடலத்தை வைத்தியசாலைக்கு கொண்டு செல்லப்படவுள்ளதோடு, சடலத்தை அடையாளம் காண பொதுமக்களின் உதவியை நாடுவதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/f0914c70.json)
+
+---
+
+### மன்னாரில் இலத்திரனியல் வகுப்பறைகளை திறந்து வைத்தார் சஜித் பிரேமதாச
+
+*2024-07-08 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/187973) · `ta`
+
+எதிர்கட்சி தலைவர் பாராளுமன்ற உறுப்பினர் சஜித் பிரேமதாஸ அவர்களின் பிரபஞ்சம் நிகழ்ச்சித் திட்டத்தின் ஊடாக மன்னார் மாவட்டத்தில் தெரிவு செய்யப்பட்ட பாடசாலைகளுக்கான இலத்திரனியல் மூல வகுப்பறை (SMART CLASS ROOM) கையளிக்கும் நிகழ்ச்சித்திட்டம் இன்று திங்கட்கிழமை (8) இடம் பெற்றது.
+
+இதன் போது தாழ்வுபாடு,தாராபுரம் மற்றும் சித்திவிநாயகர்   பாடசாலைகளில் அமைக்கப்பட்ட குறித்த இலத்திரனியல் மூல வகுப்பறை  (SMART CLASS ROOM)    வைபவ ரீதியாக திறந்து வைக்கப்பட்டு மாணவர்களின் பயன்பாட்டிற்காக கையளிக்கப்பட்டுள்ளது.
+
+எதிர்கட்சி தலைவர்   சஜித் பிரேமதாசவுடன்   பாராளுமன்ற உறுப்பினர் ரிஷாட் பதியூதினும் இணைந்து  குறித்த SMART வகுப்பறைகளை வைபவ ரீதியாக திறந்து வைத்தார்.
+
+மேலும், குறித்த பாடசாலைகளின் நூலகங்களுக்கு தேவையான ஒரு தொகுதி ஆங்கில புத்தகங்களை வழங்கி வைத்ததோடு,புதிய நூல்கள் கொள்வனவு செய்ய தலா ஒரு இலட்சம் ரூபாய் நிதியும் வழங்கி வைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/d5f2378c.json)
+
+---
+
 ### K. Sujeewa’s condition is stable - National Hospital
 
 *2024-07-08 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100376/k-sujeewas-condition-is-stable-national-hospital) · `en`
@@ -153,6 +203,22 @@ Popular singer K. Sujeewa and another male, who were injured in the shooting, ar
 [Data](articles/1d1b0ac4.json)
 
 [Extended Data](ext_articles/1d1b0ac4.ext.json)
+
+---
+
+### இரா. பார்த்திபனின் 'டீன்ஸ்' பட கிறுக்கல்கள்
+
+*2024-07-08 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/187976) · `ta`
+
+நடிகர் - இயக்குநர் - தயாரிப்பாளர் - கவிஞர்-  பாடலாசிரியர் என பன்முக ஆளுமை கொண்ட இரா. பார்த்திபன் இயக்கத்தில் தயாராகி எதிர்வரும் 12 ஆம் திகதியன்று உலகம் முழுவதும் படமாளிகையில் வெளியாகவிருக்கும் 'டீன்ஸ்' எனும் திரைப்படத்தில் இடம் பெற்ற 'இக்கி பிக்கி.. 'எனும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியாகி இருக்கிறது.
+
+இயக்குநர் இரா பார்த்திபன் இயக்கத்தில் உருவாகி இருக்கும் 'டீன்ஸ்' திரைப்படத்தில் வளரிளம் பருவத்தினை சார்ந்த எட்டு ஆண்களும், ஐந்து பெண்களும் கதையின் நாயகர்களாக அறிமுகமாகி நடித்திருக்கிறார்கள். கேவ்மிக் ஆரே ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு டி. இமான் இசையமைத்திருக்கிறார்.
+
+சாகச பயணத்தை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை பயாஸ்கோப் யு எஸ் ஏ மற்றும் அகிரா எண்டர்டெயின்மெண்ட் பிரைவேட் லிமிடெட் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் கால்டுவெல் வேள்நம்பி, டொக்டர் பாலசுவாமிநாதன், டொக்டர் பிஞ்சி சீனிவாசன், ரஞ்சித் தண்டபாணி மற்றும் இரா. பார்த்திபன் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/c0e5aed3.json)
 
 ---
 
@@ -2171,57 +2237,5 @@ This facility generates power through the solar panels and established effluent 
 [Data](articles/938bfc5a.json)
 
 [Extended Data](ext_articles/938bfc5a.ext.json)
-
----
-
-### Sanasa Life Insurance PLC appoints Puvendran Gajendra as new chairman
-
-*2024-07-08 04:41:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-plc-appoints-puvendran-gajendra-as-new-chairman/) · `en`
-
-Sanasa Life Insurance PLC has appointed Puvendran Gajendra as their new Chairman, effective Wednesday, 19 June 2024. Mr. Gajendra has been a board member and functioned as an independent Director since 2019. His background is based on accountancy. A highly accomplished professional in his field Mr. Gajendra specializes in audits, financial accounting, taxation, and secretarial services. His specialization extends even further to include valuations, financial analysis, acquisitions, and mergers as well.
-
-...
-
-[Data](articles/b0da8155.json)
-
-[Extended Data](ext_articles/b0da8155.ext.json)
-
----
-
-### DPMC Workshop Madapatha wins Presidential Environment Award
-
-*2024-07-08 04:41:00* · [`islandlk`](http://island.lk/dpmc-workshop-madapatha-wins-presidential-environment-award/) · `en`
-
-David Pieris Motor Company (Private) Limited’s DPMC Workshop Madapatha was honoured with the prestigious Presidential Environment Award (Merit) in the Vehicle Servicing Centre Category. The awards ceremony, organized by the Central Environmental Authority of the Ministry of Environment, was held at the BMICH and presided over by President Ranil Wickremesinghe.
-
-This award recognized DPMC Workshop Madapatha’s exceptional commitment to environmental sustainability and proactive initiatives in environmental preservation and protection.
-
-The DPMC Workshop network, spread across the island, is dedicated to vehicle servicing, repairing, and maintenance. Utilising advanced technology and equipment, the network provides personalised services aligned with the manufacturer’s specifications and guidelines.
-
-...
-
-[Data](articles/f9fb8826.json)
-
-[Extended Data](ext_articles/f9fb8826.ext.json)
-
----
-
-### ECSL poised to declare election date unless Court issues injunction today
-
-*2024-07-08 02:33:58* · [`dailyftlk`](https://www.ft.lk/news/ECSL-poised-to-declare-election-date-unless-Court-issues-injunction-today/56-763981) · `en`
-
-Commissioner General of Elections Saman Sri Ratnayake has said if the Supreme Court issues a restraining order on the petition to prevent the holding of the Presidential election, the announcement of the election date will need to be suspended.
-
-He said that after 17 July the ECSL will be empowered to announce the date for calling nominations for the election. Accordingly thereafter the ECSL will be able to accept nominations 16-21 days following the announcement. He also noted polling will take place within 4-6 weeks from the date of calling for nominations.
-
-“If the Court does not issue an injunction order preventing the holding of elections, the Presidential elections can go ahead unabated,” he said.
-
-The Presidential election is scheduled to take place between 17 September and 16 October. Ratnayake further said that once the Election Commission assumes its authority, it will review the Constitution and determine suitable dates for accepting nominations and conducting the vote.
-
-...
-
-[Data](articles/9f0917d3.json)
-
-[Extended Data](ext_articles/9f0917d3.ext.json)
 
 ---

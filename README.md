@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 11:55:14**
+As of **2024-07-08 12:08:51**
 
 ## Newspaper Stats
 
-*Scraped **34,189** Articles*
+*Scraped **34,190** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,005
 dailyftlk | 2,130
 adalk | 3,058
 adaderanalk | 3,919
-tamilmirrorlk | 4,060
+tamilmirrorlk | 4,061
 dailymirrorlk | 4,733
 virakesarilk | 5,350
 adaderanasinhalalk | 5,686
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,686
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,185 (100.0%) of 34,189 articles have been extended.
+34,185 (100.0%) of 34,190 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### 11 பிரதேச செயலகங்களுக்கு மண்சரிவு எச்சரிக்கை
+
+*2024-07-08 11:32:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/11-பிரதேச-செயலகங்களுக்கு-மண்சரிவு-எச்சரிக்கை/175-340027) · `ta`
+
+களுத்துறை மற்றும் இரத்தினபுரி மாவட்டங்களில் உள்ள 11 பிரதேச செயலகங்களுக்கு விடுக்கப்பட்ட மண்சரிவு எச்சரிக்கை திங்கட்கிழமை (08) பிற்பகல் வரை அமுலில் இருக்கும் என தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது.
+
+நாட்டின் சில பகுதிகளில் பெய்து வரும் கடும் மழை காரணமாக இந்த எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+இதன்படி, களுத்துறை மாவட்டத்தின் இங்கிரிய புலத்சிங்கள, மத்துகம, பாலிந்தநுவர ஆகிய பிரதேச செயலகப் பிரிவுகளுக்கும் இரத்தினபுரி மாவட்டத்தின் இரத்தினபுரி, கலவான, குருவிட்ட, கிரியெல்ல, அயகம, அலபாத்த, எஹலியகொட ஆகிய பிரதேச செயலகப் பிரிவுகளுக்கும் மண்சரிவு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/75db2f9e.json)
+
+---
 
 ### President’s term in office is 5 years - AG tells court
 
@@ -95,6 +111,22 @@ The deceased has been identified as Surendra Wasantha Perera also known as “Cl
 ◼️
 
 [Data](articles/3f92206c.json)
+
+---
+
+### Presidential pardons: an unchecked executive power
+
+*2024-07-08 11:07:00* · [`islandlk`](http://island.lk/presidential-pardons-an-unchecked-executive-power/) · `en`
+
+A pardon is defined in Black’s Law Dictionary ‘as an act of grace’. In the Oxford Dictionary it is defined as an “action of forgiving or remission of the legal consequences of an offence or conviction”. Some argue that the power to grant a pardon is a check on the powers of the judiciary rectifying any miscarriage of justice. But this executive power unchecked could result in the abuse of power.
+
+In recent times, President Sirisena granted two pardons – one within six months and the other within nine days of relinquishing office while President Gotabay Rajapaksa granted two pardons – one within four months of becoming president and the other seven months after he received a two thirds majority in Parliament.
+
+...
+
+[Data](articles/3c14ff01.json)
+
+[Extended Data](ext_articles/3c14ff01.ext.json)
 
 ---
 
@@ -2203,53 +2235,5 @@ Her neighbors, including the son, have been admitted to the police and has been 
 [Data](articles/f7e55eb0.json)
 
 [Extended Data](ext_articles/f7e55eb0.ext.json)
-
----
-
-### The Hasaranga shows work
-
-*2024-07-07 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198578) · `si`
-
-In the Lanka Premier League, Candy Falcons chose to bat first after winning the toss against Goal Marvels. Opener Andre Fleurchari made 50 runs, and Nandu Hasaranga contributed with 65 runs off 32 balls. Key bowlers were Isuru Udana with 3 wickets for 30 runs and Serur Khan with 2 wickets for 29 runs.
-
-🟩
-
-Candy Falcons won the toss and elected to bat first in the winning match between Goal Marvels and Candy Falckens in the Lanka Premier League.
-
-Opener Andre Fleurchari scored 50 runs while Nandu Hasaranga scored 65 runs for 32 balls.
-
-The Isuru Udana took 3 wickets for 30 runs while Serur Khan took 2 wickets for 29 runs.
-
-◼️
-
-[Data](articles/c9e7eae9.json)
-
-[Extended Data](ext_articles/c9e7eae9.ext.json)
-
----
-
-### Baby in British Parliament
-
-*2024-07-07 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198577) · `si`
-
-Sam Carlin, aged 22, becomes youngest MP after winning a seat in the UK's Parliament with a 39-vote majority. Critics dub him "Baby in Parliament." He represents the Northwestern Cambridgeshire division for the Labour Party, marking a significant win as he anticipates more young people entering politics.
-
-🟩
-
-A 22-year-old youth has been elected to Parliament recently.
-
-Critics say that Sam Carlin, who represented the Election of the Labor, is likely to be called "Baby 'in Parliament.
-
-He represented a majority of 39 votes representing the Northwestern Cambrishire division.
-
-Shaylez Warra, who was a Member of Rs.
-
-Sam, who claims that their victory is a "political earthquake," he said he expects more and more young people to come.
-
-◼️
-
-[Data](articles/f65a24ac.json)
-
-[Extended Data](ext_articles/f65a24ac.ext.json)
 
 ---

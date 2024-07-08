@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 20:35:14**
+As of **2024-07-08 20:54:09**
 
 ## Newspaper Stats
 
-*Scraped **34,262** Articles*
+*Scraped **34,263** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,021
 dailyftlk | 2,130
 adalk | 3,073
 adaderanalk | 3,928
-tamilmirrorlk | 4,070
+tamilmirrorlk | 4,071
 dailymirrorlk | 4,733
 virakesarilk | 5,356
 adaderanasinhalalk | 5,702
@@ -26,21 +26,39 @@ adaderanasinhalalk | 5,702
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,261 (100.0%) of 34,262 articles have been extended.
+34,262 (100.0%) of 34,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### pulse සම්මානයෙන් පිදුම් ලබයි
+### இலங்கைக்கு டிஜிட்டல் பயணச் சீட்டு
+
+*2024-07-08 20:28:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-டிஜிட்டல்-பயணச்-சீட்டு/175-340045) · `ta`
+
+இவ்வருட இறுதிக்குள் ரயில்வே உள்ளிட்ட பொதுப் போக்குவரத்து பயணச் சீட்டுகளுக்கான டிஜிட்டல் விநியோக முறையொன்று அறிமுகப்படுத்தப்படும் என போக்குவரத்து, நெடுஞ்சாலைகள் அமைச்சின் செயலாளர் ரஞ்சித் கங்கநாத் ரூபசிங்க தெரிவித்தார். R
+
+◼️
+
+[Data](articles/1a1c705e.json)
+
+---
+
+### PUSUSE Award
 
 *2024-07-08 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198613) · `si`
 
-ඒ ජාතික තරුණ සේවා සභාව විසින් සංවිධානය කරන ලද පස්වෙනි "New Generation Asia Awards 2024" හි දීය.
+The National Generation Asia Awards 2024, organized by the National Youth Services Council, honored individuals and organizations contributing significantly to youth development across Asia.
+
+🟩
+
+The National Generation Asia Awards 2024 was organized by the National Youth Services Council.
 
 ◼️
 
 [Data](articles/d857a15b.json)
+
+[Extended Data](ext_articles/d857a15b.ext.json)
 
 ---
 
@@ -2259,39 +2277,5 @@ Meanwhile, PAFFREL's executive director Rohana Hettiarachchi said that if the go
 [Data](articles/27c31677.json)
 
 [Extended Data](ext_articles/27c31677.ext.json)
-
----
-
-### Suresantra Wasantha Perera: Who was the businessman who died of the shooting of Athurugiriya?
-
-*2024-07-08 07:13:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crgrz19l04do) · `si`
-
-Suresh Wasantha Perera, a prominent businessman, was killed in a shooting incident in Athurugiriya. The attack occurred during the opening of a business outlet and involved six victims, including a popular singer. Perera, known for his involvement in organized crime and owning several clubs, gained public attention after being arrested alongside Madushen Madushi in Dubai in 2019. Despite his arrest, he maintained a significant online presence, with over 600,000 followers on Facebook. He was 55 years old and left behind four children.
-
-🟩
-
-Suresantra Wasantha Perera: Who was the businessman who died of the shooting of Athurugiriya?
-
-The police media spokesman's office said that the famous businessman is the famous businessman, a shooting of shooting in Athurugiriya today (July 8).
-
-The Police Media Spokesman office told the Sinhala that the shooting had four other people.
-
-A popular singer among the injured. Sujeewa is also admitted to the Colombo National Hospital.
-
-When inquired about it, a hospital spokesman told the Sinhala that she had been hit by a shot of her foot.
-
-Police Media Spokesperson DIG Nihal Thaltuwa said that the shooting was on the operation of opening a business station.
-
-"These incidents are the road to the Boundaging in Athurugiriya Junction."
-
-"When a car was attending the opening of a tatoty shop, the shotguns who had come to the crime have already received basic information."
-
-"The event is wounded 6. Among them, Suresra Wasra Wasantha, a singer, has been informed. "
-
-...
-
-[Data](articles/478945cc.json)
-
-[Extended Data](ext_articles/478945cc.ext.json)
 
 ---

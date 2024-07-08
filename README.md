@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 23:20:10**
+As of **2024-07-08 23:35:22**
 
 ## Newspaper Stats
 
@@ -26,31 +26,41 @@ adaderanasinhalalk | 5,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,276 (100.0%) of 34,277 articles have been extended.
+34,277 (100.0%) of 34,277 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### அத்துருகிரிய துப்பாக்கிச் சூடு தொடர்பில் திடுக்கிடும் தகவல்கள்
+### Information about the Athurugiriya shooting
 
 *2024-07-08 22:58:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துருகிரிய-துப்பாக்கிச்-சூடு-தொடர்பில்-திடுக்கிடும்-தகவல்கள்/175-340062) · `ta`
 
-அத்துரிகிரியவில் இன்று (08) இடம்பெற்ற துப்பாக்கிச்சூட்டு சம்பவம் தொடர்பில் பல அதிர்ச்சி தகவல்கள் வெளியாகி உள்ளன.
+A shooting incident occurred in Athurugiriya, involving organized criminals led by Kanjibani Imran. The event targeted a tattoo parlor where businessman Surendra Wasantha Perera, his wife, and singer K. Sujeeva were present. Four individuals were killed, including Perera and the singer, while several others were injured. The attackers used a white car and a van, both with fake license plates, to escape the scene. Police investigations continue, focusing on the motive behind targeting the tattoo parlor and the involvement of organized crime.
 
-இந்த துப்பாக்கிச் சூட்டுச் சம்பவத்துடன், ஒழுங்கமைக்கப்பட்ட குற்றவாளியான கஞ்சிபானி இம்ரானுக்கு தொடர்பு இருப்பதாக பொலிஸார் சந்தேகிக்கின்றனர்.
+🟩
 
-அதுருகிரிய நகர சந்தியில் உள்ள மணிக்கூட்டு கோபுரத்திலிருந்து சுமார் 50 மீற்றர் தொலைவில் அமைந்துள்ள கட்டிடத்தின் மேல் தளத்தில், துலான் சஞ்சுலா என்ற பச்சை குத்தும் நபரினால் இன்று காலை பச்சை குத்தும் நிலையம் திறக்கப்பட்டது.
+Shocking reports have been revealed in connection with the shooting incident that took place today (08) in Athurigiriya.
 
-இதில் பிரதம அதிதிகளாக, பிரபல வர்த்தகர் சுரேந்திர வசந்த பெரேரா என்ற கிளப் வசந்த  அவரது மனைவி மற்றும் பிரபல பாடகி கே.சுஜீவா ஆகியோர் அழைக்கப்பட்டிருந்தனர்.
+Police suspect that Kanjibani Imran, an organized culprit, is involved in the shooting incident.
 
-காலை 10.15 மணியளவில் ஒருவல வீதியூடாக வந்த வெள்ளை நிற கார் ஒன்று மணிக்கூட்டு கோபுர சுற்றுவட்டத்தில் இருந்து மீண்டும் ஒருவல வீதிக்கு திரும்பி கட்டிடத்திற்கு அருகில் வீதியில் நின்றபது சிசிரிவி காட்சிகளில் பதிவாகியுள்ளது.
+On the top floor of the building, about 50 meters from the bell tower at the Athurukiriya city junction, the tattooing station was opened this morning by a tattoo -tattoo man named Dulan Sanjula.
 
-பின்னர், துப்பாக்கி ஏந்திய இருவர் மேல் தளத்தில் உள்ள பச்சை குத்தும் மையத்திற்குள் நுழைந்து துப்பாக்கிச் சூடு நடத்துவதும் சிசிரிவி கெமராவில் பதிவாகியுள்ளது.
+The chief guests were the wife of the famous businessman Surendra Wasantha Perera, his wife and his wife and famous singer K. Sujeeva.
+
+At 10.15 am, a white car that came along the road was reported to be on the road near the building and returned to one street.
+
+Later, the Sisirvi camera was reported to be fired into the tattooing center on the top floor.
+
+The masked gunmen entered the tattoo and fired at the occupants.
+
+During the shooting attack, one can see the disappearance of the club and the private bodyguard of the club spring.
 
 ...
 
 [Data](articles/3cab86a5.json)
+
+[Extended Data](ext_articles/3cab86a5.ext.json)
 
 ---
 

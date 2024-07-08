@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 14:20:54**
+As of **2024-07-08 14:35:16**
 
 ## Newspaper Stats
 
-*Scraped **34,220** Articles*
+*Scraped **34,221** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,41 +20,67 @@ adaderanalk | 3,923
 tamilmirrorlk | 4,069
 dailymirrorlk | 4,733
 virakesarilk | 5,350
-adaderanasinhalalk | 5,694
+adaderanasinhalalk | 5,695
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,215 (100.0%) of 34,220 articles have been extended.
+34,220 (100.0%) of 34,221 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### ලේ නෑකමට එයා ගිය සහෝදරත්වය
+### නැපෝලියන් බොනපාට්ගේ පිස්තෝල 2ක් වාර්තාගත මිලකට වෙන්දේසි වෙයි
+
+*2024-07-08 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198606) · `si`
+
+ප්‍රංශ අධිරාජ්‍යයා වූ නැපෝලියන් බොනපාට් සතු වූ පිස්තෝල දෙකක් යුරෝ මිලියන 1.69කට වෙන්දේසි වී තිබේ.
+
+වරක් ඔහු මෙම පිස්තෝල යොදාගෙන සියදිවි නසා ගැනීමට තැත් කළ බව සඳහන් වෙයි.
+
+මෙම ගිනි අවි පැරිස් නගරයේ ජීවත් වූ ලුයිස්-මාරින් ගොසේ විසින් නිමවා තිබූ අතර ඒ සඳහා යුරෝ මිලියන 1.2ත් 1.5ත් අතර ලංසුවක් හිමිවෙතැයි අපේක්ෂා කෙරිණි.
+
+මෙම පිස්තෝල වෙන්දේසි කර ඇත්තේ ප්‍රංශ සංස්කෘතික අමාත්‍යංශය විසින් ඒවා ජාතික වස්තූන් ලෙස නම්කර ඒවා අපනයනය තහනම් කිරීමේ පසුබිමකදීය.
+
+ඒ අනුව නව හිමිකරුගෙන් එම පිස්තෝල මිලදී ගැනීම සඳහා ප්‍රංශ රජයට මාස 30ක කාලයක් හිමිවෙයි.
+
+◼️
+
+[Data](articles/eaed17ed.json)
+
+---
+
+### The brotherhood he went to blood relative
 
 *2024-07-08 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198605) · `si`
 
-ළිඳේ සිටි සුරතල් මසුන් ඇල්ලීමට ගොස් දියේ ගිලුණු පුංචි පුතෙකුව බේරාගැනීමට ඔහුගේ 15 හැවිරිදි පාසල් සිසුවෙකුට හැකිවූ පුවත් පුත්තලම, මහකුඹුක්කඩවල කිවුල් ගම්මානයෙන් වාර්තා වුණි.
+In the village of Palakumbukkadawala, Puttalam, a brave 15-year-old girl named Sasadre Nimsara saved a four-year-old boy who fell into a deep well. Despite the well being over 36 feet deep and its side wall collapsing, Sasadre jumped in to rescue the child. Her actions were praised by the villagers, highlighting her courage and selflessness.
 
-එලෙස ළිඳට වැටී තිබුණේ පුත්තලම, මහකුඹුක්කඩවල කිවුල අංක 4 ගම්මානයේ පදිංචි වයස අවුරුදු හතරක් වූ ආකාශ් නෙතුමිණ නම් පුංචි පුතාය.
+🟩
 
-ළිඳේ ජලය කැලැත්තෙන අයුරු දැක, ඒ සමග සසිඳු නිම්සර නැමති පාසල් සිසුවා ළිඳට පැන දරුවා බේරාගෙන තිබේ.
+His 15-year-old schoolgirl reported to save a small son who was fishing in the well and rescued a small son who was drowning.
 
-තමන් සමග සෙල්ලම් කරමින් සිට නිවසට යන බව පවසමින් පිටත්ව ඇති මෙම සිව් හැවිරිදි දරුවා මොහොතකින් නිවසට නොගිය බව දැන ගැනීමේන් පසු කඩිනමින් ළිඳ ළඟට දිවගොස් ඒ තුළට එබී බැලීමේ දී ජලය කැලතෙන අයුරු දැක ඇත.
+The well had fallen into the village of Palakumbukkadawala, Puttalam, a small son.
 
-සසිඳුගේ වීර ක්‍රියාව නොවන්නට පුංචි පුතාගේ දිවි අහිමි වීමට පවා ඉඩ තිබුණු බව ගම්වාසීන් පවසයි.
+The school student of the well was to be saved in the well, and the schoolgirl named Sasadre Nimsara has jumped into the well.
 
-දරුවා වැටී ඇත්තේ අඩි 36කට වඩා වැඩි ගැඹුරකින් යුතු අනාරක්ෂිත ළිඳකට වන අතර එහි පැති බැම්ම වර්ෂාව සමග ළිඳ තුළට කඩා වැටී ඇත.
+The four-year-old child who left the house from playing with him and saw that it was not home to the well and see the water to the well.
 
-දියේ ගිලුණු පුංචි පුතු නිරන්තරයෙන් සසිඳුගේ නිවසට යන එන අයෙකු වන බවත් ඔහු සසිඳුගේ නිවසේ රැඳෙමින් ආහාර පවා ගන්නා බවත් පැවසේ.
+The villagers say the little son may have even lost the lives of a small son.
 
-ජීවිතයක් බේරාගත් සසිඳු තමන් සිදුකළ වීර ක්‍රියාව මෙලෙස පවසන්නට වුණි.
+The child has fallen into a well-depth of more than 36 feet and the side wall has collapsed into the well.
+
+It is said that the sinking sons of the drown is constantly coming to the house of Sasaluge's house.
+
+The heroicated hero was rescued by the Sasilu.
 
 ...
 
 [Data](articles/7e61fa71.json)
+
+[Extended Data](ext_articles/7e61fa71.ext.json)
 
 ---
 
@@ -76,29 +102,37 @@ An injured woman and a man are being treated at the Colombo National Hospital wh
 
 [Data](articles/3ef687f2.json)
 
+[Extended Data](ext_articles/3ef687f2.ext.json)
+
 ---
 
-### වෙඩික්කරුවන් ආ මෝටර් රථය සොයාගනී
+### The car is found the car
 
 *2024-07-08 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198604) · `si`
 
-අතුරුගිරියේ වෙඩිතැබීමට පැමිණි බවට සැක කෙරෙන මෝටර් රථය කඩුවෙල, කොරතොට ප්‍රදේශයේ දමා ගොස් තිබිය දී සොයා ගෙන තිබේ.
+In Athurugiriya, a shooting incident occurred during a beauty salon opening ceremony, resulting in the death of a businessman, Surandra Wasantha Perera, and injuries to a singer and three others. The victims are from Colombo 07 and Athurugiriya. Police found two T-56 rifles at the scene.
 
-අද (08) උදැසන 10ට පමණ මෙම වෙඩිතැබීම සිදුකර තිබුණේ, අතුරුගිරිය නගරයේ ඔරලෝසු කනුව ආසන්නයේ රූපලාවන්‍ය ආයතනයක් විවෘත කිරීමේ උත්සවයක් අතරතුරදීය.
+🟩
 
-වෙඩිතැබීමෙන් ප්‍රසිද්ධ ව්‍යාපාරිකයෙකු වන 55 හැවිරිදි සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත සහ 38 හැවිරිදි අයෙක් ජීවිතක්ෂයට පත්වුණි.
+The car to shooting the shooting in the Athurugiriya has been recovered while she had been thrown out of Koratatota.
 
-මොවුන් කොළඹ 07 සහ අතුරුගිරිය යන ප්‍රදේශවල පදිංචිකරුවන් බව පොලීසිය සඳහන් කරයි.
+The shooting around 10 am today (08) had been shot in a ceremony to open a beauty firm near the clock torch.
 
-වෙඩිතැබීමෙන් ප්‍රසිද්ධ ගායන ශිල්පිනියක් වන කේ සූජීවා ද තුවාල ලැබූ අතර තවත් කාන්තාවන් දෙදෙනෙකු සහ පිරිමි පුද්ගලයෙකු තුවාල ලබා තිබේ.
+Surandra Wasantha Perera alias, or 38, was killed in a famous businessman who shoot shooting.
 
-තුවාල ලැබූ කාන්තාවක් සහ පිරිමි පුද්ගලයෙකු කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබන අතර අනෙක් කාන්තාවන් දෙදනො හෝමාගම රෝහලේ ප්‍රතිකාර ලබයි.
+They are residents of Colombo 07 and Athurugiriya, police said.
 
-වෙඩික්කරුවන් මෝටර් රථයකින් පැමිණ ඇති බවට හා වෙඩිතැබීමට ටී 56 ගිනිඅවි දෙකක් භාවිත කර ඇති බව පොලීස් විමර්ශනවලදී අනාවරණය වුණි.
+The shooting was also wounded by a famous singer Kueli Ku Pueva and two others were injured.
+
+A woman and a man is receiving treatment at the Colombo National Hospital while other women are receiving treatment at the Homagama Hospital.
+
+Police investigations have revealed that two T-56 rivers have been used to shoot and shooting a car.
 
 ◼️
 
 [Data](articles/479f3b4c.json)
+
+[Extended Data](ext_articles/479f3b4c.ext.json)
 
 ---
 
@@ -135,6 +169,8 @@ The petition requests that an interim order be issued to prevent the holding of 
 ...
 
 [Data](articles/eebdc1dd.json)
+
+[Extended Data](ext_articles/eebdc1dd.ext.json)
 
 ---
 
@@ -464,17 +500,23 @@ Attorneys-at-Law Gamathu Karinasena, Shnali Dias, Nimashi Fernando and the Supre
 
 ---
 
-### ஜனாதிபதி தேர்தல் மனு: மனுவை நிராகரிக்குமாறு மனு
+### Presidential election: Petition to reject petition
 
 *2024-07-08 11:34:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தல்-மனு-மனுவை-நிராகரிக்குமாறு-மனு/175-340028) · `ta`
 
-2024 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலை நடத்துவதற்கு தேர்தல்கள் ஆணைக்குழுவைத் தடைசெய்யும் உத்தரவைக் கோரும் அடிப்படை உரிமைகள் மனுவுக்கு எதிராக ஆரம்ப ஆட்சேபனைகளை எழுப்பிய நிலையில், சட்டமா அதிபர் இந்த மனுவை (ஆரம்பத்திலேயே) நிராகரிக்குமாறு உயர் நீதிமன்றத்தில் இன்று மனுத்தாக்கல் செய்தார்.
+The Attorney General filed a petition in the Supreme Court to dismiss another petition aimed at banning the Elections Commission from holding the 2024 presidential election. The initial objections were raised against the fundamental rights petition by the Attorney General, represented by Deputy Solicitor General Kanishka de Silva during a hearing before Chief Justice Jayantha Jayasuriya and other judges.
 
-வர்த்தகர் சமிந்திர தயான் லெனவவினால் தாக்கல் செய்யப்பட்ட அடிப்படை உரிமை மீறல் மனு பிரதம நீதியரசர் ஜயந்த ஜயசூரிய தலைமையிலான ஐவரடங்கிய நீதியரசர்கள் குழாம் முன்னிலையில் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போதே தேர்தல்கள் ஆணைக்குழு சார்பில் ஆஜரான பிரதி சொலிசிட்டர் ஜெனரல் கனிஷ்க டி சில்வா இந்தக் கோரிக்கையை முன்வைத்தார்.
+🟩
+
+The Attorney General today filed a petition in the Supreme Court to reject the petition, as the Attorney General has raised the initial objections against the fundamental rights petition seeking a ban on the Elections Commission to hold the 2024 presidential election.
+
+The request was made by the Deputy Solicitor General Kanishka de Silva, who appeared on behalf of the Elections Commission, when the funded petition filed by trader Samindra Dayan Lenawa was taken up in the presence of a panel of judges headed by Chief Justice Jayantha Jayasuriya.
 
 ◼️
 
 [Data](articles/e1ad3236.json)
+
+[Extended Data](ext_articles/e1ad3236.ext.json)
 
 ---
 
@@ -2209,23 +2251,5 @@ AID, the police were arrested today with almost 9 ice drugs.
 [Data](articles/4579c812.json)
 
 [Extended Data](ext_articles/4579c812.ext.json)
-
----
-
-### ‘Both of us were dedicated to an undivided Sri Lanka’ – President on the late R. Sampanthan
-
-*2024-07-07 20:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/100358/both-of-us-were-dedicated-to-an-undivided-sri-lanka-president-on-the-late-r-sampanthan) · `en`
-
-President Ranil Wickremesinghe paid tribute to the late Mr. R. Sampanthan, acknowledging him as a leader who championed the rights not only of the Tamil people but also of all Sri Lankans.
-
-He emphasized that both Mr. Sampanthan and himself were committed to the cause of an undivided Sri Lanka. The President urged everyone to unite in successfully concluding the discussions initiated with Mr. Sampanthan.
-
-President Wickremesinghe made these remarks while attending Mr. R. Sampanthan’s funeral at his residence in Trincomalee this afternoon (07). The funeral ceremony, honouring the former Leader of the Opposition and the Tamil National Alliance (TNA), as well as the late Trincomalee District Member of Parliament, was attended by numerous political leaders, both from the Government and the opposition.
-
-...
-
-[Data](articles/ffe95ad1.json)
-
-[Extended Data](ext_articles/ffe95ad1.ext.json)
 
 ---

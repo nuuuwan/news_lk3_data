@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 21:35:16**
+As of **2024-07-08 21:54:46**
 
 ## Newspaper Stats
 
-*Scraped **34,270** Articles*
+*Scraped **34,271** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,925
 economynextcom | 2,021
 dailyftlk | 2,130
 adalk | 3,075
-adaderanalk | 3,930
+adaderanalk | 3,931
 tamilmirrorlk | 4,072
 dailymirrorlk | 4,733
 virakesarilk | 5,357
@@ -26,35 +26,53 @@ adaderanasinhalalk | 5,703
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,267 (100.0%) of 34,270 articles have been extended.
+34,270 (100.0%) of 34,271 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### වෙඩික්කරුවන් පළාගිය වෑන් රථයක් හමුවෙයි
+### Athurugiriya shooting: Another vehicle used by suspects found
+
+*2024-07-08 21:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100380/athurugiriya-shooting-another-vehicle-used-by-suspects-found-) · `en`
+
+A van believed to have been used by the suspects involved in the shooting incident at Athurugiriya this morning (08) has been recovered by police in the Bulathsinhala area.
+
+◼️
+
+[Data](articles/f19d3635.json)
+
+---
+
+### Shooters found a van
 
 *2024-07-08 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198614) · `si`
 
-අතුරුගිරියේ වෙඩිතැබීමේ සිද්ධියට පැමිණි වෙඩික්කරුවන් පළා යාම සඳහා යොදාගත් වෑන් රථයක් බුලත්සිංහල පොලිස් වසමේ තිබී හමුවී ඇත.
+A van linked to a shotgun attack in Athurugiriya was discovered in Bulathsinhala, missing its number plates. The incident occurred around 10 am when a businessman, Surandra Wasantha Perera, and others, including a singer, were targeted.
 
-අද (08) සවස 6.15ට පමණ 119 හදිසි දුරකථන අංකයට ලද තොරතුරකට අනුව බුලත්සිංහල, අයගම, දෙල්මැල්ල ප්‍රදේශයේ පාළු ඉඩමක තිබී එම වෑන් රථය සොයාගෙන තිබේ.
+🟩
 
-එම වෑන් රථය අයගම දෙස සිට බුලත්සිංහල දෙසට පැමිණ ඇති බවට මේ වනවිට තොරතුරු වාර්තා වී ඇතැයි අප වාර්තාකරු පැවසීය.
+A van used to flee the shotguns in the Athurugiriya was found in the Bulathsinhala Police Division.
 
-අදාළ වෑන් රථයේ ඉදිරිපස හා පසුපස අංක තහඩු නොමැති අතර ආදායම් බලපත්‍රයේ පිටපතක්ද ඉදිරිපස වීදුරුවේ අලවා ඇති බව වාර්තා වෙයි.
+The van was found in a deserted land in Bulathsinhala, Ayagama, Ayagama, Bulathsinhala, Ayagama, about 6.15 pm today.
 
-අද (08) උදැසන 10ට පමණ මෙම වෙඩිතැබීම සිදුකර තිබුණේ, අතුරුගිරිය නගරයේ ඔරලෝසු කණුව ආසන්නයේ රූපලාවන්‍ය ආයතනයක් විවෘත කිරීමේ උත්සවයක් අතරතුරදීය.
+It has been reported that the van has come to the Ayagama to Bulathsinhala, our correspondent said.
 
-වෙඩිතැබීමෙන් ප්‍රසිද්ධ ව්‍යාපාරිකයෙකු වන 55 හැවිරිදි සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත සහ 38 හැවිරිදි අයෙක් ජීවිතක්ෂයට පත්වුණි.
+There are no front and rear number plates on the van and the revenue license copy is pasted in the front glass.
 
-මොවුන් කොළඹ 07 සහ අතුරුගිරිය යන ප්‍රදේශවල පදිංචිකරුවන් බව පොලීසිය සඳහන් කරයි.
+The shooting took place around 10 am today at the opening of a beauty firm near the clock tower in Athurugiriya town.
 
-වෙඩිතැබීමෙන් ප්‍රසිද්ධ ගායන ශිල්පිනියක් වන කේ සූජීවා ද තුවාල ලැබූ අතර තවත් කාන්තාවන් දෙදෙනෙකු සහ පිරිමි පුද්ගලයෙකු තුවාල ලබා තිබේ.
+Surandra Wasantha Perera alias, or 38, was killed in a famous businessman who shoot shooting.
+
+They are residents of Colombo 07 and Athurugiriya, police said.
+
+The shooting was also wounded by a famous singer Kueli Ku Pueva and two others were injured.
 
 ◼️
 
 [Data](articles/de750f67.json)
+
+[Extended Data](ext_articles/de750f67.ext.json)
 
 ---
 
@@ -240,21 +258,29 @@ Six people were injured in the attack and they were taken army.
 
 ---
 
-### සැහැල්ලු දුම්රිය ව්‍යාපෘතිය ගැන ජපානය සමග සාකච්ඡා අරඹයි
+### Japan begins with light railway project
 
 *2024-07-08 19:30:02* · [`adalk`](https://www.ada.lk/breaking_news/සැහැල්ලු-දුම්රිය-ව්‍යාපෘතිය-ගැන-ජපානය-සමග-සාකච්ඡා-අරඹයි/11-410676) · `si`
 
-මෙම වසර අවසන් වීමට පෙර දුම්රිය ඇතුලු පොදු ප්‍රවාහන සේවා ප්‍රවේශ පත්‍ර නිකුත් කිරීම සඳහා විද්‍යුත් ක්‍රමවේදයක් හඳුන්වා දෙන බව ප්‍රවාහන හා මහාමාර්ග අමාත්‍යාංශයේ ලේකම් රංජිත් ගංගනාත් රූබසිංහ මහතා පැවසීය.
+Japan is set to begin a light railway project, with the introduction of an electronic ticketing system for public transport expected by the end of the year. Despite the country's economic crisis, the government has allocated Rs 390 billion for road development projects, including Rs 300 billion for roads and Rs 90 billion for contractors. The Ministry of Highways is optimistic about the success of the Government Debt Restructuring Program, which aims to restart stalled projects. Discussions are underway for the first stage of the Central Expressway and the Ruwanpura Expressway Project. Additionally, the payment of all highway fees will be digitized soon, and preliminary talks have been held with Japan, China, and India regarding new projects, including updating the Light Rail Transit (LRT).
 
-ප්‍රවාහන හා මහාමාර්ග අමාත්‍යාංශයේ ලේකම් රංජිත් ගංගනාත් රූබසිංහ මහතා මේ බව සඳහන් කර සිටියේ ‘දෙවසරක ප්‍රගතිය සහ ඉදිරිය’ යන මැයෙන් අද (08 ) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+🟩
 
-ආර්ථික අර්බුදය හමුවේ වුවද 2022 ට පෙර සිදු කළ මාර්ග සංවර්ධන ව්‍යාපෘතිවල ගෙවීම් කටයුතු සඳහා පසුගිය දෙවසර තුළ රජය විසින් රුපියල් බිලියන 390ක් ලබා දී ඇති අතර කොන්ත්‍රාත්කරුවන් සඳහා රුපියල් බිලියන 300ක්ද ණය ගෙවීම සඳහා රුපියල් බිලියන 90ක්ද වශයෙන් එම මුදල් වැය කර ඇති බවද ඒ මහතා වැඩිදුරටත් සඳහන් කළේය.
+Secretary Transport and Highways Ministry Secretary Ranjith Ganganath Rubasinghe said that an electronic method was introduced to issue public transport tickets including the rail before the end of this year.
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ බව ප්‍රවාහන හා මහාමාර්ග අමාත්‍යාංශයේ ලේකම් රංජිත් ගංගනාත් රූබසිංහ මහතා මෙසේද පැවසීය.
+Secretary to the Ministry of Transport and Highways Ranjith Ganganath Rubasinghe said this at a press conference held at the Presidential Media Center today (08) at the Presidential Media Center.
+
+He added that the government has provided Rs..
+
+Secretary to the Ministry of Transport and Highways Ranjith Ganganath Rubasinghe said,
+
+"Despite the economic crisis of the country, the government has given Rs 390 billion for road development projects carried out before 2022.. 300 billion rupees and Rs. 90 billion for the contractors.
 
 ...
 
 [Data](articles/5559976b.json)
+
+[Extended Data](ext_articles/5559976b.ext.json)
 
 ---
 
@@ -1912,6 +1938,8 @@ The 32-year-old woman who committed the murder has been arrested and Athgala  P
 
 [Data](articles/9a6975fd.json)
 
+[Extended Data](ext_articles/9a6975fd.ext.json)
+
 ---
 
 ### Attorney General's term of office is 5 years - President's term
@@ -2251,27 +2279,5 @@ The Airporting Officer in charge of the Airport Officer added that SriLankan Air
 [Data](articles/cd2f967d.json)
 
 [Extended Data](ext_articles/cd2f967d.ext.json)
-
----
-
-### SC to hear petition seeking to delay Presidential Election today
-
-*2024-07-08 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100362/sc-to-hear-petition-seeking-to-delay-presidential-election-today) · `en`
-
-The petition submitted to the Supreme Court regarding the official term of the President is scheduled to be taken up for consideration today (08).
-
-A five-member Supreme Court bench consisting of Chief Justice Jayantha Jayasuriya, Vijith Malalgoda, Murdu Fernando, Preethi Padman Surasena and S. Thurairaja was named recently to consider the petition.
-
-The petition requests that an interim order be issued to prevent the holding of the presidential election within the currently scheduled period until the court delivers its interpretation on the date of the next presidential election.
-
-The petition was filed by an entrepreneur named C.D. Lenawa last Wednesday (3).
-
-Meanwhile, Rohana Hettiarachchi, executive director of People’s Action for Free and Fair Elections (PAFRAL) organisation, said that if the government tries to postpone the election, strict action will be taken against it before the law.
-
-◼️
-
-[Data](articles/4b50002d.json)
-
-[Extended Data](ext_articles/4b50002d.ext.json)
 
 ---

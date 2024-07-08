@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 15:19:57**
+As of **2024-07-08 15:36:22**
 
 ## Newspaper Stats
 
-*Scraped **34,223** Articles*
+*Scraped **34,224** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,925
 economynextcom | 2,010
 dailyftlk | 2,130
 adalk | 3,064
-adaderanalk | 3,923
+adaderanalk | 3,924
 tamilmirrorlk | 4,069
 dailymirrorlk | 4,733
 virakesarilk | 5,350
@@ -26,11 +26,33 @@ adaderanasinhalalk | 5,695
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,223 (100.0%) of 34,223 articles have been extended.
+34,223 (100.0%) of 34,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### At least 20 dead in Russian attack on Ukraine cities
+
+*2024-07-08 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100374/at-least-20-dead-in-russian-attack-on-ukraine-cities) · `en`
+
+At least 20 people have been killed after Russia launched a massive missile attack against cities across Ukraine, according to officials.
+
+In the capital, Kyiv, at least seven people were killed in a rare daytime attack. The city’s mayor said a children’s hospital was hit by the missile strike and was being evacuated.
+
+The head of the military administration in the central Ukrainian city of Kryvyi Rih said at least 10 people had been killed there, with three killed in the eastern town of Pokrovsk.
+
+Ukrainian President Volodymyr Zelensky, who is visiting Poland, said that Russia had fired some 40 missiles at targets across the country.
+
+Mr Zelensky, who is due to travel to the US for this week’s Nato summit in Washington, said Russia had “massively attacked” Ukraine.
+
+“Different cities: Kyiv, Dnipro, Kryvyi Rih, Sloviansk, Kramatorsk. More than 40 missiles of various types. Residential buildings, infrastructure and a children’s hospital were damaged,” he said.
+
+...
+
+[Data](articles/a6aaab00.json)
+
+---
 
 ### The 3-year-old sigil falls and dies after falling into the water tank
 
@@ -2233,21 +2255,5 @@ According to the police, the article has directed a person or group of individua
 [Data](articles/2847b9cb.json)
 
 [Extended Data](ext_articles/2847b9cb.ext.json)
-
----
-
-### Political Journey of  Tamil “Perunthalaiver” (Great Leader) Rajavarothayam Sampanthan.
-
-*2024-07-07 21:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84342) · `en`
-
-Veteran Tamil political leader  and senior Trincomalee district MP,Rajavarothayam Sampanthan passed away peacefully in Colombo on 30 June 2024. The nonagenarian Sampanthan who had been ailing for some time was listening after dinner  to an audio tape of “Kanthasashti Kavasam”verses sung by  the Soolaman Sisters Rajalakshmi and Jeyalakshmi when he collapsed  with a groan.  Sampanthan was immediately taken to   Lanka Hospital where he  breathed his last around 11 PM.
-
-The Kanthasashti Kavasam  composed by Balan Devaraya Swamigal  consist of devotional verses praising Lord Murugan or Skandha.  Muruga the second son of Lord Shiva and Parvathy is  regarded as the  “Thamizhkkadavul”  or God of Tamils. Passing away peacefully while listening to Kandha Sashti Kavasam verses is indeed a blessed death for devout hindus. Sampanthan was a deeply religious person whose family deity is  the Pathrakali Amman of Trincomalee.
-
-...
-
-[Data](articles/251e8a55.json)
-
-[Extended Data](ext_articles/251e8a55.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 20:06:41**
+As of **2024-07-08 20:20:03**
 
 ## Newspaper Stats
 
-*Scraped **34,259** Articles*
+*Scraped **34,261** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,925
 economynextcom | 2,021
 dailyftlk | 2,130
 adalk | 3,073
-adaderanalk | 3,927
-tamilmirrorlk | 4,069
+adaderanalk | 3,928
+tamilmirrorlk | 4,070
 dailymirrorlk | 4,733
 virakesarilk | 5,356
 adaderanasinhalalk | 5,701
@@ -26,49 +26,87 @@ adaderanasinhalalk | 5,701
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,256 (100.0%) of 34,259 articles have been extended.
+34,259 (100.0%) of 34,261 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### இலங்கையின் இடைக்கால தலைமைப் பயிற்றுநராக சனத் ஜயசூரிய நியமனம்
+### Govt to impose taxes on 14 previously untaxed sectors
+
+*2024-07-08 19:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100378/govt-to-impose-taxes-on-14-previously-untaxed-sectors) · `en`
+
+Sri Lanka’s State Minister of Finance Ranjith Siyambalapitiya stated that the government intends to collect taxes from 14 previously untaxed sectors that have been overlooked until now and to ensure tax compliance from them.
+
+Speaking to reporters in Kegalle, he stated that further inquiries have been commenced in this regard.
+
+The State Minister said that no one has been given an opportunity to evade tax payments and that there has previously never been such a time when such special attention was paid to the paying of taxes.
+
+The State Minister further stated that last year they highlighted 14 sectors that must register for tax payments including large-scale tuition classes, private schools, private medical services, engineering services and surveying services.
+
+“The Inland Revenue Department is conducting inquiries related to the income of all entities registered under these fourteen sectors,” said Siyambalapitiya.
+
+◼️
+
+[Data](articles/4936492c.json)
+
+---
+
+### Sanath Jayasuriya appointed as the Interim Chief Instructor of Sri Lanka
 
 *2024-07-08 19:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/187992) · `ta`
 
-இலங்கை கிரிக்கெட் அணியின் இடைக்காலத் தலைமைப் பயிற்றுநராக 1996 உலகக் கிண்ண நாயகனும் முன்னாள் அணித் தலைவருமான சனத் ஜயசூரிய நியமிக்கப்பட்டுள்ளார்.
+Sanath Jayasuriya, a 1996 World Cup hero and former Sri Lankan captain, has been named the interim coach ahead of cricket series against India and England. Despite no prior coaching experience, Jayasuriya served as the team's selector and Cricket Adviser. His appointment follows Chris Silverwood's resignation post the World Cup. Jayasuriya, previously banned for two years due to non-cooperation with ICC, is expected to lead the team until a permanent coach is hired.
 
-இந்தியாவுக்கு எதிராக இங்கு நடைபெறவுள்ள இருவகை மட்டுப்படுத்தப்பட்ட ஓவர் கிரிக்கெட்  தொடர், இங்கிலாந்துக்கு எதிராக அந்நிய மண்ணில் நடைபெறவுள்ள 3 போட்டிகள் கொண்ட டெஸ்ட் தொடர் ஆகியவற்றின்போது சனத் ஜயசூரிய தலைமைப் பயிற்றுநராக செயற்படுவார்.
+🟩
 
-இதற்கு முன்னர் பயிற்றுநர் பதவியை சனத் ஜயசூரிய வகிக்காத போதிலும் ஒருகாலத்தில் இலங்கை அணியின் தெரிவுக்குழுத் தலைவராக செயற்பட்டதுடன் தற்போதைய பதவிக்கு முன்னர் ஸ்ரீலங்கா கிரிக்கெட் நிறுவனத்தின்  கிரிக்கெட் ஆலோசகராக இயங்கிவந்தார்.
+The 1996 World Cup hero and former captain Sanath Jayasuriya has been appointed as the interim coach of the Sri Lankan cricket team.
 
-ஐக்கிய அமெரிக்காவிலும் மேற்கிந்தியத் தீவுகளிலும் கடந்த மாதம் நடைபெற்ற ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டியில் இலங்கை அணி முதல் சுற்றுடன் வெளியேறியதை அடுத்து தலைமைப் பயிற்றுநர் கிறிஸ் சில்வர்வூட் தனது பதவியை இராஜினாமா செய்தார்.
+Sanath Jayasuriya will serve as the chief coach during the two -limited over -cricket series against India and a three -match Test series against England.
 
-இந் நிலையில், புதிய பயிற்றுநர் ஒருவர் தேர்ந்தெடுக்கப்பட்டு நியமிக்கப்டும்வரை சனத் ஜயசூரிய இடைக்கால தலைமைப் பயிற்றுநராக செயற்படவுள்ளார்.
+Although Sanath Jayasuriya did not hold the post of instructor before, he was once the chairman of the Sri Lankan team's select committee and became the Cricket Adviser to Sri Lanka Cricket Company before the current post.
+
+Chief coach Chris Silverwut resigned from his post after Sri Lanka's first round of the World Cup in the United States and the West Indies last month.
+
+In this case, Sanath Jayasuriya will serve as the interim chief instructor until a new instructor is elected.
+
+Ashley de Silva, Chief Executive Officer of Sri Lanka Cricket, said that applications for the post of Chief Instructor will be elected.
+
+Often a local person is likely to be selected as a trainee, he said.
 
 ...
 
 [Data](articles/4dc13288.json)
 
+[Extended Data](ext_articles/4dc13288.ext.json)
+
 ---
 
-### இந்த வருட இறுதிக்குள் ரயில்கள் உள்ளிட்ட பொதுப் போக்குவரத்து சேவைகளுக்கான பயணச்சீட்டு வழங்க இலத்திரனியல் முறைமை அறிமுகப்படுத்தப்படும் - ரஞ்சித் கங்கநாத் ரூபசிங்க
+### By the end of this year, the electronic system will be introduced for public transport services including trains- Ranjith Ganganath Rupasinghe
 
 *2024-07-08 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/187991) · `ta`
 
-இந்த வருட இறுதிக்குள் ரயில்கள் உள்ளிட்ட பொதுப் போக்குவரத்து சேவைகளில் பயணச்சீட்டுக்குப் பதிலாக இலத்திரனியல் முறைமை அறிமுகப்படுத்தப்படும் என போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சின் செயலாளர் ரஞ்சித் கங்கநாத் ரூபசிங்க தெரிவித்தார்.
+This year, the government will introduce an electronic ticketing system for public transport, including trains, despite economic challenges. It has invested heavily in road development and is discussing further projects with international partners. The transport sector aims for a 10%-15% upgrade in the next five years, with initiatives like digitalization to enhance efficiency and reduce costs.
 
-''இரண்டு வருட முன்னேற்றமும் எதிர்காலமும்'' என்ற தொனிப்பொருளில் ஜனாதிபதி ஊடக மையத்தில்  இன்று (08)  நடைபெற்ற செய்தியாளர் மாநாட்டில் கலந்து கொண்டபோதே
+🟩
 
-போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சின் செயலாளர் ரஞ்சித் கங்கநாத் ரூபசிங்க இதனைக் குறிப்பிட்டார்.
+Secretary of the Ministry of Transport and Highways Ranjith Ganganath Rubasinghe said that by the end of this year, the electronic system will be introduced instead of a ticket in public transport services, including trains.
 
-பொருளாதார நெருக்கடிக்கு மத்தியிலும் 2022 ஆம் ஆண்டுக்கு முன்னர் மேற்கொள்ளப்பட்ட வீதி அபிவிருத்தித் திட்டங்களுக்கு 390 பில்லியன் ரூபாவை அரசாங்கம் வழங்கியுள்ளதாகவும், 300 பில்லியன் ரூபாவை ஒப்பந்தக்காரர்களுக்காகவும் 90 பில்லியன் ரூபா கடனை செலுத்துவதற்காகவும் செலவிடப்பட்டுள்ளதாக அவர் மேலும் தெரிவித்தார்.
+Speaking at a press conference held at the Presidential Media Center today (08) under the theme "Two Years Progress and Future"
 
-இங்கு மேலும் கருத்துத் தெரிவித்த போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சின் செயலாளர் ரஞ்சித் கங்கநாத் ரூபசிங்க,
+Secretary of the Ministry of Transport and Highways Ranjith Ganganath Rubasinghe said this.
+
+He added that despite the economic crisis, the government has paid 390 billion rupees for road development projects before 2022, and 300 billion rupees has been spent on contractors and 90 billion rupees loans.
+
+Ranjith Ganganath Rubasinghe, Secretary to the Ministry of Transport and Highways
+
+Despite the economic crisis facing the country, the government has paid 390 billion rupees in the last two years for road development projects before 2022.. The money has been spent on 300 billion rupees contractors and 90 billion rupees.
 
 ...
 
 [Data](articles/116665d6.json)
+
+[Extended Data](ext_articles/116665d6.ext.json)
 
 ---
 
@@ -104,21 +142,27 @@ Six people were injured in the attack and they were taken army.
 
 ---
 
-### කොම්පඤ්ඤවීදිය නව ගුවන් පාලම මේ සතියේදී ජනතා අයිතියට
+### Slave Island opens new flyover this week
 
 *2024-07-08 19:25:51* · [`adalk`](https://www.ada.lk/breaking_news/කොම්පඤ්ඤවීදිය-නව-ගුවන්-පාලම-මේ-සතියේදී-ජනතා-අයිතියට/11-410675) · `si`
 
-කොම්පඤ්ඤවීදිය, විනිසුරු අක්බාර් මාවත හා උත්තරානන්ද මාවත සම්බන්ධ කරමින් දුම්රිය මාර්ගයට ඉහළින් ඉදිකරන ලද ගුවන් පාලමේ දෙවන අදියරේ ඉදි කිරීම් අවසන් කර ලබන සතියේ ජනතා අයිතියට පත් කරන බව මාර්ග සංවර්ධන අධිකාරියේ අධ්‍යක්ෂ ජනරාල් එස්. පී. එම් සූරිය බණ්ඩාර මහතා පැවැසීය.
+This week, Slave Island unveils a new flyover, part of a larger project connecting it to Judge Akbar Mawatha and UK. P. Muriya Bandara, Director General of the Road Development Authority, also announced the completion of the Kohuwala flyover by September. The initiative is part of a broader effort, with 320 kilometers of rural roads completed in February alone.
 
-එසේම කොහුවල ගුවන් පාලමද ඉන්පසු සතියේ ජනතා අයිතියට පත් කිරීමට නියමිත බවත් වරාය පිවිසුම් ගුවන් මාර්ගයේ වැඩකටයුතුද සැප්තම්බර් මාසයේ මුල් භාගයේදී අවසන් කරන බවත් ඔහු පැවැසීය.
+🟩
 
-ජනපති මාධ්‍ය කේන්ද්‍රෙය් පැවැති මාධ්‍ය හමුවකදී ඔහු මේ බව පැවැසීය.
+Director General of the Road Development Authority will be vested with the second phase of fighter constructions, connecting Slave Island, Judge Akbar Mawatha and UK.. P. Muriya Bandara said Muriya Bandara.
 
-"මීට අමතරව මාර්ග සංවර්ධන අධිකාරිය යටතේ ව්‍යාපෘති දහස් ගණනක් රට පුරා ක්‍රියාත්මක කරමින් පවතිනවා. මේ අතරින් පසුගිය පෙබරවාරි මාසයේ ආරම්භ කළ ග්‍රාමීය මාර්ග කිලෝ මීටර් දහසේ ව්‍යාපෘතිය යටතේ පසුගිය මේ වන විට ග්‍රාමීය මාර්ග කිලෝ මීටර් 320ක් අවසන් කර ඇති අතර ඉතිරි ප්‍රමාණය අගෝස්තු මාසයේ දී අවසන් කිරීමට කටයුතු කරමින් සිටිනවා." යැයි ඔහු පැවැසීය.
+He added that Kohuwala flyover will be declared open to the public and that the port bells on the first month will be completed in September Ceylon.
+
+He was speaking at a press conference held at the President's media centers.
+
+"Thousands of projects are being implemented throughout the country under the Road Development Authority. A total of 320 kilometers of rural roads have been completed in February, which has been completed in February.
 
 ◼️
 
 [Data](articles/ba0429fe.json)
+
+[Extended Data](ext_articles/ba0429fe.ext.json)
 
 ---
 
@@ -1099,6 +1143,22 @@ Hospital officials said the child died without treatment.
 [Data](articles/68b632ce.json)
 
 [Extended Data](ext_articles/68b632ce.ext.json)
+
+---
+
+### வைத்தியர் அர்ச்சுனாவுக்கு ஆதரவாக ஆர்ப்பாட்டம்
+
+*2024-07-08 12:00:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அர்ச்சுனாவுக்கு-ஆதரவாக-ஆர்ப்பாட்டம்/175-340030) · `ta`
+
+வைத்தியர் அர்ச்சுனாவை இடமாற்றம் செய்ய வேண்டாம் எனத் தெரிவித்து திங்கட்கிழமை (08)  சாவகச்சேரி ஆதார வைத்தியசாலைக்கு முன்பாக மாபெரும் மக்கள் போராட்டமொன்று முன்னெடுக்கப்பட்டு வருகின்றது.
+
+இந்நிலையில், குறித்த வைத்தியருக்கு தண்ணீர் கூட வழங்க விடாமல் அதிகாரிகள் தடுத்தனர். இந்நிலையில் அவரது உடல்நிலை சுகயீனமடைந்தது. அதன்பின்னர் போராட்டக்காரர்கள் மீண்டும் வீதியை மறித்து போராட்டத்தில் ஈடுபட்டுள்ளனர்.
+
+வைத்தியருக்கு தண்ணீர் வழங்கப்பட்ட நிலையில் வீதி முடக்கல் போராட்டம் கைவிடப்பட்டதுடன், தொடர்ச்சியாக போராட்டம் முன்னெடுக்கப்பட்டு வருகின்றமை குறிப்பிடத்தக்கது
+
+◼️
+
+[Data](articles/360cb434.json)
 
 ---
 
@@ -2241,53 +2301,5 @@ Meanwhile, the Government Medical Officers' Association and Nurses are yet to su
 [Data](articles/ff3add6d.json)
 
 [Extended Data](ext_articles/ff3add6d.ext.json)
-
----
-
-### The dream of seizing the regime of the radicals was dissolved- the left-wing coalition in France unexpected victory
-
-*2024-07-08 06:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/187937) · `ta`
-
-In France, the Left Alliance is poised for a significant electoral win, potentially capturing more seats than the radical party, RRL, which initially led in the first round of elections held last Sunday. This outcome marks a historic moment post-WWII, raising concerns about extremist influence on the government.
-
-🟩
-
-The election results have revealed that the Left Alliance in France is in a position to capture more seats as the radicalist party, RRL, is expected to capture more seats.
-
-It is noteworthy that the first round of elections took place last Sunday, and the extremists won more seats.
-
-This is why in France, after World War II, for the first time, the fear that the extremists could take over the regime.
-
-◼️
-
-[Data](articles/4a5950bb.json)
-
-[Extended Data](ext_articles/4a5950bb.ext.json)
-
----
-
-### The prevailing rainycy in the next few days
-
-*2024-07-08 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198587) · `si`
-
-Expect heavy rainfall across various regions including Western, Sabaragamuwa, North Western provinces, Kandy, Nuwara Eliya, Galle, Matara, Ampara, Batticaloa, Trincomalee, Hambantota, and Moneragala districts over the next few days. Strong winds and potential lightning strikes are also anticipated. The Meteorological Department advises caution and preparedness for possible weather-related incidents.
-
-🟩
-
-The rainy section of the island is still expected in the next few days, the Met Department said.
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa and North Western provinces, in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. (40-50) Informed that there is about strong winds.
-
-The Department of Meteorology calls people to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/30958940.json)
-
-[Extended Data](ext_articles/30958940.ext.json)
 
 ---

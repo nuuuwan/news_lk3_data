@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 07:01:31**
+As of **2024-07-08 07:27:26**
 
 ## Newspaper Stats
 
-*Scraped **34,153** Articles*
+*Scraped **34,154** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 309
-colombotelegraphcom | 313
+colombotelegraphcom | 314
 bbccomsinhala | 334
 newsfirstlk | 363
 islandlk | 1,925
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,677
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,152 (100.0%) of 34,153 articles have been extended.
+34,153 (100.0%) of 34,154 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### පවතින වැසි තත්ත්වය ඉදිරි දින කිහිපයෙත්
+### The prevailing rainycy in the next few days
 
 *2024-07-08 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198587) · `si`
 
-දිවයිනේ නිරිත දිග කොටසේ පවතින වැසි තත්ත්වය ඉදිරි දින කිහිපයේ දී තවදුරටත් බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Expect heavy rainfall across various regions including Western, Sabaragamuwa, North Western provinces, Kandy, Nuwara Eliya, Galle, Matara, Ampara, Batticaloa, Trincomalee, Hambantota, and Moneragala districts over the next few days. Strong winds and potential lightning strikes are also anticipated. The Meteorological Department advises caution and preparedness for possible weather-related incidents.
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින්විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+🟩
 
-ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+The rainy section of the island is still expected in the next few days, the Met Department said.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa and North Western provinces, in Kandy, Nuwara Eliya, Galle and Matara districts.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. (40-50) Informed that there is about strong winds.
+
+The Department of Meteorology calls people to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/30958940.json)
+
+[Extended Data](ext_articles/30958940.ext.json)
 
 ---
 
@@ -1111,6 +1117,18 @@ The ball players passed over 176 balls in 17.1 overs.
 [Data](articles/22da0180.json)
 
 [Extended Data](ext_articles/22da0180.ext.json)
+
+---
+
+### The Master Of The Game
+
+*2024-07-07 18:26:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-master-of-the-game/) · `en`
+
+Dr. W A Wijewardena, a highly esteemed individual, has recently completed his 75th journey around the sun. Over those years he has accumulated a wealth of experience on the subject of Economics, which he has generously shared with the rest of us. One sees his contributions to the society, particularly in his capacity as an educator, garnering significant recognition on social media, particularly from his students. Although I was not a formal student of the master, I am deeply grateful for the knowledge I have gained from him in the field of Economics. Undoubtedly, he stands among the most exceptional teachers I have encountered thus far.
+
+...
+
+[Data](articles/b8aecf3c.json)
 
 ---
 
@@ -2297,23 +2315,5 @@ The sister of his death, Tina has said, "The best brother to a girl," said. "He 
 [Data](articles/7de95d45.json)
 
 [Extended Data](ext_articles/7de95d45.ext.json)
-
----
-
-### Russia that expanded the hand
-
-*2024-07-07 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/187889) · `ta`
-
-Officially, 465 individuals have traveled to Russia, with 17 casualties reported from the conflict. Despite Russia declaring Sri Lanka as an ally, concerns arise over transparency regarding mercenary involvement.
-
-🟩
-
-It has been officially confirmed that 465 people have gone to Russia and 17 have died in war.. Russia claims Sri Lanka as its friend. But in the case of mercenaries, it is not transparent as its true friend ...
-
-◼️
-
-[Data](articles/dd818e70.json)
-
-[Extended Data](ext_articles/dd818e70.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 23:04:52**
+As of **2024-07-08 23:20:10**
 
 ## Newspaper Stats
 
-*Scraped **34,276** Articles*
+*Scraped **34,277** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,021
 dailyftlk | 2,130
 adalk | 3,077
 adaderanalk | 3,931
-tamilmirrorlk | 4,072
+tamilmirrorlk | 4,073
 dailymirrorlk | 4,733
 virakesarilk | 5,357
 adaderanasinhalalk | 5,704
@@ -26,11 +26,33 @@ adaderanasinhalalk | 5,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,273 (100.0%) of 34,276 articles have been extended.
+34,276 (100.0%) of 34,277 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### அத்துருகிரிய துப்பாக்கிச் சூடு தொடர்பில் திடுக்கிடும் தகவல்கள்
+
+*2024-07-08 22:58:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துருகிரிய-துப்பாக்கிச்-சூடு-தொடர்பில்-திடுக்கிடும்-தகவல்கள்/175-340062) · `ta`
+
+அத்துரிகிரியவில் இன்று (08) இடம்பெற்ற துப்பாக்கிச்சூட்டு சம்பவம் தொடர்பில் பல அதிர்ச்சி தகவல்கள் வெளியாகி உள்ளன.
+
+இந்த துப்பாக்கிச் சூட்டுச் சம்பவத்துடன், ஒழுங்கமைக்கப்பட்ட குற்றவாளியான கஞ்சிபானி இம்ரானுக்கு தொடர்பு இருப்பதாக பொலிஸார் சந்தேகிக்கின்றனர்.
+
+அதுருகிரிய நகர சந்தியில் உள்ள மணிக்கூட்டு கோபுரத்திலிருந்து சுமார் 50 மீற்றர் தொலைவில் அமைந்துள்ள கட்டிடத்தின் மேல் தளத்தில், துலான் சஞ்சுலா என்ற பச்சை குத்தும் நபரினால் இன்று காலை பச்சை குத்தும் நிலையம் திறக்கப்பட்டது.
+
+இதில் பிரதம அதிதிகளாக, பிரபல வர்த்தகர் சுரேந்திர வசந்த பெரேரா என்ற கிளப் வசந்த  அவரது மனைவி மற்றும் பிரபல பாடகி கே.சுஜீவா ஆகியோர் அழைக்கப்பட்டிருந்தனர்.
+
+காலை 10.15 மணியளவில் ஒருவல வீதியூடாக வந்த வெள்ளை நிற கார் ஒன்று மணிக்கூட்டு கோபுர சுற்றுவட்டத்தில் இருந்து மீண்டும் ஒருவல வீதிக்கு திரும்பி கட்டிடத்திற்கு அருகில் வீதியில் நின்றபது சிசிரிவி காட்சிகளில் பதிவாகியுள்ளது.
+
+பின்னர், துப்பாக்கி ஏந்திய இருவர் மேல் தளத்தில் உள்ள பச்சை குத்தும் மையத்திற்குள் நுழைந்து துப்பாக்கிச் சூடு நடத்துவதும் சிசிரிவி கெமராவில் பதிவாகியுள்ளது.
+
+...
+
+[Data](articles/3cab86a5.json)
+
+---
 
 ### Wannu and Buddhist Penalty Based on LPL Disciplinary Rule
 
@@ -216,23 +238,29 @@ The State Minister further stated that last year they highlighted 14 sectors tha
 
 ---
 
-### චන්ද්‍රිකා තාක්ෂණය උපයෝගී කරගනිමින් අන්තර්ජාල පහසුකම්
+### Internet facilities with satellite technology
 
 *2024-07-08 19:45:51* · [`adalk`](https://www.ada.lk/breaking_news/චන්ද්‍රිකා-තාක්ෂණය-උපයෝගී-කරගනිමින්-අන්තර්ජාල-පහසුකම්/11-410679) · `si`
 
-මැතිවරණයක් ආසන්නයේ අයුක්ති සහගත වැඩවර්ජන දියත් කිරීමෙන් දරුවන්ට අධ්‍යාපනය ලැබීමේ අවස්ථාව ද අහිමි කර තිබෙන බව තාක්ෂණ රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා පැවසීය.
+In a press conference, Minister Kanaka Herath discussed various initiatives including the Digital Economic Plan aiming to boost the digital economy from $3 billion to $30 billion by 2030, supported by the World Bank. Amendments to the Telecommunication Act were announced to enhance consumer protection and foster competition among telecom companies. Future plans involve introducing internet services via satellite technology and establishing a Technology and Innovation Commission to promote research and innovation. Additionally, there's a proposal to increase allowances for public servants by Rs. 20,000 annually, costing Rs. 280 billion. The IMF recommends allocating Rs 11 billion to assist low-income individuals.
 
-මෙම වර්ජන, උද්ඝෝෂණ මඟින් බලාපොරොත්තු වන්නේ ජනතාවට ලැබෙමින් තිබෙන සහනදායී ජීවන තත්ත්වය කඩාකප්පල් කිරීම ද යන්නට විපක්ෂය පිළිතුරු සැපයිය යුතු බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-තාක්ෂණ රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (08) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Minister of Technology Kanaka Herath said that the launch of unjust strikes near the election is also deprived of the opportunity to study.
 
-2022 වර්ෂයේ සිට විශාල ප්‍රතිපත්ති සහ ප්‍රතිසංස්කරණ රාශියක් අප අමාත්‍යාංශය මඟින් ක්‍රියාත්මක කළා. පාර්ලිමේන්තුවට පනත් රැසක් ඉදිරිපත් කළා මෙන්ම තවත් පනත් කිහිපයක් ඉදිරිපත් කිරීමට ද බලාපොරොත්තුවෙන් සිටිනවා.
+The strikes, protesters are expected to answer the opposition to sabotage the concessionary quality of the people.
 
-ඒ වගේම ලෝක බැංකුවේ සහයෝගය ඇතිව 2020 – 2030 ඩිජිටල් ආර්ථික සැලැස්ම එළි දැක්වීම ද සිදුකළා. අද වන විට පවතින අමෙරිකානු ඩොලර් බිලියන 3ක ඩිජිටල් ආර්ථිකය 2030 වසර වන විට අමෙරිකානු ඩොලර් බිලියන 30 දක්වා වර්ධනය කිරීම අපගේ අරමුණ වී තිබෙනවා.
+Minister of Technology Kanaka Herath made this statement participating at a press conference held at the Presidential Media Center today (08).
+
+Since 2022, many large policies and reforms have been implemented by our ministry. We are looking forward to presenting a bills to the Parliament as well as some other bills.
+
+Also, launching the Digital Economic Plan 2020 - 2030 with the support of the World Bank.. Today, our aim is to increase the digital economy of US $ 3 billion to US $ 30 billion as the Digital Economy of 2030.
 
 ...
 
 [Data](articles/8254f82f.json)
+
+[Extended Data](ext_articles/8254f82f.ext.json)
 
 ---
 
@@ -724,6 +752,8 @@ Lionel Fernando was more than a public servant; he was a beacon of humanity and 
 
 [Data](articles/787cfea0.json)
 
+[Extended Data](ext_articles/787cfea0.ext.json)
+
 ---
 
 ### Paradise: Reading The Layered Symphony Of Politics & Passion
@@ -739,6 +769,8 @@ With “Paradise,” Prasanna has transcended the boundaries of national cinema,
 ...
 
 [Data](articles/55b31161.json)
+
+[Extended Data](ext_articles/55b31161.ext.json)
 
 ---
 
@@ -2259,29 +2291,5 @@ So they gave me the money to me twenty Rs. You are the truthful God. It's a catc
 [Data](articles/22067820.json)
 
 [Extended Data](ext_articles/22067820.ext.json)
-
----
-
-### If you find them ...
-
-*2024-07-08 09:34:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/இவர்களைக்-கண்டால்-உடன்-தகவல்-தாருங்கள்/72-340019) · `ta`
-
-A complaint was filed with the Vavuniya police about a missing woman, A. Abirami, 32, and her two children, Kamsana (11) and Sansikan (8), from Kovilputhukulam. They were last seen heading to school but didn't return. Anyone with information is urged to contact 076-5273860 or the Vavuniya police.
-
-🟩
-
-A complaint has been lodged with the Vavuniya police that the woman from Kovilputhukulam area in Vavuniya and her two children are missing.
-
-His wife, Kamsana (age 11) and Sansikan (age 8), named A. Abirami, 32, who lived in Kovilpudukulam, Vavuniya, took two to school last Thursday.
-
-However, the husband said that the two students did not go to school and that the wife did not return home, and that the three of them did not return home.
-
-Subsequently, if information on them is available, it has been requested to inform the telephone number 076-5273860 or the Vavuniya police.R
-
-◼️
-
-[Data](articles/d94d858b.json)
-
-[Extended Data](ext_articles/d94d858b.ext.json)
 
 ---

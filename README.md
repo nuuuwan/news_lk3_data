@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 11:35:30**
+As of **2024-07-08 11:55:14**
 
 ## Newspaper Stats
 
-*Scraped **34,187** Articles*
+*Scraped **34,189** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,925
 economynextcom | 2,005
 dailyftlk | 2,130
 adalk | 3,058
-adaderanalk | 3,917
+adaderanalk | 3,919
 tamilmirrorlk | 4,060
 dailymirrorlk | 4,733
 virakesarilk | 5,350
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,686
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,185 (100.0%) of 34,187 articles have been extended.
+34,185 (100.0%) of 34,189 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### President’s term in office is 5 years - AG tells court
+
+*2024-07-08 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100368/presidents-term-in-office-is-5-years-ag-tells-court) · `en`
+
+The Attorney General’s Department has informed the Supreme Court that, according to the current Constitution, the tenure of the President is five years.
+
+Deputy Solicitor General Kanishka De Silva, appearing on behalf of the Acting Attorney General, revealed this to the court when the petition regarding the President’s term in office was taken up for consideration today (08).
+
+She also mentioned that preliminary objections would be raised, seeking the dismissal of the petition.
+
+The Supreme Court has taken up for consideration the Fundamental Rights (FR) petition, which requests an interim order to prevent the presidential election from being held within the currently scheduled period until the court provides an interpretation regarding the end date of the current President’s term.
+
+A five-member Supreme Court bench, comprising Chief Justice Jayantha Jayasuriya, Justices Vijith Malalgoda, Murdu Fernando, Preethi Padman Surasena, and S. Thurairaja, had been named to consider the petition.
+
+...
+
+[Data](articles/9c8d401b.json)
+
+---
 
 ### One dead, popular singer among several injured in Athurugiriya shooting
 
@@ -45,6 +65,22 @@ The deceased has been identified as the individual known as “Club Wasantha” 
 ◼️
 
 [Data](articles/2ef977c4.json)
+
+---
+
+### ‘Club Wasantha’ killed in shooting, singer K. Sujeewa among several injured
+
+*2024-07-08 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100367/club-wasantha-killed-in-shooting-singer-k-sujeewa-among-several-injured) · `en`
+
+One person has been reported dead, while at least five others were left injured following a shooting incident at Oruwala in Athurugiriya.
+
+The injured individuals have been admitted to the Homagama Hospital, according to the police.
+
+The deceased has been identified as Surendra Wasantha Perera also known as “Club Wasantha” while popular singer ‘K. Sujeewa’ is also among the injured from the shooting incident, police said.
+
+◼️
+
+[Data](articles/c3b51083.json)
 
 ---
 
@@ -2215,61 +2251,5 @@ Sam, who claims that their victory is a "political earthquake," he said he expec
 [Data](articles/f65a24ac.json)
 
 [Extended Data](ext_articles/f65a24ac.ext.json)
-
----
-
-### Struggle in the hill country against Mano Ganesan
-
-*2024-07-07 16:14:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மனோ-கணேசனுக்கு-எதிராக-மலையகத்தில்-போராட்டம்/76-339985) · `ta`
-
-Tamil Progressive Alliance leader Mano Ganesan faced protests in the hill country over a government decision to increase plantation workers' salaries by Rs 1700. The government responded by filing a lawsuit in the High Court seeking an injunction against the salary hike. Protests were organized in several cities by the Ceylon Workers Congress, criticizing both the salary increase and the legal action.
-
-🟩
-
-The Tamil Progressive Alliance leader and Member of Parliament, Manohanashan MP, staged protests on Sunday in the hill country.
-
-At this time, the masses carried out the protests by carrying the slogans and chanting slogans against MP Mano Ganesan.
-
-The government has filed a lawsuit in the High Court seeking an interim injunction against the gazette's announcement by the government issued by the government on a Rs 1700 salary increase for plantation workers.
-
-Jeevan Thondaman, General Secretary and Minister of the Ceylon Workers Congress, spoke to the media on the premises of the court on 04.
-
-In his opinion, Minister Jeevan had stated that the opposition parties did not celebrate the interim ban on the salary and not to celebrate the crackers and not to celebrate the milk.The CWC landed in the demonstration.
-
-Accordingly, the protest was carried out in the heads of the CWC leaders in charge of the respective area in five major cities in three districts.
-
-...
-
-[Data](articles/125a4357.json)
-
-[Extended Data](ext_articles/125a4357.ext.json)
-
----
-
-### Struggle in the hill country against psychic
-
-*2024-07-07 16:14:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மனோவுக்கு-எதிராக-மலையகத்தில்-போராட்டம்/76-339985) · `ta`
-
-Tamil Progressive Alliance leader Manohanashan MP faced protests in the hill country over a government-issued salary hike for plantation workers. The government sued for an injunction against the gazette announcement. Opposition parties, including the Ceylon Workers Congress (CWC), organized demonstrations in five cities across three districts, criticizing the MP and calling for an end to celebrations related to the salary increase.
-
-🟩
-
-The Tamil Progressive Alliance leader and Member of Parliament, Manohanashan MP, staged protests on Sunday in the hill country.
-
-At this time, the masses carried out the protests by carrying the slogans and chanting slogans against MP Mano Ganesan.
-
-The government has filed a lawsuit in the High Court seeking an interim injunction against the gazette's announcement by the government issued by the government on a Rs 1700 salary increase for plantation workers.
-
-Jeevan Thondaman, General Secretary and Minister of the Ceylon Workers Congress, spoke to the media on the premises of the court on 04.
-
-In his opinion, Minister Jeevan had stated that the opposition parties did not celebrate the interim ban on the salary and not to celebrate the crackers and not to celebrate the milk.The CWC landed in the demonstration.
-
-Accordingly, the protest was carried out in the heads of the CWC leaders in charge of the respective area in five major cities in three districts.
-
-...
-
-[Data](articles/a7c57dfb.json)
-
-[Extended Data](ext_articles/a7c57dfb.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 16:07:14**
+As of **2024-07-08 16:19:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,225 (100.0%) of 34,226 articles have been extended.
+34,226 (100.0%) of 34,226 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -818,19 +818,25 @@ There "Club Wasantha" has died and a singer K. Sujeewa has been injured.
 
 ---
 
-### බූස්ස අධිආරක්ෂිත බන්ධනාගාරයෙන් සොයාගත් දුරකථන හා උපාංග
+### Telephone and accessories found from the Boossa High Security Prison
 
 *2024-07-08 11:04:21* · [`adalk`](https://www.ada.lk/breaking_news/බූස්ස-අධිආරක්ෂිත-බන්ධනාගාරයෙන්-සොයාගත්-දුරකථන-හා-උපාංග/11-410664) · `si`
 
-බූස්ස අධි ආරක්ෂිත බන්ධනාගාරයේ තිබී නවීන පන්නයේ ජංගම දුරකථන තුනක් සහ දුරකථන උපාංග තොගයක් විශේෂ කාර්ය බලකා නිලධාරීන් විසින් ඊයේ (7) අත් අඩංගුවට ගන්නා ලදි.
+Three Special Task Force officials were arrested with three modern mobile phones and accessories hidden in cement and cymbals at the Boossa High Security Prison. The items have been turned over to the Prison Governor for investigation.
 
-එම බන්ධනාගරයේ රෝහල හා ඒ අවට සිදු කළ මෙහෙයුමේදී සිමෙන්ති  හා පොටි කොට්ට තුළ ඉතා සූක්ෂමව සගවා තිබූ ජංගම දුරකතන තුන සහ ජංගම දුරකතන උපාංග සොයාගත් බව පොලිස් විශේෂ කාර්ය බලකාය කියයි.
+🟩
 
-වැඩිදුර විමර්ශන කටයුතු සඳහා දුරකතන හා උපාංග බන්ධනාගාර පාලනාධිකාරිය වෙත භාර දී ඇත.
+Special Task Force officials were arrested yesterday (7) with three modern mobile phones and telephone accessories in the Boossa High Security Prison.
+
+The Police Special Task Force says that the following three mobile phones and mobile phones were found in cement and cymbils in the surface of the prison.
+
+The telephone and devices have been handed over to the Prison Governor for further investigations.
 
 ◼️
 
 [Data](articles/b7c61bb8.json)
+
+[Extended Data](ext_articles/b7c61bb8.ext.json)
 
 ---
 

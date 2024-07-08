@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 22:20:03**
+As of **2024-07-08 22:35:15**
 
 ## Newspaper Stats
 
@@ -26,33 +26,43 @@ adaderanasinhalalk | 5,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,272 (100.0%) of 34,273 articles have been extended.
+34,273 (100.0%) of 34,273 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
 
-### LPL විනය නීති කඩ කළ වනිඳුට සහ බිනුරට දඩ
+### Wannu and Buddhist Penalty Based on LPL Disciplinary Rule
 
 *2024-07-08 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198615) · `si`
 
-ලංකා ප්‍රිමියර් ලීග් විනය නීති සංග්‍රහය උල්ලංඝණය කළ කැන්ඩි ෆැල්කන්ස් කණ්ඩායමේ නායක වනිඳු හසරංගට සහ කලම්බු ස්ට්‍රයිකර්ස් කණ්ඩායමේ බිනුර ප්‍රනාන්දුට දඩ පැනවීමට එල්පීඑල් තරග සංවිධායකයින් පියවර ගෙන තිබේ.
+LPL organizers fined Candy Falcons' captain and Colombo Strokings' leader for disciplinary issues, with penalties ranging from 20% to 25% of their matches. They've also enforced stricter rules regarding player attire and equipment, banning slippers in the stadium. This comes amid efforts to maintain high standards of conduct in the Lanka Premier League, valued at approximately USD 36 million.
 
-ඒ අනුව, වනි﻿ඳුට තරග මුදලින් සියයට 25ක දඩයක් සහ බිනුරට තරග මුදලින් සියයට 20ක දඩයක් නියම කෙරුණි.
+🟩
 
-ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියට එක් වන කණ්ඩායම්වල ක්‍රීඩකයින්ගේ විනය පිළිබඳ මෙවර දැඩි අවධානයක් යොමු කිරීමට LPL තරග සංවිධායකයින් කටයුතු කරයි.
+The LPLs organizers have taken steps to fines in the captain of the Candy Falcation team, leader of Candy Falcons and Colombo Strokers.
 
-ඒ අනුව ක්‍රීඩකයින්ගේ ඇඳුම් පැළඳුම් හා ක්‍රීඩා උපකරණ පිළිබඳවද දැඩි අවධානයක් යොමු කිරීමට පියවර ගෙන ඇති අතර කැන්ඩි ෆැල්කන්ස් කණ්ඩායමට අයත් නොවන හෙල්මටයක් පැළඳ ක්‍රීඩා කිරීම හේතුවෙන් නායක වනිඳු හසරංගට තරග මුදලින් සියයට 25ක දඩයක් පැනවීමට පියවර ගැනුණි.
+Accordingly, the forest fiferly, a fine of 25 percent of the matches and milk was fined 20 percent.
 
-ඒ ඇඳුම් පැළදුම් හා ක්‍රීඩා උපකරණ රෙගුලාසි උල්ලංඝණය කිරීමේ චෝදනාව යටතේය.
+The LPL organizers work to pay close attention to the discipline of the players who join the Lanka Premier League.
 
-අමෙරිකානු ඩොලර් 3600ක් වූ එම දඩ මුදලේ ශ්‍රී ලංකා රුපියල් වටිනාකම ලක්ෂ 11කට ආසන්නයි.
+Accordingly, the sportsmen and sports equipment have been taken to pay close attention to players' clothing and sports equipment.
 
-එමෙන්ම කලම්බෝ ස්ට්‍රයිකර්ස් කණ්ඩායමේ වේගපන්දු යවන ක්‍රීඩක බිනුර ප්‍රනාන්දුටද එම නීතිය උල්ලංඝණය කිරීම හේතුවෙන් සියයට 20ක දඩයක් නියම කළේය.
+It is in charge of violating the clothes and sports equipment regulations.
 
-...
+Sri Lanka Rupee value is US $ 3600 million.
+
+The fast bowler was fast bowler to Bormboelor's fast bowler.
+
+It was due to the match with Candy Falcons with the 2 July 2.
+
+LPL organizers have also banned the slippers of players in the stadium until the end of the competition.
+
+◼️
 
 [Data](articles/48e0f968.json)
+
+[Extended Data](ext_articles/48e0f968.ext.json)
 
 ---
 

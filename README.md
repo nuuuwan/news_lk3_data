@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-08 10:19:54**
+As of **2024-07-08 10:35:33**
 
 ## Newspaper Stats
 
-*Scraped **34,174** Articles*
+*Scraped **34,178** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 309
+dbsjeyarajcom | 310
 colombotelegraphcom | 316
 bbccomsinhala | 334
 newsfirstlk | 363
@@ -16,21 +16,77 @@ islandlk | 1,925
 economynextcom | 2,005
 dailyftlk | 2,130
 adalk | 3,056
-adaderanalk | 3,914
+adaderanalk | 3,915
 tamilmirrorlk | 4,059
 dailymirrorlk | 4,733
 virakesarilk | 5,349
-adaderanasinhalalk | 5,681
+adaderanasinhalalk | 5,683
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,170 (100.0%) of 34,174 articles have been extended.
+34,174 (100.0%) of 34,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-08 (Monday)
+
+### හමාස් ප්‍රධානියෙක් මරුට
+
+*2024-07-08 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198594) · `si`
+
+හමාස් සංවිධානයේ ඡ්‍යේෂ්ඨ පරිපාලන නිලධාරියෙක්, ඊශ්‍රායල හමුදාව එල්ලකළ ගුවන් ප්‍රහාරයකින් ජීවිතක්ෂයට පත්ව ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+ගාසා නගරයේ පිහිටි පාසලකට ඊශ්‍රායලය ගුවන් ප්‍රහාර එල්ලකර තිබූ අතර එහිදී මියගිය සිව් දෙනා අතර Ehab Al-Ghussein ද වූ බව සඳහන් ය.
+
+ගාසා නගරයේ සහ උතුරු ගාසා ප්‍රදේශයේ හමාස් කටයුතු පාලනය සඳහා ඔහුව මීට මාස තුනකට පමණ පත්කර තිබුණි.
+
+මෙම ඝාතනය හමාස් කටයුතු අඩපණ කිරීමට හේතුවක් නොවන බව පැවසෙන අතර නමුත් හමාස් පරිපාලනයේ වැදගත් පුද්ගලයෙක් ලෙස ඔහුව සැලකුණි.
+
+පසුගිය මාස 9 ඇතුළත හමාස් පරිපාලනයේ විශාල පිරිසක් ඊශ්‍රායල ප්‍රහාර හේතුවෙන් මරණයට පත්වී තිබේ.
+
+◼️
+
+[Data](articles/efa2b545.json)
+
+---
+
+### මිත්තණියගේ ඝාතනය ට මුනුපුරාගේ තරුණ බිරිඳ අත්අඩංගුවට
+
+*2024-07-08 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198593) · `si`
+
+ඇත්ගාල උලපනේ ප්‍රදේශයේදී මහලු රෝගී කාන්තාවකට තියුණු ආයුධයකින් පහර දී ඝාතනය කර තිබේ.
+
+එලෙස ඝාතනය කර ඇත්තේ 78 හැවිරිදි උලපනේ ප්‍රදේශයේ ම පදිංචිව සිටි මහලු කාන්තාවකි.
+
+මෙම ඝාතනයට ලක්වූ කාන්තාව ඇයගේ  මුනුපුරා, ඔහුගේ බිරිඳ සහ දරුවන් දෙදෙනා සමග එකම නිවසේ ජීවත්ව සිට තිබුණාය.
+
+නිවසේ ඇති වූ ආරවුලක් හේතුවෙන් මුනුපුරාගේ බිරිඳ විසින් මෙම ඝාතනය සිදුකර ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+එම අවස්ථාවේ එම පුද්ගලයා නිවසේ සිට නොමැති බව පසුව අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/1ae095a1.json)
+
+---
+
+### Indian PM Modi makes first visit to ally Russia since start of Ukraine war
+
+*2024-07-08 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100365/indian-pm-modi-makes-first-visit-to-ally-russia-since-start-of-ukraine-war) · `en`
+
+India’s prime minister begins a two-day visit to Russia on Monday, his first since Moscow launched its invasion of Ukraine, a war that has complicated the relationship between the longtime allies and pushed Russia closer to India’s rival China.
+
+Prime Minister Narendra Modi’s visit will include a meeting with President Vladimir Putin, whom he last saw in Russia in 2019, in the far eastern port of Vladivostok. The two leaders also met in person in September 2022 in Uzbekistan, at a summit of the Shanghai Cooperation Organization bloc.
+
+Russia has had strong ties with India since the Cold War, and New Delhi’s importance as a key trading partner for Moscow has grown since the Kremlin sent troops into Ukraine in February 2022. China and India have become key buyers of Russian oil following sanctions imposed by the United States and its allies that shut most Western markets off to Russian exports.
+
+...
+
+[Data](articles/f21ebdb2.json)
+
+---
 
 ### 3-year-old dies after falling into fish tank
 
@@ -43,6 +99,8 @@ The child, a resident of Middeniya, had fallen into the fish tank built to raise
 ◼️
 
 [Data](articles/4f6d448e.json)
+
+[Extended Data](ext_articles/4f6d448e.ext.json)
 
 ---
 
@@ -70,37 +128,49 @@ After completing the Annual Summit in Moscow, Modi is to leave for Austria, acco
 
 ---
 
-### இவர்களைக் கண்டால் உடன் தகவல் தாருங்கள்...
+### If you find them ...
 
 *2024-07-08 09:34:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/இவர்களைக்-கண்டால்-உடன்-தகவல்-தாருங்கள்/72-340019) · `ta`
 
-வவுனியா, கோவில்புதுக்குளம் பகுதியைச் சேர்ந்த பெண்ணும் அவரது இரு பிள்ளைகளையும் காணவில்லை என வவுனியா பொலிஸில் முறைப்பாடு ஒன்று பதிவு செய்யப்பட்டுள்ளது.
+A complaint was filed with the Vavuniya police about a missing woman, A. Abirami, 32, and her two children, Kamsana (11) and Sansikan (8), from Kovilputhukulam. They were last seen heading to school but didn't return. Anyone with information is urged to contact 076-5273860 or the Vavuniya police.
 
-வவுனியா, கோவில்புதுக்குளம் பகுதியில் வசித்து வந்த 32 வயதான அ.அபிராமி என்னும் பெயருடைய தனது மனைவி, பிள்ளைகளான கம்சனா (வயது 11), சன்சிகன் (வயது 8) ஆகிய இருவரையும் கடந்த வியாழக்கிழமை பாடசாலைக்கு அழைத்து சென்றுள்ளார்.
+🟩
 
-எனினும், குறித்த இரு மாணவர்களும் பாடசாலைக்கு செல்லவில்லை என்றும், மனைவியும் வீடு திரும்பவில்லை என்றும், நானும், உறவினர்களும் பல இடங்களிலும் தேடிய நிலையில் அவர்கள் மூவரும் வீடு திரும்பவில்லை எனவும் கணவன் தெரிவித்துள்ளார்.
+A complaint has been lodged with the Vavuniya police that the woman from Kovilputhukulam area in Vavuniya and her two children are missing.
 
-இதனையடுத்து, இவகள் தொடர்பான தகவல் கிடைத்தால் 076-5273860 என்னும் தொலைபேசி இலக்கத்திற்கோ அல்லது வவுனியா பொலிஸாருக்கோ தெரியப்படுத்துமாறும் கோரப்பட்டுள்ளது.   R
+His wife, Kamsana (age 11) and Sansikan (age 8), named A. Abirami, 32, who lived in Kovilpudukulam, Vavuniya, took two to school last Thursday.
+
+However, the husband said that the two students did not go to school and that the wife did not return home, and that the three of them did not return home.
+
+Subsequently, if information on them is available, it has been requested to inform the telephone number 076-5273860 or the Vavuniya police.R
 
 ◼️
 
 [Data](articles/d94d858b.json)
 
+[Extended Data](ext_articles/d94d858b.ext.json)
+
 ---
 
-### ஜனாதிபதி பதவிக் காலம் தொடர்பான மனு இன்று பரிசீலனை
+### A petition on the presidency's tenure
 
 *2024-07-08 09:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-பதவிக்-காலம்-தொடர்பான-மனு-இன்று-பரிசீலனை/175-340018) · `ta`
 
-ஜனாதிபதியின் பதவிக் காலம் தொடர்பாக உயர் நீதிமன்றில் சமர்ப்பிக்கப்பட்டுள்ள மனு இன்று (08) ஐந்து நீதியரசர்கள் கொண்ட அமர்வு முன்னிலையில் பரிசீலனைக்கு எடுத்துக்கொள்ளப்படவுள்ளது.
+A petition filed by the High Court against the current presidential election schedule will be discussed today by five Supreme Court judges, including Chief Justice Jayantha Jayasuriya and others. The petition seeks to halt the upcoming presidential election.
 
-இந்த மனுவை பரிசீலிப்பதற்காக பிரதம நீதியரசர் ஜயந்த ஜயசூரிய, விஜித் மலல்கொட, முர்து பெர்னாண்டோ, பிரீத்தி பத்மன் சூரசேன மற்றும் எஸ்.துரைராஜா ஆகிய ஐந்து பேர் கொண்ட உயர் நீதிமன்ற நீதியரசர்கள் அமர்வு அண்மையில் பெயரிடப்பட்டது.
+🟩
 
-ஜனாதிபதியின் பதவிக்காலம் முடிவடையும் திகதிகள் தொடர்பில் உயர் நீதிமன்றம் விளக்கமளிக்கும் வரை தற்போது திட்டமிடப்பட்டுள்ளவாறு ஜனாதிபதித் தேர்தலை நடத்துவதைத் தடுக்க உத்தரவிடுமாறு கோரி மனுவொன்று சமர்ப்பிக்கப்பட்டுள்ளது.
+The petition filed by the High Court on the president's tenure will be taken up for consideration today (08) in the presence of a session of five judges.
+
+The Supreme Court judges comprising five persons - Chief Justice Jayantha Jayasuriya, Vijith Malgoda, Murdu Fernando, Preity Padman Surasena and S. Thurairajah were recently named.
+
+A petition has been filed demanding the order of the presidential election to prevent the presidential election as it is currently scheduled.
 
 ◼️
 
 [Data](articles/622408cc.json)
+
+[Extended Data](ext_articles/622408cc.ext.json)
 
 ---
 
@@ -1094,6 +1164,20 @@ According to the police, the article has directed a person or group of individua
 
 ---
 
+### “பெருந்தலைவர்’ இராஜவரோதயம் சம்பந்தனின் அரசியல் பயணம்
+
+*2024-07-07 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84349) · `en`
+
+முதுபெரும் தமிழ் அரசியல் தலைவரும் திருகோணமலை மாவட்டத்தின் நீண்டகால பாராளுமன்ற உறுப்பினருமான இராஜவரோதயம் சம்பந்தன் 2024 ஜூன் 30 கொழும்பில் அமைதியாக இயற்கை எய்தினார். 90 வயதைக் கடந்த அவர் அண்மைக்காலமாக சுகவீனமுற்றிருந்தார். இராப்போசனத்துக்கு பிறகு  சூலமங்கலம் சகோதரிகள் இராஜலக்சுமியும் ஜெயலக்சுமியும் பாடிய ‘ கந்தசஷ்டி கவசம் ‘ பக்திப்பாடலை ஒலிநாடாவில்  கேட்டுக்கொண்டிருந்தபோது ஒரு வேதனை முனகலுடன் சம்பந்தன் நிலைகுலைந்தார். உடனடியாக லங்கா வைத்தியசாலைக்கு கூட்டிச்செல்லப்பட்ட அவர் அங்கு இரவு 11 மணியளவில் தனது இறுதி மூச்சைவிட்டார்.
+
+பாலன் தேவராய சுவாமிகளினால் இயற்றப்பட்ட கந்தசஷ்டி கவசம் முருகப்பெருமானைப் போற்றும் பாடல்களைக் கொண்டது. சிவபெருமான் — பார்வதியின் இரண்டாவது மகனான முருகன் ‘ தமிழ்க்கடவுள் ‘ என்று போற்றப்படுகிறார்.  கந்தசஷ்டி கவசத்தைக் கேட்டுக்கொண்டிருந்தபோது அமைதியாக மரணமடைவது ஒரு இந்து பக்தனைப் பொறுத்தவரை உண்மையில் ஆசீர்வதிக்கப்பட்ட ஒரு மரணமாகும். மிகவும் ஆழமான மதநம்பிக்கையுடைய சம்பந்தனின் குலதெய்வம் திருகோணமலை பத்திரகாளி அம்மன்.
+
+...
+
+[Data](articles/90d9ed17.json)
+
+---
+
 ### Kudu hid of powder with musk
 
 *2024-07-07 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198585) · `si`
@@ -1298,19 +1382,25 @@ Accordingly, the gazette notification has made these services the essential serv
 
 ---
 
-### ශ්‍රී ලන්කන් රුපියල් බිලියන 73.3ක පාඩුවක් ලබයි
+### SriLankan's 73.3 billion rupees loss
 
 *2024-07-07 19:19:16* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-රුපියල්-බිලියන-73-3ක-පාඩුවක්-ලබයි/11-410654) · `si`
 
-ශ්‍රී ලංකන් ගුවන් සමාගම  2022/2023 මුල්‍ය වර්ෂයේ දී රුපියල් බිලියන 73.3ක පාඩුවක් ලබා ඇති බැව් මුදල් අමාත්‍යාංශය මගින් නිකුත් කොට ඇති අවසාන  අයවැය තත්ත්වය  පිළිබඳ වාර්තාවේ සඳහන් වේ.
+SriLankan Airlines reported a significant reduction in its financial losses, decreasing from 130.5 billion to 51.4 billion rupees in the latest fiscal year. Despite this improvement, the airline still faced a net loss of 73.3 billion rupees. The government plans to sell its stake in the airline to attract new investments, aiming to secure the carrier's financial stability.
 
-විනිමය අලාභය හා පොලී පිරිවැය  2022/2023 මූල්‍ය වර්ෂයේ දී  රුපියල් බිලියන 51.4 දක්වා 130.5෴කින් ඉහළ යාම හේතුවෙන්  මෙකී අලාභය  සිදුවී ඇති බවද මෙම වාර්තාවේ සඳහන් වේ.කෙසේ වුවද 2021/2022 මූල්‍ය වර්ෂයට සාපේක්ෂව මෙම මූල්‍ය වර්ෂයේ ශ්‍රී ලංකන් ගුවන් සමාගම ලබා ඇති පාඩුව 56෴කින් අඩුවී ඇත. 2022/2023 මූල්‍ය වර්ෂයෙහිදී  ශ්‍රී ලංකන් ගුවන් සමාගම  රුපියල් බිලියන 372.5ක ආදායමක් උපයා ඇත.සංචාරක කර්මාන්තයේ වර්ධනයත් සමග ගුවන් මගී ආදායම රුපියල් බිලියන 293.3 දක්වා  වැඩිවී තිබේ.
+🟩
 
-ගුවන් සමාගම විසින් ලංකා ඛනිජතෙල් නීතිගත සංස්ථාවට ගෙවිය යුතු  රුපියල් බිලියන 102.5ක  හිඟ මුදල පියවීම සඳහා අමාත්‍ය මණ්ඩලයේ අනුමැතිය මත මහා භාණ්ඩාගාරයෙන් අවශ්‍ය ප්‍රතිපාදන ගුවන් සමාගම වෙත ලබා දී තිබුණි. ගුවන් සමාගමේ මුල්‍ය තිරසාරභාවය ඇති කිරීම සඳහා නව  ආයෝජක අරමුදල් සපයා ගැනීම වෙනුවෙන්  ගුවන් සමාගමේ අයිතිය බැහැර කිරීමට රජය  තීරණය කර ඇත.
+SriLankan Airlines is the last budgetary issued by the Ministry of Finance Limited is a loss of Rs. 73.3 billion in the financial year.
+
+However, the loss incurred by the loss of 130.5 billion to Rs. 51.4 billion in the financial year.Have decreased by ෴. SriLankan Airlines has earned an income of Rs. 372.5 billion in the financial year of Rs. 372.5 billion.
+
+The airline has been given the necessary allocation from the Treasury on the approval of the Ceylon Petroleum Corporation.. The government has decided to dispose of the airline ownership to ensure new investment funds to create the financial sustainability of the airline.
 
 ◼️
 
 [Data](articles/ad84fa69.json)
+
+[Extended Data](ext_articles/ad84fa69.ext.json)
 
 ---
 
@@ -2185,91 +2275,5 @@ The victim and the student were present at their homes, police said.
 [Data](articles/613ae51b.json)
 
 [Extended Data](ext_articles/613ae51b.ext.json)
-
----
-
-### Sri Lanka people cannot bear another VAT hike to increase state salaries twice: President
-
-*2024-07-07 15:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-people-cannot-bear-another-vat-hike-to-increase-state-salaries-twice-president-171169/) · `en`
-
-ECONOMYENEXT – Sri Lanka hiked value added tax to 18 percent to help pay state worker salaries and give the first increment this year, President Ranil Wickremesinghe said, as sections of state workers started strikes ahead of elections.
-
-During the last economic crisis, some suggested sending 500,000 state workers home on no pay leave until money could be found to pay their salaries.
-
-“I said at the time I cannot send anyone on leave,” President Wickremesinghe was quoted as saying at a ceremony in the Uva region.
-
-“I raised VAT to 18 percent and faced the criticism of the public to pay the salaries.”
-
-“Development officers, clerks are saying to raise the salaries. We cannot do that. To do that we will have to raise VAT again. The people cannot bear it.”
-
-Another salary increment will be announced in the budget for 2025, and a committee is looking into the matter, President said.
-
-Without cutting public service salaries, the current administration has frozen new hires.
-
-...
-
-[Data](articles/1d346d14.json)
-
-[Extended Data](ext_articles/1d346d14.ext.json)
-
----
-
-### Attack on Refugee Camp in Gaza
-
-*2024-07-07 15:01:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசாவில்-அகதிகள்-முகாம்-மீது-தாக்குதல்/50-339981) · `ta`
-
-Israeli airstrikes on Nusirat refugee camp in Gaza resulted in casualties and injuries, according to foreign media reports.
-
-🟩
-
-Israeli air strikes on Nusirad refugee camp in Central Gaza have been killed.
-
-Foreign media reports that many people were injured in the attack. (A)
-
-◼️
-
-[Data](articles/089a5269.json)
-
-[Extended Data](ext_articles/089a5269.ext.json)
-
----
-
-### What is going to be to the public service tomorrow and tomorrow
-
-*2024-07-07 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198574) · `si`
-
-Over 200 public service trade unions plan to strike on two consecutive days, with principals and teachers also taking sick leave, affecting services on July 9th.
-
-🟩
-
-Over 200 trade unions in the public service, have decided not to report to work tomorrow (09) and tomorrow.
-
-Meanwhile, principals and teachers have decided to leave sick leave on July 9th.
-
-◼️
-
-[Data](articles/43ade11d.json)
-
-[Extended Data](ext_articles/43ade11d.ext.json)
-
----
-
-### Special Notice of Presidential Scholarship
-
-*2024-07-07 14:46:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-புலமைப்பரிசில்-குறித்து-விசேட-அறிவிப்பு/175-339979) · `ta`
-
-The Presidential Scholarship, funded by the GCE, supports students from low-income families in grades 1 through 11. To stay informed about this scholarship, it's recommended to follow the President's Finance Facebook page.
-
-🟩
-
-GCE.. Arrangements have been made to implement the scholarship scholarship provided by the Presidential Fund to students from low -income families from grade 1 to 11 to 11th grade.
-
-Accordingly, the President's Fund has requested the Follow/Like of the President's Finance Facebook page to obtain new information on this scholarship.
-
-◼️
-
-[Data](articles/47974f2d.json)
-
-[Extended Data](ext_articles/47974f2d.ext.json)
 
 ---

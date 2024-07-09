@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 13:35:28**
+As of **2024-07-09 13:54:37**
 
 ## Newspaper Stats
 
-*Scraped **34,376** Articles*
+*Scraped **34,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ newsfirstlk | 363
 islandlk | 1,936
 economynextcom | 2,023
 dailyftlk | 2,146
-adalk | 3,086
-adaderanalk | 3,942
+adalk | 3,087
+adaderanalk | 3,943
 tamilmirrorlk | 4,088
 dailymirrorlk | 4,733
 virakesarilk | 5,371
-adaderanasinhalalk | 5,720
+adaderanasinhalalk | 5,721
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,376 (100.0%) of 34,376 articles have been extended.
+34,376 (100.0%) of 34,379 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### අල්ලස් ගත් බවට සැක පොලිස් නිලධාරින්ගේ ඇප ප්‍රතික්ෂේප වෙයි
+
+*2024-07-09 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198634) · `si`
+
+අල්ලස් ලබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගත කර සිටින කොළඹ අපරාධ කොට්ඨාසයේ පොලිස් පරීක්ෂකවරයා සහ කොස්තාපල්වරයාගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කිරීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (09) තීන්දු කළේය.
+
+කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා විසින් මෙම නියෝගය ප්‍රකාශයට පත් කළේය.
+
+ඒ අනුව අදාළ සැකකරුවන් ලබන 23 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට ද මහෙස්ත්‍රාත්වරයා නියෝග කළේය.
+
+මෙහිදී මෙම සැකකරුවන් විසින් අල්ලස් වශයෙන් ලබාගත් බව කියන මුදල් ද අල්ලස් කොමිසම විසින් අධිකරණයට ඉදිරිපත් කළේය.
+
+මාර්ගගත  මුදල් ගනුදෙනුවකට අදාළව සිද්ධියකට සම්බන්ධ සැකකරුවකු අධිකරණයට ඉදිරිපත් නොකර සිටීම සඳහා රුපියල් 154,200/- අල්ලසක් ලබාගත්තේ යැයි සැකපිට මෙම සැකකාර පොලිස් නිලධාරීන දෙදෙනා අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන තිබිණි.
+
+◼️
+
+[Data](articles/ee76cd04.json)
+
+---
+
+### Train operations on Coastal Line disrupted due to derailment
+
+*2024-07-09 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100391/train-operations-on-coastal-line-disrupted-due-to-derailment) · `en`
+
+The train operations on the Coastal Line have been completely disrupted owing to the derailment of a train near Colombo Fort railway station.
+
+Two compartments of a slow train plying from Panadura to Colombo Fort have derailed near Colombo Fort railway station this morning (09), blocking both railway tracks on the Coastal Line, the Department of Railways said.
+
+As a result, the trains operating from Galle towards Colombo Fort and Maradana have been limited to Kompanna Veediya railway station, according to the department.
+
+However, it has been reported that restoration work on the railway tracks has not yet commenced. As a result, it will take a few more hours for train operations to return to normal.
+
+◼️
+
+[Data](articles/0949f59e.json)
+
+---
 
 ### Club's murder reveals
 
@@ -163,6 +201,20 @@ Magistrate Kosala Senadheera added that the Kompanideru police have already repo
 [Data](articles/ccd74bbe.json)
 
 [Extended Data](ext_articles/ccd74bbe.ext.json)
+
+---
+
+### ඡන්දෙ කල්දාන්න ගහන්න හදන තවත් ගැටයක් උදය හෙළි කරයි
+
+*2024-07-09 12:19:15* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දෙ-කල්දාන්න-ගහන්න-හදන-තවත්-ගැටයක්-උදය-හෙළි-කරයි/11-410688) · `si`
+
+ජනාධිපතිවරණය ආසන්නයේ රජයේ මුද්‍රණාලය යොදා ගනිමින් ජනපතිවරණය කල් දැමීමේ  කුමන්ත්‍රණයක් පවතින බව පිවිතුරු හෙළ උරුමයේ නායක නීතිඥ උදය ගම්මන්පිල මහතා චෝදනා කරයි. මැතිවරණය ආසන්නයේ දී මුද්‍රණාලය වෙනත් තැනකට ගෙන යෑමට යෝජනා කරන්නෙත්, සේවකයින්ගේ දිරි දීමනා කපා දැමීමට යෝජනා කරන්නෙත් ජනපතිවරණය ප්‍රකාශයට පත් කිරීමෙන් පසු මුද්‍රණාලයේ වැඩවර්ජනයක් ඇති කර, ඒ මුවාවෙන් පළාත් පාලන මැතිවරණය මෙන්ම ජනාධිපතිවරණයත් කල් දැමීමට යැයි සාධාරණ සැකයක් මතුවන බව ද හෙතෙම ප්‍රකාශ කළේය.
+
+ඒ මහතා මේ බව සදහන් කළේ ඊයේ (08දා)  පිවිතුරු හෙළ උරුමය මාධ්‍ය හමුවට එක් වෙමිනි.පිවිතුරු හෙළ උරුමයේ නායකයා එහිදී වැඩිදුරටත් මෙසේ අදහස් දැක්වීය.
+
+...
+
+[Data](articles/82b51a84.json)
 
 ---
 
@@ -2263,85 +2315,5 @@ Also, launching the Digital Economic Plan 2020 - 2030 with the support of the Wo
 [Data](articles/8254f82f.json)
 
 [Extended Data](ext_articles/8254f82f.ext.json)
-
----
-
-### Sanath Jayasuriya appointed as the Interim Chief Instructor of Sri Lanka
-
-*2024-07-08 19:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/187992) · `ta`
-
-Sanath Jayasuriya, a 1996 World Cup hero and former Sri Lankan captain, has been named the interim coach ahead of cricket series against India and England. Despite no prior coaching experience, Jayasuriya served as the team's selector and Cricket Adviser. His appointment follows Chris Silverwood's resignation post the World Cup. Jayasuriya, previously banned for two years due to non-cooperation with ICC, is expected to lead the team until a permanent coach is hired.
-
-🟩
-
-The 1996 World Cup hero and former captain Sanath Jayasuriya has been appointed as the interim coach of the Sri Lankan cricket team.
-
-Sanath Jayasuriya will serve as the chief coach during the two -limited over -cricket series against India and a three -match Test series against England.
-
-Although Sanath Jayasuriya did not hold the post of instructor before, he was once the chairman of the Sri Lankan team's select committee and became the Cricket Adviser to Sri Lanka Cricket Company before the current post.
-
-Chief coach Chris Silverwut resigned from his post after Sri Lanka's first round of the World Cup in the United States and the West Indies last month.
-
-In this case, Sanath Jayasuriya will serve as the interim chief instructor until a new instructor is elected.
-
-Ashley de Silva, Chief Executive Officer of Sri Lanka Cricket, said that applications for the post of Chief Instructor will be elected.
-
-Often a local person is likely to be selected as a trainee, he said.
-
-...
-
-[Data](articles/4dc13288.json)
-
-[Extended Data](ext_articles/4dc13288.ext.json)
-
----
-
-### First part of the 20 Indian login engines within two months
-
-*2024-07-08 19:40:03* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-දුම්රිය-එන්ජින්-20න්-පළමු-කොටස-මාස-දෙකක්-තුළ/11-410678) · `si`
-
-In a media briefing, Railway GM Sanjaya Mudalige announced that 20 locomotives will be sent to Sri Lanka within two months to address transportation needs. Additionally, the leasing of 12,000 acres of Railway-owned land to residents is underway, allowing them to register for tax deeds. Legal actions against unauthorized activities will be pursued. The modernization of the Mahawa-Omanthantha railway line, set to begin in August, includes starting a freight train service from Beliatta to Colombo. Development of railway stations along the coastal road, including Kollupitiya and Bambalapitiya, with private sector involvement, is also planned.
-
-🟩
-
-Acting Railway General Manager Sanjaya Mudalige said that 20 locomotives would be given to Sri Lanka within two months to manipulate the need to manage the need.. He was speaking at a media briefing held at the media center.
-
-"We have given the people the opportunity to lease the land owned by about 12,000 acres of Railways. Accordingly, the residents of the Railways belonging to the Railway Department are already allowed to register to obtain a tax deed for the land. Steps will be taken to take legal action and remove legal action.
-
-Also, the modernization of the Mahawa-Omanthantha railway line will be constructed in August and has commenced the freight train service from Beliatta to Colombo since the 15th. The parties who transport goods to Colombo, including businessmen, can serve. In the meantime, railway stations in the coastal road is to be developed with the private sector, including Kollupitiya and Bambalapitiya. "
-
-◼️
-
-[Data](articles/c8dd28e1.json)
-
-[Extended Data](ext_articles/c8dd28e1.ext.json)
-
----
-
-### By the end of this year, the electronic system will be introduced for public transport services including trains- Ranjith Ganganath Rupasinghe
-
-*2024-07-08 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/187991) · `ta`
-
-This year, the government will introduce an electronic ticketing system for public transport, including trains, despite economic challenges. It has invested heavily in road development and is discussing further projects with international partners. The transport sector aims for a 10%-15% upgrade in the next five years, with initiatives like digitalization to enhance efficiency and reduce costs.
-
-🟩
-
-Secretary of the Ministry of Transport and Highways Ranjith Ganganath Rubasinghe said that by the end of this year, the electronic system will be introduced instead of a ticket in public transport services, including trains.
-
-Speaking at a press conference held at the Presidential Media Center today (08) under the theme "Two Years Progress and Future"
-
-Secretary of the Ministry of Transport and Highways Ranjith Ganganath Rubasinghe said this.
-
-He added that despite the economic crisis, the government has paid 390 billion rupees for road development projects before 2022, and 300 billion rupees has been spent on contractors and 90 billion rupees loans.
-
-Ranjith Ganganath Rubasinghe, Secretary to the Ministry of Transport and Highways
-
-Despite the economic crisis facing the country, the government has paid 390 billion rupees in the last two years for road development projects before 2022.. The money has been spent on 300 billion rupees contractors and 90 billion rupees.
-
-...
-
-[Data](articles/116665d6.json)
-
-[Extended Data](ext_articles/116665d6.ext.json)
 
 ---

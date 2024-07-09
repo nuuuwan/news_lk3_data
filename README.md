@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 08:54:21**
+As of **2024-07-09 09:05:53**
 
 ## Newspaper Stats
 
-*Scraped **34,333** Articles*
+*Scraped **34,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,936
 economynextcom | 2,022
 dailyftlk | 2,146
 adalk | 3,079
-adaderanalk | 3,932
+adaderanalk | 3,933
 tamilmirrorlk | 4,079
 dailymirrorlk | 4,733
 virakesarilk | 5,365
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,710
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,328 (100.0%) of 34,333 articles have been extended.
+34,333 (100.0%) of 34,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### Election Commission summons IGP, Govt Printer and Postmaster General
+
+*2024-07-09 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/100382/election-commission-summons-igp-govt-printer-and-postmaster-general-) · `en`
+
+The Inspector General of Police (IGP), Postmaster General and the Government Printer have been summoned to the Election Commission today (9) to discuss matters related to the upcoming presidential election.
+
+The Chairman of the Election Commission, R.M.A.L. Rathnayake, stated that the relevant parties have been called to address the basic issues related to the presidential election.
+
+Accordingly, the Government Printer and the Postmaster General are scheduled to arrive at the Election Commission today (9), while the IGP is slated to arrive in the coming days.
+
+According to the Constitution, the Election Commission will have the authority to announce the presidential election after July 17.
+
+Rathnayake mentioned that they hope to discuss the fundamental issues regarding the conducting of the presidential election during these meetings.
+
+...
+
+[Data](articles/221e61ba.json)
+
+---
 
 ### Several spells of showers expected in parts of the island
 
@@ -52,43 +72,57 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 ---
 
-### රාජ්‍ය සේවයේ වෘත්තීය සමිති දෙවන දිනටත් ලෙඩ වෙයි - ගුරුවරුන්ටත් බෝවෙයි
+### Trade unions are sick for the second day - the trade unions are sick - teachers
 
 *2024-07-09 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198621) · `si`
 
-රුපියල් 25,000ක දීමනාවක් ලබාදෙන ලෙස ඉල්ලා රාජ්‍ය සේවයේ වෘත්තීය සංගම් 200ක් පමණ ආරම්භ කර ඇති වෘත්තීය සමිති ක්‍රියාමාර්ගය අද (09) දිනයේ ත් ක්‍රියාත්මක කිරීමට නියමිතව තිබේ.
+Trade unions across various sectors in Sri Lanka, including teachers and postal workers, have launched a two-day strike starting from September 8th, affecting numerous government agencies. The strike was prompted by unresolved issues between the unions and authorities, with no immediate resolution in sight.
 
-විධායක ශ්‍රේණියේ නිලධාරීන්ට ලබාදුන් රුපියල් 25,000 දීමනාව අනෙක් සියලු සේවකයින්ට ද ලබාදෙන ලෙස ඉල්ලමින් රාජ්‍ය හා පළාත් රාජ්‍ය සේවා වෘත්තීය සමිති එකතුව විසින් ඊයේ (08) සහ අද අසනීප නිවාඩු වාර්තා කරමින් වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරත වීමට තීරණය කරනු ලැබීය.
+🟩
 
-ඒ අනුව ඊයේ දිනයේ දී දිවයිනේ බොහෝ රාජ්‍ය ආයතනවල සේවකයින් සේවයට වාර්තා නොකර සිටි අතර රාජ්‍ය ආයතන රැසක දෛනික කටයුතුවලට එයින් දැඩි බාධා එල්ල වී තිබුණි.
+The Trade Union Program has been launched today (09), the trade union action has been launched today (09).
 
-සිය ඉල්ලීමට බලධාරීන් මෙතක් යහපත් ප්‍රතිචාර ලබා දී නොමැති බැවින් අද දිනයේත් අසනීප නිවාඩු වාර්තා කරමින් වෘත්තීය ක්‍රියාමාර්ගයේ නිරත වන බව රාජ්‍ය හා පළාත් රාජ්‍ය සේවා වෘත්තීය සමිති එකතුවේ සම කැඳවුම්කරු චන්දන සූරියආරච්චි මහතා සඳහන් කළේය.
+The total number of State and Provincial Public Service Trade Unions decided to go to a trade union action yesterday (08) and today (08) and today (08) and today.
 
-රාජ්‍ය සේවකයින්ගේ වැඩවර්ජනයට සමගාමීව තැපැල් වෘත්තීය සමිති ද පෙරේදා මධ්‍යම රාත්‍රියේ සිට අසනීප නිවාඩු වාර්තා කරමින් වැඩවර්ජනයට නිරත වී සිටී.
+Accordingly, the employees of many government agencies in the island were not reported to the work of many state institutions in the island yesterday and was severely obstructed for a number of state institutions.
+
+According to the College Convener of the Ministry of Public and Provincial Public Service Trade Union, said the co-convener of the Ministry of Public and Provincial Public Service Trade Union said that the authorities have not responded to their request.
+
+Postal employees have also recorded the postal trade unions in parallel to the strike of the public servants.
+
+Convener of the Joint Postal Service, Chinthaka Bandara stated that the strike will be implemented until midnight today.
 
 ...
 
 [Data](articles/243a7a13.json)
 
+[Extended Data](ext_articles/243a7a13.ext.json)
+
 ---
 
-### යෝජිත විදුලි ගාස්තු සංශෝධනය ගැන මහජන අදහස් ලබාගැනීම අද
+### Public opinion on the proposed telephone revision today
 
 *2024-07-09 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198622) · `si`
 
-ලංකා විදුලිබල මණ්ඩලය විසින් යෝජනා කර ඇති විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් වාචික මහජන අදහස් ලබා ගැනීම අද (09) දිනයේ සිදුකිරීමට නියමිතව තිබේ.
+Today's public consultation on the proposed telephone tariff revisions under the Electricity Act drew mixed opinions. Scheduled at the Bandaranaike Memorial International Conference Hall, it aimed to gather feedback from around 50 registered participants representing various electricity users. The outcome will influence the final decision, set to be announced on July 15th.
 
-විදුලි බල පනතට අනුව මේ වසරේ විදුලි ගාස්තු සංශෝධනය සිදුකිරීමට නියමිත අතර ඊට පෙර මෙම මහජන අදහස් විමසීම සිදුකරන බව මහජන උපයෝගිතා කොමිෂන් සභාව සඳහන් කළේය.
+🟩
 
-ඒ අනුව අද පෙරවරු 08.30 සිට පස්වරු 4.30 දක්වා බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේ දී වාචික මහජන ලබා ගැනීමේ සැසිය සිදුකිරීමට නියමිතය.
+Verbal public views are due to obtain oral public views today (09).
 
-අද දිනයේ යෝජිත විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් අදහස් දැක්වීම සඳහා විවිධ විදුලි පාරිභෝගික කණ්ඩායම්, කර්මාන්ත හා සංවිධාන නියොජනය කරමින් පුද්ගලයින් 50 දෙනෙකු පමණ ලියාපදිංචි වී ඇති බව මහජන උපයෝගිතා කොමිෂන් සභාව සඳහන් කළේය.
+According to the Electricity Act, the electricity tariff will be revised this year and said the public consultations before that will be consulted.
 
-මහජන අදහස් විමසීම අවසන් වූ පසු ජුලි මස15 වන දින විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් අවසාන තීරණය ප්‍රකාශයට පත්කිරීමට නියමිතව තිබේ.
+Accordingly, the oral public obtaining session will be held at the Bandaranaike Memorial International Conference Hall from 8.30 am to 4.30 am.
+
+The Public Utilities Commission states that about 50 people have been registered with various electricity consumers, industries and organizations to comment today.
+
+The final decision is to be announced on the 15th of July on the 15th of July.
 
 ◼️
 
 [Data](articles/4c4a7b0e.json)
+
+[Extended Data](ext_articles/4c4a7b0e.ext.json)
 
 ---
 
@@ -214,23 +248,33 @@ Meanwhile, the suspects involved in the shooting incident have been recovered by
 
 ---
 
-### உக்ரைனின் பல நகரங்கள் மீது ரஸ்யா தாக்குதல்- சிறுவர் வைத்தியசாலையும் இலக்குவைக்கப்பட்டது – 37 பேர் பலி
+### Russia attack on many cities of Ukraine- Children's Hospital
 
 *2024-07-09 06:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187985) · `ta`
 
-உக்ரைனின் தலைநகரில் உள்ள  சிறுவர் வைத்தியசாலை உட்பட பல நகரங்களின் மீது ரஸ்யா மேற்கொண்ட தாக்குதலில் 30க்கும் அதிகமானவர்கள் கொல்லப்பட்டுள்ளனர்.
+In a devastating attack on Ukraine, including its capital's main children's hospital, over 30 lives were lost. Daily assaults on various Ukrainian cities continue, with horrific scenes at Okmativ hospital where staff heroically attempted to rescue children amidst chaos and destruction.
 
-உக்ரைனின் பல நகரங்களை இலக்குவைத்து வழமைக்கு மாறான பகல்நேர தாக்குதல் இடம்பெற்றுள்ளது  என உக்ரைன் அதிகாரிகள் தெரிவித்துள்ளனர்.
+🟩
 
-இதன்போது உக்ரைன் தலைநகரில் உள்ள பிரதான சிறுவர் மருத்துவமனையான ஒக்மாடிட் மீது தாக்குதல் இடம்பெற்றுள்ளது என உக்ரைன் அதிகாரிகள் தெரிவித்துள்ளனர்.
+More than 30 people have been killed in the attack on several cities, including a children's hospital in Ukraine's capital.
 
-மருத்துவமனையிலிருந்து புகைமண்டலம் வெளியாவதையும் இடிபாடுகளிற்குள் தேடுதல்கள் இடம்பெறுவதையும் தாக்குதல்கள் இடம்பெற்றவேளை சிறுவர்களை எவ்வாறு காப்பாற்ற முயன்றனர் என்பதை மருத்துவமனையின் பணியாளர்கள் விபரிப்பதையும்  காண்பிக்கும் படங்கள் வெளியாகியுள்ளன.
+Ukraine officials have said that there have been a day -to -day attack on many cities of Ukraine.
 
-நான் கடும் அச்சமடைந்தேன் ஆனால் உயிர் தப்பிவிட்டேன் அது பாரிய சத்தம் ஜன்னல்கள் சிதறின என மருத்துவமனையின் தாதியொருவர் தெரிவித்துள்ளார்.
+Ukraine officials said that the attack on Okmatit, the main children's hospital in the capital of Ukraine, said.
 
-...
+There have been pictures of the hospital's staff describing how the children tried to save the children while the attack was carried out and the search was carried out inside the hospital.
+
+I was terrified but I survived.
+
+When the alarm signal sounded, the children were taken to safe places. The whole smoke was found. Doctors were unable to breathe. Doctors were injured with bombshell.
+
+A mother said her 11 -year -old son was safely expelled from cancer.
+
+◼️
 
 [Data](articles/0cc16412.json)
+
+[Extended Data](ext_articles/0cc16412.ext.json)
 
 ---
 
@@ -2239,23 +2283,5 @@ Police investigations have revealed that two T-56 rivers have been used to shoot
 [Data](articles/479f3b4c.json)
 
 [Extended Data](ext_articles/479f3b4c.ext.json)
-
----
-
-### President's term: petition dismissed
-
-*2024-07-08 13:36:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-பதவிக்காலம்-மனு-தள்ளுபடி/175-340037) · `ta`
-
-Supreme Court dismisses petition to halt presidential election, allowing it to proceed despite ongoing term.
-
-🟩
-
-The Supreme Court has dismissed a petition filed by the Supreme Court seeking to prevent the presidential election, until the president's term is over.
-
-◼️
-
-[Data](articles/2f95e126.json)
-
-[Extended Data](ext_articles/2f95e126.ext.json)
 
 ---

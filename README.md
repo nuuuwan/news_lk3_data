@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 10:35:03**
+As of **2024-07-09 10:53:57**
 
 ## Newspaper Stats
 
-*Scraped **34,353** Articles*
+*Scraped **34,354** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,936
 economynextcom | 2,023
 dailyftlk | 2,146
 adalk | 3,083
-adaderanalk | 3,938
+adaderanalk | 3,939
 tamilmirrorlk | 4,083
 dailymirrorlk | 4,733
 virakesarilk | 5,365
@@ -26,29 +26,53 @@ adaderanasinhalalk | 5,715
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,351 (100.0%) of 34,353 articles have been extended.
+34,353 (100.0%) of 34,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### අමෙරිකාවේ රැකියා පෙන්වා මුදල් ගැරෑ කතක් අත්අඩංගුවට
+### Govt. accused of gender bias in appointing Acting Attorney General
+
+*2024-07-09 10:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100387/govt-accused-of-gender-bias-in-appointing-acting-attorney-general-) · `en`
+
+Member of Parliament Rohini Kumari Kaviratne alleges that the government has appointed Senior Additional Solicitor General Parinda Ranasinghe as the Acting Attorney General, overlooking Senior Additional Solicitor General Ayesha Jinasena, despite her seniority and eligibility for the role, due to gender bias.
+
+Furthermore, Kaviratne criticized the government, pointing out that it has been two weeks since the ‘Women Empowerment Act’ was passed in Parliament. She added that while the government introduces various acts to present a progressive image to the international community, their actions in recognizing and promoting women in positions of power have fallen short.
+
+“I need to know on which basis that woman was overlooked and another person was appointed to act in the office”, she questioned in parliament.
+
+◼️
+
+[Data](articles/54cc09db.json)
+
+---
+
+### A woman arrested for digging jobs in America
 
 *2024-07-09 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198627) · `si`
 
-අමෙරිකා එක්සත් ජනපදයේ රැකියා ලබාදෙන බව පවසා මුදල් වංචා කළ කාන්තාවක් ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් වවුනියාව ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+A woman from Sri Lanka was arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment for allegedly failing to provide promised jobs in America. She also faces complaints related to job promises in the Bogunawa and Bogaswewa areas. The suspect, who manages a prominent insurance company, was initially presented in the Vavuniya Magistrate's Court and will next appear in the Aluthkade Magistrate's Court.
 
-වවුනියාව, බෝගස්වැව ප්‍රදේශයේ පදිංචි කාන්තාවක් විසින් තම නැගණිය මාර්ගයෙන් අමෙරිකාවේ රැකියා ලබා දෙන බව පවසා රුපියල් ලක්ෂ 10ක මුදලක් ලබාගෙන පොරොන්දු වූ පරිදි රැකියාව ලබානොදුන් බවට ගම්පහ ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු විසින් පසුගියදා කාර්යාංශයේ විශේෂ විමර්ශන අංශයට පැමිණිල්ලක් ඉදිරිපත් කර තිබුණි.
+🟩
 
-සැකකාරියට එරෙහිව පැමිණිලි 5ක් කාර්යාංශය වෙත ලැබී ඇති අතර, ඒ අනුව ක්‍රියාත්මක වූ විමර්ශන නිලධාරීන් විසින් මෙම කාන්තාවගේ නිවසට ගොස් ඇයව අත්අඩංගුවට ගෙන තිබුණි.
+A woman was arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment Bureau in the Vavuniya area.
 
-එම පැමිණිලිවලට අනුව කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් අදාළ කාන්තාවට එරෙහිව කොළඹ අලුත්කඩේ අධිකරණයට කරුණු වාර්තාකර නඩු පවරා තිබේ.
+A resident of Gampaha said that he had not been able to get jobs in the Bogunawa and Bogaswewa said that he had not been able to provide jobs and had not been employed as promised.
 
-කාර්යාංශ නිලධාරීන් පැවසූයේ, ඇයගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී ඇය දිවයිනේ ප්‍රසිද්ධ රක්ෂණ සමාගමක කළමනාකාරිනිය ලෙස සේවය කරන බවය.
+The Bureau had received 5 complaints against the suspect and the investigating officials had taken her to the woman's residence.
 
-...
+According to the complaints, the Bureau's Special Investigation Division (Special Investigation Division) has filed a case against the woman.
+
+Bureau Officers said that she serves as manager of a well-known insurance company in the island.
+
+The suspect was produced before the Vavuniya Magistrate's Court on the 7th of July until July 12, and the suspect is to be produced before the Aluthkade Magistrate's Court on 12th July.
+
+◼️
 
 [Data](articles/f1490aa9.json)
+
+[Extended Data](ext_articles/f1490aa9.ext.json)
 
 ---
 
@@ -94,21 +118,27 @@ Kaziranga is home to the world’s largest population of one-horned rhinos, whic
 
 ---
 
-### ක්ලබ් වසන්ත ඝාතනයට ටැටූ ආයතනයේ හිමිකරු ඇතුළු 6ක් අල්ලයි
+### Tattond owner arrested with Tatu
 
 *2024-07-09 09:46:14* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතනයට-ටැටූ-ආයතනයේ-හිමිකරු-ඇතුළු-6ක්-අල්ලයි/11-410687) · `si`
 
-ප්‍රකට ව්‍යාපාරික සුරෙන්ද්‍ර වසන්ත පෙරේරා ඇතුළු දෙදෙනෙක් වෙඩි තබා ඝාතනය කිරීමේ සිදුවීම සම්බන්ධයෙන් මේ වන විට පුද්ගලයන් 6ක් අත්අඩංගුවට ගෙන ඇති බව වාර්තා වෙයි.
+Six arrests linked to the assassination of businessman Wasantha Perera; owner of Tatuwara station among them. Ten investigation teams formed.
 
-එම අත්අඩංගුවට ගත් පිරිස අතර අතුරුගිරිය මංසන්ධියේ විවෘත කළ ටැටූ ව්‍යාපාරික ස්ථානයේ හිමිකරුද වන බව වාර්තා වෙයි.
+🟩
 
-ඊට අමතරව වෙඩික්කරුවන්ට ප්‍රවාහන පහසුකම් ලබාදුන් පුද්ගලයන්ද ඒ අතර සිටින බව පොලීසිය කියයි.
+Six persons have already been arrested in connection with the assassination of shooting two others, including the famous businessmanmer Wasantha Perera.
 
-වෙඩි තැබීම පිළිබදව විමර්ශනය කිරීම සදහා විශේෂ පොලිස් කණ්ඩායම් 10 ක් ද පත් කර තිබෙනවා.
+Among the arrested persons is also the owner of the Tatuwara business station at the Athurugiriya Junction.
+
+In addition, people who provided transport to shothoods are among them.
+
+Ten special teams have been appointed to investigate the shooting.
 
 ◼️
 
 [Data](articles/b0539a29.json)
+
+[Extended Data](ext_articles/b0539a29.ext.json)
 
 ---
 
@@ -2265,19 +2295,5 @@ The song 'Once Up on A Time', which is featured in the film, has been released a
 [Data](articles/c0e5aed3.json)
 
 [Extended Data](ext_articles/c0e5aed3.ext.json)
-
----
-
-### Appreciation For Lionel Fernando
-
-*2024-07-08 17:10:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/appreciation-for-lionel-fernando/) · `en`
-
-Lionel Fernando was more than a public servant; he was a beacon of humanity and national integration in Sri Lanka. As a top official who held numerous positions in public service, local government, and diplomacy, his career was a testament to his dedication to his country and its people. My admiration for Lionel began long before our personal encounters, rooted in his transformative tenure as the first Sinhala Government Agent in Jaffna during the 1970s. His service-oriented approach endeared him to the Tamil communities, illustrating his commitment to bridging ethnic divides and fostering unity.
-
-...
-
-[Data](articles/787cfea0.json)
-
-[Extended Data](ext_articles/787cfea0.ext.json)
 
 ---

@@ -1,36 +1,72 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 18:37:28**
+As of **2024-07-09 18:54:53**
 
 ## Newspaper Stats
 
-*Scraped **34,430** Articles*
+*Scraped **34,433** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 311
 colombotelegraphcom | 321
-bbccomsinhala | 336
+bbccomsinhala | 337
 newsfirstlk | 363
 islandlk | 1,936
 economynextcom | 2,028
 dailyftlk | 2,146
 adalk | 3,094
-adaderanalk | 3,954
+adaderanalk | 3,955
 tamilmirrorlk | 4,095
 dailymirrorlk | 4,733
 virakesarilk | 5,382
-adaderanasinhalalk | 5,731
+adaderanasinhalalk | 5,732
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,429 (100.0%) of 34,430 articles have been extended.
+34,430 (100.0%) of 34,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### ජුලි විශ්‍රාම වැටුප බැංකු වෙත නිදහස් කරයි
+
+*2024-07-09 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198646) · `si`
+
+ජුලි මාසයේ 10 වන දිනට ගෙවීමට නියමිත විශ්‍රාම වැටුප් දීමනාව අද (09) දින බැංකු වෙත නිදහස් කිරීමට කටයුතු කළ බව විශ්‍රාම වැටුප් දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් ජගත් ඩී. ඩයස් මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ රාජ්‍ය අංශයේ ඇතැම් පිරිසක් වැඩවර්ජනයක නිරතව සිටියද, ලියාපදිංචි විශ්‍රාමිකයින් 708,231කට අදාළ විශ්‍රාම වැටුප් දීමනාව මෙලෙස නිදහස් කර ඇති බවය.
+
+ඒ අනුව රුපියල් බිලියන 28.5ක මුදල් රාජ්‍ය හා පෞද්ගලික බැංකු 24කට සහ තැපැල් දෙපාර්තමේන්තුව වෙත නිදහස් කළ බව අධ්‍යක්ෂ ජනරාල්වරයා සඳහන් කළේය.
+
+මේ සමග 99.5% ක පමණ පිරිසකට කිසිඳු ප්‍රමාදයකින් තොරව අදාළ දිනය වන ජුලි 10වන දින විශ්‍රාම වැටුප් දීමනාව හිමිවනු ඇති අතර, ප්‍රාදේශීය ලේකම් කාර්යාල ජුලි 08 සහ 09 දිනයන්හි සිය සේවා රාජකාරී සිදු නොකළ හෙයින් 13,000ක පමණ ඉතා සුළු පිරිසකට විශ්‍රාම වැටුප්  දීමනාව ජුලි 11 වන දින හිමිවනු ඇති බවද  විශ්‍රාම වැටුප් දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල්වරයා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/0cc3f03c.json)
+
+---
+
+### Notice issued for 2024 G.C.E A/L applicants
+
+*2024-07-09 18:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100403/notice-issued-for-2024-gce-al-applicants) · `en`
+
+The acceptance of online applications for the 2024 G.C.E. Advanced Level examination has been extended further.
+
+The deadline for the submission of applications for the 2024 G.C.E A/L examination for both school and private applicants was scheduled for tomorrow (10). However, the Department of Examination stated that due to unavoidable circumstances, the deadline has been extended until July 12.
+
+Accordingly, the department further highlighted that the acceptance of application will not be extended under any circumstances after July 12.
+
+2024 G.C.E. Advanced Level Examinations is scheduled to be held from November 23 to December 20.
+
+◼️
+
+[Data](articles/1dcb87ec.json)
+
+---
 
 ### Notice for pensioners on July pension payments
 
@@ -116,19 +152,29 @@ In the meantime, the preview has been visited by more than a million spectators 
 
 ---
 
-### ජුලි 08 දා 9දා වැඩට ආපු රාජ්‍ය සේවකයන්ට විශේෂ වැටුප් වර්ධකයක්
+### Special wages are increasing to public servants who arrived in July 9 on July 9
 
 *2024-07-09 17:52:39* · [`adalk`](https://www.ada.lk/breaking_news/ජුලි-08-දා-9දා-වැඩට-ආපු-රාජ්‍ය-සේවකයන්ට-විශේෂ-වැටුප්-වර්ධකයක්/11-410695) · `si`
 
-රටේ පවතින ආර්ථික තත්ත්වය නිසියාකාරව අවබෝධ කරගෙන ජනතාව අපහසුතාවට පත් නොවන ආකාරයට කටයුතු කරමින් 2024 ජූලි 08, 09 දෙදිනම සේවයට වාර්තා කළ විධායක සේවා ගණයට අයත් නොවන සියලු රාජ්‍ය නිලධාරීන්ට විශේෂ වැටුප් වර්ධකයක් ලබා දීමටත්, ඔවුන් සියලුම දෙනා වෙත ඉදිරි උසස්වීම් සඳහා යොදාගත හැකි වන පරිදි විශේෂ ප්‍රශංසා සහතිකයක් නිකුත් කිරීමටත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් කළ යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+President Ranil Wickremesinghe approved a proposal to increase special wages for public servants starting July 9, recognizing their efforts despite challenges in improving the country's economy. This decision follows the issuance of certificates to acknowledge the contributions of non-executive public officials since July 8 and 9. The move aims to stabilize the economy through expansion reforms implemented over the past two years, under which the General Treasury Secretary has advised caution due to the current financial situation. However, it's noted that the government cannot approve further salary and allowance demands from all public servants, focusing instead on recognizing the exceptional work of those outside executive services.
 
-මේ සම්බන්ධව සියලුම අමාත්‍යාංශ ලේකම්වරුන්, දෙපාර්තමේන්තු ප්‍රධානීන් හා පළාත් ප්‍රධාන ලේකම්වරුන් දැනුවත් කිරීමටත්, ඊට අදාළ චක්‍රලේඛ නිකුත් කිරීමටත් කටයුතු කරන ලෙස රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශයේ ලේකම් වෙත උපදෙස් දී ඇත.
+🟩
 
-රාජ්‍ය සේවයේ විධායක සේවා ගණයට අයත් නොවන ඇතැම් සේවාවන්වල වෘත්තීය සමිති කිහිපයක් විසින් 2024 ජූලි මස 08 හා 09 දෙදින අසනීප නිවාඩු දැමීමේ හා වැඩ වර්ජනය කිරීමේ වෘත්තීය ක්‍රියාමාර්ග ප්‍රකාශයට පත් කරන ලදී.
+Special Praise to all government officials who have not been able to improve the economic status of the country properly and the public are not difficult to understand.The proposal made by President Ranil Wickremesinghe has been approved by President Ranil Wickremesinghe to issue a certificate.
+
+The Secretary of Home Administration, Home Affairs, Provincial Councils and Local Government has instructed the Secretary to the Ministry of Public Administration, Heads, Provincial Councils and Local Government to educate the relevant circulars.
+
+Several trade unions are published by several trade unions that are not the executive services of the public service.
+
+The country was able to stabilize the expansion reforms implemented by the country during the last two years and the government implemented the government's expansion reforms in the past two years.
+
+Under the present financial situation, the General Treasury Secretary has also informed the Secretary to the Public Service at this point.
 
 ...
 
 [Data](articles/16fdd4d6.json)
+
+[Extended Data](ext_articles/16fdd4d6.ext.json)
 
 ---
 
@@ -1446,6 +1492,28 @@ The multi-day trawler, which was held on the charges of wildlife smuggling, has 
 
 ---
 
+### යුක්තියේ මෙහෙයුම මැද මහ දවල් ජනාකීර්ණ නගරවල වෙඩි තැබීම් සිදුවන්නේ කෙසේද?
+
+*2024-07-09 12:06:58* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp9vkjz8m4do) · `si`
+
+යුක්තියේ මෙහෙයුම මැද මහ දවල් ජනාකීර්ණ නගරවල වෙඩි තැබීම් සිදුවන්නේ කෙසේද?
+
+යුද හමුදාවේ ද සහය ඇතිව ජුලි මස 4 වෙනිදා 'යුක්තියේ මෙහෙයුම - දෙවන අදියර' ආරම්භ කළ බවට පොලිසිය විසින් නිවේදනය කරන ලදී.
+
+යුක්තියේ මෙහෙයුමේ දෙවන අදියර ආරම්භ කොට දින 04ක් ගතවද්දී මහජනයා විශාල වශයෙන් ගැවෙසෙන අතුරුගිරිය නගර මධ්‍යට සමීපව පිහිටි වෙළඳ ආයතනයක් තුළදී ( ජුලි මස 08) සිදුවූ වෙඩි තැබීමෙන් ව්‍යාපාරික සුරේන්ද්‍ර වසන්ත පෙරේරා සහ තවත් පුද්ගලයෙකු මිය යෑමේ සිද්ධිය ගැන බොහෝ දෙනාගේ අවධානය යොමු වූ කරුණක් විය.
+
+මෙම වෙඩි තැබීමේ සිදුවූ වෙළෙඳ සැල පිහිටි ස්ථානයේ සිට අතුරුගිරිය පොලිසිය පිහිටා ඇත්තේ කිලෝමීටරයක පමණ දුරකින්ය.
+
+වෙඩි තැබීම සිදුවූ ස්ථානයේ ස්ථානීය පරීක්ෂණය සඳහා (ජුලි 08 වෙනිදා) පැමිණි කඩුවෙල වැඩබලන මහේස්ත්‍රාත් ටි.පී.ජී. කරුණාරත්න එහිදී පොලිසියට පැවසුවේ ජනතාවට ආරක්ෂාවක් නොමැති බවයි.
+
+"මෙච්චර ජනාකීර්ණ තැනක සිද්ධ වුණ මේවගේ සිද්ධියක් නිසා මුළු රටම හෙල්ලුම්කාපු සිද්ධියක් මේක."
+
+...
+
+[Data](articles/d9bd75df.json)
+
+---
+
 ### Fire for vehicles in Jaffna
 
 *2024-07-09 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/188010) · `ta`
@@ -2327,91 +2395,5 @@ He also planned to increase the bail of candidates on the presidential election.
 [Data](articles/03d7b48c.json)
 
 [Extended Data](ext_articles/03d7b48c.ext.json)
-
----
-
-### Tott Shop owner takes 5
-
-*2024-07-09 06:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198618) · `si`
-
-In Athurugiriya, five individuals have given statements about a shooting incident that resulted in the death of Sirithndra Wasantha Perera, also known as "Club Wasantha," and injuries to four others, including Sujeewa. The suspects involved in the shooting were apprehended by the police in Bulathsinhala, and several special police teams are investigating the case.
-
-🟩
-
-Athurugiriya has recorded statements from five persons regarding the shooting incident in Athurugiriya.
-
-Police Media Spokesperson DIG's PSP, said the police spokesman, Nihal Talduuwa that the relevant statements have been recorded by the Athurugiriya Police.
-
-According to the TATTO center in Athurugiriya, a shooting, has recorded statements.
-
-Sirithndra Wasantha Perera, or "Club Wasantha", was killed in a shooting in Athurugiriya yesterday (08).
-
-Cerefriend Ki. Four others, including Sujeewa, were injured and hospitalized.
-
-Hospital sources said that she has been severely injured in the Colombo National Hospital with serious injuries.
-
-The wife of the murdered Club Wasantha was receiving treatment at Homagama Base Hospital while she was transferred to the Kalubowila hospital for further treatment.
-
-Meanwhile, the suspects involved in the shooting incident have been recovered by the police in Bulathsinhala.
-
-...
-
-[Data](articles/86d5b721.json)
-
-[Extended Data](ext_articles/86d5b721.ext.json)
-
----
-
-### Russia attack on many cities of Ukraine- Children's Hospital
-
-*2024-07-09 06:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187985) · `ta`
-
-In a devastating attack on Ukraine, including its capital's main children's hospital, over 30 lives were lost. Daily assaults on various Ukrainian cities continue, with horrific scenes at Okmativ hospital where staff heroically attempted to rescue children amidst chaos and destruction.
-
-🟩
-
-More than 30 people have been killed in the attack on several cities, including a children's hospital in Ukraine's capital.
-
-Ukraine officials have said that there have been a day -to -day attack on many cities of Ukraine.
-
-Ukraine officials said that the attack on Okmatit, the main children's hospital in the capital of Ukraine, said.
-
-There have been pictures of the hospital's staff describing how the children tried to save the children while the attack was carried out and the search was carried out inside the hospital.
-
-I was terrified but I survived.
-
-When the alarm signal sounded, the children were taken to safe places. The whole smoke was found. Doctors were unable to breathe. Doctors were injured with bombshell.
-
-A mother said her 11 -year -old son was safely expelled from cancer.
-
-◼️
-
-[Data](articles/0cc16412.json)
-
-[Extended Data](ext_articles/0cc16412.ext.json)
-
----
-
-### Sri Lanka will need Rs275bn to give Rs20,000 pay hike to state workers, hike VAT 4-pct: Minister
-
-*2024-07-09 06:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-need-rs275bn-to-give-rs20000-pay-hike-to-state-workers-hike-vat-4-pct-minister-171323/) · `en`
-
-ECONOMYNEXT – Sri Lanka will need an extra 275 billion rupees to give 20,000 rupee salary hike to state workers, requiring value added tax to be raised by 4 percent, State Minister for Finance Shehan Semasinghe said.
-
-To generate money for a 20,000 rupee salary hike, value added tax on the people will have to be raised from the current 18 percent to 20 percent, he said.
-
-Meanwhile import duties will also have to be raised by around 42 percent.
-
-Sri Lanka has already given a 10,000 rupee salary hike to state workers from taxes collected from the people.
-
-Sri Lanka’s debt sustainability path set in an International Monetary Fund program will also be undermined, he said.
-
-Sri Lanka’s current default was also linked to forex shortages that emerged when rates were cut with printed money claiming inflation was low (flexible inflation targeting), as deficits expanded in part due to 20,000 rupee salary hike in 2015, analysts have said.
-
-...
-
-[Data](articles/0ee1e53c.json)
-
-[Extended Data](ext_articles/0ee1e53c.ext.json)
 
 ---

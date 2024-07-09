@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 23:54:57**
+As of **2024-07-10 00:07:34**
 
 ## Newspaper Stats
 
@@ -26,29 +26,41 @@ adaderanasinhalalk | 5,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,461 (100.0%) of 34,468 articles have been extended.
+34,468 (100.0%) of 34,468 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### நிஸ்ஸன்கவின் சதம் வீண்போனது; கண்டி பெல்கன்ஸின் வெற்றியை இலகுவாக்கிய சந்திமால், கமிந்து
+### Nissanka's century was fallen;Chandimal, who made the victory of Kandy Belgons,
 
 *2024-07-09 23:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/188086) · `ta`
 
-ரங்கிரி, தம்புள்ள சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் செவ்வாய்க்கிழமை (09) நடைபெற்ற 5ஆவது லங்கா பிறீமியர் லீக் அத்தியாயத்தின் 11ஆவது போட்டியில் ஜெவ்னா கிங்ஸை எதிர்த்தாடிய கண்டி பெல்கன்ஸ் 7 விக்கெட்களால் இலகுவாக வெற்றிபெற்றது.
+In the 5th Lanka Premier League, Kandy Belgans triumphed over Jevna Kings in the 11th match, winning by 7 wickets. Despite centuries from Beth and Nissanka for Jevna Kings, Chandimal's 89 runs and partnerships with Haris and Mendis secured the win. Kandy Belgans reached the target of 230 runs in 18.2 overs, losing just three wickets.
 
-ஜெவ்னா கிங்ஸ் சார்பாக பெத்தும் நிஸ்ஸன்க சதம் குவித்தபோதிலும் தினேஷ் சந்திமால், கமிந்து மெண்டிஸ் ஆகியோரின் அரைச் சதங்கள் அதனை வீணடித்து விட்டது.
+🟩
 
-கணிசமான மொத்த எண்ணிக்கைகள் குவிக்கப்பட்ட அப் போட்டியில் ஜெவ்னா கிங்ஸினால் நிர்ணயிக்கப்பட்ட சற்று கடினமான வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய கண்டி பெல்கன்ஸ் 18.2 ஓவர்களில் 3 விக்கெட்களை மட்டும் இழந்து 230 ஓட்டங்களைக் குவித்து இலகுவாக வெற்றிபெற்றது.
+Kandy Belgans won by 7 wickets in the 11th match of the 5th Lanka Premier League chapter held on Tuesday (09) at Rangiri, Dambulla International Cricket Stadium.
 
-அண்ட்றே ப்ளெச்சர் 13 ஓட்டங்களுடன் ஆட்டம் இழந்தபோது மொத்த எண்ணிக்கை 34 ஓட்டங்களாக இருந்தது.
+Although Beth and Nissanka scored a century on behalf of Jevna Kings, half a century of Dinesh Chandimal and Kamindu Mendis wasted it.
 
-தொடர்ந்து தினேஷ் சந்திமால், 2ஆவது விக்கெட்டில் மொஹமத் ஹரிஸுடன் 58 ஓட்டங்களையும் 3ஆவது விக்கெட்டில் கமிந்து  மெண்டிஸுடன் 72 ஓட்டங்களையும் பகிர்ந்து அணியைப் பலப்படுத்தினார்.
+Kandy Belgans lost only 3 wickets in 18.2 overs and easily won 230 runs in a reply to a slightly tough hit target set by Jevna Kings.
+
+The total number was 34 runs when the match lost 13 runs.
+
+Subsequently, Dinesh Chandimal shared 58 runs with Mohammed Haris in the 2nd wicket and 72 runs with Mendis in the 3rd wicket.
+
+Dinesh Chandimal faced only 37 balls and scored 89 runs with 8 pounds and 7 sixes. Mohammed Haris scored 25 runs.
+
+Subsequently, Kamundu Mendis and Angelo Mathews shared 66 runs in the 4th wicketless 4 and confirmed the victory of Belgans.
+
+Earlier, Jevna Kings, who were first invited to bat in the upting match, scored 224 runs for the loss of 7 wickets in 20 overs.
 
 ...
 
 [Data](articles/22b1c69c.json)
+
+[Extended Data](ext_articles/22b1c69c.ext.json)
 
 ---
 
@@ -822,6 +834,8 @@ The willing of OPEC Fund to provide new financing is a sign of progress made in 
 
 [Data](articles/82556fdc.json)
 
+[Extended Data](ext_articles/82556fdc.ext.json)
+
 ---
 
 ### Will Bala's 'Wanankan' film previews ..?
@@ -1066,6 +1080,8 @@ The government earlier this year provided a monthly allowance of 10,000 rupees t
 
 [Data](articles/1c6245c5.json)
 
+[Extended Data](ext_articles/1c6245c5.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes stronger at 303.90/304.50 to US dollar
@@ -1083,6 +1099,8 @@ A bond maturing on 01.10.2032 closed at 12.25/35 percent. (Colombo/Jul9/2024)
 ◼️
 
 [Data](articles/366a2b28.json)
+
+[Extended Data](ext_articles/366a2b28.ext.json)
 
 ---
 
@@ -1286,6 +1304,8 @@ It was for this reason that the IRD’s Revenue Administration Management Inform
 
 [Data](articles/521ae28a.json)
 
+[Extended Data](ext_articles/521ae28a.ext.json)
+
 ---
 
 ### Sri Lanka stocks close down, activity remains low
@@ -1307,6 +1327,8 @@ The banking counters continued to close down. Commercial Bank of Ceylon Plc clos
 ...
 
 [Data](articles/83c2f2f8.json)
+
+[Extended Data](ext_articles/83c2f2f8.ext.json)
 
 ---
 
@@ -1493,6 +1515,8 @@ Sri Lanka temporarily halted foreign research ships after India and the United S
 ...
 
 [Data](articles/340287c2.json)
+
+[Extended Data](ext_articles/340287c2.ext.json)
 
 ---
 

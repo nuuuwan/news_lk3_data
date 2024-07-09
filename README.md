@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 00:51:48**
+As of **2024-07-10 01:05:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,468 (100.0%) of 34,470 articles have been extended.
+34,470 (100.0%) of 34,470 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -520,6 +520,8 @@ Having entered the House of Commons in May 2015, it has taken Keir Starmer less 
 
 [Data](articles/ee4aa513.json)
 
+[Extended Data](ext_articles/ee4aa513.ext.json)
+
 ---
 
 ### Spring's and Nayanawasa's body handed over to relatives
@@ -629,6 +631,8 @@ Had he lived a few more years, he would have reached the centennial mark. This p
 ...
 
 [Data](articles/20eb322e.json)
+
+[Extended Data](ext_articles/20eb322e.ext.json)
 
 ---
 

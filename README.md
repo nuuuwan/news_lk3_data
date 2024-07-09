@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 10:06:16**
+As of **2024-07-09 10:19:51**
 
 ## Newspaper Stats
 
-*Scraped **34,350** Articles*
+*Scraped **34,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,936
 economynextcom | 2,023
 dailyftlk | 2,146
 adalk | 3,082
-adaderanalk | 3,937
+adaderanalk | 3,938
 tamilmirrorlk | 4,083
 dailymirrorlk | 4,733
 virakesarilk | 5,365
@@ -26,21 +26,27 @@ adaderanasinhalalk | 5,714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,343 (100.0%) of 34,350 articles have been extended.
+34,350 (100.0%) of 34,351 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### புதிய பாராளுமன்ற உறுப்பினர் சத்தியப்பிரமாணம்
+### The new Member of Parliament
 
 *2024-07-09 09:54:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பாராளுமன்ற-உறுப்பினர்-சத்தியப்பிரமாணம்/175-340073) · `ta`
 
-திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினராக சண்முகம் குகதாசன், இன்று (09) சபாநாயகர் முன்னிலையில் சத்தியப்பிரமாணம் செய்துகொண்டார்.
+Shanmugam Kukadasan was sworn in as a Member of Parliament for Trincomalee District on September 9th, in front of the Speaker.
+
+🟩
+
+Shanmugam Kukadasan as a Member of Parliament for Trincomalee District today (09) in the presence of the Speaker.
 
 ◼️
 
 [Data](articles/acb9abf0.json)
+
+[Extended Data](ext_articles/acb9abf0.ext.json)
 
 ---
 
@@ -64,6 +70,30 @@ Kaziranga is home to the world’s largest population of one-horned rhinos, whic
 
 [Data](articles/04915709.json)
 
+[Extended Data](ext_articles/04915709.ext.json)
+
+---
+
+### Shanmugam Kugathasan sworn in as Member of Parliament
+
+*2024-07-09 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100385/shanmugam-kugathasan-sworn-in-as-member-of-parliament) · `en`
+
+Kathiravelu Shanmugam Kugathasan of the Illankai Tamil Arasu Kadchi (ITAK) was sworn in as a Member of Parliament this morning (09).
+
+He took oaths before Speaker Mahinda Yapa Abeywardena soon after the parliamentary proceedings commenced.
+
+Last week, the Election Commission had named Kuhadasan to fill the parliamentary seat that fell vacant following the passing of former TNA leader Rajavarothiam Sampanthan.
+
+Former Tamil National Alliance (TNA) leader and former Opposition Leader R. Sampanthan passed away on July 01, at the age of 91. He had passed away while receiving treatment at a private hospital in Colombo.
+
+A veteran Tamil politician and prominent figure in country’s main Tamil alliance - Ilankai Tamil Arasu Kadchi (ITAK), his political career spanned six decades, with his first stint in the Sri Lankan parliament starting in 1977.
+
+Sampanthan was the incumbent MP for Trincomalee District and had served in five parliaments since 1977.
+
+...
+
+[Data](articles/4396ddca.json)
+
 ---
 
 ### Sanmugam Kuhadasan sworn in as Member of Parliament
@@ -85,6 +115,8 @@ Sampanthan was the incumbent MP for Trincomalee District and had served in five 
 ...
 
 [Data](articles/e19d1827.json)
+
+[Extended Data](ext_articles/e19d1827.ext.json)
 
 ---
 
@@ -168,35 +200,47 @@ Hospital sources reported that K. Sujeewa, who was seriously injured in her leg,
 
 ---
 
-### அத்துருகிரிய துப்பாக்கிச் சூடு  6 பேர் கைது
+### Six people arrested for shooting
 
 *2024-07-09 09:20:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துருகிரிய-துப்பாக்கிச்-சூடு-6-பேர்-கைது/175-340072) · `ta`
 
-அத்துருகிரியவில் உள்ள வணிகக் கட்டடத்தில் (Tattoo Shop) நேற்று (08) காலை இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவம் தொடர்பில் வணிகக் கட்டடத்தின் உரிமையாளர் உட்பட 06 சந்தேக நபர்களை பொலிஸார் கைது செய்துள்ளனர். R
+Six individuals, including a business owner, were arrested for a shooting at a tattoo shop in Athurugiriya.
+
+🟩
+
+Police have arrested six suspects, including the owner of a business building in connection with the shooting incident at the Tattoo Shop at Athurugiriya yesterday morning (08).. Remble
 
 ◼️
 
 [Data](articles/74bec3d9.json)
 
+[Extended Data](ext_articles/74bec3d9.ext.json)
+
 ---
 
-### மர்மமான முறையில் உயிரிழந்த சிறுமி
+### Minus
 
 *2024-07-09 09:13:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மர்மமான-முறையில்-உயிரிழந்த-சிறுமி/175-340071) · `ta`
 
-நிவித்திகலை - வட்டாபொத, யொஹூன் கிராமத்தில் உள்ள இறப்பர் தோட்டத்திற்கு  அருகில் உள்ள ஒத்தையடி பாதையில் 16 வயதுடைய சிறுமி ஒருவரின் சடலத்தை நேற்று (08) நிவித்திகல பொலிஸார் மீட்டுள்ளனர்.
+A 16-year-old girl's body was found near a rubber estate in Yohun village, Nivithigalai-Vattaboda, after she failed to attend school. Her mother, who runs a shop nearby, discovered her body mysteriously dead. The police suspect the girl may have accidentally fallen under a cut rubber tree while walking home alone.
 
-இறந்தவரின் தாயார் வட்டாபொத விகாரைக்கு அருகில் விற்பனை நிலையம் ஒன்றை நடத்தி வருவதோடு, சம்பவத்தன்று சிறுமி பாடசாலைக்கு செல்லாததால் வீட்டில் தனியாக இருந்துள்ளார்.
+🟩
 
-இதனையடுத்து குறித்த சிறுமியை விற்பனை நிலையத்திற்கு வருமாறு தாய் தொலைபேசி அழைப்பொன்றை வழங்கியுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The body of a 16 -year -old girl has been recovered yesterday (08) on a track near the rubber estate in Yohun village in Nivithigalai - Vattaboda.
 
-விற்பனை நிலையத்திற்கு வருவதில் தாமதம் ஏற்பட்டதால்,  தாய் வீட்டுக்கு ஒத்தையடி பாதை வழியாக சென்ற போது, ​​மர்மமான முறையில் உயிரிழந்த நிலையில் சிறுமியின் சடலம் கண்டு பிடிக்கப்பட்டுள்ளது.
+The mother of the deceased is running a shop near the Vattaboda Vihara and the girl was alone in the house because the girl did not go to school on the incident.
 
-வீட்டில் இருந்து நடந்து சென்று கொண்டிருந்த போது, ​​இறப்பர் மரத்தில் வெட்டப்பட்ட இறப்பர் மரத்தின் கிளை சிறுமியின் மீது விழுந்ததில் இந்த மரணம் ஏற்பட்டிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
+The mother has given a phone call to come to the shop by the police, police said.
+
+The body of the girl has been found mysteriously died when the mother passed through the road to the home.
+
+Police suspect that the death of a rubber tree cut in a rubber tree fell on a girl while walking away from home.
 
 ◼️
 
 [Data](articles/7cc7ddbe.json)
+
+[Extended Data](ext_articles/7cc7ddbe.ext.json)
 
 ---
 
@@ -1448,37 +1492,51 @@ Sri Lanka’s leading lifestyle platform ‘Pulse.lk’ has been presented with 
 
 ---
 
-### සෞඛ්‍යයත් ලබන සතියේදී වැඩ වරයි
+### Health is working next week
 
 *2024-07-08 20:05:16* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍යයත්-ලබන-සතියේදී-වැඩ-වරයි/11-410682) · `si`
 
-සෞඛ්‍ය කාර්ය මණ්ඩලයට ආර්ථික යුක්තිය ඉටු කිරිම යටතේ  ලබා දිය යුතු  ඉතිරි කොටස ලබා දිම ප්‍රමාද කරමින් තිබෙන නිසා අදාල කොටස ලබා ගැනිමට ලබන සතියේ සිට වෘත්තිය ක්‍රියා මාර්ග සිදුකිරිමට තිරණය කර තිබෙන බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය සදහන් කරයි.
+The Health Trade Union Alliance plans to implement professional procedures from next week to address economic injustices affecting health staff. The government has pledged to fulfill its commitments outlined in the Economic Report, including providing the remaining portion of the first part of the agreement. Despite financial challenges, the government recognizes the need for economic justice in healthcare and is taking steps to address this issue.
 
-ආර්ථික යුක්තිය ඉටු කිරීමට අදාළව සකස් කල තාක්ෂණික වාර්තාවට අනුව  පළමු කොටස ලබා දිමෙන් අනතුරුව, ඉතිරි කොටස කඩිනමින් ලබා දෙන බවට රජය පොරොන්දු වුවත් මෙතෙක් ඒ පිළිබඳව අවශ්‍ය කටයුතු කර නොමැති බවද එම සන්ධානයේ කැඳවුම්කරු රවි කුමුදේශ්. මහතා සදහන් කලේය.
+🟩
 
-මේ අනුව ලබන සතියේ සිට අදාල ඉල්ලිම් මුල් කර ගනිමින් වෘත්තිය ක්‍රියා මර්ග සිදුකිරිමට සැලසුම් කර තිබෙන බවත් සෞඛ්‍ය කාර්ය මණ්ඩලයට ආර්ථික යුක්තිය ඉටු කිරීම සාධාරණ බව රජය ප්‍රතිපත්තිමය වශයෙන් පිළිගනු ලැබුවද, රටේ පවතින අහිතකර මුල්‍යමය තත්ත්වය නිසා අදාල කටයුතු සදහා  කිසියම් කාල සීමාවක් අවශ්‍ය බව පුන පුනා ප්‍රකාශ කළ බවද පවසා සිටියේය
+The Health Trade Union Alliance states that professional procedures have been decided to obtain the remaining part of the health staff under the outstanding economic justice.
+
+The convener of the UPFA Ravye is the convener that the government has promised to provide the remainder of the first part after the technical report prepared by the Economic Report.. He said.
+
+Accordingly, the government is planned to carry out professional procedures since the next week and is the government's recognition, but the government is recognized as the government's recognition, but the proposal that the government is recognized as a result of the unhealthy financial situation in the country.Said that he did
+
+However, the government has then established the economic inconvenience of the Government's economic uncomfortable in order to do the economic justice of the health staff.It is said that various professional action is being carried out against.
 
 ...
 
 [Data](articles/dac784b0.json)
 
+[Extended Data](ext_articles/dac784b0.ext.json)
+
 ---
 
-### විපක්ෂ මන්ත්‍රී දෙන්නෙක් ළඟදීම ආණ්ඩුවට - විපක්ෂයම තහවුරු කරයි
+### Two opposition MP attends the government soon
 
 *2024-07-08 20:02:14* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂ-මන්ත්‍රී-දෙන්නෙක්-ළඟදීම-ආණ්ඩුවට---විපක්ෂයම-තහවුරු-කරයි/11-410681) · `si`
 
-විපක්ෂයේ සිටින ගම්පහ සහ කළුතර යන ප්‍ර‘දේශ නියෝජනය කරන දේශපාලඥයන් දෙදෙනෙකු ඇමති ධුර, වරදාන සහ වරප්‍රසාදවලට ආණ්ඩුවට එක්වීමට සූදානම් වන බවත් ඔවුන්ට ඩොලර්වලින් ගෙවීම් කරන බවට දැනගන්න ලැබී තිබෙන බවත් සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී හර්ෂණ රාජකරුණා මහතා පැවසීය.
+Two opposition MPs in Sri Lanka's Kalutara and Gampaha districts are set to join the government, reportedly for financial incentives. This move has sparked controversy, with critics labeling it as political suicide and questioning the motives behind such decisions. The MPs' switch is seen as a betrayal of the opposition, highlighting a deeper issue of politicians prioritizing personal gain over party loyalty and public service.
 
-කොළඹ විපක්ෂනායක කාර්යාලයේ ඊයේ (08දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී හර්ෂණ රාජකරුණා මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+Two politicians representing the opposition in the opposition and Kalutara parliament are preparing to join ministerial and borrowers and knowing that they are paid to dollars.
 
-&ඉදිරි සති දෙක ඇතුළත විශාල පිරිසක් තවත් සමගි ජන බලවේගය සමග එකතු වෙන්න නියමිතව තිබෙනවා. මම මේ වෙලාවේ කියනවා මේ එකතු වෙන්නේ විපක්ෂයට. තනතුරු සියල්ලම අතහැරලා විපක්ෂයට ඇවිත්, විපක්ෂයේ සන්ධානය ශක්තිමත් කරන්න ඒ අය සම්බන්ධ වෙලා තිබෙනවා. ඒත් එක්කෙනෙක් දෙන්නෙක් ගැන කතා වෙනවා මේ විපක්ෂයේ ඉඳන් ඇමතිකම් නිසා, මුදල් ගනුදෙනු නිසා, වෙනත් වරප්‍රසාද, ප්‍රතිලාභ නිසා ආණ්ඩුවට එකතුවෙන්න යන. එක්කෙනයි දෙන්නයි. වැඩිය නෑ. එක්කෙනෙක් ගම්පහින් කියනවා, අනිත් කෙනා කළුතරින් කියනවා.
+He was speaking at a media briefing held at the Colombo Opposition Office yesterday (08).
+
+Speaking further MP Harshana Rajakaruna said so.
+
+Intercourse with another two weeks, a large number of people will be joined with another reservoir. Now I say this join the opposition. They have come to the opposition and to strengthen the opposition alliance. But one of two men talks about the opposition, money, other privileges, benefits, to join the government because of other privileges and benefits. Is to give together. Not much. One says in Gampaha, the other person says in Kalutara.
 
 ...
 
 [Data](articles/9575420b.json)
+
+[Extended Data](ext_articles/9575420b.ext.json)
 
 ---
 
@@ -2221,29 +2279,5 @@ The new amendment that will be presented in the parliament on Tuesday (09) will 
 [Data](articles/0e111f92.json)
 
 [Extended Data](ext_articles/0e111f92.ext.json)
-
----
-
-### Sri Lanka public transport to get e-ticketing by end-2024: Official
-
-*2024-07-08 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-public-transport-to-get-e-ticketing-by-end-2024-official-171265/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s public transport fares will move to an e-ticket system by the end of this year, a senior transport official has said.
-
-“An electronic ticketing system for public transport services, including trains, will be introduced before the end of the year,” Secretary of the Ministry of Transport and Highways, RG Rubasinghe told reporters on Monday.
-
-Sri Lanka has been talking of moving to an e-ticketing for state buses to stop revenue theft by bus conductors.
-
-“Some conductors take a portion of the money home,” Minister of Transport Bandula Gunawardana told reporters earlier this year.
-
-“The take home amount is 10 million rupees daily, or 100 lakhs, which together becomes 3 billion a year.
-
-Gunawardana said that there was opposition from transportation workers with some of them taking the matter to court.
-
-...
-
-[Data](articles/d5087c03.json)
-
-[Extended Data](ext_articles/d5087c03.ext.json)
 
 ---

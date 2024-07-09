@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 19:19:50**
+As of **2024-07-09 19:35:16**
 
 ## Newspaper Stats
 
-*Scraped **34,435** Articles*
+*Scraped **34,439** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,936
 economynextcom | 2,028
 dailyftlk | 2,146
-adalk | 3,094
+adalk | 3,097
 adaderanalk | 3,955
-tamilmirrorlk | 4,096
+tamilmirrorlk | 4,097
 dailymirrorlk | 4,733
 virakesarilk | 5,382
 adaderanasinhalalk | 5,733
@@ -26,23 +26,61 @@ adaderanasinhalalk | 5,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,434 (100.0%) of 34,435 articles have been extended.
+34,435 (100.0%) of 34,439 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### වසන්තගේ අවසන් මොහොතේ වීඩියෝව
+### ஓய்வூதியம் பெறுவோருக்கு இரட்டை கொடுப்பனவு
+
+*2024-07-09 19:15:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓய்வூதியம்-பெறுவோருக்கு-இரட்டை-கொடுப்பனவு/175-340103) · `ta`
+
+பதிவு செய்யப்பட்ட 708,231 ஓய்வூதியம் பெறுவோருக்கு ஜூலை 10ஆம் திகதி செலுத்தப்பட வேண்டிய 28.5 பில்லியன் ரூபாய் ஓய்வூதியம் இன்று (09) வங்கிகளில் வைப்புச் செய்ய நடவடிக்கை எடுக்கப்பட்டுள்ளது என ஓய்வூதியத் திணைக்களத்தின் பணிப்பாளர் நாயகம் ஜகத் டி. டயஸ் தெரிவித்தார்.
+
+இதன்படி சுமார் 99.5% ஓய்வூதியம் பெறுவோர் எவ்வித தாமதமும் இன்றி ஓய்வூதிய கொடுப்பனவைப் பெற்றுக்கொள்வர் எனவும்  பிரதேச செயலகங்களில் பணியாற்றுவோர் ஜூலை 08ஆம், 09 ஆம் திகதிகளில் தமது  கடமையை நிறைவேற்றாததால்  சுமார் 13,000 பேர் மாத்திரம் ஜூலை 11 ஆம் திகதி  ஓய்வூதிய கொடுப்பனவை பெறுவர் எனவும் அவர் மேலும் குறிப்பிட்டார்
+
+◼️
+
+[Data](articles/f008b520.json)
+
+---
+
+### වසන්තගේ හා නයන වාසලගේ දේහයන් ඥාතීන්ට භාර දෙයි
+
+*2024-07-09 19:01:26* · [`adalk`](https://www.ada.lk/breaking_news/වසන්තගේ-හා-නයන-වාසලගේ-දේහයන්-ඥාතීන්ට-භාර-දෙයි/11-410700) · `si`
+
+පශ්චාත් මරණ පරීක්ෂණ අවසන් කළ වසන්ත සුරේන්ද්‍ර පෙරේරා නොහොත් ක්ලබ් වසන්තගේ දේහය සහ මියගිය අනෙක් පුද්ගලයාගේ දේහය  හෝමාගම මූලික රෝහලේදී ඥාතීන්ට භාරදීමෙන් අනතුරුව මෘත දේහයන් පිළිබඳ අවසන් කටයුතු සඳහා රැගෙන ගිය බව හෝමාගම මූලික රෝහල පවසයි.
+
+අතුරුගිරිය ප්‍රදේශයේ ටැටූ නිර්මාණ සේවා මධ්‍යස්ථානයක් විවෘත කිරීමේ අවස්ථාවට සහභාගි වී සිටියදී නාඳුනන තුවක්කුකරුවන් දෙදෙනකුගේ වෙඩි පහරින් (08) දා මියගිය  පශ්චාත් මරණ පරීක්ෂණය සඳහා දේහය හෝමාගම මූලික රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කෙරිනි.
+
+පසුව මෙසේ මියගිය  කොළඹ 07 වෝර්ඩ් ප්ලේස් අංක 02 / සී හි පදිංචි රාජපක්ෂ අප්පුහාමිලාගේ දොන් සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් (ක්ලබ් වසන්තගේ )(55) හා  අතුරුගිරිය රතුවිලවත්ත අංක 709 / A / 197 හි පදිංචි විජේසූරිය ආරච්චිගේ නයන වාසුල විජේසුරිය (37) හැවිරිදි දෙදෙනකුගේ මෙසේ ඥාතීන්ට භාර දුන් බව රෝහල පවසයි.
+
+ඒ අනුව  සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්තගේ දේහය  බොරැල්ල ප්‍රදේශයේ පෞද්ගලික මල් ශාලාවකට රැගෙන ගිය අතර නයන වාසුල විජේසූරිය නැමැත්තාගේ දේහය ඔහුගේ නිවසට රැගෙන ගියේය.
+
+...
+
+[Data](articles/bd23da96.json)
+
+---
+
+### Wasantha's last minute video
 
 *2024-07-09 18:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198647) · `si`
 
-අතුරුගිරිය නගරයට චිකාගෝවක ස්වරූපය ගෙනඑමින් ඊයේ (08) ඝාතනය කෙරුණු සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්තගේ අවසන් මිනිත්තු කිහිපය දැක්වෙන රූපරාමු පෙළක් අද දෙරණට ලැබී තිබේ.
+Saddenya Perera, known as Club Wasantha, was killed in Athuruga. He was seen lighting an oil lamp with his wife before his death.
 
-එහිදී ක්ලබ් වසන්ත සිය බිරිය සමග පොල්තෙල් පහන දැල්වීමට එක්වී තිබුණි.
+🟩
+
+Ada Derana has received a footage of Saddenya Perera, or Club Wasantha, who was assassinated by the town of Athuruga.
+
+There, Club Wasantha had joined the plate oil lamp with his wife.
 
 ◼️
 
 [Data](articles/b8136f26.json)
+
+[Extended Data](ext_articles/b8136f26.ext.json)
 
 ---
 
@@ -114,6 +152,24 @@ Accordingly, the department further highlighted that the acceptance of applicati
 
 ---
 
+### ඔන්මැක්ස් අධ්‍යක්ෂවරුන්ගේ සියලු දේපල අත්කර ගන්න නියෝග
+
+*2024-07-09 18:22:45* · [`adalk`](https://www.ada.lk/breaking_news/ඔන්මැක්ස්-අධ්‍යක්ෂවරුන්ගේ-සියලු-දේපල-අත්කර-ගන්න-නියෝග/11-410697) · `si`
+
+නීති විරෝධී පිරමීඩාකාර ගනදෙණු කරමින් රුපියල් කෝටි ගණනක ජනතා මුදල් වංචා කළේ යැයි කියන කළේ යැයි ”ඔන්මැක්ස් ඩී.ටී.” ආයතනයේ අධ්‍යක්ෂකවරුන්ගේ සියලු දේපළ වහාම අත්පත් කරගෙන අධිකරණයට ඉදිරිපත් කිරීමට කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා රහස් පොලීසියට අද (09) නියම කළේය.
+
+”ඔන්මැක්ස් ඩී.ටී.” ආයතනය තහනම් කිරීමෙන් පසු ‘සයිබර් එරර්’ සහ ‘කොයින අයි.එම්.’ නමින් ආරම්භ කර ඇති පිරමීඩාකාර මූල්‍ය ආයතන දෙකට සම්බන්ධ පුද්ගලයින් වහාම අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමටද මහේස්ත්‍රාත්වරයා වැඩිදුරටත් නියම කළේය.
+
+පිරමීඩාකාර ගනදෙණු කරමින් වංචනික අන්දමින් ජනතාවගෙන් ලබාගත් මුදල් වලින් උපයාගත් දේපළ හා මුදල් තැන තැන්වල සඟවා අති බවට ඉදිරිපත් වූ කරුණු සලකා බැලීමෙන් අනතුරුව මහේස්ත්‍රාත්වරයා එලෙස නියම කළේය.
+
+මෙම සිද්ධියට අදාළ නඩුව කැඳවූ අවස්ථාවේදී ඇප මත මුදාහැර සිටින ”ඔන්මැක්ස් ඩී.ටී.” ආයතනයේ අධ්‍යක්ෂකවරුන් වන අතුල ඉන්දික, සාරංග රන්දික, ධනංජය ජයනාත්, ගයාශාන් සහ සම්පත් සඳරුවන් නමැති පස්දෙනා අධිකරණයේ පෙනී සිටියහ.
+
+...
+
+[Data](articles/2515a8b5.json)
+
+---
+
 ### Notice for pensioners on July pension payments
 
 *2024-07-09 18:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100402/notice-for-pensioners-on-july-pension-payments) · `en`
@@ -129,6 +185,24 @@ Furthermore, he mentioned that due to service disruptions at Divisional Secretar
 [Data](articles/64ac02b4.json)
 
 [Extended Data](ext_articles/64ac02b4.ext.json)
+
+---
+
+### විදුලි සංදේශ පනත සම්මතයි
+
+*2024-07-09 18:14:23* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-සංදේශ-පනත-සම්මතයි/11-410696) · `si`
+
+ශ්‍රී ලංකා විදුලි සංදේශ (සංශෝධන) පනත් කෙටුම්පත සංශෝධන සහිතව අද (09) පාර්ලිමේන්තුවේදී ඡන්ද විමසීමකින් තොරව සම්මත විය.
+
+පනත් කෙටුම්පත දෙවනවර කියවීමේ විවාදයෙන් අනතුරුව කාරක සභා අවස්ථාවේදී ඊට සංශෝධන එක්විය.
+
+1991 අංක 25 දරන ශ්‍රී ලංකා විදුලි සංදේශ පනත සංශෝධනය සඳහා 2024 මැයි 10 දින තාක්ෂණ අමාත්‍යවරයා විසින් මෙම පනත් කෙටුම්පත පාර්ලිමේන්තුවට  ඉදිරිපත් කරන ලද අතර වසර 28කට පසුව මෙම පනත සංශෝධනය සිදු කිරීම සිදුවිය.
+
+ලොව පවතින පිළිගත් ප්‍රමිතීන්ට අනුගතව විදුලි සංදේශ ක්ෂේත්‍රෙය්  වඩාත් තරඟකාරී වෙළඳපොලක් තුළ පාරිභෝගිකයාට වඩාත් සාධාරණයක් ඉටු කිරීම පිණිස අවශ්‍ය   නියාමනය සඳහා ඉඩ ප්‍රස්ථාව මෙම සංශෝධනය මගින් සළසා දී ඇත.
+
+◼️
+
+[Data](articles/b06cfebd.json)
 
 ---
 
@@ -2283,111 +2357,5 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/5745d39b.json)
 
 [Extended Data](ext_articles/5745d39b.ext.json)
-
----
-
-### Trade unions are sick for the second day - the trade unions are sick - teachers
-
-*2024-07-09 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198621) · `si`
-
-Trade unions across various sectors in Sri Lanka, including teachers and postal workers, have launched a two-day strike starting from September 8th, affecting numerous government agencies. The strike was prompted by unresolved issues between the unions and authorities, with no immediate resolution in sight.
-
-🟩
-
-The Trade Union Program has been launched today (09), the trade union action has been launched today (09).
-
-The total number of State and Provincial Public Service Trade Unions decided to go to a trade union action yesterday (08) and today (08) and today (08) and today.
-
-Accordingly, the employees of many government agencies in the island were not reported to the work of many state institutions in the island yesterday and was severely obstructed for a number of state institutions.
-
-According to the College Convener of the Ministry of Public and Provincial Public Service Trade Union, said the co-convener of the Ministry of Public and Provincial Public Service Trade Union said that the authorities have not responded to their request.
-
-Postal employees have also recorded the postal trade unions in parallel to the strike of the public servants.
-
-Convener of the Joint Postal Service, Chinthaka Bandara stated that the strike will be implemented until midnight today.
-
-...
-
-[Data](articles/243a7a13.json)
-
-[Extended Data](ext_articles/243a7a13.ext.json)
-
----
-
-### Public opinion on the proposed telephone revision today
-
-*2024-07-09 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198622) · `si`
-
-Today's public consultation on the proposed telephone tariff revisions under the Electricity Act drew mixed opinions. Scheduled at the Bandaranaike Memorial International Conference Hall, it aimed to gather feedback from around 50 registered participants representing various electricity users. The outcome will influence the final decision, set to be announced on July 15th.
-
-🟩
-
-Verbal public views are due to obtain oral public views today (09).
-
-According to the Electricity Act, the electricity tariff will be revised this year and said the public consultations before that will be consulted.
-
-Accordingly, the oral public obtaining session will be held at the Bandaranaike Memorial International Conference Hall from 8.30 am to 4.30 am.
-
-The Public Utilities Commission states that about 50 people have been registered with various electricity consumers, industries and organizations to comment today.
-
-The final decision is to be announced on the 15th of July on the 15th of July.
-
-◼️
-
-[Data](articles/4c4a7b0e.json)
-
-[Extended Data](ext_articles/4c4a7b0e.ext.json)
-
----
-
-### Club Wasantha's wife transferred to Kalubowila Hospital - Van meets
-
-*2024-07-09 08:01:46* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්තගේ-බිරිඳ-කලුබෝවිල-රෝහලට-මාරු-කරයි---වෑන්-රථයත්-හමුවෙයි/11-410685) · `si`
-
-Sure Wasantha Perera's widow has been moved to Kalubowila Hospital for more treatment after being shot in Athurugiriya. The incident occurred when two unknown gunmen targeted Menik Wijewardena at Athurugiriya Junction, leading to his death. Doctors treating her have also been relocated to Kalubowila due to her critical condition requiring surgery.
-
-🟩
-
-The wife of Sure Wasantha Perera, who died of a shooting in Athurugiriya, has been transferred to the Kalubowila Teaching Hospital for further treatment.
-
-When he arrived at the Athurugiriya Junction in the morning of the Menik Wijewardena (42), two unidentified shooters were shot and rushed to the Homagama Hospital.
-
-The doctors have been transferred to the Kalubowila Teaching Hospital as her condition was in a surgery and was in the treatment of her condition.
-
-Sources say that Jamana, who was hospitalized was undergoing the treatment of a severe care of the age of passion.
-
-Don Sarchandra, a resident of Ward Place, Colombo 07, Don Sarchandra, No.The Homagama Police said.
-
-Meanwhile, the assassins of the Athurugiriya shooting murderers met with the bulathsinhala police last night in Bulathsinhala area.
-
-◼️
-
-[Data](articles/3f264a1d.json)
-
-[Extended Data](ext_articles/3f264a1d.ext.json)
-
----
-
-### Director General of the Director General of Minister Prasanna removes
-
-*2024-07-09 07:49:18* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-ප්‍රසන්න-සමග-වාදයට-ගිය-අධ්‍යක්ෂ-ජනරාල්-තනතුරෙන්-ඉවත්-කරයි/11-410684) · `si`
-
-The Director General of the Urban Development Authority (UDA), under Minister Prasanna's supervision, removed the Ministry of Urban Development and Housing Secretary, highlighting issues of misconduct during budget proposals. The former DG faced criticism for his behavior towards public service and was accused of refusing to comply with directives, including the provision of funds for title deeds. Despite objections, the decision to remove the DG was supported by the board of directors, emphasizing the need for disciplinary measures.
-
-🟩
-
-Ministry of Urban Development and Housing Ministry Secretary. S. Mr. Satyananda emphasizes. He pointed out that this step was taken to the Minister in charge of the subject under Section 13 (1) of the Urban Development Authority Act.
-
-The former director general was unwaveringly behaved in unpleasantly to the public service, which was unpleasant to the public service in the event of the 1724 Budget Proposals of the 2024 Budget Proposals of the 2024 budget proposal in Colombo.The Secretary says that it was advised.
-
-The Secretary to the Ministry stated this at a special discussion held by the Director General of the UDA and obtaining title deeds yesterday.
-
-The discussion was held on the 17th of this month.. The discussion was chaired by Prasanna Ranatunga.
-
-...
-
-[Data](articles/9a98f12d.json)
-
-[Extended Data](ext_articles/9a98f12d.ext.json)
 
 ---

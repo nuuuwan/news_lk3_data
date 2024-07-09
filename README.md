@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 20:05:27**
+As of **2024-07-09 20:19:56**
 
 ## Newspaper Stats
 
-*Scraped **34,439** Articles*
+*Scraped **34,440** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,028
 dailyftlk | 2,146
 adalk | 3,097
 adaderanalk | 3,955
-tamilmirrorlk | 4,097
+tamilmirrorlk | 4,098
 dailymirrorlk | 4,733
 virakesarilk | 5,382
 adaderanasinhalalk | 5,733
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,439 (100.0%) of 34,439 articles have been extended.
+34,439 (100.0%) of 34,440 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### A/L மாணவர்களுக்காக விஷேட செய்தி
+
+*2024-07-09 19:44:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-மாணவர்களுக்காக-விஷேட-செய்தி/175-340104) · `ta`
+
+இந்த ஆண்டுக்கான உயர்தரப் பரீட்சைக்கான விண்ணப்பங்களை இணையத்தளத்தில் சமர்ப்பிக்கும் கால அவகாசம் மேலும் நீடிக்கப்பட்டுள்ளது.
+
+பாடசலைகள் மற்றும் தனியார் விண்ணப்பதாரர்களுக்கான ஒன்லைன் மூலம் விண்ணப்பங்களை சமர்ப்பிப்பதற்கான கால அவகாசம் நாளையுடன் (10) நிறைடைய இருந்தது.
+
+எனினும் தவிர்க்க முடியாத காரணங்களினால் எதிர்வரும் 12ஆம் திகதி வரை அது நீடிக்கப்பட்டுள்ளதாக பரீட்சைகள் திணைக்களம் விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+மேலும் அன்றைய தினத்திற்கு பின்னர் எக்காரணம் கொண்டும் விண்ணப்பிப்பதற்கான காலம் பிற்போடப்பட மாட்டாது எனவும் பரீட்சைகள் திணைக்களம் மேலும் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/0f129120.json)
+
+---
 
 ### Dual allowance to pensioners
 
@@ -2367,25 +2385,5 @@ Rathnayake mentioned that they hope to discuss the fundamental issues regarding 
 [Data](articles/221e61ba.json)
 
 [Extended Data](ext_articles/221e61ba.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2024-07-09 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100381/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night.
-
-Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provincesand in Trincomalee, Hambantota and Monaragala districts, it said.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/5745d39b.json)
-
-[Extended Data](ext_articles/5745d39b.ext.json)
 
 ---

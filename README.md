@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 13:19:50**
+As of **2024-07-09 13:35:28**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 5,720
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,374 (100.0%) of 34,376 articles have been extended.
+34,376 (100.0%) of 34,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### ක්ලබ් වසන්ත ඝාතනයේ හෙළි වන රහස්
+### Club's murder reveals
 
 *2024-07-09 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198633) · `si`
 
-සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඝාතනය කිරීමේ මෙහෙයුම ඩුබායීහී සැඟව සිටින ලොකු පැටී හා ගොනා කෝවිලේ ශාන්ත නැමැති අපරාධකරුවන් දෙදෙනා සෘජුවම එක්වී සැලසුම් කර ඇති බව පොලීසිය අනාවරණය කරගෙන තිබේ.
+Businessman Club Wasantha Perera was murdered at a Tatu Center in Athurugiriya, along with singer Nayana Vasulu and another woman, while his wife and a man were injured. The police, led by DIG Ganga Marapana, found a shotgun in a van fleeing the scene, which was traced to the Ratnapura area. Investigations suggest the involvement of criminals hiding in Duthuwah Wasantha, with no direct link to Kjepani Imran. Victims' conditions vary; Sujeewa's improving, but Club Wasantha's wife is seriously ill.
 
-ව්‍යාපාරිකයකු වන සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඊයේ (08) උදෑසන අතුරුගිරියේ පිහිටි ටැටූ මධ්‍යස්ථානයක් තුළ සිදුවූ වෙඩි තැබීමකින් ජීවිතක්ෂයට පත්වුණි.
+🟩
 
-එම අවස්ථාවේ එහි සිටි ප්‍රසිද්ධ ගායන ශිල්පිනී කේ. සුජීවාගේ සහකරු වන නයන වාසුල නැමැත්තාද මියගිය අතර කේ. සුජීවා, ක්ලබ් වසන්තගේ බිරිඳ, තවත් කාන්තාවක් හා පිරිමි පුද්ගලයෙකු තුවාල ලබා රෝහල්ගත කෙරුණි.
+The police revealed that the bodies of the big pabi and bully and bulletin 'Shantha hiding in Duthuwah Wasantha is directly designed directly with Clubh Wasantha murder.
 
-ඒ අනුව, බස්නාහිර දකුණ භාර නියෝජ්‍ය පොලිස්පති ගයංග මාරපන මහතාගේ සෘජු අධීක්ෂණය යටතේ බස්නාහිර දකුණ අපරාධ කොට්ඨාසය ඇතුළු පොලිස් කණ්ඩායම් 6ක් විමර්ශන ආරම්භ කළේය.
+The businessman, Sorchandra Wasantha Perera, or Club, was shot dead in a Tatu Center in Athurugiriya yesterday morning.
 
-එහි ප්‍රතිඵයක් ලෙස වෙඩික්කරුවන් පැමිණි මෝටර් රථය ඝාතනය සිදුවී සුළු වේලාවක් තුළ සොයාගත්තේ, කඩුවෙල, කොරතොට ප්‍රදේශයේ මාර්ගයක හැර දමාගොස් තිබියදීය.
+The famous singer kin. Nayana Vasulu was killed and the kings of Sujeewa's partner. Sujeewa, Club Wasantha's wife, another woman and a man was injured and hospitalized.
 
-මෝටර් රථයේ පැමිණි පිරිස වෙනත් වෑන් රථයකින් කොරතොට සිට පළාගොස් තිබූ අතර එම වෑන් රථයද ඊයේ රාත්‍රියේදීම සොයාගැනුණි.
+Accordingly, 6 police teams including the Western Province South Criminal Crimes Division and six police teams were conducted under the direct supervision of DIG Ganga Marapana in charge of the Western South.
+
+As a result, the shotgun was found in a small time of the car when the car arrived in a small time and except in Karatatoottou area in Kaduwela.
+
+The car had fled from Korattoota in Korathota, a van.
+
+Its number plates were also criminal criminals and the investigations were launched using a police official dog.
 
 ...
 
 [Data](articles/d83be346.json)
+
+[Extended Data](ext_articles/d83be346.ext.json)
 
 ---
 
@@ -106,21 +114,29 @@ Magistrate Kosala Senadheera added that the Kompanideru police have already repo
 
 ---
 
-### சந்தேகம் என்றால் முறையிடலாம்: நீதிமன்றம்
+### Appeal if suspicion: Court
 
 *2024-07-09 12:25:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/சந்தேகம்-என்றால்-முறையிடலாம்-நீதிமன்றம்/95-340085) · `ta`
 
-கொம்பனிதெருவில் அல்டெயார் அடுக்குமாடி தொடரில், 67 ஆ​ம் மாடியில் இருந்து விழுந்து மரணமடைந்த மாணவன், மாணவியின் மரணம் தொடர்பில் சந்தேகம் இருக்குமாறின், அவைதொடர்பில் பொலிஸில் முறைப்பாடு செய்யுமாறு கோட்டை நீதவான் கோசல சேனாதீர அறிவுறுத்தியுள்ளார்.
+In a case involving the suspicious death of a student from the 67th floor of the Aldeyar Apartments in Kompanideru, Fort Magistrate Kosala Senadheera advised lodging a police complaint. The attorney-at-law, Asanga, suggested preparing a person to report the incident. The magistrate noted the lack of suspicion regarding the deaths of two students but directed the police to investigate further after receiving a report. The Kompanideru police were asked to obtain phone records related to the incident. The deceased and another student visited a Pakistani friend in the apartment, complicating the investigation due to diplomatic privileges.
 
-இந்த சம்பவம் தொடர்பில் தனிப்பட்ட ரீதியில் முறைப்பாடு செய்யுமாறும் அதற்கான அனுமதியை பெற்றுக்கொள்வதற்காக நீதிமன்றத்தில் ஆஜராகியிருந்த சட்டத்தரணி அசங்க தயாரத்னவுக்கு அறிவுறுத்தினார்.
+🟩
 
-அல்டெயார் அடுக்குமாடி குடியிருப்பின் 67வது மாடியில் இருந்து தவறி விழுந்த மாணவ, மாணவிகளின் மரணம் சந்தேகத்திற்குரியது என மாணவியின் தந்தை கூறியுள்ளதால், தனிப்பட்ட முறைப்பாடு செய்ய அனுமதி வழங்குமாறு சட்டத்தரணி அசங்க தயாரத்ன கோட்டை நீதவான் நீதிமன்றில் திங்கட்கிழமை (08)  கோரிக்கை விடுத்துள்ளார்.
+Fort Magistrate Kosala Senadheera has advised the police to lodge a complaint with the police if there is suspicion of the student's death in the Aldeyar Apartments in Kompanideru.
 
-இரண்டு மாணவர்களின் மரணம் சந்தேகத்திற்குரியது என தனிப்பட்ட முறைப்பாடு செய்ய முடியாது எனவும், இந்த மரணம் சந்தேகத்திற்குரியது என பொலிஸார் குற்றப்பத்திரிகை தாக்கல் செய்ய வேண்டும் எனவும் கோட்டை நீதவான் கோசல சேனாதீர தெரிவித்தார்.
+Attorney -at -law, who was present in court, advised Asanga ready to lodge a person and get permission for the incident.
+
+Attorney -at -Law Asanga Fort Magistrate on Monday (08) has requested that the student's father has said that the student's death is suspicious of the student's death from the 67th floor of the Altaiyar apartment.
+
+Fort Magistrate Kosala Senadheera said that the death of the two students could not be made of suspicion and the police should file a charge sheet that the death was suspicious.
+
+Magistrate Kosala Senadheera added that the Kompanideru police have already reported the facts through the report and lodged a complaint with the police.
 
 ...
 
 [Data](articles/983a927c.json)
+
+[Extended Data](ext_articles/983a927c.ext.json)
 
 ---
 

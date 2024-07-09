@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 01:35:19**
+As of **2024-07-10 01:54:13**
 
 ## Newspaper Stats
 
-*Scraped **34,470** Articles*
+*Scraped **34,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,60 @@ adalk | 3,101
 adaderanalk | 3,958
 tamilmirrorlk | 4,100
 dailymirrorlk | 4,733
-virakesarilk | 5,390
+virakesarilk | 5,392
 adaderanasinhalalk | 5,738
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,470 (100.0%) of 34,470 articles have been extended.
+34,470 (100.0%) of 34,472 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-07-10 (Wednesday)
+
+### இசுறு உதானவின் அதிரடியில் திகைத்துப்போன தம்புள்ள சிக்சர்ஸ் இறுதியில் வெற்றிபெற்றது
+
+*2024-07-10 00:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/188088) · `ta`
+
+ரங்கிரி, தம்புள்ள சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் செவ்வாய்க்கிழமை (09) நடைபெற்ற 5ஆவது லங்கா பிறீமியர் லீக் அத்தியாயத்தின் 12ஆவது போட்டியில் கோல் மார்வல்ஸ் அணியை 25 ஓட்டங்களால் தம்புள்ள சிக்சர்ஸ் அணி வெற்றிகொண்டது.
+
+அப் போட்டியின் 13ஆவது ஓவரில் கோல் மார்வல்ஸ் 8 விக்கெட்களை இழந்து 62 ஓட்டங்களை மாத்திரம் பெற்றிருந்ததால் தம்புள்ள சிக்சர்ஸ் மிக இலகுவாக வெற்றிபெறும் என எதிர்பார்க்கப்பட்டது.
+
+ஆனால், மத்திய வரிசை வீரர் இசுறு உதான அதிரடி ஆட்டத்தை வெளிப்படுத்தி தனது தொடர்ச்சியான இரண்டாவது அரைச் சதத்தைக் குவித்து தம்புள்ள சிக்சர்ஸ் அணியை திணறவைத்தார்.
+
+ஆனால், சமிந்து விக்ரமசிங்க கடைசி ஓவரின் முதல் பந்தில் இசுறு உதானவை ஆட்டம் இழக்கச் செய்ததும் தம்புள்ள சிக்சர்ஸ் அணி வெற்றிபெறுவது உறுதியாயிற்று.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய தம்புள்ள சிக்சர்ஸ் அணி 20 ஓவர்களில் 8 விக்கெட்களை இழந்து 160 ஓட்டங்களைப் பெற்றது.
+
+திறமையாகவும் பொறுமையடனும் துடுப்பெடுத்தாடிய இளம் வீரர் சமிந்து விக்ரமசிங்க 56 ஓட்டங்களுடன் ஆட்டம் இழக்காதிருந்தார்.
+
+...
+
+[Data](articles/68764ca4.json)
+
+---
+
 ### 2024-07-09 (Tuesday)
+
+### எம்பிலிப்பிட்டியவில் மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத இருவர் துப்பாக்கிப் பிரயோகம் : ஒருவர் பலி
+
+*2024-07-09 23:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/188087) · `ta`
+
+மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத இருவர் செவ்வாய்க்கிழமை (09) இரவு மேற்கொண்ட துப்பாக்கிச் சூட்டில் ஒருவர் உயிரிழந்துள்ளார்.
+
+குறித்த துப்பாக்கிப் பிரயோகம் எம்பிலிப்பிட்டியவில் கெல்ல ரக்வானா சாலையில் உள்ள கொலோனா பகுதியில் நிகழ்ந்துள்ளது.
+
+மோட்டார் சைக்கிளில் வந்த  அடையாளம் தெரியாத இருவரே  துப்பாக்கிப பிரயோகம் மேற்கொண்டு விட்டுத. தப்பிச் சென்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+தேயிலைத் தோட்ட உரிமையாளரான 61 வயதுடைய நபரே துப்பாக்கிச் சூட்டுக்கு இலக்காகி உயிரிழந்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/42dacde0.json)
+
+---
 
 ### Nissanka's century was fallen;Chandimal, who made the victory of Kandy Belgons,
 
@@ -2329,57 +2371,5 @@ We were able to disappear the presidential election.The cabinet appointed a comm
 [Data](articles/82b51a84.json)
 
 [Extended Data](ext_articles/82b51a84.ext.json)
-
----
-
-### 5 suspects apprehended for smuggling bird and reptile species in southern waters
-
-*2024-07-09 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/100390/5-suspects-apprehended-for-smuggling-bird-and-reptile-species-in-southern-waters) · `en`
-
-Sri Lanka Navy has apprehended 05 suspects onboard a local multi-day fishing trawler involved in smuggling of several bird and reptile species in the southern waters.
-
-Upon inspection of the suspicious trawler in the southern waters during a special operation conducted based on a comprehensive information analysis by Naval Intelligence over an extended period, the officers have found a variety of 13 pythons, 01 monitor lizard, 01 tortoise and 03 parrots, raising concerns over an act of wildlife smuggling.
-
-The multi-day fishing trawler has been escorted to the Galle harbour, where officials of the Department of Wildlife Conservation examined the animals and identified them as non-native species to Sri Lanka.
-
-The multi-day trawler, which was held on the charges of wildlife smuggling, has left Negombo for fishing activities, the navy said.
-
-...
-
-[Data](articles/b0fc49ff.json)
-
-[Extended Data](ext_articles/b0fc49ff.ext.json)
-
----
-
-### How does the operation of justice are shooting in the crowded cities of the middle of the justice?
-
-*2024-07-09 12:06:58* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp9vkjz8m4do) · `si`
-
-In crowded urban areas, justice operations face challenges due to the complexity of managing crime and ensuring public safety. The establishment of specialized units, like the 'Second Stage' initiated with military support, aims to tackle these issues effectively. However, incidents like mass shootings highlight gaps in protection and swift response times. Critics argue for improved police training, use of advanced technologies, and stricter measures against organized crime to enhance public safety and justice operations.
-
-🟩
-
-How does the operation of justice are shooting in the crowded cities of the middle of the justice?
-
-The police announced that the 'Second Stage' was established in July 4 with the assistance of the Army.
-
-When the second phase of the 'Second Phase II was in a large number of justices, the public was shooting in a large number of persons close to the town of the Town Center.
-
-The Athurugiriya Police are located about a kilometer.
-
-Kaduwela acting magistrate TMG arrived at the place of shooting (July 08). Karunaratne told the police that the people had no protection.
-
-"This is a case of such a crowded," this is a case since this is a popularity. "
-
-"Take action to arrest immediately. Or embarrassed to the Police Department. The mass day is happening. This is just like chicago. Find out quickly, this is a terrible incident. "
-
-"People have no protection. Come on, was gone. "Kaduwela acting magistrate instructs the police officers investigating.
-
-...
-
-[Data](articles/d9bd75df.json)
-
-[Extended Data](ext_articles/d9bd75df.ext.json)
 
 ---

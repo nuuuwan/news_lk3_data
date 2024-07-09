@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 15:54:05**
+As of **2024-07-09 16:07:04**
 
 ## Newspaper Stats
 
-*Scraped **34,399** Articles*
+*Scraped **34,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,936
 economynextcom | 2,028
 dailyftlk | 2,146
 adalk | 3,089
-adaderanalk | 3,949
-tamilmirrorlk | 4,090
+adaderanalk | 3,950
+tamilmirrorlk | 4,091
 dailymirrorlk | 4,733
 virakesarilk | 5,371
 adaderanasinhalalk | 5,726
@@ -26,21 +26,65 @@ adaderanasinhalalk | 5,726
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,396 (100.0%) of 34,399 articles have been extended.
+34,399 (100.0%) of 34,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### වසන්ත ඝාතනයට සැකකරුවන් 07 දෙනෙක් අත්අඩංගුවට
+### 2  மில்லியன் சிம்கள் அடையாளம் இன்றி பாவனையில் உள்ளன
+
+*2024-07-09 15:51:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-மில்லியன்-சிம்கள்-அடையாளம்-இன்றி-பாவனையில்-உள்ளன/175-340097) · `ta`
+
+நாட்டில் சில குற்றச் சம்பவங்களைக் கண்டறிவதில் பாரிய பிரச்சினைகளை முன்வைத்த முறையான அடையாளங்கள் இன்றி சுமார் இரண்டு மில்லியன் சிம் அட்டைகள் பாவனையில் இருப்பதாக தொழில்நுட்ப இராஜாங்க அமைச்சர் கனக ஹேரத் தெரிவித்தார்.
+
+2018 ஆம் ஆண்டுக்கு முன்னர் சிம் அட்டைகளை பெற்றுக்கொள்ளும் போது அடையாள அட்டைகள் அவசியமில்லை என புதிய சட்டம் அமுல்படுத்தப்படுவதற்கு முன்னர் சிம் அட்டையை பெற்றுக்கொள்வதற்கு அடையாள அட்டையை கட்டாயமாக சமர்ப்பிக்க வேண்டும் என அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+
+2018 ஆம் ஆண்டுக்கு முன்னர் முறையான அடையாளங்கள் இன்றி பெறப்பட்ட சுமார் இரண்டு மில்லியன் சிம் கார்டுகள் தற்போது பாவனையில் உள்ளதாகவும், இது சில குற்றச் சம்பவங்களைக் கண்டுபிடிப்பதில் கடுமையான சிக்கல்களை ஏற்படுத்தியுள்ளதாகவும் அமைச்சர் கூறினார்.
+
+இலங்கை தொலைத்தொடர்பு (திருத்தம்) சட்டமூலம் மீதான விவாதத்தில் கலந்து கொண்டு உரையாற்றிய அமைச்சர், சிம் கார்டுகளை பெற்றுக்கொள்ளும் போது தவறான தகவல்களை வெளியிடுபவர்களுக்கு எதிராக சட்டமூலம் சட்டத்தை அறிமுகப்படுத்தியுள்ளதாக தெரிவித்தார்.
+
+◼️
+
+[Data](articles/a92a5735.json)
+
+---
+
+### ‘Club Wasantha’ murder: Tattoo studio owner and six others arrested
+
+*2024-07-09 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100398/club-wasantha-murder-tattoo-studio-owner-and-six-others-arrested) · `en`
+
+Police have arrested seven suspects including the owner of the tattoo studio in Athurugiriya where the shooting incident took place yesterday resulting in the deaths of Surendra Wasantha Perera alias ‘Club Wasantha’ and another person and four others were injured.
+
+The other arrested individuals are suspected to have aided and abetted in the shooting incident, police said.
+
+During the investigations carried out so far, it has been revealed that the owner of the tattoo studio has received an amount of Rs. 1 million from time to time.
+
+Earlier, Athurugiriya Police recorded statements from 5 individuals including the owner of the tattoo shop in Athurugiriya where the shooting took place.
+
+The shooting occurred during the opening ceremony of a tattoo and piercing studio near the Clock Tower in Athurugiriya.
+
+...
+
+[Data](articles/eed48390.json)
+
+---
+
+### Seven suspects arrested for murder
 
 *2024-07-09 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198639) · `si`
 
-ක්ලබ් වසන්ත හෙවත් සුරේන්ද්‍ර වසන්ත පෙරේරා වෙඩිතබා ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් ටැටූ මධ්‍යස්ථානයේ හිමිකරු ඇතුළු 07 දෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+Seven individuals, including one from the TTO Center, have been arrested in relation to the murder of Klub Wasantha Wasantha Perera.
+
+🟩
+
+Seven, including 07, including the TTO Center, has been arrested in connection with the TTO Center regarding the shout of Klub Wasantha Wasantha Wasantha Perera.
 
 ◼️
 
 [Data](articles/4e1f98d3.json)
+
+[Extended Data](ext_articles/4e1f98d3.ext.json)
 
 ---
 
@@ -59,6 +103,8 @@ Biden is battling criticism from some Democrats that he lacks the mental acuity 
 ...
 
 [Data](articles/b0328fb7.json)
+
+[Extended Data](ext_articles/b0328fb7.ext.json)
 
 ---
 
@@ -154,21 +200,27 @@ A total of 1,854,000 individuals have qualified for the first phase of the “As
 
 ---
 
-### වතුර වළකට වැටී මාස 16ක සිගිත්තිය මරුට
+### Sightitiya killed in 16 months fell into a water pit
 
 *2024-07-09 14:11:12* · [`adalk`](https://www.ada.lk/breaking_news/වතුර-වළකට-වැටී-මාස-16ක-සිගිත්තිය-මරුට/11-410692) · `si`
 
-නිවස අසල තිබූ වතුර වලකට වැටීමෙන් සූරියගොල්ල වැවතැන්න ගම්මානයේ පදිංචි අවුරුද්දකුත් මාස හතරක් වයසැති සිඟිත්තෙකු  ඊයේ (08) දහවල් සැකකටයුතු අන්දමින් ජීවිතක්ෂයටපත්ව ඇතැයි මඩොල්සිම පොලිසිය පවසයි.
+A 16-month-old girl named Kaluugahamadara fell into a water pit and drowned. The incident occurred a year after her birth and four months ago. Preliminary investigations suggest she was alone when it happened. Her mother was outside taking care of another child. The Madolsima police will conduct a post-mortem examination.
 
-ෙසිද්ධීයෙන් මියගොස් ඇත්තේ කලුගහකදුර, වැවතැන්න, මාරගොම්මන පදිංචි ඩී එම් සදලි නිම්සරා (මාස 16 යි) නැමැති සිගිත්තියකි.
+🟩
 
-දරු සිඟිත්තාගේ මව, නිවසේ සිටි තවත් කුඩා දරුවෙකුට සිගිත්තා බලා ගන්නට බාර දී තේ දළු කැඩීමට නිවෙසින් පිටව ගොස් ඇති අතර සිඟිත්තා නිවස අසල තිබූ වතුර වලකට වැටී ඇති බවත් දරුවා බලා ගත් කුඩා දරුවා සිඟිත්තා ගොඩට ගෙන වැඩිහිටියන් හා එක්ව ඔහු රෝබේරිය ප්‍රාෙද්ශීය රෝහල වෙත රැගෙන ගොස් ඇතත් ඒ වන විටත් දරුවා ජීවිතක්ෂයට පත්ව තිබූ බව මූලික විමර්ශනවලදී අනාවරණය වී ඇත.
+Madolsime police stated that a year from the bus and four months old, four months old, four months old, four months old.
 
-සිඟිත්තාගේ මරණය සැක කටයුතු බැවින් පශ්චාත් මරණ පරීක්ෂණය සඳහා බදුල්ල පළාත් මහ රෝහලේ අධිකරණ වෛද්‍යවරයා වෙත යොමු කිරීමට පියවර ගත් බව මේ සම්බන්ධයෙන් අප කළ විමසුමකට පිළිතුරු දුන් මඩොල්සිම පොලිසිය පැවසීය.
+The deceased has been identified as Kaluugahamadara, Vauthna, Vauthna, Vaugahana, Vauthna, Madi Nimsra (16 months).
+
+The mother of the children had left the house to take care of the smaller and the child who was looking after the child in the house.Preliminary investigations have revealed that the child had already died.
+
+The Madolsima police replied that we were asked to direct the post mortem to the post mortem to the post mortem examination for the post mortem examination.
 
 ◼️
 
 [Data](articles/064724a3.json)
+
+[Extended Data](ext_articles/064724a3.ext.json)
 
 ---
 
@@ -2271,55 +2323,5 @@ In this case, Vijay Deverakonda, who came to Sri Lanka, has been welcomed. (A)
 [Data](articles/6ff6c950.json)
 
 [Extended Data](ext_articles/6ff6c950.ext.json)
-
----
-
-### Workers invading Colombo;Tomorrow's massive struggle
-
-*2024-07-08 23:15:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கொழும்புக்கு-படையெடுக்கும்-தொழிலாளர்கள்-நாளை-பாரிய-போராட்டம்/76-340064) · `ta`
-
-Plantation workers plan a major protest in Colombo-Bambalapitiya tomorrow, demanding a Rs 1,700 salary hike. The event starts at 10 am near the Plantation Department's Association HQ, organized by the Ceylon Workers Congress. Expecting participation from various plantation workers and committees from the Nuwara Eliya district.
-
-🟩
-
-The plantation workers invading the Colombo -Bambalapitiya will hold a massive protest demanding a salary increase of Rs 1,700.
-
-The protest will take place at 10 am on Tuesday in front of the Plantation Department's Association headquarters in Bambalapitiya.
-
-The Congress plantation committee leaders said that the Ceylon Workers Congress had organized the arrangements.
-
-At the same time, the protest is expected to be pressed to the Plantation Sector Association regarding a salary increase of Rs 1,700.
-
-At the same time, the struggle will be carried out by many plantation workers and plantation committees from Nuwara Eliya district.. Remble
-
-◼️
-
-[Data](articles/232c1df6.json)
-
-[Extended Data](ext_articles/232c1df6.ext.json)
-
----
-
-### Chavakachcheri Hospital affair;Douglas published the news
-
-*2024-07-08 23:09:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சாவகச்சேரி-வைத்தியசாலை-விவகாரம்-டக்ளஸ்-வெளியிட்ட-செய்தி/71-340063) · `ta`
-
-Minister Douglas Devananda discussed the Chavakachcheri Hospital issue, emphasizing actions aligned with public expectations. He mentioned a committee's appointment to address hospital defects and allegations against Dr. Archana, alongside efforts to improve the hospital environment.
-
-🟩
-
-Minister Douglas Devananda has said that steps to be taken on the Chavakachcheri Hospital issue will be met with the expectations of the people.
-
-He was speaking at a discussion with Health Minister Rames Pathirana and Governor of the Northern Province Mrs. PMS Charles.
-
-In addition, the hospital's response to the hospital's response to the hospital's response to the hospital was given on vacation to create a smooth environment at the Chavakachcheri Resource Hospital and returned to the doctors who have been involved in the work boycott.
-
-Subsequently, Minister Douglas Devananda said that the appointment of a committee was appointed and the defects in the hospital, the reason why they were not rejected, and the allegations leveled at the doctor's archana.. Remble
-
-◼️
-
-[Data](articles/adebc555.json)
-
-[Extended Data](ext_articles/adebc555.ext.json)
 
 ---

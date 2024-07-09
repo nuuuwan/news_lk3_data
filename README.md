@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 16:52:44**
+As of **2024-07-09 17:05:02**
 
 ## Newspaper Stats
 
-*Scraped **34,412** Articles*
+*Scraped **34,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,936
 economynextcom | 2,028
 dailyftlk | 2,146
-adalk | 3,090
+adalk | 3,091
 adaderanalk | 3,952
 tamilmirrorlk | 4,092
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,728
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,404 (100.0%) of 34,412 articles have been extended.
+34,404 (100.0%) of 34,413 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -74,7 +74,11 @@ The Cabinet of Ministers has approved President Ranil Wickremesinghe’s proposa
 
 Meanwhile, approval has also been granted to issue them a commendation certificate for future promotions, according to the PMD.
 
-◼️
+Over 200 public sector trade unions affiliated with the State and Provincial Public Service Unions Collective launched a trade union action to report ‘sick leave’ yesterday (08) and today (09) demanding an allowance of Rs. 25,000 for all public sector employees, similar to that given for executive officers.
+
+Accordingly, government officials across several sectors did not show up for work yesterday leading to a significant disruption in the daily operations of these institutions including the Department of Registration of Persons and Immigration Department.
+
+...
 
 [Data](articles/4c0f64fb.json)
 
@@ -207,6 +211,22 @@ The shooting occurred during the opening ceremony of a tattoo and piercing studi
 [Data](articles/eed48390.json)
 
 [Extended Data](ext_articles/eed48390.ext.json)
+
+---
+
+### වෛද්‍යවරයෙකුගේ යතුරු පැදියක් රෝහලෙදී සොරා ගැනේ
+
+*2024-07-09 15:45:19* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍යවරයෙකුගේ-යතුරු-පැදියක්-රෝහලෙදී-සොරා-ගැනේ/11-410694) · `si`
+
+අනුරාධපුර ශික්ෂණ රෝහලේ සේවයේ නිරත වෛද්‍යවරයෙකුගේ රුපියල් ලක්ෂ දෙකක් වටිනා යතුරු පැදියක් රෝහල් භූමියේදී සොරකම් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් විමර්ශනයක් ආරම්භ කල බව අනුරාධපුර මූලස්ථාන පොලිසිය පවසයි.
+
+අනුරාධපුර ශික්ෂණ රෝහලේ  සේවය කරන මහඉලුප්පල්ලම ප්‍රදේශයේ පදිංචි වෛද්‍යවරයෙකු සිදු කල පැමිණිල්ලකට අනුව මෙම විමර්ශනය ආරම්භ කල බව පොලිසිය කියයි.
+
+වෛද්‍යවරයා රෝහල වෙත පැමිණ සිය යතුරු පැදිය රෝහලේ ආපන ශාලාව ආසන්නයේ නවතා ,තමන් සේවය කරන ශෛල්‍යගාරය වෙත ගොස්, යලි පැය දෙකකින් පමණ පැමිණ බැලීමේදී මෙම යතුරු පැදිය සොරකම් කර ඇති බව දැන ගෙන ඇතැයි පොලිසිය කියයි.
+
+◼️
+
+[Data](articles/1915e774.json)
 
 ---
 
@@ -2259,27 +2279,5 @@ According to the police, the incident resulted in the death of another male and 
 [Data](articles/08d9bd90.json)
 
 [Extended Data](ext_articles/08d9bd90.ext.json)
-
----
-
-### The issues in the teachings of the Buddha are present in the world today as new ideas - the President
-
-*2024-07-09 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/187997) · `ta`
-
-President Ranil Wickremesinghe highlighted the relevance of Buddha's teachings in today's world, emphasizing the connection between Buddhism and modern science and technology. He announced plans to revive the Anuradhapura Maha Vikarai, focusing on Buddhist philosophy, history, and the spread of Buddhism globally. The President also mentioned initiatives to explore the intersection of Buddhism and artificial intelligence, aiming to foster collaboration between the government, Maha Sangham, and the public.
-
-🟩
-
-President Ranil Wickremesinghe said that there is a huge connection between Buddhism and the modern science and technology world we are currently traveling, and that the teachings of the Buddha are in the teachings of the Buddha.
-
-The aim is to restart the work of the President of the Anuradhapura Maha Vikarai in the history of the Buddhist philosophy, Sri Lanka's history, civilization, the spread of Buddhism in the world and the establishment of a new institution that develops a new institution in the country.. He said.
-
-President Ranil Wickremesinghe made this statement while addressing the Amarapura Day ceremony of Sri Lanka's Amarapura Maha Nikaya held at the Sabaragamuwa Provincial Council auditorium on Monday (08).
-
-...
-
-[Data](articles/a36b5ffe.json)
-
-[Extended Data](ext_articles/a36b5ffe.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 12:10:15**
+As of **2024-07-09 12:20:57**
 
 ## Newspaper Stats
 
-*Scraped **34,363** Articles*
+*Scraped **34,364** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,936
 economynextcom | 2,023
 dailyftlk | 2,146
 adalk | 3,085
-adaderanalk | 3,941
+adaderanalk | 3,942
 tamilmirrorlk | 4,085
 dailymirrorlk | 4,733
 virakesarilk | 5,365
@@ -26,75 +26,115 @@ adaderanasinhalalk | 5,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,359 (100.0%) of 34,363 articles have been extended.
+34,363 (100.0%) of 34,364 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### රු කෝටියකට අධික අයිස් මත්ද්‍රව්‍ය තොගයක් සමග දෙදෙනෙක් දැලෙ
+### 5 suspects apprehended for smuggling bird and reptile species in southern waters
+
+*2024-07-09 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/100390/5-suspects-apprehended-for-smuggling-bird-and-reptile-species-in-southern-waters) · `en`
+
+Sri Lanka Navy has apprehended 05 suspects onboard a local multi-day fishing trawler involved in smuggling of several bird and reptile species in the southern waters.
+
+Upon inspection of the suspicious trawler in the southern waters during a special operation conducted based on a comprehensive information analysis by Naval Intelligence over an extended period, the officers have found a variety of 13 pythons, 01 monitor lizard, 01 tortoise and 03 parrots, raising concerns over an act of wildlife smuggling.
+
+The multi-day fishing trawler has been escorted to the Galle harbour, where officials of the Department of Wildlife Conservation examined the animals and identified them as non-native species to Sri Lanka.
+
+The multi-day trawler, which was held on the charges of wildlife smuggling, has left Negombo for fishing activities, the navy said.
+
+...
+
+[Data](articles/b0fc49ff.json)
+
+---
+
+### Two midst of Rs.
 
 *2024-07-09 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198631) · `si`
 
-රුපියල් කෝටියකට අධික අයිස් මත්ද්‍රව්‍ය තොගයක් සහ රුපියල් ලක්ෂ 10ක මුදල් සමග පුද්ගලයින් දෙදෙනෙක් පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Two individuals were arrested by the Police Narcotics Bureau for possessing 14 kg of ice drugs valued at Rs. The suspects, from Grandpass Mihindaya and Jidathitiya, allegedly bought the drugs from a large foreign dealer for resale.
 
-එම සැකකරුවන් දෙදෙනා සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය කිලෝ 1 ග්‍රෑම් 14ක් හා මත්ද්‍රව්‍ය ජාවාරමින් උපයා ගත් බවට සැකකරන රුපියල් ලක්‍ෂ 10ක මුදලක් පොලිස් භාරයට ගෙන ඇත.
+🟩
 
-රුපියල් ලක්ෂ 85ක මුදලකට අයිස් මත්ද්‍රව්‍ය තොගයක් විකිණීමට ගැනුම්කරුවකු සොයන බවට ලද තොරතුරකට අනුව එය මිලදී ගන්නා මුවා වෙන් ගොස් සැකකරුවන් අත්අඩංගුවට ගත් බව පොලීසිය පැවසීය.
+Two persons have been arrested by the Police Narcotics Bureau with over Rs.
 
-විදේශගතව සැඟව සිටින මහා පරිමාණ මත්ද්‍රව්‍ය  ජාවාරම්කරුවකුට මෙම අයිස් මත්ද්‍රව්‍ය තොගය අයත් බවට සැකකරුවන්ගෙන් අනාවරණය වූ බව පොලීසිය සඳහන් කළේය.
+The two suspects were taken into custody by 14 kilograms of ice drugs and Rs.
 
-අත්අඩංගුවට ගත් සැකකරුවන් ග්‍රෑන්ඩ්පාස් මිහිජය සෙවන මහල් නිවාසයේ සහ ජින්තුපිටිය ප්‍රදේශයේ පදිංචිකරුවන්ය
+The police said that the dealer purchased for sale in a sum of Rs.
+
+The suspects revealed that a large drug dealer in the abroad abroad has been identified as the stock of ice.
+
+The suspects were residents of the Grandpass Mihindaya and the Jidathitiya area
 
 ◼️
 
 [Data](articles/63db404e.json)
 
+[Extended Data](ext_articles/63db404e.ext.json)
+
 ---
 
-### ශල්‍යකර්මයෙන් පසු කේ. සුජීවාගේ අලුත්ම තත්ත්වය
+### After Surgery. The latest condition of Sujeewa
 
 *2024-07-09 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198630) · `si`
 
-අතුරුගිරියේ වෙඩිතැබීමෙන් තුවාල ලැබු ගායන ශිල්පිණී කේ. සුජීවා මහත්මියට සිදුකළ ශල්‍යකර්මයෙන් පසුව ඇය සුවය ලබමින් සිටින බව කොළඹ ජාතික රෝහලේ නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා පවසයි.
+Dr. Rukshan Bellana, deputy director of Colombo National Hospital, is recovering after surgery performed by Sujeewa. She was under hospital observation. Meanwhile, Suranden Wasantha's wife is treated at Kalubowila Teaching Hospital. Murderers involved in Club Wasantha's case revealed the van's owners, though it's registered by multiple owners. The van, used by the fleeing murderers, was found abandoned in Bulathsinhala.
 
-"අද දෙරණ" ට අදහස් දක්වමින් වෛද්‍යවරයා සඳහන් කර සිටියේ, මේ වනවිට ඇය රෝහල් වාට්ටුවක දැඩි නිරීක්ෂණය යටතේ පසුවන බවය.
+🟩
 
-මේ අතර වෙඩි තැබීමෙන් තුවාල ලැබු සුරේන්ද්‍ර වසන්ත නොහොත් ක්ලබ් වසන්තගේ බිරිඳ මේ වන විටත් කළුබෝවිල ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබමින් සිටින බව ද වාර්තා වේ.
+Singing for the shooting of the shadder of the Athurugiriya. Deputy Director of the Colombo National Hospital Dr. Rukshan Bellana is recovering after the surgery conducted by Sujeewa.
 
-ක්ලබ් වසන්ත ඝාතනය සිදුකළ ඝාතකයින් පළාගිය වෑන් රථයේ හිමිකරුවන් සම්බන්ධයෙන් ද මේ වනවිට තොරතුරු අනාවරණය වී තිබේ.
+The doctor said that "Ada Derana" stated that she was under the strict observation of a hospital ward.
 
-කෙසේවෙතත් එම වෑන් රථය හිමිකරුවන් කිහිපදෙනෙකු විසින් ලියාපදිංචි කර ඇති අතර ඒ සම්බන්ධයෙන් තොරතුරු සොයාබලමින් සිටින බව පොලීසිය සඳහන් කළේය.
+Meanwhile, Suranden Wasantha Wasantha alias, or Club Wasantha's wife is currently receiving treatment at the Kalubowila Teaching Hospital.
 
-ඝාතකයින් පළාගිය වෑන් රථය ඊයේ පස්වරුවේ බුලත්සිංහල ප්‍රදේශයේ දී සොයාගනු ලැබීය.
+The murderers who had committed Club Wasantha murder have revealed about the owners of the van owners.
 
-බුලත්සිංහල, දෙමැල්ල ප්‍රදේශයේ පාළු ඉඩමක තිබී වෑන් රථය සොයාගත් අතර වෙඩි තැබීම සඳහා සැකකරුවන් පැමිණි මෝටර් රථය ද කඩුවෙල කොරතොට ප්‍රදේශයේ තිබී සොයාගත් බව පොලීසිය පැවසුවේය.
+However, the van has been registered by several owners and is inquiry into the matter.
+
+The murderers fleened the van in Bulathsinhala last evening.
+
+The van was found in a lonege of land in Bulathsinhala, the Devalaya and found the car arrived in Karatato, Koratatota area.
 
 ◼️
 
 [Data](articles/d24b3dc6.json)
 
+[Extended Data](ext_articles/d24b3dc6.ext.json)
+
 ---
 
-### නාවික හමුදා බුද්ධි අංශයට ආ ඔත්තුව
+### Navy came to intelligence
 
 *2024-07-09 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198629) · `si`
 
-පක්ෂීන් සහ උරග විශේෂ නීතිවිරෝධී ලෙස මුහුදු මාර්ගයෙන් ප්‍රවාහනය කළ සැකකරුවන් පස් දෙනෙකු නාවික හමුදාව විසින් අත්අඩංගුවට ගෙන තිබේ.
+The Sri Lanka Navy arrested five individuals involved in smuggling 13 rare animals, including parrots and tortoises, via a ship operating between Negombo and Hikkaduwa. The suspects, from Negombo and Kochchikade, were caught after a special naval operation in the South Sea. The vessel used for the illegal trade has been seized, and all parties are now under investigation by wildlife conservation departments.
 
-බහුදින ධීවර යාත්‍රාවක් උපයෝගී කරගනිමින් මොවුන් මෙම ජාවාරම සිදුකර ඇති අතර එම යාත්‍රාව ද නාවික හමුදාව සිය භාරයට ගෙන ඇති බව සඳහන්ය.
+🟩
 
-පක්ෂීන් සහ උරග විශේෂ ජාවාරමක් සම්බන්ධයෙන් නාවික හමුදා බුද්ධි අංශය දීර්ඝ කාලයක සිට සිදුකළ විමර්ශනයක ප්‍රතිඵලයක් ලෙස සුරක්ෂා නෞකාව යොදවා සිදුකළ විශේෂ මෙහෙයුමකදී දකුණු මුහුදේ යාත්‍රා කරමින් තිබූ මෙම බහුදින ධීවර යාත්‍රාව පරීක්ෂාවට ලක් කර තිබේ.
+Sri Lanka Navy has arrested five suspects who were illegally transported by birds and reptiles.
 
-එහිදී එම බහුදින යාත්‍රාව තුළ තිබී දුර්ලභ ඝණයේ පිඹුරන් 13 දෙනෙක්, ගිරවුන්, ඉබ්බන්, තලගොයි ඇතුළු පක්ෂීන් සහ උරගයින් සොයාගෙන ඇති බව සඳහන්ය.
+They were conducting the racket using a multi-day vessel and the navy has also taken the vessel.
 
-මෙහිදි සැකකරුවන් පස්දෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර ඔවුන් මීගමුව සහ කොච්චිකඩේ යන ප්‍රදේශවල පදිංචිකරුවන් බව නාවික හමුදාව සඳහන් කළේය.
+The Navy Intelligence Service regarding a special racket of a special racket of a special racket was a special operation conducted in the South Sea, which was sailing in the South Sea.
 
-අදාළ යාත්‍රාව මීගමුව ප්‍රදේශයෙන් ධීවර කටයුතු සඳහා පිටත්ව ගොස් මෙම ජාවාරමේ නිරත වන බව ද නාවික හමුදාව සිදුකළ විමර්ශනයේ දී තොරතුරු අනාවරණය වී තිබේ.
+There are 13 rare solid plans, parrots, tortoises, and reptiles, including the parrots, tortoises.
 
-...
+Five suspects have been arrested and residents of Negombo and Kochchikade areas.
+
+The Navy has revealed that the vessel leaves fishing from Negombo and engaged in this racket.
+
+The Navy said that the foundations of the Hikkaduwa have been handed over to the Department of Wildlife Conservation for the next legal proceedings of birds and reptiles.
+
+Five fishermen and the vessel have also been handed over to the Forest Conservation Department for further investigations.
+
+◼️
 
 [Data](articles/d00ba53b.json)
+
+[Extended Data](ext_articles/d00ba53b.ext.json)
 
 ---
 
@@ -642,19 +682,27 @@ Meanwhile, the assassins of the Athurugiriya shooting murderers met with the bul
 
 ---
 
-### ඇමති ප්‍රසන්න සමග වාදයට ගිය අධ්‍යක්ෂ ජනරාල් තනතුරෙන් ඉවත් කරයි
+### Director General of the Director General of Minister Prasanna removes
 
 *2024-07-09 07:49:18* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-ප්‍රසන්න-සමග-වාදයට-ගිය-අධ්‍යක්ෂ-ජනරාල්-තනතුරෙන්-ඉවත්-කරයි/11-410684) · `si`
 
-නාගරික සංවර්ධන අධිකාරියේ අධ්‍යක්ෂක ජනරාල්වරයා එම තනතුරෙන් ඉවත් කිරීමට පියවර ගත්තේ ඔහුගේ විනය විරෝධී හැසිරීම නිසා බව නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශයේ ලේකම් ඩබ්ලිව්. එස්. සත්‍යානන්ද මහතා අවධාරණය කරයි. ඔහු පෙන්වා දෙන්නේ නාගරික සංවර්ධන අධිකාරි පනතේ 13 (1) වගන්තිය යටතේ විෂය භාර ඇමතිවරයාට පැවරී ඇති බලතල යටතේ මෙම පියවර ගත් බවයි.
+The Director General of the Urban Development Authority (UDA), under Minister Prasanna's supervision, removed the Ministry of Urban Development and Housing Secretary, highlighting issues of misconduct during budget proposals. The former DG faced criticism for his behavior towards public service and was accused of refusing to comply with directives, including the provision of funds for title deeds. Despite objections, the decision to remove the DG was supported by the board of directors, emphasizing the need for disciplinary measures.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ 2024 අයවැය යෝජනාවට අනුව කොළඹ තට්ටු නිවාස හිමියන් 50,000කට සින්නක්කර ඔප්පු ලබා දීමේ වැඩපිළිවෙල ආරම්භ කිරීම සම්බන්ධයෙන් පසුගිය 04 වනදා පැවති සාකච්ඡාවක දී හිටපු අධ්‍යක්ෂ ජනරාල්වරයා රාජ්‍ය සේවයට නොගැළපෙන අප්‍රසන්න ආකාරයෙන් හැසිරුණු බවත් එය සමතයකට පත් කිරීම සදහා අධ්‍යක්ෂ ජනරාල්වරයාට ඒ මොහොතේ ශාලාවෙන් ඉවතට යන ලෙස උපදෙස් දුන් බවත් ලේකම්වරයා කියයි.
+🟩
 
-නාගරික සංවර්ධන අධිකාරියේ අධ්‍යක්ෂ ජනරාල්වරයා තාවකාලිකව ඉවත් කිරීම සහ හිමිකම් ඔප්පු ලබා දීමේ වැඩපිළිවෙල පිළිබදව අධිකාරියේ අධ්‍යක්ෂ මණ්ඩලය දැනුවත් කිරීම සහ ඊයේ (08) පැවති විශේෂ සාකච්ඡාවක දී අමාත්‍යාංශ ලේකම්වරයා මේ බව සදහන් කළේය.
+Ministry of Urban Development and Housing Ministry Secretary. S. Mr. Satyananda emphasizes. He pointed out that this step was taken to the Minister in charge of the subject under Section 13 (1) of the Urban Development Authority Act.
+
+The former director general was unwaveringly behaved in unpleasantly to the public service, which was unpleasant to the public service in the event of the 1724 Budget Proposals of the 2024 Budget Proposals of the 2024 budget proposal in Colombo.The Secretary says that it was advised.
+
+The Secretary to the Ministry stated this at a special discussion held by the Director General of the UDA and obtaining title deeds yesterday.
+
+The discussion was held on the 17th of this month.. The discussion was chaired by Prasanna Ranatunga.
 
 ...
 
 [Data](articles/9a98f12d.json)
+
+[Extended Data](ext_articles/9a98f12d.ext.json)
 
 ---
 
@@ -2271,29 +2319,5 @@ The magistrate, who has said that the Slave Island Police are conducting further
 [Data](articles/f6845a40.json)
 
 [Extended Data](ext_articles/f6845a40.ext.json)
-
----
-
-### Hiranthi arrested
-
-*2024-07-08 18:15:40* · [`adalk`](https://www.ada.lk/breaking_news/හිරන්ති-අත්අඩංගුවට/11-410670) · `si`
-
-A woman accused of fraudulently collecting money for U.S. jobs in Sri Lanka was arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment. She faces five complaints and was remanded until July 12th. The case highlights the importance of verifying job agencies through official channels like slbfe.lk.
-
-🟩
-
-A woman who has been expedited money in the United States is arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment (Special Investigation) at Vavuniya yesterday (7/7).
-
-A resident of Bogaswewa said he could offer jobs in the US that had been provided with Rs.. Accordingly, officials of the Bureau of Special Investigation Division of the Special Investigation Division of the Bureau were reported to the Malkade Court of Colombo against the respective woman.
-
-The Bureau has received 5 complaints against the suspect and the investigators have been arrested by the investigating officials and arrested the woman to the hospital. It was revealed that she served as manager of the Medawachchiya Branch of the island at the time of interrogation.
-
-The suspect was produced before the Vavuniya Magistrate's Court yesterday (7/7) and remanded until July 12, and the suspect is to be produced before the new shop Magistrate's Court on July 12.
-
-...
-
-[Data](articles/e9b67213.json)
-
-[Extended Data](ext_articles/e9b67213.ext.json)
 
 ---

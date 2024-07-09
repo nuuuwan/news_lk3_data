@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 16:35:33**
+As of **2024-07-09 16:52:44**
 
 ## Newspaper Stats
 
-*Scraped **34,404** Articles*
+*Scraped **34,412** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,59 +16,151 @@ islandlk | 1,936
 economynextcom | 2,028
 dailyftlk | 2,146
 adalk | 3,090
-adaderanalk | 3,950
-tamilmirrorlk | 4,091
+adaderanalk | 3,952
+tamilmirrorlk | 4,092
 dailymirrorlk | 4,733
-virakesarilk | 5,371
+virakesarilk | 5,376
 adaderanasinhalalk | 5,728
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,402 (100.0%) of 34,404 articles have been extended.
+34,404 (100.0%) of 34,412 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### 8 සහ 9 වැඩට ආපු අයට පඩි වැඩි කෙරේ
+### Details of ‘OnmaxDT’ depositors submitted to court, CID ordered to further probe
+
+*2024-07-09 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100400/details-of-onmaxdt-depositors-submitted-to-court-cid-ordered-to-further-probe) · `en`
+
+The Colombo Magistrate’s Court has ordered to investigate into the loss of investments made by the depositors of ‘OnmaxDT’, which is believed to have been operating a pyramid scheme, and for a detailed report to be submitted to the court on August 07.
+
+This order was issued by Colombo Fort Magistrate Thilina Gamage when the case was taken up today (09).
+
+During the court proceedings, the directors of ‘OnmaxDT’ submitted the details of the depositors who invested money in the private firm to the court.
+
+Meanwhile, the state counsel who appeared for the Criminal Investigation Department (CID) stated before the court that information has been revealed regarding to two similar illegal investment schemes.
+
+Accordingly, the Magistrate, who ordered the CID to investigate further into the relevant investment schemes, also ordered to arrest the suspects involved and present them before the court.
+
+◼️
+
+[Data](articles/78dc5e49.json)
+
+---
+
+### கடமைக்கு வந்தவர்களுக்கு  விசேட சம்பள உயர்வு
+
+*2024-07-09 16:34:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடமைக்கு-வந்தவர்களுக்கு-விசேட-சம்பள-உயர்வு/175-340098) · `ta`
+
+2024 ஆம் ஆண்டு ஜூலை 8ஆம், 9 ஆம் திகதிகளில் கடமைக்கு சமூகமளித்த, நிறைவேற்று தரத்திற்கு உள்ளடங்காத அரசாங்க அதிகாரிகளுக்கு விசேட சம்பள உயர்வொன்றை வழங்குவதற்கு அமைச்சரவை அங்கிகாரம் வழங்கியுள்ளது.
+
+இதேவேளை,  எதிர்கால பதவி உயர்வுகளுக்குப் பயன்படுத்தும் வகையில் விசேட பாராட்டுச் சான்றிதழொன்றை வழங்குவதற்கும் ஜனாதிபதி ரணில் விக்ரமசிங்க அமைச்சரவைக்கு, செவ்வாய்க்கிழமை (09)  சமர்ப்பித்த பரிந்துரைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+◼️
+
+[Data](articles/94b9614a.json)
+
+---
+
+### Special increments and commendation certificates for non-striking employees
+
+*2024-07-09 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100399/special-increments-and-commendation-certificates-for-non-striking-employees) · `en`
+
+The Cabinet of Ministers has approved President Ranil Wickremesinghe’s proposal to grant a special pay increment to non-executive government officials who reported for duty on July 8 and 9, 2024, the President’s Media Division (PMD) said.
+
+Meanwhile, approval has also been granted to issue them a commendation certificate for future promotions, according to the PMD.
+
+◼️
+
+[Data](articles/4c0f64fb.json)
+
+---
+
+### 8 and 9 will increase the stairs
 
 *2024-07-09 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198641) · `si`
 
-විධායක නොවන රාජ්‍ය නිලධාරීන්ට විශේෂ වැටුප් වර්ධකයක් ලබාදීමට සහ ඉදිරි උසස්වීම් සඳහා ප්‍රශංසා සහතිකයක් නිකුත් කිරීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කැබිනට් මණ්ඩලයට ඉදිරිපත් කළ යෝජනාවට අද (09) කැබිනට් අනුමැතිය හිමිවී තිබේ.
+President Wickremesinghe's cabinet approves a proposal to offer special salary certificates and potential promotions to employees starting work on July 8 and 9.
 
-මෙම අවස්ථාව හිමිවන්නේ 2024 ජුලි 8 සහ 9 යන දෙදින තුළ සේවයට වාර්තා කළ අයට ය.
+🟩
+
+The proposal made by President Ranil Wickremesinghe proposes to the Cabinet of President Ranil Wickremesinghe has approved the Cabinet of President Ranil Wickremesinghe to provide a special salary certificate and to provide a special salary certificate for further promotions.
+
+This opportunity is entitled to those who have been reported to the work on July 8 and 9.
 
 ◼️
 
 [Data](articles/6dd11b4f.json)
 
+[Extended Data](ext_articles/6dd11b4f.ext.json)
+
 ---
 
-### රුසියාවට ආ මෝදි ට පුටින් ආමන්ත්‍රණය කළ අයුරු
+### How to address the Jeki to Russia
 
 *2024-07-09 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198640) · `si`
 
-ඉන්දීය අගමැති නරේන්ද්‍ර මෝදි දෙදින නිල සංචාරයක් සඳහා ඊයේ (08) රුසියාව වෙත පැමිණ තිබුණි.
+Indian PM Narendra Modi's historic two-day visit to Russia, his first since the Ukrainian invasion, focused on strengthening trade ties and addressing the situation of Indian soldiers in Ukraine. Despite concerns from the US, Modi reaffirmed India's commitment to the UN Charter and the importance of its friendship with Russia.
 
-මෙම සංචාරය ඉතිහාසයට එක්වන්නේ, රුසියාවේ යුක්‍රේන ආක්‍රමණයෙන් පසුව මෝදී රුසියාවේ සංචාරය කරන පළමු අවස්ථාව ලෙසය.
+🟩
 
-මොස්කව් නුවර වින්යුකෝවා ජාත්‍යන්තර ගුවන්තොටුපොළ රතු පලස මතින් පැමිණි ඉන්දීය අගමැතිවරයා පිළිගත්තේ රුසියානු රජයේ පළමු නියෝජ්‍ය සභාපති ඩෙනිස් මොන්චියෙරොෆ් විසිනි.
+Indian Prime Minister Narendra Modi had arrived at Russia on a two-day official visit.
 
-සංචාරයේ පළමු දිනය වූ ඊයේ අගමැති මෝදි රුසියානු ජනාධිපති ව්ලැ‍දිමීර් පුටින් ද හමුවුණි.
+This visit joins history as the first time that Moody is the first time since the Ukrainian invasion of Russia.
 
-එහිදී අගමැති මෝදි වඩාත් ලෙන්ගතුව පිළිගත් ජනාධිපති පුටින් ඔහුට හිතවත් මිතුරා ලෙස ආමන්ත්‍රණය කර තිබුණු බවද විදෙස් මාධ්‍ය වාර්තා කරයි.
+The Indian Prime Minister of Winicowa International Airport in Moscow, the Indian Prime Minister accepted a red-fledged red-ranked by the Russian Government Dennis Moncherof.
 
-රාජ්‍ය නායකයින් දෙපළ ජනාධිපති මන්දිරයේ උද්‍යානයේ කෙටි සංචාරයක නිරතවූ අතර පසුව ඔවුන් අසුන් පැදවීමේ ඉසව්වක් නැරඹීමටත් එක්වී තිබුණි.
+The first day of the visit, Prime Minister Modi met Russian President Vladimir Putin.
 
-තෙවැනි වරටත් ඉන්දීය අගමැති ධුරයට පත්වීම ගැන මෝදි ට සුබ පැතීමටත් මෙහිදී ජනපති පුටින් කටයුතු කර තිබුණි.
+Foreign media reports that President Putin has been addressed as friendly friend who accepted the most admiration of Prime Minister Modi.
 
-අගමැති මෝදි ඊයේ රාත්‍රියේ ජනපති පුටින් සමඟ පැවති පෞද්ගලික භෝජන සංග්‍රහය අතරතුරදීත් සාකච්ඡාවකට එක්වූ බව වාර්තා වෙයි.
+The two leaders were on a brief tour at the President's House, and then visited a seated event.
+
+President Mahinda Rajapaksa had worked to regulate Modi to be appointed as Prime Minister for the third time.
+
+It is reported that Prime Minister Modi joined the President last night.
 
 ...
 
 [Data](articles/63e3b779.json)
+
+[Extended Data](ext_articles/63e3b779.ext.json)
+
+---
+
+### பார்க்கின்சன் நோயினால் பாதிக்கப்பட்டவர்களிற்கு சிகிச்சையளிக்கும் மருத்துவர் 8 தடவை வெள்ளை மாளிகை சென்றுள்ளார் ? நியுயோர்க் டைம்ஸ் தகவல்
+
+*2024-07-09 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188051) · `ta`
+
+அமெரிக்க ஜனாதிபதி ஜோடைபன் பார்க்கின்சன் நோயினால் பாதிக்கப்படவில்லை அந்த நோய்க்காக சிகிச்சைபெறவில்லை என வெள்ளை மாளிகை அறிவித்துள்ளது.
+
+பார்க்கின்சன் நோயினால் பாதிக்கப்பட்டவர்களிற்கு சிகிச்சை அளிக்கும் மருத்துவர் வெள்ளை மாளிகைக்கு ஆகஸ்ட்மாதம் முதல் மார்ச்வரையில் எட்டுதடவைகள் சென்றுள்ளார் என நியுயோர்க் டைம்ஸ் செய்தி வெளியிட்டுள்ள நிலையிலேயே வெள்ளை மாளிகையின் இந்த மறுப்பு வெளியாகியுள்ளது.
+
+வெள்ளை மாளிகைக்கு விஜயம் மேற்கொண்டவர்களின் பட்டியலை அடிப்படையாக வைத்து நியுயோர்க் டைம்ஸ் இதனை தெரிவித்துள்ளது.
+
+இது குறித்து மறுப்பு அறிக்கையொன்றை வெளியிட்டுள்ள வெள்ளை மாளிகையின் மருத்துவர் கெவின் ஓ கோனர் பைடன் தனது வருடாந்த மருத்துவசோதனைகளிற்கு அப்பால் நரம்பியல் நிபுணர் எவரையும் பார்ப்பதற்காக வெளியே செல்லவில்லை என குறிப்பிட்டுள்ளார்.
+
+நரம்பியல் நிபுணரான கெவின்கனார்ட்  கடந்த வருடம் ஆகஸ்ட்மாதம் முதல் இந்தவருடம் மார்ச்மாதம் வரை எட்டு தடவை வெள்ளை மாளிகைக்கு விஜயம் மேற்கொண்டுள்ளதை வெள்ளை மாளிகையின் விருந்தினர் ஆவணம் காண்பித்துள்ளது என ரொய்ட்டரும் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/c8c8c9de.json)
+
+---
+
+### புதிய ஜனாதிபதியின் கீழ் ஈரானின்  வெளியுறவுக் கொள்கை மாறுமா? உலகில் புதிய மாற்றதுக்கு வழி பிறக்கும் என  பலரும் நம்பிக்கை !
+
+*2024-07-09 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188047) · `ta`
+
+இந்தியா, பிரித்தானியா என்ற வரிசையில் ஈரானின் தேர்தல் முக்கியத்துவம் வாய்ந்த ஒன்றாக எதிர்பார்க்கப்படுகிறது. இந்நிலையில் இந்தியாவின் பிரதமராக மீண்டும் நரேந்திர மோடி தெரிவு செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/4d6e6331.json)
 
 ---
 
@@ -115,6 +207,24 @@ The shooting occurred during the opening ceremony of a tattoo and piercing studi
 [Data](articles/eed48390.json)
 
 [Extended Data](ext_articles/eed48390.ext.json)
+
+---
+
+### இந்திய சீன உறவுகளை சமநிலைப்படுத்துவதற்கு இலங்கை முயற்சி - ரொய்ட்டர் மாநாட்டில் அலிசப்ரி
+
+*2024-07-09 15:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/188045) · `ta`
+
+இலங்கையின் கடன்மறுசீரமைப்பு தொடர்பாக சர்வதேச பிணைமுறிபத்திர உரிமையாளர்களுடன்  முன்னெடுத்துள்ள பேச்சுவார்த்தைகளை அடுத்த சில வாரங்களில் இலங்கை பூர்த்தி செய்யும் என  இலங்கையின் வெளிவிவகார அமைச்சர் அலிசப்ரி தெரிவித்துள்ளார்.
+
+அயல்நாடுகளான இந்தியா சீனாவை கையாளும் விதத்தில் எந்த வேறுபாடுகளும் இல்லை என்பதை உறுதிசெய்வதற்காக இலங்கை தனது உறவுகளை சமநிலைப்படுத்த முயல்கின்றது என அவர் தெரிவித்துள்ளார்.
+
+ஆசியாவில் தங்களுக்குள் போட்டியிடும் இரு பெரும் நாடுகளும் இலங்கைக்கு அதிகளவு கடன்களை வழங்கியுள்ளதுடன் முக்கிய முதலீட்டாளர்களாக காணப்படுகின்றநிலையில் , இலங்கையில்  புவிசார் அரசியல் ஆதிக்கம் செலுத்துவதற்காக போட்டியிடுகின்ற  சூழ்நிலையிலேயே, இலங்கையின் வெளிவிவகார அமைச்சரின் இந்த கருத்து வெளியாகியுள்ளது.
+
+சிங்கப்பூரில் இடம்பெறும் ரொய்ட்டர்ஸ் நெக்ஸ்ட் மாநாட்டில் இலங்கைக்கு கடன்வழங்கியவர்களுடனான மறுசீரமைப்பு முயற்சிகள் எப்போதும் முடிவடையும் என்ற கேள்விக்கு அடுத்தசிலவாரங்களில் என எதிர்பார்க்கின்றோம் என அலிசப்ரி தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/0128ba18.json)
 
 ---
 
@@ -230,6 +340,20 @@ On Friday (05), the Bribery Commission apprehended the two suspects inside the C
 
 ---
 
+### வட்டகொடை மடக்கும்புர தோட்ட தொழிலாளர்கள் ஆர்ப்பாட்டம்
+
+*2024-07-09 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/188033) · `ta`
+
+பெருந்தோட்டத் தொழிலாளர்களுக்கு நாள் சம்பளமாக 1,700 ரூபா வழங்குமாறு வலியுறுத்தி வட்டகொடை, தெற்கு மடக்கும்புர தோட்ட தொழிலாளர்கள் அத்தோட்ட தொழிற்சாலைக்கு முன்பாக இன்று செவ்வாய்க்கிழமை (9) கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டனர்.
+
+தற்போதைய பொருளாதார சூழ்நிலையில் தாங்கள் பல்வேறு  நெருக்கடியை சந்தித்து வருகின்றனர். 1,700 ரூபாகூட போதாது, எனவே, குறைந்தபட்சமாக கோரப்பட்டுள்ள அந்த தொகையையாவது வழங்குவதற்கு கம்பனிகள் நடவடிக்கை எடுக்க வேண்டும் என தொழிலாளர்கள் கோரிக்கை விடுக்கின்றனர்.
+
+◼️
+
+[Data](articles/d6970251.json)
+
+---
+
 ### “Aswesuma” second phase information census to begin next week
 
 *2024-07-09 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100395/-aswesuma-second-phase-information-census-to-begin-next-week) · `en`
@@ -273,6 +397,24 @@ Accordingly, the mobile app software gathering information is also planned to be
 [Data](articles/0e3d8783.json)
 
 [Extended Data](ext_articles/0e3d8783.ext.json)
+
+---
+
+### சீன அரசின் பொருத்து வீட்டு திட்டம் வடக்கிழக்கு மீனவர்களுக்கு வேண்டாம் - கனகசபை ரவீந்திரன்
+
+*2024-07-09 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188030) · `ta`
+
+சீன அரசின் பொருத்து வீட்டு திட்டம் வடக்கிழக்கு மீனவர்களுக்கு வேண்டாம் என யாழ். சுழிபுரம்  அலைமகள் கடற்றொழிலாளர் கிராமிய கூட்டுறவு அமைப்பின் சிரேஷ்ட உறுப்பினர் கனகசபை ரவீந்திரன் தெரிவித்துள்ளார்.
+
+யாழ். சுழிபுரத்தில் ஊடக சந்திப்பு ஒன்றினை ஏற்பாடு செய்து கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+சீன அரசாங்கத்தினால் வழங்கப்படும் பொருத்து வீட்டு திட்டம் எமக்கு உகந்தது அல்ல நாங்கள் கடற்கரையினை அண்டிதான் வாழ்ந்து வருகின்றோம். சூறாவளி  காற்றினால் இந்த வீடு அழிய கூடும் இயற்கை அனர்தங்களுங்கு அஞ்சி வாழ வேண்டிய சூழல் ஏற்படும்.ஆகவே எங்களுக்கு பொருத்தமற்ற இவ்வாறான வீட்டுதிட்டங்களை முற்றிலும் நிராகரிக்கின்றோம்.
+
+எமது கடற்றொழிலாளர்கள் யுத்தத்தினாலும் பாதிக்கப்பட்டுள்ளோம். தொடர்ந்து இழுவை மடியாலும் பாதிக்கபட்டுள்ளோம். பொது மக்களுக்கு பல நெருக்கடியான சூழலிலும்  மீனவ தொழிலை ஜீவனோபாயமாக  மேற்கொண்டுவருகின்றோம். எமக்கு நிரந்தரமான வீட்டுத்திட்டம் அனைவரும் ஏற்றுக்கொள்ள கூடிய வகையில் வழங்கவேண்டும்.உண்மையில் எமக்கு சீன அரசு தரமான பொருட்களையும் நல்ல திட்டங்களையும் வழங்கவேண்டும்.
+
+...
+
+[Data](articles/1d7afca6.json)
 
 ---
 
@@ -2139,189 +2281,5 @@ President Ranil Wickremesinghe made this statement while addressing the Amarapur
 [Data](articles/a36b5ffe.json)
 
 [Extended Data](ext_articles/a36b5ffe.ext.json)
-
----
-
-### If the strike is to be paid a salary hike, the Wet tax will be increased again
-
-*2024-07-09 02:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/187995) · `ta`
-
-Treasury Secretary Mahinda Siriwardena announced that a proposed salary increase for striking workers would lead to a Wet tax rise from 18% to 20%-21%, stating the government couldn't afford such hikes. Despite union demands, a salary increase this year seems unlikely, but amendments to the 2025 budget may address salary reviews. The Treasury Secretary emphasized the financial strain of salary increases, suggesting a minimal tax hike and highlighting the impossibility of increasing the Wet tax beyond its current rate due to economic stabilization efforts. Senior Advisor Dr. RHS. Samaratunga noted the difficulty in increasing salaries this year but assured that allocations might be made in the next year's budget, with a special expert panel investigating salary issues.
-
-🟩
-
-The Treasury Secretary Mahinda Siriwardena said that if the strike is to be paid a salary increase, the current 18% Wet tax will increase to 20% - 21% and the government cannot meet such a demand.
-
-President Ranil Wickremesinghe, headed by President Ranil Wickremesinghe today (08) at the Presidential Secretariat, said this.
-
-Many of the unions related to the public service have been brought to the President's attention on the occupational activity, which has made several demands and discussed the favorable solutions to the demands made by the unions.
-
-It was pointed out that although there is no possibility of providing salary this year, it is expected that the budget for the 2025 budget is expected to be amended on the recommendations of the expert panel appointed to review the salary of civil servants.
-
-...
-
-[Data](articles/5c4401f0.json)
-
-[Extended Data](ext_articles/5c4401f0.ext.json)
-
----
-
-### Due to unjust strikes, children have lost the opportunity to educate -Kanaka Herath
-
-*2024-07-09 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/187996) · `ta`
-
-Technology Minister Kanaka Herath criticized unjust strikes during elections, stating they've hindered children's education. He urged opposition parties to clarify if their actions aim to disrupt public peace. Highlighting achievements since 2022, including significant policies, reforms, and a Digital Economic Scheme backed by the World Bank aiming to boost the digital economy from $3 billion to $30 billion by 2030. Upcoming legislative changes aim to enhance consumer protection and foster fair competition among telecom companies, expand internet services, and establish a technology and innovation commission. The minister emphasized the need for opposition parties to address how they plan to cover the estimated annual cost of $280 million for these initiatives. He also touched on the IMF's recommendation to allocate 11 billion rupees for low-income individuals, questioning the opposition's intentions regarding public welfare.
-
-🟩
-
-Technology Minister Kanaka Herath said that children have lost the opportunity to educate the children by carrying out unjust strikes at the time of the election.
-
-The Minister of State also stated that the opposition parties should respond to the question of whether it is aimed at disrupting the people's peace of life through these strikes and struggles.
-
-Minister of Technology Kanaka Herath made this statement at a media briefing held at the Presidential Media Center on Monday (08).
-
-Since 2022, we have implemented massive policies and reforms by our ministry. It is also expected to present a few more bills in Parliament.
-
-Also, with the support of the World Bank, the 2020-2030 Digital Economic Scheme was released. Our aim is to increase the current $ 3 billion digital economy to US $ 30 billion by 2030.
-
-It is also expected that the law is expected to amend the law in Parliament on Tuesday (09).
-
-...
-
-[Data](articles/9b0794bc.json)
-
-[Extended Data](ext_articles/9b0794bc.ext.json)
-
----
-
-### Minneriya, Kothuru, the best of Asian Elephants in the World
-
-*2024-07-09 02:10:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn4v5p9rz7ro) · `si`
-
-Asian elephants from Minneriya and Kothuru, known as the best in Asia, have recently returned after leaving the Moragahakanda reservoir project in 2018. These elephants, found mainly in Minneriya and Kaudulla parks in Sri Lanka, are crucial for the country's biodiversity. With around 100 elephants in 200 herds, controlling water resources is essential for their survival and ensuring future generations can witness these magnificent creatures.
-
-🟩
-
-None contains none of this.
-
-The Elephant who left the Moragahakanda reservoir project in the year 2018, Minneriya and Kaudulla parks have returned these days.
-
-As a result of researchers on the recent discussions with the Irrigation, Mahaweli and Wildlines, the decrease in the recent discussions with irrigation, Mahaweli and Wildlines.
-
-'' The world is only 13 people in the world. Asian elephants can look good in Sri Lanka. Minneriya, Kaudulla National Park. There are 100 elephants, 200 herds. If we control this water, the world-famous vision will be able to see the future generation. "
-
-◼️
-
-[Data](articles/d9ec7a04.json)
-
-[Extended Data](ext_articles/d9ec7a04.ext.json)
-
----
-
-### Electoral Success Calls For Greater Transparency Rather Than Less
-
-*2024-07-09 01:30:13* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/electoral-success-calls-for-greater-transparency-rather-than-less/) · `en`
-
-The deadline for presidential elections is fast approaching and the Election Commissioner will be empowered to declare the date of the election on July 17, just over a week from now. The election rallies are becoming larger and feistier. The two main opposition parties are showing their growing strength in the numbers attending their political rallies. The government too is unifying to meet the challenge. The most recent public meeting brought together the leading members of the ruling SLPP who have been thought to be at loggerheads. Many have resurfaced into the public domain, which they lost when the economy collapsed and they had to go into hiding.
-
-...
-
-[Data](articles/759526be.json)
-
-[Extended Data](ext_articles/759526be.ext.json)
-
----
-
-### Damage to students by telephone strikes
-
-*2024-07-09 00:45:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலைநிறுத்தங்களால்-மாணவர்களுக்கு-பாதிப்பு/175-340069) · `ta`
-
-Minister Kanaka Herath criticized strikes during elections, stating they hinder education and proposed a salary increase costing 280 billion rupees annually. He urged the Opposition to address compensation and the impact of disruptions on low-income families, highlighting the IMF's recommendation of 11 billion rupees for them.
-
-🟩
-
-Technology Minister Kanaka Herath said that children have lost the opportunity to educate the children by carrying out unjust strikes at the time of the election.
-
-State Minister Kanaka Herath said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-20,000 rupees has been requested to all civil servants according to current professional activities. To make that allowance will cost about 280 billion rupees per year. The Opposition must report how to compensate for those costs in view of the current situation in the country.
-
-In addition, the children have lost the opportunity to educate as the election approaches. Strugglers must understand that the ordinary people are eventually suffering.
-
-The International Monetary Fund has recommended that 11 billion rupees to pay for low -income people. Opposition parties should respond to the question of whether the opposition parties expect to disrupt the livelihood of the people through these struggles.. (A)
-
-◼️
-
-[Data](articles/abbe1960.json)
-
-[Extended Data](ext_articles/abbe1960.ext.json)
-
----
-
-### Buddha's teachings to win the challenges
-
-*2024-07-09 00:44:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவால்களை-வெற்றிகொள்ளும்-புத்தரின்-போதனைகள்/175-340068) · `ta`
-
-President Ranil Wickremesinghe highlighted the relevance of Buddha's teachings to modern science and technology during the Amarapura Day ceremony, celebrating the contributions to Buddhism over 222 years. He praised the efforts of the Amarapura Maha Nikaya and presented souvenirs, emphasizing the importance of Buddhist principles in today's world.
-
-🟩
-
-President Ranil Wickremesinghe said that there is a huge connection between Buddhism and the modern science and technology world that we are currently traveling, and that the teachings of the Buddha are in the teachings of the Buddha.
-
-The President was speaking at the Amarapura Day ceremony of Sri Lanka's Amarapura Maha Nikaya held at the Sabaragamuwa Provincial Council auditorium yesterday.
-
-Verse. After the great dedication of Velidara, Mahakarawe Gnanavimaladiza Thera, Amarapura was established in 1802. Verse. Madihe Panjazheeha, Akamaha Pandita Vana. Ananda Maithri, Balangoda. Dauldeena Gnaniswara, Vana. Kodukoda Dammavasa, Wana. Thodambahala Chandasiri led Amarapura Maha Nikaya.
-
-...
-
-[Data](articles/8eff6970.json)
-
-[Extended Data](ext_articles/8eff6970.ext.json)
-
----
-
-### If the salary is raised will increase the tax
-
-*2024-07-09 00:25:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளத்தை-உயர்த்தினால்-வரி-அதிகரிக்கும்/175-340067) · `ta`
-
-Raising salaries could lead to a tax hike, as Treasury Secretary Mahinda Siriwardena mentioned that increasing wages might raise the VAT from 18% to 21%. This was discussed during a meeting at the Presidential Secretariat led by President Ranil Wickremesinghe, addressing demands from public service unions. The President considered solutions to the unions' requests, highlighting the potential impact of wage increases on taxation.
-
-🟩
-
-Treasury Secretary Mahinda Siriwardena said that if the salary increase of the strike, the current 18 percent value added tax will increase from 20 percent to 21 percent.
-
-President Ranil Wickremesinghe, headed by President Ranil Wickremesinghe at the Presidential Secretariat yesterday, made these comments on the demands made by the public service unions.
-
-Many of the unions related to the public service have been brought to the President's attention in this regard regarding the occupational activity that has made many demands and the favorable solutions to the demands made by the trade unions have been discussed.. (A)
-
-◼️
-
-[Data](articles/5bff3aef.json)
-
-[Extended Data](ext_articles/5bff3aef.ext.json)
-
----
-
-### Chavakachcheri Resource Hospital issue: Minister Douglas Devananda
-
-*2024-07-09 00:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187994) · `ta`
-
-Minister Douglas Devananda, along with Health Minister Rames Pathirana and Northern Province Governor Mrs. PMS Charles, discussed improvements for Chavakachcheri Base Hospital. They plan to address public expectations and investigate issues, including a work boycott by doctors. The hospital staff will receive a holiday to facilitate smoother operations.
-
-🟩
-
-Fisheries Minister Douglas Devananda has said that the steps to be carried out in the Chavakachcheri Base Hospital will be met with the expectations of the people.
-
-He was speaking at a discussion with Health Minister Rames Pathirana and Governor of the Northern Province Mrs. PMS Charles.
-
-In addition, the hospital's response to the hospital's response to the hospital's response to the hospital is to be given a holiday to the hospital to create a smooth environment at the Chavakachcheri Resource Hospital and to return to the doctors who have been involved in the work boycott.
-
-Subsequently, Minister Douglas Devananda was informed that a detailed inquiry into the defects in the hospital, the reason for the long -term remedy of the hospital, and the allegations leveled at the doctor's archana.
-
-◼️
-
-[Data](articles/63b0cfd2.json)
-
-[Extended Data](ext_articles/63b0cfd2.ext.json)
 
 ---

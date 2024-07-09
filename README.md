@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 04:54:21**
+As of **2024-07-10 05:05:10**
 
 ## Newspaper Stats
 
-*Scraped **34,476** Articles*
+*Scraped **34,479** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 337
 newsfirstlk | 363
 islandlk | 1,936
 economynextcom | 2,034
-dailyftlk | 2,146
+dailyftlk | 2,149
 adalk | 3,101
 adaderanalk | 3,958
 tamilmirrorlk | 4,100
@@ -26,11 +26,63 @@ adaderanasinhalalk | 5,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,476 (100.0%) of 34,476 articles have been extended.
+34,476 (100.0%) of 34,479 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### EFC holds 95th Annual General Meeting
+
+*2024-07-10 04:52:58* · [`dailyftlk`](https://www.ft.lk/business/EFC-holds-95th-Annual-General-Meeting/34-764049) · `en`
+
+The Employers’ Federation of Ceylon (EFC) recently concluded its 95th Annual General Meeting at the Bandaranaike Memorial International Conference Hall.
+
+At this general meeting, the Board of Trustees and Council Members representing different Employer Groups were appointed for the financial year 2024/25.
+
+The outgoing Chairman Krishan Balendra commended the EFC for extending its services and supporting member organisations during challenging times. He emphasised the vital role played by the Federation in engaging with authorities to accommodate the requirements of the private sector in relation to the draft Employment Act.
+
+Dinesh Weerakkody, a former Chairman of the Employees’ Trust Fund Board of Sri Lanka, National Human Resource Development Council of Sri Lanka, Commercial Bank of Ceylon PLC, and Hatton National Bank PLC was appointed as the Chairman, while Commercial Bank of Ceylon PLC Managing Director Sanath Manatunge was appointed as the Vice Chairman of the Federation.
+
+...
+
+[Data](articles/b23b19e1.json)
+
+---
+
+### Sri Lanka-China Business Council holds 23rd AGM
+
+*2024-07-10 04:49:50* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-China-Business-Council-holds-23rd-AGM/34-764048) · `en`
+
+Seated from left: Chaminda Perera, Nethmi Jayamaha, Chinese Ambassador Qi Zhenhong, SLCBC President Haroun Cader, M.H.M.K. Hameez, and Aneesha Boteju
+
+Standing from left: Adheesha Salpitikorala, Tharindu Mahawedage, Chandrika Ranawaka, Sampath Kumara, Kumudu Jayalath, Dhanushka Perera, G. Rajendran, and Damith Jayawardana
+
+The 23rd Annual General Meeting of the Sri Lanka-China Business Council of the Ceylon Chamber of Commerce was held on 2 July 2024 at Hilton Colombo Residencies, Colombo 02.
+
+The event was graced by Ambassador of the People’s Republic of China to Sri Lanka Qi Zhenhong, who graciously participated as the Chief Guest. Kusum Wijethilleke was the keynote speaker of the event. Embassy of the People’s Republic of China Economic and Commercial Counsellor Tang Yandi, Embassy Officials, and Government Officials also participated in the event.
+
+...
+
+[Data](articles/fdf6d190.json)
+
+---
+
+### Sri Lanka Thailand Business Council Ex-Co calls on new Ambassador
+
+*2024-07-10 04:42:05* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Thailand-Business-Council-Ex-Co-calls-on-new-Ambassador/34-764047) · `en`
+
+Seated from left: Secretary Priyantha Kolonnage, Vice President Kamil Weerasekara, Vice President A.M. Musajee, President Dushyantha Basnayake, Thai Ambassador to Sri Lanka Paitoon Mahapannaporn, Founder and Past President Rizan Nazeer, Founder and Past President Lionel Fernando, Immediate Past President Lalith Kumarage, Counsellor Prangtip Kongridhisuksakorn Treasurer Asim Mukthar.
+
+Standing from left: Committee Member Abdul Saliheen, Committee Member Venura Fernando, Committee Member Deepal Abeysekara, Committee Member Rienzie Fernando, Committee Member Rohan Elgiriyawithana, and Assistant Treasurer Yashoda Pieris. (Absent: Assistant Secretary Asitha Panabokke, Committee Member Chandana Nanayakkara)
+
+In a notable event aimed at fostering international cooperation and understanding, the Sri Lanka Thailand Business Council recently convened a pivotal meeting with the new Ambassador of Thailand in Sri Lanka Paitoon Mahapannaporn.
+
+...
+
+[Data](articles/142fb69a.json)
+
+---
 
 ### What is the government's position for the North and East unemployed graduates?- Sajith Premadasa question
 
@@ -2321,75 +2373,5 @@ However, the train has not begun and the train has not begun and it will take se
 [Data](articles/773bbae9.json)
 
 [Extended Data](ext_articles/773bbae9.ext.json)
-
----
-
-### Shanmugam Kugathasan sworn in as new MP in Sri Lanka parliament
-
-*2024-07-09 12:41:00* · [`economynextcom`](https://economynext.com/shanmugam-kugathasan-sworn-in-as-new-mp-in-sri-lanka-parliament-171400/) · `en`
-
-ECONOMYNEXT — Shanmugam Kugathasan of the Illankai Tamil Arasu Kadchi (ITAK) took oaths as a Member of Parliament today, filling the vacancy left by the demise of former opposition leader R Sampanthan.
-
-The new MP, who represents the Trincomalee district,  was sworn in before Speaker Mahinda Yapa Abeywardena in parliament Tuesday July 09 morning.
-
-Sampanthan, who Kugathasan replaces in the legislature, was the leader of the Tamil National Alliance, of which ITAK is the key constituent party.
-
-Mr. Kathiravelu Shanmugam Kugathasan was sworn in as a member of the 9th Parliament before the Speaker Hon. Mahinda Yapa Abeywardana today (July 09).
-
-A statement from parliament said MP Kugathasan completed his higher education from the university of Colombo and Madurai Kamaraj University, India.
-
-...
-
-[Data](articles/4e17ec70.json)
-
-[Extended Data](ext_articles/4e17ec70.ext.json)
-
----
-
-### People's opinion on electricity tariff revision
-
-*2024-07-09 12:28:51* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝධනය-ගැන-ජනතා-අදහස්-පව-4-30ක්-ගනියි/11-410689) · `si`
-
-Public Utilities Commission plans to finalize electricity tariff revisions after public consultations today at the Bandaranaike Memorial International Conference Hall. The final decision is expected on the 15th of this month.
-
-🟩
-
-The Public Utilities Commission states that public consulting will be held today (09).
-
-Accordingly, the oral views of public counselors will occur at the Bandaranaike Memorial International Conference Hall from 8.30 am to 4.30 am to 4.30 pm.
-
-Once the public consultation has been completed, the Commission is planning to declare the final decision on electricity tariffs on the 15th of this month.
-
-◼️
-
-[Data](articles/fa402096.json)
-
-[Extended Data](ext_articles/fa402096.ext.json)
-
----
-
-### If suspicion can appeal to: Court
-
-*2024-07-09 12:25:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/சந்தேகம்-என்றால்-தனிப்பட்டு-முறையிடலாம்-நீதிமன்றம்/95-340085) · `ta`
-
-Fort Magistrate Kosala Senadheera advised lodging a complaint if suspicious of the student's death from the 67th floor of the Aldeyar Apartments in Kompanideru. The attorney suggested preparing to file such a complaint. The magistrate also requested phone records from service providers after the police reported the incident, noting the involvement of a Pakistani friend due to diplomatic privileges.
-
-🟩
-
-Fort Magistrate Kosala Senadheera has advised the police to lodge a complaint with the police if there is suspicion of the student's death in the Aldeyar Apartments in Kompanideru.
-
-Attorney -at -law, who was present in court, advised Asanga ready to lodge a person and get permission for the incident.
-
-Attorney -at -Law Asanga Fort Magistrate on Monday (08) has requested that the student's father has said that the student's death is suspicious of the student's death from the 67th floor of the Altaiyar apartment.
-
-Fort Magistrate Kosala Senadheera said that the death of the two students could not be made of suspicion and the police should file a charge sheet that the death was suspicious.
-
-Magistrate Kosala Senadheera added that the Kompanideru police have already reported the facts through the report and lodged a complaint with the police.
-
-...
-
-[Data](articles/1a57f7f5.json)
-
-[Extended Data](ext_articles/1a57f7f5.ext.json)
 
 ---

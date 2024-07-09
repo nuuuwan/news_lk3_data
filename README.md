@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 00:35:22**
+As of **2024-07-10 00:51:48**
 
 ## Newspaper Stats
 
-*Scraped **34,468** Articles*
+*Scraped **34,470** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 311
-colombotelegraphcom | 321
+colombotelegraphcom | 323
 bbccomsinhala | 337
 newsfirstlk | 363
 islandlk | 1,936
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,468 (100.0%) of 34,468 articles have been extended.
+34,468 (100.0%) of 34,470 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -510,6 +510,18 @@ Minister Pavithra Wanniarachchi, MP Thalatha Athukorala, Akila Wijeweera, Deputy
 
 ---
 
+### Starmer At UK’s Helm; Will There Be Any Qualitative Foreign Policy Shifts?
+
+*2024-07-09 19:02:50* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/starmer-at-uks-helm-will-there-be-any-qualitative-foreign-policy-shifts/) · `en`
+
+Having entered the House of Commons in May 2015, it has taken Keir Starmer less than a decade to climb what Benjamin Disraeli, once famously described as the “greasy pole” of British politics. Britain now has a new government after Labour Party won a landslide victory in last Thursday’s election, winning 412 seats and a huge 172-seat majority in parliament. While 2019’s general election was largely a story of two parties, this time national ballot led to historic gains for the Lib Dems, the Greens and Reform UK. The victories by pro-Gaza independent candidates, among them ex-Labour leader Jeremy Corbyn dealt blows to some of Westminster’s most prominent MPs. The rise of the “populist” Reform UK Party led by Nigel Farage, particularly had leaders of the more established political outfits rattled. (Interestingly the biggest donor to this party was a British entrepreneur with Sri Lankan heritage). Labour has also regained its dominance in Scotland, and Wales too.
+
+...
+
+[Data](articles/ee4aa513.json)
+
+---
+
 ### Spring's and Nayanawasa's body handed over to relatives
 
 *2024-07-09 19:01:26* · [`adalk`](https://www.ada.lk/breaking_news/වසන්තගේ-හා-නයන-වාසලගේ-දේහයන්-ඥාතීන්ට-භාර-දෙයි/11-410700) · `si`
@@ -601,6 +613,22 @@ During today's Cabinet meeting, it has been decided not to extend the lease agre
 [Data](articles/458c62a1.json)
 
 [Extended Data](ext_articles/458c62a1.ext.json)
+
+---
+
+### A Living Legacy: A Tribute To Mallikai Editor Dominic Jeeva
+
+*2024-07-09 18:50:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-living-legacy-a-tribute-to-mallikai-editor-dominic-jeeva/) · `en`
+
+Dominic Jeeva, born to Joseph and Maryamma on June 27, 1927, in Jaffna, launched the arts and literary monthly magazine, Mallikai in 1966. He continued its publication until 2012, serving as its editor and publisher. Through his unwavering self-effort in that endeavour, he became widely known as Mallikai Jeeva.
+
+The name “Mallikai Jeeva” resonated across Sri Lanka, among Tamil, Sinhala, and Muslim literary circles. Born into a modest middle-class family and deprived of opportunities for higher education, Dominic Jeeva became a self-taught scholar through the experience he gained through his extensive reading of works by intellectuals and progressive writers. His tireless contributions significantly advanced Tamil literature in Eelam. Dominic Jeeva passed away at the age of 93.
+
+Had he lived a few more years, he would have reached the centennial mark. This past June 27th, he would have turned 97. Although he is no more, his memory remains everlasting!
+
+...
+
+[Data](articles/20eb322e.json)
 
 ---
 
@@ -2349,53 +2377,5 @@ Kaduwela acting magistrate TMG arrived at the place of shooting (July 08). Karun
 [Data](articles/d9bd75df.json)
 
 [Extended Data](ext_articles/d9bd75df.ext.json)
-
----
-
-### Fire for vehicles in Jaffna
-
-*2024-07-09 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/188010) · `ta`
-
-A violent gang attacked a woodworker's home in Jaffna, setting fire to his property and vehicles. The incident occurred in the Otumadam area, targeting the homeowner and his son, who had previously worked with the gang but is now in France.
-
-🟩
-
-The violent gang, which broke into the owner of a woodworker in Jaffna, has set fire to the property and damaged the property and set fire to vehicles parked in front of the house.
-
-In the house of the owner of a tree in the Otumadam area, the gang who entered the early hours of Tuesday morning (09) was involved in violence.
-
-It is reported that the son of the owner, who had previously worked with the violent gang in Jaffna and is now a refuge in France.
-
-◼️
-
-[Data](articles/37424d29.json)
-
-[Extended Data](ext_articles/37424d29.ext.json)
-
----
-
-### Two midst of Rs.
-
-*2024-07-09 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198631) · `si`
-
-Two individuals were arrested by the Police Narcotics Bureau for possessing 14 kg of ice drugs valued at Rs. The suspects, from Grandpass Mihindaya and Jidathitiya, allegedly bought the drugs from a large foreign dealer for resale.
-
-🟩
-
-Two persons have been arrested by the Police Narcotics Bureau with over Rs.
-
-The two suspects were taken into custody by 14 kilograms of ice drugs and Rs.
-
-The police said that the dealer purchased for sale in a sum of Rs.
-
-The suspects revealed that a large drug dealer in the abroad abroad has been identified as the stock of ice.
-
-The suspects were residents of the Grandpass Mihindaya and the Jidathitiya area
-
-◼️
-
-[Data](articles/63db404e.json)
-
-[Extended Data](ext_articles/63db404e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 20:19:56**
+As of **2024-07-09 20:36:24**
 
 ## Newspaper Stats
 
-*Scraped **34,440** Articles*
+*Scraped **34,442** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,62 @@ newsfirstlk | 363
 islandlk | 1,936
 economynextcom | 2,028
 dailyftlk | 2,146
-adalk | 3,097
+adalk | 3,098
 adaderanalk | 3,955
 tamilmirrorlk | 4,098
 dailymirrorlk | 4,733
 virakesarilk | 5,382
-adaderanasinhalalk | 5,733
+adaderanasinhalalk | 5,734
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,439 (100.0%) of 34,440 articles have been extended.
+34,440 (100.0%) of 34,442 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### A/L மாணவர்களுக்காக விஷேட செய்தி
+### වතු සේවක වැටුප් ප්‍රශ්නය විසඳන්න තවත් තීන්දුවක්
+
+*2024-07-09 20:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198648) · `si`
+
+රජය විසින් තීරණය කරන ලද වතු සේවකයින්ගේ දෛනික වැටුප ලබා නොදෙන වතු හාම්පුතුන්ගේ බදු ගිවිසුම් දීර්ඝ නොකිරීමට කැබිනට් මණ්ඩලය තීරණය කළ බව කම්කරු අමාත්‍ය මනූෂ නානායක්කාර මහතා අද (09) අනාවරණය කළේය.
+
+රුපියල් 1,000ක් පැවති වතු සේවක දෛනික වැටුප රුපියල් 1,700 දක්වා ඉහළ නංවමින් ඉකුත් අප්‍රේල් 30 වනදා රාත්‍රියේ කම්කරු කොමසාරිස් ජනරාල්වරයා අතිවිශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබුණි.
+
+කෙසේ වෙතත් අදාළ ගැසට් නිවේදනයට එරෙහිව වැවිලි සමාගම් අධිකරණ ක්‍රියාමාර්ගවලට යොමු වූ අතර ඒ අනුව ඉකුත් 28 වනදා ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් වතු සේවක වැටුප් වැඩි කරමින් කම්කරු අමාත්‍යවරයා නිකුත් කළ ගැසට් නිවේදනය ක්‍රියාත්මක කිරීම වළක්වාලමින් අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+
+"අද කැබිනට් මණ්ඩලයේදී ජනාධිපතිතුමා තීරණය කළා... වතු කම්කරුවන්ට සුදුසු වැටුප නොගෙවන වතු හාම්පුතුන්ගේ බදු ගිවිසුම් දීර්ඝ කරන්නේ නැහැ. දැනට ජනාවාස වී ඇති වතු ප්‍රදේශ ගම්මාන ලෙස ගැසට් කරන්න තීන්දු කළා. එලෙස ගැසට් කළ පසු රජයේ ප්‍රතිලාභ සෘජුවම දෙන්න පුළුවන්. වතු සමාගම්වල අවසර ගන්න අවශ්‍ය නැහැ."
+
+◼️
+
+[Data](articles/09aca82c.json)
+
+---
+
+### Special News for A/L Students
 
 *2024-07-09 19:44:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-மாணவர்களுக்காக-விஷேட-செய்தி/175-340104) · `ta`
 
-இந்த ஆண்டுக்கான உயர்தரப் பரீட்சைக்கான விண்ணப்பங்களை இணையத்தளத்தில் சமர்ப்பிக்கும் கால அவகாசம் மேலும் நீடிக்கப்பட்டுள்ளது.
+The deadline for GCE A/L exam applications has been extended from April 10th to April 12th. The Department of Examinations assures no further extensions will be granted.
 
-பாடசலைகள் மற்றும் தனியார் விண்ணப்பதாரர்களுக்கான ஒன்லைன் மூலம் விண்ணப்பங்களை சமர்ப்பிப்பதற்கான கால அவகாசம் நாளையுடன் (10) நிறைடைய இருந்தது.
+🟩
 
-எனினும் தவிர்க்க முடியாத காரணங்களினால் எதிர்வரும் 12ஆம் திகதி வரை அது நீடிக்கப்பட்டுள்ளதாக பரீட்சைகள் திணைக்களம் விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+The deadline for submitting applications for the GCE Advanced Level Examination for this year has been extended.
 
-மேலும் அன்றைய தினத்திற்கு பின்னர் எக்காரணம் கொண்டும் விண்ணப்பிப்பதற்கான காலம் பிற்போடப்பட மாட்டாது எனவும் பரீட்சைகள் திணைக்களம் மேலும் தெரிவித்துள்ளது. R
+The deadline for submitting applications through an online for schools and private applicants was to be filled with day (10).
+
+However, the Department of Examinations has issued a statement issued by the Department of Examinations that it has been extended until the 12th of this month.
+
+The Department of Examinations said that the time of applying for any reason would not be delayed after that day.. Remble
 
 ◼️
 
 [Data](articles/0f129120.json)
+
+[Extended Data](ext_articles/0f129120.ext.json)
 
 ---
 
@@ -67,6 +91,22 @@ Accordingly, about 99.5% of the pensioners will receive a pension allowance with
 [Data](articles/f008b520.json)
 
 [Extended Data](ext_articles/f008b520.ext.json)
+
+---
+
+### නවින් දිසානායකට ජන හිතකාමී ශාසනබන්ධු නාමය දෙයි
+
+*2024-07-09 19:06:13* · [`adalk`](https://www.ada.lk/breaking_news/නවින්-දිසානායකට-ජන-හිතකාමී-ශාසනබන්ධු-නාමය-දෙයි/11-410701) · `si`
+
+ශ්‍රී ලංකා අමරපුර මහා සංඝ සභාවේ 222 වැනි අමරපුර දින ආදී කර්තෘ ගුණ සැමරුම 2024 පසුගියදා (08) රත්නපුර පිහිටි සබරගමු පළාත් සභා ශ්‍රවණාගාරයේ දී පැවැත්වුණි.මෙහි ප්‍රධාන ආරාධිතයා ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහභාගි වූහ.
+
+ශ්‍රී ලංකා අමරපුර මහා සංඝ සභාවේ සභාපති අතිපූජ්‍ය කරගොඩ උයන්ගොඩ මෛත්‍රී මූර්ති නාහිමියන් අතින් සබරගමුව පළාත් ආණ්ඩුකාර අධිනීතිඥ නවින් දිසානායක මහතා වෙත ජන හිතකාමී ශාසනබන්ධු යන ගෞරව නාමය මෙහිදී ප්‍රදානය කරනු ලැබීය.
+
+සබරගමු පළාත් ආණ්ඩුකාර අධිනීතිඥ නවින් දිසානායක මහතා වර්තමාන සබරගමුව ආණ්ඩුකාරවරයා ලෙස සබරගමුව පළාතට සිදුකල මහත් වූ සේවය අරභයා ප්‍රජාතන්ත්‍රවාදී මූලධර්මයන්ගෙන් ද, මහත්මා දේශපාලනයෙන් ද, සම්බුද්ධ ශාසනය කෙරෙහි දක්නා සැදැහැවත් භාවය පිළිබඳව දක්වන ප්‍රසාදය හේතු කොට ගෙන මෙම ජන හිතකාමී ශාසනබන්ධු යන නාමය අධිනීතිඥ නවින් දිසානායක මහතා වෙත පුද කර ඇත.
+
+...
+
+[Data](articles/90b74c88.json)
 
 ---
 
@@ -1832,13 +1872,13 @@ It is noteworthy that Kalpitiya police have filed a case against MP Ali Sabri Ra
 
 ECONOMYNEXT – Sri Lanka’s Opposition leader has asked the government to give public sector jobs to 50,000 unemployed graduates, despite the country having a bloated state service sector, and an ongoing strike today by public servants demanding salary increases.
 
-“We have around 50,000 unemployed graduates in the country. Is the government going to give them appointments, I would like to know, or send them to the jobless queue?” Sajith Premadasa said in parliament on Tuesday.
+Opposition leader Sajith Premadasa said he had seen unemployed graduates striking on the road side during a visit to the North and East.
 
-Premadasa said there was a teacher shortage of 40,000 vacancies.
+“Will they be given appointments? What is their future? Why are not hired for essential vacancies based on their qualifications, they are asking,” he said in parliament.
 
-“Just because they are graduates, they can’t be made teachers,” Education Minister Susil Premajayantha said in reply. “It is unfair by them and even more unfair on the student.
+“In the North and East the requests made by them I am tabling. From the government side what is the governments plan? The unemployed graduates in my estimation is close to 50,000. There is such a number.
 
-Sri Lanka’s teacher service charter specifies that recruits have to sit for a competitive exam and obtain a specific pass mark, and that their qualification match the subject, the minister said.
+“They have got the light from our free education, and will they go straight to the unemployed line, is what I am asking?
 
 ...
 
@@ -2339,51 +2379,5 @@ More than 350 animals were killed in the relevant forest residents of that year.
 [Data](articles/41d3a3c8.json)
 
 [Extended Data](ext_articles/41d3a3c8.ext.json)
-
----
-
-### A woman's body body piles on the beach
-
-*2024-07-09 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198623) · `si`
-
-An unidentified female body, estimated to be around 4 feet tall, was discovered near Seawaskadam. The Kalawanchikudi Police were notified after a report from a trip yesterday. The body is now at the morgue while investigations continue.
-
-🟩
-
-The body of an unidentified female body has been found in the sea coast of the Seawaskadam area.
-
-The body was recovered following a trip received by the Kalawanchikudi Police yesterday.
-
-The identity of the deceased has not yet been established and is a 4-foot-five feet of height and about 4 feet high.
-
-The body has been placed at the morgue morgue and the Kalawanchikudi police are conducting further investigations.
-
-◼️
-
-[Data](articles/b7d52295.json)
-
-[Extended Data](ext_articles/b7d52295.ext.json)
-
----
-
-### Election Commission summons IGP, Govt Printer and Postmaster General
-
-*2024-07-09 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/100382/election-commission-summons-igp-govt-printer-and-postmaster-general-) · `en`
-
-The Inspector General of Police (IGP), Postmaster General and the Government Printer have been summoned to the Election Commission today (9) to discuss matters related to the upcoming presidential election.
-
-The Chairman of the Election Commission, R.M.A.L. Rathnayake, stated that the relevant parties have been called to address the basic issues related to the presidential election.
-
-Accordingly, the Government Printer and the Postmaster General are scheduled to arrive at the Election Commission today (9), while the IGP is slated to arrive in the coming days.
-
-According to the Constitution, the Election Commission will have the authority to announce the presidential election after July 17.
-
-Rathnayake mentioned that they hope to discuss the fundamental issues regarding the conducting of the presidential election during these meetings.
-
-...
-
-[Data](articles/221e61ba.json)
-
-[Extended Data](ext_articles/221e61ba.ext.json)
 
 ---

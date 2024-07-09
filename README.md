@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 14:20:05**
+As of **2024-07-09 14:35:13**
 
 ## Newspaper Stats
 
-*Scraped **34,383** Articles*
+*Scraped **34,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,58 +13,130 @@ colombotelegraphcom | 321
 bbccomsinhala | 336
 newsfirstlk | 363
 islandlk | 1,936
-economynextcom | 2,023
+economynextcom | 2,028
 dailyftlk | 2,146
 adalk | 3,087
-adaderanalk | 3,944
+adaderanalk | 3,946
 tamilmirrorlk | 4,090
 dailymirrorlk | 4,733
 virakesarilk | 5,371
-adaderanasinhalalk | 5,722
+adaderanasinhalalk | 5,723
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,379 (100.0%) of 34,383 articles have been extended.
+34,383 (100.0%) of 34,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### 60 % எம்.பி.க்கள் என் நண்பர்கள்: ’கிளப் வசந்த’
+### Saudi Arabia to grant citizenship to global experts
+
+*2024-07-09 14:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100394/saudi-arabia-to-grant-citizenship-to-global-experts) · `en`
+
+To attract bright minds to the Saudi community, Saudi Arabia has approved granting citizenship to scientists, doctors, researchers, entrepreneurs, and other individuals with rare skills, experience, and specializations. This aims to bolster its economic, health, cultural, sports, and innovation sectors.
+
+The move is a significant change in direction for a country whose economy relies heavily on expatriates, for whom residency is typically contingent on their employment visas.
+
+“The announcement is made in line with the issued Royal decree to grant Saudi citizenships to experts and exceptional global talents with unique competencies in religious, medical, scientific, cultural, sports, and technological fields, contributing to the development of various sectors throughout the kingdom, and in support of achieving its Vision 2030 goal, of creating an attractive environment that enables attracting, investing in and retaining exceptional creative minds,” noted Saudi Press Agency.
+
+...
+
+[Data](articles/6022ed27.json)
+
+---
+
+### Maldives President seeks parliament approval for cooperation with Sri Lanka on criminal cases
+
+*2024-07-09 14:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100393/-maldives-president-seeks-parliament-approval-for-cooperation-with-sri-lanka-on-criminal-cases) · `en`
+
+The President of Maldives Dr Mohamed Muizzu has sent a letter to Maldives Parliament seeking approval for collaboration with Sri Lanka in criminal investigations.
+
+The letter said the agreement is being made to further strengthen ties between the countries, and to provide mutual assistance in criminal investigation cases, foreign media reported.
+
+Under the agreement, maximum assistance will be provided to investigate criminal cases within the laws and regulations of each country, and to carry out the criminal justice process.
+
+The letter said that the government had decided on June 2 to enter the ‘Treaty between The Government of The Republic of Maldives and The Government of The Democratic Socialist Republic of Sri Lanka on Mutual Legal Assistance in Criminal Matters’, and added that parliament approval is needed to do so.
+
+...
+
+[Data](articles/3f1c7fa8.json)
+
+---
+
+### 60 % MPs My Friends: Telephone Club Spring
 
 *2024-07-09 14:03:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/60-எம்-பி-க்கள்-என்-நண்பர்கள்-கிளப்-வசந்த/175-340093) · `ta`
 
-அத்துருகிரிய ஒருவல சந்தியில்  திங்கட்கிழமை (08) பிற்பகல் வேளையில் இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் பிரபல வர்த்தகரான 'கிளப் வசந்த' என்றழைக்கப்படும் உரேந்திர வசந்த பெரேரா கொல்லப்பட்டார். அவருடன் மற்றுமொருவரும் மரணமடைந்துள்ளார்.
+In a tragic incident, Urandra Vasantha Perera, aka 'Club Vasantha,' was shot dead along with another individual at Athurugiriya junction. Singer K. Sujeeva and two others were injured. Notably, Sujeeva claimed to have over 60% of MPs as friends.
 
-இந்த துப்பாக்கிச் சூட்டு சம்பவத்தில்  பாடகர் கே.சுஜீவா உட்பட மூவர் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். அவர், லங்காதீபவுக்கு அண்மையில் வழங்கிய செவ்வியில், 60 சதவீதத்துக்கும் அதிகமான எம்.பிக்கள், தன்னுடைய நண்பர்கள் என்று தெரிவித்துள்ளார்.
+🟩
+
+Urandra Vasantha Perera, known as 'Club Vasantha', was killed in the shooting incident at the Athurugiriya junction on Monday afternoon (08) afternoon.. Another person with him has died.
+
+Three persons, including singer K. Sujeeva, have been admitted to hospital with injuries in the shooting incident.. He recently presented to Ladalipa that more than 60 per cent of MPs are his friends.
 
 ◼️
 
 [Data](articles/91ffb8ce.json)
 
+[Extended Data](ext_articles/91ffb8ce.ext.json)
+
 ---
 
-### බයිඩන් ජනපති සටනින් ඉවත්විය යුතු බවට  ඩිමොක්‍රටික් පක්ෂයෙන්ම මතයක්
+### බුද්ධ දේශනාව සහ විද්‍යාත්මක ලෝකය අතර සම්බන්ධතාව සොයා බැලීමට නව ආයතනයක්
+
+*2024-07-09 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198636) · `si`
+
+අද ලෝකය ඉදිරිපත්කරන අලුත් මත බුද්ධ දේශනාව තුළ අන්තර්ගත වී තිබෙනවා. අද අප සිටින්නේ විද්‍යාව සහ ධර්මය යන දෙකම එකට මුණ ගැසෙන සංධිස්ථානයකයි.
+
+බුද්ධ දේශනාව සහ විද්‍යාත්මක ලෝකය අතර තිබෙන සම්බන්ධතාව සොයා බැලීමට නව ආයතනයක් වසරක් තුළ පිහිටුවීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+අමරපුර දින ආදිකර්තෘ සැමරුම් උත්සවයට ඊයේ (08) එක්වෙමින් ජනාධිපතිවරයා එම අදහස් පළකළේය.
+
+ශ්‍රී ලංකා අමරපුර මහා නිකායේ අමරපුර දින ආදිකර්තෘ සැමරුම් උත්සවය සබරගමු පළාත් සභා ශ්‍රවණාගාරයේදී ඊයේ පැවැත්වුණි.
+
+වසර 222ක් පුරා සම්බුද්ධ ශාසනය වෙනුවෙන් සුවිශාල මෙහෙවරක් සිදුකළ සියලුම ආදිකර්තෘ වහන්සේ සිහිකරමින් අමරපුර දිනය සමරනු ලබයි.
+
+"අද අප සිටින්නේ විද්‍යාත්මක හා තාක්ෂණික ලෝකයකයි. සිතාගත නොහැකි අන්දමින් අද ලෝකය වෙනස් වී තිබෙනවා. විශේෂයෙන්ම මුළු ලෝකයම කෘතිම බුද්ධිය පිළිබඳ අවධානය යොමු කර තිබෙන අවස්ථාවක අපත් ඒ පිළිබඳ අවධානය යොමු කළ යුතුයි. තවත් වසර 05-10ක් යන විට කෘතීම බුද්ධි තාක්ෂණය සහ මනස අතර තිබෙන සම්බන්ධය පිළිබඳ අපට පුළුල් අවධානයක් යොමු කිරීමට සිදුවෙනවා.
+
+...
+
+[Data](articles/3a75c8f4.json)
+
+---
+
+### Democratic opinion that Bidaman should quit the President
 
 *2024-07-09 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198635) · `si`
 
-අමෙරිකානු වත්මන් ජනාධිපති ජෝ බයිඩන් මෙවර ජනාධිපතිවරණ සටනෙන් ඉවත්විය යුතු බවට එම පක්ෂය තුළින්ම මතවාදයක් ගොඩනැගී තිබේ.
+Some Democrats argue that due to his age and health concerns, including Parkinson's disease, Joe Biden should not seek re-election. Critics question his fitness for office, while supporters defend his experience and leadership. The debate intensifies as the November election approaches, with some fearing a potential loss to Trump.
 
-ඒ බයිඩන් වයස්ගත බවට සහ ඔහු පාකින්සන් රෝගයෙන් පෙළෙන බවට එල්ලවන චෝදනා මුල්කරගෙනයි.
+🟩
 
-81 හැවිරිදි වත්මන් අමෙරිකානු ජනාධිපති ජෝ බයිඩන් ලබන නොවැම්බර් මාසයේදී පැවැත්වෙන අමෙරිකානු ජනාධිපතිවරණයට ඉදිරිපත්වීමට සූදානමින් පසු වේ.
+The United States has created an ideological ideology in the party that US President Joe Biden should quit the presidential election.
 
-ඩිමොක්‍රටික් පක්ෂයේ මීළඟ ජනාධිපති අපේක්ෂකයා ලෙස ඔහුට හිමිව තිබූ සහාය කෙමෙන් පහත වැටෙමින් පවතින්නේ වයස්ගත බයිඩන් ඊට නුසුදුසු බවට පක්ෂය තුළම කතාබහක් නිර්මාණය වී තිබීම හේතුවෙනි.
+It was the aged as Biday and the charges that he was suffering from Parkinson.
 
-මෙම ආන්දෝලනයට මුල්වූයේ පසුගිය ජූනි 27 වැනිදා බයිඩන් සහ රිපබ්ලිකන් අපේක්ෂක හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් අතර පැවති ජනාධිපතිවරණ අපේක්ෂක විවාදයයි.
+The 81-year-old American President Joe Biden is ready to contest the American presidential election in November.
 
-එහිදී ට්‍රම්ප් හමුවේ බයිඩන් දැක්වූ අසාර්ථකභාවය සමඟ ඔහු පක්ෂයේ මීළඟ අපේක්ෂකයා වීමට සුදුසු ද යන්න එම පක්ෂයේ ඉහළ තනතුර අතර ඇතිවූ කතාබහ කෙතරම් ද යත්, තමන් මැතිවරණ සටනින් ඉවත්කළ හැක්කේ දෙවියන්ට පමණක් බව පැවසීමට බයිඩන්ට සිදුවීමෙන්ම පැහැදිලි වන බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+He is declining as the support of the Democratic Party as the old presidential candidate, that the older Biden was inappropriate in the party.
+
+The controversy was the presidential election campaign between former president's candidate Donald Trump on June 27.
+
+According to foreign media reports, the top of the party would be able to be the failure of the party with the failure of the party with the failure of the party with the failure of the party in the face of Trump.
+
+Many parties are questioning Bidesen's elderly, and some point out that he suffers from Parkinson.
+
+If Bidain's election battle is quitting, he is questionable for what the candidate is.
 
 ...
 
 [Data](articles/aca5a859.json)
+
+[Extended Data](ext_articles/aca5a859.ext.json)
 
 ---
 
@@ -87,6 +159,30 @@ The suspects will be further questioned under detention orders as the Police Nar
 ◼️
 
 [Data](articles/09befb7f.json)
+
+[Extended Data](ext_articles/09befb7f.ext.json)
+
+---
+
+### Karu Jayasuriya appointed Chair of Sri Lanka’s Former Parliamentarians’ Caucus
+
+*2024-07-09 13:41:00* · [`economynextcom`](https://economynext.com/karu-jayasuriya-appointed-chair-of-sri-lankas-former-parliamentarians-caucus-171402/) · `en`
+
+ECONOMYNEXT — Former Speaker Karu Jayasuriya has been appointed as the chair of Sri Lanka’s Former Parliamentarians’ Caucus.
+
+Parliament said in a statement on Monday July 08 that Jayasuriya’s appointment was made unanimously at the first meeting of the caucus which was held at the parliament complex recently.
+
+The meeting had been chaired by Speaker Mahinda Yapa Abeywardana. Jayasuriya’s name was proposed by the former Deputy Speaker Thilanga Sumathipala and former Member of Parliament Sumedha G Jayasena, the statement said.
+
+Former MP Shantha Premaratne was appointed as the convener of the caucus, also unanimously.
+
+Secretary General of the Parliament Kushani Rohanadeera and Assistant General Secretary Hansa Abeyratne were also present at this meeting, the statement said.
+
+Rohanadeera has said at a discussion at the meeting that Secretariat of the Parliament is working to resolve is working to resolve issues faced by former parliamentarians.
+
+...
+
+[Data](articles/4445cb88.json)
 
 ---
 
@@ -116,17 +212,23 @@ The Bribery Police were arrested by the Bribery Commission on suspicion of a bri
 
 ---
 
-### ’அஸ்வெசும’: அதிரடி அறிவிப்பு வெளியானது
+### Model Aswesum: Action Notification Released
 
 *2024-07-09 13:24:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-அதிரடி-அறிவிப்பு-வெளியானது/175-340092) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் ஆலோசனைக்கமைய முன்னெடுக்கப்படும் 'அஸ்வெசும' வேலைத் திட்டத்தின் முதல் கட்டத்தில் தகுதிபெற்ற 18 இலட்சத்திற்கும் அதிகமானோருக்கு மேலதிகமாக இரண்டாம் கட்டத்தில் மேலும் 450,924 விண்ணப்பங்கள் கிடைத்துள்ளன.
+"Phase two of Sri Lanka's 'Assuma' program, advised by President Ranil Wickremesinghe, processed over 450,000 additional applications, bringing total applicants to over 1.8 million. The Welfare Council will select eligible recipients for welfare services from July 15-30."
 
-இவற்றில், நலன்புரிச் சேவைகளைப் பெறத் தகுதியானவர்களைத் தேர்ந்தெடுத்து, தகவல் சரிபார்க்கும் பணிகள் ஜூலை 15ஆம் திகதி முதல் 30ஆம் திகதி வரை முன்னெடுக்கப்படும் என நலன்புரிச் சபை அறிவித்துள்ளது
+🟩
+
+In the first phase of the 'Assuma' program, which will be carried out on the advice of President Ranil Wickremesinghe, more than 18 lakhs have received a further 450,924 applications in the second phase.
+
+Of these, the Welfare Council has announced that it will be carried out from July 15 to 30, selecting and checking out those who are eligible to receive welfare services.
 
 ◼️
 
 [Data](articles/8bd919a4.json)
+
+[Extended Data](ext_articles/8bd919a4.ext.json)
 
 ---
 
@@ -266,6 +368,26 @@ However, the train has not begun and the train has not begun and it will take se
 
 ---
 
+### Shanmugam Kugathasan sworn in as new MP in Sri Lanka parliament
+
+*2024-07-09 12:41:00* · [`economynextcom`](https://economynext.com/shanmugam-kugathasan-sworn-in-as-new-mp-in-sri-lanka-parliament-171400/) · `en`
+
+ECONOMYNEXT — Shanmugam Kugathasan of the Illankai Tamil Arasu Kadchi (ITAK) took oaths as a Member of Parliament today, filling the vacancy left by the demise of former opposition leader R Sampanthan.
+
+The new MP, who represents the Trincomalee district,  was sworn in before Speaker Mahinda Yapa Abeywardena in parliament Tuesday July 09 morning.
+
+Sampanthan, who Kugathasan replaces in the legislature, was the leader of the Tamil National Alliance, of which ITAK is the key constituent party.
+
+Mr. Kathiravelu Shanmugam Kugathasan was sworn in as a member of the 9th Parliament before the Speaker Hon. Mahinda Yapa Abeywardana today (July 09).
+
+A statement from parliament said MP Kugathasan completed his higher education from the university of Colombo and Madurai Kamaraj University, India.
+
+...
+
+[Data](articles/4e17ec70.json)
+
+---
+
 ### If suspicion can appeal to: Court
 
 *2024-07-09 12:25:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/சந்தேகம்-என்றால்-தனிப்பட்டு-முறையிடலாம்-நீதிமன்றம்/95-340085) · `ta`
@@ -341,6 +463,28 @@ Magistrate Kosala Senadheera added that the Kompanideru police have already repo
 [Data](articles/ccd74bbe.json)
 
 [Extended Data](ext_articles/ccd74bbe.ext.json)
+
+---
+
+### Sri Lanka teacher salary hike, graduates drive up wage bill in 2023 as other sectors fall
+
+*2024-07-09 12:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-teacher-salary-hike-graduates-drive-up-wage-bill-in-2023-as-other-sectors-fall-171397/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s government salary bill fell to 939 billion rupees in 2023 from 956 billion amid a hiring and wage freeze but provincial council salary costs went up due to teachers and graduates, official data showed.
+
+The central government salary bill fell to 327.29 billion rupees in 2023 down from 367.4 billion rupees in 2022, as retirees were not replaced and wages were frozen.
+
+But the transfers for wages of provincial councils went up 10 percent to 300.2 billion rupees, from 268.8 billion rupees.
+
+“This increase was mainly due to the impact of salary increase given to the Teachers in 2022 and the salaries of the graduates attached to Provincial Councils which were borne by the Provincial Councils Budget in 2023,” the 2023 Final budget report said.
+
+The teacher salary increment in a 2022 budget after teachers  was paid in stages in 2022 and 2023.
+
+In 2024, after taxing the public to high levels, a 10,000 rupee salary hike was given to all state workers.
+
+...
+
+[Data](articles/6c1f0f83.json)
 
 ---
 
@@ -522,6 +666,26 @@ It is noteworthy that Kalpitiya police have filed a case against MP Ali Sabri Ra
 
 ---
 
+### Sri Lanka opposition leader bats for teacher jobs for unemployed graduates
+
+*2024-07-09 11:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-leader-bats-for-teacher-jobs-for-unemployed-graduates-171373/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Opposition leader has asked the government to give public sector jobs to 50,000 unemployed graduates, despite the country having a bloated state service sector, and an ongoing strike today by public servants demanding salary increases.
+
+“We have around 50,000 unemployed graduates in the country. Is the government going to give them appointments, I would like to know, or send them to the jobless queue?” Sajith Premadasa said in parliament on Tuesday.
+
+Premadasa said there was a teacher shortage of 40,000 vacancies.
+
+“Just because they are graduates, they can’t be made teachers,” Education Minister Susil Premajayantha said in reply. “It is unfair by them and even more unfair on the student.
+
+Sri Lanka’s teacher service charter specifies that recruits have to sit for a competitive exam and obtain a specific pass mark, and that their qualification match the subject, the minister said.
+
+...
+
+[Data](articles/8ad7eba1.json)
+
+---
+
 ### Public sector employees including teachers and postal workers report ‘sick’
 
 *2024-07-09 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100389/-public-sector-employees-including-teachers-and-postal-workers-report-sick) · `en`
@@ -675,6 +839,26 @@ The suspect was produced before the Vavuniya Magistrate's Court on the 7th of Ju
 [Data](articles/f1490aa9.json)
 
 [Extended Data](ext_articles/f1490aa9.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 304.20/35 to US dollar
+
+*2024-07-09 10:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-304-20-35-to-us-dollar-171344/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened relatively stronger at 304.20/35 to the US dollar on Tuesday, while bond yields were broadly steady, and stocks opened 0.19 percent down, dealers said.
+
+A bond maturing on 15.12.2026 was quoted stable at 10.75/85 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.85/90 percent, up from 11.80/90 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.00/05 percent, up from 11.98/12.08 percent.
+
+In equities, Colombo’s All Share Price Index opened 22.98 points lower at 11,818, while the S&P SL20 of more liquid stocks opened down at 0.35 percent or 12.19 points to 3,457.
+
+◼️
+
+[Data](articles/35f4a329.json)
 
 ---
 
@@ -2127,191 +2311,5 @@ LPL organizers have also banned the slippers of players in the stadium until the
 [Data](articles/48e0f968.json)
 
 [Extended Data](ext_articles/48e0f968.ext.json)
-
----
-
-### Athurugiriya shooting: Another vehicle used by suspects found
-
-*2024-07-08 21:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100380/athurugiriya-shooting-another-vehicle-used-by-suspects-found-) · `en`
-
-A van believed to have been used by the suspects involved in the shooting incident at Athurugiriya this morning (08) has been recovered by police in the Bulathsinhala area.
-
-Based an information received by ‘119’ police emergency hotline today (8) at around 6.15 p.m., the van was discovered in an abandoned property in the Ayagama area of Bulathsinhala.
-
-Reportedly, the van had been driven from Ayagama to Bulathsinhala.
-
-It has been reported that the van in question does not have both front and rear license plates and a copy of the revenue licence is also pasted in the windshield.
-
-The shooting incident was reported this morning (08) at Athurugiriya during an opening ceremony of a beauty salon.
-
-During the incident, 55-year-old Surendra Wasantha Perera, also known as “Club Wasantha”, and a 38-year-old male were killed while four others were injured and hospitalised.
-
-Two females including popular singer K. Sujeewa and another male were injured during the incident.
-
-...
-
-[Data](articles/f19d3635.json)
-
-[Extended Data](ext_articles/f19d3635.ext.json)
-
----
-
-### Shooters found a van
-
-*2024-07-08 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198614) · `si`
-
-A van linked to a shotgun attack in Athurugiriya was discovered in Bulathsinhala, missing its number plates. The incident occurred around 10 am when a businessman, Surandra Wasantha Perera, and others, including a singer, were targeted.
-
-🟩
-
-A van used to flee the shotguns in the Athurugiriya was found in the Bulathsinhala Police Division.
-
-The van was found in a deserted land in Bulathsinhala, Ayagama, Ayagama, Bulathsinhala, Ayagama, about 6.15 pm today.
-
-It has been reported that the van has come to the Ayagama to Bulathsinhala, our correspondent said.
-
-There are no front and rear number plates on the van and the revenue license copy is pasted in the front glass.
-
-The shooting took place around 10 am today at the opening of a beauty firm near the clock tower in Athurugiriya town.
-
-Surandra Wasantha Perera alias, or 38, was killed in a famous businessman who shoot shooting.
-
-They are residents of Colombo 07 and Athurugiriya, police said.
-
-The shooting was also wounded by a famous singer Kueli Ku Pueva and two others were injured.
-
-◼️
-
-[Data](articles/de750f67.json)
-
-[Extended Data](ext_articles/de750f67.ext.json)
-
----
-
-### Time for people tomorrow evening
-
-*2024-07-08 20:35:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-நாளை-மாலை-வரை-அவகாசம்/175-340046) · `ta`
-
-Oral comments on the 2024 electricity tariff proposal will be accepted tomorrow (09) from 9 am to 4.30 pm at the Bandaranaike Conference Hall.
-
-🟩
-
-People's oral comments on the second proposed electricity tariff for 2024 will be held tomorrow (09).
-
-The Commission said in a statement that these comments will be accepted at the Bandaranaike Conference Hall from 9 am to 4.30 pm tomorrow.R
-
-◼️
-
-[Data](articles/0cdb70c5.json)
-
-[Extended Data](ext_articles/0cdb70c5.ext.json)
-
----
-
-### Digital ticket to Sri Lanka
-
-*2024-07-08 20:28:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-டிஜிட்டல்-பயணச்-சீட்டு/175-340045) · `ta`
-
-Sri Lanka plans to launch a digital ticketing system for public transport by year-end, aiming to modernize its railway and bus services.
-
-🟩
-
-Secretary of the Ministry of Transport and Highways Ranjith Ganganath Rupasinghe said that a digital distribution system for public transport tickets, including railways, will be introduced by the end of this year.. Remble
-
-◼️
-
-[Data](articles/1a1c705e.json)
-
-[Extended Data](ext_articles/1a1c705e.ext.json)
-
----
-
-### Pulse awarded ‘Social Media Channel of the Year’
-
-*2024-07-08 20:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100379/pulse-awarded-social-media-channel-of-the-year) · `en`
-
-Sri Lanka’s leading lifestyle platform ‘Pulse.lk’ has been presented with the award for the ‘Social Media Channel of the Year’ at the 5th New Generation Asia Awards 2024 organized by the National Youth Services Council (NYSC) and held in Colombo on Monday.
-
-◼️
-
-[Data](articles/160c330b.json)
-
-[Extended Data](ext_articles/160c330b.ext.json)
-
----
-
-### 18 percent tax on the egg
-
-*2024-07-08 20:11:34* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තරයට-සියයට-18ක-බද්දක්/11-410683) · `si`
-
-Ratnasiri Alahakoon, Secretary of the All Ceylon Egg Manufacturers' Association, announced the government's decision to impose an 18% VAT on eggs, affecting consumers and potentially endangering 5,000 jobs. This marks the first time in the country's history that such a tax has been applied to eggs, impacting both farmers and the poultry industry. Despite this, the government has not offered any concessions to support the local egg industry, leading to concerns about its future.
-
-🟩
-
-According to the Secretary of the All Ceylon Egg Manufacturers Association Ratnasiri Alahakoon, the Secretary of the All Ceylon Egg Manufacturers' Association Ratnasiri Alahakoon, the government of alliances can increase an 18% VAT.
-
-As a result, he said that the consumer had lost the opportunity to buy an egg.
-
-The Secretary of the Association points out that the VAT is also in danger of 5,000 animals.
-
-He claimed that VAT is implemented in the history of the country for the eggs, he said that the VAT is the first time in the history of the country and the farmers from the poultry industry, as well as the industry is lost to the industry.
-
-The secretary says that the government is not able to provide any concessions to VAT to develop the industry for local eggs, but the local maize is Rs. 110 at Rs.He added that the price of rice has increased to Rs. 140 and Rs.
-
-He added that the government's gazette and the government leased to the egg and the people of Sri Lanka have been leased to the egg.
-
-◼️
-
-[Data](articles/aad6f6fc.json)
-
-[Extended Data](ext_articles/aad6f6fc.ext.json)
-
----
-
-### Health is working next week
-
-*2024-07-08 20:05:16* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍යයත්-ලබන-සතියේදී-වැඩ-වරයි/11-410682) · `si`
-
-The Health Trade Union Alliance plans to implement professional procedures from next week to address economic injustices affecting health staff. The government has pledged to fulfill its commitments outlined in the Economic Report, including providing the remaining portion of the first part of the agreement. Despite financial challenges, the government recognizes the need for economic justice in healthcare and is taking steps to address this issue.
-
-🟩
-
-The Health Trade Union Alliance states that professional procedures have been decided to obtain the remaining part of the health staff under the outstanding economic justice.
-
-The convener of the UPFA Ravye is the convener that the government has promised to provide the remainder of the first part after the technical report prepared by the Economic Report.. He said.
-
-Accordingly, the government is planned to carry out professional procedures since the next week and is the government's recognition, but the government is recognized as the government's recognition, but the proposal that the government is recognized as a result of the unhealthy financial situation in the country.Said that he did
-
-However, the government has then established the economic inconvenience of the Government's economic uncomfortable in order to do the economic justice of the health staff.It is said that various professional action is being carried out against.
-
-...
-
-[Data](articles/dac784b0.json)
-
-[Extended Data](ext_articles/dac784b0.ext.json)
-
----
-
-### Two opposition MP attends the government soon
-
-*2024-07-08 20:02:14* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂ-මන්ත්‍රී-දෙන්නෙක්-ළඟදීම-ආණ්ඩුවට---විපක්ෂයම-තහවුරු-කරයි/11-410681) · `si`
-
-Two opposition MPs in Sri Lanka's Kalutara and Gampaha districts are set to join the government, reportedly for financial incentives. This move has sparked controversy, with critics labeling it as political suicide and questioning the motives behind such decisions. The MPs' switch is seen as a betrayal of the opposition, highlighting a deeper issue of politicians prioritizing personal gain over party loyalty and public service.
-
-🟩
-
-Two politicians representing the opposition in the opposition and Kalutara parliament are preparing to join ministerial and borrowers and knowing that they are paid to dollars.
-
-He was speaking at a media briefing held at the Colombo Opposition Office yesterday (08).
-
-Speaking further MP Harshana Rajakaruna said so.
-
-Intercourse with another two weeks, a large number of people will be joined with another reservoir. Now I say this join the opposition. They have come to the opposition and to strengthen the opposition alliance. But one of two men talks about the opposition, money, other privileges, benefits, to join the government because of other privileges and benefits. Is to give together. Not much. One says in Gampaha, the other person says in Kalutara.
-
-...
-
-[Data](articles/9575420b.json)
-
-[Extended Data](ext_articles/9575420b.ext.json)
 
 ---

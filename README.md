@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 10:53:57**
+As of **2024-07-09 11:05:41**
 
 ## Newspaper Stats
 
-*Scraped **34,354** Articles*
+*Scraped **34,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,936
 economynextcom | 2,023
 dailyftlk | 2,146
 adalk | 3,083
-adaderanalk | 3,939
-tamilmirrorlk | 4,083
+adaderanalk | 3,941
+tamilmirrorlk | 4,084
 dailymirrorlk | 4,733
 virakesarilk | 5,365
 adaderanasinhalalk | 5,715
@@ -26,11 +26,65 @@ adaderanasinhalalk | 5,715
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,353 (100.0%) of 34,354 articles have been extended.
+34,354 (100.0%) of 34,357 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### Public sector employees including teachers and postal workers report ‘sick’
+
+*2024-07-09 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100389/-public-sector-employees-including-teachers-and-postal-workers-report-sick) · `en`
+
+Over 200 public sector trade unions, including Grama Niladhari officers and surveyors will continue their trade union action by reporting ‘sick leave’ for the second consecutive day today (09).
+
+The State and Provincial Public Service Unions Collective launched a trade union action to report ‘sick leave’ yesterday (08) demanding an allowance of Rs. 25,000 for all public sector employees, similar to that was given for the executive officers.
+
+Accordingly, government officials across several sectors did not show up for work yesterday leading to a significant disruption in the daily operations of these institutions including the Department of Registration of Persons and Immigration Department.
+
+In support of this action, the postal workers began a strike action last Sunday (07). The co-convener of the United Postal Trade Unions’ Front Chinthaka Bandara mentioned that their strike will continue until midnight today.
+
+...
+
+[Data](articles/ec4b214a.json)
+
+---
+
+### Storm Beryl kills three, knocks out power for 2.7 million in Texas
+
+*2024-07-09 10:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100388/storm-beryl-kills-three-knocks-out-power-for-27-million-in-texas) · `en`
+
+Tropical Storm Beryl brought howling winds and torrential rain to southeast Texas on Monday, killing at least three people, flooding highways, closing oil ports, canceling more than 1,300 flights and knocking out power to more than 2.7 million homes and businesses.
+
+Beryl, the season’s earliest Category 5 hurricane on record, weakened from a hurricane after pounding the coastal Texas town of Matagorda with dangerous storm surges and heavy rain before moving across Houston, the U.S. National Hurricane Center (NHC) said. The agency said conditions could spawn tornadoes in Texas, Louisiana and Arkansas.
+
+The storm, which was expected to rapidly weaken as it moved inland, swept a destructive path through Jamaica, Grenada, and St. Vincent and the Grenadines last week. It killed at least 11 in Mexico and the Caribbean and before reaching Texas, Lieutenant Governor Dan Patrick told reporters.
+
+...
+
+[Data](articles/8a4d18fe.json)
+
+---
+
+### அமெரிக்காவில் வேலை வாங்கித் தருவதாகக் பண மோசடி
+
+*2024-07-09 10:33:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்காவில்-வேலை-வாங்கித்-தருவதாகக்-பண-மோசடி/175-340075) · `ta`
+
+அமெரிக்காவில் வேலை வாங்கித் தருவதாகக் கூறி பணம் மோசடி செய்த பெண்ணொருவர்  இலங்கை வெளிநாட்டு வேலைவாய்ப்புப் பணியகத்தின் விசேட புலனாய்வுப் பிரிவினரால் வவுனியா பிரதேசத்தில் கைது செய்யப்பட்டுள்ளார்.
+
+வவுனியா போகஸ்வெவ பகுதியைச் சேர்ந்த பெண்ணொருவர் 10 இலட்சம் ரூபாயை பெற்றுக்கொண்டு மோசடி செய்ததாக, கம்பஹா பிரதேசவாசி ஒருவர் பணியகத்தின் விசேட புலனாய்வுப் பிரிவில் அண்மையில் முறைப்பாடு செய்திருந்தார்.
+
+சந்தேக நபர் தொடர்பில் பணியகத்துக்கு 5 முறைப்பாடுகள் கிடைக்கப்பெற்ற நிலையில்,  விசாரணை அதிகாரிகள் குறித்த பெண்ணின் வீட்டுக்குச் சென்று கைது செய்துள்ளனர்.
+
+அத்துடன், முறைப்பாடுகளின் பிரகாரம், பணியகத்தின் விசேட புலனாய்வுப் பிரிவின் அதிகாரிகள், கொழும்பு புதுக்கடை நீதிமன்றில் குறித்த பெண்ணுக்கு எதிராக வழக்குத் தாக்கல் செய்துள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் வவுனியா நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட நிலையில், எதிர்வரும் 12ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு உத்தரவிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/a1e0a3a0.json)
+
+---
 
 ### Govt. accused of gender bias in appointing Acting Attorney General
 
@@ -45,6 +99,8 @@ Furthermore, Kaviratne criticized the government, pointing out that it has been 
 ◼️
 
 [Data](articles/54cc09db.json)
+
+[Extended Data](ext_articles/54cc09db.ext.json)
 
 ---
 
@@ -2225,75 +2281,5 @@ In addition, the body will be taken to the hospital with a court order and is se
 [Data](articles/f0914c70.json)
 
 [Extended Data](ext_articles/f0914c70.ext.json)
-
----
-
-### Sajith Premadasa opened electronic classrooms in Mannar
-
-*2024-07-08 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/187973) · `ta`
-
-Sajith Premadasa launched Smart Classrooms in Mannar schools, including Dharapuram, Tarapuram, and Siddhivinayagar, as part of his initiative. The event, attended by Opposition Leader MP Sajith Premadasa and parliamentarian Rishad Bathiudeen, also saw the provision of English books for school libraries.
-
-🟩
-
-The Smart Class Room program was held on Monday (8) through the Opposition Leader MP Sajith Premadasa's universe program.
-
-During this time, the Smart Class Room, which was set up in the schools of Dharapuram, Tarapuram and Siddhivinayagar, was opened and handed over to the students.
-
-Opposition leader Sajith Premadasa inaugurated the SMART classrooms with parliamentarian Rishad Bathiudeh.
-
-In addition, a volume of English books required for the libraries of the schools have been provided and Rs.
-
-◼️
-
-[Data](articles/d5f2378c.json)
-
-[Extended Data](ext_articles/d5f2378c.ext.json)
-
----
-
-### K. Sujeewa’s condition is stable - National Hospital
-
-*2024-07-08 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100376/k-sujeewas-condition-is-stable-national-hospital) · `en`
-
-The two patients who were transferred to the Colombo National Hospital after being injured in the shooting at Athurugiriya are currently receiving treatment in the hospital’s Intensive Care Unit (ICU), according to Deputy Director of the Colombo National Hospital Dr. Rukshan Bellana.
-
-He further mentioned that a woman and a man were admitted to the Emergency Treatment Unit and both of them had sustained injuries from the waist down.
-
-Dr. Bellana also said that although the wound on the woman’s leg is quite serious, her condition is now in a stable level.
-
-He stated that she was subjected to a three-hour-long surgery and is currently in the intensive care unit as her injury is somewhat serious.
-
-Popular singer K. Sujeewa and another male, who were injured in the shooting, are being treated at the Colombo National Hospital while another two wounded women are being treated at the Homagama Hospital.
-
-...
-
-[Data](articles/1d1b0ac4.json)
-
-[Extended Data](ext_articles/1d1b0ac4.ext.json)
-
----
-
-### Nonsense. Parthiban's 'Teens' image tweaks
-
-*2024-07-08 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/187976) · `ta`
-
-Upcoming film "Teens," set for global release on the 12th, features a mix of newcomers from Vararilam alongside seasoned actors. Directed by Ira Parthiban, it boasts a strong team including cinematographer T. Cevime, composer Imman, and producers Caldwell Vel Nambi, Dr. Balaswaminathan, Dr. Pinchi Srinivasan, and Ranjith Dandapani, with Parthiban co-producing. The soundtrack, penned by Parthiban himself, includes the song "Once Upon a Time" sung by Sunita Sarathi and Christopher Stanley, accompanied by its lyrical video.
-
-🟩
-
-Actor - Director - Producer - Poetry - Lyricist. Ikki Pikki, who is ready for the upcoming film 'Teens', which will be released in the world worldwide on the 12th of this month.. 'The song' and the lyrical video for the song have been released.
-
-Eight men and five females from Vararilam in the film 'Deens', directed by director Ira Parthiban, have made their debut as heroes of the story.. Cvemic Are is a cinematography by T.. Iman has composed music.
-
-Producers Caldwell Vel Nambi, Dr. Balaswaminathan, Dr Pinchi Srinivasan, Ranjith Dandapani. Parthiban has co -produced.
-
-The song 'Once Up on A Time', which is featured in the film, has been released as a song and a lyrical video for the song.. The song is the songwriter, poet and director Ira. Parthiban's writing, playback singer Sunita Sarathi and playback singer Christopher Stanley have sung. The song of the film is very good for the adolescents.
-
-◼️
-
-[Data](articles/c0e5aed3.json)
-
-[Extended Data](ext_articles/c0e5aed3.ext.json)
 
 ---

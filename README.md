@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 14:56:32**
+As of **2024-07-09 15:04:51**
 
 ## Newspaper Stats
 
-*Scraped **34,393** Articles*
+*Scraped **34,395** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 1,936
 economynextcom | 2,028
 dailyftlk | 2,146
 adalk | 3,088
-adaderanalk | 3,947
+adaderanalk | 3,948
 tamilmirrorlk | 4,090
 dailymirrorlk | 4,733
 virakesarilk | 5,371
-adaderanasinhalalk | 5,723
+adaderanasinhalalk | 5,724
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,391 (100.0%) of 34,393 articles have been extended.
+34,393 (100.0%) of 34,395 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### පාකිස්තාන සටන්කාමීන්ගෙන් ඉන්දීය හමුදාවට ප්‍රහාරයක්
+
+*2024-07-09 14:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198637) · `si`
+
+කාශ්මීර් ප්‍රදේශයට එල්ලවූ ත්‍රස්ත ප්‍රහාරයකින් ඉන්දීය හමුදා සාමාජිකයින් 05 දෙනෙකු මියගොස් තිබේ.
+
+හිමාල කඳුකර ප්‍රදේශයේදී හමුදා රථ පෙළක් ඉලක්ක කර ගනිමින් ප්‍රහාරය එල්ල කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+පාකිස්තාන සටන්කාමීන් යැයි සැකකෙරෙන පිරිසක් විසින් ප්‍රහාරය එල්ල කර ඇති බවට සැක කෙරෙන අතර ඉන්දීය ආරක්ෂක අංශ සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/b4a1369b.json)
+
+---
+
+### Bail rejected for CCD Inspector and Constable arrested over bribe
+
+*2024-07-09 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100396/bail-rejected-for-ccd-inspector-and-constable-arrested-over-bribe) · `en`
+
+The Colombo Magistrate’s Court rejected the bail application of the Police Inspector and the Constable attached to the Colombo Crimes Division (CCD), who were arrested by officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), while accepting a bribe of over Rs. 150,000.
+
+Colombo Chief Magistrate Thilina Gamage also ordered the suspects to be remanded in custody until July 23, when the relevant bail application was taken up today (09).
+
+During today’s proceedings, the CIABOC officers presented the cash which was accepted by the two suspected police officers at the time of their arrest.
+
+On Friday (05), the Bribery Commission apprehended the two suspects inside the CCD premises in Dematagoda. They had solicited a sum of Rs. 450,000 as a bribe and were apprehended while accepting the final payment of over Rs. 150,000 out of that.
+
+...
+
+[Data](articles/4227b887.json)
+
+---
 
 ### “Aswesuma” second phase information census to begin next week
 
@@ -45,6 +79,8 @@ A total of 1,854,000 individuals have qualified for the first phase of the “As
 ...
 
 [Data](articles/d93d9d48.json)
+
+[Extended Data](ext_articles/d93d9d48.ext.json)
 
 ---
 
@@ -418,19 +454,25 @@ A statement from parliament said MP Kugathasan completed his higher education fr
 
 ---
 
-### විදුලි ගාස්තු සංශෝධනය ගැන ජනතා අදහස් පව 4.30ක් ගනියි
+### People's opinion on electricity tariff revision
 
 *2024-07-09 12:28:51* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝධනය-ගැන-ජනතා-අදහස්-පව-4-30ක්-ගනියි/11-410689) · `si`
 
-මේ වර්ෂයට අදාළ දෙවැනි විදුලි ගාස්තු සංශෝධනය  සඳහා මහජන අදහස් විමසීම අද(09දා) සිදුකරන බව මහජන උපයෝගිතා කොමිසම සඳහන් කරයි.
+Public Utilities Commission plans to finalize electricity tariff revisions after public consultations today at the Bandaranaike Memorial International Conference Hall. The final decision is expected on the 15th of this month.
 
-මේ අනුව  මහජන උපදේශනයේ වාචික අදහස් ලබාගැනීම අද  පෙරවරු 8.30 සිට පස්වරු 4.30 දක්වා බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත‍්‍රණ ශාලාවේ දී සිදුවේ.
+🟩
 
-මහජන අදහස් විමසීම අවසන් වූ පසු, කොමිෂන් සභාව මේ මස  15 වැනි දින විදුලි ගාස්තු සංශෝධනය පිළිබඳ අවසාන තීරණය ප‍්‍රකාශයට පත් කිරිමට සැලසුම් කර තිබේ.
+The Public Utilities Commission states that public consulting will be held today (09).
+
+Accordingly, the oral views of public counselors will occur at the Bandaranaike Memorial International Conference Hall from 8.30 am to 4.30 am to 4.30 pm.
+
+Once the public consultation has been completed, the Commission is planning to declare the final decision on electricity tariffs on the 15th of this month.
 
 ◼️
 
 [Data](articles/fa402096.json)
+
+[Extended Data](ext_articles/fa402096.ext.json)
 
 ---
 
@@ -2283,35 +2325,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/c3935f1a.json)
 
 [Extended Data](ext_articles/c3935f1a.ext.json)
-
----
-
-### LOLC Technologies unveils Sri Lanka’s first LLm-based chatbot for banking and financial services
-
-*2024-07-08 22:41:00* · [`islandlk`](http://island.lk/lolc-technologies-unveils-sri-lankas-first-llm-based-chatbot-for-banking-and-financial-services/) · `en`
-
-In a groundbreaking move for the banking and financial services industry in Sri Lanka, LOLC Technologies has launched an AI-driven chatbot powered by a Large Language Model (LLM). This innovative development marks the first use of such cutting-edge technology in the local financial sector, setting a new benchmark for customer service and engagement.
-
-The newly introduced chatbot leverages the latest advancements in artificial intelligence to deliver seamless and natural conversations with customers. Unlike traditional chatbots that rely on pre-programmed scripts or menu base, these advanced chatbots use transformers, a deep learning architecture, to understand and respond to customers questions with exceptional context awareness.
-
-...
-
-[Data](articles/4ceb7b50.json)
-
-[Extended Data](ext_articles/4ceb7b50.ext.json)
-
----
-
-### AIA Insurance bags multiple wins at the 4A’s Advertising Awards 2024
-
-*2024-07-08 22:39:00* · [`islandlk`](http://island.lk/aia-insurance-bags-multiple-wins-at-the-4as-advertising-awards-2024-2/) · `en`
-
-AIA Insurance shone at the recently held 4A’s Advertising with a remarkable five awards recognising the company’s creative and engaging campaigns.
-
-...
-
-[Data](articles/da3300f4.json)
-
-[Extended Data](ext_articles/da3300f4.ext.json)
 
 ---

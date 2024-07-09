@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 13:06:02**
+As of **2024-07-09 13:19:50**
 
 ## Newspaper Stats
 
-*Scraped **34,374** Articles*
+*Scraped **34,376** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,66 @@ economynextcom | 2,023
 dailyftlk | 2,146
 adalk | 3,086
 adaderanalk | 3,942
-tamilmirrorlk | 4,087
+tamilmirrorlk | 4,088
 dailymirrorlk | 4,733
 virakesarilk | 5,371
-adaderanasinhalalk | 5,719
+adaderanasinhalalk | 5,720
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,372 (100.0%) of 34,374 articles have been extended.
+34,374 (100.0%) of 34,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### දුම්රිය පීලිපැනීමක්
+### ක්ලබ් වසන්ත ඝාතනයේ හෙළි වන රහස්
+
+*2024-07-09 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198633) · `si`
+
+සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඝාතනය කිරීමේ මෙහෙයුම ඩුබායීහී සැඟව සිටින ලොකු පැටී හා ගොනා කෝවිලේ ශාන්ත නැමැති අපරාධකරුවන් දෙදෙනා සෘජුවම එක්වී සැලසුම් කර ඇති බව පොලීසිය අනාවරණය කරගෙන තිබේ.
+
+ව්‍යාපාරිකයකු වන සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඊයේ (08) උදෑසන අතුරුගිරියේ පිහිටි ටැටූ මධ්‍යස්ථානයක් තුළ සිදුවූ වෙඩි තැබීමකින් ජීවිතක්ෂයට පත්වුණි.
+
+එම අවස්ථාවේ එහි සිටි ප්‍රසිද්ධ ගායන ශිල්පිනී කේ. සුජීවාගේ සහකරු වන නයන වාසුල නැමැත්තාද මියගිය අතර කේ. සුජීවා, ක්ලබ් වසන්තගේ බිරිඳ, තවත් කාන්තාවක් හා පිරිමි පුද්ගලයෙකු තුවාල ලබා රෝහල්ගත කෙරුණි.
+
+ඒ අනුව, බස්නාහිර දකුණ භාර නියෝජ්‍ය පොලිස්පති ගයංග මාරපන මහතාගේ සෘජු අධීක්ෂණය යටතේ බස්නාහිර දකුණ අපරාධ කොට්ඨාසය ඇතුළු පොලිස් කණ්ඩායම් 6ක් විමර්ශන ආරම්භ කළේය.
+
+එහි ප්‍රතිඵයක් ලෙස වෙඩික්කරුවන් පැමිණි මෝටර් රථය ඝාතනය සිදුවී සුළු වේලාවක් තුළ සොයාගත්තේ, කඩුවෙල, කොරතොට ප්‍රදේශයේ මාර්ගයක හැර දමාගොස් තිබියදීය.
+
+මෝටර් රථයේ පැමිණි පිරිස වෙනත් වෑන් රථයකින් කොරතොට සිට පළාගොස් තිබූ අතර එම වෑන් රථයද ඊයේ රාත්‍රියේදීම සොයාගැනුණි.
+
+...
+
+[Data](articles/d83be346.json)
+
+---
+
+### Railway Collection
 
 *2024-07-09 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198632) · `si`
 
-දුම්රිය පීලිපැනීමක් හේතුවෙන් මුහුදුබඩ දුම්රිය මාර්ගයේ ගමනාගමන කටයුතුවලට බාධා එල්ල වී තිබේ.
+Coastal railway traffic disrupted; train stranded near Colombo Fort. Two compartments damaged. Train service from Galle to Sivakwease affected. Normalcy expected after several hours.
 
-අද (09) පෙරවරුවේ පානදුර දුම්රිය ස්ථානයේ සිට කොළඹ කොටුව දක්වා පැමිණි දුම්රියක් කොටුව දුම්රිය ස්ථානය ආසන්නයේ දී එලෙස පීලිපැනීමට ලක්ව ඇති බව සඳහන්ය.
+🟩
 
-දුම්රිය මැදිරි දෙකක් එලෙස පීලිපැනීමට ලක්ව ඇති අතර ඒ හේතුවෙන් මුහුදුබඩ දුම්රිය මාර්ගයේ මාර්ග දෙකම අවහිර වී ඇති බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
+Traffic on the coastal railway line has been interrupted due to a railway line.
 
-ඒ හේතුවෙන් ගාල්ල දෙස සිට ධාවනය වන දුම්රිය කොම්පඤ්ඤවීදිය දුම්රිය ස්ථානය දක්වා පමණක් ගමන් කෙරේ.
+A train from the Panadura Railway Station to Colombo Fort this morning (09) was located near the Fort Railway Station.
 
-කෙසේවෙතත් මේ දක්වාත් දුම්රිය පීලිගත කිරීමේ කටයුතු ආරම්භ කර නොමැති අතර ඒ හේතුවෙන් දුම්රිය ධාවන කටයුතු සාමාන්‍ය තත්ත්වයට පත් කිරීමට තවත් පැය කිහිපයක් ගත වනු ඇති බව වාර්තා වෙයි.
+The Railway Department states that two train compartments have been identified as two roads on the coastal railway line.
+
+As a result, the train from Galle passes from Galle to the Sivakwease Station.
+
+However, the train has not begun and the train has not begun and it will take several more hours to get railroads to normalize.
 
 ◼️
 
 [Data](articles/773bbae9.json)
+
+[Extended Data](ext_articles/773bbae9.ext.json)
 
 ---
 
@@ -78,9 +106,9 @@ Magistrate Kosala Senadheera added that the Kompanideru police have already repo
 
 ---
 
-### சந்தேகம் என்றால் தனிப்பட்ட ரீதியில் முறையிடலாம்: நீதிமன்றம்
+### சந்தேகம் என்றால் முறையிடலாம்: நீதிமன்றம்
 
-*2024-07-09 12:25:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/சந்தேகம்-என்றால்-தனிப்பட்ட-ரீதியில்-முறையிடலாம்-நீதிமன்றம்/95-340085) · `ta`
+*2024-07-09 12:25:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/சந்தேகம்-என்றால்-முறையிடலாம்-நீதிமன்றம்/95-340085) · `ta`
 
 கொம்பனிதெருவில் அல்டெயார் அடுக்குமாடி தொடரில், 67 ஆ​ம் மாடியில் இருந்து விழுந்து மரணமடைந்த மாணவன், மாணவியின் மரணம் தொடர்பில் சந்தேகம் இருக்குமாறின், அவைதொடர்பில் பொலிஸில் முறைப்பாடு செய்யுமாறு கோட்டை நீதவான் கோசல சேனாதீர அறிவுறுத்தியுள்ளார்.
 
@@ -92,7 +120,33 @@ Magistrate Kosala Senadheera added that the Kompanideru police have already repo
 
 ...
 
+[Data](articles/983a927c.json)
+
+---
+
+### If suspicious can be personally appealing: Court
+
+*2024-07-09 12:25:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/சந்தேகம்-என்றால்-தனிப்பட்ட-ரீதியில்-முறையிடலாம்-நீதிமன்றம்/95-340085) · `ta`
+
+In a case involving the suspicious deaths of two students from the Altaiyaru Apartments in Kompanideru, Fort Magistrate Kosala Senadheera advised lodging a police complaint due to suspicions. The attorney-at-law, Asanga, suggested preparing a personal complaint, but the magistrate insisted on a formal charge sheet citing the need for further investigation. The Kompanideru police have already filed a report and requested call data records from telecom companies. The deceased students were meeting a Pakistani friend when they fell from the 67th floor, complicating investigations due to diplomatic privileges.
+
+🟩
+
+Fort Magistrate Kosala Senadheera has advised the police to lodge a complaint with the police if there is suspicion of the student's death in the Altaiyaru Apartments Series in Kompanideru.
+
+Attorney -at -law, who was present in court, advised Asanga ready to lodge a person and get permission for the incident.
+
+Attorney -at -Law Asanga, Magistrate on Monday (08), has appealed to the Fort of Attorney to grant permission to make a personal complaint, as the student's father has said that the death of the student and the student who fell off the 67th floor of the Aldear apartment.
+
+Fort Magistrate Kosala Senadheera said that the death of the two students could not be made of suspicion and the police should file a charge sheet that the death was suspicious.
+
+Magistrate Kosala Senadheera added that the Kompanideru police have already reported the facts through the report and lodged a complaint with the police.
+
+...
+
 [Data](articles/ccd74bbe.json)
+
+[Extended Data](ext_articles/ccd74bbe.ext.json)
 
 ---
 
@@ -1148,10 +1202,6 @@ As our tenures end as Country Director and Country Manager for the World Bank an
 
 *2024-07-09 05:28:51* · [`dailyftlk`](https://www.ft.lk/columns/Promoting-inclusive-economic-growth-and-private-sector-investment-in-Sri-Lanka/4-764015) · `en`
 
-Sri Lanka is currently experiencing a pivotal moment in its economic development trajectory. Raising the socioeconomic standing of the populace requires pursuing inclusive economic growth and more investment from the private sector. By examining crucial approaches, recognising obstacles, and assimilating global best practices, Sri Lanka may clear the path towards a future that is both affluent and just.
-
-In 2024, Sri Lanka will be negotiating a challenging economic environment that includes persistent budgetary issues, efforts to stabilise macroeconomic circumstances, and the post-pandemic recovery. Remittances from foreign workers, advances in the tourism industry, and increased agricultural output have all contributed to the nation’s GDP growth. Nonetheless, enduring obstacles including the nation’s massive public debt, inflationary pressures, and fundamental economic shortcomings continue to provide formidable obstacles.
-
 ...
 
 [Data](articles/4362201f.json)
@@ -1166,9 +1216,9 @@ In 2024, Sri Lanka will be negotiating a challenging economic environment that i
 
 President Ranil Wickremesinghe in conversation with his predecessor Gotabaya Rajapaksa in the presence of former President and Prime Minister Mahinda Rajapaksa at the ceremony to mark 27 years in politics by SLPP MP Rohitha Abeygunawardena at the Kalutara Public Ground on Saturday – Pic by Pradeep Pathirana
 
-“Anybody who knows about capitalism knows that bankruptcy is an essential part of capitalism” (Joseph Stiglitz)
+The reason for RW’s premature declaration is simple. Just as it was politically advantageous for him to describe the 2022 economy bankrupt in order to create an impression that he was undertaking a Herculean challenge, so also his premature claim for solvency after two years of his reign to prove his financial wizardry. In short, RW is advertising his management credentials to strengthen his claim to continue as President with or without an election. All the plaudits that he is receiving from his parliamentary cabal and outside convey that strategy
 
-Bankruptcy, according to one definition, “is a legal proceeding when a person or business cannot repay outstanding debts or obligations. It offers a fresh start for people who can no longer afford to pay their bills”. What is true for an individual is also true for a country. When Sri Lanka was in the grip of a historic economic crisis and when the Treasury was running out of foreign exchange to fund imports and service foreign debt, talk of an impending bankruptcy or near-bankruptcy started circulating within the financial circles both locally as well as internationally.
+“Anybody who knows about capitalism knows that bankruptcy is an essential part of capitalism” (Joseph Stiglitz)
 
 ...
 
@@ -1184,6 +1234,8 @@ Bankruptcy, according to one definition, “is a legal proceeding when a person 
 
 Social entrepreneurial approaches often engage with local communities at the grassroots level in their development initiatives
 
+Every form of entrepreneurship serves a social purpose. However, the hallmark of social entrepreneurship lies in its ability to combine social purpose with business practice to effect social change. The process of social entrepreneurship embedded the creative use of resources to generate both economic and social values
+
 Sri Lanka stands at a critical crossroads in the wake of different reasons such as severe economic instability, social inequality and environmental crises. While many traditional approaches are falling short in this situation, it is time for Sri Lanka to gain traction for a new paradigm of ‘social entrepreneurship’ to come out of this crisis.
 
 ...
@@ -1198,7 +1250,7 @@ Sri Lanka stands at a critical crossroads in the wake of different reasons such 
 
 *2024-07-09 05:11:54* · [`dailyftlk`](https://www.ft.lk/columns/To-make-a-race-in-a-raceless-society/4-764011) · `en`
 
-As Sri Lanka navigates a crucial period, it is essential to absorb all subgroups into the mainstream
+As Sri Lanka navigates a crucial period, it is essential to absorb all subgroups into the mainstream rather than isolating them as separate communities
 
 In the current global context, isolation is impossible due to ongoing economic trends and geopolitical influences. Even North Korea attempts to build and maintain interstate relationships to fulfil national interests. Alongside these interstate developments, there is a rising sub-area that every country faces to varying degrees: migration.
 
@@ -2275,67 +2327,5 @@ Despite the economic crisis facing the country, the government has paid 390 bill
 [Data](articles/116665d6.json)
 
 [Extended Data](ext_articles/116665d6.ext.json)
-
----
-
-### Today we are in a milestone that science and Dhamma
-
-*2024-07-08 19:33:26* · [`adalk`](https://www.ada.lk/breaking_news/අද-අප-සිටින්නේ-විද්‍යාව-සහ-ධර්මය-එකට-මුණ-ගැසෙන-සංධිස්ථානයකයි/11-410677) · `si`
-
-In a significant development bridging science and spirituality, leaders in Sri Lanka are exploring the intersection of the Buddha's teachings with modern scientific advancements. This initiative aims to establish a new institution dedicated to studying the relevance of the Buddha's sermon within the contemporary scientific landscape. Presidents Mahinda Rajapaksa and Ranil Wickremesinghe emphasize the importance of understanding the relationship between Buddhism and technology, particularly in the era of artificial intelligence. They highlight the historical significance of the Amarapura Maha Sect and its contributions to shaping Sri Lanka's society and culture. The initiative also includes plans for archaeological excavations and the promotion of Buddhist studies, aiming to preserve and disseminate Buddhist philosophy and history for future generations.
-
-🟩
-
-The Buddha's sermon is included in the newness of the world today
-
-Today, we are in a milestone that science and Dhamma.
-
-A new institution is to look into the relationship between the Buddha's Sermon and Scientific World - President Mahinda Rajapaksa says.
-
-President Ranil Wickremesinghe said that Buddhism and technology is a great relationship between the modern scientific and technology that we are traveling now and that we are traveling in the face of the future.
-
-The Buddhist philosophy, including the Tripitaka and the history of Sri Lanka, the world's history, and Buddhism is the reboot of the Anuradhapura Maha Viharaya in the history of the world.It also purpose was to say.
-
-President Ranil Wickremesinghe was speaking at the Sabaragamuwa Provincial Council Auditorium at the Sabaragamuwa Provincial Council Auditorium this afternoon.
-
-The Amarapura Maha Sect was established in 1802 after the huge sacrifice made by Ven. Welimaratissa Thera.. The bigge of the Great Commander led the Ven.
-
-...
-
-[Data](articles/a7f77f60.json)
-
-[Extended Data](ext_articles/a7f77f60.ext.json)
-
----
-
-### More information on shooting in the turbulent inventory
-
-*2024-07-08 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198612) · `si`
-
-A shooting occurred at a tattoo center in Athurugiriya, involving an organized criminal group. The event took place during the opening ceremony, attended by businessman Sorchandra Wasantha Perera (alias Club Wasantha), his wife, and popular singer K. Sujeewa. Six people were injured, including the couple and a personal protector of Club Wasantha. The attackers, armed and disguised, targeted Club Wasantha, leading to the death of one person and serious injuries to others. Police suspect involvement of organized crime leader Kavikani Imran and have deployed six teams to locate the suspects.
-
-🟩
-
-Police suspect that the shooting of a group of tattout center in Athurugiriya has been involved in an organized criminal.
-
-From the clock tower in the Athurugiriya Town Junction, the upstairs of the building, the skin, and a tative institution was opened this morning.
-
-It is the chief guests, a well-known businessman Sorchandra Wasantha Perera alias Club Wasantha and his wife and popular singer K. Mrs. Sujeewa was invited.
-
-It reverses a white car about 10.15 am on the Oruwala Road, redirect the cloud from the round the road near the road near the building.
-
-There was also a record that two people with firearms up to the upstairs Tatu Center.
-
-The shooters who entered the tabutan center wearing the deer covering are continuously gunned down.
-
-It is reported that a person is hiding in the shooting and is the personal protector of Club Wasantha.
-
-Six people were injured in the attack and they were taken army.
-
-...
-
-[Data](articles/6f87c245.json)
-
-[Extended Data](ext_articles/6f87c245.ext.json)
 
 ---

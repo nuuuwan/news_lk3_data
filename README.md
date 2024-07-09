@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 07:01:23**
+As of **2024-07-09 07:26:37**
 
 ## Newspaper Stats
 
-*Scraped **34,308** Articles*
+*Scraped **34,309** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 310
+dbsjeyarajcom | 311
 colombotelegraphcom | 320
 bbccomsinhala | 335
 newsfirstlk | 363
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,705
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,301 (100.0%) of 34,308 articles have been extended.
+34,308 (100.0%) of 34,309 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### අද කාලගුණය
+### Weather today
 
 *2024-07-09 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198617) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (09) දිනයේ වැසිවාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Several closures expected in Western, Sabaragamuwa, and Northwestern provinces due to weather conditions. Thundershowers predicted in Ampara, Batticaloa, Trincomalee, Hambantota, and Moneragala districts. Strong winds possible, reaching 40-50 km/h. Public advised to prepare for potential wind and lightning hazards.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology says that several closure will occur in the Western, Sabaragamuwa and Northwestern provinces.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Thundershowers will develop at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The Department of Meteorology announces that 40-50 could cause strong winds.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/1b17b030.json)
+
+[Extended Data](ext_articles/1b17b030.ext.json)
 
 ---
 
@@ -164,6 +170,8 @@ Titled “Building the Capacity of Women Business Development Coaches in Sri Lan
 
 [Data](articles/9548b765.json)
 
+[Extended Data](ext_articles/9548b765.ext.json)
+
 ---
 
 ### Macktiles Masterpieces unveils groundbreaking luxury tile collection, redefining “Made in Sri Lanka”
@@ -180,6 +188,8 @@ The Macktiles Masterpieces Buddhi Batiks Luxury Tile Collection is a testament t
 
 [Data](articles/b297266a.json)
 
+[Extended Data](ext_articles/b297266a.ext.json)
+
 ---
 
 ### Hayleys Solar selected for first-of-its-kind ADB-developed and financed Agrivoltaics project
@@ -193,6 +203,8 @@ Agrivoltaics are built on the innovative practice of installing solar panels abo
 ...
 
 [Data](articles/a68c924f.json)
+
+[Extended Data](ext_articles/a68c924f.ext.json)
 
 ---
 
@@ -212,6 +224,8 @@ Siyambalapitiya emphasised that no sector is exempt from taxation, countering cl
 
 [Data](articles/72b07ffa.json)
 
+[Extended Data](ext_articles/72b07ffa.ext.json)
+
 ---
 
 ### $ 5 m grant to implement project on chemical disposal in Sri Lanka
@@ -227,6 +241,8 @@ Sri Lanka does not manufacture products which contain POPs or mercury. However, 
 ...
 
 [Data](articles/fbd62b94.json)
+
+[Extended Data](ext_articles/fbd62b94.ext.json)
 
 ---
 
@@ -460,19 +476,25 @@ I know that doctors have gone to the hospital for the past three days.
 
 ---
 
-### மின் கட்டணத் திருத்தம்: வாய்மூல கருத்துக் கோரல் இன்று
+### Electricity Tax Correction: Oral Commentary Today
 
 *2024-07-09 00:14:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணத்-திருத்தம்-வாய்மூல-கருத்துக்-கோரல்-இன்று/175-340066) · `ta`
 
-2024 ஆம் ஆண்டுக்கான இரண்டாம் உத்தேச மின் கட்டணத் திருத்தம் தொடர்பான மக்களின் வாய்மூல கருத்துக் கோரல்கள் இன்று இடம்பெறவுள்ளதாக பொதுப் பயன்பாடுகள் ஆணைக்குழு தெரிவித்துள்ளது.
+Today, the Public Utilities Commission accepts oral comments on the 2024 electricity tariff proposal from 9 am to 4.30 pm at the Bandaranaike Conference Hall.
 
-இன்றி முற்பகல் 9 மணி முதல் பிற்பகல் 4.30 வரை பண்டாரநாயக்க மாநாட்டு மண்டபத்தில் இந்தக் கருத்துக் கோரல்கள் ஏற்றுக் கொள்ளப்படவுள்ளதாக அந்த ஆணைக்குழு விடுத்துள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-இது தொடர்பான எழுத்து மூலக் கருத்துக் கோரல்கள் நேற்றுடன் நிறைவு பெற்றுள்ளன. (a)
+The Public Utilities Commission said that people's oral comments on the second proposed electricity tariff for 2024 will be held today.
+
+In a statement issued by the Commission, the Commission said that these comments will be accepted at the Bandaranaike Conference Hall from 9 am to 4.30 pm.
+
+In this regard. (A)
 
 ◼️
 
 [Data](articles/4ea592d5.json)
+
+[Extended Data](ext_articles/4ea592d5.ext.json)
 
 ---
 

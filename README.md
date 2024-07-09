@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 13:54:37**
+As of **2024-07-09 14:07:26**
 
 ## Newspaper Stats
 
-*Scraped **34,379** Articles*
+*Scraped **34,382** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,103 @@ islandlk | 1,936
 economynextcom | 2,023
 dailyftlk | 2,146
 adalk | 3,087
-adaderanalk | 3,943
-tamilmirrorlk | 4,088
+adaderanalk | 3,944
+tamilmirrorlk | 4,089
 dailymirrorlk | 4,733
 virakesarilk | 5,371
-adaderanasinhalalk | 5,721
+adaderanasinhalalk | 5,722
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,376 (100.0%) of 34,379 articles have been extended.
+34,379 (100.0%) of 34,382 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### අල්ලස් ගත් බවට සැක පොලිස් නිලධාරින්ගේ ඇප ප්‍රතික්ෂේප වෙයි
+### බයිඩන් ජනපති සටනින් ඉවත්විය යුතු බවට  ඩිමොක්‍රටික් පක්ෂයෙන්ම මතයක්
+
+*2024-07-09 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198635) · `si`
+
+අමෙරිකානු වත්මන් ජනාධිපති ජෝ බයිඩන් මෙවර ජනාධිපතිවරණ සටනෙන් ඉවත්විය යුතු බවට එම පක්ෂය තුළින්ම මතවාදයක් ගොඩනැගී තිබේ.
+
+ඒ බයිඩන් වයස්ගත බවට සහ ඔහු පාකින්සන් රෝගයෙන් පෙළෙන බවට එල්ලවන චෝදනා මුල්කරගෙනයි.
+
+81 හැවිරිදි වත්මන් අමෙරිකානු ජනාධිපති ජෝ බයිඩන් ලබන නොවැම්බර් මාසයේදී පැවැත්වෙන අමෙරිකානු ජනාධිපතිවරණයට ඉදිරිපත්වීමට සූදානමින් පසු වේ.
+
+ඩිමොක්‍රටික් පක්ෂයේ මීළඟ ජනාධිපති අපේක්ෂකයා ලෙස ඔහුට හිමිව තිබූ සහාය කෙමෙන් පහත වැටෙමින් පවතින්නේ වයස්ගත බයිඩන් ඊට නුසුදුසු බවට පක්ෂය තුළම කතාබහක් නිර්මාණය වී තිබීම හේතුවෙනි.
+
+මෙම ආන්දෝලනයට මුල්වූයේ පසුගිය ජූනි 27 වැනිදා බයිඩන් සහ රිපබ්ලිකන් අපේක්ෂක හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් අතර පැවති ජනාධිපතිවරණ අපේක්ෂක විවාදයයි.
+
+එහිදී ට්‍රම්ප් හමුවේ බයිඩන් දැක්වූ අසාර්ථකභාවය සමඟ ඔහු පක්ෂයේ මීළඟ අපේක්ෂකයා වීමට සුදුසු ද යන්න එම පක්ෂයේ ඉහළ තනතුර අතර ඇතිවූ කතාබහ කෙතරම් ද යත්, තමන් මැතිවරණ සටනින් ඉවත්කළ හැක්කේ දෙවියන්ට පමණක් බව පැවසීමට බයිඩන්ට සිදුවීමෙන්ම පැහැදිලි වන බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+...
+
+[Data](articles/aca5a859.json)
+
+---
+
+### Two arrested with ‘Ice’ worth nearly Rs. 10 million
+
+*2024-07-09 13:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100392/two-arrested-with-ice-worth-nearly-rs-10-million) · `en`
+
+The Police Narcotics Bureau (PNB) has arrested two individuals in possession of 1 kg and 14 grams of crystal methamphetamine (commonly known as ‘Ice’), with an estimated street value of Rs. 10 million.
+
+The suspects were found with the drugs and Rs. 1 million in cash, suspected to be proceeds from drug trafficking.
+
+Acting on information that the suspects were seeking a buyer for the ‘Ice’, the police have posed as buyers and apprehended them.
+
+During interrogation, it has been revealed that the drug consignment belonged to a large-scale drug trafficker who is currently hiding abroad.
+
+The arrested individuals are residents of the ‘Mihijaya Sevana’ housing scheme in the Jinthupitiya area of Grandpass, the police said.
+
+The suspects will be further questioned under detention orders as the Police Narcotics Bureau continues its investigation into the incident, according to police.
+
+◼️
+
+[Data](articles/09befb7f.json)
+
+---
+
+### Police Officers' bail of bribery
 
 *2024-07-09 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198634) · `si`
 
-අල්ලස් ලබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගත කර සිටින කොළඹ අපරාධ කොට්ඨාසයේ පොලිස් පරීක්ෂකවරයා සහ කොස්තාපල්වරයාගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කිරීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (09) තීන්දු කළේය.
+Colombo Magistrate Court rejected bail for two police officers from the Colombo Crimes Division, ordering them remanded until March 23rd. The court action follows their arrest by the Bribery Commission over allegations of accepting a bribe related to an ongoing case.
 
-කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා විසින් මෙම නියෝගය ප්‍රකාශයට පත් කළේය.
+🟩
 
-ඒ අනුව අදාළ සැකකරුවන් ලබන 23 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට ද මහෙස්ත්‍රාත්වරයා නියෝග කළේය.
+The Colombo Magistrate Court today (09) to reject the bail of the Colombo Crimes Division of the Colombo Crimes Division and the Constable.
 
-මෙහිදී මෙම සැකකරුවන් විසින් අල්ලස් වශයෙන් ලබාගත් බව කියන මුදල් ද අල්ලස් කොමිසම විසින් අධිකරණයට ඉදිරිපත් කළේය.
+The order was published by the Chief Magistrate Thilina Gamage.
 
-මාර්ගගත  මුදල් ගනුදෙනුවකට අදාළව සිද්ධියකට සම්බන්ධ සැකකරුවකු අධිකරණයට ඉදිරිපත් නොකර සිටීම සඳහා රුපියල් 154,200/- අල්ලසක් ලබාගත්තේ යැයි සැකපිට මෙම සැකකාර පොලිස් නිලධාරීන දෙදෙනා අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන තිබිණි.
+The Magistrate ordered that the suspects were remanded till the 23a.
+
+The Bribery Commission also produced the money he had been bribed by the suspects.
+
+The Bribery Police were arrested by the Bribery Commission on suspicion of a bribe of an incident involved in the incident.
 
 ◼️
 
 [Data](articles/ee76cd04.json)
+
+[Extended Data](ext_articles/ee76cd04.ext.json)
+
+---
+
+### ’அஸ்வெசும’: அதிரடி அறிவிப்பு வெளியானது
+
+*2024-07-09 13:24:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-அதிரடி-அறிவிப்பு-வெளியானது/175-340092) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவின் ஆலோசனைக்கமைய முன்னெடுக்கப்படும் 'அஸ்வெசும' வேலைத் திட்டத்தின் முதல் கட்டத்தில் தகுதிபெற்ற 18 இலட்சத்திற்கும் அதிகமானோருக்கு மேலதிகமாக இரண்டாம் கட்டத்தில் மேலும் 450,924 விண்ணப்பங்கள் கிடைத்துள்ளன.
+
+இவற்றில், நலன்புரிச் சேவைகளைப் பெறத் தகுதியானவர்களைத் தேர்ந்தெடுத்து, தகவல் சரிபார்க்கும் பணிகள் ஜூலை 15ஆம் திகதி முதல் 30ஆம் திகதி வரை முன்னெடுக்கப்படும் என நலன்புரிச் சபை அறிவித்துள்ளது
+
+◼️
+
+[Data](articles/8bd919a4.json)
 
 ---
 
@@ -67,6 +131,38 @@ However, it has been reported that restoration work on the railway tracks has no
 ◼️
 
 [Data](articles/0949f59e.json)
+
+[Extended Data](ext_articles/0949f59e.ext.json)
+
+---
+
+### Jelenski's sadness on Ukraine's death - 37 people killed
+
+*2024-07-09 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188014) · `ta`
+
+Ukrainian President Woldemir Jelensky expressed deep disappointment over India's PM Modi meeting Russian President Putin amidst Russia's attacks on Ukraine, including a children's hospital. The incident, which occurred during Modi's first visit to Russia since the conflict began, resulted in over 30 deaths across several Ukrainian cities. This event underscores the global community's concern over the ongoing violence and its impact on innocent civilians, particularly children.
+
+🟩
+
+Ukrainian President Woldemir Jelensky has said that it is very disappointing to see Indian Prime Minister Narendra Modi Russian President Vladimir Putin on the day of Russia's attack on several parts of Ukraine, including the children's hospital.
+
+Russia's missiles attacked the cities of Ukraine in the morning while the Indian Prime Minister was meeting with the Indian Prime Minister at Novo Ocario, outside Moscow.
+
+This is the first visit to Indian Prime Minister Russia after Russia waged war on Ukraine two years ago.
+
+Jelensky said that it is a great disappointment for the world's greatest democracy leader Mosco's bloodbath.
+
+More than 30 people have been killed in the attack on several cities, including a children's hospital in Ukraine's capital.
+
+Ukraine officials have said that there have been a day -to -day attack on many cities of Ukraine.
+
+Ukrainian officials said that the attack on Okmatit, the main children's hospital in the capital of Ukraine, said.
+
+...
+
+[Data](articles/8a03c891.json)
+
+[Extended Data](ext_articles/8a03c891.ext.json)
 
 ---
 
@@ -97,6 +193,36 @@ Its number plates were also criminal criminals and the investigations were launc
 [Data](articles/d83be346.json)
 
 [Extended Data](ext_articles/d83be346.ext.json)
+
+---
+
+### Principals and teachers are affected by educational activities
+
+*2024-07-09 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/188006) · `ta`
+
+Educational activities across Sri Lanka are significantly impacted by a nationwide teacher strike over unpaid salaries. Schools report low attendance, with students returning home early. The strike, requested by the Sri Lanka Teachers' Union, affects all levels of education, from primary to secondary, including areas like Negombo and Ja-Ela. This situation leads to disappointment among students and disrupts the learning process.
+
+🟩
+
+School educational activities have been severely affected due to the ongoing holiday struggle today (09), with various demands and teachers nationwide.
+
+In some schools, the arrival of principals and teachers on Tuesday (09) is low.
+
+Due to the lack of teachers in most schools, students who visited the school had returned.
+
+Students who visited schools and three -wheelers and school vehicles were also seen as facing great customs due to the lack of teachers.
+
+It is noteworthy that the Sri Lanka Teachers Union is engaged in a healthy holiday struggle today on the request of the Sri Lanka Teachers Union to pay their arrears.
+
+Students who attended schools disappointed in the schools under the Ottamavadi academic line due to the illicit holidays by the principal and teachers.
+
+In the Negombo Educational Zone, the educational activities have been stalled in schools in Katanai, Negombo and Ja-Ela.
+
+...
+
+[Data](articles/557e46d0.json)
+
+[Extended Data](ext_articles/557e46d0.ext.json)
 
 ---
 
@@ -204,17 +330,27 @@ Magistrate Kosala Senadheera added that the Kompanideru police have already repo
 
 ---
 
-### ඡන්දෙ කල්දාන්න ගහන්න හදන තවත් ගැටයක් උදය හෙළි කරයි
+### Another knot to be gained election reveals
 
 *2024-07-09 12:19:15* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දෙ-කල්දාන්න-ගහන්න-හදන-තවත්-ගැටයක්-උදය-හෙළි-කරයි/11-410688) · `si`
 
-ජනාධිපතිවරණය ආසන්නයේ රජයේ මුද්‍රණාලය යොදා ගනිමින් ජනපතිවරණය කල් දැමීමේ  කුමන්ත්‍රණයක් පවතින බව පිවිතුරු හෙළ උරුමයේ නායක නීතිඥ උදය ගම්මන්පිල මහතා චෝදනා කරයි. මැතිවරණය ආසන්නයේ දී මුද්‍රණාලය වෙනත් තැනකට ගෙන යෑමට යෝජනා කරන්නෙත්, සේවකයින්ගේ දිරි දීමනා කපා දැමීමට යෝජනා කරන්නෙත් ජනපතිවරණය ප්‍රකාශයට පත් කිරීමෙන් පසු මුද්‍රණාලයේ වැඩවර්ජනයක් ඇති කර, ඒ මුවාවෙන් පළාත් පාලන මැතිවරණය මෙන්ම ජනාධිපතිවරණයත් කල් දැමීමට යැයි සාධාරණ සැකයක් මතුවන බව ද හෙතෙම ප්‍රකාශ කළේය.
+JHU Gammanpila's leader alleges a conspiracy to delay the Presidential election by moving the printing press post-election. The move aims to disrupt the electoral process, as seen in previous elections where funds allocated for voting were misused. A committee was formed to address this issue, but its findings suggest further complications, including potential strikes and the relocation of the press, raising concerns about the integrity of future elections.
 
-ඒ මහතා මේ බව සදහන් කළේ ඊයේ (08දා)  පිවිතුරු හෙළ උරුමය මාධ්‍ය හමුවට එක් වෙමිනි.පිවිතුරු හෙළ උරුමයේ නායකයා එහිදී වැඩිදුරටත් මෙසේ අදහස් දැක්වීය.
+🟩
+
+Leader of the Leader of the Leader of the JHU Gammanpila alleges that conspiracy to postpone the Presidential printing near the presidential election. He said that the printing press was proposed to be taken to another and proposes to cut the printing press after the presidential election.
+
+He was speaking at a media briefing of the JHU yesterday (8th).
+
+"The government printing request is to print the ballot papers to postpone the last provincial election. In the last few elections, the printing commission was paid to the Elections to pay for the election. ElectionsThe Commission asked the Treasury when he asked the Treasury. So the little vote was disappeared.
+
+We were able to disappear the presidential election.The cabinet appointed a committee to formulate an incentive procedure to the Printing Department officials.The report was submitted to the Cabinet by the Prime Minister recently.
 
 ...
 
 [Data](articles/82b51a84.json)
+
+[Extended Data](ext_articles/82b51a84.ext.json)
 
 ---
 
@@ -369,66 +505,6 @@ It is noteworthy that Kalpitiya police have filed a case against MP Ali Sabri Ra
 [Data](articles/faa0ce8e.json)
 
 [Extended Data](ext_articles/faa0ce8e.ext.json)
-
----
-
-### Jelenski's sadness on Ukraine's death - 37 people killed
-
-*2024-07-09 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/188014) · `ta`
-
-Ukrainian President Woldemir Jelensky expressed deep disappointment over India's PM Modi meeting Russian President Putin amidst Russia's attacks on Ukraine, including a children's hospital. The incident, which occurred during Modi's first visit to Russia since the conflict began, resulted in over 30 deaths across several Ukrainian cities. This event underscores the global community's concern over the ongoing violence and its impact on innocent civilians, particularly children.
-
-🟩
-
-Ukrainian President Woldemir Jelensky has said that it is very disappointing to see Indian Prime Minister Narendra Modi Russian President Vladimir Putin on the day of Russia's attack on several parts of Ukraine, including the children's hospital.
-
-Russia's missiles attacked the cities of Ukraine in the morning while the Indian Prime Minister was meeting with the Indian Prime Minister at Novo Ocario, outside Moscow.
-
-This is the first visit to Indian Prime Minister Russia after Russia waged war on Ukraine two years ago.
-
-Jelensky said that it is a great disappointment for the world's greatest democracy leader Mosco's bloodbath.
-
-More than 30 people have been killed in the attack on several cities, including a children's hospital in Ukraine's capital.
-
-Ukraine officials have said that there have been a day -to -day attack on many cities of Ukraine.
-
-Ukrainian officials said that the attack on Okmatit, the main children's hospital in the capital of Ukraine, said.
-
-...
-
-[Data](articles/8a03c891.json)
-
-[Extended Data](ext_articles/8a03c891.ext.json)
-
----
-
-### Principals and teachers are affected by educational activities
-
-*2024-07-09 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188006) · `ta`
-
-Educational activities across Sri Lanka are significantly impacted by a nationwide teacher strike over unpaid salaries. Schools report low attendance, with students returning home early. The strike, requested by the Sri Lanka Teachers' Union, affects all levels of education, from primary to secondary, including areas like Negombo and Ja-Ela. This situation leads to disappointment among students and disrupts the learning process.
-
-🟩
-
-School educational activities have been severely affected due to the ongoing holiday struggle today (09), with various demands and teachers nationwide.
-
-In some schools, the arrival of principals and teachers on Tuesday (09) is low.
-
-Due to the lack of teachers in most schools, students who visited the school had returned.
-
-Students who visited schools and three -wheelers and school vehicles were also seen as facing great customs due to the lack of teachers.
-
-It is noteworthy that the Sri Lanka Teachers Union is engaged in a healthy holiday struggle today on the request of the Sri Lanka Teachers Union to pay their arrears.
-
-Students who attended schools disappointed in the schools under the Ottamavadi academic line due to the illicit holidays by the principal and teachers.
-
-In the Negombo Educational Zone, the educational activities have been stalled in schools in Katanai, Negombo and Ja-Ela.
-
-...
-
-[Data](articles/557e46d0.json)
-
-[Extended Data](ext_articles/557e46d0.ext.json)
 
 ---
 
@@ -2241,79 +2317,5 @@ The National Generation Asia Awards 2024 was organized by the National Youth Ser
 [Data](articles/d857a15b.json)
 
 [Extended Data](ext_articles/d857a15b.ext.json)
-
----
-
-### Govt to impose taxes on 14 previously untaxed sectors
-
-*2024-07-08 19:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100378/govt-to-impose-taxes-on-14-previously-untaxed-sectors) · `en`
-
-Sri Lanka’s State Minister of Finance Ranjith Siyambalapitiya stated that the government intends to collect taxes from 14 previously untaxed sectors that have been overlooked until now and to ensure tax compliance from them.
-
-Speaking to reporters in Kegalle, he stated that further inquiries have been commenced in this regard.
-
-The State Minister said that no one has been given an opportunity to evade tax payments and that there has previously never been such a time when such special attention was paid to the paying of taxes.
-
-The State Minister further stated that last year they highlighted 14 sectors that must register for tax payments including large-scale tuition classes, private schools, private medical services, engineering services and surveying services.
-
-“The Inland Revenue Department is conducting inquiries related to the income of all entities registered under these fourteen sectors,” said Siyambalapitiya.
-
-◼️
-
-[Data](articles/4936492c.json)
-
-[Extended Data](ext_articles/4936492c.ext.json)
-
----
-
-### SLTB is 400 new buses
-
-*2024-07-08 19:56:42* · [`adalk`](https://www.ada.lk/breaking_news/ලංගමට-අලුත්-බස්-400ක්/11-410680) · `si`
-
-SLTB plans to buy 400 new buses, aiming to improve service quality and efficiency. Chairman Lalith de Alwis announced the initiative at a press conference, highlighting the board's commitment to digital transformation and innovation in public transportation. This move follows the renovation of 400 buses last year and comes as part of a larger plan to acquire 1,000 new buses. Additionally, SLTB offers discounted fares for students and operates special services for technical colleges and schools. The introduction of electric buses and seat reservations via an online system are part of ongoing efforts to modernize and enhance passenger experience.
-
-🟩
-
-SLTB chairman Lalith de Alwis said that 400 new buses will be purchased on behalf of the Sri Lanka Transport Board.. He was speaking at a press conference held at the President's Media Center.
-
-"Our buses meet around 500,000 passengers through 5500 times daily. It is our belief that the proper implementation of the digital program can completely stop our income.
-
-We have renovated 400 buses last year and re-operated. 400 buses will be renovated this year. The cabinet approval has been approved to purchase 1000 new buses. Accordingly, 400 buses have been launched to purchase 400 buses.
-
-In addition to the students, we provide buses under concessionary prices and 811 buses for technical colleges and 810 buses for school services daily.
-
-Introducing electricity buses for innovation of public buses, using modern information technology, and implementing the active activities of the bus and management to meet the activities of the bus plays.It is planned by the time.
-
-...
-
-[Data](articles/67dae454.json)
-
-[Extended Data](ext_articles/67dae454.ext.json)
-
----
-
-### Internet facilities with satellite technology
-
-*2024-07-08 19:45:51* · [`adalk`](https://www.ada.lk/breaking_news/චන්ද්‍රිකා-තාක්ෂණය-උපයෝගී-කරගනිමින්-අන්තර්ජාල-පහසුකම්/11-410679) · `si`
-
-In a press conference, Minister Kanaka Herath discussed various initiatives including the Digital Economic Plan aiming to boost the digital economy from $3 billion to $30 billion by 2030, supported by the World Bank. Amendments to the Telecommunication Act were announced to enhance consumer protection and foster competition among telecom companies. Future plans involve introducing internet services via satellite technology and establishing a Technology and Innovation Commission to promote research and innovation. Additionally, there's a proposal to increase allowances for public servants by Rs. 20,000 annually, costing Rs. 280 billion. The IMF recommends allocating Rs 11 billion to assist low-income individuals.
-
-🟩
-
-Minister of Technology Kanaka Herath said that the launch of unjust strikes near the election is also deprived of the opportunity to study.
-
-The strikes, protesters are expected to answer the opposition to sabotage the concessionary quality of the people.
-
-Minister of Technology Kanaka Herath made this statement participating at a press conference held at the Presidential Media Center today (08).
-
-Since 2022, many large policies and reforms have been implemented by our ministry. We are looking forward to presenting a bills to the Parliament as well as some other bills.
-
-Also, launching the Digital Economic Plan 2020 - 2030 with the support of the World Bank.. Today, our aim is to increase the digital economy of US $ 3 billion to US $ 30 billion as the Digital Economy of 2030.
-
-...
-
-[Data](articles/8254f82f.json)
-
-[Extended Data](ext_articles/8254f82f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 20:36:24**
+As of **2024-07-09 20:53:57**
 
 ## Newspaper Stats
 
-*Scraped **34,442** Articles*
+*Scraped **34,443** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,61 @@ adaderanalk | 3,955
 tamilmirrorlk | 4,098
 dailymirrorlk | 4,733
 virakesarilk | 5,382
-adaderanasinhalalk | 5,734
+adaderanasinhalalk | 5,735
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,440 (100.0%) of 34,442 articles have been extended.
+34,442 (100.0%) of 34,443 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### වතු සේවක වැටුප් ප්‍රශ්නය විසඳන්න තවත් තීන්දුවක්
+### ක්ලබ් වසන්ත ඝාතනයේ අලුත්ම සාක්ෂිය
+
+*2024-07-09 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198649) · `si`
+
+සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඝාතනය සිදුවූ ටැටූ මධ්‍යස්ථානය එම ස්ථානයේ ආරම්භ කිරීම සඳහා තමන්ට 'ලොකු පැටී' නමැති අපරාධකරුගෙන් රුපියල් ලක්ෂ 16ක මුදලක් ලැබුණු බව එහි හිමිකරු පොලීසියට පාපොච්චාරණය කර තිබේ.
+
+ඔහු වැඩිදුරටත් පවසා ඇත්තේ 'ලොකු පැටීගේ' ඉල්ලීම මත තමා ක්ලබ් වසන්තට එය විවෘත කිරීමට ඇරියුම් කළ නමුත් මෙම ඝාතන සැලැස්ම ගැන දැන නොසිටි බවය.
+
+ව්‍යාපාරිකයකු වන සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඊයේ (08) උදෑසන අතුරුගිරියේ පිහිටි ටැටූ මධ්‍යස්ථානයේ සිදුවූ වෙඩි තැබීමකින් ජීවිතක්ෂයට පත්වුණි.
+
+එම අවස්ථාවේ එහි සිටි ප්‍රසිද්ධ ගායන ශිල්පිනී කේ. සුජීවාගේ සැමියා වන නයන වාසුල නැමැත්තාද මියගිය අතර කේ. සුජීවා, ක්ලබ් වසන්තගේ බිරිය, තවත් කාන්තාවක් හා පිරිමි පුද්ගලයෙකු තුවාල ලබා රෝහල්ගත කෙරුණි.
+
+ඝාතනයෙන් අනතුරුව වෙඩික්කරුවන් වෑන් රථයකින් කඩුවෙල, නවගමුව හරහා පළායන අයුරු දැක්වෙන රූපරාමු පෙළක් ද හමුවී තිබේ.
+
+මේ අතර ටැටූ මධ්‍යස්ථානයේ හිමිකරු වන දුලාන් සන්ජුල නමැත්තා ඇතුළු සැකකරුවන් 07 දෙනෙක් බස්නාහිර දකුණ අපරාධ කොට්ඨාසය මගින් අද අත්අඩංගුවට ගනු ලැබීය.
+
+...
+
+[Data](articles/2c05cdc0.json)
+
+---
+
+### Another decision to solve the salary issue of estate workers
 
 *2024-07-09 20:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198648) · `si`
 
-රජය විසින් තීරණය කරන ලද වතු සේවකයින්ගේ දෛනික වැටුප ලබා නොදෙන වතු හාම්පුතුන්ගේ බදු ගිවිසුම් දීර්ඝ නොකිරීමට කැබිනට් මණ්ඩලය තීරණය කළ බව කම්කරු අමාත්‍ය මනූෂ නානායක්කාර මහතා අද (09) අනාවරණය කළේය.
+Manusha Nanayakkara, Minister of Labor, decided against extending tax agreements for estate workers unless they agree to increase wages. A special gazette notification was issued on April 30, but plantation companies sought legal action. The Supreme Court intervened with an interim injunction. The President announced that benefits from a gazette would directly reach settlements without needing plantation company approval.
 
-රුපියල් 1,000ක් පැවති වතු සේවක දෛනික වැටුප රුපියල් 1,700 දක්වා ඉහළ නංවමින් ඉකුත් අප්‍රේල් 30 වනදා රාත්‍රියේ කම්කරු කොමසාරිස් ජනරාල්වරයා අතිවිශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබුණි.
+🟩
 
-කෙසේ වෙතත් අදාළ ගැසට් නිවේදනයට එරෙහිව වැවිලි සමාගම් අධිකරණ ක්‍රියාමාර්ගවලට යොමු වූ අතර ඒ අනුව ඉකුත් 28 වනදා ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් වතු සේවක වැටුප් වැඩි කරමින් කම්කරු අමාත්‍යවරයා නිකුත් කළ ගැසට් නිවේදනය ක්‍රියාත්මක කිරීම වළක්වාලමින් අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+Minister of Labor Manusha Nanayakkara has decided not to extend the tax agreements of the estate workers who decide not to extend the daily wage of estate workers.
 
-"අද කැබිනට් මණ්ඩලයේදී ජනාධිපතිතුමා තීරණය කළා... වතු කම්කරුවන්ට සුදුසු වැටුප නොගෙවන වතු හාම්පුතුන්ගේ බදු ගිවිසුම් දීර්ඝ කරන්නේ නැහැ. දැනට ජනාවාස වී ඇති වතු ප්‍රදේශ ගම්මාන ලෙස ගැසට් කරන්න තීන්දු කළා. එලෙස ගැසට් කළ පසු රජයේ ප්‍රතිලාභ සෘජුවම දෙන්න පුළුවන්. වතු සමාගම්වල අවසර ගන්න අවශ්‍ය නැහැ."
+The Commissioner General of Labor has issued a special gazette notification on April 30, raising Rs.
+
+However, plantation companies focused on judicial procedures, however, and the fire of the Supreme Court of the Laborah on the 28th by a three-member Supreme Court a three-member Supreme Court has been awarded an interim injunction.
+
+"At the Cabinet of Police today, the President decided to official .... Gazette was determined as village villages currently undergoing settlement areas. Once the gazette, you can direct the benefits of government. No need to get permission of plantation companies. "
 
 ◼️
 
 [Data](articles/09aca82c.json)
+
+[Extended Data](ext_articles/09aca82c.ext.json)
 
 ---
 
@@ -94,19 +122,29 @@ Accordingly, about 99.5% of the pensioners will receive a pension allowance with
 
 ---
 
-### නවින් දිසානායකට ජන හිතකාමී ශාසනබන්ධු නාමය දෙයි
+### Naveen Dissanayake gives people friendly ethnium
 
 *2024-07-09 19:06:13* · [`adalk`](https://www.ada.lk/breaking_news/නවින්-දිසානායකට-ජන-හිතකාමී-ශාසනබන්ධු-නාමය-දෙයි/11-410701) · `si`
 
-ශ්‍රී ලංකා අමරපුර මහා සංඝ සභාවේ 222 වැනි අමරපුර දින ආදී කර්තෘ ගුණ සැමරුම 2024 පසුගියදා (08) රත්නපුර පිහිටි සබරගමු පළාත් සභා ශ්‍රවණාගාරයේ දී පැවැත්වුණි.මෙහි ප්‍රධාන ආරාධිතයා ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහභාගි වූහ.
+Naveen Dissanayake, the governor of Sabaragamuwa Province in Sri Lanka, hosted a gathering at the Sabaragamuwa Provincial Auditorium in Ratnapura. The event included religious leaders like the Most Venerable Bogaspita Dhamma Gunarathi Tissa and others, as well as political figures such as Minister Pavithra Wanniarachchi and MP Thalatha Athukorala. This event signifies the governor's commitment to fostering unity and dialogue among various sectors of society.
 
-ශ්‍රී ලංකා අමරපුර මහා සංඝ සභාවේ සභාපති අතිපූජ්‍ය කරගොඩ උයන්ගොඩ මෛත්‍රී මූර්ති නාහිමියන් අතින් සබරගමුව පළාත් ආණ්ඩුකාර අධිනීතිඥ නවින් දිසානායක මහතා වෙත ජන හිතකාමී ශාසනබන්ධු යන ගෞරව නාමය මෙහිදී ප්‍රදානය කරනු ලැබීය.
+🟩
 
-සබරගමු පළාත් ආණ්ඩුකාර අධිනීතිඥ නවින් දිසානායක මහතා වර්තමාන සබරගමුව ආණ්ඩුකාරවරයා ලෙස සබරගමුව පළාතට සිදුකල මහත් වූ සේවය අරභයා ප්‍රජාතන්ත්‍රවාදී මූලධර්මයන්ගෙන් ද, මහත්මා දේශපාලනයෙන් ද, සම්බුද්ධ ශාසනය කෙරෙහි දක්නා සැදැහැවත් භාවය පිළිබඳව දක්වන ප්‍රසාදය හේතු කොට ගෙන මෙම ජන හිතකාමී ශාසනබන්ධු යන නාමය අධිනීතිඥ නවින් දිසානායක මහතා වෙත පුද කර ඇත.
+The editor of the Sri Lanka Amarapura Maha Sangha in Sri Lanka was held at the Sabaragamuwa Provincial Auditorium in Ratnapura (08).
 
-...
+The Hon.
+
+Governor of Sabaragamuwa Province Navin Dissanayake has given the Sabaragamuwa Governor of the Sabaragamuwa Governor of the Sabaragamuwa Province and the democratic principles of the Sabaragamuwa Province.has been.
+
+AD. Flowers, the Most Venerable Bogaspita Dhamma Gunarathi Tissa, the Most Venerable Ughane Gunarathi Tissa, the Most Venerable Ughane Gunarathi Tissama, the Most Venerable Kuthan, Dasthaya, Dast Updraw, Dhamma Kuladama, DhabanagamaPinteth presence also occurred.
+
+Minister Pavithra Wanniarachchi, MP Thalatha Athukorala, Akila Wijeweera, Deputy Chairman of Amaradha Gunaratne, Chief Secretary Mahinda Rajapaksa and representatives of the Amaradha Gunaratne and the General Secretary of Amarapura Maha Section.Were together.
+
+◼️
 
 [Data](articles/90b74c88.json)
+
+[Extended Data](ext_articles/90b74c88.ext.json)
 
 ---
 
@@ -2355,29 +2393,5 @@ Police suspect that the death of a rubber tree cut in a rubber tree fell on a gi
 [Data](articles/7cc7ddbe.json)
 
 [Extended Data](ext_articles/7cc7ddbe.ext.json)
-
----
-
-### Floods killed in 6 rionesirus in India
-
-*2024-07-09 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198624) · `si`
-
-In India, floods have led to the death of six rare rhinoceroses in a national park, marking one of the worst environmental disasters since 2017, where over 350 animals perished. The floods, attributed to heavy rainfall, have devastated the region, impacting wildlife significantly.
-
-🟩
-
-At the northeast Day, 6 rare rhinocereat trees have been killed due to floods in a national park in India.
-
-Indian media reported that the floods were caused by the State Park in the State Park in the State Packer.
-
-It is reported that this is the worst flooding affected by the state of hearing after the year 2017.
-
-More than 350 animals were killed in the relevant forest residents of that year.
-
-◼️
-
-[Data](articles/41d3a3c8.json)
-
-[Extended Data](ext_articles/41d3a3c8.ext.json)
 
 ---

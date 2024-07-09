@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 05:20:00**
+As of **2024-07-09 05:38:32**
 
 ## Newspaper Stats
 
-*Scraped **34,295** Articles*
+*Scraped **34,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 335
 newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,022
-dailyftlk | 2,135
+dailyftlk | 2,143
 adalk | 3,077
 adaderanalk | 3,931
 tamilmirrorlk | 4,076
@@ -26,11 +26,133 @@ adaderanasinhalalk | 5,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,295 (100.0%) of 34,295 articles have been extended.
+34,295 (100.0%) of 34,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### Social entrepreneurship: Beacon of hope for Sri Lanka’s recovery
+
+*2024-07-09 05:19:06* · [`dailyftlk`](https://www.ft.lk/columns/Social-entrepreneurship-Beacon-of-hope-for-Sri-Lanka-s-recovery/4-764012) · `en`
+
+Social entrepreneurial approaches often engage with local communities at the grassroots level in their development initiatives
+
+Sri Lanka stands at a critical crossroads in the wake of different reasons such as severe economic instability, social inequality and environmental crises. While many traditional approaches are falling short in this situation, it is time for Sri Lanka to gain traction for a new paradigm of ‘social entrepreneurship’ to come out of this crisis.
+
+...
+
+[Data](articles/7d3a8b81.json)
+
+---
+
+### To make a race in a raceless society
+
+*2024-07-09 05:11:54* · [`dailyftlk`](https://www.ft.lk/columns/To-make-a-race-in-a-raceless-society/4-764011) · `en`
+
+As Sri Lanka navigates a crucial period, it is essential to absorb all subgroups into the mainstream
+
+In the current global context, isolation is impossible due to ongoing economic trends and geopolitical influences. Even North Korea attempts to build and maintain interstate relationships to fulfil national interests. Alongside these interstate developments, there is a rising sub-area that every country faces to varying degrees: migration.
+
+...
+
+[Data](articles/8a848bfe.json)
+
+---
+
+### Sri Lanka takes major step forward in combatting malnutrition by launching locally-produced fortified rice kernels
+
+*2024-07-09 05:05:19* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-takes-major-step-forward-in-combatting-malnutrition-by-launching-locally-produced-fortified-rice-kernels/34-764010) · `en`
+
+From left: PATH Nutrition State Lead Abhishek Kumar, Connect To Care Chairman Chandita Samaranayake, Grains n Green Managing Director Roshan Perera, President’s Chief of Staff and National Security Senior Adviser Sagala Ratnayaka, Gates Foundation India Country Office Nutrition Lead Ruchika Chugh Sachdeva, PATH Program Manager Dr. Danie Shajie, and WFP Nutrition and School-based Programs Head Dr. Kalana Peiris
+
+The Government of Sri Lanka announced that Sri Lanka has now gained the capacity to produce fortified rice kernels.
+
+The kernels are enriched with folic acid and iron through an extrusion process creating nutrient-rich grains that will be blended with regular rice to produce fortified rice.
+
+...
+
+[Data](articles/640bf076.json)
+
+---
+
+### Ceylon Chamber and MDF partner to empower women business development coaches
+
+*2024-07-09 05:03:17* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-and-MDF-partner-to-empower-women-business-development-coaches/34-764009) · `en`
+
+Aiming to advance gender inclusivity and promote women’s economic empowerment, The Ceylon Chamber of Commerce in collaboration with MDF Training and Consultancy successfully concluded a Training of Trainers (ToT) program designed to enhance the capabilities of women business development coaches in Sri Lanka.
+
+Titled “Building the Capacity of Women Business Development Coaches in Sri Lanka,” the program was conducted in two intensive sessions, with 30 coaches participating. The program is designed to cultivate a dynamic network of women trainers who can support and mentor women entrepreneurs, thereby strengthening the ecosystem for women entrepreneurs in Sri Lanka.
+
+...
+
+[Data](articles/9548b765.json)
+
+---
+
+### Macktiles Masterpieces unveils groundbreaking luxury tile collection, redefining “Made in Sri Lanka”
+
+*2024-07-09 05:01:30* · [`dailyftlk`](https://www.ft.lk/business/Macktiles-Masterpieces-unveils-groundbreaking-luxury-tile-collection-redefining-Made-in-Sri-Lanka/34-764008) · `en`
+
+From left: Macksons Holdings Director Mizha Mizver, Buddhi Batiks CEO and Creative Director Darshi Keerthisena, Macksons Holdings Director Shimmer Milfer and Macktiles Head of Finance Aaqil Faraz
+
+In a landmark event that fused tradition with innovation, Macktiles, Sri Lanka’s largest tile manufacturer, unveiled its groundbreaking Macktiles Masterpieces Buddhi Batiks Luxury Tile Collection in collaboration with renowned luxury batik design label, Buddhi Batiks. The event, held at the prestigious Shangri-La Hotel, showcased the transformative power of Sri Lankan design and craftsmanship, setting a new benchmark for luxury in the global market.
+
+The Macktiles Masterpieces Buddhi Batiks Luxury Tile Collection is a testament to the company’s commitment to pushing the boundaries of design and innovation. By seamlessly blending batik artistry with cutting-edge tile manufacturing technology, Macktiles has created a collection that is both visually stunning and culturally significant.
+
+...
+
+[Data](articles/b297266a.json)
+
+---
+
+### Hayleys Solar selected for first-of-its-kind ADB-developed and financed Agrivoltaics project
+
+*2024-07-09 04:59:47* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Solar-selected-for-first-of-its-kind-ADB-developed-and-financed-Agrivoltaics-project/34-764007) · `en`
+
+The Asian Development Bank (ADB) together with the Sri Lanka Sustainable Energy Authority (SLSEA) under the Ministry of Power and Energy (MOPE), the Tea Smallholders Development Authority (TSHDA) under the Ministry of Plantation Industries (MOPI), the University of Peradeniya, and Hayleys Solar inaugurated Sri Lanka’s first-ever semi-transparent solar PV-powered Agrivoltaics Demonstration Project.
+
+Agrivoltaics are built on the innovative practice of installing solar panels above lands suitable for growing crops. The key innovation in the ADB-developed project, implemented in Hanthana, Kandy, lies in transparent solar panels, allowing sunlight to reach crops while generating clean energy, and maximising land use efficiency. This initiative marks a significant milestone for the country’s clean energy and agricultural industries.
+
+...
+
+[Data](articles/a68c924f.json)
+
+---
+
+### Siyambalapitiya announces registration of 14 new sectors for tax payment
+
+*2024-07-09 04:58:21* · [`dailyftlk`](https://www.ft.lk/business/Siyambalapitiya-announces-registration-of-14-new-sectors-for-tax-payment/34-764006) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya yesterday announced that 14 sectors, previously overlooked, have now been registered for tax payments and are required to pay taxes.
+
+He highlighted that this marks an unprecedented focus on ensuring all eligible sectors contribute to the tax net.
+
+Siyambalapitiya emphasised that no sector is exempt from taxation, countering claims that private schools, tutoring classes, large-scale private medical service providers, engineering services, legal services, and surveyor services were not being taxed.
+
+“Since last year, these sectors, among others, have been newly brought under tax regulations. The Inland Revenue Department is rigorously auditing the income of those registered in these sectors. This effort has successfully increased the Government’s revenue from 8.3% to over 11% of the gross domestic product (GDP) within a short period,” he added.
+
+...
+
+[Data](articles/72b07ffa.json)
+
+---
+
+### $ 5 m grant to implement project on chemical disposal in Sri Lanka
+
+*2024-07-09 04:57:19* · [`dailyftlk`](https://www.ft.lk/news/5-m-grant-to-implement-project-on-chemical-disposal-in-Sri-Lanka/56-764005) · `en`
+
+Global Environment Facility (GEF) supports joint initiative by Environment Ministry and UNDP
+
+Workshop held to launch project to dispose of POP pesticides in agriculture sector and mercury and waste in healthcare sector
+
+Sri Lanka does not manufacture products which contain POPs or mercury. However, many products containing these substances are imported to the country for various uses every year. Though stringent regulations have been introduced, a lack of capacity in the application of these regulations result in the continued mismanagement of chemical imports to the country.
+
+...
+
+[Data](articles/fbd62b94.json)
+
+---
 
 ### Foreign Affairs Ministry clarifies on Sri Lanka’s continental shelf submissions
 
@@ -2137,163 +2259,5 @@ Accordingly, the landslide warning has been issued to the Ingiriya Pulathsingha,
 [Data](articles/77086d97.json)
 
 [Extended Data](ext_articles/77086d97.ext.json)
-
----
-
-### Sri Lanka leader hands over India-funded smart classrooms ahead of election
-
-*2024-07-08 11:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-hands-over-india-funded-smart-classrooms-ahead-of-election-171211/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe, emulating the island nation’s opposition leader, handed over smart classrooms to Southern Provincial state schools as he is eyeing to contest in a grand independent coalition.
-
-Analysts see the move as a strategy to face a rising support for a similar project implemented by main opposition leader Sajith Premadasa who has been distributing smart classes and relevant equipment for schools across the country with funding he has not disclosed.
-
-President Wickremesinghe distributed the digital equipment under an Indian grant project worth 300 million Sri Lanka rupees ($1 million) for establishing 200 smart classrooms with 2200 smart tablets being provided to school students in Southern Province.
-
-The project aims at equipping 200 schools in the Province with necessary digital tools that would enable them to benefit from digital resources and materials across the globe, the Indian High Commission said in a statement.
-
-...
-
-[Data](articles/d07ef341.json)
-
-[Extended Data](ext_articles/d07ef341.ext.json)
-
----
-
-### President’s term in office is 5 years - AG tells court
-
-*2024-07-08 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100368/presidents-term-in-office-is-5-years-ag-tells-court) · `en`
-
-The Attorney General’s Department has informed the Supreme Court that, according to the current Constitution, the tenure of the President is five years.
-
-Deputy Solicitor General Kanishka De Silva, appearing on behalf of the Acting Attorney General, revealed this to the court when the petition regarding the President’s term in office was taken up for consideration today (08).
-
-She also mentioned that preliminary objections would be raised, seeking the dismissal of the petition.
-
-The Supreme Court has taken up for consideration the Fundamental Rights (FR) petition, which requests an interim order to prevent the presidential election from being held within the currently scheduled period until the court provides an interpretation regarding the end date of the current President’s term.
-
-A five-member Supreme Court bench, comprising Chief Justice Jayantha Jayasuriya, Justices Vijith Malalgoda, Murdu Fernando, Preethi Padman Surasena, and S. Thurairaja, had been named to consider the petition.
-
-...
-
-[Data](articles/9c8d401b.json)
-
-[Extended Data](ext_articles/9c8d401b.ext.json)
-
----
-
-### Surprise defeat for far-right in France in Macron’s snap election gambit
-
-*2024-07-08 11:25:00* · [`economynextcom`](https://economynext.com/surprise-defeat-for-far-right-in-france-in-macrons-snap-election-gambit-171206/) · `en`
-
-ECONOMYNEXT — President Emanuel Macron’s gamble in calling a snap poll somewhat paid off after a left-wing alliance secured the highest number of seats in the French parliament, effectively defeating an alliance led by the far-right National Rally.
-
-The Economist reported that Marine Le Pen’s National Rally (RN)-led bloc, which was widely anticipated to top the voting, will now end up in third place, securing 134 to 152 seats. However, this is still a major win for the once-fringe party which only held 88 seats in the outgoing parliament, indicating the mainstreaming of its hard-right ideology.
-
-A left-wing alliance led by Jean-Luc Melenchon is projected to have secured 171-187 seats after what CNN has called tactical voting in Sunday’s second round election. CNN noted that France will be left in political limbo after no party came close to winning an absolute majority.
-
-...
-
-[Data](articles/a7c0dc52.json)
-
-[Extended Data](ext_articles/a7c0dc52.ext.json)
-
----
-
-### One dead, popular singer among several injured in Athurugiriya shooting
-
-*2024-07-08 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100367/one-dead-popular-singer-among-several-injured-in-athurugiriya-shooting) · `en`
-
-One person has been reported dead, while at least three others were left injured following a shooting incident at Oruwala, Athurugiriya.
-
-The injured individuals have been admitted to the Homagama Hospital, according to the police.
-
-The deceased has been identified as the individual known as “Club Wasantha” while popular singer K. Sujeewa is also among the injured from the incident.
-
-◼️
-
-[Data](articles/2ef977c4.json)
-
-[Extended Data](ext_articles/2ef977c4.ext.json)
-
----
-
-### ‘Club Wasantha’ killed in shooting, singer K. Sujeewa among several injured
-
-*2024-07-08 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100367/club-wasantha-killed-in-shooting-singer-k-sujeewa-among-several-injured) · `en`
-
-UPDATE: (1.45 p.m.) - The car used in the Athurugiriya shooting incident, which resulted in the deaths of two individuals including Surendra Wasantha Perera also known as “Club Wasantha”, has been found in the Koratota area in Kaduwela by the police.
-
-The shooting had occurred during the opening ceremony of a beauty salon near the Clock Tower in Athurugiriya. Six persons were rushed to hospital following the shooting.
-
-However, police later confirmed that well-known businessman 55-year-old Surendra Wasantha Perera, also known as “Club Wasantha”. and a 38-year-old male had succumbed to injuries on admission to the hospital.
-
-Additionally, four other individuals including the popular singer K. Sujeewa were injured and are currently receiving treatment at hospital. The four injured persons includes three females.
-
-An injured woman and a man are being treated at the Colombo National Hospital while the other women are being treated at the Homagama Hospital.
-
-...
-
-[Data](articles/c3b51083.json)
-
-[Extended Data](ext_articles/c3b51083.ext.json)
-
----
-
-### Four people injured in shooting
-
-*2024-07-08 11:10:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டில்-நால்வர்-காயம்/175-340025) · `ta`
-
-A shooting in Athurugiriya injured four, including singer Sujeeva and 'Club Vasantha', who later died. Victims were hospitalized in Homagama and Athurugiriya.
-
-🟩
-
-The shooting that took place in the city of Athurugiriya, including famous singer Sujeeva, was injured in the shooting incident.
-
-'Club Vasantha' dies of the injured. It is noteworthy that the injured were admitted to the Homagama and Athurugiriya hospitals.
-
-◼️
-
-[Data](articles/3f92206c.json)
-
-[Extended Data](ext_articles/3f92206c.ext.json)
-
----
-
-### 'Club Vasantha' shot: Many many others
-
-*2024-07-08 11:10:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-சுட்டுக்கொலை-பலர்-படுகாயம்/175-340025) · `ta`
-
-"Urandra Vasantha Perera, known as 'Club Vasantha,' was fatally shot at Athurugiriya junction during a Tattoo studio opening. Singer K. Sujeeva and others were injured and hospitalized, with Sujeeva later transferred to Colombo National Hospital."
-
-🟩
-
-Urandra Vasantha Perera, also known as 'Club Vasantha', was killed in a shooting incident at the Athurugiriya junction, and many others, including singer K. Sujeeva, have been admitted to the hospital, Athurugiriya police said.
-
-The shooting incident occurred during the opening of the Tattoo studio, police said.
-
-Meanwhile, hospital sources said that the singer Sujeeva and another have been transferred to the Colombo National Hospital for further treatment.
-
-◼️
-
-[Data](articles/c36ffbe5.json)
-
-[Extended Data](ext_articles/c36ffbe5.ext.json)
-
----
-
-### Presidential pardons: an unchecked executive power
-
-*2024-07-08 11:07:00* · [`islandlk`](http://island.lk/presidential-pardons-an-unchecked-executive-power/) · `en`
-
-A pardon is defined in Black’s Law Dictionary ‘as an act of grace’. In the Oxford Dictionary it is defined as an “action of forgiving or remission of the legal consequences of an offence or conviction”. Some argue that the power to grant a pardon is a check on the powers of the judiciary rectifying any miscarriage of justice. But this executive power unchecked could result in the abuse of power.
-
-In recent times, President Sirisena granted two pardons – one within six months and the other within nine days of relinquishing office while President Gotabay Rajapaksa granted two pardons – one within four months of becoming president and the other seven months after he received a two thirds majority in Parliament.
-
-...
-
-[Data](articles/3c14ff01.json)
-
-[Extended Data](ext_articles/3c14ff01.ext.json)
 
 ---

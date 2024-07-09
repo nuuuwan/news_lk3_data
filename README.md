@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 05:05:10**
+As of **2024-07-10 05:19:54**
 
 ## Newspaper Stats
 
-*Scraped **34,479** Articles*
+*Scraped **34,480** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 337
 newsfirstlk | 363
 islandlk | 1,936
 economynextcom | 2,034
-dailyftlk | 2,149
+dailyftlk | 2,150
 adalk | 3,101
 adaderanalk | 3,958
 tamilmirrorlk | 4,100
@@ -26,11 +26,33 @@ adaderanasinhalalk | 5,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,476 (100.0%) of 34,479 articles have been extended.
+34,479 (100.0%) of 34,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### Ali Sabry tells world Sri Lanka’s economy showing signs of recovery on CNA
+
+*2024-07-10 05:07:07* · [`dailyftlk`](https://www.ft.lk/business/Ali-Sabry-tells-world-Sri-Lanka-s-economy-showing-signs-of-recovery-on-CNA/34-764050) · `en`
+
+In a compelling narrative, Foreign Affairs Minister Ali Sabry announced on Monday that the country’s economy, emerging from a severe crisis, is demonstrating remarkable resilience and improvement.
+
+Speaking on CNA’s Asia First program in Singapore, Sabry highlighted key indicators of economic recovery, including a surge in tourism and a strengthening of the rupee.
+
+Sabry elaborated that the completion of significant restructuring efforts, both locally and with international bondholders, has nearly restored the country’s debt sustainability.
+
+He said this progress is expected to reopen access to international markets for concessionary loans, which are crucial for economic revitalisation.
+
+“Our focus now is on fostering growth to improve living standards and income levels,” the Foreign Minister stated.
+
+He underscored the importance of attracting investments across various sectors to stimulate economic growth.
+
+...
+
+[Data](articles/87f1e1b7.json)
+
+---
 
 ### EFC holds 95th Annual General Meeting
 
@@ -47,6 +69,8 @@ Dinesh Weerakkody, a former Chairman of the Employees’ Trust Fund Board of Sri
 ...
 
 [Data](articles/b23b19e1.json)
+
+[Extended Data](ext_articles/b23b19e1.ext.json)
 
 ---
 
@@ -66,6 +90,8 @@ The event was graced by Ambassador of the People’s Republic of China to Sri La
 
 [Data](articles/fdf6d190.json)
 
+[Extended Data](ext_articles/fdf6d190.ext.json)
+
 ---
 
 ### Sri Lanka Thailand Business Council Ex-Co calls on new Ambassador
@@ -81,6 +107,8 @@ In a notable event aimed at fostering international cooperation and understandin
 ...
 
 [Data](articles/142fb69a.json)
+
+[Extended Data](ext_articles/142fb69a.ext.json)
 
 ---
 
@@ -2347,31 +2375,5 @@ Steps were handed over to the Hikkaduwa Department of Wildlife Conservation for 
 [Data](articles/048e9b5a.json)
 
 [Extended Data](ext_articles/048e9b5a.ext.json)
-
----
-
-### Railway Collection
-
-*2024-07-09 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198632) · `si`
-
-Coastal railway traffic disrupted; train stranded near Colombo Fort. Two compartments damaged. Train service from Galle to Sivakwease affected. Normalcy expected after several hours.
-
-🟩
-
-Traffic on the coastal railway line has been interrupted due to a railway line.
-
-A train from the Panadura Railway Station to Colombo Fort this morning (09) was located near the Fort Railway Station.
-
-The Railway Department states that two train compartments have been identified as two roads on the coastal railway line.
-
-As a result, the train from Galle passes from Galle to the Sivakwease Station.
-
-However, the train has not begun and the train has not begun and it will take several more hours to get railroads to normalize.
-
-◼️
-
-[Data](articles/773bbae9.json)
-
-[Extended Data](ext_articles/773bbae9.ext.json)
 
 ---

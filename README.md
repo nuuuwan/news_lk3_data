@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 06:01:37**
+As of **2024-07-09 07:01:23**
 
 ## Newspaper Stats
 
-*Scraped **34,306** Articles*
+*Scraped **34,308** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 2,022
 dailyftlk | 2,146
 adalk | 3,077
 adaderanalk | 3,931
-tamilmirrorlk | 4,076
+tamilmirrorlk | 4,077
 dailymirrorlk | 4,733
 virakesarilk | 5,364
-adaderanasinhalalk | 5,704
+adaderanasinhalalk | 5,705
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,298 (100.0%) of 34,306 articles have been extended.
+34,301 (100.0%) of 34,308 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### අද කාලගුණය
+
+*2024-07-09 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198617) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (09) දිනයේ වැසිවාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/1b17b030.json)
+
+---
 
 ### Sri Lanka’s journey towards a brighter future: Reflections from outgoing World Bank Group country management
 
@@ -46,6 +64,8 @@ As our tenures end as Country Director and Country Manager for the World Bank an
 
 [Data](articles/03fd4f4d.json)
 
+[Extended Data](ext_articles/03fd4f4d.ext.json)
+
 ---
 
 ### Promoting inclusive economic growth and private sector investment in Sri Lanka
@@ -59,6 +79,8 @@ In 2024, Sri Lanka will be negotiating a challenging economic environment that i
 ...
 
 [Data](articles/4362201f.json)
+
+[Extended Data](ext_articles/4362201f.ext.json)
 
 ---
 
@@ -75,6 +97,8 @@ Bankruptcy, according to one definition, “is a legal proceeding when a person 
 ...
 
 [Data](articles/81fba577.json)
+
+[Extended Data](ext_articles/81fba577.ext.json)
 
 ---
 
@@ -433,6 +457,22 @@ I know that doctors have gone to the hospital for the past three days.
 [Data](articles/3b1a5459.json)
 
 [Extended Data](ext_articles/3b1a5459.ext.json)
+
+---
+
+### மின் கட்டணத் திருத்தம்: வாய்மூல கருத்துக் கோரல் இன்று
+
+*2024-07-09 00:14:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணத்-திருத்தம்-வாய்மூல-கருத்துக்-கோரல்-இன்று/175-340066) · `ta`
+
+2024 ஆம் ஆண்டுக்கான இரண்டாம் உத்தேச மின் கட்டணத் திருத்தம் தொடர்பான மக்களின் வாய்மூல கருத்துக் கோரல்கள் இன்று இடம்பெறவுள்ளதாக பொதுப் பயன்பாடுகள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+இன்றி முற்பகல் 9 மணி முதல் பிற்பகல் 4.30 வரை பண்டாரநாயக்க மாநாட்டு மண்டபத்தில் இந்தக் கருத்துக் கோரல்கள் ஏற்றுக் கொள்ளப்படவுள்ளதாக அந்த ஆணைக்குழு விடுத்துள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+இது தொடர்பான எழுத்து மூலக் கருத்துக் கோரல்கள் நேற்றுடன் நிறைவு பெற்றுள்ளன. (a)
+
+◼️
+
+[Data](articles/4ea592d5.json)
 
 ---
 
@@ -2199,53 +2239,5 @@ Two injured were still receiving treatment at Homagama Hospital
 [Data](articles/21b4fc68.json)
 
 [Extended Data](ext_articles/21b4fc68.ext.json)
-
----
-
-### Club Wasantha Dissa Risha Arts
-
-*2024-07-08 11:42:08* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩිතැබීමකින්-ක්ලබ්-වසන්ත-මියයි-ගායන-ශිල්පිනි-කේ-සුජීවාට-බරපතල-තුවාල/11-410665) · `si`
-
-In Athurugiriya, two were fatally shot and six injured during an incident at a business opening. Victims include popular businessman and singer Surendra Wasantha, also known as Club Spring, and another individual treated at Jatick Hospital. The shooters escaped in a car; two victims remain hospitalized.
-
-🟩
-
-Two were killed and six injured in a shot of shooting in Athurugiriya, Athurugala.
-
-Surendra Wasantha alias or Club spring died, a famous businessman who has faced shooting and is a popular singer K. Another person from the Jatick Hospital, police said.
-
-The shooting has taken place at the opening of a business station and the shotters had fled from a car.
-
-Two injured were still receiving treatment at Homagama Hospital
-
-◼️
-
-[Data](articles/39f26348.json)
-
-[Extended Data](ext_articles/39f26348.ext.json)
-
----
-
-### Interim petition from Wimal
-
-*2024-07-08 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198598) · `si`
-
-Wimal Weerawansa, leading the National Freedom Front, has filed an interim petition challenging the "Dupasthana" order for the presidential election, citing the 19th Amendment's intent to limit the President's term to five years. This petition echoes one filed by the JNP's leader, with attorneys-at-law Gamathu Karinasena, Shnali Dias, and Nimashi Fernando representing them in the Supreme Court against the election.
-
-🟩
-
-The Leader of the National Freedom Front, MP Wimal Weerawansa has filed a interim petition demanding the defense of the "Dupasthana" ordered the presidential election.
-
-The 19th Amendment to the Constitution was the intention of the Parliament that the President's term was limited to five years.
-
-The JNP's leader has filed the same interim petition.
-
-Attorneys-at-Law Gamathu Karinasena, Shnali Dias, Nimashi Fernando and the Supreme Court was filed by the Supreme Court today to refute the presidential election.
-
-◼️
-
-[Data](articles/36f1fbe4.json)
-
-[Extended Data](ext_articles/36f1fbe4.ext.json)
 
 ---

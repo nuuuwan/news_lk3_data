@@ -1,36 +1,166 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 08:03:09**
+As of **2024-07-09 08:23:46**
 
 ## Newspaper Stats
 
-*Scraped **34,309** Articles*
+*Scraped **34,330** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 311
-colombotelegraphcom | 320
-bbccomsinhala | 335
+colombotelegraphcom | 321
+bbccomsinhala | 336
 newsfirstlk | 363
-islandlk | 1,925
+islandlk | 1,936
 economynextcom | 2,022
 dailyftlk | 2,146
-adalk | 3,077
-adaderanalk | 3,931
-tamilmirrorlk | 4,077
+adalk | 3,079
+adaderanalk | 3,932
+tamilmirrorlk | 4,079
 dailymirrorlk | 4,733
 virakesarilk | 5,364
-adaderanasinhalalk | 5,705
+adaderanasinhalalk | 5,708
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,309 (100.0%) of 34,309 articles have been extended.
+34,314 (100.0%) of 34,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### Several spells of showers expected in parts of the island
+
+*2024-07-09 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100381/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night.
+
+Strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provincesand in Trincomalee, Hambantota and Monaragala districts, it said.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/5745d39b.json)
+
+---
+
+### ක්ලබ් වසන්තගේ බිරිඳ කලුබෝවිල රෝහලට මාරු කරයි - වෑන් රථයත් හමුවෙයි
+
+*2024-07-09 08:01:46* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්තගේ-බිරිඳ-කලුබෝවිල-රෝහලට-මාරු-කරයි---වෑන්-රථයත්-හමුවෙයි/11-410685) · `si`
+
+අතුරුගිරිය ප්‍රදේශයේ සිදුවූ වෙඩි තැබීමකින් මියගිය සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් (ක්ලබ් වසන්ත ) නැමැත්තාගේ බිරිඳ වැඩිදුර ප්‍රතිකාර සඳහා හෝමාගම මූලික රෝහලෙන් කළුබෝවිල ශික්ෂණ රෝහලට මාරුකර යවා ඇතැයි හෝමාගම මූලික රෝහල පවසයි.
+
+මැණික් විජේවර්ධන (42) කාන්තාව (08) දා උදෑසන අතුරුගිරිය හන්දිය ආසන්නයේ විවෘත කිරීමට නියමිත රූපලාවණ්‍යාගාරයකට පැමිණි අවස්ථාවේදී නාඳුනන වෙඩික්කරුවන් දෙදෙනෙකුගේ වෙඩි පහරින් මෙසේ තුවාල ලබා හෝමාගම මූලික රෝහලට ඇතුලත් කර තිබුණි.
+
+පසුව ඇය ශල්‍යකර්මයක් සඳහා යොමු කොට දැඩිසත්කාරයකගේ ප්‍රතිකාර ලබමින් සිටියදී ඇයගේ තත්ත්වය අසාධ්‍ය බැවින් කළුබෝවිල ශික්ෂණ රෝහලට මාරු කර යැවීමට වෛද්‍යවරුන් පියවර ගෙන ඇති බව රෝහල් ආරංචි මාර්ග පවසයි .
+
+මීට අමතරව රෝහල් ගතව සිටි යොමානා කෞෂධී  ශල්‍යකර්මයකට භාජනය කොට මේ වන විටත්  දැඩි සත්කාරයකගේ ප්‍රතිකාර ලබමින් සිටින බව එම ආරංචි මාර්ග වැඩිදුරටත් පවසයි.
+
+...
+
+[Data](articles/3f264a1d.json)
+
+---
+
+### Dead body of a girl with a bleeding wound
+
+*2024-07-09 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198620) · `si`
+
+A 16-year-old girl was found dead near a rubber plantation in Nivitigala, Watapotha, with injuries suggesting foul play. Identified as a student from the Youth Village, her body was discovered after her mother reported her missing. The police suspect she may have been accidentally killed by a falling rubber tree branch while walking from the plantation.
+
+🟩
+
+A 16-year-old girl who was injured in the face with suspicion with suspicious injuries.
+
+The body was found at a footprint near the rubber cultivation land in Nivitigala, Watapotha yesterday (08).
+
+The deceased has been identified as 16 year old schools, a resident of the Youth Village.
+
+The mother of the deceased is maintained near the Watapotha temple and the girl who had not been schools were not in the home.
+
+According to the police, the mother has telephoned the mother to visit the shower.
+
+The deception of the mother was heading to the house due to the delay in the market, the body of the deceased has been found dead in the footprint of rubber cultivation.
+
+The deceased is currently underway due to a branch of a rubber tree cut off while she was traveling from the rubber estate.
+
+◼️
+
+[Data](articles/4e1d76e9.json)
+
+[Extended Data](ext_articles/4e1d76e9.ext.json)
+
+---
+
+### IGP summoned to the printing commission of the printing and post
+
+*2024-07-09 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198619) · `si`
+
+The Inspector General of Police (IGP) has been called to the Elections Commission regarding the upcoming presidential election. The discussion includes the implementation of the Elections Registration Act, which will limit candidates and possibly increase their bail.
+
+🟩
+
+The IGP has been summoned to the Elections Commission to discuss matters relating to the presidential election.
+
+Chairman of the Election Commission RM V.L Ratnayake said the parties have been summoned to the Elections Commission to discuss the basics related to the presidential election.
+
+Accordingly, the government's printing and the Postcaster is due to arrive at the Elections Commission today.
+
+The IGP is due to arrive at the Election Commission within the next few days.
+
+The Commissioner of Commissioner Chairman RMA V. Ratnayake said that the power to announce the presidential election according to the Constitution.
+
+Meanwhile, the Commissioner General of Elections Saman Sri Ratnayake says that the Elections Registration Act will be implemented in the next presidential election.
+
+He points out that every candidate who is contesting for the election will be limited.
+
+He also planned to increase the bail of candidates on the presidential election.
+
+◼️
+
+[Data](articles/03d7b48c.json)
+
+[Extended Data](ext_articles/03d7b48c.ext.json)
+
+---
+
+### Tott Shop owner takes 5
+
+*2024-07-09 06:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198618) · `si`
+
+In Athurugiriya, five individuals have given statements about a shooting incident that resulted in the death of Sirithndra Wasantha Perera, also known as "Club Wasantha," and injuries to four others, including Sujeewa. The suspects involved in the shooting were apprehended by the police in Bulathsinhala, and several special police teams are investigating the case.
+
+🟩
+
+Athurugiriya has recorded statements from five persons regarding the shooting incident in Athurugiriya.
+
+Police Media Spokesperson DIG's PSP, said the police spokesman, Nihal Talduuwa that the relevant statements have been recorded by the Athurugiriya Police.
+
+According to the TATTO center in Athurugiriya, a shooting, has recorded statements.
+
+Sirithndra Wasantha Perera, or "Club Wasantha", was killed in a shooting in Athurugiriya yesterday (08).
+
+Cerefriend Ki. Four others, including Sujeewa, were injured and hospitalized.
+
+Hospital sources said that she has been severely injured in the Colombo National Hospital with serious injuries.
+
+The wife of the murdered Club Wasantha was receiving treatment at Homagama Base Hospital while she was transferred to the Kalubowila hospital for further treatment.
+
+Meanwhile, the suspects involved in the shooting incident have been recovered by the police in Bulathsinhala.
+
+...
+
+[Data](articles/86d5b721.json)
+
+[Extended Data](ext_articles/86d5b721.ext.json)
+
+---
 
 ### Weather today
 
@@ -420,6 +550,80 @@ It is also expected that the law is expected to amend the law in Parliament on T
 
 ---
 
+### Minneriya, Kothuru, the best of Asian Elephants in the World
+
+*2024-07-09 02:10:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn4v5p9rz7ro) · `si`
+
+Asian elephants from Minneriya and Kothuru, known as the best in Asia, have recently returned after leaving the Moragahakanda reservoir project in 2018. These elephants, found mainly in Minneriya and Kaudulla parks in Sri Lanka, are crucial for the country's biodiversity. With around 100 elephants in 200 herds, controlling water resources is essential for their survival and ensuring future generations can witness these magnificent creatures.
+
+🟩
+
+None contains none of this.
+
+The Elephant who left the Moragahakanda reservoir project in the year 2018, Minneriya and Kaudulla parks have returned these days.
+
+As a result of researchers on the recent discussions with the Irrigation, Mahaweli and Wildlines, the decrease in the recent discussions with irrigation, Mahaweli and Wildlines.
+
+'' The world is only 13 people in the world. Asian elephants can look good in Sri Lanka. Minneriya, Kaudulla National Park. There are 100 elephants, 200 herds. If we control this water, the world-famous vision will be able to see the future generation. "
+
+◼️
+
+[Data](articles/d9ec7a04.json)
+
+[Extended Data](ext_articles/d9ec7a04.ext.json)
+
+---
+
+### Electoral Success Calls For Greater Transparency Rather Than Less
+
+*2024-07-09 01:30:13* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/electoral-success-calls-for-greater-transparency-rather-than-less/) · `en`
+
+The deadline for presidential elections is fast approaching and the Election Commissioner will be empowered to declare the date of the election on July 17, just over a week from now. The election rallies are becoming larger and feistier. The two main opposition parties are showing their growing strength in the numbers attending their political rallies. The government too is unifying to meet the challenge. The most recent public meeting brought together the leading members of the ruling SLPP who have been thought to be at loggerheads. Many have resurfaced into the public domain, which they lost when the economy collapsed and they had to go into hiding.
+
+...
+
+[Data](articles/759526be.json)
+
+---
+
+### ’சவால்களை வெற்றிகொள்ளும் புத்தரின் போதனைகள்’
+
+*2024-07-09 00:44:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவால்களை-வெற்றிகொள்ளும்-புத்தரின்-போதனைகள்/175-340068) · `ta`
+
+பௌத்த மதத்திற்கும் நாம் தற்போது பயணித்துக்கொண்டிருக்கும் நவீன விஞ்ஞானம் மற்றும் தொழிநுட்ப உலகிற்கும் இடையில் பாரிய தொடர்பு இருக்கின்றது எனவும் உலகம் எதிர்நோக்கும் எதிர்கால சவால்களை வெற்றிகொள்ளும் வழி புத்தரின் போதனைகளில் உள்ளடங்குகின்றது என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+சப்ரகமுவ மாகாண சபை கேட்போர் கூடத்தில் நேற்று இடம்பெற்ற இலங்கை அமரபுர மகா நிகாயவின் அமரபுர தின நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+
+வண. வெலிதர, மஹகராவே ஞானவிமலதிஸ்ஸ தேரரின் மாபெரும் அர்ப்பணிப்பின் பின்னர் 1802 ஆம் ஆண்டு அமரபுர மகா நிகாய ஸ்தாபிக்கப்பட்டது. வண. மடிஹே பஞ்ஞாசீஹ, அக்கமஹா பண்டித வண. பலாங்கொட ஆனந்த மைத்ரி, வண. தவுல்தென ஞானீஸ்வர, வண. கொடுகொட தம்மாவாஸ, வண. தொடம்பஹல சந்தசிறி போன்றவர்கள் அமரபுர மகா நிகாயவை தலைமை தாங்கினர்.
+
+...
+
+[Data](articles/8eff6970.json)
+
+---
+
+### If the salary is raised will increase the tax
+
+*2024-07-09 00:25:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளத்தை-உயர்த்தினால்-வரி-அதிகரிக்கும்/175-340067) · `ta`
+
+Raising salaries could lead to a tax hike, as Treasury Secretary Mahinda Siriwardena mentioned that increasing wages might raise the VAT from 18% to 21%. This was discussed during a meeting at the Presidential Secretariat led by President Ranil Wickremesinghe, addressing demands from public service unions. The President considered solutions to the unions' requests, highlighting the potential impact of wage increases on taxation.
+
+🟩
+
+Treasury Secretary Mahinda Siriwardena said that if the salary increase of the strike, the current 18 percent value added tax will increase from 20 percent to 21 percent.
+
+President Ranil Wickremesinghe, headed by President Ranil Wickremesinghe at the Presidential Secretariat yesterday, made these comments on the demands made by the public service unions.
+
+Many of the unions related to the public service have been brought to the President's attention in this regard regarding the occupational activity that has made many demands and the favorable solutions to the demands made by the trade unions have been discussed.. (A)
+
+◼️
+
+[Data](articles/5bff3aef.json)
+
+[Extended Data](ext_articles/5bff3aef.ext.json)
+
+---
+
 ### Chavakachcheri Resource Hospital issue: Minister Douglas Devananda
 
 *2024-07-09 00:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187994) · `ta`
@@ -599,6 +803,100 @@ During the shooting attack, one can see the disappearance of the club and the pr
 [Data](articles/3cab86a5.json)
 
 [Extended Data](ext_articles/3cab86a5.ext.json)
+
+---
+
+### Another happening scene…
+
+*2024-07-08 22:58:00* · [`islandlk`](http://island.lk/another-happening-scene/) · `en`
+
+Although the young ones of the good ole days are now grown up and married, having families, etc., I’m glad they still keep in touch with me, through my pages in
+
+They all remember the days when there were get-together events, outings, etc., with some of our leading musicians joining in as well.
+
+Three stalwarts, from that era, are planning a day’s outing in order to meet and greet some of the older folks, and also the present day young ones.
+
+Dilanth De Silva, Mazeeha Halaj and Dayanthi Senanayake, popular figures on social media (Facebook), say that the outing will be to a resort in Negombo and will include lunch, afternoon tea, snacks, etc., plus fun games, with prizes to be won.
+
+The date mentioned is Saturday, 27th July, but they need confirmation from those wanting to be a part of this fun-filled package by 20th July.
+
+You are required to call Dilanth (0772364301), Mazeeha (0775199807) or Dayanthi (0773541254) for more details, and the cost.
+
+...
+
+[Data](articles/152747f7.json)
+
+---
+
+### Sri Lanka showcases maritime prowess at Posidonia 2024
+
+*2024-07-08 22:43:00* · [`islandlk`](http://island.lk/sri-lanka-showcases-maritime-prowess-at-posidonia-2024/) · `en`
+
+Five leading Sri Lankan maritime service providers recently showcased the nation’s maritime capabilities at Posidonia 2024, the world’s largest shipping exhibition, which was held in Athens, Greece, in June 2024. This biennial event attracts global industry leaders, and this year, Sri Lanka made a presence with its comprehensive display of maritime services, reinforcing its status as “the maritime hub of South Asia”.
+
+...
+
+[Data](articles/adb18aea.json)
+
+---
+
+### Lion Brewery commended at Presidential Environment Awards
+
+*2024-07-08 22:42:00* · [`islandlk`](http://island.lk/lion-brewery-commended-at-presidential-environment-awards/) · `en`
+
+In recognition of its environmental stewardship, Lion Brewery (Ceylon) PLC was recognized at the Presidential Environment Awards 2024 with a Silver Award in the Food and Beverage category.
+
+Lion Brewery operations are governed through an Integrated Management System, built on the global ISO standards platform comprising, ISO 22000:2018, (Food Safety) ISO 14001:2015 (Environment), ISO45001:2018 (Occupational Health and Safety) and ISO 27001: 2013 (Information Security). Lion has also recently been recommended for certification for ISO 50001:2018 which is the energy management system and one of the materialities for the brewery under its ESG framework.
+
+LOLC Technologies unveils Sri Lanka’s first LLm-based chatbot for banking and financial services
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/c3935f1a.json)
+
+---
+
+### LOLC Technologies unveils Sri Lanka’s first LLm-based chatbot for banking and financial services
+
+*2024-07-08 22:41:00* · [`islandlk`](http://island.lk/lolc-technologies-unveils-sri-lankas-first-llm-based-chatbot-for-banking-and-financial-services/) · `en`
+
+In a groundbreaking move for the banking and financial services industry in Sri Lanka, LOLC Technologies has launched an AI-driven chatbot powered by a Large Language Model (LLM). This innovative development marks the first use of such cutting-edge technology in the local financial sector, setting a new benchmark for customer service and engagement.
+
+The newly introduced chatbot leverages the latest advancements in artificial intelligence to deliver seamless and natural conversations with customers. Unlike traditional chatbots that rely on pre-programmed scripts or menu base, these advanced chatbots use transformers, a deep learning architecture, to understand and respond to customers questions with exceptional context awareness.
+
+...
+
+[Data](articles/4ceb7b50.json)
+
+---
+
+### AIA Insurance bags multiple wins at the 4A’s Advertising Awards 2024
+
+*2024-07-08 22:39:00* · [`islandlk`](http://island.lk/aia-insurance-bags-multiple-wins-at-the-4as-advertising-awards-2024-2/) · `en`
+
+AIA Insurance shone at the recently held 4A’s Advertising with a remarkable five awards recognising the company’s creative and engaging campaigns.
+
+...
+
+[Data](articles/da3300f4.json)
+
+---
+
+### Selling pressure in share market following court ruling on presidential poll
+
+*2024-07-08 22:38:00* · [`islandlk`](http://island.lk/selling-pressure-in-share-market-following-court-ruling-on-presidential-poll/) · `en`
+
+The stock market kicked off on a positive note yesterday but later witnessed significant selling pressure due to the petition filed in the Supreme Court seeking to prevent the calling of a presidential poll being dismissed by the apex court.
+
+The court determination negatively affected the market’s trading activities and compelled the market to go further down, especially in both indices. The All Share Price Index went down by 105.5 points while S and P SL20 declined by 24.2 points. Turnover stood at Rs 657 million with two crossings. The crossings were reported in Hemas Holdings, which crossed 1.5 million shares to the tune of Rs 122.3 million and its shares traded at Rs 81.50 and Sampath Bank 600,000 shares crossed for Rs 46.8 million; its shares traded at Rs 78.
+
+...
+
+[Data](articles/c5738f91.json)
 
 ---
 
@@ -783,6 +1081,24 @@ The State Minister further stated that last year they highlighted 14 sectors tha
 [Data](articles/4936492c.json)
 
 [Extended Data](ext_articles/4936492c.ext.json)
+
+---
+
+### ලංගමට අලුත් බස් 400ක්
+
+*2024-07-08 19:56:42* · [`adalk`](https://www.ada.lk/breaking_news/ලංගමට-අලුත්-බස්-400ක්/11-410680) · `si`
+
+ශ්‍රී ලංකා ගමනාගමන මණ්ඩලය වෙනුවෙන් නව බස් රථ 400ක් නුදුරේදීම මිලදී ගන්නා බව ලංගම  සභාපති ලලිත් ද අල්විස් මහතා පැවැසීය. ජනපති මාධ්‍ය කේන්ද්‍රයේ පැවැති මාධ්‍ය හමුවකදී ඔහු මේ බව පැවැසීය.
+
+"අපගේ බස් රථ තුළින් දෛනිකව සිදු කරන ගමන් වාර 5500ක් හරහා මගීන් ලක්ෂ 12ක් පමණ සිය ප්‍රවාහන අවශ්‍යතා සපුරා ගන්නවා. ඩිජිටල්කරණ වැඩසටහන නිසි ලෙස ක්‍රියාත්මක කිරීම තුළින් අප ගේ ආදායම ගිලිහී යාම සම්පූර්ණයෙන් නවතා ගැනීමට හැකි බව අපගේ විශ්වාසයයි.
+
+අප පසුගිය වසරේ බස් රථ 400ක් ප්‍රතිසංස්කරණය කර නැවත ධාවනයට එක් කර තිබෙනවා. මේ වසරේත් බස් රථ 400ක් ප්‍රතිසංස්කරණය කෙරෙනවා. ඒ වගේම නව බස්රථ 1000ක් මිල දී ගැනීමට කැබිනට් අනුමැතිය හිමි වී තිබෙනවා. ඒ අනුව බස් රථ 400ක් කඩිනමින් මිළ දී ගැනීම සඳහා ප්‍රසම්පාදන කටයුතුද ආරම්භ කර තිබෙනවා.
+
+සිසු සැරියට අමතරව පාසැල් සිසුන් මෙන්ම කාර්මික විද්‍යාල සිසුන් සඳහා සහනදායී මිල යටතේ බස් රථ සැපයීම මිසු කරන අතර දෛනිකව සිසු සැරිය සඳහා බස් රථ 811ක් ද ඊට අයත් නොවන පාසැල් සේවාවන් සඳහා බස් රථ 890ක්ද අප විසින් සපයනවා.
+
+...
+
+[Data](articles/67dae454.json)
 
 ---
 
@@ -1907,359 +2223,5 @@ An entrepreneur of C. D. Mr. Levy had presented the petition.
 [Data](articles/0cf6d2f3.json)
 
 [Extended Data](ext_articles/0cf6d2f3.ext.json)
-
----
-
-### Athurugiriya shooting CCTV footage out
-
-*2024-07-08 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198602) · `si`
-
-In Athurugiriya, a shooting incident at Club Wasantha resulted in the death of businessman Surestra Wasantha Perera and injuries to five others, including a famous singer. Six victims were rushed to Homagama and Colombo National Hospitals. The suspects fled the scene in a vehicle.
-
-🟩
-
-The shooting CCTV scen in Athurugiriya has been released to the media this morning.
-
-Surestra Wasantha Perera, a famous businessman in Athurugiriya, died of Club Wasantha.
-
-Five others were injured in the shooting and was injured and a famous singer Kijeevisa.
-
-Athurium Town of Athurugiriya
-
-Six persons were injured in the shooting were immediately admitted to the Homagama Hospital and the Colombo National Hospital.
-
-Club was killed while another deceased after another.
-
-The vehicle said that the suspects arrived in the vehicle, police said.
-
-◼️
-
-[Data](articles/e03ebfe6.json)
-
-[Extended Data](ext_articles/e03ebfe6.ext.json)
-
----
-
-### Land, truth & reconciliation commission bills ready for parliament: president
-
-*2024-07-08 12:50:00* · [`economynextcom`](https://economynext.com/land-truth-reconciliation-commission-bills-ready-for-parliament-president-171240/) · `en`
-
-ECONOMYNEXT — Bills for the proposed Truth, Unity and Reconciliation Commission and National Land Commission are ready to be submitted to parliament and an agreement has also been reached on the proposed Jana Sabha system, President Ranil Wickremesinghe said.
-
-Speaking at the funeral of former opposition leader and leader of the Tamil National Alliance (TNA) R Sampanthan, Wickremesinghe said the government has newly proposed decentralising maximum power within the framework of the 13th amendment in the distribution of power, with the report of the Nawaz Commission also to be discussed.
-
-“There are issues among Sinhala, Tamil and Muslim communities with the Forest Department regarding the acquisition of their villages. I hope to empower this commission to resolve those issues by law,” Wickremesinghe said referring to the proposed land commission.
-
-...
-
-[Data](articles/a1069641.json)
-
-[Extended Data](ext_articles/a1069641.ext.json)
-
----
-
-### Sri Lanka Pediatricians urge caution on reporting traumatic incidents related to children
-
-*2024-07-08 12:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-pediatricians-urge-caution-on-reporting-traumatic-incidents-related-to-children-171244/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s collective of paediatricians point out that responsible media coverage should safeguard fundamental rights and privacy of children in the country.
-
-The Sri Lanka College of Paediatricians issued a statement underscoring the importance of protecting the rights, dignity, and privacy of children in the country, after the tragic deaths of two 15-year-olds.
-
-Ensuing media coverage of the incident included CCTV footage, photos and unsubstantiated stories about the two teens broadcasted.
-
-“We believe that responsible media coverage should safeguard fundamental rights,” SLCP said, and “contribute to raising awareness and ensuring the well-being of vulnerable individuals.” (Colombo/Jul8/2024)
-
-◼️
-
-[Data](articles/036bd8b7.json)
-
-[Extended Data](ext_articles/036bd8b7.ext.json)
-
----
-
-### SC concludes hearing of petition seeking to delay Presidential Election
-
-*2024-07-08 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100370/sc-concludes-hearing-of-petition-seeking-to-delay-presidential-election-) · `en`
-
-The hearing of the fundamental rights (FR) petition filed by businessman C.D. Lenawa seeking an order preventing the calling of a Presidential election until the Supreme Court delivers its interpretation on the date of the Presidential poll, and the intervening petitions has been concluded.
-
-Accordingly, the verdict in the case will be announced by the Supreme Court at 12.30 p.m. today.
-
-The petition was filed by an entrepreneur named C.D. Lenawa last Wednesday (3).
-
-The petition requests that an interim order be issued to prevent the holding of the presidential election within the currently scheduled period until the court delivers its interpretation on the date of the next presidential election.
-
-A five-member Supreme Court bench consisting of Chief Justice Jayantha Jayasuriya, Vijith Malalgoda, Murdu Fernando, Preethi Padman Surasena and S. Thurairaja was named to consider the petition today.
-
-...
-
-[Data](articles/a0178621.json)
-
-[Extended Data](ext_articles/a0178621.ext.json)
-
----
-
-### "Two IMPs
-
-*2024-07-08 12:40:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-எம்-பிக்கள்-இருவர்-தாவுவர்/175-340035) · `ta`
-
-Two MPs from the United People's Power party are set to join the government, reportedly receiving cash rewards in US dollars. Harshana Rajakaruna criticized them as "political prostitutes," suggesting more might switch sides to the opposition.
-
-🟩
-
-A United People's Power MP said today (08) that the two MPs of the United People's Power will be rewarded on the dollars.
-
-United People's Power MP Harshana Rajakaruna said that an MP from the Gampaha district and another from the Kalutara district will go to the government soon.
-
-“These political prostitutes have fallen on concessions, including cash rewards on US dollars,” said Parliamentarian Rajakaruna.
-
-"We are going to lose only a few MPs, but many are ready to give up their positions and go to the opposition," he added.
-
-◼️
-
-[Data](articles/d37a2370.json)
-
-[Extended Data](ext_articles/d37a2370.ext.json)
-
----
-
-### Schools running tomorrow
-
-*2024-07-08 12:33:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகள்-நாளை-இயங்கும்/175-340034) · `ta`
-
-All schools will operate normally tomorrow due to a sudden teacher shortage caused by illness. The Ministry of Education made this announcement.
-
-🟩
-
-The Ministry of Education has announced that all schools will run tomorrow (09) as usual. Chancellor and teachers will jump on a sick holiday struggle tomorrow (09). In this case, the Ministry of Education has announced the above.
-
-◼️
-
-[Data](articles/caa4af52.json)
-
-[Extended Data](ext_articles/caa4af52.ext.json)
-
----
-
-### Another killed in shooting in Athurugiriya
-
-*2024-07-08 12:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198601) · `si`
-
-A shooting in Athurugiriya resulted in the death of businessman Sorchandra Wasantha Perera, also known as Club Wasantha, and injuries to five others including a popular singer. The incident occurred near a beauty firm around 10 am, with six victims admitted to hospitals. Police suspect the shooters arrived in a vehicle.
-
-🟩
-
-Another person was killed in a shooting in Athurugiriya.
-
-The shooting took place around 10 am today (08), where the famous businessman, Sorchandra Wasantha Perera, or Club Wasantha died.
-
-Five more were injured in the shooting and was injured and a popular singer Kijeevisa.
-
-The shooting of a beauty agency is nearing a beauty firm near the clock stance in Athurugiriya.
-
-Six persons were injured in the shooting were immediately admitted to the Homagama Hospital and the Colombo National Hospital.
-
-Club spring died, and another injured have died.
-
-The vehicle said that the suspects arrived in the vehicle, police said.
-
-◼️
-
-[Data](articles/fb0fc312.json)
-
-[Extended Data](ext_articles/fb0fc312.ext.json)
-
----
-
-### The decision to consider the presidency on the presidency in a short time
-
-*2024-07-08 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198600) · `si`
-
-The Supreme Court will announce its verdict on the presidential election today at 12:30 pm, concluding the series of petitions related to the election.
-
-🟩
-
-The petition and its intermediate petitions have been completed by the Presidential election until the Presidential election is given a manifestation of the presidential election.
-
-The Supreme Court verdict will be announced today at 12.30 pm.
-
-◼️
-
-[Data](articles/244c004e.json)
-
-[Extended Data](ext_articles/244c004e.ext.json)
-
----
-
-### Notice issued on functioning of schools tomorrow
-
-*2024-07-08 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100369/notice-issued-on-functioning-of-schools-tomorrow) · `en`
-
-The Ministry of Education states that government schools across the island will function as usual tomorrow (9).
-
-This was communicated in a statement issued by the Ministry of Education today (8).
-
-Meanwhile, it is reported that teacher-principal trade unions are scheduled to engage in trade union action by reporting ‘sick’ tomorrow.
-
-◼️
-
-[Data](articles/ea8ab200.json)
-
-[Extended Data](ext_articles/ea8ab200.ext.json)
-
----
-
-### Child killed
-
-*2024-07-08 12:10:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்த்-தொட்டியில்-விழுந்து-குழந்தை-பலி/175-340032) · `ta`
-
-In the Methena area, a three-year-old child drowned in the family's water tank. The mother, with her two other children, ages nine and three, was present but couldn't save him. After searching, she found her missing three-year-old at the hospital, where he was pronounced dead upon arrival, indicating no medical intervention could have saved him.
-
-🟩
-
-A three -year -old child died in the water tank of the house in the Methena area.
-
-The mother of the deceased child has taken her nine -year -old child and a three -year -old child to the place where the water tank is outside the house.
-
-The mother who took a nine -year -old child after taking a bath and took a three -year -old child near the water tank.
-
-The mother who came out was taken to the Meethena Hospital when she searched for a three -year -old child.
-
-Hospital officials said the child died without treatment.
-
-◼️
-
-[Data](articles/68b632ce.json)
-
-[Extended Data](ext_articles/68b632ce.ext.json)
-
----
-
-### Demonstration in favor of doctor Archana
-
-*2024-07-08 12:00:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அர்ச்சுனாவுக்கு-ஆதரவாக-ஆர்ப்பாட்டம்/175-340030) · `ta`
-
-Protesters outside Chavakachcheri Resource Hospital demanded Dr. Archana not be transferred after authorities blocked her water supply due to illness. The demonstration turned violent until the doctor received water, leading to a temporary halt in protests.
-
-🟩
-
-A massive people struggle is being carried out in front of the Chavakachcheri Resource Hospital on Monday (08) demanding that the doctor not transfer Archana.
-
-In this case, the authorities prevented the doctor from supplying water. In this case his health was ill. Since then, the protesters have again crossed the street and engaged in a protest.
-
-It is noteworthy that the road shutdown has been abandoned as the doctor has been given water.
-
-◼️
-
-[Data](articles/360cb434.json)
-
-[Extended Data](ext_articles/360cb434.ext.json)
-
----
-
-### Demonstration in favor of doctor Archana
-
-*2024-07-08 12:00:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அர்ச்சனாவுக்கு-ஆதரவாக-ஆர்ப்பாட்டம்/175-340030) · `ta`
-
-Protesters outside Chavakachcheri Resource Hospital demanded Dr. Archana not be transferred after authorities blocked her water supply due to illness. The demonstration turned violent until the doctor received water, ending the road shutdown.
-
-🟩
-
-A massive mass struggle is being carried out in front of the Chavakachcheri Resource Hospital on Monday (08) demanding that the doctor not transfer Archana.
-
-In this case, the authorities prevented the doctor from supplying water. In this case his health was ill. Since then, the protesters have again crossed the street and engaged in a protest.
-
-It is noteworthy that the road shutdown has been abandoned as the doctor has been given water.
-
-◼️
-
-[Data](articles/8d45f9cf.json)
-
-[Extended Data](ext_articles/8d45f9cf.ext.json)
-
----
-
-### Ministry announced tomorrow
-
-*2024-07-08 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198599) · `si`
-
-The Ministry of Education has confirmed that all government schools will open as usual tomorrow (09).
-
-🟩
-
-The Ministry of Education has issued a statement regarding the conducting schools tomorrow (09).
-
-The announcement states that all government schools will be held tomorrow.
-
-◼️
-
-[Data](articles/1371d107.json)
-
-[Extended Data](ext_articles/1371d107.ext.json)
-
----
-
-### Sri Lanka presidential election will be held in 2024 despite legal challenges: president
-
-*2024-07-08 11:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-election-will-be-held-in-2024-despite-legal-challenges-president-171232/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s presidential election will be held in 2024 regardless of legal challenges, President Ranil Wickremesinghe said.
-
-The President’s Media Division (PMD) quoted Wickremesinghe as saying that parliamentary elections and provincial councils will follow the presidential poll.
-
-He made this remark at the funeral of former opposition leader and leader of the Tami National Alliance (TNA) R Sampanthan in Trincomalee on Sunday July 07.
-
-“It is declared necessary to hold provincial council elections. However, we have discussed and decided to hold the presidential election first. Regardless of any legal challenges, the presidential election will be held this year. Following that, parliamentary elections will be conducted, and then provincial council elections will be held,” the PMD quoted the president as saying.
-
-...
-
-[Data](articles/c62c4a54.json)
-
-[Extended Data](ext_articles/c62c4a54.ext.json)
-
----
-
-### Sri Lanka central bank extends deadline for updating depositor unique identification number
-
-*2024-07-08 11:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-extends-deadline-for-updating-depositor-unique-identification-number-171207/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has mandated all licensed banks and licensed finance companies to record unique identification numbers for depositors when opening or maintaining deposit accounts, and to update the unique identification numbers of existing depositors.
-
-This was initially announced from October 1, 2022. The deadline for updating the unique identification numbers of existing depositors has been extended to December 31, 2024.
-
-Depositors must now use the following mandatory unique identification numbers when opening or maintaining deposit accounts with licensed banks and licensed finance companies:
-
-Failure to record the specified unique identification number, or the use of alternative identification numbers, will cause delays and inconvenience for depositors when seeking compensation under the Sri Lanka Deposit Insurance Scheme if and when the licence of a bank or a finance company is cancelled, CBSL pointed out. (Colombo/Jul8/2024)
-
-◼️
-
-[Data](articles/eb761c23.json)
-
-[Extended Data](ext_articles/eb761c23.ext.json)
-
----
-
-### Club spring dies in a shooting
-
-*2024-07-08 11:42:08* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-තැබීමකින්-ක්ලබ්-වසන්ත-මිය-යයි-ගායන-ශිල්පිනි-කේ-සුජීවාට-බරපතල-තුවාල/11-410665) · `si`
-
-In Athurugiriya, two were killed including famous businessman and singer Club Spring (real name Surendra Wasantha), while six others were injured during a shooting at a business opening. The shooters escaped in a car. Two victims remain hospitalized.
-
-🟩
-
-Two were killed and six injured in a shot of shooting in Athurugiriya, Athurugala.
-
-Surendra Wasantha alias or Club spring died, a famous businessman who has faced shooting and is a popular singer K. Another person from the Jatick Hospital, police said.
-
-The shooting has taken place at the opening of a business station and the shotters had fled from a car.
-
-Two injured were still receiving treatment at Homagama Hospital
-
-◼️
-
-[Data](articles/21b4fc68.json)
-
-[Extended Data](ext_articles/21b4fc68.ext.json)
 
 ---

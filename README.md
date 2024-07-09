@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 05:38:32**
+As of **2024-07-09 06:01:37**
 
 ## Newspaper Stats
 
-*Scraped **34,303** Articles*
+*Scraped **34,306** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 335
 newsfirstlk | 363
 islandlk | 1,925
 economynextcom | 2,022
-dailyftlk | 2,143
+dailyftlk | 2,146
 adalk | 3,077
 adaderanalk | 3,931
 tamilmirrorlk | 4,076
@@ -26,11 +26,57 @@ adaderanasinhalalk | 5,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,295 (100.0%) of 34,303 articles have been extended.
+34,298 (100.0%) of 34,306 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### Sri Lanka’s journey towards a brighter future: Reflections from outgoing World Bank Group country management
+
+*2024-07-09 05:32:52* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-journey-towards-a-brighter-future-Reflections-from-outgoing-World-Bank-Group-country-management/4-764016) · `en`
+
+Sri Lanka’s true potential for transformative change lies in its human capital—the perseverance and unbreakable spirit of the Sri Lankan people
+
+Outgoing World Bank Country Director for Maldives, Nepal and Sri Lanka, World Bank Country Manager for Maldives and Sri Lanka, and International Finance Corporation Country Manager for Maldives and Sri Lanka speak about the highlights of their tenure in Colombo. They also share their thoughts on the opportunities for Sri Lanka and their parting wishes for the people and the country
+
+As our tenures end as Country Director and Country Manager for the World Bank and Country Manager for the International Finance Corporation, we reflect on our time here in Sri Lanka with a sense of pride and gratitude. Our collective efforts at fostering inclusive, sustainable and resilient growth in the country, have both been challenging and rewarding, and it has been an honour to lead our talented teams in these endeavours.
+
+...
+
+[Data](articles/03fd4f4d.json)
+
+---
+
+### Promoting inclusive economic growth and private sector investment in Sri Lanka
+
+*2024-07-09 05:28:51* · [`dailyftlk`](https://www.ft.lk/columns/Promoting-inclusive-economic-growth-and-private-sector-investment-in-Sri-Lanka/4-764015) · `en`
+
+Sri Lanka is currently experiencing a pivotal moment in its economic development trajectory. Raising the socioeconomic standing of the populace requires pursuing inclusive economic growth and more investment from the private sector. By examining crucial approaches, recognising obstacles, and assimilating global best practices, Sri Lanka may clear the path towards a future that is both affluent and just.
+
+In 2024, Sri Lanka will be negotiating a challenging economic environment that includes persistent budgetary issues, efforts to stabilise macroeconomic circumstances, and the post-pandemic recovery. Remittances from foreign workers, advances in the tourism industry, and increased agricultural output have all contributed to the nation’s GDP growth. Nonetheless, enduring obstacles including the nation’s massive public debt, inflationary pressures, and fundamental economic shortcomings continue to provide formidable obstacles.
+
+...
+
+[Data](articles/4362201f.json)
+
+---
+
+### Politics of bankruptcy and solvency
+
+*2024-07-09 05:24:15* · [`dailyftlk`](https://www.ft.lk/columns/Politics-of-bankruptcy-and-solvency/4-764014) · `en`
+
+President Ranil Wickremesinghe in conversation with his predecessor Gotabaya Rajapaksa in the presence of former President and Prime Minister Mahinda Rajapaksa at the ceremony to mark 27 years in politics by SLPP MP Rohitha Abeygunawardena at the Kalutara Public Ground on Saturday – Pic by Pradeep Pathirana
+
+“Anybody who knows about capitalism knows that bankruptcy is an essential part of capitalism” (Joseph Stiglitz)
+
+Bankruptcy, according to one definition, “is a legal proceeding when a person or business cannot repay outstanding debts or obligations. It offers a fresh start for people who can no longer afford to pay their bills”. What is true for an individual is also true for a country. When Sri Lanka was in the grip of a historic economic crisis and when the Treasury was running out of foreign exchange to fund imports and service foreign debt, talk of an impending bankruptcy or near-bankruptcy started circulating within the financial circles both locally as well as internationally.
+
+...
+
+[Data](articles/81fba577.json)
+
+---
 
 ### Social entrepreneurship: Beacon of hope for Sri Lanka’s recovery
 
@@ -43,6 +89,8 @@ Sri Lanka stands at a critical crossroads in the wake of different reasons such 
 ...
 
 [Data](articles/7d3a8b81.json)
+
+[Extended Data](ext_articles/7d3a8b81.ext.json)
 
 ---
 
@@ -57,6 +105,8 @@ In the current global context, isolation is impossible due to ongoing economic t
 ...
 
 [Data](articles/8a848bfe.json)
+
+[Extended Data](ext_articles/8a848bfe.ext.json)
 
 ---
 
@@ -73,6 +123,8 @@ The kernels are enriched with folic acid and iron through an extrusion process c
 ...
 
 [Data](articles/640bf076.json)
+
+[Extended Data](ext_articles/640bf076.ext.json)
 
 ---
 
@@ -2195,69 +2247,5 @@ Attorneys-at-Law Gamathu Karinasena, Shnali Dias, Nimashi Fernando and the Supre
 [Data](articles/36f1fbe4.json)
 
 [Extended Data](ext_articles/36f1fbe4.ext.json)
-
----
-
-### Presidential election: Petition to reject petition
-
-*2024-07-08 11:34:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தல்-மனு-மனுவை-நிராகரிக்குமாறு-மனு/175-340028) · `ta`
-
-The Attorney General filed a petition in the Supreme Court to dismiss another petition aimed at banning the Elections Commission from holding the 2024 presidential election. The initial objections were raised against the fundamental rights petition by the Attorney General, represented by Deputy Solicitor General Kanishka de Silva during a hearing before Chief Justice Jayantha Jayasuriya and other judges.
-
-🟩
-
-The Attorney General today filed a petition in the Supreme Court to reject the petition, as the Attorney General has raised the initial objections against the fundamental rights petition seeking a ban on the Elections Commission to hold the 2024 presidential election.
-
-The request was made by the Deputy Solicitor General Kanishka de Silva, who appeared on behalf of the Elections Commission, when the funded petition filed by trader Samindra Dayan Lenawa was taken up in the presence of a panel of judges headed by Chief Justice Jayantha Jayasuriya.
-
-◼️
-
-[Data](articles/e1ad3236.json)
-
-[Extended Data](ext_articles/e1ad3236.ext.json)
-
----
-
-### 11 Divisional Secretariats
-
-*2024-07-08 11:32:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/11-பிரதேச-செயலகங்களுக்கு-மண்சரிவு-எச்சரிக்கை/175-340027) · `ta`
-
-A landslide warning for 11 Divisional Secretariats in Kalutara and Ratnapura districts will be active from Monday afternoon due to heavy rains. The areas affected include Ingiriya Pulathsingha, Matugama, Balindanuwara, Ratnapura, Kuruvita, Kiriella, Ayyagama, Alabatha, and Ehaliyagoda.
-
-🟩
-
-The landslide warning issued to 11 Divisional Secretariats in the Kalutara and Ratnapura districts will be in effect on Monday (08) afternoon, the National Building Research Institute said.
-
-The warning has been issued due to heavy rains in some parts of the country.
-
-Accordingly, the landslide warning has been issued to the Ingiriya Pulathsingha, Matugama and Balindanuwara Divisional Secretariat Divisions of the Kalutara District and the Divisional Secretariat of the Ratnapura District, Ratnapura, Kuruvita, Kiriella, Ayyagama, Alabatha and Ehaliyagoda.
-
-◼️
-
-[Data](articles/75db2f9e.json)
-
-[Extended Data](ext_articles/75db2f9e.ext.json)
-
----
-
-### Landslide warning to 11 Divisional Secretariat Divisions
-
-*2024-07-08 11:32:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/11-பிரதேச-செயலக-பிரிவுகளுக்கு-மண்சரிவு-எச்சரிக்கை/175-340027) · `ta`
-
-A landslide warning is issued for 11 Divisional Secretariat Divisions in Kalutara and Ratnapura districts due to heavy rains, effective from Monday afternoon. The areas affected include Ingiriya Pulathsingha, Matugama, Balindanuwara in Kalutara, and Ratnapura, Kuruvita, Kiriella, Ayyagama, Alabatha, and Ehaliyagoda in Ratnapura district.
-
-🟩
-
-The landslide warning issued to 11 Divisional Secretariats in Kalutara and Ratnapura districts will be in effect on Monday (08) afternoon, the National Building Research Institute said.
-
-The warning has been issued due to heavy rains in some parts of the country.
-
-Accordingly, the landslide warning has been issued to the Ingiriya Pulathsingha, Matugama and Balindanuwara Divisional Secretariat Divisions of the Kalutara District and the Divisional Secretariat of the Ratnapura District, Ratnapura, Kuruvita, Kiriella, Ayyagama, Alabatha and Ehaliyagoda.
-
-◼️
-
-[Data](articles/77086d97.json)
-
-[Extended Data](ext_articles/77086d97.ext.json)
 
 ---

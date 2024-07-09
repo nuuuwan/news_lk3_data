@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 23:35:22**
+As of **2024-07-09 23:54:57**
 
 ## Newspaper Stats
 
-*Scraped **34,462** Articles*
+*Scraped **34,468** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 321
 bbccomsinhala | 337
 newsfirstlk | 363
 islandlk | 1,936
-economynextcom | 2,028
+economynextcom | 2,034
 dailyftlk | 2,146
 adalk | 3,101
 adaderanalk | 3,958
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,461 (100.0%) of 34,462 articles have been extended.
+34,461 (100.0%) of 34,468 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -806,6 +806,24 @@ The Parliamentary Communication Unit shows that this amendment has provided the 
 
 ---
 
+### Sri Lanka discussing US$100mn in financing from OPEC Fund
+
+*2024-07-09 18:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-discussing-us100mn-in-financing-from-opec-fund-171459/) · `en`
+
+ECONOMYNEXT  – Sri Lanka is discussing 100 million dollars in financing from the OPEC Fund for Development for irrigation and water security, a Finance Ministry statement said.
+
+The funding was discussed at a meeting Colombo between State Minister for Finance Semasinghe Yusef Almulhem, Country Manager, Asia Pacific Public Sector Operations of the OPEC Fund.
+
+The 100 million will go to support a project linked to Sri Lanka’s Mahaweli River which is already supported by the Asian Development Bank, with a 300 million dollar credit, the statement said.
+
+The willing of OPEC Fund to provide new financing is a sign of progress made in debt restructuring, Semasinghe quoted as saying in statement. (Colombo/Jul09/2024)
+
+◼️
+
+[Data](articles/82556fdc.json)
+
+---
+
 ### Will Bala's 'Wanankan' film previews ..?
 
 *2024-07-09 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188063) · `ta`
@@ -1028,6 +1046,46 @@ When they exploit the labor of workers and when they pay millions. It is reprehe
 
 ---
 
+### Sri Lanka to reward public sector officials who did not strike
+
+*2024-07-09 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-reward-public-sector-officials-who-did-not-strike-171448/) · `en`
+
+ECONOMYNEXT – Sri Lanka will grant a special pay increment to non-executive government officials who reported for duty on July 8 and 9, despite an ongoing trade union action.
+
+They will also be issued a commendation certificate for future promotions, the president’s media division said.
+
+“Non-executive government employees, who reported for duty on July 8 and 9, 2024, will be granted a special salary increment as a token of appreciation for their dedication during a challenging economic period.”
+
+President Ranil Wickremesinghe’s proposal to the Cabinet on the above was approved by the Cabinet today.
+
+Parts of the country’s public sector went on strike, or reported sick, yesterday and today causing immense inconvenience to people.
+
+The government earlier this year provided a monthly allowance of 10,000 rupees to all public servants.
+
+...
+
+[Data](articles/1c6245c5.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 303.90/304.50 to US dollar
+
+*2024-07-09 17:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-303-90-304-50-to-us-dollar-171442/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed slightly stronger at 303.90/304.50 to the US dollar on Tuesday, down from 304.35/50 to the US dollar on Monday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed stable at 10.70/85 percent.
+
+A bond maturing on 15.09.2029 closed at 12.05/10 percent, up from 11.98/12.08 percent.
+
+A bond maturing on 01.10.2032 closed at 12.25/35 percent. (Colombo/Jul9/2024)
+
+◼️
+
+[Data](articles/366a2b28.json)
+
+---
+
 ### Information about the firearms of Club Wasantha's wife
 
 *2024-07-09 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198643) · `si`
@@ -1208,6 +1266,50 @@ It is reported that Prime Minister Modi joined the President last night.
 
 ---
 
+### Sri Lanka to bring in 14 previously untax sectors into direct tax net: state minister
+
+*2024-07-09 16:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-bring-in-14-previously-untax-sectors-into-direct-tax-net-state-minister-171420/) · `en`
+
+ECONOMYNEXT — Sri Lanka plans to tax 14 new previously untaxed sectors including large-scale private tuition classes and private medical services in a bid to increase direct taxation, State Minister of Finance Ranjith Siyambalapitiya said.
+
+He told reporters on Monday July 08 that private schools and private engineering and surveyor services will also be taxed.
+
+The Inland Revenue Department (IRD) has studied the income of persons engaged in the 14 sectors, said Siyambalapitiya.
+
+“It was by paying attention to such sectors that we were able to increase state revenue from 8.3 percent of GDP to over 11 percent in a short time and bring revenue and expenditure to some balance.
+
+“A primary surplus was possible because all of those sectors were thoroughly looked into and revenues collected. We must continue this,” he said.
+
+It was for this reason that the IRD’s Revenue Administration Management Information System (RAMIS) was being deployed, the state minister said.
+
+...
+
+[Data](articles/521ae28a.json)
+
+---
+
+### Sri Lanka stocks close down, activity remains low
+
+*2024-07-09 16:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-activity-remains-low-171429/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
+
+The broader All Share Index closed down 0.48 percent, or 56.63 points, at 11,785; while the more liquid S&P SL20 Index closed down 0.90 percent, or 31.37 points, at 3,437.
+
+A large amount came from a local crossing on John Keells Holdings Plc (Rs90mn), and the share closed down at 200.00.
+
+“The index continued to fall for a consecutive day,” Softlogic Stockbrokers said. “Investors were not active and the turnover remained one of the lowest this year.”
+
+“The broader perception is that the index moved up a few weeks ago because positives were factored in before they materialized, and this could be a correction or consolidation.”
+
+The banking counters continued to close down. Commercial Bank of Ceylon Plc closed down at 101.75, Sampath Bank Plc closed down at 76.30, and Hatton National Bank Plc was down at 195.00.
+
+...
+
+[Data](articles/83c2f2f8.json)
+
+---
+
 ### Did the White House go 8 times the doctor who treats people with Parkinson's disease?New York Times Information
 
 *2024-07-09 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188051) · `ta`
@@ -1371,6 +1473,26 @@ Seven, including 07, including the TTO Center, has been arrested in connection w
 [Data](articles/4e1f98d3.json)
 
 [Extended Data](ext_articles/4e1f98d3.ext.json)
+
+---
+
+### Turkish naval ship to conduct passage exercise with Sri Lanka Navy
+
+*2024-07-09 15:30:00* · [`economynextcom`](https://economynext.com/turkish-naval-ship-to-conduct-passage-exercise-with-sri-lanka-navy-171421/) · `en`
+
+ECONOMYNEXT – The Turkish Naval Force ship TCG Kinaliada called at the Colombo port on a formal visit on Monday morning (9).
+
+TCG Kinaliada will engage in a passage exercise (PASSEX) with a Sri Lanka Navy ship in Colombo seas before departure on July 11, the Navy said in a statement.
+
+The PASSEX will test cooperation, communication and interoperability between the two navies, including ship maneuvering and procedures.
+
+The 99.5m long ship is manned by 152 crew members and commanded by Serkan Dogan. The crew are expected to visit tourist attractions in the country.
+
+Sri Lanka temporarily halted foreign research ships after India and the United States raised security concerns following the visit of two Chinese research vessels in 14 months. Foreign research ships can still use the island nation’s ports for replenishments and crew changes.
+
+...
+
+[Data](articles/340287c2.json)
 
 ---
 
@@ -2251,151 +2373,5 @@ The suspects were residents of the Grandpass Mihindaya and the Jidathitiya area
 [Data](articles/63db404e.json)
 
 [Extended Data](ext_articles/63db404e.ext.json)
-
----
-
-### After Surgery. The latest condition of Sujeewa
-
-*2024-07-09 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198630) · `si`
-
-Dr. Rukshan Bellana, deputy director of Colombo National Hospital, is recovering after surgery performed by Sujeewa. She was under hospital observation. Meanwhile, Suranden Wasantha's wife is treated at Kalubowila Teaching Hospital. Murderers involved in Club Wasantha's case revealed the van's owners, though it's registered by multiple owners. The van, used by the fleeing murderers, was found abandoned in Bulathsinhala.
-
-🟩
-
-Singing for the shooting of the shadder of the Athurugiriya. Deputy Director of the Colombo National Hospital Dr. Rukshan Bellana is recovering after the surgery conducted by Sujeewa.
-
-The doctor said that "Ada Derana" stated that she was under the strict observation of a hospital ward.
-
-Meanwhile, Suranden Wasantha Wasantha alias, or Club Wasantha's wife is currently receiving treatment at the Kalubowila Teaching Hospital.
-
-The murderers who had committed Club Wasantha murder have revealed about the owners of the van owners.
-
-However, the van has been registered by several owners and is inquiry into the matter.
-
-The murderers fleened the van in Bulathsinhala last evening.
-
-The van was found in a lonege of land in Bulathsinhala, the Devalaya and found the car arrived in Karatato, Koratatota area.
-
-◼️
-
-[Data](articles/d24b3dc6.json)
-
-[Extended Data](ext_articles/d24b3dc6.ext.json)
-
----
-
-### Navy came to intelligence
-
-*2024-07-09 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198629) · `si`
-
-The Sri Lanka Navy arrested five individuals involved in smuggling 13 rare animals, including parrots and tortoises, via a ship operating between Negombo and Hikkaduwa. The suspects, from Negombo and Kochchikade, were caught after a special naval operation in the South Sea. The vessel used for the illegal trade has been seized, and all parties are now under investigation by wildlife conservation departments.
-
-🟩
-
-Sri Lanka Navy has arrested five suspects who were illegally transported by birds and reptiles.
-
-They were conducting the racket using a multi-day vessel and the navy has also taken the vessel.
-
-The Navy Intelligence Service regarding a special racket of a special racket of a special racket was a special operation conducted in the South Sea, which was sailing in the South Sea.
-
-There are 13 rare solid plans, parrots, tortoises, and reptiles, including the parrots, tortoises.
-
-Five suspects have been arrested and residents of Negombo and Kochchikade areas.
-
-The Navy has revealed that the vessel leaves fishing from Negombo and engaged in this racket.
-
-The Navy said that the foundations of the Hikkaduwa have been handed over to the Department of Wildlife Conservation for the next legal proceedings of birds and reptiles.
-
-Five fishermen and the vessel have also been handed over to the Forest Conservation Department for further investigations.
-
-◼️
-
-[Data](articles/d00ba53b.json)
-
-[Extended Data](ext_articles/d00ba53b.ext.json)
-
----
-
-### Ali Sabri MP is open
-
-*2024-07-09 11:24:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/அலி-சப்ரி-எம்-பிக்கு-திறந்த-பிடிவிறாந்து/94-340083) · `ta`
-
-MP Ali Sabri Raheem was arrested for allegedly damaging an NGO-owned building. He failed to appear in court, leading to his immediate arrest. The Additional District Judge issued an open order for his production in court.
-
-🟩
-
-Puttalam District Parliamentarian Ali Sabri Raheem has been arrested immediately to produce the court and Mrs. Ayona Wimalaratne, the Additional District Judge and Magistrate, has issued an open order at the Kalpitiya Tourism Magistrate's Court.
-
-The magistrate issued the order while hearing the case of a MP for a parliamentarian at the Puttalam Magistrate's Court.
-
-Earlier, the Member of Parliament did not appear in court and the lawyer on behalf of the member did not appear in court.
-
-It is noteworthy that Kalpitiya police have filed a case against MP Ali Sabri Rahim for allegedly entering a NGO -owned building and destroying property.
-
-◼️
-
-[Data](articles/faa0ce8e.json)
-
-[Extended Data](ext_articles/faa0ce8e.ext.json)
-
----
-
-### Sri Lanka opposition leader bats for teacher jobs for unemployed graduates
-
-*2024-07-09 11:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-leader-bats-for-teacher-jobs-for-unemployed-graduates-171373/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Opposition leader has asked the government to give public sector jobs to 50,000 unemployed graduates, despite the country having a bloated state service sector, and an ongoing strike today by public servants demanding salary increases.
-
-Opposition leader Sajith Premadasa said he had seen unemployed graduates striking on the road side during a visit to the North and East.
-
-“Will they be given appointments? What is their future? Why are not hired for essential vacancies based on their qualifications, they are asking,” he said in parliament.
-
-“In the North and East the requests made by them I am tabling. From the government side what is the governments plan? The unemployed graduates in my estimation is close to 50,000. There is such a number.
-
-“They have got the light from our free education, and will they go straight to the unemployed line, is what I am asking?
-
-...
-
-[Data](articles/8ad7eba1.json)
-
-[Extended Data](ext_articles/8ad7eba1.ext.json)
-
----
-
-### Public sector employees including teachers and postal workers report ‘sick’
-
-*2024-07-09 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100389/-public-sector-employees-including-teachers-and-postal-workers-report-sick) · `en`
-
-Over 200 public sector trade unions, including Grama Niladhari officers will continue their trade union action by reporting ‘sick leave’ for the second consecutive day today (09).
-
-The State and Provincial Public Service Unions Collective launched a trade union action to report ‘sick leave’ yesterday (08) demanding an allowance of Rs. 25,000 for all public sector employees, similar to that was given for the executive officers.
-
-Accordingly, government officials across several sectors did not show up for work yesterday leading to a significant disruption in the daily operations of these institutions including the Department of Registration of Persons and Immigration Department.
-
-In support of this action, the postal workers began a strike action last Sunday (07). The co-convener of the United Postal Trade Unions’ Front Chinthaka Bandara mentioned that their strike will continue until midnight today.
-
-...
-
-[Data](articles/ec4b214a.json)
-
-[Extended Data](ext_articles/ec4b214a.ext.json)
-
----
-
-### Storm Beryl kills three, knocks out power for 2.7 million in Texas
-
-*2024-07-09 10:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100388/storm-beryl-kills-three-knocks-out-power-for-27-million-in-texas) · `en`
-
-Tropical Storm Beryl brought howling winds and torrential rain to southeast Texas on Monday, killing at least three people, flooding highways, closing oil ports, canceling more than 1,300 flights and knocking out power to more than 2.7 million homes and businesses.
-
-Beryl, the season’s earliest Category 5 hurricane on record, weakened from a hurricane after pounding the coastal Texas town of Matagorda with dangerous storm surges and heavy rain before moving across Houston, the U.S. National Hurricane Center (NHC) said. The agency said conditions could spawn tornadoes in Texas, Louisiana and Arkansas.
-
-The storm, which was expected to rapidly weaken as it moved inland, swept a destructive path through Jamaica, Grenada, and St. Vincent and the Grenadines last week. It killed at least 11 in Mexico and the Caribbean and before reaching Texas, Lieutenant Governor Dan Patrick told reporters.
-
-...
-
-[Data](articles/8a4d18fe.json)
-
-[Extended Data](ext_articles/8a4d18fe.ext.json)
 
 ---

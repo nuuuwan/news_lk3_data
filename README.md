@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 21:05:08**
+As of **2024-07-09 21:19:58**
 
 ## Newspaper Stats
 
-*Scraped **34,443** Articles*
+*Scraped **34,444** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,936
 economynextcom | 2,028
 dailyftlk | 2,146
-adalk | 3,098
+adalk | 3,099
 adaderanalk | 3,955
 tamilmirrorlk | 4,098
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,735
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,443 (100.0%) of 34,443 articles have been extended.
+34,444 (100.0%) of 34,444 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -229,6 +229,26 @@ During today's Cabinet meeting, it has been decided not to extend the lease agre
 [Data](articles/458c62a1.json)
 
 [Extended Data](ext_articles/458c62a1.ext.json)
+
+---
+
+### Allowance to check the answer papers
+
+*2024-07-09 18:36:56* · [`adalk`](https://www.ada.lk/breaking_news/උත්තර-පත්‍ර-පරීක්ෂා-කිරීමේ-දීමනා-ඉහළට/11-410698) · `si`
+
+The Cabinet has authorized the Ministry of Examinations to enhance allowances for A/L students taking the GCE exams. Teachers involved in grading these answer sheets will also receive increased allowances.
+
+🟩
+
+Cabinet of Cabinet of Cabinet has approved the Ministry of Examinations (A / L students) to increase the GCE (A / L students)Have been given.
+
+Accordingly, the teachers who test the increased allowance will be provided to teachers who test the answer sheets.
+
+◼️
+
+[Data](articles/a6aaebef.json)
+
+[Extended Data](ext_articles/a6aaebef.ext.json)
 
 ---
 
@@ -2379,31 +2399,5 @@ Police have arrested six suspects, including the owner of a business building in
 [Data](articles/74bec3d9.json)
 
 [Extended Data](ext_articles/74bec3d9.ext.json)
-
----
-
-### Minus
-
-*2024-07-09 09:13:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மர்மமான-முறையில்-உயிரிழந்த-சிறுமி/175-340071) · `ta`
-
-A 16-year-old girl's body was found near a rubber estate in Yohun village, Nivithigalai-Vattaboda, after she failed to attend school. Her mother, who runs a shop nearby, discovered her body mysteriously dead. The police suspect the girl may have accidentally fallen under a cut rubber tree while walking home alone.
-
-🟩
-
-The body of a 16 -year -old girl has been recovered yesterday (08) on a track near the rubber estate in Yohun village in Nivithigalai - Vattaboda.
-
-The mother of the deceased is running a shop near the Vattaboda Vihara and the girl was alone in the house because the girl did not go to school on the incident.
-
-The mother has given a phone call to come to the shop by the police, police said.
-
-The body of the girl has been found mysteriously died when the mother passed through the road to the home.
-
-Police suspect that the death of a rubber tree cut in a rubber tree fell on a girl while walking away from home.
-
-◼️
-
-[Data](articles/7cc7ddbe.json)
-
-[Extended Data](ext_articles/7cc7ddbe.ext.json)
 
 ---

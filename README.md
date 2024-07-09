@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 19:35:16**
+As of **2024-07-09 19:53:28**
 
 ## Newspaper Stats
 
@@ -26,41 +26,57 @@ adaderanasinhalalk | 5,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,435 (100.0%) of 34,439 articles have been extended.
+34,439 (100.0%) of 34,439 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### ஓய்வூதியம் பெறுவோருக்கு இரட்டை கொடுப்பனவு
+### Dual allowance to pensioners
 
 *2024-07-09 19:15:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓய்வூதியம்-பெறுவோருக்கு-இரட்டை-கொடுப்பனவு/175-340103) · `ta`
 
-பதிவு செய்யப்பட்ட 708,231 ஓய்வூதியம் பெறுவோருக்கு ஜூலை 10ஆம் திகதி செலுத்தப்பட வேண்டிய 28.5 பில்லியன் ரூபாய் ஓய்வூதியம் இன்று (09) வங்கிகளில் வைப்புச் செய்ய நடவடிக்கை எடுக்கப்பட்டுள்ளது என ஓய்வூதியத் திணைக்களத்தின் பணிப்பாளர் நாயகம் ஜகத் டி. டயஸ் தெரிவித்தார்.
+The Director General of the Department of Pension deposited 28.5 billion rupees in banks for 708,231 pensioners, ensuring 99.5% receive pensions without delay. Only 13,000 will receive theirs later due to absence on specific days.
 
-இதன்படி சுமார் 99.5% ஓய்வூதியம் பெறுவோர் எவ்வித தாமதமும் இன்றி ஓய்வூதிய கொடுப்பனவைப் பெற்றுக்கொள்வர் எனவும்  பிரதேச செயலகங்களில் பணியாற்றுவோர் ஜூலை 08ஆம், 09 ஆம் திகதிகளில் தமது  கடமையை நிறைவேற்றாததால்  சுமார் 13,000 பேர் மாத்திரம் ஜூலை 11 ஆம் திகதி  ஓய்வூதிய கொடுப்பனவை பெறுவர் எனவும் அவர் மேலும் குறிப்பிட்டார்
+🟩
+
+The Director General of the Department of Pension has taken steps to deposit 28.5 billion rupees in the banks today (09) for the registered 708,231 pensioners.. Said Dias.
+
+Accordingly, about 99.5% of the pensioners will receive a pension allowance without any delay and that only 13,000 people will receive a pension allowance on July 11 as they do not fulfill their duty on July 08 and 9.
 
 ◼️
 
 [Data](articles/f008b520.json)
 
+[Extended Data](ext_articles/f008b520.ext.json)
+
 ---
 
-### වසන්තගේ හා නයන වාසලගේ දේහයන් ඥාතීන්ට භාර දෙයි
+### Spring's and Nayanawasa's body handed over to relatives
 
 *2024-07-09 19:01:26* · [`adalk`](https://www.ada.lk/breaking_news/වසන්තගේ-හා-නයන-වාසලගේ-දේහයන්-ඥාතීන්ට-භාර-දෙයි/11-410700) · `si`
 
-පශ්චාත් මරණ පරීක්ෂණ අවසන් කළ වසන්ත සුරේන්ද්‍ර පෙරේරා නොහොත් ක්ලබ් වසන්තගේ දේහය සහ මියගිය අනෙක් පුද්ගලයාගේ දේහය  හෝමාගම මූලික රෝහලේදී ඥාතීන්ට භාරදීමෙන් අනතුරුව මෘත දේහයන් පිළිබඳ අවසන් කටයුතු සඳහා රැගෙන ගිය බව හෝමාගම මූලික රෝහල පවසයි.
+The bodies of Wasantha Surendra Perera and Nayanawasa were handed over to their respective families from the Homagama Base Hospital. The remains were initially kept at the hospital morgue after being discovered in the Athurugiriya area due to unidentified gunshot wounds. Popular singer Kirinani Kamani Kamin is also hospitalized, undergoing treatment at the Colombo National Hospital and Kalubowila Teaching Hospital.
 
-අතුරුගිරිය ප්‍රදේශයේ ටැටූ නිර්මාණ සේවා මධ්‍යස්ථානයක් විවෘත කිරීමේ අවස්ථාවට සහභාගි වී සිටියදී නාඳුනන තුවක්කුකරුවන් දෙදෙනකුගේ වෙඩි පහරින් (08) දා මියගිය  පශ්චාත් මරණ පරීක්ෂණය සඳහා දේහය හෝමාගම මූලික රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කෙරිනි.
+🟩
 
-පසුව මෙසේ මියගිය  කොළඹ 07 වෝර්ඩ් ප්ලේස් අංක 02 / සී හි පදිංචි රාජපක්ෂ අප්පුහාමිලාගේ දොන් සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් (ක්ලබ් වසන්තගේ )(55) හා  අතුරුගිරිය රතුවිලවත්ත අංක 709 / A / 197 හි පදිංචි විජේසූරිය ආරච්චිගේ නයන වාසුල විජේසුරිය (37) හැවිරිදි දෙදෙනකුගේ මෙසේ ඥාතීන්ට භාර දුන් බව රෝහල පවසයි.
+Wasantha Surendra Perera, or the other person's body, was taken to the relatives of the Homagama Hospital at the Homagama Hospital, the Homagama Base Hospital said.
 
-ඒ අනුව  සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්තගේ දේහය  බොරැල්ල ප්‍රදේශයේ පෞද්ගලික මල් ශාලාවකට රැගෙන ගිය අතර නයන වාසුල විජේසූරිය නැමැත්තාගේ දේහය ඔහුගේ නිවසට රැගෙන ගියේය.
+The remains were placed at the Homagama Base Hospital morgue at the opening of two unidentified gunmen in Athurugiriya area.
 
-...
+Don Sorchandra, a resident of Ward Place No. 02 / C (55) and the relatives of Wijesuriya Arachchige Nayakarilawatta, No.The hospital said.
+
+Sirithndra Wasantha Perera, or Club Wasantha was taken to a private flower hall in Borella, and he took the body of Nayana Warzuli Wijesuriya.
+
+Popular singer Kirinani Kamani Kamin Hospital is currently receiving treatment at the Colombo National Hospital and is currently receiving treatment at the Kalubowila Teaching Hospital in the Kalubowila Teaching Hospital.
+
+The Homagama Base Hospital Experinity Medical Officer Praranith Seneviratne had been conducted at the Homagama Base Hospital.
+
+◼️
 
 [Data](articles/bd23da96.json)
+
+[Extended Data](ext_articles/bd23da96.ext.json)
 
 ---
 
@@ -152,21 +168,29 @@ Accordingly, the department further highlighted that the acceptance of applicati
 
 ---
 
-### ඔන්මැක්ස් අධ්‍යක්ෂවරුන්ගේ සියලු දේපල අත්කර ගන්න නියෝග
+### Omax Directors orders overcome all property of directors
 
 *2024-07-09 18:22:45* · [`adalk`](https://www.ada.lk/breaking_news/ඔන්මැක්ස්-අධ්‍යක්ෂවරුන්ගේ-සියලු-දේපල-අත්කර-ගන්න-නියෝග/11-410697) · `si`
 
-නීති විරෝධී පිරමීඩාකාර ගනදෙණු කරමින් රුපියල් කෝටි ගණනක ජනතා මුදල් වංචා කළේ යැයි කියන කළේ යැයි ”ඔන්මැක්ස් ඩී.ටී.” ආයතනයේ අධ්‍යක්ෂකවරුන්ගේ සියලු දේපළ වහාම අත්පත් කරගෙන අධිකරණයට ඉදිරිපත් කිරීමට කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා රහස් පොලීසියට අද (09) නියම කළේය.
+In a case involving OnMaxColombo, the CID was ordered by Chief Magistrate Thilina Gamage to investigate. Several individuals were arrested for alleged fraud, including those involved with 'Cyber Erar', 'Kober Erar', 'Koyabor Erar', 'Koyabar Erar', 'Koita IM'. The accused, including Athula Indika, Saranga Randika, Dananjaya Jayath, Gayashan, and Sampath Sandaruwan, were released on bail. Allegations against Maduranga Prasanna Samarakoon and Kubber Aslam, who fled to Australia and Jordan, were also mentioned.
 
-”ඔන්මැක්ස් ඩී.ටී.” ආයතනය තහනම් කිරීමෙන් පසු ‘සයිබර් එරර්’ සහ ‘කොයින අයි.එම්.’ නමින් ආරම්භ කර ඇති පිරමීඩාකාර මූල්‍ය ආයතන දෙකට සම්බන්ධ පුද්ගලයින් වහාම අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමටද මහේස්ත්‍රාත්වරයා වැඩිදුරටත් නියම කළේය.
+🟩
 
-පිරමීඩාකාර ගනදෙණු කරමින් වංචනික අන්දමින් ජනතාවගෙන් ලබාගත් මුදල් වලින් උපයාගත් දේපළ හා මුදල් තැන තැන්වල සඟවා අති බවට ඉදිරිපත් වූ කරුණු සලකා බැලීමෙන් අනතුරුව මහේස්ත්‍රාත්වරයා එලෙස නියම කළේය.
+OnMaxColombo Chief Magistrate Thilina Gamage prescribed the CID today (09) to the CID today (09).
 
-මෙම සිද්ධියට අදාළ නඩුව කැඳවූ අවස්ථාවේදී ඇප මත මුදාහැර සිටින ”ඔන්මැක්ස් ඩී.ටී.” ආයතනයේ අධ්‍යක්ෂකවරුන් වන අතුල ඉන්දික, සාරංග රන්දික, ධනංජය ජයනාත්, ගයාශාන් සහ සම්පත් සඳරුවන් නමැති පස්දෙනා අධිකරණයේ පෙනී සිටියහ.
+"Onamax DT"The Magistrate also foretold the persons who were immediately arrested for the two pyramids who have been arrested by 'Cyber ​​Erar' and 'Kober Erar' and 'Koyabor Erar' and 'Koyabar Erar' and 'Koyber Erar' and 'Koita IM'.
 
-...
+After considering the properties of money and money earned from the people who were fraudulently earned from the people, the money earned from the people, was hidden by the people who were so fraudulent.
+
+"Onamax DT" is released on bail when the case was taken up at the incident.The directors of the Institute, Athula Indika Indika Indika Indika Indika, Saranga Randika, Dananjaya Jayaath and Gayashan and Sampath Sandaruwan appeared in court.
+
+Maduranga Prasanna Samarakoon and Kubber Aslam allegations were issued by Maduranga and Georgia, which has escaped from Australia and Jordan.
+
+◼️
 
 [Data](articles/2515a8b5.json)
+
+[Extended Data](ext_articles/2515a8b5.ext.json)
 
 ---
 
@@ -188,21 +212,27 @@ Furthermore, he mentioned that due to service disruptions at Divisional Secretar
 
 ---
 
-### විදුලි සංදේශ පනත සම්මතයි
+### The Telecommunication Act passed
 
 *2024-07-09 18:14:23* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-සංදේශ-පනත-සම්මතයි/11-410696) · `si`
 
-ශ්‍රී ලංකා විදුලි සංදේශ (සංශෝධන) පනත් කෙටුම්පත සංශෝධන සහිතව අද (09) පාර්ලිමේන්තුවේදී ඡන්ද විමසීමකින් තොරව සම්මත විය.
+The Telecommunications (Amendment) Bill, introduced by the Minister of Technology, was passed in parliament after 28 years, aiming to amend the Sri Lanka Telecommunication Act No. 25 of 1991. This significant update provides regulatory control over the crucial telecommunications market segment.
 
-පනත් කෙටුම්පත දෙවනවර කියවීමේ විවාදයෙන් අනතුරුව කාරක සභා අවස්ථාවේදී ඊට සංශෝධන එක්විය.
+🟩
 
-1991 අංක 25 දරන ශ්‍රී ලංකා විදුලි සංදේශ පනත සංශෝධනය සඳහා 2024 මැයි 10 දින තාක්ෂණ අමාත්‍යවරයා විසින් මෙම පනත් කෙටුම්පත පාර්ලිමේන්තුවට  ඉදිරිපත් කරන ලද අතර වසර 28කට පසුව මෙම පනත සංශෝධනය සිදු කිරීම සිදුවිය.
+The Telecommunications (Amendment) Bill was passed in parliament today with amendments today (09) with amendments.
 
-ලොව පවතින පිළිගත් ප්‍රමිතීන්ට අනුගතව විදුලි සංදේශ ක්ෂේත්‍රෙය්  වඩාත් තරඟකාරී වෙළඳපොලක් තුළ පාරිභෝගිකයාට වඩාත් සාධාරණයක් ඉටු කිරීම පිණිස අවශ්‍ය   නියාමනය සඳහා ඉඩ ප්‍රස්ථාව මෙම සංශෝධනය මගින් සළසා දී ඇත.
+After reading the Second Reading debate after the Bill, the committee took amendments.
+
+The Bill, the Minister of Technology was presented to the Parliament for the amendment of the Sri Lanka Telecommunication Act No. 25 of 1991 and amended this Act after 28 years.
+
+The amendment has been given the opportunity to regulate the most important market in the telecommunications section of the Telecommunications industry.
 
 ◼️
 
 [Data](articles/b06cfebd.json)
+
+[Extended Data](ext_articles/b06cfebd.ext.json)
 
 ---
 

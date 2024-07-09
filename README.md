@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 12:35:22**
+As of **2024-07-09 12:52:58**
 
 ## Newspaper Stats
 
-*Scraped **34,370** Articles*
+*Scraped **34,372** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,936
 economynextcom | 2,023
 dailyftlk | 2,146
-adalk | 3,085
+adalk | 3,086
 adaderanalk | 3,942
-tamilmirrorlk | 4,085
+tamilmirrorlk | 4,086
 dailymirrorlk | 4,733
 virakesarilk | 5,371
 adaderanasinhalalk | 5,718
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,364 (100.0%) of 34,370 articles have been extended.
+34,370 (100.0%) of 34,372 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### சந்தேகம் என்றால் தனிப்பட்டு முறையிடலாம்: நீதிமன்றம்
+
+*2024-07-09 12:25:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/சந்தேகம்-என்றால்-தனிப்பட்டு-முறையிடலாம்-நீதிமன்றம்/95-340085) · `ta`
+
+கொம்பனிதெருவில் அல்டெயார் அடுக்குமாடி தொடரில், 67 ஆ​ம் மாடியில் இருந்து விழுந்து மரணமடைந்த மாணவன், மாணவியின் மரணம் தொடர்பில் சந்தேகம் இருக்குமாறின், அவைதொடர்பில் பொலிஸில் முறைப்பாடு செய்யுமாறு கோட்டை நீதவான் கோசல சேனாதீர அறிவுறுத்தியுள்ளார்.
+
+இந்த சம்பவம் தொடர்பில் தனிப்பட்ட ரீதியில் முறைப்பாடு செய்யுமாறும் அதற்கான அனுமதியை பெற்றுக்கொள்வதற்காக நீதிமன்றத்தில் ஆஜராகியிருந்த சட்டத்தரணி அசங்க தயாரத்னவுக்கு அறிவுறுத்தினார்.
+
+அல்டெயார் அடுக்குமாடி குடியிருப்பின் 67வது மாடியில் இருந்து தவறி விழுந்த மாணவ, மாணவிகளின் மரணம் சந்தேகத்திற்குரியது என மாணவியின் தந்தை கூறியுள்ளதால், தனிப்பட்ட முறைப்பாடு செய்ய அனுமதி வழங்குமாறு சட்டத்தரணி அசங்க தயாரத்ன கோட்டை நீதவான் நீதிமன்றில் திங்கட்கிழமை (08)  கோரிக்கை விடுத்துள்ளார்.
+
+இரண்டு மாணவர்களின் மரணம் சந்தேகத்திற்குரியது என தனிப்பட்ட முறைப்பாடு செய்ய முடியாது எனவும், இந்த மரணம் சந்தேகத்திற்குரியது என பொலிஸார் குற்றப்பத்திரிகை தாக்கல் செய்ய வேண்டும் எனவும் கோட்டை நீதவான் கோசல சேனாதீர தெரிவித்தார்.
+
+...
+
+[Data](articles/1a57f7f5.json)
+
+---
 
 ### 5 suspects apprehended for smuggling bird and reptile species in southern waters
 
@@ -52,19 +70,25 @@ The multi-day trawler, which was held on the charges of wildlife smuggling, has 
 
 ---
 
-### யாழில் வாகனங்களுக்கு தீ வைப்பு!
+### Fire for vehicles in Jaffna
 
 *2024-07-09 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/188010) · `ta`
 
-யாழ்ப்பாணத்தில் உள்ள மரக்காலை ஒன்றின் உரிமையாளரின் வீட்டினுள் அத்துமீறி நுழைந்த வன்முறை கும்பல், வீட்டின் மீது தாக்குதல் மேற்கொண்டு சொத்துக்களுக்கு சேதம் விளைவித்ததுடன், வீட்டின் முன் நிறுத்தி வைக்கப்பட்டிருந்த வாகனங்களுக்கும் தீ வைத்துள்ளது.
+A violent gang attacked a woodworker's home in Jaffna, setting fire to his property and vehicles. The incident occurred in the Otumadam area, targeting the homeowner and his son, who had previously worked with the gang but is now in France.
 
-ஓட்டுமடம் பகுதியில் உள்ள மரக்காலை ஒன்றின் உரிமையாளரின் வீட்டினுள், இன்று செவ்வாய்க்கிழமை (09) அதிகாலை அத்துமீறி நுழைந்த கும்பலே வன்முறையில் ஈடுபட்டனர்.
+🟩
 
-குறித்த, உரிமையாளரின் மகன், யாழில் இயங்கிய வன்முறை கும்பலுடன் முன்னர் சேர்ந்து இயங்கிய நபர் எனவும், தற்போது பிரான்ஸ் நாட்டில் தஞ்சமடைந்துள்ளதாகவும் தெரிவிக்கப்படுகிறது.
+The violent gang, which broke into the owner of a woodworker in Jaffna, has set fire to the property and damaged the property and set fire to vehicles parked in front of the house.
+
+In the house of the owner of a tree in the Otumadam area, the gang who entered the early hours of Tuesday morning (09) was involved in violence.
+
+It is reported that the son of the owner, who had previously worked with the violent gang in Jaffna and is now a refuge in France.
 
 ◼️
 
 [Data](articles/37424d29.json)
+
+[Extended Data](ext_articles/37424d29.ext.json)
 
 ---
 
@@ -180,45 +204,63 @@ It is noteworthy that Kalpitiya police have filed a case against MP Ali Sabri Ra
 
 ---
 
-### உலகின் மிகப்பெரிய ஜனநாயகத்தின் தலைவர் மொஸ்கோவின் குற்றவாளியை சந்தித்த தருணத்தில் உக்ரைன் மீது கடும் குண்டு வீச்சு - 37 பேர் பலி -சந்திப்பு குறித்து ஜெலென்ஸ்கி விசனம்
+### Jelenski's sadness on Ukraine's death - 37 people killed
 
 *2024-07-09 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/188014) · `ta`
 
-உக்ரைனின் சிறுவர் மருத்துவமனை உட்பட பல பகுதிகள் மீது ரஸ்யா தாக்குதல் மேற்கொண்ட தினத்தில் இந்திய பிரதமர் நரேந்திரமோடி ரஸ்ய ஜனாதிபதி விளாடிமிர் புட்டினை சந்திப்பதை காண்பது கடும் ஏமாற்றமளித்துள்ளது என உக்ரைன் ஜனாதிபதி வொலெடிமிர் ஜெலென்ஸ்கி  தெரிவித்துள்ளார்.
+Ukrainian President Woldemir Jelensky expressed deep disappointment over India's PM Modi meeting Russian President Putin amidst Russia's attacks on Ukraine, including a children's hospital. The incident, which occurred during Modi's first visit to Russia since the conflict began, resulted in over 30 deaths across several Ukrainian cities. This event underscores the global community's concern over the ongoing violence and its impact on innocent civilians, particularly children.
 
-இந்திய பிரதமர் ரஸ்ய ஜனாதிபதியை மொஸ்கோவிற்கு வெளியே உள்ள நோவோ ஓகாரியோவோ என்ற இடத்தில் சந்திப்பில் ஈடுபட்டிருந்த அதேவேளை உக்ரைன் நகரங்களை காலைவேளையில் ரஸ்யாவின் ஏவுகணைகள் தாக்கின.
+🟩
 
-ரஸ்யா உக்ரைனின் மீது இரண்டு வருடங்களிற்கு முன்னர் போர் தொடுத்த பின்னர் இந்திய பிரதமர் ரஸ்யாவிற்கு மேற்கொள்ளும் முதல் விஜயம் இது என்பது குறிப்பிடத்தக்கது.
+Ukrainian President Woldemir Jelensky has said that it is very disappointing to see Indian Prime Minister Narendra Modi Russian President Vladimir Putin on the day of Russia's attack on several parts of Ukraine, including the children's hospital.
 
-உலகின் மிகப்பெரிய ஜனநாயகத்தின் தலைவர் மொஸ்கோவின் இரத்தக்கறை படிந்த குற்றவாளியை இவ்வாறானதொரு நாளில் கட்டித்தழுவுவது கடும் ஏமாற்றத்தை அளிக்கின்றது என ஜெலென்ஸ்கி தெரிவித்துள்ளார்.
+Russia's missiles attacked the cities of Ukraine in the morning while the Indian Prime Minister was meeting with the Indian Prime Minister at Novo Ocario, outside Moscow.
 
-உக்ரைனின் தலைநகரில் உள்ள  சிறுவர் வைத்தியசாலை உட்பட பல நகரங்களின் மீது ரஸ்யா மேற்கொண்ட தாக்குதலில் 30க்கும் அதிகமானவர்கள் கொல்லப்பட்டுள்ளனர்.
+This is the first visit to Indian Prime Minister Russia after Russia waged war on Ukraine two years ago.
+
+Jelensky said that it is a great disappointment for the world's greatest democracy leader Mosco's bloodbath.
+
+More than 30 people have been killed in the attack on several cities, including a children's hospital in Ukraine's capital.
+
+Ukraine officials have said that there have been a day -to -day attack on many cities of Ukraine.
+
+Ukrainian officials said that the attack on Okmatit, the main children's hospital in the capital of Ukraine, said.
 
 ...
 
 [Data](articles/8a03c891.json)
 
+[Extended Data](ext_articles/8a03c891.ext.json)
+
 ---
 
-### அதிபர்கள், ஆசிரியர்கள் சுகவீன விடுமுறைப்போராட்டத்தினால் கல்வி நடவடிக்கைகளில் பாதிப்பு!
+### Principals and teachers are affected by educational activities
 
 *2024-07-09 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188006) · `ta`
 
-நாடளாவிய ரீதியில் அதிபர்கள், ஆசிரியர்கள் பல்வேறு கோரிக்கைகளை முன்வைத்து இன்று செவ்வாய்க்கிழமை (09) சுகயீன விடுமுறை போராட்டத்தில் ஈடுபடுவதன் காரணமாக பாடசாலை கல்வி நடவடிக்கைகள் வெகுவாக பாதிக்கப்பட்டுள்ளன.
+Educational activities across Sri Lanka are significantly impacted by a nationwide teacher strike over unpaid salaries. Schools report low attendance, with students returning home early. The strike, requested by the Sri Lanka Teachers' Union, affects all levels of education, from primary to secondary, including areas like Negombo and Ja-Ela. This situation leads to disappointment among students and disrupts the learning process.
 
-சில பாடசாலைகளில் இன்று செவ்வாய்க்கிழமை (09) அதிபர்கள், ஆசிரியர்கள் வருகை தந்துள்ள நிலையில் மாணவர்களின் வரவுகள் குறைவான நிலையிலேயே காணப்படுகின்றது.
+🟩
 
-பெரும்பாலான பாடசாலைகளில் ஆசிரியர்களின் வரவின்மை காரணமாக பாடசாலைக்கு வருகைதந்த மாணவர்கள் திரும்பிச்சென்றதை காணமுடிந்தது.
+School educational activities have been severely affected due to the ongoing holiday struggle today (09), with various demands and teachers nationwide.
 
-பாடசாலைகளுக்கு முச்சக்கர வண்டிகளிலும் பாடசாலை வாகனங்களிலும் வருகைதந்த மாணவர்கள் ஆசிரியர்கள் வருகைதராத காரணத்தினால் பெரும் கஸ்டங்களை எதிர்நோக்கியதையும் காணமுடிந்தது.
+In some schools, the arrival of principals and teachers on Tuesday (09) is low.
 
-தமக்கான நிலுவை சம்பளத்தினை வழங்க கோரி இலங்கை ஆசிரியர் சங்கம் விடுத்த வேண்டுகோளின் அடிப்படையில் இன்றைய தினம் சுகவீன விடுமுறை போராட்டத்தில் ஈடுபட்டுவருகின்றமை குறிப்பிடத்தக்கது.
+Due to the lack of teachers in most schools, students who visited the school had returned.
 
-ஓட்டமாவடி கல்விக் கோட்டத்தின் கீழுள்ள பாடசாலைகளில் அதிபர், ஆசிரியர்கள் மேற்கொண்ட சுகயீன விடுமுறை காரணமாக பாடசாலைகளுக்கு வருகை தந்த மாணவர்கள் ஏமாற்றத்துடன் வீடுகளுக்கு திரும்பிச் சென்றனர்.
+Students who visited schools and three -wheelers and school vehicles were also seen as facing great customs due to the lack of teachers.
+
+It is noteworthy that the Sri Lanka Teachers Union is engaged in a healthy holiday struggle today on the request of the Sri Lanka Teachers Union to pay their arrears.
+
+Students who attended schools disappointed in the schools under the Ottamavadi academic line due to the illicit holidays by the principal and teachers.
+
+In the Negombo Educational Zone, the educational activities have been stalled in schools in Katanai, Negombo and Ja-Ela.
 
 ...
 
 [Data](articles/557e46d0.json)
+
+[Extended Data](ext_articles/557e46d0.ext.json)
 
 ---
 
@@ -286,21 +328,27 @@ The arrested suspect has been produced before the Vavuniya Magistrate's Court an
 
 ---
 
-### நீர் நிரம்பிய குழியில் விழுந்து குழந்தை உயிரிழப்பு!
+### Baby dies in a water packed pit
 
 *2024-07-09 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/188002) · `ta`
 
-மஹியங்கனை, களுகஹகந்துர வெவதென்ன பகுதியில் 01 வருடமும் 04 மாதங்களுமான குழந்தை ஒன்று நேற்று திங்கட்கிழமை (08) வீட்டிற்கு அருகில் உள்ள நீர் நிரம்பிய குழியொன்றில் விழுந்து உயிரிழந்துள்ளதாக மடுல்சீமை பொலிஸார் தெரிவித்துள்ளனர்.
+In Kalukahakandura, a 1-year-old fell into a nearby water-filled pit while his mother was at work. The child was found dead upon arrival at the hospital. Police suspect foul play and will conduct an autopsy.
 
-சம்பவத்தின் போது குழந்தையின் தாய் குழந்தையை வீட்டில் இருந்த மற்றுமொரு சிறுவரிடம் ஒப்படைத்து விட்டு வேலைக்குச் சென்றுள்ளார்.
+🟩
 
-இதன்போது இந்த குழந்தை வீட்டிற்கு அருகில் உள்ள நீர் நிரம்பிய குழியொன்றில் விழுந்துள்ள நிலையில் வீட்டிற்கு அருகில் உள்ளவர்கள் குழந்தையை வைத்தியசாலைக்கு கொண்டு சென்ற போது குழந்தை ஏற்கனவே உயிரிழந்துவிட்டதாக வைத்தியர்கள் தெரிவித்துள்ளனர்.
+A child for 1 year and 04 months in the Kalukahakandura area, Mahiyanganai, fell into a water -filled pit near the house on Monday (08), Madhulseem police said.
 
-இந்த சம்பவம் தொடர்பில் பொலிஸார் தெரிவிக்கையில், குழந்தையின் மரணம் சந்தேகத்திற்குரியதாக இருப்பதால் பிரேத பரிசோதனைக்காக பதுளை மாகாண பொது வைத்தியசாலைக்கு அனுப்பி வைக்க நடவடிக்கை மேற்கொண்டுள்ளதாக  தெரிவித்துள்ளனர்.
+During the incident, the child's mother handed over the baby to another child at home and went to work.
+
+Doctors said the baby had already died when the baby was taken to the hospital as the child fell into a water -filled pit near the house.
+
+According to the police, the child's death is suspicious and steps have been taken to send it to the Badulla Provincial Hospital for autopsy.
 
 ◼️
 
 [Data](articles/fed1de0a.json)
+
+[Extended Data](ext_articles/fed1de0a.ext.json)
 
 ---
 
@@ -322,19 +370,25 @@ Furthermore, Kaviratne criticized the government, pointing out that it has been 
 
 ---
 
-### பாராளுமன்ற உறுப்பினராக இன்று சண்முகம் குகதாசன் சத்தியப்பிரமாணம்..!
+### Shanmugam Kukadasan Satyapramanam as a Member of Parliament
 
 *2024-07-09 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187999) · `ta`
 
-திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினராக சண்முகம் குகதாசன் பாராளுமன்றத்தில் இன்று செவ்வாய்க்கிழமை (09) சபாநாயகர் முன்னிலையில் சத்தியப்பிரமாணம் செய்துகொள்ளவுள்ளார்.
+It seems like you've shared a detailed narrative about the life and contributions of Shanmugam Kukadasan, focusing on his roles in supporting Tamil refugees, promoting education, and advocating for Tamil rights both in India and Canada. However, you haven't specified a particular question or task related to this information. Could you please clarify what specific assistance you need? Whether it's analyzing the text, extracting certain details, or something else entirely, I'm here to help!
 
-திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினர் இரா. சம்பந்தனுடைய இழப்பை அடுத்து ஏற்பட்ட வெற்றிடத்திற்காக விருப்பு வாக்கின் அடிப்படையில் இரண்டாவது நிலையில் இருக்கின்ற சண்முகம் குகதாசன் பாராளுமன்ற உறுப்பினராக நியமிக்கப்பட்டள்ளார்.
+🟩
 
-இது தொடர்பான வர்த்தமானி அறிவித்தல் 02.07.2024 அன்று வெளியிடப்பட்டிருந்தது. இந்நிலையிலேயே இன்றைய தினம் கூடுகின்ற பாராளுமன்ற அமர்வின்போது அவர் சபாநாயகரின் முன்னிலையில் சத்தியப்பிரமானம் மேற்கொள்ளவுள்ளார்.
+Shanmugam Kukadasan will be sworn in as the Trincomalee District Parliamentarian in the presence of the Speaker on Tuesday (09).
+
+Trincomalee District Parliamentarian. Shanmugam Kukadasan, who is in the second position on the basis of the preferential vote for the vacuum of Sambandan, has been appointed as a Member of Parliament.
+
+The Gazette Notification in this regard was issued on 02.07.2024. It is in this context that he will take oath in the presence of the Speaker during the parliamentary session today.
 
 ...
 
 [Data](articles/65fbda52.json)
+
+[Extended Data](ext_articles/65fbda52.ext.json)
 
 ---
 
@@ -408,23 +462,33 @@ Kaziranga is home to the world’s largest population of one-horned rhinos, whic
 
 ---
 
-### அத்துருகிரிய துப்பாக்கிச் சூடு : துப்பாக்கிதாரிகள் பயன்படுத்திய மற்றுமொரு வாகனம் கண்டுபிடிப்பு
+### Athurugiriya shooting: Another vehicle discovery used by gunmen
 
 *2024-07-09 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/188001) · `ta`
 
-அத்துருகிரிய பகுதியில் நேற்று திங்கட்கிழமை (08) பச்சை குத்தும் நிலையம் ஒன்றில் இடம் பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவத்துடன் தொடர்புடைய துப்பாக்கிதாரிகள் பயன்படுத்தியதாகக் கருதப்படும் வேன் ஒன்று புலத்சிங்கள பிரதேசத்தில் பொலிஸாரால் மீட்கப்பட்டுள்ளது.
+In a shooting at a tattooing station in Athurugiriya, a van allegedly used by gunmen was found abandoned. The incident occurred during the opening of the station, injuring six, including singer K. Sujeeva and businessman Surendra Wasantha Perera, with two fatalities. The van, lacking license plates but bearing a vehicle permit copy, was discovered in Ayyagama, leading to ongoing investigations.
 
-நேற்றைய தினம் மாலை  6.15 மணியளவில் '119' பொலிஸாரின் அவசர தொலைபேசி இலக்கத்திற்கு கிடைத்த தகவலின் அடிப்படையில், புலத்சிங்கள, அயகம பிரதேசத்தில் கைவிடப்பட்ட நிலையில் இந்த வேன் கண்டுபிடிக்கப்பட்டுள்ளது.
+🟩
 
-வேனின் முன்புறத்திலும், பின்புறத்திலும் வாகன இலக்க தகடுகள் காணப்படவில்லை எனவும், வாகன வருமான அனுமதிப் பத்திரத்தின் நகல் ஒட்டப்பட்டிருந்ததாகவும் தெரிவிக்கப்பட்டுள்ளது.
+A van, who is alleged to have been used by gunmen in connection with the shooting incident at a tattooing station on Monday (08), has been rescued by police in Pulathsingha area.
 
-நேற்றைய தினம் காலை அத்துருகிரிய நகரத்தில் பச்சை குத்தும் நிலையம் ஒன்றின் திறப்பு விழா நடைபெற்றது.
+Based on information received by the '119' police of the '119' police at 6.15 pm yesterday, the van was found abandoned in Ayyagama, Ayyagama.
 
-இதன்போது, பிரதம அதிதிகளாக, பிரபல வர்த்தகர் சுரேந்திர வசந்த பெரேரா என்ற கிளப் வசந்த மற்றும் அவரது மனைவி மற்றும் பிரபல பாடகி கே. சுஜீவா ஆகியோர் வருகை தந்திருந்தனர்.
+It has been reported that the vehicle number plates were not found on the front and back of the van and a copy of the vehicle income permit was pasted.
+
+The inauguration of a tattooing center was held yesterday morning in Athurugiriya.
+
+As the chief guests, the famous businessman Surendra Wasantha Perera, the club Vasantha and his wife and famous singer K.. Sujeeva was also present.
+
+Two unidentified men in a white car fired at the tattooing station.
+
+Six persons, including famous singer K. Sujeeva and Surendra Vasantha Perera, known as Club Vasantha, have been injured and admitted to the hospital.
 
 ...
 
 [Data](articles/bb518893.json)
+
+[Extended Data](ext_articles/bb518893.ext.json)
 
 ---
 
@@ -577,6 +641,24 @@ Hospital sources reported that K. Sujeewa, who was seriously injured in her leg,
 [Data](articles/b55074ad.json)
 
 [Extended Data](ext_articles/b55074ad.ext.json)
+
+---
+
+### අවුරුදු 16ක දැරියක් අභිරහස් ලෙස මිය යයි
+
+*2024-07-09 09:24:04* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-16ක-දැරියක්-අභිරහස්-ලෙස-මිය-යයි/11-410686) · `si`
+
+අවුරුදු 16ක් වන දැරියක් මුහුණේ ලේ පැල්ලම් සහිතව රබර් වත්තක මිය ගොස් සිටියදී සොයා ගත් බව පොලීසිය පවසයි. නිවිතිගල වටාපොත, යොවුන් පුර ගම්මානයේ පදිංචිව සිටි දැරියක් මෙසේ ජිවිතක්ෂයට  පත්ව තිබේ.
+
+මරණකාරියගේ මව වටාපොත විහාරස්ථානය අසල වෙළඳසැලක් පවත්වාගෙන යයි. දැරිය ඊයේ දිනයේදී පාසල් නොගොස් ඇති අතර පසුව මව ඇයට දුරකතන ඇමතුමක් ගෙන වෙළඳ සැලට පැමිණෙන ලෙස දන්වා තිබේ.
+
+කෙසේ වෙතත් දැරිය පැමිණිම ප්‍රමාද වීමෙන් මව ඇයව සොයා නිවස වෙත ගමන් කරමින් සිටියදි දියණියගේ සිරුර දැක තිබේ.
+
+දැරිය නිවසේ සිට වෙළඳසැලට යන විට කපා හෙලන ලද රබර් ගසක අත්තක් වැදිම හේතුවෙන් මෙම මරණය සිදුවන්නට ඇති බවට පොලිසිය සැක කරයි.
+
+◼️
+
+[Data](articles/7c4cde5a.json)
 
 ---
 
@@ -2253,45 +2335,5 @@ He was speaking at a press conference held at the President's media centers.
 [Data](articles/ba0429fe.json)
 
 [Extended Data](ext_articles/ba0429fe.ext.json)
-
----
-
-### Salary of Public Servants Rs. Increase in Rs. 280 billion
-
-*2024-07-08 19:20:26* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවක-වැටුප-රු--20000කින්-වැඩි-කරන්න-රු-බිලියන-280ක්-ඕන/11-410674) · `si`
-
-Public servants' salaries may see a 20%-21% increase, totaling Rs. 280 billion, as proposed by General Treasury Secretary Mahinda Siriwardena. This decision follows discussions at the Presidential Secretariat, where various trade union demands were addressed. The move aims to address salary anomalies through recommendations from a specialist committee. However, the increase could strain the budget, potentially requiring tax hikes to fund the Rs. 1,000 salary boost. The government faces challenges in balancing economic stability and satisfying wage demands without exceeding a 3% VAT limit.
-
-🟩
-
-General Treasury Secretary Mahinda Siriwardena that the proposal will be increased by 20% - 21% to the strike, if the public servants who request public servants.He said.
-
-The General Treasury secretary was speaking at the Presidential Secretariat today (08) under the patronage of President Ranil Wickremesinghe today.
-
-A few trade unions have taken on several demands on the public service, the President's attention was held at the discussion and discussed the positive solutions to be given to the trade unions.
-
-It was stated that the recommendations made by the specialist committee appointed to look into the salary anomalies that were appointed to look into the salary anomalies that were appointed to look into the salary anomalies of the public service are expected to revise the public service amendment.
-
-The General Treasury Secretary pointed out that the expenditure increased to Rs.
-
-...
-
-[Data](articles/afba6368.json)
-
-[Extended Data](ext_articles/afba6368.ext.json)
-
----
-
-### The Palestinians Have Exposed The Zionist Tentacles
-
-*2024-07-08 19:16:29* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-palestinians-have-exposed-the-zionist-tentacles/) · `en`
-
-“What we know about how these children are being treated is unacceptable, but what we don’t know could be even worse.” ~ Jason Lee, Save the Children
-
-...
-
-[Data](articles/2f4953c8.json)
-
-[Extended Data](ext_articles/2f4953c8.ext.json)
 
 ---

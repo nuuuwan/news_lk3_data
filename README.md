@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 11:35:18**
+As of **2024-07-09 12:10:15**
 
 ## Newspaper Stats
 
-*Scraped **34,358** Articles*
+*Scraped **34,363** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,112 @@ newsfirstlk | 363
 islandlk | 1,936
 economynextcom | 2,023
 dailyftlk | 2,146
-adalk | 3,084
+adalk | 3,085
 adaderanalk | 3,941
-tamilmirrorlk | 4,084
+tamilmirrorlk | 4,085
 dailymirrorlk | 4,733
 virakesarilk | 5,365
-adaderanasinhalalk | 5,715
+adaderanasinhalalk | 5,718
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,358 (100.0%) of 34,358 articles have been extended.
+34,359 (100.0%) of 34,363 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### රු කෝටියකට අධික අයිස් මත්ද්‍රව්‍ය තොගයක් සමග දෙදෙනෙක් දැලෙ
+
+*2024-07-09 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198631) · `si`
+
+රුපියල් කෝටියකට අධික අයිස් මත්ද්‍රව්‍ය තොගයක් සහ රුපියල් ලක්ෂ 10ක මුදල් සමග පුද්ගලයින් දෙදෙනෙක් පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+එම සැකකරුවන් දෙදෙනා සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය කිලෝ 1 ග්‍රෑම් 14ක් හා මත්ද්‍රව්‍ය ජාවාරමින් උපයා ගත් බවට සැකකරන රුපියල් ලක්‍ෂ 10ක මුදලක් පොලිස් භාරයට ගෙන ඇත.
+
+රුපියල් ලක්ෂ 85ක මුදලකට අයිස් මත්ද්‍රව්‍ය තොගයක් විකිණීමට ගැනුම්කරුවකු සොයන බවට ලද තොරතුරකට අනුව එය මිලදී ගන්නා මුවා වෙන් ගොස් සැකකරුවන් අත්අඩංගුවට ගත් බව පොලීසිය පැවසීය.
+
+විදේශගතව සැඟව සිටින මහා පරිමාණ මත්ද්‍රව්‍ය  ජාවාරම්කරුවකුට මෙම අයිස් මත්ද්‍රව්‍ය තොගය අයත් බවට සැකකරුවන්ගෙන් අනාවරණය වූ බව පොලීසිය සඳහන් කළේය.
+
+අත්අඩංගුවට ගත් සැකකරුවන් ග්‍රෑන්ඩ්පාස් මිහිජය සෙවන මහල් නිවාසයේ සහ ජින්තුපිටිය ප්‍රදේශයේ පදිංචිකරුවන්ය
+
+◼️
+
+[Data](articles/63db404e.json)
+
+---
+
+### ශල්‍යකර්මයෙන් පසු කේ. සුජීවාගේ අලුත්ම තත්ත්වය
+
+*2024-07-09 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198630) · `si`
+
+අතුරුගිරියේ වෙඩිතැබීමෙන් තුවාල ලැබු ගායන ශිල්පිණී කේ. සුජීවා මහත්මියට සිදුකළ ශල්‍යකර්මයෙන් පසුව ඇය සුවය ලබමින් සිටින බව කොළඹ ජාතික රෝහලේ නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා පවසයි.
+
+"අද දෙරණ" ට අදහස් දක්වමින් වෛද්‍යවරයා සඳහන් කර සිටියේ, මේ වනවිට ඇය රෝහල් වාට්ටුවක දැඩි නිරීක්ෂණය යටතේ පසුවන බවය.
+
+මේ අතර වෙඩි තැබීමෙන් තුවාල ලැබු සුරේන්ද්‍ර වසන්ත නොහොත් ක්ලබ් වසන්තගේ බිරිඳ මේ වන විටත් කළුබෝවිල ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබමින් සිටින බව ද වාර්තා වේ.
+
+ක්ලබ් වසන්ත ඝාතනය සිදුකළ ඝාතකයින් පළාගිය වෑන් රථයේ හිමිකරුවන් සම්බන්ධයෙන් ද මේ වනවිට තොරතුරු අනාවරණය වී තිබේ.
+
+කෙසේවෙතත් එම වෑන් රථය හිමිකරුවන් කිහිපදෙනෙකු විසින් ලියාපදිංචි කර ඇති අතර ඒ සම්බන්ධයෙන් තොරතුරු සොයාබලමින් සිටින බව පොලීසිය සඳහන් කළේය.
+
+ඝාතකයින් පළාගිය වෑන් රථය ඊයේ පස්වරුවේ බුලත්සිංහල ප්‍රදේශයේ දී සොයාගනු ලැබීය.
+
+බුලත්සිංහල, දෙමැල්ල ප්‍රදේශයේ පාළු ඉඩමක තිබී වෑන් රථය සොයාගත් අතර වෙඩි තැබීම සඳහා සැකකරුවන් පැමිණි මෝටර් රථය ද කඩුවෙල කොරතොට ප්‍රදේශයේ තිබී සොයාගත් බව පොලීසිය පැවසුවේය.
+
+◼️
+
+[Data](articles/d24b3dc6.json)
+
+---
+
+### නාවික හමුදා බුද්ධි අංශයට ආ ඔත්තුව
+
+*2024-07-09 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198629) · `si`
+
+පක්ෂීන් සහ උරග විශේෂ නීතිවිරෝධී ලෙස මුහුදු මාර්ගයෙන් ප්‍රවාහනය කළ සැකකරුවන් පස් දෙනෙකු නාවික හමුදාව විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+බහුදින ධීවර යාත්‍රාවක් උපයෝගී කරගනිමින් මොවුන් මෙම ජාවාරම සිදුකර ඇති අතර එම යාත්‍රාව ද නාවික හමුදාව සිය භාරයට ගෙන ඇති බව සඳහන්ය.
+
+පක්ෂීන් සහ උරග විශේෂ ජාවාරමක් සම්බන්ධයෙන් නාවික හමුදා බුද්ධි අංශය දීර්ඝ කාලයක සිට සිදුකළ විමර්ශනයක ප්‍රතිඵලයක් ලෙස සුරක්ෂා නෞකාව යොදවා සිදුකළ විශේෂ මෙහෙයුමකදී දකුණු මුහුදේ යාත්‍රා කරමින් තිබූ මෙම බහුදින ධීවර යාත්‍රාව පරීක්ෂාවට ලක් කර තිබේ.
+
+එහිදී එම බහුදින යාත්‍රාව තුළ තිබී දුර්ලභ ඝණයේ පිඹුරන් 13 දෙනෙක්, ගිරවුන්, ඉබ්බන්, තලගොයි ඇතුළු පක්ෂීන් සහ උරගයින් සොයාගෙන ඇති බව සඳහන්ය.
+
+මෙහිදි සැකකරුවන් පස්දෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර ඔවුන් මීගමුව සහ කොච්චිකඩේ යන ප්‍රදේශවල පදිංචිකරුවන් බව නාවික හමුදාව සඳහන් කළේය.
+
+අදාළ යාත්‍රාව මීගමුව ප්‍රදේශයෙන් ධීවර කටයුතු සඳහා පිටත්ව ගොස් මෙම ජාවාරමේ නිරත වන බව ද නාවික හමුදාව සිදුකළ විමර්ශනයේ දී තොරතුරු අනාවරණය වී තිබේ.
+
+...
+
+[Data](articles/d00ba53b.json)
+
+---
+
+### Ali Sabri MP is open
+
+*2024-07-09 11:24:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/அலி-சப்ரி-எம்-பிக்கு-திறந்த-பிடிவிறாந்து/94-340083) · `ta`
+
+MP Ali Sabri Raheem was arrested for allegedly damaging an NGO-owned building. He failed to appear in court, leading to his immediate arrest. The Additional District Judge issued an open order for his production in court.
+
+🟩
+
+Puttalam District Parliamentarian Ali Sabri Raheem has been arrested immediately to produce the court and Mrs. Ayona Wimalaratne, the Additional District Judge and Magistrate, has issued an open order at the Kalpitiya Tourism Magistrate's Court.
+
+The magistrate issued the order while hearing the case of a MP for a parliamentarian at the Puttalam Magistrate's Court.
+
+Earlier, the Member of Parliament did not appear in court and the lawyer on behalf of the member did not appear in court.
+
+It is noteworthy that Kalpitiya police have filed a case against MP Ali Sabri Rahim for allegedly entering a NGO -owned building and destroying property.
+
+◼️
+
+[Data](articles/faa0ce8e.json)
+
+[Extended Data](ext_articles/faa0ce8e.ext.json)
+
+---
 
 ### Public sector employees including teachers and postal workers report ‘sick’
 
@@ -549,6 +639,22 @@ Meanwhile, the assassins of the Athurugiriya shooting murderers met with the bul
 [Data](articles/3f264a1d.json)
 
 [Extended Data](ext_articles/3f264a1d.ext.json)
+
+---
+
+### ඇමති ප්‍රසන්න සමග වාදයට ගිය අධ්‍යක්ෂ ජනරාල් තනතුරෙන් ඉවත් කරයි
+
+*2024-07-09 07:49:18* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-ප්‍රසන්න-සමග-වාදයට-ගිය-අධ්‍යක්ෂ-ජනරාල්-තනතුරෙන්-ඉවත්-කරයි/11-410684) · `si`
+
+නාගරික සංවර්ධන අධිකාරියේ අධ්‍යක්ෂක ජනරාල්වරයා එම තනතුරෙන් ඉවත් කිරීමට පියවර ගත්තේ ඔහුගේ විනය විරෝධී හැසිරීම නිසා බව නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශයේ ලේකම් ඩබ්ලිව්. එස්. සත්‍යානන්ද මහතා අවධාරණය කරයි. ඔහු පෙන්වා දෙන්නේ නාගරික සංවර්ධන අධිකාරි පනතේ 13 (1) වගන්තිය යටතේ විෂය භාර ඇමතිවරයාට පැවරී ඇති බලතල යටතේ මෙම පියවර ගත් බවයි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ 2024 අයවැය යෝජනාවට අනුව කොළඹ තට්ටු නිවාස හිමියන් 50,000කට සින්නක්කර ඔප්පු ලබා දීමේ වැඩපිළිවෙල ආරම්භ කිරීම සම්බන්ධයෙන් පසුගිය 04 වනදා පැවති සාකච්ඡාවක දී හිටපු අධ්‍යක්ෂ ජනරාල්වරයා රාජ්‍ය සේවයට නොගැළපෙන අප්‍රසන්න ආකාරයෙන් හැසිරුණු බවත් එය සමතයකට පත් කිරීම සදහා අධ්‍යක්ෂ ජනරාල්වරයාට ඒ මොහොතේ ශාලාවෙන් ඉවතට යන ලෙස උපදෙස් දුන් බවත් ලේකම්වරයා කියයි.
+
+නාගරික සංවර්ධන අධිකාරියේ අධ්‍යක්ෂ ජනරාල්වරයා තාවකාලිකව ඉවත් කිරීම සහ හිමිකම් ඔප්පු ලබා දීමේ වැඩපිළිවෙල පිළිබදව අධිකාරියේ අධ්‍යක්ෂ මණ්ඩලය දැනුවත් කිරීම සහ ඊයේ (08) පැවති විශේෂ සාකච්ඡාවක දී අමාත්‍යාංශ ලේකම්වරයා මේ බව සදහන් කළේය.
+
+...
+
+[Data](articles/9a98f12d.json)
 
 ---
 
@@ -2189,111 +2295,5 @@ The suspect was produced before the Vavuniya Magistrate's Court yesterday (7/7) 
 [Data](articles/e9b67213.json)
 
 [Extended Data](ext_articles/e9b67213.ext.json)
-
----
-
-### The term of the President's tenure is 5 years old - Supreme Court rules
-
-*2024-07-08 18:11:07* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරයාගේ-ධුර-කාලය-අවුරුදු-5යි---ශ්‍රේෂ්ඨාධිකරණයෙන්-තීන්දුවක්/11-410669) · `si`
-
-The Supreme Court ruled on the interpretation of the President's term length, affecting the upcoming presidential election. A petition filed by an entrepreneur led to the court's intervention, highlighting concerns over the judiciary's role and the constitutionality of the situation. Organizations and legal representatives debated the case, with the Elections Commission and its members being central figures. The court's decision was based on the 19th Amendment to the Constitution, emphasizing the legality of the President's term.
-
-🟩
-
-According to the Constitution, the Supreme Court to be interpreted to the President's term of the President's term to avert the presidential election by holding the presidential election by holding the presidential election by holding the presidential election, the Fundamental Rights Petition filed by an entrepreneur was imposed yesterday (08).
-
-The Supreme Court who pointed out that the judiciary was a clear decision regarding the realization of the President, the Supreme Court was a lack of an entrepreneur and subordinated herself to a liturbis.
-
-Chief Justice Jayantha Jayasuriya Supreme Court Justice Judge Vijith Malalgoda, Mustru Fernando, Preethi Paddan Surutsena and S. The petition was summoned before the Turaralaja.
-
-...
-
-[Data](articles/732127ad.json)
-
-[Extended Data](ext_articles/732127ad.ext.json)
-
----
-
-### Landslides kill 12 on Indonesia’s Sulawesi island, 18 missing
-
-*2024-07-08 17:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100377/-landslides-kill-12-on-indonesias-sulawesi-island-18-missing) · `en`
-
-At least 12 people died and 18 are missing after a torrential rain caused a landslide in an illegal gold mine over the weekend in Indonesia’s Sulawesi island, officials said on Monday.
-
-The landslide on Sunday morning in Suwawa district, Gorontalo province, killed miners and residents living near the illegal mine, said Heriyanto, head of the local rescue agency (Basarnas).
-
-Five survivors had been evacuated, he said, adding that a rescue team was searching for 18 missing people on Monday.
-
-“We have deployed 164 personnel, consisting of the national rescue team, police and military personnel, to search for the missing people,” Heriyanto said.
-
-However, rescuers must walk about 20 kms (12.43 miles) to reach the landslide site and were being hampered by thick mud over the road and continuing rain in the area, Heriyanto said.
-
-“We will try to use an excavator once it’s possible,” he said.
-
-Photos of the affected village shared by the agency showed some houses were flattened by the landslide.
-
-...
-
-[Data](articles/be732b62.json)
-
-[Extended Data](ext_articles/be732b62.ext.json)
-
----
-
-### Last Memology of Club Wasantha
-
-*2024-07-08 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198611) · `si`
-
-Sorchandra Wasantha Perera, known as Kubsantha, was fatally shot in Athurugiriya near a celebration venue linked to a beauty agency. The incident occurred just before a photo was taken, suggesting it might have been related to the event.
-
-🟩
-
-Sorchandra Wasantha Perera alias Kubsantha, or another, was killed in a shooting in Athurugiriya.
-
-Athurugiriya's clock pointing was nearing a celebration company at a cost of beauty agency, and the shooting was said in a photo taken shortly before the shooting.
-
-◼️
-
-[Data](articles/e215e1d8.json)
-
-[Extended Data](ext_articles/e215e1d8.ext.json)
-
----
-
-### Here are 14 brand new fields
-
-*2024-07-08 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198610) · `si`
-
-State Minister Ranjith Siyambalapitiya announced plans to investigate 14 unpaid individuals, including those from various sectors like education and healthcare, following their registration for tax purposes over the past year.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya says that he will pay attention to 14 unimputers who have not been paid.
-
-Speaking to the media in Kegalle, he said that investigations have been started.
-
-No
-
-"In the last year, we bring in 14 fields to register for paying taxes. There are large-scale tuition classes, private schools, private medical services, Engineering Services, Survey Services in Oya 14. Therefore, the Local Income Tax department continues a clear investigation into the income of all those registered in the 14. "
-
-◼️
-
-[Data](articles/660e118b.json)
-
-[Extended Data](ext_articles/660e118b.ext.json)
-
----
-
-### Many Facets Of Madam Blavatsky: A Mystic? A Spy Or A Fraud?
-
-*2024-07-08 17:21:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/many-facets-of-madam-blavatsky-a-mystic-a-spy-or-a-fraud/) · `en`
-
-Madam Blavatsky’s name is not strange for Sri Lankans as one of the early stalwarts to aspire to the Buddhist resurgence in the late 19th century. In the backdrop of British-sponsored Missionary activities, her audacity to stand with the natives in a British colony illustrates her compassion for the Easterners who suffered under foreign subjugation. After the tragic end of the 1883 Kotahena riots, Blavatsky defended the Buddhists, when the colonial government tried to frame them to be the culprits. In an article she authored for “The Theosophist“, Blavatsky argued that the arrogant attitude of the Christian priests and their condescending remarks over Buddhism sparked the riots in 1883 and the following year she accompanied Col. Henry Olcott to London to report the grievances faced by the Sinhalese Buddhists to the Colonial Secretary.
-
-...
-
-[Data](articles/9cac620b.json)
-
-[Extended Data](ext_articles/9cac620b.ext.json)
 
 ---

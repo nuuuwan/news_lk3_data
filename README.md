@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 19:04:51**
+As of **2024-07-09 19:19:50**
 
 ## Newspaper Stats
 
-*Scraped **34,434** Articles*
+*Scraped **34,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,49 +20,77 @@ adaderanalk | 3,955
 tamilmirrorlk | 4,096
 dailymirrorlk | 4,733
 virakesarilk | 5,382
-adaderanasinhalalk | 5,732
+adaderanasinhalalk | 5,733
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,430 (100.0%) of 34,434 articles have been extended.
+34,434 (100.0%) of 34,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### தொழிலாளர்களின் சம்பள விவகாரம்; மனுஷ அதிரடி
+### වසන්තගේ අවසන් මොහොතේ වීඩියෝව
+
+*2024-07-09 18:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198647) · `si`
+
+අතුරුගිරිය නගරයට චිකාගෝවක ස්වරූපය ගෙනඑමින් ඊයේ (08) ඝාතනය කෙරුණු සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්තගේ අවසන් මිනිත්තු කිහිපය දැක්වෙන රූපරාමු පෙළක් අද දෙරණට ලැබී තිබේ.
+
+එහිදී ක්ලබ් වසන්ත සිය බිරිය සමග පොල්තෙල් පහන දැල්වීමට එක්වී තිබුණි.
+
+◼️
+
+[Data](articles/b8136f26.json)
+
+---
+
+### Workers' salary affair;Mankind
 
 *2024-07-09 18:52:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிலாளர்களின்-சம்பள-விவகாரம்-மனுஷ-அதிரடி/175-340102) · `ta`
 
-தோட்டத் தொழிலாளர்களின் சம்பள அதிகரிப்பு தொடர்பான அரசாங்கத்தின் தீர்மானத்திற்கு எதிராக சில பெருந்தோட்டக் கம்பனிகள் நீதிமன்றத்தை நாடியமையால்  ஏற்பட்டுள்ள பிரச்சினைகள்  குறித்து கலந்துரையாடுவதற்காக இலங்கை தொழிலாளர் காங்கிரஸின்  பிரதிநிதிகள் உட்பட  பெருந்தோட்டத் தொழிலாளர்கள் குழுவினர்கள்   தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சில்  இன்று (9 ) அமைச்சர் மனுஷ நாணயக்காரவைச் சந்தித்தனர் .
+Ceylon Workers Congress representatives met Minister Manusha Nanayakkara to discuss plantation companies refusing to pay increased salaries as per the government's decision. The Minister clarified that non-cooperative companies would face lease agreement non-renewal and highlighted that some companies agreed to pay the increased salary along with arrears. President Ranil Wickremesinghe directed the publication of plantation worker housing areas in the gazette, ensuring they benefit from local facilities and excluding them from company maintenance responsibilities. This move addresses concerns over dual policies affecting plantation worker wages and company profits.
 
-குறிப்பிட்ட பெருந்தோட்டக் கம்பனிகள் அதிகரிக்கப்பட்ட சம்பளத்தை வழங்க மறுப்பதால் ஏற்பட்டுள்ள பிரச்சினை குறித்து அமைச்சர் தொழிலாளர் பிரதிநிதிகளிடம் விளக்கினார். மேலும் இன்று இடம்பெற்ற அமைச்சரவை கூட்டத்திலும் இது தொடர்பில் கலந்துரையாடப்பட்டதாக அமைச்சர் குறிப்பிட்டார்
+🟩
 
-தற்போதுள்ள சட்ட திட்டங்களுக்கு அமைய சம்பளத்தை 1350 ரூபாவாகவும், உற்பத்தி திறன் அடிப்படையிலான ஊக்குவிப்பு கொடுப்பனவை 350 ரூபாவாகவும்  அதிகரிப்பதற்காக சம்பள சபையின் மூலம் அரசாங்கத்தால்  மேற்கொள்ளப்பட்ட முயற்சிகளுக்கு பெருந்தோட்ட கம்பனிகள் ஒத்துழைப்பு நல்கவில்லை .
+Plantation workers, including representatives of the Ceylon Workers Congress, met Minister Manusha Nanayakkara in the Ministry of Labor and Foreign Employment today to discuss issues caused by some plantation companies seeking the court against the government's decision on the salary increase of plantation workers.
+
+The Minister explained to the labor representatives on the issue of refusal to pay the increased salary. The Minister also stated that this was discussed at the Cabinet meeting held today
+
+Plantation companies have not cooperated with the government's efforts to increase the salary of the existing legal schemes at Rs 1350 and the productive -based promotion allowance to increase to Rs 350.
+
+During today's Cabinet meeting, it has been decided not to extend the lease agreement of companies that have paid the increased salary of plantation workers
 
 ...
 
 [Data](articles/458c62a1.json)
 
+[Extended Data](ext_articles/458c62a1.ext.json)
+
 ---
 
-### ජුලි විශ්‍රාම වැටුප බැංකු වෙත නිදහස් කරයි
+### July pension releases to banks
 
 *2024-07-09 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198646) · `si`
 
-ජුලි මාසයේ 10 වන දිනට ගෙවීමට නියමිත විශ්‍රාම වැටුප් දීමනාව අද (09) දින බැංකු වෙත නිදහස් කිරීමට කටයුතු කළ බව විශ්‍රාම වැටුප් දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් ජගත් ඩී. ඩයස් මහතා පවසයි.
+Today, the Director General of the Department of Pensions announced the release of pension allowances worth Rs. 28.5 billion to 24 banks and the postal department, ensuring timely payment to over 700,000 pensioners despite public sector strikes.
 
-ඔහු පෙන්වා දෙන්නේ රාජ්‍ය අංශයේ ඇතැම් පිරිසක් වැඩවර්ජනයක නිරතව සිටියද, ලියාපදිංචි විශ්‍රාමිකයින් 708,231කට අදාළ විශ්‍රාම වැටුප් දීමනාව මෙලෙස නිදහස් කර ඇති බවය.
+🟩
 
-ඒ අනුව රුපියල් බිලියන 28.5ක මුදල් රාජ්‍ය හා පෞද්ගලික බැංකු 24කට සහ තැපැල් දෙපාර්තමේන්තුව වෙත නිදහස් කළ බව අධ්‍යක්ෂ ජනරාල්වරයා සඳහන් කළේය.
+Director General of the Department of Pensions Department has been released today (09) to release the pension allowance paid to the 10th of July. Mr. Dias says.
 
-මේ සමග 99.5% ක පමණ පිරිසකට කිසිඳු ප්‍රමාදයකින් තොරව අදාළ දිනය වන ජුලි 10වන දින විශ්‍රාම වැටුප් දීමනාව හිමිවනු ඇති අතර, ප්‍රාදේශීය ලේකම් කාර්යාල ජුලි 08 සහ 09 දිනයන්හි සිය සේවා රාජකාරී සිදු නොකළ හෙයින් 13,000ක පමණ ඉතා සුළු පිරිසකට විශ්‍රාම වැටුප්  දීමනාව ජුලි 11 වන දින හිමිවනු ඇති බවද  විශ්‍රාම වැටුප් දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල්වරයා වැඩිදුරටත් සඳහන් කළේය.
+He pointed out that some of the public sector were working on strike, but the pension allowance of 708,231 registered pensioners had been released.
+
+Accordingly, Rs. 28.5 billion was released to 24 public and private banks and the postal department, the Director General said.
+
+The pension allowance will be paid on July 10, which will not be delayed by about 99.5%.He added that the Director General of the Department of Pensions added.
 
 ◼️
 
 [Data](articles/0cc3f03c.json)
+
+[Extended Data](ext_articles/0cc3f03c.ext.json)
 
 ---
 
@@ -81,6 +109,8 @@ Accordingly, the department further highlighted that the acceptance of applicati
 ◼️
 
 [Data](articles/1dcb87ec.json)
+
+[Extended Data](ext_articles/1dcb87ec.ext.json)
 
 ---
 
@@ -1508,25 +1538,35 @@ The multi-day trawler, which was held on the charges of wildlife smuggling, has 
 
 ---
 
-### යුක්තියේ මෙහෙයුම මැද මහ දවල් ජනාකීර්ණ නගරවල වෙඩි තැබීම් සිදුවන්නේ කෙසේද?
+### How does the operation of justice are shooting in the crowded cities of the middle of the justice?
 
 *2024-07-09 12:06:58* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp9vkjz8m4do) · `si`
 
-යුක්තියේ මෙහෙයුම මැද මහ දවල් ජනාකීර්ණ නගරවල වෙඩි තැබීම් සිදුවන්නේ කෙසේද?
+In crowded urban areas, justice operations face challenges due to the complexity of managing crime and ensuring public safety. The establishment of specialized units, like the 'Second Stage' initiated with military support, aims to tackle these issues effectively. However, incidents like mass shootings highlight gaps in protection and swift response times. Critics argue for improved police training, use of advanced technologies, and stricter measures against organized crime to enhance public safety and justice operations.
 
-යුද හමුදාවේ ද සහය ඇතිව ජුලි මස 4 වෙනිදා 'යුක්තියේ මෙහෙයුම - දෙවන අදියර' ආරම්භ කළ බවට පොලිසිය විසින් නිවේදනය කරන ලදී.
+🟩
 
-යුක්තියේ මෙහෙයුමේ දෙවන අදියර ආරම්භ කොට දින 04ක් ගතවද්දී මහජනයා විශාල වශයෙන් ගැවෙසෙන අතුරුගිරිය නගර මධ්‍යට සමීපව පිහිටි වෙළඳ ආයතනයක් තුළදී ( ජුලි මස 08) සිදුවූ වෙඩි තැබීමෙන් ව්‍යාපාරික සුරේන්ද්‍ර වසන්ත පෙරේරා සහ තවත් පුද්ගලයෙකු මිය යෑමේ සිද්ධිය ගැන බොහෝ දෙනාගේ අවධානය යොමු වූ කරුණක් විය.
+How does the operation of justice are shooting in the crowded cities of the middle of the justice?
 
-මෙම වෙඩි තැබීමේ සිදුවූ වෙළෙඳ සැල පිහිටි ස්ථානයේ සිට අතුරුගිරිය පොලිසිය පිහිටා ඇත්තේ කිලෝමීටරයක පමණ දුරකින්ය.
+The police announced that the 'Second Stage' was established in July 4 with the assistance of the Army.
 
-වෙඩි තැබීම සිදුවූ ස්ථානයේ ස්ථානීය පරීක්ෂණය සඳහා (ජුලි 08 වෙනිදා) පැමිණි කඩුවෙල වැඩබලන මහේස්ත්‍රාත් ටි.පී.ජී. කරුණාරත්න එහිදී පොලිසියට පැවසුවේ ජනතාවට ආරක්ෂාවක් නොමැති බවයි.
+When the second phase of the 'Second Phase II was in a large number of justices, the public was shooting in a large number of persons close to the town of the Town Center.
 
-"මෙච්චර ජනාකීර්ණ තැනක සිද්ධ වුණ මේවගේ සිද්ධියක් නිසා මුළු රටම හෙල්ලුම්කාපු සිද්ධියක් මේක."
+The Athurugiriya Police are located about a kilometer.
+
+Kaduwela acting magistrate TMG arrived at the place of shooting (July 08). Karunaratne told the police that the people had no protection.
+
+"This is a case of such a crowded," this is a case since this is a popularity. "
+
+"Take action to arrest immediately. Or embarrassed to the Police Department. The mass day is happening. This is just like chicago. Find out quickly, this is a terrible incident. "
+
+"People have no protection. Come on, was gone. "Kaduwela acting magistrate instructs the police officers investigating.
 
 ...
 
 [Data](articles/d9bd75df.json)
+
+[Extended Data](ext_articles/d9bd75df.ext.json)
 
 ---
 
@@ -2349,35 +2389,5 @@ The discussion was held on the 17th of this month.. The discussion was chaired b
 [Data](articles/9a98f12d.json)
 
 [Extended Data](ext_articles/9a98f12d.ext.json)
-
----
-
-### Dead body of a girl with a bleeding wound
-
-*2024-07-09 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198620) · `si`
-
-A 16-year-old girl was found dead near a rubber plantation in Nivitigala, Watapotha, with injuries suggesting foul play. Identified as a student from the Youth Village, her body was discovered after her mother reported her missing. The police suspect she may have been accidentally killed by a falling rubber tree branch while walking from the plantation.
-
-🟩
-
-A 16-year-old girl who was injured in the face with suspicion with suspicious injuries.
-
-The body was found at a footprint near the rubber cultivation land in Nivitigala, Watapotha yesterday (08).
-
-The deceased has been identified as 16 year old schools, a resident of the Youth Village.
-
-The mother of the deceased is maintained near the Watapotha temple and the girl who had not been schools were not in the home.
-
-According to the police, the mother has telephoned the mother to visit the shower.
-
-The deception of the mother was heading to the house due to the delay in the market, the body of the deceased has been found dead in the footprint of rubber cultivation.
-
-The deceased is currently underway due to a branch of a rubber tree cut off while she was traveling from the rubber estate.
-
-◼️
-
-[Data](articles/4e1d76e9.json)
-
-[Extended Data](ext_articles/4e1d76e9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 09:35:26**
+As of **2024-07-09 09:54:25**
 
 ## Newspaper Stats
 
-*Scraped **34,339** Articles*
+*Scraped **34,343** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,85 @@ islandlk | 1,936
 economynextcom | 2,023
 dailyftlk | 2,146
 adalk | 3,080
-adaderanalk | 3,933
+adaderanalk | 3,935
 tamilmirrorlk | 4,080
 dailymirrorlk | 4,733
 virakesarilk | 5,365
-adaderanasinhalalk | 5,712
+adaderanasinhalalk | 5,714
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,337 (100.0%) of 34,339 articles have been extended.
+34,337 (100.0%) of 34,343 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### නව මන්ත්‍රීවරයෙක් දිවුරුම් දෙයි
+
+*2024-07-09 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198626) · `si`
+
+ත්‍රිකුණාමලය පාර්ලිමේන්තු මන්ත්‍රී කදිරවේලු සම්මුගම් කුගදාසන් මහතා මීට සුළු වේලාවකට පෙර කථානායකවරයා ඉදිරියේ දිවුරුම් දුන්නේය.
+
+◼️
+
+[Data](articles/9083f03b.json)
+
+---
+
+### Sri Lanka to wrap up bond talks soon, seek to balance India and China ties
+
+*2024-07-09 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100384/sri-lanka-to-wrap-up-bond-talks-soon-seek-to-balance-india-and-china-ties) · `en`
+
+Sri Lanka will wrap up talks with international bondholders on its restructuring process in a few weeks, Foreign Minister Ali Sabry said on Tuesday, a major step for the island nation to emerge from its worst financial crisis in decades.
+
+Sri Lanka will also seek to balance its ties with giant neighbour India and China to ensure that there is no difference in dealing with the two, he said, as the rival Asian giants are key creditors and investors but are also jostling for geopolitical influence in the small Indian Ocean country.
+
+“Hopefully within a couple of weeks,” Sabry said in an interview at the Reuters NEXT conference in Singapore, when asked when the nation’s bond restructuring efforts with creditors will be finished.
+
+“Towards the end of this month, officially, we are done and dusted with the restructuring process, then of course, in line with that, we need to start payment,” he said.
+
+...
+
+[Data](articles/f6f88de5.json)
+
+---
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-07-09 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198625) · `si`
+
+අද (09) දිනයේ දී ශ්‍රී ලංකා විදුලි සංදේශ සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්වීමට නියමිතව ඇත.
+
+මෙම පනත මඟින් පාරිභෝගිකයා ආරක්ෂා කිරීම මෙන්ම දුරකථන සමාගම් අතර සාධාරණ තරගකාරීත්වයක් ඇතිකිරීමට හැකිවනු ඇති බව රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා පැවසීය.
+
+◼️
+
+[Data](articles/fbce56ad.json)
+
+---
+
+### Police record statements from five persons over Athurugiriya shooting
+
+*2024-07-09 09:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100383/police-record-statements-from-five-persons-over-athurugiriya-shooting-) · `en`
+
+Statements have been recorded from five individuals regarding the shooting incident in the Athurugiriya area yesterday, according to Police Media Spokesman Deputy Inspector General of Police (DIG) Nihal Thalduwa.
+
+Athurugiriya Police have recorded these statements, including from the owner of the tattoo shop in Athurugiriya where the shooting took place.
+
+The shooting occurred during the opening ceremony of a tattoo and piercing studio near the Clock Tower in Athurugiriya.
+
+Six people were rushed to the hospital following the incident. Police later confirmed that 55-year-old businessman Surendra Wasantha Perera, known as “Club Wasantha,” and a 38-year-old male succumbed to their injuries upon admission.
+
+Hospital sources reported that K. Sujeewa, who was seriously injured in her leg, underwent surgery at the Colombo National Hospital and is now in a stable condition.
+
+...
+
+[Data](articles/b55074ad.json)
+
+---
 
 ### ගංවතුරෙන් ඉන්දියාවේ රයිනෝසිරස් සතුන් 6ක් මරුට
 
@@ -2183,91 +2247,5 @@ The doctor added that the accident had been included in the accident and a man, 
 [Data](articles/056a31ea.json)
 
 [Extended Data](ext_articles/056a31ea.ext.json)
-
----
-
-### Eight parties qualify to bid for Sri Lanka’s Litro Gas
-
-*2024-07-08 15:14:00* · [`economynextcom`](https://economynext.com/eight-parties-qualify-to-bid-for-sri-lankas-litro-gas-171258/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s State-Owned Enterprises Restructuring Unit said eight parties were qualified to bid for Litro Gas Lanka and Litro Terminals (Pvt) Limited.
-
-A special Cabinet Appointed Negotiating Committee had approved the following bidders to progress to the requests for proposals stage.
-
-VIII. Infinity Holdings, Infinity Holdings Sidecar 1 and National Gas Company Saog
-
-An expression of interest for Litro Gas drew 14 bidders. (Colombo/July08/2024)
-
-◼️
-
-[Data](articles/91cda226.json)
-
-[Extended Data](ext_articles/91cda226.ext.json)
-
----
-
-### At least 20 dead in Russian attack on Ukraine cities
-
-*2024-07-08 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100374/at-least-20-dead-in-russian-attack-on-ukraine-cities) · `en`
-
-At least 20 people have been killed after Russia launched a massive missile attack against cities across Ukraine, according to officials.
-
-In the capital, Kyiv, at least seven people were killed in a rare daytime attack. The city’s mayor said a children’s hospital was hit by the missile strike and was being evacuated.
-
-The head of the military administration in the central Ukrainian city of Kryvyi Rih said at least 10 people had been killed there, with three killed in the eastern town of Pokrovsk.
-
-Ukrainian President Volodymyr Zelensky, who is visiting Poland, said that Russia had fired some 40 missiles at targets across the country.
-
-Mr Zelensky, who is due to travel to the US for this week’s Nato summit in Washington, said Russia had “massively attacked” Ukraine.
-
-“Different cities: Kyiv, Dnipro, Kryvyi Rih, Sloviansk, Kramatorsk. More than 40 missiles of various types. Residential buildings, infrastructure and a children’s hospital were damaged,” he said.
-
-...
-
-[Data](articles/a6aaab00.json)
-
-[Extended Data](ext_articles/a6aaab00.ext.json)
-
----
-
-### Wasantha's shotter's shotgungeon gone
-
-*2024-07-08 14:49:43* · [`adalk`](https://www.ada.lk/breaking_news/වසන්තගේ-වෙඩික්කරුවන්-ආ-වාහනය-මහමග-දමා-යති/11-410668) · `si`
-
-In Athurugiriya, a shooting incident occurred near the Ouwana area, where Wasantha's shooter's shotgun went off. Police intervened, stopping the shooters. Three individuals died, including Club Spring and two others, while four more were injured. The assailants escaped in a vehicle, leaving behind another one at the scene.
-
-🟩
-
-Police say that the shooting was taken to be shot from the Ouwana area in Athurugiriya stopped the shooters.. Club spring and two others were killed and four others were injured. The vehicle has fled the site and fled from another vehicle.
-
-◼️
-
-[Data](articles/5ab68227.json)
-
-[Extended Data](ext_articles/5ab68227.ext.json)
-
----
-
-### The 3-year-old sigil falls and dies after falling into the water tank
-
-*2024-07-08 14:48:14* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-3-වයසැති-සිගිති-දරැවා-තම-නිවසේ-ජල-ටැංකියට-ඇඳ-වැටී-මිය-යයි/11-410667) · `si`
-
-A tragic incident occurred last night where a three-year-old boy named Signeka, Samarakoon Mudiyanseee Lamanse from Eastern Middeniya fell into a hazardous water tank and died. His mother was called to the scene but arrived too late. The child was first taken to Middeniya Hospital, where he succumbed to his injuries. An investigation is ongoing, with the body being sent for a post-mortem examination at the Embilipitiya Base Hospital.
-
-🟩
-
-A three-year-old Siggle was killed last night (7) and died on the hazardous water tank at around 8 pm yesterday.The deceased has been identified as Signeka, Samarakoon Mudiyanseee Lamanse, a resident of No. 44 / C5, Wickrama Mawatha, Eastern Middeniya.
-
-The mother of the child has been summoned to the water tank to wash their lives, to wash their limes, to wash their lives, to wash their lives, to wash their lives, to wash their lives, and to sleep. The mother of a nine-year-old child had gone to the house with the eldest child while near the water tank.
-
-Returning to come back and see the young child falls into the water tank and has been rushed to the Middeniya Hospital. Hospital sources said that the child was killed while receiving treatment at the Middeniya Hospital.
-
-The police said that when he states on a nearby sink and the child is trying to be hit by the water tank, police said.
-
-...
-
-[Data](articles/a3b60ef0.json)
-
-[Extended Data](ext_articles/a3b60ef0.ext.json)
 
 ---

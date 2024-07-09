@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 09:19:53**
+As of **2024-07-09 09:35:26**
 
 ## Newspaper Stats
 
-*Scraped **34,337** Articles*
+*Scraped **34,339** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,40 +13,64 @@ colombotelegraphcom | 321
 bbccomsinhala | 336
 newsfirstlk | 363
 islandlk | 1,936
-economynextcom | 2,022
+economynextcom | 2,023
 dailyftlk | 2,146
 adalk | 3,080
 adaderanalk | 3,933
 tamilmirrorlk | 4,080
 dailymirrorlk | 4,733
 virakesarilk | 5,365
-adaderanasinhalalk | 5,711
+adaderanasinhalalk | 5,712
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,334 (100.0%) of 34,337 articles have been extended.
+34,337 (100.0%) of 34,339 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### කාන්තා මළ සිරුරක් වෙරළට ගොඩ ගසයි
+### ගංවතුරෙන් ඉන්දියාවේ රයිනෝසිරස් සතුන් 6ක් මරුට
+
+*2024-07-09 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198624) · `si`
+
+ඊසාන දින ඉන්දියාවේ ජාතික වනෝද්‍යානයක ඇතිවූ ගංවතුර තත්ත්වයක් හේතුවෙන් දුර්ලභ ගණයේ රයිනෝසිරස් සතුන් 6 දෙනෙකු මියගොස් තිබේ.
+
+ඇසෑම් ප්‍රාන්තයේ කසිරංග ජාතික වනෝද්‍යානයේ මෙම ගංවතුර තත්ත්වය හටගෙන ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කළේය.
+
+2017 වර්ෂයෙන් පසු ඇසෑම් ප්‍රාන්තයට බලපෑ දරුණුතම ගංවතුර තත්ත්වය මෙය බව වාර්තා වේ.
+
+එම වසරේ ද අදාළ වනෝද්‍යානයේ සතුන් 350කට වැඩි සංඛ්‍යාවක් ගංවතුර හේතුවෙන් ජීවිතක්ෂයට පත්වුණි.
+
+◼️
+
+[Data](articles/41d3a3c8.json)
+
+---
+
+### A woman's body body piles on the beach
 
 *2024-07-09 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198623) · `si`
 
-නාඳුනන කාන්තා මළ සිරුරක් කලවංචිකුඩි, කුරුක්කල්මඩම් ප්‍රදේශයේ මුහුදු වෙරළට ගොඩ ගසා තිබියදී සොයාගෙන ඇත.
+An unidentified female body, estimated to be around 4 feet tall, was discovered near Seawaskadam. The Kalawanchikudi Police were notified after a report from a trip yesterday. The body is now at the morgue while investigations continue.
 
-ඊයේ (08) උදෑසන කලවංචිකුඩි පොලීසියට ලද තොරුතුරකට අනුව එම සිරුර සොයාගෙන තිබේ.
+🟩
 
-මරණකාරියගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැති අතර අවුරුදු 45ත් 50ත් අතර වයසේ පසුවන උස අඩි 05යි අඟල් 04ක් පමණ වන කාන්තාවක් බව පොලීසිය සඳහන් කරයි.
+The body of an unidentified female body has been found in the sea coast of the Seawaskadam area.
 
-මළ සිරුර මහෙස්ත්‍රාත් පරීක්ෂණයෙන් පසු මඩකලපුව රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර කලවංචිකුඩි පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The body was recovered following a trip received by the Kalawanchikudi Police yesterday.
+
+The identity of the deceased has not yet been established and is a 4-foot-five feet of height and about 4 feet high.
+
+The body has been placed at the morgue morgue and the Kalawanchikudi police are conducting further investigations.
 
 ◼️
 
 [Data](articles/b7d52295.json)
+
+[Extended Data](ext_articles/b7d52295.ext.json)
 
 ---
 
@@ -295,6 +319,28 @@ A mother said her 11 -year -old son was safely expelled from cancer.
 [Data](articles/0cc16412.json)
 
 [Extended Data](ext_articles/0cc16412.ext.json)
+
+---
+
+### Sri Lanka will need Rs275bn to give Rs20,000 pay hike to state workers, hike VAT 4-pct: Minister
+
+*2024-07-09 06:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-need-rs275bn-to-give-rs20000-pay-hike-to-state-workers-hike-vat-4-pct-minister-171323/) · `en`
+
+ECONOMYNEXT – Sri Lanka will need an extra 275 billion rupees to give 20,000 rupee salary hike to state workers, requiring value added tax to be raised by 4 percent, State Minister for Finance Shehan Semasinghe said.
+
+To generate money for a 20,000 rupee salary hike, value added tax on the people will have to be raised from the current 18 percent to 20 percent, he said.
+
+Meanwhile import duties will also have to be raised by around 42 percent.
+
+Sri Lanka has already given a 10,000 rupee salary hike to state workers from taxes collected from the people.
+
+Sri Lanka’s debt sustainability path set in an International Monetary Fund program will also be undermined, he said.
+
+Sri Lanka’s current default was also linked to forex shortages that emerged when rates were cut with printed money claiming inflation was low (flexible inflation targeting), as deficits expanded in part due to 20,000 rupee salary hike in 2015, analysts have said.
+
+...
+
+[Data](articles/0ee1e53c.json)
 
 ---
 
@@ -724,21 +770,29 @@ The deadline for presidential elections is fast approaching and the Election Com
 
 ---
 
-### ’வேலைநிறுத்தங்களால் மாணவர்களுக்கு பாதிப்பு’
+### Damage to students by telephone strikes
 
 *2024-07-09 00:45:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலைநிறுத்தங்களால்-மாணவர்களுக்கு-பாதிப்பு/175-340069) · `ta`
 
-தேர்தல் நெருங்கும் நேரத்தில் அநீதியான வகையில் வேலைநிறுத்தங்களை முன்னெடுப்பதன் மூலம் பிள்ளைகள் கல்வி கற்கும் வாய்ப்பை இழந்துள்ளனர் என தொழில்நுட்ப இராஜாங்க அமைச்சர் கனக ஹேரத் தெரிவித்தார்.
+Minister Kanaka Herath criticized strikes during elections, stating they hinder education and proposed a salary increase costing 280 billion rupees annually. He urged the Opposition to address compensation and the impact of disruptions on low-income families, highlighting the IMF's recommendation of 11 billion rupees for them.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் கனக ஹேரத் இவ்வாறு  தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-தற்போதைய தொழில்சார் நடவடிக்கைகளின்படி அனைத்து அரச ஊழியர்களுக்கும் 20,000 ரூபா கொடுப்பனவு கோரப்பட்டுள்ளது. அந்த கொடுப்பனவை வழங்குவதற்கு வருடத்திற்கு சுமார் 280 பில்லியன் ரூபா மேலதிகமாக செலவு செய்ய வேண்டியிருக்கும். நாட்டின் தற்போதைய நிலைமையைக் கருத்தில் கொண்டு அந்த செலவுகளை எவ்வாறு ஈடுகட்டுவது என்பதை எதிர்க்கட்சி தெரிவிக்க வேண்டும்.
+Technology Minister Kanaka Herath said that children have lost the opportunity to educate the children by carrying out unjust strikes at the time of the election.
 
-அத்துடன், தேர்தல் நெருங்கும் வேளையில் அசாதாரண வகையில் போராட்டங்களை முன்னெடுத்தமையினால், பிள்ளைகள் கல்வி கற்கும் வாய்ப்பையும் இழந்துள்ளனர். இறுதியில் சாதாரண பொது மக்களே பாதிக்கப்படுகின்றனர் என்பதை வேலை நிறுத்தத்தில் ஈடுபடுபவர்கள் புரிந்து கொள்ள வேண்டும்.
+State Minister Kanaka Herath said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
 
-...
+20,000 rupees has been requested to all civil servants according to current professional activities. To make that allowance will cost about 280 billion rupees per year. The Opposition must report how to compensate for those costs in view of the current situation in the country.
+
+In addition, the children have lost the opportunity to educate as the election approaches. Strugglers must understand that the ordinary people are eventually suffering.
+
+The International Monetary Fund has recommended that 11 billion rupees to pay for low -income people. Opposition parties should respond to the question of whether the opposition parties expect to disrupt the livelihood of the people through these struggles.. (A)
+
+◼️
 
 [Data](articles/abbe1960.json)
+
+[Extended Data](ext_articles/abbe1960.ext.json)
 
 ---
 
@@ -1340,17 +1394,25 @@ Often a local person is likely to be selected as a trainee, he said.
 
 ---
 
-### ඉන්දීය දුම්රිය එන්ජින් 20න් පළමු කොටස මාස දෙකක් තුළ
+### First part of the 20 Indian login engines within two months
 
 *2024-07-08 19:40:03* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-දුම්රිය-එන්ජින්-20න්-පළමු-කොටස-මාස-දෙකක්-තුළ/11-410678) · `si`
 
-දුම්රිය එන්ජින් අවශ්‍යතාව සැපරීම සඳහා ඉන්දියානු රජයෙන් දුම්රිය එන්ජින් 20ක් පරිත්‍යාගයක් වශයෙන් ලබා දීමට එකඟ වී ඇති බවත් එහි පළමු කොටස මාස දෙකක් තුළ ලංකාවට ලැබෙනු ඇති බවත් වැඩබලන දුම්රිය සාමාන්‍යාධිකාරී සංජය මුදලිගේ මහතා, පැවැසීය. ජනපති මාධ්‍ය කේන්ද්‍ර යේ පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ඔහු මේ බව පැවැසිය.
+In a media briefing, Railway GM Sanjaya Mudalige announced that 20 locomotives will be sent to Sri Lanka within two months to address transportation needs. Additionally, the leasing of 12,000 acres of Railway-owned land to residents is underway, allowing them to register for tax deeds. Legal actions against unauthorized activities will be pursued. The modernization of the Mahawa-Omanthantha railway line, set to begin in August, includes starting a freight train service from Beliatta to Colombo. Development of railway stations along the coastal road, including Kollupitiya and Bambalapitiya, with private sector involvement, is also planned.
 
-"අක්කර 12,000ක් පමණ වන දුම්රිය දෙපාර්තමේන්තුව සතු ඉඩම් ඵලදායී ලෙස භාවිතා කිරීම සඳහා ජනතාවට බදු ගැනීමේ අවස්ථාව අප ලබා දී තිබෙනවා. ඒ අනුව මේ වන විටත් අනවසරයෙන් හෝ අවසරය ඇතුව දුම්රිය දෙපාර්තමේන්තුවට අයත් ඉඩම්වල පදිංචිකරුවන්ට එම ඉඩම් සඳහා බදු ඔප්පුවක් ලබා ගැනීම සඳහා ලියාපදිංච් වීමට ඉඩ ලාබෙනවා. ඒ වන විටත ලියාපදිංචි නොවූවන් සඳහා නීතිමය ක්‍රියාමාර්ග ගැනීමටත්, එම ස්ථානවලින් ඉවත් කිරීමටත් කටයුතු කරනවා.
+🟩
 
-...
+Acting Railway General Manager Sanjaya Mudalige said that 20 locomotives would be given to Sri Lanka within two months to manipulate the need to manage the need.. He was speaking at a media briefing held at the media center.
+
+"We have given the people the opportunity to lease the land owned by about 12,000 acres of Railways. Accordingly, the residents of the Railways belonging to the Railway Department are already allowed to register to obtain a tax deed for the land. Steps will be taken to take legal action and remove legal action.
+
+Also, the modernization of the Mahawa-Omanthantha railway line will be constructed in August and has commenced the freight train service from Beliatta to Colombo since the 15th. The parties who transport goods to Colombo, including businessmen, can serve. In the meantime, railway stations in the coastal road is to be developed with the private sector, including Kollupitiya and Bambalapitiya. "
+
+◼️
 
 [Data](articles/c8dd28e1.json)
+
+[Extended Data](ext_articles/c8dd28e1.ext.json)
 
 ---
 
@@ -2207,63 +2269,5 @@ The police said that when he states on a nearby sink and the child is trying to 
 [Data](articles/a3b60ef0.json)
 
 [Extended Data](ext_articles/a3b60ef0.ext.json)
-
----
-
-### Napolian Bonaparte's pistols are auctioned at a record price
-
-*2024-07-08 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198606) · `si`
-
-Napoleon Bonaparte's pistols sold for a record-breaking 1.69 million euros, despite being considered national treasures. The buyer, Louis-Maran Mashey, had initially expected a lower bid range. The French government now has 30 months to buy back the pistols, which were used in an alleged suicide attempt by Napoleon.
-
-🟩
-
-Two pistols owned by Emperor Napoleon Bonaparted have been auctioned for 1.69 million.
-
-It is said that he tried to commit suicide using these pistols.
-
-Louis-Maran Mashey, who lived in Paris, was expected to receive a bid between 1.2 to 1.5 million euro.
-
-The pistol auction was in the background of the Ministry of French and prohibiting them as national objects.
-
-Accordingly, the French government receives 30 months to purchase those pistols from the new owner.
-
-◼️
-
-[Data](articles/eaed17ed.json)
-
-[Extended Data](ext_articles/eaed17ed.ext.json)
-
----
-
-### The brotherhood he went to blood relative
-
-*2024-07-08 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198605) · `si`
-
-In the village of Palakumbukkadawala, Puttalam, a brave 15-year-old girl named Sasadre Nimsara saved a four-year-old boy who fell into a deep well. Despite the well being over 36 feet deep and its side wall collapsing, Sasadre jumped in to rescue the child. Her actions were praised by the villagers, highlighting her courage and selflessness.
-
-🟩
-
-His 15-year-old schoolgirl reported to save a small son who was fishing in the well and rescued a small son who was drowning.
-
-The well had fallen into the village of Palakumbukkadawala, Puttalam, a small son.
-
-The school student of the well was to be saved in the well, and the schoolgirl named Sasadre Nimsara has jumped into the well.
-
-The four-year-old child who left the house from playing with him and saw that it was not home to the well and see the water to the well.
-
-The villagers say the little son may have even lost the lives of a small son.
-
-The child has fallen into a well-depth of more than 36 feet and the side wall has collapsed into the well.
-
-It is said that the sinking sons of the drown is constantly coming to the house of Sasaluge's house.
-
-The heroicated hero was rescued by the Sasilu.
-
-...
-
-[Data](articles/7e61fa71.json)
-
-[Extended Data](ext_articles/7e61fa71.ext.json)
 
 ---

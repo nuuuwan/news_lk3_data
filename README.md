@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 09:54:25**
+As of **2024-07-09 10:06:16**
 
 ## Newspaper Stats
 
-*Scraped **34,343** Articles*
+*Scraped **34,350** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,936
 economynextcom | 2,023
 dailyftlk | 2,146
-adalk | 3,080
-adaderanalk | 3,935
-tamilmirrorlk | 4,080
+adalk | 3,082
+adaderanalk | 3,937
+tamilmirrorlk | 4,083
 dailymirrorlk | 4,733
 virakesarilk | 5,365
 adaderanasinhalalk | 5,714
@@ -26,21 +26,83 @@ adaderanasinhalalk | 5,714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,337 (100.0%) of 34,343 articles have been extended.
+34,343 (100.0%) of 34,350 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### නව මන්ත්‍රීවරයෙක් දිවුරුම් දෙයි
+### புதிய பாராளுமன்ற உறுப்பினர் சத்தியப்பிரமாணம்
+
+*2024-07-09 09:54:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பாராளுமன்ற-உறுப்பினர்-சத்தியப்பிரமாணம்/175-340073) · `ta`
+
+திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினராக சண்முகம் குகதாசன், இன்று (09) சபாநாயகர் முன்னிலையில் சத்தியப்பிரமாணம் செய்துகொண்டார்.
+
+◼️
+
+[Data](articles/acb9abf0.json)
+
+---
+
+### Floods kill six rhinos in India national park
+
+*2024-07-09 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100386/floods-kill-six-rhinos-in-india-national-park) · `en`
+
+More than 130 wild animals, including at least six rare rhinos, have died in flooding at a national park in north-eastern India, officials say.
+
+The Kaziranga National Park in Assam is experiencing its worst deluge in recent years.
+
+The dead animals - many of whom died by drowning - include 117 hog deer, two sambar deer, a rhesus macaque and an otter.
+
+In 2017, more than 350 animals died due to floods in the park and vehicle collisions during migration through animal corridors to the highlands.
+
+Officials say they have rescued 97 animals from flood waters - 25 of them are receiving medical care while 52 others have been released after treatment.
+
+Kaziranga is home to the world’s largest population of one-horned rhinos, which were nearly extinct at the turn of the century. It’s a Unesco World Heritage site, with over 2,400 one-horned rhinos.
+
+...
+
+[Data](articles/04915709.json)
+
+---
+
+### Sanmugam Kuhadasan sworn in as Member of Parliament
+
+*2024-07-09 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100385/sanmugam-kuhadasan-sworn-in-as-member-of-parliament) · `en`
+
+Kathiravelu Sanmugam Kuhadasan of the Illankai Tamil Arasu Kadchi (ITAK) was sworn in as a Member of Parliament this morning (09).
+
+He took oaths before Speaker Mahinda Yapa Abeywardena soon after the parliamentary proceedings commenced.
+
+Last week, the Election Commission had named Kuhadasan to fill the parliamentary seat that fell vacant following the passing of former TNA leader Rajavarothiam Sampanthan.
+
+Former Tamil National Alliance (TNA) leader and former Opposition Leader R. Sampanthan passed away on July 01, at the age of 91. He had passed away while receiving treatment at a private hospital in Colombo.
+
+A veteran Tamil politician and prominent figure in country’s main Tamil alliance - Ilankai Tamil Arasu Kadchi (ITAK), his political career spanned six decades, with his first stint in the Sri Lankan parliament starting in 1977.
+
+Sampanthan was the incumbent MP for Trincomalee District and had served in five parliaments since 1977.
+
+...
+
+[Data](articles/e19d1827.json)
+
+---
+
+### New MP sworn in
 
 *2024-07-09 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198626) · `si`
 
-ත්‍රිකුණාමලය පාර්ලිමේන්තු මන්ත්‍රී කදිරවේලු සම්මුගම් කුගදාසන් මහතා මීට සුළු වේලාවකට පෙර කථානායකවරයා ඉදිරියේ දිවුරුම් දුන්නේය.
+Kadira East Convention's representative was sworn in as an MP before the Speaker.
+
+🟩
+
+MP Kadira East Conventions Kadira East Convengam was sworn in before the Speaker.
 
 ◼️
 
 [Data](articles/9083f03b.json)
+
+[Extended Data](ext_articles/9083f03b.ext.json)
 
 ---
 
@@ -60,19 +122,27 @@ Sri Lanka will also seek to balance its ties with giant neighbour India and Chin
 
 [Data](articles/f6f88de5.json)
 
+[Extended Data](ext_articles/f6f88de5.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### Parliamentary Council begins
 
 *2024-07-09 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198625) · `si`
 
-අද (09) දිනයේ දී ශ්‍රී ලංකා විදුලි සංදේශ සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්වීමට නියමිතව ඇත.
+The Parliamentary Council starts its session today, focusing on the Telecommunications Bill during the Second Reading Debate. The Minister of Public Services, Kanaka Herath, emphasizes that the bill aims to safeguard both consumers and telecom companies.
 
-මෙම පනත මඟින් පාරිභෝගිකයා ආරක්ෂා කිරීම මෙන්ම දුරකථන සමාගම් අතර සාධාරණ තරගකාරීත්වයක් ඇතිකිරීමට හැකිවනු ඇති බව රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා පැවසීය.
+🟩
+
+The Second Reading Debate will be held today (Telecommunications) Bill today (09).
+
+Minister of Public Minister Kanaka Herath said that this act will be able to protect the consumer as well as telephone companies.
 
 ◼️
 
 [Data](articles/fbce56ad.json)
+
+[Extended Data](ext_articles/fbce56ad.ext.json)
 
 ---
 
@@ -94,23 +164,63 @@ Hospital sources reported that K. Sujeewa, who was seriously injured in her leg,
 
 [Data](articles/b55074ad.json)
 
+[Extended Data](ext_articles/b55074ad.ext.json)
+
 ---
 
-### ගංවතුරෙන් ඉන්දියාවේ රයිනෝසිරස් සතුන් 6ක් මරුට
+### அத்துருகிரிய துப்பாக்கிச் சூடு  6 பேர் கைது
+
+*2024-07-09 09:20:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துருகிரிய-துப்பாக்கிச்-சூடு-6-பேர்-கைது/175-340072) · `ta`
+
+அத்துருகிரியவில் உள்ள வணிகக் கட்டடத்தில் (Tattoo Shop) நேற்று (08) காலை இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவம் தொடர்பில் வணிகக் கட்டடத்தின் உரிமையாளர் உட்பட 06 சந்தேக நபர்களை பொலிஸார் கைது செய்துள்ளனர். R
+
+◼️
+
+[Data](articles/74bec3d9.json)
+
+---
+
+### மர்மமான முறையில் உயிரிழந்த சிறுமி
+
+*2024-07-09 09:13:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மர்மமான-முறையில்-உயிரிழந்த-சிறுமி/175-340071) · `ta`
+
+நிவித்திகலை - வட்டாபொத, யொஹூன் கிராமத்தில் உள்ள இறப்பர் தோட்டத்திற்கு  அருகில் உள்ள ஒத்தையடி பாதையில் 16 வயதுடைய சிறுமி ஒருவரின் சடலத்தை நேற்று (08) நிவித்திகல பொலிஸார் மீட்டுள்ளனர்.
+
+இறந்தவரின் தாயார் வட்டாபொத விகாரைக்கு அருகில் விற்பனை நிலையம் ஒன்றை நடத்தி வருவதோடு, சம்பவத்தன்று சிறுமி பாடசாலைக்கு செல்லாததால் வீட்டில் தனியாக இருந்துள்ளார்.
+
+இதனையடுத்து குறித்த சிறுமியை விற்பனை நிலையத்திற்கு வருமாறு தாய் தொலைபேசி அழைப்பொன்றை வழங்கியுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+விற்பனை நிலையத்திற்கு வருவதில் தாமதம் ஏற்பட்டதால்,  தாய் வீட்டுக்கு ஒத்தையடி பாதை வழியாக சென்ற போது, ​​மர்மமான முறையில் உயிரிழந்த நிலையில் சிறுமியின் சடலம் கண்டு பிடிக்கப்பட்டுள்ளது.
+
+வீட்டில் இருந்து நடந்து சென்று கொண்டிருந்த போது, ​​இறப்பர் மரத்தில் வெட்டப்பட்ட இறப்பர் மரத்தின் கிளை சிறுமியின் மீது விழுந்ததில் இந்த மரணம் ஏற்பட்டிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
+
+◼️
+
+[Data](articles/7cc7ddbe.json)
+
+---
+
+### Floods killed in 6 rionesirus in India
 
 *2024-07-09 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198624) · `si`
 
-ඊසාන දින ඉන්දියාවේ ජාතික වනෝද්‍යානයක ඇතිවූ ගංවතුර තත්ත්වයක් හේතුවෙන් දුර්ලභ ගණයේ රයිනෝසිරස් සතුන් 6 දෙනෙකු මියගොස් තිබේ.
+In India, floods have led to the death of six rare rhinoceroses in a national park, marking one of the worst environmental disasters since 2017, where over 350 animals perished. The floods, attributed to heavy rainfall, have devastated the region, impacting wildlife significantly.
 
-ඇසෑම් ප්‍රාන්තයේ කසිරංග ජාතික වනෝද්‍යානයේ මෙම ගංවතුර තත්ත්වය හටගෙන ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කළේය.
+🟩
 
-2017 වර්ෂයෙන් පසු ඇසෑම් ප්‍රාන්තයට බලපෑ දරුණුතම ගංවතුර තත්ත්වය මෙය බව වාර්තා වේ.
+At the northeast Day, 6 rare rhinocereat trees have been killed due to floods in a national park in India.
 
-එම වසරේ ද අදාළ වනෝද්‍යානයේ සතුන් 350කට වැඩි සංඛ්‍යාවක් ගංවතුර හේතුවෙන් ජීවිතක්ෂයට පත්වුණි.
+Indian media reported that the floods were caused by the State Park in the State Park in the State Packer.
+
+It is reported that this is the worst flooding affected by the state of hearing after the year 2017.
+
+More than 350 animals were killed in the relevant forest residents of that year.
 
 ◼️
 
 [Data](articles/41d3a3c8.json)
+
+[Extended Data](ext_articles/41d3a3c8.ext.json)
 
 ---
 
@@ -405,6 +515,8 @@ Sri Lanka’s current default was also linked to forex shortages that emerged wh
 ...
 
 [Data](articles/0ee1e53c.json)
+
+[Extended Data](ext_articles/0ee1e53c.ext.json)
 
 ---
 
@@ -1336,6 +1448,40 @@ Sri Lanka’s leading lifestyle platform ‘Pulse.lk’ has been presented with 
 
 ---
 
+### සෞඛ්‍යයත් ලබන සතියේදී වැඩ වරයි
+
+*2024-07-08 20:05:16* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍යයත්-ලබන-සතියේදී-වැඩ-වරයි/11-410682) · `si`
+
+සෞඛ්‍ය කාර්ය මණ්ඩලයට ආර්ථික යුක්තිය ඉටු කිරිම යටතේ  ලබා දිය යුතු  ඉතිරි කොටස ලබා දිම ප්‍රමාද කරමින් තිබෙන නිසා අදාල කොටස ලබා ගැනිමට ලබන සතියේ සිට වෘත්තිය ක්‍රියා මාර්ග සිදුකිරිමට තිරණය කර තිබෙන බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය සදහන් කරයි.
+
+ආර්ථික යුක්තිය ඉටු කිරීමට අදාළව සකස් කල තාක්ෂණික වාර්තාවට අනුව  පළමු කොටස ලබා දිමෙන් අනතුරුව, ඉතිරි කොටස කඩිනමින් ලබා දෙන බවට රජය පොරොන්දු වුවත් මෙතෙක් ඒ පිළිබඳව අවශ්‍ය කටයුතු කර නොමැති බවද එම සන්ධානයේ කැඳවුම්කරු රවි කුමුදේශ්. මහතා සදහන් කලේය.
+
+මේ අනුව ලබන සතියේ සිට අදාල ඉල්ලිම් මුල් කර ගනිමින් වෘත්තිය ක්‍රියා මර්ග සිදුකිරිමට සැලසුම් කර තිබෙන බවත් සෞඛ්‍ය කාර්ය මණ්ඩලයට ආර්ථික යුක්තිය ඉටු කිරීම සාධාරණ බව රජය ප්‍රතිපත්තිමය වශයෙන් පිළිගනු ලැබුවද, රටේ පවතින අහිතකර මුල්‍යමය තත්ත්වය නිසා අදාල කටයුතු සදහා  කිසියම් කාල සීමාවක් අවශ්‍ය බව පුන පුනා ප්‍රකාශ කළ බවද පවසා සිටියේය
+
+...
+
+[Data](articles/dac784b0.json)
+
+---
+
+### විපක්ෂ මන්ත්‍රී දෙන්නෙක් ළඟදීම ආණ්ඩුවට - විපක්ෂයම තහවුරු කරයි
+
+*2024-07-08 20:02:14* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂ-මන්ත්‍රී-දෙන්නෙක්-ළඟදීම-ආණ්ඩුවට---විපක්ෂයම-තහවුරු-කරයි/11-410681) · `si`
+
+විපක්ෂයේ සිටින ගම්පහ සහ කළුතර යන ප්‍ර‘දේශ නියෝජනය කරන දේශපාලඥයන් දෙදෙනෙකු ඇමති ධුර, වරදාන සහ වරප්‍රසාදවලට ආණ්ඩුවට එක්වීමට සූදානම් වන බවත් ඔවුන්ට ඩොලර්වලින් ගෙවීම් කරන බවට දැනගන්න ලැබී තිබෙන බවත් සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී හර්ෂණ රාජකරුණා මහතා පැවසීය.
+
+කොළඹ විපක්ෂනායක කාර්යාලයේ ඊයේ (08දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී හර්ෂණ රාජකරුණා මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+&ඉදිරි සති දෙක ඇතුළත විශාල පිරිසක් තවත් සමගි ජන බලවේගය සමග එකතු වෙන්න නියමිතව තිබෙනවා. මම මේ වෙලාවේ කියනවා මේ එකතු වෙන්නේ විපක්ෂයට. තනතුරු සියල්ලම අතහැරලා විපක්ෂයට ඇවිත්, විපක්ෂයේ සන්ධානය ශක්තිමත් කරන්න ඒ අය සම්බන්ධ වෙලා තිබෙනවා. ඒත් එක්කෙනෙක් දෙන්නෙක් ගැන කතා වෙනවා මේ විපක්ෂයේ ඉඳන් ඇමතිකම් නිසා, මුදල් ගනුදෙනු නිසා, වෙනත් වරප්‍රසාද, ප්‍රතිලාභ නිසා ආණ්ඩුවට එකතුවෙන්න යන. එක්කෙනයි දෙන්නයි. වැඩිය නෑ. එක්කෙනෙක් ගම්පහින් කියනවා, අනිත් කෙනා කළුතරින් කියනවා.
+
+...
+
+[Data](articles/9575420b.json)
+
+---
+
 ### PUSUSE Award
 
 *2024-07-08 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198613) · `si`
@@ -2099,153 +2245,5 @@ Gunawardana said that there was opposition from transportation workers with some
 [Data](articles/d5087c03.json)
 
 [Extended Data](ext_articles/d5087c03.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 304.35/50 to US dollar
-
-*2024-07-08 16:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-304-35-50-to-us-dollar-171274/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed slightly stronger at 304.35/50 to the US dollar on Monday, down from 304.45/75 to the US dollar on Friday, dealers said, while bond yields were unchanged.
-
-A bond maturing on 15.12.2026 closed stable at 10.70/85 percent.
-
-A bond maturing on 15.09.2029 closed at 11.98/12.08 percent from 11.95/12.05 percent. (Colombo/Jul8/2024)
-
-◼️
-
-[Data](articles/3a126486.json)
-
-[Extended Data](ext_articles/3a126486.ext.json)
-
----
-
-### Gold mine tragedy - a loss of many lives
-
-*2024-07-08 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198609) · `si`
-
-In Indonesia, a landslide at a gold mine on Windson Island caused a disaster, killing 11 and leaving 19 missing amid heavy rains. Of 35 trapped, only 5 survived; rescue efforts are ongoing to locate the missing and recover bodies.
-
-🟩
-
-At least 11 people were killed and 19 others went missing in a landslide in Indonesia.
-
-The landslide has taken place in a gold mine in the windsion island area with excessive heavy rains.
-
-A total of 35 persons have been laundering in landslides and five of them survived.
-
-The bodies of 11 deceased have been recovered and the number of people who have found the missing have started investigations.
-
-◼️
-
-[Data](articles/3f0d1916.json)
-
-[Extended Data](ext_articles/3f0d1916.ext.json)
-
----
-
-### Govt says salary hike for public servants not possible this year; VAT increase required
-
-*2024-07-08 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100375/govt-says-salary-hike-for-public-servants-not-possible-this-year-vat-increase-required-) · `en`
-
-The Secretary to the Treasury Mahinda Siriwardana stated that granting the salary increase demanded by striking public servants would necessitate raising the current Value Added Tax (VAT) rate from 18% to between 20% and 21%.
-
-He emphasized that the government cannot impose such a burden on the public. Mr. Siriwardana made these remarks during a discussion held today (08) at the Presidential Secretariat, chaired by President Ranil Wickremesinghe, concerning the demands of public service trade unions, according to the President’s Media Division (PMD).
-
-The discussion addressed the trade union actions taken by several trade unions in the public service and explored potential positive solutions to their demands. It was noted that while a salary increase is not feasible this year, there is a plan to revise public service salaries in the 2025 Budget, based on recommendations from an expert committee investigating salary disparities, the statement said.
-
-...
-
-[Data](articles/e48d1edd.json)
-
-[Extended Data](ext_articles/e48d1edd.ext.json)
-
----
-
-### Sri Lanka stocks close down, Hemas and Sampath push turnover
-
-*2024-07-08 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-hemas-and-sampath-push-turnover-171260/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
-
-The broader All Share Index closed down 0.56 percent, or 68.05 points, at 12,076; while the more liquid S&P SL20 Index closed down 0.63 percent, or 22.71 points, at 3,565.
-
-Most of this came from two crossings: Hemas Holdings Plc (Rs125mn), and the share closed up at 81.40. The other was Sampath Bank Plc, which closed down at 77.90.
-
-“A large part of this came from foreign buying interest,” Softlogic Stockbrokers said. “There is foreign interest around selected, good counters. And this is what is driving the market these days.”
-
-Most banking stocks closed down in the day. Commercial Bank of Ceylon Plc closed flat at 103.50, Hatton National Bank Plc was down at 195.50, and DFCC Bank Plc was down at 73.90.
-
-“With banks there is the concern about the haircut, and the write-backs being moderate. There could also be some profit taking.”
-
-...
-
-[Data](articles/03d6596f.json)
-
-[Extended Data](ext_articles/03d6596f.ext.json)
-
----
-
-### Action to Introduce Electronic Distribution to Public Transport Tickets
-
-*2024-07-08 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187967) · `ta`
-
-Ranjith Ganganath Rupasinghe announced the introduction of an electronic distribution system for purchasing public transport tickets, including trains, at a media briefing. This change aims to modernize ticketing processes, enhancing convenience for commuters.
-
-🟩
-
-Ranjith Ganganath Rupasinghe, Secretary to the Ministry of Transport and Express, said that the electronic distribution system will be introduced to purchase public transport ticket, including train.
-
-He was speaking at a media briefing held at the Presidential Media Center on Monday (08).
-
-◼️
-
-[Data](articles/20f7c48a.json)
-
-[Extended Data](ext_articles/20f7c48a.ext.json)
-
----
-
-### Govt. Amendments to Public Servant Salaries
-
-*2024-07-08 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198608) · `si`
-
-In a statement, Treasury Secretary Mahinda Siriwardena announced potential salary hikes from 18% to 21% for public servants requesting strikes, emphasizing the government's inability to suppress such demands. This announcement came during a discussion at the Presidential Secretariat, presided over by President Ranil Wickremesinghe. The revision of public service salaries for 2025 is anticipated, influenced by current budget allocations.
-
-🟩
-
-Treasury Secretary Mahinda Siriwardena says that if the public servants who request public servants on strike will increase the existing 18% to 21%.
-
-He added that the government is not capable of achieving such a request by oppressing the public.
-
-He was speaking at a discussion held at the Presidential Secretariat under the patronage of President Ranil Wickremesinghe today (08) under the patronage of President Ranil Wickremesinghe.
-
-Secretary to the Treasury Secretary is expected to revise the public service for the year 2025 this year due to the present budgetary allocation.Have been emphasized.
-
-◼️
-
-[Data](articles/abca8f23.json)
-
-[Extended Data](ext_articles/abca8f23.ext.json)
-
----
-
-### K. The latest news about Sujeewa's health condition
-
-*2024-07-08 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198607) · `si`
-
-Dr. Rukshan, Deputy Director of Colombo National Hospital, was shot in Athurugiriya, seriously injuring him and another man involved in the incident.
-
-🟩
-
-Deputy Director of the Colombo National Hospital Dr. Rukshan has been admitted to the Colombo National Hospital after the shooting of the Athurugiriya.
-
-The doctor added that the accident had been included in the accident and a man, and the two had injured.
-
-◼️
-
-[Data](articles/056a31ea.json)
-
-[Extended Data](ext_articles/056a31ea.ext.json)
 
 ---

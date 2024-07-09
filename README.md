@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 20:53:57**
+As of **2024-07-09 21:05:08**
 
 ## Newspaper Stats
 
@@ -26,31 +26,43 @@ adaderanasinhalalk | 5,735
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,442 (100.0%) of 34,443 articles have been extended.
+34,443 (100.0%) of 34,443 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### ක්ලබ් වසන්ත ඝාතනයේ අලුත්ම සාක්ෂිය
+### The latest proof of the club spring murder
 
 *2024-07-09 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198649) · `si`
 
-සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඝාතනය සිදුවූ ටැටූ මධ්‍යස්ථානය එම ස්ථානයේ ආරම්භ කිරීම සඳහා තමන්ට 'ලොකු පැටී' නමැති අපරාධකරුගෙන් රුපියල් ලක්ෂ 16ක මුදලක් ලැබුණු බව එහි හිමිකරු පොලීසියට පාපොච්චාරණය කර තිබේ.
+In a tragic incident, Club Spring owner Surendra Wasantha Perera, also known as Club Wasantha, was assassinated along with singer Kin Nayana Vasuliye, Sujeewa's husband, while opening a tattoo center at 'Better City'. Seven suspects, including Dularan Sunnel from the TATO Center, have been arrested. Investigations suggest the assassination was planned in Dubai, with the motive linked to financial disputes. Sujeewa, Club Wasantha's wife, and another woman were injured.
 
-ඔහු වැඩිදුරටත් පවසා ඇත්තේ 'ලොකු පැටීගේ' ඉල්ලීම මත තමා ක්ලබ් වසන්තට එය විවෘත කිරීමට ඇරියුම් කළ නමුත් මෙම ඝාතන සැලැස්ම ගැන දැන නොසිටි බවය.
+🟩
 
-ව්‍යාපාරිකයකු වන සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඊයේ (08) උදෑසන අතුරුගිරියේ පිහිටි ටැටූ මධ්‍යස්ථානයේ සිදුවූ වෙඩි තැබීමකින් ජීවිතක්ෂයට පත්වුණි.
+The owner has confessed to the police that the TATO Center that took place at the 'Better City' at the site, he had received a sum of Rs.
 
-එම අවස්ථාවේ එහි සිටි ප්‍රසිද්ධ ගායන ශිල්පිනී කේ. සුජීවාගේ සැමියා වන නයන වාසුල නැමැත්තාද මියගිය අතර කේ. සුජීවා, ක්ලබ් වසන්තගේ බිරිය, තවත් කාන්තාවක් හා පිරිමි පුද්ගලයෙකු තුවාල ලබා රෝහල්ගත කෙරුණි.
+He added that he was invited to open it to Club spring on the request of 'Big Patti'.
 
-ඝාතනයෙන් අනතුරුව වෙඩික්කරුවන් වෑන් රථයකින් කඩුවෙල, නවගමුව හරහා පළායන අයුරු දැක්වෙන රූපරාමු පෙළක් ද හමුවී තිබේ.
+The businessman, Sorchandra Wasantha Perera, or Club was shot dead yesterday (08).
 
-මේ අතර ටැටූ මධ්‍යස්ථානයේ හිමිකරු වන දුලාන් සන්ජුල නමැත්තා ඇතුළු සැකකරුවන් 07 දෙනෙක් බස්නාහිර දකුණ අපරාධ කොට්ඨාසය මගින් අද අත්අඩංගුවට ගනු ලැබීය.
+The famous singer kin. Nayana Vasuliye, who was the husband of Sujeewa, died. Sujeewa, Club Wasantha's wife, another woman and a man was injured and hospitalized.
+
+After the assassination, a shot of shotchnists have also been found in Kaduwela, Navagamuwa.
+
+Meanwhile, the Western Province Crimes Division has arrested seven suspects including Dularan Sunnel, the Tatu Center.
+
+The owner of the TATO Center has said that he was willing to start a tattood center.
+
+The suspect has confessed that the criminal named big patient has been given a sum of Rs.
+
+Age of the sole said that Surendra Wasantha Perera alias Sadhra Wasantha Perera, or Club Wasantha has been invited to open the money.
 
 ...
 
 [Data](articles/2c05cdc0.json)
+
+[Extended Data](ext_articles/2c05cdc0.ext.json)
 
 ---
 

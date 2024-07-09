@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 12:52:58**
+As of **2024-07-09 13:06:02**
 
 ## Newspaper Stats
 
-*Scraped **34,372** Articles*
+*Scraped **34,374** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,24 +17,70 @@ economynextcom | 2,023
 dailyftlk | 2,146
 adalk | 3,086
 adaderanalk | 3,942
-tamilmirrorlk | 4,086
+tamilmirrorlk | 4,087
 dailymirrorlk | 4,733
 virakesarilk | 5,371
-adaderanasinhalalk | 5,718
+adaderanasinhalalk | 5,719
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,370 (100.0%) of 34,372 articles have been extended.
+34,372 (100.0%) of 34,374 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### சந்தேகம் என்றால் தனிப்பட்டு முறையிடலாம்: நீதிமன்றம்
+### දුම්රිය පීලිපැනීමක්
+
+*2024-07-09 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198632) · `si`
+
+දුම්රිය පීලිපැනීමක් හේතුවෙන් මුහුදුබඩ දුම්රිය මාර්ගයේ ගමනාගමන කටයුතුවලට බාධා එල්ල වී තිබේ.
+
+අද (09) පෙරවරුවේ පානදුර දුම්රිය ස්ථානයේ සිට කොළඹ කොටුව දක්වා පැමිණි දුම්රියක් කොටුව දුම්රිය ස්ථානය ආසන්නයේ දී එලෙස පීලිපැනීමට ලක්ව ඇති බව සඳහන්ය.
+
+දුම්රිය මැදිරි දෙකක් එලෙස පීලිපැනීමට ලක්ව ඇති අතර ඒ හේතුවෙන් මුහුදුබඩ දුම්රිය මාර්ගයේ මාර්ග දෙකම අවහිර වී ඇති බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+ඒ හේතුවෙන් ගාල්ල දෙස සිට ධාවනය වන දුම්රිය කොම්පඤ්ඤවීදිය දුම්රිය ස්ථානය දක්වා පමණක් ගමන් කෙරේ.
+
+කෙසේවෙතත් මේ දක්වාත් දුම්රිය පීලිගත කිරීමේ කටයුතු ආරම්භ කර නොමැති අතර ඒ හේතුවෙන් දුම්රිය ධාවන කටයුතු සාමාන්‍ය තත්ත්වයට පත් කිරීමට තවත් පැය කිහිපයක් ගත වනු ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/773bbae9.json)
+
+---
+
+### If suspicion can appeal to: Court
 
 *2024-07-09 12:25:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/சந்தேகம்-என்றால்-தனிப்பட்டு-முறையிடலாம்-நீதிமன்றம்/95-340085) · `ta`
+
+Fort Magistrate Kosala Senadheera advised lodging a complaint if suspicious of the student's death from the 67th floor of the Aldeyar Apartments in Kompanideru. The attorney suggested preparing to file such a complaint. The magistrate also requested phone records from service providers after the police reported the incident, noting the involvement of a Pakistani friend due to diplomatic privileges.
+
+🟩
+
+Fort Magistrate Kosala Senadheera has advised the police to lodge a complaint with the police if there is suspicion of the student's death in the Aldeyar Apartments in Kompanideru.
+
+Attorney -at -law, who was present in court, advised Asanga ready to lodge a person and get permission for the incident.
+
+Attorney -at -Law Asanga Fort Magistrate on Monday (08) has requested that the student's father has said that the student's death is suspicious of the student's death from the 67th floor of the Altaiyar apartment.
+
+Fort Magistrate Kosala Senadheera said that the death of the two students could not be made of suspicion and the police should file a charge sheet that the death was suspicious.
+
+Magistrate Kosala Senadheera added that the Kompanideru police have already reported the facts through the report and lodged a complaint with the police.
+
+...
+
+[Data](articles/1a57f7f5.json)
+
+[Extended Data](ext_articles/1a57f7f5.ext.json)
+
+---
+
+### சந்தேகம் என்றால் தனிப்பட்ட ரீதியில் முறையிடலாம்: நீதிமன்றம்
+
+*2024-07-09 12:25:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/சந்தேகம்-என்றால்-தனிப்பட்ட-ரீதியில்-முறையிடலாம்-நீதிமன்றம்/95-340085) · `ta`
 
 கொம்பனிதெருவில் அல்டெயார் அடுக்குமாடி தொடரில், 67 ஆ​ம் மாடியில் இருந்து விழுந்து மரணமடைந்த மாணவன், மாணவியின் மரணம் தொடர்பில் சந்தேகம் இருக்குமாறின், அவைதொடர்பில் பொலிஸில் முறைப்பாடு செய்யுமாறு கோட்டை நீதவான் கோசல சேனாதீர அறிவுறுத்தியுள்ளார்.
 
@@ -46,7 +92,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ...
 
-[Data](articles/1a57f7f5.json)
+[Data](articles/ccd74bbe.json)
 
 ---
 
@@ -644,21 +690,27 @@ Hospital sources reported that K. Sujeewa, who was seriously injured in her leg,
 
 ---
 
-### අවුරුදු 16ක දැරියක් අභිරහස් ලෙස මිය යයි
+### 16 year old girl dies mysteriously
 
 *2024-07-09 09:24:04* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-16ක-දැරියක්-අභිරහස්-ලෙස-මිය-යයි/11-410686) · `si`
 
-අවුරුදු 16ක් වන දැරියක් මුහුණේ ලේ පැල්ලම් සහිතව රබර් වත්තක මිය ගොස් සිටියදී සොයා ගත් බව පොලීසිය පවසයි. නිවිතිගල වටාපොත, යොවුන් පුර ගම්මානයේ පදිංචිව සිටි දැරියක් මෙසේ ජිවිතක්ෂයට  පත්ව තිබේ.
+A 16-year-old girl from Nivithigala Watapotha was found dead in a rubber estate, possibly due to a falling rubber tree. She didn't attend school and was last seen by her mother, who discovered her body upon arrival home. Police are investigating the cause of death.
 
-මරණකාරියගේ මව වටාපොත විහාරස්ථානය අසල වෙළඳසැලක් පවත්වාගෙන යයි. දැරිය ඊයේ දිනයේදී පාසල් නොගොස් ඇති අතර පසුව මව ඇයට දුරකතන ඇමතුමක් ගෙන වෙළඳ සැලට පැමිණෙන ලෙස දන්වා තිබේ.
+🟩
 
-කෙසේ වෙතත් දැරිය පැමිණිම ප්‍රමාද වීමෙන් මව ඇයව සොයා නිවස වෙත ගමන් කරමින් සිටියදි දියණියගේ සිරුර දැක තිබේ.
+Police say a 16-year-old girl was found dead in a rubber estate. A girl from Nivithigala Watapotha, a youth resident of Youth Pilot village has been killed.
 
-දැරිය නිවසේ සිට වෙළඳසැලට යන විට කපා හෙලන ලද රබර් ගසක අත්තක් වැදිම හේතුවෙන් මෙම මරණය සිදුවන්නට ඇති බවට පොලිසිය සැක කරයි.
+The mother of the deceased operates a shop near the Watapotha temple. The girl has not gone to school yesterday and then the mother had telephoned her and informed the shoot.
+
+However, when the girl was delayed, the mother had seen her mother's body while he was traveling to the house.
+
+Police suspect that this death has been caused by the death of a rubber tree cut off when the girl had gone to the store.
 
 ◼️
 
 [Data](articles/7c4cde5a.json)
+
+[Extended Data](ext_articles/7c4cde5a.ext.json)
 
 ---
 
@@ -2285,55 +2337,5 @@ Six people were injured in the attack and they were taken army.
 [Data](articles/6f87c245.json)
 
 [Extended Data](ext_articles/6f87c245.ext.json)
-
----
-
-### Japan begins with light railway project
-
-*2024-07-08 19:30:02* · [`adalk`](https://www.ada.lk/breaking_news/සැහැල්ලු-දුම්රිය-ව්‍යාපෘතිය-ගැන-ජපානය-සමග-සාකච්ඡා-අරඹයි/11-410676) · `si`
-
-Japan is set to begin a light railway project, with the introduction of an electronic ticketing system for public transport expected by the end of the year. Despite the country's economic crisis, the government has allocated Rs 390 billion for road development projects, including Rs 300 billion for roads and Rs 90 billion for contractors. The Ministry of Highways is optimistic about the success of the Government Debt Restructuring Program, which aims to restart stalled projects. Discussions are underway for the first stage of the Central Expressway and the Ruwanpura Expressway Project. Additionally, the payment of all highway fees will be digitized soon, and preliminary talks have been held with Japan, China, and India regarding new projects, including updating the Light Rail Transit (LRT).
-
-🟩
-
-Secretary Transport and Highways Ministry Secretary Ranjith Ganganath Rubasinghe said that an electronic method was introduced to issue public transport tickets including the rail before the end of this year.
-
-Secretary to the Ministry of Transport and Highways Ranjith Ganganath Rubasinghe said this at a press conference held at the Presidential Media Center today (08) at the Presidential Media Center.
-
-He added that the government has provided Rs..
-
-Secretary to the Ministry of Transport and Highways Ranjith Ganganath Rubasinghe said,
-
-"Despite the economic crisis of the country, the government has given Rs 390 billion for road development projects carried out before 2022.. 300 billion rupees and Rs. 90 billion for the contractors.
-
-...
-
-[Data](articles/5559976b.json)
-
-[Extended Data](ext_articles/5559976b.ext.json)
-
----
-
-### Slave Island opens new flyover this week
-
-*2024-07-08 19:25:51* · [`adalk`](https://www.ada.lk/breaking_news/කොම්පඤ්ඤවීදිය-නව-ගුවන්-පාලම-මේ-සතියේදී-ජනතා-අයිතියට/11-410675) · `si`
-
-This week, Slave Island unveils a new flyover, part of a larger project connecting it to Judge Akbar Mawatha and UK. P. Muriya Bandara, Director General of the Road Development Authority, also announced the completion of the Kohuwala flyover by September. The initiative is part of a broader effort, with 320 kilometers of rural roads completed in February alone.
-
-🟩
-
-Director General of the Road Development Authority will be vested with the second phase of fighter constructions, connecting Slave Island, Judge Akbar Mawatha and UK.. P. Muriya Bandara said Muriya Bandara.
-
-He added that Kohuwala flyover will be declared open to the public and that the port bells on the first month will be completed in September Ceylon.
-
-He was speaking at a press conference held at the President's media centers.
-
-"Thousands of projects are being implemented throughout the country under the Road Development Authority. A total of 320 kilometers of rural roads have been completed in February, which has been completed in February.
-
-◼️
-
-[Data](articles/ba0429fe.json)
-
-[Extended Data](ext_articles/ba0429fe.ext.json)
 
 ---

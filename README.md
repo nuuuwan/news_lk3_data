@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 18:54:53**
+As of **2024-07-09 19:04:51**
 
 ## Newspaper Stats
 
-*Scraped **34,433** Articles*
+*Scraped **34,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,028
 dailyftlk | 2,146
 adalk | 3,094
 adaderanalk | 3,955
-tamilmirrorlk | 4,095
+tamilmirrorlk | 4,096
 dailymirrorlk | 4,733
 virakesarilk | 5,382
 adaderanasinhalalk | 5,732
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,732
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,430 (100.0%) of 34,433 articles have been extended.
+34,430 (100.0%) of 34,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### தொழிலாளர்களின் சம்பள விவகாரம்; மனுஷ அதிரடி
+
+*2024-07-09 18:52:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிலாளர்களின்-சம்பள-விவகாரம்-மனுஷ-அதிரடி/175-340102) · `ta`
+
+தோட்டத் தொழிலாளர்களின் சம்பள அதிகரிப்பு தொடர்பான அரசாங்கத்தின் தீர்மானத்திற்கு எதிராக சில பெருந்தோட்டக் கம்பனிகள் நீதிமன்றத்தை நாடியமையால்  ஏற்பட்டுள்ள பிரச்சினைகள்  குறித்து கலந்துரையாடுவதற்காக இலங்கை தொழிலாளர் காங்கிரஸின்  பிரதிநிதிகள் உட்பட  பெருந்தோட்டத் தொழிலாளர்கள் குழுவினர்கள்   தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சில்  இன்று (9 ) அமைச்சர் மனுஷ நாணயக்காரவைச் சந்தித்தனர் .
+
+குறிப்பிட்ட பெருந்தோட்டக் கம்பனிகள் அதிகரிக்கப்பட்ட சம்பளத்தை வழங்க மறுப்பதால் ஏற்பட்டுள்ள பிரச்சினை குறித்து அமைச்சர் தொழிலாளர் பிரதிநிதிகளிடம் விளக்கினார். மேலும் இன்று இடம்பெற்ற அமைச்சரவை கூட்டத்திலும் இது தொடர்பில் கலந்துரையாடப்பட்டதாக அமைச்சர் குறிப்பிட்டார்
+
+தற்போதுள்ள சட்ட திட்டங்களுக்கு அமைய சம்பளத்தை 1350 ரூபாவாகவும், உற்பத்தி திறன் அடிப்படையிலான ஊக்குவிப்பு கொடுப்பனவை 350 ரூபாவாகவும்  அதிகரிப்பதற்காக சம்பள சபையின் மூலம் அரசாங்கத்தால்  மேற்கொள்ளப்பட்ட முயற்சிகளுக்கு பெருந்தோட்ட கம்பனிகள் ஒத்துழைப்பு நல்கவில்லை .
+
+...
+
+[Data](articles/458c62a1.json)
+
+---
 
 ### ජුලි විශ්‍රාම වැටුප බැංකු වෙත නිදහස් කරයි
 
@@ -2363,37 +2379,5 @@ The deceased is currently underway due to a branch of a rubber tree cut off whil
 [Data](articles/4e1d76e9.json)
 
 [Extended Data](ext_articles/4e1d76e9.ext.json)
-
----
-
-### IGP summoned to the printing commission of the printing and post
-
-*2024-07-09 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198619) · `si`
-
-The Inspector General of Police (IGP) has been called to the Elections Commission regarding the upcoming presidential election. The discussion includes the implementation of the Elections Registration Act, which will limit candidates and possibly increase their bail.
-
-🟩
-
-The IGP has been summoned to the Elections Commission to discuss matters relating to the presidential election.
-
-Chairman of the Election Commission RM V.L Ratnayake said the parties have been summoned to the Elections Commission to discuss the basics related to the presidential election.
-
-Accordingly, the government's printing and the Postcaster is due to arrive at the Elections Commission today.
-
-The IGP is due to arrive at the Election Commission within the next few days.
-
-The Commissioner of Commissioner Chairman RMA V. Ratnayake said that the power to announce the presidential election according to the Constitution.
-
-Meanwhile, the Commissioner General of Elections Saman Sri Ratnayake says that the Elections Registration Act will be implemented in the next presidential election.
-
-He points out that every candidate who is contesting for the election will be limited.
-
-He also planned to increase the bail of candidates on the presidential election.
-
-◼️
-
-[Data](articles/03d7b48c.json)
-
-[Extended Data](ext_articles/03d7b48c.ext.json)
 
 ---

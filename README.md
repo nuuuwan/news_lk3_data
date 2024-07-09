@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 08:23:46**
+As of **2024-07-09 08:35:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,708
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,314 (100.0%) of 34,330 articles have been extended.
+34,324 (100.0%) of 34,330 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,23 +48,35 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 [Data](articles/5745d39b.json)
 
+[Extended Data](ext_articles/5745d39b.ext.json)
+
 ---
 
-### ක්ලබ් වසන්තගේ බිරිඳ කලුබෝවිල රෝහලට මාරු කරයි - වෑන් රථයත් හමුවෙයි
+### Club Wasantha's wife transferred to Kalubowila Hospital - Van meets
 
 *2024-07-09 08:01:46* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්තගේ-බිරිඳ-කලුබෝවිල-රෝහලට-මාරු-කරයි---වෑන්-රථයත්-හමුවෙයි/11-410685) · `si`
 
-අතුරුගිරිය ප්‍රදේශයේ සිදුවූ වෙඩි තැබීමකින් මියගිය සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් (ක්ලබ් වසන්ත ) නැමැත්තාගේ බිරිඳ වැඩිදුර ප්‍රතිකාර සඳහා හෝමාගම මූලික රෝහලෙන් කළුබෝවිල ශික්ෂණ රෝහලට මාරුකර යවා ඇතැයි හෝමාගම මූලික රෝහල පවසයි.
+Sure Wasantha Perera's widow has been moved to Kalubowila Hospital for more treatment after being shot in Athurugiriya. The incident occurred when two unknown gunmen targeted Menik Wijewardena at Athurugiriya Junction, leading to his death. Doctors treating her have also been relocated to Kalubowila due to her critical condition requiring surgery.
 
-මැණික් විජේවර්ධන (42) කාන්තාව (08) දා උදෑසන අතුරුගිරිය හන්දිය ආසන්නයේ විවෘත කිරීමට නියමිත රූපලාවණ්‍යාගාරයකට පැමිණි අවස්ථාවේදී නාඳුනන වෙඩික්කරුවන් දෙදෙනෙකුගේ වෙඩි පහරින් මෙසේ තුවාල ලබා හෝමාගම මූලික රෝහලට ඇතුලත් කර තිබුණි.
+🟩
 
-පසුව ඇය ශල්‍යකර්මයක් සඳහා යොමු කොට දැඩිසත්කාරයකගේ ප්‍රතිකාර ලබමින් සිටියදී ඇයගේ තත්ත්වය අසාධ්‍ය බැවින් කළුබෝවිල ශික්ෂණ රෝහලට මාරු කර යැවීමට වෛද්‍යවරුන් පියවර ගෙන ඇති බව රෝහල් ආරංචි මාර්ග පවසයි .
+The wife of Sure Wasantha Perera, who died of a shooting in Athurugiriya, has been transferred to the Kalubowila Teaching Hospital for further treatment.
 
-මීට අමතරව රෝහල් ගතව සිටි යොමානා කෞෂධී  ශල්‍යකර්මයකට භාජනය කොට මේ වන විටත්  දැඩි සත්කාරයකගේ ප්‍රතිකාර ලබමින් සිටින බව එම ආරංචි මාර්ග වැඩිදුරටත් පවසයි.
+When he arrived at the Athurugiriya Junction in the morning of the Menik Wijewardena (42), two unidentified shooters were shot and rushed to the Homagama Hospital.
 
-...
+The doctors have been transferred to the Kalubowila Teaching Hospital as her condition was in a surgery and was in the treatment of her condition.
+
+Sources say that Jamana, who was hospitalized was undergoing the treatment of a severe care of the age of passion.
+
+Don Sarchandra, a resident of Ward Place, Colombo 07, Don Sarchandra, No.The Homagama Police said.
+
+Meanwhile, the assassins of the Athurugiriya shooting murderers met with the bulathsinhala police last night in Bulathsinhala area.
+
+◼️
 
 [Data](articles/3f264a1d.json)
+
+[Extended Data](ext_articles/3f264a1d.ext.json)
 
 ---
 
@@ -584,21 +596,29 @@ The deadline for presidential elections is fast approaching and the Election Com
 
 [Data](articles/759526be.json)
 
+[Extended Data](ext_articles/759526be.ext.json)
+
 ---
 
-### ’சவால்களை வெற்றிகொள்ளும் புத்தரின் போதனைகள்’
+### Buddha's teachings to win the challenges
 
 *2024-07-09 00:44:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவால்களை-வெற்றிகொள்ளும்-புத்தரின்-போதனைகள்/175-340068) · `ta`
 
-பௌத்த மதத்திற்கும் நாம் தற்போது பயணித்துக்கொண்டிருக்கும் நவீன விஞ்ஞானம் மற்றும் தொழிநுட்ப உலகிற்கும் இடையில் பாரிய தொடர்பு இருக்கின்றது எனவும் உலகம் எதிர்நோக்கும் எதிர்கால சவால்களை வெற்றிகொள்ளும் வழி புத்தரின் போதனைகளில் உள்ளடங்குகின்றது என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe highlighted the relevance of Buddha's teachings to modern science and technology during the Amarapura Day ceremony, celebrating the contributions to Buddhism over 222 years. He praised the efforts of the Amarapura Maha Nikaya and presented souvenirs, emphasizing the importance of Buddhist principles in today's world.
 
-சப்ரகமுவ மாகாண சபை கேட்போர் கூடத்தில் நேற்று இடம்பெற்ற இலங்கை அமரபுர மகா நிகாயவின் அமரபுர தின நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-வண. வெலிதர, மஹகராவே ஞானவிமலதிஸ்ஸ தேரரின் மாபெரும் அர்ப்பணிப்பின் பின்னர் 1802 ஆம் ஆண்டு அமரபுர மகா நிகாய ஸ்தாபிக்கப்பட்டது. வண. மடிஹே பஞ்ஞாசீஹ, அக்கமஹா பண்டித வண. பலாங்கொட ஆனந்த மைத்ரி, வண. தவுல்தென ஞானீஸ்வர, வண. கொடுகொட தம்மாவாஸ, வண. தொடம்பஹல சந்தசிறி போன்றவர்கள் அமரபுர மகா நிகாயவை தலைமை தாங்கினர்.
+President Ranil Wickremesinghe said that there is a huge connection between Buddhism and the modern science and technology world that we are currently traveling, and that the teachings of the Buddha are in the teachings of the Buddha.
+
+The President was speaking at the Amarapura Day ceremony of Sri Lanka's Amarapura Maha Nikaya held at the Sabaragamuwa Provincial Council auditorium yesterday.
+
+Verse. After the great dedication of Velidara, Mahakarawe Gnanavimaladiza Thera, Amarapura was established in 1802. Verse. Madihe Panjazheeha, Akamaha Pandita Vana. Ananda Maithri, Balangoda. Dauldeena Gnaniswara, Vana. Kodukoda Dammavasa, Wana. Thodambahala Chandasiri led Amarapura Maha Nikaya.
 
 ...
 
 [Data](articles/8eff6970.json)
+
+[Extended Data](ext_articles/8eff6970.ext.json)
 
 ---
 
@@ -826,6 +846,8 @@ You are required to call Dilanth (0772364301), Mazeeha (0775199807) or Dayanthi 
 
 [Data](articles/152747f7.json)
 
+[Extended Data](ext_articles/152747f7.ext.json)
+
 ---
 
 ### Sri Lanka showcases maritime prowess at Posidonia 2024
@@ -837,6 +859,8 @@ Five leading Sri Lankan maritime service providers recently showcased the nation
 ...
 
 [Data](articles/adb18aea.json)
+
+[Extended Data](ext_articles/adb18aea.ext.json)
 
 ---
 
@@ -858,6 +882,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/c3935f1a.json)
 
+[Extended Data](ext_articles/c3935f1a.ext.json)
+
 ---
 
 ### LOLC Technologies unveils Sri Lanka’s first LLm-based chatbot for banking and financial services
@@ -872,6 +898,8 @@ The newly introduced chatbot leverages the latest advancements in artificial int
 
 [Data](articles/4ceb7b50.json)
 
+[Extended Data](ext_articles/4ceb7b50.ext.json)
+
 ---
 
 ### AIA Insurance bags multiple wins at the 4A’s Advertising Awards 2024
@@ -883,6 +911,8 @@ AIA Insurance shone at the recently held 4A’s Advertising with a remarkable fi
 ...
 
 [Data](articles/da3300f4.json)
+
+[Extended Data](ext_articles/da3300f4.ext.json)
 
 ---
 
@@ -897,6 +927,8 @@ The court determination negatively affected the market’s trading activities an
 ...
 
 [Data](articles/c5738f91.json)
+
+[Extended Data](ext_articles/c5738f91.ext.json)
 
 ---
 

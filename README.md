@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 04:35:16**
+As of **2024-07-10 04:54:21**
 
 ## Newspaper Stats
 
@@ -26,79 +26,111 @@ adaderanasinhalalk | 5,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,472 (100.0%) of 34,476 articles have been extended.
+34,476 (100.0%) of 34,476 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### வடக்கு,கிழக்கு வேலையில்லா பட்டதாரிகள் அரசாங்கத்தின் நிலைப்பாடு என்ன? - சஜித் பிரேமதாச கேள்வி
+### What is the government's position for the North and East unemployed graduates?- Sajith Premadasa question
 
 *2024-07-10 02:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/188092) · `ta`
 
-வடக்கு மற்றும் கிழக்கு மாகாணங்களில்  வேலையில்லா பட்டதாரிகள் தொடர்பில் அரசாங்கம் என்ன நிலைப்பாட்டில் உள்ளது  என்பதனை அறிவிக்க வேண்டும் என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச சபையில் வலியுறுத்தினார்.
+Sajith Premadasa questioned the government's stance on unemployment among graduates in the Northern and Eastern provinces, highlighting their concerns and demands during his visit. He criticized the lack of clear policies and appointments for these graduates, urging the government to address this issue amidst a growing unemployment rate exceeding 50,000 nationwide.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (9) இடம்பெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றும் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-வடக்கு  மற்றும் கிழக்கு மாகாணங்களுக்கு அண்மையில் விஜயம் செய்திருந்தேன். அங்கே வடக்கு மாகாணத்திலும் கிழக்கில் மட்டக்களப்பு மாவட்டத்திலும் வேலையில்லா பட்டதாரிகள் தங்களின் பிரச்சினைகளை  முன்வைத்தனர். அவர்கள் ஆர்ப்பாட்டங்களை நடத்தி வருவதுடன்  கோரிக்கைகளையும் முன்வைத்துள்ளனர்.
+Opposition Leader Sajith Premadasa urged the council to announce what the government is in the Northern and Eastern Provinces.
 
-இந்த வேலையில்லாப் பட்டதாரிகள் தொடர்பில் அரசாங்கத்தின் பதில் என்ன? அவர்கள் தொடர்பான வேலைத்திட்டம் என்ன? அரசாங்கத்தின் கொள்கை என்ன? அவர்களுக்கு நியமனங்கள் வழங்கப்படுமா? அரசாங்கத்தின் பல்வேறு துறைகளில் நிலவும் வெற்றிடங்களுக்கு ஏன் எங்களை நியமிக்க முடியவில்லை என்று கேட்கின்றனர். அவர்களின் கோரிக்கை அறிக்கையை சபையில் முன்வைக்கின்றேன்.
+He was speaking at a special statement during a session held in Parliament on Tuesday (9).
 
-...
+I had recently visited the Northern and Eastern Provinces. Unemployed graduates presented their problems in the Northern Province and in the East Batticaloa District. They are carrying out demonstrations and have made demands.
+
+What is the government's response to these unemployed graduates?What is the program related to them?What is the policy of the government?Will they be appointed?They ask why we are unable to appoint us for vacancies in various sectors of the government. I present their request report to the House.
+
+Meanwhile, the number of unemployed graduates in the country has crossed 50 thousand. Getting our free education and then in the unemployed hierarchy they are going to go?. He said the government should respond to the solution they are taking.
+
+◼️
 
 [Data](articles/d52d84ea.json)
 
+[Extended Data](ext_articles/d52d84ea.ext.json)
+
 ---
 
-### நீதிச்சேவை கட்டமைப்பு பாரிய நெருக்கடிக்குள் - நீதியமைச்சர்
+### In the massive crisis of judicial service - Justice Minister
 
 *2024-07-10 02:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/188091) · `ta`
 
-ஒரு சில நீதிபதிகளின் முறையற்ற செயற்பாடுகளினால் கௌரவமாக செயற்படும் பெரும்பாலான நீதிபதிகளின் புகழுக்கும் இழுக்கு ஏற்பட்டுள்ளது. நீதிச்சேவை கட்டமைப்பு பாரிய நெருக்கடிகளை எதிர்க்கொண்டுள்ளன. சபையில் நான் ஆற்றிய உரை தொடர்பில்  ஊடக அறிக்கை வெளியிட்ட இரு நீதிபதிகளை தேவையாயின் பாராளுமன்ற சிறப்புரிமைகள் மற்றும் ஒழுக்கவியல் குழுவுக்கு அழையுங்கள் என  நீதி,சிறைச்சாலைகள் அலுவல்கள்  மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜயதாஸ ராஜபக்ஷ சபாநாயகரிடம் வலியுறுத்தினார்.
+Justice Minister Vijayadasa Rajapakse addressed Parliament, highlighting the integrity of most judges amidst allegations against a few. He called for two judges to be investigated by the Parliamentary Privacy and Morals Committee over improper actions, including illegal activities like unauthorized water and electricity use, and theft of valuable items from courts. The minister emphasized his commitment to judicial independence and transparency, urging swift action on complaints and calling for the involvement of the Judicial Services Commission in addressing these issues.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (9) இடம்பெற்ற அமர்வின் போது சிறப்புரிமை  மீறல் பிரச்சினையை  முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-நீதிச்சேவை கட்டமைப்பு குறித்து  நான் ஆற்றிய உரை தற்போது பிரதான பேசுபொருளாக காணப்படுகிறது. எனது சிறப்புரிமை மீறப்பட்டுள்ளது என்பதை குறிப்பிட்டிருந்தேன்.நான் கேள்விகளை முன்வைப்பதற்கு முன்னர் நீதிச்சேவை ஆணைக்குழு அதற்கு பதிலளித்துள்ளதற்கு மகிழ்ச்சியடைகிறேன்.
+The praise of most judges who act in honor due to improper actions of a few judges. Justice Service Structure opposes massive crises. Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapakse urged the Speaker of the House to invite the two judges to the Parliamentary Privacy and Morals Committee of Parliament.
+
+He was speaking at a speech on Tuesday (9) in Parliament on Tuesday (9).
+
+The speech I delivered on the structure of the judicial service is now the main speech. I am happy that the Judicial Service Commission has responded before I present questions.
+
+In response to questions posed by MP Dayasiri Jayasekera on the 19th of last month, I mentioned many issues.. Members of Parliament are asking me the Justice Minister what the court cannot hear about judicial services.
 
 ...
 
 [Data](articles/8ba1778c.json)
 
+[Extended Data](ext_articles/8ba1778c.ext.json)
+
 ---
 
-### பெருந்தோட்டங்களை  கிராமங்களாக அடையாளப்படுத்தி வர்த்தமானி வெளியிடப்படும் - ஜீவன் தொண்டமான்
+### Gazette will be released as villages- Jeevan Thondaman
 
 *2024-07-10 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188090) · `ta`
 
-பெருந்தோட்ட கம்பனிகளின் கட்டுப்பாட்டில் மக்கள் வாழும் இடங்களை கிராமங்களாக அடையாளப்படுத்தி வர்த்தமானி அறவித்தலை வெளியிட ஜனாதிபதி முன்வைத்த யோசனைக்கு அமைச்சரவை அங்கிகாரம் வழங்கியுள்ளது. தோட்ட பகுதிகளை கிராமமாக அறிவித்து காணி உரிமையை பெற்றுக் கொடுப்போம்.பெருந்தோட்ட மக்களின் பிரச்சினைகளுக்கு தீர்வு காண மலையக மக்கள் பிரதிநிதிகள் அனைவரும் ஒன்றிணைந்து செயற்பட வேண்டும். ஜனாதியாக கனவு காணும்  தம்மிக்க பெரேரா 1700 ரூபா சம்பள அதிகரிப்புக்கு எதிர்ப்பு தெரிவிக்கிறார் என  நீர் வழங்கல் மற்றும் பெருந் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி  அமைச்சர்  ஜீவன் தொண்டமான் தெரிவித்தார்.
+The Sri Lankan Cabinet has approved a proposal to identify communities living under plantation company control for gazetting. Minister Jeevan Thondaman addresses concerns over a proposed salary increase from 1000 to 1700 rupees, clarifying it's not politically motivated but sought through the Salary Council. He emphasizes unity among hill country residents to tackle issues like poverty and inadequate wages, criticizing plantation companies' profits and lack of participation in wage discussions. Thondaman also mentions educational improvements and funding for schools, thanking India for providing teachers. He stresses the importance of focusing on child safety and development over political concessions.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (9) இடம்பெற்ற இலங்கை தொலைத்தொடர்பு (திருத்தச்)சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-சபைக்கும்,நாட்டு மக்களுக்கும் ஒருசில விடயங்களை தெளிவுப்படுத்த வேண்டும். 1700 ரூபா சம்பள விவகாரம் எந்நிலையில் உள்ளது. என்பதை அனைவரும் நன்கு அறிவார்கள்.இந்த சம்பள அதிகரிப்பு கிடைக்காது,அரசாங்கம் நாடகம் ஆடுகிறது என்று  ஒரு சிலர் மக்களை தூண்டிவிடுகிறார்கள்.
+The Cabinet has approved the idea of ​​the president's proposal to identify the places where people live under the control of the plantation companies and publish the gazette.. All the people of the hill country should work together to address the problems of the people of the area.. Water Supply and Plantation Infrastructure Development Minister Jeevan Thondaman said that Dhammika Perera, who is dreaming of the president, is protesting against a salary increase.
+
+He was speaking at a debate on the Sri Lanka Telecommunication (Amendment) Bill held in Parliament on Tuesday (9).
+
+The congregation and the people of the country should clarify some of the things. 1700 rupees salary issue. There is no increase in this salary, and a few people are provoking people that the government is playing.
+
+We have not made a 1700 rupee salary request to the President with a political purpose. We paid a salary of 1000 rupees in 20121.
 
 ...
 
 [Data](articles/b2eba3e4.json)
 
+[Extended Data](ext_articles/b2eba3e4.ext.json)
+
 ---
 
-### விஜயகாந்துக்கு மரியாதை செலுத்தினார் நெப்போலியன்!
+### Napoleon paid homage to Vijayakanth!
 
 *2024-07-10 02:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/188089) · `ta`
 
-மறைந்த தேமுதிக தலைவர் விஜயகாந்த் வீட்டுக்கு தனது குடும்பத்துடன் சென்ற நடிகர் நெப்போலியன், அவருடைய உருவப்படத்திற்கு மலர்தூவி மரியாதை செலுத்தினார் இதுகுறித்த வீடியோ வைரலாகி வருகிறது.
+Actor Napoleon, along with his family, visited the late DMK leader Vijayakanth's home to pay respects. Vijayakanth, a prominent figure in politics and cinema, passed away on December 28 due to illness. His funeral took place at the Temuthika headquarters in Coimbatore, Chennai, where many mourners paid tribute. Recently, Napoleon, a close friend of Vijayakanth, returned to India from the United States and visited Vijayakanth's house in Saligramam, Chennai, where he honored the leader's portrait with a garland. This touching moment was captured in a video that has since gone viral on social media.
 
-நடிகரும், தேமுதிக தலைவருமான விஜயகாந்த் கடந்த டிசம்பர் 28ம் தேதி உடல்நலக் குறைவால் காலமானார். அவருடைய உடலுக்கு பல்வேறு அரசியல் கட்சித் தலைவர்கள், திரையுலக பிரபலங்கள் நேரில் சென்று அஞ்சலி செலுத்தினர்.
+🟩
 
-அதன்பின்னர் அவருடைய உடல், உடல் சென்னை கோயம்பேட்டில் உள்ள தேமுதிக தலைமை அலுவலகத்தில் அடக்கம் செய்யப்பட்டது. இன்று வரை ஏராளமானோர் அங்கு சென்று அஞ்சலி செலுத்தி வருகின்றனர்.
+Actor Napoleon, who went to the house of the late DMK leader Vijayakanth with his family, paid homage to his portrait.
 
-இந்நிலையில், விஜயகாந்த் இறந்தபோது வர முடியாத சூழ்நிலையில் அமெரிக்காவில் இருந்த நடிகரும், விஜயகாந்தின் நண்பருமான நெப்போலியன் தற்போது இந்தியா வந்துள்ளார்.
+Actor and leader of the party, Vijayakanth passed away on December 28 due to ill health. Various political party leaders and film celebrities paid tribute to his body.
 
-இதையடுத்து, சென்னை சாலிகிராமத்தில் உள்ள விஜயகாந்த் வீட்டுக்கு நடிகர் நெப்போலியன் தனது மனைவியுடன் இன்று (ஜூலை 9) சென்றார். அங்கு, விஜயகாந்த் உருவப்படத்திற்கு மாலை அணிவித்து மலர் தூவி மரியாதை செலுத்தினார்.
+His body and body were then buried at the Temuthika headquarters in Coimbatore, Chennai. To date, many people have gone there and paying tribute.
 
-...
+In the meantime, Napoleon, an actor in the United States and Vijayakanth's friend, is now in India.
+
+Following this, actor Napoleon went to Vijayakanth's house in Saligramam, Chennai today (July 9) with his wife.. There, Vijayakanth wore a garland to the portrait and paid homage.
+
+Later, Premalatha was comforted by Vijayakanth and son Shanmukha Pandiyan. Subsequently, Premalatha described the Padma Bhushan Award for Vijayakanth to Napoleon. The video related to this has been released on the social network and is going viral.
+
+◼️
 
 [Data](articles/c8d258a5.json)
+
+[Extended Data](ext_articles/c8d258a5.ext.json)
 
 ---
 

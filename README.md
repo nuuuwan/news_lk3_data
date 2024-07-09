@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 09:05:53**
+As of **2024-07-09 09:19:53**
 
 ## Newspaper Stats
 
-*Scraped **34,334** Articles*
+*Scraped **34,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 islandlk | 1,936
 economynextcom | 2,022
 dailyftlk | 2,146
-adalk | 3,079
+adalk | 3,080
 adaderanalk | 3,933
-tamilmirrorlk | 4,079
+tamilmirrorlk | 4,080
 dailymirrorlk | 4,733
 virakesarilk | 5,365
-adaderanasinhalalk | 5,710
+adaderanasinhalalk | 5,711
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,333 (100.0%) of 34,334 articles have been extended.
+34,334 (100.0%) of 34,337 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### කාන්තා මළ සිරුරක් වෙරළට ගොඩ ගසයි
+
+*2024-07-09 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198623) · `si`
+
+නාඳුනන කාන්තා මළ සිරුරක් කලවංචිකුඩි, කුරුක්කල්මඩම් ප්‍රදේශයේ මුහුදු වෙරළට ගොඩ ගසා තිබියදී සොයාගෙන ඇත.
+
+ඊයේ (08) උදෑසන කලවංචිකුඩි පොලීසියට ලද තොරුතුරකට අනුව එම සිරුර සොයාගෙන තිබේ.
+
+මරණකාරියගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැති අතර අවුරුදු 45ත් 50ත් අතර වයසේ පසුවන උස අඩි 05යි අඟල් 04ක් පමණ වන කාන්තාවක් බව පොලීසිය සඳහන් කරයි.
+
+මළ සිරුර මහෙස්ත්‍රාත් පරීක්ෂණයෙන් පසු මඩකලපුව රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර කලවංචිකුඩි පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/b7d52295.json)
+
+---
 
 ### Election Commission summons IGP, Govt Printer and Postmaster General
 
@@ -49,6 +67,8 @@ Rathnayake mentioned that they hope to discuss the fundamental issues regarding 
 ...
 
 [Data](articles/221e61ba.json)
+
+[Extended Data](ext_articles/221e61ba.ext.json)
 
 ---
 
@@ -704,6 +724,24 @@ The deadline for presidential elections is fast approaching and the Election Com
 
 ---
 
+### ’வேலைநிறுத்தங்களால் மாணவர்களுக்கு பாதிப்பு’
+
+*2024-07-09 00:45:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலைநிறுத்தங்களால்-மாணவர்களுக்கு-பாதிப்பு/175-340069) · `ta`
+
+தேர்தல் நெருங்கும் நேரத்தில் அநீதியான வகையில் வேலைநிறுத்தங்களை முன்னெடுப்பதன் மூலம் பிள்ளைகள் கல்வி கற்கும் வாய்ப்பை இழந்துள்ளனர் என தொழில்நுட்ப இராஜாங்க அமைச்சர் கனக ஹேரத் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் கனக ஹேரத் இவ்வாறு  தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+தற்போதைய தொழில்சார் நடவடிக்கைகளின்படி அனைத்து அரச ஊழியர்களுக்கும் 20,000 ரூபா கொடுப்பனவு கோரப்பட்டுள்ளது. அந்த கொடுப்பனவை வழங்குவதற்கு வருடத்திற்கு சுமார் 280 பில்லியன் ரூபா மேலதிகமாக செலவு செய்ய வேண்டியிருக்கும். நாட்டின் தற்போதைய நிலைமையைக் கருத்தில் கொண்டு அந்த செலவுகளை எவ்வாறு ஈடுகட்டுவது என்பதை எதிர்க்கட்சி தெரிவிக்க வேண்டும்.
+
+அத்துடன், தேர்தல் நெருங்கும் வேளையில் அசாதாரண வகையில் போராட்டங்களை முன்னெடுத்தமையினால், பிள்ளைகள் கல்வி கற்கும் வாய்ப்பையும் இழந்துள்ளனர். இறுதியில் சாதாரண பொது மக்களே பாதிக்கப்படுகின்றனர் என்பதை வேலை நிறுத்தத்தில் ஈடுபடுபவர்கள் புரிந்து கொள்ள வேண்டும்.
+
+...
+
+[Data](articles/abbe1960.json)
+
+---
+
 ### Buddha's teachings to win the challenges
 
 *2024-07-09 00:44:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவால்களை-வெற்றிகொள்ளும்-புத்தரின்-போதனைகள்/175-340068) · `ta`
@@ -1299,6 +1337,20 @@ Often a local person is likely to be selected as a trainee, he said.
 [Data](articles/4dc13288.json)
 
 [Extended Data](ext_articles/4dc13288.ext.json)
+
+---
+
+### ඉන්දීය දුම්රිය එන්ජින් 20න් පළමු කොටස මාස දෙකක් තුළ
+
+*2024-07-08 19:40:03* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-දුම්රිය-එන්ජින්-20න්-පළමු-කොටස-මාස-දෙකක්-තුළ/11-410678) · `si`
+
+දුම්රිය එන්ජින් අවශ්‍යතාව සැපරීම සඳහා ඉන්දියානු රජයෙන් දුම්රිය එන්ජින් 20ක් පරිත්‍යාගයක් වශයෙන් ලබා දීමට එකඟ වී ඇති බවත් එහි පළමු කොටස මාස දෙකක් තුළ ලංකාවට ලැබෙනු ඇති බවත් වැඩබලන දුම්රිය සාමාන්‍යාධිකාරී සංජය මුදලිගේ මහතා, පැවැසීය. ජනපති මාධ්‍ය කේන්ද්‍ර යේ පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ඔහු මේ බව පැවැසිය.
+
+"අක්කර 12,000ක් පමණ වන දුම්රිය දෙපාර්තමේන්තුව සතු ඉඩම් ඵලදායී ලෙස භාවිතා කිරීම සඳහා ජනතාවට බදු ගැනීමේ අවස්ථාව අප ලබා දී තිබෙනවා. ඒ අනුව මේ වන විටත් අනවසරයෙන් හෝ අවසරය ඇතුව දුම්රිය දෙපාර්තමේන්තුවට අයත් ඉඩම්වල පදිංචිකරුවන්ට එම ඉඩම් සඳහා බදු ඔප්පුවක් ලබා ගැනීම සඳහා ලියාපදිංච් වීමට ඉඩ ලාබෙනවා. ඒ වන විටත ලියාපදිංචි නොවූවන් සඳහා නීතිමය ක්‍රියාමාර්ග ගැනීමටත්, එම ස්ථානවලින් ඉවත් කිරීමටත් කටයුතු කරනවා.
+
+...
+
+[Data](articles/c8dd28e1.json)
 
 ---
 
@@ -2213,75 +2265,5 @@ The heroicated hero was rescued by the Sasilu.
 [Data](articles/7e61fa71.json)
 
 [Extended Data](ext_articles/7e61fa71.ext.json)
-
----
-
-### Car used in Athurugiriya shooting found in Kaduwela
-
-*2024-07-08 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100372/car-used-in-athurugiriya-shooting-found-in-kaduwela) · `en`
-
-The car used in the Athurugiriya shooting incident, which resulted in the deaths of two individuals including Surendra Wasantha Perera also known as ‘Club Wasantha’, has been found in the Koratota area in Kaduwela by the police.
-
-The shooting had occurred during the opening ceremony of a beauty salon near the Clock Tower in Athurugiriya. Six persons were rushed to hospital following the shooting.
-
-However, police later confirmed that well-known businessman 55-year-old Surendra Wasantha Perera, also known as “Club Wasantha,” and a 38-year-old male had succumbed to injuries on admission to the hospital.
-
-Additionally, four other individuals including the popular singer K. Sujeewa were injured and are currently receiving treatment at hospital. The four injured persons includes three females.
-
-An injured woman and a man are being treated at the Colombo National Hospital while the other women are being treated at the Homagama Hospital.
-
-...
-
-[Data](articles/3ef687f2.json)
-
-[Extended Data](ext_articles/3ef687f2.ext.json)
-
----
-
-### Sri Lanka Supreme Court dismisses petition on presidential election: report
-
-*2024-07-08 13:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-supreme-court-dismisses-petition-on-presidential-election-report-171255/) · `en`
-
-ECONOMYNEXT — The petition filed in Sri Lanka’s Supreme Court seeking a determination on the term limit of the president has been dismissed by the apex court, media reports said.
-
-A five-judge bench delivered the verdict on the petition Monday July 08 afternoon. The bench was headed by Chief Justice Jayantha Jayasuriya.
-
-Last week, President Ranil Wickremesinghe said he believes the president’s term is five years, expressing his support for holding the presidential election in 2024 and disavowing the aforesaid case filed in the Supreme Court seeking a verdict stating that a president’s term is six years.
-
-...
-
-[Data](articles/a07dbab4.json)
-
-[Extended Data](ext_articles/a07dbab4.ext.json)
-
----
-
-### The car is found the car
-
-*2024-07-08 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198604) · `si`
-
-In Athurugiriya, a shooting incident occurred during a beauty salon opening ceremony, resulting in the death of a businessman, Surandra Wasantha Perera, and injuries to a singer and three others. The victims are from Colombo 07 and Athurugiriya. Police found two T-56 rifles at the scene.
-
-🟩
-
-The car to shooting the shooting in the Athurugiriya has been recovered while she had been thrown out of Koratatota.
-
-The shooting around 10 am today (08) had been shot in a ceremony to open a beauty firm near the clock torch.
-
-Surandra Wasantha Perera alias, or 38, was killed in a famous businessman who shoot shooting.
-
-They are residents of Colombo 07 and Athurugiriya, police said.
-
-The shooting was also wounded by a famous singer Kueli Ku Pueva and two others were injured.
-
-A woman and a man is receiving treatment at the Colombo National Hospital while other women are receiving treatment at the Homagama Hospital.
-
-Police investigations have revealed that two T-56 rivers have been used to shoot and shooting a car.
-
-◼️
-
-[Data](articles/479f3b4c.json)
-
-[Extended Data](ext_articles/479f3b4c.ext.json)
 
 ---

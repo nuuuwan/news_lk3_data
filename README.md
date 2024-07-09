@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 17:56:12**
+As of **2024-07-09 18:15:14**
 
 ## Newspaper Stats
 
-*Scraped **34,417** Articles*
+*Scraped **34,418** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,952
 tamilmirrorlk | 4,095
 dailymirrorlk | 4,733
 virakesarilk | 5,376
-adaderanasinhalalk | 5,729
+adaderanasinhalalk | 5,730
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,415 (100.0%) of 34,417 articles have been extended.
+34,415 (100.0%) of 34,418 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### උසස් පෙළ අයදුම්පත් යොමු කිරීමේ කාලය දීර්ඝ කෙරේ
+
+*2024-07-09 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198644) · `si`
+
+මෙවර අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගය සඳහා මාර්ගගත ක්‍රමය ඔස්සේ අයදුම්පත් යොමුකිරීමේ අවස්ථාව තවදුරටත් දීර්ඝ කර තිබේ.
+
+පාසල් සහ පෞද්ගලික අයදුම්කරුවන් සඳහා මාර්ගගත ක්‍රමය ඔස්සේ අයදුම්පත් යොමුකිරීම හෙට (10) දිනෙන් අවසන් වීමට නියමිතව තිබුණි.
+
+එහෙත් නොවැළැක්විය හේතූන් මත එම දිනය ලබන 12 වනදා දක්වා දීර්ඝ කිරීමට පියවර ගත් බව නිවේදනයක් නිකුත් කරමින් විභාග දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+ඒ අනුව එදිනෙන් පසු යළි කිසිදු හේතුවක් මත අයදුම්පත් යොමුකිරීම කල් නොදමන බවද විභාග දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.‍
+
+මෙවර උසස් පෙළ විභාගය ලබන නොවැම්බර් මස 25 වනදා සිට දෙසැම්බර් 20 වන දින දක්වා පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/a72dbf2f.json)
+
+---
 
 ### 1,700 ரூபாய் கேட்டு ​கொழும்பில் ஆர்ப்பாட்டம்
 
@@ -162,13 +182,11 @@ Meanwhile, President Ranil Wickremesinghe has approved the recommendation of Pre
 
 *2024-07-09 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100399/special-increments-and-commendation-certificates-for-non-striking-employees) · `en`
 
-The Cabinet of Ministers has approved President Ranil Wickremesinghe’s proposal to grant a special pay increment to non-executive government officials who reported for duty on July 8 and 9, 2024, the President’s Media Division (PMD) said.
+Non-executive government employees, who reported for duty on July 8 and 9, 2024, will be granted a special salary increment as a token of appreciation for their dedication during a challenging economic period. This increment was approved by the Cabinet following President Ranil Wickremesinghe’s proposal, the President’s Media Division (PMD) said.
 
-Meanwhile, approval has also been granted to issue them a commendation certificate for future promotions, according to the PMD.
+Accordingly, the Secretary of the Ministry of Public Administration, Home Affairs, Provincial Councils, and Local Government has been directed to inform all Ministry Secretaries, Department Heads, and Provincial Chief Secretaries and to issue the relevant circulars.
 
-Over 200 public sector trade unions affiliated with the State and Provincial Public Service Unions Collective launched a trade union action to report ‘sick leave’ yesterday (08) and today (09) demanding an allowance of Rs. 25,000 for all public sector employees, similar to that given for executive officers.
-
-Accordingly, government officials across several sectors did not show up for work yesterday leading to a significant disruption in the daily operations of these institutions including the Department of Registration of Persons and Immigration Department.
+Certain trade unions in non-executive services had planned actions such as sick leave and strikes on the mentioned dates. Despite previous economic instability, the government managed to stabilize the situation through extensive economic reforms implemented over the last two years, including the provision of a monthly allowance of Rs. 10,000 to all public servants.
 
 ...
 
@@ -2323,21 +2341,5 @@ Sri Lanka does not manufacture products which contain POPs or mercury. However, 
 [Data](articles/fbd62b94.json)
 
 [Extended Data](ext_articles/fbd62b94.ext.json)
-
----
-
-### Foreign Affairs Ministry clarifies on Sri Lanka’s continental shelf submissions
-
-*2024-07-09 04:54:26* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Affairs-Ministry-clarifies-on-Sri-Lanka-s-continental-shelf-submissions/56-764004) · `en`
-
-Foreign Affairs Ministry yesterday said Sri Lanka’s continental shelf submission to the United Nations Commission on the Limits of the Continental Shelf (UNCLCS) in New York as well as to matters related to the International Seabed Authority (ISBA) in Jamaica on exploration of the cobalt-rich crust in the “Afanasy Nikitin Seamount” are both under process before the two respective global bodies.
-
-Following several media reports relating to Sri Lanka’s continental shelf submission to the UNCLCS in New York as well as to matters related to the ISBA in Jamaica on exploration of the cobalt-rich crust in the “Afanasy Nikitin Seamount” the Foreign Affairs Ministry issued the following statement.
-
-...
-
-[Data](articles/790dc723.json)
-
-[Extended Data](ext_articles/790dc723.ext.json)
 
 ---

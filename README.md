@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 22:53:53**
+As of **2024-07-09 23:05:39**
 
 ## Newspaper Stats
 
-*Scraped **34,458** Articles*
+*Scraped **34,461** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ economynextcom | 2,028
 dailyftlk | 2,146
 adalk | 3,101
 adaderanalk | 3,958
-tamilmirrorlk | 4,098
+tamilmirrorlk | 4,100
 dailymirrorlk | 4,733
-virakesarilk | 5,388
+virakesarilk | 5,389
 adaderanasinhalalk | 5,738
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,457 (100.0%) of 34,458 articles have been extended.
+34,458 (100.0%) of 34,461 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### மீண்டும் துப்பாக்கிச் சூடு ; ஒருவர் மரணம்
+
+*2024-07-09 22:50:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-துப்பாக்கிச்-சூடு-ஒருவர்-மரணம்/175-340119) · `ta`
+
+கேல்ல, இறக்குவானை வீதியில் உள்ள கொலன்ன பகுதியில் இன்று (09) இரவு இடம்பெற்ற  துப்பாக்கிச் சூட்டில் நபர் ஒருவர் உயிரிழந்துள்ளார்.
+
+தேயிலைத் தோட்ட உரிமையாளரான 63 வயதுடைய நபரே துப்பாக்கிச் சூட்டுக்கு இலக்காகி உயிரிழந்துள்ளார்.
+
+மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத இருவரால்  இந்த துப்பாக்கிச் சூடு நடத்தப்பட்டுள்ளது. மேலதிக விசாரணைகள் பொலிஸாரால் முன்னெடுக்கப்பட்டு வருகின்றது. R
+
+◼️
+
+[Data](articles/3897831c.json)
+
+---
+
+### நள்ளிரவு முதல் பணிப்புறக்கணிப்பு - ரயில் சேவைகள் ரத்து
+
+*2024-07-09 22:37:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நள்ளிரவு-முதல்-பணிப்புறக்கணிப்பு-ரயில்-சேவைகள்-ரத்து/175-340118) · `ta`
+
+இன்று (09) நள்ளிரவு முதல் பணிப்புறக்கணிப்பு போராட்டத்தை ஆரம்பிக்க புகையிரத நிலைய அதிபர் சங்கம் தீர்மானித்துள்ளது.
+
+இதனை தொடர்ந்து கொழும்பு, கோட்டை மற்றும் பதுளைக்கு செல்லும் இரவு நேர அஞ்சல் புகையிரதங்கள், திருகோணமலை மற்றும் அங்கிருந்து மட்டக்களப்பில் இருந்து ரம்புக்கனைக்கு செல்லும் இரவு அஞ்சல் புகையிரதம் உட்பட பல ரயில்கள் இரத்து செய்யப்படுவதாக புகையிரத திணைக்களம் தெரிவித்துள்ளது.
+
+பதவி உயர்வு வழங்காமை உள்ளிட்ட 14 பிரச்சினைகளை முன்வைத்து நிலைய அதிபர் சங்கம் இன்று பிற்பகல் இந்த பணிப்புறக்கணிப்பை ஆரம்பித்திருந்தன.
+
+மேலும் நள்ளிரவு 12 மணிக்கு மேல் இயக்கப்படவிருந்த அனைத்து புகையிரதங்களும் ரத்து செய்யப்பட்டுள்ளதாக புகையிரத நிலைய அதிபர்கள் சங்கம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/38c98379.json)
+
+---
 
 ### Man shot dead in Kolonne
 
@@ -43,6 +77,8 @@ Police said that two unidentified gunmen who arrived on a motorcycle have opened
 ◼️
 
 [Data](articles/721d9b0a.json)
+
+[Extended Data](ext_articles/721d9b0a.ext.json)
 
 ---
 
@@ -65,6 +101,24 @@ The shooting was a 63 year old man who was murdered.
 [Data](articles/c3a74a80.json)
 
 [Extended Data](ext_articles/c3a74a80.ext.json)
+
+---
+
+### பணிக்கு சமூகமளிக்காத புகையிரத ஊழியர்களுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை; இ.போ.ச. பேருந்துகளில் புகையிரத பருவ சீட்டுகளை பயன்படுத்த அனுமதி - போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சு
+
+*2024-07-09 22:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188085) · `ta`
+
+நாட்டில் போக்குவரத்து சேவை அத்தியாவசிய சேவையாக பிரகடனப்படுத்தப்பட்டுள்ள நிலையில் திடீர் வேலை நிறுத்தத்தில் ஈடுபடுவது சட்ட விரோதமானதாகும் எனவே பணிக்கு சமூகமளிக்காத ஊழியர்களுக்கு எதிராக ஒழுங்காற்று நடவடிக்கை எடுக்கப்படும் என போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சின் செயலர் ரஞ்சித் ரூபசிங்க தெரிவித்துள்ளார்
+
+அண்மையில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் போக்குவரத்து சேவை அத்தியாவசிய சேவையாக  பிரகடனப்படுத்தப்பட்டு வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+
+இந்நிலையில் புகையிரத நிலைய அதிபர்கள் மற்றும் கட்டுப்பாட்டாளர்களால் திடீரென அழைப்பு விடுக்கப்பட்டுள்ள வேலை நிறுத்தம் சட்டவிரோதமானது என்றும் அமைச்சின் செயலாளர் சுட்டிக்காட்டினார்.
+
+இந்த திடீர் பணிப்பகிஷ்கரிப்பு காரணமாக செவ்வாய்க்கிழமை (09) பதுளை, திருகோணமலை மற்றும் மட்டக்களப்புக்கு இயக்கப்படவிருந்த இரவு அஞ்சல் புகையிரதங்கள் இரத்துச் செய்யப்பட்டுள்ளதாகவும், பாதிக்கப்பட்ட மக்களின் பயணத்தை இலகுபடுத்துவதற்காக இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாகவும் அவர் மேலும்  தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/f46b5e7f.json)
 
 ---
 
@@ -2331,69 +2385,5 @@ The arrested suspect has been produced before the Vavuniya Magistrate's Court an
 [Data](articles/a1e0a3a0.json)
 
 [Extended Data](ext_articles/a1e0a3a0.ext.json)
-
----
-
-### Baby dies in a water packed pit
-
-*2024-07-09 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/188002) · `ta`
-
-In Kalukahakandura, a 1-year-old fell into a nearby water-filled pit while his mother was at work. The child was found dead upon arrival at the hospital. Police suspect foul play and will conduct an autopsy.
-
-🟩
-
-A child for 1 year and 04 months in the Kalukahakandura area, Mahiyanganai, fell into a water -filled pit near the house on Monday (08), Madhulseem police said.
-
-During the incident, the child's mother handed over the baby to another child at home and went to work.
-
-Doctors said the baby had already died when the baby was taken to the hospital as the child fell into a water -filled pit near the house.
-
-According to the police, the child's death is suspicious and steps have been taken to send it to the Badulla Provincial Hospital for autopsy.
-
-◼️
-
-[Data](articles/fed1de0a.json)
-
-[Extended Data](ext_articles/fed1de0a.ext.json)
-
----
-
-### Govt. accused of gender bias in appointing Acting Attorney General
-
-*2024-07-09 10:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100387/govt-accused-of-gender-bias-in-appointing-acting-attorney-general-) · `en`
-
-Member of Parliament Rohini Kumari Kaviratne alleges that the government has appointed Senior Additional Solicitor General Parinda Ranasinghe as the Acting Attorney General, overlooking Senior Additional Solicitor General Ayesha Jinasena, despite her seniority and eligibility for the role, due to gender bias.
-
-Furthermore, Kaviratne criticized the government, pointing out that it has been two weeks since the ‘Women Empowerment Act’ was passed in Parliament. She added that while the government introduces various acts to present a progressive image to the international community, their actions in recognizing and promoting women in positions of power have fallen short.
-
-“I need to know on which basis that woman was overlooked and another person was appointed to act in the office”, she questioned in parliament.
-
-◼️
-
-[Data](articles/54cc09db.json)
-
-[Extended Data](ext_articles/54cc09db.ext.json)
-
----
-
-### Shanmugam Kukadasan Satyapramanam as a Member of Parliament
-
-*2024-07-09 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187999) · `ta`
-
-It seems like you've shared a detailed narrative about the life and contributions of Shanmugam Kukadasan, focusing on his roles in supporting Tamil refugees, promoting education, and advocating for Tamil rights both in India and Canada. However, you haven't specified a particular question or task related to this information. Could you please clarify what specific assistance you need? Whether it's analyzing the text, extracting certain details, or something else entirely, I'm here to help!
-
-🟩
-
-Shanmugam Kukadasan will be sworn in as the Trincomalee District Parliamentarian in the presence of the Speaker on Tuesday (09).
-
-Trincomalee District Parliamentarian. Shanmugam Kukadasan, who is in the second position on the basis of the preferential vote for the vacuum of Sambandan, has been appointed as a Member of Parliament.
-
-The Gazette Notification in this regard was issued on 02.07.2024. It is in this context that he will take oath in the presence of the Speaker during the parliamentary session today.
-
-...
-
-[Data](articles/65fbda52.json)
-
-[Extended Data](ext_articles/65fbda52.ext.json)
 
 ---

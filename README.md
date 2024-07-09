@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 22:20:06**
+As of **2024-07-09 22:35:31**
 
 ## Newspaper Stats
 
-*Scraped **34,454** Articles*
+*Scraped **34,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 islandlk | 1,936
 economynextcom | 2,028
 dailyftlk | 2,146
-adalk | 3,100
-adaderanalk | 3,956
+adalk | 3,101
+adaderanalk | 3,957
 tamilmirrorlk | 4,098
 dailymirrorlk | 4,733
 virakesarilk | 5,388
-adaderanasinhalalk | 5,737
+adaderanasinhalalk | 5,738
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,454 (100.0%) of 34,454 articles have been extended.
+34,454 (100.0%) of 34,457 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### තවත් වෙඩිතැබීමක්
+
+*2024-07-09 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198652) · `si`
+
+යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙකු අද (09) රාත්‍රියේ සිදුකළ වෙඩිතැබීමකින් පුද්ගලයෙකු ජීවිතක්ෂයට පත්වී තිබේ.
+
+මෙම වෙඩිතැබීම සිදුකර ඇත්තේ කෑල්ල රක්වාන පාරේ කොලොන්න ප්‍රදේශයේදී ය.
+
+වෙඩිතැබීමෙන් ඝාතනයට ලක්වී ඇත්තේ තේ වතු හිමියෙකු වන 63 හැවිරිදි පුද්ගලයෙකි.
+
+◼️
+
+[Data](articles/c3a74a80.json)
+
+---
+
+### Transport Ministry says railway strike illegal; assures disciplinary action
+
+*2024-07-09 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100405/transport-ministry-says-railway-strike-illegal-assures-disciplinary-action-) · `en`
+
+The Secretary of the Ministry of Transport Ranjith Rubasinghe emphasizes that since public transport including railway services have been declared as essential services, the strike to be launched by the Station Masters’ Union is illegal.
+
+Furthermore, he stated that strict disciplinary action will be taken against those are not reporting for duty.
+
+Rubasinghe also expressed that if any disruption occurs to the operation of office trains tomorrow (10) due to the strike situation, necessary steps have been taken to deploy more Sri Lanka Transport Board (SLTB) buses.
+
+He highlighted that free transportation will be provided for the passengers who have obtained train season tickets on SLTB buses accordingly.
+
+◼️
+
+[Data](articles/e33b2c9e.json)
+
+---
 
 ### Railway strike
 
@@ -295,6 +329,24 @@ Accordingly, about 99.5% of the pensioners will receive a pension allowance with
 [Data](articles/f008b520.json)
 
 [Extended Data](ext_articles/f008b520.ext.json)
+
+---
+
+### යළිත් වරක් ජනතාවගෙන් වරදක් සිදු වුවහොත් එය ආපසු හැරවිය නොහැකියි
+
+*2024-07-09 19:10:29* · [`adalk`](https://www.ada.lk/breaking_news/යළිත්-වරක්-ජනතාවගෙන්-වරදක්-සිදු-වුවහොත්-එය-ආපසු-හැරවිය-නොහැකියි/11-410702) · `si`
+
+මැතිවරණ ජයග්‍රහණය කිරීමට අපොහොසත් ඇතැම් පාර්ශ්ව වැඩවර්ජන ආරම්භ කරමින් රට අස්ථාවර කිරීමට කටයුතු කරමින් සිටින බව පාර්ලිමේන්තු මන්ත්‍රී වජිර අබේවර්ධන මහතා පැවසීය.
+
+බොරු පොරොන්දු ලබාදෙන කණ්ඩායම් කව්රුන් ද යන්න ජනතාව හඳුනාගත යුතු බවත් යළිත් වරක් ජනතාවගෙන් වරදක් සිදු වුවහොත් එය ආපසු හැරවිය නොහැකි බවත් ඒ මහතා අවධාරණය කළේය.
+
+පාර්ලිමේන්තු මන්ත්‍රී වජිර අබේවර්ධන මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (09) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ පාර්ලිමේන්තු මන්ත්‍රී වජිර අබේවර්ධන මහතා මෙසේද පැවසීය,
+
+...
+
+[Data](articles/e28955cb.json)
 
 ---
 
@@ -2341,69 +2393,5 @@ The suspect was produced before the Vavuniya Magistrate's Court on the 7th of Ju
 [Data](articles/f1490aa9.json)
 
 [Extended Data](ext_articles/f1490aa9.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 304.20/35 to US dollar
-
-*2024-07-09 10:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-304-20-35-to-us-dollar-171344/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened relatively stronger at 304.20/35 to the US dollar on Tuesday, while bond yields were broadly steady, and stocks opened 0.19 percent down, dealers said.
-
-A bond maturing on 15.12.2026 was quoted stable at 10.75/85 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.85/90 percent, up from 11.80/90 percent.
-
-A bond maturing on 15.09.2029 was quoted at 12.00/05 percent, up from 11.98/12.08 percent.
-
-In equities, Colombo’s All Share Price Index opened 22.98 points lower at 11,818, while the S&P SL20 of more liquid stocks opened down at 0.35 percent or 12.19 points to 3,457.
-
-◼️
-
-[Data](articles/35f4a329.json)
-
-[Extended Data](ext_articles/35f4a329.ext.json)
-
----
-
-### The new Member of Parliament
-
-*2024-07-09 09:54:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பாராளுமன்ற-உறுப்பினர்-சத்தியப்பிரமாணம்/175-340073) · `ta`
-
-Shanmugam Kukadasan was sworn in as a Member of Parliament for Trincomalee District on September 9th, in front of the Speaker.
-
-🟩
-
-Shanmugam Kukadasan as a Member of Parliament for Trincomalee District today (09) in the presence of the Speaker.
-
-◼️
-
-[Data](articles/acb9abf0.json)
-
-[Extended Data](ext_articles/acb9abf0.ext.json)
-
----
-
-### Floods kill six rhinos in India national park
-
-*2024-07-09 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100386/floods-kill-six-rhinos-in-india-national-park) · `en`
-
-More than 130 wild animals, including at least six rare rhinos, have died in flooding at a national park in north-eastern India, officials say.
-
-The Kaziranga National Park in Assam is experiencing its worst deluge in recent years.
-
-The dead animals - many of whom died by drowning - include 117 hog deer, two sambar deer, a rhesus macaque and an otter.
-
-In 2017, more than 350 animals died due to floods in the park and vehicle collisions during migration through animal corridors to the highlands.
-
-Officials say they have rescued 97 animals from flood waters - 25 of them are receiving medical care while 52 others have been released after treatment.
-
-Kaziranga is home to the world’s largest population of one-horned rhinos, which were nearly extinct at the turn of the century. It’s a Unesco World Heritage site, with over 2,400 one-horned rhinos.
-
-...
-
-[Data](articles/04915709.json)
-
-[Extended Data](ext_articles/04915709.ext.json)
 
 ---

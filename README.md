@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 14:35:13**
+As of **2024-07-09 14:56:32**
 
 ## Newspaper Stats
 
-*Scraped **34,391** Articles*
+*Scraped **34,393** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,936
 economynextcom | 2,028
 dailyftlk | 2,146
-adalk | 3,087
-adaderanalk | 3,946
+adalk | 3,088
+adaderanalk | 3,947
 tamilmirrorlk | 4,090
 dailymirrorlk | 4,733
 virakesarilk | 5,371
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,723
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,383 (100.0%) of 34,391 articles have been extended.
+34,391 (100.0%) of 34,393 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### “Aswesuma” second phase information census to begin next week
+
+*2024-07-09 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100395/-aswesuma-second-phase-information-census-to-begin-next-week) · `en`
+
+The Welfare Benefits Board has informed that the information census of the second phase of the “Aswesuma” welfare benefit program implemented as per the instructions of President Ranil Wickremesinghe will be conducted from July 15 to 30.
+
+In addition to the more than 1.8 million people who qualified in the first phase, another 450,924 applications have been received for the second phase and among them the identification of those who are eligible for the payment of welfare benefits is to be completed within this month, the President’s Media Division (PMD) said.
+
+A total of 1,854,000 individuals have qualified for the first phase of the “Aswesuma” program, with the government allocating Rs.58.5 billion for this phase. The Welfare Benefits Board has provided an opportunity for those who missed or could not apply during the first stage to reapply.
+
+...
+
+[Data](articles/d93d9d48.json)
+
+---
 
 ### Saudi Arabia to grant citizenship to global experts
 
@@ -45,6 +61,8 @@ The move is a significant change in direction for a country whose economy relies
 ...
 
 [Data](articles/6022ed27.json)
+
+[Extended Data](ext_articles/6022ed27.ext.json)
 
 ---
 
@@ -63,6 +81,8 @@ The letter said that the government had decided on June 2 to enter the ‘Treaty
 ...
 
 [Data](articles/3f1c7fa8.json)
+
+[Extended Data](ext_articles/3f1c7fa8.ext.json)
 
 ---
 
@@ -86,25 +106,31 @@ Three persons, including singer K. Sujeeva, have been admitted to hospital with 
 
 ---
 
-### බුද්ධ දේශනාව සහ විද්‍යාත්මක ලෝකය අතර සම්බන්ධතාව සොයා බැලීමට නව ආයතනයක්
+### A new institution to look into the relationship between the Buddha's Sermon and Scientific World
 
 *2024-07-09 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198636) · `si`
 
-අද ලෝකය ඉදිරිපත්කරන අලුත් මත බුද්ධ දේශනාව තුළ අන්තර්ගත වී තිබෙනවා. අද අප සිටින්නේ විද්‍යාව සහ ධර්මය යන දෙකම එකට මුණ ගැසෙන සංධිස්ථානයකයි.
+President Ranil Wickremesinghe plans to establish a new institution within a year to explore the connection between the Buddha's teachings and modern science, particularly artificial intelligence. This initiative comes amid global interest in AI and environmental concerns, highlighting the relevance of Buddhist principles in addressing contemporary challenges.
 
-බුද්ධ දේශනාව සහ විද්‍යාත්මක ලෝකය අතර තිබෙන සම්බන්ධතාව සොයා බැලීමට නව ආයතනයක් වසරක් තුළ පිහිටුවීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+🟩
 
-අමරපුර දින ආදිකර්තෘ සැමරුම් උත්සවයට ඊයේ (08) එක්වෙමින් ජනාධිපතිවරයා එම අදහස් පළකළේය.
+The Buddha's sermon is included in the newness of the world today. Today, we are in a milestone that science and Dhamma.
 
-ශ්‍රී ලංකා අමරපුර මහා නිකායේ අමරපුර දින ආදිකර්තෘ සැමරුම් උත්සවය සබරගමු පළාත් සභා ශ්‍රවණාගාරයේදී ඊයේ පැවැත්වුණි.
+President Ranil Wickremesinghe says he will establish a new institution within a year to look into the relationship between the Buddha's Sermon and Scientific World.
 
-වසර 222ක් පුරා සම්බුද්ධ ශාසනය වෙනුවෙන් සුවිශාල මෙහෙවරක් සිදුකළ සියලුම ආදිකර්තෘ වහන්සේ සිහිකරමින් අමරපුර දිනය සමරනු ලබයි.
+The President made these comments participating at the Amarapura Day Daily Commemoration yesterday (08).
 
-"අද අප සිටින්නේ විද්‍යාත්මක හා තාක්ෂණික ලෝකයකයි. සිතාගත නොහැකි අන්දමින් අද ලෝකය වෙනස් වී තිබෙනවා. විශේෂයෙන්ම මුළු ලෝකයම කෘතිම බුද්ධිය පිළිබඳ අවධානය යොමු කර තිබෙන අවස්ථාවක අපත් ඒ පිළිබඳ අවධානය යොමු කළ යුතුයි. තවත් වසර 05-10ක් යන විට කෘතීම බුද්ධි තාක්ෂණය සහ මනස අතර තිබෙන සම්බන්ධය පිළිබඳ අපට පුළුල් අවධානයක් යොමු කිරීමට සිදුවෙනවා.
+The Amarapura Maha Nikaya at Amarapura Maha Nikaya held yesterday at the Sabaragamuwa Provincial Council Auditorium yesterday.
+
+Amarapura day celebrates all the adoptresses that made all the modes of the Sambuddha Sasana for 222 years.
+
+"Today we are in a scientific and technology world. The world has changed in today's unimaginableness. Especially when the entire world is focusing on artificial intelligence, we should focus on it. Another 5-10 years we have to pay close attention to the relationship between artificial intelligence technology and mind.
 
 ...
 
 [Data](articles/3a75c8f4.json)
+
+[Extended Data](ext_articles/3a75c8f4.ext.json)
 
 ---
 
@@ -183,6 +209,8 @@ Rohanadeera has said at a discussion at the meeting that Secretariat of the Parl
 ...
 
 [Data](articles/4445cb88.json)
+
+[Extended Data](ext_articles/4445cb88.ext.json)
 
 ---
 
@@ -386,6 +414,24 @@ A statement from parliament said MP Kugathasan completed his higher education fr
 
 [Data](articles/4e17ec70.json)
 
+[Extended Data](ext_articles/4e17ec70.ext.json)
+
+---
+
+### විදුලි ගාස්තු සංශෝධනය ගැන ජනතා අදහස් පව 4.30ක් ගනියි
+
+*2024-07-09 12:28:51* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝධනය-ගැන-ජනතා-අදහස්-පව-4-30ක්-ගනියි/11-410689) · `si`
+
+මේ වර්ෂයට අදාළ දෙවැනි විදුලි ගාස්තු සංශෝධනය  සඳහා මහජන අදහස් විමසීම අද(09දා) සිදුකරන බව මහජන උපයෝගිතා කොමිසම සඳහන් කරයි.
+
+මේ අනුව  මහජන උපදේශනයේ වාචික අදහස් ලබාගැනීම අද  පෙරවරු 8.30 සිට පස්වරු 4.30 දක්වා බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත‍්‍රණ ශාලාවේ දී සිදුවේ.
+
+මහජන අදහස් විමසීම අවසන් වූ පසු, කොමිෂන් සභාව මේ මස  15 වැනි දින විදුලි ගාස්තු සංශෝධනය පිළිබඳ අවසාන තීරණය ප‍්‍රකාශයට පත් කිරිමට සැලසුම් කර තිබේ.
+
+◼️
+
+[Data](articles/fa402096.json)
+
 ---
 
 ### If suspicion can appeal to: Court
@@ -485,6 +531,8 @@ In 2024, after taxing the public to high levels, a 10,000 rupee salary hike was 
 ...
 
 [Data](articles/6c1f0f83.json)
+
+[Extended Data](ext_articles/6c1f0f83.ext.json)
 
 ---
 
@@ -684,6 +732,8 @@ Sri Lanka’s teacher service charter specifies that recruits have to sit for a 
 
 [Data](articles/8ad7eba1.json)
 
+[Extended Data](ext_articles/8ad7eba1.ext.json)
+
 ---
 
 ### Public sector employees including teachers and postal workers report ‘sick’
@@ -859,6 +909,8 @@ In equities, Colombo’s All Share Price Index opened 22.98 points lower at 11,8
 ◼️
 
 [Data](articles/35f4a329.json)
+
+[Extended Data](ext_articles/35f4a329.ext.json)
 
 ---
 
@@ -2261,55 +2313,5 @@ AIA Insurance shone at the recently held 4A’s Advertising with a remarkable fi
 [Data](articles/da3300f4.json)
 
 [Extended Data](ext_articles/da3300f4.ext.json)
-
----
-
-### Selling pressure in share market following court ruling on presidential poll
-
-*2024-07-08 22:38:00* · [`islandlk`](http://island.lk/selling-pressure-in-share-market-following-court-ruling-on-presidential-poll/) · `en`
-
-The stock market kicked off on a positive note yesterday but later witnessed significant selling pressure due to the petition filed in the Supreme Court seeking to prevent the calling of a presidential poll being dismissed by the apex court.
-
-The court determination negatively affected the market’s trading activities and compelled the market to go further down, especially in both indices. The All Share Price Index went down by 105.5 points while S and P SL20 declined by 24.2 points. Turnover stood at Rs 657 million with two crossings. The crossings were reported in Hemas Holdings, which crossed 1.5 million shares to the tune of Rs 122.3 million and its shares traded at Rs 81.50 and Sampath Bank 600,000 shares crossed for Rs 46.8 million; its shares traded at Rs 78.
-
-...
-
-[Data](articles/c5738f91.json)
-
-[Extended Data](ext_articles/c5738f91.ext.json)
-
----
-
-### Wannu and Buddhist Penalty Based on LPL Disciplinary Rule
-
-*2024-07-08 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198615) · `si`
-
-LPL organizers fined Candy Falcons' captain and Colombo Strokings' leader for disciplinary issues, with penalties ranging from 20% to 25% of their matches. They've also enforced stricter rules regarding player attire and equipment, banning slippers in the stadium. This comes amid efforts to maintain high standards of conduct in the Lanka Premier League, valued at approximately USD 36 million.
-
-🟩
-
-The LPLs organizers have taken steps to fines in the captain of the Candy Falcation team, leader of Candy Falcons and Colombo Strokers.
-
-Accordingly, the forest fiferly, a fine of 25 percent of the matches and milk was fined 20 percent.
-
-The LPL organizers work to pay close attention to the discipline of the players who join the Lanka Premier League.
-
-Accordingly, the sportsmen and sports equipment have been taken to pay close attention to players' clothing and sports equipment.
-
-It is in charge of violating the clothes and sports equipment regulations.
-
-Sri Lanka Rupee value is US $ 3600 million.
-
-The fast bowler was fast bowler to Bormboelor's fast bowler.
-
-It was due to the match with Candy Falcons with the 2 July 2.
-
-LPL organizers have also banned the slippers of players in the stadium until the end of the competition.
-
-◼️
-
-[Data](articles/48e0f968.json)
-
-[Extended Data](ext_articles/48e0f968.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 17:19:46**
+As of **2024-07-09 17:35:30**
 
 ## Newspaper Stats
 
@@ -26,45 +26,57 @@ adaderanasinhalalk | 5,729
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,413 (100.0%) of 34,415 articles have been extended.
+34,415 (100.0%) of 34,415 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### ක්ලබ් වසන්තගේ බිරිඳ සතුව තිබූ ගිනිඅවිය ගැනත් තොරතුරු
+### Information about the firearms of Club Wasantha's wife
 
 *2024-07-09 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198643) · `si`
 
-අතුරුගිරිය වෙඩි තැබීමේදී වෙඩිවැදී රෝහල්ගත කෙරුණු ක්ලබ් වසන්තගේ බිරිඳ සන්තකයේ තිබුණු ගිනිඅවිය නීත්‍යානුකූල නොවන ගිනිඅවියක් බව අනාවරණය වී තිබේ.
+Club Wasantha's wife, hospitalized in Athurugiriya, was found with an illegal firearm. The IGP announced this during the Children's and Women's Bureau's new building opening. Defense Minister Tiran Alles assured that criminals would be apprehended soon, including those operating from abroad.
 
-මිරිහාන පොලිසි ස්ථානයේ ඉදි කෙරුණු ළමා හා කාන්තා කාර්යාංශයේ නව ගොඩනැගිල්ල විවෘත කිරීමේ අවස්ථාවට එක්වෙමින් පොලිස්පතිවරයා මේ බව සඳහන් කළේය.
+🟩
 
-එහිදී ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතාද කියා සිටියේ අපරාධකරුවන්ට සැඟවී සිටීමට නොහැකි බවත් කඩිනමින් අපරාධකරුවන් අත්අඩංගුවට ගන්නා බවය.
+The wife of Club Wasantha, who was admitted to Athurugiriya, was revealed that a non-legitimate firearm.
 
-එමෙන්ම මෙම අපරාධයද විදේශ රටක සිට මෙහෙයවා ඇති බවත් මෙලෙස වෙඩිතැබීමක් සිදුවූයේ මාස දෙකහමාරකට පසු බව ඔහු කියා සිටියේය.
+The IGP was speaking at the opening ceremony of the new building of the Children's and Women's Bureau.
+
+The Defense Minister Tiran Alles also stated that the criminals cannot be hidden and the criminals will be arrested soon.
+
+He also said that the crime was also led from a foreign country and had been shooting, he said.
 
 ◼️
 
 [Data](articles/3d622db0.json)
 
+[Extended Data](ext_articles/3d622db0.ext.json)
+
 ---
 
-### சனி. ஞாயிறு மாத்திரம் வஞ்சம் தீர்க்கும் பாம்பு
+### Saturn. Paid
 
 *2024-07-09 16:53:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனி-ஞாயிறு-மாத்திரம்-வஞ்சம்-தீர்க்கும்-பாம்பு/175-340099) · `ta`
 
-பாம்புகள் வஞ்சம் வைத்து கடிக்கும் என்பது வாய்மொழிக் கதையாக மக்கள் மத்தியில் பரவலாக பேசப்படும் ஒன்று.  ஆனால் கதைகளேயே மிஞ்சும் வகையில் இந்தியாவின் உத்தரப் பிரதேச மாநிலம் பதேபூர் மாவட்டத்தில் சம்பவமொன்று நிகழ்ந்துள்ளது.
+In a rare case from Uttar Pradesh, India, Vikas Dubey, aged 24, was bitten by snakes six times within 35 days, starting from June 2. Despite being hospitalized each time, including once when staying at a relative's house, the incidents continued. The pattern emerged: Vikas was bitten on Saturdays and Sundays, leading him to believe he might be attracting them. This unusual series of events has garnered significant attention.
 
-சவுரா கிராமத்தைச் சேர்ந்த விகாஸ் தூபே (வயது 24). கடந்த 35 நாட்களில் மட்டுமே இவர் 6 முறை விஷப் பாம்புகளிடம் இருந்து கடி வாங்கியுள்ளார்.
+🟩
 
-கடந்த ஜூன் 2 -ஆம் திகதி விகாஸ் தூபே அவர் வீட்டில் கட்டிலில் படுத்திருந்தபோது முதல் தடவை பாம்பு கடித்துள்ளது. உடனே வைத்திசாலைக்குகொண்டு செல்லப்பட்ட அவர் சிகிச்சைக்குப் பின் உயிர்பிழைத்தார்.
+It is widely talked about among the people as a verbal story that snakes are bite.But there was an incident in Badebur district of Uttar Pradesh, India.
 
-இவ்வாறாக ஜூன் 2 முதல் ஜூலை 7 வரையிலான காலக்கட்டத்தில் 6 முறை விகாஸ் தூபேவை பாம்புகள் கடித்துள்ளன. வீட்டில் இருந்தால் பாம்பு கடிக்கிறது என்று அவரை உறவினர் வீட்டுக்கு அனுப்பி வைத்துள்ளனர் பெற்றோர். ஆனால் உறவினர் வீட்டில் வைத்தும் அவரை 5 வது முறையாக பாம்பு கடித்துள்ளது.
+Vikas Dubey (age 24) from Saura village. In the last 35 days, he has bite from poisonous snakes 6 times.
+
+The snake was bitten for the first time while Vikas Dubay was lying on the couch on June 2. He was immediately taken to the hospital and survived after treatment.
+
+Thus, from June 2 to July 7, the snakes have been bitten by Vikas Dubey six times. Parents have sent him to a relative's house that the snake bites if he is at home. But for the 5th time the snake bites him at the relative's house.
 
 ...
 
 [Data](articles/31468996.json)
+
+[Extended Data](ext_articles/31468996.ext.json)
 
 ---
 

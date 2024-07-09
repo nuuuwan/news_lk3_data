@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 04:19:43**
+As of **2024-07-10 04:35:16**
 
 ## Newspaper Stats
 
-*Scraped **34,472** Articles*
+*Scraped **34,476** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,88 @@ adalk | 3,101
 adaderanalk | 3,958
 tamilmirrorlk | 4,100
 dailymirrorlk | 4,733
-virakesarilk | 5,392
+virakesarilk | 5,396
 adaderanasinhalalk | 5,738
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,472 (100.0%) of 34,472 articles have been extended.
+34,472 (100.0%) of 34,476 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### வடக்கு,கிழக்கு வேலையில்லா பட்டதாரிகள் அரசாங்கத்தின் நிலைப்பாடு என்ன? - சஜித் பிரேமதாச கேள்வி
+
+*2024-07-10 02:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/188092) · `ta`
+
+வடக்கு மற்றும் கிழக்கு மாகாணங்களில்  வேலையில்லா பட்டதாரிகள் தொடர்பில் அரசாங்கம் என்ன நிலைப்பாட்டில் உள்ளது  என்பதனை அறிவிக்க வேண்டும் என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச சபையில் வலியுறுத்தினார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (9) இடம்பெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றும் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+வடக்கு  மற்றும் கிழக்கு மாகாணங்களுக்கு அண்மையில் விஜயம் செய்திருந்தேன். அங்கே வடக்கு மாகாணத்திலும் கிழக்கில் மட்டக்களப்பு மாவட்டத்திலும் வேலையில்லா பட்டதாரிகள் தங்களின் பிரச்சினைகளை  முன்வைத்தனர். அவர்கள் ஆர்ப்பாட்டங்களை நடத்தி வருவதுடன்  கோரிக்கைகளையும் முன்வைத்துள்ளனர்.
+
+இந்த வேலையில்லாப் பட்டதாரிகள் தொடர்பில் அரசாங்கத்தின் பதில் என்ன? அவர்கள் தொடர்பான வேலைத்திட்டம் என்ன? அரசாங்கத்தின் கொள்கை என்ன? அவர்களுக்கு நியமனங்கள் வழங்கப்படுமா? அரசாங்கத்தின் பல்வேறு துறைகளில் நிலவும் வெற்றிடங்களுக்கு ஏன் எங்களை நியமிக்க முடியவில்லை என்று கேட்கின்றனர். அவர்களின் கோரிக்கை அறிக்கையை சபையில் முன்வைக்கின்றேன்.
+
+...
+
+[Data](articles/d52d84ea.json)
+
+---
+
+### நீதிச்சேவை கட்டமைப்பு பாரிய நெருக்கடிக்குள் - நீதியமைச்சர்
+
+*2024-07-10 02:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/188091) · `ta`
+
+ஒரு சில நீதிபதிகளின் முறையற்ற செயற்பாடுகளினால் கௌரவமாக செயற்படும் பெரும்பாலான நீதிபதிகளின் புகழுக்கும் இழுக்கு ஏற்பட்டுள்ளது. நீதிச்சேவை கட்டமைப்பு பாரிய நெருக்கடிகளை எதிர்க்கொண்டுள்ளன. சபையில் நான் ஆற்றிய உரை தொடர்பில்  ஊடக அறிக்கை வெளியிட்ட இரு நீதிபதிகளை தேவையாயின் பாராளுமன்ற சிறப்புரிமைகள் மற்றும் ஒழுக்கவியல் குழுவுக்கு அழையுங்கள் என  நீதி,சிறைச்சாலைகள் அலுவல்கள்  மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜயதாஸ ராஜபக்ஷ சபாநாயகரிடம் வலியுறுத்தினார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (9) இடம்பெற்ற அமர்வின் போது சிறப்புரிமை  மீறல் பிரச்சினையை  முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+நீதிச்சேவை கட்டமைப்பு குறித்து  நான் ஆற்றிய உரை தற்போது பிரதான பேசுபொருளாக காணப்படுகிறது. எனது சிறப்புரிமை மீறப்பட்டுள்ளது என்பதை குறிப்பிட்டிருந்தேன்.நான் கேள்விகளை முன்வைப்பதற்கு முன்னர் நீதிச்சேவை ஆணைக்குழு அதற்கு பதிலளித்துள்ளதற்கு மகிழ்ச்சியடைகிறேன்.
+
+...
+
+[Data](articles/8ba1778c.json)
+
+---
+
+### பெருந்தோட்டங்களை  கிராமங்களாக அடையாளப்படுத்தி வர்த்தமானி வெளியிடப்படும் - ஜீவன் தொண்டமான்
+
+*2024-07-10 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188090) · `ta`
+
+பெருந்தோட்ட கம்பனிகளின் கட்டுப்பாட்டில் மக்கள் வாழும் இடங்களை கிராமங்களாக அடையாளப்படுத்தி வர்த்தமானி அறவித்தலை வெளியிட ஜனாதிபதி முன்வைத்த யோசனைக்கு அமைச்சரவை அங்கிகாரம் வழங்கியுள்ளது. தோட்ட பகுதிகளை கிராமமாக அறிவித்து காணி உரிமையை பெற்றுக் கொடுப்போம்.பெருந்தோட்ட மக்களின் பிரச்சினைகளுக்கு தீர்வு காண மலையக மக்கள் பிரதிநிதிகள் அனைவரும் ஒன்றிணைந்து செயற்பட வேண்டும். ஜனாதியாக கனவு காணும்  தம்மிக்க பெரேரா 1700 ரூபா சம்பள அதிகரிப்புக்கு எதிர்ப்பு தெரிவிக்கிறார் என  நீர் வழங்கல் மற்றும் பெருந் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி  அமைச்சர்  ஜீவன் தொண்டமான் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (9) இடம்பெற்ற இலங்கை தொலைத்தொடர்பு (திருத்தச்)சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+சபைக்கும்,நாட்டு மக்களுக்கும் ஒருசில விடயங்களை தெளிவுப்படுத்த வேண்டும். 1700 ரூபா சம்பள விவகாரம் எந்நிலையில் உள்ளது. என்பதை அனைவரும் நன்கு அறிவார்கள்.இந்த சம்பள அதிகரிப்பு கிடைக்காது,அரசாங்கம் நாடகம் ஆடுகிறது என்று  ஒரு சிலர் மக்களை தூண்டிவிடுகிறார்கள்.
+
+...
+
+[Data](articles/b2eba3e4.json)
+
+---
+
+### விஜயகாந்துக்கு மரியாதை செலுத்தினார் நெப்போலியன்!
+
+*2024-07-10 02:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/188089) · `ta`
+
+மறைந்த தேமுதிக தலைவர் விஜயகாந்த் வீட்டுக்கு தனது குடும்பத்துடன் சென்ற நடிகர் நெப்போலியன், அவருடைய உருவப்படத்திற்கு மலர்தூவி மரியாதை செலுத்தினார் இதுகுறித்த வீடியோ வைரலாகி வருகிறது.
+
+நடிகரும், தேமுதிக தலைவருமான விஜயகாந்த் கடந்த டிசம்பர் 28ம் தேதி உடல்நலக் குறைவால் காலமானார். அவருடைய உடலுக்கு பல்வேறு அரசியல் கட்சித் தலைவர்கள், திரையுலக பிரபலங்கள் நேரில் சென்று அஞ்சலி செலுத்தினர்.
+
+அதன்பின்னர் அவருடைய உடல், உடல் சென்னை கோயம்பேட்டில் உள்ள தேமுதிக தலைமை அலுவலகத்தில் அடக்கம் செய்யப்பட்டது. இன்று வரை ஏராளமானோர் அங்கு சென்று அஞ்சலி செலுத்தி வருகின்றனர்.
+
+இந்நிலையில், விஜயகாந்த் இறந்தபோது வர முடியாத சூழ்நிலையில் அமெரிக்காவில் இருந்த நடிகரும், விஜயகாந்தின் நண்பருமான நெப்போலியன் தற்போது இந்தியா வந்துள்ளார்.
+
+இதையடுத்து, சென்னை சாலிகிராமத்தில் உள்ள விஜயகாந்த் வீட்டுக்கு நடிகர் நெப்போலியன் தனது மனைவியுடன் இன்று (ஜூலை 9) சென்றார். அங்கு, விஜயகாந்த் உருவப்படத்திற்கு மாலை அணிவித்து மலர் தூவி மரியாதை செலுத்தினார்.
+
+...
+
+[Data](articles/c8d258a5.json)
+
+---
 
 ### Dambulla Sixers eventually won the stunned Dambulla Sixers
 
@@ -2289,105 +2359,5 @@ Magistrate Kosala Senadheera added that the Kompanideru police have already repo
 [Data](articles/1a57f7f5.json)
 
 [Extended Data](ext_articles/1a57f7f5.ext.json)
-
----
-
-### Appeal if suspicion: Court
-
-*2024-07-09 12:25:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/சந்தேகம்-என்றால்-முறையிடலாம்-நீதிமன்றம்/95-340085) · `ta`
-
-In a case involving the suspicious death of a student from the 67th floor of the Aldeyar Apartments in Kompanideru, Fort Magistrate Kosala Senadheera advised lodging a police complaint. The attorney-at-law, Asanga, suggested preparing a person to report the incident. The magistrate noted the lack of suspicion regarding the deaths of two students but directed the police to investigate further after receiving a report. The Kompanideru police were asked to obtain phone records related to the incident. The deceased and another student visited a Pakistani friend in the apartment, complicating the investigation due to diplomatic privileges.
-
-🟩
-
-Fort Magistrate Kosala Senadheera has advised the police to lodge a complaint with the police if there is suspicion of the student's death in the Aldeyar Apartments in Kompanideru.
-
-Attorney -at -law, who was present in court, advised Asanga ready to lodge a person and get permission for the incident.
-
-Attorney -at -Law Asanga Fort Magistrate on Monday (08) has requested that the student's father has said that the student's death is suspicious of the student's death from the 67th floor of the Altaiyar apartment.
-
-Fort Magistrate Kosala Senadheera said that the death of the two students could not be made of suspicion and the police should file a charge sheet that the death was suspicious.
-
-Magistrate Kosala Senadheera added that the Kompanideru police have already reported the facts through the report and lodged a complaint with the police.
-
-...
-
-[Data](articles/983a927c.json)
-
-[Extended Data](ext_articles/983a927c.ext.json)
-
----
-
-### If suspicious can be personally appealing: Court
-
-*2024-07-09 12:25:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/சந்தேகம்-என்றால்-தனிப்பட்ட-ரீதியில்-முறையிடலாம்-நீதிமன்றம்/95-340085) · `ta`
-
-In a case involving the suspicious deaths of two students from the Altaiyaru Apartments in Kompanideru, Fort Magistrate Kosala Senadheera advised lodging a police complaint due to suspicions. The attorney-at-law, Asanga, suggested preparing a personal complaint, but the magistrate insisted on a formal charge sheet citing the need for further investigation. The Kompanideru police have already filed a report and requested call data records from telecom companies. The deceased students were meeting a Pakistani friend when they fell from the 67th floor, complicating investigations due to diplomatic privileges.
-
-🟩
-
-Fort Magistrate Kosala Senadheera has advised the police to lodge a complaint with the police if there is suspicion of the student's death in the Altaiyaru Apartments Series in Kompanideru.
-
-Attorney -at -law, who was present in court, advised Asanga ready to lodge a person and get permission for the incident.
-
-Attorney -at -Law Asanga, Magistrate on Monday (08), has appealed to the Fort of Attorney to grant permission to make a personal complaint, as the student's father has said that the death of the student and the student who fell off the 67th floor of the Aldear apartment.
-
-Fort Magistrate Kosala Senadheera said that the death of the two students could not be made of suspicion and the police should file a charge sheet that the death was suspicious.
-
-Magistrate Kosala Senadheera added that the Kompanideru police have already reported the facts through the report and lodged a complaint with the police.
-
-...
-
-[Data](articles/ccd74bbe.json)
-
-[Extended Data](ext_articles/ccd74bbe.ext.json)
-
----
-
-### Sri Lanka teacher salary hike, graduates drive up wage bill in 2023 as other sectors fall
-
-*2024-07-09 12:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-teacher-salary-hike-graduates-drive-up-wage-bill-in-2023-as-other-sectors-fall-171397/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s government salary bill fell to 939 billion rupees in 2023 from 956 billion amid a hiring and wage freeze but provincial council salary costs went up due to teachers and graduates, official data showed.
-
-The central government salary bill fell to 327.29 billion rupees in 2023 down from 367.4 billion rupees in 2022, as retirees were not replaced and wages were frozen.
-
-But the transfers for wages of provincial councils went up 10 percent to 300.2 billion rupees, from 268.8 billion rupees.
-
-“This increase was mainly due to the impact of salary increase given to the Teachers in 2022 and the salaries of the graduates attached to Provincial Councils which were borne by the Provincial Councils Budget in 2023,” the 2023 Final budget report said.
-
-The teacher salary increment in a 2022 budget after teachers  was paid in stages in 2022 and 2023.
-
-In 2024, after taxing the public to high levels, a 10,000 rupee salary hike was given to all state workers.
-
-...
-
-[Data](articles/6c1f0f83.json)
-
-[Extended Data](ext_articles/6c1f0f83.ext.json)
-
----
-
-### Another knot to be gained election reveals
-
-*2024-07-09 12:19:15* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දෙ-කල්දාන්න-ගහන්න-හදන-තවත්-ගැටයක්-උදය-හෙළි-කරයි/11-410688) · `si`
-
-JHU Gammanpila's leader alleges a conspiracy to delay the Presidential election by moving the printing press post-election. The move aims to disrupt the electoral process, as seen in previous elections where funds allocated for voting were misused. A committee was formed to address this issue, but its findings suggest further complications, including potential strikes and the relocation of the press, raising concerns about the integrity of future elections.
-
-🟩
-
-Leader of the Leader of the Leader of the JHU Gammanpila alleges that conspiracy to postpone the Presidential printing near the presidential election. He said that the printing press was proposed to be taken to another and proposes to cut the printing press after the presidential election.
-
-He was speaking at a media briefing of the JHU yesterday (8th).
-
-"The government printing request is to print the ballot papers to postpone the last provincial election. In the last few elections, the printing commission was paid to the Elections to pay for the election. ElectionsThe Commission asked the Treasury when he asked the Treasury. So the little vote was disappeared.
-
-We were able to disappear the presidential election.The cabinet appointed a committee to formulate an incentive procedure to the Printing Department officials.The report was submitted to the Cabinet by the Prime Minister recently.
-
-...
-
-[Data](articles/82b51a84.json)
-
-[Extended Data](ext_articles/82b51a84.ext.json)
 
 ---

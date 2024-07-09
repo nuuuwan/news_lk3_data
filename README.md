@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 08:35:33**
+As of **2024-07-09 08:54:21**
 
 ## Newspaper Stats
 
-*Scraped **34,330** Articles*
+*Scraped **34,333** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,079
 adaderanalk | 3,932
 tamilmirrorlk | 4,079
 dailymirrorlk | 4,733
-virakesarilk | 5,364
-adaderanasinhalalk | 5,708
+virakesarilk | 5,365
+adaderanasinhalalk | 5,710
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,324 (100.0%) of 34,330 articles have been extended.
+34,328 (100.0%) of 34,333 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,46 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/5745d39b.json)
 
 [Extended Data](ext_articles/5745d39b.ext.json)
+
+---
+
+### රාජ්‍ය සේවයේ වෘත්තීය සමිති දෙවන දිනටත් ලෙඩ වෙයි - ගුරුවරුන්ටත් බෝවෙයි
+
+*2024-07-09 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198621) · `si`
+
+රුපියල් 25,000ක දීමනාවක් ලබාදෙන ලෙස ඉල්ලා රාජ්‍ය සේවයේ වෘත්තීය සංගම් 200ක් පමණ ආරම්භ කර ඇති වෘත්තීය සමිති ක්‍රියාමාර්ගය අද (09) දිනයේ ත් ක්‍රියාත්මක කිරීමට නියමිතව තිබේ.
+
+විධායක ශ්‍රේණියේ නිලධාරීන්ට ලබාදුන් රුපියල් 25,000 දීමනාව අනෙක් සියලු සේවකයින්ට ද ලබාදෙන ලෙස ඉල්ලමින් රාජ්‍ය හා පළාත් රාජ්‍ය සේවා වෘත්තීය සමිති එකතුව විසින් ඊයේ (08) සහ අද අසනීප නිවාඩු වාර්තා කරමින් වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරත වීමට තීරණය කරනු ලැබීය.
+
+ඒ අනුව ඊයේ දිනයේ දී දිවයිනේ බොහෝ රාජ්‍ය ආයතනවල සේවකයින් සේවයට වාර්තා නොකර සිටි අතර රාජ්‍ය ආයතන රැසක දෛනික කටයුතුවලට එයින් දැඩි බාධා එල්ල වී තිබුණි.
+
+සිය ඉල්ලීමට බලධාරීන් මෙතක් යහපත් ප්‍රතිචාර ලබා දී නොමැති බැවින් අද දිනයේත් අසනීප නිවාඩු වාර්තා කරමින් වෘත්තීය ක්‍රියාමාර්ගයේ නිරත වන බව රාජ්‍ය හා පළාත් රාජ්‍ය සේවා වෘත්තීය සමිති එකතුවේ සම කැඳවුම්කරු චන්දන සූරියආරච්චි මහතා සඳහන් කළේය.
+
+රාජ්‍ය සේවකයින්ගේ වැඩවර්ජනයට සමගාමීව තැපැල් වෘත්තීය සමිති ද පෙරේදා මධ්‍යම රාත්‍රියේ සිට අසනීප නිවාඩු වාර්තා කරමින් වැඩවර්ජනයට නිරත වී සිටී.
+
+...
+
+[Data](articles/243a7a13.json)
+
+---
+
+### යෝජිත විදුලි ගාස්තු සංශෝධනය ගැන මහජන අදහස් ලබාගැනීම අද
+
+*2024-07-09 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198622) · `si`
+
+ලංකා විදුලිබල මණ්ඩලය විසින් යෝජනා කර ඇති විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් වාචික මහජන අදහස් ලබා ගැනීම අද (09) දිනයේ සිදුකිරීමට නියමිතව තිබේ.
+
+විදුලි බල පනතට අනුව මේ වසරේ විදුලි ගාස්තු සංශෝධනය සිදුකිරීමට නියමිත අතර ඊට පෙර මෙම මහජන අදහස් විමසීම සිදුකරන බව මහජන උපයෝගිතා කොමිෂන් සභාව සඳහන් කළේය.
+
+ඒ අනුව අද පෙරවරු 08.30 සිට පස්වරු 4.30 දක්වා බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේ දී වාචික මහජන ලබා ගැනීමේ සැසිය සිදුකිරීමට නියමිතය.
+
+අද දිනයේ යෝජිත විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් අදහස් දැක්වීම සඳහා විවිධ විදුලි පාරිභෝගික කණ්ඩායම්, කර්මාන්ත හා සංවිධාන නියොජනය කරමින් පුද්ගලයින් 50 දෙනෙකු පමණ ලියාපදිංචි වී ඇති බව මහජන උපයෝගිතා කොමිෂන් සභාව සඳහන් කළේය.
+
+මහජන අදහස් විමසීම අවසන් වූ පසු ජුලි මස15 වන දින විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් අවසාන තීරණය ප්‍රකාශයට පත්කිරීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/4c4a7b0e.json)
 
 ---
 
@@ -171,6 +211,26 @@ Meanwhile, the suspects involved in the shooting incident have been recovered by
 [Data](articles/86d5b721.json)
 
 [Extended Data](ext_articles/86d5b721.ext.json)
+
+---
+
+### உக்ரைனின் பல நகரங்கள் மீது ரஸ்யா தாக்குதல்- சிறுவர் வைத்தியசாலையும் இலக்குவைக்கப்பட்டது – 37 பேர் பலி
+
+*2024-07-09 06:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/187985) · `ta`
+
+உக்ரைனின் தலைநகரில் உள்ள  சிறுவர் வைத்தியசாலை உட்பட பல நகரங்களின் மீது ரஸ்யா மேற்கொண்ட தாக்குதலில் 30க்கும் அதிகமானவர்கள் கொல்லப்பட்டுள்ளனர்.
+
+உக்ரைனின் பல நகரங்களை இலக்குவைத்து வழமைக்கு மாறான பகல்நேர தாக்குதல் இடம்பெற்றுள்ளது  என உக்ரைன் அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+இதன்போது உக்ரைன் தலைநகரில் உள்ள பிரதான சிறுவர் மருத்துவமனையான ஒக்மாடிட் மீது தாக்குதல் இடம்பெற்றுள்ளது என உக்ரைன் அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+மருத்துவமனையிலிருந்து புகைமண்டலம் வெளியாவதையும் இடிபாடுகளிற்குள் தேடுதல்கள் இடம்பெறுவதையும் தாக்குதல்கள் இடம்பெற்றவேளை சிறுவர்களை எவ்வாறு காப்பாற்ற முயன்றனர் என்பதை மருத்துவமனையின் பணியாளர்கள் விபரிப்பதையும்  காண்பிக்கும் படங்கள் வெளியாகியுள்ளன.
+
+நான் கடும் அச்சமடைந்தேன் ஆனால் உயிர் தப்பிவிட்டேன் அது பாரிய சத்தம் ஜன்னல்கள் சிதறின என மருத்துவமனையின் தாதியொருவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/0cc16412.json)
 
 ---
 
@@ -1116,21 +1176,29 @@ The State Minister further stated that last year they highlighted 14 sectors tha
 
 ---
 
-### ලංගමට අලුත් බස් 400ක්
+### SLTB is 400 new buses
 
 *2024-07-08 19:56:42* · [`adalk`](https://www.ada.lk/breaking_news/ලංගමට-අලුත්-බස්-400ක්/11-410680) · `si`
 
-ශ්‍රී ලංකා ගමනාගමන මණ්ඩලය වෙනුවෙන් නව බස් රථ 400ක් නුදුරේදීම මිලදී ගන්නා බව ලංගම  සභාපති ලලිත් ද අල්විස් මහතා පැවැසීය. ජනපති මාධ්‍ය කේන්ද්‍රයේ පැවැති මාධ්‍ය හමුවකදී ඔහු මේ බව පැවැසීය.
+SLTB plans to buy 400 new buses, aiming to improve service quality and efficiency. Chairman Lalith de Alwis announced the initiative at a press conference, highlighting the board's commitment to digital transformation and innovation in public transportation. This move follows the renovation of 400 buses last year and comes as part of a larger plan to acquire 1,000 new buses. Additionally, SLTB offers discounted fares for students and operates special services for technical colleges and schools. The introduction of electric buses and seat reservations via an online system are part of ongoing efforts to modernize and enhance passenger experience.
 
-"අපගේ බස් රථ තුළින් දෛනිකව සිදු කරන ගමන් වාර 5500ක් හරහා මගීන් ලක්ෂ 12ක් පමණ සිය ප්‍රවාහන අවශ්‍යතා සපුරා ගන්නවා. ඩිජිටල්කරණ වැඩසටහන නිසි ලෙස ක්‍රියාත්මක කිරීම තුළින් අප ගේ ආදායම ගිලිහී යාම සම්පූර්ණයෙන් නවතා ගැනීමට හැකි බව අපගේ විශ්වාසයයි.
+🟩
 
-අප පසුගිය වසරේ බස් රථ 400ක් ප්‍රතිසංස්කරණය කර නැවත ධාවනයට එක් කර තිබෙනවා. මේ වසරේත් බස් රථ 400ක් ප්‍රතිසංස්කරණය කෙරෙනවා. ඒ වගේම නව බස්රථ 1000ක් මිල දී ගැනීමට කැබිනට් අනුමැතිය හිමි වී තිබෙනවා. ඒ අනුව බස් රථ 400ක් කඩිනමින් මිළ දී ගැනීම සඳහා ප්‍රසම්පාදන කටයුතුද ආරම්භ කර තිබෙනවා.
+SLTB chairman Lalith de Alwis said that 400 new buses will be purchased on behalf of the Sri Lanka Transport Board.. He was speaking at a press conference held at the President's Media Center.
 
-සිසු සැරියට අමතරව පාසැල් සිසුන් මෙන්ම කාර්මික විද්‍යාල සිසුන් සඳහා සහනදායී මිල යටතේ බස් රථ සැපයීම මිසු කරන අතර දෛනිකව සිසු සැරිය සඳහා බස් රථ 811ක් ද ඊට අයත් නොවන පාසැල් සේවාවන් සඳහා බස් රථ 890ක්ද අප විසින් සපයනවා.
+"Our buses meet around 500,000 passengers through 5500 times daily. It is our belief that the proper implementation of the digital program can completely stop our income.
+
+We have renovated 400 buses last year and re-operated. 400 buses will be renovated this year. The cabinet approval has been approved to purchase 1000 new buses. Accordingly, 400 buses have been launched to purchase 400 buses.
+
+In addition to the students, we provide buses under concessionary prices and 811 buses for technical colleges and 810 buses for school services daily.
+
+Introducing electricity buses for innovation of public buses, using modern information technology, and implementing the active activities of the bus and management to meet the activities of the bus plays.It is planned by the time.
 
 ...
 
 [Data](articles/67dae454.json)
+
+[Extended Data](ext_articles/67dae454.ext.json)
 
 ---
 
@@ -2189,71 +2257,5 @@ The Supreme Court has dismissed a petition filed by the Supreme Court seeking to
 [Data](articles/2f95e126.json)
 
 [Extended Data](ext_articles/2f95e126.ext.json)
-
----
-
-### Ti 56 firearms to shoot at Club spring
-
-*2024-07-08 13:31:11* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඇතුළු-පිරිසට-වෙඩි-තියන්න-ටි-56-ගිනි-අවි-දෙකක්-යොදාගෙන/11-410666) · `si`
-
-A shooting incident occurred at Club Spring, where two individuals were killed and several others, including family members, were injured. The assailants arrived in a car and used two T. 56 firearms before fleeing. Victims were taken to Colombo National Hospital and Homagama Hospital for treatment.
-
-🟩
-
-People who came to shoot the business Club Wasantha and others T. 56 Two firearms have been used. They have come from a car and shoot and then there are relatives.
-
-Club spring and another have been killed by this shooting. Singramistic K. Sujah ​​and another male has been admitted to the Colombo National Hospital.
-
-Two more injured women have been admitted to the Homagama Hospital.
-
-◼️
-
-[Data](articles/a052d7dc.json)
-
-[Extended Data](ext_articles/a052d7dc.ext.json)
-
----
-
-### Supreme Court dismisses FR petition seeking to delay Presidential Election
-
-*2024-07-08 13:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100371/supreme-court-dismisses-fr-petition-seeking-to-delay-presidential-election) · `en`
-
-The fundamental rights (FR) petition filed by businessman C.D. Lenawa seeking an order preventing the calling of a Presidential Election until the Supreme Court delivers its interpretation on the date of the presidential poll, has been dismissed by a five-member Supreme Court judge bench headed by the Chief Justice.
-
-Earlier today, the Supreme Court concluded the hearing of the FR petition and the intervening petitions while the verdict in the case was announced by the Supreme Court at 12.30 p.m. today.
-
-The petition was filed by an entrepreneur named C.D. Lenawa last Wednesday (3).
-
-The petition requests that an interim order be issued to prevent the holding of the presidential election within the currently scheduled period until the court delivers its interpretation on the date of the next presidential election.
-
-...
-
-[Data](articles/eebdc1dd.json)
-
-[Extended Data](ext_articles/eebdc1dd.ext.json)
-
----
-
-### Petition relating to the president's term of office is dismissed
-
-*2024-07-08 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198603) · `si`
-
-The Supreme Court dismissed a petition against the president's term, preventing any action against the election process. The petitioner, entrepreneur C.D. Mr. Levy, must appear in court within a month. This decision was made by Chief Justice Jayantha Jayasuriya.
-
-🟩
-
-The Supreme Court decided to dismiss the presidential election to issue an order to issue a prevention of the presidential election until the presidential election was given to the presidential election.
-
-The petitioner has also been ordered to be placed in court within a month.
-
-The order issued the order by Chief Justice Jayantha Jayasuriya.
-
-An entrepreneur of C. D. Mr. Levy had presented the petition.
-
-◼️
-
-[Data](articles/0cf6d2f3.json)
-
-[Extended Data](ext_articles/0cf6d2f3.ext.json)
 
 ---

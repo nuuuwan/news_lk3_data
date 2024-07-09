@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 10:19:51**
+As of **2024-07-09 10:35:03**
 
 ## Newspaper Stats
 
-*Scraped **34,351** Articles*
+*Scraped **34,353** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 islandlk | 1,936
 economynextcom | 2,023
 dailyftlk | 2,146
-adalk | 3,082
+adalk | 3,083
 adaderanalk | 3,938
 tamilmirrorlk | 4,083
 dailymirrorlk | 4,733
 virakesarilk | 5,365
-adaderanasinhalalk | 5,714
+adaderanasinhalalk | 5,715
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,350 (100.0%) of 34,351 articles have been extended.
+34,351 (100.0%) of 34,353 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### අමෙරිකාවේ රැකියා පෙන්වා මුදල් ගැරෑ කතක් අත්අඩංගුවට
+
+*2024-07-09 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198627) · `si`
+
+අමෙරිකා එක්සත් ජනපදයේ රැකියා ලබාදෙන බව පවසා මුදල් වංචා කළ කාන්තාවක් ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් වවුනියාව ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+වවුනියාව, බෝගස්වැව ප්‍රදේශයේ පදිංචි කාන්තාවක් විසින් තම නැගණිය මාර්ගයෙන් අමෙරිකාවේ රැකියා ලබා දෙන බව පවසා රුපියල් ලක්ෂ 10ක මුදලක් ලබාගෙන පොරොන්දු වූ පරිදි රැකියාව ලබානොදුන් බවට ගම්පහ ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු විසින් පසුගියදා කාර්යාංශයේ විශේෂ විමර්ශන අංශයට පැමිණිල්ලක් ඉදිරිපත් කර තිබුණි.
+
+සැකකාරියට එරෙහිව පැමිණිලි 5ක් කාර්යාංශය වෙත ලැබී ඇති අතර, ඒ අනුව ක්‍රියාත්මක වූ විමර්ශන නිලධාරීන් විසින් මෙම කාන්තාවගේ නිවසට ගොස් ඇයව අත්අඩංගුවට ගෙන තිබුණි.
+
+එම පැමිණිලිවලට අනුව කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් අදාළ කාන්තාවට එරෙහිව කොළඹ අලුත්කඩේ අධිකරණයට කරුණු වාර්තාකර නඩු පවරා තිබේ.
+
+කාර්යාංශ නිලධාරීන් පැවසූයේ, ඇයගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී ඇය දිවයිනේ ප්‍රසිද්ධ රක්ෂණ සමාගමක කළමනාකාරිනිය ලෙස සේවය කරන බවය.
+
+...
+
+[Data](articles/f1490aa9.json)
+
+---
 
 ### The new Member of Parliament
 
@@ -74,6 +94,24 @@ Kaziranga is home to the world’s largest population of one-horned rhinos, whic
 
 ---
 
+### ක්ලබ් වසන්ත ඝාතනයට ටැටූ ආයතනයේ හිමිකරු ඇතුළු 6ක් අල්ලයි
+
+*2024-07-09 09:46:14* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතනයට-ටැටූ-ආයතනයේ-හිමිකරු-ඇතුළු-6ක්-අල්ලයි/11-410687) · `si`
+
+ප්‍රකට ව්‍යාපාරික සුරෙන්ද්‍ර වසන්ත පෙරේරා ඇතුළු දෙදෙනෙක් වෙඩි තබා ඝාතනය කිරීමේ සිදුවීම සම්බන්ධයෙන් මේ වන විට පුද්ගලයන් 6ක් අත්අඩංගුවට ගෙන ඇති බව වාර්තා වෙයි.
+
+එම අත්අඩංගුවට ගත් පිරිස අතර අතුරුගිරිය මංසන්ධියේ විවෘත කළ ටැටූ ව්‍යාපාරික ස්ථානයේ හිමිකරුද වන බව වාර්තා වෙයි.
+
+ඊට අමතරව වෙඩික්කරුවන්ට ප්‍රවාහන පහසුකම් ලබාදුන් පුද්ගලයන්ද ඒ අතර සිටින බව පොලීසිය කියයි.
+
+වෙඩි තැබීම පිළිබදව විමර්ශනය කිරීම සදහා විශේෂ පොලිස් කණ්ඩායම් 10 ක් ද පත් කර තිබෙනවා.
+
+◼️
+
+[Data](articles/b0539a29.json)
+
+---
+
 ### Shanmugam Kugathasan sworn in as Member of Parliament
 
 *2024-07-09 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100385/shanmugam-kugathasan-sworn-in-as-member-of-parliament) · `en`
@@ -93,6 +131,8 @@ Sampanthan was the incumbent MP for Trincomalee District and had served in five 
 ...
 
 [Data](articles/4396ddca.json)
+
+[Extended Data](ext_articles/4396ddca.ext.json)
 
 ---
 
@@ -2239,45 +2279,5 @@ Lionel Fernando was more than a public servant; he was a beacon of humanity and 
 [Data](articles/787cfea0.json)
 
 [Extended Data](ext_articles/787cfea0.ext.json)
-
----
-
-### Paradise: Reading The Layered Symphony Of Politics & Passion
-
-*2024-07-08 17:03:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/paradise-reading-the-layered-symphony-of-politics-passion/) · `en`
-
-(the song played at the end of the film “Paradise” written by Anwar Ali, sung by Pavithra and music composition by K).
-
-Emerging from the shadowed theatre, they may step into the brilliance of newfound understanding. This light, a metaphor for the newly acquired wisdom casts brighter hue on the world around them. Anyone who leaves the screening of “Paradise” by Prasanna Vithanage will surely gaze upon the world with fresh, enlightened eyes.
-
-With “Paradise,” Prasanna has transcended the boundaries of national cinema, venturing into transnational and global cinema in terms of themes, production, distribution, and audience reception. He challenges traditional notions of national cinema by emphasizing the fluid and dynamic nature of cultural identities and storytelling across borders. This is an accomplishment worth celebrating.
-
-...
-
-[Data](articles/55b31161.json)
-
-[Extended Data](ext_articles/55b31161.ext.json)
-
----
-
-### Sri Lanka govt to amend to TRC Act to accommodate Elon Musk’s Starlink
-
-*2024-07-08 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-govt-to-amend-to-trc-act-to-accommodate-elon-musks-starlink-171278/) · `en`
-
-ECONOMYNEXT – Sri Lanka is in the process of amending its Telecommunications Regulatory Commission (TRC) Act to accommodate Starlink satellite system found by billionaire head of SpaceX and Tesla.
-
-The island nation has already granted preliminary approval for Starlink to provide satellite-based internet services in the country, following a formal public consultation process. The move came after President Ranil Wickremesinghe met Musk in the sideline the 10th World Water Forum in Indonesia two months ago.
-
-However, Sri Lanka’s TRC law has no provision to grant licence for a third party to operate telecommunication services.
-
-The new amendment that will be presented in the parliament on Tuesday (09) will introduce infrastructure service licence, telecommunication service licence and cable landing station licence, State Technology Minister Kanaka Herath said.
-
-“Starlink comes under the telecommunication service licence,” he told reporters at a media briefing in Colombo on Monday (08).
-
-...
-
-[Data](articles/0e111f92.json)
-
-[Extended Data](ext_articles/0e111f92.ext.json)
 
 ---

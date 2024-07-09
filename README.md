@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 12:20:57**
+As of **2024-07-09 12:35:22**
 
 ## Newspaper Stats
 
-*Scraped **34,364** Articles*
+*Scraped **34,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,085
 adaderanalk | 3,942
 tamilmirrorlk | 4,085
 dailymirrorlk | 4,733
-virakesarilk | 5,365
+virakesarilk | 5,371
 adaderanasinhalalk | 5,718
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,363 (100.0%) of 34,364 articles have been extended.
+34,364 (100.0%) of 34,370 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,24 @@ The multi-day trawler, which was held on the charges of wildlife smuggling, has 
 ...
 
 [Data](articles/b0fc49ff.json)
+
+[Extended Data](ext_articles/b0fc49ff.ext.json)
+
+---
+
+### யாழில் வாகனங்களுக்கு தீ வைப்பு!
+
+*2024-07-09 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/188010) · `ta`
+
+யாழ்ப்பாணத்தில் உள்ள மரக்காலை ஒன்றின் உரிமையாளரின் வீட்டினுள் அத்துமீறி நுழைந்த வன்முறை கும்பல், வீட்டின் மீது தாக்குதல் மேற்கொண்டு சொத்துக்களுக்கு சேதம் விளைவித்ததுடன், வீட்டின் முன் நிறுத்தி வைக்கப்பட்டிருந்த வாகனங்களுக்கும் தீ வைத்துள்ளது.
+
+ஓட்டுமடம் பகுதியில் உள்ள மரக்காலை ஒன்றின் உரிமையாளரின் வீட்டினுள், இன்று செவ்வாய்க்கிழமை (09) அதிகாலை அத்துமீறி நுழைந்த கும்பலே வன்முறையில் ஈடுபட்டனர்.
+
+குறித்த, உரிமையாளரின் மகன், யாழில் இயங்கிய வன்முறை கும்பலுடன் முன்னர் சேர்ந்து இயங்கிய நபர் எனவும், தற்போது பிரான்ஸ் நாட்டில் தஞ்சமடைந்துள்ளதாகவும் தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/37424d29.json)
 
 ---
 
@@ -162,11 +180,53 @@ It is noteworthy that Kalpitiya police have filed a case against MP Ali Sabri Ra
 
 ---
 
+### உலகின் மிகப்பெரிய ஜனநாயகத்தின் தலைவர் மொஸ்கோவின் குற்றவாளியை சந்தித்த தருணத்தில் உக்ரைன் மீது கடும் குண்டு வீச்சு - 37 பேர் பலி -சந்திப்பு குறித்து ஜெலென்ஸ்கி விசனம்
+
+*2024-07-09 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/188014) · `ta`
+
+உக்ரைனின் சிறுவர் மருத்துவமனை உட்பட பல பகுதிகள் மீது ரஸ்யா தாக்குதல் மேற்கொண்ட தினத்தில் இந்திய பிரதமர் நரேந்திரமோடி ரஸ்ய ஜனாதிபதி விளாடிமிர் புட்டினை சந்திப்பதை காண்பது கடும் ஏமாற்றமளித்துள்ளது என உக்ரைன் ஜனாதிபதி வொலெடிமிர் ஜெலென்ஸ்கி  தெரிவித்துள்ளார்.
+
+இந்திய பிரதமர் ரஸ்ய ஜனாதிபதியை மொஸ்கோவிற்கு வெளியே உள்ள நோவோ ஓகாரியோவோ என்ற இடத்தில் சந்திப்பில் ஈடுபட்டிருந்த அதேவேளை உக்ரைன் நகரங்களை காலைவேளையில் ரஸ்யாவின் ஏவுகணைகள் தாக்கின.
+
+ரஸ்யா உக்ரைனின் மீது இரண்டு வருடங்களிற்கு முன்னர் போர் தொடுத்த பின்னர் இந்திய பிரதமர் ரஸ்யாவிற்கு மேற்கொள்ளும் முதல் விஜயம் இது என்பது குறிப்பிடத்தக்கது.
+
+உலகின் மிகப்பெரிய ஜனநாயகத்தின் தலைவர் மொஸ்கோவின் இரத்தக்கறை படிந்த குற்றவாளியை இவ்வாறானதொரு நாளில் கட்டித்தழுவுவது கடும் ஏமாற்றத்தை அளிக்கின்றது என ஜெலென்ஸ்கி தெரிவித்துள்ளார்.
+
+உக்ரைனின் தலைநகரில் உள்ள  சிறுவர் வைத்தியசாலை உட்பட பல நகரங்களின் மீது ரஸ்யா மேற்கொண்ட தாக்குதலில் 30க்கும் அதிகமானவர்கள் கொல்லப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/8a03c891.json)
+
+---
+
+### அதிபர்கள், ஆசிரியர்கள் சுகவீன விடுமுறைப்போராட்டத்தினால் கல்வி நடவடிக்கைகளில் பாதிப்பு!
+
+*2024-07-09 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188006) · `ta`
+
+நாடளாவிய ரீதியில் அதிபர்கள், ஆசிரியர்கள் பல்வேறு கோரிக்கைகளை முன்வைத்து இன்று செவ்வாய்க்கிழமை (09) சுகயீன விடுமுறை போராட்டத்தில் ஈடுபடுவதன் காரணமாக பாடசாலை கல்வி நடவடிக்கைகள் வெகுவாக பாதிக்கப்பட்டுள்ளன.
+
+சில பாடசாலைகளில் இன்று செவ்வாய்க்கிழமை (09) அதிபர்கள், ஆசிரியர்கள் வருகை தந்துள்ள நிலையில் மாணவர்களின் வரவுகள் குறைவான நிலையிலேயே காணப்படுகின்றது.
+
+பெரும்பாலான பாடசாலைகளில் ஆசிரியர்களின் வரவின்மை காரணமாக பாடசாலைக்கு வருகைதந்த மாணவர்கள் திரும்பிச்சென்றதை காணமுடிந்தது.
+
+பாடசாலைகளுக்கு முச்சக்கர வண்டிகளிலும் பாடசாலை வாகனங்களிலும் வருகைதந்த மாணவர்கள் ஆசிரியர்கள் வருகைதராத காரணத்தினால் பெரும் கஸ்டங்களை எதிர்நோக்கியதையும் காணமுடிந்தது.
+
+தமக்கான நிலுவை சம்பளத்தினை வழங்க கோரி இலங்கை ஆசிரியர் சங்கம் விடுத்த வேண்டுகோளின் அடிப்படையில் இன்றைய தினம் சுகவீன விடுமுறை போராட்டத்தில் ஈடுபட்டுவருகின்றமை குறிப்பிடத்தக்கது.
+
+ஓட்டமாவடி கல்விக் கோட்டத்தின் கீழுள்ள பாடசாலைகளில் அதிபர், ஆசிரியர்கள் மேற்கொண்ட சுகயீன விடுமுறை காரணமாக பாடசாலைகளுக்கு வருகை தந்த மாணவர்கள் ஏமாற்றத்துடன் வீடுகளுக்கு திரும்பிச் சென்றனர்.
+
+...
+
+[Data](articles/557e46d0.json)
+
+---
+
 ### Public sector employees including teachers and postal workers report ‘sick’
 
 *2024-07-09 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100389/-public-sector-employees-including-teachers-and-postal-workers-report-sick) · `en`
 
-Over 200 public sector trade unions, including Grama Niladhari officers and surveyors will continue their trade union action by reporting ‘sick leave’ for the second consecutive day today (09).
+Over 200 public sector trade unions, including Grama Niladhari officers will continue their trade union action by reporting ‘sick leave’ for the second consecutive day today (09).
 
 The State and Provincial Public Service Unions Collective launched a trade union action to report ‘sick leave’ yesterday (08) demanding an allowance of Rs. 25,000 for all public sector employees, similar to that was given for the executive officers.
 
@@ -226,6 +286,24 @@ The arrested suspect has been produced before the Vavuniya Magistrate's Court an
 
 ---
 
+### நீர் நிரம்பிய குழியில் விழுந்து குழந்தை உயிரிழப்பு!
+
+*2024-07-09 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/188002) · `ta`
+
+மஹியங்கனை, களுகஹகந்துர வெவதென்ன பகுதியில் 01 வருடமும் 04 மாதங்களுமான குழந்தை ஒன்று நேற்று திங்கட்கிழமை (08) வீட்டிற்கு அருகில் உள்ள நீர் நிரம்பிய குழியொன்றில் விழுந்து உயிரிழந்துள்ளதாக மடுல்சீமை பொலிஸார் தெரிவித்துள்ளனர்.
+
+சம்பவத்தின் போது குழந்தையின் தாய் குழந்தையை வீட்டில் இருந்த மற்றுமொரு சிறுவரிடம் ஒப்படைத்து விட்டு வேலைக்குச் சென்றுள்ளார்.
+
+இதன்போது இந்த குழந்தை வீட்டிற்கு அருகில் உள்ள நீர் நிரம்பிய குழியொன்றில் விழுந்துள்ள நிலையில் வீட்டிற்கு அருகில் உள்ளவர்கள் குழந்தையை வைத்தியசாலைக்கு கொண்டு சென்ற போது குழந்தை ஏற்கனவே உயிரிழந்துவிட்டதாக வைத்தியர்கள் தெரிவித்துள்ளனர்.
+
+இந்த சம்பவம் தொடர்பில் பொலிஸார் தெரிவிக்கையில், குழந்தையின் மரணம் சந்தேகத்திற்குரியதாக இருப்பதால் பிரேத பரிசோதனைக்காக பதுளை மாகாண பொது வைத்தியசாலைக்கு அனுப்பி வைக்க நடவடிக்கை மேற்கொண்டுள்ளதாக  தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/fed1de0a.json)
+
+---
+
 ### Govt. accused of gender bias in appointing Acting Attorney General
 
 *2024-07-09 10:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100387/govt-accused-of-gender-bias-in-appointing-acting-attorney-general-) · `en`
@@ -241,6 +319,22 @@ Furthermore, Kaviratne criticized the government, pointing out that it has been 
 [Data](articles/54cc09db.json)
 
 [Extended Data](ext_articles/54cc09db.ext.json)
+
+---
+
+### பாராளுமன்ற உறுப்பினராக இன்று சண்முகம் குகதாசன் சத்தியப்பிரமாணம்..!
+
+*2024-07-09 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/187999) · `ta`
+
+திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினராக சண்முகம் குகதாசன் பாராளுமன்றத்தில் இன்று செவ்வாய்க்கிழமை (09) சபாநாயகர் முன்னிலையில் சத்தியப்பிரமாணம் செய்துகொள்ளவுள்ளார்.
+
+திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினர் இரா. சம்பந்தனுடைய இழப்பை அடுத்து ஏற்பட்ட வெற்றிடத்திற்காக விருப்பு வாக்கின் அடிப்படையில் இரண்டாவது நிலையில் இருக்கின்ற சண்முகம் குகதாசன் பாராளுமன்ற உறுப்பினராக நியமிக்கப்பட்டள்ளார்.
+
+இது தொடர்பான வர்த்தமானி அறிவித்தல் 02.07.2024 அன்று வெளியிடப்பட்டிருந்தது. இந்நிலையிலேயே இன்றைய தினம் கூடுகின்ற பாராளுமன்ற அமர்வின்போது அவர் சபாநாயகரின் முன்னிலையில் சத்தியப்பிரமானம் மேற்கொள்ளவுள்ளார்.
+
+...
+
+[Data](articles/65fbda52.json)
 
 ---
 
@@ -311,6 +405,26 @@ Kaziranga is home to the world’s largest population of one-horned rhinos, whic
 [Data](articles/04915709.json)
 
 [Extended Data](ext_articles/04915709.ext.json)
+
+---
+
+### அத்துருகிரிய துப்பாக்கிச் சூடு : துப்பாக்கிதாரிகள் பயன்படுத்திய மற்றுமொரு வாகனம் கண்டுபிடிப்பு
+
+*2024-07-09 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/188001) · `ta`
+
+அத்துருகிரிய பகுதியில் நேற்று திங்கட்கிழமை (08) பச்சை குத்தும் நிலையம் ஒன்றில் இடம் பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவத்துடன் தொடர்புடைய துப்பாக்கிதாரிகள் பயன்படுத்தியதாகக் கருதப்படும் வேன் ஒன்று புலத்சிங்கள பிரதேசத்தில் பொலிஸாரால் மீட்கப்பட்டுள்ளது.
+
+நேற்றைய தினம் மாலை  6.15 மணியளவில் '119' பொலிஸாரின் அவசர தொலைபேசி இலக்கத்திற்கு கிடைத்த தகவலின் அடிப்படையில், புலத்சிங்கள, அயகம பிரதேசத்தில் கைவிடப்பட்ட நிலையில் இந்த வேன் கண்டுபிடிக்கப்பட்டுள்ளது.
+
+வேனின் முன்புறத்திலும், பின்புறத்திலும் வாகன இலக்க தகடுகள் காணப்படவில்லை எனவும், வாகன வருமான அனுமதிப் பத்திரத்தின் நகல் ஒட்டப்பட்டிருந்ததாகவும் தெரிவிக்கப்பட்டுள்ளது.
+
+நேற்றைய தினம் காலை அத்துருகிரிய நகரத்தில் பச்சை குத்தும் நிலையம் ஒன்றின் திறப்பு விழா நடைபெற்றது.
+
+இதன்போது, பிரதம அதிதிகளாக, பிரபல வர்த்தகர் சுரேந்திர வசந்த பெரேரா என்ற கிளப் வசந்த மற்றும் அவரது மனைவி மற்றும் பிரபல பாடகி கே. சுஜீவா ஆகியோர் வருகை தந்திருந்தனர்.
+
+...
+
+[Data](articles/bb518893.json)
 
 ---
 
@@ -2179,145 +2293,5 @@ The General Treasury Secretary pointed out that the expenditure increased to Rs.
 [Data](articles/2f4953c8.json)
 
 [Extended Data](ext_articles/2f4953c8.ext.json)
-
----
-
-### Salary of Public Servants Rs. Increase 20,000 VAT to do 22 percent
-
-*2024-07-08 18:59:36* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවක-වැටුප-රු--20-000ක්-වැඩි-කරන්න-වැට්-බද්ද-සියයට-22ක්-කරන්න-වෙනවා/11-410672) · `si`
-
-State Minister Shehan Semasinghe proposes increasing the VAT rate from 18% to 22% and the corporate tax rate to 42%. He warns this could worsen the budget deficit and challenge the IMF program, affecting the economy and society significantly. Cooperation and public support are crucial for economic recovery.
-
-🟩
-
-Minister of State Shehan Semasinghe says that Rs.. The Minister pointed out that the existing VAT rate should be increased by 4%, the current VAT rate should be increased by 4%, the tax rate to 22%.. The Minister said that the corporate tax rate should be placed 42%.
-
-The economy could be further affected by such a situation and the budget deficit can be a reversal reverse backdrop, Mr. Semasinghe said. The International Monetary Fund Program can be challenged, and the country can be challenging to the most important economic and social conditions experienced in 2022.. The economy requires cooperation of a person and institution to increase the economy and cooperation with the continuous support of the people.
-
-◼️
-
-[Data](articles/d3411507.json)
-
-[Extended Data](ext_articles/d3411507.ext.json)
-
----
-
-### Sri Lanka cabinet nod for India-funded ID card project; proposal sent to Indian HC: State Min
-
-*2024-07-08 18:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-nod-for-india-funded-id-card-project-proposal-sent-to-indian-hc-state-min-171293/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has approved a revised India-funded Unique Identity Card project after several months of scrutiny and a proposal has been sent to Indian High Commission, State Technology Minister Kanaka Herath said.
-
-Technology Ministry which is handling the project has been long waiting for clearance from Public Security Ministry and the Cabinet to go ahead with the  dragged India-funded Unique ID card project.
-
-“There were some issues for the past five months and we were trying to get cabinet approval. Finally last month we got the cabinet approval and we have sent our proposal to Indian High Commission. So, we are waiting for their response,” Herath told reporters at a media briefing in Colombo on Monday (08).
-
-“I think we can go for tendering process within this month,” Herath said.
-
-An official at the Indian High Commission acknowledged that the government’s communication on the approval for revised project was received.
-
-...
-
-[Data](articles/8cf29dd2.json)
-
-[Extended Data](ext_articles/8cf29dd2.ext.json)
-
----
-
-### Attempts in democracy have been thwarted - Harshana Rajakaruna
-
-*2024-07-08 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/187969) · `ta`
-
-Harshana Rajakaruna, a United People's Power MP, criticized attempts to delay democracy, highlighting the government's urgency to hold elections despite President Ranil Wickremesinghe's resistance. The court's intervention ensured the process moved forward, ensuring democratic principles were upheld.
-
-🟩
-
-Attempts to take up in democracy have been thwarted. The court has made the best decision. United People's Power MP Harshana Rajakaruna said the government was forced to hold elections in time.
-
-He further stated at a press conference held at the Opposition Leader's Office in Colombo on Monday (08).
-
-President Ranil Wickremesinghe is trying to not hold elections. The General Secretary and the General Secretary of the United National Party continued to make such comments. Those who claimed that Ranil Wickremesinghe was the only candidate, and began to say that the election should not be held.
-
-In the local government elections, they followed the same technique. The Secretary of the Ministry of Finance was ordered by the court to provide money for the election. But the court ruling has not taken care of the local government elections. The Election Commission will get the power to announce the presidential day in 10 days.
-
-...
-
-[Data](articles/686bc7fa.json)
-
-[Extended Data](ext_articles/686bc7fa.ext.json)
-
----
-
-### The proposed fact, unity and reconciliation commission bill is possible to be presented in Parliament before elections
-
-*2024-07-08 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/187982) · `ta`
-
-The Interim Secretariat plans to present the Truth, Unity, and Reconciliation Commission Bill to Parliament in August-September, ahead of elections. Officials, including Dr. Asanga Gunawansa, have toured the country discussing the bill with intellectuals and affected communities. The bill aims to address issues faced by war victims and establish trust among affected parties.
-
-🟩
-
-It is reliable sources that the Interim Secretariat of the Truth and Reconciliation Mechanism is intended to submit the proposed fact, unity and reconciliation commission's Bill in the coming August -September, before elections.
-
-The interim secretariat officials of the Truth and Reconciliation Mechanism, headed by Dr. Asanga Gunawansa, have visited various parts of the country, including the North and East, as the government is actively carrying out the work of establishing the Truth, Unity and Reconciliation Commission in the country.
-
-In the South, in the South, especially in the Colombo -based civil society organizations, they met with the intellectuals and intellectuals and held discussions on the proposed Truth, Unity and Reconciliation Commission Bill.
-
-...
-
-[Data](articles/91201cba.json)
-
-[Extended Data](ext_articles/91201cba.ext.json)
-
----
-
-### Special Secretariat headed by the Secretary of President
-
-*2024-07-08 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/187986) · `ta`
-
-A special secretariat led by the President's Secretary aims to speed up the Office of the Disappeared's operations and collaborate with major institutions and NGOs like the International Red Cross. The CEO, Attorney-at-Law Jeganathan, outlines tasks including facilitating missing persons' identification, enhancing operational efficiency, and ensuring proper actions. Mahesh Katulanda, appointed as the Chairman for three years, and Ajith Thennakoon, a forensic expert, join the board. Funding allows for the resumption of excavation work, and direct meetings between the office's officers and families of the missing are planned to investigate potential matches between human remains and missing persons.
-
-🟩
-
-A special secretary has been established under the leadership of the President's Secretary to expedite the activities of the Office of the Disappeared and provide necessary cooperation.
-
-Attorney -at -Law Jeganathan, Chief Executive Officer of the Office of Missing Persons, said that the work includes major state institutions and NGOs including the International Red Cross.
-
-He also explained that the work will be carried out through the work, including the ease of the order of the missing persons, the expedition of its activities, and the necessary cooperation to carry out appropriate action.
-
-Meanwhile, Mahesh Katulanda, the Chairman of the Missing Persons, has come to an end, and has been appointed by the President as the Chairman of the Office of the Missing Persons for the next 3 years through the Constitutional Constituency.. Similarly, Ajith Thennakoon, a forensic expert, has been enrolled in the Board of Directors of the Eight Missing Persons.
-
-...
-
-[Data](articles/eb9e4275.json)
-
-[Extended Data](ext_articles/eb9e4275.ext.json)
-
----
-
-### The student who drives the student from the Ultar complex claims to be suspicious
-
-*2024-07-08 18:22:36* · [`adalk`](https://www.ada.lk/breaking_news/අල්ටෙයාර්-සංකීර්ණයෙන්-පැන්න-සිසුවාගේ-හා-සිසුවියගේ-මරණය-සැක-සහිත-බවට-අධිකරණයට-කියයි/11-410671) · `si`
-
-A student driving another from the Ultar complex raised suspicions. Fort Magistrate Kosala Senadheera mentioned a case where a lawyer, Asanka Dayaratne, representing a family whose son fell from the 67th floor of Altaard Apartment Complex, sought to lodge a personal complaint about the incident. However, the magistrate stated that due to ongoing investigations by the Slave Island Police, a personal complaint was not feasible at this time.
-
-🟩
-
-Fort Magistrate Kosala Senadheera today (08) informed the Fort Magistrate Kosala Senadheera today (08).
-
-The rejected magistrate to allow a personal complaint at the time of a question of the death of the Slave Island Police, the lawyer had informed the lawyer.
-
-Attorney attorney Asanka Dayaratne, who had fallen from the 67th floor of Altaard 'Apartment Complex, said his client's son had died in the incident and his client had been suspected of suspicion.
-
-Attorney atnal Asanka Dayaratne asked his client to make a complaint to the client in connection with the incident.
-
-The Magistrate called the Court on this deaths, as a matter of these deaths, it is not possible to make a personal complaint to the Slave Island Police.
-
-The magistrate, who has said that the Slave Island Police are conducting further investigations and reported to the courts.
-
-◼️
-
-[Data](articles/f6845a40.json)
-
-[Extended Data](ext_articles/f6845a40.ext.json)
 
 ---

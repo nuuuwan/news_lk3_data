@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 17:05:02**
+As of **2024-07-09 17:19:46**
 
 ## Newspaper Stats
 
-*Scraped **34,413** Articles*
+*Scraped **34,415** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 2,028
 dailyftlk | 2,146
 adalk | 3,091
 adaderanalk | 3,952
-tamilmirrorlk | 4,092
+tamilmirrorlk | 4,093
 dailymirrorlk | 4,733
 virakesarilk | 5,376
-adaderanasinhalalk | 5,728
+adaderanasinhalalk | 5,729
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,404 (100.0%) of 34,413 articles have been extended.
+34,413 (100.0%) of 34,415 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### ක්ලබ් වසන්තගේ බිරිඳ සතුව තිබූ ගිනිඅවිය ගැනත් තොරතුරු
+
+*2024-07-09 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198643) · `si`
+
+අතුරුගිරිය වෙඩි තැබීමේදී වෙඩිවැදී රෝහල්ගත කෙරුණු ක්ලබ් වසන්තගේ බිරිඳ සන්තකයේ තිබුණු ගිනිඅවිය නීත්‍යානුකූල නොවන ගිනිඅවියක් බව අනාවරණය වී තිබේ.
+
+මිරිහාන පොලිසි ස්ථානයේ ඉදි කෙරුණු ළමා හා කාන්තා කාර්යාංශයේ නව ගොඩනැගිල්ල විවෘත කිරීමේ අවස්ථාවට එක්වෙමින් පොලිස්පතිවරයා මේ බව සඳහන් කළේය.
+
+එහිදී ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතාද කියා සිටියේ අපරාධකරුවන්ට සැඟවී සිටීමට නොහැකි බවත් කඩිනමින් අපරාධකරුවන් අත්අඩංගුවට ගන්නා බවය.
+
+එමෙන්ම මෙම අපරාධයද විදේශ රටක සිට මෙහෙයවා ඇති බවත් මෙලෙස වෙඩිතැබීමක් සිදුවූයේ මාස දෙකහමාරකට පසු බව ඔහු කියා සිටියේය.
+
+◼️
+
+[Data](articles/3d622db0.json)
+
+---
+
+### சனி. ஞாயிறு மாத்திரம் வஞ்சம் தீர்க்கும் பாம்பு
+
+*2024-07-09 16:53:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனி-ஞாயிறு-மாத்திரம்-வஞ்சம்-தீர்க்கும்-பாம்பு/175-340099) · `ta`
+
+பாம்புகள் வஞ்சம் வைத்து கடிக்கும் என்பது வாய்மொழிக் கதையாக மக்கள் மத்தியில் பரவலாக பேசப்படும் ஒன்று.  ஆனால் கதைகளேயே மிஞ்சும் வகையில் இந்தியாவின் உத்தரப் பிரதேச மாநிலம் பதேபூர் மாவட்டத்தில் சம்பவமொன்று நிகழ்ந்துள்ளது.
+
+சவுரா கிராமத்தைச் சேர்ந்த விகாஸ் தூபே (வயது 24). கடந்த 35 நாட்களில் மட்டுமே இவர் 6 முறை விஷப் பாம்புகளிடம் இருந்து கடி வாங்கியுள்ளார்.
+
+கடந்த ஜூன் 2 -ஆம் திகதி விகாஸ் தூபே அவர் வீட்டில் கட்டிலில் படுத்திருந்தபோது முதல் தடவை பாம்பு கடித்துள்ளது. உடனே வைத்திசாலைக்குகொண்டு செல்லப்பட்ட அவர் சிகிச்சைக்குப் பின் உயிர்பிழைத்தார்.
+
+இவ்வாறாக ஜூன் 2 முதல் ஜூலை 7 வரையிலான காலக்கட்டத்தில் 6 முறை விகாஸ் தூபேவை பாம்புகள் கடித்துள்ளன. வீட்டில் இருந்தால் பாம்பு கடிக்கிறது என்று அவரை உறவினர் வீட்டுக்கு அனுப்பி வைத்துள்ளனர் பெற்றோர். ஆனால் உறவினர் வீட்டில் வைத்தும் அவரை 5 வது முறையாக பாம்பு கடித்துள்ளது.
+
+...
+
+[Data](articles/31468996.json)
+
+---
 
 ### Details of ‘OnmaxDT’ depositors submitted to court, CID ordered to further probe
 
@@ -50,19 +86,27 @@ Accordingly, the Magistrate, who ordered the CID to investigate further into the
 
 [Data](articles/78dc5e49.json)
 
+[Extended Data](ext_articles/78dc5e49.ext.json)
+
 ---
 
-### கடமைக்கு வந்தவர்களுக்கு  விசேட சம்பள உயர்வு
+### Special salary increases to those who are on duty
 
 *2024-07-09 16:34:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடமைக்கு-வந்தவர்களுக்கு-விசேட-சம்பள-உயர்வு/175-340098) · `ta`
 
-2024 ஆம் ஆண்டு ஜூலை 8ஆம், 9 ஆம் திகதிகளில் கடமைக்கு சமூகமளித்த, நிறைவேற்று தரத்திற்கு உள்ளடங்காத அரசாங்க அதிகாரிகளுக்கு விசேட சம்பள உயர்வொன்றை வழங்குவதற்கு அமைச்சரவை அங்கிகாரம் வழங்கியுள்ளது.
+The Cabinet approved a special salary hike for government officials who worked during July 8 and 9, 2024, despite not meeting executive standards. Additionally, President Ranil Wickremesinghe endorsed issuing special commendation certificates for potential promotions.
 
-இதேவேளை,  எதிர்கால பதவி உயர்வுகளுக்குப் பயன்படுத்தும் வகையில் விசேட பாராட்டுச் சான்றிதழொன்றை வழங்குவதற்கும் ஜனாதிபதி ரணில் விக்ரமசிங்க அமைச்சரவைக்கு, செவ்வாய்க்கிழமை (09)  சமர்ப்பித்த பரிந்துரைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+🟩
+
+The Cabinet has approved the grant of a special salary increase to government officials who did not comply with the executive standard, which had contributed to duty on July 8 and 9, 2024.
+
+Meanwhile, President Ranil Wickremesinghe has approved the recommendation of President Ranil Wickremesinghe on Tuesday (09) to issue a special commendation certificate for future promotions.
 
 ◼️
 
 [Data](articles/94b9614a.json)
+
+[Extended Data](ext_articles/94b9614a.ext.json)
 
 ---
 
@@ -81,6 +125,8 @@ Accordingly, government officials across several sectors did not show up for wor
 ...
 
 [Data](articles/4c0f64fb.json)
+
+[Extended Data](ext_articles/4c0f64fb.ext.json)
 
 ---
 
@@ -136,35 +182,51 @@ It is reported that Prime Minister Modi joined the President last night.
 
 ---
 
-### பார்க்கின்சன் நோயினால் பாதிக்கப்பட்டவர்களிற்கு சிகிச்சையளிக்கும் மருத்துவர் 8 தடவை வெள்ளை மாளிகை சென்றுள்ளார் ? நியுயோர்க் டைம்ஸ் தகவல்
+### Did the White House go 8 times the doctor who treats people with Parkinson's disease?New York Times Information
 
 *2024-07-09 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188051) · `ta`
 
-அமெரிக்க ஜனாதிபதி ஜோடைபன் பார்க்கின்சன் நோயினால் பாதிக்கப்படவில்லை அந்த நோய்க்காக சிகிச்சைபெறவில்லை என வெள்ளை மாளிகை அறிவித்துள்ளது.
+The White House denied claims that Dr. Kevin O'Connor, who treats Parkinson's patients, visited eight times since August, contradicting The New York Times' report. President Joe Biden's health is unaffected by Parkinson's, according to the White House.
 
-பார்க்கின்சன் நோயினால் பாதிக்கப்பட்டவர்களிற்கு சிகிச்சை அளிக்கும் மருத்துவர் வெள்ளை மாளிகைக்கு ஆகஸ்ட்மாதம் முதல் மார்ச்வரையில் எட்டுதடவைகள் சென்றுள்ளார் என நியுயோர்க் டைம்ஸ் செய்தி வெளியிட்டுள்ள நிலையிலேயே வெள்ளை மாளிகையின் இந்த மறுப்பு வெளியாகியுள்ளது.
+🟩
 
-வெள்ளை மாளிகைக்கு விஜயம் மேற்கொண்டவர்களின் பட்டியலை அடிப்படையாக வைத்து நியுயோர்க் டைம்ஸ் இதனை தெரிவித்துள்ளது.
+The White House has announced that US President Jodiban Parkinson has not been affected by the disease.
 
-இது குறித்து மறுப்பு அறிக்கையொன்றை வெளியிட்டுள்ள வெள்ளை மாளிகையின் மருத்துவர் கெவின் ஓ கோனர் பைடன் தனது வருடாந்த மருத்துவசோதனைகளிற்கு அப்பால் நரம்பியல் நிபுணர் எவரையும் பார்ப்பதற்காக வெளியே செல்லவில்லை என குறிப்பிட்டுள்ளார்.
+The New York Times has reported that the doctor who treats people with Parkinson's disease has visited the White House to the White House eight times since August.
 
-நரம்பியல் நிபுணரான கெவின்கனார்ட்  கடந்த வருடம் ஆகஸ்ட்மாதம் முதல் இந்தவருடம் மார்ச்மாதம் வரை எட்டு தடவை வெள்ளை மாளிகைக்கு விஜயம் மேற்கொண்டுள்ளதை வெள்ளை மாளிகையின் விருந்தினர் ஆவணம் காண்பித்துள்ளது என ரொய்ட்டரும் தெரிவித்துள்ளது.
+The New York Times said this based on the list of those who visited the White House.
 
-...
+The White House doctor, Kevin O Gonor Biden, has issued a denial report that no neurologist did not go out to see anyone beyond his annual medical tests.
+
+The White House guest document has also shown that neurologist Kevinkanard has visited the White House eight times from August last year to March this year.
+
+The doctor of the White House said that Kevin Karnat went to the White House for support for his neurological sciences to support thousands of employees appointed to assist the White House activities.
+
+During the first debate with former President Donaldram, Baidan was found to be very weak and suspicious of his illness.
+
+◼️
 
 [Data](articles/c8c8c9de.json)
 
+[Extended Data](ext_articles/c8c8c9de.ext.json)
+
 ---
 
-### புதிய ஜனாதிபதியின் கீழ் ஈரானின்  வெளியுறவுக் கொள்கை மாறுமா? உலகில் புதிய மாற்றதுக்கு வழி பிறக்கும் என  பலரும் நம்பிக்கை !
+### Will Iran's foreign policy change under the new president?Many believe that the new change in the world will lead!
 
 *2024-07-09 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188047) · `ta`
 
-இந்தியா, பிரித்தானியா என்ற வரிசையில் ஈரானின் தேர்தல் முக்கியத்துவம் வாய்ந்த ஒன்றாக எதிர்பார்க்கப்படுகிறது. இந்நிலையில் இந்தியாவின் பிரதமராக மீண்டும் நரேந்திர மோடி தெரிவு செய்யப்பட்டுள்ளார்.
+Iran's upcoming presidential election may impact its foreign policy, potentially influencing global dynamics due to its strategic importance to countries like India and Britain.
+
+🟩
+
+Iran's election is expected to be important in India and Britain. Narendra Modi has been re -elected as the Prime Minister of India.
 
 ◼️
 
 [Data](articles/4d6e6331.json)
+
+[Extended Data](ext_articles/4d6e6331.ext.json)
 
 ---
 
@@ -214,37 +276,57 @@ The shooting occurred during the opening ceremony of a tattoo and piercing studi
 
 ---
 
-### වෛද්‍යවරයෙකුගේ යතුරු පැදියක් රෝහලෙදී සොරා ගැනේ
+### A doctor's motorcycle thieves at hospital
 
 *2024-07-09 15:45:19* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍යවරයෙකුගේ-යතුරු-පැදියක්-රෝහලෙදී-සොරා-ගැනේ/11-410694) · `si`
 
-අනුරාධපුර ශික්ෂණ රෝහලේ සේවයේ නිරත වෛද්‍යවරයෙකුගේ රුපියල් ලක්ෂ දෙකක් වටිනා යතුරු පැදියක් රෝහල් භූමියේදී සොරකම් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් විමර්ශනයක් ආරම්භ කල බව අනුරාධපුර මූලස්ථාන පොලිසිය පවසයි.
+An investigation is underway after a doctor's motorcycle was stolen from the Anuradhapura Teaching Hospital. The theft occurred while the doctor was at work, and the bike was later found without its sidecar.
 
-අනුරාධපුර ශික්ෂණ රෝහලේ  සේවය කරන මහඉලුප්පල්ලම ප්‍රදේශයේ පදිංචි වෛද්‍යවරයෙකු සිදු කල පැමිණිල්ලකට අනුව මෙම විමර්ශනය ආරම්භ කල බව පොලිසිය කියයි.
+🟩
 
-වෛද්‍යවරයා රෝහල වෙත පැමිණ සිය යතුරු පැදිය රෝහලේ ආපන ශාලාව ආසන්නයේ නවතා ,තමන් සේවය කරන ශෛල්‍යගාරය වෙත ගොස්, යලි පැය දෙකකින් පමණ පැමිණ බැලීමේදී මෙම යතුරු පැදිය සොරකම් කර ඇති බව දැන ගෙන ඇතැයි පොලිසිය කියයි.
+A motorcycle of a doctor in the Anuradhapura Teaching Hospital has launched an investigation into a stolen motorcycle at the hospital premises, Anuradhapura headquarters said.
+
+The investigation was launched in a complaint lodged with a complaint with a resident of the Mahailuppalama area in the Anuradhapura Teaching Hospital.
+
+The doctor has come to the hospital and stole the cyclone of his motorcycle and went to the style of his work, police said.
 
 ◼️
 
 [Data](articles/1915e774.json)
 
+[Extended Data](ext_articles/1915e774.ext.json)
+
 ---
 
-### இந்திய சீன உறவுகளை சமநிலைப்படுத்துவதற்கு இலங்கை முயற்சி - ரொய்ட்டர் மாநாட்டில் அலிசப்ரி
+### Sri Lanka attempts to balance Indian Chinese relations
 
 *2024-07-09 15:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/188045) · `ta`
 
-இலங்கையின் கடன்மறுசீரமைப்பு தொடர்பாக சர்வதேச பிணைமுறிபத்திர உரிமையாளர்களுடன்  முன்னெடுத்துள்ள பேச்சுவார்த்தைகளை அடுத்த சில வாரங்களில் இலங்கை பூர்த்தி செய்யும் என  இலங்கையின் வெளிவிவகார அமைச்சர் அலிசப்ரி தெரிவித்துள்ளார்.
+Sri Lanka aims to balance its relationships with India and China amidst geopolitical tensions. The country is negotiating with international creditors over its debt, seeking to avoid conflicts between its major lenders. Sri Lanka expects to finalize debt restructuring by the end of the month and has temporarily agreed with some creditors to proceed with bailout restoration. With a population of 22 million, heavily reliant on foreign tourism and investment, Sri Lanka navigates its economic challenges while managing its strategic partnerships with China and India, both vying for influence in the region.
 
-அயல்நாடுகளான இந்தியா சீனாவை கையாளும் விதத்தில் எந்த வேறுபாடுகளும் இல்லை என்பதை உறுதிசெய்வதற்காக இலங்கை தனது உறவுகளை சமநிலைப்படுத்த முயல்கின்றது என அவர் தெரிவித்துள்ளார்.
+🟩
 
-ஆசியாவில் தங்களுக்குள் போட்டியிடும் இரு பெரும் நாடுகளும் இலங்கைக்கு அதிகளவு கடன்களை வழங்கியுள்ளதுடன் முக்கிய முதலீட்டாளர்களாக காணப்படுகின்றநிலையில் , இலங்கையில்  புவிசார் அரசியல் ஆதிக்கம் செலுத்துவதற்காக போட்டியிடுகின்ற  சூழ்நிலையிலேயே, இலங்கையின் வெளிவிவகார அமைச்சரின் இந்த கருத்து வெளியாகியுள்ளது.
+Sri Lanka's External Affairs Minister Alisabri said Sri Lanka will fulfill talks with international bail owners on Sri Lanka's debt issuer over the next few weeks.
 
-சிங்கப்பூரில் இடம்பெறும் ரொய்ட்டர்ஸ் நெக்ஸ்ட் மாநாட்டில் இலங்கைக்கு கடன்வழங்கியவர்களுடனான மறுசீரமைப்பு முயற்சிகள் எப்போதும் முடிவடையும் என்ற கேள்விக்கு அடுத்தசிலவாரங்களில் என எதிர்பார்க்கின்றோம் என அலிசப்ரி தெரிவித்துள்ளார்.
+He said that Sri Lanka is trying to balance its relations to ensure that foreign countries, India, has no differences in handling China.
+
+The Minister of Foreign Affairs of Sri Lanka has expressed the view that the two major countries that are contesting in Asia have given more debts to Sri Lanka and are contesting for geopolitical dominance in Sri Lanka.
+
+"We are expecting the next weeks in the next week," he said.
+
+He said we would officially complete the debt operations by the end of this month, he said.
+
+Sri Lanka has made a temporary agreement with some of its bail owners to move forward in the restoration of its bailouts.
+
+Sri Lanka has to pay US $ 37 billion foreign loans.
+
+Sri Lanka has reached a consensus for $ 10 million at the end of June with countries like China Japan.
 
 ...
 
 [Data](articles/0128ba18.json)
+
+[Extended Data](ext_articles/0128ba18.ext.json)
 
 ---
 
@@ -360,17 +442,23 @@ On Friday (05), the Bribery Commission apprehended the two suspects inside the C
 
 ---
 
-### வட்டகொடை மடக்கும்புர தோட்ட தொழிலாளர்கள் ஆர்ப்பாட்டம்
+### Plantation workers protest
 
 *2024-07-09 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/188033) · `ta`
 
-பெருந்தோட்டத் தொழிலாளர்களுக்கு நாள் சம்பளமாக 1,700 ரூபா வழங்குமாறு வலியுறுத்தி வட்டகொடை, தெற்கு மடக்கும்புர தோட்ட தொழிலாளர்கள் அத்தோட்ட தொழிற்சாலைக்கு முன்பாக இன்று செவ்வாய்க்கிழமை (9) கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டனர்.
+Workers from Vattakoda and South Madukkumbura Plantations protested on Tuesday, demanding a daily wage of 1,700 rupees due to economic hardships. They urged companies to address this issue.
 
-தற்போதைய பொருளாதார சூழ்நிலையில் தாங்கள் பல்வேறு  நெருக்கடியை சந்தித்து வருகின்றனர். 1,700 ரூபாகூட போதாது, எனவே, குறைந்தபட்சமாக கோரப்பட்டுள்ள அந்த தொகையையாவது வழங்குவதற்கு கம்பனிகள் நடவடிக்கை எடுக்க வேண்டும் என தொழிலாளர்கள் கோரிக்கை விடுக்கின்றனர்.
+🟩
+
+Vattakoda and South Madukkumbura Plantation workers staged a protest on Tuesday (9) in front of the plant factory demanding that plantation workers pay a day's salary of 1,700 rupees.
+
+They are facing various crises in the current economic situation. Workers are demanding that companies take steps to pay at least 1,700 rupees, so, therefore, at least.
 
 ◼️
 
 [Data](articles/d6970251.json)
+
+[Extended Data](ext_articles/d6970251.ext.json)
 
 ---
 
@@ -420,21 +508,29 @@ Accordingly, the mobile app software gathering information is also planned to be
 
 ---
 
-### சீன அரசின் பொருத்து வீட்டு திட்டம் வடக்கிழக்கு மீனவர்களுக்கு வேண்டாம் - கனகசபை ரவீந்திரன்
+### The Chinese government's home scheme is not for North East Fishermen - Kanagasabha Ravindran
 
 *2024-07-09 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188030) · `ta`
 
-சீன அரசின் பொருத்து வீட்டு திட்டம் வடக்கிழக்கு மீனவர்களுக்கு வேண்டாம் என யாழ். சுழிபுரம்  அலைமகள் கடற்றொழிலாளர் கிராமிய கூட்டுறவு அமைப்பின் சிரேஷ்ட உறுப்பினர் கனகசபை ரவீந்திரன் தெரிவித்துள்ளார்.
+Kanagasabha Ravindran, a senior member of the Chiripuram Alaimala Fisheries Rural Cooperative Organization, stated during a media briefing that the Chinese government's housing scheme does not benefit northeastern fishermen. He highlighted the challenges faced by coastal dwellers, including destruction from cyclones and the impact of ongoing conflicts, emphasizing the need for a permanent housing solution. Despite claims of Chinese aid, Ravindran reported no direct assistance, criticizing political promises over action.
 
-யாழ். சுழிபுரத்தில் ஊடக சந்திப்பு ஒன்றினை ஏற்பாடு செய்து கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-சீன அரசாங்கத்தினால் வழங்கப்படும் பொருத்து வீட்டு திட்டம் எமக்கு உகந்தது அல்ல நாங்கள் கடற்கரையினை அண்டிதான் வாழ்ந்து வருகின்றோம். சூறாவளி  காற்றினால் இந்த வீடு அழிய கூடும் இயற்கை அனர்தங்களுங்கு அஞ்சி வாழ வேண்டிய சூழல் ஏற்படும்.ஆகவே எங்களுக்கு பொருத்தமற்ற இவ்வாறான வீட்டுதிட்டங்களை முற்றிலும் நிராகரிக்கின்றோம்.
+The Chinese government's housing scheme is not for northeastern fishermen. Senior Member of the Rural Co -operative Organization of the Chiripuram Alaimala Fisheries Rural Co -operative Organization Kanagasabha Raveendran said.
 
-எமது கடற்றொழிலாளர்கள் யுத்தத்தினாலும் பாதிக்கப்பட்டுள்ளோம். தொடர்ந்து இழுவை மடியாலும் பாதிக்கபட்டுள்ளோம். பொது மக்களுக்கு பல நெருக்கடியான சூழலிலும்  மீனவ தொழிலை ஜீவனோபாயமாக  மேற்கொண்டுவருகின்றோம். எமக்கு நிரந்தரமான வீட்டுத்திட்டம் அனைவரும் ஏற்றுக்கொள்ள கூடிய வகையில் வழங்கவேண்டும்.உண்மையில் எமக்கு சீன அரசு தரமான பொருட்களையும் நல்ல திட்டங்களையும் வழங்கவேண்டும்.
+Yall. He said this while organizing a media briefing in Chiripuram.
 
-...
+We are living on the coast.. The tornado wind can cause this house to be destroyed and to live in fear.
+
+We are also affected by the war.We are also affected by the continuous drag. We are living the fishing industry in many casualties for the public.We need to provide us with a permanent housing scheme.
+
+They say that the Chinese government is providing assistance to the North and East fishermen.To date, our wavelengths have not received any assistance to the Chinese government. They said they would give rice and provide rice in their offices politically and politically. He added that politicians should take care of the public.
+
+◼️
 
 [Data](articles/1d7afca6.json)
+
+[Extended Data](ext_articles/1d7afca6.ext.json)
 
 ---
 
@@ -2235,49 +2331,5 @@ Sri Lanka’s Supreme Court dismissed a petition yesterday seeking to postpone t
 [Data](articles/2f2dd9ba.json)
 
 [Extended Data](ext_articles/2f2dd9ba.ext.json)
-
----
-
-### Asgiriya Chief Prelate warns delaying polls could lead to national turmoil
-
-*2024-07-09 04:50:57* · [`dailyftlk`](https://www.ft.lk/news/Asgiriya-Chief-Prelate-warns-delaying-polls-could-lead-to-national-turmoil/56-764001) · `en`
-
-Mahanayake of the Asgiriya Chapter, Warak-agoda Sri Gnanarathana Thera, has warned that any attempt to change the election dates may lead to turmoil in the country.
-
-The Thera expressed these concerns during a conversation with Freedom People’s Congress (FPC) member and Parliamentarian Prof. G.L. Peiris, who visited the Asgiriya Vihara yesterday.
-
-He also emphasised that there is no need to postpone the elections.
-
-Peiris also pointed out to the Thera that according to the Constitution, the President’s term of office is unequivocally five years, a principle affirmed by the Supreme Court in two prior rulings.
-
-He also emphasised that the Government should allow the Election Commission to fulfil its role at this time.
-
-Speaking to those gathered, the Registrar of the Asgiriya chapter, Medagama Dhammananda Thera expressed concern that politicians frequently instigate multiple crises, causing people to endure immense pressure and live in despair.
-
-...
-
-[Data](articles/df9fa05f.json)
-
-[Extended Data](ext_articles/df9fa05f.ext.json)
-
----
-
-### Police confirm Club Wasantha was main target in Athurugiriya shooting
-
-*2024-07-09 04:45:16* · [`dailyftlk`](https://www.ft.lk/news/Police-confirm-Club-Wasantha-was-main-target-in-Athurugiriya-shooting/56-764000) · `en`
-
-Two gunmen open fire at tattoo and piercing studio opening killing Sunhill Group of Companies Chairperson Surendra Wasantha Perera and another, injuring 4 others
-
-Similar shooting had taken place at same location on 13 February 2017 killing underworld figure Tanil Bandara Dharmashri
-
-Sunhill Group of Companies Chairperson Surendra Wasantha Perera, better known as “Club Wasantha” was shot dead by two unidentified gunmen in Oruwala, Athurugiriya yesterday.
-
-According to the police, the incident resulted in the death of another male and left a male and three females, including the popular singer K. Sujeewa and Surendra Wasantha Perera’s wife Manik Wijesundara, seriously injured.
-
-...
-
-[Data](articles/08d9bd90.json)
-
-[Extended Data](ext_articles/08d9bd90.ext.json)
 
 ---

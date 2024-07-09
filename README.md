@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 15:19:52**
+As of **2024-07-09 15:37:36**
 
 ## Newspaper Stats
 
-*Scraped **34,395** Articles*
+*Scraped **34,396** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 3,948
 tamilmirrorlk | 4,090
 dailymirrorlk | 4,733
 virakesarilk | 5,371
-adaderanasinhalalk | 5,724
+adaderanasinhalalk | 5,725
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,395 (100.0%) of 34,395 articles have been extended.
+34,395 (100.0%) of 34,396 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### ක්ලබ් වසන්ත ඝාතනයේ විමර්ශන ගැන පොලිස්පති පැහැදිලි කරයි
+
+*2024-07-09 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198638) · `si`
+
+සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශන පිළිබඳව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අද (09) අදහස් පළ කළේය.
+
+ක්ලබ් වසන්ත ඊයේ (08) උදෑසන අතුරුගිරියේ පිහිටි ටැටූ මධ්‍යස්ථානයක් තුළ සිදුවූ වෙඩි තැබීමකින් ජීවිතක්ෂයට පත්වුණි.
+
+මෙහෙයුම ඩුබායීහී සැඟව සිටින ලොකු පැටී හා ගොනා කෝවිලේ ශාන්ත නමැති අපරාධකරුවන් දෙදෙනා සෘජුවම එක්වී සැලසුම් කර ඇති බව පොලීසිය අනාවරණය කරගෙන තිබේ.
+
+"දැනට සිදුවී තිබෙන විමර්ශන අනුව එම අපරාධය කළ අය සම්බන්ධයෙන් තොරතුරු රැසක් අනාවරණය කරගෙන තිබෙනවා. එවැනි අපරාධයකට පෙළඹුණේ කාගේ අවශ්‍යතාවකට ද ? හේතුව  කුමක්ද ? යන්න පිළිබඳ විමර්ශනවල අවධානය යොමුවී තිබෙනවා."
+
+"කෙටි කාලයක් තුළ මෙම අපරාධය විසඳා අපරාධකරුවන් නීතියේ රැහැනට හසුකර ගැනීමට හැකිවනු ඇති බවට විශ්වාසයි."
+
+"දීප ව්‍යාප්තව මත්ද්‍රව්‍ය හා පාතාලය මැඩලීමේ වැඩසටහනක් ක්‍රියාත්මක කර තිබෙන්නේ."
+
+"එක දවසට හත් අට පොළක වෙඩි. මෙලෙස ස්වයංක්‍රීය අවි භාවිත කරලා අපරාධයක් සිදුවුණේ මාස දෙකහමාරකට වගේ පසුව. තවමත් නීතිවිරෝධී ගිනි අවි සමාජය තුළ සංසරණය වනවා."
+
+...
+
+[Data](articles/8457e437.json)
+
+---
 
 ### Indian army attacked by Pakistani militan
 
@@ -2311,27 +2335,5 @@ Five leading Sri Lankan maritime service providers recently showcased the nation
 [Data](articles/adb18aea.json)
 
 [Extended Data](ext_articles/adb18aea.ext.json)
-
----
-
-### Lion Brewery commended at Presidential Environment Awards
-
-*2024-07-08 22:42:00* · [`islandlk`](http://island.lk/lion-brewery-commended-at-presidential-environment-awards/) · `en`
-
-In recognition of its environmental stewardship, Lion Brewery (Ceylon) PLC was recognized at the Presidential Environment Awards 2024 with a Silver Award in the Food and Beverage category.
-
-Lion Brewery operations are governed through an Integrated Management System, built on the global ISO standards platform comprising, ISO 22000:2018, (Food Safety) ISO 14001:2015 (Environment), ISO45001:2018 (Occupational Health and Safety) and ISO 27001: 2013 (Information Security). Lion has also recently been recommended for certification for ISO 50001:2018 which is the energy management system and one of the materialities for the brewery under its ESG framework.
-
-LOLC Technologies unveils Sri Lanka’s first LLm-based chatbot for banking and financial services
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/c3935f1a.json)
-
-[Extended Data](ext_articles/c3935f1a.ext.json)
 
 ---

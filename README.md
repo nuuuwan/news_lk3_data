@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 21:54:50**
+As of **2024-07-09 22:08:15**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 5,737
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,451 (100.0%) of 34,454 articles have been extended.
+34,454 (100.0%) of 34,454 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### දුම්රිය වර්ජනයක්
+### Railway strike
 
 *2024-07-09 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198651) · `si`
 
-උසස්වීම් ලබාදීනොදීම ඇතුළු ඉල්ලීම් කිහිපයක් හේතුවෙන් අද (09) මධ්‍යම රාත්‍රියේ සිට වැඩවර්ජනයක් ආරම්භ කිරීමට දුම්රිය ස්ථානාධිපති සංගමය තීරණය කර තිබේ.
+A nationwide railway strike began last night due to 14 unresolved issues, causing significant disruption for passengers. The Railway Station Association cancelled all trains scheduled to run after midday. In response, the Railways Department announced the cancellation of mail trains and plans to operate office trains. The Ministry of Transport has offered support for ticketing and declared railway services as essential, threatening disciplinary action for non-compliance.
 
-මේ හේතුවෙන් අද පස්වරුවේ සිය ගමනාගමන පහසුකම් ලබාගැනීම සඳහා පැමිණි මගීන් පත්වූයේ දැඩි අපහසුතාවකටය.
+🟩
 
-නියමිත පරිදි උසස් වීම් ලබානොදීම ඇතුළු කරුණු 14 ක් මුල් කරගනිමින් දුම්රිය ස්ථානාධිපති සංගමය මෙම වැඩවර්ජනය ආරම්භ කළේ අද පස්වරුවේය.
+The Railway Station Association has decided to launch a strike since midnight today (09) due to several demands.
 
-දුම්රිය ස්ථානාධිපති සංගමය පැවසුවේ, රාත්‍රී 12න් පසු ධාවනය වීමට නියමිත දුම්රිය සියල්ල අවලංගු කළ බවය.
+The passengers who had come to get their transport facilities this afternoon were severely inconvenienced.
 
-මේ අතර දුම්රිය දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දුම්රිය ස්ථානාධිපතිවරුන් සහ දුම්රිය පාලකවරුන් විසින් ක්‍රියාත්මක කිරීමට නියමිත වෘත්තීය ක්‍රියාමාර්ගය හේතුවෙන් ධාවනයට සූදානම් කොට තිබූ තැපැල් දුම්රියන් අවලංගු කිරීමට පියවර ගත් බවය.
+The Railway Station Association (OIC) launched the strike on 14 issues, including the due date.
 
-මේ අතර හෙට දින (10) ධාවනයවීමට නියමිත කාර්යාල දුම්රිය කිහිපයක් අවශ්‍ය නිලධාරින් යොදවා ධාවනයේ යෙදවීමට කටයුතු සැලසුම් කරමින් පවති බවද පැවසීය.
+The Railway Station Association said that the train to be running after 12 pm was canceled.
+
+Meanwhile, the Railways Department states that steps have been taken to cancel the mail trains that were prepared for running due to the trade union action.
+
+Meanwhile, several office trains will be planned to use the necessary officers to use the necessary officers.
+
+It is reported that the Ministry of Transport has provided facilities to facilitate traffic ticket to the train ticket to transport transport facilities from the Sri Lankan Testing Ticketing tomorrow (10).
 
 ...
 
 [Data](articles/484fc731.json)
+
+[Extended Data](ext_articles/484fc731.ext.json)
 
 ---
 
@@ -65,6 +73,8 @@ As a result, several trains including the night mail trains to and from Colombo 
 ◼️
 
 [Data](articles/83267a86.json)
+
+[Extended Data](ext_articles/83267a86.ext.json)
 
 ---
 
@@ -362,19 +372,25 @@ There, Club Wasantha had joined the plate oil lamp with his wife.
 
 ---
 
-### වැඩවර්ජනය මධ්‍යයේ විශ්‍රාම වැටුප් දීමනාවත් දුන්නා
+### The strike also gave the pension allowance
 
 *2024-07-09 18:56:30* · [`adalk`](https://www.ada.lk/breaking_news/වැඩවර්ජනය-මධ්‍යයේ-විශ්‍රාම-වැටුප්-දීමනාවත්-දුන්නා/11-410699) · `si`
 
-රාජ්‍ය අංශයේ ඇතැම් පිරිසක් වැඩ වර්ජනයක නිරතව සිටියද, ලියාපදිංචි විශ්‍රාමිකයින් හත්ලක්ෂ අටදහස් දෙසීය තිස් එකකට (708,231) ජුලි මාසයේ 10 වන දිනට ගෙවීමට නියමිත විශ්‍රාම වැටුප් දීමනාව අද (09) දින බැංකු වෙත නිදහස් කිරීමට කටයුතු කළ බව විශ්‍රාම වැටුප් දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් ජගත් ඩී. ඩයස් මහතා පැවසීය.
+Despite strikes, the Pension Department released Rs. 28.5 billion to banks and the postal department on July 10, ensuring timely pension allowances for 99.5% of recipients.
 
-ඒ අනුව රුපියල් බිලියන 28.5ක මුදල් රාජ්‍ය හා පෞද්ගලික බැංකු 24කට සහ තැපැල් දෙපාර්තමේන්තුව වෙත නිදහස් කළ බව අධ්‍යක්ෂ ජනරාල්වරයා සඳහන් කළේය.
+🟩
 
-මේ සමඟ 99.5% ක පමණ පිරිසකට කිසිඳු ප්‍රමාදයකින් තොරව අදාළ දිනය වන ජූලි 10වන දින විශ්‍රාම වැටුප් දීමනාව හිමිවනු ඇති අතර, ප්‍රාදේශීය ලේකම් කාර්යාල ජූලි 08 සහ 09 දිනයන්හි සිය සේවා රාජකාරී සිදු නොකළ හෙයින් 13,000ක පමණ ඉතා සුළු පිරිසකට විශ්‍රාම වැටුප් දීමනාව ජුලි 11 වන දින හිමිවනු ඇති බව ද විශ්‍රාම වැටුප් දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල්වරයා වැඩිදුරටත් සඳහන් කළේය.
+Although some public sector engaged in strike, the Director General of Pensions Department has been released today to the banks today (09) to the banks in July 10 (09. Mr. Dias said.
+
+Accordingly, Rs. 28.5 billion was released to 24 public and private banks and the postal department, the Director General said.
+
+The pension allowance will be paid on July 10, without any delay in 99.5% of the delay in 99.5%.The Director General of the Department of Pensions added that it will be possessed.
 
 ◼️
 
 [Data](articles/f6b0fc33.json)
+
+[Extended Data](ext_articles/f6b0fc33.ext.json)
 
 ---
 

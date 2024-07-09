@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 00:07:34**
+As of **2024-07-10 00:19:47**
 
 ## Newspaper Stats
 
@@ -1284,7 +1284,7 @@ It is reported that Prime Minister Modi joined the President last night.
 
 ---
 
-### Sri Lanka to bring in 14 previously untax sectors into direct tax net: state minister
+### Sri Lanka to bring in 14 previously untaxed sectors into direct tax net: state minister
 
 *2024-07-09 16:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-bring-in-14-previously-untax-sectors-into-direct-tax-net-state-minister-171420/) · `en`
 

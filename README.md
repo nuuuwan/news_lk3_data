@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 18:27:11**
+As of **2024-07-09 18:37:28**
 
 ## Newspaper Stats
 
-*Scraped **34,429** Articles*
+*Scraped **34,430** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,936
 economynextcom | 2,028
 dailyftlk | 2,146
-adalk | 3,093
+adalk | 3,094
 adaderanalk | 3,954
 tamilmirrorlk | 4,095
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,731
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,418 (100.0%) of 34,429 articles have been extended.
+34,429 (100.0%) of 34,430 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Furthermore, he mentioned that due to service disruptions at Divisional Secretar
 
 [Data](articles/64ac02b4.json)
 
+[Extended Data](ext_articles/64ac02b4.ext.json)
+
 ---
 
 ### Sri Lanka Telecom Amendment Bill passed in Parliament
@@ -58,107 +60,167 @@ The Sri Lanka Telecommunications (Amendment) Bill was passed in Parliament with 
 
 [Data](articles/bc80c4dd.json)
 
+[Extended Data](ext_articles/bc80c4dd.ext.json)
+
 ---
 
-### විදුලි සංදේශ සංශෝධන පනත් කෙටුම්පත සම්මත වෙයි
+### Telecommunications Amendment Bill passed
 
 *2024-07-09 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198645) · `si`
 
-ශ්‍රී ලංකා විදුලි සංදේශ (සංශෝධන) පනත් කෙටුම්පත සංශෝධන සහිතව අද (09) පාර්ලිමේන්තුවේදී ඡන්ද විමසීමකින් තොරව සම්මත විය.
+The Telecommunications (Amendment) Bill, introduced by the Minister of Technology, was passed in Sri Lanka's parliament after 28 years, aiming to amend the Sri Lanka Telecommunication Act No. 25 of 1991. This update seeks to enhance consumer protection and competition within the telecom sector.
 
-පනත් කෙටුම්පත දෙවනවර කියවීමේ විවාදයෙන් අනතුරුව කාරක සභා අවස්ථාවේදී ඊට සංශෝධන එක් කෙරුණි.
+🟩
 
-1991 අංක 25 දරන ශ්‍රී ලංකා විදුලි සංදේශ පනත සංශෝධනය සඳහා 2024 මැයි 10 දින තාක්ෂණ අමාත්‍යවරයා විසින් මෙම පනත් කෙටුම්පත පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලද අතර වසර 28කට පසුව මෙම පනත සංශෝධනය සිදු කිරීම සිදුවිය.
+The Telecommunications (Amendment) Bill was passed in parliament today with amendments today (09) with amendments.
 
-ලොව පවතින පිළිගත් ප්‍රමිතීන්ට අනුගතව විදුලි සංදේශ ක්ෂේත්‍රයේ වඩාත් තරඟකාරී වෙළෙඳපොළක් තුළ පාරිභෝගිකයාට වඩාත් සාධාරණයක් ඉටු කිරීම පිණිස අවශ්‍ය නියාමනය සඳහා ඉඩ ප්‍රස්ථාව මෙම සංශෝධනය මගින් සලසා දී ඇති බව පාර්ලිමේන්තු සන්නිවේදන අංශය පෙන්වා දෙයි.
+After reading the Second Reading debate, the amendments were added to the amendments.
+
+The Bill, the Minister of Technology was presented to the Parliament for the amendment of the Sri Lanka Telecommunication Act No. 25 of 1991 and amended this Act after 28 years.
+
+The Parliamentary Communication Unit shows that this amendment has provided the opportunity to regulate the necessary opportunities for the customer in a competitive market in the telecommunications industry in a competitive market in the telecommunications industry.
 
 ◼️
 
 [Data](articles/9d43f50d.json)
 
+[Extended Data](ext_articles/9d43f50d.ext.json)
+
 ---
 
-### பாலாவின் 'வணங்கான்' பட முன்னோட்டம் வரவேற்பை பெறுமா..?
+### Will Bala's 'Wanankan' film previews ..?
 
 *2024-07-09 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188063) · `ta`
 
-கடினமாக போராடி பான் இந்திய நட்சத்திர நடிகர் என்ற அந்தஸ்தை எட்டிப் பிடித்திருக்கும் நடிகர் அருண் விஜய் முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'வணங்கான்' திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+"Vanangan," directed by Bala, stars Arun Vijay, resembling Suriya in physique and mannerism, alongside Roshini Prakash, Samudrakani, Mishkin, Arul Das, Brinda Sarathi, and Shanmugarajan. The film, produced by Suresh Kamakshi under V House Productions, has garnered over a million views for its preview, sparking discussions about Bala's direction and Arun Vijay's performance.
 
-இயக்குநர் பாலா இயக்கத்தில் உருவாகி இருக்கும் 'வணங்கான்' எனும் திரைப்படத்தில் அருண் விஜய், ரோஷினி பிரகாஷ், சமுத்திரக்கனி, மிஷ்கின், அருள் தாஸ், பிருந்தா சாரதி, சண்முகராஜன், மை. பா. நாராயணன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஆர். பி. குரு தேவ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜீ. வி. பிரகாஷ் குமார் இசையமைத்திருக்கிறார்.
+🟩
 
-எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை வி ஹவுஸ் புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் சுரேஷ் காமாட்சி தயாரித்திருக்கிறார்.
+The preview of the film 'Vanangan', which is playing the role of actor Arun Vijay, who has been fighting hard and reaching the status of Ban Indian star actor.
 
-ரசிகர்களின் குறிப்பாக சூர்யாவின் ரசிகர்களின் பெரும் எதிர்பார்ப்பில் இருக்கும் இந்த திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+Arun Vijay, Roshini Prakash, Samudrakani, Mishkin, Arul Das, Brinda Sarathi, Shanmugarajan. Pa. Many people including Narayanan. R. B.. Guru Dev is a cinematography by the film.. V.. Prakash Kumar has composed the music.
 
-...
+The film is being produced as an exercise enterter and produced by producer Suresh Kamakshi on behalf of V House Productions.
+
+The preview of the film has been released, especially the fans of Surya's fans.
+
+Fans are posting on the Internet that the director Bala has no new inventory, as Arun Vijay's body, pronunciation, and appearance, starring Sion Vikram's body, pronunciation, and appearance, have been shot in Bala.
+
+In the meantime, the preview has been visited by more than a million spectators within a short time of release.
+
+◼️
 
 [Data](articles/d0710f1e.json)
 
+[Extended Data](ext_articles/d0710f1e.ext.json)
+
 ---
 
-### பரத் நடிக்கும் 'காளிதாஸ் 2' படத் தொடக்க விழா
+### ජුලි 08 දා 9දා වැඩට ආපු රාජ්‍ය සේවකයන්ට විශේෂ වැටුප් වර්ධකයක්
+
+*2024-07-09 17:52:39* · [`adalk`](https://www.ada.lk/breaking_news/ජුලි-08-දා-9දා-වැඩට-ආපු-රාජ්‍ය-සේවකයන්ට-විශේෂ-වැටුප්-වර්ධකයක්/11-410695) · `si`
+
+රටේ පවතින ආර්ථික තත්ත්වය නිසියාකාරව අවබෝධ කරගෙන ජනතාව අපහසුතාවට පත් නොවන ආකාරයට කටයුතු කරමින් 2024 ජූලි 08, 09 දෙදිනම සේවයට වාර්තා කළ විධායක සේවා ගණයට අයත් නොවන සියලු රාජ්‍ය නිලධාරීන්ට විශේෂ වැටුප් වර්ධකයක් ලබා දීමටත්, ඔවුන් සියලුම දෙනා වෙත ඉදිරි උසස්වීම් සඳහා යොදාගත හැකි වන පරිදි විශේෂ ප්‍රශංසා සහතිකයක් නිකුත් කිරීමටත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් කළ යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+
+මේ සම්බන්ධව සියලුම අමාත්‍යාංශ ලේකම්වරුන්, දෙපාර්තමේන්තු ප්‍රධානීන් හා පළාත් ප්‍රධාන ලේකම්වරුන් දැනුවත් කිරීමටත්, ඊට අදාළ චක්‍රලේඛ නිකුත් කිරීමටත් කටයුතු කරන ලෙස රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශයේ ලේකම් වෙත උපදෙස් දී ඇත.
+
+රාජ්‍ය සේවයේ විධායක සේවා ගණයට අයත් නොවන ඇතැම් සේවාවන්වල වෘත්තීය සමිති කිහිපයක් විසින් 2024 ජූලි මස 08 හා 09 දෙදින අසනීප නිවාඩු දැමීමේ හා වැඩ වර්ජනය කිරීමේ වෘත්තීය ක්‍රියාමාර්ග ප්‍රකාශයට පත් කරන ලදී.
+
+...
+
+[Data](articles/16fdd4d6.json)
+
+---
+
+### Bharat starring 'Kalidas 2'
 
 *2024-07-09 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188060) · `ta`
 
-சந்தை மதிப்பு கொண்ட நடிகராக திகழும் பரத் கதையின் நாயகர்களில் ஒருவராக நடிக்கும் 'காளிதாஸ் 2 ' திரைப்படத்தின் தொடக்க விழா சென்னையில் பிரம்மாண்டமாக நடைபெற்றது. இவ்விழாவில் தமிழ் திரையுலகத்தை சேர்ந்த முன்னணி நட்சத்திர நடிகர் சிவகார்த்திகேயன் உள்ளிட்ட ஏராளமான திரையுலக பிரபலங்கள் பங்கு பற்றி படக்குழுவினருக்கு வாழ்த்து தெரிவித்தனர்.
+"Kalidas 2," featuring Sivakarthikeyan and Ajay Karthik, premiered in Chennai. Directed by Sri Senthil, it's produced by Five Star Senthil and Yogeswaran under Sky Pictures. The music is by Sam CS, and shooting starts soon with a senior Tamil actress returning to the screen.
 
-'காளிதாஸ்' படத்தை இயக்கிய இயக்குநர் ஸ்ரீ செந்தில் இயக்கத்தில் உருவாகும் 'காளிதாஸ் 2' திரைப்படத்தில் பரத் மற்றும் அஜய் கார்த்திக் கதையின் நாயகர்களாக நடிக்கிறார்கள்.  சுரேஷ் பாலா ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு சாம் சி எஸ் இசையமைக்கிறார்.
+🟩
 
-எக்சன் திரில்லர் ஜேனரிலான இந்த திரைப்படத்தை ஸ்கை பிக்சர்ஸ் எனும் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் 'ஃபைவ் ஸ்டார்' செந்தில் மற்றும் யோகேஸ்வரன் ஆகியோர் இணைந்து தயாரிக்கிறார்கள்.
+The inauguration of the 'Kalidas 2', which plays one of the heroes of Bharat story, was held in Chennai in Chennai.. A large number of filmmakers, including the leading star actor Sivakarthikeyan from the Tamil film industry, congratulated the film crew on the participation of the film.
 
-இந்தத் திரைப்படத்தின் படப்பிடிப்பு பணிகள் விரைவில் தொடங்கும் என்றும், தமிழ் சினிமாவின் மூத்த நடிகைகளில் ஒருவர் இப்படத்தின் மூலம் ரீ என்ட்ரி ஆகிறார் என்றும் படக்குழுவினர் தெரிவித்துள்ளனர்.
+Bharat and Ajay Karthik are the heroes of the story of 'Kalidas 2' directed by director Sri Senthil, directed by 'Kalidas'.Suresh Bala is composed by Sam CS for the film.
+
+The film is co -produced by producers 'Five Star' Senthil and Yogeswaran on behalf of Sky Pictures.
+
+The film crew has said that the shooting of the film will begin soon and one of the senior actresses of Tamil cinema is re -entry.
 
 ◼️
 
 [Data](articles/2aee2c02.json)
 
+[Extended Data](ext_articles/2aee2c02.ext.json)
+
 ---
 
-### நடிகர் ராஜு ஜெயமோகன் நடிக்கும் 'பன் பட்டர் ஜாம்' பட பர்ஸ்ட் லுக் வெளியீடு
+### Actor Raju Jayamohan starrer 'Ban Butter Jam' movie Burst Look release
 
 *2024-07-09 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188071) · `ta`
 
-பிக் பொஸ் மூலம் பிரபலமான நடிகர் ராஜூ ஜெயமோகன் முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'பன் பட்டர் ஜாம்' எனும் திரைப்படத்தின் பர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது.‌
+"Raju Jayamohan stars in 'Ban Butter Jam,' with a burst look reveal. Directed by Raghav Mirdhat, it features Adia Prasad, Pavya Tarika, Charlie, Saranya Ponvannan, and more. Cinematography by Niwas K, music by Prasanna, and produced by Suresh Subramanian. Shooting nears completion, with post-production ongoing."
 
-'காலங்களில் அவள் வசந்தம்' எனும் திரைப்படத்தை இயக்கிய ராகவ் மிர்தத் இயக்கத்தில் உருவாகி இருக்கும் 'பன் பட்டர் ஜாம்' எனும் திரைப்படத்தில் ராஜு ஜெயமோகன், ஆதியா பிரசாத், பவ்யா தரிகா, சார்லி, சரண்யா பொன்வண்ணன், தேவதர்ஷினி, மைக்கேல் தங்கதுரை, வி ஜே பப்பு உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-பாபு குமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு நிவாஸ் கே. பிரசன்னா இசையமைத்திருக்கிறார். இந்தத் திரைப்படத்தை ரெயின் ஆஃப் ஆரோஸ் என்டர்டெய்ன்மென்ட் நிறுவனம் சார்பில் தயாரிப்பாளர் சுரேஷ் சுப்பிரமணியன் தயாரித்திருக்கிறார்.
+The first look of 'Ban Butter Jam' has been released by actor Raju Jayamohan, the famous actor Raju Jayamohan.
 
-இப்படத்தின் படப்பிடிப்பு பணிகள் நிறைவடைந்து தற்போது படப்பிடிப்புக்கு பிந்தைய தொழில்நுட்ப பணிகள் விறுவிறுப்பாக நடைபெற்று வருகிறது. இந்நிலையில் தற்போது இப்படத்தின் பர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது.
+Raju Jayamohan, Adia Prasad, Pavya Tarika, Charlie, Saranya Ponvannan, Devadarshini, Michael Thangadurai, J J Pappu, directed by Raghav Mirdhat, directed by Raghav Mirdhat, directed by 'Vasantham in times'.
 
-...
+Niwas K is the cinematography by Babu Kumar. Prasanna has composed music. The film was produced by producer Suresh Subramanian on behalf of the Rain of Auros Entertainment Company.
+
+The shooting of the film is nearing completion and the post -shooting technical work is underway.. In this case, the film's Burst Look has been released.
+
+The hero of the story is designed to be hungry as the hero of the story on the dilapidated battlefield, and that this poster is created by the elegant labor of artists, because he realizes that the happiness and embarrassment of life should not be enjoyed, and that the poster is not created in digital.
+
+◼️
 
 [Data](articles/ec12f4e5.json)
 
+[Extended Data](ext_articles/ec12f4e5.ext.json)
+
 ---
 
-### 'கான்ஸ்டபிள் கந்தன்' ஆகும் யோகி பாபு
+### Yogi Babu is 'Constable Kandan'
 
 *2024-07-09 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188056) · `ta`
 
-தமிழ் திரையுலகின் முன்னணி நகைச்சுவை நட்சத்திர நடிகரான யோகி பாபு கதையின் நாயகனாக நடிக்கும் புதிய திரைப்படத்திற்கு 'கான்ஸ்டபிள் கந்தன்' என பெயரிடப்பட்டு, அதன் தொடக்க விழா உலகளாவிய ஆன்மீக தலமான திருவண்ணாமலையில் சிறப்பாக நடைபெற்றது.
+Yogi Babu stars in "Constable Kandan," a Tamil film about a police officer directed by Bhupala Venkatesan. The premiere was in Thiruvannamalai, and discussions are underway for a notable actor to join the cast. More details about the actors and production team will be announced soon. The film is produced by Shankar Pictures.
 
-அறிமுக இயக்குநர் பூபால வெங்கடேசன் இயக்கத்தில் உருவாகும் 'கான்ஸ்டபிள் கந்தன்' எனும் திரைப்படத்தில் யோகி பாபு முதன்மையான கதாபாத்திரத்தில் நடிக்கிறார். இவருடன் அழுத்தமான வேடத்தில் நடிக்க முன்னணி நட்சத்திர நடிகர் ஒருவரிடம் படக்குழுவினர் பேச்சு வார்த்தை நடத்தி வருகிறார்கள்.
+🟩
 
-மேலும், இப்படத்தில் நடிக்கும் நடிகர்கள் நடிகைகள் மற்றும் தொழில்நுட்ப கலைஞர்கள் பற்றிய விவரங்கள் விரைவில் அதிகாரப்பூர்வமாக வெளியிடப்படும் என எதிர்பார்க்கப்படுகிறது. இந்தத் திரைப்படத்தை ஷங்கர் பிக்சர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் டி ஷங்கர் தயாரிக்கிறார்.
+The new movie starring Yogi Babu, the leading comedian of the Tamil film industry, is titled 'Constable Kandan' and its inauguration was held at Thiruvannamalai, a worldwide spiritual place.
 
-படத்தைப் பற்றி இயக்குநர் பேசுகையில், '' சக மனிதர்கள் மீது அளவற்ற கருணை உள்ளம் கொண்ட காவலர் ஒருவரின் வாழ்வியலை உணர்வுபூர்வமாக விவரிக்கும் கதையாக 'கான்ஸ்டபிள் கந்தன்' உருவாகி இருக்கிறார். '' என்றார்.
+Yogi Babu plays the lead role in the film 'Constable Kandan' directed by debutant director Bhupala Venkatesan. The film crew is in talks with a leading star actor to play a strong role.
+
+In addition, the details of the actors and technicians who are acting in the film are expected to be officially released soon.. The film is being produced by Shankar Pictures, producer De Shankar.
+
+Commenting on the film, the director said, “Constable Kandan has emerged as a story that consciously describes the life of a guardian of a guards who are unlimited to fellow humans.. '' said.
 
 ◼️
 
 [Data](articles/fac73edd.json)
 
+[Extended Data](ext_articles/fac73edd.ext.json)
+
 ---
 
-### பிரதமர் மோடியின் ரஷ்ய விஜயம் ஏற்படுத்தும், புவிசார் அரசியல் தாக்கங்கள்
+### PM Modi's visit to Russia, geo -political impacts
 
 *2024-07-09 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/188069) · `ta`
 
-"1965 ஆம் ஆண்டில் காஷ்மீர் மீதான போரை முடிவுக்குக் கொண்டுவருவதற்காக இந்தியாவுக்கும் பாகிஸ்தானுக்கும் இடையே போர் நிறுத்த ஒப்பந்தத்திற்கு மத்தியஸ்தம் செய்ய சோவியத் யூனியன் உதவியது. பின்னர், பாகிஸ்தானுடனான இந்தியாவின் போரின் போது, 1971 ஆண்டில் டிசம்பர் மாதம் சோவியத் யூனியன் தனது வீட்டோ அதிகாரத்தை பயன்படுத்தி ஐநா பாதுகாப்பு பேரவையில் இந்தியாவை ஆதரித்தது. ஆனால் பாகிஸ்தானுக்கு ஆதரவாக விமானம் தாங்கி கப்பலை அமெரிக்கா வங்காள விரிகுடாவிற்கு அனுப்பியது "
+PM Modi's visit to Russia highlights historical ties, from USSR's 1971 UN veto for India against Pakistan to current strategic partnerships.
+
+🟩
+
+“In 1965. Later, during India's war with Pakistan, in December 1971, the Soviet Union used its veto power to support India at the UN Security Council.. But the United States sent the aircraft carrier to the Bay of Bengal in favor of Pakistan "
 
 ◼️
 
 [Data](articles/07c606d8.json)
+
+[Extended Data](ext_articles/07c606d8.ext.json)
 
 ---
 
@@ -188,19 +250,25 @@ This time the GCE A / L examination will be held from November 25 to December 20
 
 ---
 
-### பணி புறக்கணிப்புச் செய்யாமல் கடமைக்கு சமூமளித்த அரச ஊழியர்களுக்கு கௌரவம்!
+### Hon.
 
 *2024-07-09 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/188064) · `ta`
 
-நாட்டின் தற்போதைய பொருளாதார நிலைமையை சரியாகப் புரிந்துகொண்டு, மக்களுக்கு அசௌகரியம் ஏற்படாத வகையில் செயற்பட்டு, 2024 ஆம் ஆண்டு ஜூலை 08 மற்றும் 09 ஆம் திகதிகளில் கடமைக்கு சமூகமளித்த  நிறைவேற்றுத் தரம் அல்லாத அனைத்து  அரச உத்தியோகத்தர்களுக்கும் விசேட சம்பள உயர்வொன்றை வழங்குவதற்கும், அவர்கள் அனைவருக்கும் எதிர்கால பதவி உயர்வுகளுக்குப் பயன்படுத்தும்  வகையில் விசேட பாராட்டுச் சான்றிதழொன்றை வழங்குவதற்கும் ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் இன்று (09) முன்வைக்கப்பட்ட பரிந்துரைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+In response to the economic challenges, the government has approved a special salary increase and certificates for non-government officials working on July 8 and 9, 2024. This decision follows the Cabinet's approval and aims to recognize their efforts during critical times. However, due to financial constraints, the government cannot extend this benefit to all public servants without imposing additional taxes. Despite the limitations, the government acknowledges the importance of rewarding non-government officials for their dedication while maintaining fiscal responsibility.
 
-இது தொடர்பாக அனைத்து அமைச்சின் செயலாளர்கள், திணைக்களத் தலைவர்கள் மற்றும் மாகாண பிரதான செயலாளர்களுக்கு அறிவிக்குமாறும் அது தொடர்பிலான சுற்றுநிருபம் வெளியிட நடவடிக்கை எடுக்குமாறும் பொது நிர்வாக, உள்நாட்டலுவல்கள், மாகாண மற்றும் உள்ளூராட்சி அமைச்சின் செயலாளருக்கு பணிப்புரை வழங்கப்பட்டுள்ளது.
+🟩
 
-அரச சேவையின் நிறைவேற்றுத் தரம் அல்லாத சில சேவைகளில் உள்ள ஒரு சில தொழிற்சங்கங்கள் 2024 ஜூலை 08 மற்றும் 09  திகதிகளில் சுகயீன விடுமுறை மற்றும் வேலைநிறுத்தத் தொழிற்சங்க  நடவடிக்கைகளை அறிவித்திருந்தன.
+Today, the President of the country today understands the current economic situation, and to provide a special salary increase for all non -government officials who have been assigned to the duties on July 08 and 09, 2024, and to provide a special certificate for future promotions.(09) The Cabinet has approved the proposed recommendation.
+
+The Secretary to the Ministry of Public Administration, Home Affairs, Provincial and Local Government has been given the announcement to all the Secretaries, Department Heads and Provincial Secretaries and Provincial Secretaries.
+
+A few trade unions in some non -governmental services of the public service have announced sick holidays and strike union activities on July 08 and 09.
 
 ...
 
 [Data](articles/834ba1c0.json)
+
+[Extended Data](ext_articles/834ba1c0.ext.json)
 
 ---
 
@@ -1050,21 +1118,27 @@ Ukrainian officials said that the attack on Okmatit, the main children's hospita
 
 ---
 
-### බස්නාහිර පුරප්පාඩුවලට වඩා උපාධිධාරීන් වැඩියි
+### There are more graduates than the vaccine of the Western
 
 *2024-07-09 12:56:21* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-පුරප්පාඩුවලට-වඩා-උපාධිධාරීන්-වැඩියි/11-410691) · `si`
 
-උපාධිධාරීන්ට රැකියා ලබාදීමට විරුද්ධව උසාවි ගිය පිරිස් නිසාවෙන් පාසල්වල ගුරු හිඟයක් නිර්මාණය වී තිබෙන බව ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+In the Western Province, a teacher shortage is exacerbated by court cases against graduate recruitment, affecting education quality. Minister Prasanna Ranatunga highlights this issue, emphasizing the need for solutions to ensure adequate teaching staff, especially for unemployed graduates.
 
-අමාත්‍යවරයා අවධාරණය කරන්නේ බස්නාහිර පළාතේ පාසල්වල විශාල වශයෙන් ගුරු හිඟයක් පවතින බවයි.
+🟩
 
-ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක, අමාත්‍ය ප්‍රසන්න රණතුංග මහතා මේ බව සඳහන් කළේ රැකිය විරහිත උපාධිධාරීන් සම්බන්ධයෙන්  අද (9) පාර්ලිමේන්තුවේදී ප්‍රකාශයක් කරමිනි. කතානායක, මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තුව රැස්විය.
+Chief Government Whip Prasanna Ranatunga, Minister of Government Prasanna Ranatunga says that a shortage of teachers in schools has created a shortage of teachers in schools due to courts.
 
-"උපාධිධාරීන්ගේ ප්‍රශ්නය පිළිබඳව පාර්ලිමේන්තුවේ දිගින් දිගටම කතා කරනවා. උපාධිධාරීන් බඳවා ගැනීමට එරෙහිව යම් යම් කණ්ඩායම් පසුගිය කාලේ උසාවි ගියා. පාසල්වල ගුරු හිඟයක් ඇති වුණේ ඒ නිසයි. මේ ගුරු හිඟය වැඩියෙන්ම තියෙන්නේ බස්නාහිර පළාතේ. ගුරු විභාගයක් පවත්වල බස්නාහිර පළාතට ගුරුවරුන් බඳවා ගත්තත් විෂයානු බද්ධව බඳවාගැනීම් සිදුකෙරෙන කොට සමහරුන් අත්හැරිලා තිබෙනවා.
+The Minister emphasizes that there is a large shortage of teachers in the Western Province.
+
+Chief Government Whip, Minister Prasanna Ranatunga was speaking at a statement regarding unemployed graduates today (9). Parliament was held under the patronage of Speaker, Mahinda Yapa Abeywardena.
+
+"Parliament continues to talk about graduates' question. Some groups have passed courts over the recruitment of graduates. That is why there was a shortage of teachers in schools. The shortage of teachers is most common in the Western Province. Although they have been recruited to the Western Province, some have left the subject.
 
 ...
 
 [Data](articles/224814d8.json)
+
+[Extended Data](ext_articles/224814d8.ext.json)
 
 ---
 
@@ -1128,17 +1202,31 @@ In the Negombo Educational Zone, the educational activities have been stalled in
 
 ---
 
-### පක්‍ෂී සහ උරග විශේෂ ජාවාරමක් නාවික හමුදාව හසුකර ගනියි
+### Navy caught a special racket of bird and reptile
 
 *2024-07-09 12:45:35* · [`adalk`](https://www.ada.lk/breaking_news/පක්‍ෂී-සහ-උරග-විශේෂ-ජාවාරමක්-නාවික-හමුදාව-හසුකර-ගනියි/11-410690) · `si`
 
-පක්‍ෂීන් සහ උරග විශේෂ කිහිපයකට අයත් සතුන් නීති විරෝධී ලෙස මුහුදු මාර්ගයෙන් ප්‍රවාහනය කල මෙරට බහුදින ධීවර යාත්‍රාවක් සමඟ සැකකරුවන් 05 ක් ශ්‍රී ලංකා වෙරළාරක්‍ෂක සුරක්‍ෂා නෞකාව යොදවා 2024 ජුලි මස 07 වන දින දකුණු මුහුදේදී අත් අඩංගුවට ගැනීමට ශ්‍රී ලංකා නාවික හමුදාව විසින් කටයුතු කෙරිණි.
+On July 7, 2024, the Sri Lanka Navy, acting under the Sri Lanka Coast Guard, intercepted a multi-day fishing vessel in the South Sea. The operation resulted in the arrest of four individuals aged 34 to 67, residents of Negombo and Kochchikade, for illegal possession of 13 rare species including a large tortoise and three parrots. These animals were believed to have been smuggled from abroad, potentially threatening Sri Lanka's ecosystem. The suspects and the vessel were turned over to the Hikkaduwa Department of Wildlife Conservation for further legal action.
 
-ශ්‍රී ලංකාවට අයත් මුහුද සහ වෙරළ කලාපය ඔස්සේ සිදුකෙරෙන නීති විරෝධී ජාවාරම් මැඩපැවැත්වීම සඳහා ශ්‍රී ලංකා නාවික හමුදාව සහ වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව නිරන්තර අවධියෙන් පසුවෙමින් මෙහෙයුම් සිදුකරනු ලබයි.
+🟩
+
+The Sri Lanka Navy was deployed by the Sri Lanka Coast Guard at the South Sea on July 07, 2024 July, 202.
+
+The Department of Sri Lanka Navy and the Coast Guard are carried out by the Sri Lanka Navy and the Coast Guard.
+
+Accordingly, the Navy Intelligence Assembly on birds and reptiles, the Sri Lanka Coast Guard Squadron was inspected in this operation in the South Sea in this operation. Steps were taken into custody with 13 rare trees, Talagingkk (01), a large tortbek (01) and three parments in the multi-day fishing vessel..
+
+The multi-day fishing vessel was brought to the Galle Harbor on the 8th of July night by the Coast Guard on 8th July on the 8th of July night.
+
+The suspects were identified as residents of Negombo and Kochchikade areas of the area aged 34 to 67 years old, who were arrested for fishing in Negombo.
+
+Steps were handed over to the Hikkaduwa Department of Wildlife Conservation for the next legal proceedings of multi-day fishing vessels and suspects.
 
 ...
 
 [Data](articles/048e9b5a.json)
+
+[Extended Data](ext_articles/048e9b5a.ext.json)
 
 ---
 
@@ -2325,29 +2413,5 @@ Sri Lanka’s current default was also linked to forex shortages that emerged wh
 [Data](articles/0ee1e53c.json)
 
 [Extended Data](ext_articles/0ee1e53c.ext.json)
-
----
-
-### Weather today
-
-*2024-07-09 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198617) · `si`
-
-Several closures expected in Western, Sabaragamuwa, and Northwestern provinces due to weather conditions. Thundershowers predicted in Ampara, Batticaloa, Trincomalee, Hambantota, and Moneragala districts. Strong winds possible, reaching 40-50 km/h. Public advised to prepare for potential wind and lightning hazards.
-
-🟩
-
-The Department of Meteorology says that several closure will occur in the Western, Sabaragamuwa and Northwestern provinces.
-
-Thundershowers will develop at several places in the Ampara and Batticaloa districts of Ampara and Batticaloa districts.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. The Department of Meteorology announces that 40-50 could cause strong winds.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/1b17b030.json)
-
-[Extended Data](ext_articles/1b17b030.ext.json)
 
 ---

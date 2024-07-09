@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 15:04:51**
+As of **2024-07-09 15:19:52**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,724
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,393 (100.0%) of 34,395 articles have been extended.
+34,395 (100.0%) of 34,395 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### පාකිස්තාන සටන්කාමීන්ගෙන් ඉන්දීය හමුදාවට ප්‍රහාරයක්
+### Indian army attacked by Pakistani militan
 
 *2024-07-09 14:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198637) · `si`
 
-කාශ්මීර් ප්‍රදේශයට එල්ලවූ ත්‍රස්ත ප්‍රහාරයකින් ඉන්දීය හමුදා සාමාජිකයින් 05 දෙනෙකු මියගොස් තිබේ.
+In a terror attack in Kashmir, five Indian Army personnel were killed. The incident occurred in the Himalayas, reportedly targeting this area. Suspected Pakistani militants carried out the assault.
 
-හිමාල කඳුකර ප්‍රදේශයේදී හමුදා රථ පෙළක් ඉලක්ක කර ගනිමින් ප්‍රහාරය එල්ල කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+🟩
 
-පාකිස්තාන සටන්කාමීන් යැයි සැකකෙරෙන පිරිසක් විසින් ප්‍රහාරය එල්ල කර ඇති බවට සැක කෙරෙන අතර ඉන්දීය ආරක්ෂක අංශ සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන ආරම්භ කර තිබේ.
+Five Indian Army members were killed in terror attacks on Kashmir.
+
+Foreign media reports that the attack targeted at the Himalayasa area.
+
+The attack has been identified as a group of people suspected to be Pakistani militants.
 
 ◼️
 
 [Data](articles/b4a1369b.json)
+
+[Extended Data](ext_articles/b4a1369b.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ On Friday (05), the Bribery Commission apprehended the two suspects inside the C
 ...
 
 [Data](articles/4227b887.json)
+
+[Extended Data](ext_articles/4227b887.ext.json)
 
 ---
 

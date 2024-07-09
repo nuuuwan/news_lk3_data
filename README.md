@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 22:35:31**
+As of **2024-07-09 22:53:53**
 
 ## Newspaper Stats
 
-*Scraped **34,457** Articles*
+*Scraped **34,458** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,936
 economynextcom | 2,028
 dailyftlk | 2,146
 adalk | 3,101
-adaderanalk | 3,957
+adaderanalk | 3,958
 tamilmirrorlk | 4,098
 dailymirrorlk | 4,733
 virakesarilk | 5,388
@@ -26,25 +26,45 @@ adaderanasinhalalk | 5,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,454 (100.0%) of 34,457 articles have been extended.
+34,457 (100.0%) of 34,458 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### තවත් වෙඩිතැබීමක්
+### Man shot dead in Kolonne
+
+*2024-07-09 22:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100406/man-shot-dead-in-kolonne) · `en`
+
+A 63-year-old man has reportedly been shot dead in the Kolonne area, a short while ago.
+
+Police said that two unidentified gunmen who arrived on a motorcycle have opened fire at the victim and fled.
+
+◼️
+
+[Data](articles/721d9b0a.json)
+
+---
+
+### Another shot
 
 *2024-07-09 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198652) · `si`
 
-යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙකු අද (09) රාත්‍රියේ සිදුකළ වෙඩිතැබීමකින් පුද්ගලයෙකු ජීවිතක්ෂයට පත්වී තිබේ.
+In Kolonnawa Road, two men on a motorbike were killed in a shooting incident. The victims, aged 63, were targeted late at night near the Rakwana road intersection.
 
-මෙම වෙඩිතැබීම සිදුකර ඇත්තේ කෑල්ල රක්වාන පාරේ කොලොන්න ප්‍රදේශයේදී ය.
+🟩
 
-වෙඩිතැබීමෙන් ඝාතනයට ලක්වී ඇත්තේ තේ වතු හිමියෙකු වන 63 හැවිරිදි පුද්ගලයෙකි.
+Two unidentified persons who came from a motorbike were shot dead at night.
+
+The shooting has been carried out in Kolonnawa Road on the Rakwana road.
+
+The shooting was a 63 year old man who was murdered.
 
 ◼️
 
 [Data](articles/c3a74a80.json)
+
+[Extended Data](ext_articles/c3a74a80.ext.json)
 
 ---
 
@@ -63,6 +83,8 @@ He highlighted that free transportation will be provided for the passengers who 
 ◼️
 
 [Data](articles/e33b2c9e.json)
+
+[Extended Data](ext_articles/e33b2c9e.ext.json)
 
 ---
 
@@ -332,21 +354,29 @@ Accordingly, about 99.5% of the pensioners will receive a pension allowance with
 
 ---
 
-### යළිත් වරක් ජනතාවගෙන් වරදක් සිදු වුවහොත් එය ආපසු හැරවිය නොහැකියි
+### If the people are wrong again, it cannot be reversed
 
 *2024-07-09 19:10:29* · [`adalk`](https://www.ada.lk/breaking_news/යළිත්-වරක්-ජනතාවගෙන්-වරදක්-සිදු-වුවහොත්-එය-ආපසු-හැරවිය-නොහැකියි/11-410702) · `si`
 
-මැතිවරණ ජයග්‍රහණය කිරීමට අපොහොසත් ඇතැම් පාර්ශ්ව වැඩවර්ජන ආරම්භ කරමින් රට අස්ථාවර කිරීමට කටයුතු කරමින් සිටින බව පාර්ලිමේන්තු මන්ත්‍රී වජිර අබේවර්ධන මහතා පැවසීය.
+MP Vajira Abeywardena warns against election losers causing instability. He emphasizes the importance of recognizing genuine leaders and highlights efforts to address constitutional weaknesses under President Ranil Wickremesinghe. The government aims to curb false financial claims by political parties through the Budget Office Act and strengthen the economy with the Economic Recovery Bill. Wickremesinghe's leadership, supported by all parties, focuses on stabilizing the economy with international assistance but faces challenges including foreign debt and setting a 5% growth target by 2027. The public is urged to identify and hold accountable those misleading them, emphasizing the gravity of making mistakes in leadership selection.
 
-බොරු පොරොන්දු ලබාදෙන කණ්ඩායම් කව්රුන් ද යන්න ජනතාව හඳුනාගත යුතු බවත් යළිත් වරක් ජනතාවගෙන් වරදක් සිදු වුවහොත් එය ආපසු හැරවිය නොහැකි බවත් ඒ මහතා අවධාරණය කළේය.
+🟩
 
-පාර්ලිමේන්තු මන්ත්‍රී වජිර අබේවර්ධන මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (09) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+The MP Vajira Abeywardena said that some parties incapable of winning the elections are being inflicted to destabilize strikes.
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ පාර්ලිමේන්තු මන්ත්‍රී වජිර අබේවර්ධන මහතා මෙසේද පැවසීය,
+He stressed that the people should recognize the people and the people again if the people were faced again.
+
+Parliamentarian Vajira Abeywardena said this at a press conference held at the President's Media Center today (09).
+
+Speaking further MP Vajira Abeywardena said,
+
+We should remember that every governments that came after independence were carried out for the country. But weaknesses were also held. President Ranil Wickremesinghe has taken steps to solve the weaknesses of the length of regimes at present anyway. One example is likely. The two verses 27, 28 of the Constitution, the principles and basic duties of direct duties. That is, the public can give rights. However, in any or 28, no matter what section 29, there is no legalization in section 29. It is also noted that no judicial statements have been achieved by any judicial statements or judiciary.
 
 ...
 
 [Data](articles/e28955cb.json)
+
+[Extended Data](ext_articles/e28955cb.ext.json)
 
 ---
 
@@ -2365,33 +2395,5 @@ The Gazette Notification in this regard was issued on 02.07.2024. It is in this 
 [Data](articles/65fbda52.json)
 
 [Extended Data](ext_articles/65fbda52.ext.json)
-
----
-
-### A woman arrested for digging jobs in America
-
-*2024-07-09 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198627) · `si`
-
-A woman from Sri Lanka was arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment for allegedly failing to provide promised jobs in America. She also faces complaints related to job promises in the Bogunawa and Bogaswewa areas. The suspect, who manages a prominent insurance company, was initially presented in the Vavuniya Magistrate's Court and will next appear in the Aluthkade Magistrate's Court.
-
-🟩
-
-A woman was arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment Bureau in the Vavuniya area.
-
-A resident of Gampaha said that he had not been able to get jobs in the Bogunawa and Bogaswewa said that he had not been able to provide jobs and had not been employed as promised.
-
-The Bureau had received 5 complaints against the suspect and the investigating officials had taken her to the woman's residence.
-
-According to the complaints, the Bureau's Special Investigation Division (Special Investigation Division) has filed a case against the woman.
-
-Bureau Officers said that she serves as manager of a well-known insurance company in the island.
-
-The suspect was produced before the Vavuniya Magistrate's Court on the 7th of July until July 12, and the suspect is to be produced before the Aluthkade Magistrate's Court on 12th July.
-
-◼️
-
-[Data](articles/f1490aa9.json)
-
-[Extended Data](ext_articles/f1490aa9.ext.json)
 
 ---

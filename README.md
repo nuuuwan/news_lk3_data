@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 11:19:50**
+As of **2024-07-09 11:35:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,715
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,357 (100.0%) of 34,358 articles have been extended.
+34,358 (100.0%) of 34,358 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1628,21 +1628,31 @@ Sri Lanka’s leading lifestyle platform ‘Pulse.lk’ has been presented with 
 
 ---
 
-### බිත්තරයට සියයට 18ක බද්දක්
+### 18 percent tax on the egg
 
 *2024-07-08 20:11:34* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තරයට-සියයට-18ක-බද්දක්/11-410683) · `si`
 
-මෙරට ඉතිහාසයේ පළමුවරට බිත්තර සඳහා රජය මගින් සියයට 18%  වැට් බද්දක් ක්‍රියාත්මක කිරීමෙන් දේශීය බිත්තර මිල  පාරිභෝගික ජනතාවට දරාගත නොහැකි ලෙස ඉහළ යා හැකි බව සමස්ත ලංකා  බිත්තර නිෂ්පාදකයින්ගේ සංගමයේ ලේකම්  රත්නසිරි අලහකෝන් මහතා  පවසයි .
+Ratnasiri Alahakoon, Secretary of the All Ceylon Egg Manufacturers' Association, announced the government's decision to impose an 18% VAT on eggs, affecting consumers and potentially endangering 5,000 jobs. This marks the first time in the country's history that such a tax has been applied to eggs, impacting both farmers and the poultry industry. Despite this, the government has not offered any concessions to support the local egg industry, leading to concerns about its future.
 
-මේ නිසා පාරිභෝගික ජනතාවට බිත්තරයක් අඩු මිලට ලබා ගැනීමට තිබූ අවස්ථාවද අහිමි කර ඇතැයි  ඔහු  කියා සිටි .
+🟩
 
-සතුන් 5000 ක් සිටින කුකුළු ගොවිපළකරුවන්ටද  මෙම  වැට්  බද්ධ  ක්‍රියාත්මක  කෙරෙන බවත් එවැනි කුකුළු ගොවිපළ පවත්වාගෙන යන ගොවියන් මෙම කර්මාන්තයෙන් සදහටම ඉවත්වීමේ අවදානමක් තිබෙන බවත් සංගමයේ ලේකම්වරයා පෙන්වා දෙයි .
+According to the Secretary of the All Ceylon Egg Manufacturers Association Ratnasiri Alahakoon, the Secretary of the All Ceylon Egg Manufacturers' Association Ratnasiri Alahakoon, the government of alliances can increase an 18% VAT.
 
-බිත්තර සඳහා  වැට් බද්ධ ක්‍රියාත්මක කරන්නේ මෙරට ඉතිහාසයේ ප්‍රථම වතාවට බව පෙන්වා දෙන ඔහු  මෙම  වැට් බද්ධ  ක්‍රියාත්මක කිරීම නිසා දේශීය බිත්තර නිෂ්පාදනය මෙන්ම කුකුළු  ගොවිපළ කර්මාන්තයෙන් ගොවියන් ඉවත්වී කර්මාන්තය නැත්තටම නැතිවී යන බවද කියා සිටි .
+As a result, he said that the consumer had lost the opportunity to buy an egg.
 
-...
+The Secretary of the Association points out that the VAT is also in danger of 5,000 animals.
+
+He claimed that VAT is implemented in the history of the country for the eggs, he said that the VAT is the first time in the history of the country and the farmers from the poultry industry, as well as the industry is lost to the industry.
+
+The secretary says that the government is not able to provide any concessions to VAT to develop the industry for local eggs, but the local maize is Rs. 110 at Rs.He added that the price of rice has increased to Rs. 140 and Rs.
+
+He added that the government's gazette and the government leased to the egg and the people of Sri Lanka have been leased to the egg.
+
+◼️
 
 [Data](articles/aad6f6fc.json)
+
+[Extended Data](ext_articles/aad6f6fc.ext.json)
 
 ---
 

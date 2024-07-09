@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 15:19:52**
+As of **2024-07-09 15:54:05**
 
 ## Newspaper Stats
 
-*Scraped **34,395** Articles*
+*Scraped **34,399** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,84 @@ newsfirstlk | 363
 islandlk | 1,936
 economynextcom | 2,028
 dailyftlk | 2,146
-adalk | 3,088
-adaderanalk | 3,948
+adalk | 3,089
+adaderanalk | 3,949
 tamilmirrorlk | 4,090
 dailymirrorlk | 4,733
 virakesarilk | 5,371
-adaderanasinhalalk | 5,724
+adaderanasinhalalk | 5,726
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,395 (100.0%) of 34,395 articles have been extended.
+34,396 (100.0%) of 34,399 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### වසන්ත ඝාතනයට සැකකරුවන් 07 දෙනෙක් අත්අඩංගුවට
+
+*2024-07-09 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198639) · `si`
+
+ක්ලබ් වසන්ත හෙවත් සුරේන්ද්‍ර වසන්ත පෙරේරා වෙඩිතබා ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් ටැටූ මධ්‍යස්ථානයේ හිමිකරු ඇතුළු 07 දෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/4e1f98d3.json)
+
+---
+
+### Biden is not being treated for Parkinson’s, White House says after NYT report
+
+*2024-07-09 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100397/biden-is-not-being-treated-for-parkinsons-white-house-says-after-nyt-report) · `en`
+
+U.S. President Joe Biden is not being treated for Parkinson’s disease and has not seen a neurologist outside of his annual physicals, the White House said on Monday, after the New York Times reported that visitor logs showed a doctor specializing in the illness visited the White House at least eight times from August through March.
+
+Concerns that Biden might be suffering from an undisclosed illness have risen since he stumbled, appearing frail and losing his train of thought at times, at his June 27 debate against Republican Donald Trump.
+
+Dr. Kevin O’Connor, the White House doctor, issued a letter on Monday night that said Biden has not seen a neurologist outside of his normal annual physical.
+
+Biden is battling criticism from some Democrats that he lacks the mental acuity to stand as their nominee against Trump in the Nov. 5 presidential election. Biden has, however, said he will not abandon his campaign, telling MSNBC via phone on Monday that he was “not going anywhere”.
+
+...
+
+[Data](articles/b0328fb7.json)
+
+---
+
+### Police Explains Investigations of Club Wasantha murder
+
+*2024-07-09 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198638) · `si`
+
+Police investigating the murder of Club Wasantha reveal two suspects from St. Kumba and Buli Patti, focusing on motives and connections to narcotics and underworld activities. They aim to quickly solve the case and clamp down on illegal firearms circulation.
+
+🟩
+
+Inspection of investigations into the murder of Club Wasantha alias Club Wasantha alias Club Wasantha said.
+
+Club Wasantha was shot dead in a Tatu Center in Athurugiriya this morning (08).
+
+The police have revealed that the two criminals of St. Kumba and the Buli Patti, who is hiding in Duthuhawa, have directly designed to be designed.
+
+"According to investigations, the investigation has revealed many information regarding those who committed the crime. Whose interests were tempted?What is the reason?Investigations have focused on investigations. "
+
+"In a short time solves the crime and criminals will be able to capture the law."
+
+"A horror of narcotics and underworld has been implemented in across the country."
+
+"Shots of seven and eight. The use of automatic weapons, after two and a half months, a crime was crime. Still, the illegal firearms are circulated in society. "
+
+"Therefore, attention has been paid to the arrest of illegal firearms in justice."
+
+◼️
+
+[Data](articles/8457e437.json)
+
+[Extended Data](ext_articles/8457e437.ext.json)
+
+---
 
 ### Indian army attacked by Pakistani militan
 
@@ -89,6 +151,24 @@ A total of 1,854,000 individuals have qualified for the first phase of the “As
 [Data](articles/d93d9d48.json)
 
 [Extended Data](ext_articles/d93d9d48.ext.json)
+
+---
+
+### වතුර වළකට වැටී මාස 16ක සිගිත්තිය මරුට
+
+*2024-07-09 14:11:12* · [`adalk`](https://www.ada.lk/breaking_news/වතුර-වළකට-වැටී-මාස-16ක-සිගිත්තිය-මරුට/11-410692) · `si`
+
+නිවස අසල තිබූ වතුර වලකට වැටීමෙන් සූරියගොල්ල වැවතැන්න ගම්මානයේ පදිංචි අවුරුද්දකුත් මාස හතරක් වයසැති සිඟිත්තෙකු  ඊයේ (08) දහවල් සැකකටයුතු අන්දමින් ජීවිතක්ෂයටපත්ව ඇතැයි මඩොල්සිම පොලිසිය පවසයි.
+
+ෙසිද්ධීයෙන් මියගොස් ඇත්තේ කලුගහකදුර, වැවතැන්න, මාරගොම්මන පදිංචි ඩී එම් සදලි නිම්සරා (මාස 16 යි) නැමැති සිගිත්තියකි.
+
+දරු සිඟිත්තාගේ මව, නිවසේ සිටි තවත් කුඩා දරුවෙකුට සිගිත්තා බලා ගන්නට බාර දී තේ දළු කැඩීමට නිවෙසින් පිටව ගොස් ඇති අතර සිඟිත්තා නිවස අසල තිබූ වතුර වලකට වැටී ඇති බවත් දරුවා බලා ගත් කුඩා දරුවා සිඟිත්තා ගොඩට ගෙන වැඩිහිටියන් හා එක්ව ඔහු රෝබේරිය ප්‍රාෙද්ශීය රෝහල වෙත රැගෙන ගොස් ඇතත් ඒ වන විටත් දරුවා ජීවිතක්ෂයට පත්ව තිබූ බව මූලික විමර්ශනවලදී අනාවරණය වී ඇත.
+
+සිඟිත්තාගේ මරණය සැක කටයුතු බැවින් පශ්චාත් මරණ පරීක්ෂණය සඳහා බදුල්ල පළාත් මහ රෝහලේ අධිකරණ වෛද්‍යවරයා වෙත යොමු කිරීමට පියවර ගත් බව මේ සම්බන්ධයෙන් අප කළ විමසුමකට පිළිතුරු දුන් මඩොල්සිම පොලිසිය පැවසීය.
+
+◼️
+
+[Data](articles/064724a3.json)
 
 ---
 
@@ -2241,97 +2321,5 @@ Subsequently, Minister Douglas Devananda said that the appointment of a committe
 [Data](articles/adebc555.json)
 
 [Extended Data](ext_articles/adebc555.ext.json)
-
----
-
-### Information about the Athurugiriya shooting
-
-*2024-07-08 22:58:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துருகிரிய-துப்பாக்கிச்-சூடு-தொடர்பில்-திடுக்கிடும்-தகவல்கள்/175-340062) · `ta`
-
-A shooting incident occurred in Athurugiriya, involving organized criminals led by Kanjibani Imran. The event targeted a tattoo parlor where businessman Surendra Wasantha Perera, his wife, and singer K. Sujeeva were present. Four individuals were killed, including Perera and the singer, while several others were injured. The attackers used a white car and a van, both with fake license plates, to escape the scene. Police investigations continue, focusing on the motive behind targeting the tattoo parlor and the involvement of organized crime.
-
-🟩
-
-Shocking reports have been revealed in connection with the shooting incident that took place today (08) in Athurigiriya.
-
-Police suspect that Kanjibani Imran, an organized culprit, is involved in the shooting incident.
-
-On the top floor of the building, about 50 meters from the bell tower at the Athurukiriya city junction, the tattooing station was opened this morning by a tattoo -tattoo man named Dulan Sanjula.
-
-The chief guests were the wife of the famous businessman Surendra Wasantha Perera, his wife and his wife and famous singer K. Sujeeva.
-
-At 10.15 am, a white car that came along the road was reported to be on the road near the building and returned to one street.
-
-Later, the Sisirvi camera was reported to be fired into the tattooing center on the top floor.
-
-The masked gunmen entered the tattoo and fired at the occupants.
-
-During the shooting attack, one can see the disappearance of the club and the private bodyguard of the club spring.
-
-...
-
-[Data](articles/3cab86a5.json)
-
-[Extended Data](ext_articles/3cab86a5.ext.json)
-
----
-
-### Another happening scene…
-
-*2024-07-08 22:58:00* · [`islandlk`](http://island.lk/another-happening-scene/) · `en`
-
-Although the young ones of the good ole days are now grown up and married, having families, etc., I’m glad they still keep in touch with me, through my pages in
-
-They all remember the days when there were get-together events, outings, etc., with some of our leading musicians joining in as well.
-
-Three stalwarts, from that era, are planning a day’s outing in order to meet and greet some of the older folks, and also the present day young ones.
-
-Dilanth De Silva, Mazeeha Halaj and Dayanthi Senanayake, popular figures on social media (Facebook), say that the outing will be to a resort in Negombo and will include lunch, afternoon tea, snacks, etc., plus fun games, with prizes to be won.
-
-The date mentioned is Saturday, 27th July, but they need confirmation from those wanting to be a part of this fun-filled package by 20th July.
-
-You are required to call Dilanth (0772364301), Mazeeha (0775199807) or Dayanthi (0773541254) for more details, and the cost.
-
-...
-
-[Data](articles/152747f7.json)
-
-[Extended Data](ext_articles/152747f7.ext.json)
-
----
-
-### Sri Lanka showcases maritime prowess at Posidonia 2024
-
-*2024-07-08 22:43:00* · [`islandlk`](http://island.lk/sri-lanka-showcases-maritime-prowess-at-posidonia-2024/) · `en`
-
-Five leading Sri Lankan maritime service providers recently showcased the nation’s maritime capabilities at Posidonia 2024, the world’s largest shipping exhibition, which was held in Athens, Greece, in June 2024. This biennial event attracts global industry leaders, and this year, Sri Lanka made a presence with its comprehensive display of maritime services, reinforcing its status as “the maritime hub of South Asia”.
-
-...
-
-[Data](articles/adb18aea.json)
-
-[Extended Data](ext_articles/adb18aea.ext.json)
-
----
-
-### Lion Brewery commended at Presidential Environment Awards
-
-*2024-07-08 22:42:00* · [`islandlk`](http://island.lk/lion-brewery-commended-at-presidential-environment-awards/) · `en`
-
-In recognition of its environmental stewardship, Lion Brewery (Ceylon) PLC was recognized at the Presidential Environment Awards 2024 with a Silver Award in the Food and Beverage category.
-
-Lion Brewery operations are governed through an Integrated Management System, built on the global ISO standards platform comprising, ISO 22000:2018, (Food Safety) ISO 14001:2015 (Environment), ISO45001:2018 (Occupational Health and Safety) and ISO 27001: 2013 (Information Security). Lion has also recently been recommended for certification for ISO 50001:2018 which is the energy management system and one of the materialities for the brewery under its ESG framework.
-
-LOLC Technologies unveils Sri Lanka’s first LLm-based chatbot for banking and financial services
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/c3935f1a.json)
-
-[Extended Data](ext_articles/c3935f1a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 21:35:16**
+As of **2024-07-09 21:54:50**
 
 ## Newspaper Stats
 
-*Scraped **34,451** Articles*
+*Scraped **34,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,54 +15,102 @@ newsfirstlk | 363
 islandlk | 1,936
 economynextcom | 2,028
 dailyftlk | 2,146
-adalk | 3,099
-adaderanalk | 3,955
+adalk | 3,100
+adaderanalk | 3,956
 tamilmirrorlk | 4,098
 dailymirrorlk | 4,733
 virakesarilk | 5,388
-adaderanasinhalalk | 5,736
+adaderanasinhalalk | 5,737
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,444 (100.0%) of 34,451 articles have been extended.
+34,451 (100.0%) of 34,454 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
 
-### கொக்குத்தொடுவாய் மனிதப்புதைகுழி ஐந்தாம்நாள் அகழ்வாய்விற்கு ஐ.நா பிரதிநிதி லுடியானா ஷெரின் அகிலன் கண்காணிப்புவிஜயம்; சர்வதேச கண்கணிப்பு தொடரவேண்டுமென தமிழ்தரப்புக்கள் வலியுறுத்து
+### දුම්රිය වර්ජනයක්
+
+*2024-07-09 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198651) · `si`
+
+උසස්වීම් ලබාදීනොදීම ඇතුළු ඉල්ලීම් කිහිපයක් හේතුවෙන් අද (09) මධ්‍යම රාත්‍රියේ සිට වැඩවර්ජනයක් ආරම්භ කිරීමට දුම්රිය ස්ථානාධිපති සංගමය තීරණය කර තිබේ.
+
+මේ හේතුවෙන් අද පස්වරුවේ සිය ගමනාගමන පහසුකම් ලබාගැනීම සඳහා පැමිණි මගීන් පත්වූයේ දැඩි අපහසුතාවකටය.
+
+නියමිත පරිදි උසස් වීම් ලබානොදීම ඇතුළු කරුණු 14 ක් මුල් කරගනිමින් දුම්රිය ස්ථානාධිපති සංගමය මෙම වැඩවර්ජනය ආරම්භ කළේ අද පස්වරුවේය.
+
+දුම්රිය ස්ථානාධිපති සංගමය පැවසුවේ, රාත්‍රී 12න් පසු ධාවනය වීමට නියමිත දුම්රිය සියල්ල අවලංගු කළ බවය.
+
+මේ අතර දුම්රිය දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දුම්රිය ස්ථානාධිපතිවරුන් සහ දුම්රිය පාලකවරුන් විසින් ක්‍රියාත්මක කිරීමට නියමිත වෘත්තීය ක්‍රියාමාර්ගය හේතුවෙන් ධාවනයට සූදානම් කොට තිබූ තැපැල් දුම්රියන් අවලංගු කිරීමට පියවර ගත් බවය.
+
+මේ අතර හෙට දින (10) ධාවනයවීමට නියමිත කාර්යාල දුම්රිය කිහිපයක් අවශ්‍ය නිලධාරින් යොදවා ධාවනයේ යෙදවීමට කටයුතු සැලසුම් කරමින් පවති බවද පැවසීය.
+
+...
+
+[Data](articles/484fc731.json)
+
+---
+
+### Railway strike from midnight today; night mail trains cancelled
+
+*2024-07-09 21:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100404/railway-strike-from-midnight-today-night-mail-trains-cancelled) · `en`
+
+The Sri Lanka Railways Station Masters’ Union has decided to launch a strike from midnight today (09).
+
+As a result, several trains including the night mail trains to and from Colombo Fort and Badulla, to and from Trincomalee, to and from Batticaloa and night mail train to Rambukkana will be cancelled, the Department of Railways said.
+
+◼️
+
+[Data](articles/83267a86.json)
+
+---
+
+### UN Representative Ludiana Sherin Akhilan Akhilan Akhilan Akhilan on the fifth day of the Kokkuttuwai Human Propard;Tamil Nadu urges the international monitoring
 
 *2024-07-09 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/188084) · `ta`
 
-முல்லைத்தீவு - கொக்குத்தொடுவாய் மனிதப்புதைகுழியின் மூன்றாங்கட்ட அகழ்வாய்வின், ஐந்தாம்நாள் அகழ்வாய்வுப்பணிகள் ஜூலை.09 செவ்வாய்கிழமை செவ்வாய்க்கிழமை (9) இடம்பெற்றது.
+On the fifth day of the Kokkuttuwai human river excavation in Mullaitivu, Tamil Nadu, UN representative Ludiana Sherin Akhilan expressed the need for international monitoring due to trust issues. The excavation, overseen by Professor Raj Somadevadam, has faced criticism from families of the missing, urging for identification and continued international oversight.
 
-இந் நிலையில் குறித்த கொக்குத்தொடுவாய் மனிதப்புதைகுழியின்  அகழ்வாய்வுகள் இடம்பெறும் இடத்திற்கு ஐக்கியநாடுகள் சபையின் இலங்கை அலுவலகத்தின், மனித உரிமைக்கான அலுவலர் லுடியானா ஷெல்ரின் அகிலன் கண்காணிப்பு விஜயமொன்றை மேற்கொண்டிருந்ததுடன், குறித்த அகழ்வாய்வு நிலைமைகள் தொடர்பில் பேராசியர் ராஜ்சோமதேவ, சட்டத்தரணி கே.எஸ்.நிரஞ்சன் ஆகியோரிடம் கேட்டறிந்துகொண்டார்.
+🟩
 
-இந்நிலையில் இவ்வாறான சர்வதேசஅமைப்புப் பிரதிநிதிகளின் கண்காணிப்பு விஜயத்தால் தமக்கு இந்த அகழ்வாய்வின்மீது நம்பிக்கை ஏற்பட்டிருப்பதாகவும், இந்த அகழ்வாய்வின்மீது தொடர்ந்தும் சர்வதேச கண்காணிப்பு அவசியமெனவும் தமிழ்தரப்புக்கள் தெரிவிக்கின்றன.
+The fifth day excavation of the Mullaitivu - Kokkuttuvai human river was held on Tuesday (9) on Tuesday.
 
-கொக்குத்தொடுவாய் மனிதப்புதைகுழியின் மூன்றாம்கட்ட, ஐந்தாம்நாள் அகழ்வாய்வுப்பணிகள் தொல்லியல்துறைப் பேராசிரியர் ராஜ் சோமதேவதலைமையிலான குழுவினரால் முன்னெடுக்கப்பட்டது.
+In this case, the United Nations Office of the United Nations, Ludiana Shelrin, Akhilan, the United Nations Office of the United Nations, Ludiana Shelrin Akhilan, had been conducting a visit to the site of the excavation of the Human Rights Group, and asked the Professor Rajsomadeva and lawyer KS Niranjan regarding the excavation conditions.
+
+In this backdrop, the Tamil nationals say that the excavation of the excavation has been trusted by the monitoring of the international community representatives and that international surveillance is needed on the excavation.
+
+The fifth day excavation work was carried out by the Professor of Archeology Raj Somadevadam.
 
 ...
 
 [Data](articles/53d78769.json)
 
+[Extended Data](ext_articles/53d78769.ext.json)
+
 ---
 
-### ඉන්දීය ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ගෞතම් ගාම්භීර්
+### Gautam Gambhir of Indian Cricket Team
 
 *2024-07-09 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198650) · `si`
 
-හිටපු ක්‍රිකට් ක්‍රීඩක ගෞතම් ගාම්භීර් ඉන්දීය ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ලෙස පත්කර තිබේ.
+Gautam Gambhir, former Indian cricketer, is now the Chief Trainer of the Indian Cricket Team, set to lead the team to Sri Lanka later this month. Rahul Dravid previously held this position until the World Cup.
 
-මෙම මස අගදී ශ්‍රී ලංකාවේ සංචාරය කිරීමට නියමිත ඉන්දීය කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ලෙස ඒ අනුව ඔහු කටයුතු කිරීමට නියමිතය.
+🟩
 
-පසුගිය T20 ලෝක කුසලාන තරගාවලිය දක්වා ඉන්දීය ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ලෙස කටයුතු කළේ රාහුල් ඩ්‍රාවිඩ් ය.
+Former cricketer Gautam Gambhir has been appointed as the Chief Trainer of the Indian Cricket Team.
+
+He is due to be the chief coach of the Indian team to visit Sri Lanka at the end of this month.
+
+Rahul Dravid was served as the chief coach of the Indian cricket team up to the World Cup.
 
 ◼️
 
 [Data](articles/d0b960a6.json)
+
+[Extended Data](ext_articles/d0b960a6.ext.json)
 
 ---
 
@@ -100,33 +148,49 @@ Age of the sole said that Surendra Wasantha Perera alias Sadhra Wasantha Perera,
 
 ---
 
-### புகையிரத நிலைய அதிபர்களின் பணிப்புறக்கணிப்பால் அனைத்து புகையிரத தபால் சேவைகளும் இரத்து
+### All rail postal services cancel
 
 *2024-07-09 20:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/188083) · `ta`
 
-புகையிரத நிலைய  அதிபர்களின் பணி புறக்கணிப்பால் அனைத்து புகையிரத தபால் சேவைகளும் இரத்தாகியுள்ளதாக புகையிரத திணைக்களம் தெரிவித்துள்ளது.
+Railway postal services halt due to staff boycotts; Railway Department and Principals' Association take action starting Tuesday night.
 
-இதேவைள, புகையிரத நிலைய அதிபர் சங்கத்தினர் இன்று செவ்வாய்க்கிழமை (9) நள்ளிரவு முதல் பணிப்புறக்கணிப்பில் ஈடுபடவுள்ளதால் நாளை காலை பெருமளவிலான அலுவலக புகையிரத சேவைகள் இரத்தாகும் என புகையிரத திணைக்களம் தெரிவித்துள்ளது.
+🟩
+
+The Railway Department said that all railway posts have been bleeding due to the boycott of the work of the railway station principals.
+
+Similarly, the Railway Station Principal's Association will be engaged in the workplace from midnight on Tuesday (9), the Railway Department said.
 
 ◼️
 
 [Data](articles/144bec51.json)
 
+[Extended Data](ext_articles/144bec51.ext.json)
+
 ---
 
-### அஸ்வெசும இரண்டாம் கட்ட தகவல் கணக்கெடுப்பு ஜூலை 15 முதல் 30 வரை - நலன்புரி நன்மைகள் சபை
+### The Second Phase Information Survey July 15 to 30 - Welfare Benefits Council
 
 *2024-07-09 20:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/188082) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் ஆலோசனைக்கமைய நடைமுறைப்படுத்தப்படும் 'அஸ்வெசும' நலன்புரி நன்மைகள் வழங்கும் திட்டத்தின் இரண்டாம் கட்ட தகவல் கணக்கெடுப்பு பணிகள் ஜூலை 15 முதல் 30 வரை முன்னெடுக்கப்படவுள்ளதாக நலன்புரி நன்மைகள் சபை தெரிவித்துள்ளது.
+The Welfare Benefits Council announced the second phase of the 'Assuma' welfare benefits from July 15 to 30, targeting 450,924 applicants after excluding those already benefited in the first phase. A total of 1,854,000 were eligible for the initial phase, with a government allocation of 58.5 billion rupees. The council allows re-applications for missed eligibility and launched a mobile app for efficient data collection, including features like photo, map, and voice recording. This initiative aims to support vulnerable groups under four social categories: the disabled, elderly, and kidney patients.
 
-முதலாம்  கட்டத்தில் தகுதி பெற்ற 18  இலட்சத்துக்கும் அதிகமானோரைத் தவிர இரண்டாம் கட்டத்திற்காக 450,924 விண்ணப்பங்கள்  கிடைக்கப் பெறப்பட்டுள்ளன. அவற்றில்  நலன்புரி நன்மைகள் பெறத்  தகுதியானவர்களை இனங்காணும் பணிகள்  இம்மாதத்திற்குள் நிறைவு செய்யப்படும்.
+🟩
 
-அஸ்வெசும திட்டத்தின் முதல் கட்டத்திற்கு 1,854,000 பேர் தகுதி பெற்றுள்ளனர். இதற்காக 58.5 பில்லியன் ரூபா அரசாங்கத்தினால் ஒதுக்கப்பட்டுள்ளது. முதல் கட்டத்திற்கு  விண்ணப்பிக்க முடியாதவர்கள் அல்லது தவறியவர்கள் மீண்டும் விண்ணப்பிக்க, நலன்புரி நன்மைகள் சபை சந்தர்ப்பம் வழங்கியுள்ளது.
+The Welfare Benefits Council has said that the second phase of information on the 'Assuma' welfare benefits will be carried out from July 15 to 30.
+
+450,924 applications have been received for the second phase except for more than 18 lakhs qualified in the first phase. Those who are eligible to benefit welfare benefits will be completed this month.
+
+1,854,000 eligible for the first phase of the Aswesuma program. 58.5 billion rupees has been allocated by the government for this purpose. The Welfare Benefits Council has given the opportunity to re -apply those who cannot apply for the first phase.
+
+Under the 04 social sections of the alternatives, vulnerable, poor, and the most affected, the welfare of the 'Assembly' is provided to the disabled, the elderly and the kidney patients.
+
+Meanwhile, the Welfare Benefits Council has introduced a new mobile app with a facilities including photo, map and voice recording to enable field information collection.
 
 ...
 
 [Data](articles/f1398d23.json)
+
+[Extended Data](ext_articles/f1398d23.ext.json)
 
 ---
 
@@ -154,19 +218,29 @@ However, plantation companies focused on judicial procedures, however, and the f
 
 ---
 
-### ஒரு குடும்பத்தால் மலையக சமூகம் வங்குரோத்தானது - வேலுகுமார் சாடல்
+### The upcountry community is bankrupt by a family - Velukumar Sadal
 
 *2024-07-09 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/188081) · `ta`
 
-ஒரு குடும்பத்தால் இந்த நாடு வங்குரோத்து அடைந்ததை போன்று பெருந்தோட்ட சமூகமும் ஒரு குடும்பத்தால் வங்குரோத்தானது. சம்பள விவகாரத்தில்  பிள்ளையையும் கிள்ளி விட்டு தொட்டிலையும் ஆட்டி விடும் நிலை காணப்படுகிறது. தோட்ட முகாமையாளர்களுக்கு விருந்துபசாரம் வழங்கி பெருந்தோட்ட மக்களை காட்டிக் கொடுத்து யார்  என்பது தற்போது பகிரங்கமாகியுள்ளது என பாராளுமன்ற உறுப்பினர் எம்.வேலுக்குமார் தெரிவித்தார்.
+In a parliamentary debate, MP Velukumar criticized unnamed individuals for betraying plantation workers and the nation's financial health. He highlighted the struggles of plantation communities, urging reflection on past leadership and decisions affecting their livelihoods.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (9) நடைபெற்ற தொலைத்தொடர்பு ஒழுங்குபடுத்தல் திருத்தச் சட்டம் மீதான விவாதத்தில் உரையாற்றும் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-பெருந்தோட்டத்துறை தொடர்பில் மலையக அமைச்சர் சபையில் செவ்வாய்க்கிழமை (9) குறிப்பிட்ட விடயங்களை சுட்டிக்காட்ட விரும்புகிறேன்.பெருந்தோட்ட மக்கள் பற்றி அவர் வாடி,உருகி பேசியதை அவதானிக்க முடிகிறது.
+The plantation community is bankrupt by a family, just as this country has become bankrupt by a family. In the salary affair, the child and the cradle are found to be. Parliamentarian M. Velukumar said that it is now public who has been betraying the plantation managers and betraying the plantation people.
+
+He said this while addressing the debate on the Telecommunications Regulatory Amendment Act held in Parliament on Tuesday (9).
+
+I would like to point out the specific issues at the Honorable Minister's Council on the Plantation Department on Tuesday (9).
+
+He must recover the specific matters of society. He noted that the people were not recognized as the other community, and that the plantation people had to work or do homework.
+
+Plantation youth should think about who is responsible for the presence of plantation people in this situation. I would like to ask him who had been union leaders in this country for the last 60 years.
 
 ...
 
 [Data](articles/6a1ba5a6.json)
+
+[Extended Data](ext_articles/6a1ba5a6.ext.json)
 
 ---
 
@@ -288,6 +362,22 @@ There, Club Wasantha had joined the plate oil lamp with his wife.
 
 ---
 
+### වැඩවර්ජනය මධ්‍යයේ විශ්‍රාම වැටුප් දීමනාවත් දුන්නා
+
+*2024-07-09 18:56:30* · [`adalk`](https://www.ada.lk/breaking_news/වැඩවර්ජනය-මධ්‍යයේ-විශ්‍රාම-වැටුප්-දීමනාවත්-දුන්නා/11-410699) · `si`
+
+රාජ්‍ය අංශයේ ඇතැම් පිරිසක් වැඩ වර්ජනයක නිරතව සිටියද, ලියාපදිංචි විශ්‍රාමිකයින් හත්ලක්ෂ අටදහස් දෙසීය තිස් එකකට (708,231) ජුලි මාසයේ 10 වන දිනට ගෙවීමට නියමිත විශ්‍රාම වැටුප් දීමනාව අද (09) දින බැංකු වෙත නිදහස් කිරීමට කටයුතු කළ බව විශ්‍රාම වැටුප් දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් ජගත් ඩී. ඩයස් මහතා පැවසීය.
+
+ඒ අනුව රුපියල් බිලියන 28.5ක මුදල් රාජ්‍ය හා පෞද්ගලික බැංකු 24කට සහ තැපැල් දෙපාර්තමේන්තුව වෙත නිදහස් කළ බව අධ්‍යක්ෂ ජනරාල්වරයා සඳහන් කළේය.
+
+මේ සමඟ 99.5% ක පමණ පිරිසකට කිසිඳු ප්‍රමාදයකින් තොරව අදාළ දිනය වන ජූලි 10වන දින විශ්‍රාම වැටුප් දීමනාව හිමිවනු ඇති අතර, ප්‍රාදේශීය ලේකම් කාර්යාල ජූලි 08 සහ 09 දිනයන්හි සිය සේවා රාජකාරී සිදු නොකළ හෙයින් 13,000ක පමණ ඉතා සුළු පිරිසකට විශ්‍රාම වැටුප් දීමනාව ජුලි 11 වන දින හිමිවනු ඇති බව ද විශ්‍රාම වැටුප් දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල්වරයා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/f6b0fc33.json)
+
+---
+
 ### Workers' salary affair;Mankind
 
 *2024-07-09 18:52:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிலாளர்களின்-சம்பள-விவகாரம்-மனுஷ-அதிரடி/175-340102) · `ta`
@@ -312,35 +402,47 @@ During today's Cabinet meeting, it has been decided not to extend the lease agre
 
 ---
 
-### தொலைத்தொடர்பு திருத்தச் சட்டமூலம் திருத்தங்களுடன் நிறைவேற்றம்
+### Telecommunication Amendment Bill
 
 *2024-07-09 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/188079) · `ta`
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (09) இடம் பெற்ற சட்டமூலத்தின் இரண்டாவது மதிப்பீடு விவாதம் முடிவடைந்ததும் வாக்கெடுப்பு இன்றி நிறைவேற்றப்பட்டது. இதனைத் தொடர்ந்து குழு நிலையில் சட்டமூலத்திற்கான திருத்தங்கள் முன்வைக்கப்பட்டு மூன்றாவது மதிப்பீடு வாக்கெடுப்பின்றி நிறைவேற்றப்பட்டது.
+The Telecommunication Amendment Bill, introduced by Sri Lanka's Ministry of Technology, aims to update the 1991 Telecommunication Act after 28 years. Passed without a referendum through three assessments, it seeks to establish fair regulations for consumers in a competitive market, aligning local standards with global norms.
 
-1991ஆம் ஆண்டின் 25ஆம் இலக்க இலங்கைத் தொலைத்தொடர்புச் சட்டத்தைத் திருத்துவதற்காக கடந்த்  மே 04 ஆம் திகதி தொழில்நுட்ப அமைச்சினால் இந்தச் சட்டமூலம் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டிருந்ததுடன், இது 28 வருடங்களின் பின்னர் திருத்தப்பட்டுள்ளது.
+🟩
 
-இதுவரை உலகில் ஏற்றுக்கொள்ளப்பட்ட தரநிலைகளைப் பின்பற்றும் வகையில், போட்டி நிறைந்த சந்தையில் நுகர்வோருக்கு நியாயமான ஒழுங்குமுறைப்படுத்தலை மேற்கொள்வதற்கான வாய்ப்பை இந்தத் திருத்தச்சட்டமூலம் வழங்குகின்றது.
+The second assessment of the Bill, which was held in Parliament on Tuesday (09), was passed without a referendum. Following this, amendments to the Bill were made in the group position and the third evaluation was passed without a referendum.
+
+The Bill was presented in Parliament by the Ministry of Technology on May 4 to amend the Sri Lanka Telecommunication Act No. 25 of 1991 and amended it after 28 years.
+
+The amendment provides the opportunity to take a fair regulatory order for consumers in the competitive market to adopt the standards of accepted standards in the world so far.
 
 ◼️
 
 [Data](articles/7fb6fea3.json)
 
+[Extended Data](ext_articles/7fb6fea3.ext.json)
+
 ---
 
-### சிரேஷ்ட அதிகாரி ஒருவரை சட்டமா அதிபர் பதவிக்கு  நியமிக்க வேண்டும் என்ற  வரையறை அரசியலமைப்பில் இல்லை - ஜனாதிபதியின் செயலாளர்
+### The definition of appointing a senior officer to the post of Attorney General is not in the Constitution - the president's secretary
 
 *2024-07-09 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/188078) · `ta`
 
-சட்டமா அதிபர் திணைக்களத்தில்   சேவை மூப்பு அடிப்படையில்  சிரேஷ்ட அதிகாரி ஒருவரை சட்டமா அதிபர் பதவிக்கு  நியமிக்க வேண்டும் என்ற  வரையறை அரசியலமைப்பில் இல்லை என்றும், இதற்கு முன்பும்  இவ்வாறு நியமிக்கப்படவில்லை என்றும் ஜனாதிபதியின் செயலாளர்  சமன் ஏக்கநாயக்க  தெரிவித்துள்ளார்.
+The President's Secretary clarified that the criteria for appointing a senior officer as Attorney General, based on length of service, isn't constitutional. This response was made in reply to a query from the Sri Lanka Lawyers' Association about the appointment process. The Secretary advised against favoritism towards any individual over others who may be qualified for the position.
 
-சேவை மூப்பு அடிப்படையில்  சட்டமா அதிபர்  நியமனம் வழங்குவது தொடர்பில் , இலங்கை சட்டத்தரணிகள் சங்கம்  ஜனாதிபதிக்கு அனுப்பியுள்ள கடிதத்திற்கு வழங்கிய பதிலில் ஜனாதிபதி செயலாளர் இதனைக் குறிப்பிட்டுள்ளார்.
+🟩
 
-சட்டமா அதிபர் பதவிக்கு  வேறு தகுதியுள்ள நபர்கள் இருக்கும்போது ஒருவருக்கு ஆதரவாக  மாத்திரம் சட்டத்தரணிகள் சங்கம் செயற்படக் கூடாது எனவும் ஜனாதிபதி செயலாளர் மேலும் சுட்டிக்காட்டியுள்ளார்
+President of the Attorney General Saman Ekanayake said that the definition of the appointment of a senior officer on the basis of service elderly at the Attorney General's Department has not been in the constitution and has not been appointed before.
+
+The Secretary of State's Secretary of State was responding to a letter sent to the President of the Sri Lanka Lawyers Association regarding the appointment of the Attorney General on the basis of service.
+
+The President's Secretary also pointed out that the Attorney General's Association should not act in favor of one person when there are other eligible persons for the post of Attorney General.
 
 ◼️
 
 [Data](articles/c8527272.json)
+
+[Extended Data](ext_articles/c8527272.ext.json)
 
 ---
 
@@ -2287,83 +2389,5 @@ Kaziranga is home to the world’s largest population of one-horned rhinos, whic
 [Data](articles/04915709.json)
 
 [Extended Data](ext_articles/04915709.ext.json)
-
----
-
-### Athurugiriya shooting: Another vehicle discovery used by gunmen
-
-*2024-07-09 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/188001) · `ta`
-
-In a shooting at a tattooing station in Athurugiriya, a van allegedly used by gunmen was found abandoned. The incident occurred during the opening of the station, injuring six, including singer K. Sujeeva and businessman Surendra Wasantha Perera, with two fatalities. The van, lacking license plates but bearing a vehicle permit copy, was discovered in Ayyagama, leading to ongoing investigations.
-
-🟩
-
-A van, who is alleged to have been used by gunmen in connection with the shooting incident at a tattooing station on Monday (08), has been rescued by police in Pulathsingha area.
-
-Based on information received by the '119' police of the '119' police at 6.15 pm yesterday, the van was found abandoned in Ayyagama, Ayyagama.
-
-It has been reported that the vehicle number plates were not found on the front and back of the van and a copy of the vehicle income permit was pasted.
-
-The inauguration of a tattooing center was held yesterday morning in Athurugiriya.
-
-As the chief guests, the famous businessman Surendra Wasantha Perera, the club Vasantha and his wife and famous singer K.. Sujeeva was also present.
-
-Two unidentified men in a white car fired at the tattooing station.
-
-Six persons, including famous singer K. Sujeeva and Surendra Vasantha Perera, known as Club Vasantha, have been injured and admitted to the hospital.
-
-...
-
-[Data](articles/bb518893.json)
-
-[Extended Data](ext_articles/bb518893.ext.json)
-
----
-
-### Tattond owner arrested with Tatu
-
-*2024-07-09 09:46:14* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතනයට-ටැටූ-ආයතනයේ-හිමිකරු-ඇතුළු-6ක්-අල්ලයි/11-410687) · `si`
-
-Six arrests linked to the assassination of businessman Wasantha Perera; owner of Tatuwara station among them. Ten investigation teams formed.
-
-🟩
-
-Six persons have already been arrested in connection with the assassination of shooting two others, including the famous businessmanmer Wasantha Perera.
-
-Among the arrested persons is also the owner of the Tatuwara business station at the Athurugiriya Junction.
-
-In addition, people who provided transport to shothoods are among them.
-
-Ten special teams have been appointed to investigate the shooting.
-
-◼️
-
-[Data](articles/b0539a29.json)
-
-[Extended Data](ext_articles/b0539a29.ext.json)
-
----
-
-### Shanmugam Kugathasan sworn in as Member of Parliament
-
-*2024-07-09 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100385/shanmugam-kugathasan-sworn-in-as-member-of-parliament) · `en`
-
-Kathiravelu Shanmugam Kugathasan of the Illankai Tamil Arasu Kadchi (ITAK) was sworn in as a Member of Parliament this morning (09).
-
-He took oaths before Speaker Mahinda Yapa Abeywardena soon after the parliamentary proceedings commenced.
-
-Last week, the Election Commission had named Kuhadasan to fill the parliamentary seat that fell vacant following the passing of former TNA leader Rajavarothiam Sampanthan.
-
-Former Tamil National Alliance (TNA) leader and former Opposition Leader R. Sampanthan passed away on July 01, at the age of 91. He had passed away while receiving treatment at a private hospital in Colombo.
-
-A veteran Tamil politician and prominent figure in country’s main Tamil alliance - Ilankai Tamil Arasu Kadchi (ITAK), his political career spanned six decades, with his first stint in the Sri Lankan parliament starting in 1977.
-
-Sampanthan was the incumbent MP for Trincomalee District and had served in five parliaments since 1977.
-
-...
-
-[Data](articles/4396ddca.json)
-
-[Extended Data](ext_articles/4396ddca.ext.json)
 
 ---

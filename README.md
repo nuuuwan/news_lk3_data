@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 16:19:53**
+As of **2024-07-09 16:35:33**
 
 ## Newspaper Stats
 
-*Scraped **34,402** Articles*
+*Scraped **34,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ adaderanalk | 3,950
 tamilmirrorlk | 4,091
 dailymirrorlk | 4,733
 virakesarilk | 5,371
-adaderanasinhalalk | 5,726
+adaderanasinhalalk | 5,728
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,401 (100.0%) of 34,402 articles have been extended.
+34,402 (100.0%) of 34,404 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### 8 සහ 9 වැඩට ආපු අයට පඩි වැඩි කෙරේ
+
+*2024-07-09 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198641) · `si`
+
+විධායක නොවන රාජ්‍ය නිලධාරීන්ට විශේෂ වැටුප් වර්ධකයක් ලබාදීමට සහ ඉදිරි උසස්වීම් සඳහා ප්‍රශංසා සහතිකයක් නිකුත් කිරීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කැබිනට් මණ්ඩලයට ඉදිරිපත් කළ යෝජනාවට අද (09) කැබිනට් අනුමැතිය හිමිවී තිබේ.
+
+මෙම අවස්ථාව හිමිවන්නේ 2024 ජුලි 8 සහ 9 යන දෙදින තුළ සේවයට වාර්තා කළ අයට ය.
+
+◼️
+
+[Data](articles/6dd11b4f.json)
+
+---
+
+### රුසියාවට ආ මෝදි ට පුටින් ආමන්ත්‍රණය කළ අයුරු
+
+*2024-07-09 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198640) · `si`
+
+ඉන්දීය අගමැති නරේන්ද්‍ර මෝදි දෙදින නිල සංචාරයක් සඳහා ඊයේ (08) රුසියාව වෙත පැමිණ තිබුණි.
+
+මෙම සංචාරය ඉතිහාසයට එක්වන්නේ, රුසියාවේ යුක්‍රේන ආක්‍රමණයෙන් පසුව මෝදී රුසියාවේ සංචාරය කරන පළමු අවස්ථාව ලෙසය.
+
+මොස්කව් නුවර වින්යුකෝවා ජාත්‍යන්තර ගුවන්තොටුපොළ රතු පලස මතින් පැමිණි ඉන්දීය අගමැතිවරයා පිළිගත්තේ රුසියානු රජයේ පළමු නියෝජ්‍ය සභාපති ඩෙනිස් මොන්චියෙරොෆ් විසිනි.
+
+සංචාරයේ පළමු දිනය වූ ඊයේ අගමැති මෝදි රුසියානු ජනාධිපති ව්ලැ‍දිමීර් පුටින් ද හමුවුණි.
+
+එහිදී අගමැති මෝදි වඩාත් ලෙන්ගතුව පිළිගත් ජනාධිපති පුටින් ඔහුට හිතවත් මිතුරා ලෙස ආමන්ත්‍රණය කර තිබුණු බවද විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+රාජ්‍ය නායකයින් දෙපළ ජනාධිපති මන්දිරයේ උද්‍යානයේ කෙටි සංචාරයක නිරතවූ අතර පසුව ඔවුන් අසුන් පැදවීමේ ඉසව්වක් නැරඹීමටත් එක්වී තිබුණි.
+
+තෙවැනි වරටත් ඉන්දීය අගමැති ධුරයට පත්වීම ගැන මෝදි ට සුබ පැතීමටත් මෙහිදී ජනපති පුටින් කටයුතු කර තිබුණි.
+
+අගමැති මෝදි ඊයේ රාත්‍රියේ ජනපති පුටින් සමඟ පැවති පෞද්ගලික භෝජන සංග්‍රහය අතරතුරදීත් සාකච්ඡාවකට එක්වූ බව වාර්තා වෙයි.
+
+...
+
+[Data](articles/63e3b779.json)
+
+---
 
 ### 2 million sims are in use without identification
 
@@ -208,21 +248,31 @@ A total of 1,854,000 individuals have qualified for the first phase of the “As
 
 ---
 
-### අස්වැසුම දෙවන අදියරේ තොරතුරු සංගණනය ජූලි 15 සිට 30 දක්වා
+### The second phase of the revenue is the Census of the Second July 15 to 30
 
 *2024-07-09 14:19:34* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුම-දෙවන-අදියරේ-තොරතුරු-සංගණනය-ජූලි-15-සිට-30-දක්වා/11-410693) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ උපදෙස් පරිදි ක්‍රියාත්මක “අස්වැසුම” සුබසාධක ප්‍රතිලාභ ගෙවීමේ වැඩසටහනේ දෙවන අදියරේ තොරතුරු සංගණනය ජූලි 15 දා සිට 30 දක්වා සිදු කෙරෙන බව සුබසාධක ප්‍රතිලාභ මණ්ඩලය දැනුම් දෙයි.
+The second phase of the revenue census, guided by President Ranil Wickremesinghe, will run from July 15 to 30. It aims to assist over 1.85 million eligible individuals who qualified for the first phase, allocating Rs. 58.5 billion. The Welfare Board offers re-application opportunities for missed individuals. This phase focuses on supporting transition, vulnerable, and impoverished groups, including welfare benefits and allowances for the disabled, adults, and kidney patients. Additionally, a new mobile app with photo and voice recording features has been launched to collect field data, with plans to implement it in the Colombo Divisional Secretariat as a pilot project.
 
-පළමු අදියරේ සුදුසුකම් ලැබූ ලක්ෂ 18ට අධික පිරිසට අමතරව දෙවන අදියර සඳහා තවත් අයදුම් පත් හාරලක්ෂ පනස්දහස් නවසිය විසි හතරක් (450,924) ලැබී ඇති අතර ඒ අතරින් සුබසාධක ප්‍රතිලාභ ගෙවීම සඳහා සුදුස්සන් හඳුනා ගැනීම මෙම මාසය තුළ අවසන් කිරීමට නියමිතය.
+🟩
 
-අස්වැසුම පළමු අදියර සඳහා 1854,000ක් සුදුසුකම් ලබා ඇති අතර ඒ සඳහා රුපියල් බිලියන 58.5ක මුදලක් රජය විසින් වෙන් කෙරිණි. එම පළමු අදියරට අයදුම් කිරීමට නොහැකි වූ හෝ මගහැරුණු පිරිසට නැවත අයදුම් කිරීමට අවස්ථාව සුබසාධක ප්‍රතිලාභ මණ්ඩලය විසින් ලබාදී ඇත.
+The Welfare Board informs that the Committee of the Welfare of the Requirement "Requirements' in the instructions of President Ranil Wickremesinghe will be held from July 15 to 30th July.
 
-සංක්‍රාන්තික, අවදානමට ලක් වූ, දුප්පත් හා අන්ත දිළිඳු යන සමාජ කාණ්ඩ 04ක් යටතේ “අස්වැසුම” සුබසාධක ප්‍රතිලාභ ගෙවීම් සිදු කෙරෙන අතර ආබාධිත තැනැත්තන්, වැඩිහිටි සහ වකුගඩු රෝගීන් සඳහා ද සුපුරුදු පරිදි අදාළ දීමනා ලබා දීම සිදු වේ.
+In addition to over 18 lakhs of eligible, more than Rs.
 
-...
+1854,000 qualified for the first phase of the revenue and Rs. 58.5 billion was allocated for this purpose.. The Welfare Board has been given the opportunity to re-applied to the first phase or the missing persons.
+
+Transition, vulnerable, poor, poor and extreme poverty, "welfare benefit payments will be paid and providing relevant allowances for disabled persons, adult and kidney patients.
+
+Meanwhile, the mobile app software Board has introduced a new mobile application software software software with photos and voice recording facilities to gathering field information.
+
+Accordingly, the mobile app software gathering information is also planned to be implemented in the Colombo Divisional Secretariat Division as a pilot project.
+
+◼️
 
 [Data](articles/0e3d8783.json)
+
+[Extended Data](ext_articles/0e3d8783.ext.json)
 
 ---
 
@@ -2273,59 +2323,5 @@ Subsequently, Minister Douglas Devananda was informed that a detailed inquiry in
 [Data](articles/63b0cfd2.json)
 
 [Extended Data](ext_articles/63b0cfd2.ext.json)
-
----
-
-### Do the doctors who fled the patients go to their child?- The question of the woman involved in the struggle
-
-*2024-07-09 00:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/187993) · `ta`
-
-A woman protests doctors' absence at Chavakachcheri Resource Hospital, questioning their priorities and impact on patient care. She highlights the issue of doctors not consistently attending to their duties, affecting the trust and well-being of patients, especially in emergencies.
-
-🟩
-
-A struggle woman questioned how people trust the doctors who had run away from the hospital to enjoy their pleasures without considering the patients admitted to the Emergency Hospital of Chavakachcheri Resource Hospital.
-
-On Monday (08), the responsible doctor of the Chavacherry Resource Hospital should not be replaced by Archana and demanding the resurgence of the hospital's activities.
-
-A woman who participated in the protest has been using this hospital since her young age.
-
-We have learned that the doctors here are over 20 by the present Dr. Arsuna.
-
-We have gone back many times when we are being treated, but there are more than twenty doctors here.
-
-It has come to light that many doctors who work here do not come to the hospital.
-
-While some doctors who work at the hospital are serving the medical field for God, some people are confused and brought under their agenda.
-
-I know that doctors have gone to the hospital for the past three days.
-
-...
-
-[Data](articles/3b1a5459.json)
-
-[Extended Data](ext_articles/3b1a5459.ext.json)
-
----
-
-### Electricity Tax Correction: Oral Commentary Today
-
-*2024-07-09 00:14:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணத்-திருத்தம்-வாய்மூல-கருத்துக்-கோரல்-இன்று/175-340066) · `ta`
-
-Today, the Public Utilities Commission accepts oral comments on the 2024 electricity tariff proposal from 9 am to 4.30 pm at the Bandaranaike Conference Hall.
-
-🟩
-
-The Public Utilities Commission said that people's oral comments on the second proposed electricity tariff for 2024 will be held today.
-
-In a statement issued by the Commission, the Commission said that these comments will be accepted at the Bandaranaike Conference Hall from 9 am to 4.30 pm.
-
-In this regard. (A)
-
-◼️
-
-[Data](articles/4ea592d5.json)
-
-[Extended Data](ext_articles/4ea592d5.ext.json)
 
 ---

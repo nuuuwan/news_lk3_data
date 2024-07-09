@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 11:05:41**
+As of **2024-07-09 11:19:50**
 
 ## Newspaper Stats
 
-*Scraped **34,357** Articles*
+*Scraped **34,358** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,936
 economynextcom | 2,023
 dailyftlk | 2,146
-adalk | 3,083
+adalk | 3,084
 adaderanalk | 3,941
 tamilmirrorlk | 4,084
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,715
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,354 (100.0%) of 34,357 articles have been extended.
+34,357 (100.0%) of 34,358 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ In support of this action, the postal workers began a strike action last Sunday 
 
 [Data](articles/ec4b214a.json)
 
+[Extended Data](ext_articles/ec4b214a.ext.json)
+
 ---
 
 ### Storm Beryl kills three, knocks out power for 2.7 million in Texas
@@ -64,25 +66,33 @@ The storm, which was expected to rapidly weaken as it moved inland, swept a dest
 
 [Data](articles/8a4d18fe.json)
 
+[Extended Data](ext_articles/8a4d18fe.ext.json)
+
 ---
 
-### அமெரிக்காவில் வேலை வாங்கித் தருவதாகக் பண மோசடி
+### Money fraud as a job in the United States
 
 *2024-07-09 10:33:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்காவில்-வேலை-வாங்கித்-தருவதாகக்-பண-மோசடி/175-340075) · `ta`
 
+In the United States, a woman was arrested for money fraud, claiming employment opportunities abroad. She was caught in Sri Lanka, specifically in the Vavuniya region, after multiple complaints were filed against her. The authorities have initiated legal proceedings against her in the Colombo Pudukkadai court, where she remains in custody pending further investigation.
+
+🟩
+
 அமெரிக்காவில் வேலை வாங்கித் தருவதாகக் கூறி பணம் மோசடி செய்த பெண்ணொருவர்  இலங்கை வெளிநாட்டு வேலைவாய்ப்புப் பணியகத்தின் விசேட புலனாய்வுப் பிரிவினரால் வவுனியா பிரதேசத்தில் கைது செய்யப்பட்டுள்ளார்.
 
-வவுனியா போகஸ்வெவ பகுதியைச் சேர்ந்த பெண்ணொருவர் 10 இலட்சம் ரூபாயை பெற்றுக்கொண்டு மோசடி செய்ததாக, கம்பஹா பிரதேசவாசி ஒருவர் பணியகத்தின் விசேட புலனாய்வுப் பிரிவில் அண்மையில் முறைப்பாடு செய்திருந்தார்.
+A woman from the Vavuniya Bogasswewa area has recently lodged a complaint with the Bureau of the Bureau of the Bureau of the Bureau.
 
-சந்தேக நபர் தொடர்பில் பணியகத்துக்கு 5 முறைப்பாடுகள் கிடைக்கப்பெற்ற நிலையில்,  விசாரணை அதிகாரிகள் குறித்த பெண்ணின் வீட்டுக்குச் சென்று கைது செய்துள்ளனர்.
+Investigators have arrested the woman's home and arrested the woman's home after the Bureau had received five complaints regarding the suspect.
 
-அத்துடன், முறைப்பாடுகளின் பிரகாரம், பணியகத்தின் விசேட புலனாய்வுப் பிரிவின் அதிகாரிகள், கொழும்பு புதுக்கடை நீதிமன்றில் குறித்த பெண்ணுக்கு எதிராக வழக்குத் தாக்கல் செய்துள்ளனர்.
+According to the complaints, officials of the Bureau's Special Investigation Division have filed a case against the woman in the Colombo Pudukkadai court.
 
-கைது செய்யப்பட்ட சந்தேக நபர் வவுனியா நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட நிலையில், எதிர்வரும் 12ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு உத்தரவிடப்பட்டுள்ளது.
+The arrested suspect has been produced before the Vavuniya Magistrate's Court and has been ordered to be remanded until the 12th of this month.
 
 ◼️
 
 [Data](articles/a1e0a3a0.json)
+
+[Extended Data](ext_articles/a1e0a3a0.ext.json)
 
 ---
 
@@ -1618,6 +1628,24 @@ Sri Lanka’s leading lifestyle platform ‘Pulse.lk’ has been presented with 
 
 ---
 
+### බිත්තරයට සියයට 18ක බද්දක්
+
+*2024-07-08 20:11:34* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තරයට-සියයට-18ක-බද්දක්/11-410683) · `si`
+
+මෙරට ඉතිහාසයේ පළමුවරට බිත්තර සඳහා රජය මගින් සියයට 18%  වැට් බද්දක් ක්‍රියාත්මක කිරීමෙන් දේශීය බිත්තර මිල  පාරිභෝගික ජනතාවට දරාගත නොහැකි ලෙස ඉහළ යා හැකි බව සමස්ත ලංකා  බිත්තර නිෂ්පාදකයින්ගේ සංගමයේ ලේකම්  රත්නසිරි අලහකෝන් මහතා  පවසයි .
+
+මේ නිසා පාරිභෝගික ජනතාවට බිත්තරයක් අඩු මිලට ලබා ගැනීමට තිබූ අවස්ථාවද අහිමි කර ඇතැයි  ඔහු  කියා සිටි .
+
+සතුන් 5000 ක් සිටින කුකුළු ගොවිපළකරුවන්ටද  මෙම  වැට්  බද්ධ  ක්‍රියාත්මක  කෙරෙන බවත් එවැනි කුකුළු ගොවිපළ පවත්වාගෙන යන ගොවියන් මෙම කර්මාන්තයෙන් සදහටම ඉවත්වීමේ අවදානමක් තිබෙන බවත් සංගමයේ ලේකම්වරයා පෙන්වා දෙයි .
+
+බිත්තර සඳහා  වැට් බද්ධ ක්‍රියාත්මක කරන්නේ මෙරට ඉතිහාසයේ ප්‍රථම වතාවට බව පෙන්වා දෙන ඔහු  මෙම  වැට් බද්ධ  ක්‍රියාත්මක කිරීම නිසා දේශීය බිත්තර නිෂ්පාදනය මෙන්ම කුකුළු  ගොවිපළ කර්මාන්තයෙන් ගොවියන් ඉවත්වී කර්මාන්තය නැත්තටම නැතිවී යන බවද කියා සිටි .
+
+...
+
+[Data](articles/aad6f6fc.json)
+
+---
+
 ### Health is working next week
 
 *2024-07-08 20:05:16* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍යයත්-ලබන-සතියේදී-වැඩ-වරයි/11-410682) · `si`
@@ -2257,29 +2285,5 @@ Madam Blavatsky’s name is not strange for Sri Lankans as one of the early stal
 [Data](articles/9cac620b.json)
 
 [Extended Data](ext_articles/9cac620b.ext.json)
-
----
-
-### Bore. Recovery of a woman's body from the priests beach.
-
-*2024-07-08 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/187977) · `ta`
-
-A 40-year-old woman's body was found on Kurukammadam beach in the Kaluwanchikudi police division of Batticaloa district on Monday. The police are investigating and seek public assistance to identify her.
-
-🟩
-
-The body of a woman has been recovered on Monday (08) from the Kurukammadam beach belonging to the Kaluwanchikudi police division of the Batticaloa district, Kaluwanchikudi police said.
-
-Police rushed to the scene after receiving information that the body of a woman had been left in the shore at the beach of the priests.
-
-The body of the body is about 40 -year -old woman and the man has not yet been identified, police said.
-
-In addition, the body will be taken to the hospital with a court order and is seeking public help to identify the body.
-
-◼️
-
-[Data](articles/f0914c70.json)
-
-[Extended Data](ext_articles/f0914c70.ext.json)
 
 ---

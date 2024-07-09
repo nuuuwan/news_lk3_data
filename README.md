@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-09 17:35:30**
+As of **2024-07-09 17:56:12**
 
 ## Newspaper Stats
 
-*Scraped **34,415** Articles*
+*Scraped **34,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,028
 dailyftlk | 2,146
 adalk | 3,091
 adaderanalk | 3,952
-tamilmirrorlk | 4,093
+tamilmirrorlk | 4,095
 dailymirrorlk | 4,733
 virakesarilk | 5,376
 adaderanasinhalalk | 5,729
@@ -26,11 +26,33 @@ adaderanasinhalalk | 5,729
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,415 (100.0%) of 34,415 articles have been extended.
+34,415 (100.0%) of 34,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-09 (Tuesday)
+
+### 1,700 ரூபாய் கேட்டு ​கொழும்பில் ஆர்ப்பாட்டம்
+
+*2024-07-09 17:15:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/1-700-ரூபாய்-கேட்டு-கொழும்பில்-ஆர்ப்பாட்டம்/76-340100) · `ta`
+
+தோட்டத் தொழிலாளர்களின் நாளாந்த சம்பள உயர்வு சம்பந்தமாக உயர் நீதிமன்றம் வழங்கியுள்ள இடைக்கால  தடையுத்தரவின் பின் தொழிலாளர்களை இழிவுப் படுத்தும் செயற்பாடுகளில் கம்பனிகாரர்கள் ஈடுப்பட்டுள்ளனர் என குற்றச்சாட்டப்பட்டுள்ளது.
+
+அதற்கு எதிர்ப்பு தெரிவித்தும், 1,700 ரூபாய் சம்பளத்தை  பெற்றுக்கொள்வதற்காகவும் தோட்டத் தொழிலாளர்கள்  கொழும்புக்கு படையெடுத்து தமது உரிமைக்காக போராட்டம் நடத்தினர்.
+
+இந்தப் போராட்டம் பம்பலப்பிட்டியில் அமைந்துள்ள பெருந்தோட்ட பயிர்ச்செய்கை காப்பகத்திற்கு முன்பாக, செவ்வாய்க்கிழமை  (09) இடம்பெற்றது.
+
+இந்தப் போராட்டத்தை இலங்கை தொழிலாளர் காங்கிரஸின்   தேசிய அமைப்பாளர் ஏ.பி. சக்திவேல் தலைமை தாங்கி நடத்தினார்.
+
+அங்கு கருத்துரைத்த ஏ.பி.சத்திவேல் “தொழிலாளர்கள் வியர்வை சிந்தி உழைப்பதால், தோட்டத் துறைமார்களும்,கம்பனிக்காரர்களும்,   இலட்சக்கணக்கான ரூபாய்க்களை சம்பளமாக மாதாந்தம் பெறுகின்றனர்.
+
+தொழிலாளர்களின் உழைப்பை சுரண்டி, இலட்சக்கணக்கில் அவர்கள் சம்பளம்  பெரும்போது. தோட்டத்  தொழிலாளர்கள் வாழ்வதற்கு நாளொன்றுக்கு 1,700 ரூபாய் சம்பளத்தை கொடுக்க சில தோட்ட கம்பனிகள் மறுப்பது கண்டிக்கத்தக்கது.
+
+...
+
+[Data](articles/806e55d9.json)
+
+---
 
 ### Information about the firearms of Club Wasantha's wife
 
@@ -119,6 +141,20 @@ Meanwhile, President Ranil Wickremesinghe has approved the recommendation of Pre
 [Data](articles/94b9614a.json)
 
 [Extended Data](ext_articles/94b9614a.ext.json)
+
+---
+
+### கடமைக்கு வந்தவர்களுக்கு  விசேட சம்பள உயர்வு
+
+*2024-07-09 16:34:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கடமைக்கு-வந்தவர்களுக்கு-விசேட-சம்பள-உயர்வு/150-340098) · `ta`
+
+2024 ஆம் ஆண்டு ஜூலை 8ஆம், 9 ஆம் திகதிகளில் கடமைக்கு சமூகமளித்த, நிறைவேற்று தரத்திற்கு உள்ளடங்காத அரசாங்க அதிகாரிகளுக்கு விசேட சம்பள உயர்வொன்றை வழங்குவதற்கு அமைச்சரவை அங்கிகாரம் வழங்கியுள்ளது.
+
+இதேவேளை,  எதிர்கால பதவி உயர்வுகளுக்குப் பயன்படுத்தும் வகையில் விசேட பாராட்டுச் சான்றிதழொன்றை வழங்குவதற்கும் ஜனாதிபதி ரணில் விக்ரமசிங்க அமைச்சரவைக்கு, செவ்வாய்க்கிழமை (09)  சமர்ப்பித்த பரிந்துரைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+◼️
+
+[Data](articles/fb362997.json)
 
 ---
 
@@ -2303,45 +2339,5 @@ Following several media reports relating to Sri Lanka’s continental shelf subm
 [Data](articles/790dc723.json)
 
 [Extended Data](ext_articles/790dc723.ext.json)
-
----
-
-### Sri Lankan Ambassador to Saudi Arabia initiates felicitation of long-serving migrant workers
-
-*2024-07-09 04:54:01* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-Ambassador-to-Saudi-Arabia-initiates-felicitation-of-long-serving-migrant-workers/56-764003) · `en`
-
-Sri Lankan Ambassador to Saudi Arabia Ameer Ajwad has initiated a tradition of recognising and felicitating long-serving Sri Lankan migrant workers in the Kingdom of Saudi Arabia.
-
-Chandralal Senadhira, who has served as a senior manager at the Saudi Almarai multinational dairy company for more than 30 years and is leaving Saudi Arabia for good, was felicitated and presented a memento by Ambassador Ajwad during a brief event hosted by the Embassy of Sri Lanka in Riyadh.
-
-Speaking at the occasion, Ambassador Ajwad stated that Sri Lankan migrant workers form part of the bilateral relations between Sri Lanka and Saudi Arabia and that they make significant contributions in different fields to the development of the host country as well as to the economy of the home country by sending remittances. The Embassy has initiated this tradition to recognise their constructive contributions to the relations between the two countries.
-
-...
-
-[Data](articles/48cb67fb.json)
-
-[Extended Data](ext_articles/48cb67fb.ext.json)
-
----
-
-### Supreme Court dismisses petition to delay Presidential Election
-
-*2024-07-09 04:52:16* · [`dailyftlk`](https://www.ft.lk/news/Supreme-Court-dismisses-petition-to-delay-Presidential-Election/56-764002) · `en`
-
-SC affirms constitution clearly states a five-year presidential term, which the Attorney General emphasised during yesterday’s proceedings
-
-Counsel for intervening party MP Wimal Weerawansa argues that the 2019 gazette specifying President’s tenure as five years undermines petitioner’s claims
-
-Highlights that majority of voters in 2019 understood and accepted five-year Presidential term as per 19A
-
-SJB MP Mujibur Rahman praises court decision, suggesting it countered efforts by the President and Govt. to delay elections
-
-Sri Lanka’s Supreme Court dismissed a petition yesterday seeking to postpone the upcoming presidential election. The petitioner, entrepreneur C.D. Lenawa argued that the court needed to determine the President’s term length before the election could proceed.
-
-...
-
-[Data](articles/2f2dd9ba.json)
-
-[Extended Data](ext_articles/2f2dd9ba.ext.json)
 
 ---

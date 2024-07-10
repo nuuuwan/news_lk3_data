@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 14:35:11**
+As of **2024-07-10 14:54:26**
 
 ## Newspaper Stats
 
-*Scraped **34,586** Articles*
+*Scraped **34,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
-adalk | 3,111
+adalk | 3,112
 adaderanalk | 3,973
 tamilmirrorlk | 4,124
 dailymirrorlk | 4,733
@@ -26,49 +26,65 @@ adaderanasinhalalk | 5,756
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,583 (100.0%) of 34,586 articles have been extended.
+34,586 (100.0%) of 34,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### මම කිසිවක් දැන සිටියේ නෑ - දුලාන් සන්ජුල
+### I didn't know anything - the glan holiday
 
 *2024-07-10 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198672) · `si`
 
-ව්‍යාපාරික සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඝාතනයට අදාළව අත්අඩංගුවට ගත් සැකකරුවන් හත්දෙනාගෙන් පොලීසිය තවදුරටත් ප්‍රශ්න කරමින් සිටී.
+Businessman Surendra Wasantha Perera, also known as Club Wasantha, was killed on July 8th at a Tatu Center. The incident left his wife and another person injured. Seven suspects, aged between 24 and 37, have been arrested in connection with the case. The investigation focuses on the involvement of registered vehicles and the motive behind the attack.
 
-ඝාතකයන් හැර දමා ගිය ඔවුන් පාවිච්චි කළ වාහනවල ලියාපදිංචි හිමිකරුවන් මුල් කරගනිමින් එම විමර්ශන ක්‍රියාත්මකය.
+🟩
 
-ව්‍යාපාරිකයකු වූ සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත, ජුලි 08 වනදා අතුරුගිරියේ පිහිටි ටැටූ මධ්‍යස්ථානයක සිදුකළ වෙඩි තැබීමකින් ජීවිතක්ෂයට පත්වුණි.
+Police are further busy the seven suspects arrested in connection with the business of the Club Wasantha alias, Suresra Wasantha Perera.
 
-එම අවස්ථාවේ එහි සිටි ප්‍රසිද්ධ ගායන ශිල්පිනී කේ. සුජීවාගේ සැමියා වන නයන වාසුල නමැත්තාද මියගිය අතර කේ.සුජීවා, ක්ලබ් වසන්තගේ බිරිය, තවත් කාන්තාවක් හා පිරිමි පුද්ගලයෙකු තුවාල ලබා රෝහල්ගත කෙරුණි.
+The investigation was operating on the registered vehicles, led by the murderers.
 
-පසුව සිදුවීමට අදාළව ඝාතනය සිදුවූ ටැටූ මධ්‍යස්ථානයේ හිමිකරු වන දුලාන් සන්ජුල නමැත්තා ඇතුළු සැකකරුවන් හත්දෙනෙකු බස්නාහිර දකුණ අපරාධ කොට්ඨාසය විසින් ඊයේ (09) අත්අඩංගුවට ගත්තේය.
+The businessman, Surendra Wasantha Perera, or Club, was shot dead in a Tatu Center on July 08.
 
-එහිදී සිදුකළ ප්‍රශ්න කිරීම්වලදී ටැටූ මධ්‍යස්ථානයේ හිමිකරු පවසා තිබුණේ එම ව්‍යාපාරය ආරම්භ කිරීමට ලොකු පැටී නැමැති අපරාධකරු තමන්ට රුපියල් ලක්ෂ 16ක මුදලක් අවස්ථා කිහිපයකදී ලබාදුන් බවය.
+The famous singer kin. Nayana Vasasula, the husband of Sujeewa, died and K.Sishewa, Club Wasantha's wife and a man were injured and injured.
+
+The Western Sanjula, the owner of the Tattout Center, was arrested by the Western Sunnel, the Western Sunner, South Criminal Division.
+
+The owner of the TATO Center had said that the big Phick named big patient had been given a sum of Rs.
+
+After granting the money, the large patio was informed to invite the TATOs Center, and the owner of the TTO Center has convinced that the TATTER HASTRIA is not known to Karb Wasantha.
 
 ...
 
 [Data](articles/9e7dea5b.json)
 
+[Extended Data](ext_articles/9e7dea5b.ext.json)
+
 ---
 
-### මගේ නිවස ගිනිබත් කළ අවස්ථාවේ නිවසක වටිනාකම තදින් දැනුණා
+### At the time of fire my house was felt the value of a house
 
 *2024-07-10 13:57:56* · [`adalk`](https://www.ada.lk/breaking_news/මගේ-නිවස-ගිනිබත්-කළ-අවස්ථාවේ-නිවසක-වටිනාකම-තදින්-දැනුණා/11-410718) · `si`
 
-මීට වසර දෙකකට පෙර තම නිවස ගිනිතබා විනාශ කළ අවස්ථාවේ නිවසක වටිනාකම තමාට තදින් දැණුන බවත්, එම වටිනාකම හඳුනා ගනිමින් කොළඹ නගරයේ මහල් නිවාසවල ජීවත්වන ලක්ෂ දෙක හමාරක ජනතාවට එම නිවාසවල පූර්ණ අයිතිය හිමිකර දීමේ ‍වැඩසටහන ක්‍රියාවට නැංවූ බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+In a speech marking the handover of 50,000 houses to the public, President Ranil Wickremesinghe reflected on personal loss and the importance of homeownership. He highlighted the government's efforts to stabilize the economy and ensure law and order, crucial steps before implementing the housing program. The initiative aims to provide full ownership to low-income families, with the first phase granting titles to 1,070 beneficiaries by year-end. The president emphasized the significance of land ownership, drawing parallels between his own experience of losing a home and the broader societal need for security and prosperity.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ කොළඹ නගරයේ මහල් නිවාසවල ජීවත්වන අඩු ආදායම්ලාභි පවුල් ලක්ෂ දෙක හමාරක ජනතාවට එම නිවාසවල පූර්ණ අයිතිය ලබාදීමේ “රන්දොර උරුමය” වැඩසටහනේ පළමු අදියර යටතේ නිවාස 50,000ක අයිතිය ප්‍රදානය කිරීමේ සමාරම්භක අවස්ථාවට ඊයේ (09) පස්වරුවේ ජනාධිපති කාර්යාලයේ දී එක් වෙමිනි.
+🟩
 
-කොළඹ දිස්ත්‍රික්කයේ මහල් නිවාස සංකීර්ණ 31ක පිහිටි නිවාස 130ක හිමිකාරීත්වය ප්‍රදානය කිරීම මෙහිදී සිදු කෙරුණු අතර ජනාධිපතිවරයා සංකේතාත්මකව එම අවස්ථාවට එක් විය.
+President Ranil Wickremesinghe said that he was bowled out for the value of a house when he destroyed her home two years ago and identifying the value of the houses, "President Ranil Wickremesinghe said.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පයකට අනුව 2024 අයවැය යෝජනා මඟින් ලක්ෂ 20ක ජනතාවට සින්නක්කර ඉඩම් අයිතිය ලබාදීමේ උරුමය වැඩසටහන සහ කොළඹ නගරයේ මහල් නිවාසවල ජීවත්වන අඩු ආදායම්ලාභී පවුල් ලක්ෂ දෙක හමාරකට එම නිවාසවල පූර්ණ අයිතිය ලබාදීමේ වැඩසටහන ක්‍රියාවට නැංවිණි.
+The President was speaking at the inauguration of 50,000 houses to give the public ownership of 50,000 houses yesterday (09).
+
+The number of houses in 31 Colombo District was presented with the ownership of 130 houses in 31 Colombo District.
+
+According to President Ranil Wickremesinghe's concept, the 2024 budget proposals were implemented in the 2024 Budget Proposals to provide full ownership of these houses for the public ownership program and the low income families living in the apartments of Colombo.
+
+The National Housing Development Authority (NHDA) has paid Rs.The first phase of the first phase will be granted under the first phase for 50,000 beneficiary families. The National Housing Development Authority has planned to provide title deeds to 1070 beneficiaries by the end of this year.
 
 ...
 
 [Data](articles/dcb89348.json)
+
+[Extended Data](ext_articles/dcb89348.ext.json)
 
 ---
 
@@ -94,17 +110,23 @@ The Constitution, which exceeds the word "turning out", the word "exceeding a fi
 
 ---
 
-### ஜனாதிபதி, பாராளுமன்ற பதவிக்காலத்தில் திருத்தம்
+### Amendment during the president, parliamentary term
 
 *2024-07-10 13:49:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-பாராளுமன்ற-பதவிக்காலத்தில்-திருத்தம்/175-340156) · `ta`
 
-ஜனாதிபதி மற்றும் பாராளுமன்ற பதவிக்காலம் தொடர்பாக இலங்கை அரசியல்யாப்பில் நிலவும் தெளிவின்மையை நீக்க அமைச்சரவை அனுமதி வழங்கியுள்ளது.
+The Sri Lankan Cabinet approved changes to clarify the presidential and parliamentary term limits, allowing the President's suggestion to include "more than six years" in the Constitution.
 
-இதன்படி அரசியல் யாப்பில் ஜனாதிபதி மற்றும் பாராளுமன்ற பதவிக் காலம் தொடர்பாகக் குறிப்பிடப்பட்டுள்ள 'ஆறு ஆண்டுகளுக்கு மேல்' என்ற சொற்றொடருக்குப் பதிலாக ஐந்து ஆண்டுகளுக்கு மேல் என்ற சொற்றொடரை இணைக்க ஜனாதிபதி முன்வைத்த யோசனைக்கு
+🟩
+
+The Cabinet has granted permission to eliminate the clarity in the Sri Lankan constitution on the president and parliamentary term.
+
+Accordingly, the President's proposal to incorporate the phrase 'more than six years', which has been referred to the president and parliamentary term in the Constitution.
 
 ◼️
 
 [Data](articles/263a31a7.json)
+
+[Extended Data](ext_articles/263a31a7.ext.json)
 
 ---
 
@@ -143,6 +165,22 @@ Nidahasa Janata Sabha (NJS), led by Member of Parliament Dullas Alahapperuma, ha
 [Data](articles/8a00000d.json)
 
 [Extended Data](ext_articles/8a00000d.ext.json)
+
+---
+
+### වතු කම්කරුවන්ට නියමිත වැටුප නොගෙවන වැවිලි සමාගම් සමග ඇති ගිවිසුම් අවලංගු කරයි
+
+*2024-07-10 13:21:00* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරුවන්ට-නියමිත-වැටුප-නොගෙවන-වැවිලි-සමාගම්-සමග-ඇති-ගිවිසුම්-අවලංගු-කරයි/11-410714) · `si`
+
+වතු කම්කරුවන් වෙත නියමිත වැටුප නොගෙවනු ලබන ප්‍රාදේශීය වැවිලි සමාගම් සමග රජය එළඹ ඇති ඉඩම් බදු ගිවිසුම් අවලංගු කිරීම පිණීස අවශ්‍ය නීති පැනවීමේ ක්‍රියාවලිය කඩිනම් කිරීම සඳහා  අමාත්‍ය මණ්ඩල අනුමැතිය හිමි වී තිබේ.
+
+ජීවන වියදම සහ මෑත කාලීනව රට තුළ පැන නැගී ඇති ආර්ථික අර්බුදයේ බලපෑම් කෙරෙහි නිසි සැළකිල්ලක් යොමු කරමින් වතු කම්කරුවෙකු සඳහා දිනකට ගෙවිය යුතු වැටුප තක්සේරු කරන ලෙස මුදල් , ආර්ථික ස්ථායීකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යංශයේ ලේකම්ට 2021.05.20 දින පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී උපදෙස් දී ඇත.
+
+එමෙන්ම , එකී වැටුප ගෙවීම සඳහා එක් එක් ප්‍රාදේශීය වතු සමාගම් සතුව පවතින හැකියාව නිශ්චය කිරීම පිණිස කමිටුවක් පත් කිරීම සඳහා ද ඊයේ (09) පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී තීරණය කරනු ලැබ තිබේ.
+
+◼️
+
+[Data](articles/10661a4e.json)
 
 ---
 
@@ -2191,27 +2229,5 @@ In reply, Goal Marwals lost all the wickets in 19.4 overs and lost 135 runs.
 [Data](articles/68764ca4.json)
 
 [Extended Data](ext_articles/68764ca4.ext.json)
-
----
-
-### The answer sheet will increase the assessment allowance
-
-*2024-07-10 00:41:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடைத்தாள்-மதிப்பீட்டுக்-கொடுப்பனவு-அதிகரிக்கும்/175-340120) · `ta`
-
-The Cabinet has approved increasing allowances for the GCE Ordinary Level Examination and Grade Five Scholarship Examination, as recommended by the Ministry of Education's Sub-Committee.
-
-🟩
-
-The Cabinet has approved the idea of ​​increasing the GCE Ordinary Level Examination and Grade Five Scholarship Examination.
-
-The Ministry of Education said that the Cabinet had approved the proposal proposed.
-
-The Ministry of Education has issued a statement saying that the proposal has been proposed based on the recommendations of the Sub -Committee comprising the Department of Examinations.. (A)
-
-◼️
-
-[Data](articles/f6de642d.json)
-
-[Extended Data](ext_articles/f6de642d.ext.json)
 
 ---

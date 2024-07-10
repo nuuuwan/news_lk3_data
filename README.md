@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 05:37:43**
+As of **2024-07-10 06:01:51**
 
 ## Newspaper Stats
 
-*Scraped **34,486** Articles*
+*Scraped **34,499** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ dbsjeyarajcom | 311
 colombotelegraphcom | 324
 bbccomsinhala | 337
 newsfirstlk | 363
-islandlk | 1,936
+islandlk | 1,945
 economynextcom | 2,034
-dailyftlk | 2,155
+dailyftlk | 2,159
 adalk | 3,101
 adaderanalk | 3,958
 tamilmirrorlk | 4,100
@@ -26,11 +26,73 @@ adaderanasinhalalk | 5,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,480 (100.0%) of 34,486 articles have been extended.
+34,486 (100.0%) of 34,499 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### The world must thank the Palestinians
+
+*2024-07-10 05:47:09* · [`dailyftlk`](https://www.ft.lk/columns/The-world-must-thank-the-Palestinians/4-764063) · `en`
+
+The world citizens collectively should be grateful to the Palestinians for exposing several areas which were hitherto deceivingly hidden behind the curtain of anti-Semitism
+
+“What we know about how these children are being treated is unacceptable, but what we don’t know could be even worse.” – Jason Lee, Save the Children
+
+To put things in perspective. Figures from widely reported independent sources indicate, as of today, the number of Palestinians – Muslims, Christians and others – killed total to 37,000. Of this, the number of children killed are 13,800. The total number injured is 75,000 and the attacks are continuing. The ceasefire approved by the Security Council in June has been conveniently forgotten. The arrest warrant against Netanyahu and his other accomplices in war crimes has been tactically delayed.
+
+...
+
+[Data](articles/f0118fc7.json)
+
+---
+
+### A time to ponder; a time for change?
+
+*2024-07-10 05:41:05* · [`dailyftlk`](https://www.ft.lk/columns/A-time-to-ponder-a-time-for-change/4-764062) · `en`
+
+More than at any time in the past those in whose hands lies the power to choose their leaders will also decide their own futures and that of their children – Pic by Shehan Gunasekara
+
+There has never been as important a period in the history of Sri Lanka as will be the next few months. The country is still reeling under the financial and economic battering of two years ago. As per the latest statistics the country’s debt burden has ticked over the $ 100 billion mark – including the backlog of interest. Meanwhile, a deceptive sense of calm and even spots of prosperity – for some – seem to prevail on the surface disguising strong undercurrents of turmoil.
+
+This turmoil is more than just a single facet. One could debate which of them is worse but the combination is a deadly cocktail which unless mitigated has the potential to cripple the country and the lives of its citizens for decades to come. Yet, the solution to this complex situation lies – literally – in the hands of the stakeholders.
+
+...
+
+[Data](articles/ea42a08e.json)
+
+---
+
+### Overview of Japan-Sri Lanka economic relations
+
+*2024-07-10 05:33:42* · [`dailyftlk`](https://www.ft.lk/columns/Overview-of-Japan-Sri-Lanka-economic-relations/4-764059) · `en`
+
+Japan has always been a benevolent partner in the development trajectory of Sri Lanka. Japan is the world’s fourth largest economy in terms of GDP. This article explores the bilateral trade, investment and tourism. The article is exclusively focused on bilateral economic relations and not going to explore the development cooperation due to space constraints.
+
+As illustrated in Table 1.1, Sri Lanka’s export to Japan during 2018-23 period remained below $ 300 million. In 2020, with the outbreak of the COVID-19 pandemic, Sri Lanka’s exports to Japan has reduced to $ 188 million yet recovered in 2021 and 2022 recording total exports of $ 227 million and 231 million respectively. However, in 2023 the total export to Japan has declined to $ 190 million.
+
+According to the export data published by CBSL, Japan is the 13th largest export destination of Sri Lanka in 2023. The major export commodities from Sri Lanka includes tea, shrimps and prawns, coconut products, apparel and rubber products, etc.
+
+...
+
+[Data](articles/1a3c92e4.json)
+
+---
+
+### Strengthening China-Sri Lanka economic and trade partnership: Embracing opportunities for mutual growth
+
+*2024-07-10 05:29:05* · [`dailyftlk`](https://www.ft.lk/opinion/Strengthening-China-Sri-Lanka-economic-and-trade-partnership-Embracing-opportunities-for-mutual-growth/14-764058) · `en`
+
+The following are remarks by Ambassador of the People’s Republic of China Qi Zhenhong at the 23rd Annual General Meeting of the Sri Lanka-China Business Council held on 2 July at Hilton Colombo Residences
+
+It is a great honour to be invited by the Sri Lanka-China Business Council of the Ceylon Chamber of Commerce to attend the 23rd Annual Meeting. First and foremost, on behalf of the Embassy of the People’s Republic of China in Sri Lanka, I extend my warmest congratulations to all members of the council! The Ceylon Chamber has a long history and has maintained a friendly and cooperative relationship with the Chinese Embassy. We highly appreciate the Chamber’s outstanding contributions to promoting exchanges and economic cooperation between our two countries.
+
+...
+
+[Data](articles/71ff0d82.json)
+
+---
 
 ### Seven arrested in Club Wasantha murder; Kanjipani Imran identified as mastermind
 
@@ -45,6 +107,8 @@ Investigations have revealed that Dulan Sanjula, the owner of the tattoo studio,
 ...
 
 [Data](articles/9414edea.json)
+
+[Extended Data](ext_articles/9414edea.ext.json)
 
 ---
 
@@ -61,6 +125,8 @@ The IGP confirmed that the police have already uncovered the mastermind behind t
 ...
 
 [Data](articles/b9aff846.json)
+
+[Extended Data](ext_articles/b9aff846.ext.json)
 
 ---
 
@@ -79,6 +145,8 @@ Sri Lankan Ambassador to the United States Mahinda Samarasinghe and officials fr
 ◼️
 
 [Data](articles/47a8a4b3.json)
+
+[Extended Data](ext_articles/47a8a4b3.ext.json)
 
 ---
 
@@ -102,6 +170,8 @@ The Speaker pointed out the importance of contributing the knowledge and experie
 
 [Data](articles/704c7a5d.json)
 
+[Extended Data](ext_articles/704c7a5d.ext.json)
+
 ---
 
 ### Colombo chosen as telecast centre for Dawoodi Bohras’ Ashara Mubaraka congregations
@@ -117,6 +187,8 @@ This year, Saifuddin has chosen Karachi to host the Ashara Mubaraka congregation
 ...
 
 [Data](articles/c700594c.json)
+
+[Extended Data](ext_articles/c700594c.ext.json)
 
 ---
 
@@ -347,6 +419,8 @@ In reply, Goal Marwals lost all the wickets in 19.4 overs and lost 135 runs.
 ◼️
 
 [Data](articles/fcc681f4.json)
+
+[Extended Data](ext_articles/fcc681f4.ext.json)
 
 ---
 
@@ -580,6 +654,22 @@ As a result, several trains including the night mail trains to and from Colombo 
 
 ---
 
+### Seasonal swings in Sri Lanka’s mango market: A balancing act with economic insights
+
+*2024-07-09 21:13:00* · [`islandlk`](http://island.lk/seasonal-swings-in-sri-lankas-mango-market-a-balancing-act-with-economic-insights/) · `en`
+
+Chandula Idirisinghe is a Research Assistant working on Agriculture and Agribusiness Development at the Institute of Policy Studies of Sri Lanka (IPS). He holds a BSc (Hons) in Agricultural Technology and Management, specialising in Applied Economics and Business Management from the Faculty of Agriculture, University of Peradeniya. His research interests include agricultural policies and institutions; agricultural productivity; agribusiness value chains; food security and environmental and natural resource policies.
+
+Sri Lanka’s mango industry, deeply woven into the cultural fabric and dietary needs of Sri Lanka, is thriving with a 12.2% production boost and a 5% yield improvement over the past two decades.
+
+Yet, the industry is characterised by drastic seasonal price swings. Prices are currently low, and another significant drop is expected between September and January, mirroring last year’s 70% plunge in Karthakolomban mango prices.
+
+...
+
+[Data](articles/12d4f200.json)
+
+---
+
 ### UN Representative Ludiana Sherin Akhilan Akhilan Akhilan Akhilan on the fifth day of the Kokkuttuwai Human Propard;Tamil Nadu urges the international monitoring
 
 *2024-07-09 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/188084) · `ta`
@@ -604,6 +694,20 @@ The fifth day excavation work was carried out by the Professor of Archeology Raj
 
 ---
 
+### T-Jay Enterprises, key advertiser in latest Rainbow Pages Business Directory
+
+*2024-07-09 21:11:00* · [`islandlk`](http://island.lk/t-jay-enterprises-key-advertiser-in-latest-rainbow-pages-business-directory/) · `en`
+
+T-Jay Enterprises (Pvt) Ltd., a prominent player in the Local Industrial Equipment, Material Handling Equipment Supplies, Fluid Handling Pumps & Electric Golf Vehicles, have solidified its position as a key advertiser in the upcoming release of Rainbow Pages, the National Business Directory 2024/25, presented by SLT-MOBITEL group. As one of the top 20 clients of the National Business Directory, T-Jay Enterprises has recognized the value and potential of this comprehensive marketing platform.
+
+Scheduled for release by the end of the year, Rainbow Pages, the National Business Directory 2024/25 promises to be the most updated and extensive business directory in Sri Lanka. Under the contract, T-Jay Enterprises will enjoy a range of online and offline advertising options and potential marketing solutions tailored to their needs, including digital marketing strategies, web solutions, e-commerce, shopping cart and content development services.
+
+...
+
+[Data](articles/77955cb1.json)
+
+---
+
 ### Gautam Gambhir of Indian Cricket Team
 
 *2024-07-09 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198650) · `si`
@@ -623,6 +727,20 @@ Rahul Dravid was served as the chief coach of the Indian cricket team up to the 
 [Data](articles/d0b960a6.json)
 
 [Extended Data](ext_articles/d0b960a6.ext.json)
+
+---
+
+### Share market investors agonize over possible policy uncertainty on part of govt.
+
+*2024-07-09 21:07:00* · [`islandlk`](http://island.lk/share-market-investors-agonize-over-possible-policy-uncertainty-on-part-of-govt/) · `en`
+
+Stock market trading proved somewhat dull yesterday as local and foreign investors agonized over the possibility of the current political crisis leading to uncertainty in decision making on the part of the state on policy matters in the future, market analysts said.
+
+Amid those developments both indices moved downwards. The All- Share Price Index went down by 51.4 points while S and P SL20 declined by 28.95 points. Turnover stood at Rs 483 million with one crossing. The crossing was reported in JKH, which crossed 150,000 shares to the tune of Rs 30 million; its shares traded at Rs 200.
+
+...
+
+[Data](articles/c6385959.json)
 
 ---
 
@@ -2139,179 +2257,5 @@ The letter said that the government had decided on June 2 to enter the ‘Treaty
 [Data](articles/3f1c7fa8.json)
 
 [Extended Data](ext_articles/3f1c7fa8.ext.json)
-
----
-
-### 60 % MPs My Friends: Telephone Club Spring
-
-*2024-07-09 14:03:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/60-எம்-பி-க்கள்-என்-நண்பர்கள்-கிளப்-வசந்த/175-340093) · `ta`
-
-In a tragic incident, Urandra Vasantha Perera, aka 'Club Vasantha,' was shot dead along with another individual at Athurugiriya junction. Singer K. Sujeeva and two others were injured. Notably, Sujeeva claimed to have over 60% of MPs as friends.
-
-🟩
-
-Urandra Vasantha Perera, known as 'Club Vasantha', was killed in the shooting incident at the Athurugiriya junction on Monday afternoon (08) afternoon.. Another person with him has died.
-
-Three persons, including singer K. Sujeeva, have been admitted to hospital with injuries in the shooting incident.. He recently presented to Ladalipa that more than 60 per cent of MPs are his friends.
-
-◼️
-
-[Data](articles/91ffb8ce.json)
-
-[Extended Data](ext_articles/91ffb8ce.ext.json)
-
----
-
-### A new institution to look into the relationship between the Buddha's Sermon and Scientific World
-
-*2024-07-09 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198636) · `si`
-
-President Ranil Wickremesinghe plans to establish a new institution within a year to explore the connection between the Buddha's teachings and modern science, particularly artificial intelligence. This initiative comes amid global interest in AI and environmental concerns, highlighting the relevance of Buddhist principles in addressing contemporary challenges.
-
-🟩
-
-The Buddha's sermon is included in the newness of the world today. Today, we are in a milestone that science and Dhamma.
-
-President Ranil Wickremesinghe says he will establish a new institution within a year to look into the relationship between the Buddha's Sermon and Scientific World.
-
-The President made these comments participating at the Amarapura Day Daily Commemoration yesterday (08).
-
-The Amarapura Maha Nikaya at Amarapura Maha Nikaya held yesterday at the Sabaragamuwa Provincial Council Auditorium yesterday.
-
-Amarapura day celebrates all the adoptresses that made all the modes of the Sambuddha Sasana for 222 years.
-
-"Today we are in a scientific and technology world. The world has changed in today's unimaginableness. Especially when the entire world is focusing on artificial intelligence, we should focus on it. Another 5-10 years we have to pay close attention to the relationship between artificial intelligence technology and mind.
-
-...
-
-[Data](articles/3a75c8f4.json)
-
-[Extended Data](ext_articles/3a75c8f4.ext.json)
-
----
-
-### Democratic opinion that Bidaman should quit the President
-
-*2024-07-09 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198635) · `si`
-
-Some Democrats argue that due to his age and health concerns, including Parkinson's disease, Joe Biden should not seek re-election. Critics question his fitness for office, while supporters defend his experience and leadership. The debate intensifies as the November election approaches, with some fearing a potential loss to Trump.
-
-🟩
-
-The United States has created an ideological ideology in the party that US President Joe Biden should quit the presidential election.
-
-It was the aged as Biday and the charges that he was suffering from Parkinson.
-
-The 81-year-old American President Joe Biden is ready to contest the American presidential election in November.
-
-He is declining as the support of the Democratic Party as the old presidential candidate, that the older Biden was inappropriate in the party.
-
-The controversy was the presidential election campaign between former president's candidate Donald Trump on June 27.
-
-According to foreign media reports, the top of the party would be able to be the failure of the party with the failure of the party with the failure of the party with the failure of the party in the face of Trump.
-
-Many parties are questioning Bidesen's elderly, and some point out that he suffers from Parkinson.
-
-If Bidain's election battle is quitting, he is questionable for what the candidate is.
-
-...
-
-[Data](articles/aca5a859.json)
-
-[Extended Data](ext_articles/aca5a859.ext.json)
-
----
-
-### Two arrested with ‘Ice’ worth nearly Rs. 10 million
-
-*2024-07-09 13:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100392/two-arrested-with-ice-worth-nearly-rs-10-million) · `en`
-
-The Police Narcotics Bureau (PNB) has arrested two individuals in possession of 1 kg and 14 grams of crystal methamphetamine (commonly known as ‘Ice’), with an estimated street value of Rs. 10 million.
-
-The suspects were found with the drugs and Rs. 1 million in cash, suspected to be proceeds from drug trafficking.
-
-Acting on information that the suspects were seeking a buyer for the ‘Ice’, the police have posed as buyers and apprehended them.
-
-During interrogation, it has been revealed that the drug consignment belonged to a large-scale drug trafficker who is currently hiding abroad.
-
-The arrested individuals are residents of the ‘Mihijaya Sevana’ housing scheme in the Jinthupitiya area of Grandpass, the police said.
-
-The suspects will be further questioned under detention orders as the Police Narcotics Bureau continues its investigation into the incident, according to police.
-
-◼️
-
-[Data](articles/09befb7f.json)
-
-[Extended Data](ext_articles/09befb7f.ext.json)
-
----
-
-### Karu Jayasuriya appointed Chair of Sri Lanka’s Former Parliamentarians’ Caucus
-
-*2024-07-09 13:41:00* · [`economynextcom`](https://economynext.com/karu-jayasuriya-appointed-chair-of-sri-lankas-former-parliamentarians-caucus-171402/) · `en`
-
-ECONOMYNEXT — Former Speaker Karu Jayasuriya has been appointed as the chair of Sri Lanka’s Former Parliamentarians’ Caucus.
-
-Parliament said in a statement on Monday July 08 that Jayasuriya’s appointment was made unanimously at the first meeting of the caucus which was held at the parliament complex recently.
-
-The meeting had been chaired by Speaker Mahinda Yapa Abeywardana. Jayasuriya’s name was proposed by the former Deputy Speaker Thilanga Sumathipala and former Member of Parliament Sumedha G Jayasena, the statement said.
-
-Former MP Shantha Premaratne was appointed as the convener of the caucus, also unanimously.
-
-Secretary General of the Parliament Kushani Rohanadeera and Assistant General Secretary Hansa Abeyratne were also present at this meeting, the statement said.
-
-Rohanadeera has said at a discussion at the meeting that Secretariat of the Parliament is working to resolve is working to resolve issues faced by former parliamentarians.
-
-...
-
-[Data](articles/4445cb88.json)
-
-[Extended Data](ext_articles/4445cb88.ext.json)
-
----
-
-### Police Officers' bail of bribery
-
-*2024-07-09 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198634) · `si`
-
-Colombo Magistrate Court rejected bail for two police officers from the Colombo Crimes Division, ordering them remanded until March 23rd. The court action follows their arrest by the Bribery Commission over allegations of accepting a bribe related to an ongoing case.
-
-🟩
-
-The Colombo Magistrate Court today (09) to reject the bail of the Colombo Crimes Division of the Colombo Crimes Division and the Constable.
-
-The order was published by the Chief Magistrate Thilina Gamage.
-
-The Magistrate ordered that the suspects were remanded till the 23a.
-
-The Bribery Commission also produced the money he had been bribed by the suspects.
-
-The Bribery Police were arrested by the Bribery Commission on suspicion of a bribe of an incident involved in the incident.
-
-◼️
-
-[Data](articles/ee76cd04.json)
-
-[Extended Data](ext_articles/ee76cd04.ext.json)
-
----
-
-### Model Aswesum: Action Notification Released
-
-*2024-07-09 13:24:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-அதிரடி-அறிவிப்பு-வெளியானது/175-340092) · `ta`
-
-"Phase two of Sri Lanka's 'Assuma' program, advised by President Ranil Wickremesinghe, processed over 450,000 additional applications, bringing total applicants to over 1.8 million. The Welfare Council will select eligible recipients for welfare services from July 15-30."
-
-🟩
-
-In the first phase of the 'Assuma' program, which will be carried out on the advice of President Ranil Wickremesinghe, more than 18 lakhs have received a further 450,924 applications in the second phase.
-
-Of these, the Welfare Council has announced that it will be carried out from July 15 to 30, selecting and checking out those who are eligible to receive welfare services.
-
-◼️
-
-[Data](articles/8bd919a4.json)
-
-[Extended Data](ext_articles/8bd919a4.ext.json)
 
 ---

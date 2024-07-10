@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 10:53:53**
+As of **2024-07-10 11:05:31**
 
 ## Newspaper Stats
 
-*Scraped **34,540** Articles*
+*Scraped **34,549** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 311
+dbsjeyarajcom | 312
 colombotelegraphcom | 324
 bbccomsinhala | 338
 newsfirstlk | 363
@@ -16,21 +16,105 @@ islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
 adalk | 3,103
-adaderanalk | 3,964
-tamilmirrorlk | 4,109
+adaderanalk | 3,965
+tamilmirrorlk | 4,112
 dailymirrorlk | 4,733
 virakesarilk | 5,399
-adaderanasinhalalk | 5,746
+adaderanasinhalalk | 5,750
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,536 (100.0%) of 34,540 articles have been extended.
+34,540 (100.0%) of 34,549 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### ரயில் சேவைகள் முடங்கின: பயணிகள் தவிப்பு
+
+*2024-07-10 10:55:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவைகள்-முடங்கின-பயணிகள்-தவிப்பு/175-340140) · `ta`
+
+பல்வேறு கோரிக்கைகளை முன்வைத்து ரயில் நிலைய அதிபர்கள் ஆரம்பித்துள்ள வேலைநிறுத்தப் போராட்டத்தால் ரயில் பயணிகள் மற்றும் அலுவலக ஊழியர்கள் பெரிதும் சிரமப்பட்டனர்.
+
+கொழும்பு கோட்டை வரை பல ரயில்களை இயக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாக திணைக்களம் குறிப்பிடுகிறது. ரயில்வே சீசன் டிக்கெட் வைத்திருக்கும் பயணிகளுக்கு இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான பேருந்துகள் மூலம் போக்குவரத்து வசதிகள் செய்யப்பட்டுள்ளதாக போக்குவரத்து அமைச்சகம் தெரிவித்துள்ளது. வேலைநிறுத்தப் போராட்டத்தால், பயணிகள் கடும் சிரமத்திற்கு ஆளாகினர்.
+
+◼️
+
+[Data](articles/467df9e5.json)
+
+---
+
+### ඩලස්ගේ සහායත් සමගි ජන සන්ධානයට
+
+*2024-07-10 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198666) · `si`
+
+එළැඹෙන ජනාධිපතිවරණය සඳහා සමගි ජන බලවේගයේ වැඩපිළිවෙලට සහාය දැක්වීමට ඩලස් අලහප්පෙරුම මහතා ප්‍රමුඛ නිදහස ජනතා සභාව තීරණය කර තිබේ.
+
+අද (10) පැවති මාධ්‍ය හමුවකට එක්වෙමින් එහි නිදහස ජනතා සභාවේ පාර්ලිමේන්තු මන්ත්‍රී මහාචාර්ය චරිත හේරත් මහතා මේ බව පැවසීය.
+
+"අපි ජනාධිපති අපේක්ෂකයෙක් ඉදිරිපක් කරන්නේ නෑනේ. ජනාධිපති අපේක්ෂකයා ඉදිරිපත් කරන්නේ සමගි ජන බලවේගයෙන් තමා. ඒ අනුව දැනට පාර්ශවකරුවෝ ගණනාවක් ඉන්නවා සමගි ජන සන්ධානය කියලා. ඉදිරියත් එන්න නියමිතව තිබෙනවා. ඒ සියල්ල එකතු කරගත් ශක්තිමත් පළල් බලවේගයක්. ඒකේ අපිත් ඉන්නවා. අපි සහ ඒ සියලුදෙනා එකතු වෙලා එක් පුද්ගලයෙක් ජනාධිපති විදියටත් ශක්තිමත් කණ්ඩායමකුත් වැඩපිළිවෙලකුත් රට හමුවේ තියලා ජයග්‍රහණය කරනවා."
+
+ආණ්ඩුව පරාජය කිරීම ස﻿ඳහා වූ සටනේ දී නිදහස ජනතා සභාව විසින් සමගි ජන බලවේගය සමග සිදුකළ සාකච්ඡා ඉතාම සාර්ථක බව ද චරිත හේරත් මහතා පවසයි.
+
+රට තුළ පුළුල් දේශපාලන වෙනසක් ඇති කිරීම සඳහා විපක්ෂය සමග ඉදිරි සති කිහිපය තුළ ඍජුව කටයුතු කිරීමට නියමිත බව ද ඒ මහතා පැවසීය.
+
+◼️
+
+[Data](articles/8fc83d33.json)
+
+---
+
+### பாம்புகளுடன் பயணித்த இழுவைப் படகு : ஐவர் கைது
+
+*2024-07-10 10:40:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாம்புகளுடன்-பயணித்த-இழுவைப்-படகு-ஐவர்-கைது/175-340137) · `ta`
+
+சட்டவிரோதமான முறையில் பறவைகள் மற்றும் ஊர்வனவற்றை மீன்பிடி இழுவைப் படகு மூலம் கடல் வழியாக எடுத்துச் சென்ற சந்தேக நபர்கள் ஐவர் தென்கடல் பகுதியில் வைத்து கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபர்கள் ஐவரும் 34 முதல் 67 வயதுக்கு இடைப்பட்டவர்கள் எனவும், இவர்கள் கொச்சிக்கடை மற்றும் நீர்கொழும்பு ஆகிய பகுதிகளை சேர்ந்தவர்கள் எனவும் கடற்படையினர் தெரிவித்தனர்.
+
+கடற்படை புலனாய்வுப் பிரிவினருக்கு கிடைத்த விஷேட தகவல் ஒன்றின் அடிப்படையில் குறித்த இழுவை மீன்பிடி படகினை சோதனைக்கு உட்படுத்திய போதே சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+இதன்போது, 13 மலைப்பாம்புகள், உடும்பு ஒன்று, ஆமை ஒன்று மற்றும் மூன்று கிளிகள் என்பன மிகவும் பாதுகாப்பான முறையில் கொண்டுவரப்பட்டுள்ளமை தெரியவந்துள்ளது.
+
+மேலும், சட்டவிரோதமாக இழுவை மீன்பிடி படகில் கொண்டு வரப்பட்ட விலங்குகளை பரிசோதித்த வனவிலங்கு பாதுகாப்பு திணைக்கள அதிகாரிகள்,  குறித்த விலங்குகள் இலங்கைக்கு சொந்தமனவை அல்ல என உறுதிப்படுத்தியுள்ளனர்.
+
+...
+
+[Data](articles/dc00bde1.json)
+
+---
+
+### කටුනායක ගුවන්තොටුපොළ සංවර්ධනයට ජයිකා නැවත එයි
+
+*2024-07-10 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198665) · `si`
+
+කටුනායක බණ්ඩාරනායක ගුවන්තොටුපොළෙහි දෙවැනි පර්යන්තයේ සංවර්ධන කටයුතු නැවත ආරම්භ කිරීමට ජපානයේ ජයිකා ආයතනය එකඟ වී තිබේ.
+
+එම ව්‍යාපෘතිය සහන ණයක් යටතේ සිදුකිරීමට නියමිත බව, ගුවන්තොටුපොළ හා වරාය අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා පැවසීය.
+
+◼️
+
+[Data](articles/007e3453.json)
+
+---
+
+### 3 குழந்தைகளை ஒப்படைத்த தாய் கைது
+
+*2024-07-10 10:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/3-குழந்தைகளை-ஒப்படைத்த-தாய்-கைது/76-340136) · `ta`
+
+மூன்று குழந்தைகளையும் பொலிஸாரிடம் ஒப்படைத்த தாய், அக்குழந்தைகளை ஒப்படைத்துவிட்டு, ரயில் நிலையத்துக்குச் சென்றபோது, பொலிஸார் கைது செய்து, வைத்தியசாலையில் அனுமதித்துள்ள சம்பவமொன்று ஹட்டன் பொலிஸ் பிரிவில் இடம்பெற்றுள்ளது.
+
+மூன்று பிள்ளைகளையும் ஹட்டன் பொலிஸ் மகளிர் பணியகத்தில் ஒப்படைத்துவிட்டு புகையிரதத்தில் பாய்ந்து தன்னுயிரை மாய்த்துக்கொள்ள  முயன்ற மூன்று பிள்ளைகளின் தாயை ஹட்டன் பொலிஸ் மகளிர் பணியக அதிகாரிகள் கைது செய்து டிக்கோயா ஆரம்ப வைத்தியசாலையில் செவ்வாய்க்கிழமை (09) அனுமதித்துள்ளனர்.
+
+ஹட்டன்-டிக்கோயா பிரதேசத்தைச் சேர்ந்த மூன்று பிள்ளைகளின் தாய்,   ஹட்டன் பொலிஸாரிடம் வந்து கணவருடன் வாழ முடியாது எனவும், அதன்படி 08, 06 மற்றும்  04 வயதுடைய இரண்டு ஆண் பிள்ளைகள் மற்றும் ஒரு பெண் உட்பட மூன்று பிள்ளைகளையும் ஒப்படைத்துள்ளார்.
+
+...
+
+[Data](articles/489ca1ad.json)
+
+---
 
 ### JICA agrees to resume construction of BIA terminal 2
 
@@ -41,6 +125,28 @@ The Japan International Cooperation Agency (JICA) has agreed to resume the secon
 ◼️
 
 [Data](articles/29c4c01f.json)
+
+[Extended Data](ext_articles/29c4c01f.ext.json)
+
+---
+
+### JICA agrees to resume funding for BIA’s terminal 2
+
+*2024-07-10 10:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100412/jica-agrees-to-resume-funding-for-bias-terminal-2-) · `en`
+
+The Japan International Cooperation Agency (JICA) has agreed to resume funding for the second terminal of the Bandaranaike International Airport (BIA) extension project, facilitated under a concessionary loan scheme, says Minister of Ports, Shipping and Aviation Nimal Siripala de Silva.
+
+The construction of the second terminal at the BIA began in 2020 with JICA funding, but has been stalled since 2022 as a result of Sri Lanka’s default due to the economic crisis.
+
+Funded by the Japan International Cooperation Agency (JICA), the project was suspended in 2022 until Sri Lanka’s debt restructuring was finalized.
+
+The construction of the second terminal of the airport started in 2020 at a cost of Rs. 145 billion under the ‘JICA’ soft loan scheme.
+
+After Sri Lanka declared bankruptcy due to the economic crisis, the concessional loan programme given by ‘JICA’ for the second terminal project had also been halted.
+
+◼️
+
+[Data](articles/7e982bdf.json)
 
 ---
 
@@ -61,6 +167,46 @@ Gaurang Rathi, a government official, said that according to a preliminary inves
 ...
 
 [Data](articles/4e054e13.json)
+
+[Extended Data](ext_articles/4e054e13.ext.json)
+
+---
+
+### ජීවිත 18ක් බිලිගත් බස් අනතුර
+
+*2024-07-10 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198664) · `si`
+
+ඉන්දියාවේ උත්තර් ප්‍රාන්තයේ උන්නාඕ ප්‍රදේශයේදී සිදුවූ බස් රථ අනතුරකින් පුද්ගලයින් 18 දෙනෙකු මියගොස් තිබේ.
+
+තවත් පුද්ගලයින් 19 තුවාල ලබා ඇති බවයි විදෙස් මාධ්‍ය වාර්තා කළේ.
+
+අනතුරින් ජීවිතක්ෂයට පත්වූවන් අතර කාන්තාවන් තිදෙනෙකු සහ කුඩා දරුවෙකු ද වන බව එරට පොලීසිය සඳහන් කළේය.
+
+බස් රථයක් බිහාර් සිට දිල්ලි දක්වා ධාවනය වෙමින් තිබියදී ලක්නව්-අග්‍රා අධිවේගී මාර්ගයේ පිටුපසින් පැමිණි කිරි ප්‍රවාහනය කළ රථයක ගැටීමෙන් මෙම අනතුර සිදුව තිබුණි.
+
+◼️
+
+[Data](articles/4c81030a.json)
+
+---
+
+### මිනුවන්ගොඩින් හමුවූ පතරොම් ගබඩාව
+
+*2024-07-10 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198663) · `si`
+
+මිනුවන්ගොඩ  වසමේ ජාපාලවත්ත ප්‍රදේශයේදී පොලීසියට ලද තොරතුරක් මත ගිනි අවි සඳහා යොදන පතරොම් ළඟ තබාගෙන සිටි පුද්ගලයෙක් ව අත්අඩංගුවට ගෙන තිබේ.
+
+යුක්තිය මෙහෙයුමට සමගාමීව ගම්පහ කොට්ඨාස අපරාධ විමර්ශන නිලධාරීන් විසින් එම වැටලීම ඊයේ (09) සිදුකළේය.
+
+එහිදී T-56 ගිනි අවි පතරොම් ගැබ 2ක්, පිස්තෝල පතරොම් ගැබ 2ක්, T-56 ජීව පතරොම් 144ක්, පිස්තෝල සඳහා භාවිත වන පතරොම් 02ක් සොයාගෙන තිබුණි.
+
+43 හැවිරිදි මිනුවන්ගොඩ ප්‍රදේශයේ පදිංචි එම සැකකරු සඟවා තිබූ හෙරොයින් ග්‍රෑම් අටක් ද විමර්ශන නිලධාරීන් විසින් සොයාගෙන තිබේ.
+
+මෙම පතරොම් සහ පතරොම් ගැබ විදෙස්ගතව සිටින සංවිධානාත්මක අපරාධකරුවෙක් විසින් මෙම සැකකරුට ලබා දෙන්නට ඇතැයි පොලීසිය සැක කරයි.
+
+◼️
+
+[Data](articles/5afd4a93.json)
 
 ---
 
@@ -104,21 +250,27 @@ As the transport services have been declared as essential services, the strike a
 
 ---
 
-### முள்ளிப்பொத்தானையில் அதிசொகுசு பஸ் வீதியை விட்டு விலகி விபத்து
+### Accident
 
 *2024-07-10 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/188095) · `ta`
 
-திருகோணமலை மாவட்டம் தம்பலகாமம் பொலிஸ் பிரிவுக்குட்பட்ட கண்டி திருகோணமலை பிரதான வீதியின் 96 ம் கட்டை முள்ளிப்பொத்தானையில் கொழும்பிலிருந்து நேற்றிரவு செவ்வாய்க்கிழமை (09) திருகோணமலை நோக்கி வந்த அதிசொகுசு தனியார் பயணிகள் போக்குவரத்து பஸ் ஒன்று விபத்துக்குள்ளாகியுள்ளது.
+On Tuesday, a private bus traveling from Colombo to Trincomalee crashed on the Kandy-Trincomalee road near Mullipothanam. The accident occurred when the bus veered off the road, injuring several passengers, including the driver and conductor. Traffic police from Tambalakamam arrived at the scene for an initial investigation into the cause of the accident.
 
-குறித்த சம்பவம் இன்று புதன்கிழமை  (10) அதிகாலை இடம்பெற்றுள்ளது.  தனியாருக்கு சொந்தமான அதிசொகுசு பஸ் ஒன்றே பாதையை விட்டு விலகி விபத்துக்குள்ளாகியதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-பஸ் விபத்தில் சாரதி, நடத்துனர் உட்பட பயணிகள் சிலரும் காயமடைந்துள்ளதாக பொலிஸார்  தெரிவித்துள்ளனர்.
+A private passenger transport bus from Colombo to Trincomalee on Tuesday (09) from Mullipothanam on the 96th of the Kandy Trincomalee main road under the Thambalakamam Police Division of the Trincomalee District has crashed.
 
-மேலும், சம்பவ இடத்துக்கு தம்பலகாமம் போக்குவரத்து பொலிஸார்  விரைந்துள்ளதையடுத்து, நித்திரை கலக்கமே விபத்துக்கு காரணம் என ஆரம்ப கட்ட விசாரனை மூலம் தெரியவருவதாகவும், சம்பவம் தொடர்பாக மேலதிக விசாரணைகளை தம்பலகாமம் பொலிஸார் முன்னெடுத்துள்ளதாகவும் தெரிவித்துள்ளனர்.
+The incident took place this morning (10) this morning.Police said that the privately -owned bush bus crashed off the road.
+
+Some passengers, including driver and conductor, were injured in the bus accident, police said.
+
+In addition, the Tambalakamam traffic police have rushed to the scene and that the initial inquiry is responsible for the accident.
 
 ◼️
 
 [Data](articles/0cf6e526.json)
+
+[Extended Data](ext_articles/0cf6e526.ext.json)
 
 ---
 
@@ -214,23 +366,29 @@ According to the Constitution, the National Election Commission may announce the
 
 ---
 
-### க.பொ.த உயர்தரப் பரீட்சை விண்ணப்பங்களுக்கான கால அவகாசம் நீடிப்பு
+### Timeline Extension for GCE Advanced Level Examination Applications
 
 *2024-07-10 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/188096) · `ta`
 
-2024 ஆம் ஆண்டுக்கான கல்விப் பொதுத்தராதர பத்திர உயர்தரப் பரீட்சைக்கான விண்ணப்பங்களை இணையத்தளத்தில் சமர்ப்பிக்கும் அவகாசம் மேலும் நீடிக்கப்பட்டுள்ளது.
+The deadline for GCE A-Level exam applications for 2024 has been extended to the 12th of this month due to unforeseen circumstances. The exams will take place from November 25 to December 20.
 
-பாடசலைகள் மற்றும் தனியார் விண்ணப்பதாரர்களுக்கான இணைய மூலம் விண்ணப்பங்களை சமர்ப்பிப்பதற்கான கால அவகாசம் நாளையுடன் (10) நிறைடைய இருந்தது.
+🟩
 
-எனினும், தவிர்க்க முடியாத காரணங்களினால் எதிர்வரும் 12 ஆம் திகதி வரை அது நீடிக்கப்பட்டுள்ளதாக பரீட்சை திணைக்களம் விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+The deadline for submitting applications for the GCE Advanced Level Examination for 2024 has been extended.
 
-மேலும், அன்றைய தினத்திற்கு பின்னர் எக்காரணம் கொண்டும் விண்ணப்பிப்பதற்கான காலம் பிற்போடப்பட மாட்டாது எனவும் பரீட்சைகள் திணைக்களம் மேலும் தெரிவித்துள்ளது.
+The deadline for submitting applications through the Internet for schools and private applicants was to be completed (10).
 
-2024 ஆம் ஆண்டுக்கான உயர்தரப் பரீட்சை நவம்பர் 25 ஆம் திகதி முதல் டிசம்பர் 20 ஆம் திகதி வரை நடைபெறவுள்ளது.
+However, in a statement issued by the Department of Examinations, the Examinations Department said that it has been extended until the 12th of this month due to inevitable reasons.
+
+Moreover, the Department of Examinations added that the time of applying for any reason after that day will not be delayed.
+
+The GCE Advanced Level Examination for 2024 will be held from November 25 to December 20.
 
 ◼️
 
 [Data](articles/11a8e495.json)
+
+[Extended Data](ext_articles/11a8e495.ext.json)
 
 ---
 
@@ -1208,6 +1366,24 @@ It is reported that the ship will be anchored in Sri Lanka till tomorrow and its
 
 ---
 
+### 
+
+*2024-07-10 01:21:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84360) · `en`
+
+The French experience at the concluded election offers an important lesson of political commonsense and the bare minimum of altruism for the common good
+
+Early this week, with the far-right knocking at the gates of government power, France pulled off a miraculous comeback to defend the Fifth Republic.
+
+After the far-right and anti-immigrant National Rally won the first round, with projected votes of 260-280 seats, a tad shy of the absolute majority of 579 members of the National Assembly, the usually bickering political parties of the left, right, and centre joined ranks to stop the formation of the first far- right since the World War II.
+
+In order to prevent the split of the Republican vote in a three-way race, hundreds of candidates who came third in the first round withdrew from the contest to allow the better-placed anti-far right candidate to win the race.
+
+...
+
+[Data](articles/eb389c45.json)
+
+---
+
 ### Dambulla Sixers eventually won the stunned Dambulla Sixers
 
 *2024-07-10 00:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/188088) · `ta`
@@ -2031,197 +2207,5 @@ The amendment provides the opportunity to take a fair regulatory order for consu
 [Data](articles/7fb6fea3.json)
 
 [Extended Data](ext_articles/7fb6fea3.ext.json)
-
----
-
-### The definition of appointing a senior officer to the post of Attorney General is not in the Constitution - the president's secretary
-
-*2024-07-09 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/188078) · `ta`
-
-The President's Secretary clarified that the criteria for appointing a senior officer as Attorney General, based on length of service, isn't constitutional. This response was made in reply to a query from the Sri Lanka Lawyers' Association about the appointment process. The Secretary advised against favoritism towards any individual over others who may be qualified for the position.
-
-🟩
-
-President of the Attorney General Saman Ekanayake said that the definition of the appointment of a senior officer on the basis of service elderly at the Attorney General's Department has not been in the constitution and has not been appointed before.
-
-The Secretary of State's Secretary of State was responding to a letter sent to the President of the Sri Lanka Lawyers Association regarding the appointment of the Attorney General on the basis of service.
-
-The President's Secretary also pointed out that the Attorney General's Association should not act in favor of one person when there are other eligible persons for the post of Attorney General.
-
-◼️
-
-[Data](articles/c8527272.json)
-
-[Extended Data](ext_articles/c8527272.ext.json)
-
----
-
-### Allowance to check the answer papers
-
-*2024-07-09 18:36:56* · [`adalk`](https://www.ada.lk/breaking_news/උත්තර-පත්‍ර-පරීක්ෂා-කිරීමේ-දීමනා-ඉහළට/11-410698) · `si`
-
-The Cabinet has authorized the Ministry of Examinations to enhance allowances for A/L students taking the GCE exams. Teachers involved in grading these answer sheets will also receive increased allowances.
-
-🟩
-
-Cabinet of Cabinet of Cabinet has approved the Ministry of Examinations (A / L students) to increase the GCE (A / L students)Have been given.
-
-Accordingly, the teachers who test the increased allowance will be provided to teachers who test the answer sheets.
-
-◼️
-
-[Data](articles/a6aaebef.json)
-
-[Extended Data](ext_articles/a6aaebef.ext.json)
-
----
-
-### July pension releases to banks
-
-*2024-07-09 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198646) · `si`
-
-Today, the Director General of the Department of Pensions announced the release of pension allowances worth Rs. 28.5 billion to 24 banks and the postal department, ensuring timely payment to over 700,000 pensioners despite public sector strikes.
-
-🟩
-
-Director General of the Department of Pensions Department has been released today (09) to release the pension allowance paid to the 10th of July. Mr. Dias says.
-
-He pointed out that some of the public sector were working on strike, but the pension allowance of 708,231 registered pensioners had been released.
-
-Accordingly, Rs. 28.5 billion was released to 24 public and private banks and the postal department, the Director General said.
-
-The pension allowance will be paid on July 10, which will not be delayed by about 99.5%.He added that the Director General of the Department of Pensions added.
-
-◼️
-
-[Data](articles/0cc3f03c.json)
-
-[Extended Data](ext_articles/0cc3f03c.ext.json)
-
----
-
-### Notice issued for 2024 G.C.E A/L applicants
-
-*2024-07-09 18:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100403/notice-issued-for-2024-gce-al-applicants) · `en`
-
-The acceptance of online applications for the 2024 G.C.E. Advanced Level examination has been extended further.
-
-The deadline for the submission of applications for the 2024 G.C.E A/L examination for both school and private applicants was scheduled for tomorrow (10). However, the Department of Examination stated that due to unavoidable circumstances, the deadline has been extended until July 12.
-
-Accordingly, the department further highlighted that the acceptance of application will not be extended under any circumstances after July 12.
-
-2024 G.C.E. Advanced Level Examinations is scheduled to be held from November 23 to December 20.
-
-◼️
-
-[Data](articles/1dcb87ec.json)
-
-[Extended Data](ext_articles/1dcb87ec.ext.json)
-
----
-
-### Omax Directors orders overcome all property of directors
-
-*2024-07-09 18:22:45* · [`adalk`](https://www.ada.lk/breaking_news/ඔන්මැක්ස්-අධ්‍යක්ෂවරුන්ගේ-සියලු-දේපල-අත්කර-ගන්න-නියෝග/11-410697) · `si`
-
-In a case involving OnMaxColombo, the CID was ordered by Chief Magistrate Thilina Gamage to investigate. Several individuals were arrested for alleged fraud, including those involved with 'Cyber Erar', 'Kober Erar', 'Koyabor Erar', 'Koyabar Erar', 'Koita IM'. The accused, including Athula Indika, Saranga Randika, Dananjaya Jayath, Gayashan, and Sampath Sandaruwan, were released on bail. Allegations against Maduranga Prasanna Samarakoon and Kubber Aslam, who fled to Australia and Jordan, were also mentioned.
-
-🟩
-
-OnMaxColombo Chief Magistrate Thilina Gamage prescribed the CID today (09) to the CID today (09).
-
-"Onamax DT"The Magistrate also foretold the persons who were immediately arrested for the two pyramids who have been arrested by 'Cyber ​​Erar' and 'Kober Erar' and 'Koyabor Erar' and 'Koyabar Erar' and 'Koyber Erar' and 'Koita IM'.
-
-After considering the properties of money and money earned from the people who were fraudulently earned from the people, the money earned from the people, was hidden by the people who were so fraudulent.
-
-"Onamax DT" is released on bail when the case was taken up at the incident.The directors of the Institute, Athula Indika Indika Indika Indika Indika, Saranga Randika, Dananjaya Jayaath and Gayashan and Sampath Sandaruwan appeared in court.
-
-Maduranga Prasanna Samarakoon and Kubber Aslam allegations were issued by Maduranga and Georgia, which has escaped from Australia and Jordan.
-
-◼️
-
-[Data](articles/2515a8b5.json)
-
-[Extended Data](ext_articles/2515a8b5.ext.json)
-
----
-
-### Notice for pensioners on July pension payments
-
-*2024-07-09 18:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100402/notice-for-pensioners-on-july-pension-payments) · `en`
-
-The Department of Pensions announced that Rs. 28.5 billion in pensions has been deposited in banks today for 708,231 registered pensioners.
-
-The Director General of the department Jagath D. Dias stated that consequently, about 99.5% of pensioners will receive their allowances without delay.
-
-Furthermore, he mentioned that due to service disruptions at Divisional Secretariats on July 08 and 09, approximately 13,000 pensioners will receive their payments on July 11.
-
-◼️
-
-[Data](articles/64ac02b4.json)
-
-[Extended Data](ext_articles/64ac02b4.ext.json)
-
----
-
-### The Telecommunication Act passed
-
-*2024-07-09 18:14:23* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-සංදේශ-පනත-සම්මතයි/11-410696) · `si`
-
-The Telecommunications (Amendment) Bill, introduced by the Minister of Technology, was passed in parliament after 28 years, aiming to amend the Sri Lanka Telecommunication Act No. 25 of 1991. This significant update provides regulatory control over the crucial telecommunications market segment.
-
-🟩
-
-The Telecommunications (Amendment) Bill was passed in parliament today with amendments today (09) with amendments.
-
-After reading the Second Reading debate after the Bill, the committee took amendments.
-
-The Bill, the Minister of Technology was presented to the Parliament for the amendment of the Sri Lanka Telecommunication Act No. 25 of 1991 and amended this Act after 28 years.
-
-The amendment has been given the opportunity to regulate the most important market in the telecommunications section of the Telecommunications industry.
-
-◼️
-
-[Data](articles/b06cfebd.json)
-
-[Extended Data](ext_articles/b06cfebd.ext.json)
-
----
-
-### Sri Lanka Telecom Amendment Bill passed in Parliament
-
-*2024-07-09 18:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100401/sri-lanka-telecom-amendment-bill-passed-in-parliament) · `en`
-
-The Sri Lanka Telecommunications (Amendment) Bill was passed in Parliament with amendments this evening (09).
-
-◼️
-
-[Data](articles/bc80c4dd.json)
-
-[Extended Data](ext_articles/bc80c4dd.ext.json)
-
----
-
-### Telecommunications Amendment Bill passed
-
-*2024-07-09 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198645) · `si`
-
-The Telecommunications (Amendment) Bill, introduced by the Minister of Technology, was passed in Sri Lanka's parliament after 28 years, aiming to amend the Sri Lanka Telecommunication Act No. 25 of 1991. This update seeks to enhance consumer protection and competition within the telecom sector.
-
-🟩
-
-The Telecommunications (Amendment) Bill was passed in parliament today with amendments today (09) with amendments.
-
-After reading the Second Reading debate, the amendments were added to the amendments.
-
-The Bill, the Minister of Technology was presented to the Parliament for the amendment of the Sri Lanka Telecommunication Act No. 25 of 1991 and amended this Act after 28 years.
-
-The Parliamentary Communication Unit shows that this amendment has provided the opportunity to regulate the necessary opportunities for the customer in a competitive market in the telecommunications industry in a competitive market in the telecommunications industry.
-
-◼️
-
-[Data](articles/9d43f50d.json)
-
-[Extended Data](ext_articles/9d43f50d.ext.json)
 
 ---

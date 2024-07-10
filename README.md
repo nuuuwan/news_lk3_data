@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 22:35:18**
+As of **2024-07-10 22:53:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,657 (100.0%) of 34,658 articles have been extended.
+34,658 (100.0%) of 34,658 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The first person to receive the accolade was Chandralal Senadhira, a manager who
 ...
 
 [Data](articles/18dd008a.json)
+
+[Extended Data](ext_articles/18dd008a.ext.json)
 
 ---
 

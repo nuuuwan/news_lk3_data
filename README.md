@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 03:05:01**
+As of **2024-07-11 03:19:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,677 (100.0%) of 34,680 articles have been extended.
+34,680 (100.0%) of 34,680 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ The Government yesterday announced that new legislation will be introduced to li
 
 [Data](articles/f0af3f3a.json)
 
+[Extended Data](ext_articles/f0af3f3a.ext.json)
+
 ---
 
 ### President advocates boosting cultivation of high-quality cinnamon varieties
@@ -73,6 +75,8 @@ The initiative originates from a proposal in the 2023 Budget, aimed to revitalis
 ...
 
 [Data](articles/7a521db2.json)
+
+[Extended Data](ext_articles/7a521db2.ext.json)
 
 ---
 
@@ -262,19 +266,27 @@ The motion for the debate was jointly presented by Chief Opposition Whip Lakshma
 
 ---
 
-### களுத்துறையில் இருந்து ஜனாதிபதி வேட்பாளர்
+### Presidential candidate from Kalutara
 
 *2024-07-11 02:15:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறையில்-இருந்து-ஜனாதிபதி-வேட்பாளர்/175-340188) · `ta`
 
-திருடர்களுடன் பணிக்கும் தலைவர்களை விரட்டியடித்து, திருடர்களை சிறையிலடைக்கக் கூடிய ஜனாதிபதி வேட்பாளர் ஒருவரை களுத்துறை மாவட்டத்தில் இருந்து களமிறக்குவோம் என்று பாராளுமன்ற உறுப்பினர் குமார வெல்கம தெரிவித்தார்.
+Kumara Welgama, a parliamentarian from Kalutara, expressed hope that a local presidential candidate could combat corruption and imprison thieves. He highlighted the importance of electing someone untainted by scandal, citing his support for Ranil Wickremesinghe despite party differences due to Wickremesinghe's integrity and dedication. However, Welgama acknowledged the widespread issue of corruption, stating that "we are all thieves," and criticized the Rajapaksa family, particularly Gotabhaya Rajapaksa, for economic disruptions and fleeing the country. He urged for a leader capable of rooting out corruption to lead the nation effectively.
 
-இவர், ஐக்கிய மக்கள் சக்தியில் சுயாதீனமாக செயற்படும் பாராளுமன்ற உறுப்பினர் ஆவார். பாராளுமன்றத்தில் புதன்கிழமை (10) நடைபெற்ற   விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+🟩
 
-இன்னும் சில மாதங்களில் ஜனாதிபதித் தேர்தல் நடத்தப்படவுள்ளது. இதன்போது எந்தவொரு திருட்டும் இல்லாத ஒருவரை நியமிக்க வேண்டும் என்று மக்கள் எதிர்ப்பார்கின்றனர். இதனாலேயே போராட்டமும் நடந்தது. இந்நிலையில் எனது கட்சி வேண்டாமென்று கூறிய போதும் நான் ரணில் விக்கிரமசிங்கவுக்காக வாக்களித்தேன்.
+Parliamentarian Kumara Welgama said that a presidential candidate from the Kalutara district will be able to chase away the leaders working with the thieves and imprison the thieves.
+
+He is a Member of Parliament who acts independently in the United People's Power. He said this while addressing a debate in Parliament on Wednesday (10).
+
+The presidential election will be held in a few more months. People are looking forward to appointing a person who has no robbery. This is why the struggle took place. In this case, I voted for Ranil Wickremesinghe, even though I said my party.
+
+I voted because he is worthy. He has carried out in his work without a queue age. But I don't know about the economy. At this time you will take properly and act. People will not vote if the wrongdoers are nearby. Cannot say that everyone is clean. We are all thieves. I have done too.
 
 ...
 
 [Data](articles/367a66cd.json)
+
+[Extended Data](ext_articles/367a66cd.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 16:52:27**
+As of **2024-07-10 17:04:52**
 
 ## Newspaper Stats
 
-*Scraped **34,599** Articles*
+*Scraped **34,601** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
-adalk | 3,115
+adalk | 3,116
 adaderanalk | 3,977
-tamilmirrorlk | 4,125
+tamilmirrorlk | 4,126
 dailymirrorlk | 4,733
 virakesarilk | 5,402
 adaderanasinhalalk | 5,759
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,759
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,597 (100.0%) of 34,599 articles have been extended.
+34,599 (100.0%) of 34,601 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### மாணவி பாலியல் வன்புணர்வு ; காதலனும் தாயாரும் கைது
+
+*2024-07-10 16:47:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவி-பாலியல்-வன்புணர்வு-காதலனும்-தாயாரும்-கைது/175-340167) · `ta`
+
+ஏறாவூர் பிரதேசத்தில் 14 வயது மாணவியைக் காதலித்த 22 இளைஞன் அவரை தனது வீட்டிற்கு அழைத்துச் சென்று பாலியல் வன்புணர்வுக்குட்படுத்தியுள்ள சம்பவம் தொடர்பில், குறித்த இளைஞனும் அவரது தாயாரும் புதன்கிழமை (10) கைது செய்யப்பட்டுள்ளனர்.
+
+பாதிக்கப்பட்ட மாணவியின் தந்தையார் இல்லாத நிலையில், தாயார் மத்திய கிழக்கு நாடொன்றில் பணிபுரிந்து வருவதுடன், மாணவி உறவினருடன் தங்கி அப்பகுதியிலுள்ள பாடசாலையில் கல்வி கற்று வந்துள்ளார்.
+
+கடந்த மே மாதம்  குறித்த மாணவியை இளைஞன் தனது வீட்டிற்கு அழைத்துச் சென்று அங்குத் தங்க வைத்து பாலியல் வன்புணர்வுக்குட்படுத்தி வந்துள்ளார். இது தொடர்பாகப் பிரதேச செயலக சிறுவர் நன்னடத்தை அதிகாரிக்குத் தகவல் கிடைத்துள்ளது.
+
+சிறுமியை அடைத்து வைத்து பாலியல் வன்புணர்வுக்குட்படுத்தியுள்ள குற்றச்சாட்டில் இளைஞனையும், அதற்கு உடந்தையாக இருந்த அவரது தாயையும் புதன்கிழமை (10) அன்று கைது செய்ததுடன், சிறுமியை மீட்டு வைத்தியசாலையில் அனுமதித்துள்ளனர்.
+
+◼️
+
+[Data](articles/6f612c89.json)
+
+---
 
 ### Cabinet approves new action plan to combat gender-based harassment
 
@@ -46,21 +64,31 @@ He also mentioned the necessity of a new national action plan has been identifie
 
 [Data](articles/22099b28.json)
 
+[Extended Data](ext_articles/22099b28.ext.json)
+
 ---
 
-### “வீட்டுக்கு தீ வைத்தபோது பெறுமதியை உணர்ந்தேன்”
+### "I felt the value when setting fire to the house"
 
 *2024-07-10 16:24:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டுக்கு-தீ-வைத்தபோது-பெறுமதியை-உணர்ந்தேன்/175-340165) · `ta`
 
-இரண்டு வருடங்களுக்கு முன்னர் தனது வீடு தீவைத்து அழிக்கப்பட்ட போது, ​​ஒரு வீட்டின் பெறுமதியை கடுமையாக உணர்ந்ததாகவும் அதன் பெறுமதியை உணர்ந்ததாலேயே கொழும்பில் உள்ள அடுக்குமாடி குடியிருப்பில் வசிக்கும் 2,50,000 பேருக்கு அந்த வீடுகளின் முழுமையான உரிமையையும் வழங்கும் வேலைத்திட்டத்தை நடைமுறைப்படுத்தியதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe highlighted the importance of housing security during a ceremony where he handed over housing rights to residents of apartments in Colombo. He mentioned the launch of a program aimed at granting full property rights to 2.55 million people, starting with 50,000 houses. This initiative is part of a broader effort to address housing needs, especially for low-income families, through the National Housing Development Authority.
 
-கொழும்பிலுள்ள அடுக்குமாடி குடியிருப்புகளில் வாழ்கின்ற, இரண்டரை இலட்சத்துக்கும் குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு அந்த வீடுகளின் பூரண உரிமையை வழங்கும் வேலைத்திட்டத்தின் முதற்கட்டமாக 50,000 வீடுகளை வழங்கும் “ரன்தொர உறுமய” வீட்டு உரிமை வழங்கும் ஆரம்ப நிகழ்வு ஜனாதிபதி செயலகத்தில் நடைபெற்றது. இந்த நிகழ்வில் உரையாற்றுகையிலே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+🟩
 
-கொழும்பு மாவட்டத்தில் 31 அடுக்குமாடி குடியிருப்புகளில் அமைந்துள்ள 130 வீடுகளுக்கான உரிமைகள் வழங்கி வைக்கப்பட்டதுடன், இதன்போது அடையாளமாக ஜனாதிபதி சிலருக்கு வீட்டு உரிமைகளை கையளித்தார்.
+President Ranil Wickremesinghe said that when his home was set on fire two years ago, the value of a house was severely felt and that it was implementing a program of providing the full rights of the houses to 2550,000 people living in an apartment in Colombo.
+
+The initial ceremony was held at the Presidential Secretariat to provide 50,000 houses for the first time of the program to provide the full rights of the houses for families who live in apartments in Colombo. The President said this while addressing the event.
+
+The Rights of 130 houses in 31 apartments in the Colombo district were granted and the President handed over the housing rights to some.
+
+According to President Ranil Wickremesinghe, the 2024 budget was implemented in the 2024 budget and a scheme of providing the full rights of the houses for less than two and a half million families living in apartments.
 
 ...
 
 [Data](articles/60067e0e.json)
+
+[Extended Data](ext_articles/60067e0e.ext.json)
 
 ---
 
@@ -367,6 +395,22 @@ Nidahasa Janata Sabha (NJS), led by Member of Parliament Dullas Alahapperuma, ha
 [Data](articles/8a00000d.json)
 
 [Extended Data](ext_articles/8a00000d.ext.json)
+
+---
+
+### සුවසැරියට තවත් ගිලන් රථ 90ක් නොමිලයේ ලැබෙයි
+
+*2024-07-10 13:32:25* · [`adalk`](https://www.ada.lk/breaking_news/සුවසැරියට-තවත්-ගිලන්-රථ-90ක්-නොමිලයේ-ලැබෙයි/11-410716) · `si`
+
+පුර්ව රෝහල් ප්‍රතිකාර හා හදිසි රෝගි ප්‍රතිකාර සේවාවන් කඩිනමින් සලසා දීම සඳහා 2016 වසරේ දි ඉන්දිය රජයේ ප්‍රදානයක් යටතේ ඉන්දියාවේ පිහිටි TATA Sons (Pvt) Ltd ආයතනයෙන් ලබාගත් ගිලන් රථ 297ක් යොදාගෙන “1990  සුවසැරිය පදනම”ආරම්භ කර ඇත.
+
+ශ්‍රි  ලංකා රජයෙන් ලබා දුන් ගිලන් රථ 25 ක් ද ඇතුළුව මේ වන විට ගිලන් රථ 322ක් මේ සදහා යොදා තිබේ.සුව සැරිය පදනමේ ඉලක්ක අනුව, කඩිනමින් සේවය ලබා දිම සදහා ගිලන් රථ 450 ක් හා උපස්ථ ගිලන් රථ 25ක් අවශ්‍ය බවත් දැනට ගිලන් රථ 150ක හිඟයක් ඇති බවත් හඳුනා ගෙන ඇත.ඒ අනුව TATA Sons (Pvt) Ltd ආයතනය විසින් ගිලන් රථ 50ක් නොමිලේ ප්‍රදානයක් වශයෙන් ලබාදීමටත්, ආසියානු සංවර්ධන බැංකුව විසින් ගිලන් රථ 45ක් ප්‍රදානයක් වශයෙන් ලබාදීමටත් එකඟතාව පළ කර තිබේ.
+
+ඒ අනුව එකී “1990  සුවසැරිය පදනම”වෙත ලබා ගැනීම පිනිස අවශ්‍ය පියවර ගැනිම සඳහා සෞඛ්‍ය අමාත්‍යතුමාගේ ඉදිරිපත්  කළ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කරන ලදී.
+
+◼️
+
+[Data](articles/f70bcbda.json)
 
 ---
 
@@ -2147,47 +2191,5 @@ The Speaker pointed out the importance of contributing the knowledge and experie
 [Data](articles/704c7a5d.json)
 
 [Extended Data](ext_articles/704c7a5d.ext.json)
-
----
-
-### Colombo chosen as telecast centre for Dawoodi Bohras’ Ashara Mubaraka congregations
-
-*2024-07-10 05:11:11* · [`dailyftlk`](https://www.ft.lk/news/Colombo-chosen-as-telecast-centre-for-Dawoodi-Bohras-Ashara-Mubaraka-congregations/56-764051) · `en`
-
-The Dawoodi Bohra complex in Colombo is a hive of activity as the city has been chosen as a venue for live broadcast of the Ashara Mubaraka 2024 congregations being held in Karachi, Pakistan this year.
-
-Every Dawoodi Bohra community centre across the world marks the occasion with a series of congregations over 10 days covering various themes for its local congregation. The largest gathering within the community takes place at the venue where the leader of the worldwide Dawoodi Bohras community His Holiness Syedna Mufaddal Saifuddin leads the congregations. Continuing the time-honoured tradition of his forefathers, Saifuddin chooses a different city each year as the venue for Ashara Mubaraka.
-
-This year, Saifuddin has chosen Karachi to host the Ashara Mubaraka congregations; however, thousands of community members, both residents and visitors in Colombo, will also have the opportunity to benefit from the live broadcast of congregations from Karachi.
-
-...
-
-[Data](articles/c700594c.json)
-
-[Extended Data](ext_articles/c700594c.ext.json)
-
----
-
-### Ali Sabry tells world Sri Lanka’s economy showing signs of recovery on CNA
-
-*2024-07-10 05:07:07* · [`dailyftlk`](https://www.ft.lk/business/Ali-Sabry-tells-world-Sri-Lanka-s-economy-showing-signs-of-recovery-on-CNA/34-764050) · `en`
-
-In a compelling narrative, Foreign Affairs Minister Ali Sabry announced on Monday that the country’s economy, emerging from a severe crisis, is demonstrating remarkable resilience and improvement.
-
-Speaking on CNA’s Asia First program in Singapore, Sabry highlighted key indicators of economic recovery, including a surge in tourism and a strengthening of the rupee.
-
-Sabry elaborated that the completion of significant restructuring efforts, both locally and with international bondholders, has nearly restored the country’s debt sustainability.
-
-He said this progress is expected to reopen access to international markets for concessionary loans, which are crucial for economic revitalisation.
-
-“Our focus now is on fostering growth to improve living standards and income levels,” the Foreign Minister stated.
-
-He underscored the importance of attracting investments across various sectors to stimulate economic growth.
-
-...
-
-[Data](articles/87f1e1b7.json)
-
-[Extended Data](ext_articles/87f1e1b7.ext.json)
 
 ---

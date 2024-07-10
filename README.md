@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 02:35:12**
+As of **2024-07-11 02:53:12**
 
 ## Newspaper Stats
 
-*Scraped **34,670** Articles*
+*Scraped **34,677** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 339
 newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,049
-dailyftlk | 2,174
+dailyftlk | 2,181
 adalk | 3,126
 adaderanalk | 3,986
 tamilmirrorlk | 4,133
@@ -26,11 +26,147 @@ adaderanasinhalalk | 5,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,664 (100.0%) of 34,670 articles have been extended.
+34,670 (100.0%) of 34,677 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### Siripala says JICA agrees to resume work on 2nd BIA terminal with Rs. 170 b loan
+
+*2024-07-11 02:35:36* · [`dailyftlk`](https://www.ft.lk/business/Siripala-says-JICA-agrees-to-resume-work-on-2ndBIA-terminal-with-Rs-170-b-loan/34-764131) · `en`
+
+Ports, Shipping, and Aviation Minister Nimal Siripala de Silva with JICA Chief Representative Yamada Tetsuya during their meeting yesterday
+
+Ports, Shipping, and Aviation Minister Nimal Siripala de Silva said yesterday that Japan International Cooperation Agency (JICA) has agreed to re-grant the concessional Rs. 170 billion loan scheme to resume the construction of the second terminal at Bandaranaike International Airport in Katunayake.
+
+This project was halted due to the recent economic recession. The Minister’s announcement follows a special discussion with JICA Chief Representative Yamada Tetsuya yesterday.
+
+In a statement Minister de Silva highlighted that the country’s renewed economic stability, following the debt restructuring process by the International Monetary Fund (IMF), has led JICA to reinstate the concessional loan program, with the Japanese Government prioritising these activities.
+
+...
+
+[Data](articles/b9184169.json)
+
+---
+
+### Expo Property gets land in Kollupitiya for long-term lease
+
+*2024-07-11 02:33:23* · [`dailyftlk`](https://www.ft.lk/business/Expo-Property-gets-land-in-Kollupitiya-for-long-term-lease/34-764130) · `en`
+
+The Cabinet of Ministers on Tuesday approved a proposal to transfer a 52-perch plot of land in Kollupitiya to Expo Property Developers Ltd., under a 99-year lease.
+
+The decision comes following complications in transferring a previously allocated 40-perch plot due to unauthorised occupants.
+
+The land, owned by the Urban Development Authority (UDA), was initially approved for disposal in 2007 under a 50-year lease with 25% of the land’s value charged. However, due to the presence of unauthorised residents, the transfer could not be completed.
+
+Expo Property Developers requested an additional 12 perches adjacent to the original plot to facilitate a housing project, making the total requested area 52 perches. The Board of Management of the UDA has approved this request.
+
+The Cabinet of Ministers approved the proposal presented by the Urban Development and Housing Minister Prasanna Ranatunga to lease the land for 99 years based on the current valuation by the chief assessor.
+
+◼️
+
+[Data](articles/950f5bfe.json)
+
+---
+
+### Mid-Year Fiscal Position Report published online, to be tabled in Parliament
+
+*2024-07-11 02:32:52* · [`dailyftlk`](https://www.ft.lk/business/Mid-Year-Fiscal-Position-Report-published-online-to-be-tabled-in-Parliament/34-764129) · `en`
+
+The Cabinet of Ministers on Tuesday approved presenting the Mid-Year Fiscal Position Report to Parliament for approval.
+
+The Ministry of Finance, Economic Stabilisation and National Policies has published the Mid-Year Fiscal Position Report on its website, in compliance with Section 10 of the Public Finance Management Act No. 3 of 2003.
+
+This report, which must be tabled in Parliament by the Finance Minister, provides a comprehensive overview of the fiscal position of the State as of mid-year.
+
+The report’s publication fulfils the legal requirement to release this information for public access by the last day of June 2024.
+
+The Mid-Year Fiscal Position Report is a critical document that outlines the Government’s financial performance, including revenue collection, expenditure and overall fiscal health. It serves as an essential tool for transparency and accountability, allowing the public and lawmakers to assess the Government’s economic strategies and fiscal management.
+
+...
+
+[Data](articles/6d1d8c3d.json)
+
+---
+
+### Police slammed over Club Wasantha murder suspect’s ‘confession’ footage
+
+*2024-07-11 02:30:09* · [`dailyftlk`](https://www.ft.lk/news/Police-slammed-over-Club-Wasantha-murder-suspect-s-confession-footage/56-764128) · `en`
+
+Human rights activists points out video of suspect was recorded and shared in violation of instructions issued by former IGP C.D. Wickramaratne in 2021 on handling of suspects
+
+Former HRCSL Commissioner Ambika Satkunanathan highlights publicizing interrogations can violate a person’s right to a fair trial and undermine the presumption of innocence
+
+Says releasing videos of interrogations is unprofessional and can undermine integrity of the investigation
+
+Former BASL Chief Saliya Peiris PC says footage is “absolute stupidity” on part of the police
+
+Urges for disciplinary action to be taken against police officers involved in the stunt
+
+The decision by the Sri Lanka Police to disseminate footage showing Dulan Sanjula, one of the suspects arrested in connection to the murder of Sunhill Group of Companies Chairperson Surendra Wasantha Perera, better known as “Club Wasantha” being interrogated has come under severe criticism from various quarters.
+
+...
+
+[Data](articles/466054fc.json)
+
+---
+
+### FPC led by Dullas to back Sajith at Presidential polls
+
+*2024-07-11 02:24:27* · [`dailyftlk`](https://www.ft.lk/news/FPC-led-by-Dullas-to-back-Sajith-at-Presidential-polls/56-764127) · `en`
+
+Freedom People’s Congress (FPC) member and Parliamentarian Prof. Charitha Herath has announced that the party, led by MP Dullas Alahapperuma, will support Opposition leader Sajith Premadasa in the upcoming Presidential Election.
+
+Addressing a press conference in Colombo yesterday, Herath explained that the FPC has decided not to field its own candidate and will instead support the SJB’s candidate.
+
+“Our stance is that the Opposition must come together to form a broad alliance in order to defeat the Government. Accordingly, we held discussions with several political parties,” he said.
+
+Herath revealed that the discussions held between the FPC and SJB were successful, leading to the FPC’s decision to support Premadasa.
+
+He said accordingly the FPC will form an alliance with the SJB in the coming weeks.
+
+...
+
+[Data](articles/b5dbd1c2.json)
+
+---
+
+### UNP Dambulla office attacked
+
+*2024-07-11 02:23:46* · [`dailyftlk`](https://www.ft.lk/news/UNP-Dambulla-office-attacked/56-764126) · `en`
+
+In what the United National Party (UNP) led by President Ranil Wickremesinghe has called the first act of pre-election violence ahead of the upcoming Presidential election, the party’s office in Dambulla was attacked by an unidentified group yesterday.
+
+Sports Minister Harin Fernando reported the attack on the UNP’s operational office in Dambulla by an unknown group, suggesting it was an instance of pre-election violence. The attack took place at the residence of former Dambulla municipal councillor Maya Padeniya, according to Minister Fernando.
+
+The Minister said the attackers had damaged hoardings featuring pictures of President Ranil Wickremesinghe and the Dambulla electoral organiser installed at the office.
+
+Fernando made the statement to the media after visiting the site, inspecting the damage, and implementing necessary measures to restore the situation.
+
+...
+
+[Data](articles/dab7ccff.json)
+
+---
+
+### Vijitha Herath demands halt to arbitrary spending by provincial Governors
+
+*2024-07-11 02:22:53* · [`dailyftlk`](https://www.ft.lk/news/Vijitha-Herath-demands-halt-to-arbitrary-spending-by-provincial-Governors/56-764125) · `en`
+
+Emphasises need for Governors to be answerable to Parliament for their actions
+
+National People’s Power (NPP) MP Vijitha Herath has called for an immediate halt to the extravagant and arbitrary spending by provincial Governors, highlighting the lack of adherence to any circulars or laws. Speaking in Parliament yesterday, Herath criticised Governors in certain provinces for appointing advisors and making decisions without proper oversight.
+
+“Governors in the Western Province, in particular, are making decisions without considering any circulars or laws, especially during the final phase of the Government,” he said. Herath pointed out that millions of rupees are being spent on various items, including vehicles and the setting up of Vesak and Poson zones, without any established mechanisms.
+
+He emphasised that these arbitrary actions must be stopped immediately, warning that if they continue, the Governors will have to answer to Parliament for their actions.
+
+◼️
+
+[Data](articles/902a48ea.json)
+
+---
 
 ### Cabinet nod for Constitutional amendment to align Presidential and Parliamentary terms for 5 years
 
@@ -45,6 +181,8 @@ The decision comes amid Supreme Court on Tuesday dismissing a petition seeking t
 ...
 
 [Data](articles/ace98930.json)
+
+[Extended Data](ext_articles/ace98930.ext.json)
 
 ---
 
@@ -62,21 +200,29 @@ The motion for the debate was jointly presented by Chief Opposition Whip Lakshma
 
 [Data](articles/4fb8bad6.json)
 
+[Extended Data](ext_articles/4fb8bad6.ext.json)
+
 ---
 
-### சம்பளத்தை செலுத்த தவறின் குத்தகை இரத்து
+### Cancel the lease of fault to pay salary
 
 *2024-07-11 02:13:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளத்தை-செலுத்த-தவறின்-குத்தகை-இரத்து/175-340187) · `ta`
 
-வாழ்க்கைச் செலவு மற்றும் அண்மைக் காலத்தில் நாட்டில் தோன்றியுள்ள பொருளாதார நெருக்கடியின் தாக்கம் தொடர்பில் உரிய கவனம் செலுத்தி தோட்டத் தொழிலாளருக்கு நாளொன்றுக்கு செலுத்த வேண்டிய சம்பளத்தை மதிப்பீடு செய்யுமாறு நிதி, பொருளாதார உறுதிப்பாடு மற்றும் தேசிய கொள்கைகள் அமைச்சின் செயலாளருக்கு 2024-05-22 திகதி நடைபெற்ற அமைச்சரவை கூட்டத்தில் ஆலோசனை வழங்கப்பட்டுள்ளது.
+A cabinet meeting decided to assess plantation workers' daily wages considering living costs and the national economic crisis. It also aimed to form a committee to evaluate regional plantation companies' ability to pay wages. The meeting, chaired by President Ranil Wickremesinghe, agreed to speed up the cancellation of leases with companies failing to pay their workers, despite previous attempts to halt the process.
 
-அத்துடன், மேற்குறித்த சம்பளத்தை செலுத்துவதற்கு ஒவ்வொரு பிராந்திய பெருந்தோட்டக் கம்பனிகளிடமுள்ள இயலுமையைத் தீர்மானிப்பதற்காக குழுவொன்றை நியமிப்பதற்காகவும் குறித்த அமைச்சரவை கூட்டத்தில் தீர்மானிக்கப்பட்டுள்ளது.
+🟩
 
-மேற்குறித்த குழுவின் விதந்துரைக்கமைய இயலுமை இருப்பினும், தமது தோட்டத் தொழிலாளர்களுக்கு நிச்சயிக்கப்பட்ட சம்பளத்தை செலுத்தாத பிராந்திய பெருந்தோட்ட கம்பனிகளுடன் அரசு செய்துள்ள காணிக் குத்தகை உடன்படிக்கையை இரத்துச் செய்வதற்குத் தேவையான சட்டத்தை வகுப்பதற்கான செயன்முறையை துரிதப்படுத்துவதென, ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில், செவ்வாய்க்கிழமை (09) நடைபெற்ற  அமைச்சரவைக் கூட்டத்தில் தீர்மானிக்கப்பட்டுள்ளது.
+The Cabinet meeting held on 2024-05-22 was given to the Secretary of the Ministry of Finance, Economic Economics and National Policies to evaluate the salary of the plantation worker per day with the cost of living and the impact of the economic crisis in the country in the recent past.
+
+In addition, it has been decided at the Cabinet meeting to appoint a committee to determine the impossibility of each regional plantation companies to pay the wage.
+
+It was decided at a cabinet meeting chaired by President Ranil Wickremesinghe on Tuesday (09) to expedite the process to repeal the government's leasing agreement with regional plantation companies who did not pay the wages of their plantation workers, despite the fact that the Western Committee was able to abolish the proceedings.
 
 ◼️
 
 [Data](articles/0315907e.json)
+
+[Extended Data](ext_articles/0315907e.ext.json)
 
 ---
 
@@ -110,47 +256,73 @@ A Fundamental Rights petition is pending before the Supreme Court requesting a p
 
 ---
 
-### ஹேல்ஸ், பானுக்க அசத்தலான துடுப்பாட்டம்; கண்டி  பெல்கன்ஸை  இலகுவாக வீழ்த்தியது கோல் மார்வல்ஸ்
+### Hales, drinks an extraordinary bowl;Cole Marwals easily defeated Belgons Kandy
 
 *2024-07-11 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/188172) · `ta`
 
-ரங்கிரி, தம்புள்ள சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் புதன்கிழமை (10) நடைபெற்ற 5ஆவது லங்கா பிறீமியர் லீக் அத்தியாயத்தின் 15ஆவது போட்டியில் நடப்பு சம்பியன் கண்டி பெல்கன்ஸை 8 விக்கெட்களால் கோல் மார்வல்ஸ் வெற்றிகொண்டது.
+In the 15th match of the 5th Lanka Premier League, Cole Marwals defeated Kandy Belgons, becoming the current champions. Key players included Prabad Jayasuriya, Alex Hales, and Panuka Rajapaksa, who contributed significantly to the win. Despite losing two wickets, Marwals achieved the target of 188 runs in 19.2 overs. This victory places them second with 8 points, behind Jevna Kings due to better net run rate. Notable performances were Hales' 55-ball 76 and Rajapaksa's 46 off 26 balls. Kandy Belgons, batting first, scored 187/9 in 20 overs, with notable contributions from Dinesh Chandimal, Andre Plecher, and Angelo Mathews.
 
-ப்ராபாத் ஜயசூரியவின் துல்லியமான பந்துவீச்சு, அலெக்ஸ் ஹேல்ஸ், பானுக்க ராஜபக்ஷ ஆகியோரின் திறமையான துடுப்பாட்டங்கள் கோல் மார்வல்ஸின் வெற்றியில் பிரதான பங்காற்றின.
+🟩
 
-188 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய கோல் மார்வல்ஸ் 19.2 ஓவர்களில் 2 விக்கெட்களை மாத்திரம் இழந்து 188 ஓட்டங்களைப் பெற்று அபார வெற்றியீட்டியது.
+Cole Marwals won the current Champion Kandy Belgons in the 15th match of the 5th Lanka Premier League chapter held at the Dambulla International Cricket Stadium on Wednesday (10).
 
-இந்த வெற்றியுடன் அணிகள் நிலையில் 8 புள்ளிகளுடன் கோல் மார்வல்ஸ் இரண்டாம் இடத்தை அடைந்துள்ளது.
+Prabad Jayasuriya's accurate bowling, Alex Hales and Panuka Rajapaksa played a major role in the victory of Cole Marwals.
 
-ஜெவ்னா கிங்ஸும் 8 புள்ளிகளைப் பெற்றுள்ள போதிலும் நிகர ஓட்ட வேக அடிப்படையில் முதலிடத்தை தனதாக்கிக்கொண்டுள்ளது.
+In response to a target of 188 runs, goal Marwals lost only 2 wickets in 19.2 overs and scored 188 runs.
 
-நிரோஷன் திக்வெல்லவும் அலெக்ஸ் ஹேல்ஸும் 7 ஓவர்களில் 76 ஓட்டங்களைப் பகிர்ந்து  பலமான ஆரம்பத்தை இட்டுக்கொடுத்தனர். நிரோஷன் திக்வெல்ல 25 ஓட்டங்களைப் பெற்றார். அவரைத் தொர்டர்ந்து  டிம் சீஃபேர்ட் 16 ஓட்டங்களுடன் களம் விட்டகன்றார்.
+With this victory, the teams are in second place with 8 points.
+
+Jevna Kings also scored 8 points, but the net running is the number one.
+
+Niroshan Dikwella and Alex Hales shared 76 runs in 7 overs. Niroshan Dikwella scored 25 runs. Tim Seefward scored 16 runs.
+
+However, Alex Hales and Panuka Rajapaksa shared 81 runs in the 3rd wicket without having to face any inconvenience.
+
+Alex Hales did not lose 55 balls with 7 pounds and 4 sixes and Panuka Rajapaksa did not play 46 off 26 balls.
 
 ...
 
 [Data](articles/6793e809.json)
 
+[Extended Data](ext_articles/6793e809.ext.json)
+
 ---
 
 ### 2024-07-10 (Wednesday)
 
-### இலங்கையை 88-44 என்ற புள்ளிகள் கணக்கில் துவம்சம்செய்தது இந்தியா
+### India launched Sri Lanka 88-44
 
 *2024-07-10 23:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/188171) · `ta`
 
-கொழும்பு சுகததாச உள்ளக அரங்கில் புதன்கிழமை (10) ஆரம்பமான SABA 18 வயதுக்குட்பட்ட தெற்காசிய கூடைப்பந்தாட்ட சம்பியன்ஷிப்பின் இரண்டாவது போட்டியில் இலங்கை மீது முழு ஆதிக்கம் செலுத்திய இந்தியா 88 - 44 என்ற புள்ளிகள் வித்தியாசத்தில் மிக இலகுவாக வெற்றிபெற்றது.
+India triumphed over Sri Lanka 88-44 in the South Asian Basketball Championships U18, showcasing dominant performance throughout the game. The Maldives also secured victory against Bangladesh with a score of 77-55, demonstrating strong gameplay especially in the latter half.
 
-ஆரம்பம் முதல் கடைசிவரை ஆதிக்கம் செலுத்திய இந்தியா இடைவேளையின்போது 40 - 22 என்ற புள்ளிகள் கணக்கில் முன்னிலையில் இருந்தது.
+🟩
 
-போட்டியின் முதலாவது ஆட்ட நேர பகுதியில் மிகத் திறமையாக விளையாடிய இந்தியா 21  -  9 என முன்னி;லை அடைந்தது.
+India won the second match of the South Asian Basketball Championships under the age of 18, which began on Wednesday (10) at the Sugathadasa Indoor Stadium in Colombo by 88 - 44.
 
-இரண்டாவது ஆட்ட நேர பகுதியில் ஓரளவு திறமையை இலங்கை வெளிப்படுத்தியபோதிலும் அப் பகுதியையும் 19 - 13 என இந்தியா தனதாக்கிக்கொண்டு இடைவேளையின்போது 40 - 22 என்ற புள்ளிகள் கணக்கில் பலமான நிலையில் இருந்தது.
+India, which dominated from the beginning to the end, was 40 - 22 in the break.
 
-இடைவேளைக்குப் பின்னர் திறமையை வெளிப்படுத்திய இலங்கை அப் பகுதியில் இந்தியாவுக்கு சவால் விடுத்து விளையாடியது. ஆனால் இந்தியா 3ஆவது ஆட்ட நேர பகுதியையும் 21 - 17 என தனதாக்கி 61 - 39 என முன்னிலையில் இருந்தது.
+India, which played the first match of the match, reached 21 -9.
+
+Although Sri Lanka showed some skills in the second match, India were 19 - 13, with a total of 40 - 22 in the break.
+
+Sri Lankan -up in the aftermath of the break. But India was the 3rd match and 21 - 17, 61 - 39.
+
+In the last time of the match, India gained the spots of the Sri Lankan players to make a lot of mistakes.
+
+India won by 27 - 5 by 88 - 44.
+
+SCE on behalf of Sri Lanka. Tiluk is 13 points and S.. Evein 12 points on behalf of India. Vednash 29 points. Ishan also received 27 points.
+
+The Maldives won by 77 - 55 in the opening match of the Maldives and Bangladesh.
+
+The Maldives were leading 13 - 12 in the first match.
 
 ...
 
 [Data](articles/f8281fa0.json)
+
+[Extended Data](ext_articles/f8281fa0.ext.json)
 
 ---
 
@@ -210,21 +382,29 @@ Dr. Masoud Pezeshkian, the reformist candidate who criticized the ‘morality po
 
 ---
 
-### நாட்டில் புதிய பொருளாதார, அரசியலமைப்பைக் கட்டியெழுப்ப மகா சங்கத்தினரின் வழிகாட்டல் முக்கியமானது - ஜனாதிபதி
+### The guidance of the Maha Sangam to build a new economic and constitution in the country is important -the President
 
 *2024-07-10 22:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/188170) · `ta`
 
-தேரவாத பௌத்த நாடுகள் அனைத்தும் ஏற்றுமதிப் பொருளாதாரத்தின் அடிப்படையில் முன்னேற்றமடைந்துள்ளதாகவும், இறக்குமதிப் பொருளாதார முறையை பின்பற்றி  இலங்கை மட்டுமே வங்குரோத்து நிலைக்குச் சென்றுள்ளதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe emphasized the importance of adopting new economic and political systems in Sri Lanka, drawing inspiration from the success of Theravada Buddhist countries in transitioning to export economies. He highlighted the critical role of the Maha Sangha's guidance in navigating the country out of its current financial crisis, stating that without discipline, both the Charter and the nation could face destruction. This call for change came during his address at the 44th Upasambada ceremony of the Amarapura Maha Nikaya, underscoring the significance of such events in fostering national unity and progress.
 
-எனவே, நாட்டில் புதிய பொருளாதார, அரசியல் முறைமைகள் விரைவில் உருவாக்கப்பட வேண்டுமென சுட்டிக்காட்டிய ஜனாதிபதி, நாட்டை புதிய பாதைக்கு கொண்டு செல்வதற்கு மகா சங்கத்தினரின் வழிகாட்டல்களும் ஆலோசனைகளும் மிகவும் முக்கியமானது எனவும் தெரிவித்தார்.
+🟩
 
-காலி கரந்தெனிய சிறி அபயதிஸ்ஸ பிரிவெனாவில் இன்று (10) பிற்பகல் இடம்பெற்ற அமரபுர மகா நிக்காய - ஆரியவன்ச சத்தம்ம பீடத்தின் 44ஆவது உபசம்பதா நிகழ்வில் உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் தெரிவித்தார்.
+President Ranil Wickremesinghe said that all the Theravada Buddhist countries have improved on the basis of the export economy and that Sri Lanka has only moved to bankruptcy following the import of imports.
 
-அமரபுர மகா நிகாய - ஆரியவன்ச சத்தம்ம பீடத்தின் உபசம்பத நிகழ்வுகள் இலங்கை அமரபுர நிகாயாவின் மகாநாயக்க தேரர் வண. கரகொட உயங்கொட மைத்திரி மூர்த்தி மகாநாயக்க தேரர் தலைமையில் இன்று முதல் ஜூலை 14 ஆம் திகதி வரை நடைபெறவிருப்பதோடு 98 பேர் இதன்போது துறவரத்தை ஏற்றுக்கொள்ளவுள்ளனர்.
+The president, therefore, pointed out that the new economic and political systems in the country should be created soon, and the guidelines and advice of the Maha Sangha is very important to take the country to a new path.
+
+President Ranil Wickremesinghe made this statement while addressing the 44th Upasambada ceremony of the Amarapura Maha Nikaya - Ariyavansa Sattamma Peetham, which was held at the Galle Karandeniya Siri Abayadissa Port this afternoon.
+
+Mahanayaka Thera of Sri Lanka Amarapura Nikaya. Karagoda will be held from July 14 from July 14 and 98 will accept the monk.
+
+Amarapura Aryavansa will represent the noise pedestal and the treats will be held once in two years.
 
 ...
 
 [Data](articles/459029d6.json)
+
+[Extended Data](ext_articles/459029d6.ext.json)
 
 ---
 
@@ -2063,179 +2243,5 @@ Parliamentarian Datosree Saravanan Murugan and Sri Lankan Ambassador to Malaysia
 [Data](articles/623928e9.json)
 
 [Extended Data](ext_articles/623928e9.ext.json)
-
----
-
-### Eastern Governor requests Malaysia to extend the visa
-
-*2024-07-10 12:27:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசாவை-நீடிக்குமாறு-கிழக்கு-ஆளுநர்-மலேசியாவிடம்-கோரிக்கை/175-340148) · `ta`
-
-Eastern Provincial Governor Senthil Thondaman, during his visit to Malaysia, discussed enhancing educational ties between Sri Lanka and Malaysia, including extending visas for Sri Lankan students from two to four years. This move aims to retain more international students post-graduation. Additionally, the collaboration includes launching Malay language courses in Sri Lanka and a joint exchange program. The meeting was attended by Malaysia's Higher Education Minister Shampri Abdul Qadir, Parliamentarian Datosree Saravanan Murugan, and Sri Lankan Ambassador Sumangala Dias.
-
-🟩
-
-Eastern Provincial Governor Senthil Thondaman, who is on an official visit to Malaysia, met Malaysia Higher Education Minister Shampri Abdul Qadir and discussed the joint venture for Sri Lanka and Malaysia.
-
-More than 3800 Sri Lankan students who are studying higher education in Malaysia return to Sri Lanka every two years as per the current law.. Malaysia's Higher Education Minister Shampri Abdul Qadir has requested the Governor to increase the visa period for four years after completing their degree.. At the request of the Governor, the Minister said that steps would be taken to take action.
-
-In addition, students and workers from Sri Lanka to Malaysia have been discussed in Sri Lanka and discussed the launch of Malay language training in Sri Lanka and the joint transmission program on Malaysia and Sri Lanka.
-
-Parliamentarian Datosree Saravanan Murugan and Sri Lankan Ambassador to Malaysia Sumangala Dias were also present.
-
-◼️
-
-[Data](articles/ee5f858d.json)
-
-[Extended Data](ext_articles/ee5f858d.ext.json)
-
----
-
-### Fire in the National Library
-
-*2024-07-10 12:25:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-நூலகத்தில்-தீ/175-340147) · `ta`
-
-A fire erupted at the National Library and Documents in Torington, Colombo-07, starting from the meeting hall on the ground floor. Firefighters are currently battling the blaze.
-
-🟩
-
-The National Library and Documents in Torington, Colombo-07, were a fire at the central building, police said.
-
-Police said the fire broke out at the meeting hall on the ground floor of the building and that firefighters were working on the fire.
-
-◼️
-
-[Data](articles/7a926cd1.json)
-
-[Extended Data](ext_articles/7a926cd1.ext.json)
-
----
-
-### If they do not go to duty, they are considered to be resigning - General Manager of the Railway Department
-
-*2024-07-10 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/188111) · `ta`
-
-Railway officials missing work after 12 noon today will be seen as having resigned. This decision was announced by the Railway Department's General Manager.
-
-🟩
-
-It has been announced that all railway principals and regulators who do not attend the duties will be considered to be withdrawn from the service at 12 noon today.
-
-The railway station principals and regulators who fail to attend duty at noon today will be regarded as resigning, according to the statement.
-
-The announcement was made on Wednesday by railway principals and train regulators.
-
-◼️
-
-[Data](articles/46180a03.json)
-
-[Extended Data](ext_articles/46180a03.ext.json)
-
----
-
-### In water, millions of income received by the highway
-
-*2024-07-10 12:19:26* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගයට-ලැබිය-යුුතු-ආදායම්වලින්-ලක්ෂ-ගණනක්-වතුරේ/11-410713) · `si`
-
-The Road Development Authority struggles to collect ticket revenue from the Expressway due to issues like cash fraud and employee shortages. The COPE Committee highlighted significant financial irregularities, including misuse of funds and improper management. Despite efforts to address these issues, there remains a lack of transparency and accountability, affecting the authority's ability to manage its resources effectively.
-
-🟩
-
-Road Development Authority (PS) sources said that the authorities are not able to recover the money for the tickets from the Expressway to be used due to the interchange of goods.
-
-The administration of the Coope Committee was banned by the Chief Preference to the Capital Fiscal Cashy, which was the major cash fraud that had taken place in the Interchange Center at the Interchange Center in the Outer Circular Trace Center.
-
-The COPE Committee further stated that the gandings, Beliatta and Magampura offices to cover the work of the work were to cover the work of the employees.
-
-The COPE has instructed the COPE and other places in addition to the interchange center and other places in addition to the additional supply.
-
-In addition, the COPE has questioned that the employee shortage of the Peliyagoda EndCommittee Chairman ordered the Secretary to the Secretary and the Chairman
-
-...
-
-[Data](articles/46bf2030.json)
-
-[Extended Data](ext_articles/46bf2030.ext.json)
-
----
-
-### India-Pakistan cattle to Sri Lanka
-
-*2024-07-10 12:07:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-பாகிஸ்தான்-கால்நடைகள்-இலங்கைக்கு/175-340145) · `ta`
-
-India and Pakistan have agreed to supply cows to Sri Lanka to boost its dairy industry, addressing a shortage of high-milk-producing animals. The move aims to increase daily milk yield from 10 to 60 liters per cow through advanced farming techniques. Cattle breeds like Sahiwal cows, buffalo cows from Pakistan, and Murar will be introduced, as previous imports from New Zealand and Australia did not succeed.
-
-🟩
-
-India and Pakistan have agreed at diplomatic levels to provide cows to improve Sri Lanka's green milk production industry.
-
-The Ministry of Agriculture has said that the lack of cows that can get more milk in Sri Lanka has been a major impact on the production of milk in Sri Lanka.
-
-The amount of milk derived from a cow in Sri Lanka is about 10 liters per day but the new agricultural technology can get up to 60 liters of milk from a cow to 60 liters a day.
-
-According to negotiations with India and Pakistan, the Government of India has taken steps to provide Sahiwal cows and buffalo cows called Pakistan and Murar.
-
-Cows and buffaloes in Sri Lanka are only in India and Pakistan and a few years ago, even though cows were imported from New Zealand and Australia, those plans have failed.
-
-◼️
-
-[Data](articles/52ec224c.json)
-
-[Extended Data](ext_articles/52ec224c.ext.json)
-
----
-
-### Youth came to see the last traveled from France to Pallewela Face
-
-*2024-07-10 12:07:11* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රංශයේ-සිට-පල්ලේවෙල-දිය-ඇල්ල-බලන්න-ඇවිත්-අවසන්-ගමන්-ගිය-තරුණිය/11-410712) · `si`
-
-A 19-year-old French tourist, Monique Yakout Derkane, died after an accident in Pallewela, Sri Lanka. She arrived with her boyfriend and was hospitalized in the ICU. The incident is under investigation by local authorities.
-
-🟩
-
-19-year-old Forever Foreign Tourist Hospital, a 19-year-old tourist arrival in the Wiyalada area was reported to be treated at the Intensive Care Unit of the Wiyalawala with his boyfriends with his boyfriends.Police say.
-
-The deceased has been identified as a 19-year-old French national foreigner named Money Monique Yakout Derkane.
-
-Acting Magistrate Seniority Seneviratne Weerasinghe yesterday (9) took place near the Elstest investigation into the event of the crash yesterday.
-
-The Magistrate's template on the remains were carried out by the Badulla Magistrate's Court of Badulla Magistrate's Court and submitting the post mortem examination at the Badulla Teaching Court Medical Officer of Badulla Teaching Hospital.
-
-The police said that the Sri Lankan visit to Sri Lanka had come with their foreign lover on the 25th, police said.
-
-The two French visit to the French, the French forecasting couple, had gone to a roalpered at the Wiyaweera in Wiyaweera, police said.
-
-...
-
-[Data](articles/a3dd5eb7.json)
-
-[Extended Data](ext_articles/a3dd5eb7.ext.json)
-
----
-
-### Cattle to Sri Lanka from India and Pakistan
-
-*2024-07-10 12:01:32* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවෙන්-හා-පාකිස්තානයෙන්-ලංකාවට-ගවයින්/11-410711) · `si`
-
-Sri Lanka plans to import high-milk-producing cattle from India and Pakistan to boost its dairy industry, addressing a milk shortage exacerbated by outdated farming methods. The Minister of Agriculture, Mahinda Amaraweera, discussed agreements with Indian and Pakistani diplomats, aiming to enhance milk production through modern agricultural techniques. This initiative is part of the government's strategy to support the dairy sector, expected to receive significant support from both countries, with the first batch of cows arriving soon.
-
-🟩
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera discussed Indian Ambassador and Pakistan High Commissioner in Sri LankaMinister of Agriculture Mahinda Amaraweera says that the agreement has been agreed at level.
-
-The lack of cows that can get more milk in Sri Lanka has a profound effect on our country.
-
-There are about 10 liters of buffaloes and cows in our country. But in new agricultural technology, one cow is able to get up to 60 liters of milk a day.
-
-The government has decided to promote the dairy industry next year. The Minister said that the government has taken several steps to overcome the delay.
-
-Although India and Pakistan is currently following the policy of India and Pakistan, Sri Lanka agreed to provide their cows.
-
-Commissioner of Pakistani High Commissioner in Sri Lanka MAJOR General Faiweera, Minister of Agriculture and Plantation Industries, held discussions with Hon
-
-...
-
-[Data](articles/f9c06570.json)
-
-[Extended Data](ext_articles/f9c06570.ext.json)
 
 ---

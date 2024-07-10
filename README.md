@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 18:54:29**
+As of **2024-07-10 19:05:09**
 
 ## Newspaper Stats
 
-*Scraped **34,625** Articles*
+*Scraped **34,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
-adalk | 3,119
+adalk | 3,120
 adaderanalk | 3,983
 tamilmirrorlk | 4,129
 dailymirrorlk | 4,733
 virakesarilk | 5,411
-adaderanasinhalalk | 5,762
+adaderanasinhalalk | 5,763
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,616 (100.0%) of 34,625 articles have been extended.
+34,625 (100.0%) of 34,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### කොළඹ ජනතාවටත් නිවාසක අයිතිය ලබාදෙයි
+
+*2024-07-10 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198681) · `si`
+
+කොළඹ නගරයේ මහල් නිවාසවල ජීවත්වන ලක්ෂ දෙකහමාරක ජනතාවට එම නිවාසවල පූර්ණ අයිතිය හිමිකර දීමේ ‍වැඩසටහන ක්‍රියාවට නැංවූ බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+මීට වසර 02කට පෙර තම නිවස ගිනිතබා විනාශ කළ අවස්ථාවේ නිවසක වටිනාකම තමාට තදින් දැණුන බවත්, එම වටිනාකම හඳුනාගනිමින් මෙම වැඩසටහන දියත් කළ බවද ජනපතිවරයා පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ කොළඹ නගරයේ මහල් නිවාසවල ජීවත්වන අඩු ආදායම්ලාභි පවුල් ලක්ෂ දෙකහමාරක ජනතාවට එම නිවාසවල පූර්ණ අයිතිය ලබාදීමේ “රන්දොර උරුමය” වැඩසටහනේ පළමු අදියර යටතේ නිවාස 50,000ක අයිතිය ප්‍රදානය කිරීමේ සමාරම්භක අවස්ථාවට ඊයේ (09) පස්වරුවේ ජනාධිපති කාර්යාලයේදී එක් වෙමිනි.
+
+කොළඹ දිස්ත්‍රික්කයේ මහල් නිවාස සංකීර්ණ 31ක පිහිටි නිවාස 130ක හිමිකාරීත්වය ප්‍රදානය කිරීම මෙහිදී සිදු කෙරුණු අතර ජනාධිපතිවරයා සංකේතාත්මකව එම අවස්ථාවට එක් විය.
+
+...
+
+[Data](articles/7d1606c5.json)
+
+---
+
+### දුම්රිය ස්ථානාධිපති වර්ජනය අඛණ්ඩ වර්ජනයක් වෙයි
+
+*2024-07-10 18:21:45* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-ස්ථානාධිපති-වර්ජනය-අඛණ්ඩ-වර්ජනයක්-වෙයි/11-410723) · `si`
+
+දුම්රිය ස්ථානාධිපතිවරුන් සිය වර්ජනය අඛණ්ඩ වර්ජනයක් දක්වා දීර්ඝ කිරීමට තීරණය කර තිබේ. සංඛේත වැඩවර්ජනයක් ක්‍රියාත්මක කරත් අත්‍යාවශ්‍ය සේවාවට මුවාවී දුම්රිය ස්ථානාධිපතිවරුන්ගේ සේවය අත්හිටුවීමට ගත් තීරණයත් සමග ඔවුන් මෙසේ දුම්රිය වර්ජනය අඛණ්ඩව සිදුකිරීමට තීරණය කර තිබේ. එසේම එම වර්ජනය සඳහා උප දුම්රිය ස්ථානාපතිවරුන්ද සහාය දැක්වීමට තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/9c14c0c5.json)
+
+---
 
 ### Seven suspects in the murder remanded till 22nd
 
@@ -80,37 +110,53 @@ Accordingly, the petitioner requests the Court of Appeals to call and examine th
 
 ---
 
-### அமெரிக்கா காங்கிரசில் சமர்ப்பிக்கப்பட்டுள்ள தமிழர்களிற்கான சுயநிர்ணய உரிமை குறித்த தீர்மானம் - 50க்கும் மேற்பட்ட புலம்பெயர் தமிழர் அமைப்புகள் வரவேற்பு
+### Resolution on self -determination for Tamils ​​submitted to US Congress - More than 50 diaspora Tamil organizations welcome
 
 *2024-07-10 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188161) · `ta`
 
-ஈழத்தமிழர்களிற்கு அரசியல் தீர்வை வழங்குவதற்காக சுதந்திரம் குறித்த சர்வஜனவாக்கெடுப்பை நடத்தவேண்டும் என கோரும் அமெரிக்க காங்கிரஸ் தீர்மானத்திற்கு 50க்கும் மேற்பட்ட புலம்பெயர் அமைப்புகள் தங்கள் ஆதரவை வெளியிட்டுள்ளன.
+Over 50 Tamil diaspora organizations endorse a US Congress resolution advocating for a global discussion on providing a political solution to the Eelam Tamils' self-determination issue. Submitted on May 15, 2024, this resolution comes amid worsening human rights conditions in Sri Lanka, despite government claims of reconciliation. The organizations highlight the lack of genuine justice and accountability from the Sri Lankan government, emphasizing ongoing Tamil struggles against further human rights abuses such as militarization, land seizures, and torture.
 
-2024 மே 15ம் திகதி அமெரிக்க காங்கிரசில் சமர்ப்பிக்கப்பட்டுள்ள தீர்மானத்திற்கு பரந்துபட்ட ஆதரவு காணப்படுகின்ற நிலையில் புலம்பெயர் தமிழர்  அமைப்புகள் அதற்கு ஆதரவை வெளியிட்டுள்ளன.
+🟩
 
-இது தொடர்பான கூட்டு அறிக்கையொன்றை வெளியிட்டுள்ள 150க்கும் மேற்பட்ட புலம்பெயர் அமைப்புகள் அமெரிக்க காங்கிரஸ் தீர்மானத்தின் வரலாற்று சூழமைவையும் தமிழ் மக்களின் சுயநிர்ணய உரிமைக்கு தீர்வுகாணக்கூடிய அதன் சாத்தியப்பட்டாமையும் ஏற்றுக்கொண்டுள்ளதுடன் அந்த தீர்மானத்தை வரவேற்றுள்ளன.
+More than 50 diaspora organizations have expressed their support for the US Congress resolution demanding a universal debate on independence to provide a political solution to the Eelam Tamils.
 
-இலங்கையில் மனித உரிமை நிலவரம் மோசமடையும் தருணத்தில் இந்த தீர்மானம் அமெரிக்க காங்கிரசில் சமர்ப்பிக்கப்பட்டுள்ளதாக புலம்பெயர் தமிழர் அமைப்புகள் தெரிவித்துள்ளன.
+The diaspora Tamil organizations have expressed their support for the resolution submitted to the US Congress on May 15, 2024.
+
+More than 150 diaspora organizations issued a joint statement have accepted the historical environment of the US Congress resolution and its potential to resolve the right to self -determination of the Tamil people.
+
+The resolution has been submitted to the US Congress at a time when the human rights situation in Sri Lanka is deteriorating.
+
+Although the Sri Lankan government is talking about reconciliation, the events of the 15 -year commemoration of the Tamil genocide have revealed that the government has not had political commitment to honest justice and accountability.
 
 ...
 
 [Data](articles/202dcc52.json)
 
+[Extended Data](ext_articles/202dcc52.ext.json)
+
 ---
 
-### ஆகஸ்டில் வெளியாகும் திரிஷாவின் முதல் இணைய தொடர் 'பிருந்தா'
+### Trisha's first internet series 'Brinda'
 
 *2024-07-10 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/188155) · `ta`
 
-தமிழில் மட்டுமல்லாமல் தென்னிந்திய மொழிகளில் முன்னணி நட்சத்திர நடிகையாக ஜொலித்து வரும் திரிஷா முதன் முதலாக 'பிருந்தா' எனும் இணைய தொடரில் முதன்மையான வேடத்தில் நடித்திருக்கிறார். சோனி லைவ் எனும் டிஜிட்டல் தளத்தில் ஆகஸ்ட் இரண்டாம் திகதி முதல் வெளியாகவிருக்கும் இந்த இணைய தொடரின் டீசர் வெளியிடப்பட்டிருக்கிறது.
+Trisha, a prominent actress in South Indian cinema, debuts in her first internet series "Brinda," directed by Suriya Manoj Bengal. Set to premiere on Sony Live, the series explores themes of social control over women and liberation, featuring Trisha alongside Indrajit Sukumaran, Jayaprakash, Omni, Ravindra Vijay, and Anand Sami. The teaser, eagerly awaited by digital audiences, hints at a powerful narrative about societal oppression and female empowerment.
 
-இயக்குநர் சூரிய மனோஜ் வங்கலா இயக்கத்தில் உருவாகி இருக்கும் இந்த இணைய தொடரில் திரிஷா, இந்திரஜித் சுகுமாறன், ஜெயபிரகாஷ், ஆம்னி, ரவீந்திர விஜய், ஆனந்த் சாமி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-தினேஷ் கே. பாபு ஒளிப்பதிவு செய்திருக்கும் இந்த இணையத் தொடருக்கு சக்தி காந்த் கார்த்திக் இசையமைத்திருக்கிறார். இந்த இணைய தொடரை அடிங் அட்வர்டைசிங் எல்எல்பி எனும் நிறுவனம் சார்பில் தயாரிப்பாளர் கொல்லா அவினாஷ் தயாரித்திருக்கிறார்.
+Trisha, who is shining as a leading star actress in South Indian languages, is the first to play the role of 'Brinda'. The teaser of the internet series, which will be released on August 2, has been released on Sony Live.
 
-...
+Directed by director Suriya Manoj Bengal, the Internet series has stars Trisha, Indrajit Sukumaran, Jayaprakash, Omni, Ravindra Vijay, Anand Sami.
+
+Dinesh K. Shakti Kant Karthik has composed the video of Babu's cinematography. The internet series has been produced by producer Kola Avinash on behalf of Ading Advertising LLP.
+
+The teaser of the Internet series has been highly anticipated by digital fans as it has been shown to be the rituals that socially control and identify women at a young age, the freedom sentiment of a woman who has been liberated from it, and the voice of the oppressed women of the society.
+
+◼️
 
 [Data](articles/1654b37e.json)
+
+[Extended Data](ext_articles/1654b37e.ext.json)
 
 ---
 
@@ -154,35 +200,53 @@ During the investigations carried out thus far, it has been revealed that the ow
 
 ---
 
-### விஜய் சேதுபதி - சூரி இணைந்து வெளியிட்ட 'ஜமா' படத்தின் ஃபர்ஸ்ட் லுக்
+### The first look of 'Jama' released by Vijay Sethupathi - Suri
 
 *2024-07-10 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/188156) · `ta`
 
-அறிமுக நடிகர் பாரி இளவழகன் தெருக்கூத்து கலைஞனாக முதன்மையான வேடத்தில் நடித்திருக்கும் 'ஜமா' எனும் திரைப்படத்தின் பர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது. இதனை 'மக்கள் செல்வன்' விஜய் சேதுபதி மற்றும் நடிகர் சூரி ஆகியோர் இணைந்து அவர்களது இணைய பக்கத்தில் வெளியிட்டு படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்கள்.
+"Vijay Sethupathi and Suri congratulate debutant Barry Ilavarasan on his lead role in 'Jama'. Directed by Bari Ilavalakan, it features a cast including Ammu Abirami, Chetan, and others. Composed by Gnanani Ilayaraja, the film focuses on streetcar artists and has generated buzz with its engaging Burst Look, topping internet lists."
 
-அறிமுக இயக்குநர் பாரி இளவழகன் இயக்கத்தில் உருவாகி இருக்கும் 'ஜமா' எனும் திரைப்படத்தில் பாரி இளவழகன், அம்மு அபிராமி, சேத்தன், ஸ்ரீ கிருஷ்ண தயாள், கே வி என் மணிமேகலை, 'காலா' குமார், வசந்த் மாரிமுத்து, சிவா மாறன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-கோபாலா கிருஷ்ணா ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு இசை ஞானி இளையராஜா இசையமைத்திருக்கிறார். தெருக்கூத்து கலைஞர்களின் வாழ்வியலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை லேர்ன் & டீச் புரொடக்ஷன் நிறுவனம் சார்பில் தயாரிப்பாளர் சாய் தேவானந்த் தயாரித்திருக்கிறார்.
+Burst Look has been released in the movie 'Jama' which plays the lead role as the debutant actor Barry Ilavarakan. Vijay Sethupathi and actor Suri have posted this on their web page and congratulated the film crew.
 
-...
+The film 'Jama', directed by debutant director Bari Ilavalakan, starred Barry Ilavalakan, Ammu Abirami, Chetan, Sri Krishna Dayal, KV N Manimekalai, 'Kala' Kumar, Vasant Marimuthu, Siva Maran.
+
+The film has been composed by Gnanani Ilayaraja. The film, which is ready for the life of the streetcar artists, has produced the producer Sai Devanand on behalf of Learn & Tech Production Company.
+
+The film's Burst Look has been released soon. The expectation of the film has increased as the story of the streetcarcists on the exclusive video released, and that the musician's music is the business address of the film.
+
+Also, 'Jama' tops the list of Internet list as the Burst Look has been very enjoyable by Internet users.
+
+◼️
 
 [Data](articles/7c3750d5.json)
 
+[Extended Data](ext_articles/7c3750d5.ext.json)
+
 ---
 
-### கன்னட சுப்பர் ஸ்டார் சிவ ராஜ்குமார் நடிக்கும் 'பைரவனா கோனே பாதா' படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு
+### First Look release of 'Bhairavaana Gone Badha' starring Kannada Super Star Shiva Rajkumar
 
 *2024-07-10 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/188150) · `ta`
 
-சுப்பர் ஸ்டார் ரஜினிகாந்த் நடிப்பில் வெளியாகி வெற்றி பெற்ற 'ஜெயிலர்', நடிகர் தனுஷ் நடிப்பில் வெளியாகி வெற்றி பெற்ற 'கேப்டன் மில்லர்' ஆகிய படங்களின் மூலம் தமிழ் ரசிகர்களிடத்திலும் பிரபலமான கன்னட திரையுலகின் சுப்பர் ஸ்டாரான டொக்டர் சிவ ராஜ்குமார் கதையின் நாயகனாக நடித்திருக்கும் பைரவனா கோனே பாதா' படத்தின் பர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது.‌
+"Shiva Rajkumar stars in 'Bhairavaana Gone Badha', a war-themed film set to offer a unique cinematic experience. Following his successful roles in 'Jailer' and 'Captain Miller', this project marks another milestone for the Kannada superstar."
 
-இயக்குநர் ஹேமந்த் எம். ராவ் இயக்கத்தில் உருவாகும் 'பைரவனா கோனே பாதா' திரைப்படத்தில் சிவ ராஜ்குமார் முதன்மையான வேடத்தில் நடிக்கிறார்.
+🟩
 
-இப்படத்தில் நடிக்கும் நடிகர்கள் நடிகைகள் மற்றும் ஏனைய தொழில்நுட்ப கலைஞர்கள் பற்றிய விவரங்கள் விரைவில் அதிகாரப்பூர்வமாக வெளியிடப்படும் என எதிர்பார்க்கப்படுகிறது.
+Bhairavana Kone Badha, the hero of the Kannada film industry, is the hero of the Kannada film industry in Tamil fans with the success of 'Jailer' starring Super Star Rajinikanth and Actor Dhanush starring 'Captain Miller'.
 
-...
+Director Hemant M. Shiva Rajkumar is playing the lead role in Rao's 'Bhairavaana Gone Badha'.
+
+Details of the actors and other technicians are expected to be officially released soon.
+
+The film crew has announced the film's first look for the upcoming film.. The appearance of Shiva Rajkumar - a few centuries ago and that the film is a work of war, and the film crew has made it clear that the film will give fans a new experience.
+
+◼️
 
 [Data](articles/460377f9.json)
+
+[Extended Data](ext_articles/460377f9.ext.json)
 
 ---
 
@@ -250,27 +314,37 @@ He further emphasized that they acknowledge that three-wheelers provide a signif
 
 ---
 
-### ஐந்துமாத குழந்தைக்கு சத்திரசிகிச்சை இடம்பெற்றுக்கொண்டிருந்தத வேளை ரஸ்யா மேற்கொண்ட தாக்குதல் - உயிரை காப்பாற்ற போராடிய மருத்துவர்கள்
+### Russia's attack while surgery for a child
 
 *2024-07-10 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/188152) · `ta`
 
-மருத்துவர் ஒலேகொலுங்செப்போவின் குழுவினர் ஐந்துமாத குழந்தையான டராசிற்கு சத்திரசிகிச்சை செய்துகொண்டிருந்தவேளை பாரிய வெடிப்பு சத்தம் கேட்டது
+During Russia's missile attack on a children's hospital in Ukraine's capital, a surgery on a five-month-old baby named Darass was underway. Despite the chaos, doctors including Ole Holubsenko worked tirelessly to save lives, facing challenges like damaged respiratory systems and fears of collapsing roofs. The incident sparked global outrage, with condemnations from Ukraine, the West, and the UN, despite Russia denying responsibility and claiming the strike was self-inflicted by Ukraine. Many sought refuge in the hospital's basement during the attack, highlighting the vulnerability of even supposed safe spaces.
 
-ஐந்துமாத குழந்தை சத்திரகிசிச்சை மேசையிலேயே காணப்பட்டது,அதனை சுற்றி சேதமடைந்த உபகரணங்களும் இரத்தக்காயங்களுடன் மருத்துவர்களும் காணப்பட்டனர்.
+🟩
 
-எல்லோரும் உயிருடன் இருக்கின்றீர்களா என தான் சத்தமிட்டதை வைத்தியர் ஒலே ஹொலுப்செங்கோ நினைவுகூர்ந்தார்.
+The crew of the doctor Olelekolungsepo was heard by a fifth -long baby Darass
 
-செயற்கை சுவாசக்கருவி சேதமடைந்ததால்- குழந்தை தொடர்ந்தும் சுவாசிப்பதை உறுதிப்படுத்துவதற்காக மயக்கமருந்து நிபுணர் தீவிர முயற்சிகளில் ஈடுபட்டார்,அவர் பயன்படுத்தினார்.
+The fifth month of baby surgery was found on the desk, and the surrounding equipment and blood doctors were found.
 
-தாக்குதல் காரணமாக கூரைஇடிந்து விழக்கூடும் என்ற அச்சம் காரணமாக சிலமருத்துவர்கள் டராசுடன் மருத்துவமனையின் அடித்தளத்திற்கு ஒடினார்கள்.
+Doctor Ole Holubsenko recalled that everyone was alive.
 
-உக்ரைன் தலைநகரில் உள்ள சிறுவர் மருத்துவமனையை ரஸ்யாவின் ஏவுகணைகள் தாக்கிய பின்னர் இடம்பெற்ற சம்பவங்களே இவை.
+Due to the damage to the artificial respiratory system- the anesthetic expert engaged in serious efforts to ensure that the baby continues to breathe, and he used.
 
-இந்த தாக்குதல் உக்ரைனை கடும் அதிர்ச்சிக்குள்ளாக்கியுள்ளது,உக்ரைனும் மேற்குலக நாடுகளும் இந்த தாக்குதலிற்கு கடும் கண்டனத்தை வெளியிட்டுள்ளள.
+Fearing that the roof could fall off due to the attack, some doctors stuck with Daraz to the hospital's basement.
+
+These are the incidents that took place after Russia's missiles hit the children's hospital in the capital of Ukraine.
+
+The attack has shocked Ukraine, and Ukraine and the West have issued a strong condemnation of the attack.
+
+The UN has said that Russia's attacks on cities of Ukraine may have been attacked by a child.
+
+However, Russia, who denied this, did not attack her missile hospital, saying that Ukraine's missile erupted wrongly - Rasya did not publish the evidence.
 
 ...
 
 [Data](articles/5a205df6.json)
+
+[Extended Data](ext_articles/5a205df6.ext.json)
 
 ---
 
@@ -342,21 +416,29 @@ Acting Railway Station. S. Mudalige said.
 
 ---
 
-### இருட்டு அறையில் முரட்டு தேவதையாக மிரட்டும் 'மாய புத்தகம்'
+### 'Magic book' to intimidate as a rogue angel in the dark room
 
 *2024-07-10 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/188148) · `ta`
 
-தமிழ் திரையுலகின் திறமை வாய்ந்த கலைஞர்களான ஸ்ரீகாந்த் - அசோக் - அபர்னதி- இணைந்து மிரட்டும் 'மாய புத்தகம்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+"Magic book" serves as a tool for intimidation by a rogue angel in a dark room. The upcoming Tamil horror thriller, featuring a star-studded cast including Srikanth, Ashok, Abernathi, and others, promises a gripping narrative with elements of mystery and suspense. Composed by Ravi Vijayanand and set to be released on the 19th of this month, it's produced by Vinod Jain under Jakuar Studios. Expectations are high for this film, blending the ghostly aspects of Tamil cinema with intricate storytelling, promising to deliver a thrilling experience.
 
-இயக்குநர் ரமா ஜெயப்பிரகாஷ் இயக்கத்தில் உருவாகி இருக்கும் 'மாய புத்தகம்' எனும் திரைப்படத்தில் அசோக், ஸ்ரீகாந்த், இளவரசு, அபர்னதி, 'ஆடுகளம்' நரேன், லோகேஷ், கே. எஸ். ஜி. வெங்கடேஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-ஆறுமுகம் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ரவி விஜயானந்த் இசையமைத்திருக்கிறார். ஹாரர் திரில்லராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஜாக்குவார் ஸ்டுடியோஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் பி. வினோத் ஜெயின் தயாரித்திருக்கிறார்.
+The preview of the Tamil film industry's talented artists, Srikanth - Ashok - Abernathi, has been released.
 
-எதிர்வரும் 19 ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகவிருக்கும் இந்த திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+Ashok, Srikanth, Prince, Aparnathi, 'Aadukalam' Narain, Lokesh, K.. S.. G. Venkatesh and many others have acted.
 
-...
+Ravi Vijayanand has composed the film, which has been recorded by Arumugam. The film is being prepared as a horror thriller on behalf of Jakuar Studios Company. Produced by Vinod Jain.
+
+The film will be released on the 19th of this month at the film House.
+
+According to all the features that fans are expecting, the ghost film of Tamil films and the grammar of the Amanushya film, the giant bungalow - the nagas - the roles of the roles, the flashback + graphics, the fans are expected to be the mother of all mysteries as the mother of all mysteries..
+
+◼️
 
 [Data](articles/dc295bb2.json)
+
+[Extended Data](ext_articles/dc295bb2.ext.json)
 
 ---
 
@@ -408,17 +490,23 @@ The young man and her complicity were arrested on Wednesday (10) for allegedly r
 
 ---
 
-### பணிப்புறக்கணிப்புக்கு உப ரயில் அதிபர் சங்கமும் ஆதரவு
+### Deputy Railway Chancellor Association
 
 *2024-07-10 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/188136) · `ta`
 
-ரயில் நிலைய அதிபர் சங்கத்தினர் மற்றும் ரயில் கட்டுப்பாட்டாளர்கள் முன்னெடுத்துள்ள பணிப்புறக்கணிப்புக்கு உப ரயில் அதிபர் சங்கமும் ஆதரவு தெரிவித்துள்ளன.
+The Deputy Railway Chancellor Association, along with the Vice Chancellor Association, supports a workplace initiative by the Railway Chancellor Association and Controllers. This support starts tonight and includes 172 railway stations nationwide.
 
-நாடளாவிய ரீதியில் உள்ள 172 உப ரயில் நிலையங்களை உள்ளடக்கிய வகையில் இன்று நள்ளிரவு முதல் இந்த ஆதரவு நடவடிக்கை இடம்பெறவுள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+The Vice Chancellor Association has also supported the workplace launched by the Railway Chancellor Association and the Railway Controllers.
+
+The support will be held from midnight today, covering 172 sub -railway stations across the country.
 
 ◼️
 
 [Data](articles/bd8e154c.json)
+
+[Extended Data](ext_articles/bd8e154c.ext.json)
 
 ---
 
@@ -440,15 +528,21 @@ He also mentioned the necessity of a new national action plan has been identifie
 
 ---
 
-### ஜனாதிபதி தேர்தல் : கட்சித் தலைவர் கூட்டத்தில் எடுக்கப்பட்ட தீர்மானம் !
+### Presidential election: resolution taken at party leader meeting!
 
 *2024-07-10 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/188137) · `ta`
 
-ஜனாதிபதி தேர்தலை உரிய காலத்தில் நடத்துவதன் அவசியம் தொடர்பில் சபை ஒத்திவைப்பு விவாதத்தை நாளை வியாழக்கிழமை (11 ) நடத்த கட்சித் தலைவர் கூட்டத்தில் தீர்மானம் எடுக்கப்பட்டுள்ளது.
+Party leaders decided to schedule an adjournment debate on Thursday to discuss the urgency of conducting the presidential election promptly.
+
+🟩
+
+A decision has been taken at the party leader's meeting to hold the adjournment debate on Thursday (11) on the need to hold the presidential election in a timely manner.
 
 ◼️
 
 [Data](articles/07eb63fb.json)
+
+[Extended Data](ext_articles/07eb63fb.ext.json)
 
 ---
 
@@ -500,15 +594,21 @@ According to President Ranil Wickremesinghe, the 2024 budget was implemented in 
 
 ---
 
-### ஜனாதிபதியினதும் பாராளுமன்றத்தினதும் பதவிக்காலம் பற்றிய சந்தேகத்தை தீர்க்க அமைச்சரவை அங்கீகாரம்
+### Cabinet approval to resolve the suspicion of tenure of the president and parliament
 
 *2024-07-10 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/188138) · `ta`
 
-அரசியலமைப்பில் ஜனாதிபதியினதும் பாராளுமன்றத்தினதும் பதவிக்காலம் பற்றிய சந்தேகத்தை தீர்ப்பதற்கு 'ஆறு ஆண்டுகளுக்கு மேற்பட்ட' எனும் சொல்லுக்கு மாற்றாக 'ஐந்து ஆண்டுகளுக்கு மேற்பட்ட' எனும் சொல்லை பதிலீடு செய்து திருத்தத்தை மேற்கொள்ளவதற்கான யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளதாக அமைச்சரவை பேச்சாளர் பந்துல குணவர்தன தெரிவித்தார்.
+The cabinet approved changing "more than five years" in the constitution to clarify the president and parliamentary term lengths, aiming to address suspicions about tenure duration.
+
+🟩
+
+Cabinet spokesman Bandula Gunawardena said that the Cabinet has approved the idea of ​​replacing the word 'more than five years' to resolve the suspicion of the president and parliamentary term in the Constitution.
 
 ◼️
 
 [Data](articles/a531fdec.json)
+
+[Extended Data](ext_articles/a531fdec.ext.json)
 
 ---
 
@@ -2155,59 +2255,5 @@ Customs Director General Customs Media Spokesperson, "Ada Derana stated that thi
 [Data](articles/e09a00ac.json)
 
 [Extended Data](ext_articles/e09a00ac.ext.json)
-
----
-
-### How the Colevator has shooter
-
-*2024-07-10 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198658) · `si`
-
-In the Aetton Estate shooting incident, two individuals on a motorbike killed a 61-year-old man and his wife. The motive remains unknown, but it occurred when the victims were at home. The bodies are being examined at the Embilipitiya Hospital.
-
-🟩
-
-The cause of the shooting in the Aetton Estate in the Kolonna Police Division has not been revealed yet.
-
-Police said that two unidentified persons who came from a motorbike were shot dead.
-
-The 61 year old man was shot dead.
-
-When the deceased and his wife stayed at home, the shooters came to the house where the wife died at home.
-
-Investigations have revealed that the shooting was shot dead at the time of his arrival.
-
-The body has been conducted and placed at the Embilipitiya Hospital for the post mortem.
-
-◼️
-
-[Data](articles/a61bb805.json)
-
-[Extended Data](ext_articles/a61bb805.ext.json)
-
----
-
-### Answers to the letter sent to the President
-
-*2024-07-10 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198657) · `si`
-
-In response to a letter requesting the appointment of a new Attorney General, Presidential Secretary Saman Ekanayake highlighted the constitutional process outlined in Article 41, emphasizing the President's authority to appoint with Constitutional Council approval. He clarified there's no statutory requirement for the appointment to be based on seniority within the Senate Secretariat. Notably, previous appointments, including those of Mr. Silva and Attorney General Mohan Peiris, were made outside the Attorney General's Department. Ekanayake also addressed concerns raised by the Sri Lanka Bar Association, suggesting the President should consider broader implications rather than focusing on individual preferences.
-
-🟩
-
-Presidential Secretary Saman Ekanayake has responded to the letter to President Ranil Wickremesinghe to appoint President Ranil Wickremesinghe regarding the appointment of a new Attorney General.
-
-The Presidential Secretary emphasizes the letter 41 of the Constitution to appoint the Attorney General with the approval of the Constitutional Council.. The President has the constitutional power under the constitution.
-
-It also no such as a statutory requirement to appoint the Senatutical Department's senior officer to this post based on seniority.
-
-It is also said that the Attorney General's Department has not acted in the history of the Attorney General's post in history.
-
-President's Counsel Sarath N. The letter stated that the appointments made for the Attorney General's Department in the past few years as Mr. Silva and Attorney General Mohan Peiris have been carried out outside the Attorney General's Department.
-
-...
-
-[Data](articles/3246f623.json)
-
-[Extended Data](ext_articles/3246f623.ext.json)
 
 ---

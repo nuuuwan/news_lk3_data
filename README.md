@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 22:08:40**
+As of **2024-07-10 22:35:18**
 
 ## Newspaper Stats
 
-*Scraped **34,655** Articles*
+*Scraped **34,658** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,50 +15,104 @@ newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,049
 dailyftlk | 2,168
-adalk | 3,124
-adaderanalk | 3,985
+adalk | 3,125
+adaderanalk | 3,986
 tamilmirrorlk | 4,131
 dailymirrorlk | 4,733
-virakesarilk | 5,415
+virakesarilk | 5,416
 adaderanasinhalalk | 5,767
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,653 (100.0%) of 34,655 articles have been extended.
+34,657 (100.0%) of 34,658 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### ව්‍යාපාරික තාඹුගලගේ බැංකු ගිණුමට ලොකු මුදලක්
+### New Sri Lankan initiative celebrates expats for fostering Saudi ties
+
+*2024-07-10 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100432/new-sri-lankan-initiative-celebrates-expats-for-fostering-saudi-ties) · `en`
+
+Sri Lanka’s envoy in Riyadh has launched a new initiative to celebrate the country’s expatriates building their professional careers in the Kingdom.
+
+Saudi Arabia is one of the top destinations for Sri Lankan expats, with tens of thousands of them living and working in the Kingdom.
+
+“Sri Lankan migrant workers form part of the bilateral relations between Sri Lanka and Saudi Arabia. They play a significant role in contributing to the host country’s socio-economic development by sharing their skills and expertise, as well as to the economic growth of the home country by sending their hard-earned remittances,” Ambassador Ameer Ajwad told Arab News on Wednesday.
+
+The first person to receive the accolade was Chandralal Senadhira, a manager who has served over 30 years working with the Saudi food and beverage giant Almarai and was set to retire and return to Sri Lanka.
+
+...
+
+[Data](articles/18dd008a.json)
+
+---
+
+### Commercial Umbugala's bank account
 
 *2024-07-10 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198686) · `si`
 
-ව්‍යාපාරික විරංජිත් තාඹුගල මහතාගේ බැංකු ගිණුමට 2018 වසරේ සිට 2022 දක්වා කාලය තුළ රුපියල් මිලියන 4,757ක් බැර වී ඇතැයි අද (10) කොළඹ මහෙස්ත්‍රාත් අධිකරණයේදී අනාවරණ වුණි.
+Wirajith Welgi's bank account was credited at the Colombo Magistrate's Court under investigation for illegal assets. Senior Deputy Solicitor General Dileepa Peiris announced this during a case hearing before Colombo Additional Magistrate Pavithra Pathiraja.
 
-ජ්‍යෙෂ්ඨ නියෝජ්‍ය සොලිසිටර් ජනරාල් දිලීප පීරිස් මහතා අද අධිකරණයේදී මේ බව සඳහන් කළේ, සැකකරු සම්බන්ධයෙන් සිදුකරන නීතිවිරෝධී වත්කම් විමර්ශනයක් පිළිබඳ කරුණු දක්වමිනි.
+🟩
 
-පුද්ගලයෙකුගෙන් රුපියල් ලක්ෂ 70ක මුදලක් ලබාගෙන එය වංචා කිරීම සම්බන්ධයෙන් ව්‍යාපාරික විරංජිත් තාඹුගල මහතාට එරෙහිව ගොනුකර ඇති නඩුව අද කොළඹ අතිරේක මහෙස්ත්‍රාත් පවිත්‍රා සංජීවනී පතිරාජ මහත්මිය ඉදිරියේ යළි කැඳවනු ලැබීය.
+The banking account of Wirajith Welgi, Wirajith, had been credited at the Colombo Magistrate's Court today (10).
+
+Senior Deputy Solicitor General Dileepa Peiris said this in court today as a matter of an illegal asset investigation into the suspect.
+
+The case has been recalled before Colombo Additional Magistrate Pavithra Pathiraja, Colombo Additional Magistrate Patraja Patraja today.
 
 ◼️
 
 [Data](articles/7a394f9b.json)
 
+[Extended Data](ext_articles/7a394f9b.ext.json)
+
 ---
 
-### பொருட்களுக்கு தட்டுப்பாடு? மீண்டும் விலைகள் அதிகரிக்கும்
+### Scarcity for goods?Will increase prices again
 
 *2024-07-10 21:33:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருட்களுக்கு-தட்டுப்பாடு-மீண்டும்-விலைகள்-அதிகரிக்கும்/175-340172) · `ta`
 
-எதிர்வரும் நாட்களில் பொருள் தட்டுப்பாடு ஏற்பட்டு பொருட்களின் விலைகள் மீண்டும் அதிகரிக்கும் சாத்தியங்கள் இருப்பதாக செய்திகள் வெளியாகியுள்ளன.
+Reports suggest commodity prices may rise soon, potentially leading to higher good prices.
 
-அதன் காரணமாக எதிர்வரும் நாட்களில் பொருள் தட்டுப்பாடு ஏற்பட்டு பொருட்களின் விலைகள் அதிகரிக்கும் சாத்தியங்கள் இருப்பதாகத் தெரிவிக்கப்பட்டுள்ளது. R
+🟩
+
+There have been reports that there is a possibility that the prices of commodities will be increased again in the coming days.
+
+As a result, there is a possibility that the prices of goods will increase in the coming days. Remble
 
 ◼️
 
 [Data](articles/c5e73ca4.json)
+
+[Extended Data](ext_articles/c5e73ca4.ext.json)
+
+---
+
+### 09 companies complying to pay a salary of 1700 rupees;I am not a Facebook statement, but actor - Minister Jeevan Thondaman
+
+*2024-07-10 21:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/188169) · `ta`
+
+Nine companies have agreed to pay a minimum wage of 1700 rupees following discussions led by Sri Lanka's Labor Minister Manusha Nanayakkara. Minister Jeevan Thondaman clarified his role as an active participant rather than a social media figure, emphasizing his commitment to resolving labor issues.
+
+🟩
+
+Nine companies have agreed to pay a salary of 1700 rupees at a meeting with plantation companies headed by Labor Minister Manusha Nanayakkara. Minister Jeevan Thondaman said, "I am not a Facebook hero, but an action hero."
+
+He said this while addressing a debate on the Gazette Notifications on Wednesday (10) in Parliament.
+
+A meeting with plantation companies was held on Wednesday (10)), led by the Minister of Daylight Industries, Manusha Nanayakkara.On Tuesday (09), I said that 7 companies had agreed to pay a salary of 1700 rupees after the demonstrations. Today, I am happy to announce that 9 companies have expressed their compliance with a salary of 1700 rupees.. I expect the best solution to come soon.
+
+When I was not in the congregation some allegations were made on me. A Member of Parliament said, "After the court has interrupted the 1700 rupees, I accused me of talking to all the Duraimans in the Bogawantalawa Plantation Company.
+
+...
+
+[Data](articles/9dbbf592.json)
+
+[Extended Data](ext_articles/9dbbf592.ext.json)
 
 ---
 
@@ -118,11 +172,11 @@ The deaths occurred as a large number of passengers travel in the midst of heavy
 
 *2024-07-10 20:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100431/us-confirms-support-for-sri-lankas-efforts-to-boost-exports-improve-efficiency-for-govt-agencies) · `en`
 
-USAID Mission Director for Sri Lanka and Maldives, Gabriel Grau highlighted that that being a long-term partner and Sri Lanka’s largest export market, the United States supports efforts to boost exports and improve efficiency for businesses and government agencies.
+USAID Mission Director for Sri Lanka and Maldives, Gabriel Grau highlighted that being a long-term partner and Sri Lanka’s largest export market, the United States supports efforts to boost exports and improve efficiency for businesses and government agencies.
 
 He added that the United States is committed to initiatives such as Sri Lanka’s Trade National Single Window System or TNSWS which makes trade more transparent and predictable, easing business challenges.
 
-Gabriel made this remark while joining a workshop for 94 key Trade National Single Window System project stakeholders recently organised by the Department of Trade and Investment Policy of the Ministry of Finance, Economic Stabilization and National Policies in collaboration with the USAID.
+Gabriel made these remarks while joining a workshop for 94 key Trade National Single Window System project stakeholders recently organised by the Department of Trade and Investment Policy of the Ministry of Finance, Economic Stabilization and National Policies in collaboration with the USAID.
 
 Meanwhile, Secretary to the Ministry of Finance Mahinda Siriwardana noted that establishing a trade national single window system is crucial as Sri Lanka recovers from an unprecedented economic crisis.
 
@@ -235,6 +289,34 @@ The passenger has reportedly fallen off a train plying from Colombo Fort to Polg
 [Data](articles/4543d168.json)
 
 [Extended Data](ext_articles/4543d168.ext.json)
+
+---
+
+### 68 percent of importing vehicles imported by two companies
+
+*2024-07-10 19:18:39* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරක-ක්ෂේත්‍රයට-ගෙන්වන්න-යන-වාහන-වලින්-සියයට-68ක්ම-ගෙන්වන්නේ-සමාගම්-දෙකකින්/11-410727) · `si`
+
+Dr. Harsha de Silva highlighted issues with vehicle imports, stating 68% of permits are problematic. He mentioned the need for vehicles in tourism and the existence of a ban on certain imports. Despite granting approvals for 1,000 vehicles, issues arose during the importation process, particularly with electric vehicles. A joint committee was formed to address these issues involving finance, work, customs, and immigration ministries.
+
+🟩
+
+Chairman of the Public Finance Committee Dr. Harsha de Silva said that there were several issues to import vehicles for importation of vehicles for the importation of 68% permits.
+
+He made this statement in Parliament yesterday (10).
+
+Speaking further Mr. Dr. Harsha de Silva said:
+
+"Tourism needs vehicles. There is a special gazette that has been banned to import the vehicles. There are 1,000 vehicles and approval have been granted. There is a proper mechanism for that. At the same time, a problem has arisen.
+
+That is when the importation of these electripers remit to the importation of these electric vehicles.
+
+Accordingly, the Joint Committees were established as the Committee. It gave us the report, Ministry of Finance, Ministry of Finance, Ministry of Work, Ministry of Work, Castm and Emigresion.. We table it. There is inspiration.
+
+◼️
+
+[Data](articles/5a798442.json)
+
+[Extended Data](ext_articles/5a798442.ext.json)
 
 ---
 
@@ -2197,63 +2279,5 @@ The Fire Brigade stated that several fire trucks have been deployed to douse the
 [Data](articles/f9b51696.json)
 
 [Extended Data](ext_articles/f9b51696.ext.json)
-
----
-
-### Rice cooker
-
-*2024-07-10 10:58:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரை-பறித்த-ரைஸ்-குக்கர்/175-340142) · `ta`
-
-In Puttalam, a 28-year-old mother, Babu Dushyanti, died from an electrical shock while using a new rice cooker on Tuesday night. The sudden death investigation is ongoing.
-
-🟩
-
-A young mother of two children living in Puttalam, Mannar Road, Veppamadu and Velukkai was killed when a young mother was killed.
-
-Babu Dushyanti (age 28) was killed in an electric attack on Wednesday morning.
-
-The woman was killed when she tried to cook rice on Tuesday night (09) in the newly acquired Rice cooker.
-
-Sudden Death Investigation Officer for Puttalam and Kalpitiya. Death Inquiry Officer PM after post -mortem and investigations in the presence of Hizam. Hizam handed over the body to relatives.
-
-◼️
-
-[Data](articles/3738fef9.json)
-
-[Extended Data](ext_articles/3738fef9.ext.json)
-
----
-
-### Train services are paralyzed: passengers
-
-*2024-07-10 10:55:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவைகள்-முடங்கின-பயணிகள்-தவிப்பு/175-340140) · `ta`
-
-Passengers and office workers faced significant inconvenience due to a railway strike over various demands. Many trains were rerouted to Colombo Fort, and SLTB buses offered limited relief. The strike caused widespread travel disruptions.
-
-🟩
-
-Railway passengers and office workers were greatly inconvenienced by the strike action that the railway principals launched on various demands.
-
-The Department states that many trains have been taken up to the Colombo Fort. Transport facilities have been provided with buses belonging to the Sri Lanka Transport Board (SLTB). Travelers were severely inconvenienced by the strike.
-
-◼️
-
-[Data](articles/467df9e5.json)
-
-[Extended Data](ext_articles/467df9e5.ext.json)
-
----
-
-### NJS led by Dullas to form alliance with SJB
-
-*2024-07-10 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100413/njs-led-by-dullas-to-form-alliance-with-sjb) · `en`
-
-Nidahasa Janatha Sabawa (NJS) led by MP Dullas Alahapperuma has decided to form an alliance with the Samagi Jana Balawegaya (SJB), says MP Prof. Charitha Herath.
-
-◼️
-
-[Data](articles/f82d0b98.json)
-
-[Extended Data](ext_articles/f82d0b98.ext.json)
 
 ---

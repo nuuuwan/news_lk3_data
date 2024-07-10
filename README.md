@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 07:26:50**
+As of **2024-07-10 08:23:43**
 
 ## Newspaper Stats
 
-*Scraped **34,510** Articles*
+*Scraped **34,517** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,68 @@ newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,034
 dailyftlk | 2,167
-adalk | 3,101
+adalk | 3,102
 adaderanalk | 3,960
-tamilmirrorlk | 4,101
+tamilmirrorlk | 4,103
 dailymirrorlk | 4,733
 virakesarilk | 5,396
-adaderanasinhalalk | 5,738
+adaderanasinhalalk | 5,742
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,494 (100.0%) of 34,510 articles have been extended.
+34,512 (100.0%) of 34,517 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### නීතිඥ සංගමය ජනපතිට යැවූ ලිපියට පිළිතුරු
+
+*2024-07-10 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198657) · `si`
+
+නව නීතිපතිවරයෙකු පත්කිරීම සම්බන්ධයෙන් ශ්‍රී ලංකා නීතිඥ සංගමය විසින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත යොමු කරන ලද ලිපියට ජනාධිපති ලේකම් සමන් ඒකනායක මහතා පිළිතුරු ලිපියක් මඟින් ප්‍රතිචාර දක්වා තිබේ.
+
+ජනාධිපති ලේකම්වරයා එම ලිපිය මඟින් අවධාරණය කර ඇත්තේ ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවේ අනුමැතිය සහිතව නීතිපතිවරයා පත් කිරීමට ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 41 ඇ. ව්‍යවස්ථාව යටතේ ජනාධිපතිවරයාට ව්‍යවස්ථානුකූලව බලය පවතින බවය.
+
+තවද ජ්‍යේෂ්ඨත්වය මත පදනම්ව නීතිපති දෙපාර්තමේන්තුවේ ජ්‍යේෂ්ඨතම නිලධාරියා මෙම තනතුර සඳහා පත්කිරීමට ව්‍යවස්ථාපිත අවශ්‍යතාවක් නොමැති බව ද එහි සඳහන්ය.
+
+එසේම නීතිපති දෙපාර්තමේන්තුවේ ජ්‍යෙෂ්ඨතම නිලධාරියා වෙත නීතිපති ධූරය ලබාදීමේ ක්‍රමයක් ශ්‍රී ලංකාවේ ඉතිහාසය තුළ අනුගමනය කර නොමැති බව ද එම නිවේදනය සඳහන් වේ.
+
+ජනාධිපති නීතිඥ සරත් එන්. සිල්වා මහතා සහ ජනාධිපති නීතිඥ මොහාන් පීරිස් මහතා වැනි පසුගිය කාලය තුළ නීතිපති ධූරය සඳහා සිදුකර ඇති පත්වීම් නීතිපති දෙපාර්තමේන්තුවේ ජ්‍යේෂ්ඨ නිලධාරීන්ගෙන් පරිබාහිරව සිදුකර ඇති බව එම ලිපියේ සඳහන් කර ඇත.
+
+...
+
+[Data](articles/3246f623.json)
+
+---
+
+### විදුලි බිලේ අවසන් තීරණය
+
+*2024-07-10 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198656) · `si`
+
+විදුලි ගාස්තු සංශෝධන පිළිබඳ මහජන අදහස් විශ්ලේෂණයෙන් අනතුරුව ජූලි 15 වැනිදා ඒ සම්බන්ධයෙන් වන අවසන් තීරණය ප්‍රකාශයට පත්කරන බව මහජන උපයොගීතා කොමිසම පවසයි.
+
+එහි සභාපති මහාචාර්ය මංජුල ප්‍රනාන්දු මහතා සඳහන කළේ, පෙර ලියාපදිංචි වූ විවිධ ක්ෂ්ත්‍ර නියෝජනය කරන නියොජිතයින් 46 දෙනෙකුගෙන් අදහස් ලබාගත් බවය.
+
+ශ්‍රී ලංකා විදුලිබල මණ්ඩලය ඉදිරියේදී සිදුකරන විදුලි ගාස්තු සංශෝධන සම්බන්ධයෙන් මහජන උපයෝගිතා කොමිසමට යෝජනා ඉදිරිපත් කර තිබේ.
+
+ඒ අනුව ගෘහස්ථ කාණ්ඩයට 25.5%ක ගාස්තු අඩුවීමක් සහ ආගමික සහ පුණ්‍යායතනවලට 3%ක අඩුවීමක් සිදුවේ.
+
+කෙසේ වෙතත්, මෙම යෝජනාවලට අනුව හෝටල් සහ කර්මාන්ත ක්ෂේත්‍රයට ගාස්තු අඩුවීමක් යෝජනා කර නැහැ.
+
+යෝජිත ගෘහස්ථ විදුලි ගාස්තු සංශෝධනයට අනුව ඒකක 0 සිට 30 දක්වා විදුලි ඒකකයක් වෙනුවෙන් අය කෙරෙන ගාස්තුව රුපියල් 08 සිට 06 දක්වා අඩු කෙරේ.
+
+ඒකක 31 සිට 60 දක්වා ඒකකයට අය කෙරෙන ගාස්තුව රුපියල් 20 සිට 09 දක්වා අඩුකර තිබේ.
+
+විදුලිබල මණ්ඩලයේ යෝජනාවලට අනුව ගෘහස්ථ විදුලි පාරිභෝජනය තවත් කාණ්ඩ කිහිපයකට වෙන්කර තිබේ.
+
+...
+
+[Data](articles/477741bc.json)
+
+---
 
 ### Several trains cancelled due to strike
 
@@ -52,6 +98,8 @@ Furthermore, he stated that strict disciplinary action would be taken against th
 
 [Data](articles/a99c9ecb.json)
 
+[Extended Data](ext_articles/a99c9ecb.ext.json)
+
 ---
 
 ### Several spells of showers expected in parts of the island
@@ -69,6 +117,26 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/c43e2240.json)
+
+[Extended Data](ext_articles/c43e2240.ext.json)
+
+---
+
+### දුම්රිය ගමන් රැසක් නවතී - මගීන්ට දැනුම්දීමක්
+
+*2024-07-10 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198655) · `si`
+
+උසස්වීම් ලබානොදීම ඇතුළු ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් ඊයේ (09) මධ්‍යම රාත්‍රියේ සිට දුම්රිය ස්ථානාධිපතිවරුන් ආරම්භ කළ වැඩවර්ජනය හේතුවෙන් කාර්යාල දුම්රිය රැසක් අවලංගු වන බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+කෙසේ වෙතත් කොටුවේ සිට මීගමුවට සහ වේයන්ගොඩට දුම්රිය දෙක බැගින් ධාවනය කිරීමට පියවර ගෙන ඇති අතර පොල්ගහවෙල සිට කොටුවට දුම්රිය දෙකක්ද, ගාල්ල සිට කොටුවට දුම්රිය තුනක්ද , අලුත්ගම සිට එක් දුම්රියක්ද කොළඹ කොටුව දක්වා ධාවන කිරීමට පියවර ගෙන ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+වර්ජන ක්‍රියාමාර්ගය හේතුවෙන් අද (10) දිනයේදී දුම්රිය වාර ප්‍රවේශපත්‍ර හිමි මගීන්ට එම වාර ප්‍රවේශපත්‍රය උපයෝගී කරගනිමින් ලංකා ගමනාගමන මණ්ඩලට අයත් බස් රථවලින් ප්‍රවාහන පහසුකම් සලසා ගැනීමට හැකි බව ප්‍රවාහන අමාත්‍යංශය පවසයි.
+
+මේ අතර දුම්රිය සේවා ඇතුළු පොදු ප්‍රවාහනය අත්‍යවශ්‍ය සේවා ලෙස ප්‍රකාශයට පත් කර ඇති බැවින් දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය දියත් කරඇති වැඩවර්ජනය නීතිවිරෝධී වන අතර සේවයට වාර්තා නොකරන අයට එරෙහිව දැඩි විනය ක්‍රියාමාර්ග ගන්නා බව ප්‍රවාහන අමාත්‍යාංශයේ ලේකම්වරයා දැනුම් දී තිබේ.
+
+...
+
+[Data](articles/5629dd26.json)
 
 ---
 
@@ -88,6 +156,8 @@ LAUGFS Rubber said the achievement reflects the company’s commitment to excell
 
 [Data](articles/108061e4.json)
 
+[Extended Data](ext_articles/108061e4.ext.json)
+
 ---
 
 ### Halpé Tea honoured as ‘Runner Up in Food and Beverage Sector’ at National Business Excellence Awards 2024
@@ -99,6 +169,8 @@ Halpé Tea, a subsidiary of Vella Group of Companies has reaffirmed its commitme
 ...
 
 [Data](articles/51b1375d.json)
+
+[Extended Data](ext_articles/51b1375d.ext.json)
 
 ---
 
@@ -116,6 +188,8 @@ Fonterra has consistently focused on reducing its environmental impact while mai
 
 [Data](articles/48de58d9.json)
 
+[Extended Data](ext_articles/48de58d9.ext.json)
+
 ---
 
 ### Crocodile ranked among LMD’s top 10 most loved retail lifestyle brands
@@ -130,6 +204,8 @@ Today, Crocodile stands as one of the most respected and well-known brands in th
 
 [Data](articles/e77fedef.json)
 
+[Extended Data](ext_articles/e77fedef.ext.json)
+
 ---
 
 ### GoGo.Sale launches new campaign to transform vehicle buying and selling
@@ -141,6 +217,26 @@ GoGo.sale, Sri Lanka’s premier online marketplace, has unveiled its latest cam
 ...
 
 [Data](articles/3ed5a2af.json)
+
+[Extended Data](ext_articles/3ed5a2af.ext.json)
+
+---
+
+### අදත් ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-07-10 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198653) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, ඌව පළාතෙත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොණරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/3b3b88f0.json)
 
 ---
 
@@ -160,6 +256,8 @@ Led by Unilever South Asia Executive Director of Supply Chain Yogesh Mishra, the
 
 [Data](articles/194a0c05.json)
 
+[Extended Data](ext_articles/194a0c05.ext.json)
+
 ---
 
 ### Should an Econ student take Harshanomics 201?
@@ -174,6 +272,8 @@ This is not a political article. I am not a political writer. Were politics your
 
 [Data](articles/6b7bc0c4.json)
 
+[Extended Data](ext_articles/6b7bc0c4.ext.json)
+
 ---
 
 ### Eliminating political corruption: Key to our recovery
@@ -185,6 +285,8 @@ Sri Lanka is grappling with a severe cost-of-living crisis rooted in pervasive p
 ...
 
 [Data](articles/7c465336.json)
+
+[Extended Data](ext_articles/7c465336.ext.json)
 
 ---
 
@@ -540,6 +642,44 @@ Later, Premalatha was comforted by Vijayakanth and son Shanmukha Pandiyan. Subse
 
 ---
 
+### ‘விஷன் 2030’ ஜனாதிபதியிடம் கையளிப்பு
+
+*2024-07-10 01:38:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஷன்-2030-ஜனாதிபதியிடம்-கையளிப்பு/175-340122) · `ta`
+
+2030 ஆம் ஆண்டாகும்போது இலங்கையை நிலையான மற்றும் முழுமையான அபிவிருத்தியை நோக்கி வழிநடத்தும் வகையில் இலங்கை வர்த்தக சம்மேளனத்தினால் தயாரிக்கப்பட்ட விரிவான கொள்கைகளை உள்ளடக்கிய ஆவணம் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் நேற்று ஜனாதிபதி அலுவலகத்தில் கையளிக்கப்பட்டது.
+
+‘விஷன் 2030’ ஊடாக அடுத்த ஐந்து ஆண்டுகளில் பொருளாதார ரீதியில் இலங்கை எந்தத் திசையில் பயணிக்க வேண்டும் என்பது தொடர்பில் விளக்கமளிக்கப்பட்டுள்ளது. அத்துடன் அதற்காக அனைத்து துறைகளிலும் கொள்கை மாற்றங்கள் மேற்கொள்ளப்பட வேண்டிய விதம் குறித்தும் பொருளாதாரத்திற்கு கிடைக்கும் நன்மைகள் குறித்தும் இதில் சுட்டிக்காட்டப்பட்டுள்ளது.
+
+மொத்த தேசிய உற்பத்தியில் 6.5 வீத வளர்ச்சி வீதத்தை எட்டுவது, பணவீக்கம், வேலையின்மை ஆகியவற்றை 5 வீதமாக குறைப்பது, கல்வி மற்றும் சுகாதார சேவைகளை மேம்படுத்துவது, விவசாயம் மற்றும் டிஜிட்டல் உள்கட்டமைப்பை மேம்படுத்துவது உள்ளிட்ட நோக்கங்களை முன்னிலைப்படுத்தி இந்த அறிக்கை தயாரிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/89b4f4e7.json)
+
+---
+
+### Warship
+
+*2024-07-10 01:25:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்புத்-துறைமுகத்தில்-போர்க்கப்பல்/175-340121) · `ta`
+
+The Turkish Navy's TCG Kinaliada warship, commanded by Sergan Dogan, docked at Colombo port for an official visit, including a meeting with Rear Admiral Saman Perera. The ship, carrying 152 sailors, plans to explore Sri Lanka's main attractions during its stay.
+
+🟩
+
+The TCG Kinaliada ship of the Turkish Navy has arrived at the Colombo port for an official visit.
+
+Sergan Dogan is the command officer of the 152 sailor. There is also an official meeting between Dogan and Western Navy Commander Rear Admiral Saman Perera.
+
+It is reported that the ship will be anchored in Sri Lanka till tomorrow and its sailors are planning to visit Sri Lanka's main areas.. (A)
+
+◼️
+
+[Data](articles/ea357c97.json)
+
+[Extended Data](ext_articles/ea357c97.ext.json)
+
+---
+
 ### Dambulla Sixers eventually won the stunned Dambulla Sixers
 
 *2024-07-10 00:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/188088) · `ta`
@@ -574,19 +714,25 @@ In reply, Goal Marwals lost all the wickets in 19.4 overs and lost 135 runs.
 
 ---
 
-### விடைத்தாள் மதிப்பீட்டுக் கொடுப்பனவு அதிகரிக்கும்
+### The answer sheet will increase the assessment allowance
 
 *2024-07-10 00:41:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடைத்தாள்-மதிப்பீட்டுக்-கொடுப்பனவு-அதிகரிக்கும்/175-340120) · `ta`
 
-க.பொ.த சாதாரண தரப் பரீட்சைகள் மற்றும் தரம் ஐந்து புலமைப்பரிசில் பரீட்சைக்கான விடைத்தாள் மதிப்பீட்டுக் கொடுப்பனவை அதிகரிப்பதற்கான யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The Cabinet has approved increasing allowances for the GCE Ordinary Level Examination and Grade Five Scholarship Examination, as recommended by the Ministry of Education's Sub-Committee.
 
-இது தொடர்பாக முன்வைக்கப்பட்ட யோசனைக்கு அமைச்சரவை நேற்று அங்கீகாரம் வழங்கியுள்ளதாக கல்வி அமைச்சு தெரிவித்துள்ளது.
+🟩
 
-பரீட்சைகள் திணைக்களத்தை உள்ளடக்கிய உப குழுவின் பரிந்துரைகளின் அடிப்படையில் இது தொடர்பான பிரேரணை முன்வைக்கப்பட்டுள்ளதாக கல்வி அமைச்சு அறிக்கையொன்றை வெளியிட்டுள்ளது. (a)
+The Cabinet has approved the idea of ​​increasing the GCE Ordinary Level Examination and Grade Five Scholarship Examination.
+
+The Ministry of Education said that the Cabinet had approved the proposal proposed.
+
+The Ministry of Education has issued a statement saying that the proposal has been proposed based on the recommendations of the Sub -Committee comprising the Department of Examinations.. (A)
 
 ◼️
 
 [Data](articles/f6de642d.json)
+
+[Extended Data](ext_articles/f6de642d.ext.json)
 
 ---
 
@@ -1081,6 +1227,28 @@ The Department of Examinations said that the time of applying for any reason wou
 [Data](articles/0f129120.json)
 
 [Extended Data](ext_articles/0f129120.ext.json)
+
+---
+
+### There is no statutory requirement to make the senior officer at the Attorney General
+
+*2024-07-09 19:15:44* · [`adalk`](https://www.ada.lk/breaking_news/ජ්‍යෙෂ්ඨතම-නිලධාරියා-නීතිපති-කරන්න-ව්‍යවස්ථාපිත-අවශ්‍යතාවක්-නෑ/11-410703) · `si`
+
+Saman Ekanayake clarified that there's no legal obligation to appoint the Attorney General's top official based on seniority, as it hasn't been done previously. He responded to a letter regarding AG appointments and suggested the Sri Lanka Bar Association shouldn't represent just one individual against the AG.
+
+🟩
+
+Presidential Secretary Saman Ekanayake says that there is no statutory need to appoint the senior official in the Attorney General's Department based on seniority.
+
+He added that the previous has not happened before.. Presidential Secretary Saman Ekanayake has made this statement in response to a letter sent to the President on the appointment of the Attorney General on seniority.
+
+This article further states that the Sri Lanka Bar Association should not appear for one person alone while others for the Attorney General.
+
+◼️
+
+[Data](articles/af5cee8d.json)
+
+[Extended Data](ext_articles/af5cee8d.ext.json)
 
 ---
 
@@ -2037,163 +2205,5 @@ During the first debate with former President Donaldram, Baidan was found to be 
 [Data](articles/c8c8c9de.json)
 
 [Extended Data](ext_articles/c8c8c9de.ext.json)
-
----
-
-### Will Iran's foreign policy change under the new president?Many believe that the new change in the world will lead!
-
-*2024-07-09 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188047) · `ta`
-
-Iran's upcoming presidential election may impact its foreign policy, potentially influencing global dynamics due to its strategic importance to countries like India and Britain.
-
-🟩
-
-Iran's election is expected to be important in India and Britain. Narendra Modi has been re -elected as the Prime Minister of India.
-
-◼️
-
-[Data](articles/4d6e6331.json)
-
-[Extended Data](ext_articles/4d6e6331.ext.json)
-
----
-
-### 2 million sims are in use without identification
-
-*2024-07-09 15:51:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-மில்லியன்-சிம்கள்-அடையாளம்-இன்றி-பாவனையில்-உள்ளன/175-340097) · `ta`
-
-Two million SIM cards in Sri Lanka are being used without proper identity verification, a practice linked to various crimes. The Technology Minister highlighted the need for ID submission for SIM card acquisition under a new law, contrasting it with the pre-2018 requirement where IDs weren't necessary. This change aims to curb false information dissemination and enhance crime investigation capabilities.
-
-🟩
-
-Technology Minister Kanaka Herath said that about two million SIM cards were used without proper identities that had been put forward by some of the crimes in the country.
-
-He told Parliament that the ID card should be submitted to obtain the SIM card before the new law is implemented before the ID cards are not necessary when obtaining SIM cards before 2018.
-
-The Minister said that about two million SIM cards, which had been obtained without proper identities before 2018, are currently in use, which has caused serious problems in finding some crime.
-
-Addressing the debate on the Sri Lanka Telecommunications Bill, the Minister said that the Bill was introduced against those who publish false information when obtaining SIM cards.
-
-◼️
-
-[Data](articles/a92a5735.json)
-
-[Extended Data](ext_articles/a92a5735.ext.json)
-
----
-
-### ‘Club Wasantha’ murder: Tattoo studio owner and six others arrested
-
-*2024-07-09 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100398/club-wasantha-murder-tattoo-studio-owner-and-six-others-arrested) · `en`
-
-Police have arrested seven suspects including the owner of the tattoo studio in Athurugiriya where the shooting incident took place yesterday resulting in the deaths of Surendra Wasantha Perera alias ‘Club Wasantha’ and another person and four others were injured.
-
-The other arrested individuals are suspected to have aided and abetted in the shooting incident, police said.
-
-During the investigations carried out so far, it has been revealed that the owner of the tattoo studio has received an amount of Rs. 1 million from time to time.
-
-Earlier, Athurugiriya Police recorded statements from 5 individuals including the owner of the tattoo shop in Athurugiriya where the shooting took place.
-
-The shooting occurred during the opening ceremony of a tattoo and piercing studio near the Clock Tower in Athurugiriya.
-
-...
-
-[Data](articles/eed48390.json)
-
-[Extended Data](ext_articles/eed48390.ext.json)
-
----
-
-### A doctor's motorcycle thieves at hospital
-
-*2024-07-09 15:45:19* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍යවරයෙකුගේ-යතුරු-පැදියක්-රෝහලෙදී-සොරා-ගැනේ/11-410694) · `si`
-
-An investigation is underway after a doctor's motorcycle was stolen from the Anuradhapura Teaching Hospital. The theft occurred while the doctor was at work, and the bike was later found without its sidecar.
-
-🟩
-
-A motorcycle of a doctor in the Anuradhapura Teaching Hospital has launched an investigation into a stolen motorcycle at the hospital premises, Anuradhapura headquarters said.
-
-The investigation was launched in a complaint lodged with a complaint with a resident of the Mahailuppalama area in the Anuradhapura Teaching Hospital.
-
-The doctor has come to the hospital and stole the cyclone of his motorcycle and went to the style of his work, police said.
-
-◼️
-
-[Data](articles/1915e774.json)
-
-[Extended Data](ext_articles/1915e774.ext.json)
-
----
-
-### Sri Lanka attempts to balance Indian Chinese relations
-
-*2024-07-09 15:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/188045) · `ta`
-
-Sri Lanka aims to balance its relationships with India and China amidst geopolitical tensions. The country is negotiating with international creditors over its debt, seeking to avoid conflicts between its major lenders. Sri Lanka expects to finalize debt restructuring by the end of the month and has temporarily agreed with some creditors to proceed with bailout restoration. With a population of 22 million, heavily reliant on foreign tourism and investment, Sri Lanka navigates its economic challenges while managing its strategic partnerships with China and India, both vying for influence in the region.
-
-🟩
-
-Sri Lanka's External Affairs Minister Alisabri said Sri Lanka will fulfill talks with international bail owners on Sri Lanka's debt issuer over the next few weeks.
-
-He said that Sri Lanka is trying to balance its relations to ensure that foreign countries, India, has no differences in handling China.
-
-The Minister of Foreign Affairs of Sri Lanka has expressed the view that the two major countries that are contesting in Asia have given more debts to Sri Lanka and are contesting for geopolitical dominance in Sri Lanka.
-
-"We are expecting the next weeks in the next week," he said.
-
-He said we would officially complete the debt operations by the end of this month, he said.
-
-Sri Lanka has made a temporary agreement with some of its bail owners to move forward in the restoration of its bailouts.
-
-Sri Lanka has to pay US $ 37 billion foreign loans.
-
-Sri Lanka has reached a consensus for $ 10 million at the end of June with countries like China Japan.
-
-...
-
-[Data](articles/0128ba18.json)
-
-[Extended Data](ext_articles/0128ba18.ext.json)
-
----
-
-### Seven suspects arrested for murder
-
-*2024-07-09 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198639) · `si`
-
-Seven individuals, including one from the TTO Center, have been arrested in relation to the murder of Klub Wasantha Wasantha Perera.
-
-🟩
-
-Seven, including 07, including the TTO Center, has been arrested in connection with the TTO Center regarding the shout of Klub Wasantha Wasantha Wasantha Perera.
-
-◼️
-
-[Data](articles/4e1f98d3.json)
-
-[Extended Data](ext_articles/4e1f98d3.ext.json)
-
----
-
-### Turkish naval ship to conduct passage exercise with Sri Lanka Navy
-
-*2024-07-09 15:30:00* · [`economynextcom`](https://economynext.com/turkish-naval-ship-to-conduct-passage-exercise-with-sri-lanka-navy-171421/) · `en`
-
-ECONOMYNEXT – The Turkish Naval Force ship TCG Kinaliada called at the Colombo port on a formal visit on Monday morning (9).
-
-TCG Kinaliada will engage in a passage exercise (PASSEX) with a Sri Lanka Navy ship in Colombo seas before departure on July 11, the Navy said in a statement.
-
-The PASSEX will test cooperation, communication and interoperability between the two navies, including ship maneuvering and procedures.
-
-The 99.5m long ship is manned by 152 crew members and commanded by Serkan Dogan. The crew are expected to visit tourist attractions in the country.
-
-Sri Lanka temporarily halted foreign research ships after India and the United States raised security concerns following the visit of two Chinese research vessels in 14 months. Foreign research ships can still use the island nation’s ports for replenishments and crew changes.
-
-...
-
-[Data](articles/340287c2.json)
-
-[Extended Data](ext_articles/340287c2.ext.json)
 
 ---

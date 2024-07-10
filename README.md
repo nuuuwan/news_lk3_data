@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 17:35:30**
+As of **2024-07-10 17:56:10**
 
 ## Newspaper Stats
 
-*Scraped **34,609** Articles*
+*Scraped **34,612** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
-adalk | 3,116
-adaderanalk | 3,979
+adalk | 3,117
+adaderanalk | 3,981
 tamilmirrorlk | 4,129
 dailymirrorlk | 4,733
 virakesarilk | 5,402
@@ -26,11 +26,41 @@ adaderanasinhalalk | 5,762
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,603 (100.0%) of 34,609 articles have been extended.
+34,609 (100.0%) of 34,612 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### ‘Suwa Seriya’ to receive nearly 100 more ambulances
+
+*2024-07-10 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100428/suwa-seriya-to-receive-nearly-100-more-ambulances-) · `en`
+
+The Cabinet of Ministers has granted approval to take necessary steps to provide ambulances to the ‘1990 Suwa Seriya’ Foundation, free of charge as a grant.
+
+Issuing a statement, the Department of Government Information (DGI) stated that ‘1990 Suwa Seriya’ Foundation had been initiated by the utilization of 297 ambulances which were obtained from India’s TATA Sons Pvt. Ltd, under a grant of the Indian Government in 2016, with the objective of providing the pre-hospital treatments and emergency treatment services.
+
+At present, 322 of ambulances are operated including 25 ambulances provided by Government of Sri Lanka. According to the target of the ‘Suwa Seriya’ Foundation, it has been identified that 450 ambulances and 25 back-up ambulances are required and accordingly, there is a dearth of 150 ambulances at present, it added.
+
+...
+
+[Data](articles/6b0914b3.json)
+
+---
+
+### Suspects arrested over ‘Club Wasantha’ murder remanded
+
+*2024-07-10 17:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100427/suspects-arrested-over-club-wasantha-murder-remanded) · `en`
+
+The seven suspects including the tattoo studio owner arrested in connection with the shooting incident in Athurugiriya, which claimed the lives of businessman Surendra Wasantha Perera alias ‘Club Wasantha’ and another person, have been remanded by the Kaduwela Magistrate’s Court.
+
+The accused were ordered remanded until July 22 after being produced before the court on Wednesday (10).
+
+◼️
+
+[Data](articles/b6ac8c6b.json)
+
+---
 
 ### President hails non-striking govt. employees, assures special increment
 
@@ -48,23 +78,31 @@ Furthermore, the Head of the State highlighted that the special salary increment
 
 [Data](articles/aaf7b6e7.json)
 
+[Extended Data](ext_articles/aaf7b6e7.ext.json)
+
 ---
 
-### වසන්ත ඝාතනයේ සැකකරුවන් රිමාන්ඩ්
+### Wasantha murder suspects remanded
 
 *2024-07-10 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198679) · `si`
 
-ව්‍යාපාරික සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඝාතනයට අදාළව අත්අඩංගුවට ගත් ටැටූ මධ්‍යස්ථානයේ හිමිකරු ඇතුළු සැකකරුවන් 07 දෙනා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+Seven suspects, including a club owner, arrested for the murder of Wasantha at Tatu Center. They've been remanded until the 22nd after appearing in court. The incident occurred on July 08, resulting in the death of a businessman and injuries to several others.
 
-සැකකරුවන් කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව එළඹෙන 22 වනදා දක්වා රිමාන්ඩ් භාරයට පත් කෙරුණි.
+🟩
 
-ව්‍යාපාරිකයකු වූ සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත, ජුලි 08 වනදා අතුරුගිරියේ පිහිටි ටැටූ මධ්‍යස්ථානයකදී සිදුකළ වෙඩි තැබීමකින් ජීවිතක්ෂයට පත්වුණි.
+The seven suspects including the owner of the Tatu Center, who was arrested in connection with the Club Wasantha alias, have been arrested.
 
-එම අවස්ථාවේ එහි සිටි ප්‍රසිද්ධ ගායන ශිල්පිනී කේ. සුජීවාගේ සැමියා වන නයන වාසුල නමැත්තාද මියගිය අතර කේ.සුජීවා, ක්ලබ් වසන්තගේ බිරිය, තවත් කාන්තාවක් හා පිරිමි පුද්ගලයෙකු තුවාල ලබා රෝහල්ගත කෙරුණි.
+The suspects were produced before the Kaduwela Magistrate's Court and remanded until the 22nd.
+
+The businessman, Sorchandra, or Club was shot dead at a Tatu Center in Athurugiriya on July 08.
+
+The famous singer kin. Nayana Vasasula, the husband of Sujeewa, died and K.Sishewa, Club Wasantha's wife and a man were injured and injured.
 
 ◼️
 
 [Data](articles/3dd1a86e.json)
+
+[Extended Data](ext_articles/3dd1a86e.ext.json)
 
 ---
 
@@ -84,19 +122,27 @@ He further emphasized that they acknowledge that three-wheelers provide a signif
 
 [Data](articles/6bd886aa.json)
 
+[Extended Data](ext_articles/6bd886aa.ext.json)
+
 ---
 
-### சுகயீன விடுப்பு எடுக்காத ஆசிரியர்களுக்கு சம்பள உயர்வு
+### Salary increase for teachers who do not take sick leave
 
 *2024-07-10 17:03:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகயீன-விடுப்பு-எடுக்காத-ஆசிரியர்களுக்கு-சம்பள-உயர்வு/175-340168) · `ta`
 
-சுகயீன விடுப்புப் பிரச்சாரத்தில் ஈடுபடாத ஆசிரியர்களின் சம்பள அதிகரிப்புக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளதாக போக்குவரத்து மற்றும் ஊடகத்துறை அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+The Cabinet approved a salary hike for teachers excluding those involved in the Sugar Leave campaign. Teachers in Grade 3(I) will receive Rs. 5,250, Grade 2(I) Rs. 13,350, and Grade 1 Rs. 63,000 annually. These increases won't affect their pensions. The raise applies universally to all hires from the Sugar Leave period.
 
-ஊடகங்களுக்கு கருத்து தெரிவித்த அவர், சம்பள உயர்வு தரம் 3(I) இல் உள்ள ஆசிரியர்களுக்கு ரூ. 525 வழங்கப்படும். தரம் 2(I) இல் உள்ள ஆசிரியர்களுக்கு ரூ. 1,335 மற்றும் தரம் 1 இல் உள்ளவர்களுக்கு ரூ. 1,630. இந்த சம்பள உயர்வு அவர்களின் ஓய்வூதியத்தில் சேர்க்கப்படாது. சுகயீன விடுப்பு பிரச்சாரத்தின் போது பணியமர்த்தப்பட்ட அனைவருக்கும் அதே அதிகரிப்பு வழங்கப்படும்  என்றும் கூறினார்.
+🟩
+
+Transport and Media Minister Bandula Gunawardena said that the Cabinet has approved the salary increase of teachers who do not engage in the Sugar Leave campaign.
+
+Commenting on the media, he said, "Teachers in Grade 3 (I) of Grade 3 (I). 525 will be provided. Grade 2 (I) for teachers in Grade 2. 1,335 and Grade 1 for Rs.. ௧,௬௩௦. This salary will not be included in their pension. He said that all those who were hired during the Sugar Leave Campaign would be given the same increase.
 
 ◼️
 
 [Data](articles/81052a66.json)
+
+[Extended Data](ext_articles/81052a66.ext.json)
 
 ---
 
@@ -172,21 +218,27 @@ The young man and her complicity were arrested on Wednesday (10) for allegedly r
 
 ---
 
-### மாணவி வன்புணர்வு ; காதலனும் தாயாரும் கைது
+### Student harassment;Arrest for lover and mother
 
 *2024-07-10 16:47:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவி-வன்புணர்வு-காதலனும்-தாயாரும்-கைது/175-340167) · `ta`
 
-ஏறாவூர் பிரதேசத்தில் 14 வயது மாணவியைக் காதலித்த 22 இளைஞன் அவரை தனது வீட்டிற்கு அழைத்துச் சென்று பாலியல் வன்புணர்வுக்குட்படுத்தியுள்ள சம்பவம் தொடர்பில், குறித்த இளைஞனும் அவரது தாயாரும் புதன்கிழமை (10) கைது செய்யப்பட்டுள்ளனர்.
+A young man and his mother were arrested for allegedly raping a 14-year-old girl he had fallen in love with. The victim's mother works abroad, and the incident occurred last May when the perpetrator took the girl home. Authorities were notified, leading to their arrest and hospitalization.
 
-பாதிக்கப்பட்ட மாணவியின் தந்தையார் இல்லாத நிலையில், தாயார் மத்திய கிழக்கு நாடொன்றில் பணிபுரிந்து வருவதுடன், மாணவி உறவினருடன் தங்கி அப்பகுதியிலுள்ள பாடசாலையில் கல்வி கற்று வந்துள்ளார்.
+🟩
 
-கடந்த மே மாதம்  குறித்த மாணவியை இளைஞன் தனது வீட்டிற்கு அழைத்துச் சென்று அங்குத் தங்க வைத்து பாலியல் வன்புணர்வுக்குட்படுத்தி வந்துள்ளார். இது தொடர்பாகப் பிரதேச செயலக சிறுவர் நன்னடத்தை அதிகாரிக்குத் தகவல் கிடைத்துள்ளது.
+A young man and his mother have been arrested on Wednesday (10) in connection with the incident of a 22 -year -old man who fell in love with a 14 -year -old student in Eravur.
 
-சிறுமியை அடைத்து வைத்து பாலியல் வன்புணர்வுக்குட்படுத்தியுள்ள குற்றச்சாட்டில் இளைஞனையும், அதற்கு உடந்தையாக இருந்த அவரது தாயையும் புதன்கிழமை (10) அன்று கைது செய்ததுடன், சிறுமியை மீட்டு வைத்தியசாலையில் அனுமதித்துள்ளனர்.
+In the absence of the father of the victim, the mother is working in a Middle East and has been educated in a school in the area.
+
+Last May, the young man took her home and stayed there and raped her. The Divisional Secretariat Children's Probation Officer has been informed about this.
+
+The young man and her complicity were arrested on Wednesday (10) for allegedly raping and raping the girl and admitted to the hospital.
 
 ◼️
 
 [Data](articles/cd9a5fb5.json)
+
+[Extended Data](ext_articles/cd9a5fb5.ext.json)
 
 ---
 
@@ -232,19 +284,27 @@ According to President Ranil Wickremesinghe, the 2024 budget was implemented in 
 
 ---
 
-### “வீட்டுக்கு தீ வைத்தபோது பெறுமதியை உணர்ந்தேன்”
+### "I felt the value when setting fire to the house"
 
 *2024-07-10 16:24:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/வீட்டுக்கு-தீ-வைத்தபோது-பெறுமதியை-உணர்ந்தேன்/150-340165) · `ta`
 
-இரண்டு வருடங்களுக்கு முன்னர் தனது வீடு தீவைத்து அழிக்கப்பட்ட போது, ​​ஒரு வீட்டின் பெறுமதியை கடுமையாக உணர்ந்ததாகவும் அதன் பெறுமதியை உணர்ந்ததாலேயே கொழும்பில் உள்ள அடுக்குமாடி குடியிருப்பில் வசிக்கும் 2,50,000 பேருக்கு அந்த வீடுகளின் முழுமையான உரிமையையும் வழங்கும் வேலைத்திட்டத்தை நடைமுறைப்படுத்தியதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe highlighted the importance of homeownership during a ceremony where he handed over housing rights to residents of apartments in Colombo. He mentioned the launch of a program aimed at granting full property rights to 2.55 million people, starting with 50,000 houses. This initiative is part of the 2024 budget and aims to support low-income families living in apartments. The National Housing Development Authority will facilitate this by providing houses to beneficiaries who meet certain criteria, including those paying rent below a specified amount. Through the Urumaya Project, the government also plans to grant free land rights to 2 million individuals, emphasizing its commitment to enhancing land and home ownership across the nation.
 
-கொழும்பிலுள்ள அடுக்குமாடி குடியிருப்புகளில் வாழ்கின்ற, இரண்டரை இலட்சத்துக்கும் குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு அந்த வீடுகளின் பூரண உரிமையை வழங்கும் வேலைத்திட்டத்தின் முதற்கட்டமாக 50,000 வீடுகளை வழங்கும் “ரன்தொர உறுமய” வீட்டு உரிமை வழங்கும் ஆரம்ப நிகழ்வு ஜனாதிபதி செயலகத்தில் நடைபெற்றது. இந்த நிகழ்வில் உரையாற்றுகையிலே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+🟩
 
-கொழும்பு மாவட்டத்தில் 31 அடுக்குமாடி குடியிருப்புகளில் அமைந்துள்ள 130 வீடுகளுக்கான உரிமைகள் வழங்கி வைக்கப்பட்டதுடன், இதன்போது அடையாளமாக ஜனாதிபதி சிலருக்கு வீட்டு உரிமைகளை கையளித்தார்.
+President Ranil Wickremesinghe said that when his home was set on fire two years ago, the value of a house was severely felt and that it was implementing a program of providing the full rights of the houses to 2550,000 people living in an apartment in Colombo.
+
+The initial ceremony was held at the Presidential Secretariat to provide 50,000 houses for the first time of the program to provide the full rights of the houses for families who live in apartments in Colombo. The President said this while addressing the event.
+
+The Rights of 130 houses in 31 apartments in the Colombo district were granted and the President handed over the housing rights to some.
+
+According to President Ranil Wickremesinghe, the 2024 budget was implemented in the 2024 budget and a scheme of providing the full rights of the houses for less than two and a half million families living in apartments.
 
 ...
 
 [Data](articles/8cd8b557.json)
+
+[Extended Data](ext_articles/8cd8b557.ext.json)
 
 ---
 
@@ -551,6 +611,22 @@ Nidahasa Janata Sabha (NJS), led by Member of Parliament Dullas Alahapperuma, ha
 [Data](articles/8a00000d.json)
 
 [Extended Data](ext_articles/8a00000d.ext.json)
+
+---
+
+### සෞඛ්‍යය හා අධ්‍යාපනයේ වර්ජන පාලනයට නව නීතියක්
+
+*2024-07-10 13:36:15* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍යය-හා-අධ්‍යාපනයේ-වර්ජන-පාලනයට-නව-නීතියක්/11-410717) · `si`
+
+සෞඛ්‍ය අධ්‍යාපනය වැනි මූලික මිනිස් අවශ්‍යතා ඉෂ්ට කර ගැනීමට අදාළ වන සේවාවන් කඩ­ාකප්පල් කිරීම වැළැක්වීම සඳහා පොදු මහජනතාවගේ යහපත හා ආරක්ෂාව වෙනුවෙන් අවශ්‍ය වන නව නීතියක් සම්පාදනය කිරීමට කැබිනට් මණ්ඩලයේ අවධානය යොමු වූ බව කැබිනට් ප්‍රකාශක ආචාර්ය බන්දුල ගුණවර්ධන මහතා අවධාරණය කරයි.
+
+අද(10) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමින් අමාත්‍යවරයා මේ බව පැවසීය.
+
+පාසැල් පැවැත්වෙන කාලසීමාවන්වලදී ඉගැන්වීමේ කටයුතුවලට බාධාවන් සිදු වන අයුරින් සහ රෝහල්වල රෝගී සත්කාරක සේවා අඩපණ වන අයුරින් ඇතැම් කණ්ඩායම් විසින් සිදු කරනු ලබන බලපෑම් හා අනිසි ක්‍රියා පිළිබඳව අමාත්‍ය මණ්ඩලයේ අවධානය යොමු කරනු ලදුව, එවැනි අනීතික ක්‍රියා මඟින් පාසල් සිසු දරුවන්ට සහ රෝගීන්ට සිදු කරනු ලබන අසාධාරණයන් වැළැක්වීම පිණිස නව නීති හඳුන්වා දීම සඳහා අවශ්‍ය පියවර ගැනීමට අමාත්‍ය මණ්ඩලය තීරණය කල බවද අමාත්‍යවරයා පැවසීය.
+
+◼️
+
+[Data](articles/bcd801b1.json)
 
 ---
 
@@ -2153,53 +2229,5 @@ Led by Unilever South Asia Executive Director of Supply Chain Yogesh Mishra, the
 [Data](articles/194a0c05.json)
 
 [Extended Data](ext_articles/194a0c05.ext.json)
-
----
-
-### Should an Econ student take Harshanomics 201?
-
-*2024-07-10 05:56:43* · [`dailyftlk`](https://www.ft.lk/columns/Should-an-Econ-student-take-Harshanomics-201/4-764065) · `en`
-
-If anybody is capable of successfully balancing a massive human development program through a vibrant economy, that would be Harsha
-
-This is not a political article. I am not a political writer. Were politics your sole interest, you may choose to not to read further. Rather, this article caters to individuals with a deep interest in economics, just like myself. By the end, you will have a well-informed understanding of whether or not to pursue the subject of Harshanomics 201, which is offered by the esteemed Economics Department at the University of Lifelong Studies.
-
-...
-
-[Data](articles/6b7bc0c4.json)
-
-[Extended Data](ext_articles/6b7bc0c4.ext.json)
-
----
-
-### Eliminating political corruption: Key to our recovery
-
-*2024-07-10 05:51:04* · [`dailyftlk`](https://www.ft.lk/columns/Eliminating-political-corruption-Key-to-our-recovery/4-764064) · `en`
-
-Sri Lanka is grappling with a severe cost-of-living crisis rooted in pervasive political corruption. Political intermediaries profit at every stage, shifting the burden onto consumers. The economy has plummeted due to corrupt leaders using the Government to further personal agendas and misusing public funds on unproductive projects while simultaneously selling national assets and depleting public reserves. Under such deceptive governance, our future hard work and increased taxes will be in vain, offering no relief to ordinary citizens as corrupt politicians continue to siphon off surplus funds.
-
-...
-
-[Data](articles/7c465336.json)
-
-[Extended Data](ext_articles/7c465336.ext.json)
-
----
-
-### The world must thank the Palestinians
-
-*2024-07-10 05:47:09* · [`dailyftlk`](https://www.ft.lk/columns/The-world-must-thank-the-Palestinians/4-764063) · `en`
-
-The world citizens collectively should be grateful to the Palestinians for exposing several areas which were hitherto deceivingly hidden behind the curtain of anti-Semitism
-
-“What we know about how these children are being treated is unacceptable, but what we don’t know could be even worse.” – Jason Lee, Save the Children
-
-To put things in perspective. Figures from widely reported independent sources indicate, as of today, the number of Palestinians – Muslims, Christians and others – killed total to 37,000. Of this, the number of children killed are 13,800. The total number injured is 75,000 and the attacks are continuing. The ceasefire approved by the Security Council in June has been conveniently forgotten. The arrest warrant against Netanyahu and his other accomplices in war crimes has been tactically delayed.
-
-...
-
-[Data](articles/f0118fc7.json)
-
-[Extended Data](ext_articles/f0118fc7.ext.json)
 
 ---

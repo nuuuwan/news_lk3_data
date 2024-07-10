@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 07:26:50**
+As of **2024-07-10 08:16:05**
 
 ## Newspaper Stats
 
-*Scraped **34,510** Articles*
+*Scraped **34,512** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,034
 dailyftlk | 2,167
-adalk | 3,101
+adalk | 3,102
 adaderanalk | 3,960
-tamilmirrorlk | 4,101
+tamilmirrorlk | 4,102
 dailymirrorlk | 4,733
 virakesarilk | 5,396
 adaderanasinhalalk | 5,738
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,494 (100.0%) of 34,510 articles have been extended.
+34,510 (100.0%) of 34,512 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ Furthermore, he stated that strict disciplinary action would be taken against th
 
 [Data](articles/a99c9ecb.json)
 
+[Extended Data](ext_articles/a99c9ecb.ext.json)
+
 ---
 
 ### Several spells of showers expected in parts of the island
@@ -69,6 +71,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/c43e2240.json)
+
+[Extended Data](ext_articles/c43e2240.ext.json)
 
 ---
 
@@ -88,6 +92,8 @@ LAUGFS Rubber said the achievement reflects the company’s commitment to excell
 
 [Data](articles/108061e4.json)
 
+[Extended Data](ext_articles/108061e4.ext.json)
+
 ---
 
 ### Halpé Tea honoured as ‘Runner Up in Food and Beverage Sector’ at National Business Excellence Awards 2024
@@ -99,6 +105,8 @@ Halpé Tea, a subsidiary of Vella Group of Companies has reaffirmed its commitme
 ...
 
 [Data](articles/51b1375d.json)
+
+[Extended Data](ext_articles/51b1375d.ext.json)
 
 ---
 
@@ -116,6 +124,8 @@ Fonterra has consistently focused on reducing its environmental impact while mai
 
 [Data](articles/48de58d9.json)
 
+[Extended Data](ext_articles/48de58d9.ext.json)
+
 ---
 
 ### Crocodile ranked among LMD’s top 10 most loved retail lifestyle brands
@@ -130,6 +140,8 @@ Today, Crocodile stands as one of the most respected and well-known brands in th
 
 [Data](articles/e77fedef.json)
 
+[Extended Data](ext_articles/e77fedef.ext.json)
+
 ---
 
 ### GoGo.Sale launches new campaign to transform vehicle buying and selling
@@ -141,6 +153,8 @@ GoGo.sale, Sri Lanka’s premier online marketplace, has unveiled its latest cam
 ...
 
 [Data](articles/3ed5a2af.json)
+
+[Extended Data](ext_articles/3ed5a2af.ext.json)
 
 ---
 
@@ -160,6 +174,8 @@ Led by Unilever South Asia Executive Director of Supply Chain Yogesh Mishra, the
 
 [Data](articles/194a0c05.json)
 
+[Extended Data](ext_articles/194a0c05.ext.json)
+
 ---
 
 ### Should an Econ student take Harshanomics 201?
@@ -174,6 +190,8 @@ This is not a political article. I am not a political writer. Were politics your
 
 [Data](articles/6b7bc0c4.json)
 
+[Extended Data](ext_articles/6b7bc0c4.ext.json)
+
 ---
 
 ### Eliminating political corruption: Key to our recovery
@@ -185,6 +203,8 @@ Sri Lanka is grappling with a severe cost-of-living crisis rooted in pervasive p
 ...
 
 [Data](articles/7c465336.json)
+
+[Extended Data](ext_articles/7c465336.ext.json)
 
 ---
 
@@ -540,6 +560,28 @@ Later, Premalatha was comforted by Vijayakanth and son Shanmukha Pandiyan. Subse
 
 ---
 
+### Warship
+
+*2024-07-10 01:25:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்புத்-துறைமுகத்தில்-போர்க்கப்பல்/175-340121) · `ta`
+
+The Turkish Navy's TCG Kinaliada warship, commanded by Sergan Dogan, docked at Colombo port for an official visit, including a meeting with Rear Admiral Saman Perera. The ship, carrying 152 sailors, plans to explore Sri Lanka's main attractions during its stay.
+
+🟩
+
+The TCG Kinaliada ship of the Turkish Navy has arrived at the Colombo port for an official visit.
+
+Sergan Dogan is the command officer of the 152 sailor. There is also an official meeting between Dogan and Western Navy Commander Rear Admiral Saman Perera.
+
+It is reported that the ship will be anchored in Sri Lanka till tomorrow and its sailors are planning to visit Sri Lanka's main areas.. (A)
+
+◼️
+
+[Data](articles/ea357c97.json)
+
+[Extended Data](ext_articles/ea357c97.ext.json)
+
+---
+
 ### Dambulla Sixers eventually won the stunned Dambulla Sixers
 
 *2024-07-10 00:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/188088) · `ta`
@@ -574,19 +616,25 @@ In reply, Goal Marwals lost all the wickets in 19.4 overs and lost 135 runs.
 
 ---
 
-### விடைத்தாள் மதிப்பீட்டுக் கொடுப்பனவு அதிகரிக்கும்
+### The answer sheet will increase the assessment allowance
 
 *2024-07-10 00:41:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடைத்தாள்-மதிப்பீட்டுக்-கொடுப்பனவு-அதிகரிக்கும்/175-340120) · `ta`
 
-க.பொ.த சாதாரண தரப் பரீட்சைகள் மற்றும் தரம் ஐந்து புலமைப்பரிசில் பரீட்சைக்கான விடைத்தாள் மதிப்பீட்டுக் கொடுப்பனவை அதிகரிப்பதற்கான யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The Cabinet has approved increasing allowances for the GCE Ordinary Level Examination and Grade Five Scholarship Examination, as recommended by the Ministry of Education's Sub-Committee.
 
-இது தொடர்பாக முன்வைக்கப்பட்ட யோசனைக்கு அமைச்சரவை நேற்று அங்கீகாரம் வழங்கியுள்ளதாக கல்வி அமைச்சு தெரிவித்துள்ளது.
+🟩
 
-பரீட்சைகள் திணைக்களத்தை உள்ளடக்கிய உப குழுவின் பரிந்துரைகளின் அடிப்படையில் இது தொடர்பான பிரேரணை முன்வைக்கப்பட்டுள்ளதாக கல்வி அமைச்சு அறிக்கையொன்றை வெளியிட்டுள்ளது. (a)
+The Cabinet has approved the idea of ​​increasing the GCE Ordinary Level Examination and Grade Five Scholarship Examination.
+
+The Ministry of Education said that the Cabinet had approved the proposal proposed.
+
+The Ministry of Education has issued a statement saying that the proposal has been proposed based on the recommendations of the Sub -Committee comprising the Department of Examinations.. (A)
 
 ◼️
 
 [Data](articles/f6de642d.json)
+
+[Extended Data](ext_articles/f6de642d.ext.json)
 
 ---
 
@@ -1081,6 +1129,28 @@ The Department of Examinations said that the time of applying for any reason wou
 [Data](articles/0f129120.json)
 
 [Extended Data](ext_articles/0f129120.ext.json)
+
+---
+
+### There is no statutory requirement to make the senior officer at the Attorney General
+
+*2024-07-09 19:15:44* · [`adalk`](https://www.ada.lk/breaking_news/ජ්‍යෙෂ්ඨතම-නිලධාරියා-නීතිපති-කරන්න-ව්‍යවස්ථාපිත-අවශ්‍යතාවක්-නෑ/11-410703) · `si`
+
+Saman Ekanayake clarified that there's no legal obligation to appoint the Attorney General's top official based on seniority, as it hasn't been done previously. He responded to a letter regarding AG appointments and suggested the Sri Lanka Bar Association shouldn't represent just one individual against the AG.
+
+🟩
+
+Presidential Secretary Saman Ekanayake says that there is no statutory need to appoint the senior official in the Attorney General's Department based on seniority.
+
+He added that the previous has not happened before.. Presidential Secretary Saman Ekanayake has made this statement in response to a letter sent to the President on the appointment of the Attorney General on seniority.
+
+This article further states that the Sri Lanka Bar Association should not appear for one person alone while others for the Attorney General.
+
+◼️
+
+[Data](articles/af5cee8d.json)
+
+[Extended Data](ext_articles/af5cee8d.ext.json)
 
 ---
 
@@ -2155,45 +2225,5 @@ Sri Lanka has reached a consensus for $ 10 million at the end of June with count
 [Data](articles/0128ba18.json)
 
 [Extended Data](ext_articles/0128ba18.ext.json)
-
----
-
-### Seven suspects arrested for murder
-
-*2024-07-09 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198639) · `si`
-
-Seven individuals, including one from the TTO Center, have been arrested in relation to the murder of Klub Wasantha Wasantha Perera.
-
-🟩
-
-Seven, including 07, including the TTO Center, has been arrested in connection with the TTO Center regarding the shout of Klub Wasantha Wasantha Wasantha Perera.
-
-◼️
-
-[Data](articles/4e1f98d3.json)
-
-[Extended Data](ext_articles/4e1f98d3.ext.json)
-
----
-
-### Turkish naval ship to conduct passage exercise with Sri Lanka Navy
-
-*2024-07-09 15:30:00* · [`economynextcom`](https://economynext.com/turkish-naval-ship-to-conduct-passage-exercise-with-sri-lanka-navy-171421/) · `en`
-
-ECONOMYNEXT – The Turkish Naval Force ship TCG Kinaliada called at the Colombo port on a formal visit on Monday morning (9).
-
-TCG Kinaliada will engage in a passage exercise (PASSEX) with a Sri Lanka Navy ship in Colombo seas before departure on July 11, the Navy said in a statement.
-
-The PASSEX will test cooperation, communication and interoperability between the two navies, including ship maneuvering and procedures.
-
-The 99.5m long ship is manned by 152 crew members and commanded by Serkan Dogan. The crew are expected to visit tourist attractions in the country.
-
-Sri Lanka temporarily halted foreign research ships after India and the United States raised security concerns following the visit of two Chinese research vessels in 14 months. Foreign research ships can still use the island nation’s ports for replenishments and crew changes.
-
-...
-
-[Data](articles/340287c2.json)
-
-[Extended Data](ext_articles/340287c2.ext.json)
 
 ---

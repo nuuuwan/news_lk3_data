@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 03:19:49**
+As of **2024-07-11 03:35:04**
 
 ## Newspaper Stats
 
-*Scraped **34,680** Articles*
+*Scraped **34,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,92 @@ adalk | 3,126
 adaderanalk | 3,986
 tamilmirrorlk | 4,134
 dailymirrorlk | 4,733
-virakesarilk | 5,419
+virakesarilk | 5,422
 adaderanasinhalalk | 5,767
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,680 (100.0%) of 34,680 articles have been extended.
+34,680 (100.0%) of 34,683 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### ஜனாதிபதி தேர்தலை நடத்துவதன் அவசியம் : சபை ஒத்திவைப்பு விவாதம் இன்று
+
+*2024-07-11 03:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/188175) · `ta`
+
+சட்டரீதியான ஏற்பாடுகளுக்கு அமைய உரிய காலத்தில் ஜனாதிபதித் தேர்தலை நடத்துவது பற்றிய ஒத்திவைப்பு விவாதம் வியாழக்கிழமை (11) இடம்பெறவுள்ளது. எதிர்க்கட்சியினர் முன்வைத்த பிரேரணைக்கு அமைய இந்த விவாதம் நடத்தப்படவுள்ளது.
+
+சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் புதன்கிழமை (10) இடம்பெற்ற பாராளுமன்ற அலுவல்கள் பற்றிய குழுக்கூட்டத்தில் இத் தீர்மானம் எடுக்கப்பட்டது.
+
+அரசியலமைப்பு மற்றும் ஏனைய பொருத்தப்பாடுடைய சட்டங்களின் தேவைப்பாடிற்கிணங்க 2024 செப்டெம்பர் 17 முதல் ஒக்டோபர் 16 வரையான காலப் பகுதியில் ஜனாதிபதித் தேர்தலை நடத்துவது தொடர்பாக தேசிய மக்கள் சக்தியின் தலைவர்  அநுரகுமார திஸாநாயக்க மற்றும் எதிர்க்கட்சி முதற்கோலாசான் லக்ஷ்மன் கிரியெல்ல ஆகியோரினால் கூட்டாக முன்வைக்கப்பட்ட பிரேரணைக்கு அமைய இந்த ஒத்திவைப்பு விவாதம் நடத்தப்படவுள்ளது.
+
+...
+
+[Data](articles/9445299c.json)
+
+---
+
+### கொக்குத்தொடுவாய் ஆறாம் நாள் அகழ்வுப் பணி: 7 மனித உடல் பாகங்கள், சில மனித ஆடைகள், இராணுவத்தால் பாவிக்கப்படும் கம்பிகள் மீட்பு!
+
+*2024-07-11 03:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188174) · `ta`
+
+கொக்குத்தொடுவாய் மனிதப் புதைகுழியின் அகழ்வுப் பணியின் மூன்றாம் கட்டத்தில் ஆறாம் நாள் அகழ்வு புதன்கிழமை (10) இடம்பெற்றது.
+
+குறித்த அகழ்வின் போது பார்வையாளராக 10ஆம் திகதி புதன்கிழமையும் ஐக்கிய நாடுகள் சபையின் இலங்கை அலுவலகத்தின் மனித உரிமைகளுக்கான அதிகாரி லூடியானா செல்றினி அகிலன் அவர்களும் இந்த அகழ்வுப் பணிகளை மேற்பார்வை செய்திருந்தார்.
+
+இந்த அகழ்வு பணியின் போது 09, 10 ஆம் திகதிகளில் 7 மனித உடல் பாகங்கள் ,சில மனித ஆடைகள் மற்றும் இராணுவத்தால் பாவிக்கப்படும் கம்பி மேலும் சில பொருட்கள் கண்டுபிடிக்கப்பட்டுள்ளது. அத்துடன் ஆடைகளில் பெண்களுக்குரிய உள் ஆடைகள் காணப்படுகின்றது தொடர்பான மேலதிக ஆய்வுகள் நாளை நடைபெற இருக்கின்றது.
+
+புதன்கிழமை (10) அகழ்வ பணிகளை பேராசிரியர் சோமதேவா குழுவினர் மேற்கொண்டனர் அத்துடன் சட்ட வைத்திய அதிகாரி வாசுதேவா தடயவியல் பொலிஸாசார் உள்ளிட்ட தரப்பினரும் இந்த ஆய்வுகளில் பங்கேற்றிருந்தனர்.
+
+◼️
+
+[Data](articles/c92a1d25.json)
+
+---
+
+### 09 companies complying to pay a salary of 1700 rupees;I am not a Facebook statement, but actor - Minister Jeevan Thondaman
+
+*2024-07-11 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188169) · `ta`
+
+Nine companies have agreed to pay a minimum wage of 1700 rupees following discussions led by Sri Lanka's Labor Minister Manusha Nanayakkara. Minister Jeevan Thondaman clarified his role as an active participant rather than a social media figure, emphasizing his commitment to resolving labor issues.
+
+🟩
+
+Nine companies have agreed to pay a salary of 1700 rupees at a meeting with plantation companies headed by Labor Minister Manusha Nanayakkara. Minister Jeevan Thondaman said, "I am not a Facebook hero, but an action hero."
+
+He said this while addressing a debate on the Gazette Notifications on Wednesday (10) in Parliament.
+
+A meeting with plantation companies was held on Wednesday (10)), led by the Minister of Daylight Industries, Manusha Nanayakkara.On Tuesday (09), I said that 7 companies had agreed to pay a salary of 1700 rupees after the demonstrations. Today, I am happy to announce that 9 companies have expressed their compliance with a salary of 1700 rupees.. I expect the best solution to come soon.
+
+When I was not in the congregation some allegations were made on me. A Member of Parliament said, "After the court has interrupted the 1700 rupees, I accused me of talking to all the Duraimans in the Bogawantalawa Plantation Company.
+
+...
+
+[Data](articles/9dbbf592.json)
+
+[Extended Data](ext_articles/9dbbf592.ext.json)
+
+---
+
+### மனைவியுடனான பிரச்சினையால் பலர் மதுபானங்களை அருந்துகிறார்கள்; விலைகளை குறைத்து மகிழ்விக்க வேண்டும் - சாமர சம்பத் வலியுறுத்தல்
+
+*2024-07-11 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/188173) · `ta`
+
+மனைவியுடனான பிரச்சினையால் பலர் மதுபானங்களை அருந்துகிறார்கள். மதுபானங்களின் விலையேற்றத்தால் சட்டவிரோத கசிப்பு உற்பத்தி அதிகரித்துள்ளது.கடலில் மிதந்து வரும் திரவத்தை அருந்து உயிரிழக்கிறார்கள். ஆகவே மதுபானங்களின் விலைகளை குறைத்து மது அருந்துபவர்களை மகிழ்விக்க வேண்டும் என கைத்தொழில் இராஜாங்க அமைச்சர் சாமர சம்பத் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (10) இடம்பெற்ற  மது வரி கட்டளைச் சட்டம் மற்றும் ஏற்றுமதி,இறக்குமதி கட்டுப்பாட்டுச் சட்டங்கள் குறித்த வர்த்தமானி அறிவித்தல்கள் தொடர்பான விவாதத்தில் உரையாற்றும் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+மதுவரி  சட்டங்களை திருத்துவதாலும்,புதிதாக மதுபான சாலைகளுக்கு அனுமதி வழங்குவதாலும் பொருளாதார நெருக்கடிக்கு தீர்வு காண முடியாது.மதுபானங்களின் விலை அதிகரிப்பு தொடர்பில் நான் தொடர்ந்து சபையில்  உரையாற்றியுள்ளேன்.மதுபானங்களின் விலை அதிகரிப்பால் சட்டவிரோத கசிப்பு உற்பத்தி தீவிரமடைந்துள்ளன.
+
+...
+
+[Data](articles/603aa253.json)
+
+---
 
 ### New laws to mitigate impact of strikes on essential services to be introduced
 
@@ -553,30 +627,6 @@ As a result, there is a possibility that the prices of goods will increase in th
 [Data](articles/c5e73ca4.json)
 
 [Extended Data](ext_articles/c5e73ca4.ext.json)
-
----
-
-### 09 companies complying to pay a salary of 1700 rupees;I am not a Facebook statement, but actor - Minister Jeevan Thondaman
-
-*2024-07-10 21:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/188169) · `ta`
-
-Nine companies have agreed to pay a minimum wage of 1700 rupees following discussions led by Sri Lanka's Labor Minister Manusha Nanayakkara. Minister Jeevan Thondaman clarified his role as an active participant rather than a social media figure, emphasizing his commitment to resolving labor issues.
-
-🟩
-
-Nine companies have agreed to pay a salary of 1700 rupees at a meeting with plantation companies headed by Labor Minister Manusha Nanayakkara. Minister Jeevan Thondaman said, "I am not a Facebook hero, but an action hero."
-
-He said this while addressing a debate on the Gazette Notifications on Wednesday (10) in Parliament.
-
-A meeting with plantation companies was held on Wednesday (10)), led by the Minister of Daylight Industries, Manusha Nanayakkara.On Tuesday (09), I said that 7 companies had agreed to pay a salary of 1700 rupees after the demonstrations. Today, I am happy to announce that 9 companies have expressed their compliance with a salary of 1700 rupees.. I expect the best solution to come soon.
-
-When I was not in the congregation some allegations were made on me. A Member of Parliament said, "After the court has interrupted the 1700 rupees, I accused me of talking to all the Duraimans in the Bogawantalawa Plantation Company.
-
-...
-
-[Data](articles/9dbbf592.json)
-
-[Extended Data](ext_articles/9dbbf592.ext.json)
 
 ---
 
@@ -2201,71 +2251,5 @@ Sri Lanka’s 12 month fixed deposit rate was 15.09 percent in June 2023 and hea
 [Data](articles/ab469deb.json)
 
 [Extended Data](ext_articles/ab469deb.ext.json)
-
----
-
-### Brother also spy: Dulan broke
-
-*2024-07-10 12:48:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சகோதரனும்-உளவு-பார்த்தார்-போட்டு-உடைத்தார்-துலான்/175-340150) · `ta`
-
-Dulan Sanjay, arrested for the murder of businessman Vasantha Perera, revealed his brother spied on the killers from a rooftop. Despite being a tattoo artist, financial support from an underworld figure helped him start his business. Investigations suggest Surendra Vasantha Perera's involvement in the inauguration, linking most suspects to Balapitiya and Beliatta.
-
-🟩
-
-More information has been revealed from Dulan Sanjay, the owner of the tattoo piercing station, who was arrested in connection with the murder of Vasantha Perera, known as the famous businessman 'Club Vasantha'.
-
-He told the police that his brother had spying from the top of the building, which was waiting for the killers.
-
-Although he was studying for tattooing, he was unable to open an establishment, and a underworld member gave him 16 lakhs of rupees to start the company.
-
-Investigations have been found that Surendra Vasantha Perera should be brought to the inauguration.. .
-
-Most of those involved in the murder are known as Balapitiya and Beliatta.
-
-◼️
-
-[Data](articles/cb859c35.json)
-
-[Extended Data](ext_articles/cb859c35.ext.json)
-
----
-
-### Club spring murder - Tattoo Shop owner's confessions
-
-*2024-07-10 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198669) · `si`
-
-TATO Center owner confesses to Club Wasantha murder.
-
-🟩
-
-The owner of the TATO Center, or Club Wasantha murder, has confessed to the police.
-
-◼️
-
-[Data](articles/0c0860d1.json)
-
-[Extended Data](ext_articles/0c0860d1.ext.json)
-
----
-
-### Time is over: the strike continues
-
-*2024-07-10 12:39:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவகாசம்-முடிந்தது-வேலைநிறுத்தம்-தொடர்கிறது/175-340149) · `ta`
-
-Railway staff must notify stations about strikes by noon; otherwise, they'll be considered resigned. Despite this, unions plan to keep striking.
-
-🟩
-
-Railway General Manager SS Mudalike said that all railway principals and railway regulators will inform the relevant railway station or the nearest railway station before 12 noon.
-
-He said that all station principals and rail controllers would be deemed to have left the service, he said.
-
-Meanwhile, the associations have said they have decided to continue their strike action.
-
-◼️
-
-[Data](articles/ae0b245a.json)
-
-[Extended Data](ext_articles/ae0b245a.ext.json)
 
 ---

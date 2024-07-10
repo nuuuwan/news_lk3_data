@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 16:07:34**
+As of **2024-07-10 16:19:58**
 
 ## Newspaper Stats
 
-*Scraped **34,595** Articles*
+*Scraped **34,596** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
-adalk | 3,114
+adalk | 3,115
 adaderanalk | 3,976
 tamilmirrorlk | 4,124
 dailymirrorlk | 4,733
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,758
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,593 (100.0%) of 34,595 articles have been extended.
+34,595 (100.0%) of 34,596 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### මේ සටන රිළවුන්ටයි
+
+*2024-07-10 15:52:51* · [`adalk`](https://www.ada.lk/breaking_news/මේ-සටන-රිළවුන්ටයි/11-410720) · `si`
+
+තලාතුඔය හා ඒ අවට ගම්මාන වල ගොවීන්ගේ  වගාවන්වලට රිළවුන්ගෙන් සිදුවන හානිවලට වහා විසඳුම් ලබාදෙන ලෙස ඉල්ලා පාතහේවාහැට ගොවිජන සංවිධාන එකමුතුව විසින් සංවිධානය කළ උද්ඝෝෂණයක් අද උදෑසන තලාතුඔය නගර මධ්‍යයේ දී පැවැත්විණි .
+
+මාරස්සන මාර් ගයේ මුදුනකඩේ හන්දියේ  සිට තලාතුඔය නගරය දක්වා පා ගමනින් පැමිණි ගොවි ජනතාව  තලාතුඔය නගරයේදී සටන් පාඨ කියමින් උද්ඝෝෂණයේ නියැළිණි.
+
+මේ සඳහා පාත හේවාහැට ගම්මාන වල ගොවින් මෙන්ම පාතහේවාහැට ගොවි සංවිධාන නියෝජිතයන් හා ප්‍රදේශවාසීහු රැසක්  එක්ව සිටියහ.
+
+පසුව මෙම වගා හානි පිළිබඳව ඔවුන් විසින් සකස් කල සන්දේශයක්  පාතහේවාහැට ප්‍රාදේශීය ලේකම් වෙත භාරදීමට ගොවි සංවිධාන එකමුතුව හා ප්‍රදේශවාසීන් කටයුතු කලහ. ( I J)
+
+◼️
+
+[Data](articles/78f40fb1.json)
+
+---
 
 ### Railway strike to continue despite dept’s warning
 
@@ -49,6 +67,8 @@ As a result, several trains including the office trains and night mail trains to
 ◼️
 
 [Data](articles/23203de3.json)
+
+[Extended Data](ext_articles/23203de3.ext.json)
 
 ---
 
@@ -288,17 +308,23 @@ Nidahasa Janata Sabha (NJS), led by Member of Parliament Dullas Alahapperuma, ha
 
 ---
 
-### ධුර කාලය නිශ්චිත කරන්න ව්‍යවස්ථා සංශෝධනයක්
+### Constitutional amendment to specify the term of office
 
 *2024-07-10 13:27:40* · [`adalk`](https://www.ada.lk/breaking_news/ධුර-කාලය-නිශ්චිත-කරන්න-ව්‍යවස්ථා-සංශෝධනයක්/11-410715) · `si`
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 30(2), 62(2) සහ 83(ආ) යන ව්‍යවස්ථාවන්හි ජනාධිපතිවරයාගේ ධූර කාලය සහ පාර්ලිමේන්තුව පවත්නා කාලය සම්බන්ධයෙන් අනනුකූලතාවක් පවතින බව නිරීක්ෂණය වේ.
+A constitutional amendment aims to clarify the President's term length, specifying it exceeds five years to resolve ambiguities. The Cabinet approves this proposal.
 
-ඒ පිළිබඳව වන සැකය මගහරවා ගැනීමට සහ කවර හෝ අනනුකූලතාවක් ඉවත් කිරීමට "සාවුරුද්දක් ඉක්මවා " යන වචන වෙනුවට " පස් අවුරුද්දක් ඉක්මවා " යන වචන ආදේශ කිරීම මගින් ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 83(ආ) ව්‍යවස්ථාව සංශෝධනය කිරීම සඳහා ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන පනත් කෙටුම්පතක් සකස් කිරීම පිණිස ජනාධිපතිතුමා ඉදිරිපත් කළ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කරන ලදී.
+🟩
+
+It is observed that the term of the President of the Constitution 30 (2) and 83 (b) Constitution is observed to have the term of the President's term and the existing time.
+
+The Constitution of the Constitution exceeding the words "over a five-year" to relieve the words of the saying, "exceeding the words" as "exceeding the words" of the saying, "exceeding the words" of the "exceeding the words of the 'doubt and remove any inconsistency to remove any inconsistency, the President presented a bill to amend the ConstitutionThe proposal was approved by the Cabinet of Ministers.
 
 ◼️
 
 [Data](articles/f182d09b.json)
+
+[Extended Data](ext_articles/f182d09b.ext.json)
 
 ---
 
@@ -2159,31 +2185,5 @@ In a notable event aimed at fostering international cooperation and understandin
 [Data](articles/142fb69a.json)
 
 [Extended Data](ext_articles/142fb69a.ext.json)
-
----
-
-### What is the government's position for the North and East unemployed graduates?- Sajith Premadasa question
-
-*2024-07-10 02:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/188092) · `ta`
-
-Sajith Premadasa questioned the government's stance on unemployment among graduates in the Northern and Eastern provinces, highlighting their concerns and demands during his visit. He criticized the lack of clear policies and appointments for these graduates, urging the government to address this issue amidst a growing unemployment rate exceeding 50,000 nationwide.
-
-🟩
-
-Opposition Leader Sajith Premadasa urged the council to announce what the government is in the Northern and Eastern Provinces.
-
-He was speaking at a special statement during a session held in Parliament on Tuesday (9).
-
-I had recently visited the Northern and Eastern Provinces. Unemployed graduates presented their problems in the Northern Province and in the East Batticaloa District. They are carrying out demonstrations and have made demands.
-
-What is the government's response to these unemployed graduates?What is the program related to them?What is the policy of the government?Will they be appointed?They ask why we are unable to appoint us for vacancies in various sectors of the government. I present their request report to the House.
-
-Meanwhile, the number of unemployed graduates in the country has crossed 50 thousand. Getting our free education and then in the unemployed hierarchy they are going to go?. He said the government should respond to the solution they are taking.
-
-◼️
-
-[Data](articles/d52d84ea.json)
-
-[Extended Data](ext_articles/d52d84ea.ext.json)
 
 ---

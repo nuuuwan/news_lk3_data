@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 15:20:17**
+As of **2024-07-10 15:35:46**
 
 ## Newspaper Stats
 
-*Scraped **34,589** Articles*
+*Scraped **34,591** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,34 @@ newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
-adalk | 3,112
+adalk | 3,113
 adaderanalk | 3,974
 tamilmirrorlk | 4,124
 dailymirrorlk | 4,733
 virakesarilk | 5,402
-adaderanasinhalalk | 5,757
+adaderanasinhalalk | 5,758
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,588 (100.0%) of 34,589 articles have been extended.
+34,589 (100.0%) of 34,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### ජනාධිපතිවරණයේ කාලරාමුව ගැන කල්තැබීමේ  විවාදයක්
+
+*2024-07-10 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198674) · `si`
+
+ජනාධිපතිවරණය පැවැත්වීමේ කාල රාමුව සම්බන්ධයෙන් හෙට (11) පාර්ලිමේන්තුවේදී කල්තැබීමේ විවාදයක් පැවැත්වීමට තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/146476fe.json)
+
+---
 
 ### National Transport Commission to give more power
 
@@ -76,6 +88,8 @@ He also said that the Cabinet of Ministers has approved the import of 1,000 vehi
 
 [Data](articles/732106ac.json)
 
+[Extended Data](ext_articles/732106ac.ext.json)
+
 ---
 
 ### I didn't know anything - the glan holiday
@@ -105,6 +119,20 @@ After granting the money, the large patio was informed to invite the TATOs Cente
 [Data](articles/9e7dea5b.json)
 
 [Extended Data](ext_articles/9e7dea5b.ext.json)
+
+---
+
+### කඩුවෙලට විශේෂ ආරක්ෂාවක් - වසන්ත ඝාතනයේ සැකකරුවන්ට රැඳවුම් නියෝග
+
+*2024-07-10 14:03:27* · [`adalk`](https://www.ada.lk/breaking_news/කඩුවෙලට-විශේෂ-ආරක්ෂාවක්---වසන්ත-ඝාතනයේ-සැකකරුවන්ට-රැඳවුම්-නියෝග/11-410719) · `si`
+
+ව්‍යාපාරික වසන්ත සුරේන්ද්‍ර හෙවත් ක්ලබ් වසන්ත ඝාතනයට අනුබල දුන් සැකකරුවන් ට ප්‍රතිවිරුද්ධ කල්ලියකින් ප්‍රහාරයක් එල්ල වේ යැයි යන සැකයෙන් කඩුවෙල අධිකරණය ආසන්නයට හා අවට ප්‍රදේශයට  දැඩි ආරක්‍ෂාවක් යෙදවූ බව උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+
+ඒ සඳහා පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් ද යොදවා ඇත.  එම ද්විත්ව ඝාතනයට ආධාර අනුබල දුන් බව කියන ටැටු මධ්‍යස්ථානයේ හිමිකරු ඇතුළු එම සැකකරුවන් හත් දෙනා අද (10) කඩුවෙල මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර පැය (48) කාලයකට රැඳවුම් නියෝග ලබා ගැනීනි.
+
+◼️
+
+[Data](articles/96194137.json)
 
 ---
 
@@ -2175,55 +2203,5 @@ Naomi Amarasinghe explained how she became the first Sri Lankan naval starting o
 [Data](articles/102293c3.json)
 
 [Extended Data](ext_articles/102293c3.ext.json)
-
----
-
-### Trying to disrupt the status of the model
-
-*2024-07-10 01:52:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்திர-நிலையை-சீர்குலைக்க-முயற்சி/175-340123) · `ta`
-
-Parliamentarian Vajira Abeywardena accuses losing political parties of plotting to destabilize the country through strikes. He warns that such actions could lead to increased taxes and higher living costs, potentially worsening the economic situation. The Finance Ministry suggests a 21% VAT hike if salaries rise, which would impact everyday items like tea and rice, possibly leading to financial instability.
-
-🟩
-
-Parliamentarian Vajira Abeywardena said that some parties who could not win the election are launching strikes to disrupt the country's stability.
-
-Vajira Abeywardena MP at a media briefing held at the Presidential Media Center yesterday. He said so.As he further stated,
-
-Some parties are currently engaged in the workplace. Since they are unable to win the election, they are preparing to disrupt the country for their individual victory.
-
-The Secretary of the Finance Ministry said that if the strikers are required to increase the salary increase, the 18 percent value added tax should be increased by 21 percent.
-
-Thus, the prices of the working people's tea cup and the rice packet will increase. If that happens, the bank cannot prevent it from going to a more dangerous state. We hope that all the Sri Lankan people will not support it. (A)
-
-◼️
-
-[Data](articles/2e880930.json)
-
-[Extended Data](ext_articles/2e880930.ext.json)
-
----
-
-### Vision 2030's handing over to President
-
-*2024-07-10 01:38:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஷன்-2030-ஜனாதிபதியிடம்-கையளிப்பு/175-340122) · `ta`
-
-President Ranil Wickremesinghe received a comprehensive plan from the Sri Lanka Business Federation for Vision 2030, aiming for sustainable development. The strategy includes economic growth targets, inflation and unemployment reduction, educational and healthcare improvements, and advancements in agriculture and digital infrastructure. It outlines preparations for public-private partnerships, regulatory reforms, infrastructure investments, and climate change adaptation.
-
-🟩
-
-At the time of 2030, President Ranil Wickremesinghe was handed over to President Ranil Wickremesinghe at the Presidential Office, which included extensive policies prepared by the Sri Lanka Business Federation to lead Sri Lanka towards sustainable and complete development.
-
-In the next five years through Vision 2030. It has also been indicated on the way policy changes in all sectors and the benefits of the economy.
-
-The report has prepared aims to highlight the objectives of reaching 6.5 percent of the GDP, reducing inflation and unemployment to 5 percent, improving education and health services, and improving agriculture and digital infrastructure.
-
-The document also explains how to prepare in the fields of state -private joint venture, regulatory reform, infrastructure investment and climate change.. (A)
-
-◼️
-
-[Data](articles/89b4f4e7.json)
-
-[Extended Data](ext_articles/89b4f4e7.ext.json)
 
 ---

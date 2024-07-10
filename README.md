@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 04:05:18**
+As of **2024-07-11 04:19:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,683 (100.0%) of 34,684 articles have been extended.
+34,684 (100.0%) of 34,684 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -344,21 +344,27 @@ The decision comes amid Supreme Court on Tuesday dismissing a petition seeking t
 
 ---
 
-### மீண்டும் நான் எம்.பியானது சிக்கலா?
+### Again am I MP's problem?
 
 *2024-07-11 02:21:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-நான்-எம்-பியானது-சிக்கலா/175-340190) · `ta`
 
-தான் பாராளுமன்ற உறுப்பினராக மீண்டும் நியமிக்கப்பட்டமை தொடர்பில் ஏதேனும் பிரச்சினைகள் இருந்தால் எவருக்கும் உயர்நீதிமன்றத்திற்கு செல்லலாம். அதனைவிடுத்து தேர்தல்கள் ஆணைக்குழுவை விமர்ப்பதில் அர்த்தமில்லை என்றும் ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் முஜிபூர் ரஹுமான் தெரிவித்தார்.
+Mujibur Rahman, a United People's Power MP, argues anyone facing issues with their re-appointment can seek redress in the High Court, criticizing criticism towards the Election Commission. During a parliamentary debate, he defended his own re-appointment, suggesting critics should pursue legal avenues rather than public critique.
 
-பாராளுமன்றத்தில் புதன்கிழமை (10) நடைபெற்ற   விவாதத்தின் போது, உள்ளூராட்சித் தேர்தலில் போட்டியிடும் வேட்பாளரான முஜிபூர் ரஹுமான் தேசியப் பட்டியல் ஊடாக பாராளுமன்ற உறுப்பினராக நியமிக்கப்பட்டமை தொடர்பில் ஶ்ரீலங்கா பொதுஜன பெரமுன எம்பியான மகிந்தானந்த அளுத்கமகே விமர்சனம் செய்திருந்தார்.
+🟩
 
-அது தொடர்பில் ஒழுங்கு பிரச்சினையை எழுப்பி கருத்து வெளியிடுகையிலேயே முஜிபூர் ரஹுமான் இவ்வாறு கூறினார்.
+Anyone can go to the High Court if there are any issues regarding his re -appointment as a Member of Parliament. United People's Power MP Mujibur Rahman said that there is no point in criticizing the Election Commission.
 
-உள்ளூராட்சி சபைக்கான தேர்தலை சுயாதீன தேர்தல்கள் ஆணைக்குழுவினாலேயே அறிவித்தது. அந்த தேர்தலில் போட்டியிடுவதற்காகவே நான் பாராளுமன்ற உறுப்பினர் பதவியிலிருந்து விலகினேன். ஆனால் ஜனாதிபதியும் அரசாங்கமும் உள்ளூராட்சி தேர்தலை நடத்த பணம் கொடுக்காது தேர்தலை ஒத்தி வைக்க நடவடிக்கை எடுத்தது.
+During the debate in Parliament on Wednesday (10), Mujibur Rahman, a candidate contesting the local government elections, has criticized the Sri Lanka PA MP Mahindananda Aluthgamage over the appointment of a Member of Parliament through the National List.
+
+Mujibur Rahman said this while raising the issue of order.
+
+Independent Elections Commission announced the election for the local government. I resigned from the post of Parliament to contest the election. But the president and the government have taken steps to postpone the election without paying the local government elections.
 
 ...
 
 [Data](articles/33bd5b4d.json)
+
+[Extended Data](ext_articles/33bd5b4d.ext.json)
 
 ---
 

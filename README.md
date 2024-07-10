@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 12:35:24**
+As of **2024-07-10 12:53:57**
 
 ## Newspaper Stats
 
-*Scraped **34,567** Articles*
+*Scraped **34,571** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
 adalk | 3,108
-adaderanalk | 3,971
-tamilmirrorlk | 4,115
+adaderanalk | 3,973
+tamilmirrorlk | 4,117
 dailymirrorlk | 4,733
 virakesarilk | 5,401
 adaderanasinhalalk | 5,752
@@ -26,11 +26,75 @@ adaderanasinhalalk | 5,752
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,565 (100.0%) of 34,567 articles have been extended.
+34,567 (100.0%) of 34,571 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### Cabinet approves resolution to amend Constitutional clause on President’s tenure
+
+*2024-07-10 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100420/cabinet-approves-resolution-to-amend-constitutional-clause-on-presidents-tenure) · `en`
+
+The Cabinet of Ministers has granted approval to prepare a draft bill relevant to Constitutional reforms for the amendment of Article 83b of the constitution substituting the clause “exceeding 5 years” instead of the clause “exceeding 6 years”.
+
+The relevant proposal has been submitted to the Cabinet by President Ranil Wickremesinghe in order to remove the doubt about it and remove any inconsistency regarding the tenure of the President and the tenure of the Parliament in Articles 30(2), 62(2) and 83(b) of the Constitution.
+
+◼️
+
+[Data](articles/a362039c.json)
+
+---
+
+### Suspect arrested with T-56 ammunition haul in Minuwangoda
+
+*2024-07-10 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100419/suspect-arrested-with-t-56-ammunition-haul-in-minuwangoda) · `en`
+
+Police have apprehended a suspect in the Japalawatte area of Minuwangoda for the possession of ammunition during the ‘Yukthiya’ special police operation yesterday (09).
+
+During the raid, authorities have recovered two magazines used in T-56 assault rifles, two pistol magazines, and 144 live rounds of T-56 ammunition.
+
+In addition to the ammunition, officers also discovered 8 grams of heroin found in the suspect’s possession.
+
+The suspect, identified as a 43-year-old resident of Minuwangoda, is believed to be connected to a larger network of organized crime.
+
+Initial investigations suggest that the ammunition and magazines may have been supplied by a criminal hiding overseas, the police said.
+
+◼️
+
+[Data](articles/33f6c3cd.json)
+
+---
+
+### விசாவை நீடிக்குமாறு கிழக்கு ஆளுநர்  மலேசியாவிடம் கோரிக்கை
+
+*2024-07-10 12:27:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசாவை-நீடிக்குமாறு-கிழக்கு-ஆளுநர்-மலேசியாவிடம்-கோரிக்கை/175-340148) · `ta`
+
+மலேசியாவுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் மலேசியா உயர் கல்வி அமைச்சர் ஷாம்ப்ரி அப்துல் காதிரை சந்தித்து இலங்கைக்கும் மலேசியாவுக்குமான கூட்டுத்திட்டம் குறித்து கலந்துரையாடினார்.
+
+மலேசியாவில் உயர்கல்வி கற்கும் 3800 யிற்கும் மேற்பட்ட இலங்கை மாணவர்கள் தற்போதைய சட்டத்தின் படி ஒவ்வொரு இரண்டு வருடங்களுக்கும் இலங்கைக்கு திரும்பி  விசாவைப் புதுப்பிக்கும் நிலை காணப்படுகிறது. ஆதலால் அவர்களின் பட்டப்படிப்பை நிறைவு  செய்யும் காலமான   4 வருடங்களுக்கு விசா காலத்தை அதிகரித்து தருமாறு மலேசியா உயர் கல்வி அமைச்சர் ஷாம்ப்ரி அப்துல் காதிரிடம் ஆளுநர் வேண்டுகோள் விடுத்தார். ஆளுநரின் வேண்டுகோளுக்கு இணங்க அமைச்சர் அதற்கான நடவடிக்கை யை மேற்கொள்ள நடவடிக்கை மேற்கொள்வதாக தெரிவித்தார்.
+
+மேலும் இலங்கையில் இருந்து மலேசியாவிற்கு செல்லும் மாணவர்கள் மற்றும் தொழிலாளர்களுக்கு மலாய் மொழிக்கான பயிற்சியை இலங்கையில் ஆரம்பிப்பது குறித்தும் கலந்துரையாடப்பட்டதுடன், மலேசியாவிற்கும் இலங்கைக்குமான  கல்வி தொடர்பான கூட்டு பரிமாற்ற திட்டங்கள் குறித்தும் கலந்துரையாடப்பட்டது.
+
+...
+
+[Data](articles/ee5f858d.json)
+
+---
+
+### தேசிய நூலகத்தில் தீ
+
+*2024-07-10 12:25:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-நூலகத்தில்-தீ/175-340147) · `ta`
+
+கொழும்பு-07 டோரிங்டனில் உள்ள தேசிய நூலகம் மற்றும் ஆவணங்கள் மத்திய நிலைய கட்டிடத்தில் தீ விபத்து ஏற்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+கட்டிடத்தின் தரைத்தளத்தில் உள்ள கூட்ட அரங்கில் தீ விபத்து ஏற்பட்டதாகவும், தீயை அணைக்கும் பணியில் தீயணைப்புப் படையினர் ஈடுபட்டு வருவதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/7a926cd1.json)
+
+---
 
 ### India-Pakistan cattle to Sri Lanka
 
@@ -58,19 +122,25 @@ Cows and buffaloes in Sri Lanka are only in India and Pakistan and a few years a
 
 ---
 
-### கடமைக்கு சமூகமளிக்காவிடின் பதவியை விட்டு விலகியவர்களாக கருதப்படுவர் -  ரயில்வே திணைக்களத்தின் பொது முகாமையாளர்
+### If they do not go to duty, they are considered to be resigning - General Manager of the Railway Department
 
 *2024-07-10 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188111) · `ta`
 
-இன்று புதன்கிழமை (10) நண்பகல் 12 மணிக்கு முன்னர் கடமைக்கு சமூகமளிக்காத அனைத்து ரயில் நிலைய அதிபர்களும்  கட்டுப்பாட்டாளர்களும் சேவையில் இருந்து விலகியவர்களாக கருதப்படுவார்கள் என அறிவிக்கப்பட்டுள்ளது.
+Railway officials missing work after 12 noon today will be seen as having resigned. This decision was announced by the Railway Department's General Manager.
 
-இன்று நண்பகலுக்குள் கடமைக்கு சமூகமளிக்கத் தவறும் ரயில் நிலைய அதிபர்கள் மற்றும் கட்டுப்பாட்டாளர்கள் பதவியை விட்டு விலகியவர்களாக கருதப்படுவர் என அந்த அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-ரயில் நிலைய அதிபர்கள் மற்றும் ரயில் கட்டுப்பாட்டாளர்களால் இன்று புதன்கிழமை வேலை நிறுத்த போராட்டம் முன்னெடுக்கப்படுவதை  ஒட்டி இந்த அறிவிப்பு வெளியிடப்பட்டுள்ளது.
+It has been announced that all railway principals and regulators who do not attend the duties will be considered to be withdrawn from the service at 12 noon today.
+
+The railway station principals and regulators who fail to attend duty at noon today will be regarded as resigning, according to the statement.
+
+The announcement was made on Wednesday by railway principals and train regulators.
 
 ◼️
 
 [Data](articles/46180a03.json)
+
+[Extended Data](ext_articles/46180a03.ext.json)
 
 ---
 
@@ -186,23 +256,29 @@ Investigations into the incident have been carried out at several angles. In thi
 
 ---
 
-### இந்தியாவில் பால் ஏற்றி சென்ற பௌசர் - பஸ்  மோதி விபத்து ; 18 பேர் பலி ; 19 காயம்
+### Bowzar - Bus collided with milk in India;18 killed;19 injured
 
 *2024-07-10 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/188105) · `ta`
 
-இந்தியாவில்   உத்தரபிரதேச மாநிலம் உன்னாவ் மாவட்டத்தில் லக்னோ-ஆக்ராவில் அதிவேக வீதியில் டபுள் டக்கர் பஸ் ஒன்று , பால் ஏற்றி சென்ற பௌசர் மீது மோதிய விபத்தில் சிக்கி 18 பேர் பரிதாபமாக உயிரிழந்தனர்.
+In Uttar Pradesh, India, a bus collision involving a milk truck resulted in 18 deaths and 19 injuries. The accident occurred on a highway near Lucknow-Agra in Unnao district early Wednesday morning. Police responded promptly for rescue efforts, and the injured were hospitalized. Uttar Pradesh's Chief Minister Yogi Adityanath offered condolences and directed the administration to ensure proper care for the wounded, expressing hope for their swift recovery.
 
-இந்த சம்பவம் குறித்து தகவல் கிடைத்ததும், பொலிஸார் சம்பவ இடத்துக்கு விரைந்து வந்து மீட்பு பணியில் ஈடுபட்டுள்ளனர்.
+🟩
 
-விபத்துக்குள்ளான டபுள் டெக்கர் பஸ்ஸில் பயணித்த 19 பேர் படுகாயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+A Double Tucker bus on a high-speed road in Lucknow-Agra in Unnao district of Uttar Pradesh, Uttar Pradesh, India
 
-இச்சம்பவம் இன்று புதன்கிழமை (10) அதிகாலை 5.15 மணியளவில் நடந்ததாக தகவல்கள் வெளியாகி உள்ளன.
+Upon receiving information about the incident, the police rushed to the scene and engaged in the rescue operation.
 
-இந்த சம்பவம் தொடர்பாக உத்தரபிரதேச முதலமைச்சர் யோகி ஆதித்யநாத், உயிரிழந்தவர்களின் குடும்பத்தினருக்கு இரங்கல் தெரிவித்துள்ளதோடு, காயமடைந்தவர்களுக்கு உரிய சிகிச்சை அளிக்க மாவட்ட நிர்வாகத்திற்கு உத்தரவிட்டுள்ளார். மேலும் அவர்கள் விரைவில் குணமடைய பிரார்த்தனை செய்வதாகவும் தெரிவித்துள்ளார்.
+19 people who were traveling on a double teacher bus in the crash have been admitted to hospital.
+
+It is reported that the incident took place at around 5.15 am on Wednesday (10).
+
+Uttar Pradesh Chief Minister Yogi Adityanath has expressed his condolences to the families of the victims and ordered the district administration to provide appropriate treatment for the injured.. He also said that they will pray for healing soon.
 
 ◼️
 
 [Data](articles/9e9fc79a.json)
+
+[Extended Data](ext_articles/9e9fc79a.ext.json)
 
 ---
 
@@ -2123,101 +2199,5 @@ Rahul Dravid was served as the chief coach of the Indian cricket team up to the 
 [Data](articles/d0b960a6.json)
 
 [Extended Data](ext_articles/d0b960a6.ext.json)
-
----
-
-### Share market investors agonize over possible policy uncertainty on part of govt.
-
-*2024-07-09 21:07:00* · [`islandlk`](http://island.lk/share-market-investors-agonize-over-possible-policy-uncertainty-on-part-of-govt/) · `en`
-
-Stock market trading proved somewhat dull yesterday as local and foreign investors agonized over the possibility of the current political crisis leading to uncertainty in decision making on the part of the state on policy matters in the future, market analysts said.
-
-Amid those developments both indices moved downwards. The All- Share Price Index went down by 51.4 points while S and P SL20 declined by 28.95 points. Turnover stood at Rs 483 million with one crossing. The crossing was reported in JKH, which crossed 150,000 shares to the tune of Rs 30 million; its shares traded at Rs 200.
-
-...
-
-[Data](articles/c6385959.json)
-
-[Extended Data](ext_articles/c6385959.ext.json)
-
----
-
-### The latest proof of the club spring murder
-
-*2024-07-09 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198649) · `si`
-
-In a tragic incident, Club Spring owner Surendra Wasantha Perera, also known as Club Wasantha, was assassinated along with singer Kin Nayana Vasuliye, Sujeewa's husband, while opening a tattoo center at 'Better City'. Seven suspects, including Dularan Sunnel from the TATO Center, have been arrested. Investigations suggest the assassination was planned in Dubai, with the motive linked to financial disputes. Sujeewa, Club Wasantha's wife, and another woman were injured.
-
-🟩
-
-The owner has confessed to the police that the TATO Center that took place at the 'Better City' at the site, he had received a sum of Rs.
-
-He added that he was invited to open it to Club spring on the request of 'Big Patti'.
-
-The businessman, Sorchandra Wasantha Perera, or Club was shot dead yesterday (08).
-
-The famous singer kin. Nayana Vasuliye, who was the husband of Sujeewa, died. Sujeewa, Club Wasantha's wife, another woman and a man was injured and hospitalized.
-
-After the assassination, a shot of shotchnists have also been found in Kaduwela, Navagamuwa.
-
-Meanwhile, the Western Province Crimes Division has arrested seven suspects including Dularan Sunnel, the Tatu Center.
-
-The owner of the TATO Center has said that he was willing to start a tattood center.
-
-The suspect has confessed that the criminal named big patient has been given a sum of Rs.
-
-Age of the sole said that Surendra Wasantha Perera alias Sadhra Wasantha Perera, or Club Wasantha has been invited to open the money.
-
-...
-
-[Data](articles/2c05cdc0.json)
-
-[Extended Data](ext_articles/2c05cdc0.ext.json)
-
----
-
-### All rail postal services cancel
-
-*2024-07-09 20:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/188083) · `ta`
-
-Railway postal services halt due to staff boycotts; Railway Department and Principals' Association take action starting Tuesday night.
-
-🟩
-
-The Railway Department said that all railway posts have been bleeding due to the boycott of the work of the railway station principals.
-
-Similarly, the Railway Station Principal's Association will be engaged in the workplace from midnight on Tuesday (9), the Railway Department said.
-
-◼️
-
-[Data](articles/144bec51.json)
-
-[Extended Data](ext_articles/144bec51.ext.json)
-
----
-
-### The Second Phase Information Survey July 15 to 30 - Welfare Benefits Council
-
-*2024-07-09 20:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/188082) · `ta`
-
-The Welfare Benefits Council announced the second phase of the 'Assuma' welfare benefits from July 15 to 30, targeting 450,924 applicants after excluding those already benefited in the first phase. A total of 1,854,000 were eligible for the initial phase, with a government allocation of 58.5 billion rupees. The council allows re-applications for missed eligibility and launched a mobile app for efficient data collection, including features like photo, map, and voice recording. This initiative aims to support vulnerable groups under four social categories: the disabled, elderly, and kidney patients.
-
-🟩
-
-The Welfare Benefits Council has said that the second phase of information on the 'Assuma' welfare benefits will be carried out from July 15 to 30.
-
-450,924 applications have been received for the second phase except for more than 18 lakhs qualified in the first phase. Those who are eligible to benefit welfare benefits will be completed this month.
-
-1,854,000 eligible for the first phase of the Aswesuma program. 58.5 billion rupees has been allocated by the government for this purpose. The Welfare Benefits Council has given the opportunity to re -apply those who cannot apply for the first phase.
-
-Under the 04 social sections of the alternatives, vulnerable, poor, and the most affected, the welfare of the 'Assembly' is provided to the disabled, the elderly and the kidney patients.
-
-Meanwhile, the Welfare Benefits Council has introduced a new mobile app with a facilities including photo, map and voice recording to enable field information collection.
-
-...
-
-[Data](articles/f1398d23.json)
-
-[Extended Data](ext_articles/f1398d23.ext.json)
 
 ---

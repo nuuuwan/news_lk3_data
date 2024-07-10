@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 11:05:31**
+As of **2024-07-10 11:19:58**
 
 ## Newspaper Stats
 
-*Scraped **34,549** Articles*
+*Scraped **34,551** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
 adalk | 3,103
-adaderanalk | 3,965
+adaderanalk | 3,967
 tamilmirrorlk | 4,112
 dailymirrorlk | 4,733
 virakesarilk | 5,399
@@ -26,93 +26,155 @@ adaderanasinhalalk | 5,750
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,540 (100.0%) of 34,549 articles have been extended.
+34,549 (100.0%) of 34,551 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### ரயில் சேவைகள் முடங்கின: பயணிகள் தவிப்பு
+### Fire breaks out at National Library
+
+*2024-07-10 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100414/fire-breaks-out-at-national-library-) · `en`
+
+A fire has reportedly broken out near the assembly hall at the ground floor of the National Library and Documentation Services Board of Sri Lanka in Colombo.
+
+The Fire Brigade stated that several fire trucks have been deployed to douse the flames.
+
+◼️
+
+[Data](articles/f9b51696.json)
+
+---
+
+### Train services are paralyzed: passengers
 
 *2024-07-10 10:55:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவைகள்-முடங்கின-பயணிகள்-தவிப்பு/175-340140) · `ta`
 
-பல்வேறு கோரிக்கைகளை முன்வைத்து ரயில் நிலைய அதிபர்கள் ஆரம்பித்துள்ள வேலைநிறுத்தப் போராட்டத்தால் ரயில் பயணிகள் மற்றும் அலுவலக ஊழியர்கள் பெரிதும் சிரமப்பட்டனர்.
+Passengers and office workers faced significant inconvenience due to a railway strike over various demands. Many trains were rerouted to Colombo Fort, and SLTB buses offered limited relief. The strike caused widespread travel disruptions.
 
-கொழும்பு கோட்டை வரை பல ரயில்களை இயக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாக திணைக்களம் குறிப்பிடுகிறது. ரயில்வே சீசன் டிக்கெட் வைத்திருக்கும் பயணிகளுக்கு இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான பேருந்துகள் மூலம் போக்குவரத்து வசதிகள் செய்யப்பட்டுள்ளதாக போக்குவரத்து அமைச்சகம் தெரிவித்துள்ளது. வேலைநிறுத்தப் போராட்டத்தால், பயணிகள் கடும் சிரமத்திற்கு ஆளாகினர்.
+🟩
+
+Railway passengers and office workers were greatly inconvenienced by the strike action that the railway principals launched on various demands.
+
+The Department states that many trains have been taken up to the Colombo Fort. Transport facilities have been provided with buses belonging to the Sri Lanka Transport Board (SLTB). Travelers were severely inconvenienced by the strike.
 
 ◼️
 
 [Data](articles/467df9e5.json)
 
+[Extended Data](ext_articles/467df9e5.ext.json)
+
 ---
 
-### ඩලස්ගේ සහායත් සමගි ජන සන්ධානයට
+### NJS led by Dullas to form alliance with SJB
+
+*2024-07-10 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100413/njs-led-by-dullas-to-form-alliance-with-sjb) · `en`
+
+Nidahasa Janatha Sabawa (NJS) led by MP Dullas Alahapperuma has decided to form an alliance with the Samagi Jana Balawegaya (SJB), says MP Prof. Charitha Herath.
+
+◼️
+
+[Data](articles/f82d0b98.json)
+
+---
+
+### Dullas' support to the UPFA
 
 *2024-07-10 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198666) · `si`
 
-එළැඹෙන ජනාධිපතිවරණය සඳහා සමගි ජන බලවේගයේ වැඩපිළිවෙලට සහාය දැක්වීමට ඩලස් අලහප්පෙරුම මහතා ප්‍රමුඛ නිදහස ජනතා සභාව තීරණය කර තිබේ.
+Dullas Alahapperuma's Peoples Council supports the upcoming presidential election's actions, emphasizing unity and a broad alliance to challenge the government effectively.
 
-අද (10) පැවති මාධ්‍ය හමුවකට එක්වෙමින් එහි නිදහස ජනතා සභාවේ පාර්ලිමේන්තු මන්ත්‍රී මහාචාර්ය චරිත හේරත් මහතා මේ බව පැවසීය.
+🟩
 
-"අපි ජනාධිපති අපේක්ෂකයෙක් ඉදිරිපක් කරන්නේ නෑනේ. ජනාධිපති අපේක්ෂකයා ඉදිරිපත් කරන්නේ සමගි ජන බලවේගයෙන් තමා. ඒ අනුව දැනට පාර්ශවකරුවෝ ගණනාවක් ඉන්නවා සමගි ජන සන්ධානය කියලා. ඉදිරියත් එන්න නියමිතව තිබෙනවා. ඒ සියල්ල එකතු කරගත් ශක්තිමත් පළල් බලවේගයක්. ඒකේ අපිත් ඉන්නවා. අපි සහ ඒ සියලුදෙනා එකතු වෙලා එක් පුද්ගලයෙක් ජනාධිපති විදියටත් ශක්තිමත් කණ්ඩායමකුත් වැඩපිළිවෙලකුත් රට හමුවේ තියලා ජයග්‍රහණය කරනවා."
+The Peoples Council of Dullas Alahapperuma has decided to support the action of the coming presidential election.
 
-ආණ්ඩුව පරාජය කිරීම ස﻿ඳහා වූ සටනේ දී නිදහස ජනතා සභාව විසින් සමගි ජන බලවේගය සමග සිදුකළ සාකච්ඡා ඉතාම සාර්ථක බව ද චරිත හේරත් මහතා පවසයි.
+Speaking at a media briefing held at a media briefing today (10), MP Charitha Herath said this.
 
-රට තුළ පුළුල් දේශපාලන වෙනසක් ඇති කිරීම සඳහා විපක්ෂය සමග ඉදිරි සති කිහිපය තුළ ඍජුව කටයුතු කිරීමට නියමිත බව ද ඒ මහතා පැවසීය.
+"We will not be a presidential candidate. The presidential candidate is presented with unity power force. Accordingly, there are a number of parties to have a number of partners. There is to come forward and come to come. A strong wide force that all collected. It's we too. We and all the people win in the face of the country and a strong team and program. "
+
+The discussion with the reconciliation by the People's Council is very successful by the people's church in the fight to defeat the government.
+
+He said that the opposition is to be directly taken in the next few weeks to make a wide political change in the country.
 
 ◼️
 
 [Data](articles/8fc83d33.json)
 
+[Extended Data](ext_articles/8fc83d33.ext.json)
+
 ---
 
-### பாம்புகளுடன் பயணித்த இழுவைப் படகு : ஐவர் கைது
+### Traveling with snakes: Five arrests
 
 *2024-07-10 10:40:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாம்புகளுடன்-பயணித்த-இழுவைப்-படகு-ஐவர்-கைது/175-340137) · `ta`
 
-சட்டவிரோதமான முறையில் பறவைகள் மற்றும் ஊர்வனவற்றை மீன்பிடி இழுவைப் படகு மூலம் கடல் வழியாக எடுத்துச் சென்ற சந்தேக நபர்கள் ஐவர் தென்கடல் பகுதியில் வைத்து கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+Navy arrests five suspects in South Sea for illegally transporting wildlife, including 13 pythons, a turtle, and three parrots, aboard a fishing trawler. Aged 34 to 67, from Kochchikadai and Negombo. Animals confirmed not native to Sri Lanka; all transferred to Hikkaduwa Wildlife Protection Department for legal proceedings.
 
-இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபர்கள் ஐவரும் 34 முதல் 67 வயதுக்கு இடைப்பட்டவர்கள் எனவும், இவர்கள் கொச்சிக்கடை மற்றும் நீர்கொழும்பு ஆகிய பகுதிகளை சேர்ந்தவர்கள் எனவும் கடற்படையினர் தெரிவித்தனர்.
+🟩
 
-கடற்படை புலனாய்வுப் பிரிவினருக்கு கிடைத்த விஷேட தகவல் ஒன்றின் அடிப்படையில் குறித்த இழுவை மீன்பிடி படகினை சோதனைக்கு உட்படுத்திய போதே சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+Five suspects have been arrested by the navy in the South Sea, who were illegally taken by sea by fishing trawlers.
 
-இதன்போது, 13 மலைப்பாம்புகள், உடும்பு ஒன்று, ஆமை ஒன்று மற்றும் மூன்று கிளிகள் என்பன மிகவும் பாதுகாப்பான முறையில் கொண்டுவரப்பட்டுள்ளமை தெரியவந்துள்ளது.
+The Navy said that the suspects were between the ages of 34 to 67 and were from Kochchikadai and Negombo.
 
-மேலும், சட்டவிரோதமாக இழுவை மீன்பிடி படகில் கொண்டு வரப்பட்ட விலங்குகளை பரிசோதித்த வனவிலங்கு பாதுகாப்பு திணைக்கள அதிகாரிகள்,  குறித்த விலங்குகள் இலங்கைக்கு சொந்தமனவை அல்ல என உறுதிப்படுத்தியுள்ளனர்.
+The suspects have been arrested while checking the drag fishing boat based on a special information received by the Navy Intelligence Unit.
 
-...
+It has been revealed that 13 pythons, one of the turtles, one and three parrots have been safely brought.
+
+In addition, officials of the Wildlife Protection Department, who have examined the animals brought in the illegal drag fishing boat, have confirmed that the animals are not owned by Sri Lanka.
+
+The Navy added that the five suspects, fishing boat and birds and reptiles have been handed over to the Hikkaduwa Wildlife Protection Department for further legal action.
+
+◼️
 
 [Data](articles/dc00bde1.json)
 
+[Extended Data](ext_articles/dc00bde1.ext.json)
+
 ---
 
-### කටුනායක ගුවන්තොටුපොළ සංවර්ධනයට ජයිකා නැවත එයි
+### Jayawica returns to the development of Katunayake airport
 
 *2024-07-10 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198665) · `si`
 
-කටුනායක බණ්ඩාරනායක ගුවන්තොටුපොළෙහි දෙවැනි පර්යන්තයේ සංවර්ධන කටයුතු නැවත ආරම්භ කිරීමට ජපානයේ ජයිකා ආයතනය එකඟ වී තිබේ.
+Japan will resume work on the second terminal at Bandaranaike Airport, funded by a relief loan, as part of Jayawica's efforts to develop Katunayake airport.
 
-එම ව්‍යාපෘතිය සහන ණයක් යටතේ සිදුකිරීමට නියමිත බව, ගුවන්තොටුපොළ හා වරාය අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා පැවසීය.
+🟩
+
+Japan has agreed to resume the development activities of the second terminal at Bandaranaike Airport at the Bandaranaike Airport.
+
+Airport and Ports Minister Nimal Siripala de Silva said that the project is scheduled to be done under a relief loan.
 
 ◼️
 
 [Data](articles/007e3453.json)
 
+[Extended Data](ext_articles/007e3453.ext.json)
+
 ---
 
-### 3 குழந்தைகளை ஒப்படைத்த தாய் கைது
+### Mother arrested for handing over 3 children
 
 *2024-07-10 10:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/3-குழந்தைகளை-ஒப்படைத்த-தாய்-கைது/76-340136) · `ta`
 
-மூன்று குழந்தைகளையும் பொலிஸாரிடம் ஒப்படைத்த தாய், அக்குழந்தைகளை ஒப்படைத்துவிட்டு, ரயில் நிலையத்துக்குச் சென்றபோது, பொலிஸார் கைது செய்து, வைத்தியசாலையில் அனுமதித்துள்ள சம்பவமொன்று ஹட்டன் பொலிஸ் பிரிவில் இடம்பெற்றுள்ளது.
+A mother was arrested by Hatton Police after surrendering her three children, aged 8, 6, and 4, to the Women's Bureau. She then attempted to leave but was detained at the railway station. The children were later returned to their father. The mother, suffering from depression due to marital issues, was hospitalized.
 
-மூன்று பிள்ளைகளையும் ஹட்டன் பொலிஸ் மகளிர் பணியகத்தில் ஒப்படைத்துவிட்டு புகையிரதத்தில் பாய்ந்து தன்னுயிரை மாய்த்துக்கொள்ள  முயன்ற மூன்று பிள்ளைகளின் தாயை ஹட்டன் பொலிஸ் மகளிர் பணியக அதிகாரிகள் கைது செய்து டிக்கோயா ஆரம்ப வைத்தியசாலையில் செவ்வாய்க்கிழமை (09) அனுமதித்துள்ளனர்.
+🟩
 
-ஹட்டன்-டிக்கோயா பிரதேசத்தைச் சேர்ந்த மூன்று பிள்ளைகளின் தாய்,   ஹட்டன் பொலிஸாரிடம் வந்து கணவருடன் வாழ முடியாது எனவும், அதன்படி 08, 06 மற்றும்  04 வயதுடைய இரண்டு ஆண் பிள்ளைகள் மற்றும் ஒரு பெண் உட்பட மூன்று பிள்ளைகளையும் ஒப்படைத்துள்ளார்.
+The mother, who handed over the three children to the police, handed over the children and went to the railway station, where the police arrested and admitted to the hospital.
+
+Hatton Police Bureau Officers arrested the mother of three children who tried to get rid of the Hatton Police Bureau after handing over the three children to the Women's Bureau.
+
+The mother of three children from the Hatton-Dikoya area has come to the Hatton Police and handed over three children, including two male children and a woman, aged 08, 06 and 4.
+
+Hatton Police Women's Bureau Officers scolded and put three children at the police station and tried to go to the train station.. The police handed over the three children to the father.
+
+The mother of three children who have been depressed, she (28) is continuing to quarrel with her husband in Colombo area, police said.
 
 ...
 
 [Data](articles/489ca1ad.json)
+
+[Extended Data](ext_articles/489ca1ad.ext.json)
 
 ---
 
@@ -148,6 +210,8 @@ After Sri Lanka declared bankruptcy due to the economic crisis, the concessional
 
 [Data](articles/7e982bdf.json)
 
+[Extended Data](ext_articles/7e982bdf.ext.json)
+
 ---
 
 ### At least 18 dead as bus collides with truck in India
@@ -172,41 +236,53 @@ Gaurang Rathi, a government official, said that according to a preliminary inves
 
 ---
 
-### ජීවිත 18ක් බිලිගත් බස් අනතුර
+### Bus accident to be busy 18 lives
 
 *2024-07-10 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198664) · `si`
 
-ඉන්දියාවේ උත්තර් ප්‍රාන්තයේ උන්නාඕ ප්‍රදේශයේදී සිදුවූ බස් රථ අනතුරකින් පුද්ගලයින් 18 දෙනෙකු මියගොස් තිබේ.
+In Uthero, India, a bus accident killed 18, including three women and a child, while injuring 19 others. The tragedy occurred en route from Bihar to Delhi.
 
-තවත් පුද්ගලයින් 19 තුවාල ලබා ඇති බවයි විදෙස් මාධ්‍ය වාර්තා කළේ.
+🟩
 
-අනතුරින් ජීවිතක්ෂයට පත්වූවන් අතර කාන්තාවන් තිදෙනෙකු සහ කුඩා දරුවෙකු ද වන බව එරට පොලීසිය සඳහන් කළේය.
+At least 18 people were killed in bus accident in Uthero, India.
 
-බස් රථයක් බිහාර් සිට දිල්ලි දක්වා ධාවනය වෙමින් තිබියදී ලක්නව්-අග්‍රා අධිවේගී මාර්ගයේ පිටුපසින් පැමිණි කිරි ප්‍රවාහනය කළ රථයක ගැටීමෙන් මෙම අනතුර සිදුව තිබුණි.
+Foreign media reports that another 19 persons were injured.
+
+Among the delegates were among the victims of three women and a child.
+
+The accident had occurred when a bus had been traveling from Bihar to Delhi.
 
 ◼️
 
 [Data](articles/4c81030a.json)
 
+[Extended Data](ext_articles/4c81030a.ext.json)
+
 ---
 
-### මිනුවන්ගොඩින් හමුවූ පතරොම් ගබඩාව
+### Found at Minuwangoda
 
 *2024-07-10 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198663) · `si`
 
-මිනුවන්ගොඩ  වසමේ ජාපාලවත්ත ප්‍රදේශයේදී පොලීසියට ලද තොරතුරක් මත ගිනි අවි සඳහා යොදන පතරොම් ළඟ තබාගෙන සිටි පුද්ගලයෙක් ව අත්අඩංගුවට ගෙන තිබේ.
+In Minuwangoda, a man was arrested after a tip led to a raid uncovering two T-56 firearms, two magazines, and two pistols, along with eight grams of heroin. The Gampaha Division Criminal Investigations unit conducted the operation, suspecting the man's involvement with overseas organized crime groups.
 
-යුක්තිය මෙහෙයුමට සමගාමීව ගම්පහ කොට්ඨාස අපරාධ විමර්ශන නිලධාරීන් විසින් එම වැටලීම ඊයේ (09) සිදුකළේය.
+🟩
 
-එහිදී T-56 ගිනි අවි පතරොම් ගැබ 2ක්, පිස්තෝල පතරොම් ගැබ 2ක්, T-56 ජීව පතරොම් 144ක්, පිස්තෝල සඳහා භාවිත වන පතරොම් 02ක් සොයාගෙන තිබුණි.
+A man was arrested by a person who had received a tip of firearms on the Juwranduwatta area in the Minuwangoda area.
 
-43 හැවිරිදි මිනුවන්ගොඩ ප්‍රදේශයේ පදිංචි එම සැකකරු සඟවා තිබූ හෙරොයින් ග්‍රෑම් අටක් ද විමර්ශන නිලධාරීන් විසින් සොයාගෙන තිබේ.
+The raid was carried out by the Gampaha Division Criminal Investigations yesterday (09) by the Gampaha Divisional Criminal Investigation Officers in parallel to justice.
 
-මෙම පතරොම් සහ පතරොම් ගැබ විදෙස්ගතව සිටින සංවිධානාත්මක අපරාධකරුවෙක් විසින් මෙම සැකකරුට ලබා දෙන්නට ඇතැයි පොලීසිය සැක කරයි.
+There were two T-56 firearms and two T-56 libaroom, two bunch of bunch of bunch of bunch of bunch of pistols.
+
+Investigations have also recovered eight grams of heroin, a resident of Minuwangoda, a 43 year old Minuwangoda.
+
+Police suspect that the suspect has been given a organized criminal abroad and an organized criminal abroad.
 
 ◼️
 
 [Data](articles/5afd4a93.json)
+
+[Extended Data](ext_articles/5afd4a93.ext.json)
 
 ---
 
@@ -1382,6 +1458,8 @@ In order to prevent the split of the Republican vote in a three-way race, hundre
 
 [Data](articles/eb389c45.json)
 
+[Extended Data](ext_articles/eb389c45.ext.json)
+
 ---
 
 ### Dambulla Sixers eventually won the stunned Dambulla Sixers
@@ -2167,45 +2245,5 @@ During today's Cabinet meeting, it has been decided not to extend the lease agre
 [Data](articles/458c62a1.json)
 
 [Extended Data](ext_articles/458c62a1.ext.json)
-
----
-
-### A Living Legacy: A Tribute To Mallikai Editor Dominic Jeeva
-
-*2024-07-09 18:50:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-living-legacy-a-tribute-to-mallikai-editor-dominic-jeeva/) · `en`
-
-Dominic Jeeva, born to Joseph and Maryamma on June 27, 1927, in Jaffna, launched the arts and literary monthly magazine, Mallikai in 1966. He continued its publication until 2012, serving as its editor and publisher. Through his unwavering self-effort in that endeavour, he became widely known as Mallikai Jeeva.
-
-The name “Mallikai Jeeva” resonated across Sri Lanka, among Tamil, Sinhala, and Muslim literary circles. Born into a modest middle-class family and deprived of opportunities for higher education, Dominic Jeeva became a self-taught scholar through the experience he gained through his extensive reading of works by intellectuals and progressive writers. His tireless contributions significantly advanced Tamil literature in Eelam. Dominic Jeeva passed away at the age of 93.
-
-Had he lived a few more years, he would have reached the centennial mark. This past June 27th, he would have turned 97. Although he is no more, his memory remains everlasting!
-
-...
-
-[Data](articles/20eb322e.json)
-
-[Extended Data](ext_articles/20eb322e.ext.json)
-
----
-
-### Telecommunication Amendment Bill
-
-*2024-07-09 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/188079) · `ta`
-
-The Telecommunication Amendment Bill, introduced by Sri Lanka's Ministry of Technology, aims to update the 1991 Telecommunication Act after 28 years. Passed without a referendum through three assessments, it seeks to establish fair regulations for consumers in a competitive market, aligning local standards with global norms.
-
-🟩
-
-The second assessment of the Bill, which was held in Parliament on Tuesday (09), was passed without a referendum. Following this, amendments to the Bill were made in the group position and the third evaluation was passed without a referendum.
-
-The Bill was presented in Parliament by the Ministry of Technology on May 4 to amend the Sri Lanka Telecommunication Act No. 25 of 1991 and amended it after 28 years.
-
-The amendment provides the opportunity to take a fair regulatory order for consumers in the competitive market to adopt the standards of accepted standards in the world so far.
-
-◼️
-
-[Data](articles/7fb6fea3.json)
-
-[Extended Data](ext_articles/7fb6fea3.ext.json)
 
 ---

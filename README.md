@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 00:20:05**
+As of **2024-07-11 00:35:38**
 
 ## Newspaper Stats
 
-*Scraped **34,660** Articles*
+*Scraped **34,661** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 339
 newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,049
-dailyftlk | 2,168
+dailyftlk | 2,169
 adalk | 3,126
 adaderanalk | 3,986
 tamilmirrorlk | 4,132
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,660 (100.0%) of 34,660 articles have been extended.
+34,660 (100.0%) of 34,661 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### Ninety-two years with the people: Taxes for better future
+
+*2024-07-10 23:34:12* · [`dailyftlk`](https://www.ft.lk/columns/Ninety-two-years-with-the-people-Taxes-for-better-future/4-764101) · `en`
+
+The International Monetary Fund (IMF) announced that its Executive Board approved a $ 3 billion financing for Sri Lanka for the next four years while approving an extended fund facility. The IMF also stressed the increasing tax revenue in next decades. Therefore collecting more revenue and strengthening tax administration is the utmost objective of our country. In order to achieve high resources, the tax administration needs public confidence in their duties. The public also needs a fair, equitable, transparent and accountable tax system that aims at implementing good tax principles
+
+There are two certain things with regard to nature in the world. They are Death and Tax. Taxes are the most important source of revenue of the modern Government. It plays a vital role in fulfilling peoples’ aspirations and their rights. Taxation is not a new concept in the modern world. It is as old as the first attempt of mankind to organise a civilised society.
+
+...
+
+[Data](articles/de67dc0a.json)
+
+---
 
 ### Athurukiriya incident - 7 people explanation
 
@@ -2255,29 +2269,5 @@ Addressing the progress review meeting, Minister of Agriculture and Plantation I
 [Data](articles/baed9a82.json)
 
 [Extended Data](ext_articles/baed9a82.ext.json)
-
----
-
-### Railway Department releases final announcement
-
-*2024-07-10 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198667) · `si`
-
-Sri Lanka Railways issues final notice to all stations and trains regarding an essential service strike, emphasizing reporting to duty this afternoon.
-
-🟩
-
-The last statement has been issued to all stations and the trains of the Sri Lanka Railways.
-
-Accordingly, the railway station or the Colombo Masters OIC and the Railways should be reported to the service this afternoon.
-
-Accordingly, the railway station or the Colombo Masters OIC and the Railways should be reported to the service this afternoon.
-
-He pointed out that the strike was implemented while the Sri Lanka Railways was an essential service.
-
-◼️
-
-[Data](articles/45ba8c0d.json)
-
-[Extended Data](ext_articles/45ba8c0d.ext.json)
 
 ---

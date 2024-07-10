@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 19:35:13**
+As of **2024-07-10 19:53:36**
 
 ## Newspaper Stats
 
-*Scraped **34,628** Articles*
+*Scraped **34,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
-adalk | 3,120
-adaderanalk | 3,983
+adalk | 3,121
+adaderanalk | 3,984
 tamilmirrorlk | 4,129
 dailymirrorlk | 4,733
 virakesarilk | 5,411
@@ -26,23 +26,43 @@ adaderanasinhalalk | 5,764
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,627 (100.0%) of 34,628 articles have been extended.
+34,628 (100.0%) of 34,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### දුම්රියෙන් වැටී මගියෙක් මරුට
+### Passenger dies after falling from crowded train
+
+*2024-07-10 19:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100430/passenger-dies-after-falling-from-crowded-train) · `en`
+
+A passenger has been killed after falling from a moving train, which was heavily crowded due to the ongoing railway strike, in the Bemmulla area along the main line.
+
+The passenger has reportedly fallen off a train plying from Colombo Fort to Polgahawela this evening (10).
+
+◼️
+
+[Data](articles/4543d168.json)
+
+---
+
+### Train falls into death
 
 *2024-07-10 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198682) · `si`
 
-අද (10) පස්වරුවේ බෙම්මුල්ල දුම්රිය ස්ථානය අසලදී දුම්රිය මගියෙකු  දුම්රියෙන් ඇද වැටී ජිවිතක්ෂයට පත්වී තිබේ.
+A train passenger fell from the Fort to Polgahawela near Bemmulla railway station, resulting in a tragic accident.
 
-එම මගියා ඇද වැටී තිබුණේ කොළඹ කොටුවේ සිට පොල්ගහවෙල දක්වා ධාවනය වූ දුම්රියෙනි.
+🟩
+
+A train passenger has fallen from train near the Bemmulla railway station this afternoon.
+
+The passenger had fallen from Fort to Polgahawela.
 
 ◼️
 
 [Data](articles/633bee19.json)
+
+[Extended Data](ext_articles/633bee19.ext.json)
 
 ---
 
@@ -89,6 +109,22 @@ Railway Masters have decided to extend its strike to a continuous strike. They h
 [Data](articles/9c14c0c5.json)
 
 [Extended Data](ext_articles/9c14c0c5.ext.json)
+
+---
+
+### නිසි කලට ජනාධිපතිවරණය පැවැත්වීම ගැන විවාදය හෙට
+
+*2024-07-10 18:15:44* · [`adalk`](https://www.ada.lk/breaking_news/නිසි-කලට-ජනාධිපතිවරණය-පැවැත්වීම-ගැන-විවාදය-හෙට/11-410722) · `si`
+
+නෛතික ප්‍රතිපාදන අනුව නිසි කාලය තුළ ජනාධිපතිවරණය පැවැත්වීම පිළිබඳව සභාව කල් තැබීමේ විවාදයක් හෙට (11) පැවැත්වීමට අද (10) කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය වූ බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාව සහ සෙසු අදාළ නීති මගින් දක්වා ඇති විධානවලට අනුකූලව 2024 සැප්තැම්බර් 17 සිට ඔක්තොම්බර් 16 දක්වා වූ කාල පරිච්ඡේදය තුළ ජනාධිපතිවරණය පැවැත්වීම පිළිබඳව ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක සහ විපක්ෂයේ ප්‍රධාන සංවිධායක ලක්ෂ්මන් කිරිඇල්ල යන මහත්වරු විසින්  ඒකාබද්ධව ගෙනඑනු ලබන යෝජනාවට අනුව මෙම සභාව කල්තැබීමේ විවාදය පැවැත්වීමට නියමිතව ඇත. මේ අනුව හෙට වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්නවලින් අනතුරුව  පෙ.ව 10.30 සිට ප.ව 5.30 දක්වා විවාදය පැවැත්වීමට තීරණය වී තිබේ.
+
+එසේම හෙට දිනයේ විවාදයට ගැනීමට නියමිතව තිබූ සත්ව සුබසාධන පනත් කෙටුම්පත ඉදිරි දිනකදී විවාදයට ගැනීමටත් මෙහිදී තීරණය වූ බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය වැඩිදුරටත් පැවසුවාය.
+
+◼️
+
+[Data](articles/1ab16297.json)
 
 ---
 
@@ -2221,47 +2257,5 @@ Plantation workers do not get a salary of 1,700 rupees and the government is pla
 [Data](articles/a9e25d50.json)
 
 [Extended Data](ext_articles/a9e25d50.ext.json)
-
----
-
-### Exchange work does not come without cutting
-
-*2024-07-10 09:07:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலை-வெட்டி-இல்லாமல்-வரவில்லை/175-340126) · `ta`
-
-The Sri Lanka Tamil National Alliance MP, Ira Sanakian, criticized the Minister of Public Security for not addressing questions raised four years ago regarding fake media outlets. He questioned whether the minister was aware of these outlets and if measures would be taken to ban them. The minister requested more time to respond, leading to accusations of avoiding the issue.
-
-🟩
-
-The questions that I put forward by the Minister of Public Security 4 years ago have not been answered to date. The Batticaloa District MP of the Sri Lanka Tamil National Alliance (TNA). The Ira Sanakian expressed his displeasure with the Speaker.
-
-Does the Minister know that the MP in Parliament on Tuesday (09) is the Minister of Public Security Minister, the Minister knows that many fake media outlets that can create confusion in the country?Will steps take steps to ban unregistered fake websites?He questioned why.
-
-On behalf of the Minister of Public Security, Minister Prasanna Ranatunga sought time to answer these questions.
-
-This is not the case. The Chanakyan MP said that the Minister of Public Security had questioned the Minister of Public Security a month ago and submitted the answers to the House.I found the answer to the answer.
-
-...
-
-[Data](articles/86cbebd7.json)
-
-[Extended Data](ext_articles/86cbebd7.ext.json)
-
----
-
-### President’s Secretary responds to BASL’s request on Attorney General appointment
-
-*2024-07-10 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100409/presidents-secretary-responds-to-basls-request-on-attorney-general-appointment) · `en`
-
-President’s Secretary Mr. Saman Ekanayake has responded to a letter from the Bar Association of Sri Lanka (BASL) regarding the appointment of the new Attorney General following the retirement of Mr. Sanjay Rajaratnam, PC, according to the President’s Media Division.
-
-Mr. Ekanayake highlighted that the President is constitutionally empowered, under Article 41C of the Constitution, to appoint the Attorney General with the approval of the Constitutional Council.
-
-He emphasized that there is no constitutional requirement to appoint the senior-most officer from the Attorney General’s Department to this position based on seniority. Historically, this practice has not been followed in Sri Lanka, with past appointments such as Sarath N. Silva, PC, and Mohan Peiris, PC, coming from outside the department’s senior ranks.
-
-...
-
-[Data](articles/d1ad782b.json)
-
-[Extended Data](ext_articles/d1ad782b.ext.json)
 
 ---

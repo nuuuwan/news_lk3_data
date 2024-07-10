@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 15:54:25**
+As of **2024-07-10 16:07:34**
 
 ## Newspaper Stats
 
-*Scraped **34,593** Articles*
+*Scraped **34,595** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
-adalk | 3,113
-adaderanalk | 3,975
+adalk | 3,114
+adaderanalk | 3,976
 tamilmirrorlk | 4,124
 dailymirrorlk | 4,733
 virakesarilk | 5,402
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,758
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,591 (100.0%) of 34,593 articles have been extended.
+34,593 (100.0%) of 34,595 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### Railway strike to continue despite dept’s warning
+
+*2024-07-10 15:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100423/railway-strike-to-continue-despite-depts-warning) · `en`
+
+Sri Lanka Railway Station Masters’ Union says that their trade union action will continue further.
+
+The General Manager of Sri Lanka Railways had warned that all Station Masters and Railway Controllers who fail to report to duty by 12.00 noon today will be considered as having vacated their positions.
+
+Accordingly, all the striking Railway Station Masters and Railway Controllers were instructed to report for duty at their respective railway stations or at least to the nearest railway station.
+
+The Sri Lanka Railways Station Masters’ Union had decided to launch a strike action from midnight yesterday (09) based on several demands including promotions.
+
+As a result, several trains including the office trains and night mail trains to and from Colombo Fort and Badulla, to and from Trincomalee, to and from Batticaloa and night mail train to Rambukkana were cancelled, the department said.
+
+◼️
+
+[Data](articles/23203de3.json)
+
+---
 
 ### Adjournment debate on time frame of Presidential Election
 
@@ -41,6 +61,8 @@ A decision has been taken at the arty leaders’ meeting to hold an adjournment 
 ◼️
 
 [Data](articles/b0649a60.json)
+
+[Extended Data](ext_articles/b0649a60.ext.json)
 
 ---
 
@@ -263,6 +285,20 @@ Nidahasa Janata Sabha (NJS), led by Member of Parliament Dullas Alahapperuma, ha
 [Data](articles/8a00000d.json)
 
 [Extended Data](ext_articles/8a00000d.ext.json)
+
+---
+
+### ධුර කාලය නිශ්චිත කරන්න ව්‍යවස්ථා සංශෝධනයක්
+
+*2024-07-10 13:27:40* · [`adalk`](https://www.ada.lk/breaking_news/ධුර-කාලය-නිශ්චිත-කරන්න-ව්‍යවස්ථා-සංශෝධනයක්/11-410715) · `si`
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 30(2), 62(2) සහ 83(ආ) යන ව්‍යවස්ථාවන්හි ජනාධිපතිවරයාගේ ධූර කාලය සහ පාර්ලිමේන්තුව පවත්නා කාලය සම්බන්ධයෙන් අනනුකූලතාවක් පවතින බව නිරීක්ෂණය වේ.
+
+ඒ පිළිබඳව වන සැකය මගහරවා ගැනීමට සහ කවර හෝ අනනුකූලතාවක් ඉවත් කිරීමට "සාවුරුද්දක් ඉක්මවා " යන වචන වෙනුවට " පස් අවුරුද්දක් ඉක්මවා " යන වචන ආදේශ කිරීම මගින් ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 83(ආ) ව්‍යවස්ථාව සංශෝධනය කිරීම සඳහා ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන පනත් කෙටුම්පතක් සකස් කිරීම පිණිස ජනාධිපතිතුමා ඉදිරිපත් කළ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කරන ලදී.
+
+◼️
+
+[Data](articles/f182d09b.json)
 
 ---
 
@@ -1146,19 +1182,31 @@ PM Modi's visit to Russia highlights historical ties, from USSR's 1971 UN veto f
 
 ---
 
-### CID ය විරංජිත් තාඹුගලගෙන් රුපියල් කෝටි 2ක කප්පම් ගත් බව කියන සිද්ධිය කුමක් ද?
+### What is the case of the CID?
 
 *2024-07-10 09:48:14* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c7253pzyd9xo) · `si`
 
-CID ය විරංජිත් තාඹුගලගෙන් රුපියල් කෝටි 2ක කප්පම් ගත් බව කියන සිද්ධිය කුමක් ද?
+The case involves allegations of illegal assets held by the Director of the Criminal Investigation Department, with a focus on a sum of $26,429,49 transferred from the US between 2022 and 2029. The Attorney General's office, represented by Deputy Solicitor General Dileepa Peiris, discussed the need for protective measures due to death threats, highlighted the suspect's secret appearances in court, and criticized the lack of thorough investigation. The Deputy Solicitor General suggested the suspect could report to the Bribery Commission but emphasized the importance of addressing the assets issue. The case was complicated by the suspect's refusal to cooperate with investigations and the Attorney General's assertion of having evidence against the suspect. Despite these complexities, the Colombo Additional Magistrate ruled that the suspect, Wirajith Ukgala, could not be classified as a victim, preventing the issuance of protective orders under the Victim and Witness Protection Act.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නීති විරෝධී වත්කම් විමර්ශන අංශයේ හිටපු නියෝජ්‍ය පොලිස්පතිවරයා සහ අධ්‍යක්ෂවරයා විසින් ව්‍යාපාරික විරංජිත් තාඹුගලගෙන් රුපියල් කෝටි දෙකක කප්පමක් ලබාගත් බව කියන සිද්ධිය සත්‍යයක් නම් එය බරපතළ කරුණක් බවත් ඒ සම්බන්ධයෙන් විමර්ශනය කොට අදාළ නිලධාරීන්ට එරෙහිව බරපතල නීතිමය පියවර ගත යුතු බවත් නීතිපතිවරයා අද (ජුලි 10 වැනිදා) කොළඹ මහේස්ත්‍රාත් අධිකරණය හමුවේ ප්‍රකාශ කළේය.
+🟩
 
-තමාට එල්ල වී ඇති මරණීය තර්ජන සම්බන්ධයෙන් වින්දිතයින් හා සාක්ෂිකරුවන් ආරක්ෂා කිරීමේ පනතේ ප්‍රතිපාදන යටතේ නිසි ආරක්‍ෂාව ලබාදෙන ලෙස නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ව්‍යාපාරික විරංජිත් තාඹුගල විසින් ඉදිරිපත් කළ ඉල්ලීම සලකා බැලූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරාල් දිලීප පීරිස් මේ බව ප්‍රකාශ කර සිටියේය.
+What is the case of the CID?
+
+The Attorney General today (July 10) is a serious matter, the Director of the Criminal Investigation Department's illegal assets in the Department of Criminal Investigation Division.Regarding the Colombo Magistrate's Court.
+
+The deputy Solicitor General, Dileepa General, appearing on behalf of the Attorney General, said that when he considered the request made by the Victims of Protection Act to provide proper protection bill for the allocation of the death threats.
+
+When the complaint was taken up today, Senior Deputy Solicitor General Dileepa Peiris had filed a sum of Rs. 70 million to the Attorney General.
+
+The suspect's bank accounts have received a sum of $ 26,429,49, illegal in the Criminal Investigation Department from the US to 2022 to 2029.
+
+Meanwhile, the Deputy Solicitor General also recalled that the suspect had secretly presented three days in the Colombo Magistrate's Court.
 
 ...
 
 [Data](articles/66d1b27b.json)
+
+[Extended Data](ext_articles/66d1b27b.ext.json)
 
 ---
 
@@ -2137,53 +2185,5 @@ Meanwhile, the number of unemployed graduates in the country has crossed 50 thou
 [Data](articles/d52d84ea.json)
 
 [Extended Data](ext_articles/d52d84ea.ext.json)
-
----
-
-### In the massive crisis of judicial service - Justice Minister
-
-*2024-07-10 02:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/188091) · `ta`
-
-Justice Minister Vijayadasa Rajapakse addressed Parliament, highlighting the integrity of most judges amidst allegations against a few. He called for two judges to be investigated by the Parliamentary Privacy and Morals Committee over improper actions, including illegal activities like unauthorized water and electricity use, and theft of valuable items from courts. The minister emphasized his commitment to judicial independence and transparency, urging swift action on complaints and calling for the involvement of the Judicial Services Commission in addressing these issues.
-
-🟩
-
-The praise of most judges who act in honor due to improper actions of a few judges. Justice Service Structure opposes massive crises. Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapakse urged the Speaker of the House to invite the two judges to the Parliamentary Privacy and Morals Committee of Parliament.
-
-He was speaking at a speech on Tuesday (9) in Parliament on Tuesday (9).
-
-The speech I delivered on the structure of the judicial service is now the main speech. I am happy that the Judicial Service Commission has responded before I present questions.
-
-In response to questions posed by MP Dayasiri Jayasekera on the 19th of last month, I mentioned many issues.. Members of Parliament are asking me the Justice Minister what the court cannot hear about judicial services.
-
-...
-
-[Data](articles/8ba1778c.json)
-
-[Extended Data](ext_articles/8ba1778c.ext.json)
-
----
-
-### Gazette will be released as villages- Jeevan Thondaman
-
-*2024-07-10 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188090) · `ta`
-
-The Sri Lankan Cabinet has approved a proposal to identify communities living under plantation company control for gazetting. Minister Jeevan Thondaman addresses concerns over a proposed salary increase from 1000 to 1700 rupees, clarifying it's not politically motivated but sought through the Salary Council. He emphasizes unity among hill country residents to tackle issues like poverty and inadequate wages, criticizing plantation companies' profits and lack of participation in wage discussions. Thondaman also mentions educational improvements and funding for schools, thanking India for providing teachers. He stresses the importance of focusing on child safety and development over political concessions.
-
-🟩
-
-The Cabinet has approved the idea of ​​the president's proposal to identify the places where people live under the control of the plantation companies and publish the gazette.. All the people of the hill country should work together to address the problems of the people of the area.. Water Supply and Plantation Infrastructure Development Minister Jeevan Thondaman said that Dhammika Perera, who is dreaming of the president, is protesting against a salary increase.
-
-He was speaking at a debate on the Sri Lanka Telecommunication (Amendment) Bill held in Parliament on Tuesday (9).
-
-The congregation and the people of the country should clarify some of the things. 1700 rupees salary issue. There is no increase in this salary, and a few people are provoking people that the government is playing.
-
-We have not made a 1700 rupee salary request to the President with a political purpose. We paid a salary of 1000 rupees in 20121.
-
-...
-
-[Data](articles/b2eba3e4.json)
-
-[Extended Data](ext_articles/b2eba3e4.ext.json)
 
 ---

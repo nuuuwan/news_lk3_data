@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 05:05:05**
+As of **2024-07-11 05:19:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,685 (100.0%) of 34,686 articles have been extended.
+34,686 (100.0%) of 34,686 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -152,21 +152,29 @@ The Government yesterday announced that new legislation will be introduced to li
 
 ---
 
-### ’கம்பனிகள் மாறாவிடின் நாங்கள் மாற்றுவோம்’
+### If the company does not change, we will change
 
 *2024-07-11 02:39:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பனிகள்-மாறாவிடின்-நாங்கள்-மாற்றுவோம்/175-340194) · `ta`
 
-தோட்டத் தொழிலாளர்களின் சம்பள விடயத்தில் பெருந்தோட்டக் கம்பனிகள் மாறாவிட்டால் நாங்கள் மாற்றுவோம் என்பதுடன், அந்த மக்களின் வாழ்வாதரத்தில் மாற்றங்கள் ஏற்படாவிட்டால் அதில் மாற்றத்தை ஏற்படுத்த நடவடிக்கை எடுப்போம் எனவும் பதுளை மாவட்ட பாராளுமன்ற உறுப்பினர் வடிவேல் சுரேஷ் தெரிவித்தார்.
+Vadivel Suresh warns plantation companies: either raise workers' salaries or face changes in their operations. He highlights the struggle of hill country residents, whose legal salary hikes are being opposed, indicating potential legal challenges to plantation companies.
 
-பாராளுமன்றத்தில் புதன்கிழமை (10) நடைபெற்ற விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+🟩
 
-மலையக மக்கள் பல்வேறு துன்பங்களுக்கு உள்ளாகி, பொருளாதார ரீதியில் பாதிக்கப்பட்டு ஊழைப்புக்கேற்ற ஊதியமின்றி தவித்துக்கொண்டிருக்கின்றனர். இந்த மக்களின் சம்பள உயர்வு சட்டப்பூர்வமாக வர்த்தமானி அறிவித்தலில் வெளியிடப்பட்ட போதும், அதனை எதிர்க்கும் சக்தி தனியார் துறையான தோட்ட கம்பனிகளுக்கு இருப்பது ஆச்சரியப்படச் செய்கின்றது.
+Badulla District Parliamentarian Vadivel Suresh said that if the plantation companies do not change the salary of plantation workers, we will change the livelihood of the people.
 
-நாட்டின் பொருளாதாரத்தை முதுகெலும்பாக சுமந்துகொண்டிருக்கும் மலையக மக்களின் சம்பள உயர்வுக்கு எதிராக நீதிமன்றம் செல்கின்றார்கள் என்றால் தோட்டக் கம்பனிகள் நிருவாகங்கள் எவ்வாறான கேவலம் கெட்ட நிலையில் இருக்கின்றது என்பதனை புரிந்துகொள்ள முடிகின்றது.
+He said this while addressing a debate in Parliament on Wednesday (10).
 
-...
+The people of the hill country are suffering from various hardships and are suffering from a salary for corruption. While the salary increase of these people is legally published in the gazette notification, the power to oppose it is surprising.
+
+If the court goes against the salary hike in the hill people who are carrying the country's economy as a backbone, it is understood that the plantation companies are in a state of disrepair.
+
+Plantation Company owners if you don't change we will change you ”. Meanwhile, we are also telling the government that we will change the livelihood of the plantation people immediately.
+
+◼️
 
 [Data](articles/bbdfde99.json)
+
+[Extended Data](ext_articles/bbdfde99.ext.json)
 
 ---
 

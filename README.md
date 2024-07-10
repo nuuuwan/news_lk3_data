@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 04:19:54**
+As of **2024-07-11 04:35:13**
 
 ## Newspaper Stats
 
-*Scraped **34,684** Articles*
+*Scraped **34,685** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,049
 dailyftlk | 2,183
 adalk | 3,126
 adaderanalk | 3,986
-tamilmirrorlk | 4,135
+tamilmirrorlk | 4,136
 dailymirrorlk | 4,733
 virakesarilk | 5,422
 adaderanasinhalalk | 5,767
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,684 (100.0%) of 34,684 articles have been extended.
+34,684 (100.0%) of 34,685 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -261,6 +261,22 @@ The decision by the Sri Lanka Police to disseminate footage showing Dulan Sanjul
 [Data](articles/466054fc.json)
 
 [Extended Data](ext_articles/466054fc.ext.json)
+
+---
+
+### தோட்டப் பாடசாலைகளில் 60 ‘ஸ்மார்ட்’ வகுப்பறைகளை
+
+*2024-07-11 02:24:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோட்டப்-பாடசாலைகளில்-60-ஸ்மார்ட்-வகுப்பறைகளை/175-340191) · `ta`
+
+இந்திய அரசின் நிதியுதவியுடனும், இலங்கை அரசின் ஒத்துழைப்புடனும் நுவரெலியா, கண்டி மற்றும் பதுளை போன்ற மாவட்டங்களில் தெரிவு செய்யப்பட்ட தோட்டப் பாடசாலைகளில் உயர்தர வகுப்புக்களுக்கான 60 “ஸ்மார்ட்” வகுப்பறைகளை நிர்மாணிக்கும் கருத்திட்டம் நடைமுறைப்படுத்த உள்ளது.
+
+இந்திய அரசுடன் புரிந்துணர்வு ஒப்பந்தத்தை மேற்கொள்வதற்காக 2023.12.18 ஆம் திகதி இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கியுள்ளது.
+
+குறித்த கருத்திட்டத்தை உயர்தர மாணவர்களை மாத்திரம் இலக்காகக் கொண்டு அமுல்படுத்துவதில் நடைமுறைச் சிக்கல்களைக் கருத்தில் கொண்டு, குறித்த மட்டுப்பாட்டை நீக்குவதற்கு இந்திய உயர்ஸ்தானிகராலயம், கல்வி அமைச்சு, வெளிநாட்டு வளங்கள் திணைக்களம் மற்றும் தேசிய வரவ செலவுத்திட்டத் திணைக்களத்தின் அதிகாரிகளுடன் இடம்பெற்ற கலந்துரையாடலில் தீர்மானிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/c03f189b.json)
 
 ---
 
@@ -2253,29 +2269,5 @@ The accident had occurred when a bus had been traveling from Bihar to Delhi.
 [Data](articles/5d8d8450.json)
 
 [Extended Data](ext_articles/5d8d8450.ext.json)
-
----
-
-### Sri Lanka lawmaking process deficient, avenue for public consultation vital: legislator
-
-*2024-07-10 12:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-lawmaking-process-deficient-avenue-for-public-consultation-vital-legislator-171619/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s lawmaking process has no public engagement, including expert consultation which leads to laws with serious shortcomings being passed, a legislator who was a former ministry secretary said.
-
-“We have to create an avenue for the people of the country to enter into the lawmaking process,” Charitha Herath, who was a former ministry secretary, told parliament Tuesday.
-
-“Through a parliamentary caucus or a special committee, we have to create space for the public to engage in the lawmaking process. Then some of the wrong things will not happen.
-
-There were problems in the existing standing orders, he said.
-
-A concept note is first submitted to the Cabinet of Ministers ahead of bill, and a draft is made and then it is sent to legal draftsman.
-
-The drafted bill is then sent to the Attorney General and re-submitted to the Cabinet for approval. Then it is tabled in parliament.
-
-...
-
-[Data](articles/3008ad51.json)
-
-[Extended Data](ext_articles/3008ad51.ext.json)
 
 ---

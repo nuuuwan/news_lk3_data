@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 10:20:52**
+As of **2024-07-10 10:35:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,746
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,535 (100.0%) of 34,536 articles have been extended.
+34,536 (100.0%) of 34,536 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ However, the proposals do not include any tariff reductions for hotel and indust
 ...
 
 [Data](articles/c8083739.json)
+
+[Extended Data](ext_articles/c8083739.ext.json)
 
 ---
 

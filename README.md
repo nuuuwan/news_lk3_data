@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 01:05:21**
+As of **2024-07-11 01:19:56**
 
 ## Newspaper Stats
 
-*Scraped **34,661** Articles*
+*Scraped **34,664** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 339
 newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,049
-dailyftlk | 2,169
+dailyftlk | 2,172
 adalk | 3,126
 adaderanalk | 3,986
 tamilmirrorlk | 4,132
@@ -26,9 +26,37 @@ adaderanasinhalalk | 5,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,661 (100.0%) of 34,661 articles have been extended.
+34,661 (100.0%) of 34,664 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-07-11 (Thursday)
+
+### Adani controversy: Why the cheerleaders are wrong
+
+*2024-07-11 00:51:20* · [`dailyftlk`](https://www.ft.lk/columns/Adani-controversy-Why-the-cheerleaders-are-wrong/4-764104) · `en`
+
+Samaranayake’s rambling polemic against environmentalists and in favour of Adani sidesteps the most important issue: transparency
+
+The past week has seen a flurry of media activity from apologists for, and supporters of, the proposed Adani wind power project in Mannar. An article by Engineer Gerald L. Samaranayake in the Daily FT of 8 July, for instance, observed: “Environmentalists rallying against a renewable energy project is odd. As they should be against fossil fuel-based projects and push for a quicker energy transition for Sri Lanka to achieve its goal to become carbon neutral by 2050.” (https://www.ft.lk/columns/Will-environmentalists-stall-new-50MW-Mannar-wind-power-project/4-763942).
+
+...
+
+[Data](articles/17ed5b64.json)
+
+---
+
+### Trust in Government’s commitment to democratic process crucial for recovery
+
+*2024-07-11 00:49:37* · [`dailyftlk`](https://www.ft.lk/opinion/Trust-in-Government-s-commitment-to-democratic-process-crucial-for-recovery/14-764103) · `en`
+
+A Fundamental Rights petition is pending before the Supreme Court requesting a postponement of the Presidential election until a determination is made on the length of the President’s term of office. The National Peace Council welcomes the Supreme Court’s decision to consider the case as soon as possible. We believe the continuing uncertainty about the holding of the Presidential election is deeply harmful to the country in every aspect. It undermines faith in the democratic process in which free and fair elections that are held regularly is an indispensable element.
+
+...
+
+[Data](articles/c50a8ccf.json)
+
+---
 
 ### 2024-07-10 (Wednesday)
 
@@ -67,6 +95,22 @@ The suspects are between the ages of 24 to 37, aged 24 to 37 in Ahungalla, Balap
 [Data](articles/fc161372.json)
 
 [Extended Data](ext_articles/fc161372.ext.json)
+
+---
+
+### UK-France elections, Anura-Sajith balance and Sampanthan’s political tragedy
+
+*2024-07-10 23:11:17* · [`dailyftlk`](https://www.ft.lk/columns/UK-France-elections-Anura-Sajith-balance-and-Sampanthan-s-political-tragedy/4-764100) · `en`
+
+“This result [the French Left’s win], as well as the victory of the Labour party in the United Kingdom, reinforces the importance of dialogue between progressive segments in defence of democracy and social justice. They should serve as an inspiration for South America.”
+
+Britain’s centre-left Labour party swept the Parliamentary election while France’s unified Left, the New Popular Front, unexpectedly beat both the Far Right and Macron’s neoliberal centrists to win the National Assembly election, becoming the largest formation.
+
+Dr. Masoud Pezeshkian, the reformist candidate who criticized the ‘morality police’ and promised a relaxation of headscarf rules won 53%, beating his religious conservative opponent to be elected Iran’s new President.
+
+...
+
+[Data](articles/0f4b253e.json)
 
 ---
 
@@ -2211,65 +2255,5 @@ These items can be purchased from today (10) to reduced prices.
 [Data](articles/69f1a248.json)
 
 [Extended Data](ext_articles/69f1a248.ext.json)
-
----
-
-### Striking railway workers given deadline to report to duty
-
-*2024-07-10 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100416/striking-railway-workers-given-deadline-to-report-to-duty) · `en`
-
-The General Manager of Sri Lanka Railways has warned that all Station Masters and Railway Controllers who fail to report to duty by 12.00 noon today (10) will be considered as having vacated their positions.
-
-Accordingly, all the striking Railway Station Masters and Railway Controllers are instructed to report for duty at their respective railway stations or at least to the nearest railway station.
-
-The Sri Lanka Railways Station Masters’ Union had decided to launch a strike action from midnight yesterday (09) based on several demands including promotions.
-
-As a result, several trains including the office trains and night mail trains to and from Colombo Fort and Badulla, to and from Trincomalee, to and from Batticaloa and night mail train to Rambukkana were cancelled, the department said.
-
-...
-
-[Data](articles/fd862f57.json)
-
-[Extended Data](ext_articles/fd862f57.ext.json)
-
----
-
-### Last year announced to station station staffers and governors
-
-*2024-07-10 11:13:05* · [`adalk`](https://www.ada.lk/breaking_news/වර්ජනයේ-නිරත-දුම්රිය-ස්ථානාධිපතිවරුන්ට-හා-පාලකවරුන්ට-අවසන්-නිවේදනයක්/11-410709) · `si`
-
-Acting railway station manager announced that staff and governors must report by 12nd afternoon. Those who fail to comply will face consequences.
-
-🟩
-
-Since 12 pm today (10th), the acting railway station and the governors that all station and the governors should report before 12nda.. Mudalige says a final statement.
-
-He further stated that all stations and the goadagers who do not.
-
-◼️
-
-[Data](articles/5bdba338.json)
-
-[Extended Data](ext_articles/5bdba338.ext.json)
-
----
-
-### Sri Lanka’s tea exports predicted to generate USD 1.5 billion revenue in 2024
-
-*2024-07-10 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100415/sri-lankas-tea-exports-predicted-to-generate-usd-15-billion-revenue-in-2024) · `en`
-
-The Tea Research Institute of Sri Lanka predicts that Sri Lanka’s tea exports are expected to generate a revenue of USD 1.5 billion in the year 2024.
-
-Meanwhile, as part of the first stage of a three-phase program to provide fertilizer at a concessionary rate, 10,000 metric tonnes out of the planned 30,000 metric tonnes of fertilizer has been distributed among tea planters so far.
-
-Recently, Minister of Agriculture and Plantation Industries Mahinda Amaraweera convened a progress review meeting of the St. Coombs Estate in Talawakelle and the Tea Research Institute of Sri Lanka.
-
-Addressing the progress review meeting, Minister of Agriculture and Plantation Industries Mahinda Amaraweera revealed that the already cultivated lands of tea estates are sufficient for the development of Sri Lanka’s tea plantation industry.
-
-...
-
-[Data](articles/baed9a82.json)
-
-[Extended Data](ext_articles/baed9a82.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 17:56:10**
+As of **2024-07-10 18:15:00**
 
 ## Newspaper Stats
 
-*Scraped **34,612** Articles*
+*Scraped **34,613** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
 adalk | 3,117
-adaderanalk | 3,981
+adaderanalk | 3,982
 tamilmirrorlk | 4,129
 dailymirrorlk | 4,733
 virakesarilk | 5,402
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,762
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,609 (100.0%) of 34,612 articles have been extended.
+34,612 (100.0%) of 34,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### Piyumi Hansamali files petition seeking to halt CID probe
+
+*2024-07-10 17:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100429/piyumi-hansamali-files-petition-seeking-to-halt-cid-probe-) · `en`
+
+Actress Piyumi Hansamali has filed a petition with the Court of Appeal seeking a writ order to suspend the investigations being carried out against her by the Illegal Assets Investigations Division of the Criminal Investigation Department (CID).
+
+The petition has named several officials including the Inspector General of Police (IGP) and the Director of the CID as respondents.
+
+Hansamali, who highlights in her petition that the Illegal Assets Investigations Division of the CID has launched an investigation against her, alleges that the manner in which the investigation is carried out is not justified and that it has cause severe prejudice to her.
+
+Accordingly, the petitioner requests the Court of Appeals to call and examine the case file against her being heard before the Colombo Magistrate’s Court and to issue a writ order to suspend the investigations being carried out by the CID’s Illegal Assets Investigations Division.
+
+◼️
+
+[Data](articles/24235206.json)
+
+---
 
 ### ‘Suwa Seriya’ to receive nearly 100 more ambulances
 
@@ -46,6 +64,8 @@ At present, 322 of ambulances are operated including 25 ambulances provided by G
 
 [Data](articles/6b0914b3.json)
 
+[Extended Data](ext_articles/6b0914b3.ext.json)
+
 ---
 
 ### Suspects arrested over ‘Club Wasantha’ murder remanded
@@ -56,9 +76,17 @@ The seven suspects including the tattoo studio owner arrested in connection with
 
 The accused were ordered remanded until July 22 after being produced before the court on Wednesday (10).
 
-◼️
+Police yesterday arrested seven suspects including the owner of the tattoo studio in Athurugiriya where the shooting incident took place on Monday (08), resulting in the deaths of ‘Club Wasantha’ and another person and wounded four others.
+
+The other arrested individuals are suspected to have aided and abetted in the shooting incident.
+
+During the investigations carried out thus far, it has been revealed that the owner of the tattoo studio has received an amount of Rs. 1 million over a period of time.
+
+...
 
 [Data](articles/b6ac8c6b.json)
+
+[Extended Data](ext_articles/b6ac8c6b.ext.json)
 
 ---
 
@@ -614,19 +642,25 @@ Nidahasa Janata Sabha (NJS), led by Member of Parliament Dullas Alahapperuma, ha
 
 ---
 
-### සෞඛ්‍යය හා අධ්‍යාපනයේ වර්ජන පාලනයට නව නීතියක්
+### New law for health and education strike control
 
 *2024-07-10 13:36:15* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍යය-හා-අධ්‍යාපනයේ-වර්ජන-පාලනයට-නව-නීතියක්/11-410717) · `si`
 
-සෞඛ්‍ය අධ්‍යාපනය වැනි මූලික මිනිස් අවශ්‍යතා ඉෂ්ට කර ගැනීමට අදාළ වන සේවාවන් කඩ­ාකප්පල් කිරීම වැළැක්වීම සඳහා පොදු මහජනතාවගේ යහපත හා ආරක්ෂාව වෙනුවෙන් අවශ්‍ය වන නව නීතියක් සම්පාදනය කිරීමට කැබිනට් මණ්ඩලයේ අවධානය යොමු වූ බව කැබිනට් ප්‍රකාශක ආචාර්ය බන්දුල ගුණවර්ධන මහතා අවධාරණය කරයි.
+The government aims to curb strikes in health and education sectors, focusing on maintaining essential services like healthcare and education. The Cabinet, led by Dr. Bandula Gunawardena, plans to introduce new laws to prevent disruptions during critical times, ensuring the well-being of the public.
 
-අද(10) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමින් අමාත්‍යවරයා මේ බව පැවසීය.
+🟩
 
-පාසැල් පැවැත්වෙන කාලසීමාවන්වලදී ඉගැන්වීමේ කටයුතුවලට බාධාවන් සිදු වන අයුරින් සහ රෝහල්වල රෝගී සත්කාරක සේවා අඩපණ වන අයුරින් ඇතැම් කණ්ඩායම් විසින් සිදු කරනු ලබන බලපෑම් හා අනිසි ක්‍රියා පිළිබඳව අමාත්‍ය මණ්ඩලයේ අවධානය යොමු කරනු ලදුව, එවැනි අනීතික ක්‍රියා මඟින් පාසල් සිසු දරුවන්ට සහ රෝගීන්ට සිදු කරනු ලබන අසාධාරණයන් වැළැක්වීම පිණිස නව නීති හඳුන්වා දීම සඳහා අවශ්‍ය පියවර ගැනීමට අමාත්‍ය මණ්ඩලය තීරණය කල බවද අමාත්‍යවරයා පැවසීය.
+Cabinet Spokesperson Dr. Bandula Gunawardena emphasizes that the Cabinet has focused on the benefit of the general public, such as sabotaging the services applicable to the good and safety of basic human needs, such as health education.
+
+The Minister was speaking at a press notice of the Cabinet Decision in the Government Information Department today.
+
+The cabinet focused on the impacts and abuse of the hospital in a way that interferes with the activities and illnesses of the hospitals in the school periods of the school periods.The Minister said that the Cabinet has decided to take necessary steps to introduce new laws.
 
 ◼️
 
 [Data](articles/bcd801b1.json)
+
+[Extended Data](ext_articles/bcd801b1.ext.json)
 
 ---
 
@@ -2209,25 +2243,5 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/3b3b88f0.json)
 
 [Extended Data](ext_articles/3b3b88f0.ext.json)
-
----
-
-### ALFT Packaging welcomes Unilever South Asia regional team
-
-*2024-07-10 06:20:58* · [`dailyftlk`](https://www.ft.lk/business/ALFT-Packaging-welcomes-Unilever-South-Asia-regional-team/34-764066) · `en`
-
-ALFT team along with the Unilever South Asia regional team at the ALFT factory
-
-giving a factory tour to the Unilever South Asia regional team
-
-A delegation of regional heads from Unilever, a global leader in consumer goods, recently visited the facilities of ALFT Packaging Company, a pioneering manufacturer of flexible packaging solutions in Sri Lanka. The visit provided Unilever with a first-hand look at ALFT’s manufacturing operations and their transformative advancements in the industry.
-
-Led by Unilever South Asia Executive Director of Supply Chain Yogesh Mishra, the delegation included Hindustan Unilever Ltd. (HUL) Head of Supply Chain, Beauty and Wellbeing Sundar Mahajan, General Manager Engineering and Projects, South Asia Ramkailash Bhadouria and HUL Head Digital Transformation Akshay Rastogi. The procurement team of Unilever Sri Lanka accompanied the guests.
-
-...
-
-[Data](articles/194a0c05.json)
-
-[Extended Data](ext_articles/194a0c05.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 19:05:09**
+As of **2024-07-10 19:19:55**
 
 ## Newspaper Stats
 
@@ -26,39 +26,55 @@ adaderanasinhalalk | 5,763
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,625 (100.0%) of 34,627 articles have been extended.
+34,627 (100.0%) of 34,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### කොළඹ ජනතාවටත් නිවාසක අයිතිය ලබාදෙයි
+### Colombo provides rights rights
 
 *2024-07-10 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198681) · `si`
 
-කොළඹ නගරයේ මහල් නිවාසවල ජීවත්වන ලක්ෂ දෙකහමාරක ජනතාවට එම නිවාසවල පූර්ණ අයිතිය හිමිකර දීමේ ‍වැඩසටහන ක්‍රියාවට නැංවූ බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe announced the transfer of full property rights to over two million residents in Colombo's apartments, marking a significant step towards securing homeownership. This initiative, part of a broader housing project aimed at low-income families, includes the distribution of title deeds to 50,000 beneficiaries in the first phase. The National Housing Development Authority plans to grant titles to a total of 1,070 beneficiaries by the year's end, highlighting efforts to stabilize housing rights in the region.
 
-මීට වසර 02කට පෙර තම නිවස ගිනිතබා විනාශ කළ අවස්ථාවේ නිවසක වටිනාකම තමාට තදින් දැණුන බවත්, එම වටිනාකම හඳුනාගනිමින් මෙම වැඩසටහන දියත් කළ බවද ජනපතිවරයා පැවසීය.
+🟩
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ කොළඹ නගරයේ මහල් නිවාසවල ජීවත්වන අඩු ආදායම්ලාභි පවුල් ලක්ෂ දෙකහමාරක ජනතාවට එම නිවාසවල පූර්ණ අයිතිය ලබාදීමේ “රන්දොර උරුමය” වැඩසටහනේ පළමු අදියර යටතේ නිවාස 50,000ක අයිතිය ප්‍රදානය කිරීමේ සමාරම්භක අවස්ථාවට ඊයේ (09) පස්වරුවේ ජනාධිපති කාර්යාලයේදී එක් වෙමිනි.
+President Ranil Wickremesinghe says that the full ownership of these houses have been implemented in these houses for two and a half million people living in the apartments in Colombo.
 
-කොළඹ දිස්ත්‍රික්කයේ මහල් නිවාස සංකීර්ණ 31ක පිහිටි නිවාස 130ක හිමිකාරීත්වය ප්‍රදානය කිරීම මෙහිදී සිදු කෙරුණු අතර ජනාධිපතිවරයා සංකේතාත්මකව එම අවස්ථාවට එක් විය.
+The President said he had launched the value of a house when he destroyed her home two years ago, and the program was launched and identified the value.
 
-...
+The President was speaking at the inauguration of 50,000 houses in the 'Rest House' in the Apartments, the first phase of the low income families living in the apartments in Colombo.
+
+The number of houses in 31 Colombo District was presented with the ownership of 130 houses in 31 Colombo District.
+
+The National Housing Development Authority (NHDA) has paid Rs.The first phase of the first phase will be granted under the first phase for 50,000 beneficiary families.
+
+The National Housing Development Authority has planned to provide title deeds to 1070 beneficiaries by the end of this year.
+
+◼️
 
 [Data](articles/7d1606c5.json)
 
+[Extended Data](ext_articles/7d1606c5.ext.json)
+
 ---
 
-### දුම්රිය ස්ථානාධිපති වර්ජනය අඛණ්ඩ වර්ජනයක් වෙයි
+### The Station strike strikes on strike
 
 *2024-07-10 18:21:45* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-ස්ථානාධිපති-වර්ජනය-අඛණ්ඩ-වර්ජනයක්-වෙයි/11-410723) · `si`
 
-දුම්රිය ස්ථානාධිපතිවරුන් සිය වර්ජනය අඛණ්ඩ වර්ජනයක් දක්වා දීර්ඝ කිරීමට තීරණය කර තිබේ. සංඛේත වැඩවර්ජනයක් ක්‍රියාත්මක කරත් අත්‍යාවශ්‍ය සේවාවට මුවාවී දුම්රිය ස්ථානාධිපතිවරුන්ගේ සේවය අත්හිටුවීමට ගත් තීරණයත් සමග ඔවුන් මෙසේ දුම්රිය වර්ජනය අඛණ්ඩව සිදුකිරීමට තීරණය කර තිබේ. එසේම එම වර්ජනය සඳහා උප දුම්රිය ස්ථානාපතිවරුන්ද සහාය දැක්වීමට තීරණය කර තිබේ.
+Railway workers' strike extended indefinitely, suspending services. Strike support from sub-rail advertisements.
+
+🟩
+
+Railway Masters have decided to extend its strike to a continuous strike. They have decided to continue the railway strike to suspend the services of the Status strike.. Sub Rail Railway Advertisements have also been assisted for the strike.
 
 ◼️
 
 [Data](articles/9c14c0c5.json)
+
+[Extended Data](ext_articles/9c14c0c5.ext.json)
 
 ---
 

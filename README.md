@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 21:20:05**
+As of **2024-07-10 21:35:17**
 
 ## Newspaper Stats
 
-*Scraped **34,651** Articles*
+*Scraped **34,653** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,64 @@ newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,049
 dailyftlk | 2,168
-adalk | 3,123
+adalk | 3,124
 adaderanalk | 3,985
 tamilmirrorlk | 4,130
 dailymirrorlk | 4,733
 virakesarilk | 5,415
-adaderanasinhalalk | 5,765
+adaderanasinhalalk | 5,766
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,637 (100.0%) of 34,651 articles have been extended.
+34,651 (100.0%) of 34,653 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### கடும் நெரிசல் ; ரயிலிலிருந்து தவறி விழுந்து ஒருவர் உயிரிழப்பு
+### ක්ලබ් වසන්තගේ ඝාතකයන් අතින් මරු දුටු නයන වාසුල
+
+*2024-07-10 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198684) · `si`
+
+සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඝාතනයේ වෙඩික්කරුවන් අතින් වෙඩිවැදී මියගිය 38 හැවිරිදි නයන වාසුල විජේරත්නගේ දේහය මාලඹේ ප්‍රදේශයේ පිහිටි පෞද්ගලික මල්ශාලාවක තැන්පත්කර තිබුණි.
+
+ඔහු මෙම සිදුවීමෙන් තුවාල ලබා රෝහල්ගතව ප්‍රතිකාර ලබන ප්‍රසිද්ධ ගායන ශිල්පිනී කේ. සුජීවාගේ නිත්‍යානුකූල ස්වාමිපුරුෂයා වන අතර ඔහුගේ දේහය භාරගෙන තිබුණේ ඇයගේ දියණියන් විසිනි.
+
+නයන වාසුල වසර 20ක් පමණ ගම්පහ මහානාම හිමියන් නමින්  පැවිදි දිවියක් ගතකළ අයෙකු වන අතර එවක විචිත්‍ර ධර්ම කථිකයෙකු ලෙසද ප්‍රචලිතව තිබුණි.
+
+පැවිදි දිවියට සමුදී 2021 වසරේ ප්‍රසිද්ධ ගායන ශිල්පිනී කේ. සුජීවා සමඟ විවාහ දිවියට එලැඹ ඇති අතර ඔහු එදින ටැටූ ආයතනය විවෘත කිරීමේ අවස්ථාවට එක්ව තිබුණේ ඒ සඳහා ඇයට ලැබුණු ඇරියුමට අනුවය.
+
+ඔහු සමග එකම දිනයක පැවිදි දිවියට ඇතුළුවූ පූජ්‍ය අඹන්පොළ ඥාණතුසිත හිමියන් සිය පැවිදි මිතුරා පිළිබඳව මෙලෙස මතකය ආවර්ජනය කර තිබුණි.
+
+"ඒ කාලේ උන්වහන්සේට මහා ප්‍රසිද්ධියක් ලැබෙන්න පටන් ගත්තා. ඒත් සමග සැප සම්පත් ඇඳී එන්න පටන් ගත්තා. ඒ නිසා පැවිදි ජීවිතයක් ගත කිරීමට තිබූ ඇල්ම ටිකෙන් ටික නැතිවෙලා ගියා."
+
+...
+
+[Data](articles/571cc32a.json)
+
+---
+
+### Heavy congestion;Fell from a train
 
 *2024-07-10 20:52:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடும்-நெரிசல்-ரயிலிலிருந்து-தவறி-விழுந்து-ஒருவர்-உயிரிழப்பு/175-340171) · `ta`
 
-கொழும்பு புறக்கோட்டையில் இருந்து பொல்கஹவெல நோக்கி பயணித்த ரயிலில் இருந்து பயணி ஒருவர் தவறி விழுந்து உயிரிழந்தார்.
+A passenger died after falling from a train between Colombo and Polgahawela due to overcrowding. Despite efforts by railway officials, service disruptions continued amid safety concerns.
 
-ரயில் நிலைய அதிபர்கள் மற்றும் கட்டுப்பாட்டாளர்கள் முன்னெடுத்துள்ள பணிப்புறக்கணிப்பு காரணமாக இன்று காலையும் மாலையும் சில ரயில் சேவைகளே முன்னெடுக்கப்பட்டன.
+🟩
 
-அவற்றில் பெருமளவான பயணிகள் கடும் நெரிசலுக்கு மத்தியில் பயணித்து வரும் நிலையிலேயே இந்த உயிரிழப்பு ஏற்பட்டுள்ளது. R
+A passenger fell from a train traveling from Colombo to Polgahawela.
+
+Due to the workforce carried out by railway principals and regulators, some train services were carried out this morning and evening.
+
+The deaths occurred as a large number of passengers travel in the midst of heavy congestion.. Remble
 
 ◼️
 
 [Data](articles/da037e59.json)
+
+[Extended Data](ext_articles/da037e59.ext.json)
 
 ---
 
@@ -192,6 +220,24 @@ The passenger had fallen from Fort to Polgahawela.
 
 ---
 
+### තමන්ට එරෙහි විමර්ශන වළක්වන්නැයි පියුමිගෙන් පෙත්සමක්
+
+*2024-07-10 19:08:59* · [`adalk`](https://www.ada.lk/breaking_news/තමන්ට-එරෙහි-විමර්ශන-වළක්වන්නැයි-පියුමිගෙන්-පෙත්සමක්/11-410726) · `si`
+
+කෙටි කාලයක් තුළ නීති විරෝධී හා සැක කටයුතු අන්දමින් රුපියල් කෝටි ගණනක දේපළ හා මුදල් උපයා ගත් බව කියමින් රහස් පොලිසියේ නීති විරෝධී වත්කම් විමර්ශන කොට්ඨාශය තමන්ට එරෙහිව කරන විමර්ශන කටයුතු වළක්වන ආඥාවක් නිකුත් කරන්නැයි ඉල්ලමින් නිරූපණ ශිල්පි පියුමි හංසමාලී අභියාචනාධිකරණයට රීට් පෙත්සමක් අද (10) ගොනු කළාය.
+
+මෙම පෙත්සම විභාග කර තීන්දුවක් දෙනතුරු තමන්ට එරෙහිව රහස් පොලිසිය කරන විමර්ශන කටයුතු කටයුතු වළකාලන ලෙසද පියුමි හංසමාලිී අභියාචනාධිකරණයෙන් ඉල්ලීමක්ද කළාය.
+
+නිරූපණ ශිල්පී පියුමී හංසමාලි නමැත්තිය ගොනු කර ඇති පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් පොලිස්පතිවරයා, රහස් පොලිසියේ අධ්‍යක්ෂකවරයා, නීති විරෝධී වත්කම් විමර්ශන කොට්ඨාසයේ අධ්‍යක්ෂකවරයා හා එහි ස්ථානාධිපතිවරයා  ඇතුළු පිරිසක් නම් කර ඇත.
+
+නීතිඥ සංජීව ඇන්තනී මහතා මාර්ගයෙන් සිය පෙත්සම ඉදිරිපත් කරන පියුමී හංසමාලි නමැත්තිය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නීති විරෝධී වත්කම් විමර්ශන කොට්ඨාසය තමන්ට එරෙහිව නීති විරෝධී හා සැක කටයුතු අන්දමින් රුපියල් කෝටි ගණනක දේපළ හා මුදල් උපයා ගත් බව කියමින් විමර්ශනයක් ආරම්භ කර ඇතැයි දැනුම් දුන්නාය.
+
+...
+
+[Data](articles/a24da8d5.json)
+
+---
+
 ### One dies after falling off the train
 
 *2024-07-10 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188167) · `ta`
@@ -236,19 +282,25 @@ The Cabinet has granted permission to import 250 buses and 750 van vehicles in t
 
 ---
 
-### தெரிவு செய்யப்பட்ட தோட்டப் பாடசாலைகளுக்கு 60 ஸ்மாட் வகுப்பறைகள் !
+### 60 smart classrooms for selected estate schools!
 
 *2024-07-10 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/188164) · `ta`
 
-நுவரெலியா, கண்டி மற்றும் பதுளை போன்ற மாவட்டங்களில் தெரிவு செய்யப்பட்ட தோட்டப் பாடசாலைகளில் 60 'ஸ்மார்ட்' வகுப்பறைகளை நிர்மாணிப்பதற்கு அரசாங்கம் தீர்மானித்துள்ளது.
+The government plans to build 60 smart classrooms in plantation schools across Nuwara Eliya, Kandy, and Badulla districts, funded by both the Government of India and Sri Lanka. This decision was made during a cabinet meeting on December 12, 2012, aiming to enhance education quality through an MoU with India. The project faces practical challenges, with several departments including the Indian High Commission and the Ministry of Education involved in its implementation.
 
-இந்திய அரசின் நிதியுதவியுடனும், இலங்கை அரசின் ஒத்துழைப்புடனும் நுவரெலியா, கண்டி மற்றும் பதுளை போன்ற மாவட்டங்களில் தெரிவு செய்யப்பட்ட தோட்டப் பாடசாலைகளில் உயர்தர வகுப்புக்களுக்கான 60 'ஸ்மார்ட்' வகுப்பறைகளை நிர்மாணிக்கும் கருத்திட்டத்தை நடைமுறைப்படுத்துவதற்காக இந்திய அரசுடன் புரிந்துணர்வு ஒப்பந்தத்தை மேற்கொள்வதற்காக 2023.12.18 ஆம் திகதி இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+🟩
 
-குறித்த கருத்திட்டத்தை உயர்தர மாணவர்களை மாத்திரம் இலக்காகக் கொண்டு அமுல்படுத்துவதில் நடைமுறைச் சிக்கல்களைக் கருத்தில் கொண்டு, குறித்த மட்டுப்பாட்டை நீக்குவதற்கு இந்திய உயர்ஸ்தானிகராலயம், கல்வி அமைச்சு, வெளிநாட்டு வளங்கள் திணைக்களம் மற்றும் தேசிய வரவ செலவுத்திட்டத் திணைக்களத்தின் அதிகாரிகளுடன் இடம்பெற்ற கலந்துரையாடலில் தீர்மானிக்கப்பட்டுள்ளது.
+The government has decided to construct 60 'smart' classrooms in selected plantation schools in the districts of Nuwara Eliya, Kandy and Badulla.
+
+The Cabinet meeting held on 2023.12.12.12.12.12.12.12.2012 to make a Memorandum of Understanding (MoU) with the Government of India to implement the construction of 60 'smart' classrooms for high -quality classes in plantation schools selected in Nuwara Eliya, Kandy and Badulla districts with the funding of the Government of India and the Government of Sri Lanka.
+
+Considering the practical issues in implementing the project, the Indian High Commission, the Ministry of Education, the Department of Foreign Resources, the Department of Foreign Resources, and the Department of National Bureau of Investigation have been decided.
 
 ...
 
 [Data](articles/96ff14d7.json)
+
+[Extended Data](ext_articles/96ff14d7.ext.json)
 
 ---
 
@@ -358,6 +410,8 @@ Minister of Estate Infrastructure Jeevan Thondaman has said that despite new sch
 
 [Data](articles/fbce6296.json)
 
+[Extended Data](ext_articles/fbce6296.ext.json)
+
 ---
 
 ### Seven suspects in the murder remanded till 22nd
@@ -449,6 +503,8 @@ Sri Lanka’s Treasury bill yields fell across maturities at Wednesday’s aucti
 ◼️
 
 [Data](articles/3333308b.json)
+
+[Extended Data](ext_articles/3333308b.ext.json)
 
 ---
 
@@ -652,6 +708,8 @@ Sampath Bank Plc brought in Rs27mn to the turnover, and the share closed up at 7
 
 [Data](articles/cc3ebaa6.json)
 
+[Extended Data](ext_articles/cc3ebaa6.ext.json)
+
 ---
 
 ### Russia's attack while surgery for a child
@@ -845,6 +903,8 @@ The 12-month bills fell 10 basis points to 10.21 percent, with all offered 35 bi
 ◼️
 
 [Data](articles/58dd6ec6.json)
+
+[Extended Data](ext_articles/58dd6ec6.ext.json)
 
 ---
 
@@ -1106,6 +1166,8 @@ The government announced on Tuesday that it would grant a special pay increment 
 
 [Data](articles/b20df6b4.json)
 
+[Extended Data](ext_articles/b20df6b4.ext.json)
+
 ---
 
 ### National Transport Commission to give more power
@@ -1350,6 +1412,8 @@ Although the Cabinet had approved the import of 1,000 vehicles (250 buses and 75
 
 [Data](articles/eb599134.json)
 
+[Extended Data](ext_articles/eb599134.ext.json)
+
 ---
 
 ### Welfare receives 90 more ambulance free of charge
@@ -1432,6 +1496,8 @@ The SJB will be fielding its own presidential candidate, the MP said, and will b
 
 [Data](articles/6bebfb04.json)
 
+[Extended Data](ext_articles/6bebfb04.ext.json)
+
 ---
 
 ### Today's currency exchange rate
@@ -1496,6 +1562,8 @@ The drafted bill is then sent to the Attorney General and re-submitted to the Ca
 
 [Data](articles/3008ad51.json)
 
+[Extended Data](ext_articles/3008ad51.ext.json)
+
 ---
 
 ### Sri Lanka to revive senior citizen interest subsidies?
@@ -1513,6 +1581,8 @@ Sri Lanka’s 12 month fixed deposit rate was 15.09 percent in June 2023 and hea
 ...
 
 [Data](articles/ab469deb.json)
+
+[Extended Data](ext_articles/ab469deb.ext.json)
 
 ---
 
@@ -2064,6 +2134,8 @@ For more detailed information, please refer to the tsunami advisory
 
 [Data](articles/d722e0ab.json)
 
+[Extended Data](ext_articles/d722e0ab.ext.json)
+
 ---
 
 ### Fire breaks out at National Library
@@ -2191,51 +2263,5 @@ The Navy added that the five suspects, fishing boat and birds and reptiles have 
 [Data](articles/dc00bde1.json)
 
 [Extended Data](ext_articles/dc00bde1.ext.json)
-
----
-
-### Jayawica returns to the development of Katunayake airport
-
-*2024-07-10 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198665) · `si`
-
-Japan will resume work on the second terminal at Bandaranaike Airport, funded by a relief loan, as part of Jayawica's efforts to develop Katunayake airport.
-
-🟩
-
-Japan has agreed to resume the development activities of the second terminal at Bandaranaike Airport at the Bandaranaike Airport.
-
-Airport and Ports Minister Nimal Siripala de Silva said that the project is scheduled to be done under a relief loan.
-
-◼️
-
-[Data](articles/007e3453.json)
-
-[Extended Data](ext_articles/007e3453.ext.json)
-
----
-
-### Mother arrested for handing over 3 children
-
-*2024-07-10 10:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/3-குழந்தைகளை-ஒப்படைத்த-தாய்-கைது/76-340136) · `ta`
-
-A mother was arrested by Hatton Police after surrendering her three children, aged 8, 6, and 4, to the Women's Bureau. She then attempted to leave but was detained at the railway station. The children were later returned to their father. The mother, suffering from depression due to marital issues, was hospitalized.
-
-🟩
-
-The mother, who handed over the three children to the police, handed over the children and went to the railway station, where the police arrested and admitted to the hospital.
-
-Hatton Police Bureau Officers arrested the mother of three children who tried to get rid of the Hatton Police Bureau after handing over the three children to the Women's Bureau.
-
-The mother of three children from the Hatton-Dikoya area has come to the Hatton Police and handed over three children, including two male children and a woman, aged 08, 06 and 4.
-
-Hatton Police Women's Bureau Officers scolded and put three children at the police station and tried to go to the train station.. The police handed over the three children to the father.
-
-The mother of three children who have been depressed, she (28) is continuing to quarrel with her husband in Colombo area, police said.
-
-...
-
-[Data](articles/489ca1ad.json)
-
-[Extended Data](ext_articles/489ca1ad.ext.json)
 
 ---

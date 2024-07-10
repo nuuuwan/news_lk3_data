@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 09:20:00**
+As of **2024-07-10 09:35:32**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,744
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,524 (100.0%) of 34,527 articles have been extended.
+34,527 (100.0%) of 34,527 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### பல ரயில் சேவைகள் இரத்து!
+### Many train services are canceled!
 
 *2024-07-10 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188094) · `ta`
 
-பல்வேறு கோரிக்கைகளை முன்வைத்து ரயில் நிலைய அதிபர்கள் மேற்கொண்டுள்ள  வேலைநிறுத்தப் போராட்டத்தினால் பல ரயில் சேவைகள் இரத்து செய்யப்பட்டன.
+Due to a railway workers' strike, many train services are canceled except for specific routes. The government considers transport services essential, making the strike illegal and leading to potential disciplinary actions against non-working employees.
 
-எவ்வாறாயினும், கொழும்பு கோட்டையிலிருந்து நீர்கொழும்பு மற்றும் வெயாங்கொடைக்கு தலா இரண்டு ரயில்களும், பொல்கஹவெலயிலிருந்து கோட்டைக்கு இரண்டு ரயில்களும், காலியிலிருந்து கோட்டைக்கு மூன்று ரயில்களும், அளுத்கமவிலிருந்து கோட்டைக்கு ஒரு ரயிலும் இயக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாக ரயில் திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-போக்குவரத்து சேவைகள் அத்தியாவசிய சேவைகளாக அறிவிக்கப்பட்டுள்ள நிலையில், ரயில் நிலைய அதிபர்களின் வேலைநிறுத்தம் போராட்டம் சட்டவிரோதமானது, இதன் காரணமாக பணிக்கு வராத ஊழியர்கள் மீது ஒழுங்கு நடவடிக்கை எடுக்கப்படுமென போக்குவரத்து அமைச்சக செயலாளர் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+Several rail services were canceled due to the strike action by the railway principals on various demands.
+
+However, two trains from Colombo Fort to Negombo and Veyankoda, two trains from Polgahawela to Fort, three trains from Galle Fort to Fort and one train from Aluthgama to Fort.
+
+As the transport services have been declared as essential services, the strike action of the railway principals is illegal, resulting in disciplinary action against employees who do not work, the Secretary of the Transport has said.
 
 ◼️
 
 [Data](articles/d24791bd.json)
+
+[Extended Data](ext_articles/d24791bd.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ Additionally, Mr. Ekanayake pointed out the example from 2016 when President Mai
 ...
 
 [Data](articles/d1ad782b.json)
+
+[Extended Data](ext_articles/d1ad782b.ext.json)
 
 ---
 
@@ -1452,23 +1460,37 @@ The Department of Examinations said that the time of applying for any reason wou
 
 ---
 
-### ක්ලබ් වසන්ත ඝාතනයේ තවත් තොරුතුරු එළියට
+### Another information of Club Wasantha murder
 
 *2024-07-09 19:25:00* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතනයේ-තවත්-තොරුතුරු-එළියට/11-410704) · `si`
 
-අතුරුගිරිය ටැටු මධ්‍යස්ථානයේදී ව්‍යාපාරිකයෙකු වන සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත සහ තවත් පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන්   පුද්ගලයන් 7 කු පමණ මේ වනවිට  අත්අඩංගුවට ගෙන ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+In the Club Wasantha murder case, seven individuals were arrested from the Athurugiriya TATTO center, including its owner. The suspects used a van, linked to a previous incident involving a committee, and were seen with a young girl. Investigations uncovered six palms and fingerprints in the van, suggesting they might have traveled to Achugama, Ratnapura, or Kalana, Ratnapura. The motive remains unclear, with speculation around a contract killing. Victims include teacher Karthi Karchi, Club Wasantha's wife, and others injured. The shooters are believed to have fled the scene.
 
-එම පිරිස අතර ටැටූ මධ්‍යස්ථානයේ හිමිකරු, මෝටර් රථය සහ වෑන් රථය ලබා දුන් පුද්ගලයන් රැගෙන ආ පුද්ගලයන්ද වන බව එම නිලධාරියා කීය.
+🟩
 
-එම ඝාතනය ඩුබාහි සැඟව සිටින ලොකු පැටි හා ගොනා කෝවිලේ ශාන්ත නැමැති අපරාධකරුවන් දෙදෙනා සෘජුවම එක්ව සැලසුම් සහගතව සිදුකළ ඝාතනයක් බවට පොලිසියේ මේ වන විට අනාවරණය කරගෙන ඇත.
+A businessman has arrested about 7 persons have been arrested in the Athurugiriya Tall Center.
 
-වෙඩික්කරුවන් දෙදෙනා සිදුකළ එම වෙඩි ප්‍රහාරයෙන් ප්‍රසිද්ධ ගායන ශිල්පිනි කේ. සුජීවා, ක්ලබ්  වසන්තගේ බිරිද හා තවත් පිරිමි පුද්ගලයෙක් හා කාන්තාවක් තුවාල ලැබීය.
+The official said that between the group, the TATTO center, the owner, the car and the van were brought.
 
-වෙඩික්කරුවන් පැමිණි මෝටර් රථය  කොරතොට ප්‍රදේශයේ අත්හැර දමා  බුලත්සිංහල පොලිස් බල ප්‍රදේශයේ  ප්‍රදේශයේ  පාළු නිවසක් ආසන්නයේ වංගුවක් සහිත ස්ථානයක අත්හැර ගොස් තිබියදී පෙරේදා රාත්‍රී බුලත්සිංහල පොලිසිය මගින් සොයා ගැනිනි.
+The assassination has been revealed in the police that the two criminals named where the large censorship and the victim of Hidden hide in Duba.
+
+Teacher Karchi Karchi, who made the shooting of the two shooters. Sujeewa, Club Wasantha's wife and another men were wounded.
+
+The vehicle was abandoned by the vehicle of the Koratota area in the Bulathsinhala Police, the Bulathsinhala police.
+
+According to the police, it has been noted that the Dolphs Van, which is pasted in the glass of the front left to the front left.
+
+Police say the van was the carses of the carses of a committee about a week ago.
+
+Investigations have been found in investigations into six palm and fingerprints in the van.
+
+The police suspect that the people of the van rose in a bus to come across Achugama, Ratnapura or Kalana, Ratnapura.
 
 ...
 
 [Data](articles/f91d26e6.json)
+
+[Extended Data](ext_articles/f91d26e6.ext.json)
 
 ---
 

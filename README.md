@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 14:07:16**
+As of **2024-07-10 14:19:44**
 
 ## Newspaper Stats
 
@@ -26,51 +26,69 @@ adaderanasinhalalk | 5,755
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,577 (100.0%) of 34,583 articles have been extended.
+34,583 (100.0%) of 34,583 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### ජනපති ධුර කාලය සහ පාර්ලිමේන්තු කාලය ගැන ආ යෝජනාව
+### The proposal of presidency and Parliamentary Parliamentary
 
 *2024-07-10 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198671) · `si`
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 83 (ආ) ව්‍යවස්ථාව සංශෝධනය කිරීම සඳහා "ආණ්ඩුක්‍රම ව්‍යාවස්ථා සංශෝධනය පනත් කෙටුම්පතක්" සකස් කිරීම පිණිස ඉදිරිපත්කළ යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය ලැබී තිබේ.
+The Cabinet-approved proposal aims to amend the Constitution, specifically Article 62(2) and 83(b). It seeks to modify wording related to presidential tenure, proposing changes to terms like "exceeding a five-year period." This amendment is part of a broader effort to clarify and adjust the Constitution's language regarding presidential eligibility and term limits.
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 30(02), 62(2) සහ 83(ආ) යන ව්‍යවස්ථාවන් හි ජනාධිපතිවරයාගේ ධුර කාලය සහ පාර්ලිමේන්තුව පවත්නා කාලය සම්බන්ධයෙන් අනනුකූලතාවක් පවතින බව නිරික්ෂණය වී ඇතැයි රජයේ මතය බව අදාළ යෝජනාවේ සඳහන් වෙයි.
+🟩
 
-ඒ පිළිබඳව වන සැකය මඟ හරවා ගැනීම සහ කවර හෝ අනනුකූලතාවයක් ඉවත් කිරීමට "සාවුරුද්දක් ඉක්මවා" යන වචනය වෙුනවෙන් "පස් අවුරුද්දක් ඉක්මවා" යන වචනය ආදේශ කිරීම මගින් ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 83(ආ) ව්‍යවස්ථාව සංශෝධනය කිරීම සඳහා ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පනත් කෙටුම්පතක් සකස් කිරීම පිණිස ජනාධිපතිවරයා විසින් එම යෝජනාව ඉදිරිපත් කර තිබේ.
+The proposal made by the Cabinet approval has been approved by the proposal made by the Constitution of the Constitution to amend the Constitution.
+
+The proposal states that there is an inception that the President of the Constitution of the Constitution, 62 (2) and 83 (b), the proposal is stated that there is an inception.
+
+The Constitution, which exceeds the word "turning out", the word "exceeding a five-year 'to remove the word" exceeding the word "the word" exceeding the word "the word" exceeding a five-year ", the Constitution is the President to create a constitutional ambratse bill to amend the word" over a five-year ".The proposal is presented.
 
 ◼️
 
 [Data](articles/97bdfcf0.json)
 
+[Extended Data](ext_articles/97bdfcf0.ext.json)
+
 ---
 
-### ஜனாதிபதி, பாராளுமன்ற பதவிக்காலத்தை திருத்த அனுமதி
+### President, allowed to revise the post of Parliament
 
 *2024-07-10 13:49:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-பாராளுமன்ற-பதவிக்காலத்தை-திருத்த-அனுமதி/175-340156) · `ta`
 
-ஜனாதிபதி மற்றும் பாராளுமன்ற பதவிக்காலம் தொடர்பாக இலங்கை அரசியல்யாப்பில் நிலவும் தெளிவின்மையை நீக்க அமைச்சரவை அனுமதி வழங்கியுள்ளது.
+The Sri Lankan Cabinet has approved changes to clarify the presidential and parliamentary terms in the constitution, allowing the President to propose a term length of "more than six years."
 
-இதன்படி அரசியல் யாப்பில் ஜனாதிபதி மற்றும் பாராளுமன்ற பதவிக் காலம் தொடர்பாகக் குறிப்பிடப்பட்டுள்ள 'ஆறு ஆண்டுகளுக்கு மேல்' என்ற சொற்றொடருக்குப் பதிலாக ஐந்து ஆண்டுகளுக்கு மேல் என்ற சொற்றொடரை இணைக்க ஜனாதிபதி முன்வைத்த யோசனைக்கு
+🟩
+
+The Cabinet has granted permission to eliminate the clarity in the Sri Lankan constitution on the president and parliamentary term.
+
+Accordingly, the President's proposal to incorporate the phrase 'more than six years', which has been referred to the president and parliamentary term in the Constitution.
 
 ◼️
 
 [Data](articles/cf11836a.json)
 
+[Extended Data](ext_articles/cf11836a.ext.json)
+
 ---
 
-### சஜித்துடன் இணைந்தார் டளஸ்
+### Tolus joined Sajith
 
 *2024-07-10 13:40:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-இணைந்தார்-டளஸ்/175-340155) · `ta`
 
-பாராளுமன்ற உறுப்பினர் டலஸ் அழகப்பெரும தலைமையிலான நிதஹாச ஜனதா சபாவ (NJS) ஐக்கிய மக்கள் சக்தியுடன் (SJB)   கூட்டணி அமைக்கும் முடிவை அறிவித்துள்ளது. பாராளுமன்ற உறுப்பினர் பேராசிரியர் சரித ஹேரத் இதை உறுதிப்படுத்தினார்.
+Tolus has joined forces with Sajith Nidahasa Janata Sabha (NJS) under MP Dullas Alahapperuma, forming a coalition with the United People's Power (SJB). This move was confirmed by Parliamentarian Professor Saritha Herath.
+
+🟩
+
+Nidahasa Janata Sabha (NJS), led by Member of Parliament Dullas Alahapperuma, has announced the decision to form a coalition with the United People's Power (SJB). Parliamentarian Professor Saritha Herath confirmed this.
 
 ◼️
 
 [Data](articles/8a00000d.json)
+
+[Extended Data](ext_articles/8a00000d.ext.json)
 
 ---
 
@@ -310,21 +328,29 @@ The announcement was made on Wednesday by railway principals and train regulator
 
 ---
 
-### අධිවේගයට ලැබිය යුුතු ආදායම්වලින් ලක්ෂ ගණනක් වතුරේ
+### In water, millions of income received by the highway
 
 *2024-07-10 12:19:26* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගයට-ලැබිය-යුුතු-ආදායම්වලින්-ලක්ෂ-ගණනක්-වතුරේ/11-410713) · `si`
 
-අධිවේගී මාර්ගයේ අන්තර් හුවමාරු වෙත නිසි අයුරින් ප්‍රමාණවත් මුදල් අයකැමිවරුන් යෙදීමට බලධාරීන් අවශ්‍ය පියවර නොගැනීම හේතුවෙන් ඇතැම් වාහන රියදුරන්ගෙන් ටිකට් පත් සඳහා අය කෙරෙන මුදල් නිසි පරිදි  අය කර ගැනීමට නොහැකිව  දිනෙන් දින රුපියල් ලක්ෂ ගණනින් පාඩුවක් ලබන බව මාර්ග සංවර්ධන අධිකාරී අභ්‍යන්තර ආරංචි මාර්ග සඳහන් කරයි
+The Road Development Authority struggles to collect ticket revenue from the Expressway due to issues like cash fraud and employee shortages. The COPE Committee highlighted significant financial irregularities, including misuse of funds and improper management. Despite efforts to address these issues, there remains a lack of transparency and accountability, affecting the authority's ability to manage its resources effectively.
 
-කොළඹ පිටත වටරවුම් මාර්ගයේ අතුරුගිරිය අන්තර් හුවමාරු මධ්‍යස්ථානයේ  වසර ගණනාවක සිට සිදුවූ බව කියන මහා පරිමාණ මුදල් වංචාව සම්බන්ධයෙන් කෝප් කමිටුවේද නිර්දේශ මත ප්‍රධාන මුදල් අය කැමී ඇතුළු අය කැමිවරුන් 22 කුගේ වැඩ තහනම්  කිරීමට පාලනාධිකාරිය විසින් කටයුතු කරනු ලැබුවේ ඉකුත්  මස 24 වෙනිදින ය.
+🟩
 
-වැඩ තහනමට ලක් කරනු ලැබූ එකි සේවක පිරිසගේ වැඩ ආවරණය කිරීම සඳහා  ගැලනිගම, බෙලිඅත්ත  හා මාගම්පුර  කාර්යාල වල අතිරික්තව සිටින සේවකයන් අනුයුක්ත කරන ලෙසද කෝප් කමිටුව විසින් වැඩිදුරටත් දන්වන ලදී
+Road Development Authority (PS) sources said that the authorities are not able to recover the money for the tickets from the Expressway to be used due to the interchange of goods.
 
-වැඩ තහනම ක්‍රියාත්මක කෙරුණද අතිරේකව සිටින විශාල සේවක පිරිස එම අන්තර් හුවමාරු  මධ්‍යස්ථානයට සහ අනෙකුත් ස්ථානවලට නිසි අයුරින් කඩිනමින් ස්ථානගත ගත කරන ලෙසද කෝප් කමිටුවේ දි උපදෙස් ද ලබා දී තිබිණි
+The administration of the Coope Committee was banned by the Chief Preference to the Capital Fiscal Cashy, which was the major cash fraud that had taken place in the Interchange Center at the Interchange Center in the Outer Circular Trace Center.
+
+The COPE Committee further stated that the gandings, Beliatta and Magampura offices to cover the work of the work were to cover the work of the employees.
+
+The COPE has instructed the COPE and other places in addition to the interchange center and other places in addition to the additional supply.
+
+In addition, the COPE has questioned that the employee shortage of the Peliyagoda EndCommittee Chairman ordered the Secretary to the Secretary and the Chairman
 
 ...
 
 [Data](articles/46bf2030.json)
+
+[Extended Data](ext_articles/46bf2030.ext.json)
 
 ---
 
@@ -492,19 +518,25 @@ Uttar Pradesh Chief Minister Yogi Adityanath has expressed his condolences to th
 
 ---
 
-### ලංකා සතොස භාණ්ඩ වර්ග 4ක මිල අඩුකරයි
+### Lanka Sathosa reduces 4 types of prices
 
 *2024-07-10 11:24:05* · [`adalk`](https://www.ada.lk/breaking_news/ලංකා-සතොස-භාණ්ඩ-වර්ග-4ක-මිල-අඩුකරයි/11-410710) · `si`
 
-මහජනතාවට සහන සැපයීමේ අරමුණින් ලංකා සතොස ආයතනය මඟීන් ලබා දෙන අත්‍යවශ්‍ය පාරිභෝගික භාණ්ඩ කිහිපයක් මිල අඩු කිරීමට පියවර ගෙන තිබේ.
+Ceylon Sathosa lowers prices on essential goods, including imported items, effective today, providing public relief.
 
-ඒ අනුව මුං ඇට කිලෝවක් රුපියල් 998.00 ක් දක්වා, ආනයනික අර්තාපල් කිලෝවක් රුපියල් 205.00 ක් දක්වා, දුඹුරු සීනි කිලෝවක් රුපියල් 375.00 ක් දක්වා සහ සුදු සීනි කිලෝවක් රුපියල් 263.00 ක් දක්වා වශයෙන් භාණ්ඩ වල මිල අඩු කිරීමට පියවර ගෙන ඇත.
+🟩
 
-අඩු කළ මිල ගණන් යටතේ අද (10) සිට මෙම භාණ්ඩ පාරිභෝගිකයින්ට මිල දී ගැනීමට හැකිය.
+Ceylon Sathosa has taken steps to reduce several essential consumer goods to provide relief to the public.
+
+Accordingly, a kilo of imports of imports of imports to Rs.
+
+These items can be purchased from today (10) to reduced prices.
 
 ◼️
 
 [Data](articles/69f1a248.json)
+
+[Extended Data](ext_articles/69f1a248.ext.json)
 
 ---
 
@@ -802,21 +834,29 @@ After Sri Lanka declared bankruptcy due to the economic crisis, the concessional
 
 ---
 
-### மலேசியா உயர் கல்வி அமைச்சரிடம் ஆளுநர் வேண்டுகோள்
+### Governor appeals to Malaysia Higher Education Minister
 
 *2024-07-10 10:25:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/மலேசியா-உயர்-கல்வி-அமைச்சரிடம்-ஆளுநர்-வேண்டுகோள்/75-340133) · `ta`
 
-மலேசியாவுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் மலேசியா உயர் கல்வி அமைச்சர் ஷாம்ப்ரி அப்துல் காதிரை சந்தித்து இலங்கைக்கும் மலேசியாவுக்குமான கூட்டுத்திட்டம் குறித்து கலந்துரையாடினார்.
+During his visit, Eastern Provincial Governor Senthil Thondaman met Malaysia's Higher Education Minister Shampri Abdul Qadir to discuss enhancing educational ties between Sri Lanka and Malaysia. It was agreed that over 3800 Sri Lankan students studying in Malaysia could stay for four more years post-degree completion. Additionally, there's interest in launching Malay language courses in Sri Lanka and fostering educational exchanges between both countries. Parliamentarian Datosree Saravanan Murugan and Sri Lanka's Ambassador to Malaysia, Sumangala Dias, were also part of the discussions.
 
-மலேசியாவில் உயர்கல்வி கற்கும் 3800 யிற்கும் மேற்பட்ட இலங்கை மாணவர்கள் தற்போதைய சட்டத்தின் படி ஒவ்வொரு இரண்டு வருடங்களுக்கும் இலங்கைக்கு திரும்பி  விசாவைப் புதுப்பிக்கும் நிலை காணப்படுகிறது.
+🟩
 
-ஆதலால் அவர்களின் பட்டப்படிப்பை நிறைவு  செய்யும் காலமான   4 வருடங்களுக்கு விசா காலத்தை அதிகரித்து தருமாறு மலேசியா உயர் கல்வி அமைச்சர் ஷாம்ப்ரி அப்துல் காதிரிடம் ஆளுநர் வேண்டுகோள் விடுத்தார். ஆளுநரின் வேண்டுகோளுக்கு இணங்க அமைச்சர் அதற்கான நடவடிக்கை யை மேற்கொள்ள நடவடிக்கை மேற்கொள்வதாக தெரிவித்தார்.
+Eastern Provincial Governor Senthil Thondaman, who is on an official visit to Malaysia, met Malaysia Higher Education Minister Shampri Abdul Qadir and discussed the joint venture for Sri Lanka and Malaysia.
 
-மேலும், இலங்கையில் இருந்து மலேசியாவிற்கு செல்லும் மாணவர்கள் மற்றும் தொழிலாளர்களுக்கு மலாய் மொழிக்கான பயிற்சியை இலங்கையில் ஆரம்பிப்பது குறித்தும் கலந்துரையாடப்பட்டதுடன், மலேசியாவிற்கும் இலங்கைக்குமான  கல்வி தொடர்பான கூட்டு பரிமாற்ற திட்டங்கள் குறித்தும் கலந்துரையாடப்பட்டது.
+More than 3800 Sri Lankan students of higher education in Malaysia will return to Sri Lanka every two years and renew the visa every two years.
 
-...
+Malaysia's Higher Education Minister Shampri Abdul Qadir has requested the Governor to increase the visa period for four years after completing their degree.. At the request of the Governor, the Minister said that steps would be taken to take action.
+
+In addition, students and workers from Sri Lanka to Malaysia were discussing the launch of Malay language training in Sri Lanka and the joint exchange of education on Malaysia and Sri Lanka.
+
+Parliamentarian Datosree Saravanan Murugan and Sri Lanka Ambassador to Malaysia Sumangala Dias were also present at the meeting.
+
+◼️
 
 [Data](articles/89498180.json)
+
+[Extended Data](ext_articles/89498180.ext.json)
 
 ---
 

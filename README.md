@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 23:55:19**
+As of **2024-07-11 00:08:42**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,659 (100.0%) of 34,660 articles have been extended.
+34,660 (100.0%) of 34,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### அத்துருகிரிய சம்பவம் - 7 பேருக்கு விளக்கமறியல்
+### Athurukiriya incident - 7 people explanation
 
 *2024-07-10 23:28:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துருகிரிய-சம்பவம்-7-பேருக்கு-விளக்கமறியல்/175-340186) · `ta`
 
-அத்துருகிரிய துப்பாக்கிச் சூட்டு சம்பவம் தொடர்பில் கைது செய்யப்பட்ட சந்தேகநபர்கள் 7 பேரும் எதிர்வரும் 22ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+Seven suspects, aged 24 to 37 from various areas, were arrested for the murder of Surendra Vasantha Perera, also known as Club Vasantha, at Athurugiriya. They were remanded until the 22nd of this month and appeared before the Kaduwela Magistrate's Court.
 
-அத்துருகிரிய சந்தியில் பச்சை குத்தும் நிலையத்தில் கிளப் வசந்த என்ற சுரேந்திர வசந்த பெரேரா என்பவரைக் கொலை செய்த சம்பவம் தொடர்பில் கைது செய்யப்பட்ட 07 சந்தேகநபர்களும் இன்று காலை கடுவல நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்டனர்.
+🟩
 
-சந்தேகநபர்கள் அஹுங்கல்ல, பலப்பிட்டிய, கணேமுல்ல, அம்பலாங்கொட மற்றும் பெலியத்தர ஆகிய பகுதிகளில் வசிக்கும் 24 முதல் 37 வயதுக்கு இடைப்பட்டவர்கள் என பொலிஸார் தெரிவித்தனர். R
+Seven suspects arrested in connection with the Athurugiriya shooting incident have been remanded until the 22nd of this month.
+
+Seven suspects arrested in connection with the murder of Surendra Vasantha Perera alias Club Vasantha, Club Vasantha at the Athurugiriya junction, were produced before the Kaduwela Magistrate's Court this morning.
+
+The suspects are between the ages of 24 to 37, aged 24 to 37 in Ahungalla, Balapitiya, Ganemulla, Ambalangoda and Beliyathara.. Remble
 
 ◼️
 
 [Data](articles/fc161372.json)
+
+[Extended Data](ext_articles/fc161372.ext.json)
 
 ---
 

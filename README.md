@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 19:53:36**
+As of **2024-07-10 20:05:05**
 
 ## Newspaper Stats
 
-*Scraped **34,630** Articles*
+*Scraped **34,633** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 3,121
 adaderanalk | 3,984
 tamilmirrorlk | 4,129
 dailymirrorlk | 4,733
-virakesarilk | 5,411
+virakesarilk | 5,414
 adaderanasinhalalk | 5,764
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,628 (100.0%) of 34,630 articles have been extended.
+34,630 (100.0%) of 34,633 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### ரைலி ரூசோவ் அபார சதம் குவிப்பு; கலம்போ ஸ்ட்ரைக்ர்ஸை இலகுவாக வென்றது ஜெவ்னா கிங்ஸ்
+
+*2024-07-10 19:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188168) · `ta`
+
+ரங்கிரி தம்புள்ள சர்வதேச விளையாட்டரங்கில் புதன்கிழமை (10) நடைபெற்ற லங்கா பிறீமியர் லீக் கிரிக்கெட் போட்டியில் கலம்போ ஸ்ட்ரைக்கர்ஸ் அணியை ஜெவ்னா கிங்ஸ் 7 விக்கெட்களால் மிகவும் இலகுவாக வெற்றிகொண்டது.
+
+ரைலி ரூசோவ் அதிரடியாக குவித்த சதம் ஜெவ்னா கிங்ஸின் வெற்றியில் முக்கிய பங்காற்றியது. அவிஷ்க பெர்னாண்டோவும் பக்கபலமாகத் துடுப்பெடுத்தாடி அரைச் சதம் பெற்றார்.
+
+கலம்போ ஸ்ட்ரைக்கர்ஸ் அணியினால் நிர்ணயிக்கப்பட்ட 189 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய ஜெவ்னா கிங்ஸ் 18.3 ஓவர்களில் 3 விக்கெட்களை  மாத்திரம் இழந்து 190 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+
+நேற்றைய போட்டியில் சதம் குவித்து அசத்திய பெத்தும் நிஸ்ஸன்க இன்றைய போட்டியில் 6 ஓட்டங்களை மாத்திரம் பெற்றார். (30 - 2 விக்.)
+
+இந் நிலையில் ஜோடி சேர்ந்த ரைலி ரூசோவ், அவிஷ்க பெர்னாண்டோ ஆகிய இருவரும் மிகத் திறமையாகவும் அதிரடியாகவும் துடுப்பெடுத்தாடி 3ஆவது விக்கெட்டில் 64 பந்துகளில் 130 ஓட்டஙகளைப் பகிர்ந்து அணிக்கு தெம்பூட்டினர்.
+
+ரைலி ரூசோவ் 50 பந்துகளில் 10 பவுண்டறிகள், 6 சிக்ஸ்கள் உட்பட 108 ஓட்டங்களுடன் ஆட்டம் இழக்காதிருந்தார்.
+
+...
+
+[Data](articles/b40752ca.json)
+
+---
 
 ### Passenger dies after falling from crowded train
 
@@ -43,6 +65,8 @@ The passenger has reportedly fallen off a train plying from Colombo Fort to Polg
 ◼️
 
 [Data](articles/4543d168.json)
+
+[Extended Data](ext_articles/4543d168.ext.json)
 
 ---
 
@@ -63,6 +87,34 @@ The passenger had fallen from Fort to Polgahawela.
 [Data](articles/633bee19.json)
 
 [Extended Data](ext_articles/633bee19.ext.json)
+
+---
+
+### ரயிலில் இருந்து தவறி விழுந்து ஒருவர் உயிரிழப்பு!
+
+*2024-07-10 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188167) · `ta`
+
+கடும் நெரிசலுக்கு மத்தியில் பாதுகாப்பற்ற வகையில் புகையிரதத்தில் பயணம் செய்த பயணி ஒருவர் புகையிரதத்தில் இருந்து தவறி விழுந்து உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/f09b14a9.json)
+
+---
+
+### வாகன இறக்குமதி தடை நீக்கம் : ஆகஸ்ட் இரண்டாம் வாரத்தில் இறுதி தீர்மானம் - நிதி இராஜாங்க அமைச்சர்
+
+*2024-07-10 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/188166) · `ta`
+
+வாகன இறக்குமதிக்கு விதிக்கப்பட்டுள்ள தடையை நீக்குவது தொடர்பில் இறுதித் தீர்மானம் எதிர்வரும் ஆகஸ்ட் மாதம்  இரண்டாம் வாரம் எடுக்கப்படும். அது தொடர்பில் ஆராய்வதற்காக நியமிக்கப்பட்டிருந்த குழு கடந்த 4ஆம் திகதி கூடியுள்ள நிலையில் அதன் இறுதி அறிக்கை ஆகஸ்ட் மாதம் இரண்டாம் வாரத்தில் அமைச்சரவைக்கு சமர்ப்பிக்கப்படும் என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாப்பிட்டிய தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (10) இடம்பெற்ற  மது வரி கட்டளைச் சட்டம் மற்றும் ஏற்றுமதி,இறக்குமதி கட்டுப்பாட்டுச் சட்டங்கள் குறித்த வர்த்தமானி அறிவித்தல்கள் தொடர்பான விவாதத்தில் உரையாற்றும் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+வாகன இறக்குமதி குறித்து  விசேட கவனம் செலுத்தப்பட்டுள்ளது.குழுவின் அறிக்கைக்கு இணங்க நாட்டின் கையிருப்புக்கு எந்தவித பாதிப்பும் ஏற்படாத வகையில்  மக்களின் முக்கிய தேவைகளுக்கு முக்கியத்துவம் வழங்கி வாகன இறக்குமதியை மேற்கொள்வதற்கு நடவடிக்கை எடுக்க முடியும்  என்று எதிர்பார்த்துள்ளோம்.
+
+...
+
+[Data](articles/7fc86d70.json)
 
 ---
 
@@ -112,19 +164,25 @@ Railway Masters have decided to extend its strike to a continuous strike. They h
 
 ---
 
-### නිසි කලට ජනාධිපතිවරණය පැවැත්වීම ගැන විවාදය හෙට
+### Debate on presidential election tomorrow is tomorrow
 
 *2024-07-10 18:15:44* · [`adalk`](https://www.ada.lk/breaking_news/නිසි-කලට-ජනාධිපතිවරණය-පැවැත්වීම-ගැන-විවාදය-හෙට/11-410722) · `si`
 
-නෛතික ප්‍රතිපාදන අනුව නිසි කාලය තුළ ජනාධිපතිවරණය පැවැත්වීම පිළිබඳව සභාව කල් තැබීමේ විවාදයක් හෙට (11) පැවැත්වීමට අද (10) කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය වූ බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
+Tomorrow's presidential election debate will occur as planned, adhering to constitutional and provincial executive schemes. The debate, originally scheduled for June 17, 2024, will now commence from 10:30 am to 2:30 pm. Additionally, the Welfare Welfare Bill, previously set for discussion tomorrow, has been postponed to the following day.
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාව සහ සෙසු අදාළ නීති මගින් දක්වා ඇති විධානවලට අනුකූලව 2024 සැප්තැම්බර් 17 සිට ඔක්තොම්බර් 16 දක්වා වූ කාල පරිච්ඡේදය තුළ ජනාධිපතිවරණය පැවැත්වීම පිළිබඳව ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක සහ විපක්ෂයේ ප්‍රධාන සංවිධායක ලක්ෂ්මන් කිරිඇල්ල යන මහත්වරු විසින්  ඒකාබද්ධව ගෙනඑනු ලබන යෝජනාවට අනුව මෙම සභාව කල්තැබීමේ විවාදය පැවැත්වීමට නියමිතව ඇත. මේ අනුව හෙට වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්නවලින් අනතුරුව  පෙ.ව 10.30 සිට ප.ව 5.30 දක්වා විවාදය පැවැත්වීමට තීරණය වී තිබේ.
+🟩
 
-එසේම හෙට දිනයේ විවාදයට ගැනීමට නියමිතව තිබූ සත්ව සුබසාධන පනත් කෙටුම්පත ඉදිරි දිනකදී විවාදයට ගැනීමටත් මෙහිදී තීරණය වූ බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය වැඩිදුරටත් පැවසුවාය.
+According to the Parliamentary Secretary General of Parliament Mahinda Yapa Abeywardena has decided to hold the presidential election in due period of time.
+
+According to the proposal of the Constitution and the executive scheme of the provinces, the chief of the National Republic of National Faminity (June 17, 2024) to hold the post of Adjournment DebateIs due. Accordingly, the debate is to be held from 10.30 am to 2:30 am to 2:30 am.
+
+The Secretary General of Parliament Kushani Rohandera added that the Welfare Welfare Bill, which was to be debated tomorrow, was decided to take debate on the next day.
 
 ◼️
 
 [Data](articles/1ab16297.json)
+
+[Extended Data](ext_articles/1ab16297.ext.json)
 
 ---
 
@@ -2181,81 +2239,5 @@ Rail was severely embarrassed by the strike commenced by the Station Masters. Mo
 [Data](articles/cacdf6df.json)
 
 [Extended Data](ext_articles/cacdf6df.ext.json)
-
----
-
-### Sridharan asks for security
-
-*2024-07-10 09:20:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்புக்கு-உத்தரவாதம்-கேட்கிறார்-சிறிதரன்/175-340129) · `ta`
-
-District MP Sridharan Sivagnanam appeals to the Speaker for security after his family was threatened by masked individuals wielding swords and sharp weapons outside his home near Hindu College, Jaffna. He requests a thorough investigation to ensure his family's safety.
-
-🟩
-
-The Speaker should guarantee the safety of my family as the activities of threatening me and my family are being carried out by the Speaker.. District MP Sivagnanam Sridharan appealed.
-
-Speaking to the Speaker in a speech on the second reading of the Sri Lanka Telecommunication Amendment Bill held in Parliament on Tuesday (09), he said.
-
-On the 28th of last month, 4 motorcycles were hidden in front of my resident house located at the address of Hindu College, Jaffna.
-
-12 people wearing a masked with silky swords and sharp weapons walked around 8:05 am. I bring to the notice of this congregation that this movement threatened my family and other people living in the country.
-
-This has caused fear of the safety of my family. Therefore, the Speaker should investigate the backdrop of the above events with a high compassion and guarantee my family's safety.
-
-◼️
-
-[Data](articles/9c4f452e.json)
-
-[Extended Data](ext_articles/9c4f452e.ext.json)
-
----
-
-### New Notice of Electric Pain
-
-*2024-07-10 09:18:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணம்-பற்றிய-புதிய-அறிவிப்பு/175-340128) · `ta`
-
-Prof. Manjula Fernando announced that the Public Utilities Commission will reveal its decision on power tariff revisions by July 15, after considering public feedback. The CEB has proposed reducing family tariffs by 25.5% and those for religious and charity institutions by 3%. However, there are no proposed reductions for the hotel and industrial sectors.
-
-🟩
-
-Prof. Manjula Fernando, Chairman of the Public Utilities Commission, said that the final resolution will be announced on July 15 after reviewing the public's views on the power tariff revision.
-
-He noted that 46 representatives representing the various industries previously registered have been received.
-
-The Ceylon Electricity Board (CEB) has submitted proposals to the future power tariff amendments to the Public Utilities Commission.
-
-Accordingly, the fees of family members will be reduced by 25.5% and a reduction in religious and charities by 3%.
-
-However, according to these proposals, no fee reduction for the hotel and industrial sector has been proposed. Remble
-
-◼️
-
-[Data](articles/7dd23d12.json)
-
-[Extended Data](ext_articles/7dd23d12.ext.json)
-
----
-
-### Do not rely on telephone tea
-
-*2024-07-10 09:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேயிலையை-மாத்திரம்-நம்பியிருக்கவில்லை/175-340127) · `ta`
-
-Jeevan Thondaman emphasizes that reliance on the tea industry is outdated, while Dhammika Perera criticizes low plantation salaries and government involvement, highlighting profitability issues among plantation companies. Both call for collective action to improve conditions for plantation workers.
-
-🟩
-
-The General Secretary of the Ceylon Workers Congress and the Minister of Water Supply and Plantation Infrastructure Development, Jeevan Thondaman, said that all people should understand that the people do not rely on the tea industry.
-
-Dhammika Perera, the presidential candidate and the owner of Halees, opposes the salary of Rs 1,700. He said only three plantation companies were profitable for more than 3,000 million.
-
-Speaking at a debate on the Sri Lanka Telecommunications (Amendment) Bill held in Parliament on Tuesday (09), he said.
-
-Plantation workers do not get a salary of 1,700 rupees and the government is playing the role of a few people. People need to know why we are in the affair. We have not made a salary request to the President with a political purpose.The salary of 1000 rupees was in effect until the year.
-
-...
-
-[Data](articles/a9e25d50.json)
-
-[Extended Data](ext_articles/a9e25d50.ext.json)
 
 ---

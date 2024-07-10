@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 15:04:58**
+As of **2024-07-10 15:20:17**
 
 ## Newspaper Stats
 
-*Scraped **34,588** Articles*
+*Scraped **34,589** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
 adalk | 3,112
-adaderanalk | 3,973
+adaderanalk | 3,974
 tamilmirrorlk | 4,124
 dailymirrorlk | 4,733
 virakesarilk | 5,402
@@ -26,25 +26,55 @@ adaderanasinhalalk | 5,757
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,587 (100.0%) of 34,588 articles have been extended.
+34,588 (100.0%) of 34,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### ජාතික ගමනාගමන කොමිෂන් සභාවට වැඩි බලයක් දෙන්න යයි
+### National Transport Commission to give more power
 
 *2024-07-10 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198673) · `si`
 
-ජාතික ගමනාගමන කොමිෂන් පනත සංශෝධනය කිරීමට කෙටුම්පත් කරන ලද පනත් කෙටුම්පත සඳහා නීතිපතිවරයාගේ නිෂ්කාසනය ලැබී ඇති බව ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය බන්දු ගුණවර්ධන මහතා පවසයි.
+The National Transport Commission (NTC) is set to gain more authority under an amendment bill, focusing on regulating school vans, three-wheelers, and other vehicles, beyond its current scope of intervening in bus fares. This move acknowledges the significant public service role of three-wheelers and aims to address regulatory gaps. The bill has been forwarded to the Attorney General's Department for review and potential legislative action.
 
-එමෙන්ම ඔහු පවසා සිටියේ දැනට ජාතික ගමනාගමන කොමිෂන් සභාවට බස් ගාස්තු සම්බන්ධයෙන් පමණක් මැදිහත් විය හැකි නමුත් පාසල් වෑන් රථ, ත්‍රීරෝද රථ සහ වෙනත්  වාහන සඳහා ද නියාමනයක් සිදු කිරීමට හැකිවන පරිදි පනත සංශෝධනය කර ඇති බවය.
+🟩
 
-"අපි ඉතාම බරපතළ ලෙස පිළිගන්නවා ත්‍රීරෝද රථ විශාල මහජන සේවාවක් කරනවා. එය අවශ්‍යයෙන්ම නියාමනය කළ යුතුයි. නමුත් ඒ සඳහා අවශ්‍ය බලතල නැති නිසා මම ජාතික ගමනාගමන කොමිෂන් පනත සම්පුර්ණයෙන් සංශෝධනය කරලා... දැනට තියෙන තත්ත්වය වෙනස් කරන්න නීතිපති දෙපාර්තමේන්තුවට යවලා පනත් කෙටුම්පතට නිෂ්කාසනය ලැබිලා තියෙනවා."
+Transport and Highways Minister Bandu Gunawardena says that the Attorney General's Commission has received the Immediate Bill to amend the National Transport Commission.
+
+He also said that the National Transport Commission has already intervened in bus fares, but the bill is aimed at school vans, three-wheelers and other vehicles.
+
+"We are very seriously acknowledged by three-wheeler a large public service. It should be necessarily regulated. But since there is no use for this, I revised the National Transport Commission.. The Attorney General's Department has been sent to the Attorney General's Department to change the current situation. "
+
+"That means that the National Transport Commission can intervene only on bus fares. The BC has been amended to regulate school vans, three-wheelers and other vehicles ... has been awarded .... The Gazette will be presented to the cabinet and presented to Parliament. "
+
+If a meter is asking for a meter, you can get the facts such as releasing it. "
+
+◼️
+
+[Data](articles/8d82c553.json)
+
+[Extended Data](ext_articles/8d82c553.ext.json)
+
+---
+
+### Final decision on lifting vehicle import ban in August – State Minister
+
+*2024-07-10 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100421/final-decision-on-lifting-vehicle-import-ban-in-august-state-minister) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya stated that the final decision regarding the lifting of the restrictions on vehicle imports will be taken in the second week of August.
+
+The State Minister pointed out that the committee appointed to look into the matter met recently and agreed to submit the final report to the Cabinet within the second week of August.
+
+Siyambalapitiya mentioned that accordingly, it will be able to import vehicles according to the country’s revenue situation while prioritising the needs of the people.
+
+The Finance State Minister further expressed that the imports will begin from public transport vehicles, goods transport vehicles, alternative vehicles, public vehicles and then the private vehicles, subject to regulations.
+
+He also said that the Cabinet of Ministers has approved the import of 1,000 vehicles for the tourism sector and that none of those vehicles have been imported thus far.
 
 ...
 
-[Data](articles/8d82c553.json)
+[Data](articles/732106ac.json)
 
 ---
 
@@ -2195,27 +2225,5 @@ The document also explains how to prepare in the fields of state -private joint 
 [Data](articles/89b4f4e7.json)
 
 [Extended Data](ext_articles/89b4f4e7.ext.json)
-
----
-
-### Warship
-
-*2024-07-10 01:25:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்புத்-துறைமுகத்தில்-போர்க்கப்பல்/175-340121) · `ta`
-
-The Turkish Navy's TCG Kinaliada warship, commanded by Sergan Dogan, docked at Colombo port for an official visit, including a meeting with Rear Admiral Saman Perera. The ship, carrying 152 sailors, plans to explore Sri Lanka's main attractions during its stay.
-
-🟩
-
-The TCG Kinaliada ship of the Turkish Navy has arrived at the Colombo port for an official visit.
-
-Sergan Dogan is the command officer of the 152 sailor. There is also an official meeting between Dogan and Western Navy Commander Rear Admiral Saman Perera.
-
-It is reported that the ship will be anchored in Sri Lanka till tomorrow and its sailors are planning to visit Sri Lanka's main areas.. (A)
-
-◼️
-
-[Data](articles/ea357c97.json)
-
-[Extended Data](ext_articles/ea357c97.ext.json)
 
 ---

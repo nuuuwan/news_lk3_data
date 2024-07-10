@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 08:23:43**
+As of **2024-07-10 08:35:15**
 
 ## Newspaper Stats
 
-*Scraped **34,517** Articles*
+*Scraped **34,518** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,61 +20,97 @@ adaderanalk | 3,960
 tamilmirrorlk | 4,103
 dailymirrorlk | 4,733
 virakesarilk | 5,396
-adaderanasinhalalk | 5,742
+adaderanasinhalalk | 5,743
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,512 (100.0%) of 34,517 articles have been extended.
+34,517 (100.0%) of 34,518 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### නීතිඥ සංගමය ජනපතිට යැවූ ලිපියට පිළිතුරු
+### කොලොන්නේ වෙඩික්කරුවන් ආ හැටි
+
+*2024-07-10 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198658) · `si`
+
+කොලොන්න පොලිස් වසමේ අප්ටන් වත්ත ප්‍රදේශයේ සිදුකළ වෙඩි තැබීමට හේතුව මෙතෙක් අනාවරණය වී නොමැත.
+
+පොලීසිය සඳහන් කළේ යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් නිවසේ සිටි පුද්ගලයෙකුට වෙඩි තබා පළා ගොස් ඇති බවය.
+
+වෙඩි වැදුණු 61 හැවිරිදි පුද්ගලයා එම ස්ථානයේ දීම ජීවිතක්ෂයට පත්ව තිබේ.
+
+මියගිය පුද්ගලයා සහ ඔහුගේ බිරිඳ නිවසේ රැඳී සිටිය දී වෙඩික්කරුවන් පැමිණ බිරිඳගෙන් මියගිය පුද්ගලයා නිවසේ සිටිනවාදැයි විමසා ඇත.
+
+පසුව එම පුද්ගලයා නිවසින් එළියට පැමිණි අවස්ථාවේ දී වෙඩි ප්‍රහාරය එල්ල කර ඇති බව විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+මෘත ශරීරය මහෙස්ත්‍රාත් පරීක්ෂණ සිදුකර පශ්චාත් මරණ පරීක්ෂණය සඳහා ඇඹිලිපිටිය රෝහලේ තැන්පත් කර ඇත.
+
+◼️
+
+[Data](articles/a61bb805.json)
+
+---
+
+### Answers to the letter sent to the President
 
 *2024-07-10 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198657) · `si`
 
-නව නීතිපතිවරයෙකු පත්කිරීම සම්බන්ධයෙන් ශ්‍රී ලංකා නීතිඥ සංගමය විසින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත යොමු කරන ලද ලිපියට ජනාධිපති ලේකම් සමන් ඒකනායක මහතා පිළිතුරු ලිපියක් මඟින් ප්‍රතිචාර දක්වා තිබේ.
+In response to a letter requesting the appointment of a new Attorney General, Presidential Secretary Saman Ekanayake highlighted the constitutional process outlined in Article 41, emphasizing the President's authority to appoint with Constitutional Council approval. He clarified there's no statutory requirement for the appointment to be based on seniority within the Senate Secretariat. Notably, previous appointments, including those of Mr. Silva and Attorney General Mohan Peiris, were made outside the Attorney General's Department. Ekanayake also addressed concerns raised by the Sri Lanka Bar Association, suggesting the President should consider broader implications rather than focusing on individual preferences.
 
-ජනාධිපති ලේකම්වරයා එම ලිපිය මඟින් අවධාරණය කර ඇත්තේ ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවේ අනුමැතිය සහිතව නීතිපතිවරයා පත් කිරීමට ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 41 ඇ. ව්‍යවස්ථාව යටතේ ජනාධිපතිවරයාට ව්‍යවස්ථානුකූලව බලය පවතින බවය.
+🟩
 
-තවද ජ්‍යේෂ්ඨත්වය මත පදනම්ව නීතිපති දෙපාර්තමේන්තුවේ ජ්‍යේෂ්ඨතම නිලධාරියා මෙම තනතුර සඳහා පත්කිරීමට ව්‍යවස්ථාපිත අවශ්‍යතාවක් නොමැති බව ද එහි සඳහන්ය.
+Presidential Secretary Saman Ekanayake has responded to the letter to President Ranil Wickremesinghe to appoint President Ranil Wickremesinghe regarding the appointment of a new Attorney General.
 
-එසේම නීතිපති දෙපාර්තමේන්තුවේ ජ්‍යෙෂ්ඨතම නිලධාරියා වෙත නීතිපති ධූරය ලබාදීමේ ක්‍රමයක් ශ්‍රී ලංකාවේ ඉතිහාසය තුළ අනුගමනය කර නොමැති බව ද එම නිවේදනය සඳහන් වේ.
+The Presidential Secretary emphasizes the letter 41 of the Constitution to appoint the Attorney General with the approval of the Constitutional Council.. The President has the constitutional power under the constitution.
 
-ජනාධිපති නීතිඥ සරත් එන්. සිල්වා මහතා සහ ජනාධිපති නීතිඥ මොහාන් පීරිස් මහතා වැනි පසුගිය කාලය තුළ නීතිපති ධූරය සඳහා සිදුකර ඇති පත්වීම් නීතිපති දෙපාර්තමේන්තුවේ ජ්‍යේෂ්ඨ නිලධාරීන්ගෙන් පරිබාහිරව සිදුකර ඇති බව එම ලිපියේ සඳහන් කර ඇත.
+It also no such as a statutory requirement to appoint the Senatutical Department's senior officer to this post based on seniority.
+
+It is also said that the Attorney General's Department has not acted in the history of the Attorney General's post in history.
+
+President's Counsel Sarath N. The letter stated that the appointments made for the Attorney General's Department in the past few years as Mr. Silva and Attorney General Mohan Peiris have been carried out outside the Attorney General's Department.
 
 ...
 
 [Data](articles/3246f623.json)
 
+[Extended Data](ext_articles/3246f623.ext.json)
+
 ---
 
-### විදුලි බිලේ අවසන් තීරණය
+### Last decision of electricity bill
 
 *2024-07-10 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198656) · `si`
 
-විදුලි ගාස්තු සංශෝධන පිළිබඳ මහජන අදහස් විශ්ලේෂණයෙන් අනතුරුව ජූලි 15 වැනිදා ඒ සම්බන්ධයෙන් වන අවසන් තීරණය ප්‍රකාශයට පත්කරන බව මහජන උපයොගීතා කොමිසම පවසයි.
+The Public Utilities Commission announced its final decision on electricity tariffs on July 15th, after considering public opinion and proposals from the Sri Lanka Electricity Board (CEB). Domestic tariffs were reduced by 25.5%, while religious and charity rates decreased by 3%. However, there were no reductions proposed for hotels and industries. The CEB also categorized domestic electricity consumption, proposing price cuts for various usage levels, from 0 to 180 units, aiming to make electricity more affordable for different consumer groups.
 
-එහි සභාපති මහාචාර්ය මංජුල ප්‍රනාන්දු මහතා සඳහන කළේ, පෙර ලියාපදිංචි වූ විවිධ ක්ෂ්ත්‍ර නියෝජනය කරන නියොජිතයින් 46 දෙනෙකුගෙන් අදහස් ලබාගත් බවය.
+🟩
 
-ශ්‍රී ලංකා විදුලිබල මණ්ඩලය ඉදිරියේදී සිදුකරන විදුලි ගාස්තු සංශෝධන සම්බන්ධයෙන් මහජන උපයෝගිතා කොමිසමට යෝජනා ඉදිරිපත් කර තිබේ.
+The Public Aermobility Commission says that the final decision on the 15th of July 15th, following public opinion on electricity tariffs.
 
-ඒ අනුව ගෘහස්ථ කාණ්ඩයට 25.5%ක ගාස්තු අඩුවීමක් සහ ආගමික සහ පුණ්‍යායතනවලට 3%ක අඩුවීමක් සිදුවේ.
+He was referred to 46 representatives representing the previous registered squares.
 
-කෙසේ වෙතත්, මෙම යෝජනාවලට අනුව හෝටල් සහ කර්මාන්ත ක්ෂේත්‍රයට ගාස්තු අඩුවීමක් යෝජනා කර නැහැ.
+The Sri Lanka Electricity Board (CEB) has filed proposals to the Public Utilities Commission regarding the electricity tariff.
 
-යෝජිත ගෘහස්ථ විදුලි ගාස්තු සංශෝධනයට අනුව ඒකක 0 සිට 30 දක්වා විදුලි ඒකකයක් වෙනුවෙන් අය කෙරෙන ගාස්තුව රුපියල් 08 සිට 06 දක්වා අඩු කෙරේ.
+Accordingly, the domestic category is reduced to 25.5%, religious and charities decrease in 3%.
 
-ඒකක 31 සිට 60 දක්වා ඒකකයට අය කෙරෙන ගාස්තුව රුපියල් 20 සිට 09 දක්වා අඩුකර තිබේ.
+However, according to these proposals, there is no proposal to reduce fees to the hotels and industry.
 
-විදුලිබල මණ්ඩලයේ යෝජනාවලට අනුව ගෘහස්ථ විදුලි පාරිභෝජනය තවත් කාණ්ඩ කිහිපයකට වෙන්කර තිබේ.
+According to the proposed domestic electricity tariff revision, the fee for a unit of electricity per unit 0 to 30 is reduced to Rs.
+
+The fee for the unit from 31 to 60 units has been reduced to Rs.
+
+According to the Electricity Board's proposals, the domestic electricity consumption has been allocated to several categories.
+
+Accordingly, 0 to 60 units of domestic electricity consumers consume of more than 60 units will reduce the cost of Rs. 25 to 15.
 
 ...
 
 [Data](articles/477741bc.json)
+
+[Extended Data](ext_articles/477741bc.ext.json)
 
 ---
 
@@ -122,21 +158,31 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 ---
 
-### දුම්රිය ගමන් රැසක් නවතී - මගීන්ට දැනුම්දීමක්
+### Railway lines stops - passengers informed
 
 *2024-07-10 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198655) · `si`
 
-උසස්වීම් ලබානොදීම ඇතුළු ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් ඊයේ (09) මධ්‍යම රාත්‍රියේ සිට දුම්රිය ස්ථානාධිපතිවරුන් ආරම්භ කළ වැඩවර්ජනය හේතුවෙන් කාර්යාල දුම්රිය රැසක් අවලංගු වන බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+The Railway Department announced changes to train schedules due to various demands, including no promotions. However, efforts are made to operate additional trains between certain routes. The Ministry of Transport clarified that train tickets are interchangeable with SLTB bus tickets. A strike by rail workers was deemed an essential service, affecting passenger travel. The Railway Staff Association supports the staff's actions, causing significant inconvenience to passengers.
 
-කෙසේ වෙතත් කොටුවේ සිට මීගමුවට සහ වේයන්ගොඩට දුම්රිය දෙක බැගින් ධාවනය කිරීමට පියවර ගෙන ඇති අතර පොල්ගහවෙල සිට කොටුවට දුම්රිය දෙකක්ද, ගාල්ල සිට කොටුවට දුම්රිය තුනක්ද , අලුත්ගම සිට එක් දුම්රියක්ද කොළඹ කොටුව දක්වා ධාවන කිරීමට පියවර ගෙන ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+🟩
 
-වර්ජන ක්‍රියාමාර්ගය හේතුවෙන් අද (10) දිනයේදී දුම්රිය වාර ප්‍රවේශපත්‍ර හිමි මගීන්ට එම වාර ප්‍රවේශපත්‍රය උපයෝගී කරගනිමින් ලංකා ගමනාගමන මණ්ඩලට අයත් බස් රථවලින් ප්‍රවාහන පහසුකම් සලසා ගැනීමට හැකි බව ප්‍රවාහන අමාත්‍යංශය පවසයි.
+The Railway Department says that a number of office trains will be invalid due to a number of demands, including the non-promotions.
 
-මේ අතර දුම්රිය සේවා ඇතුළු පොදු ප්‍රවාහනය අත්‍යවශ්‍ය සේවා ලෙස ප්‍රකාශයට පත් කර ඇති බැවින් දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය දියත් කරඇති වැඩවර්ජනය නීතිවිරෝධී වන අතර සේවයට වාර්තා නොකරන අයට එරෙහිව දැඩි විනය ක්‍රියාමාර්ග ගන්නා බව ප්‍රවාහන අමාත්‍යාංශයේ ලේකම්වරයා දැනුම් දී තිබේ.
+However, steps have been taken to run two trains from the Box to Negombo and Veyangoda and three trains from Galle and a train from Galle to Fort, the Colombo Fort.
 
-...
+The Ministry of Transport (Transport) says that the train ticket is used to provide transport facilities from buses belonging to the Sri Lanka Transport Board (SLTB).
+
+Meanwhile the Secretary to the Ministry of Transport has informed the strike launched by the Railways as an essential services, including railway services and public action.
+
+The Chairman of the Association Navigary said that the Railway Steps' Association has also decided to support the procedure of the staff opened.
+
+Due to this trade union, the people were severely difficult and the railway passengers were engaged in yesterday's night.
+
+◼️
 
 [Data](articles/5629dd26.json)
+
+[Extended Data](ext_articles/5629dd26.ext.json)
 
 ---
 
@@ -222,21 +268,27 @@ GoGo.sale, Sri Lanka’s premier online marketplace, has unveiled its latest cam
 
 ---
 
-### අදත් ප්‍රදේශ කිහිපයකට වැසි
+### Showers in several areas
 
 *2024-07-10 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198653) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වේ.
+Expect widespread showers across Western, Sabaragamuwa, North Western provinces, and in Kandy, Nuwara Eliya, Galle, and Matara districts. Thundershowers likely in Ampara, Batticaloa, and Uva regions. Strong winds of 40-50 km/h possible from the central hills' western slopes, Trincomalee, Hambantota, and Monaragala districts. The Meteorology Department advises caution against lightning and wind-related accidents.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, ඌව පළාතෙත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොණරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකිය.
+Several spells of showers in the Western, Sabaragamuwa and North Western Provinces and several showers in the Kandy, Nuwara Eliya, Galle and Matara districts.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Department of Meteorological Department announced that showers or thundershowers during the evening or innovates in the Ampara and Batticaloa districts of the Uva.
+
+From the Western slopes of the central hills, Trincomalee, Trincomalee, Hambantota and Monaragala Districts, Trincomalee, Hambantota and Monaragala Districts. There may be 40-50 strong winds.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/3b3b88f0.json)
+
+[Extended Data](ext_articles/3b3b88f0.ext.json)
 
 ---
 
@@ -642,19 +694,27 @@ Later, Premalatha was comforted by Vijayakanth and son Shanmukha Pandiyan. Subse
 
 ---
 
-### ‘விஷன் 2030’ ஜனாதிபதியிடம் கையளிப்பு
+### Vision 2030's handing over to President
 
 *2024-07-10 01:38:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஷன்-2030-ஜனாதிபதியிடம்-கையளிப்பு/175-340122) · `ta`
 
-2030 ஆம் ஆண்டாகும்போது இலங்கையை நிலையான மற்றும் முழுமையான அபிவிருத்தியை நோக்கி வழிநடத்தும் வகையில் இலங்கை வர்த்தக சம்மேளனத்தினால் தயாரிக்கப்பட்ட விரிவான கொள்கைகளை உள்ளடக்கிய ஆவணம் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் நேற்று ஜனாதிபதி அலுவலகத்தில் கையளிக்கப்பட்டது.
+President Ranil Wickremesinghe received a comprehensive plan from the Sri Lanka Business Federation for Vision 2030, aiming for sustainable development. The strategy includes economic growth targets, inflation and unemployment reduction, educational and healthcare improvements, and advancements in agriculture and digital infrastructure. It outlines preparations for public-private partnerships, regulatory reforms, infrastructure investments, and climate change adaptation.
 
-‘விஷன் 2030’ ஊடாக அடுத்த ஐந்து ஆண்டுகளில் பொருளாதார ரீதியில் இலங்கை எந்தத் திசையில் பயணிக்க வேண்டும் என்பது தொடர்பில் விளக்கமளிக்கப்பட்டுள்ளது. அத்துடன் அதற்காக அனைத்து துறைகளிலும் கொள்கை மாற்றங்கள் மேற்கொள்ளப்பட வேண்டிய விதம் குறித்தும் பொருளாதாரத்திற்கு கிடைக்கும் நன்மைகள் குறித்தும் இதில் சுட்டிக்காட்டப்பட்டுள்ளது.
+🟩
 
-மொத்த தேசிய உற்பத்தியில் 6.5 வீத வளர்ச்சி வீதத்தை எட்டுவது, பணவீக்கம், வேலையின்மை ஆகியவற்றை 5 வீதமாக குறைப்பது, கல்வி மற்றும் சுகாதார சேவைகளை மேம்படுத்துவது, விவசாயம் மற்றும் டிஜிட்டல் உள்கட்டமைப்பை மேம்படுத்துவது உள்ளிட்ட நோக்கங்களை முன்னிலைப்படுத்தி இந்த அறிக்கை தயாரிக்கப்பட்டுள்ளது.
+At the time of 2030, President Ranil Wickremesinghe was handed over to President Ranil Wickremesinghe at the Presidential Office, which included extensive policies prepared by the Sri Lanka Business Federation to lead Sri Lanka towards sustainable and complete development.
 
-...
+In the next five years through Vision 2030. It has also been indicated on the way policy changes in all sectors and the benefits of the economy.
+
+The report has prepared aims to highlight the objectives of reaching 6.5 percent of the GDP, reducing inflation and unemployment to 5 percent, improving education and health services, and improving agriculture and digital infrastructure.
+
+The document also explains how to prepare in the fields of state -private joint venture, regulatory reform, infrastructure investment and climate change.. (A)
+
+◼️
 
 [Data](articles/89b4f4e7.json)
+
+[Extended Data](ext_articles/89b4f4e7.ext.json)
 
 ---
 
@@ -2175,35 +2235,5 @@ The banking counters continued to close down. Commercial Bank of Ceylon Plc clos
 [Data](articles/83c2f2f8.json)
 
 [Extended Data](ext_articles/83c2f2f8.ext.json)
-
----
-
-### Did the White House go 8 times the doctor who treats people with Parkinson's disease?New York Times Information
-
-*2024-07-09 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188051) · `ta`
-
-The White House denied claims that Dr. Kevin O'Connor, who treats Parkinson's patients, visited eight times since August, contradicting The New York Times' report. President Joe Biden's health is unaffected by Parkinson's, according to the White House.
-
-🟩
-
-The White House has announced that US President Jodiban Parkinson has not been affected by the disease.
-
-The New York Times has reported that the doctor who treats people with Parkinson's disease has visited the White House to the White House eight times since August.
-
-The New York Times said this based on the list of those who visited the White House.
-
-The White House doctor, Kevin O Gonor Biden, has issued a denial report that no neurologist did not go out to see anyone beyond his annual medical tests.
-
-The White House guest document has also shown that neurologist Kevinkanard has visited the White House eight times from August last year to March this year.
-
-The doctor of the White House said that Kevin Karnat went to the White House for support for his neurological sciences to support thousands of employees appointed to assist the White House activities.
-
-During the first debate with former President Donaldram, Baidan was found to be very weak and suspicious of his illness.
-
-◼️
-
-[Data](articles/c8c8c9de.json)
-
-[Extended Data](ext_articles/c8c8c9de.ext.json)
 
 ---

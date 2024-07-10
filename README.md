@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 03:53:51**
+As of **2024-07-11 04:05:18**
 
 ## Newspaper Stats
 
-*Scraped **34,683** Articles*
+*Scraped **34,684** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,049
 dailyftlk | 2,183
 adalk | 3,126
 adaderanalk | 3,986
-tamilmirrorlk | 4,134
+tamilmirrorlk | 4,135
 dailymirrorlk | 4,733
 virakesarilk | 5,422
 adaderanasinhalalk | 5,767
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,683 (100.0%) of 34,683 articles have been extended.
+34,683 (100.0%) of 34,684 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -341,6 +341,24 @@ The decision comes amid Supreme Court on Tuesday dismissing a petition seeking t
 [Data](articles/ace98930.json)
 
 [Extended Data](ext_articles/ace98930.ext.json)
+
+---
+
+### மீண்டும் நான் எம்.பியானது சிக்கலா?
+
+*2024-07-11 02:21:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-நான்-எம்-பியானது-சிக்கலா/175-340190) · `ta`
+
+தான் பாராளுமன்ற உறுப்பினராக மீண்டும் நியமிக்கப்பட்டமை தொடர்பில் ஏதேனும் பிரச்சினைகள் இருந்தால் எவருக்கும் உயர்நீதிமன்றத்திற்கு செல்லலாம். அதனைவிடுத்து தேர்தல்கள் ஆணைக்குழுவை விமர்ப்பதில் அர்த்தமில்லை என்றும் ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் முஜிபூர் ரஹுமான் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (10) நடைபெற்ற   விவாதத்தின் போது, உள்ளூராட்சித் தேர்தலில் போட்டியிடும் வேட்பாளரான முஜிபூர் ரஹுமான் தேசியப் பட்டியல் ஊடாக பாராளுமன்ற உறுப்பினராக நியமிக்கப்பட்டமை தொடர்பில் ஶ்ரீலங்கா பொதுஜன பெரமுன எம்பியான மகிந்தானந்த அளுத்கமகே விமர்சனம் செய்திருந்தார்.
+
+அது தொடர்பில் ஒழுங்கு பிரச்சினையை எழுப்பி கருத்து வெளியிடுகையிலேயே முஜிபூர் ரஹுமான் இவ்வாறு கூறினார்.
+
+உள்ளூராட்சி சபைக்கான தேர்தலை சுயாதீன தேர்தல்கள் ஆணைக்குழுவினாலேயே அறிவித்தது. அந்த தேர்தலில் போட்டியிடுவதற்காகவே நான் பாராளுமன்ற உறுப்பினர் பதவியிலிருந்து விலகினேன். ஆனால் ஜனாதிபதியும் அரசாங்கமும் உள்ளூராட்சி தேர்தலை நடத்த பணம் கொடுக்காது தேர்தலை ஒத்தி வைக்க நடவடிக்கை எடுத்தது.
+
+...
+
+[Data](articles/33bd5b4d.json)
 
 ---
 
@@ -2253,25 +2271,5 @@ The drafted bill is then sent to the Attorney General and re-submitted to the Ca
 [Data](articles/3008ad51.json)
 
 [Extended Data](ext_articles/3008ad51.ext.json)
-
----
-
-### Sri Lanka to revive senior citizen interest subsidies?
-
-*2024-07-10 12:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-revive-senior-citizen-interest-subsidies-171609/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe has directed the Treasury Secretary to “develop a program to address” low interest rates paid to retirees, his media office said, raising questions whether a senior citizens interest subsidy scheme would be revived.
-
-“For business development, bank interest rates need to be kept low. However, lower interest rates can disadvantage pensioners, so I have directed the Treasury Secretary to develop a program to address this issue,” the president said at a housing deed awarding event.
-
-But real interest rates have been high over the past twelve months, amid good monetary stability provided by the central bank.
-
-Sri Lanka’s 12 month fixed deposit rate was 15.09 percent in June 2023 and headline inflation, according to the Colombo Consumer Price Index, was only 1.7 percent in the past 12 months, giving real interest rates of 13.39 percent to a person who deposited money last year.
-
-...
-
-[Data](articles/ab469deb.json)
-
-[Extended Data](ext_articles/ab469deb.ext.json)
 
 ---

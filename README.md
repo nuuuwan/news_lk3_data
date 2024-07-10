@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 19:19:55**
+As of **2024-07-10 19:35:13**
 
 ## Newspaper Stats
 
-*Scraped **34,627** Articles*
+*Scraped **34,628** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,983
 tamilmirrorlk | 4,129
 dailymirrorlk | 4,733
 virakesarilk | 5,411
-adaderanasinhalalk | 5,763
+adaderanasinhalalk | 5,764
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,627 (100.0%) of 34,627 articles have been extended.
+34,627 (100.0%) of 34,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### දුම්රියෙන් වැටී මගියෙක් මරුට
+
+*2024-07-10 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198682) · `si`
+
+අද (10) පස්වරුවේ බෙම්මුල්ල දුම්රිය ස්ථානය අසලදී දුම්රිය මගියෙකු  දුම්රියෙන් ඇද වැටී ජිවිතක්ෂයට පත්වී තිබේ.
+
+එම මගියා ඇද වැටී තිබුණේ කොළඹ කොටුවේ සිට පොල්ගහවෙල දක්වා ධාවනය වූ දුම්රියෙනි.
+
+◼️
+
+[Data](articles/633bee19.json)
+
+---
 
 ### Colombo provides rights rights
 
@@ -2249,27 +2263,5 @@ He emphasized that there is no constitutional requirement to appoint the senior-
 [Data](articles/d1ad782b.json)
 
 [Extended Data](ext_articles/d1ad782b.ext.json)
-
----
-
-### A lot of questions from the customs strike
-
-*2024-07-10 08:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198659) · `si`
-
-Customs officials' training resumed after exam failures, with plans for a formal program to speed up improvements. The Customs Director General mentioned efforts to address issues promptly.
-
-🟩
-
-The courses of customs officials recently commenced the examination due to the failure of the examination.
-
-They say that a formal program should be prepared to accelerate this situation.
-
-Customs Director General Customs Media Spokesperson, "Ada Derana stated that this situation has been taken to achieve this situation soon.
-
-◼️
-
-[Data](articles/e09a00ac.json)
-
-[Extended Data](ext_articles/e09a00ac.ext.json)
 
 ---

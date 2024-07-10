@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 00:35:38**
+As of **2024-07-11 00:53:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,660 (100.0%) of 34,661 articles have been extended.
+34,661 (100.0%) of 34,661 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ There are two certain things with regard to nature in the world. They are Death 
 ...
 
 [Data](articles/de67dc0a.json)
+
+[Extended Data](ext_articles/de67dc0a.ext.json)
 
 ---
 

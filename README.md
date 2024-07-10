@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 18:37:35**
+As of **2024-07-10 18:54:29**
 
 ## Newspaper Stats
 
-*Scraped **34,616** Articles*
+*Scraped **34,625** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,44 @@ adalk | 3,119
 adaderanalk | 3,983
 tamilmirrorlk | 4,129
 dailymirrorlk | 4,733
-virakesarilk | 5,402
+virakesarilk | 5,411
 adaderanasinhalalk | 5,762
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,614 (100.0%) of 34,616 articles have been extended.
+34,616 (100.0%) of 34,625 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### වසනත ඝාතනයේ සැකකරුවන් 7 දෙනා 22 දා තෙක් රිමාන්ඩ්
+### Seven suspects in the murder remanded till 22nd
 
 *2024-07-10 18:07:37* · [`adalk`](https://www.ada.lk/breaking_news/වසනත-ඝාතනයේ-සැකකරුවන්-7-දෙනා-22-දා-තෙක්-රිමාන්ඩ්/11-410721) · `si`
 
-අතුරුගිරියේ කඩුවෙල පාරේ ටැටු කලාගාරය  තුළදී සිදු වූ ද්විත්ව ඝාතනය හා සිව් දෙනකුට තුවාල සිදුවීම සම්බන්ධයෙන් සම්බන්ධයෙන් අත්අඩංගුවට ගත් ටැටු කලාගාරයේ හිමිකරු ඇතුළු 7 දෙනා  කඩුවෙල  අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම මස 22 වෙනිදින  දක්වා රිමාන්ඞ් භාරයේ තබන ලෙස මහේස්ත්‍රාත්චානිමා විජයබණ්ඩාර මහත්මිය නියෝග කළාය
+Seven individuals, including the owner of Total Arts and several others, have been remanded until the 22nd after their arrest in connection with a murder case. The suspects, ranging from a former soldier to a businessman, are accused of conspiracy to commit the crime. The victim, Wasantha Perera, a popular singer, was shot along with his father and another woman. Police have confiscated a car and a van as part of their investigation.
 
-එලෙස රිමාන්ඞ් භාරයට පත් කරන ලද්දේ  බලපිටිය මොහොට්ටියා  වත්ත ශ්‍රී ගුණානන්ද මාවත පදිංචි බි ඩි සංජුල ද සිල්වා (28) ,අහුන්ගල්ල, එගොඩමුල්ල ධම්ම කුසල මාවත පදිංචි ,රත්මලාන යුද්ධ හමුදා කඳවුරේ ඉංජිනේරු බලකායේ හිටපු සෙබල එම්.ධනුෂ්කද  සිල්වා (26) අහුන්ගල්ල එගොඩමුල්ල ධම්ම කුසල මාවත පදිංචි ටි එම් වයි කාවින්ද සිල්වා (23) අම්බලන්ගොඩ ගොඩ හේන , රතුකුරුස නිවාස , ජි එච් ආර් . ලක්මාල් (37) බෙලිඅත්ත.ගම්මුල්ල ගල්වඩු ගෙදර  ඩබ්ලිව් .කේ චතුරංග ලක්මාල් (37)  බෙලිඅත්ත . පාළු වත්ත.  විල්සන් පාර එස් ඩබ්ලිව්  . කේශාන් (28)  බෙලිඅත්ත අත්බෝධිය  ජි  ජේ  විජේසිරි (31)  යන අයවලුන්ය
+🟩
 
-එම සැකකරුවන් අතර ටැටු නිර්මාණ ශිල්පියෙක්, හිටපු හමුදා සෙබළෙක් බස් කොන්දොස්තරවරයෙක් තීරෝද රථ රියදුරෙක් හා ව්‍යාපාරිකයෙකු  වේ.
+The owner of the Total Arts who were arrested in the Tott Grant of Kaduwela and four others were handed over to the Kaduwela court on the 22nd of this month.
+
+Balapitiya, Balapitiya Moholla De Silva (28), Ahungalla, Ethamulla Dhamma Troops of Sri Gangananda Mawatha, Ahungalla, Ethamulla Dhamma Trophy (26) Ahungalla, Ahungalla Eigagulla TrophyResidence Ti M Y Y Y Y Yea (23) Building, Red Cross Homes, Gi H R. Lakmal (37) Beliatta.agammulla Galwaththamulla Galwatta. Latest garden.Wilson Road S WILL. The Kien (28) Beliatta is gi ji Wijesiri (31)
+
+A totist in the suspects is a former soldier bus conductor, a bus driver and businessman.
+
+Business Suresantra Wasantha Perera alias, or another, was murdered in a shooting of the TATOs
+
+The wife of the shooting was the father of Wasantha Perera, the popular singer K. Sujeewa, her husband and another woman wounded
+
+Conspiracy to commit the crime was charged with the suspects. The car and the van that has been taken into police custody.
 
 ...
 
 [Data](articles/2b79e561.json)
+
+[Extended Data](ext_articles/2b79e561.ext.json)
 
 ---
 
@@ -65,6 +77,40 @@ Accordingly, the petitioner requests the Court of Appeals to call and examine th
 [Data](articles/24235206.json)
 
 [Extended Data](ext_articles/24235206.ext.json)
+
+---
+
+### அமெரிக்கா காங்கிரசில் சமர்ப்பிக்கப்பட்டுள்ள தமிழர்களிற்கான சுயநிர்ணய உரிமை குறித்த தீர்மானம் - 50க்கும் மேற்பட்ட புலம்பெயர் தமிழர் அமைப்புகள் வரவேற்பு
+
+*2024-07-10 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188161) · `ta`
+
+ஈழத்தமிழர்களிற்கு அரசியல் தீர்வை வழங்குவதற்காக சுதந்திரம் குறித்த சர்வஜனவாக்கெடுப்பை நடத்தவேண்டும் என கோரும் அமெரிக்க காங்கிரஸ் தீர்மானத்திற்கு 50க்கும் மேற்பட்ட புலம்பெயர் அமைப்புகள் தங்கள் ஆதரவை வெளியிட்டுள்ளன.
+
+2024 மே 15ம் திகதி அமெரிக்க காங்கிரசில் சமர்ப்பிக்கப்பட்டுள்ள தீர்மானத்திற்கு பரந்துபட்ட ஆதரவு காணப்படுகின்ற நிலையில் புலம்பெயர் தமிழர்  அமைப்புகள் அதற்கு ஆதரவை வெளியிட்டுள்ளன.
+
+இது தொடர்பான கூட்டு அறிக்கையொன்றை வெளியிட்டுள்ள 150க்கும் மேற்பட்ட புலம்பெயர் அமைப்புகள் அமெரிக்க காங்கிரஸ் தீர்மானத்தின் வரலாற்று சூழமைவையும் தமிழ் மக்களின் சுயநிர்ணய உரிமைக்கு தீர்வுகாணக்கூடிய அதன் சாத்தியப்பட்டாமையும் ஏற்றுக்கொண்டுள்ளதுடன் அந்த தீர்மானத்தை வரவேற்றுள்ளன.
+
+இலங்கையில் மனித உரிமை நிலவரம் மோசமடையும் தருணத்தில் இந்த தீர்மானம் அமெரிக்க காங்கிரசில் சமர்ப்பிக்கப்பட்டுள்ளதாக புலம்பெயர் தமிழர் அமைப்புகள் தெரிவித்துள்ளன.
+
+...
+
+[Data](articles/202dcc52.json)
+
+---
+
+### ஆகஸ்டில் வெளியாகும் திரிஷாவின் முதல் இணைய தொடர் 'பிருந்தா'
+
+*2024-07-10 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/188155) · `ta`
+
+தமிழில் மட்டுமல்லாமல் தென்னிந்திய மொழிகளில் முன்னணி நட்சத்திர நடிகையாக ஜொலித்து வரும் திரிஷா முதன் முதலாக 'பிருந்தா' எனும் இணைய தொடரில் முதன்மையான வேடத்தில் நடித்திருக்கிறார். சோனி லைவ் எனும் டிஜிட்டல் தளத்தில் ஆகஸ்ட் இரண்டாம் திகதி முதல் வெளியாகவிருக்கும் இந்த இணைய தொடரின் டீசர் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் சூரிய மனோஜ் வங்கலா இயக்கத்தில் உருவாகி இருக்கும் இந்த இணைய தொடரில் திரிஷா, இந்திரஜித் சுகுமாறன், ஜெயபிரகாஷ், ஆம்னி, ரவீந்திர விஜய், ஆனந்த் சாமி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+தினேஷ் கே. பாபு ஒளிப்பதிவு செய்திருக்கும் இந்த இணையத் தொடருக்கு சக்தி காந்த் கார்த்திக் இசையமைத்திருக்கிறார். இந்த இணைய தொடரை அடிங் அட்வர்டைசிங் எல்எல்பி எனும் நிறுவனம் சார்பில் தயாரிப்பாளர் கொல்லா அவினாஷ் தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/1654b37e.json)
 
 ---
 
@@ -105,6 +151,38 @@ During the investigations carried out thus far, it has been revealed that the ow
 [Data](articles/b6ac8c6b.json)
 
 [Extended Data](ext_articles/b6ac8c6b.ext.json)
+
+---
+
+### விஜய் சேதுபதி - சூரி இணைந்து வெளியிட்ட 'ஜமா' படத்தின் ஃபர்ஸ்ட் லுக்
+
+*2024-07-10 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/188156) · `ta`
+
+அறிமுக நடிகர் பாரி இளவழகன் தெருக்கூத்து கலைஞனாக முதன்மையான வேடத்தில் நடித்திருக்கும் 'ஜமா' எனும் திரைப்படத்தின் பர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது. இதனை 'மக்கள் செல்வன்' விஜய் சேதுபதி மற்றும் நடிகர் சூரி ஆகியோர் இணைந்து அவர்களது இணைய பக்கத்தில் வெளியிட்டு படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்கள்.
+
+அறிமுக இயக்குநர் பாரி இளவழகன் இயக்கத்தில் உருவாகி இருக்கும் 'ஜமா' எனும் திரைப்படத்தில் பாரி இளவழகன், அம்மு அபிராமி, சேத்தன், ஸ்ரீ கிருஷ்ண தயாள், கே வி என் மணிமேகலை, 'காலா' குமார், வசந்த் மாரிமுத்து, சிவா மாறன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+கோபாலா கிருஷ்ணா ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு இசை ஞானி இளையராஜா இசையமைத்திருக்கிறார். தெருக்கூத்து கலைஞர்களின் வாழ்வியலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை லேர்ன் & டீச் புரொடக்ஷன் நிறுவனம் சார்பில் தயாரிப்பாளர் சாய் தேவானந்த் தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/7c3750d5.json)
+
+---
+
+### கன்னட சுப்பர் ஸ்டார் சிவ ராஜ்குமார் நடிக்கும் 'பைரவனா கோனே பாதா' படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு
+
+*2024-07-10 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/188150) · `ta`
+
+சுப்பர் ஸ்டார் ரஜினிகாந்த் நடிப்பில் வெளியாகி வெற்றி பெற்ற 'ஜெயிலர்', நடிகர் தனுஷ் நடிப்பில் வெளியாகி வெற்றி பெற்ற 'கேப்டன் மில்லர்' ஆகிய படங்களின் மூலம் தமிழ் ரசிகர்களிடத்திலும் பிரபலமான கன்னட திரையுலகின் சுப்பர் ஸ்டாரான டொக்டர் சிவ ராஜ்குமார் கதையின் நாயகனாக நடித்திருக்கும் பைரவனா கோனே பாதா' படத்தின் பர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது.‌
+
+இயக்குநர் ஹேமந்த் எம். ராவ் இயக்கத்தில் உருவாகும் 'பைரவனா கோனே பாதா' திரைப்படத்தில் சிவ ராஜ்குமார் முதன்மையான வேடத்தில் நடிக்கிறார்.
+
+இப்படத்தில் நடிக்கும் நடிகர்கள் நடிகைகள் மற்றும் ஏனைய தொழில்நுட்ப கலைஞர்கள் பற்றிய விவரங்கள் விரைவில் அதிகாரப்பூர்வமாக வெளியிடப்படும் என எதிர்பார்க்கப்படுகிறது.
+
+...
+
+[Data](articles/460377f9.json)
 
 ---
 
@@ -169,6 +247,30 @@ He further emphasized that they acknowledge that three-wheelers provide a signif
 [Data](articles/6bd886aa.json)
 
 [Extended Data](ext_articles/6bd886aa.ext.json)
+
+---
+
+### ஐந்துமாத குழந்தைக்கு சத்திரசிகிச்சை இடம்பெற்றுக்கொண்டிருந்தத வேளை ரஸ்யா மேற்கொண்ட தாக்குதல் - உயிரை காப்பாற்ற போராடிய மருத்துவர்கள்
+
+*2024-07-10 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/188152) · `ta`
+
+மருத்துவர் ஒலேகொலுங்செப்போவின் குழுவினர் ஐந்துமாத குழந்தையான டராசிற்கு சத்திரசிகிச்சை செய்துகொண்டிருந்தவேளை பாரிய வெடிப்பு சத்தம் கேட்டது
+
+ஐந்துமாத குழந்தை சத்திரகிசிச்சை மேசையிலேயே காணப்பட்டது,அதனை சுற்றி சேதமடைந்த உபகரணங்களும் இரத்தக்காயங்களுடன் மருத்துவர்களும் காணப்பட்டனர்.
+
+எல்லோரும் உயிருடன் இருக்கின்றீர்களா என தான் சத்தமிட்டதை வைத்தியர் ஒலே ஹொலுப்செங்கோ நினைவுகூர்ந்தார்.
+
+செயற்கை சுவாசக்கருவி சேதமடைந்ததால்- குழந்தை தொடர்ந்தும் சுவாசிப்பதை உறுதிப்படுத்துவதற்காக மயக்கமருந்து நிபுணர் தீவிர முயற்சிகளில் ஈடுபட்டார்,அவர் பயன்படுத்தினார்.
+
+தாக்குதல் காரணமாக கூரைஇடிந்து விழக்கூடும் என்ற அச்சம் காரணமாக சிலமருத்துவர்கள் டராசுடன் மருத்துவமனையின் அடித்தளத்திற்கு ஒடினார்கள்.
+
+உக்ரைன் தலைநகரில் உள்ள சிறுவர் மருத்துவமனையை ரஸ்யாவின் ஏவுகணைகள் தாக்கிய பின்னர் இடம்பெற்ற சம்பவங்களே இவை.
+
+இந்த தாக்குதல் உக்ரைனை கடும் அதிர்ச்சிக்குள்ளாக்கியுள்ளது,உக்ரைனும் மேற்குலக நாடுகளும் இந்த தாக்குதலிற்கு கடும் கண்டனத்தை வெளியிட்டுள்ளள.
+
+...
+
+[Data](articles/5a205df6.json)
 
 ---
 
@@ -240,6 +342,24 @@ Acting Railway Station. S. Mudalige said.
 
 ---
 
+### இருட்டு அறையில் முரட்டு தேவதையாக மிரட்டும் 'மாய புத்தகம்'
+
+*2024-07-10 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/188148) · `ta`
+
+தமிழ் திரையுலகின் திறமை வாய்ந்த கலைஞர்களான ஸ்ரீகாந்த் - அசோக் - அபர்னதி- இணைந்து மிரட்டும் 'மாய புத்தகம்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் ரமா ஜெயப்பிரகாஷ் இயக்கத்தில் உருவாகி இருக்கும் 'மாய புத்தகம்' எனும் திரைப்படத்தில் அசோக், ஸ்ரீகாந்த், இளவரசு, அபர்னதி, 'ஆடுகளம்' நரேன், லோகேஷ், கே. எஸ். ஜி. வெங்கடேஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+ஆறுமுகம் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ரவி விஜயானந்த் இசையமைத்திருக்கிறார். ஹாரர் திரில்லராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஜாக்குவார் ஸ்டுடியோஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் பி. வினோத் ஜெயின் தயாரித்திருக்கிறார்.
+
+எதிர்வரும் 19 ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகவிருக்கும் இந்த திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/dc295bb2.json)
+
+---
+
 ### Student sexual harassment;Arrest for lover and mother
 
 *2024-07-10 16:47:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவி-பாலியல்-வன்புணர்வு-காதலனும்-தாயாரும்-கைது/175-340167) · `ta`
@@ -288,6 +408,20 @@ The young man and her complicity were arrested on Wednesday (10) for allegedly r
 
 ---
 
+### பணிப்புறக்கணிப்புக்கு உப ரயில் அதிபர் சங்கமும் ஆதரவு
+
+*2024-07-10 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/188136) · `ta`
+
+ரயில் நிலைய அதிபர் சங்கத்தினர் மற்றும் ரயில் கட்டுப்பாட்டாளர்கள் முன்னெடுத்துள்ள பணிப்புறக்கணிப்புக்கு உப ரயில் அதிபர் சங்கமும் ஆதரவு தெரிவித்துள்ளன.
+
+நாடளாவிய ரீதியில் உள்ள 172 உப ரயில் நிலையங்களை உள்ளடக்கிய வகையில் இன்று நள்ளிரவு முதல் இந்த ஆதரவு நடவடிக்கை இடம்பெறவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/bd8e154c.json)
+
+---
+
 ### Cabinet approves new action plan to combat gender-based harassment
 
 *2024-07-10 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100424/cabinet-approves-new-action-plan-to-combat-gender-based-harassment) · `en`
@@ -303,6 +437,18 @@ He also mentioned the necessity of a new national action plan has been identifie
 [Data](articles/22099b28.json)
 
 [Extended Data](ext_articles/22099b28.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தல் : கட்சித் தலைவர் கூட்டத்தில் எடுக்கப்பட்ட தீர்மானம் !
+
+*2024-07-10 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/188137) · `ta`
+
+ஜனாதிபதி தேர்தலை உரிய காலத்தில் நடத்துவதன் அவசியம் தொடர்பில் சபை ஒத்திவைப்பு விவாதத்தை நாளை வியாழக்கிழமை (11 ) நடத்த கட்சித் தலைவர் கூட்டத்தில் தீர்மானம் எடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/07eb63fb.json)
 
 ---
 
@@ -351,6 +497,18 @@ According to President Ranil Wickremesinghe, the 2024 budget was implemented in 
 [Data](articles/8cd8b557.json)
 
 [Extended Data](ext_articles/8cd8b557.ext.json)
+
+---
+
+### ஜனாதிபதியினதும் பாராளுமன்றத்தினதும் பதவிக்காலம் பற்றிய சந்தேகத்தை தீர்க்க அமைச்சரவை அங்கீகாரம்
+
+*2024-07-10 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/188138) · `ta`
+
+அரசியலமைப்பில் ஜனாதிபதியினதும் பாராளுமன்றத்தினதும் பதவிக்காலம் பற்றிய சந்தேகத்தை தீர்ப்பதற்கு 'ஆறு ஆண்டுகளுக்கு மேற்பட்ட' எனும் சொல்லுக்கு மாற்றாக 'ஐந்து ஆண்டுகளுக்கு மேற்பட்ட' எனும் சொல்லை பதிலீடு செய்து திருத்தத்தை மேற்கொள்ளவதற்கான யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளதாக அமைச்சரவை பேச்சாளர் பந்துல குணவர்தன தெரிவித்தார்.
+
+◼️
+
+[Data](articles/a531fdec.json)
 
 ---
 
@@ -1052,19 +1210,31 @@ Cows and buffaloes in Sri Lanka are only in India and Pakistan and a few years a
 
 ---
 
-### ප්‍රංශයේ සිට පල්ලේවෙල දිය ඇල්ල බලන්න ඇවිත් අවසන් ගමන් ගිය තරුණිය
+### Youth came to see the last traveled from France to Pallewela Face
 
 *2024-07-10 12:07:11* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රංශයේ-සිට-පල්ලේවෙල-දිය-ඇල්ල-බලන්න-ඇවිත්-අවසන්-ගමන්-ගිය-තරුණිය/11-410712) · `si`
 
-ඇල්ල පල්ලේවෙල දිය ඇල්ල නැරඹීමට ගොස් සිය පෙම්වතා සමඟ   දියඇල්ලේ   ගල්පර්වතයකට නැග ජායාරූප ගැනිමට යාමේදී ගල්පර්වතයෙන් ලිස්සා දියඇල්ලේ අඩි 200ක පමණ පහලට ඇද වැටී බරපතළ තුවාල ලබා බදුල්ල ශික්ෂණ රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි  19 හැවිරිදි ප්‍රංශ ජාතික විදේශික සංචාරක තරුණිය ඊයේ (9) මියගිය බව ඇල්ල පොලිසිය පවසයි .
+A 19-year-old French tourist, Monique Yakout Derkane, died after an accident in Pallewela, Sri Lanka. She arrived with her boyfriend and was hospitalized in the ICU. The incident is under investigation by local authorities.
 
-මෙසේ අවාසනාවන්ත ලෙස මියගොස් ඇත්තේ ශ්‍රී ලංකාවේ සංචාරයක් සදහා මෙරටට සිය 20 හැවිරිදි ප්‍රංශ ජාතික විදේශික පෙම්වතා සමඟ     පැමිණ සිටි පවුලයින් මොනිකිව් යාකොට් ඩර්කේන් (pauline monique yakout  Derkane) නැමති 19 හැවිරිදි ප්‍රංශ ජාතික විදේශික තරුණියක යැයි පොලිසිය කීය .
+🟩
 
-බණ්ඩාරවෙල වැඩබලන මහේස්ත්‍රාත් සෙනෙවිරත්න වීරසිංහ මහතා ඊයේ (9) මෙම අනතුර සිදු වූ ඇල්ල පල්ලේවෙල දිය ඇල්ල අසලට ගොස් ස්ථානීය පරීක්ෂණය සිදු කලහ .
+19-year-old Forever Foreign Tourist Hospital, a 19-year-old tourist arrival in the Wiyalada area was reported to be treated at the Intensive Care Unit of the Wiyalawala with his boyfriends with his boyfriends.Police say.
+
+The deceased has been identified as a 19-year-old French national foreigner named Money Monique Yakout Derkane.
+
+Acting Magistrate Seniority Seneviratne Weerasinghe yesterday (9) took place near the Elstest investigation into the event of the crash yesterday.
+
+The Magistrate's template on the remains were carried out by the Badulla Magistrate's Court of Badulla Magistrate's Court and submitting the post mortem examination at the Badulla Teaching Court Medical Officer of Badulla Teaching Hospital.
+
+The police said that the Sri Lankan visit to Sri Lanka had come with their foreign lover on the 25th, police said.
+
+The two French visit to the French, the French forecasting couple, had gone to a roalpered at the Wiyaweera in Wiyaweera, police said.
 
 ...
 
 [Data](articles/a3dd5eb7.json)
+
+[Extended Data](ext_articles/a3dd5eb7.ext.json)
 
 ---
 
@@ -2039,207 +2209,5 @@ President's Counsel Sarath N. The letter stated that the appointments made for t
 [Data](articles/3246f623.json)
 
 [Extended Data](ext_articles/3246f623.ext.json)
-
----
-
-### Last decision of electricity bill
-
-*2024-07-10 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198656) · `si`
-
-The Public Utilities Commission announced its final decision on electricity tariffs on July 15th, after considering public opinion and proposals from the Sri Lanka Electricity Board (CEB). Domestic tariffs were reduced by 25.5%, while religious and charity rates decreased by 3%. However, there were no reductions proposed for hotels and industries. The CEB also categorized domestic electricity consumption, proposing price cuts for various usage levels, from 0 to 180 units, aiming to make electricity more affordable for different consumer groups.
-
-🟩
-
-The Public Aermobility Commission says that the final decision on the 15th of July 15th, following public opinion on electricity tariffs.
-
-He was referred to 46 representatives representing the previous registered squares.
-
-The Sri Lanka Electricity Board (CEB) has filed proposals to the Public Utilities Commission regarding the electricity tariff.
-
-Accordingly, the domestic category is reduced to 25.5%, religious and charities decrease in 3%.
-
-However, according to these proposals, there is no proposal to reduce fees to the hotels and industry.
-
-According to the proposed domestic electricity tariff revision, the fee for a unit of electricity per unit 0 to 30 is reduced to Rs.
-
-The fee for the unit from 31 to 60 units has been reduced to Rs.
-
-According to the Electricity Board's proposals, the domestic electricity consumption has been allocated to several categories.
-
-Accordingly, 0 to 60 units of domestic electricity consumers consume of more than 60 units will reduce the cost of Rs. 25 to 15.
-
-...
-
-[Data](articles/477741bc.json)
-
-[Extended Data](ext_articles/477741bc.ext.json)
-
----
-
-### Sri Lanka passes changes telecom law, allowing Starlink to be licensed
-
-*2024-07-10 07:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-passes-changes-telecom-law-allowing-starlink-to-be-licensed-171571/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s parliament passed an amendment to the telecom regulatory law, which Technology Minister Kanaka Herath said will allow Elon Musk’s Starlink to be licensed.
-
-Starlink has applied for a license in March 2024, but Sri Lanka did not have the required legal framework to allow such independent service providers to operated in the island, Minister Herath said.
-
-The new law will also provide a framework for to license and regulate cable landing stations.
-
-The law is modernized and has also taken into consideration suggestions by Rohan Samarajiva, a former telecom regulator, Minister Herath said.
-
-◼️
-
-[Data](articles/78079e10.json)
-
-[Extended Data](ext_articles/78079e10.ext.json)
-
----
-
-### Several trains cancelled due to strike
-
-*2024-07-10 06:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100408/several-trains-cancelled-due-to-strike) · `en`
-
-Train operations have been disrupted owing to the trade union action launched by the Railway Station Masters.
-
-The Railway Department said that several trains have been cancelled while limited trains are in operation due to the strike.
-
-However, steps have been taken to operate two trains each from Colombo Fort to Negombo and Veyangoda, two trains from Polgahawela to Fort, three trains from Galle to Fort and one train from Aluthgama to Fort, the department said.
-
-Meanwhile, it is reported that Railway Controllers have decided to support the trade union action initiated by Station masters.
-
-The Sri Lanka Railways Station Masters’ Union had decided to launch a strike action from midnight yesterday (09) based on several demands including promotions.
-
-As a result, several trains including the night mail trains to and from Colombo Fort and Badulla, to and from Trincomalee, to and from Batticaloa and night mail train to Rambukkana were cancelled, the department said.
-
-...
-
-[Data](articles/a99c9ecb.json)
-
-[Extended Data](ext_articles/a99c9ecb.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2024-07-10 06:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100407/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night.
-
-Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/c43e2240.json)
-
-[Extended Data](ext_articles/c43e2240.ext.json)
-
----
-
-### Railway lines stops - passengers informed
-
-*2024-07-10 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198655) · `si`
-
-The Railway Department announced changes to train schedules due to various demands, including no promotions. However, efforts are made to operate additional trains between certain routes. The Ministry of Transport clarified that train tickets are interchangeable with SLTB bus tickets. A strike by rail workers was deemed an essential service, affecting passenger travel. The Railway Staff Association supports the staff's actions, causing significant inconvenience to passengers.
-
-🟩
-
-The Railway Department says that a number of office trains will be invalid due to a number of demands, including the non-promotions.
-
-However, steps have been taken to run two trains from the Box to Negombo and Veyangoda and three trains from Galle and a train from Galle to Fort, the Colombo Fort.
-
-The Ministry of Transport (Transport) says that the train ticket is used to provide transport facilities from buses belonging to the Sri Lanka Transport Board (SLTB).
-
-Meanwhile the Secretary to the Ministry of Transport has informed the strike launched by the Railways as an essential services, including railway services and public action.
-
-The Chairman of the Association Navigary said that the Railway Steps' Association has also decided to support the procedure of the staff opened.
-
-Due to this trade union, the people were severely difficult and the railway passengers were engaged in yesterday's night.
-
-◼️
-
-[Data](articles/5629dd26.json)
-
-[Extended Data](ext_articles/5629dd26.ext.json)
-
----
-
-### Sri Lanka’s WealthTrust Securities rated A- with stable outlook by LRA
-
-*2024-07-10 06:31:00* · [`economynextcom`](https://economynext.com/sri-lankas-wealthtrust-securities-rated-a-with-stable-outlook-by-lra-171561/) · `en`
-
-ECONOMYNEXT – WealthTrust Securities, a primary dealer in government securities appointed by the central bank said it was rated ‘A-‘ with a ‘stable’ outlook by Lanka Ratings Agency.
-
-Started in 2011, the firm also operates as a licensed broker and dealer in debt under the Securities and Exchange Commission of Sri Lanka.
-
-WealthTrust had a proven track record, and the rating indicated its robust capitalization, significant increase in profitability and profit retention along with a prudent risk management framework, the statemtn said.
-
-The company a Capital Adequacy Ratio (CAR) of 43.01 percent for the Financial Year 2024, far exceeding statutory requirement of 10 percent.
-
-By investing 90 percent of its assets in Government securities, WealthTrust minimizes credit risk, though it remains exposed to interest rate fluctuations.
-
-The company’s strategy includes rebalancing its portfolio between short-term and long-term Government securities to mitigate these risks effectively.
-
-...
-
-[Data](articles/3cbf95d3.json)
-
-[Extended Data](ext_articles/3cbf95d3.ext.json)
-
----
-
-### LAUGFS Rubber triumphs with Gold Award at NCQP 2024
-
-*2024-07-10 06:24:16* · [`dailyftlk`](https://www.ft.lk/business/LAUGFS-Rubber-triumphs-with-Gold-Award-at-NCQP-2024/34-764071) · `en`
-
-From left: LAUGFS Rubber Quality Controller-Process P.R.D. Madushan, Mould Technician S.R.D. Lakshan, Quality Controller-Process S.S. Abesinghe and Machine Operator –Production W.C.N Kumara
-
-LAUGFS Rubber recently received a Gold Award at the National Convention on Quality and Productivity (NCQP) Awards 2024.
-
-Adding to the significance of the achievement, this is the first award received by its non-executive staff in this competition.
-
-LAUGFS Rubber said the achievement reflects the company’s commitment to excellence and its dedication to cultivating a culture of quality and productivity amongst its teams. The achievement not only brings national recognition to the LAUGFS Group but also highlights the potential and capability of Sri Lankan enterprises in the global arena.
-
-...
-
-[Data](articles/108061e4.json)
-
-[Extended Data](ext_articles/108061e4.ext.json)
-
----
-
-### Halpé Tea honoured as ‘Runner Up in Food and Beverage Sector’ at National Business Excellence Awards 2024
-
-*2024-07-10 06:23:17* · [`dailyftlk`](https://www.ft.lk/business/Halpé-Tea-honoured-as-Runner-Up-in-Food-and-Beverage-Sector-at-National-Business-Excellence-Awards-2024/34-764070) · `en`
-
-Halpé Tea, a subsidiary of Vella Group of Companies has reaffirmed its commitment to quality and excellence by securing the ‘Runner Up in the Food and Beverage Manufacturing Sector’ Award at the National Business Excellence Awards 2024. The awards ceremony was organised by the National Chamber of Commerce in Sri Lanka. This recognition underscores Halpé Tea’s commitment to producing high quality blends of tea that meets international standards. The ceremony was held at the Shangri-La Colombo, celebrating the best performers across a variety of sectors.
-
-...
-
-[Data](articles/51b1375d.json)
-
-[Extended Data](ext_articles/51b1375d.ext.json)
-
----
-
-### Fonterra Brands Lanka honoured with Silver Award for green productivity
-
-*2024-07-10 06:22:18* · [`dailyftlk`](https://www.ft.lk/business/Fonterra-Brands-Lanka-honoured-with-Silver-Award-for-green-productivity/34-764069) · `en`
-
-Fonterra Brands Lanka was recently honoured with a Silver Award at the inaugural Green Productivity Awards 2024, hosted by the Sri Lanka Association for the Advancement of Quality and Productivity (SLAAQP). This prestigious award recognises organisations that lead in green innovation, and reflects Fonterra’s dedication to integrating green productivity principles into its operations as part of its sustainability agenda.
-
-Encouraged by this recognition, Fonterra takes this opportunity to renew its commitment to innovative efforts aimed at further minimising environmental impact, preparing the industry for future global challenges.
-
-Fonterra has consistently focused on reducing its environmental impact while maintaining high productivity and value creation across its supply chain. This achievement thus highlights the significant strides that Fonterra has made towards a greener future, and positions it as a leader in green productivity.
-
-◼️
-
-[Data](articles/48de58d9.json)
-
-[Extended Data](ext_articles/48de58d9.ext.json)
 
 ---

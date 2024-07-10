@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 11:55:05**
+As of **2024-07-10 12:08:27**
 
 ## Newspaper Stats
 
-*Scraped **34,557** Articles*
+*Scraped **34,559** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
 adalk | 3,106
-adaderanalk | 3,969
+adaderanalk | 3,971
 tamilmirrorlk | 4,112
 dailymirrorlk | 4,733
 virakesarilk | 5,399
@@ -26,11 +26,49 @@ adaderanasinhalalk | 5,751
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,557 (100.0%) of 34,557 articles have been extended.
+34,557 (100.0%) of 34,559 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### Sangakkara gives seal of approval to external investment in national cricket boards
+
+*2024-07-10 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100418/-sangakkara-gives-seal-of-approval-to-external-investment-in-national-cricket-boards) · `en`
+
+Sri Lankan Kumar Sangakkara cricket legend believes investment partnering national cricket boards could help smaller nations compete at the highest level.
+
+Sangakkara was speaking at World Cricket Connects, an event at Lord’s hosted by the Marylebone Cricket Club (MCC) designed for the leading voices in the game to discuss the health of cricket and consider the path required for its future success.
+
+The event brought a range of prominent thinkers in cricket together at Lord’s, with players, coaches, broadcasters, franchise owners and administrators all in attendance.
+
+On the agenda was a wide range of topics, including the growth of the game, the distribution of finances and the global calendar.
+
+For Sangakkara, the position of Sri Lanka in the cricketing landscape is one key discussion point.
+
+...
+
+[Data](articles/50aee5a9.json)
+
+---
+
+### Tracking Sri Lankans in Russia-Ukraine warfront complicated – State Minister
+
+*2024-07-10 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100417/tracking-sri-lankans-in-russia-ukraine-warfront-complicated-state-minister) · `en`
+
+Sri Lanka’s State Minister of Foreign Affairs Tharaka Balasuriya stated that 464 complaints have been received so far with regard to Sri Lankan nationals involved in the ongoing Russia-Ukraine conflict.
+
+Furthermore, he highlighted the challenge of determining the exact number of Sri Lankans who have traveled to Russia to serve in the warfront as many individuals have taken indirect routes through India or Middle Eastern countries, complicating efforts to track direct departures from Sri Lanka.
+
+“However, we are currently addressing complaints from 464 individuals,” he stated.
+
+The State Minister confirmed that compensation requests for those killed in the war have been acknowledged. “These individuals, after traveling to Russia, entered into agreements with the security forces to fight alongside the Russian army. Despite claims of unawareness, these agreements are legally binding,” Balasuriya explained.
+
+...
+
+[Data](articles/2c869c8d.json)
+
+---
 
 ### Striking railway workers given deadline to report to duty
 
@@ -40,7 +78,11 @@ The General Manager of Sri Lanka Railways has warned that all Station Masters an
 
 Accordingly, all the striking Railway Station Masters and Railway Controllers are instructed to report for duty at their respective railway stations or at least to the nearest railway station.
 
-◼️
+The Sri Lanka Railways Station Masters’ Union had decided to launch a strike action from midnight yesterday (09) based on several demands including promotions.
+
+As a result, several trains including the office trains and night mail trains to and from Colombo Fort and Badulla, to and from Trincomalee, to and from Batticaloa and night mail train to Rambukkana were cancelled, the department said.
+
+...
 
 [Data](articles/fd862f57.json)
 
@@ -2201,51 +2243,5 @@ This article further states that the Sri Lanka Bar Association should not appear
 [Data](articles/af5cee8d.json)
 
 [Extended Data](ext_articles/af5cee8d.ext.json)
-
----
-
-### Dual allowance to pensioners
-
-*2024-07-09 19:15:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓய்வூதியம்-பெறுவோருக்கு-இரட்டை-கொடுப்பனவு/175-340103) · `ta`
-
-The Director General of the Department of Pension deposited 28.5 billion rupees in banks for 708,231 pensioners, ensuring 99.5% receive pensions without delay. Only 13,000 will receive theirs later due to absence on specific days.
-
-🟩
-
-The Director General of the Department of Pension has taken steps to deposit 28.5 billion rupees in the banks today (09) for the registered 708,231 pensioners.. Said Dias.
-
-Accordingly, about 99.5% of the pensioners will receive a pension allowance without any delay and that only 13,000 people will receive a pension allowance on July 11 as they do not fulfill their duty on July 08 and 9.
-
-◼️
-
-[Data](articles/f008b520.json)
-
-[Extended Data](ext_articles/f008b520.ext.json)
-
----
-
-### If the people are wrong again, it cannot be reversed
-
-*2024-07-09 19:10:29* · [`adalk`](https://www.ada.lk/breaking_news/යළිත්-වරක්-ජනතාවගෙන්-වරදක්-සිදු-වුවහොත්-එය-ආපසු-හැරවිය-නොහැකියි/11-410702) · `si`
-
-MP Vajira Abeywardena warns against election losers causing instability. He emphasizes the importance of recognizing genuine leaders and highlights efforts to address constitutional weaknesses under President Ranil Wickremesinghe. The government aims to curb false financial claims by political parties through the Budget Office Act and strengthen the economy with the Economic Recovery Bill. Wickremesinghe's leadership, supported by all parties, focuses on stabilizing the economy with international assistance but faces challenges including foreign debt and setting a 5% growth target by 2027. The public is urged to identify and hold accountable those misleading them, emphasizing the gravity of making mistakes in leadership selection.
-
-🟩
-
-The MP Vajira Abeywardena said that some parties incapable of winning the elections are being inflicted to destabilize strikes.
-
-He stressed that the people should recognize the people and the people again if the people were faced again.
-
-Parliamentarian Vajira Abeywardena said this at a press conference held at the President's Media Center today (09).
-
-Speaking further MP Vajira Abeywardena said,
-
-We should remember that every governments that came after independence were carried out for the country. But weaknesses were also held. President Ranil Wickremesinghe has taken steps to solve the weaknesses of the length of regimes at present anyway. One example is likely. The two verses 27, 28 of the Constitution, the principles and basic duties of direct duties. That is, the public can give rights. However, in any or 28, no matter what section 29, there is no legalization in section 29. It is also noted that no judicial statements have been achieved by any judicial statements or judiciary.
-
-...
-
-[Data](articles/e28955cb.json)
-
-[Extended Data](ext_articles/e28955cb.ext.json)
 
 ---

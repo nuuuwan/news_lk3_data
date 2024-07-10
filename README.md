@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 23:19:54**
+As of **2024-07-10 23:35:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,658 (100.0%) of 34,659 articles have been extended.
+34,659 (100.0%) of 34,659 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -244,21 +244,29 @@ The train should be opened from Colombo Fort to Polgahawela railway station.
 
 ---
 
-### වැඩට නොආපු ස්ථානාධිපතිවරුන් ගැන බන්දුල කී දේ
+### Bandula said of the OICs that did not go to work
 
 *2024-07-10 19:43:03* · [`adalk`](https://www.ada.lk/breaking_news/වැඩට-නොආපු-ස්ථානාධිපතිවරුන්-ගැන-බන්දුල-කී-දේ/11-410730) · `si`
 
-දුම්රිය වර්ජනයේ නිරත වූ ස්ථානාධිපතිවරු අද (10දා) දහවල් 12ට පෙර සේවයට වාර්තා කර නොමැති නම් එම ස්ථානාධිපතිවරු සියලුදෙනා සේවය හැරගියා සේ සලකන බවප්‍රවාහන හා මහාමාර්ග අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පැවසීය.
+Bandula Gunawardena, Minister of Motor and Highways, discussed issues related to the railway strike and the absence of certain officials (OICs). He mentioned the historical boycotts by railway engine drivers and the challenges faced in promoting them due to public service commission regulations. Despite efforts to address promotions and handle potential extremism, the situation escalated, leading to the declaration of railways as essential services. The minister emphasized the importance of maintaining essential services and warned against undermining national security.
 
-ඔවුන් සියලුදෙනාටරාජ්‍ය ත්‍රස්තවාදය පාවිච්චි කිරීම යන චෝදනාව මත මෙම පියවර ගන්නා බව අද (10දා) පාර්ලිමේන්තුවේදී අදහස් පළ කරමින් හෙතෙම සඳහන් කළේය.
+🟩
 
-එහිදී වැඩිදුරටත් අමාත්‍ය බන්දුල ගුණවර්ධන මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+The OIC of the railway strike was not reported today (10) at the time of the 12th of this afternoon, said Bandula Gunawardena, Minister of Motor and Highways.
 
-"දුම්රිය එංජින් රියදුරෝ හැමදාම වර්ජනය කරනවා අවුරුදු 10න් 10ට උසස්වීම් දෙන්න කියලා. ඒක වෙනස් කරන්න රාජ්‍ය සේවා කොමිසමේ අවසරය ගන්න ඕනි. කැබිනට් අනුමැතිය දුන්නට එහෙම කරන්න බෑ. එහෙම කරලා බොහොම අමාරුවෙන් රාජ්‍ය සේවා කොමිසමට කියලා එංජින් රියදුරන් එංජින් එක රේල් පීලි උඩ නතර කරලා ගියාම ලක්ෂ ගණන් මිනිස්සු අතරමං වන නිසා මම බොහොම අමාරුවෙන් අවුරුදු 05න් 05ට උසස්වීම් දෙන්න සම්බන්ධ කර ගත්තා.
+He said that this step was taken on charges of using the use of the terrorism of all the terrorism.
+
+The Minister Bandula Gunawardena said:
+
+"Railway engine drivers always boycarked every 10 years. Modify it to be able to get the permission of the Public Service Commission. Cabinet approval cannot be done. When the engineers stopped the public service commissions, I was close to the promotion to 5 out of five years.
+
+Then the OICs came and said that this would not be possible to promote 5 out of five years like engine drivers. I said it's not something that could be hit by one pens. I put a cabinet paper for it and to promote them to 5 out of five years. We welled the same time to promote Station Masks at 5 out of five years to the Public Service Commission. Yesterday, our ministry secretary had identified.
 
 ...
 
 [Data](articles/6ee7d32a.json)
+
+[Extended Data](ext_articles/6ee7d32a.ext.json)
 
 ---
 

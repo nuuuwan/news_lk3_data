@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 20:35:31**
+As of **2024-07-10 20:54:14**
 
 ## Newspaper Stats
 
-*Scraped **34,635** Articles*
+*Scraped **34,636** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,57 @@ adaderanalk | 3,984
 tamilmirrorlk | 4,129
 dailymirrorlk | 4,733
 virakesarilk | 5,414
-adaderanasinhalalk | 5,764
+adaderanasinhalalk | 5,765
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,633 (100.0%) of 34,635 articles have been extended.
+34,635 (100.0%) of 34,636 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### දුම්රිය වර්ජනය පළමු බිල්ල ගනියි
+### ක්ලබ් වසන්ත එලොව යැවූ අභිරහසේ භාගයක් හෙළිවෙයි ?
+
+*2024-07-10 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198683) · `si`
+
+සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඝාතනය සම්බන්ධයෙන් මේ වනවිට තොරතුරු රැසක් අනාවරණය වෙමින් පවතී.
+
+පොලීසිය පවසන්නේ වසන්ත ඝාතනය වෙනුවෙන් ලොකු පැටී, දුලාන්ව ඉත්තෙක් ලෙස පාවිච්චි කර ඇතැයි විමර්ශන අනුව පෙනීයන බවය.
+
+ව්‍යාපාරිකයකු වූ සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ජුලි 08 වනදා අතුරුගිරියේ පිහිටි ටැටූ මධ්‍යස්ථානයක සිදුවූ වෙඩි තැබීමකින් ජීවිතක්ෂයට පත්වුණි.
+
+එම අවස්ථාවේ එහි සිටි ප්‍රසිද්ධ ගායන ශිල්පිනී කේ. සුජීවාගේ සැමියා වන නයන වාසුල නැමැත්තාද මියගිය අතර කේ. සුජීවා, ක්ලබ් වසන්තගේ බිරිය, තවත් කාන්තාවක් හා පිරිමි පුද්ගලයෙකු තුවාල ලබා රෝහල්ගත කෙරුණි.
+
+පොලිස් විමර්ශන අනුව බලපිටියේ මුල් පදිංචිකරුවකු වූ ටැටූ මධ්‍යස්ථාන හිමිකාර දුලාන් සන්ජුල ඩුබායි හී සිටින ලොකු පැටීව හඳුනාගෙන ඇත්තේ මහේෂ් නමැති පුද්ගලයකු මාර්ගයෙනි.
+
+අනතුරුව ඔවුන් දෙදෙනා වට්ස්ඇප් මාර්ගයෙන් සම්බන්ධතා පවත්වා ඇති අතර එලෙස ගොඩනැගුණු සම්බන්ධතාව ඔස්සේ අතුරුගිරියේ ටැටූ මධ්‍යස්ථානය විවෘත කිරීමට සිදුවූ සාකච්ඡාව සැකකරු අද පොලීසිය හමුවේ ප්‍රකාශයක් කරමින් අනාවරණ කර තිබුණි.
+
+...
+
+[Data](articles/acc0b831.json)
+
+---
+
+### Railway strike laid down
 
 *2024-07-10 20:01:36* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-වර්ජනය-පළමු-බිල්ල-ගනියි/11-410733) · `si`
 
-දුම්රියෙන් ඇද වැටීමෙන් බෙම්මුල්ල දුම්රිය ස්ථානය අසලදී අද (10) පස්වරුවේ පුද්ගලයෙකු ජීවිතක්ෂයට පත්වි ඇතැයි පොලීසිය කියයි.
+A railway strike has occurred, resulting in one fatality near Bemmulla station due to a fall from a train. Services between Colombo Fort and Polgahawela stations have been disrupted.
 
-දුම්රිය වර්ජනය හෙතුවෙන් කොළඹ කොටුව සිට පොල්ගහවෙල දුම්රිය ස්ථානය දක්වා දුම්රියක් ධාවනයට යොදවා තිබූ අතර එම දුම්රියෙ මගීන් අතර පැවැති අධික තදබදය හේතුවෙන් ඔහු දුම්රියෙන් වැටී මිය යන්නට ඇතැයි පොලීසිය සැක කරයි.
+🟩
+
+One person has died near the Bemmulla railway station by falling from the train.
+
+The train should be opened from Colombo Fort to Polgahawela railway station.
 
 ◼️
 
 [Data](articles/7f98b492.json)
+
+[Extended Data](ext_articles/7f98b492.ext.json)
 
 ---
 
@@ -188,17 +216,27 @@ The National Housing Development Authority has planned to provide title deeds to
 
 ---
 
-### ටැටූ දුලාන් සියල්ල වමාරයි
+### Tattoo Dulah all over
 
 *2024-07-10 18:31:20* · [`adalk`](https://www.ada.lk/breaking_news/ටැටූ-දුලාන්-සියල්ල-වමාරයි/11-410724) · `si`
 
-සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඝාතනයට විදේශගතව සැඟව සිටින සංවිධානාත්මක අපරාධකරුවකු වන අහුංගල්ලේ ලොකු පැටි ටැටූ නිර්මණ ශිල්පී දුලාන් සංජුල වෙත රුපියල් පහලොස් ලක්ෂ අසූ හය දහස් පන්සියයක මුදලක් ලබාදුන් බව පොලිසිය හමුවේ පාපෝච්චාරණයක් කරමින් ටැටූ නිර්මාණ ශිල්පියා පවසා තිබේ.
+Sureshandra Wasantha Perera, known as Ahungalla, a prominent figure in organized crime, was involved in a complex scheme involving a tuck shop investment scam. His plan allegedly involved luring investors with false promises of high returns, leading to a series of events culminating in a violent confrontation. The story highlights the dangers of organized crime and the lengths to which criminals will go to deceive and exploit others for personal gain.
 
-ඒ සඳහා ටැටූ නිර්මාණ ශිල්පියාගේ මිතුරෙකු වන මහේෂ් නමැත්තෙකු විදේශගතව සිටින ලොකු පැටි සම්බන්ධ කර දී ඇති බවද එම  විමර්ශනවලදී තොරතුරු අනාවරණය වී තිබේ.
+🟩
+
+Sureshandra Wasantha Perera alias Ahungalla, a large cyst of organized criminal, has been given a sum of Rs.
+
+Investigations have revealed that a friend of a tative designer's friend Mahes, who had been abroad.
+
+The Dulan Convention told the police to the police: "I was eager to start a Tuck Shop. A friend Mahsh called my Mahesh speaking about money, I was told that you would have a friend to start the shop to start. .Ifter I gave me a call to Mahesh. It's a big pathetic. He asked, how many people you're going to do this work. I said there were only twenty thousand briefs. The road was asked if this would be able to find money from this. Then I said that I could overcome this because I was able to get out of work. I would have the phone.
+
+But two to three days, but did not talk about two or three days and asked what the brother begins to do what the shop would start. That road was told to tell me if I had a collision and came to a bike, and a bike came to me.
 
 ...
 
 [Data](articles/8ad4147e.json)
+
+[Extended Data](ext_articles/8ad4147e.ext.json)
 
 ---
 
@@ -2223,33 +2261,5 @@ The State Minister of the State Minister says that 464 complaints have been rece
 [Data](articles/16ea9f2c.json)
 
 [Extended Data](ext_articles/16ea9f2c.ext.json)
-
----
-
-### The Election Commission is preparing for the presidential election
-
-*2024-07-10 09:32:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலுக்கு-தேர்தல்-ஆணையம்-தயாராகி-வருகிறது/175-340130) · `ta`
-
-The Election Commission is gearing up for the presidential election, with a meeting confirming sufficient resources and a fourfold increase in printing costs. Security and postal services are assured, with the potential election announcement set for after July 17th.
-
-🟩
-
-A meeting to investigate the preparations for the upcoming presidential election was held on Tuesday (09).
-
-State Press Representatives, Inspector General of Police and Postal Chancellor were present.
-
-The State Printer Department has confirmed that there are adequate goods to hold elections. The Government Press Officer told the Commission that there was a significant increase (four times) at the cost of printing, compared to previous elections.
-
-The Inspector General of Police assured detailed security arrangements, including the time of filing nominations until the election.
-
-He assured the Postal Council Commission that smooth action would be taken for all the elections, including the ballot distribution.
-
-According to the Constitution, the National Election Commission may announce the presidential election after July 17. The Chairman of the Election Commission RMAl. Ratnayake confirmed the desire to announce the election date by the end of July. Remble
-
-◼️
-
-[Data](articles/de0edbce.json)
-
-[Extended Data](ext_articles/de0edbce.ext.json)
 
 ---

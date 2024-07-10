@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 16:35:16**
+As of **2024-07-10 16:52:27**
 
 ## Newspaper Stats
 
-*Scraped **34,597** Articles*
+*Scraped **34,599** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
 adalk | 3,115
-adaderanalk | 3,976
-tamilmirrorlk | 4,124
+adaderanalk | 3,977
+tamilmirrorlk | 4,125
 dailymirrorlk | 4,733
 virakesarilk | 5,402
 adaderanasinhalalk | 5,759
@@ -26,27 +26,65 @@ adaderanasinhalalk | 5,759
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,596 (100.0%) of 34,597 articles have been extended.
+34,597 (100.0%) of 34,599 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### වැඩට ආපු ගුරුවරුන්ට පඩි වැඩිවෙන විදිය
+### Cabinet approves new action plan to combat gender-based harassment
+
+*2024-07-10 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100424/cabinet-approves-new-action-plan-to-combat-gender-based-harassment) · `en`
+
+The Cabinet of Ministers has green-lighted the second multi-sectoral national action plan (2024-2028) for the elimination of sexual and gender-based harassments in Sri Lanka.
+
+Joining the Cabinet press conference held today (10), Cabinet Spokesman Bandula Gunawardane said that since policy involvement is necessary to ensure the rights of women, men, children and all diverse groups to live in a fair and social environment without any violence, the first national action plan to address the harassments based on sexual and gender sociality was implemented with an integrated approach during the period 2012-2020.
+
+He also mentioned the necessity of a new national action plan has been identified in a follow up and assessment process made to find out the impact of the previous action plan.
+
+...
+
+[Data](articles/22099b28.json)
+
+---
+
+### “வீட்டுக்கு தீ வைத்தபோது பெறுமதியை உணர்ந்தேன்”
+
+*2024-07-10 16:24:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டுக்கு-தீ-வைத்தபோது-பெறுமதியை-உணர்ந்தேன்/175-340165) · `ta`
+
+இரண்டு வருடங்களுக்கு முன்னர் தனது வீடு தீவைத்து அழிக்கப்பட்ட போது, ​​ஒரு வீட்டின் பெறுமதியை கடுமையாக உணர்ந்ததாகவும் அதன் பெறுமதியை உணர்ந்ததாலேயே கொழும்பில் உள்ள அடுக்குமாடி குடியிருப்பில் வசிக்கும் 2,50,000 பேருக்கு அந்த வீடுகளின் முழுமையான உரிமையையும் வழங்கும் வேலைத்திட்டத்தை நடைமுறைப்படுத்தியதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+கொழும்பிலுள்ள அடுக்குமாடி குடியிருப்புகளில் வாழ்கின்ற, இரண்டரை இலட்சத்துக்கும் குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு அந்த வீடுகளின் பூரண உரிமையை வழங்கும் வேலைத்திட்டத்தின் முதற்கட்டமாக 50,000 வீடுகளை வழங்கும் “ரன்தொர உறுமய” வீட்டு உரிமை வழங்கும் ஆரம்ப நிகழ்வு ஜனாதிபதி செயலகத்தில் நடைபெற்றது. இந்த நிகழ்வில் உரையாற்றுகையிலே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+
+கொழும்பு மாவட்டத்தில் 31 அடுக்குமாடி குடியிருப்புகளில் அமைந்துள்ள 130 வீடுகளுக்கான உரிமைகள் வழங்கி வைக்கப்பட்டதுடன், இதன்போது அடையாளமாக ஜனாதிபதி சிலருக்கு வீட்டு உரிமைகளை கையளித்தார்.
+
+...
+
+[Data](articles/60067e0e.json)
+
+---
+
+### The teachers who have come to work grow
 
 *2024-07-10 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198675) · `si`
 
-වෘත්තීය සමිති වැඩවර්ජනයට එක් නොවී සේවයට වාර්තා කළ රාජ්‍ය සේවකයන්ට වැටුප් වැඩිවීම් ලැබෙන අයුරු අමාත්‍ය බන්දුල ගුණවර්ධන මහතා අද (10) පැහැදිලි කළේය.
+Minister Bandula Gunawardena announced that public servants who did not join the trade union strike would receive a special salary increment approved by the Cabinet. This decision aims to compensate those who continued working during the strike period, ensuring fairness among all employees regardless of their participation in the strike.
 
-වෘත්තීය සමිති වැඩවර්ජනයට එක් නොවී සේවයට වාර්තා කළ, විධායක ශ්‍රේණියේ නොවන සියලුම රාජ්‍ය නිලධාරීන්ට විශේෂ වැටුප් වර්ධකයක් ලබාදීමටත්, ඉදිරි උසස්වීම් සඳහා යොදාගත හැකි විශේෂ  ප්‍රශංසා සහතිකයක් නිකුත් කිරීමටත් ඊයේ (09) කැබිනට් අනුමැතිය හිමිවුණි.
+🟩
 
-"වර්ජනය කරපු දිනවල... කඩාකප්පල්කාරී ක්‍රියාවට සම්බන්ධ නොවී දරුවන්ගේ පැත්තේ හිටගත්තු ගුරුවරුන්ට විතරක් 3.1 ශ්‍රේණියේ ගුරුවරයෙකුට රුපියල් 525කින්, 2 වන ශ්‍රේණියේ පළමු පංතියේ ගුරුවරයෙකුට රු 1,335ක වැටුප් වැඩිවීමකුත්, පළමු ශ්‍රේණියේ ගුරුවරුන් සඳහා රු 1,630ක වැටුප් වර්ධකයෙකුත් විශ්‍රාම වැටුපට බලනොපාන ආකාරයට වැටුප්වල වර්ධකයක් ලැබෙනවා."
+Minister Bandula Gunawardena today explained how the trade union had been paid to the public servants who were not united to the trade union strike.
 
-"රාජ්‍ය අංශයේ අනෙකුත් සුළු සේවකයින් හා අනෙකුත් අයටත්, වැඩකරපු සියලුදෙනාටත් මෙවැනි වැටුප් වර්ධකයන් ලැබෙනවා ඇති. භාණ්ඩාගාරයට මුදල් නැත්නම් කොතරම් උද්ඝෝෂණය කරත්, තොතරම් වැඩ වර්ජනය කරත්, කොතරම් සාප කළත්, පොල් ගැහුවත්, දේවාලවලට ගියත් කොහෙන්ද දෙන්නේ ? කවුද දෙන්නේ ?"
+Cabinet was approved by the Cabinet yesterday to grant a special increase in special salaries that were not found in the trade union strike.
+
+"In boycotted days ... The teachers of the teachers on a grade 2, a second class teacher at a grade 2, a second class teacher at a cost of Rs 1,3,630 for the first grade teachers will not be able to compete with Rs. "
+
+"Salary increments will be received by other sector minority workers and others and all who worked. How much of the strike or curse, and how much you will go to the temple, and how much of the strike, and how much you strike, curse, and go to the temple?Who gives? "
 
 ◼️
 
 [Data](articles/ccd6af08.json)
+
+[Extended Data](ext_articles/ccd6af08.ext.json)
 
 ---
 
@@ -2151,45 +2189,5 @@ He underscored the importance of attracting investments across various sectors t
 [Data](articles/87f1e1b7.json)
 
 [Extended Data](ext_articles/87f1e1b7.ext.json)
-
----
-
-### EFC holds 95th Annual General Meeting
-
-*2024-07-10 04:52:58* · [`dailyftlk`](https://www.ft.lk/business/EFC-holds-95th-Annual-General-Meeting/34-764049) · `en`
-
-The Employers’ Federation of Ceylon (EFC) recently concluded its 95th Annual General Meeting at the Bandaranaike Memorial International Conference Hall.
-
-At this general meeting, the Board of Trustees and Council Members representing different Employer Groups were appointed for the financial year 2024/25.
-
-The outgoing Chairman Krishan Balendra commended the EFC for extending its services and supporting member organisations during challenging times. He emphasised the vital role played by the Federation in engaging with authorities to accommodate the requirements of the private sector in relation to the draft Employment Act.
-
-Dinesh Weerakkody, a former Chairman of the Employees’ Trust Fund Board of Sri Lanka, National Human Resource Development Council of Sri Lanka, Commercial Bank of Ceylon PLC, and Hatton National Bank PLC was appointed as the Chairman, while Commercial Bank of Ceylon PLC Managing Director Sanath Manatunge was appointed as the Vice Chairman of the Federation.
-
-...
-
-[Data](articles/b23b19e1.json)
-
-[Extended Data](ext_articles/b23b19e1.ext.json)
-
----
-
-### Sri Lanka-China Business Council holds 23rd AGM
-
-*2024-07-10 04:49:50* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-China-Business-Council-holds-23rd-AGM/34-764048) · `en`
-
-Seated from left: Chaminda Perera, Nethmi Jayamaha, Chinese Ambassador Qi Zhenhong, SLCBC President Haroun Cader, M.H.M.K. Hameez, and Aneesha Boteju
-
-Standing from left: Adheesha Salpitikorala, Tharindu Mahawedage, Chandrika Ranawaka, Sampath Kumara, Kumudu Jayalath, Dhanushka Perera, G. Rajendran, and Damith Jayawardana
-
-The 23rd Annual General Meeting of the Sri Lanka-China Business Council of the Ceylon Chamber of Commerce was held on 2 July 2024 at Hilton Colombo Residencies, Colombo 02.
-
-The event was graced by Ambassador of the People’s Republic of China to Sri Lanka Qi Zhenhong, who graciously participated as the Chief Guest. Kusum Wijethilleke was the keynote speaker of the event. Embassy of the People’s Republic of China Economic and Commercial Counsellor Tang Yandi, Embassy Officials, and Government Officials also participated in the event.
-
-...
-
-[Data](articles/fdf6d190.json)
-
-[Extended Data](ext_articles/fdf6d190.ext.json)
 
 ---

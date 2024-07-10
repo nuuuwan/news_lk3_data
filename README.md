@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 01:19:56**
+As of **2024-07-11 01:35:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,661 (100.0%) of 34,664 articles have been extended.
+34,664 (100.0%) of 34,664 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The past week has seen a flurry of media activity from apologists for, and suppo
 
 [Data](articles/17ed5b64.json)
 
+[Extended Data](ext_articles/17ed5b64.ext.json)
+
 ---
 
 ### Trust in Government’s commitment to democratic process crucial for recovery
@@ -55,6 +57,8 @@ A Fundamental Rights petition is pending before the Supreme Court requesting a p
 ...
 
 [Data](articles/c50a8ccf.json)
+
+[Extended Data](ext_articles/c50a8ccf.ext.json)
 
 ---
 
@@ -111,6 +115,8 @@ Dr. Masoud Pezeshkian, the reformist candidate who criticized the ‘morality po
 ...
 
 [Data](articles/0f4b253e.json)
+
+[Extended Data](ext_articles/0f4b253e.ext.json)
 
 ---
 

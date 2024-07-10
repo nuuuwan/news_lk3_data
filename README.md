@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 23:05:11**
+As of **2024-07-10 23:19:54**
 
 ## Newspaper Stats
 
-*Scraped **34,658** Articles*
+*Scraped **34,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,049
 dailyftlk | 2,168
-adalk | 3,125
+adalk | 3,126
 adaderanalk | 3,986
 tamilmirrorlk | 4,131
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,658 (100.0%) of 34,658 articles have been extended.
+34,658 (100.0%) of 34,659 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -241,6 +241,24 @@ The train should be opened from Colombo Fort to Polgahawela railway station.
 [Data](articles/7f98b492.json)
 
 [Extended Data](ext_articles/7f98b492.ext.json)
+
+---
+
+### වැඩට නොආපු ස්ථානාධිපතිවරුන් ගැන බන්දුල කී දේ
+
+*2024-07-10 19:43:03* · [`adalk`](https://www.ada.lk/breaking_news/වැඩට-නොආපු-ස්ථානාධිපතිවරුන්-ගැන-බන්දුල-කී-දේ/11-410730) · `si`
+
+දුම්රිය වර්ජනයේ නිරත වූ ස්ථානාධිපතිවරු අද (10දා) දහවල් 12ට පෙර සේවයට වාර්තා කර නොමැති නම් එම ස්ථානාධිපතිවරු සියලුදෙනා සේවය හැරගියා සේ සලකන බවප්‍රවාහන හා මහාමාර්ග අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පැවසීය.
+
+ඔවුන් සියලුදෙනාටරාජ්‍ය ත්‍රස්තවාදය පාවිච්චි කිරීම යන චෝදනාව මත මෙම පියවර ගන්නා බව අද (10දා) පාර්ලිමේන්තුවේදී අදහස් පළ කරමින් හෙතෙම සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් අමාත්‍ය බන්දුල ගුණවර්ධන මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+"දුම්රිය එංජින් රියදුරෝ හැමදාම වර්ජනය කරනවා අවුරුදු 10න් 10ට උසස්වීම් දෙන්න කියලා. ඒක වෙනස් කරන්න රාජ්‍ය සේවා කොමිසමේ අවසරය ගන්න ඕනි. කැබිනට් අනුමැතිය දුන්නට එහෙම කරන්න බෑ. එහෙම කරලා බොහොම අමාරුවෙන් රාජ්‍ය සේවා කොමිසමට කියලා එංජින් රියදුරන් එංජින් එක රේල් පීලි උඩ නතර කරලා ගියාම ලක්ෂ ගණන් මිනිස්සු අතරමං වන නිසා මම බොහොම අමාරුවෙන් අවුරුදු 05න් 05ට උසස්වීම් දෙන්න සම්බන්ධ කර ගත්තා.
+
+...
+
+[Data](articles/6ee7d32a.json)
 
 ---
 
@@ -2265,21 +2283,5 @@ For more detailed information, please refer to the tsunami advisory
 [Data](articles/d722e0ab.json)
 
 [Extended Data](ext_articles/d722e0ab.ext.json)
-
----
-
-### Fire breaks out at National Library
-
-*2024-07-10 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100414/fire-breaks-out-at-national-library-) · `en`
-
-A fire has reportedly broken out near the assembly hall at the ground floor of the National Library and Documentation Services Board of Sri Lanka in Colombo.
-
-The Fire Brigade stated that several fire trucks have been deployed to douse the flames.
-
-◼️
-
-[Data](articles/f9b51696.json)
-
-[Extended Data](ext_articles/f9b51696.ext.json)
 
 ---

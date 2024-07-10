@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 12:53:57**
+As of **2024-07-10 13:05:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,752
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,567 (100.0%) of 34,571 articles have been extended.
+34,571 (100.0%) of 34,571 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The relevant proposal has been submitted to the Cabinet by President Ranil Wickr
 ◼️
 
 [Data](articles/a362039c.json)
+
+[Extended Data](ext_articles/a362039c.ext.json)
 
 ---
 
@@ -64,35 +66,51 @@ Initial investigations suggest that the ammunition and magazines may have been s
 
 [Data](articles/33f6c3cd.json)
 
+[Extended Data](ext_articles/33f6c3cd.ext.json)
+
 ---
 
-### விசாவை நீடிக்குமாறு கிழக்கு ஆளுநர்  மலேசியாவிடம் கோரிக்கை
+### Eastern Governor requests Malaysia to extend the visa
 
 *2024-07-10 12:27:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசாவை-நீடிக்குமாறு-கிழக்கு-ஆளுநர்-மலேசியாவிடம்-கோரிக்கை/175-340148) · `ta`
 
-மலேசியாவுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் மலேசியா உயர் கல்வி அமைச்சர் ஷாம்ப்ரி அப்துல் காதிரை சந்தித்து இலங்கைக்கும் மலேசியாவுக்குமான கூட்டுத்திட்டம் குறித்து கலந்துரையாடினார்.
+Eastern Provincial Governor Senthil Thondaman, during his visit to Malaysia, discussed enhancing educational ties between Sri Lanka and Malaysia, including extending visas for Sri Lankan students from two to four years. This move aims to retain more international students post-graduation. Additionally, the collaboration includes launching Malay language courses in Sri Lanka and a joint exchange program. The meeting was attended by Malaysia's Higher Education Minister Shampri Abdul Qadir, Parliamentarian Datosree Saravanan Murugan, and Sri Lankan Ambassador Sumangala Dias.
 
-மலேசியாவில் உயர்கல்வி கற்கும் 3800 யிற்கும் மேற்பட்ட இலங்கை மாணவர்கள் தற்போதைய சட்டத்தின் படி ஒவ்வொரு இரண்டு வருடங்களுக்கும் இலங்கைக்கு திரும்பி  விசாவைப் புதுப்பிக்கும் நிலை காணப்படுகிறது. ஆதலால் அவர்களின் பட்டப்படிப்பை நிறைவு  செய்யும் காலமான   4 வருடங்களுக்கு விசா காலத்தை அதிகரித்து தருமாறு மலேசியா உயர் கல்வி அமைச்சர் ஷாம்ப்ரி அப்துல் காதிரிடம் ஆளுநர் வேண்டுகோள் விடுத்தார். ஆளுநரின் வேண்டுகோளுக்கு இணங்க அமைச்சர் அதற்கான நடவடிக்கை யை மேற்கொள்ள நடவடிக்கை மேற்கொள்வதாக தெரிவித்தார்.
+🟩
 
-மேலும் இலங்கையில் இருந்து மலேசியாவிற்கு செல்லும் மாணவர்கள் மற்றும் தொழிலாளர்களுக்கு மலாய் மொழிக்கான பயிற்சியை இலங்கையில் ஆரம்பிப்பது குறித்தும் கலந்துரையாடப்பட்டதுடன், மலேசியாவிற்கும் இலங்கைக்குமான  கல்வி தொடர்பான கூட்டு பரிமாற்ற திட்டங்கள் குறித்தும் கலந்துரையாடப்பட்டது.
+Eastern Provincial Governor Senthil Thondaman, who is on an official visit to Malaysia, met Malaysia Higher Education Minister Shampri Abdul Qadir and discussed the joint venture for Sri Lanka and Malaysia.
 
-...
+More than 3800 Sri Lankan students who are studying higher education in Malaysia return to Sri Lanka every two years as per the current law.. Malaysia's Higher Education Minister Shampri Abdul Qadir has requested the Governor to increase the visa period for four years after completing their degree.. At the request of the Governor, the Minister said that steps would be taken to take action.
+
+In addition, students and workers from Sri Lanka to Malaysia have been discussed in Sri Lanka and discussed the launch of Malay language training in Sri Lanka and the joint transmission program on Malaysia and Sri Lanka.
+
+Parliamentarian Datosree Saravanan Murugan and Sri Lankan Ambassador to Malaysia Sumangala Dias were also present.
+
+◼️
 
 [Data](articles/ee5f858d.json)
 
+[Extended Data](ext_articles/ee5f858d.ext.json)
+
 ---
 
-### தேசிய நூலகத்தில் தீ
+### Fire in the National Library
 
 *2024-07-10 12:25:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-நூலகத்தில்-தீ/175-340147) · `ta`
 
-கொழும்பு-07 டோரிங்டனில் உள்ள தேசிய நூலகம் மற்றும் ஆவணங்கள் மத்திய நிலைய கட்டிடத்தில் தீ விபத்து ஏற்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+A fire erupted at the National Library and Documents in Torington, Colombo-07, starting from the meeting hall on the ground floor. Firefighters are currently battling the blaze.
 
-கட்டிடத்தின் தரைத்தளத்தில் உள்ள கூட்ட அரங்கில் தீ விபத்து ஏற்பட்டதாகவும், தீயை அணைக்கும் பணியில் தீயணைப்புப் படையினர் ஈடுபட்டு வருவதாகவும் பொலிஸார் தெரிவித்தனர்.
+🟩
+
+The National Library and Documents in Torington, Colombo-07, were a fire at the central building, police said.
+
+Police said the fire broke out at the meeting hall on the ground floor of the building and that firefighters were working on the fire.
 
 ◼️
 
 [Data](articles/7a926cd1.json)
+
+[Extended Data](ext_articles/7a926cd1.ext.json)
 
 ---
 

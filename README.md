@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 09:54:42**
+As of **2024-07-10 10:06:51**
 
 ## Newspaper Stats
 
-*Scraped **34,533** Articles*
+*Scraped **34,535** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,123 +14,183 @@ bbccomsinhala | 338
 newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,037
-dailyftlk | 2,167
+dailyftlk | 2,168
 adalk | 3,103
 adaderanalk | 3,961
 tamilmirrorlk | 4,109
 dailymirrorlk | 4,733
 virakesarilk | 5,397
-adaderanasinhalalk | 5,745
+adaderanasinhalalk | 5,746
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,527 (100.0%) of 34,533 articles have been extended.
+34,533 (100.0%) of 34,535 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### රුසියානු - යුක්‍රේන යුද්ධයට ගිය ලාංකිකයින් ගැන අලුත් කතාවක්
+### යමාල් වාර්තා පොත් අතරට
+
+*2024-07-10 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198662) · `si`
+
+යුරෝපීය කුසලාන පාපන්දු තරගාවලියේ අවසන් තරගයට සුදුසුකම් ලැබීමට ස්පාඤ්ඤය සමත් විය.
+
+මෙම තරගයේදී ස්පාඤ්ඤය වෙනුවෙන් ක්‍රීඩාකළ ලෙමීන් යමාල් එම කණ්ඩායමේ පළමු ගෝලය වාර්තා කළේය.
+
+තවමත් වයස අවුරුදු 16යි දින 362ක් වන යමාල් යුරෝපීය කුසලාන තරගයකදී ගෝලයක් වාර්තාකළ ළාබාලතම ක්‍රීඩකයා ලෙස වාර්තා පොත් අතරට එක්විය.
+
+◼️
+
+[Data](articles/94ef2182.json)
+
+---
+
+### A new story about Sri Lankans who went to war in Russian - Ukrainian war
 
 *2024-07-10 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198661) · `si`
 
-රුසියානු - යුක්‍රේන යුද්ධයට සම්බන්ධ වූ  ශ්‍රී ලාංකිකයින් සම්බන්ධයෙන් පැමිණිලි 464ක් ලැබී ඇති බව තාරක බාලසූරිය රාජ්‍ය අමාත්‍යවරයා පවසයි.
+Sri Lankan nationals involved in the Russian-Ukrainian conflict have sparked 464 complaints, according to the State Minister.
+
+🟩
+
+The State Minister of the State Minister says that 464 complaints have been received regarding Sri Lankans involved in the war of Russian - Ukrainian war.
 
 ◼️
 
 [Data](articles/16ea9f2c.json)
 
+[Extended Data](ext_articles/16ea9f2c.ext.json)
+
 ---
 
-### ஜனாதிபதித் தேர்தலுக்கு தேர்தல் ஆணையம் தயாராகி வருகிறது
+### The Election Commission is preparing for the presidential election
 
 *2024-07-10 09:32:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலுக்கு-தேர்தல்-ஆணையம்-தயாராகி-வருகிறது/175-340130) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான ஏற்பாடுகள் தொடர்பில் ஆராய்வதற்கான கூட்டம் தேர்தல்கள் ஆணைக்குழுவில் செவ்வாய்க்கிழமை (09) நடைபெற்றது.
+The Election Commission is gearing up for the presidential election, with a meeting confirming sufficient resources and a fourfold increase in printing costs. Security and postal services are assured, with the potential election announcement set for after July 17th.
 
-அரச அச்சகப் பிரதிநிதிகள், பொலிஸ் மா அதிபர், தபால் மா அதிபர் ஆகியோர் இதில் கலந்து கொண்டனர்.
+🟩
 
-5 தேர்தல்களை நடத்துவதற்கு போதுமான பொருட்கள் இருப்பதாக அரசு அச்சுப்பொறி திணைக்களம் உறுதிப்படுத்தியுள்ளது. முந்தைய தேர்தல்களுடன் ஒப்பிடுகையில், அச்சிடும் செலவில் கணிசமான அதிகரிப்பு (நான்கு மடங்கு) இருப்பதாகவும் அரசாங்க அச்சக அதிகாரி ஆணைக்குழுவிடம் தெரிவித்தார்.
+A meeting to investigate the preparations for the upcoming presidential election was held on Tuesday (09).
 
-தேர்தல் முடிவடையும் வரை வேட்புமனு தாக்கல் செய்யும் காலத்தை உள்ளடக்கிய விரிவான பாதுகாப்பு ஏற்பாடுகளை பொலிஸ் மா அதிபர் உறுதியளித்தார்.
+State Press Representatives, Inspector General of Police and Postal Chancellor were present.
 
-வாக்குச் சீட்டு விநியோகம் உட்பட தேர்தல் தொடர்பான அனைத்து நடவடிக்கைகளுக்கும் சுமூகமான நடவடிக்கைகள் மேற்கொள்ளப்படும் என தபால் மா அதிபர் ஆணையத்திற்கு உறுதியளித்தார்.
+The State Printer Department has confirmed that there are adequate goods to hold elections. The Government Press Officer told the Commission that there was a significant increase (four times) at the cost of printing, compared to previous elections.
 
-...
+The Inspector General of Police assured detailed security arrangements, including the time of filing nominations until the election.
+
+He assured the Postal Council Commission that smooth action would be taken for all the elections, including the ballot distribution.
+
+According to the Constitution, the National Election Commission may announce the presidential election after July 17. The Chairman of the Election Commission RMAl. Ratnayake confirmed the desire to announce the election date by the end of July. Remble
+
+◼️
 
 [Data](articles/de0edbce.json)
 
+[Extended Data](ext_articles/de0edbce.ext.json)
+
 ---
 
-### பாதுகாப்புக்கு உத்தரவாதம் கேட்கிறார் சிறிதரன்
+### Sridharan asks for security
 
 *2024-07-10 09:20:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்புக்கு-உத்தரவாதம்-கேட்கிறார்-சிறிதரன்/175-340129) · `ta`
 
-என்னையும் எனது குடும்பத்தையும் இலக்கு வைத்து அச்சுறுத்தும் செயற்பாடுகள் முன்னெடுக்கப்படுவதால் எனதும் எனது குடும்பத்தின் பாதுகாப்புக்கும் சபாநாயகர் உத்தரவாதம் அளிக்க வேண்டும் என இலங்கை தமிழரசுக்கட்சியின் யாழ். மாவட்ட எம்.பி.யான சிவஞானம் சிறிதரன் வேண்டுகோள் விடுத்தார்.
+District MP Sridharan Sivagnanam appeals to the Speaker for security after his family was threatened by masked individuals wielding swords and sharp weapons outside his home near Hindu College, Jaffna. He requests a thorough investigation to ensure his family's safety.
 
-பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (09)  இடம்பெற்ற இலங்கை தொலைத்தொடர்பு திருத்த சட்டமூலத்தின் இரண்டாம் வாசிப்பு மீதான விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு சபாநாயகரிடம் வேண்டுகோள் விடுத்த அவர் மேலும் பேசுகையில்,
+🟩
 
-இந்துக்கல்லூரி ஒழுங்கை, யாழ்ப்பாணம் என்னும் முகவரியில் அமைந்துள்ள எனது வதிவிட இல்லத்திற்கு முன்னால் கடந்த 28 ஆம் திகதி  கருப்புத்துணியால் இலக்கத்தகடுகள் மறைக்கப்பட்ட 4 மோட்டார் சைக்கிள்கள் வந்துநின்றன.
+The Speaker should guarantee the safety of my family as the activities of threatening me and my family are being carried out by the Speaker.. District MP Sivagnanam Sridharan appealed.
 
-வெள்ளிப்பிடியிட்ட வாள்கள் ,கூரிய ஆயுதங்களுடன் முகமூடி அணிந்து வந்த 12 பேர் பாடசாலை நேரமான காலை 8 .05 மணியளவில்   நடமாடினர். இந்த நடமாட்டம் எனது குடும்பத்தினரையும் அவ்வீதியில் வசிக்கும் ஏனைய பொது மக்களையும் அச்சுறுத்தும் வகையில் அமைந்திருந்ததை இந்த சபையின் கவனத்திற்கு கொண்டு வருகின்றேன்.
+Speaking to the Speaker in a speech on the second reading of the Sri Lanka Telecommunication Amendment Bill held in Parliament on Tuesday (09), he said.
 
-...
+On the 28th of last month, 4 motorcycles were hidden in front of my resident house located at the address of Hindu College, Jaffna.
+
+12 people wearing a masked with silky swords and sharp weapons walked around 8:05 am. I bring to the notice of this congregation that this movement threatened my family and other people living in the country.
+
+This has caused fear of the safety of my family. Therefore, the Speaker should investigate the backdrop of the above events with a high compassion and guarantee my family's safety.
+
+◼️
 
 [Data](articles/9c4f452e.json)
 
+[Extended Data](ext_articles/9c4f452e.ext.json)
+
 ---
 
-### மின் கட்டணம் பற்றிய புதிய அறிவிப்பு
+### New Notice of Electric Pain
 
 *2024-07-10 09:18:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணம்-பற்றிய-புதிய-அறிவிப்பு/175-340128) · `ta`
 
-மின்சாரக் கட்டண திருத்தம் தொடர்பில் பொதுமக்களின் கருத்துக்களை ஆராய்ந்த பின்னர் இறுதித் தீர்மானம் எதிர்வரும் ஜூலை 15 ஆம் திகதி அறிவிக்கப்படும் என பொதுப் பயன்பாடுகள் ஆணைக்குழுவின் தலைவர் பேராசிரியர் மஞ்சுள பெர்னாண்டோ தெரிவித்துள்ளார்.
+Prof. Manjula Fernando announced that the Public Utilities Commission will reveal its decision on power tariff revisions by July 15, after considering public feedback. The CEB has proposed reducing family tariffs by 25.5% and those for religious and charity institutions by 3%. However, there are no proposed reductions for the hotel and industrial sectors.
 
-இதற்கு முன்னர் பதிவு செய்த பல்வேறு தொழிற்துறைகளை பிரதிநிதித்துவப்படுத்தும் 46 பிரதிநிதிகளிடம் கருத்துக்கள் பெறப்பட்டதாக குறிப்பிட்டார்.
+🟩
 
-எதிர்காலத்தில் மேற்கொள்ளப்படும் மின்சாரக் கட்டணத் திருத்தங்கள் தொடர்பான முன்மொழிவுகளை இலங்கை மின்சார சபை, பொதுப் பயன்பாடுகள் ஆணைக்குழுவிடம் சமர்ப்பித்துள்ளது.
+Prof. Manjula Fernando, Chairman of the Public Utilities Commission, said that the final resolution will be announced on July 15 after reviewing the public's views on the power tariff revision.
 
-அதன்படி, குடும்ப அங்கத்தவர்களின் கட்டணத்தில் 25.5% குறைப்பும், மத மற்றும் தொண்டு நிறுவனங்களுக்கு 3% குறைக்கப்படும்.
+He noted that 46 representatives representing the various industries previously registered have been received.
 
-எவ்வாறாயினும், இந்த முன்மொழிவுகளின்படி, ஹோட்டல் மற்றும் தொழில்துறை துறைக்கான கட்டணக் குறைப்பு எதுவும் முன்மொழியப்படவில்லை. R
+The Ceylon Electricity Board (CEB) has submitted proposals to the future power tariff amendments to the Public Utilities Commission.
+
+Accordingly, the fees of family members will be reduced by 25.5% and a reduction in religious and charities by 3%.
+
+However, according to these proposals, no fee reduction for the hotel and industrial sector has been proposed. Remble
 
 ◼️
 
 [Data](articles/7dd23d12.json)
 
+[Extended Data](ext_articles/7dd23d12.ext.json)
+
 ---
 
-### ’தேயிலையை மாத்திரம் நம்பியிருக்கவில்லை’
+### Do not rely on telephone tea
 
 *2024-07-10 09:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேயிலையை-மாத்திரம்-நம்பியிருக்கவில்லை/175-340127) · `ta`
 
-பெருந்தோட்ட மக்களை தொடர்ந்து துன்புறுத்தினால் பல்லாயிரம் கணக்கானோர் வீதிக்கு இறங்குவார்கள்.பெருந்தோட்ட மக்கள் தேயிலை தொழிற்றுறையை மாத்திரம் நம்பியிருக்கவில்லை என்பதை அனைவரும் விளங்கிக் கொள்ள வேண்டும் என இலங்கை தொழிலாளர் காங்கிரஸின் பொது செயலரும் நீர் வழங்கல் மற்றும் பெருந்தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்தார்..
+Jeevan Thondaman emphasizes that reliance on the tea industry is outdated, while Dhammika Perera criticizes low plantation salaries and government involvement, highlighting profitability issues among plantation companies. Both call for collective action to improve conditions for plantation workers.
 
-ஜனாதிபதி வேட்பாளரும் ஹேலிஸ் நிறுவன  உரிமையாளருமான தம்மிக்க பெரேராவே  1,700 ரூபாய் சம்பளத்தை எதிர்க்கிறார். இவரது மூன்று பெருந்தோட்ட நிறுவனங்கள் மாத்திரம் 3000 மில்லியனுக்கும் அதிகமாக இலாபமடைந்துள்ளன என்றார்.
+🟩
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (09)  இடம்பெற்ற இலங்கை தொலைத்தொடர்பு (திருத்தச்) சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+The General Secretary of the Ceylon Workers Congress and the Minister of Water Supply and Plantation Infrastructure Development, Jeevan Thondaman, said that all people should understand that the people do not rely on the tea industry.
+
+Dhammika Perera, the presidential candidate and the owner of Halees, opposes the salary of Rs 1,700. He said only three plantation companies were profitable for more than 3,000 million.
+
+Speaking at a debate on the Sri Lanka Telecommunications (Amendment) Bill held in Parliament on Tuesday (09), he said.
+
+Plantation workers do not get a salary of 1,700 rupees and the government is playing the role of a few people. People need to know why we are in the affair. We have not made a salary request to the President with a political purpose.The salary of 1000 rupees was in effect until the year.
 
 ...
 
 [Data](articles/a9e25d50.json)
 
+[Extended Data](ext_articles/a9e25d50.ext.json)
+
 ---
 
-### ’வேலை வெட்டி இல்லாமல் வரவில்லை’
+### Exchange work does not come without cutting
 
 *2024-07-10 09:07:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலை-வெட்டி-இல்லாமல்-வரவில்லை/175-340126) · `ta`
 
-பொதுமக்கள் பாதுகாப்பு அமைச்சரிடம் 4 ஆண்டுகளுக்கு முன்னர்  என்னால் முன்வைக்கப்பட்ட  கேள்விகளுக்கு இன்றுவரை பதில் கிடைக்கவில்லை. நாங்கள் ஒன்றும் வேலை வெட்டியில்லாமல் காலையில் புறப்பட்டு பாராளுமன்றம் வரவில்லையென  என இலங்கை தமிழரசுக்கட்சியின் மட்டக்களப்பு மாவட்ட எம்.பி. யான   இரா.சாணக்கியன்  சபாநாயகரிடம் கடும் அதிருப்தியை தெரிவித்தார்.
+The Sri Lanka Tamil National Alliance MP, Ira Sanakian, criticized the Minister of Public Security for not addressing questions raised four years ago regarding fake media outlets. He questioned whether the minister was aware of these outlets and if measures would be taken to ban them. The minister requested more time to respond, leading to accusations of avoiding the issue.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (09) இடம்பெற்ற   எம்.பி.யால் பொது மக்கள் பாதுகாப்பு அமைச்சரிடம், நாட்டில் குழப்பகரமான நிலைமைகளைத் தோற்றுவிக்கக் கூடிய செய்திகளை வெளியிடும் பல போலி ஊடகங்கள் இலங்கையில் செயற்படுவதை   அமைச்சர் அறிவாரா?,ஆம் எனில் மேற்படி  அந்த ஊடகங்கள் என்ன? பதிவு செய்யப்படாத போலி இணையத்தளங்களைத் தடை  செய்வதற்கான நடவடிக்கைகள் எடுக்கப்படுமா, ஆமெனில் அந்நடவடிக்கைகள் என்ன? இன்றேல் ஏன் என கேள்வியெழுப்பினார்.
+🟩
 
-இந்த கேள்விகளுக்கு   பதிலளிக்க பொதுமக்கள் பாதுகாப்பு  அமைச்சர் சார்பில் அரச தரப்பு பிரதம கொறடாவான அமைச்சர் பிரசன்ன ரணதுங்க கால அவகாசம் கோரினார்.
+The questions that I put forward by the Minister of Public Security 4 years ago have not been answered to date. The Batticaloa District MP of the Sri Lanka Tamil National Alliance (TNA). The Ira Sanakian expressed his displeasure with the Speaker.
+
+Does the Minister know that the MP in Parliament on Tuesday (09) is the Minister of Public Security Minister, the Minister knows that many fake media outlets that can create confusion in the country?Will steps take steps to ban unregistered fake websites?He questioned why.
+
+On behalf of the Minister of Public Security, Minister Prasanna Ranatunga sought time to answer these questions.
+
+This is not the case. The Chanakyan MP said that the Minister of Public Security had questioned the Minister of Public Security a month ago and submitted the answers to the House.I found the answer to the answer.
 
 ...
 
 [Data](articles/86cbebd7.json)
+
+[Extended Data](ext_articles/86cbebd7.ext.json)
 
 ---
 
@@ -679,6 +739,24 @@ Sri Lankan Ambassador to the United States Mahinda Samarasinghe and officials fr
 [Data](articles/47a8a4b3.json)
 
 [Extended Data](ext_articles/47a8a4b3.ext.json)
+
+---
+
+### Foreign Secretary to visit Washington for fifth US-Sri Lanka Partnership Dialogue
+
+*2024-07-10 05:13:24* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Secretary-to-visit-Washington-for-fifth-US-Sri-Lanka-Partnership-Dialogue/56-764053) · `en`
+
+Foreign Secretary Aruni Wijewardane will undertake an official visit to the United States to attend the fifth US-Sri Lanka Partnership Dialogue scheduled to be held at the US Department of State on 12 July.
+
+The fifth US-Sri Lanka Partnership Dialogue will be co-chaired by Wijewardane and the US Department of State Political Affairs Acting Under Secretary John Bass.
+
+Discussions in the Partnership Dialogue will focus on multifaceted aspects of the US-Sri Lanka bilateral relations, including economic, defence, and security cooperation; democracy, reconciliation, and human rights; climate change, science and technology cooperation; education and cultural cooperation, and people-to-people contacts.
+
+Sri Lankan Ambassador to the United States Mahinda Samarasinghe and officials from the Embassy of Sri Lanka and the Foreign Affairs Ministry will also attend the Partnership Dialogue.
+
+◼️
+
+[Data](articles/741e5b55.json)
 
 ---
 
@@ -2173,49 +2251,5 @@ Commenting on the film, the director said, “Constable Kandan has emerged as a 
 [Data](articles/fac73edd.json)
 
 [Extended Data](ext_articles/fac73edd.ext.json)
-
----
-
-### PM Modi's visit to Russia, geo -political impacts
-
-*2024-07-09 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/188069) · `ta`
-
-PM Modi's visit to Russia highlights historical ties, from USSR's 1971 UN veto for India against Pakistan to current strategic partnerships.
-
-🟩
-
-“In 1965. Later, during India's war with Pakistan, in December 1971, the Soviet Union used its veto power to support India at the UN Security Council.. But the United States sent the aircraft carrier to the Bay of Bengal in favor of Pakistan "
-
-◼️
-
-[Data](articles/07c606d8.json)
-
-[Extended Data](ext_articles/07c606d8.ext.json)
-
----
-
-### A / L application forwarding period is extended
-
-*2024-07-09 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198644) · `si`
-
-The deadline for applying to the Advanced Level examination has been extended to April 12th. Applications for both school and private candidates were initially due on April 10th but have now been pushed back. The exam itself is scheduled to take place from November 25th to December 20th.
-
-🟩
-
-The provincial scheme has further extended the applications for the Advanced Level examination this year.
-
-Applications for schools and private candidates were to be completed tomorrow (10).
-
-However, the Department of Examinations said that the date was taken to extend the date until the 12th of this month.
-
-The Department of Examinations further stated that after the day after the day, applications will be postulated.
-
-This time the GCE A / L examination will be held from November 25 to December 20th.
-
-◼️
-
-[Data](articles/a72dbf2f.json)
-
-[Extended Data](ext_articles/a72dbf2f.ext.json)
 
 ---

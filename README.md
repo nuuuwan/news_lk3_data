@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 05:19:54**
+As of **2024-07-10 05:37:43**
 
 ## Newspaper Stats
 
-*Scraped **34,480** Articles*
+*Scraped **34,486** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 311
-colombotelegraphcom | 323
+colombotelegraphcom | 324
 bbccomsinhala | 337
 newsfirstlk | 363
 islandlk | 1,936
 economynextcom | 2,034
-dailyftlk | 2,150
+dailyftlk | 2,155
 adalk | 3,101
 adaderanalk | 3,958
 tamilmirrorlk | 4,100
@@ -26,11 +26,99 @@ adaderanasinhalalk | 5,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,479 (100.0%) of 34,480 articles have been extended.
+34,480 (100.0%) of 34,486 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### Seven arrested in Club Wasantha murder; Kanjipani Imran identified as mastermind
+
+*2024-07-10 05:15:02* · [`dailyftlk`](https://www.ft.lk/news/Seven-arrested-in-Club-Wasantha-murder-Kanjipani-Imran-identified-as-mastermind/56-764055) · `en`
+
+Police yesterday arrested one more suspect in connection to the assassination of Sunhill Group of Companies Chairperson Surendra Wasantha Perera, better known as “Club Wasantha” bringing the total number of suspects in custody to seven.
+
+On Monday, the Western Province South Crimes Division arrested the owner of the tattoo studio where the incident occurred, along with his brother and several others believed to be connected to the incident.
+
+Investigations have revealed that Dulan Sanjula, the owner of the tattoo studio, set up the establishment for the sole purpose of luring Club Wasantha to the location. According to police sources, this is believed to have been orchestrated under the instructions of underworld figure Athurugiriye Patty, currently abroad, who was acting on orders from the notorious Kanjipani Imran. Kanjipani Imran is currently believed to be in France.
+
+...
+
+[Data](articles/9414edea.json)
+
+---
+
+### IGP confident in apprehending all Club Wasantha murder suspects soon
+
+*2024-07-10 05:13:47* · [`dailyftlk`](https://www.ft.lk/news/IGP-confident-in-apprehending-all-Club-Wasantha-murder-suspects-soon/56-764054) · `en`
+
+Inspector General of Police Deshabandu Tennekoon in a statement yesterday expressed his confidence that investigators will be able to apprehend all suspects connected to the killing of Surendra Wasantha Perera alias Club Wasantha.
+
+According to Tennekoon, investigators have already gathered significant information about those involved in the crime. “Investigations are now focusing on determining whose instructions the perpetrators followed and the motives behind the killing,” Tennekoon said.
+
+The IGP confirmed that the police have already uncovered the mastermind behind the killing. “We are confident that this crime will be solved in a short period of time, and the criminals will be brought to justice,” he said confidently.
+
+...
+
+[Data](articles/b9aff846.json)
+
+---
+
+### Ali Sabry to visit Washington for fifth US-Sri Lanka Partnership Dialogue
+
+*2024-07-10 05:13:24* · [`dailyftlk`](https://www.ft.lk/news/Ali-Sabry-to-visit-Washington-for-fifth-US-Sri-Lanka-Partnership-Dialogue/56-764053) · `en`
+
+Foreign Secretary Aruni Wijewardane will undertake an official visit to the United States to attend the fifth US-Sri Lanka Partnership Dialogue scheduled to be held at the US Department of State on 12 July.
+
+The fifth US-Sri Lanka Partnership Dialogue will be co-chaired by Wijewardane and the US Department of State Political Affairs Acting Under Secretary John Bass.
+
+Discussions in the Partnership Dialogue will focus on multifaceted aspects of the US-Sri Lanka bilateral relations, including economic, defence, and security cooperation; democracy, reconciliation, and human rights; climate change, science and technology cooperation; education and cultural cooperation, and people-to-people contacts.
+
+Sri Lankan Ambassador to the United States Mahinda Samarasinghe and officials from the Embassy of Sri Lanka and the Foreign Affairs Ministry will also attend the Partnership Dialogue.
+
+◼️
+
+[Data](articles/47a8a4b3.json)
+
+---
+
+### Karu Jayasuriya appointed as Chairman of Former Parliamentarians’ Caucus
+
+*2024-07-10 05:12:15* · [`dailyftlk`](https://www.ft.lk/news/Karu-Jayasuriya-appointed-as-Chairman-of-Former-Parliamentarians-Caucus/56-764052) · `en`
+
+Former Speaker Karu Jayasuriya was unanimously appointed as the Caucus Chair of the Former Parliamentarians’ Caucus at its first meeting held recently under the chairmanship of Speaker Mahinda Yapa Abeywardena.
+
+Jayasuriya’s name was proposed by former Deputy Speaker Thilanga Sumathipala and former MP Sumedha G. Jayasena.
+
+In addition, former MP Shantha Premaratne was appointed as the convener of the Caucus unanimously.
+
+The Parliament Secretary General Kushani Rohanadeera and Assistant Secretary General Hansa Abeyratne were also present at this meeting.
+
+During the lengthy discussion regarding issues faced by former MPs, Rohanadeera stated that the Secretariat of the Parliament is working to resolve such concerns.
+
+The Speaker pointed out the importance of contributing the knowledge and experience of former parliamentarians for the future development of the country.
+
+...
+
+[Data](articles/704c7a5d.json)
+
+---
+
+### Colombo chosen as telecast centre for Dawoodi Bohras’ Ashara Mubaraka congregations
+
+*2024-07-10 05:11:11* · [`dailyftlk`](https://www.ft.lk/news/Colombo-chosen-as-telecast-centre-for-Dawoodi-Bohras-Ashara-Mubaraka-congregations/56-764051) · `en`
+
+The Dawoodi Bohra complex in Colombo is a hive of activity as the city has been chosen as a venue for live broadcast of the Ashara Mubaraka 2024 congregations being held in Karachi, Pakistan this year.
+
+Every Dawoodi Bohra community centre across the world marks the occasion with a series of congregations over 10 days covering various themes for its local congregation. The largest gathering within the community takes place at the venue where the leader of the worldwide Dawoodi Bohras community His Holiness Syedna Mufaddal Saifuddin leads the congregations. Continuing the time-honoured tradition of his forefathers, Saifuddin chooses a different city each year as the venue for Ashara Mubaraka.
+
+This year, Saifuddin has chosen Karachi to host the Ashara Mubaraka congregations; however, thousands of community members, both residents and visitors in Colombo, will also have the opportunity to benefit from the live broadcast of congregations from Karachi.
+
+...
+
+[Data](articles/c700594c.json)
+
+---
 
 ### Ali Sabry tells world Sri Lanka’s economy showing signs of recovery on CNA
 
@@ -51,6 +139,8 @@ He underscored the importance of attracting investments across various sectors t
 ...
 
 [Data](articles/87f1e1b7.json)
+
+[Extended Data](ext_articles/87f1e1b7.ext.json)
 
 ---
 
@@ -249,6 +339,16 @@ In reply, Goal Marwals lost all the wickets in 19.4 overs and lost 135 runs.
 ---
 
 ### 2024-07-09 (Tuesday)
+
+### Amateur Poem On Human Rights?
+
+*2024-07-09 23:42:13* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/amateur-poem-on-human-rights/) · `en`
+
+◼️
+
+[Data](articles/fcc681f4.json)
+
+---
 
 ### Two unidentified gunmen on a motorcycle in Embilipitiya: One killed
 
@@ -2213,167 +2313,5 @@ Of these, the Welfare Council has announced that it will be carried out from Jul
 [Data](articles/8bd919a4.json)
 
 [Extended Data](ext_articles/8bd919a4.ext.json)
-
----
-
-### Train operations on Coastal Line disrupted due to derailment
-
-*2024-07-09 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100391/train-operations-on-coastal-line-disrupted-due-to-derailment) · `en`
-
-The train operations on the Coastal Line have been completely disrupted owing to the derailment of a train near Colombo Fort railway station.
-
-Two compartments of a slow train plying from Panadura to Colombo Fort have derailed near Colombo Fort railway station this morning (09), blocking both railway tracks on the Coastal Line, the Department of Railways said.
-
-As a result, the trains operating from Galle towards Colombo Fort and Maradana have been limited to Kompanna Veediya railway station, according to the department.
-
-However, it has been reported that restoration work on the railway tracks has not yet commenced. As a result, it will take a few more hours for train operations to return to normal.
-
-◼️
-
-[Data](articles/0949f59e.json)
-
-[Extended Data](ext_articles/0949f59e.ext.json)
-
----
-
-### Jelenski's sadness on Ukraine's death - 37 people killed
-
-*2024-07-09 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188014) · `ta`
-
-Ukrainian President Woldemir Jelensky expressed deep disappointment over India's PM Modi meeting Russian President Putin amidst Russia's attacks on Ukraine, including a children's hospital. The incident, which occurred during Modi's first visit to Russia since the conflict began, resulted in over 30 deaths across several Ukrainian cities. This event underscores the global community's concern over the ongoing violence and its impact on innocent civilians, particularly children.
-
-🟩
-
-Ukrainian President Woldemir Jelensky has said that it is very disappointing to see Indian Prime Minister Narendra Modi Russian President Vladimir Putin on the day of Russia's attack on several parts of Ukraine, including the children's hospital.
-
-Russia's missiles attacked the cities of Ukraine in the morning while the Indian Prime Minister was meeting with the Indian Prime Minister at Novo Ocario, outside Moscow.
-
-This is the first visit to Indian Prime Minister Russia after Russia waged war on Ukraine two years ago.
-
-Jelensky said that it is a great disappointment for the world's greatest democracy leader Mosco's bloodbath.
-
-More than 30 people have been killed in the attack on several cities, including a children's hospital in Ukraine's capital.
-
-Ukraine officials have said that there have been a day -to -day attack on many cities of Ukraine.
-
-Ukrainian officials said that the attack on Okmatit, the main children's hospital in the capital of Ukraine, said.
-
-...
-
-[Data](articles/8a03c891.json)
-
-[Extended Data](ext_articles/8a03c891.ext.json)
-
----
-
-### There are more graduates than the vaccine of the Western
-
-*2024-07-09 12:56:21* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-පුරප්පාඩුවලට-වඩා-උපාධිධාරීන්-වැඩියි/11-410691) · `si`
-
-In the Western Province, a teacher shortage is exacerbated by court cases against graduate recruitment, affecting education quality. Minister Prasanna Ranatunga highlights this issue, emphasizing the need for solutions to ensure adequate teaching staff, especially for unemployed graduates.
-
-🟩
-
-Chief Government Whip Prasanna Ranatunga, Minister of Government Prasanna Ranatunga says that a shortage of teachers in schools has created a shortage of teachers in schools due to courts.
-
-The Minister emphasizes that there is a large shortage of teachers in the Western Province.
-
-Chief Government Whip, Minister Prasanna Ranatunga was speaking at a statement regarding unemployed graduates today (9). Parliament was held under the patronage of Speaker, Mahinda Yapa Abeywardena.
-
-"Parliament continues to talk about graduates' question. Some groups have passed courts over the recruitment of graduates. That is why there was a shortage of teachers in schools. The shortage of teachers is most common in the Western Province. Although they have been recruited to the Western Province, some have left the subject.
-
-...
-
-[Data](articles/224814d8.json)
-
-[Extended Data](ext_articles/224814d8.ext.json)
-
----
-
-### Club's murder reveals
-
-*2024-07-09 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198633) · `si`
-
-Businessman Club Wasantha Perera was murdered at a Tatu Center in Athurugiriya, along with singer Nayana Vasulu and another woman, while his wife and a man were injured. The police, led by DIG Ganga Marapana, found a shotgun in a van fleeing the scene, which was traced to the Ratnapura area. Investigations suggest the involvement of criminals hiding in Duthuwah Wasantha, with no direct link to Kjepani Imran. Victims' conditions vary; Sujeewa's improving, but Club Wasantha's wife is seriously ill.
-
-🟩
-
-The police revealed that the bodies of the big pabi and bully and bulletin 'Shantha hiding in Duthuwah Wasantha is directly designed directly with Clubh Wasantha murder.
-
-The businessman, Sorchandra Wasantha Perera, or Club, was shot dead in a Tatu Center in Athurugiriya yesterday morning.
-
-The famous singer kin. Nayana Vasulu was killed and the kings of Sujeewa's partner. Sujeewa, Club Wasantha's wife, another woman and a man was injured and hospitalized.
-
-Accordingly, 6 police teams including the Western Province South Criminal Crimes Division and six police teams were conducted under the direct supervision of DIG Ganga Marapana in charge of the Western South.
-
-As a result, the shotgun was found in a small time of the car when the car arrived in a small time and except in Karatatoottou area in Kaduwela.
-
-The car had fled from Korattoota in Korathota, a van.
-
-Its number plates were also criminal criminals and the investigations were launched using a police official dog.
-
-...
-
-[Data](articles/d83be346.json)
-
-[Extended Data](ext_articles/d83be346.ext.json)
-
----
-
-### Principals and teachers are affected by educational activities
-
-*2024-07-09 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/188006) · `ta`
-
-Educational activities across Sri Lanka are significantly impacted by a nationwide teacher strike over unpaid salaries. Schools report low attendance, with students returning home early. The strike, requested by the Sri Lanka Teachers' Union, affects all levels of education, from primary to secondary, including areas like Negombo and Ja-Ela. This situation leads to disappointment among students and disrupts the learning process.
-
-🟩
-
-School educational activities have been severely affected due to the ongoing holiday struggle today (09), with various demands and teachers nationwide.
-
-In some schools, the arrival of principals and teachers on Tuesday (09) is low.
-
-Due to the lack of teachers in most schools, students who visited the school had returned.
-
-Students who visited schools and three -wheelers and school vehicles were also seen as facing great customs due to the lack of teachers.
-
-It is noteworthy that the Sri Lanka Teachers Union is engaged in a healthy holiday struggle today on the request of the Sri Lanka Teachers Union to pay their arrears.
-
-Students who attended schools disappointed in the schools under the Ottamavadi academic line due to the illicit holidays by the principal and teachers.
-
-In the Negombo Educational Zone, the educational activities have been stalled in schools in Katanai, Negombo and Ja-Ela.
-
-...
-
-[Data](articles/557e46d0.json)
-
-[Extended Data](ext_articles/557e46d0.ext.json)
-
----
-
-### Navy caught a special racket of bird and reptile
-
-*2024-07-09 12:45:35* · [`adalk`](https://www.ada.lk/breaking_news/පක්‍ෂී-සහ-උරග-විශේෂ-ජාවාරමක්-නාවික-හමුදාව-හසුකර-ගනියි/11-410690) · `si`
-
-On July 7, 2024, the Sri Lanka Navy, acting under the Sri Lanka Coast Guard, intercepted a multi-day fishing vessel in the South Sea. The operation resulted in the arrest of four individuals aged 34 to 67, residents of Negombo and Kochchikade, for illegal possession of 13 rare species including a large tortoise and three parrots. These animals were believed to have been smuggled from abroad, potentially threatening Sri Lanka's ecosystem. The suspects and the vessel were turned over to the Hikkaduwa Department of Wildlife Conservation for further legal action.
-
-🟩
-
-The Sri Lanka Navy was deployed by the Sri Lanka Coast Guard at the South Sea on July 07, 2024 July, 202.
-
-The Department of Sri Lanka Navy and the Coast Guard are carried out by the Sri Lanka Navy and the Coast Guard.
-
-Accordingly, the Navy Intelligence Assembly on birds and reptiles, the Sri Lanka Coast Guard Squadron was inspected in this operation in the South Sea in this operation. Steps were taken into custody with 13 rare trees, Talagingkk (01), a large tortbek (01) and three parments in the multi-day fishing vessel..
-
-The multi-day fishing vessel was brought to the Galle Harbor on the 8th of July night by the Coast Guard on 8th July on the 8th of July night.
-
-The suspects were identified as residents of Negombo and Kochchikade areas of the area aged 34 to 67 years old, who were arrested for fishing in Negombo.
-
-Steps were handed over to the Hikkaduwa Department of Wildlife Conservation for the next legal proceedings of multi-day fishing vessels and suspects.
-
-...
-
-[Data](articles/048e9b5a.json)
-
-[Extended Data](ext_articles/048e9b5a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 08:54:21**
+As of **2024-07-10 09:06:36**
 
 ## Newspaper Stats
 
-*Scraped **34,519** Articles*
+*Scraped **34,524** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,40 @@ colombotelegraphcom | 324
 bbccomsinhala | 338
 newsfirstlk | 363
 islandlk | 1,945
-economynextcom | 2,034
+economynextcom | 2,037
 dailyftlk | 2,167
 adalk | 3,102
 adaderanalk | 3,960
-tamilmirrorlk | 4,103
+tamilmirrorlk | 4,104
 dailymirrorlk | 4,733
 virakesarilk | 5,396
-adaderanasinhalalk | 5,743
+adaderanasinhalalk | 5,744
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,518 (100.0%) of 34,519 articles have been extended.
+34,519 (100.0%) of 34,524 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### රේගු වර්ජනයෙන් ප්‍රශ්න ගොඩක්
+
+*2024-07-10 08:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198659) · `si`
+
+රේගු නිලධාරීන් පසුගියදා ආරම්භ කළ වර්ජනයත් සමඟ බාහලුම් පරීක්ෂා කිරීමේ කටයුතු වේගවත් නොවීම හේතුවෙන් තමන් දැඩි අසීරුතාවට පත්ව සිටින බව බාහාලුම් රථ රියදුරන් පවසයි.
+
+ඔවුන් පවසන්නේ මෙම තත්ත්වය කඩිනම් කිරීමට සඳහා විධිමත් වැඩපිළිවලක් සකස් කළ යුතු බවය.
+
+අතිරේක රේගු අධ්‍යක්ෂ ජනරාල් රේගු මාධ්‍ය ප්‍රකාශක සීවලී අරුක්ගොඩ මහතාගෙන් "අද දෙරණ" මේ සම්බන්ධයෙන් කළ විමසීමකදී ඔහු සඳහන් කළේ, මෙම තත්ත්වය කඩිනමින් යාථාතත්ත්වයට පත්කිරීම සඳහා පියවර ගෙන ඇති බවය.
+
+◼️
+
+[Data](articles/e09a00ac.json)
+
+---
 
 ### How the Colevator has shooter
 
@@ -120,6 +136,24 @@ Accordingly, 0 to 60 units of domestic electricity consumers consume of more tha
 
 ---
 
+### Sri Lanka passes changes telecom law, allowing Starlink to be licensed
+
+*2024-07-10 07:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-passes-changes-telecom-law-allowing-starlink-to-be-licensed-171571/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s parliament passed an amendment to the telecom regulatory law, which Technology Minister Kanaka Herath said will allow Elon Musk’s Starlink to be licensed.
+
+Starlink has applied for a license in March 2024, but Sri Lanka did not have the required legal framework to allow such independent service providers to operated in the island, Minister Herath said.
+
+The new law will also provide a framework for to license and regulate cable landing stations.
+
+The law is modernized and has also taken into consideration suggestions by Rohan Samarajiva, a former telecom regulator, he said. (Colombo/July10/2024)
+
+◼️
+
+[Data](articles/78079e10.json)
+
+---
+
 ### Several trains cancelled due to strike
 
 *2024-07-10 06:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100408/several-trains-cancelled-due-to-strike) · `en`
@@ -189,6 +223,28 @@ Due to this trade union, the people were severely difficult and the railway pass
 [Data](articles/5629dd26.json)
 
 [Extended Data](ext_articles/5629dd26.ext.json)
+
+---
+
+### Sri Lanka’s WealthTrust Securities rated A- with stable outlook by LRA
+
+*2024-07-10 06:31:00* · [`economynextcom`](https://economynext.com/sri-lankas-wealthtrust-securities-rated-a-with-stable-outlook-by-lra-171561/) · `en`
+
+ECONOMYNEXT – WealthTrust Securities, a primary dealer in government securities appointed by the central bank said it was rated ‘A-‘ with a ‘stable’ outlook by Lanka Ratings Agency.
+
+Started in 2011, the firm also operates as a licensed broker and dealer in debt under the Securities and Exchange Commission of Sri Lanka.
+
+WealthTrust had a proven track record, and the rating indicated its robust capitalization, significant increase in profitability and profit retention along with a prudent risk management framework, the statemtn said.
+
+The company a Capital Adequacy Ratio (CAR) of 43.01 percent for the Financial Year 2024, far exceeding statutory requirement of 10 percent.
+
+By investing 90 percent of its assets in Government securities, WealthTrust minimizes credit risk, though it remains exposed to interest rate fluctuations.
+
+The company’s strategy includes rebalancing its portfolio between short-term and long-term Government securities to mitigate these risks effectively.
+
+...
+
+[Data](articles/3cbf95d3.json)
 
 ---
 
@@ -700,27 +756,53 @@ Later, Premalatha was comforted by Vijayakanth and son Shanmukha Pandiyan. Subse
 
 ---
 
-### නයෝමි අමරසිංහ: ‘මගී නෞකාවක පිරිමින්ගේ රස්සාවකට ගිය පළමු ශ්‍රී ලාංකික කත’
+### Nayomi Amarasinghe: 'The first Sri Lankan woman visiting men in a passenger ship'
 
 *2024-07-10 01:59:43* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0kr1z2d1dyo) · `si`
 
-නයෝමි අමරසිංහ: ‘මගී නෞකාවක පිරිමින්ගේ රස්සාවකට ගිය පළමු ශ්‍රී ලාංකික කත’
+Naomi Amarasinghe made history as the first Sri Lankan female naval officer serving on a passenger ship, breaking gender barriers in the traditionally male-dominated field. With support from the International Labor Organization, she completed her training and embarked on her journey, facing skepticism but proving her capabilities. Despite initial family opposition, Naomi's determination led her to become a trailblazer in her country's maritime industry. Her responsibilities onboard include maintaining the ship's anchor system, managing lifeboats, and ensuring passenger safety, showcasing her versatility and strength. Naomi advocates for equal opportunities for women in Sri Lankan society, emphasizing the importance of supporting female achievements and challenging societal norms.
 
-ඇය මගී ප්‍රවාහන නෞකාවක සේවය වෙනුවෙන් ‘ශ්‍රී ලංකාවෙන් සුදුසුකම් ලැබූ පළමු නාවික කත’ බව ජාත්‍යන්තර කම්කරු සංවිධානය පවසයි.
+🟩
 
-නයෝමි අමරසිංහ නමැති ඇය සම්බන්ධයෙන් අගැයීම් සටහනක් තබමින් ජාත්‍යන්තර කම්කරු සංවිධානය ඇය හැඳින්වූයේ, ‘ශ්‍රී ලංකාවේ නාවික ක්ෂේත්‍රයේ ස්ත්‍රී පුරුෂ භාවය පිළිබඳ බාධක බිඳ දැමූ කාන්තාවක’ ලෙස ය.
+Nayomi Amarasinghe: 'The first Sri Lankan woman visiting men in a passenger ship'
 
-නයෝමි අමරසිංහ මීට මාස කිහිපයකට පෙර මගී ප්‍රවාහන නෞකාවක සේවය ඇරඹූ ශ්‍රී ලංකාවේ පළමු නාවික කත බවට පත්වූයේ, ජාත්‍යන්තර කම්කරු සංවිධානයේ ද සහය ඇතිව අවසන් කරන ලද පාඨමාලාවකින් පසුව ය.
+She is the first naval woman qualified from Sri Lanka to serve in the service of a passenger carrier.
 
-"මගේ අම්මා මේකට මුලින් කැමති වුණේ නෑ. මගේ අයියාත් නාවික හමුදාවේ හිටියේ. එයත් නැවක වැඩ කරලා තියෙනවා. එයා නම් කැමති වුණා. ඒත් කෙල්ලෙකුට මේ රස්සාව හරියන්නෙ නෑ කියලා අම්මා විරුද්ධ වුණා. ඒත් මම දැන් ඉන්න තැන ගැන හිතලා අම්මා ගොඩක් සතුටු වෙනවා," නයෝමි අමරසිංහ බීබීසී සිංහල සේවයට පැවසීය.
+She was called Naomi Amarasinghe as a valid chart on her, as a woman who was broken down the sexuality of the Sri Lankan naval field.
 
-උසස් පෙළ නොකර ම වයස අවුරුදු 19 වන විට උපාධිධරයෙක් වන්නේ කෙසේ ද?
+Naomi Amarasinghe became the first naval woman in Sri Lanka to start a passenger carrier a few months ago, with a course completed with the assistance of the International Labor Organization.
 
-මගී ප්‍රවාහන නෞකාවක සේවය ඇරඹූ පළමු ශ්‍රී ලාංකික නාවික කත බවට ඇය පත්වූ ආකාරය නයෝමි අමරසිංහ විස්තර කළා ය.
+"My mother didn't like this at first. My brother was in the Navy. He was also working on a ship. He liked. But Mother opposed a girl not to take this job. But my mother is very pleased, "Naomi Amarasinghe told the BBC Sinhala.
+
+How can be a graduate by 19 years of age without the age of 19?
+
+Naomi Amarasinghe explained how she became the first Sri Lankan naval starting of a passenger carrier.
 
 ...
 
 [Data](articles/102293c3.json)
+
+[Extended Data](ext_articles/102293c3.ext.json)
+
+---
+
+### ’ஸ்திர நிலையை சீர்குலைக்க முயற்சி’
+
+*2024-07-10 01:52:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்திர-நிலையை-சீர்குலைக்க-முயற்சி/175-340123) · `ta`
+
+தேர்தலில் வெற்றிபெற முடியாத சில தரப்பினர் நாட்டின் ஸ்திர நிலையை சீர்குலைக்கும் வேலைநிறுத்தங்களை ஆரம்பித்து வருகின்றனர் என்று பாராளுமன்ற உறுப்பினர் வஜிர அபேவர்தன தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே வஜிர அபேவர்தன எம்.பி. இவ்வாறு தெரிவித்தார்.  அவர் மேலும் தெரிவிக்கையில்,
+
+தற்போது சில தரப்பினர் பணிப்பகிஷ்கரிப்பில் ஈடுபட்டுள்ளனர். தேர்தலில் வெற்றி பெற முடியாததால், அவர்களின் தனிப்பிட்ட வெற்றிக்காக நாட்டை சீர்குலைக்க தயாராகி வருகின்றனர்.
+
+வேலைநிறுத்தத்தில் ஈடுபட்டவர்கள் கோரும் சம்பள அதிகரிப்பை மேற்கொள்ள வேண்டுமாயின் 18 வீத பெறுமதி சேர் வரி 21 வீதமாக அதிகரிக்கப்பட வேண்டும் என நிதியமைச்சின் செயலாளர் தெரிவித்துள்ளார்.
+
+இதனால், உழைக்கும் மக்களின் தேநீர் கோப்பையினதும், அரிசி பொட்டலத்தினதும் விலைகள் அதிகரிக்கும். அவ்வாறு நடந்தால், வங்குரோத்தான நாடு மீண்டும் அதனை விட ஆபத்தான நிலைக்குச் செல்வதைத் தடுக்க முடியாது. இலங்கை மக்கள் அனைவரும் இதற்கு ஆதரவளிக்க மாட்டார்கள் என்றும் நம்புகிறோம் என்றார். (a)
+
+◼️
+
+[Data](articles/2e880930.json)
 
 ---
 
@@ -2147,99 +2229,5 @@ Meanwhile, President Ranil Wickremesinghe has approved the recommendation of Pre
 [Data](articles/fb362997.json)
 
 [Extended Data](ext_articles/fb362997.ext.json)
-
----
-
-### Special increments and commendation certificates for non-striking employees
-
-*2024-07-09 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100399/special-increments-and-commendation-certificates-for-non-striking-employees) · `en`
-
-Non-executive government employees, who reported for duty on July 8 and 9, 2024, will be granted a special salary increment as a token of appreciation for their dedication during a challenging economic period. This increment was approved by the Cabinet following President Ranil Wickremesinghe’s proposal, the President’s Media Division (PMD) said.
-
-Accordingly, the Secretary of the Ministry of Public Administration, Home Affairs, Provincial Councils, and Local Government has been directed to inform all Ministry Secretaries, Department Heads, and Provincial Chief Secretaries and to issue the relevant circulars.
-
-Certain trade unions in non-executive services had planned actions such as sick leave and strikes on the mentioned dates. Despite previous economic instability, the government managed to stabilize the situation through extensive economic reforms implemented over the last two years, including the provision of a monthly allowance of Rs. 10,000 to all public servants.
-
-...
-
-[Data](articles/4c0f64fb.json)
-
-[Extended Data](ext_articles/4c0f64fb.ext.json)
-
----
-
-### 8 and 9 will increase the stairs
-
-*2024-07-09 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198641) · `si`
-
-President Wickremesinghe's cabinet approves a proposal to offer special salary certificates and potential promotions to employees starting work on July 8 and 9.
-
-🟩
-
-The proposal made by President Ranil Wickremesinghe proposes to the Cabinet of President Ranil Wickremesinghe has approved the Cabinet of President Ranil Wickremesinghe to provide a special salary certificate and to provide a special salary certificate for further promotions.
-
-This opportunity is entitled to those who have been reported to the work on July 8 and 9.
-
-◼️
-
-[Data](articles/6dd11b4f.json)
-
-[Extended Data](ext_articles/6dd11b4f.ext.json)
-
----
-
-### How to address the Jeki to Russia
-
-*2024-07-09 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198640) · `si`
-
-Indian PM Narendra Modi's historic two-day visit to Russia, his first since the Ukrainian invasion, focused on strengthening trade ties and addressing the situation of Indian soldiers in Ukraine. Despite concerns from the US, Modi reaffirmed India's commitment to the UN Charter and the importance of its friendship with Russia.
-
-🟩
-
-Indian Prime Minister Narendra Modi had arrived at Russia on a two-day official visit.
-
-This visit joins history as the first time that Moody is the first time since the Ukrainian invasion of Russia.
-
-The Indian Prime Minister of Winicowa International Airport in Moscow, the Indian Prime Minister accepted a red-fledged red-ranked by the Russian Government Dennis Moncherof.
-
-The first day of the visit, Prime Minister Modi met Russian President Vladimir Putin.
-
-Foreign media reports that President Putin has been addressed as friendly friend who accepted the most admiration of Prime Minister Modi.
-
-The two leaders were on a brief tour at the President's House, and then visited a seated event.
-
-President Mahinda Rajapaksa had worked to regulate Modi to be appointed as Prime Minister for the third time.
-
-It is reported that Prime Minister Modi joined the President last night.
-
-...
-
-[Data](articles/63e3b779.json)
-
-[Extended Data](ext_articles/63e3b779.ext.json)
-
----
-
-### Sri Lanka to bring in 14 previously untaxed sectors into direct tax net: state minister
-
-*2024-07-09 16:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-bring-in-14-previously-untax-sectors-into-direct-tax-net-state-minister-171420/) · `en`
-
-ECONOMYNEXT — Sri Lanka plans to tax 14 new previously untaxed sectors including large-scale private tuition classes and private medical services in a bid to increase direct taxation, State Minister of Finance Ranjith Siyambalapitiya said.
-
-He told reporters on Monday July 08 that private schools and private engineering and surveyor services will also be taxed.
-
-The Inland Revenue Department (IRD) has studied the income of persons engaged in the 14 sectors, said Siyambalapitiya.
-
-“It was by paying attention to such sectors that we were able to increase state revenue from 8.3 percent of GDP to over 11 percent in a short time and bring revenue and expenditure to some balance.
-
-“A primary surplus was possible because all of those sectors were thoroughly looked into and revenues collected. We must continue this,” he said.
-
-It was for this reason that the IRD’s Revenue Administration Management Information System (RAMIS) was being deployed, the state minister said.
-
-...
-
-[Data](articles/521ae28a.json)
-
-[Extended Data](ext_articles/521ae28a.ext.json)
 
 ---

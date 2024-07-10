@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 06:01:51**
+As of **2024-07-10 07:01:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,486 (100.0%) of 34,499 articles have been extended.
+34,489 (100.0%) of 34,499 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ To put things in perspective. Figures from widely reported independent sources i
 
 [Data](articles/f0118fc7.json)
 
+[Extended Data](ext_articles/f0118fc7.ext.json)
+
 ---
 
 ### A time to ponder; a time for change?
@@ -62,6 +64,8 @@ This turmoil is more than just a single facet. One could debate which of them is
 
 [Data](articles/ea42a08e.json)
 
+[Extended Data](ext_articles/ea42a08e.ext.json)
+
 ---
 
 ### Overview of Japan-Sri Lanka economic relations
@@ -77,6 +81,8 @@ According to the export data published by CBSL, Japan is the 13th largest export
 ...
 
 [Data](articles/1a3c92e4.json)
+
+[Extended Data](ext_articles/1a3c92e4.ext.json)
 
 ---
 

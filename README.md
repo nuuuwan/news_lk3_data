@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 12:08:27**
+As of **2024-07-10 12:19:40**
 
 ## Newspaper Stats
 
-*Scraped **34,559** Articles*
+*Scraped **34,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
-adalk | 3,106
+adalk | 3,108
 adaderanalk | 3,971
-tamilmirrorlk | 4,112
+tamilmirrorlk | 4,115
 dailymirrorlk | 4,733
 virakesarilk | 5,399
-adaderanasinhalalk | 5,751
+adaderanasinhalalk | 5,752
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,557 (100.0%) of 34,559 articles have been extended.
+34,559 (100.0%) of 34,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### இந்தியா-பாகிஸ்தான் கால்நடைகள் இலங்கைக்கு
+
+*2024-07-10 12:07:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-பாகிஸ்தான்-கால்நடைகள்-இலங்கைக்கு/175-340145) · `ta`
+
+இலங்கையின் பசும்பால் உற்பத்தித் தொழிலை மேம்படுத்துவதற்காக பசுக்களை வழங்குவதற்கு இந்தியாவும் பாகிஸ்தானும் ராஜதந்திர மட்டத்தில் இணக்கம் தெரிவித்துள்ளன.
+
+இலங்கையில் பசும்பால் உற்பத்தியை மேம்படுத்தும் வகையில் அதிகளவான பாலை பெறக்கூடிய பசுக்கள் இல்லாதது இலங்கையில் பெரும் பாதிப்பை ஏற்படுத்தியுள்ளதாக விவசாய அமைச்சு தெரிவித்துள்ளது.
+
+இலங்கையில் ஒரு பசுவிடமிருந்து இருந்து பெறப்படும் பாலின் அளவு ஒரு நாளைக்கு சுமார் 10 லீற்றர் ஆகும் ஆனால் புதிய விவசாய தொழில்நுட்பத்தின் மூலம் ஒரு பசுவிடமிருந்து ஒரு நாளைக்கு மூன்று வேளை 60 லிட்டர் வரை பால் பெற முடியும் என்று அமைச்சகம் கூறுகிறது.
+
+இந்தியா மற்றும் பாகிஸ்தானுடனான பேச்சுவார்த்தையின் படி இந்திய அரசு, சாஹிவால் என்ற வகை பசு மாடுகளையும், பாகிஸ்தான் , முரா என்ற வகை எருமை மாடுகளையும் இலங்கைக்கு வழங்க நடவடிக்கை எடுத்துள்ளது.
+
+...
+
+[Data](articles/52ec224c.json)
+
+---
+
+### ඉන්දියාවෙන් හා පාකිස්තානයෙන් ලංකාවට ගවයින්
+
+*2024-07-10 12:01:32* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවෙන්-හා-පාකිස්තානයෙන්-ලංකාවට-ගවයින්/11-410711) · `si`
+
+කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා මෙරට ඉන්දීය තානාපති හා පකිස්ථාන මහකොමසාරිස්වරයා  සමග කළ සාකච්ඡාවල දී ඉන්දීය හා පාකිස්ථානු වැඩි දියුණු කළ එළ ගවයින් හා මී ගවයින් ලබා ගැනීම සම්බන්ධව සාකච්ඡා කළ බවත්,මෙරටට මී ගවයින් හා එළ ගවයින් ලබා දීමට ඉන්දියාව හා පකිස්ථානය දෙරටම  රාජ්‍ය තාන්ත්‍රික මට්ටමින් එකඟත්වය පළ කර ඇති බවත්  කෘෂිකර්ම අමාත්‍ය මහින්ද අමරවීර මහතා සඳහන් කරයි.
+
+ශ්‍රී ලංකාවේ කිරි කර්මාන්තය නංවාලීම සඳහා වැඩි කිරි ප්‍රමාණයක් ලබා ගත හැකි ගවයින්ගේ හිඟකම අප රටට විශාල බලපෑමක් එල්ල කර තිබේ.
+
+අප රටේ සිටින මී ගවයින් සහ එළ ගවයින්ගෙන් එක් ගවයෙකුගෙන් දිනකට ලබා ගන්නා කිරී ප්‍රමාණය ලීටර් 10ක් පමණ වේ. නමුත් නව කෘෂි තාක්ෂණය ඔස්සේ එක් ගවයෙකුගෙන් දිනකට තුන්වරක් කිරි ලීටර් 60ක් දක්වා ලබා ගැනීමට හැකියාව පවතී.
+
+මෙම තත්ත්වය සැළකිල්ලට ගනිමින්  ලබන වසරේ දී කිරි කර්මාන්තය ප්‍රවර්ධනය සඳහා ප්‍රමුඛත්වය ලබා දීමට රජය තීරණය කර තිබේ. එම ඉළක්කය ජයගැනීම සඳහා මේ වනවිට පියවර රැසක් රජය විසින් ගෙන ඇති බව අමාත්‍යවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/f9c06570.json)
+
+---
 
 ### Sangakkara gives seal of approval to external investment in national cricket boards
 
@@ -50,6 +86,24 @@ For Sangakkara, the position of Sri Lanka in the cricketing landscape is one key
 
 [Data](articles/50aee5a9.json)
 
+[Extended Data](ext_articles/50aee5a9.ext.json)
+
+---
+
+### වාහන ආනයනය ගැන අලුත්ම දැනුම්දීම
+
+*2024-07-10 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198668) · `si`
+
+රටට ගැටලුවක් ඇති නොවන සුවිශේෂි වැඩපිළිවලක් යටතේ වාහන ආනයනය අරම්භ කිරීමට බලාපොරොත්තු වන බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+එමෙන්ම ඔහු පවසා සිටියේ වාහන ආනයනය සම්බන්ධයෙන් ජාත්‍යන්තර මූල්‍ය අරමුදලටත් දැනුම්දී ඇති බවය.
+
+"අපි ජාත්‍යන්තර මූල්‍ය අරමුදලටත් කථා කරලා දැනුම්දීලා තියෙනවා අපි අගොස්තු මාසයෙන් පස්සේ යම් අනු පිළිවෙළකට... පොදු ප්‍රවාහන සේවා, ප්‍රවාහන සේවා, අනෙකුත් ප්‍රවාහන සේවාවන්ට භාවිත කරන විකල්ප ඉන්පස්සේ සාමාන්‍ය වාහන, ඊට පස්සේ සුඛෝපබෝගී වාහන වැඩපිළිවෙළක් හදනවා කියලා. ඒ නිසා මේ කමිටුව ජුලි මාසේ 04 වනදා රැස්වුණා. ඒ කමිටුව මාසයක් ඇතුළත ඒ කියන්නේ අගෝස්තු මාසයේ දෙවන සතිය වෙනකොට ඔවුන්ගේ වාර්තාව අමාත්‍ය මණ්ඩලයට ඉදිරිපත් කරන්න බලාපොරොත්තු වෙනවා. ඒ අනුව අපි බලාපොරොත්තු වෙනවා යම් සුවිශේෂි අනුපිළිවෙක් කොහොමද අපි වාහන ආනයනය ආරම්භ කරන්නේ මේ රටට ප්‍රශ්නයක් ඇති නොවී."
+
+...
+
+[Data](articles/5aecf246.json)
+
 ---
 
 ### Tracking Sri Lankans in Russia-Ukraine warfront complicated – State Minister
@@ -67,6 +121,22 @@ The State Minister confirmed that compensation requests for those killed in the 
 ...
 
 [Data](articles/2c869c8d.json)
+
+[Extended Data](ext_articles/2c869c8d.ext.json)
+
+---
+
+### ’கிளப் வசந்த’வின் மனைவியிடம் துப்பாக்கி
+
+*2024-07-10 11:39:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-வின்-மனைவியிடம்-துப்பாக்கி/175-340144) · `ta`
+
+அத்துருகிரிய ஒருவல சந்தியில்  திங்கட்கிழமை (08) பிற்பகல் வேளையில் இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் பிரபல வர்த்தகரான 'கிளப் வசந்த' என்றழைக்கப்படும் உரேந்திர வசந்த பெரேரா கொல்லப்பட்டார். அவருடன் மற்றுமொருவரும் மரணமடைந்துள்ளார்.
+
+இந்த சம்பவம் தொடர்பிலான விசாரணைகள் பல கோணங்களில் முன்னெடுக்கப்பட்டுள்ளன. இந்நிலையில், 'கிளப் வசந்த'வின் மனைவியிடம் அனுமதிப்பெற்றுக்கொள்ளாத சட்டவிரோதமான துப்பாக்கி இருந்தமை கண்டறியப்பட்டுள்ளது. இந்த சட்டவிரோத துப்பாக்கி தொடர்பில் விசாரணைகள் முன்னெடுக்கப்பட்டுள்ளன என்று பொலிஸ் மா அதிபர் தேசபந்து தென்னக்கோன் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/7e50bbbd.json)
 
 ---
 
@@ -87,6 +157,20 @@ As a result, several trains including the office trains and night mail trains to
 [Data](articles/fd862f57.json)
 
 [Extended Data](ext_articles/fd862f57.ext.json)
+
+---
+
+### වර්ජනයේ නිරත දුම්රිය ස්ථානාධිපතිවරුන්ට හා පාලකවරුන්ට අවසන් නිවේදනයක්
+
+*2024-07-10 11:13:05* · [`adalk`](https://www.ada.lk/breaking_news/වර්ජනයේ-නිරත-දුම්රිය-ස්ථානාධිපතිවරුන්ට-හා-පාලකවරුන්ට-අවසන්-නිවේදනයක්/11-410709) · `si`
+
+දුම්රිය සේවාව අත්‍යාවශ්‍ය සේවාවක් බවට ප්‍රකාශයට පත්කර ඇති හෙයින් අද (10දා) මධ්‍යාහ්න 12ට පෙර තම දුම්රිය ස්ථානයට හෝ ආසන්නතම දුම්රිය ස්ථානයට සියලුම දුම්රිය ස්ථානාධිපතිවරුන් හා පාලකවරුන් රාජකාරියට වාර්තා කළ යුතු බව වැඩබලන දුම්රිය සාමාන්‍යාධිකාරි එස්.එස්. මුදලිගේ මහතා අවසන් නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+එසේ නොකරන සියලුම දුම්රිය ස්ථානාධිපතිවරුන් හා පාලකවරුන් සේවය හැර ගියා සේ සලකන බවද ඔහු වැඩිදුරටත් සිය නිවේදනයන් පවසයි.
+
+◼️
+
+[Data](articles/5bdba338.json)
 
 ---
 
@@ -147,6 +231,24 @@ The Fire Brigade stated that several fire trucks have been deployed to douse the
 [Data](articles/f9b51696.json)
 
 [Extended Data](ext_articles/f9b51696.ext.json)
+
+---
+
+### உயிரை பறித்த ரைஸ் குக்கர்
+
+*2024-07-10 10:58:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரை-பறித்த-ரைஸ்-குக்கர்/175-340142) · `ta`
+
+புத்தளம், மன்னார் வீதி, வேப்பமடு, விழுக்கை எனும் பகுதியில் வசித்து வந்த இரு பிள்ளைகளின் இளம் தாய் ஒருவர் மின்சார தாக்குதலுக்குள்ளாகி பலியானார்.
+
+பாபு துஷ்யந்தி (வயது 28) என்பவரே மின்சார தாக்குதலுக்குள்ளாகி புதன்கிழமை (10) அதிகாலை  பலியாகியுள்ளார்.
+
+இப்பெண்மணி புதிதாக வாங்கிய ரைஸ் குக்கரில் செவ்வாய்க்கிழமை (09) இரவு சோறு சமைக்க முயற்சித்த போது மின்சாரம் தாக்குள்ளாகி உயிரிழந்துள்ளார்.
+
+புத்தளம் தள வைத்தியசாலையில் புதன்கிழமை (10) காலை  புத்தளம் மற்றும் கற்பிட்டி பிரதேசத்துக்கான திடீர் மரண விசாரணை அதிகாரி பீ.எம். ஹிசாம் முன்னிலையில் பிரேத பரிசோதனை மற்றும் விசாரணைகள் இடம்பெற்றதன் பின்னர் மரண விசாரணை அதிகாரி பீ.எம். ஹிசாம் சடலத்தை உறவினர்களிடம் ஒப்படைத்தார்.
+
+◼️
+
+[Data](articles/3738fef9.json)
 
 ---
 
@@ -1566,26 +1668,6 @@ It is reported that the ship will be anchored in Sri Lanka till tomorrow and its
 
 ---
 
-### 
-
-*2024-07-10 01:21:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84360) · `en`
-
-The French experience at the concluded election offers an important lesson of political commonsense and the bare minimum of altruism for the common good
-
-Early this week, with the far-right knocking at the gates of government power, France pulled off a miraculous comeback to defend the Fifth Republic.
-
-After the far-right and anti-immigrant National Rally won the first round, with projected votes of 260-280 seats, a tad shy of the absolute majority of 579 members of the National Assembly, the usually bickering political parties of the left, right, and centre joined ranks to stop the formation of the first far- right since the World War II.
-
-In order to prevent the split of the Republican vote in a three-way race, hundreds of candidates who came third in the first round withdrew from the contest to allow the better-placed anti-far right candidate to win the race.
-
-...
-
-[Data](articles/eb389c45.json)
-
-[Extended Data](ext_articles/eb389c45.ext.json)
-
----
-
 ### Dambulla Sixers eventually won the stunned Dambulla Sixers
 
 *2024-07-10 00:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/188088) · `ta`
@@ -2109,139 +2191,5 @@ However, plantation companies focused on judicial procedures, however, and the f
 [Data](articles/09aca82c.json)
 
 [Extended Data](ext_articles/09aca82c.ext.json)
-
----
-
-### The upcountry community is bankrupt by a family - Velukumar Sadal
-
-*2024-07-09 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/188081) · `ta`
-
-In a parliamentary debate, MP Velukumar criticized unnamed individuals for betraying plantation workers and the nation's financial health. He highlighted the struggles of plantation communities, urging reflection on past leadership and decisions affecting their livelihoods.
-
-🟩
-
-The plantation community is bankrupt by a family, just as this country has become bankrupt by a family. In the salary affair, the child and the cradle are found to be. Parliamentarian M. Velukumar said that it is now public who has been betraying the plantation managers and betraying the plantation people.
-
-He said this while addressing the debate on the Telecommunications Regulatory Amendment Act held in Parliament on Tuesday (9).
-
-I would like to point out the specific issues at the Honorable Minister's Council on the Plantation Department on Tuesday (9).
-
-He must recover the specific matters of society. He noted that the people were not recognized as the other community, and that the plantation people had to work or do homework.
-
-Plantation youth should think about who is responsible for the presence of plantation people in this situation. I would like to ask him who had been union leaders in this country for the last 60 years.
-
-...
-
-[Data](articles/6a1ba5a6.json)
-
-[Extended Data](ext_articles/6a1ba5a6.ext.json)
-
----
-
-### New charge for western three wheelers
-
-*2024-07-09 19:52:58* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-ත්‍රිරෝද-රථ-සඳහා-15දා-සිට-නව-ගාස්තු-ක්‍රමයක්/11-410706) · `si`
-
-In the Western Province, a new fee structure for three-wheelers has been introduced, effective from the 15th of this month. The first kilometer costs Rs. 100, aiming to regulate the industry more effectively. This move follows concerns about unfair practices among three-wheeler operators, ensuring better service quality and compliance with laws.
-
-🟩
-
-Western Province Road Passenger Transport Authority (Western Province) passenger passenger passenger passenger Transport Authority stated that a special fee is implemented in the Western Province.
-
-The Chairperson of the Authority Prasanna Sanjeewa said that the first kilometer was Rs. 100 rupees, including Rs.
-
-The racing three-wheelers in the Western Province are now registered with the provincial road passenger Transport Authority.
-
-It is planned to implement this fee from the 15th of this month and is scheduled to carry out the raids applicable to the implementation of law.
-
-The All-Lanka-Private Authority Trade Union, Chairman of the All Ceylon Drivers, said that the relevant provincial authorities should take action to take the relevant charges.
-
-The lack of a specific fee is the injustices of passenger passengers from three wheelers and that the people who obey the services in the Western Province will be fulfilled since the 15th of this month.
-
-...
-
-[Data](articles/f21d6dbe.json)
-
-[Extended Data](ext_articles/f21d6dbe.ext.json)
-
----
-
-### Special News for A/L Students
-
-*2024-07-09 19:44:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-மாணவர்களுக்காக-விஷேட-செய்தி/175-340104) · `ta`
-
-The deadline for GCE A/L exam applications has been extended from April 10th to April 12th. The Department of Examinations assures no further extensions will be granted.
-
-🟩
-
-The deadline for submitting applications for the GCE Advanced Level Examination for this year has been extended.
-
-The deadline for submitting applications through an online for schools and private applicants was to be filled with day (10).
-
-However, the Department of Examinations has issued a statement issued by the Department of Examinations that it has been extended until the 12th of this month.
-
-The Department of Examinations said that the time of applying for any reason would not be delayed after that day.. Remble
-
-◼️
-
-[Data](articles/0f129120.json)
-
-[Extended Data](ext_articles/0f129120.ext.json)
-
----
-
-### Another information of Club Wasantha murder
-
-*2024-07-09 19:25:00* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතනයේ-තවත්-තොරුතුරු-එළියට/11-410704) · `si`
-
-In the Club Wasantha murder case, seven individuals were arrested from the Athurugiriya TATTO center, including its owner. The suspects used a van, linked to a previous incident involving a committee, and were seen with a young girl. Investigations uncovered six palms and fingerprints in the van, suggesting they might have traveled to Achugama, Ratnapura, or Kalana, Ratnapura. The motive remains unclear, with speculation around a contract killing. Victims include teacher Karthi Karchi, Club Wasantha's wife, and others injured. The shooters are believed to have fled the scene.
-
-🟩
-
-A businessman has arrested about 7 persons have been arrested in the Athurugiriya Tall Center.
-
-The official said that between the group, the TATTO center, the owner, the car and the van were brought.
-
-The assassination has been revealed in the police that the two criminals named where the large censorship and the victim of Hidden hide in Duba.
-
-Teacher Karchi Karchi, who made the shooting of the two shooters. Sujeewa, Club Wasantha's wife and another men were wounded.
-
-The vehicle was abandoned by the vehicle of the Koratota area in the Bulathsinhala Police, the Bulathsinhala police.
-
-According to the police, it has been noted that the Dolphs Van, which is pasted in the glass of the front left to the front left.
-
-Police say the van was the carses of the carses of a committee about a week ago.
-
-Investigations have been found in investigations into six palm and fingerprints in the van.
-
-The police suspect that the people of the van rose in a bus to come across Achugama, Ratnapura or Kalana, Ratnapura.
-
-...
-
-[Data](articles/f91d26e6.json)
-
-[Extended Data](ext_articles/f91d26e6.ext.json)
-
----
-
-### There is no statutory requirement to make the senior officer at the Attorney General
-
-*2024-07-09 19:15:44* · [`adalk`](https://www.ada.lk/breaking_news/ජ්‍යෙෂ්ඨතම-නිලධාරියා-නීතිපති-කරන්න-ව්‍යවස්ථාපිත-අවශ්‍යතාවක්-නෑ/11-410703) · `si`
-
-Saman Ekanayake clarified that there's no legal obligation to appoint the Attorney General's top official based on seniority, as it hasn't been done previously. He responded to a letter regarding AG appointments and suggested the Sri Lanka Bar Association shouldn't represent just one individual against the AG.
-
-🟩
-
-Presidential Secretary Saman Ekanayake says that there is no statutory need to appoint the senior official in the Attorney General's Department based on seniority.
-
-He added that the previous has not happened before.. Presidential Secretary Saman Ekanayake has made this statement in response to a letter sent to the President on the appointment of the Attorney General on seniority.
-
-This article further states that the Sri Lanka Bar Association should not appear for one person alone while others for the Attorney General.
-
-◼️
-
-[Data](articles/af5cee8d.json)
-
-[Extended Data](ext_articles/af5cee8d.ext.json)
 
 ---

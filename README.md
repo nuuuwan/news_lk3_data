@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 07:01:28**
+As of **2024-07-10 07:26:50**
 
 ## Newspaper Stats
 
-*Scraped **34,499** Articles*
+*Scraped **34,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 337
 newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,034
-dailyftlk | 2,159
+dailyftlk | 2,167
 adalk | 3,101
-adaderanalk | 3,958
-tamilmirrorlk | 4,100
+adaderanalk | 3,960
+tamilmirrorlk | 4,101
 dailymirrorlk | 4,733
 virakesarilk | 5,396
 adaderanasinhalalk | 5,738
@@ -26,11 +26,167 @@ adaderanasinhalalk | 5,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,489 (100.0%) of 34,499 articles have been extended.
+34,494 (100.0%) of 34,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### Several trains cancelled due to strike
+
+*2024-07-10 06:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100408/several-trains-cancelled-due-to-strike) · `en`
+
+Train operations have been disrupted owing to the trade union action launched by the Railway Station Masters.
+
+The Railway Department said that several trains have been cancelled while limited trains are in operation due to the strike.
+
+The Sri Lanka Railways Station Masters’ Union had decided to launch a strike action from midnight yesterday (09).
+
+As a result, several trains including the night mail trains to and from Colombo Fort and Badulla, to and from Trincomalee, to and from Batticaloa and night mail train to Rambukkana were cancelled, the department said.
+
+However, the Secretary of the Ministry of Transport Ranjith Rubasinghe emphasised that since public transport including railway services have been declared as essential services, the strike launched by the Station Masters’ Union is illegal.
+
+Furthermore, he stated that strict disciplinary action would be taken against those who are not reporting for duty.
+
+...
+
+[Data](articles/a99c9ecb.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2024-07-10 06:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100407/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night.
+
+Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/c43e2240.json)
+
+---
+
+### LAUGFS Rubber triumphs with Gold Award at NCQP 2024
+
+*2024-07-10 06:24:16* · [`dailyftlk`](https://www.ft.lk/business/LAUGFS-Rubber-triumphs-with-Gold-Award-at-NCQP-2024/34-764071) · `en`
+
+From left: LAUGFS Rubber Quality Controller-Process P.R.D. Madushan, Mould Technician S.R.D. Lakshan, Quality Controller-Process S.S. Abesinghe and Machine Operator –Production W.C.N Kumara
+
+LAUGFS Rubber recently received a Gold Award at the National Convention on Quality and Productivity (NCQP) Awards 2024.
+
+Adding to the significance of the achievement, this is the first award received by its non-executive staff in this competition.
+
+LAUGFS Rubber said the achievement reflects the company’s commitment to excellence and its dedication to cultivating a culture of quality and productivity amongst its teams. The achievement not only brings national recognition to the LAUGFS Group but also highlights the potential and capability of Sri Lankan enterprises in the global arena.
+
+...
+
+[Data](articles/108061e4.json)
+
+---
+
+### Halpé Tea honoured as ‘Runner Up in Food and Beverage Sector’ at National Business Excellence Awards 2024
+
+*2024-07-10 06:23:17* · [`dailyftlk`](https://www.ft.lk/business/Halpé-Tea-honoured-as-Runner-Up-in-Food-and-Beverage-Sector-at-National-Business-Excellence-Awards-2024/34-764070) · `en`
+
+Halpé Tea, a subsidiary of Vella Group of Companies has reaffirmed its commitment to quality and excellence by securing the ‘Runner Up in the Food and Beverage Manufacturing Sector’ Award at the National Business Excellence Awards 2024. The awards ceremony was organised by the National Chamber of Commerce in Sri Lanka. This recognition underscores Halpé Tea’s commitment to producing high quality blends of tea that meets international standards. The ceremony was held at the Shangri-La Colombo, celebrating the best performers across a variety of sectors.
+
+...
+
+[Data](articles/51b1375d.json)
+
+---
+
+### Fonterra Brands Lanka honoured with Silver Award for green productivity
+
+*2024-07-10 06:22:18* · [`dailyftlk`](https://www.ft.lk/business/Fonterra-Brands-Lanka-honoured-with-Silver-Award-for-green-productivity/34-764069) · `en`
+
+Fonterra Brands Lanka was recently honoured with a Silver Award at the inaugural Green Productivity Awards 2024, hosted by the Sri Lanka Association for the Advancement of Quality and Productivity (SLAAQP). This prestigious award recognises organisations that lead in green innovation, and reflects Fonterra’s dedication to integrating green productivity principles into its operations as part of its sustainability agenda.
+
+Encouraged by this recognition, Fonterra takes this opportunity to renew its commitment to innovative efforts aimed at further minimising environmental impact, preparing the industry for future global challenges.
+
+Fonterra has consistently focused on reducing its environmental impact while maintaining high productivity and value creation across its supply chain. This achievement thus highlights the significant strides that Fonterra has made towards a greener future, and positions it as a leader in green productivity.
+
+◼️
+
+[Data](articles/48de58d9.json)
+
+---
+
+### Crocodile ranked among LMD’s top 10 most loved retail lifestyle brands
+
+*2024-07-10 06:21:27* · [`dailyftlk`](https://www.ft.lk/business/Crocodile-ranked-among-LMD-s-top-10-most-loved-retail-lifestyle-brands/34-764068) · `en`
+
+Crocodile, a leading lifestyle brand renowned for its international acclaim, has been honoured as one of the top 10 most loved brands in the Retail Lifestyle category by LMD readers. This prestigious recognition comes from LMD’s Brands Annual Ranking 2024, based on a survey conducted among their readership.
+
+Today, Crocodile stands as one of the most respected and well-known brands in the global fashion industry, with an extensive product line that spans the entire spectrum of men’s, women’s, and kids’ fashion. For over 70 years, Crocodile has been a leader in the fashion world. Since its inception in Sri Lanka, the brand has evolved as a forerunner in premium men’s fashion, synonymous with timeless comfort and elegance. In 2021, Crocodile expanded into the women’s fashion category and further expanded into kids’ fashion, specifically boys’ fashion, in 2024.
+
+...
+
+[Data](articles/e77fedef.json)
+
+---
+
+### GoGo.Sale launches new campaign to transform vehicle buying and selling
+
+*2024-07-10 06:21:13* · [`dailyftlk`](https://www.ft.lk/business/GoGo-Sale-launches-new-campaign-to-transform-vehicle-buying-and-selling/34-764067) · `en`
+
+GoGo.sale, Sri Lanka’s premier online marketplace, has unveiled its latest campaign aimed at revolutionising the vehicle buying and selling experience. Dedicated to simplifying the process for both car buyers and sellers, GoGo.sale offers a free classifieds platform that facilitates direct connections, eliminating the need for intermediaries. As a relatively new entrant in the Sri Lankan market, GoGo.sale brings a fresh perspective to the online vehicle classifieds space. The platform is distinguished by a variety of unique features and benefits that set it apart from the competition.
+
+...
+
+[Data](articles/3ed5a2af.json)
+
+---
+
+### ALFT Packaging welcomes Unilever South Asia regional team
+
+*2024-07-10 06:20:58* · [`dailyftlk`](https://www.ft.lk/business/ALFT-Packaging-welcomes-Unilever-South-Asia-regional-team/34-764066) · `en`
+
+ALFT team along with the Unilever South Asia regional team at the ALFT factory
+
+giving a factory tour to the Unilever South Asia regional team
+
+A delegation of regional heads from Unilever, a global leader in consumer goods, recently visited the facilities of ALFT Packaging Company, a pioneering manufacturer of flexible packaging solutions in Sri Lanka. The visit provided Unilever with a first-hand look at ALFT’s manufacturing operations and their transformative advancements in the industry.
+
+Led by Unilever South Asia Executive Director of Supply Chain Yogesh Mishra, the delegation included Hindustan Unilever Ltd. (HUL) Head of Supply Chain, Beauty and Wellbeing Sundar Mahajan, General Manager Engineering and Projects, South Asia Ramkailash Bhadouria and HUL Head Digital Transformation Akshay Rastogi. The procurement team of Unilever Sri Lanka accompanied the guests.
+
+...
+
+[Data](articles/194a0c05.json)
+
+---
+
+### Should an Econ student take Harshanomics 201?
+
+*2024-07-10 05:56:43* · [`dailyftlk`](https://www.ft.lk/columns/Should-an-Econ-student-take-Harshanomics-201/4-764065) · `en`
+
+If anybody is capable of successfully balancing a massive human development program through a vibrant economy, that would be Harsha
+
+This is not a political article. I am not a political writer. Were politics your sole interest, you may choose to not to read further. Rather, this article caters to individuals with a deep interest in economics, just like myself. By the end, you will have a well-informed understanding of whether or not to pursue the subject of Harshanomics 201, which is offered by the esteemed Economics Department at the University of Lifelong Studies.
+
+...
+
+[Data](articles/6b7bc0c4.json)
+
+---
+
+### Eliminating political corruption: Key to our recovery
+
+*2024-07-10 05:51:04* · [`dailyftlk`](https://www.ft.lk/columns/Eliminating-political-corruption-Key-to-our-recovery/4-764064) · `en`
+
+Sri Lanka is grappling with a severe cost-of-living crisis rooted in pervasive political corruption. Political intermediaries profit at every stage, shifting the burden onto consumers. The economy has plummeted due to corrupt leaders using the Government to further personal agendas and misusing public funds on unproductive projects while simultaneously selling national assets and depleting public reserves. Under such deceptive governance, our future hard work and increased taxes will be in vain, offering no relief to ordinary citizens as corrupt politicians continue to siphon off surplus funds.
+
+...
+
+[Data](articles/7c465336.json)
+
+---
 
 ### The world must thank the Palestinians
 
@@ -97,6 +253,8 @@ It is a great honour to be invited by the Sri Lanka-China Business Council of th
 ...
 
 [Data](articles/71ff0d82.json)
+
+[Extended Data](ext_articles/71ff0d82.ext.json)
 
 ---
 
@@ -416,6 +574,22 @@ In reply, Goal Marwals lost all the wickets in 19.4 overs and lost 135 runs.
 
 ---
 
+### விடைத்தாள் மதிப்பீட்டுக் கொடுப்பனவு அதிகரிக்கும்
+
+*2024-07-10 00:41:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடைத்தாள்-மதிப்பீட்டுக்-கொடுப்பனவு-அதிகரிக்கும்/175-340120) · `ta`
+
+க.பொ.த சாதாரண தரப் பரீட்சைகள் மற்றும் தரம் ஐந்து புலமைப்பரிசில் பரீட்சைக்கான விடைத்தாள் மதிப்பீட்டுக் கொடுப்பனவை அதிகரிப்பதற்கான யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+இது தொடர்பாக முன்வைக்கப்பட்ட யோசனைக்கு அமைச்சரவை நேற்று அங்கீகாரம் வழங்கியுள்ளதாக கல்வி அமைச்சு தெரிவித்துள்ளது.
+
+பரீட்சைகள் திணைக்களத்தை உள்ளடக்கிய உப குழுவின் பரிந்துரைகளின் அடிப்படையில் இது தொடர்பான பிரேரணை முன்வைக்கப்பட்டுள்ளதாக கல்வி அமைச்சு அறிக்கையொன்றை வெளியிட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/f6de642d.json)
+
+---
+
 ### 2024-07-09 (Tuesday)
 
 ### Amateur Poem On Human Rights?
@@ -674,6 +848,8 @@ Yet, the industry is characterised by drastic seasonal price swings. Prices are 
 
 [Data](articles/12d4f200.json)
 
+[Extended Data](ext_articles/12d4f200.ext.json)
+
 ---
 
 ### UN Representative Ludiana Sherin Akhilan Akhilan Akhilan Akhilan on the fifth day of the Kokkuttuwai Human Propard;Tamil Nadu urges the international monitoring
@@ -712,6 +888,8 @@ Scheduled for release by the end of the year, Rainbow Pages, the National Busine
 
 [Data](articles/77955cb1.json)
 
+[Extended Data](ext_articles/77955cb1.ext.json)
+
 ---
 
 ### Gautam Gambhir of Indian Cricket Team
@@ -747,6 +925,8 @@ Amid those developments both indices moved downwards. The All- Share Price Index
 ...
 
 [Data](articles/c6385959.json)
+
+[Extended Data](ext_articles/c6385959.ext.json)
 
 ---
 
@@ -2015,253 +2195,5 @@ Sri Lanka temporarily halted foreign research ships after India and the United S
 [Data](articles/340287c2.json)
 
 [Extended Data](ext_articles/340287c2.ext.json)
-
----
-
-### Biden is not being treated for Parkinson’s, White House says after NYT report
-
-*2024-07-09 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100397/biden-is-not-being-treated-for-parkinsons-white-house-says-after-nyt-report) · `en`
-
-U.S. President Joe Biden is not being treated for Parkinson’s disease and has not seen a neurologist outside of his annual physicals, the White House said on Monday, after the New York Times reported that visitor logs showed a doctor specializing in the illness visited the White House at least eight times from August through March.
-
-Concerns that Biden might be suffering from an undisclosed illness have risen since he stumbled, appearing frail and losing his train of thought at times, at his June 27 debate against Republican Donald Trump.
-
-Dr. Kevin O’Connor, the White House doctor, issued a letter on Monday night that said Biden has not seen a neurologist outside of his normal annual physical.
-
-Biden is battling criticism from some Democrats that he lacks the mental acuity to stand as their nominee against Trump in the Nov. 5 presidential election. Biden has, however, said he will not abandon his campaign, telling MSNBC via phone on Monday that he was “not going anywhere”.
-
-...
-
-[Data](articles/b0328fb7.json)
-
-[Extended Data](ext_articles/b0328fb7.ext.json)
-
----
-
-### Police Explains Investigations of Club Wasantha murder
-
-*2024-07-09 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198638) · `si`
-
-Police investigating the murder of Club Wasantha reveal two suspects from St. Kumba and Buli Patti, focusing on motives and connections to narcotics and underworld activities. They aim to quickly solve the case and clamp down on illegal firearms circulation.
-
-🟩
-
-Inspection of investigations into the murder of Club Wasantha alias Club Wasantha alias Club Wasantha said.
-
-Club Wasantha was shot dead in a Tatu Center in Athurugiriya this morning (08).
-
-The police have revealed that the two criminals of St. Kumba and the Buli Patti, who is hiding in Duthuhawa, have directly designed to be designed.
-
-"According to investigations, the investigation has revealed many information regarding those who committed the crime. Whose interests were tempted?What is the reason?Investigations have focused on investigations. "
-
-"In a short time solves the crime and criminals will be able to capture the law."
-
-"A horror of narcotics and underworld has been implemented in across the country."
-
-"Shots of seven and eight. The use of automatic weapons, after two and a half months, a crime was crime. Still, the illegal firearms are circulated in society. "
-
-"Therefore, attention has been paid to the arrest of illegal firearms in justice."
-
-◼️
-
-[Data](articles/8457e437.json)
-
-[Extended Data](ext_articles/8457e437.ext.json)
-
----
-
-### Indian army attacked by Pakistani militan
-
-*2024-07-09 14:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198637) · `si`
-
-In a terror attack in Kashmir, five Indian Army personnel were killed. The incident occurred in the Himalayas, reportedly targeting this area. Suspected Pakistani militants carried out the assault.
-
-🟩
-
-Five Indian Army members were killed in terror attacks on Kashmir.
-
-Foreign media reports that the attack targeted at the Himalayasa area.
-
-The attack has been identified as a group of people suspected to be Pakistani militants.
-
-◼️
-
-[Data](articles/b4a1369b.json)
-
-[Extended Data](ext_articles/b4a1369b.ext.json)
-
----
-
-### Bail rejected for CCD Inspector and Constable arrested over bribe
-
-*2024-07-09 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100396/bail-rejected-for-ccd-inspector-and-constable-arrested-over-bribe) · `en`
-
-The Colombo Magistrate’s Court rejected the bail application of the Police Inspector and the Constable attached to the Colombo Crimes Division (CCD), who were arrested by officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), while accepting a bribe of over Rs. 150,000.
-
-Colombo Chief Magistrate Thilina Gamage also ordered the suspects to be remanded in custody until July 23, when the relevant bail application was taken up today (09).
-
-During today’s proceedings, the CIABOC officers presented the cash which was accepted by the two suspected police officers at the time of their arrest.
-
-On Friday (05), the Bribery Commission apprehended the two suspects inside the CCD premises in Dematagoda. They had solicited a sum of Rs. 450,000 as a bribe and were apprehended while accepting the final payment of over Rs. 150,000 out of that.
-
-...
-
-[Data](articles/4227b887.json)
-
-[Extended Data](ext_articles/4227b887.ext.json)
-
----
-
-### Plantation workers protest
-
-*2024-07-09 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/188033) · `ta`
-
-Workers from Vattakoda and South Madukkumbura Plantations protested on Tuesday, demanding a daily wage of 1,700 rupees due to economic hardships. They urged companies to address this issue.
-
-🟩
-
-Vattakoda and South Madukkumbura Plantation workers staged a protest on Tuesday (9) in front of the plant factory demanding that plantation workers pay a day's salary of 1,700 rupees.
-
-They are facing various crises in the current economic situation. Workers are demanding that companies take steps to pay at least 1,700 rupees, so, therefore, at least.
-
-◼️
-
-[Data](articles/d6970251.json)
-
-[Extended Data](ext_articles/d6970251.ext.json)
-
----
-
-### “Aswesuma” second phase information census to begin next week
-
-*2024-07-09 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100395/-aswesuma-second-phase-information-census-to-begin-next-week) · `en`
-
-The Welfare Benefits Board has informed that the information census of the second phase of the “Aswesuma” welfare benefit program implemented as per the instructions of President Ranil Wickremesinghe will be conducted from July 15 to 30.
-
-In addition to the more than 1.8 million people who qualified in the first phase, another 450,924 applications have been received for the second phase and among them the identification of those who are eligible for the payment of welfare benefits is to be completed within this month, the President’s Media Division (PMD) said.
-
-A total of 1,854,000 individuals have qualified for the first phase of the “Aswesuma” program, with the government allocating Rs.58.5 billion for this phase. The Welfare Benefits Board has provided an opportunity for those who missed or could not apply during the first stage to reapply.
-
-...
-
-[Data](articles/d93d9d48.json)
-
-[Extended Data](ext_articles/d93d9d48.ext.json)
-
----
-
-### The second phase of the revenue is the Census of the Second July 15 to 30
-
-*2024-07-09 14:19:34* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුම-දෙවන-අදියරේ-තොරතුරු-සංගණනය-ජූලි-15-සිට-30-දක්වා/11-410693) · `si`
-
-The second phase of the revenue census, guided by President Ranil Wickremesinghe, will run from July 15 to 30. It aims to assist over 1.85 million eligible individuals who qualified for the first phase, allocating Rs. 58.5 billion. The Welfare Board offers re-application opportunities for missed individuals. This phase focuses on supporting transition, vulnerable, and impoverished groups, including welfare benefits and allowances for the disabled, adults, and kidney patients. Additionally, a new mobile app with photo and voice recording features has been launched to collect field data, with plans to implement it in the Colombo Divisional Secretariat as a pilot project.
-
-🟩
-
-The Welfare Board informs that the Committee of the Welfare of the Requirement "Requirements' in the instructions of President Ranil Wickremesinghe will be held from July 15 to 30th July.
-
-In addition to over 18 lakhs of eligible, more than Rs.
-
-1854,000 qualified for the first phase of the revenue and Rs. 58.5 billion was allocated for this purpose.. The Welfare Board has been given the opportunity to re-applied to the first phase or the missing persons.
-
-Transition, vulnerable, poor, poor and extreme poverty, "welfare benefit payments will be paid and providing relevant allowances for disabled persons, adult and kidney patients.
-
-Meanwhile, the mobile app software Board has introduced a new mobile application software software software with photos and voice recording facilities to gathering field information.
-
-Accordingly, the mobile app software gathering information is also planned to be implemented in the Colombo Divisional Secretariat Division as a pilot project.
-
-◼️
-
-[Data](articles/0e3d8783.json)
-
-[Extended Data](ext_articles/0e3d8783.ext.json)
-
----
-
-### The Chinese government's home scheme is not for North East Fishermen - Kanagasabha Ravindran
-
-*2024-07-09 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188030) · `ta`
-
-Kanagasabha Ravindran, a senior member of the Chiripuram Alaimala Fisheries Rural Cooperative Organization, stated during a media briefing that the Chinese government's housing scheme does not benefit northeastern fishermen. He highlighted the challenges faced by coastal dwellers, including destruction from cyclones and the impact of ongoing conflicts, emphasizing the need for a permanent housing solution. Despite claims of Chinese aid, Ravindran reported no direct assistance, criticizing political promises over action.
-
-🟩
-
-The Chinese government's housing scheme is not for northeastern fishermen. Senior Member of the Rural Co -operative Organization of the Chiripuram Alaimala Fisheries Rural Co -operative Organization Kanagasabha Raveendran said.
-
-Yall. He said this while organizing a media briefing in Chiripuram.
-
-We are living on the coast.. The tornado wind can cause this house to be destroyed and to live in fear.
-
-We are also affected by the war.We are also affected by the continuous drag. We are living the fishing industry in many casualties for the public.We need to provide us with a permanent housing scheme.
-
-They say that the Chinese government is providing assistance to the North and East fishermen.To date, our wavelengths have not received any assistance to the Chinese government. They said they would give rice and provide rice in their offices politically and politically. He added that politicians should take care of the public.
-
-◼️
-
-[Data](articles/1d7afca6.json)
-
-[Extended Data](ext_articles/1d7afca6.ext.json)
-
----
-
-### Sightitiya killed in 16 months fell into a water pit
-
-*2024-07-09 14:11:12* · [`adalk`](https://www.ada.lk/breaking_news/වතුර-වළකට-වැටී-මාස-16ක-සිගිත්තිය-මරුට/11-410692) · `si`
-
-A 16-month-old girl named Kaluugahamadara fell into a water pit and drowned. The incident occurred a year after her birth and four months ago. Preliminary investigations suggest she was alone when it happened. Her mother was outside taking care of another child. The Madolsima police will conduct a post-mortem examination.
-
-🟩
-
-Madolsime police stated that a year from the bus and four months old, four months old, four months old, four months old.
-
-The deceased has been identified as Kaluugahamadara, Vauthna, Vauthna, Vaugahana, Vauthna, Madi Nimsra (16 months).
-
-The mother of the children had left the house to take care of the smaller and the child who was looking after the child in the house.Preliminary investigations have revealed that the child had already died.
-
-The Madolsima police replied that we were asked to direct the post mortem to the post mortem to the post mortem examination for the post mortem examination.
-
-◼️
-
-[Data](articles/064724a3.json)
-
-[Extended Data](ext_articles/064724a3.ext.json)
-
----
-
-### Saudi Arabia to grant citizenship to global experts
-
-*2024-07-09 14:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100394/saudi-arabia-to-grant-citizenship-to-global-experts) · `en`
-
-To attract bright minds to the Saudi community, Saudi Arabia has approved granting citizenship to scientists, doctors, researchers, entrepreneurs, and other individuals with rare skills, experience, and specializations. This aims to bolster its economic, health, cultural, sports, and innovation sectors.
-
-The move is a significant change in direction for a country whose economy relies heavily on expatriates, for whom residency is typically contingent on their employment visas.
-
-“The announcement is made in line with the issued Royal decree to grant Saudi citizenships to experts and exceptional global talents with unique competencies in religious, medical, scientific, cultural, sports, and technological fields, contributing to the development of various sectors throughout the kingdom, and in support of achieving its Vision 2030 goal, of creating an attractive environment that enables attracting, investing in and retaining exceptional creative minds,” noted Saudi Press Agency.
-
-...
-
-[Data](articles/6022ed27.json)
-
-[Extended Data](ext_articles/6022ed27.ext.json)
-
----
-
-### Maldives President seeks parliament approval for cooperation with Sri Lanka on criminal cases
-
-*2024-07-09 14:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100393/-maldives-president-seeks-parliament-approval-for-cooperation-with-sri-lanka-on-criminal-cases) · `en`
-
-The President of Maldives Dr Mohamed Muizzu has sent a letter to Maldives Parliament seeking approval for collaboration with Sri Lanka in criminal investigations.
-
-The letter said the agreement is being made to further strengthen ties between the countries, and to provide mutual assistance in criminal investigation cases, foreign media reported.
-
-Under the agreement, maximum assistance will be provided to investigate criminal cases within the laws and regulations of each country, and to carry out the criminal justice process.
-
-The letter said that the government had decided on June 2 to enter the ‘Treaty between The Government of The Republic of Maldives and The Government of The Democratic Socialist Republic of Sri Lanka on Mutual Legal Assistance in Criminal Matters’, and added that parliament approval is needed to do so.
-
-...
-
-[Data](articles/3f1c7fa8.json)
-
-[Extended Data](ext_articles/3f1c7fa8.ext.json)
 
 ---

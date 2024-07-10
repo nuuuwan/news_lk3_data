@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 11:19:58**
+As of **2024-07-10 11:35:42**
 
 ## Newspaper Stats
 
-*Scraped **34,551** Articles*
+*Scraped **34,557** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
-adalk | 3,103
-adaderanalk | 3,967
+adalk | 3,106
+adaderanalk | 3,969
 tamilmirrorlk | 4,112
 dailymirrorlk | 4,733
 virakesarilk | 5,399
-adaderanasinhalalk | 5,750
+adaderanasinhalalk | 5,751
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,549 (100.0%) of 34,551 articles have been extended.
+34,551 (100.0%) of 34,557 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### Striking railway workers given deadline to report to duty
+
+*2024-07-10 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100416/striking-railway-workers-given-deadline-to-report-to-duty) · `en`
+
+The General Manager of Sri Lanka Railways has warned that all Station Masters and Railway Controllers who fail to report to duty by 12.00 noon today (10) will be considered as having vacated their positions.
+
+Accordingly, all the striking Railway Station Masters and Railway Controllers are instructed to report for duty at their respective railway stations or at least to the nearest railway station.
+
+◼️
+
+[Data](articles/fd862f57.json)
+
+---
+
+### Sri Lanka’s tea exports predicted to generate USD 1.5 billion revenue in 2024
+
+*2024-07-10 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100415/sri-lankas-tea-exports-predicted-to-generate-usd-15-billion-revenue-in-2024) · `en`
+
+The Tea Research Institute of Sri Lanka predicts that Sri Lanka’s tea exports are expected to generate a revenue of USD 1.5 billion in the year 2024.
+
+Meanwhile, as part of the first stage of a three-phase program to provide fertilizer at a concessionary rate, 10,000 metric tonnes out of the planned 30,000 metric tonnes of fertilizer has been distributed among tea planters so far.
+
+Recently, Minister of Agriculture and Plantation Industries Mahinda Amaraweera convened a progress review meeting of the St. Coombs Estate in Talawakelle and the Tea Research Institute of Sri Lanka.
+
+Addressing the progress review meeting, Minister of Agriculture and Plantation Industries Mahinda Amaraweera revealed that the already cultivated lands of tea estates are sufficient for the development of Sri Lanka’s tea plantation industry.
+
+...
+
+[Data](articles/baed9a82.json)
+
+---
+
+### දුම්රිය දෙපාර්තමේන්තුව අවසාන නිවේදනය නිකුත්කරයි
+
+*2024-07-10 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198667) · `si`
+
+ශ්‍රී ලංකා දුම්රිය සේවයේ වර්ජනයේ නිරත සියලුම දුම්රිය ස්ථානාධිපතිවරුන්ට සහ දුම්රිය පාලකවරුන්ට අවසන් නිවේදනය නිකුත්කර තිබේ.
+
+ඒ අනුව අද දහවල් 12ට අදාළ දුම්රිය ස්ථානයට හෝ ආසන්නතම දුම්රිය ස්ථානයට දුම්රිය ස්ථානාධිපතිවරු සහ දුම්රිය පාලකවරුන් සේවයට වාර්තාකළ යුතු බව එම නිවේදනයේ දැක්වෙයි.
+
+ඒ අනුව අද දහවල් 12ට අදාළ දුම්රිය ස්ථානයට හෝ ආසන්නතම දුම්රිය ස්ථානයට දුම්රිය ස්ථානාධිපතිවරු සහ දුම්රිය පාලකවරුන් සේවයට වාර්තාකළ යුතු බව එම නිවේදනයේ දැක්වෙයි.
+
+ශ්‍රී ලංකා දුම්රිය සේවය අත්‍යවශ්‍ය සේවාවක් කර තිබියදී මෙම වර්ජනය ක්‍රියාත්මක කර ඇති බව ඔහු පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/45ba8c0d.json)
+
+---
 
 ### Fire breaks out at National Library
 
@@ -43,6 +93,8 @@ The Fire Brigade stated that several fire trucks have been deployed to douse the
 ◼️
 
 [Data](articles/f9b51696.json)
+
+[Extended Data](ext_articles/f9b51696.ext.json)
 
 ---
 
@@ -75,6 +127,8 @@ Nidahasa Janatha Sabawa (NJS) led by MP Dullas Alahapperuma has decided to form 
 ◼️
 
 [Data](articles/f82d0b98.json)
+
+[Extended Data](ext_articles/f82d0b98.ext.json)
 
 ---
 
@@ -465,6 +519,18 @@ The GCE Advanced Level Examination for 2024 will be held from November 25 to Dec
 [Data](articles/11a8e495.json)
 
 [Extended Data](ext_articles/11a8e495.ext.json)
+
+---
+
+### වර්ජනයෙන් දුම්රිය මගිහු අසිරුවේ
+
+*2024-07-10 09:29:30* · [`adalk`](https://www.ada.lk/breaking_news/වර්ජනයෙන්-දුම්රිය-මගිහු-අසිරුවේ/11-410708) · `si`
+
+දුම්රිය ස්ථානාධිපතිවරුන් ආරම්භ කර ඇති වැඩ වර්ජනය හේතුවෙන් දුම්රිය මගින් දැඩි අපහසුතාවට පත්වූහ. වර්ජනය හේතුවෙන් බොහෝ දුම්රිය අවලංගු කර තිබුණි.
+
+◼️
+
+[Data](articles/cacdf6df.json)
 
 ---
 
@@ -1938,6 +2004,26 @@ Meanwhile, the Welfare Benefits Council has introduced a new mobile app with a f
 
 ---
 
+### තේ වගාවට අලුත් ඉඩම් නෑ
+
+*2024-07-09 20:09:50* · [`adalk`](https://www.ada.lk/breaking_news/තේ-වගාවට-අලුත්-ඉඩම්-නෑ/11-410707) · `si`
+
+තේ වගාව සඳහා තවදුරටත් අලුත් ඉඩම් යොදා නොගැනීමට රජය තීරණය කර තිබේ.
+
+විෂය භාර අමාත්‍ය මහින්ද අමරවීර මහතා සඳහන් කර සිටියේ මෙරට තේ කර්මාන්තයේ සංවර්ධනය සඳහා මේ වනවිට වගා කර ඇති ඉඩම් ප්‍රමාණවත් වීම මීට හේතු වී ඇති බවයි.
+
+ඒ අනුව පවතින තේ ඉඩම්වලින් ඉහළම අස්වැන්නක් ලබා ගත හැකි වන පරිදි වගාවට පොහොර යෙදීම, පුරප්පාඩු පැළ රෝපණය, අධි ඝනත්ව වගා ක්‍රමය හඳුන්වා දීම මෙන්ම අගය එකතු කළ නිෂ්පාදන වශයෙන් තේ ආශ්‍රිත නිෂ්පාදන ඉහළ නැංවීම සඳහා ද අවශ්‍ය පියවර ගන්නා ලෙස අමාත්‍යවරයා විසින් තේ පර්යේෂණ ආයතනයට උපදෙස් දී තිබේ.
+
+තලවකැලේ ශ්‍රී ලංකා තේ පර්යේෂණ ආයතනය විසින් මේ වනවිට නව තේ ප්‍රභේද 70ක් හඳුන්වා දී ඇති අතර ඒවා අන්තර්ජාතිකව ඉහළ ඉල්ලුමක් ඇති ප්‍රභේද බවට එම ආයතනය සඳහන් කළේය.
+
+මේ අතර තේ අපනයනයෙන් මෙම වර්ෂට තුළදී ඇමරිකන් ඩොලර් බිලියන 1.5ක ආදායමක් උපයා ගැනීමට හැකිවනු ඇති බවට රජය ඇස්තමේන්තු කර තිබේ.
+
+◼️
+
+[Data](articles/f9bec100.json)
+
+---
+
 ### Another decision to solve the salary issue of estate workers
 
 *2024-07-09 20:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198648) · `si`
@@ -1985,6 +2071,24 @@ Plantation youth should think about who is responsible for the presence of plant
 [Data](articles/6a1ba5a6.json)
 
 [Extended Data](ext_articles/6a1ba5a6.ext.json)
+
+---
+
+### බස්නාහිර ත්‍රිරෝද රථ සඳහා 15දා සිට නව ගාස්තු ක්‍රමයක්
+
+*2024-07-09 19:52:58* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-ත්‍රිරෝද-රථ-සඳහා-15දා-සිට-නව-ගාස්තු-ක්‍රමයක්/11-410706) · `si`
+
+බස්නාහිර පළාත තුළ ධාවනය වන මගී ත්‍රිරෝද රථ සඳහා මේ මස 15වන දින මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි නිශ්චිත ගාස්තුවක් හඳුන්වා දී තිබෙන බව බස්නාහිර පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරිය සඳහන් කරයි.
+
+මේ අනුව පළමු කිලෝමීටරයට රුපියල් 100ක් හා දෙවැනි කිලෝමීටරයත් ඇතුළත්ව ඉන්පසුව කිලෝමීටරයකට රුපියල් 90ක් ලෙස ගාස්තුව සකස් කර තිබෙන බවද එම අධිකාරියේ සභාපති ප්‍රසන්න සංජීව මහතා සඳහන් ක‍ළේය.
+
+බස්නාහිර පළාත තුළ ධාවන වන ත්‍රිරෝද රථ මේ වන විට ලියාපදිංචි කර ගනිමින් තිබෙන බවත් බොහෝ ත්‍රිරෝද රථ සඳහා ගාස්තු මීටර පවතින බවත් මීට අමතරව පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරිය විසින් සහන මිලට ගාස්තු මීටරයක් ලබා දීමට වැඩපිළිවෙළක් සකස් කර තිබෙන බවද පැවසීය.
+
+මේ මස 15වන දින සිට මෙම ගාස්තුව ක්‍රියාත්මක කරන බවත් අදාළ ගාස්තු අය නොකරන පිරිස්වලට නීතිය ක්‍රියාත්මක කිරීම සඳහා අදාළ වැටලීම් සිදු කිරීමට සැලසුම් කර තිබෙන බවද සඳහන් කළේය.
+
+...
+
+[Data](articles/f21d6dbe.json)
 
 ---
 
@@ -2111,139 +2215,5 @@ We should remember that every governments that came after independence were carr
 [Data](articles/e28955cb.json)
 
 [Extended Data](ext_articles/e28955cb.ext.json)
-
----
-
-### Naveen Dissanayake gives people friendly ethnium
-
-*2024-07-09 19:06:13* · [`adalk`](https://www.ada.lk/breaking_news/නවින්-දිසානායකට-ජන-හිතකාමී-ශාසනබන්ධු-නාමය-දෙයි/11-410701) · `si`
-
-Naveen Dissanayake, the governor of Sabaragamuwa Province in Sri Lanka, hosted a gathering at the Sabaragamuwa Provincial Auditorium in Ratnapura. The event included religious leaders like the Most Venerable Bogaspita Dhamma Gunarathi Tissa and others, as well as political figures such as Minister Pavithra Wanniarachchi and MP Thalatha Athukorala. This event signifies the governor's commitment to fostering unity and dialogue among various sectors of society.
-
-🟩
-
-The editor of the Sri Lanka Amarapura Maha Sangha in Sri Lanka was held at the Sabaragamuwa Provincial Auditorium in Ratnapura (08).
-
-The Hon.
-
-Governor of Sabaragamuwa Province Navin Dissanayake has given the Sabaragamuwa Governor of the Sabaragamuwa Governor of the Sabaragamuwa Province and the democratic principles of the Sabaragamuwa Province.has been.
-
-AD. Flowers, the Most Venerable Bogaspita Dhamma Gunarathi Tissa, the Most Venerable Ughane Gunarathi Tissa, the Most Venerable Ughane Gunarathi Tissama, the Most Venerable Kuthan, Dasthaya, Dast Updraw, Dhamma Kuladama, DhabanagamaPinteth presence also occurred.
-
-Minister Pavithra Wanniarachchi, MP Thalatha Athukorala, Akila Wijeweera, Deputy Chairman of Amaradha Gunaratne, Chief Secretary Mahinda Rajapaksa and representatives of the Amaradha Gunaratne and the General Secretary of Amarapura Maha Section.Were together.
-
-◼️
-
-[Data](articles/90b74c88.json)
-
-[Extended Data](ext_articles/90b74c88.ext.json)
-
----
-
-### Starmer At UK’s Helm; Will There Be Any Qualitative Foreign Policy Shifts?
-
-*2024-07-09 19:02:50* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/starmer-at-uks-helm-will-there-be-any-qualitative-foreign-policy-shifts/) · `en`
-
-Having entered the House of Commons in May 2015, it has taken Keir Starmer less than a decade to climb what Benjamin Disraeli, once famously described as the “greasy pole” of British politics. Britain now has a new government after Labour Party won a landslide victory in last Thursday’s election, winning 412 seats and a huge 172-seat majority in parliament. While 2019’s general election was largely a story of two parties, this time national ballot led to historic gains for the Lib Dems, the Greens and Reform UK. The victories by pro-Gaza independent candidates, among them ex-Labour leader Jeremy Corbyn dealt blows to some of Westminster’s most prominent MPs. The rise of the “populist” Reform UK Party led by Nigel Farage, particularly had leaders of the more established political outfits rattled. (Interestingly the biggest donor to this party was a British entrepreneur with Sri Lankan heritage). Labour has also regained its dominance in Scotland, and Wales too.
-
-...
-
-[Data](articles/ee4aa513.json)
-
-[Extended Data](ext_articles/ee4aa513.ext.json)
-
----
-
-### Spring's and Nayanawasa's body handed over to relatives
-
-*2024-07-09 19:01:26* · [`adalk`](https://www.ada.lk/breaking_news/වසන්තගේ-හා-නයන-වාසලගේ-දේහයන්-ඥාතීන්ට-භාර-දෙයි/11-410700) · `si`
-
-The bodies of Wasantha Surendra Perera and Nayanawasa were handed over to their respective families from the Homagama Base Hospital. The remains were initially kept at the hospital morgue after being discovered in the Athurugiriya area due to unidentified gunshot wounds. Popular singer Kirinani Kamani Kamin is also hospitalized, undergoing treatment at the Colombo National Hospital and Kalubowila Teaching Hospital.
-
-🟩
-
-Wasantha Surendra Perera, or the other person's body, was taken to the relatives of the Homagama Hospital at the Homagama Hospital, the Homagama Base Hospital said.
-
-The remains were placed at the Homagama Base Hospital morgue at the opening of two unidentified gunmen in Athurugiriya area.
-
-Don Sorchandra, a resident of Ward Place No. 02 / C (55) and the relatives of Wijesuriya Arachchige Nayakarilawatta, No.The hospital said.
-
-Sirithndra Wasantha Perera, or Club Wasantha was taken to a private flower hall in Borella, and he took the body of Nayana Warzuli Wijesuriya.
-
-Popular singer Kirinani Kamani Kamin Hospital is currently receiving treatment at the Colombo National Hospital and is currently receiving treatment at the Kalubowila Teaching Hospital in the Kalubowila Teaching Hospital.
-
-The Homagama Base Hospital Experinity Medical Officer Praranith Seneviratne had been conducted at the Homagama Base Hospital.
-
-◼️
-
-[Data](articles/bd23da96.json)
-
-[Extended Data](ext_articles/bd23da96.ext.json)
-
----
-
-### Wasantha's last minute video
-
-*2024-07-09 18:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198647) · `si`
-
-Saddenya Perera, known as Club Wasantha, was killed in Athuruga. He was seen lighting an oil lamp with his wife before his death.
-
-🟩
-
-Ada Derana has received a footage of Saddenya Perera, or Club Wasantha, who was assassinated by the town of Athuruga.
-
-There, Club Wasantha had joined the plate oil lamp with his wife.
-
-◼️
-
-[Data](articles/b8136f26.json)
-
-[Extended Data](ext_articles/b8136f26.ext.json)
-
----
-
-### The strike also gave the pension allowance
-
-*2024-07-09 18:56:30* · [`adalk`](https://www.ada.lk/breaking_news/වැඩවර්ජනය-මධ්‍යයේ-විශ්‍රාම-වැටුප්-දීමනාවත්-දුන්නා/11-410699) · `si`
-
-Despite strikes, the Pension Department released Rs. 28.5 billion to banks and the postal department on July 10, ensuring timely pension allowances for 99.5% of recipients.
-
-🟩
-
-Although some public sector engaged in strike, the Director General of Pensions Department has been released today to the banks today (09) to the banks in July 10 (09. Mr. Dias said.
-
-Accordingly, Rs. 28.5 billion was released to 24 public and private banks and the postal department, the Director General said.
-
-The pension allowance will be paid on July 10, without any delay in 99.5% of the delay in 99.5%.The Director General of the Department of Pensions added that it will be possessed.
-
-◼️
-
-[Data](articles/f6b0fc33.json)
-
-[Extended Data](ext_articles/f6b0fc33.ext.json)
-
----
-
-### Workers' salary affair;Mankind
-
-*2024-07-09 18:52:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிலாளர்களின்-சம்பள-விவகாரம்-மனுஷ-அதிரடி/175-340102) · `ta`
-
-Ceylon Workers Congress representatives met Minister Manusha Nanayakkara to discuss plantation companies refusing to pay increased salaries as per the government's decision. The Minister clarified that non-cooperative companies would face lease agreement non-renewal and highlighted that some companies agreed to pay the increased salary along with arrears. President Ranil Wickremesinghe directed the publication of plantation worker housing areas in the gazette, ensuring they benefit from local facilities and excluding them from company maintenance responsibilities. This move addresses concerns over dual policies affecting plantation worker wages and company profits.
-
-🟩
-
-Plantation workers, including representatives of the Ceylon Workers Congress, met Minister Manusha Nanayakkara in the Ministry of Labor and Foreign Employment today to discuss issues caused by some plantation companies seeking the court against the government's decision on the salary increase of plantation workers.
-
-The Minister explained to the labor representatives on the issue of refusal to pay the increased salary. The Minister also stated that this was discussed at the Cabinet meeting held today
-
-Plantation companies have not cooperated with the government's efforts to increase the salary of the existing legal schemes at Rs 1350 and the productive -based promotion allowance to increase to Rs 350.
-
-During today's Cabinet meeting, it has been decided not to extend the lease agreement of companies that have paid the increased salary of plantation workers
-
-...
-
-[Data](articles/458c62a1.json)
-
-[Extended Data](ext_articles/458c62a1.ext.json)
 
 ---

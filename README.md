@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 11:35:42**
+As of **2024-07-10 11:55:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,751
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,551 (100.0%) of 34,557 articles have been extended.
+34,557 (100.0%) of 34,557 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Accordingly, all the striking Railway Station Masters and Railway Controllers ar
 ◼️
 
 [Data](articles/fd862f57.json)
+
+[Extended Data](ext_articles/fd862f57.ext.json)
 
 ---
 
@@ -62,23 +64,31 @@ Addressing the progress review meeting, Minister of Agriculture and Plantation I
 
 [Data](articles/baed9a82.json)
 
+[Extended Data](ext_articles/baed9a82.ext.json)
+
 ---
 
-### දුම්රිය දෙපාර්තමේන්තුව අවසාන නිවේදනය නිකුත්කරයි
+### Railway Department releases final announcement
 
 *2024-07-10 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198667) · `si`
 
-ශ්‍රී ලංකා දුම්රිය සේවයේ වර්ජනයේ නිරත සියලුම දුම්රිය ස්ථානාධිපතිවරුන්ට සහ දුම්රිය පාලකවරුන්ට අවසන් නිවේදනය නිකුත්කර තිබේ.
+Sri Lanka Railways issues final notice to all stations and trains regarding an essential service strike, emphasizing reporting to duty this afternoon.
 
-ඒ අනුව අද දහවල් 12ට අදාළ දුම්රිය ස්ථානයට හෝ ආසන්නතම දුම්රිය ස්ථානයට දුම්රිය ස්ථානාධිපතිවරු සහ දුම්රිය පාලකවරුන් සේවයට වාර්තාකළ යුතු බව එම නිවේදනයේ දැක්වෙයි.
+🟩
 
-ඒ අනුව අද දහවල් 12ට අදාළ දුම්රිය ස්ථානයට හෝ ආසන්නතම දුම්රිය ස්ථානයට දුම්රිය ස්ථානාධිපතිවරු සහ දුම්රිය පාලකවරුන් සේවයට වාර්තාකළ යුතු බව එම නිවේදනයේ දැක්වෙයි.
+The last statement has been issued to all stations and the trains of the Sri Lanka Railways.
 
-ශ්‍රී ලංකා දුම්රිය සේවය අත්‍යවශ්‍ය සේවාවක් කර තිබියදී මෙම වර්ජනය ක්‍රියාත්මක කර ඇති බව ඔහු පෙන්වා දෙයි.
+Accordingly, the railway station or the Colombo Masters OIC and the Railways should be reported to the service this afternoon.
+
+Accordingly, the railway station or the Colombo Masters OIC and the Railways should be reported to the service this afternoon.
+
+He pointed out that the strike was implemented while the Sri Lanka Railways was an essential service.
 
 ◼️
 
 [Data](articles/45ba8c0d.json)
+
+[Extended Data](ext_articles/45ba8c0d.ext.json)
 
 ---
 
@@ -522,15 +532,21 @@ The GCE Advanced Level Examination for 2024 will be held from November 25 to Dec
 
 ---
 
-### වර්ජනයෙන් දුම්රිය මගිහු අසිරුවේ
+### Railway traders in striking
 
 *2024-07-10 09:29:30* · [`adalk`](https://www.ada.lk/breaking_news/වර්ජනයෙන්-දුම්රිය-මගිහු-අසිරුවේ/11-410708) · `si`
 
-දුම්රිය ස්ථානාධිපතිවරුන් ආරම්භ කර ඇති වැඩ වර්ජනය හේතුවෙන් දුම්රිය මගින් දැඩි අපහසුතාවට පත්වූහ. වර්ජනය හේතුවෙන් බොහෝ දුම්රිය අවලංගු කර තිබුණි.
+Railway strikes led by Station Masters caused significant disruptions, resulting in the cancellation of many trains.
+
+🟩
+
+Rail was severely embarrassed by the strike commenced by the Station Masters. Most trains had been canceled due to the strike.
 
 ◼️
 
 [Data](articles/cacdf6df.json)
+
+[Extended Data](ext_articles/cacdf6df.ext.json)
 
 ---
 
@@ -2004,23 +2020,29 @@ Meanwhile, the Welfare Benefits Council has introduced a new mobile app with a f
 
 ---
 
-### තේ වගාවට අලුත් ඉඩම් නෑ
+### No new land for tea cultivation
 
 *2024-07-09 20:09:50* · [`adalk`](https://www.ada.lk/breaking_news/තේ-වගාවට-අලුත්-ඉඩම්-නෑ/11-410707) · `si`
 
-තේ වගාව සඳහා තවදුරටත් අලුත් ඉඩම් යොදා නොගැනීමට රජය තීරණය කර තිබේ.
+The government has halted new land use for tea cultivation due to ample existing land. Minister Mahinda Amaraweera emphasizes enhancing current tea estates with better fertilization and introducing new tea varieties. The Sri Lanka Tea Research Institute has already launched 70 new varieties. The government expects tea exports to generate $1.5 billion annually.
 
-විෂය භාර අමාත්‍ය මහින්ද අමරවීර මහතා සඳහන් කර සිටියේ මෙරට තේ කර්මාන්තයේ සංවර්ධනය සඳහා මේ වනවිට වගා කර ඇති ඉඩම් ප්‍රමාණවත් වීම මීට හේතු වී ඇති බවයි.
+🟩
 
-ඒ අනුව පවතින තේ ඉඩම්වලින් ඉහළම අස්වැන්නක් ලබා ගත හැකි වන පරිදි වගාවට පොහොර යෙදීම, පුරප්පාඩු පැළ රෝපණය, අධි ඝනත්ව වගා ක්‍රමය හඳුන්වා දීම මෙන්ම අගය එකතු කළ නිෂ්පාදන වශයෙන් තේ ආශ්‍රිත නිෂ්පාදන ඉහළ නැංවීම සඳහා ද අවශ්‍ය පියවර ගන්නා ලෙස අමාත්‍යවරයා විසින් තේ පර්යේෂණ ආයතනයට උපදෙස් දී තිබේ.
+The government has decided not to use new land for tea cultivation.
 
-තලවකැලේ ශ්‍රී ලංකා තේ පර්යේෂණ ආයතනය විසින් මේ වනවිට නව තේ ප්‍රභේද 70ක් හඳුන්වා දී ඇති අතර ඒවා අන්තර්ජාතිකව ඉහළ ඉල්ලුමක් ඇති ප්‍රභේද බවට එම ආයතනය සඳහන් කළේය.
+Minister Mahinda Amaraweera stated that this is due to adequate lands that have been cultivated for development in the tea industry in the country.
 
-මේ අතර තේ අපනයනයෙන් මෙම වර්ෂට තුළදී ඇමරිකන් ඩොලර් බිලියන 1.5ක ආදායමක් උපයා ගැනීමට හැකිවනු ඇති බවට රජය ඇස්තමේන්තු කර තිබේ.
+The Minister instructs tea research institute to take necessary fertilizing and enhance the vacancies in the existing tea land, as well as to enhance the vacancies.Available.
+
+The Sri Lanka Tea Research Institute of Talawakele has introduced 70 new tea varieties and said that they have internally high demand varieties.
+
+Meanwhile, the government is estimated that the export of tea will be able to earn an income of US $ 1.5 billion in tea.
 
 ◼️
 
 [Data](articles/f9bec100.json)
+
+[Extended Data](ext_articles/f9bec100.ext.json)
 
 ---
 
@@ -2074,21 +2096,31 @@ Plantation youth should think about who is responsible for the presence of plant
 
 ---
 
-### බස්නාහිර ත්‍රිරෝද රථ සඳහා 15දා සිට නව ගාස්තු ක්‍රමයක්
+### New charge for western three wheelers
 
 *2024-07-09 19:52:58* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-ත්‍රිරෝද-රථ-සඳහා-15දා-සිට-නව-ගාස්තු-ක්‍රමයක්/11-410706) · `si`
 
-බස්නාහිර පළාත තුළ ධාවනය වන මගී ත්‍රිරෝද රථ සඳහා මේ මස 15වන දින මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි නිශ්චිත ගාස්තුවක් හඳුන්වා දී තිබෙන බව බස්නාහිර පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරිය සඳහන් කරයි.
+In the Western Province, a new fee structure for three-wheelers has been introduced, effective from the 15th of this month. The first kilometer costs Rs. 100, aiming to regulate the industry more effectively. This move follows concerns about unfair practices among three-wheeler operators, ensuring better service quality and compliance with laws.
 
-මේ අනුව පළමු කිලෝමීටරයට රුපියල් 100ක් හා දෙවැනි කිලෝමීටරයත් ඇතුළත්ව ඉන්පසුව කිලෝමීටරයකට රුපියල් 90ක් ලෙස ගාස්තුව සකස් කර තිබෙන බවද එම අධිකාරියේ සභාපති ප්‍රසන්න සංජීව මහතා සඳහන් ක‍ළේය.
+🟩
 
-බස්නාහිර පළාත තුළ ධාවන වන ත්‍රිරෝද රථ මේ වන විට ලියාපදිංචි කර ගනිමින් තිබෙන බවත් බොහෝ ත්‍රිරෝද රථ සඳහා ගාස්තු මීටර පවතින බවත් මීට අමතරව පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරිය විසින් සහන මිලට ගාස්තු මීටරයක් ලබා දීමට වැඩපිළිවෙළක් සකස් කර තිබෙන බවද පැවසීය.
+Western Province Road Passenger Transport Authority (Western Province) passenger passenger passenger passenger Transport Authority stated that a special fee is implemented in the Western Province.
 
-මේ මස 15වන දින සිට මෙම ගාස්තුව ක්‍රියාත්මක කරන බවත් අදාළ ගාස්තු අය නොකරන පිරිස්වලට නීතිය ක්‍රියාත්මක කිරීම සඳහා අදාළ වැටලීම් සිදු කිරීමට සැලසුම් කර තිබෙන බවද සඳහන් කළේය.
+The Chairperson of the Authority Prasanna Sanjeewa said that the first kilometer was Rs. 100 rupees, including Rs.
+
+The racing three-wheelers in the Western Province are now registered with the provincial road passenger Transport Authority.
+
+It is planned to implement this fee from the 15th of this month and is scheduled to carry out the raids applicable to the implementation of law.
+
+The All-Lanka-Private Authority Trade Union, Chairman of the All Ceylon Drivers, said that the relevant provincial authorities should take action to take the relevant charges.
+
+The lack of a specific fee is the injustices of passenger passengers from three wheelers and that the people who obey the services in the Western Province will be fulfilled since the 15th of this month.
 
 ...
 
 [Data](articles/f21d6dbe.json)
+
+[Extended Data](ext_articles/f21d6dbe.ext.json)
 
 ---
 

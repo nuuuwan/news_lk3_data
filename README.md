@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 16:19:58**
+As of **2024-07-10 16:35:16**
 
 ## Newspaper Stats
 
-*Scraped **34,596** Articles*
+*Scraped **34,597** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,57 @@ adaderanalk | 3,976
 tamilmirrorlk | 4,124
 dailymirrorlk | 4,733
 virakesarilk | 5,402
-adaderanasinhalalk | 5,758
+adaderanasinhalalk | 5,759
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,595 (100.0%) of 34,596 articles have been extended.
+34,596 (100.0%) of 34,597 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### මේ සටන රිළවුන්ටයි
+### වැඩට ආපු ගුරුවරුන්ට පඩි වැඩිවෙන විදිය
+
+*2024-07-10 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198675) · `si`
+
+වෘත්තීය සමිති වැඩවර්ජනයට එක් නොවී සේවයට වාර්තා කළ රාජ්‍ය සේවකයන්ට වැටුප් වැඩිවීම් ලැබෙන අයුරු අමාත්‍ය බන්දුල ගුණවර්ධන මහතා අද (10) පැහැදිලි කළේය.
+
+වෘත්තීය සමිති වැඩවර්ජනයට එක් නොවී සේවයට වාර්තා කළ, විධායක ශ්‍රේණියේ නොවන සියලුම රාජ්‍ය නිලධාරීන්ට විශේෂ වැටුප් වර්ධකයක් ලබාදීමටත්, ඉදිරි උසස්වීම් සඳහා යොදාගත හැකි විශේෂ  ප්‍රශංසා සහතිකයක් නිකුත් කිරීමටත් ඊයේ (09) කැබිනට් අනුමැතිය හිමිවුණි.
+
+"වර්ජනය කරපු දිනවල... කඩාකප්පල්කාරී ක්‍රියාවට සම්බන්ධ නොවී දරුවන්ගේ පැත්තේ හිටගත්තු ගුරුවරුන්ට විතරක් 3.1 ශ්‍රේණියේ ගුරුවරයෙකුට රුපියල් 525කින්, 2 වන ශ්‍රේණියේ පළමු පංතියේ ගුරුවරයෙකුට රු 1,335ක වැටුප් වැඩිවීමකුත්, පළමු ශ්‍රේණියේ ගුරුවරුන් සඳහා රු 1,630ක වැටුප් වර්ධකයෙකුත් විශ්‍රාම වැටුපට බලනොපාන ආකාරයට වැටුප්වල වර්ධකයක් ලැබෙනවා."
+
+"රාජ්‍ය අංශයේ අනෙකුත් සුළු සේවකයින් හා අනෙකුත් අයටත්, වැඩකරපු සියලුදෙනාටත් මෙවැනි වැටුප් වර්ධකයන් ලැබෙනවා ඇති. භාණ්ඩාගාරයට මුදල් නැත්නම් කොතරම් උද්ඝෝෂණය කරත්, තොතරම් වැඩ වර්ජනය කරත්, කොතරම් සාප කළත්, පොල් ගැහුවත්, දේවාලවලට ගියත් කොහෙන්ද දෙන්නේ ? කවුද දෙන්නේ ?"
+
+◼️
+
+[Data](articles/ccd6af08.json)
+
+---
+
+### This battle is to rubs
 
 *2024-07-10 15:52:51* · [`adalk`](https://www.ada.lk/breaking_news/මේ-සටන-රිළවුන්ටයි/11-410720) · `si`
 
-තලාතුඔය හා ඒ අවට ගම්මාන වල ගොවීන්ගේ  වගාවන්වලට රිළවුන්ගෙන් සිදුවන හානිවලට වහා විසඳුම් ලබාදෙන ලෙස ඉල්ලා පාතහේවාහැට ගොවිජන සංවිධාන එකමුතුව විසින් සංවිධානය කළ උද්ඝෝෂණයක් අද උදෑසන තලාතුඔය නගර මධ්‍යයේ දී පැවැත්විණි .
+Farmers and agrarian organization leaders protested in Thalathuoya, demanding solutions for crop issues affecting local farms and surrounding villages. The event saw participation from various farmer groups and representatives, emphasizing the collective effort to address agricultural challenges.
 
-මාරස්සන මාර් ගයේ මුදුනකඩේ හන්දියේ  සිට තලාතුඔය නගරය දක්වා පා ගමනින් පැමිණි ගොවි ජනතාව  තලාතුඔය නගරයේදී සටන් පාඨ කියමින් උද්ඝෝෂණයේ නියැළිණි.
+🟩
 
-මේ සඳහා පාත හේවාහැට ගම්මාන වල ගොවින් මෙන්ම පාතහේවාහැට ගොවි සංවිධාන නියෝජිතයන් හා ප්‍රදේශවාසීහු රැසක්  එක්ව සිටියහ.
+A protest organized by the Agrarian Organization of Agrarian Organizations was held in the center of Thalathuoya town demanding the solution to the crops of Thalathuoya and the farmers in the surrounding villages.
 
-පසුව මෙම වගා හානි පිළිබඳව ඔවුන් විසින් සකස් කල සන්දේශයක්  පාතහේවාහැට ප්‍රාදේශීය ලේකම් වෙත භාරදීමට ගොවි සංවිධාන එකමුතුව හා ප්‍රදේශවාසීන් කටයුතු කලහ. ( I J)
+The peasants who arrived at Thalathu Oya town from Marassana road from the Thalathuoya town from Thalathuoya town.
+
+The farmers and representatives of farmer organizations of the farmer organizations and the area were present at the village of villages.
+
+The residents of the area were handed over to Pathihewa Ohawha to the Divisional Secretary to the Divisional Secretary to the Divisional Secretary.. (I J)
 
 ◼️
 
 [Data](articles/78f40fb1.json)
+
+[Extended Data](ext_articles/78f40fb1.ext.json)
 
 ---
 
@@ -2167,23 +2191,5 @@ The event was graced by Ambassador of the People’s Republic of China to Sri La
 [Data](articles/fdf6d190.json)
 
 [Extended Data](ext_articles/fdf6d190.ext.json)
-
----
-
-### Sri Lanka Thailand Business Council Ex-Co calls on new Ambassador
-
-*2024-07-10 04:42:05* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Thailand-Business-Council-Ex-Co-calls-on-new-Ambassador/34-764047) · `en`
-
-Seated from left: Secretary Priyantha Kolonnage, Vice President Kamil Weerasekara, Vice President A.M. Musajee, President Dushyantha Basnayake, Thai Ambassador to Sri Lanka Paitoon Mahapannaporn, Founder and Past President Rizan Nazeer, Founder and Past President Lionel Fernando, Immediate Past President Lalith Kumarage, Counsellor Prangtip Kongridhisuksakorn Treasurer Asim Mukthar.
-
-Standing from left: Committee Member Abdul Saliheen, Committee Member Venura Fernando, Committee Member Deepal Abeysekara, Committee Member Rienzie Fernando, Committee Member Rohan Elgiriyawithana, and Assistant Treasurer Yashoda Pieris. (Absent: Assistant Secretary Asitha Panabokke, Committee Member Chandana Nanayakkara)
-
-In a notable event aimed at fostering international cooperation and understanding, the Sri Lanka Thailand Business Council recently convened a pivotal meeting with the new Ambassador of Thailand in Sri Lanka Paitoon Mahapannaporn.
-
-...
-
-[Data](articles/142fb69a.json)
-
-[Extended Data](ext_articles/142fb69a.ext.json)
 
 ---

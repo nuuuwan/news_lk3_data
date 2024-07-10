@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 04:35:13**
+As of **2024-07-11 04:53:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,684 (100.0%) of 34,685 articles have been extended.
+34,685 (100.0%) of 34,685 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -264,19 +264,27 @@ The decision by the Sri Lanka Police to disseminate footage showing Dulan Sanjul
 
 ---
 
-### தோட்டப் பாடசாலைகளில் 60 ‘ஸ்மார்ட்’ வகுப்பறைகளை
+### 60 Smart Classrooms in Estate Schools
 
 *2024-07-11 02:24:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோட்டப்-பாடசாலைகளில்-60-ஸ்மார்ட்-வகுப்பறைகளை/175-340191) · `ta`
 
-இந்திய அரசின் நிதியுதவியுடனும், இலங்கை அரசின் ஒத்துழைப்புடனும் நுவரெலியா, கண்டி மற்றும் பதுளை போன்ற மாவட்டங்களில் தெரிவு செய்யப்பட்ட தோட்டப் பாடசாலைகளில் உயர்தர வகுப்புக்களுக்கான 60 “ஸ்மார்ட்” வகுப்பறைகளை நிர்மாணிக்கும் கருத்திட்டம் நடைமுறைப்படுத்த உள்ளது.
+The Government of India, in collaboration with Sri Lanka, is funding the construction of 60 smart classrooms in plantation schools across Nuwara Eliya, Kandy, and Badulla districts. Approved in December 2023, this initiative aims to enhance education quality through technology integration. The project involves various departments including the Indian High Commission and Sri Lanka's Ministry of Education, addressing implementation challenges.
 
-இந்திய அரசுடன் புரிந்துணர்வு ஒப்பந்தத்தை மேற்கொள்வதற்காக 2023.12.18 ஆம் திகதி இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கியுள்ளது.
+🟩
 
-குறித்த கருத்திட்டத்தை உயர்தர மாணவர்களை மாத்திரம் இலக்காகக் கொண்டு அமுல்படுத்துவதில் நடைமுறைச் சிக்கல்களைக் கருத்தில் கொண்டு, குறித்த மட்டுப்பாட்டை நீக்குவதற்கு இந்திய உயர்ஸ்தானிகராலயம், கல்வி அமைச்சு, வெளிநாட்டு வளங்கள் திணைக்களம் மற்றும் தேசிய வரவ செலவுத்திட்டத் திணைக்களத்தின் அதிகாரிகளுடன் இடம்பெற்ற கலந்துரையாடலில் தீர்மானிக்கப்பட்டுள்ளது.
+With the funding of the Government of India and the cooperation of the Government of Sri Lanka, the construction of 60 "smart" classrooms for high -quality classes is being implemented in the selected plantation schools in Nuwara Eliya, Kandy and Badulla districts.
 
-...
+Authority has been approved at a Cabinet meeting held on 2023.12.18 to make a Memorandum of Understanding with the Government of India.
+
+Considering the practical issues in implementing the project, the Indian High Commission, the Ministry of Education, the Department of Foreign Resources, the Department of Foreign Resources, and the Department of National Bureau of Investigation have been decided.
+
+Accordingly, the Cabinet considers information submitted by Minister of Irrigation and Plantation Infrastructure Development Jeevan Thondaman that steps are being taken to amend the Memorandum of Understanding and implement the project.
+
+◼️
 
 [Data](articles/c03f189b.json)
+
+[Extended Data](ext_articles/c03f189b.ext.json)
 
 ---
 

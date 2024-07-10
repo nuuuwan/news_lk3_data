@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 20:05:05**
+As of **2024-07-10 20:19:44**
 
 ## Newspaper Stats
 
@@ -26,31 +26,43 @@ adaderanasinhalalk | 5,764
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,630 (100.0%) of 34,633 articles have been extended.
+34,633 (100.0%) of 34,633 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### ரைலி ரூசோவ் அபார சதம் குவிப்பு; கலம்போ ஸ்ட்ரைக்ர்ஸை இலகுவாக வென்றது ஜெவ்னா கிங்ஸ்
+### Riley RousseauJevna Kings won the Kalambo Strikes easily
 
 *2024-07-10 19:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188168) · `ta`
 
-ரங்கிரி தம்புள்ள சர்வதேச விளையாட்டரங்கில் புதன்கிழமை (10) நடைபெற்ற லங்கா பிறீமியர் லீக் கிரிக்கெட் போட்டியில் கலம்போ ஸ்ட்ரைக்கர்ஸ் அணியை ஜெவ்னா கிங்ஸ் 7 விக்கெட்களால் மிகவும் இலகுவாக வெற்றிகொண்டது.
+Jevna Kings triumphed over Kalambo Strikers in a Lanka Premier League match, winning by 7 wickets. Riley Rousseau and Avishka Fernando were key contributors, sharing a 130-run partnership. Rousseau remained unbeaten with 108 runs, including 10 fours and 6 sixes. Kalambo Strikers' total of 188/8 was built around Glen Phillips' 58 and Angelo Perera's 34 before he retired. Azmatullah Omarzai and Fernando each took 2 wickets for their teams.
 
-ரைலி ரூசோவ் அதிரடியாக குவித்த சதம் ஜெவ்னா கிங்ஸின் வெற்றியில் முக்கிய பங்காற்றியது. அவிஷ்க பெர்னாண்டோவும் பக்கபலமாகத் துடுப்பெடுத்தாடி அரைச் சதம் பெற்றார்.
+🟩
 
-கலம்போ ஸ்ட்ரைக்கர்ஸ் அணியினால் நிர்ணயிக்கப்பட்ட 189 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய ஜெவ்னா கிங்ஸ் 18.3 ஓவர்களில் 3 விக்கெட்களை  மாத்திரம் இழந்து 190 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+Jevna Kings won the Kalambo Strikers team by 7 wickets at the Lanka Premier League cricket match held at the Rangiri Dambulla International Stadium on Wednesday (10).
 
-நேற்றைய போட்டியில் சதம் குவித்து அசத்திய பெத்தும் நிஸ்ஸன்க இன்றைய போட்டியில் 6 ஓட்டங்களை மாத்திரம் பெற்றார். (30 - 2 விக்.)
+Riley Roussev played a major role in the success of Jevna Kings. Avishka Fernando also backed and scored half a cent.
 
-இந் நிலையில் ஜோடி சேர்ந்த ரைலி ரூசோவ், அவிஷ்க பெர்னாண்டோ ஆகிய இருவரும் மிகத் திறமையாகவும் அதிரடியாகவும் துடுப்பெடுத்தாடி 3ஆவது விக்கெட்டில் 64 பந்துகளில் 130 ஓட்டஙகளைப் பகிர்ந்து அணிக்கு தெம்பூட்டினர்.
+Jevna Kings lost only 3 wickets in 18.3 overs, scoring 190 runs to win 189 runs.
 
-ரைலி ரூசோவ் 50 பந்துகளில் 10 பவுண்டறிகள், 6 சிக்ஸ்கள் உட்பட 108 ஓட்டங்களுடன் ஆட்டம் இழக்காதிருந்தார்.
+Nissanka scored only 6 runs in today's match. (30 - 2 wig.)
+
+Riley Roussev and Avishka Fernando, who paired up, shared 130 runs in 64 balls in the 3rd wicket.
+
+Riley Roussev did not play with 108 balls, including 10 pounds and 6 sixes.
+
+Earlier in the upting match, Kalambo Strikers, who was first invited to bat, scored 188 runs for the loss of 8 wickets.
+
+Galambo Strikers gained considerable total number because of the premises players efficient.
+
+Glen Phillips scored 58 runs, Angelo Perera 34, Rahmanullah Gurbas 27 and team captain Dissara Perera scored 13 runs.
 
 ...
 
 [Data](articles/b40752ca.json)
+
+[Extended Data](ext_articles/b40752ca.ext.json)
 
 ---
 
@@ -90,31 +102,47 @@ The passenger had fallen from Fort to Polgahawela.
 
 ---
 
-### ரயிலில் இருந்து தவறி விழுந்து ஒருவர் உயிரிழப்பு!
+### One dies after falling off the train
 
 *2024-07-10 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188167) · `ta`
 
-கடும் நெரிசலுக்கு மத்தியில் பாதுகாப்பற்ற வகையில் புகையிரதத்தில் பயணம் செய்த பயணி ஒருவர் புகையிரதத்தில் இருந்து தவறி விழுந்து உயிரிழந்துள்ளார்.
+A passenger tragically fell from a crowded train during heavy traffic and passed away.
+
+🟩
+
+In the midst of heavy congestion, a passenger who was traveling on the train fell off the train and died.
 
 ◼️
 
 [Data](articles/f09b14a9.json)
 
+[Extended Data](ext_articles/f09b14a9.ext.json)
+
 ---
 
-### வாகன இறக்குமதி தடை நீக்கம் : ஆகஸ்ட் இரண்டாம் வாரத்தில் இறுதி தீர்மானம் - நிதி இராஜாங்க அமைச்சர்
+### Removal of Vehicle Import: The final resolution of the second week of August - Minister of Finance
 
 *2024-07-10 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/188166) · `ta`
 
-வாகன இறக்குமதிக்கு விதிக்கப்பட்டுள்ள தடையை நீக்குவது தொடர்பில் இறுதித் தீர்மானம் எதிர்வரும் ஆகஸ்ட் மாதம்  இரண்டாம் வாரம் எடுக்கப்படும். அது தொடர்பில் ஆராய்வதற்காக நியமிக்கப்பட்டிருந்த குழு கடந்த 4ஆம் திகதி கூடியுள்ள நிலையில் அதன் இறுதி அறிக்கை ஆகஸ்ட் மாதம் இரண்டாம் வாரத்தில் அமைச்சரவைக்கு சமர்ப்பிக்கப்படும் என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாப்பிட்டிய தெரிவித்தார்.
+The Finance Minister announced that the decision on lifting the vehicle import ban will be made in early August after a committee's report. Special focus is on importing various types of vehicles, including those for tourism, with specific permissions granted for 250 buses and 750 vans.
 
-பாராளுமன்றத்தில் புதன்கிழமை (10) இடம்பெற்ற  மது வரி கட்டளைச் சட்டம் மற்றும் ஏற்றுமதி,இறக்குமதி கட்டுப்பாட்டுச் சட்டங்கள் குறித்த வர்த்தமானி அறிவித்தல்கள் தொடர்பான விவாதத்தில் உரையாற்றும் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-வாகன இறக்குமதி குறித்து  விசேட கவனம் செலுத்தப்பட்டுள்ளது.குழுவின் அறிக்கைக்கு இணங்க நாட்டின் கையிருப்புக்கு எந்தவித பாதிப்பும் ஏற்படாத வகையில்  மக்களின் முக்கிய தேவைகளுக்கு முக்கியத்துவம் வழங்கி வாகன இறக்குமதியை மேற்கொள்வதற்கு நடவடிக்கை எடுக்க முடியும்  என்று எதிர்பார்த்துள்ளோம்.
+The final decision on the lifting of the ban on vehicle imports will be taken in the second week of August. Finance Minister Ranjith Siyambalapitiya said the final report would be submitted to the Cabinet in the second week of August as the committee appointed to investigate the matter was met on the 4th.
 
-...
+He said this while addressing a debate on the Gazette Notifications on Wednesday (10) in Parliament.
+
+Special attention has been paid to the importation of vehicle imports.
+
+Steps will be taken to import vehicles in accordance with the adoption of vehicles, goods transportation vehicles, alternative vehicles, ordinary vehicles and private vehicles. In addition to the importation of the tourism sector, no one of the thousand vehicles allowed by the Cabinet has been imported.
+
+The Cabinet has granted permission to import 250 buses and 750 van vehicles in those vehicles.. He said it would be imported with the permission of the Ministry of Tourism.
+
+◼️
 
 [Data](articles/7fc86d70.json)
+
+[Extended Data](ext_articles/7fc86d70.ext.json)
 
 ---
 

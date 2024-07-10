@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 10:35:21**
+As of **2024-07-10 10:53:53**
 
 ## Newspaper Stats
 
-*Scraped **34,536** Articles*
+*Scraped **34,540** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,111 @@ islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
 adalk | 3,103
-adaderanalk | 3,962
+adaderanalk | 3,964
 tamilmirrorlk | 4,109
 dailymirrorlk | 4,733
-virakesarilk | 5,397
+virakesarilk | 5,399
 adaderanasinhalalk | 5,746
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,536 (100.0%) of 34,536 articles have been extended.
+34,536 (100.0%) of 34,540 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### JICA agrees to resume construction of BIA terminal 2
+
+*2024-07-10 10:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100412/jica-agrees-to-resume-construction-of-bia-terminal-2-) · `en`
+
+The Japan International Cooperation Agency (JICA) has agreed to resume the second terminal of the Bandaranaike International Airport (BIA) extension project, facilitated under a concessionary loan scheme, says Minister of Ports, Shipping and Aviation Nimal Siripala de Silva.
+
+◼️
+
+[Data](articles/29c4c01f.json)
+
+---
+
+### At least 18 dead as bus collides with truck in India
+
+*2024-07-10 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100411/at-least-18-dead-as-bus-collides-with-truck-in-india) · `en`
+
+A double-decker passenger bus collided with a milk truck in northern India, killing at least 18 people and injuring many others.
+
+The collision occurred on Wednesday on an expressway in Uttar Pradesh state, and 19 injured people have been rushed to hospital. Their condition is reported to be stable, said police officer Arvind Kumar.
+
+The bus was travelling from the northern state of Bihar to the capital New Delhi.
+
+“Authorities are in the process of identifying the victims, and a probe has been launched to determine the exact cause of the accident,” Kumar said.
+
+Gaurang Rathi, a government official, said that according to a preliminary investigation the bus may have been speeding when it struck the milk truck from behind, which led both vehicles to overturn. The collision was severe enough that one side of the bus was torn off, causing passengers to be ejected from the vehicle.
+
+...
+
+[Data](articles/4e054e13.json)
+
+---
+
+### PM Modi's visit to Russia, geo -political impacts
+
+*2024-07-10 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/188069) · `ta`
+
+PM Modi's visit to Russia highlights historical ties, from USSR's 1971 UN veto for India against Pakistan to current strategic partnerships.
+
+🟩
+
+“In 1965. Later, during India's war with Pakistan, in December 1971, the Soviet Union used its veto power to support India at the UN Security Council.. But the United States sent the aircraft carrier to the Bay of Bengal in favor of Pakistan "
+
+◼️
+
+[Data](articles/07c606d8.json)
+
+[Extended Data](ext_articles/07c606d8.ext.json)
+
+---
+
+### Many train services are canceled!
+
+*2024-07-10 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/188094) · `ta`
+
+Due to a railway workers' strike, many train services are canceled except for specific routes. The government considers transport services essential, making the strike illegal and leading to potential disciplinary actions against non-working employees.
+
+🟩
+
+Several rail services were canceled due to the strike action by the railway principals on various demands.
+
+However, two trains from Colombo Fort to Negombo and Veyankoda, two trains from Polgahawela to Fort, three trains from Galle Fort to Fort and one train from Aluthgama to Fort.
+
+As the transport services have been declared as essential services, the strike action of the railway principals is illegal, resulting in disciplinary action against employees who do not work, the Secretary of the Transport has said.
+
+◼️
+
+[Data](articles/d24791bd.json)
+
+[Extended Data](ext_articles/d24791bd.ext.json)
+
+---
+
+### முள்ளிப்பொத்தானையில் அதிசொகுசு பஸ் வீதியை விட்டு விலகி விபத்து
+
+*2024-07-10 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/188095) · `ta`
+
+திருகோணமலை மாவட்டம் தம்பலகாமம் பொலிஸ் பிரிவுக்குட்பட்ட கண்டி திருகோணமலை பிரதான வீதியின் 96 ம் கட்டை முள்ளிப்பொத்தானையில் கொழும்பிலிருந்து நேற்றிரவு செவ்வாய்க்கிழமை (09) திருகோணமலை நோக்கி வந்த அதிசொகுசு தனியார் பயணிகள் போக்குவரத்து பஸ் ஒன்று விபத்துக்குள்ளாகியுள்ளது.
+
+குறித்த சம்பவம் இன்று புதன்கிழமை  (10) அதிகாலை இடம்பெற்றுள்ளது.  தனியாருக்கு சொந்தமான அதிசொகுசு பஸ் ஒன்றே பாதையை விட்டு விலகி விபத்துக்குள்ளாகியதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+பஸ் விபத்தில் சாரதி, நடத்துனர் உட்பட பயணிகள் சிலரும் காயமடைந்துள்ளதாக பொலிஸார்  தெரிவித்துள்ளனர்.
+
+மேலும், சம்பவ இடத்துக்கு தம்பலகாமம் போக்குவரத்து பொலிஸார்  விரைந்துள்ளதையடுத்து, நித்திரை கலக்கமே விபத்துக்கு காரணம் என ஆரம்ப கட்ட விசாரனை மூலம் தெரியவருவதாகவும், சம்பவம் தொடர்பாக மேலதிக விசாரணைகளை தம்பலகாமம் பொலிஸார் முன்னெடுத்துள்ளதாகவும் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/0cf6e526.json)
+
+---
 
 ### PUCSL to reach final decision on proposed electricity tariff revision
 
@@ -121,6 +211,26 @@ According to the Constitution, the National Election Commission may announce the
 [Data](articles/de0edbce.json)
 
 [Extended Data](ext_articles/de0edbce.ext.json)
+
+---
+
+### க.பொ.த உயர்தரப் பரீட்சை விண்ணப்பங்களுக்கான கால அவகாசம் நீடிப்பு
+
+*2024-07-10 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/188096) · `ta`
+
+2024 ஆம் ஆண்டுக்கான கல்விப் பொதுத்தராதர பத்திர உயர்தரப் பரீட்சைக்கான விண்ணப்பங்களை இணையத்தளத்தில் சமர்ப்பிக்கும் அவகாசம் மேலும் நீடிக்கப்பட்டுள்ளது.
+
+பாடசலைகள் மற்றும் தனியார் விண்ணப்பதாரர்களுக்கான இணைய மூலம் விண்ணப்பங்களை சமர்ப்பிப்பதற்கான கால அவகாசம் நாளையுடன் (10) நிறைடைய இருந்தது.
+
+எனினும், தவிர்க்க முடியாத காரணங்களினால் எதிர்வரும் 12 ஆம் திகதி வரை அது நீடிக்கப்பட்டுள்ளதாக பரீட்சை திணைக்களம் விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+மேலும், அன்றைய தினத்திற்கு பின்னர் எக்காரணம் கொண்டும் விண்ணப்பிப்பதற்கான காலம் பிற்போடப்பட மாட்டாது எனவும் பரீட்சைகள் திணைக்களம் மேலும் தெரிவித்துள்ளது.
+
+2024 ஆம் ஆண்டுக்கான உயர்தரப் பரீட்சை நவம்பர் 25 ஆம் திகதி முதல் டிசம்பர் 20 ஆம் திகதி வரை நடைபெறவுள்ளது.
+
+◼️
+
+[Data](articles/11a8e495.json)
 
 ---
 
@@ -221,28 +331,6 @@ This is not the case. The Chanakyan MP said that the Minister of Public Security
 [Data](articles/86cbebd7.json)
 
 [Extended Data](ext_articles/86cbebd7.ext.json)
-
----
-
-### Many train services are canceled!
-
-*2024-07-10 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188094) · `ta`
-
-Due to a railway workers' strike, many train services are canceled except for specific routes. The government considers transport services essential, making the strike illegal and leading to potential disciplinary actions against non-working employees.
-
-🟩
-
-Several rail services were canceled due to the strike action by the railway principals on various demands.
-
-However, two trains from Colombo Fort to Negombo and Veyankoda, two trains from Polgahawela to Fort, three trains from Galle Fort to Fort and one train from Aluthgama to Fort.
-
-As the transport services have been declared as essential services, the strike action of the railway principals is illegal, resulting in disciplinary action against employees who do not work, the Secretary of the Transport has said.
-
-◼️
-
-[Data](articles/d24791bd.json)
-
-[Extended Data](ext_articles/d24791bd.ext.json)
 
 ---
 
@@ -2135,129 +2223,5 @@ The Parliamentary Communication Unit shows that this amendment has provided the 
 [Data](articles/9d43f50d.json)
 
 [Extended Data](ext_articles/9d43f50d.ext.json)
-
----
-
-### Sri Lanka discussing US$100mn in financing from OPEC Fund
-
-*2024-07-09 18:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-discussing-us100mn-in-financing-from-opec-fund-171459/) · `en`
-
-ECONOMYNEXT  – Sri Lanka is discussing 100 million dollars in financing from the OPEC Fund for Development for irrigation and water security, a Finance Ministry statement said.
-
-The funding was discussed at a meeting Colombo between State Minister for Finance Semasinghe Yusef Almulhem, Country Manager, Asia Pacific Public Sector Operations of the OPEC Fund.
-
-The 100 million will go to support a project linked to Sri Lanka’s Mahaweli River which is already supported by the Asian Development Bank, with a 300 million dollar credit, the statement said.
-
-The willing of OPEC Fund to provide new financing is a sign of progress made in debt restructuring, Semasinghe quoted as saying in statement. (Colombo/Jul09/2024)
-
-◼️
-
-[Data](articles/82556fdc.json)
-
-[Extended Data](ext_articles/82556fdc.ext.json)
-
----
-
-### Will Bala's 'Wanankan' film previews ..?
-
-*2024-07-09 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188063) · `ta`
-
-"Vanangan," directed by Bala, stars Arun Vijay, resembling Suriya in physique and mannerism, alongside Roshini Prakash, Samudrakani, Mishkin, Arul Das, Brinda Sarathi, and Shanmugarajan. The film, produced by Suresh Kamakshi under V House Productions, has garnered over a million views for its preview, sparking discussions about Bala's direction and Arun Vijay's performance.
-
-🟩
-
-The preview of the film 'Vanangan', which is playing the role of actor Arun Vijay, who has been fighting hard and reaching the status of Ban Indian star actor.
-
-Arun Vijay, Roshini Prakash, Samudrakani, Mishkin, Arul Das, Brinda Sarathi, Shanmugarajan. Pa. Many people including Narayanan. R. B.. Guru Dev is a cinematography by the film.. V.. Prakash Kumar has composed the music.
-
-The film is being produced as an exercise enterter and produced by producer Suresh Kamakshi on behalf of V House Productions.
-
-The preview of the film has been released, especially the fans of Surya's fans.
-
-Fans are posting on the Internet that the director Bala has no new inventory, as Arun Vijay's body, pronunciation, and appearance, starring Sion Vikram's body, pronunciation, and appearance, have been shot in Bala.
-
-In the meantime, the preview has been visited by more than a million spectators within a short time of release.
-
-◼️
-
-[Data](articles/d0710f1e.json)
-
-[Extended Data](ext_articles/d0710f1e.ext.json)
-
----
-
-### Special wages are increasing to public servants who arrived in July 9 on July 9
-
-*2024-07-09 17:52:39* · [`adalk`](https://www.ada.lk/breaking_news/ජුලි-08-දා-9දා-වැඩට-ආපු-රාජ්‍ය-සේවකයන්ට-විශේෂ-වැටුප්-වර්ධකයක්/11-410695) · `si`
-
-President Ranil Wickremesinghe approved a proposal to increase special wages for public servants starting July 9, recognizing their efforts despite challenges in improving the country's economy. This decision follows the issuance of certificates to acknowledge the contributions of non-executive public officials since July 8 and 9. The move aims to stabilize the economy through expansion reforms implemented over the past two years, under which the General Treasury Secretary has advised caution due to the current financial situation. However, it's noted that the government cannot approve further salary and allowance demands from all public servants, focusing instead on recognizing the exceptional work of those outside executive services.
-
-🟩
-
-Special Praise to all government officials who have not been able to improve the economic status of the country properly and the public are not difficult to understand.The proposal made by President Ranil Wickremesinghe has been approved by President Ranil Wickremesinghe to issue a certificate.
-
-The Secretary of Home Administration, Home Affairs, Provincial Councils and Local Government has instructed the Secretary to the Ministry of Public Administration, Heads, Provincial Councils and Local Government to educate the relevant circulars.
-
-Several trade unions are published by several trade unions that are not the executive services of the public service.
-
-The country was able to stabilize the expansion reforms implemented by the country during the last two years and the government implemented the government's expansion reforms in the past two years.
-
-Under the present financial situation, the General Treasury Secretary has also informed the Secretary to the Public Service at this point.
-
-...
-
-[Data](articles/16fdd4d6.json)
-
-[Extended Data](ext_articles/16fdd4d6.ext.json)
-
----
-
-### Bharat starring 'Kalidas 2'
-
-*2024-07-09 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188060) · `ta`
-
-"Kalidas 2," featuring Sivakarthikeyan and Ajay Karthik, premiered in Chennai. Directed by Sri Senthil, it's produced by Five Star Senthil and Yogeswaran under Sky Pictures. The music is by Sam CS, and shooting starts soon with a senior Tamil actress returning to the screen.
-
-🟩
-
-The inauguration of the 'Kalidas 2', which plays one of the heroes of Bharat story, was held in Chennai in Chennai.. A large number of filmmakers, including the leading star actor Sivakarthikeyan from the Tamil film industry, congratulated the film crew on the participation of the film.
-
-Bharat and Ajay Karthik are the heroes of the story of 'Kalidas 2' directed by director Sri Senthil, directed by 'Kalidas'.Suresh Bala is composed by Sam CS for the film.
-
-The film is co -produced by producers 'Five Star' Senthil and Yogeswaran on behalf of Sky Pictures.
-
-The film crew has said that the shooting of the film will begin soon and one of the senior actresses of Tamil cinema is re -entry.
-
-◼️
-
-[Data](articles/2aee2c02.json)
-
-[Extended Data](ext_articles/2aee2c02.ext.json)
-
----
-
-### Actor Raju Jayamohan starrer 'Ban Butter Jam' movie Burst Look release
-
-*2024-07-09 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188071) · `ta`
-
-"Raju Jayamohan stars in 'Ban Butter Jam,' with a burst look reveal. Directed by Raghav Mirdhat, it features Adia Prasad, Pavya Tarika, Charlie, Saranya Ponvannan, and more. Cinematography by Niwas K, music by Prasanna, and produced by Suresh Subramanian. Shooting nears completion, with post-production ongoing."
-
-🟩
-
-The first look of 'Ban Butter Jam' has been released by actor Raju Jayamohan, the famous actor Raju Jayamohan.
-
-Raju Jayamohan, Adia Prasad, Pavya Tarika, Charlie, Saranya Ponvannan, Devadarshini, Michael Thangadurai, J J Pappu, directed by Raghav Mirdhat, directed by Raghav Mirdhat, directed by 'Vasantham in times'.
-
-Niwas K is the cinematography by Babu Kumar. Prasanna has composed music. The film was produced by producer Suresh Subramanian on behalf of the Rain of Auros Entertainment Company.
-
-The shooting of the film is nearing completion and the post -shooting technical work is underway.. In this case, the film's Burst Look has been released.
-
-The hero of the story is designed to be hungry as the hero of the story on the dilapidated battlefield, and that this poster is created by the elegant labor of artists, because he realizes that the happiness and embarrassment of life should not be enjoyed, and that the poster is not created in digital.
-
-◼️
-
-[Data](articles/ec12f4e5.json)
-
-[Extended Data](ext_articles/ec12f4e5.ext.json)
 
 ---

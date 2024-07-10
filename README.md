@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 08:35:15**
+As of **2024-07-10 08:54:21**
 
 ## Newspaper Stats
 
-*Scraped **34,518** Articles*
+*Scraped **34,519** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 311
 colombotelegraphcom | 324
-bbccomsinhala | 337
+bbccomsinhala | 338
 newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,034
@@ -26,31 +26,37 @@ adaderanasinhalalk | 5,743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,517 (100.0%) of 34,518 articles have been extended.
+34,518 (100.0%) of 34,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### කොලොන්නේ වෙඩික්කරුවන් ආ හැටි
+### How the Colevator has shooter
 
 *2024-07-10 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198658) · `si`
 
-කොලොන්න පොලිස් වසමේ අප්ටන් වත්ත ප්‍රදේශයේ සිදුකළ වෙඩි තැබීමට හේතුව මෙතෙක් අනාවරණය වී නොමැත.
+In the Aetton Estate shooting incident, two individuals on a motorbike killed a 61-year-old man and his wife. The motive remains unknown, but it occurred when the victims were at home. The bodies are being examined at the Embilipitiya Hospital.
 
-පොලීසිය සඳහන් කළේ යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් නිවසේ සිටි පුද්ගලයෙකුට වෙඩි තබා පළා ගොස් ඇති බවය.
+🟩
 
-වෙඩි වැදුණු 61 හැවිරිදි පුද්ගලයා එම ස්ථානයේ දීම ජීවිතක්ෂයට පත්ව තිබේ.
+The cause of the shooting in the Aetton Estate in the Kolonna Police Division has not been revealed yet.
 
-මියගිය පුද්ගලයා සහ ඔහුගේ බිරිඳ නිවසේ රැඳී සිටිය දී වෙඩික්කරුවන් පැමිණ බිරිඳගෙන් මියගිය පුද්ගලයා නිවසේ සිටිනවාදැයි විමසා ඇත.
+Police said that two unidentified persons who came from a motorbike were shot dead.
 
-පසුව එම පුද්ගලයා නිවසින් එළියට පැමිණි අවස්ථාවේ දී වෙඩි ප්‍රහාරය එල්ල කර ඇති බව විමර්ශනවලදී අනාවරණය වී තිබේ.
+The 61 year old man was shot dead.
 
-මෘත ශරීරය මහෙස්ත්‍රාත් පරීක්ෂණ සිදුකර පශ්චාත් මරණ පරීක්ෂණය සඳහා ඇඹිලිපිටිය රෝහලේ තැන්පත් කර ඇත.
+When the deceased and his wife stayed at home, the shooters came to the house where the wife died at home.
+
+Investigations have revealed that the shooting was shot dead at the time of his arrival.
+
+The body has been conducted and placed at the Embilipitiya Hospital for the post mortem.
 
 ◼️
 
 [Data](articles/a61bb805.json)
+
+[Extended Data](ext_articles/a61bb805.ext.json)
 
 ---
 
@@ -122,13 +128,13 @@ Train operations have been disrupted owing to the trade union action launched by
 
 The Railway Department said that several trains have been cancelled while limited trains are in operation due to the strike.
 
-The Sri Lanka Railways Station Masters’ Union had decided to launch a strike action from midnight yesterday (09).
+However, steps have been taken to operate two trains each from Colombo Fort to Negombo and Veyangoda, two trains from Polgahawela to Fort, three trains from Galle to Fort and one train from Aluthgama to Fort, the department said.
+
+Meanwhile, it is reported that Railway Controllers have decided to support the trade union action initiated by Station masters.
+
+The Sri Lanka Railways Station Masters’ Union had decided to launch a strike action from midnight yesterday (09) based on several demands including promotions.
 
 As a result, several trains including the night mail trains to and from Colombo Fort and Badulla, to and from Trincomalee, to and from Batticaloa and night mail train to Rambukkana were cancelled, the department said.
-
-However, the Secretary of the Ministry of Transport Ranjith Rubasinghe emphasised that since public transport including railway services have been declared as essential services, the strike launched by the Station Masters’ Union is illegal.
-
-Furthermore, he stated that strict disciplinary action would be taken against those who are not reporting for duty.
 
 ...
 
@@ -691,6 +697,30 @@ Later, Premalatha was comforted by Vijayakanth and son Shanmukha Pandiyan. Subse
 [Data](articles/c8d258a5.json)
 
 [Extended Data](ext_articles/c8d258a5.ext.json)
+
+---
+
+### නයෝමි අමරසිංහ: ‘මගී නෞකාවක පිරිමින්ගේ රස්සාවකට ගිය පළමු ශ්‍රී ලාංකික කත’
+
+*2024-07-10 01:59:43* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0kr1z2d1dyo) · `si`
+
+නයෝමි අමරසිංහ: ‘මගී නෞකාවක පිරිමින්ගේ රස්සාවකට ගිය පළමු ශ්‍රී ලාංකික කත’
+
+ඇය මගී ප්‍රවාහන නෞකාවක සේවය වෙනුවෙන් ‘ශ්‍රී ලංකාවෙන් සුදුසුකම් ලැබූ පළමු නාවික කත’ බව ජාත්‍යන්තර කම්කරු සංවිධානය පවසයි.
+
+නයෝමි අමරසිංහ නමැති ඇය සම්බන්ධයෙන් අගැයීම් සටහනක් තබමින් ජාත්‍යන්තර කම්කරු සංවිධානය ඇය හැඳින්වූයේ, ‘ශ්‍රී ලංකාවේ නාවික ක්ෂේත්‍රයේ ස්ත්‍රී පුරුෂ භාවය පිළිබඳ බාධක බිඳ දැමූ කාන්තාවක’ ලෙස ය.
+
+නයෝමි අමරසිංහ මීට මාස කිහිපයකට පෙර මගී ප්‍රවාහන නෞකාවක සේවය ඇරඹූ ශ්‍රී ලංකාවේ පළමු නාවික කත බවට පත්වූයේ, ජාත්‍යන්තර කම්කරු සංවිධානයේ ද සහය ඇතිව අවසන් කරන ලද පාඨමාලාවකින් පසුව ය.
+
+"මගේ අම්මා මේකට මුලින් කැමති වුණේ නෑ. මගේ අයියාත් නාවික හමුදාවේ හිටියේ. එයත් නැවක වැඩ කරලා තියෙනවා. එයා නම් කැමති වුණා. ඒත් කෙල්ලෙකුට මේ රස්සාව හරියන්නෙ නෑ කියලා අම්මා විරුද්ධ වුණා. ඒත් මම දැන් ඉන්න තැන ගැන හිතලා අම්මා ගොඩක් සතුටු වෙනවා," නයෝමි අමරසිංහ බීබීසී සිංහල සේවයට පැවසීය.
+
+උසස් පෙළ නොකර ම වයස අවුරුදු 19 වන විට උපාධිධරයෙක් වන්නේ කෙසේ ද?
+
+මගී ප්‍රවාහන නෞකාවක සේවය ඇරඹූ පළමු ශ්‍රී ලාංකික නාවික කත බවට ඇය පත්වූ ආකාරය නයෝමි අමරසිංහ විස්තර කළා ය.
+
+...
+
+[Data](articles/102293c3.json)
 
 ---
 
@@ -2211,29 +2241,5 @@ It was for this reason that the IRD’s Revenue Administration Management Inform
 [Data](articles/521ae28a.json)
 
 [Extended Data](ext_articles/521ae28a.ext.json)
-
----
-
-### Sri Lanka stocks close down, activity remains low
-
-*2024-07-09 16:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-activity-remains-low-171429/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
-
-The broader All Share Index closed down 0.48 percent, or 56.63 points, at 11,785; while the more liquid S&P SL20 Index closed down 0.90 percent, or 31.37 points, at 3,437.
-
-A large amount came from a local crossing on John Keells Holdings Plc (Rs90mn), and the share closed down at 200.00.
-
-“The index continued to fall for a consecutive day,” Softlogic Stockbrokers said. “Investors were not active and the turnover remained one of the lowest this year.”
-
-“The broader perception is that the index moved up a few weeks ago because positives were factored in before they materialized, and this could be a correction or consolidation.”
-
-The banking counters continued to close down. Commercial Bank of Ceylon Plc closed down at 101.75, Sampath Bank Plc closed down at 76.30, and Hatton National Bank Plc was down at 195.00.
-
-...
-
-[Data](articles/83c2f2f8.json)
-
-[Extended Data](ext_articles/83c2f2f8.ext.json)
 
 ---

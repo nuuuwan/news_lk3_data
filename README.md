@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 18:26:48**
+As of **2024-07-10 18:37:35**
 
 ## Newspaper Stats
 
-*Scraped **34,614** Articles*
+*Scraped **34,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
-adalk | 3,117
+adalk | 3,119
 adaderanalk | 3,983
 tamilmirrorlk | 4,129
 dailymirrorlk | 4,733
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,762
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,613 (100.0%) of 34,614 articles have been extended.
+34,614 (100.0%) of 34,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### වසනත ඝාතනයේ සැකකරුවන් 7 දෙනා 22 දා තෙක් රිමාන්ඩ්
+
+*2024-07-10 18:07:37* · [`adalk`](https://www.ada.lk/breaking_news/වසනත-ඝාතනයේ-සැකකරුවන්-7-දෙනා-22-දා-තෙක්-රිමාන්ඩ්/11-410721) · `si`
+
+අතුරුගිරියේ කඩුවෙල පාරේ ටැටු කලාගාරය  තුළදී සිදු වූ ද්විත්ව ඝාතනය හා සිව් දෙනකුට තුවාල සිදුවීම සම්බන්ධයෙන් සම්බන්ධයෙන් අත්අඩංගුවට ගත් ටැටු කලාගාරයේ හිමිකරු ඇතුළු 7 දෙනා  කඩුවෙල  අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම මස 22 වෙනිදින  දක්වා රිමාන්ඞ් භාරයේ තබන ලෙස මහේස්ත්‍රාත්චානිමා විජයබණ්ඩාර මහත්මිය නියෝග කළාය
+
+එලෙස රිමාන්ඞ් භාරයට පත් කරන ලද්දේ  බලපිටිය මොහොට්ටියා  වත්ත ශ්‍රී ගුණානන්ද මාවත පදිංචි බි ඩි සංජුල ද සිල්වා (28) ,අහුන්ගල්ල, එගොඩමුල්ල ධම්ම කුසල මාවත පදිංචි ,රත්මලාන යුද්ධ හමුදා කඳවුරේ ඉංජිනේරු බලකායේ හිටපු සෙබල එම්.ධනුෂ්කද  සිල්වා (26) අහුන්ගල්ල එගොඩමුල්ල ධම්ම කුසල මාවත පදිංචි ටි එම් වයි කාවින්ද සිල්වා (23) අම්බලන්ගොඩ ගොඩ හේන , රතුකුරුස නිවාස , ජි එච් ආර් . ලක්මාල් (37) බෙලිඅත්ත.ගම්මුල්ල ගල්වඩු ගෙදර  ඩබ්ලිව් .කේ චතුරංග ලක්මාල් (37)  බෙලිඅත්ත . පාළු වත්ත.  විල්සන් පාර එස් ඩබ්ලිව්  . කේශාන් (28)  බෙලිඅත්ත අත්බෝධිය  ජි  ජේ  විජේසිරි (31)  යන අයවලුන්ය
+
+එම සැකකරුවන් අතර ටැටු නිර්මාණ ශිල්පියෙක්, හිටපු හමුදා සෙබළෙක් බස් කොන්දොස්තරවරයෙක් තීරෝද රථ රියදුරෙක් හා ව්‍යාපාරිකයෙකු  වේ.
+
+...
+
+[Data](articles/2b79e561.json)
+
+---
 
 ### Piyumi Hansamali files petition seeking to halt CID probe
 
@@ -435,6 +451,8 @@ Thus, it has been decided to hold the debate from 10.30 am to 5.30 pm following 
 ...
 
 [Data](articles/f2f93b30.json)
+
+[Extended Data](ext_articles/f2f93b30.ext.json)
 
 ---
 
@@ -1031,6 +1049,22 @@ Cows and buffaloes in Sri Lanka are only in India and Pakistan and a few years a
 [Data](articles/52ec224c.json)
 
 [Extended Data](ext_articles/52ec224c.ext.json)
+
+---
+
+### ප්‍රංශයේ සිට පල්ලේවෙල දිය ඇල්ල බලන්න ඇවිත් අවසන් ගමන් ගිය තරුණිය
+
+*2024-07-10 12:07:11* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රංශයේ-සිට-පල්ලේවෙල-දිය-ඇල්ල-බලන්න-ඇවිත්-අවසන්-ගමන්-ගිය-තරුණිය/11-410712) · `si`
+
+ඇල්ල පල්ලේවෙල දිය ඇල්ල නැරඹීමට ගොස් සිය පෙම්වතා සමඟ   දියඇල්ලේ   ගල්පර්වතයකට නැග ජායාරූප ගැනිමට යාමේදී ගල්පර්වතයෙන් ලිස්සා දියඇල්ලේ අඩි 200ක පමණ පහලට ඇද වැටී බරපතළ තුවාල ලබා බදුල්ල ශික්ෂණ රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි  19 හැවිරිදි ප්‍රංශ ජාතික විදේශික සංචාරක තරුණිය ඊයේ (9) මියගිය බව ඇල්ල පොලිසිය පවසයි .
+
+මෙසේ අවාසනාවන්ත ලෙස මියගොස් ඇත්තේ ශ්‍රී ලංකාවේ සංචාරයක් සදහා මෙරටට සිය 20 හැවිරිදි ප්‍රංශ ජාතික විදේශික පෙම්වතා සමඟ     පැමිණ සිටි පවුලයින් මොනිකිව් යාකොට් ඩර්කේන් (pauline monique yakout  Derkane) නැමති 19 හැවිරිදි ප්‍රංශ ජාතික විදේශික තරුණියක යැයි පොලිසිය කීය .
+
+බණ්ඩාරවෙල වැඩබලන මහේස්ත්‍රාත් සෙනෙවිරත්න වීරසිංහ මහතා ඊයේ (9) මෙම අනතුර සිදු වූ ඇල්ල පල්ලේවෙල දිය ඇල්ල අසලට ගොස් ස්ථානීය පරීක්ෂණය සිදු කලහ .
+
+...
+
+[Data](articles/a3dd5eb7.json)
 
 ---
 
@@ -2207,35 +2241,5 @@ Fonterra has consistently focused on reducing its environmental impact while mai
 [Data](articles/48de58d9.json)
 
 [Extended Data](ext_articles/48de58d9.ext.json)
-
----
-
-### Crocodile ranked among LMD’s top 10 most loved retail lifestyle brands
-
-*2024-07-10 06:21:27* · [`dailyftlk`](https://www.ft.lk/business/Crocodile-ranked-among-LMD-s-top-10-most-loved-retail-lifestyle-brands/34-764068) · `en`
-
-Crocodile, a leading lifestyle brand renowned for its international acclaim, has been honoured as one of the top 10 most loved brands in the Retail Lifestyle category by LMD readers. This prestigious recognition comes from LMD’s Brands Annual Ranking 2024, based on a survey conducted among their readership.
-
-Today, Crocodile stands as one of the most respected and well-known brands in the global fashion industry, with an extensive product line that spans the entire spectrum of men’s, women’s, and kids’ fashion. For over 70 years, Crocodile has been a leader in the fashion world. Since its inception in Sri Lanka, the brand has evolved as a forerunner in premium men’s fashion, synonymous with timeless comfort and elegance. In 2021, Crocodile expanded into the women’s fashion category and further expanded into kids’ fashion, specifically boys’ fashion, in 2024.
-
-...
-
-[Data](articles/e77fedef.json)
-
-[Extended Data](ext_articles/e77fedef.ext.json)
-
----
-
-### GoGo.Sale launches new campaign to transform vehicle buying and selling
-
-*2024-07-10 06:21:13* · [`dailyftlk`](https://www.ft.lk/business/GoGo-Sale-launches-new-campaign-to-transform-vehicle-buying-and-selling/34-764067) · `en`
-
-GoGo.sale, Sri Lanka’s premier online marketplace, has unveiled its latest campaign aimed at revolutionising the vehicle buying and selling experience. Dedicated to simplifying the process for both car buyers and sellers, GoGo.sale offers a free classifieds platform that facilitates direct connections, eliminating the need for intermediaries. As a relatively new entrant in the Sri Lankan market, GoGo.sale brings a fresh perspective to the online vehicle classifieds space. The platform is distinguished by a variety of unique features and benefits that set it apart from the competition.
-
-...
-
-[Data](articles/3ed5a2af.json)
-
-[Extended Data](ext_articles/3ed5a2af.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 21:55:00**
+As of **2024-07-10 22:08:40**
 
 ## Newspaper Stats
 
-*Scraped **34,653** Articles*
+*Scraped **34,655** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,40 +17,78 @@ economynextcom | 2,049
 dailyftlk | 2,168
 adalk | 3,124
 adaderanalk | 3,985
-tamilmirrorlk | 4,130
+tamilmirrorlk | 4,131
 dailymirrorlk | 4,733
 virakesarilk | 5,415
-adaderanasinhalalk | 5,766
+adaderanasinhalalk | 5,767
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,651 (100.0%) of 34,653 articles have been extended.
+34,653 (100.0%) of 34,655 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### ක්ලබ් වසන්තගේ ඝාතකයන් අතින් මරු දුටු නයන වාසුල
+### ව්‍යාපාරික තාඹුගලගේ බැංකු ගිණුමට ලොකු මුදලක්
+
+*2024-07-10 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198686) · `si`
+
+ව්‍යාපාරික විරංජිත් තාඹුගල මහතාගේ බැංකු ගිණුමට 2018 වසරේ සිට 2022 දක්වා කාලය තුළ රුපියල් මිලියන 4,757ක් බැර වී ඇතැයි අද (10) කොළඹ මහෙස්ත්‍රාත් අධිකරණයේදී අනාවරණ වුණි.
+
+ජ්‍යෙෂ්ඨ නියෝජ්‍ය සොලිසිටර් ජනරාල් දිලීප පීරිස් මහතා අද අධිකරණයේදී මේ බව සඳහන් කළේ, සැකකරු සම්බන්ධයෙන් සිදුකරන නීතිවිරෝධී වත්කම් විමර්ශනයක් පිළිබඳ කරුණු දක්වමිනි.
+
+පුද්ගලයෙකුගෙන් රුපියල් ලක්ෂ 70ක මුදලක් ලබාගෙන එය වංචා කිරීම සම්බන්ධයෙන් ව්‍යාපාරික විරංජිත් තාඹුගල මහතාට එරෙහිව ගොනුකර ඇති නඩුව අද කොළඹ අතිරේක මහෙස්ත්‍රාත් පවිත්‍රා සංජීවනී පතිරාජ මහත්මිය ඉදිරියේ යළි කැඳවනු ලැබීය.
+
+◼️
+
+[Data](articles/7a394f9b.json)
+
+---
+
+### பொருட்களுக்கு தட்டுப்பாடு? மீண்டும் விலைகள் அதிகரிக்கும்
+
+*2024-07-10 21:33:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருட்களுக்கு-தட்டுப்பாடு-மீண்டும்-விலைகள்-அதிகரிக்கும்/175-340172) · `ta`
+
+எதிர்வரும் நாட்களில் பொருள் தட்டுப்பாடு ஏற்பட்டு பொருட்களின் விலைகள் மீண்டும் அதிகரிக்கும் சாத்தியங்கள் இருப்பதாக செய்திகள் வெளியாகியுள்ளன.
+
+அதன் காரணமாக எதிர்வரும் நாட்களில் பொருள் தட்டுப்பாடு ஏற்பட்டு பொருட்களின் விலைகள் அதிகரிக்கும் சாத்தியங்கள் இருப்பதாகத் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/c5e73ca4.json)
+
+---
+
+### Nayana junk victims killed by Club Wasantha's killers
 
 *2024-07-10 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198684) · `si`
 
-සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඝාතනයේ වෙඩික්කරුවන් අතින් වෙඩිවැදී මියගිය 38 හැවිරිදි නයන වාසුල විජේරත්නගේ දේහය මාලඹේ ප්‍රදේශයේ පිහිටි පෞද්ගලික මල්ශාලාවක තැන්පත්කර තිබුණි.
+Nayana Wedika Wijeratne, a 38-year-old known for her Dhamma speaking, was murdered by Club Wasantha's assailants. Her remains were laid to rest in a private cemetery in Malabe. She was survived by her husband, Sujeewa, and daughters. A tribute from Ven. Ambanpola Gicensitti Thera highlighted her transition from a beloved Dhamma speaker to a victim of violence.
 
-ඔහු මෙම සිදුවීමෙන් තුවාල ලබා රෝහල්ගතව ප්‍රතිකාර ලබන ප්‍රසිද්ධ ගායන ශිල්පිනී කේ. සුජීවාගේ නිත්‍යානුකූල ස්වාමිපුරුෂයා වන අතර ඔහුගේ දේහය භාරගෙන තිබුණේ ඇයගේ දියණියන් විසිනි.
+🟩
 
-නයන වාසුල වසර 20ක් පමණ ගම්පහ මහානාම හිමියන් නමින්  පැවිදි දිවියක් ගතකළ අයෙකු වන අතර එවක විචිත්‍ර ධර්ම කථිකයෙකු ලෙසද ප්‍රචලිතව තිබුණි.
+The remains of the 38-year-old Nayana Wedika Wijeratne, who died in the murder of Club Wasantha murder was placed in a private flower in a private flower in the Malabe area.
 
-පැවිදි දිවියට සමුදී 2021 වසරේ ප්‍රසිද්ධ ගායන ශිල්පිනී කේ. සුජීවා සමඟ විවාහ දිවියට එලැඹ ඇති අතර ඔහු එදින ටැටූ ආයතනය විවෘත කිරීමේ අවස්ථාවට එක්ව තිබුණේ ඒ සඳහා ඇයට ලැබුණු ඇරියුමට අනුවය.
+He is injured in the treatment of the hospital. Sujeewa's is a legal husband and his body was accepted by her daughters.
 
-ඔහු සමග එකම දිනයක පැවිදි දිවියට ඇතුළුවූ පූජ්‍ය අඹන්පොළ ඥාණතුසිත හිමියන් සිය පැවිදි මිතුරා පිළිබඳව මෙලෙස මතකය ආවර්ජනය කර තිබුණි.
+Nayana Vasubaya was a monk who was called a monk named Gampaha Mahanama and was popular as a vivid Dhamma speaker.
 
-"ඒ කාලේ උන්වහන්සේට මහා ප්‍රසිද්ධියක් ලැබෙන්න පටන් ගත්තා. ඒත් සමග සැප සම්පත් ඇඳී එන්න පටන් ගත්තා. ඒ නිසා පැවිදි ජීවිතයක් ගත කිරීමට තිබූ ඇල්ම ටිකෙන් ටික නැතිවෙලා ගියා."
+The Samudi Long is the famous singer of 2021 year. He had been married to Sujeewa and he had joined the attempt to open the Tatu.
 
-...
+Ven. Ambanpola Gicensitti Thera had reflected the memory of his monastic friend.
+
+"At that time he began to have a great public. But with the comforts began to wear. The love he had to live in a monastic was gradually lost. "
+
+The funeral of Naamana Warzuli Wijeratne was carried out this afternoon at Talahena Public Cemetery.
+
+◼️
 
 [Data](articles/571cc32a.json)
+
+[Extended Data](ext_articles/571cc32a.ext.json)
 
 ---
 
@@ -220,21 +258,29 @@ The passenger had fallen from Fort to Polgahawela.
 
 ---
 
-### තමන්ට එරෙහි විමර්ශන වළක්වන්නැයි පියුමිගෙන් පෙත්සමක්
+### Piyumiti petition from Piyumign to prevent investigations
 
 *2024-07-10 19:08:59* · [`adalk`](https://www.ada.lk/breaking_news/තමන්ට-එරෙහි-විමර්ශන-වළක්වන්නැයි-පියුමිගෙන්-පෙත්සමක්/11-410726) · `si`
 
-කෙටි කාලයක් තුළ නීති විරෝධී හා සැක කටයුතු අන්දමින් රුපියල් කෝටි ගණනක දේපළ හා මුදල් උපයා ගත් බව කියමින් රහස් පොලිසියේ නීති විරෝධී වත්කම් විමර්ශන කොට්ඨාශය තමන්ට එරෙහිව කරන විමර්ශන කටයුතු වළක්වන ආඥාවක් නිකුත් කරන්නැයි ඉල්ලමින් නිරූපණ ශිල්පි පියුමි හංසමාලී අභියාචනාධිකරණයට රීට් පෙත්සමක් අද (10) ගොනු කළාය.
+Modeling artist Piyumi Hansali filed a petition to halt investigations against him, naming CID officials as respondents. He seeks a stay order from the Court of Appeal until his petition is heard.
 
-මෙම පෙත්සම විභාග කර තීන්දුවක් දෙනතුරු තමන්ට එරෙහිව රහස් පොලිසිය කරන විමර්ශන කටයුතු කටයුතු වළකාලන ලෙසද පියුමි හංසමාලිී අභියාචනාධිකරණයෙන් ඉල්ලීමක්ද කළාය.
+🟩
 
-නිරූපණ ශිල්පී පියුමී හංසමාලි නමැත්තිය ගොනු කර ඇති පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් පොලිස්පතිවරයා, රහස් පොලිසියේ අධ්‍යක්ෂකවරයා, නීති විරෝධී වත්කම් විමර්ශන කොට්ඨාසයේ අධ්‍යක්ෂකවරයා හා එහි ස්ථානාධිපතිවරයා  ඇතුළු පිරිසක් නම් කර ඇත.
+The CID filed a pet petition today (10) a pet petition filed today (10), demanding a prevention of the investigation into the investigation and cash against him in a short period of time.
 
-නීතිඥ සංජීව ඇන්තනී මහතා මාර්ගයෙන් සිය පෙත්සම ඉදිරිපත් කරන පියුමී හංසමාලි නමැත්තිය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නීති විරෝධී වත්කම් විමර්ශන කොට්ඨාසය තමන්ට එරෙහිව නීති විරෝධී හා සැක කටයුතු අන්දමින් රුපියල් කෝටි ගණනක දේපළ හා මුදල් උපයා ගත් බව කියමින් විමර්ශනයක් ආරම්භ කර ඇතැයි දැනුම් දුන්නාය.
+Piyumi Hansamali also requested the Court of Appeal to avoid the CID investigation against him until the petition was heard and overcome.
 
-...
+The Director of the CID, the Director of the IGP, the Director of the Illegal Police, and the OIC have been named as the respondents of the petition filed by modeling artist Piyumi Hansali.
+
+Piyumi Hansali, who presented his petition through Attorney at Law Sanjeewa Anthony, informed the Illegal Research Investigation Division of the Criminal Investigation Department (illegal assets in the Criminal Investigation Department).
+
+The Illegal Asset Investigation Division of the Criminal Investigation Division (illegal assets Division is requested to issue a Maddamus Rept Order to the Court of Appeal against the Court of Appeal against him.
+
+◼️
 
 [Data](articles/a24da8d5.json)
+
+[Extended Data](ext_articles/a24da8d5.ext.json)
 
 ---
 
@@ -2209,59 +2255,5 @@ Nidahasa Janatha Sabawa (NJS) led by MP Dullas Alahapperuma has decided to form 
 [Data](articles/f82d0b98.json)
 
 [Extended Data](ext_articles/f82d0b98.ext.json)
-
----
-
-### Dullas' support to the UPFA
-
-*2024-07-10 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198666) · `si`
-
-Dullas Alahapperuma's Peoples Council supports the upcoming presidential election's actions, emphasizing unity and a broad alliance to challenge the government effectively.
-
-🟩
-
-The Peoples Council of Dullas Alahapperuma has decided to support the action of the coming presidential election.
-
-Speaking at a media briefing held at a media briefing today (10), MP Charitha Herath said this.
-
-"We will not be a presidential candidate. The presidential candidate is presented with unity power force. Accordingly, there are a number of parties to have a number of partners. There is to come forward and come to come. A strong wide force that all collected. It's we too. We and all the people win in the face of the country and a strong team and program. "
-
-The discussion with the reconciliation by the People's Council is very successful by the people's church in the fight to defeat the government.
-
-He said that the opposition is to be directly taken in the next few weeks to make a wide political change in the country.
-
-◼️
-
-[Data](articles/8fc83d33.json)
-
-[Extended Data](ext_articles/8fc83d33.ext.json)
-
----
-
-### Traveling with snakes: Five arrests
-
-*2024-07-10 10:40:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாம்புகளுடன்-பயணித்த-இழுவைப்-படகு-ஐவர்-கைது/175-340137) · `ta`
-
-Navy arrests five suspects in South Sea for illegally transporting wildlife, including 13 pythons, a turtle, and three parrots, aboard a fishing trawler. Aged 34 to 67, from Kochchikadai and Negombo. Animals confirmed not native to Sri Lanka; all transferred to Hikkaduwa Wildlife Protection Department for legal proceedings.
-
-🟩
-
-Five suspects have been arrested by the navy in the South Sea, who were illegally taken by sea by fishing trawlers.
-
-The Navy said that the suspects were between the ages of 34 to 67 and were from Kochchikadai and Negombo.
-
-The suspects have been arrested while checking the drag fishing boat based on a special information received by the Navy Intelligence Unit.
-
-It has been revealed that 13 pythons, one of the turtles, one and three parrots have been safely brought.
-
-In addition, officials of the Wildlife Protection Department, who have examined the animals brought in the illegal drag fishing boat, have confirmed that the animals are not owned by Sri Lanka.
-
-The Navy added that the five suspects, fishing boat and birds and reptiles have been handed over to the Hikkaduwa Wildlife Protection Department for further legal action.
-
-◼️
-
-[Data](articles/dc00bde1.json)
-
-[Extended Data](ext_articles/dc00bde1.ext.json)
 
 ---

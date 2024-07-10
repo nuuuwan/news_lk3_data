@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 20:19:44**
+As of **2024-07-10 20:35:31**
 
 ## Newspaper Stats
 
-*Scraped **34,633** Articles*
+*Scraped **34,635** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
-adalk | 3,121
+adalk | 3,123
 adaderanalk | 3,984
 tamilmirrorlk | 4,129
 dailymirrorlk | 4,733
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,764
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,633 (100.0%) of 34,633 articles have been extended.
+34,633 (100.0%) of 34,635 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### දුම්රිය වර්ජනය පළමු බිල්ල ගනියි
+
+*2024-07-10 20:01:36* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-වර්ජනය-පළමු-බිල්ල-ගනියි/11-410733) · `si`
+
+දුම්රියෙන් ඇද වැටීමෙන් බෙම්මුල්ල දුම්රිය ස්ථානය අසලදී අද (10) පස්වරුවේ පුද්ගලයෙකු ජීවිතක්ෂයට පත්වි ඇතැයි පොලීසිය කියයි.
+
+දුම්රිය වර්ජනය හෙතුවෙන් කොළඹ කොටුව සිට පොල්ගහවෙල දුම්රිය ස්ථානය දක්වා දුම්රියක් ධාවනයට යොදවා තිබූ අතර එම දුම්රියෙ මගීන් අතර පැවැති අධික තදබදය හේතුවෙන් ඔහු දුම්රියෙන් වැටී මිය යන්නට ඇතැයි පොලීසිය සැක කරයි.
+
+◼️
+
+[Data](articles/7f98b492.json)
+
+---
 
 ### Riley RousseauJevna Kings won the Kalambo Strikes easily
 
@@ -171,6 +185,20 @@ The National Housing Development Authority has planned to provide title deeds to
 [Data](articles/7d1606c5.json)
 
 [Extended Data](ext_articles/7d1606c5.ext.json)
+
+---
+
+### ටැටූ දුලාන් සියල්ල වමාරයි
+
+*2024-07-10 18:31:20* · [`adalk`](https://www.ada.lk/breaking_news/ටැටූ-දුලාන්-සියල්ල-වමාරයි/11-410724) · `si`
+
+සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඝාතනයට විදේශගතව සැඟව සිටින සංවිධානාත්මක අපරාධකරුවකු වන අහුංගල්ලේ ලොකු පැටි ටැටූ නිර්මණ ශිල්පී දුලාන් සංජුල වෙත රුපියල් පහලොස් ලක්ෂ අසූ හය දහස් පන්සියයක මුදලක් ලබාදුන් බව පොලිසිය හමුවේ පාපෝච්චාරණයක් කරමින් ටැටූ නිර්මාණ ශිල්පියා පවසා තිබේ.
+
+ඒ සඳහා ටැටූ නිර්මාණ ශිල්පියාගේ මිතුරෙකු වන මහේෂ් නමැත්තෙකු විදේශගතව සිටින ලොකු පැටි සම්බන්ධ කර දී ඇති බවද එම  විමර්ශනවලදී තොරතුරු අනාවරණය වී තිබේ.
+
+...
+
+[Data](articles/8ad4147e.json)
 
 ---
 
@@ -2223,49 +2251,5 @@ According to the Constitution, the National Election Commission may announce the
 [Data](articles/de0edbce.json)
 
 [Extended Data](ext_articles/de0edbce.ext.json)
-
----
-
-### Timeline Extension for GCE Advanced Level Examination Applications
-
-*2024-07-10 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/188096) · `ta`
-
-The deadline for GCE A-Level exam applications for 2024 has been extended to the 12th of this month due to unforeseen circumstances. The exams will take place from November 25 to December 20.
-
-🟩
-
-The deadline for submitting applications for the GCE Advanced Level Examination for 2024 has been extended.
-
-The deadline for submitting applications through the Internet for schools and private applicants was to be completed (10).
-
-However, in a statement issued by the Department of Examinations, the Examinations Department said that it has been extended until the 12th of this month due to inevitable reasons.
-
-Moreover, the Department of Examinations added that the time of applying for any reason after that day will not be delayed.
-
-The GCE Advanced Level Examination for 2024 will be held from November 25 to December 20.
-
-◼️
-
-[Data](articles/11a8e495.json)
-
-[Extended Data](ext_articles/11a8e495.ext.json)
-
----
-
-### Railway traders in striking
-
-*2024-07-10 09:29:30* · [`adalk`](https://www.ada.lk/breaking_news/වර්ජනයෙන්-දුම්රිය-මගිහු-අසිරුවේ/11-410708) · `si`
-
-Railway strikes led by Station Masters caused significant disruptions, resulting in the cancellation of many trains.
-
-🟩
-
-Rail was severely embarrassed by the strike commenced by the Station Masters. Most trains had been canceled due to the strike.
-
-◼️
-
-[Data](articles/cacdf6df.json)
-
-[Extended Data](ext_articles/cacdf6df.ext.json)
 
 ---

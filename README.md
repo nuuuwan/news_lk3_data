@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 23:35:28**
+As of **2024-07-10 23:55:19**
 
 ## Newspaper Stats
 
-*Scraped **34,659** Articles*
+*Scraped **34,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,049
 dailyftlk | 2,168
 adalk | 3,126
 adaderanalk | 3,986
-tamilmirrorlk | 4,131
+tamilmirrorlk | 4,132
 dailymirrorlk | 4,733
 virakesarilk | 5,416
 adaderanasinhalalk | 5,767
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,659 (100.0%) of 34,659 articles have been extended.
+34,659 (100.0%) of 34,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### அத்துருகிரிய சம்பவம் - 7 பேருக்கு விளக்கமறியல்
+
+*2024-07-10 23:28:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துருகிரிய-சம்பவம்-7-பேருக்கு-விளக்கமறியல்/175-340186) · `ta`
+
+அத்துருகிரிய துப்பாக்கிச் சூட்டு சம்பவம் தொடர்பில் கைது செய்யப்பட்ட சந்தேகநபர்கள் 7 பேரும் எதிர்வரும் 22ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+அத்துருகிரிய சந்தியில் பச்சை குத்தும் நிலையத்தில் கிளப் வசந்த என்ற சுரேந்திர வசந்த பெரேரா என்பவரைக் கொலை செய்த சம்பவம் தொடர்பில் கைது செய்யப்பட்ட 07 சந்தேகநபர்களும் இன்று காலை கடுவல நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்டனர்.
+
+சந்தேகநபர்கள் அஹுங்கல்ல, பலப்பிட்டிய, கணேமுல்ல, அம்பலாங்கொட மற்றும் பெலியத்தர ஆகிய பகுதிகளில் வசிக்கும் 24 முதல் 37 வயதுக்கு இடைப்பட்டவர்கள் என பொலிஸார் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/fc161372.json)
+
+---
 
 ### New Sri Lankan initiative celebrates expats for fostering Saudi ties
 
@@ -2257,39 +2273,5 @@ He pointed out that the strike was implemented while the Sri Lanka Railways was 
 [Data](articles/45ba8c0d.json)
 
 [Extended Data](ext_articles/45ba8c0d.ext.json)
-
----
-
-### South Africa earthquake has no threat of Indian Ocean tsunami : Update II
-
-*2024-07-10 11:03:00* · [`economynextcom`](https://economynext.com/south-africa-earthquake-has-no-threat-of-indian-ocean-tsunami-update-ii-171593/) · `en`
-
-ECONOMYNEXT – There is no threat of tsunami in Indian Ocean, the Indian Ocean Tsunami Warning and Mitigation System has clarified in a subsequent analysis.
-
-This bulletin applies to areas within and bordering the Indian Ocean
-
-and is issued by Tsunami Service Provider INDIA in support of the
-
-ECONOMYNEXT – A 6.5 magnitude earthquake in South Africa could trigger a tsunami in the Indian Ocean, according to a warning disseminated by Tsunami service provider in India.
-
-This bulletin applies to areas within and bordering the Indian Ocean
-
-and is issued by Tsunami Service Provider INDIA in support of the
-
-Based on historical data and tsunami modeling, this earthquake may be capable of
-
-generating a tsunami affecting the Indian Ocean region. IOTWMS-TSP INDIA will
-
-monitor the situation to determine if a tsunami was generated and will issue
-
-make decisions regarding the official threat and warning status in
-
-For more detailed information, please refer to the tsunami advisory
-
-...
-
-[Data](articles/d722e0ab.json)
-
-[Extended Data](ext_articles/d722e0ab.ext.json)
 
 ---

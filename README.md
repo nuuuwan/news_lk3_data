@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 21:05:01**
+As of **2024-07-10 21:20:05**
 
 ## Newspaper Stats
 
-*Scraped **34,637** Articles*
+*Scraped **34,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,40 @@ colombotelegraphcom | 324
 bbccomsinhala | 339
 newsfirstlk | 363
 islandlk | 1,945
-economynextcom | 2,037
+economynextcom | 2,049
 dailyftlk | 2,168
 adalk | 3,123
 adaderanalk | 3,985
-tamilmirrorlk | 4,129
+tamilmirrorlk | 4,130
 dailymirrorlk | 4,733
-virakesarilk | 5,414
+virakesarilk | 5,415
 adaderanasinhalalk | 5,765
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,636 (100.0%) of 34,637 articles have been extended.
+34,637 (100.0%) of 34,651 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### கடும் நெரிசல் ; ரயிலிலிருந்து தவறி விழுந்து ஒருவர் உயிரிழப்பு
+
+*2024-07-10 20:52:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடும்-நெரிசல்-ரயிலிலிருந்து-தவறி-விழுந்து-ஒருவர்-உயிரிழப்பு/175-340171) · `ta`
+
+கொழும்பு புறக்கோட்டையில் இருந்து பொல்கஹவெல நோக்கி பயணித்த ரயிலில் இருந்து பயணி ஒருவர் தவறி விழுந்து உயிரிழந்தார்.
+
+ரயில் நிலைய அதிபர்கள் மற்றும் கட்டுப்பாட்டாளர்கள் முன்னெடுத்துள்ள பணிப்புறக்கணிப்பு காரணமாக இன்று காலையும் மாலையும் சில ரயில் சேவைகளே முன்னெடுக்கப்பட்டன.
+
+அவற்றில் பெருமளவான பயணிகள் கடும் நெரிசலுக்கு மத்தியில் பயணித்து வரும் நிலையிலேயே இந்த உயிரிழப்பு ஏற்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/da037e59.json)
+
+---
 
 ### US confirms support for Sri Lanka’s efforts to boost exports & improve efficiency for govt. agencies
 
@@ -47,6 +63,8 @@ Meanwhile, Secretary to the Ministry of Finance Mahinda Siriwardana noted that e
 ...
 
 [Data](articles/5802d94e.json)
+
+[Extended Data](ext_articles/5802d94e.ext.json)
 
 ---
 
@@ -218,6 +236,22 @@ The Cabinet has granted permission to import 250 buses and 750 van vehicles in t
 
 ---
 
+### தெரிவு செய்யப்பட்ட தோட்டப் பாடசாலைகளுக்கு 60 ஸ்மாட் வகுப்பறைகள் !
+
+*2024-07-10 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/188164) · `ta`
+
+நுவரெலியா, கண்டி மற்றும் பதுளை போன்ற மாவட்டங்களில் தெரிவு செய்யப்பட்ட தோட்டப் பாடசாலைகளில் 60 'ஸ்மார்ட்' வகுப்பறைகளை நிர்மாணிப்பதற்கு அரசாங்கம் தீர்மானித்துள்ளது.
+
+இந்திய அரசின் நிதியுதவியுடனும், இலங்கை அரசின் ஒத்துழைப்புடனும் நுவரெலியா, கண்டி மற்றும் பதுளை போன்ற மாவட்டங்களில் தெரிவு செய்யப்பட்ட தோட்டப் பாடசாலைகளில் உயர்தர வகுப்புக்களுக்கான 60 'ஸ்மார்ட்' வகுப்பறைகளை நிர்மாணிக்கும் கருத்திட்டத்தை நடைமுறைப்படுத்துவதற்காக இந்திய அரசுடன் புரிந்துணர்வு ஒப்பந்தத்தை மேற்கொள்வதற்காக 2023.12.18 ஆம் திகதி இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+
+குறித்த கருத்திட்டத்தை உயர்தர மாணவர்களை மாத்திரம் இலக்காகக் கொண்டு அமுல்படுத்துவதில் நடைமுறைச் சிக்கல்களைக் கருத்தில் கொண்டு, குறித்த மட்டுப்பாட்டை நீக்குவதற்கு இந்திய உயர்ஸ்தானிகராலயம், கல்வி அமைச்சு, வெளிநாட்டு வளங்கள் திணைக்களம் மற்றும் தேசிய வரவ செலவுத்திட்டத் திணைக்களத்தின் அதிகாரிகளுடன் இடம்பெற்ற கலந்துரையாடலில் தீர்மானிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/96ff14d7.json)
+
+---
+
 ### Colombo provides rights rights
 
 *2024-07-10 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198681) · `si`
@@ -310,6 +344,22 @@ The Secretary General of Parliament Kushani Rohandera added that the Welfare Wel
 
 ---
 
+### India funds Sri Lanka smart classroom project in estates
+
+*2024-07-10 18:10:00* · [`economynextcom`](https://economynext.com/india-funds-sri-lanka-smart-classroom-project-in-estates-171660/) · `en`
+
+ECONOMYNEXT – Sri Lanka will construct 60 smart classrooms at selected schools in estates in Nuwara-Eliya, Kandy and Badulla Districts with funding from the Indian Government, Cabinet Spokesperson Minister Bandula Gunawardena said.
+
+“The Indian Government is helping us financially to develop the quality of education in science, technology and mathematics for Advanced Level classes in the estate sector,” Gunawardena told reporters on Wednesday.
+
+Minister of Estate Infrastructure Jeevan Thondaman has said that despite new schools, including an English medium school, built in the hill country, challenges remain in obtaining permission from plantation companies to expand the schools. (Colombo/Jul10/2024)
+
+◼️
+
+[Data](articles/fbce6296.json)
+
+---
+
 ### Seven suspects in the murder remanded till 22nd
 
 *2024-07-10 18:07:37* · [`adalk`](https://www.ada.lk/breaking_news/වසනත-ඝාතනයේ-සැකකරුවන්-7-දෙනා-22-දා-තෙක්-රිමාන්ඩ්/11-410721) · `si`
@@ -381,6 +431,24 @@ Although the Sri Lankan government is talking about reconciliation, the events o
 [Data](articles/202dcc52.json)
 
 [Extended Data](ext_articles/202dcc52.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 303.63/72 to US dollar
+
+*2024-07-10 17:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-303-63-72-to-us-dollar-171652/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed slightly stronger at 303.63/72 to the US dollar on Wednesday, down from 303.90/304.50 to the US dollar on Tuesday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 10.60/85 percent, down from 10.70/85 percent.
+
+A bond maturing on 15.09.2029 closed at 12.10/20 percent, up from 12.05/10 percent.
+
+Sri Lanka’s Treasury bill yields fell across maturities at Wednesday’s auction with all 105 billion rupees of bills offered sold, data from the debt office showed. (Colombo/Jul10/2024)
+
+◼️
+
+[Data](articles/3333308b.json)
 
 ---
 
@@ -562,6 +630,30 @@ He further emphasized that they acknowledge that three-wheelers provide a signif
 
 ---
 
+### Sri Lanka stocks close up, sentiment remains muted
+
+*2024-07-10 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-sentiment-remains-muted-171648/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader All Share Index closed up 0.22 percent, or 26.27 points, at 11,811; while the more liquid S&P SL20 Index closed up 0.30 percent, or 10.48 points, at 3,448.
+
+Turnover was 801 million. This was the highest in four days.
+
+“The market rebounded into positive territory after a falling over the last few days,” Softlogic Stockbrokers said. “There was a small bounce back in the index.”
+
+Two crossings contributed 47 percent of the turnover: Agalawatte Plantations Plc brought in Rs350mn, and the share closed down at 33.00.
+
+“The plantation sector witnessed a crossing after awhile.” This was a local transaction, most likely among high net worth individuals and institutions, market participants said.
+
+Sampath Bank Plc brought in Rs27mn to the turnover, and the share closed up at 77.40.
+
+...
+
+[Data](articles/cc3ebaa6.json)
+
+---
+
 ### Russia's attack while surgery for a child
 
 *2024-07-10 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/188152) · `ta`
@@ -735,6 +827,24 @@ The young man and her complicity were arrested on Wednesday (10) for allegedly r
 [Data](articles/cd9a5fb5.json)
 
 [Extended Data](ext_articles/cd9a5fb5.ext.json)
+
+---
+
+### Sri Lanka Treasury bill yields begin to fall
+
+*2024-07-10 16:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-begin-to-fall-171645/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields fell across maturities at Wednesday’s auction with all 105 billion rupees of bills offered sold, data from the debt office showed.
+
+The 3-month yield fell 16 basis points to 9.91 percent, with all offered 30 billion rupees of bills sold.
+
+The 6-month yield fell 09 basis points to 10.10 percent, with all offered 40 billion rupees of bills sold.
+
+The 12-month bills fell 10 basis points to 10.21 percent, with all offered 35 billion rupees of bills sold. (Colombo/July10/2024)
+
+◼️
+
+[Data](articles/58dd6ec6.json)
 
 ---
 
@@ -980,6 +1090,24 @@ It has been decided to hold a debate at Parliament tomorrow (11) regarding the p
 
 ---
 
+### Sri Lanka president thanks state employees who turned up for work during strike
+
+*2024-07-10 15:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-thanks-state-employees-who-turned-up-for-work-during-strike-171643/) · `en`
+
+ECONOMYNEXT — Sri Lanka President Ranil Wickremesinghe has offered his thanks to non-executive government employees who reported for duty on two days of strikes, as trade unions threatened to bring the state sector to a halt.
+
+“I want to thank the non-executive government employees who reported for duty on July 8 and 9. Your commitment during these challenging economic times exemplifies true patriotism and integrity,” Wickremesinghe tweeted Wednesday July 10 afternoon.
+
+“As a mark of our gratitude, the cabinet has approved a special salary increment following my proposal. This increment recognises your efforts to strengthen the country and support its people when Sri Lanka needs you the most,” he said.
+
+The government announced on Tuesday that it would grant a special pay increment to non-executive government officials who reported for duty on July 8 and 9, despite an ongoing trade union action.
+
+...
+
+[Data](articles/b20df6b4.json)
+
+---
+
 ### National Transport Commission to give more power
 
 *2024-07-10 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198673) · `si`
@@ -1206,6 +1334,24 @@ The cabinet focused on the impacts and abuse of the hospital in a way that inter
 
 ---
 
+### Sri Lanka to decide on vehicle import liberalization in Aug second week
+
+*2024-07-10 13:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-decide-on-vehicle-import-liberalization-in-aug-second-week-171630/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s State Minister for Finance Ranjith Siyambalapitiya has said that the final decision regarding the lifting of the ban on vehicle imports will be taken in the second week of August.
+
+The Minister said he hoped to be able to import vehicles depending on the country’s exchange rate status and the priority of people’s needs.
+
+Public transport vehicles, goods transport vehicles, and private vehicles will be imported under the regulations.
+
+Although the Cabinet had approved the import of 1,000 vehicles (250 buses and 750 vans) to be used in the tourism sector, none have been imported so far, Siyambalapitiya said. (Colombo/Jul10/2024)
+
+◼️
+
+[Data](articles/eb599134.json)
+
+---
+
 ### Welfare receives 90 more ambulance free of charge
 
 *2024-07-10 13:32:25* · [`adalk`](https://www.ada.lk/breaking_news/සුවසැරියට-තවත්-ගිලන්-රථ-90ක්-නොමිලයේ-ලැබෙයි/11-410716) · `si`
@@ -1270,6 +1416,24 @@ He has also decided to appoint a committee yesterday (09) to appoint a committee
 
 ---
 
+### Dissident Sri Lanka ruling party group to back main opposition SJB: MP
+
+*2024-07-10 13:20:00* · [`economynextcom`](https://economynext.com/dissident-sri-lanka-ruling-party-group-to-back-main-opposition-sjb-mp-171620/) · `en`
+
+ECONOMYNEXT — The Freedom Peoples Congress (FPC) led by MP Dullas Alahapperuma, a breakaway faction of the ruling Sri Lanka Podujana Peramuna (SLPP), will join an alliance led by the main opposition Samagi Jana Balawegaya (SJB), MP Charitha Herath said.
+
+Herath told reporters in Colombo on Wednesday July 10 that the FPC’s discussions with the SJB have been successful and the group intends to join the “mainstream” opposition as part of a broader alliance.
+
+“A very decisive presidential election is likely to be held this November. Our talks with the main opposition SJB have been very successful. So we believe we will be able to join the opposition mainstream over the next few weeks to bring about a broad political change,” said Herath.
+
+The SJB will be fielding its own presidential candidate, the MP said, and will be backed by a “strong” team and manifesto.
+
+...
+
+[Data](articles/6bebfb04.json)
+
+---
+
 ### Today's currency exchange rate
 
 *2024-07-10 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/188120) · `ta`
@@ -1309,6 +1473,46 @@ The accident had occurred when a bus had been traveling from Bihar to Delhi.
 [Data](articles/5d8d8450.json)
 
 [Extended Data](ext_articles/5d8d8450.ext.json)
+
+---
+
+### Sri Lanka lawmaking process deficient, avenue for public consultation vital: legislator
+
+*2024-07-10 12:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-lawmaking-process-deficient-avenue-for-public-consultation-vital-legislator-171619/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s lawmaking process has no public engagement, including expert consultation which leads to laws with serious shortcomings being passed, a legislator who was a former ministry secretary said.
+
+“We have to create an avenue for the people of the country to enter into the lawmaking process,” Charitha Herath, who was a former ministry secretary, told parliament Tuesday.
+
+“Through a parliamentary caucus or a special committee, we have to create space for the public to engage in the lawmaking process. Then some of the wrong things will not happen.
+
+There were problems in the existing standing orders, he said.
+
+A concept note is first submitted to the Cabinet of Ministers ahead of bill, and a draft is made and then it is sent to legal draftsman.
+
+The drafted bill is then sent to the Attorney General and re-submitted to the Cabinet for approval. Then it is tabled in parliament.
+
+...
+
+[Data](articles/3008ad51.json)
+
+---
+
+### Sri Lanka to revive senior citizen interest subsidies?
+
+*2024-07-10 12:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-revive-senior-citizen-interest-subsidies-171609/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe has directed the Treasury Secretary to “develop a program to address” low interest rates paid to retirees, his media office said, raising questions whether a senior citizens interest subsidy scheme would be revived.
+
+“For business development, bank interest rates need to be kept low. However, lower interest rates can disadvantage pensioners, so I have directed the Treasury Secretary to develop a program to address this issue,” the president said at a housing deed awarding event.
+
+But real interest rates have been high over the past twelve months, amid good monetary stability provided by the central bank.
+
+Sri Lanka’s 12 month fixed deposit rate was 15.09 percent in June 2023 and headline inflation, according to the Colombo Consumer Price Index, was only 1.7 percent in the past 12 months, giving real interest rates of 13.39 percent to a person who deposited money last year.
+
+...
+
+[Data](articles/ab469deb.json)
 
 ---
 
@@ -1830,6 +2034,38 @@ He pointed out that the strike was implemented while the Sri Lanka Railways was 
 
 ---
 
+### South Africa earthquake has no threat of Indian Ocean tsunami : Update II
+
+*2024-07-10 11:03:00* · [`economynextcom`](https://economynext.com/south-africa-earthquake-has-no-threat-of-indian-ocean-tsunami-update-ii-171593/) · `en`
+
+ECONOMYNEXT – There is no threat of tsunami in Indian Ocean, the Indian Ocean Tsunami Warning and Mitigation System has clarified in a subsequent analysis.
+
+This bulletin applies to areas within and bordering the Indian Ocean
+
+and is issued by Tsunami Service Provider INDIA in support of the
+
+ECONOMYNEXT – A 6.5 magnitude earthquake in South Africa could trigger a tsunami in the Indian Ocean, according to a warning disseminated by Tsunami service provider in India.
+
+This bulletin applies to areas within and bordering the Indian Ocean
+
+and is issued by Tsunami Service Provider INDIA in support of the
+
+Based on historical data and tsunami modeling, this earthquake may be capable of
+
+generating a tsunami affecting the Indian Ocean region. IOTWMS-TSP INDIA will
+
+monitor the situation to determine if a tsunami was generated and will issue
+
+make decisions regarding the official threat and warning status in
+
+For more detailed information, please refer to the tsunami advisory
+
+...
+
+[Data](articles/d722e0ab.json)
+
+---
+
 ### Fire breaks out at National Library
 
 *2024-07-10 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100414/fire-breaks-out-at-national-library-) · `en`
@@ -2001,277 +2237,5 @@ The mother of three children who have been depressed, she (28) is continuing to 
 [Data](articles/489ca1ad.json)
 
 [Extended Data](ext_articles/489ca1ad.ext.json)
-
----
-
-### JICA agrees to resume construction of BIA terminal 2
-
-*2024-07-10 10:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100412/jica-agrees-to-resume-construction-of-bia-terminal-2-) · `en`
-
-The Japan International Cooperation Agency (JICA) has agreed to resume the second terminal of the Bandaranaike International Airport (BIA) extension project, facilitated under a concessionary loan scheme, says Minister of Ports, Shipping and Aviation Nimal Siripala de Silva.
-
-◼️
-
-[Data](articles/29c4c01f.json)
-
-[Extended Data](ext_articles/29c4c01f.ext.json)
-
----
-
-### JICA agrees to resume funding for BIA’s terminal 2
-
-*2024-07-10 10:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100412/jica-agrees-to-resume-funding-for-bias-terminal-2-) · `en`
-
-The Japan International Cooperation Agency (JICA) has agreed to resume funding for the second terminal of the Bandaranaike International Airport (BIA) extension project, facilitated under a concessionary loan scheme, says Minister of Ports, Shipping and Aviation Nimal Siripala de Silva.
-
-The construction of the second terminal at the BIA began in 2020 with JICA funding, but has been stalled since 2022 as a result of Sri Lanka’s default due to the economic crisis.
-
-Funded by the Japan International Cooperation Agency (JICA), the project was suspended in 2022 until Sri Lanka’s debt restructuring was finalized.
-
-The construction of the second terminal of the airport started in 2020 at a cost of Rs. 145 billion under the ‘JICA’ soft loan scheme.
-
-After Sri Lanka declared bankruptcy due to the economic crisis, the concessional loan programme given by ‘JICA’ for the second terminal project had also been halted.
-
-◼️
-
-[Data](articles/7e982bdf.json)
-
-[Extended Data](ext_articles/7e982bdf.ext.json)
-
----
-
-### Governor appeals to Malaysia Higher Education Minister
-
-*2024-07-10 10:25:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/மலேசியா-உயர்-கல்வி-அமைச்சரிடம்-ஆளுநர்-வேண்டுகோள்/75-340133) · `ta`
-
-During his visit, Eastern Provincial Governor Senthil Thondaman met Malaysia's Higher Education Minister Shampri Abdul Qadir to discuss enhancing educational ties between Sri Lanka and Malaysia. It was agreed that over 3800 Sri Lankan students studying in Malaysia could stay for four more years post-degree completion. Additionally, there's interest in launching Malay language courses in Sri Lanka and fostering educational exchanges between both countries. Parliamentarian Datosree Saravanan Murugan and Sri Lanka's Ambassador to Malaysia, Sumangala Dias, were also part of the discussions.
-
-🟩
-
-Eastern Provincial Governor Senthil Thondaman, who is on an official visit to Malaysia, met Malaysia Higher Education Minister Shampri Abdul Qadir and discussed the joint venture for Sri Lanka and Malaysia.
-
-More than 3800 Sri Lankan students of higher education in Malaysia will return to Sri Lanka every two years and renew the visa every two years.
-
-Malaysia's Higher Education Minister Shampri Abdul Qadir has requested the Governor to increase the visa period for four years after completing their degree.. At the request of the Governor, the Minister said that steps would be taken to take action.
-
-In addition, students and workers from Sri Lanka to Malaysia were discussing the launch of Malay language training in Sri Lanka and the joint exchange of education on Malaysia and Sri Lanka.
-
-Parliamentarian Datosree Saravanan Murugan and Sri Lanka Ambassador to Malaysia Sumangala Dias were also present at the meeting.
-
-◼️
-
-[Data](articles/89498180.json)
-
-[Extended Data](ext_articles/89498180.ext.json)
-
----
-
-### At least 18 dead as bus collides with truck in India
-
-*2024-07-10 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100411/at-least-18-dead-as-bus-collides-with-truck-in-india) · `en`
-
-A double-decker passenger bus collided with a milk truck in northern India, killing at least 18 people and injuring many others.
-
-The collision occurred on Wednesday on an expressway in Uttar Pradesh state, and 19 injured people have been rushed to hospital. Their condition is reported to be stable, said police officer Arvind Kumar.
-
-The bus was travelling from the northern state of Bihar to the capital New Delhi.
-
-“Authorities are in the process of identifying the victims, and a probe has been launched to determine the exact cause of the accident,” Kumar said.
-
-Gaurang Rathi, a government official, said that according to a preliminary investigation the bus may have been speeding when it struck the milk truck from behind, which led both vehicles to overturn. The collision was severe enough that one side of the bus was torn off, causing passengers to be ejected from the vehicle.
-
-...
-
-[Data](articles/4e054e13.json)
-
-[Extended Data](ext_articles/4e054e13.ext.json)
-
----
-
-### Bus accident to be busy 18 lives
-
-*2024-07-10 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198664) · `si`
-
-In Uthero, India, a bus accident killed 18, including three women and a child, while injuring 19 others. The tragedy occurred en route from Bihar to Delhi.
-
-🟩
-
-At least 18 people were killed in bus accident in Uthero, India.
-
-Foreign media reports that another 19 persons were injured.
-
-Among the delegates were among the victims of three women and a child.
-
-The accident had occurred when a bus had been traveling from Bihar to Delhi.
-
-◼️
-
-[Data](articles/4c81030a.json)
-
-[Extended Data](ext_articles/4c81030a.ext.json)
-
----
-
-### Found at Minuwangoda
-
-*2024-07-10 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198663) · `si`
-
-In Minuwangoda, a man was arrested after a tip led to a raid uncovering two T-56 firearms, two magazines, and two pistols, along with eight grams of heroin. The Gampaha Division Criminal Investigations unit conducted the operation, suspecting the man's involvement with overseas organized crime groups.
-
-🟩
-
-A man was arrested by a person who had received a tip of firearms on the Juwranduwatta area in the Minuwangoda area.
-
-The raid was carried out by the Gampaha Division Criminal Investigations yesterday (09) by the Gampaha Divisional Criminal Investigation Officers in parallel to justice.
-
-There were two T-56 firearms and two T-56 libaroom, two bunch of bunch of bunch of bunch of bunch of pistols.
-
-Investigations have also recovered eight grams of heroin, a resident of Minuwangoda, a 43 year old Minuwangoda.
-
-Police suspect that the suspect has been given a organized criminal abroad and an organized criminal abroad.
-
-◼️
-
-[Data](articles/5afd4a93.json)
-
-[Extended Data](ext_articles/5afd4a93.ext.json)
-
----
-
-### PM Modi's visit to Russia, geo -political impacts
-
-*2024-07-10 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/188069) · `ta`
-
-PM Modi's visit to Russia highlights historical ties, from USSR's 1971 UN veto for India against Pakistan to current strategic partnerships.
-
-🟩
-
-“In 1965. Later, during India's war with Pakistan, in December 1971, the Soviet Union used its veto power to support India at the UN Security Council.. But the United States sent the aircraft carrier to the Bay of Bengal in favor of Pakistan "
-
-◼️
-
-[Data](articles/07c606d8.json)
-
-[Extended Data](ext_articles/07c606d8.ext.json)
-
----
-
-### What is the case of the CID?
-
-*2024-07-10 09:48:14* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c7253pzyd9xo) · `si`
-
-The case involves allegations of illegal assets held by the Director of the Criminal Investigation Department, with a focus on a sum of $26,429,49 transferred from the US between 2022 and 2029. The Attorney General's office, represented by Deputy Solicitor General Dileepa Peiris, discussed the need for protective measures due to death threats, highlighted the suspect's secret appearances in court, and criticized the lack of thorough investigation. The Deputy Solicitor General suggested the suspect could report to the Bribery Commission but emphasized the importance of addressing the assets issue. The case was complicated by the suspect's refusal to cooperate with investigations and the Attorney General's assertion of having evidence against the suspect. Despite these complexities, the Colombo Additional Magistrate ruled that the suspect, Wirajith Ukgala, could not be classified as a victim, preventing the issuance of protective orders under the Victim and Witness Protection Act.
-
-🟩
-
-What is the case of the CID?
-
-The Attorney General today (July 10) is a serious matter, the Director of the Criminal Investigation Department's illegal assets in the Department of Criminal Investigation Division.Regarding the Colombo Magistrate's Court.
-
-The deputy Solicitor General, Dileepa General, appearing on behalf of the Attorney General, said that when he considered the request made by the Victims of Protection Act to provide proper protection bill for the allocation of the death threats.
-
-When the complaint was taken up today, Senior Deputy Solicitor General Dileepa Peiris had filed a sum of Rs. 70 million to the Attorney General.
-
-The suspect's bank accounts have received a sum of $ 26,429,49, illegal in the Criminal Investigation Department from the US to 2022 to 2029.
-
-Meanwhile, the Deputy Solicitor General also recalled that the suspect had secretly presented three days in the Colombo Magistrate's Court.
-
-...
-
-[Data](articles/66d1b27b.json)
-
-[Extended Data](ext_articles/66d1b27b.ext.json)
-
----
-
-### Many train services are canceled!
-
-*2024-07-10 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/188094) · `ta`
-
-Due to a railway workers' strike, many train services are canceled except for specific routes. The government considers transport services essential, making the strike illegal and leading to potential disciplinary actions against non-working employees.
-
-🟩
-
-Several rail services were canceled due to the strike action by the railway principals on various demands.
-
-However, two trains from Colombo Fort to Negombo and Veyankoda, two trains from Polgahawela to Fort, three trains from Galle Fort to Fort and one train from Aluthgama to Fort.
-
-As the transport services have been declared as essential services, the strike action of the railway principals is illegal, resulting in disciplinary action against employees who do not work, the Secretary of the Transport has said.
-
-◼️
-
-[Data](articles/d24791bd.json)
-
-[Extended Data](ext_articles/d24791bd.ext.json)
-
----
-
-### Accident
-
-*2024-07-10 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/188095) · `ta`
-
-On Tuesday, a private bus traveling from Colombo to Trincomalee crashed on the Kandy-Trincomalee road near Mullipothanam. The accident occurred when the bus veered off the road, injuring several passengers, including the driver and conductor. Traffic police from Tambalakamam arrived at the scene for an initial investigation into the cause of the accident.
-
-🟩
-
-A private passenger transport bus from Colombo to Trincomalee on Tuesday (09) from Mullipothanam on the 96th of the Kandy Trincomalee main road under the Thambalakamam Police Division of the Trincomalee District has crashed.
-
-The incident took place this morning (10) this morning.Police said that the privately -owned bush bus crashed off the road.
-
-Some passengers, including driver and conductor, were injured in the bus accident, police said.
-
-In addition, the Tambalakamam traffic police have rushed to the scene and that the initial inquiry is responsible for the accident.
-
-◼️
-
-[Data](articles/0cf6e526.json)
-
-[Extended Data](ext_articles/0cf6e526.ext.json)
-
----
-
-### PUCSL to reach final decision on proposed electricity tariff revision
-
-*2024-07-10 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100410/pucsl-to-reach-final-decision-on-proposed-electricity-tariff-revision) · `en`
-
-The Public Utilities Commission of Sri Lanka (PUCSL) says that the final decision regarding the electricity tariff revision will be announced on July 15, after reviewing the public opinions.
-
-PUCSL chairman Prof. Manjula Fernando stated that views were obtained from 46 pre-registered delegates representing various sectors.
-
-The Ceylon Electricity Board (CEB) has handed over its proposals pertaining to the revision of electricity tariffs, to the Public Utilities Commission of Sri Lanka (PUCSL).
-
-According to the proposals, the overall reduction of tariffs as a percentage is 13.8%.
-
-Accordingly, there will be a 25.5% decrease in rates for the domestic category and a 3% reduction for religious and charitable institutions.
-
-However, the proposals do not include any tariff reductions for hotel and industrial sectors.
-
-...
-
-[Data](articles/c8083739.json)
-
-[Extended Data](ext_articles/c8083739.ext.json)
-
----
-
-### Among the Yamal Reports
-
-*2024-07-10 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198662) · `si`
-
-Spain qualified for the European Cup finals, thanks to Lemine Yam, the first player from his group. The young Yam scored a goal during the tournament.
-
-🟩
-
-Spain was able to qualify for the final of the European Cup Football Tournament.
-
-Lemine Yam, who played for Spain in the match, the first disciple of the group reported.
-
-The youth books were still among the 16-year-old Yamal European Cup, which was recorded in a Goal.
-
-◼️
-
-[Data](articles/94ef2182.json)
-
-[Extended Data](ext_articles/94ef2182.ext.json)
 
 ---

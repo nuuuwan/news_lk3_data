@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 17:20:16**
+As of **2024-07-10 17:35:30**
 
 ## Newspaper Stats
 
-*Scraped **34,603** Articles*
+*Scraped **34,609** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,135 @@ islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
 adalk | 3,116
-adaderanalk | 3,977
-tamilmirrorlk | 4,126
+adaderanalk | 3,979
+tamilmirrorlk | 4,129
 dailymirrorlk | 4,733
 virakesarilk | 5,402
-adaderanasinhalalk | 5,761
+adaderanasinhalalk | 5,762
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,601 (100.0%) of 34,603 articles have been extended.
+34,603 (100.0%) of 34,609 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### පියුමි හංසමාලි ගෙන් පෙත්සමක්
+### President hails non-striking govt. employees, assures special increment
+
+*2024-07-10 17:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100426/president-hails-non-striking-govt-employees-assures-special-increment) · `en`
+
+President Ranil Wickremesinghe has expressed his gratitude to all non-executive government employees who reported for duty on July 8 and 9, despite the trade union actions.
+
+Posting on ‘X’ (formerly Twitter), Wickremesinghe stated that their commitment during these challenging economic times “exemplifies true patriotism and integrity”.
+
+Furthermore, the Head of the State highlighted that the special salary increment for these government employees, approved by the Cabinet of Ministers, comes as a mark of the government’s gratitude towards them.
+
+“This increment recognizes your efforts to strengthen the country and support its people when Sri Lanka needs you the most”, he added.
+
+◼️
+
+[Data](articles/aaf7b6e7.json)
+
+---
+
+### වසන්ත ඝාතනයේ සැකකරුවන් රිමාන්ඩ්
+
+*2024-07-10 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198679) · `si`
+
+ව්‍යාපාරික සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඝාතනයට අදාළව අත්අඩංගුවට ගත් ටැටූ මධ්‍යස්ථානයේ හිමිකරු ඇතුළු සැකකරුවන් 07 දෙනා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+සැකකරුවන් කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව එළඹෙන 22 වනදා දක්වා රිමාන්ඩ් භාරයට පත් කෙරුණි.
+
+ව්‍යාපාරිකයකු වූ සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත, ජුලි 08 වනදා අතුරුගිරියේ පිහිටි ටැටූ මධ්‍යස්ථානයකදී සිදුකළ වෙඩි තැබීමකින් ජීවිතක්ෂයට පත්වුණි.
+
+එම අවස්ථාවේ එහි සිටි ප්‍රසිද්ධ ගායන ශිල්පිනී කේ. සුජීවාගේ සැමියා වන නයන වාසුල නමැත්තාද මියගිය අතර කේ.සුජීවා, ක්ලබ් වසන්තගේ බිරිය, තවත් කාන්තාවක් හා පිරිමි පුද්ගලයෙකු තුවාල ලබා රෝහල්ගත කෙරුණි.
+
+◼️
+
+[Data](articles/3dd1a86e.json)
+
+---
+
+### NTC to be given authority to regulate three-wheelers
+
+*2024-07-10 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/100425/ntc-to-be-given-authority-to-regulate-three-wheelers) · `en`
+
+The Minister of Transport and Highways, Bandula Gunawardana says that the clearance of the Attorney General has been received for the draft bill to amend the National Transport Commission Act.
+
+During the parliamentary session today (10), the minister stated that even though the National Transport Commission can intervene only with regard to bus fares, the act has been amended to also allow the regulation of school vans, three-wheelers and other passenger transport vehicles as well.
+
+He further emphasized that they acknowledge that three-wheelers provide a significant public service and that effective regulation is needed in that regard.
+
+“However, as we do not have the necessary authority to do that, I have amended the National Transport Commission Act.” He stated that the clearance of the Attorney General’s Department has been received, marking a crucial step towards addressing the existing situation.
+
+...
+
+[Data](articles/6bd886aa.json)
+
+---
+
+### சுகயீன விடுப்பு எடுக்காத ஆசிரியர்களுக்கு சம்பள உயர்வு
+
+*2024-07-10 17:03:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகயீன-விடுப்பு-எடுக்காத-ஆசிரியர்களுக்கு-சம்பள-உயர்வு/175-340168) · `ta`
+
+சுகயீன விடுப்புப் பிரச்சாரத்தில் ஈடுபடாத ஆசிரியர்களின் சம்பள அதிகரிப்புக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளதாக போக்குவரத்து மற்றும் ஊடகத்துறை அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+
+ஊடகங்களுக்கு கருத்து தெரிவித்த அவர், சம்பள உயர்வு தரம் 3(I) இல் உள்ள ஆசிரியர்களுக்கு ரூ. 525 வழங்கப்படும். தரம் 2(I) இல் உள்ள ஆசிரியர்களுக்கு ரூ. 1,335 மற்றும் தரம் 1 இல் உள்ளவர்களுக்கு ரூ. 1,630. இந்த சம்பள உயர்வு அவர்களின் ஓய்வூதியத்தில் சேர்க்கப்படாது. சுகயீன விடுப்பு பிரச்சாரத்தின் போது பணியமர்த்தப்பட்ட அனைவருக்கும் அதே அதிகரிப்பு வழங்கப்படும்  என்றும் கூறினார்.
+
+◼️
+
+[Data](articles/81052a66.json)
+
+---
+
+### Piyumi Hansalmali petition
 
 *2024-07-10 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198678) · `si`
 
-තමන්ට එරෙහිව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නීතිවිරෝධී වත්කම් විමර්ශන ඒකකය විසින් සිදු කරන විමර්ශන අත්හිටුවීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා නිරූපණ ශිල්පිණියක වන පියුමි හංසමාලි විසින් අභියාචනාධිකරණය හමුවේ රිට් පෙත්සමක් ඉදිරිපත් කර තිබේ.
+Artist Piyumi Hansali petitions the Court of Appeal for an inquiry into the Illegal Asset Investigation Unit, accusing it of non-failure in investigations. The IGP and Criminal Investigations' Director are named as respondents.
 
-අදාළ පෙත්සමේ වගඋත්තරකරුවන් ලෙස පොලිස්පතිවරයා, අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂවරයා ඇතුළු නිලධාරීන් පිරිසක් නම් කර ඇත.
+🟩
 
-තමන්ට එරෙහිව විමර්ශනය සිදු කරන ආකාරය යුක්ති සහගත නොවන බවත් ඉන් තමන්ට දැඩි අගතියක් සිදුවන බවත් පෙත්සමේ සඳහන් කරයි.
+The artist Piyumi Hansali has presented a radical petition in the Court of Appeal to issue an order to issue an inquiry into the Illegal Asset Investigation Unit of the Criminal Investigation Department.
+
+As respondents in the petition, the IGP and the Director of the Criminal Investigations have nominated.
+
+The petition states that the way in which the investigation is not failure is not failure.
 
 ◼️
 
 [Data](articles/134c2d29.json)
 
+[Extended Data](ext_articles/134c2d29.ext.json)
+
 ---
 
-### ගෙදර ඉන්න වුණත් අපි ලෑස්තියි - දුම්රිය වෘත්තීය සමිති
+### We're ready but the Railway Trade Unions
 
 *2024-07-10 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198677) · `si`
 
-සේවය හැරයෑමේ නිවේදනය අනුව සිය සේවය නොමැතිව දුම්රිය සේවය පවත්වාගෙන යා හැකි නම් එය සිදුකර පෙන්වන ලෙස දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය පවසයි.
+Railway Trade Unions express readiness despite concerns over passenger discomfort. Chairman Sumedha Somaratne warns more unions may join protests against perceived repression. General Manager responds, stating strike actions will be treated as service disruptions.
 
-එහි සභාපති සුමේධ සෝමරත්න මහතා සඳහන් කළේ, "අපිත් බය නැහැ. ගෙදර ඉන්න වුණත් අපි ලෑස්තියි. මේ මර්දනයට එරෙහිව හෙට තවත් වෘත්තීය සමිති එකතු වෙනවා. දුම්රිය ස්ථානාධිපතිවරුන් එක්කෙනෙක්වත් මේ ලියුම්වලට බය වෙන්නේ නැහැ. අපිට කරන්න දෙයක් නැහැ.. මගී ජනතාවට වෙන අපහසුතාවය ගැන. බලධාරීන් විසඳුම් දෙන්න ඕනේ."
+🟩
 
-වර්ජනයේ නිරත දුම්රිය ස්ථානාධිපතිවරු සහ දුම්රිය පාලකවරුන් සේවය හැරගියා සේ සලකන බව වැඩබලන දුම්රිය සාමාන්‍යාධිකාරි එස්. එස්. මුදලිගේ මහතා සිදුකළ දැනුම්දීමට ප්‍රතිචාර දක්වමින් ඔහු ඒ බව සඳහන් කළේය.
+According to the Station OICs Association, the Railways Association (SSP) says that if the railway service can be carried out without its service.
 
-අදාළ නිවේදනයේ දැක්වෙන්නේ අද (10) දහවල් 12ට අදාළ දුම්රිය ස්ථානයට හෝ ආසන්නතම දුම්රිය ස්ථානයට දුම්රිය ස්ථානාධිපතිවරු සහ දුම්රිය පාලකවරුන් සේවයට වාර්තා කළ යුතු බවය.
+Its chairman Sumedha Somaratne said: "We're not afraid too. We're ready but we're ready. More trade unions will be added to this repression tomorrow. No one of the OICs of Station. We have nothing to do.. About the uncomfortable of the passenger people. The authorities should solve. "
 
-ශ්‍රී ලංකා දුම්රිය සේවය අත්‍යවශ්‍ය සේවාවක් කර තිබියදී මෙම වර්ජනය ක්‍රියාත්මක කර ඇති බවද වැඩබලන දුම්රිය සාමාන්‍යාධිකාරි එස්. එස්. මුදලිගේ මහතා පැවසීය.
+General Manager of Acting Railways that the strike operators will be considered as a service. S. He made this statement responding to the notification made by Mr. Mudalige.
+
+The announcement states that the station or the Colombo Masters OIC and Railway Controllers should be reported today (10).
+
+Acting Railway Station. S. Mudalige said.
 
 ◼️
 
 [Data](articles/4aa99b53.json)
+
+[Extended Data](ext_articles/4aa99b53.ext.json)
 
 ---
 
@@ -89,6 +169,24 @@ The young man and her complicity were arrested on Wednesday (10) for allegedly r
 [Data](articles/6f612c89.json)
 
 [Extended Data](ext_articles/6f612c89.ext.json)
+
+---
+
+### மாணவி வன்புணர்வு ; காதலனும் தாயாரும் கைது
+
+*2024-07-10 16:47:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவி-வன்புணர்வு-காதலனும்-தாயாரும்-கைது/175-340167) · `ta`
+
+ஏறாவூர் பிரதேசத்தில் 14 வயது மாணவியைக் காதலித்த 22 இளைஞன் அவரை தனது வீட்டிற்கு அழைத்துச் சென்று பாலியல் வன்புணர்வுக்குட்படுத்தியுள்ள சம்பவம் தொடர்பில், குறித்த இளைஞனும் அவரது தாயாரும் புதன்கிழமை (10) கைது செய்யப்பட்டுள்ளனர்.
+
+பாதிக்கப்பட்ட மாணவியின் தந்தையார் இல்லாத நிலையில், தாயார் மத்திய கிழக்கு நாடொன்றில் பணிபுரிந்து வருவதுடன், மாணவி உறவினருடன் தங்கி அப்பகுதியிலுள்ள பாடசாலையில் கல்வி கற்று வந்துள்ளார்.
+
+கடந்த மே மாதம்  குறித்த மாணவியை இளைஞன் தனது வீட்டிற்கு அழைத்துச் சென்று அங்குத் தங்க வைத்து பாலியல் வன்புணர்வுக்குட்படுத்தி வந்துள்ளார். இது தொடர்பாகப் பிரதேச செயலக சிறுவர் நன்னடத்தை அதிகாரிக்குத் தகவல் கிடைத்துள்ளது.
+
+சிறுமியை அடைத்து வைத்து பாலியல் வன்புணர்வுக்குட்படுத்தியுள்ள குற்றச்சாட்டில் இளைஞனையும், அதற்கு உடந்தையாக இருந்த அவரது தாயையும் புதன்கிழமை (10) அன்று கைது செய்ததுடன், சிறுமியை மீட்டு வைத்தியசாலையில் அனுமதித்துள்ளனர்.
+
+◼️
+
+[Data](articles/cd9a5fb5.json)
 
 ---
 
@@ -131,6 +229,22 @@ According to President Ranil Wickremesinghe, the 2024 budget was implemented in 
 [Data](articles/60067e0e.json)
 
 [Extended Data](ext_articles/60067e0e.ext.json)
+
+---
+
+### “வீட்டுக்கு தீ வைத்தபோது பெறுமதியை உணர்ந்தேன்”
+
+*2024-07-10 16:24:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/வீட்டுக்கு-தீ-வைத்தபோது-பெறுமதியை-உணர்ந்தேன்/150-340165) · `ta`
+
+இரண்டு வருடங்களுக்கு முன்னர் தனது வீடு தீவைத்து அழிக்கப்பட்ட போது, ​​ஒரு வீட்டின் பெறுமதியை கடுமையாக உணர்ந்ததாகவும் அதன் பெறுமதியை உணர்ந்ததாலேயே கொழும்பில் உள்ள அடுக்குமாடி குடியிருப்பில் வசிக்கும் 2,50,000 பேருக்கு அந்த வீடுகளின் முழுமையான உரிமையையும் வழங்கும் வேலைத்திட்டத்தை நடைமுறைப்படுத்தியதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+கொழும்பிலுள்ள அடுக்குமாடி குடியிருப்புகளில் வாழ்கின்ற, இரண்டரை இலட்சத்துக்கும் குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு அந்த வீடுகளின் பூரண உரிமையை வழங்கும் வேலைத்திட்டத்தின் முதற்கட்டமாக 50,000 வீடுகளை வழங்கும் “ரன்தொர உறுமய” வீட்டு உரிமை வழங்கும் ஆரம்ப நிகழ்வு ஜனாதிபதி செயலகத்தில் நடைபெற்றது. இந்த நிகழ்வில் உரையாற்றுகையிலே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+
+கொழும்பு மாவட்டத்தில் 31 அடுக்குமாடி குடியிருப்புகளில் அமைந்துள்ள 130 வீடுகளுக்கான உரிமைகள் வழங்கி வைக்கப்பட்டதுடன், இதன்போது அடையாளமாக ஜனாதிபதி சிலருக்கு வீட்டு உரிமைகளை கையளித்தார்.
+
+...
+
+[Data](articles/8cd8b557.json)
 
 ---
 
@@ -2087,113 +2201,5 @@ To put things in perspective. Figures from widely reported independent sources i
 [Data](articles/f0118fc7.json)
 
 [Extended Data](ext_articles/f0118fc7.ext.json)
-
----
-
-### A time to ponder; a time for change?
-
-*2024-07-10 05:41:05* · [`dailyftlk`](https://www.ft.lk/columns/A-time-to-ponder-a-time-for-change/4-764062) · `en`
-
-More than at any time in the past those in whose hands lies the power to choose their leaders will also decide their own futures and that of their children – Pic by Shehan Gunasekara
-
-There has never been as important a period in the history of Sri Lanka as will be the next few months. The country is still reeling under the financial and economic battering of two years ago. As per the latest statistics the country’s debt burden has ticked over the $ 100 billion mark – including the backlog of interest. Meanwhile, a deceptive sense of calm and even spots of prosperity – for some – seem to prevail on the surface disguising strong undercurrents of turmoil.
-
-This turmoil is more than just a single facet. One could debate which of them is worse but the combination is a deadly cocktail which unless mitigated has the potential to cripple the country and the lives of its citizens for decades to come. Yet, the solution to this complex situation lies – literally – in the hands of the stakeholders.
-
-...
-
-[Data](articles/ea42a08e.json)
-
-[Extended Data](ext_articles/ea42a08e.ext.json)
-
----
-
-### Overview of Japan-Sri Lanka economic relations
-
-*2024-07-10 05:33:42* · [`dailyftlk`](https://www.ft.lk/columns/Overview-of-Japan-Sri-Lanka-economic-relations/4-764059) · `en`
-
-Japan has always been a benevolent partner in the development trajectory of Sri Lanka. Japan is the world’s fourth largest economy in terms of GDP. This article explores the bilateral trade, investment and tourism. The article is exclusively focused on bilateral economic relations and not going to explore the development cooperation due to space constraints.
-
-As illustrated in Table 1.1, Sri Lanka’s export to Japan during 2018-23 period remained below $ 300 million. In 2020, with the outbreak of the COVID-19 pandemic, Sri Lanka’s exports to Japan has reduced to $ 188 million yet recovered in 2021 and 2022 recording total exports of $ 227 million and 231 million respectively. However, in 2023 the total export to Japan has declined to $ 190 million.
-
-According to the export data published by CBSL, Japan is the 13th largest export destination of Sri Lanka in 2023. The major export commodities from Sri Lanka includes tea, shrimps and prawns, coconut products, apparel and rubber products, etc.
-
-...
-
-[Data](articles/1a3c92e4.json)
-
-[Extended Data](ext_articles/1a3c92e4.ext.json)
-
----
-
-### Strengthening China-Sri Lanka economic and trade partnership: Embracing opportunities for mutual growth
-
-*2024-07-10 05:29:05* · [`dailyftlk`](https://www.ft.lk/opinion/Strengthening-China-Sri-Lanka-economic-and-trade-partnership-Embracing-opportunities-for-mutual-growth/14-764058) · `en`
-
-The following are remarks by Ambassador of the People’s Republic of China Qi Zhenhong at the 23rd Annual General Meeting of the Sri Lanka-China Business Council held on 2 July at Hilton Colombo Residences
-
-It is a great honour to be invited by the Sri Lanka-China Business Council of the Ceylon Chamber of Commerce to attend the 23rd Annual Meeting. First and foremost, on behalf of the Embassy of the People’s Republic of China in Sri Lanka, I extend my warmest congratulations to all members of the council! The Ceylon Chamber has a long history and has maintained a friendly and cooperative relationship with the Chinese Embassy. We highly appreciate the Chamber’s outstanding contributions to promoting exchanges and economic cooperation between our two countries.
-
-...
-
-[Data](articles/71ff0d82.json)
-
-[Extended Data](ext_articles/71ff0d82.ext.json)
-
----
-
-### Seven arrested in Club Wasantha murder; Kanjipani Imran identified as mastermind
-
-*2024-07-10 05:15:02* · [`dailyftlk`](https://www.ft.lk/news/Seven-arrested-in-Club-Wasantha-murder-Kanjipani-Imran-identified-as-mastermind/56-764055) · `en`
-
-Police yesterday arrested one more suspect in connection to the assassination of Sunhill Group of Companies Chairperson Surendra Wasantha Perera, better known as “Club Wasantha” bringing the total number of suspects in custody to seven.
-
-On Monday, the Western Province South Crimes Division arrested the owner of the tattoo studio where the incident occurred, along with his brother and several others believed to be connected to the incident.
-
-Investigations have revealed that Dulan Sanjula, the owner of the tattoo studio, set up the establishment for the sole purpose of luring Club Wasantha to the location. According to police sources, this is believed to have been orchestrated under the instructions of underworld figure Athurugiriye Patty, currently abroad, who was acting on orders from the notorious Kanjipani Imran. Kanjipani Imran is currently believed to be in France.
-
-...
-
-[Data](articles/9414edea.json)
-
-[Extended Data](ext_articles/9414edea.ext.json)
-
----
-
-### IGP confident in apprehending all Club Wasantha murder suspects soon
-
-*2024-07-10 05:13:47* · [`dailyftlk`](https://www.ft.lk/news/IGP-confident-in-apprehending-all-Club-Wasantha-murder-suspects-soon/56-764054) · `en`
-
-Inspector General of Police Deshabandu Tennekoon in a statement yesterday expressed his confidence that investigators will be able to apprehend all suspects connected to the killing of Surendra Wasantha Perera alias Club Wasantha.
-
-According to Tennekoon, investigators have already gathered significant information about those involved in the crime. “Investigations are now focusing on determining whose instructions the perpetrators followed and the motives behind the killing,” Tennekoon said.
-
-The IGP confirmed that the police have already uncovered the mastermind behind the killing. “We are confident that this crime will be solved in a short period of time, and the criminals will be brought to justice,” he said confidently.
-
-...
-
-[Data](articles/b9aff846.json)
-
-[Extended Data](ext_articles/b9aff846.ext.json)
-
----
-
-### Ali Sabry to visit Washington for fifth US-Sri Lanka Partnership Dialogue
-
-*2024-07-10 05:13:24* · [`dailyftlk`](https://www.ft.lk/news/Ali-Sabry-to-visit-Washington-for-fifth-US-Sri-Lanka-Partnership-Dialogue/56-764053) · `en`
-
-Foreign Secretary Aruni Wijewardane will undertake an official visit to the United States to attend the fifth US-Sri Lanka Partnership Dialogue scheduled to be held at the US Department of State on 12 July.
-
-The fifth US-Sri Lanka Partnership Dialogue will be co-chaired by Wijewardane and the US Department of State Political Affairs Acting Under Secretary John Bass.
-
-Discussions in the Partnership Dialogue will focus on multifaceted aspects of the US-Sri Lanka bilateral relations, including economic, defence, and security cooperation; democracy, reconciliation, and human rights; climate change, science and technology cooperation; education and cultural cooperation, and people-to-people contacts.
-
-Sri Lankan Ambassador to the United States Mahinda Samarasinghe and officials from the Embassy of Sri Lanka and the Foreign Affairs Ministry will also attend the Partnership Dialogue.
-
-◼️
-
-[Data](articles/47a8a4b3.json)
-
-[Extended Data](ext_articles/47a8a4b3.ext.json)
 
 ---

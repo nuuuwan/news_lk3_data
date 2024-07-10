@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 10:06:51**
+As of **2024-07-10 10:20:52**
 
 ## Newspaper Stats
 
-*Scraped **34,535** Articles*
+*Scraped **34,536** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
 adalk | 3,103
-adaderanalk | 3,961
+adaderanalk | 3,962
 tamilmirrorlk | 4,109
 dailymirrorlk | 4,733
 virakesarilk | 5,397
@@ -26,25 +26,53 @@ adaderanasinhalalk | 5,746
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,533 (100.0%) of 34,535 articles have been extended.
+34,535 (100.0%) of 34,536 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### යමාල් වාර්තා පොත් අතරට
+### PUCSL to reach final decision on proposed electricity tariff revision
+
+*2024-07-10 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100410/pucsl-to-reach-final-decision-on-proposed-electricity-tariff-revision) · `en`
+
+The Public Utilities Commission of Sri Lanka (PUCSL) says that the final decision regarding the electricity tariff revision will be announced on July 15, after reviewing the public opinions.
+
+PUCSL chairman Prof. Manjula Fernando stated that views were obtained from 46 pre-registered delegates representing various sectors.
+
+The Ceylon Electricity Board (CEB) has handed over its proposals pertaining to the revision of electricity tariffs, to the Public Utilities Commission of Sri Lanka (PUCSL).
+
+According to the proposals, the overall reduction of tariffs as a percentage is 13.8%.
+
+Accordingly, there will be a 25.5% decrease in rates for the domestic category and a 3% reduction for religious and charitable institutions.
+
+However, the proposals do not include any tariff reductions for hotel and industrial sectors.
+
+...
+
+[Data](articles/c8083739.json)
+
+---
+
+### Among the Yamal Reports
 
 *2024-07-10 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198662) · `si`
 
-යුරෝපීය කුසලාන පාපන්දු තරගාවලියේ අවසන් තරගයට සුදුසුකම් ලැබීමට ස්පාඤ්ඤය සමත් විය.
+Spain qualified for the European Cup finals, thanks to Lemine Yam, the first player from his group. The young Yam scored a goal during the tournament.
 
-මෙම තරගයේදී ස්පාඤ්ඤය වෙනුවෙන් ක්‍රීඩාකළ ලෙමීන් යමාල් එම කණ්ඩායමේ පළමු ගෝලය වාර්තා කළේය.
+🟩
 
-තවමත් වයස අවුරුදු 16යි දින 362ක් වන යමාල් යුරෝපීය කුසලාන තරගයකදී ගෝලයක් වාර්තාකළ ළාබාලතම ක්‍රීඩකයා ලෙස වාර්තා පොත් අතරට එක්විය.
+Spain was able to qualify for the final of the European Cup Football Tournament.
+
+Lemine Yam, who played for Spain in the match, the first disciple of the group reported.
+
+The youth books were still among the 16-year-old Yamal European Cup, which was recorded in a Goal.
 
 ◼️
 
 [Data](articles/94ef2182.json)
+
+[Extended Data](ext_articles/94ef2182.ext.json)
 
 ---
 
@@ -354,7 +382,7 @@ Starlink has applied for a license in March 2024, but Sri Lanka did not have the
 
 The new law will also provide a framework for to license and regulate cable landing stations.
 
-The law is modernized and has also taken into consideration suggestions by Rohan Samarajiva, a former telecom regulator, he said. (Colombo/July10/2024)
+The law is modernized and has also taken into consideration suggestions by Rohan Samarajiva, a former telecom regulator, Minister Herath said.
 
 ◼️
 
@@ -757,6 +785,8 @@ Sri Lankan Ambassador to the United States Mahinda Samarasinghe and officials fr
 ◼️
 
 [Data](articles/741e5b55.json)
+
+[Extended Data](ext_articles/741e5b55.ext.json)
 
 ---
 
@@ -2227,29 +2257,5 @@ The hero of the story is designed to be hungry as the hero of the story on the d
 [Data](articles/ec12f4e5.json)
 
 [Extended Data](ext_articles/ec12f4e5.ext.json)
-
----
-
-### Yogi Babu is 'Constable Kandan'
-
-*2024-07-09 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188056) · `ta`
-
-Yogi Babu stars in "Constable Kandan," a Tamil film about a police officer directed by Bhupala Venkatesan. The premiere was in Thiruvannamalai, and discussions are underway for a notable actor to join the cast. More details about the actors and production team will be announced soon. The film is produced by Shankar Pictures.
-
-🟩
-
-The new movie starring Yogi Babu, the leading comedian of the Tamil film industry, is titled 'Constable Kandan' and its inauguration was held at Thiruvannamalai, a worldwide spiritual place.
-
-Yogi Babu plays the lead role in the film 'Constable Kandan' directed by debutant director Bhupala Venkatesan. The film crew is in talks with a leading star actor to play a strong role.
-
-In addition, the details of the actors and technicians who are acting in the film are expected to be officially released soon.. The film is being produced by Shankar Pictures, producer De Shankar.
-
-Commenting on the film, the director said, “Constable Kandan has emerged as a story that consciously describes the life of a guardian of a guards who are unlimited to fellow humans.. '' said.
-
-◼️
-
-[Data](articles/fac73edd.json)
-
-[Extended Data](ext_articles/fac73edd.ext.json)
 
 ---

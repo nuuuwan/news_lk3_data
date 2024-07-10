@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 02:53:12**
+As of **2024-07-11 03:05:01**
 
 ## Newspaper Stats
 
-*Scraped **34,677** Articles*
+*Scraped **34,680** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 339
 newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,049
-dailyftlk | 2,181
+dailyftlk | 2,183
 adalk | 3,126
 adaderanalk | 3,986
-tamilmirrorlk | 4,133
+tamilmirrorlk | 4,134
 dailymirrorlk | 4,733
 virakesarilk | 5,419
 adaderanasinhalalk | 5,767
@@ -26,11 +26,55 @@ adaderanasinhalalk | 5,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,670 (100.0%) of 34,677 articles have been extended.
+34,677 (100.0%) of 34,680 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### New laws to mitigate impact of strikes on essential services to be introduced
+
+*2024-07-11 02:42:51* · [`dailyftlk`](https://www.ft.lk/business/New-laws-to-mitigate-impact-of-strikes-on-essential-services-to-be-introduced/34-764133) · `en`
+
+Cabinet Co-Spokesman and Transport and Highways Minister Bandula Gunawardena shows off a document concerning Ceylon Government Railway at yesterday’s briefing to the media
+
+Says proposed laws aim to ensure continuous operation of essential services, protect public interests
+
+Move follows President’s directive to Justice Minister to explore legal measures; seeks advice from AG on legal provisions to mitigate impact of illegal trade union actions in essential services
+
+Reveals 50-80% of Govt.’s tax income allocated for public sector salaries
+
+Affirms Govt. led by President is not intimidated by politically motivated and unfair public sector demands
+
+The Government yesterday announced that new legislation will be introduced to limit the impact of strikes on the public, particularly in essential services such as education, health and transport.
+
+...
+
+[Data](articles/f0af3f3a.json)
+
+---
+
+### President advocates boosting cultivation of high-quality cinnamon varieties
+
+*2024-07-11 02:38:07* · [`dailyftlk`](https://www.ft.lk/business/President-advocates-boosting-cultivation-of-high-quality-cinnamon-varieties/34-764132) · `en`
+
+Inaugurates official website and new Department of Cinnamon Development in Galle
+
+Receives 10-year roadmap for industry promotion, a technical publication titled ‘Cinnamon Handbook’
+
+Calls for a strategic plan to restart cinnamon cultivation from Puttalam to Hambantota; attract new investments in various industries, including information technology
+
+President Ranil Wickremesinghe yesterday asserted the importance of boosting the cultivation of high-quality cinnamon varieties, noting Sri Lanka’s legacy as a leading cinnamon producer and exporter.
+
+He made these remarks at the inauguration of the main office of the newly established Department of Cinnamon Development and launched its official website yesterday in Karandeniya in Galle.
+
+The initiative originates from a proposal in the 2023 Budget, aimed to revitalise the Ceylon cinnamon industry.
+
+...
+
+[Data](articles/7a521db2.json)
+
+---
 
 ### Siripala says JICA agrees to resume work on 2nd BIA terminal with Rs. 170 b loan
 
@@ -47,6 +91,8 @@ In a statement Minister de Silva highlighted that the country’s renewed econom
 ...
 
 [Data](articles/b9184169.json)
+
+[Extended Data](ext_articles/b9184169.ext.json)
 
 ---
 
@@ -68,6 +114,8 @@ The Cabinet of Ministers approved the proposal presented by the Urban Developmen
 
 [Data](articles/950f5bfe.json)
 
+[Extended Data](ext_articles/950f5bfe.ext.json)
+
 ---
 
 ### Mid-Year Fiscal Position Report published online, to be tabled in Parliament
@@ -87,6 +135,8 @@ The Mid-Year Fiscal Position Report is a critical document that outlines the Gov
 ...
 
 [Data](articles/6d1d8c3d.json)
+
+[Extended Data](ext_articles/6d1d8c3d.ext.json)
 
 ---
 
@@ -110,6 +160,8 @@ The decision by the Sri Lanka Police to disseminate footage showing Dulan Sanjul
 
 [Data](articles/466054fc.json)
 
+[Extended Data](ext_articles/466054fc.ext.json)
+
 ---
 
 ### FPC led by Dullas to back Sajith at Presidential polls
@@ -130,6 +182,8 @@ He said accordingly the FPC will form an alliance with the SJB in the coming wee
 
 [Data](articles/b5dbd1c2.json)
 
+[Extended Data](ext_articles/b5dbd1c2.ext.json)
+
 ---
 
 ### UNP Dambulla office attacked
@@ -148,6 +202,8 @@ Fernando made the statement to the media after visiting the site, inspecting the
 
 [Data](articles/dab7ccff.json)
 
+[Extended Data](ext_articles/dab7ccff.ext.json)
+
 ---
 
 ### Vijitha Herath demands halt to arbitrary spending by provincial Governors
@@ -165,6 +221,8 @@ He emphasised that these arbitrary actions must be stopped immediately, warning 
 ◼️
 
 [Data](articles/902a48ea.json)
+
+[Extended Data](ext_articles/902a48ea.ext.json)
 
 ---
 
@@ -201,6 +259,22 @@ The motion for the debate was jointly presented by Chief Opposition Whip Lakshma
 [Data](articles/4fb8bad6.json)
 
 [Extended Data](ext_articles/4fb8bad6.ext.json)
+
+---
+
+### களுத்துறையில் இருந்து ஜனாதிபதி வேட்பாளர்
+
+*2024-07-11 02:15:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறையில்-இருந்து-ஜனாதிபதி-வேட்பாளர்/175-340188) · `ta`
+
+திருடர்களுடன் பணிக்கும் தலைவர்களை விரட்டியடித்து, திருடர்களை சிறையிலடைக்கக் கூடிய ஜனாதிபதி வேட்பாளர் ஒருவரை களுத்துறை மாவட்டத்தில் இருந்து களமிறக்குவோம் என்று பாராளுமன்ற உறுப்பினர் குமார வெல்கம தெரிவித்தார்.
+
+இவர், ஐக்கிய மக்கள் சக்தியில் சுயாதீனமாக செயற்படும் பாராளுமன்ற உறுப்பினர் ஆவார். பாராளுமன்றத்தில் புதன்கிழமை (10) நடைபெற்ற   விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+
+இன்னும் சில மாதங்களில் ஜனாதிபதித் தேர்தல் நடத்தப்படவுள்ளது. இதன்போது எந்தவொரு திருட்டும் இல்லாத ஒருவரை நியமிக்க வேண்டும் என்று மக்கள் எதிர்ப்பார்கின்றனர். இதனாலேயே போராட்டமும் நடந்தது. இந்நிலையில் எனது கட்சி வேண்டாமென்று கூறிய போதும் நான் ரணில் விக்கிரமசிங்கவுக்காக வாக்களித்தேன்.
+
+...
+
+[Data](articles/367a66cd.json)
 
 ---
 
@@ -2181,67 +2255,5 @@ Meanwhile, the associations have said they have decided to continue their strike
 [Data](articles/ae0b245a.json)
 
 [Extended Data](ext_articles/ae0b245a.ext.json)
-
----
-
-### Cabinet approves resolution to amend Constitutional clause on President’s tenure
-
-*2024-07-10 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100420/cabinet-approves-resolution-to-amend-constitutional-clause-on-presidents-tenure) · `en`
-
-The Cabinet of Ministers has granted approval to prepare a draft bill relevant to Constitutional reforms for the amendment of Article 83b of the constitution substituting the clause “exceeding 5 years” instead of the clause “exceeding 6 years”.
-
-The relevant proposal has been submitted to the Cabinet by President Ranil Wickremesinghe in order to remove the doubt about it and remove any inconsistency regarding the tenure of the President and the tenure of the Parliament in Articles 30(2), 62(2) and 83(b) of the Constitution.
-
-◼️
-
-[Data](articles/a362039c.json)
-
-[Extended Data](ext_articles/a362039c.ext.json)
-
----
-
-### Suspect arrested with T-56 ammunition haul in Minuwangoda
-
-*2024-07-10 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100419/suspect-arrested-with-t-56-ammunition-haul-in-minuwangoda) · `en`
-
-Police have apprehended a suspect in the Japalawatte area of Minuwangoda for the possession of ammunition during the ‘Yukthiya’ special police operation yesterday (09).
-
-During the raid, authorities have recovered two magazines used in T-56 assault rifles, two pistol magazines, and 144 live rounds of T-56 ammunition.
-
-In addition to the ammunition, officers also discovered 8 grams of heroin found in the suspect’s possession.
-
-The suspect, identified as a 43-year-old resident of Minuwangoda, is believed to be connected to a larger network of organized crime.
-
-Initial investigations suggest that the ammunition and magazines may have been supplied by a criminal hiding overseas, the police said.
-
-◼️
-
-[Data](articles/33f6c3cd.json)
-
-[Extended Data](ext_articles/33f6c3cd.ext.json)
-
----
-
-### Senthil requests Malaysia to extend the visa
-
-*2024-07-10 12:27:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசாவை-நீடிக்க-மலேசியாவிடம்-செந்தில்-கோரிக்கை/175-340148) · `ta`
-
-During his visit to Malaysia, Eastern Provincial Governor Senthil Thondaman discussed enhancing educational ties between Sri Lanka and Malaysia, including extending visas for Sri Lankan students from two to four years. The Higher Education Minister, Shampri Abdul Qadir, agreed to take action on this request. Additionally, plans for launching Malay language training in Sri Lanka and a joint transmission program were discussed, with Parliamentarian Datosree Saravanan Murugan and Sri Lankan Ambassador Sumangala Dias in attendance.
-
-🟩
-
-Eastern Provincial Governor Senthil Thondaman, who is on an official visit to Malaysia, met Malaysia Higher Education Minister Shampri Abdul Qadir and discussed the joint venture for Sri Lanka and Malaysia.
-
-More than 3800 Sri Lankan students who are studying higher education in Malaysia return to Sri Lanka every two years as per the current law.. Malaysia's Higher Education Minister Shampri Abdul Qadir has requested the Governor to increase the visa period for four years after completing their degree.. At the request of the Governor, the Minister said that steps would be taken to take action.
-
-In addition, students and workers from Sri Lanka to Malaysia have been discussed in Sri Lanka and discussed the launch of Malay language training in Sri Lanka and the joint transmission program on Malaysia and Sri Lanka.
-
-Parliamentarian Datosree Saravanan Murugan and Sri Lankan Ambassador to Malaysia Sumangala Dias were also present.
-
-◼️
-
-[Data](articles/623928e9.json)
-
-[Extended Data](ext_articles/623928e9.ext.json)
 
 ---

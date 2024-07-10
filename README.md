@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 14:54:26**
+As of **2024-07-10 15:04:58**
 
 ## Newspaper Stats
 
-*Scraped **34,587** Articles*
+*Scraped **34,588** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,973
 tamilmirrorlk | 4,124
 dailymirrorlk | 4,733
 virakesarilk | 5,402
-adaderanasinhalalk | 5,756
+adaderanasinhalalk | 5,757
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,586 (100.0%) of 34,587 articles have been extended.
+34,587 (100.0%) of 34,588 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### ජාතික ගමනාගමන කොමිෂන් සභාවට වැඩි බලයක් දෙන්න යයි
+
+*2024-07-10 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198673) · `si`
+
+ජාතික ගමනාගමන කොමිෂන් පනත සංශෝධනය කිරීමට කෙටුම්පත් කරන ලද පනත් කෙටුම්පත සඳහා නීතිපතිවරයාගේ නිෂ්කාසනය ලැබී ඇති බව ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය බන්දු ගුණවර්ධන මහතා පවසයි.
+
+එමෙන්ම ඔහු පවසා සිටියේ දැනට ජාතික ගමනාගමන කොමිෂන් සභාවට බස් ගාස්තු සම්බන්ධයෙන් පමණක් මැදිහත් විය හැකි නමුත් පාසල් වෑන් රථ, ත්‍රීරෝද රථ සහ වෙනත්  වාහන සඳහා ද නියාමනයක් සිදු කිරීමට හැකිවන පරිදි පනත සංශෝධනය කර ඇති බවය.
+
+"අපි ඉතාම බරපතළ ලෙස පිළිගන්නවා ත්‍රීරෝද රථ විශාල මහජන සේවාවක් කරනවා. එය අවශ්‍යයෙන්ම නියාමනය කළ යුතුයි. නමුත් ඒ සඳහා අවශ්‍ය බලතල නැති නිසා මම ජාතික ගමනාගමන කොමිෂන් පනත සම්පුර්ණයෙන් සංශෝධනය කරලා... දැනට තියෙන තත්ත්වය වෙනස් කරන්න නීතිපති දෙපාර්තමේන්තුවට යවලා පනත් කෙටුම්පතට නිෂ්කාසනය ලැබිලා තියෙනවා."
+
+...
+
+[Data](articles/8d82c553.json)
+
+---
 
 ### I didn't know anything - the glan holiday
 
@@ -168,19 +184,25 @@ Nidahasa Janata Sabha (NJS), led by Member of Parliament Dullas Alahapperuma, ha
 
 ---
 
-### වතු කම්කරුවන්ට නියමිත වැටුප නොගෙවන වැවිලි සමාගම් සමග ඇති ගිවිසුම් අවලංගු කරයි
+### Estate workers cancel agreements with unpaid plantation companies
 
 *2024-07-10 13:21:00* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරුවන්ට-නියමිත-වැටුප-නොගෙවන-වැවිලි-සමාගම්-සමග-ඇති-ගිවිසුම්-අවලංගු-කරයි/11-410714) · `si`
 
-වතු කම්කරුවන් වෙත නියමිත වැටුප නොගෙවනු ලබන ප්‍රාදේශීය වැවිලි සමාගම් සමග රජය එළඹ ඇති ඉඩම් බදු ගිවිසුම් අවලංගු කිරීම පිණීස අවශ්‍ය නීති පැනවීමේ ක්‍රියාවලිය කඩිනම් කිරීම සඳහා  අමාත්‍ය මණ්ඩල අනුමැතිය හිමි වී තිබේ.
+Estate workers have canceled contracts with unpaid plantation firms. The Cabinet has approved measures to expedite law changes regarding government lease agreements and worker salaries. A committee will assess each company's ability to pay wages amid rising costs and the national economic crisis.
 
-ජීවන වියදම සහ මෑත කාලීනව රට තුළ පැන නැගී ඇති ආර්ථික අර්බුදයේ බලපෑම් කෙරෙහි නිසි සැළකිල්ලක් යොමු කරමින් වතු කම්කරුවෙකු සඳහා දිනකට ගෙවිය යුතු වැටුප තක්සේරු කරන ලෙස මුදල් , ආර්ථික ස්ථායීකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යංශයේ ලේකම්ට 2021.05.20 දින පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී උපදෙස් දී ඇත.
+🟩
 
-එමෙන්ම , එකී වැටුප ගෙවීම සඳහා එක් එක් ප්‍රාදේශීය වතු සමාගම් සතුව පවතින හැකියාව නිශ්චය කිරීම පිණිස කමිටුවක් පත් කිරීම සඳහා ද ඊයේ (09) පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී තීරණය කරනු ලැබ තිබේ.
+Cabinet approval has been approved to accelerate the laws process that has been entered into the government's lease agreements with the planned salaries of estate workers.
+
+The Secretary to the Ministry of Finance, Economic Stability and National Policy has been instructed to estimate the cost of living and the economic crisis in the country recently.
+
+He has also decided to appoint a committee yesterday (09) to appoint a committee to determine the possibility of each regional estate companies to pay the salary.
 
 ◼️
 
 [Data](articles/10661a4e.json)
+
+[Extended Data](ext_articles/10661a4e.ext.json)
 
 ---
 
@@ -2195,39 +2217,5 @@ It is reported that the ship will be anchored in Sri Lanka till tomorrow and its
 [Data](articles/ea357c97.json)
 
 [Extended Data](ext_articles/ea357c97.ext.json)
-
----
-
-### Dambulla Sixers eventually won the stunned Dambulla Sixers
-
-*2024-07-10 00:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/188088) · `ta`
-
-Dambulla Sixers clinched a 25-run victory in the 12th match of the Lanka Premier League, thanks to Isuru Udana's second half-century and Samindu Wickremesinghe's efficient batting. Despite losing 8 wickets, they managed 160 runs. In response, Goal Marwals fell short with 135 runs, losing all wickets in 19.4 overs. Udana also set a record for the fastest 9th wicket partnership with Mahish Dixhana.
-
-🟩
-
-Dambulla Sixers won by 25 runs in the 12th match of the 5th Lanka Premier League chapter held at the Dambulla International Cricket Stadium on Tuesday (09).
-
-Dambulla Sixers were expected to win easily as Goal Marwals lost 8 wickets in the 13th over of the upcoming match.
-
-However, the middle -class player Isuru Udana played the action and scored his second half -century.
-
-However, when Samindu Wickremesinghe lost the first ball of the last over of the last over, Dambulla Sixers were sure to win.
-
-Dambulla Sixers scored 160 runs for the loss of 8 wickets in 20 overs.
-
-Samundu Wickremasinghe, a young player who played efficiently and patiently, did not play with 56 runs.
-
-Saminda Wickremasinghe and Dilshan Madushank (2) were the best combined in the Dambulla Sixers innings in the 8th wicket.
-
-Nadishan took 3 wickets for 16 runs and 2 wickets for 16 runs.
-
-In reply, Goal Marwals lost all the wickets in 19.4 overs and lost 135 runs.
-
-...
-
-[Data](articles/68764ca4.json)
-
-[Extended Data](ext_articles/68764ca4.ext.json)
 
 ---

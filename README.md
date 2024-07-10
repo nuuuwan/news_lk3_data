@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 09:35:32**
+As of **2024-07-10 09:54:42**
 
 ## Newspaper Stats
 
-*Scraped **34,527** Articles*
+*Scraped **34,533** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,122 @@ economynextcom | 2,037
 dailyftlk | 2,167
 adalk | 3,103
 adaderanalk | 3,961
-tamilmirrorlk | 4,104
+tamilmirrorlk | 4,109
 dailymirrorlk | 4,733
 virakesarilk | 5,397
-adaderanasinhalalk | 5,744
+adaderanasinhalalk | 5,745
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,527 (100.0%) of 34,527 articles have been extended.
+34,527 (100.0%) of 34,533 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### රුසියානු - යුක්‍රේන යුද්ධයට ගිය ලාංකිකයින් ගැන අලුත් කතාවක්
+
+*2024-07-10 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198661) · `si`
+
+රුසියානු - යුක්‍රේන යුද්ධයට සම්බන්ධ වූ  ශ්‍රී ලාංකිකයින් සම්බන්ධයෙන් පැමිණිලි 464ක් ලැබී ඇති බව තාරක බාලසූරිය රාජ්‍ය අමාත්‍යවරයා පවසයි.
+
+◼️
+
+[Data](articles/16ea9f2c.json)
+
+---
+
+### ஜனாதிபதித் தேர்தலுக்கு தேர்தல் ஆணையம் தயாராகி வருகிறது
+
+*2024-07-10 09:32:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலுக்கு-தேர்தல்-ஆணையம்-தயாராகி-வருகிறது/175-340130) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான ஏற்பாடுகள் தொடர்பில் ஆராய்வதற்கான கூட்டம் தேர்தல்கள் ஆணைக்குழுவில் செவ்வாய்க்கிழமை (09) நடைபெற்றது.
+
+அரச அச்சகப் பிரதிநிதிகள், பொலிஸ் மா அதிபர், தபால் மா அதிபர் ஆகியோர் இதில் கலந்து கொண்டனர்.
+
+5 தேர்தல்களை நடத்துவதற்கு போதுமான பொருட்கள் இருப்பதாக அரசு அச்சுப்பொறி திணைக்களம் உறுதிப்படுத்தியுள்ளது. முந்தைய தேர்தல்களுடன் ஒப்பிடுகையில், அச்சிடும் செலவில் கணிசமான அதிகரிப்பு (நான்கு மடங்கு) இருப்பதாகவும் அரசாங்க அச்சக அதிகாரி ஆணைக்குழுவிடம் தெரிவித்தார்.
+
+தேர்தல் முடிவடையும் வரை வேட்புமனு தாக்கல் செய்யும் காலத்தை உள்ளடக்கிய விரிவான பாதுகாப்பு ஏற்பாடுகளை பொலிஸ் மா அதிபர் உறுதியளித்தார்.
+
+வாக்குச் சீட்டு விநியோகம் உட்பட தேர்தல் தொடர்பான அனைத்து நடவடிக்கைகளுக்கும் சுமூகமான நடவடிக்கைகள் மேற்கொள்ளப்படும் என தபால் மா அதிபர் ஆணையத்திற்கு உறுதியளித்தார்.
+
+...
+
+[Data](articles/de0edbce.json)
+
+---
+
+### பாதுகாப்புக்கு உத்தரவாதம் கேட்கிறார் சிறிதரன்
+
+*2024-07-10 09:20:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்புக்கு-உத்தரவாதம்-கேட்கிறார்-சிறிதரன்/175-340129) · `ta`
+
+என்னையும் எனது குடும்பத்தையும் இலக்கு வைத்து அச்சுறுத்தும் செயற்பாடுகள் முன்னெடுக்கப்படுவதால் எனதும் எனது குடும்பத்தின் பாதுகாப்புக்கும் சபாநாயகர் உத்தரவாதம் அளிக்க வேண்டும் என இலங்கை தமிழரசுக்கட்சியின் யாழ். மாவட்ட எம்.பி.யான சிவஞானம் சிறிதரன் வேண்டுகோள் விடுத்தார்.
+
+பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (09)  இடம்பெற்ற இலங்கை தொலைத்தொடர்பு திருத்த சட்டமூலத்தின் இரண்டாம் வாசிப்பு மீதான விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு சபாநாயகரிடம் வேண்டுகோள் விடுத்த அவர் மேலும் பேசுகையில்,
+
+இந்துக்கல்லூரி ஒழுங்கை, யாழ்ப்பாணம் என்னும் முகவரியில் அமைந்துள்ள எனது வதிவிட இல்லத்திற்கு முன்னால் கடந்த 28 ஆம் திகதி  கருப்புத்துணியால் இலக்கத்தகடுகள் மறைக்கப்பட்ட 4 மோட்டார் சைக்கிள்கள் வந்துநின்றன.
+
+வெள்ளிப்பிடியிட்ட வாள்கள் ,கூரிய ஆயுதங்களுடன் முகமூடி அணிந்து வந்த 12 பேர் பாடசாலை நேரமான காலை 8 .05 மணியளவில்   நடமாடினர். இந்த நடமாட்டம் எனது குடும்பத்தினரையும் அவ்வீதியில் வசிக்கும் ஏனைய பொது மக்களையும் அச்சுறுத்தும் வகையில் அமைந்திருந்ததை இந்த சபையின் கவனத்திற்கு கொண்டு வருகின்றேன்.
+
+...
+
+[Data](articles/9c4f452e.json)
+
+---
+
+### மின் கட்டணம் பற்றிய புதிய அறிவிப்பு
+
+*2024-07-10 09:18:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணம்-பற்றிய-புதிய-அறிவிப்பு/175-340128) · `ta`
+
+மின்சாரக் கட்டண திருத்தம் தொடர்பில் பொதுமக்களின் கருத்துக்களை ஆராய்ந்த பின்னர் இறுதித் தீர்மானம் எதிர்வரும் ஜூலை 15 ஆம் திகதி அறிவிக்கப்படும் என பொதுப் பயன்பாடுகள் ஆணைக்குழுவின் தலைவர் பேராசிரியர் மஞ்சுள பெர்னாண்டோ தெரிவித்துள்ளார்.
+
+இதற்கு முன்னர் பதிவு செய்த பல்வேறு தொழிற்துறைகளை பிரதிநிதித்துவப்படுத்தும் 46 பிரதிநிதிகளிடம் கருத்துக்கள் பெறப்பட்டதாக குறிப்பிட்டார்.
+
+எதிர்காலத்தில் மேற்கொள்ளப்படும் மின்சாரக் கட்டணத் திருத்தங்கள் தொடர்பான முன்மொழிவுகளை இலங்கை மின்சார சபை, பொதுப் பயன்பாடுகள் ஆணைக்குழுவிடம் சமர்ப்பித்துள்ளது.
+
+அதன்படி, குடும்ப அங்கத்தவர்களின் கட்டணத்தில் 25.5% குறைப்பும், மத மற்றும் தொண்டு நிறுவனங்களுக்கு 3% குறைக்கப்படும்.
+
+எவ்வாறாயினும், இந்த முன்மொழிவுகளின்படி, ஹோட்டல் மற்றும் தொழில்துறை துறைக்கான கட்டணக் குறைப்பு எதுவும் முன்மொழியப்படவில்லை. R
+
+◼️
+
+[Data](articles/7dd23d12.json)
+
+---
+
+### ’தேயிலையை மாத்திரம் நம்பியிருக்கவில்லை’
+
+*2024-07-10 09:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேயிலையை-மாத்திரம்-நம்பியிருக்கவில்லை/175-340127) · `ta`
+
+பெருந்தோட்ட மக்களை தொடர்ந்து துன்புறுத்தினால் பல்லாயிரம் கணக்கானோர் வீதிக்கு இறங்குவார்கள்.பெருந்தோட்ட மக்கள் தேயிலை தொழிற்றுறையை மாத்திரம் நம்பியிருக்கவில்லை என்பதை அனைவரும் விளங்கிக் கொள்ள வேண்டும் என இலங்கை தொழிலாளர் காங்கிரஸின் பொது செயலரும் நீர் வழங்கல் மற்றும் பெருந்தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்தார்..
+
+ஜனாதிபதி வேட்பாளரும் ஹேலிஸ் நிறுவன  உரிமையாளருமான தம்மிக்க பெரேராவே  1,700 ரூபாய் சம்பளத்தை எதிர்க்கிறார். இவரது மூன்று பெருந்தோட்ட நிறுவனங்கள் மாத்திரம் 3000 மில்லியனுக்கும் அதிகமாக இலாபமடைந்துள்ளன என்றார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (09)  இடம்பெற்ற இலங்கை தொலைத்தொடர்பு (திருத்தச்) சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+
+...
+
+[Data](articles/a9e25d50.json)
+
+---
+
+### ’வேலை வெட்டி இல்லாமல் வரவில்லை’
+
+*2024-07-10 09:07:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலை-வெட்டி-இல்லாமல்-வரவில்லை/175-340126) · `ta`
+
+பொதுமக்கள் பாதுகாப்பு அமைச்சரிடம் 4 ஆண்டுகளுக்கு முன்னர்  என்னால் முன்வைக்கப்பட்ட  கேள்விகளுக்கு இன்றுவரை பதில் கிடைக்கவில்லை. நாங்கள் ஒன்றும் வேலை வெட்டியில்லாமல் காலையில் புறப்பட்டு பாராளுமன்றம் வரவில்லையென  என இலங்கை தமிழரசுக்கட்சியின் மட்டக்களப்பு மாவட்ட எம்.பி. யான   இரா.சாணக்கியன்  சபாநாயகரிடம் கடும் அதிருப்தியை தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (09) இடம்பெற்ற   எம்.பி.யால் பொது மக்கள் பாதுகாப்பு அமைச்சரிடம், நாட்டில் குழப்பகரமான நிலைமைகளைத் தோற்றுவிக்கக் கூடிய செய்திகளை வெளியிடும் பல போலி ஊடகங்கள் இலங்கையில் செயற்படுவதை   அமைச்சர் அறிவாரா?,ஆம் எனில் மேற்படி  அந்த ஊடகங்கள் என்ன? பதிவு செய்யப்படாத போலி இணையத்தளங்களைத் தடை  செய்வதற்கான நடவடிக்கைகள் எடுக்கப்படுமா, ஆமெனில் அந்நடவடிக்கைகள் என்ன? இன்றேல் ஏன் என கேள்வியெழுப்பினார்.
+
+இந்த கேள்விகளுக்கு   பதிலளிக்க பொதுமக்கள் பாதுகாப்பு  அமைச்சர் சார்பில் அரச தரப்பு பிரதம கொறடாவான அமைச்சர் பிரசன்ன ரணதுங்க கால அவகாசம் கோரினார்.
+
+...
+
+[Data](articles/86cbebd7.json)
+
+---
 
 ### Many train services are canceled!
 
@@ -58,13 +160,11 @@ As the transport services have been declared as essential services, the strike a
 
 *2024-07-10 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100409/presidents-secretary-responds-to-basls-request-on-attorney-general-appointment) · `en`
 
-President’s Secretary Mr. Saman Ekanayake responded to a letter from the Bar Association of Sri Lanka (BASL) regarding the appointment of the new Attorney General following the retirement of Mr. Sanjay Rajaratnam, PC.
+President’s Secretary Mr. Saman Ekanayake has responded to a letter from the Bar Association of Sri Lanka (BASL) regarding the appointment of the new Attorney General following the retirement of Mr. Sanjay Rajaratnam, PC, according to the President’s Media Division.
 
 Mr. Ekanayake highlighted that the President is constitutionally empowered, under Article 41C of the Constitution, to appoint the Attorney General with the approval of the Constitutional Council.
 
 He emphasized that there is no constitutional requirement to appoint the senior-most officer from the Attorney General’s Department to this position based on seniority. Historically, this practice has not been followed in Sri Lanka, with past appointments such as Sarath N. Silva, PC, and Mohan Peiris, PC, coming from outside the department’s senior ranks.
-
-Additionally, Mr. Ekanayake pointed out the example from 2016 when President Maithripala Sirisena recommended multiple candidates, leading to the Constitutional Council approving Mr. Jayantha Jayasuriya, PC, as Attorney General.
 
 ...
 
@@ -2117,147 +2217,5 @@ This time the GCE A / L examination will be held from November 25 to December 20
 [Data](articles/a72dbf2f.json)
 
 [Extended Data](ext_articles/a72dbf2f.ext.json)
-
----
-
-### Hon.
-
-*2024-07-09 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/188064) · `ta`
-
-In response to the economic challenges, the government has approved a special salary increase and certificates for non-government officials working on July 8 and 9, 2024. This decision follows the Cabinet's approval and aims to recognize their efforts during critical times. However, due to financial constraints, the government cannot extend this benefit to all public servants without imposing additional taxes. Despite the limitations, the government acknowledges the importance of rewarding non-government officials for their dedication while maintaining fiscal responsibility.
-
-🟩
-
-Today, the President of the country today understands the current economic situation, and to provide a special salary increase for all non -government officials who have been assigned to the duties on July 08 and 09, 2024, and to provide a special certificate for future promotions.(09) The Cabinet has approved the proposed recommendation.
-
-The Secretary to the Ministry of Public Administration, Home Affairs, Provincial and Local Government has been given the announcement to all the Secretaries, Department Heads and Provincial Secretaries and Provincial Secretaries.
-
-A few trade unions in some non -governmental services of the public service have announced sick holidays and strike union activities on July 08 and 09.
-
-...
-
-[Data](articles/834ba1c0.json)
-
-[Extended Data](ext_articles/834ba1c0.ext.json)
-
----
-
-### Demonstration in Colombo demanding Rs 1,700
-
-*2024-07-09 17:15:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/1-700-ரூபாய்-கேட்டு-கொழும்பில்-ஆர்ப்பாட்டம்/76-340100) · `ta`
-
-Colombo saw protests by plantation workers demanding a daily wage of Rs 1,700, sparked by a Supreme Court order on pay hikes. The demonstration, led by the Ceylon Workers Congress, aimed to highlight the disparity between the wealth generated by the plantation sector and the low wages paid to workers.
-
-🟩
-
-It is alleged that the company has been involved in the process of humiliation of workers following an interim injunction issued by the Supreme Court regarding the day -to -day pay hike of plantation workers.
-
-Plantation workers invaded Colombo and fought for their rights to protest and get a salary of Rs 1,700.
-
-The struggle took place on Tuesday (09) in front of the Plantation Cultivation Archive in Bambalapitiya.
-
-The struggle was held by the National Organizer of the Ceylon Workers Congress. Sakthivel presided over.
-
-Commenting on it, AP Chathivel said, “As workers are sweating, plantation sector and companies are getting hundreds of thousands of rupees monthly.
-
-When they exploit the labor of workers and when they pay millions. It is reprehensible that some estate companies refuse to pay Rs 1,700 per day for plantation workers to live.
-
-...
-
-[Data](articles/806e55d9.json)
-
-[Extended Data](ext_articles/806e55d9.ext.json)
-
----
-
-### Sri Lanka to reward public sector officials who did not strike
-
-*2024-07-09 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-reward-public-sector-officials-who-did-not-strike-171448/) · `en`
-
-ECONOMYNEXT – Sri Lanka will grant a special pay increment to non-executive government officials who reported for duty on July 8 and 9, despite an ongoing trade union action.
-
-They will also be issued a commendation certificate for future promotions, the president’s media division said.
-
-“Non-executive government employees, who reported for duty on July 8 and 9, 2024, will be granted a special salary increment as a token of appreciation for their dedication during a challenging economic period.”
-
-President Ranil Wickremesinghe’s proposal to the Cabinet on the above was approved by the Cabinet today.
-
-Parts of the country’s public sector went on strike, or reported sick, yesterday and today causing immense inconvenience to people.
-
-The government earlier this year provided a monthly allowance of 10,000 rupees to all public servants.
-
-...
-
-[Data](articles/1c6245c5.json)
-
-[Extended Data](ext_articles/1c6245c5.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 303.90/304.50 to US dollar
-
-*2024-07-09 17:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-303-90-304-50-to-us-dollar-171442/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed slightly stronger at 303.90/304.50 to the US dollar on Tuesday, down from 304.35/50 to the US dollar on Monday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed stable at 10.70/85 percent.
-
-A bond maturing on 15.09.2029 closed at 12.05/10 percent, up from 11.98/12.08 percent.
-
-A bond maturing on 01.10.2032 closed at 12.25/35 percent. (Colombo/Jul9/2024)
-
-◼️
-
-[Data](articles/366a2b28.json)
-
-[Extended Data](ext_articles/366a2b28.ext.json)
-
----
-
-### Information about the firearms of Club Wasantha's wife
-
-*2024-07-09 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198643) · `si`
-
-Club Wasantha's wife, hospitalized in Athurugiriya, was found with an illegal firearm. The IGP announced this during the Children's and Women's Bureau's new building opening. Defense Minister Tiran Alles assured that criminals would be apprehended soon, including those operating from abroad.
-
-🟩
-
-The wife of Club Wasantha, who was admitted to Athurugiriya, was revealed that a non-legitimate firearm.
-
-The IGP was speaking at the opening ceremony of the new building of the Children's and Women's Bureau.
-
-The Defense Minister Tiran Alles also stated that the criminals cannot be hidden and the criminals will be arrested soon.
-
-He also said that the crime was also led from a foreign country and had been shooting, he said.
-
-◼️
-
-[Data](articles/3d622db0.json)
-
-[Extended Data](ext_articles/3d622db0.ext.json)
-
----
-
-### Saturn. Paid
-
-*2024-07-09 16:53:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனி-ஞாயிறு-மாத்திரம்-வஞ்சம்-தீர்க்கும்-பாம்பு/175-340099) · `ta`
-
-In a rare case from Uttar Pradesh, India, Vikas Dubey, aged 24, was bitten by snakes six times within 35 days, starting from June 2. Despite being hospitalized each time, including once when staying at a relative's house, the incidents continued. The pattern emerged: Vikas was bitten on Saturdays and Sundays, leading him to believe he might be attracting them. This unusual series of events has garnered significant attention.
-
-🟩
-
-It is widely talked about among the people as a verbal story that snakes are bite.But there was an incident in Badebur district of Uttar Pradesh, India.
-
-Vikas Dubey (age 24) from Saura village. In the last 35 days, he has bite from poisonous snakes 6 times.
-
-The snake was bitten for the first time while Vikas Dubay was lying on the couch on June 2. He was immediately taken to the hospital and survived after treatment.
-
-Thus, from June 2 to July 7, the snakes have been bitten by Vikas Dubey six times. Parents have sent him to a relative's house that the snake bites if he is at home. But for the 5th time the snake bites him at the relative's house.
-
-...
-
-[Data](articles/31468996.json)
-
-[Extended Data](ext_articles/31468996.ext.json)
 
 ---

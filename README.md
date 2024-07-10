@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 03:35:04**
+As of **2024-07-11 03:53:51**
 
 ## Newspaper Stats
 
@@ -26,43 +26,57 @@ adaderanasinhalalk | 5,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,680 (100.0%) of 34,683 articles have been extended.
+34,683 (100.0%) of 34,683 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### ஜனாதிபதி தேர்தலை நடத்துவதன் அவசியம் : சபை ஒத்திவைப்பு விவாதம் இன்று
+### The necessary presidential election is necessary: ​​The House adjournment debate today
 
 *2024-07-11 03:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/188175) · `ta`
 
-சட்டரீதியான ஏற்பாடுகளுக்கு அமைய உரிய காலத்தில் ஜனாதிபதித் தேர்தலை நடத்துவது பற்றிய ஒத்திவைப்பு விவாதம் வியாழக்கிழமை (11) இடம்பெறவுள்ளது. எதிர்க்கட்சியினர் முன்வைத்த பிரேரணைக்கு அமைய இந்த விவாதம் நடத்தப்படவுள்ளது.
+A debate on postponing the presidential election, proposed by the opposition, will be held on Thursday, led by Speaker Mahinda Yapa Abeywardena. The proposal suggests holding the election between September 17 and October 16, 2024. This decision follows a parliamentary affairs meeting and will precede discussions on the Animal Welfare Bill.
 
-சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் புதன்கிழமை (10) இடம்பெற்ற பாராளுமன்ற அலுவல்கள் பற்றிய குழுக்கூட்டத்தில் இத் தீர்மானம் எடுக்கப்பட்டது.
+🟩
 
-அரசியலமைப்பு மற்றும் ஏனைய பொருத்தப்பாடுடைய சட்டங்களின் தேவைப்பாடிற்கிணங்க 2024 செப்டெம்பர் 17 முதல் ஒக்டோபர் 16 வரையான காலப் பகுதியில் ஜனாதிபதித் தேர்தலை நடத்துவது தொடர்பாக தேசிய மக்கள் சக்தியின் தலைவர்  அநுரகுமார திஸாநாயக்க மற்றும் எதிர்க்கட்சி முதற்கோலாசான் லக்ஷ்மன் கிரியெல்ல ஆகியோரினால் கூட்டாக முன்வைக்கப்பட்ட பிரேரணைக்கு அமைய இந்த ஒத்திவைப்பு விவாதம் நடத்தப்படவுள்ளது.
+The postponement debate on the presidential election will be held on Thursday (11) in accordance with legal arrangements.. The debate will be held in accordance with the proposal put forward by the opposition.
 
-...
+The decision was taken at a meeting on Parliamentary Affairs held on Wednesday (10) under the leadership of Speaker Mahinda Yapa Abeywardena.
+
+The proposal is to be launched by the National People's Power Leader Anura Kumara Dissanayake and Opposition Leader Lakshman Kiriella to hold the presidential election in the period from September 17 to October 16, 2024 to October 16.
+
+Accordingly, on Thursday (11), after the Questionnaire Questionnaire,. From 10.30 to B.. It has been decided to hold a debate until 5.30. It was also decided to take up the Animal Welfare Bill, which was to be taken up for debate, for the next day.
+
+◼️
 
 [Data](articles/9445299c.json)
 
+[Extended Data](ext_articles/9445299c.ext.json)
+
 ---
 
-### கொக்குத்தொடுவாய் ஆறாம் நாள் அகழ்வுப் பணி: 7 மனித உடல் பாகங்கள், சில மனித ஆடைகள், இராணுவத்தால் பாவிக்கப்படும் கம்பிகள் மீட்பு!
+### Kokkuttuwai Sixth Day Excavation work: 7 human body parts, some human dresses, wires used by the military!
 
 *2024-07-11 03:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188174) · `ta`
 
-கொக்குத்தொடுவாய் மனிதப் புதைகுழியின் அகழ்வுப் பணியின் மூன்றாம் கட்டத்தில் ஆறாம் நாள் அகழ்வு புதன்கிழமை (10) இடம்பெற்றது.
+On the sixth day of excavation at Kokkuttuwai, seven human body parts and military-related items were discovered, alongside human attire. The UN's Human Rights Officer supervised the work, which included further analysis of women's clothing scheduled for the next day. Professor Somadeva's team, along with a forensic police legal officer, participated in the study.
 
-குறித்த அகழ்வின் போது பார்வையாளராக 10ஆம் திகதி புதன்கிழமையும் ஐக்கிய நாடுகள் சபையின் இலங்கை அலுவலகத்தின் மனித உரிமைகளுக்கான அதிகாரி லூடியானா செல்றினி அகிலன் அவர்களும் இந்த அகழ்வுப் பணிகளை மேற்பார்வை செய்திருந்தார்.
+🟩
 
-இந்த அகழ்வு பணியின் போது 09, 10 ஆம் திகதிகளில் 7 மனித உடல் பாகங்கள் ,சில மனித ஆடைகள் மற்றும் இராணுவத்தால் பாவிக்கப்படும் கம்பி மேலும் சில பொருட்கள் கண்டுபிடிக்கப்பட்டுள்ளது. அத்துடன் ஆடைகளில் பெண்களுக்குரிய உள் ஆடைகள் காணப்படுகின்றது தொடர்பான மேலதிக ஆய்வுகள் நாளை நடைபெற இருக்கின்றது.
+The sixth day excavation took place on Wednesday (10) in the third phase of the excavation work of the Kokkuttuwai human burial ground.
 
-புதன்கிழமை (10) அகழ்வ பணிகளை பேராசிரியர் சோமதேவா குழுவினர் மேற்கொண்டனர் அத்துடன் சட்ட வைத்திய அதிகாரி வாசுதேவா தடயவியல் பொலிஸாசார் உள்ளிட்ட தரப்பினரும் இந்த ஆய்வுகளில் பங்கேற்றிருந்தனர்.
+During the excavation, Ludaiana Selryni Akhilan, the Human Rights Officer of the United Nations Office of the United Nations Sri Lanka Office, also supervised the excavation work during the excavation.
+
+During this excavation work, 7 human body parts, some human dresses and the military used by the military have been found on the 9th and 10th. Further studies on women's inner garments are to be held tomorrow.
+
+Professor Somadeva's team carried out excavations on Wednesday (10) and participated in the study, including legal officer Vasudeva Forensic Police.
 
 ◼️
 
 [Data](articles/c92a1d25.json)
+
+[Extended Data](ext_articles/c92a1d25.ext.json)
 
 ---
 
@@ -90,19 +104,27 @@ When I was not in the congregation some allegations were made on me. A Member of
 
 ---
 
-### மனைவியுடனான பிரச்சினையால் பலர் மதுபானங்களை அருந்துகிறார்கள்; விலைகளை குறைத்து மகிழ்விக்க வேண்டும் - சாமர சம்பத் வலியுறுத்தல்
+### Many people drink alcohol because of the problem with the wife;To slow down prices -Emphasis on Samara Sampath
 
 *2024-07-11 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/188173) · `ta`
 
-மனைவியுடனான பிரச்சினையால் பலர் மதுபானங்களை அருந்துகிறார்கள். மதுபானங்களின் விலையேற்றத்தால் சட்டவிரோத கசிப்பு உற்பத்தி அதிகரித்துள்ளது.கடலில் மிதந்து வரும் திரவத்தை அருந்து உயிரிழக்கிறார்கள். ஆகவே மதுபானங்களின் விலைகளை குறைத்து மது அருந்துபவர்களை மகிழ்விக்க வேண்டும் என கைத்தொழில் இராஜாங்க அமைச்சர் சாமர சம்பத் தெரிவித்தார்.
+Alcohol consumption rises due to marital issues, exacerbated by price hikes. Minister Samara Sampath urges lowering liquor costs to curb addiction and illegal production, highlighting a 50 billion rupee loss from the Liquor Department in Q1. High prices lead to social issues and a decline in legal consumption, boosting illegal alcohol trade, even causing deaths. Despite IMF advice against tax cuts, Sampath advocates for local solutions.
 
-பாராளுமன்றத்தில் புதன்கிழமை (10) இடம்பெற்ற  மது வரி கட்டளைச் சட்டம் மற்றும் ஏற்றுமதி,இறக்குமதி கட்டுப்பாட்டுச் சட்டங்கள் குறித்த வர்த்தமானி அறிவித்தல்கள் தொடர்பான விவாதத்தில் உரையாற்றும் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-மதுவரி  சட்டங்களை திருத்துவதாலும்,புதிதாக மதுபான சாலைகளுக்கு அனுமதி வழங்குவதாலும் பொருளாதார நெருக்கடிக்கு தீர்வு காண முடியாது.மதுபானங்களின் விலை அதிகரிப்பு தொடர்பில் நான் தொடர்ந்து சபையில்  உரையாற்றியுள்ளேன்.மதுபானங்களின் விலை அதிகரிப்பால் சட்டவிரோத கசிப்பு உற்பத்தி தீவிரமடைந்துள்ளன.
+Many people drink alcohol because of the problem with spouse. Illegal leakage production has increased due to the rise of liquor.. The Minister of Industry and the Minister of Industry, Samara Sampath, said that the prices of liquor should be reduced and entertained by alcoholics.
+
+He said this while addressing a debate on the Gazette Notifications on the Liquor Tax Ordinance and Export and Import Control Act in Parliament on Wednesday (10).
+
+I have continued to address the rise in the price of alcoholism.
+
+The Department of Liquor has lost 50 billion rupees in the first quarter of this year due to the increase in prices of liquor.. 60 lakhs of people drink alcohol in total population.. With the increase in the price of high -priced liquor bottles, there have been massive problems in the social structure.
 
 ...
 
 [Data](articles/603aa253.json)
+
+[Extended Data](ext_articles/603aa253.ext.json)
 
 ---
 

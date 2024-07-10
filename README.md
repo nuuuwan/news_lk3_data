@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 07:48:27**
+As of **2024-07-10 07:26:50**
 
 ## Newspaper Stats
 
-*Scraped **34,512** Articles*
+*Scraped **34,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,034
 dailyftlk | 2,167
-adalk | 3,102
+adalk | 3,101
 adaderanalk | 3,960
-tamilmirrorlk | 4,102
+tamilmirrorlk | 4,101
 dailymirrorlk | 4,733
 virakesarilk | 5,396
 adaderanasinhalalk | 5,738
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,738
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,494 (99.9%) of 34,512 articles have been extended.
+34,494 (100.0%) of 34,510 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -40,13 +40,13 @@ Train operations have been disrupted owing to the trade union action launched by
 
 The Railway Department said that several trains have been cancelled while limited trains are in operation due to the strike.
 
-However, steps have been taken to operate two trains each from Colombo Fort to Negombo and Veyangoda, two trains from Polgahawela to Fort, three trains from Galle to Fort and one train from Aluthgama to Fort, the department said.
-
-Meanwhile, it is reported that Railway Controllers have decided to support the trade union action initiated by Station masters.
-
-The Sri Lanka Railways Station Masters’ Union had decided to launch a strike action from midnight yesterday (09) based on several demands including promotions.
+The Sri Lanka Railways Station Masters’ Union had decided to launch a strike action from midnight yesterday (09).
 
 As a result, several trains including the night mail trains to and from Colombo Fort and Badulla, to and from Trincomalee, to and from Batticaloa and night mail train to Rambukkana were cancelled, the department said.
+
+However, the Secretary of the Ministry of Transport Ranjith Rubasinghe emphasised that since public transport including railway services have been declared as essential services, the strike launched by the Station Masters’ Union is illegal.
+
+Furthermore, he stated that strict disciplinary action would be taken against those who are not reporting for duty.
 
 ...
 
@@ -537,22 +537,6 @@ Later, Premalatha was comforted by Vijayakanth and son Shanmukha Pandiyan. Subse
 [Data](articles/c8d258a5.json)
 
 [Extended Data](ext_articles/c8d258a5.ext.json)
-
----
-
-### கொழும்புத் துறைமுகத்தில் போர்க்கப்பல்
-
-*2024-07-10 01:25:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்புத்-துறைமுகத்தில்-போர்க்கப்பல்/175-340121) · `ta`
-
-துருக்கிய கடற்படையின் டி.சி.ஜி கினாலியாடா கப்பல் உத்தியோகபூர்வ விஜயம் ஒன்றிற்காக கொழும்பு துறைமுகத்தை வந்தடைந்துள்ளது.
-
-152 மாலுமிகளைக் கொண்ட இந்தக் கப்பலின் கட்டளை அதிகாரியாக செர்கன் டோகன் என்பவர் கடமையாற்றுகிறார். டோகனுக்கும் மேற்கு கடற்படை கட்டளைத் தளபதி ரியர் அட்மிரல் சமன் பெரேராவுக்கும் இடையிலான உத்தியோகபூர்வ சந்திப்பொன்றும் இங்கு இடம்பெற்றுள்ளது.
-
-குறித்த கப்பல் நாளை வரை இலங்கையில் நங்கூரமிட்டிருக்கும் என்றும், அதன் மாலுமிகள் இலங்கையின் முக்கிய இடங்களைப் பார்வையிட பல பகுதிகளுக்குச் செல்ல திட்டமிடப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகிறது. (a)
-
-◼️
-
-[Data](articles/ea357c97.json)
 
 ---
 
@@ -1097,22 +1081,6 @@ The Department of Examinations said that the time of applying for any reason wou
 [Data](articles/0f129120.json)
 
 [Extended Data](ext_articles/0f129120.ext.json)
-
----
-
-### ජ්‍යෙෂ්ඨතම නිලධාරියා නීතිපති කරන්න ව්‍යවස්ථාපිත අවශ්‍යතාවක් නෑ
-
-*2024-07-09 19:15:44* · [`adalk`](https://www.ada.lk/breaking_news/ජ්‍යෙෂ්ඨතම-නිලධාරියා-නීතිපති-කරන්න-ව්‍යවස්ථාපිත-අවශ්‍යතාවක්-නෑ/11-410703) · `si`
-
-ජ්‍යෙෂ්ඨත්වය මත පදනම්ව නීතිපති දෙපාර්තමේන්තුවේ සිටින ජ්‍යෙෂ්ඨතම නිලධාරියා නීතිපති ධූරය සඳහා පත්කිරීමේ ව්‍යවස්ථාපිත අවශ්‍යතාවක් නොමැති බව ජනාධිපති ලේකම් සමන් ඒකනායක මහතා පවසයි.
-
-මින් පෙර එවැන්නක් සිදුවී නොමැති බව ද ඒ මහතා සඳහන් කරයි. ජ්‍යෙෂ්ඨත්වය මත නීතිපතිවරයා පත්කිරීම සම්බන්ධයෙන් ශ්‍රී ලංකා නීතිඥ සංගමය විසින් ජනාධිපතිවරයා වෙත යොමුකළ ලිපියකට ප්‍රතිචාර දක්වමින් ජනාධිපති ලේකම් සමන් ඒකනායක මහතා මේ බව පෙන්වා දී තිබේ.
-
-නීතිපති ධූරය සඳහා වෙනත් සුදුසුකම්ලාභීන් සිටියදී එක් පුද්ගලයෙකු වෙනුවෙන් පමණක් ශ්‍රී ලංකා නීතීඥ සංගමය පෙනී නොසිටිය යුතු බව ද මෙම ලිපිය මගින් වැඩිදුරටත් සඳහන් කර ඇත.
-
-◼️
-
-[Data](articles/af5cee8d.json)
 
 ---
 
@@ -2187,5 +2155,45 @@ Sri Lanka has reached a consensus for $ 10 million at the end of June with count
 [Data](articles/0128ba18.json)
 
 [Extended Data](ext_articles/0128ba18.ext.json)
+
+---
+
+### Seven suspects arrested for murder
+
+*2024-07-09 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198639) · `si`
+
+Seven individuals, including one from the TTO Center, have been arrested in relation to the murder of Klub Wasantha Wasantha Perera.
+
+🟩
+
+Seven, including 07, including the TTO Center, has been arrested in connection with the TTO Center regarding the shout of Klub Wasantha Wasantha Wasantha Perera.
+
+◼️
+
+[Data](articles/4e1f98d3.json)
+
+[Extended Data](ext_articles/4e1f98d3.ext.json)
+
+---
+
+### Turkish naval ship to conduct passage exercise with Sri Lanka Navy
+
+*2024-07-09 15:30:00* · [`economynextcom`](https://economynext.com/turkish-naval-ship-to-conduct-passage-exercise-with-sri-lanka-navy-171421/) · `en`
+
+ECONOMYNEXT – The Turkish Naval Force ship TCG Kinaliada called at the Colombo port on a formal visit on Monday morning (9).
+
+TCG Kinaliada will engage in a passage exercise (PASSEX) with a Sri Lanka Navy ship in Colombo seas before departure on July 11, the Navy said in a statement.
+
+The PASSEX will test cooperation, communication and interoperability between the two navies, including ship maneuvering and procedures.
+
+The 99.5m long ship is manned by 152 crew members and commanded by Serkan Dogan. The crew are expected to visit tourist attractions in the country.
+
+Sri Lanka temporarily halted foreign research ships after India and the United States raised security concerns following the visit of two Chinese research vessels in 14 months. Foreign research ships can still use the island nation’s ports for replenishments and crew changes.
+
+...
+
+[Data](articles/340287c2.json)
+
+[Extended Data](ext_articles/340287c2.ext.json)
 
 ---

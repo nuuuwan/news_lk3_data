@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 12:19:40**
+As of **2024-07-10 12:35:24**
 
 ## Newspaper Stats
 
-*Scraped **34,565** Articles*
+*Scraped **34,567** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,52 +19,86 @@ adalk | 3,108
 adaderanalk | 3,971
 tamilmirrorlk | 4,115
 dailymirrorlk | 4,733
-virakesarilk | 5,399
+virakesarilk | 5,401
 adaderanasinhalalk | 5,752
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,559 (100.0%) of 34,565 articles have been extended.
+34,565 (100.0%) of 34,567 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### இந்தியா-பாகிஸ்தான் கால்நடைகள் இலங்கைக்கு
+### India-Pakistan cattle to Sri Lanka
 
 *2024-07-10 12:07:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-பாகிஸ்தான்-கால்நடைகள்-இலங்கைக்கு/175-340145) · `ta`
 
-இலங்கையின் பசும்பால் உற்பத்தித் தொழிலை மேம்படுத்துவதற்காக பசுக்களை வழங்குவதற்கு இந்தியாவும் பாகிஸ்தானும் ராஜதந்திர மட்டத்தில் இணக்கம் தெரிவித்துள்ளன.
+India and Pakistan have agreed to supply cows to Sri Lanka to boost its dairy industry, addressing a shortage of high-milk-producing animals. The move aims to increase daily milk yield from 10 to 60 liters per cow through advanced farming techniques. Cattle breeds like Sahiwal cows, buffalo cows from Pakistan, and Murar will be introduced, as previous imports from New Zealand and Australia did not succeed.
 
-இலங்கையில் பசும்பால் உற்பத்தியை மேம்படுத்தும் வகையில் அதிகளவான பாலை பெறக்கூடிய பசுக்கள் இல்லாதது இலங்கையில் பெரும் பாதிப்பை ஏற்படுத்தியுள்ளதாக விவசாய அமைச்சு தெரிவித்துள்ளது.
+🟩
 
-இலங்கையில் ஒரு பசுவிடமிருந்து இருந்து பெறப்படும் பாலின் அளவு ஒரு நாளைக்கு சுமார் 10 லீற்றர் ஆகும் ஆனால் புதிய விவசாய தொழில்நுட்பத்தின் மூலம் ஒரு பசுவிடமிருந்து ஒரு நாளைக்கு மூன்று வேளை 60 லிட்டர் வரை பால் பெற முடியும் என்று அமைச்சகம் கூறுகிறது.
+India and Pakistan have agreed at diplomatic levels to provide cows to improve Sri Lanka's green milk production industry.
 
-இந்தியா மற்றும் பாகிஸ்தானுடனான பேச்சுவார்த்தையின் படி இந்திய அரசு, சாஹிவால் என்ற வகை பசு மாடுகளையும், பாகிஸ்தான் , முரா என்ற வகை எருமை மாடுகளையும் இலங்கைக்கு வழங்க நடவடிக்கை எடுத்துள்ளது.
+The Ministry of Agriculture has said that the lack of cows that can get more milk in Sri Lanka has been a major impact on the production of milk in Sri Lanka.
 
-...
+The amount of milk derived from a cow in Sri Lanka is about 10 liters per day but the new agricultural technology can get up to 60 liters of milk from a cow to 60 liters a day.
+
+According to negotiations with India and Pakistan, the Government of India has taken steps to provide Sahiwal cows and buffalo cows called Pakistan and Murar.
+
+Cows and buffaloes in Sri Lanka are only in India and Pakistan and a few years ago, even though cows were imported from New Zealand and Australia, those plans have failed.
+
+◼️
 
 [Data](articles/52ec224c.json)
 
+[Extended Data](ext_articles/52ec224c.ext.json)
+
 ---
 
-### ඉන්දියාවෙන් හා පාකිස්තානයෙන් ලංකාවට ගවයින්
+### கடமைக்கு சமூகமளிக்காவிடின் பதவியை விட்டு விலகியவர்களாக கருதப்படுவர் -  ரயில்வே திணைக்களத்தின் பொது முகாமையாளர்
+
+*2024-07-10 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188111) · `ta`
+
+இன்று புதன்கிழமை (10) நண்பகல் 12 மணிக்கு முன்னர் கடமைக்கு சமூகமளிக்காத அனைத்து ரயில் நிலைய அதிபர்களும்  கட்டுப்பாட்டாளர்களும் சேவையில் இருந்து விலகியவர்களாக கருதப்படுவார்கள் என அறிவிக்கப்பட்டுள்ளது.
+
+இன்று நண்பகலுக்குள் கடமைக்கு சமூகமளிக்கத் தவறும் ரயில் நிலைய அதிபர்கள் மற்றும் கட்டுப்பாட்டாளர்கள் பதவியை விட்டு விலகியவர்களாக கருதப்படுவர் என அந்த அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+ரயில் நிலைய அதிபர்கள் மற்றும் ரயில் கட்டுப்பாட்டாளர்களால் இன்று புதன்கிழமை வேலை நிறுத்த போராட்டம் முன்னெடுக்கப்படுவதை  ஒட்டி இந்த அறிவிப்பு வெளியிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/46180a03.json)
+
+---
+
+### Cattle to Sri Lanka from India and Pakistan
 
 *2024-07-10 12:01:32* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවෙන්-හා-පාකිස්තානයෙන්-ලංකාවට-ගවයින්/11-410711) · `si`
 
-කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා මෙරට ඉන්දීය තානාපති හා පකිස්ථාන මහකොමසාරිස්වරයා  සමග කළ සාකච්ඡාවල දී ඉන්දීය හා පාකිස්ථානු වැඩි දියුණු කළ එළ ගවයින් හා මී ගවයින් ලබා ගැනීම සම්බන්ධව සාකච්ඡා කළ බවත්,මෙරටට මී ගවයින් හා එළ ගවයින් ලබා දීමට ඉන්දියාව හා පකිස්ථානය දෙරටම  රාජ්‍ය තාන්ත්‍රික මට්ටමින් එකඟත්වය පළ කර ඇති බවත්  කෘෂිකර්ම අමාත්‍ය මහින්ද අමරවීර මහතා සඳහන් කරයි.
+Sri Lanka plans to import high-milk-producing cattle from India and Pakistan to boost its dairy industry, addressing a milk shortage exacerbated by outdated farming methods. The Minister of Agriculture, Mahinda Amaraweera, discussed agreements with Indian and Pakistani diplomats, aiming to enhance milk production through modern agricultural techniques. This initiative is part of the government's strategy to support the dairy sector, expected to receive significant support from both countries, with the first batch of cows arriving soon.
 
-ශ්‍රී ලංකාවේ කිරි කර්මාන්තය නංවාලීම සඳහා වැඩි කිරි ප්‍රමාණයක් ලබා ගත හැකි ගවයින්ගේ හිඟකම අප රටට විශාල බලපෑමක් එල්ල කර තිබේ.
+🟩
 
-අප රටේ සිටින මී ගවයින් සහ එළ ගවයින්ගෙන් එක් ගවයෙකුගෙන් දිනකට ලබා ගන්නා කිරී ප්‍රමාණය ලීටර් 10ක් පමණ වේ. නමුත් නව කෘෂි තාක්ෂණය ඔස්සේ එක් ගවයෙකුගෙන් දිනකට තුන්වරක් කිරි ලීටර් 60ක් දක්වා ලබා ගැනීමට හැකියාව පවතී.
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera discussed Indian Ambassador and Pakistan High Commissioner in Sri LankaMinister of Agriculture Mahinda Amaraweera says that the agreement has been agreed at level.
 
-මෙම තත්ත්වය සැළකිල්ලට ගනිමින්  ලබන වසරේ දී කිරි කර්මාන්තය ප්‍රවර්ධනය සඳහා ප්‍රමුඛත්වය ලබා දීමට රජය තීරණය කර තිබේ. එම ඉළක්කය ජයගැනීම සඳහා මේ වනවිට පියවර රැසක් රජය විසින් ගෙන ඇති බව අමාත්‍යවරයා සඳහන් කළේය.
+The lack of cows that can get more milk in Sri Lanka has a profound effect on our country.
+
+There are about 10 liters of buffaloes and cows in our country. But in new agricultural technology, one cow is able to get up to 60 liters of milk a day.
+
+The government has decided to promote the dairy industry next year. The Minister said that the government has taken several steps to overcome the delay.
+
+Although India and Pakistan is currently following the policy of India and Pakistan, Sri Lanka agreed to provide their cows.
+
+Commissioner of Pakistani High Commissioner in Sri Lanka MAJOR General Faiweera, Minister of Agriculture and Plantation Industries, held discussions with Hon
 
 ...
 
 [Data](articles/f9c06570.json)
+
+[Extended Data](ext_articles/f9c06570.ext.json)
 
 ---
 
@@ -90,19 +124,25 @@ For Sangakkara, the position of Sri Lanka in the cricketing landscape is one key
 
 ---
 
-### වාහන ආනයනය ගැන අලුත්ම දැනුම්දීම
+### Latest Notification of Vehicles
 
 *2024-07-10 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198668) · `si`
 
-රටට ගැටලුවක් ඇති නොවන සුවිශේෂි වැඩපිළිවලක් යටතේ වාහන ආනයනය අරම්භ කිරීමට බලාපොරොත්තු වන බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+State Minister Ranjith Siyambalapitiya announced a new vehicle import program, stating it won't cause issues. The IMF has been consulted regarding vehicle imports, especially for public transport and essential services. A committee will present its report to the Cabinet by mid-August, aiming to start importing vehicles smoothly from the third quarter.
 
-එමෙන්ම ඔහු පවසා සිටියේ වාහන ආනයනය සම්බන්ධයෙන් ජාත්‍යන්තර මූල්‍ය අරමුදලටත් දැනුම්දී ඇති බවය.
+🟩
 
-"අපි ජාත්‍යන්තර මූල්‍ය අරමුදලටත් කථා කරලා දැනුම්දීලා තියෙනවා අපි අගොස්තු මාසයෙන් පස්සේ යම් අනු පිළිවෙළකට... පොදු ප්‍රවාහන සේවා, ප්‍රවාහන සේවා, අනෙකුත් ප්‍රවාහන සේවාවන්ට භාවිත කරන විකල්ප ඉන්පස්සේ සාමාන්‍ය වාහන, ඊට පස්සේ සුඛෝපබෝගී වාහන වැඩපිළිවෙළක් හදනවා කියලා. ඒ නිසා මේ කමිටුව ජුලි මාසේ 04 වනදා රැස්වුණා. ඒ කමිටුව මාසයක් ඇතුළත ඒ කියන්නේ අගෝස්තු මාසයේ දෙවන සතිය වෙනකොට ඔවුන්ගේ වාර්තාව අමාත්‍ය මණ්ඩලයට ඉදිරිපත් කරන්න බලාපොරොත්තු වෙනවා. ඒ අනුව අපි බලාපොරොත්තු වෙනවා යම් සුවිශේෂි අනුපිළිවෙක් කොහොමද අපි වාහන ආනයනය ආරම්භ කරන්නේ මේ රටට ප්‍රශ්නයක් ඇති නොවී."
+State Minister Ranjith Siyambalapitiya says that the importation of vehicles are expected to launch the importation of vehicles under a unique program that is not a problem.
+
+He also said that the International Monetary Fund has informed the import of vehicles.
+
+"We have spoken to the International Monetary Fund and informed us after the month of August.. Optional vehicles used in public transport, transport services, and other transport services that are in general vehicles and then a luxury vehicle program. Therefore, this committee meets 4th of July. The committee is said to be presenting their report to the Cabinet by the second week in August.. Accordingly, we hope how to import vehicles we begin to import vehicles without having a problem for this country. "
 
 ...
 
 [Data](articles/5aecf246.json)
+
+[Extended Data](ext_articles/5aecf246.ext.json)
 
 ---
 
@@ -126,17 +166,43 @@ The State Minister confirmed that compensation requests for those killed in the 
 
 ---
 
-### ’கிளப் வசந்த’வின் மனைவியிடம் துப்பாக்கி
+### The gun club Vasantha's wife gun
 
 *2024-07-10 11:39:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-வின்-மனைவியிடம்-துப்பாக்கி/175-340144) · `ta`
 
-அத்துருகிரிய ஒருவல சந்தியில்  திங்கட்கிழமை (08) பிற்பகல் வேளையில் இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் பிரபல வர்த்தகரான 'கிளப் வசந்த' என்றழைக்கப்படும் உரேந்திர வசந்த பெரேரா கொல்லப்பட்டார். அவருடன் மற்றுமொருவரும் மரணமடைந்துள்ளார்.
+Vasantha Perera, known as 'Club Vasantha,' was shot dead along with another person at Athurugiriya junction. His wife possessed an illegal firearm, leading to investigations into its possession.
 
-இந்த சம்பவம் தொடர்பிலான விசாரணைகள் பல கோணங்களில் முன்னெடுக்கப்பட்டுள்ளன. இந்நிலையில், 'கிளப் வசந்த'வின் மனைவியிடம் அனுமதிப்பெற்றுக்கொள்ளாத சட்டவிரோதமான துப்பாக்கி இருந்தமை கண்டறியப்பட்டுள்ளது. இந்த சட்டவிரோத துப்பாக்கி தொடர்பில் விசாரணைகள் முன்னெடுக்கப்பட்டுள்ளன என்று பொலிஸ் மா அதிபர் தேசபந்து தென்னக்கோன் தெரிவித்தார்.
+🟩
+
+Urandra Vasantha Perera, known as 'Club Vasantha', was killed in the shooting incident at the Athurugiriya junction on Monday afternoon (08) afternoon.. Another person with him has died.
+
+Investigations into the incident have been carried out at several angles. In this case, the wife of 'Club Vasantha' was found to have an illegal gun that was not allowed. Investigations have been carried out in connection with the illegal rifle, said Inspector of Police Deshabandu Tennakoon.
 
 ◼️
 
 [Data](articles/7e50bbbd.json)
+
+[Extended Data](ext_articles/7e50bbbd.ext.json)
+
+---
+
+### இந்தியாவில் பால் ஏற்றி சென்ற பௌசர் - பஸ்  மோதி விபத்து ; 18 பேர் பலி ; 19 காயம்
+
+*2024-07-10 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/188105) · `ta`
+
+இந்தியாவில்   உத்தரபிரதேச மாநிலம் உன்னாவ் மாவட்டத்தில் லக்னோ-ஆக்ராவில் அதிவேக வீதியில் டபுள் டக்கர் பஸ் ஒன்று , பால் ஏற்றி சென்ற பௌசர் மீது மோதிய விபத்தில் சிக்கி 18 பேர் பரிதாபமாக உயிரிழந்தனர்.
+
+இந்த சம்பவம் குறித்து தகவல் கிடைத்ததும், பொலிஸார் சம்பவ இடத்துக்கு விரைந்து வந்து மீட்பு பணியில் ஈடுபட்டுள்ளனர்.
+
+விபத்துக்குள்ளான டபுள் டெக்கர் பஸ்ஸில் பயணித்த 19 பேர் படுகாயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+இச்சம்பவம் இன்று புதன்கிழமை (10) அதிகாலை 5.15 மணியளவில் நடந்ததாக தகவல்கள் வெளியாகி உள்ளன.
+
+இந்த சம்பவம் தொடர்பாக உத்தரபிரதேச முதலமைச்சர் யோகி ஆதித்யநாத், உயிரிழந்தவர்களின் குடும்பத்தினருக்கு இரங்கல் தெரிவித்துள்ளதோடு, காயமடைந்தவர்களுக்கு உரிய சிகிச்சை அளிக்க மாவட்ட நிர்வாகத்திற்கு உத்தரவிட்டுள்ளார். மேலும் அவர்கள் விரைவில் குணமடைய பிரார்த்தனை செய்வதாகவும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/9e9fc79a.json)
 
 ---
 
@@ -160,17 +226,23 @@ As a result, several trains including the office trains and night mail trains to
 
 ---
 
-### වර්ජනයේ නිරත දුම්රිය ස්ථානාධිපතිවරුන්ට හා පාලකවරුන්ට අවසන් නිවේදනයක්
+### Last year announced to station station staffers and governors
 
 *2024-07-10 11:13:05* · [`adalk`](https://www.ada.lk/breaking_news/වර්ජනයේ-නිරත-දුම්රිය-ස්ථානාධිපතිවරුන්ට-හා-පාලකවරුන්ට-අවසන්-නිවේදනයක්/11-410709) · `si`
 
-දුම්රිය සේවාව අත්‍යාවශ්‍ය සේවාවක් බවට ප්‍රකාශයට පත්කර ඇති හෙයින් අද (10දා) මධ්‍යාහ්න 12ට පෙර තම දුම්රිය ස්ථානයට හෝ ආසන්නතම දුම්රිය ස්ථානයට සියලුම දුම්රිය ස්ථානාධිපතිවරුන් හා පාලකවරුන් රාජකාරියට වාර්තා කළ යුතු බව වැඩබලන දුම්රිය සාමාන්‍යාධිකාරි එස්.එස්. මුදලිගේ මහතා අවසන් නිවේදනයක් නිකුත් කරමින් පවසයි.
+Acting railway station manager announced that staff and governors must report by 12nd afternoon. Those who fail to comply will face consequences.
 
-එසේ නොකරන සියලුම දුම්රිය ස්ථානාධිපතිවරුන් හා පාලකවරුන් සේවය හැර ගියා සේ සලකන බවද ඔහු වැඩිදුරටත් සිය නිවේදනයන් පවසයි.
+🟩
+
+Since 12 pm today (10th), the acting railway station and the governors that all station and the governors should report before 12nda.. Mudalige says a final statement.
+
+He further stated that all stations and the goadagers who do not.
 
 ◼️
 
 [Data](articles/5bdba338.json)
+
+[Extended Data](ext_articles/5bdba338.ext.json)
 
 ---
 
@@ -234,21 +306,27 @@ The Fire Brigade stated that several fire trucks have been deployed to douse the
 
 ---
 
-### உயிரை பறித்த ரைஸ் குக்கர்
+### Rice cooker
 
 *2024-07-10 10:58:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரை-பறித்த-ரைஸ்-குக்கர்/175-340142) · `ta`
 
-புத்தளம், மன்னார் வீதி, வேப்பமடு, விழுக்கை எனும் பகுதியில் வசித்து வந்த இரு பிள்ளைகளின் இளம் தாய் ஒருவர் மின்சார தாக்குதலுக்குள்ளாகி பலியானார்.
+In Puttalam, a 28-year-old mother, Babu Dushyanti, died from an electrical shock while using a new rice cooker on Tuesday night. The sudden death investigation is ongoing.
 
-பாபு துஷ்யந்தி (வயது 28) என்பவரே மின்சார தாக்குதலுக்குள்ளாகி புதன்கிழமை (10) அதிகாலை  பலியாகியுள்ளார்.
+🟩
 
-இப்பெண்மணி புதிதாக வாங்கிய ரைஸ் குக்கரில் செவ்வாய்க்கிழமை (09) இரவு சோறு சமைக்க முயற்சித்த போது மின்சாரம் தாக்குள்ளாகி உயிரிழந்துள்ளார்.
+A young mother of two children living in Puttalam, Mannar Road, Veppamadu and Velukkai was killed when a young mother was killed.
 
-புத்தளம் தள வைத்தியசாலையில் புதன்கிழமை (10) காலை  புத்தளம் மற்றும் கற்பிட்டி பிரதேசத்துக்கான திடீர் மரண விசாரணை அதிகாரி பீ.எம். ஹிசாம் முன்னிலையில் பிரேத பரிசோதனை மற்றும் விசாரணைகள் இடம்பெற்றதன் பின்னர் மரண விசாரணை அதிகாரி பீ.எம். ஹிசாம் சடலத்தை உறவினர்களிடம் ஒப்படைத்தார்.
+Babu Dushyanti (age 28) was killed in an electric attack on Wednesday morning.
+
+The woman was killed when she tried to cook rice on Tuesday night (09) in the newly acquired Rice cooker.
+
+Sudden Death Investigation Officer for Puttalam and Kalpitiya. Death Inquiry Officer PM after post -mortem and investigations in the presence of Hizam. Hizam handed over the body to relatives.
 
 ◼️
 
 [Data](articles/3738fef9.json)
+
+[Extended Data](ext_articles/3738fef9.ext.json)
 
 ---
 
@@ -2141,55 +2219,5 @@ Meanwhile, the Welfare Benefits Council has introduced a new mobile app with a f
 [Data](articles/f1398d23.json)
 
 [Extended Data](ext_articles/f1398d23.ext.json)
-
----
-
-### No new land for tea cultivation
-
-*2024-07-09 20:09:50* · [`adalk`](https://www.ada.lk/breaking_news/තේ-වගාවට-අලුත්-ඉඩම්-නෑ/11-410707) · `si`
-
-The government has halted new land use for tea cultivation due to ample existing land. Minister Mahinda Amaraweera emphasizes enhancing current tea estates with better fertilization and introducing new tea varieties. The Sri Lanka Tea Research Institute has already launched 70 new varieties. The government expects tea exports to generate $1.5 billion annually.
-
-🟩
-
-The government has decided not to use new land for tea cultivation.
-
-Minister Mahinda Amaraweera stated that this is due to adequate lands that have been cultivated for development in the tea industry in the country.
-
-The Minister instructs tea research institute to take necessary fertilizing and enhance the vacancies in the existing tea land, as well as to enhance the vacancies.Available.
-
-The Sri Lanka Tea Research Institute of Talawakele has introduced 70 new tea varieties and said that they have internally high demand varieties.
-
-Meanwhile, the government is estimated that the export of tea will be able to earn an income of US $ 1.5 billion in tea.
-
-◼️
-
-[Data](articles/f9bec100.json)
-
-[Extended Data](ext_articles/f9bec100.ext.json)
-
----
-
-### Another decision to solve the salary issue of estate workers
-
-*2024-07-09 20:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198648) · `si`
-
-Manusha Nanayakkara, Minister of Labor, decided against extending tax agreements for estate workers unless they agree to increase wages. A special gazette notification was issued on April 30, but plantation companies sought legal action. The Supreme Court intervened with an interim injunction. The President announced that benefits from a gazette would directly reach settlements without needing plantation company approval.
-
-🟩
-
-Minister of Labor Manusha Nanayakkara has decided not to extend the tax agreements of the estate workers who decide not to extend the daily wage of estate workers.
-
-The Commissioner General of Labor has issued a special gazette notification on April 30, raising Rs.
-
-However, plantation companies focused on judicial procedures, however, and the fire of the Supreme Court of the Laborah on the 28th by a three-member Supreme Court a three-member Supreme Court has been awarded an interim injunction.
-
-"At the Cabinet of Police today, the President decided to official .... Gazette was determined as village villages currently undergoing settlement areas. Once the gazette, you can direct the benefits of government. No need to get permission of plantation companies. "
-
-◼️
-
-[Data](articles/09aca82c.json)
-
-[Extended Data](ext_articles/09aca82c.ext.json)
 
 ---

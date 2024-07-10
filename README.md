@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 02:20:08**
+As of **2024-07-11 02:35:12**
 
 ## Newspaper Stats
 
-*Scraped **34,664** Articles*
+*Scraped **34,670** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,71 @@ bbccomsinhala | 339
 newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,049
-dailyftlk | 2,172
+dailyftlk | 2,174
 adalk | 3,126
 adaderanalk | 3,986
-tamilmirrorlk | 4,132
+tamilmirrorlk | 4,133
 dailymirrorlk | 4,733
-virakesarilk | 5,416
+virakesarilk | 5,419
 adaderanasinhalalk | 5,767
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,664 (100.0%) of 34,664 articles have been extended.
+34,664 (100.0%) of 34,670 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### Cabinet nod for Constitutional amendment to align Presidential and Parliamentary terms for 5 years
+
+*2024-07-11 02:22:01* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-for-Constitutional-amendment-to-align-Presidential-and-Parliamentary-terms-for-5-years/56-764124) · `en`
+
+The Cabinet of Ministers on Tuesday approved a proposal to amend the Constitution, addressing inconsistencies in the terms of the President and Parliament.
+
+“The proposed amendment seeks to substitute the phrase ‘exceeding six years’ with ‘exceeding five years’, thereby ensuring that both the Presidential and Parliamentary terms are aligned,” Cabinet Co-Spokesman and  Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
+
+The decision comes amid Supreme Court on Tuesday dismissing a petition seeking to postpone the upcoming Presidential election. The five-judge bench, led by Chief Justice Jayantha Jayasuriya, rejected the petition by C.D. Lenawa on several grounds. Firstly, they noted the lack of new evidence compared to a similar petition filed in 2019. Additionally, the Attorney General argued that the petitioner’s fundamental rights were not violated as the constitution clearly states a ‘five year’ Presidential term.
+
+...
+
+[Data](articles/ace98930.json)
+
+---
+
+### Adjournment debate on Presidential election timing today
+
+*2024-07-11 02:21:27* · [`dailyftlk`](https://www.ft.lk/news/Adjournment-debate-on-Presidential-election-timing-today/56-764123) · `en`
+
+An adjournment debate on the timing of the upcoming Presidential election will be held in Parliament today. According to an announcement made by the Communications Department of Parliament the decision to hold an adjournment debate on the subject was made by the party leaders yesterday.
+
+The debate will address holding the election between 17 September and 16 October in accordance with constitutional and legal requirements.
+
+The motion for the debate was jointly presented by Chief Opposition Whip Lakshman Kiriella and National People’s Power (NPP) leader Anura Kumara Dissanayake. This decision was made during the Committee on Parliamentary Business meeting, chaired by Speaker Mahinda Yapa Abeywardena.
+
+...
+
+[Data](articles/4fb8bad6.json)
+
+---
+
+### சம்பளத்தை செலுத்த தவறின் குத்தகை இரத்து
+
+*2024-07-11 02:13:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளத்தை-செலுத்த-தவறின்-குத்தகை-இரத்து/175-340187) · `ta`
+
+வாழ்க்கைச் செலவு மற்றும் அண்மைக் காலத்தில் நாட்டில் தோன்றியுள்ள பொருளாதார நெருக்கடியின் தாக்கம் தொடர்பில் உரிய கவனம் செலுத்தி தோட்டத் தொழிலாளருக்கு நாளொன்றுக்கு செலுத்த வேண்டிய சம்பளத்தை மதிப்பீடு செய்யுமாறு நிதி, பொருளாதார உறுதிப்பாடு மற்றும் தேசிய கொள்கைகள் அமைச்சின் செயலாளருக்கு 2024-05-22 திகதி நடைபெற்ற அமைச்சரவை கூட்டத்தில் ஆலோசனை வழங்கப்பட்டுள்ளது.
+
+அத்துடன், மேற்குறித்த சம்பளத்தை செலுத்துவதற்கு ஒவ்வொரு பிராந்திய பெருந்தோட்டக் கம்பனிகளிடமுள்ள இயலுமையைத் தீர்மானிப்பதற்காக குழுவொன்றை நியமிப்பதற்காகவும் குறித்த அமைச்சரவை கூட்டத்தில் தீர்மானிக்கப்பட்டுள்ளது.
+
+மேற்குறித்த குழுவின் விதந்துரைக்கமைய இயலுமை இருப்பினும், தமது தோட்டத் தொழிலாளர்களுக்கு நிச்சயிக்கப்பட்ட சம்பளத்தை செலுத்தாத பிராந்திய பெருந்தோட்ட கம்பனிகளுடன் அரசு செய்துள்ள காணிக் குத்தகை உடன்படிக்கையை இரத்துச் செய்வதற்குத் தேவையான சட்டத்தை வகுப்பதற்கான செயன்முறையை துரிதப்படுத்துவதென, ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில், செவ்வாய்க்கிழமை (09) நடைபெற்ற  அமைச்சரவைக் கூட்டத்தில் தீர்மானிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/0315907e.json)
+
+---
 
 ### Adani controversy: Why the cheerleaders are wrong
 
@@ -62,7 +110,49 @@ A Fundamental Rights petition is pending before the Supreme Court requesting a p
 
 ---
 
+### ஹேல்ஸ், பானுக்க அசத்தலான துடுப்பாட்டம்; கண்டி  பெல்கன்ஸை  இலகுவாக வீழ்த்தியது கோல் மார்வல்ஸ்
+
+*2024-07-11 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/188172) · `ta`
+
+ரங்கிரி, தம்புள்ள சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் புதன்கிழமை (10) நடைபெற்ற 5ஆவது லங்கா பிறீமியர் லீக் அத்தியாயத்தின் 15ஆவது போட்டியில் நடப்பு சம்பியன் கண்டி பெல்கன்ஸை 8 விக்கெட்களால் கோல் மார்வல்ஸ் வெற்றிகொண்டது.
+
+ப்ராபாத் ஜயசூரியவின் துல்லியமான பந்துவீச்சு, அலெக்ஸ் ஹேல்ஸ், பானுக்க ராஜபக்ஷ ஆகியோரின் திறமையான துடுப்பாட்டங்கள் கோல் மார்வல்ஸின் வெற்றியில் பிரதான பங்காற்றின.
+
+188 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய கோல் மார்வல்ஸ் 19.2 ஓவர்களில் 2 விக்கெட்களை மாத்திரம் இழந்து 188 ஓட்டங்களைப் பெற்று அபார வெற்றியீட்டியது.
+
+இந்த வெற்றியுடன் அணிகள் நிலையில் 8 புள்ளிகளுடன் கோல் மார்வல்ஸ் இரண்டாம் இடத்தை அடைந்துள்ளது.
+
+ஜெவ்னா கிங்ஸும் 8 புள்ளிகளைப் பெற்றுள்ள போதிலும் நிகர ஓட்ட வேக அடிப்படையில் முதலிடத்தை தனதாக்கிக்கொண்டுள்ளது.
+
+நிரோஷன் திக்வெல்லவும் அலெக்ஸ் ஹேல்ஸும் 7 ஓவர்களில் 76 ஓட்டங்களைப் பகிர்ந்து  பலமான ஆரம்பத்தை இட்டுக்கொடுத்தனர். நிரோஷன் திக்வெல்ல 25 ஓட்டங்களைப் பெற்றார். அவரைத் தொர்டர்ந்து  டிம் சீஃபேர்ட் 16 ஓட்டங்களுடன் களம் விட்டகன்றார்.
+
+...
+
+[Data](articles/6793e809.json)
+
+---
+
 ### 2024-07-10 (Wednesday)
+
+### இலங்கையை 88-44 என்ற புள்ளிகள் கணக்கில் துவம்சம்செய்தது இந்தியா
+
+*2024-07-10 23:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/188171) · `ta`
+
+கொழும்பு சுகததாச உள்ளக அரங்கில் புதன்கிழமை (10) ஆரம்பமான SABA 18 வயதுக்குட்பட்ட தெற்காசிய கூடைப்பந்தாட்ட சம்பியன்ஷிப்பின் இரண்டாவது போட்டியில் இலங்கை மீது முழு ஆதிக்கம் செலுத்திய இந்தியா 88 - 44 என்ற புள்ளிகள் வித்தியாசத்தில் மிக இலகுவாக வெற்றிபெற்றது.
+
+ஆரம்பம் முதல் கடைசிவரை ஆதிக்கம் செலுத்திய இந்தியா இடைவேளையின்போது 40 - 22 என்ற புள்ளிகள் கணக்கில் முன்னிலையில் இருந்தது.
+
+போட்டியின் முதலாவது ஆட்ட நேர பகுதியில் மிகத் திறமையாக விளையாடிய இந்தியா 21  -  9 என முன்னி;லை அடைந்தது.
+
+இரண்டாவது ஆட்ட நேர பகுதியில் ஓரளவு திறமையை இலங்கை வெளிப்படுத்தியபோதிலும் அப் பகுதியையும் 19 - 13 என இந்தியா தனதாக்கிக்கொண்டு இடைவேளையின்போது 40 - 22 என்ற புள்ளிகள் கணக்கில் பலமான நிலையில் இருந்தது.
+
+இடைவேளைக்குப் பின்னர் திறமையை வெளிப்படுத்திய இலங்கை அப் பகுதியில் இந்தியாவுக்கு சவால் விடுத்து விளையாடியது. ஆனால் இந்தியா 3ஆவது ஆட்ட நேர பகுதியையும் 21 - 17 என தனதாக்கி 61 - 39 என முன்னிலையில் இருந்தது.
+
+...
+
+[Data](articles/f8281fa0.json)
+
+---
 
 ### Ninety-two years with the people: Taxes for better future
 
@@ -117,6 +207,24 @@ Dr. Masoud Pezeshkian, the reformist candidate who criticized the ‘morality po
 [Data](articles/0f4b253e.json)
 
 [Extended Data](ext_articles/0f4b253e.ext.json)
+
+---
+
+### நாட்டில் புதிய பொருளாதார, அரசியலமைப்பைக் கட்டியெழுப்ப மகா சங்கத்தினரின் வழிகாட்டல் முக்கியமானது - ஜனாதிபதி
+
+*2024-07-10 22:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/188170) · `ta`
+
+தேரவாத பௌத்த நாடுகள் அனைத்தும் ஏற்றுமதிப் பொருளாதாரத்தின் அடிப்படையில் முன்னேற்றமடைந்துள்ளதாகவும், இறக்குமதிப் பொருளாதார முறையை பின்பற்றி  இலங்கை மட்டுமே வங்குரோத்து நிலைக்குச் சென்றுள்ளதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+எனவே, நாட்டில் புதிய பொருளாதார, அரசியல் முறைமைகள் விரைவில் உருவாக்கப்பட வேண்டுமென சுட்டிக்காட்டிய ஜனாதிபதி, நாட்டை புதிய பாதைக்கு கொண்டு செல்வதற்கு மகா சங்கத்தினரின் வழிகாட்டல்களும் ஆலோசனைகளும் மிகவும் முக்கியமானது எனவும் தெரிவித்தார்.
+
+காலி கரந்தெனிய சிறி அபயதிஸ்ஸ பிரிவெனாவில் இன்று (10) பிற்பகல் இடம்பெற்ற அமரபுர மகா நிக்காய - ஆரியவன்ச சத்தம்ம பீடத்தின் 44ஆவது உபசம்பதா நிகழ்வில் உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் தெரிவித்தார்.
+
+அமரபுர மகா நிகாய - ஆரியவன்ச சத்தம்ம பீடத்தின் உபசம்பத நிகழ்வுகள் இலங்கை அமரபுர நிகாயாவின் மகாநாயக்க தேரர் வண. கரகொட உயங்கொட மைத்திரி மூர்த்தி மகாநாயக்க தேரர் தலைமையில் இன்று முதல் ஜூலை 14 ஆம் திகதி வரை நடைபெறவிருப்பதோடு 98 பேர் இதன்போது துறவரத்தை ஏற்றுக்கொள்ளவுள்ளனர்.
+
+...
+
+[Data](articles/459029d6.json)
 
 ---
 
@@ -2129,137 +2237,5 @@ Commissioner of Pakistani High Commissioner in Sri Lanka MAJOR General Faiweera,
 [Data](articles/f9c06570.json)
 
 [Extended Data](ext_articles/f9c06570.ext.json)
-
----
-
-### Sangakkara gives seal of approval to external investment in national cricket boards
-
-*2024-07-10 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100418/-sangakkara-gives-seal-of-approval-to-external-investment-in-national-cricket-boards) · `en`
-
-Sri Lankan Kumar Sangakkara cricket legend believes investment partnering national cricket boards could help smaller nations compete at the highest level.
-
-Sangakkara was speaking at World Cricket Connects, an event at Lord’s hosted by the Marylebone Cricket Club (MCC) designed for the leading voices in the game to discuss the health of cricket and consider the path required for its future success.
-
-The event brought a range of prominent thinkers in cricket together at Lord’s, with players, coaches, broadcasters, franchise owners and administrators all in attendance.
-
-On the agenda was a wide range of topics, including the growth of the game, the distribution of finances and the global calendar.
-
-For Sangakkara, the position of Sri Lanka in the cricketing landscape is one key discussion point.
-
-...
-
-[Data](articles/50aee5a9.json)
-
-[Extended Data](ext_articles/50aee5a9.ext.json)
-
----
-
-### Latest Notification of Vehicles
-
-*2024-07-10 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198668) · `si`
-
-State Minister Ranjith Siyambalapitiya announced a new vehicle import program, stating it won't cause issues. The IMF has been consulted regarding vehicle imports, especially for public transport and essential services. A committee will present its report to the Cabinet by mid-August, aiming to start importing vehicles smoothly from the third quarter.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya says that the importation of vehicles are expected to launch the importation of vehicles under a unique program that is not a problem.
-
-He also said that the International Monetary Fund has informed the import of vehicles.
-
-"We have spoken to the International Monetary Fund and informed us after the month of August.. Optional vehicles used in public transport, transport services, and other transport services that are in general vehicles and then a luxury vehicle program. Therefore, this committee meets 4th of July. The committee is said to be presenting their report to the Cabinet by the second week in August.. Accordingly, we hope how to import vehicles we begin to import vehicles without having a problem for this country. "
-
-...
-
-[Data](articles/5aecf246.json)
-
-[Extended Data](ext_articles/5aecf246.ext.json)
-
----
-
-### Tracking Sri Lankans in Russia-Ukraine warfront complicated – State Minister
-
-*2024-07-10 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100417/tracking-sri-lankans-in-russia-ukraine-warfront-complicated-state-minister) · `en`
-
-Sri Lanka’s State Minister of Foreign Affairs Tharaka Balasuriya stated that 464 complaints have been received so far with regard to Sri Lankan nationals involved in the ongoing Russia-Ukraine conflict.
-
-Furthermore, he highlighted the challenge of determining the exact number of Sri Lankans who have traveled to Russia to serve in the warfront as many individuals have taken indirect routes through India or Middle Eastern countries, complicating efforts to track direct departures from Sri Lanka.
-
-“However, we are currently addressing complaints from 464 individuals,” he stated.
-
-The State Minister confirmed that compensation requests for those killed in the war have been acknowledged. “These individuals, after traveling to Russia, entered into agreements with the security forces to fight alongside the Russian army. Despite claims of unawareness, these agreements are legally binding,” Balasuriya explained.
-
-...
-
-[Data](articles/2c869c8d.json)
-
-[Extended Data](ext_articles/2c869c8d.ext.json)
-
----
-
-### The gun club Vasantha's wife gun
-
-*2024-07-10 11:39:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-வின்-மனைவியிடம்-துப்பாக்கி/175-340144) · `ta`
-
-Vasantha Perera, known as 'Club Vasantha,' was shot dead along with another person at Athurugiriya junction. His wife possessed an illegal firearm, leading to investigations into its possession.
-
-🟩
-
-Urandra Vasantha Perera, known as 'Club Vasantha', was killed in the shooting incident at the Athurugiriya junction on Monday afternoon (08) afternoon.. Another person with him has died.
-
-Investigations into the incident have been carried out at several angles. In this case, the wife of 'Club Vasantha' was found to have an illegal gun that was not allowed. Investigations have been carried out in connection with the illegal rifle, said Inspector of Police Deshabandu Tennakoon.
-
-◼️
-
-[Data](articles/7e50bbbd.json)
-
-[Extended Data](ext_articles/7e50bbbd.ext.json)
-
----
-
-### Bowzar - Bus collided with milk in India;18 killed;19 injured
-
-*2024-07-10 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/188105) · `ta`
-
-In Uttar Pradesh, India, a bus collision involving a milk truck resulted in 18 deaths and 19 injuries. The accident occurred on a highway near Lucknow-Agra in Unnao district early Wednesday morning. Police responded promptly for rescue efforts, and the injured were hospitalized. Uttar Pradesh's Chief Minister Yogi Adityanath offered condolences and directed the administration to ensure proper care for the wounded, expressing hope for their swift recovery.
-
-🟩
-
-A Double Tucker bus on a high-speed road in Lucknow-Agra in Unnao district of Uttar Pradesh, Uttar Pradesh, India
-
-Upon receiving information about the incident, the police rushed to the scene and engaged in the rescue operation.
-
-19 people who were traveling on a double teacher bus in the crash have been admitted to hospital.
-
-It is reported that the incident took place at around 5.15 am on Wednesday (10).
-
-Uttar Pradesh Chief Minister Yogi Adityanath has expressed his condolences to the families of the victims and ordered the district administration to provide appropriate treatment for the injured.. He also said that they will pray for healing soon.
-
-◼️
-
-[Data](articles/9e9fc79a.json)
-
-[Extended Data](ext_articles/9e9fc79a.ext.json)
-
----
-
-### Lanka Sathosa reduces 4 types of prices
-
-*2024-07-10 11:24:05* · [`adalk`](https://www.ada.lk/breaking_news/ලංකා-සතොස-භාණ්ඩ-වර්ග-4ක-මිල-අඩුකරයි/11-410710) · `si`
-
-Ceylon Sathosa lowers prices on essential goods, including imported items, effective today, providing public relief.
-
-🟩
-
-Ceylon Sathosa has taken steps to reduce several essential consumer goods to provide relief to the public.
-
-Accordingly, a kilo of imports of imports of imports to Rs.
-
-These items can be purchased from today (10) to reduced prices.
-
-◼️
-
-[Data](articles/69f1a248.json)
-
-[Extended Data](ext_articles/69f1a248.ext.json)
 
 ---

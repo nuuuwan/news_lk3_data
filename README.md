@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 09:06:36**
+As of **2024-07-10 09:20:00**
 
 ## Newspaper Stats
 
-*Scraped **34,524** Articles*
+*Scraped **34,527** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,76 @@ newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,167
-adalk | 3,102
-adaderanalk | 3,960
+adalk | 3,103
+adaderanalk | 3,961
 tamilmirrorlk | 4,104
 dailymirrorlk | 4,733
-virakesarilk | 5,396
+virakesarilk | 5,397
 adaderanasinhalalk | 5,744
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,519 (100.0%) of 34,524 articles have been extended.
+34,524 (100.0%) of 34,527 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### රේගු වර්ජනයෙන් ප්‍රශ්න ගොඩක්
+### பல ரயில் சேவைகள் இரத்து!
+
+*2024-07-10 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188094) · `ta`
+
+பல்வேறு கோரிக்கைகளை முன்வைத்து ரயில் நிலைய அதிபர்கள் மேற்கொண்டுள்ள  வேலைநிறுத்தப் போராட்டத்தினால் பல ரயில் சேவைகள் இரத்து செய்யப்பட்டன.
+
+எவ்வாறாயினும், கொழும்பு கோட்டையிலிருந்து நீர்கொழும்பு மற்றும் வெயாங்கொடைக்கு தலா இரண்டு ரயில்களும், பொல்கஹவெலயிலிருந்து கோட்டைக்கு இரண்டு ரயில்களும், காலியிலிருந்து கோட்டைக்கு மூன்று ரயில்களும், அளுத்கமவிலிருந்து கோட்டைக்கு ஒரு ரயிலும் இயக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாக ரயில் திணைக்களம் தெரிவித்துள்ளது.
+
+போக்குவரத்து சேவைகள் அத்தியாவசிய சேவைகளாக அறிவிக்கப்பட்டுள்ள நிலையில், ரயில் நிலைய அதிபர்களின் வேலைநிறுத்தம் போராட்டம் சட்டவிரோதமானது, இதன் காரணமாக பணிக்கு வராத ஊழியர்கள் மீது ஒழுங்கு நடவடிக்கை எடுக்கப்படுமென போக்குவரத்து அமைச்சக செயலாளர் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d24791bd.json)
+
+---
+
+### President’s Secretary responds to BASL’s request on Attorney General appointment
+
+*2024-07-10 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100409/presidents-secretary-responds-to-basls-request-on-attorney-general-appointment) · `en`
+
+President’s Secretary Mr. Saman Ekanayake responded to a letter from the Bar Association of Sri Lanka (BASL) regarding the appointment of the new Attorney General following the retirement of Mr. Sanjay Rajaratnam, PC.
+
+Mr. Ekanayake highlighted that the President is constitutionally empowered, under Article 41C of the Constitution, to appoint the Attorney General with the approval of the Constitutional Council.
+
+He emphasized that there is no constitutional requirement to appoint the senior-most officer from the Attorney General’s Department to this position based on seniority. Historically, this practice has not been followed in Sri Lanka, with past appointments such as Sarath N. Silva, PC, and Mohan Peiris, PC, coming from outside the department’s senior ranks.
+
+Additionally, Mr. Ekanayake pointed out the example from 2016 when President Maithripala Sirisena recommended multiple candidates, leading to the Constitutional Council approving Mr. Jayantha Jayasuriya, PC, as Attorney General.
+
+...
+
+[Data](articles/d1ad782b.json)
+
+---
+
+### A lot of questions from the customs strike
 
 *2024-07-10 08:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198659) · `si`
 
-රේගු නිලධාරීන් පසුගියදා ආරම්භ කළ වර්ජනයත් සමඟ බාහලුම් පරීක්ෂා කිරීමේ කටයුතු වේගවත් නොවීම හේතුවෙන් තමන් දැඩි අසීරුතාවට පත්ව සිටින බව බාහාලුම් රථ රියදුරන් පවසයි.
+Customs officials' training resumed after exam failures, with plans for a formal program to speed up improvements. The Customs Director General mentioned efforts to address issues promptly.
 
-ඔවුන් පවසන්නේ මෙම තත්ත්වය කඩිනම් කිරීමට සඳහා විධිමත් වැඩපිළිවලක් සකස් කළ යුතු බවය.
+🟩
 
-අතිරේක රේගු අධ්‍යක්ෂ ජනරාල් රේගු මාධ්‍ය ප්‍රකාශක සීවලී අරුක්ගොඩ මහතාගෙන් "අද දෙරණ" මේ සම්බන්ධයෙන් කළ විමසීමකදී ඔහු සඳහන් කළේ, මෙම තත්ත්වය කඩිනමින් යාථාතත්ත්වයට පත්කිරීම සඳහා පියවර ගෙන ඇති බවය.
+The courses of customs officials recently commenced the examination due to the failure of the examination.
+
+They say that a formal program should be prepared to accelerate this situation.
+
+Customs Director General Customs Media Spokesperson, "Ada Derana stated that this situation has been taken to achieve this situation soon.
 
 ◼️
 
 [Data](articles/e09a00ac.json)
+
+[Extended Data](ext_articles/e09a00ac.ext.json)
 
 ---
 
@@ -152,6 +192,8 @@ The law is modernized and has also taken into consideration suggestions by Rohan
 
 [Data](articles/78079e10.json)
 
+[Extended Data](ext_articles/78079e10.ext.json)
+
 ---
 
 ### Several trains cancelled due to strike
@@ -245,6 +287,8 @@ The company’s strategy includes rebalancing its portfolio between short-term a
 ...
 
 [Data](articles/3cbf95d3.json)
+
+[Extended Data](ext_articles/3cbf95d3.ext.json)
 
 ---
 
@@ -786,23 +830,29 @@ Naomi Amarasinghe explained how she became the first Sri Lankan naval starting o
 
 ---
 
-### ’ஸ்திர நிலையை சீர்குலைக்க முயற்சி’
+### Trying to disrupt the status of the model
 
 *2024-07-10 01:52:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்திர-நிலையை-சீர்குலைக்க-முயற்சி/175-340123) · `ta`
 
-தேர்தலில் வெற்றிபெற முடியாத சில தரப்பினர் நாட்டின் ஸ்திர நிலையை சீர்குலைக்கும் வேலைநிறுத்தங்களை ஆரம்பித்து வருகின்றனர் என்று பாராளுமன்ற உறுப்பினர் வஜிர அபேவர்தன தெரிவித்தார்.
+Parliamentarian Vajira Abeywardena accuses losing political parties of plotting to destabilize the country through strikes. He warns that such actions could lead to increased taxes and higher living costs, potentially worsening the economic situation. The Finance Ministry suggests a 21% VAT hike if salaries rise, which would impact everyday items like tea and rice, possibly leading to financial instability.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே வஜிர அபேவர்தன எம்.பி. இவ்வாறு தெரிவித்தார்.  அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-தற்போது சில தரப்பினர் பணிப்பகிஷ்கரிப்பில் ஈடுபட்டுள்ளனர். தேர்தலில் வெற்றி பெற முடியாததால், அவர்களின் தனிப்பிட்ட வெற்றிக்காக நாட்டை சீர்குலைக்க தயாராகி வருகின்றனர்.
+Parliamentarian Vajira Abeywardena said that some parties who could not win the election are launching strikes to disrupt the country's stability.
 
-வேலைநிறுத்தத்தில் ஈடுபட்டவர்கள் கோரும் சம்பள அதிகரிப்பை மேற்கொள்ள வேண்டுமாயின் 18 வீத பெறுமதி சேர் வரி 21 வீதமாக அதிகரிக்கப்பட வேண்டும் என நிதியமைச்சின் செயலாளர் தெரிவித்துள்ளார்.
+Vajira Abeywardena MP at a media briefing held at the Presidential Media Center yesterday. He said so.As he further stated,
 
-இதனால், உழைக்கும் மக்களின் தேநீர் கோப்பையினதும், அரிசி பொட்டலத்தினதும் விலைகள் அதிகரிக்கும். அவ்வாறு நடந்தால், வங்குரோத்தான நாடு மீண்டும் அதனை விட ஆபத்தான நிலைக்குச் செல்வதைத் தடுக்க முடியாது. இலங்கை மக்கள் அனைவரும் இதற்கு ஆதரவளிக்க மாட்டார்கள் என்றும் நம்புகிறோம் என்றார். (a)
+Some parties are currently engaged in the workplace. Since they are unable to win the election, they are preparing to disrupt the country for their individual victory.
+
+The Secretary of the Finance Ministry said that if the strikers are required to increase the salary increase, the 18 percent value added tax should be increased by 21 percent.
+
+Thus, the prices of the working people's tea cup and the rice packet will increase. If that happens, the bank cannot prevent it from going to a more dangerous state. We hope that all the Sri Lankan people will not support it. (A)
 
 ◼️
 
 [Data](articles/2e880930.json)
+
+[Extended Data](ext_articles/2e880930.ext.json)
 
 ---
 
@@ -1399,6 +1449,26 @@ The Department of Examinations said that the time of applying for any reason wou
 [Data](articles/0f129120.json)
 
 [Extended Data](ext_articles/0f129120.ext.json)
+
+---
+
+### ක්ලබ් වසන්ත ඝාතනයේ තවත් තොරුතුරු එළියට
+
+*2024-07-09 19:25:00* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතනයේ-තවත්-තොරුතුරු-එළියට/11-410704) · `si`
+
+අතුරුගිරිය ටැටු මධ්‍යස්ථානයේදී ව්‍යාපාරිකයෙකු වන සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත සහ තවත් පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන්   පුද්ගලයන් 7 කු පමණ මේ වනවිට  අත්අඩංගුවට ගෙන ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+
+එම පිරිස අතර ටැටූ මධ්‍යස්ථානයේ හිමිකරු, මෝටර් රථය සහ වෑන් රථය ලබා දුන් පුද්ගලයන් රැගෙන ආ පුද්ගලයන්ද වන බව එම නිලධාරියා කීය.
+
+එම ඝාතනය ඩුබාහි සැඟව සිටින ලොකු පැටි හා ගොනා කෝවිලේ ශාන්ත නැමැති අපරාධකරුවන් දෙදෙනා සෘජුවම එක්ව සැලසුම් සහගතව සිදුකළ ඝාතනයක් බවට පොලිසියේ මේ වන විට අනාවරණය කරගෙන ඇත.
+
+වෙඩික්කරුවන් දෙදෙනා සිදුකළ එම වෙඩි ප්‍රහාරයෙන් ප්‍රසිද්ධ ගායන ශිල්පිනි කේ. සුජීවා, ක්ලබ්  වසන්තගේ බිරිද හා තවත් පිරිමි පුද්ගලයෙක් හා කාන්තාවක් තුවාල ලැබීය.
+
+වෙඩික්කරුවන් පැමිණි මෝටර් රථය  කොරතොට ප්‍රදේශයේ අත්හැර දමා  බුලත්සිංහල පොලිස් බල ප්‍රදේශයේ  ප්‍රදේශයේ  පාළු නිවසක් ආසන්නයේ වංගුවක් සහිත ස්ථානයක අත්හැර ගොස් තිබියදී පෙරේදා රාත්‍රී බුලත්සිංහල පොලිසිය මගින් සොයා ගැනිනි.
+
+...
+
+[Data](articles/f91d26e6.json)
 
 ---
 
@@ -2167,67 +2237,5 @@ Thus, from June 2 to July 7, the snakes have been bitten by Vikas Dubey six time
 [Data](articles/31468996.json)
 
 [Extended Data](ext_articles/31468996.ext.json)
-
----
-
-### Details of ‘OnmaxDT’ depositors submitted to court, CID ordered to further probe
-
-*2024-07-09 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100400/details-of-onmaxdt-depositors-submitted-to-court-cid-ordered-to-further-probe) · `en`
-
-The Colombo Magistrate’s Court has ordered to investigate into the loss of investments made by the depositors of ‘OnmaxDT’, which is believed to have been operating a pyramid scheme, and for a detailed report to be submitted to the court on August 07.
-
-This order was issued by Colombo Fort Magistrate Thilina Gamage when the case was taken up today (09).
-
-During the court proceedings, the directors of ‘OnmaxDT’ submitted the details of the depositors who invested money in the private firm to the court.
-
-Meanwhile, the state counsel who appeared for the Criminal Investigation Department (CID) stated before the court that information has been revealed regarding to two similar illegal investment schemes.
-
-Accordingly, the Magistrate, who ordered the CID to investigate further into the relevant investment schemes, also ordered to arrest the suspects involved and present them before the court.
-
-◼️
-
-[Data](articles/78dc5e49.json)
-
-[Extended Data](ext_articles/78dc5e49.ext.json)
-
----
-
-### Special salary increases to those who are on duty
-
-*2024-07-09 16:34:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடமைக்கு-வந்தவர்களுக்கு-விசேட-சம்பள-உயர்வு/175-340098) · `ta`
-
-The Cabinet approved a special salary hike for government officials who worked during July 8 and 9, 2024, despite not meeting executive standards. Additionally, President Ranil Wickremesinghe endorsed issuing special commendation certificates for potential promotions.
-
-🟩
-
-The Cabinet has approved the grant of a special salary increase to government officials who did not comply with the executive standard, which had contributed to duty on July 8 and 9, 2024.
-
-Meanwhile, President Ranil Wickremesinghe has approved the recommendation of President Ranil Wickremesinghe on Tuesday (09) to issue a special commendation certificate for future promotions.
-
-◼️
-
-[Data](articles/94b9614a.json)
-
-[Extended Data](ext_articles/94b9614a.ext.json)
-
----
-
-### Special salary increases to those who are on duty
-
-*2024-07-09 16:34:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கடமைக்கு-வந்தவர்களுக்கு-விசேட-சம்பள-உயர்வு/150-340098) · `ta`
-
-The Cabinet approved a special salary hike for government officials who worked during July 8 and 9, 2024, despite not meeting executive standards. Additionally, President Ranil Wickremesinghe endorsed issuing special commendation certificates for potential promotions.
-
-🟩
-
-The Cabinet has approved the grant of a special salary increase to government officials who did not comply with the executive standard, which had contributed to duty on July 8 and 9, 2024.
-
-Meanwhile, President Ranil Wickremesinghe has approved the recommendation of President Ranil Wickremesinghe on Tuesday (09) to issue a special commendation certificate for future promotions.
-
-◼️
-
-[Data](articles/fb362997.json)
-
-[Extended Data](ext_articles/fb362997.ext.json)
 
 ---

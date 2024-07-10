@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 13:05:00**
+As of **2024-07-10 13:19:42**
 
 ## Newspaper Stats
 
-*Scraped **34,571** Articles*
+*Scraped **34,577** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,98 @@ economynextcom | 2,037
 dailyftlk | 2,168
 adalk | 3,108
 adaderanalk | 3,973
-tamilmirrorlk | 4,117
+tamilmirrorlk | 4,120
 dailymirrorlk | 4,733
-virakesarilk | 5,401
-adaderanasinhalalk | 5,752
+virakesarilk | 5,402
+adaderanasinhalalk | 5,754
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,571 (100.0%) of 34,571 articles have been extended.
+34,571 (100.0%) of 34,577 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-07-10 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/188120) · `ta`
+
+இன்று புதன்கிழமை (ஜூலை 10) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 299.2616 ரூபாவாகவும், விற்பனை விலை 308.5052 ரூபாவாகவும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/dd96c2e4.json)
+
+---
+
+### ඉන්දියාවේ බිහිසුණු බස් අනතුරක් - ජීවිත 18ක් අහිමිවෙයි
+
+*2024-07-10 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198670) · `si`
+
+ඉන්දියාවේ උත්තර් ප්‍රාන්තයේ උන්නාඕ ප්‍රදේශයේදී සිදුවූ බස් රථ අනතුරකින් පුද්ගලයින් 18 දෙනෙකු මියගොස් තිබේ.
+
+තවත් පුද්ගලයින් 19 තුවාල ලබා ඇති බවයි විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+අනතුරින් ජීවිතක්ෂයට පත්වූවන් අතර කාන්තාවන් තිදෙනෙකු සහ කුඩා දරුවෙකු ද වන බව එරට පොලීසිය සඳහන් කළේය.
+
+බස් රථයක් බිහාර් සිට දිල්ලි දක්වා ධාවනය වෙමින් තිබියදී ලක්නව්-අග්‍රා අධිවේගී මාර්ගයේ පිටුපසින් පැමිණි කිරි ප්‍රවාහනය කළ රථයක ගැටීමෙන් මෙම අනතුර සිදුව තිබුණි.
+
+◼️
+
+[Data](articles/5d8d8450.json)
+
+---
+
+### சகோதரனும் உளவு பார்த்தார்: போட்டு உடைத்தார் துலான்
+
+*2024-07-10 12:48:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சகோதரனும்-உளவு-பார்த்தார்-போட்டு-உடைத்தார்-துலான்/175-340150) · `ta`
+
+பிரபல வர்த்தகரான 'கிளப் வசந்த' என்றழைக்கப்படும்  வசந்த பெரேராவின் கொலை தொடர்பில் கைது செய்யப்பட்டுள்ள பச்சை குத்தும் நிலையத்தின் உரிமையாளர் துலான் சஞ்சயிடமிருந்து மேலும் பல தகவல்கள் வெளியாகியுள்ளன.
+
+கொலையாளிகளுக்காக காத்திருந்த கட்டிடத்தின் உச்சியில் இருந்து தனது சகோதரனும் உளவு பார்த்ததாக பொலிஸாரிடம் கூறியுள்ளார்.
+
+அவர் பச்சை குத்துவதற்கு படித்திருந்தாலும், ஒரு ஸ்தாபனத்தை திறக்க முடியாத நிலையில், பாதாள உலக உறுப்பினர் ஒருவர் அவருக்கு 16 இலட்சம் ரூபாவை கொடுத்து இந்த நிறுவனத்தை ஆரம்பிக்க ஆதரவளித்தார்.
+
+இதன் திறப்பு விழாவுக்கு சுரேந்திர வசந்த பெரேராவை அழைத்து வர வேண்டும் என்பது நிபந்தனையாகும் என்றும் விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது. .
+
+இந்த கொலையுடன் தொடர்புடையவர்களில் பெரும்பாலானோர் பலப்பிட்டிய மற்றும் பெலியத்த பிரதேசத்தை சேர்ந்தவர்கள் எனவும் அறியமுடிகின்றது.
+
+◼️
+
+[Data](articles/cb859c35.json)
+
+---
+
+### ක්ලබ් වසන්ත ඝාතනය - ටැටූ ෂොප් හිමිකරුගේ පාපොච්චාරණය
+
+*2024-07-10 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198669) · `si`
+
+සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඝාතනය සිදුවූ ටැටූ මධ්‍යස්ථානයේ හිමිකරු පොලීසියට ඒ සම්බන්ධයෙන් පාපොච්චාරණය කර තිබේ.
+
+◼️
+
+[Data](articles/0c0860d1.json)
+
+---
+
+### அவகாசம் முடிந்தது: வேலைநிறுத்தம் தொடர்கிறது
+
+*2024-07-10 12:39:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவகாசம்-முடிந்தது-வேலைநிறுத்தம்-தொடர்கிறது/175-340149) · `ta`
+
+இன்று (10) நண்பகல் 12 மணிக்கு முன்னர் அனைத்து ரயில் நிலைய அதிபர்கள் மற்றும் புகையிரத கட்டுப்பாட்டாளர்கள் உரிய புகையிரத நிலையத்திற்கோ அல்லது அருகில் உள்ள புகையிரத நிலையத்திற்கோ தகவல் தெரிவிக்குமாறு ரயில்வே பொது முகாமையாளர் எஸ்.எஸ்.முதலிகே தெரிவித்துள்ளார்.
+
+கட்டளைக்கு இணங்காத அனைத்து நிலைய அதிபர்கள் மற்றும் ரயில் கட்டுப்பாட்டாளர்கள் சேவையை விட்டு வெளியேறியதாக கருதப்படும் என்று அனைத்து நிலைய அதிபர்கள் மற்றும் ரயில் கட்டுப்பாட்டாளர்களுக்கு இறுதி அறிவித்தல் விடுக்கப்படுவதாக   முதலிகே கூறினார்.
+
+இதேவேளை, தங்களால் முன்னெடுக்கப்படும் ​வேலைநிறுத்த போராட்டத்தை தொடர்ந்து முன்னெடுப்பதற்கு தீர்மானித்துள்ளதாக சங்கங்கள் தெரிவித்துள்ளன.
+
+◼️
+
+[Data](articles/ae0b245a.json)
+
+---
 
 ### Cabinet approves resolution to amend Constitutional clause on President’s tenure
 
@@ -67,6 +145,22 @@ Initial investigations suggest that the ammunition and magazines may have been s
 [Data](articles/33f6c3cd.json)
 
 [Extended Data](ext_articles/33f6c3cd.ext.json)
+
+---
+
+### விசாவை நீடிக்க  மலேசியாவிடம் செந்தில் கோரிக்கை
+
+*2024-07-10 12:27:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசாவை-நீடிக்க-மலேசியாவிடம்-செந்தில்-கோரிக்கை/175-340148) · `ta`
+
+மலேசியாவுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் மலேசியா உயர் கல்வி அமைச்சர் ஷாம்ப்ரி அப்துல் காதிரை சந்தித்து இலங்கைக்கும் மலேசியாவுக்குமான கூட்டுத்திட்டம் குறித்து கலந்துரையாடினார்.
+
+மலேசியாவில் உயர்கல்வி கற்கும் 3800 யிற்கும் மேற்பட்ட இலங்கை மாணவர்கள் தற்போதைய சட்டத்தின் படி ஒவ்வொரு இரண்டு வருடங்களுக்கும் இலங்கைக்கு திரும்பி  விசாவைப் புதுப்பிக்கும் நிலை காணப்படுகிறது. ஆதலால் அவர்களின் பட்டப்படிப்பை நிறைவு  செய்யும் காலமான   4 வருடங்களுக்கு விசா காலத்தை அதிகரித்து தருமாறு மலேசியா உயர் கல்வி அமைச்சர் ஷாம்ப்ரி அப்துல் காதிரிடம் ஆளுநர் வேண்டுகோள் விடுத்தார். ஆளுநரின் வேண்டுகோளுக்கு இணங்க அமைச்சர் அதற்கான நடவடிக்கை யை மேற்கொள்ள நடவடிக்கை மேற்கொள்வதாக தெரிவித்தார்.
+
+மேலும் இலங்கையில் இருந்து மலேசியாவிற்கு செல்லும் மாணவர்கள் மற்றும் தொழிலாளர்களுக்கு மலாய் மொழிக்கான பயிற்சியை இலங்கையில் ஆரம்பிப்பது குறித்தும் கலந்துரையாடப்பட்டதுடன், மலேசியாவிற்கும் இலங்கைக்குமான  கல்வி தொடர்பான கூட்டு பரிமாற்ற திட்டங்கள் குறித்தும் கலந்துரையாடப்பட்டது.
+
+...
+
+[Data](articles/623928e9.json)
 
 ---
 
@@ -114,6 +208,28 @@ Police said the fire broke out at the meeting hall on the ground floor of the bu
 
 ---
 
+### If they do not go to duty, they are considered to be resigning - General Manager of the Railway Department
+
+*2024-07-10 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/188111) · `ta`
+
+Railway officials missing work after 12 noon today will be seen as having resigned. This decision was announced by the Railway Department's General Manager.
+
+🟩
+
+It has been announced that all railway principals and regulators who do not attend the duties will be considered to be withdrawn from the service at 12 noon today.
+
+The railway station principals and regulators who fail to attend duty at noon today will be regarded as resigning, according to the statement.
+
+The announcement was made on Wednesday by railway principals and train regulators.
+
+◼️
+
+[Data](articles/46180a03.json)
+
+[Extended Data](ext_articles/46180a03.ext.json)
+
+---
+
 ### India-Pakistan cattle to Sri Lanka
 
 *2024-07-10 12:07:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-பாகிஸ்தான்-கால்நடைகள்-இலங்கைக்கு/175-340145) · `ta`
@@ -137,28 +253,6 @@ Cows and buffaloes in Sri Lanka are only in India and Pakistan and a few years a
 [Data](articles/52ec224c.json)
 
 [Extended Data](ext_articles/52ec224c.ext.json)
-
----
-
-### If they do not go to duty, they are considered to be resigning - General Manager of the Railway Department
-
-*2024-07-10 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188111) · `ta`
-
-Railway officials missing work after 12 noon today will be seen as having resigned. This decision was announced by the Railway Department's General Manager.
-
-🟩
-
-It has been announced that all railway principals and regulators who do not attend the duties will be considered to be withdrawn from the service at 12 noon today.
-
-The railway station principals and regulators who fail to attend duty at noon today will be regarded as resigning, according to the statement.
-
-The announcement was made on Wednesday by railway principals and train regulators.
-
-◼️
-
-[Data](articles/46180a03.json)
-
-[Extended Data](ext_articles/46180a03.ext.json)
 
 ---
 
@@ -2091,131 +2185,5 @@ He highlighted that free transportation will be provided for the passengers who 
 [Data](articles/e33b2c9e.json)
 
 [Extended Data](ext_articles/e33b2c9e.ext.json)
-
----
-
-### Railway strike
-
-*2024-07-09 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198651) · `si`
-
-A nationwide railway strike began last night due to 14 unresolved issues, causing significant disruption for passengers. The Railway Station Association cancelled all trains scheduled to run after midday. In response, the Railways Department announced the cancellation of mail trains and plans to operate office trains. The Ministry of Transport has offered support for ticketing and declared railway services as essential, threatening disciplinary action for non-compliance.
-
-🟩
-
-The Railway Station Association has decided to launch a strike since midnight today (09) due to several demands.
-
-The passengers who had come to get their transport facilities this afternoon were severely inconvenienced.
-
-The Railway Station Association (OIC) launched the strike on 14 issues, including the due date.
-
-The Railway Station Association said that the train to be running after 12 pm was canceled.
-
-Meanwhile, the Railways Department states that steps have been taken to cancel the mail trains that were prepared for running due to the trade union action.
-
-Meanwhile, several office trains will be planned to use the necessary officers to use the necessary officers.
-
-It is reported that the Ministry of Transport has provided facilities to facilitate traffic ticket to the train ticket to transport transport facilities from the Sri Lankan Testing Ticketing tomorrow (10).
-
-...
-
-[Data](articles/484fc731.json)
-
-[Extended Data](ext_articles/484fc731.ext.json)
-
----
-
-### Railway strike from midnight today; night mail trains cancelled
-
-*2024-07-09 21:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100404/railway-strike-from-midnight-today-night-mail-trains-cancelled) · `en`
-
-The Sri Lanka Railways Station Masters’ Union has decided to launch a strike from midnight today (09).
-
-As a result, several trains including the night mail trains to and from Colombo Fort and Badulla, to and from Trincomalee, to and from Batticaloa and night mail train to Rambukkana will be cancelled, the Department of Railways said.
-
-◼️
-
-[Data](articles/83267a86.json)
-
-[Extended Data](ext_articles/83267a86.ext.json)
-
----
-
-### Seasonal swings in Sri Lanka’s mango market: A balancing act with economic insights
-
-*2024-07-09 21:13:00* · [`islandlk`](http://island.lk/seasonal-swings-in-sri-lankas-mango-market-a-balancing-act-with-economic-insights/) · `en`
-
-Chandula Idirisinghe is a Research Assistant working on Agriculture and Agribusiness Development at the Institute of Policy Studies of Sri Lanka (IPS). He holds a BSc (Hons) in Agricultural Technology and Management, specialising in Applied Economics and Business Management from the Faculty of Agriculture, University of Peradeniya. His research interests include agricultural policies and institutions; agricultural productivity; agribusiness value chains; food security and environmental and natural resource policies.
-
-Sri Lanka’s mango industry, deeply woven into the cultural fabric and dietary needs of Sri Lanka, is thriving with a 12.2% production boost and a 5% yield improvement over the past two decades.
-
-Yet, the industry is characterised by drastic seasonal price swings. Prices are currently low, and another significant drop is expected between September and January, mirroring last year’s 70% plunge in Karthakolomban mango prices.
-
-...
-
-[Data](articles/12d4f200.json)
-
-[Extended Data](ext_articles/12d4f200.ext.json)
-
----
-
-### UN Representative Ludiana Sherin Akhilan Akhilan Akhilan Akhilan on the fifth day of the Kokkuttuwai Human Propard;Tamil Nadu urges the international monitoring
-
-*2024-07-09 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/188084) · `ta`
-
-On the fifth day of the Kokkuttuwai human river excavation in Mullaitivu, Tamil Nadu, UN representative Ludiana Sherin Akhilan expressed the need for international monitoring due to trust issues. The excavation, overseen by Professor Raj Somadevadam, has faced criticism from families of the missing, urging for identification and continued international oversight.
-
-🟩
-
-The fifth day excavation of the Mullaitivu - Kokkuttuvai human river was held on Tuesday (9) on Tuesday.
-
-In this case, the United Nations Office of the United Nations, Ludiana Shelrin, Akhilan, the United Nations Office of the United Nations, Ludiana Shelrin Akhilan, had been conducting a visit to the site of the excavation of the Human Rights Group, and asked the Professor Rajsomadeva and lawyer KS Niranjan regarding the excavation conditions.
-
-In this backdrop, the Tamil nationals say that the excavation of the excavation has been trusted by the monitoring of the international community representatives and that international surveillance is needed on the excavation.
-
-The fifth day excavation work was carried out by the Professor of Archeology Raj Somadevadam.
-
-...
-
-[Data](articles/53d78769.json)
-
-[Extended Data](ext_articles/53d78769.ext.json)
-
----
-
-### T-Jay Enterprises, key advertiser in latest Rainbow Pages Business Directory
-
-*2024-07-09 21:11:00* · [`islandlk`](http://island.lk/t-jay-enterprises-key-advertiser-in-latest-rainbow-pages-business-directory/) · `en`
-
-T-Jay Enterprises (Pvt) Ltd., a prominent player in the Local Industrial Equipment, Material Handling Equipment Supplies, Fluid Handling Pumps & Electric Golf Vehicles, have solidified its position as a key advertiser in the upcoming release of Rainbow Pages, the National Business Directory 2024/25, presented by SLT-MOBITEL group. As one of the top 20 clients of the National Business Directory, T-Jay Enterprises has recognized the value and potential of this comprehensive marketing platform.
-
-Scheduled for release by the end of the year, Rainbow Pages, the National Business Directory 2024/25 promises to be the most updated and extensive business directory in Sri Lanka. Under the contract, T-Jay Enterprises will enjoy a range of online and offline advertising options and potential marketing solutions tailored to their needs, including digital marketing strategies, web solutions, e-commerce, shopping cart and content development services.
-
-...
-
-[Data](articles/77955cb1.json)
-
-[Extended Data](ext_articles/77955cb1.ext.json)
-
----
-
-### Gautam Gambhir of Indian Cricket Team
-
-*2024-07-09 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198650) · `si`
-
-Gautam Gambhir, former Indian cricketer, is now the Chief Trainer of the Indian Cricket Team, set to lead the team to Sri Lanka later this month. Rahul Dravid previously held this position until the World Cup.
-
-🟩
-
-Former cricketer Gautam Gambhir has been appointed as the Chief Trainer of the Indian Cricket Team.
-
-He is due to be the chief coach of the Indian team to visit Sri Lanka at the end of this month.
-
-Rahul Dravid was served as the chief coach of the Indian cricket team up to the World Cup.
-
-◼️
-
-[Data](articles/d0b960a6.json)
-
-[Extended Data](ext_articles/d0b960a6.ext.json)
 
 ---

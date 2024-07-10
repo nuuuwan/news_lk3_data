@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 20:54:14**
+As of **2024-07-10 21:05:01**
 
 ## Newspaper Stats
 
-*Scraped **34,636** Articles*
+*Scraped **34,637** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
 adalk | 3,123
-adaderanalk | 3,984
+adaderanalk | 3,985
 tamilmirrorlk | 4,129
 dailymirrorlk | 4,733
 virakesarilk | 5,414
@@ -26,31 +26,61 @@ adaderanasinhalalk | 5,765
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,635 (100.0%) of 34,636 articles have been extended.
+34,636 (100.0%) of 34,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### ක්ලබ් වසන්ත එලොව යැවූ අභිරහසේ භාගයක් හෙළිවෙයි ?
+### US confirms support for Sri Lanka’s efforts to boost exports & improve efficiency for govt. agencies
+
+*2024-07-10 20:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100431/us-confirms-support-for-sri-lankas-efforts-to-boost-exports-improve-efficiency-for-govt-agencies) · `en`
+
+USAID Mission Director for Sri Lanka and Maldives, Gabriel Grau highlighted that that being a long-term partner and Sri Lanka’s largest export market, the United States supports efforts to boost exports and improve efficiency for businesses and government agencies.
+
+He added that the United States is committed to initiatives such as Sri Lanka’s Trade National Single Window System or TNSWS which makes trade more transparent and predictable, easing business challenges.
+
+Gabriel made this remark while joining a workshop for 94 key Trade National Single Window System project stakeholders recently organised by the Department of Trade and Investment Policy of the Ministry of Finance, Economic Stabilization and National Policies in collaboration with the USAID.
+
+Meanwhile, Secretary to the Ministry of Finance Mahinda Siriwardana noted that establishing a trade national single window system is crucial as Sri Lanka recovers from an unprecedented economic crisis.
+
+...
+
+[Data](articles/5802d94e.json)
+
+---
+
+### Surgery seat of Club Wasantha Elos
 
 *2024-07-10 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198683) · `si`
 
-සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඝාතනය සම්බන්ධයෙන් මේ වනවිට තොරතුරු රැසක් අනාවරණය වෙමින් පවතී.
+Businessman Sureshendra Wasantha Perera, known as Club Wasantha, was murdered at a Tatu Center in Athurugiriya. The incident involved his wife Sujeewa, singer Kin Nayana Wijesuriya (husband of Sujeewa), and others. Police investigations link the crime to a dispute involving a large chicken and a bowl, used as couriers. Suspects include individuals associated with the victim through WhatsApp discussions. The case involves allegations of drug dealing and the use of firearms, including one previously used by the LTTE. Police are seeking information leading to the arrest of the perpetrators.
 
-පොලීසිය පවසන්නේ වසන්ත ඝාතනය වෙනුවෙන් ලොකු පැටී, දුලාන්ව ඉත්තෙක් ලෙස පාවිච්චි කර ඇතැයි විමර්ශන අනුව පෙනීයන බවය.
+🟩
 
-ව්‍යාපාරිකයකු වූ සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ජුලි 08 වනදා අතුරුගිරියේ පිහිටි ටැටූ මධ්‍යස්ථානයක සිදුවූ වෙඩි තැබීමකින් ජීවිතක්ෂයට පත්වුණි.
+Suresrandra Wasantha Perera alias Club Wasantha is revealed.
 
-එම අවස්ථාවේ එහි සිටි ප්‍රසිද්ධ ගායන ශිල්පිනී කේ. සුජීවාගේ සැමියා වන නයන වාසුල නැමැත්තාද මියගිය අතර කේ. සුජීවා, ක්ලබ් වසන්තගේ බිරිය, තවත් කාන්තාවක් හා පිරිමි පුද්ගලයෙකු තුවාල ලබා රෝහල්ගත කෙරුණි.
+Police states that the big chick and the bowl is used as a courtkera for the murder of Spring.
 
-පොලිස් විමර්ශන අනුව බලපිටියේ මුල් පදිංචිකරුවකු වූ ටැටූ මධ්‍යස්ථාන හිමිකාර දුලාන් සන්ජුල ඩුබායි හී සිටින ලොකු පැටීව හඳුනාගෙන ඇත්තේ මහේෂ් නමැති පුද්ගලයකු මාර්ගයෙනි.
+The businessman, Sorchandra Wasantha Perera, or Club, was shot dead at a Tatu Center in Athurugiriya on July 08.
 
-අනතුරුව ඔවුන් දෙදෙනා වට්ස්ඇප් මාර්ගයෙන් සම්බන්ධතා පවත්වා ඇති අතර එලෙස ගොඩනැගුණු සම්බන්ධතාව ඔස්සේ අතුරුගිරියේ ටැටූ මධ්‍යස්ථානය විවෘත කිරීමට සිදුවූ සාකච්ඡාව සැකකරු අද පොලීසිය හමුවේ ප්‍රකාශයක් කරමින් අනාවරණ කර තිබුණි.
+The famous singer kin. Nayana Vasuliye, who was the husband of Sujeewa, died. Sujeewa, Club Wasantha's wife, another woman and a man was injured and hospitalized.
+
+According to police investigations, Tatta Center owned by Tatu Sunjula, a large resident of Balapitiya, has identified the big chick of Dubai.
+
+The two had been associated with WhatsApp, and the discussion had been revealed to the police today.
+
+Police say Tative Center owns the Dulan Sunjula and Club Spring first.
+
+The police assumed that Dulan was not known that he would take place before he had taken their wife and their family members to open the new Tatuta Center.
+
+His wife is currently hospitalized and hospitalized by the shooting.
 
 ...
 
 [Data](articles/acc0b831.json)
+
+[Extended Data](ext_articles/acc0b831.ext.json)
 
 ---
 
@@ -2243,23 +2273,5 @@ The youth books were still among the 16-year-old Yamal European Cup, which was r
 [Data](articles/94ef2182.json)
 
 [Extended Data](ext_articles/94ef2182.ext.json)
-
----
-
-### A new story about Sri Lankans who went to war in Russian - Ukrainian war
-
-*2024-07-10 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198661) · `si`
-
-Sri Lankan nationals involved in the Russian-Ukrainian conflict have sparked 464 complaints, according to the State Minister.
-
-🟩
-
-The State Minister of the State Minister says that 464 complaints have been received regarding Sri Lankans involved in the war of Russian - Ukrainian war.
-
-◼️
-
-[Data](articles/16ea9f2c.json)
-
-[Extended Data](ext_articles/16ea9f2c.ext.json)
 
 ---

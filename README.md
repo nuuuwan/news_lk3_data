@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 15:35:46**
+As of **2024-07-10 15:54:25**
 
 ## Newspaper Stats
 
-*Scraped **34,591** Articles*
+*Scraped **34,593** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 312
 colombotelegraphcom | 324
-bbccomsinhala | 338
+bbccomsinhala | 339
 newsfirstlk | 363
 islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
 adalk | 3,113
-adaderanalk | 3,974
+adaderanalk | 3,975
 tamilmirrorlk | 4,124
 dailymirrorlk | 4,733
 virakesarilk | 5,402
@@ -26,21 +26,39 @@ adaderanasinhalalk | 5,758
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,589 (100.0%) of 34,591 articles have been extended.
+34,591 (100.0%) of 34,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-10 (Wednesday)
 
-### ජනාධිපතිවරණයේ කාලරාමුව ගැන කල්තැබීමේ  විවාදයක්
+### Adjournment debate on time frame of Presidential Election
+
+*2024-07-10 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100422/-adjournment-debate-on-time-frame-of-presidential-election-) · `en`
+
+A decision has been taken at the arty leaders’ meeting to hold an adjournment debate in Parliament tomorrow (11 July) on a time frame for the Presidential Election.
+
+◼️
+
+[Data](articles/b0649a60.json)
+
+---
+
+### Adjournment debate on the timeline of the presidential election
 
 *2024-07-10 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198674) · `si`
 
-ජනාධිපතිවරණය පැවැත්වීමේ කාල රාමුව සම්බන්ධයෙන් හෙට (11) පාර්ලිමේන්තුවේදී කල්තැබීමේ විවාදයක් පැවැත්වීමට තීරණය කර තිබේ.
+A debate on the presidential election timeline will be held at Parliament tomorrow, focusing on adjournment issues.
+
+🟩
+
+It has been decided to hold a debate at Parliament tomorrow (11) regarding the presidential election period.
 
 ◼️
 
 [Data](articles/146476fe.json)
+
+[Extended Data](ext_articles/146476fe.ext.json)
 
 ---
 
@@ -122,17 +140,23 @@ After granting the money, the large patio was informed to invite the TATOs Cente
 
 ---
 
-### කඩුවෙලට විශේෂ ආරක්ෂාවක් - වසන්ත ඝාතනයේ සැකකරුවන්ට රැඳවුම් නියෝග
+### Detention ratings for kaduwela - Spring murder suspects
 
 *2024-07-10 14:03:27* · [`adalk`](https://www.ada.lk/breaking_news/කඩුවෙලට-විශේෂ-ආරක්ෂාවක්---වසන්ත-ඝාතනයේ-සැකකරුවන්ට-රැඳවුම්-නියෝග/11-410719) · `si`
 
-ව්‍යාපාරික වසන්ත සුරේන්ද්‍ර හෙවත් ක්ලබ් වසන්ත ඝාතනයට අනුබල දුන් සැකකරුවන් ට ප්‍රතිවිරුද්ධ කල්ලියකින් ප්‍රහාරයක් එල්ල වේ යැයි යන සැකයෙන් කඩුවෙල අධිකරණය ආසන්නයට හා අවට ප්‍රදේශයට  දැඩි ආරක්‍ෂාවක් යෙදවූ බව උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+Suspects linked to the Club Wasantha murders, including a police officer and the owner of Taboo Center, face charges. The Special Task Force (STF) is involved, and all seven suspects will appear in court today.
 
-ඒ සඳහා පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් ද යොදවා ඇත.  එම ද්විත්ව ඝාතනයට ආධාර අනුබල දුන් බව කියන ටැටු මධ්‍යස්ථානයේ හිමිකරු ඇතුළු එම සැකකරුවන් හත් දෙනා අද (10) කඩුවෙල මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර පැය (48) කාලයකට රැඳවුම් නියෝග ලබා ගැනීනි.
+🟩
+
+The suspects who supported the murder of Club Wasantha murder were suspicious of a group of suspects, a suspicious police officer who was assaulted in the surrounding area.
+
+The STF officials have also been deployed for this purpose.The seven suspects including the owner of the Taboo Center that supported the double murder and the seven suspects will be produced before the Kaduwela Magistrate's Court today (48).
 
 ◼️
 
 [Data](articles/96194137.json)
+
+[Extended Data](ext_articles/96194137.ext.json)
 
 ---
 
@@ -1119,6 +1143,22 @@ PM Modi's visit to Russia highlights historical ties, from USSR's 1971 UN veto f
 [Data](articles/07c606d8.json)
 
 [Extended Data](ext_articles/07c606d8.ext.json)
+
+---
+
+### CID ය විරංජිත් තාඹුගලගෙන් රුපියල් කෝටි 2ක කප්පම් ගත් බව කියන සිද්ධිය කුමක් ද?
+
+*2024-07-10 09:48:14* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c7253pzyd9xo) · `si`
+
+CID ය විරංජිත් තාඹුගලගෙන් රුපියල් කෝටි 2ක කප්පම් ගත් බව කියන සිද්ධිය කුමක් ද?
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නීති විරෝධී වත්කම් විමර්ශන අංශයේ හිටපු නියෝජ්‍ය පොලිස්පතිවරයා සහ අධ්‍යක්ෂවරයා විසින් ව්‍යාපාරික විරංජිත් තාඹුගලගෙන් රුපියල් කෝටි දෙකක කප්පමක් ලබාගත් බව කියන සිද්ධිය සත්‍යයක් නම් එය බරපතළ කරුණක් බවත් ඒ සම්බන්ධයෙන් විමර්ශනය කොට අදාළ නිලධාරීන්ට එරෙහිව බරපතල නීතිමය පියවර ගත යුතු බවත් නීතිපතිවරයා අද (ජුලි 10 වැනිදා) කොළඹ මහේස්ත්‍රාත් අධිකරණය හමුවේ ප්‍රකාශ කළේය.
+
+තමාට එල්ල වී ඇති මරණීය තර්ජන සම්බන්ධයෙන් වින්දිතයින් හා සාක්ෂිකරුවන් ආරක්ෂා කිරීමේ පනතේ ප්‍රතිපාදන යටතේ නිසි ආරක්‍ෂාව ලබාදෙන ලෙස නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ව්‍යාපාරික විරංජිත් තාඹුගල විසින් ඉදිරිපත් කළ ඉල්ලීම සලකා බැලූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරාල් දිලීප පීරිස් මේ බව ප්‍රකාශ කර සිටියේය.
+
+...
+
+[Data](articles/66d1b27b.json)
 
 ---
 
@@ -2145,63 +2185,5 @@ We have not made a 1700 rupee salary request to the President with a political p
 [Data](articles/b2eba3e4.json)
 
 [Extended Data](ext_articles/b2eba3e4.ext.json)
-
----
-
-### Napoleon paid homage to Vijayakanth!
-
-*2024-07-10 02:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/188089) · `ta`
-
-Actor Napoleon, along with his family, visited the late DMK leader Vijayakanth's home to pay respects. Vijayakanth, a prominent figure in politics and cinema, passed away on December 28 due to illness. His funeral took place at the Temuthika headquarters in Coimbatore, Chennai, where many mourners paid tribute. Recently, Napoleon, a close friend of Vijayakanth, returned to India from the United States and visited Vijayakanth's house in Saligramam, Chennai, where he honored the leader's portrait with a garland. This touching moment was captured in a video that has since gone viral on social media.
-
-🟩
-
-Actor Napoleon, who went to the house of the late DMK leader Vijayakanth with his family, paid homage to his portrait.
-
-Actor and leader of the party, Vijayakanth passed away on December 28 due to ill health. Various political party leaders and film celebrities paid tribute to his body.
-
-His body and body were then buried at the Temuthika headquarters in Coimbatore, Chennai. To date, many people have gone there and paying tribute.
-
-In the meantime, Napoleon, an actor in the United States and Vijayakanth's friend, is now in India.
-
-Following this, actor Napoleon went to Vijayakanth's house in Saligramam, Chennai today (July 9) with his wife.. There, Vijayakanth wore a garland to the portrait and paid homage.
-
-Later, Premalatha was comforted by Vijayakanth and son Shanmukha Pandiyan. Subsequently, Premalatha described the Padma Bhushan Award for Vijayakanth to Napoleon. The video related to this has been released on the social network and is going viral.
-
-◼️
-
-[Data](articles/c8d258a5.json)
-
-[Extended Data](ext_articles/c8d258a5.ext.json)
-
----
-
-### Nayomi Amarasinghe: 'The first Sri Lankan woman visiting men in a passenger ship'
-
-*2024-07-10 01:59:43* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0kr1z2d1dyo) · `si`
-
-Naomi Amarasinghe made history as the first Sri Lankan female naval officer serving on a passenger ship, breaking gender barriers in the traditionally male-dominated field. With support from the International Labor Organization, she completed her training and embarked on her journey, facing skepticism but proving her capabilities. Despite initial family opposition, Naomi's determination led her to become a trailblazer in her country's maritime industry. Her responsibilities onboard include maintaining the ship's anchor system, managing lifeboats, and ensuring passenger safety, showcasing her versatility and strength. Naomi advocates for equal opportunities for women in Sri Lankan society, emphasizing the importance of supporting female achievements and challenging societal norms.
-
-🟩
-
-Nayomi Amarasinghe: 'The first Sri Lankan woman visiting men in a passenger ship'
-
-She is the first naval woman qualified from Sri Lanka to serve in the service of a passenger carrier.
-
-She was called Naomi Amarasinghe as a valid chart on her, as a woman who was broken down the sexuality of the Sri Lankan naval field.
-
-Naomi Amarasinghe became the first naval woman in Sri Lanka to start a passenger carrier a few months ago, with a course completed with the assistance of the International Labor Organization.
-
-"My mother didn't like this at first. My brother was in the Navy. He was also working on a ship. He liked. But Mother opposed a girl not to take this job. But my mother is very pleased, "Naomi Amarasinghe told the BBC Sinhala.
-
-How can be a graduate by 19 years of age without the age of 19?
-
-Naomi Amarasinghe explained how she became the first Sri Lankan naval starting of a passenger carrier.
-
-...
-
-[Data](articles/102293c3.json)
-
-[Extended Data](ext_articles/102293c3.ext.json)
 
 ---

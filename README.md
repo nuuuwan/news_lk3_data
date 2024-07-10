@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-10 18:15:00**
+As of **2024-07-10 18:26:48**
 
 ## Newspaper Stats
 
-*Scraped **34,613** Articles*
+*Scraped **34,614** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,945
 economynextcom | 2,037
 dailyftlk | 2,168
 adalk | 3,117
-adaderanalk | 3,982
+adaderanalk | 3,983
 tamilmirrorlk | 4,129
 dailymirrorlk | 4,733
 virakesarilk | 5,402
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,762
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,612 (100.0%) of 34,613 articles have been extended.
+34,613 (100.0%) of 34,614 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Accordingly, the petitioner requests the Court of Appeals to call and examine th
 ◼️
 
 [Data](articles/24235206.json)
+
+[Extended Data](ext_articles/24235206.ext.json)
 
 ---
 
@@ -417,6 +419,22 @@ A decision has been taken at the arty leaders’ meeting to hold an adjournment 
 [Data](articles/b0649a60.json)
 
 [Extended Data](ext_articles/b0649a60.ext.json)
+
+---
+
+### Adjournment debate on time frame of Presidential Election
+
+*2024-07-10 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100422/adjournment-debate-on-time-frame-of-presidential-election) · `en`
+
+It has been decided in the Committee on Parliamentary Business, held today (10) under the chairmanship of the Speaker Mahinda Yapa Abeywardena, to hold an adjournment debate tomorrow (11) on holding the presidential election within the stipulated time according to the legal provisions.
+
+Accordingly, the adjournment debate is scheduled to be held according to the motion brought jointly by the leader of the National People’s Power (NPP) Anura Kumara Dissanayake, and the Chief Opposition Whip Lakshman Kiriella, on holding the presidential election during the period from 17th September to 16th October 2024 as required by the Constitution and other applicable laws.
+
+Thus, it has been decided to hold the debate from 10.30 am to 5.30 pm following the Questions for the Oral Answers session, the Secretary General of Parliament Mrs. Kushani Rohanadeera said.
+
+...
+
+[Data](articles/f2f93b30.json)
 
 ---
 
@@ -2219,29 +2237,5 @@ GoGo.sale, Sri Lanka’s premier online marketplace, has unveiled its latest cam
 [Data](articles/3ed5a2af.json)
 
 [Extended Data](ext_articles/3ed5a2af.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-07-10 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198653) · `si`
-
-Expect widespread showers across Western, Sabaragamuwa, North Western provinces, and in Kandy, Nuwara Eliya, Galle, and Matara districts. Thundershowers likely in Ampara, Batticaloa, and Uva regions. Strong winds of 40-50 km/h possible from the central hills' western slopes, Trincomalee, Hambantota, and Monaragala districts. The Meteorology Department advises caution against lightning and wind-related accidents.
-
-🟩
-
-Several spells of showers in the Western, Sabaragamuwa and North Western Provinces and several showers in the Kandy, Nuwara Eliya, Galle and Matara districts.
-
-The Department of Meteorological Department announced that showers or thundershowers during the evening or innovates in the Ampara and Batticaloa districts of the Uva.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee, Hambantota and Monaragala Districts, Trincomalee, Hambantota and Monaragala Districts. There may be 40-50 strong winds.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/3b3b88f0.json)
-
-[Extended Data](ext_articles/3b3b88f0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 16:20:05**
+As of **2024-07-11 16:35:24**
 
 ## Newspaper Stats
 
-*Scraped **34,783** Articles*
+*Scraped **34,785** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 1,957
 economynextcom | 2,055
 dailyftlk | 2,183
 adalk | 3,137
-adaderanalk | 3,998
+adaderanalk | 3,999
 tamilmirrorlk | 4,161
 dailymirrorlk | 4,733
 virakesarilk | 5,434
-adaderanasinhalalk | 5,786
+adaderanasinhalalk | 5,787
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,783 (100.0%) of 34,783 articles have been extended.
+34,783 (100.0%) of 34,785 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### ළඟටම ඇවිත් ක්ලබ් වසන්තට වෙඩි තබන ආකාරය - CCTV
+
+*2024-07-11 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198707) · `si`
+
+පසුගිය සඳුදා (08) අතුරුගිරියේ ටැටූ ආයතනයක් විවෘත කිරීමට ගොස් සිටියදී ක්ලබ් වසන්ත ව ඝාතනය කරන අයුරු දැක්වෙන CCTV දර්ශන පෙළක් නිකුත්කර තිබේ.
+
+එහි දැක්වෙන්නේ ක්ලබ් වසන්ත ආහාර ගනිමින් සිටින විට වෙඩික්කරුවෙක් ඔහු ආසන්නයට ම ගොස් වෙඩිතබන අයුරු එහි දැක්වෙයි.
+
+◼️
+
+[Data](articles/1bcc8f47.json)
+
+---
+
+### Russia wants quick solution to issue of Indians caught up in Ukraine war, top diplomat says
+
+*2024-07-11 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100446/russia-wants-quick-solution-to-issue-of-indians-caught-up-in-ukraine-war-top-diplomat-says) · `en`
+
+Russia is committed to finding the “earliest possible solution” to the issue of Indians being duped into joining its army and fighting in the Ukraine war, a top Russian diplomat said, in Moscow’s first comments on the matter.
+
+Seeking the discharge of Indians who joined Russia’s army on false premises has been a key focus of Prime Minister Narendra Modi’s talks with President Vladimir Putin in Moscow this week.
+
+An Indian official accompanying Modi said on Tuesday that Russia has promised their early discharge.
+
+“The Russian army does not need Indians, especially those numbers which are very few ... They do not change the situation on the battleground in any way,” Roman Babushkin, the Charge d’Affaires of the Russian Embassy in India, said late on Wednesday.
+
+...
+
+[Data](articles/0e394e19.json)
+
+---
 
 ### Charore's Cup Cricket Tournament in Sri Lanka?
 
@@ -1026,11 +1058,11 @@ The suspects are residents of Mahiyanganaya, Girandurukotte, aged 18, 24, 28 and
 
 *2024-07-11 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100437/president-inaugurates-kompanna-veediya-flyover-) · `en`
 
-President Ranil Wickremesinghe inaugurated the second phase of the flyover project today (11). This phase, constructed by the Ministry of Transport and Highways at a cost of LKR 5,278 million, spans between Kompannavidiya and Justice Akbar Mawatha over the railway line.
+President Ranil Wickremesinghe inaugurated the second phase of the flyover project today (11). This phase, constructed by the Ministry of Transport and Highways at a cost of LKR 5,278 million, spans between Kompanna Veediya and Justice Akbar Mawatha over the railway line.
 
 The Road Development Authority, in collaboration with Maga Engineering, undertook this project to alleviate the delays and traffic congestion caused by the frequent closing of railway gates for 109 daily train journeys.
 
-In the bustling commercial area of Kompannavidiya, which hosts various institutions including government offices, hospitals, religious places, restaurants and cinema halls, it has been observed that nearly three hours of the day is wasted due to the closing of railway gates.
+In the bustling commercial area of Kompanna Veediya, which hosts various institutions including government offices, hospitals, religious places, restaurants and cinema halls, it has been observed that nearly three hours of the day is wasted due to the closing of railway gates.
 
 ...
 
@@ -2285,43 +2317,5 @@ I voted because he is worthy. He has carried out in his work without a queue age
 [Data](articles/367a66cd.json)
 
 [Extended Data](ext_articles/367a66cd.ext.json)
-
----
-
-### Cancel the lease of fault to pay salary
-
-*2024-07-11 02:13:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளத்தை-செலுத்த-தவறின்-குத்தகை-இரத்து/175-340187) · `ta`
-
-A cabinet meeting decided to assess plantation workers' daily wages considering living costs and the national economic crisis. It also aimed to form a committee to evaluate regional plantation companies' ability to pay wages. The meeting, chaired by President Ranil Wickremesinghe, agreed to speed up the cancellation of leases with companies failing to pay their workers, despite previous attempts to halt the process.
-
-🟩
-
-The Cabinet meeting held on 2024-05-22 was given to the Secretary of the Ministry of Finance, Economic Economics and National Policies to evaluate the salary of the plantation worker per day with the cost of living and the impact of the economic crisis in the country in the recent past.
-
-In addition, it has been decided at the Cabinet meeting to appoint a committee to determine the impossibility of each regional plantation companies to pay the wage.
-
-It was decided at a cabinet meeting chaired by President Ranil Wickremesinghe on Tuesday (09) to expedite the process to repeal the government's leasing agreement with regional plantation companies who did not pay the wages of their plantation workers, despite the fact that the Western Committee was able to abolish the proceedings.
-
-◼️
-
-[Data](articles/0315907e.json)
-
-[Extended Data](ext_articles/0315907e.ext.json)
-
----
-
-### Adani controversy: Why the cheerleaders are wrong
-
-*2024-07-11 00:51:20* · [`dailyftlk`](https://www.ft.lk/columns/Adani-controversy-Why-the-cheerleaders-are-wrong/4-764104) · `en`
-
-Samaranayake’s rambling polemic against environmentalists and in favour of Adani sidesteps the most important issue: transparency
-
-The past week has seen a flurry of media activity from apologists for, and supporters of, the proposed Adani wind power project in Mannar. An article by Engineer Gerald L. Samaranayake in the Daily FT of 8 July, for instance, observed: “Environmentalists rallying against a renewable energy project is odd. As they should be against fossil fuel-based projects and push for a quicker energy transition for Sri Lanka to achieve its goal to become carbon neutral by 2050.” (https://www.ft.lk/columns/Will-environmentalists-stall-new-50MW-Mannar-wind-power-project/4-763942).
-
-...
-
-[Data](articles/17ed5b64.json)
-
-[Extended Data](ext_articles/17ed5b64.ext.json)
 
 ---

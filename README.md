@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 09:19:49**
+As of **2024-07-11 09:35:58**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,771
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,711 (100.0%) of 34,712 articles have been extended.
+34,712 (100.0%) of 34,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### දරුවන් අතර ඉන්ෆ්ලුවෙන්සා රෝග ලක්ෂණ ඉහළට
+### Influenza symptoms among children
 
 *2024-07-11 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198690) · `si`
 
-ළමුන් අතර මේ දිනවල ඉන්ෆ්ලුවෙන්සා රෝග ලක්ෂණ වාර්තාවීම ඉහළ ගොස් ඇති බව රිජ්වේ ආර්යා ළමා රෝහලේ විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා පවසයි.
+Children experiencing influenza symptoms should seek immediate medical attention, as advised by Ridgeway Lady Children's Hospital experts.
 
-ඔහු පවසන්නේ එවැනි රෝග ලක්ෂණ පවතින්නේ නම් කඩිනමින් වෛද්‍ය උපදෙස් ලබාගැනීම සඳහා යොමුවිය යුතු බවයි.
+🟩
+
+Ridgeway Lady Children's Hospital experts from the Lady Lady Children's Hospital
+
+He says that such symptoms exist if such symptoms have to be taken to obtain medical advice quickly.
 
 ◼️
 
 [Data](articles/ebcbdbe2.json)
+
+[Extended Data](ext_articles/ebcbdbe2.ext.json)
 
 ---
 

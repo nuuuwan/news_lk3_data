@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 01:35:17**
+As of **2024-07-12 01:53:58**
 
 ## Newspaper Stats
 
-*Scraped **34,858** Articles*
+*Scraped **34,868** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,175 @@ bbccomsinhala | 340
 newsfirstlk | 363
 islandlk | 1,957
 economynextcom | 2,068
-dailyftlk | 2,184
+dailyftlk | 2,191
 adalk | 3,145
 adaderanalk | 4,006
-tamilmirrorlk | 4,167
+tamilmirrorlk | 4,168
 dailymirrorlk | 4,733
-virakesarilk | 5,457
+virakesarilk | 5,459
 adaderanasinhalalk | 5,802
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,858 (100.0%) of 34,858 articles have been extended.
+34,858 (100.0%) of 34,868 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-07-12 (Friday)
+
+### பங்களாதேஷை இலகுவாக வென்றது இலங்கை; மாலைதீவுகளை துவம்சம் செய்த இந்தியா இறுதிப் போட்டிக்கு முன்னேறியது
+
+*2024-07-12 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/188260) · `ta`
+
+கொழும்பு சுகததாச உள்ளக அரங்கில் வியாழக்கிழமை (11) இரவு நடைபெற்ற 18 வயதுக்குட்பட்ட தெற்காசிய கூடைப்பந்தாட்ட சாம்பியன்ஷிப்பில் இலங்கை தனது இரண்டாவது போட்டியில் பங்களாதேஷை 93 - 56 என்ற புள்ளிகள் வித்தியாசத்தில் இலகுவாக வெற்றிகொண்டது.
+
+இந்தியாவுக்கு எதிரான முதலாவது போட்டியில் தோல்வி அடைந்த இலங்கைக்கு இந்த வெற்றி உற்சாகத்தைக் கொடுத்துள்ளது..
+
+எவ்வாறாயினும் இந்தப் போட்டியிலும் சிற்சில தவறுகளை இழைத்ததாலும் லேஅப் ஷொட்கள் உட்பட ப்றீ ஷொட்ஸ்கள் பலவற்றைத் தவறவிட்டதாலும் இலங்கைக்கு 100 புள்ளிகள் பெறுவதற்கு இருந்த வாய்ப்பு அற்றுப்போனது.
+
+எவீன் சேனாரத்ன 17 புள்ளிகளையும் திலுக் சமரவிக்ரம 15 புள்ளிகளையும் டெரன் பேர்னார்ட் அன்தனி 12 புள்ளிகளையும் பெற்றுக்கொடுத்தனர்.
+
+கடைசிக் கட்டத்ததில் களம் இறக்கப்பட்ட தாருக்க ஜயசுந்தர மிகத் திறமையாக விளையாடி 2 த்ரீ பொய்ன்டர்ஸ் உட்பட 7 புள்ளிகளைப் பெற்றார்.
+
+...
+
+[Data](articles/4e5eb577.json)
+
+---
+
+### Decarbonising the supply chain: Role of digital technologies
+
+*2024-07-12 01:24:15* · [`dailyftlk`](https://www.ft.lk/columns/Decarbonising-the-supply-chain-Role-of-digital-technologies/4-764165) · `en`
+
+A series of small steps that can incrementally reduce carbon emissions is a prudent way to  commence your journey towards decarbonisation
+
+The need to decarbonise your supply chain has eventually escalated to a now or never situation with the ever-increasing climate changes. Managers have an ethical and legitimate responsibility of helping their business firms to initiate decarbonising at the earliest to make the operations sustainable and allow the ecosystems to coexist
+
+...
+
+[Data](articles/7b940612.json)
+
+---
+
+### Is excessive board interference killing executive spirit?
+
+*2024-07-12 01:16:34* · [`dailyftlk`](https://www.ft.lk/columns/Is-excessive-board-interference-killing-executive-spirit/4-764164) · `en`
+
+Management’s role is to manage, and the board’s role is to oversee without killing the innovative spirit of management
+
+Whilst in law, and on paper, a board is superior in rank to management, it is important that a board must never make the management feel inferior. Directors and executives must cohabit on a platform of collaboration, trust, and respect. The board-management relationship must be positioned as a value creating partnership where the board is humble in displaying some subservience to management’s technical, functional, and integrating expertise in running the company and the management appreciates the board’s advisory, guidance, governance, and oversight roles in increasing stakeholder value. A shared vision is vital and will result in management accepting the board’s untethered authority over selected aspects of the company
+
+...
+
+[Data](articles/45b248b7.json)
+
+---
+
+### That regional carrot of doing good and being best
+
+*2024-07-12 01:09:18* · [`dailyftlk`](https://www.ft.lk/columns/That-regional-carrot-of-doing-good-and-being-best/4-764163) · `en`
+
+In addition to pressures of acquiring customers, there are also the stringent compliance regulations from these blocs
+
+The EU and the US disburse significant amounts of money under the banner of doing good, and often mandate local partners with no subject matter expertise to drive programs on mental and sexual health, child welfare, nutrition and employee rights that do more damage than good to the future of our nation. When these are married to local individuals and organisations that give scant regard to the nation, its people and future; the outcomes can be perilous
+
+The European Union and the US are amongst preferred export destinations, but winning buyers from these markets do not come easy. In addition to pressures of acquiring customers, there are also the stringent compliance regulations from these blocs. Hypocrisy and geo-political powerplay is rife, but cracks are slowly but surely beginning to show.
+
+...
+
+[Data](articles/3f3dc953.json)
+
+---
+
+### Change, system or the people?
+
+*2024-07-12 01:02:06* · [`dailyftlk`](https://www.ft.lk/columns/Change-system-or-the-people/4-764161) · `en`
+
+Whether a nation with this record can find the balance after a summersault of an attempted system change, only history will tell
+
+From 1948, it has been an endless series of missteps, reflecting a national temperament which urges the path of backwardness and poor productivity. The emphasis was not on becoming a stronger or a wealthier nation, but on a hazy idea that all our ills are due to the nastiness of the system, there is this wealth somewhere in the country which should be distributed equally! A system must be created that feeds all the braggarts and the laggards (our Parliamentarians have already done this by voting in all kinds of benefits for themselves!)
+
+A spectre is haunting Sri Lanka – the spectre of the NPP/JVP.
+
+All powers of old Sri Lanka have entered into a holy alliance to exorcise this spectre: A President without a popular mandate, a Government lacking credibility, political parties with tired faces, and businessmen with dark histories.
+
+...
+
+[Data](articles/6059446a.json)
+
+---
+
+### Questions over the term of the President
+
+*2024-07-12 00:57:14* · [`dailyftlk`](https://www.ft.lk/columns/Questions-over-the-term-of-the-President/4-764160) · `en`
+
+Unsurprisingly the SC has dismissed the Fundamental Rights petition requesting the Supreme Court to hold that the President has a term of six years, in limine. Reportedly, the SC has found no merit in the petition.
+
+If the term of office of the President had been interpreted to be six years, as the petitioner had sought, it would no doubt have been expressly in violation of the Constitutional provisions, limiting the President’s term to five years, introduced by the 19th Amendment.
+
+What the petitioner had pleaded for was sort of a judicial review of post-enactment legislation by the Supreme Court, a power which the SC is not vested with under the Constitution of Sri Lanka. It could hardly be surmised that the SC could arrogate to itself a power that is not vested in it by invoking any other doctrines of law, including inherent jurisdiction. However, the power of interpretation of the Constitution that lies with the SC is a power that it can use as it may deem fit.
+
+...
+
+[Data](articles/09e3c0c0.json)
+
+---
+
+### Sajitha Withanage wins ‘Soorya Overall Youth Top 40 Leader of the Year Award’ 2024
+
+*2024-07-12 00:52:02* · [`dailyftlk`](https://www.ft.lk/news/Sajitha-Withanage-wins-Soorya-Overall-Youth-Top-40-Leader-of-the-Year-Award-2024/56-764159) · `en`
+
+Sajitha Withanage winning the ‘Soorya Overall Top 40 Youth Leader of the Year’
+
+The Soorya team with the nine provincial winners and Dr. Sulochana Segera
+
+Sun Match Company’s flagship brand Soorya, ignited the 2024 edition of the Top 40 Youth Awards to identify and reward the best performing youth talent of Sri Lanka in partnership with WIM ( Women in Management) and Youth Council of Sri Lanka at Shangri-la Hotel with the Chief Guest being the State Minister of Defence Premitha Bandara Tennakoon in the presence of the Brand Ambassador for Soorya Yasodha Wimaladharma
+
+...
+
+[Data](articles/96cc3710.json)
+
+---
+
+### DMASL Digital Summit 2024: Confluence of innovation and insights
+
+*2024-07-12 00:49:00* · [`dailyftlk`](https://www.ft.lk/news/DMASL-Digital-Summit-2024-Confluence-of-innovation-and-insights/56-764158) · `en`
+
+“It’s crucial to tailor your strategies to the unique characteristics of each market to achieve success.”
+
+Pavel Bulowski delved into effective customer data strategies for Chief Marketing Officers (CMOs). He stressed the importance of leveraging data to drive marketing decisions. “Data is the backbone of any successful marketing strategy,” Bulowski asserted. “CMOs need to focus on data-driven insights to optimise their campaigns and achieve better results.”
+
+Thisal Samarasinghe explored the impact of generative AI on modern creativity, using the fascinating example of resurrecting Sri Lankan kings. “Generative AI is revolutionising the creative process, offering new ways to tell stories and engage audiences,” Samarasignhe remarked. “The project of bringing Sri Lankan kings to life is just one example of its potential.”
+
+...
+
+[Data](articles/f870cdc9.json)
+
+---
+
 ### 2024-07-11 (Thursday)
+
+### 10 லட்சம் ரூபா மோசடி:  பொலிஸ் அதிகாரிக்கு விளக்கமறியல்
+
+*2024-07-11 23:50:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-லட்சம்-ரூபா-மோசடி-பொலிஸ்-அதிகாரிக்கு-விளக்கமறியல்/175-340267) · `ta`
+
+வெளிநாட்டு வேலைவாய்ப்பு பெற்று தரும் முகவர் நிலையம் ஒன்றுக்கு செலுத்த வேண்டிய 10 லட்சம் ரூபாவை மோசடி செய்தார் என்ற குற்றச்சாட்டில் வழக்கு தொடுக்கப்பட்டிருந்த பொலிஸ் அதிகாரி ஒருவரை இம்மாதம் 25 ஆம் திகதி வரை விளக்க மறியலில் வைக்க நுவரெலியா மாவட்ட நீதவான் நீதிமன்றம் நேற்று மாலை உத்தரவு பிறப்பித்துள்ளது.
+
+இந்த உத்தரவை நுவரெலியா மாவட்ட நீதவான் நீதிமன்ற நீதிபதி பிரபுதிகா நாணயக்கார பிறப்பித்துள்ளார்.
+
+நுவரெலியா விஷேட பொலிஸ் பிரிவில்  கடமையாற்றி வரும் பொலிஸ் அதிகாரி ஒருவரின் உறவினர் வெளிநாட்டு வேலை வாய்ப்புக்கு செல்வதற்காக வெளிநாட்டு முகவர் நிலையம் ஒன்றுக்கு பத்து லட்சம் ரூபா பணம் செலுத்த வேண்டியிருந்தது.
+
+இந்த பணத்தை தனது உறவினரான பொலிஸ் அதிகாரிக்கு அனுப்பிவைத்து வேலைவாய்ப்பு முகவர் நிலையத்திற்கு செலுத்துமாறு அனுப்பி வைத்துள்ளார்.
+
+ஆனால் நீண்ட நாட்களாக இந்த பணத்தை குறித்த பொலிஸ் அதிகாரி செலுத்தாத நிலையில் தான் வெளிநாட்டு வேலைக்கு செல்ல முடியாத விரக்தியில் பொலிஸ் அதிகாரியின் உறவினர் பொலிஸ் முறைப்பாடு செய்து நுவரெலியா நீதிமன்றில் வழக்கு தொடுத்துள்ளார்.
+
+...
+
+[Data](articles/9fa290ed.json)
+
+---
 
 ### The beginning of tomorrow - happy news for students
 
@@ -821,6 +973,24 @@ It is noteworthy that Vijay Antony's market value will last only if the film is 
 [Data](articles/dcf70277.json)
 
 [Extended Data](ext_articles/dcf70277.ext.json)
+
+---
+
+### சர்வஜன வாக்கெடுப்புக்குச் செல்வது தேர்தல் செயற்பாடுகளை நெருக்கடிக்குள்ளாக்கும் - உதய கம்மன்பில
+
+*2024-07-11 18:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188233) · `ta`
+
+ஜனாதிபதி தேர்தலுக்கான அறிவிப்பு விடுக்கப்படவுள்ள நிலையில் ஜனாதிபதியின் பதவி காலம் தொடர்பில் 22 ஆவது திருத்தத்தை கொண்டு வந்து மக்கள் வாக்கெடுப்புக்குச் செல்வது தேர்தல் செயற்பாடுகளை நெருக்கடிக்குள்ளாக்கும்.
+
+அரசியலமைப்பின் 83(ஆ) உறுப்புரையை திருத்தம் செய்ய  வேண்டுமாயின் சர்வஜன வாக்கெடுப்புக்குச் செல்ல வேண்டும் என அரசியலமைப்பில் தெளிவாக குறிப்பிடப்பட்டுள்ளது.ஆகவே இத்திருத்தம் தற்போது தேவையற்றது என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவர் உதய கம்மன்பில தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (11) இடம்பெற்ற சட்டரீதியான ஏற்பாடுகளுக்கு அமைய உரிய காலத்தில் ஜனாதிபதித் தேர்தலை நடத்துவது பற்றிய ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஜனாதிபதி தேர்தல் தொடர்பான அறிவிப்பை தேசிய தேர்தல்கள் ஆணைக்குழு இன்னும் ஆறு நாட்களுக்குள் உத்தியோகபூர்வமாக அறிவிக்க வேண்டும்.இருப்பினும் மக்கள் மத்தியில் தேர்தல்  குறித்து நம்பிக்கையின்மையே காணப்படுகின்றது.
+
+...
+
+[Data](articles/95004004.json)
 
 ---
 
@@ -2121,259 +2291,5 @@ The wife of the Club Wasantha's wife and the owner of the Tattond Center is bein
 [Data](articles/3d142a65.json)
 
 [Extended Data](ext_articles/3d142a65.ext.json)
-
----
-
-### Indian fishermen arrested
-
-*2024-07-11 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198700) · `si`
-
-In a special operation, the Sri Lanka Navy arrested 13 Indian fishermen and seized three boats for illegal fishing. The detainees and their vessels were transported to the Kankesanthurai harbor, set to be handed over to authorities for legal proceedings. This incident marks the latest in a series of arrests in 2024, with a total of 252 Indian fishermen apprehended so far.
-
-🟩
-
-Sri Lanka Navy has arrested a group of Indian fishermen who were illegally engaged in fishing in the coastal area.
-
-The Navy said that they have been arrested in a special operation conducted today (11) at a special operation conducted today (11).
-
-Thirteen Indian fishermen have been taken into custody with three Indian fishing boats.
-
-The arrested Indian fishing vessels and the Indian fishermen were taken to the Kankesanthurai harbor and will be handed over to the Miloyia Fisheries Office for future legal action.
-
-With this operation, the operations carried out in 2024 have been carried out by the Sri Lankan waters and 252 Indian fishermen have taken over the Indian fishermen.
-
-◼️
-
-[Data](articles/ba735502.json)
-
-[Extended Data](ext_articles/ba735502.ext.json)
-
----
-
-### Sri Lanka to expand cinnamon cultivation with new department
-
-*2024-07-11 13:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-expand-cinnamon-cultivation-with-new-department-171716/) · `en`
-
-ECONOMYNEXT – Sri Lanka has established a Department of Cinnamon Development in Karandeniya, Galle, and awarded GAP and GI certificates to selected cinnamon entrepreneurs.
-
-“After 200 years, we are re-establishing this department to revive the development of cinnamon cultivation in the country,” President Ranil Wickremesinghe said.
-
-The primary responsibility of the department is to enhance cinnamon production. “Each acre of land should yield maximum productivity, and we should focus on cultivating high-quality cinnamon varieties instead of inferior ones.”
-
-Sri Lanka’s cinnamon cultivation area needs to be expanded, Wickremesinghe said.
-
-“The government proposes providing new land and encouraging the cultivation of cinnamon alongside other crops.” This could increase cinnamon production three to four times, he said.
-
-...
-
-[Data](articles/d4a9e2cc.json)
-
-[Extended Data](ext_articles/d4a9e2cc.ext.json)
-
----
-
-### Trio injured in an accident
-
-*2024-07-11 13:04:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோர-விபத்தில்-மூவர்-படுகாயம்/175-340234) · `ta`
-
-In a tragic road accident on the A-9 road near Thirumurikandi and Kokavil, one person died while four others were injured and taken to the Kilinochchi Hospital. The crash involved a Hayas vehicle coming from abroad to Jaffna and another vehicle, with all injured parties now under investigation by the Mankulam police.
-
-🟩
-
-One person was killed and three others were injured and admitted to the Kilinochchi Hospital in a road accident between Thirumurikandi and Kokavil on the A-9 road in the Mangulam police division of the Mullaitivu district.
-
-A Hayas vehicle that was traveling from a foreign country to Jaffna was collided with a barrier that was traveling between 241 kilometers and 242 kilometers of A9 road.
-
-Four of the injured in the accident were immediately rushed to the Kilinochchi Hospital after being admitted to the hospital. Mankulam police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/23518fea.json)
-
-[Extended Data](ext_articles/23518fea.ext.json)
-
----
-
-### Three people injured in an accident
-
-*2024-07-11 13:04:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோர-விபத்தில்-மூவர்-படுகாயம்-ஓருவர்-பலி/175-340234) · `ta`
-
-In a tragic road accident on the A-9 road near Thirumurikandi and Kokavil, one person died while four others were injured and taken to the Kilinochchi Hospital. The incident involved a collision between a Hayas vehicle coming from abroad to Jaffna and a barrier.
-
-🟩
-
-One person was killed and three others were injured and admitted to the Kilinochchi Hospital in a road accident between Thirumurikandi and Kokavil on the A-9 road in the Mangulam police division of the Mullaitivu district.
-
-A Hayas vehicle that was traveling from a foreign country to Jaffna was collided with a barrier that was traveling between 241 kilometers and 242 kilometers of A9 road.
-
-Four of the injured in the accident were immediately rushed to the Kilinochchi Hospital.
-
-◼️
-
-[Data](articles/5baf8a02.json)
-
-[Extended Data](ext_articles/5baf8a02.ext.json)
-
----
-
-### How to broadcast the Green Code: MPs Question (Video)
-
-*2024-07-11 12:50:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பச்சை-வாக்குமூலத்தை-ஒளிபரப்பியது-எப்படி-எம்-பி-க்கள்-கேள்வி-வீடியோ/175-340233) · `ta`
-
-MPs questioned in Parliament about a video released by police involving a suspect. Anura Kumara Dissanayake commented first. Police held a media event after questioning the suspect. Lakshman Kiriella criticized the video release, suggesting it aimed to absolve the guilty. Susil Premajayantha expressed concern that publicizing the video could impact ongoing investigations and legal proceedings.
-
-🟩
-
-Bilateral MPs raised a question in Parliament on Thursday (11) regarding the video on Tuesday (09).
-
-Member of Parliament Anura Kumara Dissanayake, who first commented on the issue.
-
-It is evident that the police inquired before the suspect and then held a media event. The DIG, who questioned the suspect, said that we have clearly seen some facts and remind him of some facts.
-
-“Lakshman Kiriella, the chief rodent of the opposition, said that the release of the video clip was to release those responsible for the murder.
-
-Susil Premajayantha said that the video was publicly broadcast if the video would be affected by investigations and court cases.
-
-◼️
-
-[Data](articles/28fb863b.json)
-
-[Extended Data](ext_articles/28fb863b.ext.json)
-
----
-
-### Euro 2024: Lamin Yamal's new record at the age of 16
-
-*2024-07-11 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/188208) · `ta`
-
-Spain advanced to the Euro 2024 finals after defeating France 2-1 in the semis, thanks to goals from Lameen Yamal, aged 16, making him the youngest scorer in Euro history, and Deni Olmo. This victory marks Spain's fifth final appearance, with three championships under its belt.
-
-🟩
-
-Spain qualified for the final of the Euro 2024 Football Tournament. Spain beat France in the first semi -finals in a 2: 1 goals.
-
-Lameen Yamal, a 16 -year -old player of Spain, has played a key role in the success of his team and made a new history.
-
-Spain and France qualified for the first half of the Euro 2024 series in Germany.
-
-France scored in the 9th minute of the tournament, which was held on Tuesday night (09) in Munich.. Randal Cola Muwani tapped the ball with the head of the Gilean Empappe.
-
-The Spanish team balanced the goal number in the 21st minute. Spanish player Lameen Yamal inserted the goal. Lameen Yamal, who has his 17th birthday on Saturday, is the youngest player who scored a goal in the history of the Euro Football Tournament.
-
-In the 25th minute of the tournament, Spain's Deni Olmo injected Cole Spain 2-1. There was no other goal in the. Thus, the winner of the 2-1 rate of Spain qualified for the final.
-
-...
-
-[Data](articles/6503888b.json)
-
-[Extended Data](ext_articles/6503888b.ext.json)
-
----
-
-### India to assist with STEM teaching in Sri Lanka’s plantation sector
-
-*2024-07-11 12:42:00* · [`economynextcom`](https://economynext.com/india-to-assist-with-stem-teaching-in-sri-lankas-plantation-sector-171718/) · `en`
-
-ECONOMYNEXT – India will send 30 teaching experts later this month to train local teachers for Science, Technology, Engineering, and Maths (STEM) in the plantation sector for three months, Estate Infrastructure Development Minister Jeevan Thondaman said.
-
-In November last year, Indian Finance Minister Nirmala Sitharaman during her visit to the island nation’s central province promised to send teacher trainers to improve the education standards in the plantation sector to meet growing needs and aspirations of Sri Lanka’s up country Tamil students.
-
-Upcountry Tamils are also referred as Indian Origin Tamil (IOT) as their ancestors were brought by British colonial rulers from India to work in Sri Lanka’s plantation.
-
-Political leaders in plantation sectors time to time have demanded better services in education and health for their community which primarily works and live tea plantations in Sri Lanka’s up country.
-
-...
-
-[Data](articles/9860d7f1.json)
-
-[Extended Data](ext_articles/9860d7f1.ext.json)
-
----
-
-### We will not win on November 20 if Betan contested
-
-*2024-07-11 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188209) · `ta`
-
-Democratic leaders question Jobitin's electability, with Pelosi and Guluni expressing doubts about winning the presidency without Betan's candidacy. Pelosi urges Faidan to decide on running, while a Hollywood Democrat criticizes Jobitin's performance. Guluni predicts loss in the November 20 election due to Jobitin's presence. Senate Chairman Chu Sumer supports any candidate but Betan.
-
-🟩
-
-Leaders of the Democratic Party have once again questioned whether Jobitin will be elected as the US president.
-
-Nancy Pelosi and George Kuluni, who are influential among the Democratic Congress and the finances of the election, have questioned whether they will win the election.
-
-Former Speaker of the US House Nancy Pelosi has requested that Faidan decide whether to contest the presidential election.
-
-He did not say anything to whether Baidan wanted to contest the election.
-
-Meanwhile, Hollywood actor and a supporter of the Democratic Party and a co -operatives with Baidan has written a drastic article at the New York Time.
-
-He said that I met Jobitin 2010 at the financial event three weeks ago and why not even Job.
-
-Guluni said he was the person we saw in the debate with Trump, saying that we will not win the November 20 election with this president.
-
-"We will lose the Senate and we will not win the Senate," he said.
-
-...
-
-[Data](articles/5cab2266.json)
-
-[Extended Data](ext_articles/5cab2266.ext.json)
-
----
-
-### Massive fire in the weekly market in Pakistan;500 shops damage
-
-*2024-07-11 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/188207) · `ta`
-
-A massive fire erupted in a weekly market in Pakistan's capital, Islamabad, damaging at least 500 shops among the 2,700 operating across 25 acres. Firefighters, supported by the Pakistani Navy and Air Force, worked to extinguish the blaze, though no casualties were reported. This incident follows a similar fire last month that affected around 80 shops and injured three people.
-
-🟩
-
-At least 500 shops have been set on fire in a weekly market in Pakistan's capital, Islam.
-
-More than 2,700 shops have been operated in this weekly market, which widespread over 25 acres.
-
-Officials said the fire broke out in the market of the market yesterday and soon spread to other areas.
-
-An official said 31 fire trucks were sent to extinguish the fire. The aid of the Pakistani Navy and Air Force was also sought.
-
-No casualties have been reported. However, about 500-700 shops have been set on fire, said Ali Randawa, Chairman of the T-Municipal Development Authority.
-
-Home Minister Moshin Naqvi has ordered all the resources to be turned off.
-
-The Islamabad district administration has said that a committee has been appointed to identify and evaluate the damage.
-
-In Pakistan's Islamabad, at least 80 shops were on fire due to last month's fire. Most of them are the stores that sell goods used. Three people were injured in that.
-
-◼️
-
-[Data](articles/af59b971.json)
-
-[Extended Data](ext_articles/af59b971.ext.json)
-
----
-
-### Kombani Road Bridge
-
-*2024-07-11 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/188200) · `ta`
-
-President Ranil Wickremesinghe inaugurated the second phase of a highway project over the railway line between Kompanideru and Justice Akbar Mawatha, costing Rs 5278 million. The project, undertaken by Maga Engineering to prevent delays and traffic congestion from train closures, aims to reduce commute times significantly, benefiting businesses and residents in the commercial city area of Kombanitheru.
-
-🟩
-
-President Ranil Wickremesinghe inaugurated the second phase of the highway project built over the railway line between Kompanideru and Justice Akbar Mawatha at a cost of Rs 5278 million by the Ministry of Transport and Highways.
-
-The construction of the project was carried out by the Maga Engineering Company to avoid the delay and traffic congestion caused by the closure of the train for 109 train travel daily.
-
-It has been observed that the railway crossing in the Kombanitheru area, a commercial city area, which has various companies, including government offices, hospitals, religious places, restaurants and theaters, has been observed for about 3 hours.
-
-Accordingly, after the completion of the project, it can travel from Kompanideru to the empty face and the Presidential Secretariat without traffic.. Also, the time of wasted people on the street can be incorporated into the national economy due to traffic congestion.
-
-...
-
-[Data](articles/a12426bf.json)
-
-[Extended Data](ext_articles/a12426bf.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 21:54:36**
+As of **2024-07-11 22:07:43**
 
 ## Newspaper Stats
 
-*Scraped **34,824** Articles*
+*Scraped **34,826** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ adaderanalk | 4,005
 tamilmirrorlk | 4,164
 dailymirrorlk | 4,733
 virakesarilk | 5,453
-adaderanasinhalalk | 5,797
+adaderanasinhalalk | 5,799
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,824 (100.0%) of 34,824 articles have been extended.
+34,824 (100.0%) of 34,826 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### දුම්රිය වර්ජනයේ මිනිස් බිල්ල
+
+*2024-07-11 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198719) · `si`
+
+කොළඹ සිට පොල්ගහවෙල දක්වා ඊයේ (10) පස්වරුවේ ධාවනය වූ දුම්රියක පැවති මගී තදබදය හේතුවෙන් එහි පාපුවරුවේ ගමන් කරමින් සිටිය දී බෙම්මුල්ල දුම්රිය ස්ථානය අසලදී දුම්රියෙන් ඇද වැටී ජීවිතක්ෂයට පත් වූ පුද්ගලයාගේ අනන්‍යතාවය හඳුනාගෙන ඇත.
+
+මෙලෙස මියගොස් ඇත්තේ අත්තනගල්ල අල්ගම ප්‍රදේශයේ පදිංචි 51 හැවිරිදි ජයන්ත කළුආරච්චි නමැති අවිවාහක පුද්ගලයෙකි.
+
+ඔහු කොළඹ ප්‍රදේශයේ ආහාරපාන වෙළෙඳසැලක කොත්තු බාස් කෙනෙකු වශයෙන් සේවයකළ අයෙක් බව පොලීසිය පවසයි.
+
+මෘත ශරීරය සම්බන්ධ පශ්චාත් මරණ පරීක්ෂණය වතුපිටිවල රෝහලේදී හෙට (12) සිදු කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/62f9f53b.json)
+
+---
+
+### ක්ලබ් වසන්ත ට වෙඩි තැබූ දෙදෙනා ගැන අලුත් කතාවක්
+
+*2024-07-11 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198718) · `si`
+
+අතුරුගිරියේ ටැටූ මධ්‍යස්ථානයක් විවෘත කිරීමට ගිය අවස්ථාවේදී සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්තට වෙඩි ප්‍රහාරය එල්ල කරන අයුරු දැක්වෙන තවත් CCTV දර්ශන අප වෙත ලැබී තිබේ.
+
+අදාළ ටැටූ මධ්‍යස්ථානය චාරිත්‍රානුකූලව විවෘත කිරීමෙන් පසුව ක්ලබ් වසන්ත සිටින්නේ එහි තිබූ සෝපාවෙහි වාඩිවී කිරිබත් අනුභව කරමිනි.
+
+වෙඩික්කරුවන් දෙදෙනා ගිනි අවිද රැගෙන මෝටර් රථයකින් බැස ඉහළ මාලයේ පිහිටි ටැටූ මධ්‍යස්ථානය දෙසට දිවඑන්නේ ඒ අතරවාරයේදීය.
+
+ඔවුන් දුටු මධ්‍යස්ථානයේ ඉදිරිපස දරුවකු වඩාගෙන සිටි පුද්ගලයා දොර විවෘතකර යමක් පවසන ආකාරය දර්ශන වල දක්නට ලැබේ.
+
+ඒ මොහොතේම  එහි ඇතුළුවන වෙඩික්කරුවන් දෙදෙනාගෙන් අයෙකු කිසිදු චකිතයකින් තොරව ක්ලබ් වසන්ත ඉලක්ක කර වෙඩි ප්‍රහාර මාලාවක් එල්ල කරයි.
+
+වෙඩික්කරුගේ ගිනි අවියේ උණ්ඩ ගැබෙහි ඇතිවූ යම් දෝෂයක් හේතුවෙන් ඔහු පසෙකට වන ආකාරය දක්නට ලැබේ.
+
+ක්ලබ් වසන්ත සිටි ස්ථානයට නුදුරින් වාඩිවී සිටින ඔහුගේ ආරක්ෂකයින් ඇතුළු පිරිසක් වෙඩි ප්‍රහාරවලට බියෙන් මධ්‍යස්ථානයේ මුදල් අයකැමි මේසය යටට පැන සැඟවෙන ආකාරය ද CCTV දර්ශන වල දැකගත හැකිය.
+
+...
+
+[Data](articles/47a265bb.json)
+
+---
 
 ### IGP's promise
 
@@ -62,11 +104,17 @@ He also said that he will take action to coordinate the circulation of society.
 
 *2024-07-11 21:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100452/railway-strike-called-off) · `en`
 
-Sri Lanka Railways trade unions have decided to call off their strike from midnight today (11).
+Sri Lanka Railways trade unions have decided to call off their strike from midnight today (11) following talks with the government.
 
 Meanwhile, Transport Minister Bandula Gunawardene says that if the striking railway employees report for duty, the letters sent considering them as having vacated their posts will be withdrawn.
 
-◼️
+Earlier today, Minister Gunawardene had stated that letters have been sent to all railway employees who participated in the strike notifying them that they are considered to have vacated their respective positions.
+
+He had stated that the General Manager of Sri Lanka Railways has sent letters informing all Station Masters who have not reported to duties and are engaged in the strike that they are considered to have vacated their positions.
+
+The General Manager of Railways had previously warned that all Station Masters and Railway Controllers who fail to report to duty by 12.00 noon yesterday (10) would be considered as having vacated their positions.
+
+...
 
 [Data](articles/06222d93.json)
 
@@ -2325,55 +2373,5 @@ He added that he has lodged a complaint with the Dambulla police regarding the a
 [Data](articles/e73cd103.json)
 
 [Extended Data](ext_articles/e73cd103.ext.json)
-
----
-
-### India has given Buddha to the world: Prime Minister Modi
-
-*2024-07-11 09:48:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகத்துக்கு-இந்தியா-புத்தரை-கொடுத்துள்ளது-பிரதமர்-மோடி/175-340206) · `ta`
-
-In a 2-day visit to Austria following his Russian trip, PM Modi met with President Alexander Van der Bellen and Prime Minister Sebastian Kurz, discussing bilateral relations and trade. He also addressed the Indian community in Austria, highlighting India's contributions like Buddhism and its commitment to peace and progress, marking a significant moment in the 75-year Indo-Austrian friendship.
-
-🟩
-
-PM Modi traveled to Austria on a 2 -day trip after completing Russian journey. There, Indian Prime Minister Modi met with President Alexander Wadder Bellan and Prime Minister Karl Negammamar.
-
-During the meeting, various issues, including bilateral relations and trade, were consulted.
-
-Prime Minister Modi met Austria Indians. Prime Minister Modi spoke among Austrian Indians
-
-We have been sharing our talent and knowledge for several thousand years. We have given the Buddha to the world (Buddhist monk) and not giving war (war). When does India give peace and growth. Thus India is gaining strength in the 21st century. My Austrian journey made a very meaningful. The 41 -year waiting has been completed by the historic event. He said India and Austria celebrate 75 years of friendship.
-
-◼️
-
-[Data](articles/4ca4ae27.json)
-
-[Extended Data](ext_articles/4ca4ae27.ext.json)
-
----
-
-### New work to prevent money laundering and funding of terrorism
-
-*2024-07-11 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198691) · `si`
-
-Sri Lanka's police are partnering with various agencies like the Department of Motor Traffic, Telecommunication Regulatory Commission, CEA, and the Ministry of Fisheries to combat money laundering and terrorism. They aim to streamline information sharing for faster investigations.
-
-🟩
-
-The Sri Lankan police have taken steps to reach agreements with government and semi-government agencies targeting the prevention of cash laundering and prevent terrorism.
-
-Accordingly, the Department of Motor Traffic, Telecommunication Regulatory Commission, CEA and the Ministry of Fisheries and Aquatic Resources has already been enrolled.
-
-An agreement was held yesterday (10) with Sri Lanka Customs.
-
-The objective of this purpose is to attend the interconnections to easily share the information required for investigations such as money laundering or terrorism.
-
-The police department stated that the delays have been reduced to the police investigations for a long time.
-
-◼️
-
-[Data](articles/0268ba39.json)
-
-[Extended Data](ext_articles/0268ba39.ext.json)
 
 ---

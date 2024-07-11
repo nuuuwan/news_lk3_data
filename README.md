@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 03:35:04**
+As of **2024-07-12 03:53:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,883 (100.0%) of 34,884 articles have been extended.
+34,884 (100.0%) of 34,884 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -180,19 +180,31 @@ These virtual sessions will be conducted via Zoom from 3:30 p.m. to 5:30 p.m. du
 
 ---
 
-### ’பயங்கரவாதிகள் பட்டியலில் இணைக்கவும்’
+### Connect the list of terrorists list
 
 *2024-07-12 02:31:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாதிகள்-பட்டியலில்-இணைக்கவும்/175-340270) · `ta`
 
-அப்பாவி மக்களை பணயக் கைதிகளாக்கி தமது கோரிக்கைகளை நிறைவேற்றிக் கொள்ள முயற்சிக்கும் ஜோசப் ஸ்டாலின் உட்பட புகையிரத தொழிற்சங்க தலைவர்களை பயங்கரவாதிகள் பட்டியலில் இணைக்க வேண்டும் என மின்சக்தி  மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்தார்.
+Kanchana Wijesekera suggests adding railway union leaders, including Joseph Stalin, to the terrorist list for holding hostages over demands. He warns that their actions could disrupt the election process and negatively impact the national economy. Railway station officers are processing requests for job vacancies, while Joseph Stalin faces backlash from trade unions due to his stance on essential services like public transport.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (11)   இடம்பெற்ற சட்டரீதியான ஏற்பாடுகளுக்கு அமைய உரிய காலத்தில் ஜனாதிபதித் தேர்தலை நடத்துவது பற்றிய ஒத்திவைப்பு வேளை விவாதத்தில் உரையாற்றும் போதே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+🟩
 
-பல்வேறு கோரிக்கைளை முன்வைத்து தொழிற்சங்கத்தினர் தற்போது முன்னெடுத்துள்ள பணிப்புறக்கணிப்பினால் தேர்தல் பணிகளுக்கு பாதிப்பு ஏற்படும்.பொருளாதார பாதிப்புக்கு மத்தியில் நியாயமற்ற கோரிக்கைகளை முன்வைத்து முன்னெடுக்கும்  பணிப்புறக்கணிப்பின் பின்னணியில்  குறுகிய நோக்கங்களே காணப்படுகின்றன.
+Minister of Power and Energy Kanchana Wijesekera said that the railway union leaders, including Joseph Stalin, who are trying to fulfill their demands by hostage, should be included in the terrorist list.
 
-...
+Speaking at the debate on the postponement of the presidential election on Thursday (11) in Parliament, he said.
+
+The workforce, which is being carried out by the trade unions on various demands, will affect the election process.
+
+Special attention should be paid to the impact of the national economy by the union struggles. The people should know the unfair demands of the industry.
+
+Railway Station Officers are working on the request to appoint vacancies.
+
+Teacher trade unionist Joseph Stalin is in crisis. The trade unions are acting against them as the public transport service, including the Building Service, has been declared as an essential service.. If not, we can never advance as a country.
+
+◼️
 
 [Data](articles/68946456.json)
+
+[Extended Data](ext_articles/68946456.ext.json)
 
 ---
 

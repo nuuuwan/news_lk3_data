@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 19:53:30**
+As of **2024-07-11 20:05:24**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,811 (100.0%) of 34,813 articles have been extended.
+34,813 (100.0%) of 34,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### தலைவர் பதவியிலிருந்து விலகினார் வனிந்து ஹசரங்க
+### Hazaranga resigns as chairman
 
 *2024-07-11 19:35:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலைவர்-பதவியிலிருந்து-விலகினார்-வனிந்து-ஹசரங்க/175-340251) · `ta`
 
-இதற்கான கடிதத்தை அவர் ஸ்ரீலங்கா கிரிக்கெட்டிடம் கையளித்திருப்பதாக, ஸ்ரீலங்கா கிரிக்கெட்டின் ஊடக அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+Hazaranga resigned as chairman, handing his letter to Sri Lanka Cricket. He believes it's the right moment for him to return to playing normally.
 
-அணித் தலைவர் பதவியிலிருந்து விலகி, சாதாரண வீரனாக தொடர்வதற்கு இது சரியான தருணம் என்று தாம் கருதுவதாக வனிந்து ஹசரங்க தெரிவித்துள்ளார். R
+🟩
+
+He has handed over the letter to Sri Lanka Cricket, according to Sri Lankan cricket media report.
+
+Hazaranga has said that this is the right time for the team to quit and continue as a normal player.. Remble
 
 ◼️
 
 [Data](articles/74ca0ce0.json)
+
+[Extended Data](ext_articles/74ca0ce0.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ A resident of the Ibbagamuwa area of Kurunegala had lodged a complaint with the 
 ...
 
 [Data](articles/a0074c94.json)
+
+[Extended Data](ext_articles/a0074c94.ext.json)
 
 ---
 
@@ -119,6 +127,8 @@ Hasaranga said it is in the best interest of Sri Lanka Cricket that he decided t
 “Sri Lanka will always have my utmost best efforts as a player, and I will support and stand by my team and leadership as always,” said Wanindu Hasaranga in his resignation letter.
 
 “Sri Lanka Cricket, while accepting his resignation, wishes to state that Hasaranga will remain an important player for us in our international cricketing plans,” the SLC statement said.
+
+Batsman Charith Asalanka is tipped to be appointed as the next Sri Lanka T20I captain, according to sources.
 
 Wanindu’s resignation comes following Sri Lanka’s group stage exit from the 2024 men’s T20I World Cup last month.
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 20:20:07**
+As of **2024-07-11 20:35:23**
 
 ## Newspaper Stats
 
-*Scraped **34,813** Articles*
+*Scraped **34,814** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 4,004
 tamilmirrorlk | 4,164
 dailymirrorlk | 4,733
 virakesarilk | 5,446
-adaderanasinhalalk | 5,794
+adaderanasinhalalk | 5,795
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,813 (100.0%) of 34,813 articles have been extended.
+34,813 (100.0%) of 34,814 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### පොලිස් නිලධාරියාට රිමාන්ඩ් බන්ධනාගාරයේ දී ප්‍රහාරයක්
+
+*2024-07-11 19:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198715) · `si`
+
+කොළඹ අපරාධ කොට්ඨාසයට  (CCD) අනුයුක්තව සේවය කරමින් සිටියදී අල්ලස් චෝදනාවකට අත්අඩංගුවට ගෙන කොළඹ රිමාන්ඩ් බන්ධනාගාරයේ රඳවාසිටින පොලිස් පරීක්ෂකවරයෙකුගේ කට සිරමැදියේ සිටි තවත් රැඳවියෙකු විසින් තියුණු ආයුධයකින් කපා තිබේ.
+
+ඊට හේතුව වාර්තා වී නොමැති අතර අදාළ පොලිස් නිලධාරියාගේ තුවාලවලට මැහුම් 8ක් පමණ දමා ඇති බව බන්ධනාගාර ආරංචිමාර්ග සඳහන් කළේය.
+
+◼️
+
+[Data](articles/bac7e0a9.json)
+
+---
 
 ### Hazaranga resigns as chairman
 
@@ -2337,23 +2351,5 @@ Meanwhile, Railway Deputy General Manager NJ IndiPollake said that 35 rail trips
 [Data](articles/70f3d5ff.json)
 
 [Extended Data](ext_articles/70f3d5ff.ext.json)
-
----
-
-### A police officer's disaster decision
-
-*2024-07-11 08:22:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-அதிகாரியின்-விபரீத-முடிவு/175-340198) · `ta`
-
-A police sergeant from the Anuradhapura-Ruwanwelisa department tragically shot himself, marking a sad day for the force.
-
-🟩
-
-A police sergeant who served in the Anuradhapura - Ruwanwelisa Police Police Department has shot himself with a firearm.
-
-◼️
-
-[Data](articles/763009dd.json)
-
-[Extended Data](ext_articles/763009dd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 22:35:23**
+As of **2024-07-11 22:53:54**
 
 ## Newspaper Stats
 
-*Scraped **34,849** Articles*
+*Scraped **34,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,74 @@ newsfirstlk | 363
 islandlk | 1,957
 economynextcom | 2,068
 dailyftlk | 2,183
-adalk | 3,140
+adalk | 3,141
 adaderanalk | 4,006
 tamilmirrorlk | 4,165
 dailymirrorlk | 4,733
 virakesarilk | 5,457
-adaderanasinhalalk | 5,801
+adaderanasinhalalk | 5,802
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,840 (100.0%) of 34,849 articles have been extended.
+34,849 (100.0%) of 34,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### ටැටු මල්ලිගේ පාපොච්චාරණය - පොලිස් කොමිසම දැඩි තීරණයක
+### තවත් කණ්ඩායමක් වර්ජනය අත්හරී
+
+*2024-07-11 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198722) · `si`
+
+විශ්වවිද්‍යාල අනධ්‍යයන කාර්ය මණ්ඩලයේ විධායක ශ්‍රේණියේ නිලධාරීන් සිය වර්ජනය අත්හැරීමට තීරණය කර තිබේ.
+
+ඔවුන් මෙම තීරණය ගෙන ඇති බව සිය ඉල්ලීම් පිළිබඳව විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාවේ සභාපති මහාචාර්ය සම්පත් අමරතුංග මහතා සමග පැවති සාකච්ඡාවකින් අනතුරුව ඔවුන් මෙම තීරණය කර ඇති බව වාර්තා වේ.
+
+ඉල්ලීම් කිහිපයක් මුල්කරගනිමින් මාස 2කකට අධික කාලයක් විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින් වර්ජනයේ නිරතව සිටී.
+
+◼️
+
+[Data](articles/242502cd.json)
+
+---
+
+### Tot Malli's confession - Police Commission is a severe decision
 
 *2024-07-11 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198721) · `si`
 
-අපරාධ සිද්ධියකට අදාළව අත්අඩංගුවට ගත් සැකකරුවෙකුගේ පාපොච්චාරණයක් ජනමාධ්‍ය හා සමාජ මාධ්‍යන්හි පළවීම සම්බන්ධ‍යෙන් පොලිස් කොමිෂන් සභාවේ දැඩි අවධානය යොමු ව ඇති බව වාර්තා වෙයි.
+The National Police Commission has taken action against officers involved in a criminal case, following a confession shared via media and social platforms. This decision comes after the Police Special Investigation Unit requested the commission to act within two weeks post-incident. The commission convened today to discuss further steps.
 
-ඒ අනුව, අදාළ සැකකරුවාගේ පාපොච්චාරණය පොලිස්පති නියෝගය වලට පටහැනිව මාධ්‍යට මුදා හැරීමට කටයුතු කිරීම සම්බන්ධයෙන් ඊට අදාළ නිලධාරීන්ට එරෙහිව විනයානුකූලව කටයුතු කිරීමට අවශ්‍ය පියවර ගැනීම ට ජාතික පොලිස් කොමිෂන් සභාව තීරණය කර තිබේ.
+🟩
 
-එම සිදුවීමට අදාළව සති දෙකක් ඇතුළත පොලිස් විශේෂ විමර්ශන ඒකකය මගින් මූලික විමර්ශනයක් සිදුකර එය පොලිස් කොමිෂන් සභාව වෙත දැන්වීමට පොලිස්පතිවරයා ට නියෝග කර ඇත.
+It is reported that the police commission has been given a confession of the media and social media for a criminal incident.
 
-ජාතික පොලිස් කොමිෂන් සභාව අද (11) රැස් වූ අවස්ථාවේ එම තීරණ ගෙන අදාළ නියෝග නිකුත් කර ඇති බව වාර්තා වේ.
+Accordingly, the National Police Commission has decided to take action against the relevant officers to release the suspects against the IGP order.
+
+Within two weeks of the incident, the Police Special Investigation Unit has ordered the Police Commission to inform the Police Commission.
+
+It is reported that the National Police Commission met today (11), reports say.
 
 ◼️
 
 [Data](articles/8f68a4ad.json)
+
+[Extended Data](ext_articles/8f68a4ad.ext.json)
+
+---
+
+### දුම්රිය වර්ජනය අවසන්
+
+*2024-07-11 22:13:38* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-වර්ජනය-අවසන්/11-410744) · `si`
+
+දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය  ප්‍රධානව තවත් දුම්රිය වෘත්තිය සමිති කිහිපයක් ක්‍රියාත්මක කර තිබූ දුම්රිය වර්ජනය අවසන් කිරිමට එම සංගම් තීරණය කර තිබේ.
+
+ඒ අනුව එම වැඩ වර්ජනය අද මධ්‍යම රාත්‍රි යේ සිට අවසන් කරන අතර ඔවුන් හෙට පෙරවරුවේ පටන් නියමිත පරිදි රාජකාරියට වාර්තා කිරීමට තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/92a4022f.json)
 
 ---
 
@@ -61,6 +97,8 @@ The trade unions have ended the strike after discussing their demands and reachi
 ◼️
 
 [Data](articles/7db4a4a6.json)
+
+[Extended Data](ext_articles/7db4a4a6.ext.json)
 
 ---
 
@@ -112,21 +150,29 @@ In this case, it has been announced that the train service will take place as us
 
 ---
 
-### அர்ஜுன் தாஸுடன் முதன்முறையாக இணையும் அதிதி ஷங்கர்
+### Aditi Shankar joins Arjun Das for the first time
 
 *2024-07-11 21:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/188243) · `ta`
 
-'கைதி' படத்தின் மூலம் தமிழ் திரையுலகில் அறிமுகமாகி பிரபலமானாலும், 'அநீதி' படத்தின் மூலம் கதையின் நாயகனாக உலா வர தொடங்கியிருக்கும் நடிகர் அர்ஜுன் தாஸ் கதையின் நாயகனாக மீண்டும் முதன்மையான வேடத்தில் நடித்திருக்கும் பெயரிடப்படாத திரைப்படத்தில் அவருக்கு ஜோடியாக இளம் நட்சத்திர நடிகை அதிதி ஷங்கர் நடிக்கிறார் என படக் குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு தெரிவித்துள்ளனர்.
+Aditi Shankar teams up with Arjun Das for the first time in an untitled movie directed by Vignesh Srikanth. Known for his role in 'Kaidi', Arjun Das plays the lead alongside Aditi. The film, produced by Yuvraj Ganesan under Million Studios, has sparked fan interest.
 
-அறிமுக இயக்குநர் விக்னேஷ் ஸ்ரீகாந்த் இயக்கத்தில் உருவாகும் பெயரிடப்படாத திரைப்படத்தில் அர்ஜுன் தாஸ் - அதிதி ஷங்கர் ஆகியோர் நாயகன்- நாயகியாக நடிக்கிறார்கள். அரவிந்த் விஸ்வநாதன் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்தை மில்லியன் டொலர் ஸ்டுடியோஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் யுவராஜ் கணேசன் தயாரிக்கிறார்.
+🟩
 
-வி. ஆர். வம்சி இணை தயாரிப்பாளராக பணியாற்றும் இந்த திரைப்படத்தின் தொடக்க விழா சென்னையில் சிறப்பாக நடைபெற்றது.
+Although he is famous for his debut in Tamil film 'Kaidi', the film crew has released a photo of the film crew, who is playing the role of actor Arjun Das, who has once again played the lead role as the hero of the story.
 
-'காந்த குரலோன்' அர்ஜுன் தாஸ் - திறமையான இளம் நடிகை அதிதி ஸங்கர் முதன்முறையாக இணைந்திருப்பதால் இவர்களின் திரை தோற்ற ரசாயன மாற்றம் ரசிகர்களை உற்சாகப்பட வைக்கும் என திரையுலகினர் எதிர்பார்க்கிறார்கள்.
+Arjun Das and Aditi Shankar are playing the lead role in the untitled movie directed by debutant director Vignesh Srikanth. The film, which is being recorded by Arvind Viswanathan, is produced by producer Yuvraj Ganesan on behalf of Million Studios.
 
-...
+V.. R. The film's inauguration of the film, which works as the co -producer of Vamsi, was held in Chennai.
+
+'Magnetic Kurlon' Arjun Das - The first time Aditi Shankar has joined the filmmakers, the filmmakers expect the fans to encourage fans.
+
+Because of this, the film has been a great interest in fans.
+
+◼️
 
 [Data](articles/4f950534.json)
+
+[Extended Data](ext_articles/4f950534.ext.json)
 
 ---
 
@@ -154,21 +200,29 @@ The post mortem will be conducted at the Vathupitiwala Hospital tomorrow (12).
 
 ---
 
-### ரயில் நிலைய அதிபர்களின் பணிப்புறக்கணிப்பு போராட்டம் முடிவுக்கு வந்தது!
+### The workplace of the railway principals ended!
 
 *2024-07-11 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/188259) · `ta`
 
-ரயில் நிலைய அதிபர்களின் பணிப்புறக்கணிப்பு போராட்டம் இன்றுடன் (11 ஆம் திகதி வியாழக்கிழமை) முடிவுக்கு வந்துள்ளதாக ரயில் நிலைய அதிபர்கள் சங்கத்தின் செயலாளர் தெரிவித்துள்ளார்.
+The railway principals' strike has concluded, as announced by the Railway Principals Association Secretary. In response, Trade, Highways, and Media Minister Dr. Bandula Gunawardena has decided to resign from his position effective midnight on Thursday, 11th. He assured no disciplinary action would be taken against workers reporting by midnight but warned of consequences for those not complying. This decision was made during a meeting at the former Speaker Karu Jayasuriya's official residence.
 
-போக்குவரத்து, நெடுஞ்சாலைகள் மற்றும் ஊடகத்துறை அமைச்சர் கலாநிதி பந்துல குணவர்தன, பணிப்பகிஷ்கரிப்பில் ஈடுபட்டுள்ள புகையிரத கட்டுப்பாட்டாளர்கள் மற்றும் நிலைய அதிபர்கள் சங்கத்தின் அதிகாரிகளுடன் செய்துகொண்ட இணக்கப்பாட்டுக்கு அமைய, 11 ஆம் திகதி வியாழக்கிழமை நள்ளிரவு முதல் பணிப்புறக்கணிப்பை கைவிட்டு பணிக்கு திரும்புவதற்கு பணிப்புறக்கணிப்பில் ஈடுபட்டுள்ள தொழிற்சங்கங்கள் தீர்மானித்துள்ளன.
+🟩
 
-அதன்படி இன்று நள்ளிரவு 12 மணிக்குள் பணிக்கு சமூகமளிக்கும் உத்தியோகத்தர்களுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்கப்பட மாட்டாது என அமைச்சர் தொழிற்சங்க அதிகாரிகளுக்கு அறிவித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+The Secretary of the Railway Principals Association said that the railway principals' work strike has come to an end today (Thursday 11th).
 
-பணிக்கு வராத அதிகாரிகள் யாராவது இருப்பின் அவர்கள் மீது உரிய நடவடிக்கை எடுக்கப்படும் என்றும் அமைச்சர் வலியுறுத்தினார்.
+Trade, Highways and Media Minister Dr. Bandula Gunawardena has decided to quit work from midnight on Thursday 11th of Thursday, in accordance with the authorities of the Railway Regulators and Station Principals Association.
 
-...
+Accordingly, the minister has informed union officials that disciplinary action will not be taken against the officers who are working on the work by 12 midnight today.
+
+The Minister also stressed that if there is any non -working authorities, appropriate action will be taken against them.
+
+The discussion was held at the official residence of former Speaker Karu Jayasuriya.
+
+◼️
 
 [Data](articles/434ed424.json)
+
+[Extended Data](ext_articles/434ed424.ext.json)
 
 ---
 
@@ -208,17 +262,25 @@ According to police, both of them were running and shooting firearms and shootin
 
 ---
 
-### திருகோணமலை ஸாஹிரா கல்லூரி விவகாரம்: உரிய பரிகார நடவடிக்கைகள் முன்னெடுக்கப்படுகின்றனவா என இலங்கை மனித உரிமைகள் ஆணைக்குழு கண்காணிப்பு
+### Sri Lanka Human Rights Commission surveillance on whether appropriate remedial activities are being carried out
 
 *2024-07-11 21:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/188258) · `ta`
 
-திருகோணமலை ஸாஹிரா கல்லூரி விவகாரம் தொடர்பில் பரீட்சைகள் திணைக்களம் மற்றும் பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவினால் பரிகார நடவடிக்கைகள் உரியவாறு முன்னெடுக்கப்படுகின்றனவா என தாம் கண்காணிக்கவிருப்பதாக மனித உரிமைகள் ஆணைக்குழு தெரிவித்துள்ளது.
+The Sri Lanka Human Rights Commission plans to oversee actions taken by the Department of Examinations and the University Grants Commission regarding the delayed release of results for 70 Muslim students from Zahira College, Trincomalee, who wore hijabs during their GCE Advanced Level Examination. This action comes after the commission highlighted constitutional protections for religious freedom and the right against discrimination, emphasizing the importance of ensuring these rights are upheld.
 
-திருகோணமலை ஸாஹிரா கல்லூரியில் க.பொ.த உயர்தரப்பரீட்சைக்குத் தோற்றிய 70 முஸ்லிம் மாணவிகளின் பெறுபேறுகள், அவர்கள் காதை மறைக்கும் விதமாக ஹிஜாப் அணிந்து வந்ததாகக் குறிப்பிட்டு உரிய காலப்பகுதியில் வெளியிடப்படாமல் இடைநிறுத்திவைக்கப்பட்ட (தற்போது வெளியிடப்பட்டுவிட்டது) சம்பவம் குறித்து கடந்த 8 ஆம் திகதி பரீட்சைகள் திணைக்களம் மற்றும் பல்கலைக்கழக மானியங்கள் ஆணைக்குழு ஆகியவற்றின் அதிகாரிகளுடன் கலந்துரையாடலை முன்னெடுத்த இலங்கை மனித உரிமைகள் ஆணைக்குழு, இவ்விடயத்தில் தமது நிலைப்பாட்டைத் தெளிவுபடுத்தி வியாழக்கிழமை (11) வெளியிட்டிருக்கும் அறிக்கையில் மேலும் கூறப்பட்டிருப்பதாவது:
+🟩
+
+The Human Rights Commission has said that it will monitor the remedies of the Department of Examinations and the University Grants Commission on the issue of Zahira College, Trincomalee.
+
+The results of the 70 Muslim students who appeared for the GCE Advanced Level Examination at Zahira College, Trincomalee, said that they were wearing a hijab in order to cover up a hijab and not released in a timely manner with the Human Rights Council of Sri Lanka and the University of Sri Lanka.In a statement issued by the Commission on Thursday (11), the Commission clarified its position on the issue:
+
+According to Article 10 of the Constitution, all Sri Lankan people are entitled to religious and freedom of faith. Similarly, 12 (2) string completely prevents any person from being subjected to oppression of milk or religious. 14 (1) (d) All the blessings have ensured the freedom to follow the religion, faith, worship, practice or doctrine they desired.
 
 ...
 
 [Data](articles/5a29d4eb.json)
+
+[Extended Data](ext_articles/5a29d4eb.ext.json)
 
 ---
 
@@ -612,17 +674,25 @@ He said that these persons also have the right to get a special scholarship offe
 
 ---
 
-### ஜோசப் ஸ்டாலின் உட்பட தொழிற்சங்க தலைவர்கள் பயங்கரவாதிகளே - காஞ்சன கடும் விசனம்
+### Trade union leaders, including Joseph Stalin, are terrorists - Kanchana
 
 *2024-07-11 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/188230) · `ta`
 
-அப்பாவி மக்களை பணயக் கைதிகளாக வைத்து தமது கோரிக்கைகளை நிறைவேற்றிக் கொள்ள முயற்சிக்கும் ஜோசப் ஸ்டாலின் உட்பட புகையிரத தொழிற்சங்க தலைவர்களை பயங்கரவாதிகள் என்றே குறிப்பிட வேண்டும். சேவையில் இருப்பவர்களுக்கு சம்பளம் வழங்குவது பெரும் போராட்டமாக உள்ள நிலையில் புதிதாக எவ்வாறு நியமனங்களை வழங்க முடியும். முறையற்ற வகையில் செயற்படும் தொழிற்சங்கங்களுக்கு எதிராக கடுமையான தீர்மானங்களை எடுக்காவிடின் நாடு என்ற ரீதியில் முன்னேற முடியாது. எதிர்க்கட்சியினர் ஆட்சிக்கு வந்தாலும் அவர்களுக்கும் இந்நிலைமையே ஏற்படும் என  மின்சாரத்துறை மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்தார்.
+Kanchana labels railway union leaders, including Joseph Stalin, as terrorists for holding hostages to demand salary payments and disrupts public transport, crucial for the nation's progress. She urges decisive action against such unions to ensure the country's advancement. Despite opposition attempts to delay the presidential election, the government remains committed to holding it promptly, focusing on economic recovery while highlighting the negative impacts of union strikes on the national economy.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (11)  இடம்பெற்ற சட்டரீதியான ஏற்பாடுகளுக்கு அமைய உரிய காலத்தில் ஜனாதிபதித் தேர்தலை நடத்துவது பற்றிய ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
+
+The railway union leaders, including Joseph Stalin, who are trying to fulfill their demands by holding innocent people as hostage, should be referred to as terrorists.. How to make new appointments as it is a great struggle to pay salaries to those in the service. If the country does not make serious decisions against the improperly acting unions, the country cannot progress. Minister of Electricity and Power and Energy Kanjana Wijesekera said that even if the opposition parties come to power, they will have this.
+
+He was speaking at the postponement debate on holding the presidential election in a timely manner in accordance with the legal arrangements in Parliament on Thursday (11).
+
+Opponents have forgotten the maneuvers of the election in the past that the government is maneuvering the election. The opposition parties have come up with a adjournment motion on the presidential election in a timely manner.
 
 ...
 
 [Data](articles/5583da38.json)
+
+[Extended Data](ext_articles/5583da38.ext.json)
 
 ---
 
@@ -1150,19 +1220,25 @@ Hospital sources reported that popular singer K. Sujeewa, who was seriously inju
 
 ---
 
-### අධික තදබදයෙන් ස්වසන අපහසුතාවට ලක්වූ දුම්රියේ ගමන්ගත් කාන්තාව රෝහලට
+### Woman was hospitalized after he was embarrassing the train in heavy traffic
 
 *2024-07-11 16:11:38* · [`adalk`](https://www.ada.lk/breaking_news/අධික-තදබදයෙන්-ස්වසන-අපහසුතාවට-ලක්වූ-දුම්රියේ-ගමන්ගත්-කාන්තාව-රෝහලට/11-410743) · `si`
 
-දුම්රිය ස්ථානාධිපතිවරුන් ඇතුළු අංශ කිහිපයක සේවක වර්ජනය හේතුවෙන්, අධික තදබදයෙන් කොළඹ කොටුව සිට පොල්ගහවෙල දෙසට ධාවනය වෙමින් තිබූ දුම්රියක සිටි කාන්තාවක් ශ්වසන අපහසුතාවයට ලක්ව ගම්පහ දිස්ත්‍රික් මහ රෝහලට ඇතුළත් කෙරිණි.
+A woman, 53, traveling from Colombo to Polgahawela during a railway strike, felt unwell and was rushed to Gampaha District General Hospital. Despite initial discomfort, she recovered and was discharged after treatment.
 
-53 හැවිරිදි රාජ්‍ය සේවිකාවක වන ඇය දුම්රිය මැදිරිය තුළ අධික ලෙස තෙරපීමේදී ශ්වසන අපහසුතාවයට ලක්ව රෝගී තත්ත්වයකට පත්වීම මත, දුම්රිය මැදිරියේ සිටි සෙසු මගීන් විසින් මැය ගම්පහ දුම්රිය ස්ථානයෙන් බස්සවා ගෙන 1990 සුවසැරිය ගිලන් රථයකින් රෝහල වෙත යැවීමට පියවර ගෙන තිබිණි.
+🟩
 
-රෝගී කාන්තාව රෝහල්ගත කොට ප්‍රතිකාර ලබාදී සාමාන්‍ය තත්ත්වයට පත්වූ පසුව නිවස බලා යාමට සැලැස්වූ බව ගම්පහ දිස්ත්‍රික් මහ රෝහලෙහි ප්‍රකාශිකාවක් සඳහන් කළාය.
+A woman who was traveling from Colombo Fort to Polgahawela was admitted to the Gampaha District General Hospital due to the strike of several sections including station.
+
+A 53-year-old state worker had been uncomfortable in the railway room, the other passengers were uncomfortable in the railway room and sent to the hospital in a 1990 celebration.
+
+After the sick woman was hospitalized and treated at treatment, he said.
 
 ◼️
 
 [Data](articles/3493515a.json)
+
+[Extended Data](ext_articles/3493515a.ext.json)
 
 ---
 
@@ -1654,6 +1730,8 @@ Previously, the Sri Lanka Police has entered into agreements with other entities
 
 [Data](articles/b3e49abb.json)
 
+[Extended Data](ext_articles/b3e49abb.ext.json)
+
 ---
 
 ### Pushing the mother: daughter kidnapping
@@ -1917,6 +1995,8 @@ Sri Lanka’s cinnamon cultivation area needs to be expanded, Wickremesinghe sai
 ...
 
 [Data](articles/d4a9e2cc.json)
+
+[Extended Data](ext_articles/d4a9e2cc.ext.json)
 
 ---
 
@@ -2277,49 +2357,5 @@ Shocked by this, the teacher escaped from school. Immediately, fellow students w
 [Data](articles/6dc93303.json)
 
 [Extended Data](ext_articles/6dc93303.ext.json)
-
----
-
-### CC unanimously approves new Attorney General appointment
-
-*2024-07-11 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100440/cc-unanimously-approves-new-attorney-general-appointment) · `en`
-
-The Constitutional Council has unanimously approved the nomination of Senior Additional Solicitor General Parinda Ranasinghe as the Attorney General.
-
-Senior Additional Solicitor General Parinda Ranasinghe took oaths as the Acting Attorney General before the Chief Justice on July 01, after the proposal to extend former Attorney General Sanjay Rajaratnam’s term by another 06 months was defeated for the second time at the Constitutional Council meeting.
-
-However, the appointment sparked controversy, as allegations were leveled against the government claiming that the new appointment overlooked Senior Additional Solicitor General Ayesha Jinasena, despite her seniority and eligibility for the role, due to gender bias.
-
-However, in response to the relevant allegations, President’s Secretary Saman Ekanayake emphasized that there is no constitutional requirement to appoint the senior-most officer from the Attorney General’s Department to this position based on seniority.
-
-...
-
-[Data](articles/4595d3e1.json)
-
-[Extended Data](ext_articles/4595d3e1.ext.json)
-
----
-
-### Traffic on Low Level Road
-
-*2024-07-11 11:30:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லோ-லெவல்-வீதியின்-போக்குவரத்து-தடை/175-340222) · `ta`
-
-Traffic on Low Level Road is disrupted due to a collapsed state tree near Ranala and Suttavila, causing power outages and damaging wires. Police have restricted heavy vehicles and locals are assisting in clearing branches.
-
-🟩
-
-Navagamuwa police said that the traffic of the state tree has been blocked due to a collapse of a state tree in Ranala and Suttavila area of ​​Low Level Road, Colombo - Avissawella.
-
-Due to this, many wires in the area have been damaged and the power has been cut off.
-
-The police have also taken steps to suspend heavy vehicles from Velvil Junction and Siambala Kas junction.
-
-It is also noteworthy that the people of the area and the police are working together to cut off the branches.
-
-◼️
-
-[Data](articles/388180df.json)
-
-[Extended Data](ext_articles/388180df.ext.json)
 
 ---

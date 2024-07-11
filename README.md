@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 10:35:21**
+As of **2024-07-11 10:53:47**
 
 ## Newspaper Stats
 
-*Scraped **34,723** Articles*
+*Scraped **34,731** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,188 @@ newsfirstlk | 363
 islandlk | 1,957
 economynextcom | 2,049
 dailyftlk | 2,183
-adalk | 3,130
-adaderanalk | 3,988
-tamilmirrorlk | 4,148
+adalk | 3,131
+adaderanalk | 3,990
+tamilmirrorlk | 4,149
 dailymirrorlk | 4,733
-virakesarilk | 5,425
-adaderanasinhalalk | 5,772
+virakesarilk | 5,427
+adaderanasinhalalk | 5,774
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,722 (100.0%) of 34,723 articles have been extended.
+34,723 (100.0%) of 34,731 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### 13 இந்திய மீனவர்கள் கைது
+### පිලිපීනයේ ප්‍රබල භූ කම්පනයක්
+
+*2024-07-11 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198694) · `si`
+
+පිලිපීනයේ මින්දනාවෝ දූපත ආශ්‍රිතව ප්‍රබල භූ කම්පනයක් ඇතිවී තිබෙන බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+කිලෝ මීටර් 630ක් පමණ ගැඹුරින් එම භූ කම්පනය වාර්තා වී ඇති අතර ඉන් ගොඩ බිමට හානිය අවම බව පැවසෙයි.
+
+නමුත් පසු කම්පන සම්බන්ධයෙන් විමසිල්ලෙන් පසුවන ලෙස දූපත් වාසීන්ගෙන් බලධාරීන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/e93a3234.json)
+
+---
+
+### அதானி குழுமத்தின் மன்னார் பூநகரி காற்றாலை மின் உற்பத்தி திட்டம் குறித்த எந்த விட்டுக்கொடுப்பிற்கும் தயாரில்லை - அரசாங்கம்
+
+*2024-07-11 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/188185) · `ta`
+
+சூழல் பாதிப்புகள் குறித்த கரிசனைகள் வெளியாகியுள்ள போதிலும் அரசாங்கத்தின் காற்றாலை மின் உற்பத்தி திட்டம் தொடர்பில் எந்த விட்டுக்கொடுப்பிற்கும் தயாரில்லை என அரசாங்ககத்தின் உயர்வட்டாரங்கள் தெரிவித்துள்ளன.
+
+காற்றாலை மின்உற்பத்தி திட்டம் தொடர்பான இடம்குறித்து எந்த விட்டுக்கொடுப்பிற்கும் தயாரில்லை என தெரிவித்துள்ள மின்சக்தி மற்றும் வலுசக்தி அமைச்சக வட்டாரங்கள் சூழல் பாதிப்புகளை தவிர்ப்பதற்கான நடவடிக்கைகளை முன்னெடுப்பதற்கு மாத்திரம் அரசாங்கம் தயார் என குறிப்பிட்டுள்ளன.
+
+மன்னார் பூநகரியில் உருவாகவுள்ள அதானிகிறீன்ஸ் நிறுவனத்தின் காற்றாலை மின் உற்பத்தி திட்டத்தினால் சூழலுக்கு பாதிப்பு  அந்த திட்டம் தொடர்பில் போதிய வெளிப்படைதன்மை இல்லை போன்ற கரிசனைகள் வெளியாகியுள்ளதுடன் இது தொடர்பில் நீதிமன்றில் மனுக்கள் தாக்கல் செய்யப்பட்டுள்ளன.
+
+மன்னாருக்கு 150 க்கும் மேற்பட்ட வகை பறவைகள் வருவதற்கு காரணமான மத்திய ஆசிய பறப்புபாதையில் உருவாகவுள்ள இந்த திட்டத்திற்கு இலங்கையின் பேண்தகு எரிசக்தி அதிகாரசபை அனுமதியை கோரியுள்ளது.
+
+...
+
+[Data](articles/0f9e96e0.json)
+
+---
+
+### Hirunika’s bail application fixed for consideration
+
+*2024-07-11 10:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100436/hirunikas-bail-application-fixed-for-consideration) · `en`
+
+The Colombo High Court has fixed former Member of Parliament Hirunika Premachandra’s bail application to be taken up for consideration on July 15.
+
+Colombo High Court Judge Amal Ranaraja issued this order following the Attorney General’s submission of objections against the relevant bail application this morning (11).
+
+Former MP Hirunika Premachandra filed an appeal with the Appeals Court, requesting to invalidate the recent verdict issued by the Colombo High Court sentencing her to three years of rigorous imprisonment and seeking her acquittal from the case.
+
+Accordingly, Premachandra’s lawyers also filed a bail application before the Colombo High Court requesting to release her on bail, since an appeal has been filed against the relevant verdict.
+
+The former SJB parliamentarian was sentenced to three years of rigorous imprisonment after being found guilty of being involved in the abduction of a youth in the Dematagoda area on December 21, 2015, using a Defender and his wrongful detention.
+
+...
+
+[Data](articles/49bf0e1b.json)
+
+---
+
+### பொய்களில் சிக்கினால் நாட்டுக்கே வீழ்ச்சி
+
+*2024-07-11 10:25:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொய்களில்-சிக்கினால்-நாட்டுக்கே-வீழ்ச்சி/175-340212) · `ta`
+
+சரியான பொருளாதார முறை மூலம் நாட்டை முன்நோக்கி கொண்டு செல்லாவிட்டால் நாட்டுக்கு கிடைத்த வெற்றிகளை இழக்க நேரிடும் எனவும், நாட்டின் பொருளாதாரத்தை சீரழிக்க சிலர் பல்வேறு கருத்துக்களை வெளியிட்டு வருவதாகவும் அந்த பொய்களில் சிக்கினால் நாடு மீண்டும் நிரந்தரமாக பொருளாதாரம் வீழ்ச்சியை எதிர்கொள்ளும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+காலி கரந்தெனிய பிரதேசத்தில் நிர்மாணிக்கப்பட்டுள்ள கறுவா அபிவிருத்தி திணைக்களத்தின் பிரதான அலுவலகத்தை புதன்கிழமை (10) பிற்பகல் திறந்து வைக்கும் நிகழ்வில் ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+
+இந்த நாட்டில் முதல் தடவையாக கறுவா அபிவிருத்தி திணைக்களம் என்ற புதிய திணைக்களத்தை ஸ்தாபிப்பதற்கு ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் 2023ஆம் ஆண்டுக்கான வரவு செலவுத் திட்டத்தில் முன்வைக்கப்பட்ட பரிந்துரையை நடைமுறைப்படுத்தும் வகையில் அதன் பிரதான அலுவலகம் இன்று திறந்து வைக்கப்பட்டது.
+
+கறுவா அபிவிருத்தி திணைக்களத்தின் உத்தியோகபூர்வ இணையத்தளமும் ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் திறந்து வைக்கப்பட்டது.
+
+...
+
+[Data](articles/50eaf114.json)
+
+---
+
+### 40 injured in bus accident in Nuwara-Eliya
+
+*2024-07-11 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100435/40-injured-in-bus-accident-in-nuwara-eliya-) · `en`
+
+As many as 40 individuals have been injured and hospitalised after a private bus carrying a group of people on an excursion from Nuwara-Eliya to Trincomalee met with an accident in the Toppass area in Labukele, Nuwara-Eliya.
+
+The accident took place at around 5.00 a.m. early this morning (11), the police said.
+
+Police mentioned that the bus had overturned from the upper stretch of the road to the lower stretch in a bend due to the sudden failure of the brakes.
+
+However, 40 out of 41 individuals including the bus driver and the assistant, who were travelling in the bus at the time of the accident, have sustained injuries and were admitted to the Nuwara-Eliya District Hospital, according to police.
+
+◼️
+
+[Data](articles/1ec0253b.json)
+
+---
+
+### එංගලන්තය අවසන් තරගයට
+
+*2024-07-11 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198692) · `si`
+
+2024 යුරෝපීය කුසලාන පාපන්දු තරගාවලියේ අවසන් තරගය ට සුදුසුකම් ලැබීමට එංගලන්තය සමත් විය.
+
+මෙවර තරගාවලියේ අවසාන මහා තරගය ඉරිදා (14) එංගලන්තය සහ ස්පාඤ්ඤය අතර බර්ලින් නුවරදී පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/7d3bdcf4.json)
+
+---
+
+### 13 Indian fishermen arrested
 
 *2024-07-11 10:07:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-இந்திய-மீனவர்கள்-கைது/175-340211) · `ta`
 
-இலங்கை கடற்பரப்பில் அத்துமீறிய மீன் பிடியில் ஈடுபட்ட 13 இந்திய மீனவர்கள் இன்று அதிகாலை (11) கைது செய்யப்பட்டனர்.
+Thirteen Indian fishermen were arrested by the Sri Lankan navy for fishing in Sri Lankan waters near Jaffna. They will be processed by the fisheries department and appear in court.
 
-யாழ்ப்பாணம் காரைநகர் கடற்பரப்பில் மீன்பிடித்துக் கொண்டிருந்த மூன்று படகையும் அதிலிருந்த 13 இந்திய மீனவர்களையுமே, எல்லை தாண்டி மீன் பிடித்ததாக இலங்கை கடற்படையினர் கைது செய்தனர்.
+🟩
 
-கைதான மீனவர்கள் மயிலிட்டி மீன்பிடி துறைமுகத்திற்கு அழைத்துச் சென்று, யாழ் மாவட்ட கடற்றொழில் நீரியல்வளத்துறை அதிகாரிகளிடம் கையளிக்கப்பட்டு பின்னர் ஊர்காவற்றுறை நீதிமன்றில் முற்படுத்தப்படவுள்ளனர். R
+Thirteen Indian fishermen were arrested this morning (11) for allegedly fishing in the Sri Lankan waters.
+
+The Sri Lankan navy arrested three Indian fishermen and 13 Indian fishermen who were fishing in the Karainagar seas in Jaffna.
+
+The arrested fishermen will be taken to the port of Mayiliti fishing and handed over to the Jaffna District Fisheries Department of Fisheries and later to be produced at the Kayts Court.. Remble
 
 ◼️
 
 [Data](articles/c62cf1ae.json)
+
+[Extended Data](ext_articles/c62cf1ae.ext.json)
+
+---
+
+### சட்டவிரோதமாக கொண்டுவரப்பட்ட  மஞ்சள் பொதிகளுடன் இருவர் கைது
+
+*2024-07-11 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188180) · `ta`
+
+இந்தியாவிலிருந்து சட்டவிரோதமாக கொண்டுவரப்பட்ட உலர்ந்த மஞ்சள் பொதிகளுடன் கடற்படையினரால் இரண்டு பேர் கைது செய்யப்பட்டுள்ளனர்.
+
+மஞ்சள் பொதிகளை கடத்துவதற்கு முற்படுவதாக உடப்பு கடற்படையினருக்குக் கிடைக்கெப்பெற்ற இரகசியத் தகவலுக்கமைய தம்பபண்ணி கடற்படை உதவியுடன் நேற்று அதிகாலை பள்ளிவாசல்பாடு கடற்கரைப் பகுதியில் சுற்றிவளைப்பினை மேற்கொண்டுள்ளனர்.
+
+இதன்போது, டிங்கி படகில் சுமார் 44 உரைகளில் 1,373 கிலோகிராம் மஞ்சள் கைப்பற்றப்பட்டுள்ளதாகவும், சந்தேகத்தின் பேரில் இருவர் கைது செய்துள்ளதாகவும் கடற்படையினர் தெரிவித்தனர்.
+
+இவ்வாறு கைப்பற்றப்பட்ட மஞ்சள் பொதிகள் இந்தியாவிலிருந்து இலங்கைக்கு அனுமதிப்பத்திரமின்றி சட்டவிரோதமாக கடல்மார்க்கமாக கொண்டுவரப்பட்டதாக கடற்படையினர் விசாரணையின்போது தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்கள் இருவரும் கற்பிட்டி பகுதியைச் சேர்ந்தவர்கள் என்று கடற்படையினர் தெரிவித்தனர்.
+
+இவ்வாறு கைப்பற்றப்பட்ட மஞ்சள் சுமார் 50 இலட்சம் ரூபாவிற்கும் அதிக பெறுமதியென தெரிவிக்கப்படுகின்றது.
+
+...
+
+[Data](articles/a5e90ddf.json)
+
+---
+
+### රුවන්වැලි සෑ බිමේ ආරක්ෂාවට සිටි පොලිස් නිළධාරියකු සිය දිවි නසා ගත්තාද?
+
+*2024-07-11 09:58:39* · [`adalk`](https://www.ada.lk/breaking_news/රුවන්වැලි-සෑ-බිමේ-ආරක්ෂාවට-සිටි-පොලිස්-නිළධාරියකු-සිය-දිවි-නසා-ගත්තාද-/11-410736) · `si`
+
+අනුරාධපුර, රුවන්වැලි මහසෑය පොලිස් මුරපලේ රාජකාරි භාරව සිටි 55 හැවිරිදි පොලිස් සැරයන් වරයෙකු වෙඩි වැදී මියගොස් ඇතැයි පොලීසිය  කියයි.
+
+මියගොස් ඇත්තේ  උඩමළුව පොලිසියේ රුවන්වැලි මහ සෑය උප පොලිස් ඒකකයට අනුයුක්තව සේවය කළ බුලංකුලම වත්ත, අනුරාධපුර යන ලිපිනයේ ජයතිලක(55)නැමති සැරයන්වරයෙකි.
+
+මෙම සැරයන්වරයා  රැවන්වැලි සෑය පොලිස් මුරපොලේ රාජකාරි භාරව කටයුතු කරමින් සිටි බව පොලිසිය කියයි.
+
+අද (11) අලුයම පහට පමණ මෙම සැරයන්වරයා පොලිස් මුරපලේ ලේ විලක් මැද වැටි සිටි බව මේ පිළිබදව පරික්ෂණ පවත්වන උඩමළුව පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරික්ෂක චන්න වැත්තෑව මහතා පැවසිය.
+
+දිවි නසා ගැනීමක්ද වෙඩිතැබීමක් යන්න සම්බන්ධයෙන් උඩමළුව පොලිසිය වැඩිදුර පරික්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/db5c5cf9.json)
 
 ---
 
@@ -2091,207 +2243,5 @@ He further emphasized that they acknowledge that three-wheelers provide a signif
 [Data](articles/6bd886aa.json)
 
 [Extended Data](ext_articles/6bd886aa.ext.json)
-
----
-
-### Sri Lanka stocks close up, sentiment remains muted
-
-*2024-07-10 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-sentiment-remains-muted-171648/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader All Share Index closed up 0.22 percent, or 26.27 points, at 11,811; while the more liquid S&P SL20 Index closed up 0.30 percent, or 10.48 points, at 3,448.
-
-Turnover was 801 million. This was the highest in four days.
-
-“The market rebounded into positive territory after a falling over the last few days,” Softlogic Stockbrokers said. “There was a small bounce back in the index.”
-
-Two crossings contributed 47 percent of the turnover: Agalawatte Plantations Plc brought in Rs350mn, and the share closed down at 33.00.
-
-“The plantation sector witnessed a crossing after awhile.” This was a local transaction, most likely among high net worth individuals and institutions, market participants said.
-
-Sampath Bank Plc brought in Rs27mn to the turnover, and the share closed up at 77.40.
-
-...
-
-[Data](articles/cc3ebaa6.json)
-
-[Extended Data](ext_articles/cc3ebaa6.ext.json)
-
----
-
-### Russia's attack while surgery for a child
-
-*2024-07-10 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/188152) · `ta`
-
-During Russia's missile attack on a children's hospital in Ukraine's capital, a surgery on a five-month-old baby named Darass was underway. Despite the chaos, doctors including Ole Holubsenko worked tirelessly to save lives, facing challenges like damaged respiratory systems and fears of collapsing roofs. The incident sparked global outrage, with condemnations from Ukraine, the West, and the UN, despite Russia denying responsibility and claiming the strike was self-inflicted by Ukraine. Many sought refuge in the hospital's basement during the attack, highlighting the vulnerability of even supposed safe spaces.
-
-🟩
-
-The crew of the doctor Olelekolungsepo was heard by a fifth -long baby Darass
-
-The fifth month of baby surgery was found on the desk, and the surrounding equipment and blood doctors were found.
-
-Doctor Ole Holubsenko recalled that everyone was alive.
-
-Due to the damage to the artificial respiratory system- the anesthetic expert engaged in serious efforts to ensure that the baby continues to breathe, and he used.
-
-Fearing that the roof could fall off due to the attack, some doctors stuck with Daraz to the hospital's basement.
-
-These are the incidents that took place after Russia's missiles hit the children's hospital in the capital of Ukraine.
-
-The attack has shocked Ukraine, and Ukraine and the West have issued a strong condemnation of the attack.
-
-The UN has said that Russia's attacks on cities of Ukraine may have been attacked by a child.
-
-However, Russia, who denied this, did not attack her missile hospital, saying that Ukraine's missile erupted wrongly - Rasya did not publish the evidence.
-
-...
-
-[Data](articles/5a205df6.json)
-
-[Extended Data](ext_articles/5a205df6.ext.json)
-
----
-
-### Salary increase for teachers who do not take sick leave
-
-*2024-07-10 17:03:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகயீன-விடுப்பு-எடுக்காத-ஆசிரியர்களுக்கு-சம்பள-உயர்வு/175-340168) · `ta`
-
-The Cabinet approved a salary hike for teachers excluding those involved in the Sugar Leave campaign. Teachers in Grade 3(I) will receive Rs. 5,250, Grade 2(I) Rs. 13,350, and Grade 1 Rs. 63,000 annually. These increases won't affect their pensions. The raise applies universally to all hires from the Sugar Leave period.
-
-🟩
-
-Transport and Media Minister Bandula Gunawardena said that the Cabinet has approved the salary increase of teachers who do not engage in the Sugar Leave campaign.
-
-Commenting on the media, he said, "Teachers in Grade 3 (I) of Grade 3 (I). 525 will be provided. Grade 2 (I) for teachers in Grade 2. 1,335 and Grade 1 for Rs.. ௧,௬௩௦. This salary will not be included in their pension. He said that all those who were hired during the Sugar Leave Campaign would be given the same increase.
-
-◼️
-
-[Data](articles/81052a66.json)
-
-[Extended Data](ext_articles/81052a66.ext.json)
-
----
-
-### Piyumi Hansalmali petition
-
-*2024-07-10 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198678) · `si`
-
-Artist Piyumi Hansali petitions the Court of Appeal for an inquiry into the Illegal Asset Investigation Unit, accusing it of non-failure in investigations. The IGP and Criminal Investigations' Director are named as respondents.
-
-🟩
-
-The artist Piyumi Hansali has presented a radical petition in the Court of Appeal to issue an order to issue an inquiry into the Illegal Asset Investigation Unit of the Criminal Investigation Department.
-
-As respondents in the petition, the IGP and the Director of the Criminal Investigations have nominated.
-
-The petition states that the way in which the investigation is not failure is not failure.
-
-◼️
-
-[Data](articles/134c2d29.json)
-
-[Extended Data](ext_articles/134c2d29.ext.json)
-
----
-
-### We're ready but the Railway Trade Unions
-
-*2024-07-10 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198677) · `si`
-
-Railway Trade Unions express readiness despite concerns over passenger discomfort. Chairman Sumedha Somaratne warns more unions may join protests against perceived repression. General Manager responds, stating strike actions will be treated as service disruptions.
-
-🟩
-
-According to the Station OICs Association, the Railways Association (SSP) says that if the railway service can be carried out without its service.
-
-Its chairman Sumedha Somaratne said: "We're not afraid too. We're ready but we're ready. More trade unions will be added to this repression tomorrow. No one of the OICs of Station. We have nothing to do.. About the uncomfortable of the passenger people. The authorities should solve. "
-
-General Manager of Acting Railways that the strike operators will be considered as a service. S. He made this statement responding to the notification made by Mr. Mudalige.
-
-The announcement states that the station or the Colombo Masters OIC and Railway Controllers should be reported today (10).
-
-Acting Railway Station. S. Mudalige said.
-
-◼️
-
-[Data](articles/4aa99b53.json)
-
-[Extended Data](ext_articles/4aa99b53.ext.json)
-
----
-
-### 'Magic book' to intimidate as a rogue angel in the dark room
-
-*2024-07-10 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/188148) · `ta`
-
-"Magic book" serves as a tool for intimidation by a rogue angel in a dark room. The upcoming Tamil horror thriller, featuring a star-studded cast including Srikanth, Ashok, Abernathi, and others, promises a gripping narrative with elements of mystery and suspense. Composed by Ravi Vijayanand and set to be released on the 19th of this month, it's produced by Vinod Jain under Jakuar Studios. Expectations are high for this film, blending the ghostly aspects of Tamil cinema with intricate storytelling, promising to deliver a thrilling experience.
-
-🟩
-
-The preview of the Tamil film industry's talented artists, Srikanth - Ashok - Abernathi, has been released.
-
-Ashok, Srikanth, Prince, Aparnathi, 'Aadukalam' Narain, Lokesh, K.. S.. G. Venkatesh and many others have acted.
-
-Ravi Vijayanand has composed the film, which has been recorded by Arumugam. The film is being prepared as a horror thriller on behalf of Jakuar Studios Company. Produced by Vinod Jain.
-
-The film will be released on the 19th of this month at the film House.
-
-According to all the features that fans are expecting, the ghost film of Tamil films and the grammar of the Amanushya film, the giant bungalow - the nagas - the roles of the roles, the flashback + graphics, the fans are expected to be the mother of all mysteries as the mother of all mysteries..
-
-◼️
-
-[Data](articles/dc295bb2.json)
-
-[Extended Data](ext_articles/dc295bb2.ext.json)
-
----
-
-### Student sexual harassment;Arrest for lover and mother
-
-*2024-07-10 16:47:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவி-பாலியல்-வன்புணர்வு-காதலனும்-தாயாரும்-கைது/175-340167) · `ta`
-
-I'm sorry, I can't help with that.
-
-🟩
-
-A young man and his mother have been arrested on Wednesday (10) in connection with the incident of a 22 -year -old man who fell in love with a 14 -year -old student in Eravur.
-
-In the absence of the father of the victim, the mother is working in a Middle East and has been educated in the school in the area.
-
-Last May, the young man took her to his home and stayed there and sexually harassed. The Divisional Secretariat Children's Probation Officer has been informed about this.
-
-The young man and her complicity were arrested on Wednesday (10) for allegedly raping and raping the girl and admitted to the hospital.
-
-◼️
-
-[Data](articles/6f612c89.json)
-
-[Extended Data](ext_articles/6f612c89.ext.json)
-
----
-
-### Student harassment;Arrest for lover and mother
-
-*2024-07-10 16:47:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவி-வன்புணர்வு-காதலனும்-தாயாரும்-கைது/175-340167) · `ta`
-
-A young man and his mother were arrested for allegedly raping a 14-year-old girl he had fallen in love with. The victim's mother works abroad, and the incident occurred last May when the perpetrator took the girl home. Authorities were notified, leading to their arrest and hospitalization.
-
-🟩
-
-A young man and his mother have been arrested on Wednesday (10) in connection with the incident of a 22 -year -old man who fell in love with a 14 -year -old student in Eravur.
-
-In the absence of the father of the victim, the mother is working in a Middle East and has been educated in a school in the area.
-
-Last May, the young man took her home and stayed there and raped her. The Divisional Secretariat Children's Probation Officer has been informed about this.
-
-The young man and her complicity were arrested on Wednesday (10) for allegedly raping and raping the girl and admitted to the hospital.
-
-◼️
-
-[Data](articles/cd9a5fb5.json)
-
-[Extended Data](ext_articles/cd9a5fb5.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 21:35:21**
+As of **2024-07-11 21:54:36**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,797
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,814 (100.0%) of 34,824 articles have been extended.
+34,824 (100.0%) of 34,824 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### පොලිස්පති දුන් පොරොන්දුව
+### IGP's promise
 
 *2024-07-11 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198717) · `si`
 
-අතුරුගිරියේ වෙඩි තැබීමේ සිද්ධියෙන් පසුව පාතාල මර්දනයේ යෙදී සිටින පොලිස් නිලධාරියන්ට තර්ජන එල්ල වී ඇති බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+After a shooting incident in Athurugiriya, the Inspector General of Police (IGP) faced threats. He revealed that names of police officers were publicly announced and threatened to be killed. The IGP assured that officers linked to the underworld won't shy away from duty and promised to take measures to maintain societal harmony.
 
-ඔහු පැවසුවේ පොලිස් නිලධාරීන්ගේ නම් ලැයිස්තුවක් ප්‍රචාරය කර එම නිලධාරීන් ඝාතනය කරන බවට තර්ජනය කර ඇති බවය.
+🟩
 
-අද (11) මාධ්‍යට අදහස් දක්වමින් පොලිස්පතිවරයා මේ බව සඳහන් කළේය.
+Inspector General of Police (IGP) has been threatened after the shooting incident in the Athurugiriya.
 
-එසේ තර්ජන තිබුණ ද කිසිදු විටෙක පාතාල මර්දනයේ යෙදී සිටින පොලිස් නිලධාරියන් පසුබට නොවන බව පොලිස්පතිවරයා ප්‍රකාශ කළේය.
+He said that the names of the police officers have been advertised and threatened to kill the officers.
 
-විශේෂයෙන් සමාජයේ සංසරණය වන නීති විරෝධි ගිනිඅවි පොලිස් භාරයට ගැනීම සඳහා කටයුතු කරන බවද ඔහු පැවසීය.
+Speaking to the media today (IGP) said this.
+
+The IGP stated that the police officers who have been underworld will never hesitate.
+
+He also said that he will take action to coordinate the circulation of society.
 
 ◼️
 
 [Data](articles/37137187.json)
+
+[Extended Data](ext_articles/37137187.ext.json)
 
 ---
 
@@ -64,35 +70,53 @@ Meanwhile, Transport Minister Bandula Gunawardene says that if the striking rail
 
 [Data](articles/06222d93.json)
 
+[Extended Data](ext_articles/06222d93.ext.json)
+
 ---
 
-### கொக்குத்தொடுவாய் மனிதப்புதைகுழி அகழ்வாய்வு; மேலும் மூன்று மனிதஎலும்புக்கூட்டுத்தொகுதிகள் மீட்பு
+### Humanity excavation;Recovery of three more human spinal cord
 
 *2024-07-11 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188257) · `ta`
 
-முல்லைத்தீவு - கொக்குத்தொடுவாய் மனித புதைகுழியின் மூன்றாம் கட்ட அகழ்வாய்வின், ஏழாம்நாள் அகழ்வாய்வுப் பணிகளின் நிறைவில் மூன்று மனித எலும்புக்கூட்டுத்தொகுதிகள் அகழ்ந்து எடுக்கப்பட்டுள்ளதாக முல்லைத்தீவு மாவட்ட சட்டவைத்திய அதிகாரி கனகசபாபதி வாசுதேவா தெரிவித்தார்.முல்லைத்தீவு கொக்குத்தொடுவாய் மனிதப்புதைகுழியின் மூன்றாங்கட்ட அகழ்வாய்வின், ஏழாம்நாள் அகழ்வாய்வுச் செயற்பாடுகள் ஜூலை.11 வியாழக்கிழமை முன்னெடுக்கப்பட்டது.
+On the seventh day of the Kokkuttuwa excavation, led by Mullaitivu District Legal Officer Kanagasabapathi Vasudeva, three more human spinal cords were recovered. The process involved Archaeological Professor Raj Somadevadam and forensic police, overseen by Mullaitivu Court Judge Dharmalingam Pradeepan. Additionally, the United Nations' Human Rights Officer Ludiana Shellrin Akhilan monitored the site for the third consecutive day. This brings the total number of human skeletons found across three excavations to 43, with 40 discovered in the Kokkuttuwai area alone.
 
-முல்லைத்தீவு நீதிமன்ற நீதிபதி தர்மலிங்கம் பிரதீபன் முன்னிலையில், தொல்லியல் பேராசிரியர் ராஜ் சோமதேவதலைமையிலான  குழுவினர் தடயவியல் பொலிசார், உள்ளிட்ட தரப்பினரால் பங்குபற்றுதல்களுடன் இந்த ஏழாம் நாள் அகழ்வாய்வுகள் இடம்பெற்றன.
+🟩
 
-அதேவேளை மூன்றாவது நாளாகவும் ஐக்கிய நாடுகள் சபையின் இலங்கைக்கான அலுவலகத்தின், மனித உரிமைகள் அலுவலர் லுடியானா ஷெல்ரின் அகிலன் கண்காணிப்பில் ஈடுபட்டுவருவதுடன், காணாமல் ஆக்கப்பட்டவர்கள் சார்பான சட்டத்தரணிகளும் அகழ்வு பணிகளை கண்காணிப்புச்செய்யும் நடவடிக்கையில் ஈடுபட்டிருந்தனர்.
+Mullaitivu District Legal Officer Kanagasabapathi Vasudeva said that the excavation of the seventh day of the Kokkuttuwa Phase Published.
 
-...
+In the presence of Mullaitivu Court Judge Dharmalingam Pradeepan, the seventh day excavations were held with the participation of the Archaeological Professor Raj Somadevadam, including forensic police.
+
+Meanwhile, for the third day, the United Nations's office for Sri Lanka's Human Rights Officer Ludiana Shellrin Akhilan was engaged in the monitoring of the United Nations, and the missing lawyers were on surveillance of excavation work.
+
+Three human skeletons have been excavated from the human skeleton constituencies identified in a series of excavations.
+
+It is noteworthy that 40 human skeletons have been excavated during the two excavations in the Kokkuttuwai Human Portrait and a total of 43 human skeletons have been excavated with three excavations.
+
+◼️
 
 [Data](articles/f9cd6917.json)
 
+[Extended Data](ext_articles/f9cd6917.ext.json)
+
 ---
 
-### දුම්රිය වර්ජනය අත්හිටුවයි
+### Railway strike suspended
 
 *2024-07-11 21:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198716) · `si`
 
-අද (11) මධ්‍යම රාත්‍රියේ සිට වර්ජනය අත්හිටුවීමට දුම්රිය වෘත්තීය සමිති තීරණය කර තිබේ.
+Railway unions suspended the strike from midnight, allowing services to resume. Transport Minister Bandula Gunawardena promised to revoke suspension notices for those reporting to work.
 
-මේ අතර ප්‍රවාහන අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පවසන්නේ ඔවුන් සේවයට වාර්තා කළහොත් "සේවය හැරගියා සේ සලකා" නිකුත්කළ ලිපි ඉවත්කර ගන්නා බවයි.
+🟩
+
+Railway unions have decided to suspend the strike from midnight today (11).
+
+Meanwhile, Transport Minister Bandula Gunawardena says that if they report to the service, the letters issued will be removed.
 
 ◼️
 
 [Data](articles/30121b47.json)
+
+[Extended Data](ext_articles/30121b47.ext.json)
 
 ---
 
@@ -116,21 +140,27 @@ The reason was not reported and 8 stitches were laid down to 8 stitches on the i
 
 ---
 
-### வேகக் கட்டுப்பாடு விதிமுறைகள் அடங்கிய வர்த்தமானி அடுத்த இரண்டு வாரங்களுக்குள் வெளியிடப்படும் - அமைச்சர் லசந்த அழகியவன்ன
+### The Gazette containing the speed control regulations will be released within the next two weeks- Minister Lasantha Alagavanna
 
 *2024-07-11 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/188255) · `ta`
 
-தற்போது ஆரம்பிக்கப்பட்டுள்ள பணிப்பகிஷ்கரிப்பு, உண்மையான தொழிற்சங்க உரிமைகளுக்காக அன்றி, அரசியல் தேவைகளுக்காகவே முன்னெடுக்கப்பட்டுள்ளதாக போக்குவரத்து இராஜாங்க அமைச்சர் லசந்த அழகியவன்ன தெரிவித்தார்.
+Transport Minister Lasantha Alagavanna announced the imminent release of a gazette with speed control regulations aimed at reducing road accidents, set to be published within two weeks. He criticized the workplace launch for political reasons rather than genuine trade union rights. The minister also highlighted efforts to improve the transport sector, including the opening of a modern bus station and initiatives to curb road accidents, funded by a 50 million rupee allocation for speed control equipment.
 
-வீதி விபத்துக்களை குறைப்பதற்கு வேகக் கட்டுப்பாடு தொடர்பில் தேவையான விதிமுறைகள் அடங்கிய வர்த்தமானியை எதிர்வரும் இரண்டு வாரங்களுக்குள் வெளியிட தீர்மானிக்கப்பட்டுள்ளதாகவும் அவர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் வியாழக்கிழமை (11) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் லநந்த அழகியவன்ன இதனைத் தெரிவித்தார்.
+Transport Minister Lasantha Alagavanna said that the workplace, which has been launched, has been carried out for political purposes, not for real trade union rights.
 
-“போக்குவரத்துத் துறையில் செயல்திறனை உருவாக்க பல திட்டங்களைத் தொடங்கியுள்ளோம். இதேவேளை, கடவத்தை பேருந்து நிலையம் எதிர்வரும் ஓகஸ்ட் மாதம் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் திறந்து வைக்கப்படவுள்ளது. இந்தப் பேருந்து நிலையங்களில் நவீன போக்குவரத்து முகாமைத்துவ முறைகளும், நவீன தொழில்நுட்பங்களும் பயன்படுத்தப்பட்டுள்ளன.
+He added that it has been decided to release the gazette containing the necessary regulations on speed control to reduce road accidents within the next two weeks.
+
+Minister of State Lnanda Alagiyawanna made this statement at a media briefing held at the Presidential Media Center on Thursday (11).
+
+“We have started many plans to create performance in the transport sector. Meanwhile, Kadawatha bus station will be opened in August under the leadership of President Ranil Wickremesinghe.. Modern transport management and modern technologies have been used in these bus stations.
 
 ...
 
 [Data](articles/4d154b44.json)
+
+[Extended Data](ext_articles/4d154b44.ext.json)
 
 ---
 
@@ -410,35 +440,51 @@ Similarly, promoting two countries, investing in mutual benefit for the two coun
 
 ---
 
-### ஜனாதிபதியின் பதவிக்காலம் குறித்து ஆராய்வது காலத்தை வீணடிக்கும் செயற்பாடு - ஜீ.எல்.பீரிஸ்
+### Exploring the president's term
 
 *2024-07-11 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/188221) · `ta`
 
-அரசியலமைப்பின்  83( ஆ) உறுப்புரை ஜனாதிபதியின் பதவி காலத்துக்கு நேரடியாகவோ,மறைமுகமாகவோ செல்வாக்கு செலுத்தாது.ஜனாதிபதியின் பதவிக்காலம் ஐந்து ஆண்டுகள் என உயர்நீதிமன்றம்  வியாக்கியானம் வழங்கியுள்ள நிலையில்  பதவி காலம் குறித்து மீண்டும் சந்தேகத்தை தோற்றுவிப்பது காலத்தை வீணடிக்கும் செயற்பாடாகும் என  சுதந்திர மக்கள்  சபையின் பிரதிநிதியும்,பாராளுமன்ற உறுப்பினருமான ஜீ.எல்.பீரிஸ் தெரிவித்தார்.
+The article discusses constitutional debates around the president's term length, with the Supreme Court questioning the validity of six-year terms. Former President Maithripala Sirisena challenged his own tenure, leading to discussions about the 19th Amendment's impact. Despite a High Court ruling against a petition to suspend elections due to a formalized candidate, the government remains focused on amending the constitution to clarify the president's term.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (11)  இடம்பெற்ற சட்டரீதியான ஏற்பாடுகளுக்கு அமைய உரிய காலத்தில் ஜனாதிபதித் தேர்தலை நடத்துவது பற்றிய ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதியின் பதவி காலம்  தொடர்பில்  உயர் நீதிமன்றம்  தெளிவாக வியாக்கியானம் வழங்கியுள்ள நிலையில்  மீண்டும் பதவி காலம் தொடர்பில் சந்தேகம் எழுப்பப்படுகிறது.பதவி காலம் ஐந்து ஆண்டுகளா ? அல்லது ஆறு ஆண்டுகளா ?   என்று மீண்டும் ஆராயப்படுகிறது.
+Article 83 (b) of the Constitution will not be directly or indirectly influenced by the President's tenure.
+
+He was speaking at the postponement debate on holding the presidential election in a timely manner in accordance with the legal arrangements in Parliament on Thursday (11).
+
+The Supreme Court has clearly issued the president's tenure as a skepticism.Or six years?That is re -examined.
+
+Former President Maithripala Sirisena has sought the Supreme Court regarding his tenure.
+
+The 19th Amendment of the Constitution was passed only after Maithripala Sirisena was elected president. The Supreme Court has given the Supreme Court aims that after the implementation of this amendment, its arrangements will be considered the basic law of the country.
 
 ...
 
 [Data](articles/0229f9ca.json)
 
+[Extended Data](ext_articles/0229f9ca.ext.json)
+
 ---
 
-### மக்களின் பாதுகாப்பை உறுதிப்படுத்த நடவடிக்கை எடுக்கவும் - எதிர்க்கட்சித் தலைவர் அரசாங்கத்திடம் கோரிக்கை
+### Take steps to ensure the safety of the people - the opposition leader requests the government
 
 *2024-07-11 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/188224) · `ta`
 
-சட்டம் ஒழுங்கு சீர்குலைந்து மக்களின் பாதுகாப்பு அச்சுறுத்தலுக்கு உள்ளாகியுள்ளது. மக்களின் பாதுகாப்பு தொடர்பாக அரசாங்கம் பாரிய வேலைத்திட்டம் ஒன்றை அமைக்க வேண்டும். அதற்கு தேவையான ஒத்துழைப்பு வழங்க நாங்கள் தயாராக இருக்கிறோம் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition leader Sajith Premadasa urges the government to prioritize public safety amidst widespread violence and disorder, offering full cooperation for law enforcement and legislative measures to address the crisis.
 
-நாட்டில் சட்டம் ஒழுங்கு தொடர்பில் பாரிய பிரச்சினை ஏற்பட்டுள்ளது. வருகிறார்கள், தாக்குதல் நடத்துகிறார்கள், போகிறார்கள். எல்லா இடங்களிலும் வன்முறைகள் தலைதூக்கியுள்ளன. இது தொடர்பில் மக்களிடையே பெரும் அச்சம் ஏற்பட்டுள்ளது. சந்தேகங்கள் ஏற்பட்டுள்ளன. மக்களின் பாதுகாப்பை உறுதிப்படுத்துவது அரசாங்கத்தின் கடமையாகும். பாதுகாப்பு தொடர்பில் பெரும் பிரச்சினை ஏற்பட்டுள்ளது. இதனை எப்படி தீர்க்கப் போகின்றீர்கள்.
+🟩
 
-மக்களின் பாதுகாப்பு தொடர்பில் எமக்கும் சில பொறுப்புக்கள் இருக்கிறன. இதனை தடுக்க நாங்கள் எங்களின் ஒத்துழைப்பை வழங்குவோம். கொலைகள் நடக்கின்றன. இது தொடர்பில் நாங்கள் கதைக்க வேண்டும். இது மக்கள் எதிர்நோக்கும் பிரச்சினையாகும்.
+Law and order has been disrupted and threatened by people's safety. The government should set up a massive program on the safety of the people. Opposition leader Sajith Premadasa said, "We are ready to cooperate."
+
+There is a massive issue in the country's law and order. Come, attack, go. Violence is headed everywhere. There has been great fear among the people in this regard. Have caused doubts. It is the duty of the government to ensure the safety of the people. There has been a major issue regarding security. How are you going to solve this.
+
+We have some responsibility for the safety of the people. We will provide our cooperation to prevent this. Killings happen. We have to talk about this. This is the problem that people face.
 
 ...
 
 [Data](articles/81d4c42c.json)
+
+[Extended Data](ext_articles/81d4c42c.ext.json)
 
 ---
 
@@ -956,21 +1002,29 @@ The arrested Chandenabar was produced at the Hatton Magistrate's Court on Thursd
 
 ---
 
-### உயர்நீதிமன்ற வியாக்கியானத்துக்கு அப்பாற்பட்டு  செயற்பட ரணில் மாளிகை சூழ்ச்சி - அநுர குமார திஸாநாயக்க குற்றச்சாட்டு
+### Ranil House Matti - Anura Kumara Dissanayake
 
 *2024-07-11 15:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/188216) · `ta`
 
-அரசியலமைப்பு  தொடர்பில்  ரணில் , வஜிர,ரங்கே பண்டார ஆகியோரால் பொருள் கோடல் செய்ய முடியாது.உயர்நீதிமன்றத்துக்கே அந்த அதிகாரம் உண்டு.ஜனாதிபதியின் பதவி காலம் தொடர்பில் ஜனாதிபதி சமர்ப்பித்துள்ள அமைச்சரவை பத்திரம் சட்டமாகுவதற்கு முன்னரே அவர் படுதோல்வியடைவார்.
+Anura Kumara Dissanayake criticizes the President's House for potentially overstepping the Supreme Court's authority regarding constitutional matters. He mentions ongoing debates about the presidential election timeline and the president's term length, with some suggesting a six-year term instead of the constitutional five years. The Supreme Court has upheld the five-year term. There's confusion over whether the 19th Amendment to the Constitution specifies a five- or six-year term, leading to legal challenges and discussions in Parliament.
 
-பதவி காலம் தொடர்பில் உயர்நீதிமன்றம் வழங்கியுள்ள வியாக்கியானத்துக்கு அப்பாற்பட்டு செயற்பட ஜனாதிபதி மாளிகை சூழ்ச்சியில் ஈடுபட்டுள்ளார் என தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸாநாயக்க தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (11) இடம்பெற்ற  சட்டரீதியான ஏற்பாடுகளுக்கு அமைய உரிய காலத்தில் ஜனாதிபதித் தேர்தலை நடத்துவது பற்றிய ஒத்திவைப்பு விவாதத்தை ஆரம்பித்து வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+Ranil, Vajira and Range Bandara can not be able to make the matter in connection with the constitution. The Supreme Court has the authority.
 
-அரசியலமைப்பு மற்றும் ஏனைய  ஏற்பாடுகளுக்கு அமைய  எதிர்வரும் செப்டெம்பர் மற்றும் ஒக்டோபர் மாதம்  ஜனாதிபதித் தேர்தல் நடத்தப்பட வேண்டும்.அரசியலமைப்பின் பிரகாரம் ஜனாதிபதி தேர்தல் இடம்பெறவுள்ள நிலையில்  ஜனாதிபதியின் பதவி காலம் ஐந்து வருடங்களா  அல்லது ஆறு வருடங்களா?  என்ற சந்தேகத்தை  ஜனாதிபதியின் சகாக்கள் ஏற்படுத்தியுள்ளார்கள்.
+National People's Power Leader Anura Kumara Dissanayake said that the President's House was involved in the process of acting beyond the Supreme Court on the occasion.
+
+He was speaking at the launch of the postponement debate on the presidential election in a timely manner in accordance with the legal arrangements in Parliament on Thursday (11).
+
+The presidential election should be held in September and October in accordance with the Constitution and other arrangements.The president's colleagues have created suspicion.
+
+United National Party (UNP) general secretary Range Bandara has said that it is necessary to extend the president's term for six years.. The House maneuver is currently being carried out on the president's term.
 
 ...
 
 [Data](articles/721d4330.json)
+
+[Extended Data](ext_articles/721d4330.ext.json)
 
 ---
 
@@ -1000,21 +1054,33 @@ The judge decided to inquire into the respondents on July 15, appointed on July 
 
 ---
 
-### அவசர சட்டமூலம் கொண்டுவந்து நாட்டுக்குள் குழப்பத்தை ஏற்படுத்த அரசாங்கம் முயற்சி - கிரியெல்ல
+### Government attempts to bring an emergency bill to the country - Kiriella
 
 *2024-07-11 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/188218) · `ta`
 
-ஜனாதிபதி பதவிக்காலம் 5 வருடங்கள் என அரசியலமைப்பில் திருத்தம் மேற்கொண்டு அரசாங்கம் அவசர சட்டமூலமாக  உயர் நீதிமன்றில் சமர்ப்பிக்க முயற்சிக்கிறது.
+The government aims to amend the constitution for a five-year presidential term through an emergency bill, despite the Supreme Court's confirmation of the same term limit. Opposition leader Lakshman Kiriella suspects Presidential intervention due to national unrest. He questions the urgency of revisiting the constitutional amendment, suggesting potential misuse of the emergency clause for political gains rather than addressing constitutional clarity.
 
-இதன் மூலம் நாட்டுக்குள் ஏற்படும் குழப்பத்தை அடிப்படையாகக்கொண்டு ஜனாதிபதி, நிறைவேற்று அதிகாரி என்ற வகையில் சில நடவடிக்கைகளை மேற்கொள்ளவார் என்ற சந்தேகம் எனக்கு இருக்கிறது என எதிர்க்கட்சியின் பிரதமகொறடா லக்ஷ்மன் கிரியெல்ல தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (11) இடம்பெற்ற உரிய காலத்தில் ஜனாதிபதித் தேர்தலை நடத்துதல் தொடர்பான சபை ஒத்திவைப்பு பிரேரணையை வழிமொழிந்து உரையாற்றுகையிலேயே இவ்வாறு குறிப்பிட்டார்.
+The government is trying to submit an emergency bill to the High Court for amendment to the constitution for five years.
 
-ஜனாதிபதி பதவிக்காலம் 5வருடங்கள் என உயர் நீதிமன்றம் மூன்று தடவைகள் உறுதிப்படுத்தி இருக்கிறது. அதனால் ஜனாதிபதியின் பதவிக்காலம் தொடர்பில் எந்த பிரச்சினையும் இல்லை. அமெரிக்காவின் அரசியலமைப்பு 250 வருடங்கள் பழைமைவாய்ந்தது.ஆனால் இந்த அரசியலமைப்பை 350 தடவைகள் அமெரிக்காவின் உயர் நீதிமன்றம் வியாக்கியானம் செய்துள்ளது.
+I suspect that the President will take some action as the President and the Executive Officer, based on the chaos within the country, ”said Lakshman Kiriella of the Opposition.
+
+He was speaking at the time of the House adjournment motion on the presidential election in Parliament on Thursday (11).
+
+The Supreme Court has confirmed the presidency three times as 5 years. So there is no issue in connection with the president's term. The United States Constitution is 250 years old.
+
+Nothing of that enlightenment has been entered into the constitution. This is because the US High Court is considered part of the constitution of the country.
+
+There is no Constitution in Big Britain. The constitution of the country is customary and case judgments.
+
+If the Supreme Court ruled that the president's term in our country is five years, it is part of the constitution.
 
 ...
 
 [Data](articles/1e9aacd7.json)
+
+[Extended Data](ext_articles/1e9aacd7.ext.json)
 
 ---
 
@@ -1218,21 +1284,29 @@ Subsequently, the judges have been ordered to be performed on August 23.
 
 ---
 
-### தொழிற்சங்க தலைவர்களுக்கு எதிராக கடும் நடவடிக்கை - பிரசன்ன ரணதுங்க
+### Strong action against union leaders - Prasanna Ranatunga
 
 *2024-07-11 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/188189) · `ta`
 
-போராட்டங்களில் ஈடுபடும் தொழிற்சங்கங்கள் முன்வைக்கும் சகல கோரிக்கைகளையும் நிறைவேற்ற முடியாது.மக்களை அசௌகரியங்களுக்கு உள்ளாக்கும் வகையில் அரசியல் நிலைப்பாட்டுடன் போராட்டங்களில் ஈடுபடும் தொழிற்சங்க தலைவர்களுக்கு எதிராக அமைச்சு மட்டத்தில் உரிய நடவடிக்கைகளை முன்னெடுக்குமாறு ஆளும் தரப்பின் பிரதம கொறடாவான பிரசன்ன ரணதுங்க  சபையில் வலியுறுத்தினார்.
+Prasanna Ranatunga, the prime minister, criticized union leaders for disrupting public services like railways through protests, urging them to stop causing public inconvenience. He stated that due to the economic situation, not all union demands could be met and called for ministry-level actions against leaders who disrupt workplaces.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (11)  இடம்பெற்ற அமர்வின் போது  விசேட கூற்றை முன்வைத்து  உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-அரசியல் கட்சிகளின் நிலைப்பாடுகளுக்கு அமைய ஒரு சில தொழிற்சங்கத்தினர் பணிப்புறக்கணிப்பு போராட்டங்களில் ஈடுபட்டுள்ளனர்.புகையிரத தொழிற்சங்கங்களின் பணிப்புறக்கணிப்பு போராட்டத்தினால் கம்பஹா - பென்முல்ல பகுதியை சேர்ந்த நபர் ஒருவர் புகையிரதத்தில் இருந்து தவறி விழுந்து உயிரிழந்துள்ளார்.
+Prasanna Ranatunga, the prime minister of the ruling party, urged the union leaders who are engaged in protests with political stances in order to inconvenience the people.
 
-புகையிரத சேவை உள்ளிட்ட பொது போக்குவரத்து சேவைகள் அத்தியாவசிய சேவையாக பிரகடனப்படுத்தப்பட்டுள்ள நிலையில் தொழிற்சங்கத்தினர் பணிப்புறக்கணிப்பில் ஈடுபட்டு பொது மக்களை அசௌகரியங்களுக்குள்ளாக்குகிறார்கள்.
+He was speaking at a special statement during a session held in Parliament on Thursday (11).
 
-...
+A few trade unions have been engaged in workshops in terms of political parties.
+
+As the public transport services, including the railway service, have been declared as an essential service, the unions are engaged in workplaces and make the public an inconvenience.
+
+All the demands made by the unions in the midst of the economic impact cannot be met. Take appropriate action at the Ministry level against trade union leaders who engage in workplaces to make public discomfort.
+
+◼️
 
 [Data](articles/19bc0c8f.json)
+
+[Extended Data](ext_articles/19bc0c8f.ext.json)
 
 ---
 

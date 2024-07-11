@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 20:35:23**
+As of **2024-07-11 20:54:03**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,795
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,813 (100.0%) of 34,814 articles have been extended.
+34,814 (100.0%) of 34,814 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### පොලිස් නිලධාරියාට රිමාන්ඩ් බන්ධනාගාරයේ දී ප්‍රහාරයක්
+### Police officer was in remand prison
 
 *2024-07-11 19:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198715) · `si`
 
-කොළඹ අපරාධ කොට්ඨාසයට  (CCD) අනුයුක්තව සේවය කරමින් සිටියදී අල්ලස් චෝදනාවකට අත්අඩංගුවට ගෙන කොළඹ රිමාන්ඩ් බන්ධනාගාරයේ රඳවාසිටින පොලිස් පරීක්ෂකවරයෙකුගේ කට සිරමැදියේ සිටි තවත් රැඳවියෙකු විසින් තියුණු ආයුධයකින් කපා තිබේ.
+In Colombo, a police inspector from the CCD was attacked by another inmate in remand prison, resulting in eight stitches due to undisclosed reasons.
 
-ඊට හේතුව වාර්තා වී නොමැති අතර අදාළ පොලිස් නිලධාරියාගේ තුවාලවලට මැහුම් 8ක් පමණ දමා ඇති බව බන්ධනාගාර ආරංචිමාර්ග සඳහන් කළේය.
+🟩
+
+A detaineant police inspector was arrested by another inmate in the Prison in Colombo while serving the Colombo Crimes Division (CCD) attached to a bribery charge.
+
+The reason was not reported and 8 stitches were laid down to 8 stitches on the injuries of the police officer.
 
 ◼️
 
 [Data](articles/bac7e0a9.json)
+
+[Extended Data](ext_articles/bac7e0a9.ext.json)
 
 ---
 

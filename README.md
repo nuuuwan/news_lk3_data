@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 02:19:52**
+As of **2024-07-12 02:35:14**
 
 ## Newspaper Stats
 
-*Scraped **34,873** Articles*
+*Scraped **34,874** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,068
 dailyftlk | 2,195
 adalk | 3,146
 adaderanalk | 4,006
-tamilmirrorlk | 4,168
+tamilmirrorlk | 4,169
 dailymirrorlk | 4,733
 virakesarilk | 5,459
 adaderanasinhalalk | 5,802
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,864 (100.0%) of 34,873 articles have been extended.
+34,873 (100.0%) of 34,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
+
+### ’வரைவினை நிறைவேற்றுவது சாத்தியமற்றது’
+
+*2024-07-12 02:21:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரைவினை-நிறைவேற்றுவது-சாத்தியமற்றது/175-340268) · `ta`
+
+ஜனாதிபதியின் பதவிக்  காலம் தொடர்பில் அமைச்சரவையில் சமர்ப்பித்துள்ள வரைவினை நிறைவேற்றுவது சாத்தியமற்றது.இது காலத்தை வீணடிக்கும் செயல்  என  சுதந்திர மக்கள்  சபையின் பிரதிநிதியும்,சுயாதீன எதிரணி எம்.பி.யுமான பேராசிரியர்  ஜீ.எல்.பீரிஸ் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (11)  இடம்பெற்ற சட்டரீதியான ஏற்பாடுகளுக்கு அமைய உரிய காலத்தில் ஜனாதிபதித் தேர்தலை நடத்துவது பற்றிய ஒத்திவைப்பு விவாதத்தில் உரையாற்றும் போதே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+
+ஜனாதிபதியின் பதவிக்  காலம்  தொடர்பில்  உயர் நீதிமன்றம்  தெளிவாக வியாக்கியானம் வழங்கியுள்ள நிலையில்  மீண்டும்  ஜனாதிபதியின் பதவி காலம் ஐந்து ஆண்டுகளா ? அல்லது ஆறு ஆண்டுகளா ?   என்று  ஆராயப்படுகிறது.
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தனது பதவிக்  காலம் தொடர்பில் உயர்நீதிமன்றில் வியாக்கியானம் கோரினார்.அவர் அரசியலமைப்பின் 18 ஆம் திருத்தத்துக்கு அமைய ஆறு வருட பதவி காலத்துக்காகவே மக்களால் தெரிவு செய்யப்பட்டார் என்ற உறுதியாக தர்க்கம் காணப்பட்ட நிலையில் உயர் நீதிமன்றம் அவரது பதவி காலம் ஐந்து வருடங்கள் என்று அறிவித்தது.
+
+...
+
+[Data](articles/fbd37839.json)
+
+---
 
 ### National Chamber of Exporters expresses concern over Customs disruptions
 
@@ -43,6 +61,8 @@ NCE President Jayantha Karunaratne highlighted the significant disruptions cause
 ...
 
 [Data](articles/680d406d.json)
+
+[Extended Data](ext_articles/680d406d.ext.json)
 
 ---
 
@@ -64,6 +84,8 @@ Thus, addition of these 95 ambulances will significantly enhance the foundation�
 
 [Data](articles/40542a56.json)
 
+[Extended Data](ext_articles/40542a56.ext.json)
+
 ---
 
 ### Fifth US-Sri Lanka Partnership Dialogue today
@@ -84,6 +106,8 @@ Sri Lankan Ambassador to the United States Mahinda Samarasinghe and officials fr
 
 [Data](articles/0d589cf4.json)
 
+[Extended Data](ext_articles/0d589cf4.ext.json)
+
 ---
 
 ### President inaugurates second phase of Kompannavidiya flyover
@@ -101,6 +125,8 @@ The project is important in enhancing urban mobility and supporting economic gro
 ...
 
 [Data](articles/c06bdeea.json)
+
+[Extended Data](ext_articles/c06bdeea.ext.json)
 
 ---
 
@@ -236,6 +262,8 @@ Sun Match Company’s flagship brand Soorya, ignited the 2024 edition of the Top
 
 [Data](articles/96cc3710.json)
 
+[Extended Data](ext_articles/96cc3710.ext.json)
+
 ---
 
 ### DMASL Digital Summit 2024: Confluence of innovation and insights
@@ -252,41 +280,59 @@ Thisal Samarasinghe explored the impact of generative AI on modern creativity, u
 
 [Data](articles/f870cdc9.json)
 
+[Extended Data](ext_articles/f870cdc9.ext.json)
+
 ---
 
 ### 2024-07-11 (Thursday)
 
-### 10 லட்சம் ரூபா மோசடி:  பொலிஸ் அதிகாரிக்கு விளக்கமறியல்
+### 10 lakh rupees fraud: Explanation for police officer
 
 *2024-07-11 23:50:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-லட்சம்-ரூபா-மோசடி-பொலிஸ்-அதிகாரிக்கு-விளக்கமறியல்/175-340267) · `ta`
 
-வெளிநாட்டு வேலைவாய்ப்பு பெற்று தரும் முகவர் நிலையம் ஒன்றுக்கு செலுத்த வேண்டிய 10 லட்சம் ரூபாவை மோசடி செய்தார் என்ற குற்றச்சாட்டில் வழக்கு தொடுக்கப்பட்டிருந்த பொலிஸ் அதிகாரி ஒருவரை இம்மாதம் 25 ஆம் திகதி வரை விளக்க மறியலில் வைக்க நுவரெலியா மாவட்ட நீதவான் நீதிமன்றம் நேற்று மாலை உத்தரவு பிறப்பித்துள்ளது.
+Nuwara Eliya Magistrate's Court has ordered detention of a police officer accused of embezzling 10 lakh rupees intended for a foreign employment agency. The officer allegedly diverted funds meant for the agency to his personal use. A relative of the officer had to pay the amount due to the officer's delay in transferring it to the agency. The magistrate has directed further investigations and remanded the officer until the 25th, pending trial.
 
-இந்த உத்தரவை நுவரெலியா மாவட்ட நீதவான் நீதிமன்ற நீதிபதி பிரபுதிகா நாணயக்கார பிறப்பித்துள்ளார்.
+🟩
 
-நுவரெலியா விஷேட பொலிஸ் பிரிவில்  கடமையாற்றி வரும் பொலிஸ் அதிகாரி ஒருவரின் உறவினர் வெளிநாட்டு வேலை வாய்ப்புக்கு செல்வதற்காக வெளிநாட்டு முகவர் நிலையம் ஒன்றுக்கு பத்து லட்சம் ரூபா பணம் செலுத்த வேண்டியிருந்தது.
+The Nuwara Eliya District Magistrate's Court yesterday issued an order to put a police officer in connection with the allegation that he had defrauded Rs 10 lakh to pay a foreign employment agency.
 
-இந்த பணத்தை தனது உறவினரான பொலிஸ் அதிகாரிக்கு அனுப்பிவைத்து வேலைவாய்ப்பு முகவர் நிலையத்திற்கு செலுத்துமாறு அனுப்பி வைத்துள்ளார்.
+The order was issued by Nuwara Eliya District Magistrate Prabhudika Nanayakkara.
 
-ஆனால் நீண்ட நாட்களாக இந்த பணத்தை குறித்த பொலிஸ் அதிகாரி செலுத்தாத நிலையில் தான் வெளிநாட்டு வேலைக்கு செல்ல முடியாத விரக்தியில் பொலிஸ் அதிகாரியின் உறவினர் பொலிஸ் முறைப்பாடு செய்து நுவரெலியா நீதிமன்றில் வழக்கு தொடுத்துள்ளார்.
+A relative of a police officer working in the Nuwara Eliya Special Police Division had to pay Rs.
+
+The money has been sent to his cousin, the police officer and sent to the employment agency.
+
+But the police officer has lodged a complaint with the police officer in desperation for a long time that the police officer has not paid the money for a long time.
+
+The magistrate's investigation, which was taken up for hearing, revealed that the police officer had not given the money to the agency.
+
+He ordered the police officer to be remanded until the 25th of this month on suspicion of defrauding the money provided by the relative.
 
 ...
 
 [Data](articles/9fa290ed.json)
 
+[Extended Data](ext_articles/9fa290ed.ext.json)
+
 ---
 
-### මුස්ලිම් පල්ලිවල පරිපාලන නිලධාරීන්ට මැලේසියාවේදි සති දෙකක පුහුණුවක්
+### Two weeks of training to Administrative Officers of Mosly Pallasia
 
 *2024-07-11 23:23:58* · [`adalk`](https://www.ada.lk/breaking_news/මුස්ලිම්-පල්ලිවල-පරිපාලන-නිලධාරීන්ට-මැලේසියාවේදි-සති-දෙකක-පුහුණුවක්/11-410751) · `si`
 
-ශ්‍රී ලංකාවේ මුස්ලිම් පල්ලිවල පරිපාලන නිලධාරීන්ට මැලේසියාවේ දී මුස්ලිම් පල්ලි පරිපාලන කටයුතු පිළිබඳව පුහුණු සැසියක් (two week) පැවැත්වීමට නියමිත අතර, ඒ සඳහා දිවයිනෙන් (15 July) පිටත්වීමට නියමිත මුස්ලිම් පල්ලිවල පරිපාලන නිලධාරීන් සහ ආගමික නායකයින් කණ්ඩායම අද (11) දින ජනාධිපති කාර්‍යාලයේ දී ජනපති කාර්ය මණ්ඩලය ප්‍රධානී සාගල රත්නායක මහතා හමුවිය.
+Administrative officers from Malaysia underwent two-week training in Sri Lanka, facilitated by Mosly Pallasia, upon request from Sagala Ratnayake.
 
-සාගල රත්නායක මහතාගේ ඉල්ලීමක් මත මෙම වැඩසටහන ශ්‍රී ලංකාවට ලබා ගත හැකි වූ අතර ඒ පිළිබඳව මෙහිදී මුස්ලිම් ආගමික නායකයින් සාගල රත්නායක මහතාට සිය ස්තුතිය පළ කර තිබේ.
+🟩
+
+TWO Week to Administrative Officers in Malaysia to the Administrative Officers of Mosly in Sri LankaHead of the Board Meeting Sagala Ratnayake.
+
+This program was available to Sri Lanka on a request for Sagala Ratnayake.
 
 ◼️
 
 [Data](articles/683b9342.json)
+
+[Extended Data](ext_articles/683b9342.ext.json)
 
 ---
 
@@ -1082,21 +1128,33 @@ It is noteworthy that Vijay Antony's market value will last only if the film is 
 
 ---
 
-### சர்வஜன வாக்கெடுப்புக்குச் செல்வது தேர்தல் செயற்பாடுகளை நெருக்கடிக்குள்ளாக்கும் - உதய கம்மன்பில
+### Going to the referendum will cause election activities - Udaya Kammanpila
 
 *2024-07-11 18:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188233) · `ta`
 
-ஜனாதிபதி தேர்தலுக்கான அறிவிப்பு விடுக்கப்படவுள்ள நிலையில் ஜனாதிபதியின் பதவி காலம் தொடர்பில் 22 ஆவது திருத்தத்தை கொண்டு வந்து மக்கள் வாக்கெடுப்புக்குச் செல்வது தேர்தல் செயற்பாடுகளை நெருக்கடிக்குள்ளாக்கும்.
+Udaya Kammanpila warns that going to the referendum could disrupt the election process due to the 22nd Amendment's impact on the president's term. He highlights concerns over the necessity of amending Article 83(b) of the Constitution, which extends the presidential term from five to six years. This amendment, along with other factors like the UNP's history post-elections and the postponements of local government and provincial council elections, casts doubt on the legitimacy of the upcoming presidential election.
 
-அரசியலமைப்பின் 83(ஆ) உறுப்புரையை திருத்தம் செய்ய  வேண்டுமாயின் சர்வஜன வாக்கெடுப்புக்குச் செல்ல வேண்டும் என அரசியலமைப்பில் தெளிவாக குறிப்பிடப்பட்டுள்ளது.ஆகவே இத்திருத்தம் தற்போது தேவையற்றது என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவர் உதய கம்மன்பில தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (11) இடம்பெற்ற சட்டரீதியான ஏற்பாடுகளுக்கு அமைய உரிய காலத்தில் ஜனாதிபதித் தேர்தலை நடத்துவது பற்றிய ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
+With the announcement of the presidential election, the 22nd Amendment to the president's tenure will be a crisis in the election process.
 
-ஜனாதிபதி தேர்தல் தொடர்பான அறிவிப்பை தேசிய தேர்தல்கள் ஆணைக்குழு இன்னும் ஆறு நாட்களுக்குள் உத்தியோகபூர்வமாக அறிவிக்க வேண்டும்.இருப்பினும் மக்கள் மத்தியில் தேர்தல்  குறித்து நம்பிக்கையின்மையே காணப்படுகின்றது.
+The Constitution clearly stated that if the Article 83 (b) of the Constitution is to be amended, the amendment is now unnecessary.
+
+He was speaking at the postponement debate on holding the presidential election in a timely manner in accordance with the legal arrangements in Parliament on Thursday (11).
+
+The National Elections Commission should officially announce the presidential election within six days. However, there is a lack of confidence in the election.
+
+Four factors have influenced the suspicion of the presidential election.
+
+The president's party chairman Vajira Abeywardena continued to give the president a further 10 years. The United National Party (UNP) has a dangerous background after the election.
+
+The 2015 local government election was postponed for two years. Following that, the 2018 Provincial Council election was not found today.
 
 ...
 
 [Data](articles/95004004.json)
+
+[Extended Data](ext_articles/95004004.ext.json)
 
 ---
 
@@ -2247,27 +2305,5 @@ The flight landed at the Karachi airport after the health of a female passenger 
 [Data](articles/ae8b54d8.json)
 
 [Extended Data](ext_articles/ae8b54d8.ext.json)
-
----
-
-### ‘Club Wasantha’ murder: Tattoo studio owner requests confidential statement, court orders enhanced prison security for suspects
-
-*2024-07-11 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100443/club-wasantha-murder-tattoo-studio-owner-requests-confidential-statement-court-orders-enhanced-prison-security-for-suspects) · `en`
-
-The tattoo studio owner Surendra Wasantha Perera, who was arrested in connection with the shooting incident in Athurugiriya, which claimed the lives of businessman Surendra Wasantha Perera alias ‘Club Wasantha’ and another person, has requested permission to make a confidential statement to the Kaduwela Magistrate.
-
-The suspect has made this request when the seven suspects arrested in relation to the incident were produced before the court on Wednesday (10).
-
-However, the Kaduwela Magistrate has advised the suspect in question to rethink the decision and make the request again during an upcoming court date.
-
-Meanwhile, the police requested the court for permission to detain the seven suspects for 48 hours for further interrogations.
-
-The Kaduwela Magistrate, who rejected the request, ordered the suspects to be remanded in custody until July 22.
-
-...
-
-[Data](articles/693c70ec.json)
-
-[Extended Data](ext_articles/693c70ec.ext.json)
 
 ---

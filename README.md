@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 04:19:49**
+As of **2024-07-12 04:38:14**
 
 ## Newspaper Stats
 
-*Scraped **34,885** Articles*
+*Scraped **34,891** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ economynextcom | 2,068
 dailyftlk | 2,203
 adalk | 3,146
 adaderanalk | 4,006
-tamilmirrorlk | 4,172
+tamilmirrorlk | 4,173
 dailymirrorlk | 4,733
-virakesarilk | 5,459
+virakesarilk | 5,464
 adaderanasinhalalk | 5,802
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,885 (100.0%) of 34,885 articles have been extended.
+34,885 (100.0%) of 34,891 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -125,6 +125,24 @@ The move aims to ensure that residents of estate line rooms receive the same lev
 [Data](articles/f27add12.json)
 
 [Extended Data](ext_articles/f27add12.ext.json)
+
+---
+
+### ’உலகத்துக்கு இந்தியா புத்தரை கொடுத்துள்ளது’
+
+*2024-07-12 02:45:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகத்துக்கு-இந்தியா-புத்தரை-கொடுத்துள்ளது/175-340272) · `ta`
+
+ரஷிய பயணத்தை முடித்துக்கொண்டு பிரதமர் மோடி, இரண்டு நாள் பயணமாக ஆஸ்திரியா சென்றார். அங்கு அந்நாட்டு ஜனாதிபதி அலெக்சாண்டர் வான்டர் பெல்லன் மற்றும் பிரதமர் கார்ல் நெகம்மரை சந்தித்தார்.
+
+இந்த சந்திப்பின்போது இருநாட்டு உறவு, வர்த்தகம் உள்பட பல்வேறு விவகாரங்கள் குறித்து ஆலோசிக்கப்பட்டது.
+
+இதனை தொடர்ந்து ஆஸ்திரியா வாழ் இந்தியர்களை பிரதமர் மோடி சந்தித்தார். ஆஸ்திரியா வாழ் இந்தியர்கள் மத்தியில் பிரதமர் மோடி பேசியதாவது,
+
+பல ஆயிரம் ஆண்டுகளாக நாம் நமது திறமை, அறிவை பகிர்ந்து வருகிறோம். நாம் உலகிற்கு புத்தரை (புத்த மதம் துறவி) கொடுத்துள்ளோம், யுத்தத்தை (போர்) கொடுக்கவில்லை. இந்தியா எப்போது அமைதி மற்றும் வளர்ச்சியை கொடுக்கிறது. இதனால் 21ம் நூற்றாண்டில் இந்தியா வலிமைபெற்று வருகிறது. எனது ஆஸ்திரிய பயணம் மிகவும் அர்த்தமுள்ளதாக அமைந்தது. 41 ஆண்டுகால காத்திருப்பு வரலாற்று சிறப்புமிக்க நிகழ்ச்சியால் நிறைவுக்கு வந்துள்ளது. இந்தியாவும் ஆஸ்திரியாவும் 75 ஆண்டுகால நட்பை கொண்டாடுகிறது என்றார்.
+
+◼️
+
+[Data](articles/58420338.json)
 
 ---
 
@@ -278,6 +296,70 @@ The 19th Amendment of the Constitution was passed only after Maithripala Sirisen
 
 ---
 
+### பசறை நகரில் கட்டாக்காலி நாய்களின் தொல்லை அதிகரிப்பு ;  பொது மக்கள் விசனம்
+
+*2024-07-12 02:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/188265) · `ta`
+
+பசறை நகரில் காலை வேளைகளில் கூட்டமாக வரும் கட்டாக்காலி நாய்களினால் பாடசாலை மாணவர்களும், பாதசாரிகளும், வாகன சாரதிகளும், குறிப்பாக மோட்டார் சைக்கிள்கள் ஓட்டுபவர்கள் பாரிய அசௌகரியங்களை எதிர் நோக்குவதாக தெரிவிக்கப்படுகின்றது.
+
+அத்துடன் காலை வேளைகளில் கூட்டமாக வரும் கட்டாக்காலி நாய்களினால் தொழிலுக்கு செல்பவர்கள் பாரிய அசௌகரியங்களை எதிர் நோக்குவதாகவும் தெரிவிக்கப்படுகின்றது.
+
+எனவே சம்பந்தப்பட்ட அதிகாரிகள் கவனம் செலுத்தி கட்டாக்காலி நாய்களை கட்டுப்படுத்துவதற்கான  நடவடிக்கைகள் முன்னெடுக்குமாறு சம்பந்தப்பட்ட அதிகாரிகளுக்கு பொதுமக்கள் கோரிக்கை விடுக்கின்றனர்.
+
+◼️
+
+[Data](articles/03b66aed.json)
+
+---
+
+### விளக்கமறியலில் இலஞ்சம் பெற்ற குற்றச்சாட்டில் கைது செய்யப்பட்டிருந்த IP மீது தாக்குதல்!
+
+*2024-07-12 02:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/188264) · `ta`
+
+பணிபுரியும்போது இலஞ்சம் பெற்ற குற்றச்சாட்டில் கைது செய்யப்பட்டு கொழும்பு விளக்கமறியலில் தடுத்து வைக்கப்பட்டிருந்த பொலிஸ் பரிசோதகர் ஒருவருரை மற்றொரு கைதி  கூரிய ஆயுதத்தால் வெட்டியுள்ளார்.
+
+இதற்கான காரணம் தெரிவிக்கப்படவில்லை எனவும், குறித்த பொலிஸ் அதிகாரியின் காயங்களில் சுமார் 8 தையல்கள் போடப்பட்டுள்ளதாகவும் சிறைச்சாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/09fea748.json)
+
+---
+
+### தமிழ் அரசியல் கைதிகளுடன் கஜேந்திரன் எம்.பி. சந்திப்பு
+
+*2024-07-12 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/188263) · `ta`
+
+வெலிக்கடை மற்றும் மகசீன் சிறைகளுக்கு வியாழக்கிழமை (11) விஜயம் செய்த தமிழ்த் தேசிய மக்கள் முன்னணியின் பொதுச்செயலாளர் செல்வராசா கஜேந்திரன் அங்குள்ள தமிழ் அரசியல் கைதிகளை நேரில் பர்வையிட்டு கலந்துரையாடியுள்ளார்.
+
+வெலிக்கடை மற்றும் மகசீன் சிறைச்சாலையில் உள்ள 9 தமிழ் அரசியல் கைதிகளை நேரில் சந்தித்தேன்.  வெலிக்கடையில் தங்கவேலு நிமலன் (47)ஜோ.கொ.வலன்ரினோ (41)மகசீன் சிறையில் ஆனந்தவர்ணன் (அரவிந்தன்) கடந்த மார்ச் 26இல் கைது) மகசீன் சிறையில் 15 - 29 வருடங்களாகத் தடுத்து வைக்கப்பட்டுள்ள ஆனந்தசுதாகரன் ஆகியோரைப் பார்வையிட்டேன்.
+
+அவர்களுடைய விடுதலை சம்பந்தமாக எந்தவொரு நடவடிக்கைகளும் அக்கறையுடன் முன்னெடுக்கப்படவில்லை என்ற கவலை அவர்களுக்கு அதிகமாக உள்ளது. எம்மைப்பொறுத்தவரையில் பயங்கரவாத தடைச்சட்டம் நீக்கப்பட வேண்டும். அதன்கீழ் கைது செய்யப்பட்டுள்ள அனைவரும் விடுவிக்கப்பட வேண்டும்.
+
+ஆனந்த வர்ணன் வழக்கினை முன்னெடுக்க முடியாத நிலைமையில் உள்ளார். அவர் வேண்டுமென்றே தடுத்து வைக்கப்பட்டுள்ளார். அவர் உள்ளிட்டவர்களின் விடுதலைக்காக அனைவரும் குரல்கொடுக்க வேண்டும் என்றார்.
+
+◼️
+
+[Data](articles/7b84245c.json)
+
+---
+
+### காணாமலாக்கப்பட்டோர் பற்றிய உண்மையைக் கண்டறிந்து நீதியை நிலைநாட்டுவது அவசியம் - அமெரிக்கத்தூதுவர் ஜுலி சங்
+
+*2024-07-12 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/188262) · `ta`
+
+காணாமலாக்கப்பட்டோருக்கு என்ன நேர்ந்தது என்ற உண்மை கண்டறியப்பட்டு, நீதி நிலைநாட்டப்படும் அதேவேளை, நிலைமாறுகால நீதியை முன்னிறுத்திய நியாயபூர்வமான நடவடிக்கைகள் முன்னெடுக்கப்படவேண்டியது அவசியமென அமெரிக்கத்தூதுவர் ஜுலி சங் காணாமல்போனோர் பற்றிய அலுவலக அதிகாரிகளிடம் வலியுறுத்தியுள்ளார்.
+
+அமெரிக்கத்தூதரகத்தின் அழைப்பின்பேரில் தூதுவர் ஜுலி சங்குக்கும் காணாமல்போனோர் பற்றிய அலுவலகத்தின் அதிகாரிகளுக்கும் இடையிலான சந்திப்பொன்று வியாழக்கிழமை (11) மாலை கொழும்பிலுள்ள அமெரிக்கத்தூதரகத்தில் நடைபெற்றது. இச்சந்திப்பில் காணாமல்போனோர் பற்றிய அலுவலகத்தின் சார்பில் அதன் தவிசாளர் சட்டத்தரணி மகேஷ் கட்டுலந்த மற்றும் நிறைவேற்றுப்பணிப்பாளர் சட்டத்தரணி ஜெகநாதன் தற்பரன் ஆகியோர் கலந்துகொண்டிருந்தனர்.
+
+இதன்போது காணாமல்போனோர் பற்றிய அலுவலகத்தின் செயற்பாடுகள் மற்றும் சவால்கள் தொடர்பில் அமெரிக்கத்தூதுவருக்கு விளக்கமளித்த அலுவலக அதிகாரிகள், அதன் அடுத்தகட்ட நடவடிக்கைகளில் இருதரப்புப் பங்காண்மை மற்றும் ஒத்துழைப்பை ஏற்படுத்திக்கொள்வது குறித்து விரிவாக ஆராய்ந்தனர்.
+
+...
+
+[Data](articles/5c698fd0.json)
+
+---
+
 ### National Chamber of Exporters expresses concern over Customs disruptions
 
 *2024-07-12 01:46:13* · [`dailyftlk`](https://www.ft.lk/news/National-Chamber-of-Exporters-expresses-concern-over-Customs-disruptions/56-764177) · `en`
@@ -335,6 +417,22 @@ Sri Lankan Ambassador to the United States Mahinda Samarasinghe and officials fr
 [Data](articles/0d589cf4.json)
 
 [Extended Data](ext_articles/0d589cf4.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தல் உரிய காலத்தில் நடந்தே ஆகும்; அமைச்சர் அலி சப்ரி சபையில் உறுதி
+
+*2024-07-12 01:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/188261) · `ta`
+
+தேர்தலுக்கு நாங்கள் தயாராகவே இருக்கிறோம். அரசியலமைப்பின் பிரகாரம் ஒக்டோபர் 17ஆம் திகதிக்கு முன்னர் ஜனாதிபதி தேர்தல் நடந்தே ஆகும் என வெளிவிவகார அமைச்சர் அலிசப்ரி தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (11) இடம்பெற்ற உரிய காலத்தில் ஜனாதிபதித் தேர்தலை நடத்துதல் தொடர்பான சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவவாறு குறிப்பிட்டார்.
+
+இலங்கையில் எந்த குறைபாடுகள் இருந்தாலும் 1931ஆம் ஆண்டில் இருந்து சர்வஜன வாக்குரிமையை தொடர்ச்சியாக பயன்படுத்தி வரும் நாடாகும். உரிய காலத்தில் நாட்டில் தேர்தல் நடத்தப்பட்டுள்ளது. ஒரு தடவை மட்டுமே உரிய காலத்தில் தேர்தல் நடத்தப்படவில்லை. 1981ஆம் ஆண்டிலேயே தேர்தல் நடத்தப்படாது சர்வஜன வாக்கெடுப்பு மூலம் தேர்தல் ஒத்தி வைக்கப்பட்டது. இந்நிலையில் தேர்தலை நடத்தாமல் இருக்க முடியாது.
+
+...
+
+[Data](articles/efd3c30f.json)
 
 ---
 
@@ -2129,151 +2227,5 @@ The last Indian Cricket visited Pakistan for the Asia Cup in 2008.
 [Data](articles/957ed55e.json)
 
 [Extended Data](ext_articles/957ed55e.ext.json)
-
----
-
-### Railway Station Masters’ Union warns govt. against oppression
-
-*2024-07-11 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100445/railway-station-masters-union-warns-govt-against-oppression) · `en`
-
-The Railway Station Masters’ Union stresses that if the government tries to control the trade unions through oppression, the trade unions of the entire railway service will never hesitate to join together and fight.
-
-President of the union Sumedha Somaratne said that the railway employees will not carry out any act of sabotage under any circumstances and that he believes their demands will be resolved promptly.
-
-He also mentioned that the executive council of their trade union will meet this afternoon (11) and decide on the future course of action, if their demands are not met.
-
-◼️
-
-[Data](articles/3cefaefc.json)
-
-[Extended Data](ext_articles/3cefaefc.ext.json)
-
----
-
-### Sri Lanka opposes India’s bid to explore cobalt from undersea mountain in Indian Ocean - report
-
-*2024-07-11 15:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100444/sri-lanka-opposes-indias-bid-to-explore-cobalt-from-undersea-mountain-in-indian-ocean-report) · `en`
-
-A fresh maritime dispute between New Delhi and Colombo seems to be brewing with Sri Lanka objecting to India’s plea to the International Seabed Authority (ISA) based at Kingston in Jamaica for rights to explore cobalt-rich ferromanganese crusts in Afanasy Nikitin Seamount in the Indian Ocean.
-
-Colombo has argued that the area where India wants to explore cobalt-rich ferromanganese crusts is entirely within the extended continental shelf claim of Sri Lanka.
-
-The island nation’s government has urged the ISA to refrain from accepting New Delhi’s plea for exploration rights in Afanasy Nikitin Seamount till the United Nations Commission on the Limits of the Continental Shelf (UN-CLCS) decides on its continental shelf claim. The ISA is “following applicable procedures in this regard and the matter is ongoing”, a spokesperson of the Ministry of Foreign Affairs of the Sri Lankan government said.
-
-...
-
-[Data](articles/171e8bed.json)
-
-[Extended Data](ext_articles/171e8bed.ext.json)
-
----
-
-### To kill those involved in the underworld activities - the ruling and the opposition members
-
-*2024-07-11 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/188225) · `ta`
-
-Ruling and opposition members discuss eliminating underworld influence, criticizing police actions and highlighting political disagreements over handling of underworld figures and drug trade.
-
-🟩
-
-Members of the ruling party noted that if 225 MPs join together, the underworld and the drug trade can be eliminated.
-
-Members of the ruling and opposition have expressed their dissatisfaction with the police confession on social media, which has been arrested by the police on suspicion of the murder of the club Vasantha, who was recently shot dead.
-
-There was a fierce argument between the ruling party and the opposition in Parliament on Thursday in Parliament on the rising massacre and the activities of the underworld groups in the country.
-
-Opposition Leader Sajith Premadasa addressed the special claim that the people were living in fear due to the activities of the massacre and underworld groups in the country during a session in Parliament yesterday.
-
-...
-
-[Data](articles/78decdc2.json)
-
-[Extended Data](ext_articles/78decdc2.ext.json)
-
----
-
-### One mine, 06 months pregnant missing
-
-*2024-07-11 15:18:21* · [`adalk`](https://www.ada.lk/breaking_news/එක්දරු--මාස-06-ගැබිනියක්-අතුරුදහන්/11-410740) · `si`
-
-A woman named Kanduwaratiya, six months pregnant and missing for six months from her residence near Ampara Post, was reported missing by her daughter-in-law. Her husband, KA Amali, and another relative, Welegedara, were also unaccounted for. The family received a WhatsApp message from her phone, which they couldn't verify. Investigations are ongoing regarding the missing persons and the suspicious activities around their accounts.
-
-🟩
-
-Kanduwaratiya owned by Kandunpangan of the Guningura has disappeared from the last 6 months of residence near the post of Ampara Post.
-
-She has been dispatched by the daughter of Ravaya about 10 centuries on the morning of the 9th morning.
-
-Her husband KA Amali, his wife KA Amali, had not arrived home by her husband, Welegedara, as Same Madampitiya (10).
-
-Later she had been informed as a WHATEAP message to bond her account. On the same day, someone has also been informed as a wife's Whatsapp account Rs.. Otherwise, Sameera: There is nothing that we can do to the police.
-
-The husband has informed her husband about a week ago, but he has said that he is unaware of how the child is unaware.
-
-The husband has told the police that the child is claiming to have a wife cash and a wife is locked by a person who has taken any person. Mr. Gunanthantha is conducting investigations into the two above issues.
-
-◼️
-
-[Data](articles/ab809476.json)
-
-[Extended Data](ext_articles/ab809476.ext.json)
-
----
-
-### Is the police release a video of the suspect's investigation?Human rights activists are fierce opposition
-
-*2024-07-11 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/188223) · `ta`
-
-Human rights activists criticize the Sri Lankan police for releasing a suspect's interrogation video, violating guidelines set by the Inspector General of Police in 2021. They argue this action undermines the presumption of innocence, endangers lives, and compromises the integrity of investigations. The former Commissioner of the Sri Lanka Human Rights Commission, Ambika Chakkunanathan, emphasizes the unprofessionalism and potential dangers of such releases, questioning the motives behind the video's public dissemination.
-
-🟩
-
-Human rights activists have strongly condemned the video of Sri Lankan police on the video of one of the suspects arrested in connection with the Athurugiriya assassination.
-
-They pointed out that the video was recorded and released in contrast to the guidance issued by the Inspector General of Police in 2021.
-
-Human rights activists have said that the Police Inspector has ordered the Human Rights Commission to report to the Sri Lanka Human Rights Commission that the police are involved in such activities.
-
-Former Commissioner of the Sri Lanka Human Rights Commission, Ambika Chakkunanathan, said that this is a violation of a person's legitimate investigation.
-
-He also said that this would undermine the assumption that a person was innocent.
-
-He said that it was not a professional act to publish videos of investigations.
-
-He said that this could endanger the life of a person who is being investigated.
-
-Ambika Sakthunanathan said that this is the ability to undermine the investigation.
-
-...
-
-[Data](articles/78db449b.json)
-
-[Extended Data](ext_articles/78db449b.ext.json)
-
----
-
-### Mother Maman arrested for alcoholic girl
-
-*2024-07-11 15:07:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுமிக்கு-மது-பருக்கிய-தாய்-மாமன்-கைது/76-340240) · `ta`
-
-A 31-year-old man named Chandenabar has been arrested for allegedly giving alcohol to a 4-year-old girl in Sri Lanka's Oldon estate. The girl's mother, who left for work abroad due to financial hardship, had entrusted her children to her mother's care. The incident came to light when the mother's 9-year-old son witnessed it. Chandenabar was remanded until the 17th by the Hatton Magistrate's Court.
-
-🟩
-
-A 31 -year -old man, 31 -year -old man, has been arrested for allegedly drinking alcohol for a four -year -old girl. The incident took place in the Oldon estate, which belongs to the Maskeliya Police Division.
-
-Due to the child's mother's family poverty, she went abroad 18 months ago as a maid.
-
-They belong to the Ulappanai area. When the mother went abroad, she was handed over to her 9 -year -old son and a 4 -year -old daughter at her mother's home in Oldon estate.
-
-The son (mother Maman) who comes to the mother's house to see the children. The girl's 9 -year -old Anna has seen this. The man has been arrested on suspicion after the police informed the police.
-
-The arrested Chandenabar was produced at the Hatton Magistrate's Court on Thursday (11). The magistrate has ordered the suspect to be remanded until the 17th.
-
-◼️
-
-[Data](articles/a2056813.json)
-
-[Extended Data](ext_articles/a2056813.ext.json)
 
 ---

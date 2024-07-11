@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 11:35:22**
+As of **2024-07-11 11:55:05**
 
 ## Newspaper Stats
 
-*Scraped **34,736** Articles*
+*Scraped **34,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ colombotelegraphcom | 324
 bbccomsinhala | 339
 newsfirstlk | 363
 islandlk | 1,957
-economynextcom | 2,049
+economynextcom | 2,053
 dailyftlk | 2,183
 adalk | 3,132
-adaderanalk | 3,992
-tamilmirrorlk | 4,149
+adaderanalk | 3,994
+tamilmirrorlk | 4,152
 dailymirrorlk | 4,733
 virakesarilk | 5,427
 adaderanasinhalalk | 5,776
@@ -26,11 +26,85 @@ adaderanasinhalalk | 5,776
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,736 (100.0%) of 34,736 articles have been extended.
+34,736 (100.0%) of 34,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### பாடம் எழுதாததால் பல்லை உடைத்த ஆசிரியர்
+
+*2024-07-11 11:40:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடம்-எழுதாததால்-பல்லை-உடைத்த-ஆசிரியர்/175-340223) · `ta`
+
+வீட்டுப் பாடம் எழுதாத மாணவரின் பல்லை உடைத்து கடுமையாக தாக்கியதில் மாணவர் மயக்கமடைந்த சம்பவமொன்று உத்தர பிரதேசத்தில் இடம்பெற்றுள்ளது. .
+
+ரேபரேலி மாவட்டத்தில் உள்ள தனியார் பள்ளியில் 10-ஆம் வகுப்பு படிக்கும் மாணவருக்கு  ஏப்ரல் மாதம் கோடை விடுமுறைக்கு முன்பு வீட்டுப் பாடம் அளிக்கப்பட்டுள்ளது.
+
+இந்நிலையில், விடுமுறை முடிந்து செவ்வாய்க்கிழமை பாடசாலைக்குத் திரும்பிய மாணவரிடம் அறிவியல் ஆசிரியர், வீட்டுப் பாடங்களை கேட்டுள்ளார்.
+
+தனிப்பட்ட காரணங்களால் வீட்டுப் பாடம் எழுத முடியவில்லை என்று மாணவர் தெரிவித்த நிலையில், ஆத்திரம் அடைந்த ஆசிரியர், மாணவரின் வாய் மற்றும் முகத்தில் பலமாக தாக்கியுள்ளார். இதில், மாணவரின் பல் உடைந்த நிலையில், தரையில் மயங்கி விழுந்துள்ளார்.
+
+இதைக் கண்டு அதிர்ச்சி அடைந்த ஆசிரியர் பாடசாலையில் இருந்து தப்பிச் சென்றுள்ளார். உடனடியாக சக மாணவர்கள் பாடசாலை முதல்வரிடம் தெரிவிக்க மயக்கமடைந்த மாணவரை மருத்துவமனையில் சிகிச்சைக்காக அனுமதித்துள்ளனர். பெற்றோர் அளித்த புகாரின் அடிப்படையில், ஆசிரியர் கைது செய்யப்பட்டுள்ளார். சிகிச்சைகளை முடித்துக்கொண்டு மாணவன் வீடு திரும்பியுள்ளார்.
+
+◼️
+
+[Data](articles/6dc93303.json)
+
+---
+
+### CC unanimously approves new Attorney General appointment
+
+*2024-07-11 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100440/cc-unanimously-approves-new-attorney-general-appointment) · `en`
+
+The Constitutional Council has unanimously approved the nomination of Senior Additional Solicitor General Parinda Ranasinghe as the Attorney General.
+
+Senior Additional Solicitor General Parinda Ranasinghe took oaths as the Acting Attorney General before the Chief Justice on July 01, after the proposal to extend former Attorney General Sanjay Rajaratnam’s term by another 06 months was defeated for the second time at the Constitutional Council meeting.
+
+However, the appointment sparked controversy, as allegations were leveled against the government claiming that the new appointment overlooked Senior Additional Solicitor General Ayesha Jinasena, despite her seniority and eligibility for the role, due to gender bias.
+
+However, in response to the relevant allegations, President’s Secretary Saman Ekanayake emphasized that there is no constitutional requirement to appoint the senior-most officer from the Attorney General’s Department to this position based on seniority.
+
+...
+
+[Data](articles/4595d3e1.json)
+
+---
+
+### கொழும்பு - அவிசாவளை வீதியின் போக்குவரத்து தடை
+
+*2024-07-11 11:30:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-அவிசாவளை-வீதியின்-போக்குவரத்து-தடை/175-340222) · `ta`
+
+கொழும்பு - அவிசாவளை லோ லெவல் வீதியின் ரணால, சுடவில பிரதேசத்தில் அரச மரத்தின் கிளையொன்று முறிந்து வீழ்ந்ததன் காரணமாக குறித்த வீதியின் போக்குவரத்து தடைப்பட்டுள்ளதாக நவகமுவ பொலிஸார் தெரிவித்தனர்.
+
+இதன் காரணமாக அப்பகுதியில் உள்ள பல மின்கம்பங்கள் சேதமடைந்து மின்சாரம் துண்டிக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது .
+
+இதனால் வேவிலைச் சந்தி மற்றும் சியாம்பலா கஸ் சந்தியிலிருந்து கனரக வாகனங்கள் செல்வதைத் தற்காலிகமாக நிறுத்தவும் பொலிஸார் நடவடிக்கை எடுத்துள்ளனர் .
+
+மேலும் , அப்பகுதி மக்களும், பொலிஸாரும் இணைந்து கிளைகளை வெட்டி அகற்றும் பணியில் ஈடுபட்டுள்ளமை குறிப்பிடத்தக்கது .
+
+◼️
+
+[Data](articles/80fd42b3.json)
+
+---
+
+### Strong earthquake strikes Philippines
+
+*2024-07-11 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100439/strong-earthquake-strikes-philippines) · `en`
+
+A magnitude 6.7 earthquake struck Mindanao, Philippines, on Thursday, the German Research Center for Geosciences (GFZ) said.
+
+The quake was at a depth of 630 km (391.46 miles), GFZ said.
+
+The Philippines’ seismology agency said in an advisory the deep offshore quake is not expected to create damage but aftershocks are expected.
+
+The Philippines is in the Pacific ‘Ring of Fire’, where volcanic activity and earthquakes are common.
+
+◼️
+
+[Data](articles/56355084.json)
+
+---
 
 ### A branch in a tree crashes into Avissawella road
 
@@ -71,6 +145,20 @@ As per the WHO, Influenza spreads easily between people when they cough or sneez
 [Data](articles/c76ca82c.json)
 
 [Extended Data](ext_articles/c76ca82c.ext.json)
+
+---
+
+### சிறுவர்கள் கவனம்
+
+*2024-07-11 10:57:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்கள்-கவனம்/175-340217) · `ta`
+
+சிறுவர்கள் மத்தியில் இன்ஃபுளுவென்சா நோய் அறிகுறிகள் அதிகரித்துள்ளதாக ரிட்ஜ்வே ஆர்யா சிறுவர் வைத்தியசாலையின் விசேட வைத்திய நிபுணர் டொக்டர் தீபால் பெரேரா தெரிவித்தார் .
+
+அதிக காய்ச்சல், ஒழுகும் மூக்கு, தொண்டை வலி, தசை வலி, தலைவலி, இருமல், சோர்வாக உணர்தல்... போன்ற இன்ஃபுளுவென்சா அறிகுறிகள் இருந்தால் உடனடியாக மருத்துவ ஆலோசனை பெற வேண்டும் எனவும் அவர் குறிப்பிட்டார் .
+
+◼️
+
+[Data](articles/aa90cdea.json)
 
 ---
 
@@ -171,6 +259,40 @@ However, a top official who has said that the wind power generation is more like
 [Data](articles/0f9e96e0.json)
 
 [Extended Data](ext_articles/0f9e96e0.ext.json)
+
+---
+
+### Sri Lanka approves 13 secondary strategic firms at Port city, including duty free
+
+*2024-07-11 10:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-approves-13-secondary-strategic-firms-at-port-city-including-duty-free-171677/) · `en`
+
+ECONOMYNEXT – Sri Lanka has approved 13 companies as businesses of secondary strategic importance at the Colombo Port City, a government statement said.
+
+The firms will get exemptions and incentives under the Colombo Port City Economic Commission Act No.11 of 2021 specified under Schedule II.
+
+◼️
+
+[Data](articles/2b48e313.json)
+
+---
+
+### India’s Tata Sons to gift 50 ambulances to Sri Lanka’s Suwaseriya, ADB 45
+
+*2024-07-11 10:30:00* · [`economynextcom`](https://economynext.com/indias-tata-sons-to-gift-50-ambulances-to-sri-lankas-suwaseriya-adb-45-171679/) · `en`
+
+ECONOMYNEXT – India’s Tata Sons (Pvt) Ltd has offered to gift 50 ambulances for Sri Lanka’s Suwaseriya paramedic ambulance service and the Asian Development Bank 45, a government statement said.
+
+The cabinet of ministers had decided to take necessary steps to obtain the said ambulances to the 1990 Suwaseriya Foundation.
+
+Suwasariya was started with 297 ambulances from TATA Sons (Pvt) under a grant from the Indian Government in 2016.
+
+At present, 322 of ambulances are operated including 25 ambulances provided by Sri Lanka.
+
+However, due to the demand for the service, 450 ambulances and 25 back-up ambulances are required; there is a dearth of 150 ambulances at present. (Colombo/Jul11/2024)
+
+◼️
+
+[Data](articles/c4507f9d.json)
 
 ---
 
@@ -486,6 +608,28 @@ If you or someone you know is in crisis and need help, there are systems to serv
 
 ---
 
+### Sri Lanka rupee opens flat at 303.40/70 to US dollar
+
+*2024-07-11 09:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-303-40-70-to-us-dollar-171671/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened slightly weaker at 303.40/70 to the US dollar on Thursday, while bond yields were broadly steady, and stocks opened 0.22 percent up, dealers said.
+
+The rupee closed at 303.63/72 to the greenback on Wednesday.
+
+In the secondary market, yields were broadly steady, dealers said.
+
+A bond maturing on 15.02.2028 was quoted at 11.80/85 percent from 11.85/95 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.08/18 percent from 12.05/10 percent.
+
+In equities, Colombo’s All Share Price Index opened 25.62 points higher at 11,837, while the S&P SL20 of more liquid stocks opened up at 0.38 percent or 13.19 points to 3,461.
+
+◼️
+
+[Data](articles/8ef95167.json)
+
+---
+
 ### Bus accident in Nuwara Eliya;42 people are admitted to the hospital
 
 *2024-07-11 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188178) · `ta`
@@ -591,6 +735,26 @@ He also said that the buses of the Ceylon Transport were also employed on the ne
 [Data](articles/b6f49ec9.json)
 
 [Extended Data](ext_articles/b6f49ec9.ext.json)
+
+---
+
+### Sri Lanka to expedite work on law to re-expropriate privatized plantations land
+
+*2024-07-11 08:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-expedite-work-on-law-to-re-expropriate-privatized-plantations-land-171668/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet had decided to expedite work on preparing “necessary laws to cancel the land lease agreements with the Government” by privatized plantations that do not pay the state mandated salaries, a government statement said.
+
+Sri Lanka had mandated a 1,700 rupee a day wage to plantations workers, which the companies say will-undermine productivity based salaries and push up wage-costs above that of India and other and will lead to lower future investments.
+
+On May 22, 2024 the cabinet had directed the Treasury Secretary to calculate the daily wage of plantations workers.
+
+At the same meeting a decision was made to appoint a committee to ascertain the ability of each privatized plantation to pay the mandated wage.
+
+Based on the recommendation of the committee on the ability of companies to pay the state mandated wage, a law will be prepared to cancel the land leases of privatized plantations companies.
+
+...
+
+[Data](articles/8e3fc668.json)
 
 ---
 
@@ -2097,203 +2261,5 @@ Railway Masters have decided to extend its strike to a continuous strike. They h
 [Data](articles/9c14c0c5.json)
 
 [Extended Data](ext_articles/9c14c0c5.ext.json)
-
----
-
-### Debate on presidential election tomorrow is tomorrow
-
-*2024-07-10 18:15:44* · [`adalk`](https://www.ada.lk/breaking_news/නිසි-කලට-ජනාධිපතිවරණය-පැවැත්වීම-ගැන-විවාදය-හෙට/11-410722) · `si`
-
-Tomorrow's presidential election debate will occur as planned, adhering to constitutional and provincial executive schemes. The debate, originally scheduled for June 17, 2024, will now commence from 10:30 am to 2:30 pm. Additionally, the Welfare Welfare Bill, previously set for discussion tomorrow, has been postponed to the following day.
-
-🟩
-
-According to the Parliamentary Secretary General of Parliament Mahinda Yapa Abeywardena has decided to hold the presidential election in due period of time.
-
-According to the proposal of the Constitution and the executive scheme of the provinces, the chief of the National Republic of National Faminity (June 17, 2024) to hold the post of Adjournment DebateIs due. Accordingly, the debate is to be held from 10.30 am to 2:30 am to 2:30 am.
-
-The Secretary General of Parliament Kushani Rohandera added that the Welfare Welfare Bill, which was to be debated tomorrow, was decided to take debate on the next day.
-
-◼️
-
-[Data](articles/1ab16297.json)
-
-[Extended Data](ext_articles/1ab16297.ext.json)
-
----
-
-### India funds Sri Lanka smart classroom project in estates
-
-*2024-07-10 18:10:00* · [`economynextcom`](https://economynext.com/india-funds-sri-lanka-smart-classroom-project-in-estates-171660/) · `en`
-
-ECONOMYNEXT – Sri Lanka will construct 60 smart classrooms at selected schools in estates in Nuwara-Eliya, Kandy and Badulla Districts with funding from the Indian Government, Cabinet Spokesperson Minister Bandula Gunawardena said.
-
-“The Indian Government is helping us financially to develop the quality of education in science, technology and mathematics for Advanced Level classes in the estate sector,” Gunawardena told reporters on Wednesday.
-
-Minister of Estate Infrastructure Jeevan Thondaman has said that despite new schools, including an English medium school, built in the hill country, challenges remain in obtaining permission from plantation companies to expand the schools. (Colombo/Jul10/2024)
-
-◼️
-
-[Data](articles/fbce6296.json)
-
-[Extended Data](ext_articles/fbce6296.ext.json)
-
----
-
-### Seven suspects in the murder remanded till 22nd
-
-*2024-07-10 18:07:37* · [`adalk`](https://www.ada.lk/breaking_news/වසනත-ඝාතනයේ-සැකකරුවන්-7-දෙනා-22-දා-තෙක්-රිමාන්ඩ්/11-410721) · `si`
-
-Seven individuals, including the owner of Total Arts and several others, have been remanded until the 22nd after their arrest in connection with a murder case. The suspects, ranging from a former soldier to a businessman, are accused of conspiracy to commit the crime. The victim, Wasantha Perera, a popular singer, was shot along with his father and another woman. Police have confiscated a car and a van as part of their investigation.
-
-🟩
-
-The owner of the Total Arts who were arrested in the Tott Grant of Kaduwela and four others were handed over to the Kaduwela court on the 22nd of this month.
-
-Balapitiya, Balapitiya Moholla De Silva (28), Ahungalla, Ethamulla Dhamma Troops of Sri Gangananda Mawatha, Ahungalla, Ethamulla Dhamma Trophy (26) Ahungalla, Ahungalla Eigagulla TrophyResidence Ti M Y Y Y Y Yea (23) Building, Red Cross Homes, Gi H R. Lakmal (37) Beliatta.agammulla Galwaththamulla Galwatta. Latest garden.Wilson Road S WILL. The Kien (28) Beliatta is gi ji Wijesiri (31)
-
-A totist in the suspects is a former soldier bus conductor, a bus driver and businessman.
-
-Business Suresantra Wasantha Perera alias, or another, was murdered in a shooting of the TATOs
-
-The wife of the shooting was the father of Wasantha Perera, the popular singer K. Sujeewa, her husband and another woman wounded
-
-Conspiracy to commit the crime was charged with the suspects. The car and the van that has been taken into police custody.
-
-...
-
-[Data](articles/2b79e561.json)
-
-[Extended Data](ext_articles/2b79e561.ext.json)
-
----
-
-### Piyumi Hansamali files petition seeking to halt CID probe
-
-*2024-07-10 17:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100429/piyumi-hansamali-files-petition-seeking-to-halt-cid-probe-) · `en`
-
-Actress Piyumi Hansamali has filed a petition with the Court of Appeal seeking a writ order to suspend the investigations being carried out against her by the Illegal Assets Investigations Division of the Criminal Investigation Department (CID).
-
-The petition has named several officials including the Inspector General of Police (IGP) and the Director of the CID as respondents.
-
-Hansamali, who highlights in her petition that the Illegal Assets Investigations Division of the CID has launched an investigation against her, alleges that the manner in which the investigation is carried out is not justified and that it has cause severe prejudice to her.
-
-Accordingly, the petitioner requests the Court of Appeals to call and examine the case file against her being heard before the Colombo Magistrate’s Court and to issue a writ order to suspend the investigations being carried out by the CID’s Illegal Assets Investigations Division.
-
-◼️
-
-[Data](articles/24235206.json)
-
-[Extended Data](ext_articles/24235206.ext.json)
-
----
-
-### Resolution on self -determination for Tamils ​​submitted to US Congress - More than 50 diaspora Tamil organizations welcome
-
-*2024-07-10 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188161) · `ta`
-
-Over 50 Tamil diaspora organizations endorse a US Congress resolution advocating for a global discussion on providing a political solution to the Eelam Tamils' self-determination issue. Submitted on May 15, 2024, this resolution comes amid worsening human rights conditions in Sri Lanka, despite government claims of reconciliation. The organizations highlight the lack of genuine justice and accountability from the Sri Lankan government, emphasizing ongoing Tamil struggles against further human rights abuses such as militarization, land seizures, and torture.
-
-🟩
-
-More than 50 diaspora organizations have expressed their support for the US Congress resolution demanding a universal debate on independence to provide a political solution to the Eelam Tamils.
-
-The diaspora Tamil organizations have expressed their support for the resolution submitted to the US Congress on May 15, 2024.
-
-More than 150 diaspora organizations issued a joint statement have accepted the historical environment of the US Congress resolution and its potential to resolve the right to self -determination of the Tamil people.
-
-The resolution has been submitted to the US Congress at a time when the human rights situation in Sri Lanka is deteriorating.
-
-Although the Sri Lankan government is talking about reconciliation, the events of the 15 -year commemoration of the Tamil genocide have revealed that the government has not had political commitment to honest justice and accountability.
-
-...
-
-[Data](articles/202dcc52.json)
-
-[Extended Data](ext_articles/202dcc52.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 303.63/72 to US dollar
-
-*2024-07-10 17:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-303-63-72-to-us-dollar-171652/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed slightly stronger at 303.63/72 to the US dollar on Wednesday, down from 303.90/304.50 to the US dollar on Tuesday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 10.60/85 percent, down from 10.70/85 percent.
-
-A bond maturing on 15.09.2029 closed at 12.10/20 percent, up from 12.05/10 percent.
-
-Sri Lanka’s Treasury bill yields fell across maturities at Wednesday’s auction with all 105 billion rupees of bills offered sold, data from the debt office showed. (Colombo/Jul10/2024)
-
-◼️
-
-[Data](articles/3333308b.json)
-
-[Extended Data](ext_articles/3333308b.ext.json)
-
----
-
-### Trisha's first internet series 'Brinda'
-
-*2024-07-10 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/188155) · `ta`
-
-Trisha, a prominent actress in South Indian cinema, debuts in her first internet series "Brinda," directed by Suriya Manoj Bengal. Set to premiere on Sony Live, the series explores themes of social control over women and liberation, featuring Trisha alongside Indrajit Sukumaran, Jayaprakash, Omni, Ravindra Vijay, and Anand Sami. The teaser, eagerly awaited by digital audiences, hints at a powerful narrative about societal oppression and female empowerment.
-
-🟩
-
-Trisha, who is shining as a leading star actress in South Indian languages, is the first to play the role of 'Brinda'. The teaser of the internet series, which will be released on August 2, has been released on Sony Live.
-
-Directed by director Suriya Manoj Bengal, the Internet series has stars Trisha, Indrajit Sukumaran, Jayaprakash, Omni, Ravindra Vijay, Anand Sami.
-
-Dinesh K. Shakti Kant Karthik has composed the video of Babu's cinematography. The internet series has been produced by producer Kola Avinash on behalf of Ading Advertising LLP.
-
-The teaser of the Internet series has been highly anticipated by digital fans as it has been shown to be the rituals that socially control and identify women at a young age, the freedom sentiment of a woman who has been liberated from it, and the voice of the oppressed women of the society.
-
-◼️
-
-[Data](articles/1654b37e.json)
-
-[Extended Data](ext_articles/1654b37e.ext.json)
-
----
-
-### ‘Suwa Seriya’ to receive nearly 100 more ambulances
-
-*2024-07-10 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100428/suwa-seriya-to-receive-nearly-100-more-ambulances-) · `en`
-
-The Cabinet of Ministers has granted approval to take necessary steps to provide ambulances to the ‘1990 Suwa Seriya’ Foundation, free of charge as a grant.
-
-Issuing a statement, the Department of Government Information (DGI) stated that ‘1990 Suwa Seriya’ Foundation had been initiated by the utilization of 297 ambulances which were obtained from India’s TATA Sons Pvt. Ltd, under a grant of the Indian Government in 2016, with the objective of providing the pre-hospital treatments and emergency treatment services.
-
-At present, 322 of ambulances are operated including 25 ambulances provided by Government of Sri Lanka. According to the target of the ‘Suwa Seriya’ Foundation, it has been identified that 450 ambulances and 25 back-up ambulances are required and accordingly, there is a dearth of 150 ambulances at present, it added.
-
-...
-
-[Data](articles/6b0914b3.json)
-
-[Extended Data](ext_articles/6b0914b3.ext.json)
-
----
-
-### Suspects arrested over ‘Club Wasantha’ murder remanded
-
-*2024-07-10 17:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100427/suspects-arrested-over-club-wasantha-murder-remanded) · `en`
-
-The seven suspects including the tattoo studio owner arrested in connection with the shooting incident in Athurugiriya, which claimed the lives of businessman Surendra Wasantha Perera alias ‘Club Wasantha’ and another person, have been remanded by the Kaduwela Magistrate’s Court.
-
-The accused were ordered remanded until July 22 after being produced before the court on Wednesday (10).
-
-Police yesterday arrested seven suspects including the owner of the tattoo studio in Athurugiriya where the shooting incident took place on Monday (08), resulting in the deaths of ‘Club Wasantha’ and another person and wounded four others.
-
-The other arrested individuals are suspected to have aided and abetted in the shooting incident.
-
-During the investigations carried out thus far, it has been revealed that the owner of the tattoo studio has received an amount of Rs. 1 million over a period of time.
-
-...
-
-[Data](articles/b6ac8c6b.json)
-
-[Extended Data](ext_articles/b6ac8c6b.ext.json)
 
 ---

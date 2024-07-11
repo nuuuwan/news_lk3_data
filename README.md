@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 16:06:36**
+As of **2024-07-11 16:20:05**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,786
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,780 (100.0%) of 34,783 articles have been extended.
+34,783 (100.0%) of 34,783 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### ශූරයින්ගේ කුසලාන ක්‍රිකට් තරගාවලිය ශ්‍රී ලංකාවේදී ?
+### Charore's Cup Cricket Tournament in Sri Lanka?
 
 *2024-07-11 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198706) · `si`
 
-2025 දී පැවැත්වීමට නියමිත ශූරයින්ගේ කුසලාන ක්‍රිකට් තරගාවලිය ශ්‍රී ලංකාවේදී හෝ එක්සත් අරාබි එමීර් රාජ්‍යයේ පැවැත්වීමට ඉඩ ඇතැයි ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+The 2025 Charore's Cup Cricket Tournament, initially set for Sri Lanka or UAE, faces uncertainty due to India's reluctance to travel to Pakistan. This comes after India last visited Pakistan for the Asia Cup in 2008. The ICC may receive a request from India regarding the venue change.
 
-එවැනි තත්ත්වයක් උද්ගතවී ඇත්තේ එම තරගාවලිය පැවැත්වීමට නියමිත පාකිස්තානයේ සංචාරය කිරීමට ඉන්දීය කණ්ඩායම අකමැත්ත ප්‍රකාශ කර ඇති බැවින් බව සඳහන් වෙයි.
+🟩
 
-ඒ සම්බන්ධයෙන් ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයෙන් ඉන්දියාව ඉල්ලීමක් කිරීමට නියමිත බව එම මාධ්‍ය වාර්තාවේ දැක්වෙයි.
+The Champion Cricket Tournament to be held in 2025 will be held in Sri Lanka or the United Arabic Emirates, Indian media.
 
-2025 ශූරයින්ගේ කුසලාන ක්‍රිකට් තරගාවලිය එම වසරේ මාර්තු මාසයේදී පාකිස්තානයේදී පැවැත්වීමට සැලසුම් කර තිබෙන අතර පාකිස්තානය පවසා ඇත්තේ ඉන්දීය තරග ලාහෝර් නගරයේ පැවැත්වීමට කටයුතු කරන බවයි.
+It is said that the Indian team has been reluctant to visit Pakistan to visit the tournament.
 
-අවසන් වරට ඉන්දීය ක්‍රිකට් කණ්ඩායමක් පාකිස්තානයේ සංචාරය කළේ 2008 වසරේදී ආසියානු කුසලාන තරගාවලිය සඳහාය.
+India is to make a request from the International Cricket Council in this regard.
+
+The 2025 champion cricket tournament is scheduled to be held in Pakistan in March that year and Pakistan has said that Indian matches are being held in Lahore.
+
+The last Indian Cricket visited Pakistan for the Asia Cup in 2008.
 
 ◼️
 
 [Data](articles/957ed55e.json)
+
+[Extended Data](ext_articles/957ed55e.ext.json)
 
 ---
 
@@ -88,37 +94,57 @@ The island nation’s government has urged the ISA to refrain from accepting New
 
 ---
 
-### එක්දරු, මාස 06 ගැබිනියක් අතුරුදහන්
+### One mine, 06 months pregnant missing
 
 *2024-07-11 15:18:21* · [`adalk`](https://www.ada.lk/breaking_news/එක්දරු--මාස-06-ගැබිනියක්-අතුරුදහන්/11-410740) · `si`
 
-ගොවිඳුපුර පොලිස් වසමට අයත් කන්දඋඩපංගුව අම්පාරපාර 07 කණුව අසල පදිංචි මාස 06 ගැබිනියක්වූ එක්දරු මවක් ඉකුත් (09) වෙනිදා සිට අතුරුදන්වී ඇතැයි ගොවිඳුපුර පොලීසිය පවසයි.
+A woman named Kanduwaratiya, six months pregnant and missing for six months from her residence near Ampara Post, was reported missing by her daughter-in-law. Her husband, KA Amali, and another relative, Welegedara, were also unaccounted for. The family received a WhatsApp message from her phone, which they couldn't verify. Investigations are ongoing regarding the missing persons and the suspicious activities around their accounts.
 
-ඇය ඉකුත් 09 වෙනිදා උදෑසන දහයට පමණ රන්දු නැමැති දියණිය සමඟ මාතෘ සායනයට පිටවගොස් පසුව මවගේ නිවසට යන බව පවසමින් දියණිය පිටත්කර යවා ඇත.
+🟩
 
-තම බිරිඳ වන කේ.ඒ අමාලී ශ්‍රියා නමැත්තිය නිවසට නොපැමිණි බවට ඇයගේ ස්වාමිපුරුෂයා වන වෙලේගෙදර සමීර මාදම්පිටිය නැමති අය විසින් (10) වෙනිදා පොලීසියට පැමිණිලිකර තිබේ.අවස්ථා කිහිපයකදී බිරිඳගේ ජංගම දුරකථනයට ඇමතුම් ලබාදී ඇතත් එය විසන්ධිවී ඇත.
+Kanduwaratiya owned by Kandunpangan of the Guningura has disappeared from the last 6 months of residence near the post of Ampara Post.
 
-පසුව ඇය වට්ස්ඇප් පණිවිඩයක් මඟින් ඇයගේ ගිණුමට මුදල් බැරකරන ලෙස දැනුම්දී තිබේ. එදිනම කිසියම් අයෙකු බිරිඳගේ වට්ස්ඇප් ගිණුමට රුපියල් ලක්ෂ 50 බැරකරන ලෙසද දැනුම්දී ඇත. එසේ නොකළහොත් සමීර “උඔ දඟලන්න එපා ගෑණි දැන් ඉන්නේ අපිගාව.උඹ පොලීසි ගිහින් අපිට කරන්න පුළුවන් දෙයක් නැහැ.ලක්ෂ පනහක් හදලා තියපන්.සල්ලි දුන්න කියලා පොලීසියට කිව්වොත් ගෑණි මරනවා යන ලෙස සඳහන්කර පරුෂ වචනයෙන් බැන කෙටි පණිවිඩයක් එවා තිබේ.
+She has been dispatched by the daughter of Ravaya about 10 centuries on the morning of the 9th morning.
 
-...
+Her husband KA Amali, his wife KA Amali, had not arrived home by her husband, Welegedara, as Same Madampitiya (10).
+
+Later she had been informed as a WHATEAP message to bond her account. On the same day, someone has also been informed as a wife's Whatsapp account Rs.. Otherwise, Sameera: There is nothing that we can do to the police.
+
+The husband has informed her husband about a week ago, but he has said that he is unaware of how the child is unaware.
+
+The husband has told the police that the child is claiming to have a wife cash and a wife is locked by a person who has taken any person. Mr. Gunanthantha is conducting investigations into the two above issues.
+
+◼️
 
 [Data](articles/ab809476.json)
 
+[Extended Data](ext_articles/ab809476.ext.json)
+
 ---
 
-### හිරුණිකාට අදත් ඇප නෑ
+### Hirunika still released on bail
 
 *2024-07-11 14:57:31* · [`adalk`](https://www.ada.lk/breaking_news/හිරුණිකාට-අදත්-ඇප-නෑ/11-410739) · `si`
 
-බරපතළ වැඩසහිත වසර තුනක සිර දඬුවම් නියමවී සිටින හිටපු පාර්ලිමේන්තු මන්ත්‍රී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය ඇප මත මුදාහරින ලෙස කර ඇති ඉල්ලීමට අදාළව නීතිපතිවරයා විසින් අද (11) ලිඛිතව සිය විරෝධත කොළඹ මහාධිකරණය හමුවේ භාරදුන්නේය.
+Hirunika Premachandra, a former parliamentarian, was granted bail after being sentenced to three years in prison. She faced 18 charges related to her abduction in 2015, which were recently dismissed by the Colombo High Court. Despite claiming judicial bias, she awaits her prescribed punishment. The Attorney General, represented by Nalinda Indatissa, was involved in the case but no further details about the outcome were provided.
 
-2015 වසරේ දෙසැම්බර් මස 21 වනදා දෙමටගොඩ ප්‍රදේශයේ වෙළෙඳසැලක සේවය කළ අමිල ප්‍රියංක නමැති තරුණයකු කළු පැහැති ඩිෆෙන්ඩර් රථයකින් පැහැරගෙන ගොස් අයුතු ලෙස සිරකර තබා පහරදීමේ චෝදනා 18කට වරදකරු කෙරුණු හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට ඉකුත්දා කොළඹ මහාධිකරණය විසින් බරපතළ වැඩසහිත වසර තුනක සිර දඬුවම් සහ දඩ මුදල් නියම කෙරුණි.
+🟩
 
-මහාධිකරණ විනිසුරුවරයා තමන් වරදකාරිය කරමින් නිකුත් කළ තීන්දුව දෝෂ සහගත බවත් තමන් ඉදිරිපත් කළ කරුණු පිළිබඳ විනිසුරුවරයා සැළකිල්ලක් දක්වා නැති බවත් පෙන්වා දෙන පෙත්සම්කාර හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය තමන් වරදකාරිය කරමින් දුන් තීන්දුව හා තමන්ට පැනවු දඬුවම් ඉවත දමා සිය චෝදනා වලින් තමන් නිදොස් කර නිදහස් කරන්නැයි ඇය ඉල්ලා සිටින්නීය.
+Former Parliamentarian Premacharandra, who was sentenced to three years in prison, was released on bail.
 
-...
+The Colombo High Court recently condemned 18 accusations of Hirunika Premachandra who was abducted by a black defender in December 21, 2015.
+
+Petitioner Hirunika Premachandra, who points out that the High Court Judge is guilty and the judge who has been imposed on his accuses, asks for his prescribed punishment and will free themselves from their accusations.
+
+Attorney General of Attorney General, Attorney-at-Law University, who appeared on behalf of the Attorney General Nalinda Indatissa, who had been taken to the Attorney General Nalinda Indatissa, summoned to the Attorney General Nalinda Indatissa.
+
+The judge decided to inquire into the respondents on July 15, appointed on July 15.
+
+◼️
 
 [Data](articles/d991a639.json)
+
+[Extended Data](ext_articles/d991a639.ext.json)
 
 ---
 

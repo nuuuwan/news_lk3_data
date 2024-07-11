@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 17:05:02**
+As of **2024-07-11 17:20:16**
 
 ## Newspaper Stats
 
-*Scraped **34,792** Articles*
+*Scraped **34,795** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 3,138
 adaderanalk | 4,001
 tamilmirrorlk | 4,163
 dailymirrorlk | 4,733
-virakesarilk | 5,434
+virakesarilk | 5,437
 adaderanasinhalalk | 5,789
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,792 (100.0%) of 34,792 articles have been extended.
+34,792 (100.0%) of 34,795 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### பணிப்புறக்கணிப்பில் ஈடுபட்டுள்ள ரயில் நிலைய அதிபர்களுக்கு சேவை நீக்க கடிதம் அனுப்பப்பட்டது
+
+*2024-07-11 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/188234) · `ta`
+
+பணிப்புறக்கணிப்பில் ஈடுபட்டுள்ள ரயில் நிலைய அதிபர்கள் சேவையிலிருந்து நீக்கப்பட்டதாக கருதி உத்தியோகபூர்வ கடிதம் அனுப்பப்பட்டதாக போக்குவரத்து அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+
+மக்களை நெருக்கடிக்குள்ளாக்கும் செயற்பாடுகளை கோட்டாபய ராஜபக்‌ஷ பார்த்துக் கொண்டிருப்பார். தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்க சகித்துக் கொள்ளமாட்டார் என்றும் போக்குவரத்து அமைச்சர் குறிப்பிட்டார்.
+
+கடுமையான தீர்மானங்களை எடுக்காவிடின் இவர்களை கட்டுப்படுத்த முடியாதெனவும் மக்களை பணயக் கைதிகளாக்கும் தொழிற்சங்கங்களுக்கு அடிப்பணிய முடியாதெனவும்  போக்குவரத்து அமைச்சர் மேலும் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/021d9057.json)
+
+---
 
 ### Red letter to unconfinched railway employees
 
@@ -262,6 +278,22 @@ The island nation’s government has urged the ISA to refrain from accepting New
 
 ---
 
+### பாதாள குழு செயல்பாடுகளில் ஈடுபடுபவர்களை கொல்ல வேண்டும் - ஆளும் மற்றும் எதிரணி உறுப்பினர்கள்
+
+*2024-07-11 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/188225) · `ta`
+
+பாதாள குழு செயற்பாடுகளில்  ஈடுபடுபவர்களை  கொல்ல வேண்டும், 225 பாராளுமன்ற உறுப்பினர்களும் ஒன்றிணைந்தால் பாதாள குழுக்களையும்,போதைப்பொருள் வியாபாரத்தையும் இல்லாதொழிக்க முடியும் என ஆளும் தரப்பின் உறுப்பினர்கள் குறிப்பிட்டனர்.
+
+அண்மையில் சுட்டுக் கொல்லப்பட்ட கிளப் வசந்தவின் கொலை சம்பவத்துடன் தொடர்புடையதாக  சந்தேகத்தின் அடிப்படையில் கைது செய்யப்பட்ட பச்சை குத்தும் நபரிடம் பொலிஸார் வாக்குமூலம் பெறும் காணொளி சமூக வலைத்தளங்களில் வெளியாகியுள்ளமை குறித்து ஆளும் மற்றும் எதிரணியின் உறுப்பினர்கள் கடும் அதிருப்தியை வெளிப்படுத்தினர்.
+
+நாட்டில் அதிகரித்து வரும் படுகொலைகள் மற்றும் பாதாள குழுக்களின் செயற்பாடுகள் தொடர்பில் பாராளுமன்றத்தில் நேற்று வியாழக்கிழமை ஆளுங்கட்சி மற்றும் எதிர்க் கட்சியினருக்கும் இடையே கடும்  தர்க்கம் நிலவியது.
+
+...
+
+[Data](articles/78decdc2.json)
+
+---
+
 ### One mine, 06 months pregnant missing
 
 *2024-07-11 15:18:21* · [`adalk`](https://www.ada.lk/breaking_news/එක්දරු--මාස-06-ගැබිනියක්-අතුරුදහන්/11-410740) · `si`
@@ -287,6 +319,26 @@ The husband has told the police that the child is claiming to have a wife cash a
 [Data](articles/ab809476.json)
 
 [Extended Data](ext_articles/ab809476.ext.json)
+
+---
+
+### சந்தேகநபரை விசாரணை செய்வதை காண்பிக்கும் வீடியோவை பொலிஸார் வெளியிடுவதா? மனித உரிமை ஆர்வலர்கள் கடும் எதிர்ப்பு
+
+*2024-07-11 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/188223) · `ta`
+
+அத்துருகிரிய படுகொலை தொடர்பில் கைதுசெய்யப்பட்ட சந்தேகநபர்களில் ஒருவர் விசாரணை செய்யப்படுவதை காண்பிக்கும் வீடியோவை இலங்கை பொலிஸார் வெளியிட்டுள்ளமை குறித்து மனித உரிமை ஆர்வலர்கள் கடும்  கண்டனம் வெளியிட்டுள்ளனர்.
+
+2021ம் ஆண்டு பொலிஸ்மா அதிபர் வெளியிட்ட வழிகாட்டல்களிற்கு  முரணானவிதத்தில் இந்த வீடியோ பதிவு செய்யப்பட்டு வெளியிடப்பட்டுள்ளதாக அவர்கள் சுட்டிக்காட்டியுள்ளனர்.
+
+பொலிஸார் இவ்வாறான நடவடிக்கைகளில் ஈடுபடுகின்றனர் என பல முறைப்பாடுகள் இலங்கை மனித உரிமை ஆணைக்குழுவிற்கு கிடைத்ததை தொடர்ந்து 2021 இல் விசாரணைகளை வீடியோவில் பதிவு செய்து வெளியிடுவதை நிறுத்துமாறு பொலிஸ்மா அதிபர் உத்தரவிட்டார் என மனித உரிமை ஆர்வலர்கள் தெரிவித்துள்ளனர்.
+
+இந்த முறையில் விசாரணைகள் இடம்பெறுவது நபர் ஒருவரின் நியாயமான விசாரணைக்கான உரிமையை மீறும் செயல் என தெரிவித்துள்ள இலங்கை மனித உரிமை ஆணைக்குழுவின் முன்னாள் ஆணையாளர் அம்பிகா சற்குணநாதன் தெரிவித்துள்ளார்.
+
+மேலும் இது ஒருநபர் குற்றமற்றவர் என்ற அனுமானத்தை குறைமதிப்பிற்கு உட்படுத்தும் எனவும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/78db449b.json)
 
 ---
 
@@ -2263,75 +2315,5 @@ The Cabinet of Ministers approved the proposal presented by the Urban Developmen
 [Data](articles/950f5bfe.json)
 
 [Extended Data](ext_articles/950f5bfe.ext.json)
-
----
-
-### Mid-Year Fiscal Position Report published online, to be tabled in Parliament
-
-*2024-07-11 02:32:52* · [`dailyftlk`](https://www.ft.lk/business/Mid-Year-Fiscal-Position-Report-published-online-to-be-tabled-in-Parliament/34-764129) · `en`
-
-The Cabinet of Ministers on Tuesday approved presenting the Mid-Year Fiscal Position Report to Parliament for approval.
-
-The Ministry of Finance, Economic Stabilisation and National Policies has published the Mid-Year Fiscal Position Report on its website, in compliance with Section 10 of the Public Finance Management Act No. 3 of 2003.
-
-This report, which must be tabled in Parliament by the Finance Minister, provides a comprehensive overview of the fiscal position of the State as of mid-year.
-
-The report’s publication fulfils the legal requirement to release this information for public access by the last day of June 2024.
-
-The Mid-Year Fiscal Position Report is a critical document that outlines the Government’s financial performance, including revenue collection, expenditure and overall fiscal health. It serves as an essential tool for transparency and accountability, allowing the public and lawmakers to assess the Government’s economic strategies and fiscal management.
-
-...
-
-[Data](articles/6d1d8c3d.json)
-
-[Extended Data](ext_articles/6d1d8c3d.ext.json)
-
----
-
-### Police slammed over Club Wasantha murder suspect’s ‘confession’ footage
-
-*2024-07-11 02:30:09* · [`dailyftlk`](https://www.ft.lk/news/Police-slammed-over-Club-Wasantha-murder-suspect-s-confession-footage/56-764128) · `en`
-
-Human rights activists points out video of suspect was recorded and shared in violation of instructions issued by former IGP C.D. Wickramaratne in 2021 on handling of suspects
-
-Former HRCSL Commissioner Ambika Satkunanathan highlights publicizing interrogations can violate a person’s right to a fair trial and undermine the presumption of innocence
-
-Says releasing videos of interrogations is unprofessional and can undermine integrity of the investigation
-
-Former BASL Chief Saliya Peiris PC says footage is “absolute stupidity” on part of the police
-
-Urges for disciplinary action to be taken against police officers involved in the stunt
-
-The decision by the Sri Lanka Police to disseminate footage showing Dulan Sanjula, one of the suspects arrested in connection to the murder of Sunhill Group of Companies Chairperson Surendra Wasantha Perera, better known as “Club Wasantha” being interrogated has come under severe criticism from various quarters.
-
-...
-
-[Data](articles/466054fc.json)
-
-[Extended Data](ext_articles/466054fc.ext.json)
-
----
-
-### 60 Smart Classrooms in Estate Schools
-
-*2024-07-11 02:24:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோட்டப்-பாடசாலைகளில்-60-ஸ்மார்ட்-வகுப்பறைகளை/175-340191) · `ta`
-
-The Government of India, in collaboration with Sri Lanka, is funding the construction of 60 smart classrooms in plantation schools across Nuwara Eliya, Kandy, and Badulla districts. Approved in December 2023, this initiative aims to enhance education quality through technology integration. The project involves various departments including the Indian High Commission and Sri Lanka's Ministry of Education, addressing implementation challenges.
-
-🟩
-
-With the funding of the Government of India and the cooperation of the Government of Sri Lanka, the construction of 60 "smart" classrooms for high -quality classes is being implemented in the selected plantation schools in Nuwara Eliya, Kandy and Badulla districts.
-
-Authority has been approved at a Cabinet meeting held on 2023.12.18 to make a Memorandum of Understanding with the Government of India.
-
-Considering the practical issues in implementing the project, the Indian High Commission, the Ministry of Education, the Department of Foreign Resources, the Department of Foreign Resources, and the Department of National Bureau of Investigation have been decided.
-
-Accordingly, the Cabinet considers information submitted by Minister of Irrigation and Plantation Infrastructure Development Jeevan Thondaman that steps are being taken to amend the Memorandum of Understanding and implement the project.
-
-◼️
-
-[Data](articles/c03f189b.json)
-
-[Extended Data](ext_articles/c03f189b.ext.json)
 
 ---

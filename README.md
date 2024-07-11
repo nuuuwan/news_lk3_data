@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 22:20:06**
+As of **2024-07-11 22:35:23**
 
 ## Newspaper Stats
 
-*Scraped **34,842** Articles*
+*Scraped **34,849** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,118 @@ newsfirstlk | 363
 islandlk | 1,957
 economynextcom | 2,068
 dailyftlk | 2,183
-adalk | 3,139
-adaderanalk | 4,005
+adalk | 3,140
+adaderanalk | 4,006
 tamilmirrorlk | 4,165
 dailymirrorlk | 4,733
-virakesarilk | 5,453
-adaderanasinhalalk | 5,800
+virakesarilk | 5,457
+adaderanasinhalalk | 5,801
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,826 (100.0%) of 34,842 articles have been extended.
+34,840 (100.0%) of 34,849 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### ක්ලබ් වසන්ත ගේ දේහය තැන්පත් කර ඇති මල් ශාලාවටත් තර්ජන
+### ටැටු මල්ලිගේ පාපොච්චාරණය - පොලිස් කොමිසම දැඩි තීරණයක
+
+*2024-07-11 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198721) · `si`
+
+අපරාධ සිද්ධියකට අදාළව අත්අඩංගුවට ගත් සැකකරුවෙකුගේ පාපොච්චාරණයක් ජනමාධ්‍ය හා සමාජ මාධ්‍යන්හි පළවීම සම්බන්ධ‍යෙන් පොලිස් කොමිෂන් සභාවේ දැඩි අවධානය යොමු ව ඇති බව වාර්තා වෙයි.
+
+ඒ අනුව, අදාළ සැකකරුවාගේ පාපොච්චාරණය පොලිස්පති නියෝගය වලට පටහැනිව මාධ්‍යට මුදා හැරීමට කටයුතු කිරීම සම්බන්ධයෙන් ඊට අදාළ නිලධාරීන්ට එරෙහිව විනයානුකූලව කටයුතු කිරීමට අවශ්‍ය පියවර ගැනීම ට ජාතික පොලිස් කොමිෂන් සභාව තීරණය කර තිබේ.
+
+එම සිදුවීමට අදාළව සති දෙකක් ඇතුළත පොලිස් විශේෂ විමර්ශන ඒකකය මගින් මූලික විමර්ශනයක් සිදුකර එය පොලිස් කොමිෂන් සභාව වෙත දැන්වීමට පොලිස්පතිවරයා ට නියෝග කර ඇත.
+
+ජාතික පොලිස් කොමිෂන් සභාව අද (11) රැස් වූ අවස්ථාවේ එම තීරණ ගෙන අදාළ නියෝග නිකුත් කර ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/8f68a4ad.json)
+
+---
+
+### University non-academic staff end strike
+
+*2024-07-11 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100453/university-non-academic-staff-end-strike) · `en`
+
+The Executive Grade of the non-academic staff of universities have decided to call off their ongoing strike following discussions with relevant authorities.
+
+The trade unions have ended the strike after discussing their demands and reaching an agreement with the Chairman of the University Grants Commission (UGC) Prof. Sampath Amarathunga.
+
+◼️
+
+[Data](articles/7db4a4a6.json)
+
+---
+
+### Club Wasantha threatens flower hall
 
 *2024-07-11 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198720) · `si`
 
-සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්තගේ දේහය මේවන විට තැන්පත් කර ඇති කොළඹ, බොරැල්ලේ මල්ශාලාවට තමන් කංජිපානි ඉම්රාන් බව අඟවමින් ඊයේ (10) රාත්‍රි 11.30ට පුද්ගලයෙකු දුරකතන ඇමතුමක් ලබාදී තිබේ.
+Club Wasantha's body was found in Borella, Colombo, with threats against depositing it for final rites. The suspect threatened to shoot anyone who dared. A complaint was filed with the Borella Police, leading to an investigation. The funeral is scheduled for Saturday.
 
-එහිදී ක්ලබ් වසන්තගේ දේහය අවසන් ගෞරව දැක්වීම සඳහා එහි තැන්පත් නොකරන ලෙස එම තැනැත්තා තර්ජනය කර ඇතිබව පොලීසිය පවසයි.
+🟩
 
-එලෙස කළහොත් මෘත ශරීරයට මෙන්ම මල්ශාලාවට ද වෙඩි තබන බවට අදාළ පුද්ගලයා තර්ජනය කර ඇති බව පොලීසිය සඳහන් කළේය.
+Suresantra Wasantha Perera, or Club Wasantha's body has been placed in the Borella Malzala, Colombo, has been telephoned by Kjissani Imran yesterday (10).
 
-ඒ් අනුව මල්ශාලාවේ කළමනාකරු අද (11) පෙරවරුවේ මේ පිළිබඳව බොරැල්ල පොලීසියට පැමිණිලි කර තිබේ.
+The body has threatened the body not to deposit the remains of the body to pay the last respects.
 
-බොරැල්ල පොලීසියේ අපරාධ විමර්ශන අංශය මගින් සිද්ධිය සම්බන්ධයෙන් විමර්ශන ආරම්භ කර ඇති අතර එහිදී අනාවරණ වී ඇත්තේ, විදෙස් රටකින් අදාළ දුරකතන ඇමතුම ලැබී ඇති බවය.
+The suspect had been threatened to shoot the body and the fundamental and the fundamentality.
 
-ක්ලබ් වසන්තගේ දේහය පිළිබඳව අවසන් කටයුතු එළැඹෙන සෙනසුරාදා බොරැල්ල පොදු සුසාන භූමියේදී සිදුකිරීමට නියමිතය.
+What has been lodged a complaint with the Borella Police today (11).
+
+The Borella Police Criminal Investigation Division has commenced investigations into the incident.
+
+The closing of Club Wasantha's body is to be held on Saturday.
 
 ◼️
 
 [Data](articles/f8953bf0.json)
 
+[Extended Data](ext_articles/f8953bf0.ext.json)
+
 ---
 
-### பணிப்புறக்கணிப்பு முடிவுக்கு வந்தது
+### The workplace was over
 
 *2024-07-11 22:05:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணிப்புறக்கணிப்பு-முடிவுக்கு-வந்தது/175-340264) · `ta`
 
-போக்குவரத்து அமைச்சர் பந்துல குணவர்தனவுடன் இடம்பெற்ற பேச்சுவார்த்தையை அடுத்து, இந்தத் தீர்மானம் எடுக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.
+Following discussions with Transport Minister Bandula Gunawardena, it's confirmed that train services will operate normally tomorrow.
 
-இந்த நிலையில், நாளை முதல் வழமைப்போல ரயில் சேவை இடம்பெறும் என்று அறிவிக்கப்பட்டுள்ளது. (a)
+🟩
+
+The decision has been taken following talks with Transport Minister Bandula Gunawardena.
+
+In this case, it has been announced that the train service will take place as usual tomorrow. (A)
 
 ◼️
 
 [Data](articles/a56e8802.json)
+
+[Extended Data](ext_articles/a56e8802.ext.json)
+
+---
+
+### அர்ஜுன் தாஸுடன் முதன்முறையாக இணையும் அதிதி ஷங்கர்
+
+*2024-07-11 21:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/188243) · `ta`
+
+'கைதி' படத்தின் மூலம் தமிழ் திரையுலகில் அறிமுகமாகி பிரபலமானாலும், 'அநீதி' படத்தின் மூலம் கதையின் நாயகனாக உலா வர தொடங்கியிருக்கும் நடிகர் அர்ஜுன் தாஸ் கதையின் நாயகனாக மீண்டும் முதன்மையான வேடத்தில் நடித்திருக்கும் பெயரிடப்படாத திரைப்படத்தில் அவருக்கு ஜோடியாக இளம் நட்சத்திர நடிகை அதிதி ஷங்கர் நடிக்கிறார் என படக் குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு தெரிவித்துள்ளனர்.
+
+அறிமுக இயக்குநர் விக்னேஷ் ஸ்ரீகாந்த் இயக்கத்தில் உருவாகும் பெயரிடப்படாத திரைப்படத்தில் அர்ஜுன் தாஸ் - அதிதி ஷங்கர் ஆகியோர் நாயகன்- நாயகியாக நடிக்கிறார்கள். அரவிந்த் விஸ்வநாதன் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்தை மில்லியன் டொலர் ஸ்டுடியோஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் யுவராஜ் கணேசன் தயாரிக்கிறார்.
+
+வி. ஆர். வம்சி இணை தயாரிப்பாளராக பணியாற்றும் இந்த திரைப்படத்தின் தொடக்க விழா சென்னையில் சிறப்பாக நடைபெற்றது.
+
+'காந்த குரலோன்' அர்ஜுன் தாஸ் - திறமையான இளம் நடிகை அதிதி ஸங்கர் முதன்முறையாக இணைந்திருப்பதால் இவர்களின் திரை தோற்ற ரசாயன மாற்றம் ரசிகர்களை உற்சாகப்பட வைக்கும் என திரையுலகினர் எதிர்பார்க்கிறார்கள்.
+
+...
+
+[Data](articles/4f950534.json)
 
 ---
 
@@ -89,6 +151,24 @@ The post mortem will be conducted at the Vathupitiwala Hospital tomorrow (12).
 [Data](articles/62f9f53b.json)
 
 [Extended Data](ext_articles/62f9f53b.ext.json)
+
+---
+
+### ரயில் நிலைய அதிபர்களின் பணிப்புறக்கணிப்பு போராட்டம் முடிவுக்கு வந்தது!
+
+*2024-07-11 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/188259) · `ta`
+
+ரயில் நிலைய அதிபர்களின் பணிப்புறக்கணிப்பு போராட்டம் இன்றுடன் (11 ஆம் திகதி வியாழக்கிழமை) முடிவுக்கு வந்துள்ளதாக ரயில் நிலைய அதிபர்கள் சங்கத்தின் செயலாளர் தெரிவித்துள்ளார்.
+
+போக்குவரத்து, நெடுஞ்சாலைகள் மற்றும் ஊடகத்துறை அமைச்சர் கலாநிதி பந்துல குணவர்தன, பணிப்பகிஷ்கரிப்பில் ஈடுபட்டுள்ள புகையிரத கட்டுப்பாட்டாளர்கள் மற்றும் நிலைய அதிபர்கள் சங்கத்தின் அதிகாரிகளுடன் செய்துகொண்ட இணக்கப்பாட்டுக்கு அமைய, 11 ஆம் திகதி வியாழக்கிழமை நள்ளிரவு முதல் பணிப்புறக்கணிப்பை கைவிட்டு பணிக்கு திரும்புவதற்கு பணிப்புறக்கணிப்பில் ஈடுபட்டுள்ள தொழிற்சங்கங்கள் தீர்மானித்துள்ளன.
+
+அதன்படி இன்று நள்ளிரவு 12 மணிக்குள் பணிக்கு சமூகமளிக்கும் உத்தியோகத்தர்களுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்கப்பட மாட்டாது என அமைச்சர் தொழிற்சங்க அதிகாரிகளுக்கு அறிவித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+பணிக்கு வராத அதிகாரிகள் யாராவது இருப்பின் அவர்கள் மீது உரிய நடவடிக்கை எடுக்கப்படும் என்றும் அமைச்சர் வலியுறுத்தினார்.
+
+...
+
+[Data](articles/434ed424.json)
 
 ---
 
@@ -125,6 +205,20 @@ According to police, both of them were running and shooting firearms and shootin
 [Data](articles/47a265bb.json)
 
 [Extended Data](ext_articles/47a265bb.ext.json)
+
+---
+
+### திருகோணமலை ஸாஹிரா கல்லூரி விவகாரம்: உரிய பரிகார நடவடிக்கைகள் முன்னெடுக்கப்படுகின்றனவா என இலங்கை மனித உரிமைகள் ஆணைக்குழு கண்காணிப்பு
+
+*2024-07-11 21:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/188258) · `ta`
+
+திருகோணமலை ஸாஹிரா கல்லூரி விவகாரம் தொடர்பில் பரீட்சைகள் திணைக்களம் மற்றும் பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவினால் பரிகார நடவடிக்கைகள் உரியவாறு முன்னெடுக்கப்படுகின்றனவா என தாம் கண்காணிக்கவிருப்பதாக மனித உரிமைகள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+திருகோணமலை ஸாஹிரா கல்லூரியில் க.பொ.த உயர்தரப்பரீட்சைக்குத் தோற்றிய 70 முஸ்லிம் மாணவிகளின் பெறுபேறுகள், அவர்கள் காதை மறைக்கும் விதமாக ஹிஜாப் அணிந்து வந்ததாகக் குறிப்பிட்டு உரிய காலப்பகுதியில் வெளியிடப்படாமல் இடைநிறுத்திவைக்கப்பட்ட (தற்போது வெளியிடப்பட்டுவிட்டது) சம்பவம் குறித்து கடந்த 8 ஆம் திகதி பரீட்சைகள் திணைக்களம் மற்றும் பல்கலைக்கழக மானியங்கள் ஆணைக்குழு ஆகியவற்றின் அதிகாரிகளுடன் கலந்துரையாடலை முன்னெடுத்த இலங்கை மனித உரிமைகள் ஆணைக்குழு, இவ்விடயத்தில் தமது நிலைப்பாட்டைத் தெளிவுபடுத்தி வியாழக்கிழமை (11) வெளியிட்டிருக்கும் அறிக்கையில் மேலும் கூறப்பட்டிருப்பதாவது:
+
+...
+
+[Data](articles/5a29d4eb.json)
 
 ---
 
@@ -518,6 +612,20 @@ He said that these persons also have the right to get a special scholarship offe
 
 ---
 
+### ஜோசப் ஸ்டாலின் உட்பட தொழிற்சங்க தலைவர்கள் பயங்கரவாதிகளே - காஞ்சன கடும் விசனம்
+
+*2024-07-11 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/188230) · `ta`
+
+அப்பாவி மக்களை பணயக் கைதிகளாக வைத்து தமது கோரிக்கைகளை நிறைவேற்றிக் கொள்ள முயற்சிக்கும் ஜோசப் ஸ்டாலின் உட்பட புகையிரத தொழிற்சங்க தலைவர்களை பயங்கரவாதிகள் என்றே குறிப்பிட வேண்டும். சேவையில் இருப்பவர்களுக்கு சம்பளம் வழங்குவது பெரும் போராட்டமாக உள்ள நிலையில் புதிதாக எவ்வாறு நியமனங்களை வழங்க முடியும். முறையற்ற வகையில் செயற்படும் தொழிற்சங்கங்களுக்கு எதிராக கடுமையான தீர்மானங்களை எடுக்காவிடின் நாடு என்ற ரீதியில் முன்னேற முடியாது. எதிர்க்கட்சியினர் ஆட்சிக்கு வந்தாலும் அவர்களுக்கும் இந்நிலைமையே ஏற்படும் என  மின்சாரத்துறை மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (11)  இடம்பெற்ற சட்டரீதியான ஏற்பாடுகளுக்கு அமைய உரிய காலத்தில் ஜனாதிபதித் தேர்தலை நடத்துவது பற்றிய ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/5583da38.json)
+
+---
+
 ### US - Sri Lanka Partnership Discussion: A team headed by Foreign Secretary Aruni Wijewardena
 
 *2024-07-11 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/188251) · `ta`
@@ -604,6 +712,8 @@ The debt office sold 73.2 billion rupees of an offered 80 billion of 01 December
 
 [Data](articles/8fcde764.json)
 
+[Extended Data](ext_articles/8fcde764.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes stronger at 302.80/303.00 to US dollar
@@ -621,6 +731,8 @@ A bond maturing on 15.09.2029 closed at 12.15/25 percent, up from 12.10/20 perce
 ◼️
 
 [Data](articles/dde4c1f0.json)
+
+[Extended Data](ext_articles/dde4c1f0.ext.json)
 
 ---
 
@@ -740,6 +852,8 @@ The proposed grant is a visionary initiative designed to catalyse the digital tr
 
 [Data](articles/cd153c99.json)
 
+[Extended Data](ext_articles/cd153c99.ext.json)
+
 ---
 
 ### ADB approves Sri Lanka US$100mn power sector policy loan
@@ -757,6 +871,8 @@ ECONOMYNEXT – Manila-based Asian Development Bank said it had approved a 100 m
 ...
 
 [Data](articles/379edc4f.json)
+
+[Extended Data](ext_articles/379edc4f.ext.json)
 
 ---
 
@@ -779,6 +895,8 @@ Under President Ranil Wickremesighe’s government, the NWSDB’s monthly loss o
 ...
 
 [Data](articles/1bc02e69.json)
+
+[Extended Data](ext_articles/1bc02e69.ext.json)
 
 ---
 
@@ -824,6 +942,8 @@ The minister said that the station masters who continue to be on strike despite 
 
 [Data](articles/dfe34250.json)
 
+[Extended Data](ext_articles/dfe34250.ext.json)
+
 ---
 
 ### 12 fuel delivery train services canceled by strike
@@ -868,6 +988,8 @@ A Fiscal Management Responsibility Act, which has been repeatedly breached in th
 
 [Data](articles/7e8258b5.json)
 
+[Extended Data](ext_articles/7e8258b5.ext.json)
+
 ---
 
 ### Sri Lanka to start e-motorist drive in 6 weeks: State Minister
@@ -889,6 +1011,8 @@ Around 4,000 people in and around Colombo visit the main offices of DMT in Werah
 ...
 
 [Data](articles/6d22599a.json)
+
+[Extended Data](ext_articles/6d22599a.ext.json)
 
 ---
 
@@ -913,6 +1037,8 @@ A crossing on Nations Trust Bank Plc contributed in Rs39mn to the turnover, and 
 ...
 
 [Data](articles/df10af66.json)
+
+[Extended Data](ext_articles/df10af66.ext.json)
 
 ---
 
@@ -1024,6 +1150,22 @@ Hospital sources reported that popular singer K. Sujeewa, who was seriously inju
 
 ---
 
+### අධික තදබදයෙන් ස්වසන අපහසුතාවට ලක්වූ දුම්රියේ ගමන්ගත් කාන්තාව රෝහලට
+
+*2024-07-11 16:11:38* · [`adalk`](https://www.ada.lk/breaking_news/අධික-තදබදයෙන්-ස්වසන-අපහසුතාවට-ලක්වූ-දුම්රියේ-ගමන්ගත්-කාන්තාව-රෝහලට/11-410743) · `si`
+
+දුම්රිය ස්ථානාධිපතිවරුන් ඇතුළු අංශ කිහිපයක සේවක වර්ජනය හේතුවෙන්, අධික තදබදයෙන් කොළඹ කොටුව සිට පොල්ගහවෙල දෙසට ධාවනය වෙමින් තිබූ දුම්රියක සිටි කාන්තාවක් ශ්වසන අපහසුතාවයට ලක්ව ගම්පහ දිස්ත්‍රික් මහ රෝහලට ඇතුළත් කෙරිණි.
+
+53 හැවිරිදි රාජ්‍ය සේවිකාවක වන ඇය දුම්රිය මැදිරිය තුළ අධික ලෙස තෙරපීමේදී ශ්වසන අපහසුතාවයට ලක්ව රෝගී තත්ත්වයකට පත්වීම මත, දුම්රිය මැදිරියේ සිටි සෙසු මගීන් විසින් මැය ගම්පහ දුම්රිය ස්ථානයෙන් බස්සවා ගෙන 1990 සුවසැරිය ගිලන් රථයකින් රෝහල වෙත යැවීමට පියවර ගෙන තිබිණි.
+
+රෝගී කාන්තාව රෝහල්ගත කොට ප්‍රතිකාර ලබාදී සාමාන්‍ය තත්ත්වයට පත්වූ පසුව නිවස බලා යාමට සැලැස්වූ බව ගම්පහ දිස්ත්‍රික් මහ රෝහලෙහි ප්‍රකාශිකාවක් සඳහන් කළාය.
+
+◼️
+
+[Data](articles/3493515a.json)
+
+---
+
 ### MP
 
 *2024-07-11 16:09:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கீதை-மீது-சத்தியம்-செய்து-பதவியேற்ற-பெண்-எம்-பி/50-340246) · `ta`
@@ -1128,21 +1270,29 @@ Parties afraid of an election and those who want to destabilise the country were
 
 [Data](articles/43ac9f46.json)
 
+[Extended Data](ext_articles/43ac9f46.ext.json)
+
 ---
 
-### ජාතික ඖෂධ නියාමන අධිකාරියට වසර 9 ක් සපිරේ.
+### 9 years of the National Drug Regulatory Authority
 
 *2024-07-11 15:46:16* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ඖෂධ-නියාමන-අධිකාරියට-වසර-9-ක්-සපිරේ-/11-410741) · `si`
 
-ජාතික ඖෂධ නියාමන අධිකාරියට (NMRA) වසර 9 ක් පිරීම නිමිති කොට ගෙන විශේෂ සැමරුම් උත්සවයක් අද දින (11) සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ ප්‍රධානත්වයෙන් බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලා පරීශ්‍රයේ දී පැවැත්විණි.
+The National Drug Regulatory Authority (NMRA) in Sri Lanka, established on July 1, 2015, celebrated its 9th anniversary with a ceremony at the Bandaranaike Memorial International Conference Hall. The NMRA ensures the quality and availability of medicines and medical equipment in the country, adhering to the national pharmacy policy. This event highlighted the authority's contributions to healthcare, including introducing the Pharmaceutical Policy to the world, which was unveiled by the Health Minister and the founder of the Sri Lanka Pharmaceutical Corporation. Key figures from the health sector attended the celebration, marking the significant achievements of the NMRA in regulating drugs and ensuring public health standards.
 
-2015.07.01 දින ජාතික ඖෂධ නියාමන අධිකාරිය ස්ථාපිත කරන ලද අතර එමගින් ශ්‍රී ලංකාවේ ජාතික ඖෂධ ප්‍රතිපත්තිය අනුගමන කරමින් මහජනතාව සදහා සියලුම වර්ග වල  ඖෂධ, වෛද්‍ය උපකරණ, සීමාස්ථ නිෂ්පාදන සහ විලවුන්හි ගුණාත්මකාභාවය, ආරක්ෂාකාරීව, කාර්යක්ෂම සහ දැරිය හැකි මිලකට පාරිභෝගිකයා වෙත ලබා දීම සිදු කරනු ලබයි.
+🟩
 
-ඖෂධ ප්‍රතිපත්තිය මෙරටට හදුන්වා දෙමින්, රාජ්‍ය ඔසුසල් සංකල්පය ලෝකයට හදුන්වා දුන් මහාචාර්ය සේනක බිබිලේ මහතාගේ පිලිරුවක් ද,  සෞඛ්‍ය අමාත්‍යවරයා අතින් මෙහිදී නිරාවරණය කරනු ලැබු අතර ඒ මහතා ශ්‍රී ලංකා ඖෂධ නීතිගත සංස්ථාවේ ආරම්භක සභාපතිවරයා ද වේ.
+A special ceremony was held to the National Drug Regulatory Authority (NMRA), a special celebration held at the Bandaranaike Memorial International Conference Hall today (11) under the patronage of Hon.
+
+The National Drug Regulatory Authority has been established on 01.07.2015 and providing the quality, medical equipment, restriction and ointment of the public by following the national pharmacy policy in Sri Lanka..
+
+The Pharmaceutical Policy was introduced to the Sri Lankan concept to the world, and he was unveiled by the Health Minister and the Health Minister was also the founding chairman of the Sri Lanka Pharmaceutical Corporation.
 
 ...
 
 [Data](articles/14afc82b.json)
+
+[Extended Data](ext_articles/14afc82b.ext.json)
 
 ---
 
@@ -1359,6 +1509,8 @@ Sabry was on an official visit to Singapore from July 7-9 at the invitation of M
 ...
 
 [Data](articles/8f2c0ffd.json)
+
+[Extended Data](ext_articles/8f2c0ffd.ext.json)
 
 ---
 
@@ -2169,163 +2321,5 @@ It is also noteworthy that the people of the area and the police are working tog
 [Data](articles/388180df.json)
 
 [Extended Data](ext_articles/388180df.ext.json)
-
----
-
-### Traffic on Colombo - Avissawella Road
-
-*2024-07-11 11:30:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-அவிசாவளை-வீதியின்-போக்குவரத்து-தடை/175-340222) · `ta`
-
-Traffic on Colombo-Avissawella Road is disrupted due to a collapsed state tree near Ranala and Sudavila, causing power outages and damaging wires. Heavy vehicles are suspended at certain junctions, and locals and police are clearing branches.
-
-🟩
-
-Navagamuwa police said that the traffic of the state tree has been blocked due to a collapse of a state tree in Ranala and Sudavila area on Low Level Road, Colombo - Avissawella.
-
-Due to this, many wires in the area have been damaged and the power has been cut off.
-
-The police have also taken steps to suspend heavy vehicles from Velvil Junction and Siambala Kas junction.
-
-It is also noteworthy that the people of the area and the police are working to cut off the branches.
-
-◼️
-
-[Data](articles/80fd42b3.json)
-
-[Extended Data](ext_articles/80fd42b3.ext.json)
-
----
-
-### Resolution to take Hirunika's bail plea
-
-*2024-07-11 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/188190) · `ta`
-
-Colombo High Court will consider Hirunika Premachandra's bail petition on July 15 after the Attorney General opposed it. Found guilty in a case involving abduction, assault, and threats, she faces three years imprisonment and fines.
-
-🟩
-
-The Colombo High Court has decided to take into consideration on July 15, a petition filed by former Colombo district parliamentarian Hirunika Premachandra to release her on bail.
-
-When the petition was taken up for hearing in the presence of Colombo High Court Judge Amal Ranarajah, the Attorney General presented the written submission against the bail application.. Therefore, it was decided to take up the case on July 15.
-
-Hirunika Premachandra was found guilty in the case of 18 allegations, including abducting, attacking and threatening a youth using a Defender vehicle in Dematagoda.
-
-Hirunika Premachandra is the ninth offender in this case. The criminal case was filed against him because he was innocent.
-
-It is noteworthy that Hirunika Premachandra was sentenced to three years in prison, who was found guilty of the accused and the court was sentenced to 20 thousand rupees each.
-
-◼️
-
-[Data](articles/362e247d.json)
-
-[Extended Data](ext_articles/362e247d.ext.json)
-
----
-
-### Strong earthquake strikes Philippines
-
-*2024-07-11 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100439/strong-earthquake-strikes-philippines) · `en`
-
-A magnitude 6.7 earthquake struck Mindanao, Philippines, on Thursday, the German Research Center for Geosciences (GFZ) said.
-
-The quake was at a depth of 630 km (391.46 miles), GFZ said.
-
-The Philippines’ seismology agency said in an advisory the deep offshore quake is not expected to create damage but aftershocks are expected.
-
-The Philippines is in the Pacific ‘Ring of Fire’, where volcanic activity and earthquakes are common.
-
-◼️
-
-[Data](articles/56355084.json)
-
-[Extended Data](ext_articles/56355084.ext.json)
-
----
-
-### The daughter who watched TV
-
-*2024-07-11 11:08:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/டிவி-பார்த்த-மகளுக்கு-வினோத-தண்டனை/53-340219) · `ta`
-
-In Yulin, Guangxi Zhuang, China, a father faced backlash after sentencing his 3-year-old daughter, Ziajia, to fill a bowl with her tears as punishment for preferring TV over dinner. The incident, captured and shared by the mother, showed the father making the child laugh and then cry, intending to collect her tears. Despite the parents eventually convincing Ziajia, the harsh punishment sparked criticism.
-
-🟩
-
-The father of his 3 -year -old daughter, who has been watching TV for a long time, has been severely condemned.. The incident took place at Yulin, Guangci Zuang, China.
-
-The father has been sentenced to filling the bowl in the hands of the daughter and filling it with tears.
-
-After preparing dinner, her father called his daughter Ziajia to the dining table. She did not respond because her daughter was immersed in watching TV.
-
-Frustrated, the father stopped the television. The little girl began to cry.
-
-Jiajia's father gave a bowl in his daughter's hands and said that when you fill this bowl with your tears, you can watch the TV again.. Jiajia tried to gather tears with the bowl below her eyes. She was tired of struggling for more than 10 seconds.
-
-...
-
-[Data](articles/c73fd97d.json)
-
-[Extended Data](ext_articles/c73fd97d.ext.json)
-
----
-
-### A branch in a tree crashes into Avissawella road
-
-*2024-07-11 11:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198696) · `si`
-
-In Avissawella, a tree branch crashed onto a road, disrupting a local shop. The Navagamuwa Police intervened, stopping heavy vehicles near Wewali Junction and Siyambala to prevent further damage.
-
-🟩
-
-The Navagamuwa Police say that the shop of a branch of a breeding tree in the Ranala Sabadu area in Colombo has been disrupted due to a branch of a breeding tree in the Ranala Skalwila area.
-
-The police said that due to the collapse of the breeding of the breed, the police said.
-
-As a result, the police had taken steps to stop temporary weight vehicles from Wewali Junction and Siyambala trees junds.
-
-◼️
-
-[Data](articles/4996b17c.json)
-
-[Extended Data](ext_articles/4996b17c.ext.json)
-
----
-
-### Influenza symptoms on the rise among children, health officials warn
-
-*2024-07-11 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100438/influenza-symptoms-on-the-rise-among-children-health-officials-warn) · `en`
-
-The symptoms of the Influenza viral flu being reported among children in Sri Lanka are on the rise, according to the Paediatrician of Lady Ridgeway Hospital for Children Dr. Deepal Perera.
-
-Furthermore, Dr. Perera advised to seek medical advice immediately if such symptoms persist.
-
-Influenza (the flu) is an acute respiratory infection caused by influenza viruses. It is common in all parts of the world. Most people recover without treatment, according to the World Health Organisation (WHO).
-
-As per the WHO, Influenza spreads easily between people when they cough or sneeze. Symptoms of influenza include acute onset of fever, cough, sore throat, body aches and fatigue.
-
-◼️
-
-[Data](articles/c76ca82c.json)
-
-[Extended Data](ext_articles/c76ca82c.ext.json)
-
----
-
-### Focus on the boys
-
-*2024-07-11 10:57:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்கள்-கவனம்/175-340217) · `ta`
-
-Dr. Deepal Perera warns of rising flu symptoms in children at Ridgeway Arya Children's Hospital. Symptoms include high fever, runny nose, sore throat, body ache, headache, cough, and fatigue. Immediate medical attention is advised for these symptoms.
-
-🟩
-
-Dr. Deepal Perera, a specialist at Ridgeway Arya Children's Hospital, said that the symptoms of influenza are increasing among children.
-
-High fever, flowing nose, throat pain, muscle pain, headache, cough, tired feeling ... He added that if there are such influenza symptoms, you should seek medical advice immediately.
-
-◼️
-
-[Data](articles/aa90cdea.json)
-
-[Extended Data](ext_articles/aa90cdea.ext.json)
 
 ---

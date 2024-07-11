@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 02:35:14**
+As of **2024-07-12 02:54:18**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 5,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,873 (100.0%) of 34,874 articles have been extended.
+34,874 (100.0%) of 34,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
 
-### ’வரைவினை நிறைவேற்றுவது சாத்தியமற்றது’
+### It is impossible to fulfill the draft
 
 *2024-07-12 02:21:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரைவினை-நிறைவேற்றுவது-சாத்தியமற்றது/175-340268) · `ta`
 
-ஜனாதிபதியின் பதவிக்  காலம் தொடர்பில் அமைச்சரவையில் சமர்ப்பித்துள்ள வரைவினை நிறைவேற்றுவது சாத்தியமற்றது.இது காலத்தை வீணடிக்கும் செயல்  என  சுதந்திர மக்கள்  சபையின் பிரதிநிதியும்,சுயாதீன எதிரணி எம்.பி.யுமான பேராசிரியர்  ஜீ.எல்.பீரிஸ் தெரிவித்தார்.
+Professor GL Peiris criticizes the delay in deciding the presidential election timeline, questioning the president's term length due to legal ambiguity. Former President Maithripala Sirisena seeks clarification from the Supreme Court regarding his term under the 19th Amendment. A High Court ruling on the president's term leads to a call for suspending the election due to a constitutional conflict. Despite efforts, it's deemed impossible to finalize the draft on the president's term within the required timeframe.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (11)  இடம்பெற்ற சட்டரீதியான ஏற்பாடுகளுக்கு அமைய உரிய காலத்தில் ஜனாதிபதித் தேர்தலை நடத்துவது பற்றிய ஒத்திவைப்பு விவாதத்தில் உரையாற்றும் போதே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+🟩
 
-ஜனாதிபதியின் பதவிக்  காலம்  தொடர்பில்  உயர் நீதிமன்றம்  தெளிவாக வியாக்கியானம் வழங்கியுள்ள நிலையில்  மீண்டும்  ஜனாதிபதியின் பதவி காலம் ஐந்து ஆண்டுகளா ? அல்லது ஆறு ஆண்டுகளா ?   என்று  ஆராயப்படுகிறது.
+Professor GL Peiris, a representative of the Independent People's Council and Independent Opposition MP, said that this is a waste of time.
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தனது பதவிக்  காலம் தொடர்பில் உயர்நீதிமன்றில் வியாக்கியானம் கோரினார்.அவர் அரசியலமைப்பின் 18 ஆம் திருத்தத்துக்கு அமைய ஆறு வருட பதவி காலத்துக்காகவே மக்களால் தெரிவு செய்யப்பட்டார் என்ற உறுதியாக தர்க்கம் காணப்பட்ட நிலையில் உயர் நீதிமன்றம் அவரது பதவி காலம் ஐந்து வருடங்கள் என்று அறிவித்தது.
+Speaking at the postponement of the postponement debate on the presidential election in a timely manner in accordance with the legal arrangements in Parliament on Thursday (11), he said.
+
+With the Supreme Court clearly issuing a clear regard to the president's tenure, is the president's tenure for five years?Or six years?That is explored.
+
+Former President Maithripala Sirisena has sought the Supreme Court on his tenure.
+
+The 19th Amendment of the Constitution was passed only after Maithripala Sirisena was elected president. The Supreme Court has given the Supreme Court that its arrangements will be considered the basic law of the country after the implementation of this amendment.
 
 ...
 
 [Data](articles/fbd37839.json)
+
+[Extended Data](ext_articles/fbd37839.ext.json)
 
 ---
 

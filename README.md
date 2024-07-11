@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 23:35:26**
+As of **2024-07-11 23:54:59**
 
 ## Newspaper Stats
 
-*Scraped **34,854** Articles*
+*Scraped **34,856** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,957
 economynextcom | 2,068
 dailyftlk | 2,183
-adalk | 3,144
+adalk | 3,145
 adaderanalk | 4,006
-tamilmirrorlk | 4,165
+tamilmirrorlk | 4,166
 dailymirrorlk | 4,733
 virakesarilk | 5,457
 adaderanasinhalalk | 5,802
@@ -26,61 +26,95 @@ adaderanasinhalalk | 5,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,851 (100.0%) of 34,854 articles have been extended.
+34,854 (100.0%) of 34,856 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### වේග සිමා සඳහා නව රෙගුලාසි ඇතුළත් ගැසට් නිවේදනයක්
+### நாளை முதல் ஆரம்பம் - மாணவர்களுக்கு மகிழ்ச்சியான செய்தி
+
+*2024-07-11 23:21:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-ஆரம்பம்-மாணவர்களுக்கு-மகிழ்ச்சியான-செய்தி/175-340266) · `ta`
+
+க.பொ.த உயர்தரம் மற்றும் முதலாம் தரம் முதல் 11ஆம் தரம் வரை கல்வி  கற்கும் குறைந்த வருமானம் பெறும் குடும்பங்களைச் சேர்ந்த மாணவர்களுக்கு ஜனாதிபதி நிதியத்தின் மூலம் வழங்கப்படும் புலமைப்பரிசில் உதவித் தொகையை நாளை (12) முதல் மாவட்ட மட்டத்தில் செயற்படுத்த ஏற்பாடுகள் செய்யப்பட்டுள்ளன.
+
+கொழும்பு மாவட்டத்தில் மாணவருக்கு புலமைப்பரிசில்கள் வழங்கும் நிகழ்வு கடந்த ஜூன் 19ஆம் திகதி ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் அலரி மாளிகையில் இடம்பெற்றதுடன் ஏனைய 24 மாவட்டங்களுக்கான புலமைப்பரிசில்  வழங்கும் நிகழ்வு நாளை முதல் நாடளாவிய ரீதியில் நடைபெறவுள்ளது. R
+
+◼️
+
+[Data](articles/71670baa.json)
+
+---
+
+### A gazette notification included in the new regulations for speed simula
 
 *2024-07-11 23:06:08* · [`adalk`](https://www.ada.lk/breaking_news/වේග-සිමා-සඳහා-නව-රෙගුලාසි-ඇතුළත්-ගැසට්-නිවේදනයක්/11-410750) · `si`
 
-වර්තමානයේ ආරම්භ කර තිබෙන වැඩවර්ජන සැබෑ වෘත්තීය අයිතිවාසිකම් වෙනුවෙන් නොව දේශපාලන අවශ්‍යතා මත සිදු වන්නක් බව ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා පැවසීය.
+Transport Minister Lasantha Alagiyawanna addressed ongoing strikes, stating they're not about genuine professional rights but rather political needs. He announced new regulations for speed limits to curb road accidents, set to be published in two weeks. Additionally, he mentioned initiatives to boost transport productivity, including a modern bus stand and funding for road control machinery. Road safety programs, teacher manuals for school-level forums, and a medal program are also part of efforts to reduce accidents, which numbered 2214 with 2321 fatalities in 2023.
 
-එසේම මාර්ග අනතුරු අවම කර ගැනීම සඳහා වේග සීමා සම්බන්ධයෙන් අවශ්‍ය කෙරෙන රෙගුලාසි ඇතුළත් ගැසට් පත්‍රය ඉදිරි සති දෙක ඇතුළත නිකුත් කිරීමට තීරණය කර තිබෙන බව ද ඒ මහතා සඳහන් කළේය.
+🟩
 
-ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (11) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Minister of Transport Lasantha Alagiyawanna said that the strikes which have commenced today are not for real professional rights, said Minister of Transport Lasantha Alagiyawanna.
 
-ප්‍රවාහන ක්ෂේත්‍රයේ ඵලදායීතාවය ඇති කිරීම වෙනුවෙන් මේ වන විට අප විසින් වැඩසටහන් රාශියක් ආරම්භ කර තිබෙනවා. ඊට සමගාමීව කඩවත බස් නැවතුම්පළ අගොස්තු මාසයේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් විවෘත කිරීමට නියමිතයි. මෙම බස් නැවතුම්පල තුළ නවීන ප්‍රවාහන කළමනාකරණ ක්‍රමවේද සහ නවීන තාක්ෂණය ද යොදා ගෙන තිබෙනවා.
+He also said that the Gazette, which includes the required regulations regarding the speed limits to minimize road accidents, has decided to be issued within the next two weeks.
+
+Minister of Transport Lasantha Alagiyawanna made this statement participating at a press conference held at the Presidential Media Center today (11).
+
+We have launched a number of programs to establish productivity in the field of transport. At the same time, the bus stand will be opened under the patronage of President Ranil Wickremesinghe. In this bus stand has been used modern transport management systems and modern technology.
 
 ...
 
 [Data](articles/e4b4ceb8.json)
 
+[Extended Data](ext_articles/e4b4ceb8.ext.json)
+
 ---
 
-### කොම්පඤ්ඤවීදිය ගුවන් පාලම ජනපති අතින් ජනතා අයිතියට
+### Slave Island fuel vested with the public
 
 *2024-07-11 22:57:54* · [`adalk`](https://www.ada.lk/picture_story/කොම්පඤ්ඤවීදිය-ගුවන්-පාලම-ජනපති-අතින්-ජනතා-අයිතියට/10-410748) · `si`
 
-ප්‍රවාහන හා මහාමාර්ග අමාත්‍යංශය මගින් රුපියල් මිලියන 5278 ක වියදමින් ඉදිකළ කොම්පඤ්ඤවීදිය හා විනිසුරු අක්බාර් මාවත අතර දුම්රිය මාර්ගයට ඉහළින් ඉදිකරන ලද ගුවන් පාලම් ව්‍යාපෘතියේ දෙවන අදියර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් අද (11) විවෘත කෙරිණි .
+President Ranil Wickremesinghe inaugurated the second phase of a railway line from Szan Island to Justice, costing Rs. 5278 million, aiming to reduce delays and congestion caused by closed train gates. This project, part of a larger initiative including a flyover near Gallemadora, aims to boost the national economy by improving connectivity in Slave Island, a bustling area with government offices, hospitals, and more.
 
-දෛනික දුම්රිය ගමන්වාර 109 ක් සඳහා දුම්රිය ගේට්ටු වසා තැබීම නිසා සිදුවන ප්‍රමාදය හා මාර්ග තදබදය මඟහරවා ගැනීම ඉලක්ක කර මාර්ග සංවර්ධන අධිකාරිය විසින් සිදු කරන මෙම ව්‍යාපෘතියේ ඉදිකිරීම් කටයුතු සිදු කළේ මාගා ඉංජිනේරු සමාගම (Maga Engineering) විසිනි.
+🟩
 
-රජයේ කාර්යාල, රෝහල්, ආගමික ස්ථාන, ආපනශාලා, චිත්‍රපට ශාලා ඇතුළු විවිධ ආයතනයන්ගෙන් සමන්විත ඉතා කාර්යබහුල වාණිජ නාගරික ප්‍රදේශයක් වන කොම්පඤ්ඤවීදිය ප්‍රදේශයේ පිහිටි දුම්රිය හරස් මාර්ගය හේතුවෙන් දෛනිකව පැය 3කට ආසන්න කාලයක් අපතේ යන බව නිරීක්ෂණය වී තිබිණ.
+President Ranil Wickremesinghe was opened today (11) the second stage of the railway line between Szan Island and Justice, the Railway Path was constructed at a cost of Rs. 5278 million.
 
-...
+The construction of the project was aimed at overlooking the delay and road congestion due to closing the train gates for 109 train trains.
+
+It was observed that the railway crossing in Slave Island, a busy commercial suburbs, including government offices, hospitals, restaurants, film halls, was a waste of almost 3 hours daily.
+
+According to the completion of the flyover project towards Gallemadora towards Galleuwa and the Presidential Secretariat, the propaganda is able to join the national economy.
+
+◼️
 
 [Data](articles/9bb0b451.json)
 
+[Extended Data](ext_articles/9bb0b451.ext.json)
+
 ---
 
-### සනත් හා ගාම්භීර් ගැටුමට දින හා ස්ථාන නියම වෙයි
+### Sanath and Gambhir clash are specified
 
 *2024-07-11 22:49:46* · [`adalk`](https://www.ada.lk/sports/සනත්-හා-ගාම්භීර්-ගැටුමට-දින-හා-ස්ථාන-නියම-වෙයි/9-410747) · `si`
 
-ඉන්දීය ක්‍රිකට් කණ්ඩායමේ ශ්‍රී ලංකා තරග සංචාරයේ තරග කාල සටහන අද (11දා)එළි දැක්විණි.
+Sanath and Gambhir, key figures in cricket, are set to face off in a three-match Twenty20 series at Pallekele Stadium, Kandy, starting from August 1st at the Colombo R Premadasa Stadium. Matches will be played under floodlights, marking the first international tournament featuring the Indian and Sri Lankan teams since the appointment of a new Indian coach.
 
-ඒ අනුව තරගාවලියේ තරග 3කින් යුත් විස්සයි20 තරගාවලිය මහනුවර පල්ලේකැලේ ක්‍රීඩාංගණයේදී පැවැත්වීමට නියමිතය. එහි පළමු තරඟය එළැඹෙන තරංග ඒ ලැබෙන 26 දා පැවැත්වෙන අතර දෙවනි හා තෙවැනි තරග පිලිවෙලින්  27හා 29 දෙදින පැවැත්වීමට නියමිතය.
+🟩
 
-මෙම සියලු තරඟ රාත්‍රී තරග ලෙස පැවැත්වීමට නියමිතය. අනතුරුව තාංග තුනකින් යුත්තෙක් දින තරගාවලිය අගෝස්තු 01දා ආරම්භ වන අතර එම සියලු තරඟ කොළඹ ආර් ප්‍රේමදාස ක්‍රීඩාංගනයේදී පැවැත්වේ. මෙහි තරග පිළිවෙලින් අගෝස්තු 01,04 හා 07 යන තෙදින තුළදී පැවැත්වේ.මෙම සියලු තරග දිවා රාත්‍රී තරග ලෙස පැවැත්වෙයි.
+The meeting schedule was released today (11).
 
-ඉන්දිය කණ්ඩායමේ නව පුහුණුකරු ලෙස ගෞතම් ගාම්භීර් මෙන්ම ශ්‍රී ලංකා කණ්ඩායමෙ නව අතුරු පුහුණුකරු ලෙස සනත් ජයසූරිය පත්වීමෙන් පසුව ඔවුන් දෙදෙනා යටතේ ඉන්දීය හා ශ්‍රි ලංකා කණ්ඩායම් මුහුණ දෙන පළමු අන්තර්ජාතික තරගාවලිය මෙය වෙයි.
+Accordingly, the 3-match Twenty20 tournament will be held at Pallekele Stadium, Kandy. The first match will be held on the 26th and 29th and the third matches will be held at the age of 27 and 29.
+
+All these competitions are to be held at night. Thereafter the three-talak day tournament will commence on August 01 and all the competitions will be held at the Colombo R Premadasa Stadium. The competitions will be held on August 01 ,04 and 07, respectively.
+
+This is the first international tournament facing Indian and Sri Lankan teams as the new trainer of the Indian team.
 
 ◼️
 
 [Data](articles/b45b6271.json)
+
+[Extended Data](ext_articles/b45b6271.ext.json)
 
 ---
 
@@ -103,6 +137,24 @@ University non-academic workers are strike on more than 2 months on several dema
 [Data](articles/242502cd.json)
 
 [Extended Data](ext_articles/242502cd.ext.json)
+
+---
+
+### වනිඳු නායකත්වයෙන් ඉල්ලා අස්වෙයි
+
+*2024-07-11 22:28:33* · [`adalk`](https://www.ada.lk/sports/වනිඳු-නායකත්වයෙන්-ඉල්ලා-අස්වෙයි/9-410745) · `si`
+
+තුන් ඉරියව් ක්‍රීඩක වනිඳු හසරංග ශ්‍රී ලංකා විස්සයි20 නායකත්වයෙන් ඉල්ලා අස්වීමට තිරණය කර ඇති බව ශ්‍රි ලංකා ක්‍රිකට් ආයතනය නිවේදනය කරයි. වනිඳු විස්සයි 20 කණ්ඩායමේ නායකත්වය මාස 6කට ආසන්න කාලයක් දැරූ අතර ලෝක කුසලාන තරගාවලියේදි ශ්‍රි ලංකා කණ්ඩායමේ අදක්ෂ ක්‍රීඩා විලාශය හේතුවෙන් වනිඳුට දැඩි දෝෂාරෝපන එල්ල විය.
+
+තමන් නායකත්වයෙන් ඉවත්වීමට ගත් තීරණය ශ්‍රී ලංකා ක්‍රිකට් හි යහපත වෙනුවෙන් ගත් තීරණයක් බවත් ක්‍රීඩකයෙක් ලෙස කණ්ඩායමට තම උපරිමය ලබාදෙන බවත් වනිඳු සඳහන් කළේ යැයි ක්‍රිකට් ආයතනය නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+
+ශ්‍රී ලංකාව විස්සයි20 ලෝක කුසලානයෙන් ඉක්මනින් ඉවත්වීම නායකයා ලෙස තමාටත් කණ්ඩායමටත් කනගාටුදායක සිදුවීමක් වූ  නමුත් තරගාවලිය වෙනුවෙන් වෙනුවෙන් හොඳම කණ්ඩායම තමන්ට ලබාදුන් බවත් වනිඳු පැවැසීය.
+
+ශ්‍රී ලංකාව හසරංග යටතේ ක්‍රීඩා කළ විස්සයි20 තරග 10න් හයක්ම ජයගෙන තිබේ.
+
+◼️
+
+[Data](articles/67724558.json)
 
 ---
 
@@ -2317,49 +2369,5 @@ Mr. Mawatha, Ranasinghe is a son of the former Chief Justice of the country.
 [Data](articles/22e75ecd.json)
 
 [Extended Data](ext_articles/22e75ecd.ext.json)
-
----
-
-### Sri Lanka Hayleys subsidiary signs with BoI to export coconut water concentrate
-
-*2024-07-11 12:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-hayleys-subsidiary-signs-with-boi-to-export-coconut-water-concentrate-171703/) · `en`
-
-ECONOMYNEXT – Hayleys Nature Nest (PVT) Ltd, a newly incorporated subsidiary of Hayleys Plc, has signed an agreement with Sri Lanka’s Board of Investment to produce frozen concentrated coconut water for the export market.
-
-“Hayleys Nature Nest (PVT) Ltd has signed an agreement with BoI to establish a project to produce frozen concentrated coconut water for the export market, with an investment of US$5.378 million,” the BoI said on social media platform X (twitter).
-
-Sri Lanka is the fourth-largest exporter of coconut products to the world, according to its Export Development Board. “Among the most popular Sri Lankan coconut exports to the global market are desiccated coconut, virgin coconut oil and coconut water,” it said.
-
-Sri Lanka earns 3.4bn from coconut water export in Feb: Minister
-
-Coconut accounts for approximately 12 percent of agricultural produce in the island, with the total land area under cultivation covering 409,244 hectares.
-
-...
-
-[Data](articles/d778d20a.json)
-
-[Extended Data](ext_articles/d778d20a.ext.json)
-
----
-
-### The wife and two daughters killed
-
-*2024-07-11 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198698) · `si`
-
-Kyle Clifford, suspected of murdering three women with a bow in North London, was killed by John Hunt, a sports publisher from BBC, along with the victims' family members. The incident occurred at the victims' home in Hertfordshire.
-
-🟩
-
-Police have arrested the suspect, Kyle Clifford, killing three women using a bow in North London in England.
-
-The suspect was assassinated by BBC's famous sports publishers, John Hunt, the wife and daughters of the two daughters.
-
-They had attacked the three women at their home in Herrtfordshire.
-
-◼️
-
-[Data](articles/110668b2.json)
-
-[Extended Data](ext_articles/110668b2.ext.json)
 
 ---

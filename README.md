@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 02:54:18**
+As of **2024-07-12 03:05:18**
 
 ## Newspaper Stats
 
-*Scraped **34,874** Articles*
+*Scraped **34,883** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 340
 newsfirstlk | 363
 islandlk | 1,957
 economynextcom | 2,068
-dailyftlk | 2,195
+dailyftlk | 2,203
 adalk | 3,146
 adaderanalk | 4,006
-tamilmirrorlk | 4,169
+tamilmirrorlk | 4,170
 dailymirrorlk | 4,733
 virakesarilk | 5,459
 adaderanasinhalalk | 5,802
@@ -26,11 +26,161 @@ adaderanasinhalalk | 5,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,874 (100.0%) of 34,874 articles have been extended.
+34,874 (100.0%) of 34,883 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
+
+### Ranil immature, not crafty says AKD
+
+*2024-07-12 02:52:43* · [`dailyftlk`](https://www.ft.lk/news/Ranil-immature-not-crafty-says-AKD/56-764193) · `en`
+
+NPP leader Anura Kumara Dissanayake says confusion and doubts have been sowed among citizens regarding the Presidential election
+
+Accuses President Ranil Wickremesinghe of amusing himself by creating confusion and mistrust among MPs and people
+
+Criticises certain UNP members for adding to the confusion by suggesting that Wickremesinghe should be allowed to retain his position
+
+Points out none of Wickremesinghe’s schemes have ever succeeded and his efforts to delay elections are unlikely to succeed either
+
+National People’s Party (NPP) leader Anura Kumara Dissanayake has said it is likely that succeeding President Ranil Wickremesinghe would already be home having lost the Presidential election by the time the constitutional amendment bill proposed by the Government concerning the Presidency is added to the Parliamentary agenda.
+
+...
+
+[Data](articles/f668edb4.json)
+
+---
+
+### Legal battle over Deshabandu Thennakoon’s IGP appointment continues in SC
+
+*2024-07-12 02:50:24* · [`dailyftlk`](https://www.ft.lk/news/Legal-battle-over-Deshabandu-Thennakoon-s-IGP-appointment-continues-in-SC/56-764192) · `en`
+
+Saliya Peiris PC representing YJA says Deshabandu Thennakoon’s nomination and appointment as IGP was wrongful and arbitrary
+
+Shamil Perera PC referring to the Easter Sunday attack emphasises that an officer identified as having neglected his responsibilities is unfit to be appointed as IGP
+
+Counsel Manisha Kumarasinghe claims Thennakoon was appointed despite accusations of wrongdoing and in contravention to the Establishment Code
+
+In a fundamental rights petition filed by the Young Journalists Association challenging the appointment of Deshabandu Thennakoon as the Inspector General of Police, Saliya Peiris PC argued that both the appointment itself and President Ranil Wickremesinghe’s nomination of Thennakoon to the post, submitted to the Constitutional Council, were arbitrary.
+
+...
+
+[Data](articles/0a0a8e05.json)
+
+---
+
+### Bandaranaike Academy for Leadership & Public Policy launches ‘Executive Credential in Leadership & Public Policy’ course
+
+*2024-07-12 02:48:25* · [`dailyftlk`](https://www.ft.lk/news/Bandaranaike-Academy-for-Leadership-Public-Policy-launches-Executive-Credential-in-Leadership-Public-Policy-course/56-764191) · `en`
+
+The Bandaranaike Academy for Leadership & Public Policy (BALPP) is the first and premier institute in Sri Lanka for education and training on leadership skills with public policy as a core discipline.
+
+Beginning its second year of operations, the BALPP is now launching a new flagship course: ‘Executive Credential in Leadership & Public Policy’ (ECLPP), in October 2024.
+
+...
+
+[Data](articles/09bfeb13.json)
+
+---
+
+### Sri Lanka and China sign agreement to transform education sector
+
+*2024-07-12 02:47:45* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-China-sign-agreement-to-transform-education-sector/56-764190) · `en`
+
+Treasury Secretary Mahinda Siriwardana exchange the agreement with China International Development Cooperation Agency Vice President Yang Weiqun in Beijing
+
+Initial phase will see advanced smart classroom solutions with interactive high-definition distance learning features in 900 classrooms across 500 schools
+
+The Government yesterday signed a Letter of Exchange with the China International Development Cooperation Agency (CIDCA) to transform the education sector.
+
+At a ceremony in Beijing, Treasury Secretary Mahinda Siriwardana signed on behalf of the Government and for CIDCA, its Vice President Yang Weiqun.
+
+...
+
+[Data](articles/a7395296.json)
+
+---
+
+### Cabinet clears draft Bill to convert estate housing areas into villages
+
+*2024-07-12 02:45:50* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-clears-draft-Bill-to-convert-estate-housing-areas-into-villages/56-764189) · `en`
+
+In a significant move to improve the living conditions of those residing in estate housing areas, the Cabinet of Ministers on Tuesday approved directing the Legal Draftsman to drafting a new Bill aimed at converting estate housing areas into villages.
+
+The move aims to ensure that residents of estate line rooms receive the same level of services and dignity as those living in villages.
+
+“Currently, residents of estate houses and line rooms in estate areas are not adequately provided with rural-level services by State institutions. The new law seeks to amalgamate these estate houses and line rooms into villages, thereby ensuring they are treated with dignity and respect,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
+
+...
+
+[Data](articles/f27add12.json)
+
+---
+
+### Global textiles sourcing exhibition, 15th Intex in Colombo from 7-9 Aug.
+
+*2024-07-12 02:44:51* · [`dailyftlk`](https://www.ft.lk/business/Global-textiles-sourcing-exhibition-15th-Intex-in-Colombo-from-7-9-Aug/34-764188) · `en`
+
+The premier international textile sourcing platform in South Asia returns to Colombo for its 10th edition.
+
+This year, Intex Sri Lanka which will be held on 7-8-9 August 2024, is expanding across four halls at BMICH to support the industry to achieve the $ 8 billion garment export target by 2025. This dedicated trade show empowers Sri Lankan businesses to widen their product range, strengthen exports via networking with international suppliers and consolidating intra-regional partnerships to enable manufacturing through collaboration.
+
+A must-attend event, this sourcing and trading expo enables the Sri Lankan RMG industry to source a vast array of natural and manmade textiles, trims, accessories, dyes, chemicals and software solutions by connecting with over 200 suppliers from over 15 countries with country pavilions from India, Taiwan, Pakistan, China as well as textile showcases by Korea and Japan.
+
+...
+
+[Data](articles/c4243cba.json)
+
+---
+
+### Ceylon Association of Shipping Agents to hold 58th AGM today
+
+*2024-07-12 02:43:15* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Association-of-Shipping-Agents-to-hold-58th-AGM-today/34-764187) · `en`
+
+The Ceylon Association of Shipping Agents (CASA), a vital organisation within the Sri Lankan shipping industry, will be holding its 58th Annual General Meeting today.
+
+The event is expected to draw a large crowd, with over 500 participants anticipated at the Grand Marquee – Taj Samudra. Gracing the occasion as the Chief Guest will be the Ports, Shipping and Aviation Minister Nimal Siripala De Silva. Several other distinguished guests from both the public and private sectors are also expected to attend.
+
+CASA, established in 1944 as the Ceylon Shipping Committee, has served as a steadfast voice for the Sri Lankan shipping industry. The association’s members represent all international shipping lines that call upon Sri Lankan ports, a testament to the country’s strategic location along major international shipping routes.
+
+...
+
+[Data](articles/9296590a.json)
+
+---
+
+### Webinar series on “Intellectual Property and Business Competitiveness”
+
+*2024-07-12 02:42:53* · [`dailyftlk`](https://www.ft.lk/business/Webinar-series-on-Intellectual-Property-and-Business-Competitiveness/34-764186) · `en`
+
+World Intellectual Property Organisation (WIPO) and The National Chamber of Commerce of Sri Lanka (NCCSL) in cooperation with the National Intellectual Property Office (NIPO) of Sri Lanka and The International Trade Centre (ITC) are organising an ONLINE webinar series titled “Intellectual Property and Business Competitiveness” from 16 to 19 July.
+
+These virtual sessions will be conducted via Zoom from 3:30 p.m. to 5:30 p.m. during four consecutive days commencing on 16 to 19 July. The objective of the introductory program would be to create awareness about the importance of Intellectual Property Management highlighting how intellectual property protects innovations, enhances business competitiveness, generates revenue, encourages innovation, builds brand reputation, attracts investment, and provides legal recourse.
+
+...
+
+[Data](articles/16cfe63e.json)
+
+---
+
+### ’ஹிஜாப் அணிந்து எழுதியோரின் பெறுபேறுகளை வெளியிடவும்’
+
+*2024-07-12 02:27:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிஜாப்-அணிந்து-எழுதியோரின்-பெறுபேறுகளை-வெளியிடவும்/175-340269) · `ta`
+
+அதிபர் போட்டிப் பரீட்சையில்  ஹிஜாப் அணிந்து பரீட்சை எழுதினார்கள் என தெரிவித்து மேல் மாகாணத்தில் 13 பரீட்சார்த்திகளின் பரீட்சை பெறுபேறுகள் இதுவரை வெளியிடப்படாமல் உள்ளன என குறிப்பிட்ட   ஐக்கிய மக்கள் சக்தி  எம்.பி.யான முஜிபுர் ரஹ்மான், அவர்களின் பரீட்சை பெறுபேற்றை வெளியிட்டு அதிபர் வெற்றிடம் காணப்படும் பாடசாலைகளுக்கு அவர்களை நியமிக்க வேண்டும் வேண்டுகோள்  விடுத்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (11)  இடம்பெற்ற வாய்மூல விடைக்கான வினா  நேரத்தின்போதே   இந்த வேண்டுகோளை விடுத்தார்.
+
+2023 ஓகஸ்ட் மாதம் இடம்பெற்ற அதிபர் பரீட்சை பெறுபேறு கடந்த மே மாதம் வெளிவந்தது.  அதன்போது மேல்மாகாணத்தைச்சேர்ந்த 13 பரீட்சார்த்திகளின்  பரீட்சை பெறுபேறு இரத்துச் செய்யப்பட்டுள்ளதாக அறிவிக்கப்பட்டிருந்தது. அந்த 13 பரீட்சார்த்திகளும்  ஹிஜாப் அணிந்து பரீட்சை எழுதியதாலே பரீட்சை பெறுபேறு இடை நிறுத்தப்பட்டுள்ளது.
+
+இது தொடர்பாக இந்த சபையில் இதற்கு முன்னரும் நான் கேட்டபோது, அவர்களின் பெறுபேறுகளை விரைவாக வெளியிட நடவடிக்கை எடுப்பதாக கல்வி அமைச்சர்  தெரிவித்திருந்தார்.
+
+...
+
+[Data](articles/93adcb3c.json)
+
+---
 
 ### It is impossible to fulfill the draft
 
@@ -2101,217 +2251,5 @@ Sabry was on an official visit to Singapore from July 7-9 at the invitation of M
 [Data](articles/8f2c0ffd.json)
 
 [Extended Data](ext_articles/8f2c0ffd.ext.json)
-
----
-
-### Hirunika still released on bail
-
-*2024-07-11 14:57:31* · [`adalk`](https://www.ada.lk/breaking_news/හිරුණිකාට-අදත්-ඇප-නෑ/11-410739) · `si`
-
-Hirunika Premachandra, a former parliamentarian, was granted bail after being sentenced to three years in prison. She faced 18 charges related to her abduction in 2015, which were recently dismissed by the Colombo High Court. Despite claiming judicial bias, she awaits her prescribed punishment. The Attorney General, represented by Nalinda Indatissa, was involved in the case but no further details about the outcome were provided.
-
-🟩
-
-Former Parliamentarian Premacharandra, who was sentenced to three years in prison, was released on bail.
-
-The Colombo High Court recently condemned 18 accusations of Hirunika Premachandra who was abducted by a black defender in December 21, 2015.
-
-Petitioner Hirunika Premachandra, who points out that the High Court Judge is guilty and the judge who has been imposed on his accuses, asks for his prescribed punishment and will free themselves from their accusations.
-
-Attorney General of Attorney General, Attorney-at-Law University, who appeared on behalf of the Attorney General Nalinda Indatissa, who had been taken to the Attorney General Nalinda Indatissa, summoned to the Attorney General Nalinda Indatissa.
-
-The judge decided to inquire into the respondents on July 15, appointed on July 15.
-
-◼️
-
-[Data](articles/d991a639.json)
-
-[Extended Data](ext_articles/d991a639.ext.json)
-
----
-
-### Government attempts to bring an emergency bill to the country - Kiriella
-
-*2024-07-11 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/188218) · `ta`
-
-The government aims to amend the constitution for a five-year presidential term through an emergency bill, despite the Supreme Court's confirmation of the same term limit. Opposition leader Lakshman Kiriella suspects Presidential intervention due to national unrest. He questions the urgency of revisiting the constitutional amendment, suggesting potential misuse of the emergency clause for political gains rather than addressing constitutional clarity.
-
-🟩
-
-The government is trying to submit an emergency bill to the High Court for amendment to the constitution for five years.
-
-I suspect that the President will take some action as the President and the Executive Officer, based on the chaos within the country, ”said Lakshman Kiriella of the Opposition.
-
-He was speaking at the time of the House adjournment motion on the presidential election in Parliament on Thursday (11).
-
-The Supreme Court has confirmed the presidency three times as 5 years. So there is no issue in connection with the president's term. The United States Constitution is 250 years old.
-
-Nothing of that enlightenment has been entered into the constitution. This is because the US High Court is considered part of the constitution of the country.
-
-There is no Constitution in Big Britain. The constitution of the country is customary and case judgments.
-
-If the Supreme Court ruled that the president's term in our country is five years, it is part of the constitution.
-
-...
-
-[Data](articles/1e9aacd7.json)
-
-[Extended Data](ext_articles/1e9aacd7.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-07-11 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/188219) · `ta`
-
-On July 11, the US dollar bought 299.0467 rupees and sold for 308.3411 rupees.
-
-🟩
-
-The US dollar purchasing price was 299.0467 rupees and the sales price were Rs 308.3411 on Thursday (July 11).
-
-◼️
-
-[Data](articles/f17af81c.json)
-
-[Extended Data](ext_articles/f17af81c.ext.json)
-
----
-
-### Death sentence for husband killing wife
-
-*2024-07-11 14:43:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவியை-கொன்ற-கணவனுக்கு-மரண-தண்டனை/175-340239) · `ta`
-
-A man was sentenced to death by the Tangalle High Court for assaulting his wife in 2006. The judge found him guilty based on his confession that he caused her injury by dropping a coconut on her head.
-
-🟩
-
-The Tangalle High Court on Thursday (11) was sentenced to death for her husband who was assaulted by his wife.
-
-Tangalle High Court Judge Udhesh Ranatunga on Thursday (11) sentenced Beliatta Pradeep Kumara (41) to be convicted of a case in Tangalle's High Court in connection with the 2006 attack on his wife at Beliatta at Beliatta.
-
-The husband had confessed that the coconut had fallen into his wife's head.
-
-◼️
-
-[Data](articles/3b9d746d.json)
-
-[Extended Data](ext_articles/3b9d746d.ext.json)
-
----
-
-### Red light from railway strikers
-
-*2024-07-11 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198705) · `si`
-
-Railway Masters Association warns of possible strike due to unresolved employee demands, promising no disruption but hinting at immediate action if issues aren't addressed promptly.
-
-🟩
-
-The Railway Masters Association (OIC) says that if the entire railway service will never hesitate to a struggle to a struggle.
-
-The President of the Association, Sumedha Somaratne said that the railway employees will not be a disruption and prompt solutions for their demands.
-
-If not, he said the executive council would meet today.
-
-◼️
-
-[Data](articles/2847a0cb.json)
-
-[Extended Data](ext_articles/2847a0cb.ext.json)
-
----
-
-### Sri Lanka to appoint new police unit to safeguard investors
-
-*2024-07-11 14:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-appoint-new-police-unit-to-safeguard-investors-171729/) · `en`
-
-ECONOMYNEXT – Sri Lanka is creating a new Police unit for investment matters, Police Media Spokesman, Nihal Thalduwa said.
-
-“There will be a Police unit covering investment, and we are discussing it with the ministry,” Thalduwa told EconomyNext.
-
-At a meeting held at the Ministry of Investment Promotion Minister Dilum Amunugama had informed the Police about problems investors face.
-
-Thalduwa said that a senior DIG had been appointed two or three months ago to head the unit and that a few officers have been employed.
-
-The special unit, under the leadership of Senior Deputy Inspector General of Police Asanka Karavita, aims to solve problems faced by local and foreign investors in the investment sector.
-
-This unit will be deployed to take action against acts of extortion, and harassing of investors.
-
-Previously, the Sri Lanka Police has entered into agreements with other entities such as the central bank’s Financial Intelligence Unit.
-
-◼️
-
-[Data](articles/b3e49abb.json)
-
-[Extended Data](ext_articles/b3e49abb.ext.json)
-
----
-
-### Pushing the mother: daughter kidnapping
-
-*2024-07-11 14:30:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாயை-தள்ளிவிட்டு-மகள்-கடத்தல்/175-340238) · `ta`
-
-A 15-year-old boy, along with his father, allegedly kidnapped a girl after pushing her mother aside. The girl had previously escaped with him. They were caught when the girl was rescued, but the suspects fled, leading to ongoing investigations.
-
-🟩
-
-Budala police said that the girl, who was abducted in a three -wheeler on Tuesday (09), was investigating the arrest of a young man at the age of 15 and 10 months.
-
-This little girl had previously fled with the suspected young man. The police rescued the princess and subjected to the righteousness.
-
-From there, while traveling home in another three -wheeler, the young man and his father, his father, stopped the three -wheeler, pushed the girl's mother and abducted the girl.
-
-The father of a three -wheeler, a young man, has been arrested by the police following a complaint regarding the incident.. However, the Budhala police said that the Avilanan had left the area and that further investigations are being carried out.
-
-◼️
-
-[Data](articles/6e26c7f7.json)
-
-[Extended Data](ext_articles/6e26c7f7.ext.json)
-
----
-
-### Hirunika's request protesting attorney General
-
-*2024-07-11 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198704) · `si`
-
-Hirunika Premachandra, protesting against the Attorney General, requested bail for former MP Premacharandra, sentenced to three years but released on bail pending appeal to the Court of Appeal. The case involves 18 charges against her, including abduction in 2015, with her bail application scheduled for the 15th.
-
-🟩
-
-Former Parliamentarian Premacharandra, who was sentenced to three years in prison, was released on bail.
-
-The objections were handed over by the State Counsel on the occasion as the request was called to Colombo High Court Judge Amal Ranaraja today.
-
-The judge ordered that Mrs. Hirunika Premachandra's bail application will be held on the 15th of this month.
-
-The Colombo High Court recently condemned 18 accusations of Hirunika Premachandra who was abducted by a black defender in December 21, 2015.
-
-She made this bail request to release him on bail until he appealed and released himself to the Court of Appeal.
-
-◼️
-
-[Data](articles/45452039.json)
-
-[Extended Data](ext_articles/45452039.ext.json)
-
----
-
-### Sri Lankan passenger death: flight landed in Karachi
-
-*2024-07-11 14:13:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பயணி-மரணம்-விமானம்-கராச்சியில்-தரையிறங்கியது/175-340237) · `ta`
-
-A Sri Lankan passenger died during a flight from Dubai to Colombo, which then landed in Karachi due to her deteriorating health.
-
-🟩
-
-The flight landed at the Karachi airport after the health of a female passenger on a foreign flight from Dubai to Colombo.
-
-◼️
-
-[Data](articles/ae8b54d8.json)
-
-[Extended Data](ext_articles/ae8b54d8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 08:14:03**
+As of **2024-07-11 08:23:59**
 
 ## Newspaper Stats
 
-*Scraped **34,703** Articles*
+*Scraped **34,705** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,957
 economynextcom | 2,049
 dailyftlk | 2,183
 adalk | 3,127
-adaderanalk | 3,986
+adaderanalk | 3,988
 tamilmirrorlk | 4,139
 dailymirrorlk | 4,733
 virakesarilk | 5,422
@@ -26,11 +26,43 @@ adaderanasinhalalk | 5,769
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,702 (100.0%) of 34,703 articles have been extended.
+34,703 (100.0%) of 34,705 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### Police Sergeant fatally shoots himself with service weapon
+
+*2024-07-11 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100434/police-sergeant-fatally-shoots-himself-with-service-weapon) · `en`
+
+A 55-year-old Police Sergeant on duty at the police post in the Ruwanweli Maha Seya in Anuradhapura has reportedly taken his own life by shooting himself with his service weapon last night.
+
+◼️
+
+[Data](articles/b409c7dc.json)
+
+---
+
+### Showery conditions to enhance in next few days
+
+*2024-07-11 08:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100433/showery-conditions-to-enhance-in-next-few-days) · `en`
+
+The Meteorology Department says showery conditions in the South-western part of the country are expected to be enhanced in the next few days from tomorrow (12 July).
+
+Several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Showers or thundershowers may occur at a few places in Eastern and Uva provinces in the evening or night, it said.
+
+Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/71c198d7.json)
+
+---
 
 ### A terrible accident in Nuwara Eliya
 
@@ -1028,23 +1060,33 @@ The train should be opened from Colombo Fort to Polgahawela railway station.
 
 ---
 
-### රට නිවැරදි ආර්ථික ක්‍රමයක් ඔස්සේ ඉදිරියට ගෙන නොගියහොත් ලැබු ජයග්‍රහණ නැති වෙනවා
+### The victories have been lost if the country did not move forward through a correct economic system
 
 *2024-07-10 19:54:54* · [`adalk`](https://www.ada.lk/breaking_news/රට-නිවැරදි-ආර්ථික-ක්‍රමයක්-ඔස්සේ-ඉදිරියට-ගෙන-නොගියහොත්-ලැබු-ජයග්‍රහණ-නැති-වෙනවා/11-410732) · `si`
 
-රට නිවැරදි ආර්ථික ක්‍රමයක් ඔස්සේ ඉදිරියට ගෙන නොගියහොත් ලැබු ජයග්‍රහණ යළි ගිලිහී යන බවත්, රටේ ගොඩනැඟෙන ආර්ථිකය බිඳ දැමීමට ඇතැම් පිරිස් විවිධ ප්‍රකාශ සිදු කරන බවත් සඳහන් කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එම අසත්‍ය ප්‍රචාරවලට හසු වුවහොත් ස්ථිර ලෙසම නැවත රටේ ආර්ථිකය කඩා වැටෙන බවද අවධාරණය කළේය.
+In his speech at the Cinnamon Development Department's launch, President Ranil Wickremesinghe emphasized the importance of a sound economic system for national progress. He highlighted the creation of a new department focused on cinnamon development as a step towards boosting the economy. The President outlined plans to enhance cinnamon cultivation, increase production, and expand the cultivation area, aiming to triple cinnamon exports. He also addressed the need for a shift from an import to an export economy to prevent future financial crises.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ ගාල්ල කරන්දෙණිය ප්‍රදේශයේ ඉදිකළ කුරුඳු සංවර්ධන දෙපාර්තමේන්තුවේ ප්‍රධාන කාර්යාලය විවෘත කිරීමේ අවස්ථාවට අද (10) පස්වරුවේ එක් වෙමිනි.
+🟩
 
-මෙරට පළමු වතාවට කුරුඳු වගාව සම්බන්ධයෙන් කුරුඳු සංවර්ධන දෙපාර්තමේන්තුව නමින් නව දෙපාර්තමේන්තුවක් ස්ථාපිත කිරීමට 2023 අයවැයෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් කළ යෝජනාව යථාර්ථයක් කරමින් එහි ප්‍රධාන කර්යාලය මෙලස විවෘත කෙරිණි.
+He stressed that if the victories were repeatedly lost to the country through a correct economic system, he said that if he was pronounced in the country, the economy of the country would be repeatedly rebuilt.
 
-කුරුඳු සංවර්ධන දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවිය දියත් කිරීම ද මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් සිදු කෙරිණි.
+The President was speaking at the opening of the Head Office of the Cinnamon Development Department, Galle today (10).
 
-කුරුඳු කර්මාන්තයේ ප්‍රවර්ධනය උදෙසා සකස් කළ දස අවුරුදු මාර්ග සිතියම හා කුරුඳු වගාව සම්බන්ධව සකස් කළ “කුරුඳු අත් පොත” තාක්ෂණික ප්‍රකාශනය ජනාධිපතිවරයා වෙත පිළිගැන්වීම ද සිදු විය.
+For the first time in Sri Lanka, President Ranil Wickremesinghe made a reality to establish a new department with cinnamon development in the 2023 budget.
+
+President Ranil Wickremesinghe was also launched the official website of the Cinnamon Development Department.
+
+The President was presented to the President the "cinnamon bowl" in connection with the ten year road map and cinnamon cultivation, which was prepared for the promotion of the cinnamon industry.
+
+President Ranil Wickremesinghe was presented to selected cinnamon entrepreneurs.
+
+Speaking further, President Ranil Wickremesinghe further said,
 
 ...
 
 [Data](articles/fa52b2ff.json)
+
+[Extended Data](ext_articles/fa52b2ff.ext.json)
 
 ---
 
@@ -2225,53 +2267,5 @@ The STF officials have also been deployed for this purpose.The seven suspects in
 [Data](articles/96194137.json)
 
 [Extended Data](ext_articles/96194137.ext.json)
-
----
-
-### At the time of fire my house was felt the value of a house
-
-*2024-07-10 13:57:56* · [`adalk`](https://www.ada.lk/breaking_news/මගේ-නිවස-ගිනිබත්-කළ-අවස්ථාවේ-නිවසක-වටිනාකම-තදින්-දැනුණා/11-410718) · `si`
-
-In a speech marking the handover of 50,000 houses to the public, President Ranil Wickremesinghe reflected on personal loss and the importance of homeownership. He highlighted the government's efforts to stabilize the economy and ensure law and order, crucial steps before implementing the housing program. The initiative aims to provide full ownership to low-income families, with the first phase granting titles to 1,070 beneficiaries by year-end. The president emphasized the significance of land ownership, drawing parallels between his own experience of losing a home and the broader societal need for security and prosperity.
-
-🟩
-
-President Ranil Wickremesinghe said that he was bowled out for the value of a house when he destroyed her home two years ago and identifying the value of the houses, "President Ranil Wickremesinghe said.
-
-The President was speaking at the inauguration of 50,000 houses to give the public ownership of 50,000 houses yesterday (09).
-
-The number of houses in 31 Colombo District was presented with the ownership of 130 houses in 31 Colombo District.
-
-According to President Ranil Wickremesinghe's concept, the 2024 budget proposals were implemented in the 2024 Budget Proposals to provide full ownership of these houses for the public ownership program and the low income families living in the apartments of Colombo.
-
-The National Housing Development Authority (NHDA) has paid Rs.The first phase of the first phase will be granted under the first phase for 50,000 beneficiary families. The National Housing Development Authority has planned to provide title deeds to 1070 beneficiaries by the end of this year.
-
-...
-
-[Data](articles/dcb89348.json)
-
-[Extended Data](ext_articles/dcb89348.ext.json)
-
----
-
-### The proposal of presidency and Parliamentary Parliamentary
-
-*2024-07-10 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198671) · `si`
-
-The Cabinet-approved proposal aims to amend the Constitution, specifically Article 62(2) and 83(b). It seeks to modify wording related to presidential tenure, proposing changes to terms like "exceeding a five-year period." This amendment is part of a broader effort to clarify and adjust the Constitution's language regarding presidential eligibility and term limits.
-
-🟩
-
-The proposal made by the Cabinet approval has been approved by the proposal made by the Constitution of the Constitution to amend the Constitution.
-
-The proposal states that there is an inception that the President of the Constitution of the Constitution, 62 (2) and 83 (b), the proposal is stated that there is an inception.
-
-The Constitution, which exceeds the word "turning out", the word "exceeding a five-year 'to remove the word" exceeding the word "the word" exceeding the word "the word" exceeding a five-year ", the Constitution is the President to create a constitutional ambratse bill to amend the word" over a five-year ".The proposal is presented.
-
-◼️
-
-[Data](articles/97bdfcf0.json)
-
-[Extended Data](ext_articles/97bdfcf0.ext.json)
 
 ---

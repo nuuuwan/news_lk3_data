@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 10:53:47**
+As of **2024-07-11 11:05:59**
 
 ## Newspaper Stats
 
-*Scraped **34,731** Articles*
+*Scraped **34,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,957
 economynextcom | 2,049
 dailyftlk | 2,183
-adalk | 3,131
+adalk | 3,132
 adaderanalk | 3,990
 tamilmirrorlk | 4,149
 dailymirrorlk | 4,733
@@ -26,43 +26,77 @@ adaderanasinhalalk | 5,774
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,723 (100.0%) of 34,731 articles have been extended.
+34,731 (100.0%) of 34,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### පිලිපීනයේ ප්‍රබල භූ කම්පනයක්
+### A powerful earthquake in the Philippines
 
 *2024-07-11 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198694) · `si`
 
-පිලිපීනයේ මින්දනාවෝ දූපත ආශ්‍රිතව ප්‍රබල භූ කම්පනයක් ඇතිවී තිබෙන බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+A strong earthquake struck Minduawi Island in the Philippines, reported to be 630 km deep, causing minimal land damage but prompting authorities to warn residents about potential aftershocks.
 
-කිලෝ මීටර් 630ක් පමණ ගැඹුරින් එම භූ කම්පනය වාර්තා වී ඇති අතර ඉන් ගොඩ බිමට හානිය අවම බව පැවසෙයි.
+🟩
 
-නමුත් පසු කම්පන සම්බන්ධයෙන් විමසිල්ලෙන් පසුවන ලෙස දූපත් වාසීන්ගෙන් බලධාරීන් ඉල්ලා සිටියි.
+International media reports that there was a powerful earthquake in Minduawi island in the Philippines.
+
+The earthquake is reported about 630 km deep, and the damage is reduced to the land.
+
+But the authorities call for the island trees to be conscious of the later shocks.
 
 ◼️
 
 [Data](articles/e93a3234.json)
 
+[Extended Data](ext_articles/e93a3234.ext.json)
+
 ---
 
-### அதானி குழுமத்தின் மன்னார் பூநகரி காற்றாலை மின் உற்பத்தி திட்டம் குறித்த எந்த விட்டுக்கொடுப்பிற்கும் தயாரில்லை - அரசாங்கம்
+### Adani Group's Mannar Poonakari Wind Power Power Program is not prepared for any concession - government
 
 *2024-07-11 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/188185) · `ta`
 
-சூழல் பாதிப்புகள் குறித்த கரிசனைகள் வெளியாகியுள்ள போதிலும் அரசாங்கத்தின் காற்றாலை மின் உற்பத்தி திட்டம் தொடர்பில் எந்த விட்டுக்கொடுப்பிற்கும் தயாரில்லை என அரசாங்ககத்தின் உயர்வட்டாரங்கள் தெரிவித்துள்ளன.
+The Sri Lankan government reaffirms its commitment to the Mannar Poonakari Wind Power Project, stating no concessions will be made despite environmental concerns. The Ministry of Power and Energy assures measures to mitigate environmental impacts, emphasizing the project's importance for sustainable energy.
 
-காற்றாலை மின்உற்பத்தி திட்டம் தொடர்பான இடம்குறித்து எந்த விட்டுக்கொடுப்பிற்கும் தயாரில்லை என தெரிவித்துள்ள மின்சக்தி மற்றும் வலுசக்தி அமைச்சக வட்டாரங்கள் சூழல் பாதிப்புகளை தவிர்ப்பதற்கான நடவடிக்கைகளை முன்னெடுப்பதற்கு மாத்திரம் அரசாங்கம் தயார் என குறிப்பிட்டுள்ளன.
+🟩
 
-மன்னார் பூநகரியில் உருவாகவுள்ள அதானிகிறீன்ஸ் நிறுவனத்தின் காற்றாலை மின் உற்பத்தி திட்டத்தினால் சூழலுக்கு பாதிப்பு  அந்த திட்டம் தொடர்பில் போதிய வெளிப்படைதன்மை இல்லை போன்ற கரிசனைகள் வெளியாகியுள்ளதுடன் இது தொடர்பில் நீதிமன்றில் மனுக்கள் தாக்கல் செய்யப்பட்டுள்ளன.
+Despite the fact that the environmental impacts have been revealed, the government's highways have said that there is no compromise on the government's wind power generation project.
 
-மன்னாருக்கு 150 க்கும் மேற்பட்ட வகை பறவைகள் வருவதற்கு காரணமான மத்திய ஆசிய பறப்புபாதையில் உருவாகவுள்ள இந்த திட்டத்திற்கு இலங்கையின் பேண்தகு எரிசக்தி அதிகாரசபை அனுமதியை கோரியுள்ளது.
+The government has said that the Ministry of Power and Power and Power and Energy has said that the government is ready to take steps to avoid environmental impacts, saying that no concession is ready for the wind power plant.
+
+The wind power generation project in Mannar, which is set to be formed in Mannar Poonakari, has been issued in the case of the impact of the environment.
+
+The Sri Lankan Energy Authority has sought permission for the project, which will be formed on the Central Asian Fair, which is responsible for the arrival of more than 150 species of birds to Mannar.
+
+However, a top official who has said that the wind power generation is more likely to be in this area, so there is no compromise.
 
 ...
 
 [Data](articles/0f9e96e0.json)
+
+[Extended Data](ext_articles/0f9e96e0.ext.json)
+
+---
+
+### නුවරඑලියේ  බස් රථ අනතුරකින් 40ක් රෝහලේ
+
+*2024-07-11 10:29:32* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑලියේ--බස්-රථ-අනතුරකින්-40ක්-රෝහලේ/11-410737) · `si`
+
+නුවරඑලිය සිට ත්‍රිකුණාමලය දක්වා සංචාරකයන් පිරිසක් රැගෙන ධාවනය කල පෞද්ගලික බස් රථයක් නුවරඑලිය ලබුකැලේ ටොප්පාස් ප්‍රදේශයේදි අනතුරට පත්විමෙන් බස් රථයේ සිටි මගීන් 40ක් පමණ තුවාල ලබා නුවරඑලිය දිස්ත්‍රික් මහ රෝහල වෙත ඇතුලත් කර ඇති බව නුවරඑලිය ජෙෂ්ඨ පොලිස් අධිකාරි අනුරුද්ධ හක්මන මහතා පවසයි.
+
+නුවරඑලිය ප්‍රදේශයේ පිහිටි ප්‍රධාන සංචාරක හෝටලයක් වන ග්‍රැන්ඩ් හෝටලයේ සේවය කරන සේවක සේවිකාවන් සංචාරයක් සදහා නුවරඑලිය සිට ත්‍රිකුණාමලය දක්වා ප්‍රවාහනය කරන අතරතුර අද (11) දින අලුයම 5 ට පමණ මෙම අනතුර සිදු වි ඇති බවයි පොලිසිය පවසයි.
+
+ධාවනය වෙමින් තිබු බස් රථයේ තිරිංග හදිසියේ ක්‍රියාවිරහිත විම නිසා බස් රථය වංගුවක් සහිත ප්‍රදේශයේදි ඉහල මාර්ගයේ සිට පහල මාර්ගයට පෙරලි මෙම අනතුර සිදු වි ඇත.
+
+අනතුරෙන් තුවාල ලැබුවන් ප්‍රදේශවාසින් සහ නුවරඑලිය පොලිසියේ නිලධාරින් එක්ව රෝහල් ගත කර ඇති අතර, තුවාලකරුවන්ගෙන් කිහිපදෙනෙකුගේ අස්ථි බිදි ඇති බවද රෝහලේ සේවකයෙකු පැවසිය.
+
+බස් රථය අනතුරට පත්වන අවස්තාවේ බස් රථයේ රියදුරා සහ සහයකයා ඇතුළු 41 දෙනෙකු ගමන් කර ඇති බවත්, අනතුර පිලිබදව නුවරඑලිය පොලිසිය පරික්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/fa6667a5.json)
 
 ---
 
@@ -84,23 +118,33 @@ The former SJB parliamentarian was sentenced to three years of rigorous imprison
 
 [Data](articles/49bf0e1b.json)
 
+[Extended Data](ext_articles/49bf0e1b.ext.json)
+
 ---
 
-### பொய்களில் சிக்கினால் நாட்டுக்கே வீழ்ச்சி
+### Falling to the country if stuck in lies
 
 *2024-07-11 10:25:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொய்களில்-சிக்கினால்-நாட்டுக்கே-வீழ்ச்சி/175-340212) · `ta`
 
-சரியான பொருளாதார முறை மூலம் நாட்டை முன்நோக்கி கொண்டு செல்லாவிட்டால் நாட்டுக்கு கிடைத்த வெற்றிகளை இழக்க நேரிடும் எனவும், நாட்டின் பொருளாதாரத்தை சீரழிக்க சிலர் பல்வேறு கருத்துக்களை வெளியிட்டு வருவதாகவும் அந்த பொய்களில் சிக்கினால் நாடு மீண்டும் நிரந்தரமாக பொருளாதாரம் வீழ்ச்சியை எதிர்கொள்ளும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe inaugurated the Cinnamon Development Department's main office in Galle Karandeniya, emphasizing the importance of a strong economic system to maintain the country's progress. He highlighted the potential risks of economic degradation due to differing views. The event marked the launch of the department, aimed at boosting the cinnamon industry, alongside the release of the "Cinnamon Manual" and certificates for selected entrepreneurs.
 
-காலி கரந்தெனிய பிரதேசத்தில் நிர்மாணிக்கப்பட்டுள்ள கறுவா அபிவிருத்தி திணைக்களத்தின் பிரதான அலுவலகத்தை புதன்கிழமை (10) பிற்பகல் திறந்து வைக்கும் நிகழ்வில் ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+🟩
 
-இந்த நாட்டில் முதல் தடவையாக கறுவா அபிவிருத்தி திணைக்களம் என்ற புதிய திணைக்களத்தை ஸ்தாபிப்பதற்கு ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் 2023ஆம் ஆண்டுக்கான வரவு செலவுத் திட்டத்தில் முன்வைக்கப்பட்ட பரிந்துரையை நடைமுறைப்படுத்தும் வகையில் அதன் பிரதான அலுவலகம் இன்று திறந்து வைக்கப்பட்டது.
+President Ranil Wickremesinghe has said that if the country is not brought forward by the right economic system, the country will lose the successes of the country and some are making various views to degrade the country's economy.
 
-கறுவா அபிவிருத்தி திணைக்களத்தின் உத்தியோகபூர்வ இணையத்தளமும் ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் திறந்து வைக்கப்பட்டது.
+The President said this at the inauguration of the main office of the Cinnamon Development Department in Galle Karandeniya on Wednesday afternoon.
+
+For the first time in this country, the main office was opened today to implement the recommendation put forward by President Ranil Wickremesinghe in the budget of 2023 to establish a new department called the Department of Cinnamon Development.
+
+The official website of the Cinnamon Development Department was also opened by President Ranil Wickremesinghe.
+
+The president was also handed over to the President to promote the Cinnamon Industry and the "Cinnamon Manual" technical publication prepared on the cinnamon work and cinnamon.
 
 ...
 
 [Data](articles/50eaf114.json)
+
+[Extended Data](ext_articles/50eaf114.ext.json)
 
 ---
 
@@ -120,19 +164,27 @@ However, 40 out of 41 individuals including the bus driver and the assistant, wh
 
 [Data](articles/1ec0253b.json)
 
+[Extended Data](ext_articles/1ec0253b.ext.json)
+
 ---
 
-### එංගලන්තය අවසන් තරගයට
+### England to final
 
 *2024-07-11 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198692) · `si`
 
-2024 යුරෝපීය කුසලාන පාපන්දු තරගාවලියේ අවසන් තරගය ට සුදුසුකම් ලැබීමට එංගලන්තය සමත් විය.
+England qualified for the European Cup final against Spain, set to take place in Berlin on Sunday, June 14th.
 
-මෙවර තරගාවලියේ අවසාන මහා තරගය ඉරිදා (14) එංගලන්තය සහ ස්පාඤ්ඤය අතර බර්ලින් නුවරදී පැවැත්වෙයි.
+🟩
+
+England was able to qualify for the final of the European Cup Football Tournament.
+
+This year's tournament will be held in Berlin among Sunday (14), between England and Spain.
 
 ◼️
 
 [Data](articles/7d3bdcf4.json)
+
+[Extended Data](ext_articles/7d3bdcf4.ext.json)
 
 ---
 
@@ -158,45 +210,59 @@ The arrested fishermen will be taken to the port of Mayiliti fishing and handed 
 
 ---
 
-### சட்டவிரோதமாக கொண்டுவரப்பட்ட  மஞ்சள் பொதிகளுடன் இருவர் கைது
+### Two arrested with illegal yellow packs
 
 *2024-07-11 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188180) · `ta`
 
-இந்தியாவிலிருந்து சட்டவிரோதமாக கொண்டுவரப்பட்ட உலர்ந்த மஞ்சள் பொதிகளுடன் கடற்படையினரால் இரண்டு பேர் கைது செய்யப்பட்டுள்ளனர்.
+Two individuals were arrested by the Navy near Pallivasalpadu for smuggling 44kg of illegally imported yellow packs (presumably turmeric) from India to Sri Lanka, valued at over 50 lakh rupees. The suspects, from Kalpitiya, were apprehended during a naval operation. The seized items and the suspects have been transferred to the Puttalam Police Station for further inquiry.
 
-மஞ்சள் பொதிகளை கடத்துவதற்கு முற்படுவதாக உடப்பு கடற்படையினருக்குக் கிடைக்கெப்பெற்ற இரகசியத் தகவலுக்கமைய தம்பபண்ணி கடற்படை உதவியுடன் நேற்று அதிகாலை பள்ளிவாசல்பாடு கடற்கரைப் பகுதியில் சுற்றிவளைப்பினை மேற்கொண்டுள்ளனர்.
+🟩
 
-இதன்போது, டிங்கி படகில் சுமார் 44 உரைகளில் 1,373 கிலோகிராம் மஞ்சள் கைப்பற்றப்பட்டுள்ளதாகவும், சந்தேகத்தின் பேரில் இருவர் கைது செய்துள்ளதாகவும் கடற்படையினர் தெரிவித்தனர்.
+Two people have been arrested by the Navy with dry yellow packs that have been illegally brought from India.
 
-இவ்வாறு கைப்பற்றப்பட்ட மஞ்சள் பொதிகள் இந்தியாவிலிருந்து இலங்கைக்கு அனுமதிப்பத்திரமின்றி சட்டவிரோதமாக கடல்மார்க்கமாக கொண்டுவரப்பட்டதாக கடற்படையினர் விசாரணையின்போது தெரிவித்தனர்.
+With the help of the Naval Navy, they were carrying out a surrounding area on the coast of Pallivasalpadu yesterday morning, according to the secret information available to the Navy.
 
-கைது செய்யப்பட்ட சந்தேக நபர்கள் இருவரும் கற்பிட்டி பகுதியைச் சேர்ந்தவர்கள் என்று கடற்படையினர் தெரிவித்தனர்.
+The Navy said that about 44 of the 44 speeches had been seized in 44 speeches in the Tinky boat and two persons were arrested on suspicion.
 
-இவ்வாறு கைப்பற்றப்பட்ட மஞ்சள் சுமார் 50 இலட்சம் ரூபாவிற்கும் அதிக பெறுமதியென தெரிவிக்கப்படுகின்றது.
+During the investigation, the navy said that the seized yellow packs were illegally brought to India without permission to Sri Lanka.
 
-...
+Navy said the two suspects were from the Kalpitiya area.
+
+The seized turmeric is worth more than 50 lakh rupees.
+
+The Navy said that the arrested suspect and the seized yellow packs and the dingi boat have been handed over to the Puttalam Police Station for further investigations.
+
+◼️
 
 [Data](articles/a5e90ddf.json)
 
+[Extended Data](ext_articles/a5e90ddf.ext.json)
+
 ---
 
-### රුවන්වැලි සෑ බිමේ ආරක්ෂාවට සිටි පොලිස් නිළධාරියකු සිය දිවි නසා ගත්තාද?
+### Did a police officer who had committed suicide by Ruwanweli Pattu Patt?
 
 *2024-07-11 09:58:39* · [`adalk`](https://www.ada.lk/breaking_news/රුවන්වැලි-සෑ-බිමේ-ආරක්ෂාවට-සිටි-පොලිස්-නිළධාරියකු-සිය-දිවි-නසා-ගත්තාද-/11-410736) · `si`
 
-අනුරාධපුර, රුවන්වැලි මහසෑය පොලිස් මුරපලේ රාජකාරි භාරව සිටි 55 හැවිරිදි පොලිස් සැරයන් වරයෙකු වෙඩි වැදී මියගොස් ඇතැයි පොලීසිය  කියයි.
+A 55-year-old police sergeant from Anuradhapura, in charge of the local police station, committed suicide under the Ruwanweli Pattu. Identified as Jayatilleka, he was part of the Udamaluwa Police sub-unit. The incident is being investigated by Udamaluwa Police, including Chief Inspector Channa Wattawa.
 
-මියගොස් ඇත්තේ  උඩමළුව පොලිසියේ රුවන්වැලි මහ සෑය උප පොලිස් ඒකකයට අනුයුක්තව සේවය කළ බුලංකුලම වත්ත, අනුරාධපුර යන ලිපිනයේ ජයතිලක(55)නැමති සැරයන්වරයෙකි.
+🟩
 
-මෙම සැරයන්වරයා  රැවන්වැලි සෑය පොලිස් මුරපොලේ රාජකාරි භාරව කටයුතු කරමින් සිටි බව පොලිසිය කියයි.
+A 55-year-old police sergeant who was in charge of the police station in Anuradhapura, Ruwanweli Maharashi.
 
-අද (11) අලුයම පහට පමණ මෙම සැරයන්වරයා පොලිස් මුරපලේ ලේ විලක් මැද වැටි සිටි බව මේ පිළිබදව පරික්ෂණ පවත්වන උඩමළුව පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරික්ෂක චන්න වැත්තෑව මහතා පැවසිය.
+The deceased has been identified as Jayatilleka (55) in the Bulanankulama Estate (55) attached to the sub-police unit at Udamaluwa Police.
 
-දිවි නසා ගැනීමක්ද වෙඩිතැබීමක් යන්න සම්බන්ධයෙන් උඩමළුව පොලිසිය වැඩිදුර පරික්ෂණ පවත්වයි.
+The sergeant was in charge of the Ravanample Seya, police said.
+
+Udamaluwa OIC Chief Inspector Channa, Chief Inspector Channa Wattawa, Chief Inspector General of Police (11).
+
+Udamaluwa Police are conducting further investigations into a shooting.
 
 ◼️
 
 [Data](articles/db5c5cf9.json)
+
+[Extended Data](ext_articles/db5c5cf9.ext.json)
 
 ---
 
@@ -2223,25 +2289,5 @@ The famous singer kin. Nayana Vasasula, the husband of Sujeewa, died and K.Sishe
 [Data](articles/3dd1a86e.json)
 
 [Extended Data](ext_articles/3dd1a86e.ext.json)
-
----
-
-### NTC to be given authority to regulate three-wheelers
-
-*2024-07-10 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/100425/ntc-to-be-given-authority-to-regulate-three-wheelers) · `en`
-
-The Minister of Transport and Highways, Bandula Gunawardana says that the clearance of the Attorney General has been received for the draft bill to amend the National Transport Commission Act.
-
-During the parliamentary session today (10), the minister stated that even though the National Transport Commission can intervene only with regard to bus fares, the act has been amended to also allow the regulation of school vans, three-wheelers and other passenger transport vehicles as well.
-
-He further emphasized that they acknowledge that three-wheelers provide a significant public service and that effective regulation is needed in that regard.
-
-“However, as we do not have the necessary authority to do that, I have amended the National Transport Commission Act.” He stated that the clearance of the Attorney General’s Department has been received, marking a crucial step towards addressing the existing situation.
-
-...
-
-[Data](articles/6bd886aa.json)
-
-[Extended Data](ext_articles/6bd886aa.ext.json)
 
 ---

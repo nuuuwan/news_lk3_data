@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 04:38:14**
+As of **2024-07-12 04:54:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,885 (100.0%) of 34,891 articles have been extended.
+34,891 (100.0%) of 34,891 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -128,21 +128,27 @@ The move aims to ensure that residents of estate line rooms receive the same lev
 
 ---
 
-### ’உலகத்துக்கு இந்தியா புத்தரை கொடுத்துள்ளது’
+### India has given Buddha to the world
 
 *2024-07-12 02:45:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகத்துக்கு-இந்தியா-புத்தரை-கொடுத்துள்ளது/175-340272) · `ta`
 
-ரஷிய பயணத்தை முடித்துக்கொண்டு பிரதமர் மோடி, இரண்டு நாள் பயணமாக ஆஸ்திரியா சென்றார். அங்கு அந்நாட்டு ஜனாதிபதி அலெக்சாண்டர் வான்டர் பெல்லன் மற்றும் பிரதமர் கார்ல் நெகம்மரை சந்தித்தார்.
+PM Modi's visit to Austria, following his Russian trip, marked a significant moment in strengthening India-Austria ties. During his two-day stay, he discussed bilateral relations and trade with President Alexander Warner Bellan and Prime Minister Karl Negumma. Additionally, Modi interacted with Indian communities in Austria, emphasizing India's contributions like Buddhism and its commitment to peace and development. This visit celebrated 75 years of Indo-Austrian friendship, highlighting a fruitful exchange of culture and knowledge between the two nations.
 
-இந்த சந்திப்பின்போது இருநாட்டு உறவு, வர்த்தகம் உள்பட பல்வேறு விவகாரங்கள் குறித்து ஆலோசிக்கப்பட்டது.
+🟩
 
-இதனை தொடர்ந்து ஆஸ்திரியா வாழ் இந்தியர்களை பிரதமர் மோடி சந்தித்தார். ஆஸ்திரியா வாழ் இந்தியர்கள் மத்தியில் பிரதமர் மோடி பேசியதாவது,
+PM Modi traveled on a two -day trip to Austria after completing Russian journey. There he met with President Alexander Warner Bellan and Prime Minister Karl Negumma.
 
-பல ஆயிரம் ஆண்டுகளாக நாம் நமது திறமை, அறிவை பகிர்ந்து வருகிறோம். நாம் உலகிற்கு புத்தரை (புத்த மதம் துறவி) கொடுத்துள்ளோம், யுத்தத்தை (போர்) கொடுக்கவில்லை. இந்தியா எப்போது அமைதி மற்றும் வளர்ச்சியை கொடுக்கிறது. இதனால் 21ம் நூற்றாண்டில் இந்தியா வலிமைபெற்று வருகிறது. எனது ஆஸ்திரிய பயணம் மிகவும் அர்த்தமுள்ளதாக அமைந்தது. 41 ஆண்டுகால காத்திருப்பு வரலாற்று சிறப்புமிக்க நிகழ்ச்சியால் நிறைவுக்கு வந்துள்ளது. இந்தியாவும் ஆஸ்திரியாவும் 75 ஆண்டுகால நட்பை கொண்டாடுகிறது என்றார்.
+During the meeting, various issues, including bilateral relations and trade, were consulted.
+
+Prime Minister Modi met Indians living in Austria. Prime Minister Modi spoke among Indians living in Austria
+
+We have been sharing our talent and knowledge for several thousand years. We have given the Buddha to the world (Buddhist monk) and not giving war (war). When does India give peace and growth. Thus India is gaining strength in the 21st century. My Austrian journey made a very meaningful. The 41 -year waiting has been completed by the historic event. He said India and Austria celebrate 75 years of friendship.
 
 ◼️
 
 [Data](articles/58420338.json)
+
+[Extended Data](ext_articles/58420338.ext.json)
 
 ---
 
@@ -296,67 +302,93 @@ The 19th Amendment of the Constitution was passed only after Maithripala Sirisen
 
 ---
 
-### பசறை நகரில் கட்டாக்காலி நாய்களின் தொல்லை அதிகரிப்பு ;  பொது மக்கள் விசனம்
+### Increase in the nuisance of cattle dogs in the city;Public grief
 
 *2024-07-12 02:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/188265) · `ta`
 
-பசறை நகரில் காலை வேளைகளில் கூட்டமாக வரும் கட்டாக்காலி நாய்களினால் பாடசாலை மாணவர்களும், பாதசாரிகளும், வாகன சாரதிகளும், குறிப்பாக மோட்டார் சைக்கிள்கள் ஓட்டுபவர்கள் பாரிய அசௌகரியங்களை எதிர் நோக்குவதாக தெரிவிக்கப்படுகின்றது.
+City dwellers face significant discomfort from cattle dogs, affecting school children, pedestrians, and drivers, especially motorcyclists, in the mornings. Morning workers are also impacted. The public urges authorities to manage the Cuttakali dog population.
 
-அத்துடன் காலை வேளைகளில் கூட்டமாக வரும் கட்டாக்காலி நாய்களினால் தொழிலுக்கு செல்பவர்கள் பாரிய அசௌகரியங்களை எதிர் நோக்குவதாகவும் தெரிவிக்கப்படுகின்றது.
+🟩
 
-எனவே சம்பந்தப்பட்ட அதிகாரிகள் கவனம் செலுத்தி கட்டாக்காலி நாய்களை கட்டுப்படுத்துவதற்கான  நடவடிக்கைகள் முன்னெடுக்குமாறு சம்பந்தப்பட்ட அதிகாரிகளுக்கு பொதுமக்கள் கோரிக்கை விடுக்கின்றனர்.
+School students, pedestrians and motorists, especially motorcyclists, are facing massive inconveniences due to gathering dogs in the morning in Pasarai.
+
+It is also reported that those who work in the morning are looking forward to massive inconveniences.
+
+Therefore, the public is requesting the concerned authorities to focus on controlling the Cuttakali dogs.
 
 ◼️
 
 [Data](articles/03b66aed.json)
 
+[Extended Data](ext_articles/03b66aed.ext.json)
+
 ---
 
-### விளக்கமறியலில் இலஞ்சம் பெற்ற குற்றச்சாட்டில் கைது செய்யப்பட்டிருந்த IP மீது தாக்குதல்!
+### Attack on IP arrested on bribery charges
 
 *2024-07-12 02:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/188264) · `ta`
 
-பணிபுரியும்போது இலஞ்சம் பெற்ற குற்றச்சாட்டில் கைது செய்யப்பட்டு கொழும்பு விளக்கமறியலில் தடுத்து வைக்கப்பட்டிருந்த பொலிஸ் பரிசோதகர் ஒருவருரை மற்றொரு கைதி  கூரிய ஆயுதத்தால் வெட்டியுள்ளார்.
+A prisoner was attacked and hospitalized after being accused of bribery in Colombo. The motive behind the attack remains unclear, but it resulted in significant injuries requiring stitches.
 
-இதற்கான காரணம் தெரிவிக்கப்படவில்லை எனவும், குறித்த பொலிஸ் அதிகாரியின் காயங்களில் சுமார் 8 தையல்கள் போடப்பட்டுள்ளதாகவும் சிறைச்சாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+🟩
+
+Another prisoner has been hacked to another prisoner, who was arrested on charges of bribing and detained in Colombo.
+
+Prison sources said that the reason for this has not been reported and about eight stitches have been put on the injuries of the police officer.
 
 ◼️
 
 [Data](articles/09fea748.json)
 
+[Extended Data](ext_articles/09fea748.ext.json)
+
 ---
 
-### தமிழ் அரசியல் கைதிகளுடன் கஜேந்திரன் எம்.பி. சந்திப்பு
+### Gajendran MP with Tamil political prisoners. Junction
 
 *2024-07-12 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/188263) · `ta`
 
-வெலிக்கடை மற்றும் மகசீன் சிறைகளுக்கு வியாழக்கிழமை (11) விஜயம் செய்த தமிழ்த் தேசிய மக்கள் முன்னணியின் பொதுச்செயலாளர் செல்வராசா கஜேந்திரன் அங்குள்ள தமிழ் அரசியல் கைதிகளை நேரில் பர்வையிட்டு கலந்துரையாடியுள்ளார்.
+Selvarasa Gajendran, Tamil National People's Front leader, visited Welikada and Mahasin jails, meeting nine Tamil political prisoners. Concerned about their release due to the Terrorism Act, he called for its repeal and the freedom of all detainees.
 
-வெலிக்கடை மற்றும் மகசீன் சிறைச்சாலையில் உள்ள 9 தமிழ் அரசியல் கைதிகளை நேரில் சந்தித்தேன்.  வெலிக்கடையில் தங்கவேலு நிமலன் (47)ஜோ.கொ.வலன்ரினோ (41)மகசீன் சிறையில் ஆனந்தவர்ணன் (அரவிந்தன்) கடந்த மார்ச் 26இல் கைது) மகசீன் சிறையில் 15 - 29 வருடங்களாகத் தடுத்து வைக்கப்பட்டுள்ள ஆனந்தசுதாகரன் ஆகியோரைப் பார்வையிட்டேன்.
+🟩
 
-அவர்களுடைய விடுதலை சம்பந்தமாக எந்தவொரு நடவடிக்கைகளும் அக்கறையுடன் முன்னெடுக்கப்படவில்லை என்ற கவலை அவர்களுக்கு அதிகமாக உள்ளது. எம்மைப்பொறுத்தவரையில் பயங்கரவாத தடைச்சட்டம் நீக்கப்பட வேண்டும். அதன்கீழ் கைது செய்யப்பட்டுள்ள அனைவரும் விடுவிக்கப்பட வேண்டும்.
+Selvarasa Gajendran, general secretary of the Tamil National People's Front, visited the Welikada and Mahasin jails on Thursday (11).
 
-ஆனந்த வர்ணன் வழக்கினை முன்னெடுக்க முடியாத நிலைமையில் உள்ளார். அவர் வேண்டுமென்றே தடுத்து வைக்கப்பட்டுள்ளார். அவர் உள்ளிட்டவர்களின் விடுதலைக்காக அனைவரும் குரல்கொடுக்க வேண்டும் என்றார்.
+I met 9 Tamil political prisoners at Welikada and Mahasin Prison.I visited Anandavarnan (Aravindan) in Mahasin Jail on March 26), Thangavelu Nimalano (47) and JOC Valanarino (41) in Welikada.
+
+They are more concerned that no action has been carried out in concern for their release. The Terrorism Act should be lifted up to us. All those arrested should be released.
+
+Ananda is in a state of unable to carry out the case. He is deliberately detained. He said that everyone should voice the liberation of the people.
 
 ◼️
 
 [Data](articles/7b84245c.json)
 
+[Extended Data](ext_articles/7b84245c.ext.json)
+
 ---
 
-### காணாமலாக்கப்பட்டோர் பற்றிய உண்மையைக் கண்டறிந்து நீதியை நிலைநாட்டுவது அவசியம் - அமெரிக்கத்தூதுவர் ஜுலி சங்
+### It is necessary to find the truth of the missing and establish justice - American Ambassador Julie Sung
 
 *2024-07-12 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/188262) · `ta`
 
-காணாமலாக்கப்பட்டோருக்கு என்ன நேர்ந்தது என்ற உண்மை கண்டறியப்பட்டு, நீதி நிலைநாட்டப்படும் அதேவேளை, நிலைமாறுகால நீதியை முன்னிறுத்திய நியாயபூர்வமான நடவடிக்கைகள் முன்னெடுக்கப்படவேண்டியது அவசியமென அமெரிக்கத்தூதுவர் ஜுலி சங் காணாமல்போனோர் பற்றிய அலுவலக அதிகாரிகளிடம் வலியுறுத்தியுள்ளார்.
+US Ambassador Julie Sung emphasized the importance of finding the truth behind disappearances and establishing justice during a meeting with Sri Lanka's Office of Missing Persons. She highlighted the need for legitimate actions leading to transformative justice and offered US support, including financial, data, and technical assistance, for investigations into missing persons.
 
-அமெரிக்கத்தூதரகத்தின் அழைப்பின்பேரில் தூதுவர் ஜுலி சங்குக்கும் காணாமல்போனோர் பற்றிய அலுவலகத்தின் அதிகாரிகளுக்கும் இடையிலான சந்திப்பொன்று வியாழக்கிழமை (11) மாலை கொழும்பிலுள்ள அமெரிக்கத்தூதரகத்தில் நடைபெற்றது. இச்சந்திப்பில் காணாமல்போனோர் பற்றிய அலுவலகத்தின் சார்பில் அதன் தவிசாளர் சட்டத்தரணி மகேஷ் கட்டுலந்த மற்றும் நிறைவேற்றுப்பணிப்பாளர் சட்டத்தரணி ஜெகநாதன் தற்பரன் ஆகியோர் கலந்துகொண்டிருந்தனர்.
+🟩
 
-இதன்போது காணாமல்போனோர் பற்றிய அலுவலகத்தின் செயற்பாடுகள் மற்றும் சவால்கள் தொடர்பில் அமெரிக்கத்தூதுவருக்கு விளக்கமளித்த அலுவலக அதிகாரிகள், அதன் அடுத்தகட்ட நடவடிக்கைகளில் இருதரப்புப் பங்காண்மை மற்றும் ஒத்துழைப்பை ஏற்படுத்திக்கொள்வது குறித்து விரிவாக ஆராய்ந்தனர்.
+The US Ambassador Julie Sung urged office officials about the disappearance of the disappearance, that the fact that the disappeared was found and the justice was established.
+
+A meeting between Ambassador Juli Sangh and the Office of the Office of Missing Persons held at the US embassy in Colombo on Thursday evening at the invitation of the US embassy.. Attorney -at -Law Mahesh Katulanda and Executive Attorney Jeganathan Busharan were also present on behalf of the Office of the Missing Persons.
+
+At the time, office officials explained to the US Ambassador on the actions and challenges of the Office of the Missing Persons and examined the two -sided share and cooperation in its next steps.
+
+Similarly, the investigation into the disappearances of the missing persons, including the excavation of the human body, is required to investigate human remains, so that all these processes have been discussed with the US financial, data and technical cooperation.
 
 ...
 
 [Data](articles/5c698fd0.json)
+
+[Extended Data](ext_articles/5c698fd0.ext.json)
 
 ---
 
@@ -420,19 +452,27 @@ Sri Lankan Ambassador to the United States Mahinda Samarasinghe and officials fr
 
 ---
 
-### ஜனாதிபதி தேர்தல் உரிய காலத்தில் நடந்தே ஆகும்; அமைச்சர் அலி சப்ரி சபையில் உறுதி
+### The presidential election has happened in a timely manner;Minister Ali Sabri confirms the House
 
 *2024-07-12 01:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/188261) · `ta`
 
-தேர்தலுக்கு நாங்கள் தயாராகவே இருக்கிறோம். அரசியலமைப்பின் பிரகாரம் ஒக்டோபர் 17ஆம் திகதிக்கு முன்னர் ஜனாதிபதி தேர்தல் நடந்தே ஆகும் என வெளிவிவகார அமைச்சர் அலிசப்ரி தெரிவித்தார்.
+Foreign Minister Ali Sabri confirmed that the presidential election in Sri Lanka will occur before October 17, adhering to constitutional requirements. Despite past delays, such as the 1981 referendum-induced postponement, elections have generally been conducted on time since 1931. The 19th Amendment reduced the presidential term to five years but didn't address the 83(b) clause, which could potentially affect future elections. The government is prepared for the upcoming election, highlighting achievements like uninterrupted power supply, increased tourism, higher public servant salaries, and enhanced dollar presence, assuring voters of a fair and timely process.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (11) இடம்பெற்ற உரிய காலத்தில் ஜனாதிபதித் தேர்தலை நடத்துதல் தொடர்பான சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவவாறு குறிப்பிட்டார்.
+🟩
 
-இலங்கையில் எந்த குறைபாடுகள் இருந்தாலும் 1931ஆம் ஆண்டில் இருந்து சர்வஜன வாக்குரிமையை தொடர்ச்சியாக பயன்படுத்தி வரும் நாடாகும். உரிய காலத்தில் நாட்டில் தேர்தல் நடத்தப்பட்டுள்ளது. ஒரு தடவை மட்டுமே உரிய காலத்தில் தேர்தல் நடத்தப்படவில்லை. 1981ஆம் ஆண்டிலேயே தேர்தல் நடத்தப்படாது சர்வஜன வாக்கெடுப்பு மூலம் தேர்தல் ஒத்தி வைக்கப்பட்டது. இந்நிலையில் தேர்தலை நடத்தாமல் இருக்க முடியாது.
+We are ready for the election. Foreign Minister Alisabri said the presidential election would be held before October 17, according to the Constitution.
+
+He was speaking at the debate on the Motion on the Motion of the House on Thursday (11) in Parliament.
+
+Whatever shortcomings in Sri Lanka, it is a country that has been continuously using the voting rights since 1931. Elections have been held in the country in a timely manner. Elections were not held in a timely manner. The election was postponed by the referendum in 1981. In this case, the election cannot be held.
+
+The President's term of office was reduced to 5 years in the 19th Amendment of the Constitution. However in 83 (b) string is not mentioned in it. The idea has been brought to the cabinet to replace it. There is no need to doubt the presidential election. The election will be held before October 17.
 
 ...
 
 [Data](articles/efd3c30f.json)
+
+[Extended Data](ext_articles/efd3c30f.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 03:19:52**
+As of **2024-07-12 03:35:04**
 
 ## Newspaper Stats
 
-*Scraped **34,883** Articles*
+*Scraped **34,884** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,068
 dailyftlk | 2,203
 adalk | 3,146
 adaderanalk | 4,006
-tamilmirrorlk | 4,170
+tamilmirrorlk | 4,171
 dailymirrorlk | 4,733
 virakesarilk | 5,459
 adaderanasinhalalk | 5,802
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,883 (100.0%) of 34,883 articles have been extended.
+34,883 (100.0%) of 34,884 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -177,6 +177,22 @@ These virtual sessions will be conducted via Zoom from 3:30 p.m. to 5:30 p.m. du
 [Data](articles/16cfe63e.json)
 
 [Extended Data](ext_articles/16cfe63e.ext.json)
+
+---
+
+### ’பயங்கரவாதிகள் பட்டியலில் இணைக்கவும்’
+
+*2024-07-12 02:31:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாதிகள்-பட்டியலில்-இணைக்கவும்/175-340270) · `ta`
+
+அப்பாவி மக்களை பணயக் கைதிகளாக்கி தமது கோரிக்கைகளை நிறைவேற்றிக் கொள்ள முயற்சிக்கும் ஜோசப் ஸ்டாலின் உட்பட புகையிரத தொழிற்சங்க தலைவர்களை பயங்கரவாதிகள் பட்டியலில் இணைக்க வேண்டும் என மின்சக்தி  மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (11)   இடம்பெற்ற சட்டரீதியான ஏற்பாடுகளுக்கு அமைய உரிய காலத்தில் ஜனாதிபதித் தேர்தலை நடத்துவது பற்றிய ஒத்திவைப்பு வேளை விவாதத்தில் உரையாற்றும் போதே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+
+பல்வேறு கோரிக்கைளை முன்வைத்து தொழிற்சங்கத்தினர் தற்போது முன்னெடுத்துள்ள பணிப்புறக்கணிப்பினால் தேர்தல் பணிகளுக்கு பாதிப்பு ஏற்படும்.பொருளாதார பாதிப்புக்கு மத்தியில் நியாயமற்ற கோரிக்கைகளை முன்வைத்து முன்னெடுக்கும்  பணிப்புறக்கணிப்பின் பின்னணியில்  குறுகிய நோக்கங்களே காணப்படுகின்றன.
+
+...
+
+[Data](articles/68946456.json)
 
 ---
 
@@ -2255,25 +2271,5 @@ United National Party (UNP) general secretary Range Bandara has said that it is 
 [Data](articles/721d4330.json)
 
 [Extended Data](ext_articles/721d4330.ext.json)
-
----
-
-### Sri Lanka minister invites Singapore business to invest in energy, port, logistics, digital sectors
-
-*2024-07-11 14:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-invites-singapore-business-to-invest-in-energy-port-logistics-digital-sectors-171736/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Foreign Minister Ali Sabry has met with the Singapore business Community and outlined potential investment opportunities in the island, at an event organised by the Singapore Indian Chamber of Commerce and Industry (SICCI).
-
-“He invited Singaporean investors to invest in Sri Lanka, especially in the sectors of renewable energy, port & logistics, and digital economy,” the High Commission of Sri Lanka in Singapore said after the event.
-
-SICCI Chairman and Member of Parliament Neil Parek “expressed readiness to connect their members with Sri Lanka in arranging a business delegation from the Chambers to explore opportunities, acknowledging shared heritage and regional commonalities in South Asia”.
-
-Sabry was on an official visit to Singapore from July 7-9 at the invitation of Minister for Foreign Affairs of Singapore Dr Vivian Balakrishnan.
-
-...
-
-[Data](articles/8f2c0ffd.json)
-
-[Extended Data](ext_articles/8f2c0ffd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 19:20:07**
+As of **2024-07-11 19:35:21**
 
 ## Newspaper Stats
 
-*Scraped **34,810** Articles*
+*Scraped **34,811** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,957
 economynextcom | 2,055
 dailyftlk | 2,183
 adalk | 3,138
-adaderanalk | 4,002
+adaderanalk | 4,003
 tamilmirrorlk | 4,163
 dailymirrorlk | 4,733
 virakesarilk | 5,446
@@ -26,23 +26,49 @@ adaderanasinhalalk | 5,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,809 (100.0%) of 34,810 articles have been extended.
+34,810 (100.0%) of 34,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### දුම්රිය වර්ජනය අඛණ්ඩව
+### Railway strike to continue further – trade unions
+
+*2024-07-11 19:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100450/railway-strike-to-continue-further-trade-unions-) · `en`
+
+The Railway Station Masters’ Union states that their strike action, which was launched from Wednesday (10), will continue further.
+
+President of the union Sumedha Somaratne, speaking to reporters, said that this decision was reached during the executive council meeting of their trade union this evening (11).
+
+Earlier today, Somaratne also stressed that if the government tries to control the trade unions through oppression, the trade unions of the entire railway service will never hesitate to join together and fight.
+
+Meanwhile, Minister of Transport Bandula Gunawardene says that letters have been sent to all railway employees who participated in the strike notifying they are considered to have vacated their respective positions.
+
+The General Manager of Sri Lanka Railways had warned that all Station Masters and Railway Controllers who fail to report to duty by 12.00 noon yesterday (10) would be considered as having vacated their positions.
+
+...
+
+[Data](articles/2ae0431b.json)
+
+---
+
+### Railway strike continues
 
 *2024-07-11 18:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198714) · `si`
 
-දුම්රිය වර්ජනය අඛණ්ඩව පවත්වාගෙන යන බව දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය පවසයි.
+The railway strike persists as the Railway Stations Association (STF), led by its President Sumedha Somaratne, decided to extend it post an executive committee meeting.
 
-එම සංගමයේ සභාපති සුමේධ සෝමරත්න මහතා පැවසුවේ අද (11) පස්වරුවේ පැවති විධායක කමිටු රැස්වීමෙන් අනතුරුව මෙම තීරණය ගත් බවයි.
+🟩
+
+The Railway Stations Association (STF) says that the strike will continue.
+
+The President of the Association Sumedha Somaratne said that this decision was taken after the executive committee meeting held this afternoon.
 
 ◼️
 
 [Data](articles/c9d48eb0.json)
+
+[Extended Data](ext_articles/c9d48eb0.ext.json)
 
 ---
 
@@ -58,7 +84,9 @@ Hasaranga said it is in the best interest of Sri Lanka Cricket that he decided t
 
 “Sri Lanka Cricket, while accepting his resignation, wishes to state that Hasaranga will remain an important player for us in our international cricketing plans,” the SLC statement said.
 
-◼️
+Wanindu’s resignation comes following Sri Lanka’s group stage exit from the 2024 men’s T20I World Cup last month.
+
+...
 
 [Data](articles/d8969054.json)
 
@@ -432,13 +460,13 @@ The railway agenda has been sent to the station sides who have been sent to the 
 
 *2024-07-11 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100448/striking-railway-employees-notified-over-vacated-posts-minister) · `en`
 
-Minister of Transport Bandula Gunawardene says that letters have been sent to all railway employees who participated in the strike notifying they are considered to have vacated their respective positions.
+Minister of Transport Bandula Gunawardene says that letters have been sent to all railway employees who participated in the strike notifying that they are considered to have vacated their respective positions.
+
+He stated that the General Manager of Sri Lanka Railways has sent letters informing all Station Masters who have not reported to duties and are engaged in the strike that they are considered to have vacated their positions.
 
 The General Manager of Sri Lanka Railways had warned that all Station Masters and Railway Controllers who fail to report to duty by 12.00 noon yesterday (10) would be considered as having vacated their positions.
 
 Accordingly, all the striking Railway Station Masters and Railway Controllers were instructed to report for duty at their respective railway stations or at least to the nearest railway station before that deadline.
-
-The Sri Lanka Railways Station Masters’ Union had decided to launch a strike action from midnight on Tuesday (09) based on several demands including promotions. Railway Controllers had also later decided to join the strike action, which has severely impacted train services in the country and resulted in the cancellation of multiple train journeys.
 
 ...
 
@@ -477,6 +505,10 @@ He was speaking at a media briefing conducted by the ovenoms held today (11).
 New CCTV footage of the fatal shooting which killed businessman Surendra Wasantha Perera alias ‘Club Wasantha’ and another person in Athurugiriya has emerged on Thursday (11), providing further insights into the shocking incident.
 
 The video, obtained from CCTV cameras inside the shop, shows the moment of the shooting, when the gunmen enter the tattoo studio and open fire targeting ‘Club Wasantha’ before fleeing the scene.
+
+The shooting occurred during the opening ceremony of a tattoo and piercing studio near the Clock Tower in Athurugiriya on Monday (08), killing two persons including businessman Surendra Wasantha Perera, known as “Club Wasantha” and causing critical injuries to four others.
+
+Hospital sources reported that popular singer K. Sujeewa, who was seriously injured in her leg during the incident, underwent surgery at the Colombo National Hospital and is now in a stable condition.
 
 ◼️
 
@@ -2323,23 +2355,5 @@ At the same time, the driver of the bus, which drove the bus, crashed into a roa
 [Data](articles/be457d79.json)
 
 [Extended Data](ext_articles/be457d79.ext.json)
-
----
-
-### Police Sergeant fatally shoots himself with service weapon
-
-*2024-07-11 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100434/police-sergeant-fatally-shoots-himself-with-service-weapon) · `en`
-
-A Police Sergeant on duty at the police post in the Ruwanweli Maha Seya in Anuradhapura has reportedly taken his own life by shooting himself with his service weapon last night.
-
-If you or someone you know is in crisis and needs help, resources are available for immediate support:
-
-- For emergencies contact the National Mental Health Helpline 1926
-
-◼️
-
-[Data](articles/b409c7dc.json)
-
-[Extended Data](ext_articles/b409c7dc.ext.json)
 
 ---

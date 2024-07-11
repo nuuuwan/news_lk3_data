@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 13:35:19**
+As of **2024-07-11 13:54:46**
 
 ## Newspaper Stats
 
-*Scraped **34,754** Articles*
+*Scraped **34,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,99 @@ islandlk | 1,957
 economynextcom | 2,053
 dailyftlk | 2,183
 adalk | 3,134
-adaderanalk | 3,994
-tamilmirrorlk | 4,155
+adaderanalk | 3,995
+tamilmirrorlk | 4,156
 dailymirrorlk | 4,733
 virakesarilk | 5,427
-adaderanasinhalalk | 5,779
+adaderanasinhalalk | 5,781
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,754 (100.0%) of 34,754 articles have been extended.
+34,754 (100.0%) of 34,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### Sri Lanka Police strengthens measures against money laundering and terrorism financing
+
+*2024-07-11 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100442/sri-lanka-police-strengthens-measures-against-money-laundering-and-terrorism-financing-) · `en`
+
+Sri Lanka Police has reached agreements with various government and semi-government institutions in order to combat money laundering and the financing of terrorism.
+
+These agreements will facilitate the swift exchange of crucial information necessary for police investigations.
+
+Accordingly, the relevant agreements have already been finalized with key institutions, including the Department of Motor Traffic, the Telecommunications Regulatory Commission, the Central Environment Authority, and the Ministry of Fisheries and Aquatic Resources and Sri Lanka Customs.
+
+The primary objective of these agreements is to establish a streamlined process for sharing information pertinent to investigations into money laundering and funding the terrorism. This initiative is expected to significantly reduce delays that have impeded the timely acquisition of essential data for police investigations.
+
+...
+
+[Data](articles/49007f5f.json)
+
+---
+
+### ටැටූ ෂොප් හිමිකරුට මහෙස්ත්‍රාත්වරිය දුන් අවවාදය
+
+*2024-07-11 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198701) · `si`
+
+සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඝාතන සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් ටැටූ මධ්‍යස්ථානයේ හිමිකරු මහෙස්ත්‍රාත්වරිය හමුවේ රහස් ප්‍රකාශයක් සිදුකිරීමට අවසර ඉල්ලා තිබේ.
+
+ඒ ඔහු ඇතුළු ව සැකකරුවන් 7 දෙනා ඊයේ (10) දිනයේදී කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කෙරුණු අවස්ථාවේ දීය.
+
+එහිදී මහෙස්ත්‍රාත්වරිය සඳහන් කළේ නැවත වතාවක් සිතා බලා එම ඉල්ලීම සිදුකරන ලෙසය.
+
+මේ අතර, සැකකරුවන් පැය 48ක් රඳවාගෙන ප්‍රශ්න කිරීමට එහිදී පොලීසිය අධිකරණයෙන් ඉල්ලා සිටියේය.
+
+නමුත් ඊට අවසර ලබානොදුන් අධිකරණය, එම සැකකරුවන් ජුලි 22 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස නියෝග කළේය.
+
+එමෙන්ම බන්ධනාගාරය තුළ ලොකු පැටී නම් අපරාධකරුගේ සගයන් සිටින බැවින් අදාළ සැකකරුවන්ට විශේෂ ආරක්ෂාවක් සපයන ලෙසද අධිකරණය බන්ධනාගාර නිලධාරීන්ට නියෝග කළේය.
+
+නාඳුනන වෙඩික්කරුවන් දෙදෙනෙක් විසින් සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ජුලි 08 වනදා අතුරුගිරියේ පිහිටි ටැටූ මධ්‍යස්ථානයක දී වෙඩි තබා ඝාතනය කළේය.
+
+...
+
+[Data](articles/3d142a65.json)
+
+---
+
+### ඉන්දීය ධීවරයින් පිරිසක් අත්අඩංගුවට
+
+*2024-07-11 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198700) · `si`
+
+නීතිවිරෝධී ලෙස මෙරට මුහුදු ප්‍රදේශයේ ධීවර කටයුතුවල නිරත වූ ඉන්දීය ධීවරයින් පිරිසක් ශ්‍රී ලංකා නාවික හමුදාව විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඩෙල්ෆ්ට් දූපතට ඔබ්බෙන් වූ මෙරට මුහුදු සීමාවේ අද (11) අළුයම් කාලයේ සිදුකළ විශේෂ මෙහෙයුමකදී ඔවුන්ව අත්අඩංගුවට ගෙන ඇති බව නාවික හමුදාව සඳහන් කළේය.
+
+එහිදී ඉන්දීය ධීවර යාත්‍රා 03ක් සමඟ ඉන්දීය ධීවරයින් 13 දෙනෙකු නාවික හමුදා භාරයට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් ඉන්දීය ධීවර යාත්‍රා සහ එහි සිටි ඉන්දීය ධීවරයින් කන්කසන්තුරය වරාය වෙත රැගෙන ආ අතර ඉදිරි නීතිමය කටයුතු සඳහා මයිලඩි ධීවර පරීක්‍ෂක කාර්යාලය වෙත භාර දීමට නියමිතය.
+
+මෙම මෙහෙයුමත් සමඟ 2024 වර්ෂයේ මේ දක්වා සිදුකළ මෙහෙයුම් මඟින් මෙරට මුහුදු සීමාව තුළ අනවසර ධීවර කටයුතු සිදු කළ ඉන්දීය ධීවර යාත්‍රා 35ක් සහ ඉන්දීය ධීවරයින් 252 දෙනෙකු නාවික හමුදා භාරයට ගෙන ඉදිරි නීතිමය කටයුතු සඳහා යොමු කර තිබේ.
+
+◼️
+
+[Data](articles/ba735502.json)
+
+---
+
+### கோர விபத்தில் மூவர் படுகாயம்
+
+*2024-07-11 13:04:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோர-விபத்தில்-மூவர்-படுகாயம்/175-340234) · `ta`
+
+முல்லைத்தீவு  மாவட்டத்தின் மாங்குளம் பொலிஸ் பிரிவுக்குட்பட்ட ஏ-9 வீதியில் திருமுறிகண்டிக்கும் கொக்காவில் பகுதிக்கும் இடைப்பட்ட பகுதியில் இடம்பெற்ற வீதி  விபத்தில் ஒருவர் உயிரிழந்ததுடன் மேலும் மூவர் படுகாயமடைந்து கிளிநொச்சி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+வெளிநாடு ஒன்றிலிருந்து வருகை தந்தவர்களை  விமான நிலையத்திலிருந்து யாழ்ப்பாணம் நோக்கி அழைத்து பயணித்துக்கொண்டிருந்த ஹயஸ் ரக வாகனம் ஒன்று ஏ 9 வீதியின் 241 ஆவது கிலோமீற்றருக்கும் 242 ஆவது கிலோமீற்றருக்கும் இடைப்பட்ட பகுதியில் முன்னே சென்று கொண்டிருந்த பாரஊர்தி ஒன்றுடன் மோதி  குறித்த விபத்து இடம்பெற்றுள்ளது.
+
+இந்த விபத்தில் படுகாயமடைந்த  நால்வரும் உடனடியாக கிளிநொச்சி வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில்  ஒருவர் உயிரிழந்துள்ளார்  சம்பவம் தொடர்பில் மாங்குளம் பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/23518fea.json)
+
+---
 
 ### How to broadcast the Green Code: MPs Question (Video)
 
@@ -2201,103 +2279,5 @@ Then the OICs came and said that this would not be possible to promote 5 out of 
 [Data](articles/6ee7d32a.json)
 
 [Extended Data](ext_articles/6ee7d32a.ext.json)
-
----
-
-### Riley RousseauJevna Kings won the Kalambo Strikes easily
-
-*2024-07-10 19:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188168) · `ta`
-
-Jevna Kings triumphed over Kalambo Strikers in a Lanka Premier League match, winning by 7 wickets. Riley Rousseau and Avishka Fernando were key contributors, sharing a 130-run partnership. Rousseau remained unbeaten with 108 runs, including 10 fours and 6 sixes. Kalambo Strikers' total of 188/8 was built around Glen Phillips' 58 and Angelo Perera's 34 before he retired. Azmatullah Omarzai and Fernando each took 2 wickets for their teams.
-
-🟩
-
-Jevna Kings won the Kalambo Strikers team by 7 wickets at the Lanka Premier League cricket match held at the Rangiri Dambulla International Stadium on Wednesday (10).
-
-Riley Roussev played a major role in the success of Jevna Kings. Avishka Fernando also backed and scored half a cent.
-
-Jevna Kings lost only 3 wickets in 18.3 overs, scoring 190 runs to win 189 runs.
-
-Nissanka scored only 6 runs in today's match. (30 - 2 wig.)
-
-Riley Roussev and Avishka Fernando, who paired up, shared 130 runs in 64 balls in the 3rd wicket.
-
-Riley Roussev did not play with 108 balls, including 10 pounds and 6 sixes.
-
-Earlier in the upting match, Kalambo Strikers, who was first invited to bat, scored 188 runs for the loss of 8 wickets.
-
-Galambo Strikers gained considerable total number because of the premises players efficient.
-
-Glen Phillips scored 58 runs, Angelo Perera 34, Rahmanullah Gurbas 27 and team captain Dissara Perera scored 13 runs.
-
-...
-
-[Data](articles/b40752ca.json)
-
-[Extended Data](ext_articles/b40752ca.ext.json)
-
----
-
-### 355 kg of cocaine destroys
-
-*2024-07-10 19:37:08* · [`adalk`](https://www.ada.lk/breaking_news/කොකේන්-මත්ද්‍රව්‍ය-කිලෝ-355ක්-අද-විනාශ-කරයි/11-410729) · `si`
-
-A significant amount of cocaine, totaling 355 kg, is set to be destroyed in Sri Lanka. The operation, involving 1181 grams and 881 grams of the drug, will take place in a specially equipped combustion oven in the Vanathavilluwa area. This event follows the collapse of Public Defense Minister Tiran Alles and IGP Deshanathawilluwa. The transportation and destruction process will be overseen by the Colombo Chief Magistrate's Court, ensuring safety measures are in place.
-
-🟩
-
-Police Headquarters said that the court will be destroyed by the Court of Kocaine (1181 grams) and 881 grams (11).
-
-The drug is due to be destroyed through the combustion oven, which has been established in the Vanathavilluwa area in the Puttalam Own, the Collapse of Public Defense Minister Tiran Alles and IGP Deshanathawilluwa.
-
-Cocaine is scheduled to be transported by the Colombo Chief Magistrate's Court in the Colombo Chief Magistrate's Court today (11) under the safety of the officers.
-
-◼️
-
-[Data](articles/8568552b.json)
-
-[Extended Data](ext_articles/8568552b.ext.json)
-
----
-
-### Imports from August to
-
-*2024-07-10 19:27:51* · [`adalk`](https://www.ada.lk/breaking_news/අගෝස්තු-සිට-වාහන-ගෙන්වයි/11-410728) · `si`
-
-State Minister Ranjith Siyambalapitiya announced plans to import vehicles starting from August, with details to be presented to the Cabinet by August 2. Minister Mahinda Amaraweera mentioned informing the International Monetary Fund about the vehicle imports. A committee involving various ministries and associations was formed to optimize vehicle import benefits nationwide, aiming to resume imports post-August 2 based on a unique plan.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya stated that the vehicles will be imported to the importation of vehicles from August and that the relevant information is due to be taken to the Cabinet by August 2.
-
-Speaking at the debate held in Parliament yesterday (10), he said.
-
-Minister Mahinda Amaraweera stated that the International Monetary Fund was informed of the importation of vehicles.
-
-"Everyone asks whether to bring vehicles. We have allowed 1000 vehicles to the tourism industry. We have sent the report of a unique committee to the Minister of Finance, and now how is this practically doing this in practically. There are plenty of parties.
-
-Ministry of Transport, Ministry of Transport, Ministry of Transport, Vehicle Association, New Vehicle Importers, New Vehicle Importers, Used Traffic Importers. So we made a committee from all of them. How to benefit the whole country, to build a program to import vehicles as the lowest party occurs.
-
-...
-
-[Data](articles/8f1f5302.json)
-
-[Extended Data](ext_articles/8f1f5302.ext.json)
-
----
-
-### Passenger dies after falling from crowded train
-
-*2024-07-10 19:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100430/passenger-dies-after-falling-from-crowded-train) · `en`
-
-A passenger has been killed after falling from a moving train, which was heavily crowded due to the ongoing railway strike, in the Bemmulla area along the main line.
-
-The passenger has reportedly fallen off a train plying from Colombo Fort to Polgahawela this evening (10).
-
-◼️
-
-[Data](articles/4543d168.json)
-
-[Extended Data](ext_articles/4543d168.ext.json)
 
 ---

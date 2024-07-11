@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 08:54:37**
+As of **2024-07-11 09:06:33**
 
 ## Newspaper Stats
 
-*Scraped **34,708** Articles*
+*Scraped **34,711** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ newsfirstlk | 363
 islandlk | 1,957
 economynextcom | 2,049
 dailyftlk | 2,183
-adalk | 3,127
+adalk | 3,128
 adaderanalk | 3,988
-tamilmirrorlk | 4,142
+tamilmirrorlk | 4,143
 dailymirrorlk | 4,733
 virakesarilk | 5,422
-adaderanasinhalalk | 5,769
+adaderanasinhalalk | 5,770
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,708 (100.0%) of 34,708 articles have been extended.
+34,708 (100.0%) of 34,711 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### දුම්රිය වර්ජනය දිගටම
+
+*2024-07-11 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198689) · `si`
+
+ඉල්ලීම් කිහිපයක් මුල් කරගනිමින් දුම්රිය ස්ථානාධිපතිවරුන් ආරම්භකර ඇති වැඩවර්ජනය අඛණ්ඩව ක්‍රියාත්මක කෙරෙන බව එම වෘත්තීය සමිති පවසයි.
+
+පසුගිය 09 වනදා මධ්‍යම රාත්‍රීයේ සිට දුම්රිය ස්ථානාධිපතිවරුන් සහ දුම්රිය පාලකවරුන් වැඩවර්ජනයක් ආරම්භ කරනු ලැබීය.
+
+වර්ජනය හේතුවෙන් ඊයේ දිනය තුළ දුම්රිය ගමන්වාර රැසක් අවලංගු කෙරුණු අතර දුම්රිය කිහිපයක් පමණක් ධාවනය කිරීම හේතුවෙන් මගීන් දැඩි දුෂ්කරතාවකට පත්වුණි.
+
+වැඩබලන දුම්රිය සාමාන්‍යාධිකාරී එස්.එස්. මුදලිගේ මහතා සඳහන් කළේ වර්ජනය ක්‍රියාත්මක වුවද ඊයේ දිනයේ දී දුම්රිය ගමන්වාර 70ක් පමණ ධාවනය කිරිමට කටයුතු කළ බවයි.
+
+ඊට අමතරව ලංකා ගමනමණ්ඩලයට අයත් බස් රථ ද මගීන්ගේ අවශ්‍යතාව අනුව ධාවනය සදහා යොදවූ බව ද ඔහු පැවසීය.
+
+◼️
+
+[Data](articles/b6f49ec9.json)
+
+---
+
+### மழையுடனான வானிலை மேலும் அதிகரிக்கும்
+
+*2024-07-11 08:27:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையுடனான-வானிலை-மேலும்-அதிகரிக்கும்/175-340200) · `ta`
+
+நாளை முதல் அடுத்த சில நாட்களில் நாட்டின் தென்மேற்கு பகுதிகளில் மழையுடனான வானிலை அதிகரிக்கும்.
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யக்கூடும்.
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களில் மாலை அல்லது இரவு வேளைகளில் சில இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும், வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும், திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் 40-50 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும்.
+
+இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னலினால் ஏற்படக்கூடிய ஆபத்தை குறைப்பதற்கு தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவயில் திணைக்களம், பொது மக்களை அறிவுறித்தியுள்ளது. R
+
+◼️
+
+[Data](articles/6706567e.json)
+
+---
 
 ### Action to serve 35 trains
 
@@ -1216,6 +1256,24 @@ Glen Phillips scored 58 runs, Angelo Perera 34, Rahmanullah Gurbas 27 and team c
 
 ---
 
+### අගෝස්තු සිට වාහන ගෙන්වයි
+
+*2024-07-10 19:27:51* · [`adalk`](https://www.ada.lk/breaking_news/අගෝස්තු-සිට-වාහන-ගෙන්වයි/11-410728) · `si`
+
+සුවිශේෂී අනුපිළිවෙළක් යටතේ අගෝස්තු මාසයේ සිට වාහන ආනයනය කිරීමට කටයුතු කරන බවත් ඒ සම්බන්ධයෙන් වැඩපිළිවෙළ ඇතුළත්කමිටුවේ වාර්තාව අගෝස්තු 02වැනි සතිය වන විට අමාත්‍ය මණ්ඩලයට ලැබීමට නියමිත බවත් මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසීය.
+
+පාර්ලිමේන්තුවේ ඊයේ(10දා) පැවති විවාදයේදී අදහස් පළ කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+මෙලෙස වාහන ආනයනය කිරීම පිළිබඳ ජාත්‍යන්තර මූල්‍ය අරමුදල දැනුවත් කළ බව සඳහන් කළ අමාත්‍ය මහින්ද අමරවීර මහතා,
+
+"සෑම කෙනෙක්ම අහනවා වාහන ගේන්නේ නැද්ද කියලා. සංචාරක ක්ෂේත්‍රයට වාහන 1000ක් ගේන්න අපි අවසර දීලා තියෙනවා. අනෙකුත් වාහන ගෙන්වීම සඳහා අපි සුවිශේෂී කමිටුවක වාර්තාව මුදල් ඇමතිවරයාට ඉදිරිපත් කරලා, දැන් මේක කොහොමද ප්‍රායෝගිකව මේ කටයුත්ත කරන්නේ කියලා බලනවා. මේකට අදාළ පාර්ශ්ව රාශියක් සිටිනවා.
+
+...
+
+[Data](articles/8f1f5302.json)
+
+---
+
 ### Passenger dies after falling from crowded train
 
 *2024-07-10 19:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100430/passenger-dies-after-falling-from-crowded-train) · `en`
@@ -2197,69 +2255,5 @@ Thus, it has been decided to hold the debate from 10.30 am to 5.30 pm following 
 [Data](articles/f2f93b30.json)
 
 [Extended Data](ext_articles/f2f93b30.ext.json)
-
----
-
-### Adjournment debate on the timeline of the presidential election
-
-*2024-07-10 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198674) · `si`
-
-A debate on the presidential election timeline will be held at Parliament tomorrow, focusing on adjournment issues.
-
-🟩
-
-It has been decided to hold a debate at Parliament tomorrow (11) regarding the presidential election period.
-
-◼️
-
-[Data](articles/146476fe.json)
-
-[Extended Data](ext_articles/146476fe.ext.json)
-
----
-
-### Sri Lanka president thanks state employees who turned up for work during strike
-
-*2024-07-10 15:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-thanks-state-employees-who-turned-up-for-work-during-strike-171643/) · `en`
-
-ECONOMYNEXT — Sri Lanka President Ranil Wickremesinghe has offered his thanks to non-executive government employees who reported for duty on two days of strikes, as trade unions threatened to bring the state sector to a halt.
-
-“I want to thank the non-executive government employees who reported for duty on July 8 and 9. Your commitment during these challenging economic times exemplifies true patriotism and integrity,” Wickremesinghe tweeted Wednesday July 10 afternoon.
-
-“As a mark of our gratitude, the cabinet has approved a special salary increment following my proposal. This increment recognises your efforts to strengthen the country and support its people when Sri Lanka needs you the most,” he said.
-
-The government announced on Tuesday that it would grant a special pay increment to non-executive government officials who reported for duty on July 8 and 9, despite an ongoing trade union action.
-
-...
-
-[Data](articles/b20df6b4.json)
-
-[Extended Data](ext_articles/b20df6b4.ext.json)
-
----
-
-### National Transport Commission to give more power
-
-*2024-07-10 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198673) · `si`
-
-The National Transport Commission (NTC) is set to gain more authority under an amendment bill, focusing on regulating school vans, three-wheelers, and other vehicles, beyond its current scope of intervening in bus fares. This move acknowledges the significant public service role of three-wheelers and aims to address regulatory gaps. The bill has been forwarded to the Attorney General's Department for review and potential legislative action.
-
-🟩
-
-Transport and Highways Minister Bandu Gunawardena says that the Attorney General's Commission has received the Immediate Bill to amend the National Transport Commission.
-
-He also said that the National Transport Commission has already intervened in bus fares, but the bill is aimed at school vans, three-wheelers and other vehicles.
-
-"We are very seriously acknowledged by three-wheeler a large public service. It should be necessarily regulated. But since there is no use for this, I revised the National Transport Commission.. The Attorney General's Department has been sent to the Attorney General's Department to change the current situation. "
-
-"That means that the National Transport Commission can intervene only on bus fares. The BC has been amended to regulate school vans, three-wheelers and other vehicles ... has been awarded .... The Gazette will be presented to the cabinet and presented to Parliament. "
-
-If a meter is asking for a meter, you can get the facts such as releasing it. "
-
-◼️
-
-[Data](articles/8d82c553.json)
-
-[Extended Data](ext_articles/8d82c553.ext.json)
 
 ---

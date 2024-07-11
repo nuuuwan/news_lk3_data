@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 03:53:54**
+As of **2024-07-12 04:05:39**
 
 ## Newspaper Stats
 
-*Scraped **34,884** Articles*
+*Scraped **34,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,068
 dailyftlk | 2,203
 adalk | 3,146
 adaderanalk | 4,006
-tamilmirrorlk | 4,171
+tamilmirrorlk | 4,172
 dailymirrorlk | 4,733
 virakesarilk | 5,459
 adaderanasinhalalk | 5,802
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,884 (100.0%) of 34,884 articles have been extended.
+34,884 (100.0%) of 34,885 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -177,6 +177,18 @@ These virtual sessions will be conducted via Zoom from 3:30 p.m. to 5:30 p.m. du
 [Data](articles/16cfe63e.json)
 
 [Extended Data](ext_articles/16cfe63e.ext.json)
+
+---
+
+### கடிதம் எழுதினார் ரஞ்சித்
+
+*2024-07-12 02:36:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடிதம்-எழுதினார்-ரஞ்சித்/175-340271) · `ta`
+
+2024 ஜனாதிபதித் தேர்தல் பிரசார உத்திகளுக்கு இலங்கை பொலிஸாரை ஈடுபடுத்துதல் மற்றும் அரச அச்சகத் கூட்டுத்தாபனத்தின் பணிகளுக்கு இடையூறுகளை ஏற்படுத்த எடுக்கும் முயற்சிகளைத் தடுத்தல் சம்பந்தமாக ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார தேர்தல் ஆணைக்குழுவுக்கு வியாழக்கிழமை (11) கடிதத்தை அனுப்பிவைத்துள்ளார்.
+
+◼️
+
+[Data](articles/3d74c018.json)
 
 ---
 
@@ -2257,31 +2269,5 @@ The arrested Chandenabar was produced at the Hatton Magistrate's Court on Thursd
 [Data](articles/a2056813.json)
 
 [Extended Data](ext_articles/a2056813.ext.json)
-
----
-
-### Ranil House Matti - Anura Kumara Dissanayake
-
-*2024-07-11 15:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/188216) · `ta`
-
-Anura Kumara Dissanayake criticizes the President's House for potentially overstepping the Supreme Court's authority regarding constitutional matters. He mentions ongoing debates about the presidential election timeline and the president's term length, with some suggesting a six-year term instead of the constitutional five years. The Supreme Court has upheld the five-year term. There's confusion over whether the 19th Amendment to the Constitution specifies a five- or six-year term, leading to legal challenges and discussions in Parliament.
-
-🟩
-
-Ranil, Vajira and Range Bandara can not be able to make the matter in connection with the constitution. The Supreme Court has the authority.
-
-National People's Power Leader Anura Kumara Dissanayake said that the President's House was involved in the process of acting beyond the Supreme Court on the occasion.
-
-He was speaking at the launch of the postponement debate on the presidential election in a timely manner in accordance with the legal arrangements in Parliament on Thursday (11).
-
-The presidential election should be held in September and October in accordance with the Constitution and other arrangements.The president's colleagues have created suspicion.
-
-United National Party (UNP) general secretary Range Bandara has said that it is necessary to extend the president's term for six years.. The House maneuver is currently being carried out on the president's term.
-
-...
-
-[Data](articles/721d4330.json)
-
-[Extended Data](ext_articles/721d4330.ext.json)
 
 ---

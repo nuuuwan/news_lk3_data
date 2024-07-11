@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 14:06:36**
+As of **2024-07-11 14:20:52**
 
 ## Newspaper Stats
 
@@ -26,45 +26,57 @@ adaderanasinhalalk | 5,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,754 (100.0%) of 34,760 articles have been extended.
+34,760 (100.0%) of 34,760 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### ඩයනා ට එරෙහිව CIDයෙන් චෝදනා පත්‍රයක්
+### CID charged with Diana
 
 *2024-07-11 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198703) · `si`
 
-ශ්‍රී ලාංකික පුරවැසිභාවය නොමැතිව මෙරට විදේශ ගමන් බලපත්‍රයක් ලබාගත්තේ යැයි කියන සිද්ධිය සම්බන්ධයෙන් හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මියට එරෙහිව චෝදනා කියවාදීම අගෝස්තු මස 01 වනදා සිදු කරන බව කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියෝග කළේය.
+Diyanama Gamage, ex-State Minister, faces charges related to Sri Lankan citizenship, as per a Colombo Magistrate's Court order. The case stems from allegations made after an incident involving Colombo Additional Magistrate Harshana Kekuna. CID filed an indictment against Mrs. Gamage, leading to the court's directive for the Colombo Chief Magistrate to review the charges on August 1.
 
-ඒ ඊට අදාළ පැමිණිල්ල කොළඹ අතිරේක මහෙස්ත්‍රාත් හර්ෂණ කැකුණවල මහතා ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේ දීය.
+🟩
 
-එහිදී අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුව විසින් සැකකාර ඩයනා ගමගේ මහත්මියට එරෙහිව චෝදනා පත්‍රයක් අධිකරණය හමුවේ ඉදිරිපත් කළේය.
+The Colombo Magistrate's Court ordered that the accusations against former State Minister Diyanama Gamage is conducting the Sri Lankan Citizenship.
 
-ඒ අනුව අදාළ චෝදනා පත්‍රය කියවාදීම සඳහා අගෝස්තු මස 01 වනදා කොළඹ ප්‍රධාන මහෙස්ත්‍රාත්වරයා ඉදිරියේ සිදුකිරීමටද අතිරේක මහෙස්ත්‍රාත්වරයා විසින් නියෝග කරනු ලැබීය.
+The complaint was lodged at the time of the aftermath of Colombo Additional Magistrate Harshana Kekuna.
+
+The Criminal Investigations Department presented an indictment against Mrs. Diane Gamage.
+
+Accordingly, the Additional Magistrate ordered the Colombo Chief Magistrate on August 1 to read the charge sheet.
 
 ◼️
 
 [Data](articles/866ab91b.json)
 
+[Extended Data](ext_articles/866ab91b.ext.json)
+
 ---
 
-### කැරම් බෝඩ් නඩුව ගැන අධිකරණය දුන් නියෝගය
+### Court order on carrom board case
 
 *2024-07-11 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198702) · `si`
 
-රජයට රුපියල් මිලියන 53 කට ආසන්න පාඩුවක් සිදු කළේ යැයි චෝදනා ලබා සිටින හිටපු ක්‍රීඩා අමාත්‍ය මහින්දානන්ද අලුත්ගමගේ සහ වත්මන් වෙළෙඳ අමාත්‍ය නලින් ප්‍රනාන්දු යන මහත්වරුන්ට එරෙහි නඩුවේ විත්තිවාචිකය කැඳවීමට කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල තීන්දු කළේය.
+Colombo High Court summons two ministers over carrom board case related to the 2015 presidential election and distribution of sports equipment. Judges will decide on summoning defendants based on evidence presented.
 
-2015 වසරේ පැවති ජනාධිපතිවරණය සමයේ  ස.තො.ස ආයතනය මගින් කැරම් බෝඩ් හා දාම් ලෑලි මිලදීගෙන ඒවා ක්‍රීඩා සංගම් අතර බෙදාහැරීම තුළින්
+🟩
 
-මෙම නඩුවේ විත්තිවාචිකය කැඳවීමකින් තොරව විත්තිකරුවන් නිදහස් කරන්නේද? නැත්නම් විත්තිවාචිකය කැඳවනවාද යන නියෝගය ප්‍රකාශ කරමින් අමල් රණරාජා මහතා ප්‍රමුඛ ත්‍රිපුද්ගල විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය ප්‍රකාශයට පත් කළේය.
+The Colombo three-member High Courts decided to summon the defendant in the case of the former Sports Minister Mahindananda Aluthgamage and the current Trade Minister Nalin Fernando.
 
-ඉන් අනතුරුව විත්තිවාචිකය ඉදිරිපත් කිරීම අගෝස්තු මස 23 වනදා සිදුකරන ලෙසත් විනිසුරු මඩුල්ල විත්ති පාර්ශවයට නියෝග කර තිබේ.
+By the presidential election of the 2015 presidential election, the CWE planks of the CWE and distribution of the garden among Sports Associations.
+
+Do the defendants release without calling the visionary in this case?Or a three-judge panel of judges promised by Amal Ranaraja expressed the decree whether to call the defendant.
+
+Subsequently, the judges have been ordered to be performed on August 23.
 
 ◼️
 
 [Data](articles/5a3b5971.json)
+
+[Extended Data](ext_articles/5a3b5971.ext.json)
 
 ---
 
@@ -84,65 +96,89 @@ The primary objective of these agreements is to establish a streamlined process 
 
 [Data](articles/49007f5f.json)
 
+[Extended Data](ext_articles/49007f5f.ext.json)
+
 ---
 
-### ටැටූ ෂොප් හිමිකරුට මහෙස්ත්‍රාත්වරිය දුන් අවවාදය
+### Advertisement to the Tatuto Shop owner
 
 *2024-07-11 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198701) · `si`
 
-සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඝාතන සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් ටැටූ මධ්‍යස්ථානයේ හිමිකරු මහෙස්ත්‍රාත්වරිය හමුවේ රහස් ප්‍රකාශයක් සිදුකිරීමට අවසර ඉල්ලා තිබේ.
+Tatuto Shop owner Surestra Wasantha Perera, also known as Club Wasantha, is implicated in a murder case. He and seven others were arrested and interrogated, then remanded until July 22. The incident occurred at a Tatu Center in Athurugiriya, where Club Wasantha was killed, along with Nayana Warzuli, the husband of famous singer KVA. Several others, including Club Wasantha's wife and relatives, were injured. The funeral will be held on Saturday, with the body displayed for public viewing tomorrow.
 
-ඒ ඔහු ඇතුළු ව සැකකරුවන් 7 දෙනා ඊයේ (10) දිනයේදී කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කෙරුණු අවස්ථාවේ දීය.
+🟩
 
-එහිදී මහෙස්ත්‍රාත්වරිය සඳහන් කළේ නැවත වතාවක් සිතා බලා එම ඉල්ලීම සිදුකරන ලෙසය.
+Surestra Wasantha Perera alias Club Wasantha alias, the owner of the Tatu Center for the murder of Club was asked to make a secret statement to the magistrate.
 
-මේ අතර, සැකකරුවන් පැය 48ක් රඳවාගෙන ප්‍රශ්න කිරීමට එහිදී පොලීසිය අධිකරණයෙන් ඉල්ලා සිටියේය.
+He and the seven suspects were produced before the Kaduwela Magistrate yesterday (10).
 
-නමුත් ඊට අවසර ලබානොදුන් අධිකරණය, එම සැකකරුවන් ජුලි 22 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස නියෝග කළේය.
+The Magistrate stated that he was once again and to make the request.
 
-එමෙන්ම බන්ධනාගාරය තුළ ලොකු පැටී නම් අපරාධකරුගේ සගයන් සිටින බැවින් අදාළ සැකකරුවන්ට විශේෂ ආරක්ෂාවක් සපයන ලෙසද අධිකරණය බන්ධනාගාර නිලධාරීන්ට නියෝග කළේය.
+Meanwhile, the suspects were detained in 48 hours and questioned.
 
-නාඳුනන වෙඩික්කරුවන් දෙදෙනෙක් විසින් සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ජුලි 08 වනදා අතුරුගිරියේ පිහිටි ටැටූ මධ්‍යස්ථානයක දී වෙඩි තබා ඝාතනය කළේය.
+However, the court ordered to be remanded until July 22.
+
+The Court ordered the prison officials to provide special security to the suspects as the criminal of the criminal in the prison.
+
+Sirithndra Wasantha Perera, or Club was shot dead at a Tatu Center on July 08 at the July 08 at Athurugiriya.
+
+The famous singer KVA's husband, Nayana Warzuli, died and K.. A wife and his relative of the owner's wife and his relatives were injured in Sujeewa, Club Wasantha's wife.
+
+The wife of the Club Wasantha's wife and the owner of the Tattond Center is being treated at Kalubowila Hospital.
 
 ...
 
 [Data](articles/3d142a65.json)
 
+[Extended Data](ext_articles/3d142a65.ext.json)
+
 ---
 
-### ඉන්දීය ධීවරයින් පිරිසක් අත්අඩංගුවට
+### Indian fishermen arrested
 
 *2024-07-11 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198700) · `si`
 
-නීතිවිරෝධී ලෙස මෙරට මුහුදු ප්‍රදේශයේ ධීවර කටයුතුවල නිරත වූ ඉන්දීය ධීවරයින් පිරිසක් ශ්‍රී ලංකා නාවික හමුදාව විසින් අත්අඩංගුවට ගෙන තිබේ.
+In a special operation, the Sri Lanka Navy arrested 13 Indian fishermen and seized three boats for illegal fishing. The detainees and their vessels were transported to the Kankesanthurai harbor, set to be handed over to authorities for legal proceedings. This incident marks the latest in a series of arrests in 2024, with a total of 252 Indian fishermen apprehended so far.
 
-ඩෙල්ෆ්ට් දූපතට ඔබ්බෙන් වූ මෙරට මුහුදු සීමාවේ අද (11) අළුයම් කාලයේ සිදුකළ විශේෂ මෙහෙයුමකදී ඔවුන්ව අත්අඩංගුවට ගෙන ඇති බව නාවික හමුදාව සඳහන් කළේය.
+🟩
 
-එහිදී ඉන්දීය ධීවර යාත්‍රා 03ක් සමඟ ඉන්දීය ධීවරයින් 13 දෙනෙකු නාවික හමුදා භාරයට ගෙන තිබේ.
+Sri Lanka Navy has arrested a group of Indian fishermen who were illegally engaged in fishing in the coastal area.
 
-අත්අඩංගුවට ගත් ඉන්දීය ධීවර යාත්‍රා සහ එහි සිටි ඉන්දීය ධීවරයින් කන්කසන්තුරය වරාය වෙත රැගෙන ආ අතර ඉදිරි නීතිමය කටයුතු සඳහා මයිලඩි ධීවර පරීක්‍ෂක කාර්යාලය වෙත භාර දීමට නියමිතය.
+The Navy said that they have been arrested in a special operation conducted today (11) at a special operation conducted today (11).
 
-මෙම මෙහෙයුමත් සමඟ 2024 වර්ෂයේ මේ දක්වා සිදුකළ මෙහෙයුම් මඟින් මෙරට මුහුදු සීමාව තුළ අනවසර ධීවර කටයුතු සිදු කළ ඉන්දීය ධීවර යාත්‍රා 35ක් සහ ඉන්දීය ධීවරයින් 252 දෙනෙකු නාවික හමුදා භාරයට ගෙන ඉදිරි නීතිමය කටයුතු සඳහා යොමු කර තිබේ.
+Thirteen Indian fishermen have been taken into custody with three Indian fishing boats.
+
+The arrested Indian fishing vessels and the Indian fishermen were taken to the Kankesanthurai harbor and will be handed over to the Miloyia Fisheries Office for future legal action.
+
+With this operation, the operations carried out in 2024 have been carried out by the Sri Lankan waters and 252 Indian fishermen have taken over the Indian fishermen.
 
 ◼️
 
 [Data](articles/ba735502.json)
 
+[Extended Data](ext_articles/ba735502.ext.json)
+
 ---
 
-### கோர விபத்தில் மூவர் படுகாயம்
+### Trio injured in an accident
 
 *2024-07-11 13:04:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோர-விபத்தில்-மூவர்-படுகாயம்/175-340234) · `ta`
 
-முல்லைத்தீவு  மாவட்டத்தின் மாங்குளம் பொலிஸ் பிரிவுக்குட்பட்ட ஏ-9 வீதியில் திருமுறிகண்டிக்கும் கொக்காவில் பகுதிக்கும் இடைப்பட்ட பகுதியில் இடம்பெற்ற வீதி  விபத்தில் ஒருவர் உயிரிழந்ததுடன் மேலும் மூவர் படுகாயமடைந்து கிளிநொச்சி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+In a tragic road accident on the A-9 road near Thirumurikandi and Kokavil, one person died while four others were injured and taken to the Kilinochchi Hospital. The crash involved a Hayas vehicle coming from abroad to Jaffna and another vehicle, with all injured parties now under investigation by the Mankulam police.
 
-வெளிநாடு ஒன்றிலிருந்து வருகை தந்தவர்களை  விமான நிலையத்திலிருந்து யாழ்ப்பாணம் நோக்கி அழைத்து பயணித்துக்கொண்டிருந்த ஹயஸ் ரக வாகனம் ஒன்று ஏ 9 வீதியின் 241 ஆவது கிலோமீற்றருக்கும் 242 ஆவது கிலோமீற்றருக்கும் இடைப்பட்ட பகுதியில் முன்னே சென்று கொண்டிருந்த பாரஊர்தி ஒன்றுடன் மோதி  குறித்த விபத்து இடம்பெற்றுள்ளது.
+🟩
 
-இந்த விபத்தில் படுகாயமடைந்த  நால்வரும் உடனடியாக கிளிநொச்சி வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில்  ஒருவர் உயிரிழந்துள்ளார்  சம்பவம் தொடர்பில் மாங்குளம் பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
+One person was killed and three others were injured and admitted to the Kilinochchi Hospital in a road accident between Thirumurikandi and Kokavil on the A-9 road in the Mangulam police division of the Mullaitivu district.
+
+A Hayas vehicle that was traveling from a foreign country to Jaffna was collided with a barrier that was traveling between 241 kilometers and 242 kilometers of A9 road.
+
+Four of the injured in the accident were immediately rushed to the Kilinochchi Hospital after being admitted to the hospital. Mankulam police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/23518fea.json)
+
+[Extended Data](ext_articles/23518fea.ext.json)
 
 ---
 

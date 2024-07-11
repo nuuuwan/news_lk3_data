@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 17:20:16**
+As of **2024-07-11 17:36:00**
 
 ## Newspaper Stats
 
-*Scraped **34,795** Articles*
+*Scraped **34,797** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,74 @@ adalk | 3,138
 adaderanalk | 4,001
 tamilmirrorlk | 4,163
 dailymirrorlk | 4,733
-virakesarilk | 5,437
-adaderanasinhalalk | 5,789
+virakesarilk | 5,438
+adaderanasinhalalk | 5,790
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,792 (100.0%) of 34,795 articles have been extended.
+34,795 (100.0%) of 34,797 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### பணிப்புறக்கணிப்பில் ஈடுபட்டுள்ள ரயில் நிலைய அதிபர்களுக்கு சேவை நீக்க கடிதம் அனுப்பப்பட்டது
+### රුසියානු හමුදාවේ සිටින ඉන්දියානුවන් මුදවා ගන්න මෝදි රුසියාවට
+
+*2024-07-11 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198710) · `si`
+
+රුසියානු - යුක්‍රේන යුද්ධයට මැදිවී සිටින ඉන්දියානු ජාතිකයින් සම්බන්ධයෙන් රුසියාවේ සංචාරයක නිරත වූ ඉන්දීය අගමැති නරේන්ද්‍ර මෝදි කරුණු විමසා ඇති බව ජාත්‍යන්තර මාධ්‍ය පවසයි.
+
+එහිදී රුසියානු බලධාරීන් පවසා ඇත්තේ රුසියානු හමුදාවට බඳවා ගෙන සිටින ඉන්දීය ජාතිකයින්ව හැකි ඉක්මණින් සේවයෙන් ඉවත්කර නිදහස් කිරීමට කටයුතු කරන බවයි.
+
+ඉන්දියානු ජාතිකයින් පිරිසක් තැරැව්කරුවන් විසින් රවටා රුසියාවට යවා එහිදී ඔවුන්ව හමුදා සේවයට යොමුකර තිබේ.
+
+මෙතෙක් ඉන්දියානු ජාතිකයින් සිව් දෙනෙක් පමණ යුද බිමේදී මියගොස් ඇති අතර තවත් 30 දෙනෙක් පමණ රුසියානු හමුදාවට අනුයුක්තව සේවය කරන බව වාර්තා වෙයි.
+
+ඔවුන්ව ගලවා ගැනීම අගමැති මෝදි ගේ රුසියානු සංචාරයේ ප්‍රමුඛතම අරමුණක් විය.
+
+◼️
+
+[Data](articles/5a5a33a1.json)
+
+---
+
+### வேலை நிறுத்தத்தினால் 12 எரிபொருள் விநியோக ரயில் சேவைகள் இரத்து
+
+*2024-07-11 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/188240) · `ta`
+
+இரண்டு நாட்களாக முன்னெடுக்கப்படும் ரயில் நிலைய அதிபர்கள் மற்றும் கட்டுப்பாட்டாளர்களின் வேலை நிறுத்தத்தினால் கொலன்னாவை மற்றும் கட்டுநாயக்க சர்வதேச விமான நிலையத்திற்கு  இடையில் எரிபொருள் விநியோக 12 ரயில் சேவைகள் இயக்கப்படவில்லை.
+
+இதன் காரணமாக ரயில் திணைக்களத்திற்கு பாரிய நட்டம் ஏற்படுவதாக திணைக்களத்தின் சிரேஷ்ட அதிகாரி ஒருவர் தெரிவித்துள்ளார்.
+
+அதன்படி, தினமும் 10,000 லிற்றர் கொள்ளவு கொண்ட  10 எரிபொருள் கொள்கலன்கள் ரயிலில் பொறுத்தப்பட்டு விமான நிலையத்திற்கு தினமும் எரிபொருளை வழங்குவதாக அந்த அதிகாரி மேலும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/caa042e6.json)
+
+---
+
+### A letter sent to the railway station principals involved in the workplace
 
 *2024-07-11 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/188234) · `ta`
 
-பணிப்புறக்கணிப்பில் ஈடுபட்டுள்ள ரயில் நிலைய அதிபர்கள் சேவையிலிருந்து நீக்கப்பட்டதாக கருதி உத்தியோகபூர்வ கடிதம் அனுப்பப்பட்டதாக போக்குவரத்து அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+Transport Minister Bandula Gunawardena sent a letter to railway station principals, emphasizing strict adherence to protocols under surveillance from Gotabhaya Rajapaksa. He warned that laxity would lead to uncontrollable situations, especially concerning unions held captive by public sentiment.
 
-மக்களை நெருக்கடிக்குள்ளாக்கும் செயற்பாடுகளை கோட்டாபய ராஜபக்‌ஷ பார்த்துக் கொண்டிருப்பார். தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்க சகித்துக் கொள்ளமாட்டார் என்றும் போக்குவரத்து அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-கடுமையான தீர்மானங்களை எடுக்காவிடின் இவர்களை கட்டுப்படுத்த முடியாதெனவும் மக்களை பணயக் கைதிகளாக்கும் தொழிற்சங்கங்களுக்கு அடிப்பணிய முடியாதெனவும்  போக்குவரத்து அமைச்சர் மேலும் குறிப்பிட்டார்.
+Transport Minister Bandula Gunawardena said that the official letter was sent to the railway station principals who were involved in the workplace.
+
+Gotabhaya Rajapaksa will be watching the activities of the people. The Minister of Transport also noted that the current President Ranil Wickremesinghe will not tolerate.
+
+The Minister of Transport further stated that if they are not made strictly, they cannot control them and that the unions that are hostage of the masses are not.
 
 ◼️
 
 [Data](articles/021d9057.json)
+
+[Extended Data](ext_articles/021d9057.ext.json)
 
 ---
 
@@ -278,19 +320,27 @@ The island nation’s government has urged the ISA to refrain from accepting New
 
 ---
 
-### பாதாள குழு செயல்பாடுகளில் ஈடுபடுபவர்களை கொல்ல வேண்டும் - ஆளும் மற்றும் எதிரணி உறுப்பினர்கள்
+### To kill those involved in the underworld activities - the ruling and the opposition members
 
 *2024-07-11 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/188225) · `ta`
 
-பாதாள குழு செயற்பாடுகளில்  ஈடுபடுபவர்களை  கொல்ல வேண்டும், 225 பாராளுமன்ற உறுப்பினர்களும் ஒன்றிணைந்தால் பாதாள குழுக்களையும்,போதைப்பொருள் வியாபாரத்தையும் இல்லாதொழிக்க முடியும் என ஆளும் தரப்பின் உறுப்பினர்கள் குறிப்பிட்டனர்.
+Ruling and opposition members discuss eliminating underworld influence, criticizing police actions and highlighting political disagreements over handling of underworld figures and drug trade.
 
-அண்மையில் சுட்டுக் கொல்லப்பட்ட கிளப் வசந்தவின் கொலை சம்பவத்துடன் தொடர்புடையதாக  சந்தேகத்தின் அடிப்படையில் கைது செய்யப்பட்ட பச்சை குத்தும் நபரிடம் பொலிஸார் வாக்குமூலம் பெறும் காணொளி சமூக வலைத்தளங்களில் வெளியாகியுள்ளமை குறித்து ஆளும் மற்றும் எதிரணியின் உறுப்பினர்கள் கடும் அதிருப்தியை வெளிப்படுத்தினர்.
+🟩
 
-நாட்டில் அதிகரித்து வரும் படுகொலைகள் மற்றும் பாதாள குழுக்களின் செயற்பாடுகள் தொடர்பில் பாராளுமன்றத்தில் நேற்று வியாழக்கிழமை ஆளுங்கட்சி மற்றும் எதிர்க் கட்சியினருக்கும் இடையே கடும்  தர்க்கம் நிலவியது.
+Members of the ruling party noted that if 225 MPs join together, the underworld and the drug trade can be eliminated.
+
+Members of the ruling and opposition have expressed their dissatisfaction with the police confession on social media, which has been arrested by the police on suspicion of the murder of the club Vasantha, who was recently shot dead.
+
+There was a fierce argument between the ruling party and the opposition in Parliament on Thursday in Parliament on the rising massacre and the activities of the underworld groups in the country.
+
+Opposition Leader Sajith Premadasa addressed the special claim that the people were living in fear due to the activities of the massacre and underworld groups in the country during a session in Parliament yesterday.
 
 ...
 
 [Data](articles/78decdc2.json)
+
+[Extended Data](ext_articles/78decdc2.ext.json)
 
 ---
 
@@ -322,23 +372,35 @@ The husband has told the police that the child is claiming to have a wife cash a
 
 ---
 
-### சந்தேகநபரை விசாரணை செய்வதை காண்பிக்கும் வீடியோவை பொலிஸார் வெளியிடுவதா? மனித உரிமை ஆர்வலர்கள் கடும் எதிர்ப்பு
+### Is the police release a video of the suspect's investigation?Human rights activists are fierce opposition
 
 *2024-07-11 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/188223) · `ta`
 
-அத்துருகிரிய படுகொலை தொடர்பில் கைதுசெய்யப்பட்ட சந்தேகநபர்களில் ஒருவர் விசாரணை செய்யப்படுவதை காண்பிக்கும் வீடியோவை இலங்கை பொலிஸார் வெளியிட்டுள்ளமை குறித்து மனித உரிமை ஆர்வலர்கள் கடும்  கண்டனம் வெளியிட்டுள்ளனர்.
+Human rights activists criticize the Sri Lankan police for releasing a suspect's interrogation video, violating guidelines set by the Inspector General of Police in 2021. They argue this action undermines the presumption of innocence, endangers lives, and compromises the integrity of investigations. The former Commissioner of the Sri Lanka Human Rights Commission, Ambika Chakkunanathan, emphasizes the unprofessionalism and potential dangers of such releases, questioning the motives behind the video's public dissemination.
 
-2021ம் ஆண்டு பொலிஸ்மா அதிபர் வெளியிட்ட வழிகாட்டல்களிற்கு  முரணானவிதத்தில் இந்த வீடியோ பதிவு செய்யப்பட்டு வெளியிடப்பட்டுள்ளதாக அவர்கள் சுட்டிக்காட்டியுள்ளனர்.
+🟩
 
-பொலிஸார் இவ்வாறான நடவடிக்கைகளில் ஈடுபடுகின்றனர் என பல முறைப்பாடுகள் இலங்கை மனித உரிமை ஆணைக்குழுவிற்கு கிடைத்ததை தொடர்ந்து 2021 இல் விசாரணைகளை வீடியோவில் பதிவு செய்து வெளியிடுவதை நிறுத்துமாறு பொலிஸ்மா அதிபர் உத்தரவிட்டார் என மனித உரிமை ஆர்வலர்கள் தெரிவித்துள்ளனர்.
+Human rights activists have strongly condemned the video of Sri Lankan police on the video of one of the suspects arrested in connection with the Athurugiriya assassination.
 
-இந்த முறையில் விசாரணைகள் இடம்பெறுவது நபர் ஒருவரின் நியாயமான விசாரணைக்கான உரிமையை மீறும் செயல் என தெரிவித்துள்ள இலங்கை மனித உரிமை ஆணைக்குழுவின் முன்னாள் ஆணையாளர் அம்பிகா சற்குணநாதன் தெரிவித்துள்ளார்.
+They pointed out that the video was recorded and released in contrast to the guidance issued by the Inspector General of Police in 2021.
 
-மேலும் இது ஒருநபர் குற்றமற்றவர் என்ற அனுமானத்தை குறைமதிப்பிற்கு உட்படுத்தும் எனவும் அவர் தெரிவித்துள்ளார்.
+Human rights activists have said that the Police Inspector has ordered the Human Rights Commission to report to the Sri Lanka Human Rights Commission that the police are involved in such activities.
+
+Former Commissioner of the Sri Lanka Human Rights Commission, Ambika Chakkunanathan, said that this is a violation of a person's legitimate investigation.
+
+He also said that this would undermine the assumption that a person was innocent.
+
+He said that it was not a professional act to publish videos of investigations.
+
+He said that this could endanger the life of a person who is being investigated.
+
+Ambika Sakthunanathan said that this is the ability to undermine the investigation.
 
 ...
 
 [Data](articles/78db449b.json)
+
+[Extended Data](ext_articles/78db449b.ext.json)
 
 ---
 
@@ -2273,47 +2335,5 @@ Meanwhile, decisions have been taken regarding vehicle imports. A group of 15 ha
 [Data](articles/2bdc9816.json)
 
 [Extended Data](ext_articles/2bdc9816.ext.json)
-
----
-
-### Siripala says JICA agrees to resume work on 2nd BIA terminal with Rs. 170 b loan
-
-*2024-07-11 02:35:36* · [`dailyftlk`](https://www.ft.lk/business/Siripala-says-JICA-agrees-to-resume-work-on-2ndBIA-terminal-with-Rs-170-b-loan/34-764131) · `en`
-
-Ports, Shipping, and Aviation Minister Nimal Siripala de Silva with JICA Chief Representative Yamada Tetsuya during their meeting yesterday
-
-Ports, Shipping, and Aviation Minister Nimal Siripala de Silva said yesterday that Japan International Cooperation Agency (JICA) has agreed to re-grant the concessional Rs. 170 billion loan scheme to resume the construction of the second terminal at Bandaranaike International Airport in Katunayake.
-
-This project was halted due to the recent economic recession. The Minister’s announcement follows a special discussion with JICA Chief Representative Yamada Tetsuya yesterday.
-
-In a statement Minister de Silva highlighted that the country’s renewed economic stability, following the debt restructuring process by the International Monetary Fund (IMF), has led JICA to reinstate the concessional loan program, with the Japanese Government prioritising these activities.
-
-...
-
-[Data](articles/b9184169.json)
-
-[Extended Data](ext_articles/b9184169.ext.json)
-
----
-
-### Expo Property gets land in Kollupitiya for long-term lease
-
-*2024-07-11 02:33:23* · [`dailyftlk`](https://www.ft.lk/business/Expo-Property-gets-land-in-Kollupitiya-for-long-term-lease/34-764130) · `en`
-
-The Cabinet of Ministers on Tuesday approved a proposal to transfer a 52-perch plot of land in Kollupitiya to Expo Property Developers Ltd., under a 99-year lease.
-
-The decision comes following complications in transferring a previously allocated 40-perch plot due to unauthorised occupants.
-
-The land, owned by the Urban Development Authority (UDA), was initially approved for disposal in 2007 under a 50-year lease with 25% of the land’s value charged. However, due to the presence of unauthorised residents, the transfer could not be completed.
-
-Expo Property Developers requested an additional 12 perches adjacent to the original plot to facilitate a housing project, making the total requested area 52 perches. The Board of Management of the UDA has approved this request.
-
-The Cabinet of Ministers approved the proposal presented by the Urban Development and Housing Minister Prasanna Ranatunga to lease the land for 99 years based on the current valuation by the chief assessor.
-
-◼️
-
-[Data](articles/950f5bfe.json)
-
-[Extended Data](ext_articles/950f5bfe.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 22:53:54**
+As of **2024-07-11 23:05:30**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,849 (100.0%) of 34,851 articles have been extended.
+34,851 (100.0%) of 34,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### තවත් කණ්ඩායමක් වර්ජනය අත්හරී
+### Another group abandons the strike
 
 *2024-07-11 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198722) · `si`
 
-විශ්වවිද්‍යාල අනධ්‍යයන කාර්ය මණ්ඩලයේ විධායක ශ්‍රේණියේ නිලධාරීන් සිය වර්ජනය අත්හැරීමට තීරණය කර තිබේ.
+Non-academic staff at a university ends their strike after over two months, influenced by discussions with Professor Sampath Amaratunga about their demands.
 
-ඔවුන් මෙම තීරණය ගෙන ඇති බව සිය ඉල්ලීම් පිළිබඳව විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාවේ සභාපති මහාචාර්ය සම්පත් අමරතුංග මහතා සමග පැවති සාකච්ඡාවකින් අනතුරුව ඔවුන් මෙම තීරණය කර ඇති බව වාර්තා වේ.
+🟩
 
-ඉල්ලීම් කිහිපයක් මුල්කරගනිමින් මාස 2කකට අධික කාලයක් විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින් වර්ජනයේ නිරතව සිටී.
+University non-academic staff officers have decided to leave their strike.
+
+It is reported that they have decided after discussing the decision with Professor Sampath Amaratunga, Prof. Prof. Sampath Amaratunga regarding his demands.
+
+University non-academic workers are strike on more than 2 months on several demands.
 
 ◼️
 
 [Data](articles/242502cd.json)
+
+[Extended Data](ext_articles/242502cd.ext.json)
 
 ---
 
@@ -72,17 +78,23 @@ It is reported that the National Police Commission met today (11), reports say.
 
 ---
 
-### දුම්රිය වර්ජනය අවසන්
+### Railway strike ends
 
 *2024-07-11 22:13:38* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-වර්ජනය-අවසන්/11-410744) · `si`
 
-දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය  ප්‍රධානව තවත් දුම්රිය වෘත්තිය සමිති කිහිපයක් ක්‍රියාත්මක කර තිබූ දුම්රිය වර්ජනය අවසන් කිරිමට එම සංගම් තීරණය කර තිබේ.
+The Railway Masters Association strike has ended, with all members set to return to work tomorrow morning after a successful negotiation period.
 
-ඒ අනුව එම වැඩ වර්ජනය අද මධ්‍යම රාත්‍රි යේ සිට අවසන් කරන අතර ඔවුන් හෙට පෙරවරුවේ පටන් නියමිත පරිදි රාජකාරියට වාර්තා කිරීමට තීරණය කර තිබේ.
+🟩
+
+The association has decided to complete the strike which was implemented by several other railway arrangements for the Railway Masters Association.
+
+Accordingly, the strike is terminated from midnight today and has decided to report to duty tomorrow morning.
 
 ◼️
 
 [Data](articles/92a4022f.json)
+
+[Extended Data](ext_articles/92a4022f.ext.json)
 
 ---
 
@@ -93,6 +105,10 @@ It is reported that the National Police Commission met today (11), reports say.
 The Executive Grade of the non-academic staff of universities have decided to call off their ongoing strike following discussions with relevant authorities.
 
 The trade unions have ended the strike after discussing their demands and reaching an agreement with the Chairman of the University Grants Commission (UGC) Prof. Sampath Amarathunga.
+
+Non-academic employees from 17 universities and 19 joint post-graduate institutions have been on strike for nearly 70 days, severely disrupting the country’s higher education sector.
+
+The trade union action was launched based on several demands including wage concerns and allowances which they say were approved in 2017.
 
 ◼️
 

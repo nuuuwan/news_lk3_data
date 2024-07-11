@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 05:37:53**
+As of **2024-07-11 06:02:09**
 
 ## Newspaper Stats
 
-*Scraped **34,686** Articles*
+*Scraped **34,698** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 312
 colombotelegraphcom | 324
 bbccomsinhala | 339
 newsfirstlk | 363
-islandlk | 1,945
+islandlk | 1,957
 economynextcom | 2,049
 dailyftlk | 2,183
 adalk | 3,126
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,686 (100.0%) of 34,686 articles have been extended.
+34,686 (100.0%) of 34,698 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -664,6 +664,32 @@ Amarapura Aryavansa will represent the noise pedestal and the treats will be hel
 
 ---
 
+### Healthy and radiant skin…
+
+*2024-07-10 22:30:00* · [`islandlk`](http://island.lk/healthy-and-radiant-skin/) · `en`
+
+Hi! Thought of giving you something different, this week, for you to try out.
+
+Like me, I know all the lovely ladies like to keep their face…always beautiful.
+
+You will need 01 tablespoon ground flaxseed, 01 tablespoon white flour, 01 teaspoon olive oil, and 02 tablespoons non-sugar yoghurt…yes, plain yoghurt.
+
+In a small bowl, combine the ground flaxseed with the white flour. Then add the olive oil to the mixture. Next, gradually mix in the 02 tablespoons of non-sugar yoghurt (plain yoghurt). Stir well until you achieve a smooth paste-like consistency.
+
+(You can adjust the consistency of the mask by adding more yoghurt if it’s too thick, or more flour if it’s too runny.)
+
+Wash your face thoroughly with a gentle cleanser and pat dry with a towel.
+
+Apply the mask evenly to your face, avoiding the eye area, and allow the mask to sit on your face for about 15-20 minutes.
+
+Once the time is up, rinse your face with lukewarm water to remove the mask completely.
+
+...
+
+[Data](articles/11f413aa.json)
+
+---
+
 ### New Sri Lankan initiative celebrates expats for fostering Saudi ties
 
 *2024-07-10 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100432/new-sri-lankan-initiative-celebrates-expats-for-fostering-saudi-ties) · `en`
@@ -681,6 +707,62 @@ The first person to receive the accolade was Chandralal Senadhira, a manager who
 [Data](articles/18dd008a.json)
 
 [Extended Data](ext_articles/18dd008a.ext.json)
+
+---
+
+### Hayleys Solar introduces ‘Nayak Nowena Nayak’
+
+*2024-07-10 22:01:00* · [`islandlk`](http://island.lk/hayleys-solar-introduces-nayak-nowena-nayak/) · `en`
+
+Hayleys Solar, the renewable energy arm of Hayleys Fentons, is empowering Sri Lankan families to take control of their energy needs with “Nayak Nowena Nayak” – exclusive financial schemes designed to make solar power affordable for everyone.
+
+...
+
+[Data](articles/9c619746.json)
+
+---
+
+### ComBank Bangladesh operations receive ‘AAA’ credit rating for 14th successive year
+
+*2024-07-10 21:59:00* · [`islandlk`](http://island.lk/combank-bangladesh-operations-receive-aaa-credit-rating-for-14th-successive-year/) · `en`
+
+Commercial Bank Bangladesh, the Bangladesh operation of Commercial Bank of Ceylon PLC, has received a ‘AAA’ (Triple A) Long Term credit rating from Credit Rating Information and Services Ltd (CRISL) for 2024, the 14th consecutive year it has received the highest credit rating given to a financial institution in Bangladesh.
+
+Valid till June 2025, the latest credit rating is the outcome of an in-depth analysis of the operational and financial performance of the Bank along with relevant quantitative and qualitative factors, the Bank said.
+
+...
+
+[Data](articles/90768b15.json)
+
+---
+
+### SriLankan Airlines introduces eco-friendly amenities in Business Class
+
+*2024-07-10 21:58:00* · [`islandlk`](http://island.lk/srilankan-airlines-introduces-eco-friendly-amenities-in-business-class/) · `en`
+
+Comfort meets sustainability in Business Class as SriLankan Airlines introduces new eco-friendly pillow covers and headrest covers (antimacassars) made from recycled PET plastic (rPET). This progressive move underscores the airline’s commitment to reducing its carbon footprint as a sustainability-forward organization, while continuing to provide customers with the highest standards of quality.
+
+The new amenities are sourced from Procurall Solutions, a leader in designing and developing comfort and care solutions for the world’s top airlines. The pillow covers and antimacassars are made entirely from sustainable polyester, created from recycled PET plastic. This not only helps reduce plastic pollution but also conserves natural resources. Additionally, the production process of rPET is more energy-efficient, providing an added environmental benefit.
+
+...
+
+[Data](articles/e51f5617.json)
+
+---
+
+### Bourse in recovery stage following oversell of shares
+
+*2024-07-10 21:57:00* · [`islandlk`](http://island.lk/bourse-in-recovery-stage-following-oversell-of-shares/) · `en`
+
+The stock market turned out to be in a recovery stage yesterday after the market saw an oversell of shares due to a dip in the market for two consecutive sessions. Only 27 Index points were secured in trading as against 160 points down during the last two sessions, market analysts said.
+
+The market was dominated by two crossings; especially that of Agalawatte Plantations, but retail investor participation was significantly low. Out of the 801.2 million turnover only Rs 450 million had come from retail investors, due to political uncertainty, which resulted in the market becoming lacklustre.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 27 points while S and P SL20 rose by 14.47 points. Turnover stood at Rs 801.2 million with two crossings. Those crossings were reported in Agalawatte Plantations, which crossed 10.9 million shares to the tune of Rs 350 million; its shares traded at Rs 32 and Sampath Bank 300,000 shares crossed for Rs 23.25 million.
+
+...
+
+[Data](articles/7998886e.json)
 
 ---
 
@@ -2177,107 +2259,5 @@ Although the Cabinet had approved the import of 1,000 vehicles (250 buses and 75
 [Data](articles/eb599134.json)
 
 [Extended Data](ext_articles/eb599134.ext.json)
-
----
-
-### Welfare receives 90 more ambulance free of charge
-
-*2024-07-10 13:32:25* · [`adalk`](https://www.ada.lk/breaking_news/සුවසැරියට-තවත්-ගිලන්-රථ-90ක්-නොමිලයේ-ලැබෙයි/11-410716) · `si`
-
-Tata Sons Pvt Ltd received a grant for 297 ambulances from the Indian government, which were then distributed to various countries including Sri Lanka. The company additionally committed to providing 50 more ambulances. This initiative aligns with efforts to enhance healthcare infrastructure globally.
-
-🟩
-
-In 2016, a grant of 297 ambulances obtained by the TATA SONS (PVT) obtained by the TATA SONS (PVT) has been launched by the Indian Agents (Pvt) Ltd from the Indian government.
-
-322 ambulances have been used by the Government of Sri Lanka.It has also been identified that Tata SONS (Pvt) Ltd has agreed to provide 50 ambulances as a grant of 45 ambulances.
-
-The proposal of the Minister of Health was approved by the Cabinet of Health to obtain the required "1990 Comfortable Foundation".
-
-◼️
-
-[Data](articles/f70bcbda.json)
-
-[Extended Data](ext_articles/f70bcbda.ext.json)
-
----
-
-### Constitutional amendment to specify the term of office
-
-*2024-07-10 13:27:40* · [`adalk`](https://www.ada.lk/breaking_news/ධුර-කාලය-නිශ්චිත-කරන්න-ව්‍යවස්ථා-සංශෝධනයක්/11-410715) · `si`
-
-A constitutional amendment aims to clarify the President's term length, specifying it exceeds five years to resolve ambiguities. The Cabinet approves this proposal.
-
-🟩
-
-It is observed that the term of the President of the Constitution 30 (2) and 83 (b) Constitution is observed to have the term of the President's term and the existing time.
-
-The Constitution of the Constitution exceeding the words "over a five-year" to relieve the words of the saying, "exceeding the words" as "exceeding the words" of the saying, "exceeding the words" of the "exceeding the words of the 'doubt and remove any inconsistency to remove any inconsistency, the President presented a bill to amend the ConstitutionThe proposal was approved by the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/f182d09b.json)
-
-[Extended Data](ext_articles/f182d09b.ext.json)
-
----
-
-### Estate workers cancel agreements with unpaid plantation companies
-
-*2024-07-10 13:21:00* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරුවන්ට-නියමිත-වැටුප-නොගෙවන-වැවිලි-සමාගම්-සමග-ඇති-ගිවිසුම්-අවලංගු-කරයි/11-410714) · `si`
-
-Estate workers have canceled contracts with unpaid plantation firms. The Cabinet has approved measures to expedite law changes regarding government lease agreements and worker salaries. A committee will assess each company's ability to pay wages amid rising costs and the national economic crisis.
-
-🟩
-
-Cabinet approval has been approved to accelerate the laws process that has been entered into the government's lease agreements with the planned salaries of estate workers.
-
-The Secretary to the Ministry of Finance, Economic Stability and National Policy has been instructed to estimate the cost of living and the economic crisis in the country recently.
-
-He has also decided to appoint a committee yesterday (09) to appoint a committee to determine the possibility of each regional estate companies to pay the salary.
-
-◼️
-
-[Data](articles/10661a4e.json)
-
-[Extended Data](ext_articles/10661a4e.ext.json)
-
----
-
-### Dissident Sri Lanka ruling party group to back main opposition SJB: MP
-
-*2024-07-10 13:20:00* · [`economynextcom`](https://economynext.com/dissident-sri-lanka-ruling-party-group-to-back-main-opposition-sjb-mp-171620/) · `en`
-
-ECONOMYNEXT — The Freedom Peoples Congress (FPC) led by MP Dullas Alahapperuma, a breakaway faction of the ruling Sri Lanka Podujana Peramuna (SLPP), will join an alliance led by the main opposition Samagi Jana Balawegaya (SJB), MP Charitha Herath said.
-
-Herath told reporters in Colombo on Wednesday July 10 that the FPC’s discussions with the SJB have been successful and the group intends to join the “mainstream” opposition as part of a broader alliance.
-
-“A very decisive presidential election is likely to be held this November. Our talks with the main opposition SJB have been very successful. So we believe we will be able to join the opposition mainstream over the next few weeks to bring about a broad political change,” said Herath.
-
-The SJB will be fielding its own presidential candidate, the MP said, and will be backed by a “strong” team and manifesto.
-
-...
-
-[Data](articles/6bebfb04.json)
-
-[Extended Data](ext_articles/6bebfb04.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-07-10 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/188120) · `ta`
-
-On July 10, the US dollar bought for 299.2616 rupees and sold for 308.5052 rupees.
-
-🟩
-
-The US dollar purchasing price was 299.2616 rupees and the sales price were 308.5052 rupees on Wednesday (July 10).
-
-◼️
-
-[Data](articles/dd96c2e4.json)
-
-[Extended Data](ext_articles/dd96c2e4.ext.json)
 
 ---

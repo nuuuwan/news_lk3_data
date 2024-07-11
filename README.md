@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 12:19:53**
+As of **2024-07-11 12:35:08**
 
 ## Newspaper Stats
 
-*Scraped **34,749** Articles*
+*Scraped **34,751** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,957
 economynextcom | 2,053
 dailyftlk | 2,183
-adalk | 3,132
+adalk | 3,134
 adaderanalk | 3,994
 tamilmirrorlk | 4,152
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,779
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,745 (100.0%) of 34,749 articles have been extended.
+34,745 (100.0%) of 34,751 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -75,6 +75,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/607b70f0.json)
+
+---
+
+### පොහොට්ටුවේ තවත් දෙකක් සජිත් ලඟට
+
+*2024-07-11 11:41:25* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-තවත්-දෙකක්-සජිත්-ලඟට/11-410738) · `si`
+
+ඩලස් අලහප්පෙරුම මහතාගේ නායකත්වයෙන් යුත් නිදහස ජනතා සන්ධානය නියෝජනය කරන ශ්‍රී ලංකා පොදුජන පෙරමුණේ මන්ත්‍රීවරුන් වන ලලිත් එල්ලාවල සහ වෛද්‍ය තිලක් රාජපක්ෂ යන මහත්වරු විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාගේ නායකත්වයෙන් යුත් සමගි ජන බලවේගයට සහයෝගය දක්වන බවත් ඉදිරි ජනාධිපතිවරණයේදී ප්‍රේමදාස මහතාගේ ජයග්‍රහණය වෙනුවෙන් කටයුතු කරන බවත් ඔවුහු පැවසූහ.
+
+◼️
+
+[Data](articles/812accf4.json)
 
 ---
 
@@ -1956,6 +1968,22 @@ His wife is currently hospitalized and hospitalized by the shooting.
 
 ---
 
+### ඊයේ දුම්රිය ගමන්වාර 272ක් අවලංගුයි
+
+*2024-07-10 20:05:00* · [`adalk`](https://www.ada.lk/breaking_news/ඊයේ-දුම්රිය-ගමන්වාර-272ක්-අවලංගුයි/11-410734) · `si`
+
+ඉල්ලීම් කිහිපයක් මුල් කර ගනිමින් පෙර්දා (09දා) මධ්‍යම රාත්‍රී 12 සිට දුම්රිය ස්ථානාධිපතිවරුන්  හා දුම්රිය පාලකවරුන්  ආරම්භ කළ වැඩ වර්ජන ක්‍රියා මාර්ගය නිසා ඊයේ(10දා) ධාවනය කිරිමට නියමිතව තිබූ දුම්රිය ගමන්වාර 272ක් පමණ අවලංගු වී තිබේ.
+
+ඊයේ(10දා)  දුම්රිය ගමන් වාර 295 ක්  ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබුණත් ධාවනය කර තිබෙන්නේ දුම්රිය ගමන් වාර 23 ක් පමණක් වන අතර දුම්රිය ස්ථානාධිපතිවරුන්  හා දුම්රිය පාලකවරුන්  ආරම්භ කළ වැඩ වර්ජන ක්‍රියා මාර්ගයට සහාය පළකරමින් උප දුම්රිය ස්ථානධිපතිවරුද ඊයේ දහවල් වර්ජනයට එක් වූහ.
+
+පුරප්පාඩු සම්පූර්ණ කරන ලෙසත්  වසර 05 න් 5ට  උසස්වීම් ලබා දෙන ලෙසත් තවත් ගැටලු කිහිපයකුත් මුල් කර ගනිමින් මෙම වෘත්තීය ක්‍රියා මාර්ගය ආරම්භ කළ අතර එම ක්‍රියා මාර්ගය ගැටලු විසඳන තෙක් සිදුකරන බවද දුම්රිය ස්ථානාධිපතිවරු සඳහන් කරති.
+
+...
+
+[Data](articles/82756ffe.json)
+
+---
+
 ### Railway strike laid down
 
 *2024-07-10 20:01:36* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-වර්ජනය-පළමු-බිල්ල-ගනියි/11-410733) · `si`
@@ -2223,49 +2251,5 @@ The Illegal Asset Investigation Division of the Criminal Investigation Division 
 [Data](articles/a24da8d5.json)
 
 [Extended Data](ext_articles/a24da8d5.ext.json)
-
----
-
-### One dies after falling off the train
-
-*2024-07-10 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188167) · `ta`
-
-A passenger tragically fell from a crowded train during heavy traffic and passed away.
-
-🟩
-
-In the midst of heavy congestion, a passenger who was traveling on the train fell off the train and died.
-
-◼️
-
-[Data](articles/f09b14a9.json)
-
-[Extended Data](ext_articles/f09b14a9.ext.json)
-
----
-
-### Removal of Vehicle Import: The final resolution of the second week of August - Minister of Finance
-
-*2024-07-10 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/188166) · `ta`
-
-The Finance Minister announced that the decision on lifting the vehicle import ban will be made in early August after a committee's report. Special focus is on importing various types of vehicles, including those for tourism, with specific permissions granted for 250 buses and 750 vans.
-
-🟩
-
-The final decision on the lifting of the ban on vehicle imports will be taken in the second week of August. Finance Minister Ranjith Siyambalapitiya said the final report would be submitted to the Cabinet in the second week of August as the committee appointed to investigate the matter was met on the 4th.
-
-He said this while addressing a debate on the Gazette Notifications on Wednesday (10) in Parliament.
-
-Special attention has been paid to the importation of vehicle imports.
-
-Steps will be taken to import vehicles in accordance with the adoption of vehicles, goods transportation vehicles, alternative vehicles, ordinary vehicles and private vehicles. In addition to the importation of the tourism sector, no one of the thousand vehicles allowed by the Cabinet has been imported.
-
-The Cabinet has granted permission to import 250 buses and 750 van vehicles in those vehicles.. He said it would be imported with the permission of the Ministry of Tourism.
-
-◼️
-
-[Data](articles/7fc86d70.json)
-
-[Extended Data](ext_articles/7fc86d70.ext.json)
 
 ---

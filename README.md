@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 15:53:57**
+As of **2024-07-11 16:06:36**
 
 ## Newspaper Stats
 
-*Scraped **34,780** Articles*
+*Scraped **34,783** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 islandlk | 1,957
 economynextcom | 2,055
 dailyftlk | 2,183
-adalk | 3,135
+adalk | 3,137
 adaderanalk | 3,998
 tamilmirrorlk | 4,161
 dailymirrorlk | 4,733
 virakesarilk | 5,434
-adaderanasinhalalk | 5,785
+adaderanasinhalalk | 5,786
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,778 (100.0%) of 34,780 articles have been extended.
+34,780 (100.0%) of 34,783 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### ශූරයින්ගේ කුසලාන ක්‍රිකට් තරගාවලිය ශ්‍රී ලංකාවේදී ?
+
+*2024-07-11 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198706) · `si`
+
+2025 දී පැවැත්වීමට නියමිත ශූරයින්ගේ කුසලාන ක්‍රිකට් තරගාවලිය ශ්‍රී ලංකාවේදී හෝ එක්සත් අරාබි එමීර් රාජ්‍යයේ පැවැත්වීමට ඉඩ ඇතැයි ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+
+එවැනි තත්ත්වයක් උද්ගතවී ඇත්තේ එම තරගාවලිය පැවැත්වීමට නියමිත පාකිස්තානයේ සංචාරය කිරීමට ඉන්දීය කණ්ඩායම අකමැත්ත ප්‍රකාශ කර ඇති බැවින් බව සඳහන් වෙයි.
+
+ඒ සම්බන්ධයෙන් ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයෙන් ඉන්දියාව ඉල්ලීමක් කිරීමට නියමිත බව එම මාධ්‍ය වාර්තාවේ දැක්වෙයි.
+
+2025 ශූරයින්ගේ කුසලාන ක්‍රිකට් තරගාවලිය එම වසරේ මාර්තු මාසයේදී පාකිස්තානයේදී පැවැත්වීමට සැලසුම් කර තිබෙන අතර පාකිස්තානය පවසා ඇත්තේ ඉන්දීය තරග ලාහෝර් නගරයේ පැවැත්වීමට කටයුතු කරන බවයි.
+
+අවසන් වරට ඉන්දීය ක්‍රිකට් කණ්ඩායමක් පාකිස්තානයේ සංචාරය කළේ 2008 වසරේදී ආසියානු කුසලාන තරගාවලිය සඳහාය.
+
+◼️
+
+[Data](articles/957ed55e.json)
+
+---
 
 ### Railway Station Masters’ Union warns govt. against oppression
 
@@ -45,6 +65,8 @@ He also mentioned that the executive council of their trade union will meet this
 ◼️
 
 [Data](articles/3cefaefc.json)
+
+[Extended Data](ext_articles/3cefaefc.ext.json)
 
 ---
 
@@ -61,6 +83,42 @@ The island nation’s government has urged the ISA to refrain from accepting New
 ...
 
 [Data](articles/171e8bed.json)
+
+[Extended Data](ext_articles/171e8bed.ext.json)
+
+---
+
+### එක්දරු, මාස 06 ගැබිනියක් අතුරුදහන්
+
+*2024-07-11 15:18:21* · [`adalk`](https://www.ada.lk/breaking_news/එක්දරු--මාස-06-ගැබිනියක්-අතුරුදහන්/11-410740) · `si`
+
+ගොවිඳුපුර පොලිස් වසමට අයත් කන්දඋඩපංගුව අම්පාරපාර 07 කණුව අසල පදිංචි මාස 06 ගැබිනියක්වූ එක්දරු මවක් ඉකුත් (09) වෙනිදා සිට අතුරුදන්වී ඇතැයි ගොවිඳුපුර පොලීසිය පවසයි.
+
+ඇය ඉකුත් 09 වෙනිදා උදෑසන දහයට පමණ රන්දු නැමැති දියණිය සමඟ මාතෘ සායනයට පිටවගොස් පසුව මවගේ නිවසට යන බව පවසමින් දියණිය පිටත්කර යවා ඇත.
+
+තම බිරිඳ වන කේ.ඒ අමාලී ශ්‍රියා නමැත්තිය නිවසට නොපැමිණි බවට ඇයගේ ස්වාමිපුරුෂයා වන වෙලේගෙදර සමීර මාදම්පිටිය නැමති අය විසින් (10) වෙනිදා පොලීසියට පැමිණිලිකර තිබේ.අවස්ථා කිහිපයකදී බිරිඳගේ ජංගම දුරකථනයට ඇමතුම් ලබාදී ඇතත් එය විසන්ධිවී ඇත.
+
+පසුව ඇය වට්ස්ඇප් පණිවිඩයක් මඟින් ඇයගේ ගිණුමට මුදල් බැරකරන ලෙස දැනුම්දී තිබේ. එදිනම කිසියම් අයෙකු බිරිඳගේ වට්ස්ඇප් ගිණුමට රුපියල් ලක්ෂ 50 බැරකරන ලෙසද දැනුම්දී ඇත. එසේ නොකළහොත් සමීර “උඔ දඟලන්න එපා ගෑණි දැන් ඉන්නේ අපිගාව.උඹ පොලීසි ගිහින් අපිට කරන්න පුළුවන් දෙයක් නැහැ.ලක්ෂ පනහක් හදලා තියපන්.සල්ලි දුන්න කියලා පොලීසියට කිව්වොත් ගෑණි මරනවා යන ලෙස සඳහන්කර පරුෂ වචනයෙන් බැන කෙටි පණිවිඩයක් එවා තිබේ.
+
+...
+
+[Data](articles/ab809476.json)
+
+---
+
+### හිරුණිකාට අදත් ඇප නෑ
+
+*2024-07-11 14:57:31* · [`adalk`](https://www.ada.lk/breaking_news/හිරුණිකාට-අදත්-ඇප-නෑ/11-410739) · `si`
+
+බරපතළ වැඩසහිත වසර තුනක සිර දඬුවම් නියමවී සිටින හිටපු පාර්ලිමේන්තු මන්ත්‍රී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය ඇප මත මුදාහරින ලෙස කර ඇති ඉල්ලීමට අදාළව නීතිපතිවරයා විසින් අද (11) ලිඛිතව සිය විරෝධත කොළඹ මහාධිකරණය හමුවේ භාරදුන්නේය.
+
+2015 වසරේ දෙසැම්බර් මස 21 වනදා දෙමටගොඩ ප්‍රදේශයේ වෙළෙඳසැලක සේවය කළ අමිල ප්‍රියංක නමැති තරුණයකු කළු පැහැති ඩිෆෙන්ඩර් රථයකින් පැහැරගෙන ගොස් අයුතු ලෙස සිරකර තබා පහරදීමේ චෝදනා 18කට වරදකරු කෙරුණු හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට ඉකුත්දා කොළඹ මහාධිකරණය විසින් බරපතළ වැඩසහිත වසර තුනක සිර දඬුවම් සහ දඩ මුදල් නියම කෙරුණි.
+
+මහාධිකරණ විනිසුරුවරයා තමන් වරදකාරිය කරමින් නිකුත් කළ තීන්දුව දෝෂ සහගත බවත් තමන් ඉදිරිපත් කළ කරුණු පිළිබඳ විනිසුරුවරයා සැළකිල්ලක් දක්වා නැති බවත් පෙන්වා දෙන පෙත්සම්කාර හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය තමන් වරදකාරිය කරමින් දුන් තීන්දුව හා තමන්ට පැනවු දඬුවම් ඉවත දමා සිය චෝදනා වලින් තමන් නිදොස් කර නිදහස් කරන්නැයි ඇය ඉල්ලා සිටින්නීය.
+
+...
+
+[Data](articles/d991a639.json)
 
 ---
 
@@ -2239,89 +2297,5 @@ The past week has seen a flurry of media activity from apologists for, and suppo
 [Data](articles/17ed5b64.json)
 
 [Extended Data](ext_articles/17ed5b64.ext.json)
-
----
-
-### Trust in Government’s commitment to democratic process crucial for recovery
-
-*2024-07-11 00:49:37* · [`dailyftlk`](https://www.ft.lk/opinion/Trust-in-Government-s-commitment-to-democratic-process-crucial-for-recovery/14-764103) · `en`
-
-A Fundamental Rights petition is pending before the Supreme Court requesting a postponement of the Presidential election until a determination is made on the length of the President’s term of office. The National Peace Council welcomes the Supreme Court’s decision to consider the case as soon as possible. We believe the continuing uncertainty about the holding of the Presidential election is deeply harmful to the country in every aspect. It undermines faith in the democratic process in which free and fair elections that are held regularly is an indispensable element.
-
-...
-
-[Data](articles/c50a8ccf.json)
-
-[Extended Data](ext_articles/c50a8ccf.ext.json)
-
----
-
-### Hales, drinks an extraordinary bowl;Cole Marwals easily defeated Belgons Kandy
-
-*2024-07-11 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/188172) · `ta`
-
-In the 15th match of the 5th Lanka Premier League, Cole Marwals defeated Kandy Belgons, becoming the current champions. Key players included Prabad Jayasuriya, Alex Hales, and Panuka Rajapaksa, who contributed significantly to the win. Despite losing two wickets, Marwals achieved the target of 188 runs in 19.2 overs. This victory places them second with 8 points, behind Jevna Kings due to better net run rate. Notable performances were Hales' 55-ball 76 and Rajapaksa's 46 off 26 balls. Kandy Belgons, batting first, scored 187/9 in 20 overs, with notable contributions from Dinesh Chandimal, Andre Plecher, and Angelo Mathews.
-
-🟩
-
-Cole Marwals won the current Champion Kandy Belgons in the 15th match of the 5th Lanka Premier League chapter held at the Dambulla International Cricket Stadium on Wednesday (10).
-
-Prabad Jayasuriya's accurate bowling, Alex Hales and Panuka Rajapaksa played a major role in the victory of Cole Marwals.
-
-In response to a target of 188 runs, goal Marwals lost only 2 wickets in 19.2 overs and scored 188 runs.
-
-With this victory, the teams are in second place with 8 points.
-
-Jevna Kings also scored 8 points, but the net running is the number one.
-
-Niroshan Dikwella and Alex Hales shared 76 runs in 7 overs. Niroshan Dikwella scored 25 runs. Tim Seefward scored 16 runs.
-
-However, Alex Hales and Panuka Rajapaksa shared 81 runs in the 3rd wicket without having to face any inconvenience.
-
-Alex Hales did not lose 55 balls with 7 pounds and 4 sixes and Panuka Rajapaksa did not play 46 off 26 balls.
-
-...
-
-[Data](articles/6793e809.json)
-
-[Extended Data](ext_articles/6793e809.ext.json)
-
----
-
-### 2024-07-10 (Wednesday)
-
-### India launched Sri Lanka 88-44
-
-*2024-07-10 23:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/188171) · `ta`
-
-India triumphed over Sri Lanka 88-44 in the South Asian Basketball Championships U18, showcasing dominant performance throughout the game. The Maldives also secured victory against Bangladesh with a score of 77-55, demonstrating strong gameplay especially in the latter half.
-
-🟩
-
-India won the second match of the South Asian Basketball Championships under the age of 18, which began on Wednesday (10) at the Sugathadasa Indoor Stadium in Colombo by 88 - 44.
-
-India, which dominated from the beginning to the end, was 40 - 22 in the break.
-
-India, which played the first match of the match, reached 21 -9.
-
-Although Sri Lanka showed some skills in the second match, India were 19 - 13, with a total of 40 - 22 in the break.
-
-Sri Lankan -up in the aftermath of the break. But India was the 3rd match and 21 - 17, 61 - 39.
-
-In the last time of the match, India gained the spots of the Sri Lankan players to make a lot of mistakes.
-
-India won by 27 - 5 by 88 - 44.
-
-SCE on behalf of Sri Lanka. Tiluk is 13 points and S.. Evein 12 points on behalf of India. Vednash 29 points. Ishan also received 27 points.
-
-The Maldives won by 77 - 55 in the opening match of the Maldives and Bangladesh.
-
-The Maldives were leading 13 - 12 in the first match.
-
-...
-
-[Data](articles/f8281fa0.json)
-
-[Extended Data](ext_articles/f8281fa0.ext.json)
 
 ---

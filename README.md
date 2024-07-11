@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 14:35:23**
+As of **2024-07-11 14:54:34**
 
 ## Newspaper Stats
 
-*Scraped **34,763** Articles*
+*Scraped **34,766** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,055
 dailyftlk | 2,183
 adalk | 3,134
 adaderanalk | 3,996
-tamilmirrorlk | 4,156
+tamilmirrorlk | 4,159
 dailymirrorlk | 4,733
 virakesarilk | 5,427
 adaderanasinhalalk | 5,783
@@ -26,11 +26,41 @@ adaderanasinhalalk | 5,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,760 (100.0%) of 34,763 articles have been extended.
+34,760 (100.0%) of 34,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### தாயை தள்ளிவிட்டு: மகள் கடத்தல்
+
+*2024-07-11 14:30:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாயை-தள்ளிவிட்டு-மகள்-கடத்தல்/175-340238) · `ta`
+
+15 வயதும் 10 மாதங்களேயான சிறுமியை, செவ்வாய்க்கிழமை (09) முச்சக்கரவண்டியில் கடத்திச் சென்ற இளைஞனை கைது செய்வதற்கான விசாரணைகளை முன்னெடுத்துள்ளதாக புத்தல பொலிஸார் தெரிவித்தனர்.
+
+இந்த சிறுமி, சந்தேகநபரான இளைஞனுடன் இதற்கு முன்னர் தப்பியோடியிருந்தார். அச்சிறுமியை மீட்ட பொலிஸார், நன்னடத்தைக்கு உட்படுத்தியிருந்தனர்.
+
+அங்கிருந்து மற்றுமொரு முச்சக்கரவண்டியில் வீட்டுக்குச் சென்றுக்கொண்டிருந்த போது, பிரிதொரு முச்சக்கரவண்டியில் வந்த இளைஞனும் அவருடைய தந்தையும், முச்சக்கரவண்டியை வீதியின் குறுக்காக நிறுத்தி, சிறுமி​யின் தாயை தள்ளிவிட்டு, அச்சிறுமியை கடத்திச்சென்றுள்ளனர்.
+
+சம்பவம் தொடர்பில் முறைப்பாடு கிடைத்ததை அடுத்து, முச்சக்கரவண்டியின் சாரதி​யான, இளைஞனின் தந்தை பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார். எனினும், அவ்விளைஞன் பிரதேசத்தை விட்டு தலைமறைவாகியுள்ளார் எனத் தெரிவித்த புத்தல பொலிஸார், மேலதிக விசாரணைகளை மேற்​கொண்டு வருவதாக தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/6e26c7f7.json)
+
+---
+
+### இலங்கை பயணி மரணம்: விமானம் கராச்சியில் தரையிறங்கியது
+
+*2024-07-11 14:13:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பயணி-மரணம்-விமானம்-கராச்சியில்-தரையிறங்கியது/175-340237) · `ta`
+
+துபாயில் இருந்து கொழும்பு நோக்கி புறப்பட்ட வெளிநாட்டு விமானம் ஒன்றில் பயணித்த பெண் பயணியின் உடல்நிலை திடீரென மோசமடைந்ததை அடுத்து கராச்சி விமான நிலையத்தில் அந்த விமானம் அவசரமாக தரையிறக்கப்பட்டது.
+
+◼️
+
+[Data](articles/ae8b54d8.json)
+
+---
 
 ### ‘Club Wasantha’ murder: Tattoo studio owner requests confidential statement, court orders enhanced prison security for suspects
 
@@ -199,6 +229,22 @@ Four of the injured in the accident were immediately rushed to the Kilinochchi H
 [Data](articles/23518fea.json)
 
 [Extended Data](ext_articles/23518fea.ext.json)
+
+---
+
+### கோர விபத்தில் மூவர் படுகாயம்: ஓருவர் பலி
+
+*2024-07-11 13:04:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோர-விபத்தில்-மூவர்-படுகாயம்-ஓருவர்-பலி/175-340234) · `ta`
+
+முல்லைத்தீவு  மாவட்டத்தின் மாங்குளம் பொலிஸ் பிரிவுக்குட்பட்ட ஏ-9 வீதியில் திருமுறிகண்டிக்கும் கொக்காவில் பகுதிக்கும் இடைப்பட்ட பகுதியில் இடம்பெற்ற வீதி  விபத்தில் ஒருவர் உயிரிழந்ததுடன் மேலும் மூவர் படுகாயமடைந்து கிளிநொச்சி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+வெளிநாடு ஒன்றிலிருந்து வருகை தந்தவர்களை  விமான நிலையத்திலிருந்து யாழ்ப்பாணம் நோக்கி அழைத்து பயணித்துக்கொண்டிருந்த ஹயஸ் ரக வாகனம் ஒன்று ஏ 9 வீதியின் 241 ஆவது கிலோமீற்றருக்கும் 242 ஆவது கிலோமீற்றருக்கும் இடைப்பட்ட பகுதியில் முன்னே சென்று கொண்டிருந்த பாரஊர்தி ஒன்றுடன் மோதி  குறித்த விபத்து இடம்பெற்றுள்ளது.
+
+இந்த விபத்தில் படுகாயமடைந்த  நால்வரும் உடனடியாக கிளிநொச்சி வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில்  ஒருவர் உயிரிழந்துள்ளார்  சம்பவம் தொடர்பில் மாங்குளம் பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/5baf8a02.json)
 
 ---
 
@@ -2207,81 +2253,5 @@ The funeral of Naamana Warzuli Wijeratne was carried out this afternoon at Talah
 [Data](articles/571cc32a.json)
 
 [Extended Data](ext_articles/571cc32a.ext.json)
-
----
-
-### Heavy congestion;Fell from a train
-
-*2024-07-10 20:52:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடும்-நெரிசல்-ரயிலிலிருந்து-தவறி-விழுந்து-ஒருவர்-உயிரிழப்பு/175-340171) · `ta`
-
-A passenger died after falling from a train between Colombo and Polgahawela due to overcrowding. Despite efforts by railway officials, service disruptions continued amid safety concerns.
-
-🟩
-
-A passenger fell from a train traveling from Colombo to Polgahawela.
-
-Due to the workforce carried out by railway principals and regulators, some train services were carried out this morning and evening.
-
-The deaths occurred as a large number of passengers travel in the midst of heavy congestion.. Remble
-
-◼️
-
-[Data](articles/da037e59.json)
-
-[Extended Data](ext_articles/da037e59.ext.json)
-
----
-
-### US confirms support for Sri Lanka’s efforts to boost exports & improve efficiency for govt. agencies
-
-*2024-07-10 20:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100431/us-confirms-support-for-sri-lankas-efforts-to-boost-exports-improve-efficiency-for-govt-agencies) · `en`
-
-USAID Mission Director for Sri Lanka and Maldives, Gabriel Grau highlighted that being a long-term partner and Sri Lanka’s largest export market, the United States supports efforts to boost exports and improve efficiency for businesses and government agencies.
-
-He added that the United States is committed to initiatives such as Sri Lanka’s Trade National Single Window System or TNSWS which makes trade more transparent and predictable, easing business challenges.
-
-Gabriel made these remarks while joining a workshop for 94 key Trade National Single Window System project stakeholders recently organised by the Department of Trade and Investment Policy of the Ministry of Finance, Economic Stabilization and National Policies in collaboration with the USAID.
-
-Meanwhile, Secretary to the Ministry of Finance Mahinda Siriwardana noted that establishing a trade national single window system is crucial as Sri Lanka recovers from an unprecedented economic crisis.
-
-...
-
-[Data](articles/5802d94e.json)
-
-[Extended Data](ext_articles/5802d94e.ext.json)
-
----
-
-### Surgery seat of Club Wasantha Elos
-
-*2024-07-10 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198683) · `si`
-
-Businessman Sureshendra Wasantha Perera, known as Club Wasantha, was murdered at a Tatu Center in Athurugiriya. The incident involved his wife Sujeewa, singer Kin Nayana Wijesuriya (husband of Sujeewa), and others. Police investigations link the crime to a dispute involving a large chicken and a bowl, used as couriers. Suspects include individuals associated with the victim through WhatsApp discussions. The case involves allegations of drug dealing and the use of firearms, including one previously used by the LTTE. Police are seeking information leading to the arrest of the perpetrators.
-
-🟩
-
-Suresrandra Wasantha Perera alias Club Wasantha is revealed.
-
-Police states that the big chick and the bowl is used as a courtkera for the murder of Spring.
-
-The businessman, Sorchandra Wasantha Perera, or Club, was shot dead at a Tatu Center in Athurugiriya on July 08.
-
-The famous singer kin. Nayana Vasuliye, who was the husband of Sujeewa, died. Sujeewa, Club Wasantha's wife, another woman and a man was injured and hospitalized.
-
-According to police investigations, Tatta Center owned by Tatu Sunjula, a large resident of Balapitiya, has identified the big chick of Dubai.
-
-The two had been associated with WhatsApp, and the discussion had been revealed to the police today.
-
-Police say Tative Center owns the Dulan Sunjula and Club Spring first.
-
-The police assumed that Dulan was not known that he would take place before he had taken their wife and their family members to open the new Tatuta Center.
-
-His wife is currently hospitalized and hospitalized by the shooting.
-
-...
-
-[Data](articles/acc0b831.json)
-
-[Extended Data](ext_articles/acc0b831.ext.json)
 
 ---

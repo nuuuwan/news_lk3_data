@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 17:56:09**
+As of **2024-07-11 18:14:59**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,791
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,797 (100.0%) of 34,798 articles have been extended.
+34,798 (100.0%) of 34,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### ලෝක ශූර ඉන්දීය ක්‍රිකට් කණ්ඩායම ශ්‍රී ලංකාවට
+### World Champions Indian Cricket Team
 
 *2024-07-11 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198711) · `si`
 
-20යි 20 සහ එක්දින ජාත්‍යන්තර තරග සංචාරයක් සඳහා ඉන්දීය කණ්ඩායම ජූලි 22 වනදා ශ්‍රී ලංකාවට පැමිණීමට නියමිතය.
+The Indian cricket team will tour Sri Lanka from July 22, playing T20 matches on July 26 and 29 at the Pallekele International Cricket Stadium, followed by one-day internationals on August 1, 4, and 7 at the Colombo R Premadasa Ground.
 
-ජූලි 26, 27 සහ 29 යන දින වලදී 20යි 20 ජාත්‍යන්තර තරග පල්ලෙකැලේ ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ දී පැවැත්වෙයි.
+🟩
 
-මේ අතර දෙරට අතර පැවැත්වෙන එක්දින ජාත්‍යන්තර තරගාවලිය කොළඹ ආර් ප්‍රේමදාස පිටියේදී අගෝස්තු 1, 4 සහ 7 යන දිනවලදී පැවැත්වීමට නියමිතය.
+The Indian team is due to arrive in Sri Lanka on July 22 for a tour of 20 and one day international visit.
+
+20 and 20 on July 26 and 29 pm on July 26 and 29 at the Pallekele International Cricket Stadium.
+
+Meanwhile, the one-day international tournament between the two countries will be held on August 1, 4 and 7 at the Colombo R Premadasa Ground.
 
 ◼️
 
 [Data](articles/cde64d04.json)
+
+[Extended Data](ext_articles/cde64d04.ext.json)
 
 ---
 

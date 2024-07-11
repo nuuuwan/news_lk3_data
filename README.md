@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 16:54:45**
+As of **2024-07-11 16:35:24**
 
 ## Newspaper Stats
 
-*Scraped **34,792** Articles*
+*Scraped **34,785** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,134 +15,34 @@ newsfirstlk | 363
 islandlk | 1,957
 economynextcom | 2,055
 dailyftlk | 2,183
-adalk | 3,138
-adaderanalk | 4,001
-tamilmirrorlk | 4,163
+adalk | 3,137
+adaderanalk | 3,999
+tamilmirrorlk | 4,161
 dailymirrorlk | 4,733
 virakesarilk | 5,434
-adaderanasinhalalk | 5,789
+adaderanasinhalalk | 5,787
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,785 (100.0%) of 34,792 articles have been extended.
+34,783 (100.0%) of 34,785 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### සේවයට වාර්තා නොකළ දුම්රිය සේවකයින්ට යැවූ රතු ලිපිය
-
-*2024-07-11 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198709) · `si`
-
-වර්ජනයේ නිරත වෙමින් සේවයට වාර්තා නොකළ සියලුම දුම්රිය සේවකයින් සඳහා "සේවය හැරගියා සේ සලකා" ලිපි නිකුත්කළ බව ප්‍රවාහන අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පවසයි.
-
-ඔහු පැවසුවේ රටේ පවතින නීතියට අවනත නොවී වැඩවර්ජන සිදුකිරීම හේතුවෙන් දුම්රිය ස්ථානාධිපතිවරුන්ට එම ලිපි නිකුත්කළ බවයි.
-
-අද පස්වරුවේ (11) මාධ්‍ය වෙත අදහස් දක්වමින් අමාත්‍ය වරයා මේ බව පැවසීය.
-
-දුම්රිය සාමාන්යධිකාරිවරයා විසින් එම ලිපි මේ වන විට වර්ජනයේ නිරත දුම්රිය ස්ථානාධිපතිරුන්ට යවා ඇති බව අමාත්‍යවරයා ප්‍රකාශ කළේය.
-
-◼️
-
-[Data](articles/cc0ecf65.json)
-
----
-
-### Striking railway employees notified over vacated posts – Minister
-
-*2024-07-11 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100448/striking-railway-employees-notified-over-vacated-posts-minister) · `en`
-
-Minister of Transport Bandula Gunawardene says that letters have been sent to all railway employees who participated in the strike notifying they are considered to have vacated their respective positions.
-
-The General Manager of Sri Lanka Railways had warned that all Station Masters and Railway Controllers who fail to report to duty by 12.00 noon yesterday (10) would be considered as having vacated their positions.
-
-Accordingly, all the striking Railway Station Masters and Railway Controllers were instructed to report for duty at their respective railway stations or at least to the nearest railway station before that deadline.
-
-The Sri Lanka Railways Station Masters’ Union had decided to launch a strike action from midnight on Tuesday (09) based on several demands including promotions. Railway Controllers had also later decided to join the strike action, which has severely impacted train services in the country and resulted in the cancellation of multiple train journeys.
-
-...
-
-[Data](articles/0d433d17.json)
-
----
-
-### සර්වජන සංවාදය ඉරිදා සිට ගමින් ගමට
-
-*2024-07-11 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198708) · `si`
-
-අඛණ්ඩ ජනතා සහභාගිත්වයෙන් සකස්වන මැතිවරණ ප්‍රකාශනයක් ඉතිහාසයේ පළමු වතාවට සර්වජන බලය විසින් ඉදිරිපත් කරන බව එහි විධායක සභික, පිවිතුරු හෙළ උරුමය නායක උදය ගම්මන්පිල මහතා පවසයි.
-
-ඒ මහතා මේ බව පැවසුවේ අද (11) දින සර්වජන බලය විසින් පවත්වන ලද මාධ්‍ය හමුවකට එක් වෙමිනි.
-
-...
-
-[Data](articles/55fff101.json)
-
----
-
-### ‘Club Wasantha’ killing: New footage emerges of fatal shooting
-
-*2024-07-11 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100447/club-wasantha-killing-new-footage-emerges-of-fatal-shooting-) · `en`
-
-New CCTV footage of the fatal shooting which killed businessman Surendra Wasantha Perera alias ‘Club Wasantha’ and another person in Athurugiriya has emerged on Thursday (11), providing further insights into the shocking incident.
-
-The video, obtained from CCTV cameras inside the shop, shows the moment of the shooting, when the gunmen enter the tattoo studio and open fire targeting ‘Club Wasantha’ before fleeing the scene.
-
-◼️
-
-[Data](articles/51c41431.json)
-
----
-
-### கீதை மீது சத்தியம் செய்து பதவியேற்ற பெண் எம்.பி
-
-*2024-07-11 16:09:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கீதை-மீது-சத்தியம்-செய்து-பதவியேற்ற-பெண்-எம்-பி/50-340246) · `ta`
-
-பிரிட்டன் பாராளுமன்றத்தில் ‘பகவத் கீதை’ மீது சத்தியம் செய்து பதவியேற்றார் 29 வயதான இந்திய வம்சாவளியைச் சேர்ந்த ஷிவானி ராஜா என்ற பெண் எம்.பி.
-
-அண்மையில் அந்த நாட்டில் நடைபெற்ற தேர்தலில் லீசெஸ்டர் கிழக்கு தொகுதியில் போட்டியிட்டு அவர் வெற்றி பெற்றார். இந்த தொகுதி தொழிலாளர் கட்சியின் கோட்டையாக கடந்த தேர்தல்களில் இருந்துள்ளது. இந்த சூழலில் ஷிவானி அங்கு வெற்றி பெற்றுள்ளார். அவர் கன்சர்வேடிவ் கட்சி சார்பில் அங்கு போட்டியிட்டார். இந்நிலையில், பாராளுமன்ற உறுப்பினராக லீசெஸ்டர் கிழக்கு தொகுதியை பிரதிநிதித்துவபடுத்துவது தனக்கு பெருமையாக இருப்பதாகவும், பகவத் கீதையின் மீது சத்தியம் செய்து பதவியேற்பாதாக எக்ஸ் தளத்தில் ஷிவானி தெரிவித்தார்.
-
-◼️
-
-[Data](articles/34e492dd.json)
-
----
-
-### How to Ava and Carb Spring - CCTV
+### ළඟටම ඇවිත් ක්ලබ් වසන්තට වෙඩි තබන ආකාරය - CCTV
 
 *2024-07-11 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198707) · `si`
 
-CCTV footage reveals Club Spring's murder last Monday. A shooter approaches him while he eats, leading to his death.
+පසුගිය සඳුදා (08) අතුරුගිරියේ ටැටූ ආයතනයක් විවෘත කිරීමට ගොස් සිටියදී ක්ලබ් වසන්ත ව ඝාතනය කරන අයුරු දැක්වෙන CCTV දර්ශන පෙළක් නිකුත්කර තිබේ.
 
-🟩
-
-The CCTV shows a range of CCTV shows how Club spring is killed last Monday (08).
-
-It states how a shotter is getting closer to him when the club spring is eating.
+එහි දැක්වෙන්නේ ක්ලබ් වසන්ත ආහාර ගනිමින් සිටින විට වෙඩික්කරුවෙක් ඔහු ආසන්නයට ම ගොස් වෙඩිතබන අයුරු එහි දැක්වෙයි.
 
 ◼️
 
 [Data](articles/1bcc8f47.json)
-
-[Extended Data](ext_articles/1bcc8f47.ext.json)
-
----
-
-### රු.කෝටි 600ක මත්ද්‍රව්‍ය විනාශ කෙරේ
-
-*2024-07-11 16:05:46* · [`adalk`](https://www.ada.lk/breaking_news/රු-කෝටි-600ක-මත්ද්‍රව්‍ය-විනාශ-කෙරේ/11-410742) · `si`
-
-අවස්ථා කිපයකදී පොලීසිය,පොලිස් විශේෂ කාර්ය බළකාය හා නාවික හමුදාව විසින් අත් අඩංගුවට ගෙන අධිකරණ කටයුතු අවසන් වූ රුපියල් කෝටි 600 කට වැඩි වටිනාකමකින් යුත් කොකේන් මත් ද්‍රව්‍ය තොගයක් වනාතවිල්ලුව ලැක්ටෝ වත්තෙහි ස්ථාපිත කර ඇති අධිබල තාප උදුනේ දමා විනාශ කිරීම කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා ඉදිරියෙහිදී ඊයේ(11දා)  දහවල් සිදු විය.
-
-එම මත්ද්‍රව්‍ය තොගය 2020 වසරේ අත් අඩංගුවට ගෙන තිබූ අතර එහි කොකේන් කිලෝ 355 යි ග්‍රෑම් 881 ක ප්‍රමාණයක්  පාර්සල්වල බහා තිබිණ. ඒ සම්බන්ධව පැවති අධිකරණ කටයුතු නිම වීමත් සමග අධිකරණය ලබා දුන් නියෝග මත මෙසේ කොළඹ සිට වනාතවිල්ලුව ලැක්ටෝ වත්තට විශේෂ පොලිස් හා පොලිස් විශේස කාර්ය බලකා ආරක්ෂාව යටතේ රැගෙන විත් විනාශ කිරීම සිදුවිය.
-
-මෙම අවස්ථාවට මහජන ආරක්ෂාව පිළිබඳ අමාත්‍ය ටිරාන් අලස් මහතා සමග පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ද එක්ව ඇත.
-
-...
-
-[Data](articles/f7515b1c.json)
 
 ---
 
@@ -161,8 +61,6 @@ An Indian official accompanying Modi said on Tuesday that Russia has promised th
 ...
 
 [Data](articles/0e394e19.json)
-
-[Extended Data](ext_articles/0e394e19.ext.json)
 
 ---
 
@@ -253,26 +151,6 @@ The husband has told the police that the child is claiming to have a wife cash a
 [Data](articles/ab809476.json)
 
 [Extended Data](ext_articles/ab809476.ext.json)
-
----
-
-### சிறுமிக்கு மது பருக்கிய தாய் மாமன் கைது
-
-*2024-07-11 15:07:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுமிக்கு-மது-பருக்கிய-தாய்-மாமன்-கைது/76-340240) · `ta`
-
-நான்கு வயதான சிறுமிக்கு மதுபானத்தை பருகினார் என்ற குற்றச்சாட்டில் அவரது தாய் மாமனான 31 வயதான நபர் கைது செய்யப்பட்டுள்ளார். இந்த சம்பவம் மஸ்கெலியா பொலிஸ் பிரிவுக்கு உட்பட்ட ஓல்டன் தோட்டத்தில் இடம்பெற்றுள்ளது.
-
-குழந்தையின் தாய் குடும்ப வறுமை காரணமாக 18 மாதங்களுக்கு முன்பு வெளிநாடொன்றுக்கு பணிப்பெண்ணாக சென்றுள்ளார்.
-
-இவர்கள், உலப்பனை பகுதியைச் சேர்ந்தவர்கள். வெளிநாட்டுக்கு தாய் சென்றபோது, தன்னுடைய 9 வயதான மகனையும், 4 வயதான மகளையும்,  சாமிமலை,ஓல்டன் தோட்டத்தில் உள்ள தனது தாய் வீட்டில் ஒப்படைத்து சென்று உள்ளார்.
-
-பிள்ளைகளை பார்ப்பதற்காக தாயின் வீட்டுக்கு அடிக்கடி வரும் மகன் (தாய் மாமன்) அந்த சிறுமிக்கு மதுவை பருகியுள்ளார். இதனை  சிறுமியின் 9 வயதான அண்ணா கண்டுள்ளார். இதுதொடர்பில் பொலிஸாருக்கு தகவல் வழங்கியதை அடுத்தே அந்த நபர், சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேநபர்,  ஹட்டன் நீதவான் நீதிமன்றத்தில், வியாழக்கிழமை (11) ஆஜர்படுத்தப்பட்டார். அப்போது, சந்தேக நபரை எதிர்வரும் 17ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவிட்டுள்ளார்.
-
-◼️
-
-[Data](articles/a2056813.json)
 
 ---
 
@@ -2293,5 +2171,151 @@ Accordingly, the Cabinet considers information submitted by Minister of Irrigati
 [Data](articles/c03f189b.json)
 
 [Extended Data](ext_articles/c03f189b.ext.json)
+
+---
+
+### FPC led by Dullas to back Sajith at Presidential polls
+
+*2024-07-11 02:24:27* · [`dailyftlk`](https://www.ft.lk/news/FPC-led-by-Dullas-to-back-Sajith-at-Presidential-polls/56-764127) · `en`
+
+Freedom People’s Congress (FPC) member and Parliamentarian Prof. Charitha Herath has announced that the party, led by MP Dullas Alahapperuma, will support Opposition leader Sajith Premadasa in the upcoming Presidential Election.
+
+Addressing a press conference in Colombo yesterday, Herath explained that the FPC has decided not to field its own candidate and will instead support the SJB’s candidate.
+
+“Our stance is that the Opposition must come together to form a broad alliance in order to defeat the Government. Accordingly, we held discussions with several political parties,” he said.
+
+Herath revealed that the discussions held between the FPC and SJB were successful, leading to the FPC’s decision to support Premadasa.
+
+He said accordingly the FPC will form an alliance with the SJB in the coming weeks.
+
+...
+
+[Data](articles/b5dbd1c2.json)
+
+[Extended Data](ext_articles/b5dbd1c2.ext.json)
+
+---
+
+### UNP Dambulla office attacked
+
+*2024-07-11 02:23:46* · [`dailyftlk`](https://www.ft.lk/news/UNP-Dambulla-office-attacked/56-764126) · `en`
+
+In what the United National Party (UNP) led by President Ranil Wickremesinghe has called the first act of pre-election violence ahead of the upcoming Presidential election, the party’s office in Dambulla was attacked by an unidentified group yesterday.
+
+Sports Minister Harin Fernando reported the attack on the UNP’s operational office in Dambulla by an unknown group, suggesting it was an instance of pre-election violence. The attack took place at the residence of former Dambulla municipal councillor Maya Padeniya, according to Minister Fernando.
+
+The Minister said the attackers had damaged hoardings featuring pictures of President Ranil Wickremesinghe and the Dambulla electoral organiser installed at the office.
+
+Fernando made the statement to the media after visiting the site, inspecting the damage, and implementing necessary measures to restore the situation.
+
+...
+
+[Data](articles/dab7ccff.json)
+
+[Extended Data](ext_articles/dab7ccff.ext.json)
+
+---
+
+### Vijitha Herath demands halt to arbitrary spending by provincial Governors
+
+*2024-07-11 02:22:53* · [`dailyftlk`](https://www.ft.lk/news/Vijitha-Herath-demands-halt-to-arbitrary-spending-by-provincial-Governors/56-764125) · `en`
+
+Emphasises need for Governors to be answerable to Parliament for their actions
+
+National People’s Power (NPP) MP Vijitha Herath has called for an immediate halt to the extravagant and arbitrary spending by provincial Governors, highlighting the lack of adherence to any circulars or laws. Speaking in Parliament yesterday, Herath criticised Governors in certain provinces for appointing advisors and making decisions without proper oversight.
+
+“Governors in the Western Province, in particular, are making decisions without considering any circulars or laws, especially during the final phase of the Government,” he said. Herath pointed out that millions of rupees are being spent on various items, including vehicles and the setting up of Vesak and Poson zones, without any established mechanisms.
+
+He emphasised that these arbitrary actions must be stopped immediately, warning that if they continue, the Governors will have to answer to Parliament for their actions.
+
+◼️
+
+[Data](articles/902a48ea.json)
+
+[Extended Data](ext_articles/902a48ea.ext.json)
+
+---
+
+### Cabinet nod for Constitutional amendment to align Presidential and Parliamentary terms for 5 years
+
+*2024-07-11 02:22:01* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-for-Constitutional-amendment-to-align-Presidential-and-Parliamentary-terms-for-5-years/56-764124) · `en`
+
+The Cabinet of Ministers on Tuesday approved a proposal to amend the Constitution, addressing inconsistencies in the terms of the President and Parliament.
+
+“The proposed amendment seeks to substitute the phrase ‘exceeding six years’ with ‘exceeding five years’, thereby ensuring that both the Presidential and Parliamentary terms are aligned,” Cabinet Co-Spokesman and  Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
+
+The decision comes amid Supreme Court on Tuesday dismissing a petition seeking to postpone the upcoming Presidential election. The five-judge bench, led by Chief Justice Jayantha Jayasuriya, rejected the petition by C.D. Lenawa on several grounds. Firstly, they noted the lack of new evidence compared to a similar petition filed in 2019. Additionally, the Attorney General argued that the petitioner’s fundamental rights were not violated as the constitution clearly states a ‘five year’ Presidential term.
+
+...
+
+[Data](articles/ace98930.json)
+
+[Extended Data](ext_articles/ace98930.ext.json)
+
+---
+
+### Again am I MP's problem?
+
+*2024-07-11 02:21:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-நான்-எம்-பியானது-சிக்கலா/175-340190) · `ta`
+
+Mujibur Rahman, a United People's Power MP, argues anyone facing issues with their re-appointment can seek redress in the High Court, criticizing criticism towards the Election Commission. During a parliamentary debate, he defended his own re-appointment, suggesting critics should pursue legal avenues rather than public critique.
+
+🟩
+
+Anyone can go to the High Court if there are any issues regarding his re -appointment as a Member of Parliament. United People's Power MP Mujibur Rahman said that there is no point in criticizing the Election Commission.
+
+During the debate in Parliament on Wednesday (10), Mujibur Rahman, a candidate contesting the local government elections, has criticized the Sri Lanka PA MP Mahindananda Aluthgamage over the appointment of a Member of Parliament through the National List.
+
+Mujibur Rahman said this while raising the issue of order.
+
+Independent Elections Commission announced the election for the local government. I resigned from the post of Parliament to contest the election. But the president and the government have taken steps to postpone the election without paying the local government elections.
+
+...
+
+[Data](articles/33bd5b4d.json)
+
+[Extended Data](ext_articles/33bd5b4d.ext.json)
+
+---
+
+### Adjournment debate on Presidential election timing today
+
+*2024-07-11 02:21:27* · [`dailyftlk`](https://www.ft.lk/news/Adjournment-debate-on-Presidential-election-timing-today/56-764123) · `en`
+
+An adjournment debate on the timing of the upcoming Presidential election will be held in Parliament today. According to an announcement made by the Communications Department of Parliament the decision to hold an adjournment debate on the subject was made by the party leaders yesterday.
+
+The debate will address holding the election between 17 September and 16 October in accordance with constitutional and legal requirements.
+
+The motion for the debate was jointly presented by Chief Opposition Whip Lakshman Kiriella and National People’s Power (NPP) leader Anura Kumara Dissanayake. This decision was made during the Committee on Parliamentary Business meeting, chaired by Speaker Mahinda Yapa Abeywardena.
+
+...
+
+[Data](articles/4fb8bad6.json)
+
+[Extended Data](ext_articles/4fb8bad6.ext.json)
+
+---
+
+### Presidential candidate from Kalutara
+
+*2024-07-11 02:15:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறையில்-இருந்து-ஜனாதிபதி-வேட்பாளர்/175-340188) · `ta`
+
+Kumara Welgama, a parliamentarian from Kalutara, expressed hope that a local presidential candidate could combat corruption and imprison thieves. He highlighted the importance of electing someone untainted by scandal, citing his support for Ranil Wickremesinghe despite party differences due to Wickremesinghe's integrity and dedication. However, Welgama acknowledged the widespread issue of corruption, stating that "we are all thieves," and criticized the Rajapaksa family, particularly Gotabhaya Rajapaksa, for economic disruptions and fleeing the country. He urged for a leader capable of rooting out corruption to lead the nation effectively.
+
+🟩
+
+Parliamentarian Kumara Welgama said that a presidential candidate from the Kalutara district will be able to chase away the leaders working with the thieves and imprison the thieves.
+
+He is a Member of Parliament who acts independently in the United People's Power. He said this while addressing a debate in Parliament on Wednesday (10).
+
+The presidential election will be held in a few more months. People are looking forward to appointing a person who has no robbery. This is why the struggle took place. In this case, I voted for Ranil Wickremesinghe, even though I said my party.
+
+I voted because he is worthy. He has carried out in his work without a queue age. But I don't know about the economy. At this time you will take properly and act. People will not vote if the wrongdoers are nearby. Cannot say that everyone is clean. We are all thieves. I have done too.
+
+...
+
+[Data](articles/367a66cd.json)
+
+[Extended Data](ext_articles/367a66cd.ext.json)
 
 ---

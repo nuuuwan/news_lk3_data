@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 07:01:41**
+As of **2024-07-11 07:49:20**
 
 ## Newspaper Stats
 
-*Scraped **34,698** Articles*
+*Scraped **34,702** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ economynextcom | 2,049
 dailyftlk | 2,183
 adalk | 3,126
 adaderanalk | 3,986
-tamilmirrorlk | 4,137
+tamilmirrorlk | 4,139
 dailymirrorlk | 4,733
 virakesarilk | 5,422
-adaderanasinhalalk | 5,767
+adaderanasinhalalk | 5,769
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,693 (100.0%) of 34,698 articles have been extended.
+34,701 (100.0%) of 34,702 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### නුවරඑළියේ බිහිසුණු අනතුරක්
+
+*2024-07-11 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198688) · `si`
+
+නුවරඑළිය ටොප්පාස් ප්‍රදේශයේ දී බස් රථයක් පෙරළීමෙන් 37 දෙනෙකු තුවාල ලබා තිබේ.
+
+අප වාර්තාකරු පැවසුවේ විනෝද චාරිකාවක් අතරතුර දී එම බස් රථය අනතුර ට ලක් ව ඇති බව යි.
+
+◼️
+
+[Data](articles/e8d0059f.json)
+
+---
+
+### A police officer killed in a shower
+
+*2024-07-11 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198687) · `si`
+
+A tragic incident occurred where a police officer was fatally shot while taking a shower at home. This unexpected event has shocked the community, highlighting the dangers law enforcement officers face even off-duty.
+
+🟩
+
+◼️
+
+[Data](articles/6169a931.json)
+
+[Extended Data](ext_articles/6169a931.ext.json)
+
+---
 
 ### The necessary presidential election is necessary: ​​The House adjournment debate today
 
@@ -128,6 +158,28 @@ The Department of Liquor has lost 50 billion rupees in the first quarter of this
 
 ---
 
+### New residential villages in the plantation sector
+
+*2024-07-11 02:45:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெருந்தோட்டத்-துறையில்-புதிய-குடியிருப்பு-கிராமங்கள்/175-340195) · `ta`
+
+To address inadequate rural services in plantation areas, a new law is proposed to transform plantation houses and lion rooms into residential villages, enhancing dignity and accessibility to services. President Ranil Wickremesinghe has endorsed this initiative, directing legal preparation for the bill.
+
+🟩
+
+Since the rural level services provided by state institutions are not properly available to people living in the plantation areas, there is a need to be converted into residential villages to treat them with respect and honor.
+
+Accordingly, it is expected to introduce a new law to unite the plantation houses and lion rooms in the plantation areas and convert them into villages.
+
+President Ranil Wickremesinghe has approved the proposal submitted on Tuesday (09) to advise the lawyer to prepare the bill.
+
+◼️
+
+[Data](articles/38a385df.json)
+
+[Extended Data](ext_articles/38a385df.ext.json)
+
+---
+
 ### New laws to mitigate impact of strikes on essential services to be introduced
 
 *2024-07-11 02:42:51* · [`dailyftlk`](https://www.ft.lk/business/New-laws-to-mitigate-impact-of-strikes-on-essential-services-to-be-introduced/34-764133) · `en`
@@ -199,6 +251,32 @@ The initiative originates from a proposal in the 2023 Budget, aimed to revitalis
 [Data](articles/7a521db2.json)
 
 [Extended Data](ext_articles/7a521db2.ext.json)
+
+---
+
+### Economic Downs
+
+*2024-07-11 02:36:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தின்-சட்டத்திட்டங்களால்-பொருளாதார-வீழ்ச்சி/175-340193) · `ta`
+
+Vijitha Herath criticizes the government's economic policies, stating they've led to a decline despite claims of strengthening the economy. Herath highlights issues with importing grains that could be locally produced and concerns over vehicle import decisions, including direct imports bypassing local assembly and potential price manipulation.
+
+🟩
+
+JVP parliamentarian Vijitha Herath said that although the government claims to strengthen the national economy, the national economy is in a state of decline due to the legislation imposed by the government.
+
+He said this while addressing a debate in Parliament on Wednesday (10).
+
+Although the government says it is strengthening the national economy, the national economy is in a state of decline.
+
+The President issued a gazette issued on June 28 for imports of grains such as lentils, blackberries, kurakan and gowpy.. It can be produced here. Why import. Importing will cause farmers here to make. He said the agriculture sector of our country will fall into a further decline.
+
+Meanwhile, decisions have been taken regarding vehicle imports. A group of 15 has been set up. There are various parties in that group. It is best to allow vehicle imports through it. But some of the resolutions have been taken in the Cabinet. The decisions are imported directly through the Investment Board.
+
+...
+
+[Data](articles/2bdc9816.json)
+
+[Extended Data](ext_articles/2bdc9816.ext.json)
 
 ---
 
@@ -2189,85 +2267,5 @@ Accordingly, the President's proposal to incorporate the phrase 'more than six y
 [Data](articles/263a31a7.json)
 
 [Extended Data](ext_articles/263a31a7.ext.json)
-
----
-
-### President, allowed to revise the post of Parliament
-
-*2024-07-10 13:49:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-பாராளுமன்ற-பதவிக்காலத்தை-திருத்த-அனுமதி/175-340156) · `ta`
-
-The Sri Lankan Cabinet has approved changes to clarify the presidential and parliamentary terms in the constitution, allowing the President to propose a term length of "more than six years."
-
-🟩
-
-The Cabinet has granted permission to eliminate the clarity in the Sri Lankan constitution on the president and parliamentary term.
-
-Accordingly, the President's proposal to incorporate the phrase 'more than six years', which has been referred to the president and parliamentary term in the Constitution.
-
-◼️
-
-[Data](articles/cf11836a.json)
-
-[Extended Data](ext_articles/cf11836a.ext.json)
-
----
-
-### Tolus joined Sajith
-
-*2024-07-10 13:40:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-இணைந்தார்-டளஸ்/175-340155) · `ta`
-
-Tolus has joined forces with Sajith Nidahasa Janata Sabha (NJS) under MP Dullas Alahapperuma, forming a coalition with the United People's Power (SJB). This move was confirmed by Parliamentarian Professor Saritha Herath.
-
-🟩
-
-Nidahasa Janata Sabha (NJS), led by Member of Parliament Dullas Alahapperuma, has announced the decision to form a coalition with the United People's Power (SJB). Parliamentarian Professor Saritha Herath confirmed this.
-
-◼️
-
-[Data](articles/8a00000d.json)
-
-[Extended Data](ext_articles/8a00000d.ext.json)
-
----
-
-### New law for health and education strike control
-
-*2024-07-10 13:36:15* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍යය-හා-අධ්‍යාපනයේ-වර්ජන-පාලනයට-නව-නීතියක්/11-410717) · `si`
-
-The government aims to curb strikes in health and education sectors, focusing on maintaining essential services like healthcare and education. The Cabinet, led by Dr. Bandula Gunawardena, plans to introduce new laws to prevent disruptions during critical times, ensuring the well-being of the public.
-
-🟩
-
-Cabinet Spokesperson Dr. Bandula Gunawardena emphasizes that the Cabinet has focused on the benefit of the general public, such as sabotaging the services applicable to the good and safety of basic human needs, such as health education.
-
-The Minister was speaking at a press notice of the Cabinet Decision in the Government Information Department today.
-
-The cabinet focused on the impacts and abuse of the hospital in a way that interferes with the activities and illnesses of the hospitals in the school periods of the school periods.The Minister said that the Cabinet has decided to take necessary steps to introduce new laws.
-
-◼️
-
-[Data](articles/bcd801b1.json)
-
-[Extended Data](ext_articles/bcd801b1.ext.json)
-
----
-
-### Sri Lanka to decide on vehicle import liberalization in Aug second week
-
-*2024-07-10 13:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-decide-on-vehicle-import-liberalization-in-aug-second-week-171630/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s State Minister for Finance Ranjith Siyambalapitiya has said that the final decision regarding the lifting of the ban on vehicle imports will be taken in the second week of August.
-
-The Minister said he hoped to be able to import vehicles depending on the country’s exchange rate status and the priority of people’s needs.
-
-Public transport vehicles, goods transport vehicles, and private vehicles will be imported under the regulations.
-
-Although the Cabinet had approved the import of 1,000 vehicles (250 buses and 750 vans) to be used in the tourism sector, none have been imported so far, Siyambalapitiya said. (Colombo/Jul10/2024)
-
-◼️
-
-[Data](articles/eb599134.json)
-
-[Extended Data](ext_articles/eb599134.ext.json)
 
 ---

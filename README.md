@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 12:08:06**
+As of **2024-07-11 12:19:53**
 
 ## Newspaper Stats
 
-*Scraped **34,745** Articles*
+*Scraped **34,749** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 312
 colombotelegraphcom | 324
-bbccomsinhala | 339
+bbccomsinhala | 340
 newsfirstlk | 363
 islandlk | 1,957
 economynextcom | 2,053
@@ -20,17 +20,63 @@ adaderanalk | 3,994
 tamilmirrorlk | 4,152
 dailymirrorlk | 4,733
 virakesarilk | 5,427
-adaderanasinhalalk | 5,776
+adaderanasinhalalk | 5,779
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,745 (100.0%) of 34,745 articles have been extended.
+34,745 (100.0%) of 34,749 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### පාරින්ද රණසිංහ ට ව්‍යවස්ථාදායක සභාවේ අනුමැතිය
+
+*2024-07-11 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198699) · `si`
+
+නීතිපතිවරයා ලෙස ඡ්‍යේෂ්ඨ අතිරේක සොලිසිටර් ජනරාල් පාරින්ද රණසිංහ මහතාව පත්කිරීම ව්‍යවස්ථාදායක සභාව විසින් අනුමත කර තිබේ.
+
+නීතිපති ධුරයේ කටයුතු කළ සංජේ රාජරත්නම් මහතාගේ ධුර කාලය පසුගිය 26 වැනිදායින් අවසන් වීමත් සමඟ නීතිපති ධුරය පුරප්පාඩු වී පැවතුණි.
+
+පාරින්ද රණසිංහ මහතා මෙරට හිටපු අගවිනිසුරුවරයෙකු වන කේ.ඒ.පාරින්ද රණසිංහ මහතාගේ පුත්‍රයෙකු වේ.
+
+◼️
+
+[Data](articles/22e75ecd.json)
+
+---
+
+### ප්‍රකට ක්‍රීඩා විචාරකයාගේ බිරිඳ සහ දියණියන් දෙදෙනාව ඝාතනය කෙරේ
+
+*2024-07-11 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198698) · `si`
+
+එංගලන්තයේ උතුරු ලන්ඩනයේදී දුන්නක් භාවිත කර කාන්තාවන් තිදෙනෙක්ව ඝාතනය කළ කයිල් ක්ලිෆර්ඩ් නම් සැකකරුව පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+එම සැකකරු විසින් ඝාතනය කර ඇත්තේ බීබීසී හි ප්‍රකට ක්‍රීඩා විස්තර ප්‍රචාරකයෙක් වන ජෝන් හන්ට් ගේ බිරිඳ සහ දියණියන් දෙදෙනා ය.
+
+හර්ට්ෆොඩ්ෂයර් හි පිහිටි ඔවුන්ගේ නිවසේදී එම කාන්තාවන් තිදෙනාට ප්‍රහාරය එල්ලකර තිබුණි.
+
+◼️
+
+[Data](articles/110668b2.json)
+
+---
+
+### ජනාධිපතිවරණය ගැන කල්තැබීමේ විවාදය ඇරඹෙයි
+
+*2024-07-11 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198697) · `si`
+
+නිසි කාලය තුළ ජනාධිපතිවරණය පැවැත්වීම පිළිබඳව සභාව කල් තැබීමේ විවාදය මේ වනවිට ආරම්භ වී තිබේ.
+
+පාර්ලිමේන්තු කටයුතු පිළිබද කාරක සභාවේ දී ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා සහ විපක්ෂයේ ප්‍රධාන සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී ලක්ෂ්මන් කිරිඇල්ල යන මහත්වරුන් විසින් ගෙන ලද ඒකාබද්ධ යෝජනාවකට අනුව මෙම කල්තැබීමේ විවාදය පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/607b70f0.json)
+
+---
 
 ### The teacher who broke the teeth because the lesson was not written
 
@@ -945,6 +991,28 @@ A tragic incident occurred where a police officer was fatally shot while taking 
 [Data](articles/6169a931.json)
 
 [Extended Data](ext_articles/6169a931.ext.json)
+
+---
+
+### සුරේන්ද්‍ර වසන්ත ඝාතන පාපොච්චාරණය : ‘මෙහෙම ප්‍රකාශයක් ගන්න බැහැ - නිලධාරීන්ට එරෙහිව නීතිමය පියවර ගත යුතුයි’
+
+*2024-07-11 05:51:05* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gvd5v3vz9o) · `si`
+
+සුරේන්ද්‍ර වසන්ත ඝාතන පාපොච්චාරණය : ‘මෙහෙම ප්‍රකාශයක් ගන්න බැහැ - නිලධාරීන්ට එරෙහිව නීතිමය පියවර ගත යුතුයි’
+
+ප්‍රකට ව්‍යාපාරිකයෙකු වූ සුරේන්ද්‍ර වසන්ත පෙරේරා සහ තවත් පුද්ගලයෙකු ඝාතනයට ලක් කරමින් සිදුවූ වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් ටැටූ ව්‍යාපාරික ස්ථානයේ හිමිකරුගෙන් පොලිසිය ප්‍රශ්න කරන අයුරු දැක්වෙන වීඩියෝ පටයක් ( ජුලි මස 10) මෙරටේ ප්‍රධාන මාධ්‍ය සහ සමාජ මාධ්‍ය ඔස්සේ ප්‍රචාරය විය.
+
+රටේ බහුතරයකගේ අවධානය යොමු වී ඇති ඝාතන සිදුවීමක් සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන සිටින සැකකරුවෙකුගෙන් එලෙස ප්‍රශ්න කිරීම පිළිබඳ සමාජ මාධ්‍ය ඔස්සේ බොහෝ දෙනා අදහස් පළකර තිබුණි.
+
+අපරාධයක් සම්බන්ධයෙන් අත්අඩංගුවට ගනු ලැබූ සැකකරුවෙකු ගෙන් මාධ්‍ය හමුවේ පාපොච්චාරණය කිරීමට සැලැස්වීම පිළිබඳ එම වීඩියෝ පටය ප්‍රචාරය වූ ෆේස්බුක් සමාජ මාධ්‍ය ජාලය හරහා බොහෝ පරිශීලකයින් පොලිසියට චෝදනා එල්ල කර තිබුණි.
+
+එහිදී ඇතැම් පරිශීලකයින් සඳහන් කර තිබුණේ 'අපරාධ නීතිය රටට වැඩක් නොමැති' බවය.
+
+එමෙන්ම 'මේ වැරදි වැඩක්. පොලිසියට මෙහෙම දේවල් එළියට දෙන්න බෑ.' යනුවෙන් ද එක් ෆේස්බුක් පරිශීලකයෝ සිය මතය පළකර තිබුණි.
+
+...
+
+[Data](articles/f8a4a8bc.json)
 
 ---
 
@@ -2199,97 +2267,5 @@ The Cabinet has granted permission to import 250 buses and 750 van vehicles in t
 [Data](articles/7fc86d70.json)
 
 [Extended Data](ext_articles/7fc86d70.ext.json)
-
----
-
-### 60 smart classrooms for selected estate schools!
-
-*2024-07-10 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/188164) · `ta`
-
-The government plans to build 60 smart classrooms in plantation schools across Nuwara Eliya, Kandy, and Badulla districts, funded by both the Government of India and Sri Lanka. This decision was made during a cabinet meeting on December 12, 2012, aiming to enhance education quality through an MoU with India. The project faces practical challenges, with several departments including the Indian High Commission and the Ministry of Education involved in its implementation.
-
-🟩
-
-The government has decided to construct 60 'smart' classrooms in selected plantation schools in the districts of Nuwara Eliya, Kandy and Badulla.
-
-The Cabinet meeting held on 2023.12.12.12.12.12.12.12.2012 to make a Memorandum of Understanding (MoU) with the Government of India to implement the construction of 60 'smart' classrooms for high -quality classes in plantation schools selected in Nuwara Eliya, Kandy and Badulla districts with the funding of the Government of India and the Government of Sri Lanka.
-
-Considering the practical issues in implementing the project, the Indian High Commission, the Ministry of Education, the Department of Foreign Resources, the Department of Foreign Resources, and the Department of National Bureau of Investigation have been decided.
-
-...
-
-[Data](articles/96ff14d7.json)
-
-[Extended Data](ext_articles/96ff14d7.ext.json)
-
----
-
-### Colombo provides rights rights
-
-*2024-07-10 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198681) · `si`
-
-President Ranil Wickremesinghe announced the transfer of full property rights to over two million residents in Colombo's apartments, marking a significant step towards securing homeownership. This initiative, part of a broader housing project aimed at low-income families, includes the distribution of title deeds to 50,000 beneficiaries in the first phase. The National Housing Development Authority plans to grant titles to a total of 1,070 beneficiaries by the year's end, highlighting efforts to stabilize housing rights in the region.
-
-🟩
-
-President Ranil Wickremesinghe says that the full ownership of these houses have been implemented in these houses for two and a half million people living in the apartments in Colombo.
-
-The President said he had launched the value of a house when he destroyed her home two years ago, and the program was launched and identified the value.
-
-The President was speaking at the inauguration of 50,000 houses in the 'Rest House' in the Apartments, the first phase of the low income families living in the apartments in Colombo.
-
-The number of houses in 31 Colombo District was presented with the ownership of 130 houses in 31 Colombo District.
-
-The National Housing Development Authority (NHDA) has paid Rs.The first phase of the first phase will be granted under the first phase for 50,000 beneficiary families.
-
-The National Housing Development Authority has planned to provide title deeds to 1070 beneficiaries by the end of this year.
-
-◼️
-
-[Data](articles/7d1606c5.json)
-
-[Extended Data](ext_articles/7d1606c5.ext.json)
-
----
-
-### Tattoo Dulah all over
-
-*2024-07-10 18:31:20* · [`adalk`](https://www.ada.lk/breaking_news/ටැටූ-දුලාන්-සියල්ල-වමාරයි/11-410724) · `si`
-
-Sureshandra Wasantha Perera, known as Ahungalla, a prominent figure in organized crime, was involved in a complex scheme involving a tuck shop investment scam. His plan allegedly involved luring investors with false promises of high returns, leading to a series of events culminating in a violent confrontation. The story highlights the dangers of organized crime and the lengths to which criminals will go to deceive and exploit others for personal gain.
-
-🟩
-
-Sureshandra Wasantha Perera alias Ahungalla, a large cyst of organized criminal, has been given a sum of Rs.
-
-Investigations have revealed that a friend of a tative designer's friend Mahes, who had been abroad.
-
-The Dulan Convention told the police to the police: "I was eager to start a Tuck Shop. A friend Mahsh called my Mahesh speaking about money, I was told that you would have a friend to start the shop to start. .Ifter I gave me a call to Mahesh. It's a big pathetic. He asked, how many people you're going to do this work. I said there were only twenty thousand briefs. The road was asked if this would be able to find money from this. Then I said that I could overcome this because I was able to get out of work. I would have the phone.
-
-But two to three days, but did not talk about two or three days and asked what the brother begins to do what the shop would start. That road was told to tell me if I had a collision and came to a bike, and a bike came to me.
-
-...
-
-[Data](articles/8ad4147e.json)
-
-[Extended Data](ext_articles/8ad4147e.ext.json)
-
----
-
-### The Station strike strikes on strike
-
-*2024-07-10 18:21:45* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-ස්ථානාධිපති-වර්ජනය-අඛණ්ඩ-වර්ජනයක්-වෙයි/11-410723) · `si`
-
-Railway workers' strike extended indefinitely, suspending services. Strike support from sub-rail advertisements.
-
-🟩
-
-Railway Masters have decided to extend its strike to a continuous strike. They have decided to continue the railway strike to suspend the services of the Status strike.. Sub Rail Railway Advertisements have also been assisted for the strike.
-
-◼️
-
-[Data](articles/9c14c0c5.json)
-
-[Extended Data](ext_articles/9c14c0c5.ext.json)
 
 ---

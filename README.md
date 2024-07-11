@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 04:05:39**
+As of **2024-07-12 04:19:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,884 (100.0%) of 34,885 articles have been extended.
+34,885 (100.0%) of 34,885 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -180,15 +180,21 @@ These virtual sessions will be conducted via Zoom from 3:30 p.m. to 5:30 p.m. du
 
 ---
 
-### கடிதம் எழுதினார் ரஞ்சித்
+### Ranjith wrote the letter
 
 *2024-07-12 02:36:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடிதம்-எழுதினார்-ரஞ்சித்/175-340271) · `ta`
 
-2024 ஜனாதிபதித் தேர்தல் பிரசார உத்திகளுக்கு இலங்கை பொலிஸாரை ஈடுபடுத்துதல் மற்றும் அரச அச்சகத் கூட்டுத்தாபனத்தின் பணிகளுக்கு இடையூறுகளை ஏற்படுத்த எடுக்கும் முயற்சிகளைத் தடுத்தல் சம்பந்தமாக ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார தேர்தல் ஆணைக்குழுவுக்கு வியாழக்கிழமை (11) கடிதத்தை அனுப்பிவைத்துள்ளார்.
+Ranjith Mathuma Bandara, the United People's Power General Secretary, wrote a letter to the Election Commission about the Sri Lankan police's role in 2024 presidential campaign strategies and their interference with the State Press Corporation's operations.
+
+🟩
+
+United People's Power General Secretary Ranjith Mathuma Bandara has sent a letter to the Election Commission on Thursday (11) in connection with the involvement of the Sri Lankan police for the 2024 presidential campaign strategies and prevents the work of the State Press Corporation.
 
 ◼️
 
 [Data](articles/3d74c018.json)
+
+[Extended Data](ext_articles/3d74c018.ext.json)
 
 ---
 

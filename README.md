@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 18:14:59**
+As of **2024-07-11 18:26:43**
 
 ## Newspaper Stats
 
-*Scraped **34,798** Articles*
+*Scraped **34,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,190 @@ adalk | 3,138
 adaderanalk | 4,001
 tamilmirrorlk | 4,163
 dailymirrorlk | 4,733
-virakesarilk | 5,438
-adaderanasinhalalk | 5,791
+virakesarilk | 5,446
+adaderanasinhalalk | 5,793
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,798 (100.0%) of 34,798 articles have been extended.
+34,798 (100.0%) of 34,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### වනිඳු හසරංග නායකත්වයෙන් ඉවත් වෙයි
+
+*2024-07-11 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198713) · `si`
+
+ශ්‍රී ලංකා 20යි 20 ක්‍රිකට් කණ්ඩාමේ නායක වනිඳු හසරංග එම තනතුරෙන් ඉල්ලා අස් වී තිබේ.
+
+◼️
+
+[Data](articles/896bc5ac.json)
+
+---
+
+### சாவுக்கு துணிஞ்சவனுக்கு மட்டும்தான் இங்க வாழ்க்கை' - மிரட்டும் சீயான் விக்ரமின் 'தங்கலான்' பட முன்னோட்டம்
+
+*2024-07-11 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/188242) · `ta`
+
+ரசிகர்களின் பெரும் எதிர்பார்ப்பிலா இருக்கும் சீயான் விக்ரம் நடிப்பில் தயாரான 'தங்கலான்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் பா. ரஞ்சித் இயக்கத்தில் உருவாகி இருக்கும் 'தங்கலான்' எனும் திரைப்படத்தில் சீயான் விக்ரம், பார்வதி, மாளவிகா மோகன், பசுபதி, ஹரி கிருஷ்ணன், சம்பத் ராம் இவர்களுடன் ஹொலிவுட் நடிகர் டேனியல் கல்டகிரோன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஏ. கிஷோர் குமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'இசை அசுரன்' ஜீ. வி. பிரகாஷ் குமார் இசையமைத்திருக்கிறார்.
+
+சரித்திர காலகட்டத்திய பின்னணியில் எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஸ்டூடியோ கிரீன் மற்றும் நீலம் புரொடக்ஷன்ஸ் ஆகிய முன்னணி பட தயாரிப்பு நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் கே.ஈ. ஞானவேல் ராஜா மற்றும் இயக்குநர் பா ரஞ்சித் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/39576315.json)
+
+---
+
+### விக்கிரவாண்டி இடைத்தேர்தலில் 82.48 சதவீத வாக்குகள் பதிவு
+
+*2024-07-11 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188238) · `ta`
+
+தமிழகத்தின் வட பகுதியில் அமைந்திருக்கும் விக்கிரவாண்டி எனும் தொகுதிக்கு நடைபெற்ற இடைத்தேர்தலில் 82.48 சதவீத வாக்குகள் பதிவாகி இருப்பதாக தேர்தல் ஆணையம் தெரிவித்திருக்கிறது.
+
+விக்கிரவாண்டி தொகுதியின் சட்டமன்ற உறுப்பினராக இருந்த என். புகழேந்தி ஏப்ரல் மாதம் திடீரென உடல் நலக் குறைவின் காரணமாக உயிரிழந்தார். இதனைத் தொடர்ந்து அந்தத் தொகுதி காலியாக இருப்பதாக தேர்தல் ஆணையம் அறிவித்தது.
+
+மக்களவைத் தேர்தல் நிறைவடைந்த உடன் இந்தியா முழுவதும் காலியாக இருக்கும் 13 சட்டமன்ற தொகுதிகளுக்கு இடைத்தேர்தல் ஜூலை 10 ஆம் திகதி அன்று நடைபெறும் என தேர்தல் ஆணையம் அறிவித்திருந்தது.
+
+இதனைத் தொடர்ந்து விக்கிரவாண்டி சட்டப்பேரவை தொகுதிக்கு ஜூலை 10 ஆம் தேதி இடைத்தேர்தல் நடைபெறும் என அறிவிப்பு வெளியானது. திமுக சார்பில் அன்னியூர் சிவா, பாமக சார்பில் கி. அன்புமணி, நாம் தமிழர் சார்பில் அபிநயா ஆகியோர் வேட்பாளராக போட்டியிட்டனர்.
+
+...
+
+[Data](articles/c9e391b3.json)
+
+---
+
+### சுசீந்திரன் இயக்கும் '2 K லவ் ஸ்டோரி '
+
+*2024-07-11 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188237) · `ta`
+
+புதுமுக நடிகர் ஜெகவீர் கதையின் நாயகனாக நடிக்கும் '2 K லவ் ஸ்டோரி 'எனும் திரைப்படத்தின் தொடக்க விழா சென்னையில் சிறப்பாக நடைபெற்றது.
+
+தமிழ் சினிமாவில் ஏராளமான வெற்றி படங்களை இயக்கிய இயக்குநர் சுசீந்திரன் சிறிய இடைவெளிக்குப் பிறகு இயக்கும் '2 K லவ் ஸ்டோரி' எனும் திரைப்படத்தில் ஜெகவீர், மீனாட்சி கோவிந்தராஜன், பால சரவணன், ஆண்டனி பாக்யராஜ், ஜெயபிரகாஷ், வினோதினி உள்ளிட்ட பலர் நடிக்கிறார்கள்.
+
+வி. எஸ். ஆனந்த கிருஷ்ணன் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு டி. இமான் இசையமைக்கிறார். காதலை மையப்படுத்தி தயாராகும் இந்த திரைப்படத்தை சிட்டி லைட் பிக்சர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் விக்னேஷ் சுப்பிரமணியன் தயாரிக்கிறார்.
+
+படத்தைப் பற்றி இயக்குநர் பேசுகையில், '' திருமண நிகழ்வுகளை பதிவு செய்யும் ஒளிப்பதிவு கலைஞர்களின் வாழ்வியலில் நடைபெறும் சம்பவங்களை தழுவி, அனைத்து தரப்பினரும் ரசிக்கும் வகையிலான காதல் கதையாக இத்திரைப்படத்தின் திரைக்கதை அமைக்கப்பட்டுள்ளது.
+
+இப்படத்தின் கதைக்களம் கோயம்புத்தூர் என்பதால் கோவை மற்றும் சென்னையில் படப்பிடிப்பு நடத்த திட்டமிடப்பட்டுள்ளது'' என்றார்.
+
+◼️
+
+[Data](articles/dc01d90a.json)
+
+---
+
+### வெளியீட்டு திகதியை அறிவித்த விஜய் ஆண்டனியின் 'மழை' பிடிக்காத மனிதன் படக் குழு
+
+*2024-07-11 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188239) · `ta`
+
+இசையமைப்பாளரும், முன்னணி நட்சத்திர நடிகருமான விஜய் ஆண்டனி எக்சன் ஹீரோவாக நடித்திருக்கும் 'மழை பிடிக்காத மனிதன்' திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக வெளியிடப்பட்டிருக்கிறது.
+
+ஒளிப்பதிவாளரும், இயக்குநருமான விஜய் மில்டன் இயக்கத்தில் உருவாகி இருக்கும் 'மழை பிடிக்காத மனிதன்' எனும் திரைப்படத்தில் விஜய் அண்டனி, சத்யராஜ், சரத்குமார், டாலி தனஞ்ஜெயா, மேகா ஆகாஷ், முரளி ஷர்மா, சரண்யா பொன்வண்ணன், பிருத்வி அம்பர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+விஜய் மில்டன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு விஜய் ஆண்டனி- அச்சு ராஜாமணி ஆகியோர் இணைந்து இசையமைத்திருக்கிறார்கள்.
+
+எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை இன்ஃபினிட்டி ஃபிலிம் வென்ச்சர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் கமல் போஹ்ரா, பங்கஜ் போஹ்ரா, லலிதா தனஞ்செயன், பி பிரதீப் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+ஜூலையில் வெளியிட திட்டமிடப்பட்ட இந்த திரைப்படம் பொருத்தமான வெளியீட்டு திகதி கிடைக்காததால் ஓகஸ்ட் இரண்டாம் திகதியன்று இந்த திரைப்படம் படமாளிகையில் வெளியாகிறது.
+
+...
+
+[Data](articles/dcf70277.json)
+
+---
+
+### இலங்கையில் நூறு வயதைக் கடந்தவர்கள் 495 பேர் உள்ளனர் !
+
+*2024-07-11 18:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/188232) · `ta`
+
+இலங்கையில் நூறு வயதைக் கடந்தவர்கள் 495 பேர் இருப்பதாக இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய இன்று வியாழக்கிழமை (11) பாராளுமன்றத்தில் தெரிவித்தார்.
+
+முதியோர்களுக்கு வழங்கப்படும் சிறப்பு உதவித்தொகையைப் பெற இந்த நபர்களுக்கும் உரிமை உண்டு எனக் குறிப்பிட்டார்.
+
+"60 வயதுக்கு மேற்பட்டோர்  27 இலட்சம் பேர்  உள்ளனர். இந்நிலையில், ஓய்வூதியம் பெறுவோர் எண்ணிக்கை 2030 ஆம் ஆண்டுக்குள் 10 இலட்சத்தை தாண்டும் என அவர் மேலும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/7817abce.json)
+
+---
+
+### அமெரிக்க - இலங்கை பங்காண்மை கலந்துரையாடல் : வெளிவிவகார செயலாளர் அருணி விஜேவர்தன தலைமையிலான குழுவினர் பங்கேற்பு
+
+*2024-07-11 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/188251) · `ta`
+
+அமெரிக்க இராஜாங்கத் திணைக்களத்தில் வெள்ளிக்கிழமை (12) நடைபெறவுள்ள 5 ஆவது அமெரிக்க - இலங்கை பங்காண்மை கலந்துரையாடலில் இலங்கை சார்பில் வெளிவிவகார செயலாளர் அருணி விஜேவர்தன தலைமையிலான உயர்மட்டக்குழுவினர் பங்கேற்கவுள்ளனர்.
+
+இலங்கை - அமெரிக்க நாடுகளுக்கு இடையிலான இருதரப்பு நல்லுறவை மேலும் வலுப்படுத்தும் நோக்கில் தொடர்ந்து ஐந்தாவது முறையாக இன்றைய தினம் நடைபெறவுள்ள இக்கலந்துரையாடலுக்கு இலங்கை சார்பில் வெளிவிவகார அமைச்சின் செயலாளர் அருணி விஜேவர்தனவும், அமெரிக்கா சார்பில் அமெரிக்க இராஜாங்கத் திணைக்களத்தின் அரசியல் விவகாரங்களுக்கான பதில் செயலர் ஜோன் பாஸும் இணைத்தலைமை தாங்கவுள்ளனர்.
+
+இக்கலந்துரையாடலில் பொருளாதாரம், பாதுகாப்பு ஒத்துழைப்பு, ஜனநாயகம், நல்லிணக்கம், மனித உரிமைகள், காலநிலை மாற்றம், விஞ்ஞானம் மற்றும் தொழில்நுட்ப ஒத்துழைப்பு, கல்வி மற்றும் கலாசார ஒத்துழைப்பு, மக்களுக்கு இடையிலான தொடர்புகள் என்பன உள்ளடங்கலாக இருநாடுகளுக்கும் இடையிலான நல்லுறவை மேலும் வலுப்படுத்துவதற்கான சாத்தியப்பாடுகள் குறித்து விரிவாக ஆராயப்படவுள்ளது.
+
+...
+
+[Data](articles/226cee60.json)
+
+---
+
+### இயக்குநர் சீனு ராமசாமி வெளியிட்ட 'வீராயி மக்கள்' படத்தின் சிங்கிள் ட்ராக்
+
+*2024-07-11 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188241) · `ta`
+
+அறிமுக நடிகர் சுரேஷ் நந்தா கதையின் நாயகனாக நடித்திருக்கும் 'வீராயி மக்கள்' எனும் திரைப்படத்தில் இடம்பெற்ற 'நெஞ்சுக்குள்ள..' எனத் தொடங்கும் முதல் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+
+இதனை தேசிய விருது பெற்ற இயக்குநரும், நடிகருமான சீனு ராமசாமி அவருடைய இணைய பக்கத்தில் வெளியிட்டு, பட குழுவினருக்கும், இசையமைப்பாளருக்கும் வாழ்த்து தெரிவித்திருக்கிறார்.
+
+இயக்குநர் நாகராஜ் கருப்பையா இயக்கத்தில் உருவாகி இருக்கும் 'வீராயி மக்கள்' எனும் திரைப்படத்தில் எழுத்தாளரும், நடிகருமான வேல. ராமமூர்த்தி, மறைந்த நடிகர் மாரிமுத்து, தீபா ஷங்கர், சுரேஷ் நந்தா, நந்தனா, ரமா, செந்தி குமாரி, பாண்டி அக்கா, ஜெரால்ட்  மில்டன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+எம். சீனிவாசன் ஒளிப்பதிவு செய்திருக்கும் இந்த த்திற்கு தீபன் சக்கரவர்த்தி இசையமைத்திருக்கிறார். கிராமிய மக்களின் யதார்த்த வாழ்வியலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை ஏ வைட் ஸ்கிரீன் பிலிம்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் என். சுரேஷ் நந்தா தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/bfde6adb.json)
+
+---
+
+### இந்து சமுத்திரபகுதியில் கோபால்ட்  ஆய்வில் ஈடுபட இந்தியா முயற்சி - இலங்கை எதிர்ப்பு
+
+*2024-07-11 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/188248) · `ta`
+
+இந்துசமுத்திரத்தின்  கடல்மலைப்பகுதியில்  கோபால்ட் cobaltகுறித்த ஆய்வில் ஈடுபடுவதற்கான  இந்தியாவின் முயற்சிக்கு இலங்கை எதிர்ப்பை வெளியிட்டுள்ளதை தொடர்ந்து இந்த விடயத்தில் இருநாடுகளிற்கும் இடையில் முரண்பாடு  ஏற்பட்டுள்ளது.
+
+இந்து சமுத்திரத்தின் அபானாசி நிக்கிட்டின் கடல்மலை பகுதியில் (Afanasy Nikitin Seamount in the Indian Ocean  ) உள்ள  கோபால்ட் உலோகம் குறித்து ஆய்வில் ஈடுபடுவதற்கு   கிங்ஸ்டன் ஜமைக்காவில் உள்ள சர்வதேச கடற்படுக்கை அதிகாரசபையிடம் (International Seabed Authority)  இந்தியா விடுத்துள்ள வேண்டுகோளிற்கு இலங்கை எதிர்ப்பு தெரிவித்துள்ளதை தொடர்ந்து இரண்டுநாடுகளிற்கும் இடையில் இந்த விடயம் தொடர்பில் சர்ச்சை  மூண்டுள்ளது.
+
+இந்தியா கோபால்ட் உலோகங்கள் குறித்து ஆய்வில் ஈடுபடவிரும்பும் பகுதி தனது விரிவாக்கப்பட்ட கண்ட அடுக்கிற்குள் (continental shelf ) உள்ளதாக இலங்கை தெரிவிக்கின்றது.
+
+...
+
+[Data](articles/e7af43bd.json)
+
+---
+
+### වැස්ස ගැන කාලගුණයෙන් නිවේදනයක්
+
+*2024-07-11 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198712) · `si`
+
+හෙට (12) සිට ඉදිරි දින කිහිපයේ දී දිවයිනේ නිරිත දිග ප්‍රදේශවල වැසි තත්ත්වයේ වැඩිවීමක් අපේක්ෂා කෙරෙන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි බවද දැනුම් දී තිබේ.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50ට වැඩිතරමක් තද වැසි ඇති විය හැකිය.
+
+ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/5d36d292.json)
+
+---
 
 ### World Champions Indian Cricket Team
 
@@ -2103,245 +2275,5 @@ Our correspondent said that the bus was in danger during a picnic.
 [Data](articles/e8d0059f.json)
 
 [Extended Data](ext_articles/e8d0059f.ext.json)
-
----
-
-### A police officer killed in a shower
-
-*2024-07-11 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198687) · `si`
-
-A tragic incident occurred where a police officer was fatally shot while taking a shower at home. This unexpected event has shocked the community, highlighting the dangers law enforcement officers face even off-duty.
-
-🟩
-
-◼️
-
-[Data](articles/6169a931.json)
-
-[Extended Data](ext_articles/6169a931.ext.json)
-
----
-
-### Surestra Wasantha murder confessive: 'Can't take a statement: Legal action should be taken against the officers'
-
-*2024-07-11 05:51:05* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gvd5v3vz9o) · `si`
-
-In a high-profile murder case involving businessman Surendra Wasantha, concerns over police conduct and media involvement have surfaced. Legal experts argue that confessions obtained under questionable circumstances lack credibility and could jeopardize the case. The President's Counsel emphasizes the importance of adhering to criminal law procedures and criticizes the police for potentially compromising the investigation's impartiality. Meanwhile, the Sri Lanka Human Rights Commission awaits complaints regarding the matter, while the police continue their investigation amidst public scrutiny.
-
-🟩
-
-Surestra Wasantha murder confessive: 'Can't take a statement: Legal action should be taken against the officers'
-
-The famous businessman, Surendra, who was arrested in connection with the shooting incident and another person was arrested by the police station (July 10) in the main media and social media.
-
-Many people have expressed their views on the suspect in the suspect in the suspect in connection with the murder of the majority of the country.
-
-Many users have been accused through Facebook Social Media Network, which promoted a suspect in the media to confess a suspect in the media.
-
-Some users mentioned the 'criminal law to the country'.
-
-And 'this wrong work is. The police can't give it out this way. 'One Facebook users had expressed their opinion.
-
-Meanwhile, President's Counsel Saliyaman told BBC Sinhalese that the investigation into the investigation is caused by the media.
-
-"Can't do this. Generally, a statement should be made in accordance with the criminal law. "
-
-...
-
-[Data](articles/f8a4a8bc.json)
-
-[Extended Data](ext_articles/f8a4a8bc.ext.json)
-
----
-
-### The necessary presidential election is necessary: ​​The House adjournment debate today
-
-*2024-07-11 03:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/188175) · `ta`
-
-A debate on postponing the presidential election, proposed by the opposition, will be held on Thursday, led by Speaker Mahinda Yapa Abeywardena. The proposal suggests holding the election between September 17 and October 16, 2024. This decision follows a parliamentary affairs meeting and will precede discussions on the Animal Welfare Bill.
-
-🟩
-
-The postponement debate on the presidential election will be held on Thursday (11) in accordance with legal arrangements.. The debate will be held in accordance with the proposal put forward by the opposition.
-
-The decision was taken at a meeting on Parliamentary Affairs held on Wednesday (10) under the leadership of Speaker Mahinda Yapa Abeywardena.
-
-The proposal is to be launched by the National People's Power Leader Anura Kumara Dissanayake and Opposition Leader Lakshman Kiriella to hold the presidential election in the period from September 17 to October 16, 2024 to October 16.
-
-Accordingly, on Thursday (11), after the Questionnaire Questionnaire,. From 10.30 to B.. It has been decided to hold a debate until 5.30. It was also decided to take up the Animal Welfare Bill, which was to be taken up for debate, for the next day.
-
-◼️
-
-[Data](articles/9445299c.json)
-
-[Extended Data](ext_articles/9445299c.ext.json)
-
----
-
-### Kokkuttuwai Sixth Day Excavation work: 7 human body parts, some human dresses, wires used by the military!
-
-*2024-07-11 03:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188174) · `ta`
-
-On the sixth day of excavation at Kokkuttuwai, seven human body parts and military-related items were discovered, alongside human attire. The UN's Human Rights Officer supervised the work, which included further analysis of women's clothing scheduled for the next day. Professor Somadeva's team, along with a forensic police legal officer, participated in the study.
-
-🟩
-
-The sixth day excavation took place on Wednesday (10) in the third phase of the excavation work of the Kokkuttuwai human burial ground.
-
-During the excavation, Ludaiana Selryni Akhilan, the Human Rights Officer of the United Nations Office of the United Nations Sri Lanka Office, also supervised the excavation work during the excavation.
-
-During this excavation work, 7 human body parts, some human dresses and the military used by the military have been found on the 9th and 10th. Further studies on women's inner garments are to be held tomorrow.
-
-Professor Somadeva's team carried out excavations on Wednesday (10) and participated in the study, including legal officer Vasudeva Forensic Police.
-
-◼️
-
-[Data](articles/c92a1d25.json)
-
-[Extended Data](ext_articles/c92a1d25.ext.json)
-
----
-
-### 09 companies complying to pay a salary of 1700 rupees;I am not a Facebook statement, but actor - Minister Jeevan Thondaman
-
-*2024-07-11 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188169) · `ta`
-
-Nine companies have agreed to pay a minimum wage of 1700 rupees following discussions led by Sri Lanka's Labor Minister Manusha Nanayakkara. Minister Jeevan Thondaman clarified his role as an active participant rather than a social media figure, emphasizing his commitment to resolving labor issues.
-
-🟩
-
-Nine companies have agreed to pay a salary of 1700 rupees at a meeting with plantation companies headed by Labor Minister Manusha Nanayakkara. Minister Jeevan Thondaman said, "I am not a Facebook hero, but an action hero."
-
-He said this while addressing a debate on the Gazette Notifications on Wednesday (10) in Parliament.
-
-A meeting with plantation companies was held on Wednesday (10)), led by the Minister of Daylight Industries, Manusha Nanayakkara.On Tuesday (09), I said that 7 companies had agreed to pay a salary of 1700 rupees after the demonstrations. Today, I am happy to announce that 9 companies have expressed their compliance with a salary of 1700 rupees.. I expect the best solution to come soon.
-
-When I was not in the congregation some allegations were made on me. A Member of Parliament said, "After the court has interrupted the 1700 rupees, I accused me of talking to all the Duraimans in the Bogawantalawa Plantation Company.
-
-...
-
-[Data](articles/9dbbf592.json)
-
-[Extended Data](ext_articles/9dbbf592.ext.json)
-
----
-
-### Many people drink alcohol because of the problem with the wife;To slow down prices -Emphasis on Samara Sampath
-
-*2024-07-11 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/188173) · `ta`
-
-Alcohol consumption rises due to marital issues, exacerbated by price hikes. Minister Samara Sampath urges lowering liquor costs to curb addiction and illegal production, highlighting a 50 billion rupee loss from the Liquor Department in Q1. High prices lead to social issues and a decline in legal consumption, boosting illegal alcohol trade, even causing deaths. Despite IMF advice against tax cuts, Sampath advocates for local solutions.
-
-🟩
-
-Many people drink alcohol because of the problem with spouse. Illegal leakage production has increased due to the rise of liquor.. The Minister of Industry and the Minister of Industry, Samara Sampath, said that the prices of liquor should be reduced and entertained by alcoholics.
-
-He said this while addressing a debate on the Gazette Notifications on the Liquor Tax Ordinance and Export and Import Control Act in Parliament on Wednesday (10).
-
-I have continued to address the rise in the price of alcoholism.
-
-The Department of Liquor has lost 50 billion rupees in the first quarter of this year due to the increase in prices of liquor.. 60 lakhs of people drink alcohol in total population.. With the increase in the price of high -priced liquor bottles, there have been massive problems in the social structure.
-
-...
-
-[Data](articles/603aa253.json)
-
-[Extended Data](ext_articles/603aa253.ext.json)
-
----
-
-### New residential villages in the plantation sector
-
-*2024-07-11 02:45:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெருந்தோட்டத்-துறையில்-புதிய-குடியிருப்பு-கிராமங்கள்/175-340195) · `ta`
-
-To address inadequate rural services in plantation areas, a new law is proposed to transform plantation houses and lion rooms into residential villages, enhancing dignity and accessibility to services. President Ranil Wickremesinghe has endorsed this initiative, directing legal preparation for the bill.
-
-🟩
-
-Since the rural level services provided by state institutions are not properly available to people living in the plantation areas, there is a need to be converted into residential villages to treat them with respect and honor.
-
-Accordingly, it is expected to introduce a new law to unite the plantation houses and lion rooms in the plantation areas and convert them into villages.
-
-President Ranil Wickremesinghe has approved the proposal submitted on Tuesday (09) to advise the lawyer to prepare the bill.
-
-◼️
-
-[Data](articles/38a385df.json)
-
-[Extended Data](ext_articles/38a385df.ext.json)
-
----
-
-### New laws to mitigate impact of strikes on essential services to be introduced
-
-*2024-07-11 02:42:51* · [`dailyftlk`](https://www.ft.lk/business/New-laws-to-mitigate-impact-of-strikes-on-essential-services-to-be-introduced/34-764133) · `en`
-
-Cabinet Co-Spokesman and Transport and Highways Minister Bandula Gunawardena shows off a document concerning Ceylon Government Railway at yesterday’s briefing to the media
-
-Says proposed laws aim to ensure continuous operation of essential services, protect public interests
-
-Move follows President’s directive to Justice Minister to explore legal measures; seeks advice from AG on legal provisions to mitigate impact of illegal trade union actions in essential services
-
-Reveals 50-80% of Govt.’s tax income allocated for public sector salaries
-
-Affirms Govt. led by President is not intimidated by politically motivated and unfair public sector demands
-
-The Government yesterday announced that new legislation will be introduced to limit the impact of strikes on the public, particularly in essential services such as education, health and transport.
-
-...
-
-[Data](articles/f0af3f3a.json)
-
-[Extended Data](ext_articles/f0af3f3a.ext.json)
-
----
-
-### If the company does not change, we will change
-
-*2024-07-11 02:39:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பனிகள்-மாறாவிடின்-நாங்கள்-மாற்றுவோம்/175-340194) · `ta`
-
-Vadivel Suresh warns plantation companies: either raise workers' salaries or face changes in their operations. He highlights the struggle of hill country residents, whose legal salary hikes are being opposed, indicating potential legal challenges to plantation companies.
-
-🟩
-
-Badulla District Parliamentarian Vadivel Suresh said that if the plantation companies do not change the salary of plantation workers, we will change the livelihood of the people.
-
-He said this while addressing a debate in Parliament on Wednesday (10).
-
-The people of the hill country are suffering from various hardships and are suffering from a salary for corruption. While the salary increase of these people is legally published in the gazette notification, the power to oppose it is surprising.
-
-If the court goes against the salary hike in the hill people who are carrying the country's economy as a backbone, it is understood that the plantation companies are in a state of disrepair.
-
-Plantation Company owners if you don't change we will change you ”. Meanwhile, we are also telling the government that we will change the livelihood of the plantation people immediately.
-
-◼️
-
-[Data](articles/bbdfde99.json)
-
-[Extended Data](ext_articles/bbdfde99.ext.json)
-
----
-
-### President advocates boosting cultivation of high-quality cinnamon varieties
-
-*2024-07-11 02:38:07* · [`dailyftlk`](https://www.ft.lk/business/President-advocates-boosting-cultivation-of-high-quality-cinnamon-varieties/34-764132) · `en`
-
-Inaugurates official website and new Department of Cinnamon Development in Galle
-
-Receives 10-year roadmap for industry promotion, a technical publication titled ‘Cinnamon Handbook’
-
-Calls for a strategic plan to restart cinnamon cultivation from Puttalam to Hambantota; attract new investments in various industries, including information technology
-
-President Ranil Wickremesinghe yesterday asserted the importance of boosting the cultivation of high-quality cinnamon varieties, noting Sri Lanka’s legacy as a leading cinnamon producer and exporter.
-
-He made these remarks at the inauguration of the main office of the newly established Department of Cinnamon Development and launched its official website yesterday in Karandeniya in Galle.
-
-The initiative originates from a proposal in the 2023 Budget, aimed to revitalise the Ceylon cinnamon industry.
-
-...
-
-[Data](articles/7a521db2.json)
-
-[Extended Data](ext_articles/7a521db2.ext.json)
 
 ---

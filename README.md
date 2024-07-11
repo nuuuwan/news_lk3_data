@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 05:05:00**
+As of **2024-07-12 05:20:08**
 
 ## Newspaper Stats
 
-*Scraped **34,891** Articles*
+*Scraped **34,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,068
 dailyftlk | 2,203
 adalk | 3,146
 adaderanalk | 4,006
-tamilmirrorlk | 4,173
+tamilmirrorlk | 4,174
 dailymirrorlk | 4,733
 virakesarilk | 5,464
 adaderanasinhalalk | 5,802
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,891 (100.0%) of 34,891 articles have been extended.
+34,891 (100.0%) of 34,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
+
+### ’மக்களின் பாதுகாப்பு கடும் அச்சுறுத்தல்’
+
+*2024-07-12 02:57:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களின்-பாதுகாப்பு-கடும்-அச்சுறுத்தல்/175-340273) · `ta`
+
+சட்டம் ஒழுங்கு சீர்குலைந்து மக்களின் பாதுகாப்பு அச்சுறுத்தலுக்கு உள்ளாகியுள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+
+இதேவேளை, சட்டம் ஒழுங்கை நடைமுறைப்படுத்தி, மக்களின் பாதுகாப்பை உறுதிப்படுத்த அரசாங்கம் உரிய நடவடிக்கைகளை முன்னெடுக்க வேண்டும் என்றும், அதற்கு தேவையான ஒத்துழைப்புகளை வழங்குவதற்கு தாம் தயார் என்றும் எதிர்க்கட்சித் தலைவர் தெரிவித்துள்ளார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (11) விசேட கூற்றை முன்வைத்து உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் இவ்வாறு கூறினார்.
+
+நாட்டில் சட்டம் ஒழுங்கு தொடர்பில் பாரிய பிரச்சினைகள் ஏற்பட்டுள்ளன. வருகிறார்கள், தாக்குதல் நடத்துகிறார்கள், போகிறார்கள். எல்லா இடங்களிலும் வன்முறைகள் தலைதூக்கியுள்ளன. இது தொடர்பில் மக்களிடையே பெரும் அச்சம் ஏற்பட்டுள்ளது. சந்தேகங்கள் ஏற்பட்டுள்ளன.
+
+...
+
+[Data](articles/9e42a482.json)
+
+---
 
 ### Ranil immature, not crafty says AKD
 
@@ -2241,31 +2259,5 @@ The Pharmaceutical Policy was introduced to the Sri Lankan concept to the world,
 [Data](articles/14afc82b.json)
 
 [Extended Data](ext_articles/14afc82b.ext.json)
-
----
-
-### Charore's Cup Cricket Tournament in Sri Lanka?
-
-*2024-07-11 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198706) · `si`
-
-The 2025 Charore's Cup Cricket Tournament, initially set for Sri Lanka or UAE, faces uncertainty due to India's reluctance to travel to Pakistan. This comes after India last visited Pakistan for the Asia Cup in 2008. The ICC may receive a request from India regarding the venue change.
-
-🟩
-
-The Champion Cricket Tournament to be held in 2025 will be held in Sri Lanka or the United Arabic Emirates, Indian media.
-
-It is said that the Indian team has been reluctant to visit Pakistan to visit the tournament.
-
-India is to make a request from the International Cricket Council in this regard.
-
-The 2025 champion cricket tournament is scheduled to be held in Pakistan in March that year and Pakistan has said that Indian matches are being held in Lahore.
-
-The last Indian Cricket visited Pakistan for the Asia Cup in 2008.
-
-◼️
-
-[Data](articles/957ed55e.json)
-
-[Extended Data](ext_articles/957ed55e.ext.json)
 
 ---

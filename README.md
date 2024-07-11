@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 18:26:43**
+As of **2024-07-11 18:37:25**
 
 ## Newspaper Stats
 
-*Scraped **34,808** Articles*
+*Scraped **34,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,957
 economynextcom | 2,055
 dailyftlk | 2,183
 adalk | 3,138
-adaderanalk | 4,001
+adaderanalk | 4,002
 tamilmirrorlk | 4,163
 dailymirrorlk | 4,733
 virakesarilk | 5,446
@@ -26,181 +26,273 @@ adaderanasinhalalk | 5,793
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,798 (100.0%) of 34,808 articles have been extended.
+34,808 (100.0%) of 34,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### වනිඳු හසරංග නායකත්වයෙන් ඉවත් වෙයි
+### Wanindu Hasaranga resigns from captaincy
+
+*2024-07-11 18:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100449/wanindu-hasaranga-resigns-from-captaincy) · `en`
+
+Sri Lanka Cricket (SLC) today announced that the National Men’s T20I Captain Wanindu Hasaranga has decided to resign from the captaincy.
+
+Hasaranga said it is in the best interest of Sri Lanka Cricket that he decided to relinquish the captaincy duties and remain in the side as a player, the statement said.
+
+“Sri Lanka will always have my utmost best efforts as a player, and I will support and stand by my team and leadership as always,” said Wanindu Hasaranga in his resignation letter.
+
+“Sri Lanka Cricket, while accepting his resignation, wishes to state that Hasaranga will remain an important player for us in our international cricketing plans,” the SLC statement said.
+
+◼️
+
+[Data](articles/d8969054.json)
+
+---
+
+### Thunu Hasaranga is led by leading
 
 *2024-07-11 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198713) · `si`
 
-ශ්‍රී ලංකා 20යි 20 ක්‍රිකට් කණ්ඩාමේ නායක වනිඳු හසරංග එම තනතුරෙන් ඉල්ලා අස් වී තිබේ.
+Thunu Hasaranga, the leader of the Sri Lanka cricket team, has stepped down from his position as captain of the 20th T20 match.
+
+🟩
+
+The Sri Lanka 20th T20 and Leader of the Cricket Kaduvaranga has resigned from the post.
 
 ◼️
 
 [Data](articles/896bc5ac.json)
 
+[Extended Data](ext_articles/896bc5ac.ext.json)
+
 ---
 
-### சாவுக்கு துணிஞ்சவனுக்கு மட்டும்தான் இங்க வாழ்க்கை' - மிரட்டும் சீயான் விக்ரமின் 'தங்கலான்' பட முன்னோட்டம்
+### Here's the life of the death of the death of the death of 'Thangalan'.
 
 *2024-07-11 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/188242) · `ta`
 
-ரசிகர்களின் பெரும் எதிர்பார்ப்பிலா இருக்கும் சீயான் விக்ரம் நடிப்பில் தயாரான 'தங்கலான்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+"Thangalan," starring Siyan Vikram and directed by Pa. Ranjith, is a highly anticipated historical drama set in the Kolar Gold Fields. The film, featuring Hollywood actor Daniel Kaluuya, is produced by Studio Green and Neelam Productions, with music by G.V. Prakash Kumar. Despite completion last year, it awaits release on August 15 in multiple languages. The trailer, focusing on the lives of oppressed people, has garnered over three million views, sparking immense interest among fans.
 
-இயக்குநர் பா. ரஞ்சித் இயக்கத்தில் உருவாகி இருக்கும் 'தங்கலான்' எனும் திரைப்படத்தில் சீயான் விக்ரம், பார்வதி, மாளவிகா மோகன், பசுபதி, ஹரி கிருஷ்ணன், சம்பத் ராம் இவர்களுடன் ஹொலிவுட் நடிகர் டேனியல் கல்டகிரோன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஏ. கிஷோர் குமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'இசை அசுரன்' ஜீ. வி. பிரகாஷ் குமார் இசையமைத்திருக்கிறார்.
+🟩
 
-சரித்திர காலகட்டத்திய பின்னணியில் எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஸ்டூடியோ கிரீன் மற்றும் நீலம் புரொடக்ஷன்ஸ் ஆகிய முன்னணி பட தயாரிப்பு நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் கே.ஈ. ஞானவேல் ராஜா மற்றும் இயக்குநர் பா ரஞ்சித் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+The preview of the movie 'Thangalan', which is starring in the film 'Siyan Vikram', which is a hugely anticipated film, has been released.
+
+Director Pa. Hollywood actor Daniel Kaldagiron has starred in the film 'Thangalan' in Ranjith.. A.. கிஷோர் குமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'இசை அசுரன்' ஜீ. V.. Prakash Kumar has composed the music.
+
+The film, which is being prepared as Exan Entertainer in the context of historical period, is on behalf of the producers of Studio Green and Neelam Productions on behalf of the leading film production companies.. Gnanvel Raja and Director Pa Ranjith are co -produced.
+
+Although all the work of the film was completed last year, the film crew waited for the appropriate date. The film is being held on August 15 in Tamil Telugu Malayalam and Kannada Hindi.
 
 ...
 
 [Data](articles/39576315.json)
 
+[Extended Data](ext_articles/39576315.ext.json)
+
 ---
 
-### விக்கிரவாண்டி இடைத்தேர்தலில் 82.48 சதவீத வாக்குகள் பதிவு
+### 82.48 % votes in the by -election
 
 *2024-07-11 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188238) · `ta`
 
-தமிழகத்தின் வட பகுதியில் அமைந்திருக்கும் விக்கிரவாண்டி எனும் தொகுதிக்கு நடைபெற்ற இடைத்தேர்தலில் 82.48 சதவீத வாக்குகள் பதிவாகி இருப்பதாக தேர்தல் ஆணையம் தெரிவித்திருக்கிறது.
+In the Vikravandi by-election, 82.48% of voters turned out, marking a significant participation rate. The election, held amidst a brief period of political tension, concluded without major incidents, with the votes set to be counted on July 13. The high turnout indicates strong voter interest despite the AIADMK's boycott, suggesting a potential shift in electoral dynamics.
 
-விக்கிரவாண்டி தொகுதியின் சட்டமன்ற உறுப்பினராக இருந்த என். புகழேந்தி ஏப்ரல் மாதம் திடீரென உடல் நலக் குறைவின் காரணமாக உயிரிழந்தார். இதனைத் தொடர்ந்து அந்தத் தொகுதி காலியாக இருப்பதாக தேர்தல் ஆணையம் அறிவித்தது.
+🟩
 
-மக்களவைத் தேர்தல் நிறைவடைந்த உடன் இந்தியா முழுவதும் காலியாக இருக்கும் 13 சட்டமன்ற தொகுதிகளுக்கு இடைத்தேர்தல் ஜூலை 10 ஆம் திகதி அன்று நடைபெறும் என தேர்தல் ஆணையம் அறிவித்திருந்தது.
+The Election Commission said that 82.48 per cent of the votes were cast in the by -election of Vikravandi constituency located in the northern part of Tamil Nadu.
 
-இதனைத் தொடர்ந்து விக்கிரவாண்டி சட்டப்பேரவை தொகுதிக்கு ஜூலை 10 ஆம் தேதி இடைத்தேர்தல் நடைபெறும் என அறிவிப்பு வெளியானது. திமுக சார்பில் அன்னியூர் சிவா, பாமக சார்பில் கி. அன்புமணி, நாம் தமிழர் சார்பில் அபிநயா ஆகியோர் வேட்பாளராக போட்டியிட்டனர்.
+N, who was a member of the Vikravandi constituency. Prasanthi died suddenly due to ill health in April. Following this, the Election Commission announced that the constituency was vacant.
+
+The Election Commission has announced that the by -election for 13 vacant assembly constituencies across India will be held on July 10 with the end of the Lok Sabha elections.
+
+Following this, the by -election will be held on July 10 for the Vikravandi assembly constituency.. Anniyoor Siva on behalf of DMK. Anbumani and Abhinaya on behalf of Nam Tamils ​​contested as a candidate.
+
+During the by -election of the Erode Eastern constituency earlier this year, the ruling DMK, the AIADMK boycotted the by -election for the Vikravandi constituency.. This resulted in a three-day rivalry between the DMK-Bamaka and Nam Tamils.
 
 ...
 
 [Data](articles/c9e391b3.json)
 
+[Extended Data](ext_articles/c9e391b3.ext.json)
+
 ---
 
-### சுசீந்திரன் இயக்கும் '2 K லவ் ஸ்டோரி '
+### Susheendran directed '2K Love Story'
 
 *2024-07-11 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188237) · `ta`
 
-புதுமுக நடிகர் ஜெகவீர் கதையின் நாயகனாக நடிக்கும் '2 K லவ் ஸ்டோரி 'எனும் திரைப்படத்தின் தொடக்க விழா சென்னையில் சிறப்பாக நடைபெற்றது.
+"Director Susheendran's '2K Love Story,' featuring newcomer Jekavir and others, premiered in Chennai. The film, also starring Meenakshi Govindarajan, Bala Saravanan, and more, explores the lives of cinematographers through a multi-faceted love story. Shot in Coimbatore and Chennai, it's produced by Vignesh Subramanian under City Light Pictures."
 
-தமிழ் சினிமாவில் ஏராளமான வெற்றி படங்களை இயக்கிய இயக்குநர் சுசீந்திரன் சிறிய இடைவெளிக்குப் பிறகு இயக்கும் '2 K லவ் ஸ்டோரி' எனும் திரைப்படத்தில் ஜெகவீர், மீனாட்சி கோவிந்தராஜன், பால சரவணன், ஆண்டனி பாக்யராஜ், ஜெயபிரகாஷ், வினோதினி உள்ளிட்ட பலர் நடிக்கிறார்கள்.
+🟩
 
-வி. எஸ். ஆனந்த கிருஷ்ணன் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு டி. இமான் இசையமைக்கிறார். காதலை மையப்படுத்தி தயாராகும் இந்த திரைப்படத்தை சிட்டி லைட் பிக்சர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் விக்னேஷ் சுப்பிரமணியன் தயாரிக்கிறார்.
+The inauguration of the film '2K Love Story' starring the hero of the new actor Jekavir was held in Chennai.
 
-படத்தைப் பற்றி இயக்குநர் பேசுகையில், '' திருமண நிகழ்வுகளை பதிவு செய்யும் ஒளிப்பதிவு கலைஞர்களின் வாழ்வியலில் நடைபெறும் சம்பவங்களை தழுவி, அனைத்து தரப்பினரும் ரசிக்கும் வகையிலான காதல் கதையாக இத்திரைப்படத்தின் திரைக்கதை அமைக்கப்பட்டுள்ளது.
+Director Susheendran, who has directed a number of hit films in Tamil cinema, starring Jekavir, Meenakshi Govindarajan, Bala Saravanan, Antony Bhagyaraj, Jayaprakash, Vinodini and many others in the film '2K Love Story'.
 
-இப்படத்தின் கதைக்களம் கோயம்புத்தூர் என்பதால் கோவை மற்றும் சென்னையில் படப்பிடிப்பு நடத்த திட்டமிடப்பட்டுள்ளது'' என்றார்.
+V.. S.. Ananda Krishnan cinematography. Iman is composing. The film is being produced by Vignesh Subramanian on behalf of City Light Pictures.
+
+Commenting on the film, the director said, “The film's screenplay has been set up as a love story of all sides, embracing the events of the life of cinematographers who record the wedding events.
+
+The storyline of the film is scheduled to be shot in Coimbatore and Chennai as it is Coimbatore. ”
 
 ◼️
 
 [Data](articles/dc01d90a.json)
 
+[Extended Data](ext_articles/dc01d90a.ext.json)
+
 ---
 
-### வெளியீட்டு திகதியை அறிவித்த விஜய் ஆண்டனியின் 'மழை' பிடிக்காத மனிதன் படக் குழு
+### Vijay Antony's 'Rain'
 
 *2024-07-11 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188239) · `ta`
 
-இசையமைப்பாளரும், முன்னணி நட்சத்திர நடிகருமான விஜய் ஆண்டனி எக்சன் ஹீரோவாக நடித்திருக்கும் 'மழை பிடிக்காத மனிதன்' திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக வெளியிடப்பட்டிருக்கிறது.
+"Vijay Antony stars in 'Rainless Man,' set for release on August 2 after initially planned for July. Directed by Vijay Milton, featuring Sathyaraj, Sarathkumar, and others. Composed by Vijay Antony and Aksha Rajamani. Produced by Exan Entertainer and Infinity Film Ventures."
 
-ஒளிப்பதிவாளரும், இயக்குநருமான விஜய் மில்டன் இயக்கத்தில் உருவாகி இருக்கும் 'மழை பிடிக்காத மனிதன்' எனும் திரைப்படத்தில் விஜய் அண்டனி, சத்யராஜ், சரத்குமார், டாலி தனஞ்ஜெயா, மேகா ஆகாஷ், முரளி ஷர்மா, சரண்யா பொன்வண்ணன், பிருத்வி அம்பர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-விஜய் மில்டன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு விஜய் ஆண்டனி- அச்சு ராஜாமணி ஆகியோர் இணைந்து இசையமைத்திருக்கிறார்கள்.
+The release date of the film 'Rainless Man' starring musician and leading star actor Vijay Antony has been released.
 
-எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை இன்ஃபினிட்டி ஃபிலிம் வென்ச்சர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் கமல் போஹ்ரா, பங்கஜ் போஹ்ரா, லலிதா தனஞ்செயன், பி பிரதீப் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+Vijay Antony, Sathyaraj, Sarathkumar, Dali Tananjaya, Mega Akash, Murali Sharma, Saranya Ponvannan, Prithvi Amber, starring Vijay Milton, directed by Vijay Milton.
 
-ஜூலையில் வெளியிட திட்டமிடப்பட்ட இந்த திரைப்படம் பொருத்தமான வெளியீட்டு திகதி கிடைக்காததால் ஓகஸ்ட் இரண்டாம் திகதியன்று இந்த திரைப்படம் படமாளிகையில் வெளியாகிறது.
+Vijay Antony and Aksha Rajamani have composed the film, which is being recorded by Vijay Milton.
 
-...
+The film is being produced as Exan Entertainer and produced by Kamal Bohra, Pankaj Bohra, Lalitha Tananjayan and B Pradeep on behalf of Infinity Film Ventures.
+
+The film, which is scheduled to be released in July, will be released on August 2, as it is not available on the appropriate release date.
+
+It is noteworthy that Vijay Antony's market value will last only if the film is a commercial and critical success.
+
+◼️
 
 [Data](articles/dcf70277.json)
 
+[Extended Data](ext_articles/dcf70277.ext.json)
+
 ---
 
-### இலங்கையில் நூறு வயதைக் கடந்தவர்கள் 495 பேர் உள்ளனர் !
+### There are 495 people over the age of 100 in Sri Lanka!
 
 *2024-07-11 18:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/188232) · `ta`
 
-இலங்கையில் நூறு வயதைக் கடந்தவர்கள் 495 பேர் இருப்பதாக இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய இன்று வியாழக்கிழமை (11) பாராளுமன்றத்தில் தெரிவித்தார்.
+In Sri Lanka, there are 495 centenarians who qualify for a special scholarship for the elderly. State Minister Ranjith Siyambalapitiya announced this in Parliament, noting that by 2030, the number of pensioners could surpass 10 lakh due to the increasing elderly population.
 
-முதியோர்களுக்கு வழங்கப்படும் சிறப்பு உதவித்தொகையைப் பெற இந்த நபர்களுக்கும் உரிமை உண்டு எனக் குறிப்பிட்டார்.
+🟩
 
-"60 வயதுக்கு மேற்பட்டோர்  27 இலட்சம் பேர்  உள்ளனர். இந்நிலையில், ஓய்வூதியம் பெறுவோர் எண்ணிக்கை 2030 ஆம் ஆண்டுக்குள் 10 இலட்சத்தை தாண்டும் என அவர் மேலும் தெரிவித்துள்ளார்.
+State Minister Ranjith Siyambalapitiya told Parliament today (11) that there are 495 people in Sri Lanka.
+
+He said that these persons also have the right to get a special scholarship offered to the elderly.
+
+“There are more than 60 years of age 27 lakhs. In this case, the number of pensioners will exceed 10 lakhs by 2030, he added.
 
 ◼️
 
 [Data](articles/7817abce.json)
 
+[Extended Data](ext_articles/7817abce.ext.json)
+
 ---
 
-### அமெரிக்க - இலங்கை பங்காண்மை கலந்துரையாடல் : வெளிவிவகார செயலாளர் அருணி விஜேவர்தன தலைமையிலான குழுவினர் பங்கேற்பு
+### US - Sri Lanka Partnership Discussion: A team headed by Foreign Secretary Aruni Wijewardena
 
 *2024-07-11 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/188251) · `ta`
 
-அமெரிக்க இராஜாங்கத் திணைக்களத்தில் வெள்ளிக்கிழமை (12) நடைபெறவுள்ள 5 ஆவது அமெரிக்க - இலங்கை பங்காண்மை கலந்துரையாடலில் இலங்கை சார்பில் வெளிவிவகார செயலாளர் அருணி விஜேவர்தன தலைமையிலான உயர்மட்டக்குழுவினர் பங்கேற்கவுள்ளனர்.
+A high-level committee led by Foreign Secretary Aruni Wijewardena will attend the 5th US-Sri Lanka Partnership Discussion, aiming to enhance bilateral ties through economic, security, democratic, human rights, environmental, scientific, educational, and cultural cooperation. The meeting, facilitated by the US State Department, seeks to foster mutual benefits and address global issues together.
 
-இலங்கை - அமெரிக்க நாடுகளுக்கு இடையிலான இருதரப்பு நல்லுறவை மேலும் வலுப்படுத்தும் நோக்கில் தொடர்ந்து ஐந்தாவது முறையாக இன்றைய தினம் நடைபெறவுள்ள இக்கலந்துரையாடலுக்கு இலங்கை சார்பில் வெளிவிவகார அமைச்சின் செயலாளர் அருணி விஜேவர்தனவும், அமெரிக்கா சார்பில் அமெரிக்க இராஜாங்கத் திணைக்களத்தின் அரசியல் விவகாரங்களுக்கான பதில் செயலர் ஜோன் பாஸும் இணைத்தலைமை தாங்கவுள்ளனர்.
+🟩
 
-இக்கலந்துரையாடலில் பொருளாதாரம், பாதுகாப்பு ஒத்துழைப்பு, ஜனநாயகம், நல்லிணக்கம், மனித உரிமைகள், காலநிலை மாற்றம், விஞ்ஞானம் மற்றும் தொழில்நுட்ப ஒத்துழைப்பு, கல்வி மற்றும் கலாசார ஒத்துழைப்பு, மக்களுக்கு இடையிலான தொடர்புகள் என்பன உள்ளடங்கலாக இருநாடுகளுக்கும் இடையிலான நல்லுறவை மேலும் வலுப்படுத்துவதற்கான சாத்தியப்பாடுகள் குறித்து விரிவாக ஆராயப்படவுள்ளது.
+A high -level committee headed by Foreign Secretary Aruni Wijewardena will participate in the 5th US -Sri Lanka Partnership Discussion of the US State Department on Friday (12).
 
-...
+Sri Lanka's Secretary of State for External Affairs Aruni Wijewardena will be able to withstand the US State Department's political affairs on behalf of the US State Department, John Pass, on behalf of the US, to the fifth consecutive time today to further strengthen bilateral harmony between Sri Lanka and the US.
+
+In this case, the possibility of further strengthening the goodwill between the two countries, including economics, security cooperation, democracy, harmony, human rights, climate change, science and technical cooperation, educational and cultural cooperation and relations between the people.
+
+Similarly, promoting two countries, investing in mutual benefit for the two countries, and cooperation in dealing with public concerns on the world stage.
+
+◼️
 
 [Data](articles/226cee60.json)
 
+[Extended Data](ext_articles/226cee60.ext.json)
+
 ---
 
-### இயக்குநர் சீனு ராமசாமி வெளியிட்ட 'வீராயி மக்கள்' படத்தின் சிங்கிள் ட்ராக்
+### Single Track of 'Veerai Nivas'
 
 *2024-07-11 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188241) · `ta`
 
-அறிமுக நடிகர் சுரேஷ் நந்தா கதையின் நாயகனாக நடித்திருக்கும் 'வீராயி மக்கள்' எனும் திரைப்படத்தில் இடம்பெற்ற 'நெஞ்சுக்குள்ள..' எனத் தொடங்கும் முதல் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+"Veerai Nivas," starring Suresh Nanda, features its first song and video, directed by Seanu Ramaswamy, who praised the team. The film, written by Nagaraj Karupaya, includes performances from actors like Marimuthu and Deepa Shankar. The soundtrack, including "Nenjukkul Om Parakkuttu Kuttikkunnu," is composed by Deepan Chakraborty, with vocals by Nagaraj, Madurai Kavi, and Hemambika.
 
-இதனை தேசிய விருது பெற்ற இயக்குநரும், நடிகருமான சீனு ராமசாமி அவருடைய இணைய பக்கத்தில் வெளியிட்டு, பட குழுவினருக்கும், இசையமைப்பாளருக்கும் வாழ்த்து தெரிவித்திருக்கிறார்.
+🟩
 
-இயக்குநர் நாகராஜ் கருப்பையா இயக்கத்தில் உருவாகி இருக்கும் 'வீராயி மக்கள்' எனும் திரைப்படத்தில் எழுத்தாளரும், நடிகருமான வேல. ராமமூர்த்தி, மறைந்த நடிகர் மாரிமுத்து, தீபா ஷங்கர், சுரேஷ் நந்தா, நந்தனா, ரமா, செந்தி குமாரி, பாண்டி அக்கா, ஜெரால்ட்  மில்டன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+The first song and the lyrical video for the song, which starts with the film 'Veerai Naval' starring Suresh Nanda, the hero of the story.
 
-எம். சீனிவாசன் ஒளிப்பதிவு செய்திருக்கும் இந்த த்திற்கு தீபன் சக்கரவர்த்தி இசையமைத்திருக்கிறார். கிராமிய மக்களின் யதார்த்த வாழ்வியலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை ஏ வைட் ஸ்கிரீன் பிலிம்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் என். சுரேஷ் நந்தா தயாரித்திருக்கிறார்.
+The National Award -winning director and actor Seanu Ramaswamy posted this on his web page and congratulated the film crew and composer.
+
+Writer and actor in the film 'Veerai Nivas' directed by director Nagaraj Karupaya. Ramamurthy, late actor Marimuthu, Deepa Shankar, Suresh Nanda, Nandana, Rama, Senthi Kumari, Pandi aka, Gerald Milton and many others.
+
+M.. The cinematography by Srinivasan has been composed by the Emperor of Deepan. Producer N.. Produced by Suresh Nanda.
+
+The first song of the film has been released as the first song and the song, which starts with the first song and the song 'Nenjukkul Om Parakkuttu Kuttikkunnu You come and Ninnuputa Sami Sathiyama' ... The song is sung by the songwriters Nagaraj and Madurai Kavi, the playback singer Hemambika, composer and singer Deepan Chakraborty.
 
 ...
 
 [Data](articles/bfde6adb.json)
 
+[Extended Data](ext_articles/bfde6adb.ext.json)
+
 ---
 
-### இந்து சமுத்திரபகுதியில் கோபால்ட்  ஆய்வில் ஈடுபட இந்தியா முயற்சி - இலங்கை எதிர்ப்பு
+### India attempts to engage in Cobalt Study in the Indian Ocean - Sri Lanka
 
 *2024-07-11 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/188248) · `ta`
 
-இந்துசமுத்திரத்தின்  கடல்மலைப்பகுதியில்  கோபால்ட் cobaltகுறித்த ஆய்வில் ஈடுபடுவதற்கான  இந்தியாவின் முயற்சிக்கு இலங்கை எதிர்ப்பை வெளியிட்டுள்ளதை தொடர்ந்து இந்த விடயத்தில் இருநாடுகளிற்கும் இடையில் முரண்பாடு  ஏற்பட்டுள்ளது.
+India faces tension with Sri Lanka over a Cobalt study in the Indian Ocean, as Sri Lanka claims the area falls within its extended shelf. The International Seabed Authority (ISA) in Kingston, Jamaica, is investigating the matter. The UN Commission on the Limits of the Continental Shelf has urged both parties to cooperate, but disputes persist, affecting diplomatic relations and local fishing rights.
 
-இந்து சமுத்திரத்தின் அபானாசி நிக்கிட்டின் கடல்மலை பகுதியில் (Afanasy Nikitin Seamount in the Indian Ocean  ) உள்ள  கோபால்ட் உலோகம் குறித்து ஆய்வில் ஈடுபடுவதற்கு   கிங்ஸ்டன் ஜமைக்காவில் உள்ள சர்வதேச கடற்படுக்கை அதிகாரசபையிடம் (International Seabed Authority)  இந்தியா விடுத்துள்ள வேண்டுகோளிற்கு இலங்கை எதிர்ப்பு தெரிவித்துள்ளதை தொடர்ந்து இரண்டுநாடுகளிற்கும் இடையில் இந்த விடயம் தொடர்பில் சர்ச்சை  மூண்டுள்ளது.
+🟩
 
-இந்தியா கோபால்ட் உலோகங்கள் குறித்து ஆய்வில் ஈடுபடவிரும்பும் பகுதி தனது விரிவாக்கப்பட்ட கண்ட அடுக்கிற்குள் (continental shelf ) உள்ளதாக இலங்கை தெரிவிக்கின்றது.
+There has been a conflict between the two countries following Sri Lanka's opposition to India's efforts to engage in a study on Gobalt Cobalt in the sea of ​​Hinduism.
+
+The International Seaabed Authority of Kingston Jamaica has been expressed by the International Seabed Authority in Kingston Jamaica to investigate the Cobalt metal in the Afanasy Nikitin Seamount in the Indian Ocean of the Indian Ocean.
+
+Sri Lanka reports that the area where India is studying the Cobalt metals is within its expanded shelf.
+
+The United Nations Commission on the Limits of Landslides has urged the ISA New Delhi to accept the request of the United Nations Commission on the Limits of the Continental Shelf.
+
+The International Navy Authority is following the practices that apply, ”a spokesman for the Ministry of Foreign Affairs of Sri Lanka said.
 
 ...
 
 [Data](articles/e7af43bd.json)
 
+[Extended Data](ext_articles/e7af43bd.ext.json)
+
 ---
 
-### වැස්ස ගැන කාලගුණයෙන් නිවේදනයක්
+### Announcement in the rain
 
 *2024-07-11 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198712) · `si`
 
-හෙට (12) සිට ඉදිරි දින කිහිපයේ දී දිවයිනේ නිරිත දිග ප්‍රදේශවල වැසි තත්ත්වයේ වැඩිවීමක් අපේක්ෂා කෙරෙන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology warns of increased rainfall from tomorrow in the southwestern parts of the island, affecting areas like Kandy, Nuwara Eliya, Galle, and Matara. Thundershowers are expected in the Western, Sabaragamuwa, North Western provinces, and certain districts. The public is advised to prepare for potential wind and lightning hazards.
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි බවද දැනුම් දී තිබේ.
+🟩
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50ට වැඩිතරමක් තද වැසි ඇති විය හැකිය.
+The Department of Meteorology announces a rainy increase in the southwestern parts of the island to tomorrow (12).
 
-ඌව පළාතෙත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+Showers will occur at times in the Western, Sabaragamuwa and North Western provinces in the Kandy, Nuwara Eliya, Galle and Matara districts.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Some locations in the Western and Sabaragamuwa Province and in some places in the Galle and Matara Districts. 50 can have a workplace.
+
+Thundershowers will develop at several places in the Ampara and Batticaloa districts, Ampara and Batticaloa districts.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/5d36d292.json)
+
+[Extended Data](ext_articles/5d36d292.ext.json)
 
 ---
 
@@ -2255,25 +2347,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/71c198d7.json)
 
 [Extended Data](ext_articles/71c198d7.ext.json)
-
----
-
-### A terrible accident in Nuwara Eliya
-
-*2024-07-11 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198688) · `si`
-
-In Nuwara Eliya, a tragic accident occurred when a bus carrying passengers on a picnic overturned, resulting in 37 injuries. The incident highlights the dangers of such outings.
-
-🟩
-
-37 injured in a bus topples in the topples area in Nuwara Eliya.
-
-Our correspondent said that the bus was in danger during a picnic.
-
-◼️
-
-[Data](articles/e8d0059f.json)
-
-[Extended Data](ext_articles/e8d0059f.ext.json)
 
 ---

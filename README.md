@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 19:04:49**
+As of **2024-07-11 19:20:07**
 
 ## Newspaper Stats
 
-*Scraped **34,809** Articles*
+*Scraped **34,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 4,002
 tamilmirrorlk | 4,163
 dailymirrorlk | 4,733
 virakesarilk | 5,446
-adaderanasinhalalk | 5,793
+adaderanasinhalalk | 5,794
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,809 (100.0%) of 34,809 articles have been extended.
+34,809 (100.0%) of 34,810 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### දුම්රිය වර්ජනය අඛණ්ඩව
+
+*2024-07-11 18:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198714) · `si`
+
+දුම්රිය වර්ජනය අඛණ්ඩව පවත්වාගෙන යන බව දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය පවසයි.
+
+එම සංගමයේ සභාපති සුමේධ සෝමරත්න මහතා පැවසුවේ අද (11) පස්වරුවේ පැවති විධායක කමිටු රැස්වීමෙන් අනතුරුව මෙම තීරණය ගත් බවයි.
+
+◼️
+
+[Data](articles/c9d48eb0.json)
+
+---
 
 ### Wanindu Hasaranga resigns from captaincy
 
@@ -2327,27 +2341,5 @@ If you or someone you know is in crisis and needs help, resources are available 
 [Data](articles/b409c7dc.json)
 
 [Extended Data](ext_articles/b409c7dc.ext.json)
-
----
-
-### Showery conditions to enhance in next few days
-
-*2024-07-11 08:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100433/showery-conditions-to-enhance-in-next-few-days) · `en`
-
-The Meteorology Department says showery conditions in the South-western part of the country are expected to be enhanced in the next few days from tomorrow (12 July).
-
-Several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Showers or thundershowers may occur at a few places in Eastern and Uva provinces in the evening or night, it said.
-
-Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/71c198d7.json)
-
-[Extended Data](ext_articles/71c198d7.ext.json)
 
 ---

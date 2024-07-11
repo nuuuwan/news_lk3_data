@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 10:07:25**
+As of **2024-07-11 10:19:54**
 
 ## Newspaper Stats
 
-*Scraped **34,717** Articles*
+*Scraped **34,722** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,58 +15,134 @@ newsfirstlk | 363
 islandlk | 1,957
 economynextcom | 2,049
 dailyftlk | 2,183
-adalk | 3,129
+adalk | 3,130
 adaderanalk | 3,988
-tamilmirrorlk | 4,146
+tamilmirrorlk | 4,147
 dailymirrorlk | 4,733
-virakesarilk | 5,422
+virakesarilk | 5,425
 adaderanasinhalalk | 5,772
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,714 (100.0%) of 34,717 articles have been extended.
+34,717 (100.0%) of 34,722 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### உலகத்துக்கு இந்தியா புத்தரை கொடுத்துள்ளது: பிரதமர் மோடி
+### மது அருந்துபவர்களை மகிழ்விக்க வேண்டும்
+
+*2024-07-11 09:56:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மது-அருந்துபவர்களை-மகிழ்விக்க-வேண்டும்/175-340209) · `ta`
+
+மனைவியுடனான பிரச்சினையால் பலர் மதுபானங்களை அருந்தி மன ஆறுதல் தேடுவதனால்   மதுபானங்களின் விலைகளை குறைத்து மது அருந்துபவர்களை மகிழ்விக்க வேண்டும் என கைத்தொழில் இராஜாங்க அமைச்சர் சாமர சம்பத்  வேண்டுகோள் விடுத்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (10) இடம்பெற்ற  மது வரி கட்டளைச் சட்டம் மற்றும் ஏற்றுமதி,இறக்குமதி கட்டுப்பாட்டுச் சட்டங்கள் குறித்த வர்த்தமானி அறிவித்தல்கள் தொடர்பான விவாதத்தில் உரையாற்றும் போதே  இவ்வாறு வேண்டுகோள் விடுத்த அவர்  மேலும்  பேசுகையில்,
+
+மதுபானங்களின் விலை அதிகரிப்பால் சட்டவிரோத கசிப்பு உற்பத்தி தீவிரமடைந்துள்ளன.மதுவரி  சட்டங்களை திருத்துவதாலும்,புதிதாக மதுபான சாலைகளுக்கு அனுமதி வழங்குவதாலும் பொருளாதார நெருக்கடிக்கு தீர்வு காண முடியாது.
+
+மதுபானங்களின் விலை அதிகரிப்பால் மதுவரி திணைக்களம் இந்த ஆண்டு முதல் காலாண்டில் மாத்திரம் 50 பில்லியன் ரூபா நஷ்டமடைந்துள்ளது.
+
+...
+
+[Data](articles/57064e21.json)
+
+---
+
+### தம்புள்ளையிலுள்ள ஐக்கிய தேசிய கட்சியின் அலுவலகம் மீது தாக்குதல்
+
+*2024-07-11 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188179) · `ta`
+
+இந்த தாக்குதல் சம்பவத்தில் அலுவலகமும், அங்கு இருந்த அனைத்து பதாதைகளும் பாரியளவில் சேதமடைந்துள்ளதாக ஐக்கிய தேசியக் கட்சியின் பொதுச் செயலாளர் பாலித ரங்கே பண்டார தெரிவித்துள்ளார்.
+
+தாக்குதல் தொடர்பில் தம்புள்ளை பொலிஸில் முறைப்பாடு செய்துள்ளதாகவும், அவர்கள் சம்பவம் தொடர்பில் தீவிரமாக விசாரணைகளை மேற்கொண்டு வருவதாகவும் அவர் மேலும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/e73cd103.json)
+
+---
+
+### India has given Buddha to the world: Prime Minister Modi
 
 *2024-07-11 09:48:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகத்துக்கு-இந்தியா-புத்தரை-கொடுத்துள்ளது-பிரதமர்-மோடி/175-340206) · `ta`
 
-ரஷிய பயணத்தை முடித்துக்கொண்டு பிரதமர் மோடி 2 நாள் பயணமாக ஆஸ்திரியா சென்றார். அங்கு அந்நாட்டு ஜனாதிபதி அலெக்சாண்டர் வான்டர் பெல்லன் மற்றும் பிரதமர் கார்ல் நெகம்மரை இந்திய பிரதமர் மோடி சந்தித்தார்.
+In a 2-day visit to Austria following his Russian trip, PM Modi met with President Alexander Van der Bellen and Prime Minister Sebastian Kurz, discussing bilateral relations and trade. He also addressed the Indian community in Austria, highlighting India's contributions like Buddhism and its commitment to peace and progress, marking a significant moment in the 75-year Indo-Austrian friendship.
 
-இந்த சந்திப்பின்போது இருநாட்டு உறவு, வர்த்தகம் உள்பட பல்வேறு விவகாரங்கள் குறித்து ஆலோசிக்கப்பட்டது.
+🟩
 
-இதனை தொடர்ந்து ஆஸ்திரியாவாழ் இந்தியர்களை பிரதமர் மோடி சந்தித்தார். ஆஸ்திரியாவாழ் இந்தியர்கள் மத்தியில் பிரதமர் மோடி பேசியதாவது,
+PM Modi traveled to Austria on a 2 -day trip after completing Russian journey. There, Indian Prime Minister Modi met with President Alexander Wadder Bellan and Prime Minister Karl Negammamar.
 
-பல ஆயிரம் ஆண்டுகளாக நாம் நமது திறமை, அறிவை பகிர்ந்து வருகிறோம். நாம் உலகிற்கு புத்தரை (புத்த மதம் துறவி) கொடுத்துள்ளோம், யுத்தத்தை (போர்) கொடுக்கவில்லை. இந்தியா எப்போது அமைதி மற்றும் வளர்ச்சியை கொடுக்கிறது. இதனால் 21ம் நூற்றாண்டில் இந்தியா வலிமைபெற்று வருகிறது. எனது ஆஸ்திரிய பயணம் மிகவும் அர்த்தமுள்ளதாக அமைந்தது. 41 ஆண்டுகால காத்திருப்பு வரலாற்று சிறப்புமிக்க நிகழ்ச்சியால் நிறைவுக்கு வந்துள்ளது. இந்தியாவும் ஆஸ்திரியாவும் 75 ஆண்டுகால நட்பை கொண்டாடுகிறது என்றார்.
+During the meeting, various issues, including bilateral relations and trade, were consulted.
+
+Prime Minister Modi met Austria Indians. Prime Minister Modi spoke among Austrian Indians
+
+We have been sharing our talent and knowledge for several thousand years. We have given the Buddha to the world (Buddhist monk) and not giving war (war). When does India give peace and growth. Thus India is gaining strength in the 21st century. My Austrian journey made a very meaningful. The 41 -year waiting has been completed by the historic event. He said India and Austria celebrate 75 years of friendship.
 
 ◼️
 
 [Data](articles/4ca4ae27.json)
 
+[Extended Data](ext_articles/4ca4ae27.ext.json)
+
 ---
 
-### මුදල් විශුද්ධිකරණය හා ත්‍රස්තවාදයට අරමුදල් සැපයීම වැළැක්වීමට අලුත් වැඩක්
+### New work to prevent money laundering and funding of terrorism
 
 *2024-07-11 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198691) · `si`
 
-මුදල් විශුද්ධිකරණය වැළැක්වීම හා ත්‍රස්තවාදයට අරමුදල් සැපයීම වළක්වාලීම අරමුණු කරගනිමින් රාජ්‍ය හා අර්ධ රාජ්‍ය ආයතන  සමග එකඟතා ගිවිසුම්වලට එළඹීමට ශ්‍රී ලංකා පොලිසිය පියවර ගෙන තිබේ.
+Sri Lanka's police are partnering with various agencies like the Department of Motor Traffic, Telecommunication Regulatory Commission, CEA, and the Ministry of Fisheries to combat money laundering and terrorism. They aim to streamline information sharing for faster investigations.
 
-ඒ අනුව මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව, විදුලි සංදේශ නියාමන කොමිෂන් සභාව, මධ්‍යම පරිසර අධිකාරිය සහ ධීවර හා ජලජ සම්පත් අමාත්‍යාංශය සමග මේ වනවිටත් එකඟතා ගිවිසුම්වලට එළඹ ඇති බව වාර්තා විය.
+🟩
 
-ශ්‍රි ලංකා රේගුව සමග ද ඊයේ (10) දිනයේදී එකඟතා ගිවිසුමකට එළඹ තිබුණි.
+The Sri Lankan police have taken steps to reach agreements with government and semi-government agencies targeting the prevention of cash laundering and prevent terrorism.
 
-මුදල් විශුද්ධිකරණය හෝ ත්‍රස්තවාදයට මුදල් සැපයීම වැනි පොලීසිය මගින් සිදුකරන ලබන විමර්ශනවලට අවශ්‍ය තොරතුරු පහසුවෙන් හුවමාරු කරගැනීම සඳහා අනෝන්‍ය එකඟතාවයන්ට පැමිණීම මෙහි අරමුණය.
+Accordingly, the Department of Motor Traffic, Telecommunication Regulatory Commission, CEA and the Ministry of Fisheries and Aquatic Resources has already been enrolled.
 
-මෙමගින් දීර්ඝ කාලයක් තිස්සේ පොලිස් විමර්ශන සඳහා තොරතුරු ලබාගැනීමේ දී පැවති ප්‍රමාදවීම් අවම වන බවත් අදාළ විෂයයන් සම්බන්ධව මනා පලපුරුද්දක් ඇති නිලධාරී කණ්ඩායමක් සම්බන්ධ කරගැනීමෙන් එම කටයුතු කාර්යක්ෂමව ඉටුකර ගැනීමට හැකියාව පවතින බවත් පොලිස් දෙපාර්තමේන්තුව සඳහන් කළේය.
+An agreement was held yesterday (10) with Sri Lanka Customs.
+
+The objective of this purpose is to attend the interconnections to easily share the information required for investigations such as money laundering or terrorism.
+
+The police department stated that the delays have been reduced to the police investigations for a long time.
 
 ◼️
 
 [Data](articles/0268ba39.json)
+
+[Extended Data](ext_articles/0268ba39.ext.json)
+
+---
+
+### தன்னைத்தானே துப்பாக்கியால் சுட்டு பொலிஸ் சார்ஜென்ட் உயிர்மாய்ப்பு
+
+*2024-07-11 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/188177) · `ta`
+
+அநுராதபுரத்தில் பொலிஸ் சார்ஜென்ட்  ஒருவர் தன்னைத்தானே  துப்பாக்கியால் சுட்டு  உயிரை மாய்த்துக் கொண்டுள்ளதாக  பொலிஸார் தெரிவித்தனர்.
+
+அநுராதபுரத்தில் ருவன்வெலி மஹா சேயாவில் உள்ள பொலிஸ் நிலையத்தில் கடமையாற்றும் பொலிஸ் சார்ஜன்ட் ஒருவரே நேற்று புதன்கிழமை (10) இரவு அவருக்கு சேவைக்கு வழங்கப்பட்ட துப்பாக்கியால் தன்னைத்தானே சுட்டு உயிரைமாய்த்துக் கொண்டுள்ளார் என தெரிய வந்துள்ளது.
+
+நீங்கள் அல்லது உங்களுக்குத் தெரிந்த ஒருவர் நெருக்கடியில் இருந்தால் மற்றும் உதவி தேவைப்பட்டால், உடனடியாக இலவசமாக சேவை செய்ய அமைப்புகள் உள்ளன.
+
+◼️
+
+[Data](articles/983ff830.json)
+
+---
+
+### நுவரெலியாவில் அதிசொகுசு பஸ் விபத்து ; 42 பேர் வைத்தியசாலையில் அனுமதி
+
+*2024-07-11 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188178) · `ta`
+
+இந்த விபத்தானது இன்று வியாழக்கிழமை (11) அதிகாலை நுவரெலியா - கண்டி பிரதான வீதியில் லபுக்கலை பகுதியில்  இடம்பெற்றுள்ளது.
+
+அதிசொகுசு தனியார் பஸ் பாதையை விட்டு விலகி அருகில் இருந்த பாதுகாப்பு இரும்பு வேலியில் மோதி விபத்துக்குள்ளாகியுள்ளது. குறித்த விபத்து காரணமாக நுவரெலியா - கண்டி பிரதான வீதியில் போக்குவரத்து முற்றாக பாதிக்கப்பட்டது.
+
+நுவரெலியா கிரேன் ஹோட்டலில் தொழில் புரியும் ஊழியர்கள் சுற்றுலா சென்ற பஸ்ஸே விபத்துக்குள்ளாகியுள்ளது. விபத்தின் போது பஸ்ஸில் பயணம் செய்த சாரதி மற்றும் நடத்துனர் உட்பட 42 பேர் காயமடைந்துள்ளதாகவும் இவர்கள் அனைவரும் நுவரெலியா மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக வைத்தியசாலை வட்டாரங்கள் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/0194a584.json)
 
 ---
 
@@ -1306,6 +1382,20 @@ Speaking further, President Ranil Wickremesinghe further said,
 
 ---
 
+### 2022ට සාපේක්ෂව 2023දී රාජ්‍ය සේවක වැටුප් වියදම බිලියන 16.7කින් අඩුවෙලා
+
+*2024-07-10 19:48:17* · [`adalk`](https://www.ada.lk/breaking_news/2022ට-සාපේක්ෂව-2023දී-රාජ්‍ය-සේවක-වැටුප්-වියදම-බිලියන-16-7කින්-අඩුවෙලා/11-410731) · `si`
+
+රජයේ සේවකයන්ගේ වැටුප් හා වේතන වෙනුවෙන් දරනු ලැබූ වියදම 2022 වර්ෂයට සාපේක්ෂව 2023 වර්ෂයේ දී රුපියල් බිලියන 939.5 ක් දක්වා 1.7% ක ප්‍රතිශතයකින් අඩු වී ඇති බැව් මුදල් අමාත්‍යාංශය මඟින් 2023 වර්ෂයට අදාළව නිකුත් කර ඇති අය වැය තත්වය පිළිබඳ මහ බැංකු වාර්තාවේ සඳහන්වේ.
+
+2022 වර්ෂයේ රජයේ සේවකයන්ගේ වැටුප් හා වේතන ගෙවීම් සඳහා වැය කළ මුදල රු. බිලියන 956.2 කි. ඒ අනුව 2022 වර්ෂයට සාපේක්ෂව 2023 වර්ෂයේ දී රජයේ සේවකයන්ගේ පඩි නඩි ගෙවීම් සඳහා වැය කරනු ලබන මුදල රු. බිලියන 16.7කින් අඩු වී ඇත. කෙසේ වුවද විශ්‍රාම වැටුප් වියදම 2023 වර්ෂයේ දී රුපියල් බිලියන 372.4 ක් දක්වා 20.5% ක ප්‍රතිශතයකින් වැඩි වී ඇත.
+
+...
+
+[Data](articles/b4830cfc.json)
+
+---
+
 ### Bandula said of the OICs that did not go to work
 
 *2024-07-10 19:43:03* · [`adalk`](https://www.ada.lk/breaking_news/වැඩට-නොආපු-ස්ථානාධිපතිවරුන්-ගැන-බන්දුල-කී-දේ/11-410730) · `si`
@@ -1366,19 +1456,25 @@ Glen Phillips scored 58 runs, Angelo Perera 34, Rahmanullah Gurbas 27 and team c
 
 ---
 
-### කොකේන් මත්ද්‍රව්‍ය කිලෝ 355ක් අද විනාශ කරයි
+### 355 kg of cocaine destroys
 
 *2024-07-10 19:37:08* · [`adalk`](https://www.ada.lk/breaking_news/කොකේන්-මත්ද්‍රව්‍ය-කිලෝ-355ක්-අද-විනාශ-කරයි/11-410729) · `si`
 
-අධිකරණයේ නඩු කටයුතු අවසන් වූ කොකේන් මත්ද්‍රව්‍ය කිලෝ 355යි ග්‍රෑම් 881ක්අද(11දා) විනාශ කිරීමට කටයුතු කරන බව පොලිස් මූලස්ථානය සඳහන් කරයි.
+A significant amount of cocaine, totaling 355 kg, is set to be destroyed in Sri Lanka. The operation, involving 1181 grams and 881 grams of the drug, will take place in a specially equipped combustion oven in the Vanathavilluwa area. This event follows the collapse of Public Defense Minister Tiran Alles and IGP Deshanathawilluwa. The transportation and destruction process will be overseen by the Colombo Chief Magistrate's Court, ensuring safety measures are in place.
 
-මහජන ආරක්ෂක අමාත්‍ය ටිරන් අලස් මහතාගේ හා පොලිස්පති දේශබන්දු තෙන්කොන් මහතාගේ සහාභාගිත්වයෙන් පුත්තලම වනාතවිල්ලුව ප්‍රදේශයේ ස්ථාපිත කර තිබෙන දහන උඳුන හරහා අදාළ මත්ද්‍රව්‍ය විනාශ කිරීමට නියමිතව තිබේ.
+🟩
 
-විනාශ කිරීමට නියමිත කොකේන් මත්ද්‍රව්‍ය තොගය කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණයෙන් අද (11දා) උදෑසන පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශ නිලධාරීන්  භාරගෙනපොලිස් විශේෂකාර්යබළකා නිලධාරීන්ගේ ආරක්ෂාව යටතේ අදාළ ස්ථානය වෙත ප්‍රවාහනය කිරීමට සැලසුම් කර ඇත.
+Police Headquarters said that the court will be destroyed by the Court of Kocaine (1181 grams) and 881 grams (11).
+
+The drug is due to be destroyed through the combustion oven, which has been established in the Vanathavilluwa area in the Puttalam Own, the Collapse of Public Defense Minister Tiran Alles and IGP Deshanathawilluwa.
+
+Cocaine is scheduled to be transported by the Colombo Chief Magistrate's Court in the Colombo Chief Magistrate's Court today (11) under the safety of the officers.
 
 ◼️
 
 [Data](articles/8568552b.json)
+
+[Extended Data](ext_articles/8568552b.ext.json)
 
 ---
 
@@ -2165,109 +2261,5 @@ The 12-month bills fell 10 basis points to 10.21 percent, with all offered 35 bi
 [Data](articles/58dd6ec6.json)
 
 [Extended Data](ext_articles/58dd6ec6.ext.json)
-
----
-
-### Deputy Railway Chancellor Association
-
-*2024-07-10 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/188136) · `ta`
-
-The Deputy Railway Chancellor Association, along with the Vice Chancellor Association, supports a workplace initiative by the Railway Chancellor Association and Controllers. This support starts tonight and includes 172 railway stations nationwide.
-
-🟩
-
-The Vice Chancellor Association has also supported the workplace launched by the Railway Chancellor Association and the Railway Controllers.
-
-The support will be held from midnight today, covering 172 sub -railway stations across the country.
-
-◼️
-
-[Data](articles/bd8e154c.json)
-
-[Extended Data](ext_articles/bd8e154c.ext.json)
-
----
-
-### Cabinet approves new action plan to combat gender-based harassment
-
-*2024-07-10 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100424/cabinet-approves-new-action-plan-to-combat-gender-based-harassment) · `en`
-
-The Cabinet of Ministers has green-lighted the second multi-sectoral national action plan (2024-2028) for the elimination of sexual and gender-based harassments in Sri Lanka.
-
-Joining the Cabinet press conference held today (10), Cabinet Spokesman Bandula Gunawardane said that since policy involvement is necessary to ensure the rights of women, men, children and all diverse groups to live in a fair and social environment without any violence, the first national action plan to address the harassments based on sexual and gender sociality was implemented with an integrated approach during the period 2012-2020.
-
-He also mentioned the necessity of a new national action plan has been identified in a follow up and assessment process made to find out the impact of the previous action plan.
-
-...
-
-[Data](articles/22099b28.json)
-
-[Extended Data](ext_articles/22099b28.ext.json)
-
----
-
-### Presidential election: resolution taken at party leader meeting!
-
-*2024-07-10 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/188137) · `ta`
-
-Party leaders decided to schedule an adjournment debate on Thursday to discuss the urgency of conducting the presidential election promptly.
-
-🟩
-
-A decision has been taken at the party leader's meeting to hold the adjournment debate on Thursday (11) on the need to hold the presidential election in a timely manner.
-
-◼️
-
-[Data](articles/07eb63fb.json)
-
-[Extended Data](ext_articles/07eb63fb.ext.json)
-
----
-
-### "I felt the value when setting fire to the house"
-
-*2024-07-10 16:24:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டுக்கு-தீ-வைத்தபோது-பெறுமதியை-உணர்ந்தேன்/175-340165) · `ta`
-
-President Ranil Wickremesinghe highlighted the importance of housing security during a ceremony where he handed over housing rights to residents of apartments in Colombo. He mentioned the launch of a program aimed at granting full property rights to 2.55 million people, starting with 50,000 houses. This initiative is part of a broader effort to address housing needs, especially for low-income families, through the National Housing Development Authority.
-
-🟩
-
-President Ranil Wickremesinghe said that when his home was set on fire two years ago, the value of a house was severely felt and that it was implementing a program of providing the full rights of the houses to 2550,000 people living in an apartment in Colombo.
-
-The initial ceremony was held at the Presidential Secretariat to provide 50,000 houses for the first time of the program to provide the full rights of the houses for families who live in apartments in Colombo. The President said this while addressing the event.
-
-The Rights of 130 houses in 31 apartments in the Colombo district were granted and the President handed over the housing rights to some.
-
-According to President Ranil Wickremesinghe, the 2024 budget was implemented in the 2024 budget and a scheme of providing the full rights of the houses for less than two and a half million families living in apartments.
-
-...
-
-[Data](articles/60067e0e.json)
-
-[Extended Data](ext_articles/60067e0e.ext.json)
-
----
-
-### "I felt the value when setting fire to the house"
-
-*2024-07-10 16:24:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/வீட்டுக்கு-தீ-வைத்தபோது-பெறுமதியை-உணர்ந்தேன்/150-340165) · `ta`
-
-President Ranil Wickremesinghe highlighted the importance of homeownership during a ceremony where he handed over housing rights to residents of apartments in Colombo. He mentioned the launch of a program aimed at granting full property rights to 2.55 million people, starting with 50,000 houses. This initiative is part of the 2024 budget and aims to support low-income families living in apartments. The National Housing Development Authority will facilitate this by providing houses to beneficiaries who meet certain criteria, including those paying rent below a specified amount. Through the Urumaya Project, the government also plans to grant free land rights to 2 million individuals, emphasizing its commitment to enhancing land and home ownership across the nation.
-
-🟩
-
-President Ranil Wickremesinghe said that when his home was set on fire two years ago, the value of a house was severely felt and that it was implementing a program of providing the full rights of the houses to 2550,000 people living in an apartment in Colombo.
-
-The initial ceremony was held at the Presidential Secretariat to provide 50,000 houses for the first time of the program to provide the full rights of the houses for families who live in apartments in Colombo. The President said this while addressing the event.
-
-The Rights of 130 houses in 31 apartments in the Colombo district were granted and the President handed over the housing rights to some.
-
-According to President Ranil Wickremesinghe, the 2024 budget was implemented in the 2024 budget and a scheme of providing the full rights of the houses for less than two and a half million families living in apartments.
-
-...
-
-[Data](articles/8cd8b557.json)
-
-[Extended Data](ext_articles/8cd8b557.ext.json)
 
 ---

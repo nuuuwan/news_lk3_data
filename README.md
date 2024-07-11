@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 11:05:59**
+As of **2024-07-11 11:19:54**
 
 ## Newspaper Stats
 
-*Scraped **34,732** Articles*
+*Scraped **34,736** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,97 @@ islandlk | 1,957
 economynextcom | 2,049
 dailyftlk | 2,183
 adalk | 3,132
-adaderanalk | 3,990
+adaderanalk | 3,992
 tamilmirrorlk | 4,149
 dailymirrorlk | 4,733
 virakesarilk | 5,427
-adaderanasinhalalk | 5,774
+adaderanasinhalalk | 5,776
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,731 (100.0%) of 34,732 articles have been extended.
+34,732 (100.0%) of 34,736 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### කොළඹ - අවිස්සාවේල්ල මාර්ගයට ගසක අත්තක් කඩා වැටෙයි
+
+*2024-07-11 11:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198696) · `si`
+
+කොළඹ  අවිස්සාවේල්ල ලෝ -ලෙවල් මාර්ගයට රණාල සුදවිල ප්‍රදේශයේ දී බෝ ගසක අත්තක් කඩාවැටීම හේතුවෙන් මාර්ගයේ ගමනාගමන කටයුතු සඳහා බාධා එල්ල වී ඇතැයි නවගමුව පොලීසිය පවසයි.
+
+බෝ අත්ත කඩා වැටීම නිසාවෙන් ප්‍රදේශයේ විදුලි කණු ගණනාවකට හානි සිදුව ඇති අතර මේ හේතුවෙන් එම ප්‍රදේශයට විදුලිය විසන්ධි වී ඇති බවද පොලීසිය පැවසීය.
+
+මේ හේතුවෙන් එම මාර්ගය වෑවිල හන්දියෙන් සහ සියඹලා ගස් හන්දියෙන් තාවකාලික බර වාහන යාම නවතා දැමීමටද පොලීසිය කටයුතු කර තිබුණි.
+
+◼️
+
+[Data](articles/4996b17c.json)
+
+---
+
+### Influenza symptoms on the rise among children, health officials warn
+
+*2024-07-11 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100438/influenza-symptoms-on-the-rise-among-children-health-officials-warn) · `en`
+
+The symptoms of the Influenza viral flu being reported among children in Sri Lanka are on the rise, according to the Paediatrician of Lady Ridgeway Hospital for Children Dr. Deepal Perera.
+
+Furthermore, Dr. Perera advised to seek medical advice immediately if such symptoms persist.
+
+Influenza (the flu) is an acute respiratory infection caused by influenza viruses. It is common in all parts of the world. Most people recover without treatment, according to the World Health Organisation (WHO).
+
+As per the WHO, Influenza spreads easily between people when they cough or sneeze. Symptoms of influenza include acute onset of fever, cough, sore throat, body aches and fatigue.
+
+◼️
+
+[Data](articles/c76ca82c.json)
+
+---
+
+### වනඅලි පහරදීමක් යැයි පවසා සැඟවීමට තැත් කළ ඝාතනය
+
+*2024-07-11 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198695) · `si`
+
+මහියංගනය පොලිස් වසමේ කිරලමුල්ල ප්‍රදේශයේ වනඅලියෙකු පහරදිමෙන් පුද්ගලයෙකු මිය ගොස් ඇති බවට පොලීසියට ජූලි (07) වනදා ලැබුණු පණිවුඩයක් මත විමර්ශන ආරම්භ කර තිබුණි.
+
+පසුව අනාවරණය වී ඇත්තේ එය වනඅලි ප්‍රහාරයකින් සිදු වූ මරණයක් නොව එය මනුෂ්‍ය ඝාතනයක් බවත්ය.
+
+සිද්ධිය සිදු වූ දින රාත්‍රී කාලයේදී මියගිය පුද්ගලයා නිවසට නොපැමිණීම නිසා ඔහුගේ මව ඒ සම්බන්ධයෙන් සොයා බලා ඇති අතර ඔහු වනඅලියෙකු පහරදී තුවාල ලබා ප්‍රදේශයේ පිහිටි දේවාලයකට ගෙනවිත් ඇති බවට ආරංචි වී තිබුණි.
+
+පසුව මරණකරුගේ මව ත්‍රීරෝද රථයකින් සිය පුතු නිවසට ගෙන්වා ගෙන ඇති අතර එහිදී මරණකරු පවසා ඇත්තේ තමාට වනඅලියෙකු පහර නොදුන් බවය.
+
+ඔහුව රෝහල්ගත කිරීම සඳහා 1990 ගිලන් රථ සේවයට දැනුම් දී ඇති අතර එහි නිලධාරීන් පැමිණ ඔහුව පරීක්ෂා කර එම පුද්ගලයා මිය ගොස් ඇති බව නිවැසියන්ට දැනුම් දී තිබුණි.
+
+පුද්ගලික ආරවුලක් හේතුවෙන් පිරිසක් විසින් මරණකරුට පහරදීමක් සිදු කර පසුව ප්‍රදේශයේ දේවාලය වෙත රැගෙනවිත් ඇති බවට විමර්ශනවලදී අනාවරණය කර ගැනීමට හැකිවූ බව පොලීසිය පැවසීය.
+
+සිද්ධිය සම්බන්ධයෙන් සැකකරුවන් සිව්දෙනෙකු ඊයේ (10) දින අත්අඩංගුවට ගෙන තිබේ.
+
+...
+
+[Data](articles/0869d9a5.json)
+
+---
+
+### President inaugurates Kompanna Veediya flyover
+
+*2024-07-11 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100437/president-inaugurates-kompanna-veediya-flyover-) · `en`
+
+President Ranil Wickremesinghe inaugurated the flyover connecting Kompanna Veediya and Justice Akbar Mawatha, a short while ago in the presence of the Ministry of Transport and Highways, the President’s Media Division (PMD) said.
+
+The rest of the construction work of this project is planned to be completed by the month of September, and the estimated amount for the entire project is Rs. 5,278,081,272.43, the PMD reported.
+
+It has been observed that nearly 3 hours of time is wasted daily due to the railway crossing located in Kompanna Veediya area, which is a very busy commercial city with various institutions including government offices, hospitals, religious places, restaurants and movie theatres.
+
+In order to avoid the delay, the construction work of this project, which is implemented by the Road Development Authority, is being carried out by Maga Engineering Company, the PMD said in a statement.
+
+◼️
+
+[Data](articles/08b076ef.json)
+
+---
 
 ### A powerful earthquake in the Philippines
 
@@ -80,23 +156,29 @@ However, a top official who has said that the wind power generation is more like
 
 ---
 
-### නුවරඑලියේ  බස් රථ අනතුරකින් 40ක් රෝහලේ
+### 40 hospitalized following bus accident in Nuwara Eliya
 
 *2024-07-11 10:29:32* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑලියේ--බස්-රථ-අනතුරකින්-40ක්-රෝහලේ/11-410737) · `si`
 
-නුවරඑලිය සිට ත්‍රිකුණාමලය දක්වා සංචාරකයන් පිරිසක් රැගෙන ධාවනය කල පෞද්ගලික බස් රථයක් නුවරඑලිය ලබුකැලේ ටොප්පාස් ප්‍රදේශයේදි අනතුරට පත්විමෙන් බස් රථයේ සිටි මගීන් 40ක් පමණ තුවාල ලබා නුවරඑලිය දිස්ත්‍රික් මහ රෝහල වෙත ඇතුලත් කර ඇති බව නුවරඑලිය ජෙෂ්ඨ පොලිස් අධිකාරි අනුරුද්ධ හක්මන මහතා පවසයි.
+A bus crash near Nuwara Eliya resulted in 40 hospitalizations. The incident involved a bus traveling from Nuwara Eliya to Trincomalee, carrying employees of the Grand Hotel. The accident happened early morning due to sudden braking, leading to injuries, including broken bones. Local residents and police assisted in getting the injured to hospitals. Further investigation is being conducted by the Puttalam Police.
 
-නුවරඑලිය ප්‍රදේශයේ පිහිටි ප්‍රධාන සංචාරක හෝටලයක් වන ග්‍රැන්ඩ් හෝටලයේ සේවය කරන සේවක සේවිකාවන් සංචාරයක් සදහා නුවරඑලිය සිට ත්‍රිකුණාමලය දක්වා ප්‍රවාහනය කරන අතරතුර අද (11) දින අලුයම 5 ට පමණ මෙම අනතුර සිදු වි ඇති බවයි පොලිසිය පවසයි.
+🟩
 
-ධාවනය වෙමින් තිබු බස් රථයේ තිරිංග හදිසියේ ක්‍රියාවිරහිත විම නිසා බස් රථය වංගුවක් සහිත ප්‍රදේශයේදි ඉහල මාර්ගයේ සිට පහල මාර්ගයට පෙරලි මෙම අනතුර සිදු වි ඇත.
+The Nuwara Eliya District Superintendent of Police Anuruddha Hakmanayake says that a private bus has been operating from Nuwara Eliya to Trincomalee.
 
-අනතුරෙන් තුවාල ලැබුවන් ප්‍රදේශවාසින් සහ නුවරඑලිය පොලිසියේ නිලධාරින් එක්ව රෝහල් ගත කර ඇති අතර, තුවාලකරුවන්ගෙන් කිහිපදෙනෙකුගේ අස්ථි බිදි ඇති බවද රෝහලේ සේවකයෙකු පැවසිය.
+The accident occurred at around 5 am, while transporting employee employees in the Grand Hotel, a major tourist hotel in Nuwara Eliya.
 
-බස් රථය අනතුරට පත්වන අවස්තාවේ බස් රථයේ රියදුරා සහ සහයකයා ඇතුළු 41 දෙනෙකු ගමන් කර ඇති බවත්, අනතුර පිලිබදව නුවරඑලිය පොලිසිය පරික්ෂණ පවත්වයි.
+The accident had taken place in the highway from the high road to the bus, as the bus brake was driving suddenly.
+
+The injured were hospitalized by residents and the Nuwara Eliya police were hospitalized and several of the injured were the bones.
+
+The Puttalam driver and the assistant of the bus, which is in danger of the accident and the Puttalam Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/fa6667a5.json)
+
+[Extended Data](ext_articles/fa6667a5.ext.json)
 
 ---
 
@@ -2195,99 +2277,5 @@ During the investigations carried out thus far, it has been revealed that the ow
 [Data](articles/b6ac8c6b.json)
 
 [Extended Data](ext_articles/b6ac8c6b.ext.json)
-
----
-
-### The first look of 'Jama' released by Vijay Sethupathi - Suri
-
-*2024-07-10 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/188156) · `ta`
-
-"Vijay Sethupathi and Suri congratulate debutant Barry Ilavarasan on his lead role in 'Jama'. Directed by Bari Ilavalakan, it features a cast including Ammu Abirami, Chetan, and others. Composed by Gnanani Ilayaraja, the film focuses on streetcar artists and has generated buzz with its engaging Burst Look, topping internet lists."
-
-🟩
-
-Burst Look has been released in the movie 'Jama' which plays the lead role as the debutant actor Barry Ilavarakan. Vijay Sethupathi and actor Suri have posted this on their web page and congratulated the film crew.
-
-The film 'Jama', directed by debutant director Bari Ilavalakan, starred Barry Ilavalakan, Ammu Abirami, Chetan, Sri Krishna Dayal, KV N Manimekalai, 'Kala' Kumar, Vasant Marimuthu, Siva Maran.
-
-The film has been composed by Gnanani Ilayaraja. The film, which is ready for the life of the streetcar artists, has produced the producer Sai Devanand on behalf of Learn & Tech Production Company.
-
-The film's Burst Look has been released soon. The expectation of the film has increased as the story of the streetcarcists on the exclusive video released, and that the musician's music is the business address of the film.
-
-Also, 'Jama' tops the list of Internet list as the Burst Look has been very enjoyable by Internet users.
-
-◼️
-
-[Data](articles/7c3750d5.json)
-
-[Extended Data](ext_articles/7c3750d5.ext.json)
-
----
-
-### First Look release of 'Bhairavaana Gone Badha' starring Kannada Super Star Shiva Rajkumar
-
-*2024-07-10 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/188150) · `ta`
-
-"Shiva Rajkumar stars in 'Bhairavaana Gone Badha', a war-themed film set to offer a unique cinematic experience. Following his successful roles in 'Jailer' and 'Captain Miller', this project marks another milestone for the Kannada superstar."
-
-🟩
-
-Bhairavana Kone Badha, the hero of the Kannada film industry, is the hero of the Kannada film industry in Tamil fans with the success of 'Jailer' starring Super Star Rajinikanth and Actor Dhanush starring 'Captain Miller'.
-
-Director Hemant M. Shiva Rajkumar is playing the lead role in Rao's 'Bhairavaana Gone Badha'.
-
-Details of the actors and other technicians are expected to be officially released soon.
-
-The film crew has announced the film's first look for the upcoming film.. The appearance of Shiva Rajkumar - a few centuries ago and that the film is a work of war, and the film crew has made it clear that the film will give fans a new experience.
-
-◼️
-
-[Data](articles/460377f9.json)
-
-[Extended Data](ext_articles/460377f9.ext.json)
-
----
-
-### President hails non-striking govt. employees, assures special increment
-
-*2024-07-10 17:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100426/president-hails-non-striking-govt-employees-assures-special-increment) · `en`
-
-President Ranil Wickremesinghe has expressed his gratitude to all non-executive government employees who reported for duty on July 8 and 9, despite the trade union actions.
-
-Posting on ‘X’ (formerly Twitter), Wickremesinghe stated that their commitment during these challenging economic times “exemplifies true patriotism and integrity”.
-
-Furthermore, the Head of the State highlighted that the special salary increment for these government employees, approved by the Cabinet of Ministers, comes as a mark of the government’s gratitude towards them.
-
-“This increment recognizes your efforts to strengthen the country and support its people when Sri Lanka needs you the most”, he added.
-
-◼️
-
-[Data](articles/aaf7b6e7.json)
-
-[Extended Data](ext_articles/aaf7b6e7.ext.json)
-
----
-
-### Wasantha murder suspects remanded
-
-*2024-07-10 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198679) · `si`
-
-Seven suspects, including a club owner, arrested for the murder of Wasantha at Tatu Center. They've been remanded until the 22nd after appearing in court. The incident occurred on July 08, resulting in the death of a businessman and injuries to several others.
-
-🟩
-
-The seven suspects including the owner of the Tatu Center, who was arrested in connection with the Club Wasantha alias, have been arrested.
-
-The suspects were produced before the Kaduwela Magistrate's Court and remanded until the 22nd.
-
-The businessman, Sorchandra, or Club was shot dead at a Tatu Center in Athurugiriya on July 08.
-
-The famous singer kin. Nayana Vasasula, the husband of Sujeewa, died and K.Sishewa, Club Wasantha's wife and a man were injured and injured.
-
-◼️
-
-[Data](articles/3dd1a86e.json)
-
-[Extended Data](ext_articles/3dd1a86e.ext.json)
 
 ---

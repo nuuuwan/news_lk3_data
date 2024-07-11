@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 13:54:46**
+As of **2024-07-11 14:06:36**
 
 ## Newspaper Stats
 
-*Scraped **34,758** Articles*
+*Scraped **34,760** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adaderanalk | 3,995
 tamilmirrorlk | 4,156
 dailymirrorlk | 4,733
 virakesarilk | 5,427
-adaderanasinhalalk | 5,781
+adaderanasinhalalk | 5,783
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,754 (100.0%) of 34,758 articles have been extended.
+34,754 (100.0%) of 34,760 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### ඩයනා ට එරෙහිව CIDයෙන් චෝදනා පත්‍රයක්
+
+*2024-07-11 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198703) · `si`
+
+ශ්‍රී ලාංකික පුරවැසිභාවය නොමැතිව මෙරට විදේශ ගමන් බලපත්‍රයක් ලබාගත්තේ යැයි කියන සිද්ධිය සම්බන්ධයෙන් හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මියට එරෙහිව චෝදනා කියවාදීම අගෝස්තු මස 01 වනදා සිදු කරන බව කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියෝග කළේය.
+
+ඒ ඊට අදාළ පැමිණිල්ල කොළඹ අතිරේක මහෙස්ත්‍රාත් හර්ෂණ කැකුණවල මහතා ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේ දීය.
+
+එහිදී අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුව විසින් සැකකාර ඩයනා ගමගේ මහත්මියට එරෙහිව චෝදනා පත්‍රයක් අධිකරණය හමුවේ ඉදිරිපත් කළේය.
+
+ඒ අනුව අදාළ චෝදනා පත්‍රය කියවාදීම සඳහා අගෝස්තු මස 01 වනදා කොළඹ ප්‍රධාන මහෙස්ත්‍රාත්වරයා ඉදිරියේ සිදුකිරීමටද අතිරේක මහෙස්ත්‍රාත්වරයා විසින් නියෝග කරනු ලැබීය.
+
+◼️
+
+[Data](articles/866ab91b.json)
+
+---
+
+### කැරම් බෝඩ් නඩුව ගැන අධිකරණය දුන් නියෝගය
+
+*2024-07-11 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198702) · `si`
+
+රජයට රුපියල් මිලියන 53 කට ආසන්න පාඩුවක් සිදු කළේ යැයි චෝදනා ලබා සිටින හිටපු ක්‍රීඩා අමාත්‍ය මහින්දානන්ද අලුත්ගමගේ සහ වත්මන් වෙළෙඳ අමාත්‍ය නලින් ප්‍රනාන්දු යන මහත්වරුන්ට එරෙහි නඩුවේ විත්තිවාචිකය කැඳවීමට කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල තීන්දු කළේය.
+
+2015 වසරේ පැවති ජනාධිපතිවරණය සමයේ  ස.තො.ස ආයතනය මගින් කැරම් බෝඩ් හා දාම් ලෑලි මිලදීගෙන ඒවා ක්‍රීඩා සංගම් අතර බෙදාහැරීම තුළින්
+
+මෙම නඩුවේ විත්තිවාචිකය කැඳවීමකින් තොරව විත්තිකරුවන් නිදහස් කරන්නේද? නැත්නම් විත්තිවාචිකය කැඳවනවාද යන නියෝගය ප්‍රකාශ කරමින් අමල් රණරාජා මහතා ප්‍රමුඛ ත්‍රිපුද්ගල විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය ප්‍රකාශයට පත් කළේය.
+
+ඉන් අනතුරුව විත්තිවාචිකය ඉදිරිපත් කිරීම අගෝස්තු මස 23 වනදා සිදුකරන ලෙසත් විනිසුරු මඩුල්ල විත්ති පාර්ශවයට නියෝග කර තිබේ.
+
+◼️
+
+[Data](articles/5a3b5971.json)
+
+---
 
 ### Sri Lanka Police strengthens measures against money laundering and terrorism financing
 
@@ -2231,53 +2267,5 @@ Speaking further, President Ranil Wickremesinghe further said,
 [Data](articles/fa52b2ff.json)
 
 [Extended Data](ext_articles/fa52b2ff.ext.json)
-
----
-
-### State employee wage costs fell 16.7 billion in 2023 compared to 2022
-
-*2024-07-10 19:48:17* · [`adalk`](https://www.ada.lk/breaking_news/2022ට-සාපේක්ෂව-2023දී-රාජ්‍ය-සේවක-වැටුප්-වියදම-බිලියන-16-7කින්-අඩුවෙලා/11-410731) · `si`
-
-In 2023, government employee wage costs decreased by 16.7 billion rupees compared to 2022, reaching 956.2 billion rupees. However, pension costs rose by 20.5%, totaling 372.5 billion rupees, largely due to an increase in pensioners. This financial shift highlights the need for better human resource management strategies within the public sector.
-
-🟩
-
-The Ministry of Finance stated that the expenditure incurred by the Government's salaries and wages of public servants in 2023 compared to Rs.
-
-2022 Amount spent on salaries and salaries and salaries' payments. 956.2 billion. Accordingly, the payroll of government employees in 2023 compared to 2022 years of Rs.. 16.7 billion. However, the cost of pensioner has increased from 20.5% to Rs. 372.5 billion in 2023.
-
-The government spent Rs. 309.1 billion to pay pensions in the year 2022. The number of pensioners is mainly due to the increase in the number of pensioners. The report states that maintaining the public sector under limited financial space is badly affected the future.. The report states that the need for rooting for effective human resource management strategies has emerged.
-
-◼️
-
-[Data](articles/b4830cfc.json)
-
-[Extended Data](ext_articles/b4830cfc.ext.json)
-
----
-
-### Bandula said of the OICs that did not go to work
-
-*2024-07-10 19:43:03* · [`adalk`](https://www.ada.lk/breaking_news/වැඩට-නොආපු-ස්ථානාධිපතිවරුන්-ගැන-බන්දුල-කී-දේ/11-410730) · `si`
-
-Bandula Gunawardena, Minister of Motor and Highways, discussed issues related to the railway strike and the absence of certain officials (OICs). He mentioned the historical boycotts by railway engine drivers and the challenges faced in promoting them due to public service commission regulations. Despite efforts to address promotions and handle potential extremism, the situation escalated, leading to the declaration of railways as essential services. The minister emphasized the importance of maintaining essential services and warned against undermining national security.
-
-🟩
-
-The OIC of the railway strike was not reported today (10) at the time of the 12th of this afternoon, said Bandula Gunawardena, Minister of Motor and Highways.
-
-He said that this step was taken on charges of using the use of the terrorism of all the terrorism.
-
-The Minister Bandula Gunawardena said:
-
-"Railway engine drivers always boycarked every 10 years. Modify it to be able to get the permission of the Public Service Commission. Cabinet approval cannot be done. When the engineers stopped the public service commissions, I was close to the promotion to 5 out of five years.
-
-Then the OICs came and said that this would not be possible to promote 5 out of five years like engine drivers. I said it's not something that could be hit by one pens. I put a cabinet paper for it and to promote them to 5 out of five years. We welled the same time to promote Station Masks at 5 out of five years to the Public Service Commission. Yesterday, our ministry secretary had identified.
-
-...
-
-[Data](articles/6ee7d32a.json)
-
-[Extended Data](ext_articles/6ee7d32a.ext.json)
 
 ---

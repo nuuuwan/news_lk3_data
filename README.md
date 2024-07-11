@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 15:35:11**
+As of **2024-07-11 15:53:57**
 
 ## Newspaper Stats
 
-*Scraped **34,778** Articles*
+*Scraped **34,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,957
 economynextcom | 2,055
 dailyftlk | 2,183
 adalk | 3,135
-adaderanalk | 3,996
+adaderanalk | 3,998
 tamilmirrorlk | 4,161
 dailymirrorlk | 4,733
 virakesarilk | 5,434
@@ -26,11 +26,43 @@ adaderanasinhalalk | 5,785
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,778 (100.0%) of 34,778 articles have been extended.
+34,778 (100.0%) of 34,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### Railway Station Masters’ Union warns govt. against oppression
+
+*2024-07-11 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100445/railway-station-masters-union-warns-govt-against-oppression) · `en`
+
+The Railway Station Masters’ Union stresses that if the government tries to control the trade unions through oppression, the trade unions of the entire railway service will never hesitate to join together and fight.
+
+President of the union Sumedha Somaratne said that the railway employees will not carry out any act of sabotage under any circumstances and that he believes their demands will be resolved promptly.
+
+He also mentioned that the executive council of their trade union will meet this afternoon (11) and decide on the future course of action, if their demands are not met.
+
+◼️
+
+[Data](articles/3cefaefc.json)
+
+---
+
+### Sri Lanka opposes India’s bid to explore cobalt from undersea mountain in Indian Ocean - report
+
+*2024-07-11 15:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100444/sri-lanka-opposes-indias-bid-to-explore-cobalt-from-undersea-mountain-in-indian-ocean-report) · `en`
+
+A fresh maritime dispute between New Delhi and Colombo seems to be brewing with Sri Lanka objecting to India’s plea to the International Seabed Authority (ISA) based at Kingston in Jamaica for rights to explore cobalt-rich ferromanganese crusts in Afanasy Nikitin Seamount in the Indian Ocean.
+
+Colombo has argued that the area where India wants to explore cobalt-rich ferromanganese crusts is entirely within the extended continental shelf claim of Sri Lanka.
+
+The island nation’s government has urged the ISA to refrain from accepting New Delhi’s plea for exploration rights in Afanasy Nikitin Seamount till the United Nations Commission on the Limits of the Continental Shelf (UN-CLCS) decides on its continental shelf claim. The ISA is “following applicable procedures in this regard and the matter is ongoing”, a spokesperson of the Ministry of Foreign Affairs of the Sri Lankan government said.
+
+...
+
+[Data](articles/171e8bed.json)
+
+---
 
 ### Today's currency exchange rate
 
@@ -2291,43 +2323,5 @@ The Maldives were leading 13 - 12 in the first match.
 [Data](articles/f8281fa0.json)
 
 [Extended Data](ext_articles/f8281fa0.ext.json)
-
----
-
-### Ninety-two years with the people: Taxes for better future
-
-*2024-07-10 23:34:12* · [`dailyftlk`](https://www.ft.lk/columns/Ninety-two-years-with-the-people-Taxes-for-better-future/4-764101) · `en`
-
-The International Monetary Fund (IMF) announced that its Executive Board approved a $ 3 billion financing for Sri Lanka for the next four years while approving an extended fund facility. The IMF also stressed the increasing tax revenue in next decades. Therefore collecting more revenue and strengthening tax administration is the utmost objective of our country. In order to achieve high resources, the tax administration needs public confidence in their duties. The public also needs a fair, equitable, transparent and accountable tax system that aims at implementing good tax principles
-
-There are two certain things with regard to nature in the world. They are Death and Tax. Taxes are the most important source of revenue of the modern Government. It plays a vital role in fulfilling peoples’ aspirations and their rights. Taxation is not a new concept in the modern world. It is as old as the first attempt of mankind to organise a civilised society.
-
-...
-
-[Data](articles/de67dc0a.json)
-
-[Extended Data](ext_articles/de67dc0a.ext.json)
-
----
-
-### Athurukiriya incident - 7 people explanation
-
-*2024-07-10 23:28:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துருகிரிய-சம்பவம்-7-பேருக்கு-விளக்கமறியல்/175-340186) · `ta`
-
-Seven suspects, aged 24 to 37 from various areas, were arrested for the murder of Surendra Vasantha Perera, also known as Club Vasantha, at Athurugiriya. They were remanded until the 22nd of this month and appeared before the Kaduwela Magistrate's Court.
-
-🟩
-
-Seven suspects arrested in connection with the Athurugiriya shooting incident have been remanded until the 22nd of this month.
-
-Seven suspects arrested in connection with the murder of Surendra Vasantha Perera alias Club Vasantha, Club Vasantha at the Athurugiriya junction, were produced before the Kaduwela Magistrate's Court this morning.
-
-The suspects are between the ages of 24 to 37, aged 24 to 37 in Ahungalla, Balapitiya, Ganemulla, Ambalangoda and Beliyathara.. Remble
-
-◼️
-
-[Data](articles/fc161372.json)
-
-[Extended Data](ext_articles/fc161372.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 01:53:58**
+As of **2024-07-12 02:04:53**
 
 ## Newspaper Stats
 
-*Scraped **34,868** Articles*
+*Scraped **34,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,957
 economynextcom | 2,068
 dailyftlk | 2,191
-adalk | 3,145
+adalk | 3,146
 adaderanalk | 4,006
 tamilmirrorlk | 4,168
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,858 (100.0%) of 34,868 articles have been extended.
+34,858 (100.0%) of 34,869 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -181,6 +181,20 @@ Thisal Samarasinghe explored the impact of generative AI on modern creativity, u
 ...
 
 [Data](articles/9fa290ed.json)
+
+---
+
+### මුස්ලිම් පල්ලිවල පරිපාලන නිලධාරීන්ට මැලේසියාවේදි සති දෙකක පුහුණුවක්
+
+*2024-07-11 23:23:58* · [`adalk`](https://www.ada.lk/breaking_news/මුස්ලිම්-පල්ලිවල-පරිපාලන-නිලධාරීන්ට-මැලේසියාවේදි-සති-දෙකක-පුහුණුවක්/11-410751) · `si`
+
+ශ්‍රී ලංකාවේ මුස්ලිම් පල්ලිවල පරිපාලන නිලධාරීන්ට මැලේසියාවේ දී මුස්ලිම් පල්ලි පරිපාලන කටයුතු පිළිබඳව පුහුණු සැසියක් (two week) පැවැත්වීමට නියමිත අතර, ඒ සඳහා දිවයිනෙන් (15 July) පිටත්වීමට නියමිත මුස්ලිම් පල්ලිවල පරිපාලන නිලධාරීන් සහ ආගමික නායකයින් කණ්ඩායම අද (11) දින ජනාධිපති කාර්‍යාලයේ දී ජනපති කාර්ය මණ්ඩලය ප්‍රධානී සාගල රත්නායක මහතා හමුවිය.
+
+සාගල රත්නායක මහතාගේ ඉල්ලීමක් මත මෙම වැඩසටහන ශ්‍රී ලංකාවට ලබා ගත හැකි වූ අතර ඒ පිළිබඳව මෙහිදී මුස්ලිම් ආගමික නායකයින් සාගල රත්නායක මහතාට සිය ස්තුතිය පළ කර තිබේ.
+
+◼️
+
+[Data](articles/683b9342.json)
 
 ---
 
@@ -2257,39 +2271,5 @@ The primary objective of these agreements is to establish a streamlined process 
 [Data](articles/49007f5f.json)
 
 [Extended Data](ext_articles/49007f5f.ext.json)
-
----
-
-### Advertisement to the Tatuto Shop owner
-
-*2024-07-11 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198701) · `si`
-
-Tatuto Shop owner Surestra Wasantha Perera, also known as Club Wasantha, is implicated in a murder case. He and seven others were arrested and interrogated, then remanded until July 22. The incident occurred at a Tatu Center in Athurugiriya, where Club Wasantha was killed, along with Nayana Warzuli, the husband of famous singer KVA. Several others, including Club Wasantha's wife and relatives, were injured. The funeral will be held on Saturday, with the body displayed for public viewing tomorrow.
-
-🟩
-
-Surestra Wasantha Perera alias Club Wasantha alias, the owner of the Tatu Center for the murder of Club was asked to make a secret statement to the magistrate.
-
-He and the seven suspects were produced before the Kaduwela Magistrate yesterday (10).
-
-The Magistrate stated that he was once again and to make the request.
-
-Meanwhile, the suspects were detained in 48 hours and questioned.
-
-However, the court ordered to be remanded until July 22.
-
-The Court ordered the prison officials to provide special security to the suspects as the criminal of the criminal in the prison.
-
-Sirithndra Wasantha Perera, or Club was shot dead at a Tatu Center on July 08 at the July 08 at Athurugiriya.
-
-The famous singer KVA's husband, Nayana Warzuli, died and K.. A wife and his relative of the owner's wife and his relatives were injured in Sujeewa, Club Wasantha's wife.
-
-The wife of the Club Wasantha's wife and the owner of the Tattond Center is being treated at Kalubowila Hospital.
-
-...
-
-[Data](articles/3d142a65.json)
-
-[Extended Data](ext_articles/3d142a65.ext.json)
 
 ---

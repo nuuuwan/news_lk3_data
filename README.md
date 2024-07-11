@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 18:54:27**
+As of **2024-07-11 19:04:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,793
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,808 (100.0%) of 34,809 articles have been extended.
+34,809 (100.0%) of 34,809 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Hasaranga said it is in the best interest of Sri Lanka Cricket that he decided t
 ◼️
 
 [Data](articles/d8969054.json)
+
+[Extended Data](ext_articles/d8969054.ext.json)
 
 ---
 

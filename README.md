@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 12:35:08**
+As of **2024-07-11 12:53:49**
 
 ## Newspaper Stats
 
@@ -26,67 +26,91 @@ adaderanasinhalalk | 5,779
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,745 (100.0%) of 34,751 articles have been extended.
+34,751 (100.0%) of 34,751 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### පාරින්ද රණසිංහ ට ව්‍යවස්ථාදායක සභාවේ අනුමැතිය
+### Approval of the Leadership Council to the Leadership Council
 
 *2024-07-11 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198699) · `si`
 
-නීතිපතිවරයා ලෙස ඡ්‍යේෂ්ඨ අතිරේක සොලිසිටර් ජනරාල් පාරින්ද රණසිංහ මහතාව පත්කිරීම ව්‍යවස්ථාදායක සභාව විසින් අනුමත කර තිබේ.
+The Legislative Council appointed Mr. Ranasinghe Mawatha, son of the former Chief Justice, as the Attorney General, filling the vacancy left after the end of the 26th term.
 
-නීතිපති ධුරයේ කටයුතු කළ සංජේ රාජරත්නම් මහතාගේ ධුර කාලය පසුගිය 26 වැනිදායින් අවසන් වීමත් සමඟ නීතිපති ධුරය පුරප්පාඩු වී පැවතුණි.
+🟩
 
-පාරින්ද රණසිංහ මහතා මෙරට හිටපු අගවිනිසුරුවරයෙකු වන කේ.ඒ.පාරින්ද රණසිංහ මහතාගේ පුත්‍රයෙකු වේ.
+The constituency of Solicitor General Massasinghe has been appointed by the Legislative Council as the Attorney General.
+
+The Attorney General's post was vacant with the end of the post of the Attorney General with the end of the 26th.
+
+Mr. Mawatha, Ranasinghe is a son of the former Chief Justice of the country.
 
 ◼️
 
 [Data](articles/22e75ecd.json)
 
+[Extended Data](ext_articles/22e75ecd.ext.json)
+
 ---
 
-### ප්‍රකට ක්‍රීඩා විචාරකයාගේ බිරිඳ සහ දියණියන් දෙදෙනාව ඝාතනය කෙරේ
+### The wife and two daughters killed
 
 *2024-07-11 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198698) · `si`
 
-එංගලන්තයේ උතුරු ලන්ඩනයේදී දුන්නක් භාවිත කර කාන්තාවන් තිදෙනෙක්ව ඝාතනය කළ කයිල් ක්ලිෆර්ඩ් නම් සැකකරුව පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Kyle Clifford, suspected of murdering three women with a bow in North London, was killed by John Hunt, a sports publisher from BBC, along with the victims' family members. The incident occurred at the victims' home in Hertfordshire.
 
-එම සැකකරු විසින් ඝාතනය කර ඇත්තේ බීබීසී හි ප්‍රකට ක්‍රීඩා විස්තර ප්‍රචාරකයෙක් වන ජෝන් හන්ට් ගේ බිරිඳ සහ දියණියන් දෙදෙනා ය.
+🟩
 
-හර්ට්ෆොඩ්ෂයර් හි පිහිටි ඔවුන්ගේ නිවසේදී එම කාන්තාවන් තිදෙනාට ප්‍රහාරය එල්ලකර තිබුණි.
+Police have arrested the suspect, Kyle Clifford, killing three women using a bow in North London in England.
+
+The suspect was assassinated by BBC's famous sports publishers, John Hunt, the wife and daughters of the two daughters.
+
+They had attacked the three women at their home in Herrtfordshire.
 
 ◼️
 
 [Data](articles/110668b2.json)
 
+[Extended Data](ext_articles/110668b2.ext.json)
+
 ---
 
-### ජනාධිපතිවරණය ගැන කල්තැබීමේ විවාදය ඇරඹෙයි
+### Adjournment Debate begins today
 
 *2024-07-11 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198697) · `si`
 
-නිසි කාලය තුළ ජනාධිපතිවරණය පැවැත්වීම පිළිබඳව සභාව කල් තැබීමේ විවාදය මේ වනවිට ආරම්භ වී තිබේ.
+The Adjournment Debate on the presidential election starts today, initiated by the National Institute of Parliament's leader and Chief Opposition Whip Lakshman Kiriella.
 
-පාර්ලිමේන්තු කටයුතු පිළිබද කාරක සභාවේ දී ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා සහ විපක්ෂයේ ප්‍රධාන සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී ලක්ෂ්මන් කිරිඇල්ල යන මහත්වරුන් විසින් ගෙන ලද ඒකාබද්ධ යෝජනාවකට අනුව මෙම කල්තැබීමේ විවාදය පැවැත්වෙයි.
+🟩
+
+The Adjournment Debate on the presidential election has commenced on the presidential election.
+
+The adjournment debate will be held in a joint proposal by the Leader of the National Institute of Parliament and the Chief Opposition Whip Lakshman Kiriella.
 
 ◼️
 
 [Data](articles/607b70f0.json)
 
+[Extended Data](ext_articles/607b70f0.ext.json)
+
 ---
 
-### පොහොට්ටුවේ තවත් දෙකක් සජිත් ලඟට
+### Two more in the Pohost Sajith
 
 *2024-07-11 11:41:25* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-තවත්-දෙකක්-සජිත්-ලඟට/11-410738) · `si`
 
-ඩලස් අලහප්පෙරුම මහතාගේ නායකත්වයෙන් යුත් නිදහස ජනතා සන්ධානය නියෝජනය කරන ශ්‍රී ලංකා පොදුජන පෙරමුණේ මන්ත්‍රීවරුන් වන ලලිත් එල්ලාවල සහ වෛද්‍ය තිලක් රාජපක්ෂ යන මහත්වරු විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාගේ නායකත්වයෙන් යුත් සමගි ජන බලවේගයට සහයෝගය දක්වන බවත් ඉදිරි ජනාධිපතිවරණයේදී ප්‍රේමදාස මහතාගේ ජයග්‍රහණය වෙනුවෙන් කටයුතු කරන බවත් ඔවුහු පැවසූහ.
+The Pohost Sajith group, backed by the US, supports the UPFA and its leaders Lalith Ellawala and Dr. Thilak Rajapakse, under the SLFP's Front of the People's Alliance.
+
+🟩
+
+They also said that the UPFA, Lalith Ellawala and Dr. Thilak Rajapakse, led by the Front of the People's Alliance (SLFP) is supported by the United States Sajith Premadasa.
 
 ◼️
 
 [Data](articles/812accf4.json)
+
+[Extended Data](ext_articles/812accf4.ext.json)
 
 ---
 
@@ -1006,25 +1030,35 @@ A tragic incident occurred where a police officer was fatally shot while taking 
 
 ---
 
-### සුරේන්ද්‍ර වසන්ත ඝාතන පාපොච්චාරණය : ‘මෙහෙම ප්‍රකාශයක් ගන්න බැහැ - නිලධාරීන්ට එරෙහිව නීතිමය පියවර ගත යුතුයි’
+### Surestra Wasantha murder confessive: 'Can't take a statement: Legal action should be taken against the officers'
 
 *2024-07-11 05:51:05* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gvd5v3vz9o) · `si`
 
-සුරේන්ද්‍ර වසන්ත ඝාතන පාපොච්චාරණය : ‘මෙහෙම ප්‍රකාශයක් ගන්න බැහැ - නිලධාරීන්ට එරෙහිව නීතිමය පියවර ගත යුතුයි’
+In a high-profile murder case involving businessman Surendra Wasantha, concerns over police conduct and media involvement have surfaced. Legal experts argue that confessions obtained under questionable circumstances lack credibility and could jeopardize the case. The President's Counsel emphasizes the importance of adhering to criminal law procedures and criticizes the police for potentially compromising the investigation's impartiality. Meanwhile, the Sri Lanka Human Rights Commission awaits complaints regarding the matter, while the police continue their investigation amidst public scrutiny.
 
-ප්‍රකට ව්‍යාපාරිකයෙකු වූ සුරේන්ද්‍ර වසන්ත පෙරේරා සහ තවත් පුද්ගලයෙකු ඝාතනයට ලක් කරමින් සිදුවූ වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් ටැටූ ව්‍යාපාරික ස්ථානයේ හිමිකරුගෙන් පොලිසිය ප්‍රශ්න කරන අයුරු දැක්වෙන වීඩියෝ පටයක් ( ජුලි මස 10) මෙරටේ ප්‍රධාන මාධ්‍ය සහ සමාජ මාධ්‍ය ඔස්සේ ප්‍රචාරය විය.
+🟩
 
-රටේ බහුතරයකගේ අවධානය යොමු වී ඇති ඝාතන සිදුවීමක් සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන සිටින සැකකරුවෙකුගෙන් එලෙස ප්‍රශ්න කිරීම පිළිබඳ සමාජ මාධ්‍ය ඔස්සේ බොහෝ දෙනා අදහස් පළකර තිබුණි.
+Surestra Wasantha murder confessive: 'Can't take a statement: Legal action should be taken against the officers'
 
-අපරාධයක් සම්බන්ධයෙන් අත්අඩංගුවට ගනු ලැබූ සැකකරුවෙකු ගෙන් මාධ්‍ය හමුවේ පාපොච්චාරණය කිරීමට සැලැස්වීම පිළිබඳ එම වීඩියෝ පටය ප්‍රචාරය වූ ෆේස්බුක් සමාජ මාධ්‍ය ජාලය හරහා බොහෝ පරිශීලකයින් පොලිසියට චෝදනා එල්ල කර තිබුණි.
+The famous businessman, Surendra, who was arrested in connection with the shooting incident and another person was arrested by the police station (July 10) in the main media and social media.
 
-එහිදී ඇතැම් පරිශීලකයින් සඳහන් කර තිබුණේ 'අපරාධ නීතිය රටට වැඩක් නොමැති' බවය.
+Many people have expressed their views on the suspect in the suspect in the suspect in connection with the murder of the majority of the country.
 
-එමෙන්ම 'මේ වැරදි වැඩක්. පොලිසියට මෙහෙම දේවල් එළියට දෙන්න බෑ.' යනුවෙන් ද එක් ෆේස්බුක් පරිශීලකයෝ සිය මතය පළකර තිබුණි.
+Many users have been accused through Facebook Social Media Network, which promoted a suspect in the media to confess a suspect in the media.
+
+Some users mentioned the 'criminal law to the country'.
+
+And 'this wrong work is. The police can't give it out this way. 'One Facebook users had expressed their opinion.
+
+Meanwhile, President's Counsel Saliyaman told BBC Sinhalese that the investigation into the investigation is caused by the media.
+
+"Can't do this. Generally, a statement should be made in accordance with the criminal law. "
 
 ...
 
 [Data](articles/f8a4a8bc.json)
+
+[Extended Data](ext_articles/f8a4a8bc.ext.json)
 
 ---
 
@@ -1968,19 +2002,29 @@ His wife is currently hospitalized and hospitalized by the shooting.
 
 ---
 
-### ඊයේ දුම්රිය ගමන්වාර 272ක් අවලංගුයි
+### 272 train traveling was invalid yesterday
 
 *2024-07-10 20:05:00* · [`adalk`](https://www.ada.lk/breaking_news/ඊයේ-දුම්රිය-ගමන්වාර-272ක්-අවලංගුයි/11-410734) · `si`
 
-ඉල්ලීම් කිහිපයක් මුල් කර ගනිමින් පෙර්දා (09දා) මධ්‍යම රාත්‍රී 12 සිට දුම්රිය ස්ථානාධිපතිවරුන්  හා දුම්රිය පාලකවරුන්  ආරම්භ කළ වැඩ වර්ජන ක්‍රියා මාර්ගය නිසා ඊයේ(10දා) ධාවනය කිරිමට නියමිතව තිබූ දුම්රිය ගමන්වාර 272ක් පමණ අවලංගු වී තිබේ.
+Yesterday, 272 out of 295 planned train services were disrupted due to a strike initiated by railway officers. The strike aimed to address issues like vacancy filling, promotion, and other grievances. Passengers faced difficulties as ticket sales, including parcel services, were halted, affecting rail traffic and fuel transportation. Security forces ensured station safety during the unrest, but the situation remains unresolved.
 
-ඊයේ(10දා)  දුම්රිය ගමන් වාර 295 ක්  ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබුණත් ධාවනය කර තිබෙන්නේ දුම්රිය ගමන් වාර 23 ක් පමණක් වන අතර දුම්රිය ස්ථානාධිපතිවරුන්  හා දුම්රිය පාලකවරුන්  ආරම්භ කළ වැඩ වර්ජන ක්‍රියා මාර්ගයට සහාය පළකරමින් උප දුම්රිය ස්ථානධිපතිවරුද ඊයේ දහවල් වර්ජනයට එක් වූහ.
+🟩
 
-පුරප්පාඩු සම්පූර්ණ කරන ලෙසත්  වසර 05 න් 5ට  උසස්වීම් ලබා දෙන ලෙසත් තවත් ගැටලු කිහිපයකුත් මුල් කර ගනිමින් මෙම වෘත්තීය ක්‍රියා මාර්ගය ආරම්භ කළ අතර එම ක්‍රියා මාර්ගය ගැටලු විසඳන තෙක් සිදුකරන බවද දුම්රිය ස්ථානාධිපතිවරු සඳහන් කරති.
+About 272 train services to be operated by the Strategies and Railway Controls yesterday (10) were to operate from the strike.
 
-...
+The sub-Railp Railway Officers were also opened yesterday afternoon, supporting the operation of 295 train services yesterday (10).
+
+The trade union states that the trade union states that this trade proceedings began to complete vacancies and to promote promotions for five years and several other problems.
+
+The strike tickets have been stopped by the strike tickets, including the parcels, and the railway traffic has been interrupted from the night and the aircraft fuel and the transport of the train.Other fuel transport has even stopped.
+
+The passengers were severely hardship yesterday (10th), the passengers were severely difficult to use the security forces for the security of the stations.The train department has been informed, the trade union action has not yet overcomes.
+
+◼️
 
 [Data](articles/82756ffe.json)
+
+[Extended Data](ext_articles/82756ffe.ext.json)
 
 ---
 

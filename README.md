@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 00:20:07**
+As of **2024-07-12 00:35:16**
 
 ## Newspaper Stats
 
-*Scraped **34,856** Articles*
+*Scraped **34,857** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 340
 newsfirstlk | 363
 islandlk | 1,957
 economynextcom | 2,068
-dailyftlk | 2,183
+dailyftlk | 2,184
 adalk | 3,145
 adaderanalk | 4,006
 tamilmirrorlk | 4,166
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,856 (100.0%) of 34,856 articles have been extended.
+34,856 (100.0%) of 34,857 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -507,6 +507,20 @@ Meanwhile, Transport Minister Bandula Gunawardena says that if they report to th
 [Data](articles/30121b47.json)
 
 [Extended Data](ext_articles/30121b47.ext.json)
+
+---
+
+### “Capt. Miller” the LTTE’s first Black Tiger suicide bomber
+
+*2024-07-11 20:46:15* · [`dailyftlk`](https://www.ft.lk/columns/Capt-Miller-the-LTTE-s-first-Black-Tiger-suicide-bomber/4-764150) · `en`
+
+It must be remembered that 37 years ago the phenomenon of a Black Tiger suicide attack was something strange and new. In subsequent years, Black Tiger suicide attacks became quite common. Most major LTTE attacks had one or more Black Tiger suicide operations as definite prerequisites. At that point of time in July 1987, the whole concept was something new. Therefore Miller was viewed as some “superhuman” personality. The whole exercise became highly emotional in content and tone
+
+“Captain Miller” is the name of an Indian film released on 12 January 2024. The blockbuster Tamil movie had popular actor Dhanush acting in the lead titular role of Captain Miller. The film was a fictional tale about a heroic rebel who fought against British colonial rule. Reports state that the film is the highest ever grossing film starring Dhanush.
+
+...
+
+[Data](articles/ba7384bb.json)
 
 ---
 
@@ -2359,27 +2373,5 @@ In this backdrop, the Constituent Assembly has unanimously appointed President's
 [Data](articles/ea9735d1.json)
 
 [Extended Data](ext_articles/ea9735d1.ext.json)
-
----
-
-### Approval of the Leadership Council to the Leadership Council
-
-*2024-07-11 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198699) · `si`
-
-The Legislative Council appointed Mr. Ranasinghe Mawatha, son of the former Chief Justice, as the Attorney General, filling the vacancy left after the end of the 26th term.
-
-🟩
-
-The constituency of Solicitor General Massasinghe has been appointed by the Legislative Council as the Attorney General.
-
-The Attorney General's post was vacant with the end of the post of the Attorney General with the end of the 26th.
-
-Mr. Mawatha, Ranasinghe is a son of the former Chief Justice of the country.
-
-◼️
-
-[Data](articles/22e75ecd.json)
-
-[Extended Data](ext_articles/22e75ecd.ext.json)
 
 ---

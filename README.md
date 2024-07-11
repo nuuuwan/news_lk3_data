@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 03:05:18**
+As of **2024-07-12 03:19:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,874 (100.0%) of 34,883 articles have been extended.
+34,883 (100.0%) of 34,883 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ National People’s Party (NPP) leader Anura Kumara Dissanayake has said it is l
 
 [Data](articles/f668edb4.json)
 
+[Extended Data](ext_articles/f668edb4.ext.json)
+
 ---
 
 ### Legal battle over Deshabandu Thennakoon’s IGP appointment continues in SC
@@ -68,6 +70,8 @@ In a fundamental rights petition filed by the Young Journalists Association chal
 
 [Data](articles/0a0a8e05.json)
 
+[Extended Data](ext_articles/0a0a8e05.ext.json)
+
 ---
 
 ### Bandaranaike Academy for Leadership & Public Policy launches ‘Executive Credential in Leadership & Public Policy’ course
@@ -81,6 +85,8 @@ Beginning its second year of operations, the BALPP is now launching a new flagsh
 ...
 
 [Data](articles/09bfeb13.json)
+
+[Extended Data](ext_articles/09bfeb13.ext.json)
 
 ---
 
@@ -100,6 +106,8 @@ At a ceremony in Beijing, Treasury Secretary Mahinda Siriwardana signed on behal
 
 [Data](articles/a7395296.json)
 
+[Extended Data](ext_articles/a7395296.ext.json)
+
 ---
 
 ### Cabinet clears draft Bill to convert estate housing areas into villages
@@ -115,6 +123,8 @@ The move aims to ensure that residents of estate line rooms receive the same lev
 ...
 
 [Data](articles/f27add12.json)
+
+[Extended Data](ext_articles/f27add12.ext.json)
 
 ---
 
@@ -132,6 +142,8 @@ A must-attend event, this sourcing and trading expo enables the Sri Lankan RMG i
 
 [Data](articles/c4243cba.json)
 
+[Extended Data](ext_articles/c4243cba.ext.json)
+
 ---
 
 ### Ceylon Association of Shipping Agents to hold 58th AGM today
@@ -148,6 +160,8 @@ CASA, established in 1944 as the Ceylon Shipping Committee, has served as a stea
 
 [Data](articles/9296590a.json)
 
+[Extended Data](ext_articles/9296590a.ext.json)
+
 ---
 
 ### Webinar series on “Intellectual Property and Business Competitiveness”
@@ -162,23 +176,33 @@ These virtual sessions will be conducted via Zoom from 3:30 p.m. to 5:30 p.m. du
 
 [Data](articles/16cfe63e.json)
 
+[Extended Data](ext_articles/16cfe63e.ext.json)
+
 ---
 
-### ’ஹிஜாப் அணிந்து எழுதியோரின் பெறுபேறுகளை வெளியிடவும்’
+### Publish the results of the writer wearing a hijab
 
 *2024-07-12 02:27:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிஜாப்-அணிந்து-எழுதியோரின்-பெறுபேறுகளை-வெளியிடவும்/175-340269) · `ta`
 
-அதிபர் போட்டிப் பரீட்சையில்  ஹிஜாப் அணிந்து பரீட்சை எழுதினார்கள் என தெரிவித்து மேல் மாகாணத்தில் 13 பரீட்சார்த்திகளின் பரீட்சை பெறுபேறுகள் இதுவரை வெளியிடப்படாமல் உள்ளன என குறிப்பிட்ட   ஐக்கிய மக்கள் சக்தி  எம்.பி.யான முஜிபுர் ரஹ்மான், அவர்களின் பரீட்சை பெறுபேற்றை வெளியிட்டு அதிபர் வெற்றிடம் காணப்படும் பாடசாலைகளுக்கு அவர்களை நியமிக்க வேண்டும் வேண்டுகோள்  விடுத்தார்.
+In Parliament, United People's Power MP Mujibur Rahman highlighted that the results of 13 examiners in the Western Province, whose exams were cancelled due to them wearing hijabs, have not been released. He urged for swift action after the Chancellor's Competition Examination results were delayed, affecting many students' futures.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (11)  இடம்பெற்ற வாய்மூல விடைக்கான வினா  நேரத்தின்போதே   இந்த வேண்டுகோளை விடுத்தார்.
+🟩
 
-2023 ஓகஸ்ட் மாதம் இடம்பெற்ற அதிபர் பரீட்சை பெறுபேறு கடந்த மே மாதம் வெளிவந்தது.  அதன்போது மேல்மாகாணத்தைச்சேர்ந்த 13 பரீட்சார்த்திகளின்  பரீட்சை பெறுபேறு இரத்துச் செய்யப்பட்டுள்ளதாக அறிவிக்கப்பட்டிருந்தது. அந்த 13 பரீட்சார்த்திகளும்  ஹிஜாப் அணிந்து பரீட்சை எழுதியதாலே பரீட்சை பெறுபேறு இடை நிறுத்தப்பட்டுள்ளது.
+United People's Power MP Mujibur Rahman, who stated that the results of 13 examiners in the Western Province have not yet been released, have said that the Chancellor's Competition Examination has not been released.
 
-இது தொடர்பாக இந்த சபையில் இதற்கு முன்னரும் நான் கேட்டபோது, அவர்களின் பெறுபேறுகளை விரைவாக வெளியிட நடவடிக்கை எடுப்பதாக கல்வி அமைச்சர்  தெரிவித்திருந்தார்.
+He made this request at the time of the query for the oral answer in Parliament on Thursday (11).
+
+The Chancellor Examination, which took place in August 2023, was released in May.It was announced that the examination of 13 candidates from the Western Province had been canceled. The results of the examination have been suspended due to the 13 examiners wearing a hijab.
+
+When I asked for this in this council, the Minister of Education said that steps would be taken to release their results quickly.
+
+The investigation was held on the 23rd of December. Later, when you met and met you as the Minister of Education last month, you immediately intervened in this regard and told the relevant authorities to immediately release the exam results.
 
 ...
 
 [Data](articles/93adcb3c.json)
+
+[Extended Data](ext_articles/93adcb3c.ext.json)
 
 ---
 

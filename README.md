@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 01:05:10**
+As of **2024-07-12 01:20:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,857 (100.0%) of 34,858 articles have been extended.
+34,858 (100.0%) of 34,858 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -124,19 +124,27 @@ This is the first international tournament facing Indian and Sri Lankan teams as
 
 ---
 
-### ’தேனில் கை வைத்தவர் விரல்களை சுவைக்காமல் இருக்கமாட்டார்’
+### The hand of the hand in the honey will not taste the fingers
 
 *2024-07-11 22:48:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேனில்-கை-வைத்தவர்-விரல்களை-சுவைக்காமல்-இருக்கமாட்டார்/175-340265) · `ta`
 
-தேனில் கை வைத்தவர் விரல்களை சுவைக்காமல் இருக்கமாட்டார் என்ற சிங்கள பழமொழி உண்டு. அதற்கேற்பவே  ஜனாதிபதி பதவிக்கு நியமிக்கப்பட்ட ஒருவர், அதில் தொடர்ந்து இருப்பதற்கு தேவையான சூட்சுமங்களை தேடிக்கொண்டிப்பதே இந்த நாட்டில் இருக்கும் பிரச்சினை என ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவரும் எம்.பி.யுமான ரவூப் ஹக்கீம் தெரிவித்தார்.
+A Sinhalese saying suggests that a "honey-hand" person won't taste his fingers, symbolizing the dilemma in choosing a president amidst constitutional conflicts and suspicions of indirect motives. Despite the High Court confirming the constitutionality three times, doubts persist about the urgency and the true intentions behind the process.
 
-பாராளுமன்றத்தில் நேற்று வியாழக்கிழமை இடம்பெற்ற உரிய காலத்தில் ஜனாதிபதித் தேர்தலை நடத்துதல் தொடர்பான சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்தில்   உரையாற்றும் போதே  இவ்வாறு  தெரிவித்த அவர் மேலும் பேசுகையில்,
+🟩
 
-ஜனாதிபதி பதவிக்காலம் தொடர்பில்  உண்மையில் அரசியலமைப்பில் முரண்பாடான நிலை இருக்கிறதா என்ற கேள்வி  எழுகிறது.    தேனில் கை வைத்தவர் விரல்களை சுவைக்காமல் இருக்கமாட்டார் என்று சிங்களத்தில் ஒரு பழமொழி இருக்கிறது,. அதனால் ஜனாதிபதி பதவிக்கு நியமிக்கப்பட்ட ஒருவர், அதில் தொடர்ந்து இருப்பதற்கு தேவையான சூட்சுமங்களை தேடிக்கொண்டிப்பதே இந்த நாட்டில் இருக்கும் பிரச்சினை.
+There is a Sinhalese saying that the honey -hand man will not taste his fingers. According to Sri Lanka Muslim Congress leader and MP Rauf Hakeem, the problem in this country is to seek the necessary tricks to continue to be president.
+
+Speaking at the debate on the Motion on the Motion of the House on the presentation of the presidential election in Parliament yesterday, he said.
+
+The question arises as to whether there is a contradiction in the constitution in which the presidential term is actually in a state of conflict.There is a proverb in Sinhalese that the honey -hand man will not taste his fingers,. So the problem in this country is to seek the need for a person appointed to be president.
+
+Although there is contradiction to the Cabinet over the president's term in the Constitution, the High Court has confirmed it three times. If so, why should the government be in a hurry?Everyone knows whose need to sue the High Court, but it has emerged after the Cabinet's decision.
 
 ...
 
 [Data](articles/1e82d3f1.json)
+
+[Extended Data](ext_articles/1e82d3f1.ext.json)
 
 ---
 

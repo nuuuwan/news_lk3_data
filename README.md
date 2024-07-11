@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 08:35:24**
+As of **2024-07-11 08:54:37**
 
 ## Newspaper Stats
 
@@ -26,49 +26,67 @@ adaderanasinhalalk | 5,769
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,705 (100.0%) of 34,708 articles have been extended.
+34,708 (100.0%) of 34,708 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### 35 ரயில்களை சேவையில் ஈடுபடுத்த நடவடிக்கை
+### Action to serve 35 trains
 
 *2024-07-11 08:23:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/35-ரயில்களை-சேவையில்-ஈடுபடுத்த-நடவடிக்கை/175-340199) · `ta`
 
-தொழிற்சங்க நடவடிக்கை இன்றைய தினமும் தொடரும் எனத் ரயில்  நிலைய அதிபர்கள் சங்கம் தெரிவித்துள்ளது.
+Union action disrupts train services, causing inconvenience to passengers. Despite the strike, 35 train trips, including office trains, will operate during the struggle.
 
-இந்த தொழிற்சங்க நடவடிக்கை காரணமாக பொதுப் பயணிகள் பாரிய அசௌகரியங்களை நேற்று எதிர்நோக்கியிருந்தனர்.
+🟩
 
-இதேவேளை, ரயில் நிலைய அதிபர்களின் தொழிற்சங்கப் போராட்டத்திற்கு மத்தியில் அலுவலகத் ரயில்கள் உள்ளிட்ட 35 ரயில் பயணங்கள் இடம்பெறுவதாகத் ரயில்வே பிரதி பொது முகாமையாளர் என்.ஜே இந்திபொலகே தெரிவித்துள்ளார். (a)
+The Railway Station Principals Association has said that the union action will continue today.
+
+Due to this union action, public passengers were facing massive inconveniences yesterday.
+
+Meanwhile, Railway Deputy General Manager NJ IndiPollake said that 35 rail trips, including office trains, will take place in the midst of the trade union struggle of the railway station principals.. (A)
 
 ◼️
 
 [Data](articles/70f3d5ff.json)
 
+[Extended Data](ext_articles/70f3d5ff.ext.json)
+
 ---
 
-### பொலிஸ் அதிகாரியின் விபரீத முடிவு
+### A police officer's disaster decision
 
 *2024-07-11 08:22:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-அதிகாரியின்-விபரீத-முடிவு/175-340198) · `ta`
 
-அனுராதபுரம் - ருவன்வெலிசாய பொலிஸ் காவல் அரனில் சேவையாற்றிய பொலிஸ் சார்ஜன்ட் ஒருவர் தன்னைத்தானே துப்பாக்கியால் சுட்டு தற்கொலை செய்துகொண்டுள்ளார்.
+A police sergeant from the Anuradhapura-Ruwanwelisa department tragically shot himself, marking a sad day for the force.
+
+🟩
+
+A police sergeant who served in the Anuradhapura - Ruwanwelisa Police Police Department has shot himself with a firearm.
 
 ◼️
 
 [Data](articles/763009dd.json)
 
+[Extended Data](ext_articles/763009dd.ext.json)
+
 ---
 
-### நுவரெலியாவில் பேருந்து விபத்து - 37 பேர் படுகாயம்
+### Bus accident in Nuwara Eliya - 37 injured
 
 *2024-07-11 08:18:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-பேருந்து-விபத்து-37-பேர்-படுகாயம்/76-340197) · `ta`
 
-நுவரெலியா - டொப்பாஸ் பகுதியில் சுற்றுலா சென்ற பேருந்து ஒன்று விபத்திற்குள்ளனாதில் 37 பேர் காயமடைந்துள்ளனர்.
+In Nuwara Eliya, a bus crash resulted in 37 injuries. The incident occurred in the Nuwara Eliya - Topas region.
+
+🟩
+
+A bus that was traveling in the Nuwara Eliya - Topas area was injured when a bus crashed.
 
 ◼️
 
 [Data](articles/63fada37.json)
+
+[Extended Data](ext_articles/63fada37.ext.json)
 
 ---
 

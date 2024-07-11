@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 19:35:21**
+As of **2024-07-11 19:53:30**
 
 ## Newspaper Stats
 
-*Scraped **34,811** Articles*
+*Scraped **34,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,957
 economynextcom | 2,055
 dailyftlk | 2,183
 adalk | 3,138
-adaderanalk | 4,003
-tamilmirrorlk | 4,163
+adaderanalk | 4,004
+tamilmirrorlk | 4,164
 dailymirrorlk | 4,733
 virakesarilk | 5,446
 adaderanasinhalalk | 5,794
@@ -26,11 +26,45 @@ adaderanasinhalalk | 5,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,810 (100.0%) of 34,811 articles have been extended.
+34,811 (100.0%) of 34,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### தலைவர் பதவியிலிருந்து விலகினார் வனிந்து ஹசரங்க
+
+*2024-07-11 19:35:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலைவர்-பதவியிலிருந்து-விலகினார்-வனிந்து-ஹசரங்க/175-340251) · `ta`
+
+இதற்கான கடிதத்தை அவர் ஸ்ரீலங்கா கிரிக்கெட்டிடம் கையளித்திருப்பதாக, ஸ்ரீலங்கா கிரிக்கெட்டின் ஊடக அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+அணித் தலைவர் பதவியிலிருந்து விலகி, சாதாரண வீரனாக தொடர்வதற்கு இது சரியான தருணம் என்று தாம் கருதுவதாக வனிந்து ஹசரங்க தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/74ca0ce0.json)
+
+---
+
+### CCD Inspector arrested over bribe injured in attack by another inmate
+
+*2024-07-11 19:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100451/ccd-inspector-arrested-over-bribe-injured-in-attack-by-another-inmate) · `en`
+
+The Inspector of Police (IP) attached to the Colombo Crimes Division (CCD), who was arrested by the Bribery Commission while soliciting a bribe, has reported been injured by another inmate in his cell.
+
+A prisoner, who was in the same cell as the police officer, has caused an injury to the Inspector’s face using a sharp improvised weapon, sources said.
+
+It is also reported that the police officer has received 8 stitches to his mouth following the incident.
+
+On Friday (05), the Bribery Commission apprehended the two suspects inside the CCD premises in Dematagoda. They had solicited a sum of Rs. 450,000 as a bribe and were apprehended while accepting the final payment of over Rs. 150,000 out of that.
+
+A resident of the Ibbagamuwa area of Kurunegala had lodged a complaint with the CCD in relation to a fraudulent money transfer through an online business of exchanging the electronic currency called ‘USDT’.
+
+...
+
+[Data](articles/a0074c94.json)
+
+---
 
 ### Railway strike to continue further – trade unions
 
@@ -49,6 +83,8 @@ The General Manager of Sri Lanka Railways had warned that all Station Masters an
 ...
 
 [Data](articles/2ae0431b.json)
+
+[Extended Data](ext_articles/2ae0431b.ext.json)
 
 ---
 
@@ -2309,51 +2345,5 @@ A police sergeant who served in the Anuradhapura - Ruwanwelisa Police Police Dep
 [Data](articles/763009dd.json)
 
 [Extended Data](ext_articles/763009dd.ext.json)
-
----
-
-### Bus accident in Nuwara Eliya - 37 injured
-
-*2024-07-11 08:18:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-பேருந்து-விபத்து-37-பேர்-படுகாயம்/76-340197) · `ta`
-
-In Nuwara Eliya, a bus crash resulted in 37 injuries. The incident occurred in the Nuwara Eliya - Topas region.
-
-🟩
-
-A bus that was traveling in the Nuwara Eliya - Topas area was injured when a bus crashed.
-
-◼️
-
-[Data](articles/63fada37.json)
-
-[Extended Data](ext_articles/63fada37.ext.json)
-
----
-
-### Bus accident in Nuwara Eliya: 40 people injured
-
-*2024-07-11 08:18:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-பேருந்து-விபத்து-40-பேர்-படுகாயம்/76-340197) · `ta`
-
-In Nuwara Eliya, a luxury bus crash early Thursday morning resulted in 40 injuries. The bus, carrying 42 passengers from a local hostel, collided with a road safety barrier on the Nuwara Eliya-Kandi main road, preventing a larger accident. Seven injured passengers were admitted to the Emergency Department, while 33 received normal treatment at the Nuwara Eliya District Hospital.
-
-🟩
-
-A luxury bus on the Nuwara Eliya -Kandi main road, which belongs to the Nuwara Eliya Police Division, crashed at around 4.30 am on Thursday (11).
-
-The Nuwara Eliya police said that 40 passengers were injured in the bus accident and were admitted to the Nuwara Eliya District Hospital for treatment.
-
-The Director of Nuwaralya District Hospital said that seven of them have been admitted to the Emergency Department and 33 others in the normal treatment unit.
-
-42 passengers from a private hostel from Nuwara Eliya have traveled to Trincomalee and traveled to the luxury bus.
-
-The bus crashed into the middle of the road when the bus was on the Nuwareli -Kandi main road.
-
-At the same time, the driver of the bus, which drove the bus, crashed into a road safety barrier and prevented a massive accident.
-
-◼️
-
-[Data](articles/be457d79.json)
-
-[Extended Data](ext_articles/be457d79.ext.json)
 
 ---

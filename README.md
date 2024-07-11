@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 10:19:54**
+As of **2024-07-11 10:35:21**
 
 ## Newspaper Stats
 
-*Scraped **34,722** Articles*
+*Scraped **34,723** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,049
 dailyftlk | 2,183
 adalk | 3,130
 adaderanalk | 3,988
-tamilmirrorlk | 4,147
+tamilmirrorlk | 4,148
 dailymirrorlk | 4,733
 virakesarilk | 5,425
 adaderanasinhalalk | 5,772
@@ -26,41 +26,73 @@ adaderanasinhalalk | 5,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,717 (100.0%) of 34,722 articles have been extended.
+34,722 (100.0%) of 34,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### மது அருந்துபவர்களை மகிழ்விக்க வேண்டும்
+### 13 இந்திய மீனவர்கள் கைது
 
-*2024-07-11 09:56:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மது-அருந்துபவர்களை-மகிழ்விக்க-வேண்டும்/175-340209) · `ta`
+*2024-07-11 10:07:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-இந்திய-மீனவர்கள்-கைது/175-340211) · `ta`
 
-மனைவியுடனான பிரச்சினையால் பலர் மதுபானங்களை அருந்தி மன ஆறுதல் தேடுவதனால்   மதுபானங்களின் விலைகளை குறைத்து மது அருந்துபவர்களை மகிழ்விக்க வேண்டும் என கைத்தொழில் இராஜாங்க அமைச்சர் சாமர சம்பத்  வேண்டுகோள் விடுத்தார்.
+இலங்கை கடற்பரப்பில் அத்துமீறிய மீன் பிடியில் ஈடுபட்ட 13 இந்திய மீனவர்கள் இன்று அதிகாலை (11) கைது செய்யப்பட்டனர்.
 
-பாராளுமன்றத்தில் புதன்கிழமை (10) இடம்பெற்ற  மது வரி கட்டளைச் சட்டம் மற்றும் ஏற்றுமதி,இறக்குமதி கட்டுப்பாட்டுச் சட்டங்கள் குறித்த வர்த்தமானி அறிவித்தல்கள் தொடர்பான விவாதத்தில் உரையாற்றும் போதே  இவ்வாறு வேண்டுகோள் விடுத்த அவர்  மேலும்  பேசுகையில்,
+யாழ்ப்பாணம் காரைநகர் கடற்பரப்பில் மீன்பிடித்துக் கொண்டிருந்த மூன்று படகையும் அதிலிருந்த 13 இந்திய மீனவர்களையுமே, எல்லை தாண்டி மீன் பிடித்ததாக இலங்கை கடற்படையினர் கைது செய்தனர்.
 
-மதுபானங்களின் விலை அதிகரிப்பால் சட்டவிரோத கசிப்பு உற்பத்தி தீவிரமடைந்துள்ளன.மதுவரி  சட்டங்களை திருத்துவதாலும்,புதிதாக மதுபான சாலைகளுக்கு அனுமதி வழங்குவதாலும் பொருளாதார நெருக்கடிக்கு தீர்வு காண முடியாது.
+கைதான மீனவர்கள் மயிலிட்டி மீன்பிடி துறைமுகத்திற்கு அழைத்துச் சென்று, யாழ் மாவட்ட கடற்றொழில் நீரியல்வளத்துறை அதிகாரிகளிடம் கையளிக்கப்பட்டு பின்னர் ஊர்காவற்றுறை நீதிமன்றில் முற்படுத்தப்படவுள்ளனர். R
 
-மதுபானங்களின் விலை அதிகரிப்பால் மதுவரி திணைக்களம் இந்த ஆண்டு முதல் காலாண்டில் மாத்திரம் 50 பில்லியன் ரூபா நஷ்டமடைந்துள்ளது.
+◼️
 
-...
-
-[Data](articles/57064e21.json)
+[Data](articles/c62cf1ae.json)
 
 ---
 
-### தம்புள்ளையிலுள்ள ஐக்கிய தேசிய கட்சியின் அலுவலகம் மீது தாக்குதல்
+### To entertain those who drink alcohol
+
+*2024-07-11 09:56:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மது-அருந்துபவர்களை-மகிழ்விக்க-வேண்டும்/175-340209) · `ta`
+
+Samara Sampath, Minister of State for Industry, urged alcohol consumers for support amidst rising liquor prices, aiming to reduce costs and enhance their entertainment. She highlighted the impact of price hikes on legal sales and illegal production, citing a loss of 50 billion rupees by the Department of Liquor in Q1. The issue also led to five fisherman deaths from consuming toxic sea water, emphasizing the need for price reduction and consumer protection.
+
+🟩
+
+Minister of State for Industry Samara Sampath appealed to the people who drink alcohol because of the problems of the wife and seek to reducing the prices of liquor and entertaining the people who drink alcohol.
+
+Speaking at a debate on the Gazette Notification on the Gazette Notification on Wednesday (10) in Parliament, the Liquor Tax Ordinance and Export and Import Control Act, he said.
+
+Illegal leakage production has intensified due to the increase in prices of liquor.
+
+The Department of Liquor has lost 50 billion rupees in the first quarter of this year due to the increase in prices of liquor.
+
+They drink alcohol because of the fact that the whole population is drinking 60 lakhs of alcohol. They are drinking alcohol.
+
+The question of liquor consumption has declined and illegal alcohol production has increased.. Five fishermen have been killed by drinking the liquid floating in the sea due to the increase in prices.
+
+◼️
+
+[Data](articles/57064e21.json)
+
+[Extended Data](ext_articles/57064e21.ext.json)
+
+---
+
+### Attack on the office of the United National Party in Dambulla
 
 *2024-07-11 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188179) · `ta`
 
-இந்த தாக்குதல் சம்பவத்தில் அலுவலகமும், அங்கு இருந்த அனைத்து பதாதைகளும் பாரியளவில் சேதமடைந்துள்ளதாக ஐக்கிய தேசியக் கட்சியின் பொதுச் செயலாளர் பாலித ரங்கே பண்டார தெரிவித்துள்ளார்.
+The United National Party's office in Dambulla suffered significant damage from an attack. General Secretary Palitha Range Bandara reported the incident to Dambulla police, who are now investigating.
 
-தாக்குதல் தொடர்பில் தம்புள்ளை பொலிஸில் முறைப்பாடு செய்துள்ளதாகவும், அவர்கள் சம்பவம் தொடர்பில் தீவிரமாக விசாரணைகளை மேற்கொண்டு வருவதாகவும் அவர் மேலும் தெரிவித்துள்ளார்.
+🟩
+
+United National Party General Secretary Palitha Range Bandara said that the office and all the posts in the attack were massively damaged.
+
+He added that he has lodged a complaint with the Dambulla police regarding the attack and that they are actively investigating the incident.
 
 ◼️
 
 [Data](articles/e73cd103.json)
+
+[Extended Data](ext_articles/e73cd103.ext.json)
 
 ---
 
@@ -114,35 +146,47 @@ The police department stated that the delays have been reduced to the police inv
 
 ---
 
-### தன்னைத்தானே துப்பாக்கியால் சுட்டு பொலிஸ் சார்ஜென்ட் உயிர்மாய்ப்பு
+### The police sergeant survivor shot himself
 
 *2024-07-11 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/188177) · `ta`
 
-அநுராதபுரத்தில் பொலிஸ் சார்ஜென்ட்  ஒருவர் தன்னைத்தானே  துப்பாக்கியால் சுட்டு  உயிரை மாய்த்துக் கொண்டுள்ளதாக  பொலிஸார் தெரிவித்தனர்.
+A police sergeant in Anuradhapura reportedly shot himself with his own service weapon. The incident occurred at the Ruwanweli Maha Seya police station. If anyone is facing a crisis, support services are available for free.
 
-அநுராதபுரத்தில் ருவன்வெலி மஹா சேயாவில் உள்ள பொலிஸ் நிலையத்தில் கடமையாற்றும் பொலிஸ் சார்ஜன்ட் ஒருவரே நேற்று புதன்கிழமை (10) இரவு அவருக்கு சேவைக்கு வழங்கப்பட்ட துப்பாக்கியால் தன்னைத்தானே சுட்டு உயிரைமாய்த்துக் கொண்டுள்ளார் என தெரிய வந்துள்ளது.
+🟩
 
-நீங்கள் அல்லது உங்களுக்குத் தெரிந்த ஒருவர் நெருக்கடியில் இருந்தால் மற்றும் உதவி தேவைப்பட்டால், உடனடியாக இலவசமாக சேவை செய்ய அமைப்புகள் உள்ளன.
+Police said a police sergeant in Anuradhapura had shot himself and fired himself.
+
+It is reported that a police sergeant who works at the police station in Ruwanweli Maha Seya in Anuradhapura was shot dead by a gun he was served on Wednesday night (10).
+
+If you or someone you know is in crisis and need help, there are systems to serve freely free.
 
 ◼️
 
 [Data](articles/983ff830.json)
 
+[Extended Data](ext_articles/983ff830.ext.json)
+
 ---
 
-### நுவரெலியாவில் அதிசொகுசு பஸ் விபத்து ; 42 பேர் வைத்தியசாலையில் அனுமதி
+### Bus accident in Nuwara Eliya;42 people are admitted to the hospital
 
 *2024-07-11 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188178) · `ta`
 
-இந்த விபத்தானது இன்று வியாழக்கிழமை (11) அதிகாலை நுவரெலியா - கண்டி பிரதான வீதியில் லபுக்கலை பகுதியில்  இடம்பெற்றுள்ளது.
+A bus crash occurred on the Nuwara Eliya-Kandy road, involving 42 injuries and admissions to the Nuwara Eliya District General Hospital. The incident happened on Thursday morning near the Nuwara Eliya Crane Hotel, causing significant traffic disruption.
 
-அதிசொகுசு தனியார் பஸ் பாதையை விட்டு விலகி அருகில் இருந்த பாதுகாப்பு இரும்பு வேலியில் மோதி விபத்துக்குள்ளாகியுள்ளது. குறித்த விபத்து காரணமாக நுவரெலியா - கண்டி பிரதான வீதியில் போக்குவரத்து முற்றாக பாதிக்கப்பட்டது.
+🟩
 
-நுவரெலியா கிரேன் ஹோட்டலில் தொழில் புரியும் ஊழியர்கள் சுற்றுலா சென்ற பஸ்ஸே விபத்துக்குள்ளாகியுள்ளது. விபத்தின் போது பஸ்ஸில் பயணம் செய்த சாரதி மற்றும் நடத்துனர் உட்பட 42 பேர் காயமடைந்துள்ளதாகவும் இவர்கள் அனைவரும் நுவரெலியா மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக வைத்தியசாலை வட்டாரங்கள் தெரிவித்துள்ளது.
+The accident took place on Thursday morning (11) at the Lapukkalai area on the Nuwara Eliya -Kandy main road.
+
+Safety crashes into a nearby security iron fence. Traffic on the Nuwara Eliya -Kandy main road was completely affected by the accident.
+
+Busy crashed at Nuwara Eliya Crane Hotel. 42 people, including a driver and conductor who were traveling on the bus during the accident, were injured and they were all admitted to the Nuwara Eliya District General Hospital, hospital sources said.
 
 ◼️
 
 [Data](articles/0194a584.json)
+
+[Extended Data](ext_articles/0194a584.ext.json)
 
 ---
 
@@ -1382,17 +1426,25 @@ Speaking further, President Ranil Wickremesinghe further said,
 
 ---
 
-### 2022ට සාපේක්ෂව 2023දී රාජ්‍ය සේවක වැටුප් වියදම බිලියන 16.7කින් අඩුවෙලා
+### State employee wage costs fell 16.7 billion in 2023 compared to 2022
 
 *2024-07-10 19:48:17* · [`adalk`](https://www.ada.lk/breaking_news/2022ට-සාපේක්ෂව-2023දී-රාජ්‍ය-සේවක-වැටුප්-වියදම-බිලියන-16-7කින්-අඩුවෙලා/11-410731) · `si`
 
-රජයේ සේවකයන්ගේ වැටුප් හා වේතන වෙනුවෙන් දරනු ලැබූ වියදම 2022 වර්ෂයට සාපේක්ෂව 2023 වර්ෂයේ දී රුපියල් බිලියන 939.5 ක් දක්වා 1.7% ක ප්‍රතිශතයකින් අඩු වී ඇති බැව් මුදල් අමාත්‍යාංශය මඟින් 2023 වර්ෂයට අදාළව නිකුත් කර ඇති අය වැය තත්වය පිළිබඳ මහ බැංකු වාර්තාවේ සඳහන්වේ.
+In 2023, government employee wage costs decreased by 16.7 billion rupees compared to 2022, reaching 956.2 billion rupees. However, pension costs rose by 20.5%, totaling 372.5 billion rupees, largely due to an increase in pensioners. This financial shift highlights the need for better human resource management strategies within the public sector.
 
-2022 වර්ෂයේ රජයේ සේවකයන්ගේ වැටුප් හා වේතන ගෙවීම් සඳහා වැය කළ මුදල රු. බිලියන 956.2 කි. ඒ අනුව 2022 වර්ෂයට සාපේක්ෂව 2023 වර්ෂයේ දී රජයේ සේවකයන්ගේ පඩි නඩි ගෙවීම් සඳහා වැය කරනු ලබන මුදල රු. බිලියන 16.7කින් අඩු වී ඇත. කෙසේ වුවද විශ්‍රාම වැටුප් වියදම 2023 වර්ෂයේ දී රුපියල් බිලියන 372.4 ක් දක්වා 20.5% ක ප්‍රතිශතයකින් වැඩි වී ඇත.
+🟩
 
-...
+The Ministry of Finance stated that the expenditure incurred by the Government's salaries and wages of public servants in 2023 compared to Rs.
+
+2022 Amount spent on salaries and salaries and salaries' payments. 956.2 billion. Accordingly, the payroll of government employees in 2023 compared to 2022 years of Rs.. 16.7 billion. However, the cost of pensioner has increased from 20.5% to Rs. 372.5 billion in 2023.
+
+The government spent Rs. 309.1 billion to pay pensions in the year 2022. The number of pensioners is mainly due to the increase in the number of pensioners. The report states that maintaining the public sector under limited financial space is badly affected the future.. The report states that the need for rooting for effective human resource management strategies has emerged.
+
+◼️
 
 [Data](articles/b4830cfc.json)
+
+[Extended Data](ext_articles/b4830cfc.ext.json)
 
 ---
 
@@ -2241,25 +2293,5 @@ The young man and her complicity were arrested on Wednesday (10) for allegedly r
 [Data](articles/cd9a5fb5.json)
 
 [Extended Data](ext_articles/cd9a5fb5.ext.json)
-
----
-
-### Sri Lanka Treasury bill yields begin to fall
-
-*2024-07-10 16:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-begin-to-fall-171645/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields fell across maturities at Wednesday’s auction with all 105 billion rupees of bills offered sold, data from the debt office showed.
-
-The 3-month yield fell 16 basis points to 9.91 percent, with all offered 30 billion rupees of bills sold.
-
-The 6-month yield fell 09 basis points to 10.10 percent, with all offered 40 billion rupees of bills sold.
-
-The 12-month bills fell 10 basis points to 10.21 percent, with all offered 35 billion rupees of bills sold. (Colombo/July10/2024)
-
-◼️
-
-[Data](articles/58dd6ec6.json)
-
-[Extended Data](ext_articles/58dd6ec6.ext.json)
 
 ---

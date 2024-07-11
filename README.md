@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 22:07:43**
+As of **2024-07-11 22:20:06**
 
 ## Newspaper Stats
 
-*Scraped **34,826** Articles*
+*Scraped **34,842** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,64 +13,118 @@ colombotelegraphcom | 324
 bbccomsinhala | 340
 newsfirstlk | 363
 islandlk | 1,957
-economynextcom | 2,055
+economynextcom | 2,068
 dailyftlk | 2,183
-adalk | 3,138
+adalk | 3,139
 adaderanalk | 4,005
-tamilmirrorlk | 4,164
+tamilmirrorlk | 4,165
 dailymirrorlk | 4,733
 virakesarilk | 5,453
-adaderanasinhalalk | 5,799
+adaderanasinhalalk | 5,800
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,824 (100.0%) of 34,826 articles have been extended.
+34,826 (100.0%) of 34,842 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### දුම්රිය වර්ජනයේ මිනිස් බිල්ල
+### ක්ලබ් වසන්ත ගේ දේහය තැන්පත් කර ඇති මල් ශාලාවටත් තර්ජන
+
+*2024-07-11 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198720) · `si`
+
+සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්තගේ දේහය මේවන විට තැන්පත් කර ඇති කොළඹ, බොරැල්ලේ මල්ශාලාවට තමන් කංජිපානි ඉම්රාන් බව අඟවමින් ඊයේ (10) රාත්‍රි 11.30ට පුද්ගලයෙකු දුරකතන ඇමතුමක් ලබාදී තිබේ.
+
+එහිදී ක්ලබ් වසන්තගේ දේහය අවසන් ගෞරව දැක්වීම සඳහා එහි තැන්පත් නොකරන ලෙස එම තැනැත්තා තර්ජනය කර ඇතිබව පොලීසිය පවසයි.
+
+එලෙස කළහොත් මෘත ශරීරයට මෙන්ම මල්ශාලාවට ද වෙඩි තබන බවට අදාළ පුද්ගලයා තර්ජනය කර ඇති බව පොලීසිය සඳහන් කළේය.
+
+ඒ් අනුව මල්ශාලාවේ කළමනාකරු අද (11) පෙරවරුවේ මේ පිළිබඳව බොරැල්ල පොලීසියට පැමිණිලි කර තිබේ.
+
+බොරැල්ල පොලීසියේ අපරාධ විමර්ශන අංශය මගින් සිද්ධිය සම්බන්ධයෙන් විමර්ශන ආරම්භ කර ඇති අතර එහිදී අනාවරණ වී ඇත්තේ, විදෙස් රටකින් අදාළ දුරකතන ඇමතුම ලැබී ඇති බවය.
+
+ක්ලබ් වසන්තගේ දේහය පිළිබඳව අවසන් කටයුතු එළැඹෙන සෙනසුරාදා බොරැල්ල පොදු සුසාන භූමියේදී සිදුකිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/f8953bf0.json)
+
+---
+
+### பணிப்புறக்கணிப்பு முடிவுக்கு வந்தது
+
+*2024-07-11 22:05:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணிப்புறக்கணிப்பு-முடிவுக்கு-வந்தது/175-340264) · `ta`
+
+போக்குவரத்து அமைச்சர் பந்துல குணவர்தனவுடன் இடம்பெற்ற பேச்சுவார்த்தையை அடுத்து, இந்தத் தீர்மானம் எடுக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.
+
+இந்த நிலையில், நாளை முதல் வழமைப்போல ரயில் சேவை இடம்பெறும் என்று அறிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/a56e8802.json)
+
+---
+
+### The human billage of the railway strike
 
 *2024-07-11 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198719) · `si`
 
-කොළඹ සිට පොල්ගහවෙල දක්වා ඊයේ (10) පස්වරුවේ ධාවනය වූ දුම්රියක පැවති මගී තදබදය හේතුවෙන් එහි පාපුවරුවේ ගමන් කරමින් සිටිය දී බෙම්මුල්ල දුම්රිය ස්ථානය අසලදී දුම්රියෙන් ඇද වැටී ජීවිතක්ෂයට පත් වූ පුද්ගලයාගේ අනන්‍යතාවය හඳුනාගෙන ඇත.
+A train ride from Colombo to Polgahawela honored a deceased passenger, a 51-year-old man from Attanagalla, known for his work at a local food market. Police confirmed his identity, and a post-mortem examination is scheduled for tomorrow at Vathupitiwala Hospital.
 
-මෙලෙස මියගොස් ඇත්තේ අත්තනගල්ල අල්ගම ප්‍රදේශයේ පදිංචි 51 හැවිරිදි ජයන්ත කළුආරච්චි නමැති අවිවාහක පුද්ගලයෙකි.
+🟩
 
-ඔහු කොළඹ ප්‍රදේශයේ ආහාරපාන වෙළෙඳසැලක කොත්තු බාස් කෙනෙකු වශයෙන් සේවයකළ අයෙක් බව පොලීසිය පවසයි.
+Due to the passenger traffic at a train from Colombo to Polgahawela yesterday, the commitment of the train was in recognition of the deceased.
 
-මෘත ශරීරය සම්බන්ධ පශ්චාත් මරණ පරීක්ෂණය වතුපිටිවල රෝහලේදී හෙට (12) සිදු කිරීමට නියමිතය.
+The deceased has been identified as a 51 year old resident of Attanagalla, Attanagalla.
+
+Police said he was a bass in a food make in Colombo area.
+
+The post mortem will be conducted at the Vathupitiwala Hospital tomorrow (12).
 
 ◼️
 
 [Data](articles/62f9f53b.json)
 
+[Extended Data](ext_articles/62f9f53b.ext.json)
+
 ---
 
-### ක්ලබ් වසන්ත ට වෙඩි තැබූ දෙදෙනා ගැන අලුත් කතාවක්
+### New story about the two shooting of Club Wasantha
 
 *2024-07-11 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198718) · `si`
 
-අතුරුගිරියේ ටැටූ මධ්‍යස්ථානයක් විවෘත කිරීමට ගිය අවස්ථාවේදී සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්තට වෙඩි ප්‍රහාරය එල්ල කරන අයුරු දැක්වෙන තවත් CCTV දර්ශන අප වෙත ලැබී තිබේ.
+In Athurugiriya, after opening a tattoo center, Club Wasantha was targeted by gunmen. CCTV footage shows two shooters entering the club, firing indiscriminately, and escaping. The attackers were skilled and possibly linked to security forces, raising concerns among investigators. The incident highlights the dangers faced by public figures in Sri Lanka.
 
-අදාළ ටැටූ මධ්‍යස්ථානය චාරිත්‍රානුකූලව විවෘත කිරීමෙන් පසුව ක්ලබ් වසන්ත සිටින්නේ එහි තිබූ සෝපාවෙහි වාඩිවී කිරිබත් අනුභව කරමිනි.
+🟩
 
-වෙඩික්කරුවන් දෙදෙනා ගිනි අවිද රැගෙන මෝටර් රථයකින් බැස ඉහළ මාලයේ පිහිටි ටැටූ මධ්‍යස්ථානය දෙසට දිවඑන්නේ ඒ අතරවාරයේදීය.
+When Sirithndra went to open a tattout center in the Athurugiriya, we have received more cCTV footage to shoot at the gunshot at the Athulgiriya.
 
-ඔවුන් දුටු මධ්‍යස්ථානයේ ඉදිරිපස දරුවකු වඩාගෙන සිටි පුද්ගලයා දොර විවෘතකර යමක් පවසන ආකාරය දර්ශන වල දක්නට ලැබේ.
+After opening the Tatu Center, Club spring is sitting in the lift and eating milk.
 
-ඒ මොහොතේම  එහි ඇතුළුවන වෙඩික්කරුවන් දෙදෙනාගෙන් අයෙකු කිසිදු චකිතයකින් තොරව ක්ලබ් වසන්ත ඉලක්ක කර වෙඩි ප්‍රහාර මාලාවක් එල්ල කරයි.
+It was in the meantime to take fire on firearms with firearms and the top nearest tative.
 
-වෙඩික්කරුගේ ගිනි අවියේ උණ්ඩ ගැබෙහි ඇතිවූ යම් දෝෂයක් හේතුවෙන් ඔහු පසෙකට වන ආකාරය දක්නට ලැබේ.
+The person who had taken over the front of the center they saw was found in scenes that open something.
 
-ක්ලබ් වසන්ත සිටි ස්ථානයට නුදුරින් වාඩිවී සිටින ඔහුගේ ආරක්ෂකයින් ඇතුළු පිරිසක් වෙඩි ප්‍රහාරවලට බියෙන් මධ්‍යස්ථානයේ මුදල් අයකැමි මේසය යටට පැන සැඟවෙන ආකාරය ද CCTV දර්ශන වල දැකගත හැකිය.
+At the same time, one of the two shooters enter Club spring without any misinformation.
+
+A bullet in a bullets of the shooter's firearm, he is seen aside.
+
+His guards, including his guards sitting at the place where Club is located near the place of fire, is also found in CCTV footage.
+
+The CCTV camera has noted how the owner of the Tative organizations and shooters will visit.
+
+Police officers say that two pregnancies were used by Selotep to the two firearmarian.
+
+According to police, both of them were running and shooting firearms and shooting were well-trained shooters.
 
 ...
 
 [Data](articles/47a265bb.json)
+
+[Extended Data](ext_articles/47a265bb.ext.json)
 
 ---
 
@@ -536,6 +590,40 @@ We have some responsibility for the safety of the people. We will provide our co
 
 ---
 
+### Sri Lanka sells Rs131bn in 2027 to 2031 bonds
+
+*2024-07-11 17:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs131bn-in-2027-to-2031-bonds-171789/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 131.2 billion rupees in 2027 and 2031 bonds, data from the state debt office showed.
+
+All offered 58 billion rupees of 15 December 2027 bonds were sold at an average yield of 11.25 percent.
+
+The debt office sold 73.2 billion rupees of an offered 80 billion of 01 December 2031 bonds at 12.00 percent.
+
+◼️
+
+[Data](articles/8fcde764.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 302.80/303.00 to US dollar
+
+*2024-07-11 17:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-302-80-303-00-to-us-dollar-171766/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 302.80/303.00 to the US dollar on Thursday, down from 303.63/72 to the US dollar on Wednesday, dealers said, while bond yields were up.
+
+A bond maturing on 15.12.2026 closed at 10.85/95 percent, up from 10.60/85 percent.
+
+A bond maturing on 15.02.2028 closed at 11.80/90 percent, down from 11.80/95 percent.
+
+A bond maturing on 15.09.2029 closed at 12.15/25 percent, up from 12.10/20 percent. (Colombo/Jul11/2024)
+
+◼️
+
+[Data](articles/dde4c1f0.json)
+
+---
+
 ### Single Track of 'Veerai Nivas'
 
 *2024-07-11 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188241) · `ta`
@@ -636,6 +724,64 @@ Meanwhile, the one-day international tournament between the two countries will b
 
 ---
 
+### Sri Lanka inks deal with China for smart classroom solutions, digital transformation in ed
+
+*2024-07-11 17:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-inks-deal-with-china-for-smart-classroom-solutions-digital-transformation-in-ed-171774/) · `en`
+
+ECONOMYNEXT — Sri Lanka has signed a letter of exchange with the the China International Development Cooperation Agency (CIDCA) on a Digital Transformation of General Education project under the China-Aid programme.
+
+Sri Lanka Treasury Secretary Mahinda Siriwardana tweeted Thursday July 11 afternoon that he signed the agreement on behalf of the government CIDCA Vice President Yang Weiqun in Beijing, China.
+
+The proposed grant is a visionary initiative designed to catalyse the digital transformation of Sri Lanka’s education sector, said Siriwardana in a statement.
+
+“The primary focus of the grant is to establish a state-of-the-art educational infrastructure, including a cutting-edge Educational Data Centre, a Multimedia Distance Learning and Conference Solution, and a National Streaming Hub,” he said.
+
+...
+
+[Data](articles/cd153c99.json)
+
+---
+
+### ADB approves Sri Lanka US$100mn power sector policy loan
+
+*2024-07-11 17:25:00* · [`economynextcom`](https://economynext.com/adb-approves-sri-lanka-us100mn-power-sector-policy-loan-171775/) · `en`
+
+ECONOMYNEXT – Manila-based Asian Development Bank said it had approved a 100 million US dollar policy loan to support reforms in the power sector in co-ordination with a reform program backed by the International Monetary Fund.
+
+“Developing cost-competitive renewable energy and providing reliable and affordable electricity supply—with a transparent and independent power sector regulatory framework—will help Sri Lanka drive economic growth and address the current financial and economic crisis,” ADB’s Principal Energy Specialist Jaimes Kolantharaj said in a statement.
+
+“This program will support reforms in the power sector introduced under the Electricity Act, including institutional and regulatory reforms and improve operational sustainability of the electricity sector.
+
+“The program will also support the development of renewable energy to accelerate the country’s transition to clean energy as envisaged under Sri Lanka’s nationally determined contributions.”
+
+...
+
+[Data](articles/379edc4f.json)
+
+---
+
+### Sri Lanka’s NWSDB considers smart to cut cost on expensive water meter readers
+
+*2024-07-11 17:20:00* · [`economynextcom`](https://economynext.com/sri-lankas-nwsdb-considers-smart-to-cut-cost-on-expensive-water-meter-readers-171773/) · `en`
+
+ECONOMYNEXT  Sri Lanka’s National Water Supply and Drainage Board is considering to go with smart water meters to cut down expensive wage paid for 1,100 manual water readers, Water Supply Minister Jeevan Thondaman said.
+
+“They are paid 150,000 rupees a month. It is higher than my salary of 76,000 rupees. They work almost four days in a month,” the Minister told a Foreign Correspondent Association (FCA) Forum in Colombo late on Wednesday.
+
+“So now we are considering to fix 600,000 smart water meter within the next two years.”
+
+He said smart meters will give accurate and clear data while reducing the room for corruption.
+
+Thondaman’s new move comes as the government is in the process of rationalizing all the expenditures on state-owned enterprises.
+
+Under President Ranil Wickremesighe’s government, the NWSDB’s monthly loss of 2.3 billion rupees has turned into the same amount of monthly profit, Thondaman said.
+
+...
+
+[Data](articles/1bc02e69.json)
+
+---
+
 ### Modi to redeem Indians in the Russian army
 
 *2024-07-11 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198710) · `si`
@@ -662,6 +808,24 @@ Prime Minister Modi was a leading purpose of Prime Minister Modi's Russian tour.
 
 ---
 
+### Sri Lanka railway workers on strike informed they have vacated post
+
+*2024-07-11 17:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-railway-workers-on-strike-informed-they-have-vacated-post-171764/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s railway employees who are currently on strike have all been sent letters informing that they are considered to have vacated their posts, Transport Minister Bandula Gunawardena said.
+
+Gunawardena told reporters Thursday July 11 afternoon that the General Manger of Railways has sent letters to all station masters who are on strike, on the grounds that they have broken the law.
+
+“A young man died during the previous strike. This time, because of the strikes that were suddenly organised as a sabotage campaign, a passenger died. The strikers have claimed two lives.
+
+The minister said that the station masters who continue to be on strike despite President Ranil Wickremesinghe declaring public transport an essential service.
+
+...
+
+[Data](articles/dfe34250.json)
+
+---
+
 ### 12 fuel delivery train services canceled by strike
 
 *2024-07-11 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/188240) · `ta`
@@ -681,6 +845,74 @@ Accordingly, the official added that 10 fuel containers with 10,000 liters are s
 [Data](articles/caa042e6.json)
 
 [Extended Data](ext_articles/caa042e6.ext.json)
+
+---
+
+### Qualified nod from Committee on Public Finance for Sri Lanka’s new public finance law
+
+*2024-07-11 16:53:00* · [`economynextcom`](https://economynext.com/qualified-nod-from-committee-on-public-finance-for-sri-lankas-new-public-finance-law-171759/) · `en`
+
+ECONOMYNEXT — The Committee on Public Finance (COPF) has passed Sri Lanka’s Public Financial Management bill which would replace the Fiscal Management (Responsibility) Act, COPF chairman and MP Harsha de Silva said.
+
+The MP tweeted Thursday July 11 afternoon that the new bill clarifies  fiscal rules, strengthens budgeting and enhances scrutiny.
+
+“However I oppose arbitrary primary expenditure cap as it will restrict needed public investment to achieve 10 percent growth req to be HIC by 2040. We will amend soon!”
+
+The bill had set a 13 percent primary spending limit (expenses before interest) as part of efforts to improve fiscal discipline in the future.
+
+Treasury Secretary Mahinda Siriwardana said in May that the Public Finance bill will be a landmark piece of legislation that will provide the guidance and framework to go forward.
+
+A Fiscal Management Responsibility Act, which has been repeatedly breached in the past will be repealed.
+
+...
+
+[Data](articles/7e8258b5.json)
+
+---
+
+### Sri Lanka to start e-motorist drive in 6 weeks: State Minister
+
+*2024-07-11 16:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-start-e-motorist-drive-in-6-weeks-state-minister-171756/) · `en`
+
+ECONOMYNEXT – Services in Sri Lanka’s Department of Motor Traffic (DMT) including part of vehicle registration will be digitized within next 6 weeks in order to reduce corruption and malpractices, State Transport Minister Lasantha Alagiyawanna said.
+
+Some top officials in the Department of Motor Traffic have resisted the digitization process, government officials say.
+
+The government e-motoring drive project which was expected to provide an efficient service to the public.
+
+The project was originally expected to be roll out from March this year, starting with booking an appointment through either the automated telephone service or website.
+
+Around 4,000 people in and around Colombo visit the main offices of DMT in Werahera or Narahenpita on average daily, officials say.
+
+“Though the digitization process started in 2018, the Department of Motor Traffic did not allow this,” Alagiyawanna told reporters at a media briefing in Colombo.
+
+...
+
+[Data](articles/6d22599a.json)
+
+---
+
+### Sri Lanka stocks close down, John Keells pushes turnover
+
+*2024-07-11 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-john-keells-pushes-turnover-171757/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
+
+The broader All Share Index closed down 0.08 percent, or 9.24 points, at 11,802; while the more liquid S&P SL20 Index closed down 0.37 percent, or 12.87 points, at 3,435.
+
+“Market sentiment remained negative,” Softlogic Stockbrokers said. “There might be a continued downward trend to consolidate further.”
+
+Two crossings contributed to the day’s turnover: John Keells Holdings Plc brought in Rs131mn, and the share closed down at 194.50.
+
+“The share came down significantly, creating an opportunity for anyone who wants to accumulate these ripe stocks.”
+
+The transaction was most likely a foreign selling, local buying, market participants said.
+
+A crossing on Nations Trust Bank Plc contributed in Rs39mn to the turnover, and the share closed down at 124.00.
+
+...
+
+[Data](articles/df10af66.json)
 
 ---
 
@@ -875,6 +1107,42 @@ An Indian official accompanying Modi said on Tuesday that Russia has promised th
 [Data](articles/0e394e19.json)
 
 [Extended Data](ext_articles/0e394e19.ext.json)
+
+---
+
+### Sri Lanka presidential election ‘most probably’ on October 5 or 12: Minister
+
+*2024-07-11 16:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-election-most-probably-on-october-5-or-12-minister-171745/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s presidential poll will be held this year on October 5 or 12, its Foreign Affairs Minister Ali Sabry said in parliament on Thursday.
+
+“Do not doubt that the presidential election will be held between September 17 and October 17 this year. Most probably it will be held on either Saturday, October 5 or Saturday, October 12,” Sabry said.
+
+“The president is not afraid to go before the people because he has accomplished something, he has a report card.
+
+Based on that report card the people will decide. This government and the president have no intention to stay on a day extra.”
+
+Parties afraid of an election and those who want to destabilise the country were spreading false information about the postponing of elections, Sabry said.
+
+◼️
+
+[Data](articles/43ac9f46.json)
+
+---
+
+### ජාතික ඖෂධ නියාමන අධිකාරියට වසර 9 ක් සපිරේ.
+
+*2024-07-11 15:46:16* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ඖෂධ-නියාමන-අධිකාරියට-වසර-9-ක්-සපිරේ-/11-410741) · `si`
+
+ජාතික ඖෂධ නියාමන අධිකාරියට (NMRA) වසර 9 ක් පිරීම නිමිති කොට ගෙන විශේෂ සැමරුම් උත්සවයක් අද දින (11) සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ ප්‍රධානත්වයෙන් බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලා පරීශ්‍රයේ දී පැවැත්විණි.
+
+2015.07.01 දින ජාතික ඖෂධ නියාමන අධිකාරිය ස්ථාපිත කරන ලද අතර එමගින් ශ්‍රී ලංකාවේ ජාතික ඖෂධ ප්‍රතිපත්තිය අනුගමන කරමින් මහජනතාව සදහා සියලුම වර්ග වල  ඖෂධ, වෛද්‍ය උපකරණ, සීමාස්ථ නිෂ්පාදන සහ විලවුන්හි ගුණාත්මකාභාවය, ආරක්ෂාකාරීව, කාර්යක්ෂම සහ දැරිය හැකි මිලකට පාරිභෝගිකයා වෙත ලබා දීම සිදු කරනු ලබයි.
+
+ඖෂධ ප්‍රතිපත්තිය මෙරටට හදුන්වා දෙමින්, රාජ්‍ය ඔසුසල් සංකල්පය ලෝකයට හදුන්වා දුන් මහාචාර්ය සේනක බිබිලේ මහතාගේ පිලිරුවක් ද,  සෞඛ්‍ය අමාත්‍යවරයා අතින් මෙහිදී නිරාවරණය කරනු ලැබු අතර ඒ මහතා ශ්‍රී ලංකා ඖෂධ නීතිගත සංස්ථාවේ ආරම්භක සභාපතිවරයා ද වේ.
+
+...
+
+[Data](articles/14afc82b.json)
 
 ---
 
@@ -1076,6 +1344,24 @@ United National Party (UNP) general secretary Range Bandara has said that it is 
 
 ---
 
+### Sri Lanka minister invites Singapore business to invest in energy, port, logistics, digital sectors
+
+*2024-07-11 14:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-invites-singapore-business-to-invest-in-energy-port-logistics-digital-sectors-171736/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Foreign Minister Ali Sabry has met with the Singapore business Community and outlined potential investment opportunities in the island, at an event organised by the Singapore Indian Chamber of Commerce and Industry (SICCI).
+
+“He invited Singaporean investors to invest in Sri Lanka, especially in the sectors of renewable energy, port & logistics, and digital economy,” the High Commission of Sri Lanka in Singapore said after the event.
+
+SICCI Chairman and Member of Parliament Neil Parek “expressed readiness to connect their members with Sri Lanka in arranging a business delegation from the Chambers to explore opportunities, acknowledging shared heritage and regional commonalities in South Asia”.
+
+Sabry was on an official visit to Singapore from July 7-9 at the invitation of Minister for Foreign Affairs of Singapore Dr Vivian Balakrishnan.
+
+...
+
+[Data](articles/8f2c0ffd.json)
+
+---
+
 ### Hirunika still released on bail
 
 *2024-07-11 14:57:31* · [`adalk`](https://www.ada.lk/breaking_news/හිරුණිකාට-අදත්-ඇප-නෑ/11-410739) · `si`
@@ -1191,6 +1477,30 @@ If not, he said the executive council would meet today.
 [Data](articles/2847a0cb.json)
 
 [Extended Data](ext_articles/2847a0cb.ext.json)
+
+---
+
+### Sri Lanka to appoint new police unit to safeguard investors
+
+*2024-07-11 14:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-appoint-new-police-unit-to-safeguard-investors-171729/) · `en`
+
+ECONOMYNEXT – Sri Lanka is creating a new Police unit for investment matters, Police Media Spokesman, Nihal Thalduwa said.
+
+“There will be a Police unit covering investment, and we are discussing it with the ministry,” Thalduwa told EconomyNext.
+
+At a meeting held at the Ministry of Investment Promotion Minister Dilum Amunugama had informed the Police about problems investors face.
+
+Thalduwa said that a senior DIG had been appointed two or three months ago to head the unit and that a few officers have been employed.
+
+The special unit, under the leadership of Senior Deputy Inspector General of Police Asanka Karavita, aims to solve problems faced by local and foreign investors in the investment sector.
+
+This unit will be deployed to take action against acts of extortion, and harassing of investors.
+
+Previously, the Sri Lanka Police has entered into agreements with other entities such as the central bank’s Financial Intelligence Unit.
+
+◼️
+
+[Data](articles/b3e49abb.json)
 
 ---
 
@@ -1435,6 +1745,26 @@ With this operation, the operations carried out in 2024 have been carried out by
 [Data](articles/ba735502.json)
 
 [Extended Data](ext_articles/ba735502.ext.json)
+
+---
+
+### Sri Lanka to expand cinnamon cultivation with new department
+
+*2024-07-11 13:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-expand-cinnamon-cultivation-with-new-department-171716/) · `en`
+
+ECONOMYNEXT – Sri Lanka has established a Department of Cinnamon Development in Karandeniya, Galle, and awarded GAP and GI certificates to selected cinnamon entrepreneurs.
+
+“After 200 years, we are re-establishing this department to revive the development of cinnamon cultivation in the country,” President Ranil Wickremesinghe said.
+
+The primary responsibility of the department is to enhance cinnamon production. “Each acre of land should yield maximum productivity, and we should focus on cultivating high-quality cinnamon varieties instead of inferior ones.”
+
+Sri Lanka’s cinnamon cultivation area needs to be expanded, Wickremesinghe said.
+
+“The government proposes providing new land and encouraging the cultivation of cinnamon alongside other crops.” This could increase cinnamon production three to four times, he said.
+
+...
+
+[Data](articles/d4a9e2cc.json)
 
 ---
 
@@ -1997,381 +2327,5 @@ High fever, flowing nose, throat pain, muscle pain, headache, cough, tired feeli
 [Data](articles/aa90cdea.json)
 
 [Extended Data](ext_articles/aa90cdea.ext.json)
-
----
-
-### The murder attempting to be attacked by wildlife
-
-*2024-07-11 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198695) · `si`
-
-A murder investigation began after a message on July 7th indicated a human killing, not an elephant. The victim's mother sought help at a temple, and the body was transported home without any indication of animal involvement. Four suspects, aged 18, 24, 28, and 35, from Mahiyanganaya and Girandurukotte, were arrested for the crime, which stemmed from a personal dispute.
-
-🟩
-
-The police had commenced investigations into a message from the July 07 of July.
-
-It was later revealed that it was not a death of a wild elephant but a human slaughter.
-
-His mother had been looking for the death of the deceased during the night of the night and had been taken to a temple in the area of ​​a wild elephant.
-
-The victim was later brought home with a three-wheeler and the deceased has said that he did not attack a wilderian.
-
-He had informed the Ambulance in the 1990s to hospital with his officials and the person had heard that the man had died.
-
-Investigations have revealed that due to a personal dispute, investigations have been revealed that the deceased had been assaulted and brought to the Devalaya in the area.
-
-Four suspects have been arrested yesterday (10).
-
-The suspects are residents of Mahiyanganaya, Girandurukotte, aged 18, 24, 28 and 35.
-
-◼️
-
-[Data](articles/0869d9a5.json)
-
-[Extended Data](ext_articles/0869d9a5.ext.json)
-
----
-
-### President inaugurates Kompanna Veediya flyover
-
-*2024-07-11 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100437/president-inaugurates-kompanna-veediya-flyover-) · `en`
-
-President Ranil Wickremesinghe inaugurated the second phase of the flyover project today (11). This phase, constructed by the Ministry of Transport and Highways at a cost of LKR 5,278 million, spans between Kompanna Veediya and Justice Akbar Mawatha over the railway line.
-
-The Road Development Authority, in collaboration with Maga Engineering, undertook this project to alleviate the delays and traffic congestion caused by the frequent closing of railway gates for 109 daily train journeys.
-
-In the bustling commercial area of Kompanna Veediya, which hosts various institutions including government offices, hospitals, religious places, restaurants and cinema halls, it has been observed that nearly three hours of the day is wasted due to the closing of railway gates.
-
-...
-
-[Data](articles/08b076ef.json)
-
-[Extended Data](ext_articles/08b076ef.ext.json)
-
----
-
-### A powerful earthquake in the Philippines
-
-*2024-07-11 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198694) · `si`
-
-A strong earthquake struck Minduawi Island in the Philippines, reported to be 630 km deep, causing minimal land damage but prompting authorities to warn residents about potential aftershocks.
-
-🟩
-
-International media reports that there was a powerful earthquake in Minduawi island in the Philippines.
-
-The earthquake is reported about 630 km deep, and the damage is reduced to the land.
-
-But the authorities call for the island trees to be conscious of the later shocks.
-
-◼️
-
-[Data](articles/e93a3234.json)
-
-[Extended Data](ext_articles/e93a3234.ext.json)
-
----
-
-### Adani Group's Mannar Poonakari Wind Power Power Program is not prepared for any concession - government
-
-*2024-07-11 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/188185) · `ta`
-
-The Sri Lankan government reaffirms its commitment to the Mannar Poonakari Wind Power Project, stating no concessions will be made despite environmental concerns. The Ministry of Power and Energy assures measures to mitigate environmental impacts, emphasizing the project's importance for sustainable energy.
-
-🟩
-
-Despite the fact that the environmental impacts have been revealed, the government's highways have said that there is no compromise on the government's wind power generation project.
-
-The government has said that the Ministry of Power and Power and Power and Energy has said that the government is ready to take steps to avoid environmental impacts, saying that no concession is ready for the wind power plant.
-
-The wind power generation project in Mannar, which is set to be formed in Mannar Poonakari, has been issued in the case of the impact of the environment.
-
-The Sri Lankan Energy Authority has sought permission for the project, which will be formed on the Central Asian Fair, which is responsible for the arrival of more than 150 species of birds to Mannar.
-
-However, a top official who has said that the wind power generation is more likely to be in this area, so there is no compromise.
-
-...
-
-[Data](articles/0f9e96e0.json)
-
-[Extended Data](ext_articles/0f9e96e0.ext.json)
-
----
-
-### Sri Lanka approves 13 secondary strategic firms at Port city, including duty free
-
-*2024-07-11 10:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-approves-13-secondary-strategic-firms-at-port-city-including-duty-free-171677/) · `en`
-
-ECONOMYNEXT – Sri Lanka has approved 13 companies as businesses of secondary strategic importance at the Colombo Port City, a government statement said.
-
-The firms will get exemptions and incentives under the Colombo Port City Economic Commission Act No.11 of 2021 specified under Schedule II.
-
-◼️
-
-[Data](articles/2b48e313.json)
-
-[Extended Data](ext_articles/2b48e313.ext.json)
-
----
-
-### India’s Tata Sons to gift 50 ambulances to Sri Lanka’s Suwaseriya, ADB 45
-
-*2024-07-11 10:30:00* · [`economynextcom`](https://economynext.com/indias-tata-sons-to-gift-50-ambulances-to-sri-lankas-suwaseriya-adb-45-171679/) · `en`
-
-ECONOMYNEXT – India’s Tata Sons (Pvt) Ltd has offered to gift 50 ambulances for Sri Lanka’s Suwaseriya paramedic ambulance service and the Asian Development Bank 45, a government statement said.
-
-The cabinet of ministers had decided to take necessary steps to obtain the said ambulances to the 1990 Suwaseriya Foundation.
-
-Suwasariya was started with 297 ambulances from TATA Sons (Pvt) under a grant from the Indian Government in 2016.
-
-At present, 322 of ambulances are operated including 25 ambulances provided by Sri Lanka.
-
-However, due to the demand for the service, 450 ambulances and 25 back-up ambulances are required; there is a dearth of 150 ambulances at present. (Colombo/Jul11/2024)
-
-◼️
-
-[Data](articles/c4507f9d.json)
-
-[Extended Data](ext_articles/c4507f9d.ext.json)
-
----
-
-### 40 hospitalized following bus accident in Nuwara Eliya
-
-*2024-07-11 10:29:32* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑලියේ--බස්-රථ-අනතුරකින්-40ක්-රෝහලේ/11-410737) · `si`
-
-A bus crash near Nuwara Eliya resulted in 40 hospitalizations. The incident involved a bus traveling from Nuwara Eliya to Trincomalee, carrying employees of the Grand Hotel. The accident happened early morning due to sudden braking, leading to injuries, including broken bones. Local residents and police assisted in getting the injured to hospitals. Further investigation is being conducted by the Puttalam Police.
-
-🟩
-
-The Nuwara Eliya District Superintendent of Police Anuruddha Hakmanayake says that a private bus has been operating from Nuwara Eliya to Trincomalee.
-
-The accident occurred at around 5 am, while transporting employee employees in the Grand Hotel, a major tourist hotel in Nuwara Eliya.
-
-The accident had taken place in the highway from the high road to the bus, as the bus brake was driving suddenly.
-
-The injured were hospitalized by residents and the Nuwara Eliya police were hospitalized and several of the injured were the bones.
-
-The Puttalam driver and the assistant of the bus, which is in danger of the accident and the Puttalam Police are conducting further investigations.
-
-◼️
-
-[Data](articles/fa6667a5.json)
-
-[Extended Data](ext_articles/fa6667a5.ext.json)
-
----
-
-### Hirunika’s bail application fixed for consideration
-
-*2024-07-11 10:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100436/hirunikas-bail-application-fixed-for-consideration) · `en`
-
-The Colombo High Court has fixed former Member of Parliament Hirunika Premachandra’s bail application to be taken up for consideration on July 15.
-
-Colombo High Court Judge Amal Ranaraja issued this order following the Attorney General’s submission of objections against the relevant bail application this morning (11).
-
-Former MP Hirunika Premachandra filed an appeal with the Appeals Court, requesting to invalidate the recent verdict issued by the Colombo High Court sentencing her to three years of rigorous imprisonment and seeking her acquittal from the case.
-
-Accordingly, Premachandra’s lawyers also filed a bail application before the Colombo High Court requesting to release her on bail, since an appeal has been filed against the relevant verdict.
-
-The former SJB parliamentarian was sentenced to three years of rigorous imprisonment after being found guilty of being involved in the abduction of a youth in the Dematagoda area on December 21, 2015, using a Defender and his wrongful detention.
-
-...
-
-[Data](articles/49bf0e1b.json)
-
-[Extended Data](ext_articles/49bf0e1b.ext.json)
-
----
-
-### Falling to the country if stuck in lies
-
-*2024-07-11 10:25:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொய்களில்-சிக்கினால்-நாட்டுக்கே-வீழ்ச்சி/175-340212) · `ta`
-
-President Ranil Wickremesinghe inaugurated the Cinnamon Development Department's main office in Galle Karandeniya, emphasizing the importance of a strong economic system to maintain the country's progress. He highlighted the potential risks of economic degradation due to differing views. The event marked the launch of the department, aimed at boosting the cinnamon industry, alongside the release of the "Cinnamon Manual" and certificates for selected entrepreneurs.
-
-🟩
-
-President Ranil Wickremesinghe has said that if the country is not brought forward by the right economic system, the country will lose the successes of the country and some are making various views to degrade the country's economy.
-
-The President said this at the inauguration of the main office of the Cinnamon Development Department in Galle Karandeniya on Wednesday afternoon.
-
-For the first time in this country, the main office was opened today to implement the recommendation put forward by President Ranil Wickremesinghe in the budget of 2023 to establish a new department called the Department of Cinnamon Development.
-
-The official website of the Cinnamon Development Department was also opened by President Ranil Wickremesinghe.
-
-The president was also handed over to the President to promote the Cinnamon Industry and the "Cinnamon Manual" technical publication prepared on the cinnamon work and cinnamon.
-
-...
-
-[Data](articles/50eaf114.json)
-
-[Extended Data](ext_articles/50eaf114.ext.json)
-
----
-
-### 40 injured in bus accident in Nuwara-Eliya
-
-*2024-07-11 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100435/40-injured-in-bus-accident-in-nuwara-eliya-) · `en`
-
-As many as 40 individuals have been injured and hospitalised after a private bus carrying a group of people on an excursion from Nuwara-Eliya to Trincomalee met with an accident in the Toppass area in Labukele, Nuwara-Eliya.
-
-The accident took place at around 5.00 a.m. early this morning (11), the police said.
-
-Police mentioned that the bus had overturned from the upper stretch of the road to the lower stretch in a bend due to the sudden failure of the brakes.
-
-However, 40 out of 41 individuals including the bus driver and the assistant, who were travelling in the bus at the time of the accident, have sustained injuries and were admitted to the Nuwara-Eliya District Hospital, according to police.
-
-◼️
-
-[Data](articles/1ec0253b.json)
-
-[Extended Data](ext_articles/1ec0253b.ext.json)
-
----
-
-### England to final
-
-*2024-07-11 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198692) · `si`
-
-England qualified for the European Cup final against Spain, set to take place in Berlin on Sunday, June 14th.
-
-🟩
-
-England was able to qualify for the final of the European Cup Football Tournament.
-
-This year's tournament will be held in Berlin among Sunday (14), between England and Spain.
-
-◼️
-
-[Data](articles/7d3bdcf4.json)
-
-[Extended Data](ext_articles/7d3bdcf4.ext.json)
-
----
-
-### 13 Indian fishermen arrested
-
-*2024-07-11 10:07:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-இந்திய-மீனவர்கள்-கைது/175-340211) · `ta`
-
-Thirteen Indian fishermen were arrested by the Sri Lankan navy for fishing in Sri Lankan waters near Jaffna. They will be processed by the fisheries department and appear in court.
-
-🟩
-
-Thirteen Indian fishermen were arrested this morning (11) for allegedly fishing in the Sri Lankan waters.
-
-The Sri Lankan navy arrested three Indian fishermen and 13 Indian fishermen who were fishing in the Karainagar seas in Jaffna.
-
-The arrested fishermen will be taken to the port of Mayiliti fishing and handed over to the Jaffna District Fisheries Department of Fisheries and later to be produced at the Kayts Court.. Remble
-
-◼️
-
-[Data](articles/c62cf1ae.json)
-
-[Extended Data](ext_articles/c62cf1ae.ext.json)
-
----
-
-### Two arrested with illegal yellow packs
-
-*2024-07-11 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188180) · `ta`
-
-Two individuals were arrested by the Navy near Pallivasalpadu for smuggling 44kg of illegally imported yellow packs (presumably turmeric) from India to Sri Lanka, valued at over 50 lakh rupees. The suspects, from Kalpitiya, were apprehended during a naval operation. The seized items and the suspects have been transferred to the Puttalam Police Station for further inquiry.
-
-🟩
-
-Two people have been arrested by the Navy with dry yellow packs that have been illegally brought from India.
-
-With the help of the Naval Navy, they were carrying out a surrounding area on the coast of Pallivasalpadu yesterday morning, according to the secret information available to the Navy.
-
-The Navy said that about 44 of the 44 speeches had been seized in 44 speeches in the Tinky boat and two persons were arrested on suspicion.
-
-During the investigation, the navy said that the seized yellow packs were illegally brought to India without permission to Sri Lanka.
-
-Navy said the two suspects were from the Kalpitiya area.
-
-The seized turmeric is worth more than 50 lakh rupees.
-
-The Navy said that the arrested suspect and the seized yellow packs and the dingi boat have been handed over to the Puttalam Police Station for further investigations.
-
-◼️
-
-[Data](articles/a5e90ddf.json)
-
-[Extended Data](ext_articles/a5e90ddf.ext.json)
-
----
-
-### Did a police officer who had committed suicide by Ruwanweli Pattu Patt?
-
-*2024-07-11 09:58:39* · [`adalk`](https://www.ada.lk/breaking_news/රුවන්වැලි-සෑ-බිමේ-ආරක්ෂාවට-සිටි-පොලිස්-නිළධාරියකු-සිය-දිවි-නසා-ගත්තාද-/11-410736) · `si`
-
-A 55-year-old police sergeant from Anuradhapura, in charge of the local police station, committed suicide under the Ruwanweli Pattu. Identified as Jayatilleka, he was part of the Udamaluwa Police sub-unit. The incident is being investigated by Udamaluwa Police, including Chief Inspector Channa Wattawa.
-
-🟩
-
-A 55-year-old police sergeant who was in charge of the police station in Anuradhapura, Ruwanweli Maharashi.
-
-The deceased has been identified as Jayatilleka (55) in the Bulanankulama Estate (55) attached to the sub-police unit at Udamaluwa Police.
-
-The sergeant was in charge of the Ravanample Seya, police said.
-
-Udamaluwa OIC Chief Inspector Channa, Chief Inspector Channa Wattawa, Chief Inspector General of Police (11).
-
-Udamaluwa Police are conducting further investigations into a shooting.
-
-◼️
-
-[Data](articles/db5c5cf9.json)
-
-[Extended Data](ext_articles/db5c5cf9.ext.json)
-
----
-
-### To entertain those who drink alcohol
-
-*2024-07-11 09:56:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மது-அருந்துபவர்களை-மகிழ்விக்க-வேண்டும்/175-340209) · `ta`
-
-Samara Sampath, Minister of State for Industry, urged alcohol consumers for support amidst rising liquor prices, aiming to reduce costs and enhance their entertainment. She highlighted the impact of price hikes on legal sales and illegal production, citing a loss of 50 billion rupees by the Department of Liquor in Q1. The issue also led to five fisherman deaths from consuming toxic sea water, emphasizing the need for price reduction and consumer protection.
-
-🟩
-
-Minister of State for Industry Samara Sampath appealed to the people who drink alcohol because of the problems of the wife and seek to reducing the prices of liquor and entertaining the people who drink alcohol.
-
-Speaking at a debate on the Gazette Notification on the Gazette Notification on Wednesday (10) in Parliament, the Liquor Tax Ordinance and Export and Import Control Act, he said.
-
-Illegal leakage production has intensified due to the increase in prices of liquor.
-
-The Department of Liquor has lost 50 billion rupees in the first quarter of this year due to the increase in prices of liquor.
-
-They drink alcohol because of the fact that the whole population is drinking 60 lakhs of alcohol. They are drinking alcohol.
-
-The question of liquor consumption has declined and illegal alcohol production has increased.. Five fishermen have been killed by drinking the liquid floating in the sea due to the increase in prices.
-
-◼️
-
-[Data](articles/57064e21.json)
-
-[Extended Data](ext_articles/57064e21.ext.json)
-
----
-
-### Attack on the office of the United National Party in Dambulla
-
-*2024-07-11 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188179) · `ta`
-
-The United National Party's office in Dambulla suffered significant damage from an attack. General Secretary Palitha Range Bandara reported the incident to Dambulla police, who are now investigating.
-
-🟩
-
-United National Party General Secretary Palitha Range Bandara said that the office and all the posts in the attack were massively damaged.
-
-He added that he has lodged a complaint with the Dambulla police regarding the attack and that they are actively investigating the incident.
-
-◼️
-
-[Data](articles/e73cd103.json)
-
-[Extended Data](ext_articles/e73cd103.ext.json)
 
 ---

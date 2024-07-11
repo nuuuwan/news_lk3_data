@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 06:02:09**
+As of **2024-07-11 07:01:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,686 (100.0%) of 34,698 articles have been extended.
+34,693 (100.0%) of 34,698 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -688,6 +688,8 @@ Once the time is up, rinse your face with lukewarm water to remove the mask comp
 
 [Data](articles/11f413aa.json)
 
+[Extended Data](ext_articles/11f413aa.ext.json)
+
 ---
 
 ### New Sri Lankan initiative celebrates expats for fostering Saudi ties
@@ -720,6 +722,8 @@ Hayleys Solar, the renewable energy arm of Hayleys Fentons, is empowering Sri La
 
 [Data](articles/9c619746.json)
 
+[Extended Data](ext_articles/9c619746.ext.json)
+
 ---
 
 ### ComBank Bangladesh operations receive ‘AAA’ credit rating for 14th successive year
@@ -734,6 +738,8 @@ Valid till June 2025, the latest credit rating is the outcome of an in-depth ana
 
 [Data](articles/90768b15.json)
 
+[Extended Data](ext_articles/90768b15.ext.json)
+
 ---
 
 ### SriLankan Airlines introduces eco-friendly amenities in Business Class
@@ -747,6 +753,8 @@ The new amenities are sourced from Procurall Solutions, a leader in designing an
 ...
 
 [Data](articles/e51f5617.json)
+
+[Extended Data](ext_articles/e51f5617.ext.json)
 
 ---
 
@@ -763,6 +771,8 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 ...
 
 [Data](articles/7998886e.json)
+
+[Extended Data](ext_articles/7998886e.ext.json)
 
 ---
 

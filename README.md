@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 08:23:59**
+As of **2024-07-11 08:35:24**
 
 ## Newspaper Stats
 
-*Scraped **34,705** Articles*
+*Scraped **34,708** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,049
 dailyftlk | 2,183
 adalk | 3,127
 adaderanalk | 3,988
-tamilmirrorlk | 4,139
+tamilmirrorlk | 4,142
 dailymirrorlk | 4,733
 virakesarilk | 5,422
 adaderanasinhalalk | 5,769
@@ -26,21 +26,67 @@ adaderanasinhalalk | 5,769
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,703 (100.0%) of 34,705 articles have been extended.
+34,705 (100.0%) of 34,708 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
+### 35 ரயில்களை சேவையில் ஈடுபடுத்த நடவடிக்கை
+
+*2024-07-11 08:23:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/35-ரயில்களை-சேவையில்-ஈடுபடுத்த-நடவடிக்கை/175-340199) · `ta`
+
+தொழிற்சங்க நடவடிக்கை இன்றைய தினமும் தொடரும் எனத் ரயில்  நிலைய அதிபர்கள் சங்கம் தெரிவித்துள்ளது.
+
+இந்த தொழிற்சங்க நடவடிக்கை காரணமாக பொதுப் பயணிகள் பாரிய அசௌகரியங்களை நேற்று எதிர்நோக்கியிருந்தனர்.
+
+இதேவேளை, ரயில் நிலைய அதிபர்களின் தொழிற்சங்கப் போராட்டத்திற்கு மத்தியில் அலுவலகத் ரயில்கள் உள்ளிட்ட 35 ரயில் பயணங்கள் இடம்பெறுவதாகத் ரயில்வே பிரதி பொது முகாமையாளர் என்.ஜே இந்திபொலகே தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/70f3d5ff.json)
+
+---
+
+### பொலிஸ் அதிகாரியின் விபரீத முடிவு
+
+*2024-07-11 08:22:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-அதிகாரியின்-விபரீத-முடிவு/175-340198) · `ta`
+
+அனுராதபுரம் - ருவன்வெலிசாய பொலிஸ் காவல் அரனில் சேவையாற்றிய பொலிஸ் சார்ஜன்ட் ஒருவர் தன்னைத்தானே துப்பாக்கியால் சுட்டு தற்கொலை செய்துகொண்டுள்ளார்.
+
+◼️
+
+[Data](articles/763009dd.json)
+
+---
+
+### நுவரெலியாவில் பேருந்து விபத்து - 37 பேர் படுகாயம்
+
+*2024-07-11 08:18:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-பேருந்து-விபத்து-37-பேர்-படுகாயம்/76-340197) · `ta`
+
+நுவரெலியா - டொப்பாஸ் பகுதியில் சுற்றுலா சென்ற பேருந்து ஒன்று விபத்திற்குள்ளனாதில் 37 பேர் காயமடைந்துள்ளனர்.
+
+◼️
+
+[Data](articles/63fada37.json)
+
+---
+
 ### Police Sergeant fatally shoots himself with service weapon
 
 *2024-07-11 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100434/police-sergeant-fatally-shoots-himself-with-service-weapon) · `en`
 
-A 55-year-old Police Sergeant on duty at the police post in the Ruwanweli Maha Seya in Anuradhapura has reportedly taken his own life by shooting himself with his service weapon last night.
+A Police Sergeant on duty at the police post in the Ruwanweli Maha Seya in Anuradhapura has reportedly taken his own life by shooting himself with his service weapon last night.
+
+If you or someone you know is in crisis and needs help, resources are available for immediate support:
+
+- For emergencies contact the National Mental Health Helpline 1926
 
 ◼️
 
 [Data](articles/b409c7dc.json)
+
+[Extended Data](ext_articles/b409c7dc.ext.json)
 
 ---
 
@@ -61,6 +107,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/71c198d7.json)
+
+[Extended Data](ext_articles/71c198d7.ext.json)
 
 ---
 
@@ -2195,77 +2243,5 @@ If a meter is asking for a meter, you can get the facts such as releasing it. "
 [Data](articles/8d82c553.json)
 
 [Extended Data](ext_articles/8d82c553.ext.json)
-
----
-
-### Final decision on lifting vehicle import ban in August – State Minister
-
-*2024-07-10 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100421/final-decision-on-lifting-vehicle-import-ban-in-august-state-minister) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya stated that the final decision regarding the lifting of the restrictions on vehicle imports will be taken in the second week of August.
-
-The State Minister pointed out that the committee appointed to look into the matter met recently and agreed to submit the final report to the Cabinet within the second week of August.
-
-Siyambalapitiya mentioned that accordingly, it will be able to import vehicles according to the country’s revenue situation while prioritising the needs of the people.
-
-The Finance State Minister further expressed that the imports will begin from public transport vehicles, goods transport vehicles, alternative vehicles, public vehicles and then the private vehicles, subject to regulations.
-
-He also said that the Cabinet of Ministers has approved the import of 1,000 vehicles for the tourism sector and that none of those vehicles have been imported thus far.
-
-...
-
-[Data](articles/732106ac.json)
-
-[Extended Data](ext_articles/732106ac.ext.json)
-
----
-
-### I didn't know anything - the glan holiday
-
-*2024-07-10 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198672) · `si`
-
-Businessman Surendra Wasantha Perera, also known as Club Wasantha, was killed on July 8th at a Tatu Center. The incident left his wife and another person injured. Seven suspects, aged between 24 and 37, have been arrested in connection with the case. The investigation focuses on the involvement of registered vehicles and the motive behind the attack.
-
-🟩
-
-Police are further busy the seven suspects arrested in connection with the business of the Club Wasantha alias, Suresra Wasantha Perera.
-
-The investigation was operating on the registered vehicles, led by the murderers.
-
-The businessman, Surendra Wasantha Perera, or Club, was shot dead in a Tatu Center on July 08.
-
-The famous singer kin. Nayana Vasasula, the husband of Sujeewa, died and K.Sishewa, Club Wasantha's wife and a man were injured and injured.
-
-The Western Sanjula, the owner of the Tattout Center, was arrested by the Western Sunnel, the Western Sunner, South Criminal Division.
-
-The owner of the TATO Center had said that the big Phick named big patient had been given a sum of Rs.
-
-After granting the money, the large patio was informed to invite the TATOs Center, and the owner of the TTO Center has convinced that the TATTER HASTRIA is not known to Karb Wasantha.
-
-...
-
-[Data](articles/9e7dea5b.json)
-
-[Extended Data](ext_articles/9e7dea5b.ext.json)
-
----
-
-### Detention ratings for kaduwela - Spring murder suspects
-
-*2024-07-10 14:03:27* · [`adalk`](https://www.ada.lk/breaking_news/කඩුවෙලට-විශේෂ-ආරක්ෂාවක්---වසන්ත-ඝාතනයේ-සැකකරුවන්ට-රැඳවුම්-නියෝග/11-410719) · `si`
-
-Suspects linked to the Club Wasantha murders, including a police officer and the owner of Taboo Center, face charges. The Special Task Force (STF) is involved, and all seven suspects will appear in court today.
-
-🟩
-
-The suspects who supported the murder of Club Wasantha murder were suspicious of a group of suspects, a suspicious police officer who was assaulted in the surrounding area.
-
-The STF officials have also been deployed for this purpose.The seven suspects including the owner of the Taboo Center that supported the double murder and the seven suspects will be produced before the Kaduwela Magistrate's Court today (48).
-
-◼️
-
-[Data](articles/96194137.json)
-
-[Extended Data](ext_articles/96194137.ext.json)
 
 ---

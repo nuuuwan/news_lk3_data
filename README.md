@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 11:19:54**
+As of **2024-07-11 11:35:22**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,776
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,732 (100.0%) of 34,736 articles have been extended.
+34,736 (100.0%) of 34,736 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### කොළඹ - අවිස්සාවේල්ල මාර්ගයට ගසක අත්තක් කඩා වැටෙයි
+### A branch in a tree crashes into Avissawella road
 
 *2024-07-11 11:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198696) · `si`
 
-කොළඹ  අවිස්සාවේල්ල ලෝ -ලෙවල් මාර්ගයට රණාල සුදවිල ප්‍රදේශයේ දී බෝ ගසක අත්තක් කඩාවැටීම හේතුවෙන් මාර්ගයේ ගමනාගමන කටයුතු සඳහා බාධා එල්ල වී ඇතැයි නවගමුව පොලීසිය පවසයි.
+In Avissawella, a tree branch crashed onto a road, disrupting a local shop. The Navagamuwa Police intervened, stopping heavy vehicles near Wewali Junction and Siyambala to prevent further damage.
 
-බෝ අත්ත කඩා වැටීම නිසාවෙන් ප්‍රදේශයේ විදුලි කණු ගණනාවකට හානි සිදුව ඇති අතර මේ හේතුවෙන් එම ප්‍රදේශයට විදුලිය විසන්ධි වී ඇති බවද පොලීසිය පැවසීය.
+🟩
 
-මේ හේතුවෙන් එම මාර්ගය වෑවිල හන්දියෙන් සහ සියඹලා ගස් හන්දියෙන් තාවකාලික බර වාහන යාම නවතා දැමීමටද පොලීසිය කටයුතු කර තිබුණි.
+The Navagamuwa Police say that the shop of a branch of a breeding tree in the Ranala Sabadu area in Colombo has been disrupted due to a branch of a breeding tree in the Ranala Skalwila area.
+
+The police said that due to the collapse of the breeding of the breed, the police said.
+
+As a result, the police had taken steps to stop temporary weight vehicles from Wewali Junction and Siyambala trees junds.
 
 ◼️
 
 [Data](articles/4996b17c.json)
+
+[Extended Data](ext_articles/4996b17c.ext.json)
 
 ---
 
@@ -64,29 +70,39 @@ As per the WHO, Influenza spreads easily between people when they cough or sneez
 
 [Data](articles/c76ca82c.json)
 
+[Extended Data](ext_articles/c76ca82c.ext.json)
+
 ---
 
-### වනඅලි පහරදීමක් යැයි පවසා සැඟවීමට තැත් කළ ඝාතනය
+### The murder attempting to be attacked by wildlife
 
 *2024-07-11 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198695) · `si`
 
-මහියංගනය පොලිස් වසමේ කිරලමුල්ල ප්‍රදේශයේ වනඅලියෙකු පහරදිමෙන් පුද්ගලයෙකු මිය ගොස් ඇති බවට පොලීසියට ජූලි (07) වනදා ලැබුණු පණිවුඩයක් මත විමර්ශන ආරම්භ කර තිබුණි.
+A murder investigation began after a message on July 7th indicated a human killing, not an elephant. The victim's mother sought help at a temple, and the body was transported home without any indication of animal involvement. Four suspects, aged 18, 24, 28, and 35, from Mahiyanganaya and Girandurukotte, were arrested for the crime, which stemmed from a personal dispute.
 
-පසුව අනාවරණය වී ඇත්තේ එය වනඅලි ප්‍රහාරයකින් සිදු වූ මරණයක් නොව එය මනුෂ්‍ය ඝාතනයක් බවත්ය.
+🟩
 
-සිද්ධිය සිදු වූ දින රාත්‍රී කාලයේදී මියගිය පුද්ගලයා නිවසට නොපැමිණීම නිසා ඔහුගේ මව ඒ සම්බන්ධයෙන් සොයා බලා ඇති අතර ඔහු වනඅලියෙකු පහරදී තුවාල ලබා ප්‍රදේශයේ පිහිටි දේවාලයකට ගෙනවිත් ඇති බවට ආරංචි වී තිබුණි.
+The police had commenced investigations into a message from the July 07 of July.
 
-පසුව මරණකරුගේ මව ත්‍රීරෝද රථයකින් සිය පුතු නිවසට ගෙන්වා ගෙන ඇති අතර එහිදී මරණකරු පවසා ඇත්තේ තමාට වනඅලියෙකු පහර නොදුන් බවය.
+It was later revealed that it was not a death of a wild elephant but a human slaughter.
 
-ඔහුව රෝහල්ගත කිරීම සඳහා 1990 ගිලන් රථ සේවයට දැනුම් දී ඇති අතර එහි නිලධාරීන් පැමිණ ඔහුව පරීක්ෂා කර එම පුද්ගලයා මිය ගොස් ඇති බව නිවැසියන්ට දැනුම් දී තිබුණි.
+His mother had been looking for the death of the deceased during the night of the night and had been taken to a temple in the area of ​​a wild elephant.
 
-පුද්ගලික ආරවුලක් හේතුවෙන් පිරිසක් විසින් මරණකරුට පහරදීමක් සිදු කර පසුව ප්‍රදේශයේ දේවාලය වෙත රැගෙනවිත් ඇති බවට විමර්ශනවලදී අනාවරණය කර ගැනීමට හැකිවූ බව පොලීසිය පැවසීය.
+The victim was later brought home with a three-wheeler and the deceased has said that he did not attack a wilderian.
 
-සිද්ධිය සම්බන්ධයෙන් සැකකරුවන් සිව්දෙනෙකු ඊයේ (10) දින අත්අඩංගුවට ගෙන තිබේ.
+He had informed the Ambulance in the 1990s to hospital with his officials and the person had heard that the man had died.
 
-...
+Investigations have revealed that due to a personal dispute, investigations have been revealed that the deceased had been assaulted and brought to the Devalaya in the area.
+
+Four suspects have been arrested yesterday (10).
+
+The suspects are residents of Mahiyanganaya, Girandurukotte, aged 18, 24, 28 and 35.
+
+◼️
 
 [Data](articles/0869d9a5.json)
+
+[Extended Data](ext_articles/0869d9a5.ext.json)
 
 ---
 
@@ -105,6 +121,8 @@ In order to avoid the delay, the construction work of this project, which is imp
 ◼️
 
 [Data](articles/08b076ef.json)
+
+[Extended Data](ext_articles/08b076ef.ext.json)
 
 ---
 

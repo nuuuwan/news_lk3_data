@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 14:20:52**
+As of **2024-07-11 14:35:23**
 
 ## Newspaper Stats
 
-*Scraped **34,760** Articles*
+*Scraped **34,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ colombotelegraphcom | 324
 bbccomsinhala | 340
 newsfirstlk | 363
 islandlk | 1,957
-economynextcom | 2,053
+economynextcom | 2,055
 dailyftlk | 2,183
 adalk | 3,134
-adaderanalk | 3,995
+adaderanalk | 3,996
 tamilmirrorlk | 4,156
 dailymirrorlk | 4,733
 virakesarilk | 5,427
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,760 (100.0%) of 34,760 articles have been extended.
+34,760 (100.0%) of 34,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### ‘Club Wasantha’ murder: Tattoo studio owner requests confidential statement, court orders enhanced prison security for suspects
+
+*2024-07-11 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100443/club-wasantha-murder-tattoo-studio-owner-requests-confidential-statement-court-orders-enhanced-prison-security-for-suspects) · `en`
+
+The tattoo studio owner Surendra Wasantha Perera, who was arrested in connection with the shooting incident in Athurugiriya, which claimed the lives of businessman Surendra Wasantha Perera alias ‘Club Wasantha’ and another person, has requested permission to make a confidential statement to the Kaduwela Magistrate.
+
+The suspect has made this request when the seven suspects arrested in relation to the incident were produced before the court on Wednesday (10).
+
+However, the Kaduwela Magistrate has advised the suspect in question to rethink the decision and make the request again during an upcoming court date.
+
+Meanwhile, the police requested the court for permission to detain the seven suspects for 48 hours for further interrogations.
+
+The Kaduwela Magistrate, who rejected the request, ordered the suspects to be remanded in custody until July 22.
+
+...
+
+[Data](articles/693c70ec.json)
+
+---
 
 ### CID charged with Diana
 
@@ -208,6 +228,24 @@ Susil Premajayantha said that the video was publicly broadcast if the video woul
 
 ---
 
+### India to assist with STEM teaching in Sri Lanka’s plantation sector
+
+*2024-07-11 12:42:00* · [`economynextcom`](https://economynext.com/india-to-assist-with-stem-teaching-in-sri-lankas-plantation-sector-171718/) · `en`
+
+ECONOMYNEXT – India will send 30 teaching experts later this month to train local teachers for Science, Technology, Engineering, and Maths (STEM) in the plantation sector for three months, Estate Infrastructure Development Minister Jeevan Thondaman said.
+
+In November last year, Indian Finance Minister Nirmala Sitharaman during her visit to the island nation’s central province promised to send teacher trainers to improve the education standards in the plantation sector to meet growing needs and aspirations of Sri Lanka’s up country Tamil students.
+
+Upcountry Tamils are also referred as Indian Origin Tamil (IOT) as their ancestors were brought by British colonial rulers from India to work in Sri Lanka’s plantation.
+
+Political leaders in plantation sectors time to time have demanded better services in education and health for their community which primarily works and live tea plantations in Sri Lanka’s up country.
+
+...
+
+[Data](articles/9860d7f1.json)
+
+---
+
 ### Approval of the Leadership Council to the Leadership Council
 
 *2024-07-11 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198699) · `si`
@@ -227,6 +265,26 @@ Mr. Mawatha, Ranasinghe is a son of the former Chief Justice of the country.
 [Data](articles/22e75ecd.json)
 
 [Extended Data](ext_articles/22e75ecd.ext.json)
+
+---
+
+### Sri Lanka Hayleys subsidiary signs with BoI to export coconut water concentrate
+
+*2024-07-11 12:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-hayleys-subsidiary-signs-with-boi-to-export-coconut-water-concentrate-171703/) · `en`
+
+ECONOMYNEXT – Hayleys Nature Nest (PVT) Ltd, a newly incorporated subsidiary of Hayleys Plc, has signed an agreement with Sri Lanka’s Board of Investment to produce frozen concentrated coconut water for the export market.
+
+“Hayleys Nature Nest (PVT) Ltd has signed an agreement with BoI to establish a project to produce frozen concentrated coconut water for the export market, with an investment of US$5.378 million,” the BoI said on social media platform X (twitter).
+
+Sri Lanka is the fourth-largest exporter of coconut products to the world, according to its Export Development Board. “Among the most popular Sri Lankan coconut exports to the global market are desiccated coconut, virgin coconut oil and coconut water,” it said.
+
+Sri Lanka earns 3.4bn from coconut water export in Feb: Minister
+
+Coconut accounts for approximately 12 percent of agricultural produce in the island, with the total land area under cultivation covering 409,244 hectares.
+
+...
+
+[Data](articles/d778d20a.json)
 
 ---
 
@@ -502,15 +560,13 @@ The suspects are residents of Mahiyanganaya, Girandurukotte, aged 18, 24, 28 and
 
 *2024-07-11 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100437/president-inaugurates-kompanna-veediya-flyover-) · `en`
 
-President Ranil Wickremesinghe inaugurated the flyover connecting Kompanna Veediya and Justice Akbar Mawatha, a short while ago in the presence of the Ministry of Transport and Highways, the President’s Media Division (PMD) said.
+President Ranil Wickremesinghe inaugurated the second phase of the flyover project today (11). This phase, constructed by the Ministry of Transport and Highways at a cost of LKR 5,278 million, spans between Kompannavidiya and Justice Akbar Mawatha over the railway line.
 
-The rest of the construction work of this project is planned to be completed by the month of September, and the estimated amount for the entire project is Rs. 5,278,081,272.43, the PMD reported.
+The Road Development Authority, in collaboration with Maga Engineering, undertook this project to alleviate the delays and traffic congestion caused by the frequent closing of railway gates for 109 daily train journeys.
 
-It has been observed that nearly 3 hours of time is wasted daily due to the railway crossing located in Kompanna Veediya area, which is a very busy commercial city with various institutions including government offices, hospitals, religious places, restaurants and movie theatres.
+In the bustling commercial area of Kompannavidiya, which hosts various institutions including government offices, hospitals, religious places, restaurants and cinema halls, it has been observed that nearly three hours of the day is wasted due to the closing of railway gates.
 
-In order to avoid the delay, the construction work of this project, which is implemented by the Road Development Authority, is being carried out by Maga Engineering Company, the PMD said in a statement.
-
-◼️
+...
 
 [Data](articles/08b076ef.json)
 
@@ -2227,81 +2283,5 @@ His wife is currently hospitalized and hospitalized by the shooting.
 [Data](articles/acc0b831.json)
 
 [Extended Data](ext_articles/acc0b831.ext.json)
-
----
-
-### 272 train traveling was invalid yesterday
-
-*2024-07-10 20:05:00* · [`adalk`](https://www.ada.lk/breaking_news/ඊයේ-දුම්රිය-ගමන්වාර-272ක්-අවලංගුයි/11-410734) · `si`
-
-Yesterday, 272 out of 295 planned train services were disrupted due to a strike initiated by railway officers. The strike aimed to address issues like vacancy filling, promotion, and other grievances. Passengers faced difficulties as ticket sales, including parcel services, were halted, affecting rail traffic and fuel transportation. Security forces ensured station safety during the unrest, but the situation remains unresolved.
-
-🟩
-
-About 272 train services to be operated by the Strategies and Railway Controls yesterday (10) were to operate from the strike.
-
-The sub-Railp Railway Officers were also opened yesterday afternoon, supporting the operation of 295 train services yesterday (10).
-
-The trade union states that the trade union states that this trade proceedings began to complete vacancies and to promote promotions for five years and several other problems.
-
-The strike tickets have been stopped by the strike tickets, including the parcels, and the railway traffic has been interrupted from the night and the aircraft fuel and the transport of the train.Other fuel transport has even stopped.
-
-The passengers were severely hardship yesterday (10th), the passengers were severely difficult to use the security forces for the security of the stations.The train department has been informed, the trade union action has not yet overcomes.
-
-◼️
-
-[Data](articles/82756ffe.json)
-
-[Extended Data](ext_articles/82756ffe.ext.json)
-
----
-
-### Railway strike laid down
-
-*2024-07-10 20:01:36* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-වර්ජනය-පළමු-බිල්ල-ගනියි/11-410733) · `si`
-
-A railway strike has occurred, resulting in one fatality near Bemmulla station due to a fall from a train. Services between Colombo Fort and Polgahawela stations have been disrupted.
-
-🟩
-
-One person has died near the Bemmulla railway station by falling from the train.
-
-The train should be opened from Colombo Fort to Polgahawela railway station.
-
-◼️
-
-[Data](articles/7f98b492.json)
-
-[Extended Data](ext_articles/7f98b492.ext.json)
-
----
-
-### The victories have been lost if the country did not move forward through a correct economic system
-
-*2024-07-10 19:54:54* · [`adalk`](https://www.ada.lk/breaking_news/රට-නිවැරදි-ආර්ථික-ක්‍රමයක්-ඔස්සේ-ඉදිරියට-ගෙන-නොගියහොත්-ලැබු-ජයග්‍රහණ-නැති-වෙනවා/11-410732) · `si`
-
-In his speech at the Cinnamon Development Department's launch, President Ranil Wickremesinghe emphasized the importance of a sound economic system for national progress. He highlighted the creation of a new department focused on cinnamon development as a step towards boosting the economy. The President outlined plans to enhance cinnamon cultivation, increase production, and expand the cultivation area, aiming to triple cinnamon exports. He also addressed the need for a shift from an import to an export economy to prevent future financial crises.
-
-🟩
-
-He stressed that if the victories were repeatedly lost to the country through a correct economic system, he said that if he was pronounced in the country, the economy of the country would be repeatedly rebuilt.
-
-The President was speaking at the opening of the Head Office of the Cinnamon Development Department, Galle today (10).
-
-For the first time in Sri Lanka, President Ranil Wickremesinghe made a reality to establish a new department with cinnamon development in the 2023 budget.
-
-President Ranil Wickremesinghe was also launched the official website of the Cinnamon Development Department.
-
-The President was presented to the President the "cinnamon bowl" in connection with the ten year road map and cinnamon cultivation, which was prepared for the promotion of the cinnamon industry.
-
-President Ranil Wickremesinghe was presented to selected cinnamon entrepreneurs.
-
-Speaking further, President Ranil Wickremesinghe further said,
-
-...
-
-[Data](articles/fa52b2ff.json)
-
-[Extended Data](ext_articles/fa52b2ff.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 11:55:05**
+As of **2024-07-11 12:08:06**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,776
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,736 (100.0%) of 34,745 articles have been extended.
+34,745 (100.0%) of 34,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### பாடம் எழுதாததால் பல்லை உடைத்த ஆசிரியர்
+### The teacher who broke the teeth because the lesson was not written
 
 *2024-07-11 11:40:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடம்-எழுதாததால்-பல்லை-உடைத்த-ஆசிரியர்/175-340223) · `ta`
 
-வீட்டுப் பாடம் எழுதாத மாணவரின் பல்லை உடைத்து கடுமையாக தாக்கியதில் மாணவர் மயக்கமடைந்த சம்பவமொன்று உத்தர பிரதேசத்தில் இடம்பெற்றுள்ளது. .
+In Uttar Pradesh, a 10th-grade student was assaulted by her science teacher over an unfinished home assignment. The incident occurred when the student, returning from summer holidays, mentioned personal issues preventing her from completing the work. The teacher responded violently, breaking the student's tooth and causing her to fall. Shocked, the teacher fled but was later arrested based on parental complaints. The student recovered and returned home.
 
-ரேபரேலி மாவட்டத்தில் உள்ள தனியார் பள்ளியில் 10-ஆம் வகுப்பு படிக்கும் மாணவருக்கு  ஏப்ரல் மாதம் கோடை விடுமுறைக்கு முன்பு வீட்டுப் பாடம் அளிக்கப்பட்டுள்ளது.
+🟩
 
-இந்நிலையில், விடுமுறை முடிந்து செவ்வாய்க்கிழமை பாடசாலைக்குத் திரும்பிய மாணவரிடம் அறிவியல் ஆசிரியர், வீட்டுப் பாடங்களை கேட்டுள்ளார்.
+An incident in Uttar Pradesh has taken place in the absence of a student who has not written a home lesson. .
 
-தனிப்பட்ட காரணங்களால் வீட்டுப் பாடம் எழுத முடியவில்லை என்று மாணவர் தெரிவித்த நிலையில், ஆத்திரம் அடைந்த ஆசிரியர், மாணவரின் வாய் மற்றும் முகத்தில் பலமாக தாக்கியுள்ளார். இதில், மாணவரின் பல் உடைந்த நிலையில், தரையில் மயங்கி விழுந்துள்ளார்.
+A 10th grade student in a private school in Rabareli district has been given a home lesson before the summer holidays in April.
 
-இதைக் கண்டு அதிர்ச்சி அடைந்த ஆசிரியர் பாடசாலையில் இருந்து தப்பிச் சென்றுள்ளார். உடனடியாக சக மாணவர்கள் பாடசாலை முதல்வரிடம் தெரிவிக்க மயக்கமடைந்த மாணவரை மருத்துவமனையில் சிகிச்சைக்காக அனுமதித்துள்ளனர். பெற்றோர் அளித்த புகாரின் அடிப்படையில், ஆசிரியர் கைது செய்யப்பட்டுள்ளார். சிகிச்சைகளை முடித்துக்கொண்டு மாணவன் வீடு திரும்பியுள்ளார்.
+In this case, the student who returned to school on Tuesday after the holidays has asked the science teacher and asked for homework.
+
+The angry teacher has struck the student's mouth and face, as the student said she could not write a home lesson due to personal reasons. In this, the student's tooth is broken and he fell on the ground.
+
+Shocked by this, the teacher escaped from school. Immediately, fellow students were admitted to the hospital for treatment of a student who was unconscious to report to the school principal. Based on the complaint filed by the parents, the teacher has been arrested. The student has returned home after completing treatment.
 
 ◼️
 
 [Data](articles/6dc93303.json)
+
+[Extended Data](ext_articles/6dc93303.ext.json)
 
 ---
 
@@ -68,23 +74,31 @@ However, in response to the relevant allegations, President’s Secretary Saman 
 
 [Data](articles/4595d3e1.json)
 
+[Extended Data](ext_articles/4595d3e1.ext.json)
+
 ---
 
-### கொழும்பு - அவிசாவளை வீதியின் போக்குவரத்து தடை
+### Traffic on Colombo - Avissawella Road
 
 *2024-07-11 11:30:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-அவிசாவளை-வீதியின்-போக்குவரத்து-தடை/175-340222) · `ta`
 
-கொழும்பு - அவிசாவளை லோ லெவல் வீதியின் ரணால, சுடவில பிரதேசத்தில் அரச மரத்தின் கிளையொன்று முறிந்து வீழ்ந்ததன் காரணமாக குறித்த வீதியின் போக்குவரத்து தடைப்பட்டுள்ளதாக நவகமுவ பொலிஸார் தெரிவித்தனர்.
+Traffic on Colombo-Avissawella Road is disrupted due to a collapsed state tree near Ranala and Sudavila, causing power outages and damaging wires. Heavy vehicles are suspended at certain junctions, and locals and police are clearing branches.
 
-இதன் காரணமாக அப்பகுதியில் உள்ள பல மின்கம்பங்கள் சேதமடைந்து மின்சாரம் துண்டிக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது .
+🟩
 
-இதனால் வேவிலைச் சந்தி மற்றும் சியாம்பலா கஸ் சந்தியிலிருந்து கனரக வாகனங்கள் செல்வதைத் தற்காலிகமாக நிறுத்தவும் பொலிஸார் நடவடிக்கை எடுத்துள்ளனர் .
+Navagamuwa police said that the traffic of the state tree has been blocked due to a collapse of a state tree in Ranala and Sudavila area on Low Level Road, Colombo - Avissawella.
 
-மேலும் , அப்பகுதி மக்களும், பொலிஸாரும் இணைந்து கிளைகளை வெட்டி அகற்றும் பணியில் ஈடுபட்டுள்ளமை குறிப்பிடத்தக்கது .
+Due to this, many wires in the area have been damaged and the power has been cut off.
+
+The police have also taken steps to suspend heavy vehicles from Velvil Junction and Siambala Kas junction.
+
+It is also noteworthy that the people of the area and the police are working to cut off the branches.
 
 ◼️
 
 [Data](articles/80fd42b3.json)
+
+[Extended Data](ext_articles/80fd42b3.ext.json)
 
 ---
 
@@ -103,6 +117,8 @@ The Philippines is in the Pacific ‘Ring of Fire’, where volcanic activity an
 ◼️
 
 [Data](articles/56355084.json)
+
+[Extended Data](ext_articles/56355084.ext.json)
 
 ---
 
@@ -148,17 +164,23 @@ As per the WHO, Influenza spreads easily between people when they cough or sneez
 
 ---
 
-### சிறுவர்கள் கவனம்
+### Focus on the boys
 
 *2024-07-11 10:57:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்கள்-கவனம்/175-340217) · `ta`
 
-சிறுவர்கள் மத்தியில் இன்ஃபுளுவென்சா நோய் அறிகுறிகள் அதிகரித்துள்ளதாக ரிட்ஜ்வே ஆர்யா சிறுவர் வைத்தியசாலையின் விசேட வைத்திய நிபுணர் டொக்டர் தீபால் பெரேரா தெரிவித்தார் .
+Dr. Deepal Perera warns of rising flu symptoms in children at Ridgeway Arya Children's Hospital. Symptoms include high fever, runny nose, sore throat, body ache, headache, cough, and fatigue. Immediate medical attention is advised for these symptoms.
 
-அதிக காய்ச்சல், ஒழுகும் மூக்கு, தொண்டை வலி, தசை வலி, தலைவலி, இருமல், சோர்வாக உணர்தல்... போன்ற இன்ஃபுளுவென்சா அறிகுறிகள் இருந்தால் உடனடியாக மருத்துவ ஆலோசனை பெற வேண்டும் எனவும் அவர் குறிப்பிட்டார் .
+🟩
+
+Dr. Deepal Perera, a specialist at Ridgeway Arya Children's Hospital, said that the symptoms of influenza are increasing among children.
+
+High fever, flowing nose, throat pain, muscle pain, headache, cough, tired feeling ... He added that if there are such influenza symptoms, you should seek medical advice immediately.
 
 ◼️
 
 [Data](articles/aa90cdea.json)
+
+[Extended Data](ext_articles/aa90cdea.ext.json)
 
 ---
 
@@ -274,6 +296,8 @@ The firms will get exemptions and incentives under the Colombo Port City Economi
 
 [Data](articles/2b48e313.json)
 
+[Extended Data](ext_articles/2b48e313.ext.json)
+
 ---
 
 ### India’s Tata Sons to gift 50 ambulances to Sri Lanka’s Suwaseriya, ADB 45
@@ -293,6 +317,8 @@ However, due to the demand for the service, 450 ambulances and 25 back-up ambula
 ◼️
 
 [Data](articles/c4507f9d.json)
+
+[Extended Data](ext_articles/c4507f9d.ext.json)
 
 ---
 
@@ -628,6 +654,8 @@ In equities, Colombo’s All Share Price Index opened 25.62 points higher at 11,
 
 [Data](articles/8ef95167.json)
 
+[Extended Data](ext_articles/8ef95167.ext.json)
+
 ---
 
 ### Bus accident in Nuwara Eliya;42 people are admitted to the hospital
@@ -755,6 +783,8 @@ Based on the recommendation of the committee on the ability of companies to pay 
 ...
 
 [Data](articles/8e3fc668.json)
+
+[Extended Data](ext_articles/8e3fc668.ext.json)
 
 ---
 

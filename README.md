@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 01:53:58**
+As of **2024-07-12 02:19:52**
 
 ## Newspaper Stats
 
-*Scraped **34,868** Articles*
+*Scraped **34,873** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,8 +14,8 @@ bbccomsinhala | 340
 newsfirstlk | 363
 islandlk | 1,957
 economynextcom | 2,068
-dailyftlk | 2,191
-adalk | 3,145
+dailyftlk | 2,195
+adalk | 3,146
 adaderanalk | 4,006
 tamilmirrorlk | 4,168
 dailymirrorlk | 4,733
@@ -26,29 +26,111 @@ adaderanasinhalalk | 5,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,858 (100.0%) of 34,868 articles have been extended.
+34,864 (100.0%) of 34,873 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
 
-### பங்களாதேஷை இலகுவாக வென்றது இலங்கை; மாலைதீவுகளை துவம்சம் செய்த இந்தியா இறுதிப் போட்டிக்கு முன்னேறியது
+### National Chamber of Exporters expresses concern over Customs disruptions
+
+*2024-07-12 01:46:13* · [`dailyftlk`](https://www.ft.lk/news/National-Chamber-of-Exporters-expresses-concern-over-Customs-disruptions/56-764177) · `en`
+
+National Chamber of Exporters of Sri Lanka (NCE) said yesterday that the recent actions taken by the Sri Lanka Customs Officers’ Union, including a two-day “sick leave” campaign and work-to-rule initiatives, have had profound implications across Sri Lanka’s business community, particularly affecting exporters and importers. It said these actions were initiated due to perceived grievances and unmet demands from the Customs Officers’ Union on various issues.
+
+NCE President Jayantha Karunaratne highlighted the significant disruptions caused by these actions. He emphasised that the work-to-rule approach has resulted in substantial delays in clearing imported goods at ports and checkpoints, causing disruptions in production schedules and logistical operations. These delays have particularly impacted exporters, who face stringent deadlines to fulfil international orders, leading to strained relationships with overseas buyers and potential financial penalties for missed deliveries.
+
+...
+
+[Data](articles/680d406d.json)
+
+---
+
+### Sri Lanka secures 95 new ambulances for 1990 Suwasariya Foundation
+
+*2024-07-12 01:42:57* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-secures-95-new-ambulances-for-1990-Suwasariya-Foundation/56-764176) · `en`
+
+The 1990 Suwasariya Foundation, established in 2016 with 297 ambulances donated by TATA Sons Ltd., under an Indian Government grant, is set to expand its fleet to meet growing demand for emergency and pre-hospital treatment services.
+
+TATA Sons Ltd. has agreed to donate 50 ambulances, while the Asian Development Bank (ADB) will provide an additional 45 ambulances as a grant.
+
+The move was approved by the Cabinet of Ministers on Tuesday to obtain these ambulances for the 1990 Suwasariya Foundation.
+
+The foundation currently operates 322 ambulances, including 25 provided by the Sri Lankan Government. However, to achieve its target of 450 ambulances and 25 backup units, an additional 150 ambulances were needed.
+
+Thus, addition of these 95 ambulances will significantly enhance the foundation’s ability to provide timely and critical medical assistance across the country, boosting its capacity to save lives and improve health outcomes.
+
+...
+
+[Data](articles/40542a56.json)
+
+---
+
+### Fifth US-Sri Lanka Partnership Dialogue today
+
+*2024-07-12 01:42:26* · [`dailyftlk`](https://www.ft.lk/news/Fifth-US-Sri-Lanka-Partnership-Dialogue-today/56-764175) · `en`
+
+The fifth US-Sri Lanka Partnership Dialogue scheduled to be held at the US Department of State on 12 July.
+
+Sri Lanka will be represented by Foreign Secretary Aruni Wijewardane.
+
+The fifth US-Sri Lanka Partnership Dialogue will be Co-Chaired by Wijewardane and the US Department of State Political Affairs acting under Secretary John Bass.
+
+Discussions in the Partnership Dialogue will focus on multifaceted aspects of the US-Sri Lanka bilateral relations, including economic, defence, and security cooperation; democracy, reconciliation, and human rights; climate change, science and technology cooperation; education and cultural cooperation, and people-to-people contacts.
+
+Sri Lankan Ambassador to the United States Mahinda Samarasinghe and officials from the Embassy of Sri Lanka and the Foreign Affairs Ministry will also attend the Partnership Dialogue.
+
+◼️
+
+[Data](articles/0d589cf4.json)
+
+---
+
+### President inaugurates second phase of Kompannavidiya flyover
+
+*2024-07-12 01:40:08* · [`dailyftlk`](https://www.ft.lk/news/President-inaugurates-second-phase-of-Kompannavidiya-flyover/56-764174) · `en`
+
+President Ranil Wickremesinghe yesterday inaugurated the second phase of the flyover spanning between Kompannavidiya and Justice Akbar Mawatha over the railway line.
+
+The project, constructed by the Transport and Highways Ministry at a cost of Rs. 5,278 million, aims to alleviate traffic congestion and improve connectivity in the area.
+
+The Road Development Authority (RDA), in collaboration with Mäga Engineering, undertook this project to address the delays and traffic congestion caused by the frequent closing of railway gates for the 109 daily train journeys.
+
+The project is important in enhancing urban mobility and supporting economic growth.
+
+...
+
+[Data](articles/c06bdeea.json)
+
+---
+
+### Sri Lanka won Bangladesh easily;India advanced to the finals of the Maldives
 
 *2024-07-12 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/188260) · `ta`
 
-கொழும்பு சுகததாச உள்ளக அரங்கில் வியாழக்கிழமை (11) இரவு நடைபெற்ற 18 வயதுக்குட்பட்ட தெற்காசிய கூடைப்பந்தாட்ட சாம்பியன்ஷிப்பில் இலங்கை தனது இரண்டாவது போட்டியில் பங்களாதேஷை 93 - 56 என்ற புள்ளிகள் வித்தியாசத்தில் இலகுவாக வெற்றிகொண்டது.
+Sri Lanka defeated Bangladesh 93-56 in the South Asian Basketball Championships U18, improving from a loss to India earlier. Despite initial struggles, Sri Lanka outperformed in subsequent games, especially in the final match against Bangladesh. Meanwhile, India secured its place in the finals by overwhelming the Maldives 117-43, showcasing dominance throughout the tournament.
 
-இந்தியாவுக்கு எதிரான முதலாவது போட்டியில் தோல்வி அடைந்த இலங்கைக்கு இந்த வெற்றி உற்சாகத்தைக் கொடுத்துள்ளது..
+🟩
 
-எவ்வாறாயினும் இந்தப் போட்டியிலும் சிற்சில தவறுகளை இழைத்ததாலும் லேஅப் ஷொட்கள் உட்பட ப்றீ ஷொட்ஸ்கள் பலவற்றைத் தவறவிட்டதாலும் இலங்கைக்கு 100 புள்ளிகள் பெறுவதற்கு இருந்த வாய்ப்பு அற்றுப்போனது.
+Sri Lanka won Bangladesh by 93 - 56 at the South Asian Basketball Championships under the age of 18 at the Sugathadasa Indoor Stadium in Colombo on Thursday night.
 
-எவீன் சேனாரத்ன 17 புள்ளிகளையும் திலுக் சமரவிக்ரம 15 புள்ளிகளையும் டெரன் பேர்னார்ட் அன்தனி 12 புள்ளிகளையும் பெற்றுக்கொடுத்தனர்.
+Sri Lanka lost the first match against India.
 
-கடைசிக் கட்டத்ததில் களம் இறக்கப்பட்ட தாருக்க ஜயசுந்தர மிகத் திறமையாக விளையாடி 2 த்ரீ பொய்ன்டர்ஸ் உட்பட 7 புள்ளிகளைப் பெற்றார்.
+However, in the match, the chance to get 100 points in Sri Lanka, which has made a number of mistakes and missed many shots, including laying shots.
+
+Even Senaratne scored 17 points, Diluk Samarawickrama 15 points and Terran Bernard Antony scored 12 points.
+
+At the last phase, Daruka Jayasundara, who was unloaded, played very efficiently and scored 7 points, including 2 Three Liars.
+
+In the next match, both Roshan Randima and Shane Deniels were welcomed to give him an additional chance.. It is certain that the trainees would have realized that it was wrong for him to not be given a chance in a match with India.
+
+Sri Lanka scored 23 - 14 in the first match of the match against Bangladesh.
 
 ...
 
 [Data](articles/4e5eb577.json)
+
+[Extended Data](ext_articles/4e5eb577.ext.json)
 
 ---
 
@@ -64,6 +146,8 @@ The need to decarbonise your supply chain has eventually escalated to a now or n
 
 [Data](articles/7b940612.json)
 
+[Extended Data](ext_articles/7b940612.ext.json)
+
 ---
 
 ### Is excessive board interference killing executive spirit?
@@ -77,6 +161,8 @@ Whilst in law, and on paper, a board is superior in rank to management, it is im
 ...
 
 [Data](articles/45b248b7.json)
+
+[Extended Data](ext_articles/45b248b7.ext.json)
 
 ---
 
@@ -93,6 +179,8 @@ The European Union and the US are amongst preferred export destinations, but win
 ...
 
 [Data](articles/3f3dc953.json)
+
+[Extended Data](ext_articles/3f3dc953.ext.json)
 
 ---
 
@@ -112,6 +200,8 @@ All powers of old Sri Lanka have entered into a holy alliance to exorcise this s
 
 [Data](articles/6059446a.json)
 
+[Extended Data](ext_articles/6059446a.ext.json)
+
 ---
 
 ### Questions over the term of the President
@@ -127,6 +217,8 @@ What the petitioner had pleaded for was sort of a judicial review of post-enactm
 ...
 
 [Data](articles/09e3c0c0.json)
+
+[Extended Data](ext_articles/09e3c0c0.ext.json)
 
 ---
 
@@ -181,6 +273,20 @@ Thisal Samarasinghe explored the impact of generative AI on modern creativity, u
 ...
 
 [Data](articles/9fa290ed.json)
+
+---
+
+### මුස්ලිම් පල්ලිවල පරිපාලන නිලධාරීන්ට මැලේසියාවේදි සති දෙකක පුහුණුවක්
+
+*2024-07-11 23:23:58* · [`adalk`](https://www.ada.lk/breaking_news/මුස්ලිම්-පල්ලිවල-පරිපාලන-නිලධාරීන්ට-මැලේසියාවේදි-සති-දෙකක-පුහුණුවක්/11-410751) · `si`
+
+ශ්‍රී ලංකාවේ මුස්ලිම් පල්ලිවල පරිපාලන නිලධාරීන්ට මැලේසියාවේ දී මුස්ලිම් පල්ලි පරිපාලන කටයුතු පිළිබඳව පුහුණු සැසියක් (two week) පැවැත්වීමට නියමිත අතර, ඒ සඳහා දිවයිනෙන් (15 July) පිටත්වීමට නියමිත මුස්ලිම් පල්ලිවල පරිපාලන නිලධාරීන් සහ ආගමික නායකයින් කණ්ඩායම අද (11) දින ජනාධිපති කාර්‍යාලයේ දී ජනපති කාර්ය මණ්ඩලය ප්‍රධානී සාගල රත්නායක මහතා හමුවිය.
+
+සාගල රත්නායක මහතාගේ ඉල්ලීමක් මත මෙම වැඩසටහන ශ්‍රී ලංකාවට ලබා ගත හැකි වූ අතර ඒ පිළිබඳව මෙහිදී මුස්ලිම් ආගමික නායකයින් සාගල රත්නායක මහතාට සිය ස්තුතිය පළ කර තිබේ.
+
+◼️
+
+[Data](articles/683b9342.json)
 
 ---
 
@@ -2163,133 +2269,5 @@ The Kaduwela Magistrate, who rejected the request, ordered the suspects to be re
 [Data](articles/693c70ec.json)
 
 [Extended Data](ext_articles/693c70ec.ext.json)
-
----
-
-### CID charged with Diana
-
-*2024-07-11 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198703) · `si`
-
-Diyanama Gamage, ex-State Minister, faces charges related to Sri Lankan citizenship, as per a Colombo Magistrate's Court order. The case stems from allegations made after an incident involving Colombo Additional Magistrate Harshana Kekuna. CID filed an indictment against Mrs. Gamage, leading to the court's directive for the Colombo Chief Magistrate to review the charges on August 1.
-
-🟩
-
-The Colombo Magistrate's Court ordered that the accusations against former State Minister Diyanama Gamage is conducting the Sri Lankan Citizenship.
-
-The complaint was lodged at the time of the aftermath of Colombo Additional Magistrate Harshana Kekuna.
-
-The Criminal Investigations Department presented an indictment against Mrs. Diane Gamage.
-
-Accordingly, the Additional Magistrate ordered the Colombo Chief Magistrate on August 1 to read the charge sheet.
-
-◼️
-
-[Data](articles/866ab91b.json)
-
-[Extended Data](ext_articles/866ab91b.ext.json)
-
----
-
-### Court order on carrom board case
-
-*2024-07-11 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198702) · `si`
-
-Colombo High Court summons two ministers over carrom board case related to the 2015 presidential election and distribution of sports equipment. Judges will decide on summoning defendants based on evidence presented.
-
-🟩
-
-The Colombo three-member High Courts decided to summon the defendant in the case of the former Sports Minister Mahindananda Aluthgamage and the current Trade Minister Nalin Fernando.
-
-By the presidential election of the 2015 presidential election, the CWE planks of the CWE and distribution of the garden among Sports Associations.
-
-Do the defendants release without calling the visionary in this case?Or a three-judge panel of judges promised by Amal Ranaraja expressed the decree whether to call the defendant.
-
-Subsequently, the judges have been ordered to be performed on August 23.
-
-◼️
-
-[Data](articles/5a3b5971.json)
-
-[Extended Data](ext_articles/5a3b5971.ext.json)
-
----
-
-### Strong action against union leaders - Prasanna Ranatunga
-
-*2024-07-11 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/188189) · `ta`
-
-Prasanna Ranatunga, the prime minister, criticized union leaders for disrupting public services like railways through protests, urging them to stop causing public inconvenience. He stated that due to the economic situation, not all union demands could be met and called for ministry-level actions against leaders who disrupt workplaces.
-
-🟩
-
-Prasanna Ranatunga, the prime minister of the ruling party, urged the union leaders who are engaged in protests with political stances in order to inconvenience the people.
-
-He was speaking at a special statement during a session held in Parliament on Thursday (11).
-
-A few trade unions have been engaged in workshops in terms of political parties.
-
-As the public transport services, including the railway service, have been declared as an essential service, the unions are engaged in workplaces and make the public an inconvenience.
-
-All the demands made by the unions in the midst of the economic impact cannot be met. Take appropriate action at the Ministry level against trade union leaders who engage in workplaces to make public discomfort.
-
-◼️
-
-[Data](articles/19bc0c8f.json)
-
-[Extended Data](ext_articles/19bc0c8f.ext.json)
-
----
-
-### Sri Lanka Police strengthens measures against money laundering and terrorism financing
-
-*2024-07-11 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100442/sri-lanka-police-strengthens-measures-against-money-laundering-and-terrorism-financing-) · `en`
-
-Sri Lanka Police has reached agreements with various government and semi-government institutions in order to combat money laundering and the financing of terrorism.
-
-These agreements will facilitate the swift exchange of crucial information necessary for police investigations.
-
-Accordingly, the relevant agreements have already been finalized with key institutions, including the Department of Motor Traffic, the Telecommunications Regulatory Commission, the Central Environment Authority, and the Ministry of Fisheries and Aquatic Resources and Sri Lanka Customs.
-
-The primary objective of these agreements is to establish a streamlined process for sharing information pertinent to investigations into money laundering and funding the terrorism. This initiative is expected to significantly reduce delays that have impeded the timely acquisition of essential data for police investigations.
-
-...
-
-[Data](articles/49007f5f.json)
-
-[Extended Data](ext_articles/49007f5f.ext.json)
-
----
-
-### Advertisement to the Tatuto Shop owner
-
-*2024-07-11 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198701) · `si`
-
-Tatuto Shop owner Surestra Wasantha Perera, also known as Club Wasantha, is implicated in a murder case. He and seven others were arrested and interrogated, then remanded until July 22. The incident occurred at a Tatu Center in Athurugiriya, where Club Wasantha was killed, along with Nayana Warzuli, the husband of famous singer KVA. Several others, including Club Wasantha's wife and relatives, were injured. The funeral will be held on Saturday, with the body displayed for public viewing tomorrow.
-
-🟩
-
-Surestra Wasantha Perera alias Club Wasantha alias, the owner of the Tatu Center for the murder of Club was asked to make a secret statement to the magistrate.
-
-He and the seven suspects were produced before the Kaduwela Magistrate yesterday (10).
-
-The Magistrate stated that he was once again and to make the request.
-
-Meanwhile, the suspects were detained in 48 hours and questioned.
-
-However, the court ordered to be remanded until July 22.
-
-The Court ordered the prison officials to provide special security to the suspects as the criminal of the criminal in the prison.
-
-Sirithndra Wasantha Perera, or Club was shot dead at a Tatu Center on July 08 at the July 08 at Athurugiriya.
-
-The famous singer KVA's husband, Nayana Warzuli, died and K.. A wife and his relative of the owner's wife and his relatives were injured in Sujeewa, Club Wasantha's wife.
-
-The wife of the Club Wasantha's wife and the owner of the Tattond Center is being treated at Kalubowila Hospital.
-
-...
-
-[Data](articles/3d142a65.json)
-
-[Extended Data](ext_articles/3d142a65.ext.json)
 
 ---

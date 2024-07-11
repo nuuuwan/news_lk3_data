@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 09:35:58**
+As of **2024-07-11 09:54:57**
 
 ## Newspaper Stats
 
-*Scraped **34,712** Articles*
+*Scraped **34,714** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,049
 dailyftlk | 2,183
 adalk | 3,128
 adaderanalk | 3,988
-tamilmirrorlk | 4,143
+tamilmirrorlk | 4,145
 dailymirrorlk | 4,733
 virakesarilk | 5,422
 adaderanasinhalalk | 5,771
@@ -26,11 +26,39 @@ adaderanasinhalalk | 5,771
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,712 (100.0%) of 34,712 articles have been extended.
+34,712 (100.0%) of 34,714 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### தமிழக மீனவர்கள் 13 பேர் கைது
+
+*2024-07-11 09:28:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-மீனவர்கள்-13-பேர்-கைது/175-340203) · `ta`
+
+கடலுக்கு மீன் பிடிக்க செல்லும் தமிழக மீனவர்களை, எல்லை தாண்டி மீன் பிடித்ததாக கூறி இலங்கை கடற்படை கைது செய்வது வாடிக்கையாக உள்ளது. இந்த நிலையில் நெடுந்தீவு அருகே மீன்பிடித்துக் கொண்டிருந்த தமிழக மீனவர்கள் 13 பேரை இலங்கை கடற்படை கைது செய்துள்ளது.
+
+முன்னதாக புதுக்கோட்டை மாவட்ட மீன்பிடித் துறைமுகத்தில் இருந்து மீனவர்கள் 3 விசைப்படகுகளில் மீன்பிடிக்கச் சென்றனர். அவர்கள் நெடுந்தீவு அருகே மீன்பிடித்துக் கொண்டிருந்தபோது, எல்லை தாண்டி மீன்பிடித்ததாக இலங்கை கடற்படையினர் கைது செய்துள்ளனர்.
+
+மேலும் மீனவர்கள் சென்ற 3 விசைப்படகுகளையும் இலங்கை கடற்படையினர் பறிமுதல் செய்துள்ளனர். கைது செய்யப்பட்டுள்ள 13 மீனவர்களையும் விசாரணைக்காக காங்கேசன் கடற்படை முகாமுக்கு அழைத்து செல்வதாக தகவல் வெளியாகி உள்ளது.
+
+◼️
+
+[Data](articles/b6cd29fb.json)
+
+---
+
+### ‘கிளப் வசந்த’வின் 60% நண்பர்கள்
+
+*2024-07-11 09:25:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-வின்-60-நண்பர்கள்/175-340202) · `ta`
+
+அத்துருகிரியவில் சுட்டுக்கொல்லப்பட்ட ‘கிளப் வசந்த’ என அழைக்கப்படும் சுரேஷ் வசந்த பெரேரா,  பாராளுமன்றத்தில் இருப்பவர்களில் 60 சதவீதத்திற்கும் அதிகமானவர்கள் தனது நண்பர்கள் என்று தெரிவித்திருந்தார்.
+
+◼️
+
+[Data](articles/670680e6.json)
+
+---
 
 ### Influenza symptoms among children
 
@@ -2241,41 +2269,5 @@ The residents of the area were handed over to Pathihewa Ohawha to the Divisional
 [Data](articles/78f40fb1.json)
 
 [Extended Data](ext_articles/78f40fb1.ext.json)
-
----
-
-### Railway strike to continue despite dept’s warning
-
-*2024-07-10 15:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100423/railway-strike-to-continue-despite-depts-warning) · `en`
-
-Sri Lanka Railway Station Masters’ Union says that their trade union action will continue further.
-
-The General Manager of Sri Lanka Railways had warned that all Station Masters and Railway Controllers who fail to report to duty by 12.00 noon today will be considered as having vacated their positions.
-
-Accordingly, all the striking Railway Station Masters and Railway Controllers were instructed to report for duty at their respective railway stations or at least to the nearest railway station.
-
-The Sri Lanka Railways Station Masters’ Union had decided to launch a strike action from midnight yesterday (09) based on several demands including promotions.
-
-As a result, several trains including the office trains and night mail trains to and from Colombo Fort and Badulla, to and from Trincomalee, to and from Batticaloa and night mail train to Rambukkana were cancelled, the department said.
-
-◼️
-
-[Data](articles/23203de3.json)
-
-[Extended Data](ext_articles/23203de3.ext.json)
-
----
-
-### Adjournment debate on time frame of Presidential Election
-
-*2024-07-10 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100422/-adjournment-debate-on-time-frame-of-presidential-election-) · `en`
-
-A decision has been taken at the arty leaders’ meeting to hold an adjournment debate in Parliament tomorrow (11 July) on a time frame for the Presidential Election.
-
-◼️
-
-[Data](articles/b0649a60.json)
-
-[Extended Data](ext_articles/b0649a60.ext.json)
 
 ---

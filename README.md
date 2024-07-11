@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 00:35:16**
+As of **2024-07-12 01:05:10**
 
 ## Newspaper Stats
 
-*Scraped **34,857** Articles*
+*Scraped **34,858** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,068
 dailyftlk | 2,184
 adalk | 3,145
 adaderanalk | 4,006
-tamilmirrorlk | 4,166
+tamilmirrorlk | 4,167
 dailymirrorlk | 4,733
 virakesarilk | 5,457
 adaderanasinhalalk | 5,802
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,856 (100.0%) of 34,857 articles have been extended.
+34,857 (100.0%) of 34,858 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -121,6 +121,22 @@ This is the first international tournament facing Indian and Sri Lankan teams as
 [Data](articles/b45b6271.json)
 
 [Extended Data](ext_articles/b45b6271.ext.json)
+
+---
+
+### ’தேனில் கை வைத்தவர் விரல்களை சுவைக்காமல் இருக்கமாட்டார்’
+
+*2024-07-11 22:48:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேனில்-கை-வைத்தவர்-விரல்களை-சுவைக்காமல்-இருக்கமாட்டார்/175-340265) · `ta`
+
+தேனில் கை வைத்தவர் விரல்களை சுவைக்காமல் இருக்கமாட்டார் என்ற சிங்கள பழமொழி உண்டு. அதற்கேற்பவே  ஜனாதிபதி பதவிக்கு நியமிக்கப்பட்ட ஒருவர், அதில் தொடர்ந்து இருப்பதற்கு தேவையான சூட்சுமங்களை தேடிக்கொண்டிப்பதே இந்த நாட்டில் இருக்கும் பிரச்சினை என ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவரும் எம்.பி.யுமான ரவூப் ஹக்கீம் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் நேற்று வியாழக்கிழமை இடம்பெற்ற உரிய காலத்தில் ஜனாதிபதித் தேர்தலை நடத்துதல் தொடர்பான சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்தில்   உரையாற்றும் போதே  இவ்வாறு  தெரிவித்த அவர் மேலும் பேசுகையில்,
+
+ஜனாதிபதி பதவிக்காலம் தொடர்பில்  உண்மையில் அரசியலமைப்பில் முரண்பாடான நிலை இருக்கிறதா என்ற கேள்வி  எழுகிறது.    தேனில் கை வைத்தவர் விரல்களை சுவைக்காமல் இருக்கமாட்டார் என்று சிங்களத்தில் ஒரு பழமொழி இருக்கிறது,. அதனால் ஜனாதிபதி பதவிக்கு நியமிக்கப்பட்ட ஒருவர், அதில் தொடர்ந்து இருப்பதற்கு தேவையான சூட்சுமங்களை தேடிக்கொண்டிப்பதே இந்த நாட்டில் இருக்கும் பிரச்சினை.
+
+...
+
+[Data](articles/1e82d3f1.json)
 
 ---
 
@@ -521,6 +537,8 @@ It must be remembered that 37 years ago the phenomenon of a Black Tiger suicide 
 ...
 
 [Data](articles/ba7384bb.json)
+
+[Extended Data](ext_articles/ba7384bb.ext.json)
 
 ---
 
@@ -2349,29 +2367,5 @@ Accordingly, after the completion of the project, it can travel from Kompanideru
 [Data](articles/a12426bf.json)
 
 [Extended Data](ext_articles/a12426bf.ext.json)
-
----
-
-### Constituent Assembly appointing Barinda Ranasinghe as Attorney General
-
-*2024-07-11 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/188203) · `ta`
-
-The Constituent Assembly has unanimously approved the appointment of President Attorney-at-Law Ranasinghe as Attorney General, filling the vacancy left after Sanjay Rajaratnam's term ended on June 26.
-
-🟩
-
-The Constituent Assembly has unanimously recognized the appointment of President Attorney -at -Law Ranasinghe as Attorney General.
-
-Sanjay Rajaratnam's service period ended on June 26, the vacancy of the Attorney General for the past few days.
-
-Following this, President Attorney -at -Law Ranasinghe was appointed as the Attorney General.
-
-In this backdrop, the Constituent Assembly has unanimously appointed President's Attorney Ranasinghe as Attorney General.
-
-◼️
-
-[Data](articles/ea9735d1.json)
-
-[Extended Data](ext_articles/ea9735d1.ext.json)
 
 ---

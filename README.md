@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 09:06:33**
+As of **2024-07-11 09:19:49**
 
 ## Newspaper Stats
 
-*Scraped **34,711** Articles*
+*Scraped **34,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,55 +20,81 @@ adaderanalk | 3,988
 tamilmirrorlk | 4,143
 dailymirrorlk | 4,733
 virakesarilk | 5,422
-adaderanasinhalalk | 5,770
+adaderanasinhalalk | 5,771
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,708 (100.0%) of 34,711 articles have been extended.
+34,711 (100.0%) of 34,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### දුම්රිය වර්ජනය දිගටම
+### දරුවන් අතර ඉන්ෆ්ලුවෙන්සා රෝග ලක්ෂණ ඉහළට
+
+*2024-07-11 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198690) · `si`
+
+ළමුන් අතර මේ දිනවල ඉන්ෆ්ලුවෙන්සා රෝග ලක්ෂණ වාර්තාවීම ඉහළ ගොස් ඇති බව රිජ්වේ ආර්යා ළමා රෝහලේ විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා පවසයි.
+
+ඔහු පවසන්නේ එවැනි රෝග ලක්ෂණ පවතින්නේ නම් කඩිනමින් වෛද්‍ය උපදෙස් ලබාගැනීම සඳහා යොමුවිය යුතු බවයි.
+
+◼️
+
+[Data](articles/ebcbdbe2.json)
+
+---
+
+### Railway strike continues
 
 *2024-07-11 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198689) · `si`
 
-ඉල්ලීම් කිහිපයක් මුල් කරගනිමින් දුම්රිය ස්ථානාධිපතිවරුන් ආරම්භකර ඇති වැඩවර්ජනය අඛණ්ඩව ක්‍රියාත්මක කෙරෙන බව එම වෘත්තීය සමිති පවසයි.
+A railway strike initiated by Station Masters over various demands continues, affecting train schedules and operations. Despite the strike, around 70 train services ran, with buses also being used to transport passengers.
 
-පසුගිය 09 වනදා මධ්‍යම රාත්‍රීයේ සිට දුම්රිය ස්ථානාධිපතිවරුන් සහ දුම්රිය පාලකවරුන් වැඩවර්ජනයක් ආරම්භ කරනු ලැබීය.
+🟩
 
-වර්ජනය හේතුවෙන් ඊයේ දිනය තුළ දුම්රිය ගමන්වාර රැසක් අවලංගු කෙරුණු අතර දුම්රිය කිහිපයක් පමණක් ධාවනය කිරීම හේතුවෙන් මගීන් දැඩි දුෂ්කරතාවකට පත්වුණි.
+The trade unions states that the strike commenced by the Station Masks is continuously underway, based on several demands.
 
-වැඩබලන දුම්රිය සාමාන්‍යාධිකාරී එස්.එස්. මුදලිගේ මහතා සඳහන් කළේ වර්ජනය ක්‍රියාත්මක වුවද ඊයේ දිනයේ දී දුම්රිය ගමන්වාර 70ක් පමණ ධාවනය කිරිමට කටයුතු කළ බවයි.
+The Railways OICs and Railways were launched from midnight on the 9th.
 
-ඊට අමතරව ලංකා ගමනමණ්ඩලයට අයත් බස් රථ ද මගීන්ගේ අවශ්‍යතාව අනුව ධාවනය සදහා යොදවූ බව ද ඔහු පැවසීය.
+Railway lines were canceled in yesterday's due to the strike and runs a few trains, passengers.
+
+Acting Railway General Manager SS. Mudalige said that although the strike was implemented, he was operating about 70 train services yesterday.
+
+He also said that the buses of the Ceylon Transport were also employed on the need for the needs of passengers.
 
 ◼️
 
 [Data](articles/b6f49ec9.json)
 
+[Extended Data](ext_articles/b6f49ec9.ext.json)
+
 ---
 
-### மழையுடனான வானிலை மேலும் அதிகரிக்கும்
+### The weather with the rain will increase further
 
 *2024-07-11 08:27:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையுடனான-வானிலை-மேலும்-அதிகரிக்கும்/175-340200) · `ta`
 
-நாளை முதல் அடுத்த சில நாட்களில் நாட்டின் தென்மேற்கு பகுதிகளில் மழையுடனான வானிலை அதிகரிக்கும்.
+Rainfall will intensify across the southwestern regions of the country over the coming days, with heavy showers forecasted for several provinces including Western, Sabaragamuwa, North Western, Kandy, Nuwara Eliya, Galle, and Matara. Thunderstorms and thundershowers are also expected in the Eastern and Uva provinces during evenings or nights. High wind speeds of 40-50 km/h are anticipated in specific areas, prompting the Department of Atmosphere to advise caution against potential risks from heavy winds and lightning.
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யக்கூடும்.
+🟩
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களில் மாலை அல்லது இரவு வேளைகளில் சில இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+The rainy weather will increase in the southwestern parts of the country in the next few days from tomorrow.
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும், வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும், திருகோணமலை, ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களிலும் 40-50 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும்.
+Heavy rains are expected in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
 
-இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னலினால் ஏற்படக்கூடிய ஆபத்தை குறைப்பதற்கு தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவயில் திணைக்களம், பொது மக்களை அறிவுறித்தியுள்ளது. R
+In the Eastern and Uva provinces, some places in the evening or night are likely to experience thundershowers or thunderstorms.
+
+Heavy winds are likely to blow at speeds of 40-50 km / h in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces, Trincomalee, Hambantota and Moneragala districts.
+
+The Department of Atmosphere has advised the public to take necessary steps to reduce the risk of temporary heavy winds and lightning with thunderstorms.. Remble
 
 ◼️
 
 [Data](articles/6706567e.json)
+
+[Extended Data](ext_articles/6706567e.ext.json)
 
 ---
 
@@ -1256,21 +1282,29 @@ Glen Phillips scored 58 runs, Angelo Perera 34, Rahmanullah Gurbas 27 and team c
 
 ---
 
-### අගෝස්තු සිට වාහන ගෙන්වයි
+### Imports from August to
 
 *2024-07-10 19:27:51* · [`adalk`](https://www.ada.lk/breaking_news/අගෝස්තු-සිට-වාහන-ගෙන්වයි/11-410728) · `si`
 
-සුවිශේෂී අනුපිළිවෙළක් යටතේ අගෝස්තු මාසයේ සිට වාහන ආනයනය කිරීමට කටයුතු කරන බවත් ඒ සම්බන්ධයෙන් වැඩපිළිවෙළ ඇතුළත්කමිටුවේ වාර්තාව අගෝස්තු 02වැනි සතිය වන විට අමාත්‍ය මණ්ඩලයට ලැබීමට නියමිත බවත් මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසීය.
+State Minister Ranjith Siyambalapitiya announced plans to import vehicles starting from August, with details to be presented to the Cabinet by August 2. Minister Mahinda Amaraweera mentioned informing the International Monetary Fund about the vehicle imports. A committee involving various ministries and associations was formed to optimize vehicle import benefits nationwide, aiming to resume imports post-August 2 based on a unique plan.
 
-පාර්ලිමේන්තුවේ ඊයේ(10දා) පැවති විවාදයේදී අදහස් පළ කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-මෙලෙස වාහන ආනයනය කිරීම පිළිබඳ ජාත්‍යන්තර මූල්‍ය අරමුදල දැනුවත් කළ බව සඳහන් කළ අමාත්‍ය මහින්ද අමරවීර මහතා,
+State Minister Ranjith Siyambalapitiya stated that the vehicles will be imported to the importation of vehicles from August and that the relevant information is due to be taken to the Cabinet by August 2.
 
-"සෑම කෙනෙක්ම අහනවා වාහන ගේන්නේ නැද්ද කියලා. සංචාරක ක්ෂේත්‍රයට වාහන 1000ක් ගේන්න අපි අවසර දීලා තියෙනවා. අනෙකුත් වාහන ගෙන්වීම සඳහා අපි සුවිශේෂී කමිටුවක වාර්තාව මුදල් ඇමතිවරයාට ඉදිරිපත් කරලා, දැන් මේක කොහොමද ප්‍රායෝගිකව මේ කටයුත්ත කරන්නේ කියලා බලනවා. මේකට අදාළ පාර්ශ්ව රාශියක් සිටිනවා.
+Speaking at the debate held in Parliament yesterday (10), he said.
+
+Minister Mahinda Amaraweera stated that the International Monetary Fund was informed of the importation of vehicles.
+
+"Everyone asks whether to bring vehicles. We have allowed 1000 vehicles to the tourism industry. We have sent the report of a unique committee to the Minister of Finance, and now how is this practically doing this in practically. There are plenty of parties.
+
+Ministry of Transport, Ministry of Transport, Ministry of Transport, Vehicle Association, New Vehicle Importers, New Vehicle Importers, Used Traffic Importers. So we made a committee from all of them. How to benefit the whole country, to build a program to import vehicles as the lowest party occurs.
 
 ...
 
 [Data](articles/8f1f5302.json)
+
+[Extended Data](ext_articles/8f1f5302.ext.json)
 
 ---
 
@@ -2237,23 +2271,5 @@ A decision has been taken at the arty leaders’ meeting to hold an adjournment 
 [Data](articles/b0649a60.json)
 
 [Extended Data](ext_articles/b0649a60.ext.json)
-
----
-
-### Adjournment debate on time frame of Presidential Election
-
-*2024-07-10 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100422/adjournment-debate-on-time-frame-of-presidential-election) · `en`
-
-It has been decided in the Committee on Parliamentary Business, held today (10) under the chairmanship of the Speaker Mahinda Yapa Abeywardena, to hold an adjournment debate tomorrow (11) on holding the presidential election within the stipulated time according to the legal provisions.
-
-Accordingly, the adjournment debate is scheduled to be held according to the motion brought jointly by the leader of the National People’s Power (NPP) Anura Kumara Dissanayake, and the Chief Opposition Whip Lakshman Kiriella, on holding the presidential election during the period from 17th September to 16th October 2024 as required by the Constitution and other applicable laws.
-
-Thus, it has been decided to hold the debate from 10.30 am to 5.30 pm following the Questions for the Oral Answers session, the Secretary General of Parliament Mrs. Kushani Rohanadeera said.
-
-...
-
-[Data](articles/f2f93b30.json)
-
-[Extended Data](ext_articles/f2f93b30.ext.json)
 
 ---

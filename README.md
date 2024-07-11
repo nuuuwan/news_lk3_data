@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 13:05:09**
+As of **2024-07-11 13:20:00**
 
 ## Newspaper Stats
 
-*Scraped **34,751** Articles*
+*Scraped **34,754** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,053
 dailyftlk | 2,183
 adalk | 3,134
 adaderanalk | 3,994
-tamilmirrorlk | 4,152
+tamilmirrorlk | 4,155
 dailymirrorlk | 4,733
 virakesarilk | 5,427
 adaderanasinhalalk | 5,779
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,779
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,751 (100.0%) of 34,751 articles have been extended.
+34,751 (100.0%) of 34,754 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
+
+### ‘பச்சை’  வாக்குமூலத்தை ஒளிபரப்பியது எப்படி: எம்.பி.க்கள் கேள்வி (வீடியோ)
+
+*2024-07-11 12:50:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பச்சை-வாக்குமூலத்தை-ஒளிபரப்பியது-எப்படி-எம்-பி-க்கள்-கேள்வி-வீடியோ/175-340233) · `ta`
+
+அத்துருகிரியவில் 'கிளப் வசந்த' கொல்லப்பட்ட சம்பவம் தொடர்பில் கைதான பச்சை குத்தும் கடை உரிமையாளரின் வாக்குமூலம் தொடர்பான காணொளி காட்சியை செவ்வாய்க்கிழமை (09)  ஒளிபரப்பியமை தொடர்பில் இருதரப்பு பாராளுமன்ற உறுப்பினர்களும் பாராளுமன்றத்தில் வியாழக்கிழமை (11)  கேள்வி எழுப்பினர்.
+
+இந்த விடயம் தொடர்பில் முதலில் கருத்து தெரிவித்த பாராளுமன்ற உறுப்பினர் அனுரகுமார திஸாநாயக்க,  .
+
+சந்தேக நபரிடம் காவல்துறை முன்னரே விசாரித்து பின்னர் ஊடக நிகழ்ச்சி நடத்தியது தெளிவாகத் தெரிகிறது. சந்தேக நபரிடம் கேள்வி கேட்ட டி.ஐ.ஜி சில விஷயங்களை மறந்து விட்டு சில உண்மைகளை அவருக்கு நினைவூட்டுவதை நாம் தெளிவாகப் பார்த்தோம் என்றார்.
+
+“கொலைக்கு காரணமானவர்களை விடுவிப்பதே வீடியோ கிளிப்பை ஒளிபரப்பியதன் பின்னணியில் இருக்கும் நோக்கமாக இருக்கலாம் என எதிர்க்கட்சியின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல தெரிவித்தார்.
+
+இந்த காணொளியை பகிரங்கமாக ஒளிபரப்பினால் விசாரணைகள் மற்றும் நீதிமன்ற வழக்குகள் பாதிக்கப்படும் எனவும் அவைத் தலைவர் சுசில் பிரேமஜயந்த தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/28fb863b.json)
+
+---
 
 ### Approval of the Leadership Council to the Leadership Council
 
@@ -157,6 +177,24 @@ However, in response to the relevant allegations, President’s Secretary Saman 
 [Data](articles/4595d3e1.json)
 
 [Extended Data](ext_articles/4595d3e1.ext.json)
+
+---
+
+### லோ லெவல் வீதியின் போக்குவரத்து தடை
+
+*2024-07-11 11:30:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லோ-லெவல்-வீதியின்-போக்குவரத்து-தடை/175-340222) · `ta`
+
+கொழும்பு - அவிசாவளை லோ லெவல் வீதியின் ரணால, சுடவில பிரதேசத்தில் அரச மரத்தின் கிளையொன்று முறிந்து வீழ்ந்ததன் காரணமாக குறித்த வீதியின் போக்குவரத்து தடைப்பட்டுள்ளதாக நவகமுவ பொலிஸார் தெரிவித்தனர்.
+
+இதன் காரணமாக அப்பகுதியில் உள்ள பல மின்கம்பங்கள் சேதமடைந்து மின்சாரம் துண்டிக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது .
+
+இதனால் வேவிலைச் சந்தி மற்றும் சியாம்பலா கஸ் சந்தியிலிருந்து கனரக வாகனங்கள் செல்வதைத் தற்காலிகமாக நிறுத்தவும் பொலிஸார் நடவடிக்கை எடுத்துள்ளனர் .
+
+மேலும் , அப்பகுதி மக்களும், பொலிஸாரும் இணைந்து கிளைகளை வெட்டி அகற்றும் பணியில் ஈடுபட்டுள்ளமை குறிப்பிடத்தக்கது .
+
+◼️
+
+[Data](articles/388180df.json)
 
 ---
 
@@ -720,7 +758,7 @@ If you or someone you know is in crisis and need help, there are systems to serv
 
 *2024-07-11 09:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-303-40-70-to-us-dollar-171671/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s rupee opened slightly weaker at 303.40/70 to the US dollar on Thursday, while bond yields were broadly steady, and stocks opened 0.22 percent up, dealers said.
+ECONOMYNEXT – Sri Lanka’s rupee opened slightly stronger at 303.40/70 to the US dollar on Thursday, while bond yields were broadly steady, and stocks opened 0.22 percent up, dealers said.
 
 The rupee closed at 303.63/72 to the greenback on Wednesday.
 
@@ -951,6 +989,28 @@ A bus that was traveling in the Nuwara Eliya - Topas area was injured when a bus
 [Data](articles/63fada37.json)
 
 [Extended Data](ext_articles/63fada37.ext.json)
+
+---
+
+### நுவரெலியாவில் பேருந்து விபத்து:  40 பேர் படுகாயம்
+
+*2024-07-11 08:18:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-பேருந்து-விபத்து-40-பேர்-படுகாயம்/76-340197) · `ta`
+
+நுவரெலியா பொலிஸ் பிரிவுக்கு உட்பட்ட நுவரெலியா -கண்டி பிரதான வீதியின் "டொப்பாஸ்" பகுதியில் அதி சொகுசு பேருந்து வியாழக்கிழமை  (11) அதிகாலை 4.30 மணியளவில் விபத்துக்கு உள்ளானது.
+
+இந்த பேரூந்து விபத்தில் சிக்கியதில், 40 பயணிகள் காயங்களுக்கு உள்ளான நிலையில் சிகிச்சைக்காக நுவரெலியா மாவட்ட  வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர் என  நுவரெலியா பொலிஸார் தெரிவித்தனர்.
+
+அவர்களில்  07 பேர் அவசர சிகிச்சை பிரிவிலும் ஏனைய 33 பேர் சாதாரண சிகிச்சை பிரிவிலும் அனுமதித்துள்ளதாக  நுவரலியா மாவட்ட வைத்தியசாலை பணிப்பாளர் தெரிவித்தார்.
+
+நுவரெலியா தனியார் விடுதி ஒன்றிலிருந்து 42 பயணிகள்  திருகோணமலைக்கு  சுற்றுலாப் பயணம் மேற்கொண்டு அதி சொகுசு பேரூந்தில் பயணித்துள்ளனர்.
+
+குறித்த பேரூந்து நுவரேலியா -கண்டி பிரதான வீதியில் டொப்பாஸ் பகுதியில் சென்ற போது திடீரென ஏற்பட்ட கோளாறு காரணமாக நடு வீதியில்  விபத்துக்கு உள்ளாகியுள்ளது.
+
+அதேநேரத்தில் பேரூந்தை செலுத்திய சாரதி சாமர்த்தியமாக பேரூந்தை வீதி பாதுகாப்பு தடையில் மோதி பாரிய விபத்தை தடுத்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/be457d79.json)
 
 ---
 
@@ -2221,79 +2281,5 @@ The passenger has reportedly fallen off a train plying from Colombo Fort to Polg
 [Data](articles/4543d168.json)
 
 [Extended Data](ext_articles/4543d168.ext.json)
-
----
-
-### 68 percent of importing vehicles imported by two companies
-
-*2024-07-10 19:18:39* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරක-ක්ෂේත්‍රයට-ගෙන්වන්න-යන-වාහන-වලින්-සියයට-68ක්ම-ගෙන්වන්නේ-සමාගම්-දෙකකින්/11-410727) · `si`
-
-Dr. Harsha de Silva highlighted issues with vehicle imports, stating 68% of permits are problematic. He mentioned the need for vehicles in tourism and the existence of a ban on certain imports. Despite granting approvals for 1,000 vehicles, issues arose during the importation process, particularly with electric vehicles. A joint committee was formed to address these issues involving finance, work, customs, and immigration ministries.
-
-🟩
-
-Chairman of the Public Finance Committee Dr. Harsha de Silva said that there were several issues to import vehicles for importation of vehicles for the importation of 68% permits.
-
-He made this statement in Parliament yesterday (10).
-
-Speaking further Mr. Dr. Harsha de Silva said:
-
-"Tourism needs vehicles. There is a special gazette that has been banned to import the vehicles. There are 1,000 vehicles and approval have been granted. There is a proper mechanism for that. At the same time, a problem has arisen.
-
-That is when the importation of these electripers remit to the importation of these electric vehicles.
-
-Accordingly, the Joint Committees were established as the Committee. It gave us the report, Ministry of Finance, Ministry of Finance, Ministry of Work, Ministry of Work, Castm and Emigresion.. We table it. There is inspiration.
-
-◼️
-
-[Data](articles/5a798442.json)
-
-[Extended Data](ext_articles/5a798442.ext.json)
-
----
-
-### Train falls into death
-
-*2024-07-10 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198682) · `si`
-
-A train passenger fell from the Fort to Polgahawela near Bemmulla railway station, resulting in a tragic accident.
-
-🟩
-
-A train passenger has fallen from train near the Bemmulla railway station this afternoon.
-
-The passenger had fallen from Fort to Polgahawela.
-
-◼️
-
-[Data](articles/633bee19.json)
-
-[Extended Data](ext_articles/633bee19.ext.json)
-
----
-
-### Piyumiti petition from Piyumign to prevent investigations
-
-*2024-07-10 19:08:59* · [`adalk`](https://www.ada.lk/breaking_news/තමන්ට-එරෙහි-විමර්ශන-වළක්වන්නැයි-පියුමිගෙන්-පෙත්සමක්/11-410726) · `si`
-
-Modeling artist Piyumi Hansali filed a petition to halt investigations against him, naming CID officials as respondents. He seeks a stay order from the Court of Appeal until his petition is heard.
-
-🟩
-
-The CID filed a pet petition today (10) a pet petition filed today (10), demanding a prevention of the investigation into the investigation and cash against him in a short period of time.
-
-Piyumi Hansamali also requested the Court of Appeal to avoid the CID investigation against him until the petition was heard and overcome.
-
-The Director of the CID, the Director of the IGP, the Director of the Illegal Police, and the OIC have been named as the respondents of the petition filed by modeling artist Piyumi Hansali.
-
-Piyumi Hansali, who presented his petition through Attorney at Law Sanjeewa Anthony, informed the Illegal Research Investigation Division of the Criminal Investigation Department (illegal assets in the Criminal Investigation Department).
-
-The Illegal Asset Investigation Division of the Criminal Investigation Division (illegal assets Division is requested to issue a Maddamus Rept Order to the Court of Appeal against the Court of Appeal against him.
-
-◼️
-
-[Data](articles/a24da8d5.json)
-
-[Extended Data](ext_articles/a24da8d5.ext.json)
 
 ---

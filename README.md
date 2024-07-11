@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-11 17:36:00**
+As of **2024-07-11 17:56:09**
 
 ## Newspaper Stats
 
-*Scraped **34,797** Articles*
+*Scraped **34,798** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,51 +20,79 @@ adaderanalk | 4,001
 tamilmirrorlk | 4,163
 dailymirrorlk | 4,733
 virakesarilk | 5,438
-adaderanasinhalalk | 5,790
+adaderanasinhalalk | 5,791
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,795 (100.0%) of 34,797 articles have been extended.
+34,797 (100.0%) of 34,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-11 (Thursday)
 
-### රුසියානු හමුදාවේ සිටින ඉන්දියානුවන් මුදවා ගන්න මෝදි රුසියාවට
+### ලෝක ශූර ඉන්දීය ක්‍රිකට් කණ්ඩායම ශ්‍රී ලංකාවට
+
+*2024-07-11 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198711) · `si`
+
+20යි 20 සහ එක්දින ජාත්‍යන්තර තරග සංචාරයක් සඳහා ඉන්දීය කණ්ඩායම ජූලි 22 වනදා ශ්‍රී ලංකාවට පැමිණීමට නියමිතය.
+
+ජූලි 26, 27 සහ 29 යන දින වලදී 20යි 20 ජාත්‍යන්තර තරග පල්ලෙකැලේ ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ දී පැවැත්වෙයි.
+
+මේ අතර දෙරට අතර පැවැත්වෙන එක්දින ජාත්‍යන්තර තරගාවලිය කොළඹ ආර් ප්‍රේමදාස පිටියේදී අගෝස්තු 1, 4 සහ 7 යන දිනවලදී පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/cde64d04.json)
+
+---
+
+### Modi to redeem Indians in the Russian army
 
 *2024-07-11 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198710) · `si`
 
-රුසියානු - යුක්‍රේන යුද්ධයට මැදිවී සිටින ඉන්දියානු ජාතිකයින් සම්බන්ධයෙන් රුසියාවේ සංචාරයක නිරත වූ ඉන්දීය අගමැති නරේන්ද්‍ර මෝදි කරුණු විමසා ඇති බව ජාත්‍යන්තර මාධ්‍ය පවසයි.
+Narendra Modi discussed the Russian-Ukrainian conflict with Russia, addressing concerns about Indian soldiers reportedly enlisted in the Russian army. Russia assured the release of any Indians involved, highlighting a case where a group of Indians were misled into serving there. Approximately 30 Indians are currently part of the Russian forces, with casualties reported on the battlefield. Modi's visit to Russia was aimed at resolving these issues.
 
-එහිදී රුසියානු බලධාරීන් පවසා ඇත්තේ රුසියානු හමුදාවට බඳවා ගෙන සිටින ඉන්දීය ජාතිකයින්ව හැකි ඉක්මණින් සේවයෙන් ඉවත්කර නිදහස් කිරීමට කටයුතු කරන බවයි.
+🟩
 
-ඉන්දියානු ජාතිකයින් පිරිසක් තැරැව්කරුවන් විසින් රවටා රුසියාවට යවා එහිදී ඔවුන්ව හමුදා සේවයට යොමුකර තිබේ.
+Indian Prime Minister Narendra Modi has asked Russia on Russian and Ukrainian war in the war.
 
-මෙතෙක් ඉන්දියානු ජාතිකයින් සිව් දෙනෙක් පමණ යුද බිමේදී මියගොස් ඇති අතර තවත් 30 දෙනෙක් පමණ රුසියානු හමුදාවට අනුයුක්තව සේවය කරන බව වාර්තා වෙයි.
+The Russian authorities have said that the Indian army has recruited to the Russian army, they will be removed and released.
 
-ඔවුන්ව ගලවා ගැනීම අගමැති මෝදි ගේ රුසියානු සංචාරයේ ප්‍රමුඛතම අරමුණක් විය.
+A group of Indian deceived the brokers to be demanded to Russia where they had been sent to Russia.
+
+The number of Indian nationals have died on the battlefield and about 30 others are attached to the Russian army.
+
+Prime Minister Modi was a leading purpose of Prime Minister Modi's Russian tour.
 
 ◼️
 
 [Data](articles/5a5a33a1.json)
 
+[Extended Data](ext_articles/5a5a33a1.ext.json)
+
 ---
 
-### வேலை நிறுத்தத்தினால் 12 எரிபொருள் விநியோக ரயில் சேவைகள் இரத்து
+### 12 fuel delivery train services canceled by strike
 
 *2024-07-11 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/188240) · `ta`
 
-இரண்டு நாட்களாக முன்னெடுக்கப்படும் ரயில் நிலைய அதிபர்கள் மற்றும் கட்டுப்பாட்டாளர்களின் வேலை நிறுத்தத்தினால் கொலன்னாவை மற்றும் கட்டுநாயக்க சர்வதேச விமான நிலையத்திற்கு  இடையில் எரிபொருள் விநியோக 12 ரயில் சேவைகள் இயக்கப்படவில்லை.
+Strike by railway officials cancels 12 fuel delivery trains between Kolonnawa and Katunayake, causing potential losses due to halted supplies of 10,000 liters daily from 10 fuel containers.
 
-இதன் காரணமாக ரயில் திணைக்களத்திற்கு பாரிய நட்டம் ஏற்படுவதாக திணைக்களத்தின் சிரேஷ்ட அதிகாரி ஒருவர் தெரிவித்துள்ளார்.
+🟩
 
-அதன்படி, தினமும் 10,000 லிற்றர் கொள்ளவு கொண்ட  10 எரிபொருள் கொள்கலன்கள் ரயிலில் பொறுத்தப்பட்டு விமான நிலையத்திற்கு தினமும் எரிபொருளை வழங்குவதாக அந்த அதிகாரி மேலும் தெரிவித்துள்ளார்.
+The strike by the railway station principals and regulators for two days has not been operated between Kolonnawa and Katunayake International Airport.
+
+A senior official of the department said that this would result in a huge loss to the train department.
+
+Accordingly, the official added that 10 fuel containers with 10,000 liters are supplied with the train daily.
 
 ◼️
 
 [Data](articles/caa042e6.json)
+
+[Extended Data](ext_articles/caa042e6.ext.json)
 
 ---
 
@@ -2309,31 +2337,5 @@ The initiative originates from a proposal in the 2023 Budget, aimed to revitalis
 [Data](articles/7a521db2.json)
 
 [Extended Data](ext_articles/7a521db2.ext.json)
-
----
-
-### Economic Downs
-
-*2024-07-11 02:36:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தின்-சட்டத்திட்டங்களால்-பொருளாதார-வீழ்ச்சி/175-340193) · `ta`
-
-Vijitha Herath criticizes the government's economic policies, stating they've led to a decline despite claims of strengthening the economy. Herath highlights issues with importing grains that could be locally produced and concerns over vehicle import decisions, including direct imports bypassing local assembly and potential price manipulation.
-
-🟩
-
-JVP parliamentarian Vijitha Herath said that although the government claims to strengthen the national economy, the national economy is in a state of decline due to the legislation imposed by the government.
-
-He said this while addressing a debate in Parliament on Wednesday (10).
-
-Although the government says it is strengthening the national economy, the national economy is in a state of decline.
-
-The President issued a gazette issued on June 28 for imports of grains such as lentils, blackberries, kurakan and gowpy.. It can be produced here. Why import. Importing will cause farmers here to make. He said the agriculture sector of our country will fall into a further decline.
-
-Meanwhile, decisions have been taken regarding vehicle imports. A group of 15 has been set up. There are various parties in that group. It is best to allow vehicle imports through it. But some of the resolutions have been taken in the Cabinet. The decisions are imported directly through the Investment Board.
-
-...
-
-[Data](articles/2bdc9816.json)
-
-[Extended Data](ext_articles/2bdc9816.ext.json)
 
 ---

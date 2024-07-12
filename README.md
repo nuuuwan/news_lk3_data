@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 16:06:59**
+As of **2024-07-12 16:20:00**
 
 ## Newspaper Stats
 
-*Scraped **34,974** Articles*
+*Scraped **34,976** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,969
 economynextcom | 2,072
 dailyftlk | 2,203
-adalk | 3,153
-adaderanalk | 4,015
+adalk | 3,154
+adaderanalk | 4,016
 tamilmirrorlk | 4,192
 dailymirrorlk | 4,733
 virakesarilk | 5,475
@@ -26,31 +26,77 @@ adaderanasinhalalk | 5,820
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,972 (100.0%) of 34,974 articles have been extended.
+34,974 (100.0%) of 34,976 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
 
-### අම්බානි පුතුගේ දින 3ක විවාහ මංගල උත්සවය ඇරඹෙයි
+### Parinda Ranasinghe appointed as new Attorney General
+
+*2024-07-12 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100463/parinda-ranasinghe-appointed-as-new-attorney-general) · `en`
+
+President’s Counsel Mr. K.A. Parinda Ranasinghe has been appointed as the new Attorney General of Sri Lanka by President Ranil Wickremesinghe.
+
+He has been appointed in terms of Article 61E (b) of the Constitution of Sri Lanka at the Presidential Secretariat, a short while ago, the President’s Media Division said.
+
+The former Senior Additional Solicitor General was recently appointed as the Acting Attorney General.
+
+◼️
+
+[Data](articles/c6296747.json)
+
+---
+
+### එක් ආර්ථික ක්‍රමයක් අනුව රට ඉදිරියට ගෙන යා යුතුයි
+
+*2024-07-12 15:53:49* · [`adalk`](https://www.ada.lk/breaking_news/එක්-ආර්ථික-ක්‍රමයක්-අනුව-රට-ඉදිරියට-ගෙන-යා-යුතුයි/11-410757) · `si`
+
+බිංගිරිය අපනයන සැකසුම් කලාපයේ දෙවන සහ තෙවන අදියරේ සංවර්ධන කටයුතු ජනපති ප්‍රධානත්වයෙන් ඇරඹේ
+
+ක්ෂේත්‍ර 05ක් ඔස්සේ බිංගිරිය ප්‍රධාන ආර්ථික කලාපයක් ලෙස සංවර්ධනය කිරීමට සැලසුම්.
+
+ආයෝජන කලාපය සම්පූර්ණයෙන් නිම වීමෙන් පසු ඇමරිකන් ඩොලර් මිලියන 2600ක අපනයන ආදායමක්.
+
+රටේ අපනයන ආර්ථිකය ශක්තිමත් කිරීම වෙනුවෙන් නව ආයෝජන කලාප ඇති කිරීමට කටයුතු කරනවා.
+
+අපනයන ආර්ථිකය, නිෂ්පාදන, සංචාරක හා තාක්ෂණ අංශ මෙන්ම නවීන කෘෂිකර්මාන්තය දියුණු කිරීම තුළින් රට තුළ ශක්තිමත් ආර්ථිකයක් ගොඩනැඟිය හැකි බවත්, ඒ සඳහා මූලික පදනම මේ වන විට ආණ්ඩුව විසින් තබා තිබෙන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ ශ්‍රී ලංකාවේ විශාලතම අපනයන සැකසුම් කලාපය ලෙස අක්කර 1000ක පමණ වපසරියක් සහිත බිංගිරිය අපනයන සැකසුම් කලාපයේ දෙවන සහ තුන් වන අදියරේ සංවර්ධන කටයුතු ආරම්භ කිරීම වෙනුවෙන් අද(12) පැවති උත්සවයට එක්වෙමිනි.
+
+රටේ අපනයන ආර්ථිකය ශක්තිමත් කිරීම වෙනුවෙන් නව ආයෝජන කලාප ඇති කිරීමට කටයුතු කරන බවද ජනාධිපතිවරයා මෙහිදී පැවසීය.
+
+...
+
+[Data](articles/384ab4eb.json)
+
+---
+
+### The 3-day wedding ceremony begins with Ambani Legal
 
 *2024-07-12 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198742) · `si`
 
-යුගයේ වැඩිම පිරිවැයක් දැරූ විවාහ මංගල උත්සවය වනු ඇතැයි පැවසෙන ඉන්දීය ප්‍රකට ධන කුවේරයෙකු වන මුකේෂ් අම්බානිගේ පුතු වන ආනන්ත් අම්බානි සහ රාධිකා මර්චන්ට්ගේ දින 03ක විවාහ මංගල්‍ය අද (12) ආරම්භ වෙයි.
+The grand 3-day Ambani wedding, featuring high-profile guests like Bollywood and Hollywood stars, business tycoons, and even former UK PMs Boris Johnson and Tony Blair, is set to be one of the most extravagant events of the year. The ceremony, adhering to traditional Hindu rituals, is expected to cost the Ambani family around 0.05% of their total wealth, making it a significant event not just for the couple but also for the Indian economy.
 
-හින්දු නක්ෂත්‍ර ක්‍රමවේදය අනුව දින යොදාගත් මෙම විවාහ මංගල උත්සවයේ පළමු දිනයේදී එනම් අද ශුබ් විවාහ එනම් විවාහ චාරිත්‍ර ඉටු කෙරෙයි.
+🟩
 
-ඒ සඳහා බොලිවුඩ්, හොලිවුඩ් තරු මෙන්ම ලොව ප්‍රමුඛ පෙළේ ව්‍යාපාරිකයින් සහ දේශාපලනඥයින්ද ඇරියුම් ලබා තිබේ.
+Anneth Ambani, a 3-day wedding of the Indian Republic of India, is a 3-day wedding of the Indian Republic of India, which is a wedding ceremony of the era.
 
-විවාහ මංගල්‍යයට එක්වීම සඳහා අමෙරිකානු රූපවාහිනි වැඩසටහන් ඉදිරිපත් කරන්නියක් මෙන්ම නිළියක්ද වන කිම් කාර්ඩෂියන් ද මුම්බායි නගරයට ළඟා වුණි.
+The day used by the Hindu Antichcy Methodology Shunager is the first day of the wedding, and the marriage practices.
 
-බ්‍රිතාන්‍ය හිටපු අගමැතිවරුන් වන බොරිස් ජොන්සන් සහ ටොන් බ්ලෙයාර්ද මුම්බායි වෙත පැමිණ ඇත්තේ අම්බානි පවුලේ ආරාධනයට අනුවය.
+It has been identified for Bollywood, Hollywood stars and leading businessmen and politicians.
 
-ඉන්දීය මාධ්‍ය වාර්තා කරන්නේ අම්බානි පවුලට විවාහය සඳහා ඉන්දීය රුපියල් කෝටි 5,000කට ආසන්න පිරිවැයක් දැරීමට සිදුවනු ඇති අතර එය ඔවුන්ගේ මුළු ධනයෙන් සියයට 0.05ක් පමණක් වන බවය.
+An American television program offerings and an American television program offer to join the wedding, and the actress, an actress, approached Mumbai.
+
+Former Prime Minister of British Prime Minister Boris Johnson and Ton Blair have come to Mumbai according to the invitation of the Ambani family.
+
+The Indian media reports that the Ambani family will cost nearly 0.05 percent of their total wealth.
 
 ◼️
 
 [Data](articles/c95f2c2d.json)
+
+[Extended Data](ext_articles/c95f2c2d.ext.json)
 
 ---
 
@@ -498,19 +544,27 @@ Criticists say that this is an intensifying incident that the President's presid
 
 ---
 
-### රජයේ පොහොර සමාගම් දෙක ඒකාබද්ධ කරයි
+### The government combines the two fertilizer companies
 
 *2024-07-12 13:40:35* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-පොහොර-සමාගම්-දෙක-ඒකාබද්ධ-කරයි/11-410755) · `si`
 
-මෙතෙක් කළක් රජයට අයත් කොමර්ෂල් පොහොර හා ලංකා පොහොර සමාගම් දෙක අද දින (12) සිට State Fertilizer නාමය යටතේ රජයට අයත්  සමාගමක් වශයෙන් ඒකාබද්ධ කිරීමට පියවර ගෙන ඇත.
+The government merged its commercial fertilizer company with two others, saving significant funds previously spent on salaries. The consolidation, announced at the Waters Edge Hotel, aims to streamline operations under the new entity, "State Fertilizer." This move follows President Ranil Wickremesinghe's directive to optimize public spending, especially after the 2021 fertilizer crisis led to domestic sufficiency in chemical fertilizers. The merger also addresses the high cost of maintaining separate institutions under the same ministry.
 
-මෙතෙක් කළක් සභාපතිවරු දෙදෙනෙක් හා අධ්‍යක්ෂ මණ්ඩල දෙකක් හා කාර්ය මණ්ඩල දෙකක්  වශයෙන් පැවැති එම සමාගම් දෙක ඒකාබද්ධ කිරීම මගින් මෙතෙක් කළක් වැය වූ විශාල මුදලක් රජයට ඉතිරි කර ගැනීමට හැකි වී තිබේ.
+🟩
 
-රජයට අයත් පොහොර සමාගම් දෙක ඒකාබද්ධ කිරීම හා නව නාමය හඳුන්වා දීම  සඳහා ඊයේ (11) වෝටර්ස් එජ් හෝටලයේ දී උත්සවයක් පැවැතිවිනි. කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතාගේ ප්‍රධානත්වයෙන් පැවැති එම උත්සවයට රාජ්‍ය අමාත්‍යවරුන් වන ඩී. බී. හේරත්, කාදර් මස්තාන්, මොහාන් ප්‍රියදර්ශන සිල්වා,  අමාත්‍යාංශයේ ලේකම් ජානක ධර්මකීර්ති හා State Fertilizer සමාගමේ සභාපති ආචාර්ය ජගත් පෙරේරා යන මහත්වරු ද ඇතුලු විශාල පිරිසක් සහභාගි වී සිටියහ.
+Steps have been taken to merge the government's commercial fertilizer and two Ceylon fertilizer companies today (12).
+
+The government has been able to save a large amount of money so far spent by two chairmen and two staff members and two staff.
+
+Consolidation of the government owned fertilizer companies and introduce the new name at Waters Edge Hotel. State Ministers, Minister of Agriculture and Plantation Industries. B. Herath, Kader Masathan, Mohan Priyadarshana Silva and the Chairman of the Ministry Janaka Dharmakirthi and State Fertilizer and State Fertilizer were also present.
+
+There are currently a large number of institutions that deal with the same subject under the same ministry. As a result, the government has to spend a lot of money in addition to these institutions. Hon. President Ranil Wickremesinghe had instructed the Cabinet of the Hon.
 
 ...
 
 [Data](articles/5cdecc0c.json)
+
+[Extended Data](ext_articles/5cdecc0c.ext.json)
 
 ---
 
@@ -2237,39 +2291,5 @@ The need to decarbonise your supply chain has eventually escalated to a now or n
 [Data](articles/7b940612.json)
 
 [Extended Data](ext_articles/7b940612.ext.json)
-
----
-
-### Is excessive board interference killing executive spirit?
-
-*2024-07-12 01:16:34* · [`dailyftlk`](https://www.ft.lk/columns/Is-excessive-board-interference-killing-executive-spirit/4-764164) · `en`
-
-Management’s role is to manage, and the board’s role is to oversee without killing the innovative spirit of management
-
-Whilst in law, and on paper, a board is superior in rank to management, it is important that a board must never make the management feel inferior. Directors and executives must cohabit on a platform of collaboration, trust, and respect. The board-management relationship must be positioned as a value creating partnership where the board is humble in displaying some subservience to management’s technical, functional, and integrating expertise in running the company and the management appreciates the board’s advisory, guidance, governance, and oversight roles in increasing stakeholder value. A shared vision is vital and will result in management accepting the board’s untethered authority over selected aspects of the company
-
-...
-
-[Data](articles/45b248b7.json)
-
-[Extended Data](ext_articles/45b248b7.ext.json)
-
----
-
-### That regional carrot of doing good and being best
-
-*2024-07-12 01:09:18* · [`dailyftlk`](https://www.ft.lk/columns/That-regional-carrot-of-doing-good-and-being-best/4-764163) · `en`
-
-In addition to pressures of acquiring customers, there are also the stringent compliance regulations from these blocs
-
-The EU and the US disburse significant amounts of money under the banner of doing good, and often mandate local partners with no subject matter expertise to drive programs on mental and sexual health, child welfare, nutrition and employee rights that do more damage than good to the future of our nation. When these are married to local individuals and organisations that give scant regard to the nation, its people and future; the outcomes can be perilous
-
-The European Union and the US are amongst preferred export destinations, but winning buyers from these markets do not come easy. In addition to pressures of acquiring customers, there are also the stringent compliance regulations from these blocs. Hypocrisy and geo-political powerplay is rife, but cracks are slowly but surely beginning to show.
-
-...
-
-[Data](articles/3f3dc953.json)
-
-[Extended Data](ext_articles/3f3dc953.ext.json)
 
 ---

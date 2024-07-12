@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 10:35:21**
+As of **2024-07-12 10:53:42**
 
 ## Newspaper Stats
 
-*Scraped **34,917** Articles*
+*Scraped **34,920** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 312
-colombotelegraphcom | 324
+colombotelegraphcom | 325
 bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,968
 economynextcom | 2,068
 dailyftlk | 2,203
-adalk | 3,148
+adalk | 3,149
 adaderanalk | 4,010
-tamilmirrorlk | 4,176
+tamilmirrorlk | 4,177
 dailymirrorlk | 4,733
 virakesarilk | 5,464
 adaderanasinhalalk | 5,807
@@ -26,29 +26,53 @@ adaderanasinhalalk | 5,807
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,916 (100.0%) of 34,917 articles have been extended.
+34,917 (100.0%) of 34,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
 
-### කොලොන්නේ ඝාතකයින් STF මෙහෙයුමට කොටුවෙයි
+### கொலைகளுக்கு காரணமாக இருந்த இலங்கையர்கள் டுபாயில் கைது
+
+*2024-07-12 10:30:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொலைகளுக்கு-காரணமாக-இருந்த-இலங்கையர்கள்-டுபாயில்-கைது/175-340276) · `ta`
+
+இலங்கையில் இடம்பெறும் தொடர் கொலைகள் மற்றும் ஒழுங்கமைக்கப்பட்ட குற்றங்களைச் செய்து விட்டு டுபாயில் பதுங்கியிருந்த 2 இலங்கையர்கள் அந்நாட்டு பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+இவர்கள் இருவரும் இன்று (12) அதிகாலை குற்றப் புலனாய்வு திணைக்களத்தின் 4 சிரேஷ்ட பொலிஸ் அதிகாரிகள் குழுவினால் கட்டுநாயக்க விமான நிலையத்திற்கு அழைத்து வரப்பட்டனர்.
+
+கொழும்பு, நுகேகொட பிரதேசத்தை சேர்ந்த 48 வயதான களுதுர தினேஷ் சாமந்த டி சில்வா என அழைக்கப்படும் 'பாபி' மற்றும் மட்டக்குளி, சமித்புர பிரதேசத்தை சேர்ந்த 26 வயதான கங்கனம்லாகே திமுத்து சதுரங்க பெரேரா ஆகிய இருவருமே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+கங்கனம்லாகே திமுத்து சதுரங்க பெரேரா  கொழும்பு குற்றத் தடுப்புப் பிரிவினரிடமும், களுதுர தினேஷ் சாமந்த டி சில்வா கொழும்பு நாரஹேன்பிட்டிய ஒழுங்கமைக்கப்பட்ட குற்றப் புலனாய்வுப் பிரிவினரிடமும் ஒப்படைக்கப்படவுள்ளதாகத் தெரிவிக்கப்படுகிறது. R
+
+◼️
+
+[Data](articles/d5d54db9.json)
+
+---
+
+### Kolonnators arrested for STF operation
 
 *2024-07-12 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198728) · `si`
 
-කොලොන්න පොලිස් වසමේ දි වෙඩිතබා මනුෂ්‍ය ඝාතනයක් සිදුකිරිම සම්බන්ධයෙන් සැකකරුවන් වන වෙඩික්කරුවන් දෙදෙනාව පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+STF arrests Kolonnawa Police Division suspects linked to a murder plot, seizing weapons and drugs. The suspects, including 'Jungle Mahinda' and another individual, were apprehended in Middeniya. Investigations reveal a criminal conspiracy involving large sums of money and narcotics for the assassination.
 
-එම සැකකරුවන් ව මිද්දෙනිය පොලිස් වසමේ දී අත්අඩංගුවට ගෙන තිබුණි.
+🟩
 
-පසුගිය අඟහරුවාදා (09) රාත්‍රියේ කොලොන්න පොලිස් වසමේදි තේ වගා ව්‍යාපරිකයෙක්ව ඔහුගේ නිවසේදී වෙඩිතබා ඝාතනය කිරිමට සම්බන්ධයෙන්  රාමනායකගේ ඉන්දික කුමාර නොහොත් "කැලෑ මහින්ද" හා ජයවර්ධන අබේසිංහ පතිරණගේ සඳකැළුම් ජයවර්ධන නම් පුද්ගලයාව අත්අඩංගුවට ගෙන තිබේ.
+Police Special Task Force personnel have been arrested by the STF personnel to carry out a wedigawa killing of the Kolonnawa Police Division.
 
-ඔවුන් සතුව තිබී ගල්කටස් වර්ගයේ ගිනි අවි 02ක්, බෝර 12 ජිව උණ්ඩ 02ක්, හෙරොයින් ග්‍රෑම් 100 ක්, වෙඩිතැබීම සඳහා පැමිණි බවට සැකකරන යතුරුපැදිය හා ජංගම දුරකතන 03ක් STF භාරයට ගෙන තිබුණි.
+The suspects were arrested in Middeniya Police Division.
 
-තවද මෙම සැකකරුවන් දැනට ප්‍රංශයේ සිට මෙරට මත්ද්‍රව්‍ය ජාලය මෙහෙයවනු ලබන සංවිධාත්මක අපරාධ කල්ලි සාමාජිකයකු වන රොටුඹ අමිල නැමැත්තාගේ ප්‍රධාන ගෝලයින් වන බවත් රොටුඹ අමිල නැමැත්තාගේ ලොකු අමිමා වෙත පහරදීමක් සම්බන්ධව එයට පළිගැනීමක් වශයෙන් කොලොන්නේ පදිංචිව සිටි එස්.බි. කුමාරසේන ව වෙඩිතබා ඝාතනය කර ඇති බවත් මූලික විමර්ශන වලදී හෙළිවී තිබේ.
+Ramanayake's Indika Kumara alias' jungle Mahinda "and Jayawardene Abeysinghe Pathiruthhi Jayawardena has been arrested in connection with the Klonnawa police in the Kolonna Police Division last night.
+
+The STF seized two motorcycle and three mobile phones, which were in the possession of two flats of firearms, two bullets, 100 grams of bullets.
+
+The suspects are the main disciples of the Rotumba Amila, a member of the Rotumba Amila, who is currently conducting a criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal crime, SB. Preliminary investigations have revealed that Kumarasey had been shot dead.
 
 ...
 
 [Data](articles/b96a9083.json)
+
+[Extended Data](ext_articles/b96a9083.ext.json)
 
 ---
 
@@ -87,6 +111,20 @@ The arrested individuals are all Indian nationals aged 25, 26, 33, 38, 39, and 4
 [Data](articles/c0631444.json)
 
 [Extended Data](ext_articles/c0631444.ext.json)
+
+---
+
+### ජනාධිපති ශිෂ්‍යත්ව පිරිනැමීම දිස්ත්‍රික් මට්ටමින් ඇරඹේ
+
+*2024-07-12 09:07:36* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-ශිෂ්‍යත්ව-පිරිනැමීම-දිස්ත්‍රික්-මට්ටමින්-ඇරඹේ/11-410752) · `si`
+
+අ.පො.ස. උසස් පෙළ සහ පළමු ශ්‍රේණියේ සිට 11 ශ්‍රේණිය දක්වා අධ්‍යාපනය ලබන අඩු ආදායම්ලාභී පවුල්වල සිසුන් වෙනුවෙන් පිරිනැමෙන ජනාධිපති ශිෂ්‍යත්ව ප්‍රදානය අද (12) සිට දිස්ත්‍රික් මට්ටමින් ආරම්භ කෙරේ.
+
+කොළඹ දිස්ත්‍රික්කයට අදාළ ශිෂ්‍යත්ව ලබාදීම පසුගියදා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පසුගියදා (ජුනි 19) අරලියගහ මන්දිරයේ දී සිදු කෙරුණු අතර අනෙකුත් දිස්ත්‍රික්ක 24ට අදාළ ශිෂ්‍යත්ව පිරිනැමීමට මෙලෙස අද සිට දීප ව්‍යාප්තව සිදු කෙරෙනු ඇත.
+
+...
+
+[Data](articles/0cfe72a6.json)
 
 ---
 
@@ -241,6 +279,18 @@ The Department of Meteorology has informed the people to take necessary steps to
 [Data](articles/47cb7d5a.json)
 
 [Extended Data](ext_articles/47cb7d5a.ext.json)
+
+---
+
+### The Role Of BRICS+: Rerouting Sri Lanka’s Foreign Policy
+
+*2024-07-12 05:02:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-role-of-brics-rerouting-sri-lankas-foreign-policy/) · `en`
+
+“It is imperative that we strive hard to ensure a rules-based order, not only when it suits the rich and powerful, but as an equitable and justifiable model for a sustainable world order. This means upholding international law and ensuring the principles of fairness, justice, and respect for sovereignty guide our actions. Only then can we create a world where all nations, regardless of their size or power, have a fair opportunity to thrive” ~ Foreign Minister Ali Sabry
+
+...
+
+[Data](articles/4f24d897.json)
 
 ---
 
@@ -2193,67 +2243,5 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/5d36d292.json)
 
 [Extended Data](ext_articles/5d36d292.ext.json)
-
----
-
-### World Champions Indian Cricket Team
-
-*2024-07-11 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198711) · `si`
-
-The Indian cricket team will tour Sri Lanka from July 22, playing T20 matches on July 26 and 29 at the Pallekele International Cricket Stadium, followed by one-day internationals on August 1, 4, and 7 at the Colombo R Premadasa Ground.
-
-🟩
-
-The Indian team is due to arrive in Sri Lanka on July 22 for a tour of 20 and one day international visit.
-
-20 and 20 on July 26 and 29 pm on July 26 and 29 at the Pallekele International Cricket Stadium.
-
-Meanwhile, the one-day international tournament between the two countries will be held on August 1, 4 and 7 at the Colombo R Premadasa Ground.
-
-◼️
-
-[Data](articles/cde64d04.json)
-
-[Extended Data](ext_articles/cde64d04.ext.json)
-
----
-
-### Sri Lanka inks deal with China for smart classroom solutions, digital transformation in ed
-
-*2024-07-11 17:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-inks-deal-with-china-for-smart-classroom-solutions-digital-transformation-in-ed-171774/) · `en`
-
-ECONOMYNEXT — Sri Lanka has signed a letter of exchange with the the China International Development Cooperation Agency (CIDCA) on a Digital Transformation of General Education project under the China-Aid programme.
-
-Sri Lanka Treasury Secretary Mahinda Siriwardana tweeted Thursday July 11 afternoon that he signed the agreement on behalf of the government CIDCA Vice President Yang Weiqun in Beijing, China.
-
-The proposed grant is a visionary initiative designed to catalyse the digital transformation of Sri Lanka’s education sector, said Siriwardana in a statement.
-
-“The primary focus of the grant is to establish a state-of-the-art educational infrastructure, including a cutting-edge Educational Data Centre, a Multimedia Distance Learning and Conference Solution, and a National Streaming Hub,” he said.
-
-...
-
-[Data](articles/cd153c99.json)
-
-[Extended Data](ext_articles/cd153c99.ext.json)
-
----
-
-### ADB approves Sri Lanka US$100mn power sector policy loan
-
-*2024-07-11 17:25:00* · [`economynextcom`](https://economynext.com/adb-approves-sri-lanka-us100mn-power-sector-policy-loan-171775/) · `en`
-
-ECONOMYNEXT – Manila-based Asian Development Bank said it had approved a 100 million US dollar policy loan to support reforms in the power sector in co-ordination with a reform program backed by the International Monetary Fund.
-
-“Developing cost-competitive renewable energy and providing reliable and affordable electricity supply—with a transparent and independent power sector regulatory framework—will help Sri Lanka drive economic growth and address the current financial and economic crisis,” ADB’s Principal Energy Specialist Jaimes Kolantharaj said in a statement.
-
-“This program will support reforms in the power sector introduced under the Electricity Act, including institutional and regulatory reforms and improve operational sustainability of the electricity sector.
-
-“The program will also support the development of renewable energy to accelerate the country’s transition to clean energy as envisaged under Sri Lanka’s nationally determined contributions.”
-
-...
-
-[Data](articles/379edc4f.json)
-
-[Extended Data](ext_articles/379edc4f.ext.json)
 
 ---

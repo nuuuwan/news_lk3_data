@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 18:14:39**
+As of **2024-07-12 18:26:11**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,825
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,983 (100.0%) of 34,984 articles have been extended.
+34,984 (100.0%) of 34,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
 
-### රක්ෂිත බන්ධනාගාරගත කළ IPගේ කට කැපීම ගැන වාර්තාවක් ඉල්ලයි
+### Request a report on cutting for cutting IP's
 
 *2024-07-12 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198748) · `si`
 
-අල්ලස් ලබාගැනීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කරන ලද කොළඹ අපරාධ කොට්ඨාසයේ පොලිස් පරීක්ෂකවරයෙකුට බන්ධනාගාරය තුළදී පහරදීමේ සිද්ධිය සම්බන්ධයෙන් වාර්තාවක් ඉදිරිපත් කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය බන්ධනාගාර අධිකාරිවරයාට නියෝග කළේය.
+The Colombo Magistrate's Court has directed the Colombo Crimes Division to investigate a case involving IP cutting, based on a motion from the suspect's lawyers. The court has also tasked the Borella Police with conducting an investigation and submitting a report.
 
-රක්ෂිත බන්ධනාගාර ගත කර සිටින එම සැකකාර පොලිස් පරීක්ෂකවරයා වෙනුවෙන් ඔහුගේ නීතිඥවරු ඉදිරිපත් කළ මෝසමක් සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා විසින් මෙම නියෝගය නිකුත් කළේය.
+🟩
 
-ඊට අමතරව මෙම සිද්ධිය සම්බන්ධයෙන් විමර්ශනය කොට වාර්තාවක් ඉදිරිපත් කරන ලෙසත් මහෙස්ත්‍රාත්වරයා විසින් බොරැල්ල පොලීසියට වැඩිදුරටත් නියෝග කර සිටියේය.
+The Colombo Magistrate's Court ordered the Superintendent of the Colombo Crimes Division of the Colombo Crimes Division of the Colombo Crimes Division of the Colombo Crimes Division of the Colombo Crimes Division of the Colombo Crimes Division of the Colombo Crimes Division.
+
+The suspect was considering the motion presented by his lawyers for the Inspector General of Police, the Chief Magistrate Thilina Gamage issued the order.
+
+In addition, the Magistrate also ordered the Borella Police to investigate and submit a report.
 
 ◼️
 
 [Data](articles/5d76a17f.json)
+
+[Extended Data](ext_articles/5d76a17f.ext.json)
 
 ---
 

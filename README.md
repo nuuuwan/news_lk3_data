@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 11:05:15**
+As of **2024-07-12 11:20:00**
 
 ## Newspaper Stats
 
-*Scraped **34,925** Articles*
+*Scraped **34,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ islandlk | 1,968
 economynextcom | 2,068
 dailyftlk | 2,203
 adalk | 3,149
-adaderanalk | 4,011
-tamilmirrorlk | 4,178
+adaderanalk | 4,012
+tamilmirrorlk | 4,179
 dailymirrorlk | 4,733
 virakesarilk | 5,464
-adaderanasinhalalk | 5,809
+adaderanasinhalalk | 5,811
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,920 (100.0%) of 34,925 articles have been extended.
+34,925 (100.0%) of 34,929 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
+
+### FR petition filed seeking to prevent Presidential Election
+
+*2024-07-12 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100459/fr-petition-filed-seeking-to-prevent-presidential-election) · `en`
+
+Attorney-at-Law Aruna Laksiri has filed a Fundamental Rights (FR) petition before the Supreme Court, seeking an order to prevent holding of the Presidential Election as the 19th Amendment to the Constitution has not been properly passed in Parliament.
+
+The petition argues that the 19th Amendment to the Constitution was not properly passed in Parliament and therefore calls for a referendum to ensure its proper passage, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/c89b172e.json)
+
+---
+
+### ජනාධිපතිවරණය ගැන තීන්දුවක් ඉල්ලා තවත් පෙත්සමක්
+
+*2024-07-12 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198732) · `si`
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනය විධිමත් ආකාරයෙන් සම්මත වී නොමැති නිසා එය ජනමතවිචාරණයකට යොමු කර ඉන් අනුමැතිය ලබාගන්නා තුරු ඉදිරි ජනාධිපතිවරණයක් පැවැත්වීම තුළින් ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝනය වන බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සමක් ගොනු කර තිබේ.
+
+නීතිඥ අරුණ ලක්සිරි උණවටුන මහතා විසින් මෙම පෙත්සම ඉදිරිපත් කර ඇත.
+
+එහි වගඋත්තරකරුවන් ලෙස මැතිවරණ කොමිසම සහ එහි සාමාජිකයින්, පාර්ලිමේන්තු මහ ලේකම්වරයා සහ නීතිපතිවරයා නම් කර තිබේ.
+
+පෙත්සම්කරු කියා සිටින්නේ ආණ්ඩු ක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනය තුළින් ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 70 වන ව්‍යවස්ථාව සංශෝධනය කොට තේරී පත්වෙන පාර්ලිමේන්තුවක් වසරක් ගෙවී යාමෙන් පසුව විසුරුවා හැරීමට ජනාධිපතිවරයා සතු බලය අහිමි කිරීමට කටයුතු කර ඇති බවය.
+
+එම සංශෝධනය ජනමතවිචාරණයකට යොමු කළ යුතු බවට ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් තීන්දු කර තිබුණ ද එය ජනමතවිචාරණයකින් මේ දක්වා අනුමත වී නොමැති බව පෙත්සම්කරු කියා සිටියි.
+
+...
+
+[Data](articles/928dbc95.json)
+
+---
+
+### බිංගිරිය ට ගිය ජනපති
+
+*2024-07-12 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198731) · `si`
+
+බිංගිරිය අපනයන සැකසුම් කලාපයේ දෙවැනි සහ තෙවැනි අදියර සංවර්ධනය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහභාගී වූ උත්සවයකදී ආරම්භ කර තිබේ.
+
+මෙම අපනයන සැකසුම් කලාපය මෙරට විශාලතම අපනයන සැකසුම් කලාපය ලෙස සංවර්ධනය කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/18d14609.json)
+
+---
+
+### இந்திய பிரஜைகள் ஆறு பேர் கைது
+
+*2024-07-12 10:55:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-பிரஜைகள்-ஆறு-பேர்-கைது/175-340278) · `ta`
+
+வீசா இன்றி இலங்கையில் தங்கியிருந்த 06 இந்திய பிரஜைகளை சட்டவிரோத சிகரெட்டுகளுடன் கட்டுநாயக்க பொலிஸார் கைது செய்துள்ளனர்.
+
+கட்டுநாயக்க பகுதியில் சந்தேகத்திற்கிடமான வெளிநாட்டவர்கள் குழுவொன்று தங்கியிருப்பதாக கட்டுநாயக்க பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில் நேற்று (11) பிற்பகல் மேற்கொள்ளப்பட்ட தேடுதலின் போது இந்த வெளிநாட்டவர்கள் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+இதன்போது, சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட 1,000 சிகரெட்டுகளை (50 பொதிகள்) வெளிநாட்டவர் ஒருவர் வைத்திருந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+25, 26, 33, 38, 39 மற்றும் 42 வயதுடைய இந்திய பிரஜைகள் குழுவொன்றே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/136aedeb.json)
+
+---
 
 ### Kolonna shooting: STF arrests two murder suspects with firearms and drugs
 
@@ -50,53 +116,73 @@ Meanwhile it has been uncovered that these suspects are close associates of “R
 
 [Data](articles/0ce27f0d.json)
 
+[Extended Data](ext_articles/0ce27f0d.ext.json)
+
 ---
 
-### A-9 මාර්ගයේ සිදුවූ බිහිසුණු අනතුර
+### The horrific accident on the A-9
 
 *2024-07-12 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198730) · `si`
 
-මාන්කුලම් පොලිස් වසමේ ඊයේ (11) උදෑසන කාලයේ සිදු වූ අනතුරකින් කාන්තාවක් ජීවිතක්ෂයට පත්ව තිබුණි.
+In a tragic accident on the A-9 highway, a woman died, while two other passengers were seriously injured. The incident involved a van traveling from Vavuniya to Kandy via Jaffna and Kokavil. The driver has been detained, and further inquiries are ongoing.
 
-යාපනය සිට මහනුවර මාර්ගයේ කොකාවිල් ප්‍රදේශයේදී වව්නියාවේ සිට කිලිනොච්චිය දෙසට ධාවනය වූ වෑන් රථයක් එම දිශාවටම ධානවය වූ ලොරි රථයකට ඉස්සර කිරීමට යාමේදී ලොරි රථයේ පිටුපස ගැටී එම අනතුර සිදු වී ඇති බව පොලීසිය පවසයි.
+🟩
 
-අනතුරින් බරපතල තුවාල ලැබූ වෑන් රථයේ ගමන් කළ කාන්තාවන් දෙදෙනෙකු සහ පිරිමි පුද්ගලයෙකු කිලිනොච්චිය රෝහලට ඇතුළු කිරීමෙන් අනතුරුව එක් කාන්තාවක්  මියගොස් තිබේ.
+A woman was killed in a criminal accident in the Mankulam Police Division yesterday (11).
 
-සිද්ධිය සම්බන්ධයෙන් වෑන් රථයේ රියදුරු මාන්කුලම් පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති අතර පොලීසිය වැඩිදුර විමර්ශන සිදු කෙරේ.
+The accident had occurred when a van that was operated from Vavuniya to Kilinochchi towards Kokavil in Jaffna to Kandy, police said.
+
+Two women and a man were admitted to the Kilinochchi hospital, who was seriously injured in the accident.
+
+The driver of the van has been arrested by the driver of the van and the police are conducting further investigations.
 
 ◼️
 
 [Data](articles/bde0e07e.json)
 
+[Extended Data](ext_articles/bde0e07e.ext.json)
+
 ---
 
-### வாகன வேக வரம்புகள் தொடர்பான வர்த்தமானி
+### Gazette relating to vehicle speed limits
 
 *2024-07-12 10:42:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-வேக-வரம்புகள்-தொடர்பான-வர்த்தமானி/175-340277) · `ta`
 
-வீதி தொடர்பான வேக வரம்புகள் தொடர்பில் தேவையான விதிமுறைகள் அடங்கிய வர்த்தமானி எதிர்வரும் இரண்டு வாரங்களுக்குள் வெளியிடப்படும் என போக்குவரத்து இராஜாங்க அமைச்சர் லசந்த அழகியவன்ன தெரிவித்துள்ளார்.
+Transport Minister Lasantha Alagavanna announced a gazette with road speed regulations will be out soon, within two weeks. Additionally, the government allocated 50 million rupees for the police to buy speed control equipment.
 
-வீதிகளில் வேகத்தை கட்டுப்படுத்துவதற்கு தேவையான இயந்திரங்களை கொள்வனவு செய்வதற்காக 50 மில்லியன் ரூபாயை இலங்கை பொலிஸாருக்கு வழங்குவதற்கு வீதி பாதுகாப்பு தொடர்பான தேசிய சபை தீர்மானித்துள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டுள்ளார்.
+🟩
+
+Transport Minister Lasantha Alagavanna said that the gazette containing the necessary regulations on road speeds will be released within the next two weeks.
+
+The Minister of State has decided to provide 50 million rupees to the Sri Lankan police for the purchase of machinery to control the speed on the streets.
 
 ◼️
 
 [Data](articles/fd6db58c.json)
 
+[Extended Data](ext_articles/fd6db58c.ext.json)
+
 ---
 
-### වාහන වේග සීමා සම්බන්ධයෙන් ගැසට් පත්‍රයක්
+### Gazette on vehicle speed boundaries
 
 *2024-07-12 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198729) · `si`
 
-මාර්ග ආශ්‍රිත වේග සීමා සම්බන්ධයෙන් අවශ්‍ය කෙරෙන රෙගුලාසි ඇතුළත් ගැසට් පත්‍රය ඉදිරි සති දෙක ඇතුළත නිකුත් කිරීමට නියමිත බව ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා පවසයි.
+Transport Minister Lasantha Alagiyawanna announced that regulations for road speed limits will be published soon. The UNP's National Council allocated Rs. 50 million for road safety equipment. In 2023, there were 2214 road accidents resulting in 2321 deaths; by mid-year, 1103 accidents caused 1154 fatalities. To address this, several initiatives have been launched.
 
-මාර්ග ආශ්‍රිත වේග පාලනය කිරීම සඳහා අවශ්‍ය යන්ත්‍ර මිලදී ගැනීම සඳහා මාර්ග ආරක්ෂාව පිළිබඳ ජාතික සභාව විසින් ශ්‍රී ලංකා පොලීසියට රුපියල් මිලියන 50ක මුදලක් ලබාදීමට තීරණය කර ඇති බව ද රාජ්‍ය අමාත්‍යවරයා ප්‍රකාශ කර තිබේ.
+🟩
 
-"2023 වර්ෂයේ මාර්ග රිය අනතුරු 2214ක් වාර්තා වුණා. එම මාර්ග අනතුරු ආශ්‍රිතව පුද්ගල මරණ 2321ක් සිදුව තිබෙනවා. මෙම වසරේ ද ඉකුත් මස 30 වනදා වන විට මාර්ග අනතුරු 1103ක් වාර්තා වී තිබෙනවා. එම මාර්ග අනතුරු හේතුවෙන් පුද්ගල මරණ 1154ක් වාර්තා වී තිබෙනවා. එම නිසා මෙම තත්ත්වය අවම කර ගැනීම සඳහා විවිධ වැඩසටහන් ගණනාවක් අප අමාත්‍යංශය විසින් ක්‍රියාත්මක කර තිබෙනවා".
+Minister of Transport Lasantha Alagiyawanna stated that the gazette sheet of the required regulations regarding road-related speed boundaries will be issued within the next two weeks.
+
+The National Council (UNP) has decided to provide Rs. 50 million by the National Council for Road Safety to purchase machines for road control.
+
+There were 2214 road accidents in 2023. 2321 deaths have been reported. At the 30th of this year, 1103 road accidents have been reported on the 30th of this year. 1154 deaths have been reported due to these road accidents. Therefore, we have implemented a number of various programs to minimize this situation. "
 
 ◼️
 
 [Data](articles/34a88da6.json)
+
+[Extended Data](ext_articles/34a88da6.ext.json)
 
 ---
 
@@ -375,6 +461,8 @@ Hajj is a pilgrimage (spiritual duty) made to the Kaaba (the house of Allah) in 
 ...
 
 [Data](articles/4b39f139.json)
+
+[Extended Data](ext_articles/4b39f139.ext.json)
 
 ---
 
@@ -2131,99 +2219,5 @@ He said that these persons also have the right to get a special scholarship offe
 [Data](articles/7817abce.json)
 
 [Extended Data](ext_articles/7817abce.ext.json)
-
----
-
-### Trade union leaders, including Joseph Stalin, are terrorists - Kanchana
-
-*2024-07-11 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/188230) · `ta`
-
-Kanchana labels railway union leaders, including Joseph Stalin, as terrorists for holding hostages to demand salary payments and disrupts public transport, crucial for the nation's progress. She urges decisive action against such unions to ensure the country's advancement. Despite opposition attempts to delay the presidential election, the government remains committed to holding it promptly, focusing on economic recovery while highlighting the negative impacts of union strikes on the national economy.
-
-🟩
-
-The railway union leaders, including Joseph Stalin, who are trying to fulfill their demands by holding innocent people as hostage, should be referred to as terrorists.. How to make new appointments as it is a great struggle to pay salaries to those in the service. If the country does not make serious decisions against the improperly acting unions, the country cannot progress. Minister of Electricity and Power and Energy Kanjana Wijesekera said that even if the opposition parties come to power, they will have this.
-
-He was speaking at the postponement debate on holding the presidential election in a timely manner in accordance with the legal arrangements in Parliament on Thursday (11).
-
-Opponents have forgotten the maneuvers of the election in the past that the government is maneuvering the election. The opposition parties have come up with a adjournment motion on the presidential election in a timely manner.
-
-...
-
-[Data](articles/5583da38.json)
-
-[Extended Data](ext_articles/5583da38.ext.json)
-
----
-
-### US - Sri Lanka Partnership Discussion: A team headed by Foreign Secretary Aruni Wijewardena
-
-*2024-07-11 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/188251) · `ta`
-
-A high-level committee led by Foreign Secretary Aruni Wijewardena will attend the 5th US-Sri Lanka Partnership Discussion, aiming to enhance bilateral ties through economic, security, democratic, human rights, environmental, scientific, educational, and cultural cooperation. The meeting, facilitated by the US State Department, seeks to foster mutual benefits and address global issues together.
-
-🟩
-
-A high -level committee headed by Foreign Secretary Aruni Wijewardena will participate in the 5th US -Sri Lanka Partnership Discussion of the US State Department on Friday (12).
-
-Sri Lanka's Secretary of State for External Affairs Aruni Wijewardena will be able to withstand the US State Department's political affairs on behalf of the US State Department, John Pass, on behalf of the US, to the fifth consecutive time today to further strengthen bilateral harmony between Sri Lanka and the US.
-
-In this case, the possibility of further strengthening the goodwill between the two countries, including economics, security cooperation, democracy, harmony, human rights, climate change, science and technical cooperation, educational and cultural cooperation and relations between the people.
-
-Similarly, promoting two countries, investing in mutual benefit for the two countries, and cooperation in dealing with public concerns on the world stage.
-
-◼️
-
-[Data](articles/226cee60.json)
-
-[Extended Data](ext_articles/226cee60.ext.json)
-
----
-
-### Exploring the president's term
-
-*2024-07-11 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/188221) · `ta`
-
-The article discusses constitutional debates around the president's term length, with the Supreme Court questioning the validity of six-year terms. Former President Maithripala Sirisena challenged his own tenure, leading to discussions about the 19th Amendment's impact. Despite a High Court ruling against a petition to suspend elections due to a formalized candidate, the government remains focused on amending the constitution to clarify the president's term.
-
-🟩
-
-Article 83 (b) of the Constitution will not be directly or indirectly influenced by the President's tenure.
-
-He was speaking at the postponement debate on holding the presidential election in a timely manner in accordance with the legal arrangements in Parliament on Thursday (11).
-
-The Supreme Court has clearly issued the president's tenure as a skepticism.Or six years?That is re -examined.
-
-Former President Maithripala Sirisena has sought the Supreme Court regarding his tenure.
-
-The 19th Amendment of the Constitution was passed only after Maithripala Sirisena was elected president. The Supreme Court has given the Supreme Court aims that after the implementation of this amendment, its arrangements will be considered the basic law of the country.
-
-...
-
-[Data](articles/0229f9ca.json)
-
-[Extended Data](ext_articles/0229f9ca.ext.json)
-
----
-
-### Take steps to ensure the safety of the people - the opposition leader requests the government
-
-*2024-07-11 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/188224) · `ta`
-
-Opposition leader Sajith Premadasa urges the government to prioritize public safety amidst widespread violence and disorder, offering full cooperation for law enforcement and legislative measures to address the crisis.
-
-🟩
-
-Law and order has been disrupted and threatened by people's safety. The government should set up a massive program on the safety of the people. Opposition leader Sajith Premadasa said, "We are ready to cooperate."
-
-There is a massive issue in the country's law and order. Come, attack, go. Violence is headed everywhere. There has been great fear among the people in this regard. Have caused doubts. It is the duty of the government to ensure the safety of the people. There has been a major issue regarding security. How are you going to solve this.
-
-We have some responsibility for the safety of the people. We will provide our cooperation to prevent this. Killings happen. We have to talk about this. This is the problem that people face.
-
-...
-
-[Data](articles/81d4c42c.json)
-
-[Extended Data](ext_articles/81d4c42c.ext.json)
 
 ---

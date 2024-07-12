@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 08:23:16**
+As of **2024-07-12 08:35:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,805
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,907 (100.0%) of 34,911 articles have been extended.
+34,911 (100.0%) of 34,911 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,45 +44,63 @@ The suspects, K. Dimuthu Chaturanga (26) and Dinesh Sharman (48), were escorted 
 
 [Data](articles/3ecad2b5.json)
 
+[Extended Data](ext_articles/3ecad2b5.ext.json)
+
 ---
 
-### ඩුබායිවලදී අත්අඩංගුවට අපරාධකරුවන් දෙදෙනෙක් මෙරටට
+### Two criminals arrested in Dubai
 
 *2024-07-12 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198726) · `si`
 
-ශ්‍රී ලංකාව තුළ මනුෂ්‍ය ඝාතන සහ සංවිධානාත්මක අපරාධ සිදුකර ඩුබායි හි සැඟවී සිටි ශ්‍රී ලාංකිකයන් දෙදෙනෙකු එරට දී අත්අඩංගුවට ගෙන තිබේ.
+Two Sri Lankan criminals, aged 48 and 26, were arrested in Dubai for murder and other offenses. They were transported back to Sri Lanka by police and will be handed over to the Colombo Crimes Division.
 
-සැකකරුවන් අද (12) අලුයම අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු ජ්‍යෙෂ්ඨ පොලිස් නිලධාරීන් සිව්දෙනෙකුගෙන් යුතු කණ්ඩායමක් විසින් කටුනායක ගුවන්තොටුපොළ වෙත රැගෙනවිත් ඇත.
+🟩
 
-මෙලෙස රැගෙන විත් ඇත්තේ  කොළඹ, නුගේගොඩ ප්‍රදේශයේ පදිංචි 48 හැවිරිදි කලුදුර දිනේෂ් සාමන්ත ද සිල්වා නොහොත් "බබී" නැමැත්තා සහ මට්ටක්කුලිය, සමිට්පුර ප්‍රදේශයේ පදිංචි 26 හැවිරිදි කංකානම්ලාගේ දිමුතු චතුරංග පෙරේරා නැමැති අපරාධකරුවන් දෙදෙනාය.
+Two Sri Lankans hiding in Dubai have been arrested in Dubai, who committed murders and organizational crimes in Sri Lanka.
 
-මොවුන් දෙදෙනා අද අලුයම 05.10 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරන ගුවන් යානයෙන් කටුනායක ගුවන්තොටුපොළ වෙත රැගෙන විත් තිබේ.
+The suspects were taken to the Katunayake airport by a group of four senior police officers of the Criminal Investigations today (12).
 
-කංකානම්ලාගේ දිමුතු චතුරංග පෙරේරා නැමැත්තා කොළඹ අපරාධ කොට්ඨාසය වෙත භාර දීමට නියමිත අතර කලුදුර දිනේෂ් සාමන්ත ද සිල්වා නැමැත්තා කොළඹ, නාරාහේන්පිට මනුෂ්‍ය ඝාතන සහ සංවිධානාත්මක අපරාධ විමර්ශන කොට්ඨාසය වෙත භාර දීමට නියමිත බව වාර්තා වේ.
+The 48-year-old Kalubadu Dimuthu, a resident of Nugegoda, Colombo, and 26 year old residents of Nugegoda, Colombo Dimuthu's Dimuthu Chathu Chathu Chathura Chathurangala Chathurangala Chathurangala Chathurangala Chathuranga Perera.
+
+The two this morning at Dubai from Dubai to SriLankan Airlines has been brought to the Katunayake Airport on the plane.
+
+Kankanam and Dimuthu Chaturanga Perera is to be handed over to the Colombo Crimes Division, reports say.
 
 ◼️
 
 [Data](articles/45471df3.json)
 
+[Extended Data](ext_articles/45471df3.ext.json)
+
 ---
 
-### පාසල් දරුවන්ට විශේෂ නිවේදනයක්
+### Special announcement for school children
 
 *2024-07-12 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198725) · `si`
 
-ජනාධිපති ශිෂ්‍යත්ව ප්‍රදානය අද (12)  සිට දිස්ත්‍රික් මට්ටමින් ආරම්භ කිරීමට නියමිතය.
+Starting today, the President's scholarships open for application, aimed at supporting students from low-income families in Grades 1-11. The initiative, led by President Ranil Wickremesinghe during his visit to the Colombo district, extends to 24 districts, with scholarship distribution scheduled across various dates in July. This effort, coordinated by zonal education offices and principals, also includes the resumption of security insurance for children.
 
-පළමු ශ්‍රේණියේ සිට 11 ශ්‍රේණිය දක්වා අධ්‍යාපනය ලබන අඩු ආදායම්ලාභී පවුල්වල සිසුන් සඳහා මෙම ශිෂ්‍යත්ව පිරිනැමීමට නියමිතව ඇත.
+🟩
 
-කොළඹ දිස්ත්‍රික්කයට අදාළ ශිෂ්‍යත්ව ලබාදීම පසුගියදා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් අරලියගහ මන්දිරයේ දී සිදු කෙරුණු අතර අනෙකුත් දිස්ත්‍රික්ක 24ට අදාළ ශිෂ්‍යත්ව පිරිනැමීම මෙලෙස අද සිට දීප ව්‍යාප්තව සිදු කිරීමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය පැවසුවේය.
+The President's scholarships will be opened from today (12).
 
-ඒ අනුව හම්බන්තොට දිස්ත්‍රික්කයේ තෝරාගත් සිසුන් සඳහා ශිෂ්‍යත්ව ප්‍රදානය අද සහ එළෙඹෙන 15 වනදා සිදු කෙරෙන අතර, බදුල්ල, මාතලේ සහ යාපනය දිස්ත්‍රික්කවල ජුලි 13 වන දින ද, කිලිනොච්චි දිස්ත්‍රික්කයේ ජූලි 14 වන දින ද, ගම්පහ දිස්ත්‍රික්කයේ ජූලි 16 සහ 17 යන දිනයන්හිදී ද සිදුකෙරෙනු ඇති.
+These scholarships are due to be awarded to students of low income families who are studying in Grade 1 to Grade 11.
 
-ගාල්ල සහ අනුරාධපුර දිස්ත්‍රික්කවල දරුවන් සඳහා ජූලි 15 දින ද, වවුනියාව, මඩකලපුව, රත්නපුර, කෑගල්ල, නුවරඑළිය දිස්ත්‍රික්කවල ජුලි 16 දින ද, ශිෂ්‍යත්ව පිරිනැමීම සිදු කිරීමට නියමිතය.
+President Ranil Wickremesinghe was presented to the Colombo district recently, and the Presidential Media Unit will be extended to the 24 districts today.
 
-...
+Accordingly, scholarships for selected students in the Hambantota district will be held on July 13, Badulla, Matale and Jaffna districts on July 14 and 17.
+
+Awarding scholarships will be awarded on July 15 on July 15 on July 15 on July 15, Vavuniya, Batticaloa, Ratnapura and Nuwara Eliya districts for Children, Galle and Anuradhapura Districts.
+
+Scholarships are granted to the coordination of all zonal education offices and principals under the patronage of the District Secretaries and the first phase of scholarships.
+
+Meanwhile, the Deputy Leader Akila Virajithramasam said that the security insurance had been resumed to children again.
+
+◼️
 
 [Data](articles/08ddf9d7.json)
+
+[Extended Data](ext_articles/08ddf9d7.ext.json)
 
 ---
 
@@ -1086,15 +1104,21 @@ Although there is contradiction to the Cabinet over the president's term in the 
 
 ---
 
-### මහේස්ත්‍රාත්වරයෙකුගේ සේවය අත්හිටුවයි?
+### Suspension of a magistrate's service?
 
 *2024-07-11 22:42:53* · [`adalk`](https://www.ada.lk/breaking_news/මහේස්ත්‍රාත්වරයෙකුගේ-සේවය-අත්හිටුවයි-/11-410746) · `si`
 
-කොළඹ මහේස්ත්‍රාත් අධිකරණයක මහේස්ත්‍රාත්වරයෙකුගේ සේවය අධිකරණ සේවා කොමිෂන් සභාව විසින් තාවකාලිකව අත්හිටුවා ඇතැයි වාර්තාවේ. එම මහේස්ත්‍රාත්වරයා එරෙහිව පැවැත්වෙන විමර්ශනයක් හේතුවෙන් සේවය මෙලෙස තාවකාලිකව අත්හිටුවා ඇතැයි වාර්තාවේ.
+The service of a magistrate in Colombo Magistrate's Court is temporarily suspended pending an investigation by the Judicial Service Commission.
+
+🟩
+
+The service of a magistrate in Colombo Magistrate's Court has been temporarily suspended by the Judicial Service Commission. It is reported that the service has been suspended due to an investigation against the magistrate.
 
 ◼️
 
 [Data](articles/b46fa4d6.json)
+
+[Extended Data](ext_articles/b46fa4d6.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 23:35:28**
+As of **2024-07-12 23:55:28**
 
 ## Newspaper Stats
 
-*Scraped **35,002** Articles*
+*Scraped **35,010** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 327
 bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,969
-economynextcom | 2,072
+economynextcom | 2,080
 dailyftlk | 2,203
 adalk | 3,158
 adaderanalk | 4,022
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,002 (100.0%) of 35,002 articles have been extended.
+35,002 (100.0%) of 35,010 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -360,6 +360,24 @@ The program will help create a conducive environment for private investments, bo
 
 ---
 
+### Sri Lanka appoints new Attorney General
+
+*2024-07-12 17:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-appoints-new-attorney-general-171935/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has appointed K A Parinda Ranasinghe PC as Attorney General.
+
+He was appointed in terms of Article 61E (b) of the Constitution of Sri Lanka, the president’s media division said.
+
+The new AG received the appointment from President Wickremesinghe at the Presidential Secretariat on Friday.
+
+He fills the post after the retirement of former Attorney General Sanjay Rajaratnam. (Colombo/Jul12/2024)
+
+◼️
+
+[Data](articles/ea76180c.json)
+
+---
+
 ### Request a report on cutting for cutting IP's
 
 *2024-07-12 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198748) · `si`
@@ -379,6 +397,24 @@ In addition, the Magistrate also ordered the Borella Police to investigate and s
 [Data](articles/5d76a17f.json)
 
 [Extended Data](ext_articles/5d76a17f.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 301.70/302.00 to US dollar
+
+*2024-07-12 17:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-301-70-302-00-to-us-dollar-171924/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 301.70/302.00 to the US dollar on Friday, from 302.80/303.00 to the US dollar on Thursday, dealers said, while bond yields were up.
+
+A bond maturing on 15.12.2026 closed at 10.90/11.00 percent, up from 10.85/95 percent.
+
+A bond maturing on 15.12.2027 closed at 11.75/80 percent, up from 11.80/88 percent.
+
+A bond maturing on 15.09.2029 closed at 12.10/30 percent, up from 12.15/25 percent. (Colombo/Jul12/2024)
+
+◼️
+
+[Data](articles/4b7e7d0a.json)
 
 ---
 
@@ -483,6 +519,32 @@ When the case was heard in court, it was ordered to be sealed to the restaurant 
 [Data](articles/161cecb5.json)
 
 [Extended Data](ext_articles/161cecb5.ext.json)
+
+---
+
+### Sri Lanka stocks close up, muted activity
+
+*2024-07-12 16:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-muted-activity-171916/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader All Share Index closed up 0.35 percent, or 41.71 points, at 11,843; while the more liquid S&P SL20 Index closed up 0.56 percent, or 19.20 points, at 3,454.
+
+“The market picked up a bit from yesterday but it’s still below the psychological 12,000 mark,” Softlogic Stockbrokers said.
+
+John Keells Holdings Plc brought in Rs109mn to the turnover, and the share closed flat at 194.50.
+
+Melstacorp Plc contributed in Rs104mn to the turnover, and the share closed flat at 85.00.
+
+Sentiment around the banking counters was mostly negative. Sampath Bank Plc closed down at 77.00, closed flat at 101.25, and Hatton National Bank Plc closed flat at 195.25.
+
+The top contributors to the ASPI were Commercial Bank of Ceylon Plc (up at 103.50), Bukit Darah Plc (up at 397.00), and Hayleys Plc (up at 101.00).
+
+Foreign participation remained low as well. There was a higher net foreign outflow of 101 million.
+
+...
+
+[Data](articles/0f7db3a0.json)
 
 ---
 
@@ -770,6 +832,24 @@ In addition, the petition also pointed out that a public referendum should be he
 
 ---
 
+### INTERVIEW – Sri Lanka to start flora spatial mapping, eyes carbon credit trading
+
+*2024-07-12 15:22:00* · [`economynextcom`](https://economynext.com/interview-sri-lanka-to-start-flora-spatial-mapping-eyes-carbon-credit-trading-171902/) · `en`
+
+ECONOMYNEXT – Sri Lanka is in the process of starting spatial mapping on all tree species in the island nation before going for carbon credit trading in the global market, Senior Presidential Advisor on Climate Change Ruwan Wijewardene said.
+
+Sri Lanka has been in the process of carbon credit for more than a decade. Carbon credit is a way of compensating for emissions of carbon dioxide or other greenhouse gases.
+
+If Sri Lanka reduces its Carbon Dioxide emissions through efforts like reforestation and large number of renewable energy projects, they will help the country to earn money through carbon trading from some other higher Carbon Dioxide emitting nations as compensation.
+
+“We are doing spatial data plan. We have just put the plan to cabinet. We are still waiting for approval,” Wijewardene, the Senior Advisor to President Ranil Wickremesinghe on Climate Change, told EconomyNext in an interview on Friday (12).
+
+...
+
+[Data](articles/09784da6.json)
+
+---
+
 ### 60 pound magic of Lord Ganesha: Struggle to break coconut
 
 *2024-07-12 15:17:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/விநாயகரின்-60-பவுண்-மாயம்-தேங்காய்-உடைத்து-போராட்டம்/71-340299) · `ta`
@@ -1017,6 +1097,26 @@ There are several main issues that have been unresolved in the procurement proce
 [Data](articles/5a8ee7eb.json)
 
 [Extended Data](ext_articles/5a8ee7eb.ext.json)
+
+---
+
+### Sri Lanka to recruit 500 foreign language teachers
+
+*2024-07-12 14:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-recruit-500-foreign-language-teachers-171894/) · `en`
+
+ECONOMYNEXT – Sri Lanka will recruit 500 foreign language teachers for schools, State Minister of Education Aravindh Kumar, said.
+
+“We will be giving priority to Korean, German, French, Hindi, Chinese and Japanese,” Kumar told reporters on Friday.
+
+In March, Kumar said that teaching foreign languages such as Japanese and Korean is essential if graduates are to pursue jobs in foreign countries.
+
+As of June 2024, Sri Lanka had sent 10,000 workers to South Korea, and is planning to send around 6,000 workers to Japan.
+
+In order to seek employment in these countries, the candidates must pass a language proficiency test. (Colombo/Jul12/2024)
+
+◼️
+
+[Data](articles/d1b81a2c.json)
 
 ---
 
@@ -1305,6 +1405,68 @@ It was reported that the Minister of Health, Ramesh Pathirana, will be officiall
 [Data](articles/8d554f9d.json)
 
 [Extended Data](ext_articles/8d554f9d.ext.json)
+
+---
+
+### Sri Lanka state transport minister bats for railway privatization after strike
+
+*2024-07-12 12:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-transport-minister-bats-for-railway-privatization-after-strike-171874/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s State Transport Minister Lasantha Alagiyawanna sees privatization of railways as the permanent solution to prevent inconvenience faced by the public due to strikes by railway employees.
+
+Alagiyawanna’s comments come after millions of people faced inconvenience after the railway Station Masters’ Union launched a strike earlier this week demanding some vacancies be filled and other administrative issues be resolved.
+
+Hundreds of scheduled train journeys were cancelled on Wednesday due to the strike, leaving very few trains that ran jam-packed with passengers.
+
+A passenger from Alagiyawanna’s constituency of Gampaha District was killed after falling from a packed train on Wednesday when he risked his life as hundreds of people tried to go in a few trains by barely hanging on to the sides of the train, balancing on footboards made slippery by the rain.
+
+...
+
+[Data](articles/1de3fbf1.json)
+
+---
+
+### Sri Lanka visa deal with IVS-VFS be cancelled or revised, forensic audited: COPF Chief
+
+*2024-07-12 12:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-visa-deal-with-ivs-vfs-be-cancelled-or-revised-forensic-audited-copf-chief-171869/) · `en`
+
+ECONOMYNEXT – The parliament’s Committee on Public Finance has recommended that the controversial GBS-IVS, VFS Global visa deal be abrogated or revised and the award of the deal without tenders should be forensic audited, its Chairman Harsha de Silva said.
+
+The contract was awarded without a competitive tender and no specifications.
+
+“The Consortium was appointed without a competitive bidding process, preventing the Department of Immigration and Emigration from securing the best value for money,” de Silva after submitting a report by the COPF to parliament.
+
+The GBS-IVS, VFS Global was charging costs around 25 dollars per visa but Mobitel was charging only 1 dollar.
+
+The systems were different by there were no specifications issued to bid as is found in all procurements and tenders.
+
+“If there were specifications and tenders, anyone including Mobitel or any other global company could have responded,” de Silva told parliament Friday.
+
+...
+
+[Data](articles/593b3f1b.json)
+
+---
+
+### Sri Lanka to revise speed limits, Police given speed control equipment: State minister
+
+*2024-07-12 12:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-revise-speed-limits-police-given-speed-control-equipment-state-minister-171863/) · `en`
+
+ECONOMYNEXT – Sri Lanka will issue a gazette with new road speed limit regulations, in a bid to reduce accidents, State Minister of Transport, Lasantha Alagiyawanna said.
+
+“The Ministry of Transport will issue a gazette with new road speed limit regulations within the next two weeks,” Alagiyawanna told reporters.
+
+In 2023, there were 2,214 reported road accidents resulting in 2,321 deaths. As of the 30th of June, 1,103 road accidents have been reported this year, with 1,154 fatalities, the State Minister said.
+
+“To address this issue, our Ministry has implemented various programs aimed at reducing the number of road accidents.”
+
+The National Council for Road Safety has allocated 50 million rupees to the Sri Lanka Police for the purchase of necessary speed control equipment.
+
+Teachers will also be provided manuals for establishing Road Safety Clubs at the school level.
+
+...
+
+[Data](articles/979131fe.json)
 
 ---
 
@@ -2185,147 +2347,5 @@ Hajj is a pilgrimage (spiritual duty) made to the Kaaba (the house of Allah) in 
 [Data](articles/4b39f139.json)
 
 [Extended Data](ext_articles/4b39f139.ext.json)
-
----
-
-### The Role Of BRICS+: Rerouting Sri Lanka’s Foreign Policy
-
-*2024-07-12 05:02:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-role-of-brics-rerouting-sri-lankas-foreign-policy/) · `en`
-
-“It is imperative that we strive hard to ensure a rules-based order, not only when it suits the rich and powerful, but as an equitable and justifiable model for a sustainable world order. This means upholding international law and ensuring the principles of fairness, justice, and respect for sovereignty guide our actions. Only then can we create a world where all nations, regardless of their size or power, have a fair opportunity to thrive” ~ Foreign Minister Ali Sabry
-
-...
-
-[Data](articles/4f24d897.json)
-
-[Extended Data](ext_articles/4f24d897.ext.json)
-
----
-
-### Uncertainty over presidential poll date hampers share trading
-
-*2024-07-12 05:02:00* · [`islandlk`](http://island.lk/uncertainty-over-presidential-poll-date-hampers-share-trading/) · `en`
-
-Stock market trading was tardy yesterday due to continuing delays in the external debt restructuring exercise coupled with internal political uncertainty stemming from controversies surrounding the date of the presidential poll.
-
-Amid those developments both indices moved downwards. The All Share Price Index went down by 8.39 points, while S and PSL20 declined by 7.64 points.
-
-Turnover stood at Rs 541 million with two crossings. Those crossings were reported in JKH, which crossed 200,000 shares to the tune of Rs 39.6 million; its share price was Rs 198 and NTB 200,000 shares crossed for Rs 25 million; its shares traded at Rs 125.
-
-...
-
-[Data](articles/0b9af0c7.json)
-
-[Extended Data](ext_articles/0b9af0c7.ext.json)
-
----
-
-### WindForce shines at Presidential Environment Awards 2024
-
-*2024-07-12 05:02:00* · [`islandlk`](http://island.lk/windforce-shines-at-presidential-environment-awards-2024/) · `en`
-
-WindForce PLC is thrilled to announce its remarkable success at the Presidential Environment Awards 2024, proudly securing both Gold and Bronze accolades for its contributions to renewable energy and environmental conservation.
-
-Our subsidiary, Solar Universe (Pvt) Ltd, has been awarded the prestigious Gold Award for its pioneering 10MW solar plant in the agrivoltaic sector. This accolade highlights our innovative efforts in integrating agriculture and solar energy production. As Sri Lanka’s first-ever agrivoltaic plant, Solar Universe sets a benchmark for combining sustainable farming with renewable energy. By merging crop cultivation and solar power generation, the plant significantly reduces carbon emissions while promoting eco-friendly practices and enhancing agricultural productivity.
-
-...
-
-[Data](articles/3f0968c7.json)
-
-[Extended Data](ext_articles/3f0968c7.ext.json)
-
----
-
-### Dialog Enterprise enables Sri Lankan enterprises with sustainable GreenTech solutions
-
-*2024-07-12 05:02:00* · [`islandlk`](http://island.lk/dialog-enterprise-enables-sri-lankan-enterprises-with-sustainable-greentech-solutions/) · `en`
-
-Dialog Enterprise, the corporate ICT solutions arm of Dialog Axiata PLC., a pioneer in enabling digital transformation for Small, Medium and Large enterprises, announces its timely commitment to fostering sustainability through the adoption of GreenTech solutions. Leveraging strategic partnerships with top-tier GreenTech solution providers Dialog Enterprise aims to empower organizations reduce their carbon footprint, achieve cost savings, and drive environmental stewardship to heightened awareness and responsibility.
-
-In the face of pressing challenges like soaring fuel costs, which impact enterprises of all sizes, Dialog Enterprise underscores the urgency of climate action and the importance of sustainable practices. GreenTech paves the way for the adoption of renewable energy sources, such as solar power, to power servers, machinery, and other operational equipment.
-
-...
-
-[Data](articles/9bdd77c4.json)
-
-[Extended Data](ext_articles/9bdd77c4.ext.json)
-
----
-
-### Lumbini Aquaria opens new export revenue stream with ‘Gobble’ fish feed range
-
-*2024-07-12 05:02:00* · [`islandlk`](http://island.lk/lumbini-aquaria-opens-new-export-revenue-stream-with-gobble-fish-feed-range/) · `en`
-
-Aquaculture pioneer invests Rs 150 million in state-of-the-art factory to produce first-ever 100% natural Sri Lankan products for global market
-
-Sri Lanka may soon carve out a niche in the export market for fish feed with the country’s pioneer ornamental fish exporter Lumbini Aquaria International (Pvt) Ltd. commencing manufacture of a series of uniquely Sri Lankan aqua nutrients.
-
-Aptly branded ‘Gobble’ the new product has already been exhibited in Germany at the 2024 edition of Interzoo, the world’s largest pet industry trade fair, and has received orders from multiple customers, the company said.
-
-Lumbini has invested Rs 150 million in a state-of-the-art factory in Madurankuliya in the Puttalam District to manufacture Gobble for export under a new company incorporated for the purpose – Deep Blue Sea (DBS) Aquatic Nutrients, a wholly-owned subsidiary of Lumbini Aquaria.
-
-...
-
-[Data](articles/c2d28fcf.json)
-
-[Extended Data](ext_articles/c2d28fcf.ext.json)
-
----
-
-### HUTCH “Praja Sathkara” makes Poson pilgrimage possible
-
-*2024-07-12 04:46:00* · [`islandlk`](http://island.lk/hutch-praja-sathkara-makes-poson-pilgrimage-possible/) · `en`
-
-One of Sri Lanka’s leading mobile networks, HUTCH Sri Lanka recently conducted its HUTCH ‘Praja Sathkara’ programme in Anuradhapura and Mihintale, marking Poson Poya Day. Through this community service initiative, HUTCH Sri Lanka provided pilgrims visiting Anuradhapura and Mihintale for Poson religious observances with free transport services between the two holy sites.
-
-With normal transport modes congested during the period, and private hired transport unaffordable to many still, HUTCH took steps to provide pilgrims with free transportation services from 20th – 23rd June 2024 with free special train services and free bus services organized by HUTCH.
-
-...
-
-[Data](articles/f7c28510.json)
-
-[Extended Data](ext_articles/f7c28510.ext.json)
-
----
-
-### NHRC 2024: CIPM’s landmark event in Human Resource Management successfully concludes
-
-*2024-07-12 04:45:00* · [`islandlk`](http://island.lk/nhrc-2024-cipms-landmark-event-in-human-resource-management-successfully-concludes/) · `en`
-
-The National HR Conference (NHRC), organized by the Chartered Institute of Personnel Management (CIPM) Sri Lanka, was held at the Monarch Imperial, Sri Jayewardenepura, Kotte under the theme, Navigating the HR Horizon.
-
-The inauguration of the Conference featured a Keynote Address by Nick Jonsson, Co-founder and Managing Director of Executives’ Global Network (EGN) and an esteemed Executive Coach, who dwelled on the topic “Leading with Purpose and Authenticity”.
-
-The Chief Guest at the Conference, Santosh Jha, the High Commissioner of India to Sri Lanka emphasized the importance of the HR sector discipline and its future.
-
-Notable sessions on day two commenced by the session on the conference theme by Dr. Tanvi Gautam, Senior faculty and program Director at Singapore Management University (Executive Development). Priyantha Ranasinghe, Vice President CIPM, Chief People Officer, Siam City Cement Lanka Ltd, moderated the session,
-
-...
-
-[Data](articles/5af0821c.json)
-
-[Extended Data](ext_articles/5af0821c.ext.json)
-
----
-
-### 10 crores of rupees loss
-
-*2024-07-12 03:02:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-கோடி-ரூபாய்-வருமானம்-இழப்பு/175-340275) · `ta`
-
-In two days, the Railway Department incurred a Rs 10 crore loss due to a strike, affecting passenger transport ticket sales and other revenues like freight. Normally, it earns around Rs 9 crore daily from these sources. The situation could worsen if the strike prolongs.
-
-🟩
-
-A senior official of the Department today (11) said that the Railway Department has suffered a loss of Rs 10 crore in two days of the workplace.
-
-Passenger transport ticket income of the railway sector on normal day is Rs 4 crore. The daily income is about Rs 5 crore, if other revenues, including freight with that revenue, are about Rs 5 crore.
-
-He also said that the passengers who traveled on trains that ran on the strike days were not available for tickets for the train stations.. He said the loss would increase if the strike continues.
-
-◼️
-
-[Data](articles/bccfa514.json)
-
-[Extended Data](ext_articles/bccfa514.ext.json)
 
 ---

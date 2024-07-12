@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 16:52:57**
+As of **2024-07-12 17:05:15**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,823
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,978 (100.0%) of 34,980 articles have been extended.
+34,980 (100.0%) of 34,980 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
 
-### රැකියා අවස්ථා 75,000ක්
+### 75,000 job opportunities
 
 *2024-07-12 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198745) · `si`
 
-අපනයන ආර්ථිකය, නිෂ්පාදන, සංචාරක හා තාක්ෂණ අංශ මෙන්ම නවීන කෘෂිකර්මාන්තය දියුණු කිරීම තුළින් රට තුළ ශක්තිමත් ආර්ථිකයක් ගොඩනැඟිය හැකි බවත්, ඒ සඳහා මූලික පදනම මේ වනවිට ආණ්ඩුව විසින් තබා තිබෙන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe aims to boost Sri Lanka's economy through export growth, tourism, tech, and modern farming. He announced 75,000 jobs from a $2.6 billion project in Bingiriya, highlighting new investment zones and a Defense Institute. The area is seen as crucial for enhancing sectors like agriculture, manufacturing, IT, and fisheries.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ ශ්‍රී ලංකාවේ විශාලතම අපනයන සැකසුම් කලාපය ලෙස අක්කර 1,000ක පමණ වපසරියක් සහිත බිංගිරිය අපනයන සැකසුම් කලාපයේ දෙවන සහ තුන් වන අදියරේ සංවර්ධන කටයුතු ආරම්භ කිරීම වෙනුවෙන් අද (12) පැවති උත්සවයට එක්වෙමිනි.
+🟩
 
-රටේ අපනයන ආර්ථිකය ශක්තිමත් කිරීම වෙනුවෙන් නව ආයෝජන කලාප ඇති කිරීමට කටයුතු කරන බවද ජනාධිපතිවරයා මෙහිදී පැවසීය.
+President Ranil Wickremesinghe said that the economy could be built in the country by developing the export economy, products, tourism and technology as well as the development of modern agriculture.
 
-බිංගිරිය ආයෝජන කලාපය සම්පූර්ණයෙන් අවසන් වීමෙන් පසුව ඇමරිකන් ඩොලර් මිලියන 2,600ක අපනයන ආදායමක් ලබාගත හැකි බවට ඇස්මේන්තු කර ඇති අතර රැකියා අවස්ථාවන් 75000ක් බිහිකිරීමට ද නියමිතය.
+The President was speaking at a ceremony held in the Bingiriya Export Processing Zone today (12), along with a 1,000 acquisition zone in Sri Lanka.
 
-බිංගිරිය අපනයන සැකසුම් කලාපයේ දැනට ඉදිකර තිබෙන ඩොංශියා ඉන්ඩස්ට්‍රියල් ලංකා ආයතනය විවෘත කිරීම මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් සිදු වූ අතර එම ආයතන පරිශ්‍රයේ නිරීක්ෂණය චාරිකාවකට ද එක්වූ ජනාධිපතිවරයා එහි සේවක මණ්ඩලය සමඟ සුහද කථා බහක නිරත විය.
+The President also said that new investment zones will be established to strengthen the country's export economy.
+
+It is notified that after the completion of the Bingiriya Investment Zone, US $ 2,600 million will be expected to produce 75,000 opportunities.
+
+The Defense Institute was constructed by President Ranil Wickremesinghe, who was constructed by the Bingiriya Export Processing Zone, the President, who was observing at the premises of the institute, was also a friendly talk with its staff.
 
 ...
 
 [Data](articles/78845da9.json)
+
+[Extended Data](ext_articles/78845da9.ext.json)
 
 ---
 
@@ -67,6 +73,8 @@ The letter states: “It is no secret that the current government, worried about
 ...
 
 [Data](articles/84616378.json)
+
+[Extended Data](ext_articles/84616378.ext.json)
 
 ---
 

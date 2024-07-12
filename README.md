@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 21:05:06**
+As of **2024-07-12 21:19:50**
 
 ## Newspaper Stats
 
-*Scraped **34,991** Articles*
+*Scraped **34,995** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,98 @@ newsfirstlk | 363
 islandlk | 1,969
 economynextcom | 2,072
 dailyftlk | 2,203
-adalk | 3,155
+adalk | 3,158
 adaderanalk | 4,020
 tamilmirrorlk | 4,195
 dailymirrorlk | 4,733
 virakesarilk | 5,475
-adaderanasinhalalk | 5,827
+adaderanasinhalalk | 5,828
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,991 (100.0%) of 34,991 articles have been extended.
+34,991 (100.0%) of 34,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
+
+### පාතාලය කුපිත වෙන්න ක්ලබ් වසන්ත කළ දේ ?
+
+*2024-07-12 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198751) · `si`
+
+අතුරුගිරියේදී පසුගියදා වෙඩි ප්‍රහාරයකට ලක්වී මියගිය ක්ලබ් වසන්තගේ දේහය මේ වනවිට බොරැල්ලේ මල් ශාලාවක තැන්පත් කර තිබේ.
+
+පොලීසිය පවසන්නේ, දේහය තැන්පත් නොකරන ලෙස ජයරත්න මල්ශාලාවට යළිත් තර්ජනාත්මක දුරකථන ඇමතුම් ලැබී ඇති බවය.
+
+අතුරුගිරිය ප්‍රදේශයේ ටැටූ මධ්‍යස්ථානයක් විවෘත කිරීමට ගිය සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත හා තවත් අයෙක් වෙඩි තබා ඝාතනය කෙරුණේ ඉකුත් 08 වනදා ය.
+
+අනතුරුව ක්ලබ් වසන්තගේ දේහය අවසන් කටයුතු සඳහා අද (12) දිනයේදී ජයරත්න මල්ශාලාවේ තන්පත් කරන බව ප්‍රකාශ කිරීමත් සමග පෙරේදා (10) රාත්‍රියේදී කංජිපානි ඉම්රාන් ලෙස පවසමින් පුද්ගලයෙකු දුරකථන ඇමතුමක් ලබාදී අදාළ මල්ශාලාවට තර්ජනය කර තිබුණි.
+
+ඒ අනුව බොරැල්ල පොලීසියේ අපරාධ විමර්ශන අංශය විමර්ශන ආරම්භ කළ අතර මල්ශාලාව අසල ආරක්ෂාවද තර කෙරුණි.
+
+එවන් පසුබිමක ඊයේ (11) රාත්‍රියේදීත් නාඳුනන පුද්ගලයෙකු විසින් ජයරත්න මල්ශාලාවට දුරකථන ඇමතුමක් ලබාදී තර්ජනය කර ඇත්තේ, කංජිපානි ඉම්රාන් ලබාදුන් දැනුම්දීම පිළිබඳව ක්ලබ් වසන්තගේ පවුලේ උදවියට දැනුම් දුන්නේද යන බව විමසමිනි.
+
+එවන් පසුබිමක අද උදෑසන ක්ලබ් වසන්තගේ දේහය ජයරත්න මල්ශාලාවේ තැන්පත් කෙරුණි.
+
+...
+
+[Data](articles/b5a541ac.json)
+
+---
+
+### රණවිරුවන් පදිංචි රජයේ ඉඩම්වලට කොන්දේසි විරහිත සින්නක්කර ඔප්පු
+
+*2024-07-12 20:28:18* · [`adalk`](https://www.ada.lk/breaking_news/රණවිරුවන්-පදිංචි-රජයේ-ඉඩම්වලට-කොන්දේසි-විරහිත-සින්නක්කර-ඔප්පු/11-410762) · `si`
+
+මෙරට ස්වෛරීභාවය රැක ගැනීම වෙනුවෙන් සිය ජීවිත කැප කළ, සක්‍රීය ක්‍රියාන්විතයේ රාජකාරි කළ ත්‍රිවිධ හමුදාවේ, ශ්‍රී ලංකා පොලීසියේ හා සිවිල් ආරක්ෂක බලකායේ දිවි පිදු හා ආබාධිත වූ රණවිරුවන් හා ඔවුන්ගේ යැපෙන්නන් වෙනුවෙන් පදිංචිය සඳහා ලබා දී ඇති රජයේ ඉඩම් සඳහා කොන්දේසි විරහිතව හා ගාස්තු අය කිරීමකින් තොරව සින්නක්කර අයිතිය ලබාදීමේ වැඩසටහනක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පයකට අනුව ක්‍රියාත්මක කර තිබේ.
+
+මෙරට සෑම බිම් අඟලකටම සියලුදෙනාට බියකින්, සැකයකින් තොරව යාමට ඉඩ ප්‍රස්ථාව උදා කර දීම වෙනුවෙන් සිය ජීවිතය කැප කළ විරෝධාර රණවිරුවන්ට මව්බිමේ බිම් කැබැල්ලක අයිතිය තහවුරු කර දීම මෙම වැඩසටහනේ අරමුණයි. ජනාධිපති කාර්යාලයේ මෙහෙයවිමෙන් වැඩසටහන ක්‍රියාත්මක කෙරේ.
+
+ජනාධිපතිවරයා විසින් අංක PS/CM/APL/267/2024 හා 2024-05-13 දිනැතිව රණවිරුවන්ගේ පදිංචිය සඳහා ලබා දී ඇති රජයේ ඉඩම් සඳහා පූර්ණ සහන ලබා දීම සඳහා ඉදිරිපත් කරන ලද අමාත්‍ය මණ්ඩල සංදේශයට ලද අංක අමප/24/0898/601/058 හා 2024/05/23 දිනැති අමාත්‍ය මණ්ඩල තීරණය අනුව රණවිරුවන්ට පහත සඳහන් සහන හිමිව තිබේ.
+
+...
+
+[Data](articles/67dcb868.json)
+
+---
+
+### වසරකට ගුරු උපාධිධාරීන් 7500
+
+*2024-07-12 20:23:48* · [`adalk`](https://www.ada.lk/breaking_news/වසරකට-ගුරු-උපාධිධාරීන්-7500/11-410761) · `si`
+
+වත්මන් අධ්‍යාපන ප්‍රතිසංස්කරණ ක්‍රියාවලිය තුළින් මෙරට අධ්‍යාපන ක්ෂේත්‍රයේ මෙතෙක් සිදු නොවූ විශාල වර්ධනයක් ඇති කර ගත හැකි බව අධ්‍යාපන රාජ්‍ය අමාත්‍ය අර්වින්ද් කුමාර් මහතා පැවසීය.
+
+මෙරට අනාගත පරම්පරාව බිහි කරන ගෞරවාන්විත සේවයක් ලෙස ගුරුවරුන්ට විශාල වගකීමක් පැවරී ඇති බැවින් එය නිසි ලෙස අවබෝධ කර ගනිමින් තමන්ගේ හෘද සාක්ෂියට අනුව කටයුතු කරන ලෙස රාජ්‍ය අමාත්‍යවරයා සමස්ත ගුරුවරුන්ගෙන් ඉල්ලා සිටියේය.
+
+අධ්‍යාපන රාජ්‍ය අමාත්‍ය අර්වින්ද් කුමාර් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (12) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+වත්මන් අධ්‍යාපන ප්‍රතිසංස්කරණ ක්‍රියාවලිය තුළින් මෙරට අධ්‍යාපන ක්ෂේත්‍රයේ මෙතෙක් සිදු නොවූ විශාල වර්ධනයක් සිදුවනු ඇති බව අප විශ්වාසය කරනවා. විශේෂයෙන් රැකියා වෙළඳපොල ඉලක්ක කර කොරියානු, ජර්මන්, ප්‍රංශ, හින්දි, චීන හා ජපන් භාෂා ගුරුවරුන් පන්සියයකට වැඩි සංඛ්‍යාවක් බඳවා ගෙන මේ වන විට පාසැල්වලට යොමු කර තිබෙනවා.
+
+...
+
+[Data](articles/d0508ff2.json)
+
+---
+
+### නව නීතිපති ජනාධිපති නීතිඥ කේ. ඒ. පාරින්ද රණසිංහ
+
+*2024-07-12 20:19:28* · [`adalk`](https://www.ada.lk/breaking_news/නව-නීතිපති-ජනාධිපති-නීතිඥ-කේ--ඒ--පාරින්ද-රණසිංහ/11-410760) · `si`
+
+නව නීතිපතිවරයා ලෙස ජනාධිපති නීතිඥ කේ. ඒ. පාරින්ද රණසිංහ මහතා අද (12) පස්වරුවේ ජනාධිපති කාර්යාලයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේ දිවුරුම් දුන්නේය.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 61 ඊ (ආ) වගන්තිය ප්‍රකාරව පැවරී ඇති බලතල අනුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මෙම පත්වීම සිදු කර ඇත.
+
+ජනාධිපති නීතිඥ කේ. ඒ. පාරින්ද රණසිංහ මහතා මෙරට 49 වන නීතිපතිවරයායි.
+
+ජනාධිපති ලේකම් සමන් ඒකනායක මහතා ද දිවුරුම් දීමේ අවස්ථාවට එක්ව සිටියේය.
+
+◼️
+
+[Data](articles/e2519cb9.json)
+
+---
 
 ### Boossan Assistant go to the house of the Superintendent of Prison
 
@@ -2223,81 +2299,5 @@ The move aims to ensure that residents of estate line rooms receive the same lev
 [Data](articles/f27add12.json)
 
 [Extended Data](ext_articles/f27add12.ext.json)
-
----
-
-### India has given Buddha to the world
-
-*2024-07-12 02:45:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகத்துக்கு-இந்தியா-புத்தரை-கொடுத்துள்ளது/175-340272) · `ta`
-
-PM Modi's visit to Austria, following his Russian trip, marked a significant moment in strengthening India-Austria ties. During his two-day stay, he discussed bilateral relations and trade with President Alexander Warner Bellan and Prime Minister Karl Negumma. Additionally, Modi interacted with Indian communities in Austria, emphasizing India's contributions like Buddhism and its commitment to peace and development. This visit celebrated 75 years of Indo-Austrian friendship, highlighting a fruitful exchange of culture and knowledge between the two nations.
-
-🟩
-
-PM Modi traveled on a two -day trip to Austria after completing Russian journey. There he met with President Alexander Warner Bellan and Prime Minister Karl Negumma.
-
-During the meeting, various issues, including bilateral relations and trade, were consulted.
-
-Prime Minister Modi met Indians living in Austria. Prime Minister Modi spoke among Indians living in Austria
-
-We have been sharing our talent and knowledge for several thousand years. We have given the Buddha to the world (Buddhist monk) and not giving war (war). When does India give peace and growth. Thus India is gaining strength in the 21st century. My Austrian journey made a very meaningful. The 41 -year waiting has been completed by the historic event. He said India and Austria celebrate 75 years of friendship.
-
-◼️
-
-[Data](articles/58420338.json)
-
-[Extended Data](ext_articles/58420338.ext.json)
-
----
-
-### Global textiles sourcing exhibition, 15th Intex in Colombo from 7-9 Aug.
-
-*2024-07-12 02:44:51* · [`dailyftlk`](https://www.ft.lk/business/Global-textiles-sourcing-exhibition-15th-Intex-in-Colombo-from-7-9-Aug/34-764188) · `en`
-
-The premier international textile sourcing platform in South Asia returns to Colombo for its 10th edition.
-
-This year, Intex Sri Lanka which will be held on 7-8-9 August 2024, is expanding across four halls at BMICH to support the industry to achieve the $ 8 billion garment export target by 2025. This dedicated trade show empowers Sri Lankan businesses to widen their product range, strengthen exports via networking with international suppliers and consolidating intra-regional partnerships to enable manufacturing through collaboration.
-
-A must-attend event, this sourcing and trading expo enables the Sri Lankan RMG industry to source a vast array of natural and manmade textiles, trims, accessories, dyes, chemicals and software solutions by connecting with over 200 suppliers from over 15 countries with country pavilions from India, Taiwan, Pakistan, China as well as textile showcases by Korea and Japan.
-
-...
-
-[Data](articles/c4243cba.json)
-
-[Extended Data](ext_articles/c4243cba.ext.json)
-
----
-
-### Ceylon Association of Shipping Agents to hold 58th AGM today
-
-*2024-07-12 02:43:15* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Association-of-Shipping-Agents-to-hold-58th-AGM-today/34-764187) · `en`
-
-The Ceylon Association of Shipping Agents (CASA), a vital organisation within the Sri Lankan shipping industry, will be holding its 58th Annual General Meeting today.
-
-The event is expected to draw a large crowd, with over 500 participants anticipated at the Grand Marquee – Taj Samudra. Gracing the occasion as the Chief Guest will be the Ports, Shipping and Aviation Minister Nimal Siripala De Silva. Several other distinguished guests from both the public and private sectors are also expected to attend.
-
-CASA, established in 1944 as the Ceylon Shipping Committee, has served as a steadfast voice for the Sri Lankan shipping industry. The association’s members represent all international shipping lines that call upon Sri Lankan ports, a testament to the country’s strategic location along major international shipping routes.
-
-...
-
-[Data](articles/9296590a.json)
-
-[Extended Data](ext_articles/9296590a.ext.json)
-
----
-
-### Webinar series on “Intellectual Property and Business Competitiveness”
-
-*2024-07-12 02:42:53* · [`dailyftlk`](https://www.ft.lk/business/Webinar-series-on-Intellectual-Property-and-Business-Competitiveness/34-764186) · `en`
-
-World Intellectual Property Organisation (WIPO) and The National Chamber of Commerce of Sri Lanka (NCCSL) in cooperation with the National Intellectual Property Office (NIPO) of Sri Lanka and The International Trade Centre (ITC) are organising an ONLINE webinar series titled “Intellectual Property and Business Competitiveness” from 16 to 19 July.
-
-These virtual sessions will be conducted via Zoom from 3:30 p.m. to 5:30 p.m. during four consecutive days commencing on 16 to 19 July. The objective of the introductory program would be to create awareness about the importance of Intellectual Property Management highlighting how intellectual property protects innovations, enhances business competitiveness, generates revenue, encourages innovation, builds brand reputation, attracts investment, and provides legal recourse.
-
-...
-
-[Data](articles/16cfe63e.json)
-
-[Extended Data](ext_articles/16cfe63e.ext.json)
 
 ---

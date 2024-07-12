@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 12:08:26**
+As of **2024-07-12 12:19:54**
 
 ## Newspaper Stats
 
-*Scraped **34,935** Articles*
+*Scraped **34,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,968
 economynextcom | 2,072
 dailyftlk | 2,203
 adalk | 3,150
-adaderanalk | 4,012
-tamilmirrorlk | 4,179
+adaderanalk | 4,013
+tamilmirrorlk | 4,181
 dailymirrorlk | 4,733
 virakesarilk | 5,464
 adaderanasinhalalk | 5,812
@@ -26,27 +26,87 @@ adaderanasinhalalk | 5,812
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,934 (100.0%) of 34,935 articles have been extended.
+34,935 (100.0%) of 34,938 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
 
-### සෙනඟ පිරුණු බස් දෙකක් සමග අධිවේග මාර්ගයක් නාය යයි
+### Gazette to be issued on new speed limit regulations
+
+*2024-07-12 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100460/gazette-to-be-issued-on-new-speed-limit-regulations) · `en`
+
+State Minister of Transport, Lasantha Alagiyawanna, stated that the on-going strikes are motivated by political interests rather than genuine professional rights.
+
+He also announced that a gazette with the necessary regulations on speed limits, aimed at reducing road accidents, will be issued within the next two weeks, said President’s Media Devision.
+
+State Minister for Transport Lasantha Alagiyawanna, made this statement during a news conference held yesterday (11) at the Presidential Media Centre (PMC), under the theme ‘Collective Path to a Stable Country’.
+
+“We have initiated several programs to enhance efficiency in the transport sector. Notably, the Kadawatha bus terminal is scheduled to be opened in August under the patronage of President Ranil Wickremesinghe. These bus terminals incorporate modern transport management methods and advanced technology.
+
+...
+
+[Data](articles/1b8d1dba.json)
+
+---
+
+### A roadway will be held with two buses
 
 *2024-07-12 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198733) · `si`
 
-මධ්‍යම නේපාලයේ අධිවේගී මාර්ගයක සිදුවු නායයෑමකින් පුද්ගලයින් 60 දෙනෙකුට වැඩි පිරිසක් අතුරුදන්ව ඇති බව විදෙස් වාර්තා පවසයි.
+A landslide on the Central Nepal Expressway resulted in over 60 missing persons and stranded two buses carrying more than 100 passengers. Six Indian nationals among the media reported the incident. Rescue operations are underway.
 
-ඒ අතර ඉන්දීය ජාතිකයින් 6 දෙනෙකු ද සිටින බව ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+🟩
 
-අධිවේගී මාර්ගයේ ගමන් ගත් මගී බස් රථ දෙකක් නායයාමට හසුවී ඇති බව සඳහන් වේ.
+More than 60 people have disappeared in a landslide of the Central Nepal Expressway.
 
-නායයෑමට හසු වූ බස් රථ සහ එහි සිටි මගීන් සොයා මෙහෙයුම් ආරම්භ කර ඇති බව වාර්තා වේ.
+In the meantime, six Indian nationals have reported that there are also six Indian national media.
+
+Two passenger buses on the Expressway have been landed.
+
+It is reported that landslides have begun operations in search of passengers.
 
 ◼️
 
 [Data](articles/7bb92645.json)
+
+[Extended Data](ext_articles/7bb92645.ext.json)
+
+---
+
+### சொந்த தங்கையை கோடாரியால் வெட்டிய அண்ணன்
+
+*2024-07-12 11:13:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொந்த-தங்கையை-கோடாரியால்-வெட்டிய-அண்ணன்/175-340280) · `ta`
+
+தன் சொந்த தங்கையை கோடாரியால் அண்ணன் வெட்டிய சம்பவம் தொடர்பான வீடியோ வெளியாகி பெரும் அதிர்வை ஏற்படுத்தியுள்ளது.
+
+IFrame ஆந்திரா மாநிலம், அனந்தபூர் பகுதியில் உள்ள பெனகசெர்லா கிராமத்தில் இந்த கொடூரச் சம்பவம் நடைபெற்றுள்ளது. நிலத்தகராறு காரணமாக ஒருவர் தனது சகோதரியை கோடாரியால் தாக்கியுள்ளார். இந்த சம்பவத்தை ஒருவர் வீடியோ எடுத்து சமூக வலைதளங்களில் பதிவிட்டுள்ளார். இந்த வீடியோ தான் தற்போது வைரலாகி வருகிறது.
+
+இந்த சம்பவம் குறித்த தகவல் அறிந்த பொஸார் சம்பவ இடத்திற்கு விரைந்து சென்று பெண்ணைக் கோடாரியால் தாக்கியவரை பிடித்தனர். வெட்டப்பட்ட பெண் மெஹபூபி என்றும், அவரை கோடாரியால் வெட்டியவர் ஜிலானி என்பதும் தெரிய வந்தது. தாக்குதலில் காயமடைந்த பெண் மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+பொலிஸார் நடத்திய விசாரணையில், பெனகசெர்லா கிராமத்தில் ஜிலானியின் தங்கை மெஹபூபி ஒரு வீட்டில் வசித்து வந்தார். அந்த வீட்டைக் காலிச் செய்யச் சொல்லி ஜிலானி மிரட்டி வந்துள்ளார். அவர் வீட்டைக் காலி செய்யாத ஆத்திரத்தில் ஜிலானி கோடாரியால் தாக்கியது விசாரணையில் தெரிய வந்தது.
+
+...
+
+[Data](articles/c48935ff.json)
+
+---
+
+### ’கிளப் வசந்த’வின் சடலத்துக்கு கடும் பாதுகாப்பு
+
+*2024-07-12 11:08:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-வின்-சடலத்துக்கு-கடும்-பாதுகாப்பு/175-340279) · `ta`
+
+'கிளப் வசந்த' என அழைக்கப்படும் சுரேந்திர வசந்த பெரேராவின் பூதவுடல் கொழும்பில் உள்ள தனியார் மலர்ச்சாலையில் வைக்கப்பட்டுள்ளது. அங்கு   பாதுகாப்பு பலப்படுத்தப்பட்டுள்ளது.
+
+கிளப் வசந்தாவின் சடலத்தை வைத்ததால் அச்சுறுத்தல் விடுக்கப்பட்டுள்ளதாக கூறப்படும்    தொலைபேசி அழைபை அடுத்து இந்த நடவடிக்கை எடுக்கப்பட்டதாக கூறப்படுகிறது.
+
+இதேவேளை, அத்துருகிரிய துப்பாக்கிச் சூட்டுச் சம்பவத்துடன் தொடர்புடைய சந்தேகநபர்கள் மீன்பிடி படகுகள் மூலம் இந்தியாவுக்குத் தப்பிச் செல்ல முற்படலாம் என புலனாய்வுப் பிரிவினருக்கு கிடைத்த தகவலின் பேரில் மன்னார் முழுவதும் விசேட சோதனைச் சாவடிகள் ஸ்தாபிக்கப்பட்டுள்ளன.
+
+சந்தேக நபர்கள், நாட்டை விட்டு வெளியேறுவதைத் தடுக்க விமான நிலையங்கள் மற்றும் பிற முக்கிய புள்ளிகளுக்கு அதிகாரிகள் எச்சரிக்கை விடுத்துள்ளனர். எவ்வாறாயினும், மன்னார் ஊடாக தப்பிச் செல்லும் அபாயம் அதிகரித்திருப்பதன் காரணமாக பல விசேட சோதனைச் சாவடிகள் மற்றும் வீதித் தடைகள் அமைக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/89bfe0a6.json)
 
 ---
 
@@ -256,13 +316,15 @@ It is reported that Kanganamlake Timuthu Chezhunga Perera will be handed over to
 
 *2024-07-12 10:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-uda-leases-kollupitiya-land-to-expo-property-developers-171837/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s Urban Development Authority will lease a 52-perch land belonging to it at Kollupitiya to Expo Property Developers (Pvt) Ltd for a housing project, a senior minister said.
+ECONOMYNEXT – Sri Lanka’s Urban Development Authority will lease a 52-perch land belonging to it at Kollupitiya to Expo Property Developers (Pvt) Ltd for a housing project, a government statement said.
 
-Cabinet approved the proposal “to transfer the relevant portion of land to the Expo Property Developers (Pvt) Ltd under 99 years lease basis on the current assessment of the chief assessor,” Minister Bandula Gunawardena said.
+Cabinet approved the proposal “to transfer the relevant portion of land to the Expo Property Developers (Pvt) Ltd under 99 years lease basis on the current assessment of the chief assessor.”
 
-Cabinet approval was granted in 2007 to lease 40 perches in the Marine Drive area under a 50-year long-term basis, as per the provisions of the Urban Development Authority Act, Gunawardena told reporters announcing this week’s cabinet decisions.
+Approval was initially given in 2007 to lease 40 perches in the Marine Drive area on a 50-year long-term basis, as per the provisions of the Urban Development Authority Act.
 
-An amount equal to 25 percent of the value of the land had been charged, “However, functions relevant to transferring of the land could not be completed due to an unauthorized person residing there.”
+An amount equal to 25 percent of the value of the land had been charged, “However, functions relevant to transferring of the land cannot be completed due to residing of unauthorized person.”
+
+Expo Property Developers had requested for 52 perches of land including 12 perches adjacent to the said land to implement a housing project on a 99-year lease basis.
 
 ...
 
@@ -2159,67 +2221,5 @@ The General Manager of Sri Lanka Railways had warned that all Station Masters an
 [Data](articles/2ae0431b.json)
 
 [Extended Data](ext_articles/2ae0431b.ext.json)
-
----
-
-### Railway strike continues
-
-*2024-07-11 18:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198714) · `si`
-
-The railway strike persists as the Railway Stations Association (STF), led by its President Sumedha Somaratne, decided to extend it post an executive committee meeting.
-
-🟩
-
-The Railway Stations Association (STF) says that the strike will continue.
-
-The President of the Association Sumedha Somaratne said that this decision was taken after the executive committee meeting held this afternoon.
-
-◼️
-
-[Data](articles/c9d48eb0.json)
-
-[Extended Data](ext_articles/c9d48eb0.ext.json)
-
----
-
-### Wanindu Hasaranga resigns from captaincy
-
-*2024-07-11 18:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100449/wanindu-hasaranga-resigns-from-captaincy) · `en`
-
-Sri Lanka Cricket (SLC) today announced that the National Men’s T20I Captain Wanindu Hasaranga has decided to resign from the captaincy.
-
-Hasaranga said it is in the best interest of Sri Lanka Cricket that he decided to relinquish the captaincy duties and remain in the side as a player, the statement said.
-
-“Sri Lanka will always have my utmost best efforts as a player, and I will support and stand by my team and leadership as always,” said Wanindu Hasaranga in his resignation letter.
-
-“Sri Lanka Cricket, while accepting his resignation, wishes to state that Hasaranga will remain an important player for us in our international cricketing plans,” the SLC statement said.
-
-Batsman Charith Asalanka is tipped to be appointed as the next Sri Lanka T20I captain, according to sources.
-
-Wanindu’s resignation comes following Sri Lanka’s group stage exit from the 2024 men’s T20I World Cup last month.
-
-...
-
-[Data](articles/d8969054.json)
-
-[Extended Data](ext_articles/d8969054.ext.json)
-
----
-
-### Thunu Hasaranga is led by leading
-
-*2024-07-11 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198713) · `si`
-
-Thunu Hasaranga, the leader of the Sri Lanka cricket team, has stepped down from his position as captain of the 20th T20 match.
-
-🟩
-
-The Sri Lanka 20th T20 and Leader of the Cricket Kaduvaranga has resigned from the post.
-
-◼️
-
-[Data](articles/896bc5ac.json)
-
-[Extended Data](ext_articles/896bc5ac.ext.json)
 
 ---

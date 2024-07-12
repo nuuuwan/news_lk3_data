@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 17:56:08**
+As of **2024-07-12 18:14:39**
 
 ## Newspaper Stats
 
-*Scraped **34,983** Articles*
+*Scraped **34,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,019
 tamilmirrorlk | 4,192
 dailymirrorlk | 4,733
 virakesarilk | 5,475
-adaderanasinhalalk | 5,824
+adaderanasinhalalk | 5,825
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,982 (100.0%) of 34,983 articles have been extended.
+34,983 (100.0%) of 34,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
+
+### රක්ෂිත බන්ධනාගාරගත කළ IPගේ කට කැපීම ගැන වාර්තාවක් ඉල්ලයි
+
+*2024-07-12 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198748) · `si`
+
+අල්ලස් ලබාගැනීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කරන ලද කොළඹ අපරාධ කොට්ඨාසයේ පොලිස් පරීක්ෂකවරයෙකුට බන්ධනාගාරය තුළදී පහරදීමේ සිද්ධිය සම්බන්ධයෙන් වාර්තාවක් ඉදිරිපත් කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය බන්ධනාගාර අධිකාරිවරයාට නියෝග කළේය.
+
+රක්ෂිත බන්ධනාගාර ගත කර සිටින එම සැකකාර පොලිස් පරීක්ෂකවරයා වෙනුවෙන් ඔහුගේ නීතිඥවරු ඉදිරිපත් කළ මෝසමක් සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා විසින් මෙම නියෝගය නිකුත් කළේය.
+
+ඊට අමතරව මෙම සිද්ධිය සම්බන්ධයෙන් විමර්ශනය කොට වාර්තාවක් ඉදිරිපත් කරන ලෙසත් මහෙස්ත්‍රාත්වරයා විසින් බොරැල්ල පොලීසියට වැඩිදුරටත් නියෝග කර සිටියේය.
+
+◼️
+
+[Data](articles/5d76a17f.json)
+
+---
 
 ### Former Health Minister Keheliya further remanded
 
@@ -46,17 +62,23 @@ Former Health Minister Keheliya Rambukwella and six others, arrested over the al
 
 ---
 
-### කෙහෙළිය යළිත් රිමාන්ඩ්
+### Keheliya remanded again
 
 *2024-07-12 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198747) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් 07 දෙනෙකු ජුලි මස 25 වනදා දක්වා අද (12) යළිත් රක්ෂිත බන්ධනගාරගතකර තිබේ.
+Former Health Minister Keheliya Rambukwella and six others were remanded until July 25 after being presented to the Maligawa Magistrate's Court.
 
-සැකකරුවන් මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී ඇත.
+🟩
+
+Seven suspects including former Minister of Health Keheliya Rambukwella and seven suspects have been remanded again from July 25.
+
+The suspects have been submitted to the Maliganda Magistrate's Court.
 
 ◼️
 
 [Data](articles/034cbd3c.json)
+
+[Extended Data](ext_articles/034cbd3c.ext.json)
 
 ---
 
@@ -2277,29 +2299,5 @@ Ananda is in a state of unable to carry out the case. He is deliberately detaine
 [Data](articles/7b84245c.json)
 
 [Extended Data](ext_articles/7b84245c.ext.json)
-
----
-
-### It is necessary to find the truth of the missing and establish justice - American Ambassador Julie Sung
-
-*2024-07-12 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/188262) · `ta`
-
-US Ambassador Julie Sung emphasized the importance of finding the truth behind disappearances and establishing justice during a meeting with Sri Lanka's Office of Missing Persons. She highlighted the need for legitimate actions leading to transformative justice and offered US support, including financial, data, and technical assistance, for investigations into missing persons.
-
-🟩
-
-The US Ambassador Julie Sung urged office officials about the disappearance of the disappearance, that the fact that the disappeared was found and the justice was established.
-
-A meeting between Ambassador Juli Sangh and the Office of the Office of Missing Persons held at the US embassy in Colombo on Thursday evening at the invitation of the US embassy.. Attorney -at -Law Mahesh Katulanda and Executive Attorney Jeganathan Busharan were also present on behalf of the Office of the Missing Persons.
-
-At the time, office officials explained to the US Ambassador on the actions and challenges of the Office of the Missing Persons and examined the two -sided share and cooperation in its next steps.
-
-Similarly, the investigation into the disappearances of the missing persons, including the excavation of the human body, is required to investigate human remains, so that all these processes have been discussed with the US financial, data and technical cooperation.
-
-...
-
-[Data](articles/5c698fd0.json)
-
-[Extended Data](ext_articles/5c698fd0.ext.json)
 
 ---

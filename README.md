@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 00:36:06**
+As of **2024-07-13 00:51:26**
 
 ## Newspaper Stats
 
-*Scraped **35,021** Articles*
+*Scraped **35,026** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,969
 economynextcom | 2,080
-dailyftlk | 2,214
+dailyftlk | 2,219
 adalk | 3,158
 adaderanalk | 4,022
 tamilmirrorlk | 4,196
@@ -26,11 +26,99 @@ adaderanasinhalalk | 5,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,014 (100.0%) of 35,021 articles have been extended.
+35,020 (100.0%) of 35,026 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### NPC orders probe into Club Wasantha murder suspect interrogation footage
+
+*2024-07-13 00:27:01* · [`dailyftlk`](https://www.ft.lk/news/NPC-orders-probe-into-Club-Wasantha-murder-suspect-interrogation-footage/56-764225) · `en`
+
+The National Police Commission (NPC) has instructed Inspector General of Police (IGP) Deshabandu Tennakoon to initiate an inquiry into the dissemination of footage showing Dulan Sanjula, a suspect arrested in connection with the murder of Sunhill Group of Companies Chairperson Surendra Wasantha Perera also known as “Club Wasantha,” being interrogated by a group of police officers.
+
+In the video that went viral on social media and other platforms this week, a group of police officers, including Deputy Inspector General Western Province (South) Division G. Marapana, Nugegoda Division Senior Superintendent of Police J.P.S. Jayamaha and several Chief Inspectors of Police were seen interrogating Sanjula, who provided key information on the conspiracy to murder Club Wasantha including its masterminds and funding received.
+
+In a communique to the IGP, the NPC has also requested a report on the matter to be submitted within two weeks.
+
+...
+
+[Data](articles/a9cb8dff.json)
+
+---
+
+### Prime Minister goes to Jaffna; applauds farmers
+
+*2024-07-13 00:25:10* · [`dailyftlk`](https://www.ft.lk/news/Prime-Minister-goes-to-Jaffna-applauds-farmers/56-764224) · `en`
+
+Prime Minister Dinesh Gunawardena yesterday attended the Jaffna District Coordinating Committee meeting held at the Jaffna Divisional Secretariat Office.
+
+He also participated in the distribution of rice and egg incubators for the low income families.
+
+In his address, the Prime Minister said farmers are not Government workers, and their service and contribution are immeasurable.
+
+“The Government is dedicated to improving the living conditions of the Jaffna Peninsula. In order to increase the living conditions, we have embarked on an increase in most of the expenditure needed by the departments, and also special allocations for rural and urban development in the Local Government area. The President and the Government are committed to improve the services and living conditions, therefore, to provide the necessary infrastructure for developments, which means much to your area,” said the Prime Minister.
+
+...
+
+[Data](articles/f726893c.json)
+
+---
+
+### Cabinet approves upgrade of radiation therapy equipment across hospitals
+
+*2024-07-13 00:24:25* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-upgrade-of-radiation-therapy-equipment-across-hospitals/56-764223) · `en`
+
+The Cabinet of Ministers on Tuesday approved upgrading linear accelerators at Kandy National Hospital, Karapitiya National Hospital and Batticaloa Teaching Hospital and to supply advanced radiation therapy equipment to hospitals in Rathnapura, Badulla, Hambanthota, Anuradhapura and Kurunegala.
+
+This initiative is part of the medium-term budget framework for 2024-2026.
+
+The upgrade will significantly enhance the cancer treatment capabilities at these hospitals, ensuring that patients receive the most advanced care available.
+
+An agreement was made in 2013 between the Electa Company in the UK and the Health Ministry to supply 14 linear accelerators for cancer care services in two phases.
+
+The first phase was implemented, and the second phase is now set to proceed.
+
+Due to the exclusion of several standardised components for modern cancer treatments in the original agreement, Sri Lankan oncologists recommended procuring advanced machines.
+
+...
+
+[Data](articles/9ae07ea4.json)
+
+---
+
+### Govt. to gazette regulations on speed limits: Alagiyawanna
+
+*2024-07-13 00:23:35* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-gazette-regulations-on-speed-limits-Alagiyawanna/56-764222) · `en`
+
+State Minister of Transport Lasantha Alagiyawanna on Thursday stated a gazette with the necessary regulations on speed limits, aimed at reducing road accidents, will be issued within the next two weeks.
+
+He made this statement during a media briefing held at the Presidential Media Centre (PMC), said that the on-going strikes are motivated by political interests rather than genuine professional rights.
+
+According to him, the National Council for Road Safety has allocated Rs. 50 million to the Sri Lanka Police for the purchase of necessary speed control equipment.
+
+He also said arrangements have been made to provide teachers with manuals for establishing Road Safety Clubs at the school level. These clubs will be included in the school system as an extracurricular activity, and a medal awarding program has also been introduced.
+
+...
+
+[Data](articles/074935d8.json)
+
+---
+
+### Sri Lankan Roadshow 2024 in Oman
+
+*2024-07-13 00:21:42* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-Roadshow-2024-in-Oman/34-764221) · `en`
+
+The Embassy of Sri Lanka in Muscat in collaboration with the Sri Lanka Business Council Initiative (SLBCI) in the Sultanate of Oman successfully organised the Sri Lankan Roadshow – 2024 for the first time on a magnificent scale, under the theme of ’Serendib the Golden Island’, promoting Sri Lankan culture, tourism and trade on 5 July 2024 at the Oasis Mall, Muscat. The event was arranged with the aim of showcasing Sri Lanka as a premier travel destination to attract tourists during the summer vacation in Oman as well as to portray Sri Lanka’s vibrant culture and trade opportunities.
+
+With the active participation of the Sri Lankan expatriate community in Oman, the event created a lasting impression of Sri Lanka among Omanis and expatriates alike in the Sultanate, fostering cultural exchange and strengthening bilateral economic ties.
+
+...
+
+[Data](articles/075099f1.json)
+
+---
 
 ### Show of Top Thai Brands at Havelock City Mall
 
@@ -41,6 +129,8 @@ Top Thai Brands Colombo 2024, presented by the Chennai Thai Trade Centre, kicked
 ◼️
 
 [Data](articles/7948b458.json)
+
+[Extended Data](ext_articles/7948b458.ext.json)
 
 ---
 
@@ -58,6 +148,8 @@ It is expected that nearly 15,000 couples and families will patronise the show, 
 
 [Data](articles/cd4c501f.json)
 
+[Extended Data](ext_articles/cd4c501f.ext.json)
+
 ---
 
 ### SL, Singapore discuss digital partnership
@@ -74,6 +166,8 @@ Referring to Singapore’s regional cyber security efforts through the ASEAN-Sin
 
 [Data](articles/71f5779b.json)
 
+[Extended Data](ext_articles/71f5779b.ext.json)
+
 ---
 
 ### Sadaharitha signs largest agarwood tech-sharing deal with Malaysian firm
@@ -87,6 +181,8 @@ The agreement marks a pivotal achievement not only for Sadaharitha but also for 
 ...
 
 [Data](articles/3ff5b788.json)
+
+[Extended Data](ext_articles/3ff5b788.ext.json)
 
 ---
 
@@ -104,6 +200,8 @@ I read with interest Rohan Pethiyogada’s article “Adani controversy: Why the
 
 [Data](articles/30807e0c.json)
 
+[Extended Data](ext_articles/30807e0c.ext.json)
+
 ---
 
 ### Climate risk and the fashion and textile industry
@@ -117,6 +215,8 @@ Sri Lanka has a vibrant fashion and textile industry that has long been an impor
 ...
 
 [Data](articles/64b00a9a.json)
+
+[Extended Data](ext_articles/64b00a9a.ext.json)
 
 ---
 
@@ -2171,119 +2271,5 @@ The Minister further stated that the present President has met with the Colleges
 [Data](articles/f209b74e.json)
 
 [Extended Data](ext_articles/f209b74e.ext.json)
-
----
-
-### Car in an accident;Fortunately the survivor travelers.
-
-*2024-07-12 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188270) · `ta`
-
-In a car crash on the Puttalam-Anuradhapura road, all passengers miraculously survived and were revived. The incident occurred last night near the Authority Office when a car heading towards Anuradhapura collided with one going to Puttalam.
-
-🟩
-
-Fortunately, passengers in the car have been resurrected after a car collided with a luxury car on the Puttalam - Anuradhapura main road.
-
-The accident took place yesterday (11) evening in front of the Puttalam -Anuradhapura main road in front of the Authority Office.
-
-The luxury car from Anuradhapura to Puttalam has been hit by a car from Puttalam to Anuradhapura.
-
-◼️
-
-[Data](articles/06375aa1.json)
-
-[Extended Data](ext_articles/06375aa1.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 302.75/90 to US dollar
-
-*2024-07-12 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-302-75-90-to-us-dollar-171827/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened slightly stronger at 302.75/90 to the US dollar on Friday, while bond yields were up, and stocks opened 0.12 percent down, dealers said.
-
-The rupee closed at 302.80/303.00 to the greenback on Thursday.
-
-In the secondary market, yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.90/95 percent, up from 10.85/95 percent.
-
-A bond maturing on 15.12.2027 was quoted at 11.80/85 percent, down from 11.80/88 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.80/95 percent, up from 11.80/90 percent.
-
-A bond maturing on 15.09.2029 was quoted at 12.10/25 percent, down from 12.15/25 percent.
-
-In equities, Colombo’s All Share Price Index opened 14.68 points lower at 11,787, while the S&P SL20 of more liquid stocks opened up at 0.09 percent or 3.03 points to 3,438.
-
-◼️
-
-[Data](articles/18a5433a.json)
-
-[Extended Data](ext_articles/18a5433a.ext.json)
-
----
-
-### The upper rail service returns to normal at 12 noon
-
-*2024-07-12 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188268) · `ta`
-
-After a brief strike, train services resume normally post-noon due to returning staff and resolving technical issues.
-
-🟩
-
-Although the strike has been abandoned from Thursday night, the train services will return to normal after 12 noon, the Railway Department control room said.
-
-The department said that some train regulators, engine drivers and railway principals had to return to work and many trains had technical problems.
-
-Therefore, the train service is expected to return to normal after 12 noon.
-
-◼️
-
-[Data](articles/03bcf2a3.json)
-
-[Extended Data](ext_articles/03bcf2a3.ext.json)
-
----
-
-### Presidential Scholarship awards to commence at district level today
-
-*2024-07-12 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100457/presidential-scholarship-awards-to-commence-at-district-level-today) · `en`
-
-The Presidential Scholarship award for A-Level students and students from Grade 01 to 11 from low-income families will commence at the district level from today (12).
-
-The distribution of scholarships for the Colombo district took place on June 19th under the patronage of President Ranil Wickremesinghe at the Temple Trees and beginning tomorrow, the scholarship distribution will extend to the remaining 24 districts across the country.
-
-Selected students in the Hambantota district will receive their scholarships today (12). Scholarships will be given in the Badulla, Matale, and Jaffna districts on July 13. Kilinochchi district will follow on July 14. Gampaha district will have its distribution on July 16 and 17, while Galle and Anuradhapura districts will receive their scholorships on July 15, said President’s Media Devision.
-
-...
-
-[Data](articles/983d6ed1.json)
-
-[Extended Data](ext_articles/983d6ed1.ext.json)
-
----
-
-### The gift that dog motives had given to police from the Netherlands to the Sri Lankan police
-
-*2024-07-12 09:14:34* · [`adalk`](https://www.ada.lk/breaking_news/නෙදර්ලන්තයේ-සිට-ලංකාවේ-පොලීිසියට-ආපු-සුනඛ-ධේනුවන්-පොලීසියට-දුන්-තෑග්ග/11-410753) · `si`
-
-The Dutch police gifted two German Shepherds and two English Springer Spaniels to the Sri Lankan police. These dogs, born at the Asgiriya Police Dog Headquarters in Kandy, join the force's 35 official dogs, enhancing their capabilities.
-
-🟩
-
-The Police Media Division says that two newly funerals were delivering to the official dog group of the Police Department.
-
-There are two official dogs, German Shepherd, Gern Shepherd, Gern Shepherd, Gern Shepherd, Gern Shepherd, Gern Shepherd, the 35 official dogs
-
-Powered by the two Tenpered Tenpered and Regular Dome Pressure of English Springer.
-
-The calves were born at the Asgiriya Police Official Dog Headquarters in Kandy, according to the Police Media Division.
-
-◼️
-
-[Data](articles/cab1bb08.json)
-
-[Extended Data](ext_articles/cab1bb08.ext.json)
 
 ---

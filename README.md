@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 09:54:24**
+As of **2024-07-12 10:05:56**
 
 ## Newspaper Stats
 
-*Scraped **34,915** Articles*
+*Scraped **34,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,968
 economynextcom | 2,068
 dailyftlk | 2,203
-adalk | 3,147
+adalk | 3,148
 adaderanalk | 4,010
 tamilmirrorlk | 4,176
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,806
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,915 (100.0%) of 34,915 articles have been extended.
+34,915 (100.0%) of 34,916 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1124,6 +1124,24 @@ We have launched a number of programs to establish productivity in the field of 
 
 ---
 
+### චැම්පියන්ස් කුසලානයේ සත්කාරකත්වයක් ශ්‍රී ලංකාවටත් ?
+
+*2024-07-11 23:03:02* · [`adalk`](https://www.ada.lk/sports/චැම්පියන්ස්-කුසලානයේ-සත්කාරකත්වයක්-ශ්‍රී-ලංකාවටත්--/9-410749) · `si`
+
+පාකිස්තානයේදී එළඹෙන 2025 වර්ෂයේදී පැවැත්වෙන චැම්පියස් කුසලාන එක්දින ක්‍රිකට් තරගාවලියේ සත්කාරක රාජ්‍යයක් ලෙස ශ්‍රී ලංකාව තෝරා ගැනීමට ඉඩක් ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+
+ඒ තරගාවලියේ බොහෝ දෙනාගේ අවධානයට යොමු වූ ඉන්දු-පාකිස්තාන තරගයේ සත්කාරක රාජ්‍යය ලෙසයි. පාකිස්තානයේ සත්කාරකත්වය යටතේ පැවැත්වෙන මෙම තරගාවලියට සහභාගි වීමට පාකිස්තානයට නොපැමිණෙන බව ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලය ඊයේ (11දා) නිල වශයෙන් තහවුරු කිරීමත් සමඟින් මෙම අවශ්‍යතාවය මතු වී ඇත.
+
+එසේ වුවහොත් මෙම ඉන්දු - පාකිස්තාන තරගය ඩුබායි රාජ්‍යයේ හෝ ශ්‍රී ලංකාවේදී පැවැත්වීම පිළිබඳ ඉදිරි තීරණයක් ගන්නා බව ඉන්දීය ක්‍රිකට් ආයතනය වැඩිදුරටත් පවසා ඇත. තරගාවලිය එළඹෙන වසරේ (2025) පෙබරවාරි 19වැනිදා සිට මාර්තු 01වනදා දක්වා පැවැත්වේ. එහි ඉන්දු - පාකිස්තාන තරගය පැවැත්වීමට සැලසුම් කර තිබුණේ මාර්තු 01වැනිදා ලාහෝර්හි ගඩාෆි ක්‍රීඩාංගණයේදීය.
+
+කෙසේ වෙතත් මෙම තරගාවලියට සුදුසුකම් ලැබීම පසුගිය වසරේදී ඉන්දියාවේදී පැවති එක්දින ක්‍රිකට් ලෝක කුසලානයේ අවසන් ප්‍රසාද ලකුණු සටහන අනුව සිදුකෙරුණු අතර, ඒ සඳහා ශ්‍රී ලංකාව සුදුසුකම් නොලැබීය.
+
+◼️
+
+[Data](articles/57e2154a.json)
+
+---
+
 ### Slave Island fuel vested with the public
 
 *2024-07-11 22:57:54* · [`adalk`](https://www.ada.lk/picture_story/කොම්පඤ්ඤවීදිය-ගුවන්-පාලම-ජනපති-අතින්-ජනතා-අයිතියට/10-410748) · `si`
@@ -2042,9 +2060,9 @@ We have some responsibility for the safety of the people. We will provide our co
 
 ECONOMYNEXT – Sri Lanka has sold 131.2 billion rupees in 2027 and 2031 bonds, data from the state debt office showed.
 
-All offered 58 billion rupees of 15 December 2027 bonds were sold at an average yield of 11.25 percent.
+All offered 58 billion rupees of 15 December 2027 bonds were sold at an average yield of 11.78 percent.
 
-The debt office sold 73.2 billion rupees of an offered 80 billion of 01 December 2031 bonds at 12.00 percent.
+The debt office sold 73.2 billion rupees of an offered 80 billion of 01 December 2031 bonds at 12.31 percent.
 
 ◼️
 
@@ -2235,31 +2253,5 @@ Under President Ranil Wickremesighe’s government, the NWSDB’s monthly loss o
 [Data](articles/1bc02e69.json)
 
 [Extended Data](ext_articles/1bc02e69.ext.json)
-
----
-
-### Modi to redeem Indians in the Russian army
-
-*2024-07-11 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198710) · `si`
-
-Narendra Modi discussed the Russian-Ukrainian conflict with Russia, addressing concerns about Indian soldiers reportedly enlisted in the Russian army. Russia assured the release of any Indians involved, highlighting a case where a group of Indians were misled into serving there. Approximately 30 Indians are currently part of the Russian forces, with casualties reported on the battlefield. Modi's visit to Russia was aimed at resolving these issues.
-
-🟩
-
-Indian Prime Minister Narendra Modi has asked Russia on Russian and Ukrainian war in the war.
-
-The Russian authorities have said that the Indian army has recruited to the Russian army, they will be removed and released.
-
-A group of Indian deceived the brokers to be demanded to Russia where they had been sent to Russia.
-
-The number of Indian nationals have died on the battlefield and about 30 others are attached to the Russian army.
-
-Prime Minister Modi was a leading purpose of Prime Minister Modi's Russian tour.
-
-◼️
-
-[Data](articles/5a5a33a1.json)
-
-[Extended Data](ext_articles/5a5a33a1.ext.json)
 
 ---

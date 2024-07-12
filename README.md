@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 14:35:16**
+As of **2024-07-12 14:54:21**
 
 ## Newspaper Stats
 
-*Scraped **34,959** Articles*
+*Scraped **34,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,968
 economynextcom | 2,072
 dailyftlk | 2,203
 adalk | 3,152
-adaderanalk | 4,014
-tamilmirrorlk | 4,184
+adaderanalk | 4,015
+tamilmirrorlk | 4,186
 dailymirrorlk | 4,733
 virakesarilk | 5,475
 adaderanasinhalalk | 5,816
@@ -26,51 +26,117 @@ adaderanasinhalalk | 5,816
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,954 (100.0%) of 34,959 articles have been extended.
+34,959 (100.0%) of 34,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
 
-### වසර 17කට පෙර හමුවූ සුපිරි පාපන්දු තරු දෙක
+### Audrey Azoulay வருகிறார்
+
+*2024-07-12 14:34:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Audrey-Azoulay-வருகிறார்/175-340296) · `ta`
+
+ஐக்கிய நாடுகளின் கல்வி, விஞ்ஞான மற்றும் கலாசார அமைப்பின் (யுனெஸ்கோ) பணிப்பாளர் நாயகம் Audrey Azoulay இலங்கை அரசாங்கத்தின் அழைப்பின் இலங்கைக்கு விஜயம் செய்யவுள்ளார்.
+
+இந்த விஜயத்தின் போது, ​​  ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்திக்கவுள்ளதுடன், கல்வி அமைச்சர் சுசில் பிரேமஜயந்த மற்றும் பதில் வெளிவிவகார அமைச்சர் தாரக பாலசூரிய ஆகியோரையும் சந்திப்பார்.
+
+அவர் யுனெஸ்கோவில் இலங்கை அங்கத்துவம் பெற்றதன் 75வது ஆண்டு விழாக் கொண்டாட்டத்தில் பங்கேற்பார். இந்த வைபவம், நெலும் பொகுன திரையரங்கில் நடைபெறும். அத்துடன் யுனெஸ்கோ உலக பாரம்பரிய தளங்களுக்குச் செல்வார்.
+
+◼️
+
+[Data](articles/678fa0f1.json)
+
+---
+
+### Biden stands defiant on critical night - but gaffes mar fightback
+
+*2024-07-12 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100462/biden-stands-defiant-on-critical-night-but-gaffes-mar-fightback) · `en`
+
+Joe Biden took to the stage at his Thursday night news conference with everything on the line – his presidency, his re-election hopes, his political life.
+
+If those were the stakes, he barely acknowledged them at the hour-long session to mark the end of a Nato summit, having earlier introduced Ukraine’s President Zelensky as “President Putin” at a separate event.
+
+The news conference was his first unscripted appearance after a disastrous debate with his rival Donald Trump, leading to calls from several Democratic politicians and donors for him to drop out of the race for president.
+
+Mr Biden, 81, has faced continuous questions over his age and ability to serve another term, which intensified after the debate.
+
+But at the highly anticipated news conference, he dismissed the concerns about his campaign that were posed again and again by a room full of reporters, and promised that he was fighting not for his legacy, but to finish the job he started when he took office in 2021.
+
+...
+
+[Data](articles/7a498954.json)
+
+---
+
+### ”ஒரு மணிநேரம்கூட பதவியில் இருக்க முடியாது”
+
+*2024-07-12 14:21:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-மணிநேரம்கூட-பதவியில்-இருக்க-முடியாது/175-340295) · `ta`
+
+ஜனாதிபதியின் பதவி காலம் ஐந்து வருடங்கள் மட்டுமே.   பதவிக் காலம் நிறைவடைந்தவுடன் ஒரு மணித்தியாலம் கூட பதவியில் இருக்க முடியாது. என  நீதி,சிறைச்சாலைகள் அலுவல்கள் மற்றும்  அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர்  விஜயதாஸ ராஜபக்ச  வலியுறுத்தினார்
+
+எனவே ஜனாதிபதியின் பதவிக் காலம் தொடர்பில்  மீண்டும் மீண்டும் உயர்நீதிமன்றத்தில் வழக்கு தாக்கல் செய்து நீதிமன்றத்தை கேலிக்கூத்தாக்க வேண்டாம் என்றும் கேட்டுக்கொண்டார்.
+
+பாராளுமன்றத்தில்   வெள்ளிக்கிழமை (12) அரசியலமைப்பின்    19 ஆவது திருத்தம் முறையாக நிறைவேற்றப்படவில்லை.ஆகவே சர்வஜன வாக்கெடுப்பு நடத்துமாறும் ஜனாதிபதி தேர்தலை இடைநிறுத்துமாறு கட்டளை பிறப்பிக்குமாறும்  சட்டத்தரணி ஒருவர் உயர் நீதிமன்றத்தில் தாக்கல் செய்துள்ள அடிப்படை உரிமை மீறல் மனு தொடர்பில் பாராளுமன்ற உறுப்பினர் டலஸ் அழகப்பெரும எழுப்பிய கேள்விகளுக்கு பதிலளிக்கும் போதே இவ்வாறு வலியுறுத்திய அவர் மேலும் கூறுகையில்,
+
+...
+
+[Data](articles/15a79ad0.json)
+
+---
+
+### Super football stars found 17 years ago
 
 *2024-07-12 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198738) · `si`
 
-2007 වසරේදී එවකට වයස අවුරුදු 20ක් වූ සුපිරි පාපන්දු ක්‍රීඩක ලියෝනල් මෙසී ස්පාඤ්ඤයේ බාසිලෝනා නගරයේදී දින දර්ශනයක් සඳහා ඡායාරූප රූගත කිරීමකට එක්වුණි.
+In 2007, young footballer Boonal posed for a calendar in Barcelona, where he unknowingly photographed future Spanish football star, Beamer Yarl. Today, Yarl shines as a key player, making history as the youngest scorer in the European Cup finals at just 17 years old.
 
-ඔහු එහිදී බිළිඳෙකු අත දරාගෙන එක් ඡායාරූපයක් සඳහා මුහුණ දුන්නේය.
+🟩
 
-එම ඡායාරූපයේ සිටින දරුවා වසර 17කට පසුව සුපිරි පාපන්දු තරුවක් වෙතැයි කිසිවෙක් නොසිතන්නට ඇත.
+In 2007, Super Football Booonal, aged 20, joined the photo shooting for a calendar in Barcelona in Barcelona, ​​20.
 
-ඒ දරුවා, ලෙමින් යමාල් ය. ඔහු අද ස්පාඤ්ඤ පාපන්දු කණ්ඩායමේ තරුවකි.
+He covered a baby and faced one photo.
 
-පසුගියදා ප්‍රංශය සමග පැවති යුරෝපීය කුසලාන පාපන්දු තරගාවලියේ අවසන් පූර්ව තරගයේදී ස්පාඤ්ඤ කණ්ඩායම ජයග්‍රහණය කරා ගෙන යාමට ජමාල් විශාල මෙහෙයක් කළේය.
+The child may have thought that the child in the photograph is a Super Football Star.
 
-ඒ තම කණ්ඩායමේ පළමු ගෝලය රැස්කරමිනි. ඒ වනවිට වයස අවුරුදු 16යි දින 362ක් වූ ජමාල්, යුරෝපීය කුසලාන ඉතිහාසයේ ගෝලයක් ලබාගත් ළාබාලතම ක්‍රීඩකයා වෙයි.
+That child is the beam and yarl. He is a star of the Spanish football team today.
+
+In the semi-finals of the European Cup Football with France, the Spanish team made a large rank to achieve.
+
+At the first division of his team. At that time, Jamal, 362 days, 362 days, is the youngest player to receive a goal in the history of European cup.
 
 ◼️
 
 [Data](articles/6ac17b5e.json)
 
+[Extended Data](ext_articles/6ac17b5e.ext.json)
+
 ---
 
-### VFS ආන්දෝලනයේ ගැටලු රැසක් හර්ෂ හෙළිකරයි
+### VFS controversy has many problems
 
 *2024-07-12 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198737) · `si`
 
-ශ්‍රී ලංකා ආගමන සහ විගමන දෙපාර්තමේන්තුව සහ ආයතන සමූහය අතර මාර්ගගත ආකාරයෙන් වීසා සහ විදෙස් ගමන් බලපත්‍ර අයදුම් කිරීමේ සේවා බැහැරින් ලබාගැනීම පිළිබඳ මුදල් කාරක සභාවේ වාර්තාව අද (12) පෙරවරුවේ පාර්ලිමේන්තුවට ඉදිරිපත් කළේය.
+The VFS controversy involves allegations of a lack of competitive bidding for visa and passport services, concerns over fee structures, data breaches, conflicts of interest, and unexpected funding. The Parliamentary Committee recommended a thorough audit by the Auditor General and suggested immediate safety measures for the visa application process, emphasizing the need for transparency and accountability.
 
-එම කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතා එහිදී පැවසුවේ අභියෝග රැසක් මැද මෙම වාර්තාව ඉදිරිපත් කරන බවය.
+🟩
 
-තමාගේ විරෝධය මැද පාර්ලිමේන්තු මහලේකම්වරිය මෙම කාරක සභාවට කැඳවූ බවත් තමාව සමහරුන් දැඩි ලෙස සමච්චලයට ලක්කළ බවත් හෙතෙම මෙහිදී අනාවරණය කළේය.
+The report of the passport of the passport of the Department of Finance and Passport Application forward to the parliament to obtain online visas and foreign passports from the Sri Lanka Institute of Immigration and Emigration and the Institutions.
 
-මෙහි ආයතන සමූහය ලෙස හඳුන්වන්නේ වීසා අයදුම්පත් මාර්ගගත ආකාරයෙන් ඉදිරිපත් කිරීමේ බලයලත් නියෝජිතායතනය ලෙස ජී.බී.එස්. ටෙක්නොලොජි සර්විසස් හා අයි.වී.එස්. ග්ලෝබල් - එෆ්.ඉසෙඩ්.සී.ඕ. සමාගම් සහ තාක්ෂණික සහකරු ලෙස වී.එෆ්. වර්ල්ඩ්වයිඩ් හෝල්ඩින්ග්ස් සීමාසහිත සමාගමය.
+Chairman of the Committee Dr. Harsha de Silva said that the report will be presented at many challenges.
 
-මෙම ආයතන සමූහය සඳහා සේවාවන් ලබාගැනීමේදී තරගකාරී ලංසු තැබීමේ ක්‍රියාවලියක් නොතිබීම ආගමන විගමන දෙපාර්තමේන්තුවට මුදල් සඳහා හොඳම වටිනාකම ලබාගැනීම සඳහා බාධාවක් වූ බව මුදල් කාරක සභාවේ මතය බව ඔහු පැවසීය.
+He also revealed that the Secretary General of Parliament was summoned to the committee and he had been severely ridiculed.
+
+The Group is known as the Authorized Agency of Visa Application Form from Online. Technologian services and IVS. Global - F.CiD.CO. VF as companies and technical partner. Worldwide Holdings Limited.
+
+He said that there was no competitive bidding process in obtaining services to these group, he said that the Immigration and Emigration has a hindrance to the Department of Immigration and Emigration.
+
+There are several main issues that have been unresolved in the procurement process.
 
 ...
 
 [Data](articles/5a8ee7eb.json)
+
+[Extended Data](ext_articles/5a8ee7eb.ext.json)
 
 ---
 
@@ -98,37 +164,51 @@ Police suspect that due to the driver's attention, the disaster of the sky was n
 
 ---
 
-### மலேசியாவின் பாதுகாப்பு அமைச்சரை சந்தித்தார் செந்தில்
+### Senthil met Malaysia's Defense Minister
 
 *2024-07-12 13:49:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலேசியாவின்-பாதுகாப்பு-அமைச்சரை-சந்தித்தார்-செந்தில்/175-340294) · `ta`
 
-மலேசியாவின் பாதுகாப்பு அமைச்சர்  முகமட் ஹசனை கிழக்கு மாகாண ஆளுநரும் இலங்கை தொழிலாளர் காங்கிரஸின் தலைவருமான செந்தில் தொண்டமான் சந்தித்தார்.
+Senthil Thondaman, Governor of Sri Lanka's Eastern Province, met Malaysia's Defense Minister Mohamed Hasan, with Parliamentarian Datosree Saravanan Murugan and the Sri Lanka Ambassador to Malaysia also attending.
 
-இச்சந்திப்பின் போது பாராளுமன்ற உறுப்பினர்  டத்தோஸ்ரீ  சரவணன் முருகன் மற்றும் மலேசியாவுக்கான இலங்கைத் தூதுவர் ஆகியோர் கலந்துக் கொண்டனர்.
+🟩
+
+Senthil Thondaman, Governor of the Eastern Province and President of the Ceylon Workers Congress, met Malaysia's Defense Minister Mohamed Hasan.
+
+Parliamentarian Datosree Saravanan Murugan and Sri Lanka Ambassador to Malaysia were present during the meeting.
 
 ◼️
 
 [Data](articles/c312b094.json)
 
+[Extended Data](ext_articles/c312b094.ext.json)
+
 ---
 
-### සියදිවි නසා ගැනීම් වලින් ලංකාව තවමත් ලෝකයේ ඉදිරියෙන්ලු
+### Sri Lanka is still in the world with suicide
 
 *2024-07-12 13:46:36* · [`adalk`](https://www.ada.lk/breaking_news/සියදිවි-නසා-ගැනීම්-වලින්-ලංකාව-තවමත්-ලෝකයේ-ඉදිරියෙන්ලු/11-410756) · `si`
 
-1996 – 1997 වර්ෂ වලදී ශ්‍රී ලංකාව ලෝකයේ සියදිවි නසා ගැනීම් වැඩිම රටක් ලෙස පැවතුණු බවත් වර්තමානය වන විට එම තත්වය යහපත් වූවත්, තවමත් ශ්‍රී ලංකාව ලෝකයේ අනෙකුත් රටවලට සාපේක්ෂව සියදිවි නසා ගැනීම් අතින් ඉදිරියෙන් සිටින රටක් ලෙස සෞඛ්‍ය හා කර්මානත් අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා අවධාරණය කරයි.
+In 1996 and 1997, Sri Lanka had the highest suicide rate globally. Health Minister Dr. Ramesh Pathirana highlighted this issue during a ceremony marking Sumatriro's 50th anniversary. Sumatriro, established in 1974, aims to prevent suicides by supporting individuals facing mental/emotional distress. A four-day international conference, involving representatives from 15 countries, will discuss strategies to address this critical issue.
 
-අමාත්‍යවරයා මේ බව අවධාරණය කර සිටියේ, ඊයේ (11) පස්වරුවේ කොළඹ රාමඩා හෝටලයේ පැවති විශේෂ උත්සවයකට සහභාගී වෙමිනි. සුමිත්‍රයෝ ආයතනය පිහිටුවා වසර 50 ක් පිරීම නිමිත්තෙන් මෙම විශේෂ උත්සවය සංවිධානය කර තිබිණි.
+🟩
 
-මෙහිදී වැඩිදුරටත් අදහස් දක්විමින් සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා කියා සිටියේ,
+In 1996 and 1997, Sri Lanka was the highest number of suicide country in the world, Health and Corporate Minister Dr. Ramesh Pathirana stressed as a country of suicide relative to other countries in the world.
 
-රටක් ලෙස, මෙම තත්වයට අප කණගාටු විය යුතු බවත්, සෞඛ්‍ය අමාත්‍යංශය ලෙස අනෙකුත් අංශ සමඟ සහයෝගීතාවයෙන් මෙම තත්ත්වය  යහපත් කර ගැනීමට ගත හැකි සියලු ක්‍රියාමාර්ගයන් ගන්නා බවත්ය.
+The Minister emphasized a special ceremony held at Rawadi Hotel yesterday afternoon.. The special ceremony was organized to mark 50 years after the establishment of Sumatriro.
 
-සියදිවි නසා ගැනීම සදහා විශේෂයෙන්ම බලපාන හේතු සාධක ගණනාවක් තිබෙන බවද, සිහිපත්කල අමාත්‍යවරයා සිය දිවි නසා ගැනීම් වළක්වාලීමට විශාල දායතක්වයක් සුමිත්‍රයෝ ආයතනය මගින් ලබාදෙන බවද කීවේය.
+Minister of Health and Industry Dr. Ramesh Pathiran said he said:
+
+As a country, we should be worried about this situation and that the Ministry of Health will take all possible measures to improve this situation with other sectors.
+
+The Minister said that the Minister of Reimated Summatio provides a larger contributor to suicide.
+
+Speaking to the 50-year-old Sumathari, who serves a large number of people, should be appreciated and a special thankful to the operation.
 
 ...
 
 [Data](articles/46938cb7.json)
+
+[Extended Data](ext_articles/46938cb7.ext.json)
 
 ---
 
@@ -790,17 +870,23 @@ The suspects are the main disciples of the Rotumba Amila, a member of the Rotumb
 
 ---
 
-### බබා කාගෙවත්ලු උප්පැන්නේ කාගෙවත්ලු
+### Baby the Baby Birth
 
 *2024-07-12 10:07:28* · [`adalk`](https://www.ada.lk/breaking_news/බබා-කාගෙවත්ලු-උප්පැන්නේ-කාගෙවත්ලු/11-410754) · `si`
 
-ශ්‍රී ලංකා අධ්‍යාපන විශ්වවිද්‍යාලය බිහි කිරීමේ සියලු‍ කටයුතු පසුගිය දෙවසරක කාලයක් තුළ අභියෝගතා රැසක් මැද අවසන් කර ඇති බවත් පාර්ලිමේන්තු අනුමැතිය ලබාගැනීමට අවශ්‍ය අවසාන කෙටුම්පතත් නීතිපති කෙටුම්පත් සම්පාදක වෙත මේ වන විට අධ්‍යාපන අමාත්‍යාංශයෙන් යොමු කර ඇති බවත් අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසී ය.
+Susil Premajayantha, Minister of Education, announced that all activities at the Sri Lanka Education University were completed in the last two years. He mentioned that the current President had discussions with the Colleges of Science regarding professional competencies, reminiscent of the Minister of Education's role in 1986. The launch of the Education University is imminent, with the Minister emphasizing the importance of not allowing the university to serve narrow political interests in future administrations.
 
-මෙහි දී වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍යවරයා කියා සිටියේ, වත්මන් ජනාධිපතිවරයා 1986 වර්ෂයේ අධ්‍යාපන අමාත්‍යවරයා ව සිටියදී ආරම්භ කළ විද්‍යාපීඨ මගින් වාර්ෂික ව බිහි කරනු ලබන ඩිප්ලෝමාධාරීන්ගේ වෘත්තීක නිපුණතාව කාලීන අධ්‍යාපන අවශ්‍යතාවන්ට ගැළපෙන පරිදි යාවත්කාලීන වූ ගුණාත්මකභාවයෙන් ඉහළ උපාධියක මට්ටමට ගෙන ඒමේ අරමුණින් එම සියලු‍ විද්‍යාපීඨ ඒකරාශී කර ශ්‍රී ලංකා අධ්‍යාපන විශ්වවිද්‍යාලය ආරම්භ කරන බවයි. මෙවන් පසුබිමක් තුළ වෙනත් පාර්ශ්වයක් විසින් සිය අනාගත පාලන කාලයන්හි දී එම විශ්වවිද්‍යාලය ඉදි කරන බව පවසමින් පටු දේශපාලනික අරමුණු ඉටු කරගැනීමට මාන බලන බවත් මෙහි දී අමාත්‍යවරයා සඳහන් කළේ ය.
+🟩
+
+Minister of Education Susil Premajayantha said that all the activities of the Sri Lanka Education University has been completed within the past two years.
+
+The Minister further stated that the present President has met with the Colleges of Science to meet the professional competencies of the Ministry of Education in 1986 as the Minister of Education in 1986.The University of Education will be launched. The Minister said that such a situation in such a background, the Minister said that it would be to ensure the narrow political goals claiming that the university was built in his future regimes.
 
 ◼️
 
 [Data](articles/f209b74e.json)
+
+[Extended Data](ext_articles/f209b74e.ext.json)
 
 ---
 
@@ -2161,69 +2247,5 @@ Although there is contradiction to the Cabinet over the president's term in the 
 [Data](articles/1e82d3f1.json)
 
 [Extended Data](ext_articles/1e82d3f1.ext.json)
-
----
-
-### Suspension of a magistrate's service?
-
-*2024-07-11 22:42:53* · [`adalk`](https://www.ada.lk/breaking_news/මහේස්ත්‍රාත්වරයෙකුගේ-සේවය-අත්හිටුවයි-/11-410746) · `si`
-
-The service of a magistrate in Colombo Magistrate's Court is temporarily suspended pending an investigation by the Judicial Service Commission.
-
-🟩
-
-The service of a magistrate in Colombo Magistrate's Court has been temporarily suspended by the Judicial Service Commission. It is reported that the service has been suspended due to an investigation against the magistrate.
-
-◼️
-
-[Data](articles/b46fa4d6.json)
-
-[Extended Data](ext_articles/b46fa4d6.ext.json)
-
----
-
-### Another group abandons the strike
-
-*2024-07-11 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198722) · `si`
-
-Non-academic staff at a university ends their strike after over two months, influenced by discussions with Professor Sampath Amaratunga about their demands.
-
-🟩
-
-University non-academic staff officers have decided to leave their strike.
-
-It is reported that they have decided after discussing the decision with Professor Sampath Amaratunga, Prof. Prof. Sampath Amaratunga regarding his demands.
-
-University non-academic workers are strike on more than 2 months on several demands.
-
-◼️
-
-[Data](articles/242502cd.json)
-
-[Extended Data](ext_articles/242502cd.ext.json)
-
----
-
-### Fanitu resigns
-
-*2024-07-11 22:28:33* · [`adalk`](https://www.ada.lk/sports/වනිඳු-නායකත්වයෙන්-ඉල්ලා-අස්වෙයි/9-410745) · `si`
-
-Thunu Hasaranga resigned from leading Sri Lanka's T20 team after six months, citing criticism for the team's performance at the World Cup. Despite early exits, the team was praised for its innovative approach. Hasaranga led the team to victory in six out of twenty matches during his tenure.
-
-🟩
-
-Sri Lanka Cricket announces that Thunu Hasaranga has decided to resign from the leaders of Sri Lanka T20 of T20. The leadership of the Twenty20 team took over six months and the Sri Lankan team's reputation was severely blamed for the innovative sports style of the Sri Lankan team at the World Cup.
-
-SLC said that the team was issued to the team as a player for the benefit of the Sri Lanka Cricket.
-
-Sri Lanka was quick to quit the Twenty20 World Cup, but the best team was given to the tournament, but the best team was given to the tournament.
-
-Six Twenty20s, who played under Sri Lanka under the Hasaranga, has won six.
-
-◼️
-
-[Data](articles/67724558.json)
-
-[Extended Data](ext_articles/67724558.ext.json)
 
 ---

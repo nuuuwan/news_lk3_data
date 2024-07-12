@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 03:19:58**
+As of **2024-07-13 03:35:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,026 (100.0%) of 35,028 articles have been extended.
+35,028 (100.0%) of 35,028 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -816,37 +816,57 @@ When the case was heard in court, it was ordered to be sealed to the restaurant 
 
 ---
 
-### திகன கலவர விசாரணை அறிக்கையை விரைவில் வெளிப்படுத்துங்கள் - முஜிபுர் சபாநாயகரிடம் கோரிக்கை
+### Reveal the Digana riot investigation report soon - request to Mujibur Speaker
 
 *2024-07-12 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/188291) · `ta`
 
-நாட்டில் கடந்த 2018 ஆம் ஆண்டு இடம்பெற்ற திகன கலவரம் தொடர்பாக விசாரணை மேற்கொண்ட மனித உரிமைகள் ஆணைக்குழு இதுவரை அந்த அறிக்கையை வெளியிடவில்லை. அதனால் இதுதாெடர்பாக தேடிப்பார்த்து நடவடிக்கை எடுக்கவேண்டும் என எதிர்க்கட்சி உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்தார்.
+Opposition leader Mujibur Rahman calls for swift release of the Human Rights Commission's long-delayed report on the 2018 Digana riots, urging the Constitutional Council Chairman to ensure transparency and justice.
 
-நாட்டில் இருக்கும்  சுயாதீன ஆணைக்குழுக்கள் அனைத்தும் அரசியலமைப்பு பேரவையின் கீழே செயற்படுகின்றன. அரசியலமைப்பு பேரவையினாலே அந்த ஆணைக்குழுக்களுக்கு உறுப்பினர்கள் நியமிக்கப்படுகின்றனர்.
+🟩
 
-பேரவையின் தலைவர் என்றவகையில் ஆணைக்குழுவின் செயற்பாடுகள் தொடர்பாக தேடிப்பார்க்கும் பொறுப்பு சபாநாயகர் என்றவகையில் உங்களுக்கு இருக்கிறது.
+The Human Rights Commission, which investigated the 2018 riots in the country, has not issued the report so far. Opposition member Mujibur Rahman said that this should be taken and taken action.
 
-அதன் பிரகாரம் எமது நாட்டில் 2018இல் இடம்பெற்ற திகன கலவரம் இடம்பெற்று 6 வருடங்கள் கடந்துள்ளன. இந்த சம்பவம் தொடர்பாக ஆராய்ந்து நடவடிக்கை எடுப்பதற்காக மனித உரிமைகள் ஆணைக்குழு இது தொடர்பில் விசாணை மேற்கொண்டது. ஆனால் கலவம் இடம்பெற்று 6 வருடங்கள் கடந்துள்ள போதும் அது தொடர்பான விசாரணை அறிக்கை இன்னும் வெளிப்படவில்லை.
+All the independent commissions in the country function below the Constitutional Council. Members of the Commission are appointed by the Constitutional Council.
 
-...
+As the Chairman of the Council, you have the responsibility of searching for the activities of the Commission.
+
+Six years have passed since the riots in 2018 in our country. The Human Rights Commission (UNHRC) has made an inquiry into the incident to investigate the incident. But six years after the riot took place, the investigation report on the matter has not yet been revealed.
+
+As the Chairman of the Constitutional Council, I urge you to take action to look into the report of the Human Rights Commission.
+
+◼️
 
 [Data](articles/82197924.json)
 
+[Extended Data](ext_articles/82197924.ext.json)
+
 ---
 
-### வி.எப்.எஸ் நிறுவன விசா வழங்கல் விலைமனுக்கோரல்  தடயவியல் கணக்காய்வுக்கு உட்படுத்த வேண்டும்  - அரச நிதி தொடர்பான குழு பரிந்துரை
+### VFS Company Visa Provision Price Currency Auditorial Audit - State Finance Committee Recommendation
 
 *2024-07-12 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188290) · `ta`
 
-வெளிநாட்டவர்களுக்கு விசா விநியோகிக்கும் பணியை வெளிநாட்டு நிறுவனத்துக்கு வழங்கியுள்ள விவகாரத்தில் பல சிக்கல்கள் காணப்படுகின்றன.போட்டித்தன்மையான  விலை மனுக்கோரல் ஏதும் இல்லாமல் தான் ஒப்பந்தம்  கைச்சாத்திடப்பட்டுள்ளது.ஆகவே இந்த விலைமனுக்கோரல்  முழுமையாக  தடயவியல் கணக்காய்வுக்கு உட்படுத்தப்பட வேண்டும் என அரச நிதி தொடர்பான குழு பரிந்துரைத்துள்ளதாக அக்குழுவின் தலைவர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+The VFS Company, which provides visa services in 145 countries, faces criticism from the State Finance Committee over its handling of visas for foreigners. The committee expresses dissatisfaction with VFS's performance and questions the transparency of visa fee charges, highlighting discrepancies between different locations and documents. The Department of Immigration and Emigration is urged to reassess its partnership with VFS, considering the potential for better decisions and more effective data protection measures.
 
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை (12) இடம்பெற்ற அமர்வின் போது விசா விவகாரம்  தொடர்பில்  அரச நிதி தொடர்பான குழு அறிக்கையை சபைக்கு சமர்ப்பித்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-குடிவரவு மற்றும் குடியகல்வு திணைக்களம்  வெளிநாட்டவர்களுக்கு  விசா விநியோகிக்கும் பணியை வெளிநாட்டு கூட்டு நிறுவனத்துக்கு பொறுப்பாக்கியமை தொடர்பில் சமூக கட்டமைப்பில் பாரிய சர்ச்சைகளை ஏற்படுத்தின.இவ்விடயம் குறித்து அரச நிதி தொடர்பான குழுவில் விசாரணைகளை மேற்கொண்ட போது பல சிக்கல்களை எதிர்கொண்டோம்.
+There are many problems with the foreign company's issue to the foreign company.
+
+He was speaking at a meeting of the State Finance Committee on the Visa issue during a session in Parliament on Friday (12).
+
+The Department of Immigration and Emigration has caused massive controversy in the social structure of the Foreign Joint Agency to take charge of the visa to foreigners.
+
+It is dissatisfied with the fact that the officials of the committee are negligent.
+
+VFS has been provided with a visa distribution service to foreigners and the company is said to be offering service in 145 countries.. The company is not given to the joint venture, rather than the company.
+
+The company has signed an agreement with the contract for the sake of the contract. The Department of Immigration and Emigration may have taken a better decision.
 
 ...
 
 [Data](articles/5d75a6e1.json)
+
+[Extended Data](ext_articles/5d75a6e1.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 15:54:06**
+As of **2024-07-12 16:06:59**
 
 ## Newspaper Stats
 
-*Scraped **34,972** Articles*
+*Scraped **34,974** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,66 +15,110 @@ newsfirstlk | 363
 islandlk | 1,969
 economynextcom | 2,072
 dailyftlk | 2,203
-adalk | 3,152
+adalk | 3,153
 adaderanalk | 4,015
 tamilmirrorlk | 4,192
 dailymirrorlk | 4,733
 virakesarilk | 5,475
-adaderanasinhalalk | 5,819
+adaderanasinhalalk | 5,820
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,969 (100.0%) of 34,972 articles have been extended.
+34,972 (100.0%) of 34,974 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
 
-### கைதிகளின் தண்டனைகளை குறைக்க யோசனை
+### අම්බානි පුතුගේ දින 3ක විවාහ මංගල උත්සවය ඇරඹෙයි
 
-*2024-07-12 15:34:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதிகளின்-தண்டனைகளை-குறைக்க-யோசனை/175-340302) · `ta`
+*2024-07-12 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198742) · `si`
 
-மரண தண்டனை மற்றும் ஆயுள் தண்டனை  அனுபவிக்கும் கைதிகளுக்கு அவர்களின் நன்னடத்தையின் அடிப்படையில்    தண்டனை காலத்தை குறைக்க உத்தேசிக்கப்பட்டுள்ளதாகத் தெரிவித்த  நீதி, சிறைச்சாலைகள் அலுவல்கள் மற்றும்  அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜயதாஸ ராஜபக்ச திட்டமிட்ட குற்றச்செயல்களில் ஈடுபட்டு தண்டனையளிக்கப்பட்டுள்ளவர்களுக்கு எவ்வித சலுகையும் வழங்கப்படமாட்டாது எனவும் கூறினார்.
+යුගයේ වැඩිම පිරිවැයක් දැරූ විවාහ මංගල උත්සවය වනු ඇතැයි පැවසෙන ඉන්දීය ප්‍රකට ධන කුවේරයෙකු වන මුකේෂ් අම්බානිගේ පුතු වන ආනන්ත් අම්බානි සහ රාධිකා මර්චන්ට්ගේ දින 03ක විවාහ මංගල්‍ය අද (12) ආරම්භ වෙයි.
 
-பாராளுமன்றத்தில்  வெள்ளிக்கிழமை (12)  ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்  எரான் விக்கிரமரத்ன,  இலங்கையின் சிறைச்சாலை கட்டமைப்பில் 13 ஆயிரம் கைதிகள்  மாத்திரம் இருக்க வேண்டும் என்று குறிப்பிடப்பட்டுள்ள நிலையில் தற்போது 30 ஆயிரம் கைதிகள் உள்ளார்கள்.
+හින්දු නක්ෂත්‍ර ක්‍රමවේදය අනුව දින යොදාගත් මෙම විවාහ මංගල උත්සවයේ පළමු දිනයේදී එනම් අද ශුබ් විවාහ එනම් විවාහ චාරිත්‍ර ඉටු කෙරෙයි.
 
-சிறைச்சாலைகளில் 80 வயதை அண்மித்த  சிரேஷ்ட பிரஜைகள் உள்ளனர் .இவர்கள்  உடல் மற்றும் உளவியல் ரீதியில் பாதிக்கப்பட்டுள்ளார்கள்.ஆகவே இவர்களுக்கு மன்னிப்பு வழங்கி விடுதலை செய்ய  நடவடிக்கைகளை எடுக்க வேண்டுமென விடுத்த வேண்டுகோள் தொடர்பில்    பதிலளிக்கும் போதே இவ்வாறு  தெரிவித்த   அவர் மேலும் கூறுகையில்,
+ඒ සඳහා බොලිවුඩ්, හොලිවුඩ් තරු මෙන්ම ලොව ප්‍රමුඛ පෙළේ ව්‍යාපාරිකයින් සහ දේශාපලනඥයින්ද ඇරියුම් ලබා තිබේ.
 
-...
+විවාහ මංගල්‍යයට එක්වීම සඳහා අමෙරිකානු රූපවාහිනි වැඩසටහන් ඉදිරිපත් කරන්නියක් මෙන්ම නිළියක්ද වන කිම් කාර්ඩෂියන් ද මුම්බායි නගරයට ළඟා වුණි.
 
-[Data](articles/6b756fab.json)
+බ්‍රිතාන්‍ය හිටපු අගමැතිවරුන් වන බොරිස් ජොන්සන් සහ ටොන් බ්ලෙයාර්ද මුම්බායි වෙත පැමිණ ඇත්තේ අම්බානි පවුලේ ආරාධනයට අනුවය.
+
+ඉන්දීය මාධ්‍ය වාර්තා කරන්නේ අම්බානි පවුලට විවාහය සඳහා ඉන්දීය රුපියල් කෝටි 5,000කට ආසන්න පිරිවැයක් දැරීමට සිදුවනු ඇති අතර එය ඔවුන්ගේ මුළු ධනයෙන් සියයට 0.05ක් පමණක් වන බවය.
+
+◼️
+
+[Data](articles/c95f2c2d.json)
 
 ---
 
-### குட்டிகளை போட்ட பெண் நாய்கள்
+### The idea to reduce the punishment of prisoners
+
+*2024-07-12 15:34:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதிகளின்-தண்டனைகளை-குறைக்க-யோசனை/175-340302) · `ta`
+
+Vijayadasa Rajapaksa, Minister of Justice, announced plans to reduce sentences for death-row and life-sentenced prisoners without offering concessions. Despite overcrowding—30,000 prisoners vs. 13,000 capacity—the government has taken steps over a year and a half to address this, including releasing elderly and ill prisoners through a health services committee.
+
+🟩
+
+Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapaksa said that the prisoners who have been sentenced to death and life imprisonment are intended to reduce the sentence on their own, said no concessions will be made.
+
+There are currently 30 thousand prisoners in Parliament that there are only 13 thousand prisoners in the Sri Lankan prison structure.
+
+In response to a plea for pardoning and released, they said, "There are neighbors who are 80 years old in prisons.
+
+We have been taking steps to address this issue for the past one and a half years.. A committee appointed by the Director General of Health Services to the release of adults in prisons and severe illnesses was appointed by three medical professionals.
+
+The first phase of the group was sent to 100 prisoners.. Remble
+
+◼️
+
+[Data](articles/6b756fab.json)
+
+[Extended Data](ext_articles/6b756fab.ext.json)
+
+---
+
+### Cubs
 
 *2024-07-12 15:28:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குட்டிகளை-போட்ட-பெண்-நாய்கள்/175-340301) · `ta`
 
-மூன்று பெண் நாய்கள் கர்ப்பம் தரித்திருந்தன என்றும், அதில், இரண்டு பெண் நாய்கள் 13 குட்டிகளை போட்டுள்ளன என்றும் பொலிஸ் தலைமையகம் விடுத்துள்ள ஊடக அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+In July 2024, the Sri Lankan Police Mopanayaka Division acquired 35 mop dogs from the Netherlands, including three pregnant females. Two of these females gave birth to 13 cubs, which were discovered at the police headquarters in Kundasala, Kandy.
 
-இலங்கை பொலிஸ் மோப்பநாய பிரிவுக்கு, நெதர்லாந்தில் இருந்து 35 மோப்ப நாய்கள் 2024.07.05ஆம் திகதியன்று கொள்வனவு செய்யப்பட்டன. அதிலிருந்த மூன்று பெண்நாய்கள் கர்ப்பிணிகளாக இருந்துள்ளன. அதில், இரண்டு நாய்களே குட்டிகளை போட்டுள்ளன.
+🟩
 
-கண்டி, குண்டசாலையில் உள்ள பொலிஸ் மோப்பநாய் தலைமையகத்திலேயே இவ்விரு நாய்களும் குட்டி போட்டுள்ளன.
+According to a media report issued by the police headquarters, three female dogs were pregnant and two female dogs had put 13 cubs.
+
+For the Sri Lankan Police Mopanayaka Division, 35 mop dogs from the Netherlands were purchased on 2024.07.07.. The three female dogs in it were pregnant. In it, two dogs put the cubs.
+
+The two dogs have been caught at the police Mopanai headquarters in Kundasala, Kandy.
 
 ◼️
 
 [Data](articles/690a01cd.json)
 
+[Extended Data](ext_articles/690a01cd.ext.json)
+
 ---
 
-### ஜனாதிபதித் தேர்தலை தடுக்க கோரி மற்றுமொரு மனு
+### Another petition demanding the prevention of the presidential election
 
 *2024-07-12 15:26:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலை-தடுக்க-கோரி-மற்றுமொரு-மனு/175-340300) · `ta`
 
-அரசியலமைப்பின் 19 ஆவது திருத்தம் பாராளுமன்றத்தில் முறையாக நிறைவேற்றப்படாததால் ஜனாதிபதித் தேர்தலை தடுக்க கோரி  மற்றுமொரு மனு தாக்கல் செய்யப்பட்டுள்ளது.
+A new petition seeks to halt the upcoming presidential election due to concerns over the proper passage of the 19th Amendment through Parliament. It advocates for a public referendum to ensure the amendment's implementation.
 
-அத்துடன், 19ஆவது திருத்தத்தை முறையாக நிறைவேற்றுவதற்கு பொதுசன வாக்கெடுப்பு  நடத்த வேண்டும் என்றும் அந்த மனுவில் சுட்டிக்காட்டப்பட்டுள்ளது. R
+🟩
+
+Another petition has been filed demanding the prevention of the presidential election as the 19th Amendment to the Constitution has not been properly passed in Parliament.
+
+In addition, the petition also pointed out that a public referendum should be held to implement the 19th Amendment.. Remble
 
 ◼️
 
 [Data](articles/eecd38a0.json)
+
+[Extended Data](ext_articles/eecd38a0.ext.json)
 
 ---
 
@@ -451,6 +495,22 @@ Criticists say that this is an intensifying incident that the President's presid
 [Data](articles/93b305ce.json)
 
 [Extended Data](ext_articles/93b305ce.ext.json)
+
+---
+
+### රජයේ පොහොර සමාගම් දෙක ඒකාබද්ධ කරයි
+
+*2024-07-12 13:40:35* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-පොහොර-සමාගම්-දෙක-ඒකාබද්ධ-කරයි/11-410755) · `si`
+
+මෙතෙක් කළක් රජයට අයත් කොමර්ෂල් පොහොර හා ලංකා පොහොර සමාගම් දෙක අද දින (12) සිට State Fertilizer නාමය යටතේ රජයට අයත්  සමාගමක් වශයෙන් ඒකාබද්ධ කිරීමට පියවර ගෙන ඇත.
+
+මෙතෙක් කළක් සභාපතිවරු දෙදෙනෙක් හා අධ්‍යක්ෂ මණ්ඩල දෙකක් හා කාර්ය මණ්ඩල දෙකක්  වශයෙන් පැවැති එම සමාගම් දෙක ඒකාබද්ධ කිරීම මගින් මෙතෙක් කළක් වැය වූ විශාල මුදලක් රජයට ඉතිරි කර ගැනීමට හැකි වී තිබේ.
+
+රජයට අයත් පොහොර සමාගම් දෙක ඒකාබද්ධ කිරීම හා නව නාමය හඳුන්වා දීම  සඳහා ඊයේ (11) වෝටර්ස් එජ් හෝටලයේ දී උත්සවයක් පැවැතිවිනි. කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතාගේ ප්‍රධානත්වයෙන් පැවැති එම උත්සවයට රාජ්‍ය අමාත්‍යවරුන් වන ඩී. බී. හේරත්, කාදර් මස්තාන්, මොහාන් ප්‍රියදර්ශන සිල්වා,  අමාත්‍යාංශයේ ලේකම් ජානක ධර්මකීර්ති හා State Fertilizer සමාගමේ සභාපති ආචාර්ය ජගත් පෙරේරා යන මහත්වරු ද ඇතුලු විශාල පිරිසක් සහභාගි වී සිටියහ.
+
+...
+
+[Data](articles/5cdecc0c.json)
 
 ---
 
@@ -2211,43 +2271,5 @@ The European Union and the US are amongst preferred export destinations, but win
 [Data](articles/3f3dc953.json)
 
 [Extended Data](ext_articles/3f3dc953.ext.json)
-
----
-
-### Change, system or the people?
-
-*2024-07-12 01:02:06* · [`dailyftlk`](https://www.ft.lk/columns/Change-system-or-the-people/4-764161) · `en`
-
-Whether a nation with this record can find the balance after a summersault of an attempted system change, only history will tell
-
-From 1948, it has been an endless series of missteps, reflecting a national temperament which urges the path of backwardness and poor productivity. The emphasis was not on becoming a stronger or a wealthier nation, but on a hazy idea that all our ills are due to the nastiness of the system, there is this wealth somewhere in the country which should be distributed equally! A system must be created that feeds all the braggarts and the laggards (our Parliamentarians have already done this by voting in all kinds of benefits for themselves!)
-
-A spectre is haunting Sri Lanka – the spectre of the NPP/JVP.
-
-All powers of old Sri Lanka have entered into a holy alliance to exorcise this spectre: A President without a popular mandate, a Government lacking credibility, political parties with tired faces, and businessmen with dark histories.
-
-...
-
-[Data](articles/6059446a.json)
-
-[Extended Data](ext_articles/6059446a.ext.json)
-
----
-
-### Questions over the term of the President
-
-*2024-07-12 00:57:14* · [`dailyftlk`](https://www.ft.lk/columns/Questions-over-the-term-of-the-President/4-764160) · `en`
-
-Unsurprisingly the SC has dismissed the Fundamental Rights petition requesting the Supreme Court to hold that the President has a term of six years, in limine. Reportedly, the SC has found no merit in the petition.
-
-If the term of office of the President had been interpreted to be six years, as the petitioner had sought, it would no doubt have been expressly in violation of the Constitutional provisions, limiting the President’s term to five years, introduced by the 19th Amendment.
-
-What the petitioner had pleaded for was sort of a judicial review of post-enactment legislation by the Supreme Court, a power which the SC is not vested with under the Constitution of Sri Lanka. It could hardly be surmised that the SC could arrogate to itself a power that is not vested in it by invoking any other doctrines of law, including inherent jurisdiction. However, the power of interpretation of the Constitution that lies with the SC is a power that it can use as it may deem fit.
-
-...
-
-[Data](articles/09e3c0c0.json)
-
-[Extended Data](ext_articles/09e3c0c0.ext.json)
 
 ---

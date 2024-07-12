@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 17:05:15**
+As of **2024-07-12 17:20:12**
 
 ## Newspaper Stats
 
-*Scraped **34,980** Articles*
+*Scraped **34,982** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,969
 economynextcom | 2,072
 dailyftlk | 2,203
 adalk | 3,154
-adaderanalk | 4,017
+adaderanalk | 4,019
 tamilmirrorlk | 4,192
 dailymirrorlk | 4,733
 virakesarilk | 5,475
@@ -26,11 +26,41 @@ adaderanasinhalalk | 5,823
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,980 (100.0%) of 34,980 articles have been extended.
+34,980 (100.0%) of 34,982 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
+
+### Former Health Minister Keheliya further remanded
+
+*2024-07-12 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100467/former-health-minister-keheliya-further-remanded) · `en`
+
+Former Health Minister Keheliya Rambukwella and six others, arrested over the alleged importation of substandard human immunoglobulin vials, have been further remanded until July 25.
+
+◼️
+
+[Data](articles/abdf54e5.json)
+
+---
+
+### Bingiriya Investment Zone to generate USD 2.6 billion export income and create 75,000 jobs - President
+
+*2024-07-12 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100466/bingiriya-investment-zone-to-generate-usd-26-billion-export-income-and-create-75000-jobs-president) · `en`
+
+President Ranil Wickremesinghe stated that a robust economy can be established by enhancing the export economy, manufacturing, tourism, technology sectors, and modern agriculture.
+
+He highlighted that the government has already laid the foundation for this vision.
+
+The President made these remarks today (12), during the inauguration ceremony of the second and third phases of the Export Processing Zone in Bingiriya, which is the largest of its kind in Sri Lanka. Addressing the ceremony, the President emphasized that efforts are underway to create new investment zones to further bolster the export economy of the country.
+
+Upon completion of the Bingiriya Investment Zone, it is estimated that an export income of USD 2,600 million will be generated, and 75,000 job opportunities will be created.
+
+...
+
+[Data](articles/a538782c.json)
+
+---
 
 ### 75,000 job opportunities
 
@@ -2269,49 +2299,5 @@ NCE President Jayantha Karunaratne highlighted the significant disruptions cause
 [Data](articles/680d406d.json)
 
 [Extended Data](ext_articles/680d406d.ext.json)
-
----
-
-### Sri Lanka secures 95 new ambulances for 1990 Suwasariya Foundation
-
-*2024-07-12 01:42:57* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-secures-95-new-ambulances-for-1990-Suwasariya-Foundation/56-764176) · `en`
-
-The 1990 Suwasariya Foundation, established in 2016 with 297 ambulances donated by TATA Sons Ltd., under an Indian Government grant, is set to expand its fleet to meet growing demand for emergency and pre-hospital treatment services.
-
-TATA Sons Ltd. has agreed to donate 50 ambulances, while the Asian Development Bank (ADB) will provide an additional 45 ambulances as a grant.
-
-The move was approved by the Cabinet of Ministers on Tuesday to obtain these ambulances for the 1990 Suwasariya Foundation.
-
-The foundation currently operates 322 ambulances, including 25 provided by the Sri Lankan Government. However, to achieve its target of 450 ambulances and 25 backup units, an additional 150 ambulances were needed.
-
-Thus, addition of these 95 ambulances will significantly enhance the foundation’s ability to provide timely and critical medical assistance across the country, boosting its capacity to save lives and improve health outcomes.
-
-...
-
-[Data](articles/40542a56.json)
-
-[Extended Data](ext_articles/40542a56.ext.json)
-
----
-
-### Fifth US-Sri Lanka Partnership Dialogue today
-
-*2024-07-12 01:42:26* · [`dailyftlk`](https://www.ft.lk/news/Fifth-US-Sri-Lanka-Partnership-Dialogue-today/56-764175) · `en`
-
-The fifth US-Sri Lanka Partnership Dialogue scheduled to be held at the US Department of State on 12 July.
-
-Sri Lanka will be represented by Foreign Secretary Aruni Wijewardane.
-
-The fifth US-Sri Lanka Partnership Dialogue will be Co-Chaired by Wijewardane and the US Department of State Political Affairs acting under Secretary John Bass.
-
-Discussions in the Partnership Dialogue will focus on multifaceted aspects of the US-Sri Lanka bilateral relations, including economic, defence, and security cooperation; democracy, reconciliation, and human rights; climate change, science and technology cooperation; education and cultural cooperation, and people-to-people contacts.
-
-Sri Lankan Ambassador to the United States Mahinda Samarasinghe and officials from the Embassy of Sri Lanka and the Foreign Affairs Ministry will also attend the Partnership Dialogue.
-
-◼️
-
-[Data](articles/0d589cf4.json)
-
-[Extended Data](ext_articles/0d589cf4.ext.json)
 
 ---

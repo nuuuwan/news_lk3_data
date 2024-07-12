@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 08:35:26**
+As of **2024-07-12 08:54:22**
 
 ## Newspaper Stats
 
-*Scraped **34,911** Articles*
+*Scraped **34,912** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,007
 tamilmirrorlk | 4,176
 dailymirrorlk | 4,733
 virakesarilk | 5,464
-adaderanasinhalalk | 5,805
+adaderanasinhalalk | 5,806
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,911 (100.0%) of 34,911 articles have been extended.
+34,911 (100.0%) of 34,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
+
+### වීසා නොමැතිව රැඳි සිටි තවත් ඉන්දීය ජාතිකයන් පිරිසක් අත්අඩංගුව ට
+
+*2024-07-12 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198727) · `si`
+
+වීසා නොමැතිව මෙරට රැඳි සිටි විදේශිකයින් 06 දෙනෙකු සහ තීරුබදු රහිතව මෙරටට ගෙන්වන ලද දුම්වැටි සමග විදේශිකයෙකු කටුනායක පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+කටුනායක ආඬිඅම්බලම ප්‍රදේශයේ සැකකටයුතු විදේශිකයන් පිරිසක් රැඳී සිටින බවට කටුනායක පොලීසියට ලද තොරතුරක් මත ඊයේ (11) පස්වරුවේ  සිදුකළ සෝදිසි කිරීමක දී මෙම විදේශිකයින් අත්අඩංගුවට ගත් පොලීසිය පවසයි.
+
+පොලීසිය පැවසුවේ නීතිවිරෝධි ලෙස ගෙන්වන ලද දුම්වැටි 1,000ක්  (පැකට් 50) එක් විදේශිකයෙකු සතුව තිබූ බවය.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 25, 26, 33, 38, 39 සහ 42 වයස්වල පසු වන ඉන්දීය ජාතිකයන් පිරිසකි.
+
+◼️
+
+[Data](articles/30b8f9f9.json)
+
+---
 
 ### Two wanted underworld criminals arrested in Dubai and brought to Sri Lanka
 
@@ -2235,29 +2253,5 @@ A Fiscal Management Responsibility Act, which has been repeatedly breached in th
 [Data](articles/7e8258b5.json)
 
 [Extended Data](ext_articles/7e8258b5.ext.json)
-
----
-
-### Sri Lanka to start e-motorist drive in 6 weeks: State Minister
-
-*2024-07-11 16:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-start-e-motorist-drive-in-6-weeks-state-minister-171756/) · `en`
-
-ECONOMYNEXT – Services in Sri Lanka’s Department of Motor Traffic (DMT) including part of vehicle registration will be digitized within next 6 weeks in order to reduce corruption and malpractices, State Transport Minister Lasantha Alagiyawanna said.
-
-Some top officials in the Department of Motor Traffic have resisted the digitization process, government officials say.
-
-The government e-motoring drive project which was expected to provide an efficient service to the public.
-
-The project was originally expected to be roll out from March this year, starting with booking an appointment through either the automated telephone service or website.
-
-Around 4,000 people in and around Colombo visit the main offices of DMT in Werahera or Narahenpita on average daily, officials say.
-
-“Though the digitization process started in 2018, the Department of Motor Traffic did not allow this,” Alagiyawanna told reporters at a media briefing in Colombo.
-
-...
-
-[Data](articles/6d22599a.json)
-
-[Extended Data](ext_articles/6d22599a.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 13:04:58**
+As of **2024-07-12 13:19:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,812
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,944 (100.0%) of 34,946 articles have been extended.
+34,946 (100.0%) of 34,946 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,27 +52,35 @@ One bus was carrying at least 24 people, while the other had at least 42, but mo
 
 [Data](articles/e8fde62d.json)
 
+[Extended Data](ext_articles/e8fde62d.ext.json)
+
 ---
 
-### யாழ். போதனாவில் என்பு மச்சை மாற்று சத்திர சிகிச்சை நிலையம்
+### Yall. Teaching
 
 *2024-07-12 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188282) · `ta`
 
-இரத்த புற்றுநோய் மற்றும் அதனோடு இணைந்த நோய்களுக்கான சிகிச்சைகளுக்கு வழங்க கூடிய என்புமச்சை மாற்று சத்திர சிகிச்சை நிலையம் ((Bone Marrow Transplant Unit)) யாழ் போதனா வைத்தியசாலையில் ஆரம்பிக்கப்பட்டுள்ளது.
+The Bone Marrow Transplant Unit at Jaffna Teaching Hospital, Sri Lanka, treats blood cancer and related diseases, reducing overseas treatment costs. It features two specialized rooms accommodating two patients per month. Despite challenges, the unit's launch, guided by the Ministry of Health, marks significant progress, with Health Minister Ramesh Pathirana set to officiate the opening soon.
 
-இலங்கையில் இவ்வாறான சிகிச்சை நிலையம் மகரகம வைத்தியசாலை மற்றும் கொழும்பு சிறுவர் வைத்தியசாலை ஆகிய இரண்டில் மாத்திரம் இதுவரை காணப்பட்ட நிலையில் யாழ்.போதனா வைத்தியசாலை மூன்றாவது நிலையமாக பதிவு பெறுகின்றது.
+🟩
 
-இவ்வாறான சிகிச்சையை தனியார் வைத்தியசாலை அல்லது இந்தியா போன்ற வெளிநாடுகளில் பெறுவதாயின் பல மில்லியன் செலவீனம் ஏற்படும்.
+Bone Marrow Transplant Unit has been opened at the Jaffna Teaching Hospital, which can provide for the treatment of blood cancer and its accompanying diseases.
 
-இந்த சிகிச்சை மிகவும் சிக்கலான விடயங்களை கொண்டுள்ளது. அத்துடன் இரண்டு விஷேட படுக்கை அறைகளை கொண்டுள்ளது. எனவே மாதம் ஒன்றில் இருவருக்கு மாத்திரம் சிகிச்சை செய்யமுடியும்.
+In Sri Lanka, the Jaffna Bodhana Hospital is registered as the third station in the Maharagama Hospital and the Colombo Child Hospital.
 
-சுகாதார அமைச்சின் வழிகாட்டுதலின் அடிப்படையில் வைத்திய நிபுணர்களின் கடுமையான முயற்சியில் பல சிரமங்களுக்கு மத்தியில் ஆரம்பிக்கப்பட்டுள்ளது.
+Millions of millions of expenses will be expected if this treatment is available overseas such as private hospital or India.
 
-குறித்த சிகிச்சை பிரிவு சுகாதார அமைச்சர் ரமேஸ் பத்திரனவால் எதிர்வரும் கிழமை உத்தியோகபூர்வமாக ஆரம்பித்து வைக்கப்படும் என தெரிவிக்கப்பட்டது.
+This treatment contains more complex issues. As well as two special bedrooms. So only two people can treat only one month.
+
+Based on the guidelines of the Ministry of Health, the hard work of doctors has been launched amidst many difficulties.
+
+It was reported that the Minister of Health, Ramesh Pathirana, will be officially launched on the next day.
 
 ◼️
 
 [Data](articles/8d554f9d.json)
+
+[Extended Data](ext_articles/8d554f9d.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 10:19:58**
+As of **2024-07-12 10:35:21**
 
 ## Newspaper Stats
 
-*Scraped **34,916** Articles*
+*Scraped **34,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 4,010
 tamilmirrorlk | 4,176
 dailymirrorlk | 4,733
 virakesarilk | 5,464
-adaderanasinhalalk | 5,806
+adaderanasinhalalk | 5,807
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,916 (100.0%) of 34,916 articles have been extended.
+34,916 (100.0%) of 34,917 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
+
+### කොලොන්නේ ඝාතකයින් STF මෙහෙයුමට කොටුවෙයි
+
+*2024-07-12 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198728) · `si`
+
+කොලොන්න පොලිස් වසමේ දි වෙඩිතබා මනුෂ්‍ය ඝාතනයක් සිදුකිරිම සම්බන්ධයෙන් සැකකරුවන් වන වෙඩික්කරුවන් දෙදෙනාව පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+එම සැකකරුවන් ව මිද්දෙනිය පොලිස් වසමේ දී අත්අඩංගුවට ගෙන තිබුණි.
+
+පසුගිය අඟහරුවාදා (09) රාත්‍රියේ කොලොන්න පොලිස් වසමේදි තේ වගා ව්‍යාපරිකයෙක්ව ඔහුගේ නිවසේදී වෙඩිතබා ඝාතනය කිරිමට සම්බන්ධයෙන්  රාමනායකගේ ඉන්දික කුමාර නොහොත් "කැලෑ මහින්ද" හා ජයවර්ධන අබේසිංහ පතිරණගේ සඳකැළුම් ජයවර්ධන නම් පුද්ගලයාව අත්අඩංගුවට ගෙන තිබේ.
+
+ඔවුන් සතුව තිබී ගල්කටස් වර්ගයේ ගිනි අවි 02ක්, බෝර 12 ජිව උණ්ඩ 02ක්, හෙරොයින් ග්‍රෑම් 100 ක්, වෙඩිතැබීම සඳහා පැමිණි බවට සැකකරන යතුරුපැදිය හා ජංගම දුරකතන 03ක් STF භාරයට ගෙන තිබුණි.
+
+තවද මෙම සැකකරුවන් දැනට ප්‍රංශයේ සිට මෙරට මත්ද්‍රව්‍ය ජාලය මෙහෙයවනු ලබන සංවිධාත්මක අපරාධ කල්ලි සාමාජිකයකු වන රොටුඹ අමිල නැමැත්තාගේ ප්‍රධාන ගෝලයින් වන බවත් රොටුඹ අමිල නැමැත්තාගේ ලොකු අමිමා වෙත පහරදීමක් සම්බන්ධව එයට පළිගැනීමක් වශයෙන් කොලොන්නේ පදිංචිව සිටි එස්.බි. කුමාරසේන ව වෙඩිතබා ඝාතනය කර ඇති බවත් මූලික විමර්ශන වලදී හෙළිවී තිබේ.
+
+...
+
+[Data](articles/b96a9083.json)
+
+---
 
 ### Presidential Scholarship awards to commence at district level today
 
@@ -2235,29 +2255,5 @@ ECONOMYNEXT – Manila-based Asian Development Bank said it had approved a 100 m
 [Data](articles/379edc4f.json)
 
 [Extended Data](ext_articles/379edc4f.ext.json)
-
----
-
-### Sri Lanka’s NWSDB considers smart to cut cost on expensive water meter readers
-
-*2024-07-11 17:20:00* · [`economynextcom`](https://economynext.com/sri-lankas-nwsdb-considers-smart-to-cut-cost-on-expensive-water-meter-readers-171773/) · `en`
-
-ECONOMYNEXT  Sri Lanka’s National Water Supply and Drainage Board is considering to go with smart water meters to cut down expensive wage paid for 1,100 manual water readers, Water Supply Minister Jeevan Thondaman said.
-
-“They are paid 150,000 rupees a month. It is higher than my salary of 76,000 rupees. They work almost four days in a month,” the Minister told a Foreign Correspondent Association (FCA) Forum in Colombo late on Wednesday.
-
-“So now we are considering to fix 600,000 smart water meter within the next two years.”
-
-He said smart meters will give accurate and clear data while reducing the room for corruption.
-
-Thondaman’s new move comes as the government is in the process of rationalizing all the expenditures on state-owned enterprises.
-
-Under President Ranil Wickremesighe’s government, the NWSDB’s monthly loss of 2.3 billion rupees has turned into the same amount of monthly profit, Thondaman said.
-
-...
-
-[Data](articles/1bc02e69.json)
-
-[Extended Data](ext_articles/1bc02e69.ext.json)
 
 ---

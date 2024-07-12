@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 00:20:58**
+As of **2024-07-13 00:36:06**
 
 ## Newspaper Stats
 
-*Scraped **35,014** Articles*
+*Scraped **35,021** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,969
 economynextcom | 2,080
-dailyftlk | 2,207
+dailyftlk | 2,214
 adalk | 3,158
 adaderanalk | 4,022
 tamilmirrorlk | 4,196
@@ -26,11 +26,113 @@ adaderanasinhalalk | 5,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,010 (100.0%) of 35,014 articles have been extended.
+35,014 (100.0%) of 35,021 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### Show of Top Thai Brands at Havelock City Mall
+
+*2024-07-13 00:20:13* · [`dailyftlk`](https://www.ft.lk/business/Show-of-Top-Thai-Brands-at-Havelock-City-Mall/34-764220) · `en`
+
+Top Thai Brands Colombo 2024, presented by the Chennai Thai Trade Centre, kicked off yesterday at the Havelock City Mall. The exhibition showcases Thai products at special discounts and cultural elements, including live cooking and Muay Thai fighting performances. It will continue until the night of Sunday, 14 July.
+
+◼️
+
+[Data](articles/7948b458.json)
+
+---
+
+### Seylan Bank partners with The Wedding Show 2024 as official banking partner
+
+*2024-07-13 00:18:47* · [`dailyftlk`](https://www.ft.lk/business/Seylan-Bank-partners-with-The-Wedding-Show-2024-as-official-banking-partner/34-764219) · `en`
+
+Seylan Bank has partnered with The Wedding Show 2024, the country’s largest wedding related show, as the event’s official banking partner.
+
+The event is a unique opportunity for hotels, event management and photography groups, designers, and beauticians to come together and share ideas. Set to open its doors on 12 July at the Sirimavo Bandaranaike Memorial Convention Centre from 10 a.m. to 9 p.m., The Wedding Show will host approximately 150 trade stalls across three days.
+
+It is expected that nearly 15,000 couples and families will patronise the show, allowing them to sample the services they might most desire to celebrate important life events. Visitors can experience the best of what Sri Lanka’s wedding industry has to offer. Visitors planning weddings and events may confer with leading photo and videographers alongside leading bridal/grooming tailors. They may explore hoteliers, beauty salons, and event managers.
+
+...
+
+[Data](articles/cd4c501f.json)
+
+---
+
+### SL, Singapore discuss digital partnership
+
+*2024-07-13 00:18:15* · [`dailyftlk`](https://www.ft.lk/business/SL-Singapore-discuss-digital-partnership/34-764218) · `en`
+
+The Sri Lankan High Commissioner to Singapore Senarath Dissanayake met Singapore Communications and Information Minister Josephine Teo on 1 July and exchanged views on shared common interests on the digital front, including AI.
+
+The High Commissioner briefed the Minister on the recent Fintech delegation visit to Sri Lanka to explore possible collaborative opportunities in digital public infrastructure and the proposed visit by the Press Club of Singapore. He thanked the Minister for the support extended by AI Singapore and stressed the importance of fostering cooperation in the field of communication and technology between Sri Lanka and Singapore.
+
+Referring to Singapore’s regional cyber security efforts through the ASEAN-Singapore Cybersecurity Centre of Excellence (ASCCE), Dissanayake sought the possibility of Sri Lanka obtaining technical assistance from the ASCCE.
+
+...
+
+[Data](articles/71f5779b.json)
+
+---
+
+### Sadaharitha signs largest agarwood tech-sharing deal with Malaysian firm
+
+*2024-07-13 00:17:39* · [`dailyftlk`](https://www.ft.lk/business/Sadaharitha-signs-largest-agarwood-tech-sharing-deal-with-Malaysian-firm/34-764217) · `en`
+
+Sadaharitha Plantations Ltd., said it has successfully entered into an agreement with agarwood growers in Malaysia to share and sell its proprietary “SP Tech” for the inoculation of agarwood trees. This technology, developed through years of rigorous research and development, is designed to boost resin production in agarwood trees using natural ingredients. Initially, this agreement will witness the inoculation of one million agarwood trees annually, while three new agarwood product factories will be set up in Malaysia, across different states.
+
+The agreement marks a pivotal achievement not only for Sadaharitha but also for Sri Lanka’s commercial forestry sector. By 2028, the developments resulting from this agreement are expected to meet up to 30% of the world’s demand for agarwood oil.
+
+...
+
+[Data](articles/3ff5b788.json)
+
+---
+
+### Adani wind project: Is it a controversy created?
+
+*2024-07-13 00:16:13* · [`dailyftlk`](https://www.ft.lk/columns/Adani-wind-project-Is-it-a-controversy-created/4-764216) · `en`
+
+Do these migratory birds pick which project to hit or not hit, in this case they only hit the Adani wind project, is it?
+
+The economic benefits of the Mannar project are substantial. It is expected to create 1,000 plus jobs, boosting the local economy. As are many infrastructural and developing projects of this nature developers are committed to working with local communities, addressing their concerns, and minimising disruption to their lives. Can Sri Lanka afford to lose this investment?
+
+I read with interest Rohan Pethiyogada’s article “Adani controversy: Why the cheerleaders are wrong” (https://www.ft.lk/columns/Adani-controversy-Why-the-cheerleaders-are-wrong/4-764104#:~:text=The%20issue%20is%20that%20the,will%20fix%20that%20fundamental%20defect.).
+
+...
+
+[Data](articles/30807e0c.json)
+
+---
+
+### Climate risk and the fashion and textile industry
+
+*2024-07-13 00:13:22* · [`dailyftlk`](https://www.ft.lk/columns/Climate-risk-and-the-fashion-and-textile-industry/4-764215) · `en`
+
+Due to its wealth of natural and cultural resources, Sri Lanka has great potential for scaling up ethical, sustainable, and eco-friendly fashion – Pic credit: SLYCAN Trust
+
+Sri Lanka has a vibrant fashion and textile industry that has long been an important source of employment, export earnings, and economic growth. In addition to producing for global brands, it is also a significant part of the country’s cultural heritage with traditional practices such as handloom, batik, dumbara, beeralu, or jewellery-making. Furthermore, due to its wealth of natural and cultural resources, Sri Lanka has great potential for scaling up ethical, sustainable, and eco-friendly fashion—for example, through the use of natural dyes and fabrics or by repurposing factory waste and cutoffs.
+
+...
+
+[Data](articles/64b00a9a.json)
+
+---
+
+### Debt relief, reforms and democracy
+
+*2024-07-13 00:07:53* · [`dailyftlk`](https://www.ft.lk/columns/Debt-relief-reforms-and-democracy/4-764210) · `en`
+
+It is the citizenry at the middle and lower end of the income scale who would be asked to bear the cost of this exercise rather dis-proportionately
+
+“Don’t buy things you can’t afford with money you don’t have to impress people you don’t like”. This quote from Dave Ramsay which applies to individuals and families may as well apply to governments also. Why did Sri Lanka borrow so much, was there proper accounting of how it was spent, how many of the projects funded by borrowed money actually met the real needs of the country, and who really benefited, are all questions that still remain unanswered.
+
+...
+
+[Data](articles/ea9a8680.json)
+
+---
 
 ### Withholding AL results of Muslim students over head coverings – HRCSL intervenes
 
@@ -50,6 +152,8 @@ The Human Rights Commission of Sri Lanka (HRCSL) has launched a suo motu inquiry
 
 [Data](articles/0bcb74fb.json)
 
+[Extended Data](ext_articles/0bcb74fb.ext.json)
+
 ---
 
 ### China, Bangladesh elevate ties, broaden cooperation
@@ -66,6 +170,8 @@ Experts described Hasina’s visit to China as a journey of cooperation and frie
 
 [Data](articles/b74941d9.json)
 
+[Extended Data](ext_articles/b74941d9.ext.json)
+
 ---
 
 ### WNPS, LOLC multi-regional leopard research on show at annual Association for Tropical Biology and Conservation meet
@@ -79,6 +185,8 @@ The conference will be held from 14 to 18 July. The scientific lead of the afore
 ...
 
 [Data](articles/066077d8.json)
+
+[Extended Data](ext_articles/066077d8.ext.json)
 
 ---
 
@@ -97,6 +205,8 @@ The opening ceremony was attended by high-level dignitaries, including Ambassado
 ...
 
 [Data](articles/60cbce32.json)
+
+[Extended Data](ext_articles/60cbce32.ext.json)
 
 ---
 
@@ -2175,169 +2285,5 @@ The calves were born at the Asgiriya Police Official Dog Headquarters in Kandy, 
 [Data](articles/cab1bb08.json)
 
 [Extended Data](ext_articles/cab1bb08.ext.json)
-
----
-
-### Indian nationals arrested without valid visas
-
-*2024-07-12 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100456/indian-nationals-arrested-without-valid-visas-) · `en`
-
-Katunayake Police has arrested six foreign nationals who were staying in Sri Lanka without valid visa documents and one foreigner in possession of illegally imported cigarettes.
-
-According to the police, these foreigners were apprehended during a search conducted last afternoon (11) based on information received by Katunayake Police regarding a group of suspicious foreigners staying in the Andiambalama area of Katunayake.
-
-Police stated that one foreigner was arrested with 1,000 sticks of illegally imported cigarettes (50 packs).
-
-The arrested individuals are all Indian nationals aged 25, 26, 33, 38, 39, and 42.
-
-◼️
-
-[Data](articles/c0631444.json)
-
-[Extended Data](ext_articles/c0631444.ext.json)
-
----
-
-### Presidential scholarships begin at district level
-
-*2024-07-12 09:07:36* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-ශිෂ්‍යත්ව-පිරිනැමීම-දිස්ත්‍රික්-මට්ටමින්-ඇරඹේ/11-410752) · `si`
-
-Presidential scholarships, aimed at supporting low-income students from grades 11 to A/L, are distributed across various districts from July 12th. Coordinated by District Secretaries and Zonal Educational Office Principals, these scholarships total Rs. 6,000 per month for each recipient. The selection process occurs at the district level, with the first phase already completed nationwide. However, there's a call for schools yet to apply for the scholarship program to do so, emphasizing the importance of these funds in providing educational opportunities during challenging times.
-
-🟩
-
-GCE Advanced Level. The president's scholarships will be held from today (12) to the students of low income families who are studying from the A / L and Grade 11 to Grade 11.
-
-President Ranil Wickremesinghe was presented to the Colombo district recently, while President Ranil Wickremesinghe was presented to the Temple Trees.
-
-Accordingly, scholarships for selected students in the Hambantota district will be held on July 13 and July on July 15, Badulla and July on July 15 and July on July 15 and July on July 15 and July on July 15th and July on July 15.On July 15 on July 15, Vavuniya, Batticaloa, Ratnapura, Kegalle and Nuwara Eliya Districts on July 17, Trincomalee, Kurunegala, Kandy and Polonnaruwa Districts on July 17.The scholarships will be awarded to July 19 on July 19 on July 19.
-
-The scholarships are coordinated by the District Secretaries and the Principals of all Zonal Educational Offices and Principals.
-
-...
-
-[Data](articles/0cfe72a6.json)
-
-[Extended Data](ext_articles/0cfe72a6.ext.json)
-
----
-
-### Showery conditions expected to enhance from today
-
-*2024-07-12 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100455/showery-conditions-expected-to-enhance-from-today) · `en`
-
-The Meteorology Department says showery conditions in the South-western part of the country are expected to be enhanced in the next few days from today (12 July).
-
-Showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Fairly heavy showers above 50 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
-
-Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/e27c673a.json)
-
-[Extended Data](ext_articles/e27c673a.ext.json)
-
----
-
-### Third duty free operator eyeing Sri Lanka Port City Colombo
-
-*2024-07-12 08:36:00* · [`economynextcom`](https://economynext.com/third-duty-free-operator-eyeing-sri-lanka-port-city-colombo-171809/) · `en`
-
-ECONOMYNEXT – A third international duty free operator is eyeing Sri Lanka’s Port City Colombo, a statement said after cabinet approved two operators to set up shop in the special economic zone.
-
-China Duty Free and One World Duty Free, were given the status of businesses of secondary strategic importance, by the Cabinet of Ministers.
-
-“Our partners are now empowered to operate within the Colombo Port City Special Economic Zone, allowing for the eagerly anticipated opening of the Downtown Duty-Free Mall to go ahead before the close of Q3 2024,” Xiong Hongfeng, Managing Director, CHEC Port City Colombo (Pvt) Ltd said in the statement.
-
-A third international luxury duty-free brand is exploring a collaboration at the duty-free mall concept, CHEC Port City Colombo said.
-
-A third operator will provide “travellers arriving in Sri Lanka significantly more choice,” the statement said.
-
-RELATED Sri Lanka approves 13 secondary strategic firms at Port city, including duty free
-
-...
-
-[Data](articles/4f3bab7d.json)
-
-[Extended Data](ext_articles/4f3bab7d.ext.json)
-
----
-
-### Another group of Indian people who have remained without visa arrested
-
-*2024-07-12 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198727) · `si`
-
-Eight individuals, including a foreigner and six others, were arrested near Katunayake for entering Sri Lanka without visas. The foreigner was found with 1,000 smuggled cigarettes. Ages of the arrested range from 25 to 42.
-
-🟩
-
-A foreigner has been arrested by the Katunayake Police with six foreigners and cigarettes brought in this country without visa.
-
-The foreigners were arrested following a tip off received by the Katyakulama area in Katunayake yesterday (11).
-
-Police said that one foreigner had 1,000 cigarettes (50 packets) imported as illegal.
-
-The arrested were 25, 26, 26, 33, 38, 39, 39 and 42.
-
-◼️
-
-[Data](articles/30b8f9f9.json)
-
-[Extended Data](ext_articles/30b8f9f9.ext.json)
-
----
-
-### Two wanted underworld criminals arrested in Dubai and brought to Sri Lanka
-
-*2024-07-12 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100454/two-wanted-underworld-criminals-arrested-in-dubai-and-brought-to-sri-lanka-) · `en`
-
-Two underworld criminal figures wanted over their alleged involvement in multiple murders and illegal activities in the country, have been arrested by the CID in Dubai and brought to Sri Lanka.
-
-The suspects, K. Dimuthu Chaturanga (26) and Dinesh Sharman (48), were escorted back to Sri Lanka early this morning (12), according to Public Security Minister Tiran Alles.
-
-The suspects were brought to Bandaranaike International Airport (BIA) in Katunayake by a team of four senior police officers from the Criminal Investigation Department (CID).
-
-The two criminals, identified as Kaludura Dinesh Samantha de Silva alias “Babi”, a 48-year-old resident of Nugegoda, Colombo, and 26-year-old Kankanamlage Dimuthu Chaturanga Perera alias “Samitpura Chathu”, a resident of Samitpura, Mattakkuliya, were apprehended while they were hiding in Dubai.
-
-They had arrived at the BIA onboard a SriLankan Airlines flight at around 5.10 a.m. this morning.
-
-...
-
-[Data](articles/3ecad2b5.json)
-
-[Extended Data](ext_articles/3ecad2b5.ext.json)
-
----
-
-### Two criminals arrested in Dubai
-
-*2024-07-12 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198726) · `si`
-
-Two Sri Lankan criminals, aged 48 and 26, were arrested in Dubai for murder and other offenses. They were transported back to Sri Lanka by police and will be handed over to the Colombo Crimes Division.
-
-🟩
-
-Two Sri Lankans hiding in Dubai have been arrested in Dubai, who committed murders and organizational crimes in Sri Lanka.
-
-The suspects were taken to the Katunayake airport by a group of four senior police officers of the Criminal Investigations today (12).
-
-The 48-year-old Kalubadu Dimuthu, a resident of Nugegoda, Colombo, and 26 year old residents of Nugegoda, Colombo Dimuthu's Dimuthu Chathu Chathu Chathura Chathurangala Chathurangala Chathurangala Chathurangala Chathuranga Perera.
-
-The two this morning at Dubai from Dubai to SriLankan Airlines has been brought to the Katunayake Airport on the plane.
-
-Kankanam and Dimuthu Chaturanga Perera is to be handed over to the Colombo Crimes Division, reports say.
-
-◼️
-
-[Data](articles/45471df3.json)
-
-[Extended Data](ext_articles/45471df3.ext.json)
 
 ---

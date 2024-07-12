@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 15:35:23**
+As of **2024-07-12 15:54:06**
 
 ## Newspaper Stats
 
-*Scraped **34,969** Articles*
+*Scraped **34,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,072
 dailyftlk | 2,203
 adalk | 3,152
 adaderanalk | 4,015
-tamilmirrorlk | 4,189
+tamilmirrorlk | 4,192
 dailymirrorlk | 4,733
 virakesarilk | 5,475
 adaderanasinhalalk | 5,819
@@ -26,45 +26,103 @@ adaderanasinhalalk | 5,819
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,967 (100.0%) of 34,969 articles have been extended.
+34,969 (100.0%) of 34,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
 
-### விநாயகரின் 60 பவுண் மாயம்: தேங்காய் உடைத்து போராட்டம்
+### கைதிகளின் தண்டனைகளை குறைக்க யோசனை
+
+*2024-07-12 15:34:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதிகளின்-தண்டனைகளை-குறைக்க-யோசனை/175-340302) · `ta`
+
+மரண தண்டனை மற்றும் ஆயுள் தண்டனை  அனுபவிக்கும் கைதிகளுக்கு அவர்களின் நன்னடத்தையின் அடிப்படையில்    தண்டனை காலத்தை குறைக்க உத்தேசிக்கப்பட்டுள்ளதாகத் தெரிவித்த  நீதி, சிறைச்சாலைகள் அலுவல்கள் மற்றும்  அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜயதாஸ ராஜபக்ச திட்டமிட்ட குற்றச்செயல்களில் ஈடுபட்டு தண்டனையளிக்கப்பட்டுள்ளவர்களுக்கு எவ்வித சலுகையும் வழங்கப்படமாட்டாது எனவும் கூறினார்.
+
+பாராளுமன்றத்தில்  வெள்ளிக்கிழமை (12)  ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்  எரான் விக்கிரமரத்ன,  இலங்கையின் சிறைச்சாலை கட்டமைப்பில் 13 ஆயிரம் கைதிகள்  மாத்திரம் இருக்க வேண்டும் என்று குறிப்பிடப்பட்டுள்ள நிலையில் தற்போது 30 ஆயிரம் கைதிகள் உள்ளார்கள்.
+
+சிறைச்சாலைகளில் 80 வயதை அண்மித்த  சிரேஷ்ட பிரஜைகள் உள்ளனர் .இவர்கள்  உடல் மற்றும் உளவியல் ரீதியில் பாதிக்கப்பட்டுள்ளார்கள்.ஆகவே இவர்களுக்கு மன்னிப்பு வழங்கி விடுதலை செய்ய  நடவடிக்கைகளை எடுக்க வேண்டுமென விடுத்த வேண்டுகோள் தொடர்பில்    பதிலளிக்கும் போதே இவ்வாறு  தெரிவித்த   அவர் மேலும் கூறுகையில்,
+
+...
+
+[Data](articles/6b756fab.json)
+
+---
+
+### குட்டிகளை போட்ட பெண் நாய்கள்
+
+*2024-07-12 15:28:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குட்டிகளை-போட்ட-பெண்-நாய்கள்/175-340301) · `ta`
+
+மூன்று பெண் நாய்கள் கர்ப்பம் தரித்திருந்தன என்றும், அதில், இரண்டு பெண் நாய்கள் 13 குட்டிகளை போட்டுள்ளன என்றும் பொலிஸ் தலைமையகம் விடுத்துள்ள ஊடக அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+இலங்கை பொலிஸ் மோப்பநாய பிரிவுக்கு, நெதர்லாந்தில் இருந்து 35 மோப்ப நாய்கள் 2024.07.05ஆம் திகதியன்று கொள்வனவு செய்யப்பட்டன. அதிலிருந்த மூன்று பெண்நாய்கள் கர்ப்பிணிகளாக இருந்துள்ளன. அதில், இரண்டு நாய்களே குட்டிகளை போட்டுள்ளன.
+
+கண்டி, குண்டசாலையில் உள்ள பொலிஸ் மோப்பநாய் தலைமையகத்திலேயே இவ்விரு நாய்களும் குட்டி போட்டுள்ளன.
+
+◼️
+
+[Data](articles/690a01cd.json)
+
+---
+
+### ஜனாதிபதித் தேர்தலை தடுக்க கோரி மற்றுமொரு மனு
+
+*2024-07-12 15:26:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலை-தடுக்க-கோரி-மற்றுமொரு-மனு/175-340300) · `ta`
+
+அரசியலமைப்பின் 19 ஆவது திருத்தம் பாராளுமன்றத்தில் முறையாக நிறைவேற்றப்படாததால் ஜனாதிபதித் தேர்தலை தடுக்க கோரி  மற்றுமொரு மனு தாக்கல் செய்யப்பட்டுள்ளது.
+
+அத்துடன், 19ஆவது திருத்தத்தை முறையாக நிறைவேற்றுவதற்கு பொதுசன வாக்கெடுப்பு  நடத்த வேண்டும் என்றும் அந்த மனுவில் சுட்டிக்காட்டப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/eecd38a0.json)
+
+---
+
+### 60 pound magic of Lord Ganesha: Struggle to break coconut
 
 *2024-07-12 15:17:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/விநாயகரின்-60-பவுண்-மாயம்-தேங்காய்-உடைத்து-போராட்டம்/71-340299) · `ta`
 
-ஊர்காவற்துறை பிரதேச செயலகத்திற்கு உட்பட்ட புளியங்கூடல் முத்து விநாயகர் ஆலயத்தின் சுமார் 60 பவுண்களுக்கு மேற்பட்ட நகைகள் காணாமல் போனமை தொடர்பில் உரிய விசாரணை மேற்கொள்ளப்பட வேண்டும் என அப்பகுதி மக்கள்  கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டனர்.
+Residents protested the disappearance of over 60 pounds of jewelry from the Puliyankudal Muthu Vinayakar Temple, suspecting temple administration involvement. The protest included breaking coconuts as part of a ritual. The temple's opening key went missing, leading to suspicions about the security measures around the jewelry box. Despite these concerns, the police advised patience while investigations continue.
 
-புளியங்கூடல் சந்தியில் இருந்து வெள்ளிக்கிழமை (12)  காலை 10 மணியளவில் ஆரம்பமான பேரணி பிரதான வழியாக முத்து விநாயகர் ஆலயத்தை சென்றடைந்தது.
+🟩
 
-ஆலயத்தின் முகவாயிலில், “பிள்ளையாரின் நகை பணம் திருடியவனை வீதிக்கு கொண்டுவா“ என கோஷங்களை எழுப்பியவாறு ஆண், பெண் இருபாலரும் சிதறு தேங்காய் உடைத்தனர்.
+Residents of the area have been involved in a protest against the disappearance of more than 60 pounds of jewelery at the Puliyankudal Muthu Vinayakar Temple, which is under the Kayts Divisional Secretariat.
 
-குறித்த ஆலயத்தின் வருடாந்த உற்சவத்தின் இறுதிநாள் ஆலயத்தின் பணப்பெட்டித் திறப்பு தொலைந்து விட்டதாக தலைவரால் சிலருக்கு தெரிவிக்கப்பட்டது.
+The rally, which began at 10 am on Friday (12) from Puliyankudal junction, reached the Muthu Vinayagar Temple.
 
-சில நாட்களின் பின்னர் குறித்த பணப் பெட்டியில் இருந்த நகைகள்,  பணங்கள் என்பன காணாமல் போன  தகவல்கள் சமூகத்தில் பரவ ஆரம்பித்தது.
+In the face of the temple, both male and female broken coconuts, chanting slogans, "Bring the child's jewelry money to the street."
 
-ஊர் மக்கள் ஒன்று சேர்ந்து குறித்த விடயம் தொடர்பில் தலைவரிடம்    பூட்டு உடைக்கப்படாமல் எவ்வாறு பெட்டியில் இருந்த நகைகள் பணங்கள் காணாமல் போனது என மக்கள் கேள்வி எழுப்பிய போது அவர் தனக்கு தெரியாது என பதிலளித்தார்.
+The leader of the temple was told that the opening of the temple was lost on the last day of the annual festival of the temple.
+
+A few days later, the disappearance of jewelery and money in the cash box began to spread in the community.
+
+When the people questioned how the jewelery in the box was missing, he replied that he was unaware of how the jewelery was missing without the lock of the head of the townspeople.
 
 ...
 
 [Data](articles/09ca0afe.json)
 
+[Extended Data](ext_articles/09ca0afe.ext.json)
+
 ---
 
-### ඉසෙඩ් ලකුණ මත රජයේ රැකියා
+### Government jobs on the Z sign
 
 *2024-07-12 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198741) · `si`
 
-අපොස උසස් පෙළ සමත්වීම සුදුසුකමක් ලෙස ඇති රාජ්‍ය සේවයේ පුරප්පාඩු පිරවීමේදී ඉසෙඩ් ලකුණේ අගය මත එය සිදුකළ යුතුයැයි ඩලස් අලහප්පෙරුම මහතා පෞද්ගලික මන්ත්‍රී යෝජනාවක් ලෙස පාර්ලිමේන්තුවට ඉදිරිපත්කර තිබේ.
+Dullas Alahapperuma proposed filling GCE A/L vacancies in the Public Service through a Private Member's Bill, criticizing policies driven by political needs and personal interests, aiming to restore the public service's integrity.
 
-එම යෝජනාව ඉදිරිපත් කරමින් ඒ මහතා පැවසුවේ දේශපාලන අවශ්‍යතා සහ පෞද්ගලික රුචි, අරුචිකම් මත ඇතිකරන ප්‍රතිපත්ති රාජ්‍ය සේවයට හානියක් සිදුකර ඇති බවයි.
+🟩
+
+Dullas Alahapperuma has been presented to Parliament as a Private Meonal Proposal to fill the GCE A / L vacancies in the Public Service.
+
+He made the proposal, he said that the public service has been harmed by policies on political needs and personal interests.
 
 ◼️
 
 [Data](articles/26ea6c77.json)
+
+[Extended Data](ext_articles/26ea6c77.ext.json)
 
 ---
 
@@ -2191,73 +2249,5 @@ What the petitioner had pleaded for was sort of a judicial review of post-enactm
 [Data](articles/09e3c0c0.json)
 
 [Extended Data](ext_articles/09e3c0c0.ext.json)
-
----
-
-### Sajitha Withanage wins ‘Soorya Overall Youth Top 40 Leader of the Year Award’ 2024
-
-*2024-07-12 00:52:02* · [`dailyftlk`](https://www.ft.lk/news/Sajitha-Withanage-wins-Soorya-Overall-Youth-Top-40-Leader-of-the-Year-Award-2024/56-764159) · `en`
-
-Sajitha Withanage winning the ‘Soorya Overall Top 40 Youth Leader of the Year’
-
-The Soorya team with the nine provincial winners and Dr. Sulochana Segera
-
-Sun Match Company’s flagship brand Soorya, ignited the 2024 edition of the Top 40 Youth Awards to identify and reward the best performing youth talent of Sri Lanka in partnership with WIM ( Women in Management) and Youth Council of Sri Lanka at Shangri-la Hotel with the Chief Guest being the State Minister of Defence Premitha Bandara Tennakoon in the presence of the Brand Ambassador for Soorya Yasodha Wimaladharma
-
-...
-
-[Data](articles/96cc3710.json)
-
-[Extended Data](ext_articles/96cc3710.ext.json)
-
----
-
-### DMASL Digital Summit 2024: Confluence of innovation and insights
-
-*2024-07-12 00:49:00* · [`dailyftlk`](https://www.ft.lk/news/DMASL-Digital-Summit-2024-Confluence-of-innovation-and-insights/56-764158) · `en`
-
-“It’s crucial to tailor your strategies to the unique characteristics of each market to achieve success.”
-
-Pavel Bulowski delved into effective customer data strategies for Chief Marketing Officers (CMOs). He stressed the importance of leveraging data to drive marketing decisions. “Data is the backbone of any successful marketing strategy,” Bulowski asserted. “CMOs need to focus on data-driven insights to optimise their campaigns and achieve better results.”
-
-Thisal Samarasinghe explored the impact of generative AI on modern creativity, using the fascinating example of resurrecting Sri Lankan kings. “Generative AI is revolutionising the creative process, offering new ways to tell stories and engage audiences,” Samarasignhe remarked. “The project of bringing Sri Lankan kings to life is just one example of its potential.”
-
-...
-
-[Data](articles/f870cdc9.json)
-
-[Extended Data](ext_articles/f870cdc9.ext.json)
-
----
-
-### 2024-07-11 (Thursday)
-
-### 10 lakh rupees fraud: Explanation for police officer
-
-*2024-07-11 23:50:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-லட்சம்-ரூபா-மோசடி-பொலிஸ்-அதிகாரிக்கு-விளக்கமறியல்/175-340267) · `ta`
-
-Nuwara Eliya Magistrate's Court has ordered detention of a police officer accused of embezzling 10 lakh rupees intended for a foreign employment agency. The officer allegedly diverted funds meant for the agency to his personal use. A relative of the officer had to pay the amount due to the officer's delay in transferring it to the agency. The magistrate has directed further investigations and remanded the officer until the 25th, pending trial.
-
-🟩
-
-The Nuwara Eliya District Magistrate's Court yesterday issued an order to put a police officer in connection with the allegation that he had defrauded Rs 10 lakh to pay a foreign employment agency.
-
-The order was issued by Nuwara Eliya District Magistrate Prabhudika Nanayakkara.
-
-A relative of a police officer working in the Nuwara Eliya Special Police Division had to pay Rs.
-
-The money has been sent to his cousin, the police officer and sent to the employment agency.
-
-But the police officer has lodged a complaint with the police officer in desperation for a long time that the police officer has not paid the money for a long time.
-
-The magistrate's investigation, which was taken up for hearing, revealed that the police officer had not given the money to the agency.
-
-He ordered the police officer to be remanded until the 25th of this month on suspicion of defrauding the money provided by the relative.
-
-...
-
-[Data](articles/9fa290ed.json)
-
-[Extended Data](ext_articles/9fa290ed.ext.json)
 
 ---

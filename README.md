@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 22:20:11**
+As of **2024-07-12 22:35:22**
 
 ## Newspaper Stats
 
-*Scraped **35,000** Articles*
+*Scraped **35,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,072
 dailyftlk | 2,203
 adalk | 3,158
 adaderanalk | 4,022
-tamilmirrorlk | 4,195
+tamilmirrorlk | 4,196
 dailymirrorlk | 4,733
 virakesarilk | 5,477
 adaderanasinhalalk | 5,829
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,998 (100.0%) of 35,000 articles have been extended.
+34,998 (100.0%) of 35,001 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,11 +36,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-07-12 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100470/sri-lanka-to-replace-india-in-champions-trophy-2025) · `en`
 
-India is highly unlikely to travel to Pakistan for the Champions Trophy 2025 which is scheduled to take place in Feb-Mar next year.
+The Sri Lanka cricket team will replace India cricket team if the latter decide to pull out of the Champions Trophy 2025.
 
-The Sri Lanka cricket team will replace India cricket team if the latter decide to pull out of the Champions Trophy 2025. Rohit Sharma and co. are highly unlikely to travel to Pakistan which is scheduled to host the marquee tournament next year. As per reports, Sri Lanka – who did not qualify for CT 2025 owing to their 9th placed finish in the 2023 ODI World Cup – will replace India.
+Rohit Sharma and co. are highly unlikely to travel to Pakistan which is scheduled to host the marquee tournament next year. As per reports, Sri Lanka  who did not qualify for CT 2025 owing to their 9th placed finish in the 2023 ODI World Cup  will replace India.
 
 Sri Lanka, who were the winners of the event in 2002, failed to qualify for the Champions Trophy for the first-time ever. While India is unlikely to travel to Pakistan, the BCCI is likely to request that the International Cricket Council (ICC) relocate the event to either Sri Lanka or the United Arab Emirates (UAE).
+
+The final decision on India’s participation in Pakistan rests with the Indian government. BCCI Vice-President Rajeev Shukla previously stated that the team would only travel to Pakistan with government approval.
 
 ...
 
@@ -65,6 +67,20 @@ Sri Lanka, who were the winners of the event in 2002, failed to qualify for the 
 ◼️
 
 [Data](articles/347bed20.json)
+
+---
+
+### ஆசிரியர் சங்கம் வெளியிட்ட மற்றுமொரு அதிரடி அறிவிப்பு
+
+*2024-07-12 21:46:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்-சங்கம்-வெளியிட்ட-மற்றுமொரு-அதிரடி-அறிவிப்பு/175-340318) · `ta`
+
+ஜூலை 8 மற்றும் 9 ஆம் திகதிகளில் நடைபெற்ற வேலை நிறுத்தப் போராட்டத்தில் கலந்து கொள்ளாமல் பணிக்குச் சமுகமளித்த அரச ஊழியர்களுக்கு வேதன அதிகரிப்பு வழங்கப்படுமாயின் அதற்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்படும் என இலங்கை ஆசிரியர் சங்கத்தின் செயலாளர் ஜோசப் ஸ்டாலின் தெரிவித்துள்ளார்.
+
+முழு அரச சேவையினரின் வேதன கோரிக்கையை ஏற்காமல், பணிக்குச் சமுகமளித்த ஒரு சிலருக்கு மட்டுமே வேதன உயர்வை வழங்குவதற்கான தீர்மானத்தைத் தடுக்க சட்ட நிறுவனங்களுடன் பேச்சுவார்த்தை நடத்தி வருவதாக அவர் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/aacc35e4.json)
 
 ---
 
@@ -2307,31 +2323,5 @@ The High Court made it clear that the president's tenure was five years during t
 [Data](articles/8e4226f1.json)
 
 [Extended Data](ext_articles/8e4226f1.ext.json)
-
----
-
-### The security of the people is a serious threat
-
-*2024-07-12 02:57:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களின்-பாதுகாப்பு-கடும்-அச்சுறுத்தல்/175-340273) · `ta`
-
-Opposition leader Sajith Premadasa criticizes the government for failing to maintain law and order, urging it to act and offering support. He highlights widespread fear and violence, emphasizing the government's responsibility to ensure public safety. Despite acknowledging efforts towards public safety, he calls for more action and legislative intervention.
-
-🟩
-
-Opposition leader Sajith Premadasa says that law and order has been threatened by the security of the people.
-
-Meanwhile, the Opposition Leader said that the government should take appropriate measures to implement law and order and ensure the safety of the people, and that he is ready to provide the necessary cooperation.
-
-The Opposition Leader said this while addressing a special statement in Parliament on Thursday (11).
-
-There have been massive issues regarding law and order in the country. Come, attack, go. Violence is headed everywhere. There has been great fear among the people in this regard. There have been doubts.
-
-It is the duty of the government to ensure the safety of the people. There has been a major issue regarding security. How are you going to solve this. We will provide our cooperation to prevent this. Killings happen. We have to talk about this. This is the problem that people face.
-
-...
-
-[Data](articles/9e42a482.json)
-
-[Extended Data](ext_articles/9e42a482.ext.json)
 
 ---

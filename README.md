@@ -1,52 +1,126 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 10:53:42**
+As of **2024-07-12 11:05:15**
 
 ## Newspaper Stats
 
-*Scraped **34,920** Articles*
+*Scraped **34,925** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 312
-colombotelegraphcom | 325
+colombotelegraphcom | 326
 bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,968
 economynextcom | 2,068
 dailyftlk | 2,203
 adalk | 3,149
-adaderanalk | 4,010
-tamilmirrorlk | 4,177
+adaderanalk | 4,011
+tamilmirrorlk | 4,178
 dailymirrorlk | 4,733
 virakesarilk | 5,464
-adaderanasinhalalk | 5,807
+adaderanasinhalalk | 5,809
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,917 (100.0%) of 34,920 articles have been extended.
+34,920 (100.0%) of 34,925 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
 
-### கொலைகளுக்கு காரணமாக இருந்த இலங்கையர்கள் டுபாயில் கைது
+### Kolonna shooting: STF arrests two murder suspects with firearms and drugs
+
+*2024-07-12 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100458/kolonna-shooting-stf-arrests-two-murder-suspects-with-firearms-and-drugs) · `en`
+
+Two suspects involved in the shooting and killing of a person in Kolonna earlier this week have been apprehended by Police Special Task Force (STF) personnel, along with the firearms allegedly used in the crime.
+
+The suspects have been arrested near a garment factory in the Middeniya police area by a team of officers of the STF Organised Crime Unit I.
+
+The suspects, identified as Ramanayakage Indika Kumara alias ‘Kale Mahinda’ and Jayawardena Abeysinghe Pathiranage Sandakelum Jayawardena, were arrested while in possession of 02 locally manufactured ‘Galkatas’ firearms, 02 rounds of live ammunition (12-bore), 100 grams of heroin, a motorcycle suspected to have been used in the shooting and 3 mobile phones.
+
+They have been handed over to the Kolonna Police Station for further investigation.
+
+Meanwhile it has been uncovered that these suspects are close associates of “Rotumba Amila”, a member of an organized crime syndicate who is currently operating a drug network in Sri Lanka from France.
+
+...
+
+[Data](articles/0ce27f0d.json)
+
+---
+
+### A-9 මාර්ගයේ සිදුවූ බිහිසුණු අනතුර
+
+*2024-07-12 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198730) · `si`
+
+මාන්කුලම් පොලිස් වසමේ ඊයේ (11) උදෑසන කාලයේ සිදු වූ අනතුරකින් කාන්තාවක් ජීවිතක්ෂයට පත්ව තිබුණි.
+
+යාපනය සිට මහනුවර මාර්ගයේ කොකාවිල් ප්‍රදේශයේදී වව්නියාවේ සිට කිලිනොච්චිය දෙසට ධාවනය වූ වෑන් රථයක් එම දිශාවටම ධානවය වූ ලොරි රථයකට ඉස්සර කිරීමට යාමේදී ලොරි රථයේ පිටුපස ගැටී එම අනතුර සිදු වී ඇති බව පොලීසිය පවසයි.
+
+අනතුරින් බරපතල තුවාල ලැබූ වෑන් රථයේ ගමන් කළ කාන්තාවන් දෙදෙනෙකු සහ පිරිමි පුද්ගලයෙකු කිලිනොච්චිය රෝහලට ඇතුළු කිරීමෙන් අනතුරුව එක් කාන්තාවක්  මියගොස් තිබේ.
+
+සිද්ධිය සම්බන්ධයෙන් වෑන් රථයේ රියදුරු මාන්කුලම් පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති අතර පොලීසිය වැඩිදුර විමර්ශන සිදු කෙරේ.
+
+◼️
+
+[Data](articles/bde0e07e.json)
+
+---
+
+### வாகன வேக வரம்புகள் தொடர்பான வர்த்தமானி
+
+*2024-07-12 10:42:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-வேக-வரம்புகள்-தொடர்பான-வர்த்தமானி/175-340277) · `ta`
+
+வீதி தொடர்பான வேக வரம்புகள் தொடர்பில் தேவையான விதிமுறைகள் அடங்கிய வர்த்தமானி எதிர்வரும் இரண்டு வாரங்களுக்குள் வெளியிடப்படும் என போக்குவரத்து இராஜாங்க அமைச்சர் லசந்த அழகியவன்ன தெரிவித்துள்ளார்.
+
+வீதிகளில் வேகத்தை கட்டுப்படுத்துவதற்கு தேவையான இயந்திரங்களை கொள்வனவு செய்வதற்காக 50 மில்லியன் ரூபாயை இலங்கை பொலிஸாருக்கு வழங்குவதற்கு வீதி பாதுகாப்பு தொடர்பான தேசிய சபை தீர்மானித்துள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/fd6db58c.json)
+
+---
+
+### වාහන වේග සීමා සම්බන්ධයෙන් ගැසට් පත්‍රයක්
+
+*2024-07-12 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198729) · `si`
+
+මාර්ග ආශ්‍රිත වේග සීමා සම්බන්ධයෙන් අවශ්‍ය කෙරෙන රෙගුලාසි ඇතුළත් ගැසට් පත්‍රය ඉදිරි සති දෙක ඇතුළත නිකුත් කිරීමට නියමිත බව ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා පවසයි.
+
+මාර්ග ආශ්‍රිත වේග පාලනය කිරීම සඳහා අවශ්‍ය යන්ත්‍ර මිලදී ගැනීම සඳහා මාර්ග ආරක්ෂාව පිළිබඳ ජාතික සභාව විසින් ශ්‍රී ලංකා පොලීසියට රුපියල් මිලියන 50ක මුදලක් ලබාදීමට තීරණය කර ඇති බව ද රාජ්‍ය අමාත්‍යවරයා ප්‍රකාශ කර තිබේ.
+
+"2023 වර්ෂයේ මාර්ග රිය අනතුරු 2214ක් වාර්තා වුණා. එම මාර්ග අනතුරු ආශ්‍රිතව පුද්ගල මරණ 2321ක් සිදුව තිබෙනවා. මෙම වසරේ ද ඉකුත් මස 30 වනදා වන විට මාර්ග අනතුරු 1103ක් වාර්තා වී තිබෙනවා. එම මාර්ග අනතුරු හේතුවෙන් පුද්ගල මරණ 1154ක් වාර්තා වී තිබෙනවා. එම නිසා මෙම තත්ත්වය අවම කර ගැනීම සඳහා විවිධ වැඩසටහන් ගණනාවක් අප අමාත්‍යංශය විසින් ක්‍රියාත්මක කර තිබෙනවා".
+
+◼️
+
+[Data](articles/34a88da6.json)
+
+---
+
+### Sri Lankans arrested in Dubai
 
 *2024-07-12 10:30:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொலைகளுக்கு-காரணமாக-இருந்த-இலங்கையர்கள்-டுபாயில்-கைது/175-340276) · `ta`
 
-இலங்கையில் இடம்பெறும் தொடர் கொலைகள் மற்றும் ஒழுங்கமைக்கப்பட்ட குற்றங்களைச் செய்து விட்டு டுபாயில் பதுங்கியிருந்த 2 இலங்கையர்கள் அந்நாட்டு பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+Two Sri Lankans were arrested in Dubai for alleged murders and organized crimes in Sri Lanka. They were transported back by senior police officers and will be handed over to specific divisions in Colombo for further investigation.
 
-இவர்கள் இருவரும் இன்று (12) அதிகாலை குற்றப் புலனாய்வு திணைக்களத்தின் 4 சிரேஷ்ட பொலிஸ் அதிகாரிகள் குழுவினால் கட்டுநாயக்க விமான நிலையத்திற்கு அழைத்து வரப்பட்டனர்.
+🟩
 
-கொழும்பு, நுகேகொட பிரதேசத்தை சேர்ந்த 48 வயதான களுதுர தினேஷ் சாமந்த டி சில்வா என அழைக்கப்படும் 'பாபி' மற்றும் மட்டக்குளி, சமித்புர பிரதேசத்தை சேர்ந்த 26 வயதான கங்கனம்லாகே திமுத்து சதுரங்க பெரேரா ஆகிய இருவருமே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+Two Sri Lankans have been arrested by the country's police for allegedly committing a series of killings and organized crimes in Sri Lanka.
 
-கங்கனம்லாகே திமுத்து சதுரங்க பெரேரா  கொழும்பு குற்றத் தடுப்புப் பிரிவினரிடமும், களுதுர தினேஷ் சாமந்த டி சில்வா கொழும்பு நாரஹேன்பிட்டிய ஒழுங்கமைக்கப்பட்ட குற்றப் புலனாய்வுப் பிரிவினரிடமும் ஒப்படைக்கப்படவுள்ளதாகத் தெரிவிக்கப்படுகிறது. R
+The two were brought to the Katunayake airport by a group of four senior police officers of the Criminal Investigation Department this morning.
+
+The 48 -year -old Kaludura Dinesh Damal, a 48 -year -old from Nugegoda, Colombo, was arrested by Bobby and 26 -year -old Ganganamlake Timuthu Chaturanga Perera from Mattakkuli and Samitpura.
+
+It is reported that Kanganamlake Timuthu Chezhunga Perera will be handed over to the Colombo Crime Prevention Division and Kaludura Dinesh Samantha de Silva to Colombo Organized Criminal Investigation Division. Remble
 
 ◼️
 
 [Data](articles/d5d54db9.json)
+
+[Extended Data](ext_articles/d5d54db9.ext.json)
 
 ---
 
@@ -114,17 +188,27 @@ The arrested individuals are all Indian nationals aged 25, 26, 33, 38, 39, and 4
 
 ---
 
-### ජනාධිපති ශිෂ්‍යත්ව පිරිනැමීම දිස්ත්‍රික් මට්ටමින් ඇරඹේ
+### Presidential scholarships begin at district level
 
 *2024-07-12 09:07:36* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-ශිෂ්‍යත්ව-පිරිනැමීම-දිස්ත්‍රික්-මට්ටමින්-ඇරඹේ/11-410752) · `si`
 
-අ.පො.ස. උසස් පෙළ සහ පළමු ශ්‍රේණියේ සිට 11 ශ්‍රේණිය දක්වා අධ්‍යාපනය ලබන අඩු ආදායම්ලාභී පවුල්වල සිසුන් වෙනුවෙන් පිරිනැමෙන ජනාධිපති ශිෂ්‍යත්ව ප්‍රදානය අද (12) සිට දිස්ත්‍රික් මට්ටමින් ආරම්භ කෙරේ.
+Presidential scholarships, aimed at supporting low-income students from grades 11 to A/L, are distributed across various districts from July 12th. Coordinated by District Secretaries and Zonal Educational Office Principals, these scholarships total Rs. 6,000 per month for each recipient. The selection process occurs at the district level, with the first phase already completed nationwide. However, there's a call for schools yet to apply for the scholarship program to do so, emphasizing the importance of these funds in providing educational opportunities during challenging times.
 
-කොළඹ දිස්ත්‍රික්කයට අදාළ ශිෂ්‍යත්ව ලබාදීම පසුගියදා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පසුගියදා (ජුනි 19) අරලියගහ මන්දිරයේ දී සිදු කෙරුණු අතර අනෙකුත් දිස්ත්‍රික්ක 24ට අදාළ ශිෂ්‍යත්ව පිරිනැමීමට මෙලෙස අද සිට දීප ව්‍යාප්තව සිදු කෙරෙනු ඇත.
+🟩
+
+GCE Advanced Level. The president's scholarships will be held from today (12) to the students of low income families who are studying from the A / L and Grade 11 to Grade 11.
+
+President Ranil Wickremesinghe was presented to the Colombo district recently, while President Ranil Wickremesinghe was presented to the Temple Trees.
+
+Accordingly, scholarships for selected students in the Hambantota district will be held on July 13 and July on July 15, Badulla and July on July 15 and July on July 15 and July on July 15 and July on July 15th and July on July 15.On July 15 on July 15, Vavuniya, Batticaloa, Ratnapura, Kegalle and Nuwara Eliya Districts on July 17, Trincomalee, Kurunegala, Kandy and Polonnaruwa Districts on July 17.The scholarships will be awarded to July 19 on July 19 on July 19.
+
+The scholarships are coordinated by the District Secretaries and the Principals of all Zonal Educational Offices and Principals.
 
 ...
 
 [Data](articles/0cfe72a6.json)
+
+[Extended Data](ext_articles/0cfe72a6.ext.json)
 
 ---
 
@@ -282,6 +366,18 @@ The Department of Meteorology has informed the people to take necessary steps to
 
 ---
 
+### Exploitation Of Desperate Hajj Pilgrims By Some Deceitful Hajj Agents
+
+*2024-07-12 05:13:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/exploitation-of-desperate-hajj-pilgrims-by-some-deceitful-hajj-agents/) · `en`
+
+Hajj is a pilgrimage (spiritual duty) made to the Kaaba (the house of Allah) in the sacred city of Makkah in the Kingdom of Saudi Arabia during the first ten days of the holy month of Dhul Hijjah, the 12th month in the Islamic calendar. It is one of the pillars of Islam, along with believing (1) there is no god but Allah, (2) prayer, (3) almsgiving, and (4) fasting during the month of Ramadan. Hajj is not obligatory for every Muslim. It’s obligatory, at least once in a lifetime, for a Muslim if he is physically, emotionally, and financially able to perform. For anyone preparing to perform Hajj, it’s an incredibly exciting time because they believe that the first ten days of the month of Dhul Hijjah offer true Muslims the opportunity to gain immense rewards, have their sins forgiven, and reach great levels of piety. In other words, it offers the Muslims an opportunity to refresh their spiritual selves, cleanse them of their sins, and draw closer to Allah.
+
+...
+
+[Data](articles/4b39f139.json)
+
+---
+
 ### The Role Of BRICS+: Rerouting Sri Lanka’s Foreign Policy
 
 *2024-07-12 05:02:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-role-of-brics-rerouting-sri-lankas-foreign-policy/) · `en`
@@ -291,6 +387,8 @@ The Department of Meteorology has informed the people to take necessary steps to
 ...
 
 [Data](articles/4f24d897.json)
+
+[Extended Data](ext_articles/4f24d897.ext.json)
 
 ---
 
@@ -2127,121 +2225,5 @@ We have some responsibility for the safety of the people. We will provide our co
 [Data](articles/81d4c42c.json)
 
 [Extended Data](ext_articles/81d4c42c.ext.json)
-
----
-
-### Sri Lanka sells Rs131bn in 2027 to 2031 bonds
-
-*2024-07-11 17:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs131bn-in-2027-to-2031-bonds-171789/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 131.2 billion rupees in 2027 and 2031 bonds, data from the state debt office showed.
-
-All offered 58 billion rupees of 15 December 2027 bonds were sold at an average yield of 11.78 percent.
-
-The debt office sold 73.2 billion rupees of an offered 80 billion of 01 December 2031 bonds at 12.31 percent.
-
-◼️
-
-[Data](articles/8fcde764.json)
-
-[Extended Data](ext_articles/8fcde764.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 302.80/303.00 to US dollar
-
-*2024-07-11 17:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-302-80-303-00-to-us-dollar-171766/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 302.80/303.00 to the US dollar on Thursday, down from 303.63/72 to the US dollar on Wednesday, dealers said, while bond yields were up.
-
-A bond maturing on 15.12.2026 closed at 10.85/95 percent, up from 10.60/85 percent.
-
-A bond maturing on 15.02.2028 closed at 11.80/90 percent, down from 11.80/95 percent.
-
-A bond maturing on 15.09.2029 closed at 12.15/25 percent, up from 12.10/20 percent. (Colombo/Jul11/2024)
-
-◼️
-
-[Data](articles/dde4c1f0.json)
-
-[Extended Data](ext_articles/dde4c1f0.ext.json)
-
----
-
-### Single Track of 'Veerai Nivas'
-
-*2024-07-11 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188241) · `ta`
-
-"Veerai Nivas," starring Suresh Nanda, features its first song and video, directed by Seanu Ramaswamy, who praised the team. The film, written by Nagaraj Karupaya, includes performances from actors like Marimuthu and Deepa Shankar. The soundtrack, including "Nenjukkul Om Parakkuttu Kuttikkunnu," is composed by Deepan Chakraborty, with vocals by Nagaraj, Madurai Kavi, and Hemambika.
-
-🟩
-
-The first song and the lyrical video for the song, which starts with the film 'Veerai Naval' starring Suresh Nanda, the hero of the story.
-
-The National Award -winning director and actor Seanu Ramaswamy posted this on his web page and congratulated the film crew and composer.
-
-Writer and actor in the film 'Veerai Nivas' directed by director Nagaraj Karupaya. Ramamurthy, late actor Marimuthu, Deepa Shankar, Suresh Nanda, Nandana, Rama, Senthi Kumari, Pandi aka, Gerald Milton and many others.
-
-M.. The cinematography by Srinivasan has been composed by the Emperor of Deepan. Producer N.. Produced by Suresh Nanda.
-
-The first song of the film has been released as the first song and the song, which starts with the first song and the song 'Nenjukkul Om Parakkuttu Kuttikkunnu You come and Ninnuputa Sami Sathiyama' ... The song is sung by the songwriters Nagaraj and Madurai Kavi, the playback singer Hemambika, composer and singer Deepan Chakraborty.
-
-...
-
-[Data](articles/bfde6adb.json)
-
-[Extended Data](ext_articles/bfde6adb.ext.json)
-
----
-
-### India attempts to engage in Cobalt Study in the Indian Ocean - Sri Lanka
-
-*2024-07-11 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/188248) · `ta`
-
-India faces tension with Sri Lanka over a Cobalt study in the Indian Ocean, as Sri Lanka claims the area falls within its extended shelf. The International Seabed Authority (ISA) in Kingston, Jamaica, is investigating the matter. The UN Commission on the Limits of the Continental Shelf has urged both parties to cooperate, but disputes persist, affecting diplomatic relations and local fishing rights.
-
-🟩
-
-There has been a conflict between the two countries following Sri Lanka's opposition to India's efforts to engage in a study on Gobalt Cobalt in the sea of ​​Hinduism.
-
-The International Seaabed Authority of Kingston Jamaica has been expressed by the International Seabed Authority in Kingston Jamaica to investigate the Cobalt metal in the Afanasy Nikitin Seamount in the Indian Ocean of the Indian Ocean.
-
-Sri Lanka reports that the area where India is studying the Cobalt metals is within its expanded shelf.
-
-The United Nations Commission on the Limits of Landslides has urged the ISA New Delhi to accept the request of the United Nations Commission on the Limits of the Continental Shelf.
-
-The International Navy Authority is following the practices that apply, ”a spokesman for the Ministry of Foreign Affairs of Sri Lanka said.
-
-...
-
-[Data](articles/e7af43bd.json)
-
-[Extended Data](ext_articles/e7af43bd.ext.json)
-
----
-
-### Announcement in the rain
-
-*2024-07-11 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198712) · `si`
-
-The Department of Meteorology warns of increased rainfall from tomorrow in the southwestern parts of the island, affecting areas like Kandy, Nuwara Eliya, Galle, and Matara. Thundershowers are expected in the Western, Sabaragamuwa, North Western provinces, and certain districts. The public is advised to prepare for potential wind and lightning hazards.
-
-🟩
-
-The Department of Meteorology announces a rainy increase in the southwestern parts of the island to tomorrow (12).
-
-Showers will occur at times in the Western, Sabaragamuwa and North Western provinces in the Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Some locations in the Western and Sabaragamuwa Province and in some places in the Galle and Matara Districts. 50 can have a workplace.
-
-Thundershowers will develop at several places in the Ampara and Batticaloa districts, Ampara and Batticaloa districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/5d36d292.json)
-
-[Extended Data](ext_articles/5d36d292.ext.json)
 
 ---

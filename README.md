@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 00:08:50**
+As of **2024-07-13 00:20:58**
 
 ## Newspaper Stats
 
-*Scraped **35,010** Articles*
+*Scraped **35,014** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,969
 economynextcom | 2,080
-dailyftlk | 2,203
+dailyftlk | 2,207
 adalk | 3,158
 adaderanalk | 4,022
 tamilmirrorlk | 4,196
@@ -26,11 +26,79 @@ adaderanasinhalalk | 5,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,010 (100.0%) of 35,010 articles have been extended.
+35,010 (100.0%) of 35,014 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-07-13 (Saturday)
+
+### Withholding AL results of Muslim students over head coverings – HRCSL intervenes
+
+*2024-07-13 00:02:15* · [`dailyftlk`](https://www.ft.lk/news/Withholding-AL-results-of-Muslim-students-over-head-coverings-HRCSL-intervenes/56-764206) · `en`
+
+During a meeting with education authorities HRCSL stresses SL’s Constitution guarantees freedom of religion and non-discrimination based on religion
+
+Confirms religious attire, including Muslim head coverings, is protected under Article 14(1)(e), and any restrictions must be legally justified
+
+Says HRCSL, withholding exam results can violate the right to universal and equal access to education
+
+Notes head coverings rule was selectively applied to Zahira College Trincomalee and suggested a review of whether the attire actually violated examination rules
+
+The Human Rights Commission of Sri Lanka (HRCSL) has launched a suo motu inquiry into allegations of the infringement of religious freedom and the right to education in Trincomalee, concerning the withholding of Advanced Level examination results for approximately 70 students from Zahira College.
+
+...
+
+[Data](articles/0bcb74fb.json)
+
+---
+
+### China, Bangladesh elevate ties, broaden cooperation
+
+*2024-07-13 00:01:37* · [`dailyftlk`](https://www.ft.lk/news/China-Bangladesh-elevate-ties-broaden-cooperation/56-764205) · `en`
+
+Bangladeshi Prime Minister Sheikh Hasina and Chinese President Xi Jinping
+
+China and Bangladesh this week elevated their relations to a comprehensive strategic cooperative partnership. Chinese President Xi Jinping and Bangladeshi Prime Minister Sheikh Hasina announced this while meeting in Beijing.
+
+Experts described Hasina’s visit to China as a journey of cooperation and friendship. Although some Indian media outlets are seemingly concerned about the visit, experts said the development of China-Bangladesh ties does not target any third party, and will be conducive to overall peace and stability in South Asia.
+
+...
+
+[Data](articles/b74941d9.json)
+
+---
+
+### WNPS, LOLC multi-regional leopard research on show at annual Association for Tropical Biology and Conservation meet
+
+*2024-07-13 00:00:50* · [`dailyftlk`](https://www.ft.lk/news/WNPS-LOLC-multi-regional-leopard-research-on-show-at-annual-Association-for-Tropical-Biology-and-Conservation-meet/56-764204) · `en`
+
+The multi-regional monitoring system for the conservation of the Sri Lankan leopard led by the Wildcats subcommittee of the Wildlife and Nature Protection Society (WNPS) in partnership with LOLC Holdings PLC has successfully submitted its findings and has been accepted for presentation at the 60th Annual Meeting of the Association for Tropical Biology and Conservation (ATBC) in Kigali, Rwanda.
+
+The conference will be held from 14 to 18 July. The scientific lead of the aforementioned project, Sabaragamuwa University Sri Lanka Conservation Biology Professor Prof. Enoka Kudavidanage, and the project coordinator Gihani Hettiarachchi will be attending on behalf of WNPS and presenting their findings at this forum.
+
+...
+
+[Data](articles/066077d8.json)
+
+---
+
 ### 2024-07-12 (Friday)
+
+### Emergency waiting area at Mirihana Women and Children’s Bureau
+
+*2024-07-12 23:58:40* · [`dailyftlk`](https://www.ft.lk/news/Emergency-waiting-area-at-Mirihana-Women-and-Children-s-Bureau/56-764203) · `en`
+
+Japan’s Ambassador Mizukoshi Hideaki, Public Security Minister Tiran Alles and UNFPA Sri Lanka Representative Kunle Adeniyi at the opening
+
+Japan’s Ambassador Mizukoshi Hideaki and UNFPA Sri Lanka Representative Kunle Adeniyi recently handed over the newly constructed Emergency Waiting Area (EWA) at the Mirihana Women and Children’s Bureau, to Sri Lanka Police, marking a significant milestone in the ongoing efforts to provide safe and secure spaces for women and children during times of distress owing to gender-based violence (GBV).
+
+The opening ceremony was attended by high-level dignitaries, including Ambassador Mizukoshi Hideaki, Public Security Minister Tiran Alles, Secretary Viyani Gunathilaka, IGP Deshabandu Thennakoon, UNFPA Rep. Adeniyi, Senior DIGs and representatives from the Women and Children’s Bureau of Sri Lanka Police.
+
+...
+
+[Data](articles/60cbce32.json)
+
+---
 
 ### Sri Lanka to replace India in Champions Trophy 2025?
 
@@ -2271,97 +2339,5 @@ Kankanam and Dimuthu Chaturanga Perera is to be handed over to the Colombo Crime
 [Data](articles/45471df3.json)
 
 [Extended Data](ext_articles/45471df3.ext.json)
-
----
-
-### Special announcement for school children
-
-*2024-07-12 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198725) · `si`
-
-Starting today, the President's scholarships open for application, aimed at supporting students from low-income families in Grades 1-11. The initiative, led by President Ranil Wickremesinghe during his visit to the Colombo district, extends to 24 districts, with scholarship distribution scheduled across various dates in July. This effort, coordinated by zonal education offices and principals, also includes the resumption of security insurance for children.
-
-🟩
-
-The President's scholarships will be opened from today (12).
-
-These scholarships are due to be awarded to students of low income families who are studying in Grade 1 to Grade 11.
-
-President Ranil Wickremesinghe was presented to the Colombo district recently, and the Presidential Media Unit will be extended to the 24 districts today.
-
-Accordingly, scholarships for selected students in the Hambantota district will be held on July 13, Badulla, Matale and Jaffna districts on July 14 and 17.
-
-Awarding scholarships will be awarded on July 15 on July 15 on July 15 on July 15, Vavuniya, Batticaloa, Ratnapura and Nuwara Eliya districts for Children, Galle and Anuradhapura Districts.
-
-Scholarships are granted to the coordination of all zonal education offices and principals under the patronage of the District Secretaries and the first phase of scholarships.
-
-Meanwhile, the Deputy Leader Akila Virajithramasam said that the security insurance had been resumed to children again.
-
-◼️
-
-[Data](articles/08ddf9d7.json)
-
-[Extended Data](ext_articles/08ddf9d7.ext.json)
-
----
-
-### IMF still assessing Sri Lanka’s sovereign bond restructure plan
-
-*2024-07-12 07:03:00* · [`economynextcom`](https://economynext.com/imf-still-assessing-sri-lankas-sovereign-bond-restructure-plan-171807/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund is still assessing Sri Lanka’s deal with investors to re-structure sovereign bonds, Director of Communications Julie Cozack has said.
-
-“Our team is in the process of assessing the agreed terms of the debt restructuring and whether they’re consistent with the parameters of our of our program,” Cozack told reporters in Washington.
-
-“So once that assessment is complete, we’ll be able to communicate our our views on that.”
-
-The Official Creditor Committee also has to sign off the deal with private bondholders.
-
-◼️
-
-[Data](articles/c94051b1.json)
-
-[Extended Data](ext_articles/c94051b1.ext.json)
-
----
-
-### Increase in rain condition in southwest
-
-*2024-07-12 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198723) · `si`
-
-The Department of Meteorology predicts increased rainfall across the southwestern regions of the island today, affecting areas like the Western, Sabaragamuwa, North Western provinces, and specific districts including Kandy, Nuwara Eliya, Galle, and Matara. Expect showers or thundershowers in various locations, particularly in the Ampara, Batticaloa districts, and from the Western slopes of the central hills extending to Trincomalee, Hambantota, and Moneragala districts. Strong winds of 40-50 km/h may also be experienced. The public is advised to prepare for potential strong winds and lightning during thunderstorms.
-
-🟩
-
-The Department of Meteorology states that a rainy industry is expected to increase in the southwestern parts of the island to this day (12).
-
-Showers will occur at times in the Western, Sabaragamuwa and North Western provinces in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Some locations in the Western and Sabaragamuwa Province and in some places in the Galle and Matara Districts. Strong showers can occur in 50 towadi.
-
-Showers or thundershowers will occur at several places in the Ampara, Ampara and Batticaloa districts, or even nights.
-
-From the Western slopes of the central hills, Trincomalee, Trincomalee and Moneragala Districts, Trincomalee, Hambantota and Moneragala Districts. 40-50 can cause strong winds.
-
-The Department of Meteorology has informed the people to take necessary steps to reduce temporary strong winds and lightning accidents in thundershowers.
-
-◼️
-
-[Data](articles/47cb7d5a.json)
-
-[Extended Data](ext_articles/47cb7d5a.ext.json)
-
----
-
-### Exploitation Of Desperate Hajj Pilgrims By Some Deceitful Hajj Agents
-
-*2024-07-12 05:13:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/exploitation-of-desperate-hajj-pilgrims-by-some-deceitful-hajj-agents/) · `en`
-
-Hajj is a pilgrimage (spiritual duty) made to the Kaaba (the house of Allah) in the sacred city of Makkah in the Kingdom of Saudi Arabia during the first ten days of the holy month of Dhul Hijjah, the 12th month in the Islamic calendar. It is one of the pillars of Islam, along with believing (1) there is no god but Allah, (2) prayer, (3) almsgiving, and (4) fasting during the month of Ramadan. Hajj is not obligatory for every Muslim. It’s obligatory, at least once in a lifetime, for a Muslim if he is physically, emotionally, and financially able to perform. For anyone preparing to perform Hajj, it’s an incredibly exciting time because they believe that the first ten days of the month of Dhul Hijjah offer true Muslims the opportunity to gain immense rewards, have their sins forgiven, and reach great levels of piety. In other words, it offers the Muslims an opportunity to refresh their spiritual selves, cleanse them of their sins, and draw closer to Allah.
-
-...
-
-[Data](articles/4b39f139.json)
-
-[Extended Data](ext_articles/4b39f139.ext.json)
 
 ---

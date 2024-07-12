@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 03:05:03**
+As of **2024-07-13 03:19:58**
 
 ## Newspaper Stats
 
-*Scraped **35,026** Articles*
+*Scraped **35,028** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,158
 adaderanalk | 4,022
 tamilmirrorlk | 4,196
 dailymirrorlk | 4,733
-virakesarilk | 5,477
+virakesarilk | 5,479
 adaderanasinhalalk | 5,829
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,026 (100.0%) of 35,026 articles have been extended.
+35,026 (100.0%) of 35,028 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -813,6 +813,40 @@ When the case was heard in court, it was ordered to be sealed to the restaurant 
 [Data](articles/161cecb5.json)
 
 [Extended Data](ext_articles/161cecb5.ext.json)
+
+---
+
+### திகன கலவர விசாரணை அறிக்கையை விரைவில் வெளிப்படுத்துங்கள் - முஜிபுர் சபாநாயகரிடம் கோரிக்கை
+
+*2024-07-12 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/188291) · `ta`
+
+நாட்டில் கடந்த 2018 ஆம் ஆண்டு இடம்பெற்ற திகன கலவரம் தொடர்பாக விசாரணை மேற்கொண்ட மனித உரிமைகள் ஆணைக்குழு இதுவரை அந்த அறிக்கையை வெளியிடவில்லை. அதனால் இதுதாெடர்பாக தேடிப்பார்த்து நடவடிக்கை எடுக்கவேண்டும் என எதிர்க்கட்சி உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்தார்.
+
+நாட்டில் இருக்கும்  சுயாதீன ஆணைக்குழுக்கள் அனைத்தும் அரசியலமைப்பு பேரவையின் கீழே செயற்படுகின்றன. அரசியலமைப்பு பேரவையினாலே அந்த ஆணைக்குழுக்களுக்கு உறுப்பினர்கள் நியமிக்கப்படுகின்றனர்.
+
+பேரவையின் தலைவர் என்றவகையில் ஆணைக்குழுவின் செயற்பாடுகள் தொடர்பாக தேடிப்பார்க்கும் பொறுப்பு சபாநாயகர் என்றவகையில் உங்களுக்கு இருக்கிறது.
+
+அதன் பிரகாரம் எமது நாட்டில் 2018இல் இடம்பெற்ற திகன கலவரம் இடம்பெற்று 6 வருடங்கள் கடந்துள்ளன. இந்த சம்பவம் தொடர்பாக ஆராய்ந்து நடவடிக்கை எடுப்பதற்காக மனித உரிமைகள் ஆணைக்குழு இது தொடர்பில் விசாணை மேற்கொண்டது. ஆனால் கலவம் இடம்பெற்று 6 வருடங்கள் கடந்துள்ள போதும் அது தொடர்பான விசாரணை அறிக்கை இன்னும் வெளிப்படவில்லை.
+
+...
+
+[Data](articles/82197924.json)
+
+---
+
+### வி.எப்.எஸ் நிறுவன விசா வழங்கல் விலைமனுக்கோரல்  தடயவியல் கணக்காய்வுக்கு உட்படுத்த வேண்டும்  - அரச நிதி தொடர்பான குழு பரிந்துரை
+
+*2024-07-12 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188290) · `ta`
+
+வெளிநாட்டவர்களுக்கு விசா விநியோகிக்கும் பணியை வெளிநாட்டு நிறுவனத்துக்கு வழங்கியுள்ள விவகாரத்தில் பல சிக்கல்கள் காணப்படுகின்றன.போட்டித்தன்மையான  விலை மனுக்கோரல் ஏதும் இல்லாமல் தான் ஒப்பந்தம்  கைச்சாத்திடப்பட்டுள்ளது.ஆகவே இந்த விலைமனுக்கோரல்  முழுமையாக  தடயவியல் கணக்காய்வுக்கு உட்படுத்தப்பட வேண்டும் என அரச நிதி தொடர்பான குழு பரிந்துரைத்துள்ளதாக அக்குழுவின் தலைவர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வெள்ளிக்கிழமை (12) இடம்பெற்ற அமர்வின் போது விசா விவகாரம்  தொடர்பில்  அரச நிதி தொடர்பான குழு அறிக்கையை சபைக்கு சமர்ப்பித்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+குடிவரவு மற்றும் குடியகல்வு திணைக்களம்  வெளிநாட்டவர்களுக்கு  விசா விநியோகிக்கும் பணியை வெளிநாட்டு கூட்டு நிறுவனத்துக்கு பொறுப்பாக்கியமை தொடர்பில் சமூக கட்டமைப்பில் பாரிய சர்ச்சைகளை ஏற்படுத்தின.இவ்விடயம் குறித்து அரச நிதி தொடர்பான குழுவில் விசாரணைகளை மேற்கொண்ட போது பல சிக்கல்களை எதிர்கொண்டோம்.
+
+...
+
+[Data](articles/5d75a6e1.json)
 
 ---
 
@@ -2237,51 +2271,5 @@ In addition, Dimuthu Chaturanga will be handed over to the Colombo Crime Prevent
 [Data](articles/fc33b7a5.json)
 
 [Extended Data](ext_articles/fc33b7a5.ext.json)
-
----
-
-### Kolonnators arrested for STF operation
-
-*2024-07-12 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198728) · `si`
-
-STF arrests Kolonnawa Police Division suspects linked to a murder plot, seizing weapons and drugs. The suspects, including 'Jungle Mahinda' and another individual, were apprehended in Middeniya. Investigations reveal a criminal conspiracy involving large sums of money and narcotics for the assassination.
-
-🟩
-
-Police Special Task Force personnel have been arrested by the STF personnel to carry out a wedigawa killing of the Kolonnawa Police Division.
-
-The suspects were arrested in Middeniya Police Division.
-
-Ramanayake's Indika Kumara alias' jungle Mahinda "and Jayawardene Abeysinghe Pathiruthhi Jayawardena has been arrested in connection with the Klonnawa police in the Kolonna Police Division last night.
-
-The STF seized two motorcycle and three mobile phones, which were in the possession of two flats of firearms, two bullets, 100 grams of bullets.
-
-The suspects are the main disciples of the Rotumba Amila, a member of the Rotumba Amila, who is currently conducting a criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal crime, SB. Preliminary investigations have revealed that Kumarasey had been shot dead.
-
-...
-
-[Data](articles/b96a9083.json)
-
-[Extended Data](ext_articles/b96a9083.ext.json)
-
----
-
-### Baby the Baby Birth
-
-*2024-07-12 10:07:28* · [`adalk`](https://www.ada.lk/breaking_news/බබා-කාගෙවත්ලු-උප්පැන්නේ-කාගෙවත්ලු/11-410754) · `si`
-
-Susil Premajayantha, Minister of Education, announced that all activities at the Sri Lanka Education University were completed in the last two years. He mentioned that the current President had discussions with the Colleges of Science regarding professional competencies, reminiscent of the Minister of Education's role in 1986. The launch of the Education University is imminent, with the Minister emphasizing the importance of not allowing the university to serve narrow political interests in future administrations.
-
-🟩
-
-Minister of Education Susil Premajayantha said that all the activities of the Sri Lanka Education University has been completed within the past two years.
-
-The Minister further stated that the present President has met with the Colleges of Science to meet the professional competencies of the Ministry of Education in 1986 as the Minister of Education in 1986.The University of Education will be launched. The Minister said that such a situation in such a background, the Minister said that it would be to ensure the narrow political goals claiming that the university was built in his future regimes.
-
-◼️
-
-[Data](articles/f209b74e.json)
-
-[Extended Data](ext_articles/f209b74e.ext.json)
 
 ---

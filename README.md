@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 17:36:03**
+As of **2024-07-12 17:56:08**
 
 ## Newspaper Stats
 
-*Scraped **34,982** Articles*
+*Scraped **34,983** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 4,019
 tamilmirrorlk | 4,192
 dailymirrorlk | 4,733
 virakesarilk | 5,475
-adaderanasinhalalk | 5,823
+adaderanasinhalalk | 5,824
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,982 (100.0%) of 34,982 articles have been extended.
+34,982 (100.0%) of 34,983 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,20 @@ Former Health Minister Keheliya Rambukwella and six others, arrested over the al
 [Data](articles/abdf54e5.json)
 
 [Extended Data](ext_articles/abdf54e5.ext.json)
+
+---
+
+### කෙහෙළිය යළිත් රිමාන්ඩ්
+
+*2024-07-12 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198747) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් 07 දෙනෙකු ජුලි මස 25 වනදා දක්වා අද (12) යළිත් රක්ෂිත බන්ධනගාරගතකර තිබේ.
+
+සැකකරුවන් මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී ඇත.
+
+◼️
+
+[Data](articles/034cbd3c.json)
 
 ---
 
@@ -2287,21 +2301,5 @@ Similarly, the investigation into the disappearances of the missing persons, inc
 [Data](articles/5c698fd0.json)
 
 [Extended Data](ext_articles/5c698fd0.ext.json)
-
----
-
-### National Chamber of Exporters expresses concern over Customs disruptions
-
-*2024-07-12 01:46:13* · [`dailyftlk`](https://www.ft.lk/news/National-Chamber-of-Exporters-expresses-concern-over-Customs-disruptions/56-764177) · `en`
-
-National Chamber of Exporters of Sri Lanka (NCE) said yesterday that the recent actions taken by the Sri Lanka Customs Officers’ Union, including a two-day “sick leave” campaign and work-to-rule initiatives, have had profound implications across Sri Lanka’s business community, particularly affecting exporters and importers. It said these actions were initiated due to perceived grievances and unmet demands from the Customs Officers’ Union on various issues.
-
-NCE President Jayantha Karunaratne highlighted the significant disruptions caused by these actions. He emphasised that the work-to-rule approach has resulted in substantial delays in clearing imported goods at ports and checkpoints, causing disruptions in production schedules and logistical operations. These delays have particularly impacted exporters, who face stringent deadlines to fulfil international orders, leading to strained relationships with overseas buyers and potential financial penalties for missed deliveries.
-
-...
-
-[Data](articles/680d406d.json)
-
-[Extended Data](ext_articles/680d406d.ext.json)
 
 ---

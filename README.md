@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 14:07:02**
+As of **2024-07-12 14:19:59**
 
 ## Newspaper Stats
 
-*Scraped **34,950** Articles*
+*Scraped **34,954** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,80 @@ adalk | 3,150
 adaderanalk | 4,014
 tamilmirrorlk | 4,183
 dailymirrorlk | 4,733
-virakesarilk | 5,471
+virakesarilk | 5,475
 adaderanasinhalalk | 5,814
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,949 (100.0%) of 34,950 articles have been extended.
+34,950 (100.0%) of 34,954 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
 
-### තව තවත් පැටලෙන බයිඩන්
+### நுவரெலியாவில் பாரவூர்தி மோதி கோர விபத்து - இருவர் வைத்தியசாலையில்
+
+*2024-07-12 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188288) · `ta`
+
+நுவரெலியா பொலிஸ் நிலையத்திற்கு முன்  இடம்பெற்ற வாகன விபத்தில் இருவர் படுகாயமடைந்துள்ளதாக  பொலிஸார் தெரிவித்தனர்.
+
+நுவரெலியா மாநகர சபைக்கு சொந்தமான கழி அகற்றும் பௌசர் நுவரெலியா மாவட்ட காரியாலயத்திற்கு முன்பாக வேக கட்டுப்பாட்டை இழந்து எதிர் திசையில் சென்ற காருடன் மோதி மீண்டும் நுவரெலியா பொலிஸ் நிலையத்திற்கு முன்பாக பாதசாரிகள் கடவையில் நடந்து சென்ற இருவர் மீது மோதியதில் பலத்த காயம் அடைந்த நிலையில் நுவரெலியா மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளன.
+
+குறித்த விபத்து இன்று வெள்ளிக்கிழமை (12) இடம்பெற்றுள்ளதாகவும் மாநகர சபை வாகனத்தை செலுத்திய சாரதி பொலிஸாரால் கைது செய்யப்பட்டுள்ளதாக தெரிவித்தனர்.
+
+குறித்த பாரவூர்தி சாரதியின் கவனயீனத்தினாலும், வானத்தின் தடையாளி உரிய வகையில் இயங்காமையால் இவ்விபத்து நேர்ந்துள்ளது என பொலிஸார் சந்தேகிக்கின்றனர்.
+
+◼️
+
+[Data](articles/0fdfafd6.json)
+
+---
+
+### பதுளை - கந்தகெட்டிய பகுதியில் சட்ட விரோதமான முறையில் மாடுகளை ஏற்றிச் சென்ற வாகனம் கைப்பற்றல்
+
+*2024-07-12 13:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/188293) · `ta`
+
+சட்ட விரோதமான முறையில் மாடுகளை ஏற்றிச் சென்ற பொலேரோ ரக கெப் வண்டி ஒன்றை 9  மாடுகளுடன் இன்று (12) காலை பதுளை மஹியங்கனை வீதி 15 ம் கட்டை பகுதியில் வைத்து கைப்பற்றியுள்ளதாக கந்தகெட்டிய பொலிஸார் தெரிவித்தனர்.
+
+கந்தகெட்டிய பொலிஸ் நிலைய பொறுப்பதிகாரி மங்கள திஸாநாயக்கவுக்கு  கிடைக்கப்பெற்ற இரகசிய தகவலுக்கு அமைய பொலிஸ் நிலைய பொறுப்பதிகாரியின் தலைமையில் பொலிஸ் குழுவொன்று இன்று அதிகாலை 2.30 மணியளவில் வீதி தடைகளை அமைத்து சோதனை நடவடிக்கையில் ஈடுபட்டிருந்த போது வாகனத்தை  வழிமறித்துள்ளனர்.
+
+இதன்போது வாகனத்தில் வந்த சந்தேக நபர்கள் வீதி தடைகளை கண்டு வாகனத்தை நிறுத்திவிட்டு தப்பி சென்றுள்ளதோடு,  சந்தேக நபர்களை கைது செய்யும் நடவடிக்கையில் பொலிஸார் ஈடுபட்டு வருகின்றனர்.
+
+வாகனத்தில் 3 பசு மாடுகளும் 6 கன்றுகளும் இருந்ததாகவும் அதில் ஒன்று இறந்த நிலையில் காணப்பட்டதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/0dfcc163.json)
+
+---
+
+### Bideen that adds more
 
 *2024-07-12 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198736) · `si`
 
-අමෙරිකාවේ වොෂින්ටන්හි පැවති 2024 නේටෝ සමුළුව අමෙරිකානු ජනාධිපති ජෝ බයිඩන් ට ඉතා වැදගත් විය.
+The NATO summit in Washington was crucial for President Joe Biden, aimed at addressing controversies surrounding his presidential candidacy. Despite initial optimism, the event was marred by a naming blunder involving Ukrainian President Zelenskyy, which critics argue escalated into a significant misstep for Biden's campaign.
 
-ඒ මෙම සමුළුව පැවැත්වෙන්නේ ජනාධිපති බයිඩන් ගේ ජනාධිපතිවරණ අපේක්ෂකත්වය සම්බන්ධයෙන් මතභේදයක් උද්ගතව ඇති පසුබිමක වීම හේතුවෙනි.
+🟩
 
-ජනපති බයිඩන් විශ්වාස කළේ එය ජනාධිපති අපේක්ෂකත්වය සඳහා තමන් සුදුසු බවට අනෙකුත් රාජ්‍ය නායකයින් හමුවේ ඔප්පු කර පෙන්වීමට අවස්ථාවක් ලෙසට ය.
+The NATO summit in Washington, USA was very important to American President Joe Biden.
 
-කෙසේ වුවත් නේටෝ හමුවක් අතරතුරදී ජනපති බයිඩන්, යුක්‍රේන ජනාධිපති සෙලෙන්ස්කි ගේ නම පුටින් ලෙස පවසා ඇත.
+The conference is held due to a controversial environment for the presidential presidential candidature of President Bidon.
 
-ඉන් පැය කිහිපයකට පසුව, ජනාධිපති බයිඩන් ගේ ජනාධිපති අපේක්ෂකත්වය කේන්ද්‍ර කරගනිමින් පැවති මාධ්‍ය හමුවකදීත් ජනපති බයිඩන් ට එවැනිම වචන පටලැවිල්ලක් සිදුව තිබේ.
+President Biden believed as an opportunity to prove that it was appropriate for the presidential candidate.
 
-මෙය ජනපති බයිඩන් ගේ ජනාධිපතිවරණ අපේක්ෂකත්වය පිළිබඳව උද්ගතව ඇති මතභේද තවත් තීව්‍ර කරන සිදුවීමක් බව විචාරකයෝ පවසති.
+However, during a meeting NATO, President Bidain has said the name of Ukrainian President Selenceky's name.
+
+A few hours later, a media briefing held by President Bidon's presidential candidate has also had the same word conflict.
+
+Criticists say that this is an intensifying incident that the President's presidential candidate is a decent incident.
 
 ◼️
 
 [Data](articles/93b305ce.json)
+
+[Extended Data](ext_articles/93b305ce.ext.json)
 
 ---
 
@@ -93,6 +135,36 @@ After considering a petition presented by the President's Counsel Senaka Walgamp
 [Data](articles/8b9241e1.json)
 
 [Extended Data](ext_articles/8b9241e1.ext.json)
+
+---
+
+### வட்டகொடை தோட்ட தொழிலாளர்கள் கவனயீர்ப்பு போராட்டம்
+
+*2024-07-12 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/188296) · `ta`
+
+1,700 ரூபாய் நாளாந்த சம்பளத்தை தோட்டத் தொழிலாளர்களுக்கு உடனடியாக வழங்க தோட்டக் கம்பனிகள் நடவடிக்கை எடுக்க வேண்டும் என வட்டகொடை தோட்ட தொழிலாளர்கள் நேற்று வெள்ளிக்கிழமை  (12)  ஆர்ப்பாட்டத்தில் ஈடுபட்டுள்ளனர்.
+
+தலவாக்கலை பொலிஸ் பிரிவுக்குட்பட்ட வட்டகொடை தோட்டத்தைச் சேர்ந்த வட்டகொடை மேற்பிரிவு, வட்டகொடை கீழ்பிரிவு மற்றும் யொக்ஸ்போட் ஆகிய தோட்ட பிரிவுகளைச் சேர்ந்த தொழிலாளர்கள் அத்தோட்ட தேயிலை தொழிற்சாலைக்கு அருகாமையில் இன்று வெள்ளிக்கிழமை (12) இந்த கவனயீர்ப்பு போராட்டத்தை முன்னெடுத்தனர்.
+
+...
+
+[Data](articles/5ff6aa69.json)
+
+---
+
+### பிரதமர் யாழ்ப்பாணத்திற்கு விஜயம்
+
+*2024-07-12 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/188295) · `ta`
+
+பொதுநிர்வாக உள்நாட்டலுவல்கள், மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சரான பிரதமர் தினேஷ் குணவர்தன யாழ்ப்பாணத்திற்கு இன்று வெள்ளிக்கிழமை (12) விஜயம் மேற்கொண்டுள்ளார்.
+
+முன்னதாக இன்றைய தினம் வெள்ளிக்கிழமை காலை யாழ்ப்பாண மாவட்ட அபிவிருத்திக் குழு கூட்டத்தில் கலந்து கொள்ளும் பிரதமர், தொடர்ந்து, சுன்னாகத்தில் நிர்மாணிக்கப்பட்ட புதிய தபால் நிலைய கட்டிட திறப்பு விழா, கடற்றொழிலாளர் குடும்பங்களுக்கு மீன்பிடி சாதனங்கள் மற்றும் உலர் உணவுகள் விநியோக நிகழ்வு, தற்காலிக அடிப்படையில் நியமனம் செய்யப்பட்ட அரச ஊழியர் குழுவிற்கு நிரந்தர நியமனம் வழங்கும் நிகழ்வுகளில் பங்கேற்கவுள்ளார்.
+
+அவற்றினை தொடர்ந்து கிளிநொச்சி மாவட்ட செயலகத்தில் அமைந்துள்ள புதிய வர்த்தக சேவை நிலைய திறப்பு விழா, கிளிநொச்சி மாவட்ட அபிவிருத்திக் குழு கூட்டத்திலும் பிரதமர் பங்கேற்பார்.
+
+◼️
+
+[Data](articles/2ffcfed3.json)
 
 ---
 
@@ -2147,117 +2219,5 @@ In this case, it has been announced that the train service will take place as us
 [Data](articles/a56e8802.json)
 
 [Extended Data](ext_articles/a56e8802.ext.json)
-
----
-
-### Aditi Shankar joins Arjun Das for the first time
-
-*2024-07-11 21:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/188243) · `ta`
-
-Aditi Shankar teams up with Arjun Das for the first time in an untitled movie directed by Vignesh Srikanth. Known for his role in 'Kaidi', Arjun Das plays the lead alongside Aditi. The film, produced by Yuvraj Ganesan under Million Studios, has sparked fan interest.
-
-🟩
-
-Although he is famous for his debut in Tamil film 'Kaidi', the film crew has released a photo of the film crew, who is playing the role of actor Arjun Das, who has once again played the lead role as the hero of the story.
-
-Arjun Das and Aditi Shankar are playing the lead role in the untitled movie directed by debutant director Vignesh Srikanth. The film, which is being recorded by Arvind Viswanathan, is produced by producer Yuvraj Ganesan on behalf of Million Studios.
-
-V.. R. The film's inauguration of the film, which works as the co -producer of Vamsi, was held in Chennai.
-
-'Magnetic Kurlon' Arjun Das - The first time Aditi Shankar has joined the filmmakers, the filmmakers expect the fans to encourage fans.
-
-Because of this, the film has been a great interest in fans.
-
-◼️
-
-[Data](articles/4f950534.json)
-
-[Extended Data](ext_articles/4f950534.ext.json)
-
----
-
-### The human billage of the railway strike
-
-*2024-07-11 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198719) · `si`
-
-A train ride from Colombo to Polgahawela honored a deceased passenger, a 51-year-old man from Attanagalla, known for his work at a local food market. Police confirmed his identity, and a post-mortem examination is scheduled for tomorrow at Vathupitiwala Hospital.
-
-🟩
-
-Due to the passenger traffic at a train from Colombo to Polgahawela yesterday, the commitment of the train was in recognition of the deceased.
-
-The deceased has been identified as a 51 year old resident of Attanagalla, Attanagalla.
-
-Police said he was a bass in a food make in Colombo area.
-
-The post mortem will be conducted at the Vathupitiwala Hospital tomorrow (12).
-
-◼️
-
-[Data](articles/62f9f53b.json)
-
-[Extended Data](ext_articles/62f9f53b.ext.json)
-
----
-
-### The workplace of the railway principals ended!
-
-*2024-07-11 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/188259) · `ta`
-
-The railway principals' strike has concluded, as announced by the Railway Principals Association Secretary. In response, Trade, Highways, and Media Minister Dr. Bandula Gunawardena has decided to resign from his position effective midnight on Thursday, 11th. He assured no disciplinary action would be taken against workers reporting by midnight but warned of consequences for those not complying. This decision was made during a meeting at the former Speaker Karu Jayasuriya's official residence.
-
-🟩
-
-The Secretary of the Railway Principals Association said that the railway principals' work strike has come to an end today (Thursday 11th).
-
-Trade, Highways and Media Minister Dr. Bandula Gunawardena has decided to quit work from midnight on Thursday 11th of Thursday, in accordance with the authorities of the Railway Regulators and Station Principals Association.
-
-Accordingly, the minister has informed union officials that disciplinary action will not be taken against the officers who are working on the work by 12 midnight today.
-
-The Minister also stressed that if there is any non -working authorities, appropriate action will be taken against them.
-
-The discussion was held at the official residence of former Speaker Karu Jayasuriya.
-
-◼️
-
-[Data](articles/434ed424.json)
-
-[Extended Data](ext_articles/434ed424.ext.json)
-
----
-
-### New story about the two shooting of Club Wasantha
-
-*2024-07-11 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198718) · `si`
-
-In Athurugiriya, after opening a tattoo center, Club Wasantha was targeted by gunmen. CCTV footage shows two shooters entering the club, firing indiscriminately, and escaping. The attackers were skilled and possibly linked to security forces, raising concerns among investigators. The incident highlights the dangers faced by public figures in Sri Lanka.
-
-🟩
-
-When Sirithndra went to open a tattout center in the Athurugiriya, we have received more cCTV footage to shoot at the gunshot at the Athulgiriya.
-
-After opening the Tatu Center, Club spring is sitting in the lift and eating milk.
-
-It was in the meantime to take fire on firearms with firearms and the top nearest tative.
-
-The person who had taken over the front of the center they saw was found in scenes that open something.
-
-At the same time, one of the two shooters enter Club spring without any misinformation.
-
-A bullet in a bullets of the shooter's firearm, he is seen aside.
-
-His guards, including his guards sitting at the place where Club is located near the place of fire, is also found in CCTV footage.
-
-The CCTV camera has noted how the owner of the Tative organizations and shooters will visit.
-
-Police officers say that two pregnancies were used by Selotep to the two firearmarian.
-
-According to police, both of them were running and shooting firearms and shooting were well-trained shooters.
-
-...
-
-[Data](articles/47a265bb.json)
-
-[Extended Data](ext_articles/47a265bb.ext.json)
 
 ---

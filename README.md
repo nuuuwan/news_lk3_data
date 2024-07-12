@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 16:20:00**
+As of **2024-07-12 16:35:23**
 
 ## Newspaper Stats
 
-*Scraped **34,976** Articles*
+*Scraped **34,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ adaderanalk | 4,016
 tamilmirrorlk | 4,192
 dailymirrorlk | 4,733
 virakesarilk | 5,475
-adaderanasinhalalk | 5,820
+adaderanasinhalalk | 5,822
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,974 (100.0%) of 34,976 articles have been extended.
+34,976 (100.0%) of 34,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
+
+### අලුත උපන් පැටවු
+
+*2024-07-12 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198744) · `si`
+
+ශ්‍රී ලංකා පොලීසිය විසින් ජුනි මස 05 වනදා පොලිස් නිල සුනඛ කොට්ඨාසය වෙත නෙදර්ලන්තයේ සිට නිල සුනඛයින් 35 දෙනෙකු ආනයනය කර තිබුණි.
+
+ඉන් බැලලියන් දෙදෙනෙකු විසින් පැටවුන් 13 දෙනෙකු බිහි කර තිබේ.
+
+තවත් ගැහැණු සත්ත්වයෙකු පැටවුන් බිහි කිරීමේ සූදානමින් පසුවෙන බවද පොලිස් නිල සුනඛ කොට්ඨාසය පවසයි.
+
+ඉංග්ලිෂ් ස්පැනියෙල් (English Spaniel) වර්ගයේ Tempard නම් නිල සුනඛයා විසින් පිරිමි පැටවුන් 03ක් සහ ගැහැණු පැටවුන් 03ක් ද, Lea විසින් පිරිමි පැටවුන් 03ක් සහ ගැහැණු පැටවුන් 04 දෙනෙකු බිහි කර ඇත.
+
+මෙම පැටවුන් මහනුවර කුණ්ඩසාලේ පිහිටි අස්ගිරිය පොලිස් නිල සුනඛ මූලස්ථානයේ නිරෝගීව පසුවෙන බවද පොලිස් නිල සුනඛ කොට්ඨාසය පවසයි.
+
+නව පැටවුන් බිහිවීම තුළින් රුපියල් මිලියන 25කට වැඩි මුදලක් ඉතිරි කරගැනීමට ශ්‍රී ලංකා පොලීසියට හැකියාව ලැබෙනු ඇතැයි සඳහන් ය.
+
+◼️
+
+[Data](articles/a09d5ee6.json)
+
+---
+
+### නව නීතිපති ලෙස පාරින්ද රණසිංහ පත් කෙරෙයි
+
+*2024-07-12 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198743) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් නව නීතිපතිවරයා ලෙස පාරින්ද රණසිංහ මහතාව අද (12) පත්කර තිබේ.
+
+ඡ්‍යේෂ්ඨ අතිරේක සොලිසිටර් ජනරාල්වරයෙකු ලෙස කටයුතු කළ ඒ මහතාගේ අදාළ පත්වීම සඳහා ව්‍යවස්ථාදායක සභාව විසින් අනුමත ලබාදීමෙන් අනතුරුව මෙම පත්කිරීම සිදුකර ඇත.
+
+නීතිපති ධුරයේ කටයුතු කළ සංජේ රාජරත්නම් මහතාගේ ධුර කාලය පසුගිය 26 වනිදායින් අවසන් වීමත් සමඟ නීතිපති ධුරය පුරප්පාඩු වී පැවතුණි.
+
+පාරින්ද රණසිංහ මහතා මෙරට හිටපු අගවිනිසුරුවරයෙකු වන කේ.ඒ.පාරින්ද රණසිංහ මහතාගේ පුත්‍රයෙකු වෙයි.
+
+◼️
+
+[Data](articles/f961c188.json)
+
+---
 
 ### Parinda Ranasinghe appointed as new Attorney General
 
@@ -46,29 +86,39 @@ The former Senior Additional Solicitor General was recently appointed as the Act
 
 [Data](articles/c6296747.json)
 
+[Extended Data](ext_articles/c6296747.ext.json)
+
 ---
 
-### එක් ආර්ථික ක්‍රමයක් අනුව රට ඉදිරියට ගෙන යා යුතුයි
+### The country should be carried forward according to one economic system
 
 *2024-07-12 15:53:49* · [`adalk`](https://www.ada.lk/breaking_news/එක්-ආර්ථික-ක්‍රමයක්-අනුව-රට-ඉදිරියට-ගෙන-යා-යුතුයි/11-410757) · `si`
 
-බිංගිරිය අපනයන සැකසුම් කලාපයේ දෙවන සහ තෙවන අදියරේ සංවර්ධන කටයුතු ජනපති ප්‍රධානත්වයෙන් ඇරඹේ
+The President emphasizes strengthening Sri Lanka's economy through developing the Bingiriya Export Processing Zone, aiming for $2.6 billion in exports post-completion. Plans include enhancing sectors like agriculture, manufacturing, IT, and tourism. New investment zones are proposed to boost exports further.
 
-ක්ෂේත්‍ර 05ක් ඔස්සේ බිංගිරිය ප්‍රධාන ආර්ථික කලාපයක් ලෙස සංවර්ධනය කිරීමට සැලසුම්.
+🟩
 
-ආයෝජන කලාපය සම්පූර්ණයෙන් නිම වීමෙන් පසු ඇමරිකන් ඩොලර් මිලියන 2600ක අපනයන ආදායමක්.
+President commences development of second and third phase of the Bingiriya Export Processing Zone
 
-රටේ අපනයන ආර්ථිකය ශක්තිමත් කිරීම වෙනුවෙන් නව ආයෝජන කලාප ඇති කිරීමට කටයුතු කරනවා.
+Plans to develop the Bing as a major economic zone along with five fields.
 
-අපනයන ආර්ථිකය, නිෂ්පාදන, සංචාරක හා තාක්ෂණ අංශ මෙන්ම නවීන කෘෂිකර්මාන්තය දියුණු කිරීම තුළින් රට තුළ ශක්තිමත් ආර්ථිකයක් ගොඩනැඟිය හැකි බවත්, ඒ සඳහා මූලික පදනම මේ වන විට ආණ්ඩුව විසින් තබා තිබෙන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+After completing the investment zone, an export income of US $ 2600 million.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ ශ්‍රී ලංකාවේ විශාලතම අපනයන සැකසුම් කලාපය ලෙස අක්කර 1000ක පමණ වපසරියක් සහිත බිංගිරිය අපනයන සැකසුම් කලාපයේ දෙවන සහ තුන් වන අදියරේ සංවර්ධන කටයුතු ආරම්භ කිරීම වෙනුවෙන් අද(12) පැවති උත්සවයට එක්වෙමිනි.
+Steps will be taken to establish new investment zones to strengthen the country's export economy.
 
-රටේ අපනයන ආර්ථිකය ශක්තිමත් කිරීම වෙනුවෙන් නව ආයෝජන කලාප ඇති කිරීමට කටයුතු කරන බවද ජනාධිපතිවරයා මෙහිදී පැවසීය.
+President Ranil Wickremesinghe said that the economy could be established in the country by improving the export economy, products, tourism and technology as well as the development of modern agriculture.
+
+The President was speaking at a function held in the Bingiriya Export Processing Zone today (12) in the Bingiriya Export Processing Zone today (12).
+
+The President also said that new investment zones will be established to strengthen the country's export economy.
+
+Agent is expected to get an export earnings of $ 2600 million after the completion of the Bingiriya Investment Zone.
 
 ...
 
 [Data](articles/384ab4eb.json)
+
+[Extended Data](ext_articles/384ab4eb.ext.json)
 
 ---
 
@@ -2245,51 +2295,5 @@ The project is important in enhancing urban mobility and supporting economic gro
 [Data](articles/c06bdeea.json)
 
 [Extended Data](ext_articles/c06bdeea.ext.json)
-
----
-
-### Sri Lanka won Bangladesh easily;India advanced to the finals of the Maldives
-
-*2024-07-12 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/188260) · `ta`
-
-Sri Lanka defeated Bangladesh 93-56 in the South Asian Basketball Championships U18, improving from a loss to India earlier. Despite initial struggles, Sri Lanka outperformed in subsequent games, especially in the final match against Bangladesh. Meanwhile, India secured its place in the finals by overwhelming the Maldives 117-43, showcasing dominance throughout the tournament.
-
-🟩
-
-Sri Lanka won Bangladesh by 93 - 56 at the South Asian Basketball Championships under the age of 18 at the Sugathadasa Indoor Stadium in Colombo on Thursday night.
-
-Sri Lanka lost the first match against India.
-
-However, in the match, the chance to get 100 points in Sri Lanka, which has made a number of mistakes and missed many shots, including laying shots.
-
-Even Senaratne scored 17 points, Diluk Samarawickrama 15 points and Terran Bernard Antony scored 12 points.
-
-At the last phase, Daruka Jayasundara, who was unloaded, played very efficiently and scored 7 points, including 2 Three Liars.
-
-In the next match, both Roshan Randima and Shane Deniels were welcomed to give him an additional chance.. It is certain that the trainees would have realized that it was wrong for him to not be given a chance in a match with India.
-
-Sri Lanka scored 23 - 14 in the first match of the match against Bangladesh.
-
-...
-
-[Data](articles/4e5eb577.json)
-
-[Extended Data](ext_articles/4e5eb577.ext.json)
-
----
-
-### Decarbonising the supply chain: Role of digital technologies
-
-*2024-07-12 01:24:15* · [`dailyftlk`](https://www.ft.lk/columns/Decarbonising-the-supply-chain-Role-of-digital-technologies/4-764165) · `en`
-
-A series of small steps that can incrementally reduce carbon emissions is a prudent way to  commence your journey towards decarbonisation
-
-The need to decarbonise your supply chain has eventually escalated to a now or never situation with the ever-increasing climate changes. Managers have an ethical and legitimate responsibility of helping their business firms to initiate decarbonising at the earliest to make the operations sustainable and allow the ecosystems to coexist
-
-...
-
-[Data](articles/7b940612.json)
-
-[Extended Data](ext_articles/7b940612.ext.json)
 
 ---

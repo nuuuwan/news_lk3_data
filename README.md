@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 05:20:08**
+As of **2024-07-12 05:37:42**
 
 ## Newspaper Stats
 
-*Scraped **34,892** Articles*
+*Scraped **34,895** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 312
 colombotelegraphcom | 324
 bbccomsinhala | 340
 newsfirstlk | 363
-islandlk | 1,957
+islandlk | 1,960
 economynextcom | 2,068
 dailyftlk | 2,203
 adalk | 3,146
@@ -26,27 +26,35 @@ adaderanasinhalalk | 5,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,891 (100.0%) of 34,892 articles have been extended.
+34,892 (100.0%) of 34,895 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
 
-### ’மக்களின் பாதுகாப்பு கடும் அச்சுறுத்தல்’
+### The security of the people is a serious threat
 
 *2024-07-12 02:57:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களின்-பாதுகாப்பு-கடும்-அச்சுறுத்தல்/175-340273) · `ta`
 
-சட்டம் ஒழுங்கு சீர்குலைந்து மக்களின் பாதுகாப்பு அச்சுறுத்தலுக்கு உள்ளாகியுள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+Opposition leader Sajith Premadasa criticizes the government for failing to maintain law and order, urging it to act and offering support. He highlights widespread fear and violence, emphasizing the government's responsibility to ensure public safety. Despite acknowledging efforts towards public safety, he calls for more action and legislative intervention.
 
-இதேவேளை, சட்டம் ஒழுங்கை நடைமுறைப்படுத்தி, மக்களின் பாதுகாப்பை உறுதிப்படுத்த அரசாங்கம் உரிய நடவடிக்கைகளை முன்னெடுக்க வேண்டும் என்றும், அதற்கு தேவையான ஒத்துழைப்புகளை வழங்குவதற்கு தாம் தயார் என்றும் எதிர்க்கட்சித் தலைவர் தெரிவித்துள்ளார்.
+🟩
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (11) விசேட கூற்றை முன்வைத்து உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் இவ்வாறு கூறினார்.
+Opposition leader Sajith Premadasa says that law and order has been threatened by the security of the people.
 
-நாட்டில் சட்டம் ஒழுங்கு தொடர்பில் பாரிய பிரச்சினைகள் ஏற்பட்டுள்ளன. வருகிறார்கள், தாக்குதல் நடத்துகிறார்கள், போகிறார்கள். எல்லா இடங்களிலும் வன்முறைகள் தலைதூக்கியுள்ளன. இது தொடர்பில் மக்களிடையே பெரும் அச்சம் ஏற்பட்டுள்ளது. சந்தேகங்கள் ஏற்பட்டுள்ளன.
+Meanwhile, the Opposition Leader said that the government should take appropriate measures to implement law and order and ensure the safety of the people, and that he is ready to provide the necessary cooperation.
+
+The Opposition Leader said this while addressing a special statement in Parliament on Thursday (11).
+
+There have been massive issues regarding law and order in the country. Come, attack, go. Violence is headed everywhere. There has been great fear among the people in this regard. There have been doubts.
+
+It is the duty of the government to ensure the safety of the people. There has been a major issue regarding security. How are you going to solve this. We will provide our cooperation to prevent this. Killings happen. We have to talk about this. This is the problem that people face.
 
 ...
 
 [Data](articles/9e42a482.json)
+
+[Extended Data](ext_articles/9e42a482.ext.json)
 
 ---
 

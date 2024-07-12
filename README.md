@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 12:53:32**
+As of **2024-07-12 13:04:58**
 
 ## Newspaper Stats
 
-*Scraped **34,944** Articles*
+*Scraped **34,946** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,89 @@ islandlk | 1,968
 economynextcom | 2,072
 dailyftlk | 2,203
 adalk | 3,150
-adaderanalk | 4,013
+adaderanalk | 4,014
 tamilmirrorlk | 4,181
 dailymirrorlk | 4,733
-virakesarilk | 5,470
+virakesarilk | 5,471
 adaderanasinhalalk | 5,812
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,938 (100.0%) of 34,944 articles have been extended.
+34,944 (100.0%) of 34,946 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
 
-### க்ளப் வசந்தவின் இறுதி சடங்கு ; மலர்ச்சாலைக்கு அச்சுறுத்தல் ; பாதுகாப்பு பலப்படுத்தப்பட்டுள்ளது
+### 2 buses carrying at least 60 swept into river by landslide in Nepal
+
+*2024-07-12 12:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100461/2-buses-carrying-at-least-60-swept-into-river-by-landslide-in-nepal) · `en`
+
+At least 60 people were believed missing in Nepal after two buses were swept by a landslide off a highway and into a swollen river early Friday.
+
+Three passengers were rescued as the continuous rain made rescue efforts difficult.
+
+The three survivors were being treated in the hospital, government administrator Khima Nanada Bhusal said, adding that they reportedly jumped out of the bus and swam to the banks, where locals found them and took them to a nearby hospital.
+
+Landslides also blocked routes to the area in several places, according to Bhusal. Additional rescuers and security forces have been sent to help with rescue efforts.
+
+The buses were swept off the highway around 3 a.m. near Simaltal, about 120 kilometers (75 miles) west of the capital, Kathmandu.
+
+One bus was carrying at least 24 people, while the other had at least 42, but more could have boarded en route, Bhusal said.
+
+...
+
+[Data](articles/e8fde62d.json)
+
+---
+
+### யாழ். போதனாவில் என்பு மச்சை மாற்று சத்திர சிகிச்சை நிலையம்
+
+*2024-07-12 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188282) · `ta`
+
+இரத்த புற்றுநோய் மற்றும் அதனோடு இணைந்த நோய்களுக்கான சிகிச்சைகளுக்கு வழங்க கூடிய என்புமச்சை மாற்று சத்திர சிகிச்சை நிலையம் ((Bone Marrow Transplant Unit)) யாழ் போதனா வைத்தியசாலையில் ஆரம்பிக்கப்பட்டுள்ளது.
+
+இலங்கையில் இவ்வாறான சிகிச்சை நிலையம் மகரகம வைத்தியசாலை மற்றும் கொழும்பு சிறுவர் வைத்தியசாலை ஆகிய இரண்டில் மாத்திரம் இதுவரை காணப்பட்ட நிலையில் யாழ்.போதனா வைத்தியசாலை மூன்றாவது நிலையமாக பதிவு பெறுகின்றது.
+
+இவ்வாறான சிகிச்சையை தனியார் வைத்தியசாலை அல்லது இந்தியா போன்ற வெளிநாடுகளில் பெறுவதாயின் பல மில்லியன் செலவீனம் ஏற்படும்.
+
+இந்த சிகிச்சை மிகவும் சிக்கலான விடயங்களை கொண்டுள்ளது. அத்துடன் இரண்டு விஷேட படுக்கை அறைகளை கொண்டுள்ளது. எனவே மாதம் ஒன்றில் இருவருக்கு மாத்திரம் சிகிச்சை செய்யமுடியும்.
+
+சுகாதார அமைச்சின் வழிகாட்டுதலின் அடிப்படையில் வைத்திய நிபுணர்களின் கடுமையான முயற்சியில் பல சிரமங்களுக்கு மத்தியில் ஆரம்பிக்கப்பட்டுள்ளது.
+
+குறித்த சிகிச்சை பிரிவு சுகாதார அமைச்சர் ரமேஸ் பத்திரனவால் எதிர்வரும் கிழமை உத்தியோகபூர்வமாக ஆரம்பித்து வைக்கப்படும் என தெரிவிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/8d554f9d.json)
+
+---
+
+### The funeral of the club spring;Threatening to flower;Security has been strengthened
 
 *2024-07-12 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188279) · `ta`
 
-அத்துருகிரியவில் சுட்டுக் கொலை செய்யப்பட்ட 'கிளப் வசந்த' என்றழைக்கப்படும் சுரேந்திர வசந்த பெரேராவின் இறுதி சடங்கு தொடர்பில் கொழும்பிலுள்ள மலர்ச்சாலைக்கு அச்சுறுத்தல் விடுக்கப்பட்டுள்ளது.
+"Following the murder of Club Vasantha in Athurugiriya, threats have led to heightened security measures, including special checkpoints in Mannar to prevent suspects from escaping to India. Security around airports and other potential exit points has also been increased."
 
-கிளப் வசந்தவின் பூதவுடலை வைக்க அனுமதிக்க வேண்டாம் என மலச்சாலைக்கு அச்சுறுத்தல் விடுத்து  தொலைபேசி அழைப்பொன்று வந்துள்ள நிலையில் பாதுகாப்பு பலப்படுத்தப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+🟩
 
-இதேவேளை, அத்துருகிரிய துப்பாக்கிச் சூட்டை நடத்திய சந்தேகநபர்கள் கடல் வழியாக இந்தியாவுக்குத் தப்பிச் செல்ல முற்படலாம் என புலனாய்வுப் பிரிவினருக்கு கிடைத்த தகவலின் பேரில் மன்னாரில்  விசேட சோதனைச் சாவடிகள் அமைக்கப்பட்டுள்ளன.
+Surendra Vasantha Perera, known as 'Club Vasantha', which was shot dead in Athurugiriya, has been threatened with a funeral in Colombo.
 
-அத்துடன், சந்தேக நபர்கள் நாட்டை விட்டு தப்பிச் செல்வதைத் தடுக்க விமான நிலையங்கள் மற்றும் பிற இடங்களுக்கு பாதுபாப்பை பலப்படுத்த அறிவிக்கப்பட்டுள்ளது.
+Security has been strengthened as a telephone call has been made by threatening the constipation not to allow the club spring to be kept.
 
-எவ்வாறாயினும், மன்னார் ஊடாக தப்பிச் செல்லும் அபாயம் அதிகரித்திருப்பதன் காரணமாக பல விசேட சோதனைச் சாவடிகள் மற்றும் வீதித் தடைகள் அமைக்கப்பட்டுள்ளன.
+Meanwhile, special checkpoints have been set up in Mannar on information received by the intelligence agencies that the suspects who carried out the Athurugiriya shooting may seek to escape to India by sea.
+
+In addition, the suspects have been informed to strengthen security to airports and elsewhere to prevent the country from fleeing the country.
+
+However, a number of special checkpoints and roadblocks have been set up due to the increase in the risk of fleeing through Mannar.
 
 ◼️
 
 [Data](articles/7a3e1925.json)
+
+[Extended Data](ext_articles/7a3e1925.ext.json)
 
 ---
 
@@ -72,17 +122,23 @@ State Minister for Transport Lasantha Alagiyawanna, made this statement during a
 
 ---
 
-### யாழ்.போதனா இரத்த வங்கி விடுத்துள்ள அவசர அறிவித்தல்!
+### Emergency Notice issued by Jaffna Bodhana Blood Bank!
 
 *2024-07-12 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/188277) · `ta`
 
-யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனைத்து விதமான குருதிகளுக்கும் தட்டுப்பாடு நிலவுவதுடன் , குறிப்பாக ஓ பாசிட்டிவ் இரத்த வகைகளுக்கு தட்டுப்பாடு நிலவுவதாக தெரிவிக்கப்பட்டுள்ளது.
+Jaffna Bodhana Blood Bank issues an emergency notice due to a severe shortage of all types of blood, particularly O Positive. Eligible donors are urged to donate at the Jaffna Bodhana Hospital to support life-saving efforts.
 
-எனவே, தகுதியுடைவர்கள் யாழ்.போதனா வைத்தியசாலையில் உள்ள இரத்த வங்கிக்கு நேரில் வந்து , இரத்த தானம் வழங்கி உயிர் காக்கும் உன்னத பணிக்கு உதவுமாறு யாழ். போதனா வைத்தியசாலை இரத்த வங்கி பிரிவினர் கோரியுள்ளனர்.
+🟩
+
+The Jaffna Teaching Hospital has a shortage of all kinds of blood, especially for O Positive Blood.
+
+Therefore, eligible candidates come to the blood bank at the Jaffna Bodhana Hospital and help the blood donation and help the life -saving task.. Teaching Hospital Blood Bank Division has demanded.
 
 ◼️
 
 [Data](articles/796f952e.json)
+
+[Extended Data](ext_articles/796f952e.ext.json)
 
 ---
 
@@ -136,23 +192,29 @@ Police have arrested Jilani who attacked Mehbubi. According to law, police are i
 
 ---
 
-### யாழ். ஊர்காவற்துறையில் யுவதி கடத்தல் - மூவர் கைது
+### Yall. Three arrested in Kayts
 
 *2024-07-12 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/188275) · `ta`
 
-யாழ்ப்பாணம் ஊர்காவற்துறை பகுதியில் யுவதியொருவரை கடத்திய குற்றச்சாட்டில் மூன்று இளைஞர்கள் கைது செய்யப்பட்டுள்ளனர்.
+Three youths were arrested in Kayts for allegedly kidnapping a woman near a church. The victim escaped and was found elsewhere in Kayts. Police are investigating the case.
 
-ஊர்காவற்துறை பகுதியில் உள்ள தேவாலயம் ஒன்றிற்கு அருகில் வைத்து, யுவதி ஒருவர் கடத்தி செல்லப்பட்டார்.
+🟩
 
-சம்பவம் தொடர்பில் அப்பகுதியில் நின்றவர்களால் ஊர்காவற்துறை பொலிஸாருக்கு தகவல் வழங்கப்பட்டதை அடுத்து பொலிஸார் நடவடிக்கைகளில் இறங்கினார்கள்.
+Three youths have been arrested on charges of kidnapping a woman in the Kayts area in Jaffna.
 
-அதற்கிடையில் கடத்தி சென்ற யுவதியை ஊர்காவற்துறை பிறிதொரு பகுதியில் வீதியில் இறக்கி விட்டு, கடத்தி சென்ற நபர்கள் தப்பிச் சென்றுள்ளனர்.
+A young woman was abducted near a church in Kayts area.
 
-இருந்த போதிலும் பொலிஸாரின் தீவிர நடவடிக்கையை அடுத்து , யுவதியை கடத்திய குற்றச்சாட்டில் மூவர் கைது செய்யப்பட்டு , பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை பொலிஸார் முன்னெடுத்துள்ளனர்.
+The police took action after the police were informed by the Kayts police in connection with the incident.
+
+In the meantime, the kidnapped girl has fled the street in another area of ​​Kayts.
+
+Nevertheless, the police have carried out investigations by the three men arrested and detained at the police station on charges of abducting the woman.
 
 ◼️
 
 [Data](articles/cd377f7c.json)
+
+[Extended Data](ext_articles/cd377f7c.ext.json)
 
 ---
 
@@ -426,21 +488,27 @@ Prison sources said that the reason for this has not been reported and about eig
 
 ---
 
-### பாதாள உலக கும்பலைச் சேர்ந்த இருவர் துபாயிலிருந்து நாட்டுக்கு அழைத்துவரப்பட்டனர் !
+### Two people from the underworld gang were brought from Dubai to the country!
 
 *2024-07-12 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/188267) · `ta`
 
-கொலை மற்றும் ஒழுங்கமைக்கப்பட்ட குற்றச் செயல்களை செய்து தலைமறைவாகயிருந்த பாதாள உலக கும்பலைச் சேர்ந்த இரண்டு இலங்கையர்கள் குற்றப் புலனாய்வுப் பிரிவினரால் துபாயில் கைது செய்யப்பட்டு நாட்டுக்கு அழைத்து வரப்பட்டுள்ளனர்.
+Two underworld gang members from Sri Lanka, arrested for murder and organized crimes, were extradited from Dubai to Katunayake airport early today. They will be handed over to different crime prevention units in Colombo.
 
-இவர்கள் இன்று வெள்ளிக்கிழமை அதிகாலை (12)  05.10 மணியளவில் துபாயிலிருந்து UL - 226 விமானம் மூலம் கட்டுநாயக்க விமான நிலையத்துக்கு அழைத்து வரப்பட்டுள்ளனர்.
+🟩
 
-கொழும்பு, நுகேகொட பிரதேசத்தை சேர்ந்த 48 வயதான களுத்துறை தினேஷ் சமந்த டி சில்வா என அழைக்கப்படும் "பபி" மற்றும் மட்டக்குளி சமித்புர பிரதேசத்தை சேர்ந்த 26 வயதான திமுத்து சதுரங்க பெரேரா  என்ற சந்தேக நபர்கள் இருவரே கைது செய்யப்பட்டுள்ளனர்.
+Two Sri Lankans belonging to the underworld gang who were hiding in committing murder and organized crimes have been arrested and brought to Dubai by the Criminal Investigation Department.
 
-மேலும், கைது செய்யப்பட்டவர்களில் திமுத்து சதுரங்க என்பவரை கொழும்பு குற்றத் தடுப்பு பிரிவினரிடமும், தினேஷ் சமந்த என்பவரை கொழும்பு நாராஹென்பிட்டியில் உள்ள குற்றப் புலனாய்வு பிரிவின் கொலை மற்றும் ஒழுங்கமைக்கப்பட்ட குற்றப் பிரிவு அதிகாரிகளிடம் ஒப்படைக்கப்படவுள்ளனர்.
+They were brought to Katunayake airport by UL - 226 from Dubai at 05.10 am this morning (12).
+
+Two suspects have been arrested by the 48 -year -old Dinesh Samantha de Silva, a 48 -year -old from Nugegoda, Colombo and 26 -year -old Dimuthu Chaturanga Perera from Mattakkuli Samitpura.
+
+In addition, Dimuthu Chaturanga will be handed over to the Colombo Crime Prevention Unit and Dinesh Samantha to be handed over to the Criminal Investigation Unit of the Criminal Investigation Division in Narahenpita, Colombo.
 
 ◼️
 
 [Data](articles/fc33b7a5.json)
+
+[Extended Data](ext_articles/fc33b7a5.ext.json)
 
 ---
 
@@ -470,19 +538,25 @@ The suspects are the main disciples of the Rotumba Amila, a member of the Rotumb
 
 ---
 
-### விபத்தில் குடைசாய்ந்த கார் ; அதிர்ஷ்டவசமாக உயிர்தப்பிய பயணிகள்.
+### Car in an accident;Fortunately the survivor travelers.
 
 *2024-07-12 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188270) · `ta`
 
-புத்தளம் - அநுராதபுரம் பிரதான வீதியில் சொகுசு காரொன்றுடன் கெப் வண்டி மோதி விபத்துக்குள்ளாகிய நிலையில் காரில் பயணித்தவர்கள் அதிர்ஷ்டவசமாக உயிர்த்தப்பியுள்ளனர்.
+In a car crash on the Puttalam-Anuradhapura road, all passengers miraculously survived and were revived. The incident occurred last night near the Authority Office when a car heading towards Anuradhapura collided with one going to Puttalam.
 
-இந்த விபத்து நேற்று வியாழக்கிழமை (11) மாலை புத்தளம் - அநுராதபுரம் பிரதான வீதியின் நீர் வழங்கள் அதிகாரசபை அலுவலகத்திற்கு முன்பாக இடம்பெற்றுள்ளது.
+🟩
 
-அநுராதாபுர பகுதியிலிருந்து புத்தளம் நோக்கிச் சென்ற சொகுசு காருடன் புத்தளத்திலிருந்து அநுராதபுரம் நோக்கிச் சென்ற கெப் வாகனம் கட்டுப்பாட்டை இழந்து காருடன் மோதி விபத்துக்குள்ளாகியுள்ளது.
+Fortunately, passengers in the car have been resurrected after a car collided with a luxury car on the Puttalam - Anuradhapura main road.
+
+The accident took place yesterday (11) evening in front of the Puttalam -Anuradhapura main road in front of the Authority Office.
+
+The luxury car from Anuradhapura to Puttalam has been hit by a car from Puttalam to Anuradhapura.
 
 ◼️
 
 [Data](articles/06375aa1.json)
+
+[Extended Data](ext_articles/06375aa1.ext.json)
 
 ---
 
@@ -514,19 +588,25 @@ In equities, Colombo’s All Share Price Index opened 14.68 points lower at 11,7
 
 ---
 
-### நண்பகல் 12 மணிக்கு மேல் ரயில் சேவை வழமைக்கு திரும்பும்
+### The upper rail service returns to normal at 12 noon
 
 *2024-07-12 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188268) · `ta`
 
-வேலை நிறுத்தம் நேற்று வியாழக்கிழமை (11)  இரவு முதல் கைவிடப்பட்ட போதிலும், இன்று நண்பகல் 12 மணிக்குப் பின்னரே ரயில் சேவைகள் வழமைக்குத் திரும்பும் என ரயில் திணைக்கள கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+After a brief strike, train services resume normally post-noon due to returning staff and resolving technical issues.
 
-சில ரயில் கட்டுப்பாட்டாளர்கள், இயந்திர சாரதிகள் மற்றும் ரயில் நிலைய அதிபர்கள் வேலைக்கு திரும்ப வேண்டியுள்ளதாகவும், பல ரயில்களில் தொழில்நுட்பச் சிக்கல்கள் இருப்பதாகவும் திணைக்களம் குறிப்பிட்டுள்ளது.
+🟩
 
-எனவே, நண்பகல் 12 மணிக்குப் பின்னர் ரயில் சேவை வழமைக்குத் திரும்பும் என எதிர்பார்க்கப்படுகிறது.
+Although the strike has been abandoned from Thursday night, the train services will return to normal after 12 noon, the Railway Department control room said.
+
+The department said that some train regulators, engine drivers and railway principals had to return to work and many trains had technical problems.
+
+Therefore, the train service is expected to return to normal after 12 noon.
 
 ◼️
 
 [Data](articles/03bcf2a3.json)
+
+[Extended Data](ext_articles/03bcf2a3.ext.json)
 
 ---
 
@@ -2173,51 +2253,5 @@ The General Manager of Railways had previously warned that all Station Masters a
 [Data](articles/06222d93.json)
 
 [Extended Data](ext_articles/06222d93.ext.json)
-
----
-
-### Humanity excavation;Recovery of three more human spinal cord
-
-*2024-07-11 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188257) · `ta`
-
-On the seventh day of the Kokkuttuwa excavation, led by Mullaitivu District Legal Officer Kanagasabapathi Vasudeva, three more human spinal cords were recovered. The process involved Archaeological Professor Raj Somadevadam and forensic police, overseen by Mullaitivu Court Judge Dharmalingam Pradeepan. Additionally, the United Nations' Human Rights Officer Ludiana Shellrin Akhilan monitored the site for the third consecutive day. This brings the total number of human skeletons found across three excavations to 43, with 40 discovered in the Kokkuttuwai area alone.
-
-🟩
-
-Mullaitivu District Legal Officer Kanagasabapathi Vasudeva said that the excavation of the seventh day of the Kokkuttuwa Phase Published.
-
-In the presence of Mullaitivu Court Judge Dharmalingam Pradeepan, the seventh day excavations were held with the participation of the Archaeological Professor Raj Somadevadam, including forensic police.
-
-Meanwhile, for the third day, the United Nations's office for Sri Lanka's Human Rights Officer Ludiana Shellrin Akhilan was engaged in the monitoring of the United Nations, and the missing lawyers were on surveillance of excavation work.
-
-Three human skeletons have been excavated from the human skeleton constituencies identified in a series of excavations.
-
-It is noteworthy that 40 human skeletons have been excavated during the two excavations in the Kokkuttuwai Human Portrait and a total of 43 human skeletons have been excavated with three excavations.
-
-◼️
-
-[Data](articles/f9cd6917.json)
-
-[Extended Data](ext_articles/f9cd6917.ext.json)
-
----
-
-### Railway strike suspended
-
-*2024-07-11 21:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198716) · `si`
-
-Railway unions suspended the strike from midnight, allowing services to resume. Transport Minister Bandula Gunawardena promised to revoke suspension notices for those reporting to work.
-
-🟩
-
-Railway unions have decided to suspend the strike from midnight today (11).
-
-Meanwhile, Transport Minister Bandula Gunawardena says that if they report to the service, the letters issued will be removed.
-
-◼️
-
-[Data](articles/30121b47.json)
-
-[Extended Data](ext_articles/30121b47.ext.json)
 
 ---

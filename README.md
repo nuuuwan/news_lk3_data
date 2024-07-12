@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 19:05:03**
+As of **2024-07-12 19:19:48**
 
 ## Newspaper Stats
 
-*Scraped **34,984** Articles*
+*Scraped **34,985** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,969
 economynextcom | 2,072
 dailyftlk | 2,203
 adalk | 3,154
-adaderanalk | 4,019
+adaderanalk | 4,020
 tamilmirrorlk | 4,192
 dailymirrorlk | 4,733
 virakesarilk | 5,475
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,825
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,984 (100.0%) of 34,984 articles have been extended.
+34,984 (100.0%) of 34,985 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
+
+### ADB approves $100mn loan for power sector reforms in Sri Lanka
+
+*2024-07-12 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100468/adb-approves-100mn-loan-for-power-sector-reforms-in-sri-lanka) · `en`
+
+The Asian Development Bank (ADB) approved a $100 million policy-based loan to support and facilitate reforms in Sri Lanka, aimed particularly at enhancing the financial sustainability of the power sector in the island country.
+
+As per a release from the regional development bank dated July 11, the Power Sector Reforms and Financial Sustainability Program will complement the International Monetary Fund’s Extended Fund Facility arrangement and bolster the operational efficiency and competitiveness of the island country’s power sector.
+
+The program will help create a conducive environment for private investments, boosting renewable energy development, and modernizing power grids.
+
+...
+
+[Data](articles/7d9acc44.json)
+
+---
 
 ### Request a report on cutting for cutting IP's
 
@@ -2283,29 +2299,5 @@ However, Badulla District Secretary Panduka Sri Prabhat Abeywardena, who was una
 [Data](articles/bdd706cd.json)
 
 [Extended Data](ext_articles/bdd706cd.ext.json)
-
----
-
-### Gajendran MP with Tamil political prisoners. Junction
-
-*2024-07-12 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/188263) · `ta`
-
-Selvarasa Gajendran, Tamil National People's Front leader, visited Welikada and Mahasin jails, meeting nine Tamil political prisoners. Concerned about their release due to the Terrorism Act, he called for its repeal and the freedom of all detainees.
-
-🟩
-
-Selvarasa Gajendran, general secretary of the Tamil National People's Front, visited the Welikada and Mahasin jails on Thursday (11).
-
-I met 9 Tamil political prisoners at Welikada and Mahasin Prison.I visited Anandavarnan (Aravindan) in Mahasin Jail on March 26), Thangavelu Nimalano (47) and JOC Valanarino (41) in Welikada.
-
-They are more concerned that no action has been carried out in concern for their release. The Terrorism Act should be lifted up to us. All those arrested should be released.
-
-Ananda is in a state of unable to carry out the case. He is deliberately detained. He said that everyone should voice the liberation of the people.
-
-◼️
-
-[Data](articles/7b84245c.json)
-
-[Extended Data](ext_articles/7b84245c.ext.json)
 
 ---

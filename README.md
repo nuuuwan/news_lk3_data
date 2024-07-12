@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 15:05:00**
+As of **2024-07-12 15:19:58**
 
 ## Newspaper Stats
 
-*Scraped **34,963** Articles*
+*Scraped **34,967** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,45 +12,85 @@ dbsjeyarajcom | 312
 colombotelegraphcom | 326
 bbccomsinhala | 341
 newsfirstlk | 363
-islandlk | 1,968
+islandlk | 1,969
 economynextcom | 2,072
 dailyftlk | 2,203
 adalk | 3,152
 adaderanalk | 4,015
-tamilmirrorlk | 4,186
+tamilmirrorlk | 4,188
 dailymirrorlk | 4,733
 virakesarilk | 5,475
-adaderanasinhalalk | 5,817
+adaderanasinhalalk | 5,818
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,962 (100.0%) of 34,963 articles have been extended.
+34,963 (100.0%) of 34,967 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
 
-### රේගු වර්ජනය නිසා බහාලුම් 5000ක් ගොඩගැසේ
+### குப்பைகளை கிளறி சம்பாதிக்கும் இளைஞர்
+
+*2024-07-12 14:59:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குப்பைகளை-கிளறி-சம்பாதிக்கும்-இளைஞர்/50-340298) · `ta`
+
+வேண்டாம் என்று குப்பைத் தொட்டிகளில் வீசப்படும் பொருட்களை விற்று ஒரே ஆண்டில் 56.20 லட்ச ரூபாயை இளைஞர் ஒருவர் சம்பாதித்துள்ளார் என்ற செய்தி வைரலாகி வருகிறது.
+
+ஆஸ்திரேலியாவில் உள்ள சிட்னியில் உள்ள குப்பைக் குவியல்களில் இருந்து மதிப்புமிக்க பொருட்களை சேகரித்து ரூ.56.20 லட்சத்தை கடந்த ஆண்டு   லியோனார்டோ அர்பானோ  சம்பாதித்துள்ளார்.
+
+அதுமட்டுமின்றி, இந்த குப்பைக் குவியல்களில் இருந்து குளிர்சாதன பெட்டி, அலமாரி, படுக்கைகள் போன்ற பெரிய பொருட்களையும் தங்க நகைகளையும் அவர் கண்டுபிடித்துள்ளார்.
+
+ஒவ்வொரு நாளும் காலை உணவுக்குப் பிறகு, அவர் தனது சைக்கிள் அல்லது காரில் சிட்னி நகரின் தெருக்களில் குப்பைக் குவியல்களைத் தேடுவார் என்றும், அதிலிருந்து அவர் ஒவ்வொரு நாளும் வெவ்வேறு விஷயங்களைக் கண்டுபிடிப்பார் என்றும் கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/7242c703.json)
+
+---
+
+### මැතිවරණ කොමිසමට විපක්ෂයෙන් ලිපියක්
+
+*2024-07-12 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198740) · `si`
+
+හැකි පළමු දිනම ජනාධිපතිවරණය පැවැත්වීමට කටයුතු කරන ලෙස ඉල්ලමින් විපක්ෂයේ මන්ත්‍රීවරුන් පිරිසක් විසින් මැතිවරණය කොමිසමට ලිපියක් යොමුකර තිබේ.
+
+එසේම නිදහස් සහ සාධාරණ වාතාවරණයක් තුළ මැතිවරණය පැවැත්වීමට උපරිම නෛතික බලය ක්‍රියාවේ යොදවන ලෙසත් එම මන්ත්‍රීවරු ඉල්ලා සිටිති.
+
+ඔවුන් විසින් මැතිවරණ කොමිෂන් සභාවේ සභාපතිට යොමුකළ ලිපිය පහළින් දැක්වෙයි.
+
+◼️
+
+[Data](articles/dbcc933a.json)
+
+---
+
+### Customs strike lasted 5,000 containers
 
 *2024-07-12 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198739) · `si`
 
-රේගු වැඩවර්ජනය හේතුවෙන් ගොඩ ගැසුණු බහාලුම් 5000කට අධික ප්‍රමාණය මුදාහැරීමේ කටයුතු සඳහා සතිඅන්තයේ දීත් කඩිනම් වැඩසටහනක් සකස් කර ඇතැයි මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+Due to a customs strike, over 5,000 containers were discharged and prepared for shipment over the weekend, aiming to alleviate congestion by Monday. The Minister of State, Dr. Ranjith Siyambalapitiya, linked the strike to a broader political movement ahead of an election, suggesting it was a last resort after considering the national situation.
 
-ඒ අනුව ලබන සඳුදා වනවිට එම තදබදය අවම කරගත හැකි වනු ඇතැයි රාජ්‍ය අමාත්‍යවරයා විශ්වාසය පළ කරයි.
+🟩
 
-මැතිවරණයක් ආසන්න වනවිට වෘත්තීය ක්‍රියාමාර්ග සුලභවීම අපේක්ෂා කළ හැකි තත්ත්වයක් බවත් බහුතරයක් වෘත්තීය සමිති දේශපාලන ව්‍යාපාරයක් හා සම්බන්ධව පවතින බවත් අමත්‍යවරයා සඳහන් කළේය.
+Minister of State Dr. Ranjith Siyambalapitiya says that more than 5,000 containers have been discharged due to the customs strike have been prepared in the weekend.
 
-මුදල් රාජ්‍ය අමාත්‍ය, ආචාර්ය රංජිත් සියඹලාපිටිය මහතා මේ බව කියා සිටියේ රුවන්වැල්ල රාජසිංහ විදුහලේ ගෘහස්ථ ක්‍රීඩාංගණය ඉදිකිරීමේ කටයුතු නැවත ආරම්භ කිරීමේ අවස්ථාවට එක් වෙමිනි.
+Accordingly, the Monday Monday will reduce the congestion.
 
-එහිදී රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේ, වෘත්තීය සමිති විසින් පළමුව සිය වෘත්තීය, දෙවනුව ආයතනය, තුන්වනුව රටේ පවතින තත්ත්වය සලකාබලා තීරණ ගත යුතු බවය.
+The Minister said that the majority of the trade unions are in connection with a political movement that is expected to be anticipated by an election.
 
-වැඩවර්ජන යනු වෘත්තීය සමිතියක් විසින් ක්‍රියාත්මක කළ යුතු පළමු ක්‍රියාමාර්ගය නොව අවසාන ක්‍රියාමාර්ග බවද රාජ්‍ය අමාත්‍යවරයා තවදුරටත් පැවසීය.
+The Minister of Finance, Dr. Ranjith Siyambalapitiya, addressing the rebooting ceremony of the household stadium of Rajasinghe Vidyalaya in Ruwanwella.
+
+The public minister added that the trade unions first first decide that the situation in the country should be considering the situation in the country.
+
+The strikes are not the first procedure to be implemented by a trade union, but the final measures added.
 
 ◼️
 
 [Data](articles/c83336d0.json)
+
+[Extended Data](ext_articles/c83336d0.ext.json)
 
 ---
 
@@ -536,6 +576,22 @@ It is reported that landslides have begun operations in search of passengers.
 
 ---
 
+### 60 பேருடன்  ஆற்றில் சென்ற பேருந்துகள்
+
+*2024-07-12 11:19:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/60-பேருடன்-ஆற்றில்-சென்ற-பேருந்துகள்/50-340281) · `ta`
+
+மத்திய நேபாளத்தில் மதன்-ஆஷ்ரித் நெடுஞ்சாலையில் வெள்ளிக்கிழமை (12)  அதிகாலையில் ஏற்பட்ட நிலச்சரிவில் இரண்டு பயணிகள் பேருந்துகள் அடித்துச் செல்லப்பட்டன. இந்த பேருந்துகளில் 63 பயணிகள் இருந்ததாகத் தகவல் வெளியாகியுள்ளது.
+
+நேபாளத்தில் பெய்து வரும் கனமழை காரணமாக, திரிசூலி ஆற்றில்  வெள்ளம் பெருக்கெடுத்து ஓடுகிறது. இதன் காரணமாக, மதன் - ஆஷ்ரித் நெடுஞ்சாலையில் நிலச்சரிவு ஏற்பட்டு, வெள்ளிக்கிழமை (12)  அதிகாலை 3.30 மணியளவில், சாலையில் சென்றுகொண்டிருந்த இரண்டுப் பேருந்துகள் ஆற்றில் அடித்துச் செல்லப்பட்டன.
+
+இரண்டு பேருந்துகளிலும் 63 பயணிகள் இருந்துள்ளனர். பேருந்தில் இருந்த பயணிகளை தேடும் பணி தீவிரமாக நடந்து வருகிறது. பேருந்து திரிசூலி ஆற்றில் அடித்துச் செல்லப்பட்டதால், தேடுதல் மற்றும் மீட்புப் பணிக்கு இடையூறாக உள்ளது எனக் கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/b1341208.json)
+
+---
+
 ### Brother -in -law
 
 *2024-07-12 11:13:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொந்த-தங்கையை-கோடாரியால்-வெட்டிய-அண்ணன்/175-340280) · `ta`
@@ -622,11 +678,13 @@ Attorney-at-Law Aruna Laksiri has filed a Fundamental Rights (FR) petition befor
 
 The petition argues that the 19th Amendment to the Constitution was not properly passed in Parliament and therefore calls for a referendum to ensure its proper passage, Ada Derana reporter said.
 
-On Monday (08), the Supreme Court dismissed a fundamental rights (FR) petition seeking an order preventing the calling of a Presidential Election until the Supreme Court delivers its interpretation on the date of the presidential poll.
+The Election Commission and its members, the General Secretary of Parliament and the Attorney General have been named as respondents.
 
-The petition, which was filed by an entrepreneur named C.D. Lenawa last Wednesday (03), had requested that an interim order be issued to prevent the holding of the presidential election within the currently scheduled period until the court delivers its interpretation on the date of the next presidential election.
+The petitioner claims that through the 19th Amendment to the Constitution, Article 70 of the Constitution has been amended to deprive the President of the power to dissolve an elected Parliament after one year has passed.
 
-◼️
+The petitioner asserts that the amendment has not been approved by a referendum, even though a Supreme Court bench ruled that the amendment should be referred to a referendum.
+
+...
 
 [Data](articles/c89b172e.json)
 
@@ -1313,6 +1371,22 @@ Hajj is a pilgrimage (spiritual duty) made to the Kaaba (the house of Allah) in 
 [Data](articles/4f24d897.json)
 
 [Extended Data](ext_articles/4f24d897.ext.json)
+
+---
+
+### Uncertainty over presidential poll date hampers share trading
+
+*2024-07-12 05:02:00* · [`islandlk`](http://island.lk/uncertainty-over-presidential-poll-date-hampers-share-trading/) · `en`
+
+Stock market trading was tardy yesterday due to continuing delays in the external debt restructuring exercise coupled with internal political uncertainty stemming from controversies surrounding the date of the presidential poll.
+
+Amid those developments both indices moved downwards. The All Share Price Index went down by 8.39 points, while S and PSL20 declined by 7.64 points.
+
+Turnover stood at Rs 541 million with two crossings. Those crossings were reported in JKH, which crossed 200,000 shares to the tune of Rs 39.6 million; its share price was Rs 198 and NTB 200,000 shares crossed for Rs 25 million; its shares traded at Rs 125.
+
+...
+
+[Data](articles/0b9af0c7.json)
 
 ---
 
@@ -2169,101 +2243,5 @@ The event was held on June 19 at the Alari House, headed by President Ranil Wick
 [Data](articles/71670baa.json)
 
 [Extended Data](ext_articles/71670baa.ext.json)
-
----
-
-### A gazette notification included in the new regulations for speed simula
-
-*2024-07-11 23:06:08* · [`adalk`](https://www.ada.lk/breaking_news/වේග-සිමා-සඳහා-නව-රෙගුලාසි-ඇතුළත්-ගැසට්-නිවේදනයක්/11-410750) · `si`
-
-Transport Minister Lasantha Alagiyawanna addressed ongoing strikes, stating they're not about genuine professional rights but rather political needs. He announced new regulations for speed limits to curb road accidents, set to be published in two weeks. Additionally, he mentioned initiatives to boost transport productivity, including a modern bus stand and funding for road control machinery. Road safety programs, teacher manuals for school-level forums, and a medal program are also part of efforts to reduce accidents, which numbered 2214 with 2321 fatalities in 2023.
-
-🟩
-
-Minister of Transport Lasantha Alagiyawanna said that the strikes which have commenced today are not for real professional rights, said Minister of Transport Lasantha Alagiyawanna.
-
-He also said that the Gazette, which includes the required regulations regarding the speed limits to minimize road accidents, has decided to be issued within the next two weeks.
-
-Minister of Transport Lasantha Alagiyawanna made this statement participating at a press conference held at the Presidential Media Center today (11).
-
-We have launched a number of programs to establish productivity in the field of transport. At the same time, the bus stand will be opened under the patronage of President Ranil Wickremesinghe. In this bus stand has been used modern transport management systems and modern technology.
-
-...
-
-[Data](articles/e4b4ceb8.json)
-
-[Extended Data](ext_articles/e4b4ceb8.ext.json)
-
----
-
-### Hosting the Champions Trophy?
-
-*2024-07-11 23:03:02* · [`adalk`](https://www.ada.lk/sports/චැම්පියන්ස්-කුසලානයේ-සත්කාරකත්වයක්-ශ්‍රී-ලංකාවටත්--/9-410749) · `si`
-
-Sri Lanka will host the Champions Trophy ODI Series, replacing Pakistan due to its eligibility based on the last bonus points. The tournament, originally scheduled for Lahore, will now take place from February 19 to March 1, 2025, with a possible venue change between Dubai and Sri Lanka.
-
-🟩
-
-Sri Lanka has been selected as a hosting state of the Champias Trophy ODI Series
-
-The host state of the Indo-Pakistani competition, which was focused on many of the tournament.. This requiring has emerged with the official confirmation of the Indian Cricket Board yesterday (11) that Pakistan will not be attended by Pakistan yesterday (11).
-
-If so, a future decision on conducting this Indo-Pakistan in Dubai or Sri Lanka. The tournament will be held from 19th of February to March 1st (2025). Its Indo-Pakistan, was planned at Gaddafi grounds at Lahore on 1st March.
-
-However, it was eligible for the tournament in terms of the last bonus mark in India last year, and Sri Lanka was not eligible.
-
-◼️
-
-[Data](articles/57e2154a.json)
-
-[Extended Data](ext_articles/57e2154a.ext.json)
-
----
-
-### Slave Island fuel vested with the public
-
-*2024-07-11 22:57:54* · [`adalk`](https://www.ada.lk/picture_story/කොම්පඤ්ඤවීදිය-ගුවන්-පාලම-ජනපති-අතින්-ජනතා-අයිතියට/10-410748) · `si`
-
-President Ranil Wickremesinghe inaugurated the second phase of a railway line from Szan Island to Justice, costing Rs. 5278 million, aiming to reduce delays and congestion caused by closed train gates. This project, part of a larger initiative including a flyover near Gallemadora, aims to boost the national economy by improving connectivity in Slave Island, a bustling area with government offices, hospitals, and more.
-
-🟩
-
-President Ranil Wickremesinghe was opened today (11) the second stage of the railway line between Szan Island and Justice, the Railway Path was constructed at a cost of Rs. 5278 million.
-
-The construction of the project was aimed at overlooking the delay and road congestion due to closing the train gates for 109 train trains.
-
-It was observed that the railway crossing in Slave Island, a busy commercial suburbs, including government offices, hospitals, restaurants, film halls, was a waste of almost 3 hours daily.
-
-According to the completion of the flyover project towards Gallemadora towards Galleuwa and the Presidential Secretariat, the propaganda is able to join the national economy.
-
-◼️
-
-[Data](articles/9bb0b451.json)
-
-[Extended Data](ext_articles/9bb0b451.ext.json)
-
----
-
-### Sanath and Gambhir clash are specified
-
-*2024-07-11 22:49:46* · [`adalk`](https://www.ada.lk/sports/සනත්-හා-ගාම්භීර්-ගැටුමට-දින-හා-ස්ථාන-නියම-වෙයි/9-410747) · `si`
-
-Sanath and Gambhir, key figures in cricket, are set to face off in a three-match Twenty20 series at Pallekele Stadium, Kandy, starting from August 1st at the Colombo R Premadasa Stadium. Matches will be played under floodlights, marking the first international tournament featuring the Indian and Sri Lankan teams since the appointment of a new Indian coach.
-
-🟩
-
-The meeting schedule was released today (11).
-
-Accordingly, the 3-match Twenty20 tournament will be held at Pallekele Stadium, Kandy. The first match will be held on the 26th and 29th and the third matches will be held at the age of 27 and 29.
-
-All these competitions are to be held at night. Thereafter the three-talak day tournament will commence on August 01 and all the competitions will be held at the Colombo R Premadasa Stadium. The competitions will be held on August 01 ,04 and 07, respectively.
-
-This is the first international tournament facing Indian and Sri Lankan teams as the new trainer of the Indian team.
-
-◼️
-
-[Data](articles/b45b6271.json)
-
-[Extended Data](ext_articles/b45b6271.ext.json)
 
 ---

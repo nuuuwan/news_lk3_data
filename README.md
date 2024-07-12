@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 16:35:23**
+As of **2024-07-12 16:52:57**
 
 ## Newspaper Stats
 
-*Scraped **34,978** Articles*
+*Scraped **34,980** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,59 +16,109 @@ islandlk | 1,969
 economynextcom | 2,072
 dailyftlk | 2,203
 adalk | 3,154
-adaderanalk | 4,016
+adaderanalk | 4,017
 tamilmirrorlk | 4,192
 dailymirrorlk | 4,733
 virakesarilk | 5,475
-adaderanasinhalalk | 5,822
+adaderanasinhalalk | 5,823
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,976 (100.0%) of 34,978 articles have been extended.
+34,978 (100.0%) of 34,980 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
 
-### අලුත උපන් පැටවු
+### රැකියා අවස්ථා 75,000ක්
+
+*2024-07-12 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198745) · `si`
+
+අපනයන ආර්ථිකය, නිෂ්පාදන, සංචාරක හා තාක්ෂණ අංශ මෙන්ම නවීන කෘෂිකර්මාන්තය දියුණු කිරීම තුළින් රට තුළ ශක්තිමත් ආර්ථිකයක් ගොඩනැඟිය හැකි බවත්, ඒ සඳහා මූලික පදනම මේ වනවිට ආණ්ඩුව විසින් තබා තිබෙන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ ශ්‍රී ලංකාවේ විශාලතම අපනයන සැකසුම් කලාපය ලෙස අක්කර 1,000ක පමණ වපසරියක් සහිත බිංගිරිය අපනයන සැකසුම් කලාපයේ දෙවන සහ තුන් වන අදියරේ සංවර්ධන කටයුතු ආරම්භ කිරීම වෙනුවෙන් අද (12) පැවති උත්සවයට එක්වෙමිනි.
+
+රටේ අපනයන ආර්ථිකය ශක්තිමත් කිරීම වෙනුවෙන් නව ආයෝජන කලාප ඇති කිරීමට කටයුතු කරන බවද ජනාධිපතිවරයා මෙහිදී පැවසීය.
+
+බිංගිරිය ආයෝජන කලාපය සම්පූර්ණයෙන් අවසන් වීමෙන් පසුව ඇමරිකන් ඩොලර් මිලියන 2,600ක අපනයන ආදායමක් ලබාගත හැකි බවට ඇස්මේන්තු කර ඇති අතර රැකියා අවස්ථාවන් 75000ක් බිහිකිරීමට ද නියමිතය.
+
+බිංගිරිය අපනයන සැකසුම් කලාපයේ දැනට ඉදිකර තිබෙන ඩොංශියා ඉන්ඩස්ට්‍රියල් ලංකා ආයතනය විවෘත කිරීම මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් සිදු වූ අතර එම ආයතන පරිශ්‍රයේ නිරීක්ෂණය චාරිකාවකට ද එක්වූ ජනාධිපතිවරයා එහි සේවක මණ්ඩලය සමඟ සුහද කථා බහක නිරත විය.
+
+...
+
+[Data](articles/78845da9.json)
+
+---
+
+### Opposition MPs make request to Election Commission on prez polls
+
+*2024-07-12 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100464/opposition-mps-make-request-to-election-commission-on-prez-polls) · `en`
+
+A group of Members of Parliament from the opposition have sent a letter to the Election Commission, requesting that the Presidential Election be held on the earliest possible date in order to prevent any attempts to delay polls.
+
+Accordingly, the parliamentarians urged the commission to exercise its maximum legal authority to ensure the election is conducted in a free and fair atmosphere.
+
+The letter has been signed by a majority of opposition MPs including members of the Samagi Jana Balawegaya (SJB) as well other independent opposition MPs.
+
+The letter states: “It is no secret that the current government, worried about the possible loss in the upcoming presidential election, is making various efforts to postpone the presidential election scheduled for year 2024.”
+
+...
+
+[Data](articles/84616378.json)
+
+---
+
+### Newborn Plump
 
 *2024-07-12 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198744) · `si`
 
-ශ්‍රී ලංකා පොලීසිය විසින් ජුනි මස 05 වනදා පොලිස් නිල සුනඛ කොට්ඨාසය වෙත නෙදර්ලන්තයේ සිට නිල සුනඛයින් 35 දෙනෙකු ආනයනය කර තිබුණි.
+The Sri Lanka Police imported 35 English Spaniels from the Netherlands on June 5th. These dogs, including two pairs that have produced 13 chicks, are part of the Police Independent Dog Division. Another female is expected to give birth soon. The division reports that all offspring are healthy, housed at the Asgiriya Police station in Kundasale, Kandy. This initiative is projected to save over Rs. 25 million.
 
-ඉන් බැලලියන් දෙදෙනෙකු විසින් පැටවුන් 13 දෙනෙකු බිහි කර තිබේ.
+🟩
 
-තවත් ගැහැණු සත්ත්වයෙකු පැටවුන් බිහි කිරීමේ සූදානමින් පසුවෙන බවද පොලිස් නිල සුනඛ කොට්ඨාසය පවසයි.
+The Sri Lanka Police had imported 35 official dogs from the Netherlands on June 5.
 
-ඉංග්ලිෂ් ස්පැනියෙල් (English Spaniel) වර්ගයේ Tempard නම් නිල සුනඛයා විසින් පිරිමි පැටවුන් 03ක් සහ ගැහැණු පැටවුන් 03ක් ද, Lea විසින් පිරිමි පැටවුන් 03ක් සහ ගැහැණු පැටවුන් 04 දෙනෙකු බිහි කර ඇත.
+Two balloons have produced 13 chicks.
 
-මෙම පැටවුන් මහනුවර කුණ්ඩසාලේ පිහිටි අස්ගිරිය පොලිස් නිල සුනඛ මූලස්ථානයේ නිරෝගීව පසුවෙන බවද පොලිස් නිල සුනඛ කොට්ඨාසය පවසයි.
+The Police Independent Dog Division says another female animal is ready to produce chicks.
 
-නව පැටවුන් බිහිවීම තුළින් රුපියල් මිලියන 25කට වැඩි මුදලක් ඉතිරි කරගැනීමට ශ්‍රී ලංකා පොලීසියට හැකියාව ලැබෙනු ඇතැයි සඳහන් ය.
+The official dog is the official dog named English Spaniel, three males and three males and 3 females have produced three males and 4 females.
+
+The Police Official Dog Division says that the calves are healthy at the Asgiriya Police, in the Kundasale, Kandy.
+
+The Sri Lankan Police will save more than Rs. 25 million from the emergence of new litups.
 
 ◼️
 
 [Data](articles/a09d5ee6.json)
 
+[Extended Data](ext_articles/a09d5ee6.ext.json)
+
 ---
 
-### නව නීතිපති ලෙස පාරින්ද රණසිංහ පත් කෙරෙයි
+### Massasinghe appointed as the new Attorney General
 
 *2024-07-12 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198743) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් නව නීතිපතිවරයා ලෙස පාරින්ද රණසිංහ මහතාව අද (12) පත්කර තිබේ.
+Ranil Wickremesinghe, son of Sri Lanka's former Chief Justice, has been appointed as the new Attorney General following the vacancy left by the end of the previous holder on the 26th.
 
-ඡ්‍යේෂ්ඨ අතිරේක සොලිසිටර් ජනරාල්වරයෙකු ලෙස කටයුතු කළ ඒ මහතාගේ අදාළ පත්වීම සඳහා ව්‍යවස්ථාදායක සභාව විසින් අනුමත ලබාදීමෙන් අනතුරුව මෙම පත්කිරීම සිදුකර ඇත.
+🟩
 
-නීතිපති ධුරයේ කටයුතු කළ සංජේ රාජරත්නම් මහතාගේ ධුර කාලය පසුගිය 26 වනිදායින් අවසන් වීමත් සමඟ නීතිපති ධුරය පුරප්පාඩු වී පැවතුණි.
+President Ranil Wickremesinghe has been appointed as the new Attorney General (12).
 
-පාරින්ද රණසිංහ මහතා මෙරට හිටපු අගවිනිසුරුවරයෙකු වන කේ.ඒ.පාරින්ද රණසිංහ මහතාගේ පුත්‍රයෙකු වෙයි.
+The appointment has been made after the Physician Additional General Secretary.
+
+The Attorney General's post was vacant with the end of the last 26th.
+
+Mr. Ranasinghe is a son of the former Chief Justice of the country.
 
 ◼️
 
 [Data](articles/f961c188.json)
+
+[Extended Data](ext_articles/f961c188.ext.json)
 
 ---
 
@@ -78,11 +128,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 President’s Counsel Mr. K.A. Parinda Ranasinghe has been appointed as the new Attorney General of Sri Lanka by President Ranil Wickremesinghe.
 
-He has been appointed in terms of Article 61E (b) of the Constitution of Sri Lanka at the Presidential Secretariat, a short while ago, the President’s Media Division said.
+He was appointed in terms of Article 61E (b) of the Constitution of Sri Lanka at the Presidential Secretariat, a short while ago, the President’s Media Division said.
 
 The former Senior Additional Solicitor General was recently appointed as the Acting Attorney General.
 
-◼️
+The Constitutional Council yesterday unanimously approved the nomination of Senior Additional Solicitor General Parinda Ranasinghe as the Attorney General.
+
+Ranasinghe took oaths as the Acting Attorney General before the Chief Justice on July 01, after the proposal to extend former Attorney General Sanjay Rajaratnam’s term by another 06 months was defeated for the second time by the Constitutional Council.
+
+...
 
 [Data](articles/c6296747.json)
 
@@ -2251,49 +2305,5 @@ Sri Lankan Ambassador to the United States Mahinda Samarasinghe and officials fr
 [Data](articles/0d589cf4.json)
 
 [Extended Data](ext_articles/0d589cf4.ext.json)
-
----
-
-### The presidential election has happened in a timely manner;Minister Ali Sabri confirms the House
-
-*2024-07-12 01:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/188261) · `ta`
-
-Foreign Minister Ali Sabri confirmed that the presidential election in Sri Lanka will occur before October 17, adhering to constitutional requirements. Despite past delays, such as the 1981 referendum-induced postponement, elections have generally been conducted on time since 1931. The 19th Amendment reduced the presidential term to five years but didn't address the 83(b) clause, which could potentially affect future elections. The government is prepared for the upcoming election, highlighting achievements like uninterrupted power supply, increased tourism, higher public servant salaries, and enhanced dollar presence, assuring voters of a fair and timely process.
-
-🟩
-
-We are ready for the election. Foreign Minister Alisabri said the presidential election would be held before October 17, according to the Constitution.
-
-He was speaking at the debate on the Motion on the Motion of the House on Thursday (11) in Parliament.
-
-Whatever shortcomings in Sri Lanka, it is a country that has been continuously using the voting rights since 1931. Elections have been held in the country in a timely manner. Elections were not held in a timely manner. The election was postponed by the referendum in 1981. In this case, the election cannot be held.
-
-The President's term of office was reduced to 5 years in the 19th Amendment of the Constitution. However in 83 (b) string is not mentioned in it. The idea has been brought to the cabinet to replace it. There is no need to doubt the presidential election. The election will be held before October 17.
-
-...
-
-[Data](articles/efd3c30f.json)
-
-[Extended Data](ext_articles/efd3c30f.ext.json)
-
----
-
-### President inaugurates second phase of Kompannavidiya flyover
-
-*2024-07-12 01:40:08* · [`dailyftlk`](https://www.ft.lk/news/President-inaugurates-second-phase-of-Kompannavidiya-flyover/56-764174) · `en`
-
-President Ranil Wickremesinghe yesterday inaugurated the second phase of the flyover spanning between Kompannavidiya and Justice Akbar Mawatha over the railway line.
-
-The project, constructed by the Transport and Highways Ministry at a cost of Rs. 5,278 million, aims to alleviate traffic congestion and improve connectivity in the area.
-
-The Road Development Authority (RDA), in collaboration with Mäga Engineering, undertook this project to address the delays and traffic congestion caused by the frequent closing of railway gates for the 109 daily train journeys.
-
-The project is important in enhancing urban mobility and supporting economic growth.
-
-...
-
-[Data](articles/c06bdeea.json)
-
-[Extended Data](ext_articles/c06bdeea.ext.json)
 
 ---

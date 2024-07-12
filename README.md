@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 12:35:29**
+As of **2024-07-12 12:53:32**
 
 ## Newspaper Stats
 
-*Scraped **34,938** Articles*
+*Scraped **34,944** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 3,150
 adaderanalk | 4,013
 tamilmirrorlk | 4,181
 dailymirrorlk | 4,733
-virakesarilk | 5,464
+virakesarilk | 5,470
 adaderanasinhalalk | 5,812
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,937 (100.0%) of 34,938 articles have been extended.
+34,938 (100.0%) of 34,944 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
+
+### க்ளப் வசந்தவின் இறுதி சடங்கு ; மலர்ச்சாலைக்கு அச்சுறுத்தல் ; பாதுகாப்பு பலப்படுத்தப்பட்டுள்ளது
+
+*2024-07-12 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188279) · `ta`
+
+அத்துருகிரியவில் சுட்டுக் கொலை செய்யப்பட்ட 'கிளப் வசந்த' என்றழைக்கப்படும் சுரேந்திர வசந்த பெரேராவின் இறுதி சடங்கு தொடர்பில் கொழும்பிலுள்ள மலர்ச்சாலைக்கு அச்சுறுத்தல் விடுக்கப்பட்டுள்ளது.
+
+கிளப் வசந்தவின் பூதவுடலை வைக்க அனுமதிக்க வேண்டாம் என மலச்சாலைக்கு அச்சுறுத்தல் விடுத்து  தொலைபேசி அழைப்பொன்று வந்துள்ள நிலையில் பாதுகாப்பு பலப்படுத்தப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+இதேவேளை, அத்துருகிரிய துப்பாக்கிச் சூட்டை நடத்திய சந்தேகநபர்கள் கடல் வழியாக இந்தியாவுக்குத் தப்பிச் செல்ல முற்படலாம் என புலனாய்வுப் பிரிவினருக்கு கிடைத்த தகவலின் பேரில் மன்னாரில்  விசேட சோதனைச் சாவடிகள் அமைக்கப்பட்டுள்ளன.
+
+அத்துடன், சந்தேக நபர்கள் நாட்டை விட்டு தப்பிச் செல்வதைத் தடுக்க விமான நிலையங்கள் மற்றும் பிற இடங்களுக்கு பாதுபாப்பை பலப்படுத்த அறிவிக்கப்பட்டுள்ளது.
+
+எவ்வாறாயினும், மன்னார் ஊடாக தப்பிச் செல்லும் அபாயம் அதிகரித்திருப்பதன் காரணமாக பல விசேட சோதனைச் சாவடிகள் மற்றும் வீதித் தடைகள் அமைக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/7a3e1925.json)
+
+---
 
 ### Gazette to be issued on new speed limit regulations
 
@@ -49,6 +69,20 @@ State Minister for Transport Lasantha Alagiyawanna, made this statement during a
 [Data](articles/1b8d1dba.json)
 
 [Extended Data](ext_articles/1b8d1dba.ext.json)
+
+---
+
+### யாழ்.போதனா இரத்த வங்கி விடுத்துள்ள அவசர அறிவித்தல்!
+
+*2024-07-12 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/188277) · `ta`
+
+யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனைத்து விதமான குருதிகளுக்கும் தட்டுப்பாடு நிலவுவதுடன் , குறிப்பாக ஓ பாசிட்டிவ் இரத்த வகைகளுக்கு தட்டுப்பாடு நிலவுவதாக தெரிவிக்கப்பட்டுள்ளது.
+
+எனவே, தகுதியுடைவர்கள் யாழ்.போதனா வைத்தியசாலையில் உள்ள இரத்த வங்கிக்கு நேரில் வந்து , இரத்த தானம் வழங்கி உயிர் காக்கும் உன்னத பணிக்கு உதவுமாறு யாழ். போதனா வைத்தியசாலை இரத்த வங்கி பிரிவினர் கோரியுள்ளனர்.
+
+◼️
+
+[Data](articles/796f952e.json)
 
 ---
 
@@ -102,21 +136,49 @@ Police have arrested Jilani who attacked Mehbubi. According to law, police are i
 
 ---
 
-### ’கிளப் வசந்த’வின் சடலத்துக்கு கடும் பாதுகாப்பு
+### யாழ். ஊர்காவற்துறையில் யுவதி கடத்தல் - மூவர் கைது
+
+*2024-07-12 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/188275) · `ta`
+
+யாழ்ப்பாணம் ஊர்காவற்துறை பகுதியில் யுவதியொருவரை கடத்திய குற்றச்சாட்டில் மூன்று இளைஞர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+ஊர்காவற்துறை பகுதியில் உள்ள தேவாலயம் ஒன்றிற்கு அருகில் வைத்து, யுவதி ஒருவர் கடத்தி செல்லப்பட்டார்.
+
+சம்பவம் தொடர்பில் அப்பகுதியில் நின்றவர்களால் ஊர்காவற்துறை பொலிஸாருக்கு தகவல் வழங்கப்பட்டதை அடுத்து பொலிஸார் நடவடிக்கைகளில் இறங்கினார்கள்.
+
+அதற்கிடையில் கடத்தி சென்ற யுவதியை ஊர்காவற்துறை பிறிதொரு பகுதியில் வீதியில் இறக்கி விட்டு, கடத்தி சென்ற நபர்கள் தப்பிச் சென்றுள்ளனர்.
+
+இருந்த போதிலும் பொலிஸாரின் தீவிர நடவடிக்கையை அடுத்து , யுவதியை கடத்திய குற்றச்சாட்டில் மூவர் கைது செய்யப்பட்டு , பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை பொலிஸார் முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/cd377f7c.json)
+
+---
+
+### Strict protection to the body of the telephone club Vasantha
 
 *2024-07-12 11:08:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-வின்-சடலத்துக்கு-கடும்-பாதுகாப்பு/175-340279) · `ta`
 
-'கிளப் வசந்த' என அழைக்கப்படும் சுரேந்திர வசந்த பெரேராவின் பூதவுடல் கொழும்பில் உள்ள தனியார் மலர்ச்சாலையில் வைக்கப்பட்டுள்ளது. அங்கு   பாதுகாப்பு பலப்படுத்தப்பட்டுள்ளது.
+Vasantha Surendra Perera, aka Club Vasantha, has enhanced security after threats. Following a phone warning, his body is now under strict protection at a private location in Colombo. Intelligence reports suggest suspects from the Athurugiriya shooting might try to escape to India via Mannar's fishing boats, leading to increased checkpoints and roadblocks. Law enforcement is closely monitoring individuals without valid fishing identity cards, particularly those boarding boats from Mannar.
 
-கிளப் வசந்தாவின் சடலத்தை வைத்ததால் அச்சுறுத்தல் விடுக்கப்பட்டுள்ளதாக கூறப்படும்    தொலைபேசி அழைபை அடுத்து இந்த நடவடிக்கை எடுக்கப்பட்டதாக கூறப்படுகிறது.
+🟩
 
-இதேவேளை, அத்துருகிரிய துப்பாக்கிச் சூட்டுச் சம்பவத்துடன் தொடர்புடைய சந்தேகநபர்கள் மீன்பிடி படகுகள் மூலம் இந்தியாவுக்குத் தப்பிச் செல்ல முற்படலாம் என புலனாய்வுப் பிரிவினருக்கு கிடைத்த தகவலின் பேரில் மன்னார் முழுவதும் விசேட சோதனைச் சாவடிகள் ஸ்தாபிக்கப்பட்டுள்ளன.
+Surendra Vasantha Perera, also known as 'Club Vasantha', has been placed at a private flower in Colombo. The security has been strengthened there.
 
-சந்தேக நபர்கள், நாட்டை விட்டு வெளியேறுவதைத் தடுக்க விமான நிலையங்கள் மற்றும் பிற முக்கிய புள்ளிகளுக்கு அதிகாரிகள் எச்சரிக்கை விடுத்துள்ளனர். எவ்வாறாயினும், மன்னார் ஊடாக தப்பிச் செல்லும் அபாயம் அதிகரித்திருப்பதன் காரணமாக பல விசேட சோதனைச் சாவடிகள் மற்றும் வீதித் தடைகள் அமைக்கப்பட்டுள்ளன.
+The move is said to have been taken following a telephone call, which has been threatened by the club Vasantha's body.
 
-...
+Meanwhile, special checkpoints have been established throughout Mannar on information received by the intelligence agencies that the suspects involved in the Athurugiriya shooting incident may seek to flee to India by fishing boats.
+
+The suspects have warned airports and other key points to prevent the country from leaving the country. However, a number of special checkpoints and roadblocks have been set up due to the increase in the risk of fleeing through Mannar.
+
+Law enforcement officials are monitoring people who have no valid fishing identity card, especially those who board the fishing boats from Mannar.
+
+◼️
 
 [Data](articles/89bfe0a6.json)
+
+[Extended Data](ext_articles/89bfe0a6.ext.json)
 
 ---
 
@@ -344,6 +406,44 @@ Expo Property Developers had requested for 52 perches of land including 12 perch
 
 ---
 
+### Attack on IP arrested on bribery charges
+
+*2024-07-12 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188264) · `ta`
+
+A prisoner was attacked and hospitalized after being accused of bribery in Colombo. The motive behind the attack remains unclear, but it resulted in significant injuries requiring stitches.
+
+🟩
+
+Another prisoner has been hacked to another prisoner, who was arrested on charges of bribing and detained in Colombo.
+
+Prison sources said that the reason for this has not been reported and about eight stitches have been put on the injuries of the police officer.
+
+◼️
+
+[Data](articles/09fea748.json)
+
+[Extended Data](ext_articles/09fea748.ext.json)
+
+---
+
+### பாதாள உலக கும்பலைச் சேர்ந்த இருவர் துபாயிலிருந்து நாட்டுக்கு அழைத்துவரப்பட்டனர் !
+
+*2024-07-12 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/188267) · `ta`
+
+கொலை மற்றும் ஒழுங்கமைக்கப்பட்ட குற்றச் செயல்களை செய்து தலைமறைவாகயிருந்த பாதாள உலக கும்பலைச் சேர்ந்த இரண்டு இலங்கையர்கள் குற்றப் புலனாய்வுப் பிரிவினரால் துபாயில் கைது செய்யப்பட்டு நாட்டுக்கு அழைத்து வரப்பட்டுள்ளனர்.
+
+இவர்கள் இன்று வெள்ளிக்கிழமை அதிகாலை (12)  05.10 மணியளவில் துபாயிலிருந்து UL - 226 விமானம் மூலம் கட்டுநாயக்க விமான நிலையத்துக்கு அழைத்து வரப்பட்டுள்ளனர்.
+
+கொழும்பு, நுகேகொட பிரதேசத்தை சேர்ந்த 48 வயதான களுத்துறை தினேஷ் சமந்த டி சில்வா என அழைக்கப்படும் "பபி" மற்றும் மட்டக்குளி சமித்புர பிரதேசத்தை சேர்ந்த 26 வயதான திமுத்து சதுரங்க பெரேரா  என்ற சந்தேக நபர்கள் இருவரே கைது செய்யப்பட்டுள்ளனர்.
+
+மேலும், கைது செய்யப்பட்டவர்களில் திமுத்து சதுரங்க என்பவரை கொழும்பு குற்றத் தடுப்பு பிரிவினரிடமும், தினேஷ் சமந்த என்பவரை கொழும்பு நாராஹென்பிட்டியில் உள்ள குற்றப் புலனாய்வு பிரிவின் கொலை மற்றும் ஒழுங்கமைக்கப்பட்ட குற்றப் பிரிவு அதிகாரிகளிடம் ஒப்படைக்கப்படவுள்ளனர்.
+
+◼️
+
+[Data](articles/fc33b7a5.json)
+
+---
+
 ### Kolonnators arrested for STF operation
 
 *2024-07-12 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198728) · `si`
@@ -367,6 +467,22 @@ The suspects are the main disciples of the Rotumba Amila, a member of the Rotumb
 [Data](articles/b96a9083.json)
 
 [Extended Data](ext_articles/b96a9083.ext.json)
+
+---
+
+### விபத்தில் குடைசாய்ந்த கார் ; அதிர்ஷ்டவசமாக உயிர்தப்பிய பயணிகள்.
+
+*2024-07-12 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188270) · `ta`
+
+புத்தளம் - அநுராதபுரம் பிரதான வீதியில் சொகுசு காரொன்றுடன் கெப் வண்டி மோதி விபத்துக்குள்ளாகிய நிலையில் காரில் பயணித்தவர்கள் அதிர்ஷ்டவசமாக உயிர்த்தப்பியுள்ளனர்.
+
+இந்த விபத்து நேற்று வியாழக்கிழமை (11) மாலை புத்தளம் - அநுராதபுரம் பிரதான வீதியின் நீர் வழங்கள் அதிகாரசபை அலுவலகத்திற்கு முன்பாக இடம்பெற்றுள்ளது.
+
+அநுராதாபுர பகுதியிலிருந்து புத்தளம் நோக்கிச் சென்ற சொகுசு காருடன் புத்தளத்திலிருந்து அநுராதபுரம் நோக்கிச் சென்ற கெப் வாகனம் கட்டுப்பாட்டை இழந்து காருடன் மோதி விபத்துக்குள்ளாகியுள்ளது.
+
+◼️
+
+[Data](articles/06375aa1.json)
 
 ---
 
@@ -395,6 +511,22 @@ In equities, Colombo’s All Share Price Index opened 14.68 points lower at 11,7
 [Data](articles/18a5433a.json)
 
 [Extended Data](ext_articles/18a5433a.ext.json)
+
+---
+
+### நண்பகல் 12 மணிக்கு மேல் ரயில் சேவை வழமைக்கு திரும்பும்
+
+*2024-07-12 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188268) · `ta`
+
+வேலை நிறுத்தம் நேற்று வியாழக்கிழமை (11)  இரவு முதல் கைவிடப்பட்ட போதிலும், இன்று நண்பகல் 12 மணிக்குப் பின்னரே ரயில் சேவைகள் வழமைக்குத் திரும்பும் என ரயில் திணைக்கள கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+
+சில ரயில் கட்டுப்பாட்டாளர்கள், இயந்திர சாரதிகள் மற்றும் ரயில் நிலைய அதிபர்கள் வேலைக்கு திரும்ப வேண்டியுள்ளதாகவும், பல ரயில்களில் தொழில்நுட்பச் சிக்கல்கள் இருப்பதாகவும் திணைக்களம் குறிப்பிட்டுள்ளது.
+
+எனவே, நண்பகல் 12 மணிக்குப் பின்னர் ரயில் சேவை வழமைக்குத் திரும்பும் என எதிர்பார்க்கப்படுகிறது.
+
+◼️
+
+[Data](articles/03bcf2a3.json)
 
 ---
 
@@ -1157,26 +1289,6 @@ Therefore, the public is requesting the concerned authorities to focus on contro
 [Data](articles/03b66aed.json)
 
 [Extended Data](ext_articles/03b66aed.ext.json)
-
----
-
-### Attack on IP arrested on bribery charges
-
-*2024-07-12 02:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/188264) · `ta`
-
-A prisoner was attacked and hospitalized after being accused of bribery in Colombo. The motive behind the attack remains unclear, but it resulted in significant injuries requiring stitches.
-
-🟩
-
-Another prisoner has been hacked to another prisoner, who was arrested on charges of bribing and detained in Colombo.
-
-Prison sources said that the reason for this has not been reported and about eight stitches have been put on the injuries of the police officer.
-
-◼️
-
-[Data](articles/09fea748.json)
-
-[Extended Data](ext_articles/09fea748.ext.json)
 
 ---
 
@@ -2107,129 +2219,5 @@ Meanwhile, Transport Minister Bandula Gunawardena says that if they report to th
 [Data](articles/30121b47.json)
 
 [Extended Data](ext_articles/30121b47.ext.json)
-
----
-
-### “Capt. Miller” the LTTE’s first Black Tiger suicide bomber
-
-*2024-07-11 20:46:15* · [`dailyftlk`](https://www.ft.lk/columns/Capt-Miller-the-LTTE-s-first-Black-Tiger-suicide-bomber/4-764150) · `en`
-
-It must be remembered that 37 years ago the phenomenon of a Black Tiger suicide attack was something strange and new. In subsequent years, Black Tiger suicide attacks became quite common. Most major LTTE attacks had one or more Black Tiger suicide operations as definite prerequisites. At that point of time in July 1987, the whole concept was something new. Therefore Miller was viewed as some “superhuman” personality. The whole exercise became highly emotional in content and tone
-
-“Captain Miller” is the name of an Indian film released on 12 January 2024. The blockbuster Tamil movie had popular actor Dhanush acting in the lead titular role of Captain Miller. The film was a fictional tale about a heroic rebel who fought against British colonial rule. Reports state that the film is the highest ever grossing film starring Dhanush.
-
-...
-
-[Data](articles/ba7384bb.json)
-
-[Extended Data](ext_articles/ba7384bb.ext.json)
-
----
-
-### Police officer was in remand prison
-
-*2024-07-11 19:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198715) · `si`
-
-In Colombo, a police inspector from the CCD was attacked by another inmate in remand prison, resulting in eight stitches due to undisclosed reasons.
-
-🟩
-
-A detaineant police inspector was arrested by another inmate in the Prison in Colombo while serving the Colombo Crimes Division (CCD) attached to a bribery charge.
-
-The reason was not reported and 8 stitches were laid down to 8 stitches on the injuries of the police officer.
-
-◼️
-
-[Data](articles/bac7e0a9.json)
-
-[Extended Data](ext_articles/bac7e0a9.ext.json)
-
----
-
-### The Gazette containing the speed control regulations will be released within the next two weeks- Minister Lasantha Alagavanna
-
-*2024-07-11 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/188255) · `ta`
-
-Transport Minister Lasantha Alagavanna announced the imminent release of a gazette with speed control regulations aimed at reducing road accidents, set to be published within two weeks. He criticized the workplace launch for political reasons rather than genuine trade union rights. The minister also highlighted efforts to improve the transport sector, including the opening of a modern bus station and initiatives to curb road accidents, funded by a 50 million rupee allocation for speed control equipment.
-
-🟩
-
-Transport Minister Lasantha Alagavanna said that the workplace, which has been launched, has been carried out for political purposes, not for real trade union rights.
-
-He added that it has been decided to release the gazette containing the necessary regulations on speed control to reduce road accidents within the next two weeks.
-
-Minister of State Lnanda Alagiyawanna made this statement at a media briefing held at the Presidential Media Center on Thursday (11).
-
-“We have started many plans to create performance in the transport sector. Meanwhile, Kadawatha bus station will be opened in August under the leadership of President Ranil Wickremesinghe.. Modern transport management and modern technologies have been used in these bus stations.
-
-...
-
-[Data](articles/4d154b44.json)
-
-[Extended Data](ext_articles/4d154b44.ext.json)
-
----
-
-### Hazaranga resigns as chairman
-
-*2024-07-11 19:35:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலைவர்-பதவியிலிருந்து-விலகினார்-வனிந்து-ஹசரங்க/175-340251) · `ta`
-
-Hazaranga resigned as chairman, handing his letter to Sri Lanka Cricket. He believes it's the right moment for him to return to playing normally.
-
-🟩
-
-He has handed over the letter to Sri Lanka Cricket, according to Sri Lankan cricket media report.
-
-Hazaranga has said that this is the right time for the team to quit and continue as a normal player.. Remble
-
-◼️
-
-[Data](articles/74ca0ce0.json)
-
-[Extended Data](ext_articles/74ca0ce0.ext.json)
-
----
-
-### CCD Inspector arrested over bribe injured in attack by another inmate
-
-*2024-07-11 19:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100451/ccd-inspector-arrested-over-bribe-injured-in-attack-by-another-inmate) · `en`
-
-The Inspector of Police (IP) attached to the Colombo Crimes Division (CCD), who was arrested by the Bribery Commission while soliciting a bribe, has reported been injured by another inmate in his cell.
-
-A prisoner, who was in the same cell as the police officer, has caused an injury to the Inspector’s face using a sharp improvised weapon, sources said.
-
-It is also reported that the police officer has received 8 stitches to his mouth following the incident.
-
-On Friday (05), the Bribery Commission apprehended the two suspects inside the CCD premises in Dematagoda. They had solicited a sum of Rs. 450,000 as a bribe and were apprehended while accepting the final payment of over Rs. 150,000 out of that.
-
-A resident of the Ibbagamuwa area of Kurunegala had lodged a complaint with the CCD in relation to a fraudulent money transfer through an online business of exchanging the electronic currency called ‘USDT’.
-
-...
-
-[Data](articles/a0074c94.json)
-
-[Extended Data](ext_articles/a0074c94.ext.json)
-
----
-
-### Railway strike to continue further – trade unions
-
-*2024-07-11 19:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100450/railway-strike-to-continue-further-trade-unions-) · `en`
-
-The Railway Station Masters’ Union states that their strike action, which was launched from Wednesday (10), will continue further.
-
-President of the union Sumedha Somaratne, speaking to reporters, said that this decision was reached during the executive council meeting of their trade union this evening (11).
-
-Earlier today, Somaratne also stressed that if the government tries to control the trade unions through oppression, the trade unions of the entire railway service will never hesitate to join together and fight.
-
-Meanwhile, Minister of Transport Bandula Gunawardene says that letters have been sent to all railway employees who participated in the strike notifying they are considered to have vacated their respective positions.
-
-The General Manager of Sri Lanka Railways had warned that all Station Masters and Railway Controllers who fail to report to duty by 12.00 noon yesterday (10) would be considered as having vacated their positions.
-
-...
-
-[Data](articles/2ae0431b.json)
-
-[Extended Data](ext_articles/2ae0431b.ext.json)
 
 ---

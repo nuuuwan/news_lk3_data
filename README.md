@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 08:15:37**
+As of **2024-07-12 08:02:23**
 
 ## Newspaper Stats
 
-*Scraped **34,907** Articles*
+*Scraped **34,906** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 312
 colombotelegraphcom | 324
-bbccomsinhala | 341
+bbccomsinhala | 340
 newsfirstlk | 363
 islandlk | 1,968
 economynextcom | 2,068
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,803
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,906 (100.0%) of 34,907 articles have been extended.
+34,906 (100.0%) of 34,906 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -527,28 +527,6 @@ Prison sources said that the reason for this has not been reported and about eig
 [Data](articles/09fea748.json)
 
 [Extended Data](ext_articles/09fea748.ext.json)
-
----
-
-### 'ග්‍රාම නිලධාරී හමුවෙන්න කිලෝමීටර් 66ක් යන්න ඕනා'
-
-*2024-07-12 02:10:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq5jqwpj4leo) · `si`
-
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''ඉලුක්පැලැස්ස ගමට ග්‍රාම නිලධාරී එන්නේ මාසෙට දවසයි''
-
-ජනතාවට සේවාව සපයන සමීපම රාජ්‍ය නිලධාරියෙකු වන ග්‍රාම නිලධාරී හමුවීම සඳහා කිලෝමීටර් 66ක දුර ගෙවාගෙන යා යුතුව ඇතැයි බදුල්ල දිස්ත්‍රිකයේ, හල්දුම්මුල්ල ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ,  කොස්ගම ග්‍රාම නිලධාරී වසමට අයත් ඉලුක්පලැස්ස ගමේ ජනතාව පවසති.
-
-ඔවුන් ප්‍රාදේශීය ලේකම් කාර්යාලයට යෑමට නම් ග්‍රාම නිලධාරී කාර්යාලයේ සිට තවත් කිලෝමීටර් 14ක් ගමන් කළ යුතුය.
-
-නමුත් ඔවුන්ට ආසන්නම ඇති ග්‍රාම නිලධාරී කාර්යාලය සහ ප්‍රාදේශීය ලේකම් කාර්යාලය වන කල්තොටට ඇත්තේ කිලෝමීටර් 2ක පමණ කෙටි දුරකි.
-
-හල්දුම්මුල්ල ප්‍රාදේශීය  ලේකම් කොට්ඨාසයේ,  මහලන්ද ග්‍රාම නිලධාරී වසමේ ජනතාව ද මෙවැනිම පරිපාලන සීමා ගැටලුවකට මුහුණ දෙති.
-
-නමුත් සිමා නිර්ණ කොමිසමේ කිසිඳු නිර්දේශයක් ක්‍රියාත්මක නොවීම නිසා ඔවුන්ට සහනයක් සැලසීමට නොහැකි වී ඇති බදුල්ල දිස්ත්‍රික් ලේකම් පණ්ඩුක ශ්‍රී ප්‍රභාත් අබේවර්ධන BBC සිංහල වෙත පැවසුවේය.
-
-◼️
-
-[Data](articles/bdd706cd.json)
 
 ---
 
@@ -2255,5 +2233,27 @@ Accordingly, all the striking Railway Station Masters and Railway Controllers we
 [Data](articles/0d433d17.json)
 
 [Extended Data](ext_articles/0d433d17.ext.json)
+
+---
+
+### Sunday to village from Sunday
+
+*2024-07-11 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198708) · `si`
+
+Pure Gammanpila, the Executive Committee leader, announced the election manifesto's presentation with ongoing publicity. He discussed creating a program involving public participation, starting with drafting based on party members' thoughts on July 7th. Meetings were planned at the village level from July 14th to gather people's views, which would be incorporated into the final document after discussions with experts, professionals, entrepreneurs, and trade unions. This approach aims to make the election proclamation historically significant through continuous public involvement.
+
+🟩
+
+The Executive Committee leader of the Executive Committee, Pure Gammanpila says that the election manifestone is presented with continuous publicity.
+
+He was speaking at a media briefing conducted by the ovenoms held today (11).
+
+"We first point to how to create" the happy we will "create a program..  ඒ වගේම ඒක සකස් කරන්නේ ජනතා දායකත්වයෙන්. We made the thoughts of the brothers parties on July 7 and published the first draft. July 13, we have planned to make a large number of meetings at the village level since July 14. The draft will direct people's views through the exangeration conversation. Our leaders come to the village and get the views of the people..  ඒක පිළිබඳ විද්වතුන්, වෘත්තීයවේදින්, ව්‍යවසායකයින් සහ වෘත්තිය සමිති සමග සාකච්ඡා කරලා අවසන් වැඩසටහන ජනගත කරන්න බලාපොරොත්තු වෙනවා.  මෙහෙම අඛණ්ඩ ජනතා සහභාගිත්වයෙන් මැතිවරණ ප්‍රකාශනයක් සකස් වෙන්නේ ඉතිහාසයේ පළමු වතාවටයි."
+
+◼️
+
+[Data](articles/55fff101.json)
+
+[Extended Data](ext_articles/55fff101.ext.json)
 
 ---

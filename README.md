@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 17:20:12**
+As of **2024-07-12 17:36:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,823
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,980 (100.0%) of 34,982 articles have been extended.
+34,982 (100.0%) of 34,982 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ Former Health Minister Keheliya Rambukwella and six others, arrested over the al
 ◼️
 
 [Data](articles/abdf54e5.json)
+
+[Extended Data](ext_articles/abdf54e5.ext.json)
 
 ---
 
@@ -59,6 +61,8 @@ Upon completion of the Bingiriya Investment Zone, it is estimated that an export
 ...
 
 [Data](articles/a538782c.json)
+
+[Extended Data](ext_articles/a538782c.ext.json)
 
 ---
 

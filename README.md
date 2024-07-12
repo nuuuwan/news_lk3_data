@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 06:01:42**
+As of **2024-07-12 07:01:27**
 
 ## Newspaper Stats
 
-*Scraped **34,905** Articles*
+*Scraped **34,906** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 4,006
 tamilmirrorlk | 4,176
 dailymirrorlk | 4,733
 virakesarilk | 5,464
-adaderanasinhalalk | 5,802
+adaderanasinhalalk | 5,803
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,895 (100.0%) of 34,905 articles have been extended.
+34,904 (100.0%) of 34,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
+
+### නිරිත දිග ප්‍රදේශවල වැසි තත්ත්වයේ වැඩිවීමක්
+
+*2024-07-12 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198723) · `si`
+
+අද දිනයේ (12) සිට ඉදිරි දින කිහිපයේ දී දිවයිනේ නිරිත දිග ප්‍රදේශවල වැසි තත්ත්වයේ වැඩිවීමක් අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවේ.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50 ටවැඩි තරමක තද වැසි ඇතිවිය හැක.
+
+ඌව පළාතේ, අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලත්, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/47cb7d5a.json)
+
+---
 
 ### WindForce shines at Presidential Environment Awards 2024
 
@@ -43,6 +65,8 @@ Our subsidiary, Solar Universe (Pvt) Ltd, has been awarded the prestigious Gold 
 ...
 
 [Data](articles/3f0968c7.json)
+
+[Extended Data](ext_articles/3f0968c7.ext.json)
 
 ---
 
@@ -57,6 +81,8 @@ In the face of pressing challenges like soaring fuel costs, which impact enterpr
 ...
 
 [Data](articles/9bdd77c4.json)
+
+[Extended Data](ext_articles/9bdd77c4.ext.json)
 
 ---
 
@@ -76,6 +102,8 @@ Lumbini has invested Rs 150 million in a state-of-the-art factory in Madurankuli
 
 [Data](articles/c2d28fcf.json)
 
+[Extended Data](ext_articles/c2d28fcf.ext.json)
+
 ---
 
 ### HUTCH “Praja Sathkara” makes Poson pilgrimage possible
@@ -89,6 +117,8 @@ With normal transport modes congested during the period, and private hired trans
 ...
 
 [Data](articles/f7c28510.json)
+
+[Extended Data](ext_articles/f7c28510.ext.json)
 
 ---
 
@@ -108,37 +138,51 @@ Notable sessions on day two commenced by the session on the conference theme by 
 
 [Data](articles/5af0821c.json)
 
+[Extended Data](ext_articles/5af0821c.ext.json)
+
 ---
 
-### 10 கோடி ரூபாய் வருமானம் இழப்பு
+### 10 crores of rupees loss
 
 *2024-07-12 03:02:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-கோடி-ரூபாய்-வருமானம்-இழப்பு/175-340275) · `ta`
 
-பணிப்புறக்கணிப்பு இடம்பெற்ற இரண்டு தினங்களில் புகையிரத திணைக்களத்திற்கு ஏறக்குறைய 10 கோடி ரூபாய் வருமான இழப்பு ஏற்பட்டுள்ளதாக திணைக்களத்தின் உயர் அதிகாரி ஒருவர் இன்று (11) தெரிவித்தார்.
+In two days, the Railway Department incurred a Rs 10 crore loss due to a strike, affecting passenger transport ticket sales and other revenues like freight. Normally, it earns around Rs 9 crore daily from these sources. The situation could worsen if the strike prolongs.
 
-சாதாரண நாளில் ரயில்வே துறையின் பயணிகள் போக்குவரத்து டிக்கெட் வருமானம் 4 கோடி ரூபாயாகும். அந்த வருவாயுடன் சரக்கு உள்ளிட்ட இதர வருவாயையும் சேர்த்தால் தினசரி வருமானம் சுமார் 5 கோடி ரூபாயாகும்  என்று அதிகாரி கூறினார்.
+🟩
 
-ரயில் நிலையங்களில்  டிக்கெட் வழங்கத் தவறியதால், வேலை நிறுத்த நாட்களில் ஓடிய ரயில்களில் பயணம் செய்த பயணிகளுக்கு டிக்கெட் கட்டணம் கிடைக்கவில்லை என்றும் குறிப்பிட்டார். வேலைநிறுத்தம் தொடர்ந்தால் இழப்பு அதிகரிக்கும் என்றார்.
+A senior official of the Department today (11) said that the Railway Department has suffered a loss of Rs 10 crore in two days of the workplace.
+
+Passenger transport ticket income of the railway sector on normal day is Rs 4 crore. The daily income is about Rs 5 crore, if other revenues, including freight with that revenue, are about Rs 5 crore.
+
+He also said that the passengers who traveled on trains that ran on the strike days were not available for tickets for the train stations.. He said the loss would increase if the strike continues.
 
 ◼️
 
 [Data](articles/bccfa514.json)
 
+[Extended Data](ext_articles/bccfa514.ext.json)
+
 ---
 
-### அரசியலமைப்பில் திருத்தம்: ’குழப்பும் சூழ்ச்சி’
+### Amendment to Constitution: Confused maneuver
 
 *2024-07-12 03:00:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியலமைப்பில்-திருத்தம்-குழப்பும்-சூழ்ச்சி/175-340274) · `ta`
 
-ஜனாதிபதியின் பதவிக் காலம் தொடர்பில் அரசியலமைப்பில் திருத்தம் கொண்டுவர அமைச்சரவையில் தீர்மானம் நிறைவேற்றியமையானது ஜனாதிபதித் தேர்தல் தொடர்பில் மக்களை குழப்பத்திற்கு கொண்டு செல்வதற்கும், அந்தத் தேர்தலை தாமதப்படுத்துவதற்கும் எடுத்துள்ள முயற்சியே ஆகும் என்று தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்துள்ளார்.
+TNA parliamentarian MA Sumanthiran criticized a Cabinet resolution on the president's term as a tactic to confuse and delay elections. He highlighted that the High Court confirmed the president's five-year tenure, aligning with the 19th Amendment. Sumanthiran argued that proposing an amendment to Section 83(B) of the Constitution regarding the president's term was unnecessary and aimed to mislead the public, potentially delaying the election process.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (11) இடம்பெற்ற  சட்டரீதியான ஏற்பாடுகளுக்கு அமைய உரிய காலத்தில் ஜனாதிபதித் தேர்தலை நடத்துவது பற்றிய சபை ஒத்திவைப்பு வேளை விவாதத்தில் உரையாற்றும் போதே சுமந்திரன் எம்.பி இவ்வாறு தெரிவித்தார்.
+🟩
 
-ஜனாதிபதியின் பதவிக் காலம் தொடர்பில் கடந்த 8ஆம் திகதி தாக்கல் செய்யப்பட்டிருந்த மனு தொடர்பான அறிவிப்பின் போது உயர்நீதிமன்றம் ஜனாதிபதியின் பதவிக்காலம் 5 வருடங்கள் என்பதனை தெளிவாக கூறியிருந்தது. அத்துடன் 19ஆவது திருத்தத்திலும் அந்த விடயம் குறிப்பிடப்பட்டுள்ளது. 19ஆவது திருத்தத்தில், ஜனாதிபதியின் பதவிக் காலத்தை ஐந்து வருடங்களாகக் குறைக்கும் வகையில் 30(2)வது சரத்து திருத்தப்பட்டது.
+Tamil National Alliance (TNA) parliamentarian MA Sumanthiran said that the resolution of the Cabinet resolution on the president's term was an attempt to bring confusion and delay the election.
+
+Sumanthiran MP said this while addressing the adjournment debate on the presidential election in accordance with the legal arrangements in Parliament on Thursday (11).
+
+The High Court made it clear that the president's tenure was five years during the announcement of the petition filed by the President on the 8th of last month.. The matter is also mentioned in the 19th Amendment. In the 19th Amendment, the 30th (2) revised to reduce the president's term of office to five years.
 
 ...
 
 [Data](articles/8e4226f1.json)
+
+[Extended Data](ext_articles/8e4226f1.ext.json)
 
 ---
 
@@ -2205,25 +2249,5 @@ He was speaking at a media briefing conducted by the ovenoms held today (11).
 [Data](articles/55fff101.json)
 
 [Extended Data](ext_articles/55fff101.ext.json)
-
----
-
-### ‘Club Wasantha’ killing: New footage emerges of fatal shooting
-
-*2024-07-11 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100447/club-wasantha-killing-new-footage-emerges-of-fatal-shooting-) · `en`
-
-New CCTV footage of the fatal shooting which killed businessman Surendra Wasantha Perera alias ‘Club Wasantha’ and another person in Athurugiriya has emerged on Thursday (11), providing further insights into the shocking incident.
-
-The video, obtained from CCTV cameras inside the shop, shows the moment of the shooting, when the gunmen enter the tattoo studio and open fire targeting ‘Club Wasantha’ before fleeing the scene.
-
-The shooting occurred during the opening ceremony of a tattoo and piercing studio near the Clock Tower in Athurugiriya on Monday (08), killing two persons including businessman Surendra Wasantha Perera, known as “Club Wasantha” and causing critical injuries to four others.
-
-Hospital sources reported that popular singer K. Sujeewa, who was seriously injured in her leg during the incident, underwent surgery at the Colombo National Hospital and is now in a stable condition.
-
-◼️
-
-[Data](articles/51c41431.json)
-
-[Extended Data](ext_articles/51c41431.ext.json)
 
 ---

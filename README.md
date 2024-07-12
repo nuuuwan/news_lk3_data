@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 13:35:31**
+As of **2024-07-12 13:54:55**
 
 ## Newspaper Stats
 
-*Scraped **34,947** Articles*
+*Scraped **34,949** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ economynextcom | 2,072
 dailyftlk | 2,203
 adalk | 3,150
 adaderanalk | 4,014
-tamilmirrorlk | 4,182
+tamilmirrorlk | 4,183
 dailymirrorlk | 4,733
 virakesarilk | 5,471
-adaderanasinhalalk | 5,812
+adaderanasinhalalk | 5,813
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,946 (100.0%) of 34,947 articles have been extended.
+34,947 (100.0%) of 34,949 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
+
+### முட்டைக்கு ‘வற்’ பொய்
+
+*2024-07-12 13:30:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டைக்கு-வற்-பொய்/175-340292) · `ta`
+
+முட்டை உற்பத்தியாளர்களின் சங்கம் என கூறிக்கொள்ளும் குறிப்பிட்ட சங்கம் முட்டைக்கு அடுத்த வருடம் முதல் VAT வரியை விதிக்கவுள்ளதாக ஊடகங்களுக்கு விடுத்துள்ள அறிவிப்பு தொடர்பில் கவனம் செலுத்தப்பட்டுள்ளதாக விவசாய மற்றும் தோட்ட கைத்தொழில் அமைச்சு தெரிவித்துள்ளது.
+
+முட்டைகளுக்கு அடுத்த ஆண்டு முதல் அல்ல, ஏற்கனவே 18 சதவீத வரி விதிக்கப்பட்டுள்ளது. அடுத்த ஆண்டு இந்த VAT வரியை அதிகரிக்கும் திட்டம் இல்லை என்றும் விவசாய அமைச்சகம் தெரிவித்துள்ளது.
+
+இலங்கையில் கடந்த ஆண்டு 7 மில்லியன் முட்டைகளின் தினசரி நுகர்வு இருந்த போதிலும், இந்த ஆண்டு முட்டையின் தினசரி நுகர்வு 15 சதவீதத்தால் அதிகரித்துள்ளது. தற்போது இலங்கையின் நாளாந்த முட்டை தேவை 8.5 மில்லியன் முட்டைகளாக அதிகரித்துள்ளது
+
+◼️
+
+[Data](articles/4d744ac5.json)
+
+---
+
+### ශ්‍රේෂ්ඨාධිකරණය ට ආ අලුත්ම FR පෙත්සම
+
+*2024-07-12 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198735) · `si`
+
+මේ වන විට පුරප්පාඩුව පවතින අභියාචනාධිකරණ විනිසුරු ධුර සඳහා විනිසුරුවරු පත්නොකිරීම තුළින් ජනාධිපතිවරයා සහ ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාව මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා ගොනුකළ මූලික අයිතිවාසිකම් පෙත්සමක් විභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය අවසර ලබා දුන්නේය.
+
+ජනාධිපති නීතිඥවරයෙකු වන සේනක වල්ගම්පාය මහතා විසින් ඉදිරිපත් කළ පෙත්සමක් සලකා බැලීමෙන් අනතුරුව අධිකරණය මෙම නියෝගය නිකුත් කළේය.
+
+◼️
+
+[Data](articles/8b9241e1.json)
+
+---
 
 ### 2 buses carrying at least 60 swept into river by landslide in Nepal
 
@@ -2217,53 +2247,5 @@ According to Article 10 of the Constitution, all Sri Lankan people are entitled 
 [Data](articles/5a29d4eb.json)
 
 [Extended Data](ext_articles/5a29d4eb.ext.json)
-
----
-
-### IGP's promise
-
-*2024-07-11 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198717) · `si`
-
-After a shooting incident in Athurugiriya, the Inspector General of Police (IGP) faced threats. He revealed that names of police officers were publicly announced and threatened to be killed. The IGP assured that officers linked to the underworld won't shy away from duty and promised to take measures to maintain societal harmony.
-
-🟩
-
-Inspector General of Police (IGP) has been threatened after the shooting incident in the Athurugiriya.
-
-He said that the names of the police officers have been advertised and threatened to kill the officers.
-
-Speaking to the media today (IGP) said this.
-
-The IGP stated that the police officers who have been underworld will never hesitate.
-
-He also said that he will take action to coordinate the circulation of society.
-
-◼️
-
-[Data](articles/37137187.json)
-
-[Extended Data](ext_articles/37137187.ext.json)
-
----
-
-### Railway strike called off
-
-*2024-07-11 21:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100452/railway-strike-called-off) · `en`
-
-Sri Lanka Railways trade unions have decided to call off their strike from midnight today (11) following talks with the government.
-
-Meanwhile, Transport Minister Bandula Gunawardene says that if the striking railway employees report for duty, the letters sent considering them as having vacated their posts will be withdrawn.
-
-Earlier today, Minister Gunawardene had stated that letters have been sent to all railway employees who participated in the strike notifying them that they are considered to have vacated their respective positions.
-
-He had stated that the General Manager of Sri Lanka Railways has sent letters informing all Station Masters who have not reported to duties and are engaged in the strike that they are considered to have vacated their positions.
-
-The General Manager of Railways had previously warned that all Station Masters and Railway Controllers who fail to report to duty by 12.00 noon yesterday (10) would be considered as having vacated their positions.
-
-...
-
-[Data](articles/06222d93.json)
-
-[Extended Data](ext_articles/06222d93.ext.json)
 
 ---

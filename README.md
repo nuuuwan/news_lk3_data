@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 22:08:00**
+As of **2024-07-12 22:20:11**
 
 ## Newspaper Stats
 
-*Scraped **34,998** Articles*
+*Scraped **35,000** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 1,969
 economynextcom | 2,072
 dailyftlk | 2,203
 adalk | 3,158
-adaderanalk | 4,021
+adaderanalk | 4,022
 tamilmirrorlk | 4,195
 dailymirrorlk | 4,733
 virakesarilk | 5,477
-adaderanasinhalalk | 5,828
+adaderanasinhalalk | 5,829
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,998 (100.0%) of 34,998 articles have been extended.
+34,998 (100.0%) of 35,000 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
+
+### Sri Lanka to replace India in Champions Trophy 2025?
+
+*2024-07-12 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100470/sri-lanka-to-replace-india-in-champions-trophy-2025) · `en`
+
+India is highly unlikely to travel to Pakistan for the Champions Trophy 2025 which is scheduled to take place in Feb-Mar next year.
+
+The Sri Lanka cricket team will replace India cricket team if the latter decide to pull out of the Champions Trophy 2025. Rohit Sharma and co. are highly unlikely to travel to Pakistan which is scheduled to host the marquee tournament next year. As per reports, Sri Lanka – who did not qualify for CT 2025 owing to their 9th placed finish in the 2023 ODI World Cup – will replace India.
+
+Sri Lanka, who were the winners of the event in 2002, failed to qualify for the Champions Trophy for the first-time ever. While India is unlikely to travel to Pakistan, the BCCI is likely to request that the International Cricket Council (ICC) relocate the event to either Sri Lanka or the United Arab Emirates (UAE).
+
+...
+
+[Data](articles/2437de16.json)
+
+---
+
+### අරුණ දර්ශන ට 'මතු දෙරණ' සවිය දෙයි
+
+*2024-07-12 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198753) · `si`
+
+දක්ෂතාවලින් පරිපූර්ණ ශ්‍රී ලංකාවේ තාරුණ්‍යයට සවියක් වීමේ අරමුණින් දෙරණ මාධ්‍ය ජාලය ආරම්භ කළ "මතු දෙරණ" ව්‍යාපෘතිය යටතේ, මෙවර පැරිස් ඔලිම්පික් වරම් දිනාගත් අරුණ දර්ශනට මූල්‍ය අනුග්‍රාහක ශිෂ්‍යත්වයක් අද (12) පිරිනැමුණි.
+
+මෙවර පැරිස් ඔලිම්පික් උළෙලේ මීටර 400 පිරිමි ධාවන ඉසව්ව සඳහා 25 හැවිරිදි අරුණ දර්ශන පසුගියදා සුදුසුකම් ලබා ගත්තේය.
+
+ශ්‍රී ලංකා මලල ක්‍රීඩකයෙකු එම ඉසව්ව සඳහා ඔලිම්පික් වරම් දිනාගනු ලැබවේ, වසර 20කට පසුවය.
+
+සේරුනුවර දුෂ්කර ගම්මානයක උපන් අරුණ දර්ශන සේරුනුවර ශ්‍රී දෙහිවත්ත මහා විද්‍යාලයෙන් හා අකුරුම්බොඩ වීරකැප්පෙටිපොළ ජාතික පාසලෙන් මලල ක්‍රීඩාවට අත්පොත් තැබීය.
+
+දීප්තිමත් අනාගතයක් ඇති අරුණ දර්ශනගේ ක්‍රීඩා දිවියට අත්වැලක් වීමේ අරමුණෙන් 'මතු දෙරණ' මෙම පියවර ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/347bed20.json)
+
+---
 
 ### State Minister Balasuriya praises Indian PM Modi, emphasizes regional connectivity
 
@@ -2297,47 +2333,5 @@ It is the duty of the government to ensure the safety of the people. There has b
 [Data](articles/9e42a482.json)
 
 [Extended Data](ext_articles/9e42a482.ext.json)
-
----
-
-### Ranil immature, not crafty says AKD
-
-*2024-07-12 02:52:43* · [`dailyftlk`](https://www.ft.lk/news/Ranil-immature-not-crafty-says-AKD/56-764193) · `en`
-
-NPP leader Anura Kumara Dissanayake says confusion and doubts have been sowed among citizens regarding the Presidential election
-
-Accuses President Ranil Wickremesinghe of amusing himself by creating confusion and mistrust among MPs and people
-
-Criticises certain UNP members for adding to the confusion by suggesting that Wickremesinghe should be allowed to retain his position
-
-Points out none of Wickremesinghe’s schemes have ever succeeded and his efforts to delay elections are unlikely to succeed either
-
-National People’s Party (NPP) leader Anura Kumara Dissanayake has said it is likely that succeeding President Ranil Wickremesinghe would already be home having lost the Presidential election by the time the constitutional amendment bill proposed by the Government concerning the Presidency is added to the Parliamentary agenda.
-
-...
-
-[Data](articles/f668edb4.json)
-
-[Extended Data](ext_articles/f668edb4.ext.json)
-
----
-
-### Legal battle over Deshabandu Thennakoon’s IGP appointment continues in SC
-
-*2024-07-12 02:50:24* · [`dailyftlk`](https://www.ft.lk/news/Legal-battle-over-Deshabandu-Thennakoon-s-IGP-appointment-continues-in-SC/56-764192) · `en`
-
-Saliya Peiris PC representing YJA says Deshabandu Thennakoon’s nomination and appointment as IGP was wrongful and arbitrary
-
-Shamil Perera PC referring to the Easter Sunday attack emphasises that an officer identified as having neglected his responsibilities is unfit to be appointed as IGP
-
-Counsel Manisha Kumarasinghe claims Thennakoon was appointed despite accusations of wrongdoing and in contravention to the Establishment Code
-
-In a fundamental rights petition filed by the Young Journalists Association challenging the appointment of Deshabandu Thennakoon as the Inspector General of Police, Saliya Peiris PC argued that both the appointment itself and President Ranil Wickremesinghe’s nomination of Thennakoon to the post, submitted to the Constitutional Council, were arbitrary.
-
-...
-
-[Data](articles/0a0a8e05.json)
-
-[Extended Data](ext_articles/0a0a8e05.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 12:19:54**
+As of **2024-07-12 12:35:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,812
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,935 (100.0%) of 34,938 articles have been extended.
+34,937 (100.0%) of 34,938 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ State Minister for Transport Lasantha Alagiyawanna, made this statement during a
 ...
 
 [Data](articles/1b8d1dba.json)
+
+[Extended Data](ext_articles/1b8d1dba.ext.json)
 
 ---
 
@@ -74,21 +76,29 @@ It is reported that landslides have begun operations in search of passengers.
 
 ---
 
-### சொந்த தங்கையை கோடாரியால் வெட்டிய அண்ணன்
+### Brother -in -law
 
 *2024-07-12 11:13:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொந்த-தங்கையை-கோடாரியால்-வெட்டிய-அண்ணன்/175-340280) · `ta`
 
-தன் சொந்த தங்கையை கோடாரியால் அண்ணன் வெட்டிய சம்பவம் தொடர்பான வீடியோ வெளியாகி பெரும் அதிர்வை ஏற்படுத்தியுள்ளது.
+A shocking video of a man attacking his sister with an axe in Benagaserla village, Andhra Pradesh, has gone viral. The incident occurred due to a dispute over evacuating their home after a landslide. The attacker, identified as Jilani, was arrested by the police. His sister, Mehbubi, was hospitalized following the assault.
 
-IFrame ஆந்திரா மாநிலம், அனந்தபூர் பகுதியில் உள்ள பெனகசெர்லா கிராமத்தில் இந்த கொடூரச் சம்பவம் நடைபெற்றுள்ளது. நிலத்தகராறு காரணமாக ஒருவர் தனது சகோதரியை கோடாரியால் தாக்கியுள்ளார். இந்த சம்பவத்தை ஒருவர் வீடியோ எடுத்து சமூக வலைதளங்களில் பதிவிட்டுள்ளார். இந்த வீடியோ தான் தற்போது வைரலாகி வருகிறது.
+🟩
 
-இந்த சம்பவம் குறித்த தகவல் அறிந்த பொஸார் சம்பவ இடத்திற்கு விரைந்து சென்று பெண்ணைக் கோடாரியால் தாக்கியவரை பிடித்தனர். வெட்டப்பட்ட பெண் மெஹபூபி என்றும், அவரை கோடாரியால் வெட்டியவர் ஜிலானி என்பதும் தெரிய வந்தது. தாக்குதலில் காயமடைந்த பெண் மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார்.
+The video of his brother -in -law's brother cut off her own sister has caused great shock.
 
-பொலிஸார் நடத்திய விசாரணையில், பெனகசெர்லா கிராமத்தில் ஜிலானியின் தங்கை மெஹபூபி ஒரு வீட்டில் வசித்து வந்தார். அந்த வீட்டைக் காலிச் செய்யச் சொல்லி ஜிலானி மிரட்டி வந்துள்ளார். அவர் வீட்டைக் காலி செய்யாத ஆத்திரத்தில் ஜிலானி கோடாரியால் தாக்கியது விசாரணையில் தெரிய வந்தது.
+The horrific incident took place in Benagaserla village in Anantapur, Andhra Pradesh. One person attacked his sister with an ax due to landslide. Someone has posted the incident on social networks. This video is currently going viral.
 
-...
+Upon learning of the incident, Posar rushed to the scene and caught the woman with an ax attack. It was revealed that the cut was Mehbubi and the man who cut him with an ax. The woman who was injured in the attack has been admitted to hospital.
+
+In an investigation conducted by the police, Jilani's sister Mehbubi lived in a house in Benagaserla village. Jilani has been intimidated by telling her to evacuate the house. Investigations revealed that Gilani was attacked by an ax in a rage that he did not vacate the house.
+
+Police have arrested Jilani who attacked Mehbubi. According to law, police are investigating whose house is.
+
+◼️
 
 [Data](articles/c48935ff.json)
+
+[Extended Data](ext_articles/c48935ff.ext.json)
 
 ---
 

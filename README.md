@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 11:35:39**
+As of **2024-07-12 11:55:13**
 
 ## Newspaper Stats
 
-*Scraped **34,929** Articles*
+*Scraped **34,934** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ colombotelegraphcom | 326
 bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,968
-economynextcom | 2,068
+economynextcom | 2,072
 dailyftlk | 2,203
-adalk | 3,149
+adalk | 3,150
 adaderanalk | 4,012
 tamilmirrorlk | 4,179
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,811
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,929 (100.0%) of 34,929 articles have been extended.
+34,929 (100.0%) of 34,934 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -234,6 +234,24 @@ It is reported that Kanganamlake Timuthu Chezhunga Perera will be handed over to
 
 ---
 
+### Sri Lanka UDA leases Kollupitiya land to Expo Property Developers
+
+*2024-07-12 10:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-uda-leases-kollupitiya-land-to-expo-property-developers-171837/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Urban Development Authority will lease a 52-perch land belonging to it at Kollupitiya to Expo Property Developers (Pvt) Ltd for a housing project, a senior minister said.
+
+Cabinet approved the proposal “to transfer the relevant portion of land to the Expo Property Developers (Pvt) Ltd under 99 years lease basis on the current assessment of the chief assessor,” Minister Bandula Gunawardena said.
+
+Cabinet approval was granted in 2007 to lease 40 perches in the Marine Drive area under a 50-year long-term basis, as per the provisions of the Urban Development Authority Act, Gunawardena told reporters announcing this week’s cabinet decisions.
+
+An amount equal to 25 percent of the value of the land had been charged, “However, functions relevant to transferring of the land could not be completed due to an unauthorized person residing there.”
+
+...
+
+[Data](articles/014314ab.json)
+
+---
+
 ### Kolonnators arrested for STF operation
 
 *2024-07-12 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198728) · `si`
@@ -260,6 +278,32 @@ The suspects are the main disciples of the Rotumba Amila, a member of the Rotumb
 
 ---
 
+### Sri Lanka rupee opens stronger at 302.75/90 to US dollar
+
+*2024-07-12 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-302-75-90-to-us-dollar-171827/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened slightly stronger at 302.75/90 to the US dollar on Friday, while bond yields were up, and stocks opened 0.12 percent down, dealers said.
+
+The rupee closed at 302.80/303.00 to the greenback on Thursday.
+
+In the secondary market, yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.90/95 percent, up from 10.85/95 percent.
+
+A bond maturing on 15.12.2027 was quoted at 11.80/85 percent, down from 11.80/88 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.80/95 percent, up from 11.80/90 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.10/25 percent, down from 12.15/25 percent.
+
+In equities, Colombo’s All Share Price Index opened 14.68 points lower at 11,787, while the S&P SL20 of more liquid stocks opened up at 0.09 percent or 3.03 points to 3,438.
+
+◼️
+
+[Data](articles/18a5433a.json)
+
+---
+
 ### Presidential Scholarship awards to commence at district level today
 
 *2024-07-12 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100457/presidential-scholarship-awards-to-commence-at-district-level-today) · `en`
@@ -275,6 +319,24 @@ Selected students in the Hambantota district will receive their scholarships tod
 [Data](articles/983d6ed1.json)
 
 [Extended Data](ext_articles/983d6ed1.ext.json)
+
+---
+
+### නෙදර්ලන්තයේ සිට ලංකාවේ පොලීිසියට ආපු සුනඛ ධේනුවන් පොලීසියට දුන් තෑග්ග
+
+*2024-07-12 09:14:34* · [`adalk`](https://www.ada.lk/breaking_news/නෙදර්ලන්තයේ-සිට-ලංකාවේ-පොලීිසියට-ආපු-සුනඛ-ධේනුවන්-පොලීසියට-දුන්-තෑග්ග/11-410753) · `si`
+
+පොලිස් දෙපාර්තමේන්තුවේ නිල සුනඛ කන්ඩායම  සඳහා අලුතින්ම  එක්වූ ගැබ්බර සුනඛ ධේනුවන් දෙදෙනෙකු විසින් පැටවුන් 13 දෙනෙකු ප්‍රසූත කළ බව පොලිස් මාධ්‍ය කොට්ඨාසය කියයි.
+
+පැටවුන් බිහිකර ඇත්තේ  පොලිස් නිල සුනඛ කන්ඩායම සඳහා එක් කිරීමට ඉකුත් 05 දා  නෙදර්ලන්තයෙන්  මෙරටට  ගෙන්වූ Belgian Malinois, German Shepherd, English Springer Spaniel වර්ගයේ නිල සුනඛයන් 35 දෙනා අතර සිටි
+
+English Springer වර්ගයේ ටෙන්පර්ඩ් සහ ලියා යන ගැබ්බර  සුනඛ  ධේනුවන්  දෙදෙනා විසිනි.
+
+මහනුවර අස්ගිරිය පොලිස් නිල සුනඛ මූලස්ථානයේදී උපත ලද මෙම පැටවුන් මෙන්ම සුනඛ ධේනුවන් දෙදෙනා පොලිස් නිල සුනඛ  කොට්ඨායේ පශු වෛද්‍ය අමල් දිසානායක මහතාගේ අධීක්ෂණය යටතේ යහපත්  සෞඛ්‍ය තත්වයෙන් සිටින බව පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/cab1bb08.json)
 
 ---
 
@@ -343,6 +405,28 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/e27c673a.json)
 
 [Extended Data](ext_articles/e27c673a.ext.json)
+
+---
+
+### Third duty free operator eyeing Sri Lanka Port City Colombo
+
+*2024-07-12 08:36:00* · [`economynextcom`](https://economynext.com/third-duty-free-operator-eyeing-sri-lanka-port-city-colombo-171809/) · `en`
+
+ECONOMYNEXT – A third international duty free operator is eyeing Sri Lanka’s Port City Colombo, a statement said after cabinet approved two operators to set up shop in the special economic zone.
+
+China Duty Free and One World Duty Free, were given the status of businesses of secondary strategic importance, by the Cabinet of Ministers.
+
+“Our partners are now empowered to operate within the Colombo Port City Special Economic Zone, allowing for the eagerly anticipated opening of the Downtown Duty-Free Mall to go ahead before the close of Q3 2024,” Xiong Hongfeng, Managing Director, CHEC Port City Colombo (Pvt) Ltd said in the statement.
+
+A third international luxury duty-free brand is exploring a collaboration at the duty-free mall concept, CHEC Port City Colombo said.
+
+A third operator will provide “travellers arriving in Sri Lanka significantly more choice,” the statement said.
+
+RELATED Sri Lanka approves 13 secondary strategic firms at Port city, including duty free
+
+...
+
+[Data](articles/4f3bab7d.json)
 
 ---
 
@@ -445,6 +529,24 @@ Meanwhile, the Deputy Leader Akila Virajithramasam said that the security insura
 [Data](articles/08ddf9d7.json)
 
 [Extended Data](ext_articles/08ddf9d7.ext.json)
+
+---
+
+### IMF still assessing Sri Lanka’s sovereign bond restructure plan
+
+*2024-07-12 07:03:00* · [`economynextcom`](https://economynext.com/imf-still-assessing-sri-lankas-sovereign-bond-restructure-plan-171807/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund is still assessing Sri Lanka’s deal with investors to re-structure sovereign bonds, Director of Communications Julie Cozack has said.
+
+“Our team is in the process of assessing the agreed terms of the debt restructuring and whether they’re consistent with the parameters of our of our program,” Cozack told reporters in Washington.
+
+“So once that assessment is complete, we’ll be able to communicate our our views on that.”
+
+The Official Creditor Committee also has to sign off the deal with private bondholders.
+
+◼️
+
+[Data](articles/c94051b1.json)
 
 ---
 
@@ -2111,137 +2213,5 @@ Although all the work of the film was completed last year, the film crew waited 
 [Data](articles/39576315.json)
 
 [Extended Data](ext_articles/39576315.ext.json)
-
----
-
-### 82.48 % votes in the by -election
-
-*2024-07-11 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188238) · `ta`
-
-In the Vikravandi by-election, 82.48% of voters turned out, marking a significant participation rate. The election, held amidst a brief period of political tension, concluded without major incidents, with the votes set to be counted on July 13. The high turnout indicates strong voter interest despite the AIADMK's boycott, suggesting a potential shift in electoral dynamics.
-
-🟩
-
-The Election Commission said that 82.48 per cent of the votes were cast in the by -election of Vikravandi constituency located in the northern part of Tamil Nadu.
-
-N, who was a member of the Vikravandi constituency. Prasanthi died suddenly due to ill health in April. Following this, the Election Commission announced that the constituency was vacant.
-
-The Election Commission has announced that the by -election for 13 vacant assembly constituencies across India will be held on July 10 with the end of the Lok Sabha elections.
-
-Following this, the by -election will be held on July 10 for the Vikravandi assembly constituency.. Anniyoor Siva on behalf of DMK. Anbumani and Abhinaya on behalf of Nam Tamils ​​contested as a candidate.
-
-During the by -election of the Erode Eastern constituency earlier this year, the ruling DMK, the AIADMK boycotted the by -election for the Vikravandi constituency.. This resulted in a three-day rivalry between the DMK-Bamaka and Nam Tamils.
-
-...
-
-[Data](articles/c9e391b3.json)
-
-[Extended Data](ext_articles/c9e391b3.ext.json)
-
----
-
-### Susheendran directed '2K Love Story'
-
-*2024-07-11 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188237) · `ta`
-
-"Director Susheendran's '2K Love Story,' featuring newcomer Jekavir and others, premiered in Chennai. The film, also starring Meenakshi Govindarajan, Bala Saravanan, and more, explores the lives of cinematographers through a multi-faceted love story. Shot in Coimbatore and Chennai, it's produced by Vignesh Subramanian under City Light Pictures."
-
-🟩
-
-The inauguration of the film '2K Love Story' starring the hero of the new actor Jekavir was held in Chennai.
-
-Director Susheendran, who has directed a number of hit films in Tamil cinema, starring Jekavir, Meenakshi Govindarajan, Bala Saravanan, Antony Bhagyaraj, Jayaprakash, Vinodini and many others in the film '2K Love Story'.
-
-V.. S.. Ananda Krishnan cinematography. Iman is composing. The film is being produced by Vignesh Subramanian on behalf of City Light Pictures.
-
-Commenting on the film, the director said, “The film's screenplay has been set up as a love story of all sides, embracing the events of the life of cinematographers who record the wedding events.
-
-The storyline of the film is scheduled to be shot in Coimbatore and Chennai as it is Coimbatore. ”
-
-◼️
-
-[Data](articles/dc01d90a.json)
-
-[Extended Data](ext_articles/dc01d90a.ext.json)
-
----
-
-### Vijay Antony's 'Rain'
-
-*2024-07-11 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188239) · `ta`
-
-"Vijay Antony stars in 'Rainless Man,' set for release on August 2 after initially planned for July. Directed by Vijay Milton, featuring Sathyaraj, Sarathkumar, and others. Composed by Vijay Antony and Aksha Rajamani. Produced by Exan Entertainer and Infinity Film Ventures."
-
-🟩
-
-The release date of the film 'Rainless Man' starring musician and leading star actor Vijay Antony has been released.
-
-Vijay Antony, Sathyaraj, Sarathkumar, Dali Tananjaya, Mega Akash, Murali Sharma, Saranya Ponvannan, Prithvi Amber, starring Vijay Milton, directed by Vijay Milton.
-
-Vijay Antony and Aksha Rajamani have composed the film, which is being recorded by Vijay Milton.
-
-The film is being produced as Exan Entertainer and produced by Kamal Bohra, Pankaj Bohra, Lalitha Tananjayan and B Pradeep on behalf of Infinity Film Ventures.
-
-The film, which is scheduled to be released in July, will be released on August 2, as it is not available on the appropriate release date.
-
-It is noteworthy that Vijay Antony's market value will last only if the film is a commercial and critical success.
-
-◼️
-
-[Data](articles/dcf70277.json)
-
-[Extended Data](ext_articles/dcf70277.ext.json)
-
----
-
-### Going to the referendum will cause election activities - Udaya Kammanpila
-
-*2024-07-11 18:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188233) · `ta`
-
-Udaya Kammanpila warns that going to the referendum could disrupt the election process due to the 22nd Amendment's impact on the president's term. He highlights concerns over the necessity of amending Article 83(b) of the Constitution, which extends the presidential term from five to six years. This amendment, along with other factors like the UNP's history post-elections and the postponements of local government and provincial council elections, casts doubt on the legitimacy of the upcoming presidential election.
-
-🟩
-
-With the announcement of the presidential election, the 22nd Amendment to the president's tenure will be a crisis in the election process.
-
-The Constitution clearly stated that if the Article 83 (b) of the Constitution is to be amended, the amendment is now unnecessary.
-
-He was speaking at the postponement debate on holding the presidential election in a timely manner in accordance with the legal arrangements in Parliament on Thursday (11).
-
-The National Elections Commission should officially announce the presidential election within six days. However, there is a lack of confidence in the election.
-
-Four factors have influenced the suspicion of the presidential election.
-
-The president's party chairman Vajira Abeywardena continued to give the president a further 10 years. The United National Party (UNP) has a dangerous background after the election.
-
-The 2015 local government election was postponed for two years. Following that, the 2018 Provincial Council election was not found today.
-
-...
-
-[Data](articles/95004004.json)
-
-[Extended Data](ext_articles/95004004.ext.json)
-
----
-
-### There are 495 people over the age of 100 in Sri Lanka!
-
-*2024-07-11 18:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/188232) · `ta`
-
-In Sri Lanka, there are 495 centenarians who qualify for a special scholarship for the elderly. State Minister Ranjith Siyambalapitiya announced this in Parliament, noting that by 2030, the number of pensioners could surpass 10 lakh due to the increasing elderly population.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya told Parliament today (11) that there are 495 people in Sri Lanka.
-
-He said that these persons also have the right to get a special scholarship offered to the elderly.
-
-“There are more than 60 years of age 27 lakhs. In this case, the number of pensioners will exceed 10 lakhs by 2030, he added.
-
-◼️
-
-[Data](articles/7817abce.json)
-
-[Extended Data](ext_articles/7817abce.ext.json)
 
 ---

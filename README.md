@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 11:20:00**
+As of **2024-07-12 11:35:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,811
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,925 (100.0%) of 34,929 articles have been extended.
+34,929 (100.0%) of 34,929 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,57 +44,81 @@ The petition argues that the 19th Amendment to the Constitution was not properly
 
 [Data](articles/c89b172e.json)
 
+[Extended Data](ext_articles/c89b172e.ext.json)
+
 ---
 
-### ජනාධිපතිවරණය ගැන තීන්දුවක් ඉල්ලා තවත් පෙත්සමක්
+### Petition demanding a verdict on presidential election
 
 *2024-07-12 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198732) · `si`
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනය විධිමත් ආකාරයෙන් සම්මත වී නොමැති නිසා එය ජනමතවිචාරණයකට යොමු කර ඉන් අනුමැතිය ලබාගන්නා තුරු ඉදිරි ජනාධිපතිවරණයක් පැවැත්වීම තුළින් ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝනය වන බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සමක් ගොනු කර තිබේ.
+A legal challenge has been filed against the 19th Amendment, arguing it undermines presidential powers without proper referendum approval. Lawyer Aruna Laksiri Unawatuna accuses the Elections Commission, Secretary General, and Attorney General of misconduct. The petition seeks clarity on whether the amendment, which limits the president's ability to dissolve parliament, is legally binding despite lacking a referendum.
 
-නීතිඥ අරුණ ලක්සිරි උණවටුන මහතා විසින් මෙම පෙත්සම ඉදිරිපත් කර ඇත.
+🟩
 
-එහි වගඋත්තරකරුවන් ලෙස මැතිවරණ කොමිසම සහ එහි සාමාජිකයින්, පාර්ලිමේන්තු මහ ලේකම්වරයා සහ නීතිපතිවරයා නම් කර තිබේ.
+The 19th Amendment to the Constitution is not a referendum and conducting a future presidential election, a fundamental rights petition has been filed in the face of a referendum.
 
-පෙත්සම්කරු කියා සිටින්නේ ආණ්ඩු ක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනය තුළින් ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 70 වන ව්‍යවස්ථාව සංශෝධනය කොට තේරී පත්වෙන පාර්ලිමේන්තුවක් වසරක් ගෙවී යාමෙන් පසුව විසුරුවා හැරීමට ජනාධිපතිවරයා සතු බලය අහිමි කිරීමට කටයුතු කර ඇති බවය.
+The petition has been presented by lawyer Aruna Laksiri Unawatuna.
 
-එම සංශෝධනය ජනමතවිචාරණයකට යොමු කළ යුතු බවට ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් තීන්දු කර තිබුණ ද එය ජනමතවිචාරණයකින් මේ දක්වා අනුමත වී නොමැති බව පෙත්සම්කරු කියා සිටියි.
+The Elections Commission and its members, the Secretary General and the Attorney General have been named as respondents.
 
-...
+The petitioner claims that the 19th Amendment to the Constitution of the Constitution was aimed at depriving the President's power to dissolve a year after passing a year.
+
+The petitioner says that although the Supreme Court has decided to submit that amendment, it has not been approved by a referendum.
+
+The petitioner has pointed out that the President has approved a referendum and has not been signed as a law.
+
+Despite this, he pointed out that it is wrong to accept the 19th Amendment as a law.
+
+◼️
 
 [Data](articles/928dbc95.json)
 
+[Extended Data](ext_articles/928dbc95.ext.json)
+
 ---
 
-### බිංගිරිය ට ගිය ජනපති
+### President visited Bingiriya
 
 *2024-07-12 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198731) · `si`
 
-බිංගිරිය අපනයන සැකසුම් කලාපයේ දෙවැනි සහ තෙවැනි අදියර සංවර්ධනය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහභාගී වූ උත්සවයකදී ආරම්භ කර තිබේ.
+President Ranil Wickremesinghe launched a project in Bingiriya aimed at developing it into Sri Lanka's largest export processing zone.
 
-මෙම අපනයන සැකසුම් කලාපය මෙරට විශාලතම අපනයන සැකසුම් කලාපය ලෙස සංවර්ධනය කිරීමට නියමිතය.
+🟩
+
+President Ranil Wickremesinghe has commenced at a ceremony at a participant at a meeting.
+
+The Export Processing Zone is to be developed as the largest export processing zone of Sri Lanka.
 
 ◼️
 
 [Data](articles/18d14609.json)
 
+[Extended Data](ext_articles/18d14609.ext.json)
+
 ---
 
-### இந்திய பிரஜைகள் ஆறு பேர் கைது
+### Six Indian citizens arrested
 
 *2024-07-12 10:55:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-பிரஜைகள்-ஆறு-பேர்-கைது/175-340278) · `ta`
 
-வீசா இன்றி இலங்கையில் தங்கியிருந்த 06 இந்திய பிரஜைகளை சட்டவிரோத சிகரெட்டுகளுடன் கட்டுநாயக்க பொலிஸார் கைது செய்துள்ளனர்.
+Six Indians, aged 25 to 42, were arrested in Sri Lanka for illegal immigration and possession of 1,000 smuggled cigarettes.
 
-கட்டுநாயக்க பகுதியில் சந்தேகத்திற்கிடமான வெளிநாட்டவர்கள் குழுவொன்று தங்கியிருப்பதாக கட்டுநாயக்க பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில் நேற்று (11) பிற்பகல் மேற்கொள்ளப்பட்ட தேடுதலின் போது இந்த வெளிநாட்டவர்கள் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இதன்போது, சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட 1,000 சிகரெட்டுகளை (50 பொதிகள்) வெளிநாட்டவர் ஒருவர் வைத்திருந்ததாக பொலிஸார் தெரிவித்தனர்.
+Katunayake police have arrested six Indian citizens who were staying in Sri Lanka without a visa.
 
-25, 26, 33, 38, 39 மற்றும் 42 வயதுடைய இந்திய பிரஜைகள் குழுவொன்றே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+Based on information received by the Katunayake police that a group of suspicious foreigners were staying in the Katunayake area yesterday afternoon, the foreigners were arrested during a search.
+
+Police said a foreigner had 1,000 cigarettes (50 packages) illegally imported.
+
+A group of Indian citizens aged 25, 26, 33, 38, 39 and 42 have been arrested.
 
 ◼️
 
 [Data](articles/136aedeb.json)
+
+[Extended Data](ext_articles/136aedeb.ext.json)
 
 ---
 

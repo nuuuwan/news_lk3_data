@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 11:55:13**
+As of **2024-07-12 12:08:26**
 
 ## Newspaper Stats
 
-*Scraped **34,934** Articles*
+*Scraped **34,935** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,012
 tamilmirrorlk | 4,179
 dailymirrorlk | 4,733
 virakesarilk | 5,464
-adaderanasinhalalk | 5,811
+adaderanasinhalalk | 5,812
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,929 (100.0%) of 34,934 articles have been extended.
+34,934 (100.0%) of 34,935 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
+
+### සෙනඟ පිරුණු බස් දෙකක් සමග අධිවේග මාර්ගයක් නාය යයි
+
+*2024-07-12 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198733) · `si`
+
+මධ්‍යම නේපාලයේ අධිවේගී මාර්ගයක සිදුවු නායයෑමකින් පුද්ගලයින් 60 දෙනෙකුට වැඩි පිරිසක් අතුරුදන්ව ඇති බව විදෙස් වාර්තා පවසයි.
+
+ඒ අතර ඉන්දීය ජාතිකයින් 6 දෙනෙකු ද සිටින බව ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+
+අධිවේගී මාර්ගයේ ගමන් ගත් මගී බස් රථ දෙකක් නායයාමට හසුවී ඇති බව සඳහන් වේ.
+
+නායයෑමට හසු වූ බස් රථ සහ එහි සිටි මගීන් සොයා මෙහෙයුම් ආරම්භ කර ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/7bb92645.json)
+
+---
 
 ### FR petition filed seeking to prevent Presidential Election
 
@@ -250,6 +268,8 @@ An amount equal to 25 percent of the value of the land had been charged, “Howe
 
 [Data](articles/014314ab.json)
 
+[Extended Data](ext_articles/014314ab.ext.json)
+
 ---
 
 ### Kolonnators arrested for STF operation
@@ -302,6 +322,8 @@ In equities, Colombo’s All Share Price Index opened 14.68 points lower at 11,7
 
 [Data](articles/18a5433a.json)
 
+[Extended Data](ext_articles/18a5433a.ext.json)
+
 ---
 
 ### Presidential Scholarship awards to commence at district level today
@@ -322,21 +344,27 @@ Selected students in the Hambantota district will receive their scholarships tod
 
 ---
 
-### නෙදර්ලන්තයේ සිට ලංකාවේ පොලීිසියට ආපු සුනඛ ධේනුවන් පොලීසියට දුන් තෑග්ග
+### The gift that dog motives had given to police from the Netherlands to the Sri Lankan police
 
 *2024-07-12 09:14:34* · [`adalk`](https://www.ada.lk/breaking_news/නෙදර්ලන්තයේ-සිට-ලංකාවේ-පොලීිසියට-ආපු-සුනඛ-ධේනුවන්-පොලීසියට-දුන්-තෑග්ග/11-410753) · `si`
 
-පොලිස් දෙපාර්තමේන්තුවේ නිල සුනඛ කන්ඩායම  සඳහා අලුතින්ම  එක්වූ ගැබ්බර සුනඛ ධේනුවන් දෙදෙනෙකු විසින් පැටවුන් 13 දෙනෙකු ප්‍රසූත කළ බව පොලිස් මාධ්‍ය කොට්ඨාසය කියයි.
+The Dutch police gifted two German Shepherds and two English Springer Spaniels to the Sri Lankan police. These dogs, born at the Asgiriya Police Dog Headquarters in Kandy, join the force's 35 official dogs, enhancing their capabilities.
 
-පැටවුන් බිහිකර ඇත්තේ  පොලිස් නිල සුනඛ කන්ඩායම සඳහා එක් කිරීමට ඉකුත් 05 දා  නෙදර්ලන්තයෙන්  මෙරටට  ගෙන්වූ Belgian Malinois, German Shepherd, English Springer Spaniel වර්ගයේ නිල සුනඛයන් 35 දෙනා අතර සිටි
+🟩
 
-English Springer වර්ගයේ ටෙන්පර්ඩ් සහ ලියා යන ගැබ්බර  සුනඛ  ධේනුවන්  දෙදෙනා විසිනි.
+The Police Media Division says that two newly funerals were delivering to the official dog group of the Police Department.
 
-මහනුවර අස්ගිරිය පොලිස් නිල සුනඛ මූලස්ථානයේදී උපත ලද මෙම පැටවුන් මෙන්ම සුනඛ ධේනුවන් දෙදෙනා පොලිස් නිල සුනඛ  කොට්ඨායේ පශු වෛද්‍ය අමල් දිසානායක මහතාගේ අධීක්ෂණය යටතේ යහපත්  සෞඛ්‍ය තත්වයෙන් සිටින බව පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කරයි.
+There are two official dogs, German Shepherd, Gern Shepherd, Gern Shepherd, Gern Shepherd, Gern Shepherd, Gern Shepherd, the 35 official dogs
+
+Powered by the two Tenpered Tenpered and Regular Dome Pressure of English Springer.
+
+The calves were born at the Asgiriya Police Official Dog Headquarters in Kandy, according to the Police Media Division.
 
 ◼️
 
 [Data](articles/cab1bb08.json)
+
+[Extended Data](ext_articles/cab1bb08.ext.json)
 
 ---
 
@@ -427,6 +455,8 @@ RELATED Sri Lanka approves 13 secondary strategic firms at Port city, including 
 ...
 
 [Data](articles/4f3bab7d.json)
+
+[Extended Data](ext_articles/4f3bab7d.ext.json)
 
 ---
 
@@ -547,6 +577,8 @@ The Official Creditor Committee also has to sign off the deal with private bondh
 ◼️
 
 [Data](articles/c94051b1.json)
+
+[Extended Data](ext_articles/c94051b1.ext.json)
 
 ---
 
@@ -2189,29 +2221,5 @@ The Sri Lanka 20th T20 and Leader of the Cricket Kaduvaranga has resigned from t
 [Data](articles/896bc5ac.json)
 
 [Extended Data](ext_articles/896bc5ac.ext.json)
-
----
-
-### Here's the life of the death of the death of the death of 'Thangalan'.
-
-*2024-07-11 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/188242) · `ta`
-
-"Thangalan," starring Siyan Vikram and directed by Pa. Ranjith, is a highly anticipated historical drama set in the Kolar Gold Fields. The film, featuring Hollywood actor Daniel Kaluuya, is produced by Studio Green and Neelam Productions, with music by G.V. Prakash Kumar. Despite completion last year, it awaits release on August 15 in multiple languages. The trailer, focusing on the lives of oppressed people, has garnered over three million views, sparking immense interest among fans.
-
-🟩
-
-The preview of the movie 'Thangalan', which is starring in the film 'Siyan Vikram', which is a hugely anticipated film, has been released.
-
-Director Pa. Hollywood actor Daniel Kaldagiron has starred in the film 'Thangalan' in Ranjith.. A.. கிஷோர் குமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'இசை அசுரன்' ஜீ. V.. Prakash Kumar has composed the music.
-
-The film, which is being prepared as Exan Entertainer in the context of historical period, is on behalf of the producers of Studio Green and Neelam Productions on behalf of the leading film production companies.. Gnanvel Raja and Director Pa Ranjith are co -produced.
-
-Although all the work of the film was completed last year, the film crew waited for the appropriate date. The film is being held on August 15 in Tamil Telugu Malayalam and Kannada Hindi.
-
-...
-
-[Data](articles/39576315.json)
-
-[Extended Data](ext_articles/39576315.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 22:35:22**
+As of **2024-07-12 22:53:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,998 (100.0%) of 35,001 articles have been extended.
+35,001 (100.0%) of 35,001 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,39 +48,53 @@ The final decision on India’s participation in Pakistan rests with the Indian 
 
 [Data](articles/2437de16.json)
 
+[Extended Data](ext_articles/2437de16.ext.json)
+
 ---
 
-### අරුණ දර්ශන ට 'මතු දෙරණ' සවිය දෙයි
+### 'Arrana gives' respects'
 
 *2024-07-12 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198753) · `si`
 
-දක්ෂතාවලින් පරිපූර්ණ ශ්‍රී ලංකාවේ තාරුණ්‍යයට සවියක් වීමේ අරමුණින් දෙරණ මාධ්‍ය ජාලය ආරම්භ කළ "මතු දෙරණ" ව්‍යාපෘතිය යටතේ, මෙවර පැරිස් ඔලිම්පික් වරම් දිනාගත් අරුණ දර්ශනට මූල්‍ය අනුග්‍රාහක ශිෂ්‍යත්වයක් අද (12) පිරිනැමුණි.
+Aruna, a 25-year-old Paris Olympic champion in the 400-meter male event, was honored by the Derana Media Network for his achievements. Born in Sri Lanka, he attended several schools including Sri Lanka Vidyalaya and Amakaboda Maha Vidyalaya. His success story inspires the future generation, as highlighted by the 'Maga Ada Derana'.
 
-මෙවර පැරිස් ඔලිම්පික් උළෙලේ මීටර 400 පිරිමි ධාවන ඉසව්ව සඳහා 25 හැවිරිදි අරුණ දර්ශන පසුගියදා සුදුසුකම් ලබා ගත්තේය.
+🟩
 
-ශ්‍රී ලංකා මලල ක්‍රීඩකයෙකු එම ඉසව්ව සඳහා ඔලිම්පික් වරම් දිනාගනු ලැබවේ, වසර 20කට පසුවය.
+Paris Olympic Champions, who opened the Derana Media Network to the Derana Media Network, has been awarded this year under the "Maha Derana Media Network for the purpose of being able to become a source of exciting Sri Lanka.
 
-සේරුනුවර දුෂ්කර ගම්මානයක උපන් අරුණ දර්ශන සේරුනුවර ශ්‍රී දෙහිවත්ත මහා විද්‍යාලයෙන් හා අකුරුම්බොඩ වීරකැප්පෙටිපොළ ජාතික පාසලෙන් මලල ක්‍රීඩාවට අත්පොත් තැබීය.
+The 25-year-old Aruna footage of the Paris Olympic event qualified for the 400-meter-male event.
 
-දීප්තිමත් අනාගතයක් ඇති අරුණ දර්ශනගේ ක්‍රීඩා දිවියට අත්වැලක් වීමේ අරමුණෙන් 'මතු දෙරණ' මෙම පියවර ගෙන තිබුණි.
+The Olympic Champion won the event for that event, 20 years later.
+
+Awakens from Sri Lanka Vidyalaya, Sri Lanka and Amakaboda Maha Vidyalaya, Sri Lanka and Amakawa Weeraketppola in the Seruwithawatta Maha Vidyalaya and the Arkhawata Maha Vidyalaya in the Serunuwara.
+
+The 'Maga Ada Derana had taken' the 'Ada Derana to help the bright future.
 
 ◼️
 
 [Data](articles/347bed20.json)
 
+[Extended Data](ext_articles/347bed20.ext.json)
+
 ---
 
-### ஆசிரியர் சங்கம் வெளியிட்ட மற்றுமொரு அதிரடி அறிவிப்பு
+### Another Action Notification released by the Teachers Association
 
 *2024-07-12 21:46:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்-சங்கம்-வெளியிட்ட-மற்றுமொரு-அதிரடி-அறிவிப்பு/175-340318) · `ta`
 
-ஜூலை 8 மற்றும் 9 ஆம் திகதிகளில் நடைபெற்ற வேலை நிறுத்தப் போராட்டத்தில் கலந்து கொள்ளாமல் பணிக்குச் சமுகமளித்த அரச ஊழியர்களுக்கு வேதன அதிகரிப்பு வழங்கப்படுமாயின் அதற்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்படும் என இலங்கை ஆசிரியர் சங்கத்தின் செயலாளர் ஜோசப் ஸ்டாலின் தெரிவித்துள்ளார்.
+Joseph Stalin, head of the Sri Lanka Teachers Union, announced plans to sue government workers who went on strike July 8-9. He's discussing with law firms to block pay raises for select individuals, advocating instead for shared sacrifice among all public servants.
 
-முழு அரச சேவையினரின் வேதன கோரிக்கையை ஏற்காமல், பணிக்குச் சமுகமளித்த ஒரு சிலருக்கு மட்டுமே வேதன உயர்வை வழங்குவதற்கான தீர்மானத்தைத் தடுக்க சட்ட நிறுவனங்களுடன் பேச்சுவார்த்தை நடத்தி வருவதாக அவர் தெரிவித்துள்ளார். R
+🟩
+
+Joseph Stalin, secretary of the Sri Lanka Teachers Union, said that legal action would be taken against the government employees who were working on the strike on July 8 and 9.
+
+He said that he is negotiating with law firms to prevent a resolution to provide a hike to a few people who have been working on the job, rather than accepting the pain of the entire public service.. Remble
 
 ◼️
 
 [Data](articles/aacc35e4.json)
+
+[Extended Data](ext_articles/aacc35e4.ext.json)
 
 ---
 

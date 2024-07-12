@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 13:19:55**
+As of **2024-07-12 13:35:31**
 
 ## Newspaper Stats
 
-*Scraped **34,946** Articles*
+*Scraped **34,947** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,072
 dailyftlk | 2,203
 adalk | 3,150
 adaderanalk | 4,014
-tamilmirrorlk | 4,181
+tamilmirrorlk | 4,182
 dailymirrorlk | 4,733
 virakesarilk | 5,471
 adaderanasinhalalk | 5,812
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,812
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,946 (100.0%) of 34,946 articles have been extended.
+34,946 (100.0%) of 34,947 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -259,6 +259,10 @@ Law enforcement officials are monitoring people who have no valid fishing identi
 Attorney-at-Law Aruna Laksiri has filed a Fundamental Rights (FR) petition before the Supreme Court, seeking an order to prevent holding of the Presidential Election as the 19th Amendment to the Constitution has not been properly passed in Parliament.
 
 The petition argues that the 19th Amendment to the Constitution was not properly passed in Parliament and therefore calls for a referendum to ensure its proper passage, Ada Derana reporter said.
+
+On Monday (08), the Supreme Court dismissed a fundamental rights (FR) petition seeking an order preventing the calling of a Presidential Election until the Supreme Court delivers its interpretation on the date of the presidential poll.
+
+The petition, which was filed by an entrepreneur named C.D. Lenawa last Wednesday (03), had requested that an interim order be issued to prevent the holding of the presidential election within the currently scheduled period until the court delivers its interpretation on the date of the next presidential election.
 
 ◼️
 

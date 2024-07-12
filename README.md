@@ -1,36 +1,90 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 08:02:23**
+As of **2024-07-12 08:23:16**
 
 ## Newspaper Stats
 
-*Scraped **34,906** Articles*
+*Scraped **34,911** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 312
 colombotelegraphcom | 324
-bbccomsinhala | 340
+bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,968
 economynextcom | 2,068
 dailyftlk | 2,203
-adalk | 3,146
-adaderanalk | 4,006
+adalk | 3,147
+adaderanalk | 4,007
 tamilmirrorlk | 4,176
 dailymirrorlk | 4,733
 virakesarilk | 5,464
-adaderanasinhalalk | 5,803
+adaderanasinhalalk | 5,805
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,906 (100.0%) of 34,906 articles have been extended.
+34,907 (100.0%) of 34,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
+
+### Two wanted underworld criminals arrested in Dubai and brought to Sri Lanka
+
+*2024-07-12 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100454/two-wanted-underworld-criminals-arrested-in-dubai-and-brought-to-sri-lanka-) · `en`
+
+Two underworld figures wanted over their alleged involvement in multiple murders and illegal activities, have been arrested by the CID in Dubai and brought to Sri Lanka.
+
+The suspects, K. Dimuthu Chaturanga (26) and Dinesh Sharman (48), were escorted back to Sri Lanka early this morning, according to Public Security Minister Tiran Alles.
+
+◼️
+
+[Data](articles/3ecad2b5.json)
+
+---
+
+### ඩුබායිවලදී අත්අඩංගුවට අපරාධකරුවන් දෙදෙනෙක් මෙරටට
+
+*2024-07-12 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198726) · `si`
+
+ශ්‍රී ලංකාව තුළ මනුෂ්‍ය ඝාතන සහ සංවිධානාත්මක අපරාධ සිදුකර ඩුබායි හි සැඟවී සිටි ශ්‍රී ලාංකිකයන් දෙදෙනෙකු එරට දී අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරුවන් අද (12) අලුයම අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු ජ්‍යෙෂ්ඨ පොලිස් නිලධාරීන් සිව්දෙනෙකුගෙන් යුතු කණ්ඩායමක් විසින් කටුනායක ගුවන්තොටුපොළ වෙත රැගෙනවිත් ඇත.
+
+මෙලෙස රැගෙන විත් ඇත්තේ  කොළඹ, නුගේගොඩ ප්‍රදේශයේ පදිංචි 48 හැවිරිදි කලුදුර දිනේෂ් සාමන්ත ද සිල්වා නොහොත් "බබී" නැමැත්තා සහ මට්ටක්කුලිය, සමිට්පුර ප්‍රදේශයේ පදිංචි 26 හැවිරිදි කංකානම්ලාගේ දිමුතු චතුරංග පෙරේරා නැමැති අපරාධකරුවන් දෙදෙනාය.
+
+මොවුන් දෙදෙනා අද අලුයම 05.10 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරන ගුවන් යානයෙන් කටුනායක ගුවන්තොටුපොළ වෙත රැගෙන විත් තිබේ.
+
+කංකානම්ලාගේ දිමුතු චතුරංග පෙරේරා නැමැත්තා කොළඹ අපරාධ කොට්ඨාසය වෙත භාර දීමට නියමිත අතර කලුදුර දිනේෂ් සාමන්ත ද සිල්වා නැමැත්තා කොළඹ, නාරාහේන්පිට මනුෂ්‍ය ඝාතන සහ සංවිධානාත්මක අපරාධ විමර්ශන කොට්ඨාසය වෙත භාර දීමට නියමිත බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/45471df3.json)
+
+---
+
+### පාසල් දරුවන්ට විශේෂ නිවේදනයක්
+
+*2024-07-12 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198725) · `si`
+
+ජනාධිපති ශිෂ්‍යත්ව ප්‍රදානය අද (12)  සිට දිස්ත්‍රික් මට්ටමින් ආරම්භ කිරීමට නියමිතය.
+
+පළමු ශ්‍රේණියේ සිට 11 ශ්‍රේණිය දක්වා අධ්‍යාපනය ලබන අඩු ආදායම්ලාභී පවුල්වල සිසුන් සඳහා මෙම ශිෂ්‍යත්ව පිරිනැමීමට නියමිතව ඇත.
+
+කොළඹ දිස්ත්‍රික්කයට අදාළ ශිෂ්‍යත්ව ලබාදීම පසුගියදා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් අරලියගහ මන්දිරයේ දී සිදු කෙරුණු අතර අනෙකුත් දිස්ත්‍රික්ක 24ට අදාළ ශිෂ්‍යත්ව පිරිනැමීම මෙලෙස අද සිට දීප ව්‍යාප්තව සිදු කිරීමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය පැවසුවේය.
+
+ඒ අනුව හම්බන්තොට දිස්ත්‍රික්කයේ තෝරාගත් සිසුන් සඳහා ශිෂ්‍යත්ව ප්‍රදානය අද සහ එළෙඹෙන 15 වනදා සිදු කෙරෙන අතර, බදුල්ල, මාතලේ සහ යාපනය දිස්ත්‍රික්කවල ජුලි 13 වන දින ද, කිලිනොච්චි දිස්ත්‍රික්කයේ ජූලි 14 වන දින ද, ගම්පහ දිස්ත්‍රික්කයේ ජූලි 16 සහ 17 යන දිනයන්හිදී ද සිදුකෙරෙනු ඇති.
+
+ගාල්ල සහ අනුරාධපුර දිස්ත්‍රික්කවල දරුවන් සඳහා ජූලි 15 දින ද, වවුනියාව, මඩකලපුව, රත්නපුර, කෑගල්ල, නුවරඑළිය දිස්ත්‍රික්කවල ජුලි 16 දින ද, ශිෂ්‍යත්ව පිරිනැමීම සිදු කිරීමට නියමිතය.
+
+...
+
+[Data](articles/08ddf9d7.json)
+
+---
 
 ### Increase in rain condition in southwest
 
@@ -530,6 +584,34 @@ Prison sources said that the reason for this has not been reported and about eig
 
 ---
 
+### 66 miles [66 km) to meet Grama Niladhari
+
+*2024-07-12 02:10:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq5jqwpj4leo) · `si`
+
+Grama Niladhari will visit Inkelleka village, requiring a 66-mile journey. The public is urged to attend this crucial meeting. From the Grama Niladhari office, it's 14km to the Divisional Secretariat, but only 2km to Kalhanta. Administrative issues persist in the Mahalanda divisions. Despite efforts, relief hasn't been provided by Badulla District Secretary Panduka Sri Prabhat Abeywardena regarding SIMA Current Commission issues.
+
+🟩
+
+It contains nothing here.Vite video headquarters, '' Grama Niladhari is coming to the Iinkelleka village '
+
+The people of the Haldumulla Divisional Secretariat Division should be paid to the meeting of a close state of public official, the close meeting of the service to the public.
+
+If they go to the Divisional Secretariat, they should travel 14 more km from the Grama Niladhari Office.
+
+However, Kalhanta, the Divisional Secretariat and the Divisional Secretariat of the Divisional Secretariat is about 2 km.
+
+The people of the Mahalanda Grama Niladhari Divisions face similar administrative strikes in the Haldummulla Divisional Secretariat area.
+
+However, Badulla District Secretary Panduka Sri Prabhat Abeywardena, who was unable to provide relief to the SIMA Curren Commission, told to BBC Sinhala.
+
+◼️
+
+[Data](articles/bdd706cd.json)
+
+[Extended Data](ext_articles/bdd706cd.ext.json)
+
+---
+
 ### Gajendran MP with Tamil political prisoners. Junction
 
 *2024-07-12 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/188263) · `ta`
@@ -1001,6 +1083,18 @@ Although there is contradiction to the Cabinet over the president's term in the 
 [Data](articles/1e82d3f1.json)
 
 [Extended Data](ext_articles/1e82d3f1.ext.json)
+
+---
+
+### මහේස්ත්‍රාත්වරයෙකුගේ සේවය අත්හිටුවයි?
+
+*2024-07-11 22:42:53* · [`adalk`](https://www.ada.lk/breaking_news/මහේස්ත්‍රාත්වරයෙකුගේ-සේවය-අත්හිටුවයි-/11-410746) · `si`
+
+කොළඹ මහේස්ත්‍රාත් අධිකරණයක මහේස්ත්‍රාත්වරයෙකුගේ සේවය අධිකරණ සේවා කොමිෂන් සභාව විසින් තාවකාලිකව අත්හිටුවා ඇතැයි වාර්තාවේ. එම මහේස්ත්‍රාත්වරයා එරෙහිව පැවැත්වෙන විමර්ශනයක් හේතුවෙන් සේවය මෙලෙස තාවකාලිකව අත්හිටුවා ඇතැයි වාර්තාවේ.
+
+◼️
+
+[Data](articles/b46fa4d6.json)
 
 ---
 
@@ -2141,119 +2235,5 @@ Around 4,000 people in and around Colombo visit the main offices of DMT in Werah
 [Data](articles/6d22599a.json)
 
 [Extended Data](ext_articles/6d22599a.ext.json)
-
----
-
-### Sri Lanka stocks close down, John Keells pushes turnover
-
-*2024-07-11 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-john-keells-pushes-turnover-171757/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
-
-The broader All Share Index closed down 0.08 percent, or 9.24 points, at 11,802; while the more liquid S&P SL20 Index closed down 0.37 percent, or 12.87 points, at 3,435.
-
-“Market sentiment remained negative,” Softlogic Stockbrokers said. “There might be a continued downward trend to consolidate further.”
-
-Two crossings contributed to the day’s turnover: John Keells Holdings Plc brought in Rs131mn, and the share closed down at 194.50.
-
-“The share came down significantly, creating an opportunity for anyone who wants to accumulate these ripe stocks.”
-
-The transaction was most likely a foreign selling, local buying, market participants said.
-
-A crossing on Nations Trust Bank Plc contributed in Rs39mn to the turnover, and the share closed down at 124.00.
-
-...
-
-[Data](articles/df10af66.json)
-
-[Extended Data](ext_articles/df10af66.ext.json)
-
----
-
-### A letter sent to the railway station principals involved in the workplace
-
-*2024-07-11 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/188234) · `ta`
-
-Transport Minister Bandula Gunawardena sent a letter to railway station principals, emphasizing strict adherence to protocols under surveillance from Gotabhaya Rajapaksa. He warned that laxity would lead to uncontrollable situations, especially concerning unions held captive by public sentiment.
-
-🟩
-
-Transport Minister Bandula Gunawardena said that the official letter was sent to the railway station principals who were involved in the workplace.
-
-Gotabhaya Rajapaksa will be watching the activities of the people. The Minister of Transport also noted that the current President Ranil Wickremesinghe will not tolerate.
-
-The Minister of Transport further stated that if they are not made strictly, they cannot control them and that the unions that are hostage of the masses are not.
-
-◼️
-
-[Data](articles/021d9057.json)
-
-[Extended Data](ext_articles/021d9057.ext.json)
-
----
-
-### Red letter to unconfinched railway employees
-
-*2024-07-11 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198709) · `si`
-
-Transport Minister Bandula Gunawardena announced that strike notices have been issued to railway employees who did not comply with the law, including Station Masters. He stated this during a media briefing, emphasizing that the notices were dispatched to those involved in the strike.
-
-🟩
-
-Transport Minister Bandula Gunawardena says that the articles have been issued to all railway employees who have not worked out of the strike.
-
-He said that the strokes were issued to the Strategies Masters as a result of attempting to obey the law of the country.
-
-Speaking to the media this afternoon, Minister said this.
-
-The railway agenda has been sent to the station sides who have been sent to the strike.
-
-◼️
-
-[Data](articles/cc0ecf65.json)
-
-[Extended Data](ext_articles/cc0ecf65.ext.json)
-
----
-
-### Striking railway employees notified over vacated posts – Minister
-
-*2024-07-11 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100448/striking-railway-employees-notified-over-vacated-posts-minister) · `en`
-
-Minister of Transport Bandula Gunawardene says that letters have been sent to all railway employees who participated in the strike notifying that they are considered to have vacated their respective positions.
-
-He stated that the General Manager of Sri Lanka Railways has sent letters informing all Station Masters who have not reported to duties and are engaged in the strike that they are considered to have vacated their positions.
-
-The General Manager of Sri Lanka Railways had warned that all Station Masters and Railway Controllers who fail to report to duty by 12.00 noon yesterday (10) would be considered as having vacated their positions.
-
-Accordingly, all the striking Railway Station Masters and Railway Controllers were instructed to report for duty at their respective railway stations or at least to the nearest railway station before that deadline.
-
-...
-
-[Data](articles/0d433d17.json)
-
-[Extended Data](ext_articles/0d433d17.ext.json)
-
----
-
-### Sunday to village from Sunday
-
-*2024-07-11 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198708) · `si`
-
-Pure Gammanpila, the Executive Committee leader, announced the election manifesto's presentation with ongoing publicity. He discussed creating a program involving public participation, starting with drafting based on party members' thoughts on July 7th. Meetings were planned at the village level from July 14th to gather people's views, which would be incorporated into the final document after discussions with experts, professionals, entrepreneurs, and trade unions. This approach aims to make the election proclamation historically significant through continuous public involvement.
-
-🟩
-
-The Executive Committee leader of the Executive Committee, Pure Gammanpila says that the election manifestone is presented with continuous publicity.
-
-He was speaking at a media briefing conducted by the ovenoms held today (11).
-
-"We first point to how to create" the happy we will "create a program..  ඒ වගේම ඒක සකස් කරන්නේ ජනතා දායකත්වයෙන්. We made the thoughts of the brothers parties on July 7 and published the first draft. July 13, we have planned to make a large number of meetings at the village level since July 14. The draft will direct people's views through the exangeration conversation. Our leaders come to the village and get the views of the people..  ඒක පිළිබඳ විද්වතුන්, වෘත්තීයවේදින්, ව්‍යවසායකයින් සහ වෘත්තිය සමිති සමග සාකච්ඡා කරලා අවසන් වැඩසටහන ජනගත කරන්න බලාපොරොත්තු වෙනවා.  මෙහෙම අඛණ්ඩ ජනතා සහභාගිත්වයෙන් මැතිවරණ ප්‍රකාශනයක් සකස් වෙන්නේ ඉතිහාසයේ පළමු වතාවටයි."
-
-◼️
-
-[Data](articles/55fff101.json)
-
-[Extended Data](ext_articles/55fff101.ext.json)
 
 ---

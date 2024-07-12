@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 00:51:26**
+As of **2024-07-13 01:05:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,020 (100.0%) of 35,026 articles have been extended.
+35,026 (100.0%) of 35,026 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ In a communique to the IGP, the NPC has also requested a report on the matter to
 
 [Data](articles/a9cb8dff.json)
 
+[Extended Data](ext_articles/a9cb8dff.ext.json)
+
 ---
 
 ### Prime Minister goes to Jaffna; applauds farmers
@@ -63,6 +65,8 @@ In his address, the Prime Minister said farmers are not Government workers, and 
 ...
 
 [Data](articles/f726893c.json)
+
+[Extended Data](ext_articles/f726893c.ext.json)
 
 ---
 
@@ -86,6 +90,8 @@ Due to the exclusion of several standardised components for modern cancer treatm
 
 [Data](articles/9ae07ea4.json)
 
+[Extended Data](ext_articles/9ae07ea4.ext.json)
+
 ---
 
 ### Govt. to gazette regulations on speed limits: Alagiyawanna
@@ -104,6 +110,8 @@ He also said arrangements have been made to provide teachers with manuals for es
 
 [Data](articles/074935d8.json)
 
+[Extended Data](ext_articles/074935d8.ext.json)
+
 ---
 
 ### Sri Lankan Roadshow 2024 in Oman
@@ -117,6 +125,8 @@ With the active participation of the Sri Lankan expatriate community in Oman, th
 ...
 
 [Data](articles/075099f1.json)
+
+[Extended Data](ext_articles/075099f1.ext.json)
 
 ---
 
@@ -231,6 +241,8 @@ It is the citizenry at the middle and lower end of the income scale who would be
 ...
 
 [Data](articles/ea9a8680.json)
+
+[Extended Data](ext_articles/ea9a8680.ext.json)
 
 ---
 

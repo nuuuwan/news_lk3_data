@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 09:20:06**
+As of **2024-07-12 09:35:30**
 
 ## Newspaper Stats
 
-*Scraped **34,912** Articles*
+*Scraped **34,915** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,968
 economynextcom | 2,068
 dailyftlk | 2,203
 adalk | 3,147
-adaderanalk | 4,007
+adaderanalk | 4,010
 tamilmirrorlk | 4,176
 dailymirrorlk | 4,733
 virakesarilk | 5,464
@@ -26,11 +26,67 @@ adaderanasinhalalk | 5,806
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,912 (100.0%) of 34,912 articles have been extended.
+34,912 (100.0%) of 34,915 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
+
+### Presidential Scholarship awards to commence at district level today
+
+*2024-07-12 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100457/presidential-scholarship-awards-to-commence-at-district-level-today) · `en`
+
+The Presidential Scholarship award for A-Level students and students from Grade 01 to 11 from low-income families will commence at the district level from today (12).
+
+The distribution of scholarships for the Colombo district took place on June 19th under the patronage of President Ranil Wickremesinghe at the Temple Trees and beginning tomorrow, the scholarship distribution will extend to the remaining 24 districts across the country.
+
+Selected students in the Hambantota district will receive their scholarships today (12). Scholarships will be given in the Badulla, Matale, and Jaffna districts on July 13. Kilinochchi district will follow on July 14. Gampaha district will have its distribution on July 16 and 17, while Galle and Anuradhapura districts will receive their scholorships on July 15, said President’s Media Devision.
+
+...
+
+[Data](articles/983d6ed1.json)
+
+---
+
+### Indian nationals arrested without valid visas
+
+*2024-07-12 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100456/indian-nationals-arrested-without-valid-visas-) · `en`
+
+Katunayake Police has arrested six foreign nationals who were staying in Sri Lanka without valid visa documents and one foreigner in possession of illegally imported cigarettes.
+
+According to the police, these foreigners were apprehended during a search conducted last afternoon (11) based on information received by Katunayake Police regarding a group of suspicious foreigners staying in the Andiambalama area of Katunayake.
+
+Police stated that one foreigner was arrested with 1,000 sticks of illegally imported cigarettes (50 packs).
+
+The arrested individuals are all Indian nationals aged 25, 26, 33, 38, 39, and 42.
+
+◼️
+
+[Data](articles/c0631444.json)
+
+---
+
+### Showery conditions expected to enhance from today
+
+*2024-07-12 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100455/showery-conditions-expected-to-enhance-from-today) · `en`
+
+The Meteorology Department says showery conditions in the South-western part of the country are expected to be enhanced in the next few days from today (12 July).
+
+Showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Fairly heavy showers above 50 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
+
+Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/e27c673a.json)
+
+---
 
 ### Another group of Indian people who have remained without visa arrested
 
@@ -2199,71 +2255,5 @@ Prime Minister Modi was a leading purpose of Prime Minister Modi's Russian tour.
 [Data](articles/5a5a33a1.json)
 
 [Extended Data](ext_articles/5a5a33a1.ext.json)
-
----
-
-### Sri Lanka railway workers on strike informed they have vacated post
-
-*2024-07-11 17:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-railway-workers-on-strike-informed-they-have-vacated-post-171764/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s railway employees who are currently on strike have all been sent letters informing that they are considered to have vacated their posts, Transport Minister Bandula Gunawardena said.
-
-Gunawardena told reporters Thursday July 11 afternoon that the General Manger of Railways has sent letters to all station masters who are on strike, on the grounds that they have broken the law.
-
-“A young man died during the previous strike. This time, because of the strikes that were suddenly organised as a sabotage campaign, a passenger died. The strikers have claimed two lives.
-
-The minister said that the station masters who continue to be on strike despite President Ranil Wickremesinghe declaring public transport an essential service.
-
-...
-
-[Data](articles/dfe34250.json)
-
-[Extended Data](ext_articles/dfe34250.ext.json)
-
----
-
-### 12 fuel delivery train services canceled by strike
-
-*2024-07-11 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/188240) · `ta`
-
-Strike by railway officials cancels 12 fuel delivery trains between Kolonnawa and Katunayake, causing potential losses due to halted supplies of 10,000 liters daily from 10 fuel containers.
-
-🟩
-
-The strike by the railway station principals and regulators for two days has not been operated between Kolonnawa and Katunayake International Airport.
-
-A senior official of the department said that this would result in a huge loss to the train department.
-
-Accordingly, the official added that 10 fuel containers with 10,000 liters are supplied with the train daily.
-
-◼️
-
-[Data](articles/caa042e6.json)
-
-[Extended Data](ext_articles/caa042e6.ext.json)
-
----
-
-### Qualified nod from Committee on Public Finance for Sri Lanka’s new public finance law
-
-*2024-07-11 16:53:00* · [`economynextcom`](https://economynext.com/qualified-nod-from-committee-on-public-finance-for-sri-lankas-new-public-finance-law-171759/) · `en`
-
-ECONOMYNEXT — The Committee on Public Finance (COPF) has passed Sri Lanka’s Public Financial Management bill which would replace the Fiscal Management (Responsibility) Act, COPF chairman and MP Harsha de Silva said.
-
-The MP tweeted Thursday July 11 afternoon that the new bill clarifies  fiscal rules, strengthens budgeting and enhances scrutiny.
-
-“However I oppose arbitrary primary expenditure cap as it will restrict needed public investment to achieve 10 percent growth req to be HIC by 2040. We will amend soon!”
-
-The bill had set a 13 percent primary spending limit (expenses before interest) as part of efforts to improve fiscal discipline in the future.
-
-Treasury Secretary Mahinda Siriwardana said in May that the Public Finance bill will be a landmark piece of legislation that will provide the guidance and framework to go forward.
-
-A Fiscal Management Responsibility Act, which has been repeatedly breached in the past will be repealed.
-
-...
-
-[Data](articles/7e8258b5.json)
-
-[Extended Data](ext_articles/7e8258b5.ext.json)
 
 ---

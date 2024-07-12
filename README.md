@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 20:06:21**
+As of **2024-07-12 20:19:51**
 
 ## Newspaper Stats
 
-*Scraped **34,985** Articles*
+*Scraped **34,986** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 4,020
 tamilmirrorlk | 4,192
 dailymirrorlk | 4,733
 virakesarilk | 5,475
-adaderanasinhalalk | 5,825
+adaderanasinhalalk | 5,826
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,985 (100.0%) of 34,985 articles have been extended.
+34,985 (100.0%) of 34,986 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
+
+### පොලිස්පතිගෙන් චක්‍රලේඛයක්
+
+*2024-07-12 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198749) · `si`
+
+සියලුම පොලිස් නිලධාරීන් දැනුවත් කරමින් නව චක්‍රලේඛයක් නිකුත් කිරීමට පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා කටයුතු කර තිබේ.
+
+ඒ පොලීසිය විසින් සිදුකරන විමර්ශනවලට අදාළ තොරතුරු මාධ්‍ය වෙත ලබාදීමේදී අනුගමනය කළ යුතු ආකාරය පිළිබඳව උපදෙස් ලබාදෙමිනි.
+
+◼️
+
+[Data](articles/e6b89726.json)
+
+---
 
 ### ADB approves $100mn loan for power sector reforms in Sri Lanka
 
@@ -2273,33 +2287,5 @@ Therefore, the public is requesting the concerned authorities to focus on contro
 [Data](articles/03b66aed.json)
 
 [Extended Data](ext_articles/03b66aed.ext.json)
-
----
-
-### 66 miles [66 km) to meet Grama Niladhari
-
-*2024-07-12 02:10:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq5jqwpj4leo) · `si`
-
-Grama Niladhari will visit Inkelleka village, requiring a 66-mile journey. The public is urged to attend this crucial meeting. From the Grama Niladhari office, it's 14km to the Divisional Secretariat, but only 2km to Kalhanta. Administrative issues persist in the Mahalanda divisions. Despite efforts, relief hasn't been provided by Badulla District Secretary Panduka Sri Prabhat Abeywardena regarding SIMA Current Commission issues.
-
-🟩
-
-It contains nothing here.Vite video headquarters, '' Grama Niladhari is coming to the Iinkelleka village '
-
-The people of the Haldumulla Divisional Secretariat Division should be paid to the meeting of a close state of public official, the close meeting of the service to the public.
-
-If they go to the Divisional Secretariat, they should travel 14 more km from the Grama Niladhari Office.
-
-However, Kalhanta, the Divisional Secretariat and the Divisional Secretariat of the Divisional Secretariat is about 2 km.
-
-The people of the Mahalanda Grama Niladhari Divisions face similar administrative strikes in the Haldummulla Divisional Secretariat area.
-
-However, Badulla District Secretary Panduka Sri Prabhat Abeywardena, who was unable to provide relief to the SIMA Curren Commission, told to BBC Sinhala.
-
-◼️
-
-[Data](articles/bdd706cd.json)
-
-[Extended Data](ext_articles/bdd706cd.ext.json)
 
 ---

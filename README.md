@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 18:54:27**
+As of **2024-07-12 19:05:03**
 
 ## Newspaper Stats
 
@@ -59,6 +59,8 @@ In addition, the Magistrate also ordered the Borella Police to investigate and s
 *2024-07-12 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100467/former-health-minister-keheliya-further-remanded) · `en`
 
 Former Health Minister Keheliya Rambukwella and six others, arrested over the alleged importation of substandard human immunoglobulin vials, have been further remanded until July 25.
+
+The order was issued after the defendants were produced before the Maligakanda Magistrate’s Court on Friday (12).
 
 ◼️
 

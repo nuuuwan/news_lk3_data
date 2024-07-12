@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 23:55:28**
+As of **2024-07-13 00:08:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,002 (100.0%) of 35,010 articles have been extended.
+35,010 (100.0%) of 35,010 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -376,6 +376,8 @@ He fills the post after the retirement of former Attorney General Sanjay Rajarat
 
 [Data](articles/ea76180c.json)
 
+[Extended Data](ext_articles/ea76180c.ext.json)
+
 ---
 
 ### Request a report on cutting for cutting IP's
@@ -415,6 +417,8 @@ A bond maturing on 15.09.2029 closed at 12.10/30 percent, up from 12.15/25 perce
 ◼️
 
 [Data](articles/4b7e7d0a.json)
+
+[Extended Data](ext_articles/4b7e7d0a.ext.json)
 
 ---
 
@@ -545,6 +549,8 @@ Foreign participation remained low as well. There was a higher net foreign outfl
 ...
 
 [Data](articles/0f7db3a0.json)
+
+[Extended Data](ext_articles/0f7db3a0.ext.json)
 
 ---
 
@@ -848,6 +854,8 @@ If Sri Lanka reduces its Carbon Dioxide emissions through efforts like reforesta
 
 [Data](articles/09784da6.json)
 
+[Extended Data](ext_articles/09784da6.ext.json)
+
 ---
 
 ### 60 pound magic of Lord Ganesha: Struggle to break coconut
@@ -1117,6 +1125,8 @@ In order to seek employment in these countries, the candidates must pass a langu
 ◼️
 
 [Data](articles/d1b81a2c.json)
+
+[Extended Data](ext_articles/d1b81a2c.ext.json)
 
 ---
 
@@ -1424,6 +1434,8 @@ A passenger from Alagiyawanna’s constituency of Gampaha District was killed af
 
 [Data](articles/1de3fbf1.json)
 
+[Extended Data](ext_articles/1de3fbf1.ext.json)
+
 ---
 
 ### Sri Lanka visa deal with IVS-VFS be cancelled or revised, forensic audited: COPF Chief
@@ -1446,6 +1458,8 @@ The systems were different by there were no specifications issued to bid as is f
 
 [Data](articles/593b3f1b.json)
 
+[Extended Data](ext_articles/593b3f1b.ext.json)
+
 ---
 
 ### Sri Lanka to revise speed limits, Police given speed control equipment: State minister
@@ -1467,6 +1481,8 @@ Teachers will also be provided manuals for establishing Road Safety Clubs at the
 ...
 
 [Data](articles/979131fe.json)
+
+[Extended Data](ext_articles/979131fe.ext.json)
 
 ---
 

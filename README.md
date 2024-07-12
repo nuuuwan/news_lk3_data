@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 21:35:31**
+As of **2024-07-12 21:55:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,828
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,995 (100.0%) of 34,998 articles have been extended.
+34,998 (100.0%) of 34,998 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Reflecting on his meeting with PM Modi, Balasuriya noted it was his first encoun
 ...
 
 [Data](articles/24ca9fd8.json)
+
+[Extended Data](ext_articles/24ca9fd8.ext.json)
 
 ---
 
@@ -352,21 +354,29 @@ The suspects have been submitted to the Maliganda Magistrate's Court.
 
 ---
 
-### யாழில் திருநங்கையை கடத்திய மூவருக்கு விளக்கமறியல்!
+### Explain to three transgender people in Jaffna
 
 *2024-07-12 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188320) · `ta`
 
-கோவிலுக்கு சென்று விட்டு திரும்பிய திருநங்கையை கடத்திச் சென்ற மூவர் ஊர்காவல்துறை பொலிஸாரால் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+In Jaffna, three individuals were kidnapped by a transgender man near a temple and later arrested by the Kayts police after a complaint. A transgender person from Colombo visited the Shiva Temple and was lured by a gang. The victim had previously received a suspicious phone call. Following an investigation, the magistrate ordered the arrest of the culprits, who will be identified through an identity parade.
 
-கொழும்பினைச் சேர்ந்த 24 வயதுடைய குறித்த திருநங்கை நேற்று முன்தினம் ஊர்காவல்துறை பகுதியில் உள்ள சிவன் ஆலயத்திற்கு சென்று தரிசித்து விட்டு திரும்பி வந்து கொண்டிருந்த வேளை மூவரடங்கிய குழு அவரை வாகனத்தில் ஏற்றி ஆட்களற்ற பகுதிக்கு அழைத்துச் சென்றது.
+🟩
 
-அங்கு அழைத்துச் சென்று, "இங்கே ஏன் வந்தாய்" என அந்த திருநங்கையை வினவியவேளை ஊர்காவல்துறை பகுதியைச் சேர்ந்த இளைஞன் ஒருவரை சந்திக்க வந்ததாக தெரிவித்து அந்த இளைஞனின் தொலைபேசி இலக்கத்தை குறித்த கும்பலிடம் வழங்கினார்.
+Three persons abducted by a transgender man who left the temple have been arrested and kept in interrogation by the Kayts police.
 
-இதேவேளை அந்த இளைஞனுக்கு குறித்த கும்பல் தொலைபேசி அழைப்பு மேற்கொண்ட வேளை, அந்த கும்பலில் இருந்தவரின் தொலைபேசி இலக்கம் குறித்த இளைஞனிடம் ஏற்கனவே இருந்திருந்தது. இந்நிலையில் இதுகுறித்து ஊர்க்காவல்துறை பொலிஸ் நிலையத்தில் முறைப்பாடும் செய்யப்பட்டது.
+A 24 -year -old transgender person from Colombo went to the Shiva Temple in Kayts, who was returning to the Kayts area yesterday.
 
-...
+He took the gang on the telephone number of the young man, who was taken to meet a young man from Kayts, who was asked to say, "Why did you come here?"
+
+Meanwhile, the young man had already had a telephone call to the young man on the telephone number of the gang.. In this case, a complaint was lodged at the Kaykaval police station.
+
+The Kayts Magistrate ordered the police to arrest the three men today and make them in the Kayts court.. In addition, the identity parade was issued to identify the suspects.
+
+◼️
 
 [Data](articles/db0e243e.json)
+
+[Extended Data](ext_articles/db0e243e.ext.json)
 
 ---
 
@@ -390,19 +400,25 @@ Upon completion of the Bingiriya Investment Zone, it is estimated that an export
 
 ---
 
-### யாழ். உணவகத்திற்கு சீல்
+### Yall. Seal to the restaurant
 
 *2024-07-12 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/188318) · `ta`
 
-யாழ்ப்பாண நகர் பகுதியில் உள்ள இரண்டு உணவகங்களுக்கு நீதிமன்ற உத்தரவின் பேரில் சீல் வைக்கப்பட்டுள்ளது.
+Two Jaffna Nagar restaurants were sealed after public health inspectors sued them over food safety issues. The court ordered their closure until they improve their hygiene standards.
 
-பொது சுகாதார பரிசோதகர்கள் திடீர் சோதனை நடவடிக்கையில் ஈடுபட்ட வேளை நகர் பகுதியில் சுகாதார சீர்கேட்டுடன் இயங்கி வந்த இரு உணவங்களுக்கு எதிராக நீதிமன்றில் வழக்கு தொடர்ந்தனர்.
+🟩
 
-நீதிமன்றில் குறித்த வழக்கு விசாரணைக்கு எடுத்துக்கொண்ட வேளை, உணவகத்தில் காணப்படும் சுகாதார குறைப்பாடுகளை நிவர்த்தி செய்யும் வரையில் உணவகத்திற்கு சீல் வைக்குமாறு மன்று உத்தரவிட்டுள்ளது.
+Two restaurants in Jaffna Nagar have been sealed on a court order.
+
+Public health inspectors sued the court against two foods that were operating in the city in the city.
+
+When the case was heard in court, it was ordered to be sealed to the restaurant until the restaurant's health reduction.
 
 ◼️
 
 [Data](articles/161cecb5.json)
+
+[Extended Data](ext_articles/161cecb5.ext.json)
 
 ---
 

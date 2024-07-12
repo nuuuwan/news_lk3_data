@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 14:54:21**
+As of **2024-07-12 15:05:00**
 
 ## Newspaper Stats
 
-*Scraped **34,962** Articles*
+*Scraped **34,963** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,59 @@ adaderanalk | 4,015
 tamilmirrorlk | 4,186
 dailymirrorlk | 4,733
 virakesarilk | 5,475
-adaderanasinhalalk | 5,816
+adaderanasinhalalk | 5,817
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,959 (100.0%) of 34,962 articles have been extended.
+34,962 (100.0%) of 34,963 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
 
-### Audrey Azoulay வருகிறார்
+### රේගු වර්ජනය නිසා බහාලුම් 5000ක් ගොඩගැසේ
+
+*2024-07-12 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198739) · `si`
+
+රේගු වැඩවර්ජනය හේතුවෙන් ගොඩ ගැසුණු බහාලුම් 5000කට අධික ප්‍රමාණය මුදාහැරීමේ කටයුතු සඳහා සතිඅන්තයේ දීත් කඩිනම් වැඩසටහනක් සකස් කර ඇතැයි මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+ඒ අනුව ලබන සඳුදා වනවිට එම තදබදය අවම කරගත හැකි වනු ඇතැයි රාජ්‍ය අමාත්‍යවරයා විශ්වාසය පළ කරයි.
+
+මැතිවරණයක් ආසන්න වනවිට වෘත්තීය ක්‍රියාමාර්ග සුලභවීම අපේක්ෂා කළ හැකි තත්ත්වයක් බවත් බහුතරයක් වෘත්තීය සමිති දේශපාලන ව්‍යාපාරයක් හා සම්බන්ධව පවතින බවත් අමත්‍යවරයා සඳහන් කළේය.
+
+මුදල් රාජ්‍ය අමාත්‍ය, ආචාර්ය රංජිත් සියඹලාපිටිය මහතා මේ බව කියා සිටියේ රුවන්වැල්ල රාජසිංහ විදුහලේ ගෘහස්ථ ක්‍රීඩාංගණය ඉදිකිරීමේ කටයුතු නැවත ආරම්භ කිරීමේ අවස්ථාවට එක් වෙමිනි.
+
+එහිදී රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේ, වෘත්තීය සමිති විසින් පළමුව සිය වෘත්තීය, දෙවනුව ආයතනය, තුන්වනුව රටේ පවතින තත්ත්වය සලකාබලා තීරණ ගත යුතු බවය.
+
+වැඩවර්ජන යනු වෘත්තීය සමිතියක් විසින් ක්‍රියාත්මක කළ යුතු පළමු ක්‍රියාමාර්ගය නොව අවසාන ක්‍රියාමාර්ග බවද රාජ්‍ය අමාත්‍යවරයා තවදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/c83336d0.json)
+
+---
+
+### Audrey Azoulay is coming
 
 *2024-07-12 14:34:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Audrey-Azoulay-வருகிறார்/175-340296) · `ta`
 
-ஐக்கிய நாடுகளின் கல்வி, விஞ்ஞான மற்றும் கலாசார அமைப்பின் (யுனெஸ்கோ) பணிப்பாளர் நாயகம் Audrey Azoulay இலங்கை அரசாங்கத்தின் அழைப்பின் இலங்கைக்கு விஜயம் செய்யவுள்ளார்.
+UNESCO Director-General Audrey Azoulay is set to visit Sri Lanka, invited by its government. She'll meet key officials including President Ranil Wickremesinghe, Education Minister Susil Premajayantha, and Foreign Minister Taraka Balasuriya. Her trip includes attending the 75th anniversary of Sri Lanka's UNESCO membership and visiting World Heritage Sites.
 
-இந்த விஜயத்தின் போது, ​​  ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்திக்கவுள்ளதுடன், கல்வி அமைச்சர் சுசில் பிரேமஜயந்த மற்றும் பதில் வெளிவிவகார அமைச்சர் தாரக பாலசூரிய ஆகியோரையும் சந்திப்பார்.
+🟩
 
-அவர் யுனெஸ்கோவில் இலங்கை அங்கத்துவம் பெற்றதன் 75வது ஆண்டு விழாக் கொண்டாட்டத்தில் பங்கேற்பார். இந்த வைபவம், நெலும் பொகுன திரையரங்கில் நடைபெறும். அத்துடன் யுனெஸ்கோ உலக பாரம்பரிய தளங்களுக்குச் செல்வார்.
+The Director General of the United Nations Education, Science and Cultural Organization (UNESCO) Audrey Azoulay will visit Sri Lanka on the invitation of the Sri Lankan government.
+
+During the visit, he will meet President Ranil Wickremesinghe and meet Education Minister Susil Premajayantha and Foreign Minister Taraka Balasuriya.
+
+He will participate in the 75th anniversary celebration of Sri Lanka's membership in UNESCO. The event will be held at the Nelum Pokuna Theater. UNESCO will go to World Heritage Sites.
 
 ◼️
 
 [Data](articles/678fa0f1.json)
+
+[Extended Data](ext_articles/678fa0f1.ext.json)
 
 ---
 
@@ -66,21 +94,35 @@ But at the highly anticipated news conference, he dismissed the concerns about h
 
 [Data](articles/7a498954.json)
 
+[Extended Data](ext_articles/7a498954.ext.json)
+
 ---
 
-### ”ஒரு மணிநேரம்கூட பதவியில் இருக்க முடியாது”
+### “Can't be in office for an hour”
 
 *2024-07-12 14:21:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-மணிநேரம்கூட-பதவியில்-இருக்க-முடியாது/175-340295) · `ta`
 
-ஜனாதிபதியின் பதவி காலம் ஐந்து வருடங்கள் மட்டுமே.   பதவிக் காலம் நிறைவடைந்தவுடன் ஒரு மணித்தியாலம் கூட பதவியில் இருக்க முடியாது. என  நீதி,சிறைச்சாலைகள் அலுவல்கள் மற்றும்  அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர்  விஜயதாஸ ராஜபக்ச  வலியுறுத்தினார்
+Vijayadasa Rajapaksa, Minister of Justice, highlighted the importance of adhering strictly to the five-year presidential term limit post-retirement, emphasizing the need to respect the constitution and avoid trivializing legal proceedings. This stance led to challenges against the 19th Amendment in the High Court, which was eventually upheld, except for requiring referendums for certain issues. Despite this, concerns over the misuse of judicial processes persist, with cases filed both in the Supreme Court and High Court in Kurunegala challenging the amendment's implementation and the appointment of judges.
 
-எனவே ஜனாதிபதியின் பதவிக் காலம் தொடர்பில்  மீண்டும் மீண்டும் உயர்நீதிமன்றத்தில் வழக்கு தாக்கல் செய்து நீதிமன்றத்தை கேலிக்கூத்தாக்க வேண்டாம் என்றும் கேட்டுக்கொண்டார்.
+🟩
 
-பாராளுமன்றத்தில்   வெள்ளிக்கிழமை (12) அரசியலமைப்பின்    19 ஆவது திருத்தம் முறையாக நிறைவேற்றப்படவில்லை.ஆகவே சர்வஜன வாக்கெடுப்பு நடத்துமாறும் ஜனாதிபதி தேர்தலை இடைநிறுத்துமாறு கட்டளை பிறப்பிக்குமாறும்  சட்டத்தரணி ஒருவர் உயர் நீதிமன்றத்தில் தாக்கல் செய்துள்ள அடிப்படை உரிமை மீறல் மனு தொடர்பில் பாராளுமன்ற உறுப்பினர் டலஸ் அழகப்பெரும எழுப்பிய கேள்விகளுக்கு பதிலளிக்கும் போதே இவ்வாறு வலியுறுத்திய அவர் மேலும் கூறுகையில்,
+The president's tenure is only five years.   பதவிக் காலம் நிறைவடைந்தவுடன் ஒரு மணித்தியாலம் கூட பதவியில் இருக்க முடியாது. Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapaksa emphasized
+
+Therefore, he repeatedly filed a case in the High Court regarding the president's tenure and asked not to make a mockery of the court.
+
+The 19th Amendment of the Constitution was not properly passed in Parliament on Friday (12).
+
+The 19th Amendment to the Constitution of 2015 was passed with the People's Order.. Most parties challenged the bill in the High Court.
+
+The petitions were taken up for hearing in a panel of judges headed by former Chief Justice Sripavan. The court said that only four matters must go to a referendum.
+
+The court does not oppose the government's policy of the president's tenure for five years.. Cannot be in office for even a hour after the end of office. Therefore, all sides should avoid going to the subordinate as a crisis.
 
 ...
 
 [Data](articles/15a79ad0.json)
+
+[Extended Data](ext_articles/15a79ad0.ext.json)
 
 ---
 
@@ -2223,29 +2265,5 @@ This is the first international tournament facing Indian and Sri Lankan teams as
 [Data](articles/b45b6271.json)
 
 [Extended Data](ext_articles/b45b6271.ext.json)
-
----
-
-### The hand of the hand in the honey will not taste the fingers
-
-*2024-07-11 22:48:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேனில்-கை-வைத்தவர்-விரல்களை-சுவைக்காமல்-இருக்கமாட்டார்/175-340265) · `ta`
-
-A Sinhalese saying suggests that a "honey-hand" person won't taste his fingers, symbolizing the dilemma in choosing a president amidst constitutional conflicts and suspicions of indirect motives. Despite the High Court confirming the constitutionality three times, doubts persist about the urgency and the true intentions behind the process.
-
-🟩
-
-There is a Sinhalese saying that the honey -hand man will not taste his fingers. According to Sri Lanka Muslim Congress leader and MP Rauf Hakeem, the problem in this country is to seek the necessary tricks to continue to be president.
-
-Speaking at the debate on the Motion on the Motion of the House on the presentation of the presidential election in Parliament yesterday, he said.
-
-The question arises as to whether there is a contradiction in the constitution in which the presidential term is actually in a state of conflict.There is a proverb in Sinhalese that the honey -hand man will not taste his fingers,. So the problem in this country is to seek the need for a person appointed to be president.
-
-Although there is contradiction to the Cabinet over the president's term in the Constitution, the High Court has confirmed it three times. If so, why should the government be in a hurry?Everyone knows whose need to sue the High Court, but it has emerged after the Cabinet's decision.
-
-...
-
-[Data](articles/1e82d3f1.json)
-
-[Extended Data](ext_articles/1e82d3f1.ext.json)
 
 ---

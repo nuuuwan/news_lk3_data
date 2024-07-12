@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 13:54:55**
+As of **2024-07-12 14:07:02**
 
 ## Newspaper Stats
 
-*Scraped **34,949** Articles*
+*Scraped **34,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,45 +20,79 @@ adaderanalk | 4,014
 tamilmirrorlk | 4,183
 dailymirrorlk | 4,733
 virakesarilk | 5,471
-adaderanasinhalalk | 5,813
+adaderanasinhalalk | 5,814
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,947 (100.0%) of 34,949 articles have been extended.
+34,949 (100.0%) of 34,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
 
-### முட்டைக்கு ‘வற்’ பொய்
+### තව තවත් පැටලෙන බයිඩන්
+
+*2024-07-12 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198736) · `si`
+
+අමෙරිකාවේ වොෂින්ටන්හි පැවති 2024 නේටෝ සමුළුව අමෙරිකානු ජනාධිපති ජෝ බයිඩන් ට ඉතා වැදගත් විය.
+
+ඒ මෙම සමුළුව පැවැත්වෙන්නේ ජනාධිපති බයිඩන් ගේ ජනාධිපතිවරණ අපේක්ෂකත්වය සම්බන්ධයෙන් මතභේදයක් උද්ගතව ඇති පසුබිමක වීම හේතුවෙනි.
+
+ජනපති බයිඩන් විශ්වාස කළේ එය ජනාධිපති අපේක්ෂකත්වය සඳහා තමන් සුදුසු බවට අනෙකුත් රාජ්‍ය නායකයින් හමුවේ ඔප්පු කර පෙන්වීමට අවස්ථාවක් ලෙසට ය.
+
+කෙසේ වුවත් නේටෝ හමුවක් අතරතුරදී ජනපති බයිඩන්, යුක්‍රේන ජනාධිපති සෙලෙන්ස්කි ගේ නම පුටින් ලෙස පවසා ඇත.
+
+ඉන් පැය කිහිපයකට පසුව, ජනාධිපති බයිඩන් ගේ ජනාධිපති අපේක්ෂකත්වය කේන්ද්‍ර කරගනිමින් පැවති මාධ්‍ය හමුවකදීත් ජනපති බයිඩන් ට එවැනිම වචන පටලැවිල්ලක් සිදුව තිබේ.
+
+මෙය ජනපති බයිඩන් ගේ ජනාධිපතිවරණ අපේක්ෂකත්වය පිළිබඳව උද්ගතව ඇති මතභේද තවත් තීව්‍ර කරන සිදුවීමක් බව විචාරකයෝ පවසති.
+
+◼️
+
+[Data](articles/93b305ce.json)
+
+---
+
+### Egg
 
 *2024-07-12 13:30:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டைக்கு-வற்-பொய்/175-340292) · `ta`
 
-முட்டை உற்பத்தியாளர்களின் சங்கம் என கூறிக்கொள்ளும் குறிப்பிட்ட சங்கம் முட்டைக்கு அடுத்த வருடம் முதல் VAT வரியை விதிக்கவுள்ளதாக ஊடகங்களுக்கு விடுத்துள்ள அறிவிப்பு தொடர்பில் கவனம் செலுத்தப்பட்டுள்ளதாக விவசாய மற்றும் தோட்ட கைத்தொழில் அமைச்சு தெரிவித்துள்ளது.
+The Ministry of Agriculture clarified that an association claiming to represent egg manufacturers plans to impose a VAT tax starting next year, despite eggs already being subject to an 18% tax. There are no plans to further increase the VAT tax. Despite a daily consumption of 7 million eggs in Sri Lanka increasing by 15% to 8.5 million this year, the ministry stated it had no intentions to raise the VAT tax next year.
 
-முட்டைகளுக்கு அடுத்த ஆண்டு முதல் அல்ல, ஏற்கனவே 18 சதவீத வரி விதிக்கப்பட்டுள்ளது. அடுத்த ஆண்டு இந்த VAT வரியை அதிகரிக்கும் திட்டம் இல்லை என்றும் விவசாய அமைச்சகம் தெரிவித்துள்ளது.
+🟩
 
-இலங்கையில் கடந்த ஆண்டு 7 மில்லியன் முட்டைகளின் தினசரி நுகர்வு இருந்த போதிலும், இந்த ஆண்டு முட்டையின் தினசரி நுகர்வு 15 சதவீதத்தால் அதிகரித்துள்ளது. தற்போது இலங்கையின் நாளாந்த முட்டை தேவை 8.5 மில்லியன் முட்டைகளாக அதிகரித்துள்ளது
+The Ministry of Agriculture and Plantation Industries said that a particular association, which claims to be an egg manufacturer's association, will impose a VAT tax from next year to the media.
+
+Eggs are not the next year, but already on 18 percent tax. The Ministry of Agriculture said there was no plans to increase the VAT tax next year.
+
+Despite the daily consumption of 7 million eggs in Sri Lanka last year, the daily consumption of eggs increased by 15 percent this year. Currently, Sri Lanka's daily egg demand has increased to 8.5 million eggs
 
 ◼️
 
 [Data](articles/4d744ac5.json)
 
+[Extended Data](ext_articles/4d744ac5.ext.json)
+
 ---
 
-### ශ්‍රේෂ්ඨාධිකරණය ට ආ අලුත්ම FR පෙත්සම
+### The newest Fr petition of the Supreme Court
 
 *2024-07-12 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198735) · `si`
 
-මේ වන විට පුරප්පාඩුව පවතින අභියාචනාධිකරණ විනිසුරු ධුර සඳහා විනිසුරුවරු පත්නොකිරීම තුළින් ජනාධිපතිවරයා සහ ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාව මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා ගොනුකළ මූලික අයිතිවාසිකම් පෙත්සමක් විභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය අවසර ලබා දුන්නේය.
+The Supreme Court agreed to review a case regarding the mandatory vaccination of Court of Appeal judges, following a petition by a judge and Constitutional Judge. This decision came after considering arguments from President's Counsel Senaka Walgampaya.
 
-ජනාධිපති නීතිඥවරයෙකු වන සේනක වල්ගම්පාය මහතා විසින් ඉදිරිපත් කළ පෙත්සමක් සලකා බැලීමෙන් අනතුරුව අධිකරණය මෙම නියෝගය නිකුත් කළේය.
+🟩
+
+The Supreme Court granted permission to hear a fundamental rights petition filed by the judge and the Constitutional Judge for the act of vaccination of the judges of the Court of Appeal.
+
+After considering a petition presented by the President's Counsel Senaka Walgampaya, the court issued the order.
 
 ◼️
 
 [Data](articles/8b9241e1.json)
+
+[Extended Data](ext_articles/8b9241e1.ext.json)
 
 ---
 
@@ -2225,27 +2259,5 @@ According to police, both of them were running and shooting firearms and shootin
 [Data](articles/47a265bb.json)
 
 [Extended Data](ext_articles/47a265bb.ext.json)
-
----
-
-### Sri Lanka Human Rights Commission surveillance on whether appropriate remedial activities are being carried out
-
-*2024-07-11 21:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/188258) · `ta`
-
-The Sri Lanka Human Rights Commission plans to oversee actions taken by the Department of Examinations and the University Grants Commission regarding the delayed release of results for 70 Muslim students from Zahira College, Trincomalee, who wore hijabs during their GCE Advanced Level Examination. This action comes after the commission highlighted constitutional protections for religious freedom and the right against discrimination, emphasizing the importance of ensuring these rights are upheld.
-
-🟩
-
-The Human Rights Commission has said that it will monitor the remedies of the Department of Examinations and the University Grants Commission on the issue of Zahira College, Trincomalee.
-
-The results of the 70 Muslim students who appeared for the GCE Advanced Level Examination at Zahira College, Trincomalee, said that they were wearing a hijab in order to cover up a hijab and not released in a timely manner with the Human Rights Council of Sri Lanka and the University of Sri Lanka.In a statement issued by the Commission on Thursday (11), the Commission clarified its position on the issue:
-
-According to Article 10 of the Constitution, all Sri Lankan people are entitled to religious and freedom of faith. Similarly, 12 (2) string completely prevents any person from being subjected to oppression of milk or religious. 14 (1) (d) All the blessings have ensured the freedom to follow the religion, faith, worship, practice or doctrine they desired.
-
-...
-
-[Data](articles/5a29d4eb.json)
-
-[Extended Data](ext_articles/5a29d4eb.ext.json)
 
 ---

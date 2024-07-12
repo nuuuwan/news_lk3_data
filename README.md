@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 08:54:22**
+As of **2024-07-12 09:05:52**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,806
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,911 (100.0%) of 34,912 articles have been extended.
+34,912 (100.0%) of 34,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
 
-### වීසා නොමැතිව රැඳි සිටි තවත් ඉන්දීය ජාතිකයන් පිරිසක් අත්අඩංගුව ට
+### Another group of Indian people who have remained without visa arrested
 
 *2024-07-12 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198727) · `si`
 
-වීසා නොමැතිව මෙරට රැඳි සිටි විදේශිකයින් 06 දෙනෙකු සහ තීරුබදු රහිතව මෙරටට ගෙන්වන ලද දුම්වැටි සමග විදේශිකයෙකු කටුනායක පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Eight individuals, including a foreigner and six others, were arrested near Katunayake for entering Sri Lanka without visas. The foreigner was found with 1,000 smuggled cigarettes. Ages of the arrested range from 25 to 42.
 
-කටුනායක ආඬිඅම්බලම ප්‍රදේශයේ සැකකටයුතු විදේශිකයන් පිරිසක් රැඳී සිටින බවට කටුනායක පොලීසියට ලද තොරතුරක් මත ඊයේ (11) පස්වරුවේ  සිදුකළ සෝදිසි කිරීමක දී මෙම විදේශිකයින් අත්අඩංගුවට ගත් පොලීසිය පවසයි.
+🟩
 
-පොලීසිය පැවසුවේ නීතිවිරෝධි ලෙස ගෙන්වන ලද දුම්වැටි 1,000ක්  (පැකට් 50) එක් විදේශිකයෙකු සතුව තිබූ බවය.
+A foreigner has been arrested by the Katunayake Police with six foreigners and cigarettes brought in this country without visa.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 25, 26, 33, 38, 39 සහ 42 වයස්වල පසු වන ඉන්දීය ජාතිකයන් පිරිසකි.
+The foreigners were arrested following a tip off received by the Katyakulama area in Katunayake yesterday (11).
+
+Police said that one foreigner had 1,000 cigarettes (50 packets) imported as illegal.
+
+The arrested were 25, 26, 26, 33, 38, 39, 39 and 42.
 
 ◼️
 
 [Data](articles/30b8f9f9.json)
+
+[Extended Data](ext_articles/30b8f9f9.ext.json)
 
 ---
 
@@ -54,11 +60,17 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-07-12 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100454/two-wanted-underworld-criminals-arrested-in-dubai-and-brought-to-sri-lanka-) · `en`
 
-Two underworld figures wanted over their alleged involvement in multiple murders and illegal activities, have been arrested by the CID in Dubai and brought to Sri Lanka.
+Two underworld criminal figures wanted over their alleged involvement in multiple murders and illegal activities in the country, have been arrested by the CID in Dubai and brought to Sri Lanka.
 
-The suspects, K. Dimuthu Chaturanga (26) and Dinesh Sharman (48), were escorted back to Sri Lanka early this morning, according to Public Security Minister Tiran Alles.
+The suspects, K. Dimuthu Chaturanga (26) and Dinesh Sharman (48), were escorted back to Sri Lanka early this morning (12), according to Public Security Minister Tiran Alles.
 
-◼️
+The suspects were brought to Bandaranaike International Airport (BIA) in Katunayake by a team of four senior police officers from the Criminal Investigation Department (CID).
+
+The two criminals, identified as Kaludura Dinesh Samantha de Silva alias “Babi”, a 48-year-old resident of Nugegoda, Colombo, and 26-year-old Kankanamlage Dimuthu Chaturanga Perera alias “Samitpura Chathu”, a resident of Samitpura, Mattakkuliya, were apprehended while they were hiding in Dubai.
+
+They had arrived at the BIA onboard a SriLankan Airlines flight at around 5.10 a.m. this morning.
+
+...
 
 [Data](articles/3ecad2b5.json)
 

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 22:53:37**
+As of **2024-07-12 23:05:28**
 
 ## Newspaper Stats
 
-*Scraped **35,001** Articles*
+*Scraped **35,002** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 312
-colombotelegraphcom | 326
+colombotelegraphcom | 327
 bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,969
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,001 (100.0%) of 35,001 articles have been extended.
+35,001 (100.0%) of 35,002 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,13 +36,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-07-12 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100470/sri-lanka-to-replace-india-in-champions-trophy-2025) · `en`
 
-The Sri Lanka cricket team will replace India cricket team if the latter decide to pull out of the Champions Trophy 2025.
+India is highly unlikely to travel to Pakistan for the Champions Trophy 2025 which is scheduled to take place in Feb-Mar next year.
 
-Rohit Sharma and co. are highly unlikely to travel to Pakistan which is scheduled to host the marquee tournament next year. As per reports, Sri Lanka  who did not qualify for CT 2025 owing to their 9th placed finish in the 2023 ODI World Cup  will replace India.
+The Sri Lanka cricket team will replace India cricket team if the latter decide to pull out of the Champions Trophy 2025. Rohit Sharma and co. are highly unlikely to travel to Pakistan which is scheduled to host the marquee tournament next year. As per reports, Sri Lanka who did not qualify for CT 2025 owing to their 9th placed finish in the 2023 ODI World Cup will replace India.
 
 Sri Lanka, who were the winners of the event in 2002, failed to qualify for the Champions Trophy for the first-time ever. While India is unlikely to travel to Pakistan, the BCCI is likely to request that the International Cricket Council (ICC) relocate the event to either Sri Lanka or the United Arab Emirates (UAE).
-
-The final decision on India’s participation in Pakistan rests with the Indian government. BCCI Vice-President Rajeev Shukla previously stated that the team would only travel to Pakistan with government approval.
 
 ...
 
@@ -559,6 +557,18 @@ The Sri Lankan Police will save more than Rs. 25 million from the emergence of n
 [Data](articles/a09d5ee6.json)
 
 [Extended Data](ext_articles/a09d5ee6.ext.json)
+
+---
+
+### Beyond Debt Restructuring
+
+*2024-07-12 16:16:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/beyond-debt-restructuring/) · `en`
+
+When Sri Lanka declared bankruptcy, everyone feared a massive shortage of essential goods such as food, petrol, gas, and medicine. They also expected the rupee to plummet, the banking system to collapse, and a situation where people would riot. However, compared to other bankrupt countries, Sri Lanka did not reach such a dire state. Though people faced significant hardships, the situation was not as bad as anticipated.
+
+...
+
+[Data](articles/f4d2d5a1.json)
 
 ---
 
@@ -2315,27 +2325,5 @@ He also said that the passengers who traveled on trains that ran on the strike d
 [Data](articles/bccfa514.json)
 
 [Extended Data](ext_articles/bccfa514.ext.json)
-
----
-
-### Amendment to Constitution: Confused maneuver
-
-*2024-07-12 03:00:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியலமைப்பில்-திருத்தம்-குழப்பும்-சூழ்ச்சி/175-340274) · `ta`
-
-TNA parliamentarian MA Sumanthiran criticized a Cabinet resolution on the president's term as a tactic to confuse and delay elections. He highlighted that the High Court confirmed the president's five-year tenure, aligning with the 19th Amendment. Sumanthiran argued that proposing an amendment to Section 83(B) of the Constitution regarding the president's term was unnecessary and aimed to mislead the public, potentially delaying the election process.
-
-🟩
-
-Tamil National Alliance (TNA) parliamentarian MA Sumanthiran said that the resolution of the Cabinet resolution on the president's term was an attempt to bring confusion and delay the election.
-
-Sumanthiran MP said this while addressing the adjournment debate on the presidential election in accordance with the legal arrangements in Parliament on Thursday (11).
-
-The High Court made it clear that the president's tenure was five years during the announcement of the petition filed by the President on the 8th of last month.. The matter is also mentioned in the 19th Amendment. In the 19th Amendment, the 30th (2) revised to reduce the president's term of office to five years.
-
-...
-
-[Data](articles/8e4226f1.json)
-
-[Extended Data](ext_articles/8e4226f1.ext.json)
 
 ---

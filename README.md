@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 05:37:42**
+As of **2024-07-12 06:01:42**
 
 ## Newspaper Stats
 
-*Scraped **34,895** Articles*
+*Scraped **34,905** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ dbsjeyarajcom | 312
 colombotelegraphcom | 324
 bbccomsinhala | 340
 newsfirstlk | 363
-islandlk | 1,960
+islandlk | 1,968
 economynextcom | 2,068
 dailyftlk | 2,203
 adalk | 3,146
 adaderanalk | 4,006
-tamilmirrorlk | 4,174
+tamilmirrorlk | 4,176
 dailymirrorlk | 4,733
 virakesarilk | 5,464
 adaderanasinhalalk | 5,802
@@ -26,11 +26,121 @@ adaderanasinhalalk | 5,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,892 (100.0%) of 34,895 articles have been extended.
+34,895 (100.0%) of 34,905 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
+
+### WindForce shines at Presidential Environment Awards 2024
+
+*2024-07-12 05:02:00* · [`islandlk`](http://island.lk/windforce-shines-at-presidential-environment-awards-2024/) · `en`
+
+WindForce PLC is thrilled to announce its remarkable success at the Presidential Environment Awards 2024, proudly securing both Gold and Bronze accolades for its contributions to renewable energy and environmental conservation.
+
+Our subsidiary, Solar Universe (Pvt) Ltd, has been awarded the prestigious Gold Award for its pioneering 10MW solar plant in the agrivoltaic sector. This accolade highlights our innovative efforts in integrating agriculture and solar energy production. As Sri Lanka’s first-ever agrivoltaic plant, Solar Universe sets a benchmark for combining sustainable farming with renewable energy. By merging crop cultivation and solar power generation, the plant significantly reduces carbon emissions while promoting eco-friendly practices and enhancing agricultural productivity.
+
+...
+
+[Data](articles/3f0968c7.json)
+
+---
+
+### Dialog Enterprise enables Sri Lankan enterprises with sustainable GreenTech solutions
+
+*2024-07-12 05:02:00* · [`islandlk`](http://island.lk/dialog-enterprise-enables-sri-lankan-enterprises-with-sustainable-greentech-solutions/) · `en`
+
+Dialog Enterprise, the corporate ICT solutions arm of Dialog Axiata PLC., a pioneer in enabling digital transformation for Small, Medium and Large enterprises, announces its timely commitment to fostering sustainability through the adoption of GreenTech solutions. Leveraging strategic partnerships with top-tier GreenTech solution providers Dialog Enterprise aims to empower organizations reduce their carbon footprint, achieve cost savings, and drive environmental stewardship to heightened awareness and responsibility.
+
+In the face of pressing challenges like soaring fuel costs, which impact enterprises of all sizes, Dialog Enterprise underscores the urgency of climate action and the importance of sustainable practices. GreenTech paves the way for the adoption of renewable energy sources, such as solar power, to power servers, machinery, and other operational equipment.
+
+...
+
+[Data](articles/9bdd77c4.json)
+
+---
+
+### Lumbini Aquaria opens new export revenue stream with ‘Gobble’ fish feed range
+
+*2024-07-12 05:02:00* · [`islandlk`](http://island.lk/lumbini-aquaria-opens-new-export-revenue-stream-with-gobble-fish-feed-range/) · `en`
+
+Aquaculture pioneer invests Rs 150 million in state-of-the-art factory to produce first-ever 100% natural Sri Lankan products for global market
+
+Sri Lanka may soon carve out a niche in the export market for fish feed with the country’s pioneer ornamental fish exporter Lumbini Aquaria International (Pvt) Ltd. commencing manufacture of a series of uniquely Sri Lankan aqua nutrients.
+
+Aptly branded ‘Gobble’ the new product has already been exhibited in Germany at the 2024 edition of Interzoo, the world’s largest pet industry trade fair, and has received orders from multiple customers, the company said.
+
+Lumbini has invested Rs 150 million in a state-of-the-art factory in Madurankuliya in the Puttalam District to manufacture Gobble for export under a new company incorporated for the purpose – Deep Blue Sea (DBS) Aquatic Nutrients, a wholly-owned subsidiary of Lumbini Aquaria.
+
+...
+
+[Data](articles/c2d28fcf.json)
+
+---
+
+### HUTCH “Praja Sathkara” makes Poson pilgrimage possible
+
+*2024-07-12 04:46:00* · [`islandlk`](http://island.lk/hutch-praja-sathkara-makes-poson-pilgrimage-possible/) · `en`
+
+One of Sri Lanka’s leading mobile networks, HUTCH Sri Lanka recently conducted its HUTCH ‘Praja Sathkara’ programme in Anuradhapura and Mihintale, marking Poson Poya Day. Through this community service initiative, HUTCH Sri Lanka provided pilgrims visiting Anuradhapura and Mihintale for Poson religious observances with free transport services between the two holy sites.
+
+With normal transport modes congested during the period, and private hired transport unaffordable to many still, HUTCH took steps to provide pilgrims with free transportation services from 20th – 23rd June 2024 with free special train services and free bus services organized by HUTCH.
+
+...
+
+[Data](articles/f7c28510.json)
+
+---
+
+### NHRC 2024: CIPM’s landmark event in Human Resource Management successfully concludes
+
+*2024-07-12 04:45:00* · [`islandlk`](http://island.lk/nhrc-2024-cipms-landmark-event-in-human-resource-management-successfully-concludes/) · `en`
+
+The National HR Conference (NHRC), organized by the Chartered Institute of Personnel Management (CIPM) Sri Lanka, was held at the Monarch Imperial, Sri Jayewardenepura, Kotte under the theme, Navigating the HR Horizon.
+
+The inauguration of the Conference featured a Keynote Address by Nick Jonsson, Co-founder and Managing Director of Executives’ Global Network (EGN) and an esteemed Executive Coach, who dwelled on the topic “Leading with Purpose and Authenticity”.
+
+The Chief Guest at the Conference, Santosh Jha, the High Commissioner of India to Sri Lanka emphasized the importance of the HR sector discipline and its future.
+
+Notable sessions on day two commenced by the session on the conference theme by Dr. Tanvi Gautam, Senior faculty and program Director at Singapore Management University (Executive Development). Priyantha Ranasinghe, Vice President CIPM, Chief People Officer, Siam City Cement Lanka Ltd, moderated the session,
+
+...
+
+[Data](articles/5af0821c.json)
+
+---
+
+### 10 கோடி ரூபாய் வருமானம் இழப்பு
+
+*2024-07-12 03:02:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-கோடி-ரூபாய்-வருமானம்-இழப்பு/175-340275) · `ta`
+
+பணிப்புறக்கணிப்பு இடம்பெற்ற இரண்டு தினங்களில் புகையிரத திணைக்களத்திற்கு ஏறக்குறைய 10 கோடி ரூபாய் வருமான இழப்பு ஏற்பட்டுள்ளதாக திணைக்களத்தின் உயர் அதிகாரி ஒருவர் இன்று (11) தெரிவித்தார்.
+
+சாதாரண நாளில் ரயில்வே துறையின் பயணிகள் போக்குவரத்து டிக்கெட் வருமானம் 4 கோடி ரூபாயாகும். அந்த வருவாயுடன் சரக்கு உள்ளிட்ட இதர வருவாயையும் சேர்த்தால் தினசரி வருமானம் சுமார் 5 கோடி ரூபாயாகும்  என்று அதிகாரி கூறினார்.
+
+ரயில் நிலையங்களில்  டிக்கெட் வழங்கத் தவறியதால், வேலை நிறுத்த நாட்களில் ஓடிய ரயில்களில் பயணம் செய்த பயணிகளுக்கு டிக்கெட் கட்டணம் கிடைக்கவில்லை என்றும் குறிப்பிட்டார். வேலைநிறுத்தம் தொடர்ந்தால் இழப்பு அதிகரிக்கும் என்றார்.
+
+◼️
+
+[Data](articles/bccfa514.json)
+
+---
+
+### அரசியலமைப்பில் திருத்தம்: ’குழப்பும் சூழ்ச்சி’
+
+*2024-07-12 03:00:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியலமைப்பில்-திருத்தம்-குழப்பும்-சூழ்ச்சி/175-340274) · `ta`
+
+ஜனாதிபதியின் பதவிக் காலம் தொடர்பில் அரசியலமைப்பில் திருத்தம் கொண்டுவர அமைச்சரவையில் தீர்மானம் நிறைவேற்றியமையானது ஜனாதிபதித் தேர்தல் தொடர்பில் மக்களை குழப்பத்திற்கு கொண்டு செல்வதற்கும், அந்தத் தேர்தலை தாமதப்படுத்துவதற்கும் எடுத்துள்ள முயற்சியே ஆகும் என்று தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்துள்ளார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (11) இடம்பெற்ற  சட்டரீதியான ஏற்பாடுகளுக்கு அமைய உரிய காலத்தில் ஜனாதிபதித் தேர்தலை நடத்துவது பற்றிய சபை ஒத்திவைப்பு வேளை விவாதத்தில் உரையாற்றும் போதே சுமந்திரன் எம்.பி இவ்வாறு தெரிவித்தார்.
+
+ஜனாதிபதியின் பதவிக் காலம் தொடர்பில் கடந்த 8ஆம் திகதி தாக்கல் செய்யப்பட்டிருந்த மனு தொடர்பான அறிவிப்பின் போது உயர்நீதிமன்றம் ஜனாதிபதியின் பதவிக்காலம் 5 வருடங்கள் என்பதனை தெளிவாக கூறியிருந்தது. அத்துடன் 19ஆவது திருத்தத்திலும் அந்த விடயம் குறிப்பிடப்பட்டுள்ளது. 19ஆவது திருத்தத்தில், ஜனாதிபதியின் பதவிக் காலத்தை ஐந்து வருடங்களாகக் குறைக்கும் வகையில் 30(2)வது சரத்து திருத்தப்பட்டது.
+
+...
+
+[Data](articles/8e4226f1.json)
+
+---
 
 ### The security of the people is a serious threat
 
@@ -2115,157 +2225,5 @@ Hospital sources reported that popular singer K. Sujeewa, who was seriously inju
 [Data](articles/51c41431.json)
 
 [Extended Data](ext_articles/51c41431.ext.json)
-
----
-
-### Woman was hospitalized after he was embarrassing the train in heavy traffic
-
-*2024-07-11 16:11:38* · [`adalk`](https://www.ada.lk/breaking_news/අධික-තදබදයෙන්-ස්වසන-අපහසුතාවට-ලක්වූ-දුම්රියේ-ගමන්ගත්-කාන්තාව-රෝහලට/11-410743) · `si`
-
-A woman, 53, traveling from Colombo to Polgahawela during a railway strike, felt unwell and was rushed to Gampaha District General Hospital. Despite initial discomfort, she recovered and was discharged after treatment.
-
-🟩
-
-A woman who was traveling from Colombo Fort to Polgahawela was admitted to the Gampaha District General Hospital due to the strike of several sections including station.
-
-A 53-year-old state worker had been uncomfortable in the railway room, the other passengers were uncomfortable in the railway room and sent to the hospital in a 1990 celebration.
-
-After the sick woman was hospitalized and treated at treatment, he said.
-
-◼️
-
-[Data](articles/3493515a.json)
-
-[Extended Data](ext_articles/3493515a.ext.json)
-
----
-
-### MP
-
-*2024-07-11 16:09:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கீதை-மீது-சத்தியம்-செய்து-பதவியேற்ற-பெண்-எம்-பி/50-340246) · `ta`
-
-Shivani Raja, a 29-year-old of Indian origin, made history by winning a seat in the British Parliament for the Leasters East constituency, traditionally a stronghold for the Labour Party. Contesting under the Conservative banner, she became the first MP to be sworn in using the Bhagavad Gita, expressing pride in representing her constituents.
-
-🟩
-
-Shivani Raja, a 29 -year -old Indian origin, was sworn in in the British Parliament
-
-He won the recent election in the country in the Leasters East constituency. This constituency has been the fortress of the Labor Party in the last elections. Shivani has won there in this context. He contested there on behalf of the Conservative Party. In this case, Shivani said that he was proud to represent the Leasters Eastern constituency as a Member of Parliament and sworn in the Bhagavad Gita.
-
-◼️
-
-[Data](articles/34e492dd.json)
-
-[Extended Data](ext_articles/34e492dd.ext.json)
-
----
-
-### How to Ava and Carb Spring - CCTV
-
-*2024-07-11 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198707) · `si`
-
-CCTV footage reveals Club Spring's murder last Monday. A shooter approaches him while he eats, leading to his death.
-
-🟩
-
-The CCTV shows a range of CCTV shows how Club spring is killed last Monday (08).
-
-It states how a shotter is getting closer to him when the club spring is eating.
-
-◼️
-
-[Data](articles/1bcc8f47.json)
-
-[Extended Data](ext_articles/1bcc8f47.ext.json)
-
----
-
-### Drugs destroy 600 categories
-
-*2024-07-11 16:05:46* · [`adalk`](https://www.ada.lk/breaking_news/රු-කෝටි-600ක-මත්ද්‍රව්‍ය-විනාශ-කෙරේ/11-410742) · `si`
-
-Cocaine worth 600 categories was seized and destroyed in Sri Lanka, as per a court order. The drugs, totaling 881 grams, were found in parcels during a police operation in 2020. This action was part of efforts led by the IGP and included the destruction of other narcotics like heroin and ice.
-
-🟩
-
-Colombo Chief Magistrate Thilina Gamage yesterday leading the heavy loss of cocaine established by the Police Special Task Force and Navy in Kiss.The afternoon took place (11).
-
-The drug had been arrested in the 2020 and 881 grams of cocaine were bowled out in the parcels. With the end of the court proceedings, the court was taken to the Lacto Estate to Lacto Estate to the Lacto Estate in Colombo, from Colombo to Venathawilluwa Labto Estate.
-
-IGP Deshaband Tennakoon has also been assigned to Minister Tiran Alles on the occasion.
-
-Minister of Public Security Tiran Alles said that a stock of heroin, ice, ice, cocaine, which was established in the Vanathawilluwa Labillawela Labillawela, has been destroyed.
-
-The officials of the Dangerous Drugs, Drug Prevention, Narcotics, DIG Kithsiri Jayalath, Puttalam Nayaka Jayalath, Puttalam Nayka Jayalath and Puttalam DIG KHSiri Jayalath, Puttalam Nalaka Silva were also present.
-
-◼️
-
-[Data](articles/f7515b1c.json)
-
-[Extended Data](ext_articles/f7515b1c.ext.json)
-
----
-
-### Russia wants quick solution to issue of Indians caught up in Ukraine war, top diplomat says
-
-*2024-07-11 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100446/russia-wants-quick-solution-to-issue-of-indians-caught-up-in-ukraine-war-top-diplomat-says) · `en`
-
-Russia is committed to finding the “earliest possible solution” to the issue of Indians being duped into joining its army and fighting in the Ukraine war, a top Russian diplomat said, in Moscow’s first comments on the matter.
-
-Seeking the discharge of Indians who joined Russia’s army on false premises has been a key focus of Prime Minister Narendra Modi’s talks with President Vladimir Putin in Moscow this week.
-
-An Indian official accompanying Modi said on Tuesday that Russia has promised their early discharge.
-
-“The Russian army does not need Indians, especially those numbers which are very few ... They do not change the situation on the battleground in any way,” Roman Babushkin, the Charge d’Affaires of the Russian Embassy in India, said late on Wednesday.
-
-...
-
-[Data](articles/0e394e19.json)
-
-[Extended Data](ext_articles/0e394e19.ext.json)
-
----
-
-### Sri Lanka presidential election ‘most probably’ on October 5 or 12: Minister
-
-*2024-07-11 16:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-election-most-probably-on-october-5-or-12-minister-171745/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s presidential poll will be held this year on October 5 or 12, its Foreign Affairs Minister Ali Sabry said in parliament on Thursday.
-
-“Do not doubt that the presidential election will be held between September 17 and October 17 this year. Most probably it will be held on either Saturday, October 5 or Saturday, October 12,” Sabry said.
-
-“The president is not afraid to go before the people because he has accomplished something, he has a report card.
-
-Based on that report card the people will decide. This government and the president have no intention to stay on a day extra.”
-
-Parties afraid of an election and those who want to destabilise the country were spreading false information about the postponing of elections, Sabry said.
-
-◼️
-
-[Data](articles/43ac9f46.json)
-
-[Extended Data](ext_articles/43ac9f46.ext.json)
-
----
-
-### 9 years of the National Drug Regulatory Authority
-
-*2024-07-11 15:46:16* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ඖෂධ-නියාමන-අධිකාරියට-වසර-9-ක්-සපිරේ-/11-410741) · `si`
-
-The National Drug Regulatory Authority (NMRA) in Sri Lanka, established on July 1, 2015, celebrated its 9th anniversary with a ceremony at the Bandaranaike Memorial International Conference Hall. The NMRA ensures the quality and availability of medicines and medical equipment in the country, adhering to the national pharmacy policy. This event highlighted the authority's contributions to healthcare, including introducing the Pharmaceutical Policy to the world, which was unveiled by the Health Minister and the founder of the Sri Lanka Pharmaceutical Corporation. Key figures from the health sector attended the celebration, marking the significant achievements of the NMRA in regulating drugs and ensuring public health standards.
-
-🟩
-
-A special ceremony was held to the National Drug Regulatory Authority (NMRA), a special celebration held at the Bandaranaike Memorial International Conference Hall today (11) under the patronage of Hon.
-
-The National Drug Regulatory Authority has been established on 01.07.2015 and providing the quality, medical equipment, restriction and ointment of the public by following the national pharmacy policy in Sri Lanka..
-
-The Pharmaceutical Policy was introduced to the Sri Lankan concept to the world, and he was unveiled by the Health Minister and the Health Minister was also the founding chairman of the Sri Lanka Pharmaceutical Corporation.
-
-...
-
-[Data](articles/14afc82b.json)
-
-[Extended Data](ext_articles/14afc82b.ext.json)
 
 ---

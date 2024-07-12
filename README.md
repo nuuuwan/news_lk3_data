@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 21:19:50**
+As of **2024-07-12 21:35:31**
 
 ## Newspaper Stats
 
-*Scraped **34,995** Articles*
+*Scraped **34,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,95 +16,139 @@ islandlk | 1,969
 economynextcom | 2,072
 dailyftlk | 2,203
 adalk | 3,158
-adaderanalk | 4,020
+adaderanalk | 4,021
 tamilmirrorlk | 4,195
 dailymirrorlk | 4,733
-virakesarilk | 5,475
+virakesarilk | 5,477
 adaderanasinhalalk | 5,828
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,991 (100.0%) of 34,995 articles have been extended.
+34,995 (100.0%) of 34,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-12 (Friday)
 
-### පාතාලය කුපිත වෙන්න ක්ලබ් වසන්ත කළ දේ ?
+### State Minister Balasuriya praises Indian PM Modi, emphasizes regional connectivity
+
+*2024-07-12 21:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100469/state-minister-balasuriya-praises-indian-pm-modi-emphasizes-regional-connectivity) · `en`
+
+State Minister of Foreign Affairs of Sri Lanka, Tharaka Balasuriya, lauded Indian Prime Minister Narendra Modi, describing him as ‘charming’ and a ‘visionary.’ Balasuriya agreed with Modi’s assessment that increased connectivity between Sri Lanka, India, Myanmar, and Thailand would unlock more opportunities for the region.
+
+He was in New Delhi to attend the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) Foreign Minister’s Retreat.
+
+Balasuriya highlighted the informal and candid nature of the BIMSTEC Foreign Minister’s Retreat. ‘It was very well organized, allowing us to share our ideas openly,’ he said to ANI.
+
+Reflecting on his meeting with PM Modi, Balasuriya noted it was his first encounter with the Indian leader. ‘The Prime Minister is both charming and visionary. He pointed out that the European Union’s success was largely due to connectivity, something that South Asia and Southeast Asia lag behind in.
+
+...
+
+[Data](articles/24ca9fd8.json)
+
+---
+
+### What's the underworld was spring?
 
 *2024-07-12 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198751) · `si`
 
-අතුරුගිරියේදී පසුගියදා වෙඩි ප්‍රහාරයකට ලක්වී මියගිය ක්ලබ් වසන්තගේ දේහය මේ වනවිට බොරැල්ලේ මල් ශාලාවක තැන්පත් කර තිබේ.
+Club Wasantha, set to open a tative center in Athurugiriya, was shot dead. His body was placed at a flower hall before being buried. Jayaratne Malzala threatened the family over phone calls, allegedly linked to the funeral arrangements. The Criminal Investigation Division started investigating Malzala after receiving threats from him. Meanwhile, Kubipani Imran stated that the first person to be arrested was involved in the assassination of the Madjiphura, leading to further investigations by the Colombo Crimes Division and the Western North Criminal Division under IGP Deshabandu Tennakoon's orders.
 
-පොලීසිය පවසන්නේ, දේහය තැන්පත් නොකරන ලෙස ජයරත්න මල්ශාලාවට යළිත් තර්ජනාත්මක දුරකථන ඇමතුම් ලැබී ඇති බවය.
+🟩
 
-අතුරුගිරිය ප්‍රදේශයේ ටැටූ මධ්‍යස්ථානයක් විවෘත කිරීමට ගිය සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත හා තවත් අයෙක් වෙඩි තබා ඝාතනය කෙරුණේ ඉකුත් 08 වනදා ය.
+The body of Club Wasantha, who was shot dead in Athurugiriya, has been placed at a flower hall at Borella.
 
-අනතුරුව ක්ලබ් වසන්තගේ දේහය අවසන් කටයුතු සඳහා අද (12) දිනයේදී ජයරත්න මල්ශාලාවේ තන්පත් කරන බව ප්‍රකාශ කිරීමත් සමග පෙරේදා (10) රාත්‍රියේදී කංජිපානි ඉම්රාන් ලෙස පවසමින් පුද්ගලයෙකු දුරකථන ඇමතුමක් ලබාදී අදාළ මල්ශාලාවට තර්ජනය කර තිබුණි.
+Police say that Jayaratne Malzala has been re-threatening telephone calls not to deposit the body.
 
-ඒ අනුව බොරැල්ල පොලීසියේ අපරාධ විමර්ශන අංශය විමර්ශන ආරම්භ කළ අතර මල්ශාලාව අසල ආරක්ෂාවද තර කෙරුණි.
+Sadhra Wasantha Perera, who was to open a tative center in Athurugiriya, was shot dead, and another.
 
-එවන් පසුබිමක ඊයේ (11) රාත්‍රියේදීත් නාඳුනන පුද්ගලයෙකු විසින් ජයරත්න මල්ශාලාවට දුරකථන ඇමතුමක් ලබාදී තර්ජනය කර ඇත්තේ, කංජිපානි ඉම්රාන් ලබාදුන් දැනුම්දීම පිළිබඳව ක්ලබ් වසන්තගේ පවුලේ උදවියට දැනුම් දුන්නේද යන බව විමසමිනි.
+After the statement made by Kubipani Imran, a person had telephoned the Malze, saying that Jayaratne was credited to the funeral of Club Wasantha today (12).
 
-එවන් පසුබිමක අද උදෑසන ක්ලබ් වසන්තගේ දේහය ජයරත්න මල්ශාලාවේ තැන්පත් කෙරුණි.
+Accordingly, the Criminal Investigation Division of the Borella police commenced investigations and security near Malzala.
+
+In such a background, Jayaratne had telephoned Jayaratne Malzala and threatened the Club Wasantha's family on the nomissions given by Kjipani Imran.
+
+The body of Club Wasantha was buried in such a situation.
+
+Meanwhile, KJCani Imran has said that the first person was the first person to be arrested for the arrest of the security forces to arrest the Madjiphura.
 
 ...
 
 [Data](articles/b5a541ac.json)
 
+[Extended Data](ext_articles/b5a541ac.ext.json)
+
 ---
 
-### රණවිරුවන් පදිංචි රජයේ ඉඩම්වලට කොන්දේසි විරහිත සින්නක්කර ඔප්පු
+### Unconditional commercial deeds to state lands a resident of war heroes
 
 *2024-07-12 20:28:18* · [`adalk`](https://www.ada.lk/breaking_news/රණවිරුවන්-පදිංචි-රජයේ-ඉඩම්වලට-කොන්දේසි-විරහිත-සින්නක්කර-ඔප්පු/11-410762) · `si`
 
-මෙරට ස්වෛරීභාවය රැක ගැනීම වෙනුවෙන් සිය ජීවිත කැප කළ, සක්‍රීය ක්‍රියාන්විතයේ රාජකාරි කළ ත්‍රිවිධ හමුදාවේ, ශ්‍රී ලංකා පොලීසියේ හා සිවිල් ආරක්ෂක බලකායේ දිවි පිදු හා ආබාධිත වූ රණවිරුවන් හා ඔවුන්ගේ යැපෙන්නන් වෙනුවෙන් පදිංචිය සඳහා ලබා දී ඇති රජයේ ඉඩම් සඳහා කොන්දේසි විරහිතව හා ගාස්තු අය කිරීමකින් තොරව සින්නක්කර අයිතිය ලබාදීමේ වැඩසටහනක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පයකට අනුව ක්‍රියාත්මක කර තිබේ.
+President Ranil Wickremesinghe launched a program to grant land titles unconditionally to war heroes and disabled veterans, ensuring safe residency across Sri Lanka. This initiative, operated by the Presidential Secretariat, aims to foster a sense of belonging and security among these individuals and their families. The process involves a formal selection procedure, provision of free grants for developed lands, and assistance with survey requirements. Mobile programs have been organized in various locations, including Polonnaruwa and Kalutara, to distribute these titles freely.
 
-මෙරට සෑම බිම් අඟලකටම සියලුදෙනාට බියකින්, සැකයකින් තොරව යාමට ඉඩ ප්‍රස්ථාව උදා කර දීම වෙනුවෙන් සිය ජීවිතය කැප කළ විරෝධාර රණවිරුවන්ට මව්බිමේ බිම් කැබැල්ලක අයිතිය තහවුරු කර දීම මෙම වැඩසටහනේ අරමුණයි. ජනාධිපති කාර්යාලයේ මෙහෙයවිමෙන් වැඩසටහන ක්‍රියාත්මක කෙරේ.
+🟩
 
-ජනාධිපතිවරයා විසින් අංක PS/CM/APL/267/2024 හා 2024-05-13 දිනැතිව රණවිරුවන්ගේ පදිංචිය සඳහා ලබා දී ඇති රජයේ ඉඩම් සඳහා පූර්ණ සහන ලබා දීම සඳහා ඉදිරිපත් කරන ලද අමාත්‍ය මණ්ඩල සංදේශයට ලද අංක අමප/24/0898/601/058 හා 2024/05/23 දිනැති අමාත්‍ය මණ්ඩල තීරණය අනුව රණවිරුවන්ට පහත සඳහන් සහන හිමිව තිබේ.
+Unconductly and unconditional and charges of residences for residency and disabled war heroes and their dependents for protecting the country's lives to protect the country.The ownership program has been implemented in a concept of President Ranil Wickremesinghe.
+
+The program aims to ensure the ownership of the motherland to allow all inches of every inch of every inch of all parts of the country to go without fear and suspicion. The program is implemented by operating at the Presidential Secretariat.
+
+The President made a number of addresses to the Cabinet Memoranda, the President, who has been submitted to the Cabinet Memorandum given by the President, a resident of the State Lands given to the State Lands of the State Lands given to the State Lands of the State Lands (24/2024 and 2024-05-13).And according to the decision of the Cabinet of Ministers, 2024/20/23, the war heroes have the following concessions.
 
 ...
 
 [Data](articles/67dcb868.json)
 
+[Extended Data](ext_articles/67dcb868.ext.json)
+
 ---
 
-### වසරකට ගුරු උපාධිධාරීන් 7500
+### Teach graduates per year
 
 *2024-07-12 20:23:48* · [`adalk`](https://www.ada.lk/breaking_news/වසරකට-ගුරු-උපාධිධාරීන්-7500/11-410761) · `si`
 
-වත්මන් අධ්‍යාපන ප්‍රතිසංස්කරණ ක්‍රියාවලිය තුළින් මෙරට අධ්‍යාපන ක්ෂේත්‍රයේ මෙතෙක් සිදු නොවූ විශාල වර්ධනයක් ඇති කර ගත හැකි බව අධ්‍යාපන රාජ්‍ය අමාත්‍ය අර්වින්ද් කුමාර් මහතා පැවසීය.
+The Minister of Education announced plans to enhance the country's education sector, including hiring over 500 foreign teachers and increasing local university enrollment from 5,000 to 7,500 students annually. This move aims to produce 7,500 teach graduates yearly, improve facilities for children with special needs, and expand Zonal Education Offices to 120. The government also addressed teacher strikes, emphasizing the crucial role educators play in shaping the nation's future. Additionally, there were updates on wage disputes and the overall economic situation, highlighting improvements under the current leadership.
 
-මෙරට අනාගත පරම්පරාව බිහි කරන ගෞරවාන්විත සේවයක් ලෙස ගුරුවරුන්ට විශාල වගකීමක් පැවරී ඇති බැවින් එය නිසි ලෙස අවබෝධ කර ගනිමින් තමන්ගේ හෘද සාක්ෂියට අනුව කටයුතු කරන ලෙස රාජ්‍ය අමාත්‍යවරයා සමස්ත ගුරුවරුන්ගෙන් ඉල්ලා සිටියේය.
+🟩
 
-අධ්‍යාපන රාජ්‍ය අමාත්‍ය අර්වින්ද් කුමාර් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (12) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+The Minister of Education Erwindad Kumar said that the current education reform process could be established in the education sector of the country.
 
-වත්මන් අධ්‍යාපන ප්‍රතිසංස්කරණ ක්‍රියාවලිය තුළින් මෙරට අධ්‍යාපන ක්ෂේත්‍රයේ මෙතෙක් සිදු නොවූ විශාල වර්ධනයක් සිදුවනු ඇති බව අප විශ්වාසය කරනවා. විශේෂයෙන් රැකියා වෙළඳපොල ඉලක්ක කර කොරියානු, ජර්මන්, ප්‍රංශ, හින්දි, චීන හා ජපන් භාෂා ගුරුවරුන් පන්සියයකට වැඩි සංඛ්‍යාවක් බඳවා ගෙන මේ වන විට පාසැල්වලට යොමු කර තිබෙනවා.
+The State Minister urged the entire teachers to properly understand the country's future generation, as the teachers were responsible for their conscience.
+
+State Minister of Education Erwindad Kumar made this statement participating at a press conference held at the Presidential Media Center today (12).
+
+We believe that the current education sector in the country will increase yet. Especially has recruited to schools by recruiting more than 500 teachers of Korean, German, French, aimed at the job market.
 
 ...
 
 [Data](articles/d0508ff2.json)
 
+[Extended Data](ext_articles/d0508ff2.ext.json)
+
 ---
 
-### නව නීතිපති ජනාධිපති නීතිඥ කේ. ඒ. පාරින්ද රණසිංහ
+### New Attorney General President's Counsel. it. Mawatha, Ranasinghe
 
 *2024-07-12 20:19:28* · [`adalk`](https://www.ada.lk/breaking_news/නව-නීතිපති-ජනාධිපති-නීතිඥ-කේ--ඒ--පාරින්ද-රණසිංහ/11-410760) · `si`
 
-නව නීතිපතිවරයා ලෙස ජනාධිපති නීතිඥ කේ. ඒ. පාරින්ද රණසිංහ මහතා අද (12) පස්වරුවේ ජනාධිපති කාර්යාලයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේ දිවුරුම් දුන්නේය.
+Ranasinghe and Mawatha were sworn in as Sri Lanka's 49th Attorney General by President Ranil Wickremesinghe, following his appointment under Article 61(e)(b) of the Constitution. The ceremony took place at the Presidential Secretariat, where Presidential Secretary Saman Ekanayake was also sworn in.
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 61 ඊ (ආ) වගන්තිය ප්‍රකාරව පැවරී ඇති බලතල අනුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මෙම පත්වීම සිදු කර ඇත.
+🟩
 
-ජනාධිපති නීතිඥ කේ. ඒ. පාරින්ද රණසිංහ මහතා මෙරට 49 වන නීතිපතිවරයායි.
+President's Counsel K. As the new Attorney General. it. Admission of the President and Ranasinghe sworn in before President Ranil Wickremesinghe at the Presidential Secretariat this afternoon.
 
-ජනාධිපති ලේකම් සමන් ඒකනායක මහතා ද දිවුරුම් දීමේ අවස්ථාවට එක්ව සිටියේය.
+The appointment was made by President Ranil Wickremesinghe depending on the powers vested in terms of Article 61 e (b) of the Constitution.
+
+President's Counsel K. it. Mr. Mawatha and Ranasinghe are the 49th Attorney General.
+
+Presidential Secretary Saman Ekanayake was also sworn in.
 
 ◼️
 
 [Data](articles/e2519cb9.json)
+
+[Extended Data](ext_articles/e2519cb9.ext.json)
 
 ---
 
@@ -308,6 +352,24 @@ The suspects have been submitted to the Maliganda Magistrate's Court.
 
 ---
 
+### யாழில் திருநங்கையை கடத்திய மூவருக்கு விளக்கமறியல்!
+
+*2024-07-12 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188320) · `ta`
+
+கோவிலுக்கு சென்று விட்டு திரும்பிய திருநங்கையை கடத்திச் சென்ற மூவர் ஊர்காவல்துறை பொலிஸாரால் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+கொழும்பினைச் சேர்ந்த 24 வயதுடைய குறித்த திருநங்கை நேற்று முன்தினம் ஊர்காவல்துறை பகுதியில் உள்ள சிவன் ஆலயத்திற்கு சென்று தரிசித்து விட்டு திரும்பி வந்து கொண்டிருந்த வேளை மூவரடங்கிய குழு அவரை வாகனத்தில் ஏற்றி ஆட்களற்ற பகுதிக்கு அழைத்துச் சென்றது.
+
+அங்கு அழைத்துச் சென்று, "இங்கே ஏன் வந்தாய்" என அந்த திருநங்கையை வினவியவேளை ஊர்காவல்துறை பகுதியைச் சேர்ந்த இளைஞன் ஒருவரை சந்திக்க வந்ததாக தெரிவித்து அந்த இளைஞனின் தொலைபேசி இலக்கத்தை குறித்த கும்பலிடம் வழங்கினார்.
+
+இதேவேளை அந்த இளைஞனுக்கு குறித்த கும்பல் தொலைபேசி அழைப்பு மேற்கொண்ட வேளை, அந்த கும்பலில் இருந்தவரின் தொலைபேசி இலக்கம் குறித்த இளைஞனிடம் ஏற்கனவே இருந்திருந்தது. இந்நிலையில் இதுகுறித்து ஊர்க்காவல்துறை பொலிஸ் நிலையத்தில் முறைப்பாடும் செய்யப்பட்டது.
+
+...
+
+[Data](articles/db0e243e.json)
+
+---
+
 ### Bingiriya Investment Zone to generate USD 2.6 billion export income and create 75,000 jobs - President
 
 *2024-07-12 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100466/bingiriya-investment-zone-to-generate-usd-26-billion-export-income-and-create-75000-jobs-president) · `en`
@@ -325,6 +387,22 @@ Upon completion of the Bingiriya Investment Zone, it is estimated that an export
 [Data](articles/a538782c.json)
 
 [Extended Data](ext_articles/a538782c.ext.json)
+
+---
+
+### யாழ். உணவகத்திற்கு சீல்
+
+*2024-07-12 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/188318) · `ta`
+
+யாழ்ப்பாண நகர் பகுதியில் உள்ள இரண்டு உணவகங்களுக்கு நீதிமன்ற உத்தரவின் பேரில் சீல் வைக்கப்பட்டுள்ளது.
+
+பொது சுகாதார பரிசோதகர்கள் திடீர் சோதனை நடவடிக்கையில் ஈடுபட்ட வேளை நகர் பகுதியில் சுகாதார சீர்கேட்டுடன் இயங்கி வந்த இரு உணவங்களுக்கு எதிராக நீதிமன்றில் வழக்கு தொடர்ந்தனர்.
+
+நீதிமன்றில் குறித்த வழக்கு விசாரணைக்கு எடுத்துக்கொண்ட வேளை, உணவகத்தில் காணப்படும் சுகாதார குறைப்பாடுகளை நிவர்த்தி செய்யும் வரையில் உணவகத்திற்கு சீல் வைக்குமாறு மன்று உத்தரவிட்டுள்ளது.
+
+◼️
+
+[Data](articles/161cecb5.json)
 
 ---
 
@@ -2245,59 +2323,5 @@ In a fundamental rights petition filed by the Young Journalists Association chal
 [Data](articles/0a0a8e05.json)
 
 [Extended Data](ext_articles/0a0a8e05.ext.json)
-
----
-
-### Bandaranaike Academy for Leadership & Public Policy launches ‘Executive Credential in Leadership & Public Policy’ course
-
-*2024-07-12 02:48:25* · [`dailyftlk`](https://www.ft.lk/news/Bandaranaike-Academy-for-Leadership-Public-Policy-launches-Executive-Credential-in-Leadership-Public-Policy-course/56-764191) · `en`
-
-The Bandaranaike Academy for Leadership & Public Policy (BALPP) is the first and premier institute in Sri Lanka for education and training on leadership skills with public policy as a core discipline.
-
-Beginning its second year of operations, the BALPP is now launching a new flagship course: ‘Executive Credential in Leadership & Public Policy’ (ECLPP), in October 2024.
-
-...
-
-[Data](articles/09bfeb13.json)
-
-[Extended Data](ext_articles/09bfeb13.ext.json)
-
----
-
-### Sri Lanka and China sign agreement to transform education sector
-
-*2024-07-12 02:47:45* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-China-sign-agreement-to-transform-education-sector/56-764190) · `en`
-
-Treasury Secretary Mahinda Siriwardana exchange the agreement with China International Development Cooperation Agency Vice President Yang Weiqun in Beijing
-
-Initial phase will see advanced smart classroom solutions with interactive high-definition distance learning features in 900 classrooms across 500 schools
-
-The Government yesterday signed a Letter of Exchange with the China International Development Cooperation Agency (CIDCA) to transform the education sector.
-
-At a ceremony in Beijing, Treasury Secretary Mahinda Siriwardana signed on behalf of the Government and for CIDCA, its Vice President Yang Weiqun.
-
-...
-
-[Data](articles/a7395296.json)
-
-[Extended Data](ext_articles/a7395296.ext.json)
-
----
-
-### Cabinet clears draft Bill to convert estate housing areas into villages
-
-*2024-07-12 02:45:50* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-clears-draft-Bill-to-convert-estate-housing-areas-into-villages/56-764189) · `en`
-
-In a significant move to improve the living conditions of those residing in estate housing areas, the Cabinet of Ministers on Tuesday approved directing the Legal Draftsman to drafting a new Bill aimed at converting estate housing areas into villages.
-
-The move aims to ensure that residents of estate line rooms receive the same level of services and dignity as those living in villages.
-
-“Currently, residents of estate houses and line rooms in estate areas are not adequately provided with rural-level services by State institutions. The new law seeks to amalgamate these estate houses and line rooms into villages, thereby ensuring they are treated with dignity and respect,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
-
-...
-
-[Data](articles/f27add12.json)
-
-[Extended Data](ext_articles/f27add12.ext.json)
 
 ---

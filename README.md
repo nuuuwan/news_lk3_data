@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-12 09:35:30**
+As of **2024-07-12 09:54:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,806
 
 Extensions include translations and NER (Named Entity Recognition).
 
-34,912 (100.0%) of 34,915 articles have been extended.
+34,915 (100.0%) of 34,915 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Selected students in the Hambantota district will receive their scholarships tod
 
 [Data](articles/983d6ed1.json)
 
+[Extended Data](ext_articles/983d6ed1.ext.json)
+
 ---
 
 ### Indian nationals arrested without valid visas
@@ -63,6 +65,8 @@ The arrested individuals are all Indian nationals aged 25, 26, 33, 38, 39, and 4
 ◼️
 
 [Data](articles/c0631444.json)
+
+[Extended Data](ext_articles/c0631444.ext.json)
 
 ---
 
@@ -85,6 +89,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/e27c673a.json)
+
+[Extended Data](ext_articles/e27c673a.ext.json)
 
 ---
 

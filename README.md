@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 21:35:17**
+As of **2024-07-13 21:54:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,852
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,093 (100.0%) of 35,097 articles have been extended.
+35,097 (100.0%) of 35,097 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,55 +48,77 @@ President Ranil Wickremesinghe recently inaugurated the newly established Depart
 
 [Data](articles/5b56898e.json)
 
+[Extended Data](ext_articles/5b56898e.ext.json)
+
 ---
 
-### பேருந்தில் இருந்து தடுக்கி விழுந்த மாணவன் படுகாயம்
+### Student injured from a bus
 
 *2024-07-13 21:13:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பேருந்தில்-இருந்து-தடுக்கி-விழுந்த-மாணவன்-படுகாயம்/76-340332) · `ta`
 
-மஸ்கெலியா நகரில் இருந்து அவிஸ்சாவலை நோக்கி செல்லும் அவிஸ்சாவலை அரச பேருந்தில் இன்று மேலதிக வகுப்புக்குச் சென்ற மாணவன் பேருந்தில் இருந்து தடுக்கி விழுந்து படுகாயமடைந்ததாக மஸ்கெலியா பொலிஸார் தெரிவித்தனர்.
+A student, KT Dinit (10), fell off a bus near Moussakkalai while traveling from Maskeliya to Avissawella. Injured, he was first treated at the Maskeliya District Hospital before being transferred to the Tikoya Klangan Resource Hospital for further care.
 
-மவுஸ்சாக்கலை தோட்டத்தில் வசிக்கும் கே.டி.தினித் என்ற 10 வயதுச் சிறுவனே மேலதிக வகுப்புக்குச் சென்று வீடு திரும்பும் போது மவுஸ்சாகலை சந்தியில் இறங்குகையில் தடுக்கி விழுந்து உள்ளார்.
+🟩
 
-இந்த மாணவன் கையில் காயமடைந்த நிலையில் மஸ்கெலியா மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைக்காக டிக்கோயா கிளங்கன் ஆதார வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளார் என மஸ்கெலியா மாவட்ட வைத்தியசாலையில் அதிகாரி ஒருவர் தெரிவித்தார். R
+Maskeliya police said that a student who was traveling to Avissaavalai from Maskeliya to Avissawell was blocked off the bus today.
+
+KT Dinit, a 10 -year -old boy, who lives in the Moussakkalai estate, has fallen to the highest class and falls at the junction of Moussakal.
+
+The student was admitted to the Maskeliya District Hospital after being injured and taken to the Tikoya Klangan Resource Hospital for further treatment, an official at the Maskeliya District Hospital said.. Remble
 
 ◼️
 
 [Data](articles/eb6eb277.json)
 
+[Extended Data](ext_articles/eb6eb277.ext.json)
+
 ---
 
-### குழந்தையையும், மனைவியின் கர்ப்பப் பையையும் இழந்து நிற்கின்றேன்
+### I lose the baby and the wife's pregnancy
 
 *2024-07-13 21:06:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/குழந்தையையும்-மனைவியின்-கர்ப்பப்-பையையும்-இழந்து-நிற்கின்றேன்/72-340330) · `ta`
 
-ஒரு வருடத்திற்கு முன் கிளிநொச்சி வைத்தியசாலையில் பிரசவத்திற்காக அனுமதிக்கப்பட்ட எனது மனைவிக்கு  பிறந்த குழந்தை இறந்ததோடு, மனைவியின் கர்ப்பப் பையும் அகற்றப்பட்ட சம்பவம் மருத்துவ தவறுகளினால் இடம்பெற்றது.
+E. Suresh from Kilinochchi Nathankudiyiruppu recounts his tragic loss: his wife died during childbirth at Kilinochchi Hospital due to medical errors, and their newborn was stillborn. Despite appeals to police, human rights commissions, health ministry, and presidential secretariat, he seeks justice for what he calls a grave injustice. He laments the loss of his wife, their unborn child, and the absence of justice, highlighting the devastating impact of medical negligence on his life and dreams.
 
-ஆனால் இன்று எனக்கு அதற்காக எந்த நீதியும் கிடைக்கவில்லை என கிளிநொச்சி நாதன்குடியிருப்பு திட்டத்தைச் சேர்ந்த இ.சுரேஸ் கவலை தெரிவித்துள்ளார்.
+🟩
 
-வருடம் ஒன்றாகிறது ஆனாலும் இதுவரை எந்த நீதியும் கிடைக்கவில்லை. மருத்துவ தவறு காரணமாக எனக்கு பிறந்த ஒரேயொரு குழந்தையையும், மனைவியின் கர்ப்பபையும் இழந்து ஆண்டு   ஒன்றாகிறது. எனக்கு இழைக்கப்பட்ட இந்த மோசமான அநீதி தொடர்பில் நான் இதுவரை பொலிஸ் நிலையம், மனித உரிமைகள் ஆணைக்குழு, சுகாதார அமைச்சு, ஜனாதிபதி செயலகம் என பல தரப்பினர்களிடமும் முறையிட்டேன். முறைப்பாடு கிடைத்ததாக பதில் கிடைத்ததே தவிர எனக்கு இன்று வரை நீதி கிடைக்கவில்லை.
+A year ago, my wife, who was admitted to the Kilinochchi Hospital for delivery, died and the wife's pregnancy was removed.
+
+But today I have not received any justice for it, said E. Suresh from the Kilinochchi Nathankudiyiruppu project.
+
+The year is together but no justice has been found yet. The only child born to me because of a medical mistake and the wife of the wife loses the year after losing. I have appealed to many sides, such as the Police Station, the Human Rights Commission, the Ministry of Health and the Presidential Secretariat regarding this bad injustice inflicted on me.. I received the complaint and I had no justice to date.
+
+Medical mistakes are innocent here, as if the priests are not guilty. My young wife can no longer be a mother in my life. It is a great concern that there is no justice for the injustices caused by the negligence of some doctors, negligence, and the lack of listening to the words of poor patients.
 
 ...
 
 [Data](articles/4081050e.json)
 
+[Extended Data](ext_articles/4081050e.ext.json)
+
 ---
 
-### අනුරාධපුරය ලෝක ප්‍රසිද්ධ කරන්න ජනපති ගෙනආ සැලසුම
+### President to make the world famous to the world
 
 *2024-07-13 20:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198778) · `si`
 
-ඓතිහාසික අනුරාධපුර නගරය නැවතත් ලෝක ප්‍රසිද්ධ නගරයක් බවට පත්කිරීමේ වැඩපිළිවෙළ ආරම්භ කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe plans to revitalize Anuradhapura, making it a global tourist attraction. He discussed this initiative at the Sasatuna ceremony, mentioning a private firm's offer to power the Jaya Sri Maha Bodhi tree site with 150kW electricity. Acknowledging past oversight, he tasked the Department of Archaeology and the Cultural Triangle with implementing projects, including university-led excavations at Mahavihara. He also met with UNESCO's Director-General to discuss long-term archaeological efforts in Anuradhapura, aiming to attract international support. The president emphasized the importance of highlighting Anuradhapura's historical significance, comparing its potential to Sigiriya, and announced plans for new hotels to boost tourism.
 
-ජනාධිපතිවරයා මේ අදහස් පළකළේ ඓතිහාසික ජය ශ්‍රී මහ බෝධිය පරිශ්‍රයේ ස්ථාපිත කරන ලද සුර්යබල විදුලි පද්ධතිය සසුනට පූජා කිරීමේ උත්සවයට එක්වෙමිනි.
+🟩
 
-අනුරාධපුර ඓතිහාසික ජය ශ්‍රී මහා බෝධීන් වහන්සේ වැඩසිටින පරිශ්‍රයට විදුලිය සැපයීම සඳහා පෞද්ගලික සමාගමක් විසින් ස්ථාපිත සුර්යබල විදුලි පද්ධතියෙන් උත්පාදනය කෙරෙන විදුලිය ධාරිතාව කිලෝවොට් 150කි.
+President Ranil Wickremesinghe says he will commence the program to turn the historic city a world famous city again.
 
-"අපි අනුරාධපුර නගරය තුළ මෙම කටයුතු ක්‍රියාත්මක කිරීමට අවශ්‍ය පියවර ගත්තේ නැහැ. ඒ නිසා පුරාවිද්‍යා දෙපාර්තමේන්තුව සහ සංස්කෘතික ත්‍රිකෝණය යන දෙකම කැඳවා මෙම වැඩකටයුතු කරගෙන යන ලෙස මම උපදෙස් දුන්නා. ඒ වගේම මහාවිහාරයේ කැණීම් කටයුතු සිදු කිරීමට ඩර්හැම් විශ්වවිද්‍යාල සමඟ එකඟතාවක් ඇති කරගෙන තිබෙනවා. නායක ස්වාමින් වහන්සේලා සමඟ සාකච්ඡා කර එම කටයුතු කඩිනමින් කරගෙන යාමට උපදෙස් දී තිබෙනවා. එම කටයුතු සඳහා ආචාර්ය ප්‍රශන්ත ගුණවර්ධන මැතිතුමා සම්බන්ධ කර තිබෙනවා."
+The President expressed his views at a ceremony of the Sasatuna sacrificing ceremony established at the Historical Way Sri Maha Bodhi Premises.
+
+A private company to provide electricity to the premises of the Jaya Sri Maha Bodhi tree is 150 kilotic capacity to supply electricity to the premises.
+
+"We did not take the necessary steps to implement this work in Anuradhapura town. As a result, I advised the Department of Archeology and the Cultural Triangle and implement this work. Also, the excavation of Mahavihara has agreed to agree with universities. Trouble in consultation with the chief. Dr. Advisory Gunawardena has been involved in these activities. "
 
 ...
 
 [Data](articles/a2295d3c.json)
+
+[Extended Data](ext_articles/a2295d3c.ext.json)
 
 ---
 

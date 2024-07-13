@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 20:53:54**
+As of **2024-07-13 21:04:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,091 (100.0%) of 35,093 articles have been extended.
+35,093 (100.0%) of 35,093 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ She will also travel to UNESCO World Heritage Sites around the island, the Minis
 ...
 
 [Data](articles/11e62ad6.json)
+
+[Extended Data](ext_articles/11e62ad6.ext.json)
 
 ---
 
@@ -191,6 +193,8 @@ Nationalist Gunawardena met with Tamil politicians at the Jaffna Divisional Secr
 ...
 
 [Data](articles/c207c3b0.json)
+
+[Extended Data](ext_articles/c207c3b0.ext.json)
 
 ---
 

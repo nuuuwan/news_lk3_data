@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 16:52:06**
+As of **2024-07-13 17:05:13**
 
 ## Newspaper Stats
 
-*Scraped **35,078** Articles*
+*Scraped **35,081** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,63 +16,133 @@ islandlk | 1,977
 economynextcom | 2,082
 dailyftlk | 2,219
 adalk | 3,160
-adaderanalk | 4,033
-tamilmirrorlk | 4,205
+adaderanalk | 4,034
+tamilmirrorlk | 4,206
 dailymirrorlk | 4,733
 virakesarilk | 5,479
-adaderanasinhalalk | 5,846
+adaderanasinhalalk | 5,847
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,076 (100.0%) of 35,078 articles have been extended.
+35,078 (100.0%) of 35,081 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### සර්වජන බලය උපාය මාර්ගික වැඩපිළිවෙළ ඇතුළත් පළමු කෙටුම්පත අස්ගිරි මහානාහිමි වෙත
+### Pakistan’s Imran Khan, wife acquitted in unlawful marriage case
+
+*2024-07-13 16:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/100484/pakistans-imran-khan-wife-acquitted-in-unlawful-marriage-case) · `en`
+
+A Pakistan court acquitted former Prime Minister Imran Khan and his wife on Saturday on charges of unlawful marriage, a day after his party won more seats in parliament, ramping up pressure on the country’s fragile government.
+
+“Imran Khan and Bibi sahiba are acquitted,” Khan lawyer Naeem Panjutha posted on X, using an honorific for Khan’s wife, Bushra Khan, also known as Bushra Bibi.
+
+Khan’s Pakistan Tehreek-e-Insaf (PTI) party said there were no more cases pending against Khan, 71, to keep him in jail after the acquittal by the court in the capital Islamabad.
+
+The couple were sentenced to seven years in February when a court found them guilty of breaking Islamic law by failing to observe the required interval between Bibi’s divorce from a previous marriage and her marriage to Khan.
+
+It was not immediately clear whether Khan and Bibi, both in jail, would be released following Saturday’s decision.
+
+...
+
+[Data](articles/6cc860ac.json)
+
+---
+
+### ක්ලබ් වසන්තගේ අවසන් කටයුතු සිදු කෙරේ
+
+*2024-07-13 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198772) · `si`
+
+සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්තගේ දේහය පිළිබඳ අවසන් කටයුතු අද (13) පස්වරුවේ සිදු කෙරුණි.
+
+අතුරුගිරිය ප්‍රදේශයේ ටැටූ මධ්‍යස්ථානයක් විවෘත කිරීමට ගිය සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත හා තවත් අයෙක් පසුගිය 8වනදා වෙඩිතබා ඝාතනය කෙරුණි.
+
+ක්ලබ් වසන්තගේ දේහය තර්ජන මධ්‍යයේ ජයරත්න මල්ශාලාවේ තැන්පත් කිරීමෙන් අනතුරුව අද පස්වරුවේ බොරැල්ල පොදු සුසාන භූමියේදී ඥාතීන් විසින් අවසන් කටයුතු සිදු කළේය.
+
+එහිදී ආරක්ෂාව සඳහා පොලීසිය හා විශේෂ කාර්ය බළකාය පැමිණ තිබුණි.
+
+◼️
+
+[Data](articles/e8fae855.json)
+
+---
+
+### The first draft of the execution of the ovenoms strategic program to the Asgiri Mah
 
 *2024-07-13 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198771) · `si`
 
-සර්වජන බලය සන්ධානයේ උපායමාර්ගික වැඩපිළිවෙළේ පළමු කෙටුම්පත අද (13) පෙරවරුවේ අස්ගිරි පාර්ශ්වයේ මහානායක අතිපූජ්‍ය වරකාගොඩ ශ්‍රී ඥාණරතන නාහිමියන් වෙත පිළිගැන්වීය.
+The first draft of the Norgeon TNA strategic program was presented to Sri Gnanaratathana Thera. Leaders from the Motherland People's Party, including Dilith Jayaweera, Professor Channa Jayumaran, and Geavithu Kumaratunga, visited Kandy and paid respects at the Sri Dalada Maligawa. They also met with several Buddhist monks, including the Most Venerable Warakarana Thera and Ven. Medagama Dhammananda Thero, discussing their strategic plans.
 
-මෙලෙස පිළිගැන්වීම සිදු කෙරුණේ පසුගියදා ඉදිරිපත් කෙරුණු සර්වජන බලයේ උපාය මාර්ගික වැඩපිළිවෙළ ඇතුළත් ''සතුටු දැයක් - ව්‍යවසායකත්ව රාජ්‍යයක්'' පළමු කෙටුම්පත ය.
+🟩
 
-සර්වජන බලය නියෝජනය කරන පක්ෂ නායකයින් පළමුවෙන්  මහනුවරට පැමිණ ශ්‍රී දළදා සමිඳුන් වැඳපුදා ආශිර්වාද ලබාගෙන තිබුණි.
+The first draft of the Norgeon TNA was presented to Sri Gnanaratathana Thera today (13) morning.
 
-එම අවස්ථාවට මව්බිම ජනතා පක්ෂයේ නායක ව්‍යවසායක දිලිත් ජයවීර, පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන මහාචාර්ය චන්න ජයසුමන හා ගෙවිඳු කුමාරතුංග යන පිරිස එක්විය.
+The present was presented recently, "Happy What is the strategic program that was presented recently," the first draft.
 
-අනතුරුව පක්ෂ නායකයින් අස්ගිරි මහා විහාරයට ගොස් එම පාර්ශ්වයේ මහානායක අතිපුජ්‍ය වරකාගොඩ ශ්‍රී ඥාණරතන නාහිමියන් බැහැ දැක තිබුණි.
+The party leaders representing the authentic control had come to Kandy and had bowed the Sri Dalada Maligawa.
 
-ඉන් අනතුරුව පක්ෂ නායකයින් අස්ගිරි පාර්ශ්වයේ ලේඛකාධිකාරී පූජ්‍ය මැදගම ධම්මානන්ද හිමියන් ද බැහැ දැක සිය උපායමාර්ගික වැඩපිළිවෙළ පිළිගන්වනු ලැබීය.
+The leader of the Motherland People's People's Party, Dilith Jayaweera, MPs Professor Channa Jayumaran and Geavithu Kumaratunga were also present.
+
+The party leaders then visited the Asgiriya Maha Viharaya and visited the Most Venerable Warakarana Thera.
+
+The party leaders then welcomed their strategic program to see Ven. Medagama Dhammananda Thero also visited the Yatagama Dhammananda Thero.
 
 ◼️
 
 [Data](articles/d837dc1c.json)
 
+[Extended Data](ext_articles/d837dc1c.ext.json)
+
 ---
 
-### හදිසියේම ඇදහැලෙන මහ වැස්ස ගැන අනතුරු ඇඟවීමක්
+### எம்.பி ரிஷாத் பதியுதீன் பயணித்த வாகனம் விபத்துக்குள்ளானது
+
+*2024-07-13 16:27:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-ரிஷாத்-பதியுதீன்-பயணித்த-வாகனம்-விபத்துக்குள்ளானது/175-340327) · `ta`
+
+அகில இலங்கை மக்கள் காங்கிரஸ் தலைவரும், பாராளுமன்ற உறுப்பினருமான ரிஷாத் பதியுதீன் பயணித்த சொகுசு வாகனம் புத்தளம் - கருவலகஸ்வெவ பகுதியில் வைத்து இன்று (13) விபத்துக்குள்ளாகியுள்ளது.
+
+ரிஷாத் பதியுதீன் அநுராதபுரத்தில் இருந்து புத்தளம் நோக்கிப் பயணம் செய்துகொண்டிருந்த போது, பிரதான வீதிக்குள் திடீரென பிரவேசித்த மோட்டார் சைக்கிள் பாராளுமன்ற உறுப்பினர் பயணித்த சொகுசு வாகனம் மீது மோதாமல் இருக்க சாரதி முயற்சித்ததில் குறித்த வாகனம் வீதியை விட்டு விலகி விபத்துக்குள்ளாகியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இதன்போது, பாராளுமன்ற உறுப்பினருக்கோ அல்லது மோட்டார் சைக்கிளில் பயணித்த நபருக்கோ எவ்வித காயங்களும் ஏற்படவில்லை எனத் தெரிவிக்கப்படுகிறது.
+
+எனினும், பாராளுமன்ற உறுப்பினர் பயணித்த சொகுசு வாகனத்திற்கும், மோட்டார் சைக்கிளுக்கும் சிறிய அளவில் சேதங்கள் மாத்திரமே ஏற்பட்டுள்ளதாகவும் கருவலகஸ்வெவ பொலிஸார் தெரிவித்தனர்.
+
+விபத்துச் சம்பவம் தொடர்பில் கருவலகஸ்வெவ பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/5a66981d.json)
+
+---
+
+### A warning about suddenly dragged on the rain
 
 *2024-07-13 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198770) · `si`
 
-ඉදිරි පැය 24 සඳහා තද වැසි පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කර තිබේ.
+Heavy rains expected in Western, Sabaragamuwa provinces, and parts of Kandy and Nuwara Eliya districts for 24 hours, with potential for over 100mm rainfall. The Department of Meteorology advises caution against strong winds and lightning from thunderstorms. Roads near Kandy Railway Station and Bogambara bus station are flooded. Four gates of the Mahaweli Dam in Polgolla, Kandy, have been opened, and the Wimalasurendra reservoir is being released due to heavy rains in the central hills.
 
-එම නිවේදනයේ දැක්වෙන්නේ බස්නාහිර, සබරගමුව පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකි බවය.
+🟩
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+The Department of Meteorology has issued an announcement of heavy rains for the next 24 hours.
 
-මේ අතර අද පස්වරුවේ මහනුවර නගරයට ඇදහැලුනු අධික වැසි සමග මහනුවර දුම්රිය ස්ථානය හා බෝගම්බර බස් නැවතුම ඉදිරිපිට මාර්ගය වැසි ජලයෙන් යටවී තිබේ.
+The release is shown in some places in the Western, Sabaragamuwa provinces and in some places in Kandy and Nuwara Eliya districts. Heavy rains can occur at over 100.
 
-මහනුවර පොල්ගොල්ල මහවැලි ජලාශ වේල්ලේ දොරටු 04ක් විවෘත කළ බව ලංකා මහවැලි අධිකාරිය පවසයි.
+The Department of Meteorology also requests the public to take necessary steps to reduce the damages caused by temporary strong winds and lightning activities possible with thunderstorms.
 
-මධ්‍යම කඳුකරයට තද වැසි‍ ඇදහැලීම හේතුවෙන් විමලසුරේන්ද්‍ර ජලාශය වාන් දැමීම ආරම්භ කර ඇත.
+Meanwhile, the road in front of the Kandy Railway Station and the Bogambara bus has been submerged with heavy rains.
+
+The Ceylon Mahaweli Authority (CBSF) stated that four gates of Mahaweli Dam were opened in Polgolla, Kandy.
+
+Wimalasurendra reservoir has been launched due to heavy rains in the central hills.
 
 ◼️
 
 [Data](articles/716cb174.json)
+
+[Extended Data](ext_articles/716cb174.ext.json)
 
 ---
 
@@ -2187,67 +2257,5 @@ The first phase of the group was sent to 100 prisoners.. Remble
 [Data](articles/6b756fab.json)
 
 [Extended Data](ext_articles/6b756fab.ext.json)
-
----
-
-### Cubs
-
-*2024-07-12 15:28:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குட்டிகளை-போட்ட-பெண்-நாய்கள்/175-340301) · `ta`
-
-In July 2024, the Sri Lankan Police Mopanayaka Division acquired 35 mop dogs from the Netherlands, including three pregnant females. Two of these females gave birth to 13 cubs, which were discovered at the police headquarters in Kundasala, Kandy.
-
-🟩
-
-According to a media report issued by the police headquarters, three female dogs were pregnant and two female dogs had put 13 cubs.
-
-For the Sri Lankan Police Mopanayaka Division, 35 mop dogs from the Netherlands were purchased on 2024.07.07.. The three female dogs in it were pregnant. In it, two dogs put the cubs.
-
-The two dogs have been caught at the police Mopanai headquarters in Kundasala, Kandy.
-
-◼️
-
-[Data](articles/690a01cd.json)
-
-[Extended Data](ext_articles/690a01cd.ext.json)
-
----
-
-### Another petition demanding the prevention of the presidential election
-
-*2024-07-12 15:26:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலை-தடுக்க-கோரி-மற்றுமொரு-மனு/175-340300) · `ta`
-
-A new petition seeks to halt the upcoming presidential election due to concerns over the proper passage of the 19th Amendment through Parliament. It advocates for a public referendum to ensure the amendment's implementation.
-
-🟩
-
-Another petition has been filed demanding the prevention of the presidential election as the 19th Amendment to the Constitution has not been properly passed in Parliament.
-
-In addition, the petition also pointed out that a public referendum should be held to implement the 19th Amendment.. Remble
-
-◼️
-
-[Data](articles/eecd38a0.json)
-
-[Extended Data](ext_articles/eecd38a0.ext.json)
-
----
-
-### INTERVIEW – Sri Lanka to start flora spatial mapping, eyes carbon credit trading
-
-*2024-07-12 15:22:00* · [`economynextcom`](https://economynext.com/interview-sri-lanka-to-start-flora-spatial-mapping-eyes-carbon-credit-trading-171902/) · `en`
-
-ECONOMYNEXT – Sri Lanka is in the process of starting spatial mapping on all tree species in the island nation before going for carbon credit trading in the global market, Senior Presidential Advisor on Climate Change Ruwan Wijewardene said.
-
-Sri Lanka has been in the process of carbon credit for more than a decade. Carbon credit is a way of compensating for emissions of carbon dioxide or other greenhouse gases.
-
-If Sri Lanka reduces its Carbon Dioxide emissions through efforts like reforestation and large number of renewable energy projects, they will help the country to earn money through carbon trading from some other higher Carbon Dioxide emitting nations as compensation.
-
-“We are doing spatial data plan. We have just put the plan to cabinet. We are still waiting for approval,” Wijewardene, the Senior Advisor to President Ranil Wickremesinghe on Climate Change, told EconomyNext in an interview on Friday (12).
-
-...
-
-[Data](articles/09784da6.json)
-
-[Extended Data](ext_articles/09784da6.ext.json)
 
 ---

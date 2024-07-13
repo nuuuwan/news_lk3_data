@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 08:22:28**
+As of **2024-07-13 08:02:08**
 
 ## Newspaper Stats
 
-*Scraped **35,045** Articles*
+*Scraped **35,040** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 313
+dbsjeyarajcom | 312
 colombotelegraphcom | 327
 bbccomsinhala | 341
 newsfirstlk | 363
@@ -17,106 +17,32 @@ economynextcom | 2,080
 dailyftlk | 2,219
 adalk | 3,158
 adaderanalk | 4,022
-tamilmirrorlk | 4,200
+tamilmirrorlk | 4,199
 dailymirrorlk | 4,733
 virakesarilk | 5,479
-adaderanasinhalalk | 5,833
+adaderanasinhalalk | 5,830
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,040 (100.0%) of 35,045 articles have been extended.
+35,039 (100.0%) of 35,040 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### ලබන වසරේ චන්ද්‍රිකාවක් යැවීමට සැලසුම්
-
-*2024-07-13 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198757) · `si`
-
-ලබන වසරේ දී චන්ද්‍රිකාවක් යැවීමට සඳහා සැලසුම් කර ඇති බව ආතර් සී ක්ලාක් මධ්‍යස්ථානය පවසයි.
-
-එහි මහාචාර්ය චන්දන ජයරත්න මහතා සඳහන් කලේ පාසල් ළමුන් සඳහා චන්ද්‍රිකා තාක්ෂණය පිළිබඳ දැනුම ලබාදීම සඳහා තවදුටරත් යටිතල පහසුකම් සංවර්ධනය කළයුතු බවය.
-
-චන්ද්‍රිකා තාක්ෂණය සම්බන්ධයෙන් පාසල් සිසුන් දැනුවත් කිරීමේ වැඩසටහනකට එක් වෙමින් ඔහු මේ බව සඳහන් කළේය.
-
-◼️
-
-[Data](articles/fea1a5d1.json)
-
----
-
-### இன்று முதல் சில தினங்களுக்கு மழை
-
-*2024-07-13 08:03:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-சில-தினங்களுக்கு-மழை/175-340321) · `ta`
-
-இலங்கையின் தென்மேற்குப் பிராந்தியத்தில் இன்று முதல் அடுத்து வரும் சில தினங்களுக்கு மழையுடனான வானிலை அதிகரித்துக் காணப்படுமென வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-சபரகமுவ மற்றும் மேல் மாகாணங்களின் சில இடங்களிலும், காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும் 50 மில்லிமீற்றரிலும் கூடிய ஓரளவு பலத்த மழை பெய்யக்கூடும்.
-
-கிழக்கு மற்றும் ஊவா மாகாணங்களின் சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என்று வளிமண்டலவியல் திணைக்களம் விடுத்துள்ள புதுப்பிக்கப்பட்ட அறிக்கையில் குறிப்பிடப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/bf432dc1.json)
-
----
-
-### සංගීත සංදර්ශනයක් අතරතුර තවත් ඝාතනයක්
-
-*2024-07-13 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198756) · `si`
-
-පොලීසිය පැවසුවේ මොරයාය ප්‍රදේශයේ පැවති සංගීත සංදර්ශනයක් අතරතුර දෙපාර්ශවයක් අතර ඇතිවූ ගැටුමක දී මෙම මරණය සිදුව ඇති බවය.
-
-මියගොස් ඇත්තේ 30 හැවිරිදි වීරකැටිය මොරයාය ප්‍රදේශයේ පදිංචිකරුවකු බව පොලීසිය පවසයි.
-
-ඔවුන් ප්‍රතිකාර සඳහා තංගල්ල සහ ඇඹිලිපිටිය රෝහලට වලට ඇතුළත් කර ඇති අතර ඔවුන්ගේ තත්ත්වය බරපතළ නොවන බව රෝහල් ප්‍රකාශකයෙකු සඳහන් කළේය.
-
-◼️
-
-[Data](articles/a3c5175f.json)
-
----
-
-### අධික ලෙස දුම් පිට කරන රථවාහන අසාදු ලේඛනය ට
-
-*2024-07-13 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198755) · `si`
-
-අධික ලෙස දුම පිට කරමින් ධාවනය කරන රථවාහන අසාදු ලේඛන ගත කිරීමට පියවර ගන්නා බව මෝටර් රථ දෙපාර්තමේන්තුවේ වාහන වායු විමෝචන භාරකාර අරමුදල පවසයි.
-
-එහි අධ්‍යක්ෂ දසුන් ගමගේ මහතා සඳහන් කළේ මාර්ගයේ ධාවන කරන එවැනි වාහන සම්බන්ධයෙන් 070 3500 525 යන වට්ස් ඇප් අංකයට පැමිණිලි යොමු කිරීමේ හැකියාව පවතින බවය.
-
-වාහන බලපත්‍රය ලබා ගැනීමේ අරමුණින් පමණක් දුම් සහතිකය ලබා ගැනීම සිදුනොකරන ලෙස දසුන් ගමගේ මහතා රියදුරන්ගෙන් ඉල්ලා සිටියි.
-
-ව්‍යාජ උපක්‍රම ඔස්සේ දුම් සහතිකය ලබා ගැනීම ට  බොහෝ පිරිස් පෙළඹී සිටිය ද, එම රථ වාහන මාර්ගයේ ධාවනය වන විට පොලිස් නිලධාරීන් සහ මෝටර් රථ දෙපාර්තමේන්තුවේ නිලධාරීන් දිවයිනේ සියලුම ප්‍රදේශවලදී අදාළ පරික්ෂාවන් සිදු කරන බව ඒ මහතා පවසයි.
-
-එම අවස්ථාවක දී අධික දුමක් පිට වන බවට නිරීක්ෂණය වුවහොත් අදාළ රථයේ හිමිකරුට විරුද්ධව නඩත්තු නියෝගයක් එසේත් නොමැති නම් තහනම් නියෝගයක් රථයට ලැබෙන බව ද ඒ මහතා වැඩිදුරටත්  පැහැදිලි කළේය.
-
-◼️
-
-[Data](articles/73ac6a7e.json)
-
----
-
-### Confirmation for the land of the military
+### இராணுவத்தினரின் காணிகளுக்கு உறுதிப் பத்திரம்
 
 *2024-07-13 06:21:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவத்தினரின்-காணிகளுக்கு-உறுதிப்-பத்திரம்/175-340320) · `ta`
 
-President Wickremesinghe's initiative grants full rights to state lands to the armed forces, police, and families of fallen security personnel, ensuring rightful ownership for those who've bravely served their country. This program, led by the Presidential Secretariat, aims to recognize and reward the sacrifices made by these individuals.
+முப்படையினர், இலங்கைப் பொலிஸ் மற்றும் சிவில் பாதுகாப்புப் படையில் ஊனமுற்ற வீரர்களுக்கும், உயிர்த் தியாகம் செய்தவர்களின் குடும்பத்தாருக்கும் வசிப்பதற்காக வழங்கப்பட்டுள்ள அரச காணிகளை நிபந்தனையின்றியும் கட்டணங்கள் இல்லாமலும் முழுமையான உரிமையை வழங்குவதற்கான வேலைத்திட்டம், ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பணிப்புரைக்கு அமைய நடைமுறைப்படுத்தப்பட்டுள்ளது.
 
-🟩
-
-President Ranil Wickremesinghe's work has been implemented to provide a full right to the state lands given to the army, the Sri Lankan police and the civil security forces disabled and the families of the sacrifices.
-
-The purpose of this program is to ensure the ownership of a landlord in the homeland for the security forces who have sacrificed their lives in the country without fear. The program has been implemented under the leadership of the Presidential Secretariat, according to a statement issued by the Presidential Media Unit.. (A)
+நாட்டில் அச்சமின்றி மக்கள் நடமாடுவதற்காக உயிர் தியாகம் செய்த பாதுகாப்புத் தரப்பினருக்கு தாய்நாட்டில் காணித் துண்டு ஒன்றின் உரிமையை உறுதிப்படுத்துவதே இந்த வேலைத் திட்டத்தின் நோக்கமாகும். ஜனாதிபதி செயலகத்தின் தலைமையில் இந்த வேலைத்திட்டம் நடைமுறைப்படுத்தப்பட்டுள்ளது என ஜனாதிபதி ஊடகப்பிரிவு விடுத்துள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது. (a)
 
 ◼️
 
 [Data](articles/71ac3408.json)
-
-[Extended Data](ext_articles/71ac3408.ext.json)
 
 ---
 
@@ -903,18 +829,6 @@ The program will help create a conducive environment for private investments, bo
 [Data](articles/7d9acc44.json)
 
 [Extended Data](ext_articles/7d9acc44.ext.json)
-
----
-
-### Murder Most Foul: Assassination of Appapillai  Amirthalingam 35 Years ago
-
-*2024-07-12 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84364) · `en`
-
-(Renowned Tamil Political leader Appapillai Amirthalingam was shot dead in Colombo along with Former Jaffna MP V.Yogeswaran on 13 July 1989. This article  about the foul murder  was published in the “Daily Mirror”  in 2019. It is re-posted here without any changes to denote the 35th anniversary of the Amirthalingam Assassination)
-
-...
-
-[Data](articles/922902f8.json)
 
 ---
 
@@ -2233,5 +2147,129 @@ Police have arrested Jilani who attacked Mehbubi. According to law, police are i
 [Data](articles/c48935ff.json)
 
 [Extended Data](ext_articles/c48935ff.ext.json)
+
+---
+
+### Yall. Three arrested in Kayts
+
+*2024-07-12 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/188275) · `ta`
+
+Three youths were arrested in Kayts for allegedly kidnapping a woman near a church. The victim escaped and was found elsewhere in Kayts. Police are investigating the case.
+
+🟩
+
+Three youths have been arrested on charges of kidnapping a woman in the Kayts area in Jaffna.
+
+A young woman was abducted near a church in Kayts area.
+
+The police took action after the police were informed by the Kayts police in connection with the incident.
+
+In the meantime, the kidnapped girl has fled the street in another area of ​​Kayts.
+
+Nevertheless, the police have carried out investigations by the three men arrested and detained at the police station on charges of abducting the woman.
+
+◼️
+
+[Data](articles/cd377f7c.json)
+
+[Extended Data](ext_articles/cd377f7c.ext.json)
+
+---
+
+### Strict protection to the body of the telephone club Vasantha
+
+*2024-07-12 11:08:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-வின்-சடலத்துக்கு-கடும்-பாதுகாப்பு/175-340279) · `ta`
+
+Vasantha Surendra Perera, aka Club Vasantha, has enhanced security after threats. Following a phone warning, his body is now under strict protection at a private location in Colombo. Intelligence reports suggest suspects from the Athurugiriya shooting might try to escape to India via Mannar's fishing boats, leading to increased checkpoints and roadblocks. Law enforcement is closely monitoring individuals without valid fishing identity cards, particularly those boarding boats from Mannar.
+
+🟩
+
+Surendra Vasantha Perera, also known as 'Club Vasantha', has been placed at a private flower in Colombo. The security has been strengthened there.
+
+The move is said to have been taken following a telephone call, which has been threatened by the club Vasantha's body.
+
+Meanwhile, special checkpoints have been established throughout Mannar on information received by the intelligence agencies that the suspects involved in the Athurugiriya shooting incident may seek to flee to India by fishing boats.
+
+The suspects have warned airports and other key points to prevent the country from leaving the country. However, a number of special checkpoints and roadblocks have been set up due to the increase in the risk of fleeing through Mannar.
+
+Law enforcement officials are monitoring people who have no valid fishing identity card, especially those who board the fishing boats from Mannar.
+
+◼️
+
+[Data](articles/89bfe0a6.json)
+
+[Extended Data](ext_articles/89bfe0a6.ext.json)
+
+---
+
+### FR petition filed seeking to prevent Presidential Election
+
+*2024-07-12 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100459/fr-petition-filed-seeking-to-prevent-presidential-election) · `en`
+
+Attorney-at-Law Aruna Laksiri has filed a Fundamental Rights (FR) petition before the Supreme Court, seeking an order to prevent holding of the Presidential Election as the 19th Amendment to the Constitution has not been properly passed in Parliament.
+
+The petition argues that the 19th Amendment to the Constitution was not properly passed in Parliament and therefore calls for a referendum to ensure its proper passage, Ada Derana reporter said.
+
+The Election Commission and its members, the General Secretary of Parliament and the Attorney General have been named as respondents.
+
+The petitioner claims that through the 19th Amendment to the Constitution, Article 70 of the Constitution has been amended to deprive the President of the power to dissolve an elected Parliament after one year has passed.
+
+The petitioner asserts that the amendment has not been approved by a referendum, even though a Supreme Court bench ruled that the amendment should be referred to a referendum.
+
+...
+
+[Data](articles/c89b172e.json)
+
+[Extended Data](ext_articles/c89b172e.ext.json)
+
+---
+
+### Petition demanding a verdict on presidential election
+
+*2024-07-12 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198732) · `si`
+
+A legal challenge has been filed against the 19th Amendment, arguing it undermines presidential powers without proper referendum approval. Lawyer Aruna Laksiri Unawatuna accuses the Elections Commission, Secretary General, and Attorney General of misconduct. The petition seeks clarity on whether the amendment, which limits the president's ability to dissolve parliament, is legally binding despite lacking a referendum.
+
+🟩
+
+The 19th Amendment to the Constitution is not a referendum and conducting a future presidential election, a fundamental rights petition has been filed in the face of a referendum.
+
+The petition has been presented by lawyer Aruna Laksiri Unawatuna.
+
+The Elections Commission and its members, the Secretary General and the Attorney General have been named as respondents.
+
+The petitioner claims that the 19th Amendment to the Constitution of the Constitution was aimed at depriving the President's power to dissolve a year after passing a year.
+
+The petitioner says that although the Supreme Court has decided to submit that amendment, it has not been approved by a referendum.
+
+The petitioner has pointed out that the President has approved a referendum and has not been signed as a law.
+
+Despite this, he pointed out that it is wrong to accept the 19th Amendment as a law.
+
+◼️
+
+[Data](articles/928dbc95.json)
+
+[Extended Data](ext_articles/928dbc95.ext.json)
+
+---
+
+### President visited Bingiriya
+
+*2024-07-12 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198731) · `si`
+
+President Ranil Wickremesinghe launched a project in Bingiriya aimed at developing it into Sri Lanka's largest export processing zone.
+
+🟩
+
+President Ranil Wickremesinghe has commenced at a ceremony at a participant at a meeting.
+
+The Export Processing Zone is to be developed as the largest export processing zone of Sri Lanka.
+
+◼️
+
+[Data](articles/18d14609.json)
+
+[Extended Data](ext_articles/18d14609.ext.json)
 
 ---

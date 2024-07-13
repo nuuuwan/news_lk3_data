@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 14:19:52**
+As of **2024-07-13 14:35:13**
 
 ## Newspaper Stats
 
@@ -26,81 +26,57 @@ adaderanasinhalalk | 5,840
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,065 (100.0%) of 35,067 articles have been extended.
+35,067 (100.0%) of 35,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### බදියුදීන් ගමන් ගත් රථය අනතුරකට ලක්වෙයි
+### Laddiya travels in danger
 
 *2024-07-13 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198765) · `si`
 
-හිටපු අමාත්‍ය රිෂාඩ් බදියුදීන් ගමන් ගත් මෝටර් රථය කරුවලගස්වැව ප්‍රදේශයේදී අනතුරකට ලක්වී තිබේ.
+Rishard Bathiudeen, former minister, involved in a crash near Karuwalagaswewa where his car collided with a cyclist, causing serious damage to both the vehicle and the cyclist.
 
-මාර්ගයට ප්‍රවේශ වුණු පාපැදිකරුවෙකු රථයේ ගැටීම වළක්වා ගැනීමට උත්සාහ කිරීමේදී මෝටර් රථය මාර්ගයෙන් ඉවතට පැන මෙම අනතුර සිදුවී ඇත.
+🟩
+
+Former Minister Rishard Bathiudeen car has been in a crash in Karuwalagaswewa.
+
+The accident occurred with the vehicle when a cyclist approved by a cyclist was taken away from the vehicle.
 
 ◼️
 
 [Data](articles/06f50aa4.json)
 
+[Extended Data](ext_articles/06f50aa4.ext.json)
+
 ---
 
-### ක්ලබ් වසන්තගේ අවසන් කටයුතු අද - පැටීගේ මස්සිනා අත්අඩංගුවට
+### Club Wasantha's funeral is arrested today - Patti's brother-in-law seized
 
 *2024-07-13 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198763) · `si`
 
-සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත ඝාතනය කිරීමේ සිද්ධියට සැකපිට ලොකු පැටීගේ මස්සිනා ඇතුළු පුද්ගලයන් තිදෙනෙකු බස්නාහිර දකුණ අපරාධ කොට්ඨාසය මගින් අත්අඩංගුවට ගෙන තිබේ.
+Surendra Wasantha Perera, set to open a tative center, was killed. His brother-in-law, suspected in his death, was arrested. The funeral, under police protection, is today.
 
-එහිදී සැකකරුවන්ගේ නිවාසද පොලීසිය විසින් පරීක්ෂා කර ඇති අතර ඒවායේ වෙඩික්කරුවන් සැඟව සිටියාද යන්න පිළිබඳව ඇති වූ සැකය මත එම නිවාස පරීක්ෂා කළ බව පොලීසිය පැවසීය.
+🟩
 
-අතුරුගිරිය ප්‍රදේශයේ ටැටූ මධ්‍යස්ථානයක් විවෘත කිරීමට ගිය සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත හා තවත් අයෙක් පසුගිය 8 වනදා වෙඩිතබා ඝාතනය කෙරුණි.
+The Western Province Crimes Division has been arrested by the Western Province Crimes Division for suspicion of Surendra Wasantha Perera.
 
-ක්ලබ් වසන්තගේ දේහය අවසන් කටයුතු සඳහා තර්ජන මධ්‍යයේ ජයරත්න මල්ශාලාවේ තැන්පත් කර ඇත.
+Police said the police were inspected on suspicion of the suspects of the suspects.
 
-එහි ආරක්ෂාව ද පොලීසිය හා විශේෂ කාර්ය බළකාය එක්වී තර කර තිබේ.
+Surendra Wasantha Perera, who was to open a tative center in Athurugiriya, was shot dead on the 8th.
 
-එවන් පසුබිමක අද (13) දිනයේදී ක්ලබ් වසන්තගේ දේහය පිළිබඳ අවසන් කටයුතු බොරැල්ල පොදු සුසාන භූමියේදී සිදුකිරීමට නියමිතය.
+The body of Club Wasantha has been placed in the Malzala amidst threats for the end.
+
+The police and the STF have joined the police and the STF.
+
+The funeral of Club Wasantha's remains will be held today (13) at the Borella General Cemetery.
 
 ◼️
 
 [Data](articles/b316be0c.json)
 
----
-
-### OIC seizes for Rs.
-
-*2024-07-13 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198762) · `si`
-
-A Dehiwala tourism organization owner claims he was assaulted by police, including the Peliyagoda Police OIC, who sought a UK tourist visa but was denied. The OIC allegedly returned to consult about obtaining a visa, with the company intervening to secure one. The OIC's passport was requested on July 2, leading to a confrontation where he was detained and questioned. This incident was captured on CCTV, showing several police officers intimidating employees. The owner and manager were subsequently arrested and brought before the Mount Lavinia Magistrate's Court. The owner has filed a complaint with the Human Rights Commission, alleging wrongful treatment and assault.
-
-🟩
-
-A Dehiwala foreign tourism organization owner alleges that the police had assaulted him after the Peliyagoda Police OIC.
-
-He referred to the policemen and the police officers came to their employees.
-
-The OIC of the Peliyagoda Police had applied to obtain tourist visa in England, but it is rejected.
-
-He later returned to a tourist visa and consulting in Dehiwala area to obtain visa.
-
-The company had intervened and provided visas for the Peliyagoda Police OIC at the Visa.
-
-The OIC of the Peliyagoda Police OIC calls for its foreign passport on July 2.
-
-The owner of the Visa has said that the cost of the visa is to be paid and carry abroad.
-
-However, the OIC of the Peliyagoda OIC has been recorded in CCTV cameras.
-
-Several police officers returned to the relevant institution and the CCTV camera is also listed on how to intimidate employees.
-
-The OIC of Dehiwala at around 4.30 pm on July 2 pm had come to the company and had something to the owner and the manager.
-
-...
-
-[Data](articles/5b24f185.json)
-
-[Extended Data](ext_articles/5b24f185.ext.json)
+[Extended Data](ext_articles/b316be0c.ext.json)
 
 ---
 
@@ -2265,5 +2241,27 @@ There are several main issues that have been unresolved in the procurement proce
 [Data](articles/5a8ee7eb.json)
 
 [Extended Data](ext_articles/5a8ee7eb.ext.json)
+
+---
+
+### Sri Lanka to recruit 500 foreign language teachers
+
+*2024-07-12 14:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-recruit-500-foreign-language-teachers-171894/) · `en`
+
+ECONOMYNEXT – Sri Lanka will recruit 500 foreign language teachers for schools, State Minister of Education Aravindh Kumar, said.
+
+“We will be giving priority to Korean, German, French, Hindi, Chinese and Japanese,” Kumar told reporters on Friday.
+
+In March, Kumar said that teaching foreign languages such as Japanese and Korean is essential if graduates are to pursue jobs in foreign countries.
+
+As of June 2024, Sri Lanka had sent 10,000 workers to South Korea, and is planning to send around 6,000 workers to Japan.
+
+In order to seek employment in these countries, the candidates must pass a language proficiency test. (Colombo/Jul12/2024)
+
+◼️
+
+[Data](articles/d1b81a2c.json)
+
+[Extended Data](ext_articles/d1b81a2c.ext.json)
 
 ---

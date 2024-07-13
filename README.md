@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 13:35:22**
+As of **2024-07-13 13:54:44**
 
 ## Newspaper Stats
 
-*Scraped **35,063** Articles*
+*Scraped **35,065** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 1,977
 economynextcom | 2,082
 dailyftlk | 2,219
 adalk | 3,160
-adaderanalk | 4,030
+adaderanalk | 4,031
 tamilmirrorlk | 4,202
 dailymirrorlk | 4,733
 virakesarilk | 5,479
-adaderanasinhalalk | 5,837
+adaderanasinhalalk | 5,838
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,063 (100.0%) of 35,063 articles have been extended.
+35,063 (100.0%) of 35,065 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### රු ලක්ෂ 10කට පොල්ල තියන්න ගිය OIC මාට්ටු
+
+*2024-07-13 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198762) · `si`
+
+පෑලියගොඩ පොලීසියේ ස්ථානාධිපතිවරයාට වීසා බලපත්‍රය සකස් කිරීමට අදාළ මුදල් ඉල්ලූ පසු පොලීසිය තමන්ට පහරදුන් බව දෙහිවල විදෙස් සංචාරක ආයතන හිමිකරුවෙකු චෝදනා කරයි.
+
+ඔහු සඳහන් කළේ, තම සේවකයින්ට පවා පොලිස් නිලධාරීන් පැමිණ පහරදුන් බවය.
+
+පෑලියගොඩ පොලීසියේ ස්ථානාධිපතිවරයා එංගලන්තයේ සංචාරක වීසා ලබාගැනීම සඳහා අයදුම් කර තිබුණත් එය මුල් අවස්ථාවේදී ප්‍රතික්ෂේප වී ඇත.
+
+පසුව ඔහු දෙහිවල ප්‍රදේශයේ පිහිටි සංචාරක වීසා හා උපදේශන ආයතනයක් වෙත ගොස් වීසා ලබාගැනීමට යළි අයදුම් කර තිබේ.
+
+එම ආයතනය මැදිහත් වී පෑලියගොඩ පොලීසියේ ස්ථානාධිපතිවරයාට වීසා පහසුකම් ලබාදී තිබුණු අතර ඒ සඳහා රුපියල් 1,003,200ක මුදලක් වීසා ආයතනයට වැයවී තිබුණි.
+
+පසුව ජුලි 2 වනදා පෙරවරුවේ දෙහිවල පිහිටි වීසා ආයතනයට පැමිණි පෑලියගොඩ පොලීසියේ ස්ථානාධිපතිවරයා සිය විදෙස් ගමන් බලපත්‍රය ඉල්ලා තිබේ.
+
+එහිදී වීසා ආයතනයේ හිමිකරු පවසා ඇත්තේ වීසා සකස් කිරීමට වැයවූ රුපියල් ලක්ෂ 10ක මුදල ගෙවා විදෙස් ගමන් බලපත්‍රය රැගෙන යන ලෙසය.
+
+නමුත් එම අවස්ථාවේදී පෑලියගොඩ පොලිස් ස්ථානාධිපතිවරයා ආයතනයේ හිමිකරුට අසභ්‍ය වචනයෙන් බැන වැදී තරවටු කරන ආකාරය CCTV කැමරාවල සටහන් වී ඇත.
+
+...
+
+[Data](articles/5b24f185.json)
+
+---
+
+### A/L GIT examination results released
+
+*2024-07-13 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100480/al-git-examination-results-released) · `en`
+
+The results of the General Information Technology (GIT) examination of the years 2019, 2020, 2021, 2022 held in the year 2023 have been released online, the Department of Examination announced.
+
+Accordingly, the results can be viewed on the following website: www.doenets.lk.
+
+◼️
+
+[Data](articles/648da54d.json)
+
+---
 
 ### Reports on records of the Marriage of Ambani son
 
@@ -2223,53 +2263,5 @@ Police suspect that due to the driver's attention, the disaster of the sky was n
 [Data](articles/0fdfafd6.json)
 
 [Extended Data](ext_articles/0fdfafd6.ext.json)
-
----
-
-### Senthil met Malaysia's Defense Minister
-
-*2024-07-12 13:49:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலேசியாவின்-பாதுகாப்பு-அமைச்சரை-சந்தித்தார்-செந்தில்/175-340294) · `ta`
-
-Senthil Thondaman, Governor of Sri Lanka's Eastern Province, met Malaysia's Defense Minister Mohamed Hasan, with Parliamentarian Datosree Saravanan Murugan and the Sri Lanka Ambassador to Malaysia also attending.
-
-🟩
-
-Senthil Thondaman, Governor of the Eastern Province and President of the Ceylon Workers Congress, met Malaysia's Defense Minister Mohamed Hasan.
-
-Parliamentarian Datosree Saravanan Murugan and Sri Lanka Ambassador to Malaysia were present during the meeting.
-
-◼️
-
-[Data](articles/c312b094.json)
-
-[Extended Data](ext_articles/c312b094.ext.json)
-
----
-
-### Sri Lanka is still in the world with suicide
-
-*2024-07-12 13:46:36* · [`adalk`](https://www.ada.lk/breaking_news/සියදිවි-නසා-ගැනීම්-වලින්-ලංකාව-තවමත්-ලෝකයේ-ඉදිරියෙන්ලු/11-410756) · `si`
-
-In 1996 and 1997, Sri Lanka had the highest suicide rate globally. Health Minister Dr. Ramesh Pathirana highlighted this issue during a ceremony marking Sumatriro's 50th anniversary. Sumatriro, established in 1974, aims to prevent suicides by supporting individuals facing mental/emotional distress. A four-day international conference, involving representatives from 15 countries, will discuss strategies to address this critical issue.
-
-🟩
-
-In 1996 and 1997, Sri Lanka was the highest number of suicide country in the world, Health and Corporate Minister Dr. Ramesh Pathirana stressed as a country of suicide relative to other countries in the world.
-
-The Minister emphasized a special ceremony held at Rawadi Hotel yesterday afternoon.. The special ceremony was organized to mark 50 years after the establishment of Sumatriro.
-
-Minister of Health and Industry Dr. Ramesh Pathiran said he said:
-
-As a country, we should be worried about this situation and that the Ministry of Health will take all possible measures to improve this situation with other sectors.
-
-The Minister said that the Minister of Reimated Summatio provides a larger contributor to suicide.
-
-Speaking to the 50-year-old Sumathari, who serves a large number of people, should be appreciated and a special thankful to the operation.
-
-...
-
-[Data](articles/46938cb7.json)
-
-[Extended Data](ext_articles/46938cb7.ext.json)
 
 ---

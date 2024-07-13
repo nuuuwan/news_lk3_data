@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 20:05:08**
+As of **2024-07-13 20:20:10**
 
 ## Newspaper Stats
 
@@ -26,33 +26,41 @@ adaderanasinhalalk | 5,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,090 (100.0%) of 35,091 articles have been extended.
+35,091 (100.0%) of 35,091 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### පෑලියගොඩ ට්‍රැෆික් OICගේ UK ගමන දෙහිවලින් බොඳවෙයි
+### Peliyagoda Traffic OIC's UK journey is blurred in two
 
 *2024-07-13 19:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198777) · `si`
 
-පෑලියගොඩ පොලීසියේ කොට්ඨාස රථවාහන අංශයේ ස්ථානාධිපති ඩබ්.ඩී. අත්තනායක මහතා එංගලන්තයේ සංචාරක වීසා ලබාගැනීම සඳහා අයදුම් කර තිබුණේ සිය පුතුගේ උපාධි ප්‍රදානෝත්සවයට සහභාගිවීමේ අරමුණිනි.
+Peliyagoda Traffic OIC Attanayake's application for a UK tourist visa was initially rejected due to financial issues but was later facilitated by a visa consultancy institute. His passport was seized during a dispute over visa fees, leading to his arrest and subsequent court appearance. The case involves allegations of obstructing police duties and unauthorized possession of a passport, with the court eventually ordering the release of Attanayake's passport upon a cash deposit.
 
-නමුත්, ඔහුගේ මූල්‍යමය ප්‍රකාශනයේ පැවැති ගැටලුවක් හේතුවෙන් එය මුල් අවස්ථාවේදී ප්‍රතික්ෂේප වී තිබුණි.
+🟩
 
-පසුව ඔහු දෙහිවල ප්‍රදේශයේ පිහිටි වීසා උපදේශන ආයතනයක් වෙත යන්නේ යළි වීසා ලබාගැනීම සඳහාය.
+Peliyagoda Police Division OIC of Traffic Division. Attanayake applied to the tourist visa in England, attending his son's graduation ceremony.
 
-ඒ අනුව අදාළ ආයතනය පොලිස් නිලධාරියාට එංගලන්තයට යාමට අවශ්‍ය වීසා බලපත්‍රය ලබාදීමට මැදිහත්වී තිබුණි.
+However, it was rejected in the early days due to a problem with his financial expression.
 
-අත්තනායක මහතා ජුලි 2 වනදා පෙරවරුවේ දෙහිවල පිහිටි අදාළ ආයතනයට යන්නේ, සිය විදෙස් ගමන් බලපත්‍රය ලබාගැනීම සඳහාය.
+He later go to a visa consultancy institute in Dehiwala to obtain visa again.
 
-එහිදී වීසා සකස් කිරීමට වැයවූ රුපියල් ලක්ෂ 10ක මුදල ගෙවා විදෙස් ගමන් බලපත්‍රය රැගෙන යන ලෙසට එම ආයතනයේ හිමිකරු පවසා තිබුණි.
+Accordingly, the relevant agency intervened to provide the police officer to England.
 
-තම ගුවන් ගමන් බලපත්‍රය ලබානොදීම සම්බන්ධයෙන් පෑලියගොඩ පොලීසියේ කොට්ඨාස රථවාහන අංශයේ ස්ථානාධිපති ඩබ්.ඩී. අත්තනායක මහතා දෙහිවල පොලීසියට පැමිණිල්ලක් කරන්නේ ඒ අනුවය.
+Attanayake goes to the relevant institution on July 2 am to obtain its foreign passport.
+
+The owner of the institute had told the company to carry the passport of Rs.
+
+Peliyagoda Police Traffic Division OIC of the Peliyagoda Police DBD of not obtaining his passport. Atthanayake is lodged with the Dehiwala Police.
+
+Police said that several police officers including the OIC and several police officers who had to inform the head of the institution to hear the complaint had come to the company.
 
 ...
 
 [Data](articles/62eb0f44.json)
+
+[Extended Data](ext_articles/62eb0f44.ext.json)
 
 ---
 

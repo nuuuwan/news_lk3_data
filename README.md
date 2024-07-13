@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 09:54:30**
+As of **2024-07-13 10:06:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,049 (100.0%) of 35,051 articles have been extended.
+35,051 (100.0%) of 35,051 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Preliminary investigations have revealed that the suspect was engaged in cannabi
 ◼️
 
 [Data](articles/9b1c6c21.json)
+
+[Extended Data](ext_articles/9b1c6c21.ext.json)
 
 ---
 
@@ -928,19 +930,25 @@ The Assistant Superintendent of Assistant Prison Superintendent of the Assistant
 
 ---
 
-### සංවිධානාත්මක අපරාධකරුවන් දෙදෙනෙක් ඩුබායි සිට ගෙන එයි
+### Two organized criminals bring up from Dubai
 
 *2024-07-12 20:17:24* · [`adalk`](https://www.ada.lk/breaking_news/සංවිධානාත්මක-අපරාධකරුවන්-දෙදෙනෙක්-ඩුබායි-සිට-ගෙන-එයි/11-410759) · `si`
 
-විදේශ ගමන් තහනම් කරමින් ජාත්‍යන්තර පොලීසිය හරහා රතු නිවේදන නිකුත් කර තිබූ සංවිධානාත්මක අපරාධකරුවන් දෙදෙනෙක් ඩුබායි රාජ්‍යයේ සිට ශ්‍රි ලංකාවට රැගෙන ආ බව පොලිස් මාධ්‍ය ප්‍රකාශක කොට්ඨාසය පවසයි.
+Two criminals aged 26 and 48, extradited from Dubai, are now in custody in Sri Lanka, specifically in Mattakuliya and Nugegoda. The older suspect will be transferred to the Colombo Crimes Division for further investigation.
 
-අද පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් දිවයිනට රැගෙන එන ලද මෙම අපරාධකරුවන් දෙදෙනා අවුරුදු 26 හා 48 යන වයස්වල පසුවන්නෝ වෙති. ඔවුන් මට්ටක්කුලිය හා නුගේගොඩ පදිංචිකරුවෝ වෙති.
+🟩
 
-පළමු සැකකරු කොළඹ අපරාධ කොට්ඨාසය වෙතටත් ‌දෙවැනි සැකකරු මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශන ඒ්කකය වෙතටත් භාරදිමට නියමිත බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පවසයි.
+The Police Media Spokesman Division says that two organized criminals have been brought to Sri Lanka from the State of Red announcement to Sri Lanka.
+
+The two criminals who were brought to the island this morning are the ages of 26 and 48 years old. They are in Mattakuliya and Nugegoda.
+
+The first suspect is to be handed over to the Colombo Crimes Division to the Colombo Crimes Division to the Colombo Crimes Division to the Investigation Commission.
 
 ◼️
 
 [Data](articles/64afc7a4.json)
+
+[Extended Data](ext_articles/64afc7a4.ext.json)
 
 ---
 

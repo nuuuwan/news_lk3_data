@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 19:52:50**
+As of **2024-07-13 20:05:08**
 
 ## Newspaper Stats
 
-*Scraped **35,090** Articles*
+*Scraped **35,091** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 4,037
 tamilmirrorlk | 4,208
 dailymirrorlk | 4,733
 virakesarilk | 5,480
-adaderanasinhalalk | 5,850
+adaderanasinhalalk | 5,851
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,090 (100.0%) of 35,090 articles have been extended.
+35,090 (100.0%) of 35,091 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### පෑලියගොඩ ට්‍රැෆික් OICගේ UK ගමන දෙහිවලින් බොඳවෙයි
+
+*2024-07-13 19:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198777) · `si`
+
+පෑලියගොඩ පොලීසියේ කොට්ඨාස රථවාහන අංශයේ ස්ථානාධිපති ඩබ්.ඩී. අත්තනායක මහතා එංගලන්තයේ සංචාරක වීසා ලබාගැනීම සඳහා අයදුම් කර තිබුණේ සිය පුතුගේ උපාධි ප්‍රදානෝත්සවයට සහභාගිවීමේ අරමුණිනි.
+
+නමුත්, ඔහුගේ මූල්‍යමය ප්‍රකාශනයේ පැවැති ගැටලුවක් හේතුවෙන් එය මුල් අවස්ථාවේදී ප්‍රතික්ෂේප වී තිබුණි.
+
+පසුව ඔහු දෙහිවල ප්‍රදේශයේ පිහිටි වීසා උපදේශන ආයතනයක් වෙත යන්නේ යළි වීසා ලබාගැනීම සඳහාය.
+
+ඒ අනුව අදාළ ආයතනය පොලිස් නිලධාරියාට එංගලන්තයට යාමට අවශ්‍ය වීසා බලපත්‍රය ලබාදීමට මැදිහත්වී තිබුණි.
+
+අත්තනායක මහතා ජුලි 2 වනදා පෙරවරුවේ දෙහිවල පිහිටි අදාළ ආයතනයට යන්නේ, සිය විදෙස් ගමන් බලපත්‍රය ලබාගැනීම සඳහාය.
+
+එහිදී වීසා සකස් කිරීමට වැයවූ රුපියල් ලක්ෂ 10ක මුදල ගෙවා විදෙස් ගමන් බලපත්‍රය රැගෙන යන ලෙසට එම ආයතනයේ හිමිකරු පවසා තිබුණි.
+
+තම ගුවන් ගමන් බලපත්‍රය ලබානොදීම සම්බන්ධයෙන් පෑලියගොඩ පොලීසියේ කොට්ඨාස රථවාහන අංශයේ ස්ථානාධිපති ඩබ්.ඩී. අත්තනායක මහතා දෙහිවල පොලීසියට පැමිණිල්ලක් කරන්නේ ඒ අනුවය.
+
+...
+
+[Data](articles/62eb0f44.json)
+
+---
 
 ### Some politicians focus solely on gaining power or ousting rivals from office - President
 
@@ -2225,31 +2249,5 @@ Foreign participation remained low as well. There was a higher net foreign outfl
 [Data](articles/0f7db3a0.json)
 
 [Extended Data](ext_articles/0f7db3a0.ext.json)
-
----
-
-### 75,000 job opportunities
-
-*2024-07-12 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198745) · `si`
-
-President Ranil Wickremesinghe aims to boost Sri Lanka's economy through export growth, tourism, tech, and modern farming. He announced 75,000 jobs from a $2.6 billion project in Bingiriya, highlighting new investment zones and a Defense Institute. The area is seen as crucial for enhancing sectors like agriculture, manufacturing, IT, and fisheries.
-
-🟩
-
-President Ranil Wickremesinghe said that the economy could be built in the country by developing the export economy, products, tourism and technology as well as the development of modern agriculture.
-
-The President was speaking at a ceremony held in the Bingiriya Export Processing Zone today (12), along with a 1,000 acquisition zone in Sri Lanka.
-
-The President also said that new investment zones will be established to strengthen the country's export economy.
-
-It is notified that after the completion of the Bingiriya Investment Zone, US $ 2,600 million will be expected to produce 75,000 opportunities.
-
-The Defense Institute was constructed by President Ranil Wickremesinghe, who was constructed by the Bingiriya Export Processing Zone, the President, who was observing at the premises of the institute, was also a friendly talk with its staff.
-
-...
-
-[Data](articles/78845da9.json)
-
-[Extended Data](ext_articles/78845da9.ext.json)
 
 ---

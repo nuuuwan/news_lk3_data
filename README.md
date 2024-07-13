@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 18:12:39**
+As of **2024-07-13 18:24:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,849
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,083 (100.0%) of 35,085 articles have been extended.
+35,085 (100.0%) of 35,085 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,19 +46,27 @@ Thus, general public is kindly requested to take adequate precautions to minimiz
 
 [Data](articles/912dbac3.json)
 
+[Extended Data](ext_articles/912dbac3.ext.json)
+
 ---
 
-### සාමාන්‍ය තොරතුරු තාක්ෂණ ප්‍රතිඵල නිකුත් කෙරේ
+### General IT results released
 
 *2024-07-13 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198775) · `si`
 
-2019, 2020, 2021 සහ 2022 වර්ෂවලට අදාළ විභාගයන්වල ප්‍රතිඵල මෙලෙස නිකුත් කර ඇති බව විභාග දෙපාර්තමේන්තුව පැවසීය.
+Results for General IT Exams (2019, 2020, 2021, 2012, 2022) are out. Check them on www.doenets.lk, www.duens.lk, or www.results.gov.lk.
 
-සාමාන්‍ය තොරතුරු තාක්ෂණ විභාගයේ ප්‍රතිඵල www.doenets.lk සහ www.results.gov.lk යන වෙබ් අඩෙවි වෙත පිවිසීමෙන් ලබා ගත බව විභාග දෙපාර්තමේන්තුව සඳහන් කරයි.
+🟩
+
+The results of 2019, 2020, 2020,2012 and 2022 have been released.
+
+The results of the General IT Examination are obtained by visiting www.doenets.lk and www.duens.lk and www.results.gov.lk.
 
 ◼️
 
 [Data](articles/b72cc71d.json)
+
+[Extended Data](ext_articles/b72cc71d.ext.json)
 
 ---
 

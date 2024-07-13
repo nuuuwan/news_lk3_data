@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 12:35:26**
+As of **2024-07-13 12:53:04**
 
 ## Newspaper Stats
 
-*Scraped **35,061** Articles*
+*Scraped **35,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,977
 economynextcom | 2,082
 dailyftlk | 2,219
 adalk | 3,160
-adaderanalk | 4,029
+adaderanalk | 4,030
 tamilmirrorlk | 4,202
 dailymirrorlk | 4,733
 virakesarilk | 5,479
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,836
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,060 (100.0%) of 35,061 articles have been extended.
+35,061 (100.0%) of 35,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### Suspect arrested over burglary of ex-cricketer Sachithra Senanayake’s house
+
+*2024-07-13 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100479/suspect-arrested-over-burglary-of-ex-cricketer-sachithra-senanayakes-house-) · `en`
+
+Police have apprehended the suspect involved in the burglary of former Sri Lankan cricketer Sachithra Senanayake’s house in the Kalalgoda area of Thalangama.
+
+The arrest follows a thorough investigation into the burglary incident, which occurred on the night of June 22, 2024, the police said.
+
+The suspect, a 34-year-old resident of Thalangama, was taken into custody after being identified through CCTV footage. The stolen items, including a laptop, two tablet PCs, five expensive watches, four valuable bracelets, two rings, and Rs 10,000 in cash, were recovered from the suspect’s house, according to police.
+
+The motorcycle used in the theft has also been taken into police custody.
+
+Police said that the suspect has a history of criminal activity and had been released on bail after serving time for multiple burglaries in the Kottawa, Thalangama, and Maharagama areas.
+
+...
+
+[Data](articles/e97e3f7f.json)
+
+---
 
 ### Sri Lanka leader’s presidential campaign faces dilemma over coalition: sources
 
@@ -47,6 +67,8 @@ Three sources who spoke to EconomyNext said legislators from the main opposition
 ...
 
 [Data](articles/8601a85b.json)
+
+[Extended Data](ext_articles/8601a85b.ext.json)
 
 ---
 
@@ -2235,33 +2257,5 @@ Badulla District Police Inspector Sujith Wetamulla Badulla Senior Superintendent
 [Data](articles/0dfcc163.json)
 
 [Extended Data](ext_articles/0dfcc163.ext.json)
-
----
-
-### Bideen that adds more
-
-*2024-07-12 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198736) · `si`
-
-The NATO summit in Washington was crucial for President Joe Biden, aimed at addressing controversies surrounding his presidential candidacy. Despite initial optimism, the event was marred by a naming blunder involving Ukrainian President Zelenskyy, which critics argue escalated into a significant misstep for Biden's campaign.
-
-🟩
-
-The NATO summit in Washington, USA was very important to American President Joe Biden.
-
-The conference is held due to a controversial environment for the presidential presidential candidature of President Bidon.
-
-President Biden believed as an opportunity to prove that it was appropriate for the presidential candidate.
-
-However, during a meeting NATO, President Bidain has said the name of Ukrainian President Selenceky's name.
-
-A few hours later, a media briefing held by President Bidon's presidential candidate has also had the same word conflict.
-
-Criticists say that this is an intensifying incident that the President's presidential candidate is a decent incident.
-
-◼️
-
-[Data](articles/93b305ce.json)
-
-[Extended Data](ext_articles/93b305ce.ext.json)
 
 ---

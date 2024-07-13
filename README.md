@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 17:05:13**
+As of **2024-07-13 17:20:03**
 
 ## Newspaper Stats
 
-*Scraped **35,081** Articles*
+*Scraped **35,083** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 1,977
 economynextcom | 2,082
 dailyftlk | 2,219
 adalk | 3,160
-adaderanalk | 4,034
+adaderanalk | 4,035
 tamilmirrorlk | 4,206
 dailymirrorlk | 4,733
 virakesarilk | 5,479
-adaderanasinhalalk | 5,847
+adaderanasinhalalk | 5,848
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,078 (100.0%) of 35,081 articles have been extended.
+35,081 (100.0%) of 35,083 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### ඩිලාන් පෙරේරා ගමන්ගත් රථයත් අනතුරකට
+
+*2024-07-13 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198773) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී ඩිලාන් පෙරේරා ගමන්ගත් මෝටර් රථය අනතුරකට ලක්වී තිබේ.
+
+මන්ත්‍රීවරයා අද (13) මතුගම පැවැත්වෙන රැස්වීමක් සඳහා යමින් සිටියදී දක්ෂිණ අධිවේගී මාර්ගයේ 82/1 කිලෝමීටර් කණුව ආසන්නයේදී මෙම සිද්ධියට මුහුණ දී ඇත.
+
+අධික වර්ෂාවත් සමග මෝටර් රථය ලිස්සා ගොස් අධිවේගී මාර්ගයේ ආරක්ෂිත වැටේ ගැටීමෙන් අනතුර සිදුවී තිබුණි.
+
+◼️
+
+[Data](articles/17319fb7.json)
+
+---
+
+### MP Dilan Perera’s vehicle involved in accident on expressway
+
+*2024-07-13 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100485/mp-dilan-pereras-vehicle-involved-in-accident-on-expressway) · `en`
+
+The vehicle in which MP Dilan Perera was travelling has met with an accident near the Galanigama interchange of the Southern Expressway, Ada Derana reporter said.
+
+It is reported that the former minister was unharmed, however, another person who was travelling in the vehicle had sustained injuries in the accident.
+
+Kalutara – South Police together with the Expressway Police are conducting further investigations regarding the incident.
+
+◼️
+
+[Data](articles/559b14a3.json)
+
+---
 
 ### Pakistan’s Imran Khan, wife acquitted in unlawful marriage case
 
@@ -50,23 +82,31 @@ It was not immediately clear whether Khan and Bibi, both in jail, would be relea
 
 [Data](articles/6cc860ac.json)
 
+[Extended Data](ext_articles/6cc860ac.ext.json)
+
 ---
 
-### ක්ලබ් වසන්තගේ අවසන් කටයුතු සිදු කෙරේ
+### Club Wasantha's funeral is carried out
 
 *2024-07-13 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198772) · `si`
 
-සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්තගේ දේහය පිළිබඳ අවසන් කටයුතු අද (13) පස්වරුවේ සිදු කෙරුණි.
+Surendra Wasantha Perera, known as Club Wasantha, was killed on the 8th and his funeral took place today. He planned to open a tative center in Athurugiriya. The ceremony was attended by family and security personnel from the police and STF.
 
-අතුරුගිරිය ප්‍රදේශයේ ටැටූ මධ්‍යස්ථානයක් විවෘත කිරීමට ගිය සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත හා තවත් අයෙක් පසුගිය 8වනදා වෙඩිතබා ඝාතනය කෙරුණි.
+🟩
 
-ක්ලබ් වසන්තගේ දේහය තර්ජන මධ්‍යයේ ජයරත්න මල්ශාලාවේ තැන්පත් කිරීමෙන් අනතුරුව අද පස්වරුවේ බොරැල්ල පොදු සුසාන භූමියේදී ඥාතීන් විසින් අවසන් කටයුතු සිදු කළේය.
+The funeral of Surendra Wasantha Perera, or Club Wasantha was held this afternoon.
 
-එහිදී ආරක්ෂාව සඳහා පොලීසිය හා විශේෂ කාර්ය බළකාය පැමිණ තිබුණි.
+Surendra Wasantha Perera, who was to open a tative center in Athurugiriya, was shot dead on the 8th.
+
+The relatives of the Borella General Cemetery were finalized after the burial of Club Wasantha Malzala.
+
+The police and the STF had come to protect the security.
 
 ◼️
 
 [Data](articles/e8fae855.json)
+
+[Extended Data](ext_articles/e8fae855.ext.json)
 
 ---
 
@@ -98,23 +138,29 @@ The party leaders then welcomed their strategic program to see Ven. Medagama Dha
 
 ---
 
-### எம்.பி ரிஷாத் பதியுதீன் பயணித்த வாகனம் விபத்துக்குள்ளானது
+### MP Rishad Bathiudeen's vehicle crashed
 
 *2024-07-13 16:27:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-ரிஷாத்-பதியுதீன்-பயணித்த-வாகனம்-விபத்துக்குள்ளானது/175-340327) · `ta`
 
-அகில இலங்கை மக்கள் காங்கிரஸ் தலைவரும், பாராளுமன்ற உறுப்பினருமான ரிஷாத் பதியுதீன் பயணித்த சொகுசு வாகனம் புத்தளம் - கருவலகஸ்வெவ பகுதியில் வைத்து இன்று (13) விபத்துக்குள்ளாகியுள்ளது.
+Rishad Bathiudeen, leader of All Ceylon People's Congress and MP, had a minor crash near Puttalam while driving from Anuradhapura. A motorcycle collided with his luxury vehicle; both vehicles sustained minor damage, and no one was injured. Police are investigating the incident.
 
-ரிஷாத் பதியுதீன் அநுராதபுரத்தில் இருந்து புத்தளம் நோக்கிப் பயணம் செய்துகொண்டிருந்த போது, பிரதான வீதிக்குள் திடீரென பிரவேசித்த மோட்டார் சைக்கிள் பாராளுமன்ற உறுப்பினர் பயணித்த சொகுசு வாகனம் மீது மோதாமல் இருக்க சாரதி முயற்சித்ததில் குறித்த வாகனம் வீதியை விட்டு விலகி விபத்துக்குள்ளாகியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இதன்போது, பாராளுமன்ற உறுப்பினருக்கோ அல்லது மோட்டார் சைக்கிளில் பயணித்த நபருக்கோ எவ்வித காயங்களும் ஏற்படவில்லை எனத் தெரிவிக்கப்படுகிறது.
+All Ceylon People's Congress leader and Member of Parliament Rishad Bathiudeen has crashed today (13) in the Puttalam -Karuwalakaswewa area.
 
-எனினும், பாராளுமன்ற உறுப்பினர் பயணித்த சொகுசு வாகனத்திற்கும், மோட்டார் சைக்கிளுக்கும் சிறிய அளவில் சேதங்கள் மாத்திரமே ஏற்பட்டுள்ளதாகவும் கருவலகஸ்வெவ பொலிஸார் தெரிவித்தனர்.
+While Rishad Bathiudeen was traveling from Anuradhapura to Puttalam, a motorcycle that suddenly entered the main road was crashed into a driver's luxury vehicle, police said.
 
-விபத்துச் சம்பவம் தொடர்பில் கருவலகஸ்வெவ பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+It is reported that no injuries were suffered from a Member of Parliament or a motorcycle.
+
+However, the Kuruwalakaswewa police said that there were only minor damage to the luxury vehicle and the motorcycle that MP was traveling.
+
+The Karuwalakaswewa police are conducting further investigations into the accident. Remble
 
 ◼️
 
 [Data](articles/5a66981d.json)
+
+[Extended Data](ext_articles/5a66981d.ext.json)
 
 ---
 
@@ -2203,59 +2249,5 @@ Agent is expected to get an export earnings of $ 2600 million after the completi
 [Data](articles/384ab4eb.json)
 
 [Extended Data](ext_articles/384ab4eb.ext.json)
-
----
-
-### The 3-day wedding ceremony begins with Ambani Legal
-
-*2024-07-12 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198742) · `si`
-
-The grand 3-day Ambani wedding, featuring high-profile guests like Bollywood and Hollywood stars, business tycoons, and even former UK PMs Boris Johnson and Tony Blair, is set to be one of the most extravagant events of the year. The ceremony, adhering to traditional Hindu rituals, is expected to cost the Ambani family around 0.05% of their total wealth, making it a significant event not just for the couple but also for the Indian economy.
-
-🟩
-
-Anneth Ambani, a 3-day wedding of the Indian Republic of India, is a 3-day wedding of the Indian Republic of India, which is a wedding ceremony of the era.
-
-The day used by the Hindu Antichcy Methodology Shunager is the first day of the wedding, and the marriage practices.
-
-It has been identified for Bollywood, Hollywood stars and leading businessmen and politicians.
-
-An American television program offerings and an American television program offer to join the wedding, and the actress, an actress, approached Mumbai.
-
-Former Prime Minister of British Prime Minister Boris Johnson and Ton Blair have come to Mumbai according to the invitation of the Ambani family.
-
-The Indian media reports that the Ambani family will cost nearly 0.05 percent of their total wealth.
-
-◼️
-
-[Data](articles/c95f2c2d.json)
-
-[Extended Data](ext_articles/c95f2c2d.ext.json)
-
----
-
-### The idea to reduce the punishment of prisoners
-
-*2024-07-12 15:34:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதிகளின்-தண்டனைகளை-குறைக்க-யோசனை/175-340302) · `ta`
-
-Vijayadasa Rajapaksa, Minister of Justice, announced plans to reduce sentences for death-row and life-sentenced prisoners without offering concessions. Despite overcrowding—30,000 prisoners vs. 13,000 capacity—the government has taken steps over a year and a half to address this, including releasing elderly and ill prisoners through a health services committee.
-
-🟩
-
-Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapaksa said that the prisoners who have been sentenced to death and life imprisonment are intended to reduce the sentence on their own, said no concessions will be made.
-
-There are currently 30 thousand prisoners in Parliament that there are only 13 thousand prisoners in the Sri Lankan prison structure.
-
-In response to a plea for pardoning and released, they said, "There are neighbors who are 80 years old in prisons.
-
-We have been taking steps to address this issue for the past one and a half years.. A committee appointed by the Director General of Health Services to the release of adults in prisons and severe illnesses was appointed by three medical professionals.
-
-The first phase of the group was sent to 100 prisoners.. Remble
-
-◼️
-
-[Data](articles/6b756fab.json)
-
-[Extended Data](ext_articles/6b756fab.ext.json)
 
 ---

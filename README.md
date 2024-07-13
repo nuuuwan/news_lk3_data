@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 11:36:07**
+As of **2024-07-13 11:55:26**
 
 ## Newspaper Stats
 
-*Scraped **35,057** Articles*
+*Scraped **35,059** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,977
 economynextcom | 2,080
 dailyftlk | 2,219
 adalk | 3,160
-adaderanalk | 4,027
+adaderanalk | 4,029
 tamilmirrorlk | 4,202
 dailymirrorlk | 4,733
 virakesarilk | 5,479
@@ -26,31 +26,75 @@ adaderanasinhalalk | 5,836
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,056 (100.0%) of 35,057 articles have been extended.
+35,057 (100.0%) of 35,059 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### හිටපු ටෙස්ට් ක්‍රිකට් ක්‍රීඩක සචිත්‍රගේ නිවස කොල්ල කෑ සැකකරු අත්අඩංගුවට
+### India, Sri Lanka looking at trading in national currencies: State Minister Balasuriya
+
+*2024-07-13 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100478/india-sri-lanka-looking-at-trading-in-national-currencies-state-minister-balasuriya) · `en`
+
+Sri Lanka’s State Minister of Foreign Affairs Tharaka Balasuriya has said that India, and Sri Lanka are working to trade in national currencies, a development that comes even as both sides have been focusing on financial connectivity.
+
+Speaking to our diplomatic correspondent Sidhant Sibal, he said, “ it makes more sense to pay for those goods in the local currency. So I think it’s a very good proposal, and it will also be very easy for the Indian tourists to come and they come to Sri Lanka and pay in Indian Rupees”.
+
+The minister was in Delhi for the BIMSTEC grouping’s foreign minister retreat. He termed the India Sri Lanka ties being at “all time high”, and pointed to India’s economic support during the financial crisis his country faced.
+
+...
+
+[Data](articles/24f229b7.json)
+
+---
+
+### Russian passenger jet crashes near Moscow, killing its crew of 3
+
+*2024-07-13 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100477/russian-passenger-jet-crashes-near-moscow-killing-its-crew-of-3) · `en`
+
+A Russian passenger jet crashed Friday near Moscow while flying without passengers, killing its crew of three, officials said.
+
+The Sukhoi Superjet 100 plummeted into a forest near the village of Apraksino about 90 kilometers (55 miles) southeast of the Russian capital, according to emergency officials.
+
+The plane belonged to Gazprom avia, a carrier owned by the Russian state-controlled natural gas giant Gazprom.
+
+Gazprom avia said the plane took off from an aircraft-making plant at Lukhovitsy 110 kilometers (68 miles) southeast of the Russian capital where it had undergone repairs. It was heading to Moscow’s Vnukovo airport when it crashed eight minutes after takeoff.
+
+The cause of the crash wasn’t immediately known, but some Russian media reports indicated that both of the plane’s engines may have failed, probably because of birds getting into them on takeoff.
+
+The Investigative Committee, the country’s top state criminal investigation agency, has launched a probe into the crash.
+
+...
+
+[Data](articles/74e971f8.json)
+
+---
+
+### Suspect arrested for robbery of former Test cricketer
 
 *2024-07-13 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198760) · `si`
 
-හිටපු ටෙස්ට් ක්‍රිකට් ක්‍රීඩක සචිත්‍ර සේනානායක මහතාට අයත් තලංගම කලල්ගොඩ ප්‍රදේශයේ නිවසකින් රුපියල් ලක්ෂ 50ට අධික වටිනාකමින් යුත් මුදල් හා භාණ්ඩ සොරාගත් පුද්ගලයෙකු කොට්ටාව පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A suspect was arrested by Kottawa Police for stealing items including cash, jewelry, and a motorbike from a former Test cricketer. The thief, who had been released on bail before, was identified through CCTV footage showing his entry into the victim's home.
 
-එහිදී සැකකරු විසින් ලැප්ටොප් පරිගණකයක්, ටැබ් 02ක්, වටිනා අත් ඔරලෝසු 5ක්, බ්‍රේස්ලට් 4ක්, මුදු 2ක් සහ මුදල් රුපියල් 10,000ක්  සොරාගෙන තිබේ.
+🟩
 
-පසුව කොට්ටාව පොලීසිය විසින් සිදුකළ විමර්ශන අනුව සැකකරු හඳුනාගෙන ඇත.
+Kottawa Police have arrested a person who stole more than Rs.
 
-ඒ අනුව එම සොරා ගත් භාණ්ඩ සහ සොරකම සඳහා භාවිතා කළ යතුරුපැදියක් ද සැකකරුගේ නිවසේ  තිබී පොලිස් භාරයට ගෙන ති‌බේ.
+The suspect has stolen 5 tabs, two tabs, valuable wrists, 4 bracelettes, two rings, and Rs. 10,000.
 
-පොලීසිය පැවසුවේ මෙම සැකකරු මීට පෙර කොට්ටාව, තලංගම සහ මහරගම පොලිස් වසම් වල නිවෙස් හා වෙළෙඳසැල් බිද දේපොළ කොල්ලකෑමේ සිද්ධීන් ගණනාවකට බන්ධනාගාර ගතව සිට ඇප මත නිදහස්ව සිටින පුද්ගලයෙකු බවයි.
+The suspect was diagnosed with the investigations carried out by the Kottawa Police.
 
-සැකකරු නිවසට පැමිණෙන අයුරු පිටව යන අයුරු නිවසේ සවිකර තිබූ CCTV කැමරාවේ පටිගත වී තිබේ.
+Accordingly, a motorbike used for the stolen goods and theft have been taken into police custody.
+
+The suspect said that the suspects had previously been released on bail to a number of bail to a number of bail.
+
+How the suspect comes to the house is recorded in the CCTV camera, which was mounted at home.
 
 ◼️
 
 [Data](articles/3e087924.json)
+
+[Extended Data](ext_articles/3e087924.ext.json)
 
 ---
 
@@ -2219,47 +2263,5 @@ Despite the daily consumption of 7 million eggs in Sri Lanka last year, the dail
 [Data](articles/4d744ac5.json)
 
 [Extended Data](ext_articles/4d744ac5.ext.json)
-
----
-
-### The newest Fr petition of the Supreme Court
-
-*2024-07-12 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198735) · `si`
-
-The Supreme Court agreed to review a case regarding the mandatory vaccination of Court of Appeal judges, following a petition by a judge and Constitutional Judge. This decision came after considering arguments from President's Counsel Senaka Walgampaya.
-
-🟩
-
-The Supreme Court granted permission to hear a fundamental rights petition filed by the judge and the Constitutional Judge for the act of vaccination of the judges of the Court of Appeal.
-
-After considering a petition presented by the President's Counsel Senaka Walgampaya, the court issued the order.
-
-◼️
-
-[Data](articles/8b9241e1.json)
-
-[Extended Data](ext_articles/8b9241e1.ext.json)
-
----
-
-### Vattakoda plantation workers' attention struggle
-
-*2024-07-12 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/188296) · `ta`
-
-Plantation workers in Vattakoda protested on Friday, demanding a daily wage of 1,700 rupees. The government had previously increased salaries for public servants, but plantation companies objected to this decision.
-
-🟩
-
-The plantation companies staged a demonstration on Friday (12) demanding that the plantation companies take immediate steps to pay the 1,700 rupee daily salary to plantation workers.
-
-Workers from the Vattakoda Survey, Vattakoda Keezhpattu and Yoxspot, belonging to the Talawakelle Police Division, launched the protest on Friday (12).
-
-The government has taken steps to increase the salary of public officials and employees, and that the plantation companies are protesting the salary of 1,700 rupees per day by the government.The workers who were also involved in the agitation were also said to be taken.
-
-◼️
-
-[Data](articles/5ff6aa69.json)
-
-[Extended Data](ext_articles/5ff6aa69.ext.json)
 
 ---

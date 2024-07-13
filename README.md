@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 14:05:13**
+As of **2024-07-13 14:19:52**
 
 ## Newspaper Stats
 
-*Scraped **35,065** Articles*
+*Scraped **35,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,41 +20,87 @@ adaderanalk | 4,031
 tamilmirrorlk | 4,202
 dailymirrorlk | 4,733
 virakesarilk | 5,479
-adaderanasinhalalk | 5,838
+adaderanasinhalalk | 5,840
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,063 (100.0%) of 35,065 articles have been extended.
+35,065 (100.0%) of 35,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### රු ලක්ෂ 10කට පොල්ල තියන්න ගිය OIC මාට්ටු
+### බදියුදීන් ගමන් ගත් රථය අනතුරකට ලක්වෙයි
+
+*2024-07-13 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198765) · `si`
+
+හිටපු අමාත්‍ය රිෂාඩ් බදියුදීන් ගමන් ගත් මෝටර් රථය කරුවලගස්වැව ප්‍රදේශයේදී අනතුරකට ලක්වී තිබේ.
+
+මාර්ගයට ප්‍රවේශ වුණු පාපැදිකරුවෙකු රථයේ ගැටීම වළක්වා ගැනීමට උත්සාහ කිරීමේදී මෝටර් රථය මාර්ගයෙන් ඉවතට පැන මෙම අනතුර සිදුවී ඇත.
+
+◼️
+
+[Data](articles/06f50aa4.json)
+
+---
+
+### ක්ලබ් වසන්තගේ අවසන් කටයුතු අද - පැටීගේ මස්සිනා අත්අඩංගුවට
+
+*2024-07-13 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198763) · `si`
+
+සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත ඝාතනය කිරීමේ සිද්ධියට සැකපිට ලොකු පැටීගේ මස්සිනා ඇතුළු පුද්ගලයන් තිදෙනෙකු බස්නාහිර දකුණ අපරාධ කොට්ඨාසය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+එහිදී සැකකරුවන්ගේ නිවාසද පොලීසිය විසින් පරීක්ෂා කර ඇති අතර ඒවායේ වෙඩික්කරුවන් සැඟව සිටියාද යන්න පිළිබඳව ඇති වූ සැකය මත එම නිවාස පරීක්ෂා කළ බව පොලීසිය පැවසීය.
+
+අතුරුගිරිය ප්‍රදේශයේ ටැටූ මධ්‍යස්ථානයක් විවෘත කිරීමට ගිය සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත හා තවත් අයෙක් පසුගිය 8 වනදා වෙඩිතබා ඝාතනය කෙරුණි.
+
+ක්ලබ් වසන්තගේ දේහය අවසන් කටයුතු සඳහා තර්ජන මධ්‍යයේ ජයරත්න මල්ශාලාවේ තැන්පත් කර ඇත.
+
+එහි ආරක්ෂාව ද පොලීසිය හා විශේෂ කාර්ය බළකාය එක්වී තර කර තිබේ.
+
+එවන් පසුබිමක අද (13) දිනයේදී ක්ලබ් වසන්තගේ දේහය පිළිබඳ අවසන් කටයුතු බොරැල්ල පොදු සුසාන භූමියේදී සිදුකිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/b316be0c.json)
+
+---
+
+### OIC seizes for Rs.
 
 *2024-07-13 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198762) · `si`
 
-පෑලියගොඩ පොලීසියේ ස්ථානාධිපතිවරයාට වීසා බලපත්‍රය සකස් කිරීමට අදාළ මුදල් ඉල්ලූ පසු පොලීසිය තමන්ට පහරදුන් බව දෙහිවල විදෙස් සංචාරක ආයතන හිමිකරුවෙකු චෝදනා කරයි.
+A Dehiwala tourism organization owner claims he was assaulted by police, including the Peliyagoda Police OIC, who sought a UK tourist visa but was denied. The OIC allegedly returned to consult about obtaining a visa, with the company intervening to secure one. The OIC's passport was requested on July 2, leading to a confrontation where he was detained and questioned. This incident was captured on CCTV, showing several police officers intimidating employees. The owner and manager were subsequently arrested and brought before the Mount Lavinia Magistrate's Court. The owner has filed a complaint with the Human Rights Commission, alleging wrongful treatment and assault.
 
-ඔහු සඳහන් කළේ, තම සේවකයින්ට පවා පොලිස් නිලධාරීන් පැමිණ පහරදුන් බවය.
+🟩
 
-පෑලියගොඩ පොලීසියේ ස්ථානාධිපතිවරයා එංගලන්තයේ සංචාරක වීසා ලබාගැනීම සඳහා අයදුම් කර තිබුණත් එය මුල් අවස්ථාවේදී ප්‍රතික්ෂේප වී ඇත.
+A Dehiwala foreign tourism organization owner alleges that the police had assaulted him after the Peliyagoda Police OIC.
 
-පසුව ඔහු දෙහිවල ප්‍රදේශයේ පිහිටි සංචාරක වීසා හා උපදේශන ආයතනයක් වෙත ගොස් වීසා ලබාගැනීමට යළි අයදුම් කර තිබේ.
+He referred to the policemen and the police officers came to their employees.
 
-එම ආයතනය මැදිහත් වී පෑලියගොඩ පොලීසියේ ස්ථානාධිපතිවරයාට වීසා පහසුකම් ලබාදී තිබුණු අතර ඒ සඳහා රුපියල් 1,003,200ක මුදලක් වීසා ආයතනයට වැයවී තිබුණි.
+The OIC of the Peliyagoda Police had applied to obtain tourist visa in England, but it is rejected.
 
-පසුව ජුලි 2 වනදා පෙරවරුවේ දෙහිවල පිහිටි වීසා ආයතනයට පැමිණි පෑලියගොඩ පොලීසියේ ස්ථානාධිපතිවරයා සිය විදෙස් ගමන් බලපත්‍රය ඉල්ලා තිබේ.
+He later returned to a tourist visa and consulting in Dehiwala area to obtain visa.
 
-එහිදී වීසා ආයතනයේ හිමිකරු පවසා ඇත්තේ වීසා සකස් කිරීමට වැයවූ රුපියල් ලක්ෂ 10ක මුදල ගෙවා විදෙස් ගමන් බලපත්‍රය රැගෙන යන ලෙසය.
+The company had intervened and provided visas for the Peliyagoda Police OIC at the Visa.
 
-නමුත් එම අවස්ථාවේදී පෑලියගොඩ පොලිස් ස්ථානාධිපතිවරයා ආයතනයේ හිමිකරුට අසභ්‍ය වචනයෙන් බැන වැදී තරවටු කරන ආකාරය CCTV කැමරාවල සටහන් වී ඇත.
+The OIC of the Peliyagoda Police OIC calls for its foreign passport on July 2.
+
+The owner of the Visa has said that the cost of the visa is to be paid and carry abroad.
+
+However, the OIC of the Peliyagoda OIC has been recorded in CCTV cameras.
+
+Several police officers returned to the relevant institution and the CCTV camera is also listed on how to intimidate employees.
+
+The OIC of Dehiwala at around 4.30 pm on July 2 pm had come to the company and had something to the owner and the manager.
 
 ...
 
 [Data](articles/5b24f185.json)
+
+[Extended Data](ext_articles/5b24f185.ext.json)
 
 ---
 
@@ -69,6 +115,8 @@ Accordingly, the results can be viewed on the following website: www.doenets.lk.
 ◼️
 
 [Data](articles/648da54d.json)
+
+[Extended Data](ext_articles/648da54d.ext.json)
 
 ---
 
@@ -2217,51 +2265,5 @@ There are several main issues that have been unresolved in the procurement proce
 [Data](articles/5a8ee7eb.json)
 
 [Extended Data](ext_articles/5a8ee7eb.ext.json)
-
----
-
-### Sri Lanka to recruit 500 foreign language teachers
-
-*2024-07-12 14:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-recruit-500-foreign-language-teachers-171894/) · `en`
-
-ECONOMYNEXT – Sri Lanka will recruit 500 foreign language teachers for schools, State Minister of Education Aravindh Kumar, said.
-
-“We will be giving priority to Korean, German, French, Hindi, Chinese and Japanese,” Kumar told reporters on Friday.
-
-In March, Kumar said that teaching foreign languages such as Japanese and Korean is essential if graduates are to pursue jobs in foreign countries.
-
-As of June 2024, Sri Lanka had sent 10,000 workers to South Korea, and is planning to send around 6,000 workers to Japan.
-
-In order to seek employment in these countries, the candidates must pass a language proficiency test. (Colombo/Jul12/2024)
-
-◼️
-
-[Data](articles/d1b81a2c.json)
-
-[Extended Data](ext_articles/d1b81a2c.ext.json)
-
----
-
-### An accident in Nuwara Eliya
-
-*2024-07-12 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188288) · `ta`
-
-In Nuwara Eliya, two people were hurt when a vehicle crashed into another car near the police station. The driver, from the Nuwara Eliya Municipal Council, lost control and collided head-on with an oncoming car. Arrested after the incident, which occurred on Friday, authorities believe the crash might have been caused by the driver's distraction.
-
-🟩
-
-Two persons were injured in a vehicle accident in front of the Nuwara Eliya Police Station, police said.
-
-The Nuwara Eliya Municipal Council has lost control of the Nuwara Eliya District Office and collided with a car that was in the opposite direction and collided with a car in the opposite direction.
-
-The accident took place on Friday (12) and the driver of the municipal council has been arrested by the police.
-
-Police suspect that due to the driver's attention, the disaster of the sky was not functioning properly.
-
-◼️
-
-[Data](articles/0fdfafd6.json)
-
-[Extended Data](ext_articles/0fdfafd6.ext.json)
 
 ---

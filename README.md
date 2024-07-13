@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 16:35:07**
+As of **2024-07-13 16:52:06**
 
 ## Newspaper Stats
 
-*Scraped **35,076** Articles*
+*Scraped **35,078** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,79 @@ adaderanalk | 4,033
 tamilmirrorlk | 4,205
 dailymirrorlk | 4,733
 virakesarilk | 5,479
-adaderanasinhalalk | 5,844
+adaderanasinhalalk | 5,846
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,075 (100.0%) of 35,076 articles have been extended.
+35,076 (100.0%) of 35,078 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### දෙරණ ලිට්ල් ස්ටාර් 12 වන අදියරේ අවසන් මහා තරගය අද
+### සර්වජන බලය උපාය මාර්ගික වැඩපිළිවෙළ ඇතුළත් පළමු කෙටුම්පත අස්ගිරි මහානාහිමි වෙත
+
+*2024-07-13 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198771) · `si`
+
+සර්වජන බලය සන්ධානයේ උපායමාර්ගික වැඩපිළිවෙළේ පළමු කෙටුම්පත අද (13) පෙරවරුවේ අස්ගිරි පාර්ශ්වයේ මහානායක අතිපූජ්‍ය වරකාගොඩ ශ්‍රී ඥාණරතන නාහිමියන් වෙත පිළිගැන්වීය.
+
+මෙලෙස පිළිගැන්වීම සිදු කෙරුණේ පසුගියදා ඉදිරිපත් කෙරුණු සර්වජන බලයේ උපාය මාර්ගික වැඩපිළිවෙළ ඇතුළත් ''සතුටු දැයක් - ව්‍යවසායකත්ව රාජ්‍යයක්'' පළමු කෙටුම්පත ය.
+
+සර්වජන බලය නියෝජනය කරන පක්ෂ නායකයින් පළමුවෙන්  මහනුවරට පැමිණ ශ්‍රී දළදා සමිඳුන් වැඳපුදා ආශිර්වාද ලබාගෙන තිබුණි.
+
+එම අවස්ථාවට මව්බිම ජනතා පක්ෂයේ නායක ව්‍යවසායක දිලිත් ජයවීර, පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන මහාචාර්ය චන්න ජයසුමන හා ගෙවිඳු කුමාරතුංග යන පිරිස එක්විය.
+
+අනතුරුව පක්ෂ නායකයින් අස්ගිරි මහා විහාරයට ගොස් එම පාර්ශ්වයේ මහානායක අතිපුජ්‍ය වරකාගොඩ ශ්‍රී ඥාණරතන නාහිමියන් බැහැ දැක තිබුණි.
+
+ඉන් අනතුරුව පක්ෂ නායකයින් අස්ගිරි පාර්ශ්වයේ ලේඛකාධිකාරී පූජ්‍ය මැදගම ධම්මානන්ද හිමියන් ද බැහැ දැක සිය උපායමාර්ගික වැඩපිළිවෙළ පිළිගන්වනු ලැබීය.
+
+◼️
+
+[Data](articles/d837dc1c.json)
+
+---
+
+### හදිසියේම ඇදහැලෙන මහ වැස්ස ගැන අනතුරු ඇඟවීමක්
+
+*2024-07-13 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198770) · `si`
+
+ඉදිරි පැය 24 සඳහා තද වැසි පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කර තිබේ.
+
+එම නිවේදනයේ දැක්වෙන්නේ බස්නාහිර, සබරගමුව පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකි බවය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+මේ අතර අද පස්වරුවේ මහනුවර නගරයට ඇදහැලුනු අධික වැසි සමග මහනුවර දුම්රිය ස්ථානය හා බෝගම්බර බස් නැවතුම ඉදිරිපිට මාර්ගය වැසි ජලයෙන් යටවී තිබේ.
+
+මහනුවර පොල්ගොල්ල මහවැලි ජලාශ වේල්ලේ දොරටු 04ක් විවෘත කළ බව ලංකා මහවැලි අධිකාරිය පවසයි.
+
+මධ්‍යම කඳුකරයට තද වැසි‍ ඇදහැලීම හේතුවෙන් විමලසුරේන්ද්‍ර ජලාශය වාන් දැමීම ආරම්භ කර ඇත.
+
+◼️
+
+[Data](articles/716cb174.json)
+
+---
+
+### Derana Little Star 12 Final Competition Today
 
 *2024-07-13 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198769) · `si`
 
-දෙරණ ලිට්ල් ස්ටාර්  12 වන අදියරේ අවසන් මහා තරගය අද (13) පැවැත්වෙයි.
+Derana Little Star 12 concludes today at 7:30 pm on TV Derana.
 
-ටී.වී. දෙරණ ඔස්සේ රාත්‍රී 7.30 සිට ප්‍රේක්ෂක ඔබට එය නැරඹිය හැකිය.
+🟩
+
+Derana Little Star 12 is held today (13).
+
+TV. You can view it from 7.30 pm on Derana.
 
 ◼️
 
 [Data](articles/67e28516.json)
+
+[Extended Data](ext_articles/67e28516.ext.json)
 
 ---
 
@@ -2199,53 +2249,5 @@ If Sri Lanka reduces its Carbon Dioxide emissions through efforts like reforesta
 [Data](articles/09784da6.json)
 
 [Extended Data](ext_articles/09784da6.ext.json)
-
----
-
-### 60 pound magic of Lord Ganesha: Struggle to break coconut
-
-*2024-07-12 15:17:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/விநாயகரின்-60-பவுண்-மாயம்-தேங்காய்-உடைத்து-போராட்டம்/71-340299) · `ta`
-
-Residents protested the disappearance of over 60 pounds of jewelry from the Puliyankudal Muthu Vinayakar Temple, suspecting temple administration involvement. The protest included breaking coconuts as part of a ritual. The temple's opening key went missing, leading to suspicions about the security measures around the jewelry box. Despite these concerns, the police advised patience while investigations continue.
-
-🟩
-
-Residents of the area have been involved in a protest against the disappearance of more than 60 pounds of jewelery at the Puliyankudal Muthu Vinayakar Temple, which is under the Kayts Divisional Secretariat.
-
-The rally, which began at 10 am on Friday (12) from Puliyankudal junction, reached the Muthu Vinayagar Temple.
-
-In the face of the temple, both male and female broken coconuts, chanting slogans, "Bring the child's jewelry money to the street."
-
-The leader of the temple was told that the opening of the temple was lost on the last day of the annual festival of the temple.
-
-A few days later, the disappearance of jewelery and money in the cash box began to spread in the community.
-
-When the people questioned how the jewelery in the box was missing, he replied that he was unaware of how the jewelery was missing without the lock of the head of the townspeople.
-
-...
-
-[Data](articles/09ca0afe.json)
-
-[Extended Data](ext_articles/09ca0afe.ext.json)
-
----
-
-### Government jobs on the Z sign
-
-*2024-07-12 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198741) · `si`
-
-Dullas Alahapperuma proposed filling GCE A/L vacancies in the Public Service through a Private Member's Bill, criticizing policies driven by political needs and personal interests, aiming to restore the public service's integrity.
-
-🟩
-
-Dullas Alahapperuma has been presented to Parliament as a Private Meonal Proposal to fill the GCE A / L vacancies in the Public Service.
-
-He made the proposal, he said that the public service has been harmed by policies on political needs and personal interests.
-
-◼️
-
-[Data](articles/26ea6c77.json)
-
-[Extended Data](ext_articles/26ea6c77.ext.json)
 
 ---

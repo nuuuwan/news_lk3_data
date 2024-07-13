@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 17:55:51**
+As of **2024-07-13 18:12:39**
 
 ## Newspaper Stats
 
-*Scraped **35,083** Articles*
+*Scraped **35,085** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ islandlk | 1,977
 economynextcom | 2,082
 dailyftlk | 2,219
 adalk | 3,160
-adaderanalk | 4,035
+adaderanalk | 4,036
 tamilmirrorlk | 4,206
 dailymirrorlk | 4,733
 virakesarilk | 5,479
-adaderanasinhalalk | 5,848
+adaderanasinhalalk | 5,849
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,083 (100.0%) of 35,083 articles have been extended.
+35,083 (100.0%) of 35,085 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### Advisory issued for heavy rains over 100 mm
+
+*2024-07-13 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100486/advisory-issued-for-heavy-rains-over-100-mm) · `en`
+
+The Department of Meteorology has issued an ‘Amber’ advisory for heavy rains in Western and Sabaragamuwa provinces and in Kandy and Nuwara-Eliya districts.
+
+The advisory mentioned that heavy showers more than 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy and Nuwara-Eliya districts during next 24 hours until 01.00 p.m. tomorrow (14).
+
+Thus, general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/912dbac3.json)
+
+---
+
+### සාමාන්‍ය තොරතුරු තාක්ෂණ ප්‍රතිඵල නිකුත් කෙරේ
+
+*2024-07-13 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198775) · `si`
+
+2019, 2020, 2021 සහ 2022 වර්ෂවලට අදාළ විභාගයන්වල ප්‍රතිඵල මෙලෙස නිකුත් කර ඇති බව විභාග දෙපාර්තමේන්තුව පැවසීය.
+
+සාමාන්‍ය තොරතුරු තාක්ෂණ විභාගයේ ප්‍රතිඵල www.doenets.lk සහ www.results.gov.lk යන වෙබ් අඩෙවි වෙත පිවිසීමෙන් ලබා ගත බව විභාග දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+◼️
+
+[Data](articles/b72cc71d.json)
+
+---
 
 ### Dilan Perera's vehicle or accident
 
@@ -2203,59 +2233,5 @@ He also stressed that the law should be severely recorded in this manner in this
 [Data](articles/7c76e8f9.json)
 
 [Extended Data](ext_articles/7c76e8f9.ext.json)
-
----
-
-### Parinda Ranasinghe appointed as new Attorney General
-
-*2024-07-12 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100463/parinda-ranasinghe-appointed-as-new-attorney-general) · `en`
-
-President’s Counsel Mr. K.A. Parinda Ranasinghe has been appointed as the new Attorney General of Sri Lanka by President Ranil Wickremesinghe.
-
-He was appointed in terms of Article 61E (b) of the Constitution of Sri Lanka at the Presidential Secretariat, a short while ago, the President’s Media Division said.
-
-The former Senior Additional Solicitor General was recently appointed as the Acting Attorney General.
-
-The Constitutional Council yesterday unanimously approved the nomination of Senior Additional Solicitor General Parinda Ranasinghe as the Attorney General.
-
-Ranasinghe took oaths as the Acting Attorney General before the Chief Justice on July 01, after the proposal to extend former Attorney General Sanjay Rajaratnam’s term by another 06 months was defeated for the second time by the Constitutional Council.
-
-...
-
-[Data](articles/c6296747.json)
-
-[Extended Data](ext_articles/c6296747.ext.json)
-
----
-
-### The country should be carried forward according to one economic system
-
-*2024-07-12 15:53:49* · [`adalk`](https://www.ada.lk/breaking_news/එක්-ආර්ථික-ක්‍රමයක්-අනුව-රට-ඉදිරියට-ගෙන-යා-යුතුයි/11-410757) · `si`
-
-The President emphasizes strengthening Sri Lanka's economy through developing the Bingiriya Export Processing Zone, aiming for $2.6 billion in exports post-completion. Plans include enhancing sectors like agriculture, manufacturing, IT, and tourism. New investment zones are proposed to boost exports further.
-
-🟩
-
-President commences development of second and third phase of the Bingiriya Export Processing Zone
-
-Plans to develop the Bing as a major economic zone along with five fields.
-
-After completing the investment zone, an export income of US $ 2600 million.
-
-Steps will be taken to establish new investment zones to strengthen the country's export economy.
-
-President Ranil Wickremesinghe said that the economy could be established in the country by improving the export economy, products, tourism and technology as well as the development of modern agriculture.
-
-The President was speaking at a function held in the Bingiriya Export Processing Zone today (12) in the Bingiriya Export Processing Zone today (12).
-
-The President also said that new investment zones will be established to strengthen the country's export economy.
-
-Agent is expected to get an export earnings of $ 2600 million after the completion of the Bingiriya Investment Zone.
-
-...
-
-[Data](articles/384ab4eb.json)
-
-[Extended Data](ext_articles/384ab4eb.ext.json)
 
 ---

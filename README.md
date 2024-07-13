@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 22:19:58**
+As of **2024-07-13 22:35:10**
 
 ## Newspaper Stats
 
-*Scraped **35,098** Articles*
+*Scraped **35,100** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 313
-colombotelegraphcom | 327
+colombotelegraphcom | 329
 bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,977
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,853
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,098 (100.0%) of 35,098 articles have been extended.
+35,098 (100.0%) of 35,100 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -522,6 +522,18 @@ The Karuwalakaswewa police are conducting further investigations into the accide
 
 ---
 
+### Aesthetic Education In Sri Lanka: The Direction Ahead
+
+*2024-07-13 16:25:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/aesthetic-education-in-sri-lanka-the-direction-ahead/) · `en`
+
+Art should be at the heart of a free, creative community and culture. Much of what is best in society evolves through various art forms, contributing significantly to cultural values, well-being, and the broader spectrum of creative and cultural life. In a new curriculum for the 21st century, students should have the opportunity to engage with diverse arts and comprehend contemporary expressions within social and cultural contexts. Aesthetic education equips students with the confidence and tools necessary to understand and critique art in everyday life, fostering emerging critical and creative thinkers.
+
+...
+
+[Data](articles/a69ad829.json)
+
+---
+
 ### A warning about suddenly dragged on the rain
 
 *2024-07-13 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198770) · `si`
@@ -589,6 +601,20 @@ However, the Philippines has shown that he is committed to the purpose of peace.
 [Data](articles/4f25c8f8.json)
 
 [Extended Data](ext_articles/4f25c8f8.ext.json)
+
+---
+
+### Capitalizing The Global Commons For Environmental Renewal
+
+*2024-07-13 15:35:44* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/capitalizing-the-global-commons-for-environmental-renewal/) · `en`
+
+The Identification and Mobilization of the Standing Stock in the Global Commons for Planetary Environmental Renewal
+
+The hypothesis that ‘what is unowned is un-marketed, what is un-marketed is under- priced, what is underpriced is mismanaged, overused and wasted’, has provided the underpinning of the market economy. However, a partial recognition of reality has enabled a flawed operation of this dictum causing the environment to become increasingly hostile to living things. A case in point is the ownership of forest lands. Where ownership was exercised, forests were owned by the communities who lived in and around them, unless there was a centralized command system such as organized kingdoms in which case forests were owned by the king. Today the right of such communities has been assumed by governments. Given the present Geopolitik, it is highly unlikely that any nation will surrender a perceived opportunity to exercise ‘ownership’ – Especially if it was a resource.
+
+...
+
+[Data](articles/f87dd646.json)
 
 ---
 
@@ -2213,41 +2239,5 @@ In addition, the Magistrate also ordered the Borella Police to investigate and s
 [Data](articles/5d76a17f.json)
 
 [Extended Data](ext_articles/5d76a17f.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 301.70/302.00 to US dollar
-
-*2024-07-12 17:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-301-70-302-00-to-us-dollar-171924/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 301.70/302.00 to the US dollar on Friday, from 302.80/303.00 to the US dollar on Thursday, dealers said, while bond yields were up.
-
-A bond maturing on 15.12.2026 closed at 10.90/11.00 percent, up from 10.85/95 percent.
-
-A bond maturing on 15.12.2027 closed at 11.75/80 percent, up from 11.80/88 percent.
-
-A bond maturing on 15.09.2029 closed at 12.10/30 percent, up from 12.15/25 percent. (Colombo/Jul12/2024)
-
-◼️
-
-[Data](articles/4b7e7d0a.json)
-
-[Extended Data](ext_articles/4b7e7d0a.ext.json)
-
----
-
-### Former Health Minister Keheliya further remanded
-
-*2024-07-12 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100467/former-health-minister-keheliya-further-remanded) · `en`
-
-Former Health Minister Keheliya Rambukwella and six others, arrested over the alleged importation of substandard human immunoglobulin vials, have been further remanded until July 25.
-
-The order was issued after the defendants were produced before the Maligakanda Magistrate’s Court on Friday (12).
-
-◼️
-
-[Data](articles/abdf54e5.json)
-
-[Extended Data](ext_articles/abdf54e5.ext.json)
 
 ---

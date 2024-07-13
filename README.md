@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 16:19:53**
+As of **2024-07-13 16:35:07**
 
 ## Newspaper Stats
 
-*Scraped **35,075** Articles*
+*Scraped **35,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 4,033
 tamilmirrorlk | 4,205
 dailymirrorlk | 4,733
 virakesarilk | 5,479
-adaderanasinhalalk | 5,843
+adaderanasinhalalk | 5,844
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,075 (100.0%) of 35,075 articles have been extended.
+35,075 (100.0%) of 35,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### දෙරණ ලිට්ල් ස්ටාර් 12 වන අදියරේ අවසන් මහා තරගය අද
+
+*2024-07-13 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198769) · `si`
+
+දෙරණ ලිට්ල් ස්ටාර්  12 වන අදියරේ අවසන් මහා තරගය අද (13) පැවැත්වෙයි.
+
+ටී.වී. දෙරණ ඔස්සේ රාත්‍රී 7.30 සිට ප්‍රේක්ෂක ඔබට එය නැරඹිය හැකිය.
+
+◼️
+
+[Data](articles/67e28516.json)
+
+---
 
 ### Will the Philippines rise against China?
 
@@ -2233,29 +2247,5 @@ He made the proposal, he said that the public service has been harmed by policie
 [Data](articles/26ea6c77.json)
 
 [Extended Data](ext_articles/26ea6c77.ext.json)
-
----
-
-### Youth
-
-*2024-07-12 14:59:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குப்பைகளை-கிளறி-சம்பாதிக்கும்-இளைஞர்/50-340298) · `ta`
-
-Leonardo Arbano made headlines for earning Rs 56.20 lakh in a year by recycling trash in Sydney, including turning junk like refrigerators and jewelry into valuable items. His daily routine involves cycling through the city's streets to collect discarded goods, showcasing his innovative approach to waste management.
-
-🟩
-
-The news that a youth has earned Rs 56.20 lakh in the same year by selling goods thrown into the garbage bins has gone viral.
-
-Leonardo Arbano earned Rs 56.20 lakh last year by collecting valuable items from garbage piles in Sydney, Australia.
-
-In addition, he invented large items and gold jewelery from these garbage piles, such as refrigerator, wardrobe and beds.
-
-After breakfast every day, it is said that he will find garbage piles on the streets of Sydney in his bicycle or car, and he will find different things every day.
-
-◼️
-
-[Data](articles/7242c703.json)
-
-[Extended Data](ext_articles/7242c703.ext.json)
 
 ---

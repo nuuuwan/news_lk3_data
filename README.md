@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 11:55:26**
+As of **2024-07-13 12:07:47**
 
 ## Newspaper Stats
 
-*Scraped **35,059** Articles*
+*Scraped **35,060** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 327
 bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,977
-economynextcom | 2,080
+economynextcom | 2,081
 dailyftlk | 2,219
 adalk | 3,160
 adaderanalk | 4,029
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,836
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,057 (100.0%) of 35,059 articles have been extended.
+35,059 (100.0%) of 35,060 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The minister was in Delhi for the BIMSTEC grouping’s foreign minister retreat.
 ...
 
 [Data](articles/24f229b7.json)
+
+[Extended Data](ext_articles/24f229b7.ext.json)
 
 ---
 
@@ -67,6 +69,8 @@ The Investigative Committee, the country’s top state criminal investigation ag
 ...
 
 [Data](articles/74e971f8.json)
+
+[Extended Data](ext_articles/74e971f8.ext.json)
 
 ---
 
@@ -425,6 +429,28 @@ If he observes excessive smoke, he added that if a maintenance order is not avai
 [Data](articles/73ac6a7e.json)
 
 [Extended Data](ext_articles/73ac6a7e.ext.json)
+
+---
+
+### Sri Lanka to recruit and train teachers to educate special needs students
+
+*2024-07-13 07:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-recruit-and-train-teachers-to-educate-special-needs-students-171947/) · `en`
+
+ECONOMYNEXT – Sri Lanka plans to recruit and train teachers to educate children with special needs, State Minister of Education Aravindh Kumar has said.
+
+“We need to have enough teachers for this area,” Kumar said on Friday. “As of now we’re lacking in this area, and we are on the verge of increasing our teachers in the area of special education.”
+
+“Once we get enough and more, it will be a common subject in every school.”
+
+Special needs may include learning disabilities or special educational needs such as dyslexia, ADHD or Asperger’s Syndrome, which require extra attention, or students may need to be taught skills to keep up with the syllabi.
+
+The lack of facilities and training for staff has undermined the education of students with special needs.
+
+A UNICEF study conducted in 2016 showed that 23.5 percent of Sri Lankan students living with disabilities are excluded from mainstream education.
+
+...
+
+[Data](articles/937d6ebf.json)
 
 ---
 
@@ -2241,27 +2267,5 @@ There are currently a large number of institutions that deal with the same subje
 [Data](articles/5cdecc0c.json)
 
 [Extended Data](ext_articles/5cdecc0c.ext.json)
-
----
-
-### Egg
-
-*2024-07-12 13:30:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டைக்கு-வற்-பொய்/175-340292) · `ta`
-
-The Ministry of Agriculture clarified that an association claiming to represent egg manufacturers plans to impose a VAT tax starting next year, despite eggs already being subject to an 18% tax. There are no plans to further increase the VAT tax. Despite a daily consumption of 7 million eggs in Sri Lanka increasing by 15% to 8.5 million this year, the ministry stated it had no intentions to raise the VAT tax next year.
-
-🟩
-
-The Ministry of Agriculture and Plantation Industries said that a particular association, which claims to be an egg manufacturer's association, will impose a VAT tax from next year to the media.
-
-Eggs are not the next year, but already on 18 percent tax. The Ministry of Agriculture said there was no plans to increase the VAT tax next year.
-
-Despite the daily consumption of 7 million eggs in Sri Lanka last year, the daily consumption of eggs increased by 15 percent this year. Currently, Sri Lanka's daily egg demand has increased to 8.5 million eggs
-
-◼️
-
-[Data](articles/4d744ac5.json)
-
-[Extended Data](ext_articles/4d744ac5.ext.json)
 
 ---

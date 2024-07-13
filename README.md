@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 11:20:36**
+As of **2024-07-13 11:36:07**
 
 ## Newspaper Stats
 
-*Scraped **35,056** Articles*
+*Scraped **35,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,61 @@ adaderanalk | 4,027
 tamilmirrorlk | 4,202
 dailymirrorlk | 4,733
 virakesarilk | 5,479
-adaderanasinhalalk | 5,835
+adaderanasinhalalk | 5,836
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,054 (100.0%) of 35,056 articles have been extended.
+35,056 (100.0%) of 35,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### வாகனங்களை வைத்திருப்போருக்கு கடுமையான எச்சரிக்கை
+### හිටපු ටෙස්ට් ක්‍රිකට් ක්‍රීඩක සචිත්‍රගේ නිවස කොල්ල කෑ සැකකරු අත්අඩංගුවට
+
+*2024-07-13 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198760) · `si`
+
+හිටපු ටෙස්ට් ක්‍රිකට් ක්‍රීඩක සචිත්‍ර සේනානායක මහතාට අයත් තලංගම කලල්ගොඩ ප්‍රදේශයේ නිවසකින් රුපියල් ලක්ෂ 50ට අධික වටිනාකමින් යුත් මුදල් හා භාණ්ඩ සොරාගත් පුද්ගලයෙකු කොට්ටාව පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+එහිදී සැකකරු විසින් ලැප්ටොප් පරිගණකයක්, ටැබ් 02ක්, වටිනා අත් ඔරලෝසු 5ක්, බ්‍රේස්ලට් 4ක්, මුදු 2ක් සහ මුදල් රුපියල් 10,000ක්  සොරාගෙන තිබේ.
+
+පසුව කොට්ටාව පොලීසිය විසින් සිදුකළ විමර්ශන අනුව සැකකරු හඳුනාගෙන ඇත.
+
+ඒ අනුව එම සොරා ගත් භාණ්ඩ සහ සොරකම සඳහා භාවිතා කළ යතුරුපැදියක් ද සැකකරුගේ නිවසේ  තිබී පොලිස් භාරයට ගෙන ති‌බේ.
+
+පොලීසිය පැවසුවේ මෙම සැකකරු මීට පෙර කොට්ටාව, තලංගම සහ මහරගම පොලිස් වසම් වල නිවෙස් හා වෙළෙඳසැල් බිද දේපොළ කොල්ලකෑමේ සිද්ධීන් ගණනාවකට බන්ධනාගාර ගතව සිට ඇප මත නිදහස්ව සිටින පුද්ගලයෙකු බවයි.
+
+සැකකරු නිවසට පැමිණෙන අයුරු පිටව යන අයුරු නිවසේ සවිකර තිබූ CCTV කැමරාවේ පටිගත වී තිබේ.
+
+◼️
+
+[Data](articles/3e087924.json)
+
+---
+
+### Strict warning to those who hold vehicles
 
 *2024-07-13 10:48:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகனங்களை-வைத்திருப்போருக்கு-கடுமையான-எச்சரிக்கை/175-340323) · `ta`
 
-அதிக புகையை வெளியிடும் வாகனங்களை கறுப்புப் பட்டியலில் சேர்க்க நடவடிக்கை எடுக்கப்படும் என மோட்டார் வாகன போக்குவரத்து  திணைக்களத்தின் வாகன புகை பரிசோதனை அறக்கட்டளை நிதியம் தெரிவித்துள்ளது.
+The Motor Vehicle Smoking Foundation Fund warns vehicle owners about excessive smoke issues. Drivers are urged not to seek smoke certificates for permits. Complaints can be made via 070 3500 525. Non-compliance may result in maintenance orders against vehicle owners.
 
-வீதியில் பயணிக்கும் இவ்வாறான வாகனங்கள் தொடர்பில் 070 3500 525 என்ற வட்ஸ்எப் இலக்கத்திற்கு முறைப்பாடுகளை அனுப்ப சந்தர்ப்பம் வழங்கப்பட்டுள்ளதாக அதன் பணிப்பாளர் தசுன் கமகே குறிப்பிட்டுள்ளார்.
+🟩
 
-வாகன அனுமதிப்பத்திரத்தை பெற்றுக் கொள்வதற்காக மாத்திரம் புகை சான்றிதழை பெற்றுக் கொள்ள வேண்டாம் என தசுன் கமகே சாரதிகளிடம் கோரிக்கை விடுக்கின்றார்.
+The Motor Vehicle Smoking Foundation Fund said that steps will be taken to include more smoke -free vehicles.
 
-அதிக புகை வெளியேறுவதை அவதானிக்கும் பட்சத்தில் சம்பந்தப்பட்ட வாகனத்தின் உரிமையாளருக்கு எதிராக பராமரிப்பு உத்தரவு பிறப்பிக்கப்படும் எனவும், இல்லையெனில் வாகனத்திற்கு தடை உத்தரவு பிறப்பிக்கப்படும் எனவும் அவர் மேலும் விளக்கமளித்துள்ளார். R
+Its Director Dasun Kamage said that the vehicles traveling on the road have been given the opportunity to send complaints to the Whatsfers of 070 3500 525.
+
+Dasun Kamage is asking the drivers not to obtain a smoke certificate to obtain a vehicle permit.
+
+He further explained that a maintenance order would be issued against the owner of the vehicle concerned if the excess smoke was out.. Remble
 
 ◼️
 
 [Data](articles/e62f2c80.json)
+
+[Extended Data](ext_articles/e62f2c80.ext.json)
 
 ---
 
@@ -112,17 +140,23 @@ Preliminary investigations have revealed that the suspect was engaged in cannabi
 
 ---
 
-### අද තද වැසි
+### Heavy rains today
 
 *2024-07-13 09:25:11* · [`adalk`](https://www.ada.lk/breaking_news/අද-තද-වැසි/11-410763) · `si`
 
-බස්නාහිර, සබරගමුව හා වයඹ පළාත්වලත් මහ නුවර, නුවරඑළිය, ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන අතර ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමාක තද වැසි ඇතිවිය හැකි යැයි කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+Heavy rainfall expected today across Western, Sabaragamuwa, North Western provinces, and in parts of Ampara and Batticaloa districts. Met Department forecasts over 50mm of rain, with showers possible throughout the day and night.
 
-ඌව පළාතෙත් අම්පාර හා මඩකළපුව දිස්ික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි යැයි එම දෙපාර්තමේන්තුව පවසයි.
+🟩
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa and North Western provinces and in some places. The Met Department said that there will be a heavy rains more than 50.
+
+Showers or thundershowers will occur at several places in the Ampara and Batticaloa districts, Ampara and Batticaloa districts, or even nights.
 
 ◼️
 
 [Data](articles/7575362c.json)
+
+[Extended Data](ext_articles/7575362c.ext.json)
 
 ---
 
@@ -2227,27 +2261,5 @@ The government has taken steps to increase the salary of public officials and em
 [Data](articles/5ff6aa69.json)
 
 [Extended Data](ext_articles/5ff6aa69.ext.json)
-
----
-
-### Prime Minister visits Jaffna
-
-*2024-07-12 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/188295) · `ta`
-
-Prime Minister Dinesh Gunawardena visited Jaffna, attending meetings and events including the opening of a new postal building, a business service center, and participating in the distribution of aid to fishermen's families.
-
-🟩
-
-Prime Minister Dinesh Gunawardena, Minister of State for Home Affairs, Provincial Councils and Local Government, visited Jaffna today (12).
-
-Earlier this morning, the Prime Minister, who attended the Jaffna District Development Committee meeting on Friday morning, will continue to participate in the opening of the new postal building in Sunnakam, the fishermen's families and the distribution of fishermen's families and the distribution of dry foods for fishermen's families and permanent appointment to the Public Employees' Committee on a temporary basis.
-
-The Prime Minister will attend the opening of the new Business Service Center in Kilinochchi District Secretariat and the Kilinochchi District Development Committee meeting.
-
-◼️
-
-[Data](articles/2ffcfed3.json)
-
-[Extended Data](ext_articles/2ffcfed3.ext.json)
 
 ---

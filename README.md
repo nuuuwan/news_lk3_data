@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 01:35:28**
+As of **2024-07-14 01:54:38**
 
 ## Newspaper Stats
 
-*Scraped **35,103** Articles*
+*Scraped **35,104** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,084
 dailyftlk | 2,219
 adalk | 3,160
 adaderanalk | 4,039
-tamilmirrorlk | 4,210
+tamilmirrorlk | 4,211
 dailymirrorlk | 4,733
 virakesarilk | 5,480
 adaderanasinhalalk | 5,854
@@ -26,9 +26,27 @@ adaderanasinhalalk | 5,854
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,103 (100.0%) of 35,103 articles have been extended.
+35,103 (100.0%) of 35,104 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-07-14 (Sunday)
+
+### இஸ்ரேலின்  தாக்குதலில் 71 பேர் பலி
+
+*2024-07-14 01:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலின்-தாக்குதலில்-71-பேர்-பலி/50-340344) · `ta`
+
+காசாவின் தெற்கு பகுதியில் இஸ்ரேல் நடத்திய தாக்குதலில் 71 பேர் கொல்லப்பட்டுள்ளனர் என ஹமாஸின் சுகாதார அமைச்சு தெரிவித்துள்ளது.
+
+கான் யூனிஸ் பகுதியில் நடத்தப்பட்டுள்ள இந்த  தாக்குதலில் 289 பேர் காயமடைந்துள்ளனர் என தெரிவிக்கப்பட்டுள்ளது.
+
+தாக்குதலில் காயமடைந்தவர்கள் நாசர் வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றனர் என சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.  (a)
+
+◼️
+
+[Data](articles/0bd77e4f.json)
+
+---
 
 ### 2024-07-13 (Saturday)
 
@@ -2233,23 +2251,5 @@ The cutting of his body parts and the outdoors out of the head has been recorded
 [Data](articles/39fb036f.json)
 
 [Extended Data](ext_articles/39fb036f.ext.json)
-
----
-
-### ADB approves $100mn loan for power sector reforms in Sri Lanka
-
-*2024-07-12 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100468/adb-approves-100mn-loan-for-power-sector-reforms-in-sri-lanka) · `en`
-
-The Asian Development Bank (ADB) approved a $100 million policy-based loan to support and facilitate reforms in Sri Lanka, aimed particularly at enhancing the financial sustainability of the power sector in the island country.
-
-As per a release from the regional development bank dated July 11, the Power Sector Reforms and Financial Sustainability Program will complement the International Monetary Fund’s Extended Fund Facility arrangement and bolster the operational efficiency and competitiveness of the island country’s power sector.
-
-The program will help create a conducive environment for private investments, boosting renewable energy development, and modernizing power grids.
-
-...
-
-[Data](articles/7d9acc44.json)
-
-[Extended Data](ext_articles/7d9acc44.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 19:19:47**
+As of **2024-07-13 19:35:22**
 
 ## Newspaper Stats
 
-*Scraped **35,088** Articles*
+*Scraped **35,090** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,45 +16,65 @@ islandlk | 1,977
 economynextcom | 2,082
 dailyftlk | 2,219
 adalk | 3,160
-adaderanalk | 4,036
+adaderanalk | 4,037
 tamilmirrorlk | 4,208
 dailymirrorlk | 4,733
-virakesarilk | 5,479
+virakesarilk | 5,480
 adaderanasinhalalk | 5,850
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,087 (100.0%) of 35,088 articles have been extended.
+35,088 (100.0%) of 35,090 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### මදූෂ්ගේ සුසානය ළඟ සලකුණක් තබා යයි
+### Some politicians focus solely on gaining power or ousting rivals from office - President
+
+*2024-07-13 19:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100487/some-politicians-focus-solely-on-gaining-power-or-ousting-rivals-from-office-president) · `en`
+
+President Ranil Wickremesinghe emphasized his commitment to building a robust economic framework that ensures long-term stability for future generations, steering away from short-term solutions that could risk economic collapse. He made these remarks today (13) during the inauguration of the state-of-the-art swimming pool at the Anuradhapura Central College.
+
+Reflecting on past economic and political crises, President Wickremesinghe highlighted the necessity of a national-level political apparatus capable of strategic governance beyond the five year electoral cycles. He underscored the need for governance focused not merely on short-term power dynamics but on sustainable national development.
+
+...
+
+[Data](articles/ce8562cd.json)
+
+---
+
+### Keadusch's Susan set a mark
 
 *2024-07-13 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198776) · `si`
 
-ඝාතනයට ලක්වූ සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්තගේ දේහය පිළිබඳ අවසන් කටයුතු අද (13) බොරැල්ල පොදු සුසාන භූමියේදී සිදුකෙරුණි.
+The funeral of Surendra Wasantha Perera, known as Club Wasantha, took place at the Borella Public Cemetery. A banner featuring his photo was displayed, urging caution. His foundation was adorned with white flowers. Perera, who planned to open a talent center in Athurugiriya, was tragically shot on the 8th. The event was attended by family and friends, with security provided by the police and STF.
 
-මෙවන් පසුබිමක මාකඳුරේ මදූෂ්ගේ දේහය භූමදන කර ඇති ගොඩිගමුව පොදු සුසාන භූමියේ ඉදිරිපස ඔහුගේ ඡායාරූපයක් සහිත බැනරයක් ප්‍රදාර්ශනය කර තිබූ බව අද දෙරණ වාර්තාකරු පැවසීය.
+🟩
 
-එහි සඳහන් කර තිබුණේ "අපේ අයියේ එක එක්කෙනා එවනවා. අපි එනකන් බලාගන්න." යනුවෙනි.
+The funeral of Surendra Wasantha Perera, or Club Wasantha, was held at the Borella Public Cemetery this morning.
 
-මේ අතර වසන්තගේ මුල්ගම වූ නුවරඑළිය නගරයද සුදුකොඩිවලින් සරසා තිබෙන අයුරු දක්නට ලැබූ බවද අප වාර්තාකරුවන් පැවසීය.
+The pedigamuwa front of Godigamuwa a banner with a photograph of his photo had been extended in the background of Makandira Madusch.
 
-අතුරුගිරිය ප්‍රදේශයේ ටැටූ මධ්‍යස්ථානයක් විවෘත කිරීමට ගිය සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත හා තවත් අයෙක් පසුගිය 8වනදා වෙඩිතබා ඝාතනය කෙරුණි.
+It said: "One one is sending us. Take care of it. ".
 
-ක්ලබ් වසන්තගේ දේහය තර්ජන මධ්‍යයේ ජයරත්න මල්ශාලාවේ තැන්පත් කිරීමෙන් අනතුරුව අද පස්වරුවේ බොරැල්ල පොදු සුසාන භූමියේදී ඥාතීන් විසින් අවසන් කටයුතු සිදු කළේය.
+Meanwhile, we said that Vedantha's foundation was found to be decorated with whiteagas.
 
-එහිදී ආරක්ෂාව සඳහා පොලීසිය හා විශේෂ කාර්ය බළකාය පැමිණ තිබුණි.
+Surendra Wasantha Perera, who was to open a tative center in Athurugiriya, was shot dead on the 8th.
 
-ඔහුට අවසන් ගෞරව සඳහා සමීපතමයන් පිරිසක් එක්ව සිටි බව වාර්තා වෙයි.
+The relatives of the Borella General Cemetery were finalized after the burial of Club Wasantha Malzala.
+
+The police and the STF had come to protect the security.
+
+It is reported that a group of closest holisons have joined him.
 
 ◼️
 
 [Data](articles/613181da.json)
+
+[Extended Data](ext_articles/613181da.ext.json)
 
 ---
 
@@ -161,6 +181,24 @@ The accident had occurred when the car slips with heavy rains and collided with 
 [Data](articles/17319fb7.json)
 
 [Extended Data](ext_articles/17319fb7.ext.json)
+
+---
+
+### பாதுகாப்பு வலயம் என அறிவிக்கப்பட்ட பகுதியில் இஸ்ரேல் தாக்குதல் - 71 பாலஸ்தீனியர்கள் பலி
+
+*2024-07-13 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/188374) · `ta`
+
+காசாவின் ஹான் யூனிசில் உள்ள அல்மவாசி பகுதியில் இஸ்ரேல் மேற்கொண்ட தாக்குதலில் 71 கொல்லப்பட்டுள்ளனர்.
+
+இஸ்ரேலிய இராணுவம் பாதுகாப்பு வலயம் என அறிவித்த பகுதியிலேயே இந்த தாக்குதலை மேற்கொண்டுள்ளது.
+
+இந்த தாக்குதல் குறித்து விசாரணைகைளை மேற்கொண்டுள்ளதாக தெரிவித்துள்ள இஸ்ரேலிய இராணுவம் ஹமாசின் சிரேஸ்ட தலைவர் ஒருவரை இலக்குவைத்தே இந்த தாக்குதல் மேற்கொள்ளப்பட்டதாக தெரிவித்துள்ளது.
+
+தாக்குதல் இடம்பெற்ற பகுதி பூகம்பம்தாக்கிய பகுதி போல காணப்படுவதாக சம்பவத்தை நேரில் பார்த்த ஒருவர் பிபிசியிடம் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/6a5f29dc.json)
 
 ---
 
@@ -2205,53 +2243,5 @@ The Defense Institute was constructed by President Ranil Wickremesinghe, who was
 [Data](articles/78845da9.json)
 
 [Extended Data](ext_articles/78845da9.ext.json)
-
----
-
-### Opposition MPs make request to Election Commission on prez polls
-
-*2024-07-12 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100464/opposition-mps-make-request-to-election-commission-on-prez-polls) · `en`
-
-A group of Members of Parliament from the opposition have sent a letter to the Election Commission, requesting that the Presidential Election be held on the earliest possible date in order to prevent any attempts to delay polls.
-
-Accordingly, the parliamentarians urged the commission to exercise its maximum legal authority to ensure the election is conducted in a free and fair atmosphere.
-
-The letter has been signed by a majority of opposition MPs including members of the Samagi Jana Balawegaya (SJB) as well other independent opposition MPs.
-
-The letter states: “It is no secret that the current government, worried about the possible loss in the upcoming presidential election, is making various efforts to postpone the presidential election scheduled for year 2024.”
-
-...
-
-[Data](articles/84616378.json)
-
-[Extended Data](ext_articles/84616378.ext.json)
-
----
-
-### Newborn Plump
-
-*2024-07-12 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198744) · `si`
-
-The Sri Lanka Police imported 35 English Spaniels from the Netherlands on June 5th. These dogs, including two pairs that have produced 13 chicks, are part of the Police Independent Dog Division. Another female is expected to give birth soon. The division reports that all offspring are healthy, housed at the Asgiriya Police station in Kundasale, Kandy. This initiative is projected to save over Rs. 25 million.
-
-🟩
-
-The Sri Lanka Police had imported 35 official dogs from the Netherlands on June 5.
-
-Two balloons have produced 13 chicks.
-
-The Police Independent Dog Division says another female animal is ready to produce chicks.
-
-The official dog is the official dog named English Spaniel, three males and three males and 3 females have produced three males and 4 females.
-
-The Police Official Dog Division says that the calves are healthy at the Asgiriya Police, in the Kundasale, Kandy.
-
-The Sri Lankan Police will save more than Rs. 25 million from the emergence of new litups.
-
-◼️
-
-[Data](articles/a09d5ee6.json)
-
-[Extended Data](ext_articles/a09d5ee6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 11:05:27**
+As of **2024-07-13 11:20:36**
 
 ## Newspaper Stats
 
-*Scraped **35,054** Articles*
+*Scraped **35,056** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,977
 economynextcom | 2,080
 dailyftlk | 2,219
-adalk | 3,159
+adalk | 3,160
 adaderanalk | 4,027
-tamilmirrorlk | 4,201
+tamilmirrorlk | 4,202
 dailymirrorlk | 4,733
 virakesarilk | 5,479
 adaderanasinhalalk | 5,835
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,835
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,051 (100.0%) of 35,054 articles have been extended.
+35,054 (100.0%) of 35,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### வாகனங்களை வைத்திருப்போருக்கு கடுமையான எச்சரிக்கை
+
+*2024-07-13 10:48:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகனங்களை-வைத்திருப்போருக்கு-கடுமையான-எச்சரிக்கை/175-340323) · `ta`
+
+அதிக புகையை வெளியிடும் வாகனங்களை கறுப்புப் பட்டியலில் சேர்க்க நடவடிக்கை எடுக்கப்படும் என மோட்டார் வாகன போக்குவரத்து  திணைக்களத்தின் வாகன புகை பரிசோதனை அறக்கட்டளை நிதியம் தெரிவித்துள்ளது.
+
+வீதியில் பயணிக்கும் இவ்வாறான வாகனங்கள் தொடர்பில் 070 3500 525 என்ற வட்ஸ்எப் இலக்கத்திற்கு முறைப்பாடுகளை அனுப்ப சந்தர்ப்பம் வழங்கப்பட்டுள்ளதாக அதன் பணிப்பாளர் தசுன் கமகே குறிப்பிட்டுள்ளார்.
+
+வாகன அனுமதிப்பத்திரத்தை பெற்றுக் கொள்வதற்காக மாத்திரம் புகை சான்றிதழை பெற்றுக் கொள்ள வேண்டாம் என தசுன் கமகே சாரதிகளிடம் கோரிக்கை விடுக்கின்றார்.
+
+அதிக புகை வெளியேறுவதை அவதானிக்கும் பட்சத்தில் சம்பந்தப்பட்ட வாகனத்தின் உரிமையாளருக்கு எதிராக பராமரிப்பு உத்தரவு பிறப்பிக்கப்படும் எனவும், இல்லையெனில் வாகனத்திற்கு தடை உத்தரவு பிறப்பிக்கப்படும் எனவும் அவர் மேலும் விளக்கமளித்துள்ளார். R
+
+◼️
+
+[Data](articles/e62f2c80.json)
+
+---
 
 ### Special notice from Motor Traffic Dept. to vehicle owners
 
@@ -50,6 +68,8 @@ He further explained that if excessive emission of smoke is observed, a maintena
 
 [Data](articles/206f7a52.json)
 
+[Extended Data](ext_articles/206f7a52.ext.json)
+
 ---
 
 ### Satellite launch planned for next year - ACCIMT
@@ -65,6 +85,8 @@ He made these remarks while participating in a programme aimed at educating stud
 ◼️
 
 [Data](articles/a7030acf.json)
+
+[Extended Data](ext_articles/a7030acf.ext.json)
 
 ---
 
@@ -90,31 +112,55 @@ Preliminary investigations have revealed that the suspect was engaged in cannabi
 
 ---
 
-### ප්‍රදේශ කිහිපයකින් වාර්තා වූ ඝාතන
+### අද තද වැසි
+
+*2024-07-13 09:25:11* · [`adalk`](https://www.ada.lk/breaking_news/අද-තද-වැසි/11-410763) · `si`
+
+බස්නාහිර, සබරගමුව හා වයඹ පළාත්වලත් මහ නුවර, නුවරඑළිය, ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන අතර ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමාක තද වැසි ඇතිවිය හැකි යැයි කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+ඌව පළාතෙත් අම්පාර හා මඩකළපුව දිස්ික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි යැයි එම දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/7575362c.json)
+
+---
+
+### Murder reported in several areas
 
 *2024-07-13 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198759) · `si`
 
-මනුෂ්‍ය ඝාතන 3ක් සම්බන්ධයෙන් පොලිස් මාධ්‍ය ඒකකය තොරතුරු වාර්තා කර තිබේ.
+In various locations, three murders occurred, one in Pothupu Rambala involving a 45-year-old Rakwana resident over a dispute, another attack on a 60-year-old Ranapalene in Rathgama, and a third incident where a 42-year-old from Chandenagama died after a family argument. Investigations are ongoing.
 
-එම ඝාතන ඊයේ (12 ) දිනයේ අලුයම සහ රාත්‍රී කාලයේ සිදු වී ඇති බව පොලීසිය පවසයි.
+🟩
 
-ඒ අතුරින් එක් ඝාතනයක් වාර්තා වී ඇත්තේ ඊයේ (12) අළුයම පොතුපිටිය රඹුක, පින්නගොඩැල්ල ප්‍රදේශයෙනි.
+Police Media Unit has reported information on three murders.
 
-එම ප්‍රදේශයේ නිවසක් අසල පුද්ගලයෙකු තුවාල සහිතව මියගොස් සිටින බවට පොලීසිය ලද තොරතුරක් මත විමර්ශන ආරම්භ කර ඇත.
+The killings have taken place in the morning and night.
 
-එහිදී අනාවරණය වී ඇත්තේ මෙම පුද්ගලයා අසල්වැසි කාන්තාවකට අයුතු යෝජනාවක් සිදු කිරීම හේතුවෙන්  එම කාන්තාවගේ පුරුෂයා තවත් පුද්ගලයින් දෙදෙනෙකු සමග පැමිණ පොලු වලින් පහර දී මෙම ඝාතනය සිදුකර ඇති බවය.
+One of them has been reported from the Pothupu Rambala, Pothupella area.
 
-මියගොස් ඇත්තේ 45 හැවිරිදි රඹුක, රක්වාන ප්‍රදේශයේ පදිංචිව සිටි පුද්ගලයෙකි.
+Investigations have commenced on information received by a person who had been killed in a house near the house in the area.
 
-සැකකරුවන් 28 යා 35 යන වයස්වල පසුවන එම ප්‍රදේශයේම පදිංචිකරුවන් බව වාර්තා වේ.
+The man had revealed that the woman's husband had come up with two other people and assaulted the murder as a result of an injustice proposal to a neighborhood.
 
-මේ අතර ඊයේ රාත්‍රියේ රත්ගම රණපනාදෙනිය ප්‍රදේශයේ පුද්ගලයෙකු තියුණු ආයුධයකින් පහර දී ඝාතනය කර තිබේ.
+The deceased has been identified as a 45 year old resident of Rakwana.
 
-මෙලෙස ඝාතනයට ලක් ව ඇත්තේ 60 හැවිරිදි රණපනාදෙනිය රත්ගම ප්‍රදේශයේ ම පදිංචිකරුවෙකි.
+The suspects are residents of the area.
+
+Meanwhile, a person has been attacked with a sharp object last night.
+
+The victim is a 60 year old Ranapalene, a resident of Rathgama.
+
+Investigations have revealed that the murder of the coconut tunnel had taken place in the coconut shelter, which was in the coconut businessman who had been in the coconut businessman.
+
+The cause of the murder or who carried out it, the Ratgama Police are conducting further investigations.
 
 ...
 
 [Data](articles/d1aeda74.json)
+
+[Extended Data](ext_articles/d1aeda74.ext.json)
 
 ---
 
@@ -2203,57 +2249,5 @@ The Prime Minister will attend the opening of the new Business Service Center in
 [Data](articles/2ffcfed3.json)
 
 [Extended Data](ext_articles/2ffcfed3.ext.json)
-
----
-
-### 2 buses carrying at least 60 swept into river by landslide in Nepal
-
-*2024-07-12 12:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100461/2-buses-carrying-at-least-60-swept-into-river-by-landslide-in-nepal) · `en`
-
-At least 60 people were believed missing in Nepal after two buses were swept by a landslide off a highway and into a swollen river early Friday.
-
-Three passengers were rescued as the continuous rain made rescue efforts difficult.
-
-The three survivors were being treated in the hospital, government administrator Khima Nanada Bhusal said, adding that they reportedly jumped out of the bus and swam to the banks, where locals found them and took them to a nearby hospital.
-
-Landslides also blocked routes to the area in several places, according to Bhusal. Additional rescuers and security forces have been sent to help with rescue efforts.
-
-The buses were swept off the highway around 3 a.m. near Simaltal, about 120 kilometers (75 miles) west of the capital, Kathmandu.
-
-One bus was carrying at least 24 people, while the other had at least 42, but more could have boarded en route, Bhusal said.
-
-...
-
-[Data](articles/e8fde62d.json)
-
-[Extended Data](ext_articles/e8fde62d.ext.json)
-
----
-
-### Yall. Teaching
-
-*2024-07-12 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188282) · `ta`
-
-The Bone Marrow Transplant Unit at Jaffna Teaching Hospital, Sri Lanka, treats blood cancer and related diseases, reducing overseas treatment costs. It features two specialized rooms accommodating two patients per month. Despite challenges, the unit's launch, guided by the Ministry of Health, marks significant progress, with Health Minister Ramesh Pathirana set to officiate the opening soon.
-
-🟩
-
-Bone Marrow Transplant Unit has been opened at the Jaffna Teaching Hospital, which can provide for the treatment of blood cancer and its accompanying diseases.
-
-In Sri Lanka, the Jaffna Bodhana Hospital is registered as the third station in the Maharagama Hospital and the Colombo Child Hospital.
-
-Millions of millions of expenses will be expected if this treatment is available overseas such as private hospital or India.
-
-This treatment contains more complex issues. As well as two special bedrooms. So only two people can treat only one month.
-
-Based on the guidelines of the Ministry of Health, the hard work of doctors has been launched amidst many difficulties.
-
-It was reported that the Minister of Health, Ramesh Pathirana, will be officially launched on the next day.
-
-◼️
-
-[Data](articles/8d554f9d.json)
-
-[Extended Data](ext_articles/8d554f9d.ext.json)
 
 ---

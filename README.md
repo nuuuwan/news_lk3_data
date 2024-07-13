@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 10:35:18**
+As of **2024-07-13 10:53:41**
 
 ## Newspaper Stats
 
-*Scraped **35,051** Articles*
+*Scraped **35,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ islandlk | 1,977
 economynextcom | 2,080
 dailyftlk | 2,219
 adalk | 3,159
-adaderanalk | 4,025
+adaderanalk | 4,026
 tamilmirrorlk | 4,201
 dailymirrorlk | 4,733
 virakesarilk | 5,479
-adaderanasinhalalk | 5,834
+adaderanasinhalalk | 5,835
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,051 (100.0%) of 35,051 articles have been extended.
+35,051 (100.0%) of 35,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### Satellite launch planned for next year - ACCIMT
+
+*2024-07-13 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100474/satellite-launch-planned-for-next-year-accimt) · `en`
+
+The Arthur C. Clarke Institute for Modern Technologies (ACCIMT) has plqnned to launch a satellite next year.
+
+Chairman of the institute Prof. Chandana Jayaratne emphasized the need for further infrastructure development to educate school children regarding satellite technology.
+
+He made these remarks while participating in a programme aimed at educating students on the subject.
+
+◼️
+
+[Data](articles/a7030acf.json)
+
+---
 
 ### Woman arrested with over 80kg of Ganja in Chavakachcheri
 
@@ -54,6 +70,34 @@ Preliminary investigations have revealed that the suspect was engaged in cannabi
 
 ---
 
+### ප්‍රදේශ කිහිපයකින් වාර්තා වූ ඝාතන
+
+*2024-07-13 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198759) · `si`
+
+මනුෂ්‍ය ඝාතන 3ක් සම්බන්ධයෙන් පොලිස් මාධ්‍ය ඒකකය තොරතුරු වාර්තා කර තිබේ.
+
+එම ඝාතන ඊයේ (12 ) දිනයේ අලුයම සහ රාත්‍රී කාලයේ සිදු වී ඇති බව පොලීසිය පවසයි.
+
+ඒ අතුරින් එක් ඝාතනයක් වාර්තා වී ඇත්තේ ඊයේ (12) අළුයම පොතුපිටිය රඹුක, පින්නගොඩැල්ල ප්‍රදේශයෙනි.
+
+එම ප්‍රදේශයේ නිවසක් අසල පුද්ගලයෙකු තුවාල සහිතව මියගොස් සිටින බවට පොලීසිය ලද තොරතුරක් මත විමර්ශන ආරම්භ කර ඇත.
+
+එහිදී අනාවරණය වී ඇත්තේ මෙම පුද්ගලයා අසල්වැසි කාන්තාවකට අයුතු යෝජනාවක් සිදු කිරීම හේතුවෙන්  එම කාන්තාවගේ පුරුෂයා තවත් පුද්ගලයින් දෙදෙනෙකු සමග පැමිණ පොලු වලින් පහර දී මෙම ඝාතනය සිදුකර ඇති බවය.
+
+මියගොස් ඇත්තේ 45 හැවිරිදි රඹුක, රක්වාන ප්‍රදේශයේ පදිංචිව සිටි පුද්ගලයෙකි.
+
+සැකකරුවන් 28 යා 35 යන වයස්වල පසුවන එම ප්‍රදේශයේම පදිංචිකරුවන් බව වාර්තා වේ.
+
+මේ අතර ඊයේ රාත්‍රියේ රත්ගම රණපනාදෙනිය ප්‍රදේශයේ පුද්ගලයෙකු තියුණු ආයුධයකින් පහර දී ඝාතනය කර තිබේ.
+
+මෙලෙස ඝාතනයට ලක් ව ඇත්තේ 60 හැවිරිදි රණපනාදෙනිය රත්ගම ප්‍රදේශයේ ම පදිංචිකරුවෙකි.
+
+...
+
+[Data](articles/d1aeda74.json)
+
+---
+
 ### One dead, 5 injured in clash during musical show
 
 *2024-07-13 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100472/one-dead-5-injured-in-clash-during-musical-show) · `en`
@@ -68,7 +112,11 @@ Five others were injured in the incident and have been admitted to Tangalle and 
 
 However, their condition is not serious, according to a hospital spokesperson.
 
-◼️
+According to police, a member of the musical show’s organising committee had intervened to resolve a dispute between a vendor and a group of persons who had come to watch the musical show.
+
+However, the group had then proceeded to assault the organising committee member who had intervened. As a result of this, other members of the organising committee had then attacked the group of youths in question while one of them had used a sharp weapon.
+
+...
 
 [Data](articles/110e86bc.json)
 
@@ -2207,53 +2255,5 @@ A passenger from Alagiyawanna’s constituency of Gampaha District was killed af
 [Data](articles/1de3fbf1.json)
 
 [Extended Data](ext_articles/1de3fbf1.ext.json)
-
----
-
-### Sri Lanka visa deal with IVS-VFS be cancelled or revised, forensic audited: COPF Chief
-
-*2024-07-12 12:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-visa-deal-with-ivs-vfs-be-cancelled-or-revised-forensic-audited-copf-chief-171869/) · `en`
-
-ECONOMYNEXT – The parliament’s Committee on Public Finance has recommended that the controversial GBS-IVS, VFS Global visa deal be abrogated or revised and the award of the deal without tenders should be forensic audited, its Chairman Harsha de Silva said.
-
-The contract was awarded without a competitive tender and no specifications.
-
-“The Consortium was appointed without a competitive bidding process, preventing the Department of Immigration and Emigration from securing the best value for money,” de Silva after submitting a report by the COPF to parliament.
-
-The GBS-IVS, VFS Global was charging costs around 25 dollars per visa but Mobitel was charging only 1 dollar.
-
-The systems were different by there were no specifications issued to bid as is found in all procurements and tenders.
-
-“If there were specifications and tenders, anyone including Mobitel or any other global company could have responded,” de Silva told parliament Friday.
-
-...
-
-[Data](articles/593b3f1b.json)
-
-[Extended Data](ext_articles/593b3f1b.ext.json)
-
----
-
-### Sri Lanka to revise speed limits, Police given speed control equipment: State minister
-
-*2024-07-12 12:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-revise-speed-limits-police-given-speed-control-equipment-state-minister-171863/) · `en`
-
-ECONOMYNEXT – Sri Lanka will issue a gazette with new road speed limit regulations, in a bid to reduce accidents, State Minister of Transport, Lasantha Alagiyawanna said.
-
-“The Ministry of Transport will issue a gazette with new road speed limit regulations within the next two weeks,” Alagiyawanna told reporters.
-
-In 2023, there were 2,214 reported road accidents resulting in 2,321 deaths. As of the 30th of June, 1,103 road accidents have been reported this year, with 1,154 fatalities, the State Minister said.
-
-“To address this issue, our Ministry has implemented various programs aimed at reducing the number of road accidents.”
-
-The National Council for Road Safety has allocated 50 million rupees to the Sri Lanka Police for the purchase of necessary speed control equipment.
-
-Teachers will also be provided manuals for establishing Road Safety Clubs at the school level.
-
-...
-
-[Data](articles/979131fe.json)
-
-[Extended Data](ext_articles/979131fe.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 13:04:54**
+As of **2024-07-13 13:20:08**
 
 ## Newspaper Stats
 
-*Scraped **35,062** Articles*
+*Scraped **35,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 4,030
 tamilmirrorlk | 4,202
 dailymirrorlk | 4,733
 virakesarilk | 5,479
-adaderanasinhalalk | 5,836
+adaderanasinhalalk | 5,837
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,062 (100.0%) of 35,062 articles have been extended.
+35,062 (100.0%) of 35,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### අම්බානි පුතුගේ විවාහයේ වාර්තා පිට වාර්තා
+
+*2024-07-13 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198761) · `si`
+
+යුගයේ වැඩිම පිරිවැයක් දැරූ විවාහය ලෙස වාර්තා වන ඉන්දීය ධන කුවේර මුකේෂ් අම්බානිගේ පුතු වන ආනන්ත් අම්බානි සහ රාධිකා මර්චන්ට් අතර තෙදින විවාහ මංගල උත්සවය මුම්බායි හිදී පැවැත් වෙයි.
+
+ඒ හොලිවුඩ්, බොලිවුඩ් තරු මෙන්ම ලොව ප්‍රමුඛ පෙළේ දේශපාලනඥයින්ගේ ද සහභාගිත්වයෙනි.
+
+ආනන්ත් - රාධිකා විවාහයට ඉන්දීය රුපියල් කෝටි 5,000 ඉක්මවූ මුදලක් වැය වී ඇති අතර එය මුකේෂ් අම්බානිගේ පූර්ණ වත්කමෙන් සියයට 0.5ක් පමණක් වන බව වාර්තා වෙයි.
+
+අමෙරිකානු ඩොලර් බිලියන 115ක වත්කමක් ඇතැයි සැලකෙන ඉන්දීය ධන කුවේර මුකේෂ් අම්බානිගේ පුතු වන ආනන්ත් අම්බානිගේ විවාහ මංගල්‍ය ලොව පුරා අවධානය දිනා ඇති විවාහ මංගල්‍යයකි.
+
+ඊට සමගාමීව ප්‍රිය සම්භාෂණ ආරම්භ වුණේ පසුගිය මාර්තු මාසයේ ගුජරාට් හි පැවති දින තුනක පූර්ව විවාහ සැමරුමකිනි.
+
+ඒ සඳහා දහස ඉක්මවූ ආරාධිතයින් පිරිසක් එක්ව සිටි අතර ඊට ලොව ප්‍රමුඛ පෙළේ කලාකරුවන් දේශපාලනඥයින් මෙන්ම මාර්ක් සකර්බර්ග්, බිල් ගේට්ස් ඇතුළු ලොව ප්‍රමුඛ පෙළේ ව්‍යාපාරිකයින් එක්විය.
+
+එම අවස්ථාවට ලෝක ප්‍රකට ගායිකා රියාන ද එක්වී තිබුණේ, ඩොලර් මිලියන 7ක මුදලකටය.
+
+...
+
+[Data](articles/031e7d34.json)
+
+---
 
 ### Suspect arrested over burglary of ex-cricketer Sachithra Senanayake’s house
 
@@ -2233,31 +2257,5 @@ Speaking to the 50-year-old Sumathari, who serves a large number of people, shou
 [Data](articles/46938cb7.json)
 
 [Extended Data](ext_articles/46938cb7.ext.json)
-
----
-
-### Illegal seizure of cows carrying cows
-
-*2024-07-12 13:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/188293) · `ta`
-
-Early today, Kandakettiya police intercepted a Polorro race carriage transporting 9 cows and 6 saplings, leading to a chase as suspects fled the scene. The vehicle contained 3 cows, one of which was found dead. Authorities, including Mangala Dissanayake from the Kandakettiya Police Station, are investigating the incident.
-
-🟩
-
-Kandakettiya police said that a Polorro race carriage carrying cows illegally was seized by 9 cows this morning with 9 cows.
-
-According to the confidential information received by the Kandakettiya Police Station Mangala Dissanayake, a police team led by the Superintendent of Police in charge of the police station at around 2.30 am.
-
-The suspects in the vehicle have fled the road and fled the vehicle and the police are in the process of arresting the suspects.
-
-The vehicle had 3 cows and 6 saplings and one of them was found dead, police said.
-
-Badulla District Police Inspector Sujith Wetamulla Badulla Senior Superintendent of Police, Vasantha Kandewatta Police Superintendent BM Jayawardena, Kandakettiya Police Station, Mangala Dissanayake is being investigated.
-
-◼️
-
-[Data](articles/0dfcc163.json)
-
-[Extended Data](ext_articles/0dfcc163.ext.json)
 
 ---

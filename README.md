@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 08:54:08**
+As of **2024-07-13 09:05:27**
 
 ## Newspaper Stats
 
-*Scraped **35,046** Articles*
+*Scraped **35,047** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,977
 economynextcom | 2,080
 dailyftlk | 2,219
 adalk | 3,158
-adaderanalk | 4,022
+adaderanalk | 4,023
 tamilmirrorlk | 4,200
 dailymirrorlk | 4,733
 virakesarilk | 5,479
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,046 (100.0%) of 35,046 articles have been extended.
+35,046 (100.0%) of 35,047 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### Fairly heavy showers expected in parts of the country
+
+*2024-07-13 08:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100471/fairly-heavy-showers-expected-in-parts-of-the-country-) · `en`
+
+The Meteorology Department says showers  or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night , it said.
+
+Strong winds of about 40-50 kmph can be expected at times in Northern and North-central provinces and in Trincomalee and Hambantota districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/4713705a.json)
+
+---
 
 ### Mother for sale with son
 
@@ -2237,27 +2255,5 @@ It is reported that landslides have begun operations in search of passengers.
 [Data](articles/7bb92645.json)
 
 [Extended Data](ext_articles/7bb92645.ext.json)
-
----
-
-### Buses on the river with 60 people
-
-*2024-07-12 11:19:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/60-பேருடன்-ஆற்றில்-சென்ற-பேருந்துகள்/50-340281) · `ta`
-
-In early Friday hours, two buses carrying 63 passengers were hit by a landslide on the Madan-Ashrit highway in Nepal due to heavy rain, causing them to be swept away by the flooded Trisuli river. Rescue efforts are ongoing.
-
-🟩
-
-Two passenger buses were hit by a landslide in the early hours of Friday (12) on the Madan-Ashrit highway in Central Nepal. It has been reported that the buses were 63 passengers.
-
-Due to heavy rains in Nepal, the Trisuli river floods. Due to this, two buses on the road were hit by a landslide on the Madan -Ashrit highway and at around 3.30 am on Friday (12).
-
-There are 63 passengers on both buses. The search for passengers on the bus is underway. It is said that the bus was swept away in the Trisoli River, which is a disruption of search and rescue mission.
-
-◼️
-
-[Data](articles/b1341208.json)
-
-[Extended Data](ext_articles/b1341208.ext.json)
 
 ---
